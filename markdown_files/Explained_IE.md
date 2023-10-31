@@ -1,3 +1,8 @@
+Tue, 31 Oct 2023 09:03:11 +0000
+### [What is Apple’s ‘state-sponsored attackers’ alert, received by multiple Opposition leaders?](https://indianexpress.com/article/explained/explained-sci-tech/apple-state-sponsored-attackers-alert-opposition-explained-9007362/)
+
+Apple has been sending notifications to individuals in 150 countries when it suspects they are being targeted by state-sponsored attackers. The notifications advise users on how to protect themselves, including activating the 'Lockdown Mode' feature on their iPhones. Apple clarified that it does not attribute the threat notifications to any specific attacker and that false alarms are possible. State-sponsored attacks are costly, sophisticated, and designed to evade detection. Apple's system detects activity that matches certain patterns but acknowledges that its threat intelligence signals are not always perfect. The company sends out threat notifications via email and iMessage and provides additional steps for users to protect their devices and privacy. Apple recommends updating software, setting a passcode, enabling two-factor authentication, using strong passwords, downloading apps only from the App Store, and avoiding unknown sources. Lockdown Mode, available on certain devices, restricts functions to prevent attackers from accessing personal information. Apple urges users to take threat notifications seriously and follow recommended steps to secure their devices and accounts.
+
 Mon, 30 Oct 2023 13:01:43 +0000
 ### [What the rapid ice melt in West Antarctica means](https://indianexpress.com/article/explained/explained-climate/ice-sheet-melt-west-antarctica-9006179/)
 

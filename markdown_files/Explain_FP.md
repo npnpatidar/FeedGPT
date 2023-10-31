@@ -1,3 +1,13 @@
+Tue, 31 Oct 2023 17:40:01 +0530
+### [In Graphics | Which countries have the longest and shortest workweek? Where does India stand?](https://www.firstpost.com/explainers/in-graphics-which-countries-have-the-longest-and-shortest-workweek-where-does-india-stand-13324422.html)
+
+Infosys founder Narayana Murthy's comments urging young people in India to work 70 hours a week have sparked a debate on long working hours and productivity. While some CEOs agree with his statement, others question if longer work hours actually lead to better productivity. The discussion has prompted questions about the number of work hours employees across the world work and which countries have the longest and shortest workweeks.Infosys founder Narayana Murthy's comments on a 70-hour workweek have sparked a debate on long working hours and productivity. His call for increased work hours has received mixed reactions, with some supporting his idea and others questioning the correlation between longer hours and productivity. However, RPG Enterprises chairman Harsh Goenka argues that it's not about the number of hours worked, but rather about ambition, purpose, and productivity. The article also raises the question of how many hours employees work around the world and which countries have the longest and shortest workweeks.
+
+Tue, 31 Oct 2023 15:06:06 +0530
+### [In Graphics | Sleep, work, repeat: How most people spend their 24 hours](https://www.firstpost.com/explainers/in-graphics-sleep-work-repeat-how-most-people-spend-their-24-hours-13323132.html)
+
+This article discusses how people spend their time and highlights the importance of managing time effectively. It mentions that everyone has only 24 hours in a day and explores the various ways in which people choose to spend their time, such as exploring hobbies, working hard, and seeking adventures. The article also mentions that scientists have collected data on how individuals around the world spend their time and have determined the typical "global human day."This article discusses how people spend their time and highlights the importance of managing time effectively. It mentions that everyone has only 24 hours in a day and explores the various ways in which people choose to spend their time, such as exploring hobbies, working hard, and seeking adventures. The article also mentions that scientists have collected data on how individuals around the world spend their time and have determined the typical "global human day."
+
 Sun, 29 Oct 2023 17:32:44 +0530
 ### [FirstUp: Mumbai's ‘Kaali-Peeli cabs to go off roads: What to expect today?](https://www.firstpost.com/explainers/firstup-mumbais-kaali-peeli-cabs-modi-in-gujarat-jio-mami-festival-apple-scary-fast-news-13314722.html)
 

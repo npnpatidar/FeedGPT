@@ -1,3 +1,18 @@
+Tue, 31 Oct 2023 11:54:24 +0000
+### [What makes ‘Kaala Paani’ such a compelling watch](https://indianexpress.com/article/opinion/columns/what-makes-kaala-paani-such-a-compelling-watch-9007657/)
+
+The article discusses the Netflix series "Kaala Paani" and how it reflects the uncertainties and fears brought about by the COVID-19 pandemic. Set in the year 2027 on the Andaman and Nicobar Islands, the series portrays a world that has already battled COVID-19 and is now facing a similar waterborne disease called LHF-27. The series captures the feeling of uncertainty and the everyday presence of death that the pandemic has left behind.
+
+The article highlights how the series remembers the dominant feeling of uncertainty and the transient nature of life that the pandemic has brought. Characters in the series, including those who are doing good and seem deserving of a full life, are cut short, emphasizing the randomness and illogicality of death. The survival of characters is not based on their responsibility but on luck and privilege, highlighting the theme of survival of the fittest.
+
+The series also tackles themes of unequal power struggles and the impact of capitalist greed on society. The Orakas, a fictional tribal group, are the only ones who understand how to live in harmony with the natural world and are safe from the virus. However, their existence is precarious in a society driven by capitalist greed.
+
+The article suggests that the series raises questions about what it means to be human and live in a world where things seem out of control. Each character offers different answers to this question, and the series challenges the notion that taking care only of our own interests is the correct answer. It emphasizes the importance of small acts of care and hope in the face of uncertainty.
+
+The article concludes by drawing a parallel between the series and the current situation in Palestine, where people are facing unimaginable cruelty and violence. Despite the absence of a virus to blame, people in Palestine continue to show care for one another, offering a glimmer of hope in difficult times.
+
+Overall, the article highlights the relevance of "Kaala Paani" in reflecting the uncertainties and fears of the post-COVID world and the importance of care and hope in such times.
+
 Tue, 31 Oct 2023 03:33:23 +0000
 ### [October 31, Forty Years Ago: Turkey Earthquake](https://indianexpress.com/article/opinion/40-years-ago/october-31-forty-years-ago-turkey-earthquake-9006830/)
 

@@ -1,3 +1,8 @@
+Tue, 31 Oct 2023 17:43:42 +0530
+### [Vantage | Why Maldives economy must be Muizzu's priority not 'India out' politics](https://www.firstpost.com/opinion/vantage-why-maldives-economy-must-be-muizzus-priority-not-india-out-politics-13325022.html)
+
+The incoming President of Maldives, Mohamed Muizzu, has expressed his desire to remove the Indian military presence in the country. He plans to hold diplomatic consultations with India to work out the details of sending back military personnel. Currently, there are approximately 75 Indian military personnel stationed in the Maldives to support the Maldivian military. India has also provided military hardware and financial support for the maintenance of these assets. However, Muizzu's focus on removing India's military presence has raised diplomatic concerns, especially considering the economic challenges and debt obligations that Maldives is facing. The country's economy is expected to service a record $1.07 billion in external debt by 2026, and its foreign reserves are limited. Despite these economic challenges, Muizzu remains determined to prioritize the removal of India's military presence. This decision is seen by many as politically motivated rather than strategically necessary. Muizzu also plans to improve ties with China and believes that China's Belt and Road Initiative can play a crucial role in Maldives' development.
+
 Sat, 28 Oct 2023 13:19:32 +0530
 ### [Vantage | The key to working 70 hours a week](https://www.firstpost.com/opinion/vantage-the-key-to-working-70-hours-a-week-13310442.html)
 
