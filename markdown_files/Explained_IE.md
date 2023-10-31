@@ -8,6 +8,11 @@ Mon, 30 Oct 2023 12:00:19 +0000
 
 During his keynote address at the Goa Maritime Conclave, Defence Minister Rajnath Singh highlighted the importance of collaboration and trust between countries in international relations. He referred to the concept of "Prisoner's Dilemma" to explain the strategic decision-making challenges faced by countries. The Prisoner's Dilemma is a game in Game Theory that demonstrates how individuals or entities behave under different circumstances and aims to achieve the best outcome. Singh emphasized the need to find solutions that promote cooperation, build trust, and mitigate the risks associated with the Prisoner's Dilemma situations. The article provides examples of how this concept applies to scenarios such as an arms race between countries or competition between companies in the market. It concludes by suggesting that countries should establish ground rules in geopolitics to avoid detrimental consequences for their economies and people.
 
+Mon, 30 Oct 2023 12:00:19 +0000
+### [Rajnath Singh talks about ‘prisoner’s dilemma’ in international relations: What is this concept](https://indianexpress.com/article/explained/everyday-explainers/rajnath-singh-prisoners-dilemma-9006097/)
+
+Defence Minister Rajnath Singh spoke about the concept of "Prisoner's Dilemma" during his keynote address at the Goa Maritime Conclave. He explained that this concept can be applied to international relations to understand situations where countries face strategic decision-making challenges. Singh emphasized the need for countries to collaborate and build trust instead of engaging in an arms race out of fear and mistrust. Prisoner's Dilemma is a popular game in Game Theory that helps understand how people or entities behave under different circumstances. It highlights the paradox of whether to confess or stay silent in a situation where two prisoners are questioned about a crime. The best outcome lies in cooperation, but the dilemma has real-life applications in international law and business, such as setting ground rules to avoid an arms race or agreeing on prices to ensure healthy profits.
+
 Mon, 30 Oct 2023 11:50:24 +0000
 ### [Electoral bonds: What Govt, RBI, ECI said when the scheme was first proposed](https://indianexpress.com/article/explained/explained-law/electoral-bonds-rbi-eci-supreme-court-explained-9006086/)
 

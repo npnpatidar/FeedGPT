@@ -3,6 +3,11 @@ Tue, 31 Oct 2023 00:30:00 +0530
 
 India abstained from voting for a ceasefire in the Israel-Palestine conflict at the UN General Assembly due to the omission of explicit condemnation of the October 7 terror attack by Hamas militants on Israel. While India's principled stand on terrorism is commendable, the rising death toll and the need for global solidarity to stop the violence make it imperative for New Delhi to play a more active role. India had the option to propose an amendment to the resolution to include mention of the October 7 attacks or to vote for the motion while expressing regret for the omissions. However, India's abstention indicates a shift in its stance and a missed opportunity to make its voice heard in the growing geopolitical conflict. This decision is out of sync with India's desire to be a global leader and advocate for the Global South.
 
+Tue, 31 Oct 2023 00:15:00 +0530
+### [Terror in bags: On the blasts in Kerala](https://www.thehindu.com/opinion/editorial/terror-in-bags-on-the-blasts-in-kerala/article67477512.ece)
+
+A series of explosions occurred at a convention of Jehovah's Witnesses in Kerala, India, resulting in three deaths and 50 injuries. A man named Martin Dominic claimed responsibility for the attack, stating that he was an estranged member of the sect and targeted them for "propagating anti-national sentiments." He later surrendered to the police with evidence supporting his claims. However, the use of improvised explosive devices raised concerns, leading to the formation of a special investigation team. In the aftermath of the blasts, there was a wave of speculation and communal tension fueled by social media posts. Some individuals accused Kerala of harboring terrorists, which resulted in a heated exchange between a Union Minister and the Chief Minister of Kerala. The police have arrested Martin and charged him under anti-terror laws. If his claims are true, it highlights a deeper social issue.
+
 Mon, 30 Oct 2023 00:20:00 +0530
 ### [Time and change: On the Parliamentary Standing Committee on Home Affairs and new criminal laws](https://www.thehindu.com/opinion/editorial/time-and-change-the-hindu-editorial-on-the-parliamentary-standing-committee-on-home-affairs-and-new-criminal-laws/article67473537.ece)
 
