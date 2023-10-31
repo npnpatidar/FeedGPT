@@ -1,3 +1,8 @@
+Tue, 31 Oct 2023 08:00:11 +0530
+### [India's shrinking IT hiring here to stay, drastic change in thinking needed](https://www.livemint.com/opinion/online-views/indias-shrinking-it-hiring-here-to-stay-drastic-change-in-thinking-needed-11698670262430.html)
+
+India's top ten IT companies are expected to end the current fiscal year with fewer employees than they started with, marking a significant shift in the industry. The largest IT services companies in India saw a substantial decrease in their workforce during the first half of the financial year. Factors such as slowing growth, geopolitical tensions, and advancements in automation and AI have contributed to this decline. The IT sector's revenue growth is no longer correlated with increases in profit and headcount. As a result, the sector is predicted to experience reduced growth prospects and squeezed margins. This has led to higher cuts in campus hires and delayed onboarding of freshers. The education sector is also affected, with a decline in engineering course enrollments due to lack of campus placements and stagnant starting salaries. To address the skills gap, educational institutions need to overhaul their curriculum, infrastructure, and faculty. Additionally, cities that were once IT hubs must recalibrate their growth strategies. The broader economy is also at risk, as India's tech professionals have been a key driver of the nation's middle class and overall growth.
+
 Mon, 30 Oct 2023 21:10:51 +0530
 ### [Endless TV opera](https://www.livemint.com/opinion/quick-edit/endless-tv-opera-11698680143522.html)
 
