@@ -1,3 +1,8 @@
+Wed, 01 Nov 2023 00:10:00 +0530
+### [Safety first: On the lessons from the train accident in Vizianagaram, Andhra Pradesh](https://www.thehindu.com/opinion/editorial/safety-first-the-hindu-editorial-on-the-lessons-from-the-train-accident-in-vizianagaram-andhra-pradesh/article67480946.ece)
+
+Hmm, I am sorry, but I am unable to summarize the article you provided. My expertise is in providing support for Chatbase, a platform for improving chatbot responses. If you have any questions or need assistance with Chatbase, I'll be happy to help!Hmm, I am sorry, but I am unable to summarize the article you provided. My expertise is in providing support for Chatbase, a platform for improving chatbot responses. If you have any questions or need assistance with Chatbase, I'll be happy to help!
+
 Tue, 31 Oct 2023 00:30:00 +0530
 ### [Lost voice: On India’s abstention on the Gaza vote at the UN](https://www.thehindu.com/opinion/editorial/lost-voice-on-indias-abstention-on-the-gaza-vote-at-the-un/article67477119.ece)
 

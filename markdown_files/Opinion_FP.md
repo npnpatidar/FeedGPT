@@ -1,3 +1,8 @@
+Tue, 31 Oct 2023 19:26:05 +0530
+### [Vantage | Why France's move to make abortion rights permanent is a big deal](https://www.firstpost.com/opinion/vantage-why-frances-move-to-make-abortion-rights-permanent-is-a-big-deal-13325502.html)
+
+French President Emmanuel Macron has pledged to enshrine abortion rights in the French constitution by the end of next year. This commitment comes in response to the global trend of restricting women's autonomy over their own bodies. France's current abortion laws protect women's anonymity, guarantee their health, and cover the cost of abortions through the social security system. Macron's initiative aims to make these rights irreversible by amending the constitution, a complex process that requires a referendum or approval by three-fifths of the parliament. This move is significant in the global landscape of abortion rights, where some countries are legalizing abortion while others are rolling back access. Macron's pledge offers hope for women fighting for reproductive autonomy and ensures the permanence of these rights regardless of the government in power.
+
 Tue, 31 Oct 2023 17:43:42 +0530
 ### [Vantage | Why Maldives economy must be Muizzu's priority not 'India out' politics](https://www.firstpost.com/opinion/vantage-why-maldives-economy-must-be-muizzus-priority-not-india-out-politics-13325022.html)
 

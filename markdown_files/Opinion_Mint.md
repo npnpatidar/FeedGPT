@@ -1,3 +1,13 @@
+Tue, 31 Oct 2023 21:33:10 +0530
+### [An X axis problem](https://www.livemint.com/opinion/quick-edit/an-x-axis-problem-11698767450864.html)
+
+Elon Musk-owned platform X, formerly known as Twitter, is reportedly worth $19 billion, a significant decline from the $44 billion Musk paid to acquire the company last year. Despite a slowdown in the decline, the platform's transformation into an "everything app" has yet to show positive results. The company's mass layoffs and rebranding have affected advertiser confidence, leading to a drop in revenue from this crucial source. Additionally, the banks behind Musk's debt for the purchase are facing potential losses. X will need to demonstrate signs of a turnaround soon.
+
+Tue, 31 Oct 2023 21:09:08 +0530
+### [Land acquisition clarity could be Singur’s legacy](https://www.livemint.com/opinion/online-views/land-acquisition-clarity-could-be-singur-s-legacy-11698766030625.html)
+
+The article discusses the case of Singur in West Bengal, India, where land was acquired for Tata Motors to set up a factory but faced opposition and was eventually relocated. The Singur acquisition was later quashed by India's apex court, and Tata Motors has now won an arbitral award of ₹766 crore as compensation. The article suggests that West Bengal should pay the compensation to signal a truce and attract industry. It also highlights the need for a national law to tackle land acquisition issues in India. The article concludes by stating that the transformation of special economic zones could partially compensate for the failure to ease bulk land acquisition.
+
 Tue, 31 Oct 2023 08:00:11 +0530
 ### [India's shrinking IT hiring here to stay, drastic change in thinking needed](https://www.livemint.com/opinion/online-views/indias-shrinking-it-hiring-here-to-stay-drastic-change-in-thinking-needed-11698670262430.html)
 

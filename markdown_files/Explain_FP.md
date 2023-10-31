@@ -1,3 +1,8 @@
+Tue, 31 Oct 2023 20:50:43 +0530
+### [In Graphics | The fascinating history of Halloween](https://www.firstpost.com/explainers/in-graphics-the-fascinatng-history-of-halloween-13325482.html)
+
+Halloween, observed on October 31st, has evolved from its origins as the Samhain festival of the ancient Celts. It is now a widely celebrated non-religious holiday in Europe and North America. The festival originally involved lighting fires and dressing up in costumes to repel ghosts and spirits. In the eighth century, the church incorporated some of Samhain's rituals into its own practices and repositioned November 1st as All Saints Day. The day before All Saints Day became known as Halloween, and traditions such as dressing up, trick-or-treating, and carving jack-o-lanterns were gradually added over time.
+
 Tue, 31 Oct 2023 17:40:01 +0530
 ### [In Graphics | Which countries have the longest and shortest workweek? Where does India stand?](https://www.firstpost.com/explainers/in-graphics-which-countries-have-the-longest-and-shortest-workweek-where-does-india-stand-13324422.html)
 
