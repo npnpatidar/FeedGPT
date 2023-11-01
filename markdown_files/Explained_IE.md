@@ -1,3 +1,29 @@
+Wed, 01 Nov 2023 09:50:37 +0000
+### [Why IDBI Bank has taken Mumbai Metro One to bankruptcy court](https://indianexpress.com/article/explained/explained-economics/idbi-bank-mumbai-metro-one-to-bankruptcy-court-9008946/)
+
+IDBI Bank has filed a petition under the Insolvency and Bankruptcy Code against Mumbai Metro One Private Ltd (MMOPL) for the recovery of Rs 133.37 crore in dues. MMOPL is a joint venture between Reliance Infrastructure Ltd and the Mumbai Metropolitan Regional Development Authority. The company is seeking legal advice and will take steps to protect its interests. The financial implications are uncertain and depend on the outcome of the proceedings. In August, State Bank of India also filed a petition against MMOPL for the recovery of Rs 416.08 crore. MMOPL has proposed a One Time Settlement of its debt to its lenders, which is under discussion. The company reported losses in FY2023 and FY2022 and has filed claims against MMRDA for damages incurred due to delays and additional costs. The project was awarded to RInfra in 2007 and construction began in 2008.
+
+Wed, 01 Nov 2023 08:30:34 +0000
+### [Bihar records highest dengue cases and deaths in 5 years: What’s behind the surge](https://indianexpress.com/article/explained/bihar-highest-dengue-cases-deaths-9008868/)
+
+Bihar has seen a significant increase in dengue cases and deaths this year, with over 15,000 cases and 59 deaths recorded so far. This marks the highest numbers in at least five years, with a 608% increase in cases compared to 2018. Doctors predict that there may be further increases in dengue cases in the state over the next two weeks.
+
+The main reason for the rise in dengue cases and deaths is the delayed monsoon season, which lasted until mid-October instead of mid-September. This led to the creation of stagnant pools of water, ideal breeding grounds for mosquitoes. Additionally, the continued use of water coolers, which also attract mosquitoes, has contributed to the problem. Lack of sanitation and proper defogging by the municipal corporations has also been blamed for the increase in cases.
+
+Doctors have observed new symptoms among dengue patients, including liver and lung infections, recurrence of fever in shorter intervals, body itching, and liver swelling. The demand for platelets has also increased, with doctors administering them as a precautionary measure even when the platelet count is around 25,000, higher than the standard protocol of 15,000.
+
+In the past five years, Bihar experienced a sudden surge in dengue cases in 2019, with 6,712 cases compared to 2,142 the previous year. However, no deaths were reported in either of those years. The number of cases decreased in 2020 and 2021, possibly due to the COVID-19 pandemic. However, in 2022, there was a resurgence of dengue in Bihar, with 13,972 cases and 32 deaths reported, with the city of Patna being the most affected. These figures do not include cases and deaths in private hospitals and clinics.
+
+Wed, 01 Nov 2023 07:56:42 +0000
+### [Hamas: Its conflict with Fatah, and the role Israel played in strengthening it](https://indianexpress.com/article/explained/explained-global/hamas-fatah-israel-9008780/)
+
+Prime Minister Benjamin Netanyahu has vowed to "crush and destroy" Hamas, the political and militant organization in charge of the Gaza Strip, following the worst-ever attack on Israel's territory. However, there are claims that the Israeli government helped strengthen Hamas to undermine Fatah, the internationally accepted Palestinian political party. The split between Hamas and Fatah in the Palestinian territories of Gaza and the West Bank occurred because of their differing ideologies and approaches to dealing with Israel. Fatah is a more secular and moderate party that focused on negotiations, while Hamas believes in armed resistance. The claim that Israel boosted Hamas at the expense of Fatah is based on the argument that a divided Palestinian leadership would hinder progress in peace talks. Experts have cited evidence of Israel not following agreements with Fatah, allowing money to go to Hamas, and making comments that suggest a preference for a divided Palestinian leadership. The article also mentions Israel's withdrawal from Gaza in 2005, which some view as a peace step while others question its genuine intentions.
+
+Wed, 01 Nov 2023 03:11:12 +0000
+### [Story of Mamata and Nano: Why Tata can claim Rs 766 crore plus interest from Bengal Govt](https://indianexpress.com/article/explained/explained-politics/story-of-mamata-and-nano-why-tata-can-claim-rs-766-crore-9007996/)
+
+Tata Motors has been awarded a sum of Rs 765.78 crore by an arbitration tribunal as compensation for capital investment losses in the Singur manufacturing plant. The plant was set up to manufacture the Tata Nano, but protests from the TMC party forced Tata to leave. The acquisition of land for the plant ran into trouble due to protests from local people and small parties. Mamata Banerjee, who was then in opposition, led a movement against the government and went on a hunger strike. Tata Motors eventually decided to move the production of the Nano to Gujarat. Mamata Banerjee came to power in 2011 and returned 400 acres of land to farmers. Tata Motors went to court and the Supreme Court ruled in favor of returning the land to its owners. After the Supreme Court order, Tata Motors entered into arbitration proceedings with the West Bengal Industrial Development Corporation to claim compensation for their losses. The arbitration tribunal has now awarded Tata Motors a sum of Rs 765.78 crore with interest.
+
 Wed, 01 Nov 2023 01:50:58 +0000
 ### [What a ‘normal’ monsoon hides](https://indianexpress.com/article/explained/explained-climate/what-a-normal-monsoon-hides-9008385/)
 

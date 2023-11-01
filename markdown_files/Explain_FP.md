@@ -1,3 +1,23 @@
+Wed, 01 Nov 2023 17:37:32 +0530
+### [Want to avoid ‘sleep divorce’? This ‘Scandanavian sleep method’ could be your answer](https://www.firstpost.com/explainers/want-to-avoid-sleep-divorce-this-scandanavian-sleep-method-could-be-your-answer-13330912.html)
+
+The article discusses the benefits of the Scandinavian sleep method, also known as the Nordic sleep method, for couples. The method involves using two comforters on the bed instead of one to enhance comfort and improve sleep quality. The article highlights that this technique eliminates sleep disturbances caused by partners moving, rolling, or yanking blankets. It also helps regulate body temperature and can rescue relationships when partners have different sleep patterns. The Scandinavian sleep method is gaining popularity globally and has been described as a game changer by some influencers. However, the article also mentions that this method may limit couple-friendly sleep positions and may not be suitable for smaller beds.
+
+Wed, 01 Nov 2023 13:54:06 +0530
+### [How ‘white hydrogen’ deposits found in France could save Earth](https://www.firstpost.com/explainers/how-white-hydrogen-deposits-found-in-france-could-save-earth-13327552.html)
+
+Scientists have discovered a large supply of hydrogen, known as "white hydrogen," in northeastern France. White hydrogen is a greener energy source than solar or wind power, as it only produces water when burned. It can be used as a substitute for steel, shipping, and aviation. The discovery was made when methane concentrations in the earth's crust were being evaluated, and hydrogen concentrations increased as scientists dug deeper. This discovery is significant because it shows that large amounts of hydrogen can naturally occur without requiring energy-consuming procedures. White hydrogen is predicted to be more affordable than green hydrogen, costing around one US dollar per kilogramme. It has the potential to help combat the climate crisis and transform the clean energy market. Organizations are currently drilling to find hydrogen resources, and startups are exploring the possibility of selling white hydrogen.
+
+Wed, 01 Nov 2023 13:26:07 +0530
+### [For Social media](https://www.firstpost.com/explainers/for-social-media-13328522.html)
+
+This article is a brief announcement about joining a Whatsapp channel to receive the latest global news updates. It also mentions that the article was published on November 1, 2023, and is copyrighted by Firstpost.Unfortunately, the given text does not provide any information or content to summarize. Please provide a specific article or topic for me to summarize.This article is a brief announcement about joining a Whatsapp channel to receive the latest global news updates. It also mentions that the article was published on November 1, 2023, and is copyrighted by Firstpost.
+
+Wed, 01 Nov 2023 10:42:00 +0530
+### [Indian-origin student stabbed in US gym: What we know](https://www.firstpost.com/explainers/indian-origin-student-stabbed-in-us-gym-what-we-know-13326762.html)
+
+A 24-year-old Indian-origin student named Varun was severely attacked with a knife at a public gym in Valparaiso, Indiana. The attacker, Jordan Andrad, claimed that he feared Varun would assassinate him. Andrad was arrested and is facing charges of aggravated battery with a deadly weapon and attempted murder. Varun suffered a severe wound to his temple and was given a low chance of survival. The police found a pool of blood and a folding knife at the scene. Andrad admitted to stabbing Varun and stated that he reacted defensively. Varun was described as someone who kept to himself and was quiet.
+
 Wed, 01 Nov 2023 09:17:33 +0530
 ### [How a simple blood test could help diagnose bipolar disorder](https://www.firstpost.com/explainers/how-a-simple-blood-test-could-help-diagnose-bipolar-disorder-13323932.html)
 

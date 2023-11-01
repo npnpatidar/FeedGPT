@@ -1,3 +1,8 @@
+Wed, 01 Nov 2023 17:23:55 +0530
+### [Vantage |  Will America's 'most powerful nuclear bomb' start a new arms race?](https://www.firstpost.com/opinion/vantage-will-americas-most-powerful-nuclear-bomb-start-a-new-arms-race-13330762.html)
+
+The US Department of Defense has announced plans to build a new nuclear bomb called the B61-13. This bomb is estimated to be 24 times more powerful than the one dropped on Hiroshima and 14 times more potent than the one used on Nagasaki during World War II. The B61-13 will incorporate modernized safety, security, and accuracy features. The Pentagon's plan involves replacing some of its largest and most powerful bombs with the B61-13, which is seen as a cost-effective strategy. However, critics argue that the increased destructive power could lead to unintended collateral damage and escalate international tensions. The decision to pursue the B61-13 is driven by a changing security environment and growing threats from potential adversaries, believed to be Russia and China. All three nations have been expanding their nuclear capabilities, raising concerns about global security and stability. The estimated cost of building the B61-13 is approximately $10 billion.
+
 Wed, 01 Nov 2023 12:11:12 +0530
 ### [Vantage | Why Israel has gone missing from China's maps](https://www.firstpost.com/opinion/vantage-why-israel-has-gone-missing-from-chinas-maps-13327522.html)
 
