@@ -1,3 +1,13 @@
+Wed, 01 Nov 2023 22:00:53 +0530
+### [Spyware weary?](https://www.livemint.com/opinion/quick-edit/spyware-weary-11698855688865.html)
+
+Apple has issued a warning to some iPhone users in India, stating that "state-sponsored" hackers may have gained access to their data, chats, cameras, and microphones. While the possibility of it being a false alarm was acknowledged, opposition leaders claiming to have received a tip-off from Apple sparked a political uproar. The government has ordered an investigation, but identifying the culprits in the sophisticated world of digital spying may prove challenging. Many users already assume they are being watched despite assurances of privacy. To prevent diminishing outrage, Apple should minimize false-positive errors in its scans.
+
+Wed, 01 Nov 2023 21:24:27 +0530
+### [A steep duty drop could rev up India’s EV market](https://www.livemint.com/opinion/online-views/a-steep-duty-drop-could-rev-up-india-s-ev-market-11698851358408.html)
+
+The Indian government is considering reducing its import duty on electric vehicles (EVs), which could potentially benefit American EV-maker Tesla. The new national EV policy would lower the import duty threshold to $25,000-35,000 and the tariff rate to 15-30% for this segment. However, importers would need to begin manufacturing in India within the next two-three years to avail of the reduced rate. This move could encourage Tesla to test the Indian market and potentially start producing EVs locally. Currently, the Indian EV market is dominated by lower-priced models, but the growth in sales suggests potential for luxury EVs as well. The reduction in import duty for EVs could prompt a broader reevaluation of protectionist policies in the Indian car market. The goal is to shift domestic sales from fossil-fuel vehicles to cleaner options, and low-cost production is seen as a key factor in attracting consumers to EVs. India has the potential to become a global hub for EV production, with its low-priced EVs and a large reserve of lithium, a key component in EV batteries.
+
 Tue, 31 Oct 2023 21:33:10 +0530
 ### [An X axis problem](https://www.livemint.com/opinion/quick-edit/an-x-axis-problem-11698767450864.html)
 
