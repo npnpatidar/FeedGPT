@@ -1,3 +1,8 @@
+Wed, 01 Nov 2023 09:17:33 +0530
+### [How a simple blood test could help diagnose bipolar disorder](https://www.firstpost.com/explainers/how-a-simple-blood-test-could-help-diagnose-bipolar-disorder-13323932.html)
+
+Scientists at the University of Cambridge in the UK have developed a blood test that, when combined with a digital mental health assessment, can provide an improved diagnosis of bipolar disorder. The blood test alone can diagnose up to 30% of patients with bipolar disorder, but it is even more effective when used in conjunction with the online assessment. This combination can help differentiate between bipolar disorder and major depressive disorder, which have similar symptoms but require different treatments. The blood test is still in the proof of concept stage, but it has the potential to be a valuable complement to existing psychiatric diagnosis methods. Up to 40% of patients with bipolar disorder are misdiagnosed as having major depressive disorder, and the blood test could help ensure that patients receive the appropriate treatment. The research team used samples and data from the delta study, conducted in the UK between 2018 and 2020, to identify bipolar disorder in patients previously diagnosed with major depressive disorder. The blood test and online assessment combination significantly improved diagnostic outcomes for people with bipolar disorder, especially in cases where the diagnosis was not obvious.
+
 Tue, 31 Oct 2023 20:50:43 +0530
 ### [In Graphics | The fascinating history of Halloween](https://www.firstpost.com/explainers/in-graphics-the-fascinatng-history-of-halloween-13325482.html)
 

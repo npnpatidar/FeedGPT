@@ -1,3 +1,8 @@
+Wed, 01 Nov 2023 01:50:58 +0000
+### [What a ‘normal’ monsoon hides](https://indianexpress.com/article/explained/explained-climate/what-a-normal-monsoon-hides-9008385/)
+
+The monsoon season in India this year had an overall rainfall of 94 percent, marking the eighth consecutive year of normal rainfall. However, there have been significant variations in the distribution of rainfall both in space and time, with some days experiencing heavy downpours and prolonged dry spells. Only 6 percent of district rain-days were found to have normal rainfall, while over 60 percent had deficits of over 60 percent or no rain at all. Additionally, climate change is believed to be increasing rainfall variability. The northeast region of India has consistently received below-normal rainfall, and this year the states of Bihar, Jharkhand, and West Bengal experienced significant rainfall deficits. Kerala, one of the rainiest states in the country, had the largest deficit at 34 percent. The erratic behavior of monsoon rainfall is attributed to climate change, but there are other factors at play. Despite efforts to reduce greenhouse gas emissions, the unpredictability of monsoon rainfall is expected to continue. The article suggests that preparedness for extreme weather events and strengthening climate resilience in infrastructure are necessary coping mechanisms.
+
 Tue, 31 Oct 2023 13:27:27 +0000
 ### [Maratha quota protest heats up: What SC, Bombay HC have ruled on it, what steps state govt is taking](https://indianexpress.com/article/explained/explained-law/maratha-quota-what-sc-bombay-hc-have-said-9007855/)
 

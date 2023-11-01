@@ -1,3 +1,8 @@
+Wed, 01 Nov 2023 12:11:12 +0530
+### [Vantage | Why Israel has gone missing from China's maps](https://www.firstpost.com/opinion/vantage-why-israel-has-gone-missing-from-chinas-maps-13327522.html)
+
+China's involvement in the Israel-Hamas conflict has raised concerns, as Chinese tech giants Baidu and Alibaba have removed Israel from their maps. The absence of Israel on these maps has sparked speculation about whether it was a deliberate political statement or a software glitch. China's foreign ministry has responded vaguely, leaving questions about their motives. Despite officially declaring itself a neutral party in the conflict, there has been a surge in anti-Semitism within China, fueled by influential voices on social media. This raises questions about the future of the relationship between China and Israel.
+
 Tue, 31 Oct 2023 19:26:05 +0530
 ### [Vantage | Why France's move to make abortion rights permanent is a big deal](https://www.firstpost.com/opinion/vantage-why-frances-move-to-make-abortion-rights-permanent-is-a-big-deal-13325502.html)
 
