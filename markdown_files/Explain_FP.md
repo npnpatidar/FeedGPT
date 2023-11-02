@@ -1,3 +1,8 @@
+Thu, 02 Nov 2023 16:00:23 +0530
+### [In graphics | A guide to indoor plants that can purify air](https://www.firstpost.com/explainers/in-graphics-a-guide-to-indoor-plants-that-can-purify-air-13335832.html)
+
+The article discusses the increasing air pollution in prominent Indian cities, such as Delhi, Mumbai, and Kolkata, and the negative impact it has on people's health. It emphasizes the importance of indoor air quality and suggests using indoor plants as natural air purifiers to reduce indoor air pollution. The article also mentions that studies have shown indoor plants to have the potential to reduce air pollution and improve air quality. Additionally, it states that using indoor plants can enhance the aesthetic of personal spaces. The article concludes by providing a link to a list of indoor plants for a sacred space.
+
 Thu, 02 Nov 2023 10:36:08 +0530
 ### [In Numbers | The staggering toll of the Israel-Hamas war](https://www.firstpost.com/explainers/in-numbers-the-staggering-toll-of-the-israel-hamas-war-13332742.html)
 

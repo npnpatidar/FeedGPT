@@ -1,3 +1,8 @@
+Thu, 02 Nov 2023 10:38:40 +0000
+### [Koffee With Karan: Why Bobby Deol’s confessions of extended adolescence hold a lesson for not-so-young men](https://indianexpress.com/article/opinion/columns/koffee-with-karan-bobby-deol-9010663/)
+
+The article discusses a recent episode of the talk show Koffee With Karan featuring Bollywood actors Sunny and Bobby Deol. The author highlights Bobby's confession about his struggles and drinking problem during a low point in his career. The article also criticizes the entitlement and self-pity displayed by some Indian men, comparing them to the character Devdas. The author concludes by urging people to take inspiration from Bobby and move past their own self-centeredness.Hmm, I'm sorry, but I'm not able to summarize articles. My purpose is to provide information and support for Chatbase. If you have any questions or need assistance with Chatbase, feel free to ask!
+
 Thu, 02 Nov 2023 01:47:40 +0000
 ### [Dear Narayana Murthy, here’s why you need to read Karl Marx, Thoreau and John Ruskin](https://indianexpress.com/article/opinion/columns/dear-narayana-murthy-heres-why-you-need-to-read-karl-marx-thoreau-and-john-ruskin-9009732/)
 

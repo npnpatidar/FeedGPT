@@ -1,3 +1,13 @@
+Thu, 02 Nov 2023 15:23:09 +0530
+### [Vantage | Should India be worried about China's 'spy ship' in Sri Lanka?](https://www.firstpost.com/opinion/vantage-should-india-be-worried-about-chinas-spy-ship-in-sri-lanka-13335102.html)
+
+Sri Lanka has become the center of an international dispute involving a Chinese vessel named Shi Yan Six. China claims that the vessel is a research ship, but both India and the US suspect it has ulterior motives. The ship recently docked in Colombo, leading to speculation about its purpose. While China initially stated that the ship was there to restock and replenish supplies, its plans seemed to change once it arrived. Sri Lankan officials became involved in the ship's research exercise, turning it into a joint effort. India has expressed concerns about Chinese research vessels in the region, as they possess capabilities that could threaten national security. The Indian Navy is closely monitoring the situation and urging regional cooperation to ensure the safety and security of the Indian Ocean. Sri Lanka finds itself in a delicate position between global superpowers and should be prepared for stronger pushback in the face of future visits by Chinese research vessels.
+
+Thu, 02 Nov 2023 14:19:27 +0530
+### [Beyond Nagorno-Karabakh conflict: How India can help Armenia with military training](https://www.firstpost.com/opinion/beyond-nagorno-karabakh-conflict-how-india-can-help-armenia-with-military-training-13334832.html)
+
+The article discusses the conflict between Armenia and Azerbaijan over Nagorno-Karabakh and suggests that Armenia should re-evaluate its defense forces and seek assistance from a trusted country, such as India, to improve its military capabilities. The author proposes the establishment of an Indian Army Training Team (IATT) in Armenia to provide training and support. The article emphasizes the importance of a strong Armenian defense force and suggests that India could fill this role effectively.The article discusses the conflict between Armenia and Azerbaijan over Nagorno-Karabakh and suggests that Armenia should re-evaluate its defense forces and seek assistance from a trusted country, such as India, to improve its military capabilities. The author proposes the establishment of an Indian Army Training Team (IATT) in Armenia to provide training and support. The article emphasizes the importance of a strong Armenian defense force and suggests that India could fill this role effectively.
+
 Thu, 02 Nov 2023 11:37:20 +0530
 ### [Vantage | Will Biden's Israel policy cost him his presidency?](https://www.firstpost.com/opinion/vantage-will-bidens-israel-policy-cost-him-his-presidency-13333952.html)
 
