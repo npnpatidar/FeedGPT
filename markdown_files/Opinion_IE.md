@@ -27,6 +27,11 @@ Thu, 02 Nov 2023 01:15:17 +0000
 
 President Zia-ul-Haq of Pakistan stated that current difficulties caused by Indian interference in its internal affairs will not hinder the ongoing process of normalizing relations between the two countries. He believes that Indian Prime Minister Indira Gandhi was misled by those portraying a false image of a collapsing military regime. India and China have agreed to explore ways to increase trade and bilateral exchanges in various fields. Despite recent growth in Sino-Indian trade, both governments consider the annual trade volume to be relatively low. Prices of sweets, firecrackers, candles, and dry fruits have increased by 10 to 30 percent this Diwali. The highest increase is seen in the price of dry fruits and nuts. Prime Minister Indira Gandhi called on the opposition to assist the government in solving internal problems, emphasizing the importance of unity and integrity in the country.
 
+Thu, 02 Nov 2023 01:15:13 +0000
+### [Loewe’s new face, Maggie Smith: 88 and chic](https://indianexpress.com/article/opinion/editorials/loewes-new-face-maggie-smith-88-and-chic-9009716/)
+
+The article discusses the recent trend of age inclusivity in the fashion industry, highlighting the appearances of older celebrities such as Maggie Smith, Joan Didion, Zeenat Aman, and Rekha in fashion campaigns and magazine covers. It suggests that these images are reassuring because they represent possibilities and confidence that come with old age. The article also mentions Loewe's spring-summer 2024 pre-collection, featuring Maggie Smith as the face of the brand.The article discusses the recent trend of age inclusivity in the fashion industry, highlighting the appearances of older celebrities such as Maggie Smith, Joan Didion, Zeenat Aman, and Rekha in fashion campaigns and magazine covers. It suggests that these images are reassuring because they represent possibilities and confidence that come with age. The article also mentions Loewe's spring-summer 2024 pre-collection, featuring Maggie Smith as the face of the brand.
+
 Wed, 01 Nov 2023 13:20:46 +0000
 ### [The bitter message of ‘Kaala Paani’: Not all lives matter](https://indianexpress.com/article/opinion/columns/the-bitter-message-of-kaala-paani-not-all-lives-matter-9009448/)
 

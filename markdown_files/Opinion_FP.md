@@ -1,3 +1,8 @@
+Thu, 02 Nov 2023 11:37:20 +0530
+### [Vantage | Will Biden's Israel policy cost him his presidency?](https://www.firstpost.com/opinion/vantage-will-bidens-israel-policy-cost-him-his-presidency-13333952.html)
+
+The ongoing conflict in Gaza has caused concerns among Arab Americans and could impact President Joe Biden's chances of re-election in 2024. The Arab American community, which historically supported Biden and the Democratic Party, is dissatisfied with his approach to the Israel-Gaza conflict. This shift in support could lead to a contentious rematch between Biden and former President Donald Trump. While the US has a long-standing relationship with Israel, Arab Americans are calling for an immediate ceasefire and have issued an ultimatum to Biden. Arab American voters played a crucial role in flipping key swing states in the 2020 election, and Biden's re-election prospects rely heavily on maintaining their support. However, the community's unhappiness extends beyond Biden to the Democratic Party as a whole. An increasing number of Arab Americans now identify as Independents, raising questions about their voting preferences in 2024. The outcome of the Israel-Gaza conflict and US support for Israel will shape the 2024 election and Biden's political future.
+
 Wed, 01 Nov 2023 17:23:55 +0530
 ### [Vantage |  Will America's 'most powerful nuclear bomb' start a new arms race?](https://www.firstpost.com/opinion/vantage-will-americas-most-powerful-nuclear-bomb-start-a-new-arms-race-13330762.html)
 

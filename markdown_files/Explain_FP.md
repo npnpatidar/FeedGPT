@@ -1,3 +1,18 @@
+Thu, 02 Nov 2023 10:36:08 +0530
+### [In Numbers | The staggering toll of the Israel-Hamas war](https://www.firstpost.com/explainers/in-numbers-the-staggering-toll-of-the-israel-hamas-war-13332742.html)
+
+The crisis between Israel and Hamas has escalated, with no end in sight. Israel continues to carry out airstrikes, causing significant casualties and destruction. The current conflict is the deadliest and most devastating since Hamas took control of Gaza in 2007. The toll of the war includes thousands of Palestinians killed and injured, as well as Israelis killed, injured, and displaced. The situation has also resulted in hostages and aid trucks being held in Gaza. The humanitarian crisis is putting a strain on healthcare workers in Gaza.
+
+Thu, 02 Nov 2023 08:25:48 +0530
+### [Who is Halel Solomon, the 20-year-old Indian-origin Israeli soldier killed in Gaza?](https://www.firstpost.com/explainers/who-is-halel-solomon-the-20-year-old-indian-origin-israeli-soldier-killed-in-gaza-13332612.html)
+
+A 20-year-old Indian-origin Israeli soldier named Halel Solomon was killed while fighting in Gaza. He was described as being of Indian descent by the Israeli military. Solomon was from the town of Dimona and was killed when his armored personnel carrier was hit by an anti-tank guided missile fired by Hamas. At least 11 soldiers from the Givati infantry brigade's Tzabar battalion were also killed in the incident. Dimona's mayor expressed his condolences to Solomon's family in a Facebook post. Dimona is known for having a large concentration of Jews from India and is sometimes referred to as "Little India." Indian community members expressed sorrow at Solomon's passing and the loss of lives of other young Israelis. Prime Minister Benjamin Netanyahu described the battle in Gaza as a difficult war with painful losses but vowed to continue until victory. At least 1,400 Israelis were killed in a previous attack by Hamas and the goal of Israel's war is to eliminate the terrorist organization and free the hostages. The conflict in Gaza has resulted in the deaths of over 8,000 people.
+
+Wed, 01 Nov 2023 21:32:03 +0530
+### [FirstUp: Will Arvind Kejriwal be arrested today?](https://www.firstpost.com/explainers/firstup-arvind-kejriwal-arrest-mahua-moitra-hearing-srk-birthday-today-13331542.html)
+
+Delhi Chief Minister Arvind Kejriwal is set to appear before the Enforcement Directorate (ED) in connection with the excise policy case. The ED had summoned him for questioning in their money laundering probe. The Aam Aadmi Party (AAP) leaders have expressed concerns about Kejriwal being arrested by the ED. Former Delhi Deputy Chief Minister Manish Sisodia and Rajya Sabha MP Sanjay Singh are already in prison in connection with the alleged excise policy scam. Additionally, the Lok Sabha Ethics Committee will question Trinamool Congress MP Mohua Moitra regarding the alleged cash-for-query case. Prime Minister Narendra Modi will address a public gathering in Chhattisgarh and Union Home Minister Amit Shah will attend an event in Haryana. The Supreme Court will also hear a plea filed by academics and researchers seeking guidelines on the seizure of personal digital devices during raids. In entertainment news, Bollywood actor Shah Rukh Khan celebrates his birthday, and India plays Sri Lanka in the Cricket World Cup.
+
 Wed, 01 Nov 2023 17:37:32 +0530
 ### [Want to avoid ‘sleep divorce’? This ‘Scandanavian sleep method’ could be your answer](https://www.firstpost.com/explainers/want-to-avoid-sleep-divorce-this-scandanavian-sleep-method-could-be-your-answer-13330912.html)
 

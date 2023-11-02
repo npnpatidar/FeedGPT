@@ -1,3 +1,21 @@
+Thu, 02 Nov 2023 01:37:57 +0000
+### [In Tripura-Bangladesh railway link, new opportunities and old connect](https://indianexpress.com/article/explained/in-tripura-bangladesh-railway-link-new-opportunities-and-old-connect-9009936/)
+
+Indian Prime Minister Narendra Modi and Bangladesh Prime Minister Sheikh Hasina virtually inaugurated a rail link connecting northeast India with Bangladesh. The Agartala-Akhaura project will significantly reduce travel time between Agartala and Kolkata, from 31 hours to 10 hours. This project is expected to boost tourism, trade, and people-to-people exchanges between the two countries.
+
+The railway line spans 12.24 km, with 5.46 km on the Indian side in Tripura and 6.78 km in the Akhaura Upazila in the Brahmanbaria district of Bangladesh. The train will start from Agartala and move to Nischintapur, where immigration checks will take place at the Indian-Bangladesh border. Gangasagar will be the first station on the Bangladesh side.
+
+A trial run of goods trains was successful, and discussions between the governments of both countries will determine the start of passenger trains. Following the completion of the trial run, full-fledged train services between Agartala-Akhaura and Agartala-Chittagong are expected to commence. The project's budget was revised due to cost escalation, and the final project cost is estimated at Rs 1255.10 crore, funded entirely by India.
+
+The project faced delays due to land acquisition issues and the COVID-19 pandemic. However, it holds great practical and emotional significance for Tripura, as the state shares an 856-km international border with Bangladesh and played a significant role in sheltering refugees during the Indo-Pakistan war and the creation of Bangladesh.
+
+This rail link is part of ongoing efforts to strengthen connectivity between India and Bangladesh. The Bandhan Express, Maitree Express, and Mitali Express are already running between West Bengal and Bangladesh. The Bandhan Express reconnects Kolkata and Khulna, the third-largest city in Bangladesh. The Maitree Express has been operating between Kolkata and Dhaka Cantonment since 2008, and the Mitali Express was announced during Prime Minister Modi's visit to Dhaka in 2021, connecting Siliguri with the Bangladesh capital.
+
+Thu, 02 Nov 2023 01:37:51 +0000
+### [India’s own CAR-T cell therapy: What is it, when will it be available, and at what cost?](https://indianexpress.com/article/explained/indias-own-car-t-cell-therapy-what-is-it-when-will-it-be-available-and-at-what-cost-9009776/)
+
+The Central Drugs Standard Control Organisation (CDSCO) has granted market authorization for Nexcar19, India's first indigenous CAR-T cell therapy, developed by ImmunoAct. This approval allows for the commercial launch of the therapy in India at a much lower cost compared to other countries. CAR-T therapy is a groundbreaking treatment that modifies T-cells into cancer-fighting cells. Unlike chemotherapy and immunotherapy, CAR-T therapy aims to cure cancer and provide lifelong benefits. Nexcar19 specifically targets cancer cells carrying the CD19 protein, and it has shown promising results in patients with B-cell lymphomas who did not respond to standard treatments. The therapy involves a patient's blood being genetically modified in the lab before being reintroduced into the body. Early results have shown a 70% response rate, with approximately 50% of patients achieving a complete response. Clinical trials for pediatric patients are currently underway, and the therapy has received approval for patients aged 15 years and older. Nexcar19 has demonstrated lower toxicity levels and minimal cytokine release syndrome compared to other CAR-T therapies. ImmunoAct is in the process of obtaining licenses and partnerships with hospitals to make the therapy available to more patients. The cost of treatment is currently around Rs 30-40 lakh, but efforts are being made to reduce it to Rs 10-20 lakh in the future. Discussions will also be held with insurers and the government to clarify the extent of insurance coverage for the therapy.
+
 Wed, 01 Nov 2023 14:20:55 +0000
 ### [Why Yemeni Houthis’ attack on Israel has many worried](https://indianexpress.com/article/explained/explained-global/yemeni-houthi-attack-israel-iran-saudi-arabia-9009521/)
 
