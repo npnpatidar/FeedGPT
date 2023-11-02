@@ -1,3 +1,13 @@
+Thu, 02 Nov 2023 14:31:45 +0000
+### [Why Pakistan is forcing lakhs of Afghan migrants to leave](https://indianexpress.com/article/explained/explained-global/why-pakistan-is-forcing-lakhs-of-afghan-migrants-to-leave-9010945/)
+
+Pakistan has ordered undocumented migrants, primarily Afghan refugees, to leave the country. The government had set a deadline of October 31 for them to leave, and those without documents have been rounded up and faced expulsion. Over 4 million Afghans live in Pakistan, with an estimated 1.7 million being undocumented. Many have fled Afghanistan due to the Soviet war and have limited ties and opportunities in their home country. Pakistan argues that it needs to prioritize its own economic affairs and security, and accuses Afghan migrants of involvement in terror attacks and organized crimes. The deportation order has faced criticism, and the Taliban has asked for more time to prepare for the return of Afghans. The timing of the deportations is problematic due to the recent earthquake in Afghanistan and the approaching winter.
+
+Thu, 02 Nov 2023 13:25:59 +0000
+### [Bletchley Park: Where ‘computers’ helped the Allies win WWII, now hosting the world’s first AI summit](https://indianexpress.com/article/explained/explained-history/bletchley-park-computers-ai-summit-wwii-9010886/)
+
+The world's first global summit on artificial intelligence (AI) is being held at Bletchley Park, an English country house known as the birthplace of modern computing. During World War II, Bletchley Park played a significant role in breaking the "unbreakable" Enigma code used by the Nazis. The Turing bombe, an electro-mechanical device invented by British mathematician Alan Turing, expedited the code-breaking process. Another machine called the Colossus was built at Bletchley Park to break the German Lorenz cipher. Bletchley Park's contributions shortened the war by two years and left a technological legacy that continues to inform modern computing and AI. The role of women in Bletchley Park's operations, who made up over 70% of the staff, is often overlooked. They operated the machines and formed the backbone of the organization. The article also mentions that Facebook donated 1 million pounds to support the upkeep of Bletchley Park during the pandemic.
+
 Thu, 02 Nov 2023 12:09:10 +0000
 ### [UNESCO names Kozhikode ‘city of literature’: What this tag means](https://indianexpress.com/article/explained/explained-culture/unesco-kozhikode-city-of-literature-what-this-means-9010805/)
 

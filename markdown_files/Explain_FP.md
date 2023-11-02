@@ -1,3 +1,13 @@
+Thu, 02 Nov 2023 20:36:35 +0530
+### [Some airplanes are now being pushed to ‘speed of sound’. Here's why](https://www.firstpost.com/explainers/some-airplanes-are-now-being-pushed-to-speed-of-sound-heres-why-13338362.html)
+
+A powerful jet stream over the Atlantic is causing planes to travel faster from the United States to Europe. Jet streams are bands of strong wind that influence weather, air travel, and the atmosphere. They are created when warm and cold air masses collide, creating an air current. Jet streams can reach speeds of up to 442 kilometers per hour. When an airplane flies in the same direction as a jet stream, it gets an extra push and travels faster. Airlines have been using jet streams to reduce flight times, with some flights arriving at their destinations earlier than expected. However, jet streams can also cause turbulence and require extensive planning for arrival times. The current jet stream over the Atlantic is expected to strengthen a potential storm called Storm Ciaran.
+
+Thu, 02 Nov 2023 19:17:09 +0530
+### [In Graphics | The masks you must wear to combat air pollution](https://www.firstpost.com/explainers/in-graphics-the-masks-you-must-wear-to-combat-air-pollution-13331662.html)
+
+Delhi's air quality remains in the "very poor" category for the sixth consecutive day, with an overall air quality index (AQI) of 357. The city's environment minister has warned that the next 15 days are crucial. Measures have been taken to curb air pollution, including restrictions in Delhi and Mumbai. The Indian cricket board has also decided to stop fireworks displays during World Cup matches in both cities due to concerns about pollution. Inhaling air pollutants can trigger various illnesses, so medical professionals advise limited outdoor time and wearing masks.
+
 Thu, 02 Nov 2023 16:00:23 +0530
 ### [In graphics | A guide to indoor plants that can purify air](https://www.firstpost.com/explainers/in-graphics-a-guide-to-indoor-plants-that-can-purify-air-13335832.html)
 
