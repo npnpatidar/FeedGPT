@@ -1,3 +1,13 @@
+Fri, 03 Nov 2023 09:22:53 +0000
+### [Delhi chokes on pollution: What is AQI — and how is it measured?](https://indianexpress.com/article/explained/explained-climate/what-is-aqi-9011917/)
+
+The air pollution in Delhi-NCR and surrounding areas has worsened for the second day, bringing attention to the Air Quality Index (AQI). The AQI is a measure of air quality, with higher numbers indicating worse air quality. On Friday morning, the AQI in Delhi averaged at 471, while the previous day it had reached the "severe" category, surpassing a score of 400. The color-coded AQI index, launched in India in 2014, helps both the public and the government understand the severity of the air quality and take appropriate actions. The AQI is calculated by the Central Pollution Control Board, using data on various pollutants such as PM10, PM2.5, nitrogen dioxide, ozone, and carbon. The impact of these pollutants, especially PM2.5, can lead to serious respiratory problems and chronic diseases. The government responds to the AQI levels by implementing measures, such as the Graded Response Action Plan, which restricts the use of certain vehicles in order to prevent further deterioration of air quality.
+
+Fri, 03 Nov 2023 07:13:05 +0000
+### [What happens if you ignore a summons by the ED?](https://indianexpress.com/article/explained/everyday-explainers/ignore-ed-summons-arvind-kejriwal-9011774/)
+
+Delhi Chief Minister Arvind Kejriwal has declined to appear before the enforcement directorate for questioning, stating that the summons were unclear and seemed to be a fishing expedition. He had been summoned in connection with the investigations into the Delhi excise policy case. The enforcement directorate had filed a preliminary complaint alleging that Kejriwal had spoken in a video call with one of the main accused, Sameer Mahendru, and asked him to continue working with another accused, Vijay Nair. Kejriwal has asked the investigation officer to recall the summons, but the enforcement directorate is likely to issue a fresh notice. If Kejriwal continues to refuse to appear, the enforcement directorate can either seek a non-bailable warrant or question him at his residence and proceed with an arrest if concrete evidence is found.
+
 Thu, 02 Nov 2023 22:34:41 +0000
 ### [Electoral bond scheme: Six years in limbo to six sessions over three days](https://indianexpress.com/article/explained/electoral-bond-scheme-six-years-in-limbo-to-six-sessions-over-three-days-9011256/)
 

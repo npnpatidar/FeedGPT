@@ -1,3 +1,8 @@
+Fri, 03 Nov 2023 01:47:50 +0000
+### [In the Palestine-Israel war, put civilians at the centre of the story](https://indianexpress.com/article/opinion/columns/in-the-palestine-israel-war-put-civilians-at-the-centre-of-the-story-9011136/)
+
+The article highlights the dire situation in Gaza, describing it as a place with no safe haven and nowhere to bury the dead. The Gaza Strip has been under a blockade by Israel for 17 years, effectively cutting it off from the outside world. The people of Gaza live in a small strip of land and are unable to leave. The article describes the challenges they face in trying to flee their homes during times of conflict, such as lack of resources, destruction of infrastructure, and the risks they face from airstrikes. The article also mentions the lack of access for international journalists, making it difficult to obtain accurate information about the situation. The author notes that while there is a direction for those who are still alive to go, which is towards the border with Egypt, it is not a safe zone or a solution to their problems. The article also discusses the plight of Israeli hostages taken by Hamas and the lack of help they receive from the government. It highlights the civilian casualties in the conflict and criticizes the lack of attention given to them by politicians. Overall, the article paints a bleak picture of the situation in Gaza and emphasizes the suffering of the people caught in the conflict.
+
 Fri, 03 Nov 2023 01:37:48 +0000
 ### [In Mumbai, clearing the dust, lifting the haze](https://indianexpress.com/article/opinion/columns/in-mumbai-clearing-the-dust-lifting-the-haze-9011135/)
 

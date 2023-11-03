@@ -1,3 +1,18 @@
+Fri, 03 Nov 2023 18:58:25 +0530
+### [In graphics | How Delhi smog can be deadly](https://www.firstpost.com/explainers/in-graphics-how-delhi-smog-can-be-deadly-13343632.html)
+
+The levels of particulate matter 2.5 and 10 in Delhi-NCR have reached hazardous levels, causing serious health concerns. The overall air quality index (AQI) is in the "severe" category at 346. The government has implemented strict restrictions on construction and vehicular movements, and all government and public schools have been given a two-day holiday. There is an urgent meeting scheduled between the Lieutenant Governor, Chief Minister, and Minister of Environment to discuss the situation. The Delhi High Court has criticized the forest department for allowing the felling of trees in the capital. The article also discusses the effects of smog on health.
+
+Fri, 03 Nov 2023 18:29:02 +0530
+### [Who is Admiral Lisa Franchetti, the first woman to lead US Navy?](https://www.firstpost.com/explainers/who-is-admiral-lisa-franchetti-the-first-woman-to-lead-us-navy-13344122.html)
+
+The US Senate has approved Admiral Lisa Franchetti as the chief of naval operations, making her the first woman to join the joint chiefs of staff. Franchetti has been serving in an acting capacity since August due to a delay caused by a Republican senator's opposition to Pentagon abortion access policy. Franchetti has held various command positions and was promoted to the second-highest rank in the Navy, vice chief of naval operations, in September 2022. The Senate also approved the nomination of General David Allvin as head of the US Air Force. Senator Tommy Tuberville has been stalling the nominations to protest Pentagon policies on reproductive health care. The delay is negatively impacting military readiness and affecting officers' families.
+
+Fri, 03 Nov 2023 16:57:53 +0530
+### [What are the huge mysterious blobs near Earth’s core?](https://www.firstpost.com/explainers/what-are-the-huge-mysterious-blobs-near-earths-core-13342672.html)
+
+A new study suggests that the two continent-sized blobs of strange material discovered deep near the Earth's center in the 1980s may be the remains of a prototype planet that had a massive influence on Earth billions of years ago. These blobs, known as Large Velocity Provinces (LLVPs), have a higher density than the surrounding areas and are estimated to be slightly denser than the surrounding mantle rock. The theory proposes that the blobs were formed by a severe collision between the early Earth and a smaller planet called Theia, which also resulted in the formation of the moon. However, scientists are still looking for evidence to support this theory and suggest that studying moon rocks could provide further insights.
+
 Fri, 03 Nov 2023 09:36:43 +0530
 ### [Why US drones are flying over Gaza](https://www.firstpost.com/explainers/why-us-drones-are-flying-over-gaza-13339862.html)
 
