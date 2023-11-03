@@ -1,3 +1,40 @@
+Fri, 03 Nov 2023 15:02:07 +0000
+### [Delhi chokes on pollution: Will masks protect you?](https://indianexpress.com/article/explained/explained-sci-tech/masks-protect-delhi-air-pollution-9012318/)
+
+Air pollution in India has become a recurring problem, especially during the winter months, leading to the widespread use of masks. However, most cloth and surgical masks cannot effectively protect against the small pollution particles that can penetrate deep into the lungs and bloodstream. According to a report in The Lancet, around 1.67 million deaths in India in 2019 were attributed to air pollution, accounting for 17.8% of total deaths. While deaths due to household air pollution have decreased, deaths due to ambient air pollution have increased significantly.
+
+Doctors say that N-95 masks, when worn properly, can offer some protection against small particulate matter. However, the high pollution levels in India make it practically impossible to wear an N-95 mask 24/7. The World Health Organization advises that face masks are generally not seen as a suitable measure for health protection, but they may be useful in certain circumstances, such as prolonged commuting or outdoor activities in hazardous air quality conditions. Studies from the USA and Vietnam have shown that N-95 masks can reduce exposure to particulate matter.
+
+However, masks cannot protect against gaseous pollutants like sulphur dioxide, nitrogen dioxide, and ozone. Activated carbon filters have been developed, but they are difficult to maintain. A recent study from AIIMS, Delhi found that even short-term exposure to nitrogen dioxide led to a significant increase in emergency room visits. Surgical and cloth masks are not effective against pollutants, so N-95 or N-99 masks with a good fit and a proper seal over the nose are recommended.
+
+To ensure the effectiveness of a mask, it should be properly worn, covering the nose and mouth, and the metal pin on the nose should be pinched to create a seal. Masks should be changed frequently, and cracked or wet masks should be avoided. N-95 masks can be reused as long as they are not cracked, but frequent removal can lead to faster deterioration.
+
+Fri, 03 Nov 2023 13:56:01 +0000
+### [Delhi’s air pollution steadily worsening since 2021: Four key findings of a new air quality study](https://indianexpress.com/article/explained/delhi-air-pollution-pm-level-study-9012253/)
+
+According to a new study by Respirer Reports, Delhi, the capital of India, had the highest level of particulate matter (PM) 2.5 in October for the past five years among eight major state capitals that face an air pollution crisis. The analysis revealed a consistent rise in PM 2.5 levels in Delhi since 2021, with an increase of 4.4% in October 2023 compared to the previous year. The study also examined air quality in cities like Mumbai, Hyderabad, Kolkata, Lucknow, Patna, Bengaluru, and Chennai. 
+
+The study's release coincides with Delhi experiencing severe air quality, with its Air Quality Index (AQI) reaching 476, classified as "severe", which is a significant cause for concern. Mumbai has also witnessed very poor or severe air quality in October, with areas like Vile Parle being highly affected. 
+
+PM 2.5 is a harmful atmospheric pollutant that can easily enter the human circulatory system, potentially causing chronic diseases like asthma, heart attacks, bronchitis, and respiratory problems. 
+
+Here are four key findings from the study: 
+
+1. Delhi's air pollution has been worsening over the past two years, with PM 2.5 levels increasing by about 54% from October 2021 to October 2023, which is well above safety limits set by the Central Pollution Control Board and the World Health Organisation. 
+
+2. Mumbai's air quality has steadily deteriorated from 2019 to 2023, with PM 2.5 levels increasing by 110% over the past four years. 
+
+3. Hyderabad and Kolkata have also experienced a rise in PM 2.5 levels. Hyderabad witnessed an 18.6% spike in October 2023 compared to the previous year, while Kolkata's pollution levels rose by 40.2% this October. 
+
+4. Lucknow, Patna, Bengaluru, and Chennai saw a decrease in PM 2.5 levels in October 2023 compared to the previous year. Among these cities, Chennai had the least pollution, with a reduction of over 23%. 
+
+It is important to note that this study highlights the concerning trend of increasing air pollution in major Indian cities and the potential health risks associated with it.
+
+Fri, 03 Nov 2023 13:50:28 +0000
+### [Direct listing on foreign exchanges: What does it mean for Indian companies?](https://indianexpress.com/article/explained/explained-economics/direct-listing-foreign-exchanges-indian-companies-9012238/)
+
+The Indian government has announced that certain Indian companies will now be allowed to directly list on select foreign stock exchanges. This move aims to enable these companies to access global capital and boost capital outflows. The provision, which came into effect on October 30, allows listed and unlisted domestic companies to directly list their equity shares on the International Financial Services Centre (IFSC) in Ahmedabad. The government has the power to exempt such listings from certain procedural requirements. Domestic companies can use depository receipts, such as American Depository Receipts (ADR) or Global Depository Receipts (GDR), to list in the overseas market. This new provision will allow domestic companies to raise funds, offer better valuation and exposure to trade in foreign currency, benefit startups and unicorns, and add to India's foreign exchange reserves. However, more details are needed regarding which classes of public companies can use this route, the classes of securities that can be listed, the foreign jurisdictions and permitted stock exchanges, and the exemptions provided to these companies in terms of procedural compliances.
+
 Fri, 03 Nov 2023 09:22:53 +0000
 ### [Delhi chokes on pollution: What is AQI — and how is it measured?](https://indianexpress.com/article/explained/explained-climate/what-is-aqi-9011917/)
 
