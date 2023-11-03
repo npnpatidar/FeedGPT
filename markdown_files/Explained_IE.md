@@ -1,3 +1,8 @@
+Thu, 02 Nov 2023 22:34:41 +0000
+### [Electoral bond scheme: Six years in limbo to six sessions over three days](https://indianexpress.com/article/explained/electoral-bond-scheme-six-years-in-limbo-to-six-sessions-over-three-days-9011256/)
+
+In the past six years, multiple petitions challenging the electoral bonds scheme have been filed in the Supreme Court of India. Despite this, the legislation has not been stayed, with the court stating that the weighty issues raised by the petitioners require a thorough hearing. However, when the case was finally heard by a constitution bench, it only took three days to conclude the hearing and reserve the verdict. The court emphasized that repeated applications seeking the same relief should not be entertained, especially if they concern matters that occur periodically. Critics argue that the delay in hearing such crucial cases involving the government indirectly benefits the government. This case is also linked with the question of whether the law could be introduced as a money bill, which is pending before another constitution bench. Delays in setting up constitution benches are common, as they require five-judge benches to sit for extended periods, putting other regular cases on hold.
+
 Thu, 02 Nov 2023 14:31:45 +0000
 ### [Why Pakistan is forcing lakhs of Afghan migrants to leave](https://indianexpress.com/article/explained/explained-global/why-pakistan-is-forcing-lakhs-of-afghan-migrants-to-leave-9010945/)
 
