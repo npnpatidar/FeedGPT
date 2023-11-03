@@ -1,3 +1,8 @@
+Fri, 03 Nov 2023 09:36:43 +0530
+### [Why US drones are flying over Gaza](https://www.firstpost.com/explainers/why-us-drones-are-flying-over-gaza-13339862.html)
+
+The United States is increasing its involvement in the search for hostages taken by Hamas after the October 7 terrorist attack on Israel. US officials, who spoke on the condition of anonymity, revealed that the US has been flying surveillance drones over Gaza to assist with hostage rescue efforts for over a week. This development comes as US Secretary of State Antony Blinken plans to visit Israel and meet with Israeli leaders to secure the release of all hostages in Gaza. The MQ-9 Reaper drones operated by US Special Operations Forces have been active in the area since the days following Hamas's attack. The drones are being used for surveillance missions to help locate hostages and provide leads to the Israeli military. This marks the first time US drones have undertaken operations over Gaza. The US military has also provided support to Israel through the supply of bombs, artillery rounds, and the deployment of troops.
+
 Thu, 02 Nov 2023 20:36:35 +0530
 ### [Some airplanes are now being pushed to ‘speed of sound’. Here's why](https://www.firstpost.com/explainers/some-airplanes-are-now-being-pushed-to-speed-of-sound-heres-why-13338362.html)
 
