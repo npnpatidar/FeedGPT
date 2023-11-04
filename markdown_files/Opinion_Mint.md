@@ -1,3 +1,18 @@
+Fri, 03 Nov 2023 10:28:59 +0530
+### [Kotak bank’s insurance stake sale to Zurich group a signature Uday Kotak deal](https://www.livemint.com/opinion/online-views/kotak-bank-s-insurance-stake-sale-to-zurich-group-a-signature-uday-kotak-deal-11698987219486.html)
+
+Zurich Insurance Group is acquiring a controlling stake of 51% in Kotak Mahindra Bank's general-insurance subsidiary. The subsidiary has reported a net loss in the past and has a small market share in the Indian non-life insurance market. The deal will provide funds to grow the insurer and strengthen the promoter bank's capital base. Zurich's entry into the Indian market aligns with its growth plans and financial strength. The Indian insurance market is challenging, but Zurich's strengths in risk analysis and digital innovation can be leveraged. The industry may see a shakeout in the coming years.
+
+Fri, 03 Nov 2023 08:00:17 +0530
+### [What a Nobel laureate can teach us about the economics of electoral bonds](https://www.livemint.com/opinion/online-views/what-a-nobel-laureate-can-teach-us-about-the-economics-of-electoral-bonds-11698920144599.html)
+
+The ongoing Supreme Court case challenging the validity of electoral bonds in India has raised concerns about the asymmetry of information and its consequences. Electoral bonds, introduced in 2017, allow political parties to accept unlimited sums of money without disclosing the donors' identities. While the opposition parties may not know their donors, the government can easily find out. This information asymmetry can lead to retribution and market failures. The article argues for a high-quality electoral funding system with transparency and accountability to address these issues. It also highlights the deep links between political funding and the economy, emphasizing the need for better functioning markets for political finance.
+
+Fri, 03 Nov 2023 07:45:16 +0530
+### [Foreign listings finally get a green light](https://www.livemint.com/opinion/quick-edit/foreign-listings-finally-get-a-green-light-11698939139241.html)
+
+The Ministry of Corporate Affairs in India has made changes to the Companies Amendment Act of 2020, allowing Indian public companies to list themselves on overseas stock markets. This provision enables a class of companies to issue a class of securities for listing on foreign bourses, expanding their options for raising capital. The move aligns with global accounting and ESG standards, and comes at a time when India's startup scene is gaining international attention. This change in the law is seen as a positive development, providing Indian firms with greater choice and access to equity capital overseas.
+
 Thu, 02 Nov 2023 15:58:10 +0530
 ### [Shareholder diversity may explain Apple’s stock price](https://www.livemint.com/opinion/online-views/shareholder-diversity-may-explain-apple-s-stock-price-11698919625525.html)
 

@@ -39,6 +39,11 @@ Sat, 04 Nov 2023 01:40:38 +0000
 
 The Delhi government has implemented a graded action plan in response to severe air pollution levels in the city. Measures include closing primary schools, banning construction activity, and reinforcing public transport. However, the government lacks control over the city's air quality, with unfavorable weather conditions predicted to persist for another three days. The environment minister has blamed polluted air from neighboring states for Delhi's pollution, but data shows that stubble burning in Punjab is a major contributor. Studies have linked pollution to public health issues, with estimates suggesting that pollution reduces the average Indian's life expectancy by more than five years. Despite a focus on people's welfare, the connection between pollution and health has not been adequately addressed by the Delhi and Punjab governments.
 
+Sat, 04 Nov 2023 01:40:38 +0000
+### [AAP’s failure to clean Delhi’s air is unfortunate](https://indianexpress.com/article/opinion/editorials/delhi-air-quality-air-pollution-aqi-9012445/)
+
+The Delhi government has implemented the Graded Action Plan to address the city's air pollution, but it appears to be struggling to control the situation. The government has closed primary schools, banned construction activity, and reinforced public transport, but the air quality remains a concern. The IMD has forecasted unfavorable weather conditions for the next three days, and medical experts have raised public health concerns. The environment minister has blamed pollution from neighboring states for Delhi's air quality issues. There is a need for coordination between Delhi and neighboring states to address the region's air pollution. Despite efforts to reduce stubble burning in Haryana, Punjab's farm fires continue to contribute to Delhi's pollution. Studies have shown the link between pollution and public health, with India losing millions of people to diseases caused by inhaling hazardous amounts of PM 2.5. The AAP government in Delhi and Punjab prioritizes people's welfare, but they have yet to effectively address the pollution-health connection.
+
 Sat, 04 Nov 2023 01:30:48 +0000
 ### [Novermber 4, Forty Years Ago: Bonus For Staff](https://indianexpress.com/article/opinion/40-years-ago/novermber-4-forty-years-ago-bonus-for-staff-9012431/)
 
