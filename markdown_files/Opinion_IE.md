@@ -1,3 +1,13 @@
+Sat, 04 Nov 2023 01:40:38 +0000
+### [AP’s failure to clean Delhi’s air is unfortunate](https://indianexpress.com/article/opinion/columns/delhi-air-quality-air-pollution-aqi-9012445/)
+
+The Delhi government has implemented a graded action plan in response to severe air pollution levels in the city. Measures include closing primary schools, banning construction activity, and reinforcing public transport. However, the government lacks control over the city's air quality, with unfavorable weather conditions predicted to persist for another three days. The environment minister has blamed polluted air from neighboring states for Delhi's pollution, but data shows that stubble burning in Punjab is a major contributor. Studies have linked pollution to public health issues, with estimates suggesting that pollution reduces the average Indian's life expectancy by more than five years. Despite a focus on people's welfare, the connection between pollution and health has not been adequately addressed by the Delhi and Punjab governments.
+
+Sat, 04 Nov 2023 01:30:48 +0000
+### [Novermber 4, Forty Years Ago: Bonus For Staff](https://indianexpress.com/article/opinion/40-years-ago/novermber-4-forty-years-ago-bonus-for-staff-9012431/)
+
+The Union Cabinet has decided to pay a 15-day ad hoc bonus to all employees with a monthly income below Rs 1,600, despite budget constraints. This measure is estimated to cost Rs 44 crore. In Lebanon, there has been a major attack by anti-Arafat Palestinians on his military positions near the Palestinian refugee camps in northern Lebanon. The attack has resulted in 34 deaths and over 119 injuries, with oil storage tanks being hit by shells. The conference of chief ministers in India could not come to a consensus on replacing sales tax with additional excise duties. The proposal has been put aside, and a resolution has called for further efforts to address the concerns expressed by state governments. In South Africa, white voters have overwhelmingly approved a new constitution that grants some non-whites a share of power for the first time. This is seen as a significant political victory for Prime Minister P.W. Botha.
+
 Fri, 03 Nov 2023 01:47:50 +0000
 ### [In the Palestine-Israel war, put civilians at the centre of the story](https://indianexpress.com/article/opinion/columns/in-the-palestine-israel-war-put-civilians-at-the-centre-of-the-story-9011136/)
 

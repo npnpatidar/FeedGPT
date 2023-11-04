@@ -1,3 +1,8 @@
+Fri, 03 Nov 2023 22:35:14 +0000
+### [Farm fires and weather behind choke; respite likely in 4 days](https://indianexpress.com/article/explained/farm-fires-and-weather-behind-choke-respite-likely-in-4-days-9012568/)
+
+The article discusses the increase in incidents of agricultural waste burning in Punjab, which is contributing to the smog and haze situation in Delhi. This annual practice typically lasts for about two weeks, but this year the burning events started on October 31. With a significant amount of land still left to be harvested, the burning is expected to continue. The current meteorological conditions are exacerbating the situation by trapping pollutants near the surface of the atmosphere. However, a western disturbance event expected around November 7 could potentially improve the air quality. The article also highlights the role of winds in transporting pollutants from Punjab and Haryana to Delhi. The boundary layer, which affects the dispersion of pollutants, has become shallower, further worsening the situation. While rainfall or better wind speed could provide relief, both remain unlikely in the near future. The article suggests that the best-case scenario would be a change in wind systems during the western disturbance event, which could lead to the dispersion of pollutants and potential relief. The air quality is expected to remain in the severe category until at least Monday, with no significant improvement expected until the fire counts in Punjab decrease.
+
 Fri, 03 Nov 2023 15:02:07 +0000
 ### [Delhi chokes on pollution: Will masks protect you?](https://indianexpress.com/article/explained/explained-sci-tech/masks-protect-delhi-air-pollution-9012318/)
 
