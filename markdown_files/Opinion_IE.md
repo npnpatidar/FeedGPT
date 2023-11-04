@@ -1,3 +1,29 @@
+Sat, 04 Nov 2023 02:25:57 +0000
+### [Mohammed Shami: Pacer with a big heart](https://indianexpress.com/article/opinion/editorials/mohammed-shami-pacer-with-a-big-heart-9012455/)
+
+Mohammed Shami, India's premier pacer, has displayed his exceptional skills in ODIs and T20s, mirroring his performance in Tests. He consistently hits the seam at good speed, moves the ball in both directions, and challenges both edges of the bat. Shami's classical form of pace bowling transcends different formats of the game, making him a well-rounded bowler. At 33, this farmer-turned-bowler from Amroha has become a hall of famer.
+
+During the ongoing World Cup, Shami, along with Jasprit Bumrah and Mohammad Siraj, have stood out in India's impressive campaign. Shami particularly made a mark by becoming India's highest wicket-taker in the tournament, dismantling the Sri Lankan batsmen at the Wankhede Stadium.
+
+Shami's journey to success has not been easy. Hailing from Uttar Pradesh, he had to relocate to West Bengal in search of an opportunity. It was after consistent performances in domestic matches that he eventually made it to the Indian team. However, his white-ball skills were doubted by selectors at one point. Despite facing abuse of a communal nature after a poor performance against Pakistan, Shami found support from then-captain Virat Kohli.
+
+Even in this World Cup, Shami initially wasn't the first pick in the playing eleven. However, an injury to Hardik Pandya paved the way for him. Similar to his trademark in-cutters that find the gap between bat and pad, the small opportunity was enough for Shami to showcase his talent.
+
+While batsmen and spinners have traditionally received more recognition, the pace-bowling trio of Shami, Bumrah, and Siraj have been instrumental in India's success. With seven wins in seven matches, India has secured a spot in the semifinals, largely driven by this exceptional fast-bowling attack, with Shami leading the way.
+
+Sat, 04 Nov 2023 02:24:54 +0000
+### [Developed countries will keep interest rates high](https://indianexpress.com/article/opinion/columns/developed-countries-will-keep-interest-rates-high-9012454/)
+
+Central banks in developed countries, including the European Central Bank, the US Federal Reserve, and the Bank of England, have recently chosen to maintain their interest rates at the current levels. This decision reflects the expectation that inflation is likely to remain above target for some time, leading to higher interest rates in the long term. 
+
+The US economy has experienced strong momentum, with GDP growing at a seasonally adjusted rate of 4.9% in the third quarter, exceeding expectations. The labor market remains tight, and non-farm payrolls in September surpassed expectations. Consumer spending has also been healthy. However, while inflation has fallen, it remains well above the Federal Reserve's target of 2%, with core inflation at 3.7% on an annual basis.
+
+In contrast, the Bank of England has adopted a more pessimistic outlook on the UK economy. It expects growth to be flat in the third quarter and only projects a growth of 0.1% for the fourth quarter. Over the medium term, growth is anticipated to remain below historical averages. Inflation in the UK stands at 6.7% and is expected to decrease to 4.5% in the first quarter of 2024 and 3.1% in the last quarter of 2024, reaching the target rate by the end of 2025.
+
+The situation in the euro zone is similar, with the European Central Bank projecting inflation at 5.6% this year, gradually declining to 3.2% next year. Inflation is expected to approach the 2% target by 2025. Economic growth in the euro zone is expected to be modest, with a projected rate of 0.7% this year and a slight increase to 1% in 2024.
+
+The tighter monetary policies implemented by these developed economies will have repercussions for emerging markets like India. It will impact capital flows, currency values, and exports. Given the current economic and geopolitical uncertainties, policymakers in India should prioritize ensuring macroeconomic stability.
+
 Sat, 04 Nov 2023 01:40:38 +0000
 ### [AP’s failure to clean Delhi’s air is unfortunate](https://indianexpress.com/article/opinion/columns/delhi-air-quality-air-pollution-aqi-9012445/)
 

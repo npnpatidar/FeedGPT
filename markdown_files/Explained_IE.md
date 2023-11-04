@@ -1,3 +1,34 @@
+Sat, 04 Nov 2023 02:37:47 +0000
+### [Operation Cactus: When India prevented a coup in Maldives](https://indianexpress.com/article/explained/explained-history/operation-cactus-india-prevented-coup-maldives-9012435/)
+
+The article discusses the 1988 coup attempt in the Maldives and India's intervention to prevent it. The coup was led by Maldivian businessman Abdullah Luthufee and supported by Uma Maheswaran, the leader of a militant Sri Lankan Tamil organization. On November 3, 1988, 80 fighters, including members of the People's Liberation Organization of Tamil Eelam (PLOTE), arrived in Malé, armed with heavy weapons. They successfully captured key infrastructure in the city, while President Maumoon Abdul Gayoom escaped to a safe house.
+
+As the coup unfolded, SOS messages were sent to countries around the world, leading to Indian intervention. Prime Minister Rajiv Gandhi chaired a crisis committee meeting, and the Indian army was mobilized. Indian paratroopers, led by Colonel Subhash C Joshi, were deployed to Malé. They landed at the main airport on Hulhulé, which caused the rebels to overestimate Indian troop numbers and subsequently flee. The paratroopers secured the airport and proceeded to rescue President Gayoom on the adjacent island of Malé. Some rebels escaped on a hijacked merchant vessel and were pursued by the Indian Navy. After negotiations and the firing of warning shots, the rebels surrendered and were taken aboard an Indian ship.
+
+The coup attempt resulted in the deaths of 19 people. The captured rebels were arrested, interrogated, and put on trial in the Maldives. Four, including Luthufee, were initially sentenced to death but had their sentences commuted at the request of Prime Minister Rajiv Gandhi. Indian paratroopers remained in Malé for over two weeks.
+
+Despite rising anti-India sentiments in recent years, the Maldives continues to remember and appreciate India's intervention in the 1988 coup. The article concludes by noting that even the newly elected President Mohamed Muizzu has sought to enhance bilateral relations with India.
+
+Sat, 04 Nov 2023 01:30:18 +0000
+### [Israel-Hamas war: Is Russia benefiting from the conflict?](https://indianexpress.com/article/explained/explained-global/israel-hamas-russia-benefit-9012443/)
+
+Russia has officially blamed the US for the recent Hamas-Israel conflict and tensions in the wider Middle East, but experts suggest that Russia actually benefits from the conflict and is interested in seeing it continue. Russia's close ties with the Islamic world could be demonstrated through the conflict, despite not having significant influence in the region. However, some experts argue that the conflict could harm Russia politically, especially considering recent anti-Semitic attacks in Muslim-majority Russian regions. Additionally, Russia may not benefit economically from the conflict as rising oil prices have not occurred. While Russia's contact with Hamas may not have a significant impact on peace in the region, it may serve other goals, such as sending a message to Israel. However, this behavior could harm Russia's standing in Israel, especially among Russian-speaking Israelis who are growing concerned.
+
+Sat, 04 Nov 2023 01:22:45 +0000
+### [Experts Explain: How to fix Mumbai’s air](https://indianexpress.com/article/explained/experts-explain-how-to-fix-mumbais-air-9012581/)
+
+The article discusses the poor air quality in Mumbai and the factors contributing to it. Between October 1 and 30, there were 66 instances of poor Air Quality Index (AQI) recorded in 16 areas of the city. Sion had bad air for 10 days, followed by Andheri and Mazagaon for nine days each. Some days, the overall AQI readings in Mumbai were worse than Delhi's. Last winter, from November 1, 2022, to January 31, 2023, the AQI in Mumbai was poor or worse for 66 days.
+
+Despite being surrounded by the sea, strong winds that would typically sweep away pollutants, a combination of natural and man-made factors is affecting Mumbai's AQI. The city has been experiencing calm air since the retreat of the southwest monsoon in October, which has contributed to delayed wind reversal. Experts believe this is a temporary problem and that the AQI will improve once construction projects are completed.
+
+The article also suggests the need for better monitoring systems to address the issue. All 21 monitoring stations in Mumbai use Continuous Ambient Air Quality Monitoring Systems (CAAQMS), but sensor-based AQI monitoring units should also be considered to provide hyperlocal data. These units would empower authorities to take immediate action, such as penalizing violators who don't follow pollution norms. However, the article highlights the challenge of jurisdictions, as the municipal commissioner of Mumbai may not be able to take action against pollution sources in nearby areas.
+
+To address this issue, experts suggest setting up an independent commission for AQI management, similar to what has been done in Delhi. This commission should have the power to take action against violators regardless of geographical borders. The article also emphasizes the importance of involving engineers, scientists, health experts, and legal advisers in finding solutions, as well as conducting emissions studies and implementing emissions-based policies.
+
+The article mentions examples from other cities, such as Delhi and London, where more monitoring stations and research institutions have been involved in addressing air pollution issues. It also highlights the implementation of sensor-based monitoring stations in Bihar and Uttar Pradesh, which have significantly improved data collection in those regions.
+
+Dr. Gufran Beig and Dr. Sachchida Nand Tripathi, both renowned air pollution experts, share their insights and recommendations throughout the article.
+
 Fri, 03 Nov 2023 22:35:14 +0000
 ### [Farm fires and weather behind choke; respite likely in 4 days](https://indianexpress.com/article/explained/farm-fires-and-weather-behind-choke-respite-likely-in-4-days-9012568/)
 
