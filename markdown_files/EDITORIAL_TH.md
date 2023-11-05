@@ -1,3 +1,13 @@
+Mon, 06 Nov 2023 00:30:00 +0530
+### [Tiding over: On north India and its annual air quality inflection point in November](https://www.thehindu.com/opinion/editorial/tiding-over-on-north-india-and-its-annual-air-quality-inflection-point-in-november/article67501027.ece)
+
+The article discusses the annual air quality inflection point in Delhi and surrounding states, which occurs when the southwest monsoon recedes and pollutants from various human activities become trapped in the atmosphere. Despite efforts to address the crisis, the air pollution situation has reached a stalemate. The Commission for Air Quality Management (CAQM) is limited in its powers to address the causes of air pollution. While there has been some improvement in air quality in Delhi from January to October, November remains a critical month for pollution. Stubble burning, vehicular pollution, and construction dust are identified as major challenges that need to be addressed. The article emphasizes the need for a concerted approach and greater coordination and compliance to tackle the pollution challenges in November.
+
+Mon, 06 Nov 2023 00:15:00 +0530
+### [Revenue rebound: On GST collections](https://www.thehindu.com/opinion/editorial/revenue-rebound-on-gst-collections/article67501047.ece)
+
+In October, India's Gross Goods and Services Tax (GST) revenues reached their second-highest monthly total, surpassing ₹1.72 lakh crore. This reflects a 13.4% increase compared to the previous year and reverses a deceleration in revenue growth seen in the second quarter of the financial year. The Finance Ministry hopes that this growth rate will continue to provide a buffer for any potential spending or subsidy shocks. The increase in revenues may be attributed to the Revenue Department's crackdown on non-compliance and a deadline for settling disputes related to the GST regime. There are also indications of a recovery in domestic demand, with revenues from domestic transactions and services imports growing by 13%. This marks the fastest uptick in at least nine months and suggests a rebound in discretionary demand, particularly for premium or high-end goods. A new amnesty scheme for settling limited GST demands may further bolster revenues. It is important to consider these factors when assessing the economy's growth prospects.
+
 Sat, 04 Nov 2023 00:30:00 +0530
 ### [Action and authority: On Governors and implementation of decisions by elected regimes](https://www.thehindu.com/opinion/editorial/action-and-authority-on-governors-and-implementation-of-decisions-by-elected-regimes/article67494047.ece)
 
