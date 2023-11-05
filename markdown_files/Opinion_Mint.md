@@ -13,6 +13,16 @@ Fri, 03 Nov 2023 07:45:16 +0530
 
 The Ministry of Corporate Affairs in India has made changes to the Companies Amendment Act of 2020, allowing Indian public companies to list themselves on overseas stock markets. This provision enables a class of companies to issue a class of securities for listing on foreign bourses, expanding their options for raising capital. The move aligns with global accounting and ESG standards, and comes at a time when India's startup scene is gaining international attention. This change in the law is seen as a positive development, providing Indian firms with greater choice and access to equity capital overseas.
 
+Fri, 03 Nov 2023 07:30:16 +0530
+### [Hard work matters but India’s challenge is to turn workers into capitalists](https://www.livemint.com/opinion/online-views/hard-work-matters-but-india-s-challenge-is-to-turn-workers-into-capitalists-11698938323128.html)
+
+The article discusses the shift in rhetoric from left-leaning parties to rightist parties in India, particularly in relation to the concept of hard work and privilege. The author highlights Prime Minister Narendra Modi's distinction between "hard work" and "Harvard" as a way to appeal to the demographic that values hard work over privilege. The article also mentions the rise of equity ownership in India, with more retail investors participating in the stock market. However, the author suggests that there needs to be a shift in focus from capital gains to dividends in order to truly co-opt lay investors as capitalists.
+
+Thu, 02 Nov 2023 16:37:19 +0530
+### [Are Indian GST revenues really as buoyant as they appear to be?](https://www.livemint.com/opinion/online-views/are-indian-gst-revenues-really-as-buoyant-as-they-appear-to-be-11698922991786.html)
+
+India's gross goods and services tax (GGST) revenue reached ₹1.72 trillion in October, the second-highest since the implementation of the tax regime. The average monthly GGST collection in the first half of 2023-24 was ₹1.65 trillion, which has become a new benchmark for economic growth. The GST regime, introduced in July 2017, aimed to replace multiple indirect taxes and ensure uniformity in the tax structure across India. The government claims that the GST regime has reduced the tax burden on consumers and increased revenue buoyancy for states and the Centre. However, there are challenges, such as the difference in revenue as a proportion of GDP in the pre-GST and GST eras. The government should consider rationalizing the tax slabs to achieve a higher GST-to-GDP ratio.
+
 Thu, 02 Nov 2023 15:58:10 +0530
 ### [Shareholder diversity may explain Apple’s stock price](https://www.livemint.com/opinion/online-views/shareholder-diversity-may-explain-apple-s-stock-price-11698919625525.html)
 

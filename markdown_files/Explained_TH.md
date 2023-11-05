@@ -1,3 +1,8 @@
+Sun, 05 Nov 2023 01:45:00 +0530
+### [What is the status of Kavach installations? | Explained](https://www.thehindu.com/news/national/what-is-the-status-of-kavach-installations-explained/article67498761.ece)
+
+The collision between two passenger trains in Vizianagaram district in Andhra Pradesh, India, could have been avoided if Traffic Collision Avoidance Systems (TCAS) were in place. The indigenously developed TCAS called "Kavach," which is a cab signaling train control system with anti-collision features, was not installed on the route where the accident occurred. Kavach was developed over 10 years by the Indian Railways Research Designs and Standards Organization and is designed to warn train drivers of overshooting red signals and automatically apply the emergency brakes. The system utilizes radio frequency identification technology, RFID readers and equipment, and radio infrastructure to monitor train movements and transmit signals ahead. Experts believe that if Kavach was deployed more widely, it could help prevent accidents. However, the coverage for Kavach is currently limited, and it may take many years to ensure its installation on high-density routes due to the length of Indian Railways' total route. The Indian Railways has allocated funds for Kavach implementation, but it may only cover a limited distance this year.
+
 Thu, 02 Nov 2023 11:29:03 +0530
 ### [Mumbai’s October heat and pollution are likely to stay for some time | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/mumbai-october-heat-pollution-persistent-arabian-sea-warming/article67487921.ece)
 

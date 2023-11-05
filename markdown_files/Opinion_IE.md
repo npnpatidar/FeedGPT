@@ -1,3 +1,8 @@
+Sun, 05 Nov 2023 01:41:18 +0000
+### [Tavleen Singh writes: Gaza will affect Kashmir](https://indianexpress.com/article/opinion/columns/gaza-israel-conflict-jammu-and-kashmir-jk-issue-article-370-9013626/)
+
+The author had planned to travel to Srinagar to witness the effects of the abrogation of Article 370 in Kashmir, but had to cancel due to illness. They eventually made the trip and were surprised to find no signs of protest or tension in the city. People they spoke to said that the security situation had improved in recent years. While the revocation of Article 370 did not seem to matter to most people, they mourned the suspension of their political rights and the reduction of Jammu & Kashmir to a union territory governed by Delhi. The author believes that statehood should be restored and elections should be held to ensure democratic rights for Kashmiris. They also express concern that the calm in the Valley is fragile and tensions could escalate, especially in light of the situation in Gaza. The author argues that political turmoil in Kashmir has been caused by mistakes made by political leaders in Delhi, and that denying Kashmiris their democratic rights is dangerous and against the national interest. The author also notes that there is already sympathy for the Palestinian cause among Indian Muslims and suggests that Kashmiri Muslims may not remain unaffected for long.
+
 Sat, 04 Nov 2023 08:25:36 +0000
 ### [Why social media reels glorifying ‘stay-at-home’ moms are a dangerous scam](https://indianexpress.com/article/opinion/columns/social-media-reels-glorifying-stay-at-home-moms-dangerous-scam-9013102/)
 

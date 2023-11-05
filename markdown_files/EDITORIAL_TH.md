@@ -1,3 +1,13 @@
+Sat, 04 Nov 2023 00:30:00 +0530
+### [Action and authority: On Governors and implementation of decisions by elected regimes](https://www.thehindu.com/opinion/editorial/action-and-authority-on-governors-and-implementation-of-decisions-by-elected-regimes/article67494047.ece)
+
+Two states, Tamil Nadu and Kerala, have approached the Supreme Court of India to challenge the conduct of their Governors. They are concerned about the delay in granting assent to Bills passed by the legislature and the failure to act on proposals related to remission for convicts, prosecution of former Ministers, and appointments to the State Public Service Commissions. Some Governors, particularly in states not governed by the ruling party at the Centre, are accused of blocking decisions and Bills. There is a need to prohibit Governors from being burdened with the role of chancellor of any university. The absence of a time-frame for giving assent is being used by some Governors to stymie laws passed by the legislature. The Supreme Court has reminded constitutional authorities that they should not indefinitely hold on to Bills without conveying a decision. The States should also be prudent in their decision-making and ensure a fair process for appointing officials. Governors are restricted in their functioning by the 'aid and advice' clause in the Constitution and should not misuse their discretionary power.
+
+Sat, 04 Nov 2023 00:15:00 +0530
+### [Retrograde step: On government fact-checking units](https://www.thehindu.com/opinion/editorial/retrograde-step-on-government-fact-checking-units/article67494498.ece)
+
+The Tamil Nadu government has decided to establish a fact-checking unit to address misinformation and disinformation related to the state government. This move follows a similar decision by the Karnataka government. However, the article argues that allowing governments to determine what is false or not is problematic, as it creates a conflict of interest. The article also mentions the Centre's notification of the IT Rules, which allows the Ministry of Electronics and IT to appoint a fact-checking unit. The Bombay High Court has raised concerns about the lack of necessary safeguards and the potential infringement on freedom of speech and expression. The verdict on the matter is set to be delivered on December 1. The article suggests that independent bodies and journalists should be involved in addressing misinformation and fake news, rather than relying solely on government-appointed units.
+
 Thu, 02 Nov 2023 00:30:00 +0530
 ### [Malware malice: On the Apple cyberattack alert](https://www.thehindu.com/opinion/editorial/malware-malice-on-the-apple-cyberattack-alert/article67485865.ece)
 
