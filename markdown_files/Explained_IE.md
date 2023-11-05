@@ -1,3 +1,13 @@
+Sun, 05 Nov 2023 11:13:29 +0000
+### [India to bring in a National Security Strategy: what is it, why is it important?](https://indianexpress.com/article/explained/india-to-bring-in-a-national-security-strategy-what-is-it-why-is-it-important-9014489/)
+
+India has started the process of developing a national security strategy, which is being compiled by the National Security Council Secretariat (NSCS) with inputs from various central ministries and departments. The exact timeline for completion is unknown, but multiple ministries have already submitted their inputs. This is the first time India is creating such a strategy, which will outline the country's security objectives, including traditional and non-traditional threats, and the measures to address them. The strategy will likely cover a range of challenges, such as financial and economic security, information warfare, and vulnerabilities in critical information infrastructure. Developed countries like the US, the UK, and Russia already have national security strategies, and China and Pakistan have also established their own. The need for a national security strategy in India has been discussed for years, and it is hoped that this strategy will provide a framework for military and security reforms. The lack of a strategy in the past may have been due to hesitation at the political level and concerns about accountability in defense management.
+
+Sun, 05 Nov 2023 10:32:56 +0000
+### [Despite govt’s efforts, why onion prices remain high](https://indianexpress.com/article/explained/explained-economics/despite-govts-efforts-why-onion-prices-remain-high-9014412/)
+
+The Indian government has been taking measures to control the rising prices of onions, including imposing an export duty of 40% and a minimum export price of $800/tonne. Additionally, the government has formed a buffer stock of 5 lakh tonnes of onions. However, these interventions have had limited success in reducing prices. The delay in the monsoon and extensive damage to the harvested crop earlier in the year have caused higher than usual onion prices. The late arrival and delayed transplanting of the kharif crop have further worsened the supply chain mismatch. As a result, onion prices are expected to remain high until the new crop arrives at the end of the month.
+
 Sat, 04 Nov 2023 14:17:41 +0000
 ### [Hypertension: How its prevalence, diagnosis, control, and treatment varies across India](https://indianexpress.com/article/explained/explained-health/hypertension-care-india-9013493/)
 

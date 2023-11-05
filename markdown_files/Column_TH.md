@@ -1,3 +1,8 @@
+Wed, 01 Nov 2023 00:30:00 +0530
+### [In sport, you often learn more from a defeat than from a victory](https://www.thehindu.com/opinion/columns/in-sport-you-often-learn-more-from-a-defeat-than-from-a-victory/article67480900.ece)
+
+This article discusses the benefits of early defeat in a World Cup tournament. It suggests that losing early can rid a team of complacency, highlight weaknesses, motivate players, and improve team selection. The article mentions that Australia, despite starting with two defeats, now looks like one of the favorites in the tournament. On the other hand, England, the reigning champions, are currently at the bottom of the table, putting their qualification for the 2025 Champions Trophy in jeopardy. India, on the other hand, has won all their matches convincingly and is considered a strong candidate to go through undefeated. The article emphasizes that successful teams learn from defeat and disappointment, and that there are lessons to be learned from both victory and defeat. It also warns against the temptation to hold onto a once-victorious team, as England is currently facing, and suggests that India may face similar problems in the future if they don't learn from England's mistakes. The article concludes by stating that there are lessons to be learned from both defeat and victory, but it is important to learn the right ones.
+
 Wed, 25 Oct 2023 00:45:30 +0530
 ### [Memories of Bishan Bedi — a man of integrity, wisdom and wit](https://www.thehindu.com/opinion/columns/memories-of-bishan-bedi-a-man-of-integrity-wisdom-and-wit/article67455418.ece)
 

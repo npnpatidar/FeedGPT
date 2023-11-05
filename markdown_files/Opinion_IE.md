@@ -1,3 +1,8 @@
+Sun, 05 Nov 2023 08:25:01 +0000
+### [IIT-BHU incident shows why women continue to feel unsafe on university campuses](https://indianexpress.com/article/opinion/iit-bhu-incident-shows-why-women-unsafe-university-campuses-9014162/)
+
+The article discusses the issue of women's safety on university campuses in India, highlighting recent incidents at IIT-BHU, Indraprastha College, and Miranda House. The authors argue that these incidents are not isolated but rather the result of years of negligence, lack of accountability, and victim-blaming. They emphasize the importance of recognizing loitering as a way for women to assert their presence and claim public spaces. The article also mentions the increase in crimes against women in the country and the slow compliance of higher educational institutions with the Prevention of Sexual Harassment Act. The authors call for a campus environment free from safety concerns and stress the need for a decisive change to prioritize the safety and empowerment of women. They argue that educational institutions should be nurturing and inclusive, and it is the collective responsibility of all institutions to ensure women's right to safe spaces and a life with dignity.
+
 Sun, 05 Nov 2023 02:18:13 +0000
 ### [The ritual of change](https://indianexpress.com/article/opinion/columns/the-ritual-of-change-9013634/)
 
