@@ -1,3 +1,13 @@
+Mon, 06 Nov 2023 08:55:48 +0530
+### [From Operations Ganga to Ajay, Narendra Modi's leadership shines in global conflict evacuations](https://www.firstpost.com/opinion/from-operations-ganga-to-ajay-narendra-modis-leadership-shines-in-global-conflict-evacuations-13351632.html)
+
+The article discusses the successful evacuation operations conducted by the Government of India (GOI) in recent years. It highlights Operation Vande Bharat, which brought back over 1.8 crore Indians during the COVID-19 pandemic, as well as Operation Ganga, which rescued thousands of Indians from Ukraine during the Russia-Ukraine conflict. The article praises the proactive leadership of Prime Minister Narendra Modi and emphasizes the whole-of-government and all-of-society approach taken by the GOI to ensure the success of these operations. It also mentions Operation Ajay, which brought back Indians from Israel. The author concludes by stating that Indians now have confidence in the GOI's ability to bring them home during times of crisis.
+
+Sun, 05 Nov 2023 17:16:19 +0530
+### [Book review | The Importance of Shinzo Abe: India, Japan, and the Indo-Pacific](https://www.firstpost.com/opinion/book-review-the-importance-of-shinzo-abe-india-japan-and-the-indo-pacific-13350382.html)
+
+The article discusses the importance of Shinzo Abe, the former Japanese Prime Minister, in strengthening the relationship between Japan and India. It highlights Abe's visit to India in 2015, where he attended the Ganga aarti in Varanasi and visited the Sabarmati Ashram in Ahmedabad with Indian Prime Minister Narendra Modi. Abe was known for his focus on improving trade, technology, and traditions between Tokyo and New Delhi, and his vision for the Indo-Pacific region. The article also mentions Abe's domestic policies, including his economic strategy known as Abenomics and his efforts to enhance national security. It refers to a book titled "The Importance of Shinzo Abe: India, Japan, and the Indo-Pacific," which offers insights into Abe's leadership style and contributions. The article concludes by recommending the book for those interested in leadership and geopolitics.
+
 Sun, 05 Nov 2023 08:57:28 +0530
 ### [What do Justin Trudeau, Hamas fanboys and Whoopi ‘Woke’ Goldberg have in common?](https://www.firstpost.com/opinion/what-do-justin-trudeau-hamas-fanboys-and-whoopi-woke-goldberg-have-in-common-13349132.html)
 
@@ -12,6 +22,11 @@ Fri, 03 Nov 2023 16:57:58 +0530
 ### [Vantage | Why winter and West will decide which way Ukraine war heads](https://www.firstpost.com/opinion/vantage-why-winter-and-west-will-decide-which-way-ukraine-war-heads-13342692.html)
 
 The conflict in Ukraine continues to escalate, with Russia intensifying its attacks and shelling over 100 settlements in a single day. Ukraine's concerns are heightened as winter approaches, making combat even more challenging. Despite a counter-offensive launched by Ukraine, it has not made significant progress in breaking through Russian lines. President Zelensky emphasizes the extraordinary achievements of Ukraine in this war but acknowledges the need for new technology to break the stalemate. President Biden proposed a significant aid package to bolster Ukraine's capabilities, but it faces resistance from Republicans. War fatigue is spreading across Europe, and Ukraine's foreign minister is seeking support from European nations. One potential game-changer could be the arrival of F-16 fighter jets to bolster Ukraine's air capabilities. However, Russia dismisses this as futile. A prolonged stalemate places Ukraine in a precarious position as it desperately needs a breakthrough to change the course of the conflict.
+
+Fri, 03 Nov 2023 16:44:52 +0530
+### [Being ‘Mama Ji’: How Shivraj Singh Chouhan has forged a heartfelt connection with women in Madhya Pradesh](https://www.firstpost.com/opinion/being-mama-ji-how-shivraj-singh-chouhan-has-forged-a-heartfelt-connection-with-women-in-madhya-pradesh-13342242.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Shivraj Singh Chouhan, the Chief Minister of Madhya Pradesh, has earned the endearing nickname "Mama Ji" from the women and girls of his state. This nickname reflects his deep emotional connection with them and his commitment to their welfare. Chouhan's dedication to women's causes is evident through various initiatives and policies he has introduced, such as the Ladli Behna Yojana and Kanyadan Yojana, which alleviate financial burdens associated with weddings for economically disadvantaged families. His advocacy for women's empowerment goes beyond politics; it is rooted in his belief in the capabilities and contributions of women. Chouhan's emotional bonds with the women of Madhya Pradesh make him a symbol of trust and hope, offering not just policies but also emotional support. His leadership serves as a reminder that true leadership involves forming deep connections with the people one serves.
 
 Fri, 03 Nov 2023 16:28:11 +0530
 ### [Vantage | Why Myanmar's rebel alliance has left China so worried](https://www.firstpost.com/opinion/vantage-why-myanmars-rebel-alliance-has-left-china-so-worried-13342862.html)

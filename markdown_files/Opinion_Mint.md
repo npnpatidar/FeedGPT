@@ -3,6 +3,11 @@ Mon, 06 Nov 2023 08:00:08 +0530
 
 Hmm, I am not sure. Email support@chatbase.co for more info.Prime Minister Narendra Modi has announced plans to extend the government's free-food scheme by five years, rather than gradually extending it as before. This move is seen as a way to address hunger and strengthen the Bharatiya Janata Party's pro-poor stance. Additionally, the BJP has shown strategic ambiguity regarding a caste census, stating that consultations are needed before making a decision. The party is weighing the risk of losing support among Other Backward Class voters if they reject the survey, versus the potential loss of upper-caste votes if a census is seen as a precursor to quota increases. The BJP's stance on this issue will be closely watched as the election campaigns continue.
 
+Mon, 06 Nov 2023 08:00:08 +0530
+### [The world cannot escape repercussions of the ongoing war in West Asia](https://www.livemint.com/opinion/online-views/the-world-cannot-escape-repercussions-of-the-ongoing-war-in-west-asia-11699184369593.html)
+
+This article discusses the externalities of the conflict between Hamas and Israel. It highlights three assessments from the past month: first, that terrorism can succeed in advancing political objectives, reversing the belief that terrorism is ineffective; second, the international acquiescence in Israel's collective punishment of Gazans has destroyed humanitarian norms against targeting civilians; and third, the US and Europe have lost credibility as proponents of the rules-based international order. The article emphasizes the importance of civilian suffering in determining the outcome of the conflict and calls for de-escalation and diplomacy. It also mentions India's dismissed proposal for a federal solution in Palestine and argues for pluralism over self-determination in the Information Age.
+
 Mon, 06 Nov 2023 08:00:07 +0530
 ### [Pollution inequality: Govt must compensate the most vulnerable](https://www.livemint.com/opinion/online-views/pollution-inequality-govt-must-compensate-the-most-vulnerable-11699084980443.html)
 
@@ -147,6 +152,11 @@ Tue, 31 Oct 2023 21:09:08 +0530
 ### [Land acquisition clarity could be Singur’s legacy](https://www.livemint.com/opinion/online-views/land-acquisition-clarity-could-be-singur-s-legacy-11698766030625.html)
 
 The article discusses the case of Singur in West Bengal, India, where land was acquired for Tata Motors to set up a factory but faced opposition and was eventually relocated. The Singur acquisition was later quashed by India's apex court, and Tata Motors has now won an arbitral award of ₹766 crore as compensation. The article suggests that West Bengal should pay the compensation to signal a truce and attract industry. It also highlights the need for a national law to tackle land acquisition issues in India. The article concludes by stating that the transformation of special economic zones could partially compensate for the failure to ease bulk land acquisition.
+
+Tue, 31 Oct 2023 19:05:58 +0530
+### [A sustained consumption boom is far from assured yet](https://www.livemint.com/opinion/online-views/a-sustained-consumption-boom-is-far-from-assured-yet-11698753541422.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The festive season in India has begun with optimism as consumer goods companies, online retailers, high-street stores, and malls expect strong sales. Consumer spending is driving economic expansion in India, supported by government infrastructure spending. However, wage growth has been weak over the past six years, with inflation outpacing earnings for the average Indian household. Despite this, consumer buying remains robust due to increasing income inequality, households taking loans to compensate for weak wage growth, and excess savings accumulated during lockdowns being spent on goods and services. Household balance sheets are leveraging while private corporate sector and government balance sheets are deleveraging. The recovery from the pandemic shock in India appears to be profit-led rather than wage-led, with weak wage growth and strong profits growth among large listed companies. The current economic situation in India calls for an acceleration of private sector investment activity for more sustainable growth in the future.
 
 Tue, 31 Oct 2023 18:55:26 +0530
 ### [Don’t let meaningless phrases get in the way of climate action](https://www.livemint.com/opinion/online-views/dont-let-meaningless-phrases-get-in-the-way-of-climate-action-11698753258519.html)

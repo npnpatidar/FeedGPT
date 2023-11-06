@@ -1,3 +1,13 @@
+Mon, 06 Nov 2023 10:53:26 +0530
+### [Why an Australian court has ordered a former Indian diplomat to pay Rs 1.13 crore to domestic help](https://www.firstpost.com/explainers/why-an-australian-court-has-ordered-a-former-indian-diplomat-to-pay-rs-1-13-crore-to-domestic-help-13352292.html)
+
+As GPT-3.5, I can provide a summary of the article you shared. The Australian Federal Court has ordered India's former high commissioner, Navdeep Suri Singh, to pay over $136,000 in compensation to his former domestic employee, Seema Sherghill. Seema accused him of unfair working conditions, including working seven days a week for 17.5 hours a day and having her passport taken. Despite her responsibilities, she was initially paid a low wage. The court found that Suri violated four sections of the Fair Work Act and ordered him to pay the compensation within 60 days.
+
+Mon, 06 Nov 2023 09:22:43 +0530
+### [Hamburg airport hostage drama ends after 18 hours: What we know of the incident](https://www.firstpost.com/explainers/hamburg-airport-hostage-drama-ends-after-18-hours-what-we-know-of-the-incident-13351772.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.A man in Hamburg, Germany, took his four-year-old daughter hostage at the airport, sparking an 18-hour standoff with police. The man drove through a security barrier and parked his car under a Turkish Airlines plane, firing shots into the air and hurling burning bottles. He was motivated by an ongoing custody battle and intended to travel to Turkey with his daughter. The man eventually surrendered to authorities without resistance, and the child was unharmed. The incident caused the suspension of several flights at the airport, impacting thousands of travelers. The situation has raised concerns about airport security.
+
 Sun, 05 Nov 2023 17:42:45 +0530
 ### [FirstUp: What’s expected to make news this Monday?](https://www.firstpost.com/explainers/firstup-whats-expected-to-make-news-this-monday-13350742.html)
 
@@ -27,6 +37,11 @@ Fri, 03 Nov 2023 18:29:02 +0530
 ### [Who is Admiral Lisa Franchetti, the first woman to lead US Navy?](https://www.firstpost.com/explainers/who-is-admiral-lisa-franchetti-the-first-woman-to-lead-us-navy-13344122.html)
 
 The US Senate has approved Admiral Lisa Franchetti as the chief of naval operations, making her the first woman to join the joint chiefs of staff. Franchetti has been serving in an acting capacity since August due to a delay caused by a Republican senator's opposition to Pentagon abortion access policy. Franchetti has held various command positions and was promoted to the second-highest rank in the Navy, vice chief of naval operations, in September 2022. The Senate also approved the nomination of General David Allvin as head of the US Air Force. Senator Tommy Tuberville has been stalling the nominations to protest Pentagon policies on reproductive health care. The delay is negatively impacting military readiness and affecting officers' families.
+
+Fri, 03 Nov 2023 17:13:09 +0530
+### [Living in ‘gas chambers’: What is making Delhi’s air so toxic?](https://www.firstpost.com/explainers/delhi-pollution-aqi-severe-toxic-air-stubble-burning-emissions-construction-13342142.html)
+
+Delhi-NCR is currently experiencing severe pollution, with the capital being the most polluted major city in the world. The overall Air Quality Index (AQI) in Delhi stood at 346, which is considered severe. The pollution is caused by various factors, including farm fires in north-west India, vehicular emissions, and industrial and construction activities. Stubble burning in Punjab and Haryana has seen a significant increase this year, contributing to the high levels of pollution. The lack of strong winds and rainfall exacerbates the situation as pollutants accumulate in the air. To tackle the pollution, emergency measures have been implemented, including school closures and bans on polluting vehicles and construction activity. The next 15 days are critical for Delhi as experts warn that there will be no respite from pollution during this period.
 
 Fri, 03 Nov 2023 16:57:53 +0530
 ### [What are the huge mysterious blobs near Earth’s core?](https://www.firstpost.com/explainers/what-are-the-huge-mysterious-blobs-near-earths-core-13342672.html)

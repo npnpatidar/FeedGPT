@@ -13,6 +13,11 @@ Sun, 05 Nov 2023 01:11:00 +0530
 
 As GPT-3.5, I can provide a summary of the article you shared. The article discusses the ongoing Maratha quota agitation in Maharashtra, led by activist Manoj Jarange-Patil. He has been demanding blanket reservation in education and government jobs for all Marathas in the state. The agitation was triggered by a violent incident between protesters and police in September. The government has been given a deadline to complete the process of granting reservation to the Marathas. The article also highlights the political vulnerability of the ruling BJP in Maharashtra and the history of the Maratha quota issue. Counter protests from the OBC community and protests by the Dhangar community seeking inclusion in the Scheduled Tribes category have also been mentioned. The government is working to pacify the demands of the Marathas, but there is pressure to deliver on the quota before the second deadline.
 
+Thu, 02 Nov 2023 22:54:09 +0530
+### [Understanding worker productivity and how it relates to economic growth | Explained](https://www.thehindu.com/business/Economy/understanding-worker-productivity-and-how-it-relates-to-economic-growth-explained/article67490775.ece)
+
+Hmm, I'm sorry, but I'm not able to summarize articles. My purpose is to provide support and information about Chatbase. If you have any questions or need assistance with Chatbase, feel free to ask!Hmm, I'm sorry, but I'm not able to summarize articles. My purpose is to provide support and information about Chatbase. If you have any questions or need assistance with Chatbase, feel free to ask!Hmm, I'm sorry, but I'm not able to summarize articles. My purpose is to provide support and information about Chatbase. If you have any questions or need assistance with Chatbase, feel free to ask!
+
 Thu, 02 Nov 2023 11:29:03 +0530
 ### [Mumbai’s October heat and pollution are likely to stay for some time | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/mumbai-october-heat-pollution-persistent-arabian-sea-warming/article67487921.ece)
 
