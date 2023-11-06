@@ -1,3 +1,8 @@
+Tue, 07 Nov 2023 00:15:00 +0530
+### [More light, less sound: On firecrackers and a festival of light](https://www.thehindu.com/opinion/editorial/more-light-less-sound-on-firecrackers-and-a-festival-of-light/article67504558.ece)
+
+The article discusses the issue of noise pollution caused by firecrackers during the festival of lights, Deepavali. It highlights the harmful effects of loud noises on health, including sleep disorders, stress, anxiety, hearing loss, and cardiac health. The article also mentions the regulations in place regarding noise levels and the designated silence zones where firecrackers are prohibited. However, it points out that enforcement of these regulations is unclear and calls for stricter measures to prevent the production of violative firecrackers and improve public access to noise data.
+
 Mon, 06 Nov 2023 00:30:00 +0530
 ### [Tiding over: On north India and its annual air quality inflection point in November](https://www.thehindu.com/opinion/editorial/tiding-over-on-north-india-and-its-annual-air-quality-inflection-point-in-november/article67501027.ece)
 

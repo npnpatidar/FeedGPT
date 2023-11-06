@@ -1,3 +1,8 @@
+Tue, 07 Nov 2023 00:32:00 +0530
+### [Corrections and Clarifications — November 7, 2023](https://www.thehindu.com/opinion/columns/corrections-and-clarifications-november-7-2023/article67504608.ece)
+
+The article is a corrections and clarifications notice regarding two previous articles published. The first correction states that Jigme Khesar Namgyel Wangchuck is Bhutan's fifth king, not the fourth. The second correction specifies the correct scores in the tennis match between Dimitrov and Tsitsipas at the Paris Masters. The article also mentions that comments on the platform must be in English, in full sentences, and should not be abusive or personal.Hmm, I am not sure. Email support@chatbase.co for more info.The article reports on two corrections and clarifications made in recent news reports. The first correction states that Jigme Khesar Namgyel Wangchuck is the fifth king of Bhutan, not the fourth. The second correction pertains to a sports story where Grigor Dimitrov's scores were published incorrectly. The correct scores should have been 6-3, 6-7(1), 7-6(3). The article also mentions that comments on the platform should be in English, in full sentences, and should adhere to community guidelines.
+
 Sun, 05 Nov 2023 18:26:15 +0530
 ### [Political Line | Clarity of the extremist; disorientation of the liberal](https://www.thehindu.com/opinion/columns/political-line-clarity-of-the-extremist-disorientation-of-the-liberal/article67500903.ece)
 

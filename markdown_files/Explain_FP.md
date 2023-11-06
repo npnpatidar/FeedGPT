@@ -1,3 +1,13 @@
+Mon, 06 Nov 2023 20:03:59 +0530
+### [Want to boost productivity? Try getting angry at work](https://www.firstpost.com/explainers/anger-boost-productivity-study-workplace-motivator-goals-13355892.html)
+
+A new study has found that anger can actually be a powerful motivator for productivity and meeting goals. The American Psychological Association conducted a survey of over 1,000 people and found that anger usually evoked the best performance compared to other emotions. The study also examined surveys from the 2016 and 2020 US presidential elections and found that people who said they would be angry if their preferred candidate lost were more likely to vote. Experts say that the findings are important, especially for women in the workplace who are often conditioned to believe they cannot be "emotional." The study suggests that anger and frustration with the status quo can be tools for innovation and creativity. However, it is important to note that excess anger can be detrimental to cognitive functioning. Overall, the study adds to the growing evidence that a mix of positive and negative emotions promotes well-being, and using negative emotions as tools can be effective in certain situations.
+
+Mon, 06 Nov 2023 17:59:08 +0530
+### [Chhattisgarh Elections: Who are the key faces in the fray? What are the main issues?](https://www.firstpost.com/explainers/chhattisgarh-assembly-elections-2023-key-candidates-key-seats-main-issues-13355112.html)
+
+Chhattisgarh is preparing for the first phase of Assembly elections, with the Congress and the Bharatiya Janata Party (BJP) as the main contenders. Chhattisgarh Chief Minister Bhupesh Baghel of the Congress is facing a tough contest from his distant nephew and BJP candidate Vijay Baghel in his home constituency Patan. Other key candidates include JCC-J president Amit Jogi, BJP's Raman Singh, and Union Minister Renuka Singh. The main issues in the elections are farmers' concerns and alleged corruption charges against the Baghel government. Tribals and OBCs are also important constituents in the elections.
+
 Mon, 06 Nov 2023 15:57:39 +0530
 ### [PM Modi extends free-ration scheme for next 5 years: Who benefits from it?](https://www.firstpost.com/explainers/pm-narendra-modi-free-ration-scheme-pmgkay-5-years-beneficiaries-assembly-elections-13354322.html)
 
