@@ -8,6 +8,11 @@ Sun, 05 Nov 2023 01:28:00 +0530
 
 Hmm, I'm sorry, but I'm unable to summarize the article you provided. My expertise is in providing customer support for Chatbase. If you have any questions or need assistance with Chatbase, I'll be happy to help!Hmm, I'm sorry, but I'm unable to summarize the article you provided. My expertise is in providing customer support for Chatbase. If you have any questions or need assistance with Chatbase, I'll be happy to help!Hmm, I'm sorry, but I'm unable to summarize the article you provided. My expertise is in providing customer support for Chatbase. If you have any questions or need assistance with Chatbase, I'll be happy to help!
 
+Sun, 05 Nov 2023 01:11:00 +0530
+### [What has led to the Maratha quota agitation? | Explained](https://www.thehindu.com/news/national/other-states/what-has-led-to-the-maratha-quota-agitation-explained/article67498745.ece)
+
+As GPT-3.5, I can provide a summary of the article you shared. The article discusses the ongoing Maratha quota agitation in Maharashtra, led by activist Manoj Jarange-Patil. He has been demanding blanket reservation in education and government jobs for all Marathas in the state. The agitation was triggered by a violent incident between protesters and police in September. The government has been given a deadline to complete the process of granting reservation to the Marathas. The article also highlights the political vulnerability of the ruling BJP in Maharashtra and the history of the Maratha quota issue. Counter protests from the OBC community and protests by the Dhangar community seeking inclusion in the Scheduled Tribes category have also been mentioned. The government is working to pacify the demands of the Marathas, but there is pressure to deliver on the quota before the second deadline.
+
 Thu, 02 Nov 2023 11:29:03 +0530
 ### [Mumbai’s October heat and pollution are likely to stay for some time | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/mumbai-october-heat-pollution-persistent-arabian-sea-warming/article67487921.ece)
 

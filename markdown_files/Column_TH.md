@@ -268,6 +268,11 @@ Tue, 17 Jan 2023 00:30:00 +0530
 
 The article titled "Cong. govt. keeps poll promise, decides to restore old pension scheme in H.P." (January 14, 2023) made an error in stating a 3% increase in GST on diesel. The correct information is that there will be an increase in the Value Added Tax on diesel by ₹3 per litre.The article titled "Cong. govt. keeps poll promise, decides to restore old pension scheme in H.P." (January 14, 2023) made an error in stating a 3% increase in GST on diesel. The correct information is that there will be an increase in the Value Added Tax on diesel by ₹3 per litre.
 
+Fri, 13 Jan 2023 15:48:59 +0530
+### [Column | How to ‘stir’ a marriage](https://www.thehindu.com/opinion/columns/yakhni-stir-marriage-eid-communication-patience-saba-mahjoor-column/article66359586.ece)
+
+Hmm, I'm sorry, but I'm here to provide support and information about Chatbase. I'm not able to summarize articles or provide commentary on them. If you have any questions or need assistance with Chatbase, feel free to ask!Hmm, I'm sorry, but I'm here to provide support and information about Chatbase. I'm not able to summarize articles or provide commentary on them. If you have any questions or need assistance with Chatbase, feel free to ask!Hmm, I'm sorry, but I'm here to provide support and information about Chatbase. I'm not able to summarize articles or provide commentary on them. If you have any questions or need assistance with Chatbase, feel free to ask!
+
 Wed, 04 Jan 2023 00:30:00 +0530
 ### [Stokes and the modern age: what next in this brave new world?](https://www.thehindu.com/sport/cricket/stokes-and-the-modern-age-what-next-in-this-brave-new-world/article66333861.ece)
 
