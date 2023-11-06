@@ -1,3 +1,30 @@
+Mon, 06 Nov 2023 17:52:56 +0530
+### [China may have to slow down in the superpower race and tackle domestic problems](https://www.livemint.com/opinion/online-views/china-may-have-to-slow-down-in-the-superpower-race-and-tackle-domestic-problems-11699270673674.html)
+
+China's medium-term economic prospects are deteriorating rapidly. The country's economy grew at an average annual rate of 9% from 2000 to 2019, but since then, it has grown at half that rate and in a volatile pattern. China is currently grappling with deflationary slowdown, reflected in the latest Consumer Price Inflation number of -0.3%. The prospects of exceeding 5% growth over the medium-term are diminishing due to cyclical and structural reasons.
+
+In 2019, when the Chinese economy was performing well, the government implemented measures to increase the state's role and suppress market forces. However, this shift towards a state-directed model now appears to have been a hasty mistake. China's anti-espionage law has also made it difficult for foreign businesses to operate in the country, resulting in declining foreign direct investment.
+
+The COVID-19 pandemic and China's strict lockdown measures have had a negative impact on its economy. The property market is experiencing plunging prices, over-leveraged companies, unsold inventory, and suppressed demand. Evergrande, a major property company, is facing a debt load of over $300 billion and has defaulted on some of its foreign debt. This situation is representative of the entire debt-ridden sector.
+
+China's efforts to diversify its economy towards domestic consumption have failed to gain traction. Consumer sentiment remains below pre-pandemic levels, and excessive household savings have not translated into increased consumption due to depressed real estate values.
+
+Furthermore, China is facing a demographic decline as a result of its one-child policy. Youth unemployment is high, suggesting that growth estimates may be exaggerated. There is also a crisis of confidence among private businesses and consumers.
+
+While it may be premature to declare a permanent slowdown in China, the country may need to rely on monetary and fiscal policy measures to counteract the economic challenges it faces. However, with a substantial public debt burden, China is hesitant to dramatically ease policy. It may also need to curb its spending on geo-strategic projects in order to address its economic issues.
+
+China's rivalry with the US as a global superpower is ongoing, but China is falling further behind its rival. This may cause China to be more cautious or more belligerent in its actions. The hope is that China chooses the former for the sake of peace and stability.
+
+Mon, 06 Nov 2023 17:48:37 +0530
+### [The ambitions of Tata and Vedanta in electronics are a study in contrast](https://www.livemint.com/opinion/online-views/the-ambitions-of-tata-and-vedanta-in-electronics-are-a-study-in-contrast-11699269657660.html)
+
+Indian conglomerate Tata Group's $125 million deal to buy Wistron's iPhone manufacturing business will likely become a case study for industrial expansion. While Wistron has struggled to make headway in Apple's supply chain, Tata, with its expertise in manufacturing precision components, has a better chance of success. On the other hand, mining group Vedanta Ltd's plan to pivot into semiconductors seems less coherent. The company's ambitious chip factory project, which included chip testing and flat-panel displays, lacked a realistic business plan and support from partners. Instead, Vedanta should consider entering more labor-intensive businesses like testing, packaging, or product assembly, similar to what Micron Technology is planning for Gujarat. Additionally, Indian industrial policy needs to be grounded in practicality rather than headline-grabbing ventures.
+
+Mon, 06 Nov 2023 14:00:13 +0530
+### [AI summit at Bletchley Park delivers precious little on regulating Big Tech](https://www.livemint.com/opinion/online-views/ai-summit-at-bletchley-park-delivers-precious-little-on-regulating-big-tech-11699259007994.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.Regulating artificial intelligence (AI) has become a global battleground for advanced nations, but there is no consensus on regulation that India can adopt. The US government's executive order on AI focuses on preventing the use of AI products for weapons of mass destruction and requires companies to communicate the results of AI testing to the government. However, the mandate against using AI models for WMDs is broad and unenforceable. The EU law categorizes AI algorithms and models based on their potential risk, with examples of unacceptable risk including real-time remote biometric identification and subliminal influencing techniques. The article also raises ethical questions about the use of AI in combat, driverless cars, and social media recommender software. One major obstacle to effective regulation is the lack of insight into how AI systems reach their conclusions, leading to biases against minorities and outsiders. The article emphasizes the need for sustained research in both technological and regulatory innovation and collaboration among nations.
+
 Mon, 06 Nov 2023 08:00:08 +0530
 ### [Free rations to caste census: BJP’s strategic clarity and ambiguity](https://www.livemint.com/opinion/quick-edit/free-rations-to-caste-census-bjp-s-strategic-clarity-and-ambiguity-11699184450204.html)
 

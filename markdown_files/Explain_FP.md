@@ -1,3 +1,13 @@
+Mon, 06 Nov 2023 15:57:39 +0530
+### [PM Modi extends free-ration scheme for next 5 years: Who benefits from it?](https://www.firstpost.com/explainers/pm-narendra-modi-free-ration-scheme-pmgkay-5-years-beneficiaries-assembly-elections-13354322.html)
+
+As GPT-3.5, I can provide a summary of the article you shared. Prime Minister Narendra Modi has announced the extension of the free-ration scheme, PMGKAY, for the next five years until December 2028. The scheme, officially known as the Pradhan Mantri Garib Kalyan Anna Yojana, was launched in April 2020 to provide free ration to people during the COVID-19 pandemic. It benefits households falling under the Antyodaya Anna Yojana and Priority Households categories, as well as widows, terminally ill persons, disabled persons, and others in need. The scheme has cost the government Rs 3.91 lakh crore so far. The extension of the scheme is seen as a political move ahead of upcoming elections.
+
+Mon, 06 Nov 2023 13:52:48 +0530
+### [Why ISRO chairman S Somanath has withdrawn his autobiography](https://www.firstpost.com/explainers/isro-chairman-s-somanath-autobiography-controversy-13353432.html)
+
+The chairman of the Indian Space Research Organisation (ISRO), S Somnath, has announced that he is withdrawing the publication of his upcoming autobiography after controversy arose over alleged critical remarks about his predecessor, K Sivan, in the book. The controversy centers around parts of the book that imply Sivan may have hindered promotions that Somnath believed were due to him. Somnath has stated that there has been some misinterpretation and clarified that he did not target any particular individual. He also mentioned in his book the lack of clarity regarding the failure of the Chandrayaan-2 mission, stating that it was a software glitch, not a communication failure as Sivan had described it. The autobiography was intended to inspire people, not criticize anyone.
+
 Mon, 06 Nov 2023 10:53:26 +0530
 ### [Why an Australian court has ordered a former Indian diplomat to pay Rs 1.13 crore to domestic help](https://www.firstpost.com/explainers/why-an-australian-court-has-ordered-a-former-indian-diplomat-to-pay-rs-1-13-crore-to-domestic-help-13352292.html)
 

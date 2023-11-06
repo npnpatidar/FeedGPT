@@ -1,3 +1,8 @@
+Sun, 05 Nov 2023 18:26:15 +0530
+### [Political Line | Clarity of the extremist; disorientation of the liberal](https://www.thehindu.com/opinion/columns/political-line-clarity-of-the-extremist-disorientation-of-the-liberal/article67500903.ece)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses the issue of criticizing religions and the rise of religious extremism. It highlights that extremists of all religions claim that their views represent the essence of their religion and argue that the actions of extremists from other religions reveal the true character of those religions. The article also mentions the efforts by governments in France, Germany, and the US to regulate or contain views critical of Israel or supporting Palestinians, which is seen as a threat to freedom of expression and individual liberty. The author points out the complexity faced by liberals in navigating these issues, while extremists find clarity in their beliefs. The article concludes by mentioning the promotion of regional pride in Karnataka and the legal challenges faced by two Indian states regarding the conduct of their Governors.
+
 Wed, 01 Nov 2023 00:30:00 +0530
 ### [In sport, you often learn more from a defeat than from a victory](https://www.thehindu.com/opinion/columns/in-sport-you-often-learn-more-from-a-defeat-than-from-a-victory/article67480900.ece)
 
