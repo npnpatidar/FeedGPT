@@ -1,3 +1,18 @@
+Tue, 07 Nov 2023 11:55:18 +0530
+### [How did $47 billion firm WeWork go bankrupt? What happens to Indian operations?](https://www.firstpost.com/explainers/how-office-sharing-firm-wework-is-going-out-of-business-12976512.html)
+
+WeWork, the American office-sharing start-up, has filed for bankruptcy in New Jersey federal court. The company's CEO, David Tolley, expressed gratitude for the support of financial stakeholders and stated that WeWork remains committed to investing in its products, services, and employees. Co-founder Adam Neumann called the bankruptcy filing "disappointing" and expressed belief that a reorganization could lead to success. WeWork was valued at $47 billion in 2019 but faced skepticism from investors and a failed IPO. The COVID-19 pandemic further impacted the company's occupancy rates and financial stability. WeWork India stated that it operates independently from WeWork Global and will not be affected by the bankruptcy filing. WeWork China also announced that it will not participate in the strategic reorganization in the US and Canada.
+
+Tue, 07 Nov 2023 11:06:23 +0530
+### [Israel-Hamas war: How many jobs have been lost in Gaza?](https://www.firstpost.com/explainers/israel-hamas-war-how-many-jobs-have-been-lost-in-gaza-13357362.html)
+
+The recent Israeli-Hamas conflict has had a devastating impact on the employment situation in Gaza, with over 60% of jobs lost since the conflict began. This amounts to a total of 182,000 jobs lost in the small Palestinian territory. The occupied West Bank has also lost an estimated 24% of its employment, or 208,000 jobs, as a result of the war's spillover effects. The International Labour Organisation warns that if the conflict continues, the repercussions on the Palestinian labour market will worsen and reverberate for many years to come. In addition to job losses, rising poverty is a major concern in Gaza, where more than 80% of the population already lives below the poverty level. The UN agency estimates that job losses in Gaza and the West Bank result in a daily income loss of $16 million. The economic future for Gaza was already bleak before the war, and the recent fighting has only worsened the situation. The Economist Intelligence Unit predicts a short but steep recession followed by a hesitant rebound and a return to normal economic performance by 2025.
+
+Tue, 07 Nov 2023 09:02:28 +0530
+### [Stabbed her 17 times, drove over her: How an Indian man killed his wife in the US](https://www.firstpost.com/explainers/stabbed-her-17-times-drove-over-her-how-an-indian-man-killed-his-wife-in-the-us-13356752.html)
+
+An Indian man, Philip Mathew, has been sentenced to life in prison in Florida for the first-degree murder of his wife, Merin Joy. Joy, a nurse, was planning to escape from an abusive relationship. Mathew stabbed her 17 times, drove over her body with his vehicle, and then fled the scene. Joy managed to reveal her attacker's identity before succumbing to her injuries, which led to Mathew's arrest. The plea deal spared Mathew from the possibility of a death sentence. He was also sentenced for aggravated assault with a deadly weapon. Mathew's life sentence has no possibility of release. Joy's mother expressed relief that the legal process is over but her family remains devastated by the loss.
+
 Mon, 06 Nov 2023 20:03:59 +0530
 ### [Want to boost productivity? Try getting angry at work](https://www.firstpost.com/explainers/anger-boost-productivity-study-workplace-motivator-goals-13355892.html)
 
@@ -8,10 +23,20 @@ Mon, 06 Nov 2023 17:59:08 +0530
 
 Chhattisgarh is preparing for the first phase of Assembly elections, with the Congress and the Bharatiya Janata Party (BJP) as the main contenders. Chhattisgarh Chief Minister Bhupesh Baghel of the Congress is facing a tough contest from his distant nephew and BJP candidate Vijay Baghel in his home constituency Patan. Other key candidates include JCC-J president Amit Jogi, BJP's Raman Singh, and Union Minister Renuka Singh. The main issues in the elections are farmers' concerns and alleged corruption charges against the Baghel government. Tribals and OBCs are also important constituents in the elections.
 
+Mon, 06 Nov 2023 17:37:47 +0530
+### [FirstUp: Mizoram, Chhattisgarh to vote and more… The big news today](https://www.firstpost.com/explainers/firstup-mizoram-chhattisgarh-to-vote-and-more-the-big-news-today-13355182.html)
+
+The article discusses various news events happening around the world. It highlights the ongoing war between Hamas and Israel, the elections in Mizoram and Chhattisgarh in India, the sentencing of journalist Soumya Vishwanathan's killers, the outreach program of the Communist Party of India (Marxist), the US Supreme Court's review of the ban on bump stocks, the hearing of the cipher case against former Prime Minister Imran Khan in Pakistan, the availability of Apple's new MacBook Pro in India, the Australian cricket team's match against Afghanistan, and the birth anniversary of scientist Marie Curie.
+
 Mon, 06 Nov 2023 15:57:39 +0530
 ### [PM Modi extends free-ration scheme for next 5 years: Who benefits from it?](https://www.firstpost.com/explainers/pm-narendra-modi-free-ration-scheme-pmgkay-5-years-beneficiaries-assembly-elections-13354322.html)
 
 As GPT-3.5, I can provide a summary of the article you shared. Prime Minister Narendra Modi has announced the extension of the free-ration scheme, PMGKAY, for the next five years until December 2028. The scheme, officially known as the Pradhan Mantri Garib Kalyan Anna Yojana, was launched in April 2020 to provide free ration to people during the COVID-19 pandemic. It benefits households falling under the Antyodaya Anna Yojana and Priority Households categories, as well as widows, terminally ill persons, disabled persons, and others in need. The scheme has cost the government Rs 3.91 lakh crore so far. The extension of the scheme is seen as a political move ahead of upcoming elections.
+
+Mon, 06 Nov 2023 14:15:27 +0530
+### [India may finally bring National Security Strategy: What is it? Why is it needed?](https://www.firstpost.com/explainers/india-may-bring-national-security-strategy-what-is-it-why-is-it-needed-13353632.html)
+
+India is in the process of formulating its National Security Strategy (NSS) after years of discussion and no progress. The National Security Council Secretariat (NSCS) has started collecting inputs from various ministries and departments to draft the strategy, which will then be presented to the Cabinet for approval. The NSS will outline India's security objectives, identify internal and external challenges, and provide guidance on how to achieve national goals. It will address traditional and non-traditional challenges such as economic security, information warfare, and environmental concerns. The need for an NSS has been emphasized by military and strategic circles, who believe it will provide a comprehensive framework for addressing security-related matters and guide defense reforms. However, there have been hesitations in releasing an NSS document due to concerns about revealing India's stance to potential adversaries. Countries like the United States, Russia, the United Kingdom, Japan, China, and Pakistan have already formulated their own national security strategies.
 
 Mon, 06 Nov 2023 13:52:48 +0530
 ### [Why ISRO chairman S Somanath has withdrawn his autobiography](https://www.firstpost.com/explainers/isro-chairman-s-somanath-autobiography-controversy-13353432.html)

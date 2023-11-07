@@ -1,3 +1,28 @@
+Tue, 07 Nov 2023 08:00:08 +0530
+### [AQI woes: Delhi dusts off its old odd-even policy](https://www.livemint.com/opinion/quick-edit/aqi-woes-delhi-dusts-off-its-old-odd-even-policy-11699271178402.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Delhi's Aam Aadmi Party (AAP) government has reintroduced the odd-even vehicle scheme in an attempt to combat the city's severe air pollution. The scheme restricts vehicles with odd-numbered license plates to certain days, and even-numbered license plates on others. However, the effectiveness of the scheme has been questioned in the past due to public inconvenience. The main causes of toxic air, such as farm fires, still need to be addressed. Implementing tech-enabled tolls and surge pricing based on air quality could be more effective in reducing traffic congestion and vehicular exhaust.
+
+Tue, 07 Nov 2023 08:00:08 +0530
+### [It is time for India's 97% to speak up against the Old Pension Scheme](https://www.livemint.com/opinion/online-views/it-is-time-for-indias-97-to-speak-up-against-the-old-pension-scheme-11699271367507.html)
+
+The Indian economy's recovery from the COVID-19 pandemic has been better than most other major economies, but government spending must continue to support the recovery and promote equity. However, electoral populism is jeopardizing fiscal prudence, as political parties are promising to return to the old pension scheme instead of the new one. Several states have already reverted to the old scheme, which puts a huge burden on government finances and hampers efforts to stabilize them. The old scheme is an unfunded liability that requires current government funds to pay pensions, leading to a situation where a small percentage of the workforce claims a large share of government revenue. This unfair situation continues because public employees are organized and influential, while the majority of the workforce lacks social security. It is important for the majority to unite and oppose this injustice.
+
+Tue, 07 Nov 2023 08:00:08 +0530
+### [India must fill data gaps on inequality before policy can address it properly](https://www.livemint.com/opinion/online-views/india-must-fill-data-gaps-on-inequality-before-policy-can-address-it-properly-11699280872181.html)
+
+Hmm, economic inequality in India has been a topic of discussion for quite some time. In the past, India was seen as having low levels of income inequality, but recent data and estimation techniques have challenged this perception. The India Human Development Survey (IHDS) and other studies have shown that income inequality in India is higher than previously thought. Wealth inequality is also a concern, with India having a high concentration of wealth. However, it's important to note that these estimates have limitations and may not capture the complete picture of wealth concentration and regional variations. To address this issue, policymakers should focus on gathering more comprehensive data on income and wealth distribution. This will help inform a well-informed debate and identify potential solutions to tackle economic inequality in India.
+
+Tue, 07 Nov 2023 08:00:08 +0530
+### [AI is winning. That's the sarcastic signal from Elon Musk's Grok](https://www.livemint.com/opinion/online-views/ai-is-winning-thats-the-sarcastic-signal-from-elon-musks-grok-11699282979050.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Elon Musk has announced the release of a new AI called "Grok," which stands for intuitive understanding. Grok is a large language model trained on vast amounts of textual data. It is currently available only to premium users of X, and has two standout features. First, Grok can access X's content, including up-to-the-minute news and misinformation. Second, Grok's responses are designed to be snarky and playful, incorporating humor and sarcasm. This ability to understand and generate humor and sarcasm could be a breakthrough in AI development. Musk, who has warned about the dangers of AI, is launching a program that has the potential to make himself redundant.
+
+Mon, 06 Nov 2023 19:19:56 +0530
+### [We must rise above misleading ‘global hunger’ rankings based on odd methodology](https://www.livemint.com/opinion/online-views/we-must-rise-above-misleading-global-hunger-rankings-based-on-odd-methodology-11699271397589.html)
+
+India has implemented the ICDS program to improve the health and nutrition of children aged 0-6 years. The country is also using technology through the Poshan Tracker to identify underweight children and track nutrition service delivery. Despite these efforts, India ranks low on the Global Hunger Index (GHI) and World Happiness Index. However, when comparing hunger reduction rates, India has reduced hunger at a faster pace than the world since 2010. If data from the Poshan Tracker is used, India's rank on the GHI would improve significantly. The GHI methodology focuses heavily on under-five stunting and wasting, which may not solely be due to nutrition but also genetics. In terms of undernourishment and under-five mortality, India performs better than other countries. In under-five wasting, India ranks at the bottom, but the Poshan Tracker shows a lower wasting rate than indicated by the GHI. Overall, India's performance on hunger parameters is better than portrayed by the GHI, and efforts should be focused on improving child nutrition through programs like Poshan.
+
 Mon, 06 Nov 2023 17:52:56 +0530
 ### [China may have to slow down in the superpower race and tackle domestic problems](https://www.livemint.com/opinion/online-views/china-may-have-to-slow-down-in-the-superpower-race-and-tackle-domestic-problems-11699270673674.html)
 
@@ -114,6 +139,11 @@ Thu, 02 Nov 2023 16:37:19 +0530
 ### [Are Indian GST revenues really as buoyant as they appear to be?](https://www.livemint.com/opinion/online-views/are-indian-gst-revenues-really-as-buoyant-as-they-appear-to-be-11698922991786.html)
 
 India's gross goods and services tax (GGST) revenue reached ₹1.72 trillion in October, the second-highest since the implementation of the tax regime. The average monthly GGST collection in the first half of 2023-24 was ₹1.65 trillion, which has become a new benchmark for economic growth. The GST regime, introduced in July 2017, aimed to replace multiple indirect taxes and ensure uniformity in the tax structure across India. The government claims that the GST regime has reduced the tax burden on consumers and increased revenue buoyancy for states and the Centre. However, there are challenges, such as the difference in revenue as a proportion of GDP in the pre-GST and GST eras. The government should consider rationalizing the tax slabs to achieve a higher GST-to-GDP ratio.
+
+Thu, 02 Nov 2023 16:17:30 +0530
+### [Women in the labour market: We'll make progress if we address India's ageing](https://www.livemint.com/opinion/online-views/women-in-the-labour-market-well-make-progress-if-we-address-indias-ageing-11698921056784.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses the work of Claudia Goldin, who recently won the Nobel economics prize for her research on women's labor force participation rates in the US. Goldin found that gender wage disparities persist due to factors such as childbirth, and she also identified "greedy jobs" that require long hours and extensive travel. The article then shifts focus to India, where female labor force participation rates have fluctuated over time. It highlights the role of unpaid care for the elderly as a barrier to women's participation in the labor force in India, and discusses the lack of resources and support for caregivers. The article concludes by emphasizing the need for more attention and solutions to address these issues.
 
 Thu, 02 Nov 2023 15:58:10 +0530
 ### [Shareholder diversity may explain Apple’s stock price](https://www.livemint.com/opinion/online-views/shareholder-diversity-may-explain-apple-s-stock-price-11698919625525.html)

@@ -1,3 +1,13 @@
+Tue, 07 Nov 2023 11:25:33 +0530
+### [Vantage | Why Rashmika Mandanna's deepfake is a wakeup call for all](https://www.firstpost.com/opinion/vantage-why-rashmika-mandannas-deepfake-is-a-wakeup-call-for-all-13357742.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Deepfakes, AI-generated media that manipulate the faces and voices of individuals, are challenging the concept of truth and raising concerns about their potential consequences. These sophisticated creations can alter a person's appearance and voice in videos, often with malicious intent. Deepfakes initially started as simple face swaps but have evolved into a menace, with the majority being adult content and involving the faces of female celebrities mapped onto pornographic material. The dark side of deepfakes includes exploitation, blackmail, and character assassination, as seen in the case of Rashmika Mandanna. Victims of deepfake manipulation can find themselves in compromising situations, and the consequences can be severe. Some countries, such as South Korea and the European Union, have enacted laws to combat the spread of deepfakes. However, in India, there is no specific law addressing deepfakes, but existing laws related to privacy and publishing images can be applied. Stricter laws and enforcement mechanisms are needed to protect individuals from the malicious consequences of deepfakes.
+
+Tue, 07 Nov 2023 09:56:31 +0530
+### [Vantage | Will Israel-Hamas war lead to a global recession?](https://www.firstpost.com/opinion/vantage-will-israel-hamas-war-lead-to-a-global-recession-13356912.html)
+
+The article discusses the current state of the global economy and the potential for a recession due to significant geopolitical events, including the Wuhan virus pandemic, the Russia-Ukraine conflict, and the Israel-Hamas conflict. Prominent figures in the finance world, such as Larry Fink and Jamie Dimon, express concerns about the economic consequences of these conflicts. The article highlights the impact of geopolitical events on economic stability and provides specific examples of how the Russia-Ukraine conflict and the Israel-Hamas conflict are affecting major economies. It emphasizes the need for diplomatic resolutions to conflicts, as prolonged wars can lead to a global economic meltdown.
+
 Mon, 06 Nov 2023 18:10:02 +0530
 ### [Determined and brilliant, this Team India deserves the World Cup](https://www.firstpost.com/opinion/determined-and-brilliant-this-team-india-deserves-the-world-cup-13355362.html)
 

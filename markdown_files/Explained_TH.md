@@ -1,3 +1,8 @@
+Tue, 07 Nov 2023 08:30:00 +0530
+### [What are the challenges for the new Polish government? | Explained](https://www.thehindu.com/news/international/what-are-the-challenges-for-the-new-polish-government-explained/article67505695.ece)
+
+The people of Poland recently voted in a multi-party opposition coalition, giving them a majority in the parliament's lower house. This marked a defeat for the ruling ultra-conservative Law and Justice party, which has been known for its right-wing and populist policies. The coalition plans to reverse many of the current government's controversial actions, such as imposing a total ban on abortions and attacking the LGBT community. The new government, led by former Prime Minister Donald Tusk, is expected to take a pro-EU stance and work to improve Poland's relationship with Brussels.
+
 Sun, 05 Nov 2023 01:45:00 +0530
 ### [What is the status of Kavach installations? | Explained](https://www.thehindu.com/news/national/what-is-the-status-of-kavach-installations-explained/article67498761.ece)
 
