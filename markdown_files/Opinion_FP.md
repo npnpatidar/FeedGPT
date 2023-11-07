@@ -1,3 +1,13 @@
+Tue, 07 Nov 2023 17:43:00 +0530
+### [Vantage | Story behind the jail-break of an imprisoned dictator](https://www.firstpost.com/opinion/vantage-story-behind-the-jail-break-of-an-imprisoned-dictator-13360342.html)
+
+Former Guinean president Captain Moussa Dadis Camara, who is awaiting trial for mass murder and crimes against humanity, was the target of a jailbreak attempt or possible kidnapping. Camara ruled Guinea from 2008 to 2010 and is accused of committing heinous acts during his time in power. The incident occurred when unidentified gunmen attacked the prison where Camara was held and successfully freed him and three other detainees. The freed individualsFormer Guinean president, Captain Moussa Dadis Camara, was targeted in a jailbreak attempt or possible kidnapping in Guinea. Camara, who has been incarcerated for a year awaiting trial for mass murder and crimes against humanity, was successfully liberated along with three other detainees by unidentified gunmen. The freed individuals were involved in the massacre of at least 150 people in September 2009, during Camara's rule. The audacious jailbreak raised questions about security in Guinea, but Camara was recaptured within a few hours. Guinea's current rulers plan to charge Camara with escaping jail and illegal weapons possession, while his lawyer denies the allegations and claims he was abducted. The incident casts doubt on whether Camara will be held accountable for his crimes, leaving the pursuit of justice uncertain.
+
+Tue, 07 Nov 2023 16:30:24 +0530
+### [Vantage | What is causing Nepal's deadly earthquakes?](https://www.firstpost.com/opinion/vantage-what-is-causing-nepals-deadly-earthquakes-13359792.html)
+
+A recent earthquake measuring 6.4 on the Richter scale has caused extensive destruction in western Nepal. The earthquake, which is the third to hit Nepal in four days, has resulted in numerous deaths, displacement of people, and the destruction of many homes. Rescue efforts have been hindered by the rugged terrain and landslides triggered by the earthquake. Aftershocks, including one measuring 5.6 on the Richter scale, continue to pose challenges and have even been felt in Delhi, India. Nepal's vulnerability to earthquakes is due to its location within the highly seismic Himalayan region. The remote and mountainous terrain of western Nepal further complicates relief operations. The article emphasizes the need for ongoing support and efforts to mitigate the impact of future earthquakes in the region.
+
 Tue, 07 Nov 2023 15:09:03 +0530
 ### [Vantage | What Croatian minister's kiss controversy says about social kissing](https://www.firstpost.com/opinion/vantage-what-croatian-ministers-kiss-controversy-says-about-social-kissing-13359052.html)
 

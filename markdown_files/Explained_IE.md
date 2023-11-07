@@ -1,3 +1,8 @@
+Tue, 07 Nov 2023 12:11:56 +0000
+### [Ten things Delhi-NCR needs to do to tackle air pollution: What an IIT Kanpur study said](https://indianexpress.com/article/explained/ten-things-delhi-ncr-needs-tackle-air-pollution-9017406/)
+
+The Supreme Court has criticized the governments of Punjab, Haryana, and Rajasthan for not stopping farmers from burning stubble, as poor air quality continues to affect the Delhi-NCR region. The court also directed the Delhi government to prevent the burning of municipal solid waste. These measures, along with the implementation of the odd-even car scheme, may help reduce pollution levels, but a comprehensive approach is needed to address the problem. A report by the Indian Institute of Technology Kanpur suggests ten steps that should be taken to control air pollution in the region. These include stopping the use of coal in hotels and restaurants, promoting the use of LPG for cooking, ending municipal solid waste burning, and covering construction materials at construction sites. The report also recommends the use of windbreakers and telescopic chutes during concrete batching, promoting the use of electric and BS-VI vehicles, installing de-sox-ing and de-nox-ing systems at power plants, and installing vapour recovery systems at petrol pumps. Additionally, biomass burning should be limited, and measures should be taken to tackle fly ash.
+
 Tue, 07 Nov 2023 09:43:12 +0000
 ### [A daily glass of goat milk? Here’s what you need to know.](https://indianexpress.com/article/explained/explained-economics/goat-milk-gujarat-9017201/)
 

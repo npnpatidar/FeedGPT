@@ -1,3 +1,8 @@
+Tue, 07 Nov 2023 10:56:56 +0000
+### [Why it is unfair to equate Angelo Mathews’ timed-out dismissal with a Mankad](https://indianexpress.com/article/opinion/columns/why-it-is-unfair-to-equate-angelo-mathews-timed-out-dismissal-with-a-mankad-9017246/)
+
+The article discusses the recent controversy surrounding Angelo Mathews' timed-out dismissal in a cricket match. The author argues that while the dismissal may have been within the rules, it was somewhat unfair to Mathews due to a last-minute equipment malfunction. The author distinguishes this dismissal from a Mankad, where the non-striker intentionally gains an advantage by leaving the crease. The author concludes that while Shakib Al Hasan, the opposing captain, played by the rules, the timed-out dismissal should not be equated with a Mankad. The article also highlights the changing nature of cricket and the increasing acceptance of professional conduct over traditional notions of "gentlemanly conduct."
+
 Tue, 07 Nov 2023 07:52:34 +0000
 ### [Dear Editor, I Disagree: On air pollution, Centre, BJP governments share the blame](https://indianexpress.com/article/opinion/dear-editor-disagree-air-pollution-centre-bjp-governments-share-blame-9017024/)
 

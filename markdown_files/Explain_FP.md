@@ -1,3 +1,8 @@
+Tue, 07 Nov 2023 16:11:46 +0530
+### [Inside Marafy, Saudi Arabia’s futuristic megacity with a London-like waterfront](https://www.firstpost.com/explainers/inside-marafy-saudi-arabia-futuristic-megacity-with-a-london-like-waterfront-man-made-canal-13359832.html)
+
+Saudi Arabia is planning to build a new megacity called Marafy north of Jeddah. The city will feature an 11-kilometer manmade canal, which will be the first of its kind in the country. The canal will connect to Obhur Creek and will be surrounded by various districts linked by an inter-model transport system. The waterfront districts will have shaded promenades, dining areas, entertainment venues, parks, and landscaping. The project aims to improve the quality of life and support the local economy. Marafy is part of Saudi Arabia's Vision 2030 program, which aims to diversify the economy, modernize society, and boost the country's global profile. The development of Marafy is backed by Saudi Arabia's Public Investment Fund and comes under the guidance of Crown Prince Mohammed bin Salman.
+
 Tue, 07 Nov 2023 15:29:29 +0530
 ### [In Graphics | Are Green crackers all that they’re cracked up to be?](https://www.firstpost.com/explainers/in-graphics-are-green-crackers-all-that-theyre-cracked-up-to-be-13356222.html)
 
