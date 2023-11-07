@@ -13,6 +13,7 @@
     <outline type="rss" title="Opinion Mint" xmlUrl="http://www.livemint.com/rss/opinion" />
 <outline type="rss" title="EDITORIAL TH" xmlUrl="https://www.thehindu.com/opinion/editorial/feeder/default.rss" />
 <outline type="rss" title="Column TH" xmlUrl="https://www.thehindu.com/opinion/columns/feeder/default.rss" />
+    <outline type="rss" title="The Wire" xmlUrl="https://thewire.in/rss" />
 
   </body>
 </opml>
