@@ -8,6 +8,16 @@ Mon, 06 Nov 2023 17:59:08 +0530
 
 Chhattisgarh is preparing for the first phase of Assembly elections, with the Congress and the Bharatiya Janata Party (BJP) as the main contenders. Chhattisgarh Chief Minister Bhupesh Baghel of the Congress is facing a tough contest from his distant nephew and BJP candidate Vijay Baghel in his home constituency Patan. Other key candidates include JCC-J president Amit Jogi, BJP's Raman Singh, and Union Minister Renuka Singh. The main issues in the elections are farmers' concerns and alleged corruption charges against the Baghel government. Tribals and OBCs are also important constituents in the elections.
 
+Mon, 06 Nov 2023 17:37:47 +0530
+### [FirstUp: Mizoram, Chhattisgarh to vote and more… The big news today](https://www.firstpost.com/explainers/firstup-mizoram-chhattisgarh-to-vote-and-more-the-big-news-today-13355182.html)
+
+Today's big news includes the ongoing war between Hamas and Israel, the Mizoram and Chhattisgarh elections in India, the sentencing of journalist Soumya Vishwanathan's killers, the Communist Party of India (Marxist)'s outreach program, the US Supreme Court's review of the ban on bump stocks, the hearing of the case against former Prime Minister Imran Khan in Pakistan, the availability of the new MacBook Pro in India, the Australian cricket team's match against Afghanistan, and the birth anniversary of scientist Marie Curie.
+
+Mon, 06 Nov 2023 17:26:18 +0530
+### [Why was ‘brave’ Karnataka government officer murdered?](https://www.firstpost.com/explainers/why-was-prathima-ks-brave-karnataka-government-officer-murdered-driver-arrested-13355142.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Prathima KS, a 45-year-old geologist with the Karnataka Department of Mines and Geology, was found murdered in her home in Bengaluru. The victim's throat was slit, and a suspect has been arrested - a former driver who was recently fired from the department. Prathima was known for conducting raids on illegal mining activities and had investigated high-profile cases. Colleagues described her as brave and proactive. The murder is believed to have been committed by the former driver, who had financial troubles and wanted his job back. He strangled Prathima and then staged the scene to look like a robbery gone wrong before fleeing the city.
+
 Mon, 06 Nov 2023 15:57:39 +0530
 ### [PM Modi extends free-ration scheme for next 5 years: Who benefits from it?](https://www.firstpost.com/explainers/pm-narendra-modi-free-ration-scheme-pmgkay-5-years-beneficiaries-assembly-elections-13354322.html)
 

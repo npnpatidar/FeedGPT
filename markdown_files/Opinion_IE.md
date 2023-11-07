@@ -1,3 +1,8 @@
+Mon, 06 Nov 2023 21:30:06 +0000
+### [November 7, 1983, Forty Years Ago: Palestinians Protest](https://indianexpress.com/article/opinion/40-years-ago/november-7-1983-forty-years-ago-palestinians-protest-9016400/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses various events happening in West Asia and India. In West Asia, there is ongoing violence in Palestinian camps near Tripoli, with hundreds of casualties. Yasser Arafat has lost control of the major Nahr al-Barid camp. In India, talks between India and West Germany address concerns over the deployment of US Pershing-II missiles in Europe and issues like trade imbalance. A riot breaks out in Sukkur Jail in rural Sindh province, resulting in injuries to 12 people. The Congress-I party in India has given up on holding organizational elections and will continue to run the party through centrally appointed office-bearers indefinitely.
+
 Mon, 06 Nov 2023 11:19:53 +0000
 ### [Cancer, heart disease, diabetes — it’s all in the air](https://indianexpress.com/article/opinion/columns/cancer-heart-disease-diabetes-air-pollution-9015854/)
 

@@ -1,3 +1,8 @@
+Tue, 07 Nov 2023 00:30:00 +0530
+### [Defection business: On party-hopping as a feature of Indian politics](https://www.thehindu.com/opinion/editorial/defection-business-on-party-hopping-as-a-feature-of-indian-politics/article67504577.ece)
+
+The article discusses the trend of last-minute defections of politicians from one party to another in Indian elections. It highlights that electoral politics in India has become expensive, leading parties to prioritize candidates who can mobilize resources for campaigns. This has resulted in a group of politicians who are more focused on building a career through patronage rather than ideological conviction. The article suggests that this system of patronage is less representative of the interests and demands of constituents and more of a transaction between the candidate and the voter. The presence of careerist politicians has contributed to the Congress party losing ground to the Bharatiya Janata Party (BJP), which has been able to articulate a clear ideological stance and provide a platform for those seeking patronage. The Congress party has tried to differentiate itself by positioning itself as a vehicle of welfare through electoral guarantees, attracting last-minute defectors from the BJP and regional parties. However, retaining these malleable legislators poses a challenge. The article concludes that unless voters punish defectors for party-hopping, defections will continue to be a feature of Indian politics.
+
 Tue, 07 Nov 2023 00:15:00 +0530
 ### [More light, less sound: On firecrackers and a festival of light](https://www.thehindu.com/opinion/editorial/more-light-less-sound-on-firecrackers-and-a-festival-of-light/article67504558.ece)
 
