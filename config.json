@@ -1,0 +1,6 @@
+{
+    "opml_file": "feeds.opml",
+    "markdown_dir": "markdown_files",
+    "feed_dir": "feeds",
+    "github_repo" : "npnpatidar/FeedGPT"
+}
