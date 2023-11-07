@@ -141,8 +141,15 @@ def summarise(article_text):
 # make index file, create log files
 
 
-def get_feeds(opml_file, markdown_dir="markdown_files", feed_dir="feeds"):
+def get_feeds():
     feeds = []
+
+    with open('config.json', 'r') as config_file:
+        config = json.load(config_file)
+
+    opml_file = config.get("opml_file", "feeds.opml")
+    markdown_dir = config.get("markdown_dir", "markdown_files")
+    feed_dir = config.get("feed_dir", "feeds")
 
     if not os.path.exists(markdown_dir):
         os.makedirs(markdown_dir)
@@ -275,6 +282,26 @@ def add_rss_item_to_xml(xml_file_path, title, link, description, pubDate):
         print(f"Error adding RSS item: {str(e)}")
 
 
+def extract_feed_url():
+    # Extract the repository name and feed directory and construct the URL
+    with open('config.json', 'r') as config_file:
+        config_json = json.load(config_file)
+    github_repo = config_json.get("github_repo")
+    feed_dir = config_json.get("feed_dir")
+    
+    if github_repo:
+        repo_parts = github_repo.split('/')
+        if len(repo_parts) == 2:
+            user, repo_name = repo_parts
+            feed_url = f"https://{user}.github.com/{repo_name}/{feed_dir}/"
+            return feed_url
+        else:
+            return "Invalid repository format in config.json"
+    else:
+        return "The 'github_repo' key is not found in config.json"
+
+
+
 def generate_base_xml(feed):
     # Create an RSS feed XML document
     rss_feed = ET.Element("rss", version="2.0")
@@ -285,7 +312,7 @@ def generate_base_xml(feed):
     title.text = feed["title"]
 
     link = ET.SubElement(channel, "link")
-    link.text = f"https://npnpatidar.github.com/FeedGPT/feeds/" + \
+    link.text = extract_feed_url() + \
         feed["title"].replace(' ', '_') + f".xml"
 
     description = ET.SubElement(channel, "description")
@@ -301,8 +328,7 @@ def generate_base_xml(feed):
 
 def main():
 
-    feeds = get_feeds(
-        "feeds.opml", markdown_dir="markdown_files", feed_dir="feeds")
+    feeds = get_feeds()
 
     write_index_log_files(feeds)
 
