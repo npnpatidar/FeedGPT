@@ -1,26 +1,33 @@
 ---
 created: 2023-11-07T10:54:02+05:30
-modified: 2023-11-07T11:15:29+05:30
+modified: 2023-11-07T11:27:30+05:30
 ---
 
 # README
 
-## What is the purpose
-If you subscribe to RSS feeds of various newspapers or journals or magazines and you want to get summary of those long articles by chatgpt then this is for you. 
+# FeedGPT: Summarize RSS Feeds with ChatGPT
 
-## It does following
-1. It takes opml file having feed url as input
-2. It creates separate  xml and markdown file for each feed url
-3. It fetches all articles in each feed one by one. 
-4. It summarises those fetched articles using gpt4free
-5. It updates the summary in xml and markdown files 
+**What is FeedGPT?**
 
-## How can you use it
-1. Fork the repo
-2. Create Work_Token for forked repository 
-3. In repository secrets add name,  email and work token created
-4. Update config file 
-5. Update opml file with your feed urls
-6. Change cron-job.yml file if you want to change frequency of sync etc
-7. Subscribe to your news feeds using any feed reader
-8. Download gitjournal app and subscribe to the repository to see markdown files as notes
+FeedGPT is a tool designed to simplify your news consumption process. If you subscribe to RSS feeds from various sources and wish to receive summarized versions of lengthy articles via ChatGPT, then FeedGPT is the solution for you.
+
+**Features:**
+
+1. **Feed Input:** FeedGPT takes an OPML file with feed URLs as input.
+2. **File Generation:** It generates separate XML and Markdown files for each feed URL.
+3. **Article Fetching:** FeedGPT fetches articles from each feed, one by one.
+4. **Summarization:** It leverages GPT4Free to provide concise summaries for fetched articles.
+5. **Update Files:** The tool updates the summaries in the XML and Markdown files.
+
+**Getting Started:**
+
+1. **Fork the Repository:** Begin by forking this repository to your GitHub account.
+2. **Create a Work Token:** Generate a Work Token for your forked repository.
+3. **Configure Repository Secrets:** Add your name, email, and the Work Token you created to your repository secrets.
+4. **Update Configuration:** Modify the configuration file according to your preferences.
+5. **Feed URLs:** Update the OPML file with the RSS feed URLs you wish to subscribe to.
+6. **Cron Job:** If needed, make changes to the `cron-job.yml` file to adjust the frequency of synchronization, etc.
+7. **Subscribe to Feeds:** Use any feed reader of your choice to subscribe to your news feeds.
+8. **Access Summaries:** Download the GitJournal app and subscribe to this repository to access the generated Markdown files as notes.
+
+Enjoy a more efficient way to stay updated with your favorite news sources using FeedGPT!
