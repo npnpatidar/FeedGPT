@@ -1,3 +1,8 @@
+Tue, 07 Nov 2023 14:57:55 +0530
+### [‘Misleading’ ads for IAS coaching institutes being probed by consumer protection body | Explained](https://www.thehindu.com/education/misleading-ads-for-ias-coaching-institutes-being-probed-by-consumer-protection-body-explained/article67485182.ece)
+
+GPT-3.5: The Central Consumer Protection Authority (CCPA) is currently investigating 20 IAS coaching institutes for misleading claims and unfair trade practices in their advertisements. Four of these institutes have already been fined Rs 1 lakh each. The investigation focuses on the institutes' use of testimonials without disclosing the nature of the enrolments and the course pursued by the top rank holders featured in their ads. The CCPA has found that many rank holders only took mock interviews from these institutes, which were provided free of cost. This lack of disclosure qualifies as deliberate concealment of important information and is categorized as a 'misleading advertisement' under the Consumer Protection Act, 2019. The penalties for first-time violations can go up to Rs 10 lakh, and subsequent violations may attract penalties up to Rs 50 lakh. The CCPA observed that the total selections claimed by the institutes being probed exceeded the recommendations by UPSC, possibly due to multiple enrolments among students. Currently, four institutes have been fined, while others are still under investigation.
+
 Tue, 07 Nov 2023 08:30:00 +0530
 ### [What are the challenges for the new Polish government? | Explained](https://www.thehindu.com/news/international/what-are-the-challenges-for-the-new-polish-government-explained/article67505695.ece)
 

@@ -1,7 +1,27 @@
+Tue, 07 Nov 2023 15:29:29 +0530
+### [In Graphics | Are Green crackers all that they’re cracked up to be?](https://www.firstpost.com/explainers/in-graphics-are-green-crackers-all-that-theyre-cracked-up-to-be-13356222.html)
+
+Scientists at the Council of Scientific and Industrial Research - National Environmental Engineering Research Institute (CSIR-NEERI) have developed "green crackers" as an eco-friendly alternative to conventional firecrackers. These green crackers emit about 30% less pollution and do not contain barium compounds, which are known to pollute the air and cause noise. There are three types of green firecrackers: safe water releaser, safe thermite cracker, and safe minimal aluminium cracker. Green crackers are also cheaper and make less noise than conventional firecrackers. They can be recognized by a QR code and green logo indicating certification from NEERI.
+
+Tue, 07 Nov 2023 14:04:03 +0530
+### [China cracks down on ‘pig butchering’ scam. It has nothing to with the animals](https://www.firstpost.com/explainers/china-cracks-down-on-pig-butchering-scam-it-has-nothing-to-with-the-animals-13358252.html)
+
+China has been cracking down on a cyber scam known as "pig butchering," which involves con artists luring victims into fake romantic relationships and then convincing them to invest in fraudulent bitcoin schemes. These scams are operated by strong Chinese syndicates based in Southeast Asia, particularly Myanmar. The scams can be lengthy, with the con artists courting their victims for months before convincing them to make large investments. Many of these con artists are also victims of human trafficking, having been tricked into false job ads and imprisoned in prison-like complexes. Investment fraud is the fastest-growing scam globally, with Chinese citizens losing billions of dollars each year. In response, Chinese authorities have conducted mass arrests and launched joint operations with neighboring countries to catch suspects. Despite these efforts, experts warn that these criminal groups will continue to exploit vulnerable areas around the world.
+
+Tue, 07 Nov 2023 13:21:19 +0530
+### [How a spinal implant has helped a patient with Parkinson's disease to walk again](https://www.firstpost.com/explainers/how-a-spinal-implant-has-helped-a-patient-with-parkinsons-disease-to-walk-again-13358482.html)
+
+Swiss researchers have achieved a medical first by implanting electrodes in the spinal cord of a patient with advanced Parkinson's disease. The breakthrough allows the patient, Marc Gauthier, to walk and perform daily tasks without difficulty. The procedure is invasive and more research is needed, but it shows potential for restoring movement in people with Parkinson's disease. The researchers had previously pioneered similar breakthroughs to help paraplegic people walk again. The neuroprosthesis, a complex system of electrodes, stimulates movement by replacing the impaired communication between the brain and spinal cord. The treatment could be expensive and is being further tested on a group of six Parkinson's patients. Overall, the achievement represents a major advance in Parkinson's treatment.
+
 Tue, 07 Nov 2023 11:55:18 +0530
 ### [How did $47 billion firm WeWork go bankrupt? What happens to Indian operations?](https://www.firstpost.com/explainers/how-office-sharing-firm-wework-is-going-out-of-business-12976512.html)
 
 WeWork, the American office-sharing start-up, has filed for bankruptcy in New Jersey federal court. The company's CEO, David Tolley, expressed gratitude for the support of financial stakeholders and stated that WeWork remains committed to investing in its products, services, and employees. Co-founder Adam Neumann called the bankruptcy filing "disappointing" and expressed belief that a reorganization could lead to success. WeWork was valued at $47 billion in 2019 but faced skepticism from investors and a failed IPO. The COVID-19 pandemic further impacted the company's occupancy rates and financial stability. WeWork India stated that it operates independently from WeWork Global and will not be affected by the bankruptcy filing. WeWork China also announced that it will not participate in the strategic reorganization in the US and Canada.
+
+Tue, 07 Nov 2023 11:40:54 +0530
+### [What is Bharat Atta sold by the Centre? How much does it cost, where can you get it?](https://www.firstpost.com/explainers/what-is-bharat-atta-sold-by-the-centre-how-much-does-it-cost-where-can-you-get-it-13357042.html)
+
+The Indian government has launched a new wheat flour scheme called "Bharat Atta" ahead of the Diwali festival. The scheme aims to reduce food inflation and provide reasonably priced wheat flour to the poor and vulnerable sections of society. Bharat Atta is a fortified wheat flour made with a blend of rice, wheat, and pulses. It will be sold through various retail outlets, including Mother Dairy, NAFED, and NCCF, as well as 800 mobile vans and 2,000 outlets run by these agencies. The initiative follows a pilot sale of 18,000 tonnes of wheat flour at Rs 29.50 per kilo, which has now been reduced to combat inflation. India continues to face high cereal inflation, with the rate of cereal inflation still in double digits. The government plans to limit exports of wheat and rice to ensure adequate supply and reasonably priced access for its population of 1.4 billion people. Prime Minister Narendra Modi has also announced plans to introduce a free food grains program to protect consumers from rising food inflation.
 
 Tue, 07 Nov 2023 11:06:23 +0530
 ### [Israel-Hamas war: How many jobs have been lost in Gaza?](https://www.firstpost.com/explainers/israel-hamas-war-how-many-jobs-have-been-lost-in-gaza-13357362.html)
@@ -27,6 +47,11 @@ Mon, 06 Nov 2023 17:37:47 +0530
 ### [FirstUp: Mizoram, Chhattisgarh to vote and more… The big news today](https://www.firstpost.com/explainers/firstup-mizoram-chhattisgarh-to-vote-and-more-the-big-news-today-13355182.html)
 
 The article discusses various news events happening around the world. It highlights the ongoing war between Hamas and Israel, the elections in Mizoram and Chhattisgarh in India, the sentencing of journalist Soumya Vishwanathan's killers, the outreach program of the Communist Party of India (Marxist), the US Supreme Court's review of the ban on bump stocks, the hearing of the cipher case against former Prime Minister Imran Khan in Pakistan, the availability of Apple's new MacBook Pro in India, the Australian cricket team's match against Afghanistan, and the birth anniversary of scientist Marie Curie.
+
+Mon, 06 Nov 2023 17:26:18 +0530
+### [Why was ‘brave’ Karnataka government officer murdered?](https://www.firstpost.com/explainers/why-was-prathima-ks-brave-karnataka-government-officer-murdered-driver-arrested-13355142.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.Prathima KS, a 45-year-old geologist with the Karnataka Department of Mines and Geology, was found murdered in her home in Bengaluru. The victim's throat was slit, and a suspect has been arrested - a former driver who was recently fired from the department. Prathima was known for conducting raids on illegal mining activities and had investigated high-profile cases. Colleagues described her as brave and proactive. The murder is believed to have been committed by the former driver, who had financial troubles and wanted his job back. He strangled Prathima and then staged the scene to look like a robbery gone wrong before fleeing the city.
 
 Mon, 06 Nov 2023 15:57:39 +0530
 ### [PM Modi extends free-ration scheme for next 5 years: Who benefits from it?](https://www.firstpost.com/explainers/pm-narendra-modi-free-ration-scheme-pmgkay-5-years-beneficiaries-assembly-elections-13354322.html)
