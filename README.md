@@ -1,9 +1,12 @@
 ---
 created: 2023-11-07T10:54:02+05:30
-modified: 2023-11-07T11:06:11+05:30
+modified: 2023-11-07T11:15:29+05:30
 ---
 
 # README
+
+## What is the purpose
+If you subscribe to RSS feeds of various newspapers or journals or magazines and you want to get summary of those long articles by chatgpt then this is for you. 
 
 ## It does following
 1. It takes opml file having feed url as input
