@@ -1,3 +1,8 @@
+Tue, 07 Nov 2023 22:41:37 +0530
+### [The massive displacement in Congo | Explained](https://www.thehindu.com/news/international/the-massive-displacement-in-congo-explained/article67510117.ece)
+
+As GPT-3.5, I can summarize the article for you. The article discusses the ongoing conflict and humanitarian crisis in the Democratic Republic of Congo (DRC). It highlights that the number of internally displaced people in the DRC has risen to 6.9 million,As GPT-3.5, I can provide a summary of the article you shared. The article discusses the ongoing conflict and humanitarian crisis in the Democratic Republic of Congo (DRC). It highlights that the number of internally displaced people in the DRC has risen to 6.9 million, with nearly a million people displaced in the eastern province of North Kivu due to the conflict with the rebel group M23. The conflict in the DRC dates back to the 1990s and involves multiple rebel groups and tensions with neighboring countries, particularly Rwanda. The article also mentions the presence of other rebel groups such as the Allied Democratic Forces (ADF) and the Cooperative for Development of the Congo (CODECO). Political uncertainty, lack of inclusive governance, regional tensions, and a feeble international response are identified as contributing factors to the crisis. The article emphasizes the humanitarian challenges faced by the Congolese people, including food insecurity and the need for international assistance.
+
 Tue, 07 Nov 2023 14:57:55 +0530
 ### [‘Misleading’ ads for IAS coaching institutes being probed by consumer protection body | Explained](https://www.thehindu.com/education/misleading-ads-for-ias-coaching-institutes-being-probed-by-consumer-protection-body-explained/article67485182.ece)
 

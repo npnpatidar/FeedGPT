@@ -93,6 +93,11 @@ Tue, 27 Jun 2023 14:45:51 +0530
 
 Chinese company Baidu claims that its AI chatbot, the Ernie AI model, has surpassed OpenAI's ChatGPT in several key metrics. This comes as more Chinese companies, including Alibaba and Tencent, announce their own rival AI products. Google has also requested that the Supreme Court of India dismiss antitrust directives against it for alleged abuse of the Android market. Meanwhile, Qualcomm has announced the Snapdragon 4 Gen 2 SOC processor for entry-level smartphones, which is expected to bring down the price of 5G phones and improve battery life.
 
+Fri, 23 Jun 2023 11:45:00 +0530
+### [Column | Longing and a side of tehar](https://www.thehindu.com/opinion/columns/saba-mahjoor-column-a-little-life-phuphee-sisterhood-longing-tehar/article66988891.ece)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The article tells the story of a gathering of women in a Kashmiri village who come together to share their longings and find solace in each other's company. The author, who is visiting her aunt Phuphee, witnesses this gathering and learns about the deep bond and understanding that exists among the women. They gather at Phuphee's house unannounced and spend the day talking, reciting poetry, and comforting each other. They eat tehar (turmeric rice), drink kehwa (tea), and massage mustard oil into each other's hair as a way to alleviate the burdens of their hearts. The author realizes that these gatherings serve as a form of healing and sisterhood, providing an outlet for the unexpressed longings that women carry.
+
 Thu, 22 Jun 2023 14:25:59 +0530
 ### [Today’s Cache | Chatbots and mental health; Google infringed patents; Tech companies allege unfair cloud practices](https://www.thehindu.com/sci-tech/technology/todays-cache-chatbots-and-mental-health-google-infringed-patents-tech-companies-allege-unfair-cloud-practices/article66996785.ece)
 
@@ -102,6 +107,11 @@ Tue, 13 Jun 2023 13:52:56 +0530
 ### [Today’s Cache | E.U. regulators target Google’s ad-tech business; FTC looks to block Microsoft-Activision deal; Centre denies CoWIN data breach](https://www.thehindu.com/sci-tech/technology/todays-cache-eu-regulators-target-googles-ad-tech-business-ftc-looks-to-block-microsoft-activision-deal-centre-denies-cowin-data-breach/article66963858.ece)
 
 European Union antitrust regulators are considering ordering Google to sell a part of its advertising technology business in an effort to reduce the tech giant's dominance in digital ads. Google currently holds a 28% market share of global ad revenue and has faced increasing scrutiny over its dominance in online advertising. The US Federal Trade Commission has also sought to block Microsoft's acquisition of Activision Blizzard, citing concerns about potential changes in the company and competition in the cloud gaming market. In India, the Ministry of Health has denied reports of a data breach of COVID vaccination beneficiaries, stating that the claims are baseless and mischievous. The Indian Computer Emergency Response Team has been asked to investigate the issue.
+
+Sat, 03 Jun 2023 20:40:58 +0530
+### [Political Line | The stories that make a nation](https://www.thehindu.com/opinion/columns/political-line-the-stories-that-make-a-nation/article66928253.ece)
+
+The article discusses the controversy surrounding the installation of a golden sceptre, called sengol, in India's new Parliament building. The opposition parties boycotted the inauguration, and The Hindu editorial criticized the move as an attempt to reimagine India's founding principles. The BJP has embellished the event, linking it to the transfer of power from British rule to Congress. However, this claim lacks historical basis. The article also highlights the BJP's attempt to undermine Dravidian politics in Tamil Nadu by appropriating a Saivite sect. The author suggests that the official narrative will overshadow the facts over time. Additionally, the article covers other political topics such as Assam's changing linguistic landscape, north-south divide in politics, criticism of a mural in Parliament, delimitation of Lok Sabha seats, and the retention of sedition laws.
 
 Thu, 01 Jun 2023 14:38:43 +0530
 ### [In the era of unicorns, there are few takers for Sudha Murty’s brand of simplicity](https://www.thehindu.com/society/sudha-murty-simple-memes-and-jokes-the-kapil-sharma-show-india-aspirations/article66910610.ece)
@@ -128,10 +138,25 @@ Wed, 17 May 2023 00:30:00 +0530
 
 The article discusses the financial dynamics within the International Cricket Council (ICC) and how money has become the basis of power within the organization. In 2014, England, Australia, and India proposed a revenue-sharing model that favored them over other countries. This model has been proposed again for the cycle of 2024-2027, where India would take home the largest portion of the surplus revenue. The article argues that while self-interest is understandable, the ICC should prioritize the growth of the game and ensure that the money is used for the development of cricket. Currently, the countries that need the funding the most are receiving the least amount.
 
+Fri, 28 Apr 2023 11:50:00 +0530
+### [Column | Is it time to shut up?](https://www.thehindu.com/opinion/columns/social-media-outrage-commenting-veena-venugopal-column-virat-kohli-sourav-ganguly-jk-rowling-the-dalai-lama/article66776615.ece)
+
+The article discusses the culture of commenting and expressing opinions on social media platforms. The author reflects on their own experiences and how the internet has evolved over time. They mention a video clip featuring the Dalai Lama, which sparked controversy, and express their uncertainty about whether to comment on it. The author also talks about the rise of online arguments and the tendency for people to become rooted in their opinions. They highlight the complexity of issues and the importance of understanding that things are not always black and white. The article mentions a book by Jon Ronson called "So You've Been Publicly Shamed," which explores the impact of social media shaming. The author admits to having fewer opinions and realizing their lack of knowledge on various topics. They caution against engaging in mindless online outrage and suggest taking a moment to reflect before commenting.
+
 Wed, 26 Apr 2023 00:30:00 +0530
 ### [Cricket shouldn’t float on barrels of oil at a time of climate crisis](https://www.thehindu.com/opinion/columns/cricket-shouldnt-float-on-barrels-of-oil-at-a-time-of-climate-crisis/article66777891.ece)
 
 The article discusses the challenges faced by test cricket and the sport of cricket as a whole. It highlights the issue of national boards losing control of players to self-interested few and the increasing influence of Indian franchises. The article also mentions two external threats to the sport – climate change and Saudi Arabia's sportswashing ambitions. It highlights the impact of climate change on cricket, particularly in low-lying areas, and emphasizes the importance of considering sponsors' contributions to the climate crisis. The article raises concerns about Saudi Arabia's involvement in cricket and suggests that the game's integrity should not be compromised for financial gain. It concludes by suggesting that the changing landscape of cricket, both internally and externally, poses a significant challenge to the sport.
+
+Sun, 23 Apr 2023 11:35:41 +0530
+### [Political Line | Savarkar vs Gandhi; NAMO vs RAGA](https://www.thehindu.com/news/national/big-picture-savarkar-vs-gandhi-namo-vs-raga/article66769627.ece)
+
+The article discusses the differing approaches of Rahul Gandhi and Narendra Modi, two key figures in Indian politics. Gandhi's statement on V.D. Savarkar's apology letter caused controversy within his own party alliance, while Modi emphasized the teachings of Buddha to address global challenges. The article also explores how Hindutva organizations have selectively embraced and ignored aspects of Savarkar's philosophy. It mentions the Congress party's struggle to maintain ideological purity and its late recognition of leaders like Ambedkar and Patel. The article concludes by highlighting the importance of ethical politics in the present and the ongoing debate on caste representation in positions of power.
+
+Fri, 21 Apr 2023 15:53:07 +0530
+### [Column | Chicken broth and some pluck](https://www.thehindu.com/opinion/columns/saba-mahjoor-a-little-life-phuphee-chicken-soup-girls-education-life-lessons-tchatte-rass/article66750180.ece)
+
+The article tells the story of Phuphee, a woman who is determined to ensure education for girls in her village. She discovers that the girls' school is facing issues due to harassment from security personnel stationed nearby. Phuphee confronts the authorities and offers them a bowl of tchatte rass, a traditional broth, as a gesture of courage. Eventually, the bunker is moved, and the school is saved. Phuphee emphasizes the importance of education, stating that it teaches critical thinking and reduces dependence on others. The article concludes with Phuphee urging a young girl to focus on her studies and not rely on men to explain things to her.
 
 Wed, 19 Apr 2023 00:30:00 +0530
 ### [In defence of defence — played right, it can be a sexy shot too](https://www.thehindu.com/opinion/columns/in-defence-of-defence-played-right-it-can-be-a-sexy-shot-too/article66751448.ece)
