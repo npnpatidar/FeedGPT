@@ -10,9 +10,16 @@ from datetime import datetime
 
 
 def fetch_and_write_feed_to_markdown(feed):
+
+    with open('config.json', 'r') as config_file:
+        config = json.load(config_file)
+    github_repo = config.get("github_repo")
+
+    default_media_url = "https://raw.githubusercontent.com/" + \
+        github_repo + "/media/thumbnail.jpg"
+
     # Parse the feed
     markdown_file = feed['markdown_filename']
-    # log_file = feed['log_filename']
     feed_url = feed['url']
     feed_file = feed['feed_filename']
     try:
@@ -38,15 +45,18 @@ def fetch_and_write_feed_to_markdown(feed):
         tree = ET.parse(feed_file)
         root = tree.getroot()
         for item in root.findall(".//item"):
-            # Assuming "id" is used as the entry's ID
             existing_links.add(item.find("link").text)
 
     for entry in feed_response.entries:
         title = entry.title
         link = entry.link
-        # id = entry.id
         pub_date = entry.published
         description = entry.summary
+        ai_summary = "False"
+        if hasattr(entry, "media_thumbnail") and entry.media_thumbnail:
+            media_url = entry.media_thumbnail[0]['url']
+        else:
+            media_url = default_media_url
 
         # Check if the entry's ID already exists in the set of existing IDs
         if link in existing_links:
@@ -65,19 +75,20 @@ def fetch_and_write_feed_to_markdown(feed):
 
         if summary is None:
             print("No summary so skipping")
-            continue
+            summary = "Couldn't summarize"
         else:
-            # Add the new entry to the XML file
-            add_rss_item_to_xml(feed['feed_filename'],
-                                title, link, summary, pub_date)
+            ai_summary = "True"
 
-            with open(markdown_file, "a", encoding="utf-8") as md_file:
-                md_file.write(f"### [{title}]({link})\n\n")
-                md_file.write(f"{summary}\n\n")
+        with open(markdown_file, "a", encoding="utf-8") as md_file:
+            md_file.write(f"### [{title}]({link})\n\n")
+            md_file.write(f"{summary}\n\n")
+        print(f"Feed entries have been written to {markdown_file}")
 
-            existing_links.add(link)  # Add the new entry's ID to the set
+        # Add the new entry to the XML file
+        update_xml_item(feed['feed_filename'],
+                        title, link, summary, pub_date, ai_summary, media_url)
 
-    print(f"Feed entries have been written to {markdown_file}")
+        existing_links.add(link)  # Add the new entry's ID to the set
 
 # Define a function to fetch the article text
 
@@ -248,47 +259,13 @@ def sorting_and_writing_markdown_files(feed):
         print(f"Error: {str(e)}")
 
 
-def add_rss_item_to_xml(xml_file_path, title, link, description, pubDate):
-    try:
-        # Load the existing XML file
-        tree = ET.parse(xml_file_path)
-        root = tree.getroot()
-
-        # Create a new item element
-        new_item = ET.Element("item")
-
-        title_element = ET.SubElement(new_item, "title")
-        title_element.text = title
-
-        link_element = ET.SubElement(new_item, "link")
-        link_element.text = link
-
-        description_element = ET.SubElement(new_item, "description")
-        description_element.text = description
-
-        pubDate_element = ET.SubElement(new_item, "pubDate")
-        pubDate_element.text = pubDate
-
-        # Append the new item to the root channel element
-        channel = root.find("channel")
-        channel.append(new_item)
-
-        with open(xml_file_path, "w", encoding="utf-8") as xml_file:
-            xml_file.write(ET.tostring(root, encoding="utf-8").decode())
-
-        print("New RSS item added successfully.")
-
-    except Exception as e:
-        print(f"Error adding RSS item: {str(e)}")
-
-
 def extract_feed_url():
     # Extract the repository name and feed directory and construct the URL
     with open('config.json', 'r') as config_file:
         config_json = json.load(config_file)
     github_repo = config_json.get("github_repo")
     feed_dir = config_json.get("feed_dir")
-    
+
     if github_repo:
         repo_parts = github_repo.split('/')
         if len(repo_parts) == 2:
@@ -301,10 +278,10 @@ def extract_feed_url():
         return "The 'github_repo' key is not found in config.json"
 
 
-
 def generate_base_xml(feed):
     # Create an RSS feed XML document
     rss_feed = ET.Element("rss", version="2.0")
+    rss_feed.set("xmlns:media", "http://search.yahoo.com/mrss/")
     channel = ET.SubElement(rss_feed, "channel")
 
     # Define RSS channel elements
@@ -323,7 +300,128 @@ def generate_base_xml(feed):
 
     return rss_xml
 
-# Define the main function
+
+def update_xml_item(xml_file_path, title, link, description, pubDate, ai_summary, media_url):
+    try:
+        # Load the existing XML file
+        tree = ET.parse(xml_file_path)
+        root = tree.getroot()
+        items = root.findall(".//item")
+
+        # Check if an item with the same link already exists
+        existing_item = None
+        for item in items:
+            item_link = item.find("link").text
+            if item_link == link:
+                existing_item = item
+                break
+
+        if existing_item is not None:
+            # Update the existing item with the provided data
+            title_element = existing_item.find("title")
+            title_element.text = title
+
+            description_element = existing_item.find("description")
+            description_element.text = description
+
+            pubDate_element = existing_item.find("pubDate")
+            pubDate_element.text = pubDate
+
+            ai_summary_element = existing_item.find("ai_summary")
+            ai_summary_element.text = ai_summary
+
+            # Update elements with namespaces
+            media_thumbnail_element = existing_item.find(
+                ".//ns0:thumbnail", namespaces={'ns0': 'http://search.yahoo.com/mrss/'})
+            media_thumbnail_element.set("url", media_url)
+
+            media_content_element = existing_item.find(
+                ".//ns0:content", namespaces={'ns0': 'http://search.yahoo.com/mrss/'})
+            media_content_element.set("url", media_url)
+            media_content_element.set("medium", "image")
+
+        else:
+            # Create a new item element
+            new_item = ET.Element("item")
+
+            title_element = ET.SubElement(new_item, "title")
+            title_element.text = title
+
+            link_element = ET.SubElement(new_item, "link")
+            link_element.text = link
+
+            description_element = ET.SubElement(new_item, "description")
+            description_element.text = description
+
+            pubDate_element = ET.SubElement(new_item, "pubDate")
+            pubDate_element.text = pubDate
+
+            ai_summary_element = ET.SubElement(new_item, "ai_summary")
+            ai_summary_element.text = ai_summary
+
+            # Create elements with namespaces
+            media_thumbnail_element = ET.SubElement(
+                new_item, "{http://search.yahoo.com/mrss/}thumbnail")
+            media_thumbnail_element.set("url", media_url)
+
+            media_content_element = ET.SubElement(
+                new_item, "{http://search.yahoo.com/mrss/}content")
+            media_content_element.set("url", media_url)
+            media_content_element.set("medium", "image")
+
+            # Append the new item to the root channel element
+            channel = root.find("channel")
+            channel.append(new_item)
+
+        # Save the updated XML
+        tree.write(xml_file_path, encoding="utf-8")
+
+        print("XML item updated or added successfully.")
+
+    except Exception as e:
+        print(f"Error updating or adding XML item: {str(e)}")
+
+
+def update_summaries_in_items_where_ai_summary_is_false(feed):
+    feed_url = feed['feed_filename']
+    markdown_file = feed['markdown_filename']
+    if os.path.exists(feed_url):
+        tree = ET.parse(feed_url)
+        root = tree.getroot()
+        items = root.findall(".//item")
+        for item in items:
+            ai_summary = item.find("ai_summary").text
+            if ai_summary == 'False':
+                title = item.find("title").text
+                link = item.find("link").text
+                description = item.find("description").text
+                pubDate = item.find("pubDate").text
+                namespace = {'media': 'http://search.yahoo.com/mrss/'}
+                media_thumbnail = item.find(
+                    ".//media:thumbnail", namespaces=namespace)
+                media_url = media_thumbnail.attrib['url']
+
+                print(f"Fetching {title}")
+                article_text = fetch_article_text(link)
+                if article_text is None:
+                    print("No article text so skipping")
+                    continue
+
+                print(f"Summarizing")
+                summary = summarise(article_text)
+
+                if summary is None:
+                    print("No summary so skipping")
+                    continue
+                else:
+                    ai_summary = "True"
+                    with open(markdown_file, "a", encoding="utf-8") as md_file:
+                        md_file.write(f"### [{title}]({link})\n\n")
+                        md_file.write(f"{summary}\n\n")
+                    print(f"Feed entries have been written to {markdown_file}")
+                    update_xml_item(feed_url, title, link, summary,
+                                    pubDate, ai_summary, media_url)
+    return feed
 
 
 def main():
@@ -334,6 +432,8 @@ def main():
 
     for feed in feeds:
         fetch_and_write_feed_to_markdown(feed)
+    for feed in feeds:
+        update_summaries_in_items_where_ai_summary_is_false(feed)
         sorting_and_writing_markdown_files(feed)
 
 
