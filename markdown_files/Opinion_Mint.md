@@ -1,3 +1,17 @@
+Wed, 08 Nov 2023 17:38:03 +0530
+### [A thin line separates economic nationalism from a closed economy but it can work](https://www.livemint.com/opinion/online-views/a-thin-line-separates-economic-nationalism-from-a-closed-economy-but-it-can-work-11699444784146.html)
+
+The article discusses the rise of economic nationalism and its implications for global trade. While some view economic nationalism as a return to protectionism and autarky, it can be both harmful and beneficial depending on its form. Economic nationalism, like political nationalism, prioritizes the nation's interests in framing the economy. However, its definition varies and could involve measures that either restrict or leverage international links to promote national economic growth.
+
+Countries in East Asia, such as Japan, South Korea, Taiwan, and China, have successfully combined economic nationalism with policies that encourage global economic integration and protect key industries. These countries utilized industrial policies, subsidies, and trade barriers strategically to develop their economic competence and catch up with the West. Despite accusations of insufficient market access, East Asia's economic nationalism has benefited the rest of the world by creating larger markets and lowering prices for consumers.
+
+However, economic nationalism can also go wrong when governments engage in excessive state control, support inefficient firms for too long, or close their economies indiscriminately. In such cases, the negative consequences primarily affect the country itself rather than its neighbors. The article suggests that if the US focuses on creating a strong domestic economy through economic nationalism, it can revive the tradition of developmentalism and benefit other countries as well. The risk lies in the US overstepping its boundaries and imposing its preferences on others, which would harm the world and provide little benefit to itself.
+
+Wed, 08 Nov 2023 16:44:20 +0530
+### [The Pacific Islands' SOS call for a rescue needs earnest responses from the rest](https://www.livemint.com/opinion/online-views/the-pacific-islands-sos-call-for-a-rescue-needs-earnest-responses-from-the-rest-11699440733486.html)
+
+Vanuatu, an island country highly vulnerable to climate change, has taken its concerns to the International Court of Justice (ICJ) to clarify the obligations and legal consequences related to climate change. Vanuatu's move highlights the severity of the issue, as it faces the highest disaster risk and the potential of being submerged by the end of the century. Despite efforts from the US to engage with Pacific states and provide aid, the consistency of these efforts is questioned. The US-China relationship is increasingly affecting American engagement in the Pacific, with concerns over treating Pacific states as territories rather than sovereign nations. The 52nd Pacific Islands Forum is set to discuss climate solutions, where the US and China will try to showcase their influence, despite skepticism from partners. China's funding flow is decreasing, giving the US an opportunity to build trust in the region through its climate financing package. Overall, the Pacific islands require further assistance to cope with the increasing frequency of natural disasters.
+
 Wed, 08 Nov 2023 08:00:08 +0530
 ### [The Old Pension Scheme wildfire must be stopped before it’s too late](https://www.livemint.com/opinion/online-views/the-old-pension-scheme-wildfire-must-be-stopped-before-it-s-too-late-11699371711297.html)
 
@@ -174,7 +188,7 @@ This article discusses the often strained relationship between siblings, suggest
 Fri, 03 Nov 2023 18:41:25 +0530
 ### [The finance and tech gold rushes are over. Where will people seeking wealth turn next?](https://www.livemint.com/opinion/online-views/the-finance-and-tech-gold-rushes-are-over-where-will-people-seeking-wealth-turn-next-11699014687017.html)
 
-Couldn't summarize
+The article discusses the shift in job preferences among young people from finance to the tech industry, and how this trend is now changing. The author recalls a conversation with a man working in finance who was making a lot of money despite not being particularly knowledgeable or interested in his job. This led the author to believe that something was wrong in the industry. Over time, more graduates from top schools started pursuing careers in technology rather than finance. However, the article predicts that the tech industry's growth and high rewards are declining. Nascent firms receiving venture capital and going public or being acquired by larger companies are becoming less common. Additionally, higher interest rates make financing harder to obtain, resulting in fewer deals and IPOs. The article suggests that green tech may be the next area of opportunity for wealth creation, but warns that it will also attract individuals solely motivated by financial gain. Ultimately, the article highlights the risks associated with chasing easy fortunes and the importance of creating value for the economy.
 
 Fri, 03 Nov 2023 12:22:16 +0530
 ### [Stricter capital rules for US banks are a lazy way to keep them safe](https://www.livemint.com/opinion/online-views/stricter-capital-rules-for-us-banks-are-a-lazy-way-to-keep-them-safe-11698993431051.html)

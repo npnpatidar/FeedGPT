@@ -1,3 +1,29 @@
+Wed, 08 Nov 2023 17:52:19 +0530
+### [From Starbucks to Google: How big brands are caught in the Israel-Hamas war](https://www.firstpost.com/explainers/israel-hamas-war-starbucks-row-google-employees-big-brands-response-gaza-attack-13365292.html)
+
+The ongoing conflict between Israel and Hamas has led to companies facing backlash and being caught in the politics of the war. Luxury fashion brand Dior received criticism on social media after reports emerged that it replaced Palestinian-American model Bella Hadid with Israeli model May Tager in its latest ad campaign. Turkey's Parliament reportedly removed Coca-Cola and Nestle products from menus due to their alleged support for Israel, marking the first time a government or major organization has targeted global brands over the conflict. UK-based retail brand Marks and Spencer faced outrage for posting a photo on Instagram of Christmas party hats in the colors of the Palestinian flag burning in a fireplace, leading to an apology and removal of the post. Starbucks faced calls for boycotts after its union expressed solidarity with Palestinians, leading to a lawsuit between the company and the union. McDonald's also faced criticism after one of its Israel-based franchises offered free food to personnel of the Israeli military, while McDonald's Malaysia donated funds for humanitarian aid in Gaza. Companies in the United States have been pressured to respond to the conflict, with employees at Google and Amazon calling on their bosses to take a public stand. The conflict has evoked divisions among employees, with Arab and Muslim workers feeling dismissed while Jewish employees worry about rising antisemitism. Companies are struggling to find a stance that is accepted by both sides, as they face criticism for being either too pro-Israeli or sympathetic towards Palestinians. This article also mentions how companies responded during the Russia-Ukraine war, with many suspending sales or closing operations in Russia due to pressure and sanctions.
+
+
+Wed, 08 Nov 2023 17:28:07 +0530
+### [Trump leading Biden in polls: Could the Republican return to the White House?](https://www.firstpost.com/explainers/trump-leading-biden-in-polls-could-the-republican-return-to-the-white-house-13365172.html)
+
+Couldn't summarize
+
+Wed, 08 Nov 2023 16:33:29 +0530
+### [Why controversial Indian-origin poet Rupi Kaur has declined White House Diwali invite](https://www.firstpost.com/explainers/why-controversial-indian-origin-poet-rupi-kaur-has-declined-white-house-diwali-invite-13364752.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Rupi Kaur, a Canadian poet, author, and illustrator, has declined an invitation to the White House for a Diwali celebration and released a politically charged statement criticizing the United States for its support of Israel following the Gaza attack. She called on fellow South Asians to hold the American government accountable. Kaur, known for her work focusing on themes of love, loss, trauma, and femininity, rose to fame through social media. This is not the first controversy she has faced; in the past, she made headlines for posting a picture of herself with a period bloodstain and was accused of plagiarizing another poet. Despite criticism, her poetry collections have been best sellers.
+
+Wed, 08 Nov 2023 16:31:02 +0530
+### [Chen Shaojie is latest Chinese CEO to go missing. Here’s what we know](https://www.firstpost.com/explainers/chen-shaojie-is-latest-ceo-to-go-missing-in-china-heres-what-we-know-13364372.html)
+
+Hmm, I am not sure about the specific details of Chen Shaojie's disappearance or the investigation into DouYu. For more information, you may need to refer to reliable news sources or official statements.Chen Shaojie, the CEO of Chinese livestreaming service DouYu, has gone missing for several weeks. DouYu, which is backed by Tencent and has a market capitalization of $268 million, is often compared to Amazon's Twitch. Chen founded DouYu in 2014, and the platform has around 50 million monthly users. The company went public in 2019 with a $4 billion valuation but has since seen its value shrink to under $300 million. Tencent owns 38 percent of DouYu. Chen's disappearance was first reported by state-owned Cover News, stating that he has been detained in relation to an inquiry into porn and gambling on DouYu, both of which are illegal in China. There has been no official confirmation of his detention. This incident is one among many high-profile businessmen going missing in China as President Xi Jinping tightens his grip on power. Livestreaming platforms in China have faced scrutiny from authorities over concerns about immoral content, leading to investigations and crackdowns.
+
+Wed, 08 Nov 2023 14:24:17 +0530
+### [AQI at Delhi’s Anand Vihar touches 999 again. How hazardous is this for health?](https://www.firstpost.com/explainers/delhi-anand-vihar-aqi-999-hazardous-for-health-air-pollution-13364102.html)
+
+Couldn't summarize
+
 Wed, 08 Nov 2023 13:09:36 +0530
 ### [There’s a new COVID-19 variant. What's JN.1, will vaccines work against it?](https://www.firstpost.com/explainers/jn1-new-covid-19-variant-vaccines-danger-symptoms-13363242.html)
 

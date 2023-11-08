@@ -1,7 +1,12 @@
+Wed, 08 Nov 2023 17:15:06 +0530
+### [Israel-Hamas war: What international laws apply and whether the ICC can prosecute | Explained](https://www.thehindu.com/news/national/israel-hamas-war-what-international-laws-apply-and-whether-the-icc-can-prosecute-explained/article67505248.ece)
+
+Couldn't summarize
+
 Wed, 08 Nov 2023 10:35:01 +0530
 ### [What Elon Musk’s xAI and X integration means for AI and users | Explainer](https://www.thehindu.com/sci-tech/technology/what-elon-musk-xai-x-integration-means-ai-users-explainer/article67511460.ece)
 
-Couldn't summarize
+Elon Musk's AI startup xAI has launched its first AI chatbot called Grok, which will be integrated with the social media platform X. This move raises questions about how users' experience on the platform will change and also aims to boost X's advertising revenue. Grok is designed to provide witty and funny answers and has real-time knowledge of the world through X. It sets itself apart from other AI bots by accessing the latest data available. The AI model has been trained with billions of parameters and has shown promising performance in math and code-related benchmarks. Initially, only a limited number of US-based users will have access to Grok, but it will eventually be available to paying users. Copyright concerns have arisen as tech giants like Google, Meta, and OpenAI face lawsuits for allegedly using copyrighted works to train their AI models. Musk's relationship with AI is complex, as he has signed a letter calling for regulation but also founded his own AI startup. He has criticized OpenAI, claiming it lacks transparency.
 
 Wed, 08 Nov 2023 08:30:00 +0530
 ### [How are the MiG-21 fighter jets being phased out? | Explained](https://www.thehindu.com/news/national/how-are-the-mig-21-fighter-jets-being-phased-out-explained/article67510157.ece)
@@ -26,7 +31,7 @@ Couldn't summarize
 Tue, 07 Nov 2023 10:30:00 +0530
 ### [How the personal data of 815 million Indians got breached | Explained](https://www.thehindu.com/sci-tech/technology/how-the-personal-data-of-815-million-indians-got-breached-explained/article67505760.ece)
 
-Couldn't summarize
+The article discusses a data leak on the dark web involving personally identifiable information (PII) of 815 million Indian citizens, including Aadhaar numbers and passport details. The data was being sold by threat actors, with one claiming to have sourced it from the Indian Council of Medical Research (ICMR). Another threat actor claimed to have access to a larger array of PII data, including voter IDs and driving license records. However, the source of the data leak remains unknown. The Indian government is investigating the reports of the data leak and working on securing the data. Past instances of Aadhaar data leaks have been reported, and the government aims to transition to a more secure setup. The article also mentions the increase in cyberattacks in India and the risk of digital identity theft. Users are advised to check if their information was leaked, be cautious of suspicious emails, change passwords, and implement two-factor authentication for online accounts.
 
 Tue, 07 Nov 2023 08:30:00 +0530
 ### [What are the challenges for the new Polish government? | Explained](https://www.thehindu.com/news/international/what-are-the-challenges-for-the-new-polish-government-explained/article67505695.ece)

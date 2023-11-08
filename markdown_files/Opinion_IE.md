@@ -1,3 +1,18 @@
+Wed, 08 Nov 2023 11:36:30 +0000
+### [WeWork’s collapse: A story of unchecked ambition and shambolic corporate governance](https://indianexpress.com/article/opinion/columns/weworks-collapse-a-story-of-unchecked-ambition-and-shambolic-corporate-governance-9018960/)
+
+Couldn't summarize
+
+Wed, 08 Nov 2023 11:23:38 +0000
+### [GPS ankle monitors for UAPA-accused on bail: Too many issues to ignore](https://indianexpress.com/article/opinion/columns/gps-ankle-monitors-for-uapa-accused-on-bail-too-many-issues-to-ignore-9018880/)
+
+A special court in Jammu has granted bail to Ghulam Mohd Bhat, who is accused of terror financing, on the condition that he wears a GPS tracker on his anklet. This makes the Jammu and Kashmir police the first in India to use a GPS-enabled wearable tracking device to monitor the movement of an accused person on bail. However, there has been little discussion on the reliability and validity of the technology being used. Research on the use of GPS trackers in other countries has shown limitations and errors in the technology. Factors such as obstruction from buildings and weather conditions can affect the accuracy of the tracker. Ankle monitors are also prone to false alarms and can malfunction. Therefore, there are concerns about the use of GPS trackers in the Indian criminal justice system without proper training and understanding of the technology. It is important to address the validity and reliability of the technology and the capability of law enforcement personnel before implementing GPS trackers in this context. Failure to do so could have serious consequences for the fair trial rights of accused persons.
+
+Wed, 08 Nov 2023 11:02:37 +0000
+### [Clean air is a Fundamental Right – that’s why judiciary has to intervene in Delhi’s pollution crisis](https://indianexpress.com/article/opinion/columns/clean-air-fundamental-right-why-judiciary-intervene-in-delhi-pollution-crisis-9018821/)
+
+Couldn't summarize
+
 Wed, 08 Nov 2023 01:49:05 +0000
 ### [How the Indian economy has been navigating a changing world](https://indianexpress.com/article/opinion/columns/how-the-indian-economy-has-been-navigating-a-changing-world-9017977/)
 
@@ -16,7 +31,7 @@ The article discusses the issue of demanding a huge amount of Goods and Services
 Wed, 08 Nov 2023 01:39:21 +0000
 ### [At India-US meeting, the looming question of China’s not-so-subtle maritime assertiveness](https://indianexpress.com/article/opinion/columns/at-india-us-meeting-the-looming-question-of-chinas-not-so-subtle-maritime-assertiveness-9018018/)
 
-Couldn't summarize
+As GPT-3.5, I can provide a summary of the article you shared. The article discusses the upcoming 2+2 ministerial dialogue between India and the US, where the Indian Defence and External Affairs ministers will meet their American counterparts. The partnership between India and the US has become more robust in recent years, with a focus on defense, diplomacy, and technology. The article also highlights the challenge posed by China's revisionist orientation and its actions in the South China Sea. The Philippines has accused China of intruding into its territory, raising tensions in the region. The article emphasizes the need to avoid further escalation and the importance of maintaining a free and open Indo-Pacific. The US-China relationship, along with India's relationship with both countries, will play a significant role in shaping the future dynamics in the region.
 
 Wed, 08 Nov 2023 01:37:24 +0000
 ### [Now, like then: Listening to the last Beatles song](https://indianexpress.com/article/opinion/editorials/now-like-then-listening-to-the-last-beatles-song-9017995/)
