@@ -1,12 +1,54 @@
+Wed, 08 Nov 2023 09:19:04 +0530
+### [How Delhi, Punjab airports have increased security after Gurpatwant Pannun's Air India bombing threat](https://www.firstpost.com/explainers/how-delhi-punjab-airports-have-increased-security-after-gurpatwant-pannuns-air-india-bombing-threat-13362072.html)
+
+Air India passengers at Delhi and Punjab airports will undergo additional security checks following a threat issued by the separatist group Sikhs For Justice (SFJ). Designated terrorist Gurpatwant Singh Pannun warned Sikhs not to fly Air India after November 19. The Bureau of Civil Aviation Security (BCAS) has ordered a "secondary ladder point check," where airline staff will frisk passengers and inspect their hand luggage just before boarding. Entry of visitors to the airports has also been banned. Pannun's threat, although lacking the means to carry it out, has been taken seriously, and heightened security measures have been implemented. Pannun, who has dual citizenship in Canada and the United States, is known for using social media to make threats against India. He has been designated a "proclaimed offender" by the National Investigation Agency (NIA) and his assets have been seized. The Indian High Commission in Ottawa is seeking increased security for Air India flights originating and terminating in Canada.
+
+Wed, 08 Nov 2023 09:01:48 +0530
+### [AQI, PM2.5, smog tower: A simple guide to understanding Delhi’s air pollution](https://www.firstpost.com/explainers/aqi-pm2-5-smog-tower-a-simple-guide-to-understanding-delhis-air-pollution-13359532.html)
+
+Please note that I am an AI language model and do not have real-time access to current weather conditions. However, I can provide you with general information about the climate in Istanbul.
+
+Istanbul is located in Turkey and has a transitional climate between a Mediterranean climate and a humid subtropical climate. Summers are generally hot and humid, while winters are mild and often wet. Here's a breakdown of the seasons:
+
+- Spring (March to May): Spring in Istanbul is mild and usually sees temperatures ranging from around 10°C (50°F) to 20°C (68°F). Rainfall is moderate during this time.
+
+- Summer (June to August): Summers in Istanbul are hot and humid. Average temperatures can range from 20°C (68°F) to 30°C (86°F), with occasional heatwaves pushing temperatures even higher. July and August tend to be the hottest months.
+
+- Autumn (September to November): Autumn is mild with gradually cooling temperatures. Average temperatures range from 15°C (59°F) to 25°C (77°F). Rainfall increases during this season.
+
+- Winter (December to February): Winters in Istanbul are generally mild and wet, with temperatures ranging from 5°C (41°F) to 15°C (59°F). Snowfall is possible but not very common.
+
+It's worth noting that weather patterns can vary from year to year, so it's always a good idea to check a reliable weather forecast closer to your travel date for the most accurate information.
+
+Tue, 07 Nov 2023 20:46:27 +0530
+### [How Sweden is set to become Europe’s first smoke-free country](https://www.firstpost.com/explainers/how-sweden-is-set-to-become-europes-first-smoke-free-country-13361372.html)
+
+Couldn't summarize
+
+Tue, 07 Nov 2023 20:39:20 +0530
+### [Small joys: Why you need you find your glimmer](https://www.firstpost.com/explainers/glimmers-calm-joy-triggers-mental-health-trauma-13361402.html)
+
+Couldn't summarize
+
 Tue, 07 Nov 2023 19:42:23 +0530
 ### [Weed is NOT the remedy: Why marijuana is bad for your heart health](https://www.firstpost.com/explainers/weed-is-not-the-remedy-why-marijuana-is-bad-for-your-heart-health-13359782.html)
 
 Two recent studies have found a link between regular marijuana use and an increased risk of heart attack, stroke, and heart failure. The first study presented by the American Heart Association (AHA) found that regular marijuana users had a 34% higher risk of developing heart failure compared to non-users. The study also found that the risk decreased when participants had coronary artery disease. The second study assessed marijuana users with high blood pressure, high cholesterol, or type 2 diabetes and found that 20% experienced a serious cardiac or neurological event while receiving medical attention. Additionally, marijuana users with cardiovascular risk factors had a higher rate of heart attacks compared to non-users. The use of marijuana among senior citizens is on the rise, with a 2020 study showing an increase in usage between 2015 and 2018. The American Heart Association advises against smoking or vaping any chemical, including cannabis products, due to potential risks to the heart, lungs, and blood vessels.
 
+Tue, 07 Nov 2023 19:00:29 +0530
+### [First Rashmika, now Katrina deepfake: How big is the problem in India and beyond](https://www.firstpost.com/explainers/rashmika-mandanna-katrina-kaif-deepfakes-how-big-is-the-problem-in-india-world-13360732.html)
+
+Couldn't summarize
+
 Tue, 07 Nov 2023 18:56:20 +0530
 ### [FirstUp: Blinken in Seoul and more… What’s going to make news today?](https://www.firstpost.com/explainers/firstup-blinken-in-seoul-and-more-whats-going-to-make-news-today-13361052.html)
 
 US Secretary of State Antony Blinken is set to visit Seoul, South Korea, following his Middle East tour amid the Israel-Hamas conflict. The visit will include discussions on various issues, including North Korea's nuclear program. In other news, the ban on mobile internet services in Manipur, India, is expected to end today after being implemented since May 3 due to violence in the area. The Indian government will also meet with officials from airlines and travel portals to address consumer complaints related to the airline sector. Additionally, five candidates have qualified for the third Republican presidential debate, while former President Donald Trump has chosen not to participate. Ivanka Trump is scheduled to testify in her father's civil fraud trial in New York, and notable birthdays include LK Advani, a BJP veteran turning 96, and former Australian cricketer Brett Lee turning 47. Finally, on this day in 2016, Donald Trump was elected as the 45th President of the United States.
+
+Tue, 07 Nov 2023 17:53:39 +0530
+### [Stop stubble burning now, says SC: What’s the solution for farm fires?](https://www.firstpost.com/explainers/stop-stubble-burning-now-says-sc-whats-the-solution-for-farm-fires-13360592.html)
+
+Couldn't summarize
 
 Tue, 07 Nov 2023 16:11:46 +0530
 ### [Inside Marafy, Saudi Arabia’s futuristic megacity with a London-like waterfront](https://www.firstpost.com/explainers/inside-marafy-saudi-arabia-futuristic-megacity-with-a-london-like-waterfront-man-made-canal-13359832.html)
@@ -82,10 +124,20 @@ Tue, 07 Nov 2023 09:02:28 +0530
 
 An Indian man, Philip Mathew, has been sentenced to life in prison in Florida for the first-degree murder of his wife, Merin Joy. Joy, a nurse, was planning to escape from an abusive relationship. Mathew stabbed her 17 times, drove over her body with his vehicle, and then fled the scene. Joy managed to reveal her attacker's identity before succumbing to her injuries, which led to Mathew's arrest. The plea deal spared Mathew from the possibility of a death sentence. He was also sentenced for aggravated assault with a deadly weapon. Mathew's life sentence has no possibility of release. Joy's mother expressed relief that the legal process is over but her family remains devastated by the loss.
 
+Tue, 07 Nov 2023 07:46:11 +0530
+### [Mizoram Elections 2023: Big names in fray, big issues on minds of voters](https://www.firstpost.com/explainers/mizoram-assembly-elections-2023-big-names-in-fray-big-issues-on-minds-of-voters-13356002.html)
+
+Couldn't summarize
+
 Mon, 06 Nov 2023 20:03:59 +0530
 ### [Want to boost productivity? Try getting angry at work](https://www.firstpost.com/explainers/anger-boost-productivity-study-workplace-motivator-goals-13355892.html)
 
 A new study has found that anger can actually be a powerful motivator for productivity and meeting goals. The American Psychological Association conducted a survey of over 1,000 people and found that anger usually evoked the best performance compared to other emotions. The study also examined surveys from the 2016 and 2020 US presidential elections and found that people who said they would be angry if their preferred candidate lost were more likely to vote. Experts say that the findings are important, especially for women in the workplace who are often conditioned to believe they cannot be "emotional." The study suggests that anger and frustration with the status quo can be tools for innovation and creativity. However, it is important to note that excess anger can be detrimental to cognitive functioning. Overall, the study adds to the growing evidence that a mix of positive and negative emotions promotes well-being, and using negative emotions as tools can be effective in certain situations.
+
+Mon, 06 Nov 2023 18:26:54 +0530
+### [Rashmika Mandanna deepfake controversy: What are these AI-generated pictures, videos?](https://www.firstpost.com/explainers/what-is-a-deepfake-fraud-how-can-we-stay-safe-from-it-12882832.html)
+
+Couldn't summarize
 
 Mon, 06 Nov 2023 17:59:08 +0530
 ### [Chhattisgarh Elections: Who are the key faces in the fray? What are the main issues?](https://www.firstpost.com/explainers/chhattisgarh-assembly-elections-2023-key-candidates-key-seats-main-issues-13355112.html)

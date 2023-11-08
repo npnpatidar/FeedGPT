@@ -1,3 +1,33 @@
+Wed, 08 Nov 2023 01:49:05 +0000
+### [How the Indian economy has been navigating a changing world](https://indianexpress.com/article/opinion/columns/how-the-indian-economy-has-been-navigating-a-changing-world-9017977/)
+
+Couldn't summarize
+
+Wed, 08 Nov 2023 01:48:32 +0000
+### [Delhi pollution crisis: Odd-even, again](https://indianexpress.com/article/opinion/editorials/delhi-pollution-crisis-odd-even-again-9017976/)
+
+The Delhi government has announced that it will implement the odd-even scheme from November 13 to mitigate air pollution in the city. Air quality in Delhi has been extremely poor, and experts predict that the situation will worsen after Diwali. Though previous attempts at road rationing have not significantly reduced pollution levels, there are reasons why the odd-even scheme should still be considered. Delhi's air is heavily polluted, and every feasible step should be taken to improve the situation. Studies show that vehicular emissions contribute about 30% of the toxins in the air, and implementing the odd-even scheme could remove 12 lakh vehicles from the roads, reducing traffic congestion and emissions. However, the Delhi government must coordinate with other environmental management bodies and transportation agencies to ensure successful implementation. It is important to improve the last-mile connectivity for commuters who use the metro. Previous emergency measures to tackle air pollution in Delhi, including the odd-even scheme, have been influenced by the judiciary, and their outcomes offer valuable lessons for environmental management. Therefore, Delhi's upcoming odd-even scheme and other emergency measures will be closely monitored.
+
+Wed, 08 Nov 2023 01:41:10 +0000
+### [On gaming industry rules, the Indian government is not following the letter of the law](https://indianexpress.com/article/opinion/columns/on-gaming-industry-rules-the-indian-government-is-not-following-the-letter-of-the-law-9018020/)
+
+The article discusses the issue of demanding a huge amount of Goods and Services Tax (GST) from online gaming companies in India. The author highlights that these demands are misleading and lack legal foundation. The article mentions that games of skill, such as rummy, poker, and bridge, have been ruled as not amounting to betting or gambling by several high courts and the Supreme Court. The author also refers to the Law Commission of India's report, which concludes that games where skill dominates should be protected under the constitution. The article criticizes the retrospective application of the law and its impact on the gaming companies. The author argues that the demands not only harm the gaming industry but also damage India's reputation as a safe investment destination. The article calls for a reevaluation of the practice of making such excessive demands.
+
+Wed, 08 Nov 2023 01:39:21 +0000
+### [At India-US meeting, the looming question of China’s not-so-subtle maritime assertiveness](https://indianexpress.com/article/opinion/columns/at-india-us-meeting-the-looming-question-of-chinas-not-so-subtle-maritime-assertiveness-9018018/)
+
+Couldn't summarize
+
+Wed, 08 Nov 2023 01:37:24 +0000
+### [Now, like then: Listening to the last Beatles song](https://indianexpress.com/article/opinion/editorials/now-like-then-listening-to-the-last-beatles-song-9017995/)
+
+The last two surviving Beatles, Paul McCartney and Ringo Starr, have released a new song called 'Now and Then' without the explicit consent of their late bandmates, John Lennon and George Harrison. Despite this, the song has become a chart-topper and has been well-received by fans. Some may question the purpose of the song and whether it is a commercial project or an attempt to give the Beatles the ending they never had. However, 'Now and Then' is more than that. It is an offering from Paul and Ringo to John and George, as well as to their fans. While it may not become a staple in Beatles playlists, the song's simple invocation of love, friendship, and regret, along with its harmonizing voices and sampling from Beatles classics, serves as a reminder of why the world fell in love with the Beatles.
+
+Wed, 08 Nov 2023 01:37:01 +0000
+### [Delhi pollution crisis: Odd-even, again](https://indianexpress.com/article/opinion/editorials/delhi-pollution-crisis-odd-even-again-9017960/)
+
+The Delhi government will implement the odd-even scheme from November 13 in an effort to combat the severe air pollution in the city. Previous attempts at road rationing have not effectively reduced pollution levels, but the measure should still be considered due to the high pollutant load in the air and the significant contribution of vehicular emissions. The scheme could potentially reduce traffic congestion and emissions. However, coordination with other environmental management bodies and transport agencies will be necessary to ensure its successful implementation. The government has also made efforts to improve public transportation, but more work is needed to efficiently link various modes of transport. The judiciary has played a role in pushing for action on air pollution, and the lessons learned from emergency measures in Delhi will be important for environmental management across the country. As a result, the upcoming odd-even scheme will be closely monitored.
+
 Tue, 07 Nov 2023 13:33:54 +0000
 ### [Rashmika Mandanna’s deepfake: Regulate AI, don’t ban it](https://indianexpress.com/article/opinion/columns/rashmika-mandannas-deepfake-regulate-ai-dont-ban-it-9017666/)
 

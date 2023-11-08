@@ -1,3 +1,23 @@
+Wed, 08 Nov 2023 08:00:08 +0530
+### [The Old Pension Scheme wildfire must be stopped before it’s too late](https://www.livemint.com/opinion/online-views/the-old-pension-scheme-wildfire-must-be-stopped-before-it-s-too-late-11699371711297.html)
+
+The political battle between the National Pension System (NPS) and the Old Pension Scheme (OPS) is intensifying due to ongoing state elections in India. The Congress party's victory in the Himachal Pradesh elections is being attributed to their promise of bringing back OPS. However, attributing the victory solely to this issue may be misleading. The NPS was introduced in 2004 by the National Democratic Alliance government, and it is argued that electoral outcomes are influenced more by emotional issues rather than pension systems. Public opinion is being swayed by presenting OPS as 'pro-people' and NPS as 'anti-people'. While the NPS can be adjusted to address concerns, resurrecting OPS would be a setback for fiscal stability. OPS represents mounting unfunded obligations for governments, leading to potential bankruptcy. On the other hand, NPS involves joint contributions from employees and employers, eliminating unfunded obligations post-retirement. Several states have expressed an intention to join the OPS bandwagon, but calculations show that this would lead to a significant burden on state finances. The expenditure on pensions as a share of states' own revenues has increased from 7.9% in 1990-91 to 27.4% in 2020-21. Despite covering only 3.2% of India's workforce, pensions consume 18% of government revenues. In contrast, developed countries have transitioned to pension systems with defined contributions and smaller expenditure shares. India's fiscal situation is concerning, with high debt-to-GDP ratios and rapid aging expected in the future. A fully-funded pension system with broad social security coverage for the elderly is necessary, which requires moving away from OPS.
+
+Wed, 08 Nov 2023 08:00:08 +0530
+### [A ballot exercise and reminder of the Maoist menace](https://www.livemint.com/opinion/quick-edit/a-ballot-exercise-and-reminder-of-the-maoist-menace-11699372402205.html)
+
+India's poll season has begun with elections in Mizoram and Chhattisgarh. The voter turnout in Mizoram was slightly lower than the last assembly election, while Chhattisgarh saw a fairly high turnout despite disturbances caused by Maoists. There were incidents of a blast in Sukma district and an exchange of fire with Maoists in Kanker district, resulting in injuries and deaths. Although Maoist attacks have decreased in recent years, there is still a need to ensure that everyone can benefit from India's constitutional set-up, particularly in remote areas.
+
+Wed, 08 Nov 2023 08:00:08 +0530
+### [China’s loss as India’s gain? Our world factory pitch calls for adaptive policy](https://www.livemint.com/opinion/online-views/chinas-loss-as-india-s-gain-our-world-factory-pitch-calls-for-adaptive-policy-11699371626832.html)
+
+China has reported a deficit in foreign direct investment (FDI) for the first time since 1998. In the third quarter of 2023, China experienced an FDI deficit of $11.8 billion, indicating that foreign investors pulled their money out of the country. This reversal reflects a global de-risking of value chains away from China, as businesses adopt "China plus one" strategies to mitigate supply chain disruptions caused by the COVID-19 pandemic. Moreover, it may also reflect geopolitical tensions and a shift away from globalization. China's economy is currently in a slump, and it may struggle to achieve the high GDP growth rates it experienced before the pandemic. The article also mentions India's potential to attract foreign investment and position itself as a manufacturing hub for global businesses diversifying their value chains. However, the Indian government needs to adapt its policies and make necessary changes to attract more FDI.
+
+Wed, 08 Nov 2023 08:00:06 +0530
+### [Riding back in time with Bharat Atta](https://www.livemint.com/opinion/online-views/why-the-government-shouldn-t-interfere-with-healthy-markets-11699355253286.html)
+
+Couldn't summarize
+
 Tue, 07 Nov 2023 21:41:33 +0530
 ### [Why N.R. Narayana Murthy’s call for a 70-hour work week got such mixed reactions](https://www.livemint.com/opinion/online-views/why-n-r-narayana-murthy-s-call-for-a-70-hour-work-week-got-such-mixed-reactions-11699371661877.html)
 
@@ -150,6 +170,11 @@ Sun, 05 Nov 2023 17:28:42 +0530
 ### [The mystery of why siblings are often useless or worse](https://www.livemint.com/opinion/online-views/the-mystery-of-why-siblings-are-often-useless-or-worse-11699184321496.html)
 
 This article discusses the often strained relationship between siblings, suggesting that it is a bond that many people squander. The author argues that while siblings can enhance a child's life, they often drift apart or even become harmful to each other over time. The author believes that this is a waste of an important bond with someone who is unique and cannot be duplicated. They also mention that sibling relationships can be affected by factors such as parental wealth and responsibilities, as well as envy and disagreements over family businesses. The article suggests the idea of sibling counseling to help address these issues early on and promote forgiveness and understanding.
+
+Fri, 03 Nov 2023 18:41:25 +0530
+### [The finance and tech gold rushes are over. Where will people seeking wealth turn next?](https://www.livemint.com/opinion/online-views/the-finance-and-tech-gold-rushes-are-over-where-will-people-seeking-wealth-turn-next-11699014687017.html)
+
+Couldn't summarize
 
 Fri, 03 Nov 2023 12:22:16 +0530
 ### [Stricter capital rules for US banks are a lazy way to keep them safe](https://www.livemint.com/opinion/online-views/stricter-capital-rules-for-us-banks-are-a-lazy-way-to-keep-them-safe-11698993431051.html)

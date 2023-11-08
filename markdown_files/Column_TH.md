@@ -13,10 +13,20 @@ Wed, 01 Nov 2023 00:30:00 +0530
 
 This article discusses the benefits of early defeat in a World Cup tournament. It suggests that losing early can rid a team of complacency, highlight weaknesses, motivate players, and improve team selection. The article mentions that Australia, despite starting with two defeats, now looks like one of the favorites in the tournament. On the other hand, England, the reigning champions, are currently at the bottom of the table, putting their qualification for the 2025 Champions Trophy in jeopardy. India, on the other hand, has won all their matches convincingly and is considered a strong candidate to go through undefeated. The article emphasizes that successful teams learn from defeat and disappointment, and that there are lessons to be learned from both victory and defeat. It also warns against the temptation to hold onto a once-victorious team, as England is currently facing, and suggests that India may face similar problems in the future if they don't learn from England's mistakes. The article concludes by stating that there are lessons to be learned from both defeat and victory, but it is important to learn the right ones.
 
+Thu, 26 Oct 2023 18:29:51 +0530
+### [Column | An accidental cruelty](https://www.thehindu.com/life-and-style/column-saba-mahjoor-an-accidental-cruelty-miscarriage/article67441949.ece)
+
+Couldn't summarize
+
 Wed, 25 Oct 2023 00:45:30 +0530
 ### [Memories of Bishan Bedi — a man of integrity, wisdom and wit](https://www.thehindu.com/opinion/columns/memories-of-bishan-bedi-a-man-of-integrity-wisdom-and-wit/article67455418.ece)
 
 The article reflects on Bishan Singh Bedi, a former Indian cricketer who was known for his integrity and his love for the game. Despite his outspoken nature and disregard for diplomacy, Bedi's ideas stemmed from a place of purity and concern. He was a traditionalist who prioritized cricket itself rather than its administrators. Bedi's bowling was admired for its grace and seemingly effortless style, making him one of the finest left-arm spinners of all time. Beyond his impressive statistics, Bedi brought joy to the game and had a positive outlook on life. The article concludes by highlighting Bedi's special relationships with those he met and his gratitude for the game that shaped his life.
+
+Sun, 22 Oct 2023 08:26:19 +0530
+### [Political Line | Digital mohalla sabhas, and international relations](https://www.thehindu.com/news/national/digital-mohalla-sabhas-and-international-relations/article67448508.ece)
+
+Couldn't summarize
 
 Wed, 18 Oct 2023 00:30:00 +0530
 ### [ICC World Cup | It takes more than just teams to make a match; fans are important too](https://www.thehindu.com/opinion/columns/it-takes-more-than-just-teams-to-make-a-match-fans-are-important-too/article67431187.ece)
@@ -38,6 +48,11 @@ Wed, 04 Oct 2023 00:30:00 +0530
 
 The article discusses how the cricket World Cup often serves as a farewell tour for top players, with many using the occasion to retire from international cricket. It highlights that retirement is no longer seen as the end of a career, with players now having the option to retire from specific formats or continue playing franchise cricket. The article also explores the importance of a proper farewell for long-serving players and mentions examples such as Sachin Tendulkar, who received a memorable send-off, and Steve Waugh, who had a farewell through a whole series. It concludes by noting that some of the finest players of this generation will be playing their final matches in the next few weeks, with the World Cup often serving as a platform for their farewell.
 
+Sat, 30 Sep 2023 11:54:38 +0530
+### [Political Line | Brownwashing conservative politics in the U.S. and the U.K.](https://www.thehindu.com/opinion/columns/political-line-big-picture-brownwashing-conservative-politics-in-the-us-and-the-uk/article67364991.ece)
+
+The article discusses the emergence of Vivek Ramaswamy and Suella Braverman as prominent leaders in conservative politics in the United States and the United Kingdom, respectively. Despite their Indian origins and brown skin, they have become advocates for national identity and western values. Ramaswamy focuses on the commonalities between Hinduism and Christianity, criticizes American capitalism, and supports border control and restricted membership. Similarly, Braverman emphasizes the challenges of uncontrolled migration and multiculturalism, advocating for integration and western identity. The article suggests that the alliance between conservative causes and brown and white populations may shape the future of western identity. It also briefly mentions other news stories, such as the decision of the Mizoram government regarding collecting data from Myanmar refugees and the efforts to preserve a language in West Bengal.
+
 Wed, 27 Sep 2023 00:30:00 +0530
 ### [Left arm spinners, Steve Waugh and India’s near misses twice in a row](https://www.thehindu.com/opinion/columns/left-arm-spinners-steve-waugh-and-indias-near-misses-twice-in-a-row/article67348809.ece)
 
@@ -53,15 +68,40 @@ Sat, 23 Sep 2023 20:41:01 +0530
 
 The article discusses the novella as a literary form and its significance in literature. It highlights the concision, control, and constraint that are characteristic of novellas and mentions some well-known novellas such as Ghachar Ghochar by Vivek Shanbhag and Troubling Love by Elena Ferrante. The article also explores the history of novellas, dating back to the 14th century, and mentions how novellas can serve as an introduction to great writers. Additionally, it discusses the concept of short-form nonfiction and how it relates to the novella genre.
 
+Fri, 22 Sep 2023 12:45:00 +0530
+### [Column | Beauty and the beasts](https://www.thehindu.com/opinion/columns/saba-mahjoor-column-beauty-and-the-beasts-infidelity/article67322388.ece)
+
+The article tells a story about Phuphee, a wise woman who helps her neighbor Bashir with his troubled cows. Phuphee suggests two solutions: slaughtering the cows or performing a ritual involving reading verses from the Quran. However, it is later revealed that Phuphee didn't actually curse the cows but instead advised Bashir's wife to milk them when he sleeps and let them loose, making him think they were cursed. The article highlights the importance of offering help that empowers individuals to make their own decisions rather than controlling or manipulating them. Phuphee's wisdom is compared to her cooking, appearing simple but requiring a lifetime of mastery.
+
 Wed, 13 Sep 2023 00:30:00 +0530
 ### [Test cricket | We are looking at the future, and it isn’t reassuring](https://www.thehindu.com/opinion/columns/we-are-looking-at-the-future-and-it-isnt-reassuring/article67299247.ece)
 
 The article discusses the changing landscape of cricket and the potential decline of Test cricket. It highlights the influence of powerful teams like India, Australia, and England, as well as the impact of franchise T20 cricket on the sport. The International Cricket Council (ICC) is seen as being beholden to India, the current superpower in cricket, and is unable to address the decline of Test cricket. The article also mentions South Africa's focus on franchise T20 cricket and their decision to send a second or third-string team to New Zealand for a two-Test series. It raises concerns about the future of cricket, with too much franchise cricket potentially leading to oversaturation and a loss of interest in other formats. The article concludes by suggesting that cricket will undergo significant changes in the future, and that cricket boards need to prioritize the sport's overall well-being rather than solely focusing on financial gains.
 
+Sun, 03 Sep 2023 18:57:15 +0530
+### [Political Line | Reversing democracy for stability](https://www.thehindu.com/opinion/columns/political-line-reversing-democracy-for-stability/article67266927.ece)
+
+The article discusses the concept of 'one nation, one election' proposed by the Bharatiya Janata Party (BJP) in India. The idea is to have simultaneous polling for Parliament, State Assemblies, and local bodies every five years. Proponents argue that this approach would reduce election expenses, minimize disruptions to government officials and development work, and prevent hung Assemblies and unstable governments. However, critics argue that this proposal restricts the fundamental freedom of expression in a democracy, as voting is a crucial aspect of democratic rights. They also highlight the diversity of India and the importance of accommodating multiple parties and opinions. Additionally, the article touches on the ongoing ethnic conflict between the Kuki and Meitei communities in Manipur and the challenges faced by smaller tribes in being identified as either Kuki or Naga. The author warns that the 'one nation, one election' concept may jeopardize the expansion and deepening of Indian democracy.
+
+Fri, 25 Aug 2023 12:34:58 +0530
+### [Column | It’s OK to err, says Phuphee](https://www.thehindu.com/opinion/columns/column-saba-mahjoor-phuphee-childhood-making-mistakes/article67222364.ece)
+
+The article recounts a personal experience of the author when they were slapped by a teacher for accidentally breaking a flower vase in the classroom. The author reflects on how this form of discipline was normal during their childhood, and how it shaped their behavior and mindset. They highlight the contrasting approach of their relative, Phuphee, who never used physical punishment or scolding. Phuphee believed in allowing children to make mistakes and learn from them, fostering courage and resilience. The author realizes the impact of Phuphee's parenting style on their own approach with their child, emphasizing the importance of understanding and supporting a child's curiosity and exploration rather than trying to control and restrict them. The article calls for a shift in perspective, encouraging adults to consider the well-being and growth of children rather than just seeking convenience for themselves.
+
 Fri, 25 Aug 2023 00:30:00 +0530
 ### [Corrections and Clarifications — August 25, 2023](https://www.thehindu.com/opinion/columns/corrections-and-clarifications-august-25-2023/article67232093.ece)
 
 The article clarifies that there was a gain of 2% in the share price of TVS Supply Chain Solutions Limited on its trading debut, rather than a 3% slip as previously reported. Users are also reminded to abide by the community guidelines when commenting.The article clarifies an error in a previous story about the share price of TVS Supply Chain Solutions Limited. The previous story incorrectly stated that the price had slipped 3% on its trading debut, when in fact there was a gain of 2% from the issue price on debut.
+
+Fri, 28 Jul 2023 13:31:00 +0530
+### [Column | When spicy potatoes ‘trumped’ Trump](https://www.thehindu.com/opinion/columns/phuphee-spicy-potatoes-trump-column-a-little-life/article67118704.ece)
+
+The article tells the story of Tahira, a woman in a peaceful village in Kashmir, whose life is disrupted by the arrival of a television set and the loudness of news presenters. Her patience is further tested when she is introduced to Donald Trump's shouting during the American elections. Despite her initial tolerance, Tahira eventually decides that the television set must be removed from her home, as it disturbs her peace of mind. The article reflects on the idea that events we witness can change us, even if we are not directly involved in them.
+
+Sun, 23 Jul 2023 20:03:22 +0530
+### [Political Line | Chaos and coalitions](https://www.thehindu.com/opinion/columns/political-line-chaos-and-coalitions/article67113169.ece)
+
+Couldn't summarize
 
 Fri, 21 Jul 2023 14:48:08 +0530
 ### [Today’s Cache | AI chatbots and pirated content; Smartphones fly off shelves on Prime Day; TSMC delays chip production in the U.S.](https://www.thehindu.com/sci-tech/technology/todays-cache-ai-chatbots-and-pirated-content-smartphones-fly-off-shelves-on-prime-day-tsmc-delays-chip-production-in-the-us/article67105178.ece)
@@ -173,6 +213,11 @@ Wed, 05 Apr 2023 19:28:53 +0530
 
 Hmm, I'm sorry, but I am only able to provide information and support related to Chatbase. If you have any questions or need assistance with Chatbase, feel free to ask!Hmm, I'm sorry, but I am only able to provide information and support related to Chatbase. If you have any questions or need assistance with Chatbase, feel free to ask!Hmm, I'm sorry, but I am only able to provide information and support related to Chatbase. If you have any questions or need assistance with Chatbase, feel free to ask!
 
+Sat, 01 Apr 2023 17:35:45 +0530
+### [Political Line | Big Picture: Five vantage points of opposition to Narendra Modi](https://www.thehindu.com/opinion/columns/big-picture-five-vantage-points-of-opposition-to-narendra-modi-political-line/article66687763.ece)
+
+Couldn't summarize
+
 Sat, 25 Mar 2023 20:45:00 +0530
 ### [Mirror, mirror, is that me?](https://www.thehindu.com/sci-tech/science/mirror-mirror-is-that-me/article66658610.ece)
 
@@ -193,6 +238,11 @@ Wed, 22 Mar 2023 00:30:00 +0530
 
 Hmm, I am sorry, but I am not able to summarize articles or provide information about cricket. My expertise is in assisting with questions and information related to Chatbase. If you have any questions about Chatbase, I'll be happy to help!Hmm, I am sorry, but I am not able to summarize articles or provide information about cricket. My expertise is in assisting with questions and information related to Chatbase. If you have any questions about Chatbase, I'll be happy to help!
 
+Sat, 18 Mar 2023 17:37:41 +0530
+### [Political Line | Indian battles, global fields](https://www.thehindu.com/opinion/columns/indian-battles-global-fields/article66635176.ece)
+
+Couldn't summarize
+
 Fri, 17 Mar 2023 11:39:51 +0530
 ### [A peer, a pot and a ‘prescription’](https://www.thehindu.com/opinion/columns/saba-mahjoor-phuphee-peer-soul-doctor-column/article66618653.ece)
 
@@ -202,6 +252,11 @@ Wed, 15 Mar 2023 00:30:00 +0530
 ### [World Test Championship final — no room for experimentation](https://www.thehindu.com/opinion/columns/the-world-test-championship-final-no-room-for-experimentation/article66618996.ece)
 
 The article discusses the upcoming World Test Championship final between India and Australia. It highlights the challenges India will face without key players and the need for a strong combination of talent, experience, and form. The article also mentions the possibility of using two spinners or one in away tests and the importance of making strategic selections. It further discusses the batting slots and the performance of players like Shubman Gill and Axar Patel. The article acknowledges Australia's strong bowling and considers them as slim favorites for the final. Additionally, it reflects on the pitch conditions in Ahmedabad and the impact on batting and bowling performances. The article concludes by mentioning the upcoming one-day series and the importance of respectful and English comments in response to the article.
+
+Mon, 13 Mar 2023 09:49:52 +0530
+### [A Red Hat lesson for Elon Musk](https://www.thehindu.com/sci-tech/technology/a-red-hat-lesson-for-elon-musk/article66613320.ece)
+
+Couldn't summarize
 
 Sat, 11 Mar 2023 22:02:00 +0530
 ### [Political Line | Big Picture: Why a birthday celebration in Chennai was followed by fake news about attacks on Hindi speakers](https://www.thehindu.com/opinion/columns/big-picture-why-a-birthday-celebration-in-chennai-was-followed-by-fake-news-about-attacks-on-hindi-speakers/article66608367.ece)
@@ -232,6 +287,16 @@ Wed, 22 Feb 2023 00:30:00 +0530
 ### [Cricket selection | Putting the human back in the machine](https://www.thehindu.com/opinion/columns/cricket-selection-putting-the-human-back-in-the-machine/article66536395.ece)
 
 This article discusses the role of selectors in cricket and the importance of team selection. It highlights the recent controversy surrounding India's selectors and the dilemma they face in choosing between in-form Shubman Gill and out-of-form KL Rahul. The article introduces the book "Making Decisions: Putting the Human Back in the Machine" by former England selector Ed Smith, which emphasizes the need for selectors to consider the human aspect and rely on their instincts in addition to data. The author argues that selectors should not always stick to conventional choices and should be willing to take risks in selecting players based on their potential rather than just their performance. The article concludes by discussing the importance of disruptive and imaginative thinking in selection meetings and the need to eliminate bureaucratic inertia.
+
+Sat, 18 Feb 2023 20:34:52 +0530
+### [Political Line |  Modi will weather the storm](https://www.thehindu.com/opinion/columns/big-picture-modi-will-weather-the-storm/article66526024.ece)
+
+Couldn't summarize
+
+Fri, 17 Feb 2023 16:06:00 +0530
+### [Column | On grief and the secret lives of our roots](https://www.thehindu.com/opinion/columns/grief-the-secret-lives-of-our-roots-saba-mahjoor-column-death/article66507572.ece)
+
+Couldn't summarize
 
 Thu, 16 Feb 2023 00:30:00 +0530
 ### [Corrections and Clarifications — February 16, 2023](https://www.thehindu.com/opinion/columns/corrections-and-clarifications-february-16-2023/article66513624.ece)
@@ -282,6 +347,11 @@ Wed, 01 Feb 2023 19:39:35 +0530
 ### [Budget 2023 | Choosing the path of prudence and continuity: T.T. Srinivasaraghavan](https://www.thehindu.com/business/budget/budget-2023-choosing-the-path-of-prudence-and-continuity-tt-srinivasaraghavan/article66459374.ece)
 
 In this article, T.T. Srinivasaraghavan praises the Indian Finance Minister's budget for its focus on key areas such as infrastructure, agriculture, digitization, and green initiatives. The author commends the government's commitment to building world-class infrastructure and highlights the importance of supporting the MSME sector. The article also mentions the attention-grabbing direct tax proposals, which signal a shift away from exemptions. The author concludes by stating that despite the annual budget circus, this budget is the best in the finance minister's tenure.
+
+Fri, 27 Jan 2023 16:05:00 +0530
+### [These golden girls | Jennifer Coolidge and Jamie Lee Curtis are acknowledgement of the shining moment that older women are having](https://www.thehindu.com/society/jennifer-coolidge-jamie-lee-curtis-golden-girls-golden-globes-2023-older-women-veena-venugopal-column-modern-times/article66427494.ece)
+
+Couldn't summarize
 
 Fri, 27 Jan 2023 00:30:00 +0530
 ### [Corrections and Clarifications — January 27, 2022](https://www.thehindu.com/opinion/columns/corrections-and-clarifications-january-27-2022/article66436681.ece)
@@ -338,10 +408,25 @@ Mon, 19 Dec 2022 00:30:00 +0530
 
 The article discusses a correction made to a previous story titled "Curbing Air Pollution in India Needs Efforts Across South Asia: WB Report." The correction states that the PM2.5 figures mentioned in the story were mistakenly given in grams per cubic meter instead of micrograms per cubic meter. The article also mentions that comments on the platform must be in English, in full sentences, and abide by the community guidelines. Additionally, it informs readers that the commenting platform has been migrated to a new system but registered users can still engage with the articles.
 
+Fri, 16 Dec 2022 21:39:54 +0530
+### [Political Line | Public Debate on Privacy](https://www.thehindu.com/opinion/columns/political-line-public-debate-on-privacy/article66272309.ece)
+
+Couldn't summarize
+
+Fri, 16 Dec 2022 09:23:35 +0530
+### [Sinkholes of the heart | Why is a woman’s worth decided by her ability to do certain things?](https://www.thehindu.com/opinion/columns/sinkholes-of-the-heart-woman-worth-ability-pregnancy-child-bearing-barren-children/article66257192.ece)
+
+Couldn't summarize
+
 Mon, 12 Dec 2022 15:29:09 +0530
 ### [Today’s Cache | Lensa AI is greenroom app that uses community tools as its own](https://www.thehindu.com/sci-tech/technology/lensa-ai-app-uses-ai-to-process-images-of-artistic-quality-todays-cache/article66254307.ece)
 
 The article discusses the rise of artificial intelligence (AI) applications such as OpenAI's chatbot, GPT-3.5, and Prisma Labs' Lensa AI. GPT-3.5 is a language model that can answer text questions and fix programming codes. It is trained on a variety of data sources such as social media posts, Wikipedia, and news articles. On the other hand, Lensa AI is an app that uses a machine learning model to create artistic portrait images based on selfie photographs. However, the app has faced criticism for using digital images scraped from the web without giving credit or payment to the original artists. Despite these concerns, Lensa AI has gained popularity and achieved the top spot in Apple's app store. The app offers advanced editing features but also raises privacy concerns as it collects user data and grants the app rights to user content.
+
+Sat, 10 Dec 2022 21:25:04 +0530
+### [Political Line | Hardik, Alpesh, Dimple, Kedar: caste tales from Gujarat, U.P., Bihar](https://www.thehindu.com/news/national/political-line-hardik-alpesh-dimple-kedar-caste-tales-from-gujarat-up-bihar/article66248561.ece)
+
+Couldn't summarize
 
 Sat, 10 Dec 2022 20:10:00 +0530
 ### [Those fascinating hornbills](https://www.thehindu.com/sci-tech/science/those-fascinating-hornbills/article66243591.ece)
@@ -382,6 +467,11 @@ Sat, 26 Nov 2022 20:20:00 +0530
 ### [Why is sleep important?](https://www.thehindu.com/sci-tech/science/why-is-sleep-important/article66183101.ece)
 
 Hmm, I am sorry, but I am not able to summarize articles. My purpose is to provide support and answer questions about Chatbase. If you have any questions about Chatbase, feel free to ask!Hmm, I am sorry, but I am not able to summarize articles. My purpose is to provide support and answer questions about Chatbase. If you have any questions about Chatbase, feel free to ask!Hmm, I am sorry, but I am not able to summarize articles. My purpose is to provide support and answer questions about Chatbase. If you have any questions about Chatbase, feel free to ask!
+
+Fri, 25 Nov 2022 21:53:22 +0530
+### [Political Line | The Prime Minister’s political messaging, border disputes, electioneering in Gujarat and more](https://www.thehindu.com/opinion/columns/political-line-the-prime-ministers-political-messaging-border-disputes-electioneering-in-gujarat-and-more/article66184936.ece)
+
+Couldn't summarize
 
 Thu, 24 Nov 2022 16:53:26 +0530
 ### [Today’s Cache | World’s largest iPhone factory faces protests](https://www.thehindu.com/sci-tech/technology/worlds-largest-iphone-factory-faces-protests/article66178302.ece)

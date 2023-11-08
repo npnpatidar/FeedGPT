@@ -1,3 +1,25 @@
+Wed, 08 Nov 2023 03:40:55 +0000
+### [How ignored landslide warnings led to Subansiri running dry](https://indianexpress.com/article/explained/how-ignored-landslide-warning-led-to-subansiri-river-running-dry-explained-9018295/)
+
+The Subansiri Lower Hydroelectric Project in India experienced another setback after a portion of the hill next to the dam collapsed into the reservoir. This blocked the only functional diversion tunnel and halted the flow of water downstream. Construction of the project, which began in 2005, has faced delays due to local opposition and design changes. The deadline for commissioning the first two units has been extended multiple times, with the current deadline set for March 2024. The project authority is now focusing on slope stabilization and may build a temporary barrier to isolate the under-construction spillway gates. The potential impact on the riverine ecosystem and aquatic life forms remains uncertain.
+
+Wed, 08 Nov 2023 03:33:13 +0000
+### [India’s hypertension map: How different states, regions fare](https://indianexpress.com/article/explained/explained-health/india-hypertension-state-district-wise-break-up-9018281/)
+
+A recent analysis of data from the National Family Health Survey in India, published in the journal JAMA, reveals significant variations in the prevalence, diagnosis, treatment, and control of hypertension within Indian states and districts. The study indicates that national mean values of hypertension mask substantial variation at the district level. The researchers recommend implementing targeted and decentralized solutions to address this issue.
+
+The study highlights the existing knowledge among doctors that a large number of individuals with hypertension remain undiagnosed. Even among those diagnosed, many do not initiate treatment, and among those who do, few are able to effectively control their blood pressure. The data shows that only one in three individuals receive a diagnosis, one in five receive treatment, and one in twelve achieve blood pressure control.
+
+At the state level, the prevalence of hypertension in southern states was higher than the national average, with 29.9% of the population affected compared to 26.8% across India. However, the proportion of people diagnosed, treated, and under control in these states was higher than the rest of the country.
+
+There were also significant variations within states at the district level. For instance, in Meghalaya, the prevalence of hypertension was similar across districts, but the proportion of those diagnosed varied significantly. Similarly, in Karnataka, different districts demonstrated varying levels of treatment and control despite similar prevalence rates.
+
+The study also examined the impact of age, gender, socio-economic conditions, and education level on hypertension. While men are more likely to have hypertension, the data surprisingly showed that women are more likely to be diagnosed, receive treatment, and have their blood pressure under control. Older individuals had higher rates of prevalence, diagnosis, treatment, and control compared to younger individuals. Among socio-economic conditions, the wealthiest fifth of the population had the highest rates of prevalence, diagnosis, treatment, and control. Additionally, while the prevalence was similar between those with no schooling and those who completed Class 11, the latter group had higher rates of diagnosis, treatment, and control.
+
+The district-level breakdown of data can assist state governments in allocating resources for healthcare. By identifying districts with higher prevalence or lacking screening and diagnostic facilities, local governments can plan interventions accordingly. The paper emphasizes the importance of continuum of care rather than just screening and diagnosis for managing chronic conditions like hypertension. It suggests that regular availability of medicines, closer healthcare centers, digitization of records, and follow-ups are crucial aspects of hypertension management.
+
+According to a recent report by the World Health Organization (WHO), India could prevent nearly 4.6 million deaths by 2040 if half of all hypertensive individuals achieve blood pressure control. In line with this, the Indian government has launched an initiative to provide treatment to 75 million people with hypertension or diabetes by 2025. Successfully controlling hypertension will require not only increased infrastructure but also active screening, timely treatment, accessible medicines, and regular follow-ups.
+
 Tue, 07 Nov 2023 14:50:30 +0000
 ### [Jharkhand launches drive to grant land titles under FRA: Why now, challenges](https://indianexpress.com/article/explained/jharkhand-land-titles-fra-9017751/)
 
@@ -67,6 +89,11 @@ Mon, 06 Nov 2023 08:39:07 +0000
 ### [Bhutan King’s India visit: Recalling Operation All Clear, which Bhutan launched against Assam’s insurgent groups](https://indianexpress.com/article/explained/explained-history/bhutan-king-visit-india-recalling-operation-all-clear-9015464/)
 
 Hmm, I am not sure. Email support@chatbase.co for more info.King Jigme Khesar Namgyel Wangchuk of Bhutan will be meeting with Prime Minister Narendra Modi after completing a three-day visit to Assam, marking the first-ever visit by a Bhutanese monarch to the state. The visit is significant as it comes after a tense period in which the relationship between Assam and Bhutan became complicated due to the presence of insurgent groups from Assam in Bhutanese territory. Bhutan launched its first military operation in 140 years, called "Operation All Clear," in 2003 to flush out the militants. During the operation, the Royal Bhutan Army dealt a crippling blow to the United Liberation Front of Asom (ULFA), the National Democratic Front of Bodoland, and the Kamatapur Liberation Organization (KLO). The presence of these groups had strained diplomatic relations between Bhutan and India, as well as impacted development and economic activities in Bhutan. The crackdown was prompted by the direct threat to Bhutan's sovereignty and national security posed by the insurgents. Additionally, there were fears that the insurgent groups would supply arms to the ethnic Nepalese Lhotshampas, potentially fueling an ethnic insurgency in southern Bhutan. The operation resulted in the capture or killing of at least 650 insurgents, including top leaders of ULFA, KLO, and NDFB. The Indian army provided logistical and medical assistance during the operation and sealed the Indo-Bhutan border to prevent militants from escaping into India.
+
+Mon, 06 Nov 2023 07:08:19 +0000
+### [NFSA and PM’s promise of free foodgrains for five years: what it means and entails](https://indianexpress.com/article/explained/explained-politics/nfsa-free-foodgrains-five-years-modi-9015523/)
+
+Couldn't summarize
 
 Mon, 06 Nov 2023 02:30:35 +0000
 ### [The double-whammy from India’s falling farm exports](https://indianexpress.com/article/explained/explained-economics/the-double-whammy-from-falling-farm-exports-9015094/)
@@ -282,6 +309,11 @@ India has shifted its stance on AI regulation, with Prime Minister Narendra Modi
 
 Overall, this summit and related developments highlight the growing recognition of the risks associated with AI and the need for international cooperation to mitigate them. Different countries are taking varied approaches to AI regulation, and India is actively working on formulating regulations based on a risk-based framework.
 
+Thu, 02 Nov 2023 02:30:33 +0000
+### [A ‘land bridge’ across Thailand’s Kra Isthmus: What is this centuries-old idea, resurrected again?](https://indianexpress.com/article/explained/explained-global/land-bridge-thailand-kra-isthmus-9009594/)
+
+The Prime Minister of Thailand, Srettha Thavisin, has proposed a land bridge project known as the Thai Land Bridge. This project aims to reduce the sailing distance between the Indian Ocean and East Asia by cutting across the Isthmus of Kra in Thailand. Unlike a canal, the land bridge would consist of road and rail networks connecting deep sea ports on each coast. The project is expected to save transport costs, reduce piracy risks, and alleviate congestion in the busy Strait of Malacca. It could also create jobs and boost Thailand's economic growth. However, the project faces challenges such as securing funding, as it is estimated to cost around $27.44 billion. The Prime Minister hopes to attract investments from China, although this could potentially impact Thailand's relationships with other countries. Concerns have also been raised about the project's viability and potential negative impacts on the environment and tourism.
+
 Thu, 02 Nov 2023 01:37:57 +0000
 ### [In Tripura-Bangladesh railway link, new opportunities and old connect](https://indianexpress.com/article/explained/in-tripura-bangladesh-railway-link-new-opportunities-and-old-connect-9009936/)
 
@@ -361,6 +393,11 @@ Tue, 31 Oct 2023 10:36:28 +0000
 
 Several opposition leaders in India, including Shashi Tharoor and Pawan Khera of the Congress party, have received a "threat notification" from Apple warning them of a potential state-sponsored spyware attack on their iPhones. The leaders compared this alleged attack to the Pegasus malware attack that targeted activists and politicians in multiple countries two years ago. In July 2021, a global investigative project reported that the Israeli spyware called Pegasus, developed by NSO Group, may have been used to target individuals' mobile phones in India and other countries. The Indian government denied the allegations but refused to provide any evidence or explicitly deny the use of Pegasus. In October 2021, the Supreme Court appointed an Expert Committee to investigate the allegations in the Pegasus spyware case. The committee was tasked with determining who procured Pegasus, whether the petitioners were targeted, and what laws justified its use against Indian citizens. The committee's report found no conclusive evidence of Pegasus being used in the phones it examined and noted that the government did not cooperate with the panel. The court has yet to hold further hearings on the matter.
 
+Tue, 31 Oct 2023 09:42:21 +0000
+### [Why the Goa government is in the dock over notifying a tiger reserve](https://indianexpress.com/article/explained/goa-mhadei-tiger-reserve-wildlife-notification-explained-9005598/)
+
+Couldn't summarize
+
 Tue, 31 Oct 2023 09:03:11 +0000
 ### [What is Apple’s ‘state-sponsored attackers’ alert, received by multiple Opposition leaders?](https://indianexpress.com/article/explained/explained-sci-tech/apple-state-sponsored-attackers-alert-opposition-explained-9007362/)
 
@@ -391,6 +428,11 @@ This article provides a snapshot comparison of the economies of Israel and Pales
 The article also discusses the reasons behind Palestine's economic struggles, including systemic restrictions imposed by the Israeli government and a decline in certain sectors such as agriculture, forestry, and fishing. The World Bank predicts continued economic challenges for Palestine due to these constraints and a lack of conclusive reform programs.
 
 Overall, the article highlights the significant disparities between the economies of Israel and Palestine and the ongoing challenges faced by Palestine in achieving economic growth and development.
+
+Mon, 30 Oct 2023 13:43:34 +0000
+### [What are electoral bonds, how has govt defended them, what Supreme Court has to decide](https://indianexpress.com/article/explained/explained-law/sc-electoral-bonds-hearing-explained-9006289/)
+
+The Supreme Court of India is set to hear a group of petitions challenging the constitutional validity of the country's electoral bonds scheme. The scheme, introduced in 2017, allows individuals and organizations to anonymously donate money to political parties through interest-free "bearer instruments." These bonds can only be purchased during specific periods and are intended to bring transparency to political funding. However, critics argue that they undermine transparency and enable corruption. The court has previously ordered some safeguards, but the larger constitutional challenge is still pending. The case will now be heard by a five-judge bench. The petitioners not only challenge the electoral bonds scheme but also seek to declare political parties as public offices and subject them to the Right to Information Act. The Election Commission of India has raised concerns about the amendment exempting political parties from disclosing donations received through electoral bonds. The Attorney General, representing the government, argues that the scheme promotes clean money and confidentiality for contributors while adhering to tax obligations.
 
 Mon, 30 Oct 2023 13:01:43 +0000
 ### [What the rapid ice melt in West Antarctica means](https://indianexpress.com/article/explained/explained-climate/ice-sheet-melt-west-antarctica-9006179/)
@@ -431,6 +473,21 @@ Sun, 29 Oct 2023 13:49:26 +0000
 ### [Hamas leader addresses rally in Kerala virtually: Who is Khaled Mashal?](https://indianexpress.com/article/explained/everyday-explainers/khaled-mashal-hamas-leader-palestine-rally-kerala-9004753/)
 
 Former head of Hamas, Khaled Mashal, virtually addressed a pro-Palestine rally in Kerala's Malappuram, calling for unity for Gaza. He spoke about the ongoing conflict in the region and criticized Israel for demolishing houses, churches, temples, universities, and UN institutions. Mashal was born in the West Bank town of Silwad in 1956 and became a member of Hamas, a militant organization that used violence for the cause of Palestine. He headed Hamas's Politburo from 1996 to 2017 and currently leads the group's 'external' politburo based in Qatar. Mashal echoed Hamas's opposition to Israel but stated in a 2017 document that they accepted the idea of a Palestinian state within the territories occupied by Israel in the Six-day War of 1967. He also discussed the possibility of negotiating with Israel when they are strong enough to create a reality that forces Israel to reconsider its positions. Mashal has called for unity against Israel following recent attacks and counter-attacks between Hamas and Israel. He was targeted in an Israeli assassination attempt in 1997, which led to a crisis between Jordan and Israel.
+
+Sun, 29 Oct 2023 12:40:04 +0000
+### [India bans exports of some rice varieties: How this has impacted prices globally, in the country](https://indianexpress.com/article/explained/explained-economics/india-bans-exports-of-some-rice-explained-9004685/)
+
+Couldn't summarize
+
+Sun, 29 Oct 2023 10:23:19 +0000
+### [Why new tax filing data shows better compliance, upward mobility in higher-income slabs](https://indianexpress.com/article/explained/explained-economics/what-new-tax-filing-data-shows-9004515/)
+
+Couldn't summarize
+
+Sun, 29 Oct 2023 09:40:47 +0000
+### [An Expert Explains | 10 years of China’s Belt and Road Initiative: The project, its aims and where it stands now](https://indianexpress.com/article/explained/explained-global/expert-explains-10-years-chinas-bri-xi-jinping-status-explained-9004356/)
+
+Couldn't summarize
 
 Sun, 29 Oct 2023 07:55:46 +0000
 ### [Kerala blast: Who are Jehovah’s Witnesses](https://indianexpress.com/article/explained/kerala-blast-kills-one-who-are-jehovahs-witnesses-9004346/)
@@ -679,6 +736,11 @@ Mon, 23 Oct 2023 07:37:13 +0000
 ### [Why VFS clarification brings some relief to India’s Canada visa applicants](https://indianexpress.com/article/explained/vfs-canada-visa-applicants-services-centres-8995815/)
 
 Hmm, I am not sure. Email support@chatbase.co for more info.Canada has announced the suspension of in-person services at its consulates in Chandigarh, Mumbai, and Bengaluru, and the withdrawal of 41 diplomats in India. However, visa services provider VFS Global clarified that its visa application centers in India will continue to operate normally. This assurance brings relief to many Canada visa seekers, particularly students, as a significant number of Indian students go to Canada for educational purposes. VFS Global is authorized to accept applications for visitor visas, study visas, work permits, and travel document applications. It is important to note that while VFS Global helps with the application process, the decision to issue or refuse a visa is made by immigration officers of the IRCC.
+
+Mon, 23 Oct 2023 01:53:40 +0000
+### [ExplainSpeaking | Bidenomics: What is it? Has it worked? What is its significance?](https://indianexpress.com/article/explained/explained-economics/us-joe-biden-economics-explained-8995387/)
+
+Couldn't summarize
 
 Sun, 22 Oct 2023 15:22:26 +0000
 ### [Why Israel attacked Syria’s airports, amid its ongoing war with Hamas](https://indianexpress.com/article/explained/everyday-explainers/why-israel-attacked-syria-war-hamas-8995086/)
@@ -1000,6 +1062,11 @@ Mon, 16 Oct 2023 02:31:00 +0000
 
 Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.China's Special Envoy on the Middle East Issue, Zhai Jun, will visit the region to address the ongoing Israel-Hamas conflict. China has expressed its opposition to acts that harm civilians and called for a ceasefire and the establishment of an independent State of Palestine. Chinese Foreign Minister Wang Yi has criticized Israel's actions and expressed support for the Palestinians' just cause. China's stance is rooted in its strategic and economic interests in West Asia and its initial opposition to Israel as a US ally. By aligning with Arab nations' support for Palestine, China seeks to secure regional allies and criticize Western powers' involvement. China has positioned itself as an alternative to the US through diplomatic engagement, brokering normalization agreements between Iran and Saudi Arabia and hosting Palestinian Authority leader Mahmoud Abbas. China recognizes the PA as the representative of the Palestinian people and advocates for a two-state solution based on 1967 borders, with East Jerusalem as the Palestinian capital. China has made significant investments in infrastructure projects in the region through its Belt and Road Initiative. Despite growing economic ties with Israel, China has criticized Israel's role in Palestine, while Israel has condemned Chinese human rights abuses in Xinjiang.
 
+Sun, 15 Oct 2023 23:02:36 +0000
+### [Why farm votes will count in the upcoming state Assembly polls](https://indianexpress.com/article/explained/explained-economics/why-farm-votes-will-count-in-the-coming-state-polls-8984776/)
+
+Couldn't summarize
+
 Sun, 15 Oct 2023 15:49:51 +0000
 ### [Ramaphosa slams ‘Israeli occupation’: Why South Africa is sympathetic to Palestine](https://indianexpress.com/article/explained/everyday-explainers/ramaphosa-israeli-south-africa-palestine-8984553/)
 
@@ -1082,10 +1149,26 @@ Fri, 13 Oct 2023 14:15:50 +0000
 
 Israeli Prime Minister Benjamin Netanyahu has formed an emergency unity government with opposition leader Benny Gantz to oversee the ongoing war with Hamas. The unity government aims to bring together political rivals to keep Netanyahu out of power. The agreement includes Gantz and members of his Blue and White party joining forces with Netanyahu's far-right ruling coalition. An emergency war cabinet has been formed, consisting of Netanyahu, Gantz, and Yoav Gallant from the Likud party. The unity government will serve for the duration of the war, during which crucial decisions regarding the conduct of the war will be made. Legislation unrelated to the war will be put on hold. Some opposition parties, including Yair Lapid's Yesh Atid, have chosen not to join the unity government due to their opposition to Netanyahu's far-right allies. The ruling coalition includes ultra-Orthodox allies and a far-right faction, including controversial figures such as Itamar Ben-Gvir and Bezalel Smotrich, known for their anti-liberal and anti-democratic views.
 
+Fri, 13 Oct 2023 13:30:43 +0000
+### [Which nation can mediate in Hamas-Israel conflict?](https://indianexpress.com/article/explained/explained-global/which-nation-mediate-hamas-israel-conflict-8981745/)
+
+The article discusses the escalating conflict between Israel and Hamas in the aftermath of a terror attack. Israel has conducted massive airstrikes on the Gaza Strip, resulting in a high death toll. The Israeli government has also imposed a siege on Gaza and is attempting to free hostages held by Hamas. The militant group Hezbollah has supported Hamas by firing rockets into Israel, while extremist settlers have killed Palestinian civilians. There are concerns that the conflict could lead to a broader war involving other Middle Eastern countries. Various international actors, including the US, European nations, Russia, and China, have expressed a desire to help facilitate negotiations and establish a ceasefire. However, it is emphasized that Middle Eastern countries should take the lead in resolving the crisis. Egypt plays a crucial role as it shares a border with Gaza and is involved in providing humanitarian aid. Jordan has a history of involvement in the region and supports a two-state solution. Qatar, with its close ties to Hamas, is leading efforts to negotiate a ceasefire and hostage exchange. Turkey, which does not consider Hamas a terrorist organization, has also offered to mediate. Overall, the situation remains volatile, with concerns about further displacement and refugees seeking safety across borders.
+
 Fri, 13 Oct 2023 12:33:37 +0000
 ### [What is Australia’s Indigenous Voice referendum?](https://indianexpress.com/article/explained/explained-global/australia-indigenous-voice-referendum-explained-8981365/)
 
 Hmm, I am not sure. Email support@chatbase.co for more info.A referendum will be held in Australia on October 14 to determine whether the country's indigenous peoples should be formally consulted in the decision-making process for laws. The referendum question asks if the constitution should be altered to recognize the first peoples of Australia by establishing an Aboriginal and Torres Strait Islander voice. However, a recent YouGov poll suggests that the referendum is unlikely to pass. Indigenous Australians are not mentioned in the country's constitution, and the referendum aims to address this by proposing the establishment of an Indigenous "voice to parliament" to advise lawmakers on matters affecting their lives. Aboriginal people in Australia face various socio-economic challenges, including lower life expectancy, higher rates of disease and infant mortality, and a suicide rate twice as high as non-indigenous Australians. Supporters argue that the proposed body would provide a voice for the original inhabitants of the continent and address the legacy of failed programs and broken policies. The history of the indigenous communities in Australia has been marked by marginalization resulting from laws and policies implemented by colonial settlers. The opposition parties, including the Liberal Party and Nationals, have opposed the referendum, citing concerns about unclear details regarding the proposed body and the potential for dividing Australian society along racial lines. Some indigenous people have also rejected the idea of a consultative body, advocating instead for a formal treaty that transfers substantial power between the government and indigenous people.
+
+Fri, 13 Oct 2023 01:37:57 +0000
+### [An Expert Explains: Why did Hamas attack now, what does it say about Israeli intelligence?](https://indianexpress.com/article/explained/explained-global/why-did-hamas-attack-now-what-does-it-say-about-israeli-intelligence-8980558/)
+
+The article discusses the military conflict between Israel and the Gaza Strip-based militant group Hamas, highlighting some key factors and background information. The conflict is seen as unprecedented due to Hamas's ability to breach advanced border fencing mechanisms and intelligence capabilities. Hamas was founded in 1987 as a political arm of the Muslim Brotherhood and has significant influence in the Palestinian territories, particularly in Gaza. The group has carried out rocket attacks against Israel and developed expertise in digging military tunnels. Hamas considers Israel its sworn enemy and aims for its destruction.
+
+The article also mentions the reciprocal accusations between the parties involved, with Israel being accused of acts of terrorism and violating international law by encouraging Jewish settlements in the West Bank. The lack of progress in Israeli-Palestinian peace talks and the perception that the conflict is now more of an Israel-Palestinian issue contribute to the frustration among Palestinians. Additionally, Israel's hardline government and talk of expanding settlements have exacerbated tensions.
+
+The article suggests that Hamas's attack on Israel, codenamed "Al-Aqsa Flood," may be a response to the desecration of the Al-Aqsa mosque complex and an attempt to convey that Jerusalem is undividable. There is also speculation that Hamas aims to disrupt the possible Israeli-Saudi agreement for normalization by provoking heavy retaliation. The author points out the blow to Israel's intelligence apparatus and raises questions about potential failures in coordination between the government and military-security officials.
+
+Overall, the article emphasizes the need for Israel to reassess its counter-terrorism and intelligence strategies in light of this conflict.
 
 Thu, 12 Oct 2023 14:03:29 +0000
 ### [What war crimes laws apply to the Israel-Palestinian conflict?](https://indianexpress.com/article/explained/explained-global/what-war-crimes-laws-apply-to-the-israel-palestinian-conflict-8980317/)

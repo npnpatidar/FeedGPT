@@ -1,3 +1,8 @@
+Wed, 08 Nov 2023 08:30:00 +0530
+### [How are the MiG-21 fighter jets being phased out? | Explained](https://www.thehindu.com/news/national/how-are-the-mig-21-fighter-jets-being-phased-out-explained/article67510157.ece)
+
+The Indian Air Force (IAF) is phasing out its fleet of Mig-21 fighter jets, with the No. 4 squadron being re-equipped with Sukhoi-30 MKI aircraft. The Mig-21 was the first supersonic fighter in service of the IAF and has participated in all major conflicts since its induction in 1963. The No. 51 squadron, which saw action in the Balakot air strike, was phased out last year. The IAF currently has two Mig-21 squadrons, which will also be phased out by 2025 and replaced with the indigenous Light Combat Aircraft (LCA)-MK1A. The IAF has inducted two squadrons of the LCA Tejas and two squadrons of Rafale fighter jets in recent years. They have also signed a contract with Hindustan Aeronautics Limited (HAL) for 83 LCA MK1A, with plans to procure an additional 97.
+
 Tue, 07 Nov 2023 22:41:37 +0530
 ### [The massive displacement in Congo | Explained](https://www.thehindu.com/news/international/the-massive-displacement-in-congo-explained/article67510117.ece)
 
@@ -8,10 +13,25 @@ Tue, 07 Nov 2023 14:57:55 +0530
 
 GPT-3.5: The Central Consumer Protection Authority (CCPA) is currently investigating 20 IAS coaching institutes for misleading claims and unfair trade practices in their advertisements. Four of these institutes have already been fined Rs 1 lakh each. The investigation focuses on the institutes' use of testimonials without disclosing the nature of the enrolments and the course pursued by the top rank holders featured in their ads. The CCPA has found that many rank holders only took mock interviews from these institutes, which were provided free of cost. This lack of disclosure qualifies as deliberate concealment of important information and is categorized as a 'misleading advertisement' under the Consumer Protection Act, 2019. The penalties for first-time violations can go up to Rs 10 lakh, and subsequent violations may attract penalties up to Rs 50 lakh. The CCPA observed that the total selections claimed by the institutes being probed exceeded the recommendations by UPSC, possibly due to multiple enrolments among students. Currently, four institutes have been fined, while others are still under investigation.
 
+Tue, 07 Nov 2023 11:00:00 +0530
+### [How is electricity transmitted? | Explained](https://www.thehindu.com/sci-tech/science/electric-power-transmission-explained/article67507272.ece)
+
+Couldn't summarize
+
+Tue, 07 Nov 2023 10:30:00 +0530
+### [How the personal data of 815 million Indians got breached | Explained](https://www.thehindu.com/sci-tech/technology/how-the-personal-data-of-815-million-indians-got-breached-explained/article67505760.ece)
+
+Couldn't summarize
+
 Tue, 07 Nov 2023 08:30:00 +0530
 ### [What are the challenges for the new Polish government? | Explained](https://www.thehindu.com/news/international/what-are-the-challenges-for-the-new-polish-government-explained/article67505695.ece)
 
 The people of Poland recently voted in a multi-party opposition coalition, giving them a majority in the parliament's lower house. This marked a defeat for the ruling ultra-conservative Law and Justice party, which has been known for its right-wing and populist policies. The coalition plans to reverse many of the current government's controversial actions, such as imposing a total ban on abortions and attacking the LGBT community. The new government, led by former Prime Minister Donald Tusk, is expected to take a pro-EU stance and work to improve Poland's relationship with Brussels.
+
+Mon, 06 Nov 2023 19:34:45 +0530
+### [Why is Pakistan deporting Afghan migrants and refugees? | Explained](https://www.thehindu.com/news/international/why-is-pakistan-deporting-afghan-migrants-and-refugees-explained/article67493610.ece)
+
+Couldn't summarize
 
 Sun, 05 Nov 2023 01:45:00 +0530
 ### [What is the status of Kavach installations? | Explained](https://www.thehindu.com/news/national/what-is-the-status-of-kavach-installations-explained/article67498761.ece)
