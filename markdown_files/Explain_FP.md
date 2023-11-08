@@ -1,3 +1,37 @@
+Wed, 08 Nov 2023 13:09:36 +0530
+### [There’s a new COVID-19 variant. What's JN.1, will vaccines work against it?](https://www.firstpost.com/explainers/jn1-new-covid-19-variant-vaccines-danger-symptoms-13363242.html)
+
+Scientists have expressed concern about a new variant of the COVID-19 virus known as JN.1. This variant is a descendant of the BA.2.86 variant, also called 'Pirola,' which originated from Omicron. JN.1 has undergone a mutation that allows it to bind more strongly to human cells and increase transmissibility. It was first detected in Luxembourg and has since been found in several other countries. While JN.1 currently accounts for less than 0.1% of COVID-19 cases, experts believe it could become more prevalent, especially during the upcoming winter season. However, current vaccines are expected to be effective against this variant, as they target the spike protein that JN.1 possesses. Scientists emphasize the importance of a layered approach, including vaccination and mitigation strategies, to combat evolving variants. The emergence of JN.1 before winter has raised concerns due to historical surges in COVID-19 cases during colder months. The World Health Organization has warned of concerning trends and urged increased vaccinations and surveillance. Overall, while JN.1 presents some risks, experts believe that existing measures can help protect against severe disease.
+
+Wed, 08 Nov 2023 13:04:44 +0530
+### [What is ptosis, the eye condition that Zeenat Aman has been battling for decades?](https://www.firstpost.com/explainers/what-is-ptosis-the-eye-condition-that-zeenat-aman-has-been-battling-for-decades-13362952.html)
+
+Veteran actor Zeenat Aman recently shared her struggle with a health condition called ptosis. She explained that the condition is a result of an injury she sustained many decades ago, which damaged the muscles around her right eye. Ptosis, also known as "droopy eyelid" or "blepharoptosis," is characterized by the sagging or drooping of the upper eyelid, potentially obstructing vision. It can affect one or both eyelids and vary in severity. The causes of ptosis can include age-related changes, muscle weakness, nerve damage, or congenital factors. Treatment options depend on the cause and severity and may include medication, plastic surgery, or the use of glasses or eyedrops. While there is no way to prevent ptosis, regular eye exams are recommended.
+
+Wed, 08 Nov 2023 12:35:42 +0530
+### [Can deepfakes be regulated? Which countries have laws to curb such content?](https://www.firstpost.com/explainers/rashmika-mandanna-katrina-kaif-deepfakes-laws-india-us-china-europe-13363342.html)
+
+The Indian government has issued an advisory to social media platforms regarding deepfake content after a video featuring actress Rashmika Mandanna went viral. The government has highlighted the legal provisions that cover such content, including Section 66D of the Information Technology Act, which covers punishment for cheating by personation using computer resources. India's laws for copyright protection can also be used against individuals creating deepfakes using copyrighted works. However, there is a growing need for specific legislation to tackle the challenges posed by deepfakes, especially in cases related to pornography.
+
+China has introduced regulations around deepfakes, requiring users' consent for the use of their images and prohibiting the dissemination of fake news. South Korea has made it illegal to distribute deepfakes that could cause harm to public interest, with offenders facing imprisonment or fines. In the United States, there is no national legislation specifically addressing deepfakes, but a bill called the DEEPFAKES Accountability Act has been introduced to protect individuals from deceptive political messages and deepfake pornography. The UK, Australia, France, and the European Union are also considering or implementing laws to combat deepfake content.
+
+The recent incidents of deepfake videos have highlighted the dangers of synthetic media, particularly in the context of adult content featuring Indian actresses. India is ranked as the sixth most vulnerable country to deepfake pornography according to a State of Deepfakes report.
+
+Wed, 08 Nov 2023 11:22:43 +0530
+### [How Mumbai's air pollution is sending people to respiratory ICU](https://www.firstpost.com/explainers/how-mumbais-air-pollution-is-sending-people-to-respiratory-icu-13362242.html)
+
+The air quality in Mumbai has been deteriorating and is now ranked among the world's most polluted cities. The city's air quality index (AQI) was in the "moderate" category with a reading of 149, according to SAFAR. The pollution is causing respiratory problems such as COPD, asthma, bronchitis, and pneumonia across all age groups. A hospital in Mumbai has set up a special Intensive Respiratory Care Unit (IRCU) to treat patients with respiratory illnesses. Nearly 50% of patients visiting the hospital with respiratory symptoms need to be admitted, and 30% require ICU admission. The IRCU facility is equipped with advanced technology to manage complex respiratory conditions. The Maharashtra health department has initiated a "health action plan" to monitor air pollution-related conditions and ensure prompt treatment. In Delhi, RML Hospital has established a weekly "pollution" OPD to address illnesses caused by pollution.
+
+Wed, 08 Nov 2023 11:03:11 +0530
+### [Rajasthan polls: Meet Teetar Singh, the man who lost 20 elections, but is trying again](https://www.firstpost.com/explainers/rajasthan-polls-meet-teetar-singh-the-man-who-lost-20-elections-but-is-trying-again-13362492.html)
+
+Teetar Singh, a 78-year-old MGNREGS employee from Rajasthan, has filed his nomination to contest the upcoming legislative Assembly elections in the state. Despite never winning in the past, Singh is motivated by the fight for rights and demands that the government allot land to the landless and poor laborers. He has contested every election from panchayat to Lok Sabha polls but has faced defeat every time. Singh works as a daily wage laborer under the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) but shifts focus to campaigning during elections. He has filed his nomination for the Assembly election later this month.
+
+Wed, 08 Nov 2023 10:03:42 +0530
+### [No, Supreme Court has not banned all firecrackers: What's allowed, what's not?](https://www.firstpost.com/explainers/no-supreme-court-has-not-banned-all-firecrackers-whats-allowed-whats-not-13362282.html)
+
+Couldn't summarize
+
 Wed, 08 Nov 2023 09:19:04 +0530
 ### [How Delhi, Punjab airports have increased security after Gurpatwant Pannun's Air India bombing threat](https://www.firstpost.com/explainers/how-delhi-punjab-airports-have-increased-security-after-gurpatwant-pannuns-air-india-bombing-threat-13362072.html)
 

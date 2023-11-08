@@ -1,3 +1,16 @@
+Wed, 08 Nov 2023 07:39:56 +0000
+### [Electoral Bonds and Electoral Trusts: What are they, and how do they differ?](https://indianexpress.com/article/explained/explained-politics/electoral-bonds-electoral-trusts-9018591/)
+
+The Supreme Court has reserved its judgment on the challenge to the Indian government's Electoral Bonds Scheme after a three-day hearing. The controversial scheme, introduced in 2018, replaced the previous Electoral Trusts Scheme. Under the new scheme, donor anonymity is ensured, whereas under the previous scheme, electoral trusts were required to submit reports on contributions and donations to political parties. The number of registered trusts has ranged from three to 17, but only a few make donations each year.
+
+The Electoral Trusts Scheme requires trusts to donate 95% of contributions received to registered political parties. The scheme provides transparency regarding contributors and beneficiaries when there is only one contributor and one beneficiary. However, when multiple contributors and recipients are involved, it is difficult to determine which company is funding which party.
+
+On the other hand, Electoral Bonds are exempt from disclosure requirements, providing privacy for donors. Political funding through both schemes increased after the introduction of Electoral Bonds, with the majority of donations coming through this newer scheme. From 2017-18 to 2021-22, parties received a total of Rs 1,631 crore through Electoral Trusts, while Rs 9,208 crore was donated through Electoral Bonds.
+
+Between March 2018 and October 2023, electoral bonds worth over Rs 14,000 crore were sold by the State Bank of India. The Bharatiya Janata Party (BJP) received 72% of the total funds donated through electoral trusts, higher than its share of funding through electoral bonds (57%). The Congress received 10% of the total funding from electoral bonds and 9.7% from electoral trusts. The Trinamool Congress received 8.3% of electoral bond funds, while the Biju Janata Dal (BJD) received about 1% of total funds given by trusts.
+
+According to a report by the Association for Democratic Reforms, more than 55% of political party funding comes through electoral bonds. For some parties, these bonds have become the sole source of contributions, as seen with the BJD declaring that its entire income in 2021-22 came from electoral bonds.
+
 Wed, 08 Nov 2023 03:40:55 +0000
 ### [How ignored landslide warnings led to Subansiri running dry](https://indianexpress.com/article/explained/how-ignored-landslide-warning-led-to-subansiri-river-running-dry-explained-9018295/)
 
@@ -396,7 +409,17 @@ Several opposition leaders in India, including Shashi Tharoor and Pawan Khera of
 Tue, 31 Oct 2023 09:42:21 +0000
 ### [Why the Goa government is in the dock over notifying a tiger reserve](https://indianexpress.com/article/explained/goa-mhadei-tiger-reserve-wildlife-notification-explained-9005598/)
 
-Couldn't summarize
+The Goa bench of the Bombay High Court has directed the Goa government to establish a tiger reserve in Mhadei Wildlife Sanctuary and surrounding areas within three months. This decision came in response to a public interest litigation filed by the environmental NGO, Goa Foundation, which sought the formation of a tiger reserve as recommended by the National Tiger Conservation Authority (NTCA). The court also instructed the state to settle the rights and claims of Scheduled Tribes and forest dwellers within a year.
+
+The NTCA had previously advised the state government to create a tiger reserve in the Cotigao-Mhadei forest complex, which is known for its tiger population and potential as a habitat. The proposed reserve would enhance protection and security measures, including the establishment of a Special Tiger Protection Force.
+
+Efforts to establish the tiger reserve have faced obstacles, with local politicians encouraging encroachment and cultivation in the sanctuary. In 2022, Goa's Forest Minister stated that there were no resident tigers in Goa, raising doubts about the necessity of a tiger reserve. However, the deaths of a tigress and its cubs in 2020 led to an investigation that recommended upgrading the legal status of Mhadei WLS to that of a tiger reserve.
+
+The Goa government argued before the court that further studies and the settlement of rights of forest dwellers were necessary before establishing the tiger reserve. They also claimed that the existing protected areas already provided sufficient protection for all wildlife, including tigers.
+
+Despite these arguments, the court found the state's contentions inadequate, citing their failure to settle the rights and claims of forest dwellers and their non-compliance with the Supreme Court's directive. The court emphasized the need to notify the tiger reserve and ensure its conservation for the larger public interest and to reduce conflicts between humans and tigers.
+
+As of now, the Goa government has filed an application seeking more time to implement the court's order. The Goa Foundation has also filed a contempt petition against the government for not complying with the High Court's directions.
 
 Tue, 31 Oct 2023 09:03:11 +0000
 ### [What is Apple’s ‘state-sponsored attackers’ alert, received by multiple Opposition leaders?](https://indianexpress.com/article/explained/explained-sci-tech/apple-state-sponsored-attackers-alert-opposition-explained-9007362/)
