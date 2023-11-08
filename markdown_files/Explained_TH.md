@@ -1,3 +1,16 @@
+Wed, 08 Nov 2023 22:13:18 +0530
+### [‘Loss and damage’ fund talks leave developing nations at new disadvantage | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/loss-and-damage-fund-cop-28-transitional-committee-failure/article67514293.ece)
+
+The article discusses the concept of 'loss and damage' (L&D) in relation to climate change. It explains that adaptation is the proactive response to climate change, whereas L&D represents the irreversible consequences that cannot be avoided or mitigated through adaptation. These consequences include economic losses, human casualties, and the degradation of ecosystems and cultural heritage.
+
+The article highlights the need for affluent nations to acknowledge their historic pollution and its contribution to climate change. It mentions the establishment of the L&D fund at the 19th Conference of the Parties (COP 19) in 2013, which aimed to provide financial and technical assistance to economically developing nations experiencing L&D due to climate change. However, subsequent meetings of the Transitional Committee (TC) responsible for operationalizing the fund have failed to produce clear recommendations.
+
+The fifth meeting of the TC (TC5) recently took place, resulting in a set of recommendations. Developing nations agreed to host the fund at the World Bank Financial Intermediary Fund for an interim period, while developed nations remained non-committal about being primary donors. There is no indication of the fund's size, and developed nations' support is voluntary, diluting the spirit and intent of the L&D fund.
+
+The article emphasizes the lack of trust between wealthy and impoverished nations regarding historical responsibilities and climate reparations. It warns that the watering down of the L&D fund has wide-reaching implications, including threats to climate justice, increased humanitarian crises, economic consequences, environmental degradation, and security implications.
+
+The author argues that both adaptation and L&D are essential in addressing climate change. They stress the need for rich countries to meet their obligations to reduce emissions and provide fair finance to achieve climate justice. Failure to do so may derail global climate action and strain future COP talks.
+
 Wed, 08 Nov 2023 17:15:06 +0530
 ### [Israel-Hamas war: What international laws apply and whether the ICC can prosecute | Explained](https://www.thehindu.com/news/national/israel-hamas-war-what-international-laws-apply-and-whether-the-icc-can-prosecute-explained/article67505248.ece)
 

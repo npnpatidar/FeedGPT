@@ -1,3 +1,8 @@
+Wed, 08 Nov 2023 20:56:54 +0530
+### [India's growth seems secure despite global headwinds and uncertainties](https://www.livemint.com/opinion/online-views/indias-growth-seems-secure-despite-global-headwinds-and-uncertainties-11699449175482.html)
+
+Couldn't summarize
+
 Wed, 08 Nov 2023 17:38:03 +0530
 ### [A thin line separates economic nationalism from a closed economy but it can work](https://www.livemint.com/opinion/online-views/a-thin-line-separates-economic-nationalism-from-a-closed-economy-but-it-can-work-11699444784146.html)
 

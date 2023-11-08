@@ -1,3 +1,35 @@
+Wed, 08 Nov 2023 15:45:35 +0000
+### [What’s Gaza’s Ministry of Health — and how does it calculate the death toll?](https://indianexpress.com/article/explained/explained-global/gaza-ministry-of-health-9019316/)
+
+The article discusses the death toll in the Gaza Strip as a result of Israel's bombings and the role of Gaza's Ministry of Health in providing casualty estimates. The ministry, controlled by the Hamas government, is responsible for supervising health services in Gaza. Its casualty estimates are widely cited by news organizations, human rights groups, and international entities like the United Nations.
+
+While Gaza's Hamas government controls the health ministry, it operates separately from its political and security agencies. The Palestinian Authority (PA) retains power over health and education services in Gaza, even though Hamas defeated it in the 2006 Palestinian Legislative Council elections. The PA administers parts of the Israeli-occupied West Bank and has its own health ministry in Ramallah. It still provides medical equipment, pays salaries to the ministry's employees, and handles patient transfers from Gaza to Israeli hospitals.
+
+The ministry calculates the death toll by collecting data from hospital administrators who record every wounded person and dead body. This information is entered into a computerized system shared with the health ministry's spokesperson. The ministry also receives data from other sources such as the Palestinian Red Crescent. It releases casualty updates every few hours, providing the number of dead and wounded categorized by gender but without disclosing names, ages, or locations. However, in response to doubts raised by the US, they released a detailed report listing every Palestinian killed in the war so far.
+
+According to Human Rights Watch, the ministry's figures are generally accurate based on their past investigations of Gazan casualties. In previous conflicts between Israel and Hamas, UN agencies, the International Committee of the Red Cross, and the Palestinian Red Crescent have also relied on these numbers.
+
+(With inputs from AP)
+
+Wed, 08 Nov 2023 15:13:27 +0000
+### [How climate change is displacing animals](https://indianexpress.com/article/explained/explained-climate/climate-change-displacing-animals-9019249/)
+
+A new analysis suggests that extreme weather events linked to climate change have a more detrimental impact on native species compared to non-native species. The study, published in the journal Nature Ecology & Evolution, analyzed 443 studies on the responses of native and non-native species to extreme weather. It found that non-native species tended to show more positive responses or fewer negative responses to extreme weather, while native species suffered population decline, loss of geographic distribution, and struggled to recover. The study highlights the importance of understanding the effects of global warming on biodiversity. However, some researchers caution that the study's conclusions may be biased due to the limited representation of regions and species in the analyzed studies. Nonetheless, the study underscores the need to protect native species and focus on their recovery in areas affected by extreme weather events.
+
+Wed, 08 Nov 2023 14:37:38 +0000
+### [Mobile phones might cause lower sperm count: what new research shows](https://indianexpress.com/article/explained/explained-health/mobile-phones-lower-sperm-count-research-9019250/)
+
+A recent study from Switzerland suggests that there may be a link between mobile phone use and declining sperm counts. After analyzing semen samples from over 2,800 young men, researchers found that those who reported higher mobile phone usage had lower sperm concentration. However, there was no difference in sperm motility or morphology between different types of phone users, nor did the storage location of the phone affect sperm concentration. The study was conducted between 2005 and 2018, and the association between high phone use and low sperm count was more significant during the earlier years of the study. The researchers believe this may be due to the transition from older to newer technologies with lower phone output power.
+
+This study adds mobile phones to a growing list of factors that have been found to potentially impact fertility, including smoking, obesity, alcohol, stress, and certain chemicals. Previous research on this topic has mainly been conducted on mice or sperm in vitro, making this study particularly valuable as it was carried out in real-world conditions. However, some experts caution that other factors related to lifestyle or occupation may be influencing these results and that there is currently no confirmed explanation for the observed decline in sperm quality among frequent phone users.
+
+While the findings may cause concern for men planning to have children, researchers advise against making any drastic changes based solely on this study. Keeping phones in a bag and reducing usage can be relatively easy steps to take, but there is no evidence yet that these actions improve sperm quality. Further research, such as randomized controlled trials, is needed to better understand the biology and mechanisms behind this potential association. In the meantime, individuals are encouraged to make informed decisions regarding their phone use while keeping in mind that the current evidence is inconclusive.
+
+Wed, 08 Nov 2023 14:09:59 +0000
+### [SC says cracker order applies to country, not just NCR: What types of fireworks are allowed, and where](https://indianexpress.com/article/explained/explained-health/diwali-fireworks-sc-green-crackers-9019216/)
+
+The Supreme Court has clarified that its ban on the use of barium and other banned chemicals in firecrackers applies to the entire country, not just the National Capital Region. The court's order, which was reiterated in October 2021, bans the production and sale of all crackers except "green crackers" and those with reduced emissions. It also prohibits the use of barium salts in fireworks and sets limits on noise levels. Barium and other chemicals are banned due to their harmful impact on human health, including respiratory irritation, skin allergies, breathing difficulties, and cancer. Green crackers, which emit less-harmful chemicals and release water vapor as a dust suppressant, were developed by a network of CSIR labs. These crackers fall into three categories: SWAS, which releases water vapor when burst; STAR, which emits reduced particulate matter and sound intensity; and SAFAL, which minimizes the use of aluminum and emits less noise.
+
 Wed, 08 Nov 2023 10:05:43 +0000
 ### [India’s Energy Conservation Building Code, 2017: Why the IEA called it a ‘notable exception’ among developing countries](https://indianexpress.com/article/explained/explained-economics/energy-conservation-building-code-2017-iea-9018786/)
 

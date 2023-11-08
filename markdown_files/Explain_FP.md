@@ -1,3 +1,18 @@
+Wed, 08 Nov 2023 20:48:13 +0530
+### [Are Ukraine, Moldova a step closer to becoming European Union members?](https://www.firstpost.com/explainers/are-ukraine-moldova-a-step-closer-to-becoming-european-union-members-13366292.html)
+
+Couldn't summarize
+
+Wed, 08 Nov 2023 18:28:43 +0530
+### [Hate returning to the office? This new workplace trend, coffee badging, is for you](https://www.firstpost.com/explainers/coffee-badging-workplace-trend-return-to-office-hr-managers-hybrid-working-13364712.html)
+
+The latest work trend called "coffee badging" is gaining attention, but not for positive reasons. Coffee badging involves employees showing up at the office, grabbing a coffee, socializing briefly with colleagues, and then leaving. It is a form of presenteeism where employees make a brief appearance at the office to earn recognition without actually being productive. A recent report found that 58% of hybrid workers in the US have engaged in coffee badging. The practice is seen as a subtle form of protest against returning to the office and can create a toxic work culture. Employees may feel pressured to be physically present in order to be noticed and rewarded. Coffee badging can also lead to reduced collaboration and undermine work culture. Managers are concerned about the impact of this trend on productivity and employee engagement. To address coffee badging, companies should offer more flexible work models and encourage open communication between employees and employers.
+
+Wed, 08 Nov 2023 18:07:08 +0530
+### [In graphics | What went wrong with Wall Street darling WeWork?](https://www.firstpost.com/explainers/in-graphics-what-went-wrong-with-wall-street-darling-wework-13365352.html)
+
+WeWork, a startup backed by SoftBank Group, has filed for Chapter 11 bankruptcy protection after reporting liabilities of $10-$50 billion. The filing comes amidst a disruption in the commercial real estate market. It is unclear how many WeWork locations will remain open, but the company stated that its locations and franchises outside of the United States and Canada are not affected. The rise and fall of WeWork has been a topic of discussion for some time.WeWork has filed for Chapter 11 bankruptcy protection, after reporting liabilities of $10-$50 billion. The filing comes at a time of disruption in the commercial real estate market. It is not clear how many WeWork locations will remain open, but the company said its locations and franchises outside of the United States and Canada are not affected. WeWork's fall from grace marks a stunning decline for the once-promising office sharing company.
+
 Wed, 08 Nov 2023 17:52:19 +0530
 ### [From Starbucks to Google: How big brands are caught in the Israel-Hamas war](https://www.firstpost.com/explainers/israel-hamas-war-starbucks-row-google-employees-big-brands-response-gaza-attack-13365292.html)
 
@@ -56,7 +71,7 @@ Teetar Singh, a 78-year-old MGNREGS employee from Rajasthan, has filed his nomin
 Wed, 08 Nov 2023 10:03:42 +0530
 ### [No, Supreme Court has not banned all firecrackers: What's allowed, what's not?](https://www.firstpost.com/explainers/no-supreme-court-has-not-banned-all-firecrackers-whats-allowed-whats-not-13362282.html)
 
-Couldn't summarize
+The Supreme Court has extended the ban on polluting firecrackers to all states in India, not just the Delhi-NCR region. However, the court clarified that green crackers are allowed. These green crackers were developed by the Council for Scientific and Industrial Research (CSIR)-National Environmental Engineering Research Institute (NEERI) in 2018 to reduce pollution levels. Green crackers have a smaller carbon footprint and contain fewer harmful chemicals compared to traditional crackers. They cause 30% less air pollution and emit less noise. The court's decision means that all states, including Rajasthan, must take steps to minimize air and noise pollution during the festival season and beyond. Some states like Delhi, Maharashtra, Karnataka, Punjab, and West Bengal have already imposed restrictions on the sale and use of firecrackers, with some allowing only green crackers.
 
 Wed, 08 Nov 2023 09:19:04 +0530
 ### [How Delhi, Punjab airports have increased security after Gurpatwant Pannun's Air India bombing threat](https://www.firstpost.com/explainers/how-delhi-punjab-airports-have-increased-security-after-gurpatwant-pannuns-air-india-bombing-threat-13362072.html)
@@ -187,7 +202,7 @@ An Indian man, Philip Mathew, has been sentenced to life in prison in Florida fo
 Tue, 07 Nov 2023 07:46:11 +0530
 ### [Mizoram Elections 2023: Big names in fray, big issues on minds of voters](https://www.firstpost.com/explainers/mizoram-assembly-elections-2023-big-names-in-fray-big-issues-on-minds-of-voters-13356002.html)
 
-Couldn't summarize
+Hmm, I am not sure. Email support@chatbase.co for more info.The ruling Mizo National Front (MNF) led by Chief Minister Zoramthanga is seeking to return to power in the upcoming elections in Mizoram. The state will witness elections in 40 Assembly seats with over 8.5 lakh eligible voters. The main opposition party is the Zoram People's Movement (ZPM), while the Congress party has taken a distant third place. There are several notable candidates contesting, including Chief Minister Zoramthanga, ZPM chief Lalduhoma, and Congress stalwart Lalrindika Ralte. Key issues for voters include the lot of farmers and concerns about corruption. An opinion poll shows that blame for the Manipur crisis is assigned to both the former UPA government and successive state governments. Regarding refugees from Burma, the majority of respondents believe they should be taken in but express long-term worries about the state.
 
 Mon, 06 Nov 2023 20:03:59 +0530
 ### [Want to boost productivity? Try getting angry at work](https://www.firstpost.com/explainers/anger-boost-productivity-study-workplace-motivator-goals-13355892.html)
@@ -197,7 +212,7 @@ A new study has found that anger can actually be a powerful motivator for produc
 Mon, 06 Nov 2023 18:26:54 +0530
 ### [Rashmika Mandanna deepfake controversy: What are these AI-generated pictures, videos?](https://www.firstpost.com/explainers/what-is-a-deepfake-fraud-how-can-we-stay-safe-from-it-12882832.html)
 
-Couldn't summarize
+A deepfake video featuring actor Rashmika Mandanna has gone viral on social media, prompting concerns about the spread of misinformation and the role of AI. The video, which was doctored to replace the face of another individual with Mandanna's, has garnered strong reactions from Mandanna herself, Union Minister Rajeev Chandrasekhar, and superstar Amitabh Bachchan. Chandrasekhar reminded social media platforms of their legal obligations to combat misinformation, while Bachchan called for strong legal action against deepfakes. Deepfakes are realistic but fake images, voices, or videos created using AI and deep learning algorithms. They have been a growing concern, with numerous instances involving celebrities going viral in the past. Deepfake fraud is when scamsters use AI to duplicate the sound or faces of an intended victim's friends or family to manipulate them into transferring money. Indians, in particular, are falling victim to deepfake scams, with many unable to distinguish between real and AI voices. To protect oneself from such scams, establishing a codeword with close friends and family, being cautious of unknown calls, and verifying information through alternative means are recommended.
 
 Mon, 06 Nov 2023 17:59:08 +0530
 ### [Chhattisgarh Elections: Who are the key faces in the fray? What are the main issues?](https://www.firstpost.com/explainers/chhattisgarh-assembly-elections-2023-key-candidates-key-seats-main-issues-13355112.html)
