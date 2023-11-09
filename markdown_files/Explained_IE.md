@@ -1,3 +1,8 @@
+Thu, 09 Nov 2023 01:37:05 +0000
+### [1 year of Project Cheetah: Hits, misses and paradigm shift ahead](https://indianexpress.com/article/explained/one-year-of-project-cheetah-9019478/)
+
+India's Project Cheetah, which aims to introduce African cheetahs into the wild in India, has reported short-term successes. These include a 50% survival rate for introduced cheetahs, the establishment of home ranges, the birth of cubs in Kuno, and revenue generation for local communities. However, there are concerns about the project's long-term success. Many cheetahs have spent limited time in the wild, falling short of the expected months. The project has lost 40% of its adult population due to deaths and unfit individuals. Only three cheetahs have spent an extended period in the wild, while others have been kept in enclosures. Reproduction has occurred, but one female was captive-raised and her cubs were born in captivity. The project has boosted local livelihoods but faces challenges in maintaining genetic diversity and establishing a self-sustaining population. The solution may lie in creating a meta-population scattered across central and western India, aided by periodic translocations to maintain genetic viability. However, this approach could weaken the case for natural wildlife dispersal and forest connectivity.
+
 Wed, 08 Nov 2023 23:53:42 +0000
 ### [Possible answer to farm fires: New rice variety can replace Pusa-44](https://indianexpress.com/article/explained/possible-answer-to-farm-fires-new-rice-variety-can-replace-pusa-44-9019491/)
 

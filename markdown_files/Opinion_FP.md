@@ -1,3 +1,13 @@
+Thu, 09 Nov 2023 09:22:13 +0530
+### [Ukraine is slowly being left to its fate because the Israel-Hamas war is offering a more gruesome, gripping story](https://www.firstpost.com/opinion/ukraine-is-slowly-being-left-to-its-fate-because-the-israel-hamas-war-is-offering-a-more-gruesome-gripping-story-13366852.html)
+
+Couldn't summarize
+
+Thu, 09 Nov 2023 08:19:35 +0530
+### [Vantage | Are American voters and Democrats giving up on Biden?](https://www.firstpost.com/opinion/vantage-are-american-voters-and-democrats-giving-up-on-biden-13366682.html)
+
+Couldn't summarize
+
 Wed, 08 Nov 2023 19:43:26 +0530
 ### [Vantage | What do Israel's 'pause' and post-war plans for Gaza mean?](https://www.firstpost.com/opinion/vantage-what-do-israels-pause-and-post-war-plans-for-gaza-mean-13366152.html)
 
@@ -51,7 +61,7 @@ Myanmar is experiencing a surge in rebellion, as a coalition of rebel groups kno
 Wed, 08 Nov 2023 08:59:19 +0530
 ### [Dragon diplomacy: Has China undermined the India-Bhutan relationship?](https://www.firstpost.com/opinion/dragon-diplomacy-has-china-undermined-the-india-bhutan-relationship-13361862.html)
 
-Couldn't summarize
+Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses the visit of the King of Bhutan, Jigme Khesar Namgyel Wangchuck, to India and the changing dynamics in the relationship between Bhutan, India, and China. The author highlights the border talks between China and Bhutan, with China pressuring Bhutan to establish diplomatic relations. The article suggests that Bhutan is seeking economic projects, such as the Gateway City project, to balance its relationship with China and India. India, on the other hand, is focused on its own national interests and has been taking measures to counter China's influence in the region. The author emphasizes that India is now seen as a strategic partner by the West and is reducing its dependence on China economically. Bhutan, being strategically important due to its proximity to the Doklam Plateau, needs to maintain its close relationship with India. Overall, the article highlights the complex geopolitical situation involving Bhutan, India, and China.
 
 Tue, 07 Nov 2023 18:12:25 +0530
 ### [War in Our Times | Independent India’s first war: The Gilgit-Skardu saga of 1947-48](https://www.firstpost.com/opinion/war-in-our-times-independent-indias-first-war-the-gilgit-skardu-saga-of-1947-48-13360842.html)
