@@ -1,3 +1,22 @@
+Thu, 09 Nov 2023 11:58:38 +0000
+### [Best case scenario for BJP in state polls — it will only win Rajasthan](https://indianexpress.com/article/opinion/columns/bjp-state-polls-rajasthan-9020428/)
+
+The article discusses the effectiveness of several welfare schemes implemented by the Indian government. The author highlights various discrepancies and shortcomings in these programs, questioning their impact on the intended beneficiaries. Here are the main points:
+
+1. Ayushman Bharat: The health insurance scheme faced criticism from the Comptroller and Auditor General (CAG) for issues like fake beneficiaries, funds disbursed to deceased individuals, and improper documentation.
+
+2. Beti Bachao Beti Padhao: The majority of funds allocated for this scheme were used for media campaigns instead of directly benefiting girls' education. The implementation process was found to have loopholes and structural barriers hindering girls' schooling.
+
+3. Jal Jeevan Mission: The mission has not commenced work in nearly one crore households. Although the government claims that 1.68 lakh villages have access to drinking water, only 35% have been certified by Gram Panchayats. Additionally, only half of the households have functional tap connections.
+
+4. PM POSHAN: The budget allocation for this social security program for women and children saw a decrease compared to the previous year. NFHS 2019-21 data revealed high rates of child stunting and wasting in India, with poor utilization of funds in certain states like Uttar Pradesh.
+
+5. Jan Dhan Yojana and accident insurance: A significant percentage of Jan Dhan accounts had zero balance or were dormant/inoperative. The number of accidental insurance claim settlements linked to Jan Dhan accounts decreased over time.
+
+6. Minority Scholarships: The Maulana Azad Fellowship scheme for M Phils and PhDs was discontinued, affecting research fellows from minority communities. Other scholarships and funding for educational opportunities were also reduced.
+
+The article suggests that state governments, particularly those run by non-BJP parties, have implemented similar welfare programs with better outreach and implementation than the Union government since 2014.
+
 Thu, 09 Nov 2023 02:00:56 +0000
 ### [Glen Maxwell’s heist: Breathing fresh hope into the ODI format](https://indianexpress.com/article/opinion/editorials/glen-maxwells-heist-breathing-fresh-hope-into-the-odi-format-9019460/)
 

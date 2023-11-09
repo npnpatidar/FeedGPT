@@ -6,4 +6,3 @@
 - [Opinion Mint](markdown_files/Opinion_Mint.md)
 - [EDITORIAL TH](markdown_files/EDITORIAL_TH.md)
 - [Column TH](markdown_files/Column_TH.md)
-- [The Wire](markdown_files/The_Wire.md)

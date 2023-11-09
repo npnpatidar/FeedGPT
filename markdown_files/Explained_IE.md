@@ -1,3 +1,26 @@
+Thu, 09 Nov 2023 11:52:19 +0000
+### [Speedy disposal of cases against lawmakers: What SC guidelines on the matter say](https://indianexpress.com/article/explained/explained-law/speedy-disposal-cases-lawmakers-sc-guidelines-9020398/)
+
+The Supreme Court has issued guidelines to monitor the speedy disposal of criminal cases against Members of Parliament (MPs) and Members of Legislative Assemblies (MLAs). The court called for the setting up of a "special bench" to monitor such cases and for the suo motu registration of cases by high courts. The directions were given in response to a plea filed by advocate Ashwini Kumar Upadhyay, which sought speedy disposal of cases involving lawmakers and a lifetime ban on convicted politicians from contesting elections. The court ruled that priority should be given to cases punishable with death or life imprisonment, as well as cases punishable with 5 years imprisonment or more. The court also stated that high courts can issue similar orders and directions for effective disposal of such cases.
+
+Thu, 09 Nov 2023 11:34:08 +0000
+### [How political funding influences electoral outcomes: what studies say](https://indianexpress.com/article/explained/explained-politics/how-political-funding-influences-electoral-outcomes-what-studies-say-9020392/)
+
+The Supreme Court is currently reviewing petitions challenging the validity of electoral bonds, with the ruling government claiming that they were introduced to make political funding more transparent. However, opposition parties argue that the system is transparent only for the ruling party. Available data shows that from 2017 to 2022, the BJP received 57% of all electoral bonds, amounting to over Rs 5,200 crore, while the Congress received only 10% of the funds (Rs 950 crore).
+
+A study by the Centre for Media Studies revealed that the 2019 Lok Sabha elections were the most expensive ever, costing around Rs 55-60,000 crore, with the BJP accounting for 45% of the expenditure. Research suggests a linear relationship between political funding and electoral outcomes. Candidates from competitive parties were found to be approximately 20 times wealthier than candidates from non-competitive parties. Wealthier candidates had a higher likelihood of winning elections.
+
+Similar correlations between electoral funding and election outcomes have been observed in studies conducted outside of India, including in US congressional elections and legislative elections in Taiwan.
+
+The Supreme Court raised concerns about selective anonymity in the electoral bonds scheme, where the ruling party could identify donors while the opposition could not. The Election Commission of India and the Reserve Bank of India also expressed objections to the scheme, citing the potential for misuse and the involvement of shell companies to channel black money into politics. However, the ECI later supported electoral bonds.
+
+In addition to the electoral bonds scheme, several other laws were amended, including the Reserve Bank of India Act, Companies Act, Income Tax Act 1961, Representation of the People Act, and Foreign Contribution Regulations Act. These amendments increased the role of political funding in electoral outcomes by removing restrictions on the percentage of profits a company could donate and eliminating the requirement for companies to have three years of profits before making political donations.
+
+Thu, 09 Nov 2023 10:58:34 +0000
+### [Why Mumbai will not host the Indo-Pak semi final (if it happens)](https://indianexpress.com/article/explained/explained-politics/mumbai-wankhede-india-pakistan-cricket-shiv-sena-9020286/)
+
+India and Pakistan may have a chance to face each other in the World Cup semifinals. India is currently at the top of the leaderboard, while Pakistan needs to secure the fourth spot to set up a clash with India. However, if this match does happen, it will be played in Kolkata instead of Mumbai due to security concerns. Pakistan is currently tied with New Zealand in terms of points but behind in net run rate. If New Zealand loses their final game, Pakistan can simply defeat England to qualify for the semis. Otherwise, they would need to win by a significant margin to overtake New Zealand. In any case, Pakistan can only qualify as the fourth-placed team, leading them to face India in the semifinal. As per an arrangement with the Pakistan Cricket Board, any semifinal featuring Pakistan will be played in Kolkata instead of Mumbai due to previous security concerns. The Shiv Sena, a political party in Maharashtra, has been strongly opposed to Pakistan and Indo-Pak cricket matches due to historical reasons. They have previously disrupted matches and expressed their disagreement with playing against Pakistan. Due to these security concerns and past incidents, Pakistan's matches have been scheduled in venues other than Mumbai.
+
 Thu, 09 Nov 2023 07:53:57 +0000
 ### [Why Kerala’s contributory pension scheme was under review, and what a govt committee has said on retaining it](https://indianexpress.com/article/explained/kerala-govt-committee-nps-pension-scheme-report-9019907/)
 
