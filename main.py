@@ -7,6 +7,7 @@ import json
 import xml.etree.ElementTree as ET
 from xml.dom.minidom import parseString
 from datetime import datetime
+import xmltodict
 
 
 
@@ -462,7 +463,7 @@ def main():
 
     for feed in feeds:
         fetch_and_write_feed_to_markdown(feed)
-        
+
     for feed in feeds:   
         update_summaries_in_items_where_ai_summary_is_false(feed)
         sorting_and_writing_markdown_files(feed)
