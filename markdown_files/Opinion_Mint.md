@@ -1,3 +1,18 @@
+Thu, 09 Nov 2023 18:16:26 +0530
+### [Consensus must be sought on key WTO issues to make its Abu Dhabi conclave count](https://www.livemint.com/opinion/online-views/consensus-must-be-sought-on-key-wto-issues-to-make-its-abu-dhabi-conclave-count-11699532293012.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The 12th Ministerial Conference (MC-12) of the World Trade Organization (WTO) concluded with a sense of optimism for the relevance of multilateralism. The previous conferences had shown divisions among member countries, but MC-12 resulted in an Outcome Document that highlighted areas of solidarity and further work. The G20 New Delhi Leader's Declaration also emphasized the value of multilateralism and the role of the WTO in the global trading system.
+
+Looking ahead to the next Ministerial Conference (MC-13) scheduled for February 2024, a Senior Officers Meeting (SOM) was held to identify key issues for negotiation. The chairperson's summary and reports indicated some differences in views among members. To ensure the success of MC-13, these gaps need to be addressed to maintain the WTO as a truly multilateral institution.
+
+One important area of focus is dispute settlement reform. The WTO's dispute settlement system has been dysfunctional since 2019, and concrete steps need to be taken to deliver on the commitment for a "well-functioning dispute settlement system" by 2024.
+
+Agriculture is another crucial area, particularly for developing countries. Two specific concerns are a permanent solution for public stockholding (PSH) and a special safeguard mechanism (SSM) to protect against market instabilities. The Bali Decision provided an interim solution for PSH, but a permanent one remains unfinished. The SSM proposal aims to make a similar measure accessible to developing countries. However, the SOM summary on agriculture only briefly mentions these issues and risks conflating them with broader agricultural reforms, which could hinder progress.
+
+Fisheries subsidies were a significant outcome of MC-12, but further deliberation is needed at MC-13 regarding overcapacity, overfishing, and equitable access to marine genetic resources (MGR). Coastal areas in developing countries rely on fisheries for livelihood and food security, so finding a balance between industrial fishing and sustainable fisheries is crucial. The issue of fishing in the high seas, dominated by certain countries, also needs to consider the capacity development of developing nations and their access to MGR.
+
+Overall, it is important for members to reiterate their commitment to addressing key issues such as dispute settlement, agriculture, and fisheries subsidies separately from broader WTO reform discussions. The article mentions that there will be a second part focusing on other priorities, including e-commerce and WTO reform.
+
 Thu, 09 Nov 2023 16:08:17 +0530
 ### [What makes people risk their lives for the sake of others?](https://www.livemint.com/opinion/online-views/what-makes-people-risk-their-lives-for-the-sake-of-others-11699525134371.html)
 

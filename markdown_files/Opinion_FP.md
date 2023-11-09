@@ -1,3 +1,13 @@
+Thu, 09 Nov 2023 19:12:11 +0530
+### [Paganphobia: Why fight against anti-Semitism seems stuck in insularity](https://www.firstpost.com/opinion/paganphobia-why-fight-against-anti-semitism-seems-stuck-in-insularity-13370632.html)
+
+Couldn't summarize
+
+Thu, 09 Nov 2023 18:04:59 +0530
+### [Vantage | How post-Cold War gains are eroding one treaty at a time](https://www.firstpost.com/opinion/vantage-how-post-cold-war-gains-are-eroding-one-treaty-at-a-time-13369872.html)
+
+The article discusses the downfall of the Treaty on Conventional Armed Forces in Europe (CFE), which was signed in 1990 by Russia and NATO. The treaty aimed to prevent military buildups and foster peace between the two sides. However, in recent years, the treaty has unraveled, particularly after Russia's invasion of Ukraine in 2014. Russia suspended its participation in the CFE Treaty in 2007 and officially announced its intent to withdraw in 2015. Russia attributed its withdrawal to the expansion plans of the United States and NATO. This withdrawal has also led to the suspension of NATO's participation. The article highlights that the demise of the CFE Treaty is part of a broader trend of eroding international agreements, including nuclear treaties. It emphasizes the need for transparency, risk reduction, and arms control to manage competition and prevent unintended escalation. The article concludes by stating that international relations are once again filled with uncertainty.
+
 Thu, 09 Nov 2023 17:49:12 +0530
 ### [Jokes Apart | 70 hours a week? Seriously? And why do we work anyway?](https://www.firstpost.com/opinion/jokes-apart-70-hours-a-week-seriously-and-why-do-we-work-anyway-13370132.html)
 

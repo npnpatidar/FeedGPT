@@ -1,3 +1,8 @@
+Thu, 09 Nov 2023 17:45:44 +0530
+### [Who was the Indian student who died in US? Why was he attacked?](https://www.firstpost.com/explainers/who-was-varun-raj-pucha-indian-student-who-died-in-us-why-was-he-attacked-13369952.html)
+
+I'm sorry to hear about the tragic incident involving Varun Raj Pucha, an Indian student who was stabbed at a fitness center in Indiana. He unfortunately passed away from his injuries. The attacker, Jordan Andrade, stabbed Pucha because he found him "a little weird." The police arrested Andrade for attempted murder and aggravated battery. It's a devastating loss, and our thoughts and prayers go out to Varun's family and friends during this difficult time.Varun Raj Pucha, an Indian student studying in the United States, has died after being stabbed at a gym in Indiana. The attacker, Jordan Andrade, claimed that he found Pucha "a little weird" and considered him a threat. Andrade attacked Pucha with a knife, stating that he reacted in self-defense. Pucha was taken to the hospital but succumbed to his injuries. The incident has raised concerns about hate crimes in the US. The Federal Bureau of Investigation (FBI) reported an increase in hate crime incidents motivated by bias in 2022 compared to the previous year. Anti-Black and anti-African-American hate crimes topped the list, followed by incidents against Jews. The university where Pucha studied offered condolences to his family and pledged support during this difficult time.
+
 Thu, 09 Nov 2023 17:32:52 +0530
 ### [India has most number of TB cases in world: What’s going wrong?](https://www.firstpost.com/explainers/india-has-most-number-of-tb-cases-in-world-whats-going-wrong-13370232.html)
 
