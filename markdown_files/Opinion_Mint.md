@@ -1,3 +1,18 @@
+Thu, 09 Nov 2023 12:09:45 +0530
+### [My top Diwali un-picks](https://www.livemint.com/opinion/columns/my-top-diwali-unpicks-11699509931807.html)
+
+The article advises investors on what they should avoid doing to achieve their financial goals. Firstly, the author suggests stopping the infatuation with "new" investment options like IPOs, new mutual schemes, global investing, and portfolio management services. Instead, a combination of direct stocks and mutual funds is recommended.
+
+Secondly, the author recommends being cautious with systematic investment plans (SIPs) and ensuring they fit well into one's financial plan and asset allocation. It's important to select the right fund for investment and avoid investing a large amount at the top of the market.
+
+Next, the article advises against relying too much on social media "finfluencers" who claim to have expertise in stock picking but lack proven track records. Instead, the author suggests learning from experienced investors like Warren Buffett.
+
+The fourth point highlights the risks of trading and the high percentage of people who lose money in this activity. The author urges readers to stop trading unless they are among the minority who consistently profit.
+
+Lastly, the article advises against aiming for the highest possible returns and instead suggests optimizing return expectations based on personal needs and parameters. It emphasizes the importance of understanding one's personality, goals, and financial situation when making investment decisions.
+
+Overall, the article encourages investors to be mindful of their investment choices and seek professional advice before making decisions.
+
 Thu, 09 Nov 2023 09:00:19 +0530
 ### [Generative AI: Wolf in sheep’s clothing?](https://www.livemint.com/opinion/first-person/generative-ai-wolf-in-sheep-s-clothing-11699440279130.html)
 

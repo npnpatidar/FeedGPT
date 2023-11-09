@@ -26,7 +26,7 @@ The article reflects on Bishan Singh Bedi, a former Indian cricketer who was kno
 Sun, 22 Oct 2023 08:26:19 +0530
 ### [Political Line | Digital mohalla sabhas, and international relations](https://www.thehindu.com/news/national/digital-mohalla-sabhas-and-international-relations/article67448508.ece)
 
-Couldn't summarize
+Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses the democratization of diplomacy and the increasing influence of public opinion on strategic decision-making in India and other democracies. It highlights the rise of populism and its impact on governance, emphasizing the contradictory calls for centralization and decentralization in governance prescriptions. In India, populism aligns with the deep state, military, and security apparatus, advocating for India to become a superpower and endorsing military spending and aggression. On the other hand, Western populism primarily opposes the national security apparatus and criticizes unending wars conducted by elite strategists. The article also mentions the challenges faced by strategists in dealing with assertive public opinion on international relations. It references Prime Minister Narendra Modi's attempts to balance India's positions in conflicts, despite pressure from his supporters who demand unwavering support for Israel. The article concludes by discussing the questioning of traditional approaches to conflicts by the public and the power of people's movements in shaping political outcomes.
 
 Wed, 18 Oct 2023 00:30:00 +0530
 ### [ICC World Cup | It takes more than just teams to make a match; fans are important too](https://www.thehindu.com/opinion/columns/it-takes-more-than-just-teams-to-make-a-match-fans-are-important-too/article67431187.ece)

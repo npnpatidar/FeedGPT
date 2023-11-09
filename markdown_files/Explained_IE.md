@@ -1,3 +1,8 @@
+Thu, 09 Nov 2023 07:53:57 +0000
+### [Why Kerala’s contributory pension scheme was under review, and what a govt committee has said on retaining it](https://indianexpress.com/article/explained/kerala-govt-committee-nps-pension-scheme-report-9019907/)
+
+A report from a committee appointed by the Kerala government to review the state's contributory pension scheme has been made public following a Supreme Court ruling. The committee was formed in 2018 to examine the legal and financial implications of revoking the scheme, which was implemented in Kerala in 2013. The report, submitted in April 2021 but only recently disclosed, suggests increasing the state government's contribution to the scheme from 10% to 14%. It also recommends allowing death-cum-retirement gratuity for employees enrolled in the contributory pension scheme. The report highlights that continuing the scheme would reduce pension expenditure as a percentage of total revenue receipts by 2040. However, if the government decides to revoke the scheme, pension expenditure will remain above 20% of total revenue receipts until at least 2060. The article mentions concerns about low annuities received by those retired under the scheme and the potential risks associated with investment in assets. Some states in India have reintroduced a statutory pension scheme in response to demands from government employees to return to the old system.
+
 Thu, 09 Nov 2023 01:37:05 +0000
 ### [1 year of Project Cheetah: Hits, misses and paradigm shift ahead](https://indianexpress.com/article/explained/one-year-of-project-cheetah-9019478/)
 
