@@ -9,6 +9,7 @@ from xml.dom.minidom import parseString
 from datetime import datetime
 
 
+
 def fetch_and_write_feed_to_markdown(feed):
 
     with open('config.json', 'r') as config_file:
@@ -392,6 +393,65 @@ def update_summaries_in_items_where_ai_summary_is_false(feed):
     return feed
 
 
+def update_media_url_in_feed(feed):
+
+ 
+    feed_url = feed['url']
+    feed_file = feed['feed_filename']
+
+
+    with open(feed_file, "r") as xml_file:
+        xml_data = xml_file.read()
+
+    data_dict = xmltodict.parse(xml_data)
+
+    json_data = json.dumps(data_dict)
+    json_feed = json.loads(json_data)
+
+    try:
+        print(f"fetching {feed_url}")
+        feed_response = feedparser.parse(feed_url)
+
+        if feed_response['status'] != 200 and feed_response['status'] != 301:
+            print(f"Check url : {feed_url}")
+            return
+        if 'entries' not in feed_response or len(feed_response['entries']) == 0:
+            print(f"No entries found")
+            return
+        else:
+            number_of_entries = len(feed_response['entries'])
+            print(f"Found {number_of_entries} entries ")
+
+    except Exception as e:
+        print(f"Error fetching {feed_url}: {str(e)}")
+
+    for entry in feed_response.entries: 
+        link = entry.link
+        media_url =None
+    
+        if hasattr(entry, "media_thumbnail") and entry.media_thumbnail:
+            media_url = entry.media_thumbnail[0]['url']   
+        elif hasattr(entry, "media_content") and entry.media_content:
+            media_url = entry.media_content[0]['url']
+        try:
+            items = json_feed['rss']['channel']['item']
+        except:
+            continue
+    
+        for i, item in enumerate(items):
+            if item['link'] == link and media_url is not None:
+                item["media:thumbnail"] = {"@url": media_url}
+                item["media:content"] = {"@url": media_url, "@medium": "image"}
+                break
+
+    # data_dict = json.loads(json_feed)
+
+
+    xml_data = xmltodict.unparse(json_feed, pretty=True)
+
+    with open(feed_file, "w") as xml_file:
+        xml_file.write(xml_data)
+
 
 
 def main():
@@ -402,9 +462,11 @@ def main():
 
     for feed in feeds:
         fetch_and_write_feed_to_markdown(feed)
-    for feed in feeds:
+        
+    for feed in feeds:   
         update_summaries_in_items_where_ai_summary_is_false(feed)
         sorting_and_writing_markdown_files(feed)
+        update_media_url_in_feed(feed)
 
 
 if __name__ == "__main__":

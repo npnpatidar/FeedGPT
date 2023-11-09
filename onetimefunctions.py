@@ -2,7 +2,14 @@ import re
 import os
 import xmltodict
 import json
-import os
+import feedparser
+import requests
+import g4f
+from bs4 import BeautifulSoup
+import json
+import xml.etree.ElementTree as ET
+from xml.dom.minidom import parseString
+from datetime import datetime
 
 def replace_and_delete(file_path):
     with open(file_path, 'r+') as file:
@@ -24,59 +31,6 @@ def replace_and_delete_in_feeds():
             file_path = os.path.join(folder_path, filename)
             replace_and_delete(file_path)
 
-def update_media_url_in_all_feeds(feed):
-
-    default_media_url = ''
-    feed_url = feed['url']
-    feed_file = feed['feed_filename']
-    try:
-        print(f"fetching {feed_url}")
-        feed_response = feedparser.parse(feed_url)
-
-        if feed_response['status'] != 200 and feed_response['status'] != 301:
-            print(f"Check url : {feed_url}")
-            return
-        if 'entries' not in feed_response or len(feed_response['entries']) == 0:
-            print(f"No entries found")
-            return
-        else:
-            number_of_entries = len(feed_response['entries'])
-            print(f"Found {number_of_entries} entries ")
-
-    except Exception as e:
-        print(f"Error fetching {feed_url}: {str(e)}")
-
-    tree = ET.parse(feed_file)
-    root = tree.getroot()
-    items = root.findall(".//item")
-
-    for entry in feed_response.entries:
-      
-        link = entry.link
-       
-        if hasattr(entry, "media_thumbnail") and entry.media_thumbnail:
-            media_url = entry.media_thumbnail[0]['url']
-        elif hasattr(entry, "media_content") and entry.media_content:
-            media_url = entry.media_content[0]['url']
-
-        for item in items:
-            item_link = item.find("link").text
-            if item_link == link:
-
-                media_thumbnail_element = item.find(
-                    ".//media:thumbnail", namespaces={'media': 'http://search.yahoo.com/mrss/'})
-             
-                media_thumbnail_element.set("url", media_url)
-
-                media_content_element = item.find(
-                    ".//media:content", namespaces={'media': 'http://search.yahoo.com/mrss/'})
-                media_content_element.set("url", media_url)
-                media_content_element.set("medium", "image")
-
-        # Save the updated XML
-        tree.write(feed_file, encoding="utf-8")
-
-    print("XML item updated or added successfully.")
 
 def convert_xml_to_json(xml_file_path):
 
@@ -129,9 +83,42 @@ def convert_json_to_xml(json_file_path):
 
 
 
+def add_urls_to_item(json_data, link, thumbnail_url, content_url):
+    for item in json_data['rss']['channel']['item']:
+        if item['link'] == link:
+            item["media:thumbnail"] = {"@url": thumbnail_url}
+            item["media:content"] = {"@url": content_url, "@medium": "image"}
+            break
+    return json.dumps(json_data, indent=2)
 
-convert_xml_to_json("feeds/alt.xml")
-# convert_json_to_xml("feeds/Explained_IE_1.json")
+
+# convert_xml_to_json("feeds/Column_TH.xml")
+# convert_json_to_xml("feeds/Column_TH_1.json")
+
+
+def convert_json_data_to_xml(json_file_path):
+    # Check if the JSON file exists
+    if not os.path.isfile(json_file_path):
+        raise FileNotFoundError(f"JSON file not found: {json_file_path}")
+
+    # Read the JSON file
+    with open(json_file_path, "r") as json_file:
+        json_data = json_file.read()
+
+    # Convert JSON to dictionary
+    data_dict = json.loads(json_data)
+
+    # Convert dictionary to XML
+    xml_data = xmltodict.unparse(data_dict, pretty=True)
+
+    # Create the XML file path
+    xml_file_path = os.path.splitext(json_file_path)[0] + ".xml"
+
+    # Write the XML data to the file
+    with open(xml_file_path, "w") as xml_file:
+        xml_file.write(xml_data)
+
+    print(f"XML file created: {xml_file_path}")
 
 
 
