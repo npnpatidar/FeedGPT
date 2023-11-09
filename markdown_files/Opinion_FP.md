@@ -1,3 +1,13 @@
+Thu, 09 Nov 2023 10:10:20 +0530
+### [Why Hamas might get away with its murderous attack](https://www.firstpost.com/opinion/why-hamas-might-get-away-with-its-murderous-attack-13367392.html)
+
+This article discusses the ongoing Israel-Hamas war and the one-sided focus on the number of Palestinian children and women killed. It highlights the biased actions of the United Nations Secretary General and the World Health Organization head in their response to the war. The article questions why Hamas is not being held up to the same scrutiny as Israel and suggests that the international media may be avoiding criticism of Hamas to avoid accusations of Islamophobia. It also raises concerns about Israel bowing to international pressure and the potential repercussions of this. The author emphasizes that the views expressed are personal and do not necessarily reflect Firstpost's views. The article concludes by mentioning the high death toll in the Gaza Strip and the strain on the health system.
+
+Thu, 09 Nov 2023 09:50:53 +0530
+### [Vantage | Should companies take sides in war? Lessons from Israel and Ukraine](https://www.firstpost.com/opinion/vantage-should-companies-take-sides-in-war-lessons-from-israel-and-ukraine-13367362.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses the trend of companies facing boycotts and consequences due to political conflicts. Recently, Turkey's parliament announced a boycott against certain brands, including Coca-Cola and Nestle, accusing them of supporting Israel. This trend is not limited to Turkey, as Malaysia and Pakistan have also seen boycotts against brands like McDonald's, Burger King, and Coca-Cola. During times of conflict, companies face an ethical dilemma of whether to pick sides or remain neutral. Some companies attempt to play both sides, while others take a clear stance. The article emphasizes the importance of consistency and addressing injustice everywhere to maintain credibility. Companies face pressure from various quarters, including governments, the public, and employees. Navigating global conflicts poses challenges for corporations, regardless of the choice they make.
+
 Thu, 09 Nov 2023 09:22:13 +0530
 ### [Ukraine is slowly being left to its fate because the Israel-Hamas war is offering a more gruesome, gripping story](https://www.firstpost.com/opinion/ukraine-is-slowly-being-left-to-its-fate-because-the-israel-hamas-war-is-offering-a-more-gruesome-gripping-story-13366852.html)
 
@@ -6,7 +16,7 @@ Couldn't summarize
 Thu, 09 Nov 2023 08:19:35 +0530
 ### [Vantage | Are American voters and Democrats giving up on Biden?](https://www.firstpost.com/opinion/vantage-are-american-voters-and-democrats-giving-up-on-biden-13366682.html)
 
-Couldn't summarize
+Recent opinion polls suggest that President Joe Biden's re-election prospects are in jeopardy, with former President Donald Trump leading in most battleground states. The polls reveal a significant shift in American politics, as Trump emerges as the more popular choice in five of the six battleground states surveyed. Some voters are calling for Biden to reconsider his candidacy for the 2024 election, advocating for new leadership. One of the factors impacting Biden's popularity is the state of the American economy, with citizens feeling financially squeezed. Additionally, Biden's foreign policy decisions have divided the American electorate, particularly regarding conflicts in Ukraine and Gaza. Young demonstrators express their frustration, emphasizing the importance of freedom of speech and urging Biden to listen to diverse opinions. While Biden's team remains firm in their resolve for him to run, discontent among voters poses a significant dilemma, as his approval ratings stand at a mere 37%. On the opposing side, former President Donald Trump remains favored within the Republican Party despite facing legal challenges. The upcoming election presents a disheartening scenario of two elderly Caucasian men vying for the presidency, with economic woes, policy decisions, and calls for fresh leadership contributing to uncertainty. This high-stakes election will significantly shape America's future.
 
 Wed, 08 Nov 2023 19:43:26 +0530
 ### [Vantage | What do Israel's 'pause' and post-war plans for Gaza mean?](https://www.firstpost.com/opinion/vantage-what-do-israels-pause-and-post-war-plans-for-gaza-mean-13366152.html)

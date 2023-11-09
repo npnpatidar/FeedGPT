@@ -16,7 +16,7 @@ This article discusses the benefits of early defeat in a World Cup tournament. I
 Thu, 26 Oct 2023 18:29:51 +0530
 ### [Column | An accidental cruelty](https://www.thehindu.com/life-and-style/column-saba-mahjoor-an-accidental-cruelty-miscarriage/article67441949.ece)
 
-Couldn't summarize
+The article tells the story of a woman named Masarat who suffered repeated miscarriages and faced social stigma in her village. The author, reflecting on her own experience of miscarriage, recalls how Masarat's ordeal affected her. One day, Masarat had a miscarriage and refused to go to the hospital. Instead, she was brought to Phuphee's house, where Phuphee took care of her. When Masarat's mother believed her daughter had died, Phuphee explained that she wanted her to understand the pain of loss. Despite questioning her actions, Phuphee believed it was easier to bear the mother's grief than to face Masarat's death. The article highlights the complexities of healing others and the personal sacrifices involved.
 
 Wed, 25 Oct 2023 00:45:30 +0530
 ### [Memories of Bishan Bedi — a man of integrity, wisdom and wit](https://www.thehindu.com/opinion/columns/memories-of-bishan-bedi-a-man-of-integrity-wisdom-and-wit/article67455418.ece)
