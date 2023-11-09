@@ -26,7 +26,19 @@ Hmm, I am not sure. Email support@chatbase.co for more info.A whistleblower test
 Thu, 09 Nov 2023 15:56:45 +0530
 ### [The Old Pension Scheme is fiscally risky but there's a case for it too](https://www.livemint.com/opinion/online-views/the-old-pension-scheme-is-fiscally-risky-but-theres-a-case-for-it-too-11699524898693.html)
 
-Couldn't summarize
+The Old Pension Scheme (OPS) is seen as detrimental to public finances because it involves paying retired personnel a pension from government revenue for their entire lives. The OPS guarantees a pension amounting to 50% of the last pay drawn. In contrast, the New Pension Scheme (NPS), which is currently in place, requires employees to contribute from their salary, with the government matching the contribution. The NPS provides payouts from a pension fund upon retirement but does not burden the government with liability. Some states are considering returning to the OPS, despite criticism of its populist nature.
+
+The ability of budgets to support pension expenditure is a crucial concern. As per Reserve Bank of India data, pensions account for around 40% of the salary bill in all states. This burden will continue to increase due to more retirees and periodic adjustments for inflation. This rising payout burden may lead to less funding for capital expenditure and other development efforts.
+
+However, from a Rawlsian perspective of justice in public finance, reviving the OPS can be seen as fair since switching to the NPS discriminates between old and new government employees. It is argued that employees doing the same work in the same organization should not be treated differently based on an arbitrary cut-off date.
+
+Private sector compensation packages follow a cost-to-company (CTC) approach, where benefits are incorporated into the pay package. Implementing a similar CTC policy in the government sector would inflate the salary bill and draw criticism. The concept of deferred payments through pensions was aimed at offering old-age social security while controlling immediate government expenses.
+
+The broader issue lies in the role of the state in the economy, with a shift towards making government revenue work better. Traditionally focused on redistribution and providing public services, governments now face pressure to align spending with private interests. Salaries and pensions are considered "committed expenditure," and there is a need to balance compensations and rationalize structures.
+
+One proposed solution is to raise the salaries of those under the NPS to achieve parity and rework perquisites within government departments. Pensions have a positive multiplier effect on the economy as retirees tend to spend their pensions, contributing to demand across all age groups. The author suggests that India's Pay Commission should consider these proposals and make recommendations accordingly.
+
+Please note that these are the personal views of the author.
 
 Thu, 09 Nov 2023 12:09:45 +0530
 ### [My top Diwali un-picks](https://www.livemint.com/opinion/columns/my-top-diwali-unpicks-11699509931807.html)

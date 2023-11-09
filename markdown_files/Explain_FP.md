@@ -1,3 +1,18 @@
+Thu, 09 Nov 2023 20:44:07 +0530
+### [Can smartwatch save lives by detecting heart attacks?](https://www.firstpost.com/explainers/can-smartwatch-save-lives-by-detecting-heart-attacks-13370832.html)
+
+A 42-year-old man in the UK, Paul Wapham, used his smartwatch to call his wife when he experienced chest pain during a run. His wife rushed him to the hospital where he was diagnosed with a heart attack caused by a blocked artery. This incident highlights how smartphones and smartwatches can play a role in saving lives and improving users' health by monitoring heart rate and detecting irregularities. Other incidents include a woman in the US whose Apple Watch warned her about an increased heart rate, leading to the diagnosis of a severe condition, and a Reddit user whose mother's Apple Watch automatically called emergency services after she collapsed from a ruptured aorta. Smartwatches from companies like Apple, Samsung, Withings, Fitbit, and AliveCor are equipped with features to record heart rate, physical activity, and even perform electrocardiograms (ECG). While they are not as accurate as hospital ECG machines, they can detect fluctuations in heartbeat and prompt users to seek medical care. Studies have shown that ECG monitors on smartwatches are 93% - 95% accurate at identifying different types of heart attacks. However, experts caution that more research is needed before fully relying on smartwatches for early detection of heart attacks. There are concerns that people may be unnecessarily worried about minor heart arrhythmias and seek unnecessary testing and treatment. Smartwatches should be seen as supplementary devices and not replacements for medical tests conducted in healthcare settings.
+
+Thu, 09 Nov 2023 20:28:48 +0530
+### [In Bihar, reservation now at 75%. What about Supreme Court's 50% cap?](https://www.firstpost.com/explainers/in-bihar-reservation-now-at-75-what-about-supreme-courts-50-cap-13370892.html)
+
+Couldn't summarize
+
+Thu, 09 Nov 2023 19:42:06 +0530
+### [Shrinking waists, not pockets: Dangerous growth of weight-loss drug market](https://www.firstpost.com/explainers/ozempic-wegovy-zepbound-weight-loss-drugs-dangerous-growth-obesity-world-problem-13369852.html)
+
+The article discusses the approval of a new weight-loss drug called Zepbound by the FDA. The drug is developed by Eli Lilly and contains the same active ingredient as their diabetes treatment, Mounjaro. Zepbound works by activating hormones in the body that slow down stomach emptying, making people feel full for longer and suppressing appetite. However, it carries risks such as gastrointestinal issues. Zepbound will join other weight-loss drugs in the market, including Ozempic and Wegovy, which have seen high demand and sales. The obesity drug market is expected to grow significantly, with predictions of it becoming a $100 billion industry by 2030. The rise of these drugs may also impact the food and pharmaceutical industries, as consumers make more nutritious choices and opt for weight-loss drugs instead of certain medications.
+
 Thu, 09 Nov 2023 17:45:44 +0530
 ### [Who was the Indian student who died in US? Why was he attacked?](https://www.firstpost.com/explainers/who-was-varun-raj-pucha-indian-student-who-died-in-us-why-was-he-attacked-13369952.html)
 

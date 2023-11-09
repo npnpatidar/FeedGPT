@@ -1,3 +1,16 @@
+Thu, 09 Nov 2023 13:52:51 +0000
+### [Rashmika Mandanna deepfake: Are we protecting vulnerable users online?](https://indianexpress.com/article/opinion/columns/rashmika-mandanna-deepfake-are-we-protecting-vulnerable-users-online-9020607/)
+
+The article discusses the growing issue of deepfake videos and their impact on women, particularly in India. It highlights a recent incident where a deepfake video of actor Rashmika Mandanna went viral on social media. The article explains that the dissemination of deepfakes has contributed to the sexualization and objectification of women online, and the technology's sophistication makes detection difficult.
+
+In India, societal norms and gender roles already impose shame and stigma on women, making their access to public spaces conditional. The online sphere further complicates this, as many users are unaware of the extent to which they consent to the use of their content through terms of use agreements. Women's loss of liberty in cyberspace exacerbates their offline social subordination, amplifying discrimination.
+
+The article argues that women posting content on social media should not be considered to have automatically consented to any subsequent uses of their depictions just because their accounts are not set to private. While social media content creation can be a form of self-expression and monetization, allowing attention-grabbing deepfakes for profit perpetuates harmful stereotypes and restricts women's access to technology and free speech.
+
+Research indicates that a significant number of women in India face harassment or abuse online, revealing a gendered digital divide in the country. The prevailing legal position focuses on negative freedoms rather than positive ones, such as the right to (equal) public participation. Deepfakes violate users' right to privacy and require frameworks that consider the disproportionate burdens faced by women and minorities in accessing the benefits of publicity.
+
+The article concludes by emphasizing the vulnerability of individuals in the face of deepfakes, with celebrities having more resources to counter reputation loss compared to those with limited means. Any legal framework addressing deepfakes must recognize the additional vulnerability of marginalized groups and avoid presuming the renunciation of rights when individuals commodify aspects of their identities online.
+
 Thu, 09 Nov 2023 11:58:38 +0000
 ### [Best case scenario for BJP in state polls — it will only win Rajasthan](https://indianexpress.com/article/opinion/columns/bjp-state-polls-rajasthan-9020428/)
 
