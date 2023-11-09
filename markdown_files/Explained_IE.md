@@ -1,3 +1,16 @@
+Wed, 08 Nov 2023 23:53:42 +0000
+### [Possible answer to farm fires: New rice variety can replace Pusa-44](https://indianexpress.com/article/explained/possible-answer-to-farm-fires-new-rice-variety-can-replace-pusa-44-9019491/)
+
+The Supreme Court has ordered the governments of Punjab, Haryana, Uttar Pradesh, and Rajasthan to immediately stop the burning of crop stubble in order to reduce pollution. The court specifically mentioned a paddy variety grown mostly in Punjab as a major cause of stubble burning. Although the article doesn't name the variety, it is likely referring to Pusa-44, which is a long-duration variety that takes 155-160 days to mature. Due to the limited time for field preparation before sowing the next wheat crop, farmers resort to burning the remaining stubble after harvesting.
+
+Pusa-44 is attractive to farmers because it is a high-yielding variety, producing 35-36 quintals per acre. However, the Indian Agricultural Research Institute (IARI) has developed an improved version called Pusa-2090 that matures in just 120-125 days while maintaining high yields. Pusa-2090 is a cross between Pusa-44 and CB-501, an early-maturing Japonica rice line obtained from the International Rice Research Institute. The new variety combines the benefits of higher yields and shorter maturation period.
+
+Pusa-2090 has been tested in various trials and farmer fields in the Delhi-NCR region, and it has been officially approved for cultivation in Delhi and Odisha. Farmers in Punjab and Haryana are also advocating for its release, as it can provide the same yields as Pusa-44 but with a shorter duration. One farmer in Punjab has already test-planted Pusa-2090 and reported good yield results.
+
+In the current season, Punjab farmers have planted over 5 lakh hectares with Pusa-44, accounting for more than 17% of the state's total paddy area. The problem of stubble burning is less prevalent in basmati varieties, which produce softer straw and have been grown in a smaller area this year. The only variety cultivated in a larger area than Pusa-44 is PR-126, bred by the Punjab Agricultural University. However, it has lower yields compared to Pusa-44.
+
+Overall, the development of the Pusa-2090 variety provides a potential solution to stubble burning and its associated pollution problems.
+
 Wed, 08 Nov 2023 15:45:35 +0000
 ### [What’s Gaza’s Ministry of Health — and how does it calculate the death toll?](https://indianexpress.com/article/explained/explained-global/gaza-ministry-of-health-9019316/)
 

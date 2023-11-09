@@ -1,3 +1,8 @@
+Wed, 08 Nov 2023 21:21:53 +0530
+### [FirstUp: Ethics panel’s report on Mahua Moitra and more… The big stories today](https://www.firstpost.com/explainers/firstup-ethics-panels-report-on-mahua-moitra-and-more-the-big-stories-today-13366242.html)
+
+The Lok Sabha Ethics Committee is expected to adopt a draft report on the cash-for-query charges against TMC MP Mahua Moitra. Meanwhile, Delhi schools have been shut down due to severe air pollution in the city. The Supreme Court will hear former Andhra Pradesh chief minister N Chandrababu Naidu's plea in an alleged FiberNet scam case. The insolvency appellate tribunal NCLAT will hear the appeal of lenders against the transfer of ownership of Jet Airways to the Jalan Kalrock Consortium. Some parts of Himachal Pradesh and Uttarakhand are likely to receive rain, while New Zealand will face off against Sri Lanka in the Cricket World Cup 2023.
+
 Wed, 08 Nov 2023 20:48:13 +0530
 ### [Are Ukraine, Moldova a step closer to becoming European Union members?](https://www.firstpost.com/explainers/are-ukraine-moldova-a-step-closer-to-becoming-european-union-members-13366292.html)
 
@@ -103,7 +108,7 @@ Couldn't summarize
 Tue, 07 Nov 2023 20:39:20 +0530
 ### [Small joys: Why you need you find your glimmer](https://www.firstpost.com/explainers/glimmers-calm-joy-triggers-mental-health-trauma-13361402.html)
 
-Couldn't summarize
+The concept of "glimmers" is gaining popularity on social media, particularly TikTok. Coined by Deb Dana in her book "The Polyvagal Theory in Therapy," glimmers refer to small moments that bring feelings of connection, calmness, and joy. They serve as the opposite of triggers, which can send our bodies into fight, flight, or freeze mode. Glimmers have a soothing effect on our nervous system, promoting a sense of safety and relaxation. Recognizing and seeking out glimmers regularly can be beneficial, especially for those who have experienced trauma, as it helps in managing triggers. There are two types of glimmers: self-regulating (activities like reading or walking in nature) and co-regulating (interactions with others like laughing with friends or talking to a therapist). Glimmers offer a sense of safety and connectedness, allowing us to cope during challenging times. Sharing glimmers with someone else can deepen acceptance and connection. It is important not to shy away from acknowledging and embracing feel-good emotions, as they contribute to overall well-being. Exploring and cultivating glimmers is worth a try for everyone.
 
 Tue, 07 Nov 2023 19:42:23 +0530
 ### [Weed is NOT the remedy: Why marijuana is bad for your heart health](https://www.firstpost.com/explainers/weed-is-not-the-remedy-why-marijuana-is-bad-for-your-heart-health-13359782.html)
@@ -113,7 +118,7 @@ Two recent studies have found a link between regular marijuana use and an increa
 Tue, 07 Nov 2023 19:00:29 +0530
 ### [First Rashmika, now Katrina deepfake: How big is the problem in India and beyond](https://www.firstpost.com/explainers/rashmika-mandanna-katrina-kaif-deepfakes-how-big-is-the-problem-in-india-world-13360732.html)
 
-Couldn't summarize
+A deepfake video of Indian actor Rashmika Mandanna wearing a low-cut top in a lift has caused concern in India. The manipulated video, created using Artificial Intelligence (AI), has led to calls for legal action against those responsible. This incident highlights the growing problem of deepfakes, particularly their use to harm women. Deepfakes use AI to create or alter media in a way that makes it difficult to determine authenticity. While deepfakes can have positive applications, such as realistic visual effects in movies, they are predominantly used for non-consensual pornographic content. Reports indicate that 98% of all online deepfake videos target women, and there has been a significant increase in their numbers. Deepfake technology poses risks beyond pornography, including crimes, scams, and influencing key events like elections. A company called DeepMedia predicts that 500,000 video and audio deepfakes will be shared on social media this year. India is ranked as the sixth most vulnerable country to deepfake pornography. Although India currently lacks specific laws addressing deepfakes, there are legal provisions that can address the issue. The government has issued an advisory to social media platforms, citing the Information Technology Act, 2000. The United States is ranked as the second most susceptible nation to deepfake adult content, with concerns rising ahead of the presidential elections. Other countries, such as China, Japan, the UK, and South Korea, have taken steps to regulate or criminalize deepfakes. Tech companies like Meta, Google, and Microsoft are also developing tools to detect AI-generated content.
 
 Tue, 07 Nov 2023 18:56:20 +0530
 ### [FirstUp: Blinken in Seoul and more… What’s going to make news today?](https://www.firstpost.com/explainers/firstup-blinken-in-seoul-and-more-whats-going-to-make-news-today-13361052.html)

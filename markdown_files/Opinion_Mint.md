@@ -1,7 +1,7 @@
 Wed, 08 Nov 2023 20:56:54 +0530
 ### [India's growth seems secure despite global headwinds and uncertainties](https://www.livemint.com/opinion/online-views/indias-growth-seems-secure-despite-global-headwinds-and-uncertainties-11699449175482.html)
 
-Couldn't summarize
+India is experiencing relatively rapid economic growth despite global economic turmoil. However, the country faces challenges such as uneven post-pandemic consumption growth, with strong demand in urban areas but muted demand in rural areas. Poor monsoon rainfall has further hindered rural consumption recovery, leading to lower foodgrain production and high inflation in basic food items. Another concern is the lack of private investment, as government-led investment has been the main driver of economic growth. The subsidy burden on the government has increased, potentially impacting its capex plan and fiscal deficit target. While capacity utilization is rising and corporate balance sheets are strong, private sector capex remains low, with a decline in investment projects announced. Uncertainties on the global front, including geopolitical tensions and potential crude oil price spikes, add to India's domestic woes. Weak global demand has affected India's merchandise exports, although services sector exports remain robust. High-frequency macro indicators in India show improvement, but risks and uncertainties persist. Despite these challenges, India is expected to achieve above 6% GDP growth this fiscal year.
 
 Wed, 08 Nov 2023 17:38:03 +0530
 ### [A thin line separates economic nationalism from a closed economy but it can work](https://www.livemint.com/opinion/online-views/a-thin-line-separates-economic-nationalism-from-a-closed-economy-but-it-can-work-11699444784146.html)

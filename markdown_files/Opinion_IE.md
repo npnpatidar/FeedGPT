@@ -1,3 +1,8 @@
+Wed, 08 Nov 2023 22:30:41 +0000
+### [November 9, 1983, Forty Years Ago: Indo-Pak Relations](https://indianexpress.com/article/opinion/40-years-ago/november-9-1983-forty-years-ago-indo-pak-relations-9019464/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.India and Pakistan's relations have worsened, making it unlikely for any dialogue on a peace treaty to resume. The Indian government expressed its dissatisfaction with Pakistan's recent attitude by summoning their ambassador. The Punjab government plans to establish "hit squads" to combat extremists and criminals. Yasser Arafat offered to disarm if Syrian-backed guerilla mutineers stopped their attack on him in Lebanon. US marines reduced their presence in Beirut after increased hostilities. Congress (I) is unlikely to gain a two-thirds majority in the upcoming Rajya Sabha elections.
+
 Wed, 08 Nov 2023 11:36:30 +0000
 ### [WeWork’s collapse: A story of unchecked ambition and shambolic corporate governance](https://indianexpress.com/article/opinion/columns/weworks-collapse-a-story-of-unchecked-ambition-and-shambolic-corporate-governance-9018960/)
 
