@@ -303,7 +303,16 @@ This article discusses the role of selectors in cricket and the importance of te
 Sat, 18 Feb 2023 20:34:52 +0530
 ### [Political Line |  Modi will weather the storm](https://www.thehindu.com/opinion/columns/big-picture-modi-will-weather-the-storm/article66526024.ece)
 
-Couldn't summarize
+The article discusses various aspects related to Prime Minister Narendra Modi and his political future. It mentions that Modi has faced serious allegations in the past, such as the Rafale defense deal, surveillance using the Israeli Pegasus spyware, and demonetization, but these did not significantly impact his popularity or his grip over the BJP and the government. However, recent allegations against his close friend and industrialist Gautam Adani, as well as a BBC documentary series on the Gujarat riots of 2002, have emboldened his critics both in India and abroad. The article also highlights the views of global finance emperor George Soros, who hopes that India will see an uprising against Modi as a consequence of the Hindenburg report. However, the article suggests that such criticism and allegations actually reinforce Modi's support base domestically, as his followers perceive it as anti-India sentiment. The article also discusses the challenges faced by Nehruvian liberals in communicating with Modi's supporters and the alignment of global capitalists and strategists with Modi despite their disappointments. Overall, the article suggests that Modi's political future remains strong despite the allegations and criticism he faces.
+
+#### Key Points:
+- Prime Minister Narendra Modi has faced serious allegations in the past, but they did not significantly impact his popularity or his grip over the BJP and the government.
+- Recent allegations against his close friend Gautam Adani and a BBC documentary series on the Gujarat riots have emboldened his critics.
+- Global finance emperor George Soros hopes that India will see an uprising against Modi as a consequence of the Hindenburg report.
+- However, such criticism and allegations actually reinforce Modi's support base domestically, as his followers perceive it as anti-India sentiment.
+- Global capitalists and strategists continue to align with Modi despite their disappointments.
+
+**Note:** The summary is based on the information provided in the article.
 
 Fri, 17 Feb 2023 16:06:00 +0530
 ### [Column | On grief and the secret lives of our roots](https://www.thehindu.com/opinion/columns/grief-the-secret-lives-of-our-roots-saba-mahjoor-column-death/article66507572.ece)

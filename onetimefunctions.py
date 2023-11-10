@@ -17,7 +17,7 @@ def replace_and_delete(file_path):
         content = re.sub(r'<rss.*?>', '<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">', content, flags=re.DOTALL)
         content = re.sub(r'<ns0.*?/>', '', content, flags=re.DOTALL)
         content = re.sub(r'<ns1.*?/>', '', content, flags=re.DOTALL)
-        content = re.sub(r'</ai_summary>', r'</ai_summary><media:thumbnail></media:thumbnail><media:content></media:content>', content, flags=re.DOTALL)
+        content = re.sub(r"</ai_summary>(.*?)</item>", r'</ai_summary><media:thumbnail></media:thumbnail><media:content></media:content></item>', content, flags=re.DOTALL)
         file.seek(0)
         file.write(content)
         file.truncate()
@@ -92,7 +92,7 @@ def add_urls_to_item(json_data, link, thumbnail_url, content_url):
     return json.dumps(json_data, indent=2)
 
 
-convert_xml_to_json("feeds/test.xml")
+# convert_xml_to_json("feeds/test.xml")
 # convert_json_to_xml("feeds/Column_TH_1.json")
 
 
@@ -121,5 +121,5 @@ def convert_json_data_to_xml(json_file_path):
     print(f"XML file created: {xml_file_path}")
 
 
-
+# replace_and_delete_in_feeds()
 

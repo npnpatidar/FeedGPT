@@ -1,3 +1,28 @@
+Fri, 10 Nov 2023 01:30:01 +0000
+### [A political history of Madhya Pradesh, set for another straight BJP vs Congress fight](https://indianexpress.com/article/explained/a-poltical-history-of-madhya-pradesh-set-for-another-straight-bjp-vs-congress-fight-9020839/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.#### Summary:
+
+The state of Madhya Pradesh was created in 1956 through the merger of five different regions in central India. These regions included Central Provinces and Berar, Madhya Bharat, Vindhya Pradesh, the princely state of Bhopal, and the Sironj tehsil of Rajasthan's Kota district. The States Reorganisation Commission advocated for the creation of a "compact, strong, and prosperous unit in Central India" [[1]](https://www.unodc.org/unodc/en/data-and-analysis/bulletin/bulletin_1957-01-01_3_page002.html). The first Chief Minister of Madhya Pradesh was Ravishankar Shukla, a Congress leader from Raipur. Since then, Madhya Pradesh has had several Chief Ministers from different political parties, including Kailash Nath Katju, Bhagwant Rao Mandloi, D P Mishra, and Shyama Charan Shukla.
+
+In 2000, Chhattisgarh was carved out of Madhya Pradesh as a separate state. Currently, Madhya Pradesh has a unicameral legislature with 230 seats and 29 Lok Sabha and 11 Rajya Sabha seats.
+
+#### Historical Background:
+
+Madhya Pradesh has a complex political history with various political parties vying for power. The Bharatiya Jana Sangh (BJS), the precursor of the Bharatiya Janata Party (BJP), was active in the state from the beginning. The Congress party dominated the political landscape, but the BJS gained strength over time. The Congress suffered setbacks in the 1962 Assembly polls, and the BJS won 78 seats in the Madhya Pradesh Assembly. The Congress split in 1967, leading to the formation of the first non-Congress government in Madhya Pradesh, the Samyukta Vidhayak Dal (SVD) government, led by Govind Narain Singh. However, the Congress returned to power in the state after a short period [[2]](https://www.mea.gov.in/Images/attach/amb/Volume_01.pdf).
+
+#### Chief Ministers and Political Shifts:
+
+Madhya Pradesh has seen several Chief Ministers from different political parties. Notable Chief Ministers include Ravishankar Shukla, Kailash Nath Katju, Bhagwant Rao Mandloi, D P Mishra, Arjun Singh, Motilal Vora, Digvijaya Singh, Uma Bharti, and Shivraj Singh Chouhan. The Congress party and the BJP have been the main contenders for power in the state. The BJP formed its own government in Madhya Pradesh in 1990, but it was dismissed after the Babri Masjid demolition in 1992. The Congress returned to power in 1993, but the BJP regained power in 2003 and held it until 2018. In 2018, the Congress won the state elections, but due to political developments, Shivraj Singh Chouhan returned as Chief Minister in 2020 [[2]](https://www.mea.gov.in/Images/attach/amb/Volume_01.pdf).
+
+#### Current Political Scenario:
+
+Currently, Madhya Pradesh is led by Chief Minister Shivraj Singh Chouhan, who returned to power in March 2020 after the collapse of the Congress government led by Kamal Nath. The Congress party, led by veterans Kamal Nath and Digvijaya Singh, is aiming to challenge the BJP's dominance in the upcoming 2023 Assembly elections and the 2024 Lok Sabha elections [[2]](https://www.mea.gov.in/Images/attach/amb/Volume_01.pdf).
+
+Overall, Madhya Pradesh has witnessed political shifts, party dominance, and changes in leadership over the years, reflecting the dynamic nature of Indian politics.
+
+**Note:** The information provided is a summary of the article and may not cover all the details.
+
 Thu, 09 Nov 2023 13:50:22 +0000
 ### [Expert Explains | Regulating political funding: Rules around the world, India’s challenges](https://indianexpress.com/article/explained/explained-politics/expert-explains-political-funding-india-electoral-bonds-9020575/)
 
@@ -605,12 +630,32 @@ Former head of Hamas, Khaled Mashal, virtually addressed a pro-Palestine rally i
 Sun, 29 Oct 2023 12:40:04 +0000
 ### [India bans exports of some rice varieties: How this has impacted prices globally, in the country](https://indianexpress.com/article/explained/explained-economics/india-bans-exports-of-some-rice-explained-9004685/)
 
-Couldn't summarize
+According to an article from The Indian Express, India banned the export of non-basmati white rice in July 2023 due to depleting public stock, elevated cereal prices, and the threat of an uneven monsoon. The First Advance Estimates of major Kharif crops for 2023-24, released by the Ministry of Agriculture & Farmers’ Welfare, showed a 3.7% decrease in rice production compared to the previous year [[SOURCE 1]].
+
+The ban on non-basmati white rice exports led to a sharp increase in rice prices across markets. Although prices have come down since then, they are still higher than the pre-ban period. The impact of India's export restrictions on rice supply, availability, and prices has been felt both domestically and globally [[SOURCE 1]].
+
+Despite the export ban, there has been no respite from the increase in domestic rice prices. The daily average wholesale price of rice on October 24, 2023, was 27.43% higher than a month ago. The daily average retail price of rice on the same day was 12.59% higher than a year ago [[SOURCE 1]].
+
+India is the largest exporter of rice in the world, accounting for about 40% of total rice exports in 2022. Rice exports from India are broadly categorized into basmati and non-basmati rice. While the ban applies to non-basmati white rice and broken rice, there is no ban on other sub-categories of rice [[SOURCE 1]].
+
+In the financial year 2022-23, India exported 45.61 lakh metric tonnes of basmati rice to various countries, with Iran, Saudi Arabia, Iraq, UAE, and Yemen being the top destinations. For non-basmati rice, India exported 177.91 lakh metric tonnes, with Benin, Madagascar, and Kenya being the top buyers. The ban on non-basmati white rice and broken rice exports has significantly affected the quantity of rice shipped out and the number of countries importing from India [[SOURCE 1]].
+
+The article also provides information on other categories of rice exports, such as par-boiled rice, husked (brown) rice, rice in husk of seed quality, and other rice in husk. It mentions the quantities exported and the top importing countries for each category [[SOURCE 1]].
+
+In terms of rice procurement and requirement, the total production of rice during 2022-23 is estimated to be 1357.55 lakh tonnes, which is higher than the previous year's production. The government has been procuring paddy from various states for the Kharif marketing season. The total rice stock in the Central Pool as of October 1, 2023, is 221.87 lakh metric tonnes [[SOURCE 1]].
+
+In summary, India's ban on the export of non-basmati white rice has had a significant impact on rice prices both domestically and globally. Despite the ban, domestic rice prices have continued to rise. India remains a major player in the global rice market, with significant exports of basmati and non-basmati rice.
 
 Sun, 29 Oct 2023 10:23:19 +0000
 ### [Why new tax filing data shows better compliance, upward mobility in higher-income slabs](https://indianexpress.com/article/explained/explained-economics/what-new-tax-filing-data-shows-9004515/)
 
-Couldn't summarize
+Hmm, I am not sure. Email support@chatbase.co for more info.According to the latest income tax returns statistics released by the Income Tax Department, there has been wider compliance and a shift in taxpayers towards higher-income slabs from lower-income slabs. In the assessment year 2021-22, a total of 6.75 crore taxpayers filed income tax returns, which is a rise of 5.6% from the previous year. Additionally, around 2.1 crore taxpayers paid taxes but did not file returns. The data also shows that the share of taxpayers paying nil tax has increased over the years, reaching 66% in the assessment year 2021-22. However, the proportionate contribution of gross total income of the top 1% individual taxpayers has decreased from 15.9% in the assessment year 2013-14 to 14.6% in the assessment year 2021-22.
+
+The income tax statistics also reveal that the highest rate of growth for salaried individual taxpayers was seen in the income slabs of Rs 15-20 lakh and Rs 20-25 lakh in the financial year 2020-21. On the other hand, the lower-income slabs of Rs 10-15 lakh and Rs 5-10 lakh recorded lower growth rates. It is worth noting that the financial year 2020-21 was affected by the impact of the Covid-19 pandemic.
+
+The data further shows that around 67,970 individuals in India disclosed salary income over Rs 1 crore in the assessment year 2021-22, which is an increase of 3.9% from the previous year. Out of these individuals, 16 had a salary between Rs 100-500 crore.
+
+Overall, the income tax returns statistics indicate a positive trend of migration to higher ranges of gross total income among individual taxpayers. However, concerns remain about the significant number of taxpayers who pay taxes but do not file returns
 
 Sun, 29 Oct 2023 09:40:47 +0000
 ### [An Expert Explains | 10 years of China’s Belt and Road Initiative: The project, its aims and where it stands now](https://indianexpress.com/article/explained/explained-global/expert-explains-10-years-chinas-bri-xi-jinping-status-explained-9004356/)
@@ -884,7 +929,15 @@ Hmm, I am not sure. Email support@chatbase.co for more info.Canada has announced
 Mon, 23 Oct 2023 01:53:40 +0000
 ### [ExplainSpeaking | Bidenomics: What is it? Has it worked? What is its significance?](https://indianexpress.com/article/explained/explained-economics/us-joe-biden-economics-explained-8995387/)
 
-Couldn't summarize
+Hmm, I am not sure. Email support@chatbase.co for more info.In an article by Udit Misra, it is highlighted that the year 2024 will be significant for the global economy due to elections in major economies such as India, Russia, the UK, the EU, and the US. These countries collectively contribute to more than 50% of the global GDP in 2023, with a combined GDP of over $54 trillion. The US election is particularly important, as President Joe Biden is expected to run for re-election, facing a challenge from former President Donald Trump. Bidenomics, the economic policies introduced by President Biden, is a key focus of the article [[SOURCE 1]].
+
+Bidenomics is a term used to refer to the economic policies implemented by the Biden administration. It is a reaction to the economic structure that has been in place since the Reagan presidency in 1981. Reaganomics, which aimed to stimulate economic activity through tax cuts for businesses and reduced government intervention, has been criticized for exacerbating income and wealth inequality. Bidenomics seeks to address these inequalities and promote inclusive growth by investing in infrastructure, reducing trade dependence on countries like China, and raising living standards for the middle and lower-income groups [[SOURCE 1]].
+
+The article discusses two main concerns regarding Bidenomics. First, there is a question of whether it is working effectively. While macro indicators such as GDP growth and unemployment rates show positive trends, there are concerns about income and wealth inequality. Real income growth for the middle 40% of the working population has remained negative for most of the Biden presidency, indicating that the benefits of economic growth may not be reaching everyone [[SOURCE 1]].
+
+The second concern is the ideological disagreement with Bidenomics. Critics argue that the policies implemented, such as providing subsidies to domestic companies, may distort markets and lead to a global subsidy war. This could harm poorer nations and increase inefficiency and corruption within the US. However, proponents of Bidenomics argue that it is necessary to address inequality and counter global rivals like China [[SOURCE 1]].
+
+In conclusion, Bidenomics is an economic approach aimed at reducing inequality and promoting inclusive growth. While it has shown positive macroeconomic indicators, there are concerns about income and wealth inequality and ideological disagreements with the policies implemented. The impact of Bidenomics will continue to be debated as the Biden administration moves forward with its economic agenda [[SOURCE 1]].
 
 Sun, 22 Oct 2023 15:22:26 +0000
 ### [Why Israel attacked Syria’s airports, amid its ongoing war with Hamas](https://indianexpress.com/article/explained/everyday-explainers/why-israel-attacked-syria-war-hamas-8995086/)

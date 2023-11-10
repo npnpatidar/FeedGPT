@@ -520,8 +520,7 @@ def fetch_and_write_feed_to_markdown_using_json(feed):
             summary = "Article could not be fetched"
         else:
             print(f"Summarizing")
-            # summary = summarise(article_text)
-            summary = "testing"
+            summary = summarise(article_text)
 
         if summary is None and article_text is not None:
             print("Summary could not be generated")
@@ -580,8 +579,7 @@ def update_summary_if_ai_summary_is_false(feed):
                 summary = "Article could not be fetched"
             else:
                 print(f"Summarizing")
-                # summary = summarise(article_text)
-                summary = "testing second time"
+                summary = summarise(article_text)
 
             if summary is None and article_text is not None:
                 print("Summary could not be generated from article text")
@@ -645,7 +643,7 @@ def main():
         update_summary_if_ai_summary_is_false(feed)
         sorting_xml_files_by_date_json(feed)
         write_markdown_files_json(feed)
-        update_media_url_in_feed(feed)
+        # update_media_url_in_feed(feed)
 
 
 if __name__ == "__main__":
