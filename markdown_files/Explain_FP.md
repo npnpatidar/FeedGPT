@@ -1,3 +1,23 @@
+Fri, 10 Nov 2023 17:17:47 +0530
+### [Diwali 2023: Are green crackers really ‘eco-friendly’?](https://www.firstpost.com/explainers/diwali-2023-green-crackers-eco-friendly-supreme-court-order-fireworks-air-pollution-13374482.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The Supreme Court of India has allowed the use of "green crackers" during the Diwali festival to address concerns about air pollution. Green crackers are considered eco-friendly and cause less air and noise pollution compared to traditional fireworks. They were developed by the National Environmental Engineering Research Institute (NEERI) and have smaller shells, no ash, and reduced usage of raw materials. These crackers also release water vapor, which acts as a dust suppressant. There are three types of green crackers: SWAS, SAFAL, and STAR. Experts, however, are skeptical about their environmental friendliness, as even with a 30% reduction in particulate matter levels, the pollution caused by these crackers would still be high. Some manufacturers claim that green crackers cannot function without barium, which contradicts the requirements set by NEERI. The effectiveness of the restrictions on firecrackers and the clarity on the production of green crackers remain questionable. It is advisable to celebrate Diwali with candles and diyas instead of fireworks if unsure about the green credentials of the crackers.
+
+Fri, 10 Nov 2023 16:36:56 +0530
+### [No More Add to Cart: Why China’s Singles Day is losing its sheen with shoppers](https://www.firstpost.com/explainers/no-more-add-to-cart-why-chinas-singles-day-is-losing-its-sheen-with-shoppers-13372702.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Singles' Day, the world's largest shopping festival in China, is losing its shine as consumers plan to spend less this year. The event originated in 1993 at Nanjing University and has since become a weeks-long online shopping bonanza. Last year, the total value of goods sold during Singles' Day reached $157.97 billion, surpassing American shoppers' spending during Cyber Week. However, the festival's popularity has waned due to the nation's economic challenges and complicated terms and discounts. This year, e-commerce sites are offering extremely low pricing to attract consumers. Despite the decline, industry experts expect a rebound in sales due to improving economic conditions and robust livestream sales.
+
+Fri, 10 Nov 2023 15:58:42 +0530
+### [Google to delete millions of Gmail accounts next month. Is yours safe?](https://www.firstpost.com/explainers/google-to-delete-millions-of-gmail-accounts-next-month-is-yours-safe-13373902.html)
+
+Starting next month, Google will delete millions of Gmail accounts to prevent security threats. The accounts that are at risk are those that have not been opened in two years. Google has been sending notifications to inactive accounts, and users can prevent their accounts from being deleted by logging in once every two years. Users can also save their data by downloading and exporting it through Google's Takeout feature. This action by Google is similar to Twitter, which is also removing inactive accounts. Elon Musk's company, X, is reportedly preparing to sell old and defunct Twitter handles.
+
+Fri, 10 Nov 2023 15:55:11 +0530
+### [In Graphics | From Japanese tea houses to Diwali decorations, the story behind tea lights](https://www.firstpost.com/explainers/in-graphics-from-japanese-tea-houses-to-diwali-decorations-the-story-behind-tea-lights-13363372.html)
+
+Tealights are small candles that come in metal cups and are known for creating a cozy glow. They are popular for various occasions such as romantic dinners, baths, meditation sessions, and Diwali decorations. In the late 20th century, decorative candles gained popularity and became a common sight in people's homes. Tealights have several advantages, including easy cleaning and the ability to be discarded after burning. They also come in a wide range of colors, shapes, and designs to suit different occasions. According to trend maven Faith Popcorn, they are seen as the ideal alternative to technology. This article explores the origins of tealights, how they were named, and why they became so popular.
+
 Fri, 10 Nov 2023 14:36:04 +0530
 ### [Will Rishi Sunak sack UK home secretary Suella Braverman?](https://www.firstpost.com/explainers/will-rishi-sunak-sack-uk-home-secretary-suella-braverman-13373582.html)
 

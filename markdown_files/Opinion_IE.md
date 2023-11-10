@@ -1,3 +1,8 @@
+Fri, 10 Nov 2023 11:13:11 +0000
+### [Diary of a Delhiite: Dear politicians, make my city habitable again](https://indianexpress.com/article/opinion/columns/diary-of-a-delhiite-dear-politicians-make-my-city-habitable-again-9021754/)
+
+The author reflects on their fond memories of Delhi, but also acknowledges the city's current problems with pollution. They mention the factors contributing to poor air quality, such as stubble burning, vehicular emissions, unchecked construction, and open burning of waste. The author suggests that the population and lack of urban planning are major factors in the city's pollution problem. They call on the government to take action and implement measures to curb pollution year-round, rather than just during the smoggy winter months.
+
 Fri, 10 Nov 2023 09:32:01 +0000
 ### [Nitish Kumar’s remarks are crude and juvenile. But they don’t insult women](https://indianexpress.com/article/opinion/columns/nitish-kumars-remarks-are-crude-and-juvenile-but-they-dont-insult-women-9021620/)
 
