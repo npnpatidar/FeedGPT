@@ -1,3 +1,8 @@
+Fri, 10 Nov 2023 09:32:01 +0000
+### [Nitish Kumar’s remarks are crude and juvenile. But they don’t insult women](https://indianexpress.com/article/opinion/columns/nitish-kumars-remarks-are-crude-and-juvenile-but-they-dont-insult-women-9021620/)
+
+The article discusses the controversy surrounding Nitish Kumar's remarks on birth control in the Bihar Assembly. While many have criticized his comments as disrespectful towards women, the author argues that the idea that anything related to sex insults "mothers and sisters" is rooted in patriarchy. The author believes that Nitish Kumar's remarks were about women empowerment and giving women control over their reproductive decisions. The article also highlights the difficulty of having a conversation about sex in Hindi without sounding vulgar or inappropriate. The author concludes by questioning whether remarks that challenge patriarchal notions of modesty are a bigger problem than those that attack women's bodies and rights.
+
 Fri, 10 Nov 2023 01:37:49 +0000
 ### [Best of Both Sides: To combat pollution, policymakers and public alike need to see economic benefits](https://indianexpress.com/article/opinion/columns/best-of-both-sides-to-combat-pollution-policymakers-and-public-alike-need-to-see-economic-benefits-9020806/)
 

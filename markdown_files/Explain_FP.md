@@ -1,3 +1,20 @@
+Fri, 10 Nov 2023 14:36:04 +0530
+### [Will Rishi Sunak sack UK home secretary Suella Braverman?](https://www.firstpost.com/explainers/will-rishi-sunak-sack-uk-home-secretary-suella-braverman-13373582.html)
+
+Article found but Couldn't summarize 
+Will Rishi Sunak sack UK home secretary Suella Braverman?
+
+Fri, 10 Nov 2023 14:06:21 +0530
+### [Elvish Yadav controversy: Why is snake venom such a popular recreational drug?](https://www.firstpost.com/explainers/elvish-yadav-controversy-snake-venom-uses-rave-parties-recreational-drug-noida-police-13373222.html)
+
+Article found but Couldn't summarize 
+Elvish Yadav controversy: Why is snake venom such a popular recreational drug?
+
+Fri, 10 Nov 2023 13:40:28 +0530
+### [Why Qatar has become indispensable in the Israel-Hamas war](https://www.firstpost.com/explainers/why-qatar-has-become-indispensable-in-the-israel-hamas-war-13373052.html)
+
+The United States and Israel are working with Qatar to negotiate a potential humanitarian pause in the Israel-Hamas war. The CIA director, Mossad head, and Qatar officials are discussing a three-day pause to release civilian hostages held by Hamas and allow more aid into the besieged Gaza Strip. Qatar has played a significant role in securing the release of hostages and facilitating the passage of foreigners and injured individuals out of Gaza. Qatar's position as a mediator is due to its close relationship with Hamas and its ability to communicate with the group. Qatar has also provided financial support to Palestinians in Gaza and has been involved in previous negotiations, such as the release of prisoners and hosting peace talks. Despite the challenges, Qatar aims to establish itself as a diplomatic player and promote peace in the region.
+
 Fri, 10 Nov 2023 12:58:03 +0530
 ### [Did journalists working with foreign media have prior information on Hamas attack on Israel?](https://www.firstpost.com/explainers/did-journalists-working-with-cnn-ap-reuters-nyt-have-prior-information-on-hamas-attack-on-israel-13372832.html)
 
