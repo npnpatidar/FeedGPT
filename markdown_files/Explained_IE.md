@@ -23,6 +23,11 @@ Overall, Madhya Pradesh has witnessed political shifts, party dominance, and cha
 
 **Note:** The information provided is a summary of the article and may not cover all the details.
 
+Fri, 10 Nov 2023 01:30:01 +0000
+### [A political history of Madhya Pradesh, set for another straight BJP vs Congress fight](https://indianexpress.com/article/explained/explained-politics/a-poltical-history-of-madhya-pradesh-set-for-another-straight-bjp-vs-congress-fight-9020839/)
+
+Article found but Couldn't summarize
+
 Thu, 09 Nov 2023 13:50:22 +0000
 ### [Expert Explains | Regulating political funding: Rules around the world, India’s challenges](https://indianexpress.com/article/explained/explained-politics/expert-explains-political-funding-india-electoral-bonds-9020575/)
 

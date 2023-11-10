@@ -1,0 +1,250 @@
+2023-11-10T11:00:15+05:30
+### [Gandhi Presciently Said in 1913 that 'Modern Civilisation Has Put a Price Tag on Clean Air'](https://thewire.in/history/gandhi-presciently-said-in-1913-that-modern-civilisation-has-put-a-price-tag-on-clean-air)
+
+None
+
+2023-11-10T10:30:59+05:30
+### [Appeal Lodged Against Death Sentence to Navy Veterans in Qatar, Says MEA](https://thewire.in/diplomacy/appeal-lodged-death-sentence-navy-veterans-qatar-mea)
+
+None
+
+2023-11-10T09:00:00+05:30
+### [The Anatomy of an Electronic Voting Machine: What We Know and What We Don’t](https://thewire.in/government/the-anatomy-of-an-electronic-voting-machine-what-we-know-and-what-we-dont)
+
+None
+
+2023-11-10T07:46:18+05:30
+### [As Palestinians Confront a Second Nakba, the Relationship Between Israel and Hamas is 'Complicated'](https://thewire.in/world/as-palestinians-confront-a-second-nakba-the-relationship-between-israel-and-hamas-is-complicated)
+
+None
+
+2023-11-09T23:00:28+05:30
+### [Rajasthan’s Dalit Organisations Angry, Write Open Letter to Prime Minister and BJP](https://thewire.in/politics/rajasthans-dalit-organisations-angry-write-open-letter-to-prime-minister-and-bjp)
+
+None
+
+2023-11-09T22:56:29+05:30
+### [Manipur: ITLF-MHA Second Meeting Addresses Burial Site Conflict Between Kuki and Meitei Communities](https://thewire.in/government/manipur-itlf-mha-second-meeting-addresses-burial-site-conflict-between-kuki-and-meitei-communities)
+
+None
+
+2023-11-09T22:25:31+05:30
+### [India Rejects Australian Court’s Jurisdiction in Judgment Against Former Indian Diplomat](https://thewire.in/diplomacy/india-rejects-australian-courts-jurisdiction-in-judgment-against-former-indian-diplomat)
+
+None
+
+2023-11-09T21:00:34+05:30
+### [Chhattisgarh Polls: Farmers' Votes at Centre of Politics on Paddy Prices, Loan Waivers, Development](https://thewire.in/politics/chhattisgarh-polls-farmers-votes-at-centre-of-politics-on-paddy-prices-loan-waivers-development)
+
+None
+
+2023-11-09T19:35:38+05:30
+### [Bihar Passes Bills Raising Caste-Based Quota From 50% To 65%, Taking Total Reservation to 75%](https://thewire.in/government/bihar-extends-caste-based-reservation-from-50-percent-to-65-percent)
+
+None
+
+2023-11-09T19:31:03+05:30
+### [Links of Son of Delhi Chief Secretary to Beneficiary's Family in Land Over-Valuation Case Raise Questions](https://thewire.in/government/delhi-chief-secretary-nhai-land-compensation)
+
+None
+
+2023-11-09T19:22:01+05:30
+### ['Over in Minutes': Ethics Committee Recommends Expulsion of TMC MP Mahua Moitra From Lok Sabha](https://thewire.in/politics/lok-sabha-ethics-committee-recommends-expulsion-of-tmc-mp-mahua-moitra-from-lok-sabha)
+
+None
+
+2023-11-09T18:38:09+05:30
+### [Fintechs Eye Growing Demand of Affluent Indians While Rural Demand Sees Sluggish Recovery](https://thewire.in/economy/fintechs-eye-growing-demand-of-affluent-indians-while-rural-demand-sees-sluggish-recovery)
+
+None
+
+2023-11-09T18:00:48+05:30
+### [Filmmaker Sudhanva Deshpande Accuses Times Now of Spreading ‘Misinformation’ Against Him](https://thewire.in/media/filmmaker-sudhanva-deshpande-accuses-times-now-of-spreading-misinformation-against-him)
+
+None
+
+2023-11-09T17:30:47+05:30
+### [SC Tells High Courts to Set Up Special Benches for Speedy Disposal of Cases Against MLAs, MPs](https://thewire.in/law/sc-tells-high-courts-to-set-up-special-benches-for-speedy-disposal-of-cases-against-mlas-mps)
+
+None
+
+2023-11-09T17:00:40+05:30
+### [Has the Time Come To Renegotiate the WTO's Mandate on Agriculture Sector?](https://thewire.in/agriculture/renegotiate-wto-mandate-agriculture-sector-developing-countries)
+
+None
+
+2023-11-09T16:30:25+05:30
+### [How the New Beatles Song ‘Now and Then’ Uses AI](https://thewire.in/culture/how-the-new-beatles-song-now-and-then-uses-ai)
+
+None
+
+2023-11-09T16:12:09+05:30
+### [Pushkar Singh Dhami, Nitish Kumar and the Media's Inability to Outrage When it Really Matters](https://thewire.in/communalism/pushkar-singh-dhami-nitish-kumar-media-hate-speech)
+
+None
+
+2023-11-09T15:30:23+05:30
+### [Jodhpur-RIFF: An Ideal Music Festival for Multicultural Encounters](https://thewire.in/culture/jodhpur-riff-music-festival-multicultural-encounters)
+
+None
+
+2023-11-09T14:59:40+05:30
+### [‘If We Cannot Reject Israel's Killing of Palestinians, We've Failed to Learn From Our History’](https://thewire.in/world/brown-university-jewish-students-release-open-letter-solidarity-palestine)
+
+None
+
+2023-11-09T14:18:01+05:30
+### [The Watershed Moment in German History That Created Adolf Hitler](https://thewire.in/history/the-watershed-moment-in-german-history-that-created-adolf-hitler)
+
+None
+
+2023-11-09T13:50:35+05:30
+### ['Genocide in Palestine': Left Parties March in Kolkata, Question Indian Govt's Stand](https://thewire.in/rights/genocide-in-palestine-left-parties-march-in-kolkata-question-indian-govts-stand)
+
+None
+
+2023-11-09T13:45:41+05:30
+### [The Pre-Election Swoop Is the Central Agencies’ Latest Trick Against Opposition Leaders](https://thewire.in/politics/pre-election-swoop-central-agencies-latest-trick-opposition-leaders)
+
+None
+
+2023-11-09T13:07:36+05:30
+### [Kerala Govt Moves SC Against Governor for the Second Time Over 'Delay' in Clearing Bills](https://thewire.in/government/kerala-government-moves-sc-against-governor-over-delay-in-clearing-bills)
+
+None
+
+2023-11-09T12:20:06+05:30
+### [Congress Moves Election Commission Against 'Misuse' of ED in Chhattisgarh, Rajasthan](https://thewire.in/politics/congress-moves-election-commission-against-misuse-of-ed-in-chhattisgarh-rajasthan)
+
+None
+
+2023-11-09T12:09:33+05:30
+### [India Improves in Tuberculosis Detection but Misses Major Death, Incidence Milestones](https://thewire.in/health/tb-tuberculosis-india-goals-detection)
+
+None
+
+2023-11-09T11:50:22+05:30
+### [Watch | Trust in Modi Government is Waning Day by Day: Kuki ITLF Spokesperson](https://thewire.in/communalism/watch-trust-in-modi-government-is-waning-day-by-day-kuki-itlf-spokesperson)
+
+None
+
+2023-11-09T11:29:12+05:30
+### [Punjab Govt Warns of FIRs Against Farmers Over Farm Fires](https://thewire.in/environment/punjab-govt-warns-of-firs-against-farmers-over-farm-fires)
+
+None
+
+2023-11-09T11:00:45+05:30
+### [Of 70.24 Crore PAN Cards, CBDT Deactivated 11.5 Crore for Failure to Link With Aadhaar](https://thewire.in/government/pan-cards-cbdt-deactivated-11-5-crore-failure-link-aadhaar)
+
+None
+
+2023-11-09T10:29:01+05:30
+### [This Legendary Tapestry Travelled Over Centuries From Assam to Britain. But Will it Ever Return?](https://thewire.in/books/book-excerpt-sangeeta-barooah-pisharoty-tapestry-assam)
+
+None
+
+2023-11-09T09:26:54+05:30
+### [Hunger and Unemployment in Modi's Amrit Kaal](https://thewire.in/economy/modi-amrit-kaal-hunger-unemployment)
+
+None
+
+2023-11-08T20:35:28+05:30
+### [Modi Says Congress Failed To 'Control Naxal Violence’ – Union Government Data Shows Otherwise](https://thewire.in/government/pm-narendra-modi-congress-naxal-violence-union-government-data)
+
+None
+
+2023-11-08T19:59:17+05:30
+### [No Phase Out or Phase Down: Fossil Fuel Production To Continue for Quite Some Time](https://thewire.in/environment/phase-out-phase-down-fossil-fuel-production-to-continue-unep-production-gap)
+
+None
+
+2023-11-08T19:30:32+05:30
+### [For Disabled People in India, Securing Health Insurance Is Still a Difficult Task](https://thewire.in/rights/disabled-people-india-securing-health-insurance-difficult-task)
+
+None
+
+2023-11-08T19:00:28+05:30
+### [Paramilitary Veterans Demand Restoration of Old Pension Scheme, Knock at PM Modi's Door](https://thewire.in/rights/paramilitary-veterans-demand-restoration-of-old-pension-scheme-knock-at-pm-modis-door)
+
+None
+
+2023-11-08T18:30:27+05:30
+### [‘Health Is Political, the Medical Community Can’t Afford to Ignore Politics of Israel-Gaza Conflict'](https://thewire.in/health/health-political-medical-community-israel-gaza-conflict)
+
+None
+
+2023-11-08T18:10:58+05:30
+### [Why the News of Ayodhya Temple Consecration Evoked Renewed Interest in the Ramanandi Sect](https://thewire.in/religion/aydhoya-temple-consecration-ramanandi-sect)
+
+None
+
+2023-11-08T17:59:08+05:30
+### [Bihar Caste Survey: The Who’s Who in the Data | Pasi](https://thewire.in/caste/bihar-caste-survey-the-whos-who-in-the-data-pasi)
+
+None
+
+2023-11-08T17:15:17+05:30
+### [Despite INDIA Parties' Unease, Congress is the Ideological Counter to the BJP](https://thewire.in/politics/india-parties-unease-congress-ideological-counter-bjp)
+
+None
+
+2023-11-08T16:45:08+05:30
+### [SC Tells Union Govt Not to 'Pick-and-Choose' Collegium Picks Based on Political Links](https://thewire.in/law/supreme-court-collegium-political-connections)
+
+None
+
+2023-11-08T16:15:08+05:30
+### [Whither India’s Armed Forces: Politicisation by Default or Design?](https://thewire.in/security/india-armed-forces-politicisation-by-default-or-design)
+
+None
+
+2023-11-08T15:45:42+05:30
+### [Spain’s Amnesty Plan For Catalan Separatists Sparks Backlash](https://thewire.in/world/spains-amnesty-plan-for-catalan-separatists-sparks-backlash)
+
+None
+
+2023-11-08T15:07:48+05:30
+### [Portugal’s PM Antonio Costa Quits Amid Corruption Probe](https://thewire.in/world/portugals-pm-antonio-costa-quits-amid-corruption-probe)
+
+None
+
+2023-11-08T15:00:46+05:30
+### [Govt Outsourced Critical Projects Worth Rs 500 Crore to Consultancies in Last 5 Years: Report](https://thewire.in/government/govt-outsourced-critical-projects-worth-rs-500-crore-to-consultancies-in-last-5-years-report)
+
+None
+
+2023-11-08T14:40:18+05:30
+### [Pegasus Likely on Phone of Journalist Who Broke Adani Stock Manipulation Story: Report](https://thewire.in/media/anand-mangnale-occrp-likely-had-pegasus-on-phone-report-says)
+
+None
+
+2023-11-08T14:20:02+05:30
+### [A New Documentary Captures the Bleak Future of Mumbai's Original Inhabitants, the Koli Community](https://thewire.in/film/a-new-documentary-captures-the-bleak-future-of-mumbais-original-inhabitants-the-koli-community)
+
+None
+
+2023-11-08T14:17:40+05:30
+### [Visva-Bharati, the Vice-Chancellor, and I](https://thewire.in/politics/visva-bharati-the-vice-chancellor-and-i)
+
+None
+
+2023-11-08T14:10:43+05:30
+### [33% Indian Women Can't Access Contraception: Outrage At This, Not Nitish Kumar’s Words on Withdrawal](https://thewire.in/women/nitish-kumar-withdrawal-contraception-women)
+
+None
+
+2023-11-08T13:53:19+05:30
+### ['Ethics Panel's Next Meeting Date Ensures Another Non-BJP Member Can't Attend': Mahua Moitra](https://thewire.in/politics/mahua-moitra-vinod-kumar-sonkar-ethics-panel-dehadrai)
+
+None
+
+2023-11-08T13:20:11+05:30
+### [From 'Aligarh' to 'Harigarh': Uttar Pradesh Continues Its Name Changing Spree](https://thewire.in/government/from-aligarh-to-harigarh-uttar-pradesh-continues-its-name-changing-spree)
+
+None
+
+2023-11-08T12:56:15+05:30
+### [Manipur: Four Persons, Including Kin of a Soldier, Abducted by Armed Men from Kangchup Chingkhong](https://thewire.in/security/manipur-four-persons-including-kin-of-a-soldier-abducted-by-armed-men-from-kangchup-chingkhong)
+
+None
+
