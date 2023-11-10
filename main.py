@@ -415,6 +415,18 @@ def write_markdown_files_json(feed):
     print(f"Markdown file updated: {markdown_file}")
 
 
+def delete_entries_older_than_input_date(feed, last_date):
+
+    feed_file = feed['feed_filename']
+    json_data = get_json_data_from_xml(feed_file)
+    items = json_data['rss']['channel']['item']
+    last_date = datetime.strptime(last_date, '%m/%d/%Y').replace(tzinfo=None)
+    filtered_items = [item for item in items if datetime.strptime(
+        item['pubDate'], "%a, %d %b %Y %H:%M:%S %z").replace(tzinfo=None) > last_date]
+    json_data['rss']['channel']['item'] = filtered_items
+    write_json_data_to_xml(json_data, feed_file)
+
+
 def main():
 
     feeds = get_feeds()
@@ -429,6 +441,7 @@ def main():
         sorting_xml_files_by_date_json(feed)
         write_markdown_files_json(feed)
         # update_media_url_in_feed(feed)
+        # delete_entries_older_than_input_date(feed , '10/10/2022')
 
 
 if __name__ == "__main__":
