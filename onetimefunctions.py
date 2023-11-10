@@ -11,16 +11,20 @@ import xml.etree.ElementTree as ET
 from xml.dom.minidom import parseString
 from datetime import datetime
 
+
 def replace_and_delete(file_path):
     with open(file_path, 'r+') as file:
         content = file.read()
-        content = re.sub(r'<rss.*?>', '<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">', content, flags=re.DOTALL)
+        content = re.sub(
+            r'<rss.*?>', '<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">', content, flags=re.DOTALL)
         content = re.sub(r'<ns0.*?/>', '', content, flags=re.DOTALL)
         content = re.sub(r'<ns1.*?/>', '', content, flags=re.DOTALL)
-        content = re.sub(r"</ai_summary>(.*?)</item>", r'</ai_summary><media:thumbnail></media:thumbnail><media:content></media:content></item>', content, flags=re.DOTALL)
+        content = re.sub(r"</ai_summary>(.*?)</item>",
+                         r'</ai_summary><media:thumbnail></media:thumbnail><media:content></media:content></item>', content, flags=re.DOTALL)
         file.seek(0)
         file.write(content)
         file.truncate()
+
 
 def replace_and_delete_in_feeds():
 
@@ -57,6 +61,7 @@ def convert_xml_to_json(xml_file_path):
 
     print(f"JSON file created: {json_file_path}")
 
+
 def convert_json_to_xml(json_file_path):
     # Check if the JSON file exists
     if not os.path.isfile(json_file_path):
@@ -80,7 +85,6 @@ def convert_json_to_xml(json_file_path):
         xml_file.write(xml_data)
 
     print(f"XML file created: {xml_file_path}")
-
 
 
 def add_urls_to_item(json_data, link, thumbnail_url, content_url):
@@ -122,4 +126,3 @@ def convert_json_data_to_xml(json_file_path):
 
 
 # replace_and_delete_in_feeds()
-

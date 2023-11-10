@@ -10,83 +10,6 @@ from datetime import datetime
 import xmltodict
 
 
-def fetch_and_write_feed_to_markdown(feed):
-
-    with open('config.json', 'r') as config_file:
-        config = json.load(config_file)
-    github_repo = config.get("github_repo")
-
-    # Parse the feed
-    markdown_file = feed['markdown_filename']
-    feed_url = feed['url']
-    feed_file = feed['feed_filename']
-    try:
-        print(f"fetching {feed_url}")
-        feed_response = feedparser.parse(feed_url)
-
-        if feed_response['status'] != 200 and feed_response['status'] != 301:
-            print(f"Check url : {feed_url}")
-            return
-        if 'entries' not in feed_response or len(feed_response['entries']) == 0:
-            print(f"No entries found")
-            return
-        else:
-            number_of_entries = len(feed_response['entries'])
-            print(f"Found {number_of_entries} entries ")
-
-    except Exception as e:
-        print(f"Error fetching {feed_url}: {str(e)}")
-
-    # Read existing entry IDs from the XML file
-    existing_links = set()
-    if os.path.exists(feed_file):
-        tree = ET.parse(feed_file)
-        root = tree.getroot()
-        for item in root.findall(".//item"):
-            existing_links.add(item.find("link").text)
-
-    for entry in feed_response.entries:
-        title = entry.title
-        link = entry.link
-        pub_date = entry.published
-        description = entry.summary
-        ai_summary = "False"
-
-        # Check if the entry's ID already exists in the set of existing IDs
-        if link in existing_links:
-            print(f"Already exist so Skipping {id}")
-            # Skip processing this entry and continue with the next one
-            continue
-
-        print(f"Fetching {title}")
-        article_text = fetch_article_text(link)
-        if article_text is None:
-            print("No article text so skipping")
-            continue
-
-        print(f"Summarizing")
-        summary = summarise(article_text)
-
-        if summary is None:
-            print("No summary so skipping")
-            summary = "Couldn't summarize"
-        else:
-            ai_summary = "True"
-
-        with open(markdown_file, "a", encoding="utf-8") as md_file:
-            md_file.write(f"### [{title}]({link})\n\n")
-            md_file.write(f"{summary}\n\n")
-        print(f"Feed entries have been written to {markdown_file}")
-
-        # Add the new entry to the XML file
-        update_xml_item(feed['feed_filename'],
-                        title, link, summary, pub_date, ai_summary)
-
-        existing_links.add(link)  # Add the new entry's ID to the set
-
-# Define a function to fetch the article text
-
-
 def fetch_article_text(url):
     try:
         response = requests.get(url)
@@ -102,8 +25,6 @@ def fetch_article_text(url):
     except Exception as e:
         print(f"Couldn't fetch article text: {str(e)}")
         return None
-
-# Define a function to summarize the article
 
 
 def summarise(article_text):
@@ -142,8 +63,6 @@ def summarise(article_text):
 
     # If after 10 attempts there's no valid response, return an error message or handle as needed
     return None
-
-# make index file, create log files
 
 
 def get_feeds():
@@ -205,54 +124,6 @@ def write_index_log_files(feeds):
                     print(f"Feed file created: {feed['feed_filename']}")
 
 
-def sorting_and_writing_markdown_files(feed):
-    try:
-        # Parse the XML file
-        tree = ET.parse(feed['feed_filename'])
-        root = tree.getroot()
-
-        # Get a list of item elements
-        items = root.findall(".//item")
-
-        # Define a function to convert date strings to a sortable format
-        def parse_date(date_str):
-            try:
-                return datetime.strptime(date_str, "%a, %d %b %Y %H:%M:%S %z")
-            except ValueError:
-                try:
-                    # Handle the alternative format if the first one fails
-                    return datetime.strptime(date_str, "%a, %d %b %Y %H:%M:%S GMT")
-                except ValueError:
-                    # If both formats fail, return the original string
-                    return date_str
-
-        # Sort the item elements based on pubDate in reverse order (latest first)
-        items.sort(key=lambda item: parse_date(
-            item.find("pubDate").text), reverse=True)
-
-        # Create a string representation of the XML document
-        sorted_xml = parseString(ET.tostring(
-            root, encoding="utf-8")).toprettyxml(indent="    ")
-
-        # Write the sorted items to the markdown file
-        with open(feed['markdown_filename'], "w", encoding="utf-8") as markdown_file:
-            for item in items:
-                title = item.find("title").text
-                link = item.find("link").text
-                description = item.find("description").text
-                pubDate = item.find("pubDate").text
-
-                markdown_file.write(f"{pubDate}\n")
-                markdown_file.write(f"### [{title}]({link})\n\n")
-                markdown_file.write(f"{description}\n\n")
-
-        print(
-            f"Items sorted by pulication date and written to {feed['markdown_filename']}.")
-
-    except Exception as e:
-        print(f"Error: {str(e)}")
-
-
 def extract_feed_url():
     # Extract the repository name and feed directory and construct the URL
     with open('config.json', 'r') as config_file:
@@ -293,105 +164,6 @@ def generate_base_xml(feed):
     rss_xml = ET.tostring(rss_feed, encoding="utf-8").decode("utf-8")
 
     return rss_xml
-
-
-def update_xml_item(xml_file_path, title, link, description, pubDate, ai_summary):
-    try:
-        # Load the existing XML file
-        tree = ET.parse(xml_file_path)
-        root = tree.getroot()
-        items = root.findall(".//item")
-
-        # Check if an item with the same link already exists
-        existing_item = None
-        for item in items:
-            item_link = item.find("link").text
-            if item_link == link:
-                existing_item = item
-                break
-
-        if existing_item is not None:
-            # Update the existing item with the provided data
-            title_element = existing_item.find("title")
-            title_element.text = title
-
-            description_element = existing_item.find("description")
-            description_element.text = description
-
-            pubDate_element = existing_item.find("pubDate")
-            pubDate_element.text = pubDate
-
-            ai_summary_element = existing_item.find("ai_summary")
-            ai_summary_element.text = ai_summary
-
-        else:
-            # Create a new item element
-            new_item = ET.Element("item")
-
-            title_element = ET.SubElement(new_item, "title")
-            title_element.text = title
-
-            link_element = ET.SubElement(new_item, "link")
-            link_element.text = link
-
-            description_element = ET.SubElement(new_item, "description")
-            description_element.text = description
-
-            pubDate_element = ET.SubElement(new_item, "pubDate")
-            pubDate_element.text = pubDate
-
-            ai_summary_element = ET.SubElement(new_item, "ai_summary")
-            ai_summary_element.text = ai_summary
-
-            # Append the new item to the root channel element
-            channel = root.find("channel")
-            channel.append(new_item)
-
-        # Save the updated XML
-        tree.write(xml_file_path, encoding="utf-8")
-
-        print("XML item updated or added successfully.")
-
-    except Exception as e:
-        print(f"Error updating or adding XML item: {str(e)}")
-
-
-def update_summaries_in_items_where_ai_summary_is_false(feed):
-    feed_url = feed['feed_filename']
-    markdown_file = feed['markdown_filename']
-    if os.path.exists(feed_url):
-        tree = ET.parse(feed_url)
-        root = tree.getroot()
-        items = root.findall(".//item")
-        for item in items:
-            ai_summary = item.find("ai_summary").text
-            if ai_summary == 'False':
-                title = item.find("title").text
-                link = item.find("link").text
-                description = item.find("description").text
-                pubDate = item.find("pubDate").text
-
-                print(f"Fetching {title}")
-                article_text = fetch_article_text(link)
-                if article_text is None:
-                    print("No article text so skipping")
-                    continue
-
-                print(f"Summarizing")
-                summary = summarise(article_text)
-
-                if summary is None:
-                    print("No summary so skipping")
-                    continue
-                else:
-                    ai_summary = "True"
-                    with open(markdown_file, "a", encoding="utf-8") as md_file:
-                        md_file.write(f"### [{title}]({link})\n\n")
-                        md_file.write(f"{summary}\n\n")
-                    print(f"Feed entries have been written to {markdown_file}")
-                    update_xml_item(feed_url, title, link, summary,
-                                    pubDate, ai_summary)
-    return feed
 
 
 def update_media_url_in_feed(feed):
