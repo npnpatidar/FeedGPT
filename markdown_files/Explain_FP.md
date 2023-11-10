@@ -1,3 +1,19 @@
+Fri, 10 Nov 2023 19:21:23 +0530
+### [India vs Pakistan on air pollution: Which cities are worst-affected?](https://www.firstpost.com/explainers/india-vs-pakistan-on-air-pollution-which-cities-are-worst-affected-13375402.html)
+
+Article found but Couldn't summarize 
+India vs Pakistan on air pollution: Which cities are worst-affected?
+
+Fri, 10 Nov 2023 19:01:19 +0530
+### [What is 'Fried Rice Syndrome', a condition that food experts warn about?](https://www.firstpost.com/explainers/what-is-fried-rice-syndrome-a-condition-that-food-experts-warn-about-13374052.html)
+
+"Fried rice syndrome," a type of food poisoning caused by the bacteria Bacillus cereus, has returned to public attention after an incident involving the death of a student who consumed noodles left unattended for five days. The bacteria can multiply when food is left unrefrigerated for long periods of time. The term "fried rice syndrome" originated from the first documented cases connected to cooked white rice that wasn't refrigerated and was subsequently used to make fried rice dishes at restaurants. The bacteria thrives in pre-cooked starchy foods like rice and pasta, and its ideal growth temperature range is between 40 and 140 degrees Fahrenheit. The symptoms of the syndrome resemble other gastrointestinal disorders, and treatment usually involves hydration and rest. To prevent food poisoning, it is advised to avoid eating leftovers and to ensure proper storage and cooling of cooked food.
+
+Fri, 10 Nov 2023 18:04:58 +0530
+### [Luck by Chance: How a fisherman in Pakistan became an overnight millionaire](https://www.firstpost.com/explainers/luck-by-chance-how-a-fisherman-in-pakistan-became-an-overnight-millionaire-13375112.html)
+
+A fisherman in Karachi, Pakistan, became a millionaire overnight after auctioning a haul of rare fish known as the Sowa fish. The fish, which is considered priceless and rare, has substances in its belly that are believed to have healing and medicinal properties. The entire catch was sold for 70 million rupees, with one fish fetching around seven million rupees in the auction. The fisherman plans to share the money with his crew. The Sowa fish is sought after in East Asian countries and is also used in traditional medicines and local cuisine.
+
 Fri, 10 Nov 2023 17:17:47 +0530
 ### [Diwali 2023: Are green crackers really ‘eco-friendly’?](https://www.firstpost.com/explainers/diwali-2023-green-crackers-eco-friendly-supreme-court-order-fireworks-air-pollution-13374482.html)
 

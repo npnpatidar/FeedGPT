@@ -1,3 +1,19 @@
+Fri, 10 Nov 2023 18:15:31 +0530
+### [Vantage | Why Israel accuses Western media of collaborating with Hamas](https://www.firstpost.com/opinion/vantage-why-israel-accuses-western-media-of-collaborating-with-hamas-13375192.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The Israeli government is questioning the possible collaboration between prominent Western media outlets and Hamas, the group responsible for recent attacks on Israel. The government is concerned about the proximity of journalists to Hamas during the attacks and whether they had prior knowledge of the attacks. The basis for these allegations lies in photographs released by a media watchdog in Israel, showing journalists close to the unfolding events. A freelance journalist affiliated with CNN and AP, Hassan Eslaiah, was present at the scene and is alleged to have connections with a prominent Hamas leader. Other journalists were also present capturing photos allegedly depicting Hamas terrorists kidnapping Israelis. Israel has reached out to CNN, Reuters, The New York Times, and AP about the issue. AP and Reuters have denied prior knowledge of the attacks. The ongoing investigation raises ethical concerns about the role of the press in times of conflict.
+
+Fri, 10 Nov 2023 18:08:31 +0530
+### [A true 'Vishwaguru':  How India's approach is correct on Israel-Palestine conflict](https://www.firstpost.com/opinion/a-true-vishwaguru-how-indias-approach-is-correct-on-israel-palestine-conflict-13375022.html)
+
+Article found but Couldn't summarize 
+A true 'Vishwaguru':  How India's approach is correct on Israel-Palestine conflict
+
+Fri, 10 Nov 2023 17:43:10 +0530
+### [Vantage | Why risks of Israel-Hamas war aren't in West Asia alone](https://www.firstpost.com/opinion/vantage-why-risks-of-israel-hamas-war-arent-in-west-asia-alone-13374982.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses the increasing involvement of the US in the conflict between Israel and Hamas. The US has conducted airstrikes in Syria targeting weapons warehouses used by Iran-backed militants. In Gaza, Israeli troops are engaged in street-to-street fighting with Hamas, targeting tunnels and key cities. Israel is also driving civilians out of northern Gaza to facilitate their ground assault. World leaders, including French President Emmanuel Macron, are calling for a humanitarian pause and ceasefire to protect civilians. The global ramifications of the conflict are evident, with recent arrests in Brazil of suspects allegedly linked to a Hezbollah cell planning terror attacks on Israeli and Jewish targets. The article emphasizes the need for swift and comprehensive international intervention.
+
 Fri, 10 Nov 2023 17:21:34 +0530
 ### [Israel vs Hamas: West wakes to micro wars as Ivy League varsities sold soul for Arab money](https://www.firstpost.com/opinion/israel-vs-hamas-west-wakes-to-micro-wars-as-ivy-league-varsities-sold-soul-for-arab-money-13374922.html)
 

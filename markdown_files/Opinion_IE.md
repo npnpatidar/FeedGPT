@@ -1,3 +1,20 @@
+Fri, 10 Nov 2023 13:40:09 +0000
+### [This Diwali season, let’s focus on tradition, family — not smartphones](https://indianexpress.com/article/opinion/columns/this-diwali-season-lets-focus-on-tradition-family-not-smartphones-9021990/)
+
+The article discusses the significance of Diwali, the festival of lights, in celebrating relationships. It emphasizes that Diwali is not just about rituals and customs but also about recognizing the importance of relationships in our lives. The author highlights the challenges faced by modern lifestyles that hinder the cultivation and sustenance of relationships.
+
+One challenge is the growing emphasis on personal space, privacy, and individual choice, which often leads to a disregard for collective spirit and social connections. The article stresses the importance of doing things together and sharing and caring for one another.
+
+Another challenge is the lack of understanding of the prerequisites for strong and healthy relationships. The article emphasizes the need for genuine intentions and mutual needs to complement interpersonal emotional bonds.
+
+The third challenge is the lack of time investment in relationships. In the era of "attention economy," where time is scarce, relationships suffer due to minimal investment. Mutuality of respect, expectations, transparency, and trust are also often ignored.
+
+Language skills and the impact of smartphones on conversations and relationships are also discussed. The article mentions how smartphones can be a distraction and how their use during conversations, known as "phubbing," can harm important relationships. While smartphones enhance communication, they may lack depth, sincerity, and authenticity. Personal conversations with eye contact, physical touch, and gestures hold more warmth and meaning.
+
+The article concludes by emphasizing the importance of authenticity in communication and relationships. It suggests that true emotions need natural manifestations where words align with actions. Diwali serves as a reminder that lighting a lamp symbolizes eradicating darkness and hypocrisy.
+
+Overall, the article promotes the idea of reflection on relationships during Diwali and the need for sincere efforts to cultivate and sustain them amidst the challenges posed by modern lifestyles.
+
 Fri, 10 Nov 2023 11:13:11 +0000
 ### [Diary of a Delhiite: Dear politicians, make my city habitable again](https://indianexpress.com/article/opinion/columns/diary-of-a-delhiite-dear-politicians-make-my-city-habitable-again-9021754/)
 

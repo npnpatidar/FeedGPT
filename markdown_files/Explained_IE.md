@@ -1,3 +1,19 @@
+Fri, 10 Nov 2023 13:02:30 +0000
+### [How rains in Delhi helped improve its air quality](https://indianexpress.com/article/explained/everyday-explainers/rains-delhi-improve-air-quality-aqi-pollution-9021912/)
+
+Light showers of rain in Delhi on Tuesday night and Wednesday led to clearer skies and improved air quality after days of high levels of pollution. The Air Quality Index (AQI) in early November reached a severe level of 471, but improved to 376 on Friday morning, still classified as very poor. Rain can help reduce air pollution by washing away certain pollutants, particularly PM 2.5 and PM 10 particles. These particles, which are smaller than 10 and 2.5 microns in diameter respectively, come from sources such as vehicular pollution, factory emissions, construction activities, and road dust. After the rain, PM 2.5 levels decreased from 310 to 174, and PM 10 levels dropped from 400-480 to 291. However, the impact of rain on air pollution is temporary, and significant rainfall is needed to effectively wash away pollutants.
+
+Fri, 10 Nov 2023 12:45:41 +0000
+### [Why will Saturn’s rings briefly ‘disappear’ from view in 2025?](https://indianexpress.com/article/explained/explained-sci-tech/saturn-rings-disappear-2025-9021942/)
+
+The article discusses the upcoming temporary disappearance of Saturn's rings from view in 2025. The reason for this phenomenon is due to Saturn's tilt and an optical illusion. Just like Earth, Saturn's axis of rotation is tilted, causing its ring system to also be tilted to the plane of Saturn's orbit. As Saturn revolves around the Sun, its rings appear to nod up and down when observed from Earth, resulting in a changing view of the rings.
+
+Saturn takes 29.5 years to complete an orbit around the Sun, and every 13 to 15 years, the edge of its rings aligns directly with Earth. At this position, the rings reflect very little light and become essentially invisible. In March 2025, Saturn's rings will not be visible from Earth because they will be perfectly aligned with our line of sight. However, the rings will gradually reappear as Saturn continues its revolution around the Sun.
+
+According to a 2018 report by NASA, Saturn may eventually lose its rings completely within the next 300 million years or even sooner. This would occur as the rings are being pulled into the planet by its gravity, causing ice particles to rain down under the influence of Saturn's magnetic field. The report estimates that an amount of water products equivalent to filling an Olympic-sized swimming pool could be drained from Saturn's rings in just half an hour.
+
+Saturn acquired its rings relatively late in its four-billion-year lifespan, and the rings are not older than 100 million years. The report suggests that we are fortunate to witness Saturn's ring system during its middle lifetime, but it raises the possibility that we may have missed out on seeing giant ring systems around Jupiter, Uranus, and Neptune, which currently only have thin ringlets.
+
 Fri, 10 Nov 2023 09:15:42 +0000
 ### [A plan to join the Red Sea with Mediterranean — an alternative to the Suez Canal](https://indianexpress.com/article/explained/explained-global/ben-gurion-canal-suez-israel-9021520/)
 
