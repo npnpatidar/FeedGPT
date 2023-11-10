@@ -1,3 +1,8 @@
+Fri, 10 Nov 2023 06:17:01 +0000
+### [Delhi govt plans ‘cloud seeding’ to induce rains amid pollution: What is this process?](https://indianexpress.com/article/explained/explained-sci-tech/delhi-rain-cloud-seeding-pollution-explained-9021286/)
+
+The Delhi government is considering cloud seeding, also known as "artificial rain," to address the high levels of pollution in the city. Cloud seeding involves injecting clouds with salts like silver iodide, potassium iodide, or sodium chloride, which act as nuclei for the formation of cloud droplets. These droplets grow and eventually fall as rain, taking pollutants down with them. However, cloud seeding requires specific cloud conditions, such as a sufficient number of clouds and certain depths, which are more commonly present during the monsoon season. The success of cloud seeding in reducing pollution levels is uncertain, and further research is needed to understand its effectiveness in India's unique climate and complex cloud systems. While cloud seeding has been attempted in India before to combat drought conditions, it has never been specifically used to mitigate pollution. If successful, cloud seeding could provide temporary relief from pollution by washing away pollutants with rainfall.
+
 Fri, 10 Nov 2023 01:30:01 +0000
 ### [A political history of Madhya Pradesh, set for another straight BJP vs Congress fight](https://indianexpress.com/article/explained/a-poltical-history-of-madhya-pradesh-set-for-another-straight-bjp-vs-congress-fight-9020839/)
 

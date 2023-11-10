@@ -1,3 +1,8 @@
+Fri, 10 Nov 2023 13:11:12 +0530
+### [US-Adani deal for Sri Lanka port heats up race with China](https://www.livemint.com/opinion/online-views/usadani-deal-for-sri-lanka-port-heats-up-race-with-china-11699601743547.html)
+
+The US International Development Finance Corporation (DFC) has announced a $553 million investment in the West Container Terminal of Colombo port in Sri Lanka. This investment highlights the competition between the US and China to build infrastructure in the Indian Ocean. The Colombo port is strategically located on the international route across the Indian Ocean and serves as a key transhipment port for India's export-import trade. The deal is seen as part of the US's efforts to acquire ports in Asia and counter China's Belt and Road Initiative. The investment is also beneficial for the Adani Group, which plans to expand its cargo capacity at ports. The global race for infrastructure assets is shaping alliances and rivalries.
+
 Fri, 10 Nov 2023 08:00:05 +0530
 ### [India’s demography demands that we talk about ageing before it’s too late](https://www.livemint.com/opinion/online-views/indias-demography-demands-that-we-talk-about-ageing-before-it-s-too-late-11699535599104.html)
 

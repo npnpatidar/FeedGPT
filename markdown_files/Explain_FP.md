@@ -1,3 +1,14 @@
+Fri, 10 Nov 2023 12:58:03 +0530
+### [Did journalists working with foreign media have prior information on Hamas attack on Israel?](https://www.firstpost.com/explainers/did-journalists-working-with-cnn-ap-reuters-nyt-have-prior-information-on-hamas-attack-on-israel-13372832.html)
+
+Article found but Couldn't summarize 
+Did journalists working with foreign media have prior information on Hamas attack on Israel?
+
+Fri, 10 Nov 2023 12:55:24 +0530
+### [India to get air taxis by 2026: How they will cut travel time from 90 minutes to just 7](https://www.firstpost.com/explainers/india-to-get-air-taxis-by-2026-how-they-will-cut-travel-time-from-90-minutes-to-just-7-13372432.html)
+
+Indian company InterGlobe Enterprises is collaborating with US-based startup Archer Aviation to launch an all-electric air taxi service in India by 2026. The service aims to provide a cost-competitive solution to traffic congestion and will initially launch in Delhi, Mumbai, and Bengaluru, offering 90-minute trips in just seven minutes. Archer Aviation manufactures electric vertical takeoff and landing (eVTOL) aircraft, which can carry four passengers and a pilot for up to 100 miles. InterGlobe Enterprises plans to use the e-aircraft for cargo, logistics, medical, emergency, and charter services in addition to passenger transport. Archer Aviation has already secured contracts with the US Air Force and plans to launch an air taxi service in the United Arab Emirates. The successful implementation of the air taxi service in India could transform urban mobility in the country.
+
 Fri, 10 Nov 2023 11:40:03 +0530
 ### [Breather from Toxic Air: How the rain in Delhi improved its AQI](https://www.firstpost.com/explainers/breather-from-toxic-air-how-the-rain-in-delhi-improved-its-aqi-13371832.html)
 

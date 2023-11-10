@@ -1,3 +1,27 @@
+Fri, 10 Nov 2023 13:29:59 +0530
+### [China creates panda-monium when displeased](https://www.firstpost.com/opinion/china-creates-panda-monium-when-displeased-13373072.html)
+
+Hmm, I'm sorry, but I'm not able to summarize the article you provided. My expertise is in providing customer support for Chatbase. If you have any questions or need assistance with Chatbase, I'll be happy to help!The article discusses the impact of China's panda diplomacy on countries around the world. It highlights Mexico as the last country in the Americas to have a giant panda, Xin Xin, after several pandas were returned to China from the United States. The article explains that Xin Xin is unique because her grandparents were gifted to Mexico in 1975 as a gesture of gratitude for recognizing China's authority over Taiwan. The author praises China's tactic of using cute pandas for goodwill, even though it initially started with a sense of entitlement.
+
+The article also mentions the commercial aspect of panda diplomacy, stating that it costs about $1 million per pair of bears per year, and China has earned an estimated $300 million since 1994 from panda loans. This money goes towards panda conservation, but the author raises the point that other nations are essentially paying for China's soft power strategy.
+
+The article emphasizes that China's loan of pandas has become a way to gauge its relations with other countries. The demand for pandas always exceeds supply, making panda loans equivalent to Most Favoured Nation status. As relations between China and the US soured, the number of pandas in US zoos declined. The article also notes that India, Pakistan, North Korea, and Taiwan either do not have pandas or do not own them directly.
+
+In contrast to giant pandas, the article briefly mentions polar bears and koalas. While polar bears are found in multiple countries, limiting ownership claims, koalas are found only in Australia, where they can only be housed in zoos or care shelters. The article suggests that Australia's practice of loaning koalas to other countries has not been as successful or lucrative as China's panda diplomacy due to the limited supply of pandas.
+
+The article concludes by speculating that if President Joe Biden's meeting with Chinese President Xi Jinping does not go well, Mexico and Xin Xin may benefit from Americans' desire to see pandas after 2024.
+
+Fri, 10 Nov 2023 12:59:02 +0530
+### [Vantage | Why Myanmar's civil war is dangerous for India](https://www.firstpost.com/opinion/vantage-why-myanmars-civil-war-is-dangerous-for-india-13372972.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses the complex landscape of military rule in Myanmar and highlights the recent events in the country that have sparked global interest. The article states that the appointed president of Myanmar acknowledged the risk of the country breaking apart, which is a rare admission by the military leadership. The ongoing civil war in Myanmar, particularly in the Shan state, is the main issue causing internal strife. Three ethnic armies, supported by various militant groups, have taken up arms against the Myanmar junta. This insurgency has raised concerns for the military government as they face rapid progress by the rebels, capturing military posts, towns, and key roads to the China border. The repercussions of the internal conflict in Myanmar extend beyond its borders, particularly for neighboring India, which faces the potential spillover of violence and an influx of refugees. India also fears that insurgent groups in the border region may exploit the Shan offensive to attack the junta. China, a supporter of the Shan rebels, is also concerned about the conflict escalation and has called for an immediate ceasefire. The article concludes by stating that the course of the conflict in Myanmar will depend on the military junta's air superiority over the insurgents.
+
+Fri, 10 Nov 2023 12:46:13 +0530
+### [Vantage | Why South Africa backs Palestine, wants Netanyahu arrested](https://www.firstpost.com/opinion/vantage-why-south-africa-backs-palestine-wants-netanyahu-arrested-13372932.html)
+
+Article found but Couldn't summarize 
+Vantage | Why South Africa backs Palestine, wants Netanyahu arrested
+
 Fri, 10 Nov 2023 11:24:57 +0530
 ### [Indian women invest over 70 hours weekly in work: Is society ignoring?](https://www.firstpost.com/opinion/indian-women-invest-over-70-hours-weekly-in-work-is-society-ignoring-13371492.html)
 
