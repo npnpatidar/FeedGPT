@@ -48,8 +48,7 @@ Will Rishi Sunak sack UK home secretary Suella Braverman?
 Fri, 10 Nov 2023 14:06:21 +0530
 ### [Elvish Yadav controversy: Why is snake venom such a popular recreational drug?](https://www.firstpost.com/explainers/elvish-yadav-controversy-snake-venom-uses-rave-parties-recreational-drug-noida-police-13373222.html)
 
-Article found but Couldn't summarize 
-Elvish Yadav controversy: Why is snake venom such a popular recreational drug?
+Hmm, I am not sure. Email support@chatbase.co for more info.Elvish Yadav, a popular YouTuber and winner of Bigg Boss OTT, is facing accusations of organizing rave parties where snake venom was supplied. The Noida Police arrested five people, including Yadav, after receiving a complaint from an animal welfare organization. The police found snake venom, cobras, pythons, and other snakes at the venue. Maneka Gandhi, a BJP MP, called for Yadav's arrest and labeled him a "kingpin" in the case. However, Yadav has denied the allegations and threatened to file a defamation case against Gandhi. The incident has sparked a discussion about the use of snake venom as a recreational drug, with studies showing its potential effects on users, including analgesia, euphoria, and sedation. Experts warn against the recreational use of snake venom due to the risk of addiction and poisoning.
 
 Fri, 10 Nov 2023 13:40:28 +0530
 ### [Why Qatar has become indispensable in the Israel-Hamas war](https://www.firstpost.com/explainers/why-qatar-has-become-indispensable-in-the-israel-hamas-war-13373052.html)

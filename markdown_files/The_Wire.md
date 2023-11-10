@@ -1,3 +1,27 @@
+2023-11-10T16:59:28+05:30
+### [Hyderabad: With Modi Attending MRPS Meeting, Will Dalit Sub-Categorisation Gain Steam?](https://thewire.in/rights/hyderabad-modi-mrps-dalit-sub-categorisation)
+
+No Article text 
+The issue of disparities among Dalit sub-groups has long been discussed. The Madiga Reservation Porata Samithi has been pioneering sub-categorisation, but political parties of all colours have failed to make progress.
+
+2023-11-10T16:00:03+05:30
+### [In Hyderabad, Policing of Teens Under ‘Operation Chabutra’ Is Turning Violent](https://thewire.in/rights/in-hyderabad-policing-of-teens-under-operation-chabutra-is-turning-violent)
+
+No Article text 
+The police have long seen the chabutras in Old City, a place for social gathering, as locations for youngsters to indulge in illegal activities late at night.
+
+2023-11-10T15:25:01+05:30
+### [The Curious Case of Supreme Court's Denial of Bail to Manish Sisodia](https://thewire.in/law/curious-case-denial-bail-manish-sisodia-supreme-court)
+
+No Article text 
+It is rightly said that the essence of tyranny is the ability to make a harsh law and use it selectively against your opponents. Our courts must not fail to see through this game.
+
+2023-11-10T14:00:23+05:30
+### [Bihar Caste Survey: The Who’s Who in the Data | Rangrez](https://thewire.in/caste/bihar-caste-survey-the-whos-who-in-the-data-rangrez)
+
+No Article text 
+It would not be an exaggeration to say that this community or caste and its profession, which has been braving significant social, cultural, political and economic hardships, is on its last leg because a lot has changed in the world.
+
 2023-11-10T13:00:00+05:30
 ### ['Exposure to Air Pollution Changes the Way Our Airways Behave’: Surge in Respiratory Symptoms in Delhi](https://thewire.in/environment/exposure-to-air-pollution-changes-the-way-our-airways-behave-surge-in-respiratory-symptoms-in-delhi)
 

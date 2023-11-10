@@ -75,8 +75,7 @@ Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. 
 Fri, 10 Nov 2023 12:46:13 +0530
 ### [Vantage | Why South Africa backs Palestine, wants Netanyahu arrested](https://www.firstpost.com/opinion/vantage-why-south-africa-backs-palestine-wants-netanyahu-arrested-13372932.html)
 
-Article found but Couldn't summarize 
-Vantage | Why South Africa backs Palestine, wants Netanyahu arrested
+South Africa is calling for the arrest of Israeli Prime Minister Benjamin Netanyahu on charges of war crimes. South Africa has been a staunch supporter of Palestine and has criticized Israel's actions in the ongoing conflict with Hamas. The International Criminal Court (ICC) does not have jurisdiction over Israel, but it does have jurisdiction over Palestine, as they joined the ICC using their UN Observer status. However, Israel and the US reject the ICC's authority and are likely to ignore any warrant or ruling. This situation highlights the limitations and political nature of the ICC, as it has failed to take action in other cases such as Ukraine and Iraq. South Africa's call for Netanyahu's arrest is seen as hypocritical, as they themselves have violated ICC orders by promising not to arrest Russian President Vladimir Putin if he were to visit the country. The article criticizes the selective prosecution of war crimes and calls out both Israel and Hamas for their actions in the conflict.
 
 Fri, 10 Nov 2023 11:24:57 +0530
 ### [Indian women invest over 70 hours weekly in work: Is society ignoring?](https://www.firstpost.com/opinion/indian-women-invest-over-70-hours-weekly-in-work-is-society-ignoring-13371492.html)

@@ -6,3 +6,8 @@
 - [Opinion Mint](markdown_files/Opinion_Mint.md)
 - [EDITORIAL TH](markdown_files/EDITORIAL_TH.md)
 - [Column TH](markdown_files/Column_TH.md)
+- [The Wire](markdown_files/The_Wire.md)
+- [Tech FP](markdown_files/Tech_FP.md)
+- [Tech Mint](markdown_files/Tech_Mint.md)
+- [Movie Review TH](markdown_files/Movie_Review_TH.md)
+- [ThePrint](markdown_files/ThePrint.md)
