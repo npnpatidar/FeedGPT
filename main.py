@@ -501,7 +501,8 @@ def fetch_and_write_feed_to_markdown_using_json(feed):
         description = entry.summary
         ai_summary = "False"
         media_url = ''
-        summary = None
+        got_summary = None
+        summary = entry.summary
 
         if hasattr(entry, "media_thumbnail") and entry.media_thumbnail:
             media_url = entry.media_thumbnail[0]['url']
@@ -516,17 +517,18 @@ def fetch_and_write_feed_to_markdown_using_json(feed):
         article_text = fetch_article_text(link)
 
         if article_text is None:
-            print("No Article text found")
-            summary = "Article could not be fetched"
+            print("No Article text")
+            summary = "No Article text \n" + entry.summary
         else:
             print(f"Summarizing")
-            summary = summarise(article_text)
+            got_summary = summarise(article_text)
 
-        if summary is None and article_text is not None:
-            print("Summary could not be generated")
-            summary = "Couldn't summarize"
+        if got_summary is None and article_text is not None:
+            print("Got Article Text but No Summary ")
+            summary = "Article found but Couldn't summarize \n" + entry.summary
         else:
             ai_summary = "True"
+            summary = got_summary
 
         item_data = {
             "title": title,
