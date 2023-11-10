@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+	<channel>
+		<title>Column TH</title>
+		<link>https://npnpatidar.github.com/FeedGPT/feeds/Column_TH.xml</link>
+		<description>Column TH</description>
+		<item>
+			<title>Political Line | Inspector Praveen, inspired by The New York Times</title>
+			<link>https://www.thehindu.com/opinion/inspector-praveen-inspired-by-the-new-york-times/article67393123.ece</link>
+			<description>hellow</description>
+			<pubDate>Sat, 07 Oct 2023 19:49:00 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://th-i.thgim.com/public/incoming/8ugo06/article67395452.ece/alternates/LANDSCAPE_1200/Political%20Line.png"></media:thumbnail>
+			<media:content url="https://th-i.thgim.com/public/incoming/8ugo06/article67395452.ece/alternates/LANDSCAPE_1200/Political%20Line.png" medium="image"></media:content>
+		</item>
+		<item>
+			<title>In the era of unicorns, there are few takers for Sudha Murty’s brand of simplicity</title>
+			<link>https://www.thehindu.com/society/sudha-murty-simple-memes-and-jokes-the-kapil-sharma-show-india-aspirations/article66910610.ece</link>
+			<description> feel free to ask!</description>
+			<pubDate>Thu, 01 Jun 2023 14:38:43 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://th-i.thgim.com/public/incoming/swxpqg/article66918977.ece/alternates/LANDSCAPE_1200/Sudha_Murthy.jpg"></media:thumbnail>
+			<media:content url="https://th-i.thgim.com/public/incoming/swxpqg/article66918977.ece/alternates/LANDSCAPE_1200/Sudha_Murthy.jpg" medium="image"></media:content>
+		</item>
+		
+	</channel>
+</rss>

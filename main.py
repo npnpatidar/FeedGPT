@@ -10,7 +10,6 @@ from datetime import datetime
 import xmltodict
 
 
-
 def fetch_and_write_feed_to_markdown(feed):
 
     with open('config.json', 'r') as config_file:
@@ -52,7 +51,7 @@ def fetch_and_write_feed_to_markdown(feed):
         pub_date = entry.published
         description = entry.summary
         ai_summary = "False"
-     
+
         # Check if the entry's ID already exists in the set of existing IDs
         if link in existing_links:
             print(f"Already exist so Skipping {id}")
@@ -275,9 +274,9 @@ def extract_feed_url():
 
 def generate_base_xml(feed):
     # Create an RSS feed XML document
-    rss_feed = ET.Element("rss", version="2.0")
+    rss_feed = ET.Element("rss", attrib={"version": "2.0", "xmlns:media": "http://search.yahoo.com/mrss/"})
+    # rss_feed = ET.Element("rss", version="2.0", xmlns={"media": "http://search.yahoo.com/mrss/"})
     channel = ET.SubElement(rss_feed, "channel")
-
     # Define RSS channel elements
     title = ET.SubElement(channel, "title")
     title.text = feed["title"]
@@ -396,18 +395,10 @@ def update_summaries_in_items_where_ai_summary_is_false(feed):
 
 def update_media_url_in_feed(feed):
 
- 
     feed_url = feed['url']
     feed_file = feed['feed_filename']
 
-
-    with open(feed_file, "r") as xml_file:
-        xml_data = xml_file.read()
-
-    data_dict = xmltodict.parse(xml_data)
-
-    json_data = json.dumps(data_dict)
-    json_feed = json.loads(json_data)
+    json_feed = get_json_data_from_xml(feed_file)
 
     try:
         print(f"fetching {feed_url}")
@@ -426,34 +417,220 @@ def update_media_url_in_feed(feed):
     except Exception as e:
         print(f"Error fetching {feed_url}: {str(e)}")
 
-    for entry in feed_response.entries: 
+    for entry in feed_response.entries:
         link = entry.link
-        media_url =None
-    
+        media_url = None
+
         if hasattr(entry, "media_thumbnail") and entry.media_thumbnail:
-            media_url = entry.media_thumbnail[0]['url']   
+            media_url = entry.media_thumbnail[0]['url']
         elif hasattr(entry, "media_content") and entry.media_content:
             media_url = entry.media_content[0]['url']
         try:
             items = json_feed['rss']['channel']['item']
         except:
             continue
-    
+
         for i, item in enumerate(items):
             if item['link'] == link and media_url is not None:
                 item["media:thumbnail"] = {"@url": media_url}
                 item["media:content"] = {"@url": media_url, "@medium": "image"}
                 break
+    write_json_data_to_xml(json_feed, feed_file)
 
-    # data_dict = json.loads(json_feed)
+def get_json_data_from_xml(xml_file_path):
+    if os.path.exists(xml_file_path):
+        with open(xml_file_path, "r") as xml_file:
+            xml_data = xml_file.read()
+
+        data_dict = xmltodict.parse(xml_data)
+
+        json_data = json.dumps(data_dict)
+        json_feed = json.loads(json_data)
+
+        return json_feed
+    else:
+        return None
 
 
-    xml_data = xmltodict.unparse(json_feed, pretty=True)
+def write_json_data_to_xml(json_data, xml_file_path):
+    xml_data = xmltodict.unparse(json_data, pretty=True)
 
-    with open(feed_file, "w") as xml_file:
+    with open(xml_file_path, "w") as xml_file:
         xml_file.write(xml_data)
 
 
+def fetch_and_write_feed_to_markdown_using_json(feed):
+
+    with open('config.json', 'r') as config_file:
+        config = json.load(config_file)
+    github_repo = config.get("github_repo")
+
+    # Parse the feed
+    feed_url = feed['url']
+    feed_file = feed['feed_filename']
+    json_data = get_json_data_from_xml(feed_file)
+
+    try:
+        print(f"fetching {feed_url}")
+        feed_response = feedparser.parse(feed_url)
+
+        if feed_response['status'] != 200 and feed_response['status'] != 301:
+            print(f"Check url : {feed_url}")
+            return
+        if 'entries' not in feed_response or len(feed_response['entries']) == 0:
+            print(f"No entries found")
+            return
+        else:
+            number_of_entries = len(feed_response['entries'])
+            print(f"Found {number_of_entries} entries ")
+
+    except Exception as e:
+        print(f"Error fetching {feed_url}: {str(e)}")
+    
+    existing_links = set()
+    if 'item' in json_data['rss']['channel']:
+        items = json_data['rss']['channel']['item']
+        if isinstance(items, list):
+            existing_links = set(item['link'] for item in items)
+
+    new_entry = 0
+    for entry in feed_response.entries:
+        title = entry.title
+        link = entry.link
+        pub_date = entry.published
+        description = entry.summary
+        ai_summary = "False"
+        media_url = ''
+        summary = None
+
+        if hasattr(entry, "media_thumbnail") and entry.media_thumbnail:
+            media_url = entry.media_thumbnail[0]['url']
+        elif hasattr(entry, "media_content") and entry.media_content:
+            media_url = entry.media_content[0]['url']
+
+        if link in existing_links:
+            print(f"Already exist so Skipping")
+            continue
+
+        print(f"Fetching {title}")
+        article_text = fetch_article_text(link)
+
+        if article_text is None:
+            print("No Article text found")
+            summary = "Article could not be fetched"
+        else:
+            print(f"Summarizing")
+            # summary = summarise(article_text)
+            summary = "testing"
+
+        if summary is None and article_text is not None:
+            print("Summary could not be generated")
+            summary = "Couldn't summarize"
+        else:
+            ai_summary = "True"
+
+        item_data = {
+            "title": title,
+            "link": link,
+            "description": summary,
+            "pubDate": pub_date,
+            "ai_summary": ai_summary,
+            "media:thumbnail": {
+                "@url":media_url
+            },
+            "media:content": {
+                "@url":media_url,
+                "@medium": "image"
+            }
+        }
+        new_entry += 1
+        if 'item' in json_data['rss']['channel']:
+            items = json_data['rss']['channel']['item']
+            if isinstance(items, list):
+                items.append(item_data)
+            else:
+                json_data['rss']['channel']['item'] = [item_data]
+        else:
+            json_data['rss']['channel']['item'] = [item_data]
+
+        existing_links.add(link)  # Add the new entry's ID to the set
+    write_json_data_to_xml(json_data, feed_file)
+    print(f"{new_entry} Feed entries have been written to {feed_file}")
+
+def update_summary_if_ai_summary_is_false(feed):
+    with open('config.json', 'r') as config_file:
+        config = json.load(config_file)
+    github_repo = config.get("github_repo")
+
+    feed_url = feed['url']
+    feed_file = feed['feed_filename']
+    json_data = get_json_data_from_xml(feed_file)
+
+    new_summary = 0
+
+    for item in json_data['rss']['channel']['item']:
+        if 'ai_summary' in item and item['ai_summary'].lower() == 'false':
+            title = item['title']
+            link = item['link']
+            print(f"Fetching {title}")
+            article_text = fetch_article_text(link)
+
+            if article_text is None:
+                print("No Article text found")
+                summary = "Article could not be fetched"
+            else:
+                print(f"Summarizing")
+                # summary = summarise(article_text)
+                summary = "testing second time"
+
+            if summary is None and article_text is not None:
+                print("Summary could not be generated from article text")
+                summary = "Couldn't summarize"
+            else:
+                new_summary += 1
+                item['ai_summary'] = 'True'
+                item['description'] = summary
+    write_json_data_to_xml(json_data, feed_file)
+    print(f"{new_summary} summaries have been updated to {feed_file}")
+
+def sorting_xml_files_by_date_json(feed):  
+    feed_file = feed['feed_filename']
+    json_data = get_json_data_from_xml(feed_file)
+
+    items = json_data['rss']['channel']['item']
+    sorted_items = sorted(items, key=lambda x: parse_date(x["pubDate"]), reverse=True)
+    json_data["rss"]["channel"]["item"] = sorted_items
+
+    write_json_data_to_xml(json_data, feed_file)
+
+def parse_date(date_str):
+    try:
+        return datetime.strptime(date_str, "%a, %d %b %Y %H:%M:%S %z")
+    except ValueError:
+        try:
+            # Handle the alternative format if the first one fails
+            return datetime.strptime(date_str, "%a, %d %b %Y %H:%M:%S GMT")
+        except ValueError:
+            # If both formats fail, return the original string
+            return date_str
+
+def write_markdown_files_json(feed):
+    feed_file = feed['feed_filename']
+    json_data = get_json_data_from_xml(feed_file)
+    markdown_file = feed['markdown_filename']
+
+    items = json_data['rss']['channel']['item']
+    with open(markdown_file, "w", encoding="utf-8") as md_file:
+        for item in items:
+            title = item['title']
+            link = item['link']
+            description = item['description']
+            pubDate = item['pubDate']
+            
+            md_file.write(f"{pubDate}\n")
+            md_file.write(f"### [{title}]({link})\n\n")
+            md_file.write(f"{description}\n\n")
+    print(f"Markdown file updated: {markdown_file}")
 
 def main():
 
@@ -462,11 +639,12 @@ def main():
     write_index_log_files(feeds)
 
     for feed in feeds:
-        fetch_and_write_feed_to_markdown(feed)
+        fetch_and_write_feed_to_markdown_using_json(feed)
 
-    for feed in feeds:   
-        update_summaries_in_items_where_ai_summary_is_false(feed)
-        sorting_and_writing_markdown_files(feed)
+    for feed in feeds:
+        update_summary_if_ai_summary_is_false(feed)
+        sorting_xml_files_by_date_json(feed)
+        write_markdown_files_json(feed)
         update_media_url_in_feed(feed)
 
 

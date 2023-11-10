@@ -92,7 +92,7 @@ def add_urls_to_item(json_data, link, thumbnail_url, content_url):
     return json.dumps(json_data, indent=2)
 
 
-# convert_xml_to_json("feeds/Column_TH.xml")
+convert_xml_to_json("feeds/test.xml")
 # convert_json_to_xml("feeds/Column_TH_1.json")
 
 
