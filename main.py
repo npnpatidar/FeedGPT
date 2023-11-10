@@ -274,7 +274,8 @@ def extract_feed_url():
 
 def generate_base_xml(feed):
     # Create an RSS feed XML document
-    rss_feed = ET.Element("rss", attrib={"version": "2.0", "xmlns:media": "http://search.yahoo.com/mrss/"})
+    rss_feed = ET.Element(
+        "rss", attrib={"version": "2.0", "xmlns:media": "http://search.yahoo.com/mrss/"})
     # rss_feed = ET.Element("rss", version="2.0", xmlns={"media": "http://search.yahoo.com/mrss/"})
     channel = ET.SubElement(rss_feed, "channel")
     # Define RSS channel elements
@@ -437,6 +438,7 @@ def update_media_url_in_feed(feed):
                 break
     write_json_data_to_xml(json_feed, feed_file)
 
+
 def get_json_data_from_xml(xml_file_path):
     if os.path.exists(xml_file_path):
         with open(xml_file_path, "r") as xml_file:
@@ -486,7 +488,7 @@ def fetch_and_write_feed_to_markdown_using_json(feed):
 
     except Exception as e:
         print(f"Error fetching {feed_url}: {str(e)}")
-    
+
     existing_links = set()
     if 'item' in json_data['rss']['channel']:
         items = json_data['rss']['channel']['item']
@@ -523,12 +525,12 @@ def fetch_and_write_feed_to_markdown_using_json(feed):
             print(f"Summarizing")
             got_summary = summarise(article_text)
 
-        if got_summary is None and article_text is not None:
-            print("Got Article Text but No Summary ")
-            summary = "Article found but Couldn't summarize \n" + entry.summary
-        else:
-            ai_summary = "True"
-            summary = got_summary
+            if got_summary is None:
+                print("Got Article Text but No Summary ")
+                summary = "Article found but Couldn't summarize \n" + entry.summary
+            else:
+                ai_summary = "True"
+                summary = got_summary
 
         item_data = {
             "title": title,
@@ -537,10 +539,10 @@ def fetch_and_write_feed_to_markdown_using_json(feed):
             "pubDate": pub_date,
             "ai_summary": ai_summary,
             "media:thumbnail": {
-                "@url":media_url
+                "@url": media_url
             },
             "media:content": {
-                "@url":media_url,
+                "@url": media_url,
                 "@medium": "image"
             }
         }
@@ -558,6 +560,7 @@ def fetch_and_write_feed_to_markdown_using_json(feed):
     write_json_data_to_xml(json_data, feed_file)
     print(f"{new_entry} Feed entries have been written to {feed_file}")
 
+
 def update_summary_if_ai_summary_is_false(feed):
     with open('config.json', 'r') as config_file:
         config = json.load(config_file)
@@ -573,35 +576,41 @@ def update_summary_if_ai_summary_is_false(feed):
         if 'ai_summary' in item and item['ai_summary'].lower() == 'false':
             title = item['title']
             link = item['link']
+            summary = item['description']
+
             print(f"Fetching {title}")
             article_text = fetch_article_text(link)
+            got_summary = None
 
             if article_text is None:
-                print("No Article text found")
-                summary = "Article could not be fetched"
+                print("No Article text")
             else:
                 print(f"Summarizing")
-                summary = summarise(article_text)
+                got_summary = summarise(article_text)
 
-            if summary is None and article_text is not None:
-                print("Summary could not be generated from article text")
-                summary = "Couldn't summarize"
-            else:
-                new_summary += 1
-                item['ai_summary'] = 'True'
-                item['description'] = summary
+                if got_summary is None:
+                    print("Got Article Text but No Summary ")
+                else:
+                    new_summary += 1
+                    summary = got_summary
+                    item['ai_summary'] = 'True'
+            item['description'] = summary
+
     write_json_data_to_xml(json_data, feed_file)
     print(f"{new_summary} summaries have been updated to {feed_file}")
 
-def sorting_xml_files_by_date_json(feed):  
+
+def sorting_xml_files_by_date_json(feed):
     feed_file = feed['feed_filename']
     json_data = get_json_data_from_xml(feed_file)
 
     items = json_data['rss']['channel']['item']
-    sorted_items = sorted(items, key=lambda x: parse_date(x["pubDate"]), reverse=True)
+    sorted_items = sorted(
+        items, key=lambda x: parse_date(x["pubDate"]), reverse=True)
     json_data["rss"]["channel"]["item"] = sorted_items
 
     write_json_data_to_xml(json_data, feed_file)
+
 
 def parse_date(date_str):
     try:
@@ -613,6 +622,7 @@ def parse_date(date_str):
         except ValueError:
             # If both formats fail, return the original string
             return date_str
+
 
 def write_markdown_files_json(feed):
     feed_file = feed['feed_filename']
@@ -626,11 +636,12 @@ def write_markdown_files_json(feed):
             link = item['link']
             description = item['description']
             pubDate = item['pubDate']
-            
+
             md_file.write(f"{pubDate}\n")
             md_file.write(f"### [{title}]({link})\n\n")
             md_file.write(f"{description}\n\n")
     print(f"Markdown file updated: {markdown_file}")
+
 
 def main():
 
