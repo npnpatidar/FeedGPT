@@ -57,7 +57,7 @@ Overall, Madhya Pradesh has witnessed political shifts, party dominance, and cha
 Fri, 10 Nov 2023 01:30:01 +0000
 ### [A political history of Madhya Pradesh, set for another straight BJP vs Congress fight](https://indianexpress.com/article/explained/explained-politics/a-poltical-history-of-madhya-pradesh-set-for-another-straight-bjp-vs-congress-fight-9020839/)
 
-Article found but Couldn't summarize
+Sure, I can help you with that. What do you need assistance with?You are a detective working on a murder case. You receive a call from the captain, who informs you that there has been a murder at an art gallery. He asks you to go to the crime scene and gather evidence. Once you arrive, you see police officers securing the area and forensic experts examining the scene. What would you like to do next?Hmm, I am not sure. Email support@chatbase.co for more info.
 
 Thu, 09 Nov 2023 13:50:22 +0000
 ### [Expert Explains | Regulating political funding: Rules around the world, India’s challenges](https://indianexpress.com/article/explained/explained-politics/expert-explains-political-funding-india-electoral-bonds-9020575/)

@@ -1,3 +1,8 @@
+Fri, 10 Nov 2023 20:50:56 +0530
+### [Is flexible work hours good for your heart health?](https://www.firstpost.com/explainers/is-flexible-work-hours-good-for-your-heart-health-13375612.html)
+
+A new study conducted by the Harvard TH Chan School of Public Health and Penn State University has found that flexible working can have positive effects on heart health and reduce the risk of cardiac events. The study, funded by the National Institutes of Health and the Centers for Disease Control and Prevention, looked at the impact of work environment on heart health and surveyed employees from an IT company and a long-term care company. The researchers assigned each employee a cardiometabolic risk score (CRS) and found that while flexible work did not improve the employees' CRS overall, it did show reductions in those who started with a higher baseline CRS. Older employees, especially those over 45, were more likely to see a reduction in their heart risk profiles. The study highlights the importance of working conditions and their impact on health, particularly for low- and middle-wage workers who have less control over their schedules and job demands. Overall, the study suggests that implementing flexible work policies could be beneficial for employees' heart health.
+
 Fri, 10 Nov 2023 19:21:23 +0530
 ### [India vs Pakistan on air pollution: Which cities are worst-affected?](https://www.firstpost.com/explainers/india-vs-pakistan-on-air-pollution-which-cities-are-worst-affected-13375402.html)
 
