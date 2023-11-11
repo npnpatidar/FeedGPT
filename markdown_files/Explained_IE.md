@@ -1,3 +1,8 @@
+Sat, 11 Nov 2023 13:10:02 +0000
+### [Moody’s lowers US credit rating outlook to ‘negative’: What does it mean?](https://indianexpress.com/article/explained/explained-economics/moodys-us-credit-rating-outlook-negative-9023051/)
+
+Moody's, a credit rating firm, has changed the US credit outlook from "stable" to "negative," indicating an increased chance of downgrading America's creditworthiness. This change could worsen fiscal concerns as it may make borrowing money more costly for investors and increase the government's debt repayment expenses. Moody's cites three main reasons for this decision: the threat of rising interest rates, a mounting debt burden, and a polarized Congress that is unable to agree on addressing the budget deficit. The firm believes that without effective fiscal policy measures, the US will continue to have large deficits, significantly weakening debt affordability. Political polarization further raises the risk of governments failing to reach consensus on a fiscal plan. The Biden administration blames the Republican Party for this outlook change, while the Republicans criticize President Biden's spending agenda. Other rating firms, such as Fitch, have also downgraded their outlook on the US. Credit ratings agencies analyze financials, business models, and economic management to rate companies and governments. These ratings help investors assess the risk associated with bonds and other debt instruments.
+
 Sat, 11 Nov 2023 10:30:19 +0000
 ### [World’s biggest bank, China’s ICBC, hit by ransomware: 7 things you need to know](https://indianexpress.com/article/explained/explained-economics/icbc-bank-china-us-ransomware-9022908/)
 

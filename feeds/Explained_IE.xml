@@ -5,6 +5,15 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Explained_IE.xml</link>
 		<description>Explained IE</description>
 		<item>
+			<title>Moody’s lowers US credit rating outlook to ‘negative’: What does it mean?</title>
+			<link>https://indianexpress.com/article/explained/explained-economics/moodys-us-credit-rating-outlook-negative-9023051/</link>
+			<description>Moody's, a credit rating firm, has changed the US credit outlook from "stable" to "negative," indicating an increased chance of downgrading America's creditworthiness. This change could worsen fiscal concerns as it may make borrowing money more costly for investors and increase the government's debt repayment expenses. Moody's cites three main reasons for this decision: the threat of rising interest rates, a mounting debt burden, and a polarized Congress that is unable to agree on addressing the budget deficit. The firm believes that without effective fiscal policy measures, the US will continue to have large deficits, significantly weakening debt affordability. Political polarization further raises the risk of governments failing to reach consensus on a fiscal plan. The Biden administration blames the Republican Party for this outlook change, while the Republicans criticize President Biden's spending agenda. Other rating firms, such as Fitch, have also downgraded their outlook on the US. Credit ratings agencies analyze financials, business models, and economic management to rate companies and governments. These ratings help investors assess the risk associated with bonds and other debt instruments.</description>
+			<pubDate>Sat, 11 Nov 2023 13:10:02 +0000</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2023/11/Moodys.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2023/11/Moodys.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>World’s biggest bank, China’s ICBC, hit by ransomware: 7 things you need to know</title>
 			<link>https://indianexpress.com/article/explained/explained-economics/icbc-bank-china-us-ransomware-9022908/</link>
 			<description>The US arm of the Industrial and Commercial Bank of China (ICBC) experienced a ransomware attack that disrupted trades in the US Treasury market. ICBC, the largest lender in the world, is investigating the attack and has isolated impacted systems. The specifics of the attack and the attacker are unknown, but it is believed that the ransomware LockBit 3.0 was involved. This attack is significant because it targeted a large bank, which is rare in the financial industry. However, US Treasury Secretary Janet Yellen stated that the attack only minimally disrupted the Treasury market. Authorities worldwide have been struggling to combat ransomware attacks, and this incident highlights the vulnerability of systems and the need for improved cybersecurity protocols.</description>

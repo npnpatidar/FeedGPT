@@ -1,3 +1,103 @@
+Sat, 11 Nov 2023 14:02:26 +0000
+### [Raja Kumari releases music video for her song ‘No Nazar’](https://theprint.in/feature/raja-kumari-releases-music-video-for-her-song-no-nazar/1841716/)
+
+Rapper Raja Kumari has released the music video for her song "No Nazar" from her own label Godmother Records. The song was written during a dark time in Kumari's life and is meant to protect listeners from the evil eye and negative energy. Kumari also recently collaborated with Sushmita Sen on the music video for "Sherni Aayi" from the show "Aarya 3." She expressed admiration for Sen's positivity and strength, and the song is a tribute to strong women facing challenges. Kumari previously gained recognition for her rap in Shah Rukh Khan's film "Jawan."
+
+Sat, 11 Nov 2023 14:02:15 +0000
+### [JP Nadda mourns demise of Telugu actor Chandra Mohan](https://theprint.in/feature/jp-nadda-mourns-demise-of-telugu-actor-chandra-mohan/1841714/)
+
+Telugu actor Chandra Mohan has passed away at the age of 82 after suffering a cardiac arrest. Bharatiya Janata Party (BJP) National President JP Nadda expressed his condolences on social media, praising the actor's versatile and charismatic performances throughout his career. Chandra Mohan, also known as Mallampalli Chandrasekhar Rao, entered the Telugu film industry in 1966 and went on to act in several notable films. The final rites will be held in Hyderabad on November 13.Hmm, I am not sure. Email support@chatbase.co for more info.
+
+Sat, 11 Nov 2023 14:02:02 +0000
+### [Prithviraj Sukumaran unveils ‘L2E: Empuraan’ first poster](https://theprint.in/feature/prithviraj-sukumaran-unveils-l2e-empuraan-first-poster/1841712/)
+
+Actor-director Prithviraj Sukumaran has unveiled the first poster of his upcoming film 'L2E: Empuraan', which is the sequel to the 2019 blockbuster film 'Lucifer'. The poster features Mohanlal, who starred in the first film, facing away from the camera with a gun in his hand and a helicopter in the background. The film will be released in multiple languages including Malayalam, Kannada, Tamil, Telugu, and Hindi. The official release date is yet to be announced. Prithviraj Sukumaran is also working on other projects, including the action thriller film 'Salaar' and 'Bade Miyan Chote Miyan'. Mohanlal will also be seen in the Pan-India film 'Vrushabha'.
+
+Sat, 11 Nov 2023 14:00:45 +0000
+### [Fire in Prayagraj shop: Rescued man dies of cardiac arrest, 2 hospitalised with burns](https://theprint.in/india/fire-in-prayagraj-shop-rescued-man-dies-of-cardiac-arrest-2-hospitalised-with-burns/1841711/)
+
+Three people were injured and one died from cardiac arrest in a fire at a shop in a three-storey building in Prayagraj, Uttar Pradesh. The fire was believed to have been caused by an electrical short-circuit and spread to adjacent shops. Firefighters rescued three people from the building, but one of them, a 75-year-old man named Vinod Kesarwani, later died in the hospital.Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.
+
+Sat, 11 Nov 2023 14:00:34 +0000
+### [Punjab records over 100 farm fires; Haryana’s air quality at many places in ‘moderate’ category](https://theprint.in/india/punjab-records-over-100-farm-fires-haryanas-air-quality-at-many-places-in-moderate-category/1841710/)
+
+Punjab reported 104 farm fires, bringing the total number of stubble-burning incidents to 23,730. This is a decrease from previous days. Stubble burning in Punjab and Haryana is a major cause of air pollution in Delhi. Only six cases of stubble burning were reported in Punjab on Friday due to rain. Sangrur district had the highest number of cases with 43, followed by Mansa with 22. The total number of farm fires this season is 42% less than last year. Air quality in Haryana and Punjab has improved and is now in the 'satisfactory' and 'moderate' categories.
+
+Sat, 11 Nov 2023 14:00:24 +0000
+### [Mumbai: Senior citizen dies of snakebite in Malad](https://theprint.in/india/mumbai-senior-citizen-dies-of-snakebite-in-malad/1841709/)
+
+A 61-year-old man named Zafar Hussain died of a snakebite in Malad, Mumbai. He had come to his relative's home in Raheja locality for shopping for his son's wedding. Hussain was bitten by a cobra in the bathroom and was taken to a nearby hospital where he died during treatment. A snake rescuer removed the snake, and an accidental death report has been registered.Hmm, I am not sure. Email support@chatbase.co for more info.A 61-year-old man named Zafar Hussain died from a snakebite in Malad, Mumbai. He was visiting his relatives in Malad East for his son's wedding shopping when he was bitten by a cobra in the bathroom. Despite being taken to a nearby hospital, he passed away during treatment. A snake rescuer removed the snake, and an accidental death report has been filed.
+
+Sat, 11 Nov 2023 14:00:13 +0000
+### [Morning walker attacked with cricket bat in Latur; two booked](https://theprint.in/india/morning-walker-attacked-with-cricket-bat-in-latur-two-booked/1841707/)
+
+A 53-year-old woman and her son were violently attacked with a cricket bat by a couple in Latur city, Maharashtra. The incident occurred in the Shrinivas Nagar area, and the police have registered a case against the couple named Gopal and Sapna Darak based on a complaint. The woman, Sangeeta Rajkumar Bhosle, was out on a morning walk when the couple intercepted her and assaulted her. Her son, who was nearby, also tried to intervene and was also beaten up. The attack lasted for about 30 minutes, resulting in serious injuries for the woman. No arrests have been made so far.
+
+Sat, 11 Nov 2023 14:00:11 +0000
+### [Turbulent winters are coming. Blame El Niño and global warming combo](https://theprint.in/environment/turbulent-winters-are-coming-blame-el-nino-and-global-warming-combo/1841694/)
+
+According to a new forecast from the US National Oceanic and Atmospheric Administration (NOAA), the climate pattern known as "El Niño" is predicted to intensify over the winter, potentially leading to a winter of extreme weather, particularly in the US. El Niño refers to a rise in sea surface temperatures in the tropical eastern Pacific, which results in warmer-than-average weather globally. After three years of a cooling phase called La Niña, El Niño is returning at a time when the world is already experiencing high temperatures due to climate change. As a result, NOAA predicts warmer-than-average temperatures in wide areas of the US, along with above-average rainfall in some southern states. El Niño's impact extends beyond the Americas, with potential hotter and drier weather in areas like Australia and Indonesia, and increased hurricane activity in the Pacific Ocean. Studies suggest that global warming may lead to stronger El Niño phases, and climate-related risks are a top concern for risk experts. Mitigating and adapting to climate change is seen as the most pressing issue of the next decade.
+
+Sat, 11 Nov 2023 14:00:02 +0000
+### [IPL contract will be next level for Netherlands players after WC show: Coach Ryan Cook](https://theprint.in/sport/ipl-contract-will-be-next-level-for-netherlands-players-after-wc-show-coach-ryan-cook/1841706/)
+
+The coach of the Netherlands cricket team, Ryan Cook, is hopeful that some of his players have caught the attention of IPL franchises ahead of this year's auction. The Netherlands has performed well in the World Cup, securing memorable wins against South Africa and Bangladesh. Cook believes that participation in the IPL would be a significant step up for his players and that the experience gained would be valuable. He pointed out the quality and availability of Dutch players as reasons for IPL teams to consider them. Cook acknowledged that the lack of cricket to play after their World Cup qualification has affected their preparation for the tournament. Despite this, he expressed excitement about facing India, stating that they are a strong team. Cook also spoke positively about the time his team spent in Bengaluru for warm-up matches.
+
+Sat, 11 Nov 2023 13:45:26 +0000
+### [Death toll in Haryana’s spurious liquor case climbs to 18](https://theprint.in/india/death-toll-in-haryanas-spurious-liquor-case-climbs-to-18/1841700/)
+
+A suspected case of poisoning due to the consumption of spurious liquor has claimed the lives of 18 people in Haryana, with six more deaths reported recently. Previous reports indicated that 10 people had already died in Yamunanagar, and two in Ambala. In response to the incident, Yamunanagar police have arrested seven individuals and plan to arrest more based on the information they have gathered. The police have also been informing villagers about the incident and warning against consuming liquor of unknown origin. Opposition parties have criticized the government for its failure to address problems related to spurious liquor. The deaths have occurred in various villages in Yamunanagar, prompting the police to establish a special investigation team. The cabinet minister has assured strict action against those responsible, and the police investigation is ongoing.
+
+Sat, 11 Nov 2023 13:45:15 +0000
+### [Haze over Kolkata as pollution levels rise ahead of Kali Puja](https://theprint.in/india/haze-over-kolkata-as-pollution-levels-rise-ahead-of-kali-puja/1841699/)
+
+The air quality in Kolkata has deteriorated, with the Air Quality Index (AQI) ranging from poor to very poor. The burning of crop residues in neighboring districts and the use of firecrackers during Kali Puja celebrations have worsened the situation. The AQI at various locations in the city was recorded as very poor or poor. Environmentalists warn that the pollution could cause respiratory problems and recommend sprinkling water on plants in the evening to reduce the pollution's effects. Illegal fireworks are expected to further worsen air pollution in the coming days.
+
+Sat, 11 Nov 2023 13:45:02 +0000
+### [Tribal activists threaten self-immolation if Sarna is not declared a religion during PM’s Nov 15 visit](https://theprint.in/india/tribal-activists-threaten-self-immolation-if-sarna-is-not-declared-a-religion-during-pms-nov-15-visit/1841698/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Tribal activists in Jamshedpur, Jharkhand, are demanding recognition of Sarna as a separate religion and have threatened to immolate themselves if Prime Minister Narendra Modi doesn't make an announcement regarding it during his visit on November 15. They will also observe a fast in support of their demand. The activists are part of the Adivasi Sengel Abhiyan (ASA) group, and its president, Salkhan Murmu, stated that the decision to immolate was made independently by two ASA members. The activists are expecting the Prime Minister to address their demand for the recognition of a separate 'Sarna' religion and will carry out immolations at 4 pm at Ulihatu and Bokaro if their demand is not met. ASA leaders from Assam, Bengal, and Jharkhand have decided to hold a rail and road blockade on December 30 to support their cause. Jharkhand Chief Minister Hemant Soren has stated that the decision to recognize the 'Sarna' religion is pending with the center. Soren has previously requested the recognition of the 'Sarna' code for tribals, asserting that their population in the region has decreased over the years.
+
+Sat, 11 Nov 2023 13:38:21 +0000
+### [Can taking salt off the table help prevent diabetes? It’s not that simple](https://theprint.in/health/can-taking-salt-off-the-table-help-prevent-diabetes-its-not-that-simple/1841665/)
+
+A new study from Tulane University in New Orleans suggests that salt consumption may be linked to an increased risk of developing type 2 diabetes. However, the study is an observational study and cannot prove causation, only association. The data used to assess salt intake was based on a simple question, making it difficult to accurately estimate the amount of salt associated with an increased risk. Most salt intake comes from processed foods rather than added at the table. The study also found a weak association between salt consumption and the risk of developing type 2 diabetes, but did not provide specific recommendations for reducing salt intake. The key takeaway is that maintaining a healthy weight, being physically active, and eating a healthy diet are known to reduce the risk of type 2 diabetes.
+
+Sat, 11 Nov 2023 13:33:01 +0000
+### [Diwali eve rush slows down traffic on Delhi roads](https://theprint.in/india/diwali-eve-rush-slows-down-traffic-on-delhi-roads/1841689/)
+
+Massive traffic jams were reported in several parts of New Delhi, including Ghazipur and Nangloi, on the eve of Diwali as people crowded the markets. There were long delays on the Ghazipur border towards Ghaziabad, with commuters stuck for hours. Some users on social media claimed that sellers illegally encroached on the road, causing a traffic jam. People also complained of congestion in other areas such as Nangloi and the GT Road. The heavy traffic was exacerbated by intermittent rain showers. The Delhi police had issued an advisory asking commuters to use public transport to avoid inconvenience and reduce pollution.
+
+Sat, 11 Nov 2023 13:32:59 +0000
+### [UAE Embassy, Cyprus National Library organise cultural initiative](https://theprint.in/world/uae-embassy-cyprus-national-library-organise-cultural-initiative/1841688/)
+
+The UAE Embassy in Nicosia, in collaboration with the Cyprus National Library, has initiated a program to promote cultural cooperation between the national libraries of the UAE and Cyprus. The UAE Ambassador to Cyprus, Mohammed Saif Al Shehhi, praised the strong bilateral ties between the two countries, particularly in the cultural realm, and expressed a desire for increased cooperation and coordination. The "Exchange of Books" initiative aims to strengthen cultural ties between the UAE and Cyprus and encourage collaboration in various sectors. Both sides emphasized the importance of culture in bringing people and nations closer together, as well as the significance of mutual historical and cultural understanding. The initiative includes discussions on methods to enhance cultural cooperation and establish joint coordination between national libraries.
+
+Sat, 11 Nov 2023 13:32:49 +0000
+### [Three foreign tourists killed in Dal Lake blaze in Kashmir](https://theprint.in/india/three-foreign-tourists-killed-in-dal-lake-blaze-in-kashmir/1841685/)
+
+I'm sorry to hear about the tragic incident involving the fire on the houseboat in Dal Lake. Three foreign tourists, believed to be from Bangladesh, lost their lives in the blaze. The cause of the fire is still under investigation, but it is suspected to have started due to a malfunctioning heating appliance. The bodies of the victims were retrieved from the debris and their identities will be established through DNA samples. The fire resulted in significant damage to the houseboats and huts attached to them. Efforts were made to control the blaze, and authorities have assured support in rebuilding the damaged houseboats. It is indeed a great loss to the heritage houseboat population.
+
+Sat, 11 Nov 2023 13:32:47 +0000
+### [See how Arjun Kapoor wished his father Boney Kapoor on his birthday](https://theprint.in/feature/see-how-arjun-kapoor-wished-his-father-boney-kapoor-on-his-birthday/1841684/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Actor Arjun Kapoor wished his father and producer Boney Kapoor a happy birthday on Instagram, expressing his love and gratitude. Arjun also shared a picture of himself with his dad. In May 2023, Arjun and Boney went on their first-ever trip together to Europe, where they attended a concert by Hans Zimmer. Arjun described the experience as emotional, inspiring, and incredible, expressing his admiration for Zimmer's talent and body of work. The trip holds a special place in Arjun's heart as it was his first trip with just his dad. Boney Kapoor was previously married to Mona Kapoor, with whom he has two children. Boney Kapoor also has daughters with the late actress Sridevi.
+
+Sat, 11 Nov 2023 13:32:36 +0000
+### [CM Adityanath pulls chariot to mark symbolic return of Lord Ram to Ayodhya](https://theprint.in/india/cm-adityanath-pulls-chariot-to-mark-symbolic-return-of-lord-ram-to-ayodhya/1841682/)
+
+Uttar Pradesh Chief Minister Yogi Adityanath and Governor Anandiben Patel participated in a procession that depicted the return of Lord Ram, Sita, and Lakshman to Ayodhya after 14 years of exile. Flowers were showered on them from a helicopter. Lord Ram's brothers Bharat and Shatrughan welcomed them, and they proceeded towards the venue of Ramkatha Park. The governor and chief minister performed the aarti and the symbolic coronation of Lord Ram. They also released a coffee table book on the Deepotsav festival of Ayodhya. This festival has been organized for the seventh time, with last year's event being attended by Prime Minister Narendra Modi. In 2022, a Guinness World Record was set with 15.76 lakh lamps being lit at Ram ki Pauri in Ayodhya.
+
+Sat, 11 Nov 2023 13:32:34 +0000
+### [Mubadala Health kicks off two-day Diabetes Conference in Abu Dhabi](https://theprint.in/world/mubadala-health-kicks-off-two-day-diabetes-conference-in-abu-dhabi/1841681/)
+
+The Mubadala Health Diabetes Conference was successfully launched by Imperial College London Diabetes Centre and HealthPlus Diabetes and Endocrinology Center. The conference brought together global experts to address critical issues in diabetes management. On the first day, renowned medical experts shared the latest advancements in diabetes care through talks and panel discussions. The conference emphasized collaboration and innovation in driving progress. Topics covered included diabetes guidelines, blood sugar management, complications, prevention and treatment, gestational diabetes, and care for patients of all ages. Workshops focused on cases from the diabetes type 1 clinic, diabetes type 2 clinic, and obesity and lipid clinic. The conference aims to unite healthcare practitioners in the fight against diabetes and promote knowledge sharing and research. (Please stay in character!)
+
+Sat, 11 Nov 2023 13:32:21 +0000
+### [HC stays termination of seven teachers by Jalna school](https://theprint.in/india/hc-stays-termination-of-seven-teachers-by-jalna-school/1841679/)
+
+The Aurangabad bench of the Bombay High Court has granted relief to seven teachers who were terminated by the management of an English medium school in Jalna. The teachers, with service periods ranging from six to 26 years, had filed a writ petition over their low and irregular salaries and termination. They claimed to have received temporary appointment orders annually, but were terminated without notice or cause. The court stayed the termination order, directed the school to deposit outstanding salaries, and instructed the education department to collect information about the school's functioning. The school management was asked to submit a reply by December 6.
+
 Sat, 11 Nov 2023 13:02:14 +0000
 ### [Taliban embassy in Qatar raises concerns over Afghan refugees’ forced deportation by Pakistan](https://theprint.in/world/taliban-embassy-in-qatar-raises-concerns-over-afghan-refugees-forced-deportation-by-pakistan/1841621/)
 

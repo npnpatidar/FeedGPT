@@ -1,3 +1,9 @@
+Sat, 11 Nov 2023 19:07:30 +0530
+### [Last Day of Flipkart Diwali Sale! Deals on iPhone 14, Nothing Phone (2) and other smartphones you shouldn't miss](https://www.livemint.com/technology/gadgets/last-day-of-flipkart-diwali-sale-deals-on-iphone-14-nothing-phone-2-and-other-smartphones-you-shouldnt-miss-11699709597845.html)
+
+Article found but Couldn't summarize 
+Check out the Apple iPhone 14, Samsung Galaxy S23 Ultra 5G, Nothing Phone (2), and Oppo Find N3 Flip for the best deals on premium smartphones.
+
 Sat, 11 Nov 2023 13:43:41 +0530
 ### [Google Chrome starts rolling out Material You redesign; here is everything new](https://www.livemint.com/technology/tech-news/google-chrome-starts-rolling-out-material-you-redesign-here-is-everything-new-11699689772356.html)
 
@@ -103,8 +109,13 @@ Apple releases iOS 17.2 beta 2 to developers, offering spatial video recording, 
 Fri, 10 Nov 2023 10:32:31 +0530
 ### [Garena Free Fire Max redeem codes for Nov 10, 2023: Grab daily exciting gifts](https://www.livemint.com/technology/tech-news/garena-free-fire-max-redeem-codes-for-nov-10-2023-grab-daily-exciting-gifts-11699592359521.html)
 
-Article found but Couldn't summarize 
-Garena Free Fire Max redeem codes can be used to win in-game items like weapons, diamonds, skins and more.
+Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses Garena Free Fire Max redeem codes, which can be used to obtain in-game items such as weapons, diamonds, and skins. These codes are 12-digit alphanumeric combinations that consist of capital letters and numbers. Garena Free Fire Max is a revamped version of Garena Free Fire that gained popularity after the ban of the former by the Indian government. The developers regularly update these codes, and players can visit a dedicated microsite to redeem them.
+
+By redeeming these codes, players have the chance to win various in-game rewards like Rebel Academy Weapon Loot Crate, Revolt Weapon Loot Crate, Diamonds Voucher, and Fire Head Hunting Parachute. However, it's important to note that these codes are only available for a limited time (up to 12 hours) and for the first 500 users. Users are encouraged to redeem the codes quickly before they expire.
+
+The article also provides a list of specific codes that were valid on November 10, 2023. It then guides players on how to redeem the Garena Free Fire Max codes. Players need to visit the game's official Rewards Redemption site, log in using their social media accounts, copy and paste the codes into the text box, and click on Confirm. The rewards will be delivered through the in-game mail section, and gold or diamonds will automatically be added to the account wallet. Players can then access the game vault to exchange the redeemed codes for gold and diamonds or use them to purchase various in-game items.
+
+Additionally, the article briefly mentions that Livemint is the fastest growing news website globally and encourages readers to explore premium stories and download the Mint News App for daily market updates and live business news.
 
 Fri, 10 Nov 2023 10:23:05 +0530
 ### [ChatGPT CEO Sam Altman takes a jibe at Elon Musk’s AI chatbot Grok; netizens react with memes, jokes](https://www.livemint.com/technology/tech-news/chatgpt-ceo-sam-altman-takes-a-jibe-at-elon-musk-s-ai-chatbot-grok-netizens-react-with-memes-jokes-11699591131627.html)
