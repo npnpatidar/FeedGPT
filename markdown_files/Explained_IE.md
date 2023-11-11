@@ -1,3 +1,18 @@
+Sat, 11 Nov 2023 09:18:31 +0000
+### [Tonight, the spirits descend on earth: Ahead of Diwali, celebrating Bhoot Chaturdashi in India](https://indianexpress.com/article/explained/explained-culture/diwali-bhoot-chaturdashi-narakasura-9022815/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Diwali, the festival of lights and the celebration of Lord Ram's return to Ayodhya, is associated with various traditions and rituals across India. The day before Diwali, known as Chhoti Diwali or Bhoot/Naraka Chaturdashi, holds significance in different regions. In Goa, effigies of the demon king Narakasura are burned to symbolize his defeat by Lord Krishna. This tradition gained prominence after Goa was liberated from Portuguese rule.
+
+In West Bengal, on the day before Diwali, people observe Bhoot Chaturdashi, where it is believed that the souls of deceased ancestors visit their living relatives. To welcome them and ward off evil spirits, 14 oil lamps are placed in houses, and 14 different types of leafy vegetables are consumed.
+
+In some places, Aghoris, Shaivite ascetics, perform puja and Tantric rituals on Bhoot Chaturdashi, often in cremation grounds. They may collect bones for use in their rituals. 
+
+In Gujarat, on Kali Chaudash (the day before Diwali), a ritual called "kaklat kadhvo" takes place. Women offer fried snacks made from black gram flour to the souls of those who died unnatural deaths. The belief is that by performing this ritual, clamor and troubles will be eliminated.
+
+On Bestu Varsh, the Gujarati New Year celebrated after Diwali, women perform Alas Kadhvi. They clean the house and dispose of household garbage outside the village while clanking an earthen pot, symbolizing the arrival of Goddess Lakshmi.
+
+Gujarati businesses close their financial year and perform Chopda Poojan, worshipping traditional account books on Diwali. No business transactions occur until Labh Paacham, the fifth day of the new year, which is considered auspicious for opening new account books and launching new businesses.
+
 Sat, 11 Nov 2023 01:43:42 +0000
 ### [Can go all the way to Amarnath shrine by car, says BRO — here’s how](https://indianexpress.com/article/explained/can-go-all-the-way-to-amarnath-shrine-by-car-says-bro-heres-how-9022265/)
 

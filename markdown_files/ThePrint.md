@@ -1,3 +1,123 @@
+Sat, 11 Nov 2023 10:02:03 +0000
+### [Study gives more insight into bacterium’s protective role in chronic rhinosinusitis](https://theprint.in/science/study-gives-more-insight-into-bacteriums-protective-role-in-chronic-rhinosinusitis/1841441/)
+
+The prevalence of chronic rhinosinusitis (CRS) has been increasing in Japan and around the world. CRS is an inflammatory condition that causes symptoms like nasal congestion, discharge, trouble breathing, face pain, and loss of smell. Treating CRS is challenging because it presents in various ways. There are two categories: eosinophilic (ECRS) and non-eosinophilic (non-ECRS) CRS. ECRS is associated with higher levels of eosinophils, a type of white blood cell that releases pro-inflammatory substances, in the nasal and sinus tissues.
+
+The rise in CRS is influenced by environmental factors, which in turn are affected by lifestyle changes. The role of the nasal microbiome in the development of ECRS has not been clear. To address this, a research team from the University of Fukui conducted a study on CRS in a Japanese population, specifically focusing on the nasal microbiome. They collected nasal swabs from 143 subjects, including those with ECRS, non-ECRS, and healthy controls.
+
+The researchers found significant differences in the microbiome diversity between the CRS and control groups, indicating the involvement of the nasal microbiome in the disease. Additionally, they observed distinct microbiome compositions between the ECRS and non-ECRS groups. The bacterium Fusobacterium nucleatum (F nucleatum) was found to be less abundant in patients with ECRS. Metagenomic analyses showed that lipopolysaccharide (LPS) synthesis was greater in patients with non-ECRS compared to ECRS.
+
+Based on these findings, the researchers speculated that LPS produced by F nucleatum may be linked to the pathogenesis of both ECRS and non-ECRS. Further experiments demonstrated that LPS derived from F nucleatum suppressed the expression of ALOX15, an enzyme involved in nasal polyps and eosinophil-related inflammation.
+
+The study concludes that disruptions in the nasal microbiome likely play a crucial role in ECRS. Understanding this could lead to the development of more effective strategies for treating CRS. The researchers believe that the microbiome may also have an impact on other allergic diseases and suggest future studies for probiotic development and lifestyle modifications to prevent chronic sinusitis.
+
+Sat, 11 Nov 2023 10:01:42 +0000
+### [Rajasthan: Remote Shergaon village to have polling station for first time](https://theprint.in/india/rajasthan-remote-shergaon-village-to-have-polling-station-for-first-time/1841440/)
+
+GPT-3.5: In a recent development, voters of Shergaon in the Abu-Pindwara Assembly constituency will now have the opportunity to vote in their own village for the first time. The Election Commission has made arrangements to set up polling stations in inaccessible hilly areas and remote, sparsely populated areas to ensure easy and inclusive voting. To reach the polling station in Shergaon, the polling party will walk approximately 18 kilometers through dense forests with the assistance of forest guards. This initiative aims to enhance accessibility and convenience for the voters.
+
+Sat, 11 Nov 2023 10:01:09 +0000
+### [Cricket-Eliminated England bat against Pakistan in final World Cup match](https://theprint.in/sport/cricket-eliminated-england-bat-against-pakistan-in-final-world-cup-match/1841438/)
+
+England captain Jos Buttler won the toss and chose to bat against Pakistan in their final group match at the 50-overs World Cup. England, who have already been eliminated, are unchanged, while Pakistan made a change, bringing in spin all-rounder Shadab Khan. Pakistan captain Babar Azam expressed excitement about opener Fakhar Zaman's form and said they will try their best. India, South Africa, and Australia have already made it to the semi-finals, with New Zealand likely to join them. This article was reported by Amlan Chakraborty and edited by Robert Birsel for Reuters.
+
+Sat, 11 Nov 2023 10:01:08 +0000
+### [Pleasant surprise for tourists as Kashmir witness early snowfall](https://theprint.in/india/pleasant-surprise-for-tourists-as-kashmir-witness-early-snowfall/1841437/)
+
+Early snowfall in Gulmarg and other areas of Kashmir has led to a boost in tourism, as visitors flocked to the valley to witness the picturesque views. Tourists who had come to see the falling crimson Chinar leaves during Autumn were pleasantly surprised by the early snowfall, which transformed Gulmarg into a white wonderland. Excited tourists engaged in building snow structures, sliding, skating, and capturing photos of the snow-covered mountains. Many of them expressed their awe and described Kashmir as heaven on earth. The hospitality of the locals and the exquisite Kashmiri food also garnered praise from the visitors. Local travel trade professionals anticipate an increase in business this winter due to the positive word-of-mouth publicity generated by the early snowfall.
+
+Sat, 11 Nov 2023 10:00:35 +0000
+### [Russia renews missile attacks on Kyiv, pounds Ukraine’s east and south](https://theprint.in/world/russia-renews-missile-attacks-on-kyiv-pounds-ukraines-east-and-south/1841436/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Russia launched a missile attack on Ukraine's capital, Kyiv, and the surrounding region for the first time in weeks. The missile was shot down by Ukrainian air defenders before reaching the capital, causing no casualties or major damage. Additionally, Ukrainian air defenders shot down 19 Iranian-made drones launched by Russian forces in an overnight attack on southern and eastern regions. The attacks have also targeted Ukraine's ports and grain infrastructure since July.
+
+Sat, 11 Nov 2023 10:00:34 +0000
+### [Fire at Chandni Chowk](https://theprint.in/india/fire-at-chandni-chowk/1841435/)
+
+A fire broke out in a multi-storied building in Kolkata's Chandni Chowk area. The fire department was able to extinguish the blaze after about an hour and no injuries were reported. Four fire tenders were used to control the fire, which started at around 10:25 am. The cause of the fire is still unknown. Chandni Chowk is a congested area in the heart of the city. This report is auto-generated and ThePrint holds no responsibility for its content.Hmm, I am not sure. Email support@chatbase.co for more info.
+
+Sat, 11 Nov 2023 10:00:04 +0000
+### [Riyadh hosts Islamic-Arab summit to push for Gaza war end](https://theprint.in/world/riyadh-hosts-islamic-arab-summit-to-push-for-gaza-war-end/1841434/)
+
+Saudi Arabia is hosting an extraordinary joint Islamic-Arab summit in Riyadh, gathering Arab and Muslim leaders to address the conflict in Gaza. The summit is expected to strongly condemn Israel's campaign in Gaza and call for an end to the forced displacement of Palestinians. Iranian President Ebrahim Raisi, who is attending the summit, emphasized the need for action rather than words in resolving the conflict. Saudi Crown Prince Mohammed bin Salman condemned the military assault on Gaza and the violations of international law by Israeli authorities. The war in Gaza has strained Middle East alliances, with Saudi Arabia engaging more closely with Iran and delaying plans to normalize ties with Israel. The summit replaces two separate gatherings and aims to unify efforts and establish a collective position on the Gaza situation. Arab foreign ministers were divided on whether to cut diplomatic ties with Israel, with some countries advocating for maintaining open channels with the Israeli government.
+
+Sat, 11 Nov 2023 10:00:03 +0000
+### [Joe Biden to meet with Xi Jinping – what a good result looks like for the US president](https://theprint.in/world/joe-biden-to-meet-with-xi-jinping-what-a-good-result-looks-like-for-the-us-president/1841433/)
+
+As GPT-3.5, I can provide a summary of the article you shared. US President Joe Biden is expected to meet with China's leader, Xi Jinping, during the Asia-Pacific Economic Cooperation (APEC) conference in San Francisco. This meeting holds significance as the two leaders have not met since the G20 in 2022 and have disagreements on global conflicts, including the Ukraine war. Biden's relationship with Xi is strained, and topics such as China's position on Taiwan, the Russian invasion of Ukraine, and the US-China trade relationship are expected to be on the agenda. The US-China relationship may have an impact on the 2024 US presidential election, with a majority of Americans having a negative view of China. Biden aims to curb China's economic growth and limit its diplomatic influence while maintaining US geopolitical dominance. The meeting may also involve discussions on AI, military dialogue, and the possibility of China restricting the supply of chemicals used to make fentanyl. The expectations of the meeting have not been outlined by either side, but it is seen as a catalyst for further negotiations.
+
+Sat, 11 Nov 2023 09:48:23 +0000
+### [Study reveals how poetry help people deal with feelings of loneliness](https://theprint.in/science/study-reveals-how-poetry-help-people-deal-with-feelings-of-loneliness/1841429/)
+
+A study funded by the Arts and Humanities Research Council found that reading, writing, and sharing poetry can help individuals manage feelings of isolation, loneliness, anxiety, and hopelessness. The study, conducted by the University of Plymouth and Nottingham Trent University, involved 400 participants who used the website poetryandcovid.com to engage with poetry during the COVID-19 pandemic. Over half of the respondents stated that poetry helped them cope with loneliness or isolation, while around 50% reported it helped with anxiety and sadness. The study revealed that poetry had a positive impact on the well-being of participants, offering support during difficult times. The website also served as an archive for how people used poetry to navigate the crisis. More than 100,000 visitors from 128 countries accessed the site, showcasing over 1,000 poems by more than 600 authors. The study emphasizes the power of poetry in providing creative outlets and fostering connections among individuals, potentially benefiting mental health and overall well-being.
+
+Sat, 11 Nov 2023 09:48:10 +0000
+### [ILO endorses establishment of Global Coalition for Social Justice](https://theprint.in/world/ilo-endorses-establishment-of-global-coalition-for-social-justice/1841427/)
+
+The International Labour Organisation's (ILO) Governing Body has concluded its 349th Session by endorsing the establishment of a Global Coalition for Social Justice. This coalition aims to generate political commitments and investments, promote concrete actions for social justice and decent work, and increase multilateral cooperation and partnerships. It will play a key role in advocating for social justice in the multilateral agenda, particularly at the UN Summit of the Future in 2024 and the proposed UN World Social Summit in 2025.
+
+Sat, 11 Nov 2023 09:47:56 +0000
+### [Do you know lung cancer screening significantly improves long-term survival? Study finds](https://theprint.in/health/do-you-know-lung-cancer-screening-significantly-improves-long-term-survival-study-finds/1841425/)
+
+A recent study published in Radiology found that low-dose computed tomography (CT) screening can significantly increase the cure rate for early-stage lung cancer over a 20-year period. The study revealed that individuals who received a CT screening-based diagnosis of lung cancer had an estimated 81% survival rate after 20 years. Among those diagnosed, 81% had stage I illness, and 87% of them had an 87% long-term survival rate. The study emphasized the importance of routine early screening, as only 21% of lung cancers are currently diagnosed at an early stage in the United States. Additionally, the study highlighted that symptoms mainly occur in late-stage lung cancer, making early screening crucial. The U.S. Preventive Services Task Force recommends annual lung cancer screening with low-dose CT for adults aged 50 to 80 with a 20-pack-year smoking history. The researchers involved in the study have been studying the effectiveness of CT screening for lung cancer detection for years, and the study builds upon their previous research.
+
+Sat, 11 Nov 2023 09:47:42 +0000
+### [UAE Foreign Minister Abdullah bin Zayed receives Federal Minister for Foreign Affairs of Germany](https://theprint.in/world/uae-foreign-minister-abdullah-bin-zayed-receives-federal-minister-for-foreign-affairs-of-germany/1841423/)
+
+Sheikh Abdullah bin Zayed Al Nahyan, the UAE's Minister of Foreign Affairs, met with Annalena Baerbock, Germany's Federal Minister for Foreign Affairs, to discuss developments in the Middle East region and their security and humanitarian consequences. They reviewed efforts to de-escalate tensions and deliver humanitarian aid to civilians in a safe and sustainable manner. Sheikh Abdullah emphasized the importance of protecting civilians and enhancing humanitarian response, while also highlighting the need to end extremism and violence in the region. The two officials also discussed bilateral cooperation and joint efforts in various sectors, including the economy, trade, investment, food security, technology, and climate, ahead of the UN Climate Change Conference. The meeting was attended by the UAE's Minister of Climate Change and the Environment.
+
+Sat, 11 Nov 2023 09:47:29 +0000
+### [Sidharth, Kiara arrive in Delhi to celebrate their first Diwali post wedding](https://theprint.in/feature/sidharth-kiara-arrive-in-delhi-to-celebrate-their-first-diwali-post-wedding/1841421/)
+
+Actors Sidharth Malhotra and Kiara Advani have arrived in Delhi to celebrate Diwali with their family. They were spotted at the Delhi airport along with Kiara's parents. The couple looked happy as they smiled for the paparazzi. Kiara wore a pink pastel suit while Sidharth sported a check shirt with white t-shirt and blue cargo pants. Fans are excited to see Kiara celebrating Diwali with her in-laws. Sidharth and Kiara got married in February 2023 after falling in love during the shoot of their film 'Shershaah'. They confirmed their relationship during an episode of 'Koffee with Karan'. On the work front, Sidharth will be seen in the film 'Yodha' and his digital debut in the web series 'Indian Police Force'. Kiara recently walked the ramp at Lakme Fashion Week 2023 and will be seen in the film 'Game Changer' alongside Ram Charan and an action thriller film 'War 2' with Hrithik Roshan and Jr NTR.
+
+Sat, 11 Nov 2023 09:47:18 +0000
+### [Protesters outside European Parliament raise chants on abuse of blasphemy laws in Pakistan](https://theprint.in/world/protesters-outside-european-parliament-raise-chants-on-abuse-of-blasphemy-laws-in-pakistan/1841419/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The European Pakistani Christian Action Committee held a protest outside the European Parliament, highlighting various issues faced by religious minorities in Pakistan. They raised concerns about the abuse of blasphemy laws, a culture of impunity, discrimination, incitement of violence, coerced faith conversions, and forced child marriages of Christian and Hindu girls. The protesters called on the European Union to encourage Pakistan to adhere to human rights obligations under the Generalized System of Preferences (GSP) Plus status. They demanded reforms in the Pakistani legal system, including amendments to blasphemy laws and the introduction of laws criminalizing coerced faith conversion. A member of the European Parliament, Charlie Weimers, attended the protest and condemned forced conversions and child marriages. The protest also emphasized Pakistan's responsibility as a beneficiary of the GSP Plus mechanism to improve freedom of expression and religion. The protesters criticized the Pakistani government for its handling of blasphemy laws, specifically mentioning the case of Anwar Kenneth, a Christian man sentenced to death under blasphemy charges. They called for his immediate acquittal and release without any conditions. Pastors at the protest expressed the need for tangible changes to make Pakistan safer for religious minorities, and they hope the EU will leverage its influence to bring about this change.
+
+Sat, 11 Nov 2023 09:47:02 +0000
+### [COP28 aims to bolster climate action, reinforcing Paris Agreement as a global cornerstone](https://theprint.in/world/cop28-aims-to-bolster-climate-action-reinforcing-paris-agreement-as-a-global-cornerstone/1841417/)
+
+The article discusses the impact of heatwaves that occurred in July and August of the previous year, causing widespread disruptions such as forest fires, water and food shortages, and hurricanes resulting in numerous deaths. The global momentum for addressing climate change is increasing, and world leaders will discuss effective solutions at COP28, which will be held in Dubai from November 30 to December 12. The conference marks a turning point after the Paris Agreement (COP21) in 2015, where countries committed to limiting global warming below 2 degrees Celsius and making efforts to stay below 1.5 degrees Celsius.
+
+The Paris Agreement focuses on reducing greenhouse gas emissions, adapting to climate change, mitigating environmental impacts, and promoting technology transfer and adaptation to carbon-free economies. The agreement's provisions include two review processes until 2025. It entered into force in 2016 after being signed by 195 countries and ratified by 191 out of 197 countries.
+
+COP28 will initiate the first global stocktake of progress made in implementing the goals of the Paris Agreement, measuring countries' efforts to keep temperature rise below 1.5 degrees Celsius. The United Nations emphasizes the need to recalibrate the course due to the significant increase in global temperatures. UN Secretary-General Antonio Guterres acknowledges the challenges faced by developing countries in responding to climate change and calls for funding support.
+
+Air pollution's detrimental impact on health, especially in low- and middle-income countries, is highlighted by the World Health Organisation (WHO). WHO issued new Air Quality Guidelines, emphasizing the need to reduce suffering and save lives through improved air quality.
+
+Fossil fuels are identified as the largest contributor to climate change, accounting for over 75% of greenhouse gas emissions and around 90% of carbon dioxide emissions. To address the climate challenge, emissions must be reduced by nearly half by 2030 and reach zero by 2050. The UN emphasizes the importance of transitioning from fossil fuels to clean, accessible, and sustainable sources of energy.
+
+Renewable energy sources, such as solar, wind, water, waste, and geothermal energy, are highlighted as effective alternatives to fossil fuels. While cleaner energy sources are gaining ground, fossil fuels still dominate global energy production with over 80% contribution.
+
+Overall, the article emphasizes the need for urgent action to address climate change, particularly in light of recent extreme weather events and their devastating consequences.
+
+Sat, 11 Nov 2023 09:45:56 +0000
+### [Mufti Sayeed’s mausoleum locked ahead of Azad’s visit](https://theprint.in/india/mufti-sayeeds-mausoleum-locked-ahead-of-azads-visit/1841416/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The entrance to the mausoleum of former Jammu and Kashmir Chief Minister Mufti Mohammad Sayeed was locked, preventing DPAP leader Ghulam Nabi Azad from visiting the grave. Azad and other leaders had to offer a special prayer for Sayeed from outside the fencing of the mausoleum. The DPAP leader expressed surprise that while the door was open for BJP leader Ravinder Raina, it was locked for Azad. It is unknown who locked the door of the mausoleum. The incident occurred during a workers' meet of Azad's party in Bijbehara.
+
+Sat, 11 Nov 2023 09:45:41 +0000
+### [Ahead of Deepotsav, cultural procession taken out in Ayodhya](https://theprint.in/india/ahead-of-deepotsav-cultural-procession-taken-out-in-ayodhya/1841415/)
+
+A procession was held in Ayodhya, Uttar Pradesh, ahead of the seventh Deepotsav celebration on the eve of Diwali. The procession featured 18 tableaux with themes related to the Ramayana, the Ramcharitmanas, and various social issues. It started from Udaya Square, passing through different parts of the city before reaching Ram Katha Park. The tableaux were made by the state's tourism and information departments and focused on topics such as children's rights, women's safety, self-reliance, environmental protection, and government initiatives. The Deepotsav event will involve lighting 24 lakh diyas on Ram ki Pairi and a light-and-sound show. Chief Minister Yogi Adityanath will perform Lord Ram's coronation, and diplomats from 50 major countries are expected to be present. The Deepotsav tradition began in Ayodhya in 2017 and has set Guinness World Records for lighting diyas over the years. The construction of the Ram temple in Ayodhya adds to the significance of this year's event.
+
+Sat, 11 Nov 2023 09:45:28 +0000
+### [Wild jumbo tramples man to death in Kerala](https://theprint.in/india/wild-jumbo-tramples-man-to-death-in-kerala/1841414/)
+
+A 70-year-old man from Tamil Nadu was trampled to death by a stray wild elephant while visiting his daughter in Attappady, Kerala. The incident occurred when the man was sleeping in a shed near the forest. The police suspect that he may have been attacked while answering nature's call. Although he was taken to a nearby hospital, he was declared dead upon arrival. The area has been known to be plagued by wild elephant encounters.A 70-year-old man visiting his daughter in northern Kerala was tragically trampled to death by a stray wild elephant. The incident occurred while the man was sleeping in a shed near the forest. It is suspected that he went out to answer nature's call when the elephant attacked him. Despite being taken to a nearby hospital, he was declared dead upon arrival. The area is known for experiencing problems with wild elephants.
+
+Sat, 11 Nov 2023 09:45:15 +0000
+### [IHCL opens doors of third Taj property in the metropolis](https://theprint.in/economy/ihcl-opens-doors-of-third-taj-property-in-the-metropolis/1841413/)
+
+Indian Hotels Company Limited (IHCL), a leading hospitality chain of the Tata group, has announced the opening of a new luxury hotel in Kolkata called Taj Taal Kutir. Developed by the Ambuja Neotia group at a cost of Rs 160 crore, the hotel has 75 rooms and an adjacent convention centre. IHCL aims to address the growing demands of emerging micro-markets in Kolkata with this new property. IHCL is also working with the West Bengal government to develop homestays in the state. The company plans to have a total of 325 properties by 2025-26, with a ratio of 50-50 owned and managed properties. The partnership between IHCL and Ambuja Neotia group is growing stronger with the opening of this new Taj property.
+
+Sat, 11 Nov 2023 09:45:03 +0000
+### [Modi has stopped infiltrators, abrogated Article 370 in J-K: Shah](https://theprint.in/india/modi-has-stopped-infiltrators-abrogated-article-370-in-j-k-shah/1841412/)
+
+Union Home Minister Amit Shah addressed a public meeting in Dhar district, Madhya Pradesh, ahead of the November 17 assembly elections. He praised Prime Minister Narendra Modi's government for having the courage to stop infiltrators in the country, claiming that neither the Congress nor the leaders of the opposition bloc INDIA can do so. Shah highlighted that it was the Modi government that abrogated Article 370 in Jammu and Kashmir, despite criticism from Congress leader Rahul Gandhi. He also accused the Congress of destroying the country's culture, while stating that the Modi government has nurtured and preserved it. Shah criticized the Congress in the state for stopping various welfare schemes during its 15-month tenure after the 2018 elections. He urged people to vote for the BJP and predicted that three Diwalis would be celebrated: the first on Sunday, the second on December 3 (when the assembly poll results will be announced), and the third on January 22 (the day of Lord Ram's consecration in Ayodhya).
+
 Sat, 11 Nov 2023 09:02:57 +0000
 ### [UAE as international talent hub offers further collaboration opportunities with Spain: Spanish minister](https://theprint.in/world/uae-as-international-talent-hub-offers-further-collaboration-opportunities-with-spain-spanish-minister/1841385/)
 

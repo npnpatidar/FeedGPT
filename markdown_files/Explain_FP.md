@@ -1,3 +1,8 @@
+Sat, 11 Nov 2023 14:42:24 +0530
+### [Why brand boycotts won't significantly affect the Israel-Hamas war](https://www.firstpost.com/explainers/why-brand-boycotts-wont-significantly-affect-the-israel-hamas-war-13370392.html)
+
+The article discusses the boycotts faced by McDonald's, Starbucks, and other western companies over the Gaza conflict. McDonald's faced backlash for providing free meals to the Israel Defense Forces, while Starbucks received boycott calls after expressing solidarity with Palestine. Several American companies, including KFC, Pizza Hut, Burger King, Coca-Cola, Pepsi, Wix, Puma, Google, and Amazon, are also being targeted for their support of Israel. UK retailer Marks & Spencer faced similar calls for running a commercial that resembled the Palestinian flag. Brands with Jewish roots like Danone, Dunkin Donuts, and Netflix have been targeted as well. The article also mentions historical boycotts related to the Middle East and highlights instances of successful and unsuccessful boycotts. It concludes that while the boycotts against American companies have raised awareness about Israel's treatment of Palestinians, they may not have a significant economic impact without coordinated international sanctions.
+
 Sat, 11 Nov 2023 13:19:55 +0530
 ### [How world’s oldest Christian community in Gaza is on brink of extinction](https://www.firstpost.com/explainers/how-worlds-oldest-christian-community-in-gaza-is-on-brink-of-extinction-13376282.html)
 

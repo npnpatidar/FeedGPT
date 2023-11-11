@@ -1,3 +1,9 @@
+2023-11-11T15:07:36+05:30
+### [Gujarat HC Puts on Hold Eviction Order Served on Ahmedabad's Historic Dargah](https://thewire.in/law/gujarat-hc-puts-on-hold-eviction-order-served-on-ahmedabads-historic-dargah)
+
+No Article text 
+The Hazrat Kalu Shaheed Dargah, which is over 500 years old, was asked by authorities on October 26 to remove the structure in 14 days to make way for 'redevelopment' of Kalupur railway station. The management of the shrine moved the court to challenge the notice, which deemed it as an 'unauthorised construction'.
+
 2023-11-11T14:00:56+05:30
 ### [‘Wasn't My Mother Your Ladli Behna?’](https://thewire.in/caste/wasnt-my-mother-your-ladli-behna-madhya-pradesh)
 
