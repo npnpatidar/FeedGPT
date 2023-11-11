@@ -1,3 +1,23 @@
+Sat, 11 Nov 2023 20:02:02 +0000
+### [Pakistan: PTI cancels rally in Karachi after district administration denies permission](https://theprint.in/world/pakistan-pti-cancels-rally-in-karachi-after-district-administration-denies-permission/1841856/)
+
+The Pakistan Tehreek-e-Insaf (PTI) has cancelled its public gathering in Karachi after the district administration denied permission. The PTI had approached relevant authorities to seek permission but their request was rejected. The party criticized the authorities' attitude towards them and stated that they were being denied a level-playing field. The PTI has moved the Sindh High Court to seek permission for a public gathering. The Election Commission of Pakistan has announced that general elections will be held on February 8, 2024, following a Supreme Court order.
+
+Sat, 11 Nov 2023 19:47:01 +0000
+### [Taliban criticises Pakistan’s decision to deport Afghan immigrants from country](https://theprint.in/world/taliban-criticises-pakistans-decision-to-deport-afghan-immigrants-from-country/1841854/)
+
+Pakistan's decision to deport Afghan immigrants has been criticized by Mohammad Arsala Kharoti, the Taliban-appointed deputy of Afghanistan's Ministry of Refugees and Repatriation. Kharoti stated that the decision was rushed and violated the rights of immigrants, calling on Pakistan to allow them to return voluntarily. He highlighted that approximately 300,000 Afghan refugees had returned to Kabul from neighboring countries, particularly Pakistan, in the past two weeks. Kharoti emphasized that more assistance should be provided to these returnees, as current support from the international community and organizations is insufficient. Additionally, Jan Achakzai, Balochistan's caretaker information minister, claimed that the Pakistani government would take similar actions against those residing without legal documents in the country.
+
+Sat, 11 Nov 2023 19:32:02 +0000
+### [US accomplice in Israel ‘crimes’: Iranian President Ebrahim Raisi](https://theprint.in/world/us-accomplice-in-israel-crimes-iranian-president-ebrahim-raisi/1841852/)
+
+Iranian President Ebrahim Raisi accused the US government of being the "main perpetrator" and "accomplice" in the conflict between Israel and Hamas. He criticized the US for supporting Israel and providing it with weapons, claiming that Israel has dropped bombs equivalent to seven atomic bombs in Gaza. Raisi made these remarks at the Arab Islamic Summit in Riyadh, where he called on attendees to "save the Palestinians." This summit was hosted by Saudi Arabia in response to the ongoing situation in Gaza. This marks the first visit by an Iranian leader to Saudi Arabia in 11 years, following the restoration of diplomatic relations between the two countries in March.
+
+Sat, 11 Nov 2023 19:15:03 +0000
+### [BSF jawans celebrate Diwali with Seema Jan Kalyan Samiti in Arnia](https://theprint.in/india/bsf-jawans-celebrate-diwali-with-seema-jan-kalyan-samiti-in-arnia/1841851/)
+
+BSF jawans stationed at the International Border in Arnia sector of Jammu district celebrated Diwali with members of Seema Jan Kalyan Samiti (SJKS) despite heightened tensions caused by recent ceasefire violations. The troops gathered at Vikram post in Arnia to light diyas and candles and offer flowers to Mata Lakshmi. The SJKS member expressed gratitude towards the jawans for their border guarding duties which allow people to celebrate Diwali safely at home. The article mentions several incidents of ceasefire violations by Pakistan Rangers, resulting in injuries and fatalities among BSF personnel.
+
 Sat, 11 Nov 2023 19:02:01 +0000
 ### [Pakistan: 3 minor siblings suffocate to death after accidentally locking themselves inside trunk in Rawalpindi](https://theprint.in/world/pakistan-3-minor-siblings-suffocate-to-death-after-accidentally-locking-themselves-inside-trunk-in-rawalpindi/1841849/)
 
