@@ -1,3 +1,9 @@
+Sat, 11 Nov 2023 18:23:53 +0530
+### [Development, demographic changes around ‘Great Bend’ of Brahmaputra: Chinese obsession, India’s nightmare](https://www.firstpost.com/opinion/development-demographic-changes-around-great-bend-of-brahmaputra-dream-for-china-nightmare-for-india-13378122.html)
+
+Article found but Couldn't summarize 
+Development, demographic changes around ‘Great Bend’ of Brahmaputra: Chinese obsession, India’s nightmare
+
 Sat, 11 Nov 2023 16:05:11 +0530
 ### [The invisible silenced women amidst Muslim extremism](https://www.firstpost.com/opinion/the-invisible-silenced-women-amidst-muslim-extremism-13377632.html)
 
