@@ -1,3 +1,9 @@
+2023-11-11T14:00:56+05:30
+### [‘Wasn't My Mother Your Ladli Behna?’](https://thewire.in/caste/wasnt-my-mother-your-ladli-behna-madhya-pradesh)
+
+No Article text 
+A brutal case of assault on a Dalit family and the alleged involvement of BJP members, brings focus on a simmering problem of both Dalit safety and the safety of women in Madhya Pradesh. The state will vote to choose a new government this month.
+
 2023-11-11T12:20:25+05:30
 ### [Remembering Maulana Abul Kalam Azad: A Scholar, Patriot and Builder of Modern India](https://thewire.in/history/remembering-maulana-abul-kalam-azad-a-scholar-patriot-and-builder-of-modern-india)
 

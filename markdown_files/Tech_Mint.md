@@ -1,3 +1,8 @@
+Sat, 11 Nov 2023 13:43:41 +0530
+### [Google Chrome starts rolling out Material You redesign; here is everything new](https://www.livemint.com/technology/tech-news/google-chrome-starts-rolling-out-material-you-redesign-here-is-everything-new-11699689772356.html)
+
+Google Chrome recently celebrated its 15th anniversary and announced plans for a refreshed design. The upcoming changes will include the incorporation of the material you theme, featuring more rounded corners, updated icons, and the removal of the lock icon from the address bar. This marks the first major transformation for Chrome in five years. The redesign aims to enhance legibility, introduce new color palettes, and better integrate with operating systems. Despite these changes, the overall layout and appearance of the browser will remain familiar. Notably, there will be a new drop-down menu to display open tabs and recently closed ones, and horizontal tabs at the top will appear as small pills when hovered over. The absence of the lock icon is justified by the widespread adoption of HTTPS, and it is replaced by a settings icon for connection security and other options. Additionally, there are new outlined style icons and a range of bright material you color palettes. Quick access to bookmarks, reading lists, and history is facilitated through the side panel icon. Overall, the redesign aims to provide a fresh look and improved features for Google Chrome users.
+
 Sat, 11 Nov 2023 12:29:45 +0530
 ### [iOS 17.2 Beta 2: Apple takes steps to retire iTunes Movie Store, suggests report](https://www.livemint.com/technology/tech-news/ios-17-2-beta-2-apple-takes-steps-to-retire-itunes-movie-store-suggests-report-11699685691100.html)
 
