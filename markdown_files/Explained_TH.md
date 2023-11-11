@@ -1,3 +1,8 @@
+Sun, 12 Nov 2023 02:14:00 +0530
+### [Nawaz Sharif | A new sheriff in town](https://www.thehindu.com/news/international/nawaz-sharif-a-new-sheriff-in-town/article67525398.ece)
+
+This article discusses the political comeback of Mian Nawaz Sharif in Pakistan. It highlights that his return and the relief he has received in cases against him demonstrate the influence of the military establishment in Pakistani politics. The article mentions Sharif's previous exiles and his family background, as well as his alignment with right-wing economics and religious conservatism. It also notes some of his achievements, such as building the M2 Islamabad-Lahore motorway and inviting Chinese Belt and Road Initiative projects. The article acknowledges Sharif's efforts to improve ties with India but points out that they were often hampered by various challenges. It mentions the problems faced during Sharif's tenure as prime minister, including the economy, militant attacks, and military intervention in politics. Despite these challenges, Sharif's determination and his brother Shehbaz Sharif's management of the country have helped mitigate some of the negativity surrounding his term. The article concludes by stating the tasks that lie ahead for Sharif, including managing corruption cases, winning elections, and ensuring a smooth transition of power within his party.
+
 Thu, 09 Nov 2023 22:25:12 +0530
 ### [Explained | The Agartala-Akhaura rail link](https://www.thehindu.com/news/national/explained-the-agartala-akhaura-rail-link/article67516621.ece)
 
