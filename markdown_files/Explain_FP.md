@@ -1,3 +1,13 @@
+Sat, 11 Nov 2023 10:02:55 +0530
+### [This Week in Explainers: Are you allowed to burst firecrackers this Diwali?](https://www.firstpost.com/explainers/this-week-in-explainers-are-you-allowed-to-burst-firecrackers-this-diwali-13375142.html)
+
+The Supreme Court of India has clarified that its ban on firecrackers containing barium and other dangerous chemicals is applicable to the entire country. However, it emphasized that there is no total ban and green crackers are allowed. The article also discusses various other topics such as the growing concern over pollution in cities like Delhi and Mumbai, the dangers posed by deepfakes (AI-generated content), comments made by Bihar Chief Minister Nitish Kumar on population control, and the increase in caste-based quotas in Bihar. Overall, the article provides a roundup of significant news stories in India.
+
+Sat, 11 Nov 2023 09:46:27 +0530
+### [In graphics | Can artificial rain help reduce Delhi’s air pollution?](https://www.firstpost.com/explainers/in-graphics-can-artificial-rain-help-reduce-delhis-air-pollution-13376112.html)
+
+The Kejriwal government in Delhi plans to induce artificial rain through cloud seeding to combat air pollution. The air quality in Delhi is still classified as "poor" despite light showers improving the air quality somewhat. The city was the most polluted in the world last week, with dangerous particle levels up to 100 times the acceptable limit. The Delhi government is considering artificial rain as a solution and has agreed to cover the entire cost. IIT-Kanpur is reportedly ready to produce artificial rain through cloud seeding by spraying particles of salts on clouds. The declining air quality in Delhi is due to crop residue burning in neighboring states.
+
 Fri, 10 Nov 2023 20:50:56 +0530
 ### [Is flexible work hours good for your heart health?](https://www.firstpost.com/explainers/is-flexible-work-hours-good-for-your-heart-health-13375612.html)
 

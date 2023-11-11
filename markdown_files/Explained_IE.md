@@ -1,3 +1,13 @@
+Sat, 11 Nov 2023 01:43:42 +0000
+### [Can go all the way to Amarnath shrine by car, says BRO — here’s how](https://indianexpress.com/article/explained/can-go-all-the-way-to-amarnath-shrine-by-car-says-bro-heres-how-9022265/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.The Border Roads Organisation (BRO) is working on restoring and improving the road to the Amarnath cave shrine in Kashmir's Lidder Valley. The BRO recently announced that motor vehicles were able to drive all the way to the holy cave for the first time after the upgradation of the Baltal road. The shrine, located at an altitude of 13,000 feet, can be reached through Pahalgam or Sonamarg. While the initial 16 km from Pahalgam to Chandanwari is motorable, the rest of the way is usually covered by trekking or riding a pony. The route from Sonamarg via Baltal is shorter and takes around eight hours on foot or less than six hours on a pony. Pilgrims can also reach the shrine by helicopter, although these services were stopped due to ecological concerns. Union Minister Nitin Gadkari announced a plan to improve access to the shrine, including the development of a motorable road and a tunnel. The project is expected to be tendered by the end of the year. The BRO has taken over the maintenance and improvement of the pedestrian tracks leading to the shrine.
+
+Sat, 11 Nov 2023 01:37:50 +0000
+### [Baler: a machine for off-site management of farm stubble](https://indianexpress.com/article/explained/baler-a-machine-for-off-site-management-of-farm-stubble-9022266/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The problem of farm fires in Punjab has led to a demand for machines that facilitate off-site stubble management. The use of baler machines, which compress agricultural residue into manageable bales, has become popular among farmers. These machines allow farmers to immediately plough the field and sow the next crop, effectively managing the stubble without resorting to burning it. Currently, there are around 2,000 baler machines operating in Punjab, with 1,268 of them highly subsidized under the crop residue management scheme. However, the number of balers is still inadequate to cover a significant portion of the rice fields in the state. Despite the initial lack of sales in the first two years, the last three years have seen an increase in the number of balers sold under subsidy.
+
 Fri, 10 Nov 2023 13:02:30 +0000
 ### [How rains in Delhi helped improve its air quality](https://indianexpress.com/article/explained/everyday-explainers/rains-delhi-improve-air-quality-aqi-pollution-9021912/)
 

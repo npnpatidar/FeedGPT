@@ -128,8 +128,7 @@ Sat, 28 Oct 2023 18:13:56 +0530
 Sat, 28 Oct 2023 14:37:06 +0530
 ### [‘Pulimada’ movie review: This thriller is a Joju George show all the way](https://www.thehindu.com/entertainment/movies/pulimada-movie-review-this-thriller-is-a-joju-george-show-all-the-way/article67469344.ece)
 
-Article found but Couldn't summarize 
-The Malayalam film, directed by AK Saajan, and starring Joju George and Aishwarya Rajesh, fails to cash in on an interesting narrative
+The article discusses the Malayalam film "Pulimada" directed by AK Saajan. The film revolves around the life of Vincent Skaria, a policeman who lives alone and longs for a life partner. However, his traditionalist and chauvinistic views hinder his search for a wife. After his marriage gets fixed but the bride elopes, Vincent goes on a rampage. He encounters a free-spirited woman named Mahishmati, and strange incidents unfold after he brings her home. The film explores Vincent's mind as the tiger's den, and the lead actor Joju George delivers a powerful performance. The article highlights the film's flaws in the climax but praises its overall milieu and performances.
 
 Fri, 27 Oct 2023 18:37:56 +0530
 ### [‘Killers of the Flower Moon’ movie review: Martin Scorsese’s slow-burn look at the troubling birth of enterprise is frustratingly opaque](https://www.thehindu.com/entertainment/movies/killers-of-the-flower-moon-movie-review-martin-scorseses-slow-burn-look-at-the-troubling-birth-of-enterprise-is-frustratingly-opaque/article67465885.ece)
@@ -302,8 +301,7 @@ Hmm, I am not sure. Email support@chatbase.co for more info.The article is about
 Mon, 09 Oct 2023 14:07:14 +0530
 ### [‘Everything Now’ series review: Sophie Wilde’s performance uplifts sensitive teen dramedy](https://www.thehindu.com/entertainment/movies/everything-now-series-review-sophie-wildes-performance-uplifts-sensitive-teen-dramedy/article67398522.ece)
 
-Article found but Couldn't summarize 
-‘Everything Now’ is at times a hard watch but one that balances out the tough conversations with teenage silliness
+Netflix's new show, "Everything Now," adds to the existing lineup of teenage shows on the platform. The series follows Mia, a teenager recovering from an eating disorder, as she navigates the challenges of returning to school and catching up with her friends who have matured during her absence. Mia creates a bucket list to try and catch up, but her quest to fit in leads to unexpected consequences. The show uses voiceovers to let viewers into Mia's thoughts and emotions, and Sophie Wilde delivers a standout performance. While the show has some minor flaws, it successfully balances tough conversations with teenage silliness. The series, available for streaming on Netflix, weaves together the narratives of Mia's family and friends, making it a worthwhile watch.
 
 Sun, 08 Oct 2023 12:38:58 +0530
 ### [‘Minx’ Season 2 review: Bringing their A game to the adult entertainment business once more](https://www.thehindu.com/entertainment/movies/minx-season-2-review-bringing-their-a-game-to-the-adult-entertainment-business-once-more/article67394041.ece)

@@ -1,3 +1,9 @@
+2023-11-11T08:30:35+05:30
+### [Photo Essay | An Evening in West Bank's Susiya, Battling the Threat of Israeli Settler Terror](https://thewire.in/world/photo-essay-david-shulman-margaret-olin-susiya)
+
+No Article text 
+The Israel-Hamas war has sparked fresh settler raids in this Palestinian outpost. But the town's gentle residents and a group of brave activists provide a source of happiness and hope.
+
 2023-11-10T22:51:18+05:30
 ### [US Asks India to Join Canada’s Probe, Both Jointly Express Support For Israel](https://thewire.in/diplomacy/at-2-plus-2-meet-us-asks-india-to-join-canada-probe-both-sides-support-israel)
 

@@ -1,3 +1,8 @@
+Sat, 11 Nov 2023 08:00:09 +0530
+### [Will India be the happiest place on Earth for Disney?](https://www.livemint.com/opinion/first-person/will-india-be-the-happiest-place-on-earth-for-disney-11699618773085.html)
+
+Disney is facing challenges in the Indian market, with its Hotstar streaming service experiencing a resurgence but other parts of its business struggling. The Star Sports business incurred a significant operating loss, raising questions about its sustainability. Disney's acquisition of 21st Century Fox, including Star India, marked its entry into the Indian subcontinent, but the loss of streaming rights and Star Sports' losses highlight the competitive hurdles it faces. Disney is now considering its options in India, including a strategic alliance with a local player like Jio. Jio's potential interest in acquiring Disney's India assets aligns with its growth strategy and would fortify its dominance in the market. Disney must decide whether to maintain a presence in India or vacate the market, considering the potential impact on its global standing and India's media landscape.
+
 Fri, 10 Nov 2023 13:11:12 +0530
 ### [US-Adani deal for Sri Lanka port heats up race with China](https://www.livemint.com/opinion/online-views/usadani-deal-for-sri-lanka-port-heats-up-race-with-china-11699601743547.html)
 

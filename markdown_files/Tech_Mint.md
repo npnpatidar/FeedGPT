@@ -1,3 +1,22 @@
+Sat, 11 Nov 2023 11:08:30 +0530
+### [Flipkart Big Diwali Sale ends tonight: Top deals on premium gaming smartphones - OnePlus 11 5G, iPhone 15 Pro, more](https://www.livemint.com/technology/gadgets/flipkart-big-diwali-sale-ends-tonight-top-deals-on-premium-gaming-smartphones-oneplus-11-5g-iphone-15-pro-more-11699680507072.html)
+
+Article found but Couldn't summarize 
+The OnePlus 11 5G, Apple iPhone 15 Pro, Samsung Galaxy S23 Ultra 5G, Apple iPhone 14 Pro Max, and Google Pixel 8 Pro are some of the best gaming premium smartphones available on Flipkart.
+
+Sat, 11 Nov 2023 10:33:20 +0530
+### [Garena Free Fire Max redeem codes for Nov 11, 2023: Grab exciting rewards](https://www.livemint.com/technology/garena-free-fire-max-redeem-codes-for-nov-11-2023-grab-exciting-rewards-11699678673767.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses the use of redeem codes in Garena Free Fire Max, a popular online game. These codes can be used to obtain various in-game items such as weapons, diamonds, and skins. The codes are 12 digit alphanumeric combinations that consist of capital letters and numbers.
+
+Garena Free Fire Max is a revamped version of Garena Free Fire, which gained popularity after the ban of the latter by the Indian government. The game developers update these codes regularly, and players can visit a dedicated microsite to redeem them.
+
+By redeeming the codes, players have a chance to win rewards like Rebel Academy Weapon Loot Crate, Revolt Weapon Loot Crate, Diamonds Voucher, and Fire Head Hunting Parachute. It's important to note that these codes are available for a limited time (up to 12 hours) and only for the first 500 users. Therefore, it's advised to redeem the codes promptly before they are exhausted.
+
+The article also provides instructions on how to redeem the codes. Players need to visit the game's official Rewards Redemption site on Chrome, log in using their social media accounts, copy the mentioned codes, paste them in the text box, and click on Confirm. The rewards will be received in the in-game mail section, with golds or diamonds added automatically to the account wallet. Players can then access the game vault to exchange the codes for gold and diamonds, which can be used to purchase various in-game items.
+
+In conclusion, Garena Free Fire Max redeem codes offer players a chance to obtain valuable in-game rewards. Following the given instructions, players can easily redeem the codes and enjoy the benefits they provide.
+
 Fri, 10 Nov 2023 19:31:15 +0530
 ### [Amazon Sale 2023: Up to 16% off on OnePlus smartphones this Diwali](https://www.livemint.com/technology/gadgets/amazon-sale-2023-up-to-16-off-on-oneplus-smartphones-this-diwali-11699619881539.html)
 
