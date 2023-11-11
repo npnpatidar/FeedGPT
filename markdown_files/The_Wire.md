@@ -1,3 +1,9 @@
+2023-11-10T22:51:18+05:30
+### [US Asks India to Join Canada’s Probe, Both Jointly Express Support For Israel](https://thewire.in/diplomacy/at-2-plus-2-meet-us-asks-india-to-join-canada-probe-both-sides-support-israel)
+
+No Article text 
+Despite disagreements over Canada's allegations, India and the US were were upbeat over reaching strategic alignment on several crucial areas at the ‘2+2’ foreign and defence ministerial meeting between the two countries.
+
 2023-11-10T16:59:28+05:30
 ### [Hyderabad: With Modi Attending MRPS Meeting, Will Dalit Sub-Categorisation Gain Steam?](https://thewire.in/rights/hyderabad-modi-mrps-dalit-sub-categorisation)
 

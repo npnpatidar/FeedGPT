@@ -1,3 +1,8 @@
+Sat, 11 Nov 2023 00:32:00 +0530
+### [Corrections and Clarifications — November 11, 2023](https://www.thehindu.com/opinion/columns/corrections-and-clarifications-november-11-2023/article67522425.ece)
+
+The article clarifies a front-page headline that stated "Ethics panel recommends disqualification of Moitra" as inaccurate. The recommendation from the Lok Sabha Ethics Committee was actually to 'expel' Mahua Moitra from the Lok Sabha, not 'disqualify' her.This article corrects a front-page headline that referred to the recommendation of the Lok Sabha ethics committee regarding Mahua Moitra. The recommendation was to 'expel' her from the Lok Sabha, not 'disqualify' her. The article also mentions that comments must be in English, in full sentences, and must adhere to community guidelines.
+
 Tue, 07 Nov 2023 00:32:00 +0530
 ### [Corrections and Clarifications — November 7, 2023](https://www.thehindu.com/opinion/columns/corrections-and-clarifications-november-7-2023/article67504608.ece)
 

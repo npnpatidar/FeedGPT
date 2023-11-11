@@ -1,3 +1,13 @@
+Sat, 11 Nov 2023 00:20:00 +0530
+### [Over the top: On Mahua Moitra and panel’s disqualification recommendation](https://www.thehindu.com/opinion/editorial/over-the-top-the-hindu-editorial-on-mahua-moitra-and-the-lok-sabha-ethics-panels-disqualification-recommendation/article67521709.ece)
+
+The Lok Sabha Ethics Committee's recommendation to expel Trinamool Congress MP Mahua Moitra from the lower House is seen as a partisan attempt to silence a government critic and intimidate MPs from holding the executive accountable. The committee's conclusions lack solid evidence and go against principles of natural justice. If MPs are barred from sharing login credentials, this rule should apply to all. The selective investigation of one MP based on insinuations and conjectures is seen as intimidation. The committee's response to a complaint against a BJP MP who made derogatory remarks was tardy in comparison. While Moitra's actions show a lack of discretion, it should serve as a lesson for those seeking to hold the government accountable.
+
+Sat, 11 Nov 2023 00:10:00 +0530
+### [Unending ordeal: On continuing acts of ragging](https://www.thehindu.com/opinion/editorial/unending-ordeal-the-hindu-editorial-on-continuing-acts-of-ragging/article67521691.ece)
+
+The article discusses the issue of ragging, or hazing, on college campuses in India. Despite legislation and regulations banning ragging, incidents continue to occur, with victims experiencing physical and mental abuse. The article highlights the need for preventive measures rather than just prohibition, and calls for greater accountability from educational institutions and regulatory authorities. The article emphasizes the importance of creating a safe and supportive environment for students and urges the government to take action to ensure the safety of students on campuses.
+
 Fri, 10 Nov 2023 00:20:00 +0530
 ### [Chip off the blocks: On semiconductor fabrication in India](https://www.thehindu.com/opinion/editorial/chip-off-the-block-the-hindu-editorial-on-semiconductor-fabrication-in-india/article67517158.ece)
 
