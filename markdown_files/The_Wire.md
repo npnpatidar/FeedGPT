@@ -1,3 +1,9 @@
+2023-11-11T17:36:21+05:30
+### [Malayalam Film 'Aattam' Shows How the Truth Can be Messy and Complicated](https://thewire.in/film/malayalam-film-aattam-shows-how-the-truth-can-be-messy-and-complicated)
+
+No Article text 
+Anand Ekarshi’s debut weaves an intricate plot which is reminiscent of '12 Angry Men'.
+
 2023-11-11T16:14:30+05:30
 ### [Watch | How Should We View the Moral Issues Raised by the Israel-Hamas War?](https://thewire.in/video/watch-how-should-we-view-the-moral-issues-raised-by-the-israel-hamas-war)
 
