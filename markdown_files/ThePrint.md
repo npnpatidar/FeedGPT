@@ -1,3 +1,23 @@
+Sat, 11 Nov 2023 19:02:01 +0000
+### [Pakistan: 3 minor siblings suffocate to death after accidentally locking themselves inside trunk in Rawalpindi](https://theprint.in/world/pakistan-3-minor-siblings-suffocate-to-death-after-accidentally-locking-themselves-inside-trunk-in-rawalpindi/1841849/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Three minor siblings, aged 2, 6, and 7, suffocated to death after accidentally locking themselves inside a trunk while playing in Rawalpindi, Pakistan. The incident occurred in the Shah Khalid Khaluni area. The bodies have been moved to the hospital for further proceedings. The family members of the children confirmed that the tragedy was an accident.Three minor siblings in Rawalpindi, Pakistan, accidentally suffocated to death after locking themselves inside a trunk while playing. The victims were identified as 2-year-old Zohan, 6-year-old Saira, and 7-year-old Faria. The bodies have been taken to the hospital for medico-legal procedures. Family members confirmed that the children locked themselves inside the trunk.
+
+Sat, 11 Nov 2023 19:00:15 +0000
+### [Man bludgeons wife to death in UP’s Kaushambi](https://theprint.in/india/man-bludgeons-wife-to-death-in-ups-kaushambi/1841848/)
+
+A 32-year-old woman was allegedly killed by her husband in Kaushambi, Uttar Pradesh, after she refused to give him money to buy liquor. The husband, identified as Patali, is addicted to alcohol and became furious when his wife, Meena Devi, declined his request for money. In a fit of rage, he repeatedly struck her on the head with a pressure cooker, resulting in her immediate death. Patali is currently on the run, and a murder case has been registered against him based on a complaint from Meena Devi's brother. Efforts are being made to apprehend Patali, while Meena Devi's body has been sent for post-mortem examination.
+
+Sat, 11 Nov 2023 19:00:03 +0000
+### [J’khand: Two die as train stops suddenly after overhead electric wire snaps](https://theprint.in/india/jkhand-two-die-as-train-stops-suddenly-after-overhead-electric-wire-snaps/1841847/)
+
+Two passengers died after a Delhi-bound train in Jharkhand's Koderma district came to a sudden halt due to an overhead electric wire snapping. The incident occurred between Gomoh and Koderma railway stations when the driver of the Purushottam Express applied the emergency brake. As a result, two people were killed due to the jolt caused by the sudden stop. The train was traveling at a speed of 130 kmph at the time of the accident. Train services resumed after a four-hour delay. The Purushottam Express was taken to Gomoh by a diesel engine and then sent to Delhi using an electric engine. The railway division manager and other officials visited the accident site.
+
+Sat, 11 Nov 2023 18:15:03 +0000
+### [2 Bangladeshis without travel documents held in Kolkata](https://theprint.in/india/2-bangladeshis-without-travel-documents-held-in-kolkata/1841845/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Two Bangladeshis were arrested in Kolkata for failing to provide valid documents supporting their stay in India. The arrests were made in the Park Street area on the eve of Diwali and Kali Puja celebrations. The individuals were unable to show passports, visas, or any other documents to support their visit to India. The police are investigating the reason for their visit and whether they are members of any terror group. The two individuals have been sent to police remand until November 20.
+
 Sat, 11 Nov 2023 18:00:34 +0000
 ### [Tiger mauls farmer to death in Pilibhit, villagers blame UP forest department’s negligence](https://theprint.in/india/tiger-mauls-farmer-to-death-in-pilibhit-villagers-blame-up-forest-departments-negligence/1841844/)
 
