@@ -1,3 +1,103 @@
+Sat, 11 Nov 2023 18:00:34 +0000
+### [Tiger mauls farmer to death in Pilibhit, villagers blame UP forest department’s negligence](https://theprint.in/india/tiger-mauls-farmer-to-death-in-pilibhit-villagers-blame-up-forest-departments-negligence/1841844/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.A 60-year-old farmer was allegedly killed in a tiger attack near the Mahof forest of the Pilibhit Tiger Reserve in Uttar Pradesh. Locals held a protest, accusing the forest department of negligence and claiming that human lives are being lost. The Superintendent of Police and a senior Pilibhit Tiger Reserve official assured the protestors of compensation for the victim's family and capturing the tigers outside the forest. The tiger dropped the farmer's body and ran away when farmers noticed it. The villagers blocked the highway and vandalized vehicles in protest.
+
+Sat, 11 Nov 2023 18:00:18 +0000
+### [Fleeing from spot of accident, bus driver killed after train hits him](https://theprint.in/india/fleeing-from-spot-of-accident-bus-driver-killed-after-train-hits-him/1841843/)
+
+A bus driver in Kannur, Kerala died when he was hit by a train while trying to flee after his vehicle collided with a pedestrian. The injured pedestrian is receiving treatment at a nearby hospital. The driver ran from the scene out of fear of local anger and was struck by a passing train near a railway track. The incident resulted in the driver's immediate death.A bus driver in Kannur, Kerala died after being hit by a train while attempting to flee in panic after his vehicle hit a pedestrian. The injured pedestrian is currently receiving treatment at a nearby hospital. The driver, fearing the anger of locals, ran from the scene and was struck by a train while passing a nearby railway track. The driver died on the spot.
+
+Sat, 11 Nov 2023 18:00:03 +0000
+### [Babar is very close to me and he needs to be carried on this journey: Pakistan coach Arthur](https://theprint.in/sport/babar-is-very-close-to-me-and-he-needs-to-be-carried-on-this-journey-pakistan-coach-arthur/1841842/)
+
+Pakistan coach Mickey Arthur believes that Babar Azam, Pakistan's top batter, needs support and guidance as he continues to learn and grow in international cricket. Babar did not score a single century in the World Cup and faced criticism for his lack of aggression and decision-making as captain. However, Arthur defends Babar, stating that he is still a young player who is learning every day and needs time to make mistakes and learn from them. Arthur emphasizes the need to create a stable environment for the team and ignore outside noise. He also mentions that the absence of fast bowler Naseem Shah had upset the team's equilibrium. Despite the challenges, Arthur remains committed to his role as coach and expresses his love for Pakistani cricket and his desire to provide stability and structure for the players.
+
+Sat, 11 Nov 2023 17:46:05 +0000
+### [Vigilance minister initiates inquiry against Delhi chief secretary in Bamnoli land acquisition case](https://theprint.in/india/vigilance-minister-initiates-inquiry-against-delhi-chief-secretary-in-bamnoli-land-acquisition-case/1841841/)
+
+Delhi Vigilance Minister Atishi has initiated an inquiry into a complaint against Chief Secretary Naresh Kumar regarding the acquisition of land in Bamnoli village for the Dwarka Expressway. The complaint alleges that the chief secretary's son was employed by a relative of a landowner who received enhanced compensation for the acquired land. Atishi has summoned all the files on the land acquisition and has directed the divisional commissioner and vigilance director to provide them by 7 pm on Saturday. The Central Bureau of Investigation (CBI) is already probing the matter, but Atishi has insisted on conducting her own inquiry. The chief secretary has called the complaint an act of "mudslinging" by disgruntled individuals. Chief Minister Arvind Kejriwal has marked the complaint for an inquiry and requested a detailed report from the vigilance minister.
+
+Sat, 11 Nov 2023 17:45:48 +0000
+### [Dhami buys earthen lamps from Kumhar Mandi for Diwali, urges people to buy local products](https://theprint.in/india/dhami-buys-earthen-lamps-from-kumhar-mandi-for-diwali-urges-people-to-buy-local-products/1841840/)
+
+Uttarakhand Chief Minister Pushkar Singh Dhami visited the Kumhar Mandi area in Dehradun to buy earthen lamps from local potters for Diwali. He encouraged people to buy local products and support the 'Vocal for Local' initiative. Dhami emphasized the significance of earthen lamps during Diwali, as they symbolize the victory of good over evil and light over darkness. He made the payment for the lamps through digital means and highlighted India's progress in digitalization under Prime Minister Narendra Modi's leadership. Dhami commended the increasing use of Unified Payments Interface (UPI) as a medium for delivering digital services to the last mile.
+
+Sat, 11 Nov 2023 17:45:32 +0000
+### [Sub-inspector arrested, sacked for minor’s rape in Rajasthan; BJP attacks Cong over law and order](https://theprint.in/india/sub-inspector-arrested-sacked-for-minors-rape-in-rajasthan-bjp-attacks-cong-over-law-and-order-2/1841839/)
+
+A police sub-inspector in Rajasthan's Dausa district has been terminated from service and arrested after being accused of raping a minor girl. The officer, Bhupendra Singh, was suspended on Friday and a case was registered against him under the POCSO Act and the SC/ST Act. The incident sparked protests, with locals gheraoing the police station and beating Singh. The girl's exact age is yet to be determined but is estimated to be around four to five years old. The opposition BJP criticized the Congress government over law and order in the state. Governor Kalraj Mishra condemned the incident and instructed the Director General of Police to take strict action.
+
+Sat, 11 Nov 2023 17:45:17 +0000
+### [28-year-old private bank employee ends life by jumping off  Bandra-Worli Sea Link](https://theprint.in/india/28-year-old-private-bank-employee-ends-life-by-jumping-off-bandra-worli-sea-link/1841838/)
+
+I'm really sorry to hear about the incident, but as an AI language model, I don't have access to real-time news or the ability to summarize articles. My purpose is to provide information and answer questions about Chatbase. If you have any questions related to Chatbase, feel free to ask, and I'll be happy to assist you.I'm really sorry to hear about the incident, but as an AI language model, I don't have access to real-time news or the ability to summarize articles. My purpose is to provide information and answer questions about Chatbase. If you have any questions related to Chatbase, feel free to ask, and I'll be happy to assist you.
+
+Sat, 11 Nov 2023 17:45:03 +0000
+### [Ambedkar not given Bharat Ratna for decades due to Cong, committee soon to empower Madigas: PM Modi in rally in Hyderabad](https://theprint.in/india/ambedkar-not-given-bharat-ratna-for-decades-due-to-cong-committee-soon-to-empower-madigas-pm-modi-in-rally-in-hyderabad/1841837/)
+
+Prime Minister Narendra Modi has announced that the Indian government will form a committee to address the demands of the Madiga community, a Scheduled Caste (SC) group, for categorization of SCs. The Madiga Reservation Porata Samithi (MRPS), a community organization, has been fighting for SC categorization for the past three decades, arguing that they have not benefited from reservations and other government policies. Modi expressed solidarity with the MRPS and promised to ensure justice for them. He also apologized for the past betrayals by political parties. Additionally, Modi criticized Bihar Chief Minister Nitish Kumar for allegedly insulting former Chief Minister Jitan Ram Manjhi. He also criticized the Congress party for its treatment of B.R. Ambedkar, the architect of the Indian Constitution. Modi claimed that only the Bharatiya Janata Party (BJP) supported government finally accorded Ambedkar the Bharat Ratna award. The article also mentions Modi's criticisms of the Telangana government and the Aam Aadmi Party (AAP).
+
+Sat, 11 Nov 2023 17:30:24 +0000
+### [Man killed in road accident in UP’s Bijnor](https://theprint.in/india/man-killed-in-road-accident-in-ups-bijnor/1841836/)
+
+A 35-year-old man was killed and his sister injured when their motorcycle was hit by a roadways bus in the Seohara area of Bijnor district in Uttar Pradesh. The accident occurred on Dhampur Road near Chanchalpur village. The man died on the spot, while his sister is undergoing treatment.A 35-year-old man was killed and his sister injured in a road accident in the Seohara area of Bijnor district, Uttar Pradesh. The incident occurred when their motorcycle was hit by a roadways bus on Dhampur Road near Chanchalpur village. The man died on the spot, while his sister is undergoing treatment for her injuries.
+
+Sat, 11 Nov 2023 17:30:13 +0000
+### [Sub-inspector arrested, sacked for minor’s rape in Rajasthan; BJP attacks Cong over law and order](https://theprint.in/india/sub-inspector-arrested-sacked-for-minors-rape-in-rajasthan-bjp-attacks-cong-over-law-and-order/1841835/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.A police sub-inspector in Rajasthan's Dausa district has been terminated from service and arrested after being accused of raping a minor girl. The officer, identified as Bhupendra Singh, was suspended on Friday and later detained. The case has been registered under relevant sections, including the POCSO Act and the SC/ST Act. The incident sparked protests, with local people surrounding the police station and a video surfacing online showing the officer being beaten by a mob. Rajasthan Governor Kalraj Mishra condemned the incident and instructed the Director General of Police to take strict action. The girl's age is estimated to be around four to five years, and she is reportedly in stable condition after undergoing a medical examination. The BJP criticized the Congress government over law and order and alleged efforts to protect the accused.
+
+Sat, 11 Nov 2023 17:30:02 +0000
+### [Pandian true disciple of Odisha CM Naveen Patnaik: BJD](https://theprint.in/india/pandian-true-disciple-of-odisha-cm-naveen-patnaik-bjd/1841834/)
+
+The ruling party in Odisha, BJD, has described former bureaucrat V K Pandian as a "true disciple" of Chief Minister Naveen Patnaik. Pandian, who recently retired from government service, has played a key role in implementing Patnaik's vision and thoughts. He has been appointed as the chairman of the "Nabin Odisha" program and the '5T' transformational initiatives. Pandian has also been given the status of a cabinet minister and will report directly to the chief minister. The BJD is expected to induct Pandian and give him a major role in the upcoming elections. Pandian recently visited the Shree Jagannath Temple in Puri and reviewed the crowd management situation there.
+
+Sat, 11 Nov 2023 17:18:19 +0000
+### [Cricket-England sign off with victory, Pakistan eliminated](https://theprint.in/sport/cricket-england-sign-off-with-victory-pakistan-eliminated/1841832/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.England ended their disappointing World Cup campaign with a 93-run victory over Pakistan. Despite their win, England had already been eliminated from the tournament after a series of defeats. England scored a solid 337-9, with three of their top batters making half-centuries. Pakistan were all out for 244, resulting in their elimination from the tournament. New Zealand, India, South Africa, and Australia have secured spots in the semi-finals. England has secured a place in the 2025 Champions Trophy. Pakistan's captain, Babar Azam, expressed a desire to lead the team's rebuild after their campaign.
+
+Sat, 11 Nov 2023 17:18:08 +0000
+### [Soccer-Stuttgart stun Dortmund 2-1 with Guirassy scoring on comeback](https://theprint.in/sport/soccer-stuttgart-stun-dortmund-2-1-with-guirassy-scoring-on-comeback/1841831/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.VfB Stuttgart's top scorer, Serhou Guirassy, made a comeback from injury and scored a penalty in the 83rd minute to secure a 2-1 victory over Borussia Dortmund. Guirassy, who had been out for two weeks, now has 15 goals in the Bundesliga. With this win, Stuttgart moves up to third place with 24 points, while Dortmund sits in fourth place with 21 points. Dortmund's goalkeeper, Gregor Kobel, made crucial saves in the first half to keep the visitors in the game. Despite both teams having chances in the second half, it was Guirassy's penalty that sealed the win for Stuttgart, adding to Dortmund's recent defeat by Bayern Munich.
+
+Sat, 11 Nov 2023 17:17:55 +0000
+### [Soccer-Kane stretches record scoring run in Bayern’s 4-2 win over Heidenheim](https://theprint.in/sport/soccer-kane-stretches-record-scoring-run-in-bayerns-4-2-win-over-heidenheim/1841829/)
+
+Harry Kane scored twice in Bayern Munich's 4-2 victory over Heidenheim, pushing them to the top of the Bundesliga. Kane's goals extended his record-breaking scoring run in Germany, bringing his total to 21 goals in 15 matches in both the Bundesliga and the Champions League. He became the first player in Bundesliga history to score 17 goals in the first 11 matchdays of a season. Despite Bayern's sloppy defending, allowing Heidenheim to draw level with two quick goals, they managed to secure the win with goals from Raphael Guerreiro and Eric Maxim Choupo-Moting. Bayern now holds the top spot with 29 points.
+
+Sat, 11 Nov 2023 17:17:41 +0000
+### [Soccer-Milan’s Serie A woes drag on with 2-2 draw at Lecce](https://theprint.in/sport/soccer-milans-serie-a-woes-drag-on-with-2-2-draw-at-lecce/1841826/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.AC Milan blew a two-goal lead to draw 2-2 with Lecce in Serie A, extending their winless streak to four league matches. Olivier Giroud scored for Milan before getting sent off in stoppage time. Milan now sits third in the standings, five points behind leaders Inter Milan and three points behind second-placed Juventus. They could drop to fourth if Napoli, who are on 21 points, win their match against Empoli. This draw comes after Milan's win against Paris St Germain in the Champions League, which was their only victory in all competitions since early October. Lecce, who had only gathered two points from their previous six Serie A games, are currently in 14th place in the standings.
+
+Sat, 11 Nov 2023 17:17:12 +0000
+### [Soccer-Arsenal outclass Burnley in the end](https://theprint.in/sport/soccer-arsenal-outclass-burnley-in-the-end/1841824/)
+
+Arsenal defeated Burnley 3-1 in a home match, securing their sixth straight defeat in all competitions. The win allowed Arsenal to move up to second place in the Premier League table, tied in points with leaders Manchester City. Despite encountering resistance from Burnley in the first half, Arsenal took the lead just before halftime with a goal from Leandro Trossard. Burnley equalized in the second half with a deflected goal from Josh Brownhill, but Arsenal quickly regained the lead with a goal from William Saliba. Oleksandr Zinchenko extended Arsenal's lead to 3-1 with an improvised volley. However, the match ended on a sour note for Arsenal as Fabio Vieira was sent off for a high boot challenge on Brownhill's knee.
+
+Sat, 11 Nov 2023 17:16:55 +0000
+### [Soccer-Lindelof scores as Man Utd beat Luton 1-0 for second successive league win](https://theprint.in/sport/soccer-lindelof-scores-as-man-utd-beat-luton-1-0-for-second-successive-league-win/1841822/)
+
+Manchester United secured a much-needed victory with a 1-0 win over Luton Town in the Premier League. Victor Lindelof scored the only goal of the game in the second half, breaking the deadlock in the 59th minute. This win came as a relief for Manchester United, who have been struggling recently, losing nine out of their last 18 games and facing elimination from the League Cup. Luton Town, on the other hand, have had a challenging start to their debut season in the top flight, with just one league victory so far.
+
+Sat, 11 Nov 2023 17:16:43 +0000
+### [Goa Archbishop extends greetings on Diwali](https://theprint.in/india/goa-archbishop-extends-greetings-on-diwali/1841820/)
+
+Archbishop of Goa and Daman, Filipe Neri Cardinal Ferrao, extended warm greetings and wishes to the people on the occasion of Diwali, the festival of lights. He emphasized that the festival symbolizes the victory of good over evil and promotes harmony and peace. The archbishop expressed hope that this festival would inspire future generations to spread love, truth, harmony, and freedom in society.Archbishop Filipe Neri Cardinal Ferrao of Goa and Daman extended warm greetings to the people on the occasion of Diwali, the festival of lights. He expressed his wishes for a joyous fellowship among Hindu brethren in their homes and communities. The archbishop emphasized that the light of Diwali symbolizes charity, harmony, and peace after conquering evil. He hoped that this festival would inspire future generations to spread the same light, allowing society to shine with love, truth, harmony, and freedom.
+
+Sat, 11 Nov 2023 17:16:18 +0000
+### [London police arrest dozens as pro-Palestinian rally draws counter-protests](https://theprint.in/world/london-police-arrest-dozens-as-pro-palestinian-rally-draws-counter-protests/1841819/)
+
+More than 100,000 pro-Palestinian protesters marched through central London, resulting in over 80 arrests as police aimed to prevent clashes with opposing groups. The march, which took place on Armistice Day, drew counter-protesters from far-right groups and faced criticism from Prime Minister Rishi Sunak for being disrespectful. Skirmishes occurred between the counter-protesters and police near the Cenotaph war memorial. The pro-Palestinian rally had a large turnout, and police were determined to prevent the two groups from meeting. Some pro-Palestinian protesters used chants and banners that were viewed by many as antisemitic. Similar protests also took place in Paris, where several thousand demonstrators called for a ceasefire in Gaza. A protest against antisemitism has been scheduled for the following day in France.
+
+Sat, 11 Nov 2023 17:16:13 +0000
+### [Shah attacks Cong on OBC welfare, says party opposed, suppressed Mandal Commission report](https://theprint.in/india/shah-attacks-cong-on-obc-welfare-says-party-opposed-suppressed-mandal-commission-report/1841816/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Union Home Minister Amit Shah questioned the Congress' commitment to the upliftment of other backward classes (OBCs) and accused the party of opposing and suppressing the Mandal Commission report for years. Shah made these remarks during an election rally in Indore, Madhya Pradesh. He also criticized the Congress for delaying the construction of the Ram temple in Ayodhya and labeled them a dynastic party. Shah highlighted the efforts of the Modi government in providing reservations and welfare to OBCs, Dalits, and tribals. He urged the people to vote for the Bharatiya Janata Party (BJP) in the upcoming assembly polls in Madhya Pradesh. The elections are scheduled for November 17, and the results will be declared on December 3.
+
 Sat, 11 Nov 2023 17:02:02 +0000
 ### [Mansour bin Zayed participates in Joint Arab-Islamic Extraordinary Summit in Riyadh](https://theprint.in/world/mansour-bin-zayed-participates-in-joint-arab-islamic-extraordinary-summit-in-riyadh/1841806/)
 

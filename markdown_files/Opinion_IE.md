@@ -1,3 +1,8 @@
+Sat, 11 Nov 2023 18:11:06 +0000
+### [What it’s like to be an ‘outsider’ at Mumbai Film Festival](https://indianexpress.com/article/opinion/columns/outsider-mumbai-film-festival-9023235/)
+
+The article reflects on the experience of attending the Jio MAMI Mumbai Film Festival 2023. The author describes the importance of seizing opportunities and making timely decisions, as tickets for screenings would sell out quickly. The festival provided an opportunity for casual movie enthusiasts to explore unfamiliar films and engage in conversations about cinema. The author highlights various films showcased at the festival, including a heart-breaking Nepali film, a Japanese masterpiece, and movies that delve into the horrors of war and societal challenges. The festival also enabled direct interactions between creators and consumers through Q&A sessions, offering insights into the creative process. Despite the overwhelming festival schedule and challenges in planning, the author fondly remembers the people they met and the films they discovered. Ultimately, the Mumbai Film Festival reignited the author's passion for cinema and inspired them to start using their dormant movie streaming subscription.
+
 Sat, 11 Nov 2023 06:30:47 +0000
 ### [This Diwali, a simple wish: Don’t make fresh air about identity politics](https://indianexpress.com/article/opinion/columns/diwali-simple-wish-air-identity-politics-9022593/)
 
