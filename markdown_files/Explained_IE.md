@@ -8,6 +8,11 @@ Sat, 11 Nov 2023 01:37:50 +0000
 
 Hmm, I am not sure. Email support@chatbase.co for more info.The problem of farm fires in Punjab has led to a demand for machines that facilitate off-site stubble management. The use of baler machines, which compress agricultural residue into manageable bales, has become popular among farmers. These machines allow farmers to immediately plough the field and sow the next crop, effectively managing the stubble without resorting to burning it. Currently, there are around 2,000 baler machines operating in Punjab, with 1,268 of them highly subsidized under the crop residue management scheme. However, the number of balers is still inadequate to cover a significant portion of the rice fields in the state. Despite the initial lack of sales in the first two years, the last three years have seen an increase in the number of balers sold under subsidy.
 
+Sat, 11 Nov 2023 01:37:50 +0000
+### [How baler machines help manage stubble?](https://indianexpress.com/article/explained/explained-economics/baler-a-machine-for-off-site-management-of-farm-stubble-9022266/)
+
+The Supreme Court is addressing the issue of farm fires in Punjab, leading to a demand for machines that facilitate off-site stubble management. One such machine is the baler, of which there are currently around 2,000 operating in Punjab. The Centre's Crop Residue Management scheme subsidizes 1,268 of these machines. Farmers burn the stubble left behind after harvesting, causing significant air pollution. Environmentally-friendly methods, such as incorporating the stubble into the soil, have their drawbacks, including increased vulnerability to insect attacks. Baler machines compress the agricultural residue into bales, which can be transported to factories or dumping sites. This allows farmers to immediately plough the field and sow the next crop. However, the number of available balers in Punjab can only cover 15-18% of the rice fields. Despite being included under the Crop Residue Management scheme, no balers were sold in the first two years, but there has been an increase in sales in recent years, with 500 balers added this year.
+
 Fri, 10 Nov 2023 13:02:30 +0000
 ### [How rains in Delhi helped improve its air quality](https://indianexpress.com/article/explained/everyday-explainers/rains-delhi-improve-air-quality-aqi-pollution-9021912/)
 

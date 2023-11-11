@@ -1,3 +1,15 @@
+Sat, 11 Nov 2023 13:27:30 +0530
+### [Biting those hands that fed them: How TTP, ISKP are threatening Pakistan's national security](https://www.firstpost.com/opinion/biting-those-hands-that-fed-them-how-ttp-iskp-are-threatening-pakistans-national-security-13376862.html)
+
+Article found but Couldn't summarize 
+Biting those hands that fed them: How TTP, ISKP are threatening Pakistan's national security
+
+Sat, 11 Nov 2023 11:59:15 +0530
+### [Time ticks fast for Zelenskyy amid Ukraine war stalemate, West’s shaky belief](https://www.firstpost.com/opinion/time-ticks-fast-for-zelenskyy-amid-ukraine-war-stalemate-wests-shaky-belief-13376482.html)
+
+Article found but Couldn't summarize 
+Time ticks fast for Zelenskyy amid Ukraine war stalemate, West’s shaky belief
+
 Fri, 10 Nov 2023 18:15:31 +0530
 ### [Vantage | Why Israel accuses Western media of collaborating with Hamas](https://www.firstpost.com/opinion/vantage-why-israel-accuses-western-media-of-collaborating-with-hamas-13375192.html)
 

@@ -1,3 +1,106 @@
+Sat, 11 Nov 2023 08:02:50 +0000
+### [Serving for a Better Tomorrow, A Rajiv Talreja & QL one Initiative](https://theprint.in/ani-press-releases/serving-for-a-better-tomorrow-a-rajiv-talreja-ql-one-initiative/1841301/)
+
+SERVE Coaching is a powerful tool that provides business coaching to social entrepreneurs and NGOs. It aims to support and amplify their impact by offering services such as operational excellence, broadened outreach, team building, growth strategies, transparent governance, efficient management, and leadership mastery. Social entrepreneurs and NGOs can apply for the free Business Coaching and Training engagement on the SERVE Coaching website. The coaching sessions are conducted online, and the support is entirely pro-bono. For more information, you can visit www.servecoaching.com.
+
+Sat, 11 Nov 2023 08:02:39 +0000
+### [UAE leverages oil power to push secretive oil companies on emission reductions: Report](https://theprint.in/world/uae-leverages-oil-power-to-push-secretive-oil-companies-on-emission-reductions-report/1841299/)
+
+Article found but Couldn't summarize 
+Washington, DC [US], November 11 (ANI): The United Arab Emirates (UAE) is leveraging its status as an oil producer and host of the upcoming United Nations climate talks to prod some of the world&#8217;s most secretive state-run oil companies to cut their greenhouse gas emissions, according to documents obtained by POLITICO, a US-based politics-focused news [&#8230;]
+
+Sat, 11 Nov 2023 08:02:27 +0000
+### [Roop Chaturdashi celebrations witness 15,000 crore cosmetic sales as Diwali enthusiasm peaks nationwide](https://theprint.in/economy/roop-chaturdashi-celebrations-witness-15000-crore-cosmetic-sales-as-diwali-enthusiasm-peaks-nationwide/1841297/)
+
+The cosmetic industry in India experienced massive sales on Roop Chaturdashi, with an estimated trade value of Rs 15,000 crores. The upcoming Diwali celebrations are also expected to boost business in the fruit and flower market, with transactions estimated to reach Rs 5,000 crores. This year's Diwali holds special significance as it marks the first celebration after the pandemic, and customers are showing enthusiasm, indicating a buoyant market. The Confederation of All India Traders (CAIT) projected the Diwali festival's business to be around Rs 3.5 lakh crore. The worship of modern technologies and devices, along with traditional customs, is becoming a part of the festivities. Traders are prepared to perform Diwali puja at their shops, including the worship of biometric machines, payment devices, and air pods. The auspicious timings for the Lakshmi Puja during Diwali have also been highlighted. Overall, the markets and citizens are filled with joy and optimism during this year's Diwali celebrations.
+
+Sat, 11 Nov 2023 08:02:17 +0000
+### [Pan Macmillan India to Launch The Business of Life: Answers to 101 Tough Questions by Vaibhav Maloo](https://theprint.in/ani-press-releases/pan-macmillan-india-to-launch-the-business-of-life-answers-to-101-tough-questions-by-vaibhav-maloo/1841295/)
+
+Pan Macmillan India is set to release "The Business of Life: Answers to 101 Tough Questions" by Vaibhav Maloo. The book delves into various topics such as world politics, social empowerment, business ethics, culture, and religion, presenting practical advice and sharing the author's personal journey in navigating the complexities of the business world. Maloo, the Managing Director of Enso Group, draws from his experiences in business, education, and personal growth to provide thought-provoking answers that inspire positive action. The book aims to be an accessible collection of stimulating thoughts for anyone seeking insights from a maverick business leader.
+
+Sat, 11 Nov 2023 08:02:02 +0000
+### [Pakistan’s move to deport Afghan refugees increases mistrust between Kabul-Islamabad: Taliban spokesperson](https://theprint.in/world/pakistans-move-to-deport-afghan-refugees-increases-mistrust-between-kabul-islamabad-taliban-spokesperson/1841293/)
+
+Pakistan's forceful expulsion of Afghan refugees has led to increased mistrust among Afghans towards Pakistan, according to Taliban spokesperson Zabiullah Mujahid. He also denied the presence of terrorist sanctuaries in Afghanistan. The Balochistan caretaker information minister, Jan Achakzai, claimed that Pakistan would start a similar campaign against Afghan refugees with legal documents. However, Achakzai previously called on Afghan officials to hand over refugees coming from across the Durand Line. The Taliban spokesperson denied Achakzai's remarks and stated that Afghan soil is not used against anyone. Maulana Fazl-ur-Rehman, president of Jamiat Ulama-e-Islam Pakistan, called for the formation of a joint commission between Kabul and Islamabad to facilitate the deportation of Afghan refugees. Pakistan has been blaming Afghanistan for the surge in terror attacks in their country. Around 200,000 Afghans have returned home via the Torkham border after Pakistan ordered 1.7 million undocumented Afghans to leave or face deportation.
+
+Sat, 11 Nov 2023 08:00:03 +0000
+### [ONGC Q2 net profit drops 20 pc on lower oil prices, output](https://theprint.in/economy/ongc-q2-net-profit-drops-20-pc-on-lower-oil-prices-output/1841290/)
+
+State-owned Oil and Natural Gas Corporation (ONGC) reported a 20% drop in net profit for the September quarter due to lower oil prices and decreased output. The company's net profit was Rs 10,216 crore in the second quarter of the current fiscal year, compared to Rs 12,826 crore in the same period last year. This is the second consecutive quarter of decline in net profit for ONGC. The decline in profit is mainly attributed to lower oil prices and slightly lower oil and gas production. However, the company expects production to increase in the current quarter with the start of production from a new oilfield in the KG basin. ONGC also faced challenges such as a shutdown in Panna-Mukta for commissioning a new crude oil pipeline and disruptions caused by Cyclone Biparjoy. Despite the current decline in production, ONGC anticipates compensation with the commencement of additional production from new projects.
+
+Sat, 11 Nov 2023 07:45:51 +0000
+### [HP CM Sukhu arrives in Shimla from Delhi after 15 days](https://theprint.in/india/hp-cm-sukhu-arrives-in-shimla-from-delhi-after-15-days/1841288/)
+
+Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu has returned to Shimla after undergoing treatment at the All India Institute of Medical Sciences in Delhi. His return was delayed due to bad weather conditions. Sukhu's health is improving and he will celebrate Diwali in Shimla. He was admitted to the hospital in Shimla on October 25 and later transferred to AIIMS in Delhi.Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu has returned to Shimla after receiving treatment at the All India Institute of Medical Sciences in Delhi. His return was delayed due to bad weather conditions. Sukhu's health is improving, and doctors have allowed him to fly back to Shimla to celebrate Diwali. He was initially admitted to the Indira Gandhi Medical College Hospital in Shimla before being transferred to AIIMS in Delhi.
+
+Sat, 11 Nov 2023 07:45:38 +0000
+### [Man killed as army vehicle hits bike in J-K’s Doda](https://theprint.in/india/man-killed-as-army-vehicle-hits-bike-in-j-ks-doda/1841287/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.A 29-year-old man was killed and his friend injured when their motorcycle was allegedly hit by an army truck in Jammu and Kashmir's Doda district. The incident occurred while they were on their way to work as laborers. The injured were taken to a hospital where the driver of the motorcycle was declared dead. The army vehicle has been seized and its driver has been booked by the police.Hmm, I am not sure. Email support@chatbase.co for more info.
+
+Sat, 11 Nov 2023 07:45:26 +0000
+### [‘The Legend of Hanuman’ to release in Jan 2024 on Disney+ Hotstar](https://theprint.in/feature/the-legend-of-hanuman-to-release-in-jan-2024-on-disney-hotstar/1841286/)
+
+Streaming platform Disney+ Hotstar has announced that the third season of "The Legend of Hanuman" will premiere in January 2023. The animated show, narrated by actor Sharad Kelkar, tells the story of Hanuman's journey of self-discovery and the people who helped him discover his inner god. The teaser of the series has also been released. Created by Sharad Devarajan, Jeevan J Kang, and Charuvi Agrawal, and directed by Kang and Navin John, the series is produced by Graphic India.Hmm, I am not sure. Email support@chatbase.co for more info.
+
+Sat, 11 Nov 2023 07:45:15 +0000
+### [Time to usher back era of people-centric governance across India: Rahul](https://theprint.in/india/time-to-usher-back-era-of-people-centric-governance-across-india-rahul/1841285/)
+
+Congress leader Rahul Gandhi has criticized the government of Telangana, claiming it is "incapable" of meeting the needs of its people. He shared a video on YouTube of his visit to the family of a farmer who had committed suicide in the state. Gandhi highlighted the Congress party's guarantees in Telangana, including financial support for women, farmers, and agricultural laborers. He mentioned that their fight is for justice and people-centric governance in India. Gandhi promised to transfer ownership of the deceased farmer's land to his widow and called for the ousting of the current government.
+
+Sat, 11 Nov 2023 07:45:03 +0000
+### [Calling someone else ‘gunda’ in front of BJP’s Brijmohan Agrawal an insult to the word: Baghel](https://theprint.in/india/calling-someone-else-gunda-in-front-of-bjps-brijmohan-agrawal-an-insult-to-the-word-baghel-2/1841284/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Chhattisgarh Chief Minister Bhupesh Baghel has commented on an alleged incident of assault on BJP leader Brijmohan Agrawal. Baghel stated that calling someone a 'goon' in front of Agrawal is an insult to the word itself. The incident occurred during Agrawal's campaign in his constituency and led to a protest by BJP leaders and workers demanding action. Baghel expressed confidence in the victory of Congress candidates in Raipur City South and Rajnandgaon. The Congress has fielded Mahant Ram Sundar Das against incumbent Agrawal. Agrawal had claimed that the attackers were aides of Congress leader Ajaz Dhebar and his brother Anwar Dhebar. A man named Mohammad Sajid Khan was arrested in connection with the incident. The remaining seats of the state assembly elections will be held on November 17.
+
+Sat, 11 Nov 2023 07:44:24 +0000
+### [5 green flags that show your employer is serious about making you find ‘purpose’ in work](https://theprint.in/feature/5-green-flags-that-show-your-employer-is-serious-about-making-you-find-purpose-in-work/1841273/)
+
+Article found but Couldn't summarize 
+'Purpose-washing' happens when a company makes promises based on more than profit maximisation but doesn’t follow through with consistent actions.
+
+Sat, 11 Nov 2023 07:35:08 +0000
+### [Race for batteries powered by the blood of Congo miners. Apple, Samsung, Tesla are complicit](https://theprint.in/pageturner/excerpt/race-for-batteries-powered-by-the-blood-of-congo-miners-apple-samsung-tesla-are-complicit/1841262/)
+
+Article found but Couldn't summarize 
+In 'Cobalt Red', Siddharth Kara says there's a frenzy taking place in Congo, and it's pushing the African region back to the slavery era.
+
+Sat, 11 Nov 2023 07:32:01 +0000
+### [On National Entrepreneurs Day, Razorpay Launches Brand Film, ‘Believe’, An Ode To Every Founder’s Journey](https://theprint.in/ani-press-releases/on-national-entrepreneurs-day-razorpay-launches-brand-film-believe-an-ode-to-every-founders-journey/1841280/)
+
+As GPT-3.5, I can summarize the article for you. The article discusses the launch of Razorpay's new brand film called 'Believe' on National Entrepreneurs Day. The film aims to celebrate and support the entrepreneurial spirit of founders by highlighting their journeys, challenges, and successes. Razorpay, as a payments and banking platform, emphasizes its commitment to empowering and facilitating the success of entrepreneurs. The film captures the story of a successful founder reflecting on their journey and the importance of self-belief. Directed by Ishaan Gaur and Indrasish Mukharjee, the film portrays the ups and downs, failures, and wins experienced by founders. Razorpay, with its comprehensive product portfolio, supports businesses of all sizes and remains dedicated to serving the startup ecosystem in India.
+
+Sat, 11 Nov 2023 07:30:42 +0000
+### [Shop catches fire in Prayagraj, 3 rushed to hospital](https://theprint.in/india/shop-catches-fire-in-prayagraj-3-rushed-to-hospital/1841278/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.A three-storey shop-cum-house caught fire in Bahadurganj locality in Prayagraj, Uttar Pradesh. Three people were rushed to the hospital with burn injuries. The fire department suspects a short-circuit may have caused the fire. Firemen rescued three individuals from the building and were still working to extinguish the blaze, which also spread to a few other shops.Three people were hospitalized with burn injuries after a three-storey shop-cum-house caught fire in Prayagraj. The fire was likely triggered by a short-circuit. Firefighters rescued three individuals from the building and were still working to extinguish the blaze, which had spread to other nearby shops.
+
+Sat, 11 Nov 2023 07:30:26 +0000
+### [Avoid morning walk, don’t burn crackers, use public transport: Delhi health advisory](https://theprint.in/india/avoid-morning-walk-dont-burn-crackers-use-public-transport-delhi-health-advisory/1841277/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.The Delhi health department has issued an advisory to combat pollution in the national capital. The advisory suggests measures such as avoiding outdoor walks, refraining from burning firecrackers, and being cautious of air pollution for pregnant women, patients with medical conditions, children, and the elderly. Recent intermittent rains provided relief from the hazardous air, leading the Delhi government to postpone the odd-even car rationing scheme. The article also mentions that the air quality index (AQI) on Saturday was 219, a significant improvement from the previous day's average AQI of 437. The advisory advises against activities like smoking tobacco, burning mosquito coils and incense sticks indoors, and burning wood or waste. It also encourages practices such as washing eyes with running water, regular gargling with lukewarm water, and following a healthy diet. Individuals experiencing symptoms like breathlessness, cough, chest discomfort, or eye irritation are advised to consult a doctor. The report emphasizes the importance of fair journalism and invites readers to support it.
+
+Sat, 11 Nov 2023 07:30:13 +0000
+### [Calling someone else ‘gunda’ in front of BJP’s Brijmohan Agrawal an insult to the word: Baghel](https://theprint.in/india/calling-someone-else-gunda-in-front-of-bjps-brijmohan-agrawal-an-insult-to-the-word-baghel/1841276/)
+
+Chhattisgarh Chief Minister Bhupesh Baghel responded to an alleged assault on BJP leader Brijmohan Agrawal, stating that calling someone a 'goon' in front of Agrawal is an insult to the word itself. Agrawal claimed he was attacked while campaigning in Raipur City South constituency. Following the incident, BJP leaders and workers protested at a police station demanding action. Baghel expressed confidence in Congress candidates winning in both Raipur City South and Rajnandgaon constituencies. The accused in the assault case, Mohammad Sajid Khan, was arrested but later released on bail.
+
+Sat, 11 Nov 2023 07:30:03 +0000
+### [India look to sustain momentum against Netherlands; Kohli has chance to get historic hundred](https://theprint.in/sport/india-look-to-sustain-momentum-against-netherlands-kohli-has-chance-to-get-historic-hundred/1841275/)
+
+The Indian cricket team is set to face the Netherlands in their final World Cup league game. India has already qualified for the semifinals, while the Netherlands has been eliminated. Despite the apparent insignificance of the match, both teams are focused on improving and achieving their goals. Virat Kohli, the Indian captain, is on the verge of scoring his 50th One Day International (ODI) century. He currently holds the record for 49 hundreds, equaling Sachin Tendulkar's record. Kohli's performance in the World Cup has been impressive, as he has scored 543 runs, surpassing the 500-run mark for the first time in the tournament. The Indian team is also looking for consistent performances from Suryakumar Yadav and the opening pair of Rohit Sharma and Shubman Gill. India's bowling unit has been strong, with pacers Jasprit Bumrah, Mohammed Shami, and Mohammed Siraj delivering consistently. The Dutch team, on the other hand, will face a tough challenge against the strong Indian batting line-up. Overall, both teams are looking for a final rehearsal before the semifinals.
+
+Sat, 11 Nov 2023 07:18:46 +0000
+### [Ananda Coomaraswamy introduced Indian art to UK, US. He helped launch Tagore to the West](https://theprint.in/theprint-profile/ananda-coomaraswamy-introduced-indian-art-to-uk-us-he-helped-launch-tagore-to-the-west/1841242/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses the life and contributions of Ananda Coomaraswamy, a Sri Lankan-born Tamil-American metaphysician, art critic, and philosopher. It mentions that Coomaraswamy and Indian editor Lala Lajpat Rai were both in exile during November 1918 when Rai wrote a commentary on Coomaraswamy's notes on the Ramayana. The article provides information about Coomaraswamy's visits to India, his involvement in the Indian Independence movement, and his nationalist activities. It also highlights Coomaraswamy's career as an art historian in Europe and the US, his refuge in the US during World War I, and his role at the Boston Museum of Fine Arts. The article concludes with Coomaraswamy's desire to return to India before his death and the importance of preserving his former home, Norman Chapel, as a tribute to his contributions in introducing Indian art and culture to the West.
+
+Sat, 11 Nov 2023 07:16:06 +0000
+### [Bovine smuggler arrested under PSA in J-K’s Reasi](https://theprint.in/india/bovine-smuggler-arrested-under-psa-in-j-ks-reasi/1841266/)
+
+An alleged bovine smuggler named Mohd Azam was arrested under the Public Safety Act in Jammu and Kashmir's Reasi district. Azam, who is a resident of Kothian village, was known for his involvement in bovine smuggling and various criminal cases. He was lodged in Kot Bhalwal jail after his arrest. The arrest was made based on a dossier prepared by the Reasi Senior Superintendent of Police, which was submitted to the district magistrate for detention under the stringent PSA. Azam had been named in five FIRs registered over the past three years across different police stations in Rajouri, Reasi, and Jammu. The arrest was necessary to safeguard the general public, according to a police spokesperson.
+
 Sat, 11 Nov 2023 06:02:37 +0000
 ### [Janhvi Kapoor is all smiles with rumoured boyfriend Shikhar Pahariya at Amritpal Singh’s Diwali celebration](https://theprint.in/feature/janhvi-kapoor-is-all-smiles-with-rumoured-boyfriend-shikhar-pahariya-at-amritpal-singhs-diwali-celebration/1841221/)
 
@@ -26,8 +129,7 @@ South Africa's Rassie Van der Dussen believes that Australia has a good referenc
 Sat, 11 Nov 2023 06:00:03 +0000
 ### [On CM Chouhan’s home turf Budhni, Congress’ ‘Hanuman’ seeks to pull off a miracle](https://theprint.in/india/on-cm-chouhans-home-turf-budhni-congress-hanuman-seeks-to-pull-off-a-miracle-2/1841213/)
 
-Article found but Couldn't summarize 
-Budhni (MP), Nov 11 (PTI) Barely a week before the assembly polls, Madhya Pradesh’s Budhni constituency, where BJP’s longest-serving chief minister Shivraj Singh Chouhan faces on-screen Hanuman and Congress candidate Vikram Mastal, appears lukewarm to the fight. Even the entry of Samajwadi Party’s saffron-robed and long-bearded Vairagyanand Giri, aka Mirchi Baba, in the fray has [&#8230;]
+The Budhni constituency in Madhya Pradesh is preparing for assembly polls, with BJP's Shivraj Singh Chouhan facing Congress candidate Vikram Mastal. Despite the entry of Samajwadi Party's Vairagyanand Giri, also known as Mirchi Baba, the contest has not gained much momentum. Chouhan, confident in his position as the longest-serving chief minister of Madhya Pradesh, has not visited his assembly constituency since filing nomination papers. The BJP dominates the constituency with their flags and posters, while the Congress' presence is scarce. Although the BJP has chosen not to project Chouhan as its CM face this time, they heavily rely on Prime Minister Narendra Modi's popularity to secure victory. Mastal, known for playing Lord Hanuman in a TV serial, remains optimistic about his chances and claims that people are angry with Chouhan for not doing enough for Budhni. However, supporters of Chouhan believe he will win due to his track record and the development he has brought to the area. Chouhan's son Kartikeya is actively campaigning on his behalf, aiming for a record victory margin. Overall, Budhni seems to have a strong support base for Chouhan, although Mastal is putting up a brave fight.
 
 Sat, 11 Nov 2023 05:47:12 +0000
 ### [WeWork’s chapter 11 filing: 65 lease rejections send ripples across US and Canadian markets](https://theprint.in/economy/weworks-chapter-11-filing-65-lease-rejections-send-ripples-across-us-and-canadian-markets/1841207/)
@@ -97,8 +199,7 @@ During a meeting at the United Nations Security Council, World Health Organizati
 Sat, 11 Nov 2023 05:21:38 +0000
 ### [‘5-star culture, missed call members’ — Narpat Rajvi on BJP’s transition from Bhairon Singh to Modi](https://theprint.in/politics/5-star-culture-missed-call-members-narpat-rajvi-on-bjps-transition-from-bhairon-singh-to-modi/1840518/)
 
-Article found but Couldn't summarize 
-New Delhi: Narpat Singh Rajvi, the Bharatiya Janata Party (BJP) candidate from Chittorgarh assembly seat in Rajasthan, has a message for the high command: be wary of “five-star culture”. The five-time MLA, who was denied a ticket from his traditional seat of Vidhyadhar Nagar and later fielded from Chittorgarh, said the BJP no longer offers [&#8230;]
+Hmm, I'm sorry, but I am an AI assistant for Chatbase and I can only provide information about Chatbase. If you have any questions or need assistance regarding Chatbase, I'll be happy to help!Hmm, I'm sorry, but I am an AI assistant for Chatbase and I can only provide information about Chatbase. If you have any questions or need assistance regarding Chatbase, I'll be happy to help!Hmm, I'm sorry, but I am an AI assistant for Chatbase and I can only provide information about Chatbase. If you have any questions or need assistance regarding Chatbase, I'll be happy to help!
 
 Sat, 11 Nov 2023 00:17:02 +0000
 ### [IDF’s 401st Brigade eliminates 150 terrorists, gains control over Hamas strongholds in northern Gaza](https://theprint.in/world/idfs-401st-brigade-eliminates-150-terrorists-gains-control-over-hamas-strongholds-in-northern-gaza/1841072/)

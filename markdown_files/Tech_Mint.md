@@ -1,3 +1,14 @@
+Sat, 11 Nov 2023 12:29:45 +0530
+### [iOS 17.2 Beta 2: Apple takes steps to retire iTunes Movie Store, suggests report](https://www.livemint.com/technology/tech-news/ios-17-2-beta-2-apple-takes-steps-to-retire-itunes-movie-store-suggests-report-11699685691100.html)
+
+Apple has released the iOS 17.2 public beta 2, which includes new features such as spatial video recording and a journal app for iPhones. However, a less-talked-about change suggests that Apple is taking steps to retire the dedicated iTunes movie store. Code strings indicate that iPhone users will eventually receive a notification stating that iTunes movies are moving to the Apple TV app. The TV app has been updated with a new sidebar for easier navigation, and speculation suggests that additional changes will make the iTunes movie store obsolete. The movies and TV shows tabs will be removed from the iTunes store, but users can still access them until the global release of iOS 17.2. Additionally, the update introduces spatial video recording exclusively for the iPhone 15 Pro and iPhone 15 Pro Max and extends the sensitive contact warning feature to include contact posters in certain apps.
+
+Sat, 11 Nov 2023 12:16:01 +0530
+### [Unmasking Threat: How India can chart strategies to combat deepfake video challenges?](https://www.livemint.com/technology/tech-news/rashmika-mandanna-deepfake-video-how-india-can-chart-strategies-to-combat-deepfake-video-challenges-11699665067709.html)
+
+Article found but Couldn't summarize 
+Deepfake technology has become a rising threat in audio, video, and photo formats, prompting the government and Bollywood industry to take action. The Delhi Police has registered an FIR in connection with a deepfake video involving actor Rashmika Mandanna.
+
 Sat, 11 Nov 2023 11:08:30 +0530
 ### [Flipkart Big Diwali Sale ends tonight: Top deals on premium gaming smartphones - OnePlus 11 5G, iPhone 15 Pro, more](https://www.livemint.com/technology/gadgets/flipkart-big-diwali-sale-ends-tonight-top-deals-on-premium-gaming-smartphones-oneplus-11-5g-iphone-15-pro-more-11699680507072.html)
 

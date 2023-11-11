@@ -1,3 +1,8 @@
+Sat, 11 Nov 2023 12:43:56 +0530
+### [‘The Killer’ film review: Michael Fassbender and David Fincher smash this quiet rampage of revenge out of the park](https://www.thehindu.com/entertainment/movies/the-killer-film-review-michael-fassbender-and-david-fincher-smash-this-quiet-rampage-of-revenge-out-of-the-park/article67522583.ece)
+
+The article discusses the film "The Killer", directed by David Fincher and starring Michael Fassbender. The film follows the interior monologues of an assassin as he navigates his missions and seeks vengeance on those who have harmed his girlfriend. The article praises the visually arresting frames of the film and Fassbender's performance. It also mentions the captivating conversation between Fassbender's character and a fellow assassin, as well as the score by Trent Reznor and Atticus Ross. The film is currently available for streaming on Netflix.
+
 Fri, 10 Nov 2023 18:13:00 +0530
 ### [‘The Marvels’ movie review: Low on stakes, this modest addition hits a much-needed soft reboot button for the MCU](https://www.thehindu.com/entertainment/movies/the-marvels-movie-review-low-on-stakes-this-modest-addition-hits-a-much-needed-soft-reboot-button-for-the-mcu/article67521334.ece)
 
@@ -269,7 +274,7 @@ The article discusses the film "Dhak Dhak" and its portrayal of female bikers on
 Fri, 13 Oct 2023 14:59:19 +0530
 ### [Aditya Prakash’s album ‘Isolashun’ celebrates the multiplicity of music](https://www.thehindu.com/entertainment/music/aditya-prakashs-album-isolashun-celebrates-the-multiplicity-of-music/article67416001.ece)
 
-Article found but Couldn't summarize
+Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses vocalist Aditya Prakash's latest album, 'Isolashun,' which explores the tension in dual identity and questions classical aesthetic notions of beauty. Influenced by sitar maestro Pt. Ravi Shankar and Carnatic singer T.M. Krishna, Prakash composed and arranged the tracks himself, with contributions from other artists. The album is part of a larger project that includes a podcast series, a short film, and a live performance. Prakash's musical journey began in Los Angeles, where he grew up in an artistic family and later toured with Pt. Ravi Shankar. He also learned from mentor T.M. Krishna and collaborated with violinist R.K. Shriramkumar and choreographer Akram Khan. Prakash emphasizes the importance of new sounds and the emotional impact of music.
 
 Fri, 13 Oct 2023 14:45:00 +0530
 ### [Kathakali festival ‘Bhasuram Bhasayati’ — Where emotions ran high](https://www.thehindu.com/entertainment/dance/kathakali-festival-bhasuram-bhasayati-where-emotions-ran-high/article67399305.ece)
@@ -290,8 +295,7 @@ The article discusses the upcoming game "Assassin's Creed Mirage" and how it aim
 Mon, 09 Oct 2023 16:24:56 +0530
 ### [T.N. Seshagopalan on how he was inspired by Harikesanallur Muthiah Bhagavatar’s versatility](https://www.thehindu.com/entertainment/music/madurai-tn-seshagopalan-on-what-makes-harikesanallur-muthiah-bhagavatar-a-versatile-composer/article67391929.ece)
 
-Article found but Couldn't summarize 
-The veteran musician traced the composer’s contributions to Carnatic music that range from varnams to thillanas and harikatha
+The Nadasurabhi Cultural Association in Bengaluru celebrated the 75th birthday of musician Madurai T.N. Seshagopalan, honoring him with a Lifetime Achievement Award. The event included reminiscences from senior artists who have worked with Seshagopalan, as well as insights from his disciples and colleagues. A short film highlighting his life and experiences was presented by his son and disciple, T.N.S. Krishna. Seshagopalan spoke about his guru, Harikesanallur Muthiah Bhagavatar, and his contributions to classical music and harikatha. He discussed Bhagavatar's compositions, journey as a performer of Harikatha, and his notable features as a composer. Seshagopalan also shared Bhagavatar's influence on Carnatic music and his role in preserving Swati Tirunal compositions.
 
 Mon, 09 Oct 2023 16:19:07 +0530
 ### [‘Joy Ride’ movie review: This Ashley Park-led all-girls road trip is raunchy and rambunctious](https://www.thehindu.com/entertainment/movies/joy-ride-movie-review-this-ashley-park-led-all-girls-road-trip-is-raunchy-and-rambunctious/article67398825.ece)

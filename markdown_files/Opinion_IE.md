@@ -1,3 +1,14 @@
+Sat, 11 Nov 2023 06:30:47 +0000
+### [This Diwali, a simple wish: Don’t make fresh air about identity politics](https://indianexpress.com/article/opinion/columns/diwali-simple-wish-air-identity-politics-9022593/)
+
+The author reflects on their childhood experiences of the Diwali break, which brought joy and excitement with family reunions, treats, new clothes, and festive decorations. However, they acknowledge that over the years, Delhi's air quality has worsened during this time, causing health issues and disrupting sleep due to high pollution levels and excessive noise from firecrackers. The article highlights various factors contributing to Delhi's pollution, including stubble burning, vehicular emissions, geographical conditions, and industrial pollution. 
+
+The author emphasizes that the worsening pollution is not solely a Diwali problem but rather a failure of governance and collective responsibility. They mention how pollution levels briefly improved during the pandemic but have now returned to previous levels, causing respiratory problems and discomfort for residents. Despite firecrackers being banned in India since 2018, the sound of firecrackers can still be heard during Diwali, indicating a lack of enforcement.
+
+The author expresses concern about the changing perception of firecracker bans, as it has increasingly been portrayed as an "anti-Hindu" decision. They mention instances where politicians twisted the issue for political gain, accusing the government of hurting religious sentiments by imposing the ban. This shift in narrative has made it more challenging to advocate for the environment and call for responsible behavior.
+
+Lastly, the author laments the dilution of the festival's true meaning, which should be a day of celebration, gratitude, and hope for a better future. They question whether it is too much to ask for clean air during such a festival or to separate environmental advocacy from divisive agendas. In conclusion, the author expresses disappointment and suggests a need to address these issues to preserve the spirit of Diwali and protect the environment.
+
 Sat, 11 Nov 2023 01:48:52 +0000
 ### [At a conference in China, case for investing in India remains strong](https://indianexpress.com/article/opinion/columns/at-a-conference-in-china-case-for-investing-in-india-remains-strong-9022244/)
 

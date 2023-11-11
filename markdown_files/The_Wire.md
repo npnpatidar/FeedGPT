@@ -1,3 +1,9 @@
+2023-11-11T12:20:25+05:30
+### [Remembering Maulana Abul Kalam Azad: A Scholar, Patriot and Builder of Modern India](https://thewire.in/history/remembering-maulana-abul-kalam-azad-a-scholar-patriot-and-builder-of-modern-india)
+
+No Article text 
+Today, November 11, marks the 135th birth anniversary of India's first education minister. The Maulana played a crucial role in bringing Indian Muslims out of their self-imposed political indifference to cooperate with their Hindu brethren in the task of freeing the country from foreign rule.
+
 2023-11-11T08:30:35+05:30
 ### [Photo Essay | An Evening in West Bank's Susiya, Battling the Threat of Israeli Settler Terror](https://thewire.in/world/photo-essay-david-shulman-margaret-olin-susiya)
 
