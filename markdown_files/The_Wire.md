@@ -1,3 +1,9 @@
+2023-11-11T19:58:09+05:30
+### [Backstory: It's Time Journalists Woke Up to Their Digital Security](https://thewire.in/media/backstory-its-time-journalists-woke-up-to-their-digital-security)
+
+No Article text 
+A fortnightly column from The Wire's ombudsperson.
+
 2023-11-11T17:36:21+05:30
 ### [Malayalam Film 'Aattam' Shows How the Truth Can be Messy and Complicated](https://thewire.in/film/malayalam-film-aattam-shows-how-the-truth-can-be-messy-and-complicated)
 
