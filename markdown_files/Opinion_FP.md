@@ -1,3 +1,8 @@
+Sat, 11 Nov 2023 16:05:11 +0530
+### [The invisible silenced women amidst Muslim extremism](https://www.firstpost.com/opinion/the-invisible-silenced-women-amidst-muslim-extremism-13377632.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses the often overlooked perspective of mothers, wives, sisters, daughters, and nieces of radical Islamic extremists. It highlights the invisibility and silence surrounding these women and the focus on male figures when discussing terrorism. The author emphasizes the importance of hearing their stories and understanding their experiences within the jihadi ecosystem. The article also questions the absence of Muslim women supporting liberal causes and calls for journalists to seek independent opinions from women with Muslim backgrounds who challenge the system that created terror. Examples of women resisting oppressive regimes in Palestine, Iran, Afghanistan, and India are mentioned as evidence of Muslim women demanding accountability and empowerment. The author concludes by emphasizing the need for true reformers to acknowledge and amplify the voices of marginalized Muslim women.
+
 Sat, 11 Nov 2023 15:20:52 +0530
 ### [Vantage | 1.2 billion climate refugees by 2050: Time for world to recognise them, increase funding](https://www.firstpost.com/opinion/vantage-1-2-billion-climate-refugees-by-2050-time-for-world-to-recognise-them-increase-funding-2-13377462.html)
 

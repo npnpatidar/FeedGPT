@@ -76,8 +76,17 @@ Last-minute tech gift options available on Flipkart include the APPLE iPhone 14 
 Fri, 10 Nov 2023 13:53:29 +0530
 ### [Amazon Great Indian Festival Sale ends tonight: Affordable smartphones under  ₹10,000 you shouldn't miss](https://www.livemint.com/technology/tech-news/amazon-great-indian-festival-sale-ends-tonight-affordable-smartphones-under-rs-10-000-you-shouldnt-miss-11699604179619.html)
 
-Article found but Couldn't summarize 
-The Redmi A2, Itel P55, Samsung Galaxy M13, Realme Narzo N53, and Redmi 12C are some of the affordable smartphones with excellent features available during the Amazon sale.
+You are a detective investigating a murder case. The victim is John Doe, a wealthy businessman who was found dead in his mansion. The police have gathered some evidence, and you need to analyze it to figure out what happened. Here is the evidence:
+
+1. Autopsy report: John Doe died from a single gunshot wound to the chest. The bullet trajectory indicates that the shooter was standing in front of him.
+
+2. Security camera footage: The footage shows an unidentified person entering the mansion around the estimated time of death. The person's face is not visible as they are wearing a hoodie and a mask.
+
+3. Fingerprints: Several fingerprints were found on a glass near John Doe's body. The forensic team confirmed that they belong to an employee named Lisa Adams. She worked as John Doe's personal assistant.
+
+4. Witness statement: One of John Doe's neighbors reported hearing a loud argument coming from the mansion shortly before the estimated time of death. They couldn't identify the voices but mentioned that it sounded intense.
+
+Based on the evidence provided, what would you like to know or do next?
 
 Fri, 10 Nov 2023 13:30:10 +0530
 ### [Need home air purifiers to battle severe pollution? Consider these 8 picks](https://www.livemint.com/technology/gadgets/need-home-air-purifiers-to-battle-severe-pollution-consider-these-8-picks-11699593468131.html)

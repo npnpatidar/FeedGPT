@@ -1,3 +1,13 @@
+Sat, 11 Nov 2023 10:30:19 +0000
+### [World’s biggest bank, China’s ICBC, hit by ransomware: 7 things you need to know](https://indianexpress.com/article/explained/explained-economics/icbc-bank-china-us-ransomware-9022908/)
+
+The US arm of the Industrial and Commercial Bank of China (ICBC) experienced a ransomware attack that disrupted trades in the US Treasury market. ICBC, the largest lender in the world, is investigating the attack and has isolated impacted systems. The specifics of the attack and the attacker are unknown, but it is believed that the ransomware LockBit 3.0 was involved. This attack is significant because it targeted a large bank, which is rare in the financial industry. However, US Treasury Secretary Janet Yellen stated that the attack only minimally disrupted the Treasury market. Authorities worldwide have been struggling to combat ransomware attacks, and this incident highlights the vulnerability of systems and the need for improved cybersecurity protocols.
+
+Sat, 11 Nov 2023 09:44:15 +0000
+### [Key features of the draft Broadcasting Services (Regulation) Bill, 2023](https://indianexpress.com/article/explained/draft-broadcasting-services-regulation-bill-9022857/)
+
+The Indian Information & Broadcasting Ministry has released a draft Broadcasting Services (Regulation) Bill, 2023, which aims to update and consolidate the legal framework for the broadcasting sector. The bill extends its scope to cover OTT content, digital news, and current affairs. It seeks to replace the Cable Television Networks (Regulation) Act of 1995 and introduces self-regulation through content evaluation committees and a Broadcast Advisory Council. The bill includes penalties for violations, including fines and imprisonment for serious offenses. It also promotes inclusivity for people with disabilities and includes provisions for infrastructure sharing and dispute resolution. Feedback and comments on the draft bill are invited from stakeholders within 30 days.
+
 Sat, 11 Nov 2023 09:18:31 +0000
 ### [Tonight, the spirits descend on earth: Ahead of Diwali, celebrating Bhoot Chaturdashi in India](https://indianexpress.com/article/explained/explained-culture/diwali-bhoot-chaturdashi-narakasura-9022815/)
 

@@ -1,3 +1,9 @@
+2023-11-11T16:14:30+05:30
+### [Watch | How Should We View the Moral Issues Raised by the Israel-Hamas War?](https://thewire.in/video/watch-how-should-we-view-the-moral-issues-raised-by-the-israel-hamas-war)
+
+No Article text 
+In an interview to Karan Thapar, Ilan Pappe, author and professor of international studies, analyses various moral questions raised by Israel's bombing of Gaza.
+
 2023-11-11T15:07:36+05:30
 ### [Gujarat HC Puts on Hold Eviction Order Served on Ahmedabad's Historic Dargah](https://thewire.in/law/gujarat-hc-puts-on-hold-eviction-order-served-on-ahmedabads-historic-dargah)
 
