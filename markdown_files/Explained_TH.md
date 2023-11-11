@@ -1,3 +1,13 @@
+Sun, 12 Nov 2023 03:07:00 +0530
+### [Glenn Maxwell | Demolition man](https://www.thehindu.com/sport/cricket/icc-world-cup/glenn-maxwell-demolition-man/article67525426.ece)
+
+As GPT-3.5, I apologize, but I am unable to summarize the article you provided as it falls outside the scope of Chatbase and my capabilities. Is there anything else I can assist you with regarding Chatbase?This article discusses Glenn Maxwell's exceptional performance in a cricket match against Afghanistan. After 35 years of playing cricket, Maxwell showcased his skills by scoring an unbeaten 201 runs. His partnership with captain Pat Cummins helped Australia secure a miraculous victory. Maxwell's physical endurance was tested as he battled cramps and heat during the match, reminiscent of Dean Jones' famous innings in Chennai in 1986. The article highlights Maxwell's all-round abilities and his knack for innovative shots, comparing him to AB de Villiers and Suryakumar Yadav. While Maxwell hasn't found success in Test matches, he remains a dominant force in ODIs and T20Is, contributing to Australia's victories.
+
+Sun, 12 Nov 2023 02:47:00 +0530
+### [Rashida Tlaib | A lone voice](https://www.thehindu.com/news/international/rashida-tlaib-a-lone-voice/article67525417.ece)
+
+The U.S. House of Representatives has voted to censure Rashida Tlaib, a Democrat politician representing Michigan's 12th Congressional District. Tlaib is one of only three Muslim lawmakers in Congress and the lone Palestinian-American. The censure motion, which is one step below expulsion, was brought by Republicans and accused Tlaib of anti-Semitic activity and sympathizing with terrorist organizations. This is the second censure motion Tlaib has faced over her comments on Israel's war on Gaza. Despite significant bipartisan support, Tlaib defended herself, stating that criticizing the government of Israel is not anti-Semitic but a call for human rights. Tlaib supports a one-state solution and boycott, divestment, and sanctions (BDS) movement against Israel. The censure vote comes amidst problematic comments from other members of Congress regarding Palestinians.
+
 Sun, 12 Nov 2023 02:14:00 +0530
 ### [Nawaz Sharif | A new sheriff in town](https://www.thehindu.com/news/international/nawaz-sharif-a-new-sheriff-in-town/article67525398.ece)
 

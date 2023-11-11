@@ -1,3 +1,13 @@
+Sat, 11 Nov 2023 22:02:01 +0000
+### [French Ambassador to India visits war veterans’ memorial](https://theprint.in/world/french-ambassador-to-india-visits-war-veterans-memorial/1841883/)
+
+French Ambassador to India, Thierry Mathou, and France's Deputy Ambassador to Puducherry, Talbot Barre, visited the war veterans' memorial in Puducherry on November 11, to commemorate the end of World War I. They paid tribute to the soldiers who lost their lives by placing a wreath at the memorial and observing a moment of silence. The memorial is dedicated to residents of French India who died during the war. Additionally, India and France have committed to deepening their cooperation in areas such as digital public infrastructure, cybersecurity, start-ups, AI, supercomputing, and digital skills development. They aim to harness their respective strengths in digital technologies and work together for a peaceful and open cyberspace. The two countries also recognize the potential of startups in driving innovation and economic growth and emphasize their commitment to bilateral cooperation.
+
+Sat, 11 Nov 2023 21:47:02 +0000
+### [Satisfaction level of Afghan women for their freedom, social life lowest in world: Survey](https://theprint.in/world/satisfaction-level-of-afghan-women-for-their-freedom-social-life-lowest-in-world-survey/1841881/)
+
+According to a recent survey by the Gallup Institute, Afghan women have the lowest satisfaction level for their freedom and social life compared to other countries. Only 11% of Afghan women are satisfied with their social freedom in Afghanistan, while 17% said they are treated with respect. The survey highlights that women in Afghanistan continue to face suffering despite some level of freedom. The Taliban, however, dismissed the survey as invalid and claimed that the suffering of Afghan women has ended. The report also expresses concern about the deportation of Afghan refugees from Pakistan and the pressure it puts on the lives of deported women and girls.
+
 Sat, 11 Nov 2023 21:02:19 +0000
 ### [Soccer-Juventus move top of Serie A with 2-1 win over Cagliari](https://theprint.in/sport/soccer-juventus-move-top-of-serie-a-with-2-1-win-over-cagliari/1841876/)
 
