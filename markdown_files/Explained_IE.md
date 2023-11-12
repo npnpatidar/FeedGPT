@@ -1,3 +1,8 @@
+Sun, 12 Nov 2023 11:00:34 +0000
+### [Airfares are sky-high in Europe and much of the world. Is that a good thing?](https://indianexpress.com/article/explained/explained-global/airfares-high-europe-world-explained-9023265/)
+
+GPT-3.5: The article discusses the significant increase in airfare prices since the COVID-19 pandemic. It mentions that average airfares across Europe in summer 2023 were between 20% and 30% higher compared to 2019. The rise in prices can be attributed to increased demand for travel and disrupted supply chains. Airlines have experienced record profits due to the surge in demand, but their lack of capacity has led to higher prices. Supply chain issues, including delays in aircraft production and parts, have contributed to the price increase. Additionally, staffing problems at airports have also impacted costs. While some accuse airlines of price-gouging, airlines argue that prices reflect the current state of the industry. The article suggests that prices are unlikely to fall soon due to ongoing supply chain challenges and the industry's transition to more sustainable aviation fuels, which are more expensive. Some governments have considered interventions, such as capping airfares or setting minimum prices, to address the environmental impact of air travel.
+
 Sun, 12 Nov 2023 08:45:44 +0000
 ### [How a 500-year-old collection of pressed flowers sheds light on demography, human movements](https://indianexpress.com/article/explained/herbarium-italy-discovery-history-plants-flowers-study-9023264/)
 

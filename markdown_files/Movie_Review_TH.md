@@ -1,3 +1,8 @@
+Sun, 12 Nov 2023 17:59:56 +0530
+### [‘Tiger 3’ movie review: Salman Khan nails this mission timepass](https://www.thehindu.com/entertainment/movies/tiger-3-movie-review-salman-khan-nails-this-mission-timepass/article67527286.ece)
+
+The article discusses the film "Tiger 3," starring Salman Khan, and provides a review of the movie. The film is set in Pakistan and revolves around a spy named Tiger who is on a mission to save democracy. The antagonist is a rogue agent from Pakistan's ISI, and there are questions about the loyalty of Tiger's wife, who has a past connection with the antagonist. The article mentions that while the action sequences are impressive, the emotional aspect of the film falls short. It also criticizes the lack of a counter perspective and the focus on democratic and dictatorial elements in the neighborhood. The performances of the actors, including Salman Khan, Emraan Hashmi, and Katrina Kaif, are discussed, with praise for Emraan's portrayal of the villain. Overall, the article suggests that the film relies on patriotic fervor but may not leave a lasting impact.
+
 Sun, 12 Nov 2023 13:27:18 +0530
 ### [‘Loki’ Season 2 finale review: An epic climax at the end of time](https://www.thehindu.com/entertainment/movies/loki-season-2-finale-review-an-epic-climax-at-the-end-of-time/article67526939.ece)
 

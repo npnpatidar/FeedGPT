@@ -1,3 +1,19 @@
+Sun, 12 Nov 2023 18:28:39 +0530
+### [Lepakshi temple complex: History, lore, legends, and myths all merge into astonishing structures](https://www.firstpost.com/opinion/lepakshi-temple-complex-history-lore-legends-and-myths-all-merge-into-astonishing-structures-13380402.html)
+
+Article found but Couldn't summarize 
+Lepakshi temple complex: History, lore, legends, and myths all merge into astonishing structures
+
+Sun, 12 Nov 2023 17:45:41 +0530
+### [How memories of Liberation War of 1971 solidify India-Bangladesh friendship](https://www.firstpost.com/opinion/how-memories-of-liberation-war-of-1971-solidify-india-bangladesh-friendship-13380332.html)
+
+The article reflects on the author's experiences and observations related to the Liberation War Museum in Dhaka, Bangladesh. The museum serves as a memorial to the brutal crackdown and genocide committed by the Pakistani military during the war. It exhibits the history of East Bengal, East Pakistan, and Bangladesh, displaying the number of casualties, freedom fighters, and refugees. The author highlights the significance of Prime Minister Sheikh Hasina's efforts in establishing international crimes tribunals to prosecute those responsible for the genocide. India's role in the joint liberation campaign is also acknowledged, with both countries commemorating their military contributions. The article concludes by emphasizing the importance of learning from the Liberation War Museum's approach when establishing the National War Museum in Delhi and the need for a separate minister to address the welfare of veterans in India.
+
+Sun, 12 Nov 2023 17:21:42 +0530
+### [2024 is the year of reckoning for India, Indians and Indian politics](https://www.firstpost.com/opinion/2024-is-the-year-of-reckoning-for-india-indians-and-indian-politics-13380082.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses Minhaz Merchant's book, "Modi: The Challenge of 2024," which analyzes Prime Minister Narendra Modi's two terms in office and explores why the year 2024 is significant for India. Merchant emphasizes the importance of journalistic neutrality and recounts his initial encounters with Modi. The book objectively examines the achievements and shortcomings of the Modi government, addressing issues such as infrastructure development and the growth of government intervention in the economy. Despite criticism, Merchant highlights Modi's popularity and attributes it to his understanding of the Indian mindset and his perceived sincerity in governance. The article suggests that while the BJP appears well-positioned for the 2024 elections, the outcome will depend on Opposition alliances and the party's ability to avoid complacency. Additionally, Merchant forecasts that Modi may step aside in 2029 after 15 years as prime minister. The book also delves into the post-Modi phase and discusses potential successors, including Yogi Adityanath. Overall, the article praises the book for its comprehensive analysis of Modi's tenure and its exploration of India's political landscape.
+
 Sun, 12 Nov 2023 14:04:05 +0530
 ### [From Yasujirō Ozu to Satyajit Ray: The Japan-India film connection](https://www.firstpost.com/opinion/from-yasujiro-ozu-to-satyajit-ray-the-japan-india-film-connection-13379582.html)
 

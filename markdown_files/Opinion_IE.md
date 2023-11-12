@@ -1,3 +1,8 @@
+Sun, 12 Nov 2023 12:00:53 +0000
+### [From the Opinions Editor | On Diwali: A Hope and a Wish](https://indianexpress.com/article/opinion/columns/diwali-a-hope-and-a-wish-9023950/)
+
+The article discusses the efforts being made to tackle air pollution in India, particularly during the festive season of Diwali. The Indian Agricultural Research Institute has developed a new rice variety that matures faster, allowing farmers to harvest earlier and reduce stubble burning, a major contributor to pollution. The article also argues for the end of free electricity for irrigation in Punjab, as paying for water would force farmers to reduce paddy acreage. The article emphasizes the need for long-term solutions and financial incentives to encourage farmers to stop burning crop residue. It also highlights the importance of addressing other sources of pollution, such as reducing car usage and promoting public transport. The article concludes by urging the political class to take action and prioritize the issue of air pollution.
+
 Sun, 12 Nov 2023 09:56:15 +0000
 ### [View from Pakistan:  Choking air, Taliban terror on ground](https://indianexpress.com/article/opinion/pakistan-air-pollution-taliban-terror-congo-fever-9023784/)
 

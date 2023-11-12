@@ -1,3 +1,15 @@
+2023-11-12T17:21:16+05:30
+### [More Than One Journalist Per Day Is Dying in the Israel-Gaza Conflict. This Has to Stop](https://thewire.in/media/palestine-gaza-israel-journalist-media)
+
+No Article text 
+It is a thin hope given the scale of the bloodshed, but unless the slaughter of reporters and media workers comes to an end, all of us will be more ignorant and the world poorer as a result.
+
+2023-11-12T16:24:10+05:30
+### [In Photos: How Goa Celebrates Diwali With the Symbolic Slaying of Narakasura](https://thewire.in/culture/in-photos-how-goa-celebrates-diwali-with-the-symbolic-slaying-of-narakasura)
+
+No Article text 
+To mark Krishna's slaying of the Asura king, effigies of the demon king are stuffed with firecrackers and burnt at dawn.
+
 2023-11-12T14:00:05+05:30
 ### [‘The Great Escaper’: Michael Caine’s Final Film Is Britain’s Answer To ‘Saving Private Ryan'](https://thewire.in/uncategorised/the-great-escaper-michael-caine-final-film-review)
 

@@ -1,3 +1,104 @@
+Sun, 12 Nov 2023 17:47:01 +0000
+### [Deepika Padukone-Ranveer Singh extend Diwali greetings with adorable pictures, Check out](https://theprint.in/feature/deepika-padukone-ranveer-singh-extend-diwali-greetings-with-adorable-pictures-check-out/1842508/)
+
+Celebrity couple Ranveer Singh and Deepika Padukone, known as 'DeepVeer,' shared adorable pictures on Instagram to extend Diwali greetings. The photos show Ranveer receiving a peck from Deepika while the couple performs puja at their residence. They both looked stunning in traditional attire—Ranveer in a white kurta with a floral print jacket, and Deepika in a pink suit. Fans flooded the comment section with love and fire emojis upon seeing the pictures. Ranveer and Deepika got married in November 2018 after dating for six years and often express their love for each other on social media. They met on the sets of "Goliyon Ki Rasleela Ram-Leela" and have since worked together in films like "Bajirao Mastani" and "Padmaavat." Deepika has upcoming projects such as "Kalki 2898 AD," "Fighter," and "Singham Again," while Ranveer will appear in "Don 3."
+
+Sun, 12 Nov 2023 17:45:03 +0000
+### [Wankhede is a tough venue to bowl, we need early wickets against NZ: Kuldeep](https://theprint.in/sport/wankhede-is-a-tough-venue-to-bowl-we-need-early-wickets-against-nz-kuldeep/1842507/)
+
+Ahead of their World Cup semifinals against New Zealand, Indian spinner Kuldeep Yadav said that the Wankhede stadium is a tough venue for bowlers and early wickets will be crucial for India to gain an advantage. He dismissed the significance of past records and expressed confidence in India's preparation and performance. Kuldeep has been a key player in India's spin department, taking 14 wickets with a good economy rate. India's fielding coach also praised KL Rahul for his wicket-keeping skills since returning from a long injury layoff.
+
+Sun, 12 Nov 2023 17:30:17 +0000
+### [To keep lively dressing room atmosphere, you need good results: Rohit](https://theprint.in/sport/to-keep-lively-dressing-room-atmosphere-you-need-good-results-rohit/1842506/)
+
+Indian cricket team captain, Rohit Sharma, expressed the importance of enjoying each other's company in the dressing room and how it contributes to their success. He described their campaign in the World Cup as clinical and attributed their good results to the lively atmosphere in the team. India topped the league standings with 18 points and will face New Zealand in the semifinals. Rohit also highlighted the team's adaptability to different venues and their focus on taking one game at a time. Shreyas Iyer, who was named player of the match, emphasized his determination not to throw away his wicket and capitalized on his start. Netherlands captain, Scott Edwards, praised India's batting performance, acknowledging their class. He also discussed the future of his team and their focus on learning from the tournament.
+
+Sun, 12 Nov 2023 17:30:03 +0000
+### [Best wishes for semis: PM Modi after Indian cricket team’s WC win over Netherlands](https://theprint.in/sport/best-wishes-for-semis-pm-modi-after-indian-cricket-teams-wc-win-over-netherlands/1842505/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Prime Minister Narendra Modi praised the Indian cricket team for their victory against the Netherlands in a World Cup match. He also wished the team good luck for the upcoming semifinals. India secured a 160-run win, with KL Rahul and Shreyas Iyer shining in the game. This victory allowed India to finish the league stage with 18 points. The next match will be a high-stakes semifinal against New Zealand in Mumbai. Modi commended the team's skill and teamwork and expressed his joy on Diwali.
+
+Sun, 12 Nov 2023 17:17:25 +0000
+### [“Look good, feel better, dance a lot tonight”: SRK extends Diwali greetings to fans](https://theprint.in/feature/look-good-feel-better-dance-a-lot-tonight-srk-extends-diwali-greetings-to-fans/1842503/)
+
+Superstar Shah Rukh Khan extended heartfelt Diwali greetings to his fans, expressing gratitude for the gift of life and calling for strength, forgiveness, and blessings. He shared this message on Twitter and encouraged everyone to look good, feel better, and dance a lot during the festival. Diwali, also known as the festival of lights, symbolizes the victory of light over darkness, good over evil, and knowledge over ignorance. The article mentions that people across India have decorated their houses with lights, rangolis, and flowers in celebration. The report also highlights SRK's upcoming film 'Dunki', directed by Rajkumar Hirani, which features Vicky Kaushal, Taapsee Pannu, and Boman Irani in lead roles. The film is set to release on Christmas 2023.
+
+Sun, 12 Nov 2023 17:17:13 +0000
+### [After dismal progress in BRI, China switches to ‘regional approach’ in Nepal: Report](https://theprint.in/world/after-dismal-progress-in-bri-china-switches-to-regional-approach-in-nepal-report/1842501/)
+
+Article found but Couldn't summarize 
+Kathmandu [Nepal], November 12 (ANI): After six years of dismal progress on projects under the Belt and Road Initiative in Nepal, China seems to have taken a regional approach to extend President Xi Jinping&#8217;s flagship connectivity arm, a report in Kathmandu Post stated. The report stated that it was apparent in the way the Tibet [&#8230;]
+
+Sun, 12 Nov 2023 17:17:02 +0000
+### [UK: EAM Jaishankar calls on PM Rishi Sunak, gifts signed bat by Virat Kohli](https://theprint.in/world/uk-eam-jaishankar-calls-on-pm-rishi-sunak-gifts-signed-bat-by-virat-kohli/1842499/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.External Affairs Minister S Jaishankar met with UK Prime Minister Rishi Sunak and his wife Akshata Murty at 10 Downing Street to convey Prime Minister Narendra Modi's best wishes on Diwali. Jaishankar presented Sunak with a Lord Ganesha Statue and a cricket bat signed by Indian cricketer Virat Kohli. Jaishankar is currently on an official visit to the UK and will also meet with his UK counterpart James Cleverly. India and the UK have a growing bilateral partnership and are negotiating a Free Trade Agreement. During a telephone conversation, Modi and Sunak discussed the progress on the Free Trade Agreement and the ongoing Cricket World Cup. They also discussed the conflict in West Asia and the need to de-escalate tensions in the region.
+
+Sun, 12 Nov 2023 17:15:48 +0000
+### [Highly decomposed body of driver found inside truck; cops suspect heart attack](https://theprint.in/india/highly-decomposed-body-of-driver-found-inside-truck-cops-suspect-heart-attack/1842498/)
+
+The decomposed body of a 56-year-old man named Nivrutti Chavan was found at the steering wheel of his truck in Kandivali, Mumbai. There were no signs of injury, and it is believed that he may have died from a heart attack. The police were alerted by the foul smell coming from the truck, and Chavan's identity was confirmed using documents found in the vehicle. An accidental death report has been filed, and the article concludes with a note about supporting journalism.
+
+Sun, 12 Nov 2023 17:15:38 +0000
+### [Six persons, including four firemen, injured in leopard attack in Tamil Nadu](https://theprint.in/india/six-persons-including-four-firemen-injured-in-leopard-attack-in-tamil-nadu/1842497/)
+
+Six people, including four fire and rescue services personnel, were injured in a leopard attack in Coonoor. The leopard had strayed into a human habitat and took refuge in a woman's house. The injured individuals were rescued by nearby residents and are currently receiving treatment at a local hospital. A driver of the local tahsildar was also attacked by the leopard. Efforts are underway to trap the animal, with two cages placed outside the house.Six people, including four Fire and Rescue Services personnel, were injured in a leopard attack in Coonoor, Nilgiris. The firemen were trying to rescue a woman who was attacked by the leopard in her house. The injured individuals were taken to a local hospital for treatment. A driver of the local tahsildar was also attacked by the leopard. Efforts are being made to trap the animal, with two cages placed outside the house.
+
+Sun, 12 Nov 2023 17:15:26 +0000
+### [PM Modi calls on president, vice president to extend Diwali wishes](https://theprint.in/india/pm-modi-calls-on-president-vice-president-to-extend-diwali-wishes/1842496/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.Prime Minister Narendra Modi celebrated Diwali by visiting President Droupadi Murmu, Vice President Jagdeep Dhankhar, and former President Ram Nath Kovind. He conveyed his wishes to each of them and shared a picture of his meeting with President Murmu. The Prime Minister also greeted Vice President Dhankhar and shared his happiness on social media. The article is an auto-generated report from PTI news service, and the website holds no responsibility for its content.
+
+Sun, 12 Nov 2023 17:15:14 +0000
+### [‘Fauda’ crew member ‘killed in action’ amid Israel-Hamas conflict](https://theprint.in/feature/fauda-crew-member-killed-in-action-amid-israel-hamas-conflict/1842495/)
+
+Master Sgt. (res.) Matan Meir, a television producer known for his work on the Netflix drama Fauda, was killed in a blast from a booby-trapped tunnel shaft in Gaza. Meir was killed during the ongoing conflict between Israel and Hamas. Israel has increased its ground offensive and air strikes in retaliation for Hamas' attack on southern areas. Meir was an integral part of the Fauda crew and his death has left the cast and crew devastated. The show has faced criticism for its portrayal of the Israeli-Palestinian conflict. The conflict has resulted in the deaths of over 1,200 people on the Israeli side and over 11,000 Palestinians, according to the Health Ministry in Gaza.
+
+Sun, 12 Nov 2023 17:15:02 +0000
+### [I would be in-authentic if I say there won’t be any pressure of semi-final: Dravid](https://theprint.in/sport/i-would-be-in-authentic-if-i-say-there-wont-be-any-pressure-of-semi-final-dravid/1842494/)
+
+India head coach Rahul Dravid acknowledges that the World Cup semi-final against New Zealand will be a high-pressure game, despite their strong performance in the league stage. He emphasizes that there are no guarantees in cricket and the team can only prepare to the best of their abilities. Dravid also jokes about the criticism that may arise after a single loss. He praises Shreyas Iyer for his consistent performance in the middle order, highlighting the difficulty India has faced in finding a reliable number four batsman in the past decade.
+
+Sun, 12 Nov 2023 17:02:15 +0000
+### [Alia Bhatt, Ranbir Kapoor celebrate first Diwali with daughter Raha](https://theprint.in/feature/alia-bhatt-ranbir-kapoor-celebrate-first-diwali-with-daughter-raha/1842492/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Alia Bhatt and Ranbir Kapoor, a Bollywood couple, celebrated their first Diwali with their daughter Raha. Alia shared pictures on Instagram showcasing their celebrations, including Ranbir kissing her and Raha's customized dupatta. The couple tied the knot in April 2022 and welcomed their daughter in November last year. They recently celebrated Raha's first birthday with a bash at their Mumbai residence. Alia will be seen in the film "Jigra," while Ranbir will star in the action thriller "Animal." The film also features Anil Kapoor, Bobby Deol, and Rashmika Mandanna and is set to release on December 1.
+
+Sun, 12 Nov 2023 17:02:02 +0000
+### [Pakistan: China announces Khunjerab Pass closure for four months in winter](https://theprint.in/world/pakistan-china-announces-khunjerab-pass-closure-for-four-months-in-winter/1842490/)
+
+The Chinese government has announced the closure of Khunjerab Pass, the only place connecting China and Pakistan over a mountainous range, for four months in winter. This comes almost a month after an agreement was made to keep the high-altitude road open throughout the year. The closure will be from December to March, and the pass will adopt a seasonal mode of customs clearance during this time. The closure is due to excessive snowfall, which has already covered the road with up to six inches of snow. Travelers have complained about the lack of authorities present to clear the road for traffic.
+
+Sun, 12 Nov 2023 17:00:03 +0000
+### [UK PM Sunak hosts Jaishankar at Downing Street for Diwali tea](https://theprint.in/world/uk-pm-sunak-hosts-jaishankar-at-downing-street-for-diwali-tea/1842489/)
+
+British Prime Minister Rishi Sunak and his wife Akshata Murty hosted Indian External Affairs Minister S Jaishankar and his wife Kyoko Jaishankar for Diwali tea at Downing Street in London. Jaishankar's visit aims to review various aspects of bilateral ties and strengthen the friendly relationship between India and the UK. The two countries have been negotiating a free trade agreement and hope to finalize it before the 2024 general elections in both countries. The visit will include meetings with UK Foreign Secretary James Cleverly and other dignitaries, as well as attending events and addressing a Diwali reception.
+
+Sun, 12 Nov 2023 16:47:02 +0000
+### [French President tells Israeli President he never accused Israel of harming innocent civilians](https://theprint.in/world/french-president-tells-israeli-president-he-never-accused-israel-of-harming-innocent-civilians/1842487/)
+
+French President Emmanuel Macron called Israeli President Isaac Herzog to clarify comments he made during an interview with the BBC. Macron stated that he never intended to accuse Israel of intentionally harming innocent civilians in their campaign against Hamas. He expressed his support for Israel's right to self-defense and their war against Hamas. Macron clarified that his comments were in reference to the humanitarian situation in Gaza and the importance of finding and delivering humanitarian solutions. President Herzog acknowledged Macron's clarification and reiterated that Israel acts in accordance with international law and takes measures to prevent harm to uninvolved civilians. The responsibility for harm caused to innocent people in Gaza rests with Hamas.
+
+Sun, 12 Nov 2023 16:33:05 +0000
+### [UAE: CBUAE enhances Emiratisation efforts in financial sector through its participation in Tawdheef](https://theprint.in/world/uae-cbuae-enhances-emiratisation-efforts-in-financial-sector-through-its-participation-in-tawdheef/1842485/)
+
+The Central Bank of the UAE (CBUAE) will participate in the 17th annual Tawdheef exhibition from November 13-15. The purpose of the exhibition is to provide UAE nationals with job opportunities in the banking and insurance sectors as part of the country's Emiratisation agenda. The CBUAE will showcase its positive work culture and attractive environment at the exhibition, as well as educate attendees on its regulatory and supervisory role and financial inclusion efforts. The CBUAE aims to advance its Emiratisation efforts by employing and training UAE national graduates through programs like "Ethraa" and reaching specific Emiratisation rates in different sectors. The Chief Human Resources Officer of the CBUAE emphasized the bank's commitment to training and employing UAE nationals and attracting skilled professionals to contribute to its development.
+
+Sun, 12 Nov 2023 16:32:34 +0000
+### [Hezbollah reportedly reinforcing personnel in Lebanon](https://theprint.in/world/hezbollah-reportedly-reinforcing-personnel-in-lebanon/1842483/)
+
+Hezbollah has reportedly transferred 1,500 of its personnel from Syria to Lebanon while their positions in Syria have been taken over by Iranian-backed Iraqi and Afghan militias. Hezbollah recently claimed responsibility for firing a guided anti-tank rocket near Moshav Dovev in Israel, injuring employees of the Israel Electric Corporation who were repairing power lines damaged in previous fire from Lebanon. Hezbollah alleged that the victims were installing surveillance equipment near the border.Hezbollah has reportedly transferred 1,500 personnel from Syria to Lebanon, with their positions being filled by Iranian-backed Iraqi and Afghan militias. Hezbollah has taken responsibility for firing a guided anti-tank rocket in the area of Moshav Dovev, injuring several employees of the Israel Electric Corporation. The electric company claims their employees were repairing power lines damaged in previous fire from Lebanon, while Hezbollah says the victims were installing surveillance equipment near the border.
+
+Sun, 12 Nov 2023 16:32:02 +0000
+### [Trudeau trying to manage damage he inflicted: Experts on fresh claims by Canadian PM amid diplomatic row](https://theprint.in/world/trudeau-trying-to-manage-damage-he-inflicted-experts-on-fresh-claims-by-canadian-pm-amid-diplomatic-row/1842481/)
+
+The article discusses the diplomatic standoff between India and Canada, sparked by Canadian Prime Minister Justin Trudeau's allegations of Indian involvement in the killing of Sikh separatist leader Hardeep Singh Nijjar. Foreign affairs analysts criticize Trudeau for making these accusations before the investigation is complete, emphasizing that it was Canada that first expelled an Indian diplomat. They argue that reciprocity is expected in diplomacy and India will likely retaliate. The article also mentions India's support for a resolution against Israeli settlements in the West Bank, which strategic experts view as a principled stance. Trudeau accuses India of violating the Vienna Convention, but former diplomats assert that the host country has the authority to determine the number of diplomats. The article concludes by mentioning previous tensions between the two countries, including Canada's withdrawal of diplomats and India seeking diplomatic parity.
+
+Sun, 12 Nov 2023 16:30:37 +0000
+### [Ban on firecrackers flouted in Delhi despite SC order](https://theprint.in/india/ban-on-firecrackers-flouted-in-delhi-despite-sc-order/1842480/)
+
+Despite a ban on firecrackers, people in several areas of Delhi violated the rules and celebrated Diwali by bursting them. Firecrackers were seen being burst in Shahpur Jat and Hauz Khas areas, with gatherings in parks for this purpose. The intensity of firecracker usage was lower compared to last year, but environmentalist Bhavreen Kandhari reported that firecrackers were also burst in her residential area, Defence Colony, despite complaints to the police. The lack of enforcement has raised questions about the effectiveness of the ban. In some areas, such as Greater Kailash and Chittaranjan Park, there was less firecracker activity until later in the evening after the puja rituals. However, violations of the ban were observed in other parts of the city, including South Delhi and East of Kailash, where shopkeepers sold small firecrackers to children. While the intensity of firecracker usage was reportedly lower than last year, it still caused concerns about air pollution.
+
 Sun, 12 Nov 2023 10:04:16 +0000
 ### [Why Diwali isn’t as big in Bollywood films as Holi, Karwa Chauth are](https://theprint.in/opinion/why-diwali-isnt-as-big-in-bollywood-films-as-holi-karwa-chauth-are/1842251/)
 
