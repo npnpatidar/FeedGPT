@@ -7,6 +7,7 @@ import json
 import xml.etree.ElementTree as ET
 from xml.dom.minidom import parseString
 from datetime import datetime
+import time
 import xmltodict
 
 
@@ -59,7 +60,8 @@ def summarise(article_text):
 
         except Exception as e:
             # Log the error (you can use a logging library for this)
-            print(f"Error while summarizing article text: {str(e)}")
+            # print(f"Error while summarizing article text: {str(e)}")
+            print(f"error in summarising {article_text}")
 
     # If after 10 attempts there's no valid response, return an error message or handle as needed
     return None
@@ -101,6 +103,7 @@ def get_feeds():
 
 
 def write_index_log_files(feeds):
+
     if feeds:
         with open(f"index.md", "w") as index_file:
             for feed in feeds:
@@ -113,6 +116,7 @@ def write_index_log_files(feeds):
                 if not os.path.exists(markdown_filename):
                     open(markdown_filename, "w").close()
                     print(f"Markdown file created: {markdown_filename}")
+                    log_details(f"Markdown file created: {markdown_filename}")
 
                 if not os.path.exists(feed_filename):
                     # Create an RSS feed XML document
@@ -122,6 +126,7 @@ def write_index_log_files(feeds):
                         rss_file.write(rss_xml)
 
                     print(f"Feed file created: {feed['feed_filename']}")
+                    log_details(f"Feed file created: {feed['feed_filename']}")
 
 
 def extract_feed_url():
@@ -328,12 +333,17 @@ def fetch_and_write_feed_to_markdown_using_json(feed):
         else:
             json_data['rss']['channel']['item'] = [item_data]
 
-        existing_links.add(link)  # Add the new entry's ID to the set
+        existing_links.add(link)
     write_json_data_to_xml(json_data, feed_file)
     print(f"{new_entry} Feed entries have been written to {feed_file}")
+    if new_entry > 0:
+        log_details(
+            f"{new_entry} Feed entries have been written to {feed_file}")
+    return new_entry
 
 
 def update_summary_if_ai_summary_is_false(feed):
+
     with open('config.json', 'r') as config_file:
         config = json.load(config_file)
     github_repo = config.get("github_repo")
@@ -370,6 +380,10 @@ def update_summary_if_ai_summary_is_false(feed):
 
     write_json_data_to_xml(json_data, feed_file)
     print(f"{new_summary} summaries have been updated to {feed_file}")
+    if new_summary > 0:
+        log_details(
+            f"{new_summary} summaries have been updated to {feed_file}")
+    return new_summary
 
 
 def sorting_xml_files_by_date_json(feed):
@@ -425,23 +439,69 @@ def delete_entries_older_than_input_date(feed, last_date):
         item['pubDate'], "%a, %d %b %Y %H:%M:%S %z").replace(tzinfo=None) > last_date]
     json_data['rss']['channel']['item'] = filtered_items
     write_json_data_to_xml(json_data, feed_file)
+    log_details(
+        f"{len(items) - len(filtered_items)} entries have been deleted from {feed_file} \n")
+
+
+# function to create log files and write input text into them
+def log_details(details):
+
+    if not os.path.exists('log.txt'):
+        open('log.txt', 'w').close()
+
+    with open('log.txt', 'a') as log_file:
+        log_file.write(details + "\n")
 
 
 def main():
+    start_time = time.time()
+
+    log_details("Started at " + datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
 
     feeds = get_feeds()
 
     write_index_log_files(feeds)
 
+    new_entries_added = 0
     for feed in feeds:
-        fetch_and_write_feed_to_markdown_using_json(feed)
+        new = fetch_and_write_feed_to_markdown_using_json(feed)
+        new_entries_added = new_entries_added + new
+
+    log_details(f"{new_entries_added} new entries have been added")
+
+    new_entries_updated = 0
+    for feed in feeds:
+        new_summary = update_summary_if_ai_summary_is_false(feed)
+        new_entries_updated = new_entries_updated + new_summary
+
+    log_details(f"{new_entries_updated} summaries have been updated")
 
     for feed in feeds:
-        update_summary_if_ai_summary_is_false(feed)
         sorting_xml_files_by_date_json(feed)
         write_markdown_files_json(feed)
         # update_media_url_in_feed(feed)
         # delete_entries_older_than_input_date(feed , '10/10/2022')
+   
+
+    end_time = time.time()
+
+    total_time = end_time - start_time
+
+    
+
+    log_details(f"Finished at " + datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
+    log_details(f"Total time taken: {total_time} seconds")
+
+    log_details("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
+
+    # write number of new entries and added and updated to index.md at bottom
+    with open('index.md', 'a') as index_file:
+        index_file.write(f"Total number of new entries: {new_entries_added}\n")
+        index_file.write(
+            f"Total number of summaries updated: {new_entries_updated}\n")
+        index_file.write(
+            f"finished at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+        index_file.write(f"Total time taken: {total_time} seconds\n")
 
 
 if __name__ == "__main__":
