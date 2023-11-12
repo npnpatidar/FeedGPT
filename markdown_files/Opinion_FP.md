@@ -1,3 +1,8 @@
+Sun, 12 Nov 2023 08:58:24 +0530
+### [How to choose a side in the Israel-Hamas war? Take this two-step test](https://www.firstpost.com/opinion/how-to-choose-a-side-in-the-israel-hamas-war-take-this-two-step-test-13379082.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses the release of footage by Israel depicting the October 7 attacks by Hamas on an Israeli kibbutz. The footage includes disturbing scenes of violence, such as a baby seemingly baked alive, bloodied corpses, rape, and brutalizations. This footage was curated from various sources and shown at the Museum of Tolerance in Los Angeles and to journalists in Tel Aviv. On the other side, there are Israeli missiles targeting Gaza, causing destruction and forcing people to flee. The article raises the question of choosing a side in this conflict, highlighting that Hamas represents global jihad while Jews are fighting for their land. It also mentions the denial of Hamas's atrocities by pro-Palestinian groups and the normalizing of gore. The author argues that while Israel is not without fault, it is not an expansionist force and does not engage in the same level of brutality as Hamas. The article concludes by suggesting that considering the greater evil can help in choosing a side in the Israel-Palestine conflict.
+
 Sat, 11 Nov 2023 20:07:45 +0530
 ### [Deepawali: Significance and science behind the festival of lights](https://www.firstpost.com/opinion/deepawali-significance-and-science-behind-the-festival-of-lights-2-13378462.html)
 
