@@ -1,3 +1,8 @@
+Sun, 12 Nov 2023 01:00:45 +0000
+### [As thousands of earthquakes rock Iceland, a volcanic eruption to follow?](https://indianexpress.com/article/explained/explained-sci-tech/earthquake-swarm-iceland-volcanic-eruption-9023297/)
+
+Iceland has declared a state of emergency after experiencing a swarm of 800 earthquakes in under 14 hours on the Reykjanes peninsula. Over 24,000 earthquakes have been recorded in the area since late October. The most powerful quake had a magnitude of 5.2 and occurred about 40 km from the capital city, Reykjavík. Iceland is located on the Mid-Atlantic Ridge, which separates the Eurasian and North American tectonic plates, making it prone to seismic activity. Scientists from the Iceland Met Office believe that the recent seismic activity is a precursor to a volcanic eruption. The movement of magma close to the Earth's surface exerts force on the surrounding rock, causing earthquake swarms. The Fagradalsfjall volcanic system, located southwest of Reykjavík, is the likely site of the eruption. The magma is currently about 800 meters below the Earth's surface, and an eruption could occur within days. The town of Grindavík has been evacuated as a precaution. Iceland is home to 33 active volcanoes, and eruptions are a common occurrence in the country.
+
 Sat, 11 Nov 2023 13:10:02 +0000
 ### [Moody’s lowers US credit rating outlook to ‘negative’: What does it mean?](https://indianexpress.com/article/explained/explained-economics/moodys-us-credit-rating-outlook-negative-9023051/)
 

@@ -1,3 +1,24 @@
+Sun, 12 Nov 2023 01:47:15 +0000
+### [Arab countries oppose measures against Israel despite fighting in Gaza](https://theprint.in/world/arab-countries-oppose-measures-against-israel-despite-fighting-in-gaza/1841899/)
+
+An emergency meeting of the Arab League and the Organisation of Islamic Cooperation was held in Riyadh to discuss Israel's invasion of Gaza. However, no practical measures were adopted against Israel. Discussions focused on stopping Israeli air traffic over the Gulf, preventing the US Air Force from delivering arms to Israel through Gulf air force bases, and cutting back oil sales to the US due to its support for Israel. Some Arab countries demanded that moderate Arab states suspend their economic relations with Israel, but a resolution to adopt these measures was blocked by Israel's Abraham accords partner states. Egypt, Jordan, the UAE, Bahrain, Sudan, and Morocco voted against the measures, along with Saudi Arabia, Mauritania, and Djibouti. The meeting also rejected an Iranian demand to designate the Israel Defense Forces as a terror organization.
+
+Sun, 12 Nov 2023 01:47:01 +0000
+### [Hamas’s human shields: ‘Terrorists left the hospital with civilians’](https://theprint.in/world/hamass-human-shields-terrorists-left-the-hospital-with-civilians/1841897/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], November 12 (ANI/WAM): The Israel Defense Forces evacuated Rantisi Hospital in the Gaza Strip and chose not to target Hamas terrorists leaving with civilians on foot and in cars and ambulances, military officials said on Saturday. The decision was made to avoid harming Palestinian noncombatants. The IDF said it worked with the [&#8230;]
+
+Sun, 12 Nov 2023 01:32:16 +0000
+### [French national Michel Morliere dies at Apnaghar Ashram in Varanasi](https://theprint.in/world/french-national-michel-morliere-dies-at-apnaghar-ashram-in-varanasi/1841895/)
+
+A French national named Michel Morliere has passed away at Apnaghar Ashram in Varanasi, Uttar Pradesh. The French Embassy in India has given permission for individuals named Gopal Jha, Emeline Jamont, and Aman to collect the deceased's body and related documents, including death certificates, on its behalf. The embassy has also allowed them to cremate the body and hand over the ashes to Emeline Jamond, as per the wishes of the deceased's family. The embassy expresses gratitude to the authorities for their assistance in this matter.
+
+Sun, 12 Nov 2023 01:32:02 +0000
+### [Netanyahu rules out Palestinian authority’s return to Gaza](https://theprint.in/world/netanyahu-rules-out-palestinian-authoritys-return-to-gaza/1841893/)
+
+Israeli Prime Minister Benjamin Netanyahu has stated that the Palestinian Authority (PA) will not be permitted to return to Gaza following the war. He emphasized the importance of total security control to eliminate potential terrorists and prevent the teaching of hatred towards Israel. Netanyahu also criticized the PA's leader for his delayed condemnation of a massacre. In 2007, Hamas, backed by Iran, forcefully took over the Gaza Strip, resulting in the expulsion, imprisonment, or death of Fatah members.Israeli Prime Minister Benjamin Netanyahu has ruled out the return of the Palestinian Authority (PA) to Gaza after the war. He emphasized the need for total security control to eliminate terrorists and prevent the education of children to hate Israel. Netanyahu also criticized the PA leader for not condemning a massacre in a timely manner. The Gaza Strip has been under the control of the Iran-backed Hamas since 2007, with members of rival Fatah either killed, imprisoned, or expelled.
+
 Sat, 11 Nov 2023 23:47:02 +0000
 ### [IDF working with Gaza’s Shifa hospital staff to provide safe passage southward for Gazans](https://theprint.in/world/idf-working-with-gazas-shifa-hospital-staff-to-provide-safe-passage-southward-for-gazans/1841891/)
 

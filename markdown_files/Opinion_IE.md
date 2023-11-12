@@ -1,3 +1,28 @@
+Sun, 12 Nov 2023 01:32:34 +0000
+### [The dour and Dior](https://indianexpress.com/article/opinion/columns/the-dour-and-dior-9023229/)
+
+The article discusses the recent allegations and personal attacks against Mahua Moitra, a TMC MP, regarding her alleged acceptance of favors in exchange for raising questions in parliament. The author highlights how defaming and casting character aspersions on women is a common tactic used to discredit them. The article also mentions a recent trend in political circles where luxury accessories, typically associated with wealthy socialites, have become popular. The author notes that while sartorial choices should not affect one's ability to perform their job, in India, where value consciousness is prevalent, flaunting expensive brands can lead to suspicion and assumptions of illicit means of acquiring wealth. The article concludes by discussing how symbolic markers of style can influence perceptions and how Indians are gradually embracing sophistication and luxury in their choices.
+
+Sun, 12 Nov 2023 01:32:31 +0000
+### [Dark shadows over Diwali](https://indianexpress.com/article/opinion/columns/dark-shadows-over-diwali-9023228/)
+
+In this article, the author begins by wishing readers a happy Diwali and expressing their hope for a future Diwali that is not overshadowed by war and death. They mention the ongoing conflict in Gaza and express their sadness at the suffering of innocent children and people fleeing their homes. The author then reiterates their belief that the suffering in Gaza is due to Hamas and criticizes countries for not pressuring Hamas to stop the war. They argue that Israel is not the villain in this situation. 
+
+The author also discusses their personal concerns about poverty in India and criticizes political leaders for using poverty as a tool for gaining votes. They argue that distributing charity to the poor is not an effective way to help them escape poverty and that investing in prosperity is a better approach. The author suggests that India's socialist economic policies have hindered its progress and that leaders need to embrace ideas that promote wealth creation. 
+
+The article concludes with the author expressing their gloomy thoughts about the current state of affairs and their wish for peace in the Middle East. They end by wishing readers a happy Diwali and hoping for prosperity and good fortune in the coming year.
+
+Sun, 12 Nov 2023 01:32:21 +0000
+### [Government in denial, economy in distress](https://indianexpress.com/article/opinion/columns/government-in-denial-economy-in-distress-9023226/)
+
+In this article, the author discusses the state of India's economy and raises concerns about its management. They compare the GDP growth rate during the Bharatiya Janata Party's (BJP) rule to that of the previous government, the United Progressive Alliance (UPA). The author notes that the average growth rate under the BJP is 5.8%, lower than the average of 7.5% achieved under the UPA. They argue that this decline has serious implications for national security, infrastructure spending, investments, job creation, welfare measures, household consumption, savings, poverty reduction, education, and health.
+
+The article also highlights two major concerns of the people: rising prices and unemployment. The author points out that inflation has led to difficulties for most households in balancing their budgets, with food inflation reaching nearly 10%. This has resulted in reduced household consumption and savings. Additionally, the article disputes the government's claims of job creation, stating that the unemployment rate has consistently been above 7%, with a high rate among graduates and youth. Self-employment has also increased, while the proportion of regular wage employees has decreased.
+
+The author further references the Ministry of Finance's September 2023 review, which suggests a gloomy economic outlook with slow growth, rising prices, higher interest rates, reduced household consumption, declining savings, and increased borrowing. They criticize a rating agency economist for highlighting strong bank credit growth, noting that it is primarily driven by personal loans and gold loans, rather than industry credit growth. The article concludes that the government should acknowledge the weaknesses and threats in order to address them effectively and stimulate private investment, consumption, and exports.
+
+Overall, the author expresses concern about the state of India's economy, pointing to lower growth rates, rising prices, and unemployment as key issues. They highlight the need for the government to address these challenges and take necessary measures for improvement.
+
 Sat, 11 Nov 2023 18:11:06 +0000
 ### [What it’s like to be an ‘outsider’ at Mumbai Film Festival](https://indianexpress.com/article/opinion/columns/outsider-mumbai-film-festival-9023235/)
 
