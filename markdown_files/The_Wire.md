@@ -1,3 +1,9 @@
+2023-11-12T11:58:46+05:30
+### [The Blowing of Toxic Winds is a Pattern We Need to Break](https://thewire.in/environment/the-blowing-of-toxic-winds-is-a-pattern-we-need-to-break)
+
+No Article text 
+It is an inconvenient truth we must confront. Just erecting war memorials to honour the dead, showering pilgrims with rose petals or performing smoke-emitting yagnas for purifying the environment is not going to ward off the next mass extinction. It may hasten it.
+
 2023-11-12T11:19:47+05:30
 ### [Besieged by the Re-Energised 'Social Justice' Movement, Narendra Modi Discovers Karl Marx](https://thewire.in/politics/narendra-modi-karl-marx-rations-caste-survey)
 

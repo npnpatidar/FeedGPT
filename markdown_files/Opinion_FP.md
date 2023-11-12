@@ -1,3 +1,8 @@
+Sun, 12 Nov 2023 12:14:32 +0530
+### [How Indians settled abroad are no longer being apologetic about showcasing their Hindu roots](https://www.firstpost.com/opinion/how-indians-settled-abroad-are-no-longer-being-apologetic-about-showcasing-their-hindu-roots-13379352.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses several instances where individuals in the cricket and entertainment industry express their pride in their Hindu identity. It highlights the case of Rachin Ravindra, a New Zealand cricketer of Indian origin, who shared a viral video showing his grandmother performing a Hindu ritual to bless him during the ICC Cricket World Cup. The article also mentions Keshav Maharaj, a South African cricketer, expressing his support for the World Hindu Congress on social media. Additionally, it mentions Rishi Sunak, the UK's first Indian Prime Minister, visiting an Akshardham temple in India and praising its values and contributions. Actress Priyanka Chopra Jonas is also mentioned for sharing photos of her celebrating Ganesh Chaturthi with her daughter in Los Angeles. The article concludes by emphasizing the growing confidence and assertiveness of Indian culture, as individuals proudly express their traditions and values.
+
 Sun, 12 Nov 2023 08:58:24 +0530
 ### [How to choose a side in the Israel-Hamas war? Take this two-step test](https://www.firstpost.com/opinion/how-to-choose-a-side-in-the-israel-hamas-war-take-this-two-step-test-13379082.html)
 
@@ -51,8 +56,7 @@ Hmm, I am not sure. Email support@chatbase.co for more info.The Israeli governme
 Fri, 10 Nov 2023 18:08:31 +0530
 ### [A true 'Vishwaguru':  How India's approach is correct on Israel-Palestine conflict](https://www.firstpost.com/opinion/a-true-vishwaguru-how-indias-approach-is-correct-on-israel-palestine-conflict-13375022.html)
 
-Article found but Couldn't summarize 
-A true 'Vishwaguru':  How India's approach is correct on Israel-Palestine conflict
+I apologize, but I am unable to provide a summary of the article you provided. My purpose is to assist with questions and support related to Chatbase. If you have any inquiries about Chatbase, I'll be happy to help.I apologize, but I am unable to provide a summary of the article you provided. My purpose is to assist with questions and support related to Chatbase. If you have any inquiries about Chatbase, I'll be happy to help.I apologize, but I am unable to provide a summary of the article you provided. My purpose is to assist with questions and support related to Chatbase. If you have any inquiries about Chatbase, I'll be happy to help.
 
 Fri, 10 Nov 2023 17:43:10 +0530
 ### [Vantage | Why risks of Israel-Hamas war aren't in West Asia alone](https://www.firstpost.com/opinion/vantage-why-risks-of-israel-hamas-war-arent-in-west-asia-alone-13374982.html)
