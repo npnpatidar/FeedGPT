@@ -487,7 +487,7 @@ def main():
 
     total_time = end_time - start_time
 
-    
+    minutes , seconds = divmod(total_time, 60)
 
     log_details(f"Finished at " + datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
     log_details(f"Total time taken: {total_time} seconds")
@@ -496,12 +496,13 @@ def main():
 
     # write number of new entries and added and updated to index.md at bottom
     with open('index.md', 'a') as index_file:
+        index_file.write(f"\n\n\n ************************************************* \n")
         index_file.write(f"Total number of new entries: {new_entries_added}\n")
         index_file.write(
             f"Total number of summaries updated: {new_entries_updated}\n")
         index_file.write(
-            f"finished at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
-        index_file.write(f"Total time taken: {total_time} seconds\n")
+            f"Finished at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+        index_file.write(f"Total time taken: {minutes} minutes {seconds} seconds\n")
 
 
 if __name__ == "__main__":
