@@ -1,3 +1,8 @@
+Sun, 12 Nov 2023 08:45:44 +0000
+### [How a 500-year-old collection of pressed flowers sheds light on demography, human movements](https://indianexpress.com/article/explained/herbarium-italy-discovery-history-plants-flowers-study-9023264/)
+
+A recent article published by the Royal Society delves into the historical significance of a 500-year-old herbarium, a collection of pressed flowers and plant parts, created by Italian naturalist Ulisse Aldrovandi between 1551 and 1586. The herbarium contains 5,000 carefully preserved specimens and provides insights into the history of Italy, particularly Bologna. Researchers studying the herbarium discovered evidence of human disturbance, habitat loss and transformation, climate change, and the invasion of alien species over the past five centuries. The paper highlights the impact of events like the discovery of America on floristic patterns in Europe and identifies extinct or unknown species. Ulisse Aldrovandi, who hailed from a noble family and demonstrated great curiosity, created the herbarium while tending to Bologna's botanical garden until his death. The herbarium also contains the oldest known specimens of various plant species introduced from the Americas, Africa, and Asia, providing a glimpse into the transformation of European flora and habitats over time.
+
 Sun, 12 Nov 2023 04:15:52 +0000
 ### [What WHO’s report has said on reduction in deaths due to TB in India, coverage of its treatments](https://indianexpress.com/article/explained/explained-health/indias-tb-mortality-report-2023-explained-9023266/)
 

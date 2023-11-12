@@ -1,3 +1,9 @@
+2023-11-12T14:00:05+05:30
+### [‘The Great Escaper’: Michael Caine’s Final Film Is Britain’s Answer To ‘Saving Private Ryan'](https://thewire.in/uncategorised/the-great-escaper-michael-caine-final-film-review)
+
+No Article text 
+The film, which pays homage to the war generation, revels in forties nostalgia and stakes an assertive British claim to the memory of the Allied invasion.
+
 2023-11-12T12:54:02+05:30
 ### ['Aware of States' Silencing of Dissenting Voices': Academics Call on Turkey to Cut Ties With Israel](https://thewire.in/world/turkey-israel-palestine-academics)
 

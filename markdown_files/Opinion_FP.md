@@ -1,3 +1,8 @@
+Sun, 12 Nov 2023 14:04:05 +0530
+### [From Yasujirō Ozu to Satyajit Ray: The Japan-India film connection](https://www.firstpost.com/opinion/from-yasujiro-ozu-to-satyajit-ray-the-japan-india-film-connection-13379582.html)
+
+The article discusses the similarities between the works of Japanese filmmaker Yasujirō Ozu and Indian filmmaker Satyajit Ray. Although their films explore different cultures, they share a common thread of humanism, character detailing, and intricate worldviews. The 2023 Tokyo International Film Festival (TIFF) celebrated Ozu's 120th birth anniversary by curating a series of his films, highlighting the cultural ties between Japan and India. Both directors captured emotional depth and family dynamics, connecting audiences worldwide. The festival served as a platform to showcase Ozu's artistry and celebrate the rich cultural tapestry that unites the two nations. Japan and India are recognized as global soft powers, with contributions in anime, technology, Bollywood films, and spiritual wisdom. The TIFF also featured renowned filmmakers Wim Wenders and Zhang Yimou, emphasizing the global appeal of Asian cinema. Ozu's films remind us that despite language and cultural differences, human emotions and experiences remain universal. The article concludes by highlighting the power of cinema to foster camaraderie and leave a lasting impact on those who participate in this cinematic journey.
+
 Sun, 12 Nov 2023 12:14:32 +0530
 ### [How Indians settled abroad are no longer being apologetic about showcasing their Hindu roots](https://www.firstpost.com/opinion/how-indians-settled-abroad-are-no-longer-being-apologetic-about-showcasing-their-hindu-roots-13379352.html)
 
