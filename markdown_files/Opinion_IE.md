@@ -1,3 +1,16 @@
+Sun, 12 Nov 2023 09:56:15 +0000
+### [View from Pakistan:  Choking air, Taliban terror on ground](https://indianexpress.com/article/opinion/pakistan-air-pollution-taliban-terror-congo-fever-9023784/)
+
+The article discusses three different crises in Pakistan: the Congo fever outbreak in Balochistan, the smog emergency in Lahore, and the increase in terror attacks by the TTP since the Taliban took power in Afghanistan. 
+
+Regarding the Congo fever outbreak, 20 people, including one doctor, have died from the virus this year. The World Health Organisation states that the disease is caused by a tick-borne virus. The media is calling for authorities to take this outbreak more seriously and focus on containing its spread. Suggestions include routine check-ups for ticks in animals, mass awareness campaigns to educate people about preventive measures, and the need for protective gear for healthcare workers.
+
+In the case of the smog emergency in Lahore, the city has recorded high levels of air pollution, leading to health concerns. The Punjab government has imposed Section 144, a health emergency, to limit operations. The editorial suggests tightening pollution control measures, investing in eco-friendly transportation, and implementing enhanced monitoring mechanisms to address the smog crisis.
+
+Regarding the increase in terror attacks by the TTP since the Taliban took power in Afghanistan, Caretaker Prime Minister Anwaar-ul-Haq Kakar holds the Taliban responsible. He highlights a significant rise in terrorism, including a spike in suicide attacks and a high number of fatalities. The article mentions the need for constant communication with the Afghan Taliban and emphasizes working with other regional states to address militancy.
+
+Overall, the article calls for immediate action to contain the Congo fever outbreak, address the smog crisis, and effectively deal with the rise in terror attacks by the TTP.
+
 Sun, 12 Nov 2023 01:32:34 +0000
 ### [The dour and Dior](https://indianexpress.com/article/opinion/columns/the-dour-and-dior-9023229/)
 

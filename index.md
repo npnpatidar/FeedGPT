@@ -11,7 +11,11 @@
 - [Tech Mint](markdown_files/Tech_Mint.md)
 - [Movie Review TH](markdown_files/Movie_Review_TH.md)
 - [ThePrint](markdown_files/ThePrint.md)
-Total number of new entries: 23
-Total number of summaries updated: 2
-finished at: 2023-11-12 09:53:19
-Total time taken: 1300.3581774234772 seconds
+
+
+
+ ************************************************* 
+Total number of new entries: 21
+Total number of summaries updated: 4
+Finished at: 2023-11-12 10:46:03
+Total time taken: 23.0 minutes 4.091463565826416 seconds

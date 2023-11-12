@@ -1,3 +1,103 @@
+Sun, 12 Nov 2023 10:04:16 +0000
+### [Why Diwali isn’t as big in Bollywood films as Holi, Karwa Chauth are](https://theprint.in/opinion/why-diwali-isnt-as-big-in-bollywood-films-as-holi-karwa-chauth-are/1842251/)
+
+The article discusses the portrayal of Diwali, Holi, and Karwa Chauth festivals in Bollywood movies. It highlights how Diwali, once a significant plot point in movies like Kabhi Khushi Kabhie Gham and Vaastav: The Reality, has gradually disappeared from the big screen. In contrast, Holi has become Bollywood's favorite festival, often depicted with suggestive lyrics and the glorification of harassment. Karwa Chauth, a traditional festival centered around devotional love, has also gained prominence in Bollywood movies. The article suggests that it is time for Diwali to make a comeback in Bollywood and calls for more diverse and respectful portrayals of festivals in films.
+
+Sun, 12 Nov 2023 10:02:02 +0000
+### [UAE renews its support for the goals and programs of UNESCO during COP28](https://theprint.in/world/uae-renews-its-support-for-the-goals-and-programs-of-unesco-during-cop28/1842265/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Sheikh Salem bin Khalid Al Qasimi, UAE's Minister of Culture and Youth, urged member states of UNESCO to join the UAE in leading climate change efforts during the country's hosting of the COP28 conference. The speech was delivered at the 42nd session of the UNESCO General Conference in Paris, with representatives from 195 countries in attendance. Sheikh Salem highlighted the UAE's initiatives in environmental sustainability and digital education, as well as its support for UNESCO programs, including the restoration of archaeological sites in Iraq. He also called for an immediate ceasefire in Gaza, emphasizing the UAE's commitment to preserving global heritage, education, and culture. The article concludes by mentioning the upcoming celebration of the UAE's fifty-second National Day.
+
+Sun, 12 Nov 2023 10:01:00 +0000
+### [Diwali: Jaipur-based organisation makes 3 lakh ‘diyas’ using cow dung](https://theprint.in/india/diwali-jaipur-based-organisation-makes-3-lakh-diyas-using-cow-dung/1842263/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The Shri Krishna Balram Gau Seva Trust in Jaipur, India, made over 300,000 lamps using cow dung for Diwali. The dung was sourced from the Hingonia Gaushala, a facility managed by the trust. Volunteers mixed the dung with flour, wood powder, and gum guar powder to create the lamps, which can also be used as fertilizers. Most of the lamps were distributed among followers, while some were sold in the market. The initiative aimed to promote cow protection.
+
+Sun, 12 Nov 2023 10:00:49 +0000
+### [Justice (retd.) Hussain appointed as caretaker CM of Pakistan’s Khyber-Pakhtunkhwa](https://theprint.in/world/justice-retd-hussain-appointed-as-caretaker-cm-of-pakistans-khyber-pakhtunkhwa/1842262/)
+
+Justice (retd.) Arshad Hussain has been appointed as the interim chief minister of Pakistan's Khyber Pakhtunkhwa province after the previous caretaker chief minister, Muhammad Azam Khan, passed away. Hussain, who previously served as the law minister and chief justice of the Supreme Appellate Court of Gilgit Baltistan, was selected as the consensus candidate during a meeting convened by Khyber Pakhtunkhwa Governor Haji Ghulam Ali. The appointment follows the dissolution of the provincial assemblies earlier this year and is part of Pakistan's preparations for upcoming general elections.
+
+Sun, 12 Nov 2023 10:00:38 +0000
+### [PM Modi ‘hoodwinking’ people with promise of panel on SC sub-quota: BRS leader Rama Rao](https://theprint.in/india/pm-modi-hoodwinking-people-with-promise-of-panel-on-sc-sub-quota-brs-leader-rama-rao/1842261/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Telangana IT Minister K.T. Rama Rao has accused Prime Minister Narendra Modi of deceiving people with his promise to form a committee for empowering the Madigas, a scheduled caste community. Rama Rao also mocked the BJP, stating that the national party is not competitive in the upcoming assembly polls in Telangana. PM Modi had recently addressed a rally organized by the Madiga Reservation Porata Samithi, where he pledged to establish a committee to address the demands for SC categorization. Rama Rao dismissed this announcement, stating that it reflects the PM's lack of interest and intention to deceive people.
+
+Sun, 12 Nov 2023 10:00:26 +0000
+### [Fire at multiplex in Surat; 2 fire personnel injured while dousing blaze](https://theprint.in/india/fire-at-multiplex-in-surat-2-fire-personnel-injured-while-dousing-blaze/1842260/)
+
+A fire broke out in a commercial building in Surat, Gujarat, at a multiplex on Sunday morning. The incident resulted in the destruction of a screen and several chairs, but there were no reported casualties as the theater was closed at the time. Two fire personnel sustained minor injuries during the operation to control the blaze, which took around two-and-a-half hours to bring under control. Suspected to have been caused by a short-circuit, the fire occurred in one of the seven screens of Time Cinema multiplex located on the fourth floor of Fortune Mall in Pal locality. Despite the damage to the screen and chairs, the fire did not spread to other parts of the multiplex.
+
+Sun, 12 Nov 2023 10:00:14 +0000
+### [Russia opens terrorist investigation after freight train derailed](https://theprint.in/world/russia-opens-terrorist-investigation-after-freight-train-derailed/1842259/)
+
+Russian investigators have launched a terrorism investigation following the derailment of a major freight train in the Ryazan region. The investigative committee stated that the incident was caused by a homemade bomb that exploded on the railway line at 07:12 on November 11, 2023, resulting in the derailment of 19 wagons. This report is auto-generated from Reuters news service.Russian investigators have opened a terrorism investigation after a homemade bomb caused a major freight train to derail in the Ryazan region. The explosion occurred at 07:12 on November 11, 2023, resulting in 19 wagons being derailed.
+
+Sun, 12 Nov 2023 10:00:14 +0000
+### [Kumaraswamy hits out at Congress CM Siddaramaiah for making tall promises in Telangana](https://theprint.in/india/kumaraswamy-hits-out-at-congress-cm-siddaramaiah-for-making-tall-promises-in-telangana/1842258/)
+
+JD(S) Karnataka President H D Kumaraswamy criticized Chief Minister Siddaramaiah for failing to fulfill key election promises in Karnataka while making grand promises in Telangana. Kumaraswamy called Siddaramaiah and Deputy Chief Minister D K Shivakumar "Temporary Chief Minister" and "Duplicate Chief Minister," respectively, mocking their campaign in Telangana. He pointed out that they promised five hours of power to farmers in Telangana, even though the state already provided 24-hour power supply. Kumaraswamy also highlighted the large number of vacant posts in Karnataka and accused Siddaramaiah and his deputy of promising to fill two lakh posts in Telangana. He mentioned the shortage of agriculture officers and personnel in his own constituency and criticized the lack of buses and staff for the Shakti scheme. Kumaraswamy questioned why the Congress had not given Rs 4,000 to women heads of families in Karnataka while promising it in Telangana. He further claimed that there was frequent load shedding despite the Gruha Jyothi scheme offering free electricity.
+
+Sun, 12 Nov 2023 10:00:03 +0000
+### [Former top Czech diplomat Schwarzenberg dies aged 85](https://theprint.in/world/former-top-czech-diplomat-schwarzenberg-dies-aged-85/1842256/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.Former Czech Foreign Minister Karel Schwarzenberg, a key figure in the country's transition to democracy, has passed away at the age of 85. Schwarzenberg, who served as foreign minister from 2007 to 2013, was known for his support of European integration and his appeal to both conservative and liberal groups. He spent a significant portion of his life in exile due to his family's status as targets of the Communist regime. Schwarzenberg played a crucial role in the Velvet Revolution and later became a senator and helped establish the TOP09 party. Despite running for president in 2013, he lost to Milos Zeman.
+
+Sun, 12 Nov 2023 10:00:03 +0000
+### [Century stand by Rohit-Gill pair as India score 119/1 in 15 overs](https://theprint.in/sport/century-stand-by-rohit-gill-pair-as-india-score-119-1-in-15-overs-2/1842255/)
+
+In their final World Cup league game against Netherlands, India got off to a strong start, reaching 119 for 1 after 15 overs. Shubman Gill scored a quick half-century, while Rohit Sharma remained unbeaten on 60. This is the third time in the tournament that India has crossed the 90-run mark in the first Powerplay. Rohit Sharma also broke the record for the most sixes in a calendar year, surpassing AB de Villiers' previous record of 58.In their final World Cup league game against the Netherlands, India made a strong start, reaching 119 for 1 after 15 overs. Shubman Gill scored a half-century off 32 balls and had a 100-run partnership with skipper Rohit Sharma. India crossed the 90-run mark in the first powerplay for the third time in the tournament. Rohit hit a record 60 sixes in a calendar year, surpassing the previous record of 58 by AB de Villiers in 2015.
+
+Sun, 12 Nov 2023 09:48:15 +0000
+### [India to host 33rd WOAH Regional Commission for Asia and Pacific conference](https://theprint.in/economy/india-to-host-33rd-woah-regional-commission-for-asia-and-pacific-conference/1842247/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.India will host the 33rd conference of the World Organisation for Animal Health (WOAH) Regional Commission for Asia and the Pacific in New Delhi from November 13-16, 2023. The conference will be attended by delegates from 36 member countries, along with representatives from regional and international organizations, the private sector, and private veterinary organizations. The event will emphasize the role of scientific expertise in assessing risks at the human-animal-environment interface and the need to enhance resilience and capacity in veterinary services. The conference aims to facilitate discussions and foster networking relationships among delegates, experts, and regional partners.
+
+Sun, 12 Nov 2023 09:47:59 +0000
+### [Sharjah Media City participates in Global Media Congress 2023](https://theprint.in/world/sharjah-media-city-participates-in-global-media-congress-2023/1842245/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.The Sharjah Media City (SHAMS) will participate in the second edition of the Global Media Congress (GMC). The three-day congress, under the patronage of Sheikh Mansour bin Zayed Al Nahyan, will take place from November 14 to 16, 2023, at the Abu Dhabi National Exhibition Centre. SHAMS' chairman, Khalid Omar Al Midfa, expressed the city's commitment to the congress, emphasizing its strategic initiatives to shape the future of the global media sector in line with UAE's efforts. The participation will provide opportunities for collaboration, knowledge sharing, and fostering talent within the media ecosystem. The congress will discuss various topics, including environmental and sustainability media, media education, challenges, opportunities, and innovations, as well as sports media and the role of new technologies and artificial intelligence. SHAMS will also launch "SHAMS Talks," an interactive digital initiative, as part of its pavilion at the global exhibition.
+
+Sun, 12 Nov 2023 09:47:44 +0000
+### [Travis Kelce joins Taylor Swift in Argentina](https://theprint.in/feature/travis-kelce-joins-taylor-swift-in-argentina/1842243/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.Taylor Swift was seen celebrating her successful concert in Argentina by embracing and kissing her boyfriend, Travis Kelce, backstage. During the concert, Swift changed the lyrics to her song "Karma" to include a reference to Kelce. The couple was also spotted having dinner in Buenos Aires, joined by Swift's father. Kelce expressed his plans to join Swift in Argentina on his podcast. Their relationship has been heating up since Swift attended a Kansas City Chiefs game in September.
+
+Sun, 12 Nov 2023 09:47:31 +0000
+### [Researchers reveal genetics of near healthy tissue help detect lung cancer’s return](https://theprint.in/health/researchers-reveal-genetics-of-near-healthy-tissue-help-detect-lung-cancers-return/1842241/)
+
+New research led by NYU Langone Health and its Perlmutter Cancer Centre suggests that genetic data from healthy tissue near lung tumors may be a better predictor of cancer recurrence than analyzing the tumors themselves. The study, which focused on lung adenocarcinoma, found that analyzing the transcriptome of apparently healthy tissue accurately predicted recurrence 83% of the time, compared to 63% when analyzing tumor tissue. The study also revealed that genes associated with inflammation in adjacent healthy tissue were particularly useful for making predictions. The findings suggest that immunotherapy could be used to combat tumor growth before it becomes detectable by traditional methods. The researchers plan to use their findings to assess recurrence risk in newly treated lung cancer patients.
+
+Sun, 12 Nov 2023 09:47:02 +0000
+### [Lynda Carter shares how her husband Robert Altman’s death inspired new song ‘Rise Up’](https://theprint.in/feature/lynda-carter-shares-how-her-husband-robert-altmans-death-inspired-new-song-rise-up/1842239/)
+
+American actress and singer Lynda Carter appeared on 'The Tamron Hall Show' where she discussed her new single 'Rise Up'. Carter revealed that the track was partially inspired by her late husband, Robert Altman, who passed away in February 2021 from myelofibrosis. She also mentioned that her daughter, Jessica Carter Altman, who is also a musician, had encouraged her to start writing again following her husband's death. The article mentions that 'Rise Up' is a song about social advocacy and that Carter wants it to ignite the activist spirit in listeners. She believes that when people come together, their voices are amplified, and change becomes inevitable.
+
+Sun, 12 Nov 2023 09:45:42 +0000
+### [SC rejects Noida politician Srikant Tyagi’s plea seeking police protection](https://theprint.in/india/sc-rejects-noida-politician-srikant-tyagis-plea-seeking-police-protection/1842238/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The Supreme Court has dismissed a petition filed by politician Srikant Tyagi, who was arrested last year for allegedly assaulting a woman in a Noida society. Tyagi had sought police protection following the incident, which gained attention after a video of him abusing and assaulting the woman went viral on social media. The court upheld a previous judgment by the Allahabad High Court, which stated that a person who resorts to violence and does not value human life has no right to special protection from the state.
+
+Sun, 12 Nov 2023 09:45:27 +0000
+### [India safe as long as its brave soldiers stand guard at borders: Modi to security forces on Diwali](https://theprint.in/india/india-safe-as-long-as-its-brave-soldiers-stand-guard-at-borders-modi-to-security-forces-on-diwali/1842237/)
+
+India's Prime Minister Narendra Modi addressed soldiers stationed near the border and highlighted India's growing capabilities in the defense sector. He emphasized the importance of protecting India's borders and maintaining peace in the country. Modi expressed his gratitude to the soldiers for their commitment to duty, especially during festivals like Diwali when they are away from their families. He praised the bravery and sacrifices of India's security forces, stating that they are the strongest wall at the borders. Modi also mentioned India's achievements in various fields, including space exploration, sports, and economic growth. He acknowledged that India is now fulfilling the needs of its friends and allies, becoming a significant global player in the defense sector. Modi concluded by expressing his deep emotion and pride in spending Diwali with the security forces.
+
+Sun, 12 Nov 2023 09:45:15 +0000
+### [Century stand by Rohit-Gill pair as India score 119/1 in 15 overs](https://theprint.in/sport/century-stand-by-rohit-gill-pair-as-india-score-119-1-in-15-overs/1842236/)
+
+In their final World Cup league game against the Netherlands, India got off to a strong start, reaching 119 for 1 after 15 overs. Shubman Gill scored a quick-fire half-century, scoring 51 off 32 balls and adding 100 for the opening stand with captain Rohit Sharma (60 batting off 48 balls). This is the third time in the tournament that India has crossed the 90-run mark in the first powerplay. Rohit Sharma also broke the record for hitting the most sixes in a calendar year, surpassing AB de Villiers' previous record of 58 maximums in 2015.
+
+Sun, 12 Nov 2023 09:45:02 +0000
+### [Hope ICC suspending SLC does not affect our schedule, U19 World Cup: Skipper Mendis](https://theprint.in/sport/hope-icc-suspending-slc-does-not-affect-our-schedule-u19-world-cup-skipper-mendis/1842235/)
+
+The Sri Lankan cricket team captain, Kusal Mendis, expressed concern over the suspension of Sri Lanka Cricket (SLC) by the International Cricket Council (ICC), hoping that it won't affect the team's upcoming fixtures and preparations for the men's U19 World Cup. Sri Lanka is scheduled to host Zimbabwe for a limited-overs series in January-February 2024, followed by the U19 World Cup starting on January 13. The ICC suspended SLC due to government interference after the Sri Lankan parliament passed a resolution calling for the sacking of the country's cricket governing body. Mendis acknowledged the team's recent poor performance against India but mentioned that they had shown resilience despite being bowled out for low scores. The article also mentions the appointment of an interim committee and the efforts to address deficiencies in the team's performance.
+
+Sun, 12 Nov 2023 09:32:02 +0000
+### [Israeli drama ‘Fauda’ crew member reported dead in Gaza](https://theprint.in/feature/israeli-drama-fauda-crew-member-reported-dead-in-gaza/1842233/)
+
+A crew member from the popular Israeli TV series "Fauda" named Matan Meir has been reported killed in action in Gaza. Meir, a reservist in Israel’s 551st Brigade’s 697th Battalion, was announced in an IDF list of soldiers who died in the line of duty. The social media team of "Fauda" also confirmed his death and expressed condolences. Meir was involved in the production of other shows as well. Israeli Prime Minister Benjamin Netanyahu labeled Hamas as part of the axis of terrorism led by Iran, endangering the Middle East and Arab world. He urged Arab leaders to stand against Hamas. Netanyahu emphasized that Israel's war against Hamas is advancing at "full force" with the goal of victory and eliminating Hamas.
+
 Sun, 12 Nov 2023 09:18:20 +0000
 ### [Abu Dhabi Department of Culture and Tourism reopens Delma Museum following restoration](https://theprint.in/world/abu-dhabi-department-of-culture-and-tourism-reopens-delma-museum-following-restoration/1842225/)
 
@@ -66,8 +166,7 @@ Hmm, I am not sure. Email support@chatbase.co for more info.The Supreme Court of
 Sun, 12 Nov 2023 08:59:33 +0000
 ### [Arab League, OIC dismiss Israel’s ‘right to self defence’, call for ICC probe into ‘war crimes’](https://theprint.in/world/arab-league-oic-dismiss-israels-right-to-self-defence-call-for-icc-probe-into-war-crimes/1842089/)
 
-Article found but Couldn't summarize 
-At emergency joint session on Gaza, leaders of Arab &#38; Muslim countries were in agreement on demand for Palestinian state with 1967 borders &#38; ‘nuke-free-zone’ in the Middle East.
+Hmm, I am not sure. Email support@chatbase.co for more info.Middle East rivals Iran and Saudi Arabia joined forces at a joint summit of the Organisation of Islamic Cooperation (OIC) and the Arab League in Riyadh to reject Israel's claim of self-defense. They called on the International Criminal Court (ICC) to investigate Israel for war crimes and crimes against humanity in Palestine. The summit, attended by leaders from various Arab and Islamic nations, marked Iranian President Ebrahim Raisi's first visit to Saudi Arabia since ties were restored earlier this year. The emergency summit was prompted by Israel's response to attacks by Hamas, resulting in numerous deaths, including many children. The joint resolution adopted at the summit condemned Israel's aggression and affirmed Palestinians' right to self-determination, an independent state, and their demand for Jerusalem as its capital. Turkish President Recep Tayyip Erdogan proposed an international peace conference, while Raisi blamed the US for enabling Israel's atrocities. The OIC and the Arab League also called for the establishment of a nuclear-weapon-free-zone in the Middle East and the elimination of other weapons of mass destruction in the region. Disagreements arose among the leaders regarding severing diplomatic ties with Israel, with some advocating for it and others emphasizing the importance of maintaining dialogue.
 
 Sun, 12 Nov 2023 08:47:13 +0000
 ### [Saira Banu shares throwback picture with Dilip Kumar on Diwali](https://theprint.in/feature/saira-banu-shares-throwback-picture-with-dilip-kumar-on-diwali/1842193/)
@@ -97,8 +196,7 @@ Security forces have arrested a militant belonging to the NSCN-KYA outfit in Ass
 Sun, 12 Nov 2023 08:45:05 +0000
 ### [Israel offers to evacuate babies from crippled Gaza hospital](https://theprint.in/world/israel-offers-to-evacuate-babies-from-crippled-gaza-hospital/1842184/)
 
-Article found but Couldn't summarize 
-By Nidal al-Mughrabi, Emily Rose and Maayan Lubell GAZA/JERUSALEM (Reuters) -Israel's military said it was ready to evacuate babies from Gaza's largest hospital on Sunday, where Palestinian officials
+Hmm, I am not sure. Email support@chatbase.co for more info.The Israeli military has announced its readiness to evacuate babies from Gaza's largest hospital due to a fuel shortage amid intense fighting in the area. Palestinian officials reported that two newborns have died and dozens more are at risk. Additionally, Israel said rockets continue to be fired from Gaza into southern Israel, where Hamas allegedly killed 1,200 people and took over 200 hostages last month. There are reports of progress towards a deal to release hostages held by Hamas in exchange for a pause in fighting and the release of women and minor Palestinian prisoners. Meanwhile, clashes between Israeli troops and Hamas gunmen have been reported near Gaza City's Al Shifa hospital. The World Health Organization expressed concern for the safety of everyone trapped in the hospital. Muslim and Arab countries meeting in Saudi Arabia called for an immediate end to military operations in Gaza and urged the International Criminal Court to investigate alleged war crimes committed by Israel.
 
 Sun, 12 Nov 2023 08:03:03 +0000
 ### [Masaba celebrates Diwali with dad Vivian Richards, calls it “special”](https://theprint.in/feature/masaba-celebrates-diwali-with-dad-vivian-richards-calls-it-special/1842123/)
