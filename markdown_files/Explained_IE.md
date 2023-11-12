@@ -1,3 +1,20 @@
+Sun, 12 Nov 2023 04:15:52 +0000
+### [What WHO’s report has said on reduction in deaths due to TB in India, coverage of its treatments](https://indianexpress.com/article/explained/explained-health/indias-tb-mortality-report-2023-explained-9023266/)
+
+India has made positive strides towards eliminating tuberculosis (TB) by 2025, but still has the highest incidence of the infection globally. According to the World Health Organisation (WHO) Global TB Report 2023, India accounts for 27% of total TB cases worldwide. However, the report also highlights two positive trends in India. Firstly, there has been an increase in the reporting of TB cases, surpassing pre-pandemic levels with 24.2 lakh cases reported in 2022. Secondly, the coverage of treatment for TB has increased to 80%. 
+
+A significant drop in TB mortality was also noted in the report due to the WHO accepting India's Sample Registration System dataset for calculations, resulting in a reduction of TB deaths from 4.94 lakhs in 2021 to 3.31 lakhs in 2022. This lowered India's contribution to global mortality from 36% in previous years to 26% in 2022.
+
+The Indian government presented newer evidence and data, including in-country mathematical modeling and information from the government's ni-kshay portal, to support these revised estimates. The WHO reviewed and appreciated these efforts, leading to the publication of revised estimates in the global TB report.
+
+Despite the challenges posed by the pandemic, India's reporting of TB cases has improved and exceeded pre-pandemic levels. India reported 24.2 lakh cases in 2022, similar to the number in 2019. It is worth noting that there is often a gap between the estimated number of TB cases based on mathematical models and the actual number of diagnosed individuals receiving treatment in a country.
+
+Additionally, India was the only country to have completed a national TB prevalence survey since 2019, which informed the estimates of TB incidence in the country. The report also highlighted India's achievements in increasing TB treatment coverage by 19% compared to the previous year, with over 80% treatment coverage achieved, which is higher than the global pre-pandemic level of 70%.
+
+The Indian government has undertaken several initiatives towards TB elimination, including active case finding, scaling up molecular testing, and engaging the private sector. The ni-kshay mitra program, which provides nutritional support to TB patients, has resulted in the adoption of over 11 lakh TB patients. India has set a target of no more than 44 new TB cases per lakh population by 2025 and aims to reduce mortality to 3 deaths per lakh population by the same year.
+
+Achieving these targets will be challenging, as the current estimates indicate a higher number of cases and mortality than initially anticipated in the national strategic plan. However, India remains committed to its goal of eliminating TB and has made significant progress in increasing reporting and treatment coverage.
+
 Sun, 12 Nov 2023 01:55:20 +0000
 ### [The iconography of Goddess Lakshmi, from the Vedas to the modern masters of Indian painting](https://indianexpress.com/article/explained/explained-culture/diwali-goddess-lakshmi-artists-paintings-culture-explained-9023269/)
 

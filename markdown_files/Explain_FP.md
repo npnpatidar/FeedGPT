@@ -1,3 +1,31 @@
+Sun, 12 Nov 2023 10:02:03 +0530
+### [It’s OK if you don’t get 8 hours of sleep every day. Here’s why](https://www.firstpost.com/explainers/its-ok-if-you-dont-get-8-hours-of-sleep-every-day-heres-why-13369232.html)
+
+Recent studies have shown that sleep regularity, rather than sleep duration, is crucial for longevity and overall health. Getting six hours of sleep regularly was found to be better for reducing the risk of premature death compared to getting irregular eight hours of sleep. Inconsistent sleep patterns have been linked to an increased risk of cardiovascular disease and other health problems. Individual sleep requirements vary, and while health authorities provide guidelines, each person's unique needs should be taken into account. Quality of sleep is just as important as duration for brain function. Instead of strictly following the eight-hour rule, experts suggest listening to one's body and prioritizing quality sleep.
+
+Sun, 12 Nov 2023 09:48:49 +0530
+### [This Week in Explainers: Why WeWork did not work](https://www.firstpost.com/explainers/this-week-in-explainers-why-wework-did-not-work-13375502.html)
+
+In this article roundup, several key global stories from the past week are summarized. Here are the main highlights:
+
+1. Israel's deadly war with Hamas in Gaza has resulted in over 11,000 Palestinian deaths and growing criticism of Israel. The United States has convinced Israel to allow a four-hour daily humanitarian pause in operations to allow civilians to flee.
+
+2. WeWork, a US startup backed by SoftBank Group Corp, filed for bankruptcy protection. The company's fall was attributed to reduced demand for office space and increasing debt.
+
+3. A new COVID-19 variant called JN.1, a strain of Omicron, has been detected in the US, England, France, Iceland, and Luxembourg.
+
+4. Israel has accused four global media outlets, including the New York Times, CNN, Associated Press, and Reuters, of having prior knowledge of Hamas' October attack. The media organizations have strongly rejected these allegations.
+
+5. The European Union's executive commission has recommended starting formal talks on Ukraine and Moldova becoming member states next year, along with granting candidate country status to Georgia.
+
+6. An Indian man was sentenced to life in prison in Florida for the murder of his wife in 2020.
+
+7. Benjamin Netanyahu, the Israeli prime minister, has stated that Israel would maintain indefinite "overall security responsibility" in Gaza even after crushing Hamas. This could potentially fuel tensions in the region.
+
+8. Japan has acquired a new island due to an underwater volcanic eruption off the coast of Iwo Jima.
+
+These are just the highlights of the article, providing a brief summary of the various news stories covered.
+
 Sat, 11 Nov 2023 17:55:03 +0530
 ### [A supervolcano in Italy is waking up. Should we be concerned?](https://www.firstpost.com/explainers/a-supervolcano-in-italy-is-waking-up-should-we-be-concerned-13377742.html)
 

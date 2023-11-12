@@ -1,3 +1,15 @@
+2023-11-12T10:28:55+05:30
+### [At UN Human Rights Review, India Calls on Canada to Prevent 'Misuse' of Freedom of Expression](https://thewire.in/diplomacy/unhrc-india-canada-universal-periodic-review)
+
+No Article text 
+Member states of the UN undergo a periodic evaluation of their human rights records by the 47 members of the UN Human Rights Council in Geneva.
+
+2023-11-12T10:00:43+05:30
+### [Resisting the Zionist Revisionism of Gandhi](https://thewire.in/history/resisting-the-zionist-revisionism-of-gandhi)
+
+No Article text 
+An effort to rewrite the record on Gandhi’s attitude towards Palestine and the Jewish question has been underway since long. Recent events in Gaza have given this effort a new impetus.
+
 2023-11-11T19:58:09+05:30
 ### [Backstory: It's Time Journalists Woke Up to Their Digital Security](https://thewire.in/media/backstory-its-time-journalists-woke-up-to-their-digital-security)
 
