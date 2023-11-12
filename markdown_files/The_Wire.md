@@ -1,3 +1,9 @@
+2023-11-12T12:54:02+05:30
+### ['Aware of States' Silencing of Dissenting Voices': Academics Call on Turkey to Cut Ties With Israel](https://thewire.in/world/turkey-israel-palestine-academics)
+
+No Article text 
+'We, the undersigned Academics for Peace from Turkey, call on the international public, politicians and media to take a stand against Israel's massacres.'
+
 2023-11-12T11:58:46+05:30
 ### [The Blowing of Toxic Winds is a Pattern We Need to Break](https://thewire.in/environment/the-blowing-of-toxic-winds-is-a-pattern-we-need-to-break)
 

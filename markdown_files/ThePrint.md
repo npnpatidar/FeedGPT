@@ -1,3 +1,125 @@
+Sun, 12 Nov 2023 08:03:03 +0000
+### [Masaba celebrates Diwali with dad Vivian Richards, calls it “special”](https://theprint.in/feature/masaba-celebrates-diwali-with-dad-vivian-richards-calls-it-special/1842123/)
+
+Designer Masaba Gupta celebrated Diwali with her father, cricketer Vivian Richards, who visited India for the festivities. She shared pictures on Instagram, including one of her posing with her dad. Masaba and her husband also performed the Diwali puja at her office. Masaba is the daughter of actor Neena Gupta and Vivian Richards, who had her out of wedlock. They have lived separately throughout their lives. Neena raised Masaba alone until she got married to Vivek Mehra in 2008. Vivian had previously visited India in January 2023 to attend Masaba's wedding with Satyadeep Misra. Masaba shared a family picture on Instagram, which included her husband, Satyadeep's mother and sister, Neena Gupta, her husband Vivek Mehra, and Vivian Richards.
+
+Sun, 12 Nov 2023 08:02:32 +0000
+### [Ranbir Kapoor twins with ‘Jiju’ Saif Ali Khan, Ibrahim in black at Diwali party](https://theprint.in/feature/ranbir-kapoor-twins-with-jiju-saif-ali-khan-ibrahim-in-black-at-diwali-party/1842121/)
+
+Actors Ranbir Kapoor and Alia Bhatt attended a Diwali bash hosted by Ranbir's cousin Kareena Kapoor Khan in Mumbai. Pictures and videos from the event were shared on social media, including one of Ranbir posing with Saif Ali Khan and Ibrahim Ali Khan. The trio was seen twinning in black ethnic outfits. Ranbir's mother Neetu Kapoor also attended the party, wearing a pink salwar suit. Other celebrities like Arjun Kapoor, Amrita Arora, Karisma Kapoor, Kunal Kemmu, and Soha Ali Khan were also spotted at the event. Kareena and Saif were dressed in traditional attire and shared an adorable picture on Instagram. Ranbir's upcoming film 'Animal' is set to release on December 1 and also stars Rashmika Mandanna, Anil Kapoor, and Bobby Deol.
+
+Sun, 12 Nov 2023 08:02:01 +0000
+### [Israel-Hamas war: Rocket alerts sounded in evacuated Israeli town near Gaza](https://theprint.in/world/israel-hamas-war-rocket-alerts-sounded-in-evacuated-israeli-town-near-gaza/1842119/)
+
+Rocket alerts were heard in the Israeli town of Kissufim near the Gaza Strip, with no reports of impacts or casualties. The town had been previously evacuated. Israeli Prime Minister Benjamin Netanyahu referred to Hamas as an "integral part of the axis of terrorism" and urged Arab leaders to speak out against them. He stated that Israel's war against Hamas is advancing at "full force" with the goal of victory and the return of hostages. Netanyahu claimed that Hamas has lost control of the northern Gaza Strip.
+
+Sun, 12 Nov 2023 08:00:53 +0000
+### [NHL roundup: Blues blitz Avs behind 2 hat tricks](https://theprint.in/sport/nhl-roundup-blues-blitz-avs-behind-2-hat-tricks/1842116/)
+
+The St. Louis Blues dominated the Colorado Avalanche with an 8-2 victory, thanks to hat tricks from Brayden Schenn and Pavel Buchnevich. Schenn now has four career hat tricks, while Buchnevich has three. Torey Krug, Alexey Toropchenko, and Robert Thomas also contributed to the Blues' win. Mikko Rantanen and Jack Johnson scored for the Avalanche. 
+
+In another game, the Montreal Canadiens defeated the Boston Bruins 3-2 in overtime, with Kaiden Guhle scoring the winning goal. Nick Suzuki and Brendan Gallagher also found the net for Montreal, while Brad Marchand had a goal and an assist for Boston.
+
+The Edmonton Oilers snapped a four-game losing streak by defeating the Seattle Kraken 4-1. Zach Hyman scored a natural hat trick, and Dylan Holloway also scored for the Oilers. Jaden Schwartz scored for the Kraken.
+
+The Detroit Red Wings secured a 5-4 victory over the Columbus Blue Jackets, with Daniel Sprong scoring the go-ahead goal. Lucas Raymond, Alex DeBrincat, Robby Fabbri, and Jake Walman also scored for the Red Wings, while Patrik Laine scored his 200th career goal for the Blue Jackets.
+
+The Dallas Stars emerged victorious with a 3-2 win against the Winnipeg Jets, thanks to goals from Wyatt Johnston, Thomas Harley, and Matt Duchene. Cole Perfetti and Brenden Dillon scored for the Jets.
+
+The Ottawa Senators defeated the Calgary Flames 4-1, ending their five-game home skid. Drake Batherson, Mathieu Joseph, Rourke Chartier, and Travis Hamonic scored for the Senators, while Blake Coleman scored for the Flames.
+
+The Carolina Hurricanes shut out the Tampa Bay Lightning 4-0, with Pyotr Kochetkov recording his fifth career shutout. Sebastian Aho and Brent Burns each had a goal and an assist for the Hurricanes.
+
+The Toronto Maple Leafs defeated the Vancouver Canucks 5-2, with Noah Gregor scoring the go-ahead goal. Matthew Knies, William Nylander, Nicholas Robertson, and David Kampf also found the net for the Maple Leafs, while J.T. Miller and Pius Suter scored for the Canucks.
+
+The Washington Capitals secured a 4-1 win over the New York Islanders, with goals from Nic Dowd, Aliaksei Protas, and Alex Ovechkin, who moved closer to Wayne Gretzky's all-time goal record. Alexander Romanov scored for the Islanders.
+
+The Pittsburgh Penguins blanked the Buffalo Sabres 4-0, with Erik Karlsson scoring twice and Tristan Jarry making 35 saves.
+
+The Arizona Coyotes defeated the Nashville Predators 7-5, with Michael Carcone scoring two goals and Sean Durzi netting the game-winner. Filip Forsberg scored two goals for the Predators.
+
+The Philadelphia Flyers snapped the Los Angeles Kings' eight-game point streak with a 4-2 victory. Morgan Frost scored two goals for the Flyers, while Cal Petersen made 35 saves in net.
+
+Sun, 12 Nov 2023 08:00:50 +0000
+### [UP CM Adityanath extends Diwali greetings to people](https://theprint.in/india/up-cm-adityanath-extends-diwali-greetings-to-people/1842114/)
+
+Uttar Pradesh Chief Minister Yogi Adityanath extended Diwali greetings to the people of the state, wishing them happiness, prosperity, good fortune, and health. He visited the Hanumangarhi temple and the Shri Ram Janmabhoomi in Ayodhya, offering prayers. Adityanath met with seers and inquired about their health. He also convened a meeting with the seers to discuss the consecration of the Ram temple. Deputy Chief Ministers Keshav Prasad Maurya and Brajesh Pathak also extended Diwali wishes to the people. They emphasized the importance of faith, joy, and light during the festival.
+
+Sun, 12 Nov 2023 08:00:41 +0000
+### [Motorcycling-Bastianini wins Malaysian Grand Prix, Bagnaia extends championship lead](https://theprint.in/sport/motorcycling-bastianini-wins-malaysian-grand-prix-bagnaia-extends-championship-lead/1842113/)
+
+Ducati's Enea Bastianini secured his first victory of the season in the Malaysian Grand Prix, with Gresini's Alex Marquez finishing second. The race saw Bastianini and Marquez quickly pull ahead of championship leader Francesco Bagnaia and Jorge Martin on the opening lap. Bagnaia ultimately finished third, while Martin came in fourth, falling 14 points behind Bagnaia in the championship standings. The MotoGP championship has two remaining races this season in Qatar and Valencia.Hmm, I am not sure. Email support@chatbase.co for more info.
+
+Sun, 12 Nov 2023 08:00:34 +0000
+### [Tripura: 14 Bangladeshis held for illegally entering India](https://theprint.in/india/tripura-14-bangladeshis-held-for-illegally-entering-india/1842112/)
+
+Fourteen Bangladeshi nationals, including four children, were arrested in Tripura's Gomati district for illegally entering India. Acting on a tip-off, raids were conducted at two houses in Baishnabpur village near the international border, and the illegal immigrants were held. Three locals who provided shelter to the Bangladeshi nationals were also arrested. The Sabroom subdivision border, which is 62 km long, is not fully fenced, making it easier for human traffickers to exploit. Authorities are taking a zero-tolerance approach to human trafficking and are booking those involved under stringent charges.
+
+Sun, 12 Nov 2023 08:00:03 +0000
+### [Australia foreign minister touts Tuvalu security, migration pact](https://theprint.in/world/australia-foreign-minister-touts-tuvalu-security-migration-pact/1842110/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Australia's Foreign Minister Penny Wong has stated that a security and migration pact signed with Tuvalu demonstrates Australia's commitment as a reliable regional partner and its efforts to counter China's influence in the Pacific. The pact includes a security guarantee to protect Tuvalu from military aggression and climate change, as well as boost migration. Australia aims to strengthen its standing in the Pacific amid China's increasing presence in the region. The treaty also allows Australia to review Tuvalu's security arrangements with other nations. Tuvalu, a small Pacific Islands nation, is one of the few countries to maintain diplomatic relations with Taiwan.
+
+Sun, 12 Nov 2023 08:00:02 +0000
+### [Women will get Rs 15,000 annual assistance if Cong retains power in Chhattisgarh: CM Baghel](https://theprint.in/india/women-will-get-rs-15000-annual-assistance-if-cong-retains-power-in-chhattisgarh-cm-baghel/1842109/)
+
+Chief Minister Bhupesh Baghel of Chhattisgarh announced that if the Congress party remains in power, women in the state will receive an annual financial assistance of Rs 15,000. This announcement is seen as a response to the opposition BJP's promise of providing Rs 12,000 per year to married women. The assistance will be directly deposited into the bank accounts of eligible women under the "Chhattisgarh Gruha Lakshmi Yojana." The first phase of polling has already taken place, and the second phase is scheduled for November 17.
+
+Sun, 12 Nov 2023 07:47:13 +0000
+### [Sanjay Dutt posts fam-jam picture with Diwali wish](https://theprint.in/feature/sanjay-dutt-posts-fam-jam-picture-with-diwali-wish/1842104/)
+
+Actor Sanjay Dutt wished his fans and followers a happy Diwali by sharing an adorable family picture on Instagram. The photo featured Sanjay, his wife Maanayata Dutt, and their children Shahraan and Iqra. Diwali, also known as the festival of lights, symbolizes the victory of light over darkness and good over evil. In terms of his work, Sanjay will be seen in the upcoming film 'The Virgin Tree' alongside Sunny Singh, Mouni Roy, and Palak Tiwari. He is also part of the movie 'Welcome To The Jungle,' which stars Akshay Kumar, Suniel Shetty, Paresh Rawal, and Disha Patani and is set to release on December 20, 2024.
+
+Sun, 12 Nov 2023 07:47:02 +0000
+### [‘The Swimmer’, ‘The Donna Reed Show’ actor Janet Landgard passes away at 75](https://theprint.in/feature/the-swimmer-the-donna-reed-show-actor-janet-landgard-passes-away-at-75/1842102/)
+
+Actor Janet Landgard, known for her roles in "The Swimmer" and "The Donna Reed Show," has passed away at the age of 75. Her co-star Paul Petersen shared the news on Facebook, revealing that she had lost her battle with cancer. Landgard made her television debut in 1963 on "The Donna Reed Show" and went on to portray Petersen's girlfriend on the show. She was also featured on the TV special "The Hollywood Deb Stars of 1965" and hosted "Dream Girl of '67."
+
+Sun, 12 Nov 2023 07:45:13 +0000
+### [3 arrested in sisters’ suicide in Agra ashram](https://theprint.in/india/3-arrested-in-sisters-suicide-in-agra-ashram/1842099/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Three people have been arrested in connection with the suicide of two sisters at the Brahma Kumaris Ashram in Jagner. The sisters left behind a note naming four individuals responsible for their actions. The police have recovered their mobile phones and filed an FIR under section 306 of the Indian Penal Code. The sisters had been living in the ashram for several years and accused their cousin, uncle, a member of the ashram, and a relative of driving them to suicide. The dispute allegedly stemmed from a sum of Rs 25 lakh. Three of the accused have been arrested, while a search is ongoing for the fourth.
+
+Sun, 12 Nov 2023 07:45:02 +0000
+### [You dream of playing against India at Wankhede; we will stay level in semis: Rachin Ravindra](https://theprint.in/sport/you-dream-of-playing-against-india-at-wankhede-we-will-stay-level-in-semis-rachin-ravindra/1842097/)
+
+New Zealand's batsman Rachin Ravindra is confident that his team will stay focused in their World Cup semifinal match against India at the Wankhede Stadium. Ravindra has been in exceptional form, scoring three centuries in the tournament. He believes that although India is unbeaten at the Wankhede, New Zealand will give their best. The 23-year-old acknowledges that winning every game is not possible, but they will see how it plays out. He highlights the experience of the players in the team who have previously played in big matches against teams like Australia and England. Ravindra is excited about the match against India, especially since he has a special connection with Bengaluru, where the match will take place. He credits the depth in New Zealand's squad for their success despite injuries to key players. Ravindra also mentions the influence of his senior opening partner, Devon Conway, on his batting.
+
+Sun, 12 Nov 2023 07:32:02 +0000
+### [Kajol celebrates 30 years of ‘Baazigar’](https://theprint.in/feature/kajol-celebrates-30-years-of-baazigar/1842094/)
+
+Kajol celebrated the 30th anniversary of her film 'Baazigar' this Diwali. She reminisced about her first-time experiences working with Shah Rukh Khan, Shilpa Shetty, and Johnny Lever. Kajol shared stills from the film and expressed her fond memories and laughter on the set. Fans expressed their nostalgia and admiration for the movie, calling it amazing and rewatchable. Released in 1993, 'Baazigar' was a blockbuster and featured Shah Rukh Khan in an anti-hero role, marking one of Kajol's earliest successes and Shilpa Shetty's debut. The film's dialogues and songs are still popular among fans today, with SRK's line "kabhi kabhi jeetne ke liye kuch haarna bhi padta hai" remaining memorable.
+
+Sun, 12 Nov 2023 07:31:07 +0000
+### [Uttarakhand: Tunnel under construction on Yamunotri NH partially collapses, 40 workers trapped](https://theprint.in/india/uttarakhand-tunnel-under-construction-on-yamunotri-nh-partially-collapses-40-workers-trapped/1842092/)
+
+A tunnel under construction on the Brahmakhal-Yamunotri National Highway in Uttarakhand collapsed, trapping around 40 workers inside. The incident occurred early in the morning when a 150-meter portion of the four-and-a-half-kilometer tunnel collapsed. Rescue operations have been launched by the Uttarkashi Superintendent of Police and various emergency response teams. The tunnel is part of the Char Dham all-weather road project and its construction aims to reduce the journey between Uttarkashi and Yamunotri by 26 kilometers.A portion of a tunnel under construction on the Brahmakhal-Yamunotri national highway in Uttarkashi, Uttarakhand collapsed, trapping around 40 workers inside. The incident occurred around 4 am when a 150-meter-long section of the four-and-a-half-kilometer-long tunnel collapsed. Various rescue teams, including the National Disaster Response Force, State Disaster Response Force, fire brigade, and employees of the organization building the tunnel, are working to rescue the trapped laborers. The tunnel is part of the Char Dham all-weather road project, which aims to reduce the journey between Uttarkashi and Yamunotri by 26 km.
+
+Sun, 12 Nov 2023 07:30:34 +0000
+### [1 arrested with heroin in Assam’s Nagaon](https://theprint.in/india/1-arrested-with-heroin-in-assams-nagaon/1842090/)
+
+A person was arrested in Assam's Nagaon district for possession of heroin, along with the seizure of three vehicles and cash. The operation was carried out based on reliable information, resulting in the recovery of 464 grams of heroin in Gerukamukh village. The Chief Minister congratulated the state police on their successful operation.Hmm, I am not sure. Email support@chatbase.co for more info.A person was arrested in Nagaon district, Assam, with 464 grams of heroin, along with the seizure of three vehicles and cash. The operation was carried out by the Nagaon Police based on reliable information. The Chief Minister, Himanta Biswa Sarma, commended the police for their efforts.
+
+Sun, 12 Nov 2023 07:30:02 +0000
+### [Bihar govt warns newly appointed teachers of strict disciplinary action if they form association](https://theprint.in/india/bihar-govt-warns-newly-appointed-teachers-of-strict-disciplinary-action-if-they-form-association/1842088/)
+
+The Bihar government has issued a warning to newly recruited teachers, stating that if they form or join any associations and participate in protests against the education department's policies, their appointments may be cancelled. The warning comes after around 1.20 lakh teachers who cleared the Bihar Public Service Commission (BPSC) recruitment exam in 2023 received provisional appointment letters. The education department stated that while these teachers have not yet been assigned postings or started teaching, some have formed or joined an association and criticized the department's policies. The department emphasized that forming a union or being part of one is not allowed, and strict disciplinary action will be taken, including cancellation of appointments, if guilty. The article also mentions that 1.20 lakh candidates cleared the BPSC examination for 1.70 lakh teaching positions in Bihar.
+
+Sun, 12 Nov 2023 07:17:20 +0000
+### [It’s a schedule wrap for team ‘Bastar’](https://theprint.in/feature/its-a-schedule-wrap-for-team-bastar/1842076/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The team of the film 'Bastar: The Naxal Story', produced by Vipul Amrutlal Shah, has completed shooting for the project's first schedule in Mumbai. They celebrated the wrap by shooting a fun-filled video and wishing everyone a happy Diwali. The film, directed by Sudipto Sen and starring Adah Sharma, is inspired by an incident and is set to be released on April 5, 2024. The team previously collaborated on the successful film 'The Kerala Story', which portrayed young women being brainwashed into joining the Islamic State.
+
+Sun, 12 Nov 2023 07:17:12 +0000
+### [Oil price rise would hit 2024 global growth, inflation outlook: Fitch](https://theprint.in/economy/oil-price-rise-would-hit-2024-global-growth-inflation-outlook-fitch/1842074/)
+
+Higher oil prices resulting from the ongoing conflict in the Middle East could lead to lower economic growth and higher inflation, according to Fitch Ratings. The rating agency estimates that world GDP growth would be 0.4 percentage points lower in 2024 and 0.1 percentage points lower in 2025. Fitch's simulations assume average oil prices of $120 per barrel in 2024 and $100 per barrel in 2025. The impact of higher oil prices would dampen GDP growth in most economies, with South Africa and Turkey being the most affected. Fitch also expects higher inflation rates in 2024, followed by corrections in 2025. The potential oil price shock could result in tighter financial conditions, lower business and consumer confidence, and corrections in financial markets.
+
+Sun, 12 Nov 2023 07:17:02 +0000
+### [‘Tiger 3’: Fans applaud Salman Khan-Katrina Kaif chemistry, dub SRK’s cameo “best”](https://theprint.in/feature/tiger-3-fans-applaud-salman-khan-katrina-kaif-chemistry-dub-srks-cameo-best/1842072/)
+
+The much-awaited film "Tiger 3" starring Salman Khan and Katrina Kaif has been released in theaters and has received love from fans. The film, released during Diwali, has become a special treat for audiences. Viewers have praised Shah Rukh Khan's entry in the film and described Emraan Hashmi as the best villain. Many fans loved the chemistry between Salman and Katrina. "Tiger 3" is the fifth film in the YRF spy universe and is directed by Maneesh Sharma. Salman Khan has expressed his excitement about the film's action sequences and the presentation of his character, Tiger. He hopes that the audience will love the trailer of "Tiger 3" as it showcases intense action moments. This report is auto-generated from ANI news service.
+
 Sun, 12 Nov 2023 07:03:12 +0000
 ### [Preity Zinta celebrates her twins Jai-Gia’s second birthday](https://theprint.in/feature/preity-zinta-celebrates-her-twins-jai-gias-second-birthday/1842058/)
 

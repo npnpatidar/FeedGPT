@@ -1,3 +1,8 @@
+Sun, 12 Nov 2023 12:54:15 +0530
+### [Man scammed on dating app, forced to pay  ₹22,000 restaurant bill in Pune](https://www.livemint.com/technology/tech-news/man-scammed-on-bumble-dating-app-forced-to-pay-rs-22-000-restaurant-bill-in-pune-11699771901977.html)
+
+A man in Pune was scammed into paying a ₹22,000 restaurant bill by a woman he met on the dating app Bumble. The man shared his experience on social media, where it went viral. The woman ordered expensive items, including a ₹10,000 hukka and a ₹15,000 wine bottle. She then threatened the man, saying that the restaurant owner could damage his car if he didn't pay the bill. Netizens speculated that the woman was hired by the restaurant to scam customers. Similar incidents have been reported on Bumble in Delhi as well. In one case, a man was scammed out of ₹15,886 after meeting a woman on the app. After paying the bill, the man realized he had been scammed when the woman disappeared and ignored his calls.
+
 Sat, 11 Nov 2023 19:07:30 +0530
 ### [Last Day of Flipkart Diwali Sale! Deals on iPhone 14, Nothing Phone (2) and other smartphones you shouldn't miss](https://www.livemint.com/technology/gadgets/last-day-of-flipkart-diwali-sale-deals-on-iphone-14-nothing-phone-2-and-other-smartphones-you-shouldnt-miss-11699709597845.html)
 
