@@ -1,3 +1,14 @@
+Sun, 12 Nov 2023 01:55:20 +0000
+### [The iconography of Goddess Lakshmi, from the Vedas to the modern masters of Indian painting](https://indianexpress.com/article/explained/explained-culture/diwali-goddess-lakshmi-artists-paintings-culture-explained-9023269/)
+
+The article discusses the various interpretations and visual representations of Lakshmi, the Goddess of wealth and prosperity, across different regions and time periods in India. Lakshmi is commonly depicted resting on a lotus, accompanied by elephants. The Rig Veda mentions Lakshmi as a symbol of good fortune, while the Atharva Veda further develops her personality. One legend associates her with Vishnu's 'Kurma' avatar, where she emerges from the churning of the primeval ocean along with divine treasures. Coins from different periods depict Lakshmi standing on a lotus or flanked by elephants.
+
+Portrayals from the second century at the Sanchi stupa show Lakshmi adorned with jewelry and seated on a lotus. At the Ellora caves, she is seen with her husband Vishnu and his mount Garuda. During the Gupta period, Lakshmi was highly revered and appeared on numerous coins, sometimes seated on a lion. The lotus is a significant symbol associated with Lakshmi, representing purity and enlightenment.
+
+Today, the most common representation of Lakshmi is as Gaja Lakshmi, either seated or standing on a lotus, holding the flower in her hand, and accompanied by elephants. In North India, coins often flow from her hands, symbolizing material and spiritual wealth. In West Bengal, she is associated with a snowy owl, while in Eastern India, she bestows eight specific blessings known as Ashta Lakshmi. South Indian Tanjore paintings frequently depict her on a golden couch surrounded by lotuses and elephants.
+
+The advent of the printing press made Lakshmi's imagery more accessible through affordable prints. Raja Ravi Varma's popular oleograph print portrays Lakshmi standing on a lotus in a stream, wearing a pink saree, and moderately adorned. Over time, artists like M.F. Husain and Atul Dodiya incorporated Lakshmi into their works, offering different interpretations and styles.
+
 Sun, 12 Nov 2023 01:00:45 +0000
 ### [As thousands of earthquakes rock Iceland, a volcanic eruption to follow?](https://indianexpress.com/article/explained/explained-sci-tech/earthquake-swarm-iceland-volcanic-eruption-9023297/)
 
