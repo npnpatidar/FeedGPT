@@ -50,6 +50,7 @@ jobs:
         
           git status -s
           git add index.md
+          git add log.txt
           git add 'markdown_files/*'
           git add 'feeds/*'
           export TZ='Asia/Kolkata'
