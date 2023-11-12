@@ -29,8 +29,7 @@ Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. 
 Sat, 11 Nov 2023 13:27:30 +0530
 ### [Biting those hands that fed them: How TTP, ISKP are threatening Pakistan's national security](https://www.firstpost.com/opinion/biting-those-hands-that-fed-them-how-ttp-iskp-are-threatening-pakistans-national-security-13376862.html)
 
-Article found but Couldn't summarize 
-Biting those hands that fed them: How TTP, ISKP are threatening Pakistan's national security
+Sure, I'm here to help! How can I assist you today?Please note that I cannot access personal data about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. My primary function is to provide information and answer questions to the best of my knowledge and abilities. If you have any concerns about privacy or data security, please let me know, and I will do my best to address them. How can I assist you today?
 
 Sat, 11 Nov 2023 11:59:15 +0530
 ### [Time ticks fast for Zelenskyy amid Ukraine war stalemate, West’s shaky belief](https://www.firstpost.com/opinion/time-ticks-fast-for-zelenskyy-amid-ukraine-war-stalemate-wests-shaky-belief-13376482.html)
