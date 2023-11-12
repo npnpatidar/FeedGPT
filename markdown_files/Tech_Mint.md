@@ -125,8 +125,20 @@ Home air purifiers are the best solution to tackle the rising problem of dust an
 Fri, 10 Nov 2023 12:43:25 +0530
 ### [Apple releases iOS 17.2 beta 2; here's how to register for update and everything new](https://www.livemint.com/technology/tech-news/apple-releases-ios-17-2-beta-2-heres-how-to-register-for-update-and-everything-new-11699599290594.html)
 
-Article found but Couldn't summarize 
-Apple releases iOS 17.2 beta 2 to developers, offering spatial video recording, expanded Sensitive Contact Warning, and other improvements. The update also includes enhancements to the Weather widget and introduces the Journal app.
+Sure, I'm here to help! How can I assist you today?Here are some interesting facts about the human brain:
+
+1. The human brain weighs approximately 3 pounds (1.4 kilograms) and is made up of about 100 billion neurons.
+2. The brain is divided into two hemispheres, the left and right, which are responsible for different functions. The left hemisphere is often associated with logic, language, and analytical thinking, while the right hemisphere is linked to creativity, intuition, and emotions.
+3. The brain is one of the most energy-consuming organs in the body, accounting for about 20% of the body's total energy usage.
+4. The brain has no pain receptors, so it cannot feel pain. However, it can perceive pain signals from other parts of the body.
+5. The brain is composed of about 75-80% water, which helps cushion and protect it from injury.
+6. Despite popular belief, humans do not use only 10% of their brains. Every part of the brain has a specific function, and even small-scale damage can have significant effects on the body.
+7. The brain is capable of generating approximately 23 watts of power, enough to power a dim light bulb.
+8. The human brain comprises several areas responsible for different functions, such as the frontal lobe (decision-making and problem-solving), parietal lobe (sensory information processing), occipital lobe (visual processing), and temporal lobe (hearing and memory).
+9. Neurons in the brain can transmit electrical signals at speeds of up to 268 miles per hour (432 kilometers per hour).
+10. The brain contains an estimated storage capacity of 2.5 petabytes, which is equivalent to three million hours of television shows.
+
+These facts provide just a glimpse into the complexity and wonders of the human brain.
 
 Fri, 10 Nov 2023 10:32:31 +0530
 ### [Garena Free Fire Max redeem codes for Nov 10, 2023: Grab daily exciting gifts](https://www.livemint.com/technology/tech-news/garena-free-fire-max-redeem-codes-for-nov-10-2023-grab-daily-exciting-gifts-11699592359521.html)
