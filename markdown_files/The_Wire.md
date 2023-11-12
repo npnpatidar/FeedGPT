@@ -1,3 +1,9 @@
+2023-11-12T11:19:47+05:30
+### [Besieged by the Re-Energised 'Social Justice' Movement, Narendra Modi Discovers Karl Marx](https://thewire.in/politics/narendra-modi-karl-marx-rations-caste-survey)
+
+No Article text 
+Modi is a flamboyant gamesman, but does it ever behove our popular prime minister to watch the meaning and prospects of his utterances?
+
 2023-11-12T10:28:55+05:30
 ### [At UN Human Rights Review, India Calls on Canada to Prevent 'Misuse' of Freedom of Expression](https://thewire.in/diplomacy/unhrc-india-canada-universal-periodic-review)
 
