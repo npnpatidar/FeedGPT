@@ -1,3 +1,8 @@
+Sun, 12 Nov 2023 17:56:19 +0530
+### [FirstUp: PM Modi in Chhattisgarh and more… What will make news today?](https://www.firstpost.com/explainers/firstup-pm-modi-in-chhattisgarh-and-more-what-will-make-news-today-13380322.html)
+
+Prime Minister Narendra Modi will be addressing a rally in Mungeli, Chhattisgarh before the state's polls. Telangana Chief Minister K Chandrasekhar Rao is set to address several meetings for the upcoming Assembly polls. External Affairs Minister S Jaishankar will attend an event at Lord's Cricket Ground and lay groundwork for British Prime Minister Rishi Sunak's potential visit to India. The final nominees for the 2023 World Athlete of the Year award will be announced today. It is also World Kindness Day, promoting acts of kindness worldwide. Aung San Suu Kyi was released from house arrest on this day in 2010. Celebrities including Juhi Chawla, Gerard Butler, Whoopi Goldberg, and Aryan Khan celebrate their birthdays today.
+
 Sun, 12 Nov 2023 10:02:03 +0530
 ### [It’s OK if you don’t get 8 hours of sleep every day. Here’s why](https://www.firstpost.com/explainers/its-ok-if-you-dont-get-8-hours-of-sleep-every-day-heres-why-13369232.html)
 

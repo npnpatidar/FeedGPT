@@ -1,3 +1,8 @@
+Sun, 12 Nov 2023 22:07:24 +0000
+### [November 13, 1983, Forty Years Ago: President’s Appeal](https://indianexpress.com/article/opinion/40-years-ago/november-13-1983-forty-years-ago-presidents-appeal-9024197/)
+
+President Zail Singh has urged the people of India to stop fighting and resolve their issues through negotiations, even if it takes time. He emphasized the importance of national unity, highlighting that foreign powers envious of India's progress seek to destabilize the country. In other news, Tarsem Singh Purewal, the editor of Punjabi weekly Des Pardes published in England, was detained by Punjab police and is set to be deported to London. Meanwhile, a member of the Karnataka Assembly, N Hutchamasti Gowda, claimed to have joined the Congress (I) party along with two other members, but one of them denies the claim. On the sports front, India had a successful day in the third cricket Test against the West Indies, with the opposition struggling at 209 for 8 wickets despite India's strike bowler Kapil Dev not taking any wickets.
+
 Sun, 12 Nov 2023 12:00:53 +0000
 ### [From the Opinions Editor | On Diwali: A Hope and a Wish](https://indianexpress.com/article/opinion/columns/diwali-a-hope-and-a-wish-9023950/)
 
