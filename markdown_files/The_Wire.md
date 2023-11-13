@@ -1,3 +1,9 @@
+2023-11-13T11:03:02+05:30
+### [Supreme Court Circulates Interim Guidelines for Seizure of Devices](https://thewire.in/rights/supreme-court-circulates-interim-guidelines-for-seizure-of-devices)
+
+No Article text 
+Of late, the unauthorised and arbitrary seizure of devices by police from journalists, academics and lawyers have led to outrage about the rising impunity and absence of rules around it. The apex court’s guidelines should go some distance to set up guardrails.
+
 2023-11-12T17:21:16+05:30
 ### [More Than One Journalist Per Day Is Dying in the Israel-Gaza Conflict. This Has to Stop](https://thewire.in/media/palestine-gaza-israel-journalist-media)
 

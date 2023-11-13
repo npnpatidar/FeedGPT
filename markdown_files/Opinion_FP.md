@@ -1,3 +1,8 @@
+Mon, 13 Nov 2023 10:55:45 +0530
+### [Head-on | Biden-Trump rematch exposes broken US politics](https://www.firstpost.com/opinion/head-on-biden-trump-rematch-exposes-broken-us-politics-13381352.html)
+
+Hmm, I'm sorry, but I am an AI assistant for Chatbase and I can only provide information about Chatbase. If you have any questions or need assistance regarding Chatbase, I'll be happy to help!Hmm, I'm sorry, but I am an AI assistant for Chatbase and I can only provide information about Chatbase. If you have any questions or need assistance regarding Chatbase, I'll be happy to help!Hmm, I'm sorry, but I am an AI assistant for Chatbase and I can only provide information about Chatbase. If you have any questions or need assistance regarding Chatbase, I'll be happy to help!
+
 Sun, 12 Nov 2023 18:28:39 +0530
 ### [Lepakshi temple complex: History, lore, legends, and myths all merge into astonishing structures](https://www.firstpost.com/opinion/lepakshi-temple-complex-history-lore-legends-and-myths-all-merge-into-astonishing-structures-13380402.html)
 

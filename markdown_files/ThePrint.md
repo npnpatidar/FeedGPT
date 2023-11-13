@@ -1,3 +1,123 @@
+Mon, 13 Nov 2023 06:32:02 +0000
+### [‘Kaala Paani’ to be renewed for second season](https://theprint.in/feature/kaala-paani-to-be-renewed-for-second-season/1842726/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.Streaming platform Netflix has renewed the survival drama series 'Kaala Paani' for a second season. The first season received positive feedback and generated conversations about the choices individuals and society make. The showrunners and directors are grateful for Netflix's faith in their idea and look forward to continuing the character journeys in the new season. Netflix India also expressed their satisfaction with the success of the show and their excitement about exploring a new genre in Indian storytelling. Further details about the second season are yet to be announced.
+
+Mon, 13 Nov 2023 06:30:26 +0000
+### [MLA’s kin loses Rs 79,492 while making online payment to buy sweets](https://theprint.in/india/mlas-kin-loses-rs-79492-while-making-online-payment-to-buy-sweets/1842725/)
+
+A 31-year-old family member of an MLA from Maharashtra's Thane district lost Rs. 79,492 while trying to make an online payment for sweets ordered from a shop. The victim placed an order and received a QR code for payment. However, when she tried to make the payment, she received a call from someone claiming to be from the sweet shop who asked her to make additional transactions for completing the payment. After realizing that Rs. 79,012 had been debited from her account in two installments, the victim filed a complaint with the police. A case has been registered against an unidentified person for cheating under Indian Penal Code section 420 and provisions of the Information Technology Act.
+
+Mon, 13 Nov 2023 06:30:15 +0000
+### [CM Dhami visits Uttarkashi tunnel collapse site; rescue efforts on, loose debris being stabilised](https://theprint.in/india/cm-dhami-visits-uttarkashi-tunnel-collapse-site-rescue-efforts-on-loose-debris-being-stabilised/1842724/)
+
+Uttarakhand Chief Minister Pushkar Singh Dhami has arrived at the site in Uttarkashi where 40 workers are trapped after a tunnel collapsed on the Brahmakhal-Yamunotri national highway. Rescuers have been in contact with the trapped workers and have provided them with food and water. Efforts are being made to stabilize the loose debris, and personnel from multiple agencies are involved in the rescue operations. The trapped laborers are from various states, and authorities are optimistic about their safety as enough oxygen has been made available to them.
+
+Mon, 13 Nov 2023 06:30:02 +0000
+### [NCB busts international drug syndicate; cocaine worth Rs 15 cr seized, 2 foreigners held](https://theprint.in/india/ncb-busts-international-drug-syndicate-cocaine-worth-rs-15-cr-seized-2-foreigners-held/1842723/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.The Narcotics Control Bureau (NCB) in Mumbai has dismantled an international drug syndicate and confiscated two kilograms of cocaine from a Zambian national in a hotel. A Tanzanian woman, who was intended to receive the drugs, was also apprehended in Delhi. The seized cocaine is estimated to be worth around Rs 15 crore. The NCB Mumbai team conducted a raid based on specific information and arrested the Zambian national, who had traveled from Lusaka to Addis Ababa before arriving in Mumbai. The NCB team discovered the drugs in his hotel room and during questioning, the man provided information about intermediaries involved in drug trafficking. The NCB then monitored the handler's communication, which led them to intercept and arrest the Tanzanian woman in Delhi. The investigation revealed an international network spread across various cities including Mumbai, Delhi, Bengaluru, and Goa.
+
+Mon, 13 Nov 2023 06:30:00 +0000
+### [‘Akhilesh-Vakhilesh’ aside, Telangana Muslims will determine Congress’ place in INDIA](https://theprint.in/opinion/politically-correct/akhilesh-vakhilesh-aside-telangana-muslims-will-determine-congress-place-in-india/1842711/)
+
+Article found but Couldn't summarize 
+The AIMIM and the BRS, though never in an alliance, are the closest allies. KCR virtually stays away from Owaisi's turf, Hyderabad; the latter supports the ruling party elsewhere.
+
+Mon, 13 Nov 2023 06:21:14 +0000
+### [Congress talks big about caste census but its Madhya Pradesh candidate list lacks OBC names](https://theprint.in/opinion/congress-talks-big-about-caste-census-but-its-madhya-pradesh-candidate-list-lacks-obc-names/1842710/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses the Congress party's efforts in promoting social justice and its impact on the caste composition of its candidates for the upcoming Madhya Pradesh assembly election. The party has appointed a Dalit leader as its national president and has been advocating for a caste census. However, an analysis of the party's nominated candidates reveals that substantial changes have not been made in its candidate nomination policy.
+
+The Congress has allocated 36% of the tickets to upper castes, which comprise only around 10% of the state's population. In contrast, OBCs, representing more than half of the state's population, have been given only 27% of the tickets. This indicates that while there is a symbolic shift towards social justice, there have been no substantive changes in the candidate nomination policy.
+
+The article also highlights the dominance of certain jatis (castes) among the Congress candidates. More than half of the nominated candidates belong to five jatis: Rajput, Brahmin, Gond, Bhil, and Jatav/Ahirwar. Rajputs and Brahmins make up a significant portion of the nominations, with Rajputs comprising around 14% and Brahmins around 13% of the total candidates.
+
+Gonds and Bhils, as well as Jains, Baniyas, and Gurjars, also receive notable political representation. Among Scheduled Castes, the Jatav/Ahirwar castes have the highest number of nominations. However, the Congress has not been able to implement its aggressive stance on caste issues within the party, as the traditional upper-caste local elite still have influence over nominations.
+
+The article concludes by suggesting that the Congress may face electoral consequences if it fails to address these disparities in caste representation.
+
+Mon, 13 Nov 2023 06:02:38 +0000
+### [Japanese vice Finance Minister resigns over unpaid taxes](https://theprint.in/world/japanese-vice-finance-minister-resigns-over-unpaid-taxes/1842708/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Japanese Senior Vice Finance Minister Kenji Kanda has resigned following a magazine report that his company did not pay taxes, causing a setback for Prime Minister Fumio Kishida. Kanda's company had its land and property seized on four occasions from 2013 to 2022 due to non-payment of fixed asset taxes. Opposition parties criticized Kanda for not attending compulsory tax accountant lectures. Kanda apologized but initially denied resigning. The main opposition party called for Kanda to step down, stating his role in the finance ministry responsible for tax collection. Kanda's resignation follows the departure of two other cabinet members under Kishida's administration.
+
+Mon, 13 Nov 2023 06:02:02 +0000
+### [US Senator Tim Scott drops out of 2024 Presidential race, suspends campaign](https://theprint.in/world/us-senator-tim-scott-drops-out-of-2024-presidential-race-suspends-campaign/1842706/)
+
+US Senator Tim Scott has dropped out of the 2024 presidential race, stating that he has no intentions of supporting another contender for the Republican nomination. Scott made the announcement on Fox News's "Sunday Night in America" and also rejected the possibility of running as the Republican party's national ticket's running partner in 2024. He had previously announced his candidacy for the 2024 US Presidential elections in May, emerging as the latest opponent to Donald Trump. Other Republican candidates for the nomination include Florida Governor Ron DeSantis, former envoy to the United Nations Nikki Haley, and entrepreneur Vivek Ramaswamy.
+
+Mon, 13 Nov 2023 06:00:14 +0000
+### [Why are my kids good around other people and then badly behaved with me?](https://theprint.in/world/why-are-my-kids-good-around-other-people-and-then-badly-behaved-with-me/1842704/)
+
+This article discusses why children often behave well at school or in other settings but exhibit worse behavior at home. It explains that children learn from an early age that their behavior produces outcomes and can be a way to control the actions of others. Sometimes, children are inadvertently rewarded for misbehavior at home through increased attention or getting what they want. In contrast, children may behave better at school because teachers have clear expectations and reward systems in place. The article suggests that parents can help improve their children's behavior at home by establishing routines, setting simple house rules, noticing good behavior, spending regular small amounts of time with their child, and having realistic expectations.
+
+Mon, 13 Nov 2023 06:00:03 +0000
+### [What do people in the Pacific really think of China? It’s more nuanced than you may imagine](https://theprint.in/world/what-do-people-in-the-pacific-really-think-of-china-its-more-nuanced-than-you-may-imagine-2/1842703/)
+
+China's increasing presence in the Pacific region has led to mixed perceptions among local populations, according to surveys conducted in Papua New Guinea (PNG) and the Solomon Islands. While both governments welcome China's engagement, concerns over environmental pollution and perceived lack of benefits from Chinese projects were raised. However, those living near mining operations tended to view them more positively due to financial benefits. Chinese government scholarships improved students' views of China, with participants recommending the program and reporting a positive change in their impressions of the country. In the Solomon Islands, support for closer ties with both China and the US was high among surveyed students, although some expressed concerns about potential debt risks associated with China's Belt and Road Initiative. Non-governmental organizations in the Pacific also raised concerns about human rights violations, governance, debt risks, and environmental pollution related to China's initiatives. The complex and nuanced perceptions of local populations in the Pacific regarding China's influence should be considered by policymakers in the US and Australia as they aim to counter China's growing relationships in the region.
+
+Mon, 13 Nov 2023 05:50:06 +0000
+### [Reddys, Sharmas, Raghavans… but Dalits missing from White House Diwali celebrations](https://theprint.in/opinion/reddys-sharmas-raghavans-but-dalits-missing-from-white-house-diwali-celebrations/1841600/)
+
+Article found but Couldn't summarize 
+The Biden-Harris administration must ensure their Diwali celebrations genuinely reflect the festival's spirit. This is about justice and equity, not just symbolism.
+
+Mon, 13 Nov 2023 05:45:13 +0000
+### [Thane man orders smartphone online, receives soap bars instead](https://theprint.in/india/thane-man-orders-smartphone-online-receives-soap-bars-instead/1842700/)
+
+A 25-year-old man from Thane, Maharashtra, ordered a smartphone worth Rs 46,000 online but received three soap bars in the package instead. The victim suspects that someone tampered with the parcel during delivery. The man filed a police complaint, and an offence has been registered against the unidentified culprit under the Indian Penal Code section 420 (cheating). The police are currently investigating the case.Hmm, I am not sure. Email support@chatbase.co for more info.A man from Thane, Maharashtra, ordered a smartphone worth Rs 46,000 from an online shopping platform but received three soap bars instead. The parcel was allegedly tampered with enroute for delivery. The victim filed a police complaint, and an offense has been registered under the Indian Penal Code. A probe is underway in the case.
+
+Mon, 13 Nov 2023 05:45:03 +0000
+### [What do people in the Pacific really think of China? It’s more nuanced than you may imagine](https://theprint.in/world/what-do-people-in-the-pacific-really-think-of-china-its-more-nuanced-than-you-may-imagine/1842699/)
+
+Hmm, based on the provided text, it seems that China has been increasing its presence in the Pacific region, particularly in countries like Papua New Guinea (PNG) and Solomon Islands. While the governments of these countries welcome China's engagement, there are mixed perceptions among the local populations. For example, in PNG, concerns about environmental pollution related to the China-owned Ramu NiCo project were expressed by the majority of respondents. However, those living in the mining lease area had a more positive view due to the direct financial benefits they receive. In Solomon Islands, there is support for a closer bilateral relationship with China, but some individuals have concerns about debt risks and Chinese control over resources. It's important for policymakers in the US and Australia to understand these nuanced perceptions as they navigate China's growing influence in the region.
+
+Mon, 13 Nov 2023 05:31:32 +0000
+### [Soccer-Australia aim to top World Cup qualifying: Behich](https://theprint.in/sport/soccer-australia-aim-to-top-world-cup-qualifying-behich/1842697/)
+
+Australia aims to secure top spot in their Asia groups during World Cup qualifying in order to avoid a difficult route to the 2026 finals in North America, according to defender Aziz Behich. Australia had to win playoffs against the United Arab Emirates and Honduras to reach the previous World Cups in Qatar and Russia, respectively. While the expanded 48-team World Cup in 2026 offers Asia eight direct qualifying spots, Behich emphasized the team's goal of topping their group. Australia, ranked 27th in the world and fourth in Asia, begins qualifying against Bangladesh in Melbourne. The team is eager to play in front of home fans after being forced to play abroad for much of the Qatar qualifying cycle due to COVID-19 restrictions.
+
+Mon, 13 Nov 2023 05:31:19 +0000
+### [In the Market: Inside Wall Street’s scramble after ICBC hack](https://theprint.in/tech/in-the-market-inside-wall-streets-scramble-after-icbc-hack/1842695/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.The Industrial and Commercial Bank of China (ICBC) experienced a significant cyber hack on its U.S. broker-dealer, causing disruption to its operations. The attack was so extensive that the corporate email system stopped working, forcing employees to switch to Google mail. As a result, the brokerage temporarily owed BNY Mellon $9 billion, which was much larger than its net capital. ICBC's New York-based unit received financial support from its Chinese parent to repay BNY Mellon, and manual processing of trades was conducted with the help of the custody bank. ICBC expected the process of setting up secure systems and resuming normal business to take at least until Monday. During this time, clients were asked to temporarily suspend business and clear trades elsewhere. The ransomware attack, claimed by cybercrime gang Lockbit, raises concerns about the resilience of the Treasury market and highlights the importance of cybersecurity. The hack may also influence regulatory discussions surrounding central clearing of Treasury trades. The incident is likely to be a topic of conversation at an upcoming Treasury market conference. Despite being a mid-sized broker, ICBC's systems being paralyzed caused disruptions in the market, leading some market participants to reroute their trades. BNY Mellon played a crucial role in helping sort through the situation and facilitated the clearing of trades manually. ICBC's parent injected capital into the unit to ensure payment to BNY Mellon. Once ICBC's new system is operational, others in the industry will also review its safety measures, potentially causing further delays in returning to normal operations.
+
+Mon, 13 Nov 2023 05:31:07 +0000
+### [Payments app Zelle begins refunds for imposter scams after Washington pressure](https://theprint.in/tech/payments-app-zelle-begins-refunds-for-imposter-scams-after-washington-pressure/1842693/)
+
+Banks on the payment app Zelle have made a significant policy change by starting to refund victims of imposter scams. This decision comes in response to concerns raised by U.S. lawmakers and the federal consumer watchdog. Zelle, which is owned by seven major banks including JPMorgan Chase and Bank of America, began reversing transfers on June 30 for customers who were deceived into sending money to scammers posing as government agencies or financial service providers. The move goes beyond legal requirements, according to Ben Chance, the chief fraud risk officer at Early Warning Services (EWS), the company that owns Zelle.
+
+Previously, banks were only required to reimburse customers for unauthorized payments made by hackers, not for transfers initiated by customers themselves. While Zelle introduced a new reimbursement benefit for specific scam types, it had not previously provided details about its imposter scam refund policy due to concerns that it could encourage false scam claims.
+
+This policy shift represents a significant change from last year when banks argued against refunding transfers that customers were tricked into approving. Zelle has faced criticism after a New York Times report highlighted the prevalence of scams on their platform, with Senator Elizabeth Warren estimating that Zelle users lost $440 million to fraud in 2021 alone.
+
+Impersonator fraud was the most-reported scam across all payment methods in the U.S. in 2022, resulting in $2.6 billion in losses, according to the Federal Trade Commission. Despite concerns that covering the cost of authorized transactions might lead to more fraud, Zelle's owner company, EWS, has implemented a mechanism that allows banks to recover funds from the recipient's account and return them to the sender. Additionally, Zelle now requires lenders to implement a tool that detects transfers with risky attributes.
+
+Zelle's changes have satisfied the Consumer Financial Protection Bureau (CFPB) so far, but pressure from lawmakers may lead to further rule changes to protect customers from scams. Zelle faces market pressure to improve its standards of care as it competes with other peer-to-peer payment platforms like PayPal and Venmo, which offer purchase protection programs for eligible transactions.
+
+While Zelle's policy change is seen as a positive step, experts emphasize that regulations mandating imposter fraud protections would be better to ensure customer well-being. Payment fraud is expected to be a topic of discussion when bank CEOs appear before the Senate in the future.
+
+Mon, 13 Nov 2023 05:30:56 +0000
+### [China’s Didi swings to third-quarter profit, to buy-back $1 billion worth of shares](https://theprint.in/tech/chinas-didi-swings-to-third-quarter-profit-to-buy-back-1-billion-worth-of-shares/1842691/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.China's largest ride-hailing company, Didi Global, posted a profit of 107 million yuan ($14.66 million) in the third quarter of this year, compared to a loss of 2.01 billion yuan in the same period last year. This improvement was driven by increased domestic demand for mobility services. Didi Global also announced plans for share repurchases worth up to $1 billion over the next two years. Revenue for the company rose by 25% to reach 51.40 billion yuan.
+
+Mon, 13 Nov 2023 05:30:42 +0000
+### [Dollar steady ahead of US inflation data, yen near one-year low](https://theprint.in/economy/dollar-steady-ahead-of-us-inflation-data-yen-near-one-year-low/1842689/)
+
+The dollar remained strong as traders awaited U.S. inflation data to gauge the Federal Reserve's response to price pressures. The Japanese yen stayed weak, close to a one-year low, amidst speculation of possible intervention by Tokyo. The focus for traders will be on the U.S. consumer price index (CPI) numbers, with more Fed speakers expected to leave room for further interest rate hikes. Moody's lowering of the U.S. credit rating outlook had little impact on the market. The yen was pressured by rising U.S. treasury yields and continued dollar strength. Wholesale inflation in Japan slowed below 1%, suggesting fading cost pressures. Sterling held firm ahead of UK economic data releases, while the euro hovered around $1.0688.
+
+Mon, 13 Nov 2023 05:30:29 +0000
+### [Yen hits fresh one-year low as focus swings to US inflation data](https://theprint.in/economy/yen-hits-fresh-one-year-low-as-focus-swings-to-us-inflation-data/1842687/)
+
+The Japanese yen reached a one-year low against the dollar as traders eagerly awaited U.S. inflation data, which is expected to provide insight into whether the Federal Reserve needs to take further action to control rising prices. Market analysts believe that even if the CPI numbers are softer, the Fed will continue to resist rate cuts, considering inflation remains above target. Moody's recent announcement of lowering its outlook for the U.S. credit rating had little impact on the market. The yen remained under pressure due to increasing U.S. Treasury yields and a strong dollar. Meanwhile, data from Japan indicated that wholesale inflation had slowed below 1% for the first time in over two years, suggesting fading cost pressures that offered little support to the yen. In other news, sterling held steady ahead of UK earnings data, while the euro hovered around $1.0688.
+
+Mon, 13 Nov 2023 05:30:17 +0000
+### [Indonesia’s Prabowo stretches lead in new survey on presidential contenders](https://theprint.in/world/indonesias-prabowo-stretches-lead-in-new-survey-on-presidential-contenders/1842685/)
+
+Indonesian presidential candidate Prabowo Subianto has taken a significant lead over his rival in a recent opinion poll, despite controversy surrounding his choice of running mate, the son of the outgoing leader Joko Widodo. The survey conducted by Indikator Politik Indonesia showed that 39.7% of respondents would vote for Prabowo, while 30% would support the ruling party's Ganjar Pranowo. The inclusion of Widodo's son in the race has been seen by some analysts as a strategy to help retain political influence and boost support for Prabowo. The survey also indicated that younger voters and Jokowi loyalists are increasingly backing Prabowo.
+
 Mon, 13 Nov 2023 00:47:01 +0000
 ### [Tamil Nadu: Customs at Trichy Airport seize gold worth over Rs 1 crores from two passengers](https://theprint.in/environment/tamil-nadu-customs-at-trichy-airport-seize-gold-worth-over-rs-1-crores-from-two-passengers/1842575/)
 

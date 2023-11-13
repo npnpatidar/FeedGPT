@@ -1,3 +1,24 @@
+Mon, 13 Nov 2023 11:43:40 +0530
+### [Apple has major plans for iOS 18 thanks to AI, will be its most ‘ambitious’ update in years](https://www.firstpost.com/tech/apple-has-major-plans-for-ios-18-thanks-to-ai-will-be-its-most-ambitious-update-in-years-13381932.html)
+
+According to a report from Bloomberg's Mark Gurman, Apple plans to make iOS 18 one of its biggest and most significant updates in years. The update, which is about a year away, will heavily leverage artificial intelligence (AI). Apple has temporarily paused the introduction of new features for iOS 18 to address existing bugs, but remains committed to ambitious plans for the update. The objective is to deliver the update with major new features, designs, and enhancements to performance and security. iOS 18 follows a series of relatively modest updates for iPhone and iPad users over the past few years, with the last significant update being iOS 14 in 2020. Despite the brief pause, the release of iOS 18 is not expected to be significantly delayed. The software is scheduled for introduction at WWDC 2024, approximately seven months from now.
+
+Mon, 13 Nov 2023 10:59:06 +0530
+### [China cries foul: Country’s largest chipmaker YTMC sues Micron for patent infringement](https://www.firstpost.com/tech/china-cries-foul-countrys-largest-chipmaker-ytmc-sues-micron-for-patent-infringement-13381682.html)
+
+China's chipmaker, YMTC, has filed a lawsuit against U.S. rival Micron Technology, accusing them of infringing on eight of its patents. YMTC claims that Micron used its patented technology to gain and safeguard its market share without proper compensation. China has faced criticism in the past for disregarding international patents, with Chinese companies being accused of copying designs and schematics. Micron has not yet responded to the lawsuit. This legal dispute comes amid increasing U.S. restrictions on exporting chipmaking technology to China. Micron has previously been involved in legal disputes in China, which has resulted in a decline in its market share in the country. Nevertheless, Micron has expressed its commitment to the Chinese market by making investments and participating in trade expos.
+
+Mon, 13 Nov 2023 10:39:27 +0530
+### [Sonos Move Portable Speaker Review: A premium portable speaker that sounds heavenly](https://www.firstpost.com/tech/sonos-move-premium-portable-speaker-review-13381222.html)
+
+Article found but Couldn't summarize 
+Sonos Move Portable Speaker Review: A premium portable speaker that sounds heavenly
+
+Mon, 13 Nov 2023 10:28:05 +0530
+### [Timekettle Fluentalk T1 Mini Translator Review: Your ultimate overseas travel companion](https://www.firstpost.com/tech/timekettle-fluentalk-t1-mini-translator-device-review-13380952.html)
+
+The article discusses the Timekettle Fluentalk T1 Mini Translator Device, highlighting its usefulness for travelers in areas with limited internet connectivity. The device is praised for its lightweight design, easy setup, and user-friendly interface. It comes with a camera for translating texts in photos and offers single-button voice translation. However, some drawbacks include the limited number of offline languages, microphone sensitivity to noise, and a less than ideal UI for image translations. The article gives the device a rating of 4 out of 5. Overall, the Fluentalk T1 Mini is considered a valuable tool for global travelers who may face language barriers and unreliable internet services.
+
 Fri, 10 Nov 2023 16:46:53 +0530
 ### [Best phones under Rs 30,000 (Nov 2023): Realme 11 Pro+ 5G, Poco F5 5G to OnePlus 10R 5G](https://www.firstpost.com/tech/best-phones-under-rs-30000-november-2023-13374422.html)
 

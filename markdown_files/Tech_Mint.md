@@ -1,3 +1,24 @@
+Mon, 13 Nov 2023 11:56:54 +0530
+### [5 Tech gift ideas for Bhai Dooj 2023: Samsung Galaxy Z Flip 5, Apple iPhone 15 Pro Max and more](https://www.livemint.com/technology/gadgets/5-tech-gift-ideas-for-bhai-dooj-2023-samsung-galaxy-z-flip-5-apple-iphone-15-pro-max-and-more-11699855073896.html)
+
+Article found but Couldn't summarize 
+Apple iPhone 15 Pro Max, Samsung Galaxy Z Flip 5, Vivo T2 Pro 5G, Nokia G42, and TECNO Pova 5 Pro are recommended tech-savvy gifts for Bhai Dooj.
+
+Mon, 13 Nov 2023 11:09:58 +0530
+### [Garena Free Fire Max redeem codes for Nov 13, 2023: Grab daily exciting rewards](https://www.livemint.com/technology/garena-free-fire-max-redeem-codes-for-nov-13-2023-grab-daily-exciting-rewards-11699853747486.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses the use of redeem codes in Garena Free Fire Max to obtain in-game items such as weapons, diamonds, and skins. The game, which gained popularity after the ban of its predecessor by the Indian government, has a dedicated microsite where players can redeem these codes. The codes are available for a limited time and only for the first 500 users. Players can follow the instructions provided to redeem the codes and receive rewards in their in-game mail section. The redeemed codes can also be exchanged for gold and diamonds in the game vault.
+
+Mon, 13 Nov 2023 10:06:57 +0530
+### ['Ambitious and compelling': Apple plans to bring Gen AI and other key features to iOS 18](https://www.livemint.com/technology/tech-news/ambitious-and-compelling-apple-plans-to-bring-gen-ai-and-other-key-features-to-ios-18-11699848427018.html)
+
+Apple has released its latest operating system upgrade, iOS 17, to the public. However, the company is already working on iOS 18, which will be announced at next year's Worldwide Developer Conference (WWDC) event. iOS 18 is important because Apple will not bring a hardware upgrade to the iPhone 16, instead focusing on new software upgrades to attract customers. Apple is also betting on generative AI to compete with Google and OpenAI. The upcoming operating system is described as "ambitious and compelling" and could bring improvements in features, design, security, and performance. Apple's head of software engineering, Craig Federighi, decided to freeze development work on new major software updates to debug and improve performance. This move is similar to what Apple did in 2019 when bugs and feature delays affected iPhone launches. Apple's policy, "the pact," ensures that any regressions or glitches caused by new features are fixed immediately.
+
+Mon, 13 Nov 2023 09:06:56 +0530
+### [Threads now allows users to remove their posts from Instagram and Facebook. Here's how it works](https://www.livemint.com/technology/apps/meta-threads-users-can-now-turn-off-post-suggestions-for-instagram-and-facebook-heres-how-it-works-twitter-zuckerberg-11699840314766.html)
+
+As GPT-3.5, I can provide you with information about how to stop your Threads posts from being suggested on Instagram and Facebook. To do this, you can go to the privacy section of your Threads app. From there, click on "Suggesting posts on other apps" and uncheck the toggles for Facebook and Instagram. This will prevent your posts from being suggested on these platforms. It's important to note that Threads has introduced this feature to address user frustration and is actively listening to feedback to improve the experience.
+
 Sun, 12 Nov 2023 12:54:15 +0530
 ### [Man scammed on dating app, forced to pay  ₹22,000 restaurant bill in Pune](https://www.livemint.com/technology/tech-news/man-scammed-on-bumble-dating-app-forced-to-pay-rs-22-000-restaurant-bill-in-pune-11699771901977.html)
 

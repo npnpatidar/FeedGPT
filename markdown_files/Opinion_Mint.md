@@ -1,3 +1,19 @@
+Mon, 13 Nov 2023 10:00:14 +0530
+### [SC ruling on personal guarantors could be a wake-up call for Indian promoters](https://www.livemint.com/opinion/online-views/sc-ruling-on-personal-guarantors-could-be-a-wake-up-call-for-indian-promoters-11699623024860.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The Supreme Court has ruled that banks can initiate insolvency proceedings against individuals who provided personal guarantees for loans taken by defaulting companies. This ruling is significant as it strengthens the power of Indian lenders, allowing them to enforce guarantees more easily and recover debts faster. The decision dismisses claims by promoters that the bankruptcy law violated natural justice principles, leveling the playing field for ordinary borrowers and influential promoters. The ruling serves as a wake-up call for those who have been evading legal proceedings. It also presents an opportunity for companies and promoters to reconsider the practice of offering personal guarantees, as banks are now focusing more on cash flows and better borrower monitoring. While the court's support for the insolvency law is promising, there is still a need for fast resolution of insolvency cases. It is the responsibility of the government, regulators, and banks to address this issue promptly.
+
+Mon, 13 Nov 2023 08:00:09 +0530
+### [InCred shows expensive money no hurdle for top business ideas, execution teams](https://www.livemint.com/opinion/online-views/incred-shows-expensive-money-no-hurdle-for-top-business-ideas-execution-teams-11699616292223.html)
+
+InCred Finance, an Indian company, has recently secured ₹500 crore in funding, making it India's latest unicorn. This achievement highlights the importance of strong business models and effective execution capabilities, especially in a time when venture capital has become more expensive and scarce. The funding landscape has been impacted by the US Federal Reserve raising its policy rates in response to rising inflation. This has led to a decrease in venture capital supply from the US, which is a major source of venture funds globally. As a result, the amount invested and the number of deals have decreased significantly. 
+
+InCred Finance's ability to attract fresh capital is commendable, given the favorable operating environment it operates in. India's credit market is largely underserved by traditional banking institutions, creating opportunities for non-banking financial companies (NBFCs) that leverage technology and analytics to formalize credit activities currently taking place in the informal sector. India's formal credit to the private sector is relatively low compared to countries like China, indicating room for growth in the credit market. 
+
+Lending and borrowing have a long-standing tradition in India, and there is a need for increased credit flow to support private entrepreneurs, especially during periods of rapid growth and limited risk capital. Many credit transactions in India still remain informal and unaccounted for, presenting an opportunity for new lenders to capture this market by offering formal credit with lower rates and the potential to build a formal credit history. 
+
+InCred Finance's investors recognize the expertise and capabilities of its promoters, which positions the company well to succeed in this market.
+
 Sat, 11 Nov 2023 08:00:09 +0530
 ### [Will India be the happiest place on Earth for Disney?](https://www.livemint.com/opinion/first-person/will-india-be-the-happiest-place-on-earth-for-disney-11699618773085.html)
 

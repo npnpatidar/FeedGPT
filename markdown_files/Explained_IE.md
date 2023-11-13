@@ -1,3 +1,16 @@
+Mon, 13 Nov 2023 05:15:24 +0000
+### [Hospitals have special protection under the rules of war. Why are they in the crosshairs in Gaza?](https://indianexpress.com/article/explained/explained-global/hospitals-war-gaza-srael-rules-conflict-9024380/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses the escalating violence between Israel and Hamas in Gaza and the impact on hospitals in the region. Shifa Hospital, Gaza's largest and most advanced hospital, has become a battleground as Israeli tanks move through Gaza City. Israel claims that Hamas militants are using hospitals as shields, but Palestinians and rights groups accuse Israel of recklessly harming civilians seeking shelter.
+
+The Israeli military alleges that Hamas operates its command headquarters beneath Shifa Hospital, while Hamas and the hospital director deny these claims. The Israeli army states that if Hamas fighters use hospitals to fire at them, they will respond accordingly. However, there is no evidence provided by Israel to support these allegations.
+
+Many Palestinian families seek refuge in medical compounds, believing them to be safer than other alternatives. Shifa Hospital has become overcrowded with patients, medical workers, and displaced people. The hospital experienced a blackout, leading to the deaths of several patients, including a newborn in an incubator. Palestinian medical workers accuse Israel of targeting infrastructure to punish the population.
+
+The article also explores the implications of international humanitarian law. Hospitals have special protections during war, but they can lose this status if combatants use them to hide fighters or store weapons. However, there must be sufficient warning before attacks to allow for the safe evacuation of patients and medical workers. Even if Shifa Hospital conceals a Hamas command center, international law still requires steps to protect innocent civilians.
+
+International Criminal Court prosecutor Karim Khan warns combatants that claiming hospitals have lost their protected status due to military use carries a high burden of proof. If there is doubt about a civilian object's protective status, attackers must assume it is protected until proven otherwise.
+
 Sun, 12 Nov 2023 11:00:34 +0000
 ### [Airfares are sky-high in Europe and much of the world. Is that a good thing?](https://indianexpress.com/article/explained/explained-global/airfares-high-europe-world-explained-9023265/)
 
