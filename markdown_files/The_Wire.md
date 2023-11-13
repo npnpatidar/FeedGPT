@@ -1,3 +1,15 @@
+2023-11-13T19:30:20+05:30
+### [Citing the Israel-Hamas War, NSO Group Sought Urgent Meeting With Blinken](https://thewire.in/security/citing-the-israel-hamas-war-nso-group-sought-urgent-meeting-with-blinken)
+
+No Article text 
+Quoting experts, The Intercept noted that the NSO was using the current crisis to make space for the group to return to the good books of Washington.
+
+2023-11-13T19:00:36+05:30
+### [Smog Isn’t Just About Farmers – We Breathe the Soot of Our Own Ecological Sins](https://thewire.in/environment/smog-isnt-just-about-farmers-we-breathe-the-soot-of-our-own-ecological-sins)
+
+No Article text 
+It’s not only our lungs but perhaps our brains that have become fogged. We have failed to see that historically, stubble burning contributes only 6% to the pollution, yet the public is quick to make the farmers the scapegoats, and not the policymakers.
+
 2023-11-13T18:02:07+05:30
 ### [London Calling: Why Sunak Called the Old Captain Back to the Crease](https://thewire.in/world/london-calling-why-sunak-called-the-old-captain-back-to-the-crease)
 

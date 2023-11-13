@@ -1,3 +1,19 @@
+Mon, 13 Nov 2023 20:38:27 +0530
+### [How IDF killed Hamas commander Ahmed Siam, who held 1000 hostages in Gaza](https://www.firstpost.com/explainers/how-idf-killed-hamas-commander-ahmed-siam-who-held-1000-hostages-in-gaza-13384492.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses the ongoing conflict between Israel and Hamas in Gaza. It mentions that over 11,000 Palestinians, mostly women and minors, have been killed in Israeli airstrikes, while about 1,200 people have died on the Israeli side. The Israel Defense Forces (IDF) claimed to have killed a Hamas commander named Ahmed Siam, who allegedly held residents and patients hostage at Rantisi Hospital. The IDF accused Hamas of using civilians as human shields. The article also reports that dozens of people were killed in Israeli strikes on a school. Gaza's largest hospital, Al Shifa, has stopped working due to fighting outside, leaving hundreds of patients stranded. The United Nations Palestinian refugee agency is facing difficulties in providing essential services due to a lack of fuel.
+
+Mon, 13 Nov 2023 19:40:59 +0530
+### [How Britain’s ex-PM David Cameron has returned from political wilderness](https://www.firstpost.com/explainers/britain-ex-pm-david-cameron-foreign-secretary-political-wilderness-rishi-sunak-conservative-party-13383982.html)
+
+British prime minister Rishi Sunak surprised the country by appointing former prime minister David Cameron as the new Foreign Secretary. This decision was part of a Cabinet reshuffle that also saw Home Secretary Suella Braverman being replaced by James Cleverly. Cameron, who kept a low profile since his resignation in 2016, returns to politics after working in business and writing his memoirs.
+
+David Cameron rose through the ranks of the Conservative party and became the youngest prime minister in 200 years in 2010, leading a coalition government with the Liberal Democrats. His tenure was marked by issues such as spending cuts and the divisive Brexit referendum. He campaigned for Britain to remain in the EU but ultimately lost the vote and resigned, handing over power to Theresa May.
+
+The significance of Cameron's return lies in the rarity of a non-lawmaker taking on a senior government post and a former prime minister holding a Cabinet job. Despite previous differences between Cameron and Sunak, the new foreign secretary expressed his support for the prime minister and his desire to be part of a strong team. This unexpected appointment is seen as an opportunity for Sunak to gain attention and bridge divides within the Conservative political family.
+
+While moderates in the party welcome Cameron's inclusion, the Labour party criticized Sunak, calling the move a "last gasp act of desperation." They argue that Cameron's appointment shows a lack of talent and ideas within the government. Overall, Cameron's return is expected to have an impact on the upcoming general election and help Sunak focus on international challenges, given his experience and relationships with world leaders.
+
 Mon, 13 Nov 2023 17:51:44 +0530
 ### [UK PM fires Suella Braverman: The many controversies of the ex-home secretary](https://www.firstpost.com/explainers/uk-pm-rishi-sunak-fires-suella-braverman-controversies-ex-home-secretary-13383762.html)
 

@@ -1,3 +1,8 @@
+Mon, 13 Nov 2023 12:50:02 +0000
+### [Rishi Sunak’s radical reshuffle: Why sacking Suella Braverman and bringing David Cameron back may not be enough](https://indianexpress.com/article/opinion/columns/rishi-sunaks-radical-reshuffle-david-cameron-back-suella-braverman-sacked-9025090/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses the recent cabinet reshuffle in Westminster and its implications for Rishi Sunak and the Conservative Party. It highlights the need for Sunak to regain electoral momentum and reset the political narrative, as Labour is gaining popularity and voters are becoming impatient. The sacking of Suella Braverman, the accusations she made against the police, and the appointment of David Cameron as Foreign Secretary are all seen as attempts to address these challenges. The article also evaluates Sunak's performance as prime minister, noting slower progress on key pledges such as reducing inflation, growing the economy, and reducing national debt. It suggests that Sunak should prioritize combating inflation, targeted investment in infrastructure and education, a competitive tax regime, and strong alliances with like-minded democracies. The article concludes by warning that if the Tory party continues to bicker, it may face renewal on the opposition benches.
+
 Mon, 13 Nov 2023 11:42:03 +0000
 ### [Cities with worse air than Delhi fixed the problem: Nine things India needs to do to follow suit](https://indianexpress.com/article/opinion/columns/india-air-pollution-solutions-9024949/)
 

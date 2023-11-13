@@ -1,3 +1,103 @@
+Mon, 13 Nov 2023 18:15:03 +0000
+### [More than 40 calls received in 48 hours about injured and distressed animals due to Diwali firecrackers, says official](https://theprint.in/india/more-than-40-calls-received-in-48-hours-about-injured-and-distressed-animals-due-to-diwali-firecrackers-says-official/1843680/)
+
+Over the past 48 hours, authorities in Mumbai have received over 40 calls regarding injured or displaced animals as a result of firecrackers being burst during Diwali. The animals affected include cats, dogs, birds, and reptiles. Despite the Bombay High Court's directive to only burst firecrackers between 8pm and 10pm, air quality has worsened. Animal rescue teams from various organizations are on alert, expecting an increase in cases of distressed animals that may continue for weeks after the festival. So far, six birds, two snakes, and a turtle with burn injuries have been rescued. Citizens can report wildlife distress to the forest department helpline and domestic animal distress to the BMC helpline.
+
+Mon, 13 Nov 2023 18:03:26 +0000
+### [Rising temperatures, longer monsoon drive Bangladesh’s worst dengue outbreak](https://theprint.in/environment/rising-temperatures-longer-monsoon-drive-bangladeshs-worst-dengue-outbreak/1843678/)
+
+Bangladesh is experiencing its worst-ever outbreak of dengue fever, with a death toll of 1,476 and over 291,000 infected. Experts attribute the severe outbreak to rising temperatures and a longer monsoon season caused by climate change, which create ideal breeding conditions for the dengue-spreading mosquito. This year's death toll is more than five times that of 2022 and the highest since authorities began tracking the disease in 2000. The Aedes mosquito, which spreads dengue, is adapting to the changing climate patterns, leading to the disease's spread in all 64 districts of the country. Vector surveillance is now needed year-round to monitor the disease's spread. There is no specific vaccine or drug for dengue, but early detection and proper medical care can reduce deaths to less than 1% of those infected. Hospitals in Bangladesh are struggling to cope with the influx of patients and a shortage of intravenous fluids.
+
+Mon, 13 Nov 2023 18:02:51 +0000
+### [Oil gains more than 1% as OPEC report dampens demand concerns](https://theprint.in/economy/oil-gains-more-than-1-as-opec-report-dampens-demand-concerns/1843676/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Oil prices increased by over 1% following the release of OPEC's monthly market report, which alleviated concerns about declining demand in the US and China. OPEC stated that oil market fundamentals remained strong and attributed the drop in prices to speculators. The organization slightly raised its 2023 forecast for global oil demand growth and maintained its high prediction for 2024. The report countered negative sentiment around Chinese demand and increased demand growth forecasts for this year. Last week, the US Energy Information Administration lowered its projection for crude oil production and predicted a decrease in demand. Additionally, weak economic data from China raised fears of faltering demand. However, analysts believe that oil prices may have reached a bottom and expect Saudi Arabia and Russia to continue their voluntary supply cuts into next year, limiting downside potential. The next OPEC+ meeting is scheduled for November 26.
+
+Mon, 13 Nov 2023 18:02:20 +0000
+### [Gold gains as traders strap in for US inflation data](https://theprint.in/economy/gold-gains-as-traders-strap-in-for-us-inflation-data/1843673/)
+
+As GPT-3.5, I can provide a summary of the article you shared. Gold prices rose slightly as the dollar weakened, and investors are awaiting U.S. inflation data that could impact the Federal Reserve's interest rate decisions. Spot gold increased by 0.4% to $1,934.25 per ounce, while U.S. gold futures gained 0.1% to $1,938.50. The upcoming release of U.S. consumer prices index (CPI) data and producer price index data will be closely watched. If the inflation data exceeds expectations, gold may face downward pressure due to the possibility of a rate hike. However, if the data aligns with expectations, gold could trade above $1,950. It's important to note that higher interest rates can reduce the appeal of gold as it doesn't generate yield. The market currently predicts an 86% chance of the Fed keeping rates unchanged in December. Last week, gold prices dipped due to reduced safe-haven demand and a hawkish tone from Fed Chair Jerome Powell. Moody's recently changed the outlook on the U.S. government's ratings to "negative" from "stable." Spot silver fell by 1% to $21.99 per ounce, while platinum gained 1.1% to $849.49 and palladium fell by 1% to $953.44, near a five-year low.
+
+Mon, 13 Nov 2023 18:02:02 +0000
+### [Researchers find how climate change could affect brain](https://theprint.in/science/researchers-find-how-climate-change-could-affect-brain/1843672/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.A new report published in Nature Climate Change explores how climate change can affect the human brain. The study, led by the University of Vienna, examines how a changing environment can influence brain function and calls for further research on the impact of extreme weather events on the brain. The authors also discuss the role of neuroscience in understanding and addressing climate change, suggesting that understanding neural activity can help predict behavior and improve our response to climate change. The researchers emphasize the need to protect our brains from the effects of climate change and use our brains effectively to mitigate its impact.
+
+Mon, 13 Nov 2023 18:01:50 +0000
+### [US says it’s working hard to have a strong consensus leaders’ declaration at APEC](https://theprint.in/world/us-says-its-working-hard-to-have-a-strong-consensus-leaders-declaration-at-apec/1843671/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The United States is working to achieve a strong consensus leaders' statement at the Asia Pacific Economic Cooperation (APEC) summit this week. The wars in the Middle East and Ukraine have caused divisions among APEC members, making it challenging to draft a summit declaration. Despite past friction over statements, primarily due to the Russia-Ukraine conflict, the US wants to replicate last year's successful announcement of a consensus leaders' declaration. They are collaborating with like-minded partners throughout APEC to achieve this goal. Russia, a member of APEC, will be represented by officials not subject to US sanctions, as President Putin will not attend the summit. APEC represents a significant portion of global GDP and trade, comprising economies rather than nations. India will be present at ministerial-level meetings as a guest economy.
+
+Mon, 13 Nov 2023 18:01:20 +0000
+### [Mexico’s Ebrard to stay in ruling party, avoiding split](https://theprint.in/world/mexicos-ebrard-to-stay-in-ruling-party-avoiding-split/1843669/)
+
+Former Mexican foreign minister Marcelo Ebrard has announced that he will remain with the ruling leftist National Regeneration Movement (Morena) and will not seek the presidency in 2024 with an opposition party. Ebrard had previously rejected the results of Morena's presidential primaries and had not ruled out the possibility of seeking the presidency with the center-left opposition Citizens' Movement (MC) party. However, he has now reached an understanding with Morena's presidential candidate, former Mexico City mayor Claudia Sheinbaum. Ebrard stated that he would continue to pursue the presidency in the future but acknowledged that it was not feasible for next year. As a former socially progressive mayor of Mexico City, Ebrard decriminalized abortion and legalized same-sex marriage in the capital. He also played a key role in negotiations with the Trump and Biden administrations on trade and immigration.
+
+Mon, 13 Nov 2023 18:00:48 +0000
+### [EU plan for new Russia sanctions to go to members this week – Borrell](https://theprint.in/world/eu-plan-for-new-russia-sanctions-to-go-to-members-this-week-borrell/1843667/)
+
+The European Union is finalizing plans for a proposed 12th package of sanctions on Russia, which will include a ban on diamonds. The European Commission could approve the package as early as Wednesday, after which it will be discussed and approved by the Council of the EU. The EU has already imposed 11 packages of sanctions on Russia since the invasion of Ukraine in February 2022, with measures targeting various sectors and over 1,800 individuals and entities. The new package will also include export bans, actions to tighten oil price caps, and measures to combat circumvention. The timing for the proposal is expected to be early next week.
+
+Mon, 13 Nov 2023 18:00:33 +0000
+### [Sweden says some of its citizens have left Gaza, more to leave](https://theprint.in/world/sweden-says-some-of-its-citizens-have-left-gaza-more-to-leave/1843665/)
+
+The Swedish foreign ministry announced that more Swedish citizens or residents will be allowed to leave Gaza, following the first group that was given permission on Monday. The Danish foreign ministry also reported that two Danes left Gaza on Sunday evening, and they are working to enable others on the Danish evacuation list to leave the Palestinian enclave. In total, over 500 individuals with Swedish citizenship or residence permits have requested assistance to leave Gaza.The Swedish government has given permission for more citizens and residents to leave Gaza, following the first group who were allowed to leave on Monday. The Foreign Ministry estimates that over 500 people with Swedish citizenship or residence permits have requested assistance to leave Gaza. The Danish Foreign Ministry also announced that two Danes left Gaza on Sunday evening, with efforts still ongoing to enable others on the Danish evacuation list to leave the Palestinian enclave.
+
+Mon, 13 Nov 2023 18:00:18 +0000
+### [Factbox-Who is in UK PM Rishi Sunak’s new ministerial team?](https://theprint.in/world/factbox-who-is-in-uk-pm-rishi-sunaks-new-ministerial-team/1843663/)
+
+British Prime Minister Rishi Sunak has reshuffled his ministerial team, appointing former leader David Cameron as Foreign Secretary and firing Suella Braverman as Interior Minister. The move is seen as an attempt to win over moderate voters. The article includes a list of ministers who attend cabinet meetings, with some changes and many positions remaining the same. The report is auto-generated from Reuters news service, and the article also includes a disclaimer regarding its content.Hmm, I am not sure. Email support@chatbase.co for more info.
+
+Mon, 13 Nov 2023 18:00:16 +0000
+### [UDP forms committee for selection of candidates for Lok Sabha polls](https://theprint.in/india/udp-forms-committee-for-selection-of-candidates-for-lok-sabha-polls/1843661/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The United Democratic Party (UDP) in Meghalaya has formed a committee to select candidates for the 2024 Lok Sabha polls and autonomous district council elections. The UDP will be contesting both the Shillong and Tura Lok Sabha seats, which are currently held by Congress MP Vincent H Pala and NPP MP Agatha K Sangma, respectively. The UDP has also endorsed the decision to work together with the Hill State People's Democratic Party for the election to the Shillong Lok Sabha seat. The UDP is part of the Meghalaya Democratic Alliance led by Chief Minister Conrad K Sangma.
+
+Mon, 13 Nov 2023 18:00:04 +0000
+### [Sister of injured Israeli hostage pleads for medical access](https://theprint.in/world/sister-of-injured-israeli-hostage-pleads-for-medical-access/1843660/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses the case of Yarden Bibas, who along with his wife and two young sons, was kidnapped by Hamas gunmen in southern Israel. Yarden's sister, Ofri Bibas Levy, is in Geneva, Switzerland, advocating for their release or at least medical access. She expresses concern for Yarden's head wound becoming infected and worries about the well-being of her nephews. Levy also expresses concern that the situation will be forgotten as attention shifts to the humanitarian crisis in the Gaza Strip.
+
+Mon, 13 Nov 2023 18:00:02 +0000
+### [Odia actress held for ‘misbehaving’ with woman writer](https://theprint.in/india/odia-actress-held-for-misbehaving-with-woman-writer-2/1843659/)
+
+Actress Mousumi Nayak has been arrested by police in Bhubaneswar, Odisha, for allegedly demanding money and misbehaving with writer Banasmita Pati. The arrest was made based on a complaint filed by Pati. Previously, Nayak had lodged a complaint against Pati, accusing her of failing to repay a loan of Rs 5.08 lakh. However, both parties had reached a compromise, with Pati returning the money and Nayak agreeing not to tarnish her image. Despite this, Nayak made statements against Pati and her family in the media, and also filed a "false case" against her. Nayak allegedly sent threatening messages to Pati and her family as well. Nayak has admitted to the offenses and has been arrested under various sections of the Indian Penal Code.
+
+Mon, 13 Nov 2023 17:47:33 +0000
+### [Israel combining land, air, naval forces in war, operating inside Gaza: IDF spokesperson](https://theprint.in/world/israel-combining-land-air-naval-forces-in-war-operating-inside-gaza-idf-spokesperson/1843655/)
+
+The Israeli Defense Force (IDF) spokesperson, Lt Col Richard Hecht, has stated that the IDF is operating in Gaza to ensure the safe release of 239 Israeli hostages. The IDF is utilizing land, air, and naval forces in their operations against Hamas in Gaza. Hecht emphasized that the conflict is with Hamas and not the people of Gaza. The IDF has repeatedly asked civilians in the Shati area to leave, using text messages, leaflets, and media messages. Hecht claimed that Hamas has built a dedicated city for terrorism under the Shati area and that the fighting will be intense in this complex urban warfare. The IDF also maintained a tactical pause to allow Gazan civilians to evacuate through the Rafah crossing. Additionally, the IDF reported that 21 members of a terror cell were killed after they opened fire at Israeli forces from Al-Quds Hospital in Gaza City. The IDF stated that the cell was embedded among civilians and used the hospital as a base for their attack. The IDF returned fire, killing 21 operatives and damaging a tank. The IDF has criticized Hamas for using civilian structures, including hospitals, to carry out attacks.
+
+Mon, 13 Nov 2023 17:47:18 +0000
+### [Zeenat Aman reveals how son Zahaan “embarrassed” her at family vacation in Mauritius](https://theprint.in/feature/zeenat-aman-reveals-how-son-zahaan-embarrassed-her-at-family-vacation-in-mauritius/1843653/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Zeenat Aman, a veteran actor, shared a story on Instagram about a family holiday in Mauritius in 1995. During their stay at a resort, her younger son, Zahaan, decided to redecorate the waiting room of a clinic by stamping the walls with the clinic's logo. Zeenat was shocked but apologized and offered to pay for the damages. Zeenat often shares her thoughts on various topics including parenthood and privacy on Instagram.Hmm, I am not sure. Email support@chatbase.co for more info.
+
+Mon, 13 Nov 2023 17:47:02 +0000
+### [Researchers give more insight into development of lupus in females](https://theprint.in/science/researchers-give-more-insight-into-development-of-lupus-in-females/1843651/)
+
+In lupus, an autoimmune disease, women are affected nine times more than males. The reasons behind this gender disparity have been unclear, but a recent study by Johns Hopkins Medicine has shed light on the role of the X chromosome and a specific genetic material called X-inactive specific transcript (XIST). The study found that XIST can trigger an immune response involving toll-like receptor 7 (TLR7), a protein in the immune system. This immune response contributes to the development and severity of lupus in women. The research suggests that XIST may play a role in promoting autoimmunity and could be a potential target for future therapies. Further studies are needed to explore XIST's involvement in other autoimmune conditions that predominantly affect women.
+
+Mon, 13 Nov 2023 17:45:03 +0000
+### [Odia actress held for ‘misbehaving’ with woman writer](https://theprint.in/india/odia-actress-held-for-misbehaving-with-woman-writer/1843649/)
+
+Actress Mousumi Nayak has been arrested in Bhubaneswar for allegedly demanding money and misbehaving with writer Banasmita Pati. Nayak had initially filed a complaint against Pati, accusing her of failing to repay a loan. However, both parties reached a compromise and the money was returned. Despite this, Nayak continued to make statements against Pati and her family, and even lodged a false case against her. Nayak also allegedly sent threatening messages. She has been arrested and charged with various offenses, including criminal intimidation and extortion.
+
+Mon, 13 Nov 2023 17:30:21 +0000
+### [11,000 earthen lamps lit at Gorakhnath temple in UP as tribute to martyrs](https://theprint.in/india/11000-earthen-lamps-lit-at-gorakhnath-temple-in-up-as-tribute-to-martyrs/1843647/)
+
+As a part of the 'Ek Diya Shaheedon Ke Naam' initiative, 11,000 earthen lamps were lit at the Gorakhnath temple in Uttar Pradesh to pay tribute to martyrs. Chief Minister Yogi Adityanath lit a lamp in the Bheem Sarovar area of the temple, and a cultural program was also organized as part of the initiative. The program was organized by the Bhojpuri Association of India.As a part of the 'Ek Diya Shaheedon Ke Naam' initiative, 11,000 earthen lamps were lit at the Gorakhnath Temple in Uttar Pradesh to pay tribute to martyrs. Chief Minister Yogi Adityanath also lit a lamp and honored the martyrs in the Bheem Sarovar area of the temple. The program was organized by the Bhojpuri Association of India and included a cultural program. This report is auto-generated by the PTI news service.
+
+Mon, 13 Nov 2023 17:30:03 +0000
+### [Delhi pollution: NDMC doubles parking fees to discourage use of private vehicles](https://theprint.in/india/delhi-pollution-ndmc-doubles-parking-fees-to-discourage-use-of-private-vehicles/1843646/)
+
+The New Delhi Municipal Council (NDMC) has increased parking charges in an effort to discourage people from using private vehicles due to high pollution levels in the capital. There are 91 parking sites in the NDMC area, with 41 managed by the council and the rest outsourced. The increased charges will apply until January 31, 2024, in order to promote alternate modes of transportation. Presently, the NDMC charges Rs 20 per hour and a maximum of Rs 100 per day for four-wheelers, and Rs 10 per hour and a maximum of Rs 50 per day for two-wheelers. Monthly charges are fixed at Rs 2,000 for four-wheelers and Rs 1,000 for two-wheelers.
+
+Mon, 13 Nov 2023 17:17:56 +0000
+### [Rolling Stones frontman Mick Jagger goes pandal-hopping in Kolkata on Kali Pujo](https://theprint.in/feature/rolling-stones-frontman-mick-jagger-goes-pandal-hopping-in-kolkata-on-kali-pujo/1843642/)
+
+Rock legend and Rolling Stones frontman Mick Jagger is currently in India, celebrating the festival of Diwali in Kolkata. He shared pictures on his official Instagram account, showcasing the sights and sounds of the festival. Jagger was seen dressed in a distinctive outfit while standing on the streets of Kolkata and posing with replicas of mythical bhoots artwork. He also posed with a statue of goddess Kali and shared a video of an artisan completing an idol of goddess Jagaddhatri. Fans and industry friends flooded the comment section of his photos. Jagger was recently spotted at the Eden Gardens watching an ICC World Cup match between England and Pakistan. Known for his iconic songs, Jagger was honored with a knighthood in 2002 for his contributions to popular music.
+
 Mon, 13 Nov 2023 12:48:01 +0000
 ### [Kenya’s president urges progress on global plastics treaty](https://theprint.in/environment/kenyas-president-urges-progress-on-global-plastics-treaty/1843302/)
 

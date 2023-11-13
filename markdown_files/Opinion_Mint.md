@@ -1,3 +1,8 @@
+Mon, 13 Nov 2023 19:54:43 +0530
+### [The narratives we choose today may determine decisions of war and peace tomorrow](https://www.livemint.com/opinion/online-views/the-narratives-we-choose-today-may-determine-decisions-of-war-and-peace-tomorrow-11699877260660.html)
+
+The article discusses the role of narratives in human conflict and the need for leaders to prioritize peace. It mentions Bob Dylan, who has received numerous prestigious awards, and highlights his song "With God on Our Side" as a masterpiece that criticizes how political leaders use narratives to justify violence. The article points out that the belief that one's side is right and the other is wrong is fundamental to conflicts at various levels. It further examines the contradictions we experience in our daily lives, such as watching cricket matches between countries with hostile relations or using products made by countries with which we have trade deficits. The author also emphasizes the impact of narratives on our perceptions of suffering and how we choose to empathize with others. The article concludes by emphasizing the importance of rejecting violence and promoting sustainable core values, as well as the need for leaders who prioritize peace over war.
+
 Mon, 13 Nov 2023 16:54:44 +0530
 ### [The 'paisa vasool' model of Indian IT firms must adapt to change](https://www.livemint.com/opinion/online-views/the-paisa-vasool-model-of-indian-it-firms-must-adapt-to-change-11699872568761.html)
 

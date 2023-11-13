@@ -1,3 +1,15 @@
+Mon, 13 Nov 2023 14:10:32 +0000
+### [On bail, tracked by satellite: How GPS anklets work](https://indianexpress.com/article/explained/how-gps-anklets-work-9025226/)
+
+A prisoner in Jammu and Kashmir has been released on bail while being monitored with a GPS tracking device, marking the first time this technology has been used in India for this purpose. The individual, Ghulam Mohammad Bhat, is accused of offenses under the Unlawful Activities (Prevention) Act and was ordered by a special court to wear a GPS tracker anklet on his foot. The device allows law enforcement and security agencies to monitor the wearer's movements in real-time and is tamper-proof, setting off an alarm if tampering is attempted. GPS trackers are commonly used for monitoring animals and are available for purchase online for around Rs 1,000.
+
+The decision to use a GPS tracker on Bhat was made to closely monitor his movements during the period of his bail, with the aim of curbing narco-smuggling and terror activities. While GPS trackers are a precondition for bail in several countries, including the United States, the United Kingdom, and Malaysia, there are currently no specific legal provisions allowing their use in this way in India. Human rights activists argue that tracking individuals with GPS devices violates their fundamental right to privacy and emphasize the need for standards and ethics in electronic monitoring. They suggest implementing a system of informed consent and procedures to address unethical and illegal practices concerning surveillance.
+
+Mon, 13 Nov 2023 12:53:09 +0000
+### [Suella Braverman fired: 5 most controversial comments from former UK Home Secretary](https://indianexpress.com/article/explained/explained-global/suella-braverman-fired-controversial-comments-9025107/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.British Prime Minister Rishi Sunak has sacked Home Secretary Suella Braverman after she criticized the London police for their treatment of pro-Palestinian protests. This is not the first time Braverman, an Indian-origin minister, has made controversial statements. She has previously made comments about Indian migrants overstaying visas, alleged that British-Pakistani men were involved in grooming gangs, advocated for sending asylum seekers to Rwanda, referred to environmental activists as the "coalition of chaos," and claimed that homelessness is a lifestyle choice. These comments have drawn criticism from political opponents, international courts, and human rights organizations.
+
 Mon, 13 Nov 2023 11:27:30 +0000
 ### [David Cameron to be new UK Foreign Secretary: Who is the former Prime Minister?](https://indianexpress.com/article/explained/explained-global/david-cameron-new-uk-foreign-secretary-profile-9024931/)
 
@@ -1411,7 +1423,40 @@ Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. 
 Sun, 15 Oct 2023 23:02:36 +0000
 ### [Why farm votes will count in the upcoming state Assembly polls](https://indianexpress.com/article/explained/explained-economics/why-farm-votes-will-count-in-the-coming-state-polls-8984776/)
 
-Couldn't summarize
+Sure, I'm here to help. What do you need assistance with?In this task, you will implement a simple calculator program in Python. The program should be able to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+
+Here's an example of how the program should work:
+
+```
+Calculator Program
+------------------
+
+Enter the first number: 10
+Enter the second number: 5
+
+Select operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+
+Enter operation number: 3
+
+Result: 50
+
+```
+
+To complete this task, you can follow these steps:
+
+1. Print a welcome message and instructions for the user.
+2. Prompt the user to enter the first number and store it in a variable.
+3. Prompt the user to enter the second number and store it in another variable.
+4. Print a menu of operations for the user to select from.
+5. Prompt the user to enter the operation number.
+6. Use conditional statements (`if`, `elif`, `else`) to perform the selected operation and store the result in a variable.
+7. Print the result.
+
+Please give me your initial input, and then we can proceed to write the code together.
 
 Sun, 15 Oct 2023 15:49:51 +0000
 ### [Ramaphosa slams ‘Israeli occupation’: Why South Africa is sympathetic to Palestine](https://indianexpress.com/article/explained/everyday-explainers/ramaphosa-israeli-south-africa-palestine-8984553/)
