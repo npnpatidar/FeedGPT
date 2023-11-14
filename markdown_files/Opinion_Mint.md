@@ -1,3 +1,35 @@
+Tue, 14 Nov 2023 17:34:25 +0530
+### [India's Super Sukhoi upgrade is an emblem of our geopolitical neutrality](https://www.livemint.com/opinion/online-views/indias-super-sukhoi-upgrade-is-an-emblem-of-our-geopolitical-neutrality-11699962740225.html)
+
+Article found but Couldn't summarize 
+The fighter aircraft project involves an eclectic blend of technologies fused into a Russian platform. It speaks of India’s defence sovereignty.
+
+Tue, 14 Nov 2023 15:49:51 +0530
+### [America's strong economy has an undercurrent of anger](https://www.livemint.com/opinion/online-views/americas-strong-economy-has-an-undercurrent-of-anger-11699956865006.html)
+
+The article discusses the disconnect between consumer sentiment and behavior in the current economy. Despite higher inflation levels, consumer spending remains high and above pre-pandemic trends, contributing to stronger-than-expected economic growth. Economists argue that people's behavior contradicts their negative sentiment about the economy, suggesting that political preferences may influence their views. While inflation is a major concern, it has decreased from last year. The article also explores cognitive biases and their impact on individuals' perception of inflation and pricing. The gap between attitudes and actions may stem from anger about long-standing economic issues, such as inequality and economic fragility. Overall, despite positive economic performance, people have negative sentiment due to various factors.
+
+Tue, 14 Nov 2023 15:43:42 +0530
+### [The US-China decoupling is slow going but still offers India opportunities](https://www.livemint.com/opinion/online-views/the-us-china-decoupling-is-slow-going-but-still-offers-india-opportunities-11699956240679.html)
+
+The United States is reducing its dependence on Chinese imports to the lowest level in 17 years, with Mexico and Canada surpassing China as the top exporters to the US. However, the situation is more complex than it appears. China may adjust its strategy to bypass US actions by finding new channels to export goods. A study by World Bank economists reveals that higher US tariffs on Chinese imports have affected China's market share in targeted goods, but overall US imports have not decreased. This suggests that the US is sourcing these products from other countries instead of manufacturing them domestically. The trade war with China has led to increased imports from other developing countries like Vietnam or Mexico, resulting in higher prices for US consumers. The study also highlights that one dominant beneficiary captures the benefits of each trade line, signaling a "China plus one" strategy. Additionally, many countries reporting increased exports to the US are also reporting a corresponding increase in imports from China, indicating that the US is still connected to Chinese supply chains through its new dominant trade partners. The ultimate outcome of this trade tussle is uncertain, but it is clear that the decoupling of the two largest economies will not be painless. Financial flows and trade imbalances also complicate the situation. Rewiring global supply chains due to the US-China conflict is leading to a new form of globalization rather than full-scale deglobalization. India stands to benefit from this reshuffling of trade partners, given its growing internal market and position as a counterweight to China. However, India needs a more open trade policy and the ability to participate in major trading blocs for further gains.
+
+Tue, 14 Nov 2023 14:14:02 +0530
+### [An appeal by PM Modi on Diwali firecrackers could help alleviate air pollution](https://www.livemint.com/opinion/online-views/an-appeal-by-pm-modi-on-diwali-firecrackers-could-help-alleviate-air-pollution-11699950611855.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Delhi experienced a brief improvement in air quality following light rainfall on November 10 and the air quality on Diwali morning was the best in eight years. However, by evening, the city was once again covered in smog due to widespread bursting of firecrackers in violation of a court ban. The Delhi government's campaign to curb pollution proved ineffective. The article suggests that addressing the habit of bursting firecrackers on Diwali, similar to the successful initiative to give up cooking gas subsidies in 2015, could help improve air quality. The ban on manufacturing, storing, and selling firecrackers should also be strictly enforced, along with finding lasting solutions for stubble burning and other causes of winter pollution in North India.
+
+Tue, 14 Nov 2023 13:03:52 +0530
+### [Mutual Funds and IPOs: Time for a re-think?](https://www.livemint.com/opinion/columns/mutual-funds-and-ipos-time-for-a-rethink-11699945078293.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses the issue of mutual funds investing in risky initial public offerings (IPOs). The author argues that investing in IPOs for companies that have yet to demonstrate solid earnings and profitability can be problematic. They question whether the mandates of mutual funds allow them to invest in such stocks and express concern that different types of funds, including large cap, small cap, and mid-cap funds, are all buying into these risky IPOs.
+
+The article also challenges the argument that the allocation to these IPOs is small, highlighting the potential risks involved and the need for transparency. The author quotes Warren Buffett, who advises against investing in IPOs, suggesting that fund managers should clarify their principles and loyalties when it comes to managing investors' money.
+
+The author concludes by suggesting that mutual funds should be banned from participating as anchor investors or in pre-placement offers in IPOs, and encourages investors to be cautious about their SIP investments and consider their asset allocation to avoid potential losses.
+
+Please note that this summary provides a condensed version of the article's main points and does not include all details or nuances.
+
 Tue, 14 Nov 2023 08:00:16 +0530
 ### [Let’s take on Delhi's toxic air as a top-priority climate threat](https://www.livemint.com/opinion/online-views/lets-take-on-delhis-toxic-air-as-a-top-priority-climate-threat-11699884715978.html)
 

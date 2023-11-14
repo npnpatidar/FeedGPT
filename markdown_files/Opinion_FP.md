@@ -1,3 +1,21 @@
+Tue, 14 Nov 2023 17:58:07 +0530
+### [How PM Modi’s invocation of Birsa Munda’s revolution has laid the foundation for Jharkhand’s political ‘Asmita’](https://www.firstpost.com/opinion/how-pm-modis-invocation-of-birsa-mundas-revolution-has-laid-the-foundation-for-jharkhands-political-asmita-13387662.html)
+
+Article found but Couldn't summarize 
+How PM Modi’s invocation of Birsa Munda’s revolution has laid the foundation for Jharkhand’s political ‘Asmita’
+
+Tue, 14 Nov 2023 16:42:42 +0530
+### [Progressive legislations and judicial pronouncements in the last 10 years: An analysis](https://www.firstpost.com/opinion/progressive-legislations-and-judicial-pronouncements-in-the-last-10-years-an-analysis-13386762.html)
+
+Article found but Couldn't summarize 
+Progressive legislations and judicial pronouncements in the last 10 years: An analysis
+
+Tue, 14 Nov 2023 14:03:06 +0530
+### [India-US 2+2 Ministerial Dialogue, China and the West Asian crisis](https://www.firstpost.com/opinion/india-us-22-ministerial-dialogue-china-and-the-west-asian-crisis-13386202.html)
+
+Article found but Couldn't summarize 
+India-US 2+2 Ministerial Dialogue, China and the West Asian crisis
+
 Tue, 14 Nov 2023 10:56:14 +0530
 ### [Israel-Hamas war: Gaza in crisis over prolonged conflict, ceasefire dilemma and shifting objectives](https://www.firstpost.com/opinion/israel-hamas-war-gaza-in-crisis-over-prolonged-conflict-ceasefire-dilemma-and-shifting-objectives-13385412.html)
 

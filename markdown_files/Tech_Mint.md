@@ -1,3 +1,14 @@
+Tue, 14 Nov 2023 17:02:20 +0530
+### [Google fined $164,000 for failing to store users’ data on servers in Russia](https://www.livemint.com/technology/tech-news/russian-court-imposes-164-000-fine-on-google-for-failing-to-store-users-data-on-servers-in-russia-11699959502951.html)
+
+A Russian court has fined Google 15 million roubles ($164,000) for refusing to store Russian users' data on servers within the country. This follows previous fines imposed on the company for the same charges in August 2021 and June 2022. These fines were given under a Russian law that requires foreign companies to localize the personal data of their Russian users. In addition to these legal issues, Google's Russian subsidiary filed for bankruptcy after its bank account was seized by Russian authorities, leading to difficulties in paying staff and vendors. While Twitter and Facebook are banned in Russia, access to Google's services, search engine, and YouTube remains free. Apple and the Wikimedia Foundation have also faced fines from Russian courts in the past. In other news, YouTube will soon implement a policy update requiring video creators to disclose when they upload manipulated or synthetic content that appears realistic. This includes videos created using artificial intelligence tools. Starting from December 1, Google plans to delete certain personal data, including Gmail messages, Google Photos libraries, Google Calendar appointments, and Google Docs archives. The company had previously sent out emails warning users about the upcoming deletions.
+
+Tue, 14 Nov 2023 16:55:06 +0530
+### [Best 25 litre geyser for your home? Here are top 8 options to check out](https://www.livemint.com/technology/gadgets/best-25-litre-geyser-for-your-home-here-are-top-8-options-to-check-out-11699940959817.html)
+
+Article found but Couldn't summarize 
+Are you on the lookout for the best 25 litre geyser to fulfil all your hot water requirements during the winter season? Here is a comprehensive list of the best options to consider before buying a new 25 litre geyser for your home. Check out the renowned brands and models to make a smart choice.
+
 Tue, 14 Nov 2023 11:16:00 +0530
 ### [Elon Musk apologizes after Piyush Goyal's visit to Tesla Fremont factory: ‘My apologies, honor to have…’](https://www.livemint.com/technology/tech-news/elon-musk-apologizes-after-piyush-goyals-visit-to-tesla-fremont-factory-my-apologies-honor-to-have-11699938795499.html)
 

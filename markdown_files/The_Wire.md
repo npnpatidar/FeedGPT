@@ -1,3 +1,111 @@
+2023-11-14T17:59:21+05:30
+### [The Truth That Modi Chose to Overlook About Nitish's Outbursts Against Jitan Ram Manjhi](https://thewire.in/politics/why-modis-counter-to-nitishs-outburst-at-jitan-ram-manjhi-doesnt-reveal-the-full-story)
+
+No Article text 
+Modi has recently called the Bihar chief minister 'shameless' after the latter said that it was his 'foolishness' that led him to 'install' Jitin Ram Manjhi as the chief minister in 2014 in his place.
+
+2023-11-14T17:46:14+05:30
+### [Bihar Caste Survey: The Who’s Who in the Data | Chamar](https://thewire.in/caste/bihar-caste-survey-the-whos-who-in-the-data-chamar)
+
+No Article text 
+The group can be said to be the most persecuted among Dalits.
+
+2023-11-14T17:35:25+05:30
+### [How the Climate Crisis Is Affecting Elite Sport](https://thewire.in/sport/how-the-climate-crisis-is-affecting-elite-sport)
+
+No Article text 
+The air is thick at the Cricket World Cup in India. Extreme smog is causing problems for athletes and fans. Environmental issues are affecting elite sport more and more.
+
+2023-11-14T17:30:16+05:30
+### [J&K: Tribunal Sets Free Army Captain Held for 2020 Shopian Killings: Here's What the Bench Said](https://thewire.in/law/armed-forces-tribunal-shopian-killings-bhoopendra-singh)
+
+No Article text 
+'It is another July 18 for us. I feel that they have killed our children a second time,' the father of one of the three slain youn said.
+
+2023-11-14T17:00:19+05:30
+### [The Israeli Military Must Be More Forthcoming on How it Applies the Proportionality Rule](https://thewire.in/world/rule-of-proportionality-gaza-november-2023)
+
+No Article text 
+In concrete terms, the rule of proportionality – and its associated precautionary measures – require that the Israeli military undertake, in good faith, a pre-attack analysis of likely civilian casualties ensuing from each and every aerial attack in Gaza.
+
+2023-11-14T16:57:44+05:30
+### [Jay Shah ‘Ruining’ and ‘Running’ Sri Lanka Cricket: Arjuna Ranatunga](https://thewire.in/sport/arjuna-ranatunga-sri-lanka-cricket-jay-shah)
+
+No Article text 
+Sri Lankan government and its cricket board are at loggerheads in the aftermath of the country's dismal performance.
+
+2023-11-14T16:30:24+05:30
+### [How the War in Gaza Is Reshaping Geopolitics](https://thewire.in/world/how-the-war-in-gaza-is-reshaping-geopolitics)
+
+No Article text 
+The tremors of the Israel-Hamas war are being felt not just in the Middle East, but around the world.
+
+2023-11-14T16:01:11+05:30
+### [The Children of the Olive Branches](https://thewire.in/world/the-children-of-the-olive-branches)
+
+No Article text 
+Olive trees have become symbol of resilience, attachment and belonging for Palestinians – one without which the idea of home and homeland cannot be complete.
+
+2023-11-14T15:38:20+05:30
+### [Essay on Refugees, Published in ‘The Wire’, Receives US Foreign Press Correspondents' Award](https://thewire.in/media/essay-on-refugees-published-in-the-wire-receives-us-foreign-press-correspondents-award)
+
+No Article text 
+Ankita Mukhopadhyay, 2022 Post-Grad Reporting Fellow, was awarded the Professional Excellence Award by the Association of Foreign Press Correspondents in the US for her Pulitzer Center-supported story, 'Seeking Refuge: The Story of Two Women I Know'.
+
+2023-11-14T15:25:21+05:30
+### [‘Extra Salty’: The Wire Has a New Podcast](https://thewire.in/culture/the-wire-has-a-new-podcast-extra-salty)
+
+No Article text 
+Amrita Ghosh and Bhakti Shringarpure speak to guests and dive deep into burning questions of our time – nothing is off limits.
+
+2023-11-14T15:24:09+05:30
+### [Bina Agarwal and David Barkin Conferred the 2023 Kenneth Boulding Award in Ecological Economics](https://thewire.in/the-arts/bina-agarwal-and-david-barkin-conferred-the-2023-kenneth-boulding-award-in-ecological-economics)
+
+No Article text 
+The International Society for Ecological Economics presented the award for their significant contributions to ecological economics, focusing on environmental governance, agrarian change, and social equity in developing countries.
+
+2023-11-14T15:15:41+05:30
+### [Manipur: A Blueprint with Immediate and Long-Term Measures to Contain Violence](https://thewire.in/security/manipur-a-blueprint-with-immediate-and-long-term-measures-to-help-contain-violence)
+
+No Article text 
+The situation in Manipur is far from being normal notwithstanding the proclamations of 'normalcy' by authorities. Failure on the part of the Union government to address the longstanding issues in the Northeast could affect India's territorial integrity.
+
+2023-11-14T14:45:24+05:30
+### [Jennifer Croft, Daisy Rockwell Among Over 100 Literary Translators Calling for Ceasefire in Gaza](https://thewire.in/world/jennifer-croft-daisy-rockwell-among-100-literary-translators-calling-for-ceasefire-in-gaza)
+
+No Article text 
+'Faced with this carnage, the undersigned literary translators feel morally compelled to oppose the devaluation of Palestinian civilian lives and to call for a ceasefire.'
+
+2023-11-14T14:15:05+05:30
+### [Thousands Escape Into Mizoram as 'Junta Vs Resistance' Fight Intensifies in Myanmar](https://thewire.in/south-asia/myanmar-mizoram-refugees-junta)
+
+No Article text 
+After days of combat between the Tatmadaw and the Chin National Army, the former's base, Reh Khaw Da in Falam township, has fallen into the hands of the pro-democracy forces, reports say.
+
+2023-11-14T13:45:44+05:30
+### [Gaza's Main Hospital ‘Nearly a Cemetery’, WHO Says; Aid Work in the Strip Severely Limited](https://thewire.in/world/gaza-al-shifa-hospital-nearly-a-cemetery-unrwa-out-of-fuel)
+
+No Article text 
+News reports say that fuel shortages at the hospital and the Israel-Hamas war unfolding near it are causing the deaths of patients – including newborns – and dead bodies to accumulate outside it.
+
+2023-11-14T13:45:38+05:30
+### [Adani Advisor’s Appointment on Hydel Appraisal Committee Raises Conflict of Interest Concerns](https://thewire.in/government/adani-advisors-appointment-on-hydel-appraisal-committee-raises-conflict-of-interest-concerns)
+
+No Article text 
+On September 27, Janardan Choudhary was named as one of the seven non-institutional members of the reconstituted EAC (hydel) by the Union environment ministry. AGEL's hydro project proposals also came up for clearance at the EAC.
+
+2023-11-14T12:41:23+05:30
+### [Jawaharlal Nehru and the Dissenting Congressman](https://thewire.in/history/jawaharlal-nehru-and-the-dissenting-congressman)
+
+No Article text 
+On his birth anniversary, a great-nephew of Acharya J.B. Kriplani reflects on what his and Nehru’s relations say about the late Congress leader's ability to deal with dissent and criticism
+
+2023-11-14T12:24:34+05:30
+### [Ratna Pathak Shah: On Life, Work, Film, and Theatre](https://thewire.in/the-arts/ratna-pathak-shah-on-life-work-film-and-theatre)
+
+No Article text 
+In an interview, Pathak Shah speaks about her last film 'Dhak Dhak', the evolving OTT space, and her return to the stage with a play that speaks of love, loss, and ageing.
+
 2023-11-14T11:53:42+05:30
 ### [Uttarakhand: 40 Trapped for Over 48 Hours Under Collapsed Tunnel](https://thewire.in/rights/uttarakhand-40-trapped-for-over-48-hours-under-collapsed-tunnel)
 

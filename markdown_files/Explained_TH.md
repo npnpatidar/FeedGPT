@@ -1,3 +1,9 @@
+Tue, 14 Nov 2023 14:51:06 +0530
+### [Why are India’s Information Commission posts vacant? | Explained](https://www.thehindu.com/news/national/why-are-indias-information-commission-posts-vacant-explained/article67481753.ece)
+
+Article found but Couldn't summarize 
+What does the RTI Act say about staffing Information Commissions? How many cases are pending before States and how are vacancies spread out? How can the pendencies be explained?
+
 Mon, 13 Nov 2023 22:49:47 +0530
 ### [Community rights and forest conservation | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/community-rights-and-forest-conservation-explained/article67529937.ece)
 
