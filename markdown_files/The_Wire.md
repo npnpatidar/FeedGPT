@@ -1,3 +1,51 @@
+2023-11-14T11:53:42+05:30
+### [Uttarakhand: 40 Trapped for Over 48 Hours Under Collapsed Tunnel](https://thewire.in/rights/uttarakhand-40-trapped-for-over-48-hours-under-collapsed-tunnel)
+
+No Article text 
+Rescuers are trying to clear a 40-metre escape channel.
+
+2023-11-14T11:36:08+05:30
+### [Union Govt Notifies Norms Giving Itself Absolute Control on IIM Boards, Appointment of Directors](https://thewire.in/education/union-govt-notifies-norms-giving-itself-absolute-control-on-iim-boards-appointment-of-directors)
+
+No Article text 
+The President of India will now be the Visitor of each IIM, through whom the government will have the final say in appointment of the boards' chairperson and director.
+
+2023-11-14T11:35:41+05:30
+### [Ahead of Telangana Elections, Gig Workers' Union Demands a Rajasthan-Like Welfare Law](https://thewire.in/rights/ahead-of-telangana-elections-gig-workers-union-demands-a-rajasthan-like-welfare-law)
+
+No Article text 
+As unions gain prominence and political parties show willingness to address platform workers' concerns, the era of unregulated platforms appears to be ending. The upcoming Telangana elections could also decide the course of a welfare law for workers.
+
+2023-11-14T11:16:46+05:30
+### ['Tiger 3': The Swagger is There, But a Jaded Salman Khan Has Little Else to Show](https://thewire.in/film/tiger-3-salman-khan-shahrukh-katrina-kaif)
+
+No Article text 
+Except for a fine effort by Emraan Hashmi as the villain, this latest edition of the franchise is a humdrum affair.
+
+2023-11-14T10:48:49+05:30
+### [Inside the 'Boring' World Cup](https://thewire.in/sport/extra-cover-cricket-world-cup-2023-boring)
+
+No Article text 
+People play and watch cricket for the unique set of skills it requires and is on display. Profit and revenues cannot be the only guiding principle of its administrators.
+
+2023-11-14T10:25:38+05:30
+### [Rishi Sunak Faces Conservative Party Unrest After Sacking Suella Braverman](https://thewire.in/world/rishi-sunak-suella-braverman-david-cameron)
+
+No Article text 
+After weeks of declining popularity, Rishi Sunak has made risky changes to his cabinet. They promise to create major political problems but could strengthen the stability and authority of his government.
+
+2023-11-14T09:31:37+05:30
+### [Madhya Pradesh | Across Castes, Political Beliefs, Two Common Concerns: Inflation and Unemployment](https://thewire.in/rights/madhya-pradesh-election-jobs-unemployment)
+
+No Article text 
+Be it construction workers in Indore, cotton-yarn factory staff in Sehore, the daily-wage labourer in Sagar or government job applicants across regions, the Shivraj Chouhan BJP government's claims to have transformed MP from a 'BIMARU' to 'Bemisaal' are facing challenges.
+
+2023-11-14T08:37:36+05:30
+### [Seizing Devices Needs Due Process. So Does Remote Accessing Via Spyware](https://thewire.in/law/device-seizures-guidelines-rules-procedures)
+
+No Article text 
+What exactly is sought from an electronic device, and the reason for seeking it must be clearly stated in writing. Needless to say, no such system is followed by the Indian police or the agencies.
+
 2023-11-13T19:30:20+05:30
 ### [Citing the Israel-Hamas War, NSO Group Sought Urgent Meeting With Blinken](https://thewire.in/security/citing-the-israel-hamas-war-nso-group-sought-urgent-meeting-with-blinken)
 

@@ -1,3 +1,21 @@
+Tue, 14 Nov 2023 01:49:04 +0000
+### [Easing wheat prices, rising rice prices: What’s behind them?](https://indianexpress.com/article/explained/explained-economics/easing-wheat-rising-rice-9025623/)
+
+The article discusses the diverging trends in global wheat and rice prices. Wheat prices reached a record high in March 2022 but have since more than halved. The decline in wheat prices can be attributed to improved availability, lower international prices, and efficient management of government stocks. Russia's wheat exports have played a significant role in reducing global prices.
+
+On the other hand, rice prices have risen due to export restrictions implemented by India, the world's largest rice exporter. India has banned the export of white non-basmati rice and imposed minimum export prices and duties on basmati and parboiled non-basmati rice shipments. These measures have increased prices and impacted global trade dynamics, benefiting Pakistan as an alternative exporter.
+
+In terms of inflation, cereal inflation in India surpassed general retail inflation and consumer food price inflation in October. The inflation rates of rice and wheat are influenced by domestic production, with wheat imports being economically viable but politically challenging due to electoral considerations.
+
+Contrary to the situation in cereals, edible oil imports in India have increased, leading to a collapse in global prices. The normalisation of supplies from Indonesia and Russia-Ukraine resulted in a decrease in the value of edible oil imports and negative retail edible oil inflation in October.
+
+The future course of cereal inflation will depend on the crop size harvested by Indian farmers. Meanwhile, the import flexibility is limited for rice, given India's position as a major exporter.
+
+Tue, 14 Nov 2023 01:30:18 +0000
+### [What are active and passive equity funds — and how much inflows did they receive in the July-Sept quarter?](https://indianexpress.com/article/explained/explained-economics/active-passive-equity-funds-9025381/)
+
+Active equity funds were popular among mutual fund investors in the July-September quarter, with net inflows of about Rs 74,000 crore. These funds rely on professional fund managers who actively decide on buying, holding, or selling securities, and aim to generate higher returns than the benchmark index. On the other hand, passive equity funds saw inflows of Rs 9,000 crore, and arbitrage funds received Rs 29,000 crore. Passive funds replicate a stated index or benchmark and require minimal stock selection by the fund manager. Passive large cap funds were particularly favored by investors in this quarter. Overall, the mutual fund industry recorded net inflows of approximately Rs 51,000 crore, with active equity funds leading the way.
+
 Mon, 13 Nov 2023 14:10:32 +0000
 ### [On bail, tracked by satellite: How GPS anklets work](https://indianexpress.com/article/explained/how-gps-anklets-work-9025226/)
 

@@ -1,3 +1,18 @@
+Tue, 14 Nov 2023 10:38:12 +0530
+### [Tesla to double imports from India, reveals Piyush Goyal during visit to Elon Musk’s EV Factory](https://www.firstpost.com/tech/tesla-to-double-imports-from-india-reveals-piyush-goyal-during-visit-to-elon-musks-ev-factory-13385492.html)
+
+Tesla plans to double its imports of auto components from India, according to India's Commerce and Industry Minister, Piyush Goyal. Goyal recently visited Tesla's factory in Fremont, California, expressing delight at the presence of Indian professionals in senior positions contributing to Tesla's innovative efforts. The visit comes as India considers customs duty concessions for Tesla and expedites approvals for the company's entry into the Indian market. The government has also rolled out production-linked incentive schemes for the auto industry, advanced chemistry cell battery storage, and the drone industry. Discussions are also ongoing about potential reductions in import duties for electric vehicles to facilitate Tesla's entry into India.
+
+Tue, 14 Nov 2023 10:10:21 +0530
+### [Layoffs continue at Amazon, tech giant terminates over 180 people from gaming division](https://www.firstpost.com/tech/layoffs-continue-at-amazon-tech-giant-terminates-over-180-people-from-gaming-division-13385172.html)
+
+Amazon has laid off around 180 employees from its gaming division and shut down two business units, including the Crown Channel on its Twitch platform. The restructuring is part of Amazon's shift towards focusing on game development and distribution through its Prime subscription service. Despite the layoffs, Amazon remains committed to game development and plans to release new titles. This is the second round of job cuts for Amazon's gaming business this year.Hmm, I am not sure. Email support@chatbase.co for more info.
+
+Tue, 14 Nov 2023 10:09:09 +0530
+### [Google pays Apple 36% of earnings from ads on Safari because of search deal, reveals expert](https://www.firstpost.com/tech/google-pays-apple-36-per-cent-of-earnings-from-ads-on-safari-because-of-search-deal-reveals-expert-13385362.html)
+
+During the antitrust trial against Google, it was revealed that the company pays Apple 36% of the revenue generated from search advertising through the Safari browser. The partnership between Google and Apple dates back to 2002, establishing Google as the default search engine in Apple's Safari browser. The Justice Department is targeting this agreement as evidence of Google unlawfully preserving its dominance in the search engine and search advertising markets. Both Google and Apple have objected to publicly revealing the specifics of their agreement. The trial is ongoing, and neither company has provided immediate comments on the revelations.
+
 Mon, 13 Nov 2023 16:51:10 +0530
 ### [Nepal bans TikTok, implements new regulations for social media platforms](https://www.firstpost.com/tech/nepal-bans-tiktok-implements-new-regulations-for-social-media-platforms-13383772.html)
 

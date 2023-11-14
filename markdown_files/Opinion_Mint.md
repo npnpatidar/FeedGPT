@@ -1,3 +1,18 @@
+Tue, 14 Nov 2023 08:00:16 +0530
+### [Let’s take on Delhi's toxic air as a top-priority climate threat](https://www.livemint.com/opinion/online-views/lets-take-on-delhis-toxic-air-as-a-top-priority-climate-threat-11699884715978.html)
+
+The article discusses the flip-flopping on Delhi's odd-even vehicle scheme to combat air pollution. The idea was based on previous studies linking vehicular exhaust to air pollution in Delhi. However, the Supreme Court dismissed the scheme as "optics," and light showers temporarily improved air quality before Diwali celebrations caused a spike in pollution again. The article also highlights the role of meteorological patterns in worsening the air pollution crisis, particularly the north-westerly winds bringing smoke-laden airflows from Haryana and Punjab. The burning of rice stubble after harvest and climate change are identified as potential causes of the pollution. Though solutions like shifting farms away from rice cultivation are suggested, the political challenges surrounding such changes are acknowledged. The article concludes by emphasizing the need to address Delhi's air pollution and make it a priority on the climate agenda.
+
+Tue, 14 Nov 2023 08:00:16 +0530
+### [The SC’s ruling on personal debt guarantees will help unlock dead capital](https://www.livemint.com/opinion/online-views/the-sc-s-ruling-on-personal-debt-guarantees-will-help-unlock-dead-capital-11699884806982.html)
+
+The adoption of the Insolvency and Bankruptcy Code (IBC) in 2016 was a significant economic reform that aimed to resolve bankruptcies and transfer assets to new owners in a systematic and time-bound manner. The IBC introduced a time limit for debt restructuring or resolution, and if a satisfactory resolution couldn't be reached within that timeframe, the asset would automatically go into liquidation. The law has undergone amendments to address loopholes and prevent owners of failed enterprises from re-acquiring distressed assets during the liquidation process. However, there have been challenges, such as cases exceeding the time limit and a relatively low realization ratio for creditors. The IBC's impact on credit discipline and the recent Supreme Court decision upholding its provisions related to personal guarantors are positive developments. Overall, the IBC is continuously being strengthened to unlock unproductive or dead capital.
+
+Tue, 14 Nov 2023 08:00:16 +0530
+### [The SC’s IBC ruling pleases lenders, displeases promoters](https://www.livemint.com/opinion/quick-edit/the-sc-s-ibc-ruling-pleases-lenders-displeases-promoters-11699885807580.html)
+
+The Supreme Court's decision to uphold legal provisions related to personal guarantors under the Insolvency and Bankruptcy Code (IBC) could lead to an increase in action against them. Previously, many applications against personal guarantors were rejected, but after the court's order, more cases are likely to be admitted. Lenders will benefit from this decision as it gives them a way to recover unpaid debts. However, promoters who provide personal guarantees may be unhappy as their liability may no longer be limited. Offering a guarantee is a voluntary act and may result in personal holdings being seized. If there is a surge in corporate credit re-ratings, it may indicate a problem with the system.
+
 Mon, 13 Nov 2023 19:54:43 +0530
 ### [The narratives we choose today may determine decisions of war and peace tomorrow](https://www.livemint.com/opinion/online-views/the-narratives-we-choose-today-may-determine-decisions-of-war-and-peace-tomorrow-11699877260660.html)
 

@@ -1,3 +1,9 @@
+Tue, 14 Nov 2023 11:16:00 +0530
+### [Elon Musk apologizes after Piyush Goyal's visit to Tesla Fremont factory: ‘My apologies, honor to have…’](https://www.livemint.com/technology/tech-news/elon-musk-apologizes-after-piyush-goyals-visit-to-tesla-fremont-factory-my-apologies-honor-to-have-11699938795499.html)
+
+Article found but Couldn't summarize 
+World's richest man and Tesla CEO thanks Goyal for touring the Tesla Fremont factory, expresses regret for not being able to travel.
+
 Mon, 13 Nov 2023 17:57:41 +0530
 ### [Flipkart Diwali Dhamaka Sale: Get iPhone 12 under  ₹30,000; here's how the deal works](https://www.livemint.com/technology/gadgets/flipkart-diwali-dhamaka-sale-get-iphone-12-under-rs-30-000-heres-how-the-deal-works-11699877422194.html)
 
