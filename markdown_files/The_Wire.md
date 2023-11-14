@@ -1,3 +1,39 @@
+2023-11-14T21:00:39+05:30
+### [What Lies Ahead for the Hollywood As Actors Call Off Their Historic Strike?](https://thewire.in/film/what-lies-ahead-for-the-hollywood-as-actors-call-off-their-historic-strike)
+
+No Article text 
+The US actors' union agrees to a new deal with studios and streaming services tentatively ending a four-month long strike. The deal shows a power shift in Hollywood.
+
+2023-11-14T20:15:12+05:30
+### [As Levels of Fine Particulate Matter Peak Post-Diwali, Air Quality Drops in Several Cities](https://thewire.in/environment/as-levels-of-fine-particulate-matter-peak-post-diwali-air-quality-drops-in-several-cities)
+
+No Article text 
+Patna showed the highest average PM 2.5 level on the day of Diwali 2023 (November 12), at 206.1 ug/m3. This is around 13.7 times more than the WHO’s daily safe limit of 15 ug/m3.
+
+2023-11-14T19:45:48+05:30
+### [Centre Extends Ban Against Eight 'Meitei Extremist Organisations' for 10 Years](https://thewire.in/government/centre-extends-ban-against-eight-meitei-extremist-organisations-for-10-years)
+
+No Article text 
+Calling them 'unlawful association' under the UAPA law, the MHA notification said the outfits have been inciting people of Manipur for secession.
+
+2023-11-14T19:15:23+05:30
+### [Two Weeks After Myanmar Rebels' Offensive, Junta Struggles to Mount Counterattack](https://thewire.in/world/myanmar-military-unable-to-counter-resistance-offensive)
+
+No Article text 
+The rebels' Operation 1027 has again highlighted the Myanmar military’s serious shortage of personnel. But it is unlikely that the fighting in the country's northern Shan state will come to an end in the near future.
+
+2023-11-14T19:00:14+05:30
+### [What Is COP and Why Should I Care?](https://thewire.in/environment/what-is-cop-and-why-should-i-care)
+
+No Article text 
+Progress on climate issues may be slow but COP remains the best mechanism for pressuring governments to make the changes needed to avert catastrophe.
+
+2023-11-14T18:45:04+05:30
+### [Curator Ranjit Hoskote Resigns from German Arts Panel Due to Row Over 2019 Statement Critical of Israel](https://thewire.in/the-arts/curator-ranjit-hoskote-resigns-from-documentas-finding-committee-over-anti-semitism-allegations)
+
+No Article text 
+Hoskote’s resignation is the latest in a string of escalating scandals that have followed an anti-BDS resolution passed by the German parliament in 2019, with artists and curators increasingly finding themselves targeted by weaponised accusations of anti-Semitism.
+
 2023-11-14T17:59:21+05:30
 ### [The Truth That Modi Chose to Overlook About Nitish's Outbursts Against Jitan Ram Manjhi](https://thewire.in/politics/why-modis-counter-to-nitishs-outburst-at-jitan-ram-manjhi-doesnt-reveal-the-full-story)
 

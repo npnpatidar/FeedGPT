@@ -1,3 +1,9 @@
+Tue, 14 Nov 2023 18:13:09 +0530
+### [The job market slowdown is getting hard to ignore](https://www.livemint.com/opinion/online-views/the-job-market-slowdown-is-getting-hard-to-ignore-11699965165083.html)
+
+Article found but Couldn't summarize 
+The payrolls data still looks fine, but under the hood are signs of deterioration for the growing number of people who are unemployed or keen to switch jobs.
+
 Tue, 14 Nov 2023 17:34:25 +0530
 ### [India's Super Sukhoi upgrade is an emblem of our geopolitical neutrality](https://www.livemint.com/opinion/online-views/indias-super-sukhoi-upgrade-is-an-emblem-of-our-geopolitical-neutrality-11699962740225.html)
 

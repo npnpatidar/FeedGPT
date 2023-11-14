@@ -1,3 +1,9 @@
+Tue, 14 Nov 2023 20:51:36 +0530
+### [U.S. President Biden’s executive order on AI | Explained](https://www.thehindu.com/sci-tech/artificial-intelligence-executive-order-joe-biden-explainer-reaction-highlights/article67518709.ece)
+
+Article found but Couldn't summarize 
+How does President Biden plan to regulate the use and development of AI? What are the key highlights of the executive order signed by the U.S. President and is it enough?
+
 Tue, 14 Nov 2023 14:51:06 +0530
 ### [Why are India’s Information Commission posts vacant? | Explained](https://www.thehindu.com/news/national/why-are-indias-information-commission-posts-vacant-explained/article67481753.ece)
 

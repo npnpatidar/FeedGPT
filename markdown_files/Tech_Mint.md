@@ -1,3 +1,19 @@
+Tue, 14 Nov 2023 22:40:35 +0530
+### [‘Brazil’s tech can help India reach 20% ethanol blending’](https://www.livemint.com/technology/tech-news/brazils-tech-can-help-india-reach-20-ethanol-blending-11699979180440.html)
+
+Brazil is sharing technology with India to help achieve 20% ethanol blending for petrol by 2025-2026. They will also send indigenous breeds to improve productivity in the livestock and poultry sector. Brazil aims to improve market access for Indian agriculture exports, including urea, to correct the imbalance in the agricultural trade relationship. Brazil is also seeking cooperation from India in sectors such as fertilizers, innovative chemical products, and software. Both countries are working on an agreement to grant more access for specific agricultural products in each other's markets.
+
+Tue, 14 Nov 2023 22:16:28 +0530
+### [Niche to mainstream: Mobile gaming surges in popularity](https://www.livemint.com/technology/tech-news/niche-to-mainstream-mobile-gaming-surges-in-popularity-11699979896920.html)
+
+The mobile gaming industry in India is experiencing wider popularity due to mainstream broadcast deals and increased willingness of users to pay for games. Leading gaming firms are now looking at India as a significant player, not just for download numbers. Krafton recently relaunched Battlegrounds Mobile India (BGMI) after receiving clearance from the ministry of electronics and information technology. Free Fire, another popular game, was also relaunched. The esports ecosystem in India is maturing, with amateur gamers participating in professional tournaments and the industry becoming more democratized. Monetization in the industry is on the rise, with platforms focusing on increasing their original creator base and signing partnerships with brands. Challenges include competition from other sports and the need for further improvement in monetization. However, experts believe that 2024 could be the biggest year for the industry.
+
+Tue, 14 Nov 2023 18:26:46 +0530
+### [Bhai Dooj gifts: Looking for perfect Bluetooth heaphones? Here are top 8 options](https://www.livemint.com/technology/gadgets/bhai-dooj-gifts-looking-for-perfect-bluetooth-heaphones-here-are-top-8-options-11699955073064.html)
+
+Article found but Couldn't summarize 
+Searching for best gifts to give during Bhai Dooj? Check out our list of the top 8 Bluetooth headphones that will keep the audiophile in your siblings happy and engaged.
+
 Tue, 14 Nov 2023 17:02:20 +0530
 ### [Google fined $164,000 for failing to store users’ data on servers in Russia](https://www.livemint.com/technology/tech-news/russian-court-imposes-164-000-fine-on-google-for-failing-to-store-users-data-on-servers-in-russia-11699959502951.html)
 

@@ -1,3 +1,9 @@
+Tue, 14 Nov 2023 18:12:33 +0530
+### [Is Hamas using Gaza hospitals to carry out terror operations?](https://www.firstpost.com/explainers/is-hamas-using-gaza-hospitals-to-carry-out-terror-operations-13387672.html)
+
+Article found but Couldn't summarize 
+Is Hamas using Gaza hospitals to carry out terror operations?
+
 Tue, 14 Nov 2023 17:44:16 +0530
 ### [What does David Cameron’s return mean for British politics?](https://www.firstpost.com/explainers/uk-david-cameron-return-mean-for-british-politics-pm-rishi-sunak-brexit-foreign-policy-13387482.html)
 
