@@ -1,3 +1,34 @@
+Tue, 14 Nov 2023 00:24:02 +0000
+### [As Delhi struggles to breathe, AAP has offered excuses – and little action](https://indianexpress.com/article/opinion/columns/as-delhi-struggles-to-breathe-aap-has-offered-excuses-and-little-action-9025493/)
+
+The article criticizes the Arvind Kejriwal-led Aam Aadmi Party (AAP) government in Delhi for its failure to address air pollution. It highlights that despite promises to deliver clean air, the government lacks a long-term strategy and instead focuses on political statements. The implementation of the "odd-even" scheme, which was meant to reduce pollution, has been inconsistent and ineffective. The article also mentions other initiatives, such as the Clean Air Campaign and the Switch Delhi campaign, that have failed to make a significant difference. The Delhi government has spent a considerable amount of funds on various pollution control measures, but there is no clarity on how these funds have been utilized. The writer emphasizes the need for the government to take responsibility and implement robust actions to combat pollution, rather than deflecting blame. The article concludes by urging for collaborative efforts, stringent policies, and innovative solutions to restore clean air in Delhi and protect the country's investment potential.
+
+Mon, 13 Nov 2023 23:40:00 +0000
+### [Former Election Commissioner Ashok Lavasa on electoral bonds: Democracy, paid for in darkness](https://indianexpress.com/article/opinion/columns/former-election-commissioner-ashok-lavasa-on-electoral-bonds-democracy-paid-for-in-darkness-9025492/)
+
+The article discusses the issue of electoral bonds and the lack of transparency surrounding their funding. While the use of electoral bonds as a political funding instrument is not in question, the non-disclosure of information related to the giver and receiver has raised concerns about transparency and compliance with the Right to Information (RTI) Act.
+
+The author highlights that political parties have resisted being brought under the purview of the RTI Act, which raises questions about their commitment to transparency. Additionally, the article questions why the state colludes with political parties by granting them income tax exemption, further obscuring the process.
+
+The Supreme Court has previously raised questions about the legitimacy and intent of electoral bonds but refrained from delegitimizing them. Instead, the court ordered the sealing of envelopes containing crucial information. The outcome of the current case before the Supreme Court is eagerly awaited, with anticipation regarding whether it will validate requests for anonymity from donors or consider if tax exemption without full disclosure is fair public policy.
+
+The article argues that while electoral bonds provide an authorized alternative to cash, the logic behind secrecy is perplexing. It questions why the state rewards secret transactions with tax relief for both the donor and beneficiary. The author suggests that tax laws should require full disclosure of recipient organizations and impose obligations on political parties to utilize tax-exempt funds for election purposes within a specified period.
+
+The author proposes reforms in tax laws, including periodic proprietary audits of party accounts and taxing unutilized funds as income if they are not spent for their intended purpose. This would align political donations with other tax-exempt donations. The article also suggests imposing limits on party expenditure during elections, based on candidate expenses reflected in their accounts submitted to the Election Commission.
+
+The article concludes by questioning why people in India prefer to contribute to democracy secretly, unlike in other countries where political donations are openly claimed. It calls for introspection by society on this matter while awaiting the Supreme Court's decision.
+
+Mon, 13 Nov 2023 21:30:02 +0000
+### [November 14, 1983, Forty Years Ago: Congress Stung](https://indianexpress.com/article/opinion/40-years-ago/november-14-1983-forty-years-ago-congress-stung-9025497/)
+
+Article 1: The Congress (I) attempted to overthrow the Janata government in Karnataka through defections, but their plans were exposed when an associate member of the Janata Party named V B Gowda produced evidence of Rs 2 lakh in cash given to him as a bribe. He also presented a recorded conversation with the leader of the opposition, Veerappa Moily, which contradicted the official statements made by the Congress (I).
+
+Article 2: A tragic incident occurred at the Madha level-crossing near Faizabad railway station, where twenty-one pilgrims were killed and fifty others injured. The victims had disembarked from the Allahabad-Faizabad train, which had stopped due to chain pulling. Unfortunately, while walking on the tracks, they were hit by the Bareilly-Varanasi passenger train.
+
+Article 3: Railway Minister A B A Ghani Khan Chowdhury has ordered the dissolution of the North-East Frontier Railway Service Commission due to corruption allegations. An emergency service commission will be established for the recruitment of railway employees. Chowdhury expressed that violating the commission's autonomy is not a concern if it helps combat corruption.
+
+Article 4: In the Tripura Assembly bypoll, the Congress (I) candidate Motilal Saha triumphed in the prestigious Charilam seat. Saha secured 9,126 votes, defeating his rival Braj Gopal Bhowmik from the ruling CPI(M) by a margin of 1,885 votes. The voter turnout in the by-elections varied from moderate to heavy.
+
 Mon, 13 Nov 2023 12:50:02 +0000
 ### [Rishi Sunak’s radical reshuffle: Why sacking Suella Braverman and bringing David Cameron back may not be enough](https://indianexpress.com/article/opinion/columns/rishi-sunaks-radical-reshuffle-david-cameron-back-suella-braverman-sacked-9025090/)
 

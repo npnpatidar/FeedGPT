@@ -1,3 +1,13 @@
+Tue, 14 Nov 2023 00:30:00 +0530
+### [The growth dichotomy: On September’s  Index of Industrial Production data](https://www.thehindu.com/opinion/editorial/the-growth-dichotomy-the-hindu-editorial-on-septembers-index-of-industrial-production-data/article67528987.ece)
+
+The index of industrial production (IIP) in India rose by 5.8% in September, a slower growth compared to the 10.3% growth in August. This was below economists' expectations of a 7% to 8% increase during the festive season. Manufacturing saw a decline in growth from 9.3% in August to 4.5% in September, with some sectors experiencing a drop in production levels. Consumer goods output was only 0.3% higher than pre-pandemic levels in September. On the other hand, investment-linked sectors like infrastructure and construction goods showed more resilience. Going forward, the balance between investment and consumption will be crucial for economic growth in India.
+
+Tue, 14 Nov 2023 00:15:00 +0530
+### [Knockout blows: On the cricket World Cup entering its business end](https://www.thehindu.com/opinion/editorial/knockout-blows-the-hindu-editorial-on-the-cricket-world-cup-entering-its-business-end/article67528976.ece)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses the ongoing Cricket World Cup and focuses on the performance of the Indian team. The Indian team has been performing exceptionally well, winning nine consecutive matches and topping the league phase. They are now facing New Zealand in the semifinals. The article also mentions that despite the absence of injured all-rounder Hardik Pandya, the Indian team has shown great form, both in batting and bowling. The article also mentions the other semifinalists, Australia and South Africa, and highlights the growth of teams like Afghanistan and the Netherlands in the tournament. The article concludes by mentioning that the cricket world needs these teams to evolve to widen its footprints.
+
 Sat, 11 Nov 2023 00:20:00 +0530
 ### [Over the top: On Mahua Moitra and panel’s disqualification recommendation](https://www.thehindu.com/opinion/editorial/over-the-top-the-hindu-editorial-on-mahua-moitra-and-the-lok-sabha-ethics-panels-disqualification-recommendation/article67521709.ece)
 
