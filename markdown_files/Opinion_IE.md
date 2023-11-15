@@ -1,3 +1,38 @@
+Wed, 15 Nov 2023 01:37:50 +0000
+### [Hrishikesh Mukherjee’s lesson on ‘kartavya’ for Narayana Murthy](https://indianexpress.com/article/opinion/columns/hrishikesh-mukherjees-lesson-on-kartavya-for-narayana-murthy-9026855/)
+
+The article discusses the generational divide in terms of work ethics and values, focusing on the Indian youth and their struggles in the gig economy. The author highlights the perception of the older generation as unsympathetic to the plight of the young, despite growing poverty levels among senior citizens worldwide. The Prime Minister and an IT magnate are seen as role models for advocating long working hours, aiming to inspire the youth facing climate catastrophes and job insecurity. The economic model seems to divide people into those lacking work-life balance and those burdened by idleness and anxiety about their future.
+
+The article references popular culture examples where the younger generation gains limited privileges from the older generation through compromises and gratitude. Filmmaker Hrishikesh Mukherjee is mentioned for ridiculing parental figures who fail to understand their children's well-being. His films portray young individuals indulging in deception and leading secret lives to maintain their independence in the face of authoritarian parents. These movies challenge the traditional Indian family structure, showing that personal growth and self-care are not incompatible with a strong work ethic.
+
+The author argues for societies to reject humorless lives devoid of simple pleasures, even if they remain hierarchical and patriarchal. They emphasize the importance of not taking oneself too seriously and allowing different artistic expressions and lifestyles to coexist. The article concludes by suggesting that finding joy amidst obligations can be a form of silent rebellion against oppressive norms.
+
+Wed, 15 Nov 2023 01:29:21 +0000
+### [November 15, 1983, Forty Years Ago: Andhra Bypolls](https://indianexpress.com/article/opinion/40-years-ago/november-15-1983-forty-years-ago-andhra-bypolls-9026859/)
+
+In recent Andhra Assembly by-elections, the Congress (I) and Telugu Desam parties each won one seat. The Congress (I) secured the Peddapaali seat with a 3,260-vote margin over the ruling party, while the Telugu Desam retained the Martur seat by defeating the Congress (I) with a margin of 4,552 votes.
+
+During a rally attended by thousands of Congress Seva Dal workers, Prime Minister Indira Gandhi warned against communal disharmony orchestrated by organizers of the proposed Ekatmata Yagna Yatra and neighboring countries seeking to take advantage of the situation. She emphasized the need to confront these disruptive elements with the same determination shown during the fight for independence.
+
+Various events were held nationwide to commemorate Jawaharlal Nehru's 95th birth anniversary. President Zail Singh and Prime Minister Indira Gandhi paid respects at his samadhi in Shanti Vana, joined by Union ministers, chief ministers, and diplomats. Additionally, the Prime Minister unveiled a Children's Day stamp at Teen Murti House.
+
+The upcoming winter session of Parliament is expected to focus on significant issues such as the controversial Bangalore tapes, which allegedly expose Congress (I)'s attempts to topple the Hegde government, the controversy surrounding adulteration of Vanaspati (vegetable ghee) with animal tallow, and the situations in Assam and Punjab.
+
+Wed, 15 Nov 2023 01:20:18 +0000
+### [Superhero to superzero](https://indianexpress.com/article/opinion/editorials/superhero-to-superzero-9026858/)
+
+The recent failures of Marvel Cinematic Universe films have led to speculation about the future of the franchise and its impact on the global entertainment industry. These films have been successful in creating expansive universes and attracting loyal audiences, but their dominance in the industry has also limited opportunities for character-driven films. The potential decline of the franchise model could open up space for more diverse and original content in the entertainment landscape.Hmm, I am not sure. Email support@chatbase.co for more info.
+
+Wed, 15 Nov 2023 01:20:15 +0000
+### [Addressing pollution should not be about mudslinging and empty rhetoric](https://indianexpress.com/article/opinion/editorials/addressing-pollution-should-not-be-about-mudslinging-and-empty-rhetoric-9026857/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses the increase in pollution levels in Delhi following the celebration of Diwali, despite hopes that rain and wind brought by a western disturbance would improve air quality. The spike in pollution was attributed to the use of firecrackers in defiance of a Supreme Court ban. The article highlights the ongoing blame game between the BJP and Delhi's AAP government, with accusations of instigation and failure to enforce the cracker ban. It also mentions the lack of coordination between Delhi and its neighboring states, UP and Haryana, in controlling pollution. The article emphasizes the need for sustained efforts to persuade people to reduce festivities and engage with various stakeholders, including the education department and resident welfare associations (RWAs). It suggests that addressing pollution requires the involvement of multiple actors, including the opposition party and municipality, and calls for meaningful initiatives instead of empty rhetoric and mudslinging.
+
+Wed, 15 Nov 2023 01:20:12 +0000
+### [A troubling double-digit dal-roti inflation](https://indianexpress.com/article/opinion/editorials/a-troubling-double-digit-dal-roti-inflation-9026856/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.The latest CPI numbers for October show that overall annual retail inflation in India has fallen for the third consecutive month, reaching 4.87%. However, core CPI inflation, which excludes food and fuel prices, reached a 43-month low of 4.28% in October. The problem lies with food prices, particularly in cereals and pulses. Cereal inflation has been in double digits for 14 consecutive months, while pulses inflation has been similar for five months, reaching the highest level since August 2016. The decrease in production is due to a not-so-great monsoon season, resulting in shortages in rice and pulses. With the below-normal post-monsoon rainfall and the projected effects of El Niño, the situation is unlikely to improve for the rabi crop. The government has made efforts to manage wheat and rice stocks, including reducing the ration card quota and increasing open market sales, but more should be done to increase supplies, such as scrapping import duties on wheat, yellow/white peas, and chana. Addressing the issue of high dal-roti (cereal and pulses) prices should be a top concern for the government, both economically and politically, especially with national elections approaching next year.
+
 Tue, 14 Nov 2023 12:22:29 +0000
 ### [As the country’s values erode, imagining a letter from Jawaharlal Nehru to Indians](https://indianexpress.com/article/opinion/columns/countrys-values-erode-letter-from-jawaharlal-nehru-9026414/)
 

@@ -1,3 +1,23 @@
+Wed, 15 Nov 2023 10:30:00 +0530
+### [How many forces are there in nature, really? | Explained](https://www.thehindu.com/sci-tech/science/nature-fundamental-forces-counting-problem-explained/article67531853.ece)
+
+This article discusses the concept of fundamental forces in physics. It starts by comparing the idea of "The Force" from Star Wars to the scientific understanding of force. There are four fundamental types of interactions between elementary particles that give rise to all the forces we encounter: gravity, electromagnetic force, weak force, and strong force. 
+
+Gravity is the most well-known force but is still not fully understood in modern physics. It is the weakest of the fundamental forces and keeps objects from floating away. The electromagnetic force is stronger and plays a role in various everyday phenomena like television and magnets. The weak force only acts on specific particles and is responsible for radiation used in nuclear medicine. The strong force binds atomic nuclei together and powers the sun through nuclear fusion.
+
+Each force is mediated by a force-carrier particle: graviton for gravity, photon for electromagnetism, W bosons and Z boson for weak force, and gluons for strong force. However, the classification of fundamental forces based on force-carriers is not always straightforward, as there can be additional force-carriers beyond the four known ones.
+
+Furthermore, the distinction between fundamental forces becomes more complex when considering the symmetries in the equations that describe these interactions. For example, the electroweak force, which combines electromagnetism and the weak force, was once a single force after the Big Bang before breaking into two forces.
+
+Gravity stands apart from the other forces because it is associated with the curvature of spacetime according to Einstein's theory of general relativity. While the other forces are described within energy fields, gravity is described by the geometry of spacetime.
+
+In conclusion, while it is commonly stated that there are four fundamental forces, the true understanding of these forces is more nuanced and evolving as scientists delve deeper into the mathematical regularities and symmetries underlying them.
+
+Wed, 15 Nov 2023 08:30:00 +0530
+### [Why is the amnesty deal by Spain’s government contentious? |  Explained](https://www.thehindu.com/news/international/why-is-the-amnesty-deal-by-spains-government-contentious-explained/article67533445.ece)
+
+Spain's socialist government, led by Prime Minister Pedro Sanchez, has struck a controversial amnesty deal with the Catalan separatist party, Together for Catalonia, in order to secure another term for Sanchez. Carles Puigdemont, former regional president of Catalonia and a member of the European Parliament, has offered his party's support in exchange for amnesty for himself and others involved in the failed Catalan independence bid in 2017. However, the approval of the amnesty legislation is not guaranteed, and critics argue that it undermines the principle of equality before the law. Spain has seen widespread protests in response to the deal, and there are concerns about the potential for violence. This move by Sanchez contradicts his previous stance against granting amnesty to separatists. The opposition People's Party and far-right Vox party view it as a ploy by Sanchez to hold onto power. Spain's political landscape has been marked by post-electoral stalemate and the rise of smaller parties on the extreme ends of the spectrum. There is uncertainty about the outcome of another general election, and no clear vision of Spain's next government has emerged since the elections in July. Currently, Sanchez's government is allied with extreme left parties, including separatist parties from Basque and Catalonia, but concerns over the cost of collaboration with these parties may be exaggerated.
+
 Tue, 14 Nov 2023 20:51:36 +0530
 ### [U.S. President Biden’s executive order on AI | Explained](https://www.thehindu.com/sci-tech/artificial-intelligence-executive-order-joe-biden-explainer-reaction-highlights/article67518709.ece)
 

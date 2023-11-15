@@ -1,3 +1,51 @@
+2023-11-15T12:02:41+05:30
+### ['Copy Paste', 'Hindi Imposition': What Opposition MPs' Dissent Notes on Criminal Bills Say](https://thewire.in/law/criminal-bills-opposition-mp-dissent-note-hindi-imposition-copy-paste)
+
+No Article text 
+Eight opposition MPs from the Congress, TMC, and DMK have submitted dissent notes to the report adopted by the parliamentary standing committee on home affairs and flagged various aspects of the Bills.
+
+2023-11-15T11:40:09+05:30
+### [Over 500 US Government Officials Sign Letter Against Biden’s Support for Israel](https://thewire.in/world/over-500-us-government-officials-sign-letter-against-bidens-support-for-israel)
+
+No Article text 
+The letter reflects mounting unease and internal dissent within the Biden administration about Biden’s Israel policy.
+
+2023-11-15T11:22:17+05:30
+### [Security Forces Send Back 39 Myanmar Soldiers Taking Refuge in Mizoram](https://thewire.in/security/security-forces-send-back-39-myanmar-soldiers-taking-refuge-in-mizoram)
+
+No Article text 
+The decision to send them back came after the camp in which the soldiers had been staying came under attack from ethnic armed groups aligned with the pro-democracy movement in Myanmar.
+
+2023-11-15T10:41:51+05:30
+### [The US Is Part of the Problem in Israel-Palestine](https://thewire.in/world/united-states-israel-palestine)
+
+No Article text 
+The United States is Israel’s ally. It is axiomatic that it should support Israel. But a stupid ally is no benefit to anybody.
+
+2023-11-15T10:26:58+05:30
+### [India's Fresh Nuclear Push May Be Different – But Questions Surround It](https://thewire.in/energy/ntpc-nuclear-power-corporation-npcil-smr)
+
+No Article text 
+NPCIL is forming joint ventures, Niti Aayog is keen on Small and Modular Reactors. Why is India so bullish about an untested technology?
+
+2023-11-15T10:08:50+05:30
+### [RBI, Narendra Modi and the Subtle Art of Ignoring Concerns](https://thewire.in/banking/aakar-patel-reserve-bank-of-india-demonetisation)
+
+No Article text 
+In 2016, the RBI had accurately predicted both the damage and the lack of benefit of the demonetisation. Was it heard? No.
+
+2023-11-15T08:59:57+05:30
+### ['Ravidas Temple Is Fine, But What About Jobs and Education?' Ask Madhya Pradesh's Dalits](https://thewire.in/caste/madhya-pradesh-election-ravidas-temple-dalit-jobs)
+
+No Article text 
+How electoral battles play out in districts such as Sagar, with significant Dalit populations, could eventually play a big role in determining who wins MP.
+
+2023-11-15T08:43:55+05:30
+### ['No Ban on Hijabs,' Karnataka Govt Says After Reports on Head Cover Restrictions in Exams](https://thewire.in/government/karnataka-examination-hijab-ban-head-cover)
+
+No Article text 
+Initial reports on the Karnataka Examination Authority's decision prompted questions on why the Congress government had not overturned the BJP government's hijab ban at educational institutions.
+
 2023-11-14T21:00:39+05:30
 ### [What Lies Ahead for the Hollywood As Actors Call Off Their Historic Strike?](https://thewire.in/film/what-lies-ahead-for-the-hollywood-as-actors-call-off-their-historic-strike)
 

@@ -1,3 +1,13 @@
+Wed, 15 Nov 2023 10:58:34 +0530
+### [China launches world’s fastest internet with 1.2 terabit per second link, can transmit 150 4K movies a second](https://www.firstpost.com/world/china-launches-worlds-fastest-internet-with-1-2-terabit-per-second-link-two-years-before-industry-forecasts-13388942.html)
+
+China has announced the development of the world's fastest internet with a new network that transmits data at 1.2 terabits per second, surpassing the speeds of its closest rivals, the US and South Korea. The backbone network spans over 3,000 kilometers and connects Beijing, Wuhan, and Guangzhou. This speed allows for the transmission of 150 4K movies in less than a second and the entire content library of Netflix in under half an hour. The project, named Future Internet Technology Infrastructure (FITI), involved collaboration between Tsinghua University, China Mobile, Huawei Technologies, and Cernet Corporation. This achievement defies industry predictions and highlights China's commitment to advancing its internet technology independently.
+
+Wed, 15 Nov 2023 09:31:59 +0530
+### [Meta, Google, TikTok, Snap set to face lawsuit for making children addicted to social media](https://www.firstpost.com/tech/meta-google-tiktok-snap-set-to-face-lawsuit-for-making-children-addicted-to-social-media-13388662.html)
+
+Several tech companies, including Meta (formerly Facebook), ByteDance, Snap, and Google, have failed to get lawsuits dismissed that accused them of deliberately making social media platforms addictive for children. A US federal judge ruled that the lawsuits will proceed to trial. The legal action, brought by various school districts across the United States, alleges that these companies are responsible for causing physical and emotional harm to children. The ruling consolidates over 140 actions taken against the companies and asserts that the First Amendment and Section 230 do not shield them from liability in this case. The judge highlighted concerns such as insufficient parental controls and age verification systems, emphasizing that addressing these issues would not infringe on free speech. Some identified defects, protected under Section 230, were dismissed, while others may pave the way for safety claims. The decision challenges Big Tech's claim of blanket immunity for harm caused to users.
+
 Tue, 14 Nov 2023 16:58:42 +0530
 ### [Apple supplier Foxconn takes stakeholders, investors by surprise, posts 11% profit in Q3](https://www.firstpost.com/world/apple-supplier-foxconn-takes-stakeholders-investors-by-surprise-posts-11-per-cent-profit-in-q3-13387402.html)
 

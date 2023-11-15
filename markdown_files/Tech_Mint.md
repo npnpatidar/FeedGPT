@@ -1,3 +1,9 @@
+Wed, 15 Nov 2023 10:51:21 +0530
+### [Bhai Dooj gift ideas: Fitness bands for enthusiasts, check our top 8 picks](https://www.livemint.com/technology/gadgets/bhai-dooj-gift-ideas-fitness-bands-for-enthusiasts-check-our-top-8-picks-11699967858462.html)
+
+Article found but Couldn't summarize 
+Bhai Dooj is a celebration of the sibling relationship and what better gift to extend to them than fitness bands. Check out our list of 8 best fitness bands online and give the gift of healthy living.
+
 Tue, 14 Nov 2023 22:40:35 +0530
 ### [‘Brazil’s tech can help India reach 20% ethanol blending’](https://www.livemint.com/technology/tech-news/brazils-tech-can-help-india-reach-20-ethanol-blending-11699979180440.html)
 

@@ -1,3 +1,35 @@
+Wed, 15 Nov 2023 11:54:44 +0530
+### [India's growth story is based on economic strength, not BJP winning elections](https://www.livemint.com/opinion/online-views/indias-growth-story-is-based-on-economic-strength-not-bjp-winning-elections-11700027779927.html)
+
+Morgan Stanley predicts that there may be increased volatility in India's stock market following the declaration of poll results in December for five states, particularly if the Bharatiya Janata Party (BJP) loses a majority. The report also suggests that volatility could rise even further if the opposition alliance, called I.N.D.I.A., succeeds in polarizing voters during the 2024 general elections. Morgan Stanley warns that if the market's preferred outcome does not occur, there is a possibility of a 30% drawdown. However, previous fears about the impact of Indian elections on the stock market have proven to be an overreaction. Historically, the market has favored continuity and a majority government. The article also points out that the claim that the BJP is more market-friendly than the Congress is not supported by evidence, as the United Progressive Alliance's (UPA) regime saw higher stock market returns and capital gains. The article concludes that investors are attracted to the inherent strength of India's growth story, rather than political bias, and that successive governments have shown continuity in economic policy.
+
+Wed, 15 Nov 2023 09:00:04 +0530
+### [Arab countries allow Israel an opening to normalise the situation with them and Palestine](https://www.livemint.com/opinion/online-views/arab-countries-allow-israel-an-opening-to-normalise-the-situation-with-them-and-palestine-11699957036616.html)
+
+The recent combined meeting of the Organisation of Islamic Cooperation (OIC) and the Arab League in Riyadh issued a strong statement condemning Israel's actions in Gaza. However, no penal measures were announced against Israel or its Western allies. Some countries proposed measures such as an oil embargo and denial of overflight rights, but these were rejected by Arab neighbors of Israel and Palestine. The meeting was significant because the president of Iran attended for the first time since 2012, marking a potential thaw in relations between Iran and Saudi Arabia. The outcome of the meeting highlights the lack of unified Muslim opinion on the issue and the remaining influence of the US in the region. It also suggests that the Abraham Accords, which established formal relations between Israel and several Arab countries, including the UAE and Bahrain, are still intact. The declaration from the meeting supports a two-state solution to the Israel-Palestine conflict and calls on Israel to stop its attacks on civilians and initiate a political process for the formation of a unified state of Palestine alongside Israel.
+
+Wed, 15 Nov 2023 08:00:04 +0530
+### [Inflation has dipped but risks of another upsurge loom](https://www.livemint.com/opinion/quick-edit/inflation-has-dipped-but-risks-of-another-upsurge-loom-11699970784378.html)
+
+Indian policymakers can breathe a sigh of relief as October's inflation data shows a decline in prices for the seventh consecutive month. Wholesale inflation fell by 0.52% year-on-year, while consumer inflation dropped to 4.87% from 5.02% in September. This is the lowest retail reading in four months and remains below the Reserve Bank of India's upper tolerance limit of 6%. However, there are concerns of a potential upsurge in inflation due to factors such as rising crude oil prices and the impact of erratic monsoon rainfall on crop production. The RBI is committed to achieving a 4% cost-of-living uptick but has yet to demonstrate consistent success in reaching this target.
+
+Wed, 15 Nov 2023 08:00:03 +0530
+### [Tunnel provision: Development mustn't run ahead of the risks it may run](https://www.livemint.com/opinion/online-views/tunnel-provision-development-mustnt-run-ahead-of-the-risks-it-may-run-11699970586796.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Forty workers trapped in a tunnel collapse in Uttarakhand, India, are reported to be safe, with rescue efforts underway. Supplies of food and oxygen are being provided through tubes, and a steel pipe is being extended to extract them. However, the frequency of accidents related to development work in India is concerning, with little evidence of change in approach. The latest incident occurred in the Uttarkashi region, where a plan to link high-altitude pilgrimage centers with better roads has led to increased highway connectivity. While this can boost local economies and tourism potential, development should not come at the cost of irreversible environmental damage. The Himalayan region is prone to landslides, flash floods, and seismic activity, making it vulnerable. All projects in these sensitive regions should undergo strict geological and environmental scrutiny, with risks mapped out and structures built to withstand various adversities. Political considerations should not overshadow broader concerns.
+
+Wed, 15 Nov 2023 08:00:03 +0530
+### [Economic solutions aren’t helping us crack an air pollution problem](https://www.livemint.com/opinion/online-views/economic-solutions-aren-t-helping-us-crack-an-air-pollution-problem-11699970647360.html)
+
+Article found but Couldn't summarize 
+Seasonal smog in Delhi is a classic tragedy of the commons: It’s everybody’s problem and hence nobody’s in particular. Alas, ways out seem out of reach.
+
+Wed, 15 Nov 2023 07:45:03 +0530
+### [Brazil has digital public infrastructure that India could learn from](https://www.livemint.com/opinion/online-views/brazil-has-digital-public-infrastructure-that-india-could-learn-from-11699970706015.html)
+
+Article found but Couldn't summarize 
+Brazilians are keen to learn from India’s DPI success but we could also pick up a thing or two from their UPI and account aggregator equivalents. As the next G20 President, Brazil is well placed to build on India's DPI advocacy.
+
 Tue, 14 Nov 2023 18:13:09 +0530
 ### [The job market slowdown is getting hard to ignore](https://www.livemint.com/opinion/online-views/the-job-market-slowdown-is-getting-hard-to-ignore-11699965165083.html)
 

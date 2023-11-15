@@ -1,3 +1,30 @@
+Wed, 15 Nov 2023 11:31:23 +0530
+### [What is Viksit Bharat Sankalp Yatra that PM Modi is launching from Birsa Munda's birthplace?](https://www.firstpost.com/explainers/what-is-viksit-bharat-sankalp-yatra-that-pm-modi-is-launching-from-birsa-mundas-birthplace-13387502.html)
+
+Prime Minister Narendra Modi is visiting Jharkhand to launch several government schemes. He began his visit by visiting the Freedom Fighter Museum and paying tribute to tribal icon Ulihatu village, where he was born. During the visit, PM Modi will also launch the "Viksit Bharat Sankalp Yatra," which aims to create awareness and provide welfare benefits to tribals across the country. The yatra will start from districts with significant tribal populations and eventually cover all districts by January 2024. Additionally, PM Modi will inaugurate the Pradhan Mantri Particularly Vulnerable Tribal Groups Mission, a scheme focused on the overall development of around 28 lakh people across 18 states and union territories. Other schemes to be launched include the Pradhan Mantri Kisan Samman Nidhi and various infrastructure projects.
+
+Wed, 15 Nov 2023 10:19:29 +0530
+### [What's Cyprus Confidential, probe showing how Russia’s wealth was protected?](https://www.firstpost.com/explainers/cyprus-confidential-icij-probe-russia-wealth-sanctions-cyprus-safe-haven-13388712.html)
+
+Article found but Couldn't summarize 
+What's Cyprus Confidential, probe showing how Russia’s wealth was protected?
+
+Wed, 15 Nov 2023 09:05:45 +0530
+### [Is COVID making a return to China this winter?](https://www.firstpost.com/explainers/is-covid-making-a-return-to-china-this-winter-13387042.html)
+
+Chinese experts have issued an alert about a potential increase in COVID-19 infections during the winter season. The Chinese Centre for Disease Control and Prevention reported 209 new severe COVID-19 cases and 24 deaths in October, with the prevalent strains being XBB variants. Leading respiratory illness expert Zhong Nanshan warned of a minor COVID-19 surge in the winter and advised vulnerable and elderly populations to get vaccinated. The virus is mutating, and people's ability to fight off the disease is declining. There may also be a rise in COVID-19 cases during the winter, along with high influenza rates. However, there is no need to be overly concerned, and prevention and control measures should still be implemented.
+
+Wed, 15 Nov 2023 09:05:28 +0530
+### [Joe Biden and Xi Jinping to meet at APEC summit: Why this is significant](https://www.firstpost.com/explainers/joe-biden-xi-jinping-apec-summit-san-francisco-us-china-ties-significance-13387432.html)
+
+Article found but Couldn't summarize 
+Joe Biden and Xi Jinping to meet at APEC summit: Why this is significant
+
+Wed, 15 Nov 2023 07:53:00 +0530
+### [FirstUp: Joe Biden-Xi Jinping meet, India vs New Zealand and more… The big news today](https://www.firstpost.com/explainers/firstup-joe-biden-xi-jinping-meet-india-vs-new-zealand-and-more-the-big-news-today-13388072.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.US President Joe Biden is scheduled to meet with Chinese President Xi Jinping in San Francisco, marking their first in-person meeting in a year. The meeting will take place on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit, and the leaders will discuss strengthening communication and managing competition. Biden aims to make progress in restoring military-to-military ties with China. In other news, Indian Prime Minister Narendra Modi will launch the 'Viksit Bharat Sankalp Yatra,' a program aimed at saturating the Centre's flagship schemes in 2.7 lakh panchayats by January 2024. Modi will also unveil a scheme for the holistic development of Particularly Vulnerable Tribal Groups. Additionally, India will be playing against New Zealand in the semi-finals of the ICC Cricket World Cup, providing an opportunity to overcome the bitter memories of their loss in the 2019 World Cup semis. The Association of Southeast Asian Nations will convene the ASEAN Defense Ministers' Meeting in Indonesia, addressing challenges in the region, including tensions in the South China Sea. Maratha quota activist Manoj Jarange-Patil will begin his tour of the state, focusing on understanding issues faced by the Maratha community. Lastly, the Andhra Pradesh High Court will hear TDP chief N Chandrababu Naidu's bail petition in the Skill Development Corporation Scam case.
+
 Tue, 14 Nov 2023 18:12:33 +0530
 ### [Is Hamas using Gaza hospitals to carry out terror operations?](https://www.firstpost.com/explainers/is-hamas-using-gaza-hospitals-to-carry-out-terror-operations-13387672.html)
 
