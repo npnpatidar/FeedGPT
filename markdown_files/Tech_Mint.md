@@ -1,3 +1,25 @@
+Wed, 15 Nov 2023 17:25:43 +0530
+### [Searching smart TV from renowned brands? Here are top 10 options to choose from](https://www.livemint.com/technology/gadgets/searching-smart-tv-from-renowned-brands-here-are-top-10-options-to-choose-from-11700037697435.html)
+
+Article found but Couldn't summarize 
+A smart TV is an excellent investment to enhance your viewing experience, and what better way to do it than get one from a renowned brand. Check out the list of top 10 picks that will help you make a better decision.
+
+Wed, 15 Nov 2023 17:23:59 +0530
+### [Oil filled heater to sail through winters? Here are top 10 picks to choose from](https://www.livemint.com/technology/gadgets/oil-filled-heater-to-sail-through-winters-here-are-top-10-picks-to-choose-from-11700027449943.html)
+
+Article found but Couldn't summarize 
+Oil filled heaters are a great way to keep yourself warm during the chilly winters. We have curated a list of the 10 best options to consider before buying a new oil filled heater. Check out our comprehensive list and bring home a new heater soon.
+
+Wed, 15 Nov 2023 14:55:15 +0530
+### [Snapchat users will now be able to order directly from Amazon. Here's what's in store](https://www.livemint.com/technology/tech-news/snapchat-users-will-now-be-able-to-order-from-directly-from-amazon-heres-whats-in-store-11700013139965.html)
+
+Snapchat and Amazon have formed a partnership that will allow Snapchat users to order products from Amazon directly within the social media app. The collaboration aims to help Amazon expand its shopping business through social media, while also helping Snapchat compete with platforms like TikTok, which recently launched its own shopping platform. Users in the United States will be able to see real-time pricing, prime eligibility, delivery estimates, and product details for select Amazon products in Snapchat. This partnership is expected to benefit both companies, with Amazon also having similar partnerships with Instagram and Pinterest. Earlier this year, Snap and Amazon collaborated on augmented reality eyeglass try-on experiences.
+
+Wed, 15 Nov 2023 13:29:49 +0530
+### [OpenAI pauses new signups for ChatGPT Plus due to overwhelming demand](https://www.livemint.com/technology/tech-news/openai-pauses-new-signups-for-chatgpt-plus-due-to-overwhelming-demand-11700033076947.html)
+
+OpenAI has temporarily paused accepting new users for its paid ChatGPT Plus service due to overwhelming demand. OpenAI CEO Sam Altman announced the development and stated that they want to ensure everyone has a great experience. Users can still sign up to be notified within the app when subscriptions reopen. OpenAI revealed that approximately 100 million people use their services every week, and over 90% of Fortune 500 businesses are building tools on their platform. OpenAI recently announced their powerful language model, GPT-4 Turbo, which has a larger context window and is more powerful and updated than the previous GPT-4 version. Altman launched a beta program for developers to fine-tune GPT-4 models, and OpenAI also launched its custom models program, enabling users to build customized bots. OpenAI plans to launch a GPT Store where people can share their GPTs and earn money based on the number of users. GPT-4 Turbo comes with a larger context window and is cheaper for developers to use compared to GPT-4.
+
 Wed, 15 Nov 2023 10:51:21 +0530
 ### [Bhai Dooj gift ideas: Fitness bands for enthusiasts, check our top 8 picks](https://www.livemint.com/technology/gadgets/bhai-dooj-gift-ideas-fitness-bands-for-enthusiasts-check-our-top-8-picks-11699967858462.html)
 

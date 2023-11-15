@@ -1,3 +1,13 @@
+Wed, 15 Nov 2023 15:35:10 +0530
+### [What’s causing a delay in the rescue of 40 trapped labourers in Uttarkashi tunnel?](https://www.firstpost.com/explainers/uttarkashi-tunnel-delay-rescue-operations-trapped-labourers-13390012.html)
+
+Forty labourers have been trapped inside a tunnel in Uttarkashi, India for five days. Fellow workers staged a protest at the site of the accident due to the slow pace of rescue operations. The delay in rescuing the trapped labourers is attributed to landslides, loose rocks, and technical problems. The hilly terrain and soft rocks in the region have made digging difficult. The use of an auger machine to install steel pipes failed, prompting the arrival of a new machine from Delhi. Despite the challenges, efforts are being made to provide the trapped workers with food and oxygen through a pipe. Family members remain skeptical about the progress of the rescue operation. Experts question the cause of the tunnel collapse and suggest inadequate investigations and faulty construction practices as potential reasons. Uttarakhand is constructing the 4.5-km tunnel as part of Prime Minister Narendra Modi's Char Dham project.
+
+Wed, 15 Nov 2023 13:18:36 +0530
+### [Hamas headquarters or hospital? Why has Israel stormed Gaza's Al-Shifa?](https://www.firstpost.com/explainers/hamas-headquarters-israel-operation-gaza-al-shifa-hospital-patients-medical-staff-13389412.html)
+
+The Al-Shifa Hospital in Gaza City, the largest and most advanced hospital in the Gaza Strip, has ceased functioning due to a lack of power and water supply. Israeli troops from the Israel Defense Forces (IDF) recently raided the hospital, claiming that Hamas, the Palestinian militant group, was using it as a command center for military operations and hostages. The hospital officials and the Hamas-run Gaza Health Ministry have denied these allegations. The IDF stated that they are conducting a targeted operation against Hamas inside the hospital based on intelligence information. The raids have put the patients, staff, and displaced civilians seeking shelter at the hospital at risk. The IDF spokesperson referred to the hospital as the "beating heart" of Hamas. Israel claims that Hamas is using hospitals to conceal weapons and operate command centers, while Hamas denies these accusations. The legality of the raids is being questioned, as hospitals are afforded special protections during times of war unless they are being used by combatants to hide fighters or store weapons.
+
 Wed, 15 Nov 2023 11:31:23 +0530
 ### [What is Viksit Bharat Sankalp Yatra that PM Modi is launching from Birsa Munda's birthplace?](https://www.firstpost.com/explainers/what-is-viksit-bharat-sankalp-yatra-that-pm-modi-is-launching-from-birsa-mundas-birthplace-13387502.html)
 
@@ -6,8 +16,7 @@ Prime Minister Narendra Modi is visiting Jharkhand to launch several government 
 Wed, 15 Nov 2023 10:19:29 +0530
 ### [What's Cyprus Confidential, probe showing how Russia’s wealth was protected?](https://www.firstpost.com/explainers/cyprus-confidential-icij-probe-russia-wealth-sanctions-cyprus-safe-haven-13388712.html)
 
-Article found but Couldn't summarize 
-What's Cyprus Confidential, probe showing how Russia’s wealth was protected?
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.Cyprus Confidential is an investigation conducted by the International Consortium of Investigative Journalists (ICIJ) and involved more than 270 journalists from 69 global media outlets. The investigation analyzed 3.6 million leaked documents from six offshore service providers in Cyprus, revealing how the country became a hub for Russian money-laundering and helped Russian billionaires avoid Western sanctions. The investigation highlighted the use of financial services firms on the island by 67 out of 105 Russian billionaires on Forbes' World's Billionaires List to conceal their wealth. The probe also shed light on the financial activities of individuals like Roman Abramovich, who denied his links to Russian president Vladimir Putin, and Alexey Mordashov, a steel magnate who allegedly received assistance from PricewaterhouseCoopers (PwC) in transferring assets despite being under EU sanctions. The investigation also uncovered connections between German journalist Hubert Seipel and an oligarch close to Putin, raising concerns about a conflict of interest. Reactions to the revelations include German broadcaster NDR considering legal action against Seipel and Cyprus authorities vowing to investigate the allegations to safeguard the country's reputation.
 
 Wed, 15 Nov 2023 09:05:45 +0530
 ### [Is COVID making a return to China this winter?](https://www.firstpost.com/explainers/is-covid-making-a-return-to-china-this-winter-13387042.html)
@@ -17,8 +26,7 @@ Chinese experts have issued an alert about a potential increase in COVID-19 infe
 Wed, 15 Nov 2023 09:05:28 +0530
 ### [Joe Biden and Xi Jinping to meet at APEC summit: Why this is significant](https://www.firstpost.com/explainers/joe-biden-xi-jinping-apec-summit-san-francisco-us-china-ties-significance-13387432.html)
 
-Article found but Couldn't summarize 
-Joe Biden and Xi Jinping to meet at APEC summit: Why this is significant
+The article discusses the upcoming meeting between US President Joe Biden and Chinese President Xi Jinping on the sidelines of the APEC summit in San Francisco. It highlights that this will be only the second time the two leaders meet since Biden assumed presidency. The article mentions various issues that may be discussed during the meeting, including Taiwan, the Israel-Hamas war, the use of artificial intelligence in weaponry, the flow of fentanyl from China to the US, and China's influence on North Korea. However, experts caution against expecting major breakthroughs from the meeting due to the difficulty of achieving realistic outcomes and the domestic challenges faced by both leaders. Nevertheless, the article notes that simply holding the meeting is seen as a win for both countries and the world.
 
 Wed, 15 Nov 2023 07:53:00 +0530
 ### [FirstUp: Joe Biden-Xi Jinping meet, India vs New Zealand and more… The big news today](https://www.firstpost.com/explainers/firstup-joe-biden-xi-jinping-meet-india-vs-new-zealand-and-more-the-big-news-today-13388072.html)

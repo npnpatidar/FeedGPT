@@ -15,7 +15,7 @@
 
 
  ************************************************* 
-Total number of new entries: 56
-Total number of summaries updated: 6
-Finished at: 2023-11-15 07:16:42
-Total time taken: 55.0 minutes 28.44180655479431 seconds
+Total number of new entries: 58
+Total number of summaries updated: 4
+Finished at: 2023-11-15 13:21:01
+Total time taken: 50.0 minutes 0.42099571228027344 seconds

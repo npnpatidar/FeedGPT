@@ -1,3 +1,24 @@
+Wed, 15 Nov 2023 16:34:57 +0530
+### [The global race and repercussions of autonomous warfare](https://www.firstpost.com/opinion/the-global-race-and-repercussions-of-autonomous-warfare-13390152.html)
+
+Article found but Couldn't summarize 
+The global race and repercussions of autonomous warfare
+
+Wed, 15 Nov 2023 15:24:44 +0530
+### [Vantage | Why fires of rebellion in Myanmar wont's leave India unscathed](https://www.firstpost.com/opinion/vantage-why-fires-of-rebellion-in-myanmar-wonts-leave-india-unscathed-13389782.html)
+
+A military conflict in Myanmar between rebel forces and the military junta has escalated and spread to the borders of India, causing a humanitarian crisis. The rebels, associated with the Chin National Army, attacked a Myanmar army base in the border town of Ri Khaw Dar and successfully captured the town. This setback is part of the junta's ongoing loss of ground and soldiers throughout the country. Mizoram in India has seen an influx of refugees and surrendered Myanmar army troops, posing a challenge for regional stability. The rebellion, which originated in the eastern Shan state, has spread across Myanmar, with rebel groups claiming to have captured key cities and towns along the border with India and China. The junta has imposed martial law in Shan and curfews in Rakhine state, but the effectiveness of these measures remains uncertain. The rebellion poses a significant challenge to the junta’s authority since the coup in February 2021, and neighboring countries, particularly India, are concerned about the spillage of conflict. The situation raises alarming concerns for regional stability and the international community awaits the resolution of Myanmar’s internal turmoil.
+
+Wed, 15 Nov 2023 14:37:57 +0530
+### [Chhattisgarh Assembly Election: Bhupesh Baghel ignores corruption allegations, pegs hope on development, voters' trust](https://www.firstpost.com/opinion/chhattisgarh-assembly-election-bhupesh-baghel-ignores-corruption-allegations-pegs-hope-on-development-voters-trust-13389862.html)
+
+Chhattisgarh Chief Minister Bhupesh Baghel is confident that the Congress party will win 75 out of 90 seats in the upcoming state assembly elections. He is banking on the work he has done over the past five years and the 17 guarantees he has promised to voters. Baghel dismissed corruption allegations against him, stating that the central investigation agencies have been unsuccessful in their attempts to intimidate and malign him. He highlighted his achievements, including farmers' loan waivers, support for women self-help groups, free ration and power, and free education initiatives. Baghel compared his promises with those made by Prime Minister Narendra Modi, emphasizing that people trust his guarantees more. Despite facing opposition within his own party, Baghel has emerged as a rising star within the Congress Parivar due to his grassroots approach and popularity in Chhattisgarh. The outcome of the assembly polls will have a crucial bearing on Baghel's future. He also expressed support for Rahul Gandhi as the prime ministerial face for the INDIA alliance in the 2024 Lok Sabha polls.
+
+Wed, 15 Nov 2023 13:54:50 +0530
+### [Vantage | What Pak-China's biggest naval drills mean for India](https://www.firstpost.com/opinion/vantage-what-pak-chinas-biggest-naval-drills-mean-for-india-13389572.html)
+
+The alliance between Pakistan and China is taking a military turn, evident in their joint naval exercises known as the Sea Guardians exercise. The exercise marks the largest naval drill to date and involves warships, submarines, and guided missile frigates from both countries. The drills focus on anti-submarine operations and practicing tactics such as Visit, Board, Search, and Seizure (VBSS). These exercises highlight the improved interoperability between the Chinese and Pakistani navies and reveal a strategic shift in priorities towards the Indo-Pacific region. The exercises are seen as a challenge to Indian influence in the region and have raised questions about the geopolitical implications for India. Chinese media outlets emphasize the objectives of protecting strategic sea lanes and practicing joint responses to common threats. The exercises have drawn international attention, particularly from the United States, as it reaffirms its commitment to the Indo-Pacific through partnerships like the Quadrilateral Security Dialogue (QUAD) with Japan and Australia. As China and Pakistan expand their naval activities, the Indo-Pacific region faces heightened scrutiny, emphasizing the need for constant vigilance and collaborative efforts in maintaining geopolitical balance.
+
 Wed, 15 Nov 2023 11:38:33 +0530
 ### [Sheikh Hasina: Daughter of democracy and her boat in troubled water](https://www.firstpost.com/opinion/sheikh-hasina-daughter-of-democracy-and-her-boat-in-troubled-water-13389002.html)
 

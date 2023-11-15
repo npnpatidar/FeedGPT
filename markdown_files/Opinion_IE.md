@@ -1,3 +1,8 @@
+Wed, 15 Nov 2023 11:33:57 +0000
+### [Brutalised children of Gaza: Killing the innocent — and our innocence](https://indianexpress.com/article/opinion/columns/brutalised-children-of-gaza-killing-the-innocent-and-our-innocence-9027780/)
+
+The ongoing conflict between Israel and Palestine has resulted in disturbing images of children being maimed, covered in rubble, and in agonizing pain. These images challenge the justifications for the violence and prevent us from becoming indifferent to the horrors of war. The author questions the dehumanizing process that occurs when societies normalize or justify violence. Childhood is supposed to be a protected phase, shielded from the cruelties of the adult world. However, war destroys this protection and exposes children to violence. The legal systems that should protect their rights collapse, and families are killed. The violence inflicted on children in war reveals the brutality and excessiveness of the violence itself. The child is powerless in starting or stopping a war, and war undermines the innocence and fragility of childhood. War requires us to abandon our responsibility to nurture children in a peaceful and loving world. It makes us indifferent to the ethical grounding of society and destroys everything tender and creative within us. Ultimately, war leads to the destruction of nations and the graves of children.
+
 Wed, 15 Nov 2023 01:37:50 +0000
 ### [Hrishikesh Mukherjee’s lesson on ‘kartavya’ for Narayana Murthy](https://indianexpress.com/article/opinion/columns/hrishikesh-mukherjees-lesson-on-kartavya-for-narayana-murthy-9026855/)
 

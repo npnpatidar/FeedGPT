@@ -1,3 +1,99 @@
+2023-11-15T17:47:10+05:30
+### [As EC Show-Causes Priyanka Gandhi, Arvind Kejriwal, Questions on Fairness](https://thewire.in/politics/as-ec-show-causes-priyanka-gandhi-arvind-kejriwal-questions-on-fairness)
+
+No Article text 
+Both Gandhi Vadra and Kejriwal were asked to respond to the notices by tomorrow, November 16.
+
+2023-11-15T17:08:14+05:30
+### [Telangana Polls: The Performance of Congress Govt in Karnataka Has Emerged as a Key Talking Point](https://thewire.in/politics/telangana-polls-the-performance-of-congress-govt-in-karnataka-has-emerged-as-a-key-talking-point)
+
+No Article text 
+Even though victory in Karnataka has boosted the morale of Congress cadres in Telangana, the alleged failures of the Siddaramaiah government is being used by the ruling BRS to attack the rival party.
+
+2023-11-15T17:06:37+05:30
+### [More Inventory Days for Consumer Goods as Low Demand Causes Supply Chain Congestion](https://thewire.in/economy/more-inventory-days-for-consumer-goods-as-low-demand-causes-supply-chain-congestion)
+
+No Article text 
+Some distributors are extending credit terms up to 45 days to retailers, 'Business Standard' reported. This is due to the doubling of inventory days, as there's stress in the rate at which consumers are purchasing goods, distributors told the business daily.
+
+2023-11-15T16:30:09+05:30
+### [India Slides Sharply on Global Talent Competitiveness Index, Worst Among the BRICS Group](https://thewire.in/business/india-slides-sharply-on-global-talent-competitiveness-index-worst-among-the-brics-group)
+
+No Article text 
+While India slid from 83 to 103 in the rankings, China is at the top of the group at rank 40.
+
+2023-11-15T16:00:24+05:30
+### [Netanyahu's Plan for Gaza Unclear Amid Growing Calls For a Ceasefire](https://thewire.in/world/netanyahus-plan-for-gaza-unclear-amid-growing-calls-for-a-ceasefire)
+
+No Article text 
+He has said many times the war will continue until Hamas is eradicated. But his battle plan for achieving that objective is far from clear.
+
+2023-11-15T15:59:05+05:30
+### [Once Among Country's Most Influential, Subrata Roy Leaves Behind a Controversial Legacy](https://thewire.in/business/subrata-roy-sahara-passes-away)
+
+No Article text 
+The Sahara head had his key political connections and enjoyed significant political clout.
+
+2023-11-15T15:45:58+05:30
+### [G20 Virtual Summit: India May Avoid Protest During Putin’s Remarks, No New Areas of Discussion](https://thewire.in/diplomacy/g20-virtual-summit-india-may-avoid-protest-during-putins-remarks-no-new-areas-of-discussion)
+
+No Article text 
+The presidents of Russia and China, Vladimir Putin and Xi Jinping, may attend the November 22 meeting. As per media reports, a new mechanism is being worked out to avoid controversy over the Ukraine war.
+
+2023-11-15T15:30:40+05:30
+### [Vinod Adani Among 66 Indians Who Got Cyprus’s ‘Golden Passport’ Between 2014 and 2020: Report](https://thewire.in/business/vinod-adani-among-66-indians-who-got-cypruss-golden-passport-between-2014-and-2020-report)
+
+No Article text 
+Also known as the 'Cyprus Investment Programme', the 'golden passport' scheme was launched in 2007. It enabled financially prominent individuals to obtain Cypriot citizenship, thereby attracting foreign direct investments into the country.
+
+2023-11-15T15:14:15+05:30
+### [MP: Can Modi's Tribal Push Help BJP Recover in ST Seats Where it Suffered Losses in 2018?](https://thewire.in/politics/mp-can-modis-tribal-push-help-bjp-regain-in-st-seats-where-it-suffered-losses-in-2018)
+
+No Article text 
+Will it be the last word in this battle of buying voters with 'freebies' and promises of better infrastructure? Can the PM's popularity rescue the BJP in MP despite a sense of voter fatigue with chief minister Shivraj Chauhan? Or is it too late?
+
+2023-11-15T15:11:32+05:30
+### [The Saga of BJP's Narendra Singh Tomar, His Son Devendra and Three Viral Videos](https://thewire.in/politics/madhya-pradesh-bjp-narendra-singh-tomar-devendra-viral-video)
+
+No Article text 
+Released just before the crucial state assembly elections, the Congress has claimed that these videos prove that the BJP in MP has been charging a "50% commission" on public works.
+
+2023-11-15T14:40:48+05:30
+### [Gaza Reports More Child Deaths than All Conflicts Combined Since 2019](https://thewire.in/world/gaza-reports-more-child-deaths-than-all-conflicts-combined-since-2019)
+
+No Article text 
+"We remain afraid of the future, and not trusting it will bring us any more hope. We can’t forget the events we have been through and feel insecure all the time," a group of Palestinian boys said.
+
+2023-11-15T14:16:59+05:30
+### [Watch | Has an Israel-Hamas Hostage Deal Become Increasingly Unlikely?](https://thewire.in/world/watch-has-an-israel-hamas-hostage-deal-become-increasingly-unlikely)
+
+No Article text 
+Dr Gershon Baskin, the key interlocutor who negotiated the Israel-Hamas hostage release of 2011, discusses the prospects of a deal to release over 235 Israeli hostages in Hamas custody.
+
+2023-11-15T14:07:40+05:30
+### [The Treatment of Mahua Moitra Is a Case Study on Gender, Power and Politics in India](https://thewire.in/politics/the-treatment-of-mahua-moitra-is-a-case-study-on-gender-power-and-politics-in-india)
+
+No Article text 
+Women ‘like her’, more often than not, get accused of a several ‘crimes’ almost immediately after stepping into public life.
+
+2023-11-15T13:10:04+05:30
+### [J&K Local Body Polls Won't Be Held Anytime Soon, LG Makes it Official](https://thewire.in/government/jk-local-body-polls-wont-be-held-anytime-soon-lg-makes-it-official)
+
+No Article text 
+Putting an end to speculation, Manoj Sinha on November 14 said that the urban local body elections will be held only after the completion of delimitation as well as the process to reserve seats for OBCs.
+
+2023-11-15T12:39:40+05:30
+### [Tributes Flow in for Hospitality Legend, the Late P.R.S. Oberoi](https://thewire.in/business/prs-oberoi-biki-passes-away-tributes)
+
+No Article text 
+‘Biki’, as per accounts of his life emerging, used to narrate the story of his childhood in Gujranwala, now in Pakistan.
+
+2023-11-15T12:08:50+05:30
+### [Arvind Kejriwal’s Fall From Grace](https://thewire.in/politics/arvind-kejriwals-fall-from-grace)
+
+No Article text 
+Autocratic to the core, Kejriwal went about neutralising anyone who was seen as a competitor or pricked his conscience.
+
 2023-11-15T12:02:41+05:30
 ### ['Copy Paste', 'Hindi Imposition': What Opposition MPs' Dissent Notes on Criminal Bills Say](https://thewire.in/law/criminal-bills-opposition-mp-dissent-note-hindi-imposition-copy-paste)
 

@@ -1,3 +1,8 @@
+Wed, 15 Nov 2023 07:50:55 +0000
+### [A tunnel-in-a-tunnel: How the new method to rescue trapped workers in Uttarakhand will work](https://indianexpress.com/article/explained/uttarakhand-tunnel-collapse-trapped-workers-rescue-plan-explained-9027528/)
+
+Rescuers in Uttarakhand, India are attempting a new method to reach 40 workers trapped inside a collapsed tunnel. Traditional digging methods have been unsuccessful due to loose rock and debris falling and blocking the passage. Rescuers are now using a "trenchless" technique, using an auger machine to create a stable passage with mild steel pipes for the workers to crawl through. This method minimizes surface disruption and reduces environmental impact. The auger machine drills through the debris, creating a tunnel or passage, and the pipes are inserted to create an escape route. Safety measures such as securing the pipes and using harnesses are being employed.
+
 Wed, 15 Nov 2023 01:39:00 +0000
 ### [This Word Means: Al-Shifa hospital](https://indianexpress.com/article/explained/this-word-means-al-shifa-hospital-9026938/)
 
