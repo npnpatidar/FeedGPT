@@ -1,3 +1,8 @@
+Wed, 15 Nov 2023 00:30:49 +0000
+### [Secrecy plus no tax, why Indians line up for Cyprus](https://indianexpress.com/article/explained/secrecy-plus-no-tax-why-indians-line-up-for-cyprus-9026864/)
+
+The article discusses the findings of the Cyprus Confidential investigation, which uncovered a trail of offshore entities incorporated by wealthy individuals in tax haven Cyprus. The investigation reveals that these entities, which have offshore residency, were controlled from India, with instructions for financial transactions given by individuals in India. While it is not illegal to set up an offshore company in Cyprus, Indian companies use their Cyprus tax residency certificates to avoid paying taxes. The Double Taxation Avoidance Agreement (DTAA) between India and Cyprus allows for the use of Cyprus as a jurisdiction for tax planning. However, the Indian Income Tax department can deny tax treaty benefits if it is determined that a company has been inserted as the owner of shares in India solely to avoid taxes.
+
 Tue, 14 Nov 2023 15:13:50 +0000
 ### [‘From the river to the sea, Palestine will be free’: How the rallying call began, why it is criticised](https://indianexpress.com/article/explained/explained-global/from-the-river-to-the-sea-palestine-history-explained-9026728/)
 

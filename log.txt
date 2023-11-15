@@ -139,3 +139,12 @@ Started at 2023-11-14 18:17:23
 Finished at 2023-11-14 19:08:10
 Total time taken: 3047.1254827976227 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2023-11-15 01:09:27
+1 Feed entries have been written to feeds/Explained_IE.xml
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+20 Feed entries have been written to feeds/ThePrint.xml
+23 new entries have been added
+0 summaries have been updated
+Finished at 2023-11-15 01:34:09
+Total time taken: 1481.795829296112 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
