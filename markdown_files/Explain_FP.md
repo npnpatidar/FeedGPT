@@ -72,8 +72,7 @@ The situation at Al-Shifa Hospital in Gaza is dire as Israel's ongoing attack on
 Tue, 14 Nov 2023 12:02:26 +0530
 ### [How a massive steel pipe will rescue 40 labourers trapped in Uttarkashi tunnel](https://www.firstpost.com/explainers/how-a-massive-steel-pipe-will-rescue-40-labourers-trapped-in-uttarkashi-tunnel-13385102.html)
 
-Article found but Couldn't summarize 
-How a massive steel pipe will rescue 40 labourers trapped in Uttarkashi tunnel
+A tunnel that was under construction in Uttarkashi district, India, collapsed, leaving 40 laborers trapped inside. The rescue operation is underway, with authorities coordinating efforts to save the workers. Medical experts have highlighted the physical and psychological challenges faced by the trapped laborers. The tunnel, being constructed as part of the Char Dham all-weather road project, aims to shorten the distance between Uttarkashi and Yamunotri town. Past incidents of collapse in the same section caused delays in construction. An investigation is ongoing to determine the cause of the collapse. Rescue teams are facing difficulties due to falling debris but have established communication with the trapped workers. Prime Minister Narendra Modi and Uttarakhand Chief Minister Pushkar Singh Dhami have been monitoring the rescue efforts and assured the availability of resources and technical assistance. The rescue operation may take a couple more days to complete.
 
 Tue, 14 Nov 2023 10:55:46 +0530
 ### [Why David Cameron is a surprising choice as new UK foreign policy chief](https://www.firstpost.com/explainers/why-david-cameron-is-a-surprising-choice-as-new-uk-foreign-policy-chief-13385332.html)

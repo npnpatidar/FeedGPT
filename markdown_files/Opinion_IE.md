@@ -1,3 +1,8 @@
+Wed, 15 Nov 2023 14:03:52 +0000
+### [Rainbow Rishta: Queer love in focus](https://indianexpress.com/article/opinion/columns/rainbow-rishta-queer-love-in-focus-9028050/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses the docuseries Rainbow Rishta and its exploration of queer love, challenges within the LGBTQ+ community, and the need for representation and acceptance. It highlights the complexity of queer love and questions whether it aligns with the conventional institution of marriage. The series portrays everyday challenges faced by the community, including creating space, societal perceptions, and difficulties in dating. It also examines the struggle to find acceptance and representation, and emphasizes the importance of normalizing conversations around queerness and supporting LGBTQ+ individuals through art and media.
+
 Wed, 15 Nov 2023 11:33:57 +0000
 ### [Brutalised children of Gaza: Killing the innocent — and our innocence](https://indianexpress.com/article/opinion/columns/brutalised-children-of-gaza-killing-the-innocent-and-our-innocence-9027780/)
 

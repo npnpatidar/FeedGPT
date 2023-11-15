@@ -1,3 +1,55 @@
+Wed, 15 Nov 2023 17:21:14 +0000
+### [Is Virat Kohli the ODI (batting) GOAT?](https://indianexpress.com/article/explained/explained-sports/virat-kohli-odi-batting-goat-9028229/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses the question of whether Virat Kohli is the greatest of all time (GOAT) in One Day International (ODI) cricket. It acknowledges that comparing players from different eras is challenging and analyzes five ODI greats, including Kohli, to make a case for each of them being the GOAT.
+
+The first player discussed is Sir Viv Richards, who dominated ODI cricket during his career (1975-91) and had a significant impact on the West Indies team. Despite playing in a different era, his record still holds up compared to modern-day batters.
+
+Next, Sachin Tendulkar's sustained excellence and ability to remain among the best batters for over two decades are highlighted. His mix of aggression and consistency, as well as the burden he carried for the Indian team, make a strong case for him as the GOAT.
+
+Sanath Jayasuriya's contribution to changing how ODI cricket is played is emphasized. His aggressive batting at the start of an innings had a significant impact, particularly during the 1996 World Cup when he helped Sri Lanka win as underdogs.
+
+AB de Villiers is praised for his versatility and range of shots, which set a new standard for ODI cricket. His exceptional strike rate and average make a strong case for him as the GOAT.
+
+Finally, the article focuses on Virat Kohli and his perfection in batting in a 50-over game. His ability to adapt to any game situation and lead his team to victory makes him a formidable player. With his impressive records and dedication to fitness, Kohli has a good chance of adding more achievements to his resume.
+
+The article concludes by stating that comparisons between these great players will always remain subjective, considering the different eras they played in and the unique contributions they made to the game.
+
+Wed, 15 Nov 2023 15:13:17 +0000
+### [The story of Subrata Roy’s crumbling business empire](https://indianexpress.com/article/explained/explained-economics/story-of-subrata-roy-crumbling-business-empire-9028105/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Subrata Roy, the founder of Sahara Group, built a business empire by collecting deposits from millions of poor and rural Indians. However, his empire faced challenges when the Securities and Exchange Board of India (SEBI) accused him of illegal fund mobilization. Sahara Group owned various assets including an airline, an F1 team, hotels in London and New York, financial companies, mutual funds, and a life insurance company. These assets have either been sold or are under attachment to repay investors.
+
+The trouble for Sahara began when SEBI investigated the mobilization of funds through two companies, Sahara Housing Investment Corporation Ltd (SHICL) and Sahara India Real Estate Corporation Ltd (SIRECL). SEBI ordered Sahara to refund the collected money in 2010, but only a small number of investors came forward to claim their refunds. Subsequently, Roy was sent to jail for contempt for not depositing a sum of Rs 10,000 crore with SEBI.
+
+Despite facing regulatory bans, Sahara purchased overseas properties such as Grosvenor House in London and the Plaza Hotel and Dream New York hotels in New York. However, in 2017, these properties were sold to clear the group's dues to SEBI. The Aamby Valley township near Pune, spread over 6,700 acres, was also scheduled for auction but has faced difficulties in finding buyers.
+
+Sahara's ventures in airlines, F1 team ownership, mutual funds, and life insurance did not succeed either. Sahara Airlines, later renamed Air Sahara, was acquired by Jet Airways, leading to financial troubles for both companies. The F1 team Sahara Force India underwent an asset sale and became Racing Point Force India. Sahara Mutual Fund had its registration cancelled, and Sahara India Life Insurance faced governance issues.
+
+In 2023, the Insurance Regulatory and Development Authority (IRDAI) ordered the transfer of Sahara India Life Insurance's shareholding to another "fit and proper" promoter due to questions of financial propriety. However, the Securities Appellate Tribunal stayed the order, halting the transfer of policy liabilities and assets to SBI Life Insurance Company.
+
+Overall, Subrata Roy's Sahara Group faced legal and financial challenges due to allegations of illegal fund mobilization, leading to the sale of various assets and legal disputes with regulatory bodies.
+
+Wed, 15 Nov 2023 12:39:29 +0000
+### [Why adultery was struck off IPC, and why a House panel wants to make it a crime again](https://indianexpress.com/article/explained/explained-law/adultery-ipc-bns-house-9027529/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The Parliamentary Committee on Home Affairs has recommended that adultery should be reintroduced as a crime in the proposed Bharatiya Nyaya Sanhita (BNS), 2023, which will replace the Indian Penal Code (IPC), 1860. The committee adopted reports on three bills meant to replace the IPC, the Code of Criminal Procedure (CrPC), and the Indian Evidence Act. Previously, Section 497 of the IPC defined adultery as a criminal offense but only punished men. However, in 2018, the Supreme Court struck down this section, citing discrimination and violation of fundamental rights. Now, the committee suggests reinstating adultery as a criminal offense but making it gender-neutral, meaning both men and women could be punished. This recommendation aims to address the discriminatory nature of the previous law. However, the Supreme Court's decision is the law of the land, and while Parliament cannot contradict it directly, they can pass a law that removes the basis for the court's judgment.
+
+Wed, 15 Nov 2023 12:35:46 +0000
+### [Explained: The debate over appropriate age of admission to Class 1](https://indianexpress.com/article/explained/appropriate-age-admission-class-1-9027925/)
+
+This article discusses the age criteria for admission to Class 1 in schools in Delhi, India. Despite recent letters from the Union government urging all states to align their age requirements with the National Education Policy 2020 (NEP), schools in Delhi will continue to admit students below the age of 6 years. According to the NEP, a child should be 6 years old after completing three years of early childhood education to be eligible for admission into Class 1.
+
+The Union Education Ministry has been reminding states to align their age requirements with the NEP, which leads to media attention whenever the issue arises. Last year, when Kendriya Vidyalayas increased the age of admission to Class 1 to align with the NEP recommendations, some parents challenged the decision in court. The Delhi High Court ultimately dismissed their plea, and this decision was upheld by the Supreme Court.
+
+In terms of the legal framework, the Right to Education (RTE) Act guarantees education from the age of 6 to 14 years, meaning that a child is expected to begin elementary education (Class 1) at the age of 6 years. This age was selected based on international practices, as most countries admit children into grade one at the age of 6 or 7.
+
+Research suggests that early introduction of formal literacy lessons may not improve children's reading development and could even have negative effects. A study comparing children who started formal literacy lessons at ages 5 and 7 in New Zealand found no difference in reading ability by the age of 11, but the group that started later had more positive attitudes toward reading and better text comprehension.
+
+Across the world, the standard age for starting primary school is 6 in East Asia and most European countries. However, the USA and the UK stand out as outliers, where children generally start school at 5. Scandinavian countries start at 7 due to their universal child care system, which differs from the patchy and expensive childcare provision in England and the USA.
+
+The article highlights the ongoing debate about the appropriate age for children to begin formal education and the need to align with national policies.
+
 Wed, 15 Nov 2023 07:50:55 +0000
 ### [A tunnel-in-a-tunnel: How the new method to rescue trapped workers in Uttarakhand will work](https://indianexpress.com/article/explained/uttarakhand-tunnel-collapse-trapped-workers-rescue-plan-explained-9027528/)
 

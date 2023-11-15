@@ -1,3 +1,69 @@
+2023-11-15T21:15:45+05:30
+### [Insufficient Progress in Limiting Temperature Rise and Tackling Climate Change: UN Report](https://thewire.in/environment/insufficient-progress-in-limiting-temperature-rise-and-tackling-climate-change-says-un-report)
+
+No Article text 
+The report, which was released on November 14, shows that while emissions are no longer increasing after 2030 when compared to 2019 levels, they are still not declining as rapidly as they should.
+
+2023-11-15T20:45:24+05:30
+### [In ‘Interest of Gender Neutrality’, Parl Panel Recommends Keeping Section 377, Criminalising Adultery](https://thewire.in/government/parliamentary-panel-gender-neutrality-section-377-criminalising-adultery)
+
+No Article text 
+The Parliamentary Standing Committee on Home Affairs, in its report that was adopted last week, has given its recommendations for the Bharatiya Nyaya Sanhita Bill that seeks to replace the Indian Penal Code.
+
+2023-11-15T20:44:23+05:30
+### [Bihar Caste Survey: The Who’s Who in the Data | Gorkan](https://thewire.in/caste/bihar-caste-survey-the-whos-who-in-the-data-gorkan)
+
+No Article text 
+Here, we are talking about the extinction of a caste.
+
+2023-11-15T20:20:29+05:30
+### [Rwanda Migration Plan ‘Unlawful,’ UK Top Court Rules](https://thewire.in/world/rwanda-migration-plan-unlawful-uk-top-court-rules)
+
+No Article text 
+The British government's plan to send asylum seekers who arrive by irregular means to Rwanda is not lawful, the UK Supreme Court says. The government says it "takes issue" with the ruling.
+
+2023-11-15T20:05:23+05:30
+### [Explainer: As Xi-Biden Meet After a Year, Both Sides Play Nice, but Expectations Are Low](https://thewire.in/diplomacy/explainer-as-xi-biden-meet-after-a-year-both-sides-play-nice-but-expectations-are-low)
+
+No Article text 
+The US and China are the world’s two largest economies, but the APEC summit in San Francisco will be the first time that their leaders would be talking to each other in over a year.
+
+2023-11-15T20:00:25+05:30
+### [Photo Essay: Dalits, Adivasis in Odisha's Tijimali Pushback Against Vedanta's Mining Bid](https://thewire.in/rights/photo-essay-dalits-adivasis-in-odishas-tijimali-fight-back-vedantas-mining-bid)
+
+No Article text 
+People are determined to protect Tijimali from Vedanta’s mining not because they are dependent on it for livelihoods, but because it is deeply intertwined with their knowledge, identity and dignity.
+
+2023-11-15T19:30:33+05:30
+### [Myanmar Rebels Claim Entire Battalion Comprising 100+ Soldiers Has Surrendered](https://thewire.in/world/entire-myanmar-army-battalion-surrenders-rebel-group-claims)
+
+No Article text 
+Myanmar's military has faced an offensive by an alliance of three rebel groups since October 27 and has lost control of some towns in the country's northern region.
+
+2023-11-15T19:15:49+05:30
+### [Telangana Polls: Congress Leader Madhu Yaskhi’s Residence Raided at Midnight](https://thewire.in/politics/telangana-polls-congress-leader-madhu-yaskhis-residence-raided-at-midnight)
+
+No Article text 
+Madhu Yaskhi Goud, the LB Nagar Congress candidate, has alleged that the police raid is politically motivated, and done at the instance of sitting MLA Sudhir Reddy of BRS.
+
+2023-11-15T19:00:04+05:30
+### [Banning Eight ‘Meitei’ Groups Signals Many Shifts In and Around Manipur](https://thewire.in/government/banning-nine-meitei-groups-signals-many-shifts-in-and-around-manipur)
+
+No Article text 
+There is much to be read in how the Centre has chosen to target eight ‘Meitei’ armed groups for a ban. The border state has been left to fester since May. The war in neighbouring Myanmar has complicated the ‘double-engine’ government’s task.
+
+2023-11-15T18:30:21+05:30
+### ['Mahua Moitra’s Threatened Exit From Parliament Will Create Void in the Discourse of Crucial Issues'](https://thewire.in/politics/mahua-moitras-threatened-exit-from-parliament-will-create-void-in-the-discourse-of-crucial-issues)
+
+No Article text 
+A group of over 120 former civil servants, human rights activists, academicians and activists have argued that the allegations against the MP should undergo parliamentary and judicial scrutiny before any expulsion.
+
+2023-11-15T18:12:12+05:30
+### [Israel's War on Gaza Affirms the Collapse of Liberal World Order](https://thewire.in/world/israels-war-on-gaza-affirms-the-collapse-of-liberal-world-order)
+
+No Article text 
+The distinction between Hamas and Gaza Palestinians has been elided to justify this collective punishment. The fact that Hamas is the elected government in Gaza is being marshaled as the rationale for the collective punishment of Gaza Palestinians is absurd.
+
 2023-11-15T17:47:10+05:30
 ### [As EC Show-Causes Priyanka Gandhi, Arvind Kejriwal, Questions on Fairness](https://thewire.in/politics/as-ec-show-causes-priyanka-gandhi-arvind-kejriwal-questions-on-fairness)
 

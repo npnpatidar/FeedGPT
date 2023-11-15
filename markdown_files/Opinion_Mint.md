@@ -42,8 +42,7 @@ Seasonal smog in Delhi is a classic tragedy of the commons: It’s everybody’s
 Wed, 15 Nov 2023 07:45:03 +0530
 ### [Brazil has digital public infrastructure that India could learn from](https://www.livemint.com/opinion/online-views/brazil-has-digital-public-infrastructure-that-india-could-learn-from-11699970706015.html)
 
-Article found but Couldn't summarize 
-Brazilians are keen to learn from India’s DPI success but we could also pick up a thing or two from their UPI and account aggregator equivalents. As the next G20 President, Brazil is well placed to build on India's DPI advocacy.
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.The author visited Brazil to speak at Brazil Innovation Week 2023 and discuss India's digital public infrastructure (DPI) as a model for data governance. However, the author was surprised to discover that Brazil had advanced digital governance practices in certain areas that India could learn from. Brazil's focus on developing domestic IT services, rather than outsourcing like India, has resulted in robust systems for public administration. The article highlights Brazil's population-scale fast payment system called Pix, which is comparable to India's UPI, and Brazil's open finance system that facilitates consent-based data sharing. With Brazil assuming the presidency of the G20, the author suggests that Brazil can build upon India's efforts in promoting DPI and demonstrate its various applications in transforming public administration through digital systems. The article emphasizes the importance of Brazil's role in advancing DPI globally within the next 12 months.
 
 Tue, 14 Nov 2023 18:13:09 +0530
 ### [The job market slowdown is getting hard to ignore](https://www.livemint.com/opinion/online-views/the-job-market-slowdown-is-getting-hard-to-ignore-11699965165083.html)
