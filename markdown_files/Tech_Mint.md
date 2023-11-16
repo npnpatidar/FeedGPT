@@ -1,3 +1,41 @@
+Thu, 16 Nov 2023 18:00:15 +0530
+### [Spotify expands AI integration with Google Cloud for personalised podcast and audiobook suggestions](https://www.livemint.com/technology/spotify-expands-ai-integration-with-google-cloud-for-personalised-podcast-and-audiobook-suggestions-11700137391659.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Spotify has expanded its collaboration with Google Cloud to improve the identification of users' listening patterns in podcasts and audiobooks. This initiative aims to offer personalized recommendations based on individual preferences. Spotify is utilizing large language models (LLMs), such as OpenAI's ChatGPT and Google Bard, which are trained on extensive datasets to generate text and other types of content. The company has been an early adopter of AI and is now extending LLMs to its non-music content. Through this collaboration, Spotify is also exploring the use of LLMs to enhance user safety and detect potentially harmful content. Additionally, Spotify has introduced a new auto-generated transcripts feature for podcasts, allowing users to read along while listening. The feature will be available for both free and premium users on the Spotify app.
+
+Thu, 16 Nov 2023 17:32:14 +0530
+### [32-inch smart TV for budget conscious buyers: Top 8 models to consider](https://www.livemint.com/technology/gadgets/32inch-smart-tv-for-budget-conscious-buyers-top-8-models-to-consider-11700121565245.html)
+
+Article found but Couldn't summarize 
+A 32-inch smart TV is compact and an excellent choice for people looking to elevate their viewing experience in a budget. Check out the best picks to choose from and bring home a new TV.
+
+Thu, 16 Nov 2023 16:48:54 +0530
+### [Oil filled radiator better than normal room heater? Check out top 8 picks](https://www.livemint.com/technology/gadgets/oil-filled-radiator-better-than-normal-room-heater-check-out-top-8-picks-11700114322062.html)
+
+Article found but Couldn't summarize 
+Oil filled radiator can be the ultimate solution for all your winter troubles. Check out the expertly curated list of the best 8 picks for oil filled radiators and bring home one for your family.
+
+Thu, 16 Nov 2023 16:48:13 +0530
+### [Betting through eGaming using VPNs remains a challenge in restricted states: Expert](https://www.livemint.com/technology/tech-news/betting-through-egaming-using-vpns-remains-a-challenge-in-restricted-states-expert-11700131072052.html)
+
+Article found but Couldn't summarize 
+Chance-based games still remain banned in many states, including Sikkim, Assam, Telangana, Arunachal Pradesh, and Tamil Nadu.
+
+Thu, 16 Nov 2023 16:38:44 +0530
+### [GTA 6 could redefine gaming with enhanced NPC interactions and AI influenced gameplay: Report](https://www.livemint.com/technology/tech-news/gta-6-could-redefine-gaming-with-enhanced-npc-interactions-and-ai-influenced-gameplay-report-11700132055874.html)
+
+Rockstar Games has announced that the trailer for GTA 6 will be released next month, coinciding with the 25th anniversary of Rockstar Games. Take-Two Interactive CEO, Strauss Zelnick, believes that generative AI could improve interactions with non-playable characters (NPCs) in the game. It is speculated that GTA 6 will feature enhanced NPC interactions, with NPCs engaging in conversations and following daily routines. The game may also incorporate AI to influence the reactions of other players and improve traffic flow. The leaked information suggests that GTA 6 will have a diverse array of weapons and tools, including an auto-dialer, pool cue, golf clubs, a crowbar, and a cut-off tool. The official trailer and release of the game are expected to reveal more details.
+
+Thu, 16 Nov 2023 15:39:19 +0530
+### [India PC shipments surge to record 4.5 mn in Jul-Sep on potential import ban: IDC](https://www.livemint.com/technology/tech-news/india-pc-shipments-surge-to-record-4-5-mn-in-jul-sep-on-potential-import-ban-idc-11700127900038.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.India's PC shipments reached a record high of 4.5 million units in the July-September quarter of 2023, marking a 14% increase compared to the previous year. The unexpected surge was driven by brands increasing supplies in anticipation of festival season sales and the government's temporary import ban in August. Notebooks saw a growth of 13.1% while desktops increased by 19.3%. The consumer sector experienced a substantial boost of 26.3% compared to the previous year. The education sector, particularly due to the Gujarat education project, saw notable growth of 117.5%. HP Inc. dominated the market with a 29.4% share, followed by Lenovo, Dell, Asus, and Acer.
+
+Thu, 16 Nov 2023 14:57:41 +0530
+### [Apple extends Emergency SOS via Satellite for iPhone 14 users, expands to iPhone 15 models worldwide](https://www.livemint.com/technology/tech-news/apple-extends-emergency-sos-via-satellite-for-iphone-14-users-expands-to-iphone-15-models-worldwide-11700126521404.html)
+
+Apple has extended the free access to its emergency SOS via satellite service for existing iPhone 14 users for an additional year. This technology, initially launched on all iPhone 14 models in the US and Canada, is now available on the iPhone 15 lineup in 16 countries and regions. The service allows users to text with emergency services even when outside cellular and Wi-Fi coverage. For iPhone 14 users who activated their devices before November 15, 2023, the free trial of emergency SOS via satellite is extended. Apple has also introduced roadside assistance via satellite, connecting users to AAA in the US if they encounter car trouble outside of cellular and Wi-Fi coverage. This service is included for free for two years for users of iPhone 14 and iPhone 15 models. Additionally, other safety features are included, such as the Find My app, crash detection, check-in, and Medical ID. These features demonstrate Apple's commitment to user safety.
+
 Thu, 16 Nov 2023 10:40:27 +0530
 ### [Garena Free Fire Max redeem codes for Nov 16, 2023: Win free exciting rewards](https://www.livemint.com/technology/tech-news/garena-free-fire-max-redeem-codes-for-nov-16-2023-win-free-exciting-rewards-11700111271175.html)
 

@@ -1,3 +1,45 @@
+Thu, 16 Nov 2023 17:35:33 +0530
+### [In graphics | How anti-smog guns can help fight Delhi's air pollution](https://www.firstpost.com/explainers/in-graphics-how-anti-smog-guns-can-help-fight-delhis-air-pollution-13394382.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Delhi and its neighboring regions continue to experience "very poor" air quality with an overall air quality index (AQI) of 386. The Central Pollution Control Board reported AQI levels of 442 in Bawana, 418 in RK Puram, 418 in Jahangirpuri, 441 in Dwarka, 412 in Anand Vihar, 412 in ITO, and 401 near the Delhi airport. The city is currently implementing the graded response action plan (GRAP) to control air pollution. Measures such as a ban on firecrackers, construction activities, and pollution-emitting trucks have been put in place. The government has also instructed agencies to use anti-smog guns to reduce dust emissions at construction sites and other strategic locations. Environment Minister Gopal Rai announced a campaign to sprinkling water on the roads of Delhi to further reduce pollution levels. Additionally, anti-smog guns have been placed in pollution hotspots. The article raises questions about the purpose and effectiveness of anti-smog guns in reducing air pollution.
+
+Thu, 16 Nov 2023 17:34:49 +0530
+### [What is APEC and why was India’s membership bid rejected?](https://www.firstpost.com/explainers/what-is-apec-and-why-was-indias-membership-bid-rejected-13394582.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses India's participation in the Asia-Pacific Economic Cooperation (APEC) summit in San Francisco. APEC is a grouping of economies around the Pacific Ocean that aims to promote trade, investment, and economic development in the region. While India is not a member of APEC, Union Minister for Commerce and Industry Piyush Goyal attended the summit. The article explores why India is not a member of APEC, citing reservations about India's "protectionist instincts" and its economic reforms. However, becoming an APEC member could benefit India by promoting closer economic relations, facilitating trade and investment flows, and opening market access. The article also mentions Goyal's participation in the Indo-Pacific Economic Framework (IPEF) ministerial meeting and highlights the meeting between US President Joe Biden and Chinese President Xi Jinping during the summit.
+
+Thu, 16 Nov 2023 16:28:17 +0530
+### [What's fentanyl, the opioid at the centre of Biden-Xi talks, which led to 70,000 deaths in US?](https://www.firstpost.com/explainers/whats-fentanyl-the-opioid-at-the-centre-of-biden-xi-talks-which-led-to-70000-deaths-in-us-13394002.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.US President Joe Biden announced that China has agreed to take action to curb the influx of fentanyl, a synthetic opioid responsible for over 70,000 deaths in the previous year. During a meeting with Chinese President Xi Jinping at the Asia-Pacific Economic Cooperation conference in San Francisco, they discussed various topics including high-level military communication, artificial intelligence, and Taiwan. Fentanyl is a highly potent opioid that is 100 times stronger than morphine and 50 times stronger than heroin. It is commonly used for pain relief and can be prescribed as pills, patches, or injections. Illegally produced fentanyl, often sold as fake prescription medications, has played a major role in overdose deaths in the US. China has been a significant source of fentanyl, but the government banned its production and sale in 2019. However, Chinese vendors have adapted by using online networks and sophisticated shipping methods to continue selling fentanyl analogues and precursor chemicals. Following the meeting, China agreed to crack down on companies producing fentanyl precursors. The agreement aims to combat the global illicit drug trade and establish a working group for ongoing coordination on counter-narcotics issues.
+
+Thu, 16 Nov 2023 16:25:30 +0530
+### [Will pandas return to the US following Xi Jinping and Joe Biden's talks?](https://www.firstpost.com/explainers/will-pandas-return-to-the-us-following-xi-jinping-and-joe-bidens-talks-13393322.html)
+
+During a meeting between US President Joe Biden and Chinese President Xi Jinping at the APEC summit, the two leaders discussed various matters, including the restoration of military communications and the reduction of fentanyl manufacturing. In addition to these topics, President Xi also mentioned China's plan to send new pandas to the United States, referring to them as "envoys of friendship." Pandas have long been used as a diplomatic tool by China to strengthen relationships and foster goodwill. The gesture of sending pandas to the US is seen as a symbol of the friendship between the two countries. The article traces the history of panda diplomacy, starting from when China gifted a pair of pandas to the National Zoo in Washington in 1972. It also highlights how panda exchanges with other countries have coincided with trade agreements and partnerships. The number of pandas in the United States has declined over the years due to worsening US-China relations, but efforts to renew the panda conservation program with the National Zoo are underway.
+
+Thu, 16 Nov 2023 15:02:47 +0530
+### [What's causing cricketers to cramp during World Cup matches?](https://www.firstpost.com/explainers/icc-world-cup-cricketers-shubman-gill-glenn-maxwell-cramps-matches-causes-prevention-treatment-13392872.html)
+
+Hmm, I am notIndia defeated New Zealand by 70 runs in the ICC Men's Cricket World Cup 2023 semi-final match, securing a spot in the final. India set a huge target of 397 runs, with Virat Kohli and Shreyas Iyer scoring centuries, and Shubman Gill contributing 80 runs before retiring hurt due to cramps. Mohammed Shami and the Indian bowlers performed well, dismissing New Zealand for 327. Former Australian pacer Simon O'Donnell criticized New Zealand for helping Kohli when he experienced cramps during his innings. Cramping has become a common occurrence in the World Cup, with players like Glenn Maxwell also suffering from it. The article explores the causes of cramps, including dehydration, weather conditions, neuromuscular fatigue, and reduced blood flow. Experts suggest preventive measures such as staying hydrated, stretching properly, massage, and taking magnesium or calcium supplements. Some athletes have found drinking pickle juice helpful in preventing cramps.
+
+Thu, 16 Nov 2023 15:02:47 +0530
+### [Uttarakhand tunnel collapse: How safe are trapped workers, as rescue op enters Day 5?](https://www.firstpost.com/explainers/how-safe-are-workers-trapped-inside-uttarkashi-tunnel-as-rescue-op-enters-day-5-13392242.html)
+
+Article found but Couldn't summarize 
+Uttarakhand tunnel collapse: How safe are trapped workers, as rescue op enters Day 5?
+
+Thu, 16 Nov 2023 14:43:51 +0530
+### [Personal or political? What’s the reason behind Sonia Gandhi’s temporary shift to Rajasthan?](https://www.firstpost.com/explainers/sonia-gandhi-jaipur-visit-rajasthan-assembly-election-delhi-air-pollution-13393242.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Senior Congress leader Sonia Gandhi is currently in Jaipur, Rajasthan for a personal visit. The Congress party has stated that she has shifted base to avoid the deteriorating air quality in Delhi. However, her visit carries political implications as Rajasthan is going to polls on 25 November. The state has a tradition of ousting the incumbent government since the Assembly elections in 1993. Sonia Gandhi's visit is seen as an attempt to fortify Congress' prospects in the state, especially considering their recent decline in opinion polls. Her presence is expected to energize the party cadre and signal to Chief Minister Ashok Gehlot and former Deputy Sachin Pilot to give their best. In return, Rahul and Priyanka Gandhi will join Sonia for roadshows and public meetings to attract voters. Overall, Sonia's visit aims to boost Congress' chances in Rajasthan, with the party not wanting to be blamed for not trying hard to retain the state.
+
+Thu, 16 Nov 2023 13:12:42 +0530
+### [Al-Shifa Hospital raid: What has Israel military found? Are patients safe?](https://www.firstpost.com/explainers/al-shifa-hospital-raid-what-has-israel-military-found-are-patients-safe-13392912.html)
+
+Article found but Couldn't summarize 
+Al-Shifa Hospital raid: What has Israel military found? Are patients safe?
+
 Thu, 16 Nov 2023 11:10:13 +0530
 ### [Why are Yemen’s Houthis attacking Israel? What threat do they pose in the war in Gaza?](https://www.firstpost.com/explainers/why-are-yemens-houthis-attacking-israel-what-threat-do-they-pose-in-the-war-in-gaza-13392092.html)
 

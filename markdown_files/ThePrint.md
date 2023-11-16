@@ -1,3 +1,104 @@
+Thu, 16 Nov 2023 12:47:35 +0000
+### [Delhi’s tech education institutions should lead in research, innovation: Atishi](https://theprint.in/india/delhis-tech-education-institutions-should-lead-in-research-innovation-atishi/1847483/)
+
+Delhi's education minister, Atishi, emphasized the importance of research and innovation in technical education institutions during the inauguration of two new academic blocks at Delhi Technological University. The blocks, which offer state-of-the-art facilities, aim to provide students with the necessary resources to shape their careers. The Kejriwal-led government has made promoting technical education a priority, resulting in an increase in the number of seats at the university from 6,000 to over 15,000 in the past eight years. The government is committed to ensuring students have access to world-class infrastructure and funding. The new academic blocks at DTU include modern labs, lecture rooms, faculty rooms, and conference rooms, accommodating over 5,200 students. They are also eco-friendly, featuring rooftop solar panels and a rainwater harvesting system.
+
+Thu, 16 Nov 2023 12:47:32 +0000
+### [China’s Alibaba scraps cloud unit spin-off citing US chip curbs](https://theprint.in/tech/chinas-alibaba-scraps-cloud-unit-spin-off-citing-us-chip-curbs/1847482/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Chinese e-commerce giant Alibaba has scrapped plans to spin off its cloud unit due to uncertainties created by U.S. export curbs on chips used in artificial intelligence applications. The company also put on hold plans for an initial public offering of its Freshippo groceries business. Shares of Alibaba were down 8.4% in premarket trading. Alibaba's second-quarter revenue was in line with analyst expectations. The company's ex-CEO Daniel Zhang abruptly quit two months after focusing on cloud computing, and Eddie Wu was appointed as CEO of both Alibaba and the cloud unit. Ma's family trust plans to sell 10 million American depository shares of Alibaba for about $871 million.
+
+Thu, 16 Nov 2023 12:47:16 +0000
+### [Cyberattack on ICBC’s US unit to not have material impact on parent bank – Fitch](https://theprint.in/tech/cyberattack-on-icbcs-us-unit-to-not-have-material-impact-on-parent-bank-fitch/1847480/)
+
+Fitch, a ratings agency, stated that the recent cyberattack on ICBC Financial Services will not significantly affect its Chinese parent. However, this incident highlights the increasing threat to global payment networks from cyberattacks. The attack on the US arm of Industrial and Commercial Bank of China disrupted trades and had an impact on the US treasuries market. Fitch does not expect the incident to immediately impact the viability rating of the parent bank or its issuer default rating, as it anticipates support from the Chinese sovereign. The US unit primarily offers global clearing, execution, and financing services to institutional clients.
+
+Thu, 16 Nov 2023 12:47:06 +0000
+### [Key terror launch commander killed in Uri infiltration bid](https://theprint.in/india/key-terror-launch-commander-killed-in-uri-infiltration-bid/1847478/)
+
+In an anti-infiltration operation in the Uri sector, security forces have killed key launch commander Bashir Ahmed Malik, dealing a major blow to terror infrastructure and sympathizers in Pakistan-occupied Kashmir. Malik, who had been active for 30 years, was responsible for enabling the infiltration of terrorists and causing the deaths of Indian citizens. This joint operation, codenamed Op Kali, by the army and Jammu and Kashmir police has strengthened the line of control security grid. Two terrorists were neutralized, along with the recovery of weapons and other items. The operation was launched based on specific intelligence, and it was the second infiltration bid in the area within the last few days. ThePrint takes no responsibility for the content of this report.
+
+Thu, 16 Nov 2023 12:46:40 +0000
+### [Dollar rises as data suggests more Fed patience on rate cuts](https://theprint.in/economy/dollar-rises-as-data-suggests-more-fed-patience-on-rate-cuts/1847477/)
+
+Article found but Couldn't summarize 
+By Amanda Cooper LONDON (Reuters) - The dollar nudged higher on Thursday after a volatile two days that saw sharp declines followed by a rebound as traders took incoming economic data as signalling
+
+Thu, 16 Nov 2023 12:46:36 +0000
+### [Delhi Waqf Board recruitment case: Court extends accused’s ED custody](https://theprint.in/india/delhi-waqf-board-recruitment-case-court-extends-accuseds-ed-custody/1847476/)
+
+A Delhi court has extended the custody of three individuals involved in a case related to alleged irregularities in the Delhi Waqf Board recruitment, which also involves AAP MLA Amanatullah Khan. The accused were arrested by the Central probe agency, and their custody has been extended by one day. The ED had sought six more days' custody. The FIR alleges that Khan, who was the chairman of the Delhi Waqf Board, illegally recruited 32 people in violation of norms and government guidelines.
+
+Thu, 16 Nov 2023 12:46:21 +0000
+### [Factbox-Dutch PM candidates include Turkish immigrant, ‘radical centrist’, EU veteran](https://theprint.in/world/factbox-dutch-pm-candidates-include-turkish-immigrant-radical-centrist-eu-veteran/1847474/)
+
+As GPT-3.5, I can provide a summary of the article you shared. Dutch voters will be going to the polls on November 22 to choose a new government in a parliamentary election. The three major groupings competing for the next prime minister are the People's Party for Freedom and Democracy (VVD), the newly formed "New Social Contract" (NSC) Party, and the Labour and Green Left (PvdA/GL) parties running on a single ticket. The three candidates most likely to succeed outgoing Prime Minister Mark Rutte are Dilan Yesilgoz, leader of the conservative VVD party; Pieter Omtzigt, leader of the centre-right NSC party; and Frans Timmermans, leader of the combined Labour and Green Left ticket. Each candidate brings their own unique background and policy positions to the election.
+
+Thu, 16 Nov 2023 12:46:18 +0000
+### [Smog towers not practical solution to air pollution problem: Delhi pollution control body](https://theprint.in/india/smog-towers-not-practical-solution-to-air-pollution-problem-delhi-pollution-control-body/1847472/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The Delhi Pollution Control Committee (DPCC) has reported to the National Green Tribunal (NGT) that two experimental smog towers in the city have not been effective in reducing air pollution. The DPCC stated that the operation of these costly air purifiers lacks merit and suggested that the structures be repurposed as a museum for the dissemination of technical information on air pollution control. The report highlighted that the smog tower at Connaught Place, which has been operational for two years at a cost of Rs 25 crore, can only mitigate air pollution by up to 17% within a 100-meter radius. The DPCC argued that considering Delhi's large area, the city would require more than 47,000 such towers, making the cost and maintenance unjustified. The central government also expressed that smog towers are not a solution to the air pollution problem in Delhi-NCR and is against installing more of these air purifiers. The two smog towers were installed in 2021 following directions from the Supreme Court.
+
+Thu, 16 Nov 2023 12:46:07 +0000
+### [Without Rutte, Dutch election centres on cost-of-living, climate and immigration](https://theprint.in/world/without-rutte-dutch-election-centres-on-cost-of-living-climate-and-immigration/1847471/)
+
+The upcoming Dutch election will not feature Prime Minister Mark Rutte's name on the ballot for the first time in a decade. Voters are primarily concerned with the economy, climate change, and reducing immigration. The election is seen as a test of whether voters are willing to continue funding expensive policies such as offshore wind farms. Despite positive statistics on unemployment, inflation, and national debt, there are underlying concerns about the economy and resentment towards Rutte. Prominent candidates include Rutte's protege, a reformist, and a traditional opponent on the left. Other important issues include plans to cut the number of livestock farms and the country's high electricity bills. The election outcome is expected to result in a new center-right coalition with no major policy shift.
+
+Thu, 16 Nov 2023 12:46:02 +0000
+### [Low water storage level: Latur collector asks agencies to repair tankers, hand pumps](https://theprint.in/india/low-water-storage-level-latur-collector-asks-agencies-to-repair-tankers-hand-pumps/1847469/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Water storage in Latur, Maharashtra is at just 28.52% in 171 projects, leading to the need for repairs of hand pumps and water tankers, according to an official. Latur Collector Varsha Thakur-Ghuge has ordered the repair of tankers and hand pumps and the protection of reserved drinking water.The water storage levels in Latur, Maharashtra are currently at just 28.52%, leading to the need for repairs and preparedness of hand pumps and water tankers to combat water scarcity. Latur Collector Varsha Thakur-Ghuge has issued an order to repair these facilities and has also demarcated the use of water in these projects for irrigation and drinking purposes. She emphasized the importance of guarding the reserved water for drinking purposes.
+
+Thu, 16 Nov 2023 12:45:52 +0000
+### [Spain’s Sanchez secures another term, ending four-month deadlock](https://theprint.in/world/spains-sanchez-secures-another-term-ending-four-month-deadlock/1847468/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Spain's lower house of parliament has voted to make Pedro Sanchez prime minister for another term, breaking the deadlock following the inconclusive general election in July. Sanchez's Spanish Socialist Workers' Party (PSOE) reached separate deals with various regional parties to secure their support, including a controversial bill on amnesty for Catalan separatists, which has sparked protests across the country. The amnesty bill would exonerate politicians and activists involved in the Catalonia separation attempt in 2017. The vote saw 179 in favor and 171 against, with Sanchez's bid receiving support from various parties including leftist allies and pro-independence parties. However, the Conservative People's Party, far-right Vox, and People's Union of Navarre voted against Sanchez. Alberto Nunez Feijoo, leader of the People's Party, accused Sanchez of undermining the rule of law due to the amnesty bill and called for mass protests. The European Parliament has also approved a debate on whether the amnesty threatens judicial independence in Spain.
+
+Thu, 16 Nov 2023 12:45:46 +0000
+### [They seem to have set up tours and travels dept: Raj’s dig at BJP over Ayodhya visit promise](https://theprint.in/india/they-seem-to-have-set-up-tours-and-travels-dept-rajs-dig-at-bjp-over-ayodhya-visit-promise/1847466/)
+
+MNS chief Raj Thackeray criticized the BJP for promising to arrange trips to Ayodhya for the public to visit the Ram temple. He accused the ruling party of setting up a "tours and travels department" and stated that elections should be based on the work done, not promises of temple visits. Thackeray also questioned the timing of the Maratha quota issue and suggested that there might be someone else behind activist Manoj Jarange's protest. He accused the ruling parties of diverting voters' attention and emphasized the importance of choosing the right candidates. Additionally, Thackeray mentioned his party's opposition to toll collection on roads and expressed disappointment with the state government's failure to implement the Supreme Court's order on Marathi signboards.
+
+Thu, 16 Nov 2023 12:45:38 +0000
+### [Finland to close four Russia border crossings to stop asylum seekers](https://theprint.in/world/finland-to-close-four-russia-border-crossings-to-stop-asylum-seekers/1847464/)
+
+Finland will close four of its nine border crossing points with Russia in an attempt to reduce the flow of asylum seekers to the country. The move comes after Finland's president suggested that the increase in asylum applicants arriving from Russia was in retaliation for the country's defense cooperation with the United States. The four crossings that will be closed are in the southeast of Finland, which are normally the busiest points of travel between the two countries. Asylum seekers will now only be allowed to hand in their applications at two northern border crossings. If the asylum arrivals end, Finland has said it will reverse the closures.
+
+Thu, 16 Nov 2023 12:45:28 +0000
+### [Marriage registrars welcome Bengal govt’s move to make biometrics must for weddings](https://theprint.in/india/marriage-registrars-welcome-bengal-govts-move-to-make-biometrics-must-for-weddings/1847462/)
+
+Marriage registrars in West Bengal have welcomed the state government's decision to make biometrics mandatory for registration of weddings, saying it will help prevent fake marriages and identity duplication. However, they have expressed concern about the technical glitches in the portal meant for the registration process. The new system requires the fingerprints of the couple and their three witnesses. While the registrars appreciate the move, they urge the government to rectify the technical issues before implementing biometrics. The amendment applies only to marriages under the Hindu Marriage Act of 1954 and the Special Marriage Act of 1954. So far, no complaints about the portal's glitches have been received.
+
+Thu, 16 Nov 2023 12:45:23 +0000
+### [UN experts point to evidence of ‘genocidal incitement’ against Palestinians](https://theprint.in/world/un-experts-point-to-evidence-of-genocidal-incitement-against-palestinians/1847461/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.A group of United Nations experts has accused Israel of committing "grave violations" and "genocidal incitement" against the Palestinian people. The experts expressed deep concern about the failure of governments to achieve an immediate ceasefire and prevent genocide. They emphasized that the Palestinian people were at grave risk of genocide. The report was generated by Reuters, and The Print bears no responsibility for its content.A group of experts from the United Nations stated that there is growing evidence of genocidal incitement against the Palestinian people, with grave violations committed by Israel. The experts expressed concern over the failure of governments to achieve an immediate ceasefire and the support of certain governments for Israel's strategy against Gaza's population. Earlier warnings by UN experts had highlighted the Palestinian people's grave risk of genocide. This summary is based on an article from Reuters.
+
+Thu, 16 Nov 2023 12:45:04 +0000
+### [Russian court jails artist Skochilenko for seven years over anti-war protest](https://theprint.in/world/russian-court-jails-artist-skochilenko-for-seven-years-over-anti-war-protest/1847459/)
+
+Russian artist and musician Alexandra Skochilenko has been sentenced to seven years in a prison colony after being found guilty of knowingly spreading fake news about the Russian army's behavior in Ukraine. Skochilenko, 33, replaced price tags in a supermarket in St Petersburg with small pieces of paper calling for an end to Russia's war in Ukraine and criticizing the authorities. She denied the charge of spreading false information about the army.Hmm, I am not sure. Email support@chatbase.co for more info.
+
+Thu, 16 Nov 2023 12:45:02 +0000
+### [Mrinal Sen tribute film directed by Anjan Dutt to be screened in 29th KIFF](https://theprint.in/feature/mrinal-sen-tribute-film-directed-by-anjan-dutt-to-be-screened-in-29th-kiff/1847458/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.The 29th Kolkata International Film Festival, starting on December 5, will screen the movie "Chalchitra Ekhon" directed by Anjan Dutt as a tribute to filmmaker Mrinal Sen on his 100th birth anniversary. The film is based on Dutt's real-life experiences with Sen, who was his mentor and had cast him in the film "Chalchitra" in 1981. The festival will also have a tribute section for Sen, featuring restored versions of his classic films. Mrinal Sen, known for exploring social and political issues in his films, passed away in 2018. Dutt produced "Chalchitra Ekhon" and wanted to depict their unique relationship in the movie.
+
+Thu, 16 Nov 2023 12:34:21 +0000
+### [J-K Police attaches orchard land under UAPA in Pulwama](https://theprint.in/india/j-k-police-attaches-orchard-land-under-uapa-in-pulwama/1847452/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The Special Investigation Unit of Jammu and Kashmir Police has attached nearly one acre of orchard land in Pulwama district under the Unlawful Activities (Prevention) Act. This action was taken after explosives were found on the land earlier this year. A notice has been installed outside the orchard, informing the public about the attachment and prohibiting the owner from selling, transferring, or leasing the property. The authorities also warned the public against purchasing the land. This report is generated by PTI news service.
+
+Thu, 16 Nov 2023 12:34:03 +0000
+### [Businessman, YouTuber booked on BJP MLA’s complaint in UP’s Bhadohi](https://theprint.in/india/businessman-youtuber-booked-on-bjp-mlas-complaint-in-ups-bhadohi/1847449/)
+
+The police in Bhadohi, Uttar Pradesh have registered a case against a local businessman and a YouTuber for alleged criminal conspiracy, based on a complaint by BJP MLA Dinanath Bhaskar. The duo has also been booked under the SC/ST Act, as the MLA accused them of targeting him because he belongs to the Dalit community. Bhaskar claimed that businessman Vineet Jaiswal falsely accused him of accepting Rs 23 lakh for a ticket in the urban local body elections. Additionally, the MLA accused YouTuber Vipul Pandey of publishing biased news reports on the issue. The allegations were first made by Jaiswal in a letter shared with local journalists in May, but the MLA did not explain why he filed a complaint six months later. The police have registered an FIR and are investigating the matter.
+
+Thu, 16 Nov 2023 12:33:41 +0000
+### [India urges Canada to respect Vienna Convention amid reports of disturbances at Indian events](https://theprint.in/world/india-urges-canada-to-respect-vienna-convention-amid-reports-of-disturbances-at-indian-events/1847448/)
+
+India has called on Canada to respect the Vienna Convention on diplomatic relations after reports of disturbances caused by Khalistani elements at an Indian High Commission consular camp in Canada. The Indian Ministry of External Affairs (MEA) spokesperson, Arindam Bagchi, clarified that there were inaccurate social media reports regarding the incidents. Bagchi emphasized that consular camps are regularly organized by the Indian High Commission and consulates in Canada, and despite attempts by radical elements to cause trouble, the recent camp near Vancouver was held successfully. He also mentioned that no complaint had been received regarding alleged attacks on the Indian community during Diwali celebrations in Canada. The MEA spokesperson further addressed the ongoing diplomatic standoff between India and Canada, which began when Canadian Prime Minister Justin Trudeau alleged the involvement of "agents of the Indian government" in the killing of a Khalistani terrorist. India rejected these allegations, expelled a Canadian diplomat, and emphasized that Canada has not presented any evidence to support its claims. The article concludes by mentioning that Canada pulled out 41 diplomats from India and halted visa and consular services in certain consulates, while India suspended visa services to Canada but later resumed them for four categories after a security review.
+
 Thu, 16 Nov 2023 06:18:44 +0000
 ### [Resumption of bilateral military ties, Taiwan — what Biden & Xi discussed at crucial meeting in US](https://theprint.in/world/resumption-of-bilateral-military-ties-taiwan-what-biden-xi-discussed-at-crucial-meeting-in-us/1846612/)
 

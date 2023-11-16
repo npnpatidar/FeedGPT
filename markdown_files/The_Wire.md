@@ -1,3 +1,99 @@
+2023-11-16T17:54:51+05:30
+### [By Coming to the Aid of Myanmar Soldiers, India Signals Willingness to Support the Junta](https://thewire.in/diplomacy/by-coming-to-the-aid-of-myanmar-soldiers-india-signals-willingness-to-support-the-junta)
+
+No Article text 
+On November 12, India allowed 46 soldiers of the Burmese junta to enter neighbouring Mizoram. This is perhaps the first time that India has rescued soldiers of another country's army fleeing the fighting on their own soil.
+
+2023-11-16T17:10:50+05:30
+### [The World Must Wake Up to Israel's Lies](https://thewire.in/world/the-world-must-wake-up-to-israels-lies)
+
+No Article text 
+Israeli propaganda is deemed necessary by its patrons or allies to justify its massacre of the Palestinian people.
+
+2023-11-16T17:02:50+05:30
+### [Watch | ‘I’m Extremely Confident We’ll Have a Good FTA With India’: UK Deputy Foreign Secretary](https://thewire.in/video/im-extremely-confident-well-have-a-good-fta-with-india-uk-dy-foreign-secy-says)
+
+No Article text 
+Andrew Mitchell also answered questions about the alleged baggage David Cameron brings to office as foreign secretary, i.e. his China policy and allegations that he indulged in wrongful lobbying during the last few years.
+
+2023-11-16T17:00:20+05:30
+### [Chhattisgarh: Has the Mahadev App 'Scam' Paradoxically Bolstered Congress's Electoral Prospects?](https://thewire.in/politics/chhattisgarh-has-the-mahadev-app-scam-paradoxically-bolstered-congresss-electoral-prospects)
+
+No Article text 
+While the BJP has made corruption allegations against Bhupesh Baghel a major poll issue, political observers in the state, however, are of the view that there is a perception on the ground that the chief minister is being 'targeted' by the BJP.
+
+2023-11-16T16:30:22+05:30
+### [US-Based Reporters Condemn 'Israel's Killing of Journalists in Gaza'](https://thewire.in/media/us-based-journalists-condemn-israels-killing-of-journalists-in-gaza)
+
+No Article text 
+The statement of condemnation signed by 1,265 media personnel has appealed to newsrooms in the West to refrain from 'dehumanising rhetoric that has served to justify the ethnic cleansing of Palestinians'.
+
+2023-11-16T15:58:34+05:30
+### [Why Modi's Latest 'Assurance' on the SC Sub-Classification Doesn't Exude Confidence](https://thewire.in/politics/why-modis-latest-assurance-on-the-sc-sub-classification-doesnt-exude-confidence)
+
+No Article text 
+The answer to the long-pending issue is either through Centre's intervention in the ongoing judicial process or through a constitutional amendment. However, the PM chose to announce yet another committee to push the issue into cold storage at the recent MRPS meeting in Hyderabad.
+
+2023-11-16T15:19:58+05:30
+### [Infosys Announces Winners of 2023 Prizes Across Six Categories](https://thewire.in/society/infosys-science-foundation-announces-laureates-of-2023-infosys-prize)
+
+No Article text 
+The prize is given in six categories spanning the sciences, social sciences and humanities. This year's six laureates will be presented with their prizes in January 2024.
+
+2023-11-16T14:58:24+05:30
+### [Gaza Diaries: Life in a Land of Death, Through the Eyes of Mental Health Professionals](https://thewire.in/rights/gaza-diaries-mental-health-professionals)
+
+No Article text 
+'Do we leave our house that we built with blood and sweat, one brick at a time?'
+
+2023-11-16T14:32:57+05:30
+### [Israeli Forces Raid al-Shifa Hospital Complex, Communications Blackout in Gaza](https://thewire.in/world/israeli-forces-raid-al-shifa-hospital-complex-communications-blackout-in-gaza)
+
+No Article text 
+The UN has now said that there is only one hospital in northern Gaza with the capacity to accept patients.
+
+2023-11-16T14:20:27+05:30
+### [Overwhelmed by Group Chat Messages? You’re Not Alone](https://thewire.in/society/overwhelmed-by-group-chat-messages-youre-not-alone)
+
+No Article text 
+A recent survey of people in the United States and United Kingdom suggests this is a common problem, with 40% of the respondents indicating they were overwhelmed by group chats.
+
+2023-11-16T13:56:07+05:30
+### [Bihar Caste Survey: The Who’s Who in the Data | Jutt](https://thewire.in/caste/bihar-caste-survey-the-whos-who-in-the-data-jutt)
+
+No Article text 
+The culturally inclined Jutts are both Hindu and Muslim, similar to the people of the Nutt caste in the state who belong to both the communities.
+
+2023-11-16T13:52:52+05:30
+### [Four Migrant Workers from Bihar Die While Cleaning Septic Tank in Gujarat](https://thewire.in/caste/four-migrant-workers-from-bihar-die-while-cleaning-septic-tank-in-surat)
+
+No Article text 
+As many as 339 people have died while cleaning sewers and septic tanks in India in the last five years, according to government data.
+
+2023-11-16T13:01:45+05:30
+### [British Govt and Opposition’s Full-On Support for Israel is Causing Islamophobia in Great Britain](https://thewire.in/communalism/islamophobia-great-britain-israel-palestine-sunak)
+
+No Article text 
+Sacked home secretary Suella Braverman will now emerge as a leading voice of the hard right-wing.
+
+2023-11-16T12:43:57+05:30
+### [Due to Record High Oil Purchases, Russia Emerges as India's Second Largest Source of Imports](https://thewire.in/economy/russia-emerges-as-indias-second-largest-source-of-imports-as-oil-purchases-reach-record-high)
+
+No Article text 
+Russia's exports to India shot up from $22.13 billion during April-October in fiscal 2023 to $36.27 during the same period in the current financial year.
+
+2023-11-16T12:20:25+05:30
+### [UN Security Council Adopts Gaza Resolution, No Mention of Cease-Fire](https://thewire.in/world/un-security-council-adopts-gaza-resolution-no-mention-of-cease-fire)
+
+No Article text 
+The draft resolution on Wednesday watered down previous language from a "demand" for a pause in fighting to a "call."
+
+2023-11-16T12:08:49+05:30
+### [The Israeli Onslaught on Palestine Is a Boost to Indian Islamophobia](https://thewire.in/communalism/israeli-onslaught-on-palestine-is-a-boost-to-indian-islamophobia)
+
+No Article text 
+It is a dismal situation when in an academic institution an invited talk on the history of the formation of Israel, its occupation of Palestine and its designs on gas reserves is seen as promoting terrorism.
+
 2023-11-16T11:30:15+05:30
 ### [India’s Trade Deficit at Record High of $31.46 Billion, Imports Shoot Up by 12.3%](https://thewire.in/trade/indias-trade-deficit-at-record-high-of-31-46-billion-imports-shoot-up-by-12-3)
 

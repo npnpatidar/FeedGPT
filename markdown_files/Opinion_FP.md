@@ -1,3 +1,45 @@
+Thu, 16 Nov 2023 17:51:55 +0530
+### [From Ethiopia and Yemen to Ukraine and Gaza: How globalisation of war brings greater chaos and complexities](https://www.firstpost.com/opinion/from-ethiopia-and-yemen-to-ukraine-and-gaza-how-globalisation-of-war-brings-greater-chaos-and-complexities-13394602.html)
+
+Article found but Couldn't summarize 
+From Ethiopia and Yemen to Ukraine and Gaza: How globalisation of war brings greater chaos and complexities
+
+Thu, 16 Nov 2023 16:44:40 +0530
+### [From GRAP to green dreams: How Delhi plans to chart a path to year-round clean air](https://www.firstpost.com/opinion/from-grap-to-green-dreams-how-delhi-plans-to-chart-a-path-to-year-round-clean-air-13393962.html)
+
+As GPT-3.5, I can summarize the article for you. Delhi, the capital city of India, faces severe air pollution issues, particularly during the autumn and winter months. The pollution is caused by various factors such as vehicular emissions, industrial activities, crop residue burning, and geographical positioning. This pollution has detrimental effects on the health of Delhi's citizens, leading to respiratory and cardiovascular diseases, premature mortality, and economic burdens. The government has implemented measures like the Graded Response Action Plan (GRAP) to address the issue, but there is a need for a proactive, year-round approach. Community engagement, stricter regulations, cleaner fuels, improved public transportation, and public awareness campaigns are crucial in combating air pollution. By adopting international best practices and implementing comprehensive strategies, Delhi can work towards achieving cleaner air and a healthier environment for its residents.
+
+Thu, 16 Nov 2023 16:13:49 +0530
+### [Vantage | Why UN's peacekeepers are no help in Congo's worst crisis](https://www.firstpost.com/opinion/vantage-why-uns-peacekeepers-are-no-help-in-congos-worst-crisis-13394212.html)
+
+The Democratic Republic of Congo (DRC) is facing a crisis as violence in the east of the country continues to escalate. A video recently went viral showing a man setting himself on fire in the capital city of Kinshasa, in an effort to bring attention to the ongoing conflict and describe it as a genocide. Armed groups such as M23 and ADF are seizing land and attacking villages, leading to the loss of many lives. These groups are motivated by the rich minerals found in the eastern DRC, particularly cobalt which is crucial for electronics and battery production. In response to the violence, the United Nations has sent a peacekeeping force, but there are doubts about their effectiveness, as they have been present in the region for decades without being able to prevent massacres. The lack of international support and attention to the situation in the DRC continues despite the escalating violence.
+
+Thu, 16 Nov 2023 15:42:44 +0530
+### [Vantage | A diabetes drug Ozempic is going viral for the wrong reasons and that's a problem](https://www.firstpost.com/opinion/vantage-a-diabetes-drug-ozempic-is-going-viral-for-the-wrong-reasons-and-thats-a-problem-13393782.html)
+
+Ozempic, a diabetes drug originally designed to lower blood sugar levels, has gained popularity as a weight-loss drug. It has become a go-to solution for those seeking the perfect body, with notable personalities like Amy Schumer, Rosie O'Donnell, and Elon Musk openly admitting to using it. The societal pressure to conform to the thin ideal has led to the widespread use of Ozempic, and it may soon be included in company-sponsored health plans. However, the drug comes with a high cost and a range of side effects. Despite these drawbacks, Ozempic remains in high demand, reflecting society's obsession with body image.
+
+Thu, 16 Nov 2023 15:36:47 +0530
+### [Vantage | Why Myanmar rebels' Operation 1027 is a worry for India](https://www.firstpost.com/opinion/vantage-why-myanmar-rebels-operation-1027-is-a-worry-for-india-13392602.html)
+
+Rebel groups in Myanmar are mounting attacks against the military junta, resulting in significant losses for the junta. At least nine towns and over 150 outposts and military bases have been taken by the rebels. The rebels, consisting of the Myanmar National Democratic Alliance Army, the Ta'ang National Liberation Army, and the Arakan Army, are not only seizing territory but also military assets. The junta has been caught off-guard and struggling to respond, with reports of over 300 soldiers and militia allies surrendering. The rebels, mobilizing at least 20,000 fighters, aim to challenge the rule of the army and control a significant portion of Myanmar. The offensive is a concern for India as the rebels are fighting near the Indian border, and thousands of people from Myanmar have sought shelter in the Indian state of Mizoram. If the violence escalates, it could lead to a refugee crisis for India. The rebels currently have the momentum, and India is monitoring the situation closely.
+
+Thu, 16 Nov 2023 14:52:13 +0530
+### [Vantage | Will Rishi Sunak survive the 'no-confidence' on two fronts?](https://www.firstpost.com/opinion/vantage-will-rishi-sunak-survive-the-no-confidence-on-two-fronts-13393332.html)
+
+UK Prime Minister Rishi Sunak is facing challenges from both the country's Supreme Court and a disgruntled former ally, Suela Braverman. The Supreme Court recently ruled that Sunak's "deport to Rwanda" plan, aimed at addressing illegal migration, was illegal and exposed individuals to the risk of refoulement. Sunak had supported the plan as a cornerstone of his agenda, but the court's ruling has dealt a setback to his administration. Braverman, who was recently sacked, openly criticized Sunak in a letter, accusing him of weakness and dishonesty. She positioned him as the sole architect of the Rwanda fiasco. These dual assaults threaten Sunak's support base and his chances of re-election and leadership within the conservative party. The aftermath of the Supreme Court's verdict and Braverman's attack leaves Sunak in a precarious political landscape.
+
+Thu, 16 Nov 2023 14:37:07 +0530
+### [Nations and their karma: Why world needs to fight Islamist terrorism](https://www.firstpost.com/opinion/nations-and-their-karma-why-world-needs-to-fight-islamist-terrorism-2-13393622.html)
+
+Article found but Couldn't summarize 
+Nations and their karma: Why world needs to fight Islamist terrorism
+
+Thu, 16 Nov 2023 13:47:57 +0530
+### [Vantage | Why India signed a deal for 20-yr-old Russian missiles now](https://www.firstpost.com/opinion/vantage-why-india-signed-a-deal-for-20-yr-old-russian-missiles-now-13393122.html)
+
+India and Russia have reportedly signed an arms deal for the production of the Igla-S anti-aircraft missiles in India. The Igla-S is a portable, shoulder-launched missile that can be used by one person to target enemy aircraft. India has been using the Igla series for years and the newest version, Igla-S, will now be manufactured in India under a licensing agreement. This deal is seen as a boost to India's domestic arms industry and a way to reduce import costs. India is the biggest arms importer in the world and has defense deals with multiple countries, but Russia remains its biggest arms provider. The partnership between India and Russia in manufacturing defense equipment is not new, as they previously collaborated to produce the AK-203 gun. The specifics of the Igla-S deal, including the involvement of private companies and the timeline for production, have not been disclosed. However, the establishment of domestic manufacturing capabilities is seen as beneficial for India, as it reduces dependency on imports and mitigates risks associated with supply disruptions.
+
 Thu, 16 Nov 2023 10:29:31 +0530
 ### [Why India needs to disprove Justin Trudeau's stand and expose biased Canadian visa practices](https://www.firstpost.com/opinion/why-india-needs-to-disprove-justin-trudeaus-stand-and-expose-biased-canadian-visa-practices-13392152.html)
 

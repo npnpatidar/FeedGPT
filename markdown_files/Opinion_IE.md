@@ -1,3 +1,8 @@
+Thu, 16 Nov 2023 11:02:11 +0000
+### [World Philosophy Day: The truth isn’t just out there — it’s in you](https://indianexpress.com/article/opinion/columns/world-philosophy-day-truth-isnt-out-there-9029078/)
+
+World Philosophy Day, initiated by UNESCO in 2002, aims to revive the value and need for philosophy in improving our world. Philosophy embodies love and a yearning for truth and justice. It draws wisdom from sages of the past to apply it in our lives today and contribute to a better future. Philosophy encourages introspection and personal growth before trying to change the world. It emphasizes the need for action and practice, rather than mere contemplation. By aligning our thoughts, words, and deeds with virtue, we can become better individuals. Philosophy also highlights the connection between the individual and the whole, guiding us to live in harmony with ourselves and the world. In times marked by intolerance and uncertainty, ancient wisdom inspires us to rediscover and practice human values to bring strength and stability to ourselves and those around us. Philosophy encourages us to nurture the light within us and allow it to shine in our world.
+
 Thu, 16 Nov 2023 01:47:18 +0000
 ### [P R S Oberoi: Host extraordinaire, a man of taste](https://indianexpress.com/article/opinion/columns/the-extraordinary-host-9028231/)
 

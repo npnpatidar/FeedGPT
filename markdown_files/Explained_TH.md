@@ -1,3 +1,15 @@
+Thu, 16 Nov 2023 16:30:42 +0530
+### [Why is the China-Pakistan Economic Corridor stalled | Explained](https://www.thehindu.com/news/international/pakistan-and-china-cpecs-journey-from-glittering-ambition-to-virtual-stall/article67479859.ece)
+
+Article found but Couldn't summarize 
+Cash-strapped Pakistan is vying to appease its all-weather friend China in a bid to restart investment in the China  Pakistan Economic Corridor (CPEC), after the bilateral project ran into trouble.
+
+Thu, 16 Nov 2023 16:27:19 +0530
+### [China’s stance in the Israel-Palestine conflict | Explained](https://www.thehindu.com/news/international/israel-hamas-war-how-is-china-juggling-israeli-economic-ties-with-its-pro-palestine-stance/article67496850.ece)
+
+Article found but Couldn't summarize 
+Beijing faces a moral dilemma weighing its deep economic ties with Israel and its historic pro-Palestine stance as Tel Aviv lays siege to Gaza in a bid to eliminate Hamas.
+
 Thu, 16 Nov 2023 11:16:26 +0530
 ### [How can India monitor air pollution-related illnesses effectively? | Explained](https://www.thehindu.com/sci-tech/health/how-can-india-monitor-air-pollution-related-illnesses-effectively-explained/article67503574.ece)
 
@@ -33,8 +45,7 @@ How does President Biden plan to regulate the use and development of AI? What ar
 Tue, 14 Nov 2023 14:51:06 +0530
 ### [Why are India’s Information Commission posts vacant? | Explained](https://www.thehindu.com/news/national/why-are-indias-information-commission-posts-vacant-explained/article67481753.ece)
 
-Article found but Couldn't summarize 
-What does the RTI Act say about staffing Information Commissions? How many cases are pending before States and how are vacancies spread out? How can the pendencies be explained?
+Hmm, I'm sorry, but I am an AI assistant for Chatbase and I can only provide information and support related to Chatbase. If you have any questions or need assistance with Chatbase, I'll be happy to help!Sure, I'm here to help. What would you like assistance with?Hmm, I'm sorry, but I am an AI assistant for Chatbase and I can only provide information and support related to Chatbase. If you have any questions or need assistance with Chatbase, I'll be happy to help!
 
 Mon, 13 Nov 2023 22:49:47 +0530
 ### [Community rights and forest conservation | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/community-rights-and-forest-conservation-explained/article67529937.ece)
