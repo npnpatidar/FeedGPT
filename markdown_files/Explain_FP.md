@@ -1,3 +1,8 @@
+Wed, 15 Nov 2023 17:15:54 +0530
+### [FirstUp: It’s PM Modi vs Rahul Gandhi in Rajasthan and much more](https://www.firstpost.com/explainers/firstup-its-pm-modi-vs-rahul-gandhi-in-rajasthan-and-much-more-13390522.html)
+
+In this article, it is mentioned that Prime Minister Narendra Modi will address a public meeting in Barmer district of Rajasthan as part of the upcoming Assembly polls. The BJP will also release its election manifesto for Rajasthan, which includes relief measures for government employees and benefits for the unorganised work sector. Congress leader Rahul Gandhi will hold rallies in different locations in Rajasthan. Rajasthan Chief Minister Ashok Gehlot's son will appear before the Enforcement Directorate in connection with alleged violations of foreign exchange rules. Defence Minister Rajnath Singh will attend a two-day ASEAN defence ministers' meeting in Jakarta. The ICC World Cup 2023 second semi-final will be between South Africa and Australia. India will play Kuwait in the FIFA World Cup qualifiers. It is also mentioned that UNESCO was formed on this day in 1945, and Prince William and Kate Middleton got engaged thirteen years ago.
+
 Wed, 15 Nov 2023 15:35:10 +0530
 ### [What’s causing a delay in the rescue of 40 trapped labourers in Uttarkashi tunnel?](https://www.firstpost.com/explainers/uttarkashi-tunnel-delay-rescue-operations-trapped-labourers-13390012.html)
 
