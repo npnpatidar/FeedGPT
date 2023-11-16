@@ -1,3 +1,9 @@
+Thu, 16 Nov 2023 11:16:26 +0530
+### [How can India monitor air pollution-related illnesses effectively? | Explained](https://www.thehindu.com/sci-tech/health/how-can-india-monitor-air-pollution-related-illnesses-effectively-explained/article67503574.ece)
+
+Article found but Couldn't summarize 
+Which illnesses are attributed to air pollution? How does Maharashtra propose to monitor illnesses? How can health data help shape climate action plans?
+
 Wed, 15 Nov 2023 10:30:00 +0530
 ### [How many forces are there in nature, really? | Explained](https://www.thehindu.com/sci-tech/science/nature-fundamental-forces-counting-problem-explained/article67531853.ece)
 

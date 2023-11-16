@@ -1,3 +1,9 @@
+Thu, 16 Nov 2023 10:29:31 +0530
+### [Why India needs to disprove Justin Trudeau's stand and expose biased Canadian visa practices](https://www.firstpost.com/opinion/why-india-needs-to-disprove-justin-trudeaus-stand-and-expose-biased-canadian-visa-practices-13392152.html)
+
+Article found but Couldn't summarize 
+Why India needs to disprove Justin Trudeau's stand and expose biased Canadian visa practices
+
 Wed, 15 Nov 2023 20:23:46 +0530
 ### [Vantage | How crypto and charity power Hamas terror](https://www.firstpost.com/opinion/vantage-how-crypto-and-charity-power-hamas-terror-13391052.html)
 

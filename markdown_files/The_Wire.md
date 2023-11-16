@@ -1,3 +1,45 @@
+2023-11-16T11:30:15+05:30
+### [India’s Trade Deficit at Record High of $31.46 Billion, Imports Shoot Up by 12.3%](https://thewire.in/trade/indias-trade-deficit-at-record-high-of-31-46-billion-imports-shoot-up-by-12-3)
+
+No Article text 
+Exports that have grown by only 6.2%. Government cites it as example of “green shoots stabilising”. Gold purchase up by 95%.
+
+2023-11-16T11:03:02+05:30
+### [Palestinians Sue Biden, Blinken, Other US Officials for 'Supporting' Israel's War on Gaza](https://thewire.in/world/palestinians-sue-biden-blinken-other-us-officials-for-supporting-israels-war-on-gaza)
+
+No Article text 
+The petitioners urged a federal court in the US to prevent the US administration from providing arms, money, and diplomatic support to Israel as there is an 'unfolding genocide' by Israel against the civilian population of Gaza.
+
+2023-11-16T10:30:25+05:30
+### [Manipur Tribal Body Announces 'Self-Rule' in 3 Districts, Cites 'Centre's Selective Justice'](https://thewire.in/rights/manipur-itlf-tribal-leaders-kuki-zo-self-rule)
+
+No Article text 
+'We do not care if the Centre doesn’t recognise us.'
+
+2023-11-16T09:36:26+05:30
+### [N. Sankaraiah: One Hundred Years a Revolutionary](https://thewire.in/politics/n-sankaraiah-one-hundred-years-a-revolutionary)
+
+No Article text 
+The activist and politician's commitment to the working class and peasantry was undiminished.
+
+2023-11-16T09:05:07+05:30
+### [As Biden and Xi Meet, What’s at Stake is Two Competing Visions for the World](https://thewire.in/diplomacy/as-biden-and-xi-meet-whats-at-stake-is-two-competing-visions-for-the-world)
+
+No Article text 
+The Global South, barring India, is increasingly attracted by China’s cooperation-driven approach to global development and put off by the US’s emphasis on competition and confrontation.
+
+2023-11-16T08:54:40+05:30
+### [Subrata Roy Foretold New India’s New Crony Capitalism](https://thewire.in/business/subrata-roy-foretold-new-indias-new-crony-capitalism)
+
+No Article text 
+'The crooked politician needs the businessman to provide the funds that allow him to supply patronage to the poor and fight elections. The corrupt businessman needs the crooked politician to get public resources and contracts cheaply.'
+
+2023-11-16T07:00:04+05:30
+### [Can Dead Men Conceive? The Story of Israel's ‘Posthumous Sperm Retrieval’ Program](https://thewire.in/world/posthumous-sperm-retrieval-israel-palestine)
+
+No Article text 
+The program was first approved in Israel in 2003 via ‘instructions’ from the country’s attorney general who, at the time, had declared that “procreation [was] an important and substantive issue in Israeli society”.
+
 2023-11-15T21:15:45+05:30
 ### [Insufficient Progress in Limiting Temperature Rise and Tackling Climate Change: UN Report](https://thewire.in/environment/insufficient-progress-in-limiting-temperature-rise-and-tackling-climate-change-says-un-report)
 

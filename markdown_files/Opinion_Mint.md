@@ -1,3 +1,24 @@
+Thu, 16 Nov 2023 08:00:07 +0530
+### [Fliers should resist airlines’ mileage schemes and stay loyal to none](https://www.livemint.com/opinion/online-views/fliers-should-resist-airlines-mileage-schemes-and-stay-loyal-to-none-11700066940889.html)
+
+As GPT-3.5, I can summarize the article for you. The article discusses the challenges and diminishing benefits of airline loyalty programs. It highlights how airlines frequently make changes to their rewards programs, making it harder for passengers to earn miles and enjoy the perks associated with loyalty. The article also mentions that mileage programs are a lucrative business for airlines, but many customers feel frustrated with the decreasing value of their accumulated miles. It advises travelers to reconsider the notion that airline mileage balances have real monetary value and suggests exploring different airlines and options for each trip. The article concludes by stating that many Indian travelers have shifted their loyalty towards low fares rather than loyalty programs.
+
+Thu, 16 Nov 2023 08:00:07 +0530
+### [October's rise in Indian goods exports is a breath of fresh air](https://www.livemint.com/opinion/quick-edit/octobers-rise-in-indian-goods-exports-is-a-breath-of-fresh-air-11700064738390.html)
+
+India's goods exports increased by 6.2% in October compared to the previous year, which is a positive development after a series of negative readings. However, exports are still down by 7% cumulatively from April to October. Despite the global economy still facing turbulence, conditions have not been as bad as anticipated, particularly in the US. A strong global economy is crucial for boosting overseas demand for Indian goods. On the other hand, India's imports rose by 12.3% in October, driven by higher crude oil prices, leading to a widened trade deficit of $31.46 billion. This puts pressure on the Indian rupee, which is currently trading near all-time lows against the dollar. Nonetheless, the domestic economy continues to grow at a reasonably fast pace.
+
+Thu, 16 Nov 2023 08:00:07 +0530
+### [L’affaire Religare: We need clarity in the haze of its takeover battle](https://www.livemint.com/opinion/online-views/laffaire-religare-we-need-clarity-in-the-haze-of-its-takeover-battle-11700063867999.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses a political scandal in India involving an illegal betting app called Mahadev. Both the BJP and Congress parties have accused each other of being associated with the app's owners. The scandal also implicated members of the Burman family, co-owners of an Indian Premier League team, who were alleged to have links with the cricket betting racket connected to the app. However, the family denied any involvement and claimed that the allegations were false and part of an attempt to block their acquisition of Religare Enterprises Ltd. The article also mentions the Burman family's bid to acquire Religare, a financial services firm, and the resistance they faced from the board. It highlights the importance of law compliance in capital markets and the need for clarity to resolve cases involving politics and business.
+
+Thu, 16 Nov 2023 08:00:06 +0530
+### [Abu Dhabi ahoy: The WTO’s reform path remains strewn with hurdles](https://www.livemint.com/opinion/online-views/abu-dhabi-ahoy-the-wto-s-reform-path-remains-strewn-with-hurdles-11700062057587.html)
+
+Article found but Couldn't summarize 
+The ministerial meeting scheduled next year in the UAE must reinforce multilateralism as the G20 Delhi Declaration committed its members too. But it won’t be easy.
+
 Wed, 15 Nov 2023 17:09:56 +0530
 ### [It might be time for India to reconsider its indicator for inflation targeting](https://www.livemint.com/opinion/online-views/it-might-be-time-for-india-to-reconsider-its-indicator-for-inflation-targeting-11700047719439.html)
 

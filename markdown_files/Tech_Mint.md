@@ -1,3 +1,20 @@
+Thu, 16 Nov 2023 10:40:27 +0530
+### [Garena Free Fire Max redeem codes for Nov 16, 2023: Win free exciting rewards](https://www.livemint.com/technology/tech-news/garena-free-fire-max-redeem-codes-for-nov-16-2023-win-free-exciting-rewards-11700111271175.html)
+
+Article found but Couldn't summarize 
+Redeem Garena Free Fire Max codes on the game's official Rewards Redemption site to receive rewards like rebel academy weapon loot crate, diamond vouchers, and more.
+
+Thu, 16 Nov 2023 08:58:34 +0530
+### [Explained: What is WhatsApp Privacy Checkup? A look at some changes you can do to make your WhatsApp safer](https://www.livemint.com/technology/apps/explained-what-is-whatsapp-privacy-checkup-a-look-at-some-changes-you-can-do-to-make-your-whatsapp-safer-11700100897368.html)
+
+Article found but Couldn't summarize 
+WhatsApp introduces Privacy Checkup feature to provide step-by-step guidance on privacy settings. Users can control who can contact them, choose the audience for sharing personal information, manage message access, and add extra security measures.
+
+Thu, 16 Nov 2023 07:32:07 +0530
+### [From Elon Musk to Tim Cook, checkout the list of tech leaders attending Biden - Xi dinner](https://www.livemint.com/technology/tech-news/from-elon-musk-to-tim-cook-checkout-the-list-of-tech-leaders-attending-joe-biden-xi-jinping-dinner-11700097793190.html)
+
+Apple CEO Tim Cook and Tesla CEO Elon Musk are expected to attend a dinner in San Francisco hosted for US President Joe Biden and Chinese President Xi Jinping. The dinner, organized by the National Committee on US-China Relations and the US-China Business Council, is part of the 30th Asia-Pacific Economic Cooperation (APEC) summit. The event is anticipated to be attended by numerous business leaders from sectors like banking and technology. Chinese President Xi may also deliver a speech during the summit. Other high-profile business leaders reportedly attending the dinner include BlackRock CEO Larry Fink, Blackstone CEO Steve Schwarzman, Visa CEO Ryan McInerney, Qualcomm CEO Cristiano Amon, and Broadcom CEO Hock Tan. The dinner aims to provide an opportunity for President Xi to attract US investment to China and enable top entrepreneurs to connect with the leader of the world's second-largest economy.
+
 Wed, 15 Nov 2023 23:12:11 +0530
 ### [Smartwatch sales rise in Q2](https://www.livemint.com/technology/tech-news/smartwatch-sales-rise-in-q2-11700069385341.html)
 

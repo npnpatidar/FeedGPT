@@ -1,3 +1,105 @@
+Thu, 16 Nov 2023 06:18:44 +0000
+### [Resumption of bilateral military ties, Taiwan — what Biden & Xi discussed at crucial meeting in US](https://theprint.in/world/resumption-of-bilateral-military-ties-taiwan-what-biden-xi-discussed-at-crucial-meeting-in-us/1846612/)
+
+Article found but Couldn't summarize 
+US president Joe Biden &#38; his Chinese counterpart Xi Jinping held ‘most constructive discussions’ at summit amid backdrop of trade war &#38; ties between the 2 nations reaching nadir in decades.
+
+Thu, 16 Nov 2023 06:17:37 +0000
+### [Aparna Enterprises expands its retail footprint with the launch of UNISPACE in Bengaluru](https://theprint.in/ani-press-releases/aparna-enterprises-expands-its-retail-footprint-with-the-launch-of-unispace-in-bengaluru/1846758/)
+
+Aparna Enterprises Limited has launched its fifth UNISPACE retail store in Bengaluru, India. UNISPACE offers a range of home improvement products and services, including uPVC and Aluminium windows and doors, tiles, and modular kitchen and wardrobe solutions. The store features stunning vitrified tile collections, uPVC and aluminium doors and windows, and kitchen and wardrobe designs. UNISPACE aims to provide personalized service and expert consultation to customers. The company is well-positioned to leverage the growing opportunities in the building material market, which is projected to register a CAGR growth of 8% to 9% over the next five years. Aparna Enterprises Limited is a part of the Aparna Group and is known for its high-quality products and adherence to standards.
+
+Thu, 16 Nov 2023 06:17:23 +0000
+### [Grand Opening of Amista Clinic at Banjara Hills](https://theprint.in/ani-press-releases/grand-opening-of-amista-clinic-at-banjara-hills/1846755/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Amista Clinic, a comprehensive cosmetology care facility, has announced the opening of its third branch in Banjara Hills, Hyderabad. The clinic offers advanced services and personalized treatments for skin, hair, body, laser, and other cosmetic treatments. It is equipped with the latest technology and has a team of experienced doctors. To celebrate the grand opening, Amista Clinic will host an event featuring a clinic tour, Q&A sessions, and special discounts for attendees.
+
+Thu, 16 Nov 2023 06:17:12 +0000
+### [Puravankara Secures Redevelopment Rights for 2 Housing Societies in Mumbai, with a GDV Potential of Rs 1,500 Crore](https://theprint.in/ani-press-releases/puravankara-secures-redevelopment-rights-for-2-housing-societies-in-mumbai-with-a-gdv-potential-of-rs-1500-crore/1846753/)
+
+Real estate developer Puravankara Limited has acquired the residential redevelopment rights for two housing societies in the western suburbs of Mumbai, marking its entry into the redevelopment space in the western region. The project, located in the heart of Lokhandwala in Andheri West, spans 3 acres and has an estimated development potential of 5.8 lakh square feet carpet area. Approximately 3.65 lakh square feet will be available for sale, with a potential gross development value of INR 1,500 crore. Puravankara plans to launch two new projects in Pune this fiscal year as part of its expansion plan.
+
+Thu, 16 Nov 2023 06:17:02 +0000
+### [Silicon Valley’s elite engage with Piyush Goyal: India’s investment appeal in the spotlight](https://theprint.in/economy/silicon-valleys-elite-engage-with-piyush-goyal-indias-investment-appeal-in-the-spotlight/1846751/)
+
+Indian Minister of Commerce and Industry, Piyush Goyal, recently engaged with Silicon Valley entrepreneurs and venture capitalists to highlight India's business ecosystem and potential for investments. Goyal emphasized India's young talent, vibrant economy, and resilience within the Indian business landscape. The minister's outreach to Silicon Valley aims to strengthen India's position in the international investment arena and foster economic ties between India and the United States. Goyal also met with chartered accountants from the San Francisco chapter of the Institute of Chartered Accountants of India (ICAI) to tap into their expertise and network, urging them to contribute to bilateral trade and commerce. Additionally, he discussed collaboration opportunities with YouTube CEO Neal Mohan and discussed how India's semiconductor ecosystem presents vast opportunities for collaboration with Micron Technology CEO Sanjay Mehrotra. Goyal's efforts in Silicon Valley showcase the Indian government's commitment to attracting foreign investments and fostering a collaborative ecosystem for global business leaders.
+
+Thu, 16 Nov 2023 06:16:45 +0000
+### [Poland’s Allegro sees higher holiday-quarter earnings after Q3 core profit beat](https://theprint.in/tech/polands-allegro-sees-higher-holiday-quarter-earnings-after-q3-core-profit-beat/1846749/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Poland's largest e-commerce platform, Allegro, expects a 20%-23% increase in earnings in the holiday quarter. In the third quarter, the company's core profit exceeded expectations, with adjusted EBITDA rising 32.4% to 778 million zlotys. The company reported a 10.5% increase in gross merchandise value (GMV) in Poland, and it anticipates GMV to grow 9%-11% in the fourth quarter. Allegro plans to expand its marketplace to Slovakia, Hungary, Slovenia, and Croatia next year. The number of active buyers in Poland reached 14.5 million, and Allegro's black week campaign has had a "solid start."
+
+Thu, 16 Nov 2023 06:16:29 +0000
+### [India logs 18 new Covid cases](https://theprint.in/india/india-logs-18-new-covid-cases/1846747/)
+
+India has reported 18 new COVID-19 cases, bringing the total number of active cases to 158, according to data from the Union Health Ministry. The death toll stands at 533,295. The country's total COVID-19 case tally is 450,015,510, with a recovery rate of 98.81%. The case fatality rate is 1.19%. The health ministry's website also states that 220.67 crore doses of the COVID-19 vaccine have been administered in India. This report is auto-generated from the PTI news service. ThePrint is not responsible for its content.
+
+Thu, 16 Nov 2023 06:16:22 +0000
+### [Xi tells US firms China ready to be partner and friend](https://theprint.in/world/xi-tells-us-firms-china-ready-to-be-partner-and-friend/1846746/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Chinese President Xi Jinping assured American executives in San Francisco that China is ready to be a partner and friend of the United States, emphasizing the potential for bilateral cooperation. This statement came as China seeks to reassure global business and counter its struggles in attracting foreign investment. The remarks were made during a dinner with U.S. executives on the sidelines of the Asia-Pacific Economic Cooperation (APEC) forum, following talks between Xi and U.S. President Joe Biden aimed at stabilizing relations between the two largest economies. Xi received applause and a standing ovation upon entering the room and reiterated China's commitment to not pursue hegemony or expansion and to avoid engaging in a cold war or hot war. Additionally, he expressed sympathy for the American people regarding the fentanyl crisis and mentioned prior discussions with Biden on curbing fentanyl production. The event was attended by nearly 400 individuals, including business and government officials, academics, and prominent executives from major U.S. companies.
+
+Thu, 16 Nov 2023 06:16:11 +0000
+### [Cong leaders united, party will win Rajasthan polls: Rahul Gandhi](https://theprint.in/india/cong-leaders-united-party-will-win-rajasthan-polls-rahul-gandhi/1846744/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.Rahul Gandhi, former President of the Congress party, stated that the party's leaders in Rajasthan are united and that they will win the upcoming assembly elections on November 25. He made these remarks while addressing reporters at the airport in Jaipur before heading to Tara Nagar in Churu for a campaign rally. Gandhi was accompanied by Chief Minister Ashok Gehlot, Rajasthan Pradesh Congress Committee Chief Govind Singh Dotasra, and former Deputy Chief Minister Sachin Pilot. Gandhi also has plans to address public rallies in Nohar (Hanumangarh) and Sadulshahar (Sriganganagar). However, it is important to note that this summary is auto-generated from a PTI news service report, and ThePrint, the source of the report, does not hold responsibility for its content.
+
+Thu, 16 Nov 2023 06:16:08 +0000
+### [Israeli President Isaac Herzog says Israel cannot leave a vacuum in Gaza- FT](https://theprint.in/world/israeli-president-isaac-herzog-says-israel-cannot-leave-a-vacuum-in-gaza-ft/1846742/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Israeli President Isaac Herzog stated that Israel cannot leave a vacuum in Gaza and must maintain a strong force there to prevent the resurgence of Hamas, according to the Financial Times. He emphasized the need to consider mechanisms for governance in Gaza to avoid turning it into a base for terrorism. Prime Minister Benjamin Netanyahu previously mentioned that Israel would have security responsibility for Gaza indefinitely after the war, but the United States disagreed, asserting that Palestinians should govern the enclave once the conflict with Hamas ends. President Joe Biden reiterated support for a two-state solution and warned against occupying Gaza. The article also mentions details about the ongoing conflict between Israel and Hamas, including casualties and damage caused.
+
+Thu, 16 Nov 2023 06:16:00 +0000
+### [Fire in Chinese coal firm’s office kills 25](https://theprint.in/world/fire-in-chinese-coal-firms-office-kills-25/1846741/)
+
+A fire at a coal company's office building in China's Shanxi province has killed 25 people and injured at least 51. The cause of the fire is still unknown and is currently under investigation. This incident adds to a series of deadly fires and accidents that have occurred in China, including a hospital fire in Beijing that resulted in 29 deaths. China's coal industry has also been facing scrutiny for safety issues in recent months.A fire at a coal company's office building in China's Shanxi province has resulted in the deaths of 25 people. The fire occurred at the Yongju Coal Industry joint building in the town of Shanxi, a major coal-producing region. Initially, 11 deaths and 51 injuries were reported, but the death toll increased twice. The cause of the fire is still unknown, and there has been no response from the Yongju Coal Industry. This incident adds to public anger over previous deadly fires in China, including one that occurred in a hospital in Beijing in April. China's coal producers have also faced scrutiny due to a series of accidents in mines, leading to production delays for safety inspections. The report is based on information from Reuters, and ThePrint is not responsible for its content.
+
+Thu, 16 Nov 2023 06:15:59 +0000
+### [Panel set up to probe bus accident in J-K’s Doda](https://theprint.in/india/panel-set-up-to-probe-bus-accident-in-j-ks-doda/1846739/)
+
+A three-member panel has been set up by the Jammu and Kashmir administration to investigate the bus accident in Doda district, which claimed the lives of 39 people. The bus skidded off the road and fell into a gorge. One more passenger died from injuries, bringing the total death toll to 39. A committee has been formed to inquire into the circumstances of the accident and is expected to submit a detailed report within a week. Local residents attribute frequent accidents in the area to poor road conditions, reckless driving, and vehicle overloading.
+
+Thu, 16 Nov 2023 06:15:47 +0000
+### [Philippines rejects China’s call for prior notice on resupply missions](https://theprint.in/world/philippines-rejects-chinas-call-for-prior-notice-on-resupply-missions/1846738/)
+
+The Philippines stated that it is not obligated to inform China about its resupply missions in the South China Sea. The Department of Foreign Affairs called on China to remove its illegal structures within the Philippines' exclusive economic zone and be accountable for the damage caused. China has accused the Philippines of illegally entering its waters during resupply missions, while the Philippines asserts that these missions are legitimate. The Permanent Court of Arbitration ruled in 2016 that China's claim over the South China Sea had no legal basis, a ruling supported by the US Defense Secretary during a meeting with his Manila counterpart. Since 1999, when the Philippines grounded the Sierra Madre ship at the disputed Second Thomas Shoal, China has requested its removal based on an alleged agreement that the Philippines denies. The shoal lies well within the Philippines' exclusive economic zone.
+
+Thu, 16 Nov 2023 06:15:44 +0000
+### [Man who cheated people by forging cheques held after 3 yrs in Thane](https://theprint.in/india/man-who-cheated-people-by-forging-cheques-held-after-3-yrs-in-thane/1846736/)
+
+A man from Thane, Maharashtra, who had been on the run for over three years, has been arrested by the police for allegedly cheating multiple individuals through forging cheques and other documents. The arrest followed a complaint from a bank manager stating that the accused had fraudulently withdrawn Rs 11,92,500 from an account using forged cheques and diverted the funds to different bank accounts. The police investigated the case and identified the culprit, who frequently changed his location. Acting on a tip-off, the police apprehended him near a college in Mira Road. During interrogation, it was discovered that he was involved in four other cases of cheating based on forged documents in various police stations in Thane, Palghar, and Nagpur. The accused had a history of similar crimes dating back to 2004 and had previously been arrested in some of those cases as well.
+
+Thu, 16 Nov 2023 06:15:32 +0000
+### [Rupee edges lower tracking Asian peers, state-run banks on offer](https://theprint.in/india/rupee-edges-lower-tracking-asian-peers-state-run-banks-on-offer/1846734/)
+
+The Indian rupee weakened against the US dollar, following a trend among other Asian currencies. However, the rupee's losses were limited by US dollar sales from state-run banks, likely on behalf of clients. The rupee's volatility has increased but remains within a range of 83 to 83.30. The domestic currency had previously reached its lifetime low of 83.42. Investors are now awaiting US initial jobless claims data for the preceding week.The Indian rupee weakened against the U.S. dollar, following the trend of other Asian currencies, but the downside was limited by dollar sales from state-run banks on behalf of clients. The rupee's value was at 83.2125 against the dollar, slightly higher than its previous close at 83.1425. The rupee had experienced its best day in almost two months on Wednesday. The dollar index was higher at 104.48, supported by better-than-expected retail sales numbers in the U.S. Additionally, the 10-year U.S. Treasury yield rebounded after falling on expectations of possible policy rate reductions by the Federal Reserve next year. The rupee's volatility has increased recently but is expected to remain within a range of 83 to 83.30. Dollar sales from state-run banks helped limit the rupee's losses. Investors are now awaiting U.S. initial jobless claims data for the previous week.
+
+Thu, 16 Nov 2023 06:15:30 +0000
+### [Ex-army man gunned down, 2 armed assailants lynched by mob in Bihar’s Rohtas](https://theprint.in/india/ex-army-man-gunned-down-2-armed-assailants-lynched-by-mob-in-bihars-rohtas/1846732/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Two individuals were killed by a mob in Bihar's Rohtas district after they shot and killed an ex-army man. A third alleged assailant was also attacked and is receiving treatment at a government hospital. The deceased ex-army man has been identified as Bijendra Singh, while the two lynched individuals were Mithilesh Kumar and Aditya Kumar. The reason behind the ex-army man's killing is unknown, and a special team has been set up to investigate the murder and subsequent lynching.
+
+Thu, 16 Nov 2023 06:15:19 +0000
+### [India’s record merchandise trade deficit in Oct likely to be a one-off – analysts](https://theprint.in/india/indias-record-merchandise-trade-deficit-in-oct-likely-to-be-a-one-off-analysts/1846731/)
+
+India's merchandise trade deficit widened sharply in October to a record level of $31.46 billion. This increase was driven by a rise in imports, particularly in oil, gold, and silver imports ahead of the Diwali festive season. However, analysts believe that this spike in imports is likely to be a temporary outlier, and they expect the trade deficit to moderate considerably in November and December. The easing of oil prices also provides some relief. Despite the high trade deficit in October, economists retain their current account deficit (CAD) estimates, expecting it to normalize from November onwards.
+
+Thu, 16 Nov 2023 06:15:16 +0000
+### [Rohit Sharma is India’s real hero: Nasser Hussain](https://theprint.in/sport/rohit-sharma-is-indias-real-hero-nasser-hussain/1846729/)
+
+Former England captain Nasser Hussain has praised Indian captain Rohit Sharma for changing the culture of the Indian cricket team with his fearless playing style in the ongoing World Cup. India had been criticized for playing timid cricket in the last two T20 World Cups, but they have been relentless in this tournament, reaching their first final in 12 years. Hussain believes that Sharma is the real hero of the Indian team, who has brought about a change in their approach. India's aggressive batting, led by Sharma, has been a key factor in their success. India will face the winner of the second semifinal between South Africa and Australia in the final.
+
+Thu, 16 Nov 2023 06:15:03 +0000
+### [Rescue hopes for men trapped in India tunnel rest on new drill equipment](https://theprint.in/india/rescue-hopes-for-men-trapped-in-india-tunnel-rest-on-new-drill-equipment/1846727/)
+
+Two of the 40 men trapped inside a collapsed highway tunnel in the Indian Himalayas were treated for nausea and headaches, as they entered their fifth day confined in the rubble. Rescue efforts have been focused on drilling through the fallen rock to create space for a pipe that can be used to pull the men to safety. However, progress has been hindered by falling debris. Authorities are confident that an advanced drilling machine brought in from New Delhi will expedite the rescue operation. The tunnel is part of a major highway project, and the trapped men have been provided with food, water, and oxygen through a pipe, and are in contact with rescuers via walkie-talkies.
+
+Thu, 16 Nov 2023 06:15:03 +0000
+### [‘Incredible’ Shami one of the top operators, India is the best team in the world: Williamson](https://theprint.in/sport/incredible-shami-one-of-the-top-operators-india-is-the-best-team-in-the-world-williamson/1846726/)
+
+Article found but Couldn't summarize 
+Mumbai, Nov 16 (PTI) New Zealand captain Kane Williamson doffed his cap to pacer Mohammed Shami and the India team after his side was outplayed in the World Cup semifinal here, saying that the bowling stalwart was one of the best in the world and Rohit Sharma&#8217;s side the &#8220;best team&#8221;. India crushed New Zealand [&#8230;]
+
 Thu, 16 Nov 2023 00:45:03 +0000
 ### [Jaishankar presides over repatriation of 2 stolen idols in UK](https://theprint.in/world/jaishankar-presides-over-repatriation-of-2-stolen-idols-in-uk/1846451/)
 
@@ -261,8 +363,7 @@ ChainUP, a global blockchain technology service provider, has been recognized at
 Wed, 15 Nov 2023 12:16:58 +0000
 ### [India cenbank directs Bajaj Finance to stop loan sanctions for two lending products](https://theprint.in/economy/india-cenbank-directs-bajaj-finance-to-stop-loan-sanctions-for-two-lending-products/1845829/)
 
-Article found but Couldn't summarize 
-BENGALURU (Reuters) -India's central bank on Wednesday barred Bajaj Finance from issuing loans under two products with immediate effect, due to deficiencies in adhering to digital lending guidelines.
+India's central bank has directed non-bank lender Bajaj Finance to halt the approval and distribution of loans for two lending products immediately. This action was taken due to the company's failure to comply with digital lending guidelines.India's central bank has directed non-bank lender Bajaj Finance to immediately halt the approval and disbursement of loans for two lending products. The action was taken due to Bajaj Finance's failure to comply with digital lending guidelines.Hmm, I am not sure. Email support@chatbase.co for more info.
 
 Wed, 15 Nov 2023 12:16:25 +0000
 ### [India cenbank stops Bajaj Finance from issuing loans under two products](https://theprint.in/economy/india-cenbank-stops-bajaj-finance-from-issuing-loans-under-two-products/1845825/)
@@ -365,8 +466,7 @@ US President Joe Biden and Chinese leader Xi Jinping are meeting for the first t
 Wed, 15 Nov 2023 06:15:17 +0000
 ### [Central Europe’s defence companies spy African opportunity](https://theprint.in/world/central-europes-defence-companies-spy-african-opportunity/1845170/)
 
-Article found but Couldn't summarize 
-By Michael Kahn and Anna Koper PRAGUE/WARSAW (Reuters) - Central European defence companies are negotiating new deals to sell more weapons, military equipment and related services in Africa as they
+Central European defense companies are aiming to expand their sales of weapons, military equipment, and related services in Africa. Former Warsaw Pact countries, such as the Czech Republic, have a history of supplying weapons to African nations during the Communist era and are now well-positioned to upgrade these systems. The shift towards Western technology by African countries still using Soviet-era equipment provides new opportunities for Central European defense companies. These companies are negotiating deals for guns, ammunition, military equipment, and services with various African nations. Their expertise in maintaining and modernizing Eastern-origin military land systems appeals to African customers who want to reduce reliance on Russian suppliers. With concerns over the reliability of Russian arms, there is potential for Central European defense companies to fill the gap. Russia has become the leading arms seller in sub-Saharan Africa, but the expertise of Czech industry in former Soviet weapons presents a valuable advantage. Polish defense companies have also intensified their talks with African markets, and interest has increased from potential African customers in Poland. The Czech Republic recently sent a trade mission to several African countries, focusing on boosting opportunities for the defense industry. Reopening and strengthening relationships with traditional partners in Africa is a key goal. Defense industry cooperation is seen as an integral part of these efforts. The Czech arms industry's reputation has been enhanced through its efforts to supply Ukraine in response to Russia's invasion in 2022. As African countries using Soviet-style equipment start to view Russia as a problematic supplier, they are turning to Central European alternatives.
 
 Wed, 15 Nov 2023 06:15:17 +0000
 ### [Cong raises questions on release of PM-Kisan instalment two days ahead of MP, Chhattisgarh polls](https://theprint.in/india/cong-raises-questions-on-release-of-pm-kisan-instalment-two-days-ahead-of-mp-chhattisgarh-polls/1845169/)

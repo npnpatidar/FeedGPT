@@ -1,3 +1,13 @@
+Thu, 16 Nov 2023 05:37:20 +0000
+### [The US-China truce: Where India needs to assess the changes in great power relations](https://indianexpress.com/article/explained/explained-global/india-us-china-truce-joe-biden-meeting-xi-jinping-analysis-9028739/)
+
+Hmm, based on the provided text, it seems that the article discusses the recent summit between US President Joe Biden and Chinese leader Xi Jinping in San Francisco. The focus of the summit was to organize a truce in the conflictual relationship between the two countries. However, it is important for India to pay attention to areas of US-China engagement, such as regulating artificial intelligence, as it may have long-term implications for global AI rules. Additionally, India should monitor the follow-up on regional security issues in the Indo-Pacific, the Middle East crisis, and the Ukraine war. The article also mentions that China seeks to woo back US business leaders and that India should prioritize productive engagement with Western capital. Overall, the article suggests that India should take advantage of new possibilities to strengthen ties with the US, maintain ties with Russia, and manage its relationship with China.
+
+Thu, 16 Nov 2023 01:30:14 +0000
+### [Expert Explains: What led to the Uttarakhand tunnel collapse — and how it could have been avoided](https://indianexpress.com/article/explained/to-build-tunnel-rock-must-be-thoroughly-examined-more-time-spent-on-studies-9028352/)
+
+An under-construction tunnel on the Yamunotri National Highway in Uttarakhand collapsed, trapping 40 workers inside. The collapse could have been caused by a loose patch of rock or seepage of water. Tunnels are excavated using either the drill and blast method or tunnel-boring machines (TBMs). TBMs are safer but more expensive. The method of excavation depends on the type of terrain, with TBMs being used for rock covers up to 400 meters tall. The Himalayan region is not too fragile for tunneling, as there are technical solutions to fix any issues. Thorough investigation of the rock is crucial before building a tunnel, and monitoring and testing of supports are necessary for stability. More time should be spent on studies before starting construction in India.
+
 Wed, 15 Nov 2023 17:21:14 +0000
 ### [Is Virat Kohli the ODI (batting) GOAT?](https://indianexpress.com/article/explained/explained-sports/virat-kohli-odi-batting-goat-9028229/)
 
