@@ -1,3 +1,13 @@
+Thu, 16 Nov 2023 18:39:04 +0530
+### [Japanese space startup that aims to colonise moon by 2040 to launch second mission soon](https://www.firstpost.com/tech/japanese-space-startup-that-aims-to-colonise-moon-by-2040-to-launch-second-mission-to-moon-13395112.html)
+
+Japanese space startup Ispace is preparing for its second mission to the Moon after its first mission in April ended in failure. The second mission, scheduled for launch in 2024, will be carried out in collaboration with SpaceX and will include a rover named 'Resilience' that will carry various payloads, including a water electrolyser, a food production experimentation module, and a micro-rover developed by Ispace. The company aims to contribute to NASA's Artemis program and plans to create a lunar settlement by 2040. Ispace's first mission failure was a setback, but the upcoming mission will incorporate improvements to enhance mission accuracy. Ispace will be competing with other companies in the race to achieve the first commercial lunar landing.
+
+Thu, 16 Nov 2023 18:30:24 +0530
+### [Elon Musk’s X routinely fails to takedown hate speech, fake news, finds new study](https://www.firstpost.com/tech/elon-musks-x-routinely-fails-to-takedown-hate-speech-fake-news-finds-new-study-13395022.html)
+
+A study by the Centre for Countering Digital Hate (CCDH) has found that X, formerly Twitter, is failing to effectively remove hate speech from its platform, despite claims by Elon Musk that they are actively taking it down. The investigation focused on hate speech related to the Israel-Palestine conflict and found that 96% of reported posts remained online a week after being flagged. The study raises concerns about X's commitment to combating hate speech and comes after a previous study by CCDH found that 86% of reported hate speech cases remained online after a week. Elon Musk has faced criticism for his handling of moderation standards since taking over X, and he labeled CCDH as "truly evil" in response to their findings. The ongoing debate highlights the efficacy of X's moderation efforts amid rising tensions in the Middle East.
+
 Thu, 16 Nov 2023 17:38:22 +0530
 ### [Huawei, Xiaomi beat Apple by a huge margin in China as sales recover in October](https://www.firstpost.com/tech/huawei-xiaomi-beat-apple-by-a-big-margin-in-china-as-sales-recover-in-october-13394792.html)
 

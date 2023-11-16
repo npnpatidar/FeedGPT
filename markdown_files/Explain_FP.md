@@ -1,3 +1,13 @@
+Thu, 16 Nov 2023 19:01:40 +0530
+### [Why are the polls in Argentina being called the ‘first ever AI election?’](https://www.firstpost.com/explainers/why-are-the-polls-in-argentina-being-called-the-first-ever-ai-election-13394202.html)
+
+Argentina is witnessing its first-ever Artificial Intelligence (AI)-powered election as the country's presidential candidates, Javier Milei and Sergio Massa, leverage AI technology to promote themselves and attack their opponents. Both candidates are using AI-generated campaign posters to appeal to voters. Massa's team has used AI to depict Milei as unstable by placing his face on characters from movies like Clockwork Orange and Fear and Loathing in Las Vegas. They have also created a deepfake video showing Milei discussing the concept of a human organ market. Concerns have been raised about the extensive use of AI in elections, with experts warning about the potential for spreading misinformation and the lack of regulations in place. While Argentina is at the forefront of using AI in politics, other countries like the US and India have also seen instances of AI manipulation during elections. Tech giants like Google and Meta are taking steps to curb the spread of AI-generated misinformation by implementing policies that require disclosure of AI-generated content in political ads.
+
+Thu, 16 Nov 2023 18:07:30 +0530
+### [Madhya Pradesh Elections 2023: Who are the key contenders? What are the hot-button issues?](https://www.firstpost.com/explainers/madhya-pradesh-assembly-elections-2023-bjp-congress-key-contenders-hot-button-issues-13394622.html)
+
+The state of Madhya Pradesh is preparing for Assembly elections, with the main contenders being the ruling Bharatiya Janata Party (BJP) and the Congress. Other parties like Samajwadi Party (SP), Bahujan Samaj Party (BSP), and Communist Party of India (Marxist) are also participating. Over 5.6 crore voters will decide the fate of more than 2,000 candidates. Out of the total candidates, 472 have declared criminal cases against them, with 291 facing serious charges. Key contenders include BJP's Shivraj Singh Chouhan, Congress' Kamal Nath, and various other candidates from both parties. The election issues revolve around anti-incumbency, welfare schemes, farm loan waivers, crimes against women, Hindutva politics, tribal representation, unemployment, corruption, and caste-based reservations. The outcome of these elections will have implications for the Lok Sabha elections next year.
+
 Thu, 16 Nov 2023 17:35:33 +0530
 ### [In graphics | How anti-smog guns can help fight Delhi's air pollution](https://www.firstpost.com/explainers/in-graphics-how-anti-smog-guns-can-help-fight-delhis-air-pollution-13394382.html)
 

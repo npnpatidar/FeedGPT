@@ -1,3 +1,8 @@
+Thu, 16 Nov 2023 12:56:56 +0000
+### [What a US-China climate deal means for COP28](https://indianexpress.com/article/explained/explained-climate/us-china-climate-deal-cop28-meaning-explained-9029524/)
+
+The US and China have reached a significant agreement to increase clean energy, reduce emissions, and displace fossil fuels. The two countries, which are responsible for 38% of the world's greenhouse gases, hope that their cooperation will encourage other nations to follow suit in reducing fossil fuel emissions. The deal, announced ahead of the UN climate talks in Dubai, could have a positive impact on the discussions. However, critics argue that the agreement lacks clear enforcement mechanisms and fails to address the urgent need to phase out coal and rapidly transition away from fossil fuels.
+
 Thu, 16 Nov 2023 10:41:39 +0000
 ### [Farmer dies by suicide in Kerala over debt: What ails the state’s paddy cultivation sector?](https://indianexpress.com/article/explained/farmer-suicide-kerala-debt-paddy-sector-problems-explained-9029174/)
 

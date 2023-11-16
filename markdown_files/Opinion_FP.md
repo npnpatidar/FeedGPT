@@ -1,3 +1,8 @@
+Thu, 16 Nov 2023 19:27:03 +0530
+### [West Bengal: The epicentre of sex trafficking](https://www.firstpost.com/opinion/opinion-west-bengal-the-epicentre-of-sex-trafficking-13395082.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The article highlights the alarming issue of sex trafficking in India, particularly in West Bengal. Award-winning journalist Ross Kemp estimates that around 100,000 girls go missing every year in India due to this inhumane industry, which is supported by authorities and generates millions of dollars. Kemp encountered a sex trafficker named Khan who admitted to killing hundreds of girls and trafficking thousands more. The journalist documented the stories of trafficked girls trapped in red light districts, enduring years of forced unprotected sex. The lack of action from authorities is criticized, questioning why India, with its significant resources, cannot address such a pervasive and brutal problem. The article also mentions recent incidents of violence against girls and the need for stringent laws, swift implementation, and national institutions to combat the issue effectively.
+
 Thu, 16 Nov 2023 17:51:55 +0530
 ### [From Ethiopia and Yemen to Ukraine and Gaza: How globalisation of war brings greater chaos and complexities](https://www.firstpost.com/opinion/from-ethiopia-and-yemen-to-ukraine-and-gaza-how-globalisation-of-war-brings-greater-chaos-and-complexities-13394602.html)
 

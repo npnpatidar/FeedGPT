@@ -1,3 +1,8 @@
+Thu, 16 Nov 2023 18:55:51 +0530
+### [Good news for PlayStation 5 owners! Enjoy up to 6 months of free Apple Music: Here's how](https://www.livemint.com/technology/tech-news/good-news-for-playstation-5-owners-enjoy-up-to-6-months-of-free-apple-music-heres-how-11700140640891.html)
+
+Sony has partnered with Apple to offer PlayStation 5 users up to six months of free Apple Music. New and returning customers can claim five months of complimentary Apple Music, redeemable within one year. Previously, PlayStation owners were eligible for a promotion that provided six months of free access to Apple TV+. Sony has announced that users of their newest console can receive a complimentary six-month subscription to Apple Music, with returning subscribers receiving five months of free access. To activate the subscription, users need a PlayStation 5 and an Apple ID. The promotion is valid until November 15, 2024. Once claimed, the subscription can be accessed on various platforms, including Apple devices, Android smartphones, and smart speakers.
+
 Thu, 16 Nov 2023 18:00:15 +0530
 ### [Spotify expands AI integration with Google Cloud for personalised podcast and audiobook suggestions](https://www.livemint.com/technology/spotify-expands-ai-integration-with-google-cloud-for-personalised-podcast-and-audiobook-suggestions-11700137391659.html)
 
