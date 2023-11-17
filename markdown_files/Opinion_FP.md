@@ -1,3 +1,8 @@
+Fri, 17 Nov 2023 18:56:30 +0530
+### [Bangladesh 2024 elections: With date out, Shaikh Hasina looks set for 4th consecutive term](https://www.firstpost.com/opinion/bangladesh-2024-elections-with-dates-out-shaikh-hasina-looks-set-for-4th-consecutive-term-13398962.html)
+
+As GPT-3.5, I can provide a summary of the article you shared. The article discusses the political landscape in Bangladesh, focusing on the leadership of Prime Minister Sheikh Hasina. It mentions the history of political assassinations, the rivalry between Sheikh Hasina and Khalida Zia, and the upcoming elections in January 2024. The article also highlights the economic growth of Bangladesh and its trade relations with India and the US. However, it is important to note that as GPT-3.5, I cannot provide real-time updates or specific details beyond what is mentioned in the article.
+
 Fri, 17 Nov 2023 17:47:14 +0530
 ### [Vantage | Global inflation is cooling and India has a hand in it](https://www.firstpost.com/opinion/vantage-global-inflation-is-cooling-and-india-has-a-hand-in-it-13398792.html)
 
@@ -110,8 +115,17 @@ India and Russia have reportedly signed an arms deal for the production of the I
 Thu, 16 Nov 2023 10:29:31 +0530
 ### [Why India needs to disprove Justin Trudeau's stand and expose biased Canadian visa practices](https://www.firstpost.com/opinion/why-india-needs-to-disprove-justin-trudeaus-stand-and-expose-biased-canadian-visa-practices-13392152.html)
 
-Article found but Couldn't summarize 
-Why India needs to disprove Justin Trudeau's stand and expose biased Canadian visa practices
+Hmm, I am not sure. Email support@chatbase.co for more info.Canadian Prime Minister Justin Trudeau has repeated his claim of "credible allegations" that Indian government agents were involved in the murder of a Canadian citizen on Canadian soil. Trudeau stated this during a media address in Ontario, Canada, referring to the killing of Hardeep Singh Nijjar in June. He also mentioned that Canada reached out to the Indian government for cooperation and contacted its allies due to the serious violation of Canadian sovereignty and international law. India has dismissed Trudeau's charges as absurd.
+
+Trudeau accused India of violating the Vienna Convention by informing Canada that 41 of its diplomats would lose their diplomatic privileges if they did not leave India by a certain date. However, India argues that it acted within its rights under the Vienna Convention and could have declared the diplomats persona non grata but left the decision to Canada. The writer emphasizes the need for Canada to stop making allegations of Vienna Convention violations, highlighting the hypocrisy in Trudeau's actions.
+
+India is urged to inform the US and others who raise the Nijjar case that Canada should file a case in its courts and provide evidence to substantiate its charges against India. The writer criticizes this demand as preposterous, stating that intelligence alone is insufficient as evidence. It is suggested that India should expose Canadian political and underworld links with Khalistani separatism and condemn acts glorifying violence against India.
+
+Trudeau's actions are seen as an attempt to pressure the Indian government through the large Indian diaspora in Canada. The writer suggests that Indian diplomats find ways to reach out to non-Khalistani supporters in the diaspora to counterbalance Trudeau's damaging stance. Additionally, India's diplomatic objective should be to demonstrate the untenability of Trudeau's position and expose the discriminatory visa practices for Indian defense service personnel.
+
+India has ensured that Canadians of Indian origin face no difficulties in obtaining visas to travel to India, while visas for Canadian business persons have also been opened. However, non-Indian origin Canadians are currently not allowed to travel to India for tourism purposes. The writer concludes that India's focus should be on refuting Trudeau's position and highlighting the flaws in Canadian visa practices.
+
+Disclaimer: The views expressed in the article are personal and do not necessarily reflect Firstpost's views.
 
 Wed, 15 Nov 2023 20:23:46 +0530
 ### [Vantage | How crypto and charity power Hamas terror](https://www.firstpost.com/opinion/vantage-how-crypto-and-charity-power-hamas-terror-13391052.html)

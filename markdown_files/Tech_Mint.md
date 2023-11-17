@@ -1,3 +1,14 @@
+Fri, 17 Nov 2023 20:28:40 +0530
+### [OLED TV for crystal clear viewing? Check out top 8 options to choose from](https://www.livemint.com/technology/gadgets/oled-tv-for-crystal-clear-viewing-check-out-top-8-options-to-choose-from-11700211959350.html)
+
+Article found but Couldn't summarize 
+Bring home an OLED TV and watch content like never before with your friends and family. Check out the best models and options online and choose one for your home.
+
+Fri, 17 Nov 2023 19:18:07 +0530
+### [Threads launches mobile web version; find out what's new](https://www.livemint.com/technology/threads-launches-mobile-web-version-find-out-whats-new-11700227739912.html)
+
+Threads, a social media platform, has introduced its mobile web browser version to enhance user experience. Initial testing showed seamless login through Chrome on iOS, with a temporary hurdle on Safari. Users are optimistic about quick resolutions to any technical glitches. The addition of the mobile web version is a relief for users who have expressed frustration over the lack of functionality. Previously, accessing user profiles was possible, but browsing feeds, posting, replying, or logging in from browsers was elusive. Threads initially gained popularity as a mobile-first platform but experienced a decline in engagement over time. Recognizing this, Mark Zuckerberg and Adam Mosseri committed to providing a mobile web version. Meta, the parent company, revealed developments to retain users, including the introduction of operating Threads on smartphones and other devices. This move addresses the demand for additional features and counters the limited view-only mode on desktop.
+
 Fri, 17 Nov 2023 17:41:35 +0530
 ### [Upcoming iPhone 16 could include a hardware cooling system: Report](https://www.livemint.com/technology/tech-news/upcoming-iphone-16-could-include-a-hardware-cooling-system-report-11700222564797.html)
 

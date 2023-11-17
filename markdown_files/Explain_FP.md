@@ -1,3 +1,21 @@
+Fri, 17 Nov 2023 19:59:30 +0530
+### [Dogs, robots and sponge bombs: How Israel is tracking and destroying Hamas tunnels](https://www.firstpost.com/explainers/hamas-terror-tunnels-dogs-robots-sponge-bombs-israel-tracking-destroying-13398122.html)
+
+Israel is intensively targeting Hamas and its tunnel network in Gaza. The Israel Defense Forces (IDF) has been conducting airstrikes and raids on the Gaza Strip, including at the Al-Shifa Hospital, which they claim houses a Hamas command center. The IDF is determined to destroy the labyrinth of tunnels built by Hamas, known as the "Gaza Metro," which serve as hiding places for militants, weapons storage, and command centers.
+
+To locate these tunnels, Israel is employing various technologies such as surveillance drones, satellites, and ground-penetrating radar. However, the rubble caused by Israeli bombardment may hinder the use of satellite data. Mapping and destroying the tunnels pose additional challenges. The IDF is using attack dogs, unmanned vehicles, and robots to map the tunnels' intricate paths and is avoiding sending troops without prior mapping due to potential booby traps left by Hamas.
+
+To seal off and destroy the tunnels, the IDF is utilizing innovative methods such as exploding gel and sponge bombs that expand rapidly and harden to seal gaps or tunnel entrances. Additionally, the tunnels are equipped with wires and cables for electricity, internet, telephones, and military communication.
+
+Hamas began constructing these tunnels in the mid-1990s, and they have become a vital asset for the group in Gaza, contributing to its strength compared to the Israeli-occupied West Bank. The tunnels vary in size and can accommodate cars and trucks, while most are deep enough to resist bunker-busting bombs. They also likely contain observation and detection devices to aid in targeting Israeli forces.
+
+The IDF has already destroyed 130 shafts but did not provide a specific count for demolished tunnels. The ongoing operation aims to dismantle Hamas and its extensive tunnel network in Gaza.
+
+Fri, 17 Nov 2023 19:58:47 +0530
+### [PM Modi sounds alarm on deepfakes: How can you spot them?](https://www.firstpost.com/explainers/pm-modi-sounds-alarm-on-deepfakes-how-can-you-spot-them-13399342.html)
+
+Prime Minister Narendra Modi recently raised concerns about the growing threat of deepfake technology. Speaking at a BJP event, he mentioned seeing a deepfake video of himself singing at a garba festival, despite not having done so since school. Modi highlighted the lack of a reliable verification system for such media and emphasized the potential crisis it poses in a diverse society like India. Deepfakes are manipulated media, often videos or images, where a person's likeness is replaced with someone else's using artificial intelligence algorithms. They can be difficult to detect, but there are some signs to look for. The Indian government has issued advisories to social media companies to identify and remove deepfakes and misinformation promptly. Additionally, experts suggest staying informed about current affairs and using AI detection tools. The article also mentions instances where deepfakes have been used maliciously, including conning people out of money and targeting women with revenge porn. The government aims to protect citizens, especially women and children, from the harms of deepfakes and calls upon online platforms to take decisive actions against their spread.
+
 Fri, 17 Nov 2023 17:47:57 +0530
 ### [In graphics | The regal history of India’s beloved ‘masala chai’](https://www.firstpost.com/explainers/in-graphics-the-regal-history-of-indias-beloved-masala-chai-13398822.html)
 
@@ -22,8 +40,7 @@ Is Israel preparing for a ground offensive against Hamas in southern Gaza?
 Fri, 17 Nov 2023 14:53:35 +0530
 ### [SpaceX’s second test flight for Starship rocket on Friday: What to expect](https://www.firstpost.com/explainers/spacexs-second-test-flight-for-starship-rocket-on-friday-what-to-expect-13395462.html)
 
-Article found but Couldn't summarize 
-SpaceX’s second test flight for Starship rocket on Friday: What to expect
+As GPT-3.5, I can provide you with a summary of the article you shared. SpaceX is planning a second test flight for its Starship rocket, which is considered the most powerful rocket ever built. The liftoff is scheduled to take place from SpaceX's facility in Boca Chica, Texas. The rocket will fly for 90 minutes before descending into the Pacific Ocean. The second flight will introduce new systems and enhancements, including a hot-stage separation system and a new electronic Thrust Vector Control (TVC) system. The launch is expected to occur on Friday, November 17.
 
 Fri, 17 Nov 2023 14:30:53 +0530
 ### [Different balls, DRS, coin toss: Pakistan’s bizarre conspiracies about India’s World Cup wins](https://www.firstpost.com/explainers/different-balls-drs-coin-toss-pakistans-bizarre-conspiracies-about-indias-world-cup-wins-13397622.html)

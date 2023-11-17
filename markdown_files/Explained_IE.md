@@ -1,3 +1,25 @@
+Fri, 17 Nov 2023 14:57:27 +0000
+### [What is the BDS movement, led by Palestinian groups against Israel?](https://indianexpress.com/article/explained/explained-global/bds-movement-palestine-israel-explained-9031211/)
+
+An article published in a German newspaper accused Indian poet and curator Ranjit Hoskote of "anti-Semitism" and sympathizing with the BDS (Boycott, Divestment, Sanctions) movement. As a result, Hoskote resigned from the Finding Committee for Documenta 16, a prestigious art exhibition held in Germany, and all members of the committee eventually resigned as well.
+
+The BDS movement, launched in 2005 by Palestinian groups, aims to gain international support for Palestinian rights through boycotts, divestments, and sanctions against Israel. It draws inspiration from the South African anti-apartheid movement and seeks nonviolent pressure on Israel until it complies with international law.
+
+BDS has three demands for Israel: ending its occupation and colonization of Arab lands, recognizing the rights of Arab-Palestinian citizens of Israel to full equality, and respecting the rights of Palestinian refugees to return to their homes. The movement targets multinational companies such as McDonald's, Puma, Google, Disney, and Amazon, urging people to boycott them.
+
+The article mentions that Israel justifies the construction of the separation wall between Israeli and Palestinian settlements in the West Bank for security purposes, while Palestinians argue that it allows for further annexation of territory. The International Court of Justice has called on Israel to cease the construction of the wall, stating it violates international obligations.
+
+UN Resolution 194, adopted in 1948, addresses the right of Palestinian refugees to return to their homes and receive compensation. BDS advocates for boycotting Israeli government entities, cultural institutions, and companies engaged in human rights violations against Palestinians. Divestment campaigns encourage withdrawing investments from Israel, while sanctions aim to pressure governments to fulfill their legal obligations and suspend Israel's membership in international forums.
+
+Although Israel's Prime Minister Benjamin Netanyahu has linked BDS to anti-Semitism, BDS argues that criticizing Israel's actions does not equate to anti-Semitism. The movement insists that everyone has the right to criticize a state's unjust actions.
+
+The impact of BDS on Israel's economy is difficult to assess, given the longstanding policy of Arab states boycotting Israel. However, BDS believes it can be a powerful tool in ending Western support for what they describe as Israeli apartheid and settler colonialism.
+
+Fri, 17 Nov 2023 13:51:06 +0000
+### [Explained: Art historian B N Goswamy’s work on Indian miniature painting tradition](https://indianexpress.com/article/explained/explained-culture/b-n-goswamy-miniature-painting-tradition-9031162/)
+
+Brijinder Nath Goswamy, a renowned Indian art historian and critic, passed away at the age of 90 due to prolonged illness. He was best known for his scholarship on Indian miniature painting tradition. Goswamy gained attention with his groundbreaking article in 1968, where he revealed family lineages of renowned artists who contributed to the development of miniature painting in India. This was a significant contribution to the history of Indian miniature paintings. Goswamy's research expanded to include various regions in northern and southern India, and he reconstructed entire dynasties of previously unknown artists, restoring their identities and honor. He received the Padma Bhushan award and was a former IAS officer. Indian art is characterized by intricate and highly detailed paintings on a small scale, using bright colors, intricate patterns, and elaborate detailing. The tradition of miniature painting in India dates back to the Buddhist Pala dynasty and began to thrive during the Mughal empire. Mughal miniatures were tiny, square-inch paintings that depicted religious texts and manuscripts. The tradition declined during the reign of Aurangzeb, leading to the emergence of new traditions in places like Himachal Pradesh, Jammu, Rajathan, and the Deccan region. The roots of Goswamy's research lay in his exploration of the Pahari painting style, where he discovered that the style was based on family lineage rather than the state of production. He reconstructed family networks and traced the contributions of artists and their descendants using inscriptions on miniatures and historical records. Goswamy's contributions expanded our knowledge of Indian miniature painting and restored the identities of previously obscure artists.
+
 Fri, 17 Nov 2023 11:48:48 +0000
 ### [The Beast vs the Red Flag: Comparing the cars of Biden and Xi](https://indianexpress.com/article/explained/explained-sci-tech/the-beast-red-flag-biden-xi-9030960/)
 

@@ -1,3 +1,103 @@
+Fri, 17 Nov 2023 18:15:14 +0000
+### [BJP govt has not fulfilled farmers’ demands: Satya Pal Malik](https://theprint.in/india/bjp-govt-has-not-fulfilled-farmers-demands-satya-pal-malik/1849542/)
+
+Former Jammu and Kashmir Governor Satya Pal Malik criticized the BJP government, accusing them of not meeting the demands of farmers. Malik called for unity among farmers and urged them to vote collectively based on agricultural issues. He specifically urged farmers not to vote for BJP leaders who have not addressed the minimum support price issue. When asked about the possibility of the BJP returning to power in the 2024 Lok Sabha polls, Malik expressed his anticipation of being in jail if that happens, claiming to be number one on Prime Minister Narendra Modi's list of enemies. Malik also mentioned that his security has been withdrawn and he only has one person for his protection.
+
+Fri, 17 Nov 2023 18:15:03 +0000
+### [Nearly 76 per cent turnout recorded in Madhya Pradesh elections](https://theprint.in/india/nearly-76-per-cent-turnout-recorded-in-madhya-pradesh-elections/1849541/)
+
+The voter turnout in the assembly elections in Madhya Pradesh was nearly 76 percent, surpassing the 2018 figure of 75 percent. The voting took place for all 230 constituencies in a single phase. The Bharatiya Janata Party and the Congress are in a direct fight in the state. There were instances of violence during the polling, including the death of an aide of a Congress candidate. The fate of 2,533 candidates, including the chief minister and the state Congress chief, was sealed in Electronic Voting Machines. Several prominent leaders, including Shivraj Singh Chouhan and Kamal Nath, cast their votes. The Congress accused the BJP of distributing money and liquor to voters.
+
+Fri, 17 Nov 2023 18:03:27 +0000
+### [Russian artist jailed for seven years over protest against Ukraine war](https://theprint.in/world/russian-artist-jailed-for-seven-years-over-protest-against-ukraine-war/1849539/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Russian artist Alexandra Skochilenko has been sentenced to seven years in jail for allegedly replacing price tags with anti-war messages in protest against the Ukraine war. Skochilenko was found guilty of "public dissemination of deliberately false information about the use of the Armed Forces of the Russian Federation." She placed paper fragments with false information in a supermarket in St. Petersburg. Despite pleading not guilty, Skochilenko was sentenced to seven years in jail and a three-year ban on using electronic or information and telecommunication networks. Amnesty International has condemned the verdict, stating that Skochilenko was trying to expose Russian aggression against Ukraine.
+
+Fri, 17 Nov 2023 18:03:18 +0000
+### [Woman raped by e-rickshaw driver in UP’s Bahraich, hunt on for accused](https://theprint.in/india/woman-raped-by-e-rickshaw-driver-in-ups-bahraich-hunt-on-for-accused/1849537/)
+
+A 20-year-old woman in Bahraich, Uttar Pradesh was allegedly raped by an e-rickshaw driver. The incident occurred when the woman was returning home from her grandmother's place. The driver claimed to be an acquaintance of her aunt and forcibly took her to his house where he raped her. The victim was later left at the district women's hospital due to injuries from the rape. The police have registered a case against the accused and are currently searching for him. The woman is receiving treatment at the hospital.
+
+Fri, 17 Nov 2023 18:02:46 +0000
+### [UAE: Anwar Gargash participates in second ‘Voice of Global South’ summit](https://theprint.in/world/uae-anwar-gargash-participates-in-second-voice-of-global-south-summit/1849536/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The UAE's diplomatic adviser, Anwar Gargash, represented the country at the second "Voice of Global South" summit, which was held virtually and hosted by India. The summit aimed to promote cooperation and joint action among developing countries, focusing on equitable and sustainable development opportunities. Discussions included efforts to enhance the participation of emerging and developing economies in various sectors and support for climate action. The first summit, held earlier this year, involved leaders and officials from 125 countries and aimed to highlight the priorities of developing countries. The UAE will host the United Nations Climate Change Conference of the Parties (COP28) in 2023.
+
+Fri, 17 Nov 2023 18:02:32 +0000
+### [LG announces 5 marla land to 17,000 PMAY-G landless tribal beneficiaries in J-K](https://theprint.in/india/lg-announces-5-marla-land-to-17000-pmay-g-landless-tribal-beneficiaries-in-j-k/1849534/)
+
+The Lieutenant Governor of Jammu and Kashmir, Manoj Sinha, has announced that his administration will provide five marla land to 17,000 eligible beneficiaries of the Pradhan Mantri Awas Yojana (Gramin) in the coming days. Sinha made this announcement during the 'Janjatiya Gaurav Saptah' celebration. He emphasized that it is a priority to safeguard the rights and benefits of all tribal communities and ensure equitable growth. Sinha also highlighted the efforts of the administration in providing educational opportunities and development programs for tribal communities.
+
+Fri, 17 Nov 2023 18:02:01 +0000
+### [India International Trade Fair 2023 offers wide range of activities for children](https://theprint.in/feature/india-international-trade-fair-2023-offers-wide-range-of-activities-for-children/1849533/)
+
+The 42nd edition of the India International Trade Fair (IITF) is taking place in New Delhi, with a focus on inclusivity for all ages, especially children. The event features a specially curated Kid Zone on the first floor of Hall 5, offering activities tailored for children. On the fourth day of the fair, children showed great enthusiasm for exhibits such as dinosaur fossils and a virtual reality zone. The event, which was initially open to business visitors, will be open to the general public from November 19 to 27.
+
+Fri, 17 Nov 2023 18:01:45 +0000
+### [Haryana chief secretary issues directives to curb illegal mining in Aravalli region](https://theprint.in/india/haryana-chief-secretary-issues-directives-to-curb-illegal-mining-in-aravalli-region/1849532/)
+
+The Haryana Chief Secretary has issued strict directives to tackle illegal mining activities in the Aravalli region. The instructions include implementing surveillance measures with CCTV cameras and drones, focusing on border areas adjoining Rajasthan. CCTV cameras are to be installed immediately, and drones will be used until the purchase process is completed. Control rooms will be established for continuous monitoring of illegal mining activities. The forest department has been tasked with protecting existing plantations and undertaking additional plantation efforts. Regular meetings with concerned departments and systematic inspections of stone crusher sites have been directed.
+
+Fri, 17 Nov 2023 18:01:10 +0000
+### [FIR against Manipur tribal leader over self-govt claims](https://theprint.in/india/fir-against-manipur-tribal-leader-over-self-govt-claims/1849531/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Manipur police have filed an FIR against Muan Tombing, the general secretary of the Indigenous Tribal Leaders Forum (ITLF), for allegedly conspiring to wage war against the Indian government. Tombing recently stated that the Kuki community will have its own separate chief minister and officials, regardless of whether the center recognizes it or not. The Manipur government has condemned the call for self-government, stating that it has no legal or constitutional basis. The education minister also criticized the statements, saying they appear to be motivated to disturb the law and order situation in the state.
+
+Fri, 17 Nov 2023 18:00:37 +0000
+### [Day 6: Giant drill bores 24 metres into rubble, backup equipment too on way](https://theprint.in/india/day-6-giant-drill-bores-24-metres-into-rubble-backup-equipment-too-on-way/1849530/)
+
+Rescue workers in Uttarakhand have made progress in their efforts to free 40 workers trapped inside a collapsed tunnel. They have bored through 24 meters of rubble, less than half the distance needed to reach the trapped workers. A backup machine is being flown in from Indore to assist in the rescue operation. The machine currently in use, an American auger machine, has been working at a slower pace than expected. The trapped workers are being sent supplies through pipes and constant communication is maintained with them. The rescue operation involves inserting six-meter sections of steel pipes as the machine drills through the debris. The operation has been periodically paused to address technical issues and fumes created by the machine. While vertical drilling is being considered, the current method of horizontal drilling is considered the best option. Families of the trapped workers have been allowed to speak to them through a pipe. The operation involves 165 personnel from multiple agencies.
+
+Fri, 17 Nov 2023 18:00:03 +0000
+### [Opposition parties in Assam prepare draft common manifesto for LS polls](https://theprint.in/india/opposition-parties-in-assam-prepare-draft-common-manifesto-for-ls-polls/1849529/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Fifteen opposition parties in Assam have prepared a draft of a state-specific common manifesto for the 2024 Lok Sabha polls, according to the chief spokesperson of the United Opposition Forum Assam (UOFA), Akhil Gogoi. The UOFA, formed on the lines of the Indian National Developmental Inclusive Alliance (INDIA), also prepared a "chargesheet against the BJP" during a meeting of the parties. The documents will be finalized in the next meeting on November 30 in Dibrugarh. The UOFA includes the Congress, AJP, CPI(M), Raijor Dal, CPI, Jatiya Dal-Asom, NCP, RJD, Janata Dal (U), TMC, CPI(ML), AAP, AIFB, Shiv Sena (UT), and Karbi Anglong-based APHLC. The opposition parties plan to raise corruption allegations against the chief minister and build public opinion against price rise, the old pension scheme, and other crucial issues. The UOFA had previously decided to put up one common candidate against every BJP nominee in the polls. Assam has 14 Lok Sabha constituencies and 126 assembly seats, as well as seven Rajya Sabha berths.
+
+Fri, 17 Nov 2023 17:47:14 +0000
+### [WHO warns of disease outbreak risk among returnees from Pakistan](https://theprint.in/world/who-warns-of-disease-outbreak-risk-among-returnees-from-pakistan/1849526/)
+
+The World Health Organization (WHO) is requesting $10 million to provide essential healthcare services to 700,000 migrants and refugees who have entered Afghanistan from Pakistan. The sudden increase in the number of people has raised concerns about the spread of diseases, especially polio. The WHO has identified unfavorable health conditions in temporary camps for displaced migrants and refugees, including malnutrition, physical and mental stress, and inadequate access to clean water. Without timely assistance, there is a risk of increased mortality and the need for essential services among these individuals. The WHO plans to establish temporary quarantine centers and deploy healthcare teams at the main entry points in Afghanistan. Meanwhile, Pakistan is determined to deport 1.7 million undocumented migrants.
+
+Fri, 17 Nov 2023 17:47:02 +0000
+### [“India World Cup jeet jaegi…”: Salman Khan at ‘Tiger 3’ event](https://theprint.in/feature/india-world-cup-jeet-jaegi-salman-khan-at-tiger-3-event/1849524/)
+
+Salman Khan, the Bollywood superstar, expressed confidence that Team India will win the World Cup title clash against Australia. He made this statement during a fan event for his movie 'Tiger 3'. Salman's film 'Tiger 3' was released on Diwali and has performed well at the box office. India will face Australia in the World Cup final, a repeat of the 2003 final. India reached the final by defeating New Zealand, with Mohammad Shami being the star performer. Australia reached the final by defeating South Africa. The article also provides the squads for both teams.
+
+Fri, 17 Nov 2023 17:45:26 +0000
+### [UP: Revenue official booked for trying to rape, kill woman colleague](https://theprint.in/india/up-revenue-official-booked-for-trying-to-rape-kill-woman-colleague/1849523/)
+
+A revenue official in Basti, Uttar Pradesh, has accused her colleague of attempting to rape and kill her at her government accommodation. The woman, who is posted as a naib tehsildar, alleged that her colleague forcibly entered her house on November 12 when she was alone. She claimed that he slapped her, threw her on the floor, and attempted to rape and strangle her. The woman hid under the bed and later ran towards the door to escape. She remained in the house for three days out of fear and did not tell anyone about the incident. An FIR has been registered against the accused under various sections of the Indian Penal Code, and an investigation is underway.
+
+Fri, 17 Nov 2023 17:45:15 +0000
+### [Gurugram: Man sentenced to life imprisonment for murdering wife](https://theprint.in/india/gurugram-man-sentenced-to-life-imprisonment-for-murdering-wife/1849522/)
+
+A man in Gurugram has been sentenced to life imprisonment for murdering his wife in 2020. The court also imposed a fine of Rs 50,000 on the man, with an additional punishment of one year if the fine is not paid. The police registered a case under various sections of the Indian Penal Code, including those related to dowry death. The forensic report revealed that the woman was beaten with a stick and then water was poured into her mouth while she was unconscious, causing her death. The man claimed that his wife committed suicide by consuming a poisonous substance, but the postmortem report indicated respiratory arrest and injury marks on her body.
+
+Fri, 17 Nov 2023 17:45:03 +0000
+### [CRPF jawan killed, 2 others injured in IED explosion in Jharkhand’s West Singhbhum](https://theprint.in/india/crpf-jawan-killed-2-others-injured-in-ied-explosion-in-jharkhands-west-singhbhum-2/1849521/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.A CRPF jawan was killed and two others injured in an IED explosion triggered by the CPI (Maoist) in the West Singhbhum district of Jharkhand. The incident occurred during an anti-Maoist operation in the Goilkera area. The injured jawans were airlifted to a hospital in Ranchi, where one of them, constable Santosh Oraon, later succumbed to his injuries. The other injured personnel are reported to be in stable condition. Governor C.P. Radhakrishnan and Chief Minister Hemant Soren offered their condolences and prayers for the deceased jawan. The security personnel also recovered two improvised explosive devices (IEDs), with one being defused and the other detonating during the operation. The operation is still ongoing.
+
+Fri, 17 Nov 2023 17:33:24 +0000
+### [Shooting attack near Hebron, no soldiers injured](https://theprint.in/world/shooting-attack-near-hebron-no-soldiers-injured/1849517/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The Israel Defense Forces have announced that a Palestinian terrorist who opened fire on soldiers near Hebron has been "neutralized" after troops returned fire. No Israelis were injured in the incident. Israeli fighter jets have also targeted Hezbollah terror targets in Lebanon, including a weapons storage facility and a military structure. In addition, a terror cell in Lebanon near the Israeli village of Arab al-Aramshe has been struck. The IDF has responded with fire towards the sources of several launches towards the areas of Kibbutz Malkia and Kibbutz Manara.
+
+Fri, 17 Nov 2023 17:33:13 +0000
+### [World’s largest journalism organization slammed as ‘Hamas Propaganda Tool’](https://theprint.in/world/worlds-largest-journalism-organization-slammed-as-hamas-propaganda-tool/1849515/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The Jerusalem Association of Journalists has called on the International Federation of Journalists (IFJ) to stop being a propaganda tool for Hamas. They specifically accuse the IFJ, along with the Palestinian journalists association, of blaming Israel for the deaths of reporters in the Gaza Strip without conducting any investigations or fact-checking. The Jerusalem journalists group criticizes the IFJ for ignoring a basic rule of journalism and turning into a propaganda tool for one side. They also condemn the IFJ for ignoring the restrictions that Hamas imposes on journalists and the way it limits freedom of expression in Gaza. The Jerusalem Association of Journalists stated that they are not members of the IFJ and will not participate in future events.
+
+Fri, 17 Nov 2023 17:33:01 +0000
+### [Voice of Global South Summit: Leaders expressed concern over Israel-Hamas conflict, says Foreign Secy Kwatra](https://theprint.in/world/voice-of-global-south-summit-leaders-expressed-concern-over-israel-hamas-conflict-says-foreign-secy-kwatra/1849513/)
+
+During the 2nd Voice of Global South Summit, leaders discussed the ongoing conflict in Gaza, focusing on "terrorism," the "humanitarian crisis," and the loss of civilian lives. Foreign Affairs Secretary Vinay Kwatra stated that multiple leaders expressed concern regarding the security situation in Gaza, with implications for many countries. The issue of the debt burden for climate crisis or energy transitions was also raised, emphasizing the need for financing that does not impose a debt burden on a country's economy. India offered to share its digital payment methods with the Global South, emphasizing the potential for increased transparency and reduced corruption.
+
+Fri, 17 Nov 2023 17:32:47 +0000
+### [UAE: Year of Sustainability presents its ‘Material Lab’ sustainable production programme](https://theprint.in/world/uae-year-of-sustainability-presents-its-material-lab-sustainable-production-programme/1849511/)
+
+The Year of Sustainability team in Dubai has introduced its "Material Lab" program, which focuses on sustainable production and repurposing materials. This collaborative initiative engages UAE-based creatives, innovators, and businesses to reimagine production and design using existing resources. The program has partnered with local designers and innovators to experiment with materials found in the UAE's landscape, excess waste, and more, in an effort to develop sustainable and environmentally-friendly materials. The participants have created various products, including furniture and merchandise, using resources such as palm fronds, sand, and date seeds. The Year of Sustainability also launched its official merchandise, which is produced using upcycled materials from the pre-existing UAE Year of the 50th range of products. These products, including jumpers, tote bags, jackets, and vests, will be available for purchase on the Year of Sustainability's official website and at the UAE House of Sustainability.
+
 Fri, 17 Nov 2023 12:41:33 +0000
 ### [Greater Noida worse than Delhi as a pollution hotspot. They’re playing ‘your air my air’ game](https://theprint.in/the-fineprint/greater-noida-worse-than-delhi-as-a-pollution-hotspot-theyre-playing-your-air-my-air-game/1848946/)
 
@@ -37,8 +137,7 @@ Hmm, I am not sure. Email support@chatbase.co for more info.Prime Minister Naren
 Fri, 17 Nov 2023 12:30:40 +0000
 ### [Muizzu takes office as the new Maldivian president](https://theprint.in/world/muizzu-takes-office-as-the-new-maldivian-president/1849056/)
 
-Article found but Couldn't summarize 
-Male, Nov 17 (PTI) Mohamed Muizzu took oath as the eighth President of the Maldives on Friday at a ceremony attended by a multitude of foreign dignitaries, including India’s Union Minister Kiren Rijiju. The eighth President of the Republic (of Maldives) Mohammed Muizzu was sworn in as President today, local media said. Chief Justice Muthasim [&#8230;]
+Mohamed Muizzu has been sworn in as the eighth president of the Maldives, with the ceremony attended by foreign dignitaries including India's Union Minister Kiren Rijiju. Muizzu, a close associate of former Maldives president Abdulla Yameen, defeated the incumbent Solih in the presidential runoff held in September. India is looking forward to productive discussions with the new leadership to enhance bilateral relations.Mohamed Muizzu has been sworn in as the eighth president of the Maldives. The ceremony was attended by numerous foreign dignitaries, including India's Union Minister Kiren Rijiju. Muizzu, a close associate of former president Abdulla Yameen, defeated incumbent Ibrahim Mohamed Solih in the presidential runoff held in September. India is looking forward to strengthening bilateral relations with the new leadership of the Maldives.
 
 Fri, 17 Nov 2023 12:30:26 +0000
 ### [PM Modi congratulates Spanish leader Sanchez on re-election](https://theprint.in/india/pm-modi-congratulates-spanish-leader-sanchez-on-re-election/1849054/)
@@ -609,8 +708,7 @@ Two of the 40 men trapped inside a collapsed highway tunnel in the Indian Himala
 Thu, 16 Nov 2023 06:15:03 +0000
 ### [‘Incredible’ Shami one of the top operators, India is the best team in the world: Williamson](https://theprint.in/sport/incredible-shami-one-of-the-top-operators-india-is-the-best-team-in-the-world-williamson/1846726/)
 
-Article found but Couldn't summarize 
-Mumbai, Nov 16 (PTI) New Zealand captain Kane Williamson doffed his cap to pacer Mohammed Shami and the India team after his side was outplayed in the World Cup semifinal here, saying that the bowling stalwart was one of the best in the world and Rohit Sharma&#8217;s side the &#8220;best team&#8221;. India crushed New Zealand [&#8230;]
+India defeated New Zealand by 70 runs in the World Cup semifinal, securing their spot in the final. New Zealand captain Kane Williamson praised Indian pacer Mohammed Shami, hailing him as one of the best bowlers in the world. Shami's impressive seven-wicket haul helped restrict New Zealand to 327 while chasing a target of 398. With this performance, Shami became the leading wicket-taker in the tournament despite missing four matches earlier. Williamson acknowledged that India is the best team in the world and commended their consistent performance. He also praised Virat Kohli's 50th ODI century, describing him as the best cricketer who keeps getting better. The controversy surrounding the pitch was brushed aside by Williamson, who stated that it was a good surface to play on. Looking ahead, he expressed optimism about the future of the New Zealand team, mentioning the emergence of new players. Daryl Mitchell's exceptional innings of 134 was also applauded by Williamson, acknowledging his contribution in the match.
 
 Thu, 16 Nov 2023 00:45:03 +0000
 ### [Jaishankar presides over repatriation of 2 stolen idols in UK](https://theprint.in/world/jaishankar-presides-over-repatriation-of-2-stolen-idols-in-uk/1846451/)
@@ -666,8 +764,7 @@ The South African government has announced that work on a monument to honor the 
 Wed, 15 Nov 2023 22:47:02 +0000
 ### [EAM Jaishankar asks Canada to share evidence on India’s alleged link in Nijjar killing](https://theprint.in/world/eam-jaishankar-asks-canada-to-share-evidence-on-indias-alleged-link-in-nijjar-killing/1846434/)
 
-Article found but Couldn't summarize 
-London [UK], November 16 (ANI): In response to Canadian Prime Minister Justin Trudeau&#8217;s allegations of India&#8217;s involvement in the killing of Khalistani terrorist Hardeep Singh Nijjar, External Affairs Minister (EAM) S Jaishankar has requested evidence to support the claims. During a conversation with journalist Lionel Barber on Wednesday, Jaishankar emphasised the importance of credible evidence. [&#8230;]
+Canadian Prime Minister Justin Trudeau has accused India of involvement in the killing of Khalistani terrorist Hardeep Singh Nijjar. In response, Indian External Affairs Minister S Jaishankar has requested credible evidence to support these claims. Jaishankar stated that no evidence has been provided thus far and urged the Canadian government to share any evidence they may have. He highlighted the accommodation of violent and extreme political opinions advocating separatism from India within Canadian politics. Jaishankar also emphasized the need for responsibility in exercising freedom of speech and expression in Canada. The article mentions incidents of attacks on Indian diplomats in Canada and a recent incident where Indian High Commissioner Vikram Doraiswami was stopped from entering a gurdwara in Glasgow. The ongoing diplomatic row between India and Canada has led to the withdrawal of diplomats and visa services. India has rejected the allegations made by Canada and stated that no evidence has been presented.
 
 Wed, 15 Nov 2023 22:15:02 +0000
 ### [Biden appoints Indian American to key position](https://theprint.in/world/biden-appoints-indian-american-to-key-position/1846433/)

@@ -1,3 +1,8 @@
+Fri, 17 Nov 2023 18:15:00 +0530
+### [‘The Hunger Games: The Ballad of Songbirds & Snakes’ movie review: Middling addition to the franchise](https://www.thehindu.com/entertainment/movies/the-hunger-games-the-ballad-of-songbirds-snakes-movie-review-middling-addition-to-the-franchise/article67544097.ece)
+
+The article discusses the film adaptation of Suzanne Collins' novel "The Ballad of Songbirds and Snakes," which is a prequel to the popular "Hunger Games" trilogy. The story focuses on President Snow, the autocratic ruler of Panem, and his involvement in the tenth Hunger Games. The film features callbacks to the original novels and films, but some aspects, such as the portrayal of the main character, Coriolanus, and his relationship with Lucy Gray Baird, are seen as disappointing. The article also mentions the performances of Peter Dinklage, Viola Davis, and Jason Schwartzman, as well as the sets and music in the film. The review questions whether this film will be the start of a prequel trilogy and compares it to another prequel that was poorly received. Overall, the article gives a mixed opinion of "The Ballad of Songbirds and Snakes."
+
 Fri, 17 Nov 2023 16:40:39 +0530
 ### [‘Falimy’ movie review: An endearing, humourous tale of a dysfunctional family](https://www.thehindu.com/entertainment/movies/falimy-movie-review-an-endearing-humourous-tale-of-a-dysfunctional-family/article67543846.ece)
 

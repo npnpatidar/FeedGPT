@@ -1,3 +1,9 @@
+2023-11-17T18:30:11+05:30
+### [Why Congress Has an Edge Over BJP in Madhya Pradesh](https://thewire.in/politics/why-congress-has-an-edge-over-bjp-in-madhya-pradesh)
+
+No Article text 
+Sidelining of regional leadership, corruption allegations and a lack lustre push for Hindutva have all resulted in a weakened BJP in Madhya Pradesh.
+
 2023-11-17T17:30:06+05:30
 ### [Misguided Mega-Projects Threaten to Devastate the Andaman and Nicobar Islands](https://thewire.in/environment/misguided-mega-projects-threaten-to-devastate-the-andaman-and-nicobar-islands)
 
@@ -69,6 +75,12 @@ Each artist featured here brings their unique journey to the table, sharing thei
 
 No Article text 
 Incremental evidence from lagging private capex, declining household savings, and PLFS and NCAER survey showing languid incomes reinforce the K-shaped economic trajectory for India’s households.
+
+2023-11-17T12:00:14+05:30
+### [Manipur: Meitei Outfit Attempts IED Attack on Assam Rifles](https://thewire.in/security/manipur-meitei-outfit-attempts-ied-attack-on-assam-rifles)
+
+No Article text 
+The IED was placed on a road down which a 'mine-protected vehicle', with around 10 soldiers of the Assam Rifles, was travelling.
 
 2023-11-17T11:01:58+05:30
 ### [There Is No Real Dislike for Cats in India – Art History Says as Much](https://thewire.in/books/art-history-cats-bn-goswamy-indian-cat)
