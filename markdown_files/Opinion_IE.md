@@ -1,3 +1,12 @@
+Fri, 17 Nov 2023 11:53:48 +0000
+### [Every child has the right to a family — Indian law has made this difficult](https://indianexpress.com/article/opinion/columns/every-child-has-the-right-to-a-family-indian-law-has-made-this-difficult-9030858/)
+
+The article focuses on the challenges faced by LGBTQIA+ individuals in India who want to adopt children. The recent marriage equality verdict in India denied LGBTQIA+ individuals the right to marriage, making it difficult for them to adopt. Same-sex couples are not allowed to adopt, and single men cannot adopt female children. The National Commission for Protection of Child Rights claimed, without scientific evidence, that allowing same-sex couples to adopt would endanger the well-being of children. However, the Delhi Commission for Protection of Child Rights and the Indian Psychiatric Association argued that disallowing same-sex couples the right to adopt violates children's rights to a family and the rights of queer individuals to have a family.
+
+The article also highlights that children raised in same-sex families do not experience stigma and discrimination primarily due to their home environment but rather due to the treatment they receive. Evidence from the Netherlands, the first country to legalize same-sex marriages, shows that children raised in same-sex families perform better educationally. The process of adopting in India is long, expensive, and requires immense patience, leading to a higher burden of scrutiny for adoptive parents compared to biological parents.
+
+The article mentions the disparity between the number of parents waiting to adopt and the number of children available for adoption. While there are many orphaned and destitute children in India, the process for declaring a child free for adoption is time-consuming. Efforts need to be made to speed up the process and establish a robust fostering system. The article concludes by emphasizing the right of every child to have a family and the right of every individual, regardless of sexual orientation or gender identity, to parent a child.
+
 Fri, 17 Nov 2023 04:30:51 +0000
 ### [Now and Then: The Beatles came back to say goodbye — and they are going out on top](https://indianexpress.com/article/opinion/columns/now-and-then-the-beatles-came-back-to-say-goodbye-9029659/)
 
@@ -16,12 +25,32 @@ India's economic rise has been impressive and admired, with the country on track
 Fri, 17 Nov 2023 01:37:24 +0000
 ### [BJP’s politics of gesture means little for tribal communities it is wooing](https://indianexpress.com/article/opinion/columns/bjps-politics-of-gesture-means-little-for-tribal-communities-it-is-wooing-9029812/)
 
-Article found but Couldn't summarize
+Prime Minister Narendra Modi visited the birthplace of tribal freedom fighter Birsa Munda on his birth anniversary, November 15. During his visit, PM Modi launched the Viksit Bharat Sankalp Yatra, which aims to ensure the last-mile delivery of government services and schemes. He also announced the PM Janjati Adivasi Nyaya Maha Abhiyan, a program focused on empowering and protecting the Particularly Vulnerable Tribes among the tribal communities. Additionally, projects worth approximately Rs 7,200 crore related to coal, petroleum, railways, roads, and education were unveiled.
+
+The BJP has recognized the importance of tribal traditions, culture, and history and incorporated it into their political agenda. They have allocated resources for tribal research institutes, museums, research fellowships, and residential education. By doing so, they position themselves as champions of tribal causes, which have often been overlooked by other political parties.
+
+However, there are limitations and contradictions within this project. The BJP selectively engages with aspects of tribal culture and history that do not conflict with its own ideology. It neglects crucial issues such as tribal languages and religions, which are essential components of tribal identity. The BJP's focus on Hindi and regional languages contributes to the erosion of tribal languages, many of which are on the verge of extinction. Similarly, the BJP is hesitant to acknowledge distinct tribal religious identities.
+
+While the BJP emphasizes tribal culture and history, it overlooks the core issues faced by tribal populations, including dilution of pro-tribal protective laws and regulations. There have been instances under the current NDA regime of attempts to amend acts that safeguard tribal interests. For example, the Land Acquisition, Rehabilitation and Resettlement Act was targeted for amendment in 2015, which aimed to exempt certain projects from social impact assessment and consent requirements.
+
+The writer points out that despite various development programs implemented since Independence, tribal communities continue to face higher poverty levels compared to the rest of India. States with significant tribal populations, such as Jharkhand and Odisha, have seen an increase in poverty due to development projects related to mining, industries, dams, irrigation, and power.
+
+In summary, while the BJP has made efforts to address tribal issues through cultural engagement and targeted programs, there are concerns about its selective approach, neglect of crucial aspects of tribal identity, and potential negative impacts on tribal communities due to development projects.
 
 Fri, 17 Nov 2023 01:30:59 +0000
 ### [What can a domestic violence survivor do when the justice system lets her down?](https://indianexpress.com/article/opinion/columns/what-can-a-domestic-violence-survivor-do-when-the-justice-system-lets-her-down-9029844/)
 
-Article found but Couldn't summarize
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.A recent study conducted in Haryana analyzed over 400,000 FIRs (First Information Reports) and discovered that the legal process in India is biased against women. This finding resonates with the experiences of an NGO called Majlis, which works with women and child victims of sexual and domestic violence in Mumbai. The article highlights the various forms of violence women face, including physical, economic, verbal, and sexual abuse.
+
+The National Crime Records Bureau (NCRB) reports an increase in crimes against women every year. For instance, the NCRB report of 2015 states that 21 women die daily due to dowry-related issues in India. The NCRB report of 2019 reveals that 400,000 cases were registered under Section 498A of the Indian Penal Code (IPC), which deals with cruelty towards married women. The National Family Health Survey 5 (2019-20) also indicates that 30% of women between the ages of 18 and 49 experienced physical violence, while 6% experienced sexual violence in their lifetime.
+
+To address domestic violence, specific laws have been enacted, such as Section 498A of the IPC introduced in 1983. However, even after four decades, the police still show reluctance in filing FIRs for grave incidents of domestic violence. They often suggest counseling or resolving the matter within the family, failing to understand the severity of the situation. When women are turned away by the police, it leads to a loss of hope, and some cases end tragically in suicide or murder.
+
+The patriarchal mindset within the police force contributes to their apathy towards recording FIRs. Additionally, demeaning comments made by the Supreme Court and high courts, along with sensationalized media coverage, further worsen the situation. Misconceptions about the misuse of Section 498A are prevalent, with comments suggesting that women weaponize the law instead of using it as a shield.
+
+The article discusses a specific case, Rakesh and Reena Rajput v The State of Jharkhand, where the court criticized the misuse of Section 498A. However, the facts of the case show inconsistencies in the allegations made against the accused. Despite these errors, the court placed the blame on the woman, sending a dangerous message to implementing agencies and discouraging women from seeking legal recourse for domestic violence.
+
+Overall, the article highlights the challenges women face throughout the legal process, including societal biases, police reluctance, and judicial misconceptions. It calls for a comprehensive understanding of the issue and the need to support women who seek justice for domestic violence.
 
 Fri, 17 Nov 2023 01:22:48 +0000
 ### [When Xi met Biden](https://indianexpress.com/article/opinion/editorials/when-xi-met-biden-9029820/)

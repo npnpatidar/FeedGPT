@@ -1,3 +1,9 @@
+Fri, 17 Nov 2023 15:25:40 +0530
+### [States v. Governors: Delay in assenting to Bills | Explained](https://www.thehindu.com/news/national/states-vs-governors-delay-in-assenting-to-bills-explained/article67520783.ece)
+
+Article found but Couldn't summarize 
+What is the process of granting assent? What do Constituent Assembly debates say? Can the Governor override the decision of the Legislative Houses? What has the Supreme Court held in the past?
+
 Fri, 17 Nov 2023 10:30:00 +0530
 ### [How fractals offer a new way to see the quantum realm | Explained](https://www.thehindu.com/sci-tech/science/fractal-dimensions-quantum-physics-explained/article67535596.ece)
 

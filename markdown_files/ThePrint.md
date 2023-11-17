@@ -1,3 +1,107 @@
+Fri, 17 Nov 2023 12:41:33 +0000
+### [Greater Noida worse than Delhi as a pollution hotspot. They’re playing ‘your air my air’ game](https://theprint.in/the-fineprint/greater-noida-worse-than-delhi-as-a-pollution-hotspot-theyre-playing-your-air-my-air-game/1848946/)
+
+Article found but Couldn't summarize 
+Twitter and WhatsApp groups have become a battleground with people fighting over which state government to blame—Delhi or UP.
+
+Fri, 17 Nov 2023 12:32:24 +0000
+### [India’s Real Estate Sector Thrives During Festive Times](https://theprint.in/ani-press-releases/indias-real-estate-sector-thrives-during-festive-times/1849067/)
+
+During the festive season, the real estate market experiences a surge in demand, with developers offering enticing incentives and discounts to attract prospective buyers. This auspicious time aligns with professionals receiving assessments, bonuses, and benefits, leading to increased discretionary spending. The affordability of properties in the market, coupled with the influx of millennials with increasing disposable incomes, drives the demand for housing. Homebuyers are enthusiastically finalizing their property transactions during this auspicious season, indicating a shift towards committed buyers in the real estate market. The festive season is seen as a golden opportunity to buy a property, where aspirations meet auspiciousness. Developers eagerly wait for this quarter of the year to cash in on the buoyant sentiments. The recent industry report shows a significant increase in sales in Q3 2022, with developers offering exclusive deals to cater to the increased demand during the festive season.
+
+Fri, 17 Nov 2023 12:32:12 +0000
+### [Union Minister Kiren Rijiju reviews Greater Male Connectivity project in Maldives](https://theprint.in/world/union-minister-kiren-rijiju-reviews-greater-male-connectivity-project-in-maldives/1849065/)
+
+Union Minister of Earth Sciences, Kiren Rijiju, reviewed the progress of the Greater Male Connectivity Project in the Maldives. The project, being undertaken under India's concessional line of credit and grant, is expected to bring economic development and prosperity to the region. The project is part of the greater cooperation between India and the Maldives, which has seen progress in various areas, including cyber security, disaster management, and police infrastructure development. Minister Rijiju also called on the Sri Lankan President to discuss the bilateral relationship between India and Sri Lanka. The Maldives is an important neighbor to India and the partnership between the two countries has grown despite the disruptions caused by the pandemic. Both countries have policies that prioritize each other's interests and work together to address shared concerns.
+
+Fri, 17 Nov 2023 12:32:02 +0000
+### [Celebrating Health and Nutrition with American Pistachios](https://theprint.in/ani-press-releases/celebrating-health-and-nutrition-with-american-pistachios/1849062/)
+
+The Indian market is seeing a growing demand for American pistachios as consumers become aware of their health benefits. A knowledge session was organized by the Indian office of American Pistachios Growers (APG) in Mumbai to discuss the nutritional properties of pistachios. The session highlighted a recent study by Cornell University that found pistachios have a high antioxidant capacity, rivaling that of popular antioxidant-containing foods. Pistachios are also a complete protein, making them suitable for those following a plant-based diet. They are low in calories and can be enjoyed as a guilt-free snack. American pistachios are available on major e-commerce platforms and with dry fruit retailers. The session featured celebrity chef Vicky Ratnani showcasing healthy recipes with American pistachios. American Pistachio Growers is a non-profit trade association representing growers, processors, and industry stakeholders in California, Arizona, and New Mexico.
+
+Fri, 17 Nov 2023 12:31:19 +0000
+### [Pakistan’s former army chief’s grand-daughter re-arrested as she walks out of Lahore jail](https://theprint.in/world/pakistans-former-army-chiefs-grand-daughter-re-arrested-as-she-walks-out-of-lahore-jail/1849059/)
+
+Khadija Shah, the granddaughter of a former Pakistan army chief and a leader of ex-Prime Minister Imran Khan's party, was re-arrested shortly after being released from jail in Lahore. She had been detained for 30 days under the maintenance of public order ordinance. Shah had previously been in jail for six months for attacks on military installations. She was granted bail in four terrorism cases, but was immediately arrested again upon her release. The re-arrest of suspects involved in the May 9 violence has become a common occurrence in Pakistan. Shah had written an open letter from jail, highlighting the plight of female prisoners and seeking empathy and humanity. The military establishment has declared that all those involved in attacking army installations will be held accountable.
+
+Fri, 17 Nov 2023 12:31:05 +0000
+### [Govt delayed Navi Mumbai metro line commissioning for selfish gains, says NCP](https://theprint.in/india/govt-delayed-navi-mumbai-metro-line-commissioning-for-selfish-gains-says-ncp/1849058/)
+
+The NCP has accused the Maharashtra government of delaying the commissioning of the Navi Mumbai metro rail line for publicity purposes. The line, which runs between Belapur and Pendhar, was opened to the public without an official program on the direction of Chief Minister Eknath Shinde. The NCP claims that the metro was ready for public use six months ago but was not inaugurated due to the government's inability to secure an appointment with the Prime Minister. The party criticized the government for prioritizing publicity over the convenience of the common people. The metro service will operate with a frequency of 15 minutes, and fares will range from Rs. 10 to Rs. 40 depending on the distance traveled. The route has 11 stations and a depot located at Taloja Panchanand.
+
+Fri, 17 Nov 2023 12:30:50 +0000
+### [PM Modi says deepfakes can trigger big crisis, cites his own morphed garba video](https://theprint.in/india/pm-modi-says-deepfakes-can-trigger-big-crisis-cites-his-own-morphed-garba-video/1849057/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Prime Minister Narendra Modi addressed the media at BJP's 'Diwali Milan' program and warned about the potential crisis that deepfakes created by artificial intelligence could cause. He urged the media to raise awareness about their misuse and educate the public. Deepfakes can be particularly damaging in diverse societies, where people tend to trust media and those associated with it. Modi suggested that deepfakes should carry disclosures, similar to health warnings on cigarette packs. He also spoke about India's progress during the COVID-19 pandemic and the importance of highlighting the country's strengths without resorting to untruths. The article also mentions Modi's visit to a tribal region in Madhya Pradesh, where he interacted with self-help groups and expressed confidence in India's development by 2047.
+
+Fri, 17 Nov 2023 12:30:40 +0000
+### [Muizzu takes office as the new Maldivian president](https://theprint.in/world/muizzu-takes-office-as-the-new-maldivian-president/1849056/)
+
+Article found but Couldn't summarize 
+Male, Nov 17 (PTI) Mohamed Muizzu took oath as the eighth President of the Maldives on Friday at a ceremony attended by a multitude of foreign dignitaries, including India’s Union Minister Kiren Rijiju. The eighth President of the Republic (of Maldives) Mohammed Muizzu was sworn in as President today, local media said. Chief Justice Muthasim [&#8230;]
+
+Fri, 17 Nov 2023 12:30:26 +0000
+### [PM Modi congratulates Spanish leader Sanchez on re-election](https://theprint.in/india/pm-modi-congratulates-spanish-leader-sanchez-on-re-election/1849054/)
+
+Prime Minister Narendra Modi has congratulated Pedro Sanchez, the newly re-elected Prime Minister of Spain, and expressed his eagerness to strengthen the ties between India and Spain. Sanchez was chosen by a majority of legislators in a parliamentary vote on Thursday. Modi tweeted his warm congratulations and emphasized the desire to foster friendship and cooperation between the two countries for a bright future.Indian Prime Minister Narendra Modi congratulated Spanish Prime Minister Pedro Sanchez on his reelection, expressing his desire to further strengthen the relationship between India and Spain. Sanchez was chosen by a majority of legislators to form a new government in a parliamentary vote.
+
+Fri, 17 Nov 2023 12:30:15 +0000
+### [Child welfare committee expected to show sensitivity, not conduct proceedings in business-like manner: Delhi HC](https://theprint.in/india/child-welfare-committee-expected-to-show-sensitivity-not-conduct-proceedings-in-business-like-manner-delhi-hc/1849053/)
+
+The Delhi High Court has urged members of the Child Welfare Committee (CWC) to show sensitivity and use vernacular language when dealing with cases involving children conceived from alleged sexual assault. The court made these remarks in a POCSO case, in which a child born to a woman who only knew Urdu was surrendered and then put up for adoption. The court emphasized the importance of explaining the proceedings in a language understood by the victim and her mother. The court also appointed a lawyer to assist in considering the issues surrounding the case. The court sought information on whether the CWC had procedures in place to explain the provisions related to surrendering children in vernacular language. Furthermore, the court questioned who the legal guardian of the child would be when both biological parents were alive and in a consensual relationship.
+
+Fri, 17 Nov 2023 12:30:03 +0000
+### [5 Lashkar-e-Toiba terrorists killed in encounter in J&K’s Kulgam](https://theprint.in/india/5-lashkar-e-toiba-terrorists-killed-in-encounter-in-jks-kulgam/1849052/)
+
+Five Lashkar-e-Toiba (LeT) terrorists were killed in an overnight encounter with security forces in Jammu and Kashmir's Kulgam district. The operation was based on specific information regarding the presence of terrorists in the area, and the bodies of the slain militants were located using drone footage. The terrorists were involved in several terror crimes, including attacks on security forces and civilians. Incriminating materials and weapons were also found at the encounter site. The operation is considered a success in dealing a blow to the outfits operating in the region.
+
+Fri, 17 Nov 2023 12:27:32 +0000
+### [Danish Siddiqui’s family has asked Reuters this for 2 years—who sent him to Afghanistan?](https://theprint.in/feature/danish-siddiquis-family-has-asked-reuters-this-for-2-years-who-sent-him-to-afghanistan/1849017/)
+
+Article found but Couldn't summarize 
+Through their lawyers in Delhi and in the UK, Danish's family filed a case against Reuters in a London High Court this year.
+
+Fri, 17 Nov 2023 12:17:43 +0000
+### [Piyush Goyal calls for adopting framework for making global value chains resilient, inclusive](https://theprint.in/world/piyush-goyal-calls-for-adopting-framework-for-making-global-value-chains-resilient-inclusive/1849040/)
+
+Union Minister of Commerce and Industry, Piyush Goyal, has called for making global value chains more resilient and inclusive in response to the impact of global challenges on the Global South. Speaking at the 2nd Voice of Global South Summit, Goyal highlighted the disruptions caused by the COVID-19 pandemic, climate change, and geopolitical tensions, which have affected food, energy, security, cost of living, and the achievement of sustainable development goals. The minister emphasized the need for the collective voice of the Global South to be heard in finding solutions to these challenges. Goyal also mentioned that during India's G20 presidency, a framework for mapping global value chains was adopted to enhance resilience and inclusivity. Prime Minister Narendra Modi also inaugurated a global center for excellence called Dakshin, which aims to promote development and knowledge sharing among Global South countries. The summit aims to share the outcomes achieved in various G20 meetings during India's presidency.
+
+Fri, 17 Nov 2023 12:17:32 +0000
+### [SAARRU – India’s First Native Soup Launched by The Peninsular Export Company](https://theprint.in/ani-press-releases/saarru-indias-first-native-soup-launched-by-the-peninsular-export-company/1849038/)
+
+The Peninsular Export Company has launched Saarru, India's first native soup with local variants. The brand offers three soup mixes based on regional cuisine and plans to expand its portfolio. The soups are available in Tamil Nadu's B2C and B2B markets, as well as on e-commerce platforms. The mixes come with an easy-to-use manual and are priced at Rs. 50 each. Saarru aims to provide a quick, restaurant-style soup experience with more than 70% spices and no fillers. The brand targets urban youth and working women and plans to introduce vegetarian variants. Saarru focuses on online visibility and sales but also plans to reach consumers through vending machines and soup carts. The brand aims for significant market presence by 2024.
+
+Fri, 17 Nov 2023 12:17:22 +0000
+### [Jaishankar affirms India’s growing global role, says “This is an India that is more Bharat”](https://theprint.in/world/jaishankar-affirms-indias-growing-global-role-says-this-is-an-india-that-is-more-bharat/1849034/)
+
+Article found but Couldn't summarize 
+New Delhi [India], November 17 (ANI): External Affairs Minister S Jaishankar on Friday referred to key developments in the country, including cashless payments, lunar landings and woman empowerment and emphasised that &#8220;this is an India that is more Bharat,&#8221; and said that in the last decade, India has nurtured authentic and grounded politics by deepening [&#8230;]
+
+Fri, 17 Nov 2023 12:17:11 +0000
+### [Karkinos and Points for Good Collaborate to Raise Awareness and Promote Early Cancer Detection Among Points for Good Members and their Families](https://theprint.in/ani-press-releases/karkinos-and-points-for-good-collaborate-to-raise-awareness-and-promote-early-cancer-detection-among-points-for-good-members-and-their-families/1849032/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Karkinos Healthcare, an oncology platform, is partnering with Points for Good to raise awareness about the importance of early cancer detection. The collaboration aims to make cancer screening more affordable and accessible for members and their families. Points for Good is a platform that allows loyalty program members to redeem their points by donating to causes they care about. Through this partnership, members will have access to comprehensive cancer care, from early detection to treatment, guided by renowned oncologists. Karkinos Healthcare specializes in early detection and diagnosis of common cancers and has received investments from organizations such as the Tata Group and Reliance Industries.
+
+Fri, 17 Nov 2023 12:17:02 +0000
+### [Kara Killmer to exit season 12 of ‘Chicago Fire’](https://theprint.in/feature/kara-killmer-to-exit-season-12-of-chicago-fire/1849030/)
+
+American actor Kara Killmer, known for her role as paramedic Sylvie Brett, is set to leave season 12 of the TV series 'Chicago Fire'. Killmer joined the series in 2014 and has appeared in over 190 episodes. The specifics and timing of her exit have not been revealed yet. Killmer seemingly confirmed her departure on Instagram, sharing photos and reflecting on her time on the show and in Chicago. In contrast, Taylor Kinney will return to the series after taking a hiatus.
+
+Fri, 17 Nov 2023 12:16:13 +0000
+### [India records 26 fresh COVID-19 cases, active caseload at 172](https://theprint.in/india/india-records-26-fresh-covid-19-cases-active-caseload-at-172/1849028/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.India reported 26 new COVID-19 cases, bringing the total active caseload to 172, according to data from the Union Health Ministry. The death toll stands at 5,33,295, and the total case tally is at 4,50,01,536. The number of recoveries from the disease has reached 4,44,68,069, with a national recovery rate of 98.81%. The case fatality rate is 1.19%. The ministry also reported that 220.67 crore vaccine doses have been administered.According to the Union Health Ministry, India recorded 26 new COVID-19 cases and has an active caseload of 172. The death toll stands at 5,33,295, while the total COVID-19 case tally is at 4,50,01,536. The number of recovered cases is 4,44,68,069, resulting in a national recovery rate of 98.81%. The case fatality rate is at 1.19%. The ministry also reported that 220.67 crore vaccine doses have been administered so far.
+
+Fri, 17 Nov 2023 12:16:00 +0000
+### [Friday prayers not allowed at Srinagar’s Jamia Masjid for sixth consecutive week](https://theprint.in/india/friday-prayers-not-allowed-at-srinagars-jamia-masjid-for-sixth-consecutive-week/1849027/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The management body of Jamia Masjid in Srinagar, Anjuman Auqaf, has stated that the Jammu and Kashmir administration has disallowed Friday prayers at the historic central Jama Masjid in Srinagar for six consecutive weeks. The organization finds this decision incomprehensible and disturbing, particularly as it coincides with the continued house detention of Mirwaiz-e-Kashmir, Dr. Moulvi Muhammad Umar Farooq. Anjuman Auqaf believes that the mosque is being targeted due to the ongoing conflict between Palestine and Israel. The article provides a statement from Anjuman Auqaf highlighting their concerns.
+
+Fri, 17 Nov 2023 12:15:50 +0000
+### [Maharashtra cabinet approves guidelines for cluster universities](https://theprint.in/india/maharashtra-cabinet-approves-guidelines-for-cluster-universities/1849026/)
+
+The Maharashtra cabinet has approved guidelines for the establishment of cluster universities in the state. These universities will be public institutions, and the vice chancellors will be appointed by the Maharashtra Governor, who serves as the chancellor. Currently, there are three cluster universities in the state. The guidelines state that interested educational institutions should have the necessary infrastructure and capacity, with a minimum of two and a maximum of five colleges forming a cluster university. Professional courses can be taught in these colleges, excluding agriculture and health sciences institutions. The principal college within a cluster university should be at least 20 years old, have a minimum of 2,000 students, and have autonomous status for at least five years.
+
 Fri, 17 Nov 2023 06:32:43 +0000
 ### [India-US fund launch at APEC signals global recognition, President Biden acknowledges India’s growing role](https://theprint.in/economy/india-us-fund-launch-at-apec-signals-global-recognition-president-biden-acknowledges-indias-growing-role/1848384/)
 
@@ -71,8 +175,7 @@ Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. 
 Fri, 17 Nov 2023 06:16:05 +0000
 ### [As Gaza weeps, Kolkata sleeps. What happened to the ‘city of protests’?](https://theprint.in/opinion/as-gaza-weeps-kolkata-sleeps-what-happened-to-the-city-of-protests/1847724/)
 
-Article found but Couldn't summarize 
-Kolkata, it now seems, is a city without thought. A far cry from the city that roared for Vietnam, Nandigram, it has now misplaced its conscience.
+The article discusses the decline of protests and civil society action in Kolkata, India. The author reminisces about the city's history of vibrant protests and processions that brought about significant change, but laments that the current protests are often driven by self-interest rather than noble causes. The author questions why there has been little agitation from students, intellectuals, and the general public in Kolkata regarding recent events such as the Hamas attack on Israel and Israel's retaliatory bombing of Gaza. The article highlights the contrast between the current state of Kolkata and its past as a city known for rebellion and activism. It also mentions specific incidents, such as Prime Minister Narendra Modi having to be airlifted during anti-Citizenship Amendment Act protests and the cancellation of a political play called Barricade. The author expresses concern that Kolkata may have lost its conscience and calls for a revival of protest culture in the city.
 
 Fri, 17 Nov 2023 06:15:23 +0000
 ### [Man falls off to death while taking selfie in UP village](https://theprint.in/india/man-falls-off-to-death-while-taking-selfie-in-up-village/1848349/)

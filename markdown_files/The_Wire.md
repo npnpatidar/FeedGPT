@@ -1,3 +1,75 @@
+2023-11-17T17:30:06+05:30
+### [Misguided Mega-Projects Threaten to Devastate the Andaman and Nicobar Islands](https://thewire.in/environment/misguided-mega-projects-threaten-to-devastate-the-andaman-and-nicobar-islands)
+
+No Article text 
+Indian journalists, academics, scientists and activists who care deeply about the Andaman and Nicobar Islands have been sounding alarms about the NITI Aayog’s plans for many years now.
+
+2023-11-17T17:15:27+05:30
+### [The Majestic Aerial Course of B.N. Goswamy](https://thewire.in/the-arts/art-historian-bn-goswamy-obituary)
+
+No Article text 
+Among other things, no one was better at breaking the news to a hopeful dealer that the object he was trying to sell was spurious.
+
+2023-11-17T17:00:21+05:30
+### [Adani’s Alleged Irregularities on Import of Coal Again Under the Scanner](https://thewire.in/business/adanis-alleged-irregularities-on-import-of-coal-again-under-the-scanner)
+
+No Article text 
+On the basis of court filings, Reuters has reported that the Directorate of Revenue Intelligence wants to break the deadlock, which it claims the Adani Group has managed to impose on the sharing of documents from Singapore over its coal imports through lower court orders. The Adani Group denies all charges.
+
+2023-11-17T16:35:57+05:30
+### [On Hamas, Modi Government Wants to Have Its ‘Anti-Terror’ Cake and Eat It Too](https://thewire.in/diplomacy/on-hamas-modi-government-wants-to-have-its-anti-terror-cake-and-eat-it-too)
+
+No Article text 
+India abstained from the recent UNGA Gaza ceasefire resolution because the October 7 terror attack was not mentioned. But in 2018, it abstained from a resolution condemning Hamas' rocket attacks on civilians at the time.
+
+2023-11-17T16:30:28+05:30
+### [Watch | A Deep Dive on the Challenges Faced by Journalists in Gaza](https://thewire.in/video/685228)
+
+No Article text 
+Fiona O’Brien, UK Director of Reporters Sans Frontières, discusses the daunting challenges journalists in Gaza have to confront every single moment of the day
+
+2023-11-17T15:52:23+05:30
+### [Interview | Sachin Pilot on Paper Leaks, Rahul Gandhi, Adani, and the Importance of Forgetting](https://thewire.in/politics/sachin-pilot-interview-2023-rajasthan-election)
+
+No Article text 
+Speaking to The Wire, the former Rajasthan deputy chief minister also spoke on women's safety in the state and its prudent fiscal management.
+
+2023-11-17T15:36:20+05:30
+### [India’s PC Imports Surge to 4.5 million After Union Government U-Turn on Import Licenses](https://thewire.in/trade/indias-pc-imports-surge-to-4-5-million-after-union-government-u-turn-on-import-licenses)
+
+No Article text 
+According to the International Data Corporation, vendors shipped significant channel inventory to avoid any risks of supply shortages or price hikes, not to mention ensuring sufficient supplies for festival season sales.
+
+2023-11-17T15:30:39+05:30
+### [To Deepfake Is Human, to Detect Is Divine](https://thewire.in/tech/to-deepfake-is-human-to-detect-is-divine)
+
+No Article text 
+This article dives into the history of deception, deepfake detection techniques, risk analysis methods, and some early responses from across the globe to help contextualise the challenge posed by deepfakes.
+
+2023-11-17T15:23:09+05:30
+### [India Urges Canada to Abide By Vienna Convention on Diplomatic Relations](https://thewire.in/diplomacy/india-urges-canada-to-abide-by-vienna-convention-on-diplomatic-relations)
+
+No Article text 
+India's fresh call to Ottawa comes days after pro-Khalistan groups allegedly disturbed a camp set up by the Indian consulate in Vancouver.
+
+2023-11-17T13:17:15+05:30
+### [No Handcuffs for Economic Offences, Digital Evidence 'Safeguards': Parliamentary Panel Report on BNSS Bill](https://thewire.in/government/no-handcuffs-for-economic-offences-safeguards-electronic-evidence-misuse-parl-panel-report-on-bns)
+
+No Article text 
+The parliament panel has also sought greater clarity on the issue of the increased period of police custody, an issue that had been raised by the opposition MPs in their dissent notes.
+
+2023-11-17T12:59:14+05:30
+### [Watch | The Resonance of Resilience: Kashmir's Musical Odyssey](https://thewire.in/culture/watch-the-resonance-of-resilience-kashmirs-musical-odyssey)
+
+No Article text 
+Each artist featured here brings their unique journey to the table, sharing their experiences with the rich cultural history of Kashmir, weaving their narratives in the poetic blend of Urdu and the Kashmiri language.
+
+2023-11-17T12:09:23+05:30
+### [Mind the Gap: A Slender Upper and a Heavy Lower Arm Define India’s K-Shaped Trajectory](https://thewire.in/economy/economy-k-shaped-household-income)
+
+No Article text 
+Incremental evidence from lagging private capex, declining household savings, and PLFS and NCAER survey showing languid incomes reinforce the K-shaped economic trajectory for India’s households.
+
 2023-11-17T11:01:58+05:30
 ### [There Is No Real Dislike for Cats in India – Art History Says as Much](https://thewire.in/books/art-history-cats-bn-goswamy-indian-cat)
 

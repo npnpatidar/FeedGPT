@@ -1,3 +1,48 @@
+Fri, 17 Nov 2023 17:47:14 +0530
+### [Vantage | Global inflation is cooling and India has a hand in it](https://www.firstpost.com/opinion/vantage-global-inflation-is-cooling-and-india-has-a-hand-in-it-13398792.html)
+
+India played a crucial role in stabilizing global oil prices by buying Russian oil despite sanctions, according to External Affairs Minister S Jaishankar. This decision ensured a steady supply of oil and prevented a scenario where increased demand would drive prices even higher. The entire Global South also contributed to the stabilization of oil prices by maintaining a steady demand. The recent drop in inflation rates across major economies is seen as a positive sign, but caution is still advised. The interconnectedness of economies and the need for collaborative efforts to address economic challenges on a global scale are highlighted.
+
+Fri, 17 Nov 2023 16:57:13 +0530
+### [Vantage | Hamas may lose Gaza after this war, but will Netanyahu retain Israel?](https://www.firstpost.com/opinion/vantage-hamas-may-lose-gaza-after-this-war-but-will-netanyahu-retain-israel-13398392.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The ongoing conflict between Israel and Gaza has seen a controversial development on day 41. Israel claims that Gaza City's Al Shifa hospital is being used as a base by Hamas militants. Video evidence released by the Israeli Defense Forces shows weapons allegedly found within the hospital including AK-47s, grenades, and military uniforms. However, these claims have not been verified, raising concerns about the targeting of a protected facility under international law. Israel has also posted two versions of a hospital walkaround video, raising questions about the authenticity of the evidence. Attacks outside Al Shifa continue, with Israel targeting the residence of Hamas chief Ismail Haniyeh. The death toll in Gaza continues to rise, and the collapse of communication and medical services is making it challenging to obtain precise figures. The United Nations Security Council has passed a resolution calling for humanitarian pauses and corridors, but some permanent members abstained, signaling potential limitations in its effectiveness. Israel's rejection of the resolution and the controversial targeting of a hospital may erode global support. Pressure is mounting on the global community, particularly the United States, to intervene and call for a ceasefire. Internally, Israel faces challenges with opposition leader Yair Lapid calling for Prime Minister Netanyahu's resignation. The targeting of the hospital has sparked global concern, and finding a resolution to the conflict is urgent due to potential ramifications for Israel's global standing and the well-being of civilians in Gaza.
+
+Fri, 17 Nov 2023 15:14:48 +0530
+### [Vantage | With US playing election commissioner in Bangladesh, can India help?](https://www.firstpost.com/opinion/vantage-with-us-playing-election-commissioner-in-bangladesh-can-india-help-13397542.html)
+
+The article discusses the upcoming elections in Bangladesh and the unexpected involvement of the United States. The opposition has demanded the resignation of Prime Minister Sheikh Hasina, alleging potential election rigging, and has proposed appointing a neutral caretaker government. The United States has taken on the role of an election commissioner, meeting with key stakeholders in an attempt to broker peace and encourage opposition participation. The Bangladesh government has expressed dissatisfaction with the US intervention, emphasizing that this is an internal issue. The article raises questions about whether the US will leverage its economic ties, particularly in the garment industry, to influence the political dialogue in Bangladesh. It also considers India's role in the situation, as it has good relations with both the US and Prime Minister Sheikh Hasina. The outcomes of the election and the involvement of key players may shape the political landscape of Bangladesh and test regional relationships.
+
+Fri, 17 Nov 2023 14:05:37 +0530
+### [Supreme Court exposes political lack of will in curbing stubble burning](https://www.firstpost.com/opinion/supreme-court-exposes-political-lack-of-will-in-curbing-stubble-burning-2-13397902.html)
+
+Article found but Couldn't summarize 
+Supreme Court exposes political lack of will in curbing stubble burning
+
+Fri, 17 Nov 2023 13:42:15 +0530
+### [Afghan refugees facing human rights crisis in Pakistan: Where have bleeding hearts shouting Gaza slogans gone now?](https://www.firstpost.com/opinion/afghan-refugees-facing-human-rights-crisis-in-pakistan-where-have-bleeding-hearts-shouting-gaza-slogans-gone-now-13397572.html)
+
+Article found but Couldn't summarize 
+Afghan refugees facing human rights crisis in Pakistan: Where have bleeding hearts shouting Gaza slogans gone now?
+
+Fri, 17 Nov 2023 13:05:24 +0530
+### [Spamouflage Dragon: China’s pursuit of aggressive disinformation strategies for cyber hegemony](https://www.firstpost.com/opinion/spamouflage-dragon-chinas-pursuit-of-aggressive-disinformation-strategies-for-cyber-hegemony-13397212.html)
+
+Article found but Couldn't summarize 
+Spamouflage Dragon: China’s pursuit of aggressive disinformation strategies for cyber hegemony
+
+Fri, 17 Nov 2023 12:55:19 +0530
+### [Vantage | Why Rwanda sees UK's asylum plan as opportunity, court verdict as insult](https://www.firstpost.com/opinion/vantage-why-rwanda-sees-uks-asylum-plan-as-opportunity-court-verdict-as-insult-13396942.html)
+
+Article found but Couldn't summarize 
+Vantage | Why Rwanda sees UK's asylum plan as opportunity, court verdict as insult
+
+Fri, 17 Nov 2023 12:33:24 +0530
+### [Vantage | Why Erdogan went from talking peace to calling Israel a terror state](https://www.firstpost.com/opinion/vantage-why-erdogan-went-from-talking-peace-to-calling-israel-a-terror-state-13396952.html)
+
+Article found but Couldn't summarize 
+Vantage | Why Erdogan went from talking peace to calling Israel a terror state
+
 Fri, 17 Nov 2023 11:47:05 +0530
 ### [Vantage | What 'dictator' Xi got after meeting 'friend' Biden](https://www.firstpost.com/opinion/vantage-what-dictator-xi-got-after-meeting-friend-biden-13396642.html)
 

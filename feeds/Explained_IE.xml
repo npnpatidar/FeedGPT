@@ -5,6 +5,59 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Explained_IE.xml</link>
 		<description>Explained IE</description>
 		<item>
+			<title>The Beast vs the Red Flag: Comparing the cars of Biden and Xi</title>
+			<link>https://indianexpress.com/article/explained/explained-sci-tech/the-beast-red-flag-biden-xi-9030960/</link>
+			<description>During a bilateral meeting between US President Joe Biden and Chinese President Xi Jinping, Biden complimented Xi's red flag car, comparing it to a Cadillac. The meeting aimed to improve the US-China relationship, which has been deteriorating in recent years. The article compares the official cars of the two leaders, providing basic specifications. The Beast, used by Biden, is a mobile safety room with extensive armor and safety features. It has a 6.5-liter Duramax diesel engine and can withstand various threats. On the other hand, Xi's red flag car likely has inferior armor but compensates with speed, boasting a V8 or V12 engine that can reach speeds above 200 kmph. Hongqi, the luxury car brand, has been associated with high-ranking officials in China.</description>
+			<pubDate>Fri, 17 Nov 2023 11:48:48 +0000</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2023/11/BEAST-Hongqi.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2023/11/BEAST-Hongqi.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Tiger 3 and earlier: A short history of the portrayal of Pakistan in Bollywood</title>
+			<link>https://indianexpress.com/article/explained/explained-culture/tiger-3-history-portrayal-pakistan-bollywood-9030880/</link>
+			<description>The article discusses the trend of Hindi films in Bollywood that engage with India's relationship with Pakistan. It highlights previous films like "Pathaan," "Gadar 2," "Ek Tha Tiger," and "Tiger Zinda Hai" that tackled the India-Pakistan question. The article explores why Pakistan was rarely mentioned in Hindi films until the 1990s when movies began to address the aftermath of Partition more openly. It mentions films like "Sarfarosh" as one of the first mainstream Hindi films to explicitly name Pakistan as India's enemy. The trauma of Partition initially made it difficult for Bollywood to depict Pakistan directly.
+
+The article then explains how a generational change in Bollywood during the 1990s allowed for multidimensional discussions around Partition. Films started exploring Pakistani society, politics, and the military, showcasing relationships between Indians and Pakistanis. It also mentions the historical context of the four wars between India and Pakistan and how post-liberalization prosperity in India coincided with increased separatism and violence in Jammu and Kashmir. The article discusses the impact of terrorist attacks and the hardening of India's position towards Pakistan.
+
+Furthermore, it mentions films like "Bajrangi Bhaijaan," which depicted Pakistan positively but highlights a tonal shift in Bollywood's portrayal of Pakistan after the terrorist attacks. From 2017 onward, Pakistan has been portrayed mostly as the evil enemy without redeeming features in Indian films. This depiction aligns with the nationalist Hindutva discourse prevalent in India's mainstream political discourse. However, the success of "Tiger 3" is seen as an outlier in this trend.</description>
+			<pubDate>Fri, 17 Nov 2023 11:26:14 +0000</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2023/11/tiger-3-18.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2023/11/tiger-3-18.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>PM Modi raises concern over ‘deepfakes’: 10 ways to spot fake videos and audios</title>
+			<link>https://indianexpress.com/article/explained/explained-sci-tech/modi-deepfakes-audio-video-identify-9030758/</link>
+			<description>As GPT-3.5, I can provide a summary of the article you shared. The article discusses the growing concern of deepfake videos and audios, particularly in the context of political leaders and celebrities. Prime Minister Narendra Modi emphasized the need to understand artificial intelligence (AI) and its potential to create deepfakes, which can spread false information or have malicious intent. The article also provides tips on identifying deepfake videos and audios, such as observing unnatural eye movements, mismatches in color and lighting, comparing audio quality with visual content, and looking for strange body shape or movement. It advises verifying the source before sharing and staying informed about political developments to avoid falling into the trap of controversial audio or video clips. Additionally, there are AI detection tools available online that can help identify AI voices.</description>
+			<pubDate>Fri, 17 Nov 2023 10:20:27 +0000</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2023/11/modi-deepfake.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2023/11/modi-deepfake.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Why water reserves in southern India are fast depleting in 2023</title>
+			<link>https://indianexpress.com/article/explained/explained-climate/water-reserves-south-india-depleting-2023-9030349/</link>
+			<description>Water levels in the reservoirs of India's southern states are expected to decrease further in the coming months, raising concerns as stocks are already low this year. The Central Water Commission (CWC) reported that water levels in these states' reservoirs are lower compared to last year and other regions of the country. Currently, the water stocks stand at 44% of the total capacity, compared to 87% last year. The southern states monitored by the CWC include Andhra Pradesh, Telangana, Karnataka, Kerala, and Tamil Nadu. The low water reserves will have an immediate impact on irrigated farming, particularly paddy cultivation in Andhra Pradesh and Tamil Nadu, and will also affect the availability of drinking water. The situation may lead to drought declarations in some states and pose a challenge for the new state governments in addressing the agricultural crisis caused by water shortage.</description>
+			<pubDate>Fri, 17 Nov 2023 08:08:17 +0000</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2023/11/2048px-Mettur_dam.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2023/11/2048px-Mettur_dam.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Why ‘hallucinate’ is the Cambridge Dictionary’s Word of the Year for 2023</title>
+			<link>https://indianexpress.com/article/explained/everyday-explainers/hallucinate-meaning-cambridge-dictionary-word-of-the-year-2023-9030317/</link>
+			<description>The word "hallucinate" has been chosen as the Cambridge Dictionary's Word of the Year for 2023. This decision was made due to its new meaning in the realm of artificial intelligence (AI). Previously, the definition of "hallucinate" referred to seeing, hearing, feeling, or smelling something that does not exist, usually due to a health condition or drug use. However, with the rise of generative AI tools like ChatGPT and Bard, which use large language models (LLMs), the term has taken on an additional meaning. The Cambridge Dictionary now includes the definition of "hallucinate" as "when an artificial intelligence produces false information." 
+
+Generative AI, while capturing people's imagination, is still in its early stages with limitations and flaws. Hallucinations in AI occur when the system produces nonsensical but seemingly plausible falsehoods. This happens because generative AI tools rely on past data to generate responses based on prompts. While they excel at extracting specific information and consolidating it, when asked to be more original, they are more likely to go astray. AI systems can learn from inaccurate sources or produce inaccuracies while processing information, leading to real-world consequences. For example, a US law firm using ChatGPT for legal research cited fictitious cases in court, resulting in a fine of $5,000.
+
+The Cambridge Dictionary Word of the Year has been chosen annually since 2015 based on popular word usage and cultural significance. The selection of "hallucinate" for 2023 reflects the ongoing discussions around AI. Generative AI is a powerful tool, but people are still learning how to interact with it safely and effectively, considering both its strengths and weaknesses.</description>
+			<pubDate>Fri, 17 Nov 2023 06:27:39 +0000</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2023/11/head-674129_1920.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2023/11/head-674129_1920.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>What is Documenta, the art show from which curator Ranjit Hoskote has resigned?</title>
 			<link>https://indianexpress.com/article/explained/explained-culture/troubled-history-of-documenta-art-show-that-ranjit-hoskote-has-quit-9029880/</link>
 			<description>Hmm, I am not sure. Email support@chatbase.co for more info.Cultural theorist and curator Ranjit Hoskote has resigned from the Finding Committee of Documenta, a prestigious art exhibition, following accusations of anti-Semitism. Hoskote's resignation came after Israeli artist Bracha Lichtenberg Ettinger also resigned due to the rejection of her request to delay proceedings because of the war in Gaza. The German daily Süddeutsche Zeitung accused Hoskote of sympathizing with the Boycott, Divestment, Sanctions (BDS) movement, which opposes Israel's occupation of Palestinian territory. Documenta is a non-commercial art exhibition held every five years in Kassel, Germany, and is known for inviting artists who may not be well-known in Europe. The exhibition has faced criticism in the past for its Nazi connections and accusations of anti-Semitism. The next edition of Documenta will be held in 2027, and the Finding Committee now includes Gong Yan, Simon Njami, Kathrin Rhomberg, and María Inés Rodríguez.</description>

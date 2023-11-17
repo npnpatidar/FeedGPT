@@ -1,3 +1,9 @@
+Fri, 17 Nov 2023 15:05:21 +0530
+### [India’s decade started decades ago, and perhaps is going to be decades long…](https://www.livemint.com/opinion/columns/indias-decade-started-decades-ago-and-perhaps-is-going-to-be-decades-long-11700211894845.html)
+
+Article found but Couldn't summarize 
+Be it business, or something as mundane, as the value of our share holdings. Touch anything and by the end of the decade it will be gold. Kind of.
+
 Fri, 17 Nov 2023 10:00:08 +0530
 ### [RBI rap for Bajaj Finance highlights need to balance financial inclusion with consumer protection](https://www.livemint.com/opinion/online-views/rbi-rap-for-bajaj-finance-highlights-need-to-balance-financial-inclusion-with-consumer-protection-11700146960724.html)
 

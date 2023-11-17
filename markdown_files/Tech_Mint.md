@@ -1,3 +1,25 @@
+Fri, 17 Nov 2023 17:41:35 +0530
+### [Upcoming iPhone 16 could include a hardware cooling system: Report](https://www.livemint.com/technology/tech-news/upcoming-iphone-16-could-include-a-hardware-cooling-system-report-11700222564797.html)
+
+Rumors suggest that Apple may introduce a new cooling system in the iPhone 16 after users complained about heating issues with the iPhone 15. Leaks indicate that Apple is working on a thermal design using graphene technology for the upcoming iPhone 16 lineup. It is also reported that the iPhone 16 Pro model might feature metal battery casings to prevent overheating problems. Apple released a software update, iOS 17.0.3, to address the higher-than-anticipated temperature issues in iPhones. The update also fixed two vulnerabilities in iOS and iPadOS. Additionally, Apple has announced support for Rich Communication Services (RCS) messages in iPhones, which is considered the successor to SMS. Apple plans to add support for RCS Universal Profile next year, along with the continued use of its secure messaging experience, iMessage.
+
+Fri, 17 Nov 2023 17:03:21 +0530
+### [Samsung smart TV for unmatched viewing experience? 10 best picks to choose from](https://www.livemint.com/technology/gadgets/samsung-smart-tv-for-unmatched-viewing-experience-10-best-picks-to-choose-from-11700204558474.html)
+
+Article found but Couldn't summarize 
+Samsung smart TVs come with an assurance of quality. You can rely on them for having a good watching experience with the latest technology at your disposal. Check out the 10 best Samsung smart TVs to choose from for a new addition to your home.
+
+Fri, 17 Nov 2023 13:40:40 +0530
+### [43-inch smart TV is ideal size for any viewer: Pick from top 10 recommendations](https://www.livemint.com/technology/gadgets/43inch-smart-tv-is-ideal-size-for-any-viewer-pick-from-top-10-recommendations-11700198615505.html)
+
+Article found but Couldn't summarize 
+Bring home a 43-inch smart TV and take your content viewing experience to the next level. Check out the 10 best recommendations and get the one that suits your needs.
+
+Fri, 17 Nov 2023 12:04:08 +0530
+### [Apple announces RCS support for iPhones; what it means for Android users: Report](https://www.livemint.com/technology/tech-news/apple-announces-rcs-support-for-iphones-what-it-means-for-android-users-report-11700202344798.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Apple has announced that it will support Rich Communication Services (RCS) messages in iPhones. This comes after Google requested for Apple's support in this area. RCS chat is seen as the successor to SMS. Apple stated that it will add support for the RCS Universal Profile next year, which is the standard set by the GSM Association. Apple believes that RCS will offer a better interoperability experience compared to SMS or MMS, and it will work alongside iMessage. It is also noted that RCS messages from iPhones will be represented in green, while messages sent from iPhones were previously represented in blue, indicating that iMessage is the safest mode of communication. The report also mentions that the blue color bubbles in iMessage have gained cultural significance and have triggered pressure on tech companies, leading some Android users to switch to iPhones. RCS offers several features for carrier-based messaging, including group messaging and messaging over Wi-Fi. Additionally, Apple has extended access to its emergency SOS via satellite service for an additional year for existing iPhone 14 users.
+
 Fri, 17 Nov 2023 11:27:33 +0530
 ### [Garena Free Fire Max redeem codes for Nov 17, 2023: Win daily exciting rewards](https://www.livemint.com/technology/garena-free-fire-max-redeem-codes-for-nov-17-2023-win-daily-exciting-rewards-11700200402204.html)
 
