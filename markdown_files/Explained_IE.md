@@ -1,3 +1,8 @@
+Fri, 17 Nov 2023 02:00:10 +0000
+### [What is Documenta, the art show from which curator Ranjit Hoskote has resigned?](https://indianexpress.com/article/explained/explained-culture/troubled-history-of-documenta-art-show-that-ranjit-hoskote-has-quit-9029880/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Cultural theorist and curator Ranjit Hoskote has resigned from the Finding Committee of Documenta, a prestigious art exhibition, following accusations of anti-Semitism. Hoskote's resignation came after Israeli artist Bracha Lichtenberg Ettinger also resigned due to the rejection of her request to delay proceedings because of the war in Gaza. The German daily Süddeutsche Zeitung accused Hoskote of sympathizing with the Boycott, Divestment, Sanctions (BDS) movement, which opposes Israel's occupation of Palestinian territory. Documenta is a non-commercial art exhibition held every five years in Kassel, Germany, and is known for inviting artists who may not be well-known in Europe. The exhibition has faced criticism in the past for its Nazi connections and accusations of anti-Semitism. The next edition of Documenta will be held in 2027, and the Finding Committee now includes Gong Yan, Simon Njami, Kathrin Rhomberg, and María Inés Rodríguez.
+
 Thu, 16 Nov 2023 12:56:56 +0000
 ### [What a US-China climate deal means for COP28](https://indianexpress.com/article/explained/explained-climate/us-china-climate-deal-cop28-meaning-explained-9029524/)
 

@@ -1,3 +1,13 @@
+Fri, 17 Nov 2023 10:30:00 +0530
+### [How fractals offer a new way to see the quantum realm | Explained](https://www.thehindu.com/sci-tech/science/fractal-dimensions-quantum-physics-explained/article67535596.ece)
+
+Fractals, such as the Koch snowflake, exhibit self-similarity and can be found in various natural phenomena, including human fingerprints, tree stumps, snail shells, and cloud shapes. Fractal geometry is used to study quantum systems in non-integer dimensions, between one and two. These dimensions affect the behavior of quantum systems, and researchers have observed fractal arrangements in magnetic domains and electron density patterns. Fractals also have practical applications, such as data compression, antenna design, and studying patterns in galaxies and cell biology. Overall, fractals provide insights into new kinds of order and complexity in different natural processes.
+
+Fri, 17 Nov 2023 08:30:00 +0530
+### [How was the first vaccine for chikungunya approved? | Explained](https://www.thehindu.com/sci-tech/health/how-was-the-first-vaccine-for-chikungunya-approved-explained/article67541710.ece)
+
+The world's first vaccine for chikungunya has been approved by the Food and Drug Administration (FDA) in the U.S. The vaccine, called Ixchiq, has been developed by Valneva, a European vaccine manufacturer. It is approved for administration in individuals who are 18 years or older and at increased risk of exposure to the virus. The vaccine was approved using the Accelerated Approval pathway, which allows the FDA to clear products for serious or life-threatening conditions based on evidence of effectiveness. Chikungunya is a viral infection transmitted by mosquitoes and is characterized by severe joint pain, impaired mobility, and fever. The vaccine contains a live, weakened version of the chikungunya virus and is administered as a single dose by injection into the muscle. Common side effects reported by vaccine recipients include headache, fatigue, muscle pain, joint pain, fever, nausea, and tenderness at the injection site. The effectiveness of the vaccine was evaluated based on immune response data from clinical studies conducted in the U.S. This approval is seen as an important advancement in the prevention of chikungunya, which currently has limited treatment options.
+
 Thu, 16 Nov 2023 23:00:26 +0530
 ### [On the sub-categorisation within castes | Explained](https://www.thehindu.com/news/national/on-the-sub-categorisation-within-castes-explained/article67541707.ece)
 

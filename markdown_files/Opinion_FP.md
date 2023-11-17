@@ -1,3 +1,20 @@
+Fri, 17 Nov 2023 11:47:05 +0530
+### [Vantage | What 'dictator' Xi got after meeting 'friend' Biden](https://www.firstpost.com/opinion/vantage-what-dictator-xi-got-after-meeting-friend-biden-13396642.html)
+
+Article found but Couldn't summarize 
+Vantage | What 'dictator' Xi got after meeting 'friend' Biden
+
+Fri, 17 Nov 2023 11:42:05 +0530
+### [Vantage | Myanmar junta's fast losing ground to rebels and India's worried](https://www.firstpost.com/opinion/vantage-myanmar-juntas-fast-losing-ground-to-rebels-and-indias-worried-13396612.html)
+
+The military rulers in Myanmar have issued a controversial order calling up civilians, including government staff and former military personnel, to serve in the army. The order is vague, leaving the definition of "emergency" open to interpretation. Rebel forces in Myanmar have been gaining momentum, with an entire battalion recently surrendering to them in the Shan State. As violence continues, more troops from Myanmar are fleeing to India, raising concerns about the regional impact of the crisis. The international community, including India, is expressing deep concern and calling for a peaceful resolution. The situation in Myanmar is complex, with the military resorting to unconventional measures and rebels intensifying their operations. The influx of displaced individuals into neighboring countries underscores the urgency for a swift resolution.
+
+Fri, 17 Nov 2023 10:29:04 +0530
+### [Israel-Hamas conflict: Qatar spearheads diplomacy; Saudi Arabia balances cautious approach in shifting geopolitics](https://www.firstpost.com/opinion/israel-hamas-conflict-qatar-spearheads-diplomacy-saudi-arabia-balances-cautious-approach-in-shifting-geopolitics-13396222.html)
+
+Article found but Couldn't summarize 
+Israel-Hamas conflict: Qatar spearheads diplomacy; Saudi Arabia balances cautious approach in shifting geopolitics
+
 Thu, 16 Nov 2023 19:27:03 +0530
 ### [West Bengal: The epicentre of sex trafficking](https://www.firstpost.com/opinion/opinion-west-bengal-the-epicentre-of-sex-trafficking-13395082.html)
 

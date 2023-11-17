@@ -1,3 +1,19 @@
+Fri, 17 Nov 2023 11:37:16 +0530
+### [Who is Prakhar Pratap Singh, youngest candidate in MP?](https://www.firstpost.com/explainers/madhya-pradesh-assembly-elections-2023-who-is-prakhar-pratap-singh-the-youngest-candidate-in-the-state-13396202.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The second phase of the highly anticipated five-state assembly election is underway in Madhya Pradesh, with 230 seats up for voting. The Aam Aadmi Party (AAP) has made an entry into the state by fielding 66 candidates, including Prakhar Pratap Singh, a 25-year-old contender from the Gurh segment. Singh, who holds a Bachelor's and Master's degree in Architecture from the United States, decided to pursue a career in politics upon returning to India. Despite having family connections to both the Congress and the BJP, Singh joined the AAP because of their achievements in Punjab and Delhi, as well as their progressive attitude. His campaign focuses on local concerns such as the lack of schools, hospitals, and drinking water in Gurh. The BJP has dominated Madhya Pradesh politics for nearly 20 years, but the Congress is fighting to gain control in this election.
+
+Fri, 17 Nov 2023 10:09:22 +0530
+### [Uttarkashi tunnel collapse: Will 40 trapped workers be rescued in 12-15 hours?](https://www.firstpost.com/explainers/uttarkashi-tunnel-collapse-40-trapped-workers-rescue-operations-auger-drilling-machine-time-13396312.html)
+
+A portion of a tunnel under construction in Uttarkashi, India, collapsed, leaving 40 laborers trapped inside for six days. Rescue operations have been underway to find a way through the debris and rescue the workers. The National Disaster Response Force (NDRF) and State Disaster Response Force (SDRF) have been working tirelessly to establish communication and provide food and oxygen to the trapped workers. A new high-powered auger drilling machine has been brought in to create a passage for the workers to come out. The rescue teams are using the 'trenchless' technique with wide steel pipes. As of the latest report, the machine had drilled 21 meters through the rubble. The NDRF chief expressed hope that the workers would be brought out within the next 12 to 15 hours. However, government officials anticipate the rescue operation could take an additional two to three days. The trapped workers have been supplied with essential provisions but may require physical and mental rehabilitation upon rescue. Doctors are concerned about their well-being due to prolonged confinement and potential health risks. A makeshift health facility and ambulances with doctors have been set up outside the tunnel to provide immediate medical care.
+
+Fri, 17 Nov 2023 08:51:27 +0530
+### [Who are the Palestinian and Jewish-led groups in the US leading protests against Israel's actions in Gaza?](https://www.firstpost.com/explainers/who-are-the-palestinian-and-jewish-led-groups-in-the-us-leading-protests-against-israels-actions-in-gaza-13396092.html)
+
+Article found but Couldn't summarize 
+Who are the Palestinian and Jewish-led groups in the US leading protests against Israel's actions in Gaza?
+
 Thu, 16 Nov 2023 19:01:40 +0530
 ### [Why are the polls in Argentina being called the ‘first ever AI election?’](https://www.firstpost.com/explainers/why-are-the-polls-in-argentina-being-called-the-first-ever-ai-election-13394202.html)
 

@@ -1,3 +1,57 @@
+2023-11-17T11:01:58+05:30
+### [There Is No Real Dislike for Cats in India – Art History Says as Much](https://thewire.in/books/art-history-cats-bn-goswamy-indian-cat)
+
+No Article text 
+A well known art historian writes a delightful and whimsical – and well researched treatise – on the world of cats.
+
+2023-11-17T10:53:39+05:30
+### [Spain: Pedro Sanchez Secures New Term in Divided Country](https://thewire.in/world/spain-pedro-sanchez-secures-new-term-in-divided-country)
+
+No Article text 
+The Socialist prime minister has promised an amnesty for Catalan separatists in exchange for parliamentary support, dividing the country.
+
+2023-11-17T10:47:35+05:30
+### [In Two Months, India Transitioned from Aspiring Global South Leader to Plain US Ally](https://thewire.in/diplomacy/in-two-months-india-transitioned-from-aspiring-global-south-leader-to-plain-us-ally)
+
+No Article text 
+The 2+2 joint statement signals a renewed US-Indian convergence on Afghanistan. How far this would translate into proactive moves is a moot point.
+
+2023-11-17T10:09:15+05:30
+### [Delhi Government Minister Writes to ED and CBI Directors to Investigate the Chief Secretary](https://thewire.in/government/delhi-atishi-ed-cbi-chief-secretary-naresh-kumar)
+
+No Article text 
+This comes shortly after CM Arvind Kejriwal has forwarded a vigilance report to the Lieutenant Governor of Delhi that takes a dim view of the Dwarka Expressway land overvaluation case where the chief secretary has been accused of having a potential conflict of interest.
+
+2023-11-17T09:41:29+05:30
+### ['US Credibility at Stake': The Elders Write to Joe Biden on Israel-Hamas Conflict](https://thewire.in/world/the-elders-joe-biden-israel-palestine)
+
+No Article text 
+Members of the organisation founded by Nelson Mandela told Biden that the US can help build a new coalition for peace, including countries from the region and Europe who want a just settlement in the region.
+
+2023-11-17T09:14:49+05:30
+### [Why People Killed By Aerial Bombing Don't Matter](https://thewire.in/history/israel-gaza-palestine-aerial-bombing)
+
+No Article text 
+The West’s monopoly over this most lethal violence has conditioned how we see the victims of bombs – if we see them at all.
+
+2023-11-17T09:05:01+05:30
+### [At Tijara, Rajasthan's 'Yogi' Talks of Rising Above Caste](https://thewire.in/politics/mahant-baba-balaknath-rajasthan-election-yogi-adityanath)
+
+No Article text 
+Alwar MP Balaknath's comparison with Adityanath, the Uttar Pradesh chief minister, is deliberately and ubiquitously evoked by BJP on stickers, posters and billboards across the constituency.
+
+2023-11-17T08:33:31+05:30
+### [After Israel’s Gaza Hospital Operation, India Cites Importance of International Humanitarian Law](https://thewire.in/diplomacy/israel-gaza-hospital-india-humanitarian-law)
+
+No Article text 
+'The issue is not about one facility or a specific facility. India has always underlined the need for civilian casualties to be avoided, for humanitarian law to be observed...'
+
+2023-11-17T08:13:25+05:30
+### [Abolishing Governor's Post Isn't a Good Idea. What's Needed is a Rethink](https://thewire.in/government/abolishing-governors-post-isnt-a-good-idea-whats-needed-is-a-rethink)
+
+No Article text 
+While valid criticisms regarding the potential overreach of gubernatorial powers deserve attention, it is crucial to appreciate the intricate and significant role governors play in upholding the constitutional fabric.
+
 2023-11-16T21:54:14+05:30
 ### [Myanmar: After Refugees Flooded Into Mizoram, New Delhi Says It Was ‘Deeply Concerned’](https://thewire.in/diplomacy/new-delhi-says-deeply-concerned-after-myanmar-refugees-flooded-into-mizoram)
 

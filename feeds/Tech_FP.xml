@@ -5,6 +5,24 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Tech_FP.xml</link>
 		<description>Tech FP</description>
 		<item>
+			<title>Apple adopts RCS messaging: How is it going to make messaging better between Android and iOS</title>
+			<link>https://www.firstpost.com/tech/apple-adopting-rcs-how-is-it-going-to-make-messaging-better-between-android-and-ios-13396512.html</link>
+			<description>Hmm, I am not sure. Email support@chatbase.co for more info.Apple has announced that it will adopt the Rich Communication Services (RCS) messaging standard, allowing iOS users to exchange multimedia content with Android users. This move is seen as a strategic decision by Apple, driven by regulatory pressure and competition from rivals like Google and Samsung. The adoption of RCS will bring features such as read receipts, typing indicators, high-resolution image and video sharing, and location sharing to traditional text messages. Apple assures users that iMessage will remain a part of the messaging ecosystem. The adoption of RCS aims to bridge the feature gap between iPhone and Android messaging, offering a more versatile communication experience. The implementation of RCS is expected to enhance capabilities and provide more flexibility in messaging. This move by Apple may be a response to regulatory pressure, particularly from the European Union's Digital Markets Act (DMA). Overall, the integration of RCS is expected to upgrade the messaging experience for Apple users.</description>
+			<pubDate>Fri, 17 Nov 2023 10:56:24 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/11/Apple-adopts-RCS-messaging_-How-is-it-going-to-make-messaging-better-between-Android-and-iOS.jpg"></media:thumbnail>
+			<media:content url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/11/Apple-adopts-RCS-messaging_-How-is-it-going-to-make-messaging-better-between-Android-and-iOS.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Rashmika Mandanna, Katrina Kaif, now Kajol: Why are we seeing sudden uptick in deepfake videos</title>
+			<link>https://www.firstpost.com/tech/rashmika-mandanna-katrina-kaif-now-kajol-why-are-we-seeing-sudden-uptick-in-deepfake-videos-13396322.html</link>
+			<description>A deepfake video of Bollywood actress Kajol changing into an outfit went viral on social media, but it has been exposed as fake. The video originally featured a social media influencer, with Kajol's face digitally manipulated into the footage. Concerns about deepfakes have been on the rise following similar incidents involving actresses Rashmika Mandanna and Katrina Kaif. Deepfakes, which include manipulated videos, images, and audio, are becoming more common and are often used for misinformation and explicit content. The Indian government issued an advisory to social media platforms to take swift action against deepfakes and misinformation. Existing regulations may not be sufficient to tackle this issue. Advanced AI plays a significant role in creating deepfake content, often using publicly available social media profiles. Suggestions for combating this issue include the use of digitally signed videos to verify trustworthy content and proactive monitoring by celebrities to protect their brand from false representations.</description>
+			<pubDate>Fri, 17 Nov 2023 09:36:53 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/11/Rashmika-Mandanna-Katrina-Kaif-now-Kajol_-Why-are-we-seeing-sudden-uptick-in-deepfake-videos.jpg"></media:thumbnail>
+			<media:content url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/11/Rashmika-Mandanna-Katrina-Kaif-now-Kajol_-Why-are-we-seeing-sudden-uptick-in-deepfake-videos.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Japanese space startup that aims to colonise moon by 2040 to launch second mission soon</title>
 			<link>https://www.firstpost.com/tech/japanese-space-startup-that-aims-to-colonise-moon-by-2040-to-launch-second-mission-to-moon-13395112.html</link>
 			<description>Japanese space startup Ispace is preparing for its second mission to the Moon after its first mission in April ended in failure. The second mission, scheduled for launch in 2024, will be carried out in collaboration with SpaceX and will include a rover named 'Resilience' that will carry various payloads, including a water electrolyser, a food production experimentation module, and a micro-rover developed by Ispace. The company aims to contribute to NASA's Artemis program and plans to create a lunar settlement by 2040. Ispace's first mission failure was a setback, but the upcoming mission will incorporate improvements to enhance mission accuracy. Ispace will be competing with other companies in the race to achieve the first commercial lunar landing.</description>

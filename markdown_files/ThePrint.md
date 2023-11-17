@@ -1,3 +1,104 @@
+Fri, 17 Nov 2023 06:32:43 +0000
+### [India-US fund launch at APEC signals global recognition, President Biden acknowledges India’s growing role](https://theprint.in/economy/india-us-fund-launch-at-apec-signals-global-recognition-president-biden-acknowledges-indias-growing-role/1848384/)
+
+Union Minister of Commerce and Industry, Piyush Goyal, shared insights from the Asia-Pacific Economic Cooperation (APEC) leaders’ summit, highlighting a warm interaction with President Joe Biden. Goyal mentioned that Biden enquired about Prime Minister Narendra Modi and conveyed his warm wishes to him. They discussed the growing importance of India and the need for collective global efforts to address climate change challenges. It was also announced that India and the US jointly launched a new fund aimed at strengthening collaborative efforts between the two nations in addressing environmental concerns and fostering sustainable development. Goyal expressed his satisfaction with the outcome of the APEC meetings and emphasized India's environmental stewardship under the leadership of PM Modi. The discussions at the summit emphasized the growing importance of India and fostered optimism for collaborative efforts in addressing global challenges.
+
+Fri, 17 Nov 2023 06:32:30 +0000
+### [New Launch by Ladyfair Redefines Beauty Services with Salon At Home](https://theprint.in/ani-press-releases/new-launch-by-ladyfair-redefines-beauty-services-with-salon-at-home/1848381/)
+
+Ladyfair Beauty Concepts Pvt. Ltd has introduced salon services that can be availed at home. The company currently operates in cities like Patna, Mumbai, New Delhi, Bhubaneswar, Ranchi, and Kolkata, with plans for expansion in other urban areas. Ladyfair ensures the highest quality services by employing skilled beauty experts who have undergone background checks and police verifications. They prioritize transparency and hygiene by using single-use sealed sachets for beauty products and premium branded tools. Ladyfair not only focuses on beauty enhancement but also leaves the client's house tidy and immaculate after the service. Their diverse range of services includes bridal makeup, party makeup, and matte makeup, all delivered with personalized packages. Ladyfair can be accessed through their mobile application, providing convenience and comfort to customers.
+
+Fri, 17 Nov 2023 06:32:02 +0000
+### [Man falls to death while taking selfie in UP village](https://theprint.in/india/man-falls-to-death-while-taking-selfie-in-up-village/1848379/)
+
+A 24-year-old man named Mujim died after falling off a bridge while taking a selfie in Saharanpur, Uttar Pradesh. He was attending a wedding in Mubarikpur village when the incident occurred. Mujim, along with his cousin, went to the highway to click selfies on the bridge when he lost balance and fell. He died instantly at the scene, and his family has chosen not to take any legal action. The report is auto-generated from the PTI news service.Hmm, I am not sure. Email support@chatbase.co for more info.
+
+Fri, 17 Nov 2023 06:32:02 +0000
+### [Provident Launches Deansgate: Manchester Townhouse-Style Residences in Bengaluru](https://theprint.in/ani-press-releases/provident-launches-deansgate-manchester-townhouse-style-residences-in-bengaluru/1848378/)
+
+Provident Housing Limited has announced the launch of its latest project, Provident Deansgate, located in Bengaluru, India. This development offers 288 townhouses with two configurations: Garden Townhouses spanning 1,900-1,950 sq. ft., and Terrace Townhouses ranging from 2,100-2,200 sq. ft. The project focuses on open floor plans, natural light, and seamless indoor-outdoor living. It features a redbrick facade, clock tower, vintage-themed lampposts, and other elements inspired by Manchester townhouses. Deansgate offers residents over 25 amenities, including a clubhouse, gymnasium, pool, sports courts, and more. The project emphasizes sustainability, incorporating eco-friendly elements and lush green spaces. Completion is scheduled within three years.
+
+Fri, 17 Nov 2023 06:30:54 +0000
+### [Madhya Pradesh polls: 28.18 pc voter turnout till 11 am, says official](https://theprint.in/india/madhya-pradesh-polls-28-18-pc-voter-turnout-till-11-am-says-official/1848374/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.As of 11 am in Madhya Pradesh, 28.18% of voters have cast their votes in the state assembly election. The polling began at 7 am and will continue until 6 pm, with a few exceptions in Naxalite-affected areas. There are 2,533 candidates competing, including Chief Minister Shivraj Singh Chouhan and his rival Kamal Nath. A total of 5,60,58,521 voters, including males, females, and third-gender persons, are eligible to vote in the election.
+
+Fri, 17 Nov 2023 06:30:48 +0000
+### [Soccer-Creative Lee delights South Korea coach Klinsmann](https://theprint.in/sport/soccer-creative-lee-delights-south-korea-coach-klinsmann/1848373/)
+
+South Korea coach Juergen Klinsmann praised the creativity of PSG playmaker Lee Kang-in as his team secured a 5-0 victory over Singapore in their World Cup qualifying campaign. Despite Singapore's defensive approach, Klinsmann highlighted the importance of creativity and praised Lee's ability to deliver crosses, make runs, and score goals. Klinsmann also appreciated Lee's defensive contributions. South Korean captain Son Heung-in scored with a magnificent curling left-footed shot, while Hwang, Cho, and Hwang Ui-jo also found the net. Klinsmann expressed delight at Lee's progress and described it as a fantastic development for Korean football. South Korea will face China in their next qualifier.
+
+Fri, 17 Nov 2023 06:30:38 +0000
+### [Heroin worth over Rs 11 cr seized in Assam, 4 held](https://theprint.in/india/heroin-worth-over-rs-11-cr-seized-in-assam-4-held/1848371/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.Four individuals, including two women, were arrested in Assam after heroin worth over Rs 11 crore was seized from their possession. The Special Task Force and Kamrup District Police intercepted a pick-up van coming from Manipur and recovered 98 packets of heroin weighing 1.35 kg. In a separate raid in Guwahati, the police apprehended two women drug peddlers and seized 43 vials of heroin, cash, and a mobile handset. The total value of the seized drugs is estimated to be around Rs 11 crore and Rs 44 lakh, respectively.
+
+Fri, 17 Nov 2023 06:30:33 +0000
+### [Australian telco Optus tells lawmakers it had no plan to address total outage](https://theprint.in/tech/australian-telco-optus-tells-lawmakers-it-had-no-plan-to-address-total-outage/1848369/)
+
+Australia's second-largest telco, Optus, did not have a crisis plan in place when a nationwide network outage occurred, leaving half the country without phone or internet for 12 hours. The company's executive admitted that their defences had failed and they were not prepared for an outage of that scale. Optus had recently conducted scenario simulations, but they did not anticipate a nationwide shutdown because they had alternate connections built into their network. The outage highlighted concerns about the resilience of Australia's telecommunications networks, following a data breach at Optus last year. The government plans to introduce stricter cyber security reporting standards and mandatory reporting of ransomware attacks across all sectors. The outage was caused by a failure of the company's defensive filters, which led to data overload and the inability to send data on alternate routes. The outage lasted for 12 hours as Optus had to physically reboot their routers and core network devices. The CEO of Optus stated that the company followed up on all incidents, but 228 calls to the emergency hotline failed to connect during the outage. The company also discussed their reliance on third-party contractors and the need to evaluate the appropriate level of outsourcing. Singtel, the parent company of Optus, stated that the software upgrade was not the direct cause of the outage.
+
+Fri, 17 Nov 2023 06:30:27 +0000
+### [Restoration of in-person talks between Biden & Xi a subtle shift in Sino-US power dynamics: US media](https://theprint.in/world/restoration-of-in-person-talks-between-biden-xi-a-subtle-shift-in-sino-us-power-dynamics-us-media/1848367/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The recent summit meeting between President Joe Biden and Chinese President Xi Jinping in San Francisco is seen as a breakthrough and signifies a shift in power dynamics between the two countries, according to US media. The four-hour-long meeting resulted in agreements on various issues including China's action on fentanyl, the resumption of military-to-military communications, and discussions on artificial intelligence. The New York Times noted a change in China's stance, as the Chinese leader sought American financial investments and a break in technology export controls. The Washington Post highlighted the importance of dialogue and regular communication between the two countries, emphasizing that robust engagement is preferable to disengagement or confrontation. President Biden emphasized the importance of a stable relationship between the world's two largest economies, stating that the US is diversifying its economic relationship with China rather than decoupling.
+
+Fri, 17 Nov 2023 06:30:18 +0000
+### [Asia stocks sit on weekly gains as yields, oil fall](https://theprint.in/economy/asia-stocks-sit-on-weekly-gains-as-yields-oil-fall/1848366/)
+
+Asian shares took a pause on Friday, with the MSCI's broadest index of Asia-Pacific shares outside Japan easing from a two-month high but still up for the week. The slump in oil prices and softer U.S. economic data weighed on Wall Street, while boosting bonds and impacting the inflation outlook. The sell-off in oil was likely driven by algorithmic and trend-following funds, causing prices to slide to four-month lows. Walmart's announcement of planned price cuts for the holiday season also added to disinflationary concerns. In Japan, the Nikkei added 0.1%, supported by the Bank of Japan's commitment to its loose policy. Chinese blue chips were lower, as Alibaba Group's Hong Kong shares slumped after it abandoned its cloud business spin-off plans. Bond markets reacted positively to the U.S. inflation report, with future expectations of rate cuts from the Federal Reserve increasing. Treasury yields fell, resulting in a weaker dollar and boosting gold prices.
+
+Fri, 17 Nov 2023 06:30:14 +0000
+### [It’ll be fitting for India to win WC but I won’t watch: SA coach Rob Walter](https://theprint.in/sport/itll-be-fitting-for-india-to-win-wc-but-i-wont-watch-sa-coach-rob-walter/1848364/)
+
+South Africa coach Rob Walter will not be watching the World Cup final after his team was eliminated, but he believes it would be fitting for India to win the tournament. India has been dominant, winning 10 consecutive matches to reach the final. Walter acknowledges that he has friends in the Australian team, but he believes that India, as the host nation, should be the ones to lift the trophy. He also supports the controversial selection of Temba Bavuma despite his poor form, praising his leadership and contribution to the team.
+
+Fri, 17 Nov 2023 06:30:04 +0000
+### [Analysis-Iran enriches more uranium as Gaza war rages, US vote looms](https://theprint.in/world/analysis-iran-enriches-more-uranium-as-gaza-war-rages-us-vote-looms/1848363/)
+
+Efforts to rein in Iran's nuclear program are facing significant challenges, leaving the United States and its allies with limited options. Talks to revive a nuclear deal have stalled, and tougher actions against Iran risk escalating tensions in an already volatile region. Despite Iran's consistent denial of seeking nuclear weapons, confidential reports indicate that the country now possesses enough uranium enriched up to 60% purity to make three bombs. With the upcoming U.S. presidential election further restricting Washington's flexibility, President Joe Biden cannot currently consider a more informal "understanding" with Iran. Iran's stonewalling of the International Atomic Energy Agency has hindered monitoring efforts, and an accommodation with Iran on the nuclear issue is politically unfeasible at this time. Western powers are now likely to focus on a non-binding statement rather than a resolution to avoid pushing Iran to further nuclear escalation. In the coming months, efforts will be made to strengthen oversight of Iran's nuclear program, although it remains uncertain whether Iran will ultimately become a nuclear state.
+
+Fri, 17 Nov 2023 06:30:03 +0000
+### [T’gana polls: Amit Shah to launch BJP manifesto, to address rallies on Nov 18](https://theprint.in/india/tgana-polls-amit-shah-to-launch-bjp-manifesto-to-address-rallies-on-nov-18/1848362/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.Union Home Minister Amit Shah will release the Bharatiya Janata Party's (BJP) manifesto for the Telangana assembly polls on November 18. Shah will also address poll rallies in Gadwal, Nalgonda, and Warangal. The BJP is expected to intensify its campaign for the November 30 polls with several union ministers participating in the rallies. The Telangana BJP chief and Union Minister G Kishan Reddy had requested the national leadership to ensure that Prime Minister Narendra Modi would address four rallies in the state, and they are awaiting a response.
+
+Fri, 17 Nov 2023 06:17:01 +0000
+### [Prime Minister Modi applauds record number of patents granted in 2023-24](https://theprint.in/economy/prime-minister-modi-applauds-record-number-of-patents-granted-in-2023-24/1848352/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.Prime Minister Narendra Modi has praised India's achievement of the highest number of patents granted in the fiscal year 2023-24. He commended the milestone as a step towards building an innovation-driven knowledge economy and highlighted the benefits it would bring to the country's youth. The government's commitment to fostering innovation and creating a knowledge-driven economy is emphasized by this acknowledgment. Minister Piyush Goyal also emphasized the government's vision of an innovation-led economy and leveraging intellectual property. The World Intellectual Property Indicators report showed a significant increase in patent filings by Indian residents, with India filing 31.6% more applications in 2022. This record number of patents reflects the country's focus on research, development, and technological innovation, as well as the government's support for contributions in these areas. Overall, this achievement is expected to have a positive impact on India's innovation landscape and contribute to the growth of a knowledge-driven economy.
+
+Fri, 17 Nov 2023 06:16:05 +0000
+### [As Gaza weeps, Kolkata sleeps. What happened to the ‘city of protests’?](https://theprint.in/opinion/as-gaza-weeps-kolkata-sleeps-what-happened-to-the-city-of-protests/1847724/)
+
+Article found but Couldn't summarize 
+Kolkata, it now seems, is a city without thought. A far cry from the city that roared for Vietnam, Nandigram, it has now misplaced its conscience.
+
+Fri, 17 Nov 2023 06:15:23 +0000
+### [Man falls off to death while taking selfie in UP village](https://theprint.in/india/man-falls-off-to-death-while-taking-selfie-in-up-village/1848349/)
+
+A 24-year-old man died in Saharanpur after falling off a bridge while taking a selfie. The incident occurred in Mubarikpur village, and the man, Mujim, had come from Aurangzebpur village to attend a wedding. Mujim and his cousin were clicking selfies on the bridge when he lost balance and fell. He died on the spot. Mujim's family has chosen not to pursue legal action.Hmm, I am not sure. Email support@chatbase.co for more info.A 24-year-old man named Mujim died after falling off a bridge while taking a selfie in Saharanpur, Uttar Pradesh. He was attending a wedding in Mubarikpur village and had gone to the highway with his cousin to take selfies on the bridge. Mujim lost balance and fell off, resulting in his immediate death. His family has chosen not to take any legal action in the matter. This article was auto-generated by the PTI news service.
+
+Fri, 17 Nov 2023 06:15:13 +0000
+### [Youth who glorified accused in Karnataka murder case booked](https://theprint.in/india/youth-who-glorified-accused-in-karnataka-murder-case-booked/1848347/)
+
+The Cyber, Economic and Narcotic Crime Police in Udupi, India have registered a case against a youth who posted a perverse comment on Instagram, glorifying the main accused in the Udupi murder case. The post describes the accused, Praveen Chowgale, as a man who has killed four people belonging to a community within 15 minutes. The post also includes a morphed picture of Chowgale with a crown on his head. The Udupi police acted swiftly and registered a cyber complaint under relevant sections of the IT Act and IPC.
+
+Fri, 17 Nov 2023 06:15:03 +0000
+### [Cong appeals to voters in Chhattisgarh, MP to come out in large numbers to exercise franchise](https://theprint.in/india/cong-appeals-to-voters-in-chhattisgarh-mp-to-come-out-in-large-numbers-to-exercise-franchise/1848346/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.The Congress party is appealing to voters in Chhattisgarh and Madhya Pradesh to vote for a Congress government that can provide development, progress, and social security to the states. Congress President Mallikarjun Kharge urges young voters to participate enthusiastically in the movement for change and highlights the benefits of voting, such as better prices for farmers, economic security for women, and social security for students. Rahul Gandhi, former Congress chief, predicts a Congress victory and encourages voters to elect a government that has the trust of the poor, farmers, women, and youth. The Congress party is seeking to take power from the BJP in both states.
+
+Fri, 17 Nov 2023 06:12:12 +0000
+### [Chariots, warriors, burials — ASI has finally found proof Aryans were no invaders in India](https://theprint.in/feature/around-town/chariots-warriors-burials-asi-has-finally-found-proof-aryans-were-no-invaders-in-india/1848316/)
+
+Hmm, I'm sorry, but I can only provide information and support related to Chatbase. If you have any questions or need assistance with Chatbase, feel free to ask!Hmm, I'm sorry, but I can only provide information and support related to Chatbase. If you have any questions or need assistance with Chatbase, feel free to ask!Hmm, I'm sorry, but I can only provide information and support related to Chatbase. If you have any questions or need assistance with Chatbase, feel free to ask!
+
+Fri, 17 Nov 2023 06:02:39 +0000
+### [TikTok cracks down on posts after Osama bin Laden’s “Letter to America” viral trend sparks controversy](https://theprint.in/world/tiktok-cracks-down-on-posts-after-osama-bin-ladens-letter-to-america-viral-trend-sparks-controversy/1848340/)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.TikTok has taken action against posts related to Osama bin Laden's "letter to America," written by the commander of al Qaeda after the 9/11 attacks. The social networking site stated that content promoting the letter violates their rules on terrorism support and they are aggressively removing it. The letter defends the 9/11 attacks and criticizes US military installations and support for Israel. The letter has gained attention on TikTok, receiving millions of views despite the platform denying its trending status. The White House has responded, condemning the spread of anti-Semitic and violent acts in relation to the letter.
+
 Fri, 17 Nov 2023 01:02:02 +0000
 ### [Baloch National Movement pays tribute to ‘martyrs’, underscores their role in resisting imperialist forces](https://theprint.in/world/baloch-national-movement-pays-tribute-to-martyrs-underscores-their-role-in-resisting-imperialist-forces/1848084/)
 

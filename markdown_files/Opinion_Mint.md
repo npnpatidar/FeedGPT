@@ -1,3 +1,34 @@
+Fri, 17 Nov 2023 10:00:08 +0530
+### [RBI rap for Bajaj Finance highlights need to balance financial inclusion with consumer protection](https://www.livemint.com/opinion/online-views/rbi-rap-for-bajaj-finance-highlights-need-to-balance-financial-inclusion-with-consumer-protection-11700146960724.html)
+
+The Reserve Bank of India (RBI) has directed Bajaj Finance to stop offering digital loans through two products, ecom and Insta EMI card, due to violations of RBI's digital-lending rules. The company failed to issue key fact statements (KFS) to borrowers, which provide important information about interest rates and fees. The RBI made KFS mandatory in its digital-lending guidelines last year. The action by RBI is seen as an important step to ensure transparency and fair practices in the growing segment of digital lending. The digital lending sector in India is expanding rapidly, with fintech firms disbursing loans worth ₹92,267 crore in FY23. Traditional banks are also entering this space by offering pre-approved loans based on credit scores and data. It is crucial for regulators to strike a balance in intervening in the segment without imposing heavy-handed regulation. Financial literacy and a robust grievance-redressal mechanism are important to increase financial inclusion in the country.
+
+Fri, 17 Nov 2023 08:00:05 +0530
+### [Stop stubble burning: cooperative federalism and farm reforms can do the trick](https://www.livemint.com/opinion/online-views/stop-stubble-burning-cooperative-federalism-and-farm-reforms-can-do-the-trick-11700146717842.html)
+
+Article found but Couldn't summarize 
+Policy intervention in agriculture by way of MSPs and subsidies has incentivized inappropriate crops and its impact on air toxicity has grown harsh. We need structural reforms in the farm sector but this will take a formal mechanism for the Centre and states to work jointly.
+
+Fri, 17 Nov 2023 08:00:05 +0530
+### [Nutrition gap: Don't reduce India's food security law to a grain handout scheme](https://www.livemint.com/opinion/online-views/nutrition-gap-dont-reduce-indias-food-security-law-to-a-grain-handout-scheme-11700146226541.html)
+
+The article discusses the National Food Security Act (NFSA) in India, which has expanded the Public Distribution System (PDS) to cover two-thirds of the country's population. During the COVID-19 pandemic, the government increased the entitlement from 5kg to 10kg of food per person, free of cost. Although the quantity hike was rolled back after the pandemic, it continues as a free-ration scheme. The NFSA was initially a comprehensive food-security system aimed at improving nutrition and access to food, but it has been reduced to a rice and wheat PDS scheme and renamed the Prime Minister Garib Kalyan Anna Yojana (PMGKAY). The article criticizes the excessive focus on rice and wheat, the exclusion of certain beneficiaries, and the lack of budget support for key provisions of the act. It argues that the NFSA should go beyond being a free PDS scheme and prioritize nutrition and food security.
+
+Fri, 17 Nov 2023 08:00:05 +0530
+### [Cold War II vibe in Biden-Xi meet](https://www.livemint.com/opinion/quick-edit/cold-war-ii-vibe-in-biden-xi-meet-11700149744328.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.After a tense phone call between US President Joe Biden and Chinese President Xi Jinping, Biden referred to Xi as a dictator and leader of a communist country. This comment angered Beijing, who deemed it as political manipulation. The strained relationship between the two countries was evident during the summit, as they only achieved limited progress. They agreed to resume military dialogue but remain at odds over the situation in Taiwan. Despite an agreement to jointly combat the opioid crisis, Xi may have his own narrative for the Chinese public.
+
+Fri, 17 Nov 2023 08:00:05 +0530
+### [India is in peak form, playing its best cricket in memory](https://www.livemint.com/opinion/online-views/india-is-in-peak-form-playing-its-best-cricket-in-memory-11700150321826.html)
+
+The Indian men's cricket team has displayed unprecedented dominance in the one-day game during this year's World Cup. They achieved their tenth successive victory in the semi-final against New Zealand, with notable performances from Virat Kohli, Shreyas Iyer, Shubman Gill, and Rohit Sharma. India's bowling attack, led by Mohammed Shami, has also been remarkable, taking all 10 wickets of every opponent. The team's all-round performance sets them apart, with strong batting and impressive bowling. As they head into the World Cup final against Australia, fans expect peak performance from the Indian squad.
+
+Fri, 17 Nov 2023 08:00:04 +0530
+### [Improve ease of doing business to cut global supply chains' dependence on China](https://www.livemint.com/opinion/online-views/improve-ease-of-doing-business-to-cut-global-supply-chains-dependence-on-china-11700126262604.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.India has signed an agreement with the US and 12 other nations to reduce dependence on China and mitigate risks to the global supply chain, according to the Indian Commerce Ministry. The US has been concerned about the risk of high dependence on Chinese imports, particularly during emergencies like the COVID-19 pandemic. However, reducing these dependencies has proven challenging, as China is integral to global supply chains. Despite the US imposing high tariffs on Chinese imports, China remained the top supplier of imported goods to the US in 2022. To replace China in the supply chain, countries must embrace its supply chains. India would need to significantly scale up its manufacturing prowess to reduce its dependence on Chinese imports and compete as a low-cost manufacturing destination. Improving ease of doing business and addressing factors like power supply and labor policies are key priorities for Indian policymakers.
+
 Fri, 17 Nov 2023 00:08:53 +0530
 ### [Less than four at one blow](https://www.livemint.com/opinion/columns/less-than-four-at-one-blow-11700159353369.html)
 
