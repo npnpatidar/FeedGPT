@@ -1,3 +1,8 @@
+Fri, 17 Nov 2023 01:02:02 +0000
+### [November 17, 1983, Forty Years Ago: Tripartite talks](https://indianexpress.com/article/opinion/40-years-ago/november-17-1983-forty-years-ago-tripartite-talks-9029823/)
+
+The article covers multiple events happening around the world. In Parliament, after a heated debate on Punjab, the Home Minister proposed resuming talks with Akali Dal leaders. In New Delhi, preparations were underway for the arrival of the British queen, with decorations and hoardings showcasing her and the Duke of Edinburgh. Yasser Arafat's last stronghold in the Baddawi refugee camp fell to Syrian-backed rebels, while Israeli planes retaliated against pro-Iranian Muslim militants in eastern Lebanon. Additionally, India expressed support for Cyprus and criticized the unilateral declaration of independence by Turkish Cypriots in the northern territory.
+
 Thu, 16 Nov 2023 11:02:11 +0000
 ### [World Philosophy Day: The truth isn’t just out there — it’s in you](https://indianexpress.com/article/opinion/columns/world-philosophy-day-truth-isnt-out-there-9029078/)
 

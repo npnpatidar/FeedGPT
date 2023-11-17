@@ -1,3 +1,9 @@
+Fri, 17 Nov 2023 00:08:53 +0530
+### [Less than four at one blow](https://www.livemint.com/opinion/columns/less-than-four-at-one-blow-11700159353369.html)
+
+Article found but Couldn't summarize 
+Four looks like a limit on our ability to quickly estimate the number of objects in a set. Four or less, and we get it right every time. More than four, our accuracy falls off
+
 Thu, 16 Nov 2023 17:16:46 +0530
 ### [The economic consequences of the Gaza War](https://www.livemint.com/opinion/online-views/the-economic-consequences-of-the-gaza-war-11700134644773.html)
 

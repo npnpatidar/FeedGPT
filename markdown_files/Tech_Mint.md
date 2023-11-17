@@ -1,3 +1,13 @@
+Fri, 17 Nov 2023 06:33:42 +0530
+### [Meta floats Emu Video, AI-based video editing tools](https://www.livemint.com/technology/tech-news/meta-floats-emu-video-ai-based-video-editing-tools-11700182584963.html)
+
+Hmm, I am not sure. Email support@chatbase.co for more info.Meta Platforms has introduced two new AI-based features for video editing on Instagram and Facebook. The first feature, Emu Video, generates four-second videos with a caption, photo, or image along with a description. The second feature, Emu Edit, allows users to easily edit videos with text prompts. These tools are an advancement of the Emu model, which generates images in response to text prompts. Meta Platforms has been focusing on AI technology to compete with other tech giants like Microsoft, Google, and Amazon.
+
+Fri, 17 Nov 2023 00:19:07 +0530
+### [EMIs, pre-used units drive Diwali smartphone sales](https://www.livemint.com/technology/tech-news/emis-pre-used-units-drive-diwali-smartphone-sales-11700160286423.html)
+
+Refurbished smartphones and no-interest financing schemes were the key drivers of sales during Diwali, surpassing industry expectations in India's smartphone market. The introduction of zero-interest, two-year financing schemes for smartphones and the attractiveness of refurbished phones boosted sales during the festive season. Customer reluctance to upgrade due to the quality of existing smartphones and lack of organic demand has caused market stagnation. The budget segment struggled, while premium smartphones experienced higher demand. The market is expected to decline for the second consecutive year, although the finance scheme helped some retailers achieve growth. Refurbished smartphone resellers also benefited from increased demand, particularly for iPhone models. Overall, the combination of financing offers and refurbished phones contributed to a better-than-expected sales performance during Diwali.
+
 Thu, 16 Nov 2023 18:55:51 +0530
 ### [Good news for PlayStation 5 owners! Enjoy up to 6 months of free Apple Music: Here's how](https://www.livemint.com/technology/tech-news/good-news-for-playstation-5-owners-enjoy-up-to-6-months-of-free-apple-music-heres-how-11700140640891.html)
 
