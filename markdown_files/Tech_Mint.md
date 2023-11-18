@@ -1,3 +1,19 @@
+Sat, 18 Nov 2023 19:13:22 +0530
+### [Oppo's ColorOS 14 introduces AI-based Pantanal and AndesGPT for smart user experience: All you need to know](https://www.livemint.com/technology/gadgets/oppos-coloros-14-introduces-ai-based-pantanal-and-andesgpt-for-smart-user-experience-all-you-need-to-know-11700314655208.html)
+
+Oppo has launched ColorOS 14, a new software update that introduces Pantanal and AndesGPT. Pantanal is a cross-platform smart system that offers various travel features, including hotel reservations and recommendations. AndesGPT is a large language model (LLM) that powers Oppo's intelligent assistant, Breeno. It enhances user interaction by managing system settings and performing AI content generation and schedule management tasks.
+
+Oppo emphasizes the synergy between Pantanal and AndesGPT, aiming to provide a more creative and imaginative experience for their users worldwide. The company also highlights its commitment to integration, collaborating with developers and creators to enhance software, hardware, and services.
+
+In a related development, Samsung introduced its own generative AI mode called Samsung Gauss, which consists of three components: Samsung Gauss Language, Samsung Gauss Code, and Samsung Gauss Image. This system aims to boost employee productivity and offer new user experiences across Samsung product applications.
+
+Additionally, Oppo recently launched the A79 5G smartphone in India, featuring a 6.72-inch FHD+ display, 50MP triple-camera setup, MediaTek 6020 SoC, 8GB RAM, and ColorOS 13 on Android 13.
+
+Sat, 18 Nov 2023 18:29:55 +0530
+### [WhatsApp Beta's latest update introduces access button for AI chatbot to select users: Report](https://www.livemint.com/technology/tech-news/whatsapp-betas-latest-update-introduces-access-button-for-ai-chatbot-to-select-users-report-11700311957834.html)
+
+WhatsApp is reportedly introducing an AI chatbot on its messaging platform, with the most recent beta version of the app including a specialized button for easy access. The chatbot, powered by Meta AI, was initially announced by Mark Zuckerberg in September and will enhance speed and convenience for users. The beta version now has a button above the new chats icon to quickly access the chatbot. However, the feature's inclusion in the global release is not guaranteed, and a specific timeline for its availability is not disclosed. Additionally, WhatsApp has introduced a privacy feature called 'protect IP address in calls' to conceal users' IP addresses during individual calls by routing them through a server instead of peer-to-peer connections.
+
 Sat, 18 Nov 2023 16:25:22 +0530
 ### [OpenAI's interim CEO, Mira Murati, addresses deepfake concerns in India: Here's what she said…](https://www.livemint.com/technology/tech-news/openais-interim-ceo-mira-murati-addresses-deepfake-concerns-in-india-heres-what-she-said-11700304041712.html)
 

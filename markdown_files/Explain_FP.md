@@ -1,3 +1,8 @@
+Sat, 18 Nov 2023 18:08:23 +0530
+### [How US is fighting Iran-backed militias in West Asia](https://www.firstpost.com/explainers/explained-the-uss-balanced-response-to-iran-backed-militias-attacking-its-forces-13401502.html)
+
+Iranian-backed militias have been launching attacks on US bases and facilities in Iraq and Syria since mid-October. These attacks have resulted in minor injuries to US personnel, mostly traumatic brain injuries. The US has responded with limited military strikes in an attempt to dissuade the militants without escalating the conflict. The attacks have primarily been carried out by suicide drones or rockets and have caused little damage. The militias responsible for the attacks have rebranded themselves as the Islamic Resistance in Iraq and have targeted US military bases in Syria and Iraq. The Biden administration has dispatched more troops and military equipment to the region to deter further attacks. However, critics argue that the US response has been insufficient and has failed to deter the militias. The US has focused its retaliatory airstrikes in Syria rather than Iraq to avoid alienating the Iraqi government.
+
 Sat, 18 Nov 2023 16:19:36 +0530
 ### [Who is Mira Murati, the new interim CEO of OpenAI replacing Sam Altman?](https://www.firstpost.com/explainers/who-is-mira-murati-the-new-interim-ceo-of-openai-replacing-sam-altman-13401142.html)
 

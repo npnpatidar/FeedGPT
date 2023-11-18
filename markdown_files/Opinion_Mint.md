@@ -163,8 +163,7 @@ The payrolls data still looks fine, but under the hood are signs of deterioratio
 Tue, 14 Nov 2023 17:34:25 +0530
 ### [India's Super Sukhoi upgrade is an emblem of our geopolitical neutrality](https://www.livemint.com/opinion/online-views/indias-super-sukhoi-upgrade-is-an-emblem-of-our-geopolitical-neutrality-11699962740225.html)
 
-Article found but Couldn't summarize 
-The fighter aircraft project involves an eclectic blend of technologies fused into a Russian platform. It speaks of India’s defence sovereignty.
+The article discusses India's decision to upgrade its Russian SU30 MKI fleet to 'Super Sukhoi' status, highlighting the country's determination to retain control over its air defense hardware. The SU30 fighter is a combination of the SU27 platform and SU37 tech-demo prototype, making it one of the most advanced 4+ generation fighters. India has adopted an 'island approach' in its foreign policy, seeking interoperability with various countries to enhance its defense capabilities. By incorporating technologies from Israel, France, and Britain, India has created a hybrid weapon that combines the best features of both Russian and Western platforms. The article emphasizes two crucial upgrades: the integration of the Virupaksha AESA radar system, which will expand the choice of compatible weapons for the SU30s, and advancements in the AL31FP aero-engines. These upgrades aim to make the Super Sukhois capable of carrying weapon systems from European, American, and Russian origins. The article concludes by highlighting that these upgrades represent India's approach to international relations, remaining unaffiliated with any geopolitical bloc while fostering cooperation with other countries.
 
 Tue, 14 Nov 2023 15:49:51 +0530
 ### [America's strong economy has an undercurrent of anger](https://www.livemint.com/opinion/online-views/americas-strong-economy-has-an-undercurrent-of-anger-11699956865006.html)

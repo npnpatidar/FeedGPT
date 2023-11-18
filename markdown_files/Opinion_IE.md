@@ -1,3 +1,8 @@
+Sat, 18 Nov 2023 12:33:34 +0000
+### [Gyan Panchami, the written word and why Jainism’s knowledge stores are less valued than Buddhism and Hinduism](https://indianexpress.com/article/opinion/columns/gyan-panchami-why-jainisms-knowledge-stores-less-valued-than-buddhism-hinduism-9032411/)
+
+The Jains have a long history of valuing the written word and have many manuscript repositories in their temples. However, Western scholars have often overlooked Jainism in favor of Buddhism, seeing it as an insignificant sect. James Tod, George Buhler, and Alexander Cunningham were some of the few Western scholars who took an interest in Jain libraries. In recent years, American scholars Donald Clay Johnson and John E Cort have also brought attention to the Jain manuscript libraries. The Jain community's love for preserving their manuscripts can be seen in their dedication to copying and storing them in gyan bhandars, or "knowledge warehouses." While printed books have replaced handwritten manuscripts for practical purposes, the manuscripts in these libraries often contain valuable works of art and cover a wide range of subjects beyond just religious texts. Gyan Panchami is a day for Jains to celebrate manuscripts and printed books, and it is important to preserve and promote this tradition.
+
 Sat, 18 Nov 2023 10:27:46 +0000
 ### [The embers of Possession – and passion and obsession – never die out](https://indianexpress.com/article/opinion/columns/the-embers-of-possession-and-passion-and-obsession-never-die-out-9032255/)
 

@@ -1,3 +1,33 @@
+2023-11-18T22:10:16+05:30
+### [Who Was Building the Uttarakhand Tunnel That Collapsed?](https://thewire.in/business/who-was-building-the-uttarakhand-tunnel-that-collapsed)
+
+No Article text 
+Some details on Navayuga Engineering Company Limited, from which 41 workers remain trapped in the collapsed tunnel that's part of the Union government's high-profile yet controversial Char Dham project in Uttarkashi, are worth noting.
+
+2023-11-18T22:03:57+05:30
+### [In IDFA Award Acceptance Speech, Anand Patwardhan Calls For ‘Immediate Ceasefire’ and ‘Just Peace’](https://thewire.in/world/anand-patwardhan-idfa-immediate-ceasefire)
+
+No Article text 
+Filmmaker Anand Patwardhan was at the International Documentary Festival Amsterdam, the latest edition of which came under criticism for attempting to tread carefully in the ongoing Israel-Hamas conflict.
+
+2023-11-18T19:11:17+05:30
+### [A Day After Taking Over, New Maldives President Officially Asks India to Withdraw Its Troops](https://thewire.in/diplomacy/maldives-president-asks-india-to-withdraw-its-troops)
+
+No Article text 
+While the office of Maldives President Mohamed Muizzu revealed the request, there has been official silence from the Indian side.
+
+2023-11-18T18:30:52+05:30
+### [Senior Hamas Leader Says Taking Babies Hostage a ‘Mistake’, Reveals Extensive Details of Hostage Deal](https://thewire.in/video/senior-hamas-leader-admits-hostage-mistake-reveals-hostage-deal-details)
+
+No Article text 
+Dr Musa Abu Marzouq said Hamas will release 50 Israeli hostages in return for Israel releasing 100 Palestinian prisoners. He said this would happen during a five-day ceasefire.
+
+2023-11-18T18:30:17+05:30
+### [IAF Lands ‘Super Hercules’ Military Transport Aircraft on Unfeasible Strip for Tunnel Rescue Mission](https://thewire.in/security/iaf-lands-super-hercules-military-transport-aircraft-on-unfeasible-strip-for-tunnel-rescue-mission)
+
+No Article text 
+The narrow and undeveloped 3,600 feet advanced landing ground had earlier been declared ‘unsuitable’ by the IAF for C-130J-30 operations. But despite that, the IAF executed a perilous mission to deliver crucial equipment for rescuing trapped workers in Uttarakhand's mountain tunnel.
+
 2023-11-18T18:00:22+05:30
 ### [Palestine, Palestinians and the Western Liberal’s Burden](https://thewire.in/world/palestine-palestinians-and-the-western-liberals-burden)
 

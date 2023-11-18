@@ -5,6 +5,26 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Opinion_FP.xml</link>
 		<description>Opinion FP</description>
 		<item>
+			<title>Beyond the Lines | The politics of risks: Why geopolitics matters more than ever to businesses and economies</title>
+			<link>https://www.firstpost.com/opinion/beyond-the-lines-the-politics-of-risks-why-geopolitics-matters-more-than-ever-to-businesses-and-economies-13402082.html</link>
+			<description>Article found but Couldn't summarize 
+Beyond the Lines | The politics of risks: Why geopolitics matters more than ever to businesses and economies</description>
+			<pubDate>Sat, 18 Nov 2023 18:30:59 +0530</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/11/2023-11-12T194737Z_389644207_RC2SW1APAMY0_RTRMADP_3_APEC-USA-CHINA-MANUFACTURING-1.jpg"></media:thumbnail>
+			<media:content url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/11/2023-11-12T194737Z_389644207_RC2SW1APAMY0_RTRMADP_3_APEC-USA-CHINA-MANUFACTURING-1.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Why Sino-Pak naval exercise in northern Arabian Sea is a concern for New Delhi</title>
+			<link>https://www.firstpost.com/opinion/why-sino-pak-naval-exercise-in-northern-arabian-sea-is-a-concern-for-new-delhi-13401762.html</link>
+			<description>Article found but Couldn't summarize 
+Why Sino-Pak naval exercise in northern Arabian Sea is a concern for New Delhi</description>
+			<pubDate>Sat, 18 Nov 2023 18:01:08 +0530</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/11/drill1.jpg"></media:thumbnail>
+			<media:content url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/11/drill1.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Israel-Hamas war: What the world can learn from India</title>
 			<link>https://www.firstpost.com/opinion/israel-hamas-war-what-the-world-can-learn-from-india-13401302.html</link>
 			<description>On October 7, Hamas launched a multi-front attack on Israeli towns along the Gaza Strip border, resulting in the deaths of over 1,400 civilians. The attack exposed the vulnerability of Israel's advanced military and intelligence systems to terrorist tactics. The conflict between Israel and Hamas has its roots in a long-standing geopolitical dispute, with the British Empire's support for a Jewish homeland in Palestine during World War I. The region became densely populated with Arab Muslims and Jewish immigrants, leading to tensions and conflicts. Israel was established as a nation in 1948 and faced attacks from Arab states. Over time, Palestinian Arabs were confined to the West Bank and the Gaza Strip. The Gaza Strip, controlled by Hamas, has experienced poverty and oppression, with Hamas prioritizing attacks on Israel over the welfare of its people. India's relationship with Israel has evolved over time, with initial opposition to the creation of Israel but later recognition of the Palestinian state. India and Israel have strengthened ties in recent years. Israel, led by Benjamin Netanyahu, has been fighting against Hamas in a densely populated area, resulting in a high number of civilian casualties. India's approach to combating terrorism, particularly in Pakistan, has been more calculated and precise, avoiding civilian areas. India's strong leadership in times of crisis has enabled it to retaliate effectively while maintaining the moral high ground. The author emphasizes the importance of wisdom and restraint in dealing with terrorism to prevent the emergence of more violent offshoots.</description>
@@ -26,10 +46,9 @@ Decoding Biden-Xi summit: Chinese president wanted it more but made it appear as
 		<item>
 			<title>Vantage | How Team India's wins created a storm of conspiracy theories in Pakistan</title>
 			<link>https://www.firstpost.com/opinion/vantage-how-team-indias-wins-created-a-storm-of-conspiracy-theories-in-pakistan-13400302.html</link>
-			<description>Article found but Couldn't summarize 
-Vantage | How Team India's wins created a storm of conspiracy theories in Pakistan</description>
+			<description>As GPT-3.5, I can summarize the article for you. The article discusses the upcoming World Cup final between India and Australia. It highlights India's impressive unbeaten run of 10 matches leading up to the final. The article also mentions some conspiracy theories from Pakistani experts, questioning the fairness of the game. Former cricketer Wasim Akram responds to these claims, dismissing them as baseless. The article also touches upon sexist remarks made by Pakistani cricketers, highlighting the need for a change in attitude. Overall, the article emphasizes the excitement surrounding the World Cup final and the need for fair play.</description>
 			<pubDate>Sat, 18 Nov 2023 12:09:22 +0530</pubDate>
-			<ai_summary>False</ai_summary>
+			<ai_summary>True</ai_summary>
 			<media:thumbnail url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/11/India-cricket-640_AP-4.jpg"></media:thumbnail>
 			<media:content url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/11/India-cricket-640_AP-4.jpg" medium="image"></media:content>
 		</item>

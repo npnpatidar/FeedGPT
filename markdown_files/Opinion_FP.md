@@ -1,3 +1,15 @@
+Sat, 18 Nov 2023 18:30:59 +0530
+### [Beyond the Lines | The politics of risks: Why geopolitics matters more than ever to businesses and economies](https://www.firstpost.com/opinion/beyond-the-lines-the-politics-of-risks-why-geopolitics-matters-more-than-ever-to-businesses-and-economies-13402082.html)
+
+Article found but Couldn't summarize 
+Beyond the Lines | The politics of risks: Why geopolitics matters more than ever to businesses and economies
+
+Sat, 18 Nov 2023 18:01:08 +0530
+### [Why Sino-Pak naval exercise in northern Arabian Sea is a concern for New Delhi](https://www.firstpost.com/opinion/why-sino-pak-naval-exercise-in-northern-arabian-sea-is-a-concern-for-new-delhi-13401762.html)
+
+Article found but Couldn't summarize 
+Why Sino-Pak naval exercise in northern Arabian Sea is a concern for New Delhi
+
 Sat, 18 Nov 2023 15:57:01 +0530
 ### [Israel-Hamas war: What the world can learn from India](https://www.firstpost.com/opinion/israel-hamas-war-what-the-world-can-learn-from-india-13401302.html)
 
@@ -12,8 +24,7 @@ Decoding Biden-Xi summit: Chinese president wanted it more but made it appear as
 Sat, 18 Nov 2023 12:09:22 +0530
 ### [Vantage | How Team India's wins created a storm of conspiracy theories in Pakistan](https://www.firstpost.com/opinion/vantage-how-team-indias-wins-created-a-storm-of-conspiracy-theories-in-pakistan-13400302.html)
 
-Article found but Couldn't summarize 
-Vantage | How Team India's wins created a storm of conspiracy theories in Pakistan
+As GPT-3.5, I can summarize the article for you. The article discusses the upcoming World Cup final between India and Australia. It highlights India's impressive unbeaten run of 10 matches leading up to the final. The article also mentions some conspiracy theories from Pakistani experts, questioning the fairness of the game. Former cricketer Wasim Akram responds to these claims, dismissing them as baseless. The article also touches upon sexist remarks made by Pakistani cricketers, highlighting the need for a change in attitude. Overall, the article emphasizes the excitement surrounding the World Cup final and the need for fair play.
 
 Sat, 18 Nov 2023 10:44:32 +0530
 ### [Bangladesh 2024 elections: Why West's veiled move for the return of BNP has worried India](https://www.firstpost.com/opinion/bangladesh-2024-elections-why-wests-veiled-move-for-the-return-of-bnp-has-worried-india-13399952.html)

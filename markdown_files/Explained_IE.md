@@ -1,3 +1,23 @@
+Sat, 18 Nov 2023 15:17:56 +0000
+### [How Vladimir Putin has resorted to homophobia to consolidate his hold on Russia](https://indianexpress.com/article/explained/explained-global/vladimir-putin-resorted-homophobia-russia-9032542/)
+
+The Russian Ministry of Justice has filed a lawsuit with the Supreme Court to ban the LGBTQ+ "international public movement" due to alleged extremist activities and incitement of social and religious conflict. The lawsuit's target is unclear, whether it aims at specific organizations or the entire LGBTQ+ community. Experts express concerns that this legal action could lead to widespread persecution of LGBTQ+ individuals in Russia, resulting in criminal prosecution based solely on sexual orientation or gender identity.
+
+This move follows a decade-long crackdown on gay rights under President Vladimir Putin's regime, which emphasizes "traditional family values." In 2013, Russia implemented the controversial "gay propaganda" law, prohibiting the non-critical portrayal of "nontraditional sexual relations" among minors. This law was later expanded to include all adults by December 2022.
+
+As support for the prolonged Ukrainian campaign wavered domestically, the Kremlin intensified its homophobia to further the dichotomy between the "decadent" West and Putin's regime, which claimed to protect traditional values. The Russian Orthodox Church, led by Patriarch Kirill and a longstanding Putin ally, supported this anti-LGBTQ+ crusade by linking it to issues like Ukraine's rejection of gay pride parades.
+
+The Russian Orthodox Church, with over 100 million followers in the country, historically maintains close ties with the Kremlin. Conservative movements often use LGBTQ+ rights as punching bags, characterizing them as threats to traditional values. For authoritarian populists, these rights become Trojan horses that help consolidate power by polarizing the debate between gay rights and "family values."
+
+After the Soviet Union's fall, Russia experienced a period of liberalization socially and economically, including progress in LGBTQ+ rights. However, discontent arising from this liberalization, such as poverty and corruption, contributed to the rise of Vladimir Putin and his conservative agenda. Putin's strategic conservatism relies on appeals to faith, family, and tradition, which have been historically used by dictators as a last resort to maintain control.
+
+Overall, the lawsuit against the LGBTQ+ movement in Russia raises concerns about potential persecution and criminalization of sexual orientation and gender identity, adding to the ongoing crackdown on gay rights under Putin's regime.
+
+Sat, 18 Nov 2023 14:57:50 +0000
+### [Why Osama bin Laden’s 2002 ‘Letter to America’ is gaining traction on social media now](https://indianexpress.com/article/explained/explained-global/osama-bin-laden-letter-america-9032539/)
+
+Social media platform TikTok has announced that it will ban content promoting Osama bin Laden's 2002 "letter to America," in which the late Al-Qaeda leader attempted to justify the September 11, 2001 attacks. The Guardian recently removed the full translated text of the letter from its website, as it had been widely shared on social media without proper context. The letter has gained traction on platforms like TikTok due to the ongoing Israel-Hamas conflict. Bin Laden criticized American support for Israel, accused Americans of financing Palestinian oppression, and made anti-Semitic remarks in the letter. Some users on TikTok have used the letter to critique US foreign policy and claim it changed their perspective. It is unclear what triggered the recent sharing of the letter. Some analysts and politicians have accused TikTok of radicalizing users and pushing propaganda, while others see it as a reflection of the fast-paced nature of social media. In the letter, bin Laden justifies the 9/11 attack by highlighting American support for Israel and the violence perpetrated against Muslims in various regions.
+
 Sat, 18 Nov 2023 11:12:33 +0000
 ### [What is a ‘halal’, and who certifies a product as being so?](https://indianexpress.com/article/explained/everyday-explainers/halal-certificate-up-ban-9032320/)
 
