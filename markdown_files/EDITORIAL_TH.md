@@ -1,3 +1,13 @@
+Sat, 18 Nov 2023 00:20:00 +0530
+### [Building the floor: On the U.S.-China summit meeting, lessons for India](https://www.thehindu.com/opinion/editorial/building-the-floor-on-the-us-china-summit-meeting-lessons-for-india/article67544302.ece)
+
+The recent summit meeting between U.S. President Joe Biden and Chinese President Xi Jinping in San Francisco did not resolve major differences between the two countries, but it did provide some relief by stabilizing the relationship. The summit resulted in concrete agreements to restart military-to-military dialogue and discuss artificial intelligence risks. Both sides also described establishing a floor to the relationship, building on the previous Bali consensus. However, the stability may be short-lived, as Taiwan's upcoming elections and the U.S. presidential campaign season could increase tensions. The fundamental question of whether the U.S. and China are adversaries or partners remains a point of difference, but both sides recognize the importance of high-level engagement and open channels to prevent conflict. This offers lessons for the India-China relationship as well.
+
+Sat, 18 Nov 2023 00:10:00 +0530
+### [Summit clash: On India, Australia and the world cup cricket final](https://www.thehindu.com/opinion/editorial/summit-clash-on-india-australia-and-the-world-cup-cricket-final/article67544330.ece)
+
+The World Cup final between India and Australia will take place at the Narendra Modi Stadium in Ahmedabad. India is in good form, having won 10 consecutive matches, while Australia started with two losses but then won eight games in a row. Australia has won the World Cup five times and will be looking to live up to their legacy. The last time India and Australia met in a World Cup final was in 2003, with Australia emerging as the winners. Rahul Dravid, who played in that match, is now the coach of the Indian team. Both Dravid and captain Rohit Sharma are focused on taking it one match at a time. India has been performing well in the championship, with strong batting performances from Rohit Sharma, Shubman Gill, Virat Kohli, and others, as well as a strong bowling attack led by Jasprit Bumrah. However, Australia remains a competitive team with players like Glenn Maxwell and an effective bowling attack. India will need to tackle these challenges well in order to win the World Cup for the third time.
+
 Fri, 17 Nov 2023 00:20:00 +0530
 ### [Widening divide: On how little has changed in Manipur](https://www.thehindu.com/opinion/editorial/widening-divide-the-hindu-editorial-on-how-little-has-changed-in-manipur/article67541233.ece)
 

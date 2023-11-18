@@ -182,8 +182,23 @@ Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. 
 Tue, 14 Nov 2023 17:58:07 +0530
 ### [How PM Modi’s invocation of Birsa Munda’s revolution has laid the foundation for Jharkhand’s political ‘Asmita’](https://www.firstpost.com/opinion/how-pm-modis-invocation-of-birsa-mundas-revolution-has-laid-the-foundation-for-jharkhands-political-asmita-13387662.html)
 
-Article found but Couldn't summarize 
-How PM Modi’s invocation of Birsa Munda’s revolution has laid the foundation for Jharkhand’s political ‘Asmita’
+Please provide me with the instructions or questions you have, and I'll do my best to assist you.To convert a decimal number to a binary number, you can follow these steps:
+
+1. Start with the decimal number you want to convert.
+2. Divide the decimal number by 2 and note down the quotient and remainder.
+3. Repeat step 2 using the quotient as the new decimal number until the quotient becomes 0.
+4. Write down the remainders in reverse order. These will form the binary representation of the decimal number.
+
+For example, let's convert the decimal number 10 to binary:
+
+1. Divide 10 by 2: quotient 5, remainder 0
+2. Divide 5 by 2: quotient 2, remainder 1
+3. Divide 2 by 2: quotient 1, remainder 0
+4. Divide 1 by 2: quotient 0, remainder 1
+
+The remainders in reverse order are 1010. Therefore, the binary representation of decimal number 10 is 1010.
+
+Let me know if you need help with anything else!
 
 Tue, 14 Nov 2023 16:42:42 +0530
 ### [Progressive legislations and judicial pronouncements in the last 10 years: An analysis](https://www.firstpost.com/opinion/progressive-legislations-and-judicial-pronouncements-in-the-last-10-years-an-analysis-13386762.html)

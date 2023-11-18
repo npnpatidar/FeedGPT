@@ -1,3 +1,8 @@
+Sat, 18 Nov 2023 06:11:21 +0530
+### [ChatGPT-maker OpenAI fires CEO Sam Altman; board says it lost confidence](https://www.livemint.com/technology/chatgptmaker-openai-fires-ceo-sam-altman-board-says-it-lost-confidence-11700267729248.html)
+
+OpenAI has removed its co-founder and CEO, Sam Altman, after a review discovered he was not consistently honest in his communications with the board of directors. The company stated that it no longer has confidence in Altman's ability to lead, and Mira Murati, OpenAI's Chief Technology Officer, will serve as interim CEO. Altman expressed his affection for his time at OpenAI and the impact it had. Microsoft CEO, Satya Nadella, affirmed the company's partnership with OpenAI, emphasizing their commitment to AI technology. Former Google CEO, Eric Schmidt, praised Altman's accomplishments and expressed anticipation for his future work.
+
 Fri, 17 Nov 2023 20:28:40 +0530
 ### [OLED TV for crystal clear viewing? Check out top 8 options to choose from](https://www.livemint.com/technology/gadgets/oled-tv-for-crystal-clear-viewing-check-out-top-8-options-to-choose-from-11700211959350.html)
 
@@ -34,8 +39,17 @@ Hmm, I am not sure. Email support@chatbase.co for more info.Apple has announced 
 Fri, 17 Nov 2023 11:27:33 +0530
 ### [Garena Free Fire Max redeem codes for Nov 17, 2023: Win daily exciting rewards](https://www.livemint.com/technology/garena-free-fire-max-redeem-codes-for-nov-17-2023-win-daily-exciting-rewards-11700200402204.html)
 
-Article found but Couldn't summarize 
-By redeeming these codes, players will have a chance to win Rebel Academy Weapon Loot Crate, Revolt Weapon Loot Crate, Diamonds Voucher, Fire Head Hunting Parachute using daily redeem codes. The codes are available for limited hours (up to 12 hours) and for the first 500 users only.
+The article discusses the use of redeem codes in Garena Free Fire Max, a popular online game. These codes can be used to obtain various in-game items such as weapons, diamonds, and skins. The codes are 12-digit alphanumeric combinations consisting of capital letters and numbers.
+
+Garena Free Fire Max is an updated version of Garena Free Fire that gained popularity after the ban of the latter by the Indian government. The game developers regularly update the redeem codes, and players can visit a dedicated microsite to redeem these codes.
+
+By using the codes, players have the chance to win items such as Rebel Academy Weapon Loot Crate, Revolt Weapon Loot Crate, Diamonds Voucher, and Fire Head Hunting Parachute. It's important to note that the codes are available for a limited time (up to 12 hours) and only for the first 500 users. Therefore, players are advised to redeem the codes quickly before they expire.
+
+To redeem the codes, players need to visit the official Rewards Redemption site on Chrome, log in to their account using Facebook, Twitter, Google, or VK ID, copy the mentioned codes, paste them in the designated text box, and click on Confirm. The rewards will be received in the in-game mail section, and gold or diamonds will be automatically added to the account wallet.
+
+Once the codes are redeemed, players can access a game vault where they can exchange the codes for gold and diamonds. Furthermore, the Garena Free Fire Max redeem codes can be used to purchase additional in-game items like rebel academy weapon loot crate, revolt weapon loot crate, diamond vouchers, fire head hunting parachute, and more.
+
+In summary, Garena Free Fire Max redeem codes provide players with opportunities to acquire valuable in-game items, and they should act quickly to take advantage of these codes before they expire.
 
 Fri, 17 Nov 2023 11:07:05 +0530
 ### [Android TV for feature-rich watching: Pick from top 8 options](https://www.livemint.com/technology/gadgets/android-tv-for-feature-rich-watching-pick-from-top-8-options-11700134656208.html)
