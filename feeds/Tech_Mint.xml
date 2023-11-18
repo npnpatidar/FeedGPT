@@ -5,6 +5,34 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Tech_Mint.xml</link>
 		<description>Tech Mint</description>
 		<item>
+			<title>OpenAI's interim CEO, Mira Murati, addresses deepfake concerns in India: Here's what she said…</title>
+			<link>https://www.livemint.com/technology/tech-news/openais-interim-ceo-mira-murati-addresses-deepfake-concerns-in-india-heres-what-she-said-11700304041712.html</link>
+			<description>OpenAI has announced the removal of Sam Altman as CEO and appointed Mira Murati, the Chief Technology Officer, as the interim CEO. They are currently searching for a permanent CEO. Mira Murati recently discussed deepfake concerns in India and OpenAI's efforts to address manipulated media using their technologies. They have made their AI model, Dall-E, available to the public with certain constraints and safeguards. They are auditing the training data, making interventions to avoid certain outcomes, and applying filters to prevent the generation of violent or hateful content. The article also mentions a deepfake video of actress Rashmika Mandanna that went viral, highlighting the misuse of AI to spread misinformation.</description>
+			<pubDate>Sat, 18 Nov 2023 16:25:22 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://www.livemint.com/lm-img/img/2023/11/18/1600x900/ChatGPT-Altman-1_1700280068467_1700304393624.jpg"></media:thumbnail>
+			<media:content url="https://www.livemint.com/lm-img/img/2023/11/18/1600x900/ChatGPT-Altman-1_1700280068467_1700304393624.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Elon Musk's X Corp declares legal war against Media Matters over ad controversy: Details</title>
+			<link>https://www.livemint.com/technology/tech-news/elon-musks-x-corp-declares-legal-war-against-media-matters-over-ad-controversy-details-11700295675576.html</link>
+			<description>Elon Musk announced that X Corp plans to take legal action against Media Matters and those involved in the social media assault on X. Musk stated that X Corp will file a lawsuit against Media Matters and all those who colluded in the attack on their company. Media Matters reported finding corporate advertisements from IBM, Apple, Oracle, and Comcast's Xfinity alongside antisemitic content on X. Musk emphasized that X works to protect freedom of speech and believes that everyone has the right to make their own decisions about what they read, watch, or listen to. Musk's controversial statements led to Disney and other brands withdrawing their advertisements from X.</description>
+			<pubDate>Sat, 18 Nov 2023 14:04:50 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://www.livemint.com/lm-img/img/2023/11/18/1600x900/Elon_musk-starlink_1700100320323_1700296241185.jpg"></media:thumbnail>
+			<media:content url="https://www.livemint.com/lm-img/img/2023/11/18/1600x900/Elon_musk-starlink_1700100320323_1700296241185.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Sam Altman's ouster from OpenAI draws parallels with ‘Apple fired Steve Jobs’ decades ago | Read here</title>
+			<link>https://www.livemint.com/technology/tech-news/sam-altmans-ouster-from-openai-draws-parallels-with-apple-fired-steve-jobs-decades-ago-read-here-11700288298764.html</link>
+			<description>Article found but Couldn't summarize 
+Steve Jobs was famously fired from Apple in 1985 after a power struggle with the board of directors. He later returned and achieved great success.</description>
+			<pubDate>Sat, 18 Nov 2023 13:54:20 +0530</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://www.livemint.com/lm-img/img/2023/11/18/1600x900/7777777_1700295487814_1700295506916.PNG"></media:thumbnail>
+			<media:content url="https://www.livemint.com/lm-img/img/2023/11/18/1600x900/7777777_1700295487814_1700295506916.PNG" medium="image"></media:content>
+		</item>
+		<item>
 			<title>‘Today was a weird experience in many ways’: Sam Altman after ChatGPT-maker OpenAI fired him</title>
 			<link>https://www.livemint.com/technology/today-was-a-weird-experience-in-many-ways-sam-altman-after-chatgpt-maker-openai-fired-him-11700282348001.html</link>
 			<description>您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！Sam Altman, the co-founder and former CEO of OpenAI, has issued a statement on X (formerly Twitter) expressing gratitude for the love and support he has received after being fired by the company. Altman described the experience as strange, likening it to reading his own eulogy while still alive. The decision to fire Altman was made by the OpenAI board due to a lack of consistent communication and loss of confidence in his leadership. Altman's departure was announced to him and OpenAI President Greg Brockman on a Google Meet call. Altman expressed his love for the time he spent at OpenAI and the positive impact it had on him and the world. He also praised the talented people he worked with.</description>

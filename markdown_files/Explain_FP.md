@@ -1,3 +1,19 @@
+Sat, 18 Nov 2023 16:19:36 +0530
+### [Who is Mira Murati, the new interim CEO of OpenAI replacing Sam Altman?](https://www.firstpost.com/explainers/who-is-mira-murati-the-new-interim-ceo-of-openai-replacing-sam-altman-13401142.html)
+
+Mira Murati has been appointed as the interim CEO of OpenAI following the departure of Sam Altman. The board cited Altman's lack of consistent communication as the reason for their loss of confidence in his leadership. Murati, who has been part of OpenAI's C-suite, is described as a brilliant mind behind the development of revolutionary products like ChatGPT and DALL-E. She has also emphasized the need for involvement from regulators, governments, and various stakeholders to ensure responsible use of AI technology. Murati's appointment comes after co-founder Greg Brockman also left the company.
+
+Sat, 18 Nov 2023 14:44:28 +0530
+### [Shakira to go on trial in Spain for tax fraud: What is the case?](https://www.firstpost.com/explainers/shakira-to-go-on-trial-in-spain-for-tax-fraud-what-is-the-case-13400622.html)
+
+Colombian popstar Shakira is set to go on trial in Barcelona for allegedly evading €14.5 million in taxes. Prosecutors are seeking an eight-year jail term and a fine of nearly €24 million. The case centers around where Shakira lived between 2012 and 2014, with Spanish authorities claiming she primarily resided in Spain during that time. They allege that she listed the Bahamas as her primary residence until 2015. Shakira denies any wrongdoing and asserts that she was leading a "nomadic life" until 2014, earning most of her money from international tours. She has already paid all taxes owed to the Spanish government during her claimed residency in the Bahamas. The trial is expected to run until December 14 and may include testimony from nearly 120 witnesses. Despite her presence or absence at the remaining hearings, details of her private life are likely to emerge during the proceedings. If proven guilty, Shakira could face jail time. This case follows similar instances of tax evasion involving celebrities and athletes in Spain, including soccer players Cristiano Ronaldo and Lionel Messi.
+
+Sat, 18 Nov 2023 12:03:30 +0530
+### [Sam Altman sacked: What's going on at ChatGPT-maker OpenAI?](https://www.firstpost.com/explainers/sam-altman-sacked-whats-going-on-at-chatgpt-maker-openai-13399872.html)
+
+Article found but Couldn't summarize 
+Sam Altman sacked: What's going on at ChatGPT-maker OpenAI?
+
 Sat, 18 Nov 2023 09:55:56 +0530
 ### [This Week in Explainers: The award for best conspiracies this World Cup goes to Pakistan](https://www.firstpost.com/explainers/this-week-in-explainers-the-award-for-best-conspiracies-this-world-cup-goes-to-pakistan-13398982.html)
 
@@ -136,8 +152,7 @@ Hmm, I am not sure. Email support@chatbase.co for more info.Senior Congress lead
 Thu, 16 Nov 2023 13:12:42 +0530
 ### [Al-Shifa Hospital raid: What has Israel military found? Are patients safe?](https://www.firstpost.com/explainers/al-shifa-hospital-raid-what-has-israel-military-found-are-patients-safe-13392912.html)
 
-Article found but Couldn't summarize 
-Al-Shifa Hospital raid: What has Israel military found? Are patients safe?
+Gaza's largest hospital, Al-Shifa, has been the focus of the conflict between Israel and Hamas. Israeli forces raided the hospital, claiming that it is being used by Hamas for military purposes. Civilians, including patients, health workers, and displaced people seeking refuge, remain trapped inside the hospital. The Israeli soldiers entered the hospital with tanks and other military vehicles, preventing anyone from leaving. Inside the hospital, Israeli troops reportedly engaged with Hamas members and found an operational command center and weapons belonging to Hamas. The IDF spokesperson stated that Hamas had systematically used the hospital for military operations. Hamas denies these claims and describes them as lies and propaganda. The safety of the patients in the hospital is at risk, as they are without power, water, and oxygen. Doctors have been forced to perform surgeries without proper anesthesia. International organizations have condemned Israel's actions and called for the protection of medical staff and patients. The World Health Organization has deemed the Israeli incursion into the hospital as totally unacceptable.
 
 Thu, 16 Nov 2023 11:10:13 +0530
 ### [Why are Yemen’s Houthis attacking Israel? What threat do they pose in the war in Gaza?](https://www.firstpost.com/explainers/why-are-yemens-houthis-attacking-israel-what-threat-do-they-pose-in-the-war-in-gaza-13392092.html)

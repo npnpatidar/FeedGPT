@@ -1,3 +1,26 @@
+Sat, 18 Nov 2023 11:12:33 +0000
+### [What is a ‘halal’, and who certifies a product as being so?](https://indianexpress.com/article/explained/everyday-explainers/halal-certificate-up-ban-9032320/)
+
+The Uttar Pradesh government in India is considering a statewide ban on products sold with halal certificates. This decision comes after a complaint was filed alleging that some companies are using halal certification to increase sales among a specific community, which is seen as a manipulation of public faith. Halal refers to food that is procured, processed, and traded in accordance with Islamic beliefs. It involves specific slaughtering techniques and requirements for the source and processing of meat. Halal certificates indicate whether a product meets these requirements and are issued by various certifying agencies. In India, there is no official regulator for halal certification, but certain agencies have gained recognition from Muslim consumers and regulators in Islamic countries. These certifications are particularly important for products intended for export to Islamic nations.
+
+Sat, 18 Nov 2023 10:07:47 +0000
+### [What does Sam Altman’s ouster mean for OpenAI — and who is Mira Murati, the new interim head of the company](https://indianexpress.com/article/explained/explained-sci-tech/sam-altman-openai-mira-murati-9032217/)
+
+Sam Altman, CEO of OpenAI, has been fired by the company's board of directors. Mira Murati, the Chief Technology Officer, has been named interim CEO. Greg Brockman, the president and co-founder, also quit shortly after the announcement. OpenAI stated that new leadership was necessary, and Murati is qualified to step into the role. The reasons for Altman's firing are not clear beyond the board's statement that he was not consistently candid in his communications with the board. The sudden management change has surprised employees and may impact the company's fundraising prospects. Altman was known for his fundraising abilities, securing billions of dollars in investment from Microsoft. Analysts believe that Altman's departure will not hamper OpenAI's dominance in the field of generative AI. Murati, a mechanical engineer, played a crucial role in developing products like ChatGPT and DALL-E.
+
+Sat, 18 Nov 2023 07:27:22 +0000
+### [How the mandatory reporting provision under POCSO works](https://indianexpress.com/article/explained/explained-law/mandatory-reporting-pocso-9031361/)
+
+The Himachal Pradesh High Court has ruled that failure to report sexual crimes against minors is a bailable offense. The ruling came in the case of a hotel manager who was accused of failing to report an offense committed against a minor, as mandated by the Protection of Children from Sexual Offences (POCSO) Act. The court stated that since the act does not specify whether the offense is bailable or not, the nature of the offense must be determined based on the Code of Criminal Procedure. According to the classification of offenses under the Code, offenses punishable with imprisonment of less than three years are bailable and non-cognizable. Since Section 21 of the POCSO Act prescribes imprisonment of 6 months to a year, the court deemed it a bailable offense.
+
+In the case at hand, the main accused raped and recorded a video of a minor schoolgirl in a hotel. He was booked under various sections of the Indian Penal Code, as well as under Sections 6 and 21 of the POCSO Act. The hotel manager was also named in the First Information Report (FIR) due to the mandatory reporting provision under the POCSO Act.
+
+The POCSO Act mandates that anyone who has knowledge or apprehension of an offense under the act must report it to the police or special juvenile police unit (SJPU). Failure to report such offenses is punishable with imprisonment of six months to one year, or a fine, or both. Notably, children cannot be held liable for failing to report sexual offenses.
+
+The Supreme Court has previously held that failure to report sexual crimes against minors is a serious crime. In a 2013 ruling, the court stated that the non-reporting of such crimes is a serious offense. The court has also placed a greater obligation on certain professionals, such as medical practitioners and those in charge of educational institutions, to report cases of child sexual abuse.
+
+A recent Supreme Court ruling attempted to strike a balance between the mandatory reporting provision under the POCSO Act and the confidentiality provision under the Medical Termination of Pregnancy (MTP) Act. The court recognized that minors or their guardians might be reluctant to seek out registered medical practitioners for safe termination of pregnancies due to the mandatory reporting requirement. To address this, the court exempted registered medical practitioners from disclosing the minor's identity and personal details when providing medical termination of pregnancy, to prevent any conflict between the statutory obligation to report under the POCSO Act and the minor's privacy and reproductive autonomy.
+
 Sat, 18 Nov 2023 01:58:13 +0000
 ### [Proposed India-UK FTA, its politics, and why the UK may benefit more](https://indianexpress.com/article/explained/explained-economics/proposed-india-uk-fta-its-politics-and-why-the-uk-may-benefit-more-9031599/)
 

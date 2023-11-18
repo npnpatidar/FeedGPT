@@ -1,3 +1,20 @@
+Sat, 18 Nov 2023 15:57:01 +0530
+### [Israel-Hamas war: What the world can learn from India](https://www.firstpost.com/opinion/israel-hamas-war-what-the-world-can-learn-from-india-13401302.html)
+
+On October 7, Hamas launched a multi-front attack on Israeli towns along the Gaza Strip border, resulting in the deaths of over 1,400 civilians. The attack exposed the vulnerability of Israel's advanced military and intelligence systems to terrorist tactics. The conflict between Israel and Hamas has its roots in a long-standing geopolitical dispute, with the British Empire's support for a Jewish homeland in Palestine during World War I. The region became densely populated with Arab Muslims and Jewish immigrants, leading to tensions and conflicts. Israel was established as a nation in 1948 and faced attacks from Arab states. Over time, Palestinian Arabs were confined to the West Bank and the Gaza Strip. The Gaza Strip, controlled by Hamas, has experienced poverty and oppression, with Hamas prioritizing attacks on Israel over the welfare of its people. India's relationship with Israel has evolved over time, with initial opposition to the creation of Israel but later recognition of the Palestinian state. India and Israel have strengthened ties in recent years. Israel, led by Benjamin Netanyahu, has been fighting against Hamas in a densely populated area, resulting in a high number of civilian casualties. India's approach to combating terrorism, particularly in Pakistan, has been more calculated and precise, avoiding civilian areas. India's strong leadership in times of crisis has enabled it to retaliate effectively while maintaining the moral high ground. The author emphasizes the importance of wisdom and restraint in dealing with terrorism to prevent the emergence of more violent offshoots.
+
+Sat, 18 Nov 2023 13:16:23 +0530
+### [Decoding Biden-Xi summit: Chinese president wanted it more but made it appear as if he did Americans a big favour](https://www.firstpost.com/opinion/decoding-biden-xi-summit-chinese-president-wanted-it-more-but-made-it-appear-as-if-he-did-americans-a-big-favour-13400582.html)
+
+Article found but Couldn't summarize 
+Decoding Biden-Xi summit: Chinese president wanted it more but made it appear as if he did Americans a big favour
+
+Sat, 18 Nov 2023 12:09:22 +0530
+### [Vantage | How Team India's wins created a storm of conspiracy theories in Pakistan](https://www.firstpost.com/opinion/vantage-how-team-indias-wins-created-a-storm-of-conspiracy-theories-in-pakistan-13400302.html)
+
+Article found but Couldn't summarize 
+Vantage | How Team India's wins created a storm of conspiracy theories in Pakistan
+
 Sat, 18 Nov 2023 10:44:32 +0530
 ### [Bangladesh 2024 elections: Why West's veiled move for the return of BNP has worried India](https://www.firstpost.com/opinion/bangladesh-2024-elections-why-wests-veiled-move-for-the-return-of-bnp-has-worried-india-13399952.html)
 
@@ -60,8 +77,7 @@ Vantage | Why Erdogan went from talking peace to calling Israel a terror state
 Fri, 17 Nov 2023 11:47:05 +0530
 ### [Vantage | What 'dictator' Xi got after meeting 'friend' Biden](https://www.firstpost.com/opinion/vantage-what-dictator-xi-got-after-meeting-friend-biden-13396642.html)
 
-Article found but Couldn't summarize 
-Vantage | What 'dictator' Xi got after meeting 'friend' Biden
+Chinese President Xi Jinping and US President Joe Biden recently met, but the summit ended with no significant outcomes or diplomatic breakthroughs. During the meeting, Biden referred to Xi as a "dictator," highlighting their differences. Despite a friendly start to the meeting, tensions arose when discussing Taiwan, with Xi hinting at the possibility of invasion. The issue of trade was also discussed, with China expressing concerns about American investment restrictions. The meeting did result in the resumption of military dialogue between the two countries and the establishment of a hotline between their leaders. Additionally, they discussed the situation in West Asia and the risk of wider regional conflict. Xi also met with top American business leaders in an attempt to restore his economy. Overall, the lack of trust between the two leaders was apparent, and the outcomes were mixed.
 
 Fri, 17 Nov 2023 11:42:05 +0530
 ### [Vantage | Myanmar junta's fast losing ground to rebels and India's worried](https://www.firstpost.com/opinion/vantage-myanmar-juntas-fast-losing-ground-to-rebels-and-indias-worried-13396612.html)

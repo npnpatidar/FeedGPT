@@ -1,3 +1,39 @@
+2023-11-18T18:00:22+05:30
+### [Palestine, Palestinians and the Western Liberal’s Burden](https://thewire.in/world/palestine-palestinians-and-the-western-liberals-burden)
+
+No Article text 
+He alone knows everything about everything, including what’s best for Palestine. Palestinians can therefore refuse to heed him only at their own peril.
+
+2023-11-18T17:30:05+05:30
+### [The Hounding of the Aam Aadmi Party](https://thewire.in/politics/the-hounding-of-the-aam-aadmi-party)
+
+No Article text 
+From his first year in office, Prime Minister Modi has targeted every political leader, every political party, and every institution that could become a threat to his ambition. Paradoxically, the party he seems to fear the most is the smallest among the INDIA alliance’s major constituents –  the Aam Aadmi Party.
+
+2023-11-18T17:00:15+05:30
+### [India's Economy: Is It Really That Bad?](https://thewire.in/political-economy/book-review-is-indias-economy-really-that-bad)
+
+No Article text 
+Ashoka's Mody's book ‘India is Broken’ says India is not doing well economically. But then, how does one square this with the lived experience of many Indians, who see six-lane expressways, Vande Bharat trains, malls, shiny airports and UPI?
+
+2023-11-18T15:34:40+05:30
+### [‘No Space in Germany for Open Exchange of Ideas’: After Hoskote, Other Documenta Panel Members Resign](https://thewire.in/rights/no-space-in-germany-for-open-exchange-of-ideas-after-hoskote-other-documenta-panel-members-quit)
+
+No Article text 
+Mumbai-based author and curator Ranjit Hoskote resigned from the Finding Committee for the upcoming 16th edition of Documenta in Kassel, Germany last week amid accusations of 'anti-Semitism'.
+
+2023-11-18T12:37:33+05:30
+### [Uttarakhand Tunnel Rescue: 40 Workers Trapped for 6 Days, Drilling Halted, New Machine to Arrive Today](https://thewire.in/government/uttarakhand-tunnel-rescue-40-workers-trapped-drilling-work-halted)
+
+No Article text 
+The rescue operation was suspended on Friday, November 17, when a loud cracking sound was heard in the tunnel. This, per reports, happened during the positioning of a pipe.
+
+2023-11-18T12:00:47+05:30
+### [When Surveillance Is Your Friend: For Many, a CCTV Camera Is a Safety Net Against Police Excess](https://thewire.in/communalism/when-surveillance-is-your-friend-for-many-a-cctv-camera-is-a-safety-net-against-police-excess)
+
+No Article text 
+'There is nothing fashionable about installing so many cameras in and outside one’s house,' says a lawyer from a Muslim community. And yet, doing this has helped members of the community prove unfair police action against them.
+
 2023-11-18T11:42:00+05:30
 ### [At India’s Summit for Global South, Leaders Raise Strong Concerns Over Ongoing Conflict in West Asia](https://thewire.in/diplomacy/at-indias-summit-for-global-south-leaders-raise-strong-concern-over-ongoing-conflict-in-west-asia)
 

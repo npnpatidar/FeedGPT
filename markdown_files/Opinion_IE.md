@@ -1,3 +1,13 @@
+Sat, 18 Nov 2023 10:27:46 +0000
+### [The embers of Possession – and passion and obsession – never die out](https://indianexpress.com/article/opinion/columns/the-embers-of-possession-and-passion-and-obsession-never-die-out-9032255/)
+
+This article reflects on the author's fascination with the book "Possession" by A.S. Byatt after news of her death. The book, which won the Booker Prize in 1990, tells the story of two modern-day researchers who fall in love while uncovering evidence of a romance between two Victorian writers. The article explores the various meanings of "possession" in the title, including the pursuit of love and the passionate search for knowledge. It emphasizes how Byatt exposes the false dichotomy between academia and passion, portraying even the most jaded researcher as driven by intense passion. The article concludes by highlighting the enduring embers of passion, obsession, and possession found within the book.
+
+Sat, 18 Nov 2023 08:26:52 +0000
+### [Rashmika Mandanna, deepfakes and us: I find myself constantly questioning the safety of uploading personal information and disclosing my travel location](https://indianexpress.com/article/opinion/columns/rashmika-mandanna-deepfake-social-media-9032088/)
+
+The article discusses the concerns surrounding "deepfake" content and its impact on spreading fake news and misinformation. It highlights a recent incident involving an AI-generated video featuring an Indian actor, which has raised questions about the misuse of artificial intelligence. The author reflects on the broader issues of gender-based violence and harassment faced by women on the internet, and how deepfakes add a new level of manipulation to media. The article also mentions the need for discussions on AI to focus on its misuse in privacy invasion and cybersecurity, as well as its positive contributions like early breast cancer detection. The prevalence of deepfake videos, particularly pornographic ones, is highlighted as a concerning statistic that contributes to cyberviolence against women. The article emphasizes the importance of ethical guidelines, privacy protections, and oversight mechanisms to regulate AI. It also calls for responsible media reporting and encourages individuals to be critical thinkers and debunk false information online. Overall, the article underscores the need for vigilance and awareness in the face of the potential erosion of truth and the spread of misinformation in our digital society.
+
 Sat, 18 Nov 2023 06:22:16 +0000
 ### [Alia Bhatt, Deepika Padukone and Sushmita Sen are repeating outfits. You should too](https://indianexpress.com/article/opinion/columns/alia-bhatt-deepika-padukone-sushmita-sen-repeating-outfits-9031908/)
 

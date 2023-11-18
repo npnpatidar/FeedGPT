@@ -1,3 +1,9 @@
+Sat, 18 Nov 2023 14:51:36 +0530
+### [India's trade trajectory: FTAs and beyond](https://www.livemint.com/opinion/first-person/indias-trade-trajectory-ftas-and-beyond-11700297724796.html)
+
+Article found but Couldn't summarize 
+With the India-UK FTA on the horizon, it's vital to understand India's trade strategy for navigating international trade landscape
+
 Sat, 18 Nov 2023 08:00:09 +0530
 ### [Jaishankar is right about India's choice of Russian oil cooling global inflation](https://www.livemint.com/opinion/online-views/jaishankar-is-right-about-indias-choice-of-russian-oil-cooling-global-inflation-11700223093461.html)
 

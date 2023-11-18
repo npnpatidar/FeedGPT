@@ -1,7 +1,34 @@
+Sat, 18 Nov 2023 16:24:12 +0530
+### [‘The Railway Men’ series review: A bracing, wishful saga of bravery](https://www.thehindu.com/entertainment/movies/the-railway-men-series-review-a-bracing-wishful-saga-of-bravery/article67547235.ece)
+
+Article found but Couldn't summarize 
+Shiv Rawail’s debut series starring Kay Kay Menon, R Madhavan and others is an engrossing if idealised account of civilian courage and unity during the 1984 Bhopal gas leak disaster
+
+Sat, 18 Nov 2023 13:31:29 +0530
+### [‘Monarch: Legacy of Monsters’ series review: Godzilla roars back to life with an exciting and rich new experience](https://www.thehindu.com/entertainment/movies/monarch-legacy-of-monsters-series-review-godzilla-roars-back-to-life-with-an-exciting-and-rich-new-experience/article67546988.ece)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！Appletv+ is releasing a new show called "Monarch: Legacy of Monsters" that aims to balance the different strands of the Godzilla franchise. The show follows two trios, one in 2015 and one in the 1950s, as they encounter and study Godzilla and other monsters. The narrative switches between these two timelines, with the 1950s sequences mirroring the early Godzilla films and focusing on the science behind the monsters. In contrast, the 2015 storyline features the familiar spectacle of humans trying to defend themselves against Godzilla. The show expands on the human characters and aims to create a more meaningful experience compared to recent Godzilla films. "Monarch: Legacy of Monsters" uses past movies as a foundation to bring cohesiveness to the franchise. The first two episodes are available on appletv+ with new episodes released every Friday.
+
+Sat, 18 Nov 2023 12:16:11 +0530
+### [‘The Crown’ Season 6 Part 1 review: The royal soap opera hits a sombre speed-breaker on its final run](https://www.thehindu.com/entertainment/movies/the-crown-season-6-part-1-review-the-royal-soap-opera-hits-a-sombre-speed-breaker-on-its-final-run/article67545332.ece)
+
+The article discusses Part 1 of Season 6 of the TV show "The Crown," which focuses on Princess Diana. It explores her relationship with Dodi Fayed and her decision to be away from England during Prince Charles' birthday celebrations for Camilla Parker Bowles. The article also mentions the media's obsession with Diana and the lack of taste in the show. The remaining six episodes will air on December 14. "The Crown" is available for streaming on Netflix.The article discusses part 1 of season 6 of the TV show "The Crown," which focuses on the story of Princess Diana. The season begins with the tragic car crash that took her life and explores the romance between Diana and Dodi Fayed. The article also mentions the media manipulation and conflicts between Charles and Diana. The show continues to receive praise for its production and acting. However, the article criticizes the show for its manipulative and maudlin approach and lack of taste. The remaining six episodes of the season will air on December 14.
+
+Sat, 18 Nov 2023 11:59:25 +0530
+### [‘Sesham Mike-il Fathima’ movie review: Kalyani Priyadarshan shines in this feel-good entertainer](https://www.thehindu.com/entertainment/movies/kalyani-priyadarshan-shines-in-sesham-mike-il-fathima-directed-by-debutant-manu-c-kumar/article67546706.ece)
+
+The article discusses the movie "Sesham Mike-il Fathima," a women-centric film about a Muslim girl who aspires to become a football commentator. The protagonist faces various obstacles, including opposition from her family and society. The film touches upon themes of patriarchy and misogyny, with high-energy football commentary dialogues adding to the entertainment. While some fairytale-like sequences weaken the narrative, Kalyani Priyadarshan delivers an earnest performance in her role. The movie is praised for its catchy songs and is overall enjoyable, leaving viewers with a smile.
+
 Fri, 17 Nov 2023 18:15:00 +0530
 ### [‘The Hunger Games: The Ballad of Songbirds & Snakes’ movie review: Middling addition to the franchise](https://www.thehindu.com/entertainment/movies/the-hunger-games-the-ballad-of-songbirds-snakes-movie-review-middling-addition-to-the-franchise/article67544097.ece)
 
 The article discusses the film adaptation of Suzanne Collins' novel "The Ballad of Songbirds and Snakes," which is a prequel to the popular "Hunger Games" trilogy. The story focuses on President Snow, the autocratic ruler of Panem, and his involvement in the tenth Hunger Games. The film features callbacks to the original novels and films, but some aspects, such as the portrayal of the main character, Coriolanus, and his relationship with Lucy Gray Baird, are seen as disappointing. The article also mentions the performances of Peter Dinklage, Viola Davis, and Jason Schwartzman, as well as the sets and music in the film. The review questions whether this film will be the start of a prequel trilogy and compares it to another prequel that was poorly received. Overall, the article gives a mixed opinion of "The Ballad of Songbirds and Snakes."
+
+Fri, 17 Nov 2023 18:03:20 +0530
+### [‘Sapta Sagaradaache Ello (Side B)’ movie review: A fantastic Rakshit Shetty steers the sequel to the shore](https://www.thehindu.com/entertainment/movies/sapta-sagaradaache-ello-side-b-movie-review-a-fantastic-rakshit-shetty-steers-the-sequel-to-the-shore/article67544047.ece)
+
+Article found but Couldn't summarize 
+Director Hemanth M Rao puts his lead character in a flawed and morally wrong path, yet soulful performances from Rakshit, Chaithra J Achar and Rukmini Vasanth overshadows the film’s convenient writing
 
 Fri, 17 Nov 2023 16:40:39 +0530
 ### [‘Falimy’ movie review: An endearing, humourous tale of a dysfunctional family](https://www.thehindu.com/entertainment/movies/falimy-movie-review-an-endearing-humourous-tale-of-a-dysfunctional-family/article67543846.ece)

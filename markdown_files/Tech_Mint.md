@@ -1,3 +1,19 @@
+Sat, 18 Nov 2023 16:25:22 +0530
+### [OpenAI's interim CEO, Mira Murati, addresses deepfake concerns in India: Here's what she said…](https://www.livemint.com/technology/tech-news/openais-interim-ceo-mira-murati-addresses-deepfake-concerns-in-india-heres-what-she-said-11700304041712.html)
+
+OpenAI has announced the removal of Sam Altman as CEO and appointed Mira Murati, the Chief Technology Officer, as the interim CEO. They are currently searching for a permanent CEO. Mira Murati recently discussed deepfake concerns in India and OpenAI's efforts to address manipulated media using their technologies. They have made their AI model, Dall-E, available to the public with certain constraints and safeguards. They are auditing the training data, making interventions to avoid certain outcomes, and applying filters to prevent the generation of violent or hateful content. The article also mentions a deepfake video of actress Rashmika Mandanna that went viral, highlighting the misuse of AI to spread misinformation.
+
+Sat, 18 Nov 2023 14:04:50 +0530
+### [Elon Musk's X Corp declares legal war against Media Matters over ad controversy: Details](https://www.livemint.com/technology/tech-news/elon-musks-x-corp-declares-legal-war-against-media-matters-over-ad-controversy-details-11700295675576.html)
+
+Elon Musk announced that X Corp plans to take legal action against Media Matters and those involved in the social media assault on X. Musk stated that X Corp will file a lawsuit against Media Matters and all those who colluded in the attack on their company. Media Matters reported finding corporate advertisements from IBM, Apple, Oracle, and Comcast's Xfinity alongside antisemitic content on X. Musk emphasized that X works to protect freedom of speech and believes that everyone has the right to make their own decisions about what they read, watch, or listen to. Musk's controversial statements led to Disney and other brands withdrawing their advertisements from X.
+
+Sat, 18 Nov 2023 13:54:20 +0530
+### [Sam Altman's ouster from OpenAI draws parallels with ‘Apple fired Steve Jobs’ decades ago | Read here](https://www.livemint.com/technology/tech-news/sam-altmans-ouster-from-openai-draws-parallels-with-apple-fired-steve-jobs-decades-ago-read-here-11700288298764.html)
+
+Article found but Couldn't summarize 
+Steve Jobs was famously fired from Apple in 1985 after a power struggle with the board of directors. He later returned and achieved great success.
+
 Sat, 18 Nov 2023 11:09:33 +0530
 ### [‘Today was a weird experience in many ways’: Sam Altman after ChatGPT-maker OpenAI fired him](https://www.livemint.com/technology/today-was-a-weird-experience-in-many-ways-sam-altman-after-chatgpt-maker-openai-fired-him-11700282348001.html)
 
