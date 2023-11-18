@@ -1,3 +1,8 @@
+Sat, 18 Nov 2023 09:55:56 +0530
+### [This Week in Explainers: The award for best conspiracies this World Cup goes to Pakistan](https://www.firstpost.com/explainers/this-week-in-explainers-the-award-for-best-conspiracies-this-world-cup-goes-to-pakistan-13398982.html)
+
+India's cricket team, known as the men in blue, has reached the finals of the ICC Men's Cricket World Cup 2023. They will face Australia on November 19 in Ahmedabad. The team has won all its matches so far, including a victory against New Zealand in the semi-finals. However, there have been some challenges, with players suffering from cramps during matches. Pakistan has been making allegations against India, including claims that captain Rohit Sharma intentionally throws the coin far from opposing captains during the toss. Aside from cricket, other news in India includes a mishap in Uttarakhand where 40 workers are trapped in an under-construction tunnel due to a landslide, and pollution concerns after Diwali despite a ban on firecrackers. The Asia-Pacific Economic Cooperation (APEC) summit saw diplomatic meetings between world leaders, including US President Joe Biden and China's Xi Jinping. India's membership to the APEC was rejected in 1991. Lastly, the Yemen Supreme Court rejected the appeal of a Kerala nurse who was sentenced to death for the murder of a Yemeni national.
+
 Fri, 17 Nov 2023 19:59:30 +0530
 ### [Dogs, robots and sponge bombs: How Israel is tracking and destroying Hamas tunnels](https://www.firstpost.com/explainers/hamas-terror-tunnels-dogs-robots-sponge-bombs-israel-tracking-destroying-13398122.html)
 

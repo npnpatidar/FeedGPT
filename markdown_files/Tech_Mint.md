@@ -1,3 +1,44 @@
+Sat, 18 Nov 2023 11:09:33 +0530
+### [‘Today was a weird experience in many ways’: Sam Altman after ChatGPT-maker OpenAI fired him](https://www.livemint.com/technology/today-was-a-weird-experience-in-many-ways-sam-altman-after-chatgpt-maker-openai-fired-him-11700282348001.html)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！Sam Altman, the co-founder and former CEO of OpenAI, has issued a statement on X (formerly Twitter) expressing gratitude for the love and support he has received after being fired by the company. Altman described the experience as strange, likening it to reading his own eulogy while still alive. The decision to fire Altman was made by the OpenAI board due to a lack of consistent communication and loss of confidence in his leadership. Altman's departure was announced to him and OpenAI President Greg Brockman on a Google Meet call. Altman expressed his love for the time he spent at OpenAI and the positive impact it had on him and the world. He also praised the talented people he worked with.
+
+Sat, 18 Nov 2023 11:01:43 +0530
+### [‘Sam and I are shocked by what board did today’, says ex-OpenAI President Greg Brockman](https://www.livemint.com/technology/tech-news/sam-and-i-are-shocked-by-what-board-did-today-says-ex-openai-president-greg-brockman-11700283204540.html)
+
+OpenAI President Greg Brockman announced his departure from the company after Sam Altman was ousted by the board. The board lost confidence in Altman's leadership due to communication issues. Brockman expressed shock and sadness regarding the situation and thanked those who have worked with OpenAI. The details of what happened are still unclear, but it involves a text message from Ilya and a Google Meet where Altman and Brockman were informed of their removal from the board. Brockman assured that the company will be fine and greater things are coming. It should be noted that Brockman will remain at OpenAI as President.
+
+Sat, 18 Nov 2023 10:16:45 +0530
+### [Garena Free Fire Max redeem codes for Nov 18, 2023: Win free skins, weapons, and more](https://www.livemint.com/technology/garena-free-fire-max-redeem-codes-for-nov-18-2023-win-free-skins-weapons-and-more-11700282552570.html)
+
+The article discusses the use of redeem codes in Garena Free Fire Max, a popular online game. These codes can be used to obtain in-game items such as weapons, diamonds, and skins. The codes consist of 12 alphanumeric characters and are updated daily by the game developers. Players can visit a dedicated microsite to redeem these codes.
+
+By redeeming the codes, players have a chance to win various rewards, including weapon loot crates, diamonds vouchers, and fire head hunting parachutes. However, it is important to note that the codes have limited availability and can only be redeemed within a specific timeframe and for a maximum of 500 users.
+
+To redeem the codes, players need to visit the game's official Rewards Redemption site on Chrome and log in using their Facebook, Twitter, Google, or VK ID. They can then copy the codes mentioned in the article and paste them in the text box. After confirming, the rewards will be received in the in-game mail section, with golds or diamonds automatically added to the account wallet.
+
+Once the codes are redeemed, players can access the game vault where they can exchange the codes for gold and diamonds. The redeem codes can also be used to purchase in-game items such as weapon loot crates, diamond vouchers, and fire head hunting parachutes.
+
+The article also mentions unrelated news about Livemint topping the charts as the fastest growing news website and encourages readers to download the Mint News App for daily market updates and live business news.
+
+Please note that the provided redeem codes are examples and not actual codes to be used.
+
+Sat, 18 Nov 2023 08:55:53 +0530
+### [‘Sam Altman in 20 years’, Netizens react as ChatGPT-maker OpenAI fires its CEO](https://www.livemint.com/technology/tech-news/sam-altman-in-20-years-netizens-react-as-chatgpt-maker-openai-fires-its-ceo-11700269810554.html)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！OpenAI has fired its co-founder and CEO, Sam Altman, after a review found that he was not consistently honest in his communications with the board of directors. The board has lost confidence in his ability to lead the company. Altman expressed his love for his time at OpenAI and the impact it had on him personally and the world. OpenAI has appointed Mira Murati, the chief technology officer, as the interim CEO while they search for a permanent replacement. Following Altman's departure, co-founder and President Greg Brockman also announced his departure. Netizens reacted to the news on social media, and tech leaders praised Altman for his contributions to the AI industry.
+
+Sat, 18 Nov 2023 08:36:33 +0530
+### [‘Sam Altman is a hero…’: Eric Schmidt, Brian Chesky, other leaders praise Altman's contribution to AI](https://www.livemint.com/technology/sam-altman-is-a-hero-eric-schmidt-brian-chesky-other-leaders-praise-altmans-contribution-to-ai-11700268597900.html)
+
+Article found but Couldn't summarize 
+Tech leaders praise Sam Altman for his achievements in the field of AI, including former Google CEO Eric Schmidt and Airbnb CEO Brian Chesky.
+
+Sat, 18 Nov 2023 07:01:42 +0530
+### [‘I Quit’: OpenAI President Greg Brockman resigns after Sam Altman ouster](https://www.livemint.com/technology/tech-news/i-quit-openai-president-greg-brockman-resigns-after-sam-altman-ouster-11700270504451.html)
+
+After OpenAI fired Sam Altman, the co-founder and president Greg Brockman has announced his departure from the company. Altman was pushed out due to communication issues with the board of directors. Mira Murati, OpenAI's chief technology officer, will serve as interim CEO. Brockman expressed pride in the company's accomplishments but stated that he is quitting in response to the news. Both Brockman and Altman were shocked and saddened by the decision and are still trying to understand what happened. OpenAI has received investments from tech giants like Microsoft and has integrated its technology into various products. Analysts believe Altman's firing won't significantly impact the company's momentum. Originally a nonprofit, OpenAI transitioned to a for-profit structure after Microsoft's investment. The company recently announced its most powerful language model, GPT-4 Turbo.
+
 Sat, 18 Nov 2023 06:11:21 +0530
 ### [ChatGPT-maker OpenAI fires CEO Sam Altman; board says it lost confidence](https://www.livemint.com/technology/chatgptmaker-openai-fires-ceo-sam-altman-board-says-it-lost-confidence-11700267729248.html)
 
@@ -123,8 +164,9 @@ Apple has extended the free access to its emergency SOS via satellite service fo
 Thu, 16 Nov 2023 10:40:27 +0530
 ### [Garena Free Fire Max redeem codes for Nov 16, 2023: Win free exciting rewards](https://www.livemint.com/technology/tech-news/garena-free-fire-max-redeem-codes-for-nov-16-2023-win-free-exciting-rewards-11700111271175.html)
 
-Article found but Couldn't summarize 
-Redeem Garena Free Fire Max codes on the game's official Rewards Redemption site to receive rewards like rebel academy weapon loot crate, diamond vouchers, and more.
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！The article discusses the use of redeem codes in Garena Free Fire Max to win in-game items such as weapons, diamonds, and skins. The game, which gained popularity after the ban of its predecessor by the Indian government, provides daily updates with these codes. Players can visit a dedicated microsite to redeem the available codes, but they should act quickly as the codes are available for a limited time and only for the first 500 users. The article also provides a list of redeem codes for November 16, 2023.
+
+To redeem the codes, players need to go to the game's official Rewards Redemption site on Chrome and login using their Facebook, Twitter, Google, or VK ID. They can then copy the mentioned codes and paste them in the text box. After clicking on Confirm, players will receive the rewards in the in-game mail section, and gold or diamonds will be added automatically to their account wallet. The redeemed codes can be used in the game vault to access gold and diamonds or exchange them for items like rebel academy weapon loot crate, revolt weapon loot crate, diamond vouchers, fire head hunting parachute, and more.
 
 Thu, 16 Nov 2023 08:58:34 +0530
 ### [Explained: What is WhatsApp Privacy Checkup? A look at some changes you can do to make your WhatsApp safer](https://www.livemint.com/technology/apps/explained-what-is-whatsapp-privacy-checkup-a-look-at-some-changes-you-can-do-to-make-your-whatsapp-safer-11700100897368.html)

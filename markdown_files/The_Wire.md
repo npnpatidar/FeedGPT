@@ -1,3 +1,33 @@
+2023-11-18T11:42:00+05:30
+### [At India’s Summit for Global South, Leaders Raise Strong Concerns Over Ongoing Conflict in West Asia](https://thewire.in/diplomacy/at-indias-summit-for-global-south-leaders-raise-strong-concern-over-ongoing-conflict-in-west-asia)
+
+No Article text 
+At the second Voice of the Global South summit, Prime Minister Modi referred to 'new challenges' from the geopolitical crisis that have caused thousands of deaths over the last one month.
+
+2023-11-18T11:24:58+05:30
+### [What Parl Panel Said on Bharatiya Sakshya Bill, Which Seeks To Replace the Indian Evidence Act](https://thewire.in/government/what-parl-panel-said-on-bharatiya-sakshya-bill-which-seeks-to-replace-the-indian-evidence-act)
+
+No Article text 
+The Parliamentary Standing Committee on Home Affairs has recommended deleting the words 'any information' to avoid any misinterpretations, concerning electronic evidence, and ensuring the protection of digital evidence against tampering.
+
+2023-11-18T10:50:59+05:30
+### [After Nearly 2 Years, J&K HC Grants Bail to ‘Kashmir Walla’ Editor Fahad Shah](https://thewire.in/law/after-nearly-2-years-jk-hc-grants-bail-to-kashmir-walla-editor-fahad-shah)
+
+No Article text 
+Fahad was booked under the Public Safety Act and was facing charges under the Unlawful Activities Prevention Act.
+
+2023-11-18T08:40:53+05:30
+### [What Makes the Chhath Festival Inclusive](https://thewire.in/society/what-makes-the-chhath-festival-inclusive)
+
+No Article text 
+This time the Bihar government has banned the use of 'DJ music' at the festival, ostensibly to avoid situations of communal flare-ups similar to those seen in other festivals.
+
+2023-11-18T08:00:36+05:30
+### [How Turkey is Trying to Emerge as a Mediator in the Israel-Palestine War](https://thewire.in/world/how-turkey-is-trying-to-emerge-as-a-mediator-in-the-israel-palestine-war)
+
+No Article text 
+Turkish President Recep Tayyip Erdogan needs to appease his political base at home – which has Islamist, strong pro-Palestinian sympathies – while not totally alienating Israel, with whom Turkey has significant geopolitical and economic ties.
+
 2023-11-17T18:30:11+05:30
 ### [Why Congress Has an Edge Over BJP in Madhya Pradesh](https://thewire.in/politics/why-congress-has-an-edge-over-bjp-in-madhya-pradesh)
 

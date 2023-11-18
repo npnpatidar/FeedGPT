@@ -1,3 +1,8 @@
+Sat, 18 Nov 2023 10:00:00 +0530
+### [The unusual ‘mutations’ that protect humans from viruses | Explained](https://www.thehindu.com/sci-tech/science/paramutations-viruses-pirna-cluster-study-explained/article67538884.ece)
+
+The article discusses the concept of paramutations in genetics and their potential role in protecting humans against viruses. Paramutations are small chemical modifications of chromosomal proteins that can silence genes and make them resistant to viral infections. The piRNA cluster, a type of gene, plays a crucial role in this process by producing short pieces of RNA called piRNA, which guide the destruction of targeted RNA or turn off targeted genes. The article explains how paramutation amplifies the antiviral action of piRNA clusters and helps fly populations become virus resistant faster. The study also uncovers the mechanism by which piRNA from one cluster can paramutate viral DNA copies inserted elsewhere in the genome. However, not all viral insertions are amenable to paramutation, and the reasons behind this are still unknown. The article highlights that paramutation is still a relatively undiscovered phenomenon, and further research is needed to understand its intricacies.
+
 Fri, 17 Nov 2023 15:25:40 +0530
 ### [States v. Governors: Delay in assenting to Bills | Explained](https://www.thehindu.com/news/national/states-vs-governors-delay-in-assenting-to-bills-explained/article67520783.ece)
 

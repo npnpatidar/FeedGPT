@@ -1,3 +1,38 @@
+Sat, 18 Nov 2023 01:58:13 +0000
+### [Proposed India-UK FTA, its politics, and why the UK may benefit more](https://indianexpress.com/article/explained/explained-economics/proposed-india-uk-fta-its-politics-and-why-the-uk-may-benefit-more-9031599/)
+
+India's External Affairs Minister, S Jaishankar, has discussed the India-UK Free Trade Agreement (FTA) with British Prime Minister Rishi Sunak and Foreign Secretary David Cameron. The FTA will serve as a template for an agreement with the European Union (EU). The UK is hesitant to offer work permits to Indian service sector workers under the FTA due to concerns related to Brexit, but the size and potential of the Indian market could compensate for the loss of access to the European Single Market. A trade deal could revive Indian textile exports and offer deeper access for British goods such as cars, whisky, and wine in Indian markets. However, non-tariff barriers (NTBs) and a potential carbon border adjustment mechanism (CBAM) could impact Indian exports to the UK.
+
+Sat, 18 Nov 2023 01:50:05 +0000
+### [COP28 in Dubai: What to expect from climate meeting](https://indianexpress.com/article/explained/explained-climate/cop28-in-dubai-what-to-expect-from-climate-meeting-9031592/)
+
+The upcoming COP28 conference in Dubai is expected to address the inadequate collective commitment of nations in combating climate change. Climate change impacts have been evident for years, and this year is set to be the warmest ever recorded. Current climate action plans are projected to result in only a 2% reduction in emissions by 2030, far from the necessary 43% reduction recommended by the IPCC for the goal of limiting global warming to 1.5 degrees Celsius.
+
+A UN report highlights the declining availability of funds for developing countries to invest in adaptation measures, with only $21 billion flowing in compared to the required $215 billion annually. Financial resources remain a challenge for these countries, despite facing the highest climate risks. While short-term solutions to halt climate deterioration may be limited, the focus is on avoiding a completely hopeless situation.
+
+Tripling the world's installed capacity of renewable energy by 2030 is a crucial objective. This would significantly increase the generation of electricity from renewable sources, accounting for nearly 70% of total electricity compared to the current 28%. The International Energy Agency estimates that achieving this could avoid 7 billion tonnes of carbon dioxide equivalent emissions by 2030.
+
+The proposal to triple renewable energy capacity has already received support from G20 countries, and more countries are expected to endorse it at the Dubai meeting. However, the issue of climate finance remains unresolved, as developed countries failed to meet their promise of mobilizing $100 billion annually from 2020. While progress on this goal would be an achievement, the challenge lies in raising additional funds beyond $100 billion each year.
+
+The creation of a loss and damage fund, intended to assist countries affected by climate change impacts, was a positive outcome of the previous climate meeting. Although the fund was established last year, no funding has been provided yet. The Dubai conference aims to allocate some funds to address the concerns of small island countries, who would benefit the most from this fund.
+
+The meeting in Dubai will also feature the presentation of findings from the first stocktake exercise, which assesses countries' progress in fighting climate change and identifies future actions. The phase-down or phase-out of fossil fuels, particularly coal, remains a contentious issue that is unlikely to be resolved at the conference.
+
+Overall, while the current level of commitment to climate action is insufficient, COP28 in Dubai is expected to deliver meaningful outcomes such as increased renewable energy capacity, potential funding for the loss and damage fund, and discussions on future actions against climate change.
+
+Sat, 18 Nov 2023 01:41:56 +0000
+### [The new flare-up in Myanmar](https://indianexpress.com/article/explained/the-new-flare-up-in-myanmar-9031588/)
+
+The Ministry of External Affairs expressed concern over the ongoing fighting in Myanmar's Chin State, near the border with India. The conflict began after the military seized power on February 1, 2021, leading to a resistance movement comprising Ethnic Armed Organisations (EAOs) and People's Defence Forces (PDFs). In recent weeks, resistance forces have captured towns close to the India-Myanmar border, resulting in an influx of refugees into Mizoram.
+
+The resistance forces, including the Three Brotherhood Alliance, have launched coordinated attacks on military outposts and seized control of crucial border towns and checkpoints. The rebels are pushing towards the capital of Shan state's Kokang region. Fighting has also broken out in other parts of Myanmar, including Rakhine State, Kayin State, Sagaing region, and Chin State.
+
+Despite a crackdown by the junta, the resistance forces continue to challenge its control. The coordination among rebel groups and the military's inability to respond adequately distinguish this offensive. Morale is low among the military, with entire battalions surrendering without a fight.
+
+The junta remains in control of Central Myanmar, while the resistance in Shan State appears to be receiving tacit support from China. The rebels' objective is to eradicate the military dictatorship, and the operation seems to have gained some Chinese support due to an incident that infuriated China involving guards at a scam compound.
+
+India, while expressing concern about the interruption of democracy in Myanmar, has walked a fine line between engagement with the junta and protecting its interests. The influx of Myanmarese nationals into the border states of Northeast India is a significant concern, especially considering the volatile situation in Manipur. The anti-junta forces have captured two important towns near the India-Myanmar border, affecting the proposed trilateral highway project between India, Myanmar, and Thailand.
+
 Fri, 17 Nov 2023 14:57:27 +0000
 ### [What is the BDS movement, led by Palestinian groups against Israel?](https://indianexpress.com/article/explained/explained-global/bds-movement-palestine-israel-explained-9031211/)
 

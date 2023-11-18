@@ -1,3 +1,8 @@
+Sat, 18 Nov 2023 08:00:09 +0530
+### [Jaishankar is right about India's choice of Russian oil cooling global inflation](https://www.livemint.com/opinion/online-views/jaishankar-is-right-about-indias-choice-of-russian-oil-cooling-global-inflation-11700223093461.html)
+
+The article discusses how India's decision to buy Russian oil after the West imposed sanctions helped contain global inflation. The European and American boycott of Russian oil led to a reduction in availability, but India's additional imports from Russia helped neutralize this effect. By switching a large portion of its demand to Russia, India made oil it used to source from OPEC available for Europe to buy, preventing price spikes. The article argues that instead of criticizing India, the world should thank them for their role in stabilizing global oil prices.
+
 Fri, 17 Nov 2023 15:05:21 +0530
 ### [India’s decade started decades ago, and perhaps is going to be decades long…](https://www.livemint.com/opinion/columns/indias-decade-started-decades-ago-and-perhaps-is-going-to-be-decades-long-11700211894845.html)
 
