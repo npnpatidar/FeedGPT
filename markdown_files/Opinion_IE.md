@@ -1,3 +1,26 @@
+Sun, 19 Nov 2023 17:16:18 +0000
+### [Message from India’s failure and success at Word Cup: Bowlers win matches](https://indianexpress.com/article/opinion/columns/message-from-odi-world-cup-2023-9033855/)
+
+The article discusses the importance of bowlers in cricket and highlights their role in determining the outcome of important matches, particularly in World Cup knockouts. The author emphasizes that while batsmen may win individual games, it is the bowlers who ultimately win tournaments. The article provides examples of low-scoring thrillers in past World Cup finals and semi-finals, demonstrating how bowlers dictate the tempo of the game and challenge batsmen to showcase their technical competence.
+
+The author also mentions the current World Cup and how bowling spells have been instrumental in shaping the direction of the knockout games. They cite Mohammed Shami's exceptional performance in the first semi-final, Josh Hazlewood's spell against South Africa, and the impact of the bowlers in the final match between India and Australia. Despite Travis Head's impressive innings, the article argues that it was the bowlers who made the game thrilling by restricting boundaries and executing their plans with mastery in tactics and technique.
+
+The article raises a concern about the tendency to spotlight batsmen over bowlers in cricket, with the media, administrators, and fans giving more attention to batters. It suggests that this bias should be rectified and acknowledges the efforts of the five-pronged bowling attack in making the Indian team successful.
+
+Furthermore, the article discusses the evolution of limited-overs cricket, emphasizing the dominance of batsmen due to factors like shorter boundaries, better equipment, and favorable pitch conditions. The author proposes that achieving a balance between batting and bowling would make the game more enjoyable and calls for more matches similar to the recent semi-final and memorable encounters like the 1999 Edgbaston game.
+
+In conclusion, the article stresses the significant role of bowlers in cricket, particularly in crucial matches and tournaments. It highlights the need to give bowlers equal recognition and advocates for a balanced approach that encompasses both batting and bowling aspects of the game.
+
+Sun, 19 Nov 2023 14:38:30 +0000
+### [Vandita Mishra writes: Notes from the Madhya Pradesh ground](https://indianexpress.com/article/opinion/columns/vandita-mishra-writes-notes-from-the-madhya-pradesh-ground-9033714/)
+
+The article discusses the ongoing assembly elections in India, focusing on the state of Madhya Pradesh. It highlights that while political parties are engaged in their campaigns and making promises, voters are more concerned about the lack of opportunities to shape their own futures. Corruption and the shrinking of citizens' opportunities are seen as major issues. The article also mentions the polarization between the two main parties, BJP and Congress, and their focus on competitive religiosity. The Congress is criticized for not taking a stand against injustices faced by the Muslim community. The article emphasizes that voters cannot be seen as homogeneous groups and highlights the complexities of caste and tribal identities in the state. Overall, it suggests that politicians need to listen to voters' concerns and provide solutions beyond slogans and short-term politics.
+
+Sun, 19 Nov 2023 13:31:49 +0000
+### [ODI World Cups may be fading into oblivion — and that’s not a bad thing](https://indianexpress.com/article/opinion/columns/odi-world-cups-may-be-fading-into-oblivion-and-thats-not-a-bad-thing-9033647/)
+
+The article discusses the 13th Men's Cricket World Cup, highlighting issues such as religious nationalism, politics, mismatched teams, and commercial considerations. It praises the Indian team's performance but criticizes the overall atmosphere and lack of competitive matches. The importance of balance in the audience and the negative impact of a homogenousThe article discusses the 13th Men's Cricket World Cup, highlighting issues such as religious nationalism, politics, mismatched teams, and commercial considerations. It praises the Indian team's performance but criticizes the overall atmosphere and lack of competitive matches. The importance of balance in the audience and the negative impact of a homogenous
+
 Sun, 19 Nov 2023 10:49:44 +0000
 ### [Grand spectacle of cricket World Cup tells us we are one](https://indianexpress.com/article/opinion/columns/grand-spectacle-of-cricket-world-cup-tells-us-we-are-one-9033442/)
 

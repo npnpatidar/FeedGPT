@@ -1,3 +1,9 @@
+Sun, 19 Nov 2023 19:01:03 +0530
+### [Interview | Spirituality is about elevation of thoughts, unfoldment of divinity within: Swami Mukundananda](https://www.firstpost.com/opinion/interview-spirituality-is-about-elevation-of-thoughts-unfoldment-of-divinity-within-swami-mukundananda-13404792.html)
+
+Article found but Couldn't summarize 
+Interview | Spirituality is about elevation of thoughts, unfoldment of divinity within: Swami Mukundananda
+
 Sun, 19 Nov 2023 17:56:18 +0530
 ### [President Xi exudes bonhomie as business houses gauge a directional shift](https://www.firstpost.com/opinion/president-xi-exudes-bonhomie-as-business-houses-gauge-a-directional-shift-13404432.html)
 
@@ -80,14 +86,12 @@ The article discusses the upcoming elections in Bangladesh and the unexpected in
 Fri, 17 Nov 2023 14:05:37 +0530
 ### [Supreme Court exposes political lack of will in curbing stubble burning](https://www.firstpost.com/opinion/supreme-court-exposes-political-lack-of-will-in-curbing-stubble-burning-2-13397902.html)
 
-Article found but Couldn't summarize 
-Supreme Court exposes political lack of will in curbing stubble burning
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！The article discusses the Indian Supreme Court's intervention in addressing the issue of stubble burning in Punjab. On November 7, the Supreme Court passed an order to immediately stop parali or stubble burning. The Punjab government took action by registering FIRs against non-compliant farmers, imposing fines, holding meetings with farmers, and deploying flying squads and fire brigades to enforce the ban. As a result, the number of burning incidents decreased significantly. The article emphasizes two lessons: that politicians and administrators can implement their promises if they have the will to do so, and that the Supreme Court is filling in when executive incompetence is evident. The article also highlights how the Supreme Court has become the guardian in constitutional matters, protecting democracy and ensuring fairness. It mentions the misuse of power by Governors and the suspension of a member of Parliament, which were both challenged in the Supreme Court. The article concludes by emphasizing the important role the Supreme Court plays in safeguarding citizens' rights and the need for its continued independence and impartiality.
 
 Fri, 17 Nov 2023 13:42:15 +0530
 ### [Afghan refugees facing human rights crisis in Pakistan: Where have bleeding hearts shouting Gaza slogans gone now?](https://www.firstpost.com/opinion/afghan-refugees-facing-human-rights-crisis-in-pakistan-where-have-bleeding-hearts-shouting-gaza-slogans-gone-now-13397572.html)
 
-Article found but Couldn't summarize 
-Afghan refugees facing human rights crisis in Pakistan: Where have bleeding hearts shouting Gaza slogans gone now?
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！Pakistan announced plans to arrest and deport hundreds of thousands of unregistered foreign nationals and migrants lacking proper documentation, affecting approximately 1.7 million Afghan refugees in the country. These refugees, along with other persecuted communities such as China's Uyghurs and Myanmar's Rohingya, now face the prospect of homelessness and loss of livelihood if forced to leave Pakistan. Amnesty International reports that Pakistan has established detention centers where detainees are deprived of legal rights, raising concerns about violations of liberty and fair trial. The decision to crack down on illegal immigrants is believed to be prompted by cross-border terrorism, as Pakistan has experienced a surge in militant attacks since the Taliban assumed control of Afghanistan. Pakistani officials claim that the Tehrik-i-Taliban Pakistan (TTP) has relocated its bases to Afghanistan, resulting in increased tensions between Islamabad and the Taliban rulers. Despite reports of abuse and mistreatment of Afghan asylum seekers, there has been no widespread outcry against Pakistan. The article also mentions the political controversy surrounding the Citizenship Amendment Act (CAA) in India and criticizes the lack of attention given to the human rights crisis in Pakistan compared to other global issues.
 
 Fri, 17 Nov 2023 13:05:24 +0530
 ### [Spamouflage Dragon: China’s pursuit of aggressive disinformation strategies for cyber hegemony](https://www.firstpost.com/opinion/spamouflage-dragon-chinas-pursuit-of-aggressive-disinformation-strategies-for-cyber-hegemony-13397212.html)

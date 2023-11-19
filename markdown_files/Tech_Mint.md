@@ -1,3 +1,14 @@
+Sun, 19 Nov 2023 23:22:07 +0530
+### [Sorry, data isn’t really the new oil](https://www.livemint.com/technology/tech-news/sorry-data-isn-t-really-the-new-oil-11700415117429.html)
+
+Article found but Couldn't summarize 
+The ability to derive significant monetizable insights by crunching big data is questionable
+
+Sun, 19 Nov 2023 22:19:47 +0530
+### [‘Govts should access the best tech, not reinvent the wheel’](https://www.livemint.com/technology/tech-news/govts-should-access-the-best-tech-not-reinvent-the-wheel-11700412211333.html)
+
+Sam Altman, the former CEO of OpenAI, made comments about India's attempt to develop an AI tool like ChatGPT, calling it "hopeless." However, Altman later clarified that his response was taken out of context. India currently lacks a semiconductor fab to build the necessary chips for a large language modelSam Altman, the former CEO of OpenAI, made comments about India's attempt to develop an AI tool like ChatGPT, calling it "hopeless." However, Altman later clarified that his response was taken out of context. India currently lacks a semiconductor fab to build the necessary chips for a large language model
+
 Sat, 18 Nov 2023 19:13:22 +0530
 ### [Oppo's ColorOS 14 introduces AI-based Pantanal and AndesGPT for smart user experience: All you need to know](https://www.livemint.com/technology/gadgets/oppos-coloros-14-introduces-ai-based-pantanal-and-andesgpt-for-smart-user-experience-all-you-need-to-know-11700314655208.html)
 

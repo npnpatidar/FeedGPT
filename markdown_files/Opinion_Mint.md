@@ -1,3 +1,24 @@
+Sun, 19 Nov 2023 22:45:45 +0530
+### [A ritualistic risk dance begins as the political stakes start to rise](https://www.livemint.com/opinion/online-views/a-ritualistic-risk-dance-begins-as-the-political-stakes-start-to-rise-11700391198128.html)
+
+The Reserve Bank of India (RBI) has implemented risk-mitigation measures to minimize the risks associated with unsecured personal loans given by banks and non-banking financial companies (NBFCs). The central bank has increased the risk weightage for personal loans, requiring lenders to have additional capital or reduce their exposure in consumer credit. However, the higher risk weightage only applies to general purpose consumer credit and not loans for specific purposes like housing or car purchases. This move comes as personal loans have shown significant growth, raising concerns about potential stress in the system. There are suspicions that some of these loans have been used for speculative trading in equity derivatives markets. The RBI's cautionary measures highlight the need to address hidden risks before key elections, although it raises questions about the timing of these warnings and regulatory responses. Overall, this indicates a pattern of regulators becoming aware of risks just before elections while seemingly tolerating excessive speculation during normal times.
+
+Sun, 19 Nov 2023 22:37:30 +0530
+### [World cup: India’s talisman against negativity, hate](https://www.livemint.com/opinion/columns/world-cup-india-s-talisman-against-negativity-hate-11700413128316.html)
+
+This article discusses the recent victory of the Indian cricket team over New Zealand in the World Cup semi-final, highlighting the performance of Mohammed Shami, who took seven wickets in the match. The article also mentions the personal struggles Shami had faced in his life, including accusations from his estranged wife. The author praises Shami for his resilience and the way he has overcome adversity. The article also discusses the role of cricket in promoting unity and countering hate speech. Additionally, the author mentions the success of Indian cinema and its ability to reject divisive agendas. The article concludes by expressing hope that the positivity and vitality seen in sports, film, literature, and culture will continue to prevail in the future.
+
+Sun, 19 Nov 2023 22:13:38 +0530
+### [CoP-28 must focus on the climate-fuelled health crisis](https://www.livemint.com/opinion/online-views/cop28-must-focus-on-the-climate-fuelled-health-crisis-11700391364054.html)
+
+The latest Lancet Countdown report on climate change and health highlights the devastating impact of fossil fuel dependence on human health and the environment. The report reveals that the increasing frequency of heatwaves, droughts, and other extreme weather events has exposed millions of people to food insecurity and worsened air pollution, leading to a rise in infectious diseases. Despite the overwhelming evidence linking fossil fuel combustion to these health crises, world leaders have failed to take urgent action to phase out fossil fuels. If greenhouse gas emissions continue at the current rate, global temperatures could increase by nearly 3 degrees Celsius by 2100, resulting in catastrophic consequences for human health. The report calls for a comprehensive approach to address the climate crisis, including reducing emissions, transitioning to clean energy, implementing public health measures, and eliminating subsidies for fossil fuels. The health sector must play a leading role in this transition and advocate for policies that prioritize public health and well-being. The upcoming United Nations Climate Change Conference (CoP-28) is a crucial opportunity for world leaders to demonstrate their commitment to addressing the climate crisis and protecting human health.
+
+Sun, 19 Nov 2023 18:10:53 +0530
+### [Containing China's technology ecosystem will remain a US policy priority](https://www.livemint.com/opinion/online-views/containing-chinas-technology-ecosystem-will-remain-a-us-policy-priority-11700397193012.html)
+
+Article found but Couldn't summarize 
+Xi’s willingness to explore re-engagement with the US is partly the result of chip export controls and other sanctions which have rendered China disadvantageous in a market where time-to-market matters.
+
 Sun, 19 Nov 2023 16:54:34 +0530
 ### [The West’s chance of winning the Global South has dimmed as the Gaza war rages](https://www.livemint.com/opinion/online-views/the-west-s-chance-of-winning-the-global-south-has-dimmed-as-the-gaza-war-rages-11700391268832.html)
 
