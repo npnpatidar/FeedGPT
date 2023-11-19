@@ -1,3 +1,35 @@
+Sun, 19 Nov 2023 04:14:00 +0530
+### [What led ICC to suspend Sri Lanka Cricket? | Explained](https://www.thehindu.com/sport/cricket/what-led-icc-to-suspend-sri-lanka-cricket-explained/article67548636.ece)
+
+The International Cricket Council (ICC) has suspended Sri Lanka Cricket (SLC) due to government interference. The ICC stated that SLC breached its obligations as a member by allowing government involvement in the governance of cricket in Sri Lanka. This suspension came after Sri Lanka's Sports Minister sacked the SLC board and appointed former captain Arjuna Ranatunga to lead an interim committee. However, the Court of Appeal issued a stay order and reinstated the SLC regime, leading to further conflict between the government and SLC. The ICC requires its members to manage their affairs autonomously, free from government interference. Sri Lanka is the second full ICC member to be suspended for such reasons, following Zimbabwe in 2019. The consequences of this suspension will be determined after the ICC board meeting. Sri Lanka's government plans to approach the ICC's dispute resolution committee and, if necessary, the Court of Arbitration for Sport in Switzerland.
+
+Sun, 19 Nov 2023 03:36:00 +0530
+### [Why are people fleeing Myanmar for Mizoram? | Explained](https://www.thehindu.com/news/international/why-are-people-fleeing-myanmar-for-mizoram-explained/article67548631.ece)
+
+Article found but Couldn't summarize 
+What’s happening in the border States of the northeast because of the civil war in the neighbouring country? How have ethnic organisations responded to the junta crackdown?
+
+Sun, 19 Nov 2023 03:27:00 +0530
+### [Indigenous Tribal Leaders’ Forum | Seeking ‘self-governance’](https://www.thehindu.com/news/national/indigenous-tribal-leaders-forum-seeking-self-governance/article67548759.ece)
+
+The Indigenous Tribal Leaders' Forum (ITLF) in Manipur, India, has been in the news after clashes between the Kuki and Meitei people. The ITLF's general secretary, Muan Tombing, was recently accused of "attempting to wage war" against the Indian government. The ITLF, formed in 2022, comprises various tribal councils and aims to address issues faced by the Kuki-Zomi community. The forum seeks self-governance within the framework of the Indian Constitution, citing concerns over violence and discrimination. Some Kuki-Zomi organizations, including MLAs from Mizoram, support the demand for a separate administration for the community.
+
+Sun, 19 Nov 2023 02:49:00 +0530
+### [David Cameron | Comeback conservative](https://www.thehindu.com/news/international/david-cameron-comeback-conservative/article67548748.ece)
+
+Former UK Prime Minister David Cameron has reemerged in the political arena as the country's new Foreign Secretary. This comes seven years after his resignation following the Brexit referendum, which he campaigned against. Cameron's political career began in the Conservative Party, where he held various positions before becoming party leader in 2005. He led the party for 11 years, implementing austerity measures to reduce the budget deficit. However, his tenure was marred by international events such as the Arab Spring and the intervention in Libya, for which he faced criticism for a lack of coherent strategy. Historians have summarized his legacy as being defined by Europe, similar to Tony Blair's association with Iraq. Cameron's recent appointment is overshadowed by concerns over the Greensill Capital scandal, where he was accused of showing poor judgement while lobbying government officials.
+
+Sun, 19 Nov 2023 02:18:00 +0530
+### [Border Peace and Tranquility Agreement | Limited peace, unlimited tensions](https://www.thehindu.com/news/national/border-peace-and-tranquility-agreement-limited-peace-unlimited-tensions/article67548733.ece)
+
+The article discusses the Border Peace and Tranquility Agreement (BPTA) signed between India and China in 1993, which aimed to maintain peace along the Line of Actual Control (LAC) in their border areas. The agreement was significant as it marked the first time both countries legally committed to respecting the status quo and reducing the risk of unplanned confrontations. However, the limited nature of the agreement led to an infrastructure race and increasing incidents between the two countries since 2013.
+
+The article highlights that the ongoing border crisis, with over 100,000 troops deployed from both sides near the LAC, has rendered the commitments of the BPTA invalid. One of the main reasons for the breakdown is the ambiguity surrounding the LAC, as India and China have differing perceptions of its location. The BPTA attempted to address this by stating that both sides would clarify the LAC where necessary, but it did not conclusively reject China's version of the LAC from November 7, 1959.
+
+Despite the shortcomings of the BPTA, it paved the way for subsequent agreements, such as Confidence Building Measures in the Military Field along the LAC in 1996, and the appointment of Special Representatives in 2003. However, negotiations for a final settlement of the boundary have stalled, and mechanisms designed to maintain peace have come under increasing stress.
+
+The current border crisis, which began in April 2020, has further strained relations between India and China. While military commanders continue to meet to work out new Confidence Building Measures in this context, the process of settling the boundary dispute has almost completely halted. The article concludes that the India-China border remains unsettled, and it remains to be seen if the current crisis will lead to a transformative moment in their relationship.
+
 Sat, 18 Nov 2023 10:00:00 +0530
 ### [The unusual ‘mutations’ that protect humans from viruses | Explained](https://www.thehindu.com/sci-tech/science/paramutations-viruses-pirna-cluster-study-explained/article67538884.ece)
 

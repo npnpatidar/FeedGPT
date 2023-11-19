@@ -1,3 +1,105 @@
+Sun, 19 Nov 2023 01:02:24 +0000
+### [Pak’s Chakwal seminary horror: Victims reveal gruesome details of abuse](https://theprint.in/world/paks-chakwal-seminary-horror-victims-reveal-gruesome-details-of-abuse/1850571/)
+
+Students from a seminary in Pakistan's Chakwal district have come forward with allegations of sexual assault and torture by two teachers. The victims claim that the teachers used intimidation tactics, including marking their hands with knives as a form of threat. The accused teachers have been expelled and arrested by the police, and examinations conducted by doctors have revealed signs of assault in at least eight students. The caretaker Chief Minister has taken notice of the incident and directed the police to submit a detailed report. The seminary's principal and administrative in-charge have been detained, while one of the accused teachers denies the allegations.
+
+Sun, 19 Nov 2023 01:02:14 +0000
+### [Taylor Swift postpones her Rio concert, here is why](https://theprint.in/feature/taylor-swift-postpones-her-rio-concert-here-is-why/1850569/)
+
+American singer-songwriter Taylor Swift has postponed her concert in Rio de Janeiro, Brazil, due to the extreme heat wave in the city. The safety and well-being of her fans, fellow performers, and crew is her top priority. The concert has been rescheduled to Monday, November 20. Swift expressed her sorrow over the death of a fan at her previous concert in Rio and extended her condolences to the fan's family and friends. The 23-year-old fan was taken to the hospital after feeling ill at the concert and unfortunately passed away. The mayor of Rio de Janeiro has ordered action to be taken to prevent similar incidents in the future.
+
+Sun, 19 Nov 2023 01:02:02 +0000
+### [Afghanistan: Special women’s exhibition faces challenges amid restrictions](https://theprint.in/world/afghanistan-special-womens-exhibition-faces-challenges-amid-restrictions/1850567/)
+
+The inaugural "Khadijah Al-Kubra" national and international exhibition for women in Kabul, Afghanistan, aimed at empowering entrepreneurial women, is facing obstacles and low turnout due to economic hardships. Limited attendance by women only hinders sales, with some participants considering closing booths due to the lack of visitors. The exhibition, organized by the Taliban administration's Ministry of Industry and Commerce in collaboration with the Women's Chamber of Commerce and Industries, aims to support children and mothers in Kabul. However, economic difficulties and Taliban-imposed restrictions limit women's participation. The World Bank has previously reported a decline in women's role in trade in Afghanistan due to changes in systems and restrictions on women's work and education.
+
+Sun, 19 Nov 2023 00:47:13 +0000
+### [Director confirms most patients, staff have evacuated Gaza’s Shifa Hospital](https://theprint.in/world/director-confirms-most-patients-staff-have-evacuated-gazas-shifa-hospital/1850565/)
+
+Most patients and staff have been evacuated from Shifa Hospital in Gaza, according to the Israeli Defense Forces (IDF). The IDF released a recording of a conversation with the hospital's director, who confirmed that only the sickest patients remain. The IDF also stated that they have provided food and water to the hospital. The recording refutes claims that the IDF demanded the hospital's evacuation. Shifa Hospital is Gaza's largest medical center and has a history of being used by Hamas for nefarious activities.
+
+Sun, 19 Nov 2023 00:47:02 +0000
+### [Three in four Palestinians support Hamas’ massacre: Survey](https://theprint.in/world/three-in-four-palestinians-support-hamas-massacre-survey/1850563/)
+
+According to a survey conducted by the Arab World for Research and Development (AWRAD), over three-quarters of Palestinians have a positive view of Hamas following its October 7 terrorist attacks in Israel. The poll, which surveyed 668 Palestinian adults in the southern Gaza Strip, Judea, and Samaria, found that 48.2% of respondents characterized Hamas's role as "very positive," while 27.8% viewed it as "somewhat positive." Almost 80% regarded the role of Hamas's military wing, the Al-Qassam Brigade, as positive. The survey also found that 59.3% of Palestinians "extremely" supported the attacks, while only 12.7% expressed disapproval. Additionally, 98% of respondents held negative views of the United States.
+
+Sun, 19 Nov 2023 00:32:02 +0000
+### [Israel-Hamas war: Death toll from Oct 7 music festival massacre rises to 350](https://theprint.in/world/israel-hamas-war-death-toll-from-oct-7-music-festival-massacre-rises-to-350/1850561/)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！The death toll from a Hamas attack at the Nova Music Festival in Tel Aviv has been raised from 260 to 350. The increase was based on data from Israel's National Insurance Institute, which found that more victims were shot and burned in their cars while trying to flee than initially thought. Additionally, 40 attendees were taken hostage in Gaza. In total, 1,200 people were killed in the attack and around 240 are confirmed to be held hostage. Authorities have identified 870 victims, but others remain unaccounted for. Archaeologists have been enlisted to help find the remains of the victims.
+
+Sun, 19 Nov 2023 00:17:01 +0000
+### [Biden stands firm against ceasefire, condemns West Bank violence in op-ed](https://theprint.in/world/biden-stands-firm-against-ceasefire-condemns-west-bank-violence-in-op-ed/1850559/)
+
+US President Joe Biden has dismissed calls for a ceasefire in Gaza, stating that it will not bring about peace. In an op-ed published in The Washington Post, Biden argued that as long as Hamas continues its destructive ideology, a ceasefire is not a solution. He called for Israel to respect humanitarian law and minimize civilian casualties, advising against being misled by hurt and rage. Biden reiterated his support for a two-state solution and suggested governance under the Palestinian Authority while working towards that goal. He also condemned extremist violence against Palestinians in the West Bank and warned that the US is prepared to issue visa bans against the perpetrators. The article also mentions concerns about Israel violating the visa waiver program, and the Biden administration's proposed package for security assistance for conflicts in Ukraine and Israel. Biden ended by denouncing increasing antisemitism and islamophobia related to the conflict between Israel and Hamas.
+
+Sat, 18 Nov 2023 23:47:02 +0000
+### [Benjamin Netanyahu faces battles on multiple fronts amid mounting calls to free hostages](https://theprint.in/world/benjamin-netanyahu-faces-battles-on-multiple-fronts-amid-mounting-calls-to-free-hostages/1850557/)
+
+Israel's Prime Minister Benjamin Netanyahu is facing pressure to secure the release of hostages held by Hamas. Families and supporters of the hostages marched from Tel Aviv to Jerusalem, demanding action from the government. Public opinion is turning against Netanyahu, with polls indicating a decline in support for him and his coalition. Opposition leader Yair Lapid has called for Netanyahu's resignation due to a loss of public trust. Negotiations for a ceasefire and hostage release face challenges due to contentious issues, and the Israeli government's attempts to ease conditions in Gaza have drawn criticism from within Netanyahu's coalition. Families blame Netanyahu for failing to anticipate an attack by Hamas and prioritize judicial reform over security preparations. Criticism of Netanyahu's lack of empathy and failure to take responsibility for security lapses has also grown. Many hope for a new government once the war concludes and the hostages are returned.
+
+Sat, 18 Nov 2023 23:32:01 +0000
+### [Save the Children issues warning on disease outbreaks among children returning from Pakistan](https://theprint.in/world/save-the-children-issues-warning-on-disease-outbreaks-among-children-returning-from-pakistan/1850555/)
+
+Save the Children, a humanitarian organization, has raised concerns about a surge in diseases among returning migrants from Pakistan. In the last month alone, they recorded over 3,000 cases of acute respiratory infections and 1,200 cases of diarrhea among migrant children. The organization highlighted overcrowded cargo trucks, dust exposure, and makeshift shelters as contributors to respiratory infections. With 80% of returnees being children and women, many are facing harsh conditions without sufficient shelter, resources, and food. The World Health Organization has also expressed apprehensions about disease spread, including polio, among returnees, stressing the need for $10 million to provide healthcare services. Concerns have been raised about potential disease outbreaks, including childhood paralysis, as hundreds of thousands have already returned to Afghanistan.
+
+Sat, 18 Nov 2023 23:02:01 +0000
+### [Pakistan: Kidnapped policeman found dead in Lakki mountains](https://theprint.in/world/pakistan-kidnapped-policeman-found-dead-in-lakki-mountains/1850553/)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！The body of a Frontier Reserve Police constable who was abducted by terrorists has been discovered in the mountains near Lakki Marwat in Pakistan. The constable had been visiting a friend in the village when he was intercepted and abducted at gunpoint. Despite a search operation by the police, his body was found with bullet wounds and taken for an autopsy. Efforts are ongoing to locate and apprehend the terrorists responsible. In a separate incident, three individuals, including a woman and a minor girl, were killed in a road accident, while two others were injured. The injured were transported to a hospital for medical attention. The names of the deceased and injured have not been confirmed.
+
+Sat, 18 Nov 2023 22:01:56 +0000
+### [Soccer-Al-Ittihad appoint Argentine Gallardo as manager](https://theprint.in/sport/soccer-al-ittihad-appoint-argentine-gallardo-as-manager/1850545/)
+
+Article found but Couldn't summarize 
+(Reuters) - Saudi champions Al-Ittihad have named Argentine Marcelo Gallardo as coach through to 2025 following the sacking of Nuno Espirito Santo, the club said on Saturday. Gallardo returns to
+
+Sat, 18 Nov 2023 22:01:46 +0000
+### [Soccer-Centurion Mane celebrates with two goals in Senegal win](https://theprint.in/sport/soccer-centurion-mane-celebrates-with-two-goals-in-senegal-win/1850543/)
+
+Senegal, South Africa, and Tanzania all emerged victorious in their respective World Cup qualifying matches. Senegal's Sadio Mane celebrated his 100th cap for the national team by scoring two goals in their 4-0 win over South Sudan. South Africa defeated Benin 2-1 at home, while Tanzania secured a 1-0 away victory against Niger. The winners of the nine qualifying groups will advance to the 2026 finals, hosted by Canada, Mexico, and the United States. Meanwhile, Algeria, Egypt, and Nigeria face challenging away games in their upcoming qualifiers.
+
+Sat, 18 Nov 2023 22:01:36 +0000
+### [Soccer-France annihilate 10-man Gibraltar 14-0 in record win](https://theprint.in/sport/soccer-france-annihilate-10-man-gibraltar-14-0-in-record-win/1850541/)
+
+France achieved their largest ever victory with a 14-0 win against Gibraltar in a Euro 2024 Group B qualifier. Kylian Mbappe scored a hat-trick and Warren Zaire-Emery scored on his debut. France were 7-0 up by halftime, with multiple players contributing to the scoreline. Gibraltar were reduced to 10 men in the 18th minute, and France's biggest win to date, a 10-0 victory over Azerbaijan in 1995, seemed possible. The record was broken with goals from Adrien Rabiot, Kingsley Coman, Ousmane Dembele, and Olivier Giroud.
+
+Sat, 18 Nov 2023 22:01:25 +0000
+### [Soccer-Dutch qualify for Euro 2024 finals as they edge Ireland](https://theprint.in/sport/soccer-dutch-qualify-for-euro-2024-finals-as-they-edge-ireland/1850539/)
+
+The Netherlands secured their spot at the European Championship with a 1-0 victory over Ireland. Striker Wout Weghorst scored an early goal, running straight towards the net and finding the roof of the goal. The Dutch finished second in Group B, six points behind France who topped the group. Greece finished in third place, but could not catch up to the Netherlands. The Dutch team will conclude their campaign with a match against Gibraltar.The Netherlands secured a spot in next year's European Championship by defeating Ireland 1-0. Wout Weghorst's early goal sealed the victory for the Dutch, who finished second in Group B. Despite the win, the Netherlands finished six points behind group winners France, who maintained a perfect record in their seven group matches. The Dutch will conclude their campaign with a match against Gibraltar on Tuesday.
+
+Sat, 18 Nov 2023 22:01:15 +0000
+### [Soccer-Switzerland qualify for Euro 2024 after 1-1 draw with Kosovo](https://theprint.in/sport/soccer-switzerland-qualify-for-euro-2024-after-1-1-draw-with-kosovo/1850537/)
+
+Article found but Couldn't summarize 
+BASEL, Switzerland (Reuters) - Switzerland booked their place at Euro 2024 with a 1-1 home draw against Kosovo in European qualifying Group I on Saturday. Kosovo were under pressure for most of the
+
+Sat, 18 Nov 2023 22:01:03 +0000
+### [Soccer-Romania secure Euro 2024 spot with comeback win over Israel](https://theprint.in/sport/soccer-romania-secure-euro-2024-spot-with-comeback-win-over-israel/1850535/)
+
+In a group I qualifying clash on Saturday, Romania secured a spot in Euro 2024 by defeating Israel 2-1 in Hungary. The match was closely contested, with Israel taking an early lead through Eran Zahavi's header. However, Romania quickly equalized through George Puscas, who headed in a rebound. The winning goal came from Ianis Hagi, who scored with a low shot from a tight angle. Tensions rose as Romania's Valentin Mihaila received a red card late in the match. With this loss, Israel will move into the playoffs for another chance to qualify for next year's finals in Germany.
+
+Sat, 18 Nov 2023 22:00:52 +0000
+### [Soccer-Dutch qualify for Euro 2024 with 1-0 win over Ireland in Amsterdam](https://theprint.in/sport/soccer-dutch-qualify-for-euro-2024-with-1-0-win-over-ireland-in-amsterdam/1850533/)
+
+The Netherlands secured a spot in Euro 2024 by defeating Ireland 1-0 in their final Group B match. Wout Weghorst scored the only goal of the game after just 12 minutes. The Dutch finish in second place in the group with 15 points, six behind group winners France. Despite missing several key players due to injury, the Dutch outplayed Ireland throughout the match but were unable to extend their lead. Ireland had a chance to equalize, but the goal was ruled out for offside. This may be manager Stephen Kenny's final competitive match, as Ireland will play a friendly against New Zealand next.
+
+Sat, 18 Nov 2023 22:00:39 +0000
+### [Ousted OpenAI CEO Altman planning new AI venture-sources](https://theprint.in/tech/ousted-openai-ceo-altman-planning-new-ai-venture-sources/1850531/)
+
+Former CEO of OpenAI, Sam Altman, is reportedly working on a new artificial intelligence venture following his ousting from the company. Sources indicate that Greg Brockman, the former president of OpenAI who left after Altman's firing, is expected to join the new effort. Altman and former Apple design chief Jony Ive have also been discussing the development of a new AI hardware device. Altman's departure from OpenAI was due to a breakdown of communication, according to an internal company memo. Some researchers at OpenAI, including Szymon Sidor, have quit the company, but it is unclear if they will join Altman's new venture.
+
+Sat, 18 Nov 2023 22:00:24 +0000
+### [Taylor Swift postpones Rio de Janeiro show due to heat after fan’s death](https://theprint.in/world/taylor-swift-postpones-rio-de-janeiro-show-due-to-heat-after-fans-death/1850529/)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！Taylor Swift postponed her concert in Rio de Janeiro due to scorching heat, following the death of a fan who fell ill at the concert venue. Ana Clara Benevides, 23, became unwell during the show and later died in the hospital. The cause of her death is currently unknown and under investigation. The extreme temperatures in Rio prompted Swift to prioritize the safety and well-being of her fans, performers, and crew. On Friday, several fans fell ill during the concert, leading Swift to interrupt the performance and request water for them. The government has ordered concert organizers to guarantee water access at all of Swift's concerts in Brazil, and new measures have been put in place to provide free drinking water during shows with high heat exposure. The concert scheduled for Saturday was postponed to Monday.
+
+Sat, 18 Nov 2023 22:00:14 +0000
+### [Biden says Palestinian Authority should ultimately govern Gaza and West Bank](https://theprint.in/world/biden-says-palestinian-authority-should-ultimately-govern-gaza-and-west-bank/1850527/)
+
+US President Joe Biden stated in an opinion article that the Palestinian Authority should ultimately govern the Gaza Strip and the West Bank. He emphasized the need to work towards a two-state solution and called for no forcible displacement of Palestinians, no reoccupation, blockade, or reduction in territory. Israeli Prime Minister Benjamin Netanyahu disagreed with Biden's plan, stating that the Palestinian Authority is not currently capable of accepting responsibility for Gaza. Biden also mentioned the US's preparedness to issue visa bans against extremists attacking civilians in the West Bank. Palestinian President Mahmoud Abbas called on Biden to pressure Israel to stop violence against Palestinians. The West Bank has experienced escalating violence for over a year, drawing international concern.
+
 Sat, 18 Nov 2023 18:15:03 +0000
 ### [Hollywood actor Michael Douglas to address masterclass during IFFI in Panaji](https://theprint.in/feature/hollywood-actor-michael-douglas-to-address-masterclass-during-iffi-in-panaji/1850486/)
 
@@ -241,8 +343,7 @@ Sat, 18 Nov 2023 06:00:03 +0000
 Sat, 18 Nov 2023 05:52:22 +0000
 ### [Yediyurappa confidant & Vokkaliga leader Ashoka named LoP as ex-CM regains full control of Karnataka BJP](https://theprint.in/politics/yediyurappa-confidant-vokkaliga-leader-ashoka-named-lop-as-ex-cm-regains-full-control-of-karnataka-bjp/1849699/)
 
-Article found but Couldn't summarize 
-Former deputy CM R. Ashoka's election comes week after Yediyurappa's son, B.Y. Vijayendra, was appointed BJP state unit chief. Post of opposition leader had lain vacant for 6 months.
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！R. Ashoka, a seven-time legislator and former deputy chief minister of Karnataka, has been announced as the new leader of the Opposition (LoP) in the state. This comes six months after the Bharatiya Janata Party (BJP) lost power in the assembly elections. Ashoka, a 66-year-old legislator from Bengaluru, was unanimously elected as LoP, marking the return of B.S. Yediyurappa to party leadership. There were other contenders for the position, but they made way for Ashoka. Ashoka belongs to the Vokkaliga caste group, whose support the BJP is actively seeking ahead of the 2024 Lok Sabha elections. However, the elevation of Ashoka comes amidst dissent within the BJP, with Basanagouda Patil Yatnal, a BJP legislator, criticizing the party for neglecting northern Karnataka. Yatnal, who was also in the race for LoP, voiced his opposition to Yediyurappa and his family. Despite the internal divisions, Yediyurappa stated that there was no dissent within the party. Another party leader, Arvind Bellad, accepted the decision, acknowledging the pain felt in North Karnataka. The BJP aims to secure votes from specific communities in the deeply caste-based society of Karnataka, including Lingayats and Vokkaligas, as it looks ahead to the 2024 Lok Sabha elections.
 
 Sat, 18 Nov 2023 05:51:01 +0000
 ### [TiE Delhi-NCR in partnership with Prayatna organizes ‘Malaria Hackfest – Predict, Plan & Prevent’, powered by Mortein](https://theprint.in/ani-press-releases/tie-delhi-ncr-in-partnership-with-prayatna-organizes-malaria-hackfest-predict-plan-prevent-powered-by-mortein/1849800/)
