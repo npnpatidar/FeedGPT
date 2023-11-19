@@ -1,3 +1,25 @@
+Sun, 19 Nov 2023 17:56:18 +0530
+### [President Xi exudes bonhomie as business houses gauge a directional shift](https://www.firstpost.com/opinion/president-xi-exudes-bonhomie-as-business-houses-gauge-a-directional-shift-13404432.html)
+
+Article found but Couldn't summarize 
+President Xi exudes bonhomie as business houses gauge a directional shift
+
+Sun, 19 Nov 2023 15:50:53 +0530
+### [Book review | Courting Hindustan: The consuming passions of iconic women performers of India](https://www.firstpost.com/opinion/book-review-courting-hindustan-the-consuming-passions-of-iconic-women-performers-of-india-13404042.html)
+
+The book "Courting Hindustan" by Madhur Gupta explores the history of women in traditional Indian entertainment, highlighting their contributions to music, dance, and poetry. The book sheds light on the lives of women performers who challenged societal norms and rose to elite positions, shaping the cultural heritage of India. It discusses the roles of women in ancient India as Devadasis and Maharis, as well as the emergence of Tawaifs during the Mughal era. The book celebrates the resilience and determination of these women and their impact on Indian culture. While it avoids delving into critical domains that challenge established historical paradigms, it pays homage to the trailblazers who paved the way for future generations. Overall, "Courting Hindustan" is a masterfully crafted exploration of the lives of women performers in India.
+
+Sun, 19 Nov 2023 13:46:08 +0530
+### [Battlefield Gaza: Hamas’ triad formula of tunnel warfare, FIBUA and sensitive installations](https://www.firstpost.com/opinion/battlefield-gaza-hamas-triad-formula-of-tunnel-warfare-fibua-and-sensitive-installations-13403832.html)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！The article discusses the effectiveness of Hamas' tunnel warfare strategy against Israel's offensive operations. It highlights that Hamas has been able to withstand the Israeli Defense Forces (IDF) due to its extensive network of tunnels in Gaza, which provide shelter to fighters and house weapons and equipment. The tunnels have delayed the IDF's ground offensive and forced them to modify their tactics. Hamas has also utilized the dense population and infrastructure of Gaza in urban warfare, taking advantage of Fighting in Built-Up Areas (FIBUA) to defend against the IDF. Additionally, Hamas has used civil hospitals, rehabilitation centers, and religious places as part of their tunnel network, bringing attention to the conflict and gaining support from Muslim nations. The article also mentions the historical effectiveness of tunnels in conflicts, citing examples such as the Cu-Chi tunnels used by the Viet Cong during the Vietnam War. The writer emphasizes that the combination of tunnel warfare, FIBUA, and sensitive installations is likely to impact the outcome of the current conflict between Hamas and the IDF.
+
+Sun, 19 Nov 2023 12:33:32 +0530
+### [Uniform Civil Code complications may not be insurmountable if Parliament has a genuine desire](https://www.firstpost.com/opinion/uniform-civil-code-complications-may-not-insurmountable-if-parliament-has-a-genuine-desire-13403522.html)
+
+Article found but Couldn't summarize 
+Uniform Civil Code complications may not be insurmountable if Parliament has a genuine desire
+
 Sat, 18 Nov 2023 18:30:59 +0530
 ### [Beyond the Lines | The politics of risks: Why geopolitics matters more than ever to businesses and economies](https://www.firstpost.com/opinion/beyond-the-lines-the-politics-of-risks-why-geopolitics-matters-more-than-ever-to-businesses-and-economies-13402082.html)
 

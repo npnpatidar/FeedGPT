@@ -1,3 +1,69 @@
+2023-11-19T17:39:46+05:30
+### [Health Ministry Refutes UN Agency Report on 1.1 Million Measles Vaccinations Missed in India](https://thewire.in/health/health-ministry-refutes-un-agency-report-on-1-1-million-measles-vaccinations-missed-in-india)
+
+No Article text 
+The health ministry said UN data on India does “not reflect the true picture” on measles vaccination in India.
+
+2023-11-19T17:15:33+05:30
+### [The Weather in Kashmir](https://thewire.in/books/hari-krishna-kaul-stories)
+
+No Article text 
+A new translation of Hari Krishna Kaul’s stories, 'For Now It Is Night', brings out the different shapes of loneliness in Kashmiri Pandits' lives.
+
+2023-11-19T16:45:33+05:30
+### [Chhattisgarh: With No Common Wave in Sight, Congress, BJP Train Eyes on December 3](https://thewire.in/politics/chhattisgarh-with-no-common-wave-in-sight-congress-bjp-train-eyes-on-december-3)
+
+No Article text 
+While the Congress fought the election on Bhupesh Baghel’s face and his tenure of five years, the BJP made allegations of corruption against Baghel.
+
+2023-11-19T16:15:26+05:30
+### [Lessons from Bosnia-Herzegovina’s Forgotten War](https://thewire.in/world/lessons-from-bosnia-herzegovinas-forgotten-war)
+
+No Article text 
+As people struggle to understand the scale of the carnage in Israel-Palestine, many will inevitably come to the conclusion that “Western hypocrisy” is the answer.
+
+2023-11-19T15:59:07+05:30
+### [Watch | 'Cricket World Cup Final Is a Battle of Two Styles'](https://thewire.in/sport/watch-cricket-world-cup-final-is-a-battle-of-two-styles)
+
+No Article text 
+Will the story be that of the Indian juggernaut crushing the rest or Australia re-establishing indefatigability
+
+2023-11-19T15:49:36+05:30
+### [Man in 'Free Palestine' Shirt Invades Pitch During India-Australia Cricket World Cup Final](https://thewire.in/rights/free-palestine-cricket-world-cup-pitch-invader)
+
+No Article text 
+The man was in a mask – also with the Palestine flag on it – and appeared to want to embrace star batsman Virat Kohli, who was batting with K.L. Rahul at that point.
+
+2023-11-19T15:14:58+05:30
+### [The Assembly Polls Are a Litmus Test for Congress and Rahul Gandhi](https://thewire.in/politics/the-assembly-polls-are-a-litmus-test-for-congress-and-rahul-gandhi)
+
+No Article text 
+But a win, by default, is no long-term solution to the Congress’s own weaknesses.
+
+2023-11-19T15:10:05+05:30
+### [Madhya Pradesh: Rural Workers Get Lowest Daily Wages, Below National Average](https://thewire.in/labour/madhya-pradesh-rural-workers-get-lowest-daily-wages-below-national-average)
+
+No Article text 
+RBI data showed that while the national average for the year ended March 2023 was Rs 345.7, male agricultural workers in rural areas in Madhya Pradesh got a daily wage of just Rs 229.2.
+
+2023-11-19T14:42:37+05:30
+### [Modi ‘Only Hope’ Says Opposition Delegation in Meeting with Manipur Governor](https://thewire.in/politics/modi-only-hope-says-opposition-delegation-in-meeting-with-manipur-governor)
+
+No Article text 
+A ten party opposition delegation met Manipur governor Anusuiya Uikey on Friday and urged her to facilitate a meeting with the prime minister to resolve the ongoing conflict in the state.
+
+2023-11-19T13:49:34+05:30
+### [An Ode to the 101-Year Old Freedom Fighter and Communist N. Sankaraiah](https://thewire.in/politics/an-ode-to-the-101-year-old-freedom-fighter-and-communist-n-sankaraiah)
+
+No Article text 
+He lived an admirable public life and remained the pulse of the Communist party till the end.
+
+2023-11-19T12:29:45+05:30
+### [The Hills Are Unforgiving](https://thewire.in/environment/the-hills-are-unforgiving)
+
+No Article text 
+According to locals, angering the local deities by disfiguring the hills has brought on the Uttarkashi tunnel collapse.
+
 2023-11-19T11:23:10+05:30
 ### [UP's Crackdown Against Halal Products: A 'Criminal Case' and a Ban](https://thewire.in/communalism/ups-crackdown-against-halal-products-a-criminal-case-and-a-ban)
 

@@ -1,3 +1,107 @@
+Sun, 19 Nov 2023 12:17:14 +0000
+### [Madhuri Dixit calls Rajinikanth ‘an inspiration’ as she recalls working with him](https://theprint.in/feature/madhuri-dixit-calls-rajinikanth-an-inspiration-as-she-recalls-working-with-him/1850995/)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！Actors Madhuri Dixit Nene and Rajinikanth, who have worked together in the movie 'Uttar Dakshin', recently reunited. Madhuri shared a picture on Instagram with Rajinikanth and her husband Shriram Nene, reminiscing about their film. 'Uttar Dakshin', directed by Kundan Shah, explores the cultural differences between two families from the north and south of India. The film depicts the humorous and poignant situations that arise due to the clash of cultures. Madhuri was last seen in the film 'Maja Ma', while Rajinikanth is enjoying the success of 'Jailer'. He will also be seen in 'Thalaivar 170' alongside Amitabh Bachchan in the future.
+
+Sun, 19 Nov 2023 12:17:01 +0000
+### [SRK, Deepika, Ranveer cheer for Team India at World Cup 2023 final](https://theprint.in/feature/srk-deepika-ranveer-cheer-for-team-india-at-world-cup-2023-final/1850993/)
+
+The article discusses the presence of several celebrities, including Shah Rukh Khan, Ranveer Singh, and Deepika Padukone, at the World Cup 2023 final in Ahmedabad. The celebrities were seen cheering for Team India and were captured in pictures and videos. Shah Rukh Khan was seen sitting with his wife Gauri, while Deepika and Ranveer were seated behind him. Shah Rukh also interacted with Ayushman Khurana and arrived with his children. Other celebrities, such as Anushka Sharma and Athiya Shetty, were also present. The article mentions that Australia won the toss and chose to bowl first, while India entered the final unbeaten. The playing XIs for both teams are also provided.
+
+Sun, 19 Nov 2023 12:15:03 +0000
+### [Tripura Assembly contemplating not allowing questions on old subjects](https://theprint.in/india/tripura-assembly-contemplating-not-allowing-questions-on-old-subjects/1850992/)
+
+The Tripura Assembly is considering implementing a rule that would prevent members from raising questions on a subject that is three or more years old. This is similar to the mechanism followed in Parliament. The Rules Committee of the Assembly, led by the Speaker, held a meeting with political party representatives to discuss this matter. The opposition and the CPI(M) have expressed their opposition to this initiative, as it would limit the ability to raise important issues related to corruption. The Speaker has assured them that details will be obtained from the Parliament secretariat and further discussions will take place in the next meeting of the Rules Committee.
+
+Sun, 19 Nov 2023 12:00:48 +0000
+### [Motor racing-Red Bull’s Perez suffers bittersweet Las Vegas GP finish](https://theprint.in/sport/motor-racing-red-bulls-perez-suffers-bittersweet-las-vegas-gp-finish/1850983/)
+
+Sergio Perez finished second in the Las Vegas Grand Prix, but Charles Leclerc overtook him on the final lap. Despite this, Perez is now in second place in the overall drivers standings. Perez faced challenges in the race, including damage to his front wing, but managed to finish and was pleased with the race overall. The F1 season now moves on to the Abu Dhabi Grand Prix.您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！In the Las Vegas Grand Prix, Sergio Perez finished in third place after being overtaken by Charles Leclerc in the final lap. However, Perez's second place in the overall drivers standings was a consolation. Max Verstappen, Perez's Red Bull teammate, secured his 18th victory of the season. Despite starting at the back of the grid due to damage from a collision with Valtteri Bottas, Perez managed to make his way up the field. He described the race as successful and compared it to Baku, where being the lead car is challenging. The F1 season now moves on to the Abu Dhabi Grand Prix on November 24-26.
+
+Sun, 19 Nov 2023 12:00:37 +0000
+### [Rallying-Evans leads Toyota podium sweep in Japan](https://theprint.in/sport/rallying-evans-leads-toyota-podium-sweep-in-japan/1850981/)
+
+Welsh driver Elfyn Evans led Toyota to a victory in the Japanese Rally, finishing ahead of teammate Sebastien Ogier and Kalle Rovanpera. Rovanpera had already secured the championship title, and Evans' second-place finish confirmed him as the championship runner-up. Toyota also clinched the manufacturers' championship for the third consecutive year. Evans praised the team's performance and expressed his happiness at winning the race. The 2024 season will begin in Monte Carlo in January.Elfyn Evans led Toyota to a podium sweep in the Japanese Rally, with Sebastien Ogier in second and Kalle Rovanpera in third. Rovanpera had already secured the world title, and Evans' second-place finish confirmed him as the championship runner-up. Toyota had already secured the manufacturers' championship for the third consecutive year. Evans dominated the race, leading by nearly two minutes after the opening leg. Hyundai's Esapekka Lappi finished fourth, denying Toyota a complete sweep. The 2024 season will begin in Monte Carlo on January 25-28.
+
+Sun, 19 Nov 2023 12:00:16 +0000
+### [U.N. plastic treaty talks grapple with re-use, recycle, reduce debate](https://theprint.in/world/u-n-plastic-treaty-talks-grapple-with-re-use-recycle-reduce-debate/1850979/)
+
+The third round of United Nations negotiations for a treaty to control plastic pollution has received over 500 proposals from participants. Some see this as progress, while Greenpeace calls it "chaos". Negotiators have until the end of next year to reach a deal addressing the 400 million tonnes of plastic waste produced annually. The plastics industry and oil exporters advocate for promoting recycling and reusing, while environmental campaigners and certain governments believe in reducing production. Greenpeace emphasizes that the United States and the European Union should show greater leadership. The International Pollutants Elimination Network (IPEN) believes that the proposals reflect the robustness of the talks. Canada, Kenya, and the European Union support limiting plastic production, while a coalition of Russia and Saudi Arabia emphasizes recycling. Only less than 10% of plastic waste is recycled, and at least 14 million tonnes end up in the ocean each year. Two more rounds of negotiations will occur next year to finalize the deal.
+
+Sun, 19 Nov 2023 12:00:05 +0000
+### [Hamas battles Israeli forces in north Gaza, hostage deal report denied](https://theprint.in/world/hamas-battles-israeli-forces-in-north-gaza-hostage-deal-report-denied/1850977/)
+
+Article found but Couldn't summarize 
+By Nidal al-Mughrabi and James Mackenzie GAZA/JERUSALEM (Reuters) -Hamas militants battled Israeli forces trying to push into Gaza's largest refugee camp on Sunday and Israeli air strikes to the south
+
+Sun, 19 Nov 2023 12:00:03 +0000
+### [‘Caged parrot’ ECI a sham, is favouring BJP, alleges Sanjay RautElection Commission has become a caged parrot: Raut Mumbai, Nov 19 (‘](https://theprint.in/india/caged-parrot-eci-a-sham-is-favouring-bjp-alleges-sanjay-rautelection-commission-has-become-a-caged-parrot-raut-mumbai-nov-19-2/1850976/)
+
+Shiv Sena leader Sanjay Raut has criticized the Election Commission of India (ECI), accusing it of being biased towards the Bharatiya Janata Party (BJP). In his column, Raut claimed that the ECI has become a "caged parrot" and a "sham" and is practicing double standards. He accused the BJP of resorting to religious propaganda to bribe voters after losing ground in five states. Raut highlighted a statement made by Union Home Minister Amit Shah, promising government-organized tours to the Ram temple in Ayodhya if the BJP retains power, and criticized it as campaigning on religious lines. Raut also mentioned that in the past, when Shiv Sena founder Bal Thackeray sought votes on the issue of Hindutva, his voting rights were revoked. The Shiv Sena has written to the ECI questioning whether it has relaxed the model code of conduct.
+
+Sun, 19 Nov 2023 11:52:19 +0000
+### [Climate change is transforming the way we speak. And that’s a good thing](https://theprint.in/environment/climate-change-is-transforming-the-way-we-speak-and-thats-a-good-thing/1850950/)
+
+Article found but Couldn't summarize 
+'Natural' disasters are increasingly not that, after all. And is a fire really 'wild' if its size and intensity largely result from man-made emissions?
+
+Sun, 19 Nov 2023 11:47:16 +0000
+### [Australian Deputy PM, Foreign Minister to reach India today to attend second India-Australia 2+2 Ministerial Dialogue](https://theprint.in/world/australian-deputy-pm-foreign-minister-to-reach-india-today-to-attend-second-india-australia-22-ministerial-dialogue/1850971/)
+
+The Deputy Prime Minister of Australia and Defence Minister, Richard Marles, and the Foreign Affairs Minister, Penny Wong, are traveling to India to attend the second India-Australia 2+2 Ministerial Dialogue in New Delhi. They will meet their counterparts in New Delhi and engage in discussions about the Australia-India defence relationship, regional challenges, and the Australia-India foreign ministers' framework dialogue. The ministers will focus on cooperation in the areas of defence, security, renewable energy, technology, trade, and investment. The visit highlights the growing closeness of the defence and security partnerships between Australia and India. Additionally, Marles will attend the ICC World Cup in the United Arab Emirates, marking the first visit by an Australian defence minister to the region in five years. Australia acknowledges the UAE's support in hosting Australian Defence Force personnel and their assistance in evacuating Australians affected by the situation in Israel and the occupied Palestinian territories.
+
+Sun, 19 Nov 2023 11:47:02 +0000
+### [World Cup Final: Australian spectator who breached security to meet Virat Kohli detained by Gujarat Police](https://theprint.in/world/world-cup-final-australian-spectator-who-breached-security-to-meet-virat-kohli-detained-by-gujarat-police/1850969/)
+
+During the ICC Cricket World Cup 2023 final between India and Australia at the Narendra Modi Stadium in Ahmedabad, a security breach occurred when an Australian spectator supporting Palestine hugged Virat Kohli. The man has been detained by the Gujarat State Police and brought to the Chandkheda Police Station in Ahmedabad. He entered the field to meet Kohli and expressed his support for Palestine. The incident took place during the 14th over of India's innings and the intruder was quickly removed by security. The man was wearing a T-shirt with a free Palestine slogan and a mask with a Palestinian flag color theme.
+
+Sun, 19 Nov 2023 11:46:19 +0000
+### [‘Caged parrot’ ECI a sham, is favouring BJP, alleges Sanjay RautElection Commission has become a caged parrot: Raut Mumbai, Nov 19 (‘](https://theprint.in/india/caged-parrot-eci-a-sham-is-favouring-bjp-alleges-sanjay-rautelection-commission-has-become-a-caged-parrot-raut-mumbai-nov-19/1850967/)
+
+Shiv Sena leader Sanjay Raut accused the Election Commission of India (ECI) of being a caged parrot and practicing double standards in favor of the Bharatiya Janata Party (BJP). Raut criticized the BJP for resorting to religious propaganda to bribe voters after losing ground in five states where assembly polls were being held. He referred to Union Home Minister Amit Shah's promise to organize government-organized tours to the Ram temple in Ayodhya if the BJP retains power as campaigning on religious lines. Raut argued that if a similar statement was made by a Congress leader, the ECI would have taken action. He criticized the ECI for not addressing this issue, stating that garnering votes by bribing the electorate is detrimental to democracy. Raut also mentioned the upcoming idol consecration of the Ram temple in Ayodhya scheduled for January 22 and criticized the ECI's handling of the election campaigning in five states. He accused the BJP of managing the ECI and other constitutional bodies in the battle for Hindutva. The Shiv Sena (UBT) wrote to the ECI expressing concerns over Shah's promise and questioned if the model code of conduct had been relaxed.
+
+Sun, 19 Nov 2023 11:46:03 +0000
+### [Pro-Palestine fan breaches security to reach Kohli](https://theprint.in/sport/pro-palestine-fan-breaches-security-to-reach-kohli/1850966/)
+
+A pro-Palestine fan managed to breach security and enter the field during the World Cup final cricket match between India and Australia in Ahmedabad. The man, identified as Wayne Johnson, an Australian of Chinese-Filipino origin, attempted to hug Indian cricketer Virat Kohli before being apprehended by security personnel. Johnson was taken to the police station, but it is unclear what action will be taken against him. He was wearing a face mask with a design of the Palestine flag and a t-shirt with slogans advocating to stop bombing and save Palestine. The ICC and India do not permit political slogans at cricket events. The incident comes amid ongoing conflict between Israel and Hamas.
+
+Sun, 19 Nov 2023 11:45:48 +0000
+### [Adani-Hindenburg row: Plea in SC seeks contempt action against SEBI](https://theprint.in/india/adani-hindenburg-row-plea-in-sc-seeks-contempt-action-against-sebi/1850965/)
+
+Article found but Couldn't summarize 
+New Delhi, Nov 19 (PTI) A plea has been filed in the Supreme Court for initiation of contempt proceedings against the Securities and Exchange Board of India (SEBI), alleging it has violated the timeline for completing the investigation and submitting its report on the allegations of stock price manipulation by the Adani group. An application [&#8230;]
+
+Sun, 19 Nov 2023 11:45:35 +0000
+### [India a USD 4 trillion economy? Adani to Fadnavis hail, but no official word](https://theprint.in/economy/india-a-usd-4-trillion-economy-adani-to-fadnavis-hail-but-no-official-word/1850964/)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！Indian billionaire Gautam Adani, along with two union ministers and Maharashtra Deputy Chief Minister Devendra Fadnavis, expressed their praise for India reportedly crossing the USD 4 trillion mark in GDP. However, there has been no official confirmation of this milestone achievement. The finance ministry and national statistical office have not commented on the viral social media post. Sources close to the matter claim that the news is incorrect and India has not yet reached this landmark. The viral news originated from an unverified screengrab based on IMF data, which is challenging to track in real-time for all countries. Despite the lack of official confirmation, several political leaders, including Fadnavis, hailed the achievement and attributed it to Prime Minister Narendra Modi's leadership and the implementation of reforms. In the April-June quarter of 2023-24, India recorded GDP growth of 7.8%, making it the world's fastest-growing major economy.
+
+Sun, 19 Nov 2023 11:45:19 +0000
+### [Pawar, CM Shinde pay homage to Indira Gandhi on her birth anniversary](https://theprint.in/india/pawar-cm-shinde-pay-homage-to-indira-gandhi-on-her-birth-anniversary/1850963/)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！NCP president Sharad Pawar and Maharashtra Chief Minister Eknath Shinde paid tributes to former prime minister Indira Gandhi on her 106th birth anniversary. Shinde administered a National Unity Day pledge, while Pawar praised Gandhi's political astuteness and her efforts to improve the lives of the poor. Shiv Sena leader Aaditya Thackeray also paid tribute to Gandhi's strong and visionary leadership.NCP president Sharad Pawar and Maharashtra Chief Minister Eknath Shinde paid tributes to former prime minister Indira Gandhi on her 106th birth anniversary. Shinde administered a National Unity Day pledge, while Pawar praised Gandhi's political astuteness and her efforts to improve the lives of the poor. Shiv Sena leader Aaditya Thackeray also paid tribute to Gandhi's strong and visionary leadership.
+
+Sun, 19 Nov 2023 11:45:02 +0000
+### [Indira Gandhi-led Cong govt plagued by starvation deaths, encounters, alleges Chandrasekhar Rao](https://theprint.in/india/indira-gandhi-led-cong-govt-plagued-by-starvation-deaths-encounters-alleges-chandrasekhar-rao/1850962/)
+
+The article discusses BRS chief K Chandrasekhar Rao's criticism of the Congress party, particularly during the regime of former Prime Minister Indira Gandhi. Rao accuses the Congress of failing to provide basic necessities like drinking water and delaying the formation of Telangana. He also highlights the alleged negative aspects of Indira Gandhi's rule, including starvation deaths, Naxalite movements, and encounters. Rao compares the development under his government with the Congress' 50-year rule and promises further enhancements if re-elected. Additionally, he mentions the refusal to implement a central government order and the absence of irrigation water tax in Telangana.
+
+Sun, 19 Nov 2023 11:31:48 +0000
+### [Punjab-born Irish man eyes Guinness record for double ‘Earth Walk’](https://theprint.in/world/punjab-born-irish-man-eyes-guinness-record-for-double-earth-walk/1850961/)
+
+Article found but Couldn't summarize 
+London, Nov 19 (PTI) A 73-year-old man, born in Punjab and based in Ireland for nearly 50 years, is making a second go at a Guinness World Record for what he describes as his double Earth Walk, totalling over 80,000 kilometres and equivalent to double the circumference of the Earth. Vinod Bajaj submitted his application [&#8230;]
+
+Sun, 19 Nov 2023 11:31:33 +0000
+### [Cold weather claims 5 lives in Nepal’s earthquake-hit Jajarkot district](https://theprint.in/world/cold-weather-claims-5-lives-in-nepals-earthquake-hit-jajarkot-district/1850960/)
+
+Five elderly people, including two women, have died in Nepal's earthquake-hit Jajarkot district due to harsh cold weather. The individuals had taken refuge in separate tents as their homes were destroyed by the recent earthquake. Over 34,000 families in Jajarkot are still living in makeshift tents after the district was hit by a 6.4 magnitude earthquake on November 3, resulting in numerous casualties and displacements. The most vulnerable groups in these conditions are children, new mothers, patients with chronic illnesses, and the elderly population.
+
+Sun, 19 Nov 2023 11:31:15 +0000
+### [Rahul Gandhi visits Congress war room to oversee preparations for Rajasthan elections](https://theprint.in/india/rahul-gandhi-visits-congress-war-room-to-oversee-preparations-for-rajasthan-elections/1850959/)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！Congress leader Rahul Gandhi visited the Congress war room in Jaipur to oversee preparations for the assembly elections. Rajasthan Congress in-charge Sukhjinder Singh Randhawa was also present during his visit. Gandhi motivated the team present at the war room, and he stayed there for about half an hour. However, Chief Minister Ashok Gehlot and his former deputy Sachin Pilot were not present.Congress leader Rahul Gandhi visited the Congress war room in Jaipur to oversee preparations for the Assembly elections. He motivated the team present there during his half-hour visit. Chief Minister Ashok Gehlot and former deputy Sachin Pilot were not present.
+
 Sun, 19 Nov 2023 06:15:28 +0000
 ### [Karnataka HC orders removal of encroachments around archeological site in Nagamangala](https://theprint.in/india/karnataka-hc-orders-removal-of-encroachments-around-archeological-site-in-nagamangala/1850673/)
 

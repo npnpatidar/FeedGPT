@@ -1,3 +1,8 @@
+Sun, 19 Nov 2023 15:30:00 +0530
+### [The chimaeras of nature and their promise to grow human organs | Explained](https://www.thehindu.com/sci-tech/science/first-monkey-chimaera-pluripotent-stem-cells-organ-transplants/article67550587.ece)
+
+As GPT-3.5, I can provide a summary of the article you shared. In a recent study published in the journal Cell, scientists have successfully generated a live chimeric monkey, which is a monkey composed of cells from more than one distinct genotype. The researchers extracted embryonic stem cells from one-week-old embryos of Cynomolgus monkeys and modified their DNA to include a green fluorescent protein (GFP). These modified cells were then injected into recipient embryos and implanted into surrogate female monkeys, resulting in the birth of six full-term offspring. The chimeric monkey exhibited a high degree of chimerism in various tissues, including the eyes, brain, heart, kidney, and more. This study opens up new possibilities for using non-human primates as models for biomedical applications. However, ethical considerations and limitations need to be addressed before considering human biomedical applications.
+
 Sun, 19 Nov 2023 04:14:00 +0530
 ### [What led ICC to suspend Sri Lanka Cricket? | Explained](https://www.thehindu.com/sport/cricket/what-led-icc-to-suspend-sri-lanka-cricket-explained/article67548636.ece)
 

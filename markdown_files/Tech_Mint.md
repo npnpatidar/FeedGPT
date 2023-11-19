@@ -513,8 +513,7 @@ Sam Altman, CEO of ChatGPT, mocked Elon Musk's AI chatbot, Grok, in a lightheart
 Fri, 10 Nov 2023 09:38:49 +0530
 ### [InterGlobe's air taxi service to cover 90-minute trips in 7 minutes: All you need to know](https://www.livemint.com/technology/tech-news/interglobes-air-taxi-service-to-cover-90-minute-trips-in-7-minutes-all-you-need-to-know-11699584002205.html)
 
-Article found but Couldn't summarize 
-InterGlobe Enterprises and Archer Aviation are joining forces to introduce an air taxi service in India. Here is everything you need to know.
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！Indian company InterGlobe Enterprises has partnered with American innovator Archer Aviation to launch an air taxi service in India. The service, called 'Midnight', will use electric vertical take-off and landing (eVTOL) aircraft and will initially operate in Delhi, Mumbai, and Bengaluru. The eVTOL planes have a range of 161 kilometers and can carry a pilot and four passengers. The air taxi service aims to solve the problem of urban traffic congestion and reduce travel time within cities. InterGlobe also plans to use the aircraft for cargo and emergency medical services. Archer Aviation has already secured a deal with the US Air Force and is targeting the UAE market. The launch of the air taxi service is expected to bring a dramatic shift in urban transportation in India by 2026.
 
 Thu, 09 Nov 2023 23:08:07 +0530
 ### [Deepfake makers: Why is it so hard to catch them?](https://www.livemint.com/technology/why-is-it-hard-to-catch-those-who-make-deepfakes-11699550983350.html)
