@@ -1,3 +1,13 @@
+Sun, 19 Nov 2023 11:22:28 +0530
+### [OMG! How TikTok Jesus, promising ‘blessing in an hour’, is a viral sensation](https://www.firstpost.com/explainers/omg-how-tiktok-jesus-promising-blessing-in-an-hour-is-a-viral-sensation-13394882.html)
+
+The TikTok profile Daily Believer has gained a large following by using computer-generated Jesuses to engage viewers and promise blessings in exchange for likes, comments, and shares. This approach is similar to the prosperity gospel, which teaches that faith in God will bring material wealth and happiness. The Daily Believer's content appeals to a wide range of Christian groups and has the potential to generate revenue through the TikTok Creator Fund. By framing their requests as coming from the Son of God, the Daily Believer has transformed viewer engagement into a religious act with the promise of divine reward. However, the content seems to be aimed at those who already consider themselves Christian and offers little persuasion or explanation of why someone should become a Christian. Overall, the Daily Believer represents a new expression of an ancient religious motivation – the desire for worldly health, wealth, and reward.
+
+Sun, 19 Nov 2023 10:49:43 +0530
+### [This Week in Explainers: Why did ChatGPT-maker OpenAI fire Sam Altman?](https://www.firstpost.com/explainers/this-week-in-explainers-why-did-chatgpt-maker-openai-fire-sam-altman-13399392.html)
+
+OpenAI, the company behind ChatGPT, has fired its CEO and co-founder, Sam Altman, in a surprise move. Altman has been replaced by Mira Murati as interim CEO. The reasons for Altman's firing are unclear. In other news, Israel's raid on the Al-Shifa Hospital in Gaza has drawn criticism, with Israel claiming it was a Hamas command center and doctors warning of a "catastrophic situation." A letter from Osama bin Laden to America has gone viral on TikTok, causing embarrassment for authorities. UK Prime Minister Rishi Sunak has sacked Suella Braverman, the home secretary, following her remarks on the police's handling of pro-Palestinian protesters. A new study on sleep and longevity challenges the idea that everyone needs eight hours of sleep. Colombia has imposed a tax on junk food and sugary drinks as a public health measure. In a rare case, an Alabama woman is pregnant with two babies in separate uteri, shocking medical experts.
+
 Sat, 18 Nov 2023 18:08:23 +0530
 ### [How US is fighting Iran-backed militias in West Asia](https://www.firstpost.com/explainers/explained-the-uss-balanced-response-to-iran-backed-militias-attacking-its-forces-13401502.html)
 

@@ -1,3 +1,15 @@
+2023-11-19T11:23:10+05:30
+### [UP's Crackdown Against Halal Products: A 'Criminal Case' and a Ban](https://thewire.in/communalism/ups-crackdown-against-halal-products-a-criminal-case-and-a-ban)
+
+No Article text 
+The UP government acted in response to an FIR alleging that "business interest of other communities was being hurt" due to halal certification.
+
+2023-11-19T10:46:04+05:30
+### [J&K High Court Quashes PSA Proceedings Against Sajad Gul, Rebukes Admin for ‘Not Applying Its Mind'](https://thewire.in/law/jk-high-court-quashes-psa-proceedings-against-sajad-gul-rebukes-admin-for-not-applying-its-mind)
+
+No Article text 
+The bench ruled that the grounds of detention in Gul's PSA dossier don’t indicate that he was involved in any wrongdoing.
+
 2023-11-18T22:10:16+05:30
 ### [Who Was Building the Uttarakhand Tunnel That Collapsed?](https://thewire.in/business/who-was-building-the-uttarakhand-tunnel-that-collapsed)
 

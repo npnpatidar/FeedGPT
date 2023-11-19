@@ -1,3 +1,8 @@
+Sun, 19 Nov 2023 02:30:55 +0000
+### [FedEx chief Raj Subramaniam spotted at Xi Jinping dinner with US CEOs: Who is the Indian-American executive?](https://indianexpress.com/article/explained/fedex-ceo-raj-subramaniam-9032745/)
+
+Raj Subramaniam, CEO and president of FedEx, attended a gala reception in San Francisco hosted by the US-China Business Council and the National Committee on US-China Relations. Subramaniam has been with FedEx since 1991 and has held various leadership roles within the company. He is responsible for providing strategic direction for all FedEx operating companies. Subramaniam serves on the board of directors for several organizations, including FedEx Corporation and the US-China Business Council. He has over 30 years of industry experience and is recognized for his international leadership and business insights.
+
 Sat, 18 Nov 2023 15:17:56 +0000
 ### [How Vladimir Putin has resorted to homophobia to consolidate his hold on Russia](https://indianexpress.com/article/explained/explained-global/vladimir-putin-resorted-homophobia-russia-9032542/)
 
