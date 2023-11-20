@@ -1,3 +1,45 @@
+2023-11-20T23:32:51+05:30
+### [Xi, Putin to Attend BRICS Virtual Meet on Israel-Hamas War, Modi to Skip](https://thewire.in/diplomacy/xi-putin-to-attend-brics-virtual-meet-on-israel-hamas-war-modi-to-skip)
+
+No Article text 
+External affairs minister S. Jaishankar will represent India at the meeting convened by South Africa, the current chair of the group.
+
+2023-11-20T22:14:42+05:30
+### [Two Kuki Men Killed in Fresh Violence in Manipur](https://thewire.in/security/two-kuki-men-killed-in-fresh-violence-in-manipur)
+
+No Article text 
+The two were reportedly village volunteers and were killed in an ambush.
+
+2023-11-20T21:50:19+05:30
+### [Uttarakhand Tunnel Collapse: 'First Breakthrough' Reported, But No Timeline For Rescue](https://thewire.in/rights/uttarakhand-tunnel-collapse-new-rescue-plans-to-be-put-to-action-say-reports)
+
+No Article text 
+Two parallel tunnels will now act as a route of escape, new reports have said.
+
+2023-11-20T21:33:18+05:30
+### [Andhra Pradesh HC Gives N. Chandrababu Naidu Bail in Skill Development Case](https://thewire.in/law/andhra-pradesh-hc-gives-n-chandrababu-naidu-bail-in-skill-development-case)
+
+No Article text 
+The judge said it cannot be definitively concluded that the misappropriated amounts were diverted to the Telugu Desam Party's bank accounts.
+
+2023-11-20T19:30:19+05:30
+### [SC Pulls Up Union Govt Over Failure to Clear Appointment of Two Sikh Lawyers as HC Judges](https://thewire.in/law/supreme-court-union-govt-failure-clear-appointment-two-sikh-lawyers)
+
+No Article text 
+Harmeet Singh Grewal and Deepinder Singh Nalwa were among five lawyers recommended by the collegium for appointment as judges of the Punjab and Haryana high court. The Union government notified the appointment of the three others but not Grewal and Nalwa.
+
+2023-11-20T18:59:40+05:30
+### [Hush in Narendra Modi Stadium Pleased Cummins but it Diminished India in the Eyes of the World](https://thewire.in/sport/india-cricket-world-cup-2023-final-pradeep-magazine)
+
+No Article text 
+The crowd was not there to watch a cricket match. They were there to celebrate India’s win, not to applaud the wonderful cricket the Australians were playing.
+
+2023-11-20T18:30:08+05:30
+### [Watch | Israel Has Not Come Anywhere Near Its Goal of Eradicating Hamas: Former FT Editor](https://thewire.in/video/watch-israel-hamas-lionel-barber-karan-thapar)
+
+No Article text 
+In an interview with Karan Thapar, Lionel Barber said Israel’s campaign in Gaza has “polarised the world” adding it has done “a lot of damage” to Israel’s international image, particularly among the younger population of the West.
+
 2023-11-20T18:03:29+05:30
 ### [Indian Journalist K.K. Shahina Among Winners of CPJ's International Press Freedom Awards](https://thewire.in/media/indian-journalist-k-k-shahina-among-winners-of-cpjs-international-press-freedom-awards)
 

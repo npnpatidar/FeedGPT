@@ -1,3 +1,13 @@
+Mon, 20 Nov 2023 21:19:49 +0530
+### [Impact-focused NGOs must keep up with India's rapid economic growth](https://www.livemint.com/opinion/online-views/impactfocused-ngos-must-keep-up-with-indias-rapid-economic-growth-11700492444996.html)
+
+India lacks a unified registry of non-profit organizations (NGOs), making it difficult to gather data on their size, funding patterns, and sectoral trends. However, a recent attempt to map the top 200 non-profits in India revealed that they have an annual budget range of ₹10 crore to ₹800 crore and secure about ₹8,000-9,000 crore in funding each year. The funding is split almost equally between domestic and foreign sources. The top fields these NGOs work in include children, community development, education, healthcare, and livelihood. About 18% of these NGOs have a global origin or affiliation, and they received 30% of the total funding. To support the growth of impact-focused NGOs, India needs a regulatory overhaul, nuanced policy measures, a focus on organization building, and increased transparency and trust.
+
+Mon, 20 Nov 2023 21:17:31 +0530
+### [Cricket: Money flows as freely as runs in the limited-overs format](https://www.livemint.com/opinion/online-views/cricket-money-flows-as-freely-as-runs-in-the-limited-overs-format-11700480861824.html)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！As GPT-3.5, I can provide a summary of the article you shared. The article discusses the logistics and success of the recently concluded Men's One-Day International (ODI) World Cup in India. It mentions the organization of the tournament by the International Cricket Council (ICC) and the hosting rights awarded to India for the 2023 edition. The article also highlights the prize money, broadcast and media rights, corporate sponsorships, and ticket fees associated with the tournament. It mentions the involvement of various brands as sponsors and the financial aspects related to the Board of Control for Cricket in India (BCCI). Additionally, it touches upon the tax implications and the economic impact of the World Cup on the Indian economy. Overall, the article emphasizes the popularity and financial aspects of limited overs cricket in India.
+
 Mon, 20 Nov 2023 17:01:23 +0530
 ### [Sam Altman's ouster from OpenAI has brought AI safety back into the spotlight](https://www.livemint.com/opinion/online-views/sam-altmans-ouster-from-openai-has-brought-ai-safety-back-into-the-spotlight-11700479436628.html)
 

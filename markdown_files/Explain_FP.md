@@ -1,3 +1,29 @@
+Mon, 20 Nov 2023 20:48:12 +0530
+### [Where is Hamas attack architect Yahya Sinwar hiding?](https://www.firstpost.com/explainers/where-is-hamas-attack-architect-yahya-sinwar-hiding-13409792.html)
+
+Yahya Sinwar is a leader of the Palestinian Hamas movement in the Gaza Strip. He is believed to be hiding in Gaza tunnels and is considered a top target by Israel. Sinwar has been involved in the recent attacks by Hamas on Israel. He has a background in Arabic studies and is the founder of the Hamas security service. Sinwar spent over 20 years in jail before being released in a prisoner exchange. He became the head of Hamas' political bureau in 2017. Sinwar is known for his role in founding the military wing of Hamas. Israel considers him to be the mastermind behind the recent attacks.
+
+Mon, 20 Nov 2023 20:43:58 +0530
+### [Sweet Pain: Why drinking red wine may give you a headache](https://www.firstpost.com/explainers/sweet-pain-why-drinking-red-wine-may-give-you-a-headache-13409722.html)
+
+A recent study conducted by scientists from the University of California suggests that the compound quercetin found in red wine may be the cause of headaches experienced by some individuals. Quercetin, a compound and flavanol found in fruits and vegetables, is produced by grapes in response to sunlight. When combined with alcohol and consumed, quercetin blocks the metabolism of acetaldehyde in the body, leading to its accumulation and causing inflammation, which results in headaches. The study also plans to test their theory through a clinical trial using wines with varying levels of quercetin. If successful, this research could potentially help consumers select wines with lower levels of quercetin to avoid headaches.
+
+Mon, 20 Nov 2023 18:29:23 +0530
+### [Who is new OpenAI CEO Emmett Shear? What happens to Mira Murati?](https://www.firstpost.com/explainers/who-is-new-openai-ceo-emmett-shear-what-happens-to-mira-murati-13409342.html)
+
+Emmett Shear, co-founder of Twitch, has been appointed as the new CEO of OpenAI, replacing Sam Altman. Shear denied that Altman was dismissed over safety concerns and stated that the board's reason for the change was different. Shear is known for his advocacy of safety in AI development and his awareness of the potential dangers of artificial intelligence. He plans to reform OpenAI's management team and hire an independent investigator to look into Altman's departure. Altman has since been hired by Microsoft to lead an AI research team. The sudden changes at OpenAI have led to concerns among investors and employees, fearing a talent exodus and potential impact on an upcoming share sale.
+
+Mon, 20 Nov 2023 18:11:20 +0530
+### [What are Israel’s mixed-gender units? What’s their role in Israel-Hamas war?](https://www.firstpost.com/explainers/what-are-israels-mixed-gender-units-whats-their-role-in-israel-hamas-war-2-13409272.html)
+
+Israel's ground offensive in Gaza continues, with reports of raids on hospitals and attacks on schools. The Israeli Defense Forces (IDF) have deployed a mixed-gender battalion called the "Shahar" Battalion, which includes both men and women combat soldiers. This is not the first time women have served in combat positions in the IDF, as they have been part of the forces since the War of Independence in 1948. The IDF currently has at least five mixed-gender battalions, including the Caracal Battalion, the Baradalas, and the Lions of Jordan Valley.
+
+The Shahar Battalion, led by Lt Col Yarden, is involved in search-and-rescue operations in Gaza City's Shati Camp. Around 40% of the troops in this unit are women, and they undertake various tasks alongside their male counterparts, such as breaching buildings and searching for Hamas weaponry. The Caracal Battalion has previously engaged in combat, killing around 100 Hamas terrorists during an attack in October. Other mixed-gender units, like Bardelas and Caracal, are deployed along the border with Egypt, while the Lions of Jordan Valley focus on protecting the northern Jordan Valley border.
+
+Despite their contributions and achievements, coed units in the IDF have faced criticism from some rabbis, former commanders, and conservative voices in the country. Concerns about physical strength differences and maintaining traditional notions of modesty have been raised. However, Israeli defense minister Yoav Gallant has defended these units, stating that female and male combat soldiers are equal in the IDF.
+
+Please note that this summary provides an overview of the article but may not capture all the details or nuances.
+
 Mon, 20 Nov 2023 17:17:35 +0530
 ### [In Graphics | Why you should add maize, bajra and other superfoods to your winter diet](https://www.firstpost.com/explainers/in-graphics-why-you-should-add-maize-bajra-and-other-superfoods-to-your-winter-diet-13407722.html)
 

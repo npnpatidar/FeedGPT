@@ -1,3 +1,25 @@
+Mon, 20 Nov 2023 20:42:44 +0530
+### [LG smart TV for reliable watching: Choose from top 8 picks for your home](https://www.livemint.com/technology/gadgets/lg-smart-tv-for-reliable-watching-choose-from-top-8-picks-for-your-home-11700484874649.html)
+
+Article found but Couldn't summarize 
+LG smart TVs come with multiple features while delivering clear viewing experience. Check out the top 8 options that will be the best choice for you and your home.
+
+Mon, 20 Nov 2023 20:23:54 +0530
+### [OpenAI's Ilya Sutskever ‘deeply regrets’ his role in ouster of Sam Altman](https://www.livemint.com/technology/tech-news/openais-ilya-sutskever-deeply-regrets-his-role-in-ouster-of-sam-altman-11700491850323.html)
+
+OpenAI's chief scientist, Ilya Sutskever, has expressed regret for his role in the board rebellion against the ousted CEO Sam Altman. Sutskever posted on social media that he never intended to harm OpenAI and would do everything to reunite the company. This statement came after Microsoft CEO Satya Nadella announced that Altman, along with OpenAI's former president Greg Brockman, would be joining Microsoft to lead a new advanced AI research team. Despite this, Microsoft clarified that they would continue to support OpenAI. Reports suggest that 505 OpenAI employees have threatened to join the new Microsoft team if the board doesn't resign. Among the signatories is Mira Murati, OpenAI's interim CEO.
+
+Mon, 20 Nov 2023 18:59:44 +0530
+### [Want grand viewing experience on 55-inch LED TV? Select from top 9 options](https://www.livemint.com/technology/gadgets/want-grand-viewing-experience-on-55-inch-led-tv-select-from-top-9-options-11700473864452.html)
+
+Article found but Couldn't summarize 
+A 55-inch LED TV can bring the theatre experience to your home and enhance your viewing experience. Check out the top models from multiple brands to elevate your content watching time.
+
+Mon, 20 Nov 2023 18:54:14 +0530
+### [Gurugram woman orders alcohol online, loses money to scammers: How to stay safe](https://www.livemint.com/technology/tech-news/gurugram-woman-orders-alcohol-online-loses-money-to-scammers-how-to-stay-safe-11700486416983.html)
+
+A woman in Gurugram lost over ₹30,000 when she attempted to purchase a bottle of whiskey online. She came across a phone number claiming to offer doorstep alcohol delivery, but it turned out to be a scam. After paying ₹3,000 for the bottle, she received a call demanding additional funds for delivery. Suspecting a scam, she canceled the order, but the scammers insisted she send ₹5 for a refund. Following the transaction, her bank account was debited ₹29,986. The police are investigating the case and suspect that the scam may have involved a qr code transmitted by the fraudsters. It is advised to protect personal and financial information, avoid disclosing sensitive details, use strong passwords, enable two-factor authentication, and be cautious of phishing attempts to enhance online security.
+
 Mon, 20 Nov 2023 17:57:44 +0530
 ### [THIS is why Nothing Chats app is withdrawn from PlayStore: All you need to know](https://www.livemint.com/technology/tech-news/this-is-why-nothing-chats-app-is-withdrawn-from-playstore-all-you-need-to-know-11700482995506.html)
 

@@ -1,3 +1,8 @@
+Mon, 20 Nov 2023 13:57:04 +0000
+### [The Tech Billionaire Bro is the new Kardashian](https://indianexpress.com/article/opinion/editorials/the-tech-billionaire-bro-is-the-new-kardashian-9035092/)
+
+The article discusses how the behavior of tech billionaires, such as Elon Musk and Mark Zuckerberg, resembles that of reality TV stars. It mentions recent events, such as Open AI CEO Sam Altman losing his job due to artificial intelligence and potential regulatory issues, and Elon Musk threatening advertisers with a lawsuit. The article suggests that these billionaires may be acting out in order to distract from criticism and calls for regulation.The article discusses how tech billionaires, such as Elon Musk and Mark Zuckerberg, are increasingly acting like reality TV stars, engaging in dramatic feuds and attention-grabbing antics. The author suggests that these actions may be a way for the billionaires to distract from criticism and calls for regulation. The article also mentions recent events, such as Open AI CEO Sam Altman losing his job and Elon Musk threatening advertisers with a lawsuit, as examples of this trend.
+
 Mon, 20 Nov 2023 11:54:33 +0000
 ### [India-China War: Indian bravehearts had to pay the price for Nehru’s weak leadership](https://indianexpress.com/article/opinion/columns/indo-china-war-congress-nehru-weak-leadership-9034845/)
 
