@@ -1,3 +1,23 @@
+Mon, 20 Nov 2023 11:54:33 +0000
+### [India-China War: Indian bravehearts had to pay the price for Nehru’s weak leadership](https://indianexpress.com/article/opinion/columns/indo-china-war-congress-nehru-weak-leadership-9034845/)
+
+Article found but Couldn't summarize
+
+Mon, 20 Nov 2023 09:53:47 +0000
+### [Why IIT engineering students need social science training](https://indianexpress.com/article/opinion/columns/why-iit-students-need-social-science-training-9034661/)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！This article discusses the importance of integrating humanities and social sciences (HSS) with STEM subjects (Science, Technology, Engineering, and Mathematics) in education. The author, an assistant professor at IIT-Palakkad, challenges the notion that HSS and STEM are separate disciplines and emphasizes the need for interdisciplinary conversations. They argue that disciplines like psychology should collaborate with sociologists, philosophers, and anthropologists to understand the complex nature of the mind. The article also highlights the relevance of HSS courses for STEM students, as it encourages them to consider the social and ethical implications of their work. It emphasizes the importance of valuing empathy, cultural context, and social justice in technological advancements. The author raises questions about the overemphasis on neurochemical imbalance in mental health discourse, urging for a more comprehensive understanding that includes the individual's lived experiences. The article concludes by asserting that technology, when used appropriately and ethically, can be a valuable asset to society. The integration of HSS and STEM subjects can foster logical thinking and empathy, creating technologists who are responsive to human and non-human suffering and working towards a better world for all.
+
+Mon, 20 Nov 2023 08:51:45 +0000
+### [How Chhath Puja challenges Hindutva and Brahminical dominance](https://indianexpress.com/article/opinion/how-chhath-puja-challenges-hindutva-and-brahminical-dominance-9034535/)
+
+Article found but Couldn't summarize
+
+Mon, 20 Nov 2023 07:24:03 +0000
+### [How World Cup ODI 50-over format came about — and its future](https://indianexpress.com/article/opinion/columns/how-world-cup-odi-50-over-format-came-about-and-its-future-9034393/)
+
+The article discusses the history and evolution of cricket World Cups. It highlights how Australia won their first World Cup in 1987, and then went on to win again in 1999, 2003, 2007, and 2015. India has also had success, winning the World Cup in 1983 and 2011. The article mentions the introduction of one-day cricket, the formation of the World Cup in 1975, and the shift to a 50-overs format in 1987. It also touches on the rise of T20 cricket and its potential impact on the 50-over format. The article concludes by stating that Australia currently holds a dominant position in cricket and challenges other teams to catch up.
+
 Mon, 20 Nov 2023 02:20:18 +0000
 ### [Why India should invest in mining](https://indianexpress.com/article/opinion/columns/india-mining-investment-9033998/)
 

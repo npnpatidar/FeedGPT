@@ -1,3 +1,36 @@
+Mon, 20 Nov 2023 17:57:44 +0530
+### [THIS is why Nothing Chats app is withdrawn from PlayStore: All you need to know](https://www.livemint.com/technology/tech-news/this-is-why-nothing-chats-app-is-withdrawn-from-playstore-all-you-need-to-know-11700482995506.html)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！The messaging app called Nothing Chats, developed by the company Nothing, experienced a setback when its beta version was quickly removed from the Play Store a day after its release. The official launch of the app has been postponed due to the need for further evaluation and improvement. The app aimed to address texting challenges between Android and iPhones by supporting both RCS and iMessage. However, critics raised concerns about potential security risks associated with these solutions.
+
+The decision to take down the app came after users shared a blog post from texts.com, which revealed that messages sent through the app lacked end-to-end encryption, making them vulnerable to compromise. Texts.com's reverse engineering team discovered that users were required to transmit their Apple ID credentials to the company's servers, raising multiple security concerns. Despite claims of ISO27001 certification, the investigation found misleading information regarding end-to-end encryption.
+
+While messages sent to the servers were encrypted, the transmission of JSON Web Tokens (JWT) was done without encryption, exposing them to potential interception. The intercepted JWTs allowed access to the Firebase real-time database and user information with just 23 lines of code. Sunbird, the foundation of the app, explained that HTTP was used solely for the initial request from the app to the back-end to notify it of the iMessage connection.
+
+Overall, the app faced criticism and concerns over security vulnerabilities, leading to its removal from the Play Store and the postponement of its official launch.
+
+Mon, 20 Nov 2023 17:27:40 +0530
+### [Want Samsung LED TV for your home? Check out top 8 options suited for you](https://www.livemint.com/technology/gadgets/want-samsung-led-tv-for-your-home-check-out-top-8-options-suited-for-you-11700459138830.html)
+
+Article found but Couldn't summarize 
+Samsung LED TVs are reliable and come with a sign of trust and reliability. Check out the top options to choose from a wide range of models and bring home the one that suits your content viewing style the best.
+
+Mon, 20 Nov 2023 15:39:26 +0530
+### [Elon Musk mocks Satya Nadella's message on Microsoft - OpenAI partnership, says ‘Now they will have to…’](https://www.livemint.com/technology/tech-news/elon-musk-mocks-satya-nadellas-message-on-microsoft-openai-partnership-says-now-they-will-have-to-11700472011619.html)
+
+Elon Musk, CEO of Tesla, mocked Microsoft CEO Satya Nadella's announcement reaffirming their partnership with OpenAI. Nadella stated that Microsoft was committed to the partnership and shared the news that former OpenAI CEO Sam Altman and co-founder Greg Brockman would be joining Microsoft to lead a new AI research team. In response, Musk sarcastically commented that Microsoft would now have to use Teams. Musk's tweet seemingly refers to OpenAI personnel who fired Altman at a Google Meet despite receiving funding from Microsoft. Microsoft has invested $13 billion in OpenAI and owns about 49% of the company. Altman was informed of his termination by the OpenAI board members, led by co-founder Ilya Sutskever, during a Google Meet.
+
+Mon, 20 Nov 2023 15:04:03 +0530
+### [OnePlus 12 confirmed to debut in China on Dec 4: Here's what to expect](https://www.livemint.com/technology/oneplus-12-confirmed-to-debut-in-china-on-dec-4-heres-what-to-expect-11700472548129.html)
+
+The OnePlus 12 5G smartphone is set to release in China in December and in India in February. The teaser poster hints at the launch with the CEO featured on a clock. The official launch date for the OnePlus 12 is confirmed for December 4, coinciding with the company's 10th-anniversary celebration. The smartphone will be equipped with Qualcomm's Snapdragon 8 Gen 3 chipset and Boe's LPTO OLED display. It is rumored to have a 64-megapixel periscope telephoto lens and a triple rear camera setup. Leaked camera samples suggest advancements in capturing images in low-light conditions.
+
+Mon, 20 Nov 2023 12:59:26 +0530
+### [Samsung Galaxy Unpacked 2024: S24 Series, Galaxy Ring, everything expected to launch](https://www.livemint.com/technology/apps/samsung-galaxy-unpacked-2024-s24-series-galaxy-ring-everything-expected-to-launch-11700464953870.html)
+
+Article found but Couldn't summarize 
+Samsung is expected to unveil the Galaxy S24 series, Galaxy Ring, and AI initiatives at the Galaxy Unpacked 2024 event in January.
+
 Mon, 20 Nov 2023 10:49:27 +0530
 ### [Garena Free Fire Max redeem codes for Nov 20, 2023: Grab free exciting rewards](https://www.livemint.com/technology/tech-news/garena-free-fire-max-redeem-codes-for-nov-20-2023-grab-free-exciting-rewards-11700457293823.html)
 

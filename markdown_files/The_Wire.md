@@ -1,3 +1,63 @@
+2023-11-20T18:03:29+05:30
+### [Indian Journalist K.K. Shahina Among Winners of CPJ's International Press Freedom Awards](https://thewire.in/media/indian-journalist-k-k-shahina-among-winners-of-cpjs-international-press-freedom-awards)
+
+No Article text 
+Shahina was one of the first Indian journalists to be charged under the draconian Unlawful Activities (Prevention) Act for her work in Tehelka magazine.
+
+2023-11-20T17:30:46+05:30
+### [Gaza: The Urgency of War Crimes Prosecutions](https://thewire.in/world/gaza-urgency-war-crime-prosecutions)
+
+No Article text 
+Israel writes its own rules to suit its purposes, but global civil society needs to sustain the pressure till war crimes investigations lead to prosecutions for the mass murder in Gaza.
+
+2023-11-20T17:29:09+05:30
+### [Bihar Caste Survey: The Who’s Who in the Data | Yadav](https://thewire.in/caste/bihar-caste-survey-the-whos-who-in-the-data-yadav)
+
+No Article text 
+The politics of Bihar and Uttar Pradesh was and still is incomplete without the presence of the Yadavs.
+
+2023-11-20T16:59:23+05:30
+### [Over-Ambition and Half-Baked Ideas Plague the Military’s Plan for Integrated Theatre Commands](https://thewire.in/security/over-ambition-half-baked-ideas-military-integrated-theatre-commands)
+
+No Article text 
+There are at least four operational flaws with the ITC overhaul. But they do not seem to bother the military leadership.
+
+2023-11-20T15:29:25+05:30
+### [Full Text: Autocrats Have Learnt To Push Their Agenda While Retaining Paraphernalia of Democracy](https://thewire.in/politics/full-text-karan-thapar-tarunabh-khaitan-bjp-narendra-modi-hindu-rashtra)
+
+No Article text 
+Tarunabh Khaitan presents an analytical framework for studying when a democracy is in peril.
+
+2023-11-20T15:26:32+05:30
+### [The Price of Living in Amrit Kaal](https://thewire.in/rights/the-price-of-living-in-amrit-kaal)
+
+No Article text 
+Clearly, the concern that democratic rights are shrinking in India is not unfounded.
+
+2023-11-20T15:01:05+05:30
+### [How Neo-Nationalism Has Fuelled the Transformation of Old Welfare-State to New Capital-State](https://thewire.in/political-economy/how-neo-nationalism-has-fuelled-the-transformation-of-old-welfare-state-to-new-capital-state)
+
+No Article text 
+Oleksandr Svitych's new book provides an empirical answer to this question.
+
+2023-11-20T14:20:20+05:30
+### [The Indian Cricket Team Was Burdened By the Weight of a Nation Which Always Wants to Be a Winner](https://thewire.in/sport/india-cricket-team-winner)
+
+No Article text 
+The crowds at the Narendra Modi stadium showed little grace in applauding Australia and other teams playing India.
+
+2023-11-20T12:48:44+05:30
+### [Israel Alleges Houthi Rebel Hand Behind Hijacking of India-Bound Cargo Ship in Red Sea](https://thewire.in/world/israel-alleges-houthi-rebel-hand-behind-hijacking-of-india-bound-cargo-ship-in-red-sea)
+
+No Article text 
+There was no immediate comment from the Houthis, an Iran-backed rebel movement in Yemen that had earlier threatened to target Israeli-linked vessels in the Red Sea.
+
+2023-11-20T12:48:21+05:30
+### [In the End, It’s Always XI Versus XI](https://thewire.in/sport/india-australia-cricket-world-cup-final-gideon-haigh)
+
+No Article text 
+It’s where Orwell’s timeworn ‘war minus the shooting’ metaphor falls short.
+
 2023-11-20T11:47:23+05:30
 ### [Adani-Hindenburg: Plea in SC Seeks Contempt Action Against SEBI for Delay in Completing Probe](https://thewire.in/law/adani-hindenburg-plea-supreme-court-contempt-sebi-delay-probe)
 

@@ -1,3 +1,27 @@
+Mon, 20 Nov 2023 17:55:04 +0530
+### [Giant leap forward in patent applications: India keeps promises yet has miles to go](https://www.firstpost.com/opinion/giant-leap-forward-in-patent-applications-india-keeps-promises-yet-has-miles-to-go-13408892.html)
+
+Article found but Couldn't summarize 
+Giant leap forward in patent applications: India keeps promises yet has miles to go
+
+Mon, 20 Nov 2023 15:50:00 +0530
+### [As Osama becomes the new Left-‘liberal’ hero, time to revisit notions of Islamic land and authoritarian ethics](https://www.firstpost.com/opinion/as-osama-becomes-the-new-left-liberal-hero-time-to-revisit-notions-of-islamic-land-and-authoritarian-ethics-13407942.html)
+
+Article found but Couldn't summarize 
+As Osama becomes the new Left-‘liberal’ hero, time to revisit notions of Islamic land and authoritarian ethics
+
+Mon, 20 Nov 2023 14:40:43 +0530
+### [From Filoli to future: Will the Dragon and Eagle fly together after Biden and Xi engage in unprecedented diplomacy?](https://www.firstpost.com/opinion/from-filoli-to-future-will-the-dragon-and-eagle-fly-together-after-biden-and-xi-engage-in-unprecedented-diplomacy-13407292.html)
+
+Article found but Couldn't summarize 
+From Filoli to future: Will the Dragon and Eagle fly together after Biden and Xi engage in unprecedented diplomacy?
+
+Mon, 20 Nov 2023 13:03:27 +0530
+### [Weather report: North India to welcome 'Gulabi Thand', rains to rejuvenate in South](https://www.firstpost.com/opinion/weather-report-north-india-to-welcome-gulabi-thand-rains-to-rejuvenate-in-south-13406732.html)
+
+Article found but Couldn't summarize 
+Weather report: North India to welcome 'Gulabi Thand', rains to rejuvenate in South
+
 Mon, 20 Nov 2023 10:04:58 +0530
 ### [Sport allows for gut, glory and triumph but no triumphalism that takes victory for granted](https://www.firstpost.com/opinion/sport-allows-for-gut-glory-and-triumph-but-no-triumphalism-that-takes-victory-for-granted-13405722.html)
 

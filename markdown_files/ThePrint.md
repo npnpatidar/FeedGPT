@@ -1,3 +1,104 @@
+Mon, 20 Nov 2023 12:32:28 +0000
+### [Sharjah Ports, Customs and Free Zones Authority, Gulftainer extend concession agreements](https://theprint.in/world/sharjah-ports-customs-and-free-zones-authority-gulftainer-extend-concession-agreements/1852183/)
+
+Gulftainer, a ports and terminals operator and logistics provider, has extended its concession agreements with the Sharjah Ports, Customs, and Free Zones Authority for an additional 35 years. This allows Gulftainer to manage and develop the Sharjah Container Terminal and Khorfakkan Container Terminal. The extended agreements strengthen the partnership between Gulftainer and Sharjah Ports Authority and highlight the importance of public-private partnerships in revolutionizing port infrastructure. The Sharjah ports are key trade gateways in the UAE, handling various types of cargo. The agreements were signed by Sheikh Khalid bin Abdullah Al Qasimi, Chairman for Sharjah Ports, Customs, and Free Zones Authority, and Peter Richards, Group CEO of Gulftainer.
+
+Mon, 20 Nov 2023 12:32:16 +0000
+### [Knowledge Summit 2023 to kick off tomorrow at Dubai World Trade Center](https://theprint.in/world/knowledge-summit-2023-to-kick-off-tomorrow-at-dubai-world-trade-center/1852181/)
+
+The Knowledge Summit 2023, organized by the Mohammed bin Rashid Al Maktoum Knowledge Foundation (MBRF) and the United Nations Development Programme (UNDP), will begin tomorrow under the patronage of Sheikh Mohammed bin Rashid Al Maktoum. The summit, taking place in Dubai from November 21st to 22nd, with virtual sessions on November 23rd, will focus on the theme of "Knowledge Cities and the Fifth Industrial Revolution." It aims to bring together thought leaders, policymakers, experts, and entrepreneurs to discuss and showcase best practices addressing global challenges. The summit will cover various topics, including the 5th industrial revolution, sustainable technologies, digital health, and strategies for achieving zero waste. The event will also release the Global Knowledge Index 2023 (GKI) with a focus on Arab countries.
+
+Mon, 20 Nov 2023 12:32:01 +0000
+### [Salman Khan, Katrina Kaif unveil romantic track  ‘Ruaan’ from ‘Tiger 3’](https://theprint.in/feature/salman-khan-katrina-kaif-unveil-romantic-track-ruaan-from-tiger-3/1852179/)
+
+The makers of the film 'Tiger 3', starring Salman Khan and Katrina Kaif, have released a new romantic song titled 'Ruaan'. The song is sung by Arijit Singh and composed by Pritam, with lyrics by Irshad Kamil. The film, directed by Maneesh Sharma, has earned 376 crore gross worldwide in 8 days. 'Tiger 3' is the third installment of the Tiger franchise and is part of the YRF spy universe. The film also features cameo appearances by Shah Rukh Khan and a post-credit scene with Hrithik Roshan. It follows the adventures of agents Tiger and Zoya as they undertake a new mission.
+
+Mon, 20 Nov 2023 12:30:40 +0000
+### [Don’t make people feel their blood is cheap: Omar on bail to Army captain in fake encounter case](https://theprint.in/india/dont-make-people-feel-their-blood-is-cheap-omar-on-bail-to-army-captain-in-fake-encounter-case/1852177/)
+
+Omar Abdullah, a leader of the National Conference, has criticized the decision to grant bail to an army captain convicted in the 2020 Amshipora fake encounter case. Abdullah expressed concern over the granting of bail to a person found guilty of murder and stated that it gives the impression that the blood of the people of Kashmir is cheap. The armed forces tribunal in Delhi has suspended the life sentence of Captain Bhoopendra Singh and granted conditional bail to him. Abdullah also addressed the delay in holding elections in Jammu and Kashmir, expressing hope that the Supreme Court's verdict on Article 370 petitions will also address the issue of elections. He also raised concerns about the electricity supply situation in Kashmir, claiming that power cuts were unprecedented.
+
+Mon, 20 Nov 2023 12:30:38 +0000
+### [Olympics-Soaring hotel prices, crackdown on illegal renting to hit Paris 2024 experience](https://theprint.in/sport/olympics-soaring-hotel-prices-crackdown-on-illegal-renting-to-hit-paris-2024-experience/1852176/)
+
+Paris is facing major accommodation problems ahead of the 2024 Olympics, with hotel prices set to rise by 314%. The report by the Paris tourism office criticized hotels for not opening their booking platforms for the games, with only 34% currently available for booking. The report also highlighted that hotel prices in July 2023 were 169 euros, expected to rise to 699 euros in July 2024. As a result, visitors may opt for cheaper accommodation options outside of Paris and commute. Concerns have also been raised about the increasing popularity of Airbnb rentals, with the French parliament expected to pass a law cracking down on illegal rentals. Owners who illegally rent their homes currently face fines totaling 6.5 million euros between 2021 and 2023.
+
+Mon, 20 Nov 2023 12:30:26 +0000
+### [Health ministry releases draft National Pharmacy Commission Bill, seeks comments](https://theprint.in/india/health-ministry-releases-draft-national-pharmacy-commission-bill-seeks-comments/1852175/)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！The Indian government has proposed a draft bill that would establish a national pharmacy register containing information about all pharmacy professionals. The bill aims to replace the existing Pharmacy Council of India with a National Commission and promote equitable access to high-quality pharmaceutical education and healthcare services. It also calls for periodic assessment of pharmacy institutions, enforcement of ethical standards, and the availability of a transparent national pharmacy register. Additionally, the draft bill encourages pharmacy professionals to engage in research and proposes the establishment of a grievance redress mechanism.
+
+Mon, 20 Nov 2023 12:30:19 +0000
+### [Germany arrests suspected antisemite who threatened killings -police](https://theprint.in/world/germany-arrests-suspected-antisemite-who-threatened-killings-police/1852174/)
+
+German police have arrested an 18-year-old man in the state of Hesse on suspicion of planning violence endangering the state. The suspect had made online threats to kill people and posted right-wing extremist and antisemitic content. During a search of his apartment, authorities confiscated computers, weapons, and ammunition. Germany has increased surveillance to prevent antisemitic violence following the attack on Israel by militants from Gaza's Hamas group. The country has seen protests in support of Palestine, some of which included antisemitic slogans. Germany, with a large Jewish and Palestinian population, emphasizes its responsibility to protect Jewish lives due to the Nazi Holocaust.
+
+Mon, 20 Nov 2023 12:30:14 +0000
+### [US increasing staff, opening new consulates to reduce visa delays: Ambassador Garcetti](https://theprint.in/india/us-increasing-staff-opening-new-consulates-to-reduce-visa-delays-ambassador-garcetti/1852172/)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！The US is increasing staff and opening new consulates, including in Ahmedabad, to reduce waiting times for visa issuance from India, according to US Ambassador Eric Garcetti. One consulate has recently been opened in Hyderabad, with plans in progress for new consulates in Bengaluru and Ahmedabad. The number of US visas being issued in India has increased by one-third in recent weeks, and the embassy is expected to issue 10-15% more visas than usual this year. Garcetti attributed the delay in visa issuance to the high number of applicants, stating that Brazil and Mexico also faced similar challenges.
+
+Mon, 20 Nov 2023 12:30:08 +0000
+### [Top Ukrainian cyber defence officials sacked amid corruption probe](https://theprint.in/world/top-ukrainian-cyber-defence-officials-sacked-amid-corruption-probe/1852171/)
+
+Ukraine has dismissed two high-ranking cyber defence officials, Yurii Shchyhol and Viktor Zhora, amid an investigation into alleged embezzlement. The officials were implicated in a six-person plot to embezzle $1.72 million in 2021. These firings come as Ukraine aims to combat corruption in order to pursue EU membership. The officials have not been identified by name, and the State Service of Special Communications and Information Protection of Ukraine (SSSCIP) has not yet commented on the matter.Ukraine has dismissed two high-ranking officials in its cyber defense sector amid an investigation into alleged embezzlement. Yurii Shchyhol, head of the State Service of Special Communications and Information Protection of Ukraine (SSSCIP), and his deputy, Viktor Zhora, were fired by the government. The firings coincide with anti-corruption prosecutors investigating officials in cyber defense positions for their alleged involvement in embezzling $1.72 million in 2021. The move is part of Ukraine's efforts to combat corruption as it seeks membership in the European Union. The SSSCIP did not provide an immediate response to requests for comment.
+
+Mon, 20 Nov 2023 12:30:03 +0000
+### [Tunnel collapse: Rescuers insert 6-inch-wide pipe through rubble to send more food to trapped workers](https://theprint.in/india/tunnel-collapse-rescuers-insert-6-inch-wide-pipe-through-rubble-to-send-more-food-to-trapped-workers/1852170/)
+
+Article found but Couldn't summarize 
+Uttarkashi, Nov 20 (PTI) Rescuers on Monday pushed through a six-inch-wide pipeline through the rubble of a collapsed tunnel in Uttarakhand, a breakthrough that will help them supply larger quantities of food and other essentials to 41 workers trapped for eight days. Earlier, a four-inch tube was being used to supply food like dry fruit [&#8230;]
+
+Mon, 20 Nov 2023 12:22:23 +0000
+### [Modi Stadium’s silence in World Cup final was fit for Vipassana. It wasn’t sporting culture](https://theprint.in/opinion/modi-stadiums-silence-in-world-cup-final-was-fit-for-vipassana-it-wasnt-sporting-culture/1852024/)
+
+Hmm, I'm sorry, but I am an AI assistant specifically designed to provide support for Chatbase. I am not able to summarize articles or provide information about cricket matches. If you have any questions or need assistance regarding Chatbase, I'll be happy to help!Hmm, I'm sorry, but I am an AI assistant specifically designed to provide support for Chatbase. I am not able to summarize articles or provide information about cricket matches. If you have any questions or need assistance regarding Chatbase, I'll be happy to help!
+
+Mon, 20 Nov 2023 12:17:25 +0000
+### [Israel: 1,850 terrorists captured in Judea and Samaria since war began](https://theprint.in/world/israel-1850-terrorists-captured-in-judea-and-samaria-since-war-began/1852159/)
+
+Approximately 1,850 wanted terrorists have been arrested in Judea and Samaria since the start of the war in Gaza, with around 1,100 of them associated with Hamas. The IDF recently captured 16 more wanted terrorists, including a senior Hamas member named Tarek Abdullah Ahmed Salem. Multiple operations were carried out, with terrorists firing at Israeli forces and throwing stun grenades. Gunshot damage was found in several Israeli vehicles, but there were no casualties. This report is generated from ANI news service, and ThePrint is not responsible for its content.
+
+Mon, 20 Nov 2023 12:17:14 +0000
+### [Pro-Palestine fan who breached security at Ahmedabad to meet Kohli produced before Court](https://theprint.in/world/pro-palestine-fan-who-breached-security-at-ahmedabad-to-meet-kohli-produced-before-court/1852157/)
+
+An Australian supporter, wearing a t-shirt with a "free Palestine" slogan, breached security and entered the field during the India-Australia final ODI World Cup match in Ahmedabad. He hugged Indian cricketer Virat Kohli and stated his support for Palestine. The man has been detained by Gujarat state police and produced before the Gandhinagar sessions court. In the match, Australia bowled first and India posted a total of 240 runs. Australia chased the target successfully, with Travis Head scoring a century, leading them to a six-wicket win.
+
+Mon, 20 Nov 2023 12:17:02 +0000
+### [ACKO Partners with R Madhavan as their ‘Voice of the Customer’ To Simplify Complex Insurance Questions & Help Customers Make Informed Decisions](https://theprint.in/ani-press-releases/acko-partners-with-r-madhavan-as-their-voice-of-the-customer-to-simplify-complex-insurance-questions-help-customers-make-informed-decisions/1852155/)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！Insurtech company Acko has announced a partnership with actor R Madhavan to enhance trust and transparency in the insurance sector in India. Madhavan will serve as the 'voice of the customer' to simplify the complexities of insurance and empower consumers to make informed decisions. The collaboration aims to provide valuable content to educate and reinforce trust, making insurance a space of assurance and confidence. Acko, founded in 2016, has revolutionized the direct-to-customer auto insurance industry by eliminating paperwork and offering a seamless customer experience.
+
+Mon, 20 Nov 2023 12:16:25 +0000
+### [Pak authorities arrest seven terrorists; foil attack in Punjab province: Police](https://theprint.in/world/pak-authorities-arrest-seven-terrorists-foil-attack-in-punjab-province-police/1852154/)
+
+Law enforcement authorities in Pakistan have foiled a major terror attack after arresting seven terrorists, including a key commander of the Tehreek-i-Taliban Pakistan (TTP). The counter terrorism department (CTD) of the provincial police received intelligence about the attack plan in Punjab province and collaborated with an intelligence agency to thwart the plot. The terrorists were apprehended in various districts of Punjab, and explosives, grenades, bombs, detonators, safety fuse wire, and banned literature were seized from them. The terrorists were reportedly planning to target several installations in the province.
+
+Mon, 20 Nov 2023 12:16:12 +0000
+### [AAP lodges complaint with EC against BJP over social media content against Kejriwal](https://theprint.in/india/aap-lodges-complaint-with-ec-against-bjp-over-social-media-content-against-kejriwal/1852153/)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！The Aam Aadmi Party (AAP) has lodged a complaint with the Election Commission, accusing the Bharatiya Janata Party (BJP) of using "absurd" content on social media to tarnish the image of AAP convener and Delhi Chief Minister Arvind Kejriwal. The AAP delegation requested the Election Commission to take action against the BJP for character assassination. The Election Commission had previously issued a show-cause notice to Kejriwal for alleged disparaging remarks made by AAP against Prime Minister Narendra Modi on social media. After filing the complaint, AAP leader Raghav Chadha emphasized the importance of maintaining dignity in politics and public life, and advised the BJP to fight Kejriwal through elections rather than resorting to character assassination.
+
+Mon, 20 Nov 2023 12:16:02 +0000
+### [AJKPC hits out at poll panel over delay in local body elections in J-K](https://theprint.in/india/ajkpc-hits-out-at-poll-panel-over-delay-in-local-body-elections-in-j-k/1852151/)
+
+The All Jammu and Kashmir Panchayat Conference (AJKPC) has accused the state election commission of delaying local body polls and functioning as a subordinate department of the government. They also oppose transferring the budget planning process for the next financial year from the panchayats and block development councils to the district development councils. The AJKPC criticizes the commission for not addressing the upcoming end of the existing bodies' terms. They condemn any move by the government that centralizes power instead of decentralizing it.
+
+Mon, 20 Nov 2023 12:16:01 +0000
+### [Xiaomi Q3 net income jumps on cost savings, revenue rises](https://theprint.in/tech/xiaomi-q3-net-income-jumps-on-cost-savings-revenue-rises/1852150/)
+
+Chinese smartphone maker Xiaomi Corp reported a jump in third-quarter net income that surpassed expectations. The company's sales for the period reached 70.9 billion yuan ($9.83 billion), outperforming estimates, while net income increased by 183% to 6 billion yuan. Xiaomi shipped 9.1 million devices in China during the quarter, which was relatively unchanged from the previous year but still better than industry peers. The company's focus on its new electric vehicle division was also highlighted, with plans to begin mass production in the first half of 2024.
+
+Mon, 20 Nov 2023 12:15:50 +0000
+### [Court acquits man of cruelty, dowry death charges](https://theprint.in/india/court-acquits-man-of-cruelty-dowry-death-charges/1852148/)
+
+A man in New Delhi has been acquitted of charges of cruelty and dowry death after the court found that the prosecution had failed to establish that he had subjected his deceased wife to any harassment or cruelty. The court noted inconsistencies in the testimonies of the prosecution witnesses and stated that the prosecution had also failed to prove that any harassment or cruelty had taken place during the marriage. The court ultimately concluded that the prosecution had "miserably failed" to prove its case and ordered the man's acquittal.
+
+Mon, 20 Nov 2023 12:15:40 +0000
+### [Explainer-Argentina presidential election: Key takeaways from Milei’s win](https://theprint.in/world/explainer-argentina-presidential-election-key-takeaways-from-mileis-win/1852147/)
+
+Javier Milei, a radical libertarian, has been elected as the president of Argentina, receiving a wide margin of votes in a run-off election. This outcome reflects a desire for change and a rejection of the peronist government, which has overseen soaring inflation and increasing poverty. Despite Milei's significant voter support, he will face challenges due to his limited presence in regional governments and congress, and he may have to moderate his plans for economic reforms such as dollarization. Milei's election comes at a time of economic crisis for Argentina, and his proposed reforms could help address the country's fiscal issues. However, he will need the support of more moderate conservatives to implement his plans. Milei, a 53-year-old economist, has been compared to Donald Trump and Jair Bolsonaro due to his abrasive style and desire to slash government spending.
+
 Mon, 20 Nov 2023 06:32:02 +0000
 ### [Trump and Biden “too old” for presidency: Ron DeSantis](https://theprint.in/world/trump-and-biden-too-old-for-presidency-ron-desantis/1851589/)
 
@@ -304,8 +405,7 @@ Australia emerged as the champions of the World Cup, defeating India by six wick
 Sun, 19 Nov 2023 17:16:02 +0000
 ### [PM found time to attend World Cup match in Ahmedabad, yet to visit violence-hit Manipur: Cong](https://theprint.in/india/pm-found-time-to-attend-world-cup-match-in-ahmedabad-yet-to-visit-violence-hit-manipur-cong/1851247/)
 
-Article found but Couldn't summarize 
-New Delhi, Nov 19 (PTI) The Congress on Sunday took a swipe at Prime Minister Narendra Modi, saying he found time to attend the Cricket World Cup final match at Ahmedabad, but is yet to visit violence-hit Manipur. In a post on X, Congress general secretary Jairam Ramesh said the priorities of the prime minister [&#8230;]
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！The Congress party criticized Prime Minister Narendra Modi for attending a cricket match but not visiting violence-stricken Manipur. Congress General Secretary Jairam Ramesh said that the Prime Minister's priorities are clear, as he found time to be at a stadium named after himself but hasn't visited Manipur, which is still suffering from tension. The Congress has been questioning the Prime Minister and the BJP over the ongoing violence in Manipur.The Congress party criticized Prime Minister Narendra Modi for not visiting violence-hit Manipur, while making time to attend the cricket World Cup final match in Ahmedabad. Congress general secretary Jairam Ramesh accused the prime minister of prioritizing self-promotion and attacking the Congress party over addressing the tense situation in Manipur. The Congress has been consistently criticizing Modi and the Bharatiya Janata Party (BJP) for their handling of the violent situation in the northeastern state.
 
 Sun, 19 Nov 2023 17:15:51 +0000
 ### [Former Pak president Zardari says his party will win next elections](https://theprint.in/world/former-pak-president-zardari-says-his-party-will-win-next-elections/1851246/)

@@ -1,3 +1,9 @@
+Mon, 20 Nov 2023 12:00:00 +0530
+### [What community forest resources say about India’s forest plans | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/community-forest-resources-conservation-moefcc-explained/article67551233.ece)
+
+Article found but Couldn't summarize 
+FRA is the world’s first such law, but its success depends on the government getting other laws to play along
+
 Mon, 20 Nov 2023 10:30:00 +0530
 ### [‘Strong evidence’ unusual nitrogen-9 nucleus exists, scientists say](https://www.thehindu.com/sci-tech/science/nitrogen-9-nucleus-stability-challenge-nuclear-structure/article67550743.ece)
 

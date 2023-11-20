@@ -1,3 +1,19 @@
+Mon, 20 Nov 2023 17:01:23 +0530
+### [Sam Altman's ouster from OpenAI has brought AI safety back into the spotlight](https://www.livemint.com/opinion/online-views/sam-altmans-ouster-from-openai-has-brought-ai-safety-back-into-the-spotlight-11700479436628.html)
+
+This article discusses the ongoing debate surrounding the safety of artificial intelligence (AI) and whether it poses an existential risk to humanity. The author argues that AI is no more dangerous than other existing risks, such as super-volcanoes or nuclear war. However, some researchers believe that AI could surpass human intelligence and not share our goals, leading to potential extinction. Others propose a temporary pause in AI progress to better understand the risks involved. The author suggests that technologists can align AI systems with human interests and views AI as a way to improve science and mitigate existing existential risks. The article concludes that it is challenging to estimate the exact risk of AI, but it is crucial to work towards making AI safer.
+
+Mon, 20 Nov 2023 16:53:11 +0530
+### [The cryptocurrency industry should use innovation to regain lost trust](https://www.livemint.com/opinion/online-views/the-cryptocurrency-industry-should-use-innovation-to-regain-lost-trust-11700478897402.html)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！The article discusses the recent downfall of Sam Bankman-Fried, the founder of FTX cryptocurrency exchange, who was convicted of fraud and money laundering. It highlights the challenges and lack of regulation in the cryptocurrency market, with incidents of criminal activity and lawsuits against major exchanges like Binance. The article also explores the paradox of trust in cryptocurrencies, as they were initially designed to eliminate the need for trust in traditional financial institutions but are now facing a crisis of trust themselves. It mentions the potential of blockchain technology to improve transparency and trustworthiness in the financial sector but notes that the industry still faces challenges such as environmental concerns and illicit transactions. Governments are urged to find a balanced approach to regulate the industry while allowing for its innovation and potential benefits.
+
+Mon, 20 Nov 2023 15:03:08 +0530
+### [India lost the World Cup, but it was probably not a loss for the economy](https://www.livemint.com/opinion/online-views/india-lost-the-world-cup-but-it-was-probably-not-a-loss-for-the-economy-11700470295865.html)
+
+Article found but Couldn't summarize 
+It is indeed sad India did not win the World Cup, but the only clear losers here are those who hoped to ride a wave of nationalism
+
 Mon, 20 Nov 2023 08:00:03 +0530
 ### [Investments are safer today thanks to the travails of Sahara investors](https://www.livemint.com/opinion/online-views/investments-are-safer-today-thanks-to-the-travails-of-sahara-investors-11700397105325.html)
 
@@ -6,8 +22,7 @@ Subrata Roy, founder of the Sahara Group, was a prominent figure in the Indian b
 Mon, 20 Nov 2023 08:00:03 +0530
 ### [Cricket: A case of irrational exuberance?](https://www.livemint.com/opinion/quick-edit/cricket-a-case-of-irrational-exuberance-11700397908947.html)
 
-Article found but Couldn't summarize 
-Sunday’s World Cup final clash would've made for a very high-risk, high-return contrarian bet, given high expectations for the home team. As it turned out, the game’s ‘glorious uncertainties’ prevailed.
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！The article discusses the concept of irrational exuberance in asset markets and how it can be applied to betting on cricket match outcomes. It suggests that there may be an opportunity to profit from betting against the heavily favored home team, as the odds offered by bookies often reflect a nationalist bias. The article mentions the India versus Australia cricket World Cup final as an example where betting against India would have been a high-risk, high-return contrarian bet. The author also ponders the idea of having a data-based dashboard to analyze the market's view on game outcomes. Overall, the article highlights the unpredictability and "glorious uncertainties" of cricket matches.
 
 Mon, 20 Nov 2023 08:00:03 +0530
 ### [Why wealthy sporting legends don't mind looking silly in ads](https://www.livemint.com/opinion/online-views/why-wealthy-sporting-legends-dont-mind-looking-silly-in-ads-11700397712000.html)

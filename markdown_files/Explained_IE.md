@@ -1,3 +1,8 @@
+Mon, 20 Nov 2023 10:43:29 +0000
+### [Who is Emmett Shear, the new interim CEO of OpenAI?](https://indianexpress.com/article/explained/everyday-explainers/emmett-shear-new-interim-ceo-openai-9034710/)
+
+Emmett Shear has been appointed as the interim CEO of OpenAI, following the firing of co-founder and CEO Sam Altman. This sudden change comes as OpenAI is in the midst of closing a new funding round that could value the company at over $86 billion. Speculation initially arose that Altman might return to his position, but it was later announced that he will be joining Microsoft to lead a new AI research team. Shear, known for co-founding Twitch and his association with Y Combinator, confirmed his appointment as the interim CEO. The reasons behind Altman's firing are unclear, but there were disagreements within the company regarding the pace of AI development, its monetization, and safety precautions. Shear expressed his plans for the company, including hiring an investigator, engaging with stakeholders, and reforming the management and leadership team.
+
 Mon, 20 Nov 2023 02:52:13 +0000
 ### [ExplainSpeaking: Did India lose the World Cup because of the law of averages?](https://indianexpress.com/article/explained/explained-economics/why-india-lost-world-cup-2023-law-of-averages-explained-9034076/)
 

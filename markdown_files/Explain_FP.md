@@ -1,3 +1,39 @@
+Mon, 20 Nov 2023 17:17:35 +0530
+### [In Graphics | Why you should add maize, bajra and other superfoods to your winter diet](https://www.firstpost.com/explainers/in-graphics-why-you-should-add-maize-bajra-and-other-superfoods-to-your-winter-diet-13407722.html)
+
+As winter approaches, it is important to adjust our diets to protect ourselves from the cold and potential illnesses. Instead of relying on traditional options like rice and wheat, consider incorporating superfoods like pearl millet, maize, sesame seeds, and sweet potatoes into your meals. These foods can help combat the cold and keep you fit and healthy.The article suggests that during winter, people should consider changing their diets to protect themselves from the cold and reduce the risk of contracting diseases. Instead of traditional options like rice and wheat, the article recommends consuming superfoods such as pearl millet (bajra), maize (corn), sesame seeds, and sweet potatoes. These foods are said to help combat the cold and promote overall fitness and health.
+
+Mon, 20 Nov 2023 16:28:01 +0530
+### [What is Fattah-II, Iran’s new missile, which can 'evade' Israel defence system?](https://www.firstpost.com/explainers/what-is-fattah-ii-irans-new-missile-which-can-evade-israel-defence-system-13408472.html)
+
+Iran has unveiled its new Fattah-II hypersonic missile, claiming that it can evade even the most advanced anti-ballistic missile systems of the United States and Israel. The missile, showcased at an exhibition in Tehran, is equipped with a hypersonic glide vehicle warhead that can manoeuvre and glide at hypersonic speed. It has a range of 1,400 kilometers and a velocity of Mach 13. The missile is designed to make quick turns to avoid defense systems and is difficult to intercept due to its speed and complex trajectory. Iran has been developing its defensive missile program despite opposition from the US and Europe.
+
+Mon, 20 Nov 2023 15:43:26 +0530
+### [9 days and counting: What's delaying the rescue op of 41 trapped workers in Uttarakhand tunnel?](https://www.firstpost.com/explainers/uttarakhand-tunnel-collapse-rescue-operations-delay-41-workers-13407632.html)
+
+Rescue operations to save 41 workers trapped in a collapsed tunnel in Uttarakhand have entered their ninth day. A five-point plan has been devised, including drilling from three sides to reach the trapped workers. The plan involves drilling a vertical hole from the top of the hill where the workers are trapped, as well as drilling a small tunnel from the Barkot side. The rescue efforts were temporarily halted when an auger machine developed a snag, but operations have since resumed. Prime Minister Narendra Modi has assured the Chief Minister of Uttarakhand that the workers will be evacuated safely. The rescue operation is challenging due to the non-uniform soil strata in the Himalayan region. The workers are being provided with multivitamins, antidepressants, and dry fruits to support their well-being.
+
+Mon, 20 Nov 2023 14:47:10 +0530
+### [How Argentina’s new president takes advice from his cloned dogs](https://www.firstpost.com/explainers/how-argentinas-new-president-takes-advice-from-his-cloned-dogs-13407672.html)
+
+Article found but Couldn't summarize 
+How Argentina’s new president takes advice from his cloned dogs
+
+Mon, 20 Nov 2023 14:04:10 +0530
+### [How much carbon do the world’s wealthiest people emit?](https://www.firstpost.com/explainers/how-much-carbon-do-the-worlds-wealthiest-people-emit-13407302.html)
+
+A study conducted by Oxfam reveals that the richest one percent of the global population, amounting to 77 million people, are responsible for 16 percent of total global CO2 emissions resulting from their consumption. This group includes billionaires, millionaires, and individuals earning over $140,000 per year. The report suggests that addressing climate change requires tailored government policies since not everyone is equally accountable. The study also highlights the alarming disparity between the carbon footprints of the rich and the poor, with the top one percent emitting more carbon than the bottom 66 percent combined. In addition, high-income countries contribute significantly more to consumption-based CO2 emissions compared to low-income nations. The report emphasizes the need for progressive climate policies that place greater responsibility on those who emit the most, including measures such as taxing frequent air travel or non-green investments. Furthermore, the study shows that marginalized communities, women, and developing countries bear a disproportionate burden in terms of economic and physical vulnerability to extreme weather events. Oxfam insists that addressing extreme wealth through taxation can provide the necessary resources to tackle inequality and the climate crisis simultaneously.
+
+Mon, 20 Nov 2023 13:55:59 +0530
+### [Fact-check: No, India's GDP has not crossed $4 trillion. But are we close?](https://www.firstpost.com/explainers/fact-check-india-economy-gdp-4-trillion-how-far-away-are-we-13407282.html)
+
+India's GDP crossed the $4 trillion-mark for the first time, according to an unverified screengrab from the International Monetary Fund (IMF) data. The country achieved a GDP growth of 7.8% during the April-June period of 2023-24, the highest in the past four quarters. Despite the viral news, the government remained silent, and there was no official confirmation of the milestone. Several BJP leaders and industrialists praised Prime Minister Narendra Modi for this achievement, while economists and analysts welcomed the reports. However, experts refuted the news, stating that India's GDP is around $3.45 trillion as of June. India aims to become a $5 trillion economy by 2025.
+
+Mon, 20 Nov 2023 11:53:47 +0530
+### [Why Joe Biden’s birthday takes centre stage ahead of the 2024 US presidential polls](https://www.firstpost.com/explainers/why-joe-bidens-birthday-takes-centre-stage-ahead-of-the-2024-us-presidential-polls-13406282.html)
+
+Joe Biden turned 81 today, making him the oldest sitting president in American history. His age is a significant concern for American voters, especially among young voters. Despite his vigorous schedule and jokes about his age, polls consistently show that Biden's age is the greatest concern for voters. While Donald Trump is only slightly younger than Biden, voters are less concerned about his age. Biden has struggled to change public perception on his age, despite his efforts to make light of it. Polls show that a majority of people believe Biden is too old to serve a second term. However, some analysts argue that age should not matter and that there are many people in their 80s who are perfectly capable of being president. Biden's age is likely to face even more scrutiny during the 2024 election campaign. Republicans have also focused their criticism on Vice President Kamala Harris, who would assume the presidency if anything were to happen to Biden.
+
 Mon, 20 Nov 2023 11:43:36 +0530
 ### [Who is the pitch invader at India-Aus final? How common are such incidents?](https://www.firstpost.com/explainers/who-is-the-pitch-invader-at-india-australia-icc-cricket-world-cup-final-how-common-are-such-incidents-13406502.html)
 
