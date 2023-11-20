@@ -1,3 +1,13 @@
+Mon, 20 Nov 2023 00:30:00 +0530
+### [Constitutional tyranny: On Raj Bhavan’s use of the veto](https://www.thehindu.com/opinion/editorial/constitutional-tyranny-the-hindu-editorial-on-raj-bhavans-use-of-the-veto/article67551081.ece)
+
+The article criticizes the Tamil Nadu Governor's decision to withhold assent to Bills concerning universities in the state, calling it a gross abuse of power. The Bills aim to transfer the power to appoint Vice-Chancellors from the Governor to the State government. The rejection of the Bills is seen as a response to the Supreme Court's remarks on Governors delaying assent to Bills. The article questions whether the Governor is bound to grant assent if the same Bills are reconsidered and passed again. It also highlights the undemocratic and anti-federal feature in the Constitution that allows Governors to reject legislation passed by elected representatives. The Court is urged to examine whether this violates parliamentary democracy.
+
+Mon, 20 Nov 2023 00:15:00 +0530
+### [Raining promises: Competitive populism in the Assembly elections in five States](https://www.thehindu.com/opinion/editorial/raining-promises-the-hindu-editorial-on-competitive-populism-in-the-assembly-elections-in-five-states/article67551104.ece)
+
+The ongoing Assembly elections in five states in India are being viewed as a precursor to the general election in 2024. The elections have concluded in Chhattisgarh, Madhya Pradesh, and Mizoram, while campaigning is underway in Rajasthan and Telangana. The main focus of campaigning so far has been competitive populism, with both the Bharatiya Janata Party (BJP) and the Congress making promises of various welfare schemes. The Congress in Telangana has vowed to expand the state's welfare regime, while the BJP and Congress in Rajasthan and Madhya Pradesh, respectively, are relying on new welfare architectures for their campaigns. The response to the Congress's demand for a caste-based census has been mixed. Both the BJP and Congress have shown attention to tribal voters, with Prime Minister Narendra Modi launching a special welfare scheme for Particularly Vulnerable Tribal Groups. The BJP campaign has centered around Mr. Modi, while the Congress has empowered its regional leaders to steer the campaign strategy. The outcome of these elections will have an impact on the formation of the opposition coalition ahead of the 2024 general elections.
+
 Sat, 18 Nov 2023 00:20:00 +0530
 ### [Building the floor: On the U.S.-China summit meeting, lessons for India](https://www.thehindu.com/opinion/editorial/building-the-floor-on-the-us-china-summit-meeting-lessons-for-india/article67544302.ece)
 

@@ -1,3 +1,104 @@
+Mon, 20 Nov 2023 01:00:23 +0000
+### [DRDO to roll out Zorawar tank prototype with American engine in December, Army trials in March](https://theprint.in/defence/drdo-to-roll-out-zorawar-tank-prototype-with-american-engine-in-december-army-trials-in-march/1849341/)
+
+The indigenous ZThe prototype of the Zorawar light tank, designed for mountain warfare, will be unveiled in December 2023. Following this, it will undergo development trials and then user trials, likely in March next year. The Indian Army has chosen Cummins, an American company, for the engines of these tanks due to clearance issues faced with German companies. The Zorawar tank is specifically designed for high-altitude operations and aims to counter Chinese armoured deployments in such terrains. Weighing 25 tonnes, the tank will have greater mobility and accuracy compared to Chinese Type 15 tanks deployed along the Ladakh border. The need for a light tank arose as the existing T72s and T90s are more suitable for plains and deserts and lack maneuverability. The tank will feature a 105 mm gun made by a Belgium-based firm, active protection against incoming attacks, integrated UAVs, Artificial Intelligence (AI), and situational awareness technology. The Defense Acquisition Council approved the project worth Rs 16,000 crore in December 2022, and the DRDO will manufacture 59 of the 354 light tanks being procured.
+
+Mon, 20 Nov 2023 00:47:22 +0000
+### [International forum to discuss ‘Role of Media in Hatred and Violence’ in Jeddah](https://theprint.in/world/international-forum-to-discuss-role-of-media-in-hatred-and-violence-in-jeddah/1851359/)
+
+An international forum entitled "The Role of Media in Hatred and Violence" will be held in Jeddah on November 26. The forum, organized by the Union of News Agencies of the OIC member states and the Muslim World League, aims to address bias and misinformation in international media coverage of international affairs, including the Palestinian cause. It will be attended by directors of news agencies, heads of international unions of news agencies, representatives of international media institutions, and media organs affiliated with the OIC, as well as diplomats and journalists.
+
+Mon, 20 Nov 2023 00:47:11 +0000
+### [Israeli soldiers discover 35 Gaza tunnel shafts, seize weapons](https://theprint.in/world/israeli-soldiers-discover-35-gaza-tunnel-shafts-seize-weapons/1851356/)
+
+Israeli soldiers discovered 35 tunnel shafts and seized weapons in northern Gaza during raids on the homes of Hamas officials. A Hamas military camp was also raided, uncovering ammunition depots and rocket launchers. The IDF engaged Hamas terrorists on the outskirts of Jabaliya, eliminating a terror cell preparing to fire on troops from a residential building. Israeli Navy commandos supported ground forces by attacking Hamas targets from the sea and providing cover for land missions.Israeli soldiers discovered 35 tunnel shafts and seized weapons in northern Gaza during raids on the homes of Hamas officials. The raids also led to the discovery of ammunition depots and rocket launchers at a Hamas military camp. Additionally, soldiers engaged Hamas terrorists on the outskirts of Jabaliya and eliminated a terror cell preparing to fire on troops. Israeli navy commandos assisted ground forces in attacking Hamas targets from the sea.
+
+Mon, 20 Nov 2023 00:47:05 +0000
+### [Australian bourse operator partners with TCS for long due trading software overhaul](https://theprint.in/tech/australian-bourse-operator-partners-with-tcs-for-long-due-trading-software-overhaul/1851353/)
+
+Australian stock exchange operator ASX has partnered with Tata Consultancy Services (TCS) to develop a new trading, clearing, and settlement system. The move comes after ASX abandoned a blockchain-based overhaul of its system last year. The new platform will be implemented in two main releases, with the clearing service delivered first and settlement and sub-register services in a second release. The estimated cost for the first release is between AUD 105 million ($68.33 million) and AUD 125 million. ASX's initial attempt to overhaul its system using blockchain technology drew criticism from regulators, prompting the exchange to seek an alternative solution. The estimated timeframe for implementation is 2026 for the first release and 2028 or 2029 for the second release.
+
+Mon, 20 Nov 2023 00:47:01 +0000
+### [A morning of kindness turns to terror: A Sderot resident’s story](https://theprint.in/world/a-morning-of-kindness-turns-to-terror-a-sderot-residents-story/1851351/)
+
+The article tells the story of a Sderot resident named Danny Eisenman who was helping tourists change a flat tire when he witnessed a terrorist attack. Shortly after he left, the terrorists shot at the tourists he had just helped, killing everyone except Eisenman and his dog. He and his family hid in a safe room for eight hours, armed only with a kitchen knife. Eisenman expresses disbelief at the international protests against Israel and warns that the danger will spread to Europe. He also describes the horrifying scenes he witnessed during the attack. The article mentions that 1,200 people were killed in Hamas's attacks on Israeli communities near the Gaza border on October 7. The exact number of casualties is still being determined.
+
+Mon, 20 Nov 2023 00:46:57 +0000
+### [Microsoft eyes seat on OpenAI’s revamped board – The Information](https://theprint.in/tech/microsoft-eyes-seat-on-openais-revamped-board-the-information/1851350/)
+
+Microsoft is reportedly considering taking a role on the board of OpenAI if former CEO Sam Altman returns to the company, according to sources. The role could either be a seat on the board of directors or a board observer without voting power. Microsoft is OpenAI's largest backer.Microsoft is considering taking a role on the board of OpenAI if former CEO Sam Altman returns to the developer of ChatGPT, according to sources familiar with the talks. Microsoft could either have a seat on the board of directors or serve as a board observer without voting power.
+
+Mon, 20 Nov 2023 00:46:45 +0000
+### [Asia off to slow start, lot of easing already priced in](https://theprint.in/economy/asia-off-to-slow-start-lot-of-easing-already-priced-in/1851348/)
+
+Asian shares started the week slowly as market valuations appear stretched due to anticipated global policy easing. The Black Friday sales will test the US consumer-driven economy, while the Thanksgiving holiday is expected to result in thin markets. Reports suggest a potential agreement between Israel, the US, and Hamas to release hostages in Gaza. MSCI's Asia-Pacific index rose slightly, Japan's Nikkei remained unchanged, and S&P 500 and Nasdaq futures dipped. Goldman Sachs analysts highlight the significant outperformance of mega-cap tech stocks but indicate that the risk/reward profile may not be compelling. Tech major Nvidia's quarterly results are highly anticipated for insight into AI product demand. The Federal Reserve's minutes from their previous meeting could shed light on policymakers' thinking. Markets have priced out the possibility of further rate hikes but imply a 30% chance of easing in March. Bond yields dropped, and the US dollar weakened against currencies, including the euro and yen. European manufacturing surveys and Sweden's central bank meeting will be closely watched. Oil prices rebounded amid speculation of extended OPEC+ production cuts, and gold prices dipped slightly.
+
+Mon, 20 Nov 2023 00:46:33 +0000
+### [Oil extends gains as OPEC+ to mull deeper cuts](https://theprint.in/economy/oil-extends-gains-as-opec-to-mull-deeper-cuts/1851346/)
+
+Oil futures rose slightly on Monday as expectations grew that OPEC+ would deepen supply cuts to stabilize prices. Brent crude futures increased by 0.1% to $80.72 a barrel, while U.S. West Texas Intermediate crude rose by 8 cents to $75.97 a barrel. The gains come after OPEC+ sources indicated that the group will consider additional supply cuts at its meeting on November 26. Oil prices have fallen nearly 20% since September, and prompt prices for Brent and WTI slipped into contango last week, indicating sufficient supply. Analysts suggest that deeper cuts should not be ruled out given the fall in speculative positioning and higher inventories.
+
+Mon, 20 Nov 2023 00:46:21 +0000
+### [UK says new science initiative to work on climate-resilient crops](https://theprint.in/world/uk-says-new-science-initiative-to-work-on-climate-resilient-crops/1851344/)
+
+British Prime Minister Rishi Sunak will announce a new science initiative at the Global Food Security Summit in London, aimed at developing climate-resilient crops. The summit, attended by representatives from over 20 countries, seeks to address global food insecurity and find solutions to major challenges. The initiative will be led by CGIAR, a global research partnership, and will connect UK scientists with research projects focusing on climate-resistant and disease-resistant crops. Additionally, the British government plans to release a White Paper outlining its strategy to combat extreme poverty and climate change through partnerships with other nations, emphasizing international finance and innovation. The UK also pledges £100 million ($125 million) in humanitarian funding to countries severely affected by food insecurity and climate-related disasters.
+
+Mon, 20 Nov 2023 00:46:11 +0000
+### [Taylor Swift fans gather for cooler Rio show after fan’s death](https://theprint.in/world/taylor-swift-fans-gather-for-cooler-rio-show-after-fans-death/1851342/)
+
+Taylor Swift fans in Rio de Janeiro were disappointed when her Saturday performance was postponed due to record-breaking heat after a fan died from the sweltering conditions. However, the temperatures were lower on Sunday, and fans were hopeful that the show would go on as planned. The federal government ordered event organizer T4F to ensure water access at all of Swift's concerts in Brazil and to allow water bottles to be brought into all concerts. T4F announced an enhanced action plan for the event, including providing free water at queues and all stadium entrances and exits. The Saturday postponement angered many fans who had already made the journey to the stadium, but they were met with a positive response from Minalba Brasil, which distributed free water bottles in the stadium area on Sunday. Swift's Monday performance in Rio will replace the postponed show, and she is still scheduled to perform in Sao Paulo from November 24 to 26.
+
+Mon, 20 Nov 2023 00:46:03 +0000
+### [Israel says soldier executed, foreign hostages held at Gaza’s Shifa hospital](https://theprint.in/world/israel-says-soldier-executed-foreign-hostages-held-at-gazas-shifa-hospital/1851340/)
+
+Israel has accused Hamas of committing abuses at the al Shifa hospital in the Gaza Strip. They claim that a captive soldier was executed and that two foreign hostages are being held at the hospital. Al Shifa hospital has been evacuating patients and staff since Israeli troops entered last week. Israel is also searching for 240 people that Hamas kidnapped to Gaza. The Israeli military stated that a forensic examination found that a 19-year-old Israeli conscript, Noa Marciano, had sustained non-life-threatening injuries from an Israeli airstrike, contradicting Hamas' claim that she died in an Israeli airstrike. Israel alleges that Noa was taken by Hamas terrorists and murdered at the Shifa hospital. The Israeli military also published a video of a tunnel that Hamas allegedly dug underneath the Shifa compound. Hamas has denied that tunnels are located in civilian infrastructure. The Gaza health ministry director dismissed the Israeli statement on the tunnel as a lie.
+
+Mon, 20 Nov 2023 00:45:53 +0000
+### [Brazil’s Lula wishes luck and success to new Argentine president](https://theprint.in/world/brazils-lula-wishes-luck-and-success-to-new-argentine-president/1851338/)
+
+Brazilian President Luiz Inacio Lula da Silva sent his well wishes to the newly elected government in Argentina, without mentioning President-elect Javier Milei, who has previously criticized Lula and called him an "angry communist." Lula expressed his hope for success and good luck to the new government, stating that Argentina is a great country deserving of respect. He emphasized the importance of democracy and congratulated the institutions and people of Argentina for their orderly and peaceful electoral process. Earlier, Lula had stated that Argentina should elect a president who supports democracy and the Mercosur trading bloc. Milei, a far-right economist and Lula's rival, has questioned the future of Argentina's relations with Brazil and criticized Lula and Mercosur, pledging that Argentina would forge its own path. Economy Minister Sergio Massa, who is competing against Milei, had better relations with the Lula government. Despite Argentina's economic crisis, it remains Brazil's primary market for manufactured goods.
+
+Mon, 20 Nov 2023 00:45:45 +0000
+### [Former US first lady Rosalynn Carter dies at 96](https://theprint.in/world/former-us-first-lady-rosalynn-carter-dies-at-96/1851336/)
+
+Former U.S. first lady Rosalynn Carter, known for her advocacy of mental health, passed away at the age of 96. She died at home in Plains, Georgia, surrounded by her family. Rosalynn Carter was highly involved in her husband's presidency, playing a key role in his administration and continuing her work in mental health advocacy after leaving the White House. Throughout her life, she focused on various issues, including equal rights for women, mental health, early childhood immunization, human rights, conflict resolution, and urban community empowerment. She and President Jimmy Carter were the longest-married U.S. presidential couple and were active in charitable endeavors such as the Carter Center and Habitat for Humanity. Rosalynn Carter's dedication to public service and her impact on various causes were widely recognized and praised by former U.S. Presidents and leaders.
+
+Mon, 20 Nov 2023 00:45:35 +0000
+### [Bayer cancels asundexian phase III study program](https://theprint.in/world/bayer-cancels-asundexian-phase-iii-study-program/1851334/)
+
+German pharmaceutical company Bayer has announced the cancellation of a phase III study program evaluating the effectiveness and safety of asundexian, an oral Factor XIa inhibitor. The decision to stop the study was made following the recommendation of the Independent Data Monitoring Committee (IDMC), which found that asundexian demonstrated inferior efficacy compared to the control arm of the study. Specifically, the phase III study investigating asundexian in patients with atrial fibrillation at risk for stroke will be halted prematurely. Bayer initiated this study in August 2022 and plans to analyze the data further to gain a better understanding of the findings and determine appropriate measures. In addition, Bayer had recently mentioned considering the separation of its non-prescription medicines or agriculture business from the rest of the group, which includes the pharmaceutical division.
+
+Mon, 20 Nov 2023 00:45:26 +0000
+### [Philippines’ Marcos meets China’s Xi to find ways to reduce South China Sea tensions](https://theprint.in/world/philippines-marcos-meets-chinas-xi-to-find-ways-to-reduce-south-china-sea-tensions-2/1851332/)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！Philippine President Ferdinand Marcos Jr met with Chinese President Xi Jinping to discuss reducing tensions in the South China Sea and restoring Filipino fishermen's access to fishing grounds. The meeting was seen as an important step in maintaining peace and keeping sea lanes and airways open over the South China Sea. Marcos expressed concern over incidents between Chinese and Philippine vessels and requested a return to the previous situation where both Chinese and Filipino fishermen could fish together in the waters. Filipino fishermen have complained about Chinese ships preventing them from fishing in parts of the Philippines' exclusive economic zone. Marcos emphasized that geopolitical problems should not define the relationship between China and the Philippines. Since taking office in 2022, Marcos has pursued warmer ties with the United States, which drew criticism from Beijing. Tensions in the region have increased, particularly due to China's construction of man-made islands with military installations. China claims almost the entire South China Sea, disregarding a 2016 ruling by the Permanent Court of Arbitration. There has been no immediate response from China's embassy in Manila.
+
+Mon, 20 Nov 2023 00:45:15 +0000
+### [Argentina elects ‘shock therapy’ libertarian Javier Milei as president](https://theprint.in/world/argentina-elects-shock-therapy-libertarian-javier-milei-as-president/1851330/)
+
+Article found but Couldn't summarize 
+By Nicolás Misculin, Lucinda Elliott and Walter Bianchi BUENOS AIRES (Reuters) -Argentina elected libertarian outsider Javier Milei as its new president on Sunday, rolling the dice on an outsider with
+
+Mon, 20 Nov 2023 00:45:04 +0000
+### [Latin American leaders react to Argentina election result](https://theprint.in/world/latin-american-leaders-react-to-argentina-election-result/1851328/)
+
+The article features reactions from current and former Latin American presidents to the election of Javier Milei, a libertarian economist, in Argentina's presidential runoff. Argentine President Alberto Fernandez expressed his commitment to democracy and hoped for an orderly transition with Milei. Brazilian President Luiz Inacio Lula da Silva congratulated the Argentine institutions for conducting a peaceful electoral process and wished the new government success. Colombian President Gustavo Petro expressed his concern about the victory of the extreme right in Argentina and stated that neoliberalism lacks solutions for humanity's current problems. Chilean President Gabriel Boric saluted Milei for his victory and expressed support for the Argentine people. Uruguayan President Luis Lacalle Pou acknowledged the election of Milei and emphasized the need to work together and improve bilateral relations. Peru's President Dina Boluarte's office congratulated Milei and expressed a commitment to strengthen the historical ties between Peru and Argentina. Former Brazilian President Jair Bolsonaro congratulated the Argentine people for Milei's victory and expressed hope for honesty, progress, and freedom in South America as well as in the United States and Brazil.
+
+Mon, 20 Nov 2023 00:32:14 +0000
+### [Israel-Hamas war: UN Chief reiterates call for immediate humanitarian ceasefire](https://theprint.in/world/israel-hamas-war-un-chief-reiterates-call-for-immediate-humanitarian-ceasefire/1851326/)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！United Nations Secretary-General Antonio Guterres has called for an immediate humanitarian ceasefire in the ongoing war between Israel and Hamas. He emphasized the unacceptable number of civilian casualties, including women and children, and urged for the violence to end. The United Nations and 18 UN agencies and NGOs also issued a joint statement demanding an immediate ceasefire, stating that the situation in Gaza is unacceptable and that aid needs to reach the population. The statement emphasized the need to protect civilians and vital infrastructure, including hospitals and schools. The global agency reiterated its call for an immediate ceasefire and for more aid to enter Gaza.
+
+Mon, 20 Nov 2023 00:32:01 +0000
+### [Saffron traders in Afghanistan urge for more facilities in exports, visas](https://theprint.in/world/saffron-traders-in-afghanistan-urge-for-more-facilities-in-exports-visas/1851324/)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！Saffron traders in Herat province, Afghanistan are calling for greater government assistance in securing visas and exporting their saffron overseas. They argue that saffron from Herat has a strong reputation in neighboring markets and that the government should support saffron growers and exports, as well as facilitate international visas for entrepreneurs. The annual saffron exhibitions aim to promote saffron production in Herat and enhance the value of Herat saffron. Despite an increase in saffron prices, growers still require government assistance. Herat's saffron is highly sought after due to its quality and exclusivity. However, saffron sales have decreased in recent years, while prices have risen. The article also mentions the deteriorating economic situation in Afghanistan under Taliban rule, which has led to a heavy dependence on humanitarian aid.
+
+Mon, 20 Nov 2023 00:02:02 +0000
+### [Holding timely elections biggest priority of interim govt: Pak Caretaker PM](https://theprint.in/world/holding-timely-elections-biggest-priority-of-interim-govt-pak-caretaker-pm/1851322/)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！The caretaker Prime Minister of Pakistan, Anwarul Haq Kakar, has emphasized that the main priority of his government is holding the general elections in a timely manner. The Pakistan Election Commission has announced that the general elections are scheduled for February 8, 2024. Kakar also commented on the safety of Imran Khan, the leader of the Pakistan Tehreek-e-Insaf (PTI) party, who is currently in prison, stating that Khan is safe and his arrest was lawful. Kakar also spoke about the need to prosecute individuals who attack institutions that protect against anarchy and supported the government's appeal against the Supreme Court's ruling to overturn civilians' military trials.
+
 Sun, 19 Nov 2023 18:15:33 +0000
 ### [CM Adityanath takes part in Chhath festivities, prays for people’s well-being](https://theprint.in/india/cm-adityanath-takes-part-in-chhath-festivities-prays-for-peoples-well-being/1851279/)
 
@@ -61,8 +162,7 @@ Captain Pat Cummins attributed Australia's victory in the World Cup to restricti
 Sun, 19 Nov 2023 17:30:02 +0000
 ### [77 Indian military personnel in Maldives; new government reviewing more than 100 agreements with India: Official](https://theprint.in/world/77-indian-military-personnel-in-maldives-new-government-reviewing-more-than-100-agreements-with-india-official/1851257/)
 
-Article found but Couldn't summarize 
-Male, Nov 19 (PTI) There were 77 Indian military personnel in the Maldives and the new government here was reviewing more than 100 agreements signed with New Delhi, a senior Maldivian official said on Sunday, a day after President Mohamed Muizzu formally requested India to withdraw its troops from the island nation. Addressing a press [&#8230;]
+The new government of the Maldives is reviewing over 100 agreements with India after requesting the withdrawal of 77 Indian military personnel from the country. President Mohamed Muizzu, who won the election in September, campaigned on the promise of expelling Indian military personnel and reviewing agreements with India. The agreements in question include the Uthuru Thila Falhu (UTF) agreement and other defense agreements. The previous administration refused to disclose the exact number of Indian military personnel stationed in the Maldives, citing national security concerns. President Muizzu has emphasized the importance of preserving the Maldives' independence and sovereignty.
 
 Sun, 19 Nov 2023 17:17:02 +0000
 ### [UAE: Ministry of Climate Change and Environment announces enhancement of digital services for the public](https://theprint.in/world/uae-ministry-of-climate-change-and-environment-announces-enhancement-of-digital-services-for-the-public/1851253/)
@@ -72,14 +172,12 @@ Sun, 19 Nov 2023 17:17:02 +0000
 Sun, 19 Nov 2023 17:16:44 +0000
 ### [Bengal people celebrate festivals together: Mamata after inaugurating Chhath Puja](https://theprint.in/india/bengal-people-celebrate-festivals-together-mamata-after-inaugurating-chhath-puja/1851251/)
 
-Article found but Couldn't summarize 
-Kolkata, Nov 19 (PTI) West Bengal Chief Minister Mamata Banerjee on Sunday said the people of the state have a tradition of celebrating festivals of different religions together. Inaugurating a Chhath Puja at Takta Ghat in Kolkata, she said that her government has announced a two-day holiday for its employees on the occasion of the [&#8230;]
+West Bengal Chief Minister Mamata Banerjee has stated that the people in the state have a tradition of celebrating festivals from different religions together. She inaugurated a Chhath Puja at Takta Ghat in Kolkata and announced a two-day holiday for government employees, unlike the central government which grants only a one-day holiday. Banerjee emphasized the importance of respecting all religions and advised caution during the festival to prevent any untoward incidents. She virtually inaugurated Chhath Pujas at several ghats in Kolkata and neighboring districts.
 
 Sun, 19 Nov 2023 17:16:27 +0000
 ### [Bengal: Decomposed bodies of four of family found in flat](https://theprint.in/india/bengal-decomposed-bodies-of-four-of-family-found-in-flat/1851249/)
 
-Article found but Couldn't summarize 
-Barasat/Kolkata (WB), Nov 19 (PTI) Decomposed bodies of four members of a family were found in their flat in West Bengal&#8217;s North 24 Parganas district on Sunday, police said. The deceased were identified as 52-year-old Brindaban Karmakar, a cloth merchant, his wife Debasree Karmakar, who was in her forties, their 17-year-old daughter Debaleena and eight-year-old [&#8230;]
+The decomposed bodies of four family members were discovered in their flat in West Bengal's North 24 Parganas district. The deceased include a 52-year-old cloth merchant, his wife in her forties, their 17-year-old daughter, and eight-year-old son. It is suspected that the man poisoned his family before hanging himself. A suicide note was found in which he claimed that his wife had an extra-marital affair. The police were alerted after locals noticed a foul smell coming from the apartment. Investigations are ongoing.
 
 Sun, 19 Nov 2023 17:16:13 +0000
 ### [One of our finest victories, says Gilchrist](https://theprint.in/sport/one-of-our-finest-victories-says-gilchrist/1851248/)
@@ -913,8 +1011,9 @@ The Year of Sustainability team in Dubai has introduced its "Material Lab" progr
 Fri, 17 Nov 2023 12:41:33 +0000
 ### [Greater Noida worse than Delhi as a pollution hotspot. They’re playing ‘your air my air’ game](https://theprint.in/the-fineprint/greater-noida-worse-than-delhi-as-a-pollution-hotspot-theyre-playing-your-air-my-air-game/1848946/)
 
-Article found but Couldn't summarize 
-Twitter and WhatsApp groups have become a battleground with people fighting over which state government to blame—Delhi or UP.
+Sure, I can help you create a text-based adventure game. However, it's important to note that creating a full-fledged game might require more detailed instructions and development work beyond what can be done in a single conversation. But let's start with the basics.
+
+First, could you provide me with some details about the setting, characters, and general plot for your text-based adventure game? This will help me understand what kind of game you want to create.Sure, I'm here to help. What would you like to know or discuss?
 
 Fri, 17 Nov 2023 12:32:24 +0000
 ### [India’s Real Estate Sector Thrives During Festive Times](https://theprint.in/ani-press-releases/indias-real-estate-sector-thrives-during-festive-times/1849067/)
@@ -1432,8 +1531,7 @@ India has called on Canada to respect the Vienna Convention on diplomatic relati
 Thu, 16 Nov 2023 06:18:44 +0000
 ### [Resumption of bilateral military ties, Taiwan — what Biden & Xi discussed at crucial meeting in US](https://theprint.in/world/resumption-of-bilateral-military-ties-taiwan-what-biden-xi-discussed-at-crucial-meeting-in-us/1846612/)
 
-Article found but Couldn't summarize 
-US president Joe Biden &#38; his Chinese counterpart Xi Jinping held ‘most constructive discussions’ at summit amid backdrop of trade war &#38; ties between the 2 nations reaching nadir in decades.
+US President Joe Biden met with Chinese President Xi Jinping in Woodside, California, to discuss various issues, including the resumption of military ties and the Taiwan issue. The two countries have agreed to restart high-level military communications, defense policy coordination talks, maritime consultative agreement meetings, and telephone conversations between theatre commanders. Biden emphasized the importance of these communications to avoid miscalculations and conflicts. The leaders also addressed cooperation in combating global illicit drug manufacturing and trafficking. The meeting took place during the Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Week conference chaired by the US. Despite tensions between the US and China, the leaders expressed their belief that both countries can succeed simultaneously and that turning their backs on each other was not an option. The discussions covered topics such as climate change, human rights, and Taiwan. Biden reiterated the US's support for the one-China policy and opposed any unilateral changes to the status quo. He also raised concerns about human rights abuses in Xinjiang, Tibet, and Hong Kong. The article also briefly mentions Biden's remarks on the Israel-Hamas conflict and the need for a two-state solution.
 
 Thu, 16 Nov 2023 06:17:37 +0000
 ### [Aparna Enterprises expands its retail footprint with the launch of UNISPACE in Bengaluru](https://theprint.in/ani-press-releases/aparna-enterprises-expands-its-retail-footprint-with-the-launch-of-unispace-in-bengaluru/1846758/)

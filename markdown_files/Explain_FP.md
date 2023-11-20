@@ -1,3 +1,8 @@
+Sun, 19 Nov 2023 18:09:56 +0530
+### [FirstUp: Delhi schools reopen, Mumbai to face water cuts… The big news today](https://www.firstpost.com/explainers/firstup-delhi-schools-reopen-mumbai-to-face-water-cuts-the-big-news-today-13404552.html)
+
+Delhi schools have reopened as the Air Quality Index (AQI) has improved and there is no indication of a sharp degradation in the near future. The schools were initially asked to suspend physical classes but are now allowed to resume. Mumbai is facing a 10 percent water cut for 13 days due to emergency repair work at the pneumatic gate system in Thane. Farmers in Punjab and Haryana are holding protests today, demanding a solution to stubble burning and the withdrawal of actions taken against them. India and Australia will hold the second India-Australia 2+2 Ministerial Dialogue in New Delhi. The International Film Festival of India begins today in Goa, with Hollywood actor Michael Douglas receiving the Satyajit Ray Lifetime Achievement Award. Pop idol Shakira is going on trial in Barcelona for allegedly evading taxes in Spain. US President Joe Biden celebrates his 81st birthday, raising concerns about his age and reelection prospects.
+
 Sun, 19 Nov 2023 11:22:28 +0530
 ### [OMG! How TikTok Jesus, promising ‘blessing in an hour’, is a viral sensation](https://www.firstpost.com/explainers/omg-how-tiktok-jesus-promising-blessing-in-an-hour-is-a-viral-sensation-13394882.html)
 

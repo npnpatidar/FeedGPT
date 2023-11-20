@@ -1,3 +1,9 @@
+2023-11-20T06:00:59+05:30
+### [As Lachlan Murdoch Takes Over, He May Need to Reset News Corp’s Relations With Donald Trump](https://thewire.in/media/as-lachlan-murdoch-takes-over-he-may-need-to-reset-news-corps-relations-with-donald-trump)
+
+No Article text 
+Will the son choose to build bridges with Trump that his father burned?
+
 2023-11-19T23:47:12+05:30
 ### [Israel, Hamas Close to Agreeing on Five-Day 'Pause' in Fighting: Report](https://thewire.in/world/israel-hamas-close-to-agreeing-on-five-day-pause-in-fighting-report)
 

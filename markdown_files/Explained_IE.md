@@ -1,3 +1,8 @@
+Sun, 19 Nov 2023 23:11:11 +0000
+### [How unbeaten India lost to a plan and some homework](https://indianexpress.com/article/explained/explained-sports/cricket-world-cup-final-india-vs-australia-how-unbeaten-india-lost-to-a-plan-and-some-homework-9033922/)
+
+India's cricket team suffered a defeat to Australia in the World Cup final. Australia's well-executed plan, adaptability to the conditions, and strong fielding contributed to their victory. India had chosen a slow pitch, which ultimately worked against them. Australia's bowlers utilized the pitch by making the ball stop on the batsmen using a variety of deliveries. The fielders also played their part by making accurate throws from the outfield. India's pace attack initially showed promise, but the pitch eased later on, leading to Australia's comfortable win. Australia's victory showcased their ability to perform in big moments and handle pressure.
+
 Sun, 19 Nov 2023 14:09:20 +0000
 ### [This Quote Means: ‘Sport has the power to… unite people in a way little else does’, from Nelson Mandela](https://indianexpress.com/article/explained/this-quote-means-sport-unite-nelson-mandela-upsc-9033651/)
 
