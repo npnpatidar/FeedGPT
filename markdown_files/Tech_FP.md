@@ -1,3 +1,19 @@
+Mon, 20 Nov 2023 11:20:28 +0530
+### [End of OpenAI? Sam Altman won’t return, Emmett Shear of Twitch named interim CEO](https://www.firstpost.com/tech/end-of-openai-sam-altman-wont-return-emmett-shear-of-twitch-named-interim-ceo-13406702.html)
+
+Former OpenAI CEO Sam Altman will not be returning to the company after his conditions for reinstatement were rejected. Altman co-founded OpenAI in 2015. Emmett Shear, the former CEO of Twitch and a co-founder of OpenAI, is being considered as a potential CEO. Microsoft, a significant investor in OpenAI, may also seek a seat on the board of directors. Following Altman's departure, several key personnel and engineers are leaving OpenAI, either to join Altman's new venture or rival firms. Competitors like Cohere and Adept are actively recruiting OpenAI employees.
+
+Mon, 20 Nov 2023 10:39:09 +0530
+### [Google Meet vs Microsoft Teams: The bizarre reason stopping Sam Altman's return to OpenAI](https://www.firstpost.com/tech/google-meet-vs-microsoft-teams-the-bizarre-reason-stopping-sam-altmans-return-to-openai-13406402.html)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！Former CEO of OpenAI, Sam Altman, may not be returning to the company due to a conflict with the board over the use of Microsoft Teams and Google Meet. Altman's return was conditioned on two terms: the resignation of the board members who fired him and the election of a new board, as well as all organizational meetings taking place on Microsoft Teams. OpenAI's investors have been pressuring the board to bring Altman back, but the board is now considering whether to comply with Altman's demands or risk the company's future. Altman's close relationship with OpenAI's staff has also led to threats of quitting and joining his new venture. Microsoft CEO Satya Nadella has been involved in trying to mediate between Altman and the board. Altman's demands have been described as non-negotiable, with the use of Microsoft Teams for all virtual meetings being particularly contentious. Altman had been fired through a virtual conference using Google Meet, which raised concerns about AI security. Microsoft is the primary investor in OpenAI, having committed $13 billion, and OpenAI's GPT-4 technology powers the chatbot integrated into Microsoft's search engine, Bing. Altman's loyal employees are likely to leave OpenAI to join his new venture if he is not rehired. OpenAI has been trying to attract engineers from Google's AI teams by offering high salaries. Elon Musk's AI company, XAI, has recently launched its own AI chatbot, Grok, to compete with ChatGPT. OpenAI's ChatGPT has faced issues and a severe outage, which was attributed to a DDoS attack by pro-Palestine, Russia-backed hacktivists.
+
+Mon, 20 Nov 2023 09:37:41 +0530
+### [Realme Buds T300 Review: A little bit of everything at an affordable price point](https://www.firstpost.com/tech/realme-buds-t300-review-13405882.html)
+
+Article found but Couldn't summarize 
+Realme Buds T300 Review: A little bit of everything at an affordable price point
+
 Fri, 17 Nov 2023 17:16:37 +0530
 ### [Virat Kohli, Lebron James, Michael Phelps and many other star athletes swear by THIS piece of tech](https://www.firstpost.com/tech/virat-kohli-lebron-james-michael-phelps-and-many-other-star-athletes-swear-by-this-piece-of-tech-whoop-fitness-tracker-13398762.html)
 

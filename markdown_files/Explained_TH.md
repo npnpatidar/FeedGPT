@@ -1,3 +1,13 @@
+Mon, 20 Nov 2023 10:30:00 +0530
+### [‘Strong evidence’ unusual nitrogen-9 nucleus exists, scientists say](https://www.thehindu.com/sci-tech/science/nitrogen-9-nucleus-stability-challenge-nuclear-structure/article67550743.ece)
+
+A recent study published in Physical Review Letters focused on investigating the existence of an unusual isotope called nitrogen-9. This isotope has a high proton-to-neutron ratio, making it unstable and challenging to classify. The study used experimental techniques to examine the characteristics of nitrogen-9 atoms produced from the collision of oxygen-13 with beryllium-9. The researchers observed distinct energy peaks in the nitrogen-9 resonant states, indicating stability and specific nuclear reactions. The findings provide strong evidence for the existence of nitrogen-9 and offer new insights into subatomic structures. This discovery expands the nuclide chart, which represents isotopes' relationships based on their number of protons and neutrons. Understanding such exotic isotopes is crucial for nuclear physics and astrophysical processes, aiding in the modeling of element synthesis in stars.
+
+Mon, 20 Nov 2023 10:30:00 +0530
+### [What is the status of the Georgia election fraud case? | Explained](https://www.thehindu.com/news/international/what-is-the-status-of-the-georgia-election-fraud-case-explained/article67552133.ece)
+
+The Georgia state election fraud case involving former President Donald Trump and his allies has gained attention once again following the guilty pleas of several defendants. Among them is attorney Sidney Powell, a close ally of Trump, who pleaded guilty to six misdemeanors related to conspiracy to interfere with election conduct. Powell had advanced the theory that Dominion Voting Machines conspired with Venezuelan intelligence to manipulate the election results. Another potential witness against Trump is lawyer Jenna Ellis, who pleaded guilty to amplifying false claims about the election. Kenneth Chesebro, another pro-Trump lawyer, pleaded guilty to conspiracy charges related to filing false documents. These guilty pleas could encourage others to cooperate with prosecutors. The Georgia indictment is separate from a federal indictment filed against Trump for conspiracy to defraud the US and disenfranchise voters.
+
 Sun, 19 Nov 2023 22:49:24 +0530
 ### [The role of the Governor in legislature | Explained](https://www.thehindu.com/news/national/the-role-of-the-governor-in-legislature-explained/article67552112.ece)
 

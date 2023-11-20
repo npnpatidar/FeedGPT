@@ -1,3 +1,18 @@
+Mon, 20 Nov 2023 11:43:36 +0530
+### [Who is the pitch invader at India-Aus final? How common are such incidents?](https://www.firstpost.com/explainers/who-is-the-pitch-invader-at-india-australia-icc-cricket-world-cup-final-how-common-are-such-incidents-13406502.html)
+
+During the ICC Cricket World Cup 2023 final between India and Australia, a pitch invader ran onto the field in support of Palestine. The man, identified as Wen Johnson, wore a mask resembling the colors of the Palestinian flag and a T-shirt with slogans supporting Palestine. He attempted to hug India's Virat Kohli and unfurl a Pride Flag before being escorted off the field by security guards. The incident has raised questions about security breaches at the stadium, which was filled with politicians and celebrities. Pitch invasions are not uncommon in cricket, and previous incidents have occurred during international matches.
+
+Mon, 20 Nov 2023 11:29:30 +0530
+### [What are halal-certified products that UP has banned?](https://www.firstpost.com/explainers/halal-products-uttar-pradesh-ban-certification-13405952.html)
+
+The Uttar Pradesh (UP) government in India has imposed a ban on the production, storage, distribution, and sale of all halal-certified food, medicines, and cosmetic items within the state, with the exception of products intended for export. This action was taken after an FIR (First Information Report) was filed against certain organizations for allegedly issuing forged halal certificates to boost sales. Halal refers to products that are permissible according to Islamic law, while haram refers to forbidden items. The criteria for halal meat involve specific conditions for animal slaughter. The ban on halal products in UP is based on the argument that halal certification creates confusion and violates public trust, as well as the assertion that some companies were involved in a criminal conspiracy targeting a particular community. The halal certification process in India is carried out by private companies recognized by Muslim consumers and regulators in Islamic countries. The ban has received mixed reactions, with some companies denying the allegations and expressing their intention to take legal action.
+
+Mon, 20 Nov 2023 09:28:07 +0530
+### [Unidentified flying object spotted over Imphal airport: What we know so far](https://www.firstpost.com/explainers/unidentified-flying-object-spotted-over-imphal-airport-what-we-know-so-far-13405832.html)
+
+An unidentified flying object (UFO) was spotted near Bir Tekendrajit International Airport in Imphal, causing several flights to be diverted and delayed. The object, described as a white-colored drone, flew over the airport tower before moving southwest of the runway and disappearing. As a result, two IndiGo flights were diverted and three others were delayed for over three hours. The airport authorities closed the controlled airspace and halted all flight operations. Passengers on the affected flights remained inside the airport or aircraft for more than three hours. The Indian Air Force and the Directorate General of Civil Aviation have launched a joint investigation into the incident.
+
 Sun, 19 Nov 2023 18:09:56 +0530
 ### [FirstUp: Delhi schools reopen, Mumbai to face water cuts… The big news today](https://www.firstpost.com/explainers/firstup-delhi-schools-reopen-mumbai-to-face-water-cuts-the-big-news-today-13404552.html)
 

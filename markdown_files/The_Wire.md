@@ -1,3 +1,27 @@
+2023-11-20T11:47:23+05:30
+### [Adani-Hindenburg: Plea in SC Seeks Contempt Action Against SEBI for Delay in Completing Probe](https://thewire.in/law/adani-hindenburg-plea-supreme-court-contempt-sebi-delay-probe)
+
+No Article text 
+The application highlighted that according to the May 17 order of the top court, the market regulator was required to submit its report by August 14.
+
+2023-11-20T11:05:13+05:30
+### [Asked by O.P. Jindal University to 'Express Regret,' Achin Vanaik Stands by Lecture on Palestine](https://thewire.in/education/asked-by-o-p-jindal-university-to-express-regret-achin-vanaik-stands-by-lecture-on-palestine)
+
+No Article text 
+“The idea that I am pro-terrorism is absolute nonsense. My words were absolutely taken out of context,” Vanaik said.
+
+2023-11-20T09:03:10+05:30
+### [A Few Sobering – But Essential – Lessons in Leadership From the Cricket World Cup](https://thewire.in/politics/narendra-modi-stadium-rohit-sharma-pat-cummins-leadership)
+
+No Article text 
+In recent years, however, we have managed to crowd heroes and achievers out of a national imagination that has not allowed to look beyond the 'inspirational' and 'visionary' leadership of one man.
+
+2023-11-20T07:00:34+05:30
+### [Is There Life After Electoral Bonds?](https://thewire.in/law/is-there-life-after-electoral-bonds)
+
+No Article text 
+A lot of us seem to have forgotten that political parties, elections and democracy existed even before 2017 – and so before the existence of electoral bonds.
+
 2023-11-20T06:00:59+05:30
 ### [As Lachlan Murdoch Takes Over, He May Need to Reset News Corp’s Relations With Donald Trump](https://thewire.in/media/as-lachlan-murdoch-takes-over-he-may-need-to-reset-news-corps-relations-with-donald-trump)
 

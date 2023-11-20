@@ -1,3 +1,19 @@
+Mon, 20 Nov 2023 08:00:03 +0530
+### [Investments are safer today thanks to the travails of Sahara investors](https://www.livemint.com/opinion/online-views/investments-are-safer-today-thanks-to-the-travails-of-sahara-investors-11700397105325.html)
+
+Subrata Roy, founder of the Sahara Group, was a prominent figure in the Indian business and financial sectors in the 1980s. He was known for his flamboyant and daring approach, earning him the monikers of "robin hood" and "dream merchant." Roy built a vast financial empire by pushing the boundaries of regulations and attracting deposits from unsuspecting savers. Despite facing legal scrutiny, the Sahara Group continued to operate and diversify but eventually became overshadowed by other business leaders. However, Roy's actions prompted regulators like the Reserve Bank of India (RBI) and the Securities and Exchange Board of India (SEBI) to strengthen their control over non-banking finance companies (NBFCs) and collective investment schemes. The tighter regulations were a response to the challenges posed by Roy and his politically connected group. While investors paid a price, the financial sector in India is now better regulated as a result of the misdeeds committed by Roy and his companies.
+
+Mon, 20 Nov 2023 08:00:03 +0530
+### [Cricket: A case of irrational exuberance?](https://www.livemint.com/opinion/quick-edit/cricket-a-case-of-irrational-exuberance-11700397908947.html)
+
+Article found but Couldn't summarize 
+Sunday’s World Cup final clash would've made for a very high-risk, high-return contrarian bet, given high expectations for the home team. As it turned out, the game’s ‘glorious uncertainties’ prevailed.
+
+Mon, 20 Nov 2023 08:00:03 +0530
+### [Why wealthy sporting legends don't mind looking silly in ads](https://www.livemint.com/opinion/online-views/why-wealthy-sporting-legends-dont-mind-looking-silly-in-ads-11700397712000.html)
+
+The article discusses the phenomenon of sporting legends appearing in advertisements and questions why they would compromise their dignity by endorsing mediocre products. The author reflects on how these icons, who were known for their elegance and correctness in their sports, now seem to prioritize money over maintaining their reputation. The article acknowledges that there is nothing inherently wrong with icons appearing in ads, but it raises concerns about the loss of dignity when they endorse unrelated products. The author also highlights the financial struggles some retired cricket legends faced and contrasts them with the current generation's commercial ventures. The article concludes by exploring the difference between actors endorsing products and athletes doing the same, emphasizing that fans adore athletes for their genuine achievements.
+
 Sun, 19 Nov 2023 22:45:45 +0530
 ### [A ritualistic risk dance begins as the political stakes start to rise](https://www.livemint.com/opinion/online-views/a-ritualistic-risk-dance-begins-as-the-political-stakes-start-to-rise-11700391198128.html)
 

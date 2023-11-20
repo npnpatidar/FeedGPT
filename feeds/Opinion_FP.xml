@@ -5,6 +5,15 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Opinion_FP.xml</link>
 		<description>Opinion FP</description>
 		<item>
+			<title>Sport allows for gut, glory and triumph but no triumphalism that takes victory for granted</title>
+			<link>https://www.firstpost.com/opinion/sport-allows-for-gut-glory-and-triumph-but-no-triumphalism-that-takes-victory-for-granted-13405722.html</link>
+			<description>As GPT-3.5, I can provide a summary of the article you shared. In the ICC Men's Cricket World Cup 2023 finals, Australia emerged as the winners against India. The article highlights that while India had a dominant performance throughout the tournament, Australia managed to outplay them in the final match. The author suggests that tournaments like the World Cup should consider a "best-of-three" format to determine the winner, allowing teams to recover from a bad day. The article also mentions the impressive performances of Rohit Sharma as the Indian captain and coach Rahul Dravid. Australia's victory marks their sixth ODI World Cup title. The author reflects on the pre-match celebrations and suggests that they may have contributed to the high expectations and pressure on the Indian team. Overall, the article expresses admiration for both teams and acknowledges Australia's deserving win.</description>
+			<pubDate>Mon, 20 Nov 2023 10:04:58 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/11/IndiaCricketTeam640PTI.jpg"></media:thumbnail>
+			<media:content url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/11/IndiaCricketTeam640PTI.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Interview | Spirituality is about elevation of thoughts, unfoldment of divinity within: Swami Mukundananda</title>
 			<link>https://www.firstpost.com/opinion/interview-spirituality-is-about-elevation-of-thoughts-unfoldment-of-divinity-within-swami-mukundananda-13404792.html</link>
 			<description>Article found but Couldn't summarize 
@@ -170,10 +179,9 @@ The author emphasizes the importance of maintaining secular forces in power in B
 		<item>
 			<title>Spamouflage Dragon: China’s pursuit of aggressive disinformation strategies for cyber hegemony</title>
 			<link>https://www.firstpost.com/opinion/spamouflage-dragon-chinas-pursuit-of-aggressive-disinformation-strategies-for-cyber-hegemony-13397212.html</link>
-			<description>Article found but Couldn't summarize 
-Spamouflage Dragon: China’s pursuit of aggressive disinformation strategies for cyber hegemony</description>
+			<description>Spamouflage Dragon, also known as DragonBridge, is a Chinese propaganda network that has been active on social media platforms since 2017-18. Its main goal is to spread disinformation campaigns and boost the pro-China image. This network, linked with the Chinese government, aims to influence global narratives. Initially, it targeted Chinese critics and pro-democracy activists, but it later expanded its operations to attack the US, targeting politicians and institutions. The network uses spam-like content and fake accounts to hide the political nature of their posts. It resurfaced in 2020, praising China's handling of the Covid-19 pandemic, and has since intensified its campaigns, including denying human rights violations in Xinjiang and targeting issues related to Taiwan and Hong Kong. Despite its expansion and sophistication, the impact of Spamouflage Dragon may be limited due to its poor content quality and low subscriber base. However, its intentions to interfere in other countries' political processes are clear.</description>
 			<pubDate>Fri, 17 Nov 2023 13:05:24 +0530</pubDate>
-			<ai_summary>False</ai_summary>
+			<ai_summary>True</ai_summary>
 			<media:thumbnail url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/11/CyberThreat640AP.jpg"></media:thumbnail>
 			<media:content url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/11/CyberThreat640AP.jpg" medium="image"></media:content>
 		</item>

@@ -1,3 +1,13 @@
+Mon, 20 Nov 2023 02:52:13 +0000
+### [ExplainSpeaking: Did India lose the World Cup because of the law of averages?](https://indianexpress.com/article/explained/explained-economics/why-india-lost-world-cup-2023-law-of-averages-explained-9034076/)
+
+Article found but Couldn't summarize
+
+Mon, 20 Nov 2023 01:30:54 +0000
+### [The other oil imports India needs to worry about](https://indianexpress.com/article/explained/explained-economics/the-other-oil-imports-india-needs-to-worry-about-9033930/)
+
+India's edible oil imports have increased by almost 1.5 times and more than doubled in rupee value over the past 10 years. Imports of vegetable oils reached a record 16.5 million tonnes in the year ended October 2023, up from 14 million tonnes in the previous year. However, the value of imports fell due to a crash in global prices. India's edible oil production from domestically grown oilseeds and alternative sources amounted to around 10.3 million tonnes in 2022-23, with imports making up the remaining share. The self-sufficiency ratio has declined over the years, and if production is not boosted, annual imports could exceed 20 million tonnes. The two largest contributors to India's edible oil production are mustard and soybean, followed by cottonseed and rice bran. Other oils, such as coconut, sesame, sunflower, and safflower, have seen declines in domestic output. The high import dependence makes both producers and consumers vulnerable to international price fluctuations. Increasing domestic edible oil production would help insulate Indian farmers and households from excess global price volatility. This would require openness to technology, including genetically modified hybrids, and government support for oilseed growers.
+
 Sun, 19 Nov 2023 23:11:11 +0000
 ### [How unbeaten India lost to a plan and some homework](https://indianexpress.com/article/explained/explained-sports/cricket-world-cup-final-india-vs-australia-how-unbeaten-india-lost-to-a-plan-and-some-homework-9033922/)
 

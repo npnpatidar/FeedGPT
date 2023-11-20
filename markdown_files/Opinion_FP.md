@@ -1,3 +1,8 @@
+Mon, 20 Nov 2023 10:04:58 +0530
+### [Sport allows for gut, glory and triumph but no triumphalism that takes victory for granted](https://www.firstpost.com/opinion/sport-allows-for-gut-glory-and-triumph-but-no-triumphalism-that-takes-victory-for-granted-13405722.html)
+
+As GPT-3.5, I can provide a summary of the article you shared. In the ICC Men's Cricket World Cup 2023 finals, Australia emerged as the winners against India. The article highlights that while India had a dominant performance throughout the tournament, Australia managed to outplay them in the final match. The author suggests that tournaments like the World Cup should consider a "best-of-three" format to determine the winner, allowing teams to recover from a bad day. The article also mentions the impressive performances of Rohit Sharma as the Indian captain and coach Rahul Dravid. Australia's victory marks their sixth ODI World Cup title. The author reflects on the pre-match celebrations and suggests that they may have contributed to the high expectations and pressure on the Indian team. Overall, the article expresses admiration for both teams and acknowledges Australia's deserving win.
+
 Sun, 19 Nov 2023 19:01:03 +0530
 ### [Interview | Spirituality is about elevation of thoughts, unfoldment of divinity within: Swami Mukundananda](https://www.firstpost.com/opinion/interview-spirituality-is-about-elevation-of-thoughts-unfoldment-of-divinity-within-swami-mukundananda-13404792.html)
 
@@ -96,8 +101,7 @@ Fri, 17 Nov 2023 13:42:15 +0530
 Fri, 17 Nov 2023 13:05:24 +0530
 ### [Spamouflage Dragon: China’s pursuit of aggressive disinformation strategies for cyber hegemony](https://www.firstpost.com/opinion/spamouflage-dragon-chinas-pursuit-of-aggressive-disinformation-strategies-for-cyber-hegemony-13397212.html)
 
-Article found but Couldn't summarize 
-Spamouflage Dragon: China’s pursuit of aggressive disinformation strategies for cyber hegemony
+Spamouflage Dragon, also known as DragonBridge, is a Chinese propaganda network that has been active on social media platforms since 2017-18. Its main goal is to spread disinformation campaigns and boost the pro-China image. This network, linked with the Chinese government, aims to influence global narratives. Initially, it targeted Chinese critics and pro-democracy activists, but it later expanded its operations to attack the US, targeting politicians and institutions. The network uses spam-like content and fake accounts to hide the political nature of their posts. It resurfaced in 2020, praising China's handling of the Covid-19 pandemic, and has since intensified its campaigns, including denying human rights violations in Xinjiang and targeting issues related to Taiwan and Hong Kong. Despite its expansion and sophistication, the impact of Spamouflage Dragon may be limited due to its poor content quality and low subscriber base. However, its intentions to interfere in other countries' political processes are clear.
 
 Fri, 17 Nov 2023 12:55:19 +0530
 ### [Vantage | Why Rwanda sees UK's asylum plan as opportunity, court verdict as insult](https://www.firstpost.com/opinion/vantage-why-rwanda-sees-uks-asylum-plan-as-opportunity-court-verdict-as-insult-13396942.html)
