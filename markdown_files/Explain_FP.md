@@ -29,6 +29,11 @@ Mon, 20 Nov 2023 17:17:35 +0530
 
 As winter approaches, it is important to adjust our diets to protect ourselves from the cold and potential illnesses. Instead of relying on traditional options like rice and wheat, consider incorporating superfoods like pearl millet, maize, sesame seeds, and sweet potatoes into your meals. These foods can help combat the cold and keep you fit and healthy.The article suggests that during winter, people should consider changing their diets to protect themselves from the cold and reduce the risk of contracting diseases. Instead of traditional options like rice and wheat, the article recommends consuming superfoods such as pearl millet (bajra), maize (corn), sesame seeds, and sweet potatoes. These foods are said to help combat the cold and promote overall fitness and health.
 
+Mon, 20 Nov 2023 17:15:21 +0530
+### [FirstUp: Repolling in Madhya Pradesh and more... What to expect today](https://www.firstpost.com/explainers/firstup-repolling-in-madhya-pradesh-and-more-what-to-expect-today-13408742.html)
+
+Today, voters in Madhya Pradesh's Ater Assembly constituency will cast their votes again after a breach of secrecy occurred during the previous voting session. Four members of the polling team have been suspended for the breach. In another development, former Bharatpe co-founder Ashneer Grover and his wife have been summoned by the Delhi Police's Economic Offences Wing for questioning in connection with an alleged Rs 81-crore fraud at the financial company. Additionally, a Delhi court will hear arguments on whether to frame charges against Congress leader Jagdish Tytler in the anti-Sikh riots case. Parts of Pune will also face water cuts today due to essential maintenance work at water treatment plants. Lastly, today is World Television Day, which celebrates the impact of television on decision-making and global conversations.
+
 Mon, 20 Nov 2023 16:28:01 +0530
 ### [What is Fattah-II, Iran’s new missile, which can 'evade' Israel defence system?](https://www.firstpost.com/explainers/what-is-fattah-ii-irans-new-missile-which-can-evade-israel-defence-system-13408472.html)
 

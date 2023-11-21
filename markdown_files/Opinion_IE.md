@@ -1,3 +1,19 @@
+Mon, 20 Nov 2023 23:25:56 +0000
+### [India may have lost the World Cup, but the team of 2023 won’t be forgotten](https://indianexpress.com/article/opinion/columns/icc-mens-cwc-2023-india-vs-australia-world-cup-final-narendra-modi-stadium-virat-kohli-9035328/)
+
+The article discusses the Indian cricket team's performance in the ICC Men's Cricket World Cup and compares them to the Brazilian football team in the 1982 FIFA World Cup. The author praises the Indian team for their exceptional skills and the impact they had on fans. They highlight the performances of key players such as Rohit Sharma, Virat Kohli, K L Rahul, Ravindra Jadeja, Shreyas Iyer, Mohammad Shami, and Jasprit Bumrah. The author also mentions the positive influence of coach Rahul Dravid. Despite their defeat in the final, the Indian team is commended for their dominance throughout the tournament. The article reflects on the disappointment felt by Indian fans and the concept of "Australianism" in sports. It concludes by acknowledging the potential future dominance of young players like Shubman Gill, Shreyas Iyer, and Rishabh Pant, while also recognizing the possibility of the current stars nearing the end of their careers. Overall, the article portrays the Indian cricket team as a memorable and beloved group that captured the hearts of fans.
+
+Mon, 20 Nov 2023 21:30:13 +0000
+### [November 21, 1983, Forty Years Ago: Akalis Support Bandh](https://indianexpress.com/article/opinion/40-years-ago/november-21-1983-forty-years-ago-akalis-support-bandh-9035335/)
+
+The Akali Dal party in Punjab will join a one-day bandh (strike) called by the BJP and Rashtriya Suraksha Samiti to protest against the killings of four Hindus by extremists in the Amritsar district. The Punjab Hindu Sangathan has also called for a similar bandh in Punjab, Haryana, and Himachal Pradesh on November 22. 
+
+In other news, Israeli warplanes bombed targets in the Syrian-held mountain heights east of Beirut. One fighter jet was shot down by ground fire. This is the third attack against Syrian-held parts of Lebanon in three weeks. Kfir fighter bombers were used in the attack, targeting positions in several villages.
+
+In the Iran-Iraq war, Iraqi officials claimed that over 10,000 Iranians were killed during an attack on Kurdish territory in northern Iraq. The Iraqi military stated that a large number of Iranians were also wounded and captured, and announced the defeat of the Iranian offensive.
+
+A death occurred during a football match at the Ambedkar Stadium in New Delhi. A 35-year old man died from bullet wounds, and several others were injured. Violence erupted when the referee disallowed an equalizer by Mohammedan Sporting, leading to police firing one round from a pistol and launching teargas shells to disperse the crowd.
+
 Mon, 20 Nov 2023 13:57:04 +0000
 ### [The Tech Billionaire Bro is the new Kardashian](https://indianexpress.com/article/opinion/editorials/the-tech-billionaire-bro-is-the-new-kardashian-9035092/)
 

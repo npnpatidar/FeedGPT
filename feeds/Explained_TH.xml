@@ -5,6 +5,16 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Explained_TH.xml</link>
 		<description>Explained TH</description>
 		<item>
+			<title>Meet the Langlands Program, the world’s biggest maths project | Explained</title>
+			<link>https://www.thehindu.com/sci-tech/science/what-is-the-langlands-program-explained/article67550905.ece</link>
+			<description>Article found but Couldn't summarize 
+At the heart of the Program is an attempt to find connections between two far-flung areas of mathematics</description>
+			<pubDate>Tue, 21 Nov 2023 00:00:49 +0530</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://th-i.thgim.com/public/sci-tech/science/ovg345/article67550882.ece/alternates/LANDSCAPE_1200/hilbert-simonse-TCv4X4BYm9s-unsplash.jpg"></media:thumbnail>
+			<media:content url="https://th-i.thgim.com/public/sci-tech/science/ovg345/article67550882.ece/alternates/LANDSCAPE_1200/hilbert-simonse-TCv4X4BYm9s-unsplash.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>The impact of Bangladesh’s garment workers strike | Explained</title>
 			<link>https://www.thehindu.com/news/international/the-impact-of-bangladeshs-garment-workers-strike-explained/article67555639.ece</link>
 			<description>Workers in Bangladesh's ready-made garment (RMG) sector are demanding a trebling of their minimum wages, sparking protests and strikes. Bangladesh is the world's second-largest exporter of fast fashion, and the RMG sector plays a significant role in the country's economy. The sector's main markets are the US, UK, Europe, and Canada. The RMG sector has been credited with reducing poverty in the country, but rising inflation and a decline in foreign exchange reserves have put pressure on workers' wages. Garment worker unions are demanding a minimum wage of BDT 23,000 ($208), while economists suggest a minimum living wage of BDT 33,368 ($302). The global fashion industry is also under scrutiny for its contribution to greenhouse gas emissions and climate change.</description>
@@ -25,10 +35,15 @@
 		<item>
 			<title>What community forest resources say about India’s forest plans | Explained</title>
 			<link>https://www.thehindu.com/sci-tech/energy-and-environment/community-forest-resources-conservation-moefcc-explained/article67551233.ece</link>
-			<description>Article found but Couldn't summarize 
-FRA is the world’s first such law, but its success depends on the government getting other laws to play along</description>
+			<description>The article discusses the Forest Rights Act (FRA) enacted by the Indian Parliament in 2006. The FRA was designed to address the insecure rights of forest-dwelling Scheduled Tribes and other traditional forest dwellers who were historically marginalized. It recognizes the need to protect forest rights on ancestral lands and habitat and aims to usher in democratic forest governance. The FRA grants various rights, such as individual rights for homestead and cultivation, community rights for common purposes, development rights for public utilities, and governance rights over community forest resources.
+
+The article highlights that despite the enactment of the FRA, there have been ongoing challenges with its implementation. Many forest areas that should have come under the habitation-level Gram Sabhas, the primary authority to determine and approve these rights, have not been recognized. The Ministry of Tribal Affairs has issued titles for forest rights in 18% of forest land, but it is unclear how much of this land is titled to the Gram Sabha as Community Forest Resource (CFR). The bureaucracy has been reluctant to generate CFR claims and recognize them.
+
+The article also mentions that several other laws related to forests, wildlife, and biodiversity have not been aligned with the FRA. Amendments have been made to include violation of forest rights under the Atrocities Act and the Right to Fair Compensation Act, but these provisions are often not honored.
+
+In conclusion, the author emphasizes the importance of defending the Forest Rights Act and empowering forest dwellers to protect their rights, especially in the face of climate change and ongoing dispossession.</description>
 			<pubDate>Mon, 20 Nov 2023 12:00:00 +0530</pubDate>
-			<ai_summary>False</ai_summary>
+			<ai_summary>True</ai_summary>
 			<media:thumbnail url="https://th-i.thgim.com/public/todays-paper/tp-national/tp-tamilnadu/no3rww/article67374401.ece/alternates/LANDSCAPE_1200/33-village-panc%2BGG9BQTITM.3.jpg.jpg"></media:thumbnail>
 			<media:content url="https://th-i.thgim.com/public/todays-paper/tp-national/tp-tamilnadu/no3rww/article67374401.ece/alternates/LANDSCAPE_1200/33-village-panc%2BGG9BQTITM.3.jpg.jpg" medium="image"></media:content>
 		</item>

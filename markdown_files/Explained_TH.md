@@ -1,3 +1,9 @@
+Tue, 21 Nov 2023 00:00:49 +0530
+### [Meet the Langlands Program, the world’s biggest maths project | Explained](https://www.thehindu.com/sci-tech/science/what-is-the-langlands-program-explained/article67550905.ece)
+
+Article found but Couldn't summarize 
+At the heart of the Program is an attempt to find connections between two far-flung areas of mathematics
+
 Mon, 20 Nov 2023 22:20:37 +0530
 ### [The impact of Bangladesh’s garment workers strike | Explained](https://www.thehindu.com/news/international/the-impact-of-bangladeshs-garment-workers-strike-explained/article67555639.ece)
 
@@ -11,8 +17,13 @@ This article discusses the ongoing protests in Tiruvannamalai district, Tamil Na
 Mon, 20 Nov 2023 12:00:00 +0530
 ### [What community forest resources say about India’s forest plans | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/community-forest-resources-conservation-moefcc-explained/article67551233.ece)
 
-Article found but Couldn't summarize 
-FRA is the world’s first such law, but its success depends on the government getting other laws to play along
+The article discusses the Forest Rights Act (FRA) enacted by the Indian Parliament in 2006. The FRA was designed to address the insecure rights of forest-dwelling Scheduled Tribes and other traditional forest dwellers who were historically marginalized. It recognizes the need to protect forest rights on ancestral lands and habitat and aims to usher in democratic forest governance. The FRA grants various rights, such as individual rights for homestead and cultivation, community rights for common purposes, development rights for public utilities, and governance rights over community forest resources.
+
+The article highlights that despite the enactment of the FRA, there have been ongoing challenges with its implementation. Many forest areas that should have come under the habitation-level Gram Sabhas, the primary authority to determine and approve these rights, have not been recognized. The Ministry of Tribal Affairs has issued titles for forest rights in 18% of forest land, but it is unclear how much of this land is titled to the Gram Sabha as Community Forest Resource (CFR). The bureaucracy has been reluctant to generate CFR claims and recognize them.
+
+The article also mentions that several other laws related to forests, wildlife, and biodiversity have not been aligned with the FRA. Amendments have been made to include violation of forest rights under the Atrocities Act and the Right to Fair Compensation Act, but these provisions are often not honored.
+
+In conclusion, the author emphasizes the importance of defending the Forest Rights Act and empowering forest dwellers to protect their rights, especially in the face of climate change and ongoing dispossession.
 
 Mon, 20 Nov 2023 10:30:00 +0530
 ### [‘Strong evidence’ unusual nitrogen-9 nucleus exists, scientists say](https://www.thehindu.com/sci-tech/science/nitrogen-9-nucleus-stability-challenge-nuclear-structure/article67550743.ece)
