@@ -1,3 +1,13 @@
+Tue, 21 Nov 2023 10:11:32 +0530
+### [Did OpenAI board inform Satya Nadella before firing Sam Altman? Microsoft CEO says…](https://www.livemint.com/technology/tech-news/did-openai-board-inform-satya-nadella-before-firing-sam-altman-microsoft-ceo-says-11700533098781.html)
+
+Microsoft CEO Satya Nadella addressed the controversy surrounding the firing of Sam Altman as CEO of OpenAI. Initial reports suggested that Nadella and Microsoft were blindsided by the decision, but Nadella later revealed that he was not made aware of any allegations against Altman, other than a breakdown in communication. Despite the majority of OpenAI employees signing an open letter demanding the resignation of the board of directors, Nadella expressed confidence in Altman and former OpenAI President Greg Brockman. He also stated that Altman is currently working for Microsoft and believed that would continue to be the case.
+
+Tue, 21 Nov 2023 09:03:45 +0530
+### [Elon Musk's X sues Media Matters over ad controversy, billionaire says ‘first of many’](https://www.livemint.com/technology/tech-news/elon-musks-x-sues-media-matters-over-ad-controversy-billionaire-says-first-of-many-11700533632475.html)
+
+Elon Musk's X Corp is suing Media Matters, a liberal media advocacy group, for allegedly manipulating social media algorithms and creating false posts to drive away advertisers. Musk stated that this is the first of many lawsuits against the group. The lawsuit claims that Media Matters manipulated algorithms on X to pair advertisers' paid posts with racist content, creating a false impression. Media Matters denies the allegations and stands behind its reporting. Musk faced controversy for endorsing a post on X that inaccurately claimed Jewish people were fueling hostility towards white people. Following this, several advertisers, including Disney and Apple, pulled their ads from the platform.
+
 Mon, 20 Nov 2023 20:42:44 +0530
 ### [LG smart TV for reliable watching: Choose from top 8 picks for your home](https://www.livemint.com/technology/gadgets/lg-smart-tv-for-reliable-watching-choose-from-top-8-picks-for-your-home-11700484874649.html)
 

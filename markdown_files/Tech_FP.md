@@ -1,3 +1,23 @@
+Tue, 21 Nov 2023 12:01:41 +0530
+### [From Quora’s Adam D’Angelo to Ilya Sutskever, meet the people behind Sam Altman's OpenAI ouster](https://www.firstpost.com/tech/from-quoras-adam-dangelo-to-ilya-sutskever-meet-the-people-behind-sam-altmans-openai-ouster-13411032.html)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！OpenAI's board of directors made the surprising decision to remove Sam Altman from his position as CEO and from the board, citing a lack of "consistently candid communication." Greg Brockman was also ousted from the board and subsequently resigned. This led to the departure of several key OpenAI researchers. Mira Murati briefly served as interim CEO before Emmett Shear, former CEO of Twitch, was appointed as the new chief executive.
+Microsoft's Satya Nadella attempted to mediate the situation and offered Altman, Brockman, and other top scientists and executives from OpenAI to join Microsoft and lead a research project. However, reports suggest that this offer may have been a ploy by Nadella to protect Microsoft's stock from plummeting.
+The board's decision to remove Altman faced significant criticism, with Ilya Sutskever being labeled as the mastermind behind it. As a result, the board underwent a shake-up, bringing in new members.
+Adam D'Angelo, co-founder and CEO of Quora, joined the OpenAI board in 2018. He has extensive experience in AI and machine learning and played a crucial role in the development of Quora's generative AI chatbot platform called Poe.
+Tasha McCauley, CEO of GeoSim Systems and a prominent robotics engineer, has made notable contributions to the field of robotics, particularly in retail. Helen Toner, director of strategy and foundational research grants at Georgetown University's Center for Security and Emerging Technology (CSET), is recognized for her influence in AI policy and development. Lastly, Ilya Sutskever, co-founder and chief scientist at OpenAI, played a central role in the dismissal of Altman and Brockman but later expressed regret over the decision.
+Altman's removal caused upheaval within OpenAI and attracted attention from investors and the industry at large.
+
+Tue, 21 Nov 2023 10:35:06 +0530
+### [Sam Altman’s move to Microsoft a ruse? Satya Nadella, investors want him as OpenAI CEO](https://www.firstpost.com/tech/sam-altmans-move-to-microsoft-a-ruse-ceo-satya-nadella-investors-want-him-as-openai-ceo-13410852.html)
+
+According to sources, Sam Altman will not be returning to OpenAI as CEO. Instead, Emmett Shear of Twitch will serve as interim CEO. Altman's dismissal resulted in the departure of key figures and investor support for his return. Greg Brockman, OpenAI president and co-founder, has also stepped down as chairman of the board.According to sources, Sam Altman will not be returning to OpenAI as CEO. Instead, Emmett Shear of Twitch will be named interim CEO. Altman's dismissal resulted in high-profile departures from OpenAI, and investors have reportedly supported his return. Greg Brockman, the president and co-founder of OpenAI, has also stepped down as the chairman of the board.
+
+Tue, 21 Nov 2023 09:45:27 +0530
+### [OpenAI staff, investors to sue directors who fired Sam Altman, Greg Brockman for massive financial loss](https://www.firstpost.com/tech/openai-staff-investors-to-sue-directors-who-fired-sam-altman-greg-brockman-for-massive-financial-loss-13410662.html)
+
+OpenAI, the company behind ChatGPT, is facing significant challenges. The removal of CEO Sam Altman and other board members has led to potential legal action from investors. These investors are concerned about the financial risks they face and are consulting legal advisors. Additionally, over 700 employees have threatened mass resignations unless the current board is replaced. The unique structure of OpenAI, with control lying with its non-profit parent company, gives employees more leverage than venture capitalists. Microsoft holds a 49% stake in OpenAI, while other investors and employees collectively control another 49%. The likelihood of an IPO in the near future seems highly improbable given the current circumstances.
+
 Mon, 20 Nov 2023 17:34:55 +0530
 ### [Linda Yaccarino to quit? X CEO faces call to resign amid advertiser backlash over Elon Musk](https://www.firstpost.com/tech/linda-yaccarino-to-quit-x-ceo-faces-call-to-resign-amid-advertiser-backlash-over-elon-musk-13409042.html)
 

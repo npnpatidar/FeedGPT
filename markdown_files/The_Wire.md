@@ -1,3 +1,57 @@
+2023-11-21T12:00:50+05:30
+### [Gaza Diaries: The Tragedy as Experienced By Mental Health Professionals](https://thewire.in/health/gaza-diaries-the-tragedy-as-experienced-by-mental-health-professionals)
+
+No Article text 
+'We die every day, in many ways, until we confused the definition of salvation; is it that you survive shelling and live, or die in martyrdom to be saved from such a life?'
+
+2023-11-21T10:55:27+05:30
+### ['Would Literally Turn Criminal Law on its Head': What J&K HC Said While Granting Fahad Shah Bail](https://thewire.in/law/fahad-shah-jammu-kashmir-high-court-order)
+
+No Article text 
+'It would mean that any criticism of the central government can be described as a terrorist act because the honour of India is its incorporeal property.'
+
+2023-11-21T10:53:45+05:30
+### [Union to SC: ‘28 States/UTs Appoint Nodal Officers to Tackle Hate Speech Under 2018 Guidelines’](https://thewire.in/law/union-to-sc-28-states-uts-appoint-nodal-officers-to-tackle-hate-speech-under-2018-guidelines)
+
+No Article text 
+The status report was filed by the Union in response to a batch of petitions seeking directions to curb hate speech.
+
+2023-11-21T09:00:11+05:30
+### [Sympathy for Israel Has Evaporated, All Eyes Are on Ceasefire Now](https://thewire.in/world/sympathy-for-israel-has-evaporated-all-eyes-are-on-ceasefire-now)
+
+No Article text 
+The people of the world understand well the evil intent of Israel to eliminate Palestinians and have risen against it.
+
+2023-11-21T08:30:26+05:30
+### [How Social Media Is Breathing New Life Into Bhutan’s Unwritten Local Languages](https://thewire.in/south-asia/social-media-breathing-new-life-bhutan-unwritten-local-languages)
+
+No Article text 
+By communicating through voice messages, social media is giving Bhutanese people in both urban and rural areas a new opportunity to use their local language.
+
+2023-11-21T08:15:01+05:30
+### [Why the Mass Protest Decade of 2010-2020 Left Us with a ‘Missing Revolution’](https://thewire.in/books/mass-protest-decade-vincent-bevins-book-review)
+
+No Article text 
+The 'missing revolution' is reason enough to interrogate the fizz and the fury behind people pouring onto the streets. It is time to ask some tough questions about why so little changed, if there was so much heat and noise.
+
+2023-11-21T08:00:54+05:30
+### [‘Plastic Rice’: Why the Govt’s Experiment With an Artificial Grain is Hard to Swallow for Rural Adivasis](https://thewire.in/rights/plastic-rice-why-union-govts-experiment-with-an-artificial-grain-is-hard-to-swallow-for-rural-adivasis)
+
+No Article text 
+Rice growing farmer communities refuse to accept new fortified rice kernels, while public health experts express concern at the food scheme’s lack of safety mechanisms for vulnerable groups.
+
+2023-11-21T07:30:43+05:30
+### [Cricket Mata Ki Jai: Jingoism Lost in Ahmedabad on Sunday](https://thewire.in/sport/cricket-mata-ki-jai-jingoism-lost-in-ahmedabad-on-sunday)
+
+No Article text 
+That India lost in the final was karmic payback for the BCCI’s sins against the game, and also for the Ahmedabad crowd’s unwillingness to be sporting and civilised.
+
+2023-11-21T07:00:38+05:30
+### [What Explains the Political Right’s Ascendancy to Global Power?](https://thewire.in/political-economy/what-explains-the-political-rights-ascendancy-to-global-power)
+
+No Article text 
+Instances of large-scale public corruption (or an environment of perceived corrupt political elite) and a rise in religious conservatism, in addition to other factors, contributed to the rise of right-wing populist movements.
+
 2023-11-20T23:32:51+05:30
 ### [Xi, Putin to Attend BRICS Virtual Meet on Israel-Hamas War, Modi to Skip](https://thewire.in/diplomacy/xi-putin-to-attend-brics-virtual-meet-on-israel-hamas-war-modi-to-skip)
 
@@ -112,11 +166,23 @@ The application highlighted that according to the May 17 order of the top court,
 No Article text 
 “The idea that I am pro-terrorism is absolute nonsense. My words were absolutely taken out of context,” Vanaik said.
 
+2023-11-20T09:23:45+05:30
+### [Argentina: Outsider Javier Milei Wins Presidential Vote](https://thewire.in/world/argentina-outsider-javier-milei-wins-presidential-vote)
+
+No Article text 
+Peronist Economy Minister Sergio Massa has admitted defeat.
+
 2023-11-20T09:03:10+05:30
 ### [A Few Sobering – But Essential – Lessons in Leadership From the Cricket World Cup](https://thewire.in/politics/narendra-modi-stadium-rohit-sharma-pat-cummins-leadership)
 
 No Article text 
 In recent years, however, we have managed to crowd heroes and achievers out of a national imagination that has not allowed to look beyond the 'inspirational' and 'visionary' leadership of one man.
+
+2023-11-20T08:33:59+05:30
+### [Israeli Parliament Set to Discuss Legalising ‘Death Penalty Law for Palestinian Prisoners’](https://thewire.in/world/israeli-parliament-set-to-discuss-legalising-death-penalty-law-for-palestinian-prisoners)
+
+No Article text 
+In a preliminary reading last March, the Knesset approved the draft law that would allow courts to impose the death penalty on Palestinian prisoners convicted of killing Israelis.
 
 2023-11-20T07:00:34+05:30
 ### [Is There Life After Electoral Bonds?](https://thewire.in/law/is-there-life-after-electoral-bonds)

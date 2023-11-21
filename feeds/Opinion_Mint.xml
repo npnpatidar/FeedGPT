@@ -5,6 +5,45 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Opinion_Mint.xml</link>
 		<description>Opinion Mint</description>
 		<item>
+			<title>Twitter didn’t, can X survive Elon Musk?</title>
+			<link>https://www.livemint.com/opinion/online-views/twitter-didn-t-can-x-survive-elon-musk-11700541725064.html</link>
+			<description>Article found but Couldn't summarize 
+The trigger for the pullout by advertisers was Elon Musk’s recent endorsement of a weird conspiracy theory associated with racist antisemitic groups</description>
+			<pubDate>Tue, 21 Nov 2023 11:15:51 +0530</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://www.livemint.com/lm-img/img/2023/11/21/1600x900/ISRAEL-PALESTINIANS-USA-MUSK-2_1700474593270_1700542115054.JPG"></media:thumbnail>
+			<media:content url="https://www.livemint.com/lm-img/img/2023/11/21/1600x900/ISRAEL-PALESTINIANS-USA-MUSK-2_1700474593270_1700542115054.JPG" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Think before bandying a baseless GDP figure about</title>
+			<link>https://www.livemint.com/opinion/quick-edit/think-before-bandying-a-baseless-gdp-figure-about-11700494308847.html</link>
+			<description>Article found but Couldn't summarize 
+Has our economy exceeded $4 trillion? Let’s hold our horses and wait for official GDP estimates, which will take time to ascertain. Meanwhile, it’s unclear what tom-tomming such a figure achieves.</description>
+			<pubDate>Tue, 21 Nov 2023 08:00:16 +0530</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://www.livemint.com/lm-img/img/2023/11/20/1600x900/rupee4-kJV--621x414LiveMint_1700495742226_1700495742399.jpg"></media:thumbnail>
+			<media:content url="https://www.livemint.com/lm-img/img/2023/11/20/1600x900/rupee4-kJV--621x414LiveMint_1700495742226_1700495742399.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Be it cricket or AI, never underestimate the strategic value of grace</title>
+			<link>https://www.livemint.com/opinion/online-views/be-it-cricket-or-ai-never-underestimate-the-strategic-value-of-grace-11700493171208.html</link>
+			<description>您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！The article discusses the importance of grace in different contexts. It mentions how cricket fans' lack of appreciation for the opposing team affected the morale of Indian players. It also talks about the controversial ouster of Sam Altman from OpenAI and the potential impact it had on the company. The article emphasizes the need for caution and oversight in AI expansion. Overall, grace could have made a difference in both cases.The article discusses the importance of grace in different contexts. It mentions how cricket fans' lack of appreciation for the opposing team affected the morale of Indian players. It also talks about the controversial ouster of Sam Altman from OpenAI and the potential impact it had on the company. The article emphasizes the need for caution and oversight in AI expansion. Overall, grace could have made a difference in both cases.</description>
+			<pubDate>Tue, 21 Nov 2023 08:00:15 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://www.livemint.com/lm-img/img/2023/11/20/1600x900/US-ALLEN---COMPANY-ANNUAL-CONFERENCE-DRAWS-MEDIA-A_1690205696217_1700493284737.jpg"></media:thumbnail>
+			<media:content url="https://www.livemint.com/lm-img/img/2023/11/20/1600x900/US-ALLEN---COMPANY-ANNUAL-CONFERENCE-DRAWS-MEDIA-A_1690205696217_1700493284737.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>We need well-designed and nationally-accepted tools to measure social inequality</title>
+			<link>https://www.livemint.com/opinion/online-views/we-need-well-designed-and-nationally-accepted-tools-to-measure-social-inequality-11700492738849.html</link>
+			<description>Article found but Couldn't summarize 
+India needs to go beyond exhaustive census counts to build a rich database on caste inequality. It may help to combine a proper headcount with intensive field studies.</description>
+			<pubDate>Tue, 21 Nov 2023 08:00:15 +0530</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://www.livemint.com/lm-img/img/2023/11/20/1600x900/20230802-PAT-SK-MN---Caste-census--09-0_1696246541319_1700492829248.JPG"></media:thumbnail>
+			<media:content url="https://www.livemint.com/lm-img/img/2023/11/20/1600x900/20230802-PAT-SK-MN---Caste-census--09-0_1696246541319_1700492829248.JPG" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Impact-focused NGOs must keep up with India's rapid economic growth</title>
 			<link>https://www.livemint.com/opinion/online-views/impactfocused-ngos-must-keep-up-with-indias-rapid-economic-growth-11700492444996.html</link>
 			<description>India lacks a unified registry of non-profit organizations (NGOs), making it difficult to gather data on their size, funding patterns, and sectoral trends. However, a recent attempt to map the top 200 non-profits in India revealed that they have an annual budget range of ₹10 crore to ₹800 crore and secure about ₹8,000-9,000 crore in funding each year. The funding is split almost equally between domestic and foreign sources. The top fields these NGOs work in include children, community development, education, healthcare, and livelihood. About 18% of these NGOs have a global origin or affiliation, and they received 30% of the total funding. To support the growth of impact-focused NGOs, India needs a regulatory overhaul, nuanced policy measures, a focus on organization building, and increased transparency and trust.</description>
@@ -43,10 +82,9 @@
 		<item>
 			<title>India lost the World Cup, but it was probably not a loss for the economy</title>
 			<link>https://www.livemint.com/opinion/online-views/india-lost-the-world-cup-but-it-was-probably-not-a-loss-for-the-economy-11700470295865.html</link>
-			<description>Article found but Couldn't summarize 
-It is indeed sad India did not win the World Cup, but the only clear losers here are those who hoped to ride a wave of nationalism</description>
+			<description>India's loss in the cricket World Cup left millions of fans heartbroken, but hosting the tournament provided a boost to the Indian economy. The semifinals and finals were celebrated nationwide with large gatherings at restaurants, pubs, and homes. Sales of sweets, milk solids, nuts, and flavoring agents increased as people anticipated victory celebrations. Tournament venues were spruced up, generating revenue and employment for suppliers, contractors, and workers. Quick service restaurants, food delivery businesses, and commerce companies reported record orders on match days. Hotel room tariffs and restaurant bookings boomed in match-hosting cities, and airfares to the final soared. Team India jersey sales and television sales also spiked. Retail finance providers saw brisk business, while advertisers made high-impact commercials during the matches. Telecom operators experienced high data traffic, leading to increased demand for broadband and technology services. Cricket-related industries such as kit manufacturers and training academies benefited from the enthusiasm generated by the game. While India's loss was disappointing, those hoping to capitalize on a wave of nationalism as a result of a World Cup win were the true losers.</description>
 			<pubDate>Mon, 20 Nov 2023 15:03:08 +0530</pubDate>
-			<ai_summary>False</ai_summary>
+			<ai_summary>True</ai_summary>
 			<media:thumbnail url="https://www.livemint.com/lm-img/img/2023/11/20/1600x900/CRICKET-WORLDCUP-IND-AUS--897_1700450511440_1700472496214.JPG"></media:thumbnail>
 			<media:content url="https://www.livemint.com/lm-img/img/2023/11/20/1600x900/CRICKET-WORLDCUP-IND-AUS--897_1700450511440_1700472496214.JPG" medium="image"></media:content>
 		</item>
