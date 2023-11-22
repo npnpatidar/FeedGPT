@@ -1,3 +1,15 @@
+Tue, 21 Nov 2023 22:30:00 +0530
+### [Coal isn’t easy to exclude from sustainable development | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/coal-role-india-sustainable-development-explained/article67557406.ece)
+
+Article found but Couldn't summarize 
+In theory, the argument that switching to renewable energy will generate investments and jobs is elegant. Reality is something else.
+
+Tue, 21 Nov 2023 15:40:52 +0530
+### [What is Hezbollah and what is its involvement in the Israel-Hamas war? | Explained](https://www.thehindu.com/news/international/what-is-hezbollah-and-what-is-its-involvement-in-the-israel-hamas-war-explained/article67460703.ece)
+
+Article found but Couldn't summarize 
+Experts believe that if the Israel-Hamas war spills onto a second front apart from Gaza, it will be on the Israel-Lebanon border, against Hezbollah.
+
 Tue, 21 Nov 2023 10:30:00 +0530
 ### [What the OECD report says of climate finance ahead of COP 28 | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/oecd-report-climate-finance-cop-28-explained/article67555060.ece)
 

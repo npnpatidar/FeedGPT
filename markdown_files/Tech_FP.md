@@ -1,3 +1,79 @@
+Wed, 22 Nov 2023 14:00:18 +0530
+### [Elon Musk, X Corp to donate all revenue from ad sales on X to hospitals in Gaza, Israel](https://www.firstpost.com/tech/elon-musk-x-corp-to-donate-revenue-from-ad-sales-on-x-to-hospitals-in-gaza-israel-13417012.html)
+
+Elon Musk's social media platform, X, will donate all advertising revenue associated with the conflict in Gaza to hospitals in Israel and the Red Cross/Crescent in Gaza. X Corp, the company behind the platform, will track how the funds are spent to ensure they reach the intended recipients and not Hamas. This decision comes amidst intense fighting between the Israel Defence Force and Hamas, resulting in numerous casualties. Additionally, Musk's satellite network, Starlink, will provide connectivity to aid organizations in Gaza. However, X has faced a decline in advertiser support due to concerns about controversial content. Musk has addressed concerns about fund allocation, stating that the funds will go through the Red Cross/Crescent to prevent them from reaching Hamas. Despite these philanthropic efforts, Musk's controversial posts have led to tensions on the platform. Advertisers remain cautious, leading to legal actions against organizations reporting such issues.
+
+Wed, 22 Nov 2023 13:37:40 +0530
+### [AI speaks: OpenAI’s Greg Brockman unveils new ChatGPT Voice feature, amid Sam Altman drama](https://www.firstpost.com/tech/ai-speaks-openais-greg-brockman-unveils-new-chatgpt-voice-feature-amid-sam-altman-drama-13416672.html)
+
+OpenAI has introduced a new feature called ChatGPT Voice, which allows users to engage in voice-based conversations with the AI model. This upgrade aims to enhance the user experience and make interactions more natural. ChatGPT Voice utilizes OpenAI's voice technology, Whisper, which analyzes real human voices to generate realistic responses. The feature offers five distinct voices for a more conversational feel. Despite recent leadership turmoil and employee unrest, OpenAI remains committed to advancing AI capabilities and satisfying users. The release of ChatGPT Voice underscores their determination to prioritize technological development and accessibility.
+
+Wed, 22 Nov 2023 12:59:42 +0530
+### [Who is Binance’s Chanpeng Zhao aka CZ, the latest ‘crypto czar’ to fall from grace](https://www.firstpost.com/tech/who-is-binances-chanpeng-zhao-or-cz-the-latest-crypto-titan-to-fall-from-grace-13416272.html)
+
+Changpeng Zhao, also known as CZ, the Founder and CEO of Binance, the world's largest cryptocurrency exchange, has resigned from his position after pleading guilty to violating US anti-money laundering laws. He has agreed to a personal payout of $50 million as part of a $4.3 billion settlement deal. Binance will pay $1.81 billion within 15 months and another $2.51 billion forfeiture. Despite this setback, legal experts see the deal as favorable for Zhao personally, allowing him to retain his wealth and stake in Binance, although he will no longer have control over the platform. Zhao's journey reflects the transformative power of blockchain technology and the dynamic evolution of the crypto industry.
+
+Wed, 22 Nov 2023 12:07:23 +0530
+### [OpenAI drama ends, Sam Altman reinstated as CEO, AI company constitutes new board](https://www.firstpost.com/tech/openai-drama-ends-sam-altman-reinstated-as-ceo-ai-company-constitutes-new-board-13415992.html)
+
+Sam Altman has been reinstated as CEO of OpenAI after being ousted by the company's board. This decision comes after a campaign led by Altman's allies, employees, and investors, resulting in a reshaping of the board. The new initial board consists of Bret Taylor as Chair, Larry Summers, and Adam D'Angelo. Altman expressed his excitement to return to OpenAI and build on the partnership with Microsoft. Microsoft CEO Satya Nadella also voiced support for Altman's role in OpenAI's leadership team. Altman's removal from his position shocked both him and the company's employees, leading to protests and threats of employee walkouts. The potential overhaul of the board signifies a significant shift in OpenAI's leadership and strategy.
+
+Wed, 22 Nov 2023 11:21:32 +0530
+### [Microsoft wants a bigger board for OpenAI, discussing governance changes to reinstate Sam Altman](https://www.firstpost.com/tech/microsoft-wants-a-bigger-board-for-openai-discussing-governance-changes-to-reinstate-sam-altman-13415682.html)
+
+Microsoft is pushing for governance changes at OpenAI to ensure Sam Altman's return as CEO. They are discussing expanding the board and raising the experience threshold for members. Microsoft wants to address perceived governance issues that led to Altman's dismissal. They are also considering reinforcing their existing deal, which requires board approval for mergers. Microsoft has invested $13 billion in OpenAI and is awaiting the formation of a new board to initiate discussions. Negotiations are underway to explore the possibility of Altman's reinstatement. Microsoft CEO Satya Nadella emphasized the need for significant governance changes at OpenAI, regardless of Altman's return. Microsoft may also place one of its executives on OpenAI's board.
+
+Wed, 22 Nov 2023 10:59:18 +0530
+### [Binance CEO Changpeng Zhao resigns, pleads guilty to money laundering case for $4.3 billion](https://www.firstpost.com/tech/binance-ceo-changpeng-zhao-resigns-pleads-guilty-to-money-laundering-case-for-4-3-billion-13415512.html)
+
+Changpeng Zhao, the former CEO of Binance, has resigned and pleaded guilty to violating US anti-money laundering laws as part of a $4.3 billion settlement. He personally paid $50 million and is now prohibited from any involvement with Binance. This settlement resolves a lengthy investigation into the world's largest cryptocurrency exchange. Zhao acknowledged his resignation in a tweet, taking responsibility for his mistakes. The uncertainty surrounding his future includes the possibility of a prison sentence. Binance has appointed a new CEO, Richard Teng, and Zhao expressed confidence in his leadership. The extent of Zhao's control over Binance's associated entities remains unclear.
+
+Wed, 22 Nov 2023 10:12:46 +0530
+### [Fighting Deepfakes: Indian government to meet executives from social media firms, discuss issues](https://www.firstpost.com/tech/fighting-deepfakes-indian-government-to-meet-executives-from-social-media-firms-discuss-issues-13415382.html)
+
+The Indian government is planning to hold discussions with social media platforms and internet companies to address the issue of deepfakes. The meeting aims to establish a standard operating procedure (SoP) with guidelines for handling deepfake content. Deep-fake is classified as impersonation and misinformation under Rule 3(2)(b) of the IT Rules. The Union IT Minister emphasized that platforms must make efforts to combat deepfake content, and the safe harbor clause in the IT Act would not apply if they fail to do so. Prime Minister Narendra Modi expressed concerns about the harm caused by deepfakes and recommended disclaimers for such content. Earlier, the Ministry of Electronics and Information Technology issued an advisory to take action against deepfake content according to IT Rules and the IT Act.
+
+Wed, 22 Nov 2023 09:44:09 +0530
+### [Sam Altman, OpenAI restart negotiations for his return as CEO](https://www.firstpost.com/tech/sam-altman-openai-restart-negotiations-for-his-return-as-ceo-13415242.html)
+
+OpenAI and Sam Altman are in discussions for his potential reinstatement as CEO of the AI studio. The negotiations involve Altman, CEO Emmett Shear, board member Adam D’Angelo, and key investors. Shareholders such as Thrive Capital, Khosla Ventures, Tiger Global Management, and Sequoia Capital are supporting Altman's return. Altman could potentially return as CEO or become a director on a transitional board. Former Salesforce co-CEO Bret Taylor is also being considered for a director role. The previous reluctance of the board to engage with Altman is seen as a significant development. Efforts are being made to resolve the leadership issues before Thanksgiving to provide clarity to employees. Approximately 500 of OpenAI's 700 employees have indicated they may follow Altman if he is not reinstated.
+
+Tue, 21 Nov 2023 17:05:05 +0530
+### [Apple Watch Series 9 Review: The most well-rounded smartwatch that money can buy](https://www.firstpost.com/tech/apple-watch-9-review-the-most-rounded-and-complete-smartwatch-money-can-buy-13413132.html)
+
+Article found but Couldn't summarize 
+Apple Watch Series 9 Review: The most well-rounded smartwatch that money can buy
+
+Tue, 21 Nov 2023 15:53:44 +0530
+### [WhatsApp gets Meta’s new AI chatbot. Here’s how it works](https://www.firstpost.com/tech/whatsapp-gets-metas-new-ai-chatbot-heres-how-it-works-13412772.html)
+
+Meta has announced the integration of an AI chatbot into WhatsApp, initially limited to users in the United States. The chatbot can answer questions, provide customer support, and assist with tasks like scheduling appointments. It leverages Meta's latest large language model research and collaboration with Microsoft's Bing Chat for real-time web results. Meta's AI assistant also allows users to generate realistic images using a simple command. WhatsApp is undergoing enhancements, including a feature that simplifies access to muted status updates.Meta has announced the integration of an AI chatbot into WhatsApp, initially limited to users in the United States. The chatbot can answer questions, provide customer support, and assist with tasks like scheduling appointments. It leverages Meta's latest large language model research and collaboration with Microsoft's Bing Chat for real-time web results. Meta's AI assistant also allows users to generate realistic images using a simple command. WhatsApp is undergoing enhancements, including a feature that simplifies access to muted status updates.
+
+Tue, 21 Nov 2023 15:31:21 +0530
+### [Secret deal between Google &amp; Spotify let music streaming company bypass Play Store fees](https://www.firstpost.com/tech/secret-deal-between-google-spotify-let-music-streaming-company-bypass-play-store-fees-13412452.html)
+
+In the ongoing Epic vs Google trial, it was revealed that Spotify had a special deal with Google regarding Android-based payments. Spotify paid a 0% commission when users subscribed through their own system, but if users chose Google as their payment processor, Spotify paid a reduced 4% commission. This was significantly less than Google's standard 15% fee. The details of the Spotify deal were initially kept confidential by Google. The User Choice Billing program by Google reduces the Play Store commission by around 4% if developers use their own payment system. Google emphasized the program's flexibility rather than cost savings. The special arrangement with Spotify was justified by Google due to Spotify's popularity and the need for seamless integration with Android services. Both companies committed $50 million each to a "success fund" as part of the deal. While Netflix declined a discounted 10% rate offered by Google, Spotify found a less contentious and more cost-effective resolution with Google by avoiding in-app purchase fees.
+
+Tue, 21 Nov 2023 14:20:15 +0530
+### [Something fishy: Global AI, military leaders met in a closed-door meeting in Utah, US](https://www.firstpost.com/tech/something-fishy-global-ai-military-leaders-met-in-a-closed-door-meeting-in-utah-us-13412192.html)
+
+OpenAI's competitor, Scale AI, recently organized a closed-door summit in Utah with AI and military leaders. The summit, hosted by Scale AI, aimed to facilitate discussions on industry challenges and featured representatives from the military and AI sector. While the summit covered topics like AI advancement and artificial general intelligence, it took place without prior knowledge of the subsequent leadership changes at OpenAI. The event blended serious discussions with recreational activities, and its details remain confidential.OpenAI's competitor, Scale AI, recently organized a closed-door summit in Utah with AI and military leaders. The summit, hosted by Scale AI, aimed to facilitate discussions on industry challenges and featured representatives from the military and AI sector. While the summit covered topics like AI advancement and artificial general intelligence, it took place without prior knowledge of the subsequent leadership changes at OpenAI. The event blended serious discussions with recreational activities, and its details remain confidential.
+
+Tue, 21 Nov 2023 13:49:11 +0530
+### [Boost for Make in India: GoI approves subsidies for Foxconn, Lenovo, other hardware firms under PLI scheme](https://www.firstpost.com/tech/boost-for-make-in-india-indian-government-approves-subsidies-for-foxconn-lenovo-other-hardware-firms-under-pli-scheme-13412022.html)
+
+India has approved subsidies for 27 tech hardware companies, including Dell, HP, and Asus, under the Production Linked Incentive (PLI) scheme. This initiative aims to enhance domestic manufacturing and create jobs. The subsidies are expected to directly generate 50,000 jobs and indirectly contribute to 150,000 more. The approved companies will focus on domestic assembly of desktop and laptop PCs, tablets, and other tech hardware. The move aligns with India's goal to become a key player in the global electronics supply chain and reduce reliance on imports from China.
+
+Tue, 21 Nov 2023 12:56:35 +0530
+### [Tesla in India: Elon Musk’s EV company set to sign deal to start importing cars, set up $2bn factory](https://www.firstpost.com/tech/auto-tech/tesla-in-india-elon-musks-ev-company-set-to-sign-deal-to-start-importing-cars-set-up-2bn-factory-13411812.html)
+
+Tesla is reportedly planning to enter the Indian market by importing its electric cars starting in 2024, with the possibility of establishing a manufacturing facility in the next two years. The company is expected to invest around $2 billion for the plant and increase its auto parts purchases from India up to $15 billion. Tesla may also explore manufacturing batteries in India. Potential locations for the manufacturing plant include Gujarat, Maharashtra, and Tamil Nadu. This move aligns with India's efforts to boost domestic electric vehicle manufacturing and cleaner transportation. Despite facing challenges, such as high import tariffs, Tesla's entry into India could tap into the growing demand for electric vehicles among the middle class.
+
+Tue, 21 Nov 2023 12:28:44 +0530
+### [Elon Musk sues media watchdog for report on anti-Semitic content on X that led to exodus of advertisers](https://www.firstpost.com/tech/elon-musk-sues-watchdog-for-report-on-anti-semitic-content-on-x-that-led-to-exodus-of-advertisers-13411612.html)
+
+Elon Musk and X Corp are suing Media Matters for defamation over a report that claimed X showed ads from prominent tech brands alongside content promoting Nazism. The report led to major advertisers withdrawing their ads from X. Musk announced on social media that X intends to file a lawsuit against Media Matters and others involved. X's CEO acknowledged the pause in investments by some advertisers but disputed the report's claims. Media Matters countered X's statements, citing instances of ads appearing alongside harmful content. This legal dispute adds to the challenges faced by X under Musk's leadership.
+
 Tue, 21 Nov 2023 12:01:41 +0530
 ### [From Quora’s Adam D’Angelo to Ilya Sutskever, meet the people behind Sam Altman's OpenAI ouster](https://www.firstpost.com/tech/from-quoras-adam-dangelo-to-ilya-sutskever-meet-the-people-behind-sam-altmans-openai-ouster-13411032.html)
 

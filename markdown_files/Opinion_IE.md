@@ -1,3 +1,98 @@
+Wed, 22 Nov 2023 06:31:30 +0000
+### [What male CEOs like Narayana Murthy don’t get about working women and the youth](https://indianexpress.com/article/opinion/columns/what-male-ceos-like-narayana-murthy-dont-get-about-working-women-and-the-youth-9037361/)
+
+In a recent podcast, Narayana Murthy expressed his support for implementing 70-hour workweeks in India, citing the examples of Germany and Japan after World War II. However, this viewpoint overlooks the gender disparities and disproportionate burden of work that women already face. Women typically take on domestic, caregiving, and professional responsibilities, often earning less and being relegated to secondary income earners at home.
+
+Implementing longer work hours without addressing these disparities would exacerbate challenges faced by women and hinder their progress. The low Labour Force Participation Rate (LFPR) for women, standing at 30%, calls for encouragement rather than further barriers. Additionally, the idea of a 70-hour workweek fails to consider the realities of Indian life, such as commuting time and family commitments, as well as concerns about women's safety.
+
+Advocating for excessive work hours raises concerns about physical and mental health issues, decreased productivity, and burnout. Instead, a balanced work-life approach promotes sustainable career growth and overall well-being, with evidence linking increased happiness to enhanced productivity. Successful organizations are recognizing the importance of flexible work arrangements and result-oriented performance, which allow individuals, especially women, to balance their personal and professional lives effectively.
+
+Data from the International Labour Organisation (ILO) shows that Indian workers already work longer hours compared to many other countries, including Japan. Coupled with meager wages and income disparities, particularly affecting women, it becomes clear that the focus should be on creating more employment opportunities rather than taxing existing workers.
+
+Leaders and organizations should prioritize fostering a culture of productivity, efficiency, and work-life balance instead of endorsing extended work hours. Flexible schedules and responsibilities can lead to greater job satisfaction, reduced attrition rates, increased productivity, and contribute to building a more egalitarian society that benefits women in both their domestic and professional spheres.
+
+Wed, 22 Nov 2023 01:56:45 +0000
+### [How the armed forces can be prepared for transgender personnel](https://indianexpress.com/article/opinion/columns/transgender-rights-section-377-lgbtq-community-millennia-world-9036856/)
+
+This article discusses the growing acceptance of the transgender community and the need for inclusivity. It highlights that some individuals are born with a mismatch between their chromosomal, physical, hormonal, and emotional genders, emphasizing the importance of recognizing this as natural. The article acknowledges the progress being made in the inclusion of transgender individuals, particularly in the more developed world, and calls for proactive action to help them be integrated into society more quickly.
+
+The challenges faced by transgender persons, including identity crises, discrimination, social stigma, lack of educational opportunities, and unemployment, are mentioned. The article mentions India's efforts to address these issues through legislation, such as the Transgender Persons (Protection of Rights) Act of 2019, and the recent consideration of inclusion in the armed forces.
+
+The armed forces are described as reflecting the characteristics of society and operating under a strong code of discipline. The author suggests that the introduction of transgender personnel should be carefully calibrated to ensure acceptability within the armed forces and society at large. The article stresses the importance of considering competence, educational background, and capabilities when assessing transgender personnel for service.
+
+A social awareness strategy is recommended within the armed forces to promote understanding and acceptance. The author draws parallels with the integration of women in the armed forces' medical services, suggesting that transgender personnel could follow a similar path. It is proposed that initial appointments for transgender individuals should prioritize their dignity and self-respect and gradually increase visibility and responsibility based on abilities and merit.
+
+The article concludes by emphasizing the need for wide discussion and debate within the armed forces before implementing measures for the inclusion of transgender personnel. It also suggests involving the transgender community in the decision-making process to create a transparent and just environment for this marginalized group.
+
+Wed, 22 Nov 2023 01:37:35 +0000
+### [How former RBI governor S Venkitaramanan helped steer India out of the balance of payment crisis](https://indianexpress.com/article/opinion/columns/how-former-rbi-governor-s-venkitaramanan-helped-steer-india-out-of-the-balance-of-payment-crisis-9036870/)
+
+The late S Venkitaramanan, former governor of the Reserve Bank of India (RBI), faced a challenging balance of payment problem during his tenure. To bridge the gap, the RBI borrowed around USD 405 million by pledging gold reserves kept outside India. Venkitaramanan tapped into his international connections to raise the necessary foreign exchange. The government also approached the International Monetary Fund (IMF) for assistance, specifically the Compensatory and Contingency Financing Facility (CCFF). Additionally, the rupee was devalued in two steps under the new government in 1991. Venkitaramanan, known for his sharp mind and reformist approach, played a crucial role in making the right decisions at the right time.
+
+Wed, 22 Nov 2023 01:30:46 +0000
+### [The second quarter report card has signs of optimism](https://indianexpress.com/article/opinion/columns/kharif-crop-rabi-crop-gdp-growth-india-agricultural-growth-9036852/)
+
+The article discusses the factors that could impact GDP growth in the second quarter of the financial year. The second quarter is typically stable, but this year may be different due to various reasons. Companies have been optimistic and prepared in advance for increased demand. Bank credit to the retail segment has increased, reflecting households borrowing for consumption. The Cricket World Cup has boosted the services sector, particularly travel and tourism. Indicators such as Index of Industrial Production (IIP) growth, high growth rates in steel and cement, and GST collections suggest a positive trend in GDP growth. Quarterly growth in credit and deposits also indicates impressive growth rates in the financial services industry. Additionally, corporate profits are high, contributing to value-added growth. The RBI projected growth at 6.5%, but it could be slightly lower at 6.2-6.4%. However, nominal GDP growth may be closer to real GDP growth due to negative WPI inflation. The article also highlights potential challenges, including weak rural demand, high inflation impacting consumer spending, and cautious private sector investment. Overall, the second quarter is expected to be a consolidation quarter, setting the base for higher growth next year.
+
+Wed, 22 Nov 2023 01:18:48 +0000
+### [J&K High Court underlines that criticism of a government can’t be called a terrorist act — and draws a vital red line](https://indianexpress.com/article/opinion/editorials/jk-high-court-underlines-that-criticism-of-a-government-cant-be-called-a-terrorist-act-and-draws-a-vital-red-line-9036875/)
+
+The Jammu and Kashmir High Court has made an important decision by granting bail to journalist Fahad Shah and dismissing charges against him under the Unlawful Activities (Prevention) Act (UAPA). The court stated that an investigative agency must justify the arrest of an individual under UAPA based on the "clear and present danger" they pose to society. It rejected the argument that criticizing the government is a terrorist act, emphasizing that such arguments contradict freedom of speech and expression.
+
+This is not the first time a court has highlighted the misuse of UAPA. In a case related to the 2020 Delhi riots, the Delhi High Court ruled that ordinary offenses cannot be categorized as terrorist activities. The court cautioned against broad interpretations of terrorism clauses and emphasized that these provisions should be strictly and narrowly construed.
+
+In a separate case involving the denial of license renewal to a Malayalam news channel based on undisclosed national security considerations, the Supreme Court stated that national security claims cannot be baseless and expressed concern about the state using national security as a means to deny citizens their legal rights. The court pointed out the need for the judiciary to question the state's actions and uphold the rule of law.
+
+The court's decisions serve as a check against the overreach of state power and emphasize the importance of justice, democratic accountability, and press freedom. It is now up to the government to heed the court's rulings and respect the crucial distinctions necessary to protect against limitations on freedom.
+
+Wed, 22 Nov 2023 01:18:42 +0000
+### [November 22, 1983, Forty Years Ago: Brahmachari’s Arrest](https://indianexpress.com/article/opinion/40-years-ago/november-22-1983-forty-years-ago-brahmacharis-arrest-9036873/)
+
+The article mentions that the arrest of Dhirendra Brahmachari is imminent. If he doesn't surrender soon, the police will send a team to apprehend him. The delay in his arrest is due to the ongoing investigation. The Opposition in the Lok Sabha demanded a debate on the raid of Brahmachari's gun factory, but their request was denied. India may seek support from Commonwealth heads of government for nuclear disarmament and a fair international economic order. There are concerns about threats to world peace in various regions, including West Asia and Europe's nuclear theater. In a separate incident, six Sikh youths attacked a State Bank of India branch, injuring a bank guard, but the driver managed to escape despite the gunfire.
+
+Wed, 22 Nov 2023 01:18:40 +0000
+### [Vir Das’s Emmy opens up space for Indian comedians globally](https://indianexpress.com/article/opinion/editorials/vir-dass-emmy-opens-up-space-for-indian-comedians-globally-9036872/)
+
+Vir Das, a stand-up comedian, spoke about the importance of comedy in a time of sensitive sentiments and online outrage. He recently won the International Emmy Award for Comedy, which could open doors for Indian comedians globally. This achievement is comparable to Priyanka Chopra and Arundhati Roy's success in their respective fields. Das, belonging to the English-speaking class that emerged after liberalization, is familiar with American cultural references and has been politically inclined in his comedy. However, there is concern that aspiring Indian comedians may prioritize global recognition over authenticity and creativity. The comedy scene has become more challenging due to the fear of trolls and legal consequences. It is increasingly difficult to navigate the complexities of belonging to two different Indias.
+
+Wed, 22 Nov 2023 01:18:37 +0000
+### [RBI, loan scammers and financial literacy: A look at India’s fintech scene](https://indianexpress.com/article/opinion/editorials/rbi-loan-scammers-and-financial-literacy-a-look-at-indias-fintech-scene-9036871/)
+
+The article discusses the growth of the digital economy in India and the rise of digital lending, driven by fintech companies. However, it also highlights the presence of fraudulent loan apps that target financially vulnerable individuals. These apps advertise low interest rates but ask for significantly higher repayment amounts. The issue has caught the attention of policymakers, leading to discussions on creating an independent body to verify lending apps and implementing KYC norms. Tech platforms like Google and Apple have taken steps to block fraudulent apps, but fraudsters find ways to circumvent these measures. The article emphasizes the need for increased financial literacy and stronger measures to combat fraudulent activities.
+
+Tue, 21 Nov 2023 13:48:58 +0000
+### [Heard the one about Vir Das’ Emmy and an India no longer able to laugh at itself?](https://indianexpress.com/article/opinion/columns/heard-the-one-about-vir-das-emmy-and-an-india-no-longer-able-to-laugh-at-itself-9036647/)
+
+Vir Das, an Indian stand-up comedian, recently won an international Emmy for his Netflix comedy special, Landing. This victory is significant for the Indian stand-up scene, showing that there is an audience for their material beyond India. However, Das also faces challenges back home, including show cancellations and legal complaints due to certain groups finding his content offensive. Stand-up comedy in India has faced criticism for not aligning with traditional Indian culture, but the essence of using humor to educate and speak truth to power has always existed in India. Comedians are held to a higher moral standard than politicians and journalists, which is puzzling. Despite the controversies, stand-up comedy continues to gain popularity with sold-out shows and millions of online views.
+
+Tue, 21 Nov 2023 11:28:00 +0000
+### [C Raja Mohan writes: India should not talk to China — even if Biden talks to Xi](https://indianexpress.com/article/opinion/columns/c-raja-mohan-writes-india-china-talks-biden-xi-9036360/)
+
+The article discusses whether India should reconsider its approach to engaging with China amidst the renewed engagement between China and its Quad partners (Australia, Japan, and the US). While Australia's Prime Minister visited China recently and US President Biden met with Chinese President Xi Jinping, India continues to withhold political and economic dialogue until the military confrontation in Ladakh is satisfactorily resolved. China wants India to put the border dispute aside and resume normal engagement, but India insists on resolving border issues before engaging. 
+
+The first argument suggesting a change in India's approach is based on the belief that India should not be the only Quad nation not engaged in dialogue with China. However, India's China policy has independent geopolitical considerations due to its territorial conflicts with Beijing. Renewing political and economic engagement does not solve the border issue, and China is not promising to restore peace if India resumes dialogue. Thus, limiting economic exposure and suspending political dialogue are part of India's strategy to persuade China to restore trust and stabilize the border.
+
+The second argument for rethinking India's China policy is rooted in concerns about Beijing's relations with Washington. The argument suggests that renewed engagement between the US and China could reduce India's strategic importance for the US and weaken Delhi's position vis-à-vis Beijing. However, reopening dialogue without resolving boundary concerns would normalize China's aggression. Summits between leaders rarely result in breakthroughs, and there is no significant shift in the structure of the US-China rivalry. Assessing shifts in great power relations is important, but India should focus on seizing current opportunities with the US and the West to enhance its own power and military deterrence against China.
+
+The article concludes that India should stay the course with its current approach to China. Firm patience gives Delhi a better chance of convincing Beijing to rethink its India policy rather than rushing to alter the terms of engagement.
+
+Tue, 21 Nov 2023 10:46:37 +0000
+### [A saving on our electricity bills, and the environment](https://indianexpress.com/article/opinion/columns/smart-meter-saving-electricity-bills-environment-9036345/)
+
+The Maharashtra State Electricity Distribution Company (MSEDCL) has announced the installation of smart meters for all consumers to improve billing, collection efficiency, and reduce disconnection costs. Additionally, Energy Efficiency Services Ltd is installing 36 crore smart meters across India to enhance billing and collection efficiency. However, the article highlights that smart meters can also play a crucial role in increasing the renewable energy component in today's energy systems.
+
+Renewable energy sources like solar power have the drawback of limited control over generation, with peak output occurring at specific times. This creates inefficiencies when complementing solar power with controllable coal generation plants. Smart meters can help address this issue by enabling consumers to align their demand with low-cost generation periods, contributing to cost reduction in both consumption and distribution while maximizing renewable energy usage.
+
+In developed countries, real-time pricing passes on the varying cost of electricity generation to consumers. Smart meters facilitate continuous information exchange between consumers and suppliers, allowing consumers to take advantage of low electricity prices during peak renewable generation periods, such as running appliances when solar power is abundant. This practice helps balance supply and demand, reducing costs for consumers and distribution companies while maximizing renewable energy usage.
+
+Smart meters provide valuable data on energy usage patterns, which can help determine demand patterns and optimize tariffs. For example, a study conducted using smart meter data from Mathura and Bareilly showed different consumption patterns between households with air conditioners and those without. Such granular data can aid in better planning and decision-making.
+
+The article emphasizes the importance of utilizing smart meter data and demand-side models to track consumer requirements and predict long-term demand trends in the electricity sector. As India aims to increase its solar capacity to 50% by 2030, understanding consumption patterns becomes crucial for effective integration of renewable sources.
+
+India faces challenges of protecting low-energy-consuming segments of society and reducing high tariffs for industries compared to global standards. Informed tariff setting that aligns demand with supply can facilitate better integration of low-cost renewables. The article suggests fostering a closer partnership between academia and the electricity sector to achieve this goal.
+
+Overall, smart meters have the potential to not only improve billing and collection efficiency but also optimize renewable energy integration, reduce costs, and enhance overall energy planning.
+
 Tue, 21 Nov 2023 06:31:47 +0000
 ### [A cricket outsider writes: It’s not a game – it’s a business that promotes narrow nationalism](https://indianexpress.com/article/opinion/columns/cricket-outsider-writes-its-not-a-game-its-a-business-that-promotes-narrow-nationalism-9035864/)
 

@@ -1,3 +1,231 @@
+2023-11-22T13:45:36+05:30
+### [Any Form of 'Tilt' by EC Can Have 'Great Consequences for Democracy': Justice Sanjib Banerjee](https://thewire.in/law/any-form-of-tilt-by-ec-can-have-great-consequences-for-democracy-justice-sanjib-banerjee)
+
+No Article text 
+Justice Banerjee, who recently retired as the Chief Justice of Meghalaya high court, defended his April 2021 remarks when he said the authorities of Election Commission should be charged with murder for violating COVID-19 protocols.
+
+2023-11-22T13:35:41+05:30
+### [Watch | Is India Out of Sync With the Global South on Israel-Hamas?](https://thewire.in/diplomacy/watch-is-india-out-of-sync-with-the-global-south-on-israel-hamas)
+
+No Article text 
+Was Prime Minister Modi wise to identify India’s response so closely with Israel whilst overlooking the history the Arab countries have repeatedly emphasised?
+
+2023-11-22T13:16:19+05:30
+### [Elon Musks' X Sues Media Watchdog for Report on Antisemitism and Ads](https://thewire.in/tech/elon-musks-x-sues-media-watchdog-for-report-on-antisemitism-and-ads)
+
+No Article text 
+X claims the media watchdog manipulated its feed so the ads would appear.
+
+2023-11-22T13:14:28+05:30
+### [Five Reasons, According to Reports, Why the Indian Railways Have Gone Off-Track](https://thewire.in/government/five-reasons-according-to-reports-why-the-indian-railways-have-gone-off-track)
+
+No Article text 
+Reports on the Railways published on various outlets point to a misuse of funds and its consistent inability to generate profits.
+
+2023-11-22T13:03:16+05:30
+### [Myanmar Junta's Airstrikes Have Taken 320 Civilian Lives in 9 Months: Report](https://thewire.in/south-asia/myanmar-junta-airstrikes-mizoram)
+
+No Article text 
+While the pro-democracy rebel militias have succeeded in inflicting massive setbacks to the junta on the ground lately, these air strikes continue to be hurdles.
+
+2023-11-22T12:45:25+05:30
+### [Calcutta HC Judge Says His Transfer Marks Power Shift From Executive to Judiciary](https://thewire.in/government/calcutta-high-court-justice-bibek-chaudhuri-emergency-judiciary-executive)
+
+No Article text 
+Justice Bibek Chaudhuri said that during the Emergency, 16 high court judges were transferred by the executive in one go. Now, 24 high court judges have been transferred by the SC collegium, he said.
+
+2023-11-22T12:43:36+05:30
+### [The Supreme Court Never Fails to Disappoint](https://thewire.in/law/the-supreme-court-never-fails-to-disappoint)
+
+No Article text 
+In comments of some cases, the top court has appeared to favour the petitioners’ cause. But it does not go against the government in its orders.
+
+2023-11-22T12:30:17+05:30
+### [Prime Minister Modi Needs To Explain Unjustifiable ‘Abki Baar Trump Sarkar’ Call](https://thewire.in/politics/narendra-modi-explain-unjustifiable-abki-baar-trump-sarkar-call)
+
+No Article text 
+If corruption is a principal pillar of the BJP’s electoral plank for 2024, Modi needs to explain his hyperbolic praise for the former US president, who is mired in a series of criminal probes.
+
+2023-11-22T11:54:29+05:30
+### [Oblique Power: How the Wealthiest Few Set the Research Agenda of Political Science](https://thewire.in/books/oblique-power-political-science-research-agenda-emily-hauptmann-book)
+
+No Article text 
+Emily Hauptmann's book 'Foundations and American Political Science' shows how US universities, foundations and the state mobilise knowledge for power to obscure where it lies and how it works.
+
+2023-11-22T11:19:20+05:30
+### [Air Pollution: Don't Make the Farmer a 'Villian' Before Hearing Him Out, Says SC Judge](https://thewire.in/law/air-pollution-dont-make-the-farmer-a-villian-before-hearing-him-out-says-sc-judge)
+
+No Article text 
+Justice Sudhanshu Dhulia made the remark when it was brought to the notice of the court that 748 fires were lit across stubbled paddy fields in Punjab on Sunday, November 19.
+
+2023-11-22T09:56:36+05:30
+### [Israel-Hamas Truce Signals Four-Day Pause in Fighting, Release of Some Hostages](https://thewire.in/world/israel-hamas-truce-ceasefire)
+
+No Article text 
+Ahead of the deal's approval, Israeli Prime Minister Benjamin Netanyahu stressed a pause in fighting would not mean the end of the war on Hamas.
+
+2023-11-22T09:00:21+05:30
+### [Gadchiroli: Police Arrest 21 After 'Brutal Crackdown' on 8-Month Adivasi Protest Against Mining](https://thewire.in/rights/gadchiroli-maharashtra-mining-protest)
+
+No Article text 
+The movements' leaders had allegedly been surveilled and were beaten up brutally on the day. Several of the protesters' huts were burnt and their belongings taken.
+
+2023-11-21T23:06:41+05:30
+### [National Herald Case: ED Attaches Properties Worth Rs 751.9 Crore; Congress Calls it 'Election Panic'](https://thewire.in/uncategorised/national-herald-case-ed-attaches-properties-worth-rs-751-9-crore-congress-calls-it-election-panic)
+
+No Article text 
+"This pattern of misuse of agencies during elections by the BJP establishment is not new and now stands fully exposed before the entire nation," Congress president Mallikarjun Kharge said.
+
+2023-11-21T22:21:55+05:30
+### [Urgent Need for Higher Climate Action to Limit Global Warming: UNEP Report](https://thewire.in/environment/urgent-need-for-higher-climate-action-to-limit-global-warming-unep-report)
+
+No Article text 
+There are huge inequalities in consumption-based emissions too; India’s is less than half of the world average, while both Russia and the US consume more than double the world average, the 2023 Emissions Gap Report says.
+
+2023-11-21T21:33:18+05:30
+### [Ganapati Becomes a New Flashpoint in Karnataka’s Hindutva Politics](https://thewire.in/religion/lingayat-karnataka-hindutva-ganapati)
+
+No Article text 
+While Hindutva forces are going after a Lingayat religious leader for his comments, Lingayats say this controversy has energised their efforts.
+
+2023-11-21T20:40:28+05:30
+### [As Trade Unionist, Parliamentarian, Basudeb Acharia Dedicated His Life to Working Classes](https://thewire.in/politics/as-trade-unionist-parliamentarian-basudeb-acharia-dedicated-his-life-to-working-classes)
+
+No Article text 
+Acharia, who was a nine-time MP from West Bengal's Bankura and the man behind several workers' movements, passed away on November 13 at the age of 81.
+
+2023-11-21T20:10:31+05:30
+### [As South Africa Points to Gaza 'Genocide', Differences Between India, Other BRICS Members Clear](https://thewire.in/diplomacy/brics-meeting-israel-hamas-gaza)
+
+No Article text 
+India, represented by external affairs minister S. Jaishankar, reiterated the need to send urgent humanitarian aid but did not speak of the actions of the Israeli state.
+
+2023-11-21T20:10:25+05:30
+### [Bihar Caste Survey: The Who’s Who in the Data | Kamar](https://thewire.in/caste/bihar-caste-survey-the-whos-who-in-the-data-kamar)
+
+No Article text 
+The political conspiracy behind dividing the people of Kamar caste into carpenters, blacksmiths and Kamar is that the ruling class does not want to see them united.
+
+2023-11-21T19:40:59+05:30
+### [Watch | Data on Which GDP Calculated A Major Concern, Soon GDP Could Become Unreliable: Pronab Sen](https://thewire.in/video/watch-karan-thapar-pronab-sen-gdp-figure-concern)
+
+No Article text 
+In an interview with Karan Thapar, Sen says that the GDP growth figure only conveys a partial picture of the state of the economy. It does not reveal high levels of unemployment or increasing demand for NREGA.
+
+2023-11-21T19:10:02+05:30
+### [Foreign Ministers of India, Australia Discuss India-Canada Dispute](https://thewire.in/diplomacy/foreign-ministers-of-india-australia-discuss-india-canada-dispute)
+
+No Article text 
+Noting that Australia had “good strong relationship” with both India and Canada, S. Jaishankar said, “So, it was important that Australia get our perspective on the issue.”
+
+2023-11-21T19:00:17+05:30
+### [Low Production Coupled With Increased Imports Take a Toll on Kashmiri Apple Farmers](https://thewire.in/agriculture/low-production-coupled-with-increased-imports-take-a-toll-on-kashmiri-apple-farmers)
+
+No Article text 
+Apple cultivators in the Valley continue to voice their concerns over the import of apples from across the world with low import duties.
+
+2023-11-21T18:30:06+05:30
+### [Stop Misleading Advertisements or Face Rs 1 Crore Cost for False Cure Claims: SC to Patanjali](https://thewire.in/law/misleading-advertisements-fine-false-cure-claims-supreme-court-patanjali)
+
+No Article text 
+The court directed Patanjali Ayurved not to publish any such advertisements in the future and to ensure that casual statements are not made to the media.
+
+2023-11-21T18:03:49+05:30
+### [Watch | "Plastic Rice": Delhi’s Experiment With Fortified Rice Hard to Swallow for India's Adivasi Residents](https://thewire.in/rights/watch-plastic-rice-delhis-experiment-with-fortified-rice-hard-to-swallow-for-indias-adivasi-residents)
+
+No Article text 
+The government is adding synthetic micronutrients – iron, Vitamin B and folic acid – as a potential solution to malnourishment and anaemia. But both rice farmers and consumers are less than convinced.
+
+2023-11-21T18:00:16+05:30
+### [Renaming and Rebranding: The Story of BJP’s Policies and Schemes](https://thewire.in/government/renaming-rebranding-bjp-policies-schemes-upa)
+
+No Article text 
+The reality is that the UPA’s schemes had anodyne and unmemorable names even though they had the same aims. Modi’s schemes have catchier names because he spends so much effort personally polishing coinage.
+
+2023-11-21T17:35:37+05:30
+### [The Bigot in the Library](https://thewire.in/rights/the-bigot-in-the-library)
+
+No Article text 
+The damage that has been done to the minds and hearts of millions over the last ten years is deep. It will take time to heal, recover and rebuild.
+
+2023-11-21T17:34:57+05:30
+### [Failed Promises and Tokenism: Why Modi's Renewed Tribal Push Doesn't Exude Confidence](https://thewire.in/politics/failed-promises-and-tokenism-why-modis-renewed-tribal-push-doesnt-exude-confidence)
+
+No Article text 
+The Prime Minister's special focus on tribals this election season can't be missed given that they constitute a sizeable voting bloc in the poll-bound states. However, his tall talk on tribal welfare doesn't match with the reality on the ground.
+
+2023-11-21T17:05:26+05:30
+### [Varanasi’s Muslim Silk-Weavers Battle Mechanisation, Communalism and Politics](https://thewire.in/communalism/varanasi-muslim-silk-weavers-mechanisation-communalism)
+
+No Article text 
+The absence of opportunities and a documented fall in handloom work has pushed many to move to other textile hubs.
+
+2023-11-21T16:32:07+05:30
+### [The Hurdles in the Way of Reforming Agricultural Markets in India](https://thewire.in/agriculture/the-hurdles-in-the-way-of-reforming-agricultural-markets-in-india)
+
+No Article text 
+Sukhpal Singh's latest book 'Regulating Agricultural Markets in India: A Smallholder Perspective' looks at the three farm laws that were repealed following criticism against proposed reforms to the system of agricultural markets, among other things.
+
+2023-11-21T15:32:27+05:30
+### [Fifteen Years After 26/11 Terror Attack in Mumbai, Israel Bans LeT to Mark Anniversary](https://thewire.in/diplomacy/laskhar-e-taiba-ban-israel-15-year-anniversary)
+
+No Article text 
+'Despite not being requested by the Government of India to do so, the state of Israel has formally completed all necessary procedures...'
+
+2023-11-21T15:30:14+05:30
+### [The Rubble of America’s ‘Rules-Based Order’ in Gaza](https://thewire.in/world/rubble-us-rules-based-order-gaza)
+
+No Article text 
+These days the only thing the leading custodian of the liberal international order seems to be liberal with is brown bodies.
+
+2023-11-21T15:15:42+05:30
+### [Uttarakhand Tunnel Collapse: Camera Relays First Visuals of Trapped Workers](https://thewire.in/environment/uttarkashi-camera-first-visuals-of-trapped-tunnel-workers)
+
+No Article text 
+The six-inch pipe through which a medical camera reached the 41 trapped workers was reportedly also prepared yesterday to get them their first hot meal since the collapse on November 12.
+
+2023-11-21T15:00:47+05:30
+### [The Logic and Compassion Behind the Rajasthan Government's Many Schemes](https://thewire.in/economy/the-logic-and-compassion-behind-the-rajasthan-governments-many-schemes)
+
+No Article text 
+The state government has attracted criticism for doling out so-called freebies or revdi, as PM Modi calls it. However, this is a country where over 70 crore people depend on PDS rations to survive.
+
+2023-11-21T14:30:21+05:30
+### [Centre Ignores Mizoram's 'Repeated Requests' for Aid to Provide Relief to Manipur Refugees](https://thewire.in/government/centre-turns-deaf-ear-to-mizorams-repeated-requests-for-aid-to-provide-relief-to-manipur-refugees)
+
+No Article text 
+The chief minister of Mizoram has written two letters to the Union government seeking Rs 10 crore in financial assistance to provide relief to about 12,000 people who fled ethnic violence in the neighbouring state.
+
+2023-11-21T14:15:54+05:30
+### [OTT Networks, Film Makers Under Direct and Indirect Control of Union Govt, BJP: Report](https://thewire.in/rights/self-censorship-ott-netflix-amazon-prime-hindu-first)
+
+No Article text 
+A new investigation by The Washington Post which deals a blow to the ‘vibrant democracy’ image the government would want outsiders to buy into, reveals “Executives at the India offices of Netflix and Prime Video and their lawyers ask for extensive changes to rework political plots...”
+
+2023-11-21T14:00:48+05:30
+### [Manipur Govt Allocates Rs 5-Crore as Sexual Violence Compensation, No Info on How Many to Receive It](https://thewire.in/government/manipur-govt-allocates-rs-5-crore-as-sexual-violence-compensation-no-info-on-how-many-to-receive-it)
+
+No Article text 
+The compensation for victims who have lost their lives or those who have been gangraped ranges from Rs 5 lakh-10 lakh, the  state government's affidavit said.
+
+2023-11-21T13:30:25+05:30
+### [SC Questions Tamil Nadu Governor's Three-Year Delay in Disposing of Bills Sent for Assent](https://thewire.in/law/sc-questions-tamil-nadu-governors-three-year-delay-in-disposing-of-bills-sent-for-assent)
+
+No Article text 
+'Why should the Governor wait for the parties to approach the Supreme Court?'
+
+2023-11-21T13:19:10+05:30
+### [Rupee Closed at Fresh Low of 83.35 Against Dollar on Monday](https://thewire.in/economy/rupee-closed-at-fresh-low-of-83-35-against-dollar-on-monday)
+
+No Article text 
+The rupee's previous all-time closing low against the dollar was 83.34 on November 10, with an intraday low of Rs 83.48 on the same day.
+
+2023-11-21T12:59:19+05:30
+### [EPFO Data Shows Dip In Fresh Formal Job Creation Again, Falls To Six-Month Low](https://thewire.in/economy/epfo-data-dip-fresh-formal-job-creation-six-month-low)
+
+No Article text 
+The latest payroll data revealed a 6.45% decrease in the number of new monthly subscribers under the Employees’ Provident Fund (EPF). The number dropped from 953,092 in August to 891,583 in September.
+
 2023-11-21T12:00:50+05:30
 ### [Gaza Diaries: The Tragedy as Experienced By Mental Health Professionals](https://thewire.in/health/gaza-diaries-the-tragedy-as-experienced-by-mental-health-professionals)
 

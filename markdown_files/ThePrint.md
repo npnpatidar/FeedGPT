@@ -1,3 +1,111 @@
+Wed, 22 Nov 2023 09:31:08 +0000
+### [IIM Indore to conduct leadership development programme in Hindi](https://theprint.in/india/iim-indore-to-conduct-leadership-development-programme-in-hindi/1854702/)
+
+The Indian Institute of Management Indore (IIM-I) will be offering a 10-day leadership development course in Hindi starting in January next year. This is the first time that lectures will be delivered in Hindi for the leadership development program at IIM-I. The program aims to break stereotypes in management education and make knowledge and skills accessible across the country. Participants will receive training in various areas such as leadership, management practices, financial accounting, and communication skills.The Indian Institute of Management Indore (IIM-I) will be offering a 10-day leadership development course in Hindi starting in January next year. This is the first time that lectures will be delivered in Hindi for the leadership development program at IIM-I. The program aims to break stereotypes in management education and make knowledge and skills accessible across the country. Participants will receive training in various areas such as leadership, management practices, financial accounting, and communication skills.
+
+Wed, 22 Nov 2023 09:30:54 +0000
+### [SC directs Centre to review if change in law is warranted on issue of regimes for grant of driving licence](https://theprint.in/india/sc-directs-centre-to-review-if-change-in-law-is-warranted-on-issue-of-regimes-for-grant-of-driving-licence/1854701/)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！The Supreme Court has directed the Central government to review the legal question of whether a person with a driving license for a light motor vehicle can drive a transport vehicle of a certain weight. The court has set a deadline of January 17, 2024, for the consultation process with multiple stakeholders and state governments. The Attorney General requested an indefinite adjournment, but the court refused and scheduled the next hearing for January 17. The court clarified that the judgment in the Mukund Dewangan case will remain in effect during the proceedings. The court emphasized that this issue impacts the livelihoods of many people and should be addressed at the policy level. The legal question arose from disputes over insurance claims in accidents involving transport vehicles driven by individuals with licenses for light motor vehicles. The Motor Vehicle Act provides different regimes for granting driving licenses for various vehicle categories. The matter was referred to a larger bench for reconsideration.
+
+Wed, 22 Nov 2023 09:30:43 +0000
+### [Caste census will be conducted in Rajasthan if Congress retains power: Rahul Gandhi](https://theprint.in/india/caste-census-will-be-conducted-in-rajasthan-if-congress-retains-power-rahul-gandhi/1854700/)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！Congress leader Rahul Gandhi has stated that if his party retains power in Rajasthan, a caste census will be conducted in the state. He criticized the Agnipath scheme, claiming it has shattered the dreams of many youth. Gandhi also mentioned that a caste census should be conducted at the national level after Congress comes to power at the Centre. He emphasized the importance of knowing the real numbers of Dalits and people belonging to backward classes. Gandhi questioned the distribution of wealth in the country and accused Prime Minister Narendra Modi of diverting attention.
+
+Wed, 22 Nov 2023 09:30:33 +0000
+### [Maratha quota spearhead Jarange seeks dismissal of policemen responsible for Jalna lathicharge](https://theprint.in/india/maratha-quota-spearhead-jarange-seeks-dismissal-of-policemen-responsible-for-jalna-lathicharge/1854699/)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！Maratha quota activist Manoj Jarange spoke at a rally in Igatpuri, demanding the dismissal of police personnel responsible for attacking peaceful Maratha protesters in Jalna district. He called for the disclosure of the names of those who ordered the lathicharge. Jarange recounted the incident that occurred on September 1, where police charged at the protesters and filed cases against them. He emphasized that until the officers involved are dismissed, the Maratha community will not be at peace. Jarange also questioned the charges invoked by the police, such as obstructing government work, and demanded transparency regarding the officials who ordered the lathicharge. The incident in September resulted in injuries to several individuals, including police personnel, and the destruction of state transport buses. Jarange has been leading the agitation for Marathas seeking quota benefits and has set a December 24 deadline for action on his demands, hinting at taking the protest to Mumbai.
+
+Wed, 22 Nov 2023 09:30:20 +0000
+### [LoP slams Kerala CM remarks on assault on YC activists; calls him ‘criminal’](https://theprint.in/india/lop-slams-kerala-cm-remarks-on-assault-on-yc-activists-calls-him-criminal/1854697/)
+
+Article found but Couldn't summarize 
+Kannur/Kochi, Nov 22 (PTI) Leader of Opposition (LoP) in the Kerala assembly V D Satheesan on Wednesday flayed Chief Minister Pinarayi Vijayan&#8217;s remarks regarding the assault on the Youth Congress (YC) activists who waved black flags at him and called him a &#8220;criminal&#8221;. As Vijayan&#8217;s cabinet colleagues justified his remark that that DYFI workers were [&#8230;]
+
+Wed, 22 Nov 2023 09:30:02 +0000
+### [ISIS Jabalpur module case: NIA files charge sheet against four](https://theprint.in/india/isis-jabalpur-module-case-nia-files-charge-sheet-against-four/1854696/)
+
+Article found but Couldn't summarize 
+New Delhi, Nov 22 (PTI) The National Investigation Agency (NIA) has filed a charge sheet against four people arrested in a case related to a violent conspiracy hatched by members of the Jabalpur module of the global terrorist group ISIS, an official said on Wednesday. The conspiracy relates to attempts by the Islamic State of [&#8230;]
+
+Wed, 22 Nov 2023 09:18:05 +0000
+### [“With high fever coming to meet…” Varun shares interesting stories about Sidharth, Kiara on KWK 8](https://theprint.in/feature/with-high-fever-coming-to-meet-varun-shares-interesting-stories-about-sidharth-kiara-on-kwk-8/1854684/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], November 22 (ANI): Karan Johar&#8217;s boys Varun Dhawan and Sidharth Malhotra are back on the Koffee couch with some new energy. Varun and Sidharth made their acting debut with Karan Johar&#8217;s film &#8216;Student of the Year&#8217; which also starred Alia Bhatt in the lead role. The famous chat show &#8216;Koffee with Karan&#8217; [&#8230;]
+
+Wed, 22 Nov 2023 09:17:54 +0000
+### [India’s engagement with Nordic-Baltic Eight countries expanded in past few years: Jaishankar](https://theprint.in/world/indias-engagement-with-nordic-baltic-eight-countries-expanded-in-past-few-years-jaishankar/1854682/)
+
+The article discusses India's engagement with the Nordic-Baltic Eight (NB8) countries, highlighting the expansion of diplomatic relations and the establishment of institutional frameworks for closer business cooperation. It mentions the opening of embassies, consulates, and resident embassy in various countries, as well as collaborations in areas such as sustainability, digitalization, education, green partnerships, and energy harnessing. The article also emphasizes India's efforts to strengthen cooperation with Sweden, Iceland, Norway, and the Baltic nations in various sectors including innovation, defence, logistics, and technology. The second CII India Nordic Baltic Business Conclave is seen as a significant platform for exploring opportunities and cooperation between the regions.
+
+Wed, 22 Nov 2023 09:17:45 +0000
+### [New Technique Unveiled to Uniquely Classify and Identify Multiple Users in Shared Computing Environments](https://theprint.in/ani-press-releases/new-technique-unveiled-to-uniquely-classify-and-identify-multiple-users-in-shared-computing-environments/1854680/)
+
+Researchers have developed a new method called UNLOC that distinguishes between multiple users accessing a single application using keystroke dynamics. This technique analyzes an individual's unique typing patterns to enhance security in shared computing environments. UNLOC utilizes the quantile transform and localization techniques to effectively classify and identify users based on their distinct typing patterns. Extensive testing has shown that UNLOC outperforms existing methods in benchmark keystroke datasets, revolutionizing security practices in shared computing environments.Researchers have developed a new method called UNLOC that distinguishes between multiple users accessing a single application using keystroke dynamics. This technique analyzes an individual's unique typing patterns to enhance security in shared computing environments. UNLOC utilizes the quantile transform and localization techniques to effectively classify and identify users based on their distinct typing patterns. Extensive testing has shown that UNLOC outperforms existing methods in benchmark keystroke datasets, revolutionizing security practices in shared computing environments.
+
+Wed, 22 Nov 2023 09:17:36 +0000
+### [Jaipur Rugs bags another International Award for Dubai Store](https://theprint.in/ani-press-releases/jaipur-rugs-bags-another-international-award-for-dubai-store/1854678/)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！Jaipur Rugs, a global leader in luxury hand-knotted carpets, has won the Identity Design Awards 2023 in the Public Space category for its recently opened showroom at Alserkal Avenue in Dubai. The award ceremony took place at the Palazzo Versace Dubai and showcased Jaipur Rugs' commitment to pushing the boundaries of design and creativity in the world of interior. The showroom features a blend of traditional and contemporary designs, reflecting the brand's values of craftsmanship, quality, and artistic expression. This recognition demonstrates Jaipur Rugs' dedication to providing exceptional handcrafted products and inspiring spaces that celebrate traditional craftsmanship.
+
+Wed, 22 Nov 2023 09:17:25 +0000
+### [“It is an amazing feeling,” says Katrina Kaif as ‘Tiger 3’ crosses 400 crores worldwide](https://theprint.in/feature/it-is-an-amazing-feeling-says-katrina-kaif-as-tiger-3-crosses-400-crores-worldwide/1854676/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], November 22 (ANI): Actor Katrina Kaif shared her excitement as her film &#8216;Tiger 3&#8217; has crossed 400 crores worldwide. She said it was an amazing feeling to receive so much love from the audience for the film. She shared, &#8220;The Tiger franchise has only given me love since 2012! So, it is [&#8230;]
+
+Wed, 22 Nov 2023 09:17:14 +0000
+### [Seychelles diplomat to visit India on three-day trip](https://theprint.in/world/seychelles-diplomat-to-visit-india-on-three-day-trip/1854674/)
+
+Article found but Couldn't summarize 
+New Delhi [India], November 22 (ANI): The Minister of Foreign Affairs and Tourism of the Republic of Seychelles Sylvestre Radegonde, will be visiting India for the first time as Foreign Minister from 22-24 November 2023. During the diplomats visit he will meet with Indian External Affairs Minister Subrahmanyam Jaishankar, to review India-Seychelles bilateral engagement in [&#8230;]
+
+Wed, 22 Nov 2023 09:17:02 +0000
+### [Four minutes & 30 seconds: That’s how long it took National Award winner Devi Sri Prasad to compose ‘Pushpa’ song ‘Srivalli’](https://theprint.in/ani-press-releases/four-minutes-30-seconds-thats-how-long-it-took-national-award-winner-devi-sri-prasad-to-compose-pushpa-song-srivalli/1854672/)
+
+The article discusses the making of the superhit song 'Srivalli' from the film 'Pushpa'. Music composer Devi Sri Prasad composed the song in just four minutes and 30 seconds, while lyricist Raqueeb Alam took more time to translate it into Hindi. The article also mentions a YouTube series called 'Behind the Beats' by Filmy, which explores the creative process behind iconic songs. Filmy is an entertainment channel that offers exclusive interviews and behind-the-scenes content. NEWJ, the parent company of Filmy, is a social-first publisher that provides credible news in multiple languages.
+
+Wed, 22 Nov 2023 09:16:13 +0000
+### [India logs 23 Covid cases](https://theprint.in/india/india-logs-23-covid-cases/1854671/)
+
+Article found but Couldn't summarize 
+New Delhi, Nov 22 (PTI) India recorded 23 new coronavirus cases on Wednesday while the number of active cases stood at 198, according to the Union health ministry data. The death toll was recorded at 5,33,295, the data updated at 8 am showed. The country&#8217;s Covid case tally is 4.50 crore (4,50,01,629). The number of people who have [&#8230;]
+
+Wed, 22 Nov 2023 09:16:02 +0000
+### [Goa CM hosts actor Salman Khan at his house on sidelines of IFFI](https://theprint.in/feature/goa-cm-hosts-actor-salman-khan-at-his-house-on-sidelines-of-iffi/1854669/)
+
+Article found but Couldn't summarize 
+Panaji, Nov 22 (PTI) Goa Chief Minister Pramod Sawant hosted Bollywood actor Salman Khan at his official residence at Altinho here. The actor visited the chief minister&#8217;s house on Tuesday. Khan, accompanied by Goa BJP MLA Michael Lobo, met Sawant ahead of his appearance on the red carpet at the International Film Festival of India [&#8230;]
+
+Wed, 22 Nov 2023 09:15:51 +0000
+### [Ruling Congress in Karnataka to finalise key appointments next week](https://theprint.in/india/ruling-congress-in-karnataka-to-finalise-key-appointments-next-week/1854667/)
+
+Article found but Couldn't summarize 
+Bengaluru, Nov 22 (PTI) Karnataka Deputy Chief Minister D K Shivakumar on Wednesday said the ruling Congress will finalise appointments to various state-run boards and corporations after one more round of discussions next week, and the list will then be sent to the party high command for approval. Congress General Secretary in-charge of Karnataka Randeep [&#8230;]
+
+Wed, 22 Nov 2023 09:15:47 +0000
+### [Factbox-OpenAI’s new-look board as Altman returns](https://theprint.in/tech/factbox-openais-new-look-board-as-altman-returns/1854666/)
+
+OpenAI has announced that Sam Altman will return as CEO after being ousted, and the board of directors will be partially reconstituted. Bret Taylor, Larry Summers, and Adam D'Angelo will be part of the board. Bret Taylor will chair the OpenAI board. Larry Summers is an economist and former U.S. Treasury Secretary, while Adam D'Angelo is an internet entrepreneur and founder of Quora.您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！OpenAI has announced that Sam Altman, the former CEO of the company, will be returning to his position after his recent ouster. As part of the agreement, the board of directors that dismissed Altman will also undergo changes. The newly reconstituted board will include Bret Taylor, a computer programmer and entrepreneur who will serve as chairperson, Larry Summers, an economist and former U.S. Treasury Secretary, and Adam D'Angelo, the CEO of Quora and a director at OpenAI. Taylor is also a board member at Shopify, while Summers is affiliated with Harvard and serves on the boards of Block Inc and Skillsoft Corp. D'Angelo, a computer science graduate, previously held the position of CTO at Facebook.
+
+Wed, 22 Nov 2023 09:15:40 +0000
+### [Three-year-old girl raped in Chhattisgarh’s Jashpur, accused held](https://theprint.in/india/three-year-old-girl-raped-in-chhattisgarhs-jashpur-accused-held/1854664/)
+
+A three-year-old girl in Jashpur district, Chhattisgarh, was allegedly raped by a 35-year-old man from her neighborhood. The accused was arrested after the victim's parents filed a complaint. The incident occurred when the girl was playing near her home. The accused took her to a secluded place and sexually assaulted her. The girl was found by her family members and taken to the hospital, where she is in stable condition. The police have registered a case under relevant sections of the Indian Penal Code and the Protection of Children from Sexual Offences Act. Further investigation is ongoing.
+
+Wed, 22 Nov 2023 09:15:37 +0000
+### [Reaction to Sam Altman’s return as OpenAI CEO](https://theprint.in/tech/reaction-to-sam-altmans-return-as-openai-ceo/1854663/)
+
+OpenAI has announced that Sam Altman will return as CEO after his recent ouster. Analysts and investors have shared their thoughts on the agreement. Some believe that Microsoft's role will become stronger and the partnership between the two companies will be more integrated. Others see Altman's return as the best outcome for OpenAI and its employees. There are still questions about the reasons behind Altman's firing and Microsoft's knowledge of the decision. Altman's views are expected to dominate the future direction of OpenAI, and Microsoft is supportive of him. However, there may be ongoing governance issues and concerns about board oversight.
+
+Wed, 22 Nov 2023 09:15:27 +0000
+### [‘Nitish gets his cabinet to pass resolution in favour of special status’](https://theprint.in/india/nitish-gets-his-cabinet-to-pass-resolution-in-favour-of-special-status/1854661/)
+
+The Bihar government led by Chief Minister Nitish Kumar has passed a resolution requesting special category status for the state. This demand was prompted by the findings of a caste survey conducted by the government, which highlighted the increase in the population of deprived castes. As a result, quotas for Scheduled Castes (SCs), Scheduled Tribes (STs), and Other Backward Classes (OBCs) have been raised from 50 to 65 percent. Additionally, the government plans to implement various welfare measures, including providing financial assistance for economic activities, constructing pucca houses, and increasing support for landless families. These initiatives are estimated to cost around Rs 2.50 lakh crore and are expected to be completed within five years. Nitish Kumar has been advocating for special status since 2010 and has renewed his demand with greater emphasis recently. He had threatened to launch a state-wide agitation if the demand was not met.
+
 Tue, 21 Nov 2023 06:47:15 +0000
 ### [Naiknavare Developers Announces the Launch of its New Residential Project ‘Aranya’ in Talegaon](https://theprint.in/ani-press-releases/naiknavare-developers-announces-the-launch-of-its-new-residential-project-aranya-in-talegaon/1853009/)
 

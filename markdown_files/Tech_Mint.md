@@ -1,3 +1,87 @@
+Wed, 22 Nov 2023 13:46:49 +0530
+### [From Moto Edge 40 to One Plus Nord 3 5G; Checkout the top 5 smartphones under 30,000](https://www.livemint.com/technology/gadgets/from-moto-edge-40-to-one-plus-nord-3-5g-checkout-the-top-5-smartphones-under-30000-11700634033651.html)
+
+Article found but Couldn't summarize 
+Motorola Edge 40, Samsung M34, OnePlus Nord CE 3 5G, iQOO Neo 7, and Nothing Phone (1) are top smartphones under  ₹40,000 with impressive features.
+
+Wed, 22 Nov 2023 13:05:56 +0530
+### [Google Chrome's upcoming features: AI-powered Tab Organization and Autofill Helper in work, suggests report](https://www.livemint.com/technology/tech-news/google-chromes-upcoming-features-ai-powered-tab-organization-and-autofill-helper-in-work-suggests-report-11700638244399.html)
+
+Google is reportedly planning to introduce new artificial intelligence (AI) capabilities to its Chrome browser, allowing users to organize tabs more efficiently. Screenshots shared on the X forum show a forthcoming feature called 'Advanced' in the Chrome settings, suggesting the incorporation of AI technology. The upcoming section will include an AI tool called 'Organize tabs' that uses machine learning to automatically sort tabs when a certain number are opened. Another feature in development is Autofill Helper, which requires browser restart and its purpose remains unclear. Google has been introducing various updates to its Chrome app, including AI translations, map addresses, calendar event creation, and the option to move the address bar to the bottom of the interface. Furthermore, Google celebrated Chrome's 15th anniversary by revamping it with the 'Material You' theme, featuring refreshed icons and a redesigned Chrome Web Store.
+
+Wed, 22 Nov 2023 13:05:21 +0530
+### [40-inch LED TV at affordable prices: Explore top 8 options for perfect viewing](https://www.livemint.com/technology/gadgets/40inch-led-tv-at-affordable-prices-explore-top-8-options-for-perfect-viewing-11700636862162.html)
+
+Article found but Couldn't summarize 
+Looking for a 40-inch LED TV? Check out our top 8 recommendations with numerous features and a lower price tag. Choose from multiple brands and bring home a new watching companion.
+
+Wed, 22 Nov 2023 11:52:49 +0530
+### [From realme 11 5G to Oppo A79 5G: Best smartphones under  ₹20,000 this November 2023](https://www.livemint.com/technology/gadgets/from-realme-11-5g-to-oppo-a79-5g-best-smartphones-under-rs-20-000-this-november-2023-11700633320603.html)
+
+Article found but Couldn't summarize 
+Top phones available in the  ₹20,000 price range include the Redmi Note 12 5G, realme 11 5G, OnePlus Nord CE 3 Lite 5G, Oppo A79 5G, and Lava Agni 2 5G.
+
+Wed, 22 Nov 2023 11:46:33 +0530
+### [Is YouTube loading slow on your device? Google says THESE users may experience ‘suboptimal viewing’](https://www.livemint.com/technology/tech-news/is-youtube-loading-slow-on-your-device-google-says-these-users-may-experience-suboptimal-viewing-11700630157060.html)
+
+Google is actively discouraging YouTube users from using ad blockers and instead promoting its premium subscription for an ad-free experience. The company has introduced a five-second delay before video loading for users with ad blockers, claiming that their viewing experience will be suboptimal. Google's crackdown on ad blockers has resulted in hundreds of thousands of users uninstalling them in October, but there has also been a surge in ad blocker installations as people seek alternatives to bypass the premium subscription prompt.
+
+Wed, 22 Nov 2023 10:15:43 +0530
+### [Garena Free Fire Max redeem codes for Nov 22, 2023: Grab free rewards and exciting gifts](https://www.livemint.com/technology/garena-free-fire-max-redeem-codes-for-nov-22-2023-grab-free-rewards-and-exciting-gifts-11700628025361.html)
+
+Article found but Couldn't summarize 
+Players can redeem daily codes on the dedicated microsite to win Rebel Academy Weapon Loot Crate, Revolt Weapon Loot Crate, Diamonds Voucher, Fire Head Hunting Parachute.
+
+Wed, 22 Nov 2023 08:41:05 +0530
+### [Sam Altman-OpenAI Saga: Top 10 updates you should know](https://www.livemint.com/sports/cricket-news/sam-altman-openai-saga-top-10-updates-you-should-know-chatgpt-microsoft-11700618749102.html)
+
+Article found but Couldn't summarize 
+OpenAI is in talks to bring back fired CEO Sam Altman, with discussions being held between Altman, interim CEO Emmett Shear, and at least one board member.
+
+Tue, 21 Nov 2023 23:05:23 +0530
+### [OpenAI board approached rival Anthropic's CEO to replace Sam Altman, discuss merger: Reports](https://www.livemint.com/technology/tech-news/openai-board-approached-rival-anthropics-ceo-to-replace-sam-altman-discuss-merger-reports-11700586564239.html)
+
+The board of OpenAI approached Dario Amodei, the CEO of Anthropic, offering him the position of CEO and discussing a potential merger between the two companies. However, Amodei declined both offers. Following the ousting of Sam Altman as CEO, Mira Murati was appointed as interim CEO, but she was replaced by Emmett Shear shortly after. Over 500 OpenAI employees threatened to resign if the board did not step down. A letter signed by 505 employees stated that they would join Microsoft's AI team led by Altman and Greg Brockman. Ilya Sutskever, OpenAI's chief scientist, expressed regret for his role in Altman's removal. Microsoft CEO Satya Nadella announced that Altman, Brockman, and their colleagues would be joining Microsoft to lead a new AI research team, while still maintaining support for OpenAI.
+
+Tue, 21 Nov 2023 18:28:58 +0530
+### [Why Microsoft hiring Sam Altman is not the best option for both the firms](https://www.livemint.com/technology/tech-news/why-microsoft-hiring-sam-altman-is-not-the-best-option-for-both-the-firms-11700570482260.html)
+
+Article found but Couldn't summarize 
+Microsoft will hire Sam Altman to lead a new AI research team after the recent turmoil at OpenAI. However, there is still a push for Altman's return as CEO of OpenAI by a group of investors. OpenAI employees have threatened to quit unless the directors resign
+
+Tue, 21 Nov 2023 18:20:25 +0530
+### [Gender Pay Gap 2023: Are women getting equal opportunities in Tech?](https://www.livemint.com/technology/tech-news/gender-pay-gap-2023-women-disclose-the-current-scenario-challenges-gap-widens-in-leadership-position-says-report-11700563871966.html)
+
+Article found but Couldn't summarize 
+In India, women faced a decline in non-inclusive behaviours in the workplace, with a fall of almost 10 percentage points to 48%, according to a report by Deloitte. Women face higher pay gaps as they climb up the corporate ladder.
+
+Tue, 21 Nov 2023 17:53:55 +0530
+### [‘Wait till November 24’: Union MoS Rajeev Chandrasekhar assures crackdown on deepfakes](https://www.livemint.com/technology/tech-news/wait-till-november-24-union-mos-rajeev-chandrasekhar-assures-crackdown-on-deepfake-11700568432241.html)
+
+The Indian government is planning to crack down on the misuse of artificial intelligence (AI) through deepfakes, according to Union Minister of State for Electronics and Information Technology Rajeev Chandrasekhar. The government aims to create a framework to ensure that deepfakes do not threaten the safety of internet users in India. Chandrasekhar stated that the government is consulting with intermediaries and engaging with platforms to address the issue. The move comes after Prime Minister Narendra Modi expressed concern about the rising risk of deepfakes, highlighting a recent incident involving a fake video of him dancing. The threat posed by deepfakes was further emphasized when actress Rashmika Mandanna revealed that her face was used in a deepfake video, raising concerns about women's safety online.
+
+Tue, 21 Nov 2023 17:02:28 +0530
+### [Mi smart TVs offer features in a budget for everyone: Check out top 8 options](https://www.livemint.com/technology/gadgets/mi-smart-tvs-offer-features-in-a-budget-for-everyone-check-out-top-8-options-11700556232466.html)
+
+Article found but Couldn't summarize 
+Mi smart TVs are an excellent investment for someone who is looking for affordable smart TVs. Check out the 8 best options and bring home the one that fits your budget.
+
+Tue, 21 Nov 2023 15:05:59 +0530
+### [US Senate Committee issues subpoenas to Discord, Snap and X CEOs. Here why](https://www.livemint.com/technology/tech-news/us-senate-committee-issues-subpoenas-discord-snap-and-x-ceos-linda-yaccarino-elon-musk-here-why-11700556062338.html)
+
+The US Senate Judiciary Committee has issued subpoenas to the CEOs of Discord, Snap, and X (formerly Twitter) to testify at a hearing on December 6 regarding the sexual exploitation of children online. The committee chairs, Democratic Senator Dick Durbin and Republican Senator Lindsey Graham, issued the subpoenas after the CEOs refused to appear before the committee. The assistance of the US Marshal Service was enlisted to serve the subpoenas. Meta CEO Mark Zuckerberg and TikTok CEO Shou Zi Chew are expected to voluntarily testify at a future hearing. The committee aims to address Big Tech's failure to protect children online.
+
+Tue, 21 Nov 2023 13:56:03 +0530
+### [Google's secret deal allowed Spotify to bypass   Play Store fees. Details here](https://www.livemint.com/technology/tech-news/googles-secret-deal-allowed-spotify-to-bypass-play-store-fees-details-here-11700550084145.html)
+
+According to The Verge, Spotify pays Google a 0% commission when users purchase its subscription on Android using Spotify's own payment system. If the payment is processed by Google, the commission is 4%. This information was revealed during the Epic vs. Google antitrust trial. Epic, the maker of Fortnite, has filed a lawsuit against Google, accusing them of illegal price gouging with commissions on in-app transactions. Fortnite CEO Tim Sweeney claimed that Google's Play Store policies allow them to maintain a monopoly in the mobile app distribution market.
+
+Tue, 21 Nov 2023 13:48:22 +0530
+### [55-inch smart TV for immersive viewing: Top 8 picks to choose from](https://www.livemint.com/technology/gadgets/55inch-smart-tv-for-immersive-viewing-top-8-picks-to-choose-from-11700547798165.html)
+
+Article found but Couldn't summarize 
+A 55-inch smart TV might sound too big for some users, but it is an ideal option to have a theatre-like experience at your home. Check out the top options to consider and bring theatre to your own home.
+
 Tue, 21 Nov 2023 10:11:32 +0530
 ### [Did OpenAI board inform Satya Nadella before firing Sam Altman? Microsoft CEO says…](https://www.livemint.com/technology/tech-news/did-openai-board-inform-satya-nadella-before-firing-sam-altman-microsoft-ceo-says-11700533098781.html)
 

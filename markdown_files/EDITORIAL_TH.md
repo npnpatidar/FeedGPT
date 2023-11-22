@@ -1,3 +1,13 @@
+Wed, 22 Nov 2023 00:25:00 +0530
+### [Alarming countdown: On net zero carbon emission target](https://www.thehindu.com/opinion/editorial/alarming-countdown-the-hindu-editorial-on-net-zero-carbon-emission-target/article67558814.ece)
+
+The United Nations' latest report, titled "Broken Record," highlights the ongoing issue of rising greenhouse gas emissions. Despite commitments made by countries to reduce reliance on fossil fuels, the report suggests that temperatures could still exceed the desired limits set by the Paris Agreement. To stay below 2°C, emissions must be reduced by 28% by 2030, and for 1.5°C, a 42% reduction is needed. The report also emphasizes the need for greater and faster reductions from the wealthiest and historically responsible countries. The consequences of inaction are evident, with record-breaking temperatures and limited time to address the issue.
+
+Wed, 22 Nov 2023 00:20:00 +0530
+### [Parochial law: On Haryana’s 75% quota to locals in private sector](https://www.thehindu.com/opinion/editorial/parochial-law-the-hindu-editorial-on-the-haryana-law-guaranteeing-75-reservation-to-locals-in-private-sector/article67559323.ece)
+
+The Punjab and Haryana High Court has invalidated the Haryana State Employment of Local Candidates Act, 2020, which mandated 75% reservation for state residents in private sector jobs with a monthly salary below ₹30,000. The court ruled that the state does not have the authority to legislate on this matter and restrict employers from hiring from the open market. It found the act to be in violation of the equality guaranteed under Article 14 and freedom under Article 19 of the Constitution. The court argued that such legislation hinders the rights of citizens from other parts of the country and could lead to the creation of "artificial walls" throughout India. Similar laws have been enacted in Andhra Pradesh and Jharkhand, but their constitutionality is yet to be determined. While there is resentment among locals in prosperous states about migrant workers taking their jobs, protecting local jobs through legislation is not the solution. Instead, efforts should focus on ensuring basic labor rights for all workers, regardless of their origin, to create a level playing field and curb exploitative practices by employers.
+
 Tue, 21 Nov 2023 00:30:00 +0530
 ### [End of a dream run: On the World Cup final](https://www.thehindu.com/opinion/editorial/end-of-a-dream-run-the-hindu-editorial-on-the-world-cup-final/article67554547.ece)
 

@@ -1,3 +1,8 @@
+Wed, 22 Nov 2023 00:30:00 +0530
+### [Between hope and hubris: Innocence, glumness, despair, gratitude after the World Cup final](https://www.thehindu.com/opinion/columns/suresh-menon-column-the-hindu-between-hope-and-hubris-innocence-glumness-despair-gratitude/article67558450.ece)
+
+The article reflects on the recently concluded ICC Cricket World Cup final between India and Australia. It highlights the unpredictability of sports and the excitement it brings. The author mentions the dominance of India in world cricket but emphasizes that even they cannot control the outcome of a match. Australia, considered underdogs, took risks and played confidently, ultimately defeating India in the final. The article discusses the reactions of the crowd, which consisted of both subdued applause for Australia and silence for the home team's defeat. It also touches on the absence of Kapil Dev, the captain of India's first World Cup-winning team, at the event. The writer praises the Indian players' performance while acknowledging the disappointment of not winning. The article concludes by mentioning that India will have new faces in the next edition of the tournament but expects the hopes and hubris to remain.
+
 Sat, 11 Nov 2023 00:32:00 +0530
 ### [Corrections and Clarifications — November 11, 2023](https://www.thehindu.com/opinion/columns/corrections-and-clarifications-november-11-2023/article67522425.ece)
 
