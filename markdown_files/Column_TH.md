@@ -1,3 +1,8 @@
+Fri, 24 Nov 2023 12:45:00 +0530
+### [Column | The unbearable weight of opinions](https://www.thehindu.com/opinion/columns/the-unbearable-weight-of-opinions-column-saba-mahjoor/article67556806.ece)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！The article tells a personal story about the importance of opinions and the burden they carry. The author recounts a dinner with their uncle, where their aunt, Phuphee, served a simple dish. When the uncle complained, Phuphee stood up for herself and explained that opinions are subjective and should not dictate others' actions. The author reflects on how much of their lives are influenced by the opinions of others, leading to feeling trapped. The article suggests that sometimes it's necessary to stop listening to others and speak up for oneself.
+
 Wed, 22 Nov 2023 00:30:00 +0530
 ### [Between hope and hubris: Innocence, glumness, despair, gratitude after the World Cup final](https://www.thehindu.com/opinion/columns/suresh-menon-column-the-hindu-between-hope-and-hubris-innocence-glumness-despair-gratitude/article67558450.ece)
 

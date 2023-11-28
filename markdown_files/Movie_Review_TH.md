@@ -1,3 +1,87 @@
+Sat, 25 Nov 2023 17:38:21 +0530
+### [‘Farrey’ movie review: Alizeh Agnihotri’s debut film makes its point fair and square](https://www.thehindu.com/entertainment/movies/farrey-movie-review-alizeh-agnihotris-debut-film-makes-its-point-fair-and-square/article67573272.ece)
+
+Article found but Couldn't summarize 
+The absorbing tale about a cheating racket impresses with convincing performances and a non-judgemental gaze
+
+Sat, 25 Nov 2023 17:38:18 +0530
+### [Carnatic flautist Jayant performs an unusual collaborative concert at Theatre de la Ville](https://www.thehindu.com/entertainment/music/carnatic-flautist-jayant-performs-an-unusual-collaborative-concert-at-theatre-de-la-ville/article67573045.ece)
+
+Article found but Couldn't summarize 
+J.A. Jayant and crystal baschet artiste Loup Barrow performed at the avant garde auditorium in Paris.
+
+Sat, 25 Nov 2023 16:11:20 +0530
+### [‘Thrimshath Sambhrama’ festival in Mangaluru featured both time-tested and rare kritis](https://www.thehindu.com/entertainment/music/thrimshath-sambhrama-festival-in-mangaluru-featured-both-time-tested-and-rare-kritis/article67572982.ece)
+
+The Sangeetha Parishath Mangalore recently celebrated its 30th anniversary with a five-day festival called 'Thrimshath Sambhrama'. The event, held under the patronage of the Karnataka Government's Department of Kannada and Culture in association with Bharatiya Vidya Bhavan, featured talented vocal and instrumental artists. Notably, Geetha Ramanand, a veteran veena artist from Bengaluru, presented a pleasing recital on the first day, supported by her disciple V. Gopal. Ramya Kiranmayi Chaganti from Visakhapatnam also showcased her talent, focusing on patantara, diction, and raga bhava. The article highlights the performances of both artists, along with the accompanying musicians.
+
+Sat, 25 Nov 2023 15:31:15 +0530
+### [Radhika Shurajit’s new production is based on popular songs on Muruga](https://www.thehindu.com/entertainment/dance/radhika-shurajits-kanda-kadamba-kadhirvela-was-based-on-popular-songs-on-muruga/article67572960.ece)
+
+The article discusses the recent staging of the dance production 'Kanda Kadamba Kathirvela' in Chennai, which was part of the Skanda Sashti celebrations. Directed and choreographed by Radhika Shurajit, the performance depicted the popular hymn 'Kanda Sashti Kavacham' and other songs dedicated to Muruga. The first composition focused on the birth of Muruga, who is believed to have emerged from sparks that came from Shiva's third eye. The production featured six girls representing the six maidens who raised the babies, creating an impressive visual representation. Popular songs on Muruga were chosen to engage the audience, with energetic movements dominating the choreography. The depiction of the healing process described in the hymn was well-executed using masks to represent evil forces. However, some of the songs chosen were not suitable for dance choreography, leading to repetitive expressions and movements. The production concluded with a Lalgudi Jayaraman thillana and the Thiruppugazh 'Nada vindhu kaladi.' The music and lighting design added to the overall impact of the performance.
+
+Sat, 25 Nov 2023 13:20:21 +0530
+### [‘Wish’ movie review: A sweet yet shallow ride to nostalgia](https://www.thehindu.com/entertainment/movies/wish-movie-review-a-sweet-yet-shallow-ride-to-nostalgia/article67572780.ece)
+
+The article discusses the animated film "Wish," which pays tribute to old-school Walt Disney animation. The film showcases talking animals, a brave protagonist named Asha, and vibrant colors reminiscent of classic Disney films. Asha lives in Rosas, a country ruled by a magician named Magnifico, where people come to have their wishes granted during a monthly ceremony. As Asha questions Magnifico's policy of not granting certain wishes, she inadvertently sets off a chain of events that impact Rosas and its citizens. Ultimately, the film delivers a message that simply wishing for something does not guarantee it will come true. Although the movie has a charming aesthetic, some find its moralizing slightly cynical. Overall, "Wish" is currently playing in theaters.
+
+Sat, 25 Nov 2023 12:49:24 +0530
+### [‘Adrishya Jalakangal’ movie review: Tovino Thomas delivers a firecracker performance in this anti-war film](https://www.thehindu.com/entertainment/movies/adrishya-jalakangal-movie-review-tovino-thomas-delivers-a-firecracker-performance-in-this-anti-war-film/article67572649.ece)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！The article discusses the film "Adrishya Jalakangal" directed by Dr. Biju. The film is set in an Orwellian world where the government controls everything, and individuals have no agency over their lives. Tovino Thomas delivers an exceptional performance as the nameless protagonist who lives alone in an abandoned railway coach. Nimisha Sajayan also shines as the nameless woman living nearby. The film explores themes of war, marginalization, and human connection. Tovino's character can communicate with the dead at the mortuary where he works, providing insights into their lives and deaths. The narrative is the highlight of the film, but Tovino's performance stands out. The article praises his versatility and physical transformation for the role. The cinematography and music effectively enhance the film's mood. Overall, the film is described as political and not an easy watch, but it is held together cohesively. It premiered at the Tallinn Black Night International Film Festival and is currently showing in theaters.
+
+Fri, 24 Nov 2023 17:57:17 +0530
+### [‘The Village’ series review: Arya’s horror show is corny and utterly contrived](https://www.thehindu.com/entertainment/movies/the-village-series-review-aryas-horror-series-is-corny-and-utterly-contrived/article67569618.ece)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！The article discusses the Indian horror series "The Village," which is India's first live-action adaptation of a graphic novel. The author describes the series as banal, corny, and contrived, with an abundance of horror tropes that have been overdone. The plot revolves around an ignorant family getting stranded in a coastal town called Kattiyal, leading to mysterious abductions and a rescue mission. Another storyline involves a wheelchair-bound man sending mercenaries and scientists to retrieve a chemical for his benefit. The article criticizes the campy dialogues, lack of character development, and unoriginality of the series. While the set designs are praised, technical aspects like color grading are deemed inconsistent. Despite its ambition, the article questions whether the series warrants a second season.
+
+Fri, 24 Nov 2023 17:57:12 +0530
+### [‘Bad Manners’ movie review: Suri and Abhishek Ambareesh’s crime drama loses its zing after a promising start](https://www.thehindu.com/entertainment/movies/bad-manners-movie-review-suri-and-abhishek-ambareeshs-crime-drama-loses-its-zing-after-a-promising-start/article67569743.ece)
+
+Article found but Couldn't summarize 
+Suri’s ‘Bad Manners,’ starring Abhishek Ambareesh, begins with a gripping portrayal of a town known for making guns, but the actioner soon fizzles out owing to shoddy writing
+
+Fri, 24 Nov 2023 17:49:44 +0530
+### [‘80s Buildup’ movie review: This Santhanam comedy is as fun as a funeral](https://www.thehindu.com/entertainment/movies/80s-buildup-movie-review-this-santhanam-comedy-is-as-fun-as-a-funeral/article67569640.ece)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！GPT-3.5: Thank you for sharing the article with me. Based on the plot summary, "Demons" is a 1985 Italian supernatural horror film directed by Lamberto Bava. The story revolves around two female university students and other random people who receive complimentary tickets to a mysterious movie screening. However, they soon find themselves trapped in the theater with a horde of ravenous demons. The article also mentions the reviewer's experience watching a different film called "80s Buildup," which they found to be lacking in comedy and humor.
+
+Fri, 24 Nov 2023 17:34:02 +0530
+### [‘Napoleon’ movie review: Historical postcards from Ridley Scott](https://www.thehindu.com/entertainment/movies/napoleon-movie-review-historical-postcards-from-ridley-scott/article67569619.ece)
+
+Article found but Couldn't summarize 
+Despite stunning performances by Joaquin Phoenix and Vanessa Kirby — and Dariusz Wolski’s exquisite frames — Napoleon remains a gorgeous cipher in Ridley Scott’s biopic
+
+Fri, 24 Nov 2023 14:30:52 +0530
+### [‘Swathi Mutthina Male Haniye’ movie review: Raj B Shetty, Siri Ravikumar’s drama is heartening, yet not fulfilling](https://www.thehindu.com/entertainment/movies/swathi-mutthina-male-haniye-movie-review-raj-b-shetty-siri-ravikumars-drama-is-heartening-yet-not-fulfilling/article67569067.ece)
+
+Article found but Couldn't summarize 
+‘Swathi Mutthina Male Haniye’ has a lot of touching moments and offers a distinctive experience, but it fails to amp up the drama between the leads
+
+Fri, 24 Nov 2023 13:40:56 +0530
+### [‘Aadikeshava’ movie review: Staid revenge drama that’s also unintentionally hilarious](https://www.thehindu.com/entertainment/movies/aadikeshava-telugu-movie-review-staid-revenge-drama-thats-also-unintentionally-hilarious/article67568986.ece)
+
+Article found but Couldn't summarize 
+Vaisshnav Tej and Sree Leela’s Telugu film ‘Aadikeshava’ fashions itself partly on the lines of Boyapati Sreenu’s style of mass masala. Some segments appear like a spoof while others are unintentionally hilarious
+
+Fri, 24 Nov 2023 12:32:31 +0530
+### [IFFI 2023 | ‘Gandhi Talks’ movie review: Vijay Sethupathi’s silent film fulfils part of its mission](https://www.thehindu.com/entertainment/movies/iffi-2023-gandhi-talks-movie-review-vijay-sethupathis-silent-film-fulfils-part-of-its-mission/article67564605.ece)
+
+Article found but Couldn't summarize 
+Although ‘Gandhi Talks’, starring Vijay Sethupathi, Arvind Swamy and Aditi Rao Hydari, veers off course at times,  director Kishore Belekar deserves credit for daring to make a silent film with mainstream actors in an era of loud ‘pan-India’ films
+
+Thu, 23 Nov 2023 21:02:53 +0530
+### [‘Kaathal – The Core’ movie review: Mammootty steers a daring attempt that pays off](https://www.thehindu.com/entertainment/movies/kaathal-the-core-movie-review-mammootty-steers-a-daring-attempt-that-pays-off/article67566529.ece)
+
+Article found but Couldn't summarize 
+‘Kaathal’ beautifully uses a conventional family drama setting to tackle a subject that is still largely a taboo in the industry and the larger society; it is quite a triumph in that sense
+
+Thu, 23 Nov 2023 19:18:25 +0530
+### [‘Leo’ English movie review: Adam Sandler is an astute lizard in this surprisingly sweet, feel-good comedy](https://www.thehindu.com/entertainment/movies/leo-english-movie-review-adam-sandler-is-an-astute-lizard-in-this-surprisingly-sweet-feel-good-comedy/article67565090.ece)
+
+Article found but Couldn't summarize 
+The Adam Sandler-led ‘Leo’ is a well-animated entertainer which surreptitiously shares the need for children to open up instead of just keeping their problems to themselves
+
 Mon, 20 Nov 2023 19:07:12 +0530
 ### [‘Scott Pilgrim Takes Off’ series review: A simple and fun animated reboot](https://www.thehindu.com/entertainment/movies/scott-pilgrim-takes-off-series-review-a-simple-and-fun-animated-reboot/article67554369.ece)
 

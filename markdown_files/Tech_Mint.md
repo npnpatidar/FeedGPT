@@ -1,3 +1,211 @@
+Tue, 28 Nov 2023 07:10:11 +0530
+### [Xiaomi Pad 7 Pro may feature Snapdragon 8 Gen 2 chipset, 144 Hz display. Check expected features, launch date and more](https://www.livemint.com/technology/gadgets/xiaomi-pad-7-pro-may-feature-snapdragon-8-gen-2-chipset-144-hz-display-check-expected-features-launch-date-and-more-11701132614743.html)
+
+Article found but Couldn't summarize 
+Xiaomi is reportedly working on the Mi Pad 7 Pro, which may feature a Snapdragon 8 Gen 2 processor and a 10-inch LCD display with a 144 Hz refresh rate. The tablet is expected to launch in April next year alongside the Xiaomi 14 Ultra handset and may be restricted to the Chinese market.
+
+Tue, 28 Nov 2023 00:59:52 +0530
+### [Google will start deleting ‘inactive’ accounts from Friday. Here is what you need to know](https://www.livemint.com/technology/tech-news/google-will-start-deleting-inactive-accounts-from-friday-here-is-what-you-need-to-know-11701112765319.html)
+
+Article found but Couldn't summarize 
+Under Google's updated inactive account policy, which the tech giant announced back in May, accounts that haven't been used in at least two years could be deleted. Accounts deemed inactive could be erased beginning Friday
+
+Mon, 27 Nov 2023 18:54:04 +0530
+### [GTA 6 fever prompts lifestyle overhaul: Fans prioritise health ahead of game launch](https://www.livemint.com/technology/tech-news/gta-6-fever-prompts-lifestyle-overhaul-fans-prioritise-health-ahead-of-game-launch-11701090983631.html)
+
+Article found but Couldn't summarize 
+Excitement for GTA 6 reaches unparalleled levels as fans eagerly await the game's debut. Some fans are making significant decisions like quitting smoking to ensure they are in peak health for the release.
+
+Mon, 27 Nov 2023 18:43:46 +0530
+### [iPhone maker Foxconn plans to expand footprint in India with $1.6 billion investment](https://www.livemint.com/technology/tech-news/iphone-maker-foxconn-plans-to-expand-footprint-in-india-with-1-6-bn-investment-11701089848206.html)
+
+Article found but Couldn't summarize 
+The news comes as Hon Hai, also known as Foxconn, and other Taiwanese electronics manufacturers continue to diversify their businesses outside of China as tensions rise between Washington and Beijing.
+
+Mon, 27 Nov 2023 18:19:03 +0530
+### [Apple's next-gen iPad Mini to redefine compact tablet innovation in 2024: Report](https://www.livemint.com/technology/tech-news/apples-next-gen-ipad-mini-to-redefine-compact-tablet-innovation-in-2024-report-11701088858209.html)
+
+Article found but Couldn't summarize 
+Apple's forthcoming iPad Mini will combine performance enhancements with compelling new features, including an enhanced chip, improved cameras, new color options, and fixes for screen scrolling issues.
+
+Mon, 27 Nov 2023 17:26:37 +0530
+### [Galaxy S24 set to be an ‘AI phone’? Here's what leaks about Samsung's new flagship phone suggest](https://www.livemint.com/technology/gadgets/galaxy-s24-set-to-be-an-ai-phone-heres-what-leaks-about-samsungs-latest-flagship-phone-suggest-11701082226239.html)
+
+As GPT-3.5, I can provide a summary of the article you shared. The article discusses Samsung's focus on bringing artificial intelligence-enabled upgrades to its upcoming flagship phone series, the Galaxy S24. Samsung has applied for AI-related trademarks, such as 'AI Phone' and 'AI Smartphone', although it may not be granted a patent due to the generic nature of these terms. Additionally, Samsung plans to launch the Galaxy AI experience alongside the global launch of the Galaxy S24, which will bring on-device AI capabilities to Samsung smartphones. The Galaxy AI experience will introduce features like AI Live Translate, which provides real-time call transcripts. The article also mentions leaked images of the Samsung Galaxy S24 Ultra, indicating a departure from curved screens and the possibility of the S Pen being introduced. Overall, the Galaxy S24 series is expected to feature upgrades in terms of processor, camera capabilities, and additional features.
+
+Mon, 27 Nov 2023 16:11:24 +0530
+### [Xiaomi expands HyperOS to more devices: Check if your device is on the list](https://www.livemint.com/technology/tech-news/xiaomi-announces-hyperos-update-for-more-devices-check-if-yours-is-on-the-list-11701078021911.html)
+
+Article found but Couldn't summarize 
+Xiaomi's HyperOS, a lightweight operating system, will be updated to 11 devices in China next month, improving boot time, lock screen customizations, and privacy.
+
+Mon, 27 Nov 2023 14:56:03 +0530
+### [OnePlus 12 look revealed: Check expected features, color options, launch date and more](https://www.livemint.com/technology/gadgets/oneplus-12-look-revealed-check-expected-features-color-options-launch-date-and-more-11701072315602.html)
+
+Article found but Couldn't summarize 
+OnePlus has officially revealed the look of its latest flagship smartphone, the OnePlus 12, featuring a green colour variant and a similar camera bump as its predecessor.
+
+Mon, 27 Nov 2023 14:20:57 +0530
+### [From Mivi to boAt: Best Bluetooth speakers under  ₹2,000 this November 2023](https://www.livemint.com/technology/from-mivi-to-boat-best-bluetooth-speakers-under-rs-2-000-this-november-2023-11701074678124.html)
+
+Article found but Couldn't summarize 
+Top portable Bluetooth speakers on Amazon include Mivi Roam 2, boAt Stone 352, JBL Go 2, ZEBRONICS Sound Feast 91, and JBL Go 3.
+
+Mon, 27 Nov 2023 13:23:31 +0530
+### [From Samsung S21 FE to OnePlus 10 R; Checkout best camera phones to buy under  ₹35,000 in November 2023](https://www.livemint.com/technology/gadgets/from-samsung-s21-fe-to-oneplus-10-r-best-camera-phones-to-buy-under-rs-35-000-in-november-2023-11701068143045.html)
+
+Article found but Couldn't summarize 
+Here's a list of best camera phones to buy under  ₹35,000: Samsung Galaxy S21 FE, OnePlus 10R 5G, Vivo V29 5G, and OnePlus Nord 3 5G.
+
+Mon, 27 Nov 2023 13:03:02 +0530
+### [Coding not a must: Tim Cook emphasizes diversity and creativity in Apple's hiring](https://www.livemint.com/technology/tech-news/coding-not-a-must-tim-cook-emphasizes-diversity-and-creativity-in-apples-hiring-11701070041786.html)
+
+Article found but Couldn't summarize 
+Cook emphasizes that Apple considers individuals from all walks of life in its hiring process, including those without a college degree or coding expertise.
+
+Mon, 27 Nov 2023 12:19:41 +0530
+### [From iQOO Neo 7 Pro to OnePlus 11R; top gaming phones you can buy under  ₹40,000 in November 2023](https://www.livemint.com/technology/gadgets/from-iqoo-neo-7-pro-to-oneplus-11r-top-gaming-phones-you-can-buy-under-40-000-in-november-2023-11701064278814.html)
+
+Article found but Couldn't summarize 
+Many companies in India are offering smartphones catered towards gaming enthusiasts, with some offering high-end specifications but not marketing towards gamers.
+
+Mon, 27 Nov 2023 10:39:51 +0530
+### [Garena Free Fire Max redeem codes for Nov 27, 2023: Win weapons, diamonds, skins and more](https://www.livemint.com/technology/garena-free-fire-max-redeem-codes-for-nov-27-2023-win-weapons-diamonds-skins-and-more-11701061574682.html)
+
+Article found but Couldn't summarize 
+By redeeming Garena Free Fire Max codes, players can win Rebel Academy Weapon Loot Crate, Revolt Weapon Loot Crate, Diamonds Voucher, Fire Head Hunting Parachute. Codes are available for a limited time and for the first 500 users only.
+
+Mon, 27 Nov 2023 10:29:37 +0530
+### ['Meta unlawfully collected personal data of young users': 33 US states claim in lawsuit](https://www.livemint.com/technology/tech-news/meta-facebook-instagram-unlawfully-collected-personal-data-of-young-users-33-us-states-claim-in-lawsuit-11701057861850.html)
+
+Article found but Couldn't summarize 
+The charges against Meta are part of a federal lawsuit filed by 33 US states, alleging that the company has misled the public about the dangers of its social media platforms and exploited vulnerable users, particularly teenagers and children.
+
+Mon, 27 Nov 2023 09:17:16 +0530
+### [What is Cyber Monday? Here's what you should know about the online shopping extravaganza](https://www.livemint.com/technology/tech-news/what-is-cyber-monday-heres-what-you-should-know-about-the-online-shopping-extravaganza-black-friday-11701053790678.html)
+
+Article found but Couldn't summarize 
+Cyber Monday, the Monday after Thanksgiving, is set to be the biggest online shopping day in the US this year, with e-tailers offering discounts on electronics and furniture.
+
+Mon, 27 Nov 2023 08:26:00 +0530
+### [Russia puts the spokesman for Facebook owner Meta on wanted list](https://www.livemint.com/technology/tech-news/russia-puts-the-spokesman-for-facebook-owner-meta-on-wanted-list-11701052915720.html)
+
+Article found but Couldn't summarize 
+Andy Stone, the communications director of Meta, has been included on Russia's wanted list on criminal charges, according to the country's interior ministry's database.
+
+Sun, 26 Nov 2023 11:16:47 +0530
+### [Weekly Tech Recap: From Sam Altman's rehiring to new Bard AI features and more](https://www.livemint.com/technology/tech-news/weekly-tech-recap-from-sam-altmans-rehiring-to-new-bard-ai-features-and-more-11700973708174.html)
+
+Article found but Couldn't summarize 
+Sam Altman is reinstated as the CEO of OpenAI after being controversially fired last week, with a new initial board announced.
+
+Sun, 26 Nov 2023 08:20:23 +0530
+### [Best gaming phones to buy under  ₹20000 in November 2023: Realme Narzo 60, Motorola G54 and more](https://www.livemint.com/technology/gadgets/best-gaming-phones-to-buy-under-rs-20000-in-november-2023-realme-narzo-60-motorola-g54-and-more-11700962752201.html)
+
+Article found but Couldn't summarize 
+Smartphone makers from OnePlus to Realme are offering a lot of performance in the budget segment. Here's a look at the top gaming smartphones you can buy under  ₹20,000 in November 2023.
+
+Sun, 26 Nov 2023 07:02:32 +0530
+### [Best camera smartphones under  ₹20,000 in November 2023: Samsung Galaxy M34 5G, iQOO Z7s and more](https://www.livemint.com/technology/gadgets/best-camera-smartphones-under-rs-20-000-in-november-2023-samsung-galaxy-m34-5g-iqoo-z7s-oneplus-nord-ce-3-lite-5g-11700960172625.html)
+
+Article found but Couldn't summarize 
+From OnePlus Nord CE 3 Lite 5G to Poco X5 5G, here's an indept look on the best camera smartphones to buy under  ₹20,000.
+
+Sat, 25 Nov 2023 19:20:48 +0530
+### [Nammayatri's witty notification takes a jab at Sam Altman's return; here's what it said…](https://www.livemint.com/technology/tech-news/nammayatris-witty-notification-takes-a-jab-at-sam-altmans-return-heres-what-it-said-11700919462798.html)
+
+Article found but Couldn't summarize 
+A social media post by Sajetan, @narayantejas, has created a buzz in Bengaluru's tech scene. The post features a witty notification from the Nammayatri ride-sharing app, suggesting that their pickup is faster than Sam Altman's return to OpenAI as CEO.
+
+Sat, 25 Nov 2023 18:47:23 +0530
+### [GTA 6 Preorder date leak sparks excitement: Alleged December 12 release expected](https://www.livemint.com/technology/tech-news/gta-6-preorder-date-leak-sparks-excitement-alleged-december-12-release-expected-11700917832132.html)
+
+Article found but Couldn't summarize 
+A leaked image from an Argos Support agent hints at a possible GTA 6 preorder date of December 12, 2023, but the authenticity of the screenshot remains unverified.
+
+Sat, 25 Nov 2023 16:37:35 +0530
+### [Galaxy S24 Ultra leak: Samsung could ditches curved screens for a fresh look, report](https://www.livemint.com/technology/gadgets/galaxy-s24-ultra-leak-samsung-could-ditches-curved-screens-for-a-fresh-look-report-11700909671554.html)
+
+Article found but Couldn't summarize 
+The leaked image of the Samsung Galaxy S24 Ultra suggests a departure from curved screens and thicker sides, adding anticipation to its unveiling.
+
+Sat, 25 Nov 2023 11:33:47 +0530
+### [From boAt to Mivi: Best Gaming TWS earbuds under  ₹2000 this November 2023](https://www.livemint.com/technology/from-boat-to-mivi-best-gaming-tws-earbuds-under-rs-2000-this-november-2023-11700891929449.html)
+
+Article found but Couldn't summarize 
+truke BTG Neo Dual Pairing Earbuds, Boult Audio Z40 Pro, boAt Immortal 121, Mivi Commando Q9 Gaming TWS, and Fireboltt Fire Pods Vega 811 are some of the top-rated gaming earbuds under  ₹2,000.
+
+Sat, 25 Nov 2023 10:53:20 +0530
+### [Garena Free Fire Max redeem codes for Nov 25, 2023: Grab exciting daily rewards](https://www.livemint.com/technology/garena-free-fire-max-redeem-codes-for-nov-25-2023-grab-exciting-daily-rewards-11700889630828.html)
+
+Article found but Couldn't summarize 
+Players can redeem daily codes on the dedicated microsite and win Rebel Academy Weapon Loot Crate, Revolt Weapon Loot Crate, Diamonds Voucher, Fire Head Hunting Parachute.
+
+Fri, 24 Nov 2023 18:53:54 +0530
+### [Top-rated budget-friendly smartwatches this November 2023: Deals on Noise, Fire-Boltt and other brands](https://www.livemint.com/technology/gadgets/toprated-budget-friendly-smartwatches-this-november-2023-deals-on-noise-fire-boltt-and-other-brands-11700831828958.html)
+
+Article found but Couldn't summarize 
+Budget-friendly smartwatches with substantial discounts are available on Amazon, including the Fire-Boltt Phoenix Pro and Noise ColorFit Pulse.
+
+Fri, 24 Nov 2023 16:38:15 +0530
+### [Vijay Sales Black Friday Sale: Best deals on iPhone 15, ASUS ROG Phone 6, Sony PS5 standard bundle and more](https://www.livemint.com/technology/gadgets/vijay-sales-black-friday-sale-best-deals-on-iphone-15-asus-rog-phone-6-sony-ps5-standard-bundle-and-more-11700823693853.html)
+
+Article found but Couldn't summarize 
+Vijay Sales' Black Friday Sale in India features discounts on various products, including Apple iPhone 15 starting at  ₹72,990, ASUS ROG Phone 6 at  ₹47,999, and Sony PlayStation PS5 bundle at  ₹47,990.
+
+Fri, 24 Nov 2023 14:26:34 +0530
+### [65-inch LED TV ensure larger than life viewing: Choose from top 8 options](https://www.livemint.com/technology/gadgets/65inch-led-tv-ensure-larger-than-life-viewing-choose-from-top-8-options-11700809499729.html)
+
+Article found but Couldn't summarize 
+Bring home a 65-inch LED TV and enjoy a grand viewing experience with your family. Choose from the top offerings from best brands to see which one suits your needs better.
+
+Fri, 24 Nov 2023 14:19:29 +0530
+### [43-inch LED TVs have good size and picture quality: 8 best options to pick from](https://www.livemint.com/technology/gadgets/43inch-led-tvs-have-good-size-and-picture-quality-8-best-options-to-pick-from-11700803251058.html)
+
+Article found but Couldn't summarize 
+Bring home a new way of watching content with 43-inch LED TVs from various brands. We have listed the 8 best picks for you that come with a reasonable price tag. Check out the products to bring one home.
+
+Fri, 24 Nov 2023 14:17:19 +0530
+### [50-litre geyser price drop: Top 7 models from budget-friendly to premium segment](https://www.livemint.com/technology/gadgets/50litre-geyser-price-drop-top-7-models-from-budget-friendly-to-premium-segment-11700809030633.html)
+
+Article found but Couldn't summarize 
+This guide discusses the top 7 50-litre geyser models, ranging from budget-friendly to premium options focusing on the perfect balance between style, and features. Check out the best models.
+
+Fri, 24 Nov 2023 13:58:36 +0530
+### [On 'deepfakes', Centre to assist citizens to file FIRs against social media firms](https://www.livemint.com/technology/tech-news/on-deepfakes-centre-to-assist-citizens-to-file-firs-against-social-media-firms-11700812059914.html)
+
+The Indian government is taking steps to combat the dangers of deepfake technology by assisting citizens in filing First Information Reports (FIRs) against social media platforms for violating IT rules. The Ministry of Electronics and Information Technology (Meity) will develop a platform where users can report violations by social media platforms. A Rule Seven officer will be nominated to create this platform and address complaints from citizens. If a platform discloses the source of objectionable content, the FIR will be filed against that entity. The government has been alerting internet players about the threat of deepfakes since October 2022. Social media platforms have been given seven days to align their terms of use with IT rules.
+
+Fri, 24 Nov 2023 12:36:00 +0530
+### [Havells geyser: 10 top-rated models to beat winter chills in style](https://www.livemint.com/technology/gadgets/havells-geyser-10-top-rated-models-to-beat-winter-chills-in-style-11700804672268.html)
+
+Article found but Couldn't summarize 
+Beat the chilly winter with the top 10 Havells geysers, each offering a blend of efficiency, and innovative features. These geysers, known for their quality, are designed to provide warm, comforting showers, catering to various lifestyles and budgets.
+
+Fri, 24 Nov 2023 11:45:05 +0530
+### [Best premium smartwatches this November 2023: From Samsung Galaxy Watch5 to Apple Watch SE](https://www.livemint.com/technology/gadgets/best-premium-smartwatches-this-november-2023-from-samsung-galaxy-watch5-to-apple-watch-se-11700806050500.html)
+
+Article found but Couldn't summarize 
+Amazon continues to offer discounts on smartwatches and gadgets, including the Fire-Boltt Invincible Plus, Titan Smart 3 Premium, Fossil Gen 6 Display Wellness Edition, Samsung Galaxy Watch5, and Apple Watch SE.
+
+Fri, 24 Nov 2023 10:44:12 +0530
+### [Garena Free Fire Max redeem codes for Nov 24, 2023: Grab daily exciting rewards](https://www.livemint.com/technology/tech-news/garena-free-fire-max-redeem-codes-for-nov-24-2023-grab-daily-exciting-rewards-11700802636967.html)
+
+Article found but Couldn't summarize 
+Players can redeem the codes on the game's official Rewards Redemption site and get rewards like Rebel Academy Weapon Loot Crate, Revolt Weapon Loot Crate, Diamonds Voucher, and Fire Head Hunting Parachute.
+
+Thu, 23 Nov 2023 22:10:02 +0530
+### [Deepfake regulation to target both creators and social media platforms](https://www.livemint.com/technology/deepfake-regulation-to-target-both-creators-and-social-media-platforms-11700755795363.html)
+
+Article found but Couldn't summarize 
+Under the new rules, social media and other online platforms may not be able to take advantage of the safe harbour immunity they enjoy under the IT Act unless they move swiftly to take action against deepfakes
+
+Thu, 23 Nov 2023 21:05:38 +0530
+### [Sony LED TVs are reliable and immersive: Pick from top 8 options for your home](https://www.livemint.com/technology/gadgets/sony-led-tvs-are-reliable-and-immersive-pick-from-top-8-options-for-your-home-11700743485922.html)
+
+Article found but Couldn't summarize 
+Sony LED TVs come with a surety of trust, and you can rely on them for having an excellent and new viewing experience. Check out the list of the top 8 offerings from the brand that can add charm to your living spaces.
+
 Wed, 22 Nov 2023 13:46:49 +0530
 ### [From Moto Edge 40 to One Plus Nord 3 5G; Checkout the top 5 smartphones under 30,000](https://www.livemint.com/technology/gadgets/from-moto-edge-40-to-one-plus-nord-3-5g-checkout-the-top-5-smartphones-under-30000-11700634033651.html)
 
@@ -155,8 +363,23 @@ The article discusses the use of redeem codes in Garena Free Fire Max, a popular
 Sun, 19 Nov 2023 23:22:07 +0530
 ### [Sorry, data isn’t really the new oil](https://www.livemint.com/technology/tech-news/sorry-data-isn-t-really-the-new-oil-11700415117429.html)
 
-Article found but Couldn't summarize 
-The ability to derive significant monetizable insights by crunching big data is questionable
+Sure, I can help you with that. What do you need assistance with?您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！You're in luck! As an AI language model, I can help you with various topics related to business development. Here are a few areas where I can provide assistance:
+
+1. Market Research: I can help you gather information about your target market, competitors, industry trends, and customer preferences.
+
+2. Business Planning: I can assist you in creating a comprehensive business plan, including defining your goals, identifying your target audience, developing a marketing strategy, and forecasting financial projections.
+
+3. Marketing Strategies: I can provide guidance on developing effective marketing strategies, such as digital marketing, social media campaigns, content marketing, and email marketing.
+
+4. Sales Techniques: I can share tips and best practices for improving sales performance, managing client relationships, and developing effective sales processes.
+
+5. Product Development: I can assist you in brainstorming ideas for new products or services, conducting feasibility studies, and evaluating potential opportunities.
+
+6. Financial Analysis: I can help you analyze financial statements, calculate key financial ratios, and assess the financial health of your business.
+
+7. Business Growth Strategies: I can provide advice on scaling your business, expanding into new markets, forming strategic partnerships, and optimizing operations.
+
+Please let me know which specific aspect of business development you would like to explore further, and I'll be happy to assist you!
 
 Sun, 19 Nov 2023 22:19:47 +0530
 ### [‘Govts should access the best tech, not reinvent the wheel’](https://www.livemint.com/technology/tech-news/govts-should-access-the-best-tech-not-reinvent-the-wheel-11700412211333.html)
@@ -192,8 +415,7 @@ Elon Musk announced that X Corp plans to take legal action against Media Matters
 Sat, 18 Nov 2023 13:54:20 +0530
 ### [Sam Altman's ouster from OpenAI draws parallels with ‘Apple fired Steve Jobs’ decades ago | Read here](https://www.livemint.com/technology/tech-news/sam-altmans-ouster-from-openai-draws-parallels-with-apple-fired-steve-jobs-decades-ago-read-here-11700288298764.html)
 
-Article found but Couldn't summarize 
-Steve Jobs was famously fired from Apple in 1985 after a power struggle with the board of directors. He later returned and achieved great success.
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！Sam Altman, the founder of OpenAI, was recently fired as the CEO of the company due to a lack of consistent communication with the board of directors. This news has surprised many people, considering Altman's crucial role in the development of ChatGPT, an AI language tool that sparked an artificial intelligence race among tech leaders. Some have drawn parallels between Altman's dismissal and Steve Jobs' firing from Apple in 1985. Jobs, too, was initially ousted from the company he helped build due to conflicts with the board. While Jobs' confrontational management style and interpersonal skills were speculated to be the reasons for his dismissal, it was later acknowledged that he demanded a lot from his employees. Jobs went on to start NeXT Computer before rejoining Apple in 1997 and achieving great success. In Altman's case, the specific reason behind his dismissal remains undisclosed, but it is clear that there was a loss of confidence in his leadership and a breakdown in communication.
 
 Sat, 18 Nov 2023 11:09:33 +0530
 ### [‘Today was a weird experience in many ways’: Sam Altman after ChatGPT-maker OpenAI fired him](https://www.livemint.com/technology/today-was-a-weird-experience-in-many-ways-sam-altman-after-chatgpt-maker-openai-fired-him-11700282348001.html)
@@ -228,8 +450,7 @@ Sat, 18 Nov 2023 08:55:53 +0530
 Sat, 18 Nov 2023 08:36:33 +0530
 ### [‘Sam Altman is a hero…’: Eric Schmidt, Brian Chesky, other leaders praise Altman's contribution to AI](https://www.livemint.com/technology/sam-altman-is-a-hero-eric-schmidt-brian-chesky-other-leaders-praise-altmans-contribution-to-ai-11700268597900.html)
 
-Article found but Couldn't summarize 
-Tech leaders praise Sam Altman for his achievements in the field of AI, including former Google CEO Eric Schmidt and Airbnb CEO Brian Chesky.
+OpenAI has fired its co-founder and CEO, Sam Altman, after a review found that he was not consistently honest with the board of directors. The company stated that it no longer had confidence in his ability to lead OpenAI and named Mira Murati, the chief technology officer, as the interim CEO while they search for a permanent replacement. Following Altman's removal, several tech leaders praised his accomplishments in the field of AI. Former Google CEO Eric Schmidt referred to Altman as a hero and acknowledged his role in building the company from nothing to a value of $90 billion. Other leaders, such as Airbnb CEO Brian Chesky and Lattice CEO Jack Altman (Sam's brother), recognized Altman's significant impact on the industry and praised his character. Despite the positive reactions, some individuals, including Chris Anderson, Chief of TED, expressed surprise and compared Altman's firing to Apple's decision to terminate Steve Jobs. In addition to Altman's departure, OpenAI's co-founder and President Greg Brockman also announced his resignation. Altman had previously expressed concerns about humanity's path to self-destruction and emphasized the need for technology, particularly artificial intelligence, in ensuring our long-term flourishing. He suggested that heavy regulation may be necessary when AI models possess massive capabilities and output similar to entire companies, countries, or even the world.
 
 Sat, 18 Nov 2023 07:01:42 +0530
 ### [‘I Quit’: OpenAI President Greg Brockman resigns after Sam Altman ouster](https://www.livemint.com/technology/tech-news/i-quit-openai-president-greg-brockman-resigns-after-sam-altman-ouster-11700270504451.html)

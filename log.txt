@@ -575,3 +575,28 @@ Started at 2023-11-22 06:21:39
 Finished at 2023-11-22 10:28:54
 Total time taken: 14835.597904205322 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2023-11-27 23:11:25
+38 Feed entries have been written to feeds/Explained_IE.xml
+25 Feed entries have been written to feeds/Explain_FP.xml
+10 Feed entries have been written to feeds/Explained_TH.xml
+57 Feed entries have been written to feeds/Opinion_IE.xml
+25 Feed entries have been written to feeds/Opinion_FP.xml
+35 Feed entries have been written to feeds/Opinion_Mint.xml
+10 Feed entries have been written to feeds/EDITORIAL_TH.xml
+1 Feed entries have been written to feeds/Column_TH.xml
+50 Feed entries have been written to feeds/The_Wire.xml
+25 Feed entries have been written to feeds/Tech_FP.xml
+35 Feed entries have been written to feeds/Tech_Mint.xml
+15 Feed entries have been written to feeds/Movie_Review_TH.xml
+20 Feed entries have been written to feeds/ThePrint.xml
+346 new entries have been added
+1 summaries have been updated to feeds/Opinion_FP.xml
+1 summaries have been updated to feeds/Opinion_Mint.xml
+1 summaries have been updated to feeds/EDITORIAL_TH.xml
+1 summaries have been updated to feeds/Column_TH.xml
+4 summaries have been updated to feeds/Tech_Mint.xml
+5 summaries have been updated to feeds/ThePrint.xml
+13 summaries have been updated
+Finished at 2023-11-28 03:34:58
+Total time taken: 15813.239123106003 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

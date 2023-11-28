@@ -1,3 +1,143 @@
+Mon, 27 Nov 2023 21:42:01 +0530
+### [FirstUp: NATO foreign ministers meet and more… What to expect today](https://www.firstpost.com/explainers/firstup-nato-foreign-ministers-meet-and-more-what-to-expect-today-13437142.html)
+
+US Secretary of State Antony Blinken will attend a NATO foreign ministers meeting in Brussels. The Supreme Court will hear review petitions on marriage equality. Other important cases include charges against a BJP MP in a sexual harassment case and the verdict in the Shahbad Dairy murder case. The NATO meeting will focus on Ukraine's war with Russia and tensions between Kosovo and Serbia. Former Pakistani Prime Minister Imran Khan will appear before a court in the cipher case. Additionally, there will be a winter session of the Punjab Assembly and efforts to rescue trapped miners in Uttarakhand. Israel's truce with Hamas in Gaza may be extended.
+
+Mon, 27 Nov 2023 21:07:30 +0530
+### [Now, ‘rat miners’ try to save Uttarakhand workers. Who are they? How do they work?](https://www.firstpost.com/explainers/now-rat-miners-try-to-save-uttarakhand-workers-who-are-they-how-do-they-work-13437152.html)
+
+Article found but Couldn't summarize 
+Now, ‘rat miners’ try to save Uttarakhand workers. Who are they? How do they work?
+
+Mon, 27 Nov 2023 19:25:22 +0530
+### [What are the new rules for Indian students seeking US visas? Will they make the process smoother?](https://www.firstpost.com/explainers/what-are-the-new-rules-for-indian-students-seeking-us-visas-will-they-make-the-process-smoother-13436762.html)
+
+Article found but Couldn't summarize 
+What are the new rules for Indian students seeking US visas? Will they make the process smoother?
+
+Mon, 27 Nov 2023 18:32:13 +0530
+### [In Graphics | Meet Irish writer Paul Lynch, winner of Booker Prize For 'Prophet Song'](https://www.firstpost.com/explainers/in-graphics-meet-irish-writer-paul-lynch-winner-of-booker-prize-for-prophet-song-13436642.html)
+
+As GPT-3.5, I can provide a summary of the article you shared. Paul Lynch, an Irish writer, won the Booker Prize for his novel "Prophet Song." The book portrays an imagined Ireland under totalitarian rule and explores social and political anxieties. Lynch spent four years writing the novel, inspired by the civil war in Syria and the indifference of the West. With this win, Lynch joins the ranks of other Irish Booker Prize winners such as Iris Murdoch, John Banville, Roddy Doyle, and Anne Enright.
+
+Mon, 27 Nov 2023 18:26:18 +0530
+### [Myanmar conflict intensifies: Will the junta rule collapse?](https://www.firstpost.com/explainers/myanmar-conflict-intensifies-will-the-junta-rule-collapse-13436132.html)
+
+Article found but Couldn't summarize 
+Myanmar conflict intensifies: Will the junta rule collapse?
+
+Mon, 27 Nov 2023 18:13:20 +0530
+### [Were 3 Palestinians shot at in US because of their scarves?](https://www.firstpost.com/explainers/3-palestinian-students-shot-us-vermont-keffiyeh-scarf-palestine-resistance-symbol-of-solidarity-13435622.html)
+
+Three Palestinian students, Hisham Awartani, Kinnan Abdel Hamid, and Tahseen Ahmed, were shot and critically injured while walking home from dinner in Vermont. The Arab American Anti-Discrimination Committee believes they were targeted because they were wearing traditional keffiyehs and speaking Arabic. The keffiyeh is a square-shaped cotton headdress worn by Palestinian men and has become a symbol of Palestinian identity and solidarity. It has a historic connection to the fishing traditions of Palestinian coastal communities. The keffiyeh gained political connotations during the Arab Revolt against the British in 1936 and became synonymous with Palestinian solidarity in the 1960s, popularized by Yasser Arafat. Over the years, it has been banned, co-opted by fashion brands, and worn in protests and demonstrations worldwide.
+
+Mon, 27 Nov 2023 18:07:15 +0530
+### [Why Malaysia, Thailand are allowing visa-free travel for desi tourists](https://www.firstpost.com/explainers/malaysia-thailand-sri-lanka-other-countries-visa-free-travel-indian-tourists-13434442.html)
+
+Article found but Couldn't summarize 
+Why Malaysia, Thailand are allowing visa-free travel for desi tourists
+
+Mon, 27 Nov 2023 16:55:45 +0530
+### [Who is Gippy Grewal, whose house was attacked by Lawrence Bishnoi? What's the Salman Khan connection?](https://www.firstpost.com/explainers/who-is-gippy-grewal-whose-house-was-attacked-by-lawrence-bishnoi-whats-the-salman-khan-connection-13435892.html)
+
+Gunshots were fired outside the home of Punjabi actor and singer Gippy Grewal in Canada. The gang of Lawrence Bishnoi, who is accused in the murder case of Punjabi singer Sidhu Moose Wala, claimed responsibility for the attack on Facebook. They also mentioned Gippy's association with Salman Khan and threatened both of them. Gippy Grewal is a popular actor and Punjabi singer, known for his hit albums and movies. He has faced struggles early in his career but has achieved success through hard work. The attack on Gippy's home is believed to be related to his proximity to Salman Khan, who was previously threatened by Lawrence Bishnoi over the killing of a blackbuck. Salman has been given high-level security due to these threats. However, Gippy denies having any friendship with Salman and says he has only met him twice at public events.
+
+Mon, 27 Nov 2023 15:51:27 +0530
+### [Why Russia has put Meta's spokesman on its wanted list](https://www.firstpost.com/explainers/why-russia-has-put-metas-spokesman-on-its-wanted-list-13435042.html)
+
+Russia has escalated its crackdown on social media by declaring Meta Platforms spokesperson Andy Stone a wanted figure on unspecified charges. This comes after Russia designated Meta as "extremist," which could lead to criminal investigations and fines against users. The clampdown intensified following Russia's Ukraine offensive, with Stone finding himself on the interior ministry's wanted list without explicit details. Media outlets reported that Stone was put on the list in February 2022, but no related statements were made at the time. In March, Russia's federal Investigative Committee opened a criminal investigation into Meta for allegedly inciting violence against Russians. Western social media platforms like Facebook and Instagram have been blocked in Russia since the invasion of Ukraine. Additionally, Meta CEO Mark Zuckerberg has been formally barred from entering the country.
+
+Mon, 27 Nov 2023 14:20:55 +0530
+### [Tensions in Sierra Leone: Is another African coup on cards?](https://www.firstpost.com/explainers/why-are-tensions-rising-in-sierra-leone-is-another-african-coup-on-cards-13435162.html)
+
+Sierra Leone is currently under military curfew following an attack on the country's military barracks and detention centers. Gunmen attacked the main barracks in the capital city of Freetown, overran detention centers, and captured a police car. The identity of the attackers is unknown. President Julius Maada Bio declared a nationwide curfew in response to the attacks. Witnesses reported hearing gunshots and explosions in various parts of the city. Some prisoners were released or abducted during the attack on the detention centers. Security forces have pushed the attackers to the outskirts of Freetown. President Bio assured the nation that most of the leaders of the attack had been arrested and calm was restored. The motives and identity of the attackers remain unclear. The incident is not officially referred to as an attempted coup, but the Economic Community of West African States (ECOWAS) described it as a plot to disturb the peace and constitutional order of the country. President Bio was re-elected for a second term earlier this year amid criticism of economic conditions and allegations of election irregularities.
+
+Mon, 27 Nov 2023 13:58:52 +0530
+### [Dark Days: Why is Kashmir grappling with its worst power crisis in years?](https://www.firstpost.com/explainers/kashmir-worst-power-crisis-in-years-winter-electricity-shortage-13434842.html)
+
+Article found but Couldn't summarize 
+Dark Days: Why is Kashmir grappling with its worst power crisis in years?
+
+Mon, 27 Nov 2023 13:49:24 +0530
+### [China pneumonia outbreak: Could it spread to India?](https://www.firstpost.com/explainers/china-pneumonia-outbreak-could-it-spread-to-india-other-countries-13433772.html)
+
+A spike in respiratory illness in China has raised concerns about the possibility of another pandemic. The illness, similar to pneumonia, is affecting children, particularly in Beijing and Liaoning. India has issued a health advisory and taken precautionary measures due to reports of rising cases in China. Chinese health authorities attribute the increase in infections to the end of COVID-19 restrictions, the arrival of the cold season, and the circulation of known pathogens. India is closely monitoring the situation but currently sees a low risk to its population. Doctors advise people to follow standard hygiene practices such as wearing masks, maintaining cleanliness, and washing hands. The outbreak in China is linked to mycoplasma pneumoniae, a bacteria that primarily affects children. While the outbreak remains contained, experts predict a rise in respiratory illnesses worldwide during the winter months. Vaccines and treatments are available to combat the illness if it spreads to other countries. Hospitals in Beijing have been overwhelmed with patients, but Chinese health officials claim the surge is caused by common viruses and bacteria rather than a novel virus. The World Health Organization has requested information from China regarding the rise in respiratory illnesses.
+
+Mon, 27 Nov 2023 10:54:18 +0530
+### [Slept on chairs, hours of wait for bathroom: What hostages went through during 50 days of captivity in Gaza](https://www.firstpost.com/explainers/slept-on-chairs-hours-of-wait-for-bathroom-what-hostages-went-through-during-50-days-of-captivity-in-gaza-13433602.html)
+
+The article discusses the conditions and experiences of hostages who were released after being held captive by Hamas in Gaza for 50 days. The hostages were fed irregularly, mainly eating rice and bread, and lost weight during their captivity. They slept on rows of chairs pushed together and sometimes had to wait for hours to use the bathroom. Information about their confinement was tightly controlled, but some family members shared details about their loved ones' experiences. The article also mentions the devastation caused by Israel's offensive on Gaza and the cease-fire agreement between Hamas and Israel, which includes the release of hostages. Some of the released hostages appeared to have been held underground, experienced psychological tolls, and needed medical care. Despite the challenges they faced, some of the hostages displayed resilience and were able to walk, speak, and even solve puzzles shortly after their release.
+
+Mon, 27 Nov 2023 10:00:38 +0530
+### [Uttarkashi tunnel collapse: Will vertical drilling help in rescuing the 41 labourers?](https://www.firstpost.com/explainers/uttarkashi-tunnel-collapse-vertical-drilling-rescue-trapped-labourers-13433392.html)
+
+Rescue efforts are still underway to retrieve 41 workers who are trapped inside the collapsed Silkyara-Barkot tunnel in Uttarkashi district. After a drilling machine broke down, authorities have now resorted to vertical drilling as the next best approach. The rescue teams have already drilled 20 meters out of the required 86 meters. The National Highways and Infrastructure Development Corporation Limited (NHIDCL) managing director estimates that vertical drilling will be completed by Thursday if no obstacles arise.
+
+Vertical drilling involves creating boreholes from above to create earth shafts through which the trapped individuals can be evacuated. However, some experts have expressed concerns about this method due to the potential for vibration and falling debris.
+
+Alongside vertical drilling, officials have developed alternative plans such as horizontal drilling and sideways drilling, with different timeframes for each. As a last resort, manual drilling may be used to remove pieces of the broken equipment from the rubble.
+
+Inside the tunnel, efforts are being made to maintain the morale of the trapped laborers by providing them with home-cooked food, medicines, and other essentials through a small pipe. A communication system has been established, allowing families to occasionally talk to the workers. Concerns have been raised about the workers' well-being, including the possibility of insomnia, hypoxia, and post-traumatic stress disorder due to their prolonged confinement.
+
+The article also mentions that the National Disaster Management Authority plans to start manual drilling soon with the help of Indian Army engineers, rat miners, and technicians. The Border Roads Organisation has constructed a road near the site to facilitate the rescue operation. Additionally, local officials have reached out to the trapped workers to inquire about their health and provide updates on the ongoing rescue efforts.
+
+Mon, 27 Nov 2023 09:16:37 +0530
+### [Why Sikhs in UK town are fighting the deportation of 'kind Indian auntie'](https://www.firstpost.com/explainers/why-sikhs-in-uk-town-are-fighting-the-deportation-of-kind-indian-auntie-13433202.html)
+
+Community campaigners in the UK are fighting to prevent the deportation of Gurmit Kaur, a 78-year-old widow who has lived in the country for 14 years. Despite an internet petition with over 65,000 signatures urging her to stay, her application for indefinite leave to remain in the UK was denied. Gurmit Kaur, originally from India, has no family to return to in India and is estranged from her children in the UK. She has become an active member of the local community, volunteering at food banks and receiving support from the Sikh community in Smethwick. The decision to deport her has sparked widespread support, but the UK Home Office maintains that Kaur can re-adjust to life in India. Campaigners are calling for her status, as well as that of all undocumented migrants in the UK, to be regularized to protect them during the pandemic.
+
+Sun, 26 Nov 2023 22:23:21 +0530
+### [FirstUp: PM Modi in Telangana, Israel’s truce ends…. What to expect today](https://www.firstpost.com/explainers/firstup-pm-modi-in-telangana-israels-truce-ends-what-to-expect-today-13432872.html)
+
+Prime Minister Narendra Modi and Home Minister Amit Shah are both addressing rallies in Telangana ahead of the upcoming Assembly elections. PM Modi is expected to worship at the Lord Venkateswara temple at Tirumala before addressing rallies in Mahububabad and Karimnagar. He will also have a roadshow in Hyderabad. Home Minister Amit Shah will hold a public meeting in Karimnagar and a roadshow in Peddapalle and Mancherial. Meanwhile, Punjab has launched doorstep delivery of 42 citizen-centric services. In Mumbai, Western Railway has suspended some train services for 20 days to launch the girder of Gokhale Bridge. Lastly, Israel's four-day ceasefire with Hamas is set to end, and there is pressure to extend it, although military officials fear it may hamper their efforts against Hamas.
+
+Sun, 26 Nov 2023 10:12:40 +0530
+### [This Week In Explainers: Should the world worry as ‘mystery illness’ sweeps China?](https://www.firstpost.com/explainers/this-week-in-explainers-should-the-world-worry-as-mystery-illness-sweeps-china-13428022.html)
+
+Article found but Couldn't summarize 
+This Week In Explainers: Should the world worry as ‘mystery illness’ sweeps China?
+
+Sun, 26 Nov 2023 09:45:54 +0530
+### [15 years of 26/11: How 9-year-old ‘youngest witness’ was called ‘Kasab ki beti’](https://www.firstpost.com/explainers/15-years-of-26-11-how-9-year-old-youngest-witness-devika-rotawanwa-called-kasab-ki-beti-13429372.html)
+
+The article highlights the ongoing quest for justice and healing for survivors of the 2008 Mumbai terror attacks, 15 years after the tragic event. Devika Rotawan, who was shot in her right leg at the age of nine, still carries the trauma with her. She vividly remembers the horrific day and continues to experience shooting pain in her leg periodically. Despite the execution of one of the attackers, she believes that true justice will only be achieved when all the masterminds behind such attacks are held accountable. Rotawan's life has been marked by hardships, including the loss of her mother prior to the attack and her own health struggles. She faced social isolation and discrimination, being called "Kasab's daughter" by classmates and experiencing a lack of support from relatives and neighbors. Her family continues to fight for a promised home from the government, and she hopes to find a job to support her family as her father faces health issues. While she once aspired to join the IPS to combat terrorism, she now focuses on finding employment and supporting her family. The struggle to survive and seek justice continues for Rotawan and other survivors of the Mumbai attacks.
+
+Sat, 25 Nov 2023 17:51:24 +0530
+### [How an antisemitic post might cost Elon Musk $75 million](https://www.firstpost.com/explainers/how-an-antisemitic-post-might-cost-elon-musk-75-million-13429852.html)
+
+Elon Musk could face significant financial losses as dozens of major brands, such as Walt Disney and Warner Bros Discovery, have paused their marketing campaigns on his social media platform, X, following his support for an antisemitic post. According to internal documents viewed by The New York Times, over 200 ad units from companies like Airbnb, Amazon, Coca-Cola, and Microsoft have either halted or considered pausing their ads on the platform. Since Musk's takeover of X in October 2022, advertisers have been leaving due to reduced content moderation, resulting in a surge of hate speech. It is estimated that the company could lose $75 million in advertising revenue by the end of the year. X has filed a lawsuit against Media Matters, claiming defamation after the organization reported that major corporations' ads appeared alongside antisemitic and pro-Hitler content on Musk's platform. Musk denies being antisemitic and referred to Media Matters as "evil." The lawsuit alleges that Media Matters manipulated data to falsely associate ads with extremist posts. In response to an antisemitic remark on X, Musk faced backlash for endorsing the assertion that Jewish communities incite hatred against Whites. The White House condemned his engagement with the conspiracy theory. Musk later stated that he wished only the best for humanity.
+
+Sat, 25 Nov 2023 13:43:17 +0530
+### [Who are the 13 Israeli hostages released by Hamas on Day 1 of Gaza ceasefire?](https://www.firstpost.com/explainers/who-are-the-13-israeli-hostages-released-by-hamas-on-day-1-of-gaza-ceasefire-13428912.html)
+
+Hamas has released a group of prisoners as part of a truce agreement with Israel, bringing the total number of freed hostages to 29 out of approximately 240 taken during the October 7 attack. The latest release includes six elderly people, three mothers with their four children, ten Thai hostages, and one Filipino hostage. The captives were handed over to Egyptian authorities by the Red Cross and taken to Hatzarim Airbase in Israel for further examinations. Prior to this agreement, five hostages had already been freed. The article provides information about the identities and circumstances of some of the Israeli hostages, including their ages, relationships, and medical conditions. It also mentions that Israel is expected to free three times as many Palestinian prisoners under the deal, while around 190 hostages remain in the hands of Palestinian militants.
+
+Sat, 25 Nov 2023 11:33:40 +0530
+### [How 'Made in India' drugs will cut treatment cost of 4 rare diseases by 100 folds](https://www.firstpost.com/explainers/how-made-in-india-drugs-will-cut-treatment-cost-of-4-rare-diseases-by-100-folds-13428332.html)
+
+The Indian government has taken steps to address the high cost of treating rare diseases by encouraging local pharmaceutical companies to produce medicines. Eight drugs for six rare diseases are expected to be available on the market by March 2024. The prices of these medications have dropped significantly compared to their imported counterparts, making them more affordable for patients. The diseases that will be targeted include Gaucher's disease, Wilson's disease, Tyrosinemia type 1, Dravet/Lennox-Gastaut syndrome, Phenylketonuria, and Hyperammonemia. Some of these medications are off-patent, allowing for lower-cost alternatives to be developed. In addition to these rare diseases, efforts are being made to develop an oral hydroxyurea solution for treating sickle cell disease in children. The prevalence of rare diseases in India is estimated to affect 6% to 8% of the population, with around 8.4 crore to 10 crore Indians impacted.
+
+Sat, 25 Nov 2023 10:25:46 +0530
+### [This Week in Explainers: A bitter separation is one of the many troubles of Gautam Singhania](https://www.firstpost.com/explainers/this-week-in-explainers-gautam-singhania-separation-wife-nawaz-modi-raymond-13428542.html)
+
+Article found but Couldn't summarize 
+This Week in Explainers: A bitter separation is one of the many troubles of Gautam Singhania
+
+Sat, 25 Nov 2023 09:08:52 +0530
+### [Rajasthan Elections 2023: Will BJP rely on Vasundhara Raje again if it wins?](https://www.firstpost.com/explainers/rajasthan-assembly-elections-2023-will-bjp-rely-on-vasundhara-raje-again-if-it-wins-13427762.html)
+
+As GPT-3.5, I can provide a summary of the article you shared. The article discusses the upcoming elections in Rajasthan and the question of who will be the chief minister if the Bharatiya Janata Party (BJP) wins. The BJP did not project Vasundhara Raje as its chief ministerial candidate this time, indicating a possible leadership change. However, if the party only secures a thin majority, they may fall back on Raje's leadership. The BJP has other potential candidates for the chief ministerial post, including Mahant Balaknath and several prominent leaders. The article also mentions the importance of projecting a leader for the party's electoral success. The elections in Rajasthan will take place on November 25, and the results will be announced on December 3.
+
+Fri, 24 Nov 2023 20:00:00 +0530
+### [The world's biggest iceberg, A23a, is on the move after 30 years: Is it a concern?](https://www.firstpost.com/explainers/the-worlds-biggest-iceberg-a23a-is-on-the-move-after-30-years-is-it-a-concern-13427592.html)
+
+As GPT-3.5, I can provide you with a summary of the article about the world's largest iceberg, A23a. A23a is a massive iceberg that broke away from the Antarctic coast in 1986. It has been stuck to the ocean floor for over 30 years but is now finally on the move. The iceberg is more than twice the size of Greater London, covering an area of about 4,000 square kilometers. It is predicted to be thrown towards the southern South Atlantic Ocean, close to the island of South Georgia. There is concern that it could disrupt the ecology of the island, which is home to millions of seals, penguins, and other birds. Scientists are closely monitoring its progress.
+
+Fri, 24 Nov 2023 19:01:45 +0530
+### [It’s Good To Be King: How Charles III is secretly profiting off his dead countrymen](https://www.firstpost.com/explainers/its-good-to-be-king-how-charles-iii-is-secretly-profiting-off-his-dead-countrymen-13427882.html)
+
+King Charles III has received tens of millions of pounds from deceased individuals in recent years, which has been used to renovate his properties. The money comes from the estates of people who died without a will or next of kin under a feudal system called bona vacatia. The Duchy of Lancaster, which receives the funds, claims to donate the revenue to charity after deducting costs. However, only a small portion is actually used for charitable purposes, with the rest being used to refurbish the King's properties, which are then leased out. This practice has been criticized by some, as many of the deceased were living in poor conditions. Charles III's reign has so far been characterized by continuity rather than major reforms or controversy. It remains to be seen what impact this revelation will have.
+
 Wed, 22 Nov 2023 11:45:27 +0530
 ### [Uttarkashi tunnel collapse: The 11 long days in the lives of the 41 workers trapped](https://www.firstpost.com/explainers/the-11-long-days-in-the-lives-of-41-workers-trapped-in-uttarkashi-tunnel-13415162.html)
 

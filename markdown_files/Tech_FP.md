@@ -1,3 +1,148 @@
+Mon, 27 Nov 2023 18:40:28 +0530
+### [Foxconn's main manufacturing division to invest $1.57 billion in building a factory in India](https://www.firstpost.com/tech/foxconn-plans-to-invest-nearly-2-billion-dollars-in-building-a-manufacturing-factory-in-india-13436392.html)
+
+Foxconn, a major electronics contract manufacturer, is set to invest over $1.57 billion in India, aligning with its strategic efforts to expand manufacturing capabilities in the country. Currently, Foxconn assembles smartphones and other devices in India but does not manufacture components there. This investment will support India's manufacturing goals and Prime Minister Narendra Modi's Make In India movement. Foxconn had previously planned a semicon manufacturing unit in partnership with Vedanta but had to abandon the venture due to lack of experience. The company aims to double its investment and workforce in India within the next twelve months.
+
+Mon, 27 Nov 2023 17:20:02 +0530
+### [New Digital Arrest cyber fraud is causing widespread terror in India: What is it and how to stay safe?](https://www.firstpost.com/tech/new-digital-arrest-cyber-fraud-is-causing-widespread-terror-in-india-what-is-it-and-how-to-stay-safe-13436202.html)
+
+In a new type of scam, criminals are impersonating local police or customs officials to threaten victims with potential arrest for made-up charges. The victims, in a state of panic, end up paying large sums of money to settle the case. This emerging form of cybercrime, known as "digital arrest" scams, involves fraudsters posing as law enforcement officers and using digital communication methods to manipulate and deceive individuals. In a recent incident, a 23-year-old woman lost Rs 2.5 lakh when scammers pretending to be customs officers convinced her she was involved in a passport trafficking case. The perpetrators created a sense of urgency and fear, providing false evidence and demanding significant payments to avoid legal consequences. Law enforcement authorities are taking this cyber fraud seriously and urging further investigation. To protect yourself from such scams, it is important to stay aware, verify the identity of anyone claiming to be a law enforcement officer, remain calm, refrain from sharing personal or financial information, independently verify claims, use official channels for communication, familiarize yourself with common signs of scams, and stay updated on the latest news.
+
+Mon, 27 Nov 2023 16:25:08 +0530
+### [Deorbiting Home: NASA to soon start deorbiting the ISS from space. Here’s why it will cost them billions](https://www.firstpost.com/tech/deorbiting-home-nasa-to-soon-start-dismantling-the-iss-in-space-heres-why-it-will-cost-them-billions-13435782.html)
+
+NASA is preparing to decommission the International Space Station (ISS) by 2030 and is exploring safe ways to dispose of the spacecraft. The estimated cost for decommissioning and deorbiting the ISS is at least $1 billion, although experts believe it will be even higher. The space station, which has been hosting astronauts for 23 years, is showing signs of wear and tear and is approaching a point where it won't be safe for habitation. NASA aims to safely deorbit the ISS, either through an uncontrollable descent or a carefully orchestrated descent using a special spacecraft. The former option poses risks of debris falling on populated areas, while the latter requires a powerful custom-built vehicle. The decommissioning process is complicated by the geopolitics involved, as the ISS has relied on Russian spacecraft historically. Despite the challenges and costs, the decommissioning plan signifies the end of an era for the ISS and its significant contributions to scientific research and international collaboration in space exploration.
+
+Mon, 27 Nov 2023 15:52:03 +0530
+### [Russia’s Gambit: Places Meta spokesperson on wanted list amid social media crackdown](https://www.firstpost.com/tech/russias-gambit-places-meta-spokesperson-on-wanted-list-amid-social-media-crackdown-13435592.html)
+
+Article found but Couldn't summarize 
+Russia’s Gambit: Places Meta spokesperson on wanted list amid social media crackdown
+
+Mon, 27 Nov 2023 15:32:57 +0530
+### [Grokking love: Elon Musk's ChatGPT rival AI gives Shakespeare run for money in sonnet of heart](https://www.firstpost.com/tech/grokking-love-elon-musks-chatgpt-rival-ai-gives-shakespeare-run-for-money-in-sonnet-of-heart-13435492.html)
+
+Article found but Couldn't summarize 
+Grokking love: Elon Musk's ChatGPT rival AI gives Shakespeare run for money in sonnet of heart
+
+Mon, 27 Nov 2023 13:20:05 +0530
+### [Game Over: TikTok’s parent company ByteDance to fire hundreds as it exits gaming sector in major retreat](https://www.firstpost.com/tech/game-over-tiktoks-parent-company-bytedance-to-fire-hundreds-as-it-exits-gaming-sector-in-major-retreat-13434782.html)
+
+ByteDance, the parent company of TikTok, is retreating from the global gaming industry and cutting its losses. It plans to fire hundreds of employees from its gaming brand Nuverse. This move is seen as a significant withdrawal from the gaming sector and a victory for rival Tencent Holdings Ltd. ByteDance will terminate employees, discontinue projects, and explore potential sales of existing gaming titles. The company's decision reflects its struggle to gain market share from Tencent. ByteDance had previously acquired studios and distribution rights in an effort to expand into gaming but has now refocused on its core businesses of short video and e-commerce. The spokesperson for ByteDance has not commented on the shutdown of Nuverse. Tencent remains the dominant leader in the gaming industry, benefiting from extensive user traffic through WeChat and strategic acquisitions.
+
+Mon, 27 Nov 2023 12:35:23 +0530
+### [US, Britain, other countries sign agreement to make AI bots 'secure by design'](https://www.firstpost.com/tech/us-britain-other-countries-sign-agreement-to-make-llms-other-bots-secure-by-design-13434432.html)
+
+Several countries, including the US, Britain, Germany, Italy, and others, have signed an agreement emphasizing the importance of ensuring the security of artificial intelligence (AI). The 20-page document encourages companies to develop and deploy AI systems that prioritize customer and public safety. While the agreement is non-binding, it suggests monitoring AI systems for abuse, protecting data, and vetting software suppliers. The director of the US Cybersecurity and Infrastructure Security Agency highlights the significance of countries endorsing the idea of prioritizing security during the design phase. The guidelines address concerns related to preventing AI technology hijacking by hackers but do not cover issues regarding appropriate AI use or data gathering. Various governments have taken initiatives in shaping AI development, but enforcement has been lacking. Europe has been active in AI regulations, and the Biden administration issued an executive order to mitigate AI risks. However, limited progress has been made in enacting effective AI regulation due to a divided US Congress.
+
+Mon, 27 Nov 2023 12:10:01 +0530
+### [Consumers may face higher prices to save employees from AI, automation, says EU Commissioner](https://www.firstpost.com/tech/consumers-may-face-higher-prices-to-save-employees-from-ai-automation-says-eu-commissioner-13434282.html)
+
+Article found but Couldn't summarize 
+Consumers may face higher prices to save employees from AI, automation, says EU Commissioner
+
+Mon, 27 Nov 2023 11:16:56 +0530
+### [Google bets big on BharatGPT-maker CoRover, to invest $4 mn in India’s answer to OpenAI, ChatGPT](https://www.firstpost.com/tech/google-bets-big-on-bharatgpt-to-invest-4-mn-in-indias-answer-to-openais-chatgpt-13433922.html)
+
+Article found but Couldn't summarize 
+Google bets big on BharatGPT-maker CoRover, to invest $4 mn in India’s answer to OpenAI, ChatGPT
+
+Mon, 27 Nov 2023 09:56:07 +0530
+### [Tata doubles down on iPhones: Plans to expand Hosur Apple factory, to employ 28,000 people at it](https://www.firstpost.com/tech/tata-doubles-down-on-iphones-plans-to-expand-hosur-factory-employ-28000-at-it-13433582.html)
+
+Article found but Couldn't summarize 
+Tata doubles down on iPhones: Plans to expand Hosur Apple factory, to employ 28,000 people at it
+
+Fri, 24 Nov 2023 16:49:42 +0530
+### [His AI'ness: Godfather of self-driving cars to restart his church to worship artificial intelligence](https://www.firstpost.com/tech/his-ainess-godfather-of-self-driving-cars-to-restart-his-church-to-worship-artificial-intelligence-13427512.html)
+
+Article found but Couldn't summarize 
+His AI'ness: Godfather of self-driving cars to restart his church to worship artificial intelligence
+
+Fri, 24 Nov 2023 15:59:02 +0530
+### [Bill Gates advocates for a 3-day work week with help of AI, foresees a more leisurely future](https://www.firstpost.com/tech/bill-gates-advocates-for-a-3-day-work-week-with-help-of-ai-foresees-a-more-leisurely-future-13427212.html)
+
+Article found but Couldn't summarize 
+Bill Gates advocates for a 3-day work week with help of AI, foresees a more leisurely future
+
+Fri, 24 Nov 2023 15:58:38 +0530
+### [Sony’s fight with deepfakes: Working on in-camera authenticator to curb AI-generated fake images](https://www.firstpost.com/tech/sonys-fight-with-deepfakes-working-on-in-camera-authenticator-to-curb-ai-generated-fake-images-13427152.html)
+
+Article found but Couldn't summarize 
+Sony’s fight with deepfakes: Working on in-camera authenticator to curb AI-generated fake images
+
+Fri, 24 Nov 2023 14:26:45 +0530
+### [Formula 1 Gets Intelligent: Regulating body FIA to monitor track violations using AI in Abu Dhabi GP](https://www.firstpost.com/tech/formula-1-gets-intelligent-regulating-body-fia-to-monitor-track-violations-using-ai-in-abu-dhabi-gp-13426742.html)
+
+Article found but Couldn't summarize 
+Formula 1 Gets Intelligent: Regulating body FIA to monitor track violations using AI in Abu Dhabi GP
+
+Fri, 24 Nov 2023 14:04:57 +0530
+### [India to appoint deepfake watchdog as SM platforms, govt to align policy in 7 days](https://www.firstpost.com/tech/india-to-appoint-deepfake-watchdog-as-sm-platforms-govt-to-align-policy-in-7-days-13426572.html)
+
+Article found but Couldn't summarize 
+India to appoint deepfake watchdog as SM platforms, govt to align policy in 7 days
+
+Fri, 24 Nov 2023 13:12:40 +0530
+### [Best phones under Rs 40,000 (Nov 2023): Google Pixel 7a, OnePlus 11R 5G to Samsung Galaxy S21 FE 5G](https://www.firstpost.com/tech/best-phones-under-rs-40000-november-2023-13426162.html)
+
+Article found but Couldn't summarize 
+Best phones under Rs 40,000 (Nov 2023): Google Pixel 7a, OnePlus 11R 5G to Samsung Galaxy S21 FE 5G
+
+Fri, 24 Nov 2023 12:40:57 +0530
+### [Thomson 55OPMAXGT9030 Smart TV Review: Can be a good option after a few fixes](https://www.firstpost.com/tech/thomson-55opmaxgt9030-smart-tv-review-can-be-a-good-option-after-a-few-fixes-13426022.html)
+
+Article found but Couldn't summarize 
+Thomson 55OPMAXGT9030 Smart TV Review: Can be a good option after a few fixes
+
+Fri, 24 Nov 2023 10:40:03 +0530
+### [Rashmika, Katrina’s deepfake video tip of the iceberg, Ratan Tata’s fake video used by scammers](https://www.firstpost.com/tech/rashmika-katrinas-deepfake-video-tip-of-the-iceberg-ratan-tatas-fake-video-used-by-scammers-13425252.html)
+
+Article found but Couldn't summarize 
+Rashmika, Katrina’s deepfake video tip of the iceberg, Ratan Tata’s fake video used by scammers
+
+Thu, 23 Nov 2023 17:07:29 +0530
+### [Bill Gates believes we can fight climate change using GMO crops and livestock. Will it work?](https://www.firstpost.com/tech/bill-gates-believes-we-can-fight-climate-change-using-gm-crops-and-livestock-does-it-work-13423422.html)
+
+Article found but Couldn't summarize 
+Bill Gates believes we can fight climate change using GMO crops and livestock. Will it work?
+
+Thu, 23 Nov 2023 16:03:46 +0530
+### [OpenAI’s bots getting 'dangerously' close to human-like intelligence may have led to Sam Altman's ouster](https://www.firstpost.com/tech/openai-was-close-to-achieving-human-like-intelligence-in-ai-warned-researchers-before-sam-altmans-ouster-13422502.html)
+
+Article found but Couldn't summarize 
+OpenAI’s bots getting 'dangerously' close to human-like intelligence may have led to Sam Altman's ouster
+
+Thu, 23 Nov 2023 14:32:54 +0530
+### [AI Influencer: Aitana, Spain's first, human-like AI model makes more than 10,000 Euros a month](https://www.firstpost.com/tech/ai-influencer-aitana-spains-first-human-like-ai-model-makes-more-than-10000-euros-a-month-13421972.html)
+
+Article found but Couldn't summarize 
+AI Influencer: Aitana, Spain's first, human-like AI model makes more than 10,000 Euros a month
+
+Thu, 23 Nov 2023 12:58:38 +0530
+### [Fighting Deepfakes: MeitY, social media reps formulate plan to take on AI-gen fake videos](https://www.firstpost.com/tech/fighting-deepfakes-meity-social-media-reps-formulate-plan-to-take-on-ai-gen-fake-videos-13421152.html)
+
+Article found but Couldn't summarize 
+Fighting Deepfakes: MeitY, social media reps formulate plan to take on AI-gen fake videos
+
+Thu, 23 Nov 2023 12:32:27 +0530
+### [Elon Musk shares anonymous letter he received, detailing Sam Altman’s 'deceitful actions'](https://www.firstpost.com/tech/news-analysis/elon-musk-shares-anonymous-letter-he-received-detailing-sam-altmans-deceitful-actions-13420792.html)
+
+Article found but Couldn't summarize 
+Elon Musk shares anonymous letter he received, detailing Sam Altman’s 'deceitful actions'
+
+Thu, 23 Nov 2023 10:52:34 +0530
+### [A coup, threats of exodus and compromises: How Sam Altman’s return as OpenAI CEO played out](https://www.firstpost.com/tech/a-coup-threats-of-exodus-and-compromises-how-sam-altmans-return-as-openai-ceo-played-out-13420212.html)
+
+Article found but Couldn't summarize 
+A coup, threats of exodus and compromises: How Sam Altman’s return as OpenAI CEO played out
+
+Thu, 23 Nov 2023 10:23:43 +0530
+### [The Earth received a laser-beamed message from 16 million kilometres away: What it means](https://www.firstpost.com/tech/earth-received-a-laser-beamed-message-from-16-million-kilometres-away-what-it-means-13420022.html)
+
+Article found but Couldn't summarize 
+The Earth received a laser-beamed message from 16 million kilometres away: What it means
+
 Wed, 22 Nov 2023 14:00:18 +0530
 ### [Elon Musk, X Corp to donate all revenue from ad sales on X to hospitals in Gaza, Israel](https://www.firstpost.com/tech/elon-musk-x-corp-to-donate-revenue-from-ad-sales-on-x-to-hospitals-in-gaza-israel-13417012.html)
 

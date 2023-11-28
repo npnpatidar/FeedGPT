@@ -1,3 +1,62 @@
+Tue, 28 Nov 2023 00:30:00 +0530
+### [A touchstone of risk: On the rescue efforts in the Silkyara tunnel in Uttarkashi](https://www.thehindu.com/opinion/editorial/a-touchstone-of-risk-the-hindu-editorial-on-the-rescue-efforts-in-the-silkyara-tunnel-in-uttarkashi/article67580459.ece)
+
+Article found but Couldn't summarize 
+Extra precautions must be in place while carving through mountains
+
+Tue, 28 Nov 2023 00:15:00 +0530
+### [Not a panacea: On the Maratha demand for reservation](https://www.thehindu.com/opinion/editorial/not-a-panacea-the-hindu-editorial-on-the-maratha-demand-for-reservation/article67580811.ece)
+
+Article found but Couldn't summarize 
+Intra-community disparities lie behind Maratha demand for reservations
+
+Mon, 27 Nov 2023 00:21:00 +0530
+### [Close combat: On Rajasthan Assembly polls](https://www.thehindu.com/opinion/editorial/close-combat-the-hindu-editorial-on-the-2023-rajasthan-assembly-elections/article67576764.ece)
+
+Article found but Couldn't summarize 
+Rajasthan CM is banking on welfare schemes in a keen contest
+
+Mon, 27 Nov 2023 00:20:00 +0530
+### [Far-right turn: On Geert Wilders’ win in the Netherlands](https://www.thehindu.com/opinion/editorial/far-right-turn-the-hindu-editorial-on-the-victory-of-geert-wilders-in-the-parliamentary-elections-in-the-netherlands/article67576644.ece)
+
+Article found but Couldn't summarize 
+The rising tide of ethno-nationalist politics in Europe is worrying
+
+Sat, 25 Nov 2023 00:15:00 +0530
+### [No vote for veto: On Governors and their powers](https://www.thehindu.com/opinion/editorial/no-vote-for-veto-the-hindu-editorial-on-governors-and-their-powers/article67570651.ece)
+
+Article found but Couldn't summarize 
+Supreme Court has done well to remove the veto power of Governors
+
+Sat, 25 Nov 2023 00:10:00 +0530
+### [False alarm: On the outbreak of influenza-like illness in China](https://www.thehindu.com/opinion/editorial/false-alarm-the-hindu-editorial-on-the-outbreak-of-influenza-like-illness-in-china/article67570639.ece)
+
+Article found but Couldn't summarize 
+The rise in flu cases in China is due to increased surveillance
+
+Fri, 24 Nov 2023 00:40:00 +0530
+### [End the secrecy: On the actions of Indian agencies abroad](https://www.thehindu.com/opinion/editorial/end-the-secrecy-the-hindu-editorial-on-the-actions-of-indian-agencies-abroad/article67567225.ece)
+
+Article found but Couldn't summarize 
+India must respond meaningfully to allegations against its agents
+
+Fri, 24 Nov 2023 00:35:00 +0530
+### [Deceptive signals: On India’s goods exports numbers](https://www.thehindu.com/opinion/editorial/deceptive-signals-the-hindu-editorial-on-indias-october-2023-goods-exports-numbers/article67567242.ece)
+
+Article found but Couldn't summarize 
+October’s foreign trade tidings present a picture that could well be misread
+
+Thu, 23 Nov 2023 00:20:00 +0530
+### [Glimmer of hope: On the Israel-Hamas deal](https://www.thehindu.com/opinion/editorial/glimmer-of-hope-the-hindu-editorial-on-the-israel-hamas-deal/article67563011.ece)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！The recent Israel-Hamas deal offers relief to the people of Gaza who have been suffering since October 7. The agreement involves the release of 50 civilian hostages by Hamas and the release of 150 Palestinian prisoners by Israel. Both sides will also cease fighting for four days, with the possibility of extending the pause if more hostages are released. However, the people of Gaza are calling for a lasting ceasefire and an end to the bombing, displacement, and denial of essential supplies. Israel initially refused to negotiate with Hamas but has now engaged in talks to free hostages. The article highlights that while the deal is a positive step, a full-fledged ceasefire is needed to provide lasting relief and ease tensions in the region.
+
+Thu, 23 Nov 2023 00:15:00 +0530
+### [Unheeded advice: On the conduct of Governors](https://www.thehindu.com/opinion/editorial/unheeded-advice-the-hindu-editorial-on-the-conduct-of-governors/article67563057.ece)
+
+Article found but Couldn't summarize 
+The time has come for the Governor’s role to be reconsidered
+
 Wed, 22 Nov 2023 00:25:00 +0530
 ### [Alarming countdown: On net zero carbon emission target](https://www.thehindu.com/opinion/editorial/alarming-countdown-the-hindu-editorial-on-net-zero-carbon-emission-target/article67558814.ece)
 

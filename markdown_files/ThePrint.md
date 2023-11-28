@@ -1,3 +1,116 @@
+Tue, 28 Nov 2023 02:02:12 +0000
+### [UAE: Nahyan bin Mubarak visits WorldSkills Asia 2023](https://theprint.in/world/uae-nahyan-bin-mubarak-visits-worldskills-asia-2023/1861489/)
+
+Article found but Couldn't summarize 
+Abu Dhabi [UAE], November 28 (ANI/WAM): UAE Minister of Tolerance and Coexistence, Sheikh Nahyan bin Mubarak Al Nahyan said that the UAE&#8217;s leadership values the country&#8217;s achievements in promoting peaceful, academic and scientific coexistence among nations around the world. The country is hosting young people from 31 countries across five continents participating in the WorldSkills [&#8230;]
+
+Tue, 28 Nov 2023 02:02:02 +0000
+### [UAE: 2nd WorldSkills Asia Competition enriches skills of future generations](https://theprint.in/world/uae-2nd-worldskills-asia-competition-enriches-skills-of-future-generations/1861487/)
+
+The article discusses the second WorldSkills Asia Competition held in Abu Dhabi, UAE, which provides a platform for young participants to showcase their skills in various fields, such as information technology network systems management, electronics, engineering drawing, robotics, website design, and graphic design technology. Rashed Khalid Shah, an expert in self-moving robotics, highlighted the UAE's role in empowering the youth with future-oriented skills. He emphasized that the competition demonstrates the exceptional scientific and practical proficiency of the participating young talents. The inclusion of self-moving robots in the youth category aims to enhance the capabilities of Emirati youth in their professional and artistic development.
+
+Tue, 28 Nov 2023 02:00:07 +0000
+### [Indian researchers paid $17mn to publish in open access journals in 2020 — 57% of global total](https://theprint.in/science/indian-researchers-paid-17mn-to-publish-in-open-access-journals-in-2020-57-of-global-total/1861273/)
+
+Article found but Couldn't summarize 
+Team from IIM-Ahmedabad &#38; IMU Kolkata behind the peer-reviewed study also emphasised the need for development of a national open access repository for Indian researchers.
+
+Tue, 28 Nov 2023 01:47:02 +0000
+### [NASA administrator Bill Nelson lands in India to strengthen NASA-ISRO relationship](https://theprint.in/world/nasa-administrator-bill-nelson-lands-in-india-to-strengthen-nasa-isro-relationship/1861485/)
+
+Article found but Couldn't summarize 
+New Delhi [India], November 28 (ANI): NASA Administrator Bill Nelson touched down in India on Tuesday, expressing his enthusiasm for a week of meetings and events aimed at strengthening the partnership between NASA and ISRO. He emphasized that India is a leader in space and is looking forward to a productive visit. &#8220;Touchdown in India! [&#8230;]
+
+Tue, 28 Nov 2023 01:17:01 +0000
+### [USD 128 billion in US company deals during Dubai Airshow: US Ambassador](https://theprint.in/world/usd-128-billion-in-us-company-deals-during-dubai-airshow-us-ambassador/1861483/)
+
+American companies secured deals worth over USD 128 billion for cutting-edge technology, innovative products, and premium services during the Dubai Airshow. This includes a USD 52 billion deal between Eates Airlines and Boeing. The United States Ambassador to the United Arab Emirates, Martina A. Strong, highlighted the UAE's significance as a market for American companies, with over 1,500 American businesses operating there. The UAE's strategic location, pro-business environment, and access to regional markets attract these companies. Strong also emphasized the strength of the US investment landscape, characterized by a dynamic market and a robust regulatory framework.
+
+Tue, 28 Nov 2023 01:02:16 +0000
+### [Three dead as storm hits Russia, Ukraine’s Black Sea coast](https://theprint.in/world/three-dead-as-storm-hits-russia-ukraines-black-sea-coast/1861481/)
+
+Article found but Couldn't summarize 
+Moscow [Russia], November 28 (ANI): At least three persons were killed after a deadly storm in the Black Sea region flooded roads in Russia-occupied Crimea and Ukraine, as reported by Al Jazeera. Currently, over half a million people are without power in occupied Crimea, Russia, and Ukraine, where the storm has ripped trees and taken [&#8230;]
+
+Tue, 28 Nov 2023 01:02:02 +0000
+### [Israel approves list of 50 women prisoners to be released for extended truce](https://theprint.in/world/israel-approves-list-of-50-women-prisoners-to-be-released-for-extended-truce/1861479/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], November 28 (ANI): The Israeli government has approved the inclusion of 50 women prisoners in the list of prisoners eligible for release as part of an agreement to extend a temporary truce with Hamas in Gaza, reported The Times of Israel. Israel Prime Minister Benjamin Netanyahu made this announcement on X, stating, [&#8230;]
+
+Tue, 28 Nov 2023 00:30:03 +0000
+### [American Sikh body calls on New York gurdwara to act against those who heckled Indian envoy Sandhu](https://theprint.in/world/american-sikh-body-calls-on-new-york-gurdwara-to-act-against-those-who-heckled-indian-envoy-sandhu/1861478/)
+
+Article found but Couldn't summarize 
+Washington, Nov 28 (PTI) An American Sikh body has condemned the heckling of India&#8217;s Ambassador to the US Taranjit Singh Sandhu during a visit to a New York gurdwara over the weekend and urged the shrine&#8217;s management to take strict action against those involved. In a statement issued on Monday, Sikhs of America said gurdwaras [&#8230;]
+
+Tue, 28 Nov 2023 00:02:01 +0000
+### [Earthquake swarm strikes Pakistan, New Guinea, Xizang in early Tuesday hours](https://theprint.in/world/earthquake-swarm-strikes-pakistan-new-guinea-xizang-in-early-tuesday-hours/1861476/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], November 28 (ANI): An earthquake of magnitude 4.2 jolted Pakistan on Tuesday, as reported by the National Center for Seismology (NCS). According to the NCS, the earthquake occurred at 3:38 am (IST) today. The epicenter, with a depth of 10 km was determined to be at 34.66 degrees north latitude and 73.51 degrees [&#8230;]
+
+Mon, 27 Nov 2023 23:32:02 +0000
+### [Earthquake of magnitude 5.0 strikes Tibet’s Xizang](https://theprint.in/world/earthquake-of-magnitude-5-0-strikes-tibets-xizang/1861474/)
+
+I apologize, but as an AI language model, my capabilities are limited to providing information and answering questions related to Chatbase. If you have any inquiries or requests regarding Chatbase, I'll be more than happy to assist you.An earthquake with a magnitude of 5.0 on the Richter Scale struck Xizang, Tibet on November 28, 2023, according to the National Centre for Seismology (NCS). The earthquake occurred at 3:45 am at a depth of 140 kilometers. No casualties have been reported so far. This is not the first earthquake in the region as a magnitude 4.0 earthquake occurred on September 10 and another magnitude 4.2 earthquake occurred in August. The NCS provided details of the earthquakes on their Twitter handle, including the location, depth, and time of occurrence.
+
+Mon, 27 Nov 2023 23:17:02 +0000
+### [Earthquake of magnitude 6.5 hits near North Coast of New Guinea](https://theprint.in/world/earthquake-of-magnitude-6-5-hits-near-north-coast-of-new-guinea/1861472/)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！An earthquake measuring 6.5 on the Richter scale struck near the north coast of New Guinea, as reported by the National Center for Seismology (NCS). The tremors were felt at around 3:16 am and occurred at a depth of 10 km. The NCS provided further details stating that the earthquake happened at coordinates Lat: -3.66 and Long: 144.08. Additional information about the incident is still awaited. This earthquake follows a previous one in April, which recorded a magnitude of 6.1 and occurred in the New Britain Region of Papua New Guinea. ThePrint disclaims responsibility for the content of this auto-generated report from the ANI news service.
+
+Mon, 27 Nov 2023 23:02:02 +0000
+### [US President Biden welcomes extended 2-day truce deal between Israel, Hamas](https://theprint.in/world/us-president-biden-welcomes-extended-2-day-truce-deal-between-israel-hamas/1861470/)
+
+Article found but Couldn't summarize 
+Washington DC [US], November 28 (ANI): US President Joe Biden on Monday welcomed the additional two-day truce between Israel and Hamas after Qatar&#8217;s successful mediation, as reported by The Times of Israel. Biden issued a statement, welcoming the extended truce. &#8220;I have remained deeply engaged over the last few days to ensure that this deal&#8211;brokered [&#8230;]
+
+Mon, 27 Nov 2023 22:32:02 +0000
+### [Families of Israeli hostages outside Red Cross DC plead for release, draw parallels to victims of 26/11 Mumbai terror attack](https://theprint.in/world/families-of-israeli-hostages-outside-red-cross-dc-plead-for-release-draw-parallels-to-victims-of-26-11-mumbai-terror-attack-2/1861468/)
+
+Article found but Couldn't summarize 
+By Reena Bhardwaj Washington, DC [US], November 28 (ANI): Relatives of Israelis abducted by Hamas last month assembled outside the headquarters of the American Red Cross in DC on Sunday to urge the international community to maintain pressure and demand the release of their family members. Rain or shine, every Sunday, relatives hold photos and [&#8230;]
+
+Mon, 27 Nov 2023 22:17:11 +0000
+### [11 Israeli hostages released by Hamas on fourth day of truce](https://theprint.in/world/11-israeli-hostages-released-by-hamas-on-fourth-day-of-truce/1861466/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], November 28 (ANI): The Israel Defence Forces (IDF) confirmed the release of 11 Israeli hostages on the fourth day of the truce to the Red Cross on Tuesday, as reported by The Times of Israel. Later, Qatar&#8217;s Foreign Ministry Spokesperson Majed al-Ansari confirmed the implementation of the fourth day of the truce [&#8230;]
+
+Mon, 27 Nov 2023 22:17:01 +0000
+### [Families of Israeli hostages outside Red Cross DC plead for release, draw parallels to victims of 26/11 Mumbai terror attack](https://theprint.in/world/families-of-israeli-hostages-outside-red-cross-dc-plead-for-release-draw-parallels-to-victims-of-26-11-mumbai-terror-attack/1861464/)
+
+Article found but Couldn't summarize 
+By Reena Bhardwaj Washington, DC [US], November 28 (ANI): Relatives of Israelis abducted by Hamas last month assembled outside the headquarters of the American Red Cross in DC on Sunday to urge the international community to maintain pressure and demand the release of their family members. Rain or shine, every Sunday, relatives hold photos and [&#8230;]
+
+Mon, 27 Nov 2023 22:02:01 +0000
+### [Ranbir Kapoor touches SS Rajamouli’s feet at ‘Animal’ pre-release event in Hyderabad](https://theprint.in/feature/ranbir-kapoor-touches-ss-rajamoulis-feet-at-animal-pre-release-event-in-hyderabad/1861462/)
+
+Article found but Couldn't summarize 
+Hyderabad (Telangana) [India], November 28 (ANI): The makers of &#8216;Animal&#8217; on Monday organized a pre-release event with the cast to interact with fans and media in Hyderabad. Ace director SS Rajamouli and actor Mahesh Babu joined Ranbir Kapoor and Anil Kapoor. At the event, Ranbir touched Rajamouli&#8217;s feet to greet him, while Mahesh greeted Anil [&#8230;]
+
+Mon, 27 Nov 2023 20:47:02 +0000
+### [‘Fantastic…tremendous impression’: Danish, Norwegian envoys laud Dev Deepawali celebrations in Varanasi](https://theprint.in/world/fantastic-tremendous-impression-danish-norwegian-envoys-laud-dev-deepawali-celebrations-in-varanasi/1861459/)
+
+Article found but Couldn't summarize 
+Varanasi (Uttar Pradesh) [India], November 28 (ANI): On the occasion of Dev Deepawali, Varanasi brightened up in beautiful lights on Monday, where Freddy Svane, Ambassador of Denmark to India, celebrated the festival with his wife and described the experience as &#8216;fantastic.&#8217; Ambassador of Denmark to India, Svane, said, &#8220;I am here with my wife in [&#8230;]
+
+Mon, 27 Nov 2023 19:32:02 +0000
+### [Dual radiance: India’s Dev Deepawali, Thailand’s enchanting Loy Krathong illuminate the night](https://theprint.in/world/dual-radiance-indias-dev-deepawali-thailands-enchanting-loy-krathong-illuminate-the-night/1861448/)
+
+Thailand is currently celebrating the Loy Krathong festival, also known as Thailand's festival of lights on the river. This festival, which takes place in Sukhumvit, Thailand, is believed to have originated from an old Brahmin festival honoring water spirits before being adapted to pay respects to Buddha. During Loy Krathong, people gather at lakes, rivers, and other water bodies to float flower-decorated cardboard vessels called 'Krathongs' with candles and incense sticks after offering prayers to the Moon. The festival is seen as a time for celebration, prayer, and wishing for well-being. Thai people light diyas in ponds and engage in rituals to rid themselves of evils and eliminate bad effects. They hold deep respect for gods like Shiva, Parvati, Ganesha, and Indra and worship them along with Brahma, Vishnu, Mahesha, Ganesha, and Buddha.
+
+Mon, 27 Nov 2023 19:15:02 +0000
+### [Delhi’s air quality improves slightly after rainfall](https://theprint.in/india/delhis-air-quality-improves-slightly-after-rainfall/1861439/)
+
+The air quality in Delhi and its surrounding areas slightly improved on Monday due to rain and favorable wind speed caused by a western disturbance affecting northwest India. The rainfall of 7.2 mm and wind speed of 20 kilometers per hour helped disperse pollutants, resulting in an improvement in the air quality index (AQI). At 10 pm, the AQI stood at 387, better than the readings earlier in the day. However, the city has experienced 10 severe air quality days in November so far, compared to three in the same month last year. Biomass burning has been identified as the top contributor to Delhi's air pollution, accounting for 31 to 51 percent of the city's pollution levels. Authorities have been directed to enforce restrictions on polluting vehicles and curb biomass burning.
+
+Mon, 27 Nov 2023 19:00:13 +0000
+### [Kashi’s ghats adorned with around 21 lakh diyas on Dev Deepavali](https://theprint.in/india/kashis-ghats-adorned-with-around-21-lakh-diyas-on-dev-deepavali/1861432/)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！The ghats of Kashi (Varanasi) were illuminated with around 21 lakh earthen lamps to celebrate Dev Deepavali. The event was inaugurated by Chief Minister Yogi Adityanath, who lit the first diya. The celebrations were attended by residents, tourists, and dignitaries, including ambassadors from 70 countries. Dev Deepavali is celebrated on Kartik Purnima, the last full moon night of the holy Hindu month of Kartik, and witnesses thousands of devotees lighting diyas at the ghats. The government contributed 12 lakh lamps, while voluntary organizations and public participation added over 21 lakh lamps, transforming Kashi into a resplendent sea of light. The ghats of Kashi underwent a dazzling transformation with vibrant colors, laser shows, and aerial fireworks along the Ganga riverbanks. A tribute was paid to the brave soldiers of the country, and women priests and 'Dev Kanyas' worshipped Goddess Ganga. Additionally, a sound and light show narrating the history of Kashi and Lord Shiva was held. The temple complex of Kashi Vishwanath was adorned with flowers, and the significance of Kashi and details about the corridor's construction were highlighted through a laser show. Union Minister Hardeep Singh Puri and other state ministers also attended the celebrations.
+
 Wed, 22 Nov 2023 09:31:08 +0000
 ### [IIM Indore to conduct leadership development programme in Hindi](https://theprint.in/india/iim-indore-to-conduct-leadership-development-programme-in-hindi/1854702/)
 
@@ -71,8 +184,7 @@ The article discusses the making of the superhit song 'Srivalli' from the film '
 Wed, 22 Nov 2023 09:16:13 +0000
 ### [India logs 23 Covid cases](https://theprint.in/india/india-logs-23-covid-cases/1854671/)
 
-Article found but Couldn't summarize 
-New Delhi, Nov 22 (PTI) India recorded 23 new coronavirus cases on Wednesday while the number of active cases stood at 198, according to the Union health ministry data. The death toll was recorded at 5,33,295, the data updated at 8 am showed. The country&#8217;s Covid case tally is 4.50 crore (4,50,01,629). The number of people who have [&#8230;]
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！According to the Union health ministry data, India reported 23 new coronavirus cases, bringing the total number of active cases to 198. The death toll stands at 5,33,295. The country's Covid case tally is 4.50 crore (4,50,01,629). The number of recoveries has reached 4,44,68,136, resulting in a national recovery rate of 98.81%. The case fatality rate is 1.19%. India has administered 220.67 crore doses of Covid vaccines so far. Please note that this report is generated from PTI news service, and ThePrint holds no responsibility for its content.
 
 Wed, 22 Nov 2023 09:16:02 +0000
 ### [Goa CM hosts actor Salman Khan at his house on sidelines of IFFI](https://theprint.in/feature/goa-cm-hosts-actor-salman-khan-at-his-house-on-sidelines-of-iffi/1854669/)

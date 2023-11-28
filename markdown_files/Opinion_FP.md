@@ -1,3 +1,153 @@
+Mon, 27 Nov 2023 19:39:31 +0530
+### [Peril in Pir Panjal: Grave military casualties signal the unsettling return of terrorism in Rajouri-Poonch](https://www.firstpost.com/opinion/peril-in-pir-panjal-grave-military-casualties-signal-the-unsettling-return-of-terrorism-in-rajouri-poonch-13435872.html)
+
+Article found but Couldn't summarize 
+Peril in Pir Panjal: Grave military casualties signal the unsettling return of terrorism in Rajouri-Poonch
+
+Mon, 27 Nov 2023 17:11:23 +0530
+### [Did Modi government create 2 crore jobs per year? Facts vs falsehoods](https://www.firstpost.com/opinion/did-modi-government-create-2-crore-jobs-per-year-facts-vs-falsehoods-13435692.html)
+
+Article found but Couldn't summarize 
+Did Modi government create 2 crore jobs per year? Facts vs falsehoods
+
+Mon, 27 Nov 2023 14:44:34 +0530
+### [Why international magazines like ‘The Economist’ must respect sanctity of Indian national flag](https://www.firstpost.com/opinion/why-international-magazines-like-the-economist-must-respect-sanctity-of-indian-national-flag-13435232.html)
+
+Article found but Couldn't summarize 
+Why international magazines like ‘The Economist’ must respect sanctity of Indian national flag
+
+Mon, 27 Nov 2023 13:51:31 +0530
+### [India-EU semiconductor MoU paves the way for forging technological resilience and collaborative innovation](https://www.firstpost.com/opinion/india-eu-semiconductor-mou-paves-the-way-for-forging-technological-resilience-and-collaborative-innovation-13434982.html)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！The recently signed Memorandum of Understanding (MoU) between the European Union (EU) and India on semiconductors is a significant partnership. It aims to address the challenges faced by both regions in semiconductor production and promote collaboration in various strategic areas. The MoU emphasizes the exchange of experience, best practices, and information about trade barriers and disruptions. It also encourages joint ventures in technology partnerships and manufacturing facilities to develop resilient supply chains. This collaboration aligns with India's initiatives to promote domestic manufacturing and reduce dependence on imports. Overall, the MoU marks a positive step towards building an interdependent ecosystem between India and the European semiconductor industries.
+
+Mon, 27 Nov 2023 13:02:39 +0530
+### [25th anniversary of EVM's reintroduction: Irreplaceable role of this technology in Indian electoral landscape](https://www.firstpost.com/opinion/25th-anniversary-of-evms-reintroduction-irreplaceable-role-of-this-technology-in-indian-electoral-landscape-13430212.html)
+
+Article found but Couldn't summarize 
+25th anniversary of EVM's reintroduction: Irreplaceable role of this technology in Indian electoral landscape
+
+Mon, 27 Nov 2023 11:31:20 +0530
+### [Head-on | Why wounded civilisation of West needs Global South's support](https://www.firstpost.com/opinion/why-wounded-civilisation-of-west-needs-global-souths-support-13433912.html)
+
+Article found but Couldn't summarize 
+Head-on | Why wounded civilisation of West needs Global South's support
+
+Sun, 26 Nov 2023 19:04:48 +0530
+### [How PM Modi's sortie in Tejas signifies India's confidence in defence indigenisation](https://www.firstpost.com/opinion/how-pm-modis-sortie-in-tejas-signifies-indias-confidence-in-defence-indigenisation-13432572.html)
+
+Article found but Couldn't summarize 
+How PM Modi's sortie in Tejas signifies India's confidence in defence indigenisation
+
+Sun, 26 Nov 2023 18:12:03 +0530
+### [Book Excerpt | Investing Decoded: Simple path to building a portfolio in millions](https://www.firstpost.com/opinion/book-excerpt-investing-decoded-simple-path-to-building-a-portfolio-in-millions-13432332.html)
+
+Article found but Couldn't summarize 
+Book Excerpt | Investing Decoded: Simple path to building a portfolio in millions
+
+Sun, 26 Nov 2023 16:06:07 +0530
+### [India’s G20 presidency and promotion of city tourism](https://www.firstpost.com/opinion/indias-g20-presidency-and-promotion-of-city-tourism-13432062.html)
+
+Article found but Couldn't summarize 
+India’s G20 presidency and promotion of city tourism
+
+Sun, 26 Nov 2023 13:46:53 +0530
+### [NEP 2020’s impact and implementation: A case study of Delhi University](https://www.firstpost.com/opinion/nep-2020s-impact-and-implementation-a-case-study-of-delhi-university-13431622.html)
+
+Article found but Couldn't summarize 
+NEP 2020’s impact and implementation: A case study of Delhi University
+
+Sun, 26 Nov 2023 11:41:09 +0530
+### [Why India is best suited to lead reconstruction of Gaza](https://www.firstpost.com/opinion/why-india-is-best-suited-to-lead-reconstruction-of-gaza-13431352.html)
+
+Article found but Couldn't summarize 
+Why India is best suited to lead reconstruction of Gaza
+
+Sat, 25 Nov 2023 19:55:22 +0530
+### [Book review | 'Raw Umber': Sara Rai's lyrical memoir unveils the hues of Hindi literature's legacy](https://www.firstpost.com/opinion/book-review-raw-umber-sara-rais-lyrical-memoir-unveils-the-hues-of-hindi-literatures-legacy-13430402.html)
+
+The article discusses Sara Rai's memoir, 'Raw Umber', which explores her childhood in the 1960s and the role of memory in shaping a writer's sensibility. Rai delves into her family's life, including the literary giants who influenced them. The memoir is structured as a collection of essays that capture the people, places, and experiences that shaped Rai's formative years. It reflects on her struggles with writing and her negotiation with family tradition. The narrative also highlights the significance of homes in Allahabad and Benaras, which act as silent witnesses to Rai's coming-of-age. The memoir celebrates Rai's dual cultural heritage and explores the complexities of identity formation and language adoption. The inclusion of translations in the appendix enriches the work, showcasing a spectrum of writerly sensibilities. Overall, 'Raw Umber' is described as a lyrical excavation of Rai's roots and a celebration of her family's literary and artistic pursuits.
+
+Sat, 25 Nov 2023 17:50:42 +0530
+### [How Russia-Ukraine War is benefiting none but the West](https://www.firstpost.com/opinion/how-russia-ukraine-war-is-benefiting-none-but-the-west-13430112.html)
+
+Article found but Couldn't summarize 
+How Russia-Ukraine War is benefiting none but the West
+
+Sat, 25 Nov 2023 16:47:49 +0530
+### [How APEC maintains the delicate balance required to retain its relevance](https://www.firstpost.com/opinion/how-apec-maintains-the-delicate-balance-required-to-retain-its-relevance-13429492.html)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！The Asia-Pacific Economic Cooperation (APEC) held its Economic Leaders' meeting in San Francisco, United States. APEC was established in 1989 as a ministerial dialogue and started hosting summits in 1993. It consists of 21 members, including seven from ASEAN. APEC focuses on economic cooperation in finance, trade, transportation, disaster management, and more recently, health and energy. The recent summit had a main focus on the China-US bilateral meeting. Xi Jinping and Joe Biden agreed to renew military communications but disagreed on many other matters, particularly regarding Chinese hegemony in the Indo-Pacific. APEC aims to promote free trade and economic integration in the region.
+
+Sat, 25 Nov 2023 13:25:50 +0530
+### [Israel-Palestine conflict: How India's principled position at international forums shows a way forward](https://www.firstpost.com/opinion/israel-palestine-conflict-how-indias-principled-position-at-international-forums-shows-a-way-forward-13428782.html)
+
+Indian Prime Minister Narendra Modi chaired the virtual G20 Leaders' Summit on November 22, 2023. India, after assuming the presidency of the G20, called for a Global South summit to address the concerns and requirements of developing countries. India's presidency included the African Union as a permanent member, effectively making it a G21. The summit focused on various critical issues such as green growth, renewable energy, debt relief, reforms of multilateral banks, and countering terrorism. The article also highlights the challenges posed by the Russia-Ukraine war and the Israel-Hamas conflict, emphasizing the need for addressing these issues rather than ignoring them for geopolitical conveniences. PM Modi reiterated the G20's consensus on issues like zero tolerance for terrorism and the need for humanitarian aid, a two-state solution, regional peace and stability, and reducing political tensions through dialogue and diplomacy. India maintained a principled position against terrorism and loss of innocent lives, providing humanitarian assistance, and advocating for a two-state solution. The article mentions India's participation in discussions with global leaders and its stand at the UN General Assembly debates. Critics question whether the ongoing crisis will lead to meaningful dialogue between the two sides.
+
+Sat, 25 Nov 2023 11:35:31 +0530
+### [Moshe’s Mumbai trauma redux in Israel](https://www.firstpost.com/opinion/moshes-mumbai-trauma-redux-in-israel-13428472.html)
+
+The article discusses the recent release of 13 women and children by Hamas in Gaza as part of a four-day humanitarian pause. The goal is to swap these hostages for 150 Palestinians held in Israeli jails. The author reflects on the tragic events that occurred in Mumbai in 2008, where two-year-old Moshe Holtzberg was saved by his Indian nanny from being killed by Pakistani terrorists. Moshe lost both his parents in the attack, and the article highlights the plight of other children affected by terrorism, particularly those who have no one to comfort them. It mentions several children who remain hostages or have been left orphaned due to the conflict. The article emphasizes that the release of a few hostages does not ease the pain for those who have lost their parents. It also questions why so many women and children remained in the war zone despite Israeli warnings to leave. The author concludes by mentioning Moshe's advocacy against terrorism and hopes for a peaceful resolution to the current crisis.
+
+Fri, 24 Nov 2023 18:22:13 +0530
+### [Triumph over turmoil: Serene rebirth of Arunachal Pradesh's troubled triangle](https://www.firstpost.com/opinion/triumph-over-turmoil-serene-rebirth-of-arunachal-pradeshs-troubled-triangle-13426512.html)
+
+Article found but Couldn't summarize 
+Triumph over turmoil: Serene rebirth of Arunachal Pradesh's troubled triangle
+
+Fri, 24 Nov 2023 17:02:12 +0530
+### [Vantage | Volcano tourism is on fire, but is it for you?](https://www.firstpost.com/opinion/vantage-volcano-tourism-is-on-fire-but-is-it-for-you-13427492.html)
+
+您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！您的免费额度不够使用这个模型啦，请点击右上角登录继续使用！Volcano tourism has become a popular trend in recent years, with Iceland being a notable destination due to its geological wonders, including volcanoes. The country's volcanic activity, such as the eruption of Eyjafjallajokull in 2010, has actually sparked a tourism boom rather than tarnishing its reputation. This has led to the rise of volcano tourism in Iceland, where adventurers from around the world visit to witness mesmerizing lava flows and engage in activities like biking, hiking, and abseiling near active volcanoes.
+
+The success of volcano tourism in Iceland has inspired other countries like Japan, the United States, Italy, New Zealand, and Guatemala to embrace this concept and turn natural disasters into booming industries. Tourists are drawn to the allure of fiery landscapes, seeking not only Instagram-worthy pictures but also thrilling post-vacation stories.
+
+However, it's important to note that volcano tourism comes with inherent risks. Safety concerns arise from factors such as accessibility and the type of eruption. Some volcanic locations can be volatile, posing risks to both infrastructure and visitors. Additionally, eruptions often release poisonous gases like sulfur dioxide, which can have serious health hazards, including lung damage and even death.
+
+Despite these dangers, the appeal of volcano tourism persists. It's crucial for enthusiasts to consider the potential risks and ensure that their pursuit of adventure does not become a fatal attraction. Ultimately, the question of whether volcano tourism is a safe and exhilarating endeavor or a perilous gamble with nature's fury remains.
+
+Fri, 24 Nov 2023 16:14:00 +0530
+### [Rajasthan Assembly polls 2023: Revolving door politics, eroding Gehlot dispensation set stage for BJP win](https://www.firstpost.com/opinion/rajasthan-assembly-polls-2023-revolving-door-politics-eroding-gehlot-dispensation-set-stage-for-bjp-win-13426862.html)
+
+Article found but Couldn't summarize 
+Rajasthan Assembly polls 2023: Revolving door politics, eroding Gehlot dispensation set stage for BJP win
+
+Fri, 24 Nov 2023 14:55:43 +0530
+### [As war continues in Gaza, a lesson for Israel from India](https://www.firstpost.com/opinion/as-war-continues-in-gaza-a-lesson-for-israel-from-india-13426152.html)
+
+Article found but Couldn't summarize 
+As war continues in Gaza, a lesson for Israel from India
+
+Fri, 24 Nov 2023 14:50:15 +0530
+### [Vantage | Why Finland's border crisis may be more about Russia vs NATO](https://www.firstpost.com/opinion/vantage-why-finlands-border-crisis-may-be-more-about-russia-vs-nato-13425912.html)
+
+Article found but Couldn't summarize 
+Vantage | Why Finland's border crisis may be more about Russia vs NATO
+
+Fri, 24 Nov 2023 14:16:00 +0530
+### [Vantage | What Geert Wilders' election win is telling Europe](https://www.firstpost.com/opinion/vantage-what-geet-wilders-election-win-is-telling-europe-13425622.html)
+
+Article found but Couldn't summarize 
+Vantage | What Geert Wilders' election win is telling Europe
+
+Fri, 24 Nov 2023 14:10:58 +0530
+### [From Javier Milei to Geert Wilders: How liberals malign conservative leaders](https://www.firstpost.com/opinion/from-javier-milei-to-geert-wilders-how-liberals-malign-conservative-leaders-13426542.html)
+
+Article found but Couldn't summarize 
+From Javier Milei to Geert Wilders: How liberals malign conservative leaders
+
+Fri, 24 Nov 2023 11:51:05 +0530
+### [Vantage | Was secret and 'dangerous' Project Q behind Sam Altman's ouster?](https://www.firstpost.com/opinion/vantage-was-secret-and-dangerous-project-q-behind-sam-altmans-ouster-13425582.html)
+
+Article found but Couldn't summarize 
+Vantage | Was secret and 'dangerous' Project Q behind Sam Altman's ouster?
+
+Fri, 24 Nov 2023 10:57:24 +0530
+### [Vantage | Four signals telling Vladimir Putin to wind up Ukraine war](https://www.firstpost.com/opinion/vantage-four-signals-telling-vladimir-putin-to-wind-up-ukraine-war-13425352.html)
+
+Article found but Couldn't summarize 
+Vantage | Four signals telling Vladimir Putin to wind up Ukraine war
+
 Wed, 22 Nov 2023 09:51:41 +0530
 ### [Germany's pivot: Shifting focus from China to Africa, learning from Russian missteps](https://www.firstpost.com/opinion/germanys-pivot-shifting-focus-from-china-to-africa-learning-from-russian-missteps-13411132.html)
 
