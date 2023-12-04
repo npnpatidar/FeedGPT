@@ -29,7 +29,7 @@ def fetch_article_text(url):
 
 
 def summarise(article_text):
-    max_attempts = 3
+    max_attempts = 1
     summary = ""
     # Define your conversation with the model
     conversation = [
@@ -61,7 +61,7 @@ def summarise(article_text):
         except Exception as e:
             # Log the error (you can use a logging library for this)
             # print(f"Error while summarizing article text: {str(e)}")
-            print(f"error in summarising {article_text}")
+            print(f"error in summarising  ")
 
     # If after 10 attempts there's no valid response, return an error message or handle as needed
     return None
