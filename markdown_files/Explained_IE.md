@@ -1,3 +1,29 @@
+Mon, 04 Dec 2023 15:02:13 +0000
+### [Pilatus PC-7 Mk II crash: 5 things to know about the trainer aircraft](https://indianexpress.com/article/explained/pilatus-pc-7-mk-ii-crash-9054386/)
+
+Two Indian Air Force (IAF) pilots lost their lives in a tragic accident when their Pilatus PC-7 Mk II trainer aircraft crashed during a routine training sortie from the Air Force Academy at Dundigal, Telangana. The aircraft was found completely charred near Toopran, Medak district, about 40 km away. A Court of Inquiry has been initiated to determine the cause of the crash. This is the first incident involving this type of aircraft since its induction into the Air Force almost ten years ago. The Pilatus PC-7 Mk II is a trainer aircraft used for basic training of rookie cadets before they progress to more advanced planes.
+
+The IAF currently operates 75 Pilatus PC-7 Mk II aircraft, including the one involved in the crash. These planes are utilized for initial flight training of cadets, followed by intermediate and advanced stages on other aircraft models. The HAL Kiran and BAE Hawk are the next phases in the training program, with 78 Kiran and 102 Hawk aircraft in the IAF's fleet. Additionally, the Pipistrel Virus is employed as a basic trainer for Flight Safety and Air Wing Cadets, with 72 of these aircraft being used by the IAF out of a total of 194 in service across various organizations.
+
+Pilatus Aircraft Ltd, based in Switzerland, specializes in manufacturing short take-off and landing as well as trainer aircraft for air forces globally. The Pilatus PC-7 Mk II is a low-wing, turbo-prop aircraft with tandem seating. It has a Pratt & Whitney turbo-prop engine, a maximum speed of 412 km/h, a ceiling of slightly over 10,000 m, and a range of 1,200 km without external tanks. The aircraft has been used as the initial trainer by more than 20 air forces worldwide, and some countries have also deployed it for combat operations.
+
+The IAF procured 75 Pilatus aircraft in 2012 to address the shortage of trainer aircraft caused by grounding the indigenously developed HPT-32 in 2010 due to fatal crashes. The fleet was delivered between 2013 and 2015, and the option for an additional purchase of 38 more aircraft was not exercised due to a blacklisting of the Swiss manufacturer on corruption charges. However, the ban was partially lifted later to allow the IAF to maintain its existing fleet. In March, the Defence Ministry signed a contract with Hindustan Aeronautics Ltd to acquire 70 HTT-40 trainer aircraft designed by HAL as a replacement.
+
+Mon, 04 Dec 2023 15:00:51 +0000
+### [What is climate finance — and why developing countries need it](https://indianexpress.com/article/explained/explained-climate/what-is-climate-finance-cop-28-9054382/)
+
+The United Arab Emirates (UAE) has pledged $30 billion towards a new fund aimed at directing private sector capital to climate investments and improving financing for developing countries. This announcement was made during the ongoing COP28 climate summit hosted by the UAE. The fund, which aims to bridge the climate finance gap, is expected to stimulate an additional investment of $250 billion by 2030.
+
+Climate finance refers to large-scale investments required to mitigate or adapt to the consequences of climate change. Adaptation involves taking actions to prevent or minimize damage from climate change effects, such as building infrastructure to protect coastal communities. Mitigation focuses on reducing greenhouse gas emissions through measures like increasing renewable energy sources and expanding forest cover.
+
+Developing nations demand climate finance because they argue that developed nations, whose historical emissions are responsible for the current climate crisis, should provide financial assistance. The 1992 United Nations Framework Convention on Climate Change (UNFCCC) mandated high-income countries to provide climate finance to the developing world. In 2009, developed countries committed to providing $100 billion annually to developing countries by 2020, with the establishment of the Green Climate Fund (GCF) in 2010 as a delivery mechanism. However, this pledge has not been fully met.
+
+According to a UNFCCC analysis, developing countries need at least $5.8 trillion by 2030 to fulfill their Nationally Determined Contributions (NDCs) outlined in their efforts to reduce emissions and adapt to climate change impacts. This amounts to around $600 billion per year, significantly lower than the promised amount from developed countries. The lack of data and capacity for determining these needs may result in an underestimation. Furthermore, government expenses incurred to address extreme weather events caused by climate change are considered separately under the funding mechanism for loss and damage.
+
+Renowned climate economist Nicholas Stern estimated that $2 trillion per year will be needed by 2030 to assist developing countries in reducing greenhouse gas emissions and coping with climate breakdown effects.
+
+There is debate regarding the actual amount of climate finance being provided to developing nations. The Organisation for Economic Cooperation and Development (OECD) stated that developed countries provided $83.3 billion in 2020 as climate finance, but Oxfam disputed this figure, accusing developed countries of inflating their contributions by as much as 225% through dishonest accounting. Non-concessional loans have also been criticized, as they increase debt pressures. A study from CARE International revealed that over half of the climate finance provided by rich countries from 2011 to 2020 was redirected from development budgets, impacting critical priorities such as health, education, and women's rights.
+
 Mon, 04 Dec 2023 12:50:15 +0000
 ### [Why South Korea has sent a man to jail for writing a poem about North Korea](https://indianexpress.com/article/explained/explained-global/south-korea-nsa-jail-poem-9054036/)
 

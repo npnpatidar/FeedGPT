@@ -1,3 +1,19 @@
+Mon, 04 Dec 2023 21:02:26 +0530
+### [The COP28 chief is dead wrong. Science says we need to quickly do away with fossil fuels](https://www.firstpost.com/explainers/the-cop28-chief-is-dead-wrong-science-says-we-need-to-quickly-do-away-with-fossil-fuels-13465232.html)
+
+The article discusses the claim made by the president of COP28 that there is no scientific evidence supporting the need to phase out fossil fuels to limit global heating to 1.5°C. However, the author argues that there is a wealth of scientific research demonstrating the necessity of a fossil fuel phase-out to combat climate change. The author refers to their own publication in Nature, which highlights that a significant portion of coal, oil, and gas needs to remain underground to meet the temperature goals of the Paris Agreement. The Intergovernmental Panel on Climate Change (IPCC) also emphasizes the urgency of shifting away from fossil fuels to achieve net zero CO₂ emissions by the early 2050s. Additional studies and analyses support the conclusion that a rapid phase-out of fossil fuels is essential. The article concludes by emphasizing the importance of a fair and orderly transition, with developed countries phasing out fossil fuels and providing support to developing countries for the switch to cleaner technologies.
+
+Mon, 04 Dec 2023 20:41:58 +0530
+### [Assembly Election Results 2023: Meet Lalduhoma, the former cop set to become Mizoram’s next CM](https://www.firstpost.com/explainers/assembly-election-results-2023-lalduhoma-former-cop-mizoram-next-cm-zpm-mnf-13465182.html)
+
+Article found but Couldn't summarize 
+Assembly Election Results 2023: Meet Lalduhoma, the former cop set to become Mizoram’s next CM
+
+Mon, 04 Dec 2023 18:57:47 +0530
+### [Can the dodo be brought back from the dead?](https://www.firstpost.com/explainers/can-the-dodo-be-brought-back-from-the-dead-13465002.html)
+
+A biotech firm called Colossal Biosciences is partnering with the Mauritian Wildlife Foundation to potentially bring back the extinct dodo bird. The company has sequenced the genomes of the dodo, as well as two other birds closely related to it. They plan to use cells called primordial germ cells (PGCs) to create a chicken and rooster with the physical traits of a dodo. These altered PGCs will be placed into the embryos of the chickens, and if successful, their offspring will have the characteristics of the dodo. However, there are technical challenges to overcome, and bringing back the dodo does not address the issues that led to its extinction originally. The company believes that rewilding the animals and returning them to their natural habitat is crucial. It is important to note that de-extinction is not a solution to the present-day extinction crisis.
+
 Mon, 04 Dec 2023 18:00:13 +0530
 ### [Why does Venezuela want to claim oil-rich region controlled by Guyana?](https://www.firstpost.com/explainers/why-does-venezuela-want-to-claim-oil-rich-region-controlled-by-guyana-13464482.html)
 

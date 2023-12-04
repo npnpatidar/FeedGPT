@@ -1,3 +1,8 @@
+Mon, 04 Dec 2023 13:55:44 +0000
+### [Rajasthan, MP, Chhattisgarh results show that freebies don’t strike a chord with voters](https://indianexpress.com/article/opinion/columns/rajasthan-mp-chhattisgarh-results-bjp-win-congress-defeat-9054291/)
+
+Article found but Couldn't summarize
+
 Mon, 04 Dec 2023 13:16:53 +0000
 ### [How a new party beat Congress and MNF in Mizoram](https://indianexpress.com/article/opinion/columns/zpm-mizoram-assembly-election-2023-mnf-9054216/)
 

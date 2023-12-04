@@ -1,3 +1,115 @@
+Mon, 04 Dec 2023 23:00:12 +0000
+### [Philippines’ Marcos tests positive for COVID-19](https://theprint.in/world/philippines-marcos-tests-positive-for-covid-19/1872221/)
+
+Philippine President Ferdinand Marcos Jr. has tested positive for COVID-19, according to a statement from the Presidential Communications Office. Despite the positive result, Marcos is said to be healthy and will continue to carry out his duties through online meetings. He will isolate for five days, although the exact timing of the positive test was not disclosed. Marcos, who is 66 years old, was last seen in public on Saturday and has canceled his events for the day, including a visit to Mindanao. This is not the first time Marcos has contracted the virus; he previously had it in 2020 and received his second booster dose last year. The Philippines has reported 1,340 new cases of COVID-19 in the past week, adding to the country's total of over 4.1 million confirmed cases.
+
+Mon, 04 Dec 2023 23:00:03 +0000
+### [WHO says it was forced to move medical supplies from southern Gaza warehouse](https://theprint.in/world/who-says-it-was-forced-to-move-medical-supplies-from-southern-gaza-warehouse/1872219/)
+
+Article found but Couldn't summarize 
+(Reuters) - The World Health Organization (WHO) said on Monday it had been forced to move supplies from a WHO medical warehouse in southern Gaza within a 24-hour period after a warning from the
+
+Mon, 04 Dec 2023 22:47:01 +0000
+### [Israeli PM Benjamin Netanyahu convenes war cabinet meeting amid Gaza tensions](https://theprint.in/world/israeli-pm-benjamin-netanyahu-convenes-war-cabinet-meeting-amid-gaza-tensions/1872217/)
+
+Israel Prime Minister Benjamin Netanyahu convened a meeting of his war cabinet at the Defence Ministry headquarters in Tel Aviv. The meeting included top officials such as the IDF chief of staff, the National Security Council chief, the head of the Mossad, and the Shin Bet chief, along with Defense Minister Yoav Gallant and Minister Benny Gantz. The Israeli Prime Minister's Office shared details about the meeting on Twitter. Meanwhile, footage showed wounded people being taken to hospitals in southern Gaza after Israeli bombardment. Netanyahu also held a telephone assessment with his advisors regarding the war against Hamas in the region. Israel has been increasing its aerial bombardment of southern Gaza, and the IDF spokesperson announced the expansion of ground operations to the entire Gaza Strip. The World Health Organization (WHO) stated that the Israeli military ordered them to remove medical supplies from their two warehouses in southern Gaza due to ground operations, urging Israel to protect civilians and infrastructure.
+
+Mon, 04 Dec 2023 22:30:04 +0000
+### [US restricts visas for Uganda, Zimbabwe officials, citing repression](https://theprint.in/world/us-restricts-visas-for-uganda-zimbabwe-officials-citing-repression/1872215/)
+
+The United States has expanded its visa restriction policy on Ugandan officials, now including those who are believed to be responsible for undermining democracy and repressing marginalized groups in Uganda. U.S. Secretary of State Antony Blinken made the announcement, citing the marginalization of the LGBT community and civil society advocates in Uganda. The U.S. previously imposed visa restrictions on Ugandan officials following the passage of the country's anti-LGBTQ law and the flawed 2021 elections. Blinken also announced a new visa restriction policy for officials in Zimbabwe who undermine democracy, particularly in relation to the upcoming August 2023 elections.
+
+Mon, 04 Dec 2023 22:17:12 +0000
+### [Israeli activist group publishes full-page ad, calls on world to recognise women’s abuse by Hamas](https://theprint.in/world/israeli-activist-group-publishes-full-page-ad-calls-on-world-to-recognise-womens-abuse-by-hamas/1872213/)
+
+An Israeli activist group placed a full-page ad in the New York Times, urging the UN and the world to acknowledge the sexual abuse of Israeli women by Hamas. The advertisement referred to a UN Security Council resolution condemning gender-based violence, stating that it does not exclude instances of Hamas raping Israeli women. The founder of the organization, Moran Zer Katzenstein, emphasized the growing evidence of crimes against women and will present evidence at a special UN session on sexual violence. In addition, the Israeli military announced that it would not wait until the end of the war in Gaza to investigate potential failings in preventing Hamas' attacks on October 7.
+
+Mon, 04 Dec 2023 22:17:02 +0000
+### [Israel not giving up on women hostages held by Hamas: US](https://theprint.in/world/israel-not-giving-up-on-women-hostages-held-by-hamas-us/1872211/)
+
+Article found but Couldn't summarize 
+Washington, DC [US], December 5 (ANI): Amid the resumption of the ground offensive against Hamas, US National Security Advisor Jake Sullivan on Monday said Israel was not ready to give up on the release of women hostages held by Hamas, adding that the terror group will &#8220;not release&#8221; them from their captivity. &#8220;The first phase [&#8230;]
+
+Mon, 04 Dec 2023 22:15:17 +0000
+### [AT&T bets on new technology to build US telecom network](https://theprint.in/tech/att-bets-on-new-technology-to-build-us-telecom-network/1872209/)
+
+Article found but Couldn't summarize 
+By Supantha Mukherjee STOCKHOLM (Reuters) - AT&#38;T said on Monday it chose Ericsson to build a telecom network that uses only so-called ORAN technology and which will cover 70% of its wireless traffic
+
+Mon, 04 Dec 2023 22:15:07 +0000
+### [AT&T chooses Ericsson for new US telecom network, will drop Nokia](https://theprint.in/tech/att-chooses-ericsson-for-new-us-telecom-network-will-drop-nokia/1872207/)
+
+AT&T has announced that it has chosen Ericsson to build a telecom network in the United States using ORAN (open radio access network) technology. This new network will cover 70% of AT&T's wireless traffic by late 2026. ORAN technology promises to reduce costs for telecom operators by using cloud-based software and equipment from multiple suppliers, rather than relying on proprietary equipment from companies like Nokia, Ericsson, and Huawei. While some telecom providers have tested ORAN technology, mass adoption has been slow. However, new networks by Dish and Japan's Rakuten are already using Open RAN. AT&T has spent six months analyzing Open RAN and has looked at multiple vendors before choosing Ericsson. The company plans to invest around $14 billion over the next five years for this project. Winning the Open RAN deal will make Ericsson the largest supplier to AT&T, potentially overshadowing Nokia. Nokia shares fell on speculation that they might lose the AT&T contract. Ericsson has agreed to open up its interfaces, which were previously proprietary, across its footprint. AT&T expects fully integrated Open RAN sites operating with Ericsson and Fujitsu by 2024, and by 2025, their network will have equipment from multiple suppliers. AT&T views this move as a game-changer for the industry.
+
+Mon, 04 Dec 2023 22:02:01 +0000
+### [“Youth were fed up with existing political system”: Lalduhoma after leading ZPM to decisive win in Mizoram](https://theprint.in/politics/youth-were-fed-up-with-existing-political-system-lalduhoma-after-leading-zpm-to-decisive-win-in-mizoram/1872205/)
+
+Article found but Couldn't summarize 
+Aizawl (Mizoram) [India], December 5 (ANI): After leading the Zoram People&#8217;s Movement (ZPM) to a landslide victory in Mizoram, party chief Lalduhoma, who is set to take over from Zoramthanga as the next chief minister, said the state&#8217;s youth were fed up with the incumbent, the Mizo National Front (MNF), and wanted a new regime [&#8230;]
+
+Mon, 04 Dec 2023 22:00:03 +0000
+### [New Zealanders gather across country to protest new policies](https://theprint.in/world/new-zealanders-gather-across-country-to-protest-new-policies/1872204/)
+
+Thousands of protesters gathered in various locations in New Zealand to demonstrate against the new government's policies that they believe are racist. The protest, organized by the political party Te Pati Maori, took place on the same day as the opening of New Zealand's 54th parliament. The coalition agreement between the National Party, New Zealand First, and ACT New Zealand, which formed the new centre-right government, includes plans to reduce the use of the Maori language, review affirmative action policies, and examine the interpretation of the country's founding treaty in legislation. The protests were peaceful, causing traffic disruptions but no arrests were made. Some protesters expressed concerns about the government's agenda, while others dismissed the demonstrations as theatrical and urged the government to focus on addressing more pressing issues in the country.
+
+Mon, 04 Dec 2023 22:00:03 +0000
+### [Pune civic body razes dilapidated Bhide Wada in midnight action to make way for national memorial](https://theprint.in/india/pune-civic-body-razes-dilapidated-bhide-wada-in-midnight-action-to-make-way-for-national-memorial/1872203/)
+
+The Pune Municipal Corporation demolished the dilapidated structure of Bhide Wada, where Mahatma Jyotiba Phule and his wife Savitribai Phule started the first school for girls in 1848. The civic body plans to build a national memorial dedicated to the couple at the site. Despite court orders, local people and traders had refused to vacate the place. However, the Bombay High Court and the Supreme Court cleared the way for the civic body to build the memorial and ordered shop owners and tenants to vacate the premises. The structure was completely demolished after midnight with a large police force deployed in the area. Bhide Wada is located in the Budhwar Peth area of Pune.
+
+Mon, 04 Dec 2023 21:45:22 +0000
+### [Soccer-CONMEBOL reveals 14 host U.S. cities for 2024 Copa America](https://theprint.in/sport/soccer-conmebol-reveals-14-host-u-s-cities-for-2024-copa-america/1872201/)
+
+The Copa America in 2024 will be held across 14 cities in the United States, with the final taking place at Hard Rock Stadium in Miami Gardens, Florida. The tournament will feature 32 matches and 16 teams, including 10 from South America (CONMEBOL) and six from North and Central America and the Caribbean (CONCACAF). The opening match will be at Mercedes-Benz Stadium in Atlanta, Georgia, and the semi-finals will be held at MetLife Stadium in New Jersey and Bank of America Stadium in North Carolina. The other host cities include Las Vegas, Orlando, Santa Clara, Inglewood, and Kansas City. The draw for the tournament will take place on Thursday, and the previous Copa America in 2021 was won by Argentina, defeating Brazil in the final.
+
+Mon, 04 Dec 2023 21:45:06 +0000
+### [Stocks retreat after rally with jobs data eyed, yields climb](https://theprint.in/economy/stocks-retreat-after-rally-with-jobs-data-eyed-yields-climb/1872199/)
+
+Article found but Couldn't summarize 
+By Chuck Mikolajczak NEW YORK (Reuters) -A gauge of global stocks was poised to snap a four-session winning streak on Monday while Treasury yields rose as investors awaited U.S. labor market data to
+
+Mon, 04 Dec 2023 21:30:05 +0000
+### [US expects Israel not to hit zones declared safe for Gaza civilians](https://theprint.in/world/us-expects-israel-not-to-hit-zones-declared-safe-for-gaza-civilians/1872197/)
+
+Article found but Couldn't summarize 
+By Simon Lewis, Humeyra Pamuk and Jeff Mason WASHINGTON (Reuters) -The United States said on Monday it was too soon to make a final judgment on whether Israel was doing enough to protect civilians in
+
+Mon, 04 Dec 2023 21:15:30 +0000
+### [US authorities charge Bitwise Industries co-founders for fraud scheme](https://theprint.in/tech/us-authorities-charge-bitwise-industries-co-founders-for-fraud-scheme/1872196/)
+
+Article found but Couldn't summarize 
+(Reuters) - U.S. authorities on Thursday charged the co-founders of private technology startup Bitwise Industries for their roles in a $100 million fraud scheme, according to federal prosecutors and
+
+Mon, 04 Dec 2023 21:15:19 +0000
+### [What to watch at COP28 on Tuesday](https://theprint.in/environment/what-to-watch-at-cop28-on-tuesday/1872194/)
+
+Article found but Couldn't summarize 
+DUBAI (Reuters) - After a day of finance pledging on Monday, the COP28 on Tuesday turns to energy and fossil fuels - the key point of tension in this year's U.N. climate summit. As country negotiators
+
+Mon, 04 Dec 2023 21:15:04 +0000
+### [Released Israeli hostages ask Red Cross to visit remaining captives](https://theprint.in/world/released-israeli-hostages-ask-red-cross-to-visit-remaining-captives/1872192/)
+
+Article found but Couldn't summarize 
+By Emily Rose JERUSALEM (Reuters) - Eight released Israeli hostages wrote a letter to the International Committee of the Red Cross on Monday, asking the humanitarian organization to provide medical
+
+Mon, 04 Dec 2023 21:00:29 +0000
+### [Software provider Five9 considers options for sale – Bloomberg News](https://theprint.in/tech/software-provider-five9-considers-options-for-sale-bloomberg-news/1872191/)
+
+Article found but Couldn't summarize 
+(Reuters) -Five9 is weighing options for a sale, more than two years after a buyout by Zoom Video Communications failed, Bloomberg News reported on Monday, citing people familiar with the matter. Call
+
+Mon, 04 Dec 2023 21:00:13 +0000
+### [US nearly out of money for Ukraine’s war against Russia, White House tells Congress](https://theprint.in/world/us-nearly-out-of-money-for-ukraines-war-against-russia-white-house-tells-congress/1872189/)
+
+Article found but Couldn't summarize 
+By Jeff Mason and Patricia Zengerle WASHINGTON (Reuters) -The United States is running out of time and money to help Ukraine fight its war with Russia, White House officials warned congressional
+
+Mon, 04 Dec 2023 21:00:04 +0000
+### [Hungary’s Orban demands EU skip decision on Ukraine membership talks](https://theprint.in/world/hungarys-orban-demands-eu-skip-decision-on-ukraine-membership-talks/1872187/)
+
+Article found but Couldn't summarize 
+By Gabriela Baczynska and Andrew Gray BRUSSELS (Reuters) -Hungarian Prime Minister Viktor Orban demanded on Monday that a summit of European Union leaders next week avoid any decision on Ukraine's
+
 Mon, 04 Dec 2023 14:02:35 +0000
 ### [“I grew up being fascinated by works of Big B,Rajesh Khanna, SRK”: Ayushmann](https://theprint.in/feature/i-grew-up-being-fascinated-by-works-of-big-brajesh-khanna-srk-ayushmann/1871772/)
 

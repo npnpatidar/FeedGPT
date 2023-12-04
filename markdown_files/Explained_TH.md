@@ -1,3 +1,9 @@
+Mon, 04 Dec 2023 18:57:10 +0530
+### [Regulating deepfakes and generative AI in India | Explained](https://www.thehindu.com/news/national/regulating-deepfakes-generative-ai-in-india-explained/article67591640.ece)
+
+Article found but Couldn't summarize 
+Why are deepfakes dangerous? Is there a legal vacuum? What are the international best practices? What should be the regulatory response according to experts?
+
 Mon, 04 Dec 2023 10:30:00 +0530
 ### [Mystery origin of Egypt’s mummified baboons finally cracked | Explained](https://www.thehindu.com/sci-tech/science/mummified-baboons-gabbanat-el-qurud-mtdna-adulis/article67593377.ece)
 

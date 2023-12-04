@@ -1,3 +1,39 @@
+2023-12-04T23:12:48+05:30
+### [Six Nepali Youths Fighting for Russian Army in Ukraine War Killed](https://thewire.in/south-asia/six-nepali-youths-fighting-for-russian-army-in-ukraine-war-killed)
+
+No Article text 
+Reportedly, around 200 Nepalis are currently serving in the Russian Army in various capacities.
+
+2023-12-04T22:39:09+05:30
+### [Take Steps to Ensure 'Immediate Ceasefire' in Gaza: Médecins Sans Frontières to UNSC](https://thewire.in/world/take-steps-to-ensure-immediate-ceasefire-in-gaza-medecins-sans-frontieres-to-unsc)
+
+No Article text 
+In an open letter, MSF International president Christos Christou urged UNSC to establish an independent mechanism to oversee the supply of humanitarian aid into Gaza.
+
+2023-12-04T22:17:39+05:30
+### [Winter Session of Parliament Kicks Off on Adjournment Note, Two Bills Passed](https://thewire.in/politics/winter-session-of-parliament-kicks-off-on-adjournment-note-two-bills-passed)
+
+No Article text 
+Though slated for the first day of this session, the Ethics Committee Report on Mahua Moitra, recommending her expulsion from parliament, was not tabled on Monday, December 4.
+
+2023-12-04T21:43:00+05:30
+### [‘I Respect the Science in Everything I Do’, Clarifies COP28 Prez; India Skips Two Declarations](https://thewire.in/environment/cop-28-president-respect-science-india-declarations)
+
+No Article text 
+India's lack of endorsement for two declarations were because of references to a ‘phase-out’ of coal power and what officials said were targets that are unviable for India's health sector.
+
+2023-12-04T21:42:47+05:30
+### [Mukhtar Ansari's Family Moves SC for His Transfer from UP Jail, Cites 'Immediate Threat' to His Life](https://thewire.in/law/mukhtar-ansaris-family-moves-sc-for-his-transfer-from-up-jail-cites-immediate-threat-to-his-life)
+
+No Article text 
+The younger son of the five-time former MLA in his petition said that he has 'reliable information' from within the police establishment about persons being hired to 'assassinate' his father in Banda Jail.
+
+2023-12-04T19:56:23+05:30
+### [Manipur: 'Massive' Gunfight Between Two Militant Groups Claim 13 Lives, Say Officials](https://thewire.in/security/manipur-massive-gunfight-between-two-militant-groups-claim-13-lives-says-officials)
+
+No Article text 
+The incident took place around noon on December 4 in Leithu village of Tengnoupal district.
+
 2023-12-04T18:46:54+05:30
 ### [Behind Congress Defeat in Madhya Pradesh, a Clear Rejection of Kamal Nath’s Leadership](https://thewire.in/politics/behind-congress-defeat-madhya-pradesh-kamal-nath-rejection)
 
