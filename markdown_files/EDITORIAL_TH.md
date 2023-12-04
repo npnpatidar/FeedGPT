@@ -1,3 +1,57 @@
+Mon, 04 Dec 2023 00:20:00 +0530
+### [Decisive wins: On M.P., Rajasthan, Telangana and Chhattisgarh Assembly election results](https://www.thehindu.com/opinion/editorial/decisive-wins-the-hindu-editorial-on-mp-rajasthan-telangana-and-chhattisgarh-assembly-election-results/article67601500.ece)
+
+Article found but Couldn't summarize 
+The BJP rode on the back of its national leadership in the Hindi heartland, while the Congress relied on regional satraps for its success in Telangana
+
+Sat, 02 Dec 2023 00:20:00 +0530
+### [Finding funds: On COP28  and the ‘loss and damage’ fund](https://www.thehindu.com/opinion/editorial/finding-funds-the-hindu-editorial-on-cop28-and-the-loss-and-damage-fund/article67594683.ece)
+
+Article found but Couldn't summarize 
+The ‘loss and damage’ fund is finally online but more needs to be done
+
+Sat, 02 Dec 2023 00:10:00 +0530
+### [Patchy expansion: On provisional estimates of GDP](https://www.thehindu.com/opinion/editorial/patchy-expansion-the-hindu-editorial-on-provisional-estimates-of-gdp-for-quarter-ending-september-30-2023/article67594874.ece)
+
+Article found but Couldn't summarize 
+A broad growth base is a must to sustain momentum and reduce inequality
+
+Fri, 01 Dec 2023 00:20:00 +0530
+### [A lot at stake: On India and the impact of the indictment by the U.S. Department of Justice](https://www.thehindu.com/opinion/editorial/a-lot-at-stake-the-hindu-editorial-on-india-and-the-impact-of-the-indictment-by-the-us-department-of-justice/article67591265.ece)
+
+Article found but Couldn't summarize 
+India’s reputation as a principled power is at stake after the indictment
+
+Fri, 01 Dec 2023 00:10:00 +0530
+### [Changing tide: On democracy and Myanmar’s civil war](https://www.thehindu.com/opinion/editorial/changing-tide-the-hindu-editorial-on-democracy-and-myanmars-civil-war/article67591807.ece)
+
+Article found but Couldn't summarize 
+The Tatmadaw has been stretched thin in the civil war in Myanmar
+
+Thu, 30 Nov 2023 00:20:00 +0530
+### [Rocky reminder: On the Silkyara tunnel rescue](https://www.thehindu.com/opinion/editorial/rocky-reminder-the-hindu-editorial-on-the-silkyara-tunnel-rescue/article67587441.ece)
+
+Article found but Couldn't summarize 
+The Silkyara tunnel rescue is laudable, but the accident was preventable
+
+Thu, 30 Nov 2023 00:10:00 +0530
+### [A better model: On a catalogue of actions by the Election Commission of India](https://www.thehindu.com/opinion/editorial/a-better-model-the-hindu-editorial-on-a-catalogue-of-actions-by-the-election-commission-of-india/article67587393.ece)
+
+Article found but Couldn't summarize 
+The ECI must act independently as the arbiter of election code breaches
+
+Wed, 29 Nov 2023 00:20:00 +0530
+### [Time for action: On COP-28 climate meeting in Dubai](https://www.thehindu.com/opinion/editorial/time-for-action-the-hindu-editorial-on-cop-28-climate-meeting-in-dubai/article67583810.ece)
+
+Article found but Couldn't summarize 
+COP-28 must compel its signatories to take definitive action
+
+Wed, 29 Nov 2023 00:15:00 +0530
+### [A non-starter: On the suggestion for an All-India Judicial Service](https://www.thehindu.com/opinion/editorial/a-non-starter-the-hindu-editorial-on-president-droupadi-murmus-suggestion-for-an-all-india-judicial-service/article67583819.ece)
+
+Article found but Couldn't summarize 
+All-India service for judges may not ensure higher diversity
+
 Tue, 28 Nov 2023 00:30:00 +0530
 ### [A touchstone of risk: On the rescue efforts in the Silkyara tunnel in Uttarkashi](https://www.thehindu.com/opinion/editorial/a-touchstone-of-risk-the-hindu-editorial-on-the-rescue-efforts-in-the-silkyara-tunnel-in-uttarkashi/article67580459.ece)
 

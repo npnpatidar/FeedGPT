@@ -1,3 +1,149 @@
+Mon, 04 Dec 2023 16:45:39 +0530
+### [Bitcoin surges past $41,000, at its highest in 2023. But should people invest right now?](https://www.firstpost.com/tech/bitcoin-surges-past-42000-at-its-highest-in-2023-but-should-people-invest-right-now-13464372.html)
+
+Article found but Couldn't summarize 
+Bitcoin surges past $41,000, at its highest in 2023. But should people invest right now?
+
+Mon, 04 Dec 2023 16:24:38 +0530
+### [FP EXCLUSIVE: From AI in cars to ADAS, Tata Motors' Mohan Savarkar unveils future of autotech in India](https://www.firstpost.com/tech/auto-tech/ai-in-cars-adas-in-india-tata-motors-mohan-savarkar-reveals-what-future-holds-for-indian-car-buyers-13462862.html)
+
+Article found but Couldn't summarize 
+FP EXCLUSIVE: From AI in cars to ADAS, Tata Motors' Mohan Savarkar unveils future of autotech in India
+
+Mon, 04 Dec 2023 16:18:00 +0530
+### [NVIDIA’s way of the SamurAI: CEO Jensen Huang to prioritise Japan for specialised processors](https://www.firstpost.com/tech/nvidias-way-of-the-samurai-ceo-jensen-huang-to-prioritise-japan-for-specialised-processors-13464142.html)
+
+NVIDIA is making a significant investment in Japan's AI industry by prioritizing Japanese tech companies for their AI-capable GPUs. The move aligns with Japan's efforts to rebuild its semiconductor infrastructure and advance in AI technology. NVIDIA's CEO, Jensen Huang, expressed the company's commitment to meeting the high demand for its AI processors in Japan. This announcement coincided with Japan allocating 2 trillion Yen ($13.6 billion) specifically for chip investment, demonstrating their dedication to revitalizing the semiconductor sector. Some of these funds will support Taiwanese chipmaker TSMC and chip foundry venture Rapidus, which aims to establish cutting-edge chip manufacturing facilities in Japan. Huang is optimistic about Japan's growing semiconductor industry and emphasized the importance of nations owning and controlling their data while independently producing AI intelligence. This aligns with the global trend of countries recognizing the need to secure their AI capabilities and foster self-reliance in the tech sector.
+
+Mon, 04 Dec 2023 15:51:55 +0530
+### ['X saves money': Elon Musk 'proves' X is biggest organic traffic getter for online platforms](https://www.firstpost.com/world/x-saves-money-elon-musk-proves-x-is-biggest-organic-traffic-getter-for-online-platforms-13464102.html)
+
+Article found but Couldn't summarize 
+'X saves money': Elon Musk 'proves' X is biggest organic traffic getter for online platforms
+
+Mon, 04 Dec 2023 12:47:12 +0530
+### [Japanese tech giant TDK Corp to make iPhone batteries in India, announces IT Minister Chandrasekhar](https://www.firstpost.com/tech/japanese-tech-giant-tdk-corp-to-make-iphone-batteries-in-india-announces-it-minister-chandrasekhar-13462952.html)
+
+Article found but Couldn't summarize 
+Japanese tech giant TDK Corp to make iPhone batteries in India, announces IT Minister Chandrasekhar
+
+Mon, 04 Dec 2023 11:09:08 +0530
+### [Under siege: Huge network of Chinese fake accounts set up to disrupt India, US 2024 polls exposed](https://www.firstpost.com/tech/meta-exposes-huge-network-of-chinese-fake-accounts-set-up-to-disrupt-india-us-2024-polls-13462072.html)
+
+Meta, the parent company of Facebook, Instagram, and WhatsApp, has reported that it took down approximately 4,700 fake Chinese accounts aimed at disrupting the 2024 elections in India and China. These accounts pretended to be Americans and Indians and were spreading false information on divisive topics. The accounts were engaged in disseminating misleading information related to US politics, US-China relations, and Indian politics. While Meta did not directly link the accounts to Chinese officials, they expressed concerns about the surge in such networks originating from China, ranking it as the third-largest source after Russia and Iran. The network utilized stolen profile pictures and names from legitimate users worldwide and copied content from X, a former Twitter platform. The accounts were found to copy posts from various US politicians without displaying any consistent ideological stance. Meta's report highlighted the intention behind such networks, which is to manipulate public opinion, sow division, and boost certain viewpoints. The company also uncovered two smaller networks: one from China focusing on India and Tibet, and another from Russia posting about the invasion of Ukraine. Notably, the US government stopped sharing information about foreign influence networks with Meta in July due to a federal ruling related to a First Amendment legal case. This decision is currently being considered by the Supreme Court, sparking the debate on collaboration between the government and tech companies and its impact on social media users' freedom of speech.
+
+Fri, 01 Dec 2023 17:03:32 +0530
+### [President Biden-led US govt forces VC backed by Saudi govt to pull out of Sam Altman's AI chip startup](https://www.firstpost.com/tech/us-tries-to-force-saudi-govt-fund-to-pull-out-of-sam-altmans-ai-chip-startup-13453982.html)
+
+The Joe Biden-led administration has pressured Prosperity7, a tech venture capital firm backed by the Saudi government, to withdraw its support from Rain AI, a startup focused on developing an AI chip to compete with NVIDIA and AMD. The divestment was carried out after a review by the Committee on Foreign Investment in the United States (CFIUS), which oversees deals with potential national security implications. The move reflects increased caution towards Middle Eastern wealth funds, particularly those with perceived ties to China. Prosperity7 sold its stake to Silicon Valley investment firm Grep VC. Sam Altman, co-founder of OpenAI and supporter of Rain AI, is reportedly raising funds for a new AI chip venture called Tigris.
+
+Fri, 01 Dec 2023 16:14:33 +0530
+### [Power Trip: Detroit tries out wireless charging for EVs, cars to draw power from streets as they drive](https://www.firstpost.com/tech/power-trip-detroit-tries-out-wireless-charging-for-evs-cars-to-draw-power-from-streets-as-they-drive-13453802.html)
+
+The city of Detroit in the US has installed a wireless charging system beneath a street, allowing electric vehicle (EV) drivers to recharge their cars while driving. The technology utilizes copper inductive charging coils placed under the street surface, enabling vehicles with corresponding receivers to charge their batteries seamlessly while driving or parking above the coils. The Michigan Department of Transportation has allocated a quarter-mile stretch along 14th Street for testing and refining the technology before making it accessible to the public in the coming years. The initiative is led by Electreon, an Israel-based company specializing in wireless charging solutions for EVs. The project aims to revolutionize electric vehicle adoption, addressing issues such as limited range, grid constraints, and battery size and costs. The wireless-charging roadway has been designed to ensure the safety of pedestrians, motorists, and animals. The Michigan Department of Transportation and Electreon have committed to a five-year partnership to further develop the electric road system. This advancement positions Michigan and Detroit as leaders in electric vehicle technology.
+
+Fri, 01 Dec 2023 14:27:16 +0530
+### [Racist AI: Image Generator Stable Diffusion laced with racial, gendered stereotypes, finds study](https://www.firstpost.com/tech/racist-ai-image-generator-stable-diffusion-tainted-with-racial-gendered-stereotypes-finds-study-13453332.html)
+
+Article found but Couldn't summarize 
+Racist AI: Image Generator Stable Diffusion laced with racial, gendered stereotypes, finds study
+
+Fri, 01 Dec 2023 14:05:33 +0530
+### [Elon Musk's EV on Steroids: Tesla's Cybertruck is new king of drag, beats a Porsche while lugging a Porsche](https://www.firstpost.com/tech/elon-musks-ev-on-steroids-teslas-cybertruck-is-new-king-of-drag-beats-a-porsche-while-lugging-a-porsche-13453242.html)
+
+Article found but Couldn't summarize 
+Elon Musk's EV on Steroids: Tesla's Cybertruck is new king of drag, beats a Porsche while lugging a Porsche
+
+Fri, 01 Dec 2023 12:36:03 +0530
+### [Google pushes UK’s competition watchdog to start antitrust action against Microsoft for cloud dominance](https://www.firstpost.com/tech/google-pushes-uks-competition-watchdog-to-start-antitrust-action-against-microsoft-for-cloud-dominance-13452622.html)
+
+Article found but Couldn't summarize 
+Google pushes UK’s competition watchdog to start antitrust action against Microsoft for cloud dominance
+
+Fri, 01 Dec 2023 12:03:06 +0530
+### [MS Paint, powered by AI: Microsoft adds OpenAI’s DALL-E to iconic programme, makes images from text](https://www.firstpost.com/tech/ms-paint-powered-by-ai-microsoft-adds-openais-dall-e-to-iconic-programme-makes-images-from-text-13452482.html)
+
+Article found but Couldn't summarize 
+MS Paint, powered by AI: Microsoft adds OpenAI’s DALL-E to iconic programme, makes images from text
+
+Fri, 01 Dec 2023 10:57:59 +0530
+### [Huawei to take on Apple: Set to launch VR Headset next year, compete with Vision Pro](https://www.firstpost.com/tech/huawei-to-take-on-apple-set-to-launch-vr-headset-next-year-compete-with-vision-pro-13452152.html)
+
+Article found but Couldn't summarize 
+Huawei to take on Apple: Set to launch VR Headset next year, compete with Vision Pro
+
+Fri, 01 Dec 2023 10:35:10 +0530
+### [After deepfakes, Google, YouTube plan to take down fake news ahead of India’s 2024 general elections](https://www.firstpost.com/tech/after-deepfakes-google-youtube-plan-to-take-down-fake-news-ahead-of-indias-2024-general-elections-13452092.html)
+
+Article found but Couldn't summarize 
+After deepfakes, Google, YouTube plan to take down fake news ahead of India’s 2024 general elections
+
+Fri, 01 Dec 2023 10:00:57 +0530
+### [Art of Underdelivering: Tesla starts delivering Cybertruck, customers disappointed with price, range](https://www.firstpost.com/tech/art-of-underdelivering-tesla-starts-delivering-cybertruck-customers-disappointed-with-price-range-13451942.html)
+
+Article found but Couldn't summarize 
+Art of Underdelivering: Tesla starts delivering Cybertruck, customers disappointed with price, range
+
+Thu, 30 Nov 2023 19:36:37 +0530
+### [EarFun Air Pro 3 Review: TWS Earphones with aptX Adaptive codec under Rs 6,000](https://www.firstpost.com/tech/earfun-air-pro-3-review-tws-earphones-with-aptx-adaptive-codec-under-rs-6000-13451072.html)
+
+Article found but Couldn't summarize 
+EarFun Air Pro 3 Review: TWS Earphones with aptX Adaptive codec under Rs 6,000
+
+Thu, 30 Nov 2023 16:35:03 +0530
+### [Intergalactic Dance: Astronomers accidentally discover planets moving in harmony in rare star system](https://www.firstpost.com/tech/intergalactic-jazz-astronomers-accidentally-discover-planets-moving-in-harmony-in-rare-star-system-13449852.html)
+
+Article found but Couldn't summarize 
+Intergalactic Dance: Astronomers accidentally discover planets moving in harmony in rare star system
+
+Thu, 30 Nov 2023 16:23:22 +0530
+### [Honkai Star Rail named iPhone game of the year, AllTrails app of the year in Apple’s App Store Awards 2023](https://www.firstpost.com/tech/honkai-star-rail-named-iphone-game-of-the-year-alltrails-app-of-the-year-in-apples-app-store-award-2023-13449612.html)
+
+Article found but Couldn't summarize 
+Honkai Star Rail named iPhone game of the year, AllTrails app of the year in Apple’s App Store Awards 2023
+
+Thu, 30 Nov 2023 15:24:56 +0530
+### [Amazon takes on Adobe, Stable Diffusion, Midjourney, releases its own AI-powered image generator](https://www.firstpost.com/tech/amazon-takes-on-adobe-stable-diffusion-midjourney-releases-its-own-ai-powered-image-generator-13449412.html)
+
+Article found but Couldn't summarize 
+Amazon takes on Adobe, Stable Diffusion, Midjourney, releases its own AI-powered image generator
+
+Thu, 30 Nov 2023 14:59:08 +0530
+### [The Real Cost of Bitcoin: Each transaction uses about a swimming pool's worth of water](https://www.firstpost.com/tech/the-real-cost-of-bitcoin-each-transaction-uses-about-a-swimming-pools-worth-of-water-13449212.html)
+
+Article found but Couldn't summarize 
+The Real Cost of Bitcoin: Each transaction uses about a swimming pool's worth of water
+
+Thu, 30 Nov 2023 13:49:52 +0530
+### [Breaking Point: Elon Musk drops the F-bomb on advertisers who left X, says he doesn’t care](https://www.firstpost.com/tech/elon-musk-drops-the-f-bomb-on-advertisers-who-left-x-says-he-doesnt-care-13448642.html)
+
+Article found but Couldn't summarize 
+Breaking Point: Elon Musk drops the F-bomb on advertisers who left X, says he doesn’t care
+
+Thu, 30 Nov 2023 13:07:25 +0530
+### [US needs 20 years to become self-reliant in making silicon chips, says NVIDIA's Jensen Huang](https://www.firstpost.com/tech/us-needs-20-years-to-become-self-reliant-in-making-silicon-chips-says-nvidias-jensen-huang-13448382.html)
+
+Article found but Couldn't summarize 
+US needs 20 years to become self-reliant in making silicon chips, says NVIDIA's Jensen Huang
+
+Thu, 30 Nov 2023 12:25:04 +0530
+### [Cabs, delivery vehicles in Delhi to go electric by 2030, as LG notifies Delhi Motor Vehicle Aggregator Scheme](https://www.firstpost.com/tech/cabs-delivery-vehicles-in-delhi-to-go-electric-by-2030-as-lg-notifies-delhi-motor-vehicle-aggregator-scheme-13448202.html)
+
+Article found but Couldn't summarize 
+Cabs, delivery vehicles in Delhi to go electric by 2030, as LG notifies Delhi Motor Vehicle Aggregator Scheme
+
+Thu, 30 Nov 2023 11:20:23 +0530
+### [China on the offensive, is ramping up cyberattacks against Taiwan, warns Google](https://www.firstpost.com/tech/china-on-the-offensive-is-ramping-up-cyberattacks-against-taiwan-warns-google-13447942.html)
+
+Article found but Couldn't summarize 
+China on the offensive, is ramping up cyberattacks against Taiwan, warns Google
+
+Thu, 30 Nov 2023 11:00:17 +0530
+### [Homecoming: Sam Altman officially reinstated as OpenAI CEO, Microsoft gets observer seat on board](https://www.firstpost.com/tech/homecoming-sam-altman-officially-reinstated-as-openai-ceo-microsoft-gets-observer-seat-on-board-13447832.html)
+
+Article found but Couldn't summarize 
+Homecoming: Sam Altman officially reinstated as OpenAI CEO, Microsoft gets observer seat on board
+
 Mon, 27 Nov 2023 18:40:28 +0530
 ### [Foxconn's main manufacturing division to invest $1.57 billion in building a factory in India](https://www.firstpost.com/tech/foxconn-plans-to-invest-nearly-2-billion-dollars-in-building-a-manufacturing-factory-in-india-13436392.html)
 

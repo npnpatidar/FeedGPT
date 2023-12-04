@@ -1,3 +1,63 @@
+Mon, 04 Dec 2023 10:30:00 +0530
+### [Mystery origin of Egypt’s mummified baboons finally cracked | Explained](https://www.thehindu.com/sci-tech/science/mummified-baboons-gabbanat-el-qurud-mtdna-adulis/article67593377.ece)
+
+Article found but Couldn't summarize 
+The Egyptian god Thoth was represented by a baboon — which is odd because baboons aren’t native to Egypt.
+
+Sun, 03 Dec 2023 22:17:56 +0530
+### [Re-criminalising adultery as a gender-neutral offence | Explained](https://www.thehindu.com/news/national/re-criminalising-adultery-as-a-gender-neutral-offence/article67565680.ece)
+
+Article found but Couldn't summarize 
+The Parliament Standing Committee on Home Affairs has suggested that the proposed Bharatiya Nyaya Sanhita Bill, 2023 be amended to make adultery a criminal offence again— but on gender-neutral terms
+
+Sun, 03 Dec 2023 14:21:40 +0530
+### [Rajasthan Elections Results 2023 | All about Bharat Adivasi Party](https://www.thehindu.com/elections/rajasthan-assembly/rajasthan-elections-results-2023-all-about-bharat-adivasi-party/article67600744.ece)
+
+Article found but Couldn't summarize 
+BAP focuses on people-centric progress, and calls itself the first “environment-friendly party”.
+
+Sun, 03 Dec 2023 14:18:18 +0530
+### [Why is Meta suing the U.S. Federal Trade Commission? | Explainer](https://www.thehindu.com/sci-tech/technology/why-meta-suing-us-federal-trade-commission-explainer/article67600421.ece)
+
+Article found but Couldn't summarize 
+Why is the social media giant suing a U.S. regulator? What does this mean for children’s privacy rights across Meta’s apps? How will this affect regulators trying to reign in Big Tech companies?
+
+Sun, 03 Dec 2023 13:30:00 +0530
+### [The transformative benefits of population-level genome sequencing | Explained](https://www.thehindu.com/sci-tech/science/population-level-genome-sequencing-transformative-benefits/article67597984.ece)
+
+Article found but Couldn't summarize 
+The UK has announced the completion of half a million whole-genome sequences, almost 0.7% of its population
+
+Sun, 03 Dec 2023 04:39:00 +0530
+### [Is another prohibition survey needed in Bihar? | Explained](https://www.thehindu.com/news/national/is-another-prohibition-survey-needed-in-bihar-explained/article67599028.ece)
+
+Article found but Couldn't summarize 
+Why is the State going in for another survey after the previous one in February 2023? What are the issues of concern despite the fact that the Bihar Prohibition and Excise (Amendment) Act, 2016 has been tweaked several times?
+
+Sun, 03 Dec 2023 04:23:00 +0530
+### [Wooing Indian tourists with visa-free entry | Explained](https://www.thehindu.com/business/Industry/wooing-indian-tourists-with-visa-free-entry-explained/article67599040.ece)
+
+Article found but Couldn't summarize 
+How long is the visa-free travel for Indians to Malaysia valid? Which other countries also offer the same?
+
+Sun, 03 Dec 2023 04:01:00 +0530
+### [Why is COP28 summit focusing on health? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/why-is-cop28-summit-focusing-on-health-explained/article67599018.ece)
+
+Article found but Couldn't summarize 
+Has health been discussed in previous U.N. Conference of Parties? What are the expected health-related outcomes at COP28? How can public health become resilient to climate change, and who will finance this transformation? What challenges do experts foresee?
+
+Sun, 03 Dec 2023 02:59:00 +0530
+### [Gurpatwant Singh Pannun | Online tiger](https://www.thehindu.com/news/international/gurpatwant-singh-pannun-online-tiger/article67598989.ece)
+
+Article found but Couldn't summarize 
+The Amritsar-born, New York-based attorney is at the centre of a brewing India-U.S. crisis over an alleged attempt of assassination
+
+Sun, 03 Dec 2023 02:49:00 +0530
+### [Paul Lynch | Writing for the dark times](https://www.thehindu.com/books/paul-lynch-writing-for-the-dark-times/article67598956.ece)
+
+Article found but Couldn't summarize 
+Prophet Song, the fifth novel by the Irish author which tries to see into ‘modern chaos’, has won the Booker Prize for 2023
+
 Mon, 27 Nov 2023 22:43:57 +0530
 ### [Can dollarisation save an economy? | Explained](https://www.thehindu.com/business/Economy/can-dollarisation-save-an-economy-explained/article67580968.ece)
 

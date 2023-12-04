@@ -1,3 +1,153 @@
+Mon, 04 Dec 2023 18:00:13 +0530
+### [Why does Venezuela want to claim oil-rich region controlled by Guyana?](https://www.firstpost.com/explainers/why-does-venezuela-want-to-claim-oil-rich-region-controlled-by-guyana-13464482.html)
+
+Article found but Couldn't summarize 
+Why does Venezuela want to claim oil-rich region controlled by Guyana?
+
+Mon, 04 Dec 2023 17:42:51 +0530
+### [What are nitazenes, drugs causing ‘holes’ in skin, wreaking havoc in the UK?](https://www.firstpost.com/explainers/what-are-nitazenes-drugs-causing-holes-in-skin-wreaking-havoc-in-the-uk-13464442.html)
+
+Article found but Couldn't summarize 
+What are nitazenes, drugs causing ‘holes’ in skin, wreaking havoc in the UK?
+
+Mon, 04 Dec 2023 16:27:41 +0530
+### [What are ‘daddy issues’ depicted in the Ranbir Kapoor-starrer ‘Animal’?](https://www.firstpost.com/explainers/daddy-issues-ranbir-kapoor-animal-psychological-problems-pop-culture-13464042.html)
+
+Article found but Couldn't summarize 
+What are ‘daddy issues’ depicted in the Ranbir Kapoor-starrer ‘Animal’?
+
+Mon, 04 Dec 2023 16:12:46 +0530
+### [What if Donald Trump becomes president of the US again?](https://www.firstpost.com/explainers/what-if-donald-trump-becomes-president-of-the-us-again-13441862.html)
+
+Article found but Couldn't summarize 
+What if Donald Trump becomes president of the US again?
+
+Mon, 04 Dec 2023 16:03:05 +0530
+### [Oxford’s Word of the Year 2023 is 'Rizz'. What does it mean?](https://www.firstpost.com/explainers/oxfords-word-of-the-year-2023-is-rizz-what-does-it-mean-13463492.html)
+
+Article found but Couldn't summarize 
+Oxford’s Word of the Year 2023 is 'Rizz'. What does it mean?
+
+Mon, 04 Dec 2023 15:59:10 +0530
+### [What did BJP and Congress promise voters? What will it cost?](https://www.firstpost.com/explainers/what-did-bjp-and-congress-promise-voters-in-assembly-polls-what-will-it-cost-the-exchequer-13463682.html)
+
+Article found but Couldn't summarize 
+What did BJP and Congress promise voters? What will it cost?
+
+Mon, 04 Dec 2023 15:15:30 +0530
+### [How many people were murdered in India in 2022? Which state tops the list?](https://www.firstpost.com/explainers/how-many-people-were-murdered-in-india-in-2022-which-state-tops-the-list-13463592.html)
+
+Article found but Couldn't summarize 
+How many people were murdered in India in 2022? Which state tops the list?
+
+Mon, 04 Dec 2023 14:31:06 +0530
+### [Assembly Election Results 2023: What comes next for the MPs who won?](https://www.firstpost.com/explainers/assembly-election-results-2023-what-comes-next-for-the-mps-who-won-13463362.html)
+
+Article found but Couldn't summarize 
+Assembly Election Results 2023: What comes next for the MPs who won?
+
+Mon, 04 Dec 2023 14:02:59 +0530
+### [Explained: How extreme weather could cause closure of thousands of hospitals globally](https://www.firstpost.com/explainers/explained-how-extreme-weather-could-cause-closure-of-thousands-of-hospitals-globally-13462702.html)
+
+Article found but Couldn't summarize 
+Explained: How extreme weather could cause closure of thousands of hospitals globally
+
+Mon, 04 Dec 2023 13:16:42 +0530
+### [Cars underwater, flights cancelled… How Cyclone Michaung is wreaking havoc in Chennai](https://www.firstpost.com/explainers/cars-underwater-flights-cancelled-cyclone-michaung-rainfall-chennai-landfall-southern-coast-13463022.html)
+
+Article found but Couldn't summarize 
+Cars underwater, flights cancelled… How Cyclone Michaung is wreaking havoc in Chennai
+
+Mon, 04 Dec 2023 12:52:15 +0530
+### [Nari Hai to Mumkin Hai: How women voters propelled BJP to victory](https://www.firstpost.com/explainers/assembly-election-results-2023-madhya-pradesh-rajasthan-chhattisgarh-women-voters-bjp-win-13462872.html)
+
+Article found but Couldn't summarize 
+Nari Hai to Mumkin Hai: How women voters propelled BJP to victory
+
+Mon, 04 Dec 2023 11:29:18 +0530
+### [Piyush Goyal takes ‘Moye Moye’ dig at Rahul after Congress loss: What's this Instagram trend?](https://www.firstpost.com/explainers/piyush-goyal-takes-moye-moye-dig-at-rahul-after-congress-loss-whats-this-instagram-trend-13461912.html)
+
+Article found but Couldn't summarize 
+Piyush Goyal takes ‘Moye Moye’ dig at Rahul after Congress loss: What's this Instagram trend?
+
+Mon, 04 Dec 2023 10:27:14 +0530
+### [How INDIA bloc members will gain from Congress’ election losses in Hindi heartland](https://www.firstpost.com/explainers/rajasthan-madhya-pradesh-chhattisgarh-assembly-election-results-india-alliance-members-gain-congress-losses-13462032.html)
+
+Article found but Couldn't summarize 
+How INDIA bloc members will gain from Congress’ election losses in Hindi heartland
+
+Mon, 04 Dec 2023 10:17:12 +0530
+### [How the Congress has extended its winning run in the South](https://www.firstpost.com/explainers/how-the-congress-has-extended-its-winning-run-in-the-south-13462042.html)
+
+Article found but Couldn't summarize 
+How the Congress has extended its winning run in the South
+
+Mon, 04 Dec 2023 08:57:52 +0530
+### [Assembly Elections 2023: How many people opted for NOTA?](https://www.firstpost.com/explainers/assembly-elections-2023-how-many-people-opted-for-nota-13461822.html)
+
+Article found but Couldn't summarize 
+Assembly Elections 2023: How many people opted for NOTA?
+
+Mon, 04 Dec 2023 08:48:19 +0530
+### [Lotus blooms, grand old party wilts: India’s political map updated](https://www.firstpost.com/explainers/lotus-blooms-grand-old-party-wilts-indias-political-map-updated-13461462.html)
+
+Article found but Couldn't summarize 
+Lotus blooms, grand old party wilts: India’s political map updated
+
+Sun, 03 Dec 2023 20:40:25 +0530
+### [BJP wins in Hindi heartland: How this sets the tone for 2024](https://www.firstpost.com/explainers/assembly-elections-results-2023-bjp-wins-in-hindi-heartland-2024-lok-sabha-polls-impact-congress-13461302.html)
+
+Article found but Couldn't summarize 
+BJP wins in Hindi heartland: How this sets the tone for 2024
+
+Sun, 03 Dec 2023 20:25:32 +0530
+### [Madhya Pradesh polls: How Shivraj Singh Chouhan campaigned tirelessly for the BJP](https://www.firstpost.com/explainers/madhya-pradesh-election-results-how-shivraj-singh-chouhan-campaigned-tirelessly-for-the-bjp-13460862.html)
+
+Article found but Couldn't summarize 
+Madhya Pradesh polls: How Shivraj Singh Chouhan campaigned tirelessly for the BJP
+
+Sun, 03 Dec 2023 20:16:10 +0530
+### [Rajasthan Royals: Will BJP snub Raje and give CM post to Jaipur princess Diya Kumari?](https://www.firstpost.com/explainers/rajasthan-assembly-election-results-2023-will-bjp-snub-raje-and-give-cm-post-to-jaipur-princess-diya-kumari-13460912.html)
+
+Article found but Couldn't summarize 
+Rajasthan Royals: Will BJP snub Raje and give CM post to Jaipur princess Diya Kumari?
+
+Sun, 03 Dec 2023 20:02:20 +0530
+### [FirstUp: Mizoram poll results, ethics panel report on Mahua Moitra... the big news today](https://www.firstpost.com/explainers/firstup-mizoram-poll-results-ethics-panel-report-on-mahua-moitra-the-big-news-today-13460812.html)
+
+Article found but Couldn't summarize 
+FirstUp: Mizoram poll results, ethics panel report on Mahua Moitra... the big news today
+
+Sun, 03 Dec 2023 19:16:58 +0530
+### [Madhya Pradesh Election Results: As BJP dominates Congress, is it curtains for Kamal Nath?](https://www.firstpost.com/explainers/madhya-pradesh-election-results-as-bjp-dominates-congress-is-it-curtains-for-kamal-nath-13460432.html)
+
+Article found but Couldn't summarize 
+Madhya Pradesh Election Results: As BJP dominates Congress, is it curtains for Kamal Nath?
+
+Sun, 03 Dec 2023 18:51:36 +0530
+### [Chhattisgarh Election Results: Will BJP choose a woman or an OBC leader to head the state?](https://www.firstpost.com/explainers/chhattisgarh-election-results-bjp-chief-minister-contenders-obc-woman-tribal-leader-13460692.html)
+
+Article found but Couldn't summarize 
+Chhattisgarh Election Results: Will BJP choose a woman or an OBC leader to head the state?
+
+Sun, 03 Dec 2023 18:34:54 +0530
+### [Giant Slayer: Who is BJP's KV Ramana Reddy, who beat KCR, Revanth Reddy in Telangana?](https://www.firstpost.com/explainers/the-giant-slayer-who-is-bjps-kv-ramana-reddy-who-defeated-kcr-revanth-reddy-in-telangana-13460352.html)
+
+Article found but Couldn't summarize 
+Giant Slayer: Who is BJP's KV Ramana Reddy, who beat KCR, Revanth Reddy in Telangana?
+
+Sun, 03 Dec 2023 17:40:12 +0530
+### [Rajasthan Election Results: What’s in store for Congress’ Ashok Gehlot, Sachin Pilot?](https://www.firstpost.com/explainers/rajasthan-assembly-election-results-2023-whats-in-store-for-congress-ashok-gehlot-sachin-pilot-13460272.html)
+
+Article found but Couldn't summarize 
+Rajasthan Election Results: What’s in store for Congress’ Ashok Gehlot, Sachin Pilot?
+
+Sun, 03 Dec 2023 17:01:13 +0530
+### [Sunil Kanugolu: The poll strategist, who scripted Congress wins in Telangana and Karnataka](https://www.firstpost.com/explainers/telangana-election-results-sunil-kanugolu-poll-strategist-congress-wins-telangana-karnataka-13460282.html)
+
+Article found but Couldn't summarize 
+Sunil Kanugolu: The poll strategist, who scripted Congress wins in Telangana and Karnataka
+
 Mon, 27 Nov 2023 21:42:01 +0530
 ### [FirstUp: NATO foreign ministers meet and more… What to expect today](https://www.firstpost.com/explainers/firstup-nato-foreign-ministers-meet-and-more-what-to-expect-today-13437142.html)
 

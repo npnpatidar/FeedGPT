@@ -1,3 +1,380 @@
+Mon, 04 Dec 2023 13:16:53 +0000
+### [How a new party beat Congress and MNF in Mizoram](https://indianexpress.com/article/opinion/columns/zpm-mizoram-assembly-election-2023-mnf-9054216/)
+
+Article found but Couldn't summarize
+
+Mon, 04 Dec 2023 10:26:50 +0000
+### [Problem with the case against Mahua Moitra – spectre of political vendetta](https://indianexpress.com/article/opinion/columns/mahua-moitra-case-political-vendetta-9053953/)
+
+Article found but Couldn't summarize
+
+Mon, 04 Dec 2023 08:49:20 +0000
+### [On Navy Day, lessons for India from the Russia-Ukraine war](https://indianexpress.com/article/opinion/columns/navy-day-russia-ukraine-war-india-lessons-9053796/)
+
+Article found but Couldn't summarize
+
+Mon, 04 Dec 2023 05:59:22 +0000
+### [Message from Chhattisgarh electorate to Congress: Our vote is not for sale](https://indianexpress.com/article/opinion/columns/chhattisgarh-election-results-message-to-congress-9053589/)
+
+Article found but Couldn't summarize
+
+Mon, 04 Dec 2023 01:30:16 +0000
+### [December 4, Forty Years Ago: Clash between Longowal and Tara Singh’s Akali Dal factions](https://indianexpress.com/article/opinion/editorials/december-4-forty-years-ago-akali-dal-l-arrests-9053101/)
+
+Summary:
+
+In an incident at the Sisganj gurdwara, Sikh policemen arrested supporters of Sant Longowal, the chief of the Akali Dal (L), who had clashed with workers from the Tara Singh faction. Akali Dal (L) supporters resisted the arrest using sticks, swords, stones, and bottles. Security forces in Chittagong, Bangladesh have detained 37 political leaders after violent demonstrations against the government, resulting in five deaths and over 400 injuries. The Election Commission plans to include a ban on financial grants, use of official aircraft, and entry of ministers in polling stations or counting halls, except as candidates, voters, or agents. In West Bengal, the Congress (I) party is considering taking direct control of the reception committee and sub-panels due to potential disruptions from rival factions during the plenary session.
+
+Mon, 04 Dec 2023 01:15:08 +0000
+### [Express View: Double engine, triple victory](https://indianexpress.com/article/opinion/editorials/double-engine-triple-victory-9053102/)
+
+Article found but Couldn't summarize
+
+Sun, 03 Dec 2023 17:06:20 +0000
+### [Express View on assembly election results: Double engine, triple victory](https://indianexpress.com/article/opinion/editorials/assembly-election-results-2023-bjp-win-rajasthan-madhya-pradesh-chhattisgarh-9053056/)
+
+The results of three out of four assembly elections in this round reveal that both as an incumbent and a challenger, the BJP is more capable of winning people's trust compared to its main rival, the Congress. These results also demonstrate that Prime Minister Narendra Modi's appeal and popularity extend to the states, masking any weaknesses in the BJP's state units. The BJP's victories in Madhya Pradesh, Rajasthan, and Chhattisgarh can be attributed to their centralization of power, shifting the focus to Modi, and narrowing the gap between the center and the states. This strategy gives the BJP a political advantage, even if their governance falls short of expectations. 
+
+A notable takeaway from these elections is the diminishing role of state leadership and the ability of Modi to influence state-level elections. However, these shifts should not be solely attributed to a single factor like polarization. The BJP's success lies in its strong organizational structure, its welfare initiatives that resonate with voters, and Modi's skillful invocation of larger identities based on religion, culture, and nation. Modi's campaign combines a sense of progress and aspiration with efforts to engage voters.
+
+The electoral outcomes are not solely due to the BJP's success but also because of the Congress' failure. The Congress lacked a coherent campaign and failed to connect its ideas at the national level with local leaders and voters. This disconnect is evident in the BJP making inroads into constituencies historically claimed by the Congress. The Congress now faces the challenge of reviving momentum for the upcoming Lok Sabha polls.
+
+In Telangana, the regional party, Telangana Rashtra Samithi (TRS), faced setbacks despite implementing welfare schemes. Allegations of corruption and dynastic politics eroded its political potential, leading to the Congress becoming the beneficiary of the vote against the TRS government. The BJP also made gains in Telangana, doubling its voteshare. The Congress must now deliver an efficient government to solidify its victory.
+
+Sun, 03 Dec 2023 14:54:36 +0000
+### [Why Congress lost Rajasthan: Limits of welfare, BJP’s organisational ability](https://indianexpress.com/article/opinion/columns/why-congress-lost-rajasthan-elections-2023-9052997/)
+
+Article found but Couldn't summarize
+
+Sun, 03 Dec 2023 14:10:14 +0000
+### [The BJP’s sweep: Modi is the mascot, party is the culture](https://indianexpress.com/article/opinion/columns/election-results-2023-modi-bjp-lok-sabha-polls-challenge-9052967/)
+
+The article discusses the recent assembly election results in India, where the Bharatiya Janata Party (BJP) emerged victorious in three states - Madhya Pradesh, Rajasthan, and Chhattisgarh. The author highlights the BJP's organizational strength and effective micro-management as factors contributing to their success. They also attribute the victories to the leadership of Prime Minister Narendra Modi, who positioned himself at the center of the campaign and overshadowed state-level leaders. The article emphasizes the influence of Modi's persona and the ideological concept of Hindutva, which encompasses various elements such as victimhood, aspiration, religiosity, and strong authority. The author suggests that the electoral outcomes reflect the success of this political culture with Modi as its figurehead.
+
+The article also considers the implications of these results for the Congress party. It predicts internal factional fights and desertions within the party, as well as debates about leadership and ideological responses to Hindutva. The setback for the Congress party weakens its national leadership and raises questions about the party's rebuilding process. The article further discusses how these results could affect the broader opposition coalition, INDIA, potentially hampering its focus on economic mismanagement and inclusive democratic governance. The opposition may face challenges in presenting a meaningful alternative to the BJP's ideology and could experience further divisions within the alliance. The article concludes by highlighting the need for the opposition to find central platforms for their campaign without merely indulging in criticism of Modi.
+
+Sun, 03 Dec 2023 13:46:41 +0000
+### [How BJP snatched victory in Chhattisgarh from an overconfident Congress](https://indianexpress.com/article/opinion/columns/chhattisgarh-elections-how-bjp-won-9052942/)
+
+Article found but Couldn't summarize
+
+Sun, 03 Dec 2023 13:35:23 +0000
+### [View from Pakistan: India’s alleged assassination plot and PCB’s Salman Butt controversy](https://indianexpress.com/article/opinion/columns/view-pakistan-india-alleged-assassination-plot-pcb-salman-butt-controversy-9052907/)
+
+Article found but Couldn't summarize
+
+Sun, 03 Dec 2023 13:18:04 +0000
+### [From the Opinions Editor | COP 28: A promising start but old challenges remain](https://indianexpress.com/article/opinion/columns/from-the-opinions-editor-cop-28-a-promising-start-but-old-challenges-remain-9052922/)
+
+Article found but Couldn't summarize
+
+Sun, 03 Dec 2023 11:53:37 +0000
+### [Lesson from Madhya Pradesh and Telangana: Revdi is a hit-and-miss electoral strategy](https://indianexpress.com/article/opinion/columns/lesson-from-madhya-pradesh-and-telangana-2023-election-results-9052809/)
+
+Article found but Couldn't summarize
+
+Sun, 03 Dec 2023 10:08:23 +0000
+### [In Congress’s Telangana victory, a warning for regional parties](https://indianexpress.com/article/opinion/columns/in-congresss-telangana-victory-a-warning-for-regional-parties-9052586/)
+
+Article found but Couldn't summarize
+
+Sun, 03 Dec 2023 08:00:01 +0000
+### [Why BJP defied predictions to win Madhya Pradesh: Shivraj Singh Chouhan’s agricultural revolution](https://indianexpress.com/article/opinion/columns/madhya-pradesh-election-result-bjp-victory-shivraj-singh-chouhan-agricultural-revolution-9052415/)
+
+Article found but Couldn't summarize
+
+Sun, 03 Dec 2023 02:30:35 +0000
+### [In Arunachal, remnants from a WWII battlefield](https://indianexpress.com/article/opinion/columns/in-arunachal-remnants-from-a-wwii-battlefield-9051806/)
+
+Article found but Couldn't summarize
+
+Sun, 03 Dec 2023 01:44:40 +0000
+### [Tavleen Singh writes: Faced with dismal, dreary choice voters choose those who offer better freebies](https://indianexpress.com/article/opinion/columns/tavleen-singh-writes-elections-freebies-narendra-modi-rahul-gandhi-9051768/)
+
+Article found but Couldn't summarize
+
+Sun, 03 Dec 2023 01:30:28 +0000
+### [P Chidambaram writes: Pick your horses in five elections](https://indianexpress.com/article/opinion/columns/p-chidambaram-writes-assembly-elections-9051760/)
+
+Article found but Couldn't summarize
+
+Sun, 03 Dec 2023 01:15:27 +0000
+### [Inside Track by Coomi Kapoor: Revanth Reddy — a man to watch](https://indianexpress.com/article/opinion/columns/inside-track-coomi-kapoor-telangana-madhya-pradesh-assembly-polls-9051802/)
+
+Article found but Couldn't summarize
+
+Sat, 02 Dec 2023 12:30:08 +0000
+### [How the psychology of Benjamin Netanyahu, Joe Biden and MBS is driving oil prices](https://indianexpress.com/article/opinion/columns/how-the-psychology-of-benjamin-netanyahu-joe-biden-and-mbs-is-driving-oil-prices-9051422/)
+
+Article found but Couldn't summarize
+
+Sat, 02 Dec 2023 10:30:05 +0000
+### [Finally, a plus-size beauty at Miss Universe](https://indianexpress.com/article/opinion/columns/finally-a-plus-size-miss-universe-9051319/)
+
+Article found but Couldn't summarize
+
+Sat, 02 Dec 2023 08:32:44 +0000
+### [A psychiatrist writes: How seeking help saved me – it can save you, too](https://indianexpress.com/article/opinion/columns/psychiatrist-depression-adhd-professional-help-9051240/)
+
+Article found but Couldn't summarize
+
+Sat, 02 Dec 2023 06:30:39 +0000
+### [Are you a Bebo era main character, or just a Basic Swiftie – why we put up with Spotify’s Wrapped](https://indianexpress.com/article/opinion/columns/spotify-wrapped-big-tech-data-9050884/)
+
+Article found but Couldn't summarize
+
+Sat, 02 Dec 2023 02:15:51 +0000
+### [Express View: At Dubai COP, India stands its ground](https://indianexpress.com/article/opinion/editorials/express-view-at-dubai-cop-india-stands-its-ground-9050630/)
+
+Article found but Couldn't summarize
+
+Sat, 02 Dec 2023 02:10:08 +0000
+### [Lalit Kala Akademi chairman writes: The looming AI challenge in public-owned art](https://indianexpress.com/article/opinion/columns/lalit-kala-akademi-chairman-writes-the-looming-ai-challenge-in-public-owned-art-9050608/)
+
+Article found but Couldn't summarize
+
+Sat, 02 Dec 2023 02:00:35 +0000
+### [The GDP surprise: India on the up and up](https://indianexpress.com/article/opinion/columns/the-gdp-surprise-india-on-the-up-and-up-9050606/)
+
+Article found but Couldn't summarize
+
+Sat, 02 Dec 2023 01:30:44 +0000
+### [Ram Madhav writes: New India’s diplomacy – nimble and forthright](https://indianexpress.com/article/opinion/columns/ram-madhav-writes-new-indias-diplomacy-nimble-and-forthright-9050607/)
+
+Article found but Couldn't summarize
+
+Sat, 02 Dec 2023 00:40:18 +0000
+### [December 2, Forty Years Ago: Buses burnt in Punjab](https://indianexpress.com/article/opinion/40-years-ago/december-2-forty-years-ago-buses-burnt-in-punjab-9050663/)
+
+Summary:
+Activists from the All India Sikh Students Federation (AIS3F) burned two buses, one belonging to Punjab Roadways and the other to Amritsar Municipal Corporation, on the campus of Khalsa College in Amritsar. The activists hijacked the buses, asked the passengers to disembark, and then set the buses on fire. In Sri Lanka, President Junius Jayewardene announced his plan to convene an all-party conference to discuss proposals for resolving the issue of the Sri Lankan Tamils. Anti-government demonstrations in Dhaka and Chittagong resulted in six deaths and around 500 injuries. Protesters demanded the immediate release of arrested opposition leaders. In the Lok Sabha, the rising crime rate in Delhi became a topic of discussion, with the opposition criticizing the police and expressing a lack of confidence in the government's ability to handle the situation. The recent incidents highlighted included a bank robbery, a daylight theft in Karol Bagh, and two bomb explosions in cinema houses.
+
+Sat, 02 Dec 2023 00:30:54 +0000
+### [Nepal’s first official queer marriage: A beacon of change for South Asia](https://indianexpress.com/article/opinion/editorials/nepals-first-official-same-sex-marriage-a-beacon-of-change-for-south-asia-9050639/)
+
+Article found but Couldn't summarize
+
+Fri, 01 Dec 2023 13:58:00 +0000
+### [Express View on the Exit Poll Show](https://indianexpress.com/article/opinion/editorials/express-view-on-the-exit-poll-show-9050425/)
+
+Article found but Couldn't summarize
+
+Fri, 01 Dec 2023 13:26:23 +0000
+### [Karan Thapar writes: If they weren’t Kashmiri Muslims, would the students have been charged with UAPA?](https://indianexpress.com/article/opinion/columns/karan-thapar-kashmiri-muslims-students-uapa-9050354/)
+
+Article found but Couldn't summarize
+
+Fri, 01 Dec 2023 10:00:26 +0000
+### [SC approves extension of Delhi Chief Secretary: Why governments keep their favourite bureaucrats](https://indianexpress.com/article/opinion/columns/sc-approves-extension-of-delhi-chief-secretary-naresh-kumar-9050067/)
+
+Article found but Couldn't summarize
+
+Fri, 01 Dec 2023 07:50:03 +0000
+### [Nijjar-Pannun episodes show India is a victim of its own Vishwaguru propaganda](https://indianexpress.com/article/opinion/columns/nijjar-pannun-killings-united-states-canada-india-vishwaguru-propaganda-9049917/)
+
+Article found but Couldn't summarize
+
+Fri, 01 Dec 2023 01:44:45 +0000
+### [EVMs are reliable — but the Election Commission must prove that](https://indianexpress.com/article/opinion/columns/evms-are-reliable-but-the-election-commission-must-prove-that-9049277/)
+
+Article found but Couldn't summarize
+
+Fri, 01 Dec 2023 01:40:18 +0000
+### [Feroze Varun Gandhi writes: New Delhi’s flip-flop on Israel-Palestine is costly for India](https://indianexpress.com/article/opinion/columns/feroze-varun-gandhi-writes-new-delhis-flip-flop-on-israel-palestine-is-costly-for-india-9049270/)
+
+Article found but Couldn't summarize
+
+Fri, 01 Dec 2023 01:37:00 +0000
+### [Express View: Henry Kissinger was a man of the world](https://indianexpress.com/article/opinion/editorials/express-view-henry-kissinger-was-a-man-of-the-world-9049275/)
+
+Article found but Couldn't summarize
+
+Fri, 01 Dec 2023 01:15:27 +0000
+### [Forty years ago (December 1, 1983): Police brutality concerns in Assam](https://indianexpress.com/article/opinion/40-years-ago/forty-years-ago-december-1-1983-police-brutality-concerns-in-assam-9049261/)
+
+The military authorities have imposed a 24-hour curfew in Chittagong, Bangladesh's second-largest city, following a clash between police and anti-martial law demonstrators. One person was killed, and at least two others were injured when police opened fire in the Agrabad commercial area. As a result of the general strike, the bustling port city, home to around one million residents, came to a standstill. Additionally, opposition leaders Hasina Wajed and Begum Khaleda Zia were taken into preventive custody.
+
+In Assam, protestors shifted their focus from the issue of foreign nationals to protesting against alleged police brutality. The All Assam Students Union and the All Assam Gana Sangram Parishad organized a joint meeting and designated a six-day program to document instances of police misconduct in various parts of the state.
+
+Ahead of a planned long march in support of the campaign against military rule in Pakistan-occupied Kashmir, law enforcement authorities preemptively arrested over 60 politicians. However, a member of the action committee confirmed that the 145-kilometer march from Rawalakot to Islamabad would proceed as scheduled.
+
+The Indian Home Ministry issued an alert to all state governments, urging them to take precautionary measures to prevent any possible repercussions from incidents in Punjab. The states were advised to notify their law enforcement agencies about the likelihood of such incidents and to be prepared to maintain law and order.
+
+Fri, 01 Dec 2023 00:44:26 +0000
+### [Express View: Lesson from rat-hole miners — religion should not matter](https://indianexpress.com/article/opinion/editorials/express-view-lesson-from-rat-hole-miners-religion-should-not-matter-9049276/)
+
+The article discusses the significance of identity politics and the potential positive and negative impacts it can have. It highlights the story of Vaqeel Hasan, the head of Rockwell Enterprises, whose diverse team played a crucial role in rescuing 41 workers trapped in a collapsed tunnel in Uttarkashi. Hasan emphasizes the importance of unity and harmony, urging people not to spread hate. The article emphasizes that in times of crisis or in industries where talent prevails, individual identities become less relevant, and people focus on the goodness and actions of individuals rather than their backgrounds. This sentiment is seen as crucial to carrying forward after the successful rescue in Uttarkashi.
+
+Thu, 30 Nov 2023 15:37:08 +0000
+### [Express View | India’s GDP upswing: Silver cloud with dark lining](https://indianexpress.com/article/opinion/editorials/india-gdp-upswing-silver-cloud-with-dark-lining-9049124/)
+
+Article found but Couldn't summarize
+
+Thu, 30 Nov 2023 13:35:52 +0000
+### [UNLF Peace Accord: Why one pact is not peace](https://indianexpress.com/article/opinion/columns/unlf-peace-accord-why-one-pact-is-not-peace-9048971/)
+
+Article found but Couldn't summarize
+
+Thu, 30 Nov 2023 12:48:47 +0000
+### [Ex-Foreign Secretary writes: West may praise Henry Kissinger’s diplomatic triumphs but not many tears will be shed in India](https://indianexpress.com/article/opinion/columns/west-henry-kissinger-india-9048804/)
+
+Article found but Couldn't summarize
+
+Thu, 30 Nov 2023 10:25:24 +0000
+### [Pratap Bhanu Mehta writes: How Henry Kissinger tricked the world](https://indianexpress.com/article/opinion/columns/pratap-bhanu-mehta-writes-how-henry-kissinger-tricked-the-world-9048637/)
+
+Article found but Couldn't summarize
+
+Thu, 30 Nov 2023 09:23:22 +0000
+### [My country took away my childhood dream of marrying the one I love](https://indianexpress.com/article/opinion/columns/same-sex-marriage-verdict-marrying-the-one-i-love-9048510/)
+
+Article found but Couldn't summarize
+
+Thu, 30 Nov 2023 04:30:23 +0000
+### [Uttarkashi tunnel rescue is a great achievement. But it was needed because of a miserable failure](https://indianexpress.com/article/opinion/columns/uttarkashi-tunnel-rescue-great-achievement-9047564/)
+
+Article found but Couldn't summarize
+
+Thu, 30 Nov 2023 01:39:00 +0000
+### [Express View: Bankruptcy code’s loose ends](https://indianexpress.com/article/opinion/editorials/express-view-bankruptcy-codes-loose-ends-9047706/)
+
+The article discusses the impact of the Insolvency and Bankruptcy Code (IBC) in India. Since its implementation in 2016, the code has strengthened credit relations and incentivized promoters to fulfill their financial obligations by providing a resolution framework. By September, 7,058 cases were admitted under IBC, while 26,000 applications were withdrawn before admission, indicating a significant number of defaults. Small and medium enterprises, often operational creditors, have utilized IBC to recover their dues.
+
+Among the cases admitted, 1,053 have been closed on appeal/review/settled, and 947 have been withdrawn due to settlements. Resolution plans have been approved in 808 cases, but liquidation has commenced in 2,249 cases. However, the recovery rate for creditors from resolution plans has been lower than expected, with only 31.85% of the admitted claims realized. Liquidation values have been even lower at 6.5% of claims. It is worth noting that most cases resulting in liquidation were previously with the Board for Industrial and Financial Reconstruction and had minimal economic value.
+
+Although IBC aimed to resolve insolvency in a time-bound manner, the process still exceeds expected timelines. The average time for closure of the resolution process is approximately 653 days, and more than two-thirds of ongoing cases have crossed 270 days. In liquidation cases, 55% have exceeded two years. While efforts have been made to improve the code's functioning, further actions are necessary.
+
+Thu, 30 Nov 2023 01:38:57 +0000
+### [At World Cup final, the crowd was a sore loser – Indians do not know the power of defeat](https://indianexpress.com/article/opinion/columns/at-world-cup-final-the-crowd-was-a-sore-loser-indians-do-not-know-the-power-of-defeat-9047705/)
+
+Article found but Couldn't summarize
+
+Thu, 30 Nov 2023 01:37:54 +0000
+### [COP28 challenge: Those who got us here do not pay](https://indianexpress.com/article/opinion/columns/cop28-challenge-those-who-got-us-here-do-not-pay-9047704/)
+
+Article found but Couldn't summarize
+
+Thu, 30 Nov 2023 01:37:06 +0000
+### [Invisible Indians –  sex workers, bar dancers, trans men and women – and lessons from HIV epidemic](https://indianexpress.com/article/opinion/columns/invisible-indians-sex-workers-bar-dancers-trans-men-and-women-and-lessons-for-aids-epidemic-9047708/)
+
+Article found but Couldn't summarize
+
+Thu, 30 Nov 2023 01:30:51 +0000
+### [Narendra Modi writes: India’s G20 presidency, for the world](https://indianexpress.com/article/opinion/columns/narendra-modi-writes-indias-g20-presidency-for-the-world-9047703/)
+
+Article found but Couldn't summarize
+
+Thu, 30 Nov 2023 01:13:49 +0000
+### [November 30, 1983, Forty Years Ago: Common Ground](https://indianexpress.com/article/opinion/40-years-ago/november-30-1983-forty-years-ago-common-ground-9047719/)
+
+The Commonwealth conference in Delhi recently concluded with an agreement on several important matters. The conference addressed the situation in Grenada, condemning actions taken that could preserve everyone's dignity. Additionally, the conference voiced its opposition to the one-sided declaration of independence by Turkish Cypriots and emphasized the need for early steps toward Namibian Independence. Despite differing opinions, the 42 heads of government managed to reach a consensus on numerous issues during the seven-day event.
+
+In Churu, Rajasthan, tensions arose after the sole gurdwara (Sikh place of worship) was set on fire. A handwritten poster, attributed to the "Jai Hindu Sangh" group, claimed responsibility for the incident and expressed criticism towards Khalistan, a Sikh separatist movement. On the same day, Kuldeep Singh, a leader of the Akali Dal (Tara Singh Group), was shot and injured in a posh locality in Kanpur.
+
+Khaleda Zia, a leader from the Bangladesh Nationalist Party (BNP) and widow of the assassinated president Ziaur-Rahman, has reportedly been placed under house arrest according to her relatives. This action follows her interrogation by the police. Meanwhile, many political leaders have gone into hiding, and street clashes between the police and protesters demanding an end to military rule have ensued. Shahjahan Siraj, a leader of the 15-party alliance, stated that sporadic clashes between the police and political activists are ongoing.
+
+The fourth Test match between India and the West Indies ended in a draw. The West Indies, given a target of 244 runs in 105 minutes, finished the day's play at 104/4. The batsmen who were dismissed during the match were Greenidge (4), Haynes (24), Richie Richardson (26), and Vivian Richards (4).
+
+Thu, 30 Nov 2023 01:08:03 +0000
+### [Express View: From Kohinoor to Parthenon Sculptures feud – who owns treasures?](https://indianexpress.com/article/opinion/editorials/express-view-from-kohinoor-to-parthenon-sculptures-feud-who-owns-treasures-9047707/)
+
+Article found but Couldn't summarize
+
+Wed, 29 Nov 2023 11:09:28 +0000
+### [Express View: Triumphs and lessons of the Uttarkashi tunnel rescue](https://indianexpress.com/article/opinion/editorials/express-view-triumphs-and-lessons-of-the-uttarkashi-tunnel-rescue-9047267/)
+
+Article found but Couldn't summarize
+
+Wed, 29 Nov 2023 11:03:56 +0000
+### [NDRF chief writes: How we moved a mountain to rescue the trapped workers in Uttarakhand](https://indianexpress.com/article/opinion/columns/ndrf-chief-how-we-moved-mountain-to-rescue-trapped-workers-uttarakhand-9047220/)
+
+Article found but Couldn't summarize
+
+Wed, 29 Nov 2023 04:28:13 +0000
+### [Rescue apart, there’s tunnel vision in ‘Dev Bhoomi’ Uttarakhand](https://indianexpress.com/article/opinion/columns/uttarakhand-tunnel-rescue-dev-bhoomi-9045504/)
+
+Article found but Couldn't summarize
+
+Wed, 29 Nov 2023 01:50:26 +0000
+### [A closer look at one year of CJI Chandrachud](https://indianexpress.com/article/opinion/columns/a-closer-look-at-one-year-of-cji-chandrachud-9046383/)
+
+Article found but Couldn't summarize
+
+Wed, 29 Nov 2023 01:48:41 +0000
+### [Blowdry and vent: Now, hairdressers who are qualified to counsel](https://indianexpress.com/article/opinion/editorials/blowdry-and-vent-now-hairdressers-who-are-qualified-to-counsel-9046378/)
+
+Article found but Couldn't summarize
+
+Wed, 29 Nov 2023 01:46:01 +0000
+### [In Manipur, a long road to healing](https://indianexpress.com/article/opinion/editorials/in-manipur-a-long-road-to-healing-9046377/)
+
+Article found but Couldn't summarize
+
+Wed, 29 Nov 2023 01:45:33 +0000
+### [UPI and managing the surge in digital fraud](https://indianexpress.com/article/opinion/editorials/upi-and-managing-the-surge-in-digital-fraud-9046374/)
+
+Article found but Couldn't summarize
+
+Wed, 29 Nov 2023 01:30:24 +0000
+### [In the hottest year in recorded history, COP28 will need to work on urgent course correction](https://indianexpress.com/article/opinion/columns/in-the-hottest-year-in-recorded-history-cop28-will-need-to-work-on-urgent-course-correction-9046372/)
+
+Article found but Couldn't summarize
+
+Tue, 28 Nov 2023 21:30:22 +0000
+### [November 29, 1983, Forty Years Ago: Cyprus Resolution](https://indianexpress.com/article/opinion/40-years-ago/november-29-1983-forty-years-ago-cyprus-resolution-9046324/)
+
+Summary: The article covers several events of significance. Cyprus President Spyros Kyprianou requested help from Commonwealth countries to restore Cyprus' territorial integrity. A Nigerian Airways jet crashed near a southern Nigerian airport, resulting in the deaths of at least 53 people. However, there were 18 survivors, including the pilot. Hindi poetess Mahadevi Verma received the Jnanpith Award from British Prime Minister Margaret Thatcher for her exemplary works, in particular, "Yama" and "Deepshikha." In another development, the ninth US space shuttle mission commenced, carrying the European Space Agency's space lab and the first non-American crew member. This mission aimed to set new records, including the longest duration for an American spaceliner.
+
+Tue, 28 Nov 2023 13:30:42 +0000
+### [C Raja Mohan writes | With Mohamed Muizzu’s India-out policy, Turkey’s inroads into Maldives](https://indianexpress.com/article/opinion/columns/with-mohamed-muizzu-india-out-policy-turkey-inroads-into-maldives-9045981/)
+
+Article found but Couldn't summarize
+
+Tue, 28 Nov 2023 06:30:34 +0000
+### [Between India and Australia, lots of love and some caution](https://indianexpress.com/article/opinion/between-india-and-australia-lots-of-love-and-some-caution-9045333/)
+
+Article found but Couldn't summarize
+
+Tue, 28 Nov 2023 05:57:19 +0000
+### [Why climate summits keep failing – and how to fix them](https://indianexpress.com/article/opinion/columns/why-climate-summits-keep-failing-and-how-to-fix-them-9045249/)
+
+Article found but Couldn't summarize
+
+Tue, 28 Nov 2023 02:30:17 +0000
+### [The history of American liberty – and its hypocrisy](https://indianexpress.com/article/opinion/columns/history-of-america-philadelphia-convention-american-constitution-in-1787-george-washington-9044778/)
+
+Article found but Couldn't summarize
+
+Tue, 28 Nov 2023 02:15:48 +0000
+### [November 28, Forty Years Ago: Violence in Palestine](https://indianexpress.com/article/opinion/40-years-ago/violence-in-palestine-israel-palestine-war-palestine-liberation-organisation-plo-yasser-arafat-bangladesh-protest-9044840/)
+
+Article found but Couldn't summarize
+
+Tue, 28 Nov 2023 02:15:39 +0000
+### [For government schemes, a path to dignity for the poor](https://indianexpress.com/article/opinion/columns/direct-benefit-transfer-india-dbt-system-dignity-digital-public-infrastructure-government-schemes-beneficiaries-9044823/)
+
+Article found but Couldn't summarize
+
+Tue, 28 Nov 2023 02:00:49 +0000
+### [In international law, government cannot override Parliament](https://indianexpress.com/article/opinion/columns/india-constitutional-framework-domestic-law-international-law-supreme-court-landmark-decisions-9044827/)
+
+Article found but Couldn't summarize
+
+Tue, 28 Nov 2023 01:15:51 +0000
+### [Paul Lynch’s Booker win: A writer in search of radical empathy](https://indianexpress.com/article/opinion/editorials/paul-lynchs-booker-win-a-writer-in-search-of-radical-empathy-9044854/)
+
+Article found but Couldn't summarize
+
+Tue, 28 Nov 2023 01:00:26 +0000
+### [IFFI Bollywood controversy: A wake-up call for the festival](https://indianexpress.com/article/opinion/editorials/iffi-bollywood-controversy-a-wake-up-call-for-the-festival-9044853/)
+
+Article found but Couldn't summarize
+
+Tue, 28 Nov 2023 00:30:08 +0000
+### [Delhi needs a comprehensive plan for pollution — not ad-hoc solutions](https://indianexpress.com/article/opinion/editorials/delhi-air-pollution-fight-against-pollution-air-quality-index-9044851/)
+
+Article found but Couldn't summarize
+
 Mon, 27 Nov 2023 12:26:37 +0000
 ### [Israel and the United States: The synergy of two settler-colonial states, a disaster for the world](https://indianexpress.com/article/opinion/columns/israel-united-states-two-settler-colonial-states-a-disaster-for-world-9044523/)
 

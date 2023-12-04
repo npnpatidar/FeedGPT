@@ -1,3 +1,217 @@
+Mon, 04 Dec 2023 18:13:51 +0530
+### [Trade has a role to play in climate action but unilateral barriers are unfair](https://www.livemint.com/opinion/online-views/trade-has-a-role-to-play-in-climate-action-but-unilateral-barriers-are-unfair-11701690619457.html)
+
+Article found but Couldn't summarize 
+Finance, technology and international cooperation are critical enablers for accelerated climate action. Talks at CoP-28 should push back unilateral moves that unsettle an agreed balance of obligations.
+
+Mon, 04 Dec 2023 18:12:46 +0530
+### [Don’t expect CoP-28 to make real progress against climate change](https://www.livemint.com/opinion/online-views/dont-expect-cop-28-to-make-real-progress-against-climate-change-11701690783899.html)
+
+Article found but Couldn't summarize 
+Net zero aims look unrealistic with really slow emission reductions and ineffective offsetting programmes.
+
+Mon, 04 Dec 2023 18:05:16 +0530
+### [OpenAI wasn’t alone: Money-versus-mission clashes afflict others too](https://www.livemint.com/opinion/online-views/openai-wasn-t-alone-money-versus-mission-clashes-afflict-others-too-11701690742675.html)
+
+Article found but Couldn't summarize 
+Who guards the guardians? The Microsoft-backed AI firm’s case wasn’t unique in a world of tough business choices.
+
+Mon, 04 Dec 2023 18:04:28 +0530
+### [‘Inevitable India' rings especially true in the world of technology](https://www.livemint.com/opinion/online-views/inevitable-india-rings-especially-true-in-the-world-of-technology-11701690711153.html)
+
+The article discusses the concept of "Inevitable India" as a recommendation for a global campaign to encapsulate India's essence in the contemporary global landscape. It highlights India's growing prominence in discussions on alliances and strategic partnerships among governments and global CEOs. The article also mentions projections that India will become the world's second-largest economy by 2075 and that its purchasing power will surpass that of the US by 2050, contributing to the idea of inevitability. 
+
+The author emphasizes India's unique position in pivotal transitions, particularly in the digital realm. India's Aadhaar system, providing digital IDs to almost 1.4 billion people, has laid the foundation for an inclusive digital economy. The India Stack, which combines digital identities, interoperable payment protocols, and a consent-based data layer, serves as the backbone of India's digital public infrastructure, supporting various services from financial transactions to vaccine distribution.
+
+Furthermore, the article highlights the collaborative efforts between the government and private sector in India's digital transformation, presenting it as a successful case study and a model for effective cooperation. It notes India's approach to emerging technologies like artificial intelligence (AI) as an opportunity for positive impact, focusing on safety and inclusion in the design principles of AI.
+
+The article also touches upon India's commitment to clean energy, with ambitious goals for non-fossil fuel-based energy by 2030, and the importance of collaboration and partnerships in supply chains and geopolitical dynamics. India's role in strengthening the voice of the Global South and potentially redefining global trade and supply dynamics is highlighted.
+
+Overall, the article portrays India as a country on the verge of harnessing strategic transitions and turning them into unparalleled opportunities. It emphasizes the convergence of forces such as leadership, talent, technical prowess, and a can-do mindset, backed by vibrant startup and tech ecosystems and robust partnerships. The author concludes that India's positive global impact will be valued worldwide.
+
+Mon, 04 Dec 2023 12:29:34 +0530
+### [The complete man &amp; woman: Lessons from Raymond](https://www.livemint.com/opinion/online-views/the-complete-man-woman-lessons-from-raymond-11701664950037.html)
+
+Article found but Couldn't summarize 
+The challenge for the board is: can they be fair to the non-promoter shareholder and safeguard the long-term interests of the company?
+
+Mon, 04 Dec 2023 08:00:08 +0530
+### [A strong social capital is a prerequisite for cohesive climate action](https://www.livemint.com/opinion/online-views/a-strong-social-capital-is-a-prerequisite-for-cohesive-climate-action-11701603074792.html)
+
+Article found but Couldn't summarize 
+We must broaden our sense of community to attain climate targets. Let’s not have a consensual approach to the crisis elude us for lack of social capital.
+
+Mon, 04 Dec 2023 08:00:08 +0530
+### [We must look beyond India’s exciting headline GDP numbers](https://www.livemint.com/opinion/online-views/we-must-look-beyond-india-s-exciting-headline-gdp-numbers-11701603035784.html)
+
+Article found but Couldn't summarize 
+The second quarter’s faster than expected economic growth is good news, but not all sectors have done well and K-shaped worries persist. Don’t let our economy’s pace detract from the challenge of enlarging it equitably.
+
+Mon, 04 Dec 2023 08:00:08 +0530
+### [The lotus in bloom: BJP is the odds-on favourite for 2024](https://www.livemint.com/opinion/online-views/the-lotus-in-bloom-bjp-is-the-odds-on-favourite-for-2024-11701609531867.html)
+
+Article found but Couldn't summarize 
+The PM’s appeal endures across heartland states, Sunday’s poll results suggest, while the Congress party’s key plank looks wobbly with general elections due soon.
+
+Sun, 03 Dec 2023 19:38:50 +0530
+### [There is more to India's mystery of raised employment post-pandemic](https://www.livemint.com/opinion/online-views/there-is-more-to-indias-mystery-of-raised-employment-postpandemic-11701603327009.html)
+
+Article found but Couldn't summarize 
+The dramatic increase picked up by PLFS, even though GDP growth has been unspectacular, calls for deeper analysis. Might more people working with fewer work hours explain it?
+
+Sun, 03 Dec 2023 19:08:14 +0530
+### [The Reserve Bank must maintain its hawkish stance](https://www.livemint.com/opinion/online-views/the-reserve-bank-must-maintain-its-hawkish-stance-11701610141449.html)
+
+Article found but Couldn't summarize 
+Although an explicit rate hike to bring the policy interest rates in line with the market rate looks difficult and unexpected, especially after four pauses, it would not be totally irrational
+
+Sun, 03 Dec 2023 18:55:56 +0530
+### [Munger, Kissinger and rat-miners have pushed trust back into the spotlight](https://www.livemint.com/opinion/online-views/munger-kissinger-and-rat-miners-have-pushed-trust-back-into-the-spotlight-11701603221800.html)
+
+Article found but Couldn't summarize 
+Even sectoral regulators have recognized the importance of trust and customer relations. Let’s hope it’s an enduring concern and not a passing fancy.
+
+Sun, 03 Dec 2023 18:47:57 +0530
+### [There is an economic case for redefining liberal arts education](https://www.livemint.com/opinion/online-views/there-is-an-economic-case-for-redefining-liberal-arts-education-11701603279228.html)
+
+Article found but Couldn't summarize 
+Critical thinking and the pursuit of liberal inquiry, as fostered by the humanities and social sciences among students, are important for the economy to prosper. Amid the STEM rush, we tend to forget this.
+
+Sun, 03 Dec 2023 18:40:51 +0530
+### [Indians seem to love the circus of a rescue more than saving people](https://www.livemint.com/opinion/online-views/indians-seem-to-love-the-circus-of-a-rescue-more-than-saving-people-11701603107965.html)
+
+Article found but Couldn't summarize 
+For all the energy devoted to the recent tunnel extraction and earlier covid pandemic, India appears okay with some kinds of deaths—such as those that occur when nobody is looking. Or counting.
+
+Sun, 03 Dec 2023 17:02:01 +0530
+### [Sigh of relief for economy as risk of competitive populism eases post state poll results](https://www.livemint.com/opinion/online-views/sigh-of-relief-for-economy-as-risk-of-competitive-populism-eases-post-state-poll-results-11701601098783.html)
+
+Article found but Couldn't summarize 
+The competition among political parties to woo voters could have spiralled in case of setbacks in the three states, which would have made it tempting for the BJP to try to influence the electoral sentiment across the country in the run-up to the Lok Sabha elections
+
+Fri, 01 Dec 2023 11:00:07 +0530
+### [The delicious irony of a fossil-fuel honcho heading COP28](https://www.livemint.com/opinion/online-views/the-delicious-irony-of-a-fossil-fuel-honcho-heading-cop28-11701344698356.html)
+
+Article found but Couldn't summarize 
+Sultan al-Jaber, president of COP28, is also CEO of Abu Dhabi National Oil Company. But is there any merit in seeing in this a betrayal of the fight against climate change?
+
+Fri, 01 Dec 2023 10:00:06 +0530
+### [India holds the key to a global shift away from Swift](https://www.livemint.com/opinion/online-views/india-holds-the-key-to-a-global-shift-away-from-swift-11701340356874.html)
+
+Article found but Couldn't summarize 
+With a robust domestic payments system in place, a central bank digital currency has limited appeal among resident Indians. Where it holds considerable promise is in cross-border payments
+
+Fri, 01 Dec 2023 08:00:02 +0530
+### [Good cinema can captivate us long enough to make us think about greed and grime](https://www.livemint.com/opinion/online-views/good-cinema-can-captivate-us-long-enough-to-make-us-think-about-greed-and-grime-11701357865095.html)
+
+Article found but Couldn't summarize 
+Michael Douglas, who famously played an advocate of greed, won the Satyajit Ray Award at IFFI. Incongruent? That’s cinema doing what it must: stirring up emotions and thought.
+
+Fri, 01 Dec 2023 08:00:02 +0530
+### [Let’s insulate financial stability from climate disasters](https://www.livemint.com/opinion/online-views/lets-insulate-financial-stability-from-climate-disasters-11701358227066.html)
+
+Article found but Couldn't summarize 
+The Loss and Damage Fund under the UNFCCC must be immediately operationalized globally as a backstop for financial stability in the face of rising climate disaster risks.
+
+Fri, 01 Dec 2023 08:00:02 +0530
+### [Growth is welcome but equity is important too](https://www.livemint.com/opinion/online-views/growth-is-welcome-but-equity-is-important-too-11701358471382.html)
+
+The Indian stock market reached a milestone on November 29, 2023, surpassing $4 trillion in market capitalization for the first time, which is higher than the country's GDP of $3.4 trillion. The GDP growth in the second quarter of 2023-24 has exceeded expectations at 7.6%, indicating that India is on track to become one of the fastest-growing major economies globally. However, measuring individual well-being requires assessing per capita income and the distribution of growth across sectors. By examining median income, it becomes evident that there is still a long way to go in terms of improving the overall equity and welfare of the population.
+
+Thu, 30 Nov 2023 19:53:21 +0530
+### [‘I will give it to you in writing…’: Save the written word’s sanctity](https://www.livemint.com/opinion/online-views/-i-will-give-it-to-you-in-writing-save-the-written-word-s-sanctity-11701344687594.html)
+
+Article found but Couldn't summarize 
+High costs of production and dissemination once gave the written word not just scarcity value but a related assurance of quality, but the digital age has seen all these variables crash. Perhaps India’s traditional strengths could combine with the written form's to effect a paradigm shift.
+
+Thu, 30 Nov 2023 19:46:33 +0530
+### [Rosy employment data from PLFS must not lead to policy-level complacency](https://www.livemint.com/opinion/online-views/rosy-employment-data-from-plfs-must-not-lead-to-policy-level-complacency-11701352585427.html)
+
+Article found but Couldn't summarize 
+Jobs bear a weak link with economic growth and women's workforce participation remains dismal. Indian employment grew but much of it was on account of women pushed by household distress to take jobs.
+
+Thu, 30 Nov 2023 18:10:50 +0530
+### [Customer-facing jobs have not been finding many takers off late](https://www.livemint.com/opinion/online-views/customerfacing-jobs-have-not-been-finding-many-takers-off-late-11701344884446.html)
+
+Article found but Couldn't summarize 
+Such jobs often demand a disposition of servitude. Front line workers are haunted not just by the tyranny of ratings and feedback, but also customers who are rude and hard to please.
+
+Thu, 30 Nov 2023 18:04:20 +0530
+### [We must face the true cost of our net zero goals](https://www.livemint.com/opinion/online-views/we-must-face-the-true-cost-of-our-net-zero-goals-11701344817759.html)
+
+Article found but Couldn't summarize 
+Governments cannot really spend their way to carbon neutrality. The policy folly of opting for subsidies over carbon taxes must be called out.
+
+Thu, 30 Nov 2023 15:16:59 +0530
+### [Leveraging digital public infrastructure for inclusive, strong, sustainable growth in G20 nations and beyond](https://www.livemint.com/opinion/leveraging-digital-public-infrastructure-for-inclusive-strong-sustainable-growth-in-g20-nations-and-beyond-11701336934365.html)
+
+Article found but Couldn't summarize 
+India should continue to take initiatives to spread and unlock the potential of digital public infrastructure, and lead in highlighting the positive impacts of DPI across sectors and economies
+
+Thu, 30 Nov 2023 08:00:18 +0530
+### [India mustn't let its ties with the US fray](https://www.livemint.com/opinion/online-views/india-mustnt-let-its-ties-with-the-us-fray-11701263548457.html)
+
+The article discusses a report in the Financial Times about US authorities foiling a plot to assassinate Gurpatwant Singh Pannun, a separatist activist. The report also suggests that the US informed the Indian government about their concerns of their involvement. This is seen as a significant development, leading to the Indian government initiating a high-level inquiry panel to investigate the alleged conspiracy. The external affairs ministry stated that the issue arose during discussions on bilateral security cooperation and that the US had shared some information about a nexus between criminals, gun runners, terrorists, and others. The sensitivity of the matter is acknowledged, and it is hoped that a resolution will be reached soon.
+
+Thu, 30 Nov 2023 08:00:17 +0530
+### [Caution is the watchword on India's inclusion in any global bond index](https://www.livemint.com/opinion/online-views/caution-is-the-watchword-on-indias-inclusion-in-any-global-bond-index-11701261818320.html)
+
+Article found but Couldn't summarize 
+The RBI Governor is right to be wary of Indian bonds being included in a JPMorgan bond index from the middle of next year. As a double-edged sword, its risks require close consideration.
+
+Thu, 30 Nov 2023 07:15:14 +0530
+### [India's G20 presidency marked the dawn of a new multilateralism](https://www.livemint.com/opinion/online-views/indias-g20-presidency-marked-the-dawn-of-a-new-multilateralism-11701259046135.html)
+
+Article found but Couldn't summarize 
+It also amplified the Global South’s voice, championed development and fought for women empowerment. A we hand over the G20 Presidency to Brazil, we will do so with the conviction that our collective steps for people, the planet, peace and prosperity will resonate for years to come.
+
+Wed, 29 Nov 2023 21:07:05 +0530
+### [China’s woes: Aiming for a big global role as its economy falters is tough](https://www.livemint.com/opinion/online-views/chinas-woes-aiming-for-a-big-global-role-as-its-economy-falters-is-tough-11701271102569.html)
+
+Article found but Couldn't summarize 
+A domestic slowdown has pushed Beijing to work on its foreign ties in the face of geopolitical headwinds.
+
+Wed, 29 Nov 2023 20:03:21 +0530
+### [Global climate leaders must step up to take the plate at CoP-28](https://www.livemint.com/opinion/online-views/global-climate-leaders-must-step-up-to-take-the-plate-at-cop28-11701267886815.html)
+
+Article found but Couldn't summarize 
+Rich nations must fulfil their promises even as carbon markets are pressed into service and greater corporate accountability is demanded. Dedicated climate institutions and need-based disbursal of funds could help the cause too.
+
+Wed, 29 Nov 2023 16:35:05 +0530
+### [Why do we behave the way we do? The secret lies deep within.](https://www.livemint.com/opinion/online-views/why-do-we-behave-the-way-we-do-the-secret-lies-deep-within-11701255332909.html)
+
+Article found but Couldn't summarize 
+An almost negligible proportion of our brain’s processing takes place at a conscious level. This is amply clear, but too many are taking too long to acknowledge it.
+
+Wed, 29 Nov 2023 16:30:43 +0530
+### [Black Friday deals this year did not get American customers to shop much](https://www.livemint.com/opinion/online-views/black-friday-deals-this-year-did-not-get-american-customers-to-shop-much-11701255281931.html)
+
+Article found but Couldn't summarize 
+Retailers will have to up their 'offer game' to boost sales this holiday season, with people still feeling the pressure of increased prices despite slowing inflation.
+
+Wed, 29 Nov 2023 15:46:50 +0530
+### [Charlie Munger shaped investing strategies beyond numbers writes S Naren of ICICI Prudential AMC](https://www.livemint.com/opinion/first-person/charlie-munger-shaping-investing-strategies-beyond-numbers-11701252045798.html)
+
+Article found but Couldn't summarize 
+Munger's multifaceted 'latticework' approach underscored the artistry involved in investing
+
+Wed, 29 Nov 2023 13:30:16 +0530
+### [Investing at the top of the interest rate cycle](https://www.livemint.com/opinion/investing-at-the-top-of-the-interest-rate-cycle-11701237721823.html)
+
+Article found but Couldn't summarize 
+While debt is usually boring, it can get quite exciting when you are at the top of the interest rate cycle
+
+Wed, 29 Nov 2023 11:30:15 +0530
+### [BHEL could be headed for a big turnaround if it can resolve its receivables](https://www.livemint.com/opinion/online-views/bhel-could-be-headed-for-a-big-turnaround-if-it-can-resolve-its-receivables-11701233036792.html)
+
+Article found but Couldn't summarize 
+BHEL's substantial order backlog and expected order inflows make for a compelling investment case. But improving order executions and reducing working capital requirements are crucial
+
+Wed, 29 Nov 2023 08:00:12 +0530
+### [Celebrate the tunnel rescue but don’t overlook the hard questions](https://www.livemint.com/opinion/quick-edit/celebrate-the-tunnel-rescue-but-don-t-overlook-the-hard-questions-11701186518206.html)
+
+The article discusses the recent rescue of 41 workers who were trapped in a tunnel in India due to a cave-in. The successful rescue operation brought relief to the country and showcased India's ability to mobilize resources in challenging situations. However, the article also raises important questions about the lack of an escape route and the potential environmental impact of the project. A probe is suggested to address these concerns and provide clarity. Additionally, the article mentions that the road-expansion plan was driven by both military needs and improving access to pilgrimage spots. It questions whether these benefits outweighed a fair assessment of the risks involved in the project.
+
 Mon, 27 Nov 2023 23:54:43 +0530
 ### [Is Altman's return to OpenAI a loss for humanity?](https://www.livemint.com/opinion/online-views/is-altmans-return-to-openai-a-loss-for-humanity-11701088884184.html)
 

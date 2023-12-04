@@ -1,3 +1,213 @@
+Mon, 04 Dec 2023 18:24:49 +0530
+### [GTA 6 gameplay leak: TikTok user unveils potential sneak peek into Vice City-like urban landscape](https://www.livemint.com/technology/gta-6-gameplay-leak-tiktok-user-unveils-potential-sneak-peek-into-vice-city-like-urban-landscape-11701693836820.html)
+
+Article found but Couldn't summarize 
+A sneak peek of GTA 6 gameplay and map has surfaced on TikTok, sparking excitement and speculation. The footage reveals an urban landscape resembling Vice City, with recognizable buildings and landmarks making a return.
+
+Mon, 04 Dec 2023 18:07:19 +0530
+### [85-inch LED TV: Discover amazing viewing experience, top 6 picks](https://www.livemint.com/technology/gadgets/85inch-led-tv-discover-amazing-viewing-experience-top-6-picks-11701666721714.html)
+
+Article found but Couldn't summarize 
+Experience the ultimate home entertainment with our top 6 picks for the best 85-inch LED TVs. Elevate your viewing experience with these premium, large-screen TVs.
+
+Mon, 04 Dec 2023 17:20:33 +0530
+### [From Smart Ring to GoT special edition smartwatch: Top 5 Christmas gift ideas](https://www.livemint.com/technology/from-smart-ring-to-got-special-edition-smartwatch-top-5-christmas-gift-ideas-11701690348281.html)
+
+Article found but Couldn't summarize 
+Get ready for Christmas with these fantastic gift ideas available on Amazon, including the Fire TV Stick 4K, Pebble Game of Thrones Limited Edition Luxury Smartwatch, boAt Smartring Gen-1, OnePlus Buds Pro 2 Bluetooth TWS, and Lenovo Tab M10 FHD Plus.
+
+Mon, 04 Dec 2023 15:56:08 +0530
+### [OnePlus 12R with Snapdragon 8 Gen 2 likely to launch soon. Check expected features, launch date and more](https://www.livemint.com/technology/gadgets/oneplus-12r-with-snapdragon-8-gen-2-likely-to-launch-soon-check-expected-features-launch-date-and-more-11701681687868.html)
+
+Article found but Couldn't summarize 
+The OnePlus 12R is expected to be powered by the Qualcomm Snapdragon 8 Gen 2 processor and feature a 6.7-inch 1.5K OLED display with a 120 Hz refresh rate. It could also have a 5,500 mAh battery with 100 W fast charging.
+
+Mon, 04 Dec 2023 14:06:36 +0530
+### [OnePlus 12 confirms battery and connectivity details; renders surface online! All details](https://www.livemint.com/technology/oneplus-12-confirms-battery-and-connectivity-details-renders-surface-online-all-details-11701678660191.html)
+
+Article found but Couldn't summarize 
+The OnePlus 12 will feature a 5,400mAh battery with 100W wired SuperVOOC charging and 50W wireless charging capabilities. It will also have a multi-functional infrared remote control function, NFC, and USB Type-C 3.2 Gen 1 connectivity.
+
+Mon, 04 Dec 2023 13:57:09 +0530
+### [Geyser 15 litre geyser price and performance: Pick from top 8 for winter season](https://www.livemint.com/technology/gadgets/geyser-15-litre-geyser-price-and-performance-pick-from-top-8-for-winter-season-11701672206063.html)
+
+Article found but Couldn't summarize 
+A 15-litre geyser can be a solution to all your hot water needs during this winter season. Check out the top 8 options from renowned as well as new brands. Bring home a complete water heating solution with a 15-litre geyser.
+
+Mon, 04 Dec 2023 13:15:55 +0530
+### [WhatsApp to allow sharing status updates on Instagram. Check how the new feature works](https://www.livemint.com/technology/tech-news/whatsapp-to-allow-sharing-status-updates-on-instagram-check-how-the-new-feature-works-11701672305003.html)
+
+Article found but Couldn't summarize 
+WhatsApp is working on enhancing its status share feature to be compatible with Instagram, giving users the option to share updates on both platforms.
+
+Mon, 04 Dec 2023 11:55:26 +0530
+### [From Pixel 7 to Samsung Galaxy S23 FE; top 5 phones you can buy under  ₹50,000 in December 2023](https://www.livemint.com/technology/gadgets/from-pixel-7-to-samsung-galaxy-s23-fe-top-5-phones-you-can-buy-under-rs-50-000-in-december-2023-11701668261066.html)
+
+Article found but Couldn't summarize 
+Google Pixel 7, OnePlus 11R, Samsung Galaxy S23 FE, Nothing Phone (2) are some of the top phones you can buy under  ₹50,000 in India in December 2023
+
+Mon, 04 Dec 2023 11:29:05 +0530
+### [Geyser price comparison for smart buyers: Choose from 8 best options for home](https://www.livemint.com/technology/gadgets/geyser-price-comparison-for-smart-buyers-choose-from-8-best-options-for-home-11701662344452.html)
+
+Article found but Couldn't summarize 
+Geyser price is a major factor to consider before investing in one. Check out the comprehensive list of the 8 best options for your home. We have included options for your bathroom and kitchen.
+
+Mon, 04 Dec 2023 11:02:28 +0530
+### [Garena Free Fire Max redeem codes for Dec 04, 2023: Grab free rewards and exciting gifts](https://www.livemint.com/technology/tech-news/garena-free-fire-max-redeem-codes-for-dec-04-2023-grab-free-rewards-and-exciting-gifts-11701667722540.html)
+
+Article found but Couldn't summarize 
+Players can redeem Garena Free Fire Max codes to win Rebel Academy Weapon Loot Crate, Revolt Weapon Loot Crate, Diamonds Voucher, and Fire Head Hunting Parachute. Hurry up and redeem the codes before they expire.
+
+Mon, 04 Dec 2023 11:00:35 +0530
+### [From Nothing Phone (2) to OnePlus 11R: Top 5 smartphones you can buy under  ₹40,000 in December 2023](https://www.livemint.com/technology/gadgets/from-nothing-phone-2-to-oneplus-11r-top-5-smartphones-you-can-buy-under-rs-40-000-in-december-2023-11701665167030.html)
+
+Article found but Couldn't summarize 
+Google Pixel 7a, OnePlus 11R, Vivo V29 Pro, Nothing Phone (2) are some of the top smartphones you can buy under  ₹40,000 in December 2023
+
+Mon, 04 Dec 2023 10:06:07 +0530
+### [Realme GT 5 Pro key specifications confirmed ahead of December 7 launch: Check expected price, specs, and more](https://www.livemint.com/technology/gadgets/realme-gt-5-pro-key-specifications-confirmed-ahead-of-december-7-launch-check-expected-price-specs-and-more-11701661762934.html)
+
+Article found but Couldn't summarize 
+Realme GT 5 Pro confirmed to come with up to 1 TB storage and USB 3.2 support, run on Android 14 with Realme UI 5.0, and receive three years of Android OS upgrades and four years of security upgrades.
+
+Mon, 04 Dec 2023 09:14:36 +0530
+### [Samsung AI-powered Galaxy Book 4 to launch on December 15: Report](https://www.livemint.com/technology/gadgets/samsung-ai-powered-galaxy-book-4-to-launch-on-december-15-report-11701657751369.html)
+
+Article found but Couldn't summarize 
+Samsung is planning to launch the world's first ‘AI laptop’ - Samsung's Galaxy Book 4- on December 15, beating LG and HP who are also working on similar AI laptops with Intel's new core ultra chipsets.
+
+Sun, 03 Dec 2023 17:02:09 +0530
+### [Bluesky's new approach to moderation: Enhanced tools and user empowerment](https://www.livemint.com/technology/tech-news/blueskys-new-approach-to-moderation-enhanced-tools-and-user-empowerment-11701602867159.html)
+
+Article found but Couldn't summarize 
+Bluesky will reintroduce the option for users to report their own posts and assist the moderation team in rectifying inaccurate labels. The platform will also unveil new functionalities such as user lists and moderation lists.
+
+Sun, 03 Dec 2023 16:27:57 +0530
+### [Weekly Tech Recap: ChatGPT's 1st birthday, iOS update 17.1.2, more](https://www.livemint.com/technology/tech-news/weekly-tech-recap-chatgpts-1st-birthday-ios-update-17-1-2-more-11701600620593.html)
+
+Article found but Couldn't summarize 
+WhatsApp bans nearly 7.5 million Indian accounts in October 2023. Moreover, CEO Sam Altman recently tweeted a reflection on the one-year anniversary of ChatGPT's launch.
+
+Sun, 03 Dec 2023 12:17:11 +0530
+### [WhatsApp bans nearly 75 lakh Indian accounts in the month of October 2023: Find out why](https://www.livemint.com/technology/tech-news/whatsapp-bans-nearly-75-lakh-indian-accounts-in-the-month-of-october-2023-find-out-why-11701585793853.html)
+
+Article found but Couldn't summarize 
+WhatsApp has released its monthly report detailing actions taken in response to user grievances and violations of Indian laws or WhatsApp's Terms of Service. In the specified period, WhatsApp banned a total of 7,548,000 accounts in India.
+
+Sun, 03 Dec 2023 10:46:18 +0530
+### [Meizu brings smart MYVY Rings, offering wearable AR tech with gesture control: All details](https://www.livemint.com/technology/gadgets/meizu-brings-smart-myvy-rings-offering-wearable-ar-tech-with-gesture-control-all-details-11701579638058.html)
+
+Article found but Couldn't summarize 
+Leading tech brands like Oura, Pi, and Samsung have unveiled their versions of smart rings, with Meizu joining the trend. The ring features augmented reality capabilities and is designed to be used in conjunction with the MYVU Discovery AR smart glasses.
+
+Sat, 02 Dec 2023 19:35:11 +0530
+### [Photomojis, Voice Moods, and more: Google Messages receives major update](https://www.livemint.com/technology/tech-news/photomojis-voice-moods-and-more-google-messages-receives-major-update-11701525339568.html)
+
+Article found but Couldn't summarize 
+The latest update to Google Messages brings a reminiscent feel of Apple's iMessage, with features like Photomojis, Voice Moods, Screen Effects, Custom Bubbles, Reaction Effects, and Animated Emojis to elevate the overall user experience.
+
+Sat, 02 Dec 2023 17:06:31 +0530
+### [Will Samsung Galaxy S24 Ultra get a titanium frame like the iPhone 15 Pro? This is what report suggests...](https://www.livemint.com/technology/gadgets/will-samsung-galaxy-s24-ultra-get-a-titanium-frame-like-the-iphone-15-pro-this-is-what-report-suggests-11701516393684.html)
+
+Article found but Couldn't summarize 
+The Samsung Galaxy S24 Ultra is expected to introduce a titanium frame, come in four colors, sport a flatter 6.8-inch QHD+ display with a refresh rate of up to 120Hz, and be equipped with the Snapdragon 8 Gen 3 chipset.
+
+Sat, 02 Dec 2023 13:37:08 +0530
+### [Countdown begins: Grand Theft Auto 6 trailer scheduled to drop worldwide on December 5](https://www.livemint.com/technology/tech-news/countdown-begins-grand-theft-auto-6-trailer-scheduled-to-drop-worldwide-on-december-5-11701503932423.html)
+
+Article found but Couldn't summarize 
+Rockstar Games has finally revealed the release date for Grand Theft Auto 6 in a highly anticipated trailer, bringing immense joy to fans across the globe.
+
+Sat, 02 Dec 2023 10:46:43 +0530
+### [Garena Free Fire Max redeem codes for Dec 02, 2023: Win daily exciting rewards](https://www.livemint.com/technology/tech-news/garena-free-fire-max-redeem-codes-for-dec-02-2023-win-daily-exciting-rewards-11701493960976.html)
+
+Article found but Couldn't summarize 
+Players can redeem daily codes on the dedicated microsite to win various in-game rewards, but they should hurry as the codes are available for a limited time and for the first 500 users only.
+
+Fri, 01 Dec 2023 21:14:03 +0530
+### [Bajaj geyser for high efficiency water heating? Choose among top 8 options](https://www.livemint.com/technology/gadgets/bajaj-geyser-for-high-efficiency-water-heating-choose-among-top-8-options-11701411957322.html)
+
+Article found but Couldn't summarize 
+Bajaj geysers offer high value while giving buyers multiple options of models to choose from. Check out the 8 best Bajaj geyser options for your home bathroom and kitchen and never run out of warm water.
+
+Fri, 01 Dec 2023 21:13:24 +0530
+### [LG LED TVs come with trust of quality: Choose from top 8 options for your home](https://www.livemint.com/technology/gadgets/lg-led-tvs-come-with-trust-of-quality-choose-from-top-8-options-for-your-home-11701435797778.html)
+
+Article found but Couldn't summarize 
+LG LED TVs bring the assurance of high quality build and immersive viewing experience. Check out top 8 LG LED TV models to bring home and elevate your viewing at home.
+
+Fri, 01 Dec 2023 19:55:49 +0530
+### [Best water heater for your home? Choose from 8 options for this winter season](https://www.livemint.com/technology/gadgets/best-water-heater-for-your-home-choose-from-8-options-for-this-winter-season-11701430555573.html)
+
+Article found but Couldn't summarize 
+Best water heaters can be challenging to find, but are essential to tackle the winter chills. Check out the top 8 options to choose from this winter and bring home a complete solution.
+
+Fri, 01 Dec 2023 19:54:29 +0530
+### [Refrigerator under  ₹10,000: 6 most versatile models of all time](https://www.livemint.com/technology/gadgets/refrigerator-under-rs-10-000-6-most-versatile-models-of-all-time-11701430145428.html)
+
+Article found but Couldn't summarize 
+Get to know all about the best refrigerator under  ₹10,000 and bring home a fridge that is loaded with features while being affordable. Choose from top 6 options.
+
+Fri, 01 Dec 2023 19:03:43 +0530
+### [Global Technology Summit set to begin in India this December: 5 Things to know](https://www.livemint.com/technology/global-technology-summit-set-to-begin-in-india-this-december-5-things-to-know-11701437485962.html)
+
+Article found but Couldn't summarize 
+The eighth edition of the Global Technology Summit is scheduled to take place in New Delhi from December 4-6. The opening session will feature a speech by External Affairs Minister S Jaishankar.
+
+Fri, 01 Dec 2023 17:53:28 +0530
+### [Top 5 refrigerators in India: Best multidoor models for your home](https://www.livemint.com/technology/top-5-refrigerators-in-india-best-multidoor-models-for-your-home-11701411890734.html)
+
+Article found but Couldn't summarize 
+Explore the top 5 refrigerators available in India with multi-door design and cutting-edge technologies that provide modern residences with exceptional cooling efficiency and convenient storage.
+
+Fri, 01 Dec 2023 17:38:41 +0530
+### [Nothing Phone (2) receives a price cut in India; check new prices](https://www.livemint.com/technology/nothing-phone-2-receives-a-price-cut-in-india-check-new-prices-11701432302241.html)
+
+Article found but Couldn't summarize 
+The Nothing Phone 2 is now available on Flipkart with a discounted price of Rs. 39,999 for the base variant, featuring 8GB RAM and 128GB storage.
+
+Fri, 01 Dec 2023 17:33:10 +0530
+### [10 best TVs under  ₹30,000: Quality on a budget](https://www.livemint.com/technology/gadgets/10-best-tvs-under-rs-30-000-quality-on-a-budget-11701419616234.html)
+
+Article found but Couldn't summarize 
+Find the best TVs at reasonable costs! Check out this article on the top 10 TVs under  ₹30,000 for stunning image quality without going over budget.
+
+Fri, 01 Dec 2023 17:32:12 +0530
+### [Mini refrigerators: Top 5 choices under  ₹5000](https://www.livemint.com/technology/mini-refrigerators-top-5-choices-under-rs-5000-11701427178018.html)
+
+Article found but Couldn't summarize 
+Discover the best mini refrigerators under  ₹5000 that offer space-saving solutions without compromising on quality. Each compact fridge in our list is perfect for budget-conscious buyers.
+
+Fri, 01 Dec 2023 17:03:29 +0530
+### [10 best double door refrigerators under  ₹25,000](https://www.livemint.com/technology/gadgets/10-best-double-door-refrigerators-under-rs-25000-11701424381034.html)
+
+Article found but Couldn't summarize 
+Discover 10 of the best double door refrigerators around  ₹25,000, which provide adequate cooling, plenty of storage, energy economy and new-age technologies for users on a budget.
+
+Fri, 01 Dec 2023 15:22:54 +0530
+### [Apple extends free Emergency SOS Satellite service for iPhone 14 users, faces dilemma on future pricing](https://www.livemint.com/technology/tech-news/apple-extends-free-emergency-sos-satellite-service-for-iphone-14-users-faces-dilemma-on-future-pricing-11701423986966.html)
+
+Article found but Couldn't summarize 
+Tech analyst John Gruber speculates that Apple may offer the iPhone 14 emergency SOS satellite service for free permanently, but the long-term costs are a significant concern.
+
+Fri, 01 Dec 2023 11:58:11 +0530
+### [Apple releases iOS update 17.1.2, users face THESE challenges: All details](https://www.livemint.com/technology/apple-releases-ios-update-17-1-2-users-face-these-challenges-all-details-11701411833198.html)
+
+Article found but Couldn't summarize 
+Some iPhone users are facing challenges with the iOS 17.1.2 update, including battery depletion and Wi-Fi issues.
+
+Fri, 01 Dec 2023 11:03:46 +0530
+### [Garena Free Fire Max redeem codes for Dec 01, 2023: Win daily rewards](https://www.livemint.com/technology/tech-news/garena-free-fire-max-redeem-codes-for-dec-01-2023-win-daily-rewards-11701408599656.html)
+
+Article found but Couldn't summarize 
+Players can redeem Garena Free Fire Max codes to win rewards like Rebel Academy Weapon Loot Crate, Revolt Weapon Loot Crate, Diamonds Voucher, and more.
+
+Thu, 30 Nov 2023 23:51:21 +0530
+### [‘130 mn 5G users in India by end-2023’](https://www.livemint.com/technology/tech-news/130-mn-5g-users-in-india-by-end2023-11701368185216.html)
+
+Article found but Couldn't summarize 
+The 5G users are expected to rise to 860 million subscribers by 2029, according to the Ericsson Mobility Report 2023
+
 Tue, 28 Nov 2023 07:10:11 +0530
 ### [Xiaomi Pad 7 Pro may feature Snapdragon 8 Gen 2 chipset, 144 Hz display. Check expected features, launch date and more](https://www.livemint.com/technology/gadgets/xiaomi-pad-7-pro-may-feature-snapdragon-8-gen-2-chipset-144-hz-display-check-expected-features-launch-date-and-more-11701132614743.html)
 

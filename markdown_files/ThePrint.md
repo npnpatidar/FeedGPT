@@ -1,3 +1,120 @@
+Mon, 04 Dec 2023 14:02:35 +0000
+### [“I grew up being fascinated by works of Big B,Rajesh Khanna, SRK”: Ayushmann](https://theprint.in/feature/i-grew-up-being-fascinated-by-works-of-big-brajesh-khanna-srk-ayushmann/1871772/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 4 (ANI): Ayushmann Khurrana is one of the most versatile actors in Bollywood. It was his childhood dream to be a big screen hero and with his hard work, he has found that place in his life. &#8220;I remember being supremely excited about going to the cinemas every single time. I [&#8230;]
+
+Mon, 04 Dec 2023 14:02:24 +0000
+### [Ukraine probes alleged killing of surrendered soldiers by Russian troops](https://theprint.in/world/ukraine-probes-alleged-killing-of-surrendered-soldiers-by-russian-troops/1871770/)
+
+Article found but Couldn't summarize 
+Kyiv [Ukraine], December 4 (ANI): Ukrainian prosecutors are launching an investigation into whether Russian forces executed two Ukrainian service members who had reportedly surrendered, CNN reported. The inquiry, overseen by the Ukraine prosecutor general&#8217;s office, comes in the wake of a video shared by the Ukrainian government on social media, depicting the incident near an [&#8230;]
+
+Mon, 04 Dec 2023 14:02:22 +0000
+### [Delhi recorded 16 murder cases stemming from love affairs : NCRB](https://theprint.in/india/delhi-recorded-16-murder-cases-stemming-from-love-affairs-ncrb/1871769/)
+
+According to a report released by the National Crime Records Bureau, there were 16 murder cases in New Delhi in 2022 that were related to love affairs. One noteworthy case involved the murder of Shraddha Walker, who was allegedly strangled and dismembered by her live-in partner, Aftab Amin Poonawala, due to suspicions of her infidelity. The body was subsequently dumped in a jungle in south Delhi's Mehrauli. Overall, Delhi reported 501 murder cases, with 13 linked to illicit relationships, 54 stemming from personal enmity, and 197 arising from family, property, and other disputes. Additionally, there were 35 murders related to monetary matters, one related to water, two resulting from road rage incidents, and three due to gang rivalry. The report also noted that 10 murders occurred during dacoity and robbery attempts. Lastly, one case of murder was attributed to human sacrifice. This article was auto-generated from a PTI news service, and ThePrint claims no responsibility for its content.
+
+Mon, 04 Dec 2023 14:02:13 +0000
+### [14.2 crore free gas refills provided under Ujjwala scheme: Centre informs Rajya Sabha](https://theprint.in/economy/14-2-crore-free-gas-refills-provided-under-ujjwala-scheme-centre-informs-rajya-sabha/1871767/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 4 (ANI): The central government has provided 14.17 crore free LPG refills across the country under the Pradhan Mantri Ujjwala Yojana, the Parliament was informed on Monday. In a written reply in Rajya Sabha, Rameswar, minister of state in the Ministry of Petroleum and Natural Gas, apprised that there are 9.67 [&#8230;]
+
+Mon, 04 Dec 2023 14:02:11 +0000
+### [Arsenic found in groundwater in 25 states, fluoride in 27 states: Govt](https://theprint.in/india/arsenic-found-in-groundwater-in-25-states-fluoride-in-27-states-govt/1871766/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 4 (PTI) Arsenic has been detected in groundwater in parts of 230 districts in 25 states and fluoride in 469 districts in 27 states, Union Minister of State for Jal Shakti Bishweswar Tudu informed the Rajya Sabha on Monday. In a written reply, the minister said that the ground water contamination reported [&#8230;]
+
+Mon, 04 Dec 2023 14:02:02 +0000
+### [Nepal demands compensation, repatriation as 6 Nepalese soldiers serving in Russian Army killed in Ukraine war](https://theprint.in/world/nepal-demands-compensation-repatriation-as-6-nepalese-soldiers-serving-in-russian-army-killed-in-ukraine-war/1871764/)
+
+Article found but Couldn't summarize 
+Kathmandu [Nepal], December 4 (ANI): Nepal&#8217;s Ministry of Foreign Affairs on Monday announced the deaths of six Nepali youth who were recruited in the Russian Army and killed in the war with Ukraine. In a press release issued on Monday evening, the Ministry of Foreign Affairs also requested the Russian government to repatriate the bodies [&#8230;]
+
+Mon, 04 Dec 2023 14:02:01 +0000
+### [Fire erupts in banquet hall during wedding ceremony in Ghaziabad, over 60 rescued](https://theprint.in/india/fire-erupts-in-banquet-hall-during-wedding-ceremony-in-ghaziabad-over-60-rescued/1871763/)
+
+Article found but Couldn't summarize 
+Ghaziabad (UP), Dec 4 (PTI) A fire broke out in a banquet hall in Vasundhara area here on Monday afternoon during a wedding ceremony, officials said. Around sixty persons were rescued from the ground floor banquet hall as the fire spread to the third floor of the building. Six persons present in the third floor [&#8230;]
+
+Mon, 04 Dec 2023 14:01:51 +0000
+### [Overconfidence costs dear for Cong in elections: Tripura CPI(M)](https://theprint.in/india/overconfidence-costs-dear-for-cong-in-elections-tripura-cpim/1871762/)
+
+Article found but Couldn't summarize 
+Agartala, Dec 4 (PTI) The CPI(M)’s Tripura unit on Monday claimed that overconfidendence of the Congress to take on the BJP alone in assembly elections in five states has cost the grand old party dear. The BJP swept Madhya Pradesh, Rajasthan and Chhattisgarh inflicting a resounding defeat on the Congress which ousted the Bharat Rashtra [&#8230;]
+
+Mon, 04 Dec 2023 14:01:42 +0000
+### [Three ‘abducted’ stone quarry labourers rescued in Assam](https://theprint.in/india/three-abducted-stone-quarry-labourers-rescued-in-assam/1871761/)
+
+Three stone-quarry labourers who were allegedly abducted by militants from Assam's Cachar district have been rescued in Dima Hasao, a neighboring area. The incident took place on Saturday when suspected members of the Zeliangrong United Front (ZUF) kidnapped the labourers from Chiri quarry in Udharbond. Police conducted a successful search operation and found the trio in Lodi Kuki area in Mahur town. The abductors managed to escape, and efforts are underway to apprehend them. The rescued labourers have been identified as Raju Tanti, Amit Orang, and Biswa Dhar from Udharbond in Cachar district.
+
+Mon, 04 Dec 2023 14:01:30 +0000
+### [2 IAF pilots killed as Pilatus trainer aircraft crashes near Hyderabad](https://theprint.in/india/2-iaf-pilots-killed-as-pilatus-trainer-aircraft-crashes-near-hyderabad/1871759/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 4 (PTI) Two pilots of the Indian Air Force (IAF) were killed on Monday as a Pilatus PC-7 Mk II aircraft crashed near Hyderabad, the first such accident involving the Swiss-origin trainer jet. The IAF has ordered a Court of Inquiry to ascertain the cause of the accident. &#8220;A Pilatus PC 7 [&#8230;]
+
+Mon, 04 Dec 2023 14:01:18 +0000
+### [SC comes to rescue of 284 displaced students of strife-torn Manipur](https://theprint.in/india/sc-comes-to-rescue-of-284-displaced-students-of-strife-torn-manipur/1871758/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 4 (PTI) The Supreme Court Monday came to the rescue of 284 students from ethnic violence-hit Manipur by giving them the option of attending classes online at Manipur university or getting relocated to Assam University in Silchar or the North East Hill University in Shillong. The top court was hearing a plea [&#8230;]
+
+Mon, 04 Dec 2023 14:01:08 +0000
+### [Tuition teacher sentenced to 20 years of rigorous imprisonment for raping minor in Haryana](https://theprint.in/india/tuition-teacher-sentenced-to-20-years-of-rigorous-imprisonment-for-raping-minor-in-haryana/1871757/)
+
+Article found but Couldn't summarize 
+Ambala, Dec 4 (PTI) A court here on Monday sentenced a man to 20 years of rigorous imprisonment for repeatedly raping a 14-year-old girl and impregnating her over two years ago, the prosecution said. The minor resided near the house of the 29-year-old convict here and used to go to his residence for tuition classes, [&#8230;]
+
+Mon, 04 Dec 2023 14:00:58 +0000
+### [Cyclone Michaung: Govt taking all measures on war-footing, says TN CM](https://theprint.in/india/cyclone-michaung-govt-taking-all-measures-on-war-footing-says-tn-cm/1871756/)
+
+Article found but Couldn't summarize 
+Chennai, Dec 4 (PTI) Tamil Nadu Chief Minister M K Stalin said on Monday that his government was taking all necessary measures on a war-footing to provide relief in the wake of Cyclone Michaung disrupting normal life. Relief measures in rain-affected regions are being implemented immediately, with various department personnel, including police, fire, and rescue, [&#8230;]
+
+Mon, 04 Dec 2023 14:00:47 +0000
+### [Bill aimed at regulating legal profession, curbing touts passed by Parliament](https://theprint.in/india/bill-aimed-at-regulating-legal-profession-curbing-touts-passed-by-parliament/1871755/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 4 (PTI) A Bill which aims at regulating the legal profession by a single Act and seeks to target &#8220;touts&#8221; was passed by the Lok Sabha on Monday with Union Law Minister Arjun Ram Meghwal saying there should be no role of such persons in the country&#8217;s courts. The Bill was already [&#8230;]
+
+Mon, 04 Dec 2023 14:00:36 +0000
+### [MP polls: 27 women elected to Assembly, up from 20 in 2018](https://theprint.in/india/mp-polls-27-women-elected-to-assembly-up-from-20-in-2018/1871754/)
+
+Article found but Couldn't summarize 
+Bhopal, Dec 4 (PTI) A total of 27 women have been elected to the Madhya Pradesh Assembly, comprising 21 from the Bharatiya Janata Party, which emphatically retained power in the state, and six from the Congress. The number of women who won the 2018 Assembly polls stood at 20. Polls to the 230-member MP Assembly [&#8230;]
+
+Mon, 04 Dec 2023 14:00:28 +0000
+### [India’s ReNew signs pact with Asian Development Bank for $5.3 billion](https://theprint.in/economy/indias-renew-signs-pact-with-asian-development-bank-for-5-3-billion/1871753/)
+
+India's ReNew Energy Global has signed a memorandum of understanding worth over $5.3 billion with the Asian Development Bank to collaborate on climate change projects. The pact was signed at the COP28 conference in Dubai and aims to meet the growing demand for clean energy. ReNew and the Asian Development Bank have already identified potential investments, with the agreement covering projects from 2023 to 2028. This collaboration is expected to attract interest from international investors, allowing ReNew to secure further funds for its renewable energy projects. India has set a target of achieving net zero emissions by 2070 and aims to increase its non-fossil fuel power capacity to 500 GW by 2030.
+
+Mon, 04 Dec 2023 14:00:24 +0000
+### [Important cases heard by Supreme Court on December 4](https://theprint.in/india/important-cases-heard-by-supreme-court-on-december-4/1871752/)
+
+Article found but Couldn't summarize 
+Important cases heard by the Supreme Court on Monday, December 4: * SC asked the Ministry of Environment, Forest and Climate Change to give its view on whether iron ore mining in Odisha can be capped, keeping sustainable development and intergenerational equity in mind * SC extended till December 11 the interim bail granted to [&#8230;]
+
+Mon, 04 Dec 2023 14:00:16 +0000
+### [Factbox-European countries tighten borders](https://theprint.in/world/factbox-european-countries-tighten-borders-2/1871750/)
+
+Article found but Couldn't summarize 
+(Reuters) -The European Union is dealing with an increase in legal and illegal arrivals by migrants, prompting some member states to temporarily re-introduce border controls within what is normally a
+
+Mon, 04 Dec 2023 14:00:14 +0000
+### [Communist Party of China under President Xi to intensify crackdown on corruption](https://theprint.in/world/communist-party-of-china-under-president-xi-to-intensify-crackdown-on-corruption/1871749/)
+
+Article found but Couldn't summarize 
+Beijing, Dec 4 (PTI) China’s ruling Communist Party headed by President Xi Jinping has warned of intensifying the crackdown against corruption, saying that despite the decade-long fight against the menace, the problem is prevalent among thousands of cadres and officials. The Central Commission for Discipline Inspection (CCDI) of the Communist Party of China (CPC) has [&#8230;]
+
+Mon, 04 Dec 2023 14:00:03 +0000
+### [Crimes against women up in Karnataka, show latest NCRB data](https://theprint.in/india/crimes-against-women-up-in-karnataka-show-latest-ncrb-data/1871747/)
+
+Article found but Couldn't summarize 
+Bengaluru, Dec 4 (PTI) Karnataka recorded a sharp increase in cases of crimes against women in 2022, according to the latest National Crime Records Bureau data. The data showed 17,813 FIRs on crimes against women were registered in Karnataka in 2022 against 14,468 the previous year. An analysis of the National Crime Records Bureau (NCRB) [&#8230;]
+
 Tue, 28 Nov 2023 02:02:12 +0000
 ### [UAE: Nahyan bin Mubarak visits WorldSkills Asia 2023](https://theprint.in/world/uae-nahyan-bin-mubarak-visits-worldskills-asia-2023/1861489/)
 

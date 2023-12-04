@@ -1,3 +1,153 @@
+Mon, 04 Dec 2023 18:51:28 +0530
+### [Assembly poll results 2023: How PM Modi remains unstoppable for 2024 elections](https://www.firstpost.com/opinion/assembly-poll-results-2023-how-pm-modi-remains-unstoppable-for-2024-elections-13464812.html)
+
+Article found but Couldn't summarize 
+Assembly poll results 2023: How PM Modi remains unstoppable for 2024 elections
+
+Mon, 04 Dec 2023 17:59:14 +0530
+### [BJP’s Hindi heartland hat-trick shows time is up for Opposition to get its act together](https://www.firstpost.com/opinion/bjps-hindi-heartland-hat-trick-shows-time-is-up-for-opposition-to-get-its-act-together-13464552.html)
+
+Article found but Couldn't summarize 
+BJP’s Hindi heartland hat-trick shows time is up for Opposition to get its act together
+
+Mon, 04 Dec 2023 16:38:11 +0530
+### [Will COP28 UAE shape climate justice amid clash between urgency and economic realities in global climate action?](https://www.firstpost.com/opinion/will-cop28-uae-shape-climate-justice-amid-clash-between-urgency-and-economic-realities-in-global-climate-action-13463922.html)
+
+Article found but Couldn't summarize 
+Will COP28 UAE shape climate justice amid clash between urgency and economic realities in global climate action?
+
+Mon, 04 Dec 2023 12:59:03 +0530
+### [Pannun 'murder plot': Why West must cease its 'My terrorist is good and yours is bad' approach](https://www.firstpost.com/opinion/pannun-murder-plot-why-west-must-cease-its-my-terrorist-is-good-and-yours-is-bad-approach-13462532.html)
+
+Article found but Couldn't summarize 
+Pannun 'murder plot': Why West must cease its 'My terrorist is good and yours is bad' approach
+
+Mon, 04 Dec 2023 10:52:51 +0530
+### [Weather Report: East India braces for wet days ahead as Cyclone Michaung builds up; North India to remain dry](https://www.firstpost.com/opinion/weather-report-east-india-braces-for-wet-days-ahead-as-cyclone-michaung-builds-up-north-india-to-remain-dry-13462252.html)
+
+Article found but Couldn't summarize 
+Weather Report: East India braces for wet days ahead as Cyclone Michaung builds up; North India to remain dry
+
+Mon, 04 Dec 2023 09:24:22 +0530
+### [Greek god motif is ‘scientific’, ‘Dhanwantari’ is pseudoscience? NMC logo debate shows self-loathing of Indian elites](https://www.firstpost.com/opinion/greek-god-motif-is-scientific-dhanwantari-is-pseudoscience-nmc-logo-debate-shows-self-loathing-of-indian-elites-13461792.html)
+
+Article found but Couldn't summarize 
+Greek god motif is ‘scientific’, ‘Dhanwantari’ is pseudoscience? NMC logo debate shows self-loathing of Indian elites
+
+Sun, 03 Dec 2023 19:18:01 +0530
+### [Assembly poll results 2023: Congress has reasons to blame itself for electoral drubbings in the Hindi heartland](https://www.firstpost.com/opinion/assembly-poll-results-2023-congress-has-reasons-to-blame-itself-for-electoral-drubbings-in-the-hindi-heartland-13460792.html)
+
+Article found but Couldn't summarize 
+Assembly poll results 2023: Congress has reasons to blame itself for electoral drubbings in the Hindi heartland
+
+Sun, 03 Dec 2023 18:28:39 +0530
+### [Assembly elections 2023: Victory of progressive ideas over regressive guarantees](https://www.firstpost.com/opinion/assembly-elections-2023-victory-of-progressive-ideas-over-regressive-guarantees-13460542.html)
+
+Article found but Couldn't summarize 
+Assembly elections 2023: Victory of progressive ideas over regressive guarantees
+
+Sun, 03 Dec 2023 16:42:06 +0530
+### [BJP juggernaut and national politics: Seven takeaways for 2024 elections](https://www.firstpost.com/opinion/bjp-juggernaut-and-national-politics-seven-takeaways-for-2024-elections-13460092.html)
+
+Article found but Couldn't summarize 
+BJP juggernaut and national politics: Seven takeaways for 2024 elections
+
+Sun, 03 Dec 2023 16:17:19 +0530
+### [In Congress’ Rajasthan loss lies BJP’s victory in 2024 Lok Sabha polls](https://www.firstpost.com/opinion/in-congress-rajasthan-loss-lies-bjps-victory-in-2024-lok-sabha-polls-13459902.html)
+
+Article found but Couldn't summarize 
+In Congress’ Rajasthan loss lies BJP’s victory in 2024 Lok Sabha polls
+
+Sun, 03 Dec 2023 15:43:12 +0530
+### [Assembly polls 2023: Modi remains X factor; women and tribals power BJP’s juggernaut](https://www.firstpost.com/opinion/assembly-polls-2023-modi-remains-x-factor-women-and-tribals-power-bjps-juggernaut-13459912.html)
+
+Article found but Couldn't summarize 
+Assembly polls 2023: Modi remains X factor; women and tribals power BJP’s juggernaut
+
+Sun, 03 Dec 2023 13:16:19 +0530
+### [Goan girl who harnesses wind: Story of Katya Ida Coelho, first Indian to win IQFoil medal](https://www.firstpost.com/opinion/goan-girl-who-harnesses-wind-story-of-katya-ida-coelho-first-indian-to-win-iqfoil-medal-13458992.html)
+
+Article found but Couldn't summarize 
+Goan girl who harnesses wind: Story of Katya Ida Coelho, first Indian to win IQFoil medal
+
+Sun, 03 Dec 2023 12:11:41 +0530
+### [Bharat's ancient achievement: How India played a pivotal role in the origins of gunpowder](https://www.firstpost.com/opinion/bharats-ancient-achievement-how-india-played-a-pivotal-role-in-the-origins-of-gunpowder-13458692.html)
+
+Article found but Couldn't summarize 
+Bharat's ancient achievement: How India played a pivotal role in the origins of gunpowder
+
+Sat, 02 Dec 2023 18:48:02 +0530
+### [Book review | Manoj Rupda explores depths of violence and identity in 'I Named My Sister Silence'](https://www.firstpost.com/opinion/book-review-manoj-rupda-explores-depths-of-violence-and-identity-in-i-named-my-sister-silence-13456782.html)
+
+Article found but Couldn't summarize 
+Book review | Manoj Rupda explores depths of violence and identity in 'I Named My Sister Silence'
+
+Sat, 02 Dec 2023 18:24:25 +0530
+### [How Indian economy has silenced ‘perennial pessimists’](https://www.firstpost.com/opinion/how-indian-economy-has-silenced-perennial-pessimists-13456872.html)
+
+Article found but Couldn't summarize 
+How Indian economy has silenced ‘perennial pessimists’
+
+Sat, 02 Dec 2023 16:15:35 +0530
+### [Pannun ‘murder plot’: Time for the West to harmonise unwritten codes](https://www.firstpost.com/opinion/pannun-murder-plot-time-for-the-west-to-harmonise-unwritten-codes-13456602.html)
+
+Article found but Couldn't summarize 
+Pannun ‘murder plot’: Time for the West to harmonise unwritten codes
+
+Sat, 02 Dec 2023 15:03:37 +0530
+### [Why Armenia should be your next travel destination](https://www.firstpost.com/opinion/why-armenia-should-be-your-next-travel-destination-13456102.html)
+
+Article found but Couldn't summarize 
+Why Armenia should be your next travel destination
+
+Sat, 02 Dec 2023 10:50:44 +0530
+### [Is India’s North East getting restive due to turbulence in the neighbourhood?](https://www.firstpost.com/opinion/is-indias-north-east-getting-restive-due-to-turbulence-in-the-neighbourhood-13455642.html)
+
+Article found but Couldn't summarize 
+Is India’s North East getting restive due to turbulence in the neighbourhood?
+
+Fri, 01 Dec 2023 20:30:10 +0530
+### [Vantage | How Erdogan pulled off a diplomatic heist over Sweden's NATO entry](https://www.firstpost.com/opinion/vantage-how-erdogan-pulled-off-a-diplomatic-heist-over-swedens-nato-entry-13454822.html)
+
+Article found but Couldn't summarize 
+Vantage | How Erdogan pulled off a diplomatic heist over Sweden's NATO entry
+
+Fri, 01 Dec 2023 19:16:45 +0530
+### [Vantage | How Saudi, China, Qatar came to own 40% of London's biggest airport](https://www.firstpost.com/opinion/vantage-how-saudi-china-qatar-came-to-own-40-of-londons-biggest-airport-13454722.html)
+
+Article found but Couldn't summarize 
+Vantage | How Saudi, China, Qatar came to own 40% of London's biggest airport
+
+Fri, 01 Dec 2023 18:59:14 +0530
+### [Zero stone-pelting in 2023: Why Abdullah and Mufti still refuse to see the change in Kashmir](https://www.firstpost.com/opinion/zero-stone-pelting-in-2023-why-abdullah-and-mufti-still-refuse-to-see-the-change-in-kashmir-13454542.html)
+
+Article found but Couldn't summarize 
+Zero stone-pelting in 2023: Why Abdullah and Mufti still refuse to see the change in Kashmir
+
+Fri, 01 Dec 2023 18:34:12 +0530
+### [Vantage | If you're on the brink of 'menty b', being 'delulu' is the only 'solulu', says Gen Z](https://www.firstpost.com/opinion/vantage-if-youre-on-the-brink-of-menty-b-being-delulu-is-the-only-solulu-says-gen-z-13454582.html)
+
+Article found but Couldn't summarize 
+Vantage | If you're on the brink of 'menty b', being 'delulu' is the only 'solulu', says Gen Z
+
+Fri, 01 Dec 2023 17:31:27 +0530
+### [Vantage | Why China's pneumonia outbreak deserves alarm bells it's ringing](https://www.firstpost.com/opinion/vantage-why-chinas-pneumonia-outbreak-deserves-alarm-bells-its-ringing-13454172.html)
+
+Article found but Couldn't summarize 
+Vantage | Why China's pneumonia outbreak deserves alarm bells it's ringing
+
+Fri, 01 Dec 2023 17:12:11 +0530
+### [Kashmir in the dark: Smart meters fizzle, residents sizzle in winter woes](https://www.firstpost.com/opinion/kashmir-in-the-dark-smart-meters-fizzle-residents-sizzle-in-winter-woes-13453412.html)
+
+Article found but Couldn't summarize 
+Kashmir in the dark: Smart meters fizzle, residents sizzle in winter woes
+
+Fri, 01 Dec 2023 16:11:25 +0530
+### [Vantage | India's crucial role at COP28 and fight against climate change](https://www.firstpost.com/opinion/vantage-indias-crucial-role-at-cop28-and-fight-against-climate-change-13453662.html)
+
+Article found but Couldn't summarize 
+Vantage | India's crucial role at COP28 and fight against climate change
+
 Mon, 27 Nov 2023 19:39:31 +0530
 ### [Peril in Pir Panjal: Grave military casualties signal the unsettling return of terrorism in Rajouri-Poonch](https://www.firstpost.com/opinion/peril-in-pir-panjal-grave-military-casualties-signal-the-unsettling-return-of-terrorism-in-rajouri-poonch-13435872.html)
 

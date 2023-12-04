@@ -1,3 +1,303 @@
+2023-12-04T18:46:54+05:30
+### [Behind Congress Defeat in Madhya Pradesh, a Clear Rejection of Kamal Nath’s Leadership](https://thewire.in/politics/behind-congress-defeat-madhya-pradesh-kamal-nath-rejection)
+
+No Article text 
+Among the PCC president's missteps were marginalising all other state leaders except Digvijaya Singh; competing with the BJP on Hindutva; and rejecting offers of INDIA partners such as Samajwadi Party and Aam Adami Party on seat adjustments.
+
+2023-12-04T17:45:13+05:30
+### [Data Dive: A Look at the Five Assembly Election Results](https://thewire.in/politics/data-dive-a-look-at-the-five-assembly-election-results)
+
+No Article text 
+Look at how exactly each constituency voted – who was contesting, who won, what the vote shares were.
+
+2023-12-04T17:30:03+05:30
+### [UP Police Files FIR Against Dr Kafeel Khan for 'Instigating Minority Community' With His 2021 Memoir](https://thewire.in/rights/up-police-files-fir-against-dr-kafeel-khan-for-instigating-minority-community-with-his-2021-memoir)
+
+No Article text 
+Khan said the charges against him in the FIR, based on an alleged conversation between some unknown persons about him and his book, was absurd.
+
+2023-12-04T17:15:19+05:30
+### [Israel-Palestine War: Benjamin Netanyahu’s Captain America problem](https://thewire.in/world/israel-palestine-war-benjamin-netanyahu-captain-america-problem)
+
+No Article text 
+Pop culture references of right and wrong, particularly through comic book characters like Captain America, will profoundly shape the feelings of younger Americans in the Israel-Palestine conflict
+
+2023-12-04T17:00:03+05:30
+### [Making Disability a Joke Is Neither Comedy Nor Art](https://thewire.in/film/making-disability-a-joke-is-neither-comedy-nor-art)
+
+No Article text 
+The new film 'Aankh Micholi' portrays characters with disabilities as having a problem that needs to be hidden.
+
+2023-12-04T16:30:39+05:30
+### [In Hindi Heartland, BJP Able to Reverse Congress’s 2018 Gains in Tribal Seats](https://thewire.in/politics/hindi-heartland-bjp-reverse-congress-2018-gains-tribal-seats)
+
+No Article text 
+Around 31% of India’s tribal population lives in Rajasthan, Chhatisgarh and Madhya Pradesh – where the BJP romped home to victories over the Congress.
+
+2023-12-04T16:00:51+05:30
+### [As Israel Ramps up Military Action, Protective Presence Activism in Palestine Is No Longer Working](https://thewire.in/world/as-israel-ramps-up-military-action-protective-presence-activism-in-palestine-is-no-longer-working)
+
+No Article text 
+While protective presence activism has not been enough to halt the overall pace of the dispossession, it has had some important successes.
+
+2023-12-04T15:30:41+05:30
+### [How Many Women Were Elected as MLAs on December 3?](https://thewire.in/politics/how-many-women-were-elected-as-mlas-on-december-3)
+
+No Article text 
+Only one of the four states where results were declared on Sunday – Chhattisgarh – has more than 20% women MLAs, at 19 out of the total 90 MLAs.
+
+2023-12-04T15:00:39+05:30
+### [‘Decomposing Bodies of Four Babies’: A Grim Reminder of Israel’s War That Has Not Spared Children](https://thewire.in/rights/decomposing-bodies-of-four-babies-a-grim-reminder-of-israels-war-that-has-not-spared-children)
+
+No Article text 
+On November 10, a nurse had no choice but to carry the baby he thought will survive with a temporary cut to his oxygen supply, during an evacuation. He had to leave the other four babies with their breathing machines on. Despite promises, no one came to take them back to a safe place.
+
+2023-12-04T14:57:39+05:30
+### [Cyclone Michaung: Heavy Rainfall Floods Parts of Chennai, Flights Cancelled](https://thewire.in/environment/cyclone-michaung-heavy-rainfall-floods-chennai)
+
+No Article text 
+Chennai city and its adjacent districts experienced substantial rainfall overnight, with Meenambakkam recording 196 mm and Nungambakkam receiving 154.3 mm in the 24 hours leading up to 5:30 am this morning.
+
+2023-12-04T14:22:32+05:30
+### [Watch | What Do The State Election Results Tell Us About Indian Politics?](https://thewire.in/politics/ramachandra-guha-assembly-election-results-december-2023)
+
+No Article text 
+In a live interview for The Wire, the well-known historian and political commentator Ramachandra Guha answers whether overconfidence is to blame for the Congress’s defeats in MP and Chhattisgarh, and what the results' portents are for 2024.
+
+2023-12-04T14:15:13+05:30
+### [Eight Takeaways as Mizoram Votes in Zoram People's Movement](https://thewire.in/politics/mizoram-eight-takeaways-zpm-mnf-bjp)
+
+No Article text 
+What has made the ZPM’s victory sweeter is also the party’s candidate Lalthansanga defeating chief minister and MNF supremo Zoramthanga by 2,101 votes in the Aizawl East-1 seat.
+
+2023-12-04T14:00:20+05:30
+### [Crimes Against Women and Children, Suicides, Sudden Deaths Increased in 2022: NCRB Report](https://thewire.in/rights/crimes-against-women-and-children-suicides-sudden-deaths-increased-in-2022-ncrb-report)
+
+No Article text 
+At least 4,45,256 cases of 'crimes against women' were registered in 2022, showing a 4% increase from 2021.
+
+2023-12-04T13:30:41+05:30
+### [Verse Affairs: Annihilation Aesthetics](https://thewire.in/books/verse-affairs-annihilation-aesthetics)
+
+No Article text 
+Ranjit Hoskote’s latest collection of poetry 'Icelight' explores pandemic and global warming-induced annihilation anxiety but finds refuge in poetry and language.
+
+2023-12-04T13:00:07+05:30
+### [UP: Caste-Based Violence in an Upper Primary School Exposes Deep-Rooted Discrimination](https://thewire.in/caste/up-caste-based-violence-in-an-upper-primary-school-exposes-deep-rooted-discrimination)
+
+No Article text 
+A school principal had a long list of complaints regarding discriminatory practices against chamar students. However, in this case, despite evidence, a controversial compromise was brokered by the local police that led to the suppression of the incident.
+
+2023-12-04T12:30:27+05:30
+### [Does BJP’s Revival of the CAA Issue Reflect the Party’s Desperation in Bengal?](https://thewire.in/politics/does-bjps-revival-of-the-caa-issue-reflect-the-partys-desperation-in-bengal)
+
+No Article text 
+The revival of the issue, despite possible protests in the northeast at a time when Manipur has seen severe ethnic conflict, has triggered curiosities.
+
+2023-12-04T12:19:35+05:30
+### [BJP's MPs Get Lukewarm Response in Assembly Polls, 11 of 21 Win](https://thewire.in/politics/bjp-mps-lukewarm-response-assembly-polls)
+
+No Article text 
+Five parliamentarians emerged victorious in Madhya Pradesh, four in Rajasthan, two in Chhattisgarh but all three lost in Telangana.
+
+2023-12-04T11:59:32+05:30
+### [UGC Withdraws Designs for Narendra Modi Selfie Points, Directive to Set Them up Still in Place](https://thewire.in/education/ugc-withdraws-designs-for-narendra-modi-selfie-points-directive-to-set-them-up-still-in-place)
+
+No Article text 
+The directive received significant backlash, with many saying that it was equivalent to a “cult-building” exercise while others called it a campaign for Modi ahead of the 2024 general elections.
+
+2023-12-04T10:58:02+05:30
+### [AAP Loses All Seats in Rajasthan, MP, Chhattisgarh, Gets Less Votes Than NOTA](https://thewire.in/politics/aap-loses-all-seats-in-rajasthan-mp-chhattisgarh-gets-less-votes-than-nota)
+
+No Article text 
+However, an AAP leader claimed that it was now the “largest Opposition party” in North India, since the Congress had been ousted.
+
+2023-12-04T10:10:32+05:30
+### [Mizoram Election Results Live Updates: ZPM to Form the Government, Upending State's Record](https://thewire.in/politics/mizoram-election-results-live-updates-mnf-bjp-zpm)
+
+No Article text 
+This result will make Mizoram break out of the typical bipolar contest for power between MNF and the Congress.
+
+2023-12-04T09:01:23+05:30
+### [Manipur Govt to Continue to Ban Internet in Peripheral Areas Between Districts](https://thewire.in/government/manipur-govt-to-continue-to-ban-internet-in-peripheral-areas-between-districts)
+
+No Article text 
+Manipur has been roiled by ethnic violence since May 3. Through it, the government clamped an internet shutdown that lasted for over 200 days with the exception of three days in September.
+
+2023-12-04T07:00:40+05:30
+### [The Morning After: 15 Takeaways From the Four State Election Results](https://thewire.in/politics/the-morning-after-15-takeaways-from-the-four-state-election-results)
+
+No Article text 
+Of the four states for which we saw results on Sunday, three states threw out their governments.
+
+2023-12-04T07:00:02+05:30
+### [Did Mizoram's Voters Consider the Manipur Violence a Poll Issue? Today's Results Will Tell.](https://thewire.in/politics/mizoram-backgrounder-manipur-poll-issue-mnf-zpm)
+
+No Article text 
+Since the buzz in the state is that the ZPM is close to the BJP, it is also to be seen after today if the national party could enter the next Mizoram government.
+
+2023-12-03T23:36:58+05:30
+### [Maldives Prez Claims Agreement on Withdrawal of Indian Troops; India Asserts Talks Still On](https://thewire.in/diplomacy/maldives-claims-agreement-troop-withdrawal-but-india-says-discussions-ongoing)
+
+No Article text 
+A major promise of Maldives President Mohamed Muizzu’s election campaign had been to remove Indian troops from the Maldives. He claimed the troops hindered the island nation’s sovereignty.
+
+2023-12-03T22:17:40+05:30
+### [In Chhattisgarh, Congress's Cautious Pessimism Proves to Be Too Little, Too Late](https://thewire.in/politics/in-chhattisgarh-congresss-cautious-pessimism-proves-to-be-too-little-too-late)
+
+No Article text 
+Meanwhile, the BJP had fought the election with no CM face, and after the win, the party is now in a mad rush to finalise a name.
+
+2023-12-03T22:03:00+05:30
+### [To Defeat BJP in an Increasingly Bipolar India, the Congress Would Need Much More Passion](https://thewire.in/politics/telangana-madhya-pradesh-rajasthan-chhattisgarh-bjp-congress-election)
+
+No Article text 
+Hard work and spirit of the kind shown by Congress in Telangana, and earlier, Karnataka, was missing in Chhattisgarh, Madhya Pradesh, and Rajasthan.
+
+2023-12-03T21:24:24+05:30
+### [For BJP in Madhya Pradesh, a Leap in Seats, a Jump in Vote Share and a Reversal of 2018](https://thewire.in/politics/madhya-pradesh-election-shivraj-singh-chouhan)
+
+No Article text 
+In hindsight, the 2018 election result, in which the Congress bettered the BJP seat tally for the first time since 2003, appears to be an outlier.
+
+2023-12-03T20:30:47+05:30
+### [Telangana DGP Suspended, Two Other Top Cops Issued Notices For Poll Rule Violation](https://thewire.in/government/election-commission-telangana-dgp-anjani-kumar-revanth-reddy)
+
+No Article text 
+Anjani Kumar visited the residence of Telangana Congress chief A. Revanth Reddy and congratulated him even when the votes for the state assembly elections were still being counted.
+
+2023-12-03T19:56:28+05:30
+### [In Telangana, Five Trends Highlight Divides, Gains, Losses and Blows to Expansion Plans](https://thewire.in/politics/telangana-bharat-rashtra-samithi-congress-kcr)
+
+No Article text 
+Did KCR take for granted the gratitude and goodwill that he enjoys among the people for his role in the statehood movement? Did minority representation take a backseat?
+
+2023-12-03T18:49:49+05:30
+### [Three Things BJP’s Definitive Victory in the Assembly Elections Tells Us](https://thewire.in/politics/three-things-bjps-definitive-victory-in-the-assembly-elections-tells-us)
+
+No Article text 
+Things cannot look darker for any opposition alliance hoping to stand against the BJP at this point. The state assembly poll results are a hard wake-up call for all the INDIA alliance members.
+
+2023-12-03T18:23:01+05:30
+### [Why Congress Lost in Three States and Won in One](https://thewire.in/politics/why-congress-lost-in-three-states-and-won-in-one)
+
+No Article text 
+Could it be that the Congress holds its own better when its opponent is more reliant on governance and state machinery than politics.
+
+2023-12-03T14:31:57+05:30
+### [Telangana: As Congress Wins, Question Over Party's CM Pick](https://thewire.in/politics/telangana-congress-brs-kcr-bjp-numbers)
+
+No Article text 
+With 2024 just round the corner, Telangana offers a gateway to a larger role for whoever wins. It is important for BRS as the party has signalled national ambition, even effected a name-change. For the Congress, it would be the first state in recent memory the party would have resurrected itself in, after being smashed.
+
+2023-12-03T14:31:20+05:30
+### [Who Doesn’t Love A Party?](https://thewire.in/rights/world-disability-day-2023)
+
+No Article text 
+But what we’d all really enjoy is to wake up on December 3 and find that World Disability Day has been cancelled.
+
+2023-12-03T14:30:38+05:30
+### [In Chhattisgarh, BJP Bests Congress, Upending Exit Polls](https://thewire.in/politics/chhattisgarh-election-congress-baghel-bjp)
+
+No Article text 
+The BJP seems poised to dislodge the Bhupesh Baghel-led Congress government.
+
+2023-12-03T13:16:00+05:30
+### [Post-Retirement, Controversial Top Cop Rakesh Asthana Lands NHRC 'Monitor' Role](https://thewire.in/government/rakesh-asthana-narendra-modi-nhrc)
+
+No Article text 
+Asthana will oversee thematic areas of NHRC like terrorism, counter-insurgency, communal riots and violence related to left-wing extremism.
+
+2023-12-03T12:58:16+05:30
+### [In Madhya Pradesh, BJP to Continue 18-Year Old Record](https://thewire.in/politics/madhya-pradesh-bjp-record-shivraj-kamal-nath-congress)
+
+No Article text 
+BJP appears to be firmly in position to form the government in MP, with a lead in a number of seats that has breached the majority mark.
+
+2023-12-03T12:38:21+05:30
+### ['Badlega Raj ya Rivaaj?': Rajasthan Votes for Change as BJP Scores Decisive Victory](https://thewire.in/politics/rajasthan-congress-gehlot-sachin-pilot-bjp)
+
+No Article text 
+States known to always vote out the incumbent like Punjab, Tamil Nadu and Kerala have defied the norm in 2012, 2016 and 2021, respectively. In Rajasthan, however, BJP has proven to be an exception to the trend.
+
+2023-12-03T10:10:33+05:30
+### [As Early Rajasthan Numbers Show the Possibility of a Tight Contest, RLP’s Beniwal Weighs His Options](https://thewire.in/politics/as-early-rajasthan-numbers-show-the-possibility-of-a-tight-contest-rlps-beniwal-weighs-his-options)
+
+No Article text 
+Could the Rashtriya Loktantrik Party make a play for a ‘third’ space in Rajasthan, or will it align with the strongest?
+
+2023-12-03T07:21:36+05:30
+### [PM Modi Says He Spoke to Qatar Emir But Silent on Whether Fate of 8 Indians on Death Row Was Raised](https://thewire.in/diplomacy/prime-minister-narendra-modi-qatar-death-row)
+
+No Article text 
+Unusually, the Indian PM posted about their talks nearly 24 hours later.
+
+2023-12-03T07:00:48+05:30
+### [Assembly Polls: How Environmental Issues Figured in the Electoral Discourse of Political Parties](https://thewire.in/environment/assembly-polls-how-environmental-issues-figured-in-the-electoral-discourse-of-political-parties)
+
+No Article text 
+The Wire has put together some of the main environmental issues being faced by Chhattisgarh, Madhya Pradesh, Mizoram, Rajasthan, and Mizoram.
+
+2023-12-03T06:57:10+05:30
+### [J&K Court Grants Bail to Students Arrested for 'Chanting Pro-Pak Slogans', Police Drop Terror Charges](https://thewire.in/rights/jk-court-grants-bail-to-students-arrested-for-chanting-pro-pak-slogans-police-drop-terror-charges)
+
+No Article text 
+The terror FIR had prompted an uproar in Kashmir, with the families of the students as well as political parties and common netizens demanding that the police should drop the charges and give the students a second chance to continue their studies.
+
+2023-12-03T06:00:17+05:30
+### [Assembly Election Results Live: BJP Sweeps 3 States; EC 'Suspends' Telangana DGP Over MCC Violation](https://thewire.in/politics/assembly-election-results-live-rajasthan-mp-chhattisgarh-telangana)
+
+No Article text 
+Watch this space for live updates.
+
+2023-12-02T22:20:07+05:30
+### [The Wire, The Caravan, Newslaundry, The News Minute and Scroll To Come Together For Result Day](https://thewire.in/media/the-wire-the-caravan-newslaundry-the-news-minute-and-scroll-to-come-together-for-result-day)
+
+No Article text 
+As counting for four of the five state elections will get underway on the morning of December 3, these independent media organisations will make it count in a special live joint broadcast.
+
+2023-12-02T20:49:23+05:30
+### [Pannun 'Assassination Plot': No Crime Record Against Nikhil Gupta, Says Gujarat DGP](https://thewire.in/government/pannun-assassination-plot-no-crime-record-against-nikhil-gupta-says-gujarat-dgp)
+
+No Article text 
+The Indian citizen was accused by the United States of plotting to assassinate Khalistan separatist Gurpatwant Singh Pannun. Gupta, who is currently in Czechia, is awaiting extradition to the US.
+
+2023-12-02T19:44:22+05:30
+### [Stormy Start to Parliament Session Likely as Ethics Panel to Table Report on Mahua Moitra](https://thewire.in/politics/stormy-start-to-parliament-session-likely-as-ethics-panel-to-table-report-on-mahua-moitra)
+
+No Article text 
+Opposition MPs, including Adhir Ranjan Chowdhury of Congress rally behind Mahua Moitra, question if ethics committee should be allowed to expel someone elected by the people.
+
+2023-12-02T19:09:47+05:30
+### [RPF Constable Who Killed Four on Moving Train Wants to Donate to Ayodhya Ram Temple](https://thewire.in/communalism/rpf-constable-who-killed-four-on-moving-train-wants-to-donate-to-ayodhya-ram-temple)
+
+No Article text 
+Chetan Singh, who is currently in jail, wants to appeal to the court through his lawyers to de-freeze his bank account so that he can contribute to the temple.
+
+2023-12-02T17:26:53+05:30
+### [Tamil Nadu: ED Official Arrested in Bribery Case Sent to 15-Day Police Custody](https://thewire.in/government/tamil-nadu-police-arrest-ed-official-who-was-caught-red-handed-while-allegedly-accepting-bribe)
+
+No Article text 
+This is not the first time that an Enforcement Directorate (ED) official has been arrested on bribery charges. Last month, Rajasthan’s Anti-Corruption Bureau arrested two ED officials on bribery charges, a day after the agency issued summons to the sons of the state Congress Committee Chief.
+
+2023-12-02T17:16:42+05:30
+### [Pannun, Nijjar and the Constant Need to find the 'Enemies' of Modi's India](https://thewire.in/security/pannun-nijjar-and-the-constant-need-to-find-the-enemies-of-modis-india)
+
+No Article text 
+The most cunning subscribers of Modi's “56-inch-ism” were the overlords of the security establishment. These shadowy men quickly sized up our new saviour and understood the great man’s need for 'enemies' to be tamed and vanquished.
+
+2023-12-02T16:18:00+05:30
+### [India’s ‘Amrit Kaal’: Hunger, Inequity and a $30-Trillion Economy](https://thewire.in/economy/indias-amrit-kaal-hunger-inequity-and-a-30-trillion-economy)
+
+No Article text 
+A near ten-fold increase in the size of the economy and per-capita GDP is being projected to be achieved in the next 25 years in the backdrop of poverty, hunger and unemployment.
+
+2023-12-02T16:13:24+05:30
+### [Weeks After Indian Troops Asked to Leave Maldives, Modi Holds Talks with Mohamed Muizzu](https://thewire.in/diplomacy/weeks-after-indian-troops-asked-to-leave-maldives-modi-holds-talks-with-mohamed-muizzu)
+
+No Article text 
+On the sidelines of COP28 in Dubai, the Prime Minister held talks with the Maldivian new President, where both leaders 'discussed ways to further deepen their partnership'.
+
 2023-11-28T07:00:23+05:30
 ### [How the Nature of Human Trafficking Has Changed in Bengal](https://thewire.in/rights/how-the-nature-of-human-trafficking-has-changed-in-bengal)
 

@@ -1,3 +1,258 @@
+Mon, 04 Dec 2023 12:50:15 +0000
+### [Why South Korea has sent a man to jail for writing a poem about North Korea](https://indianexpress.com/article/explained/explained-global/south-korea-nsa-jail-poem-9054036/)
+
+Article found but Couldn't summarize
+
+Mon, 04 Dec 2023 12:15:56 +0000
+### [How to read the NCRB 2022 report on crime in India](https://indianexpress.com/article/explained/ncrb-2022-report-crime-india-limitations-9054144/)
+
+Article found but Couldn't summarize
+
+Mon, 04 Dec 2023 12:00:35 +0000
+### [Cyclone Michaung intensifies into ‘severe’ cyclonic storm: Everything you need to know](https://indianexpress.com/article/explained/cyclone-michaung-intensifies-9054156/)
+
+Cyclone Michaung, currently over west-central and coastal south Andhra Pradesh, has intensified into a 'severe' cyclonic storm and is expected to make landfall near Bapatla district on December 5th. This cyclone is unique because high-intensity storms are uncommon in December due to unfavorable ocean conditions. Initially predicted as a tropical cyclone, it was upgraded to a severe storm by the Met department. Michaung is projected to travel parallel to the south Andhra Pradesh coast before crossing between Nellore and Machilipatnam. The India Meteorological Department (IMD) has issued warnings of heavy rainfall in various districts of Andhra Pradesh, with potential crop damage and strong winds during the landfall. Storm surge and tidal waves are also expected. After crossing the Andhra coast, the cyclone is expected to move northwestwards towards southern Odisha. India's east and west coasts are prone to cyclones, with the Bay of Bengal experiencing more frequent cyclone development. Warm ocean temperatures and Tropical Cyclone Heat Potential contribute to the intensification and propagation of tropical cyclones. Factors such as atmospheric conditions, wind shear, and air-sea interaction also influence cyclone formation and intensification.
+
+Mon, 04 Dec 2023 06:36:02 +0000
+### [Dengue is coming to Europe: Why non-travel cases are the highest in decades](https://indianexpress.com/article/explained/explained-health/dengue-europe-cases-rising-reasons-9053636/)
+
+Article found but Couldn't summarize
+
+Sun, 03 Dec 2023 11:07:05 +0000
+### [4 factors behind the BJP win in Chhattisgarh, Rajasthan and Madhya Pradesh assembly elections](https://indianexpress.com/article/explained/explained-politics/reasons-why-bjp-leads-chhattisgarh-rajasthan-madhya-pradesh-elections-9052630/)
+
+Article found but Couldn't summarize
+
+Sun, 03 Dec 2023 10:54:26 +0000
+### [How EC decides poll schedule — and why it changed Mizoram’s counting date](https://indianexpress.com/article/explained/election-commission-poll-schedule-mizoram-counting-day-9052663/)
+
+Article found but Couldn't summarize
+
+Sun, 03 Dec 2023 08:15:54 +0000
+### [RBI monetary policy: Why is the Monetary Policy Committee likely to leave repo rate unchanged?](https://indianexpress.com/article/explained/explained-economics/rbi-monetary-policy-committee-repo-rate-unchanged-reason-9052430/)
+
+The Monetary Policy Committee (MPC) of the Reserve Bank of India (RBI) is expected to maintain the repo rate, its key lending rate, at 6.5% during its upcoming monetary policy review scheduled from December 6-8. This decision may be influenced by rising inflationary risks due to an increase in vegetable prices. The RBI is also likely to retain its stance of 'withdrawal of accommodation' in its monetary policy. Despite a better-than-expected second-quarter GDP growth rate of 7.6%, the RBI may revise its growth estimate for FY '24 upwards.
+
+Economists predict that the six-member rate-setting panel of the RBI will not make any changes to the repo rate in the upcoming policy. The expectation is based on the anticipation of increased food inflation, particularly with the rise in onion and tomato prices. On the other hand, core inflation remains around 4%, providing no grounds for an interest rate hike. In October, consumer price-based inflation eased to 4.87% but remains above the RBI's target of 4%.
+
+RBI Governor Shaktikanta Das has emphasized the need for vigilant monitoring of inflation and maintaining a focus on the 4% target. With strong GDP growth in Q2 FY '24 and potential inflation risks due to food price volatility, experts expect the RBI to maintain a hawkish approach in its monetary policy. This would involve keeping the repo rate and stance unchanged, ensuring tight liquidity, and aiming to keep short-term rates around 6.85-6.90%.
+
+This would be the fifth consecutive monetary policy where the MPC chooses to leave the repo rate unchanged at 6.5%. The previous rate hike occurred in February 2023 when it was raised from 6.25% to 6.5%. Analysts believe that the stance of the monetary policy will continue to be one of 'withdrawal of accommodation'.
+
+Banks have responded to the cumulative 250 basis points hike in policy rates since May 2022 by increasing their lending rates. However, the transmission of the rate hikes has not been fully realized, as there is still a 50 basis points gap in lending rates. Banks have also raised their deposit rates. Overall, the RBI may slightly revise its FY '24 GDP growth forecast to 6.8% while keeping the headline inflation forecast unchanged at 5.4%, anticipating a decline in food inflation later in the fiscal year.
+
+As the RBI is expected to maintain the policy rate at 6.5%, borrowers will receive relief as external benchmark lending rates linked to the repo rate will not increase, resulting in stable equated monthly instalments (EMIs).
+
+Sun, 03 Dec 2023 07:46:16 +0000
+### [Will the Pakistan elections take place on time?](https://indianexpress.com/article/explained/explained-global/pakistan-elections-2024-parties-imran-khan-explained-delay-9052404/)
+
+Article found but Couldn't summarize
+
+Sun, 03 Dec 2023 02:30:42 +0000
+### [COP28: What is Global Stocktake — and why is it important?](https://indianexpress.com/article/explained/explained-climate/cop28-what-global-stocktake-9051353/)
+
+Article found but Couldn't summarize
+
+Sat, 02 Dec 2023 13:59:46 +0000
+### [Who is George Santos, fraud whom US lawmakers have kicked out of the House of Representatives?](https://indianexpress.com/article/explained/explained-global/george-santos-expelled-house-of-representatives-9051597/)
+
+Article found but Couldn't summarize
+
+Sat, 02 Dec 2023 11:03:42 +0000
+### [Why India will continue to rely on coal for foreseeable future](https://indianexpress.com/article/explained/india-coal-power-demand-9051441/)
+
+Article found but Couldn't summarize
+
+Sat, 02 Dec 2023 09:16:45 +0000
+### [What the World Malaria Report says about India](https://indianexpress.com/article/explained/explained-health/world-malaria-report-india-9051244/)
+
+Article found but Couldn't summarize
+
+Sat, 02 Dec 2023 08:34:02 +0000
+### [Vaishali and Praggnanandhaa, first brother-sister duo to become Grandmasters: What is the chess title?](https://indianexpress.com/article/explained/explained-sports/who-is-grandmaster-9051238/)
+
+Article found but Couldn't summarize
+
+Sat, 02 Dec 2023 04:30:12 +0000
+### [How Russia is winning the war in Ukraine](https://indianexpress.com/article/explained/explained-global/russia-winning-ukraine-war-9050744/)
+
+Article found but Couldn't summarize
+
+Sat, 02 Dec 2023 03:02:10 +0000
+### [Why the Kerala transport body has challenged Centre’s new permit rules for tourist vehicles](https://indianexpress.com/article/explained/ksrtc-challenged-centres-new-permit-rules-tourist-vehicles-9050721/)
+
+Article found but Couldn't summarize
+
+Sat, 02 Dec 2023 01:30:27 +0000
+### [GDP growth surprise: How to read the data](https://indianexpress.com/article/explained/explained-economics/gdp-growth-surprise-how-to-read-the-data-9050696/)
+
+Article found but Couldn't summarize
+
+Fri, 01 Dec 2023 17:12:41 +0000
+### [What is the Green Credits scheme, which PM Modi mentioned at COP28](https://indianexpress.com/article/explained/everyday-explainers/what-is-the-green-credits-scheme-which-pm-modi-mentioned-at-cop28-9050627/)
+
+Prime Minister Narendra Modi launched the Green Credits Initiative during the COP28 climate talks in Dubai. The initiative aims to generate Green Credits through plantation on degraded wasteland and goes beyond carbon credits. The Green Credits Programme, launched by the Environment Ministry, seeks to create a market-based incentive for various environment-positive actions, not limited to carbon emission reductions. While carbon credits allow companies and nations to trade credits for reducing their carbon footprint, the Green Credits programme aims to replicate this system for actions like water conservation and soil improvements. The initiative can benefit individuals and communities, as well as industries and corporations. PM Modi proposed the concept to the international community, with the hope of establishing a global market for green credits similar to carbon credits.
+
+Fri, 01 Dec 2023 14:14:16 +0000
+### [US to impose visa bans on violent Israeli settlers in West Bank: 5 things you need to know](https://indianexpress.com/article/explained/explained-global/us-visa-bans-violent-israeli-settlers-in-west-bank-9050410/)
+
+Article found but Couldn't summarize
+
+Fri, 01 Dec 2023 13:29:01 +0000
+### [Cyclone Michaung to make landfall in Tamil Nadu: What is a cyclone — and its different types?](https://indianexpress.com/article/explained/explained-climate/cyclone-michaung-tropical-types-9050347/)
+
+Article found but Couldn't summarize
+
+Fri, 01 Dec 2023 09:31:27 +0000
+### [When Jinnah asked Sam Manekshaw to join the Pak army](https://indianexpress.com/article/explained/explained-history/jinnah-sam-manekshaw-bahadur-partition-9050048/)
+
+Article found but Couldn't summarize
+
+Fri, 01 Dec 2023 07:51:05 +0000
+### [President Murmu advocates for All India Judicial Service: What the idea is, why it hasn’t been implemented](https://indianexpress.com/article/explained/explained-law/all-india-juicial-service-judiciary-exam-proposal-9049890/)
+
+Article found but Couldn't summarize
+
+Fri, 01 Dec 2023 06:31:12 +0000
+### [Remembering Sam Bahadur: A fellow soldier thinks back on India’s first Field Marshal](https://indianexpress.com/article/explained/remembering-sam-bahadur-first-field-marshal-9049764/)
+
+Article found but Couldn't summarize
+
+Fri, 01 Dec 2023 01:30:36 +0000
+### [What the Pannun murder plot means for India’s global image, its ties with the US](https://indianexpress.com/article/explained/the-pannun-sized-problem-in-india-us-ties-9049329/)
+
+Article found but Couldn't summarize
+
+Thu, 30 Nov 2023 15:02:49 +0000
+### [Who is Damian Williams, the face of the US Department of Justice in the foiled plot to murder Pannun](https://indianexpress.com/article/explained/explained-global/damian-williams-doj-prosecutor-pannun-murder-9049070/)
+
+Article found but Couldn't summarize
+
+Thu, 30 Nov 2023 14:59:31 +0000
+### [Loss and damage fund approved at COP28 summit: All you need to know](https://indianexpress.com/article/explained/explained-climate/loss-and-damage-fund-approved-cop-28-9049082/)
+
+Article found but Couldn't summarize
+
+Thu, 30 Nov 2023 13:52:35 +0000
+### [IK Gujral’s death anniversary: What was the Gujral Doctrine of foreign policy, its significance](https://indianexpress.com/article/explained/explained-politics/what-is-gujral-doctrine-significance-9049011/)
+
+Article found but Couldn't summarize
+
+Thu, 30 Nov 2023 11:48:52 +0000
+### [An Expert Explains: How exit polls are conducted and read](https://indianexpress.com/article/explained/exit-polls-state-elections-chanakya-cvoter-axis-9048741/)
+
+Article found but Couldn't summarize
+
+Thu, 30 Nov 2023 11:47:12 +0000
+### [Explosive US indictment of Indians in Pannun murder plot: A chronology](https://indianexpress.com/article/explained/explained-global/explosive-us-indictment-pannun-murder-9048730/)
+
+Article found but Couldn't summarize
+
+Thu, 30 Nov 2023 08:57:22 +0000
+### [GDP data for July-September today: Why growth could be slower than in Q1](https://indianexpress.com/article/explained/explained-economics/gdp-data-q2-indian-economy-growth-outlook-9048506/)
+
+Article found but Couldn't summarize
+
+Thu, 30 Nov 2023 08:27:25 +0000
+### [India is building its own ‘sovereign AI’. What does it mean?](https://indianexpress.com/article/explained/explained-sci-tech/india-sovereign-ai-meaning-9048436/)
+
+Article found but Couldn't summarize
+
+Thu, 30 Nov 2023 08:11:17 +0000
+### [5 things you did not know about Sam Bahadur, India’s beloved first Field Marshal](https://indianexpress.com/article/explained/explained-history/5-things-sam-bahadur-first-field-marshal-9048437/)
+
+Article found but Couldn't summarize
+
+Thu, 30 Nov 2023 07:07:56 +0000
+### [From Israel to China, how Henry Kissinger influenced US foreign policy](https://indianexpress.com/article/explained/explained-global/henry-kissinger-dead-influence-us-foreing-policy-explained-9048332/)
+
+Henry Kissinger, the former US Secretary of State, died at the age of 100. He was a controversial figure who shaped American foreign policy in the 1970s. Kissinger played a significant role in improving relations between the US and the USSR and China during the Cold War. He advocated for realism, prioritizing strategic concerns over other considerations. Kissinger and President Nixon engaged in secret meetings to lay the groundwork for establishing diplomatic relations with China, hoping to leverage it against the USSR. Kissinger also supported Pakistan during the 1971 war with Bangladesh, while expressing contempt for then-Indian Prime Minister Indira Gandhi and Indians in general. The Vietnam War saw Kissinger's initial support for US involvement, including approving bombing raids in Cambodia. Despite winning the Nobel Peace Prize for the Paris Peace Accords, the deal fell apart soon after being signed. Kissinger also played a role in aiding Israel in the Middle East, contributing to the peace treaty between Israel and Egypt in 1979.
+
+Thu, 30 Nov 2023 05:48:01 +0000
+### [Will Myanmar rebel offensive change EU approach to conflict?](https://indianexpress.com/article/explained/explained-global/myanmar-rebel-offensive-eu-explained-9048224/)
+
+Article found but Couldn't summarize
+
+Thu, 30 Nov 2023 01:40:45 +0000
+### [History of UNLF, Meitei insurgent group that signed peace deal with Centre](https://indianexpress.com/article/explained/history-of-unlf-meitei-insurgent-group-that-signed-peace-deal-with-centre-9047846/)
+
+Article found but Couldn't summarize
+
+Wed, 29 Nov 2023 23:25:18 +0000
+### [Express at COP28: World leaders set to meet in Dubai to bring climate on track, but what are the challenges?](https://indianexpress.com/article/explained/explained-climate/express-at-cop28-goals-derailed-world-meets-in-dubai-to-bring-climate-on-track-9047865/)
+
+Article found but Couldn't summarize
+
+Wed, 29 Nov 2023 18:39:50 +0000
+### [What led to the Sensex and Nifty surging over 1%?](https://indianexpress.com/article/explained/explained-economics/what-led-to-the-sensex-and-nifty-surging-over-1-9047775/)
+
+Article found but Couldn't summarize
+
+Wed, 29 Nov 2023 16:39:27 +0000
+### [US govt charges Indian in ‘foiled plot to kill Khalistani separatist’: What we know so far](https://indianexpress.com/article/explained/explained-global/us-govt-khalistan-assassination-pannun-9047622/)
+
+Article found but Couldn't summarize
+
+Wed, 29 Nov 2023 14:16:14 +0000
+### [Why a 19th century painting of a ‘reluctant bride’ is trending on social media](https://indianexpress.com/article/explained/explained-culture/why-a-19th-century-painting-of-a-reluctant-bride-is-trending-9047541/)
+
+Article found but Couldn't summarize
+
+Wed, 29 Nov 2023 13:38:45 +0000
+### [Kashmiri students held: How UAPA has become more draconian over the years](https://indianexpress.com/article/explained/explained-law/kashmiri-students-uapa-draconian-over-the-years-9047478/)
+
+Article found but Couldn't summarize
+
+Wed, 29 Nov 2023 12:21:22 +0000
+### [Paul Lynch wins the 2023 Booker: Ireland’s long tryst with the prize](https://indianexpress.com/article/explained/explained-culture/paul-lynch-wins-the-booker-irelands-long-tryst-with-the-prize-9047382/)
+
+Article found but Couldn't summarize
+
+Wed, 29 Nov 2023 11:24:58 +0000
+### [How Charlie Munger helped Warren Buffett build the $785 billion investment giant Berkshire Hathaway](https://indianexpress.com/article/explained/explained-global/charlie-munger-warren-buffett-berkshire-hathaway-9047286/)
+
+Article found but Couldn't summarize
+
+Wed, 29 Nov 2023 08:15:31 +0000
+### [Expert Explains: Why must militaries be prepared to fight analogue wars in a digital age?](https://indianexpress.com/article/explained/fighting-analogue-wars-digital-age-9046929/)
+
+Article found but Couldn't summarize
+
+Wed, 29 Nov 2023 01:30:58 +0000
+### [Why some birds flock to wealthier neighbourhoods: Links to civic design, inequality and more](https://indianexpress.com/article/explained/birds-income-indequality-racism-cities-environment-study-9046053/)
+
+Article found but Couldn't summarize
+
+Tue, 28 Nov 2023 15:04:33 +0000
+### [What are the Elgin Marbles, at the centre of the row between Britain and Greece?](https://indianexpress.com/article/explained/explained-culture/parthenon-sculptures-britain-greece-9046166/)
+
+Article found but Couldn't summarize
+
+Tue, 28 Nov 2023 12:31:13 +0000
+### [How a new study rejects the idea of ‘Man, the Hunter’, through female biology](https://indianexpress.com/article/explained/explained-sci-tech/new-study-rejects-man-the-hunter-biology-explained-9045897/)
+
+Article found but Couldn't summarize
+
+Tue, 28 Nov 2023 12:26:00 +0000
+### [COP28 begins today: India’s role at the climate conferences over the years, key promises, red lines](https://indianexpress.com/article/explained/explained-climate/cop28-indias-role-at-the-climate-conferences-9045917/)
+
+Article found but Couldn't summarize
+
+Tue, 28 Nov 2023 07:10:26 +0000
+### [What is ‘moye moye’, the new trending sound on Instagram reels?](https://indianexpress.com/article/explained/explained-culture/moye-moye-new-trending-sound-instagram-reels-meaning-9045377/)
+
+Article found but Couldn't summarize
+
+Tue, 28 Nov 2023 06:21:17 +0000
+### [What explains the unseasonal rains and lightning strikes in Gujarat?](https://indianexpress.com/article/explained/explained-climate/lightning-deaths-gujarat-unseasonal-rains-explained-9045217/)
+
+Article found but Couldn't summarize
+
+Tue, 28 Nov 2023 02:30:40 +0000
+### [COP, carbon market, loss and damage: A glossary of climate terms](https://indianexpress.com/article/explained/explained-climate/glossary-climate-change-terms-9044683/)
+
+Article found but Couldn't summarize
+
 Mon, 27 Nov 2023 15:33:40 +0000
 ### [How Napoleon’s failed Egypt expedition gave birth to Egyptology](https://indianexpress.com/article/explained/explained-history/napoleon-egypt-expedition-egyptology-9044694/)
 
