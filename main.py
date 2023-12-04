@@ -469,12 +469,12 @@ def main():
 
     log_details(f"{new_entries_added} new entries have been added")
 
-    new_entries_updated = 0
-    for feed in feeds:
-        new_summary = update_summary_if_ai_summary_is_false(feed)
-        new_entries_updated = new_entries_updated + new_summary
+    # new_entries_updated = 0
+    # for feed in feeds:
+    #     new_summary = update_summary_if_ai_summary_is_false(feed)
+    #     new_entries_updated = new_entries_updated + new_summary
 
-    log_details(f"{new_entries_updated} summaries have been updated")
+    # log_details(f"{new_entries_updated} summaries have been updated")
 
     for feed in feeds:
         sorting_xml_files_by_date_json(feed)
@@ -498,8 +498,8 @@ def main():
     with open('index.md', 'a') as index_file:
         index_file.write(f"\n\n\n ************************************************* \n")
         index_file.write(f"Total number of new entries: {new_entries_added}\n")
-        index_file.write(
-            f"Total number of summaries updated: {new_entries_updated}\n")
+        # index_file.write(
+            # f"Total number of summaries updated: {new_entries_updated}\n")
         index_file.write(
             f"Finished at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
         index_file.write(f"Total time taken: {minutes} minutes {seconds} seconds\n")
