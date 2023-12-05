@@ -14,6 +14,12 @@ Mon, 04 Dec 2023 18:57:47 +0530
 
 A biotech firm called Colossal Biosciences is partnering with the Mauritian Wildlife Foundation to potentially bring back the extinct dodo bird. The company has sequenced the genomes of the dodo, as well as two other birds closely related to it. They plan to use cells called primordial germ cells (PGCs) to create a chicken and rooster with the physical traits of a dodo. These altered PGCs will be placed into the embryos of the chickens, and if successful, their offspring will have the characteristics of the dodo. However, there are technical challenges to overcome, and bringing back the dodo does not address the issues that led to its extinction originally. The company believes that rewilding the animals and returning them to their natural habitat is crucial. It is important to note that de-extinction is not a solution to the present-day extinction crisis.
 
+Mon, 04 Dec 2023 18:35:30 +0530
+### [FirstUp: Cyclone Michaung landfall, Malaysia's 1st T20... What to expect today](https://www.firstpost.com/explainers/firstup-cyclone-michaung-landfall-malaysias-1st-t20-what-to-expect-today-13464192.html)
+
+Article found but Couldn't summarize 
+FirstUp: Cyclone Michaung landfall, Malaysia's 1st T20... What to expect today
+
 Mon, 04 Dec 2023 18:00:13 +0530
 ### [Why does Venezuela want to claim oil-rich region controlled by Guyana?](https://www.firstpost.com/explainers/why-does-venezuela-want-to-claim-oil-rich-region-controlled-by-guyana-13464482.html)
 

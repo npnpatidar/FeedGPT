@@ -1,3 +1,8 @@
+Tue, 05 Dec 2023 00:30:37 +0000
+### [Navy Day: As PM Modi praises Shivaji’s naval prowess, a look at the Maratha Navy](https://indianexpress.com/article/explained/explained-history/navy-day-modi-shivaji-navy-maratha-9054536/)
+
+Prime Minister Narendra Modi unveiled a statue of Chhatrapati Shivaji Maharaj, the 17th-century Maratha king, at Sindhugarh fort in Maharashtra on Navy Day. Highlighting Shivaji's understanding of naval power, PM Modi announced that naval officers' epaulettes would soon feature Shivaji's emblem. Last year, the PM had introduced the Indian Navy's new Ensign based on Shivaji's seal. The Indian Navy has recognized the maritime skills of the Marathas and named its training establishment in Lonavla as INS Shivaji and the logistics hub in Mumbai as INS Angre, after Kanhoji Angre, a renowned Maratha naval commander. Shivaji established a navy to safeguard his territory and engage in maritime trading, believing that controlling the seas meant having power. Between 1661 and 1663, the Maratha Navy grew to include around 400 ships. Shivaji constructed multiple naval forts, including Vijaydurg, Sindhudurg, and Kolaba, to monitor approaching enemies. While formidable in coastal waters, the Marathas did not challenge European naval powers like the Portuguese or British on the high seas. After the decline of Portuguese influence, the British Royal Navy emerged as a dominant force. The Marathas lacked the resources to compete with these powerful navies.
+
 Mon, 04 Dec 2023 15:02:13 +0000
 ### [Pilatus PC-7 Mk II crash: 5 things to know about the trainer aircraft](https://indianexpress.com/article/explained/pilatus-pc-7-mk-ii-crash-9054386/)
 

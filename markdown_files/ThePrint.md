@@ -1,3 +1,111 @@
+Tue, 05 Dec 2023 00:45:29 +0000
+### [GM ‘focused on righting’ ship at self-driving Cruise unit -CEO](https://theprint.in/tech/gm-focused-on-righting-ship-at-self-driving-cruise-unit-ceo/1872255/)
+
+General Motors CEO Mary Barra stated that the company is focused on addressing issues at Cruise, its self-driving unit. However, they will not disclose the amount of money they plan to spend until two reviews are completed. An external safety review will guide their future actions and is expected to be finished by early 2024. Barra did not comment on whether regulators treated Cruise more harshly than Tesla Autopilot and did not reveal funding details until assessments are complete. Last month, Cruise suspended all driverless and supervised car trips in the US and expanded a safety review following an accident. The California Public Utilities Commission ordered Cruise to attend a hearing for misleading the commission regarding the accident.
+
+Tue, 05 Dec 2023 00:45:14 +0000
+### [Israel intensifies southern Gaza offensive; U.S., UN urge civilian protections](https://theprint.in/world/israel-intensifies-southern-gaza-offensive-u-s-un-urge-civilian-protections/1872253/)
+
+Article found but Couldn't summarize 
+By Arafat Barbakh and Mohammed Salem GAZA (Reuters) - Israeli forces pressed ahead with their air and ground bombardment of southern Gaza Strip, killing and wounding dozens of Palestinians, even as
+
+Tue, 05 Dec 2023 00:45:03 +0000
+### [Israel considers flooding Gaza tunnels with seawater- WSJ](https://theprint.in/world/israel-considers-flooding-gaza-tunnels-with-seawater-wsj/1872251/)
+
+Israel has reportedly assembled a system of pumps to potentially flood tunnels used by Hamas in the Gaza strip, according to U.S. officials cited by the Wall Street Journal. The pumps, located near the Al-Shati refugee camp, are capable of moving thousands of cubic meters of water per hour and could render the tunnels inoperable within weeks. It remains unclear whether Israel would use the pumps before the release of all hostages held by Hamas. While Reuters cannot verify the details of the report, a U.S. official stated that it made sense for Israel to neutralize the tunnels. The Israel Defense Forces declined to comment on the flooding plan but acknowledged its efforts to dismantle Hamas's capabilities using various tools. Israel had informed the United States about this option, though it is unknown how close they are to carrying out the plan. No final decision has been made yet.
+
+Tue, 05 Dec 2023 00:30:22 +0000
+### [Take-Two’s Rockstar Games unveils ‘GTA VI’ trailer, to release game in 2025](https://theprint.in/tech/take-twos-rockstar-games-unveils-gta-vi-trailer-to-release-game-in-2025/1872249/)
+
+Article found but Couldn't summarize 
+(Reuters) - Rockstar Games, owned by Take-Two Interactive Software, on Monday released a trailer of the latest installment of its best-selling "Grant Theft Auto" (GTA) videogame franchise, ending a
+
+Tue, 05 Dec 2023 00:30:04 +0000
+### [Russia presses attacks on devastated Avdiivka in eastern Ukraine](https://theprint.in/world/russia-presses-attacks-on-devastated-avdiivka-in-eastern-ukraine/1872248/)
+
+Article found but Couldn't summarize 
+(Reuters) - Russian forces intensified attacks on Monday on the pulverised town of Avdiivka, Ukrainian officials said, as Moscow's military presses its slow advance through eastern Ukraine. The town
+
+Tue, 05 Dec 2023 00:30:03 +0000
+### [Top US Congressmen introduce bill to reduce green card backlog](https://theprint.in/world/top-us-congressmen-introduce-bill-to-reduce-green-card-backlog/1872247/)
+
+Article found but Couldn't summarize 
+Washington, Dec 5 (PTI) Three influential Congressmen, including Indian-Americans Raja Krishnamoorthi and Pramila Jayapal, have introduced bipartisan legislation in the US House of Representatives to reduce green card backlog and end country-based discrimination for employment-based visas. Both the moves, if passed and signed into law, would help thousands of Indian-Americans who are currently in decades-long [&#8230;]
+
+Tue, 05 Dec 2023 00:15:15 +0000
+### [AI could judge if user is of porn-watching age under new UK guidance](https://theprint.in/world/ai-could-judge-if-user-is-of-porn-watching-age-under-new-uk-guidance/1872245/)
+
+Article found but Couldn't summarize 
+LONDON (Reuters) - Britain proposed new age-check guidance on Tuesday to protect children from accessing pornography online, including a suggestion to use AI-based technology to see if a viewer looks
+
+Tue, 05 Dec 2023 00:15:05 +0000
+### [Global CO2 emissions from fossil fuels to hit record high in 2023 -report](https://theprint.in/world/global-co2-emissions-from-fossil-fuels-to-hit-record-high-in-2023-report/1872243/)
+
+Article found but Couldn't summarize 
+By Kate Abnett DUBAI (Reuters) - Global carbon dioxide emissions from burning fossil fuels are set to hit a record high this year, exacerbating climate change and fuelling more destructive extreme
+
+Tue, 05 Dec 2023 00:02:26 +0000
+### [Estonia plans to produce electricity from 100pc clean sources by 2050: Estonian delegation](https://theprint.in/world/estonia-plans-to-produce-electricity-from-100pc-clean-sources-by-2050-estonian-delegation/1872241/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 5 (ANI/WAM): Keit Kasemets, Secretary-General of the Ministry of Climate of Estonia and Head of the Estonian Delegation to the United Nations Climate Change Conference of the Parties (COP28), described the current edition of the climate summit as one of protecting the world from climate damage. In a statement to the Emirates [&#8230;]
+
+Tue, 05 Dec 2023 00:02:14 +0000
+### [Multilateral Development Banks unlock over $180 billion worth of climate finance at COP28](https://theprint.in/world/multilateral-development-banks-unlock-over-180-billion-worth-of-climate-finance-at-cop28/1872239/)
+
+Multilateral Development Banks (MDBs) made commitments at the COP28 climate summit in Dubai to take ambitious climate action and unlock over US$180 billion in climate finance. The Inter-American Development Bank (IDB) announced that it will triple its climate lending to US$150 billion over the next decade. The World Bank pledged to increase its climate finance target to 45 percent by 2025, amounting to US$40 billion annually, with an additional US$9 billion per year for the next two years. Furthermore, the World Bank announced a US$5 billion initiative to provide clean energy access to 100 million people in Africa within seven years. Other MDBs also made significant commitments, including the Islamic Development Bank's US$1 billion climate finance commitment for adaptation in conflict-affected countries and the African Development Bank's launch of facilities for green infrastructure and climate impact insurance. The UAE pledged US$200 million for climate resilience in low-income and vulnerable middle-income countries, and the COP28 UAE Declaration on a Global Climate Finance Framework was endorsed by various countries.
+
+Tue, 05 Dec 2023 00:02:01 +0000
+### [Panel discussion on empowering women refugees hosted](https://theprint.in/world/panel-discussion-on-empowering-women-refugees-hosted/1872237/)
+
+The Brussels International Center (BIC) co-hosted an event called "Empowering Women Refugees: Opportunities and Challenges for Climate Action" during the ongoing COP28 in Dubai. The event aimed to highlight the importance of empowering women refugees in the context of climate action and focused on the challenges they face as well as the solutions they develop. Dr. Sultan bin Ahmed Al Jaber, Minister of Industry and Advanced Technology and COP28 President, delivered concluding remarks emphasizing the UAE's commitment to climate action. The event featured distinguished speakers who shared their expertise on supporting women refugees and presenting innovative solutions. Topics discussed included the resilience of women refugees, strategies for support, and the disproportionate risks and burdens faced by women due to climate change. The event emphasized the need for gender-inclusive climate policies and empowering women for resilient communities and sustainable development. The report concludes by highlighting the BIC's commitment to seeking solutions for the consequences of climate change through data-driven research and engagement with climate leaders.
+
+Mon, 04 Dec 2023 23:45:06 +0000
+### [‘Renaissance: A Film by Beyonce’ tops box office](https://theprint.in/entertainment/renaissance-a-film-by-beyonce-tops-box-office/1872235/)
+
+The film "Renaissance: A Film by Beyonce" premiered at the top of the U.S. box office, earning $21.8 million during the typically slow first weekend of December. This marks the first time a movie has crossed the $20 million mark on this particular weekend since 2003. The release date was strategically chosen as it is historically a dead zone for the box office. The film gives fans of Beyonce, known as the Beyhive, a chance to experience her concert tour even if they couldn't get tickets to the sold-out shows. The film received praise for its behind-the-scenes look at Beyonce's world tour and her candid discussions about fame, motherhood, and being a Black woman in the music industry. Although the box office results fell short of Taylor Swift's opening weekend earnings, experts believe it will still boost music downloads and provide a more affordable alternative to attending live concerts.
+
+Mon, 04 Dec 2023 23:45:03 +0000
+### [US: Top Biden national security aide in India to discuss bilateral ties](https://theprint.in/world/us-top-biden-national-security-aide-in-india-to-discuss-bilateral-ties/1872234/)
+
+Article found but Couldn't summarize 
+Washington, Dec 5 (PTI) A top national security adviser to US President Joe Biden is in New Delhi to hold talks on various bilateral issues, including allegations related to the assassination attempt on a Sikh separatist, the White House said here. Principal Deputy National Security Advisor Jon Finer led a delegation to New Delhi on [&#8230;]
+
+Mon, 04 Dec 2023 23:32:02 +0000
+### [Pakistan withdraws Covid-19 vaccination certificate requirement for Haj visitors](https://theprint.in/world/pakistan-withdraws-covid-19-vaccination-certificate-requirement-for-haj-visitors/1872232/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 5 (ANI): The Ministry of Religious Affairs and Interfaith Harmony in Pakistan announced that those performing Haj next year would not need to show proof of Covid-19 vaccination, The News International reported. Taking to X, the ministry posted, &#8220;The condition for corona[virus] vaccine has been abolished. Haj pilgrims do not need to [&#8230;]
+
+Mon, 04 Dec 2023 23:30:37 +0000
+### [Soccer-Sunderland sack manager Mowbray, Swansea part ways with Duff](https://theprint.in/sport/soccer-sunderland-sack-manager-mowbray-swansea-part-ways-with-duff/1872230/)
+
+Article found but Couldn't summarize 
+(Reuters) - Sunderland have fired manager Tony Mowbray after 15 months in charge, the Championship side announced on Monday. The 60-year-old Mowbray, who took over from Alex Neil in August 2022,
+
+Mon, 04 Dec 2023 23:30:31 +0000
+### [Cloud-based software provider Five9 considers options for sale – Bloomberg News](https://theprint.in/tech/cloud-based-software-provider-five9-considers-options-for-sale-bloomberg-news/1872229/)
+
+Five9, a call center software firm, is reportedly considering a sale after a failed buyout by Zoom Video Communications two years ago. The news caused Five9's shares to increase by over 7%, bringing its market capitalization to $6.2 billion. Five9 is said to be working with advisors to assess interest from potential buyers, including Zoom, which has had discussions about reviving the deal. However, there is no certainty that a sale will occur as deliberations are ongoing. In October 2021, Zoom's proposed acquisition of Five9, valued at $14.7 billion, was terminated due to concerns raised by proxy advisory firms about Five9's growth prospects. Five9 declined to comment on the recent developments, while Zoom has not responded to requests for comment.
+
+Mon, 04 Dec 2023 23:30:20 +0000
+### [Adam Driver on biopic ‘Ferrari’: ‘the pressure was on to get it right’](https://theprint.in/entertainment/adam-driver-on-biopic-ferrari-the-pressure-was-on-to-get-it-right/1872227/)
+
+Article found but Couldn't summarize 
+LONDON (Reuters) - American actor Adam Driver once again puts on an Italian accent in his latest film, playing carmaker Enzo Ferrari in a new biopic directed by veteran Michael Mann. Set in 1957 in
+
+Mon, 04 Dec 2023 23:30:03 +0000
+### [Senior US official visits India, discusses alleged plot to kill Sikh separatist](https://theprint.in/india/senior-us-official-visits-india-discusses-alleged-plot-to-kill-sikh-separatist/1872225/)
+
+Article found but Couldn't summarize 
+By Kanishka Singh WASHINGTON (Reuters) - White House deputy national security adviser Jon Finer led a U.S. delegation to New Delhi on Monday where he noted the formation of an investigative panel by
+
+Mon, 04 Dec 2023 23:15:03 +0000
+### [US funds for Ukraine’s Russia defense nearly gone, White House warns](https://theprint.in/world/us-funds-for-ukraines-russia-defense-nearly-gone-white-house-warns/1872223/)
+
+Article found but Couldn't summarize 
+By Jeff Mason, Patricia Zengerle and Richard Cowan WASHINGTON (Reuters) -The United States is running out of time and money to help Ukraine fight its war against Russia, White House officials warned
+
 Mon, 04 Dec 2023 23:00:12 +0000
 ### [Philippines’ Marcos tests positive for COVID-19](https://theprint.in/world/philippines-marcos-tests-positive-for-covid-19/1872221/)
 
