@@ -1,3 +1,53 @@
+Tue, 05 Dec 2023 20:00:17 +0000
+### [Stocks, US yields fall as investors gauge economic sturdiness](https://theprint.in/economy/stocks-us-yields-fall-as-investors-gauge-economic-sturdiness/1873749/)
+
+Article found but Couldn't summarize 
+By Chuck Mikolajczak NEW YORK (Reuters) - A gauge of global stocks was poised for a second straight decline and U.S. Treasury yields fell on Tuesday, as investors attempted to assess the policy path
+
+Tue, 05 Dec 2023 20:00:04 +0000
+### [Peru court orders ex-President Fujimori’s release](https://theprint.in/world/peru-court-orders-ex-president-fujimoris-release/1873746/)
+
+Article found but Couldn't summarize 
+LIMA (Reuters) - Peru's constitutional court ordered the release of former President Alberto Fujimori, who is serving a 25-year sentence for human right abuses and corruption, according to local media
+
+Tue, 05 Dec 2023 19:47:02 +0000
+### [Kenyan President Ruto lauds India for advocating permanent seat for Africa in G20, amplifying voice of Global South](https://theprint.in/world/kenyan-president-ruto-lauds-india-for-advocating-permanent-seat-for-africa-in-g20-amplifying-voice-of-global-south/1873741/)
+
+Kenyan President William Samoei Ruto praised New Delhi for advocating for the African Union to become a permanent member of the G20. He commended Indian Prime Minister Narendra Modi for his leadership in the global south and for elevating the geopolitical standing of developing nations. President Ruto also highlighted the strong bilateral relationship between India and Kenya, expressing optimism that their partnership would benefit future generations. He emphasized the importance of dependable partnerships in times of global turmoil and lauded India's role as an exemplary sibling and loyal friend to Kenya. The article also mentions President Ruto's visit to India, where he paid tribute to Mahatma Gandhi and participated in ceremonial events at the Rashtrapati Bhavan.
+
+Tue, 05 Dec 2023 19:45:36 +0000
+### [Elon Musk’s xAI files to raise up to $1 billion in equity offering](https://theprint.in/tech/elon-musks-xai-files-to-raise-up-to-1-billion-in-equity-offering/1873738/)
+
+Article found but Couldn't summarize 
+(Reuters) - Elon Musk's artificial intelligence startup xAI has filed with the U.S. Securities and Exchange Commission to raise up to $1 billion in an equity offering, according to a regulatory filing
+
+Tue, 05 Dec 2023 19:45:28 +0000
+### [More talks required on AI rules even if there is a deal, French minister says](https://theprint.in/tech/more-talks-required-on-ai-rules-even-if-there-is-a-deal-french-minister-says/1873736/)
+
+Article found but Couldn't summarize 
+By Foo Yun Chee BRUSSELS (Reuters) - EU countries and lawmakers may have to meet for yet another round of talks to hammer out crucial details of rules for artificial intelligence even if they clinch a
+
+Tue, 05 Dec 2023 19:45:14 +0000
+### [Honduras bus crash leaves 12 dead, dozens injured](https://theprint.in/world/honduras-bus-crash-leaves-12-dead-dozens-injured/1873735/)
+
+Article found but Couldn't summarize 
+TEGUCIGALPA (Reuters) -A bus in Honduras skidded off a highway and fell into a ravine on Tuesday, killing at least 12 people and injuring around two dozen others, authorities said. The bus, carrying
+
+Tue, 05 Dec 2023 19:45:04 +0000
+### [Despite Gaza death toll soaring, U.S. unlikely to rethink weapons supplies to Israel](https://theprint.in/world/despite-gaza-death-toll-soaring-u-s-unlikely-to-rethink-weapons-supplies-to-israel/1873733/)
+
+The Biden administration is urging Israel to minimize civilian deaths in its offensive in southern Gaza. U.S. officials, including Vice President Kamala Harris and Secretary of State Antony Blinken, have publicly called for a more surgical approach to avoid heavy casualties. However, the U.S. is not willing to take stronger measures such as restricting military aid or harshly criticizing Israel. The U.S. believes that private negotiations are effective in influencing Israeli actions. Israel has faced international pressure, but Prime Minister Benjamin Netanyahu seems unmoved. The United States provides significant military aid to Israel, giving it leverage over the conduct of the war against Hamas. However, the Biden administration is cautious about reducing aid due to potential risks and political implications. While some progressive Democrats push for setting conditions on military aid and an immediate ceasefire, Biden is also concerned about pro-Israel voters and the upcoming presidential election. The fighting between Israel and Hamas resumed after a seven-day pause, resulting in a soaring death toll. Israel accuses Hamas of using human shields, while critics point out civilian casualties caused by intense airstrikes.
+
+Tue, 05 Dec 2023 19:30:16 +0000
+### [Soccer-Inter hit by double injury blow to De Vrij and Dumfries](https://theprint.in/sport/soccer-inter-hit-by-double-injury-blow-to-de-vrij-and-dumfries/1873729/)
+
+Inter Milan's Stefan de Vrij and Denzel Dumfries have sustained muscle injuries, according to the Serie A club. Both players were involved in Inter's recent 3-0 victory against Napoli, but De Vrij was substituted early in the game, while Dumfries left the field towards the end with a limp. The club did not specify a recovery timeline, but it is reported that both players are expected to be out for approximately 20 days. Inter Milan will face Real Sociedad in their final Champions League group stage match on December 12, with the top spot still up for grabs.
+
+Tue, 05 Dec 2023 19:15:04 +0000
+### [US announces visa bans after warning Israel over West Bank violence](https://theprint.in/world/us-announces-visa-bans-after-warning-israel-over-west-bank-violence/1873725/)
+
+The U.S. State Department has announced that it will impose visa bans on individuals who undermine peace, security, or stability in the occupied West Bank. The restrictions will target those who commit acts of violence or restrict civilians' access to essential services. Family members of these individuals may also be affected. President Joe Biden and other U.S. officials have urged Israel to take action against violence by Israeli settlers towards Palestinians in the West Bank. Secretary of State Antony Blinken stated that the U.S. is ready to use its own authorities to address the issue. The first visa bans will be implemented immediately, with more to follow in the coming days. Israelis with existing U.S. visas who are targeted will be notified of their revoked status. Israel has occupied the West Bank since 1967, building Jewish settlements that are considered illegal by most countries. Daily settler attacks have increased significantly, while the U.S. aims for Israel to hold accountable those responsible for the violence. Washington will also engage with the Palestinian Authority to address Palestinian attacks against Israelis.
+
 Tue, 05 Dec 2023 19:00:33 +0000
 ### [Soccer-Barcelona keeper Ter Stegen to undergo back surgery](https://theprint.in/sport/soccer-barcelona-keeper-ter-stegen-to-undergo-back-surgery/1873722/)
 
