@@ -1,3 +1,9 @@
+Tue, 05 Dec 2023 10:30:00 +0530
+### [How does GPS work? | Explained](https://www.thehindu.com/sci-tech/science/global-positioning-system-relativity-gnss-navic-explained/article67606417.ece)
+
+Article found but Couldn't summarize 
+Satellite navigation systems are currently operated by Australia, China, EU, India, Japan, South Korea, Russia, the UK and the US.
+
 Mon, 04 Dec 2023 18:57:10 +0530
 ### [Regulating deepfakes and generative AI in India | Explained](https://www.thehindu.com/news/national/regulating-deepfakes-generative-ai-in-india-explained/article67591640.ece)
 

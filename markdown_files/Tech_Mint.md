@@ -1,3 +1,21 @@
+Tue, 05 Dec 2023 11:18:05 +0530
+### [From OnePlus Nord CE 3 5G to Motorola Edge 40 Neo; top 5 smartphones you can buy under  ₹25,000 in December 2023](https://www.livemint.com/technology/gadgets/from-oneplus-nord-ce-3-5g-to-motorola-edge-40-neo-top-5-smartphones-you-can-buy-under-rs-25-000-in-december-2023-11701752235677.html)
+
+Article found but Couldn't summarize 
+OnePlus Nord CE 3 5G, Motorola Edge 40 Neo, iQOO Z7 Pro and Realme 11 Pro 5G are some of the top phones you can buy under  ₹25,000 in December 2023.
+
+Tue, 05 Dec 2023 08:18:04 +0530
+### [Top 5 phones to buy under  ₹30,000 in December 2023: Pixel 6a, Samsung F54 5G and more](https://www.livemint.com/technology/gadgets/top-5-phones-to-buy-under-rs-30-000-in-december-2023-pixel-6a-samsung-f54-5g-and-more-11701740980677.html)
+
+Article found but Couldn't summarize 
+Motorola Edge 40, Google Pixel 6a Samsung F54 5G are some of the top smartphones you can buy under  ₹30,000 in India in the month of December.
+
+Tue, 05 Dec 2023 06:54:09 +0530
+### [GTA 6 trailer launched: Check release date, new characters and all that's confirmed](https://www.livemint.com/technology/tech-news/gta-6-trailer-launched-check-release-date-new-characters-and-all-thats-confirmed-11701737286235.html)
+
+Article found but Couldn't summarize 
+Rockstar Games releases highly anticipated Grand Theft Auto 6 trailer, confirming leaks and announcing release for PlayStation 5 and Xbox Series X/S in 2025.
+
 Mon, 04 Dec 2023 18:24:49 +0530
 ### [GTA 6 gameplay leak: TikTok user unveils potential sneak peek into Vice City-like urban landscape](https://www.livemint.com/technology/gta-6-gameplay-leak-tiktok-user-unveils-potential-sneak-peek-into-vice-city-like-urban-landscape-11701693836820.html)
 

@@ -1,3 +1,21 @@
+Tue, 05 Dec 2023 11:25:49 +0530
+### [Washed Away: Apple iPhone’s production at Foxconn, Pegatron Chennai facilities stopped due to heavy rains](https://www.firstpost.com/tech/washed-away-apple-iphones-production-at-foxconn-pegatran-chennai-facilities-due-to-heavy-rains-13466642.html)
+
+Article found but Couldn't summarize 
+Washed Away: Apple iPhone’s production at Foxconn, Pegatron Chennai facilities stopped due to heavy rains
+
+Tue, 05 Dec 2023 10:44:05 +0530
+### [GTA VI leaks: Maps leaked hours before trailer launch, reportedly by the son of Rockstar employee](https://www.firstpost.com/tech/gta-vi-leaks-maps-leaked-hours-before-trailer-launch-reportedly-by-the-son-of-rockstar-employee-13466452.html)
+
+Article found but Couldn't summarize 
+GTA VI leaks: Maps leaked hours before trailer launch, reportedly by the son of Rockstar employee
+
+Tue, 05 Dec 2023 10:39:27 +0530
+### [Grand Theft Auto VI Trailer launch: Here’s all the major easter eggs you missed](https://www.firstpost.com/tech/grand-theft-auto-vi-trailer-launch-heres-all-the-major-easter-eggs-you-missed-13466192.html)
+
+Article found but Couldn't summarize 
+Grand Theft Auto VI Trailer launch: Here’s all the major easter eggs you missed
+
 Mon, 04 Dec 2023 16:45:39 +0530
 ### [Bitcoin surges past $41,000, at its highest in 2023. But should people invest right now?](https://www.firstpost.com/tech/bitcoin-surges-past-42000-at-its-highest-in-2023-but-should-people-invest-right-now-13464372.html)
 

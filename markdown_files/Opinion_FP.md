@@ -1,3 +1,8 @@
+Tue, 05 Dec 2023 08:54:16 +0530
+### [Despite Telangana win, Congress should worry about BJP in the South](https://www.firstpost.com/opinion/despite-telangana-win-congress-should-worry-about-bjp-in-the-south-13465862.html)
+
+The article discusses the recent win for the Congress party in Telangana and analyzes the party's strategy. It criticizes the Congress for denigrating the North and focusing on South India as a consolation. The article also highlights the BJP's growing presence in South India, with the party having more MPs than the Congress in Parliament and increasing its vote share in Telangana. It mentions that the BJP has the potential to make gains in Andhra Pradesh, Tamil Nadu, Kerala, and Karnataka. The author warns the Congress against complacency and emphasizes that the BJP poses a significant challenge in the upcoming 2024 elections.
+
 Mon, 04 Dec 2023 18:51:28 +0530
 ### [Assembly poll results 2023: How PM Modi remains unstoppable for 2024 elections](https://www.firstpost.com/opinion/assembly-poll-results-2023-how-pm-modi-remains-unstoppable-for-2024-elections-13464812.html)
 

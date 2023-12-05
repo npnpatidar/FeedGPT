@@ -1,3 +1,27 @@
+Tue, 05 Dec 2023 01:52:42 +0000
+### [COP28 climate meeting: The fossil fuel question](https://indianexpress.com/article/explained/explained-climate/cop28-climate-meeting-the-fossil-fuel-question-9054651/)
+
+Article found but Couldn't summarize
+
+Tue, 05 Dec 2023 01:50:49 +0000
+### [Lalduhoma & ZPM: behind the remarkable result in Mizoram assembly elections](https://indianexpress.com/article/explained/explained-politics/lalduhoma-zpm-behind-the-remarkable-result-in-mizoram-9054643/)
+
+The Zoram People's Movement (ZPM) has achieved a significant victory in the Mizoram Assembly election, defeating the long-standing Mizo National Front (MNF) and securing the opportunity to form the next government. The emergence of the ZPM is groundbreaking as it marks the first time a party other than the MNF or the Congress has come into power in Mizoram.
+
+Formed in 2017, the ZPM is a coalition of six small regional parties and civil society groups that aimed to combat corruption in governance. One of the key parties within the coalition is the Zoram Nationalist Party, founded by Lalduhoma, who is expected to become the Chief Minister.
+
+During the 2018 Assembly elections, the ZPM was not officially recognized as a political party. However, they supported 38 Independent candidates, eight of whom were victorious, making the coalition the primary opposition to the MNF. The ZPM outperformed the Congress, which had been in power for two previous terms but only managed to secure five seats in the 2018 elections. Lalduhoma himself defeated the incumbent Congress Chief Minister at the Serchhip constituency.
+
+Over the past five years, the ZPM has seen significant changes. In 2019, it gained recognition as a political party and transformed from a loose coalition into a viable alternative. It has since achieved notable victories, including Lalduhoma winning the Serchhip by-election in 2021 after being disqualified as an Independent candidate. The party also won all 11 seats in the Lunglei municipal council and all seven seats in the Zemabawk local council by-elections, both crucial wins.
+
+The ZPM has attracted young candidates, including local celebrities like Jeje Lalpekhlua and Lalnghinglova Hmar, who have defeated sitting ministers. Lalduhoma, with a history in politics dating back to his time in the Indian National Congress and later the ZNP, has played a significant role in the party's progress.
+
+Traditionally, power in Mizoram has alternated between the MNF and Congress. However, the ZPM has disrupted this cycle by presenting itself as a corruption-free alternative. It capitalized on accumulated anti-incumbency against both established parties and promised administrative reforms, land reforms, and economic reforms, including support prices for local crops.
+
+While positioning itself as a fresh force, the ZPM acknowledged similarities with the MNF, particularly regarding Mizo nationalism. Both parties supported the unification of Zo territory, challenging the perception that Mizo nationalism belongs exclusively to the MNF. The ZPM differentiated itself as the authentic regional voice, accusing the MNF of losing its regional identity by aligning with the BJP-led National Democratic Alliance.
+
+Overall, the ZPM's victory represents a significant shift in Mizoram's political landscape, breaking away from the dominance of the MNF and Congress and offering a viable alternative focused on combating corruption and addressing key issues.
+
 Tue, 05 Dec 2023 00:30:37 +0000
 ### [Navy Day: As PM Modi praises Shivaji’s naval prowess, a look at the Maratha Navy](https://indianexpress.com/article/explained/explained-history/navy-day-modi-shivaji-navy-maratha-9054536/)
 

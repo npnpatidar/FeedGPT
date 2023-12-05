@@ -1,3 +1,39 @@
+2023-12-05T11:45:34+05:30
+### [Indian Banks Write Off Rs 10.6 Lakh Crore in 5 Years, Mostly Linked to Large Corporates: Report](https://thewire.in/banking/indian-banks-write-off-rs-10-6-lakh-crore-in-5-years-mostly-linked-to-large-corporates-report)
+
+No Article text 
+Approximately 2,300 borrowers, each with loans exceeding Rs 5 crore, deliberately defaulted on around Rs 2 lakh crore.
+
+2023-12-05T11:30:17+05:30
+### [What Does the GDP Contraction in the Agricultural Sector Indicate for India’s Food Security?](https://thewire.in/agriculture/what-does-the-gdp-contraction-in-the-agricultural-sector-indicate-for-indias-food-security)
+
+No Article text 
+In the agriculture sector, GDP contracted by 1.2% in the second quarter of this fiscal year. This could be a warning sign for India's food security due to several reasons.
+
+2023-12-05T10:52:06+05:30
+### [Congress Has No Option But to Recover in Heartland States in 2024](https://thewire.in/politics/congress-has-no-option-but-to-recover-in-heartland-states-in-2024)
+
+No Article text 
+Madhya Pradesh, Rajasthan and Chhattisgarh are crucial to this Opposition project because the BJP and Congress have a straight fight here.
+
+2023-12-05T10:23:59+05:30
+### [The Myth of BJP's Hat-Trick and What the Statistics Really Say](https://thewire.in/politics/bjp-assembly-elections-hat-trick-2024)
+
+No Article text 
+This is how psychological games are played and won. Inflate a small balloon of truth so big that every contradictory truth is hidden behind it.
+
+2023-12-05T10:03:18+05:30
+### [Over 13,000 SC, ST, OBC Students Dropped Out of Central Universities, IITs, IIMs Since 2018](https://thewire.in/education/over-13000-sc-st-obc-students-dropped-out-of-central-universities-iits-iims-since-2018)
+
+No Article text 
+‘Elite’ institutions like IITs and IIMs have been made headlines in the wake of alleged rampant casteism and other discriminatory practices faced by students belonging to these communities on campus.
+
+2023-12-05T09:35:37+05:30
+### [New Post Office Act Will Allow Employees to Open, Detain Parcels](https://thewire.in/government/new-post-office-bill-employees-open-detain-parcels)
+
+No Article text 
+A postal officer will also be empowered to deliver an item that is received from a domestic or international source to customs or any concerned authority "in case there is suspicion of duty evasion or it is prohibited under the law".
+
 2023-12-04T23:12:48+05:30
 ### [Six Nepali Youths Fighting for Russian Army in Ukraine War Killed](https://thewire.in/south-asia/six-nepali-youths-fighting-for-russian-army-in-ukraine-war-killed)
 

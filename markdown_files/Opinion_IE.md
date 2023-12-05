@@ -1,3 +1,23 @@
+Tue, 05 Dec 2023 01:40:07 +0000
+### [Express View on stock market surge: Eye on risk](https://indianexpress.com/article/opinion/editorials/stock-market-surge-state-assembly-elections-hindi-heartland-bse-sensex-9054489/)
+
+The BJP's strong performance in the recent state elections in India has led to a surge in stock markets, with the BSE Sensex rising 2.05 percent and reaching new highs. Investors are optimistic about reduced policy and political risks leading up to the general elections next year. This positive market sentiment is also influenced by improving economic conditions, as GDP growth for the second quarter exceeded expectations at 7.6 percent and inflation has moderated. Concerns over crude oil prices have diminished, with oil currently trading below $80 per barrel. The US economy is performing better than expected, and inflation has eased in both the US and Eurozone. Foreign investors have reversed their trend of selling, with a significant inflow of Rs 9,001 crore in November. The upcoming monetary policy committee meeting is expected to maintain interest rates, but market participants will be looking for guidance on liquidity and the central bank's outlook on growth and inflation.
+
+Tue, 05 Dec 2023 01:35:39 +0000
+### [Express View: Rock band Kiss’s digital avatars and the immortal artist](https://indianexpress.com/article/opinion/editorials/express-view-rock-band-kisss-digital-avatars-and-the-immortal-artist-9054514/)
+
+Article found but Couldn't summarize
+
+Tue, 05 Dec 2023 01:30:41 +0000
+### [No, one Centre of Excellence in Transgender Care is not enough](https://indianexpress.com/article/opinion/editorials/aiims-transgender-care-centre-conversion-therapy-unscientific-practices-9054488/)
+
+Article found but Couldn't summarize
+
+Tue, 05 Dec 2023 00:15:43 +0000
+### [Express View: In Mizoram, ringing in the new](https://indianexpress.com/article/opinion/editorials/mizoram-assembly-elections-zpm-victory-in-mizoram-polls-mizo-national-front-congress-9054511/)
+
+Article found but Couldn't summarize
+
 Mon, 04 Dec 2023 13:55:44 +0000
 ### [Rajasthan, MP, Chhattisgarh results show that freebies don’t strike a chord with voters](https://indianexpress.com/article/opinion/columns/rajasthan-mp-chhattisgarh-results-bjp-win-congress-defeat-9054291/)
 

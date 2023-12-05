@@ -1,3 +1,123 @@
+Tue, 05 Dec 2023 06:17:35 +0000
+### [Pitch Perfect India: An Award-Winning Sales Training Company in India](https://theprint.in/ani-press-releases/pitch-perfect-india-an-award-winning-sales-training-company-in-india/1872479/)
+
+Article found but Couldn't summarize 
+VMPL New Delhi [India], December 5: Pitch Perfect India, a reputed B2B and B2C sales and leadership training company established in 2017, bagged the prestigious Best Sales Training Company of the Year Award at the 3rd Sales L&#38;D Vision and Innovation Summit and Awards 2023, organized by Transformance. The achievement is a testament of the [&#8230;]
+
+Tue, 05 Dec 2023 06:17:25 +0000
+### [How to Calculate Business Loan EMI?](https://theprint.in/ani-press-releases/how-to-calculate-business-loan-emi/1872477/)
+
+Article found but Couldn't summarize 
+VMPL New Delhi [India], December 5: Securing a business loan is significant for entrepreneurs looking to fund their ventures or expand existing operations. Regarding this, one crucial aspect to comprehend when taking a business loan is to know Equated Monthly Installment (EMI). It&#8217;s essentially the amount a business must pay each month to repay the [&#8230;]
+
+Tue, 05 Dec 2023 06:17:14 +0000
+### [How Health Insurance Works: Key Terms and Concepts](https://theprint.in/ani-press-releases/how-health-insurance-works-key-terms-and-concepts/1872475/)
+
+Article found but Couldn't summarize 
+NewsVoir Gurgaon (Haryana) [India], December 5: Let&#8217;s suppose you wake up one morning feeling a little under the weather. You decide to see a doctor and go to your neighbourhood clinic. The doctor examines you, prescribes necessary medicine, and suggests specific tests. You leave the clinic feeling relieved knowing that your health is well taken [&#8230;]
+
+Tue, 05 Dec 2023 06:17:01 +0000
+### [Kenyan President William Ruto pays homage to Mahatma Gandhi at Rajghat](https://theprint.in/world/kenyan-president-william-ruto-pays-homage-to-mahatma-gandhi-at-rajghat/1872473/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 5 (ANI): Kenyan President William Ruto paid tribute to Mahatma Gandhi at his memorial at Rajghat in New Delhi on Tuesday. Taking to X, the Ministry of External Affairs official spokesperson stated, &#8220;Paying homage to Mahatma. President @WilliamsRuto of Kenya laid a wreath at Rajghat and paid his respects to Mahatma [&#8230;]
+
+Tue, 05 Dec 2023 06:15:31 +0000
+### [UK home secretary travels to Rwanda to sign new asylum treaty](https://theprint.in/world/uk-home-secretary-travels-to-rwanda-to-sign-new-asylum-treaty/1872471/)
+
+Article found but Couldn't summarize 
+By Andrew MacAskill and Michael Holden LONDON (Reuters) -British Home Secretary James Cleverly will arrive in Rwanda on Tuesday to sign a new treaty to send asylum seekers to the African nation after
+
+Tue, 05 Dec 2023 06:15:27 +0000
+### [‘CID’ fame actor Dinesh Phadnis dies at 57](https://theprint.in/feature/cid-fame-actor-dinesh-phadnis-dies-at-57/1872470/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 5 (PTI) “CID” fame actor Dinesh Phadnis passed away at midnight at a hospital here following health complications, actor-friend Aditya Srivastava said. He was 57. The actor, best known for his appearance as Fredericks in popular TV show “CID”, was admitted to Tunga Hospital in suburban Mumbai a few days ago. “Dinesh has [&#8230;]
+
+Tue, 05 Dec 2023 06:15:25 +0000
+### [Four children and an adult injured in Pakistan blast](https://theprint.in/world/four-children-and-an-adult-injured-in-pakistan-blast/1872469/)
+
+Article found but Couldn't summarize 
+By Mushtaq Ali PESHAWAR, Pakistan (Reuters) -Four children, aged 7 to 10, and an adult were injured in an explosion in the northwestern Pakistani city of Peshawar early on Tuesday, hospital and rescue
+
+Tue, 05 Dec 2023 06:15:15 +0000
+### [Orissa HC grants bail to honey trap scandal accused Archana Nag in ED case](https://theprint.in/india/orissa-hc-grants-bail-to-honey-trap-scandal-accused-archana-nag-in-ed-case/1872467/)
+
+Article found but Couldn't summarize 
+Cuttack (Odisha), Dec 5 (PTI) The Orissa High Court has granted bail to honey trap scandal accused Archana Nag in an ED case registered against her. A single judge bench of Justice G Satapathy on Monday allowed the applicant to furnish a bail bond of Rs 2 lakh. The accused has been warned to not [&#8230;]
+
+Tue, 05 Dec 2023 06:15:15 +0000
+### [A decade after Mandela’s death, his pro-Palestinian legacy lives on](https://theprint.in/world/a-decade-after-mandelas-death-his-pro-palestinian-legacy-lives-on/1872466/)
+
+Article found but Couldn't summarize 
+By Carien du Plessis and shafiek tassiem JOHANNESBURG (Reuters) - Days after his release from 27 years in prison in February 1990, anti-apartheid icon Nelson Mandela gave Palestinian leader Yasser
+
+Tue, 05 Dec 2023 06:15:06 +0000
+### [Stigma, regulatory barriers delay mpox response in country that needs it most](https://theprint.in/world/stigma-regulatory-barriers-delay-mpox-response-in-country-that-needs-it-most/1872465/)
+
+Article found but Couldn't summarize 
+By Jennifer Rigby LONDON (Reuters) - Vaccines and treatments that could help tackle an mpox epidemic in the Democratic Republic of Congo are lying unused outside the country despite a death rate far
+
+Tue, 05 Dec 2023 06:15:03 +0000
+### [Michaung to make landfall in four hours, over 9000 people evacuated in coastal Andhra Pradesh](https://theprint.in/india/michaung-to-make-landfall-in-four-hours-over-9000-people-evacuated-in-coastal-andhra-pradesh/1872464/)
+
+Article found but Couldn't summarize 
+Amaravati, Dec 5 (PTI) About 9,450 people were evacuated to safety as severe cyclonic storm Michaung is expected to make landfall close to Bapatla in south Andhra Pradesh coast within the next four hours. As per the IMD, during landfall, Michaung is expected to bring gales with speeds of 90 – 100 km per hour, [&#8230;]
+
+Tue, 05 Dec 2023 06:02:16 +0000
+### [“India, Kenya great friends”: Visiting Kenyan President William Ruto calls for consolidation of bilateral ties](https://theprint.in/world/india-kenya-great-friends-visiting-kenyan-president-william-ruto-calls-for-consolidation-of-bilateral-ties/1872461/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 5 (ANI): Terming India and Kenya as &#8220;great friends,&#8221; visiting Kenyan President William Samoei Ruto has called for the need to consolidate the relationship between the two countries, which had diplomatic engagement at different levels since 1948. Addressing reporters after receiving a ceremonial welcome at Rashtrapati Bhavan, Ruto said, &#8220;As you [&#8230;]
+
+Tue, 05 Dec 2023 06:02:02 +0000
+### [Ajay Devgn, Tabu’s ‘Auron Mein Kahan Dum Tha’ to release on this date](https://theprint.in/feature/ajay-devgn-tabus-auron-mein-kahan-dum-tha-to-release-on-this-date/1872459/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 5 (ANI): Actor Ajay Devgn on Tuesday announced the official release date of his upcoming film &#8216;Auron Mein Kahan Dum Tha&#8217;. Taking to Instagram, Ajay shared a post which he captioned, &#8220;Announcing the release date of my collaboration with Neeraj Pandey &#8211; Auron Mein Kahan Dum Tha, on April 26th.&#8221; &#160; [&#8230;]
+
+Tue, 05 Dec 2023 06:00:26 +0000
+### [Services sector activity in India hits 1-year low in Nov on slower order growth, output: PMI](https://theprint.in/economy/services-sector-activity-in-india-hits-1-year-low-in-nov-on-slower-order-growth-output-pmi/1872457/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 5 (PTI) The services sector growth in India fell to a one-year low in November on softer expansions in new work intakes and output, despite receding price pressures, a monthly survey said on Tuesday. The seasonally adjusted S&#38;P Global India Services Business Activity Index fell from 58.4 in October to a one-year [&#8230;]
+
+Tue, 05 Dec 2023 06:00:21 +0000
+### [Israel intensifies southern Gaza offensive; US, UN urge civilian protections](https://theprint.in/world/israel-intensifies-southern-gaza-offensive-us-un-urge-civilian-protections/1872456/)
+
+Article found but Couldn't summarize 
+By Arafat Barbakh and Mohammad Salem GAZA (Reuters) -Israeli forces pressed ahead with their air and ground bombardment of southern Gaza Strip, killing and wounding dozens of Palestinians, even as the
+
+Tue, 05 Dec 2023 06:00:14 +0000
+### [Five injured in blast in the Pakistani city of Peshawar](https://theprint.in/world/five-injured-in-blast-in-the-pakistani-city-of-peshawar/1872455/)
+
+Article found but Couldn't summarize 
+By Mushtaq Ali PESHAWAR, Pakistan (Reuters) - Four children, aged 7 to 10, and an adult were injured in an explosion in the northwestern Pakistani city of Peshawar early on Tuesday, hospital and
+
+Tue, 05 Dec 2023 06:00:14 +0000
+### [Assam illegal immigrants: SC hearing pleas to examine validity of Citizenship Act section 6A](https://theprint.in/india/assam-illegal-immigrants-sc-hearing-pleas-to-examine-validity-of-citizenship-act-section-6a/1872454/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 5 (PTI) A five-judge Supreme Court bench on Tuesday commenced hearing on 17 petitions to examine the constitutional validity of section 6A of the Citizenship Act relating to illegal immigrants in Assam. The Constitution bench headed by Chief Justice D Y Chandrachud is hearing submissions advanced by senior advocate Shyam Divan, appearing [&#8230;]
+
+Tue, 05 Dec 2023 06:00:04 +0000
+### [Experts say they warned of dangers of climbing Indonesia’s Mt. Marapi after 13 die in eruption](https://theprint.in/world/experts-say-they-warned-of-dangers-of-climbing-indonesias-mt-marapi-after-13-die-in-eruption/1872452/)
+
+Article found but Couldn't summarize 
+JAKARTA (Reuters) - Indonesia's volcanology agency had warned since 2011 that it was unsafe to climb the country's active Marapi volcano, the organisation's chief said, days after the peak erupted and
+
+Tue, 05 Dec 2023 06:00:02 +0000
+### [Poll adjourned in Rajasthan Assembly seat due to candidate’s death now on Jan 5](https://theprint.in/india/poll-adjourned-in-rajasthan-assembly-seat-due-to-candidates-death-now-on-jan-5/1872451/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 5 (PTI) Polling to the Karanpur Assembly seat of Rajasthan that was &#8220;adjourned&#8221; following the death of the Congress candidate will be held on January 5, 2024, the Election Commission said on Tuesday. Counting of votes will be held on January 8, the poll panel said. Polling in 199 of the 200 [&#8230;]
+
+Tue, 05 Dec 2023 05:47:02 +0000
+### [Saba Azad left in awe of Hrithik Roshan’s look as Squadron Leader Patty from ‘Fighter’](https://theprint.in/feature/saba-azad-left-in-awe-of-hrithik-roshans-look-as-squadron-leader-patty-from-fighter/1872446/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 5 (ANI): Actor Hrithik Roshan&#8217;s girlfriend Saba Azad has expressed her admiration for his look from &#8216;Fighter&#8217;. Recently, the makers unveiled the poster of the film showcasing him as Squadron Leader Shamsher Pathania aka Patty. Saba took to her Instagram stories to share the poster of the film and praising his [&#8230;]
+
 Tue, 05 Dec 2023 00:45:29 +0000
 ### [GM ‘focused on righting’ ship at self-driving Cruise unit -CEO](https://theprint.in/tech/gm-focused-on-righting-ship-at-self-driving-cruise-unit-ceo/1872255/)
 

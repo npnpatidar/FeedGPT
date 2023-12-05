@@ -1,3 +1,31 @@
+Tue, 05 Dec 2023 11:43:09 +0530
+### [Cruelty by husband, kidnapping &amp; more: How crimes against women are on the rise again in India](https://www.firstpost.com/explainers/cruelty-by-husband-kidnapping-more-how-crimes-against-women-are-on-the-rise-again-in-india-13466122.html)
+
+Article found but Couldn't summarize 
+Cruelty by husband, kidnapping &amp;amp; more: How crimes against women are on the rise again in India
+
+Tue, 05 Dec 2023 10:44:59 +0530
+### [Increase in minimum salary, NHS surcharge hike: How UK is planning to cut migration](https://www.firstpost.com/explainers/increase-in-minimum-salary-nhs-surcharge-hike-how-uk-is-planning-to-cut-migration-13466372.html)
+
+UK Prime Minister Rishi Sunak has announced measures to reduce the number of migrants arriving through legal means in an effort to address record net migration figures. The move comes as official estimates reveal a record high of 745,000 net migrations to the UK in 2022, surpassing the number of individuals leaving the country. The new measures include increasing the minimum salary for skilled foreign workers applying for a visa to work in the UK. Other key measures announced include restrictions on bringing family dependents, new limitations on the Health and Care visa, an increase in the NHS surcharge, cracking down on cut-price labor, and restrictions on allowing dependents to enter the UK. These actions are being taken ahead of the upcoming general election, where immigration is expected to be a key issue. The Conservative government, led by Boris Johnson, had promised to reduce net migration numbers but has seen an increase since the UK formally left the EU in January 2020. The urgency to address this issue is heightened by pressure from MPs and lagging behind the Labour party in opinion polls.
+
+Tue, 05 Dec 2023 10:02:12 +0530
+### [Cyclone Michaung to make landfall in Andhra: Why is the storm so deadly?](https://www.firstpost.com/explainers/cyclone-michaung-landfall-andhra-pradesh-chennai-rainfall-storm-deadly-destruction-13466172.html)
+
+Article found but Couldn't summarize 
+Cyclone Michaung to make landfall in Andhra: Why is the storm so deadly?
+
+Tue, 05 Dec 2023 09:11:40 +0530
+### [150 million tonnes and counting: The carbon footprint of the Russia-Ukraine war](https://www.firstpost.com/explainers/150-million-tonnes-and-counting-the-carbon-footprint-of-the-russia-ukraine-war-13465882.html)
+
+Article found but Couldn't summarize 
+150 million tonnes and counting: The carbon footprint of the Russia-Ukraine war
+
+Tue, 05 Dec 2023 08:29:28 +0530
+### [In Graphics | How cyclones form and their devastating impact](https://www.firstpost.com/explainers/in-graphics-how-cyclones-form-and-their-devastating-impact-13465132.html)
+
+The article discusses the impact of cyclonic storm 'Michaung' in Chennai, India. The storm has caused heavy rainfall and resulted in at least five deaths. The Indian Meteorological Department (IMD) warned of heavy to very heavy rainfall in north-coastal Tamil Nadu and Puducherry. Chennai experienced severe waterlogging, with areas like Wallajah Road, Mount Road, and Anna Salai being inundated. The popular Marina Beach was also flooded, causing road blockages. The Tamil Nadu government declared a public holiday in several districts. The article briefly mentions the conversation between Amit Shah and the Chief Minister of Tamil Nadu regarding the intense rains and the Indian Army's rescue efforts in affected areas. Cyclone Michaung is expected to make landfall in Andhra Pradesh's Bapatla, bringing strong winds and heavy rainfall. The rainfall in Chennai is attributed to the cyclone, which is swirling in the Bay of Bengal.
+
 Mon, 04 Dec 2023 21:02:26 +0530
 ### [The COP28 chief is dead wrong. Science says we need to quickly do away with fossil fuels](https://www.firstpost.com/explainers/the-cop28-chief-is-dead-wrong-science-says-we-need-to-quickly-do-away-with-fossil-fuels-13465232.html)
 
