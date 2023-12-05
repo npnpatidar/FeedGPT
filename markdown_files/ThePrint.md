@@ -1,3 +1,81 @@
+Tue, 05 Dec 2023 22:00:21 +0000
+### [Soccer-England’s Olympic dreams over despite 6-0 rout of Scotland](https://theprint.in/sport/soccer-englands-olympic-dreams-over-despite-6-0-rout-of-scotland/1873804/)
+
+Article found but Couldn't summarize 
+GLASGOW, Scotland (Reuters) - England Lionesses' dreams of a Paris Olympic berth are over despite a 6-0 thrashing of Scotland on Tuesday in their final Nations League group game. Lucy Bronze scored a
+
+Tue, 05 Dec 2023 22:00:03 +0000
+### [Sexual assaults in Canadian military have risen significantly -data](https://theprint.in/world/sexual-assaults-in-canadian-military-have-risen-significantly-data/1873802/)
+
+Sexual assaults in the Canadian military have seen a significant increase in 2022 compared to 2018, according to Statistics Canada. Around 1,960 members of the military, or 3.5% of the total, reported being sexually assaulted by fellow armed forces personnel, up from 1.6% in 2018. The majority of complaints (75%) were made by women. The military has faced longstanding pressure regarding allegations of sexual misconduct by senior officers. A survey conducted by Statscan revealed that 64% of victims did not report the incidents they experienced due to a belief that it would not make a difference. General Wayne Eyre, chief of the defense staff, expressed disappointment at the prevalence of sexual misconduct and acknowledged the need for substantial efforts to address the issue. An official investigation in the previous year recommended external civilian authorities to handle sex crime investigations due to the unsatisfactory handling of offenses by military courts over the past two decades.
+
+Tue, 05 Dec 2023 21:47:02 +0000
+### [Pakistan: Death toll in Chilas bus firing rises to 10](https://theprint.in/world/pakistan-death-toll-in-chilas-bus-firing-rises-to-10/1873800/)
+
+Article found but Couldn't summarize 
+Gilgit Baltistan [PoK], December 6 (ANI): The death toll from the terrorist attack on a passenger bus in Gilgit Baltistan&#8217;s Chilas rose to 10 as another man, who sustained bullet injuries, died on Tuesday, ARY News reported. At least 10 people, including two soldiers, were killed and 21 passengers were wounded when a Rawalpindi-bound bus [&#8230;]
+
+Tue, 05 Dec 2023 21:45:29 +0000
+### [Motor racing-Mercedes and F1 angered by FIA compliance probe](https://theprint.in/sport/motor-racing-mercedes-and-f1-angered-by-fia-compliance-probe/1873798/)
+
+Mercedes and Formula One are displeased with the FIA's investigation into allegations that a team boss received confidential information from an employee of the commercial rights holder. The team principal was not identified, but reports mentioned Mercedes' Toto Wolff and his wife Susie, who works for Formula One as head of the all-female F1 Academy. The FIA compliance department is currently looking into the matter. Both Mercedes and Formula One expressed confidence in the integrity of their teams and denied any unauthorised disclosure of information. The website reported that some team principals had raised concerns about a potential conflict of interest to FIA President Mohammed Ben Sulayem, leading him to request an investigation by the compliance department. The FIA spokesman refrained from commenting on the issue. Conflict of interest concerns were previously raised when Shaila Ann-Rao, a former special advisor to Wolff, served as the FIA's interim head of Formula One but left shortly afterward.
+
+Tue, 05 Dec 2023 21:45:20 +0000
+### [Soccer-Hwang Hee-chan accepts Burnley gift as Wolves win 1-0](https://theprint.in/sport/soccer-hwang-hee-chan-accepts-burnley-gift-as-wolves-win-1-0/1873796/)
+
+Wolverhampton Wanderers secured a 1-0 victory over Burnley in their Premier League match at Molineux. The winning goal came from Hwang Hee-chan, who capitalized on a defensive mistake by Burnley. Wolves goalkeeper Daniel Bentley made an impressive double-save to deny Jay Rodriguez and Josh Brownhill. This win moves Wolves up to 12th place in the table, while Burnley remains in 19th place. Burnley has yet to earn a point after conceding the first goal this season. Wolves controlled most of the game and secured their first clean sheet in 12 matches. Despite a few opportunities, Burnley did not create enough chances to deserve a draw.
+
+Tue, 05 Dec 2023 21:45:05 +0000
+### [Jamie Foxx makes first public appearance since hospitalization](https://theprint.in/entertainment/jamie-foxx-makes-first-public-appearance-since-hospitalization/1873795/)
+
+Actor Jamie Foxx made his first public appearance after experiencing a health scare in April. During his acceptance speech for the Vanguard Award from the Critics Choice Association's Celebration of Cinema & Television, he revealed that six months ago, he was unable to walk. Foxx described his medical condition as life-threatening but did not disclose specific details. He expressed gratitude for the prayers he received and thanked his sister and daughter for their support. Foxx also shared a humorous anecdote about a woman who insisted on seeing his face while he was checked into a facility in Chicago. The actor became emotional as he mentioned other artists in attendance, indicating his optimism for the future. Foxx's hospitalization garnered tributes from various well-known figures, and he previously posted on Instagram in May to update his fans on his recovery.
+
+Tue, 05 Dec 2023 21:45:03 +0000
+### [SpiceJet flight diverted to Karachi due to medical emergency, passenger recovers after treatment](https://theprint.in/world/spicejet-flight-diverted-to-karachi-due-to-medical-emergency-passenger-recovers-after-treatment/1873794/)
+
+A SpiceJet flight traveling from Ahmedabad to Dubai was diverted to Karachi's Jinnah International Airport due to a medical emergency on board. The passenger, Dharwal Darmesh, a 27-year old, suffered a suspected heart attack. The Civil Aviation Authority (CAA) provided emergency medical attention to the passenger whose sugar levels had fallen and was experiencing palpitations. After receiving medical treatment, the passenger recovered, and the flight was refueled and resumed its journey to Dubai. The diversion occurred on December 6, 2023. This article was generated by the PTI news service, and ThePrint assumes no responsibility for its content.
+
+Tue, 05 Dec 2023 21:32:01 +0000
+### [Pak soldier killed in exchange of fire with terrorists in South Waziristan](https://theprint.in/world/pak-soldier-killed-in-exchange-of-fire-with-terrorists-in-south-waziristan/1873792/)
+
+Article found but Couldn't summarize 
+Waziristan [Pakistan], December 6 (ANI): A Pakistan army personnel was killed in an exchange of fire between troops and terrorists in the South Waziristan district, ARY News reported quoting the Inter-Services Public Relations (ISPR). The ISPR said in a statement that an exchange of fire took place between troops and terrorists in the Sararogha area [&#8230;]
+
+Tue, 05 Dec 2023 21:30:05 +0000
+### [US engaging with Venezuela amid sanctions reconsideration -official](https://theprint.in/world/us-engaging-with-venezuela-amid-sanctions-reconsideration-official/1873790/)
+
+Article found but Couldn't summarize 
+By Julia Symmes Cobb and Marianna Parraga BOGOTA/HOUSTON (Reuters) -The U.S. continues to engage with representatives from the government of President Nicolas Maduro of Venezuela, State Department
+
+Tue, 05 Dec 2023 21:17:02 +0000
+### [Paris set for major transport upgrade as new Metro network takes shape](https://theprint.in/world/paris-set-for-major-transport-upgrade-as-new-metro-network-takes-shape/1873788/)
+
+Article found but Couldn't summarize 
+Paris [France], December 6 (ANI): The transportation system in Paris is set for a major overhaul, as a Grand Paris Express, a new 200 Km (120 mile) system, will add four lines and 68 brand new stations to the existing Metro rail network, CNN reported. According to the report on Tuesday, the Paris Metro railway [&#8230;]
+
+Tue, 05 Dec 2023 21:15:29 +0000
+### [U.S. engaging with Venezuela amid sanctions reconsideration -official](https://theprint.in/world/u-s-engaging-with-venezuela-amid-sanctions-reconsideration-official/1873786/)
+
+Article found but Couldn't summarize 
+By Julia Symmes Cobb and Marianna Parraga Bogota/Houston (Reuters) - The U.S. continues to engage with representatives from the government of President Nicolas Maduro of Venezuela, State Department
+
+Tue, 05 Dec 2023 21:15:21 +0000
+### [Ex-Citgo CEO helped Venezuelan drug trafficker move money, US witness testifies](https://theprint.in/world/ex-citgo-ceo-helped-venezuelan-drug-trafficker-move-money-us-witness-testifies/1873784/)
+
+Article found but Couldn't summarize 
+By Luc Cohen NEW YORK (Reuters) - A former chief executive officer at U.S. oil refiner Citgo Petroleum helped alleged Venezuelan drug trafficker Carlos Orense move money in the mid-2000s, a witness at
+
+Tue, 05 Dec 2023 21:15:13 +0000
+### [What to watch at COP28 on Wednesday](https://theprint.in/world/what-to-watch-at-cop28-on-wednesday/1873782/)
+
+Article found but Couldn't summarize 
+DUBAI (Reuters) - As panel sessions at the U.N. climate summit focus on transportation and urban environments on Wednesday, national delegates will be digging into the details of what would be a final
+
+Tue, 05 Dec 2023 21:15:05 +0000
+### [Honduras bus crash leaves 12 dead, president declares national mourning](https://theprint.in/world/honduras-bus-crash-leaves-12-dead-president-declares-national-mourning/1873780/)
+
+A bus accident in Honduras resulted in the death of 12 people and injured around two dozen others. The bus, carrying nearly 60 people, veered off a highway, crashed into a bridge, and fell into a stream in a ravine near Tegucigalpa. Ten people died at the scene, while two others passed away at a hospital. The seriously injured were transported to the hospital by ambulance and helicopter. President Xiomara Castro expressed condolences and declared three days of national mourning, with the government covering funeral expenses for the victims.
+
 Tue, 05 Dec 2023 21:02:01 +0000
 ### [“India, Kenya share common views on major global issues”: President Droupadi Murmu](https://theprint.in/world/india-kenya-share-common-views-on-major-global-issues-president-droupadi-murmu/1873778/)
 
