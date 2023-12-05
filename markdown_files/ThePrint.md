@@ -1,3 +1,119 @@
+Tue, 05 Dec 2023 14:02:31 +0000
+### [Bangladeshi woman held for illegal stay in UP’s Bareilly](https://theprint.in/india/bangladeshi-woman-held-for-illegal-stay-in-ups-bareilly/1873322/)
+
+Article found but Couldn't summarize 
+Bareilly (UP), Dec 5 (PTI) A Bangladeshi woman, who had been living illegally in this district for the last 35 years, was arrested here, police said on Tuesday. Anita Devi (55) hails from Bedi Narayanpur Najharan village in Sarsa, Yeshore, Bangladesh. She had been as the wife of a man named Mangal Sen in Udaipur [&#8230;]
+
+Tue, 05 Dec 2023 14:02:23 +0000
+### [Kenya shows interest in trading in national currency with India, wants to learn about UPI: MEA secretary](https://theprint.in/world/kenya-shows-interest-in-trading-in-national-currency-with-india-wants-to-learn-about-upi-mea-secretary/1873317/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 5 (ANI): Ministry of External Affairs Secretary (Economic Relations) Dammu Ravi on Tuesday said that Kenya showed interest in trading in national currency with India and the Kenyan authorities want to hold a meeting regarding it. &#8220;This (national currency) is a big interest for Kenya. They have clearly expressed interest in [&#8230;]
+
+Tue, 05 Dec 2023 14:02:20 +0000
+### [AB-PMJAY: 3.79 cr claims submitted for secondary care hospitalisation between 2020-21 and 2022-23](https://theprint.in/india/ab-pmjay-3-79-cr-claims-submitted-for-secondary-care-hospitalisation-between-2020-21-and-2022-23/1873315/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 5 (PTI) Around 3.79 crore claims were submitted under the Ayushman Bharat insurance scheme for secondary care hospitalisation between 2020-21 and 2022-23, of which 3.54 crore claims have been paid and 12.04 lakh are pending as on November 30, the Rajya Sabha was informed on Tuesday. Under the Ayushman Bharat-Pradhan Mantri Jan [&#8230;]
+
+Tue, 05 Dec 2023 14:02:13 +0000
+### [Two missing Indians in Kenya: “Authorities on both sides have been in contact with each other,” says MEA](https://theprint.in/world/two-missing-indians-in-kenya-authorities-on-both-sides-have-been-in-contact-with-each-other-says-mea/1873313/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 5 (ANI): Stating that the authorities on both sides have been in contact with each other regarding two missing Indians in Kenya, a senior Ministry of External Affairs official said on Tuesday that &#8220;we should not speculate,&#8221; as the investigation is ongoing. According to a Kenyan publication, former Balaji Telefilms COO [&#8230;]
+
+Tue, 05 Dec 2023 14:02:09 +0000
+### [India has one of highest mortality rates due to antimicrobial resistance, say experts](https://theprint.in/india/india-has-one-of-highest-mortality-rates-due-to-antimicrobial-resistance-say-experts/1873312/)
+
+Article found but Couldn't summarize 
+Thiruvananthapuram, Dec 5 (PTI) India has one of the highest mortality rates due to antimicrobial resistance, with data indicating that one child dies every nine minutes from illnesses caused by antibiotic-resistant bacteria, experts at the Global Ayurveda Festival said on Tuesday. The experts are of the view that traditional medicines systems such as Ayurveda can [&#8230;]
+
+Tue, 05 Dec 2023 14:02:02 +0000
+### [Israel repudiates UN official’s claim it ordered evacuation of humanitarian supply warehouses](https://theprint.in/world/israel-repudiates-un-officials-claim-it-ordered-evacuation-of-humanitarian-supply-warehouses/1873310/)
+
+The Director-General of the World Health Organization (WHO), Tedros Adhanom Ghebreyesus, wrongly claimed that the IDF (Israel Defense Forces) instructed the WHO to remove medical supplies from their warehouse in southern Gaza. Israel's governmental organization COGAT denied this claim and criticized Ghebreyesus for his lack of accuracy. COGAT stated that they did not ask the WHO to evacuate the warehouses and had communicated this in writing to the relevant UN representatives. Despite the ongoing fighting, 180 humanitarian aid trucks carrying food, water, shelter equipment, and medical supplies were sent through the Rafah crossing from Egypt to international aid organizations operating in Gaza. Additionally, two diesel fuel tankers, coordinated and supervised by Israel, were admitted to facilitate the operation of vital infrastructure in the Gaza Strip.
+
+Tue, 05 Dec 2023 14:01:59 +0000
+### [Modi govt ensured country has only one flag, one Constitution: Amit Shah in Lok Sabha](https://theprint.in/india/modi-govt-ensured-country-has-only-one-flag-one-constitution-amit-shah-in-lok-sabha/1873309/)
+
+Union Home Minister Amit Shah stated that the government has ensured that India has only one flag and Constitution, referring to the abrogation of Article 370 in Jammu and Kashmir. He emphasized that the concept of "one flag, one prime minister, one Constitution" is not a political slogan but a principle the BJP firmly believes in. Shah questioned how a country can have two prime ministers, two constitutions, and two flags in response to a remark made by TMC's Saugata Roy. He asserted that the remarks were objectionable and stated that Prime Minister Narendra Modi had corrected the situation, regardless of approval or disagreement from others. Shah further mentioned that the idea of "one symbol, one head, one Constitution" was not an election slogan but something they had advocated for since 1950 and have now implemented.
+
+Tue, 05 Dec 2023 14:01:48 +0000
+### [Vijay Hazare Trophy: Listless Delhi knocked out in group league after fourth loss](https://theprint.in/sport/vijay-hazare-trophy-listless-delhi-knocked-out-in-group-league-after-fourth-loss/1873308/)
+
+Article found but Couldn't summarize 
+Ahmedabad, Dec 5 (PTI) An out of sorts Delhi, plagued by some questionable team selections, were knocked out of the Vijay Hazare Trophy, losing by 51 runs to Uttarakhand in their final group league stage game here on Tuesday. With four defeats from seven games, Delhi with 12 points, finished fifth in Group C. Haryana, [&#8230;]
+
+Tue, 05 Dec 2023 14:01:30 +0000
+### [1.16 lakh people convicted in Maharashtra in 2022, over two lakh acquitted](https://theprint.in/india/1-16-lakh-people-convicted-in-maharashtra-in-2022-over-two-lakh-acquitted/1873307/)
+
+According to data from the National Crime Records Bureau (NCRB), in Maharashtra, India, a total of 116,277 individuals, including 721 women, were convicted by the courts in 2022. The NCRB, operating under the Ministry of Home Affairs, released the report 'Crime in India 2022', which revealed that Mumbai had the highest number of convictions in the state, with 24,641 persons convicted. Nagpur and Pune followed with 5,567 and 770 convictions, respectively. The convictions encompassed offenses under the Indian Penal Code (IPC) as well as those defined under special and local laws, such as the Dowry Prohibition Act, Arms Act, and Information Technology Act. Overall, Tamil Nadu had the highest number of convictions at 338,804 across the country. In Maharashtra, 55,219 accused individuals were discharged by the courts, while 216,440 people were acquitted in 2022. Among metropolitan cities, Kochi had the highest number of convictions at 39,563.
+
+Tue, 05 Dec 2023 14:01:13 +0000
+### [NIA raids in seven districts in J-K in terror conspiracy case](https://theprint.in/india/nia-raids-in-seven-districts-in-j-k-in-terror-conspiracy-case/1873306/)
+
+The National Investigation Agency (NIA) conducted raids at several locations in Jammu and Kashmir related to a terror conspiracy carried out by offshoots of banned Pakistan-backed terrorist organizations. The raids led to the seizure of digital devices containing incriminating data and documents. The NIA targeted residential premises of hybrid terrorists and Overground Workers (OGWs) associated with newly-formed affiliates and offshoots of the banned outfits. The search also included premises of cadres and sympathizers of these organizations. The NIA's investigation focuses on the conspiracy of these newly launched outfits to destabilize Jammu and Kashmir through violent terrorist attacks and activities. The agency has found evidence of Pak-based operatives using social media platforms and drones to promote terror and deliver arms, ammunition, explosives, and narcotics to their operatives in the Kashmir valley. These activities are part of a broader conspiracy involving radicalization of local youth and mobilization of OGWs.
+
+Tue, 05 Dec 2023 14:01:02 +0000
+### [China formally accords diplomatic recognition to Taliban govt in Afghanistan](https://theprint.in/world/china-formally-accords-diplomatic-recognition-to-taliban-govt-in-afghanistan/1873305/)
+
+Article found but Couldn't summarize 
+Beijing, Dec 5 (PTI) China has become the first country to confer diplomatic status to a Taliban-nominated official as Afghanistan’s Ambassador to Beijing, thereby formally recognising the Taliban-run administration as a legitimate government in Kabul. “As a long-standing friendly neighbour of Afghanistan, China believes that Afghanistan should not be excluded from the international community,” Chinese [&#8230;]
+
+Tue, 05 Dec 2023 14:00:51 +0000
+### [Govt creating frameworks that cast safety, trust as obligation on platforms: MoS IT](https://theprint.in/economy/govt-creating-frameworks-that-cast-safety-trust-as-obligation-on-platforms-mos-it/1873304/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 5 (PTI) The government has been developing regulatory frameworks that cast safety and trust as obligation on digital platforms, Union Minister Rajeev Chandrasekhar said on Tuesday, adding that this approach will continue to be finetuned going forward. Today&#8217;s world is dealing increasingly with complexity, commercial power, toxicity, and harms that have crept [&#8230;]
+
+Tue, 05 Dec 2023 14:00:35 +0000
+### [No one can divide us, we love our country: Mamata Banerjee at inauguration of film festival](https://theprint.in/india/no-one-can-divide-us-we-love-our-country-mamata-banerjee-at-inauguration-of-film-festival/1873302/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 5 (PTI) West Bengal Chief Minister Mamata Banerjee on Tuesday said that no force could divide the country, emphasising that people of all religions, castes, and creeds would remain united as a collective expression of love for the motherland. Banerjee made these remarks during the inaugural session of the 29th edition of the [&#8230;]
+
+Tue, 05 Dec 2023 14:00:20 +0000
+### [Nigeria’s president orders investigation after drone strike kills 85](https://theprint.in/world/nigerias-president-orders-investigation-after-drone-strike-kills-85/1873300/)
+
+Article found but Couldn't summarize 
+By Felix Onuah and Garba Muhammad ABUJA (Reuters) -Nigeria's President Bola Tinubu on Tuesday ordered a thorough investigation into a weekend military drone attack that killed at least 85 people,
+
+Tue, 05 Dec 2023 14:00:17 +0000
+### [Important cases heard by Supreme Court on December 5](https://theprint.in/india/important-cases-heard-by-supreme-court-on-december-5/1873298/)
+
+Article found but Couldn't summarize 
+Important cases heard by the Supreme Court on Tuesday, December 5: * A five-judge SC bench commenced hearing on 17 petitions to examine the constitutional validity of Section 6A of the Citizenship Act relating to illegal immigrants in Assam. * Some things are best left unsaid, SC judge Sanjay Kishan Kaul said when some lawyers [&#8230;]
+
+Tue, 05 Dec 2023 14:00:04 +0000
+### [India’s Apollo Hospitals’ operator rejects allegations of illegal kidney transplants](https://theprint.in/india/indias-apollo-hospitals-operator-rejects-allegations-of-illegal-kidney-transplants/1873297/)
+
+Article found but Couldn't summarize 
+BENGALURU/HYDERABAD (Reuters) -India's Indraprastha Medical Corp, which manages two Apollo hospitals in the national capital of Delhi, said on Tuesday allegations regarding its involvement in illegal
+
+Tue, 05 Dec 2023 14:00:03 +0000
+### [UK cautioned against ‘unfair’ visa crackdown on Indian professionals, students](https://theprint.in/world/uk-cautioned-against-unfair-visa-crackdown-on-indian-professionals-students-2/1873296/)
+
+Article found but Couldn't summarize 
+London, Dec 5 (PTI) Groups representing skilled professionals and students from India on Tuesday expressed concerns over a lack of clarity around the UK government’s latest visa crackdown, branding the ban on family dependents as “unfair”. UK Home Secretary James Cleverly tabled a five-point plan in Parliament on Monday that would see overseas care workers [&#8230;]
+
+Tue, 05 Dec 2023 13:47:02 +0000
+### [Suriname FM Albert Ramdin arrives in Delhi for key talks with counterpart Jaishankar](https://theprint.in/world/suriname-fm-albert-ramdin-arrives-in-delhi-for-key-talks-with-counterpart-jaishankar/1873288/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 5 (ANI): Suriname&#8217;s Foreign Minister Albert R Ramdin landed in New Delhi to a warm welcome as he gears up to co-chair the 8th India-Suriname Joint Commission Meeting. The official visit, scheduled from December 5 to 7, 2023, holds promise for advancing historical ties between the two nations. &#8220;FM Albert Ramdin [&#8230;]
+
+Tue, 05 Dec 2023 13:46:35 +0000
+### [Atishi pulls up officials for sewage water overflowing in Delhi’s Sultanpur Majra, Trilokpuri](https://theprint.in/india/atishi-pulls-up-officials-for-sewage-water-overflowing-in-delhis-sultanpur-majra-trilokpuri/1873287/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 5 (PTI) Delhi Minister Atishi pulled up officials for sewage water overflowing in lanes of Sultanpur Majra and Trilokpuri and directed them to promptly address all sewer-related issues in the area within 15 days, the city government said on Tuesday. Warning the officials of stringent action, the Delhi water minister directed them [&#8230;]
+
+Tue, 05 Dec 2023 13:46:22 +0000
+### [Postpone probe into functioning of madrasas, exam preparation going on: UP madrasa board](https://theprint.in/india/postpone-probe-into-functioning-of-madrasas-exam-preparation-going-on-up-madrasa-board/1873286/)
+
+Article found but Couldn't summarize 
+Lucknow, Dec 5 (PTI) Following the Uttar Pradesh government&#8217;s decision to initiate a probe into the availability of basic facilities and competent teachers at state-funded madrasas, UP Madrasa Education Board Chairman Iftikhar Ahmad Javed called for the exercise to be postponed, saying examination preparations are going on in the madrasas. In a letter written to [&#8230;]
+
 Tue, 05 Dec 2023 12:17:01 +0000
 ### [Shahid, Nora, Malaika, Sunil Grover, Honey Singh to dazzle at Stardom 2024!](https://theprint.in/ani-press-releases/shahid-nora-malaika-sunil-grover-honey-singh-to-dazzle-at-stardom-2024/1873099/)
 

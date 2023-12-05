@@ -1,3 +1,14 @@
+Tue, 05 Dec 2023 19:06:07 +0530
+### [Where will bankrupt Pakistan get funds to hold elections?](https://www.firstpost.com/explainers/where-will-bankrupt-pakistan-get-funds-to-hold-elections-13469142.html)
+
+Pakistan is currently facing a severe economic crisis with high unemployment, soaring inflation, and unaffordable food and essentials. Amidst this, a general election is scheduled for February. However, there have been delays in releasing funds for the election. The Election Commission of Pakistan (ECP) requested Rs 51 billion but agreed upon Rs 47 billion. The finance ministry assured the ECP of releasing Rs 17 billion after concerns were raised. Political parties fund their campaigns through application fees collected from candidates and donations from non-members. The cost of the upcoming elections is estimated to be significantly higher compared to previous elections. The economic situation in Pakistan is dire, with rising inflation and job losses. Despite this, millions are being spent on elections, adding to the uncertainty of the future.
+
+Tue, 05 Dec 2023 18:24:35 +0530
+### [What is breadcrumbing, the new entrant in modern dating scene?](https://www.firstpost.com/explainers/what-is-breadcrumbing-the-new-entrant-in-modern-dating-scene-13468352.html)
+
+Article found but Couldn't summarize 
+What is breadcrumbing, the new entrant in modern dating scene?
+
 Tue, 05 Dec 2023 17:34:59 +0530
 ### [Why is gold near its all-time high? Should you buy?](https://www.firstpost.com/explainers/why-is-gold-near-its-all-time-high-should-you-buy-13469022.html)
 

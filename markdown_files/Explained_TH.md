@@ -1,3 +1,9 @@
+Tue, 05 Dec 2023 18:18:04 +0530
+### [What are the FSB’s concerns about crypto asset intermediaries? | Explained](https://www.thehindu.com/business/Industry/what-are-the-fsbs-concerns-about-crypto-asset-intermediaries-explained/article67590360.ece)
+
+Article found but Couldn't summarize 
+The Financial Stability Board (FSB) in their latest report assessed the risks associated with multi-function crypto-asset intermediaries (MCIs), emanating from their structural vulnerabilities.
+
 Tue, 05 Dec 2023 10:30:00 +0530
 ### [How does GPS work? | Explained](https://www.thehindu.com/sci-tech/science/global-positioning-system-relativity-gnss-navic-explained/article67606417.ece)
 

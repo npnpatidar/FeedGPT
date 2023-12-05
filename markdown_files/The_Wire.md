@@ -1,3 +1,21 @@
+2023-12-05T19:15:18+05:30
+### [Israel's Goal of Eliminating Hamas is a Red Herring, Evicting Palestinians from Gaza is the Real Aim](https://thewire.in/world/israels-hamas-red-herring-evicting-palestinians-gaza)
+
+No Article text 
+Tel Aviv knows that even if the Gaza-based Hamas leaders are all killed, new ones will emerge elsewhere, and that it is impossible to kill or destroy the idea of freedom.
+
+2023-12-05T18:29:45+05:30
+### [Revanth Reddy Will Be Telangana Chief Minister, Confirms Rahul Gandhi](https://thewire.in/politics/revanth-reddy-telangana-chief-minister-rahul-gandhi)
+
+No Article text 
+According to reports, 42 of the 64 Congress MLAs supported Revanth Reddy despite some influential leaders opposing his candidature.
+
+2023-12-05T18:15:27+05:30
+### [How the War in Palestine Is Being Broadcasted Amid Israel’s Growing Attacks on Journalists](https://thewire.in/world/how-the-war-in-palestine-is-being-broadcasted-amid-israels-growing-attacks-on-journalists)
+
+No Article text 
+Without the social media content creators-turned war reporters in Gaza, the world would never have understood the horrors of this war.
+
 2023-12-05T17:45:58+05:30
 ### [The Art World Is Succumbing to the Pressure of Ostracising Those Who Support Palestine](https://thewire.in/culture/art-world-succumbing-pressure-ostracising-support-palestine)
 

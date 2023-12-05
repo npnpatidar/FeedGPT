@@ -1,3 +1,15 @@
+Tue, 05 Dec 2023 19:10:39 +0530
+### [Vantage | Unemployment, defaults ... is the Chinese dream dying?](https://www.firstpost.com/opinion/vantage-unemployment-defaults-is-the-chinese-dream-dying-13469682.html)
+
+Article found but Couldn't summarize 
+Vantage | Unemployment, defaults ... is the Chinese dream dying?
+
+Tue, 05 Dec 2023 18:22:19 +0530
+### [Vantage | Can COP save the world or will politics come in the way again?](https://www.firstpost.com/opinion/vantage-can-cop-save-the-world-or-will-politics-come-in-the-way-again-13469262.html)
+
+Article found but Couldn't summarize 
+Vantage | Can COP save the world or will politics come in the way again?
+
 Tue, 05 Dec 2023 17:42:07 +0530
 ### [Earthquakes: How tech tools can mitigate catastrophic impacts](https://www.firstpost.com/opinion/earthquakes-how-tech-tools-can-mitigate-catastrophic-impacts-13469232.html)
 
