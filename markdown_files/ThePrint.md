@@ -1,3 +1,70 @@
+Tue, 05 Dec 2023 21:02:01 +0000
+### [“India, Kenya share common views on major global issues”: President Droupadi Murmu](https://theprint.in/world/india-kenya-share-common-views-on-major-global-issues-president-droupadi-murmu/1873778/)
+
+India's President Droupadi Murmu expressed her happiness over the African Union becoming a permanent member of the G20. She highlighted the common views and close cooperation between India and Kenya on global issues. The bilateral relationship between the two countries is strong, with collaborations in trade, education, technology, and combating global challenges such as terrorism. President Murmu also emphasized the integration and contributions of the Indian-origin community in Kenya. India is one of Kenya's largest trading partners and sources of investment, with many Indian companies using Kenya as a base for operations in East Africa. Both leaders discussed the potential for collaboration in other multilateral forums. The article also mentions the ceremonial welcome of the Kenyan head of state by President Murmu and Prime Minister Narendra Modi at the Rashtrapati Bhavan.
+
+Tue, 05 Dec 2023 21:00:22 +0000
+### [ASM International to invest $300 million in Arizona expansion](https://theprint.in/tech/asm-international-to-invest-300-million-in-arizona-expansion/1873777/)
+
+Article found but Couldn't summarize 
+By Toby Sterling AMSTERDAM/PHOENIX, Arizona (Reuters) - ASM International NV, a supplier to computer chip makers, will invest $300 million in expanding its research and development (R&#38;D) operations in
+
+Tue, 05 Dec 2023 21:00:03 +0000
+### [Israel not doing enough to allow fuel, aid into Gaza -US](https://theprint.in/world/israel-not-doing-enough-to-allow-fuel-aid-into-gaza-us/1873775/)
+
+The United States is urging Israel to allow more aid, including fuel, into Gaza as the Israeli offensive against Hamas intensifies. The U.S. State Department spokesperson stated that the current level of assistance is insufficient and needs to increase. On Monday, 100 humanitarian aid trucks and 69,000 litres of fuel were delivered to Gaza from Egypt, which is below the daily average during a previous humanitarian pause. U.S. Secretary of State Antony Blinken has also called on Israel to increase aid flow and minimize civilian harm. Israeli forces have stormed the city of Khan Younis in southern Gaza, resulting in numerous Palestinian casualties. The situation in Gaza is reported to be deteriorating rapidly.
+
+Tue, 05 Dec 2023 20:45:06 +0000
+### [Biden says Hamas raped, mutilated women during Israel assault](https://theprint.in/world/biden-says-hamas-raped-mutilated-women-during-israel-assault/1873773/)
+
+U.S. President Joe Biden recently spoke at a political fundraiser in Boston, where he mentioned reports of unimaginable cruelty perpetrated by Hamas during its assault on southern Israel on October 7. Biden referred to accounts of women being repeatedly raped, their bodies mutilated while still alive, and corpses being desecrated. He called for international condemnation of sexual violence without exception. Israeli police are investigating possible sexual crimes committed by some of the individuals arrested after the attack. Hamas denies these allegations. Israel held an event at the United Nations focused on sexual violence against women during the attack, with former U.S. Secretary of State Hillary Clinton condemning rape as a weapon of war. Biden blamed Hamas for the collapse of a truce last week, stating that their refusal to release remaining hostages broke the deal. The article also mentions the number of casualties reported by both sides and emphasizes Biden's call for the immediate return of all hostages held by Hamas.
+
+Tue, 05 Dec 2023 20:30:50 +0000
+### [Elon Musk’s AI firm xAI files to raise up to $1 billion in equity offering](https://theprint.in/tech/elon-musks-ai-firm-xai-files-to-raise-up-to-1-billion-in-equity-offering/1873768/)
+
+Article found but Couldn't summarize 
+(Reuters) -Elon Musk's artificial intelligence startup xAI has filed with the U.S. securities regulator to raise up to $1 billion in an equity offering, according to a filing on Tuesday. The company
+
+Tue, 05 Dec 2023 20:30:39 +0000
+### [Rapper Bad Bunny lashes out over viral AI copycat hits](https://theprint.in/entertainment/rapper-bad-bunny-lashes-out-over-viral-ai-copycat-hits/1873766/)
+
+Puerto Rican rapper and singer Bad Bunny's voice went viral recently, but the songs circulating were not his. Chilean artist Maurico Bustos, known as FlowGPT, used artificial intelligence to modify Bad Bunny's vocals in a song called NostalgIA, which became a viral hit on TikTok. Bad Bunny expressed his dislike for the song, while Bustos defended his work, stating that he was a fan of Bad Bunny and that his success was partly due to learning from other artists. Bustos aims to create a fictional virtual character using AI, similar to the concept of the British band Gorillaz. Due to a legal void, this type of generative AI may be difficult to regulate. Bad Bunny's management did not provide any immediate comment on the matter.
+
+Tue, 05 Dec 2023 20:30:28 +0000
+### [Dollar up after weaker-than-expected jobs data, fueling rate bets](https://theprint.in/economy/dollar-up-after-weaker-than-expected-jobs-data-fueling-rate-bets/1873764/)
+
+Article found but Couldn't summarize 
+By Hannah Lang (Reuters) -The U.S. dollar was higher against a basket of currencies on Tuesday, paring losses from a recent selloff in spite of data showing that U.S. job openings dropped in October
+
+Tue, 05 Dec 2023 20:30:16 +0000
+### [US says Russia rejected proposal for release of Paul Whelan, Evan Gershkovich](https://theprint.in/world/us-says-russia-rejected-proposal-for-release-of-paul-whelan-evan-gershkovich/1873762/)
+
+The United States recently made a new proposal to secure the release of Paul Whelan and Evan Gershkovich, two Americans who are currently detained in Russia on charges of espionage. The US considers their detention to be wrongful. However, Russia rejected the proposal, although specific details about the proposal were not disclosed. The US State Department spokesperson emphasized that the rejection will not deter the US from continuing efforts to bring both individuals home. Paul Whelan was arrested in 2018 and convicted of espionage in 2020, while Evan Gershkovich was arrested in March 2023. Both deny the charges against them. The US government has called the charges "ridiculous" and President Joe Biden has described Gershkovich's detention as "totally illegal." The article also mentions Gershkovich's sister urging the Biden administration to remain focused on bringing him home and expressing concern about potential distractions due to the Middle East crisis.
+
+Tue, 05 Dec 2023 20:30:04 +0000
+### [US envoy slams Hungarian govt for ‘disregarding’ interests of NATO allies](https://theprint.in/world/us-envoy-slams-hungarian-govt-for-disregarding-interests-of-nato-allies/1873760/)
+
+Article found but Couldn't summarize 
+BUDAPEST (Reuters) - The U.S. envoy to Budapest sharply criticised the Hungarian government on Tuesday for "disregarding" the interests of its NATO allies and strengthening ties with Russia at a time
+
+Tue, 05 Dec 2023 20:15:23 +0000
+### [US says Israel not doing enough to allow fuel, aid into Gaza](https://theprint.in/world/us-says-israel-not-doing-enough-to-allow-fuel-aid-into-gaza/1873757/)
+
+Article found but Couldn't summarize 
+By Humeyra Pamuk and Daphne Psaledakis WASHINGTON (Reuters) - The United States on Tuesday said Israel needed to do more to allow fuel and other aid into Gaza as its offensive against Hamas in the
+
+Tue, 05 Dec 2023 20:15:14 +0000
+### [Malala Yousafzai likens Taliban’s treatment of women to apartheid in Mandela lecture](https://theprint.in/world/malala-yousafzai-likens-talibans-treatment-of-women-to-apartheid-in-mandela-lecture/1873755/)
+
+Article found but Couldn't summarize 
+By Tannur Anders JOHANNESBURG (Reuters) - Nobel Peace Prize winner Malala Yousafzai on Tuesday likened restrictions the Taliban has placed on women in Afghanistan to the treatment of Black people
+
+Tue, 05 Dec 2023 20:15:03 +0000
+### [Israeli defence minister condemns settler violence](https://theprint.in/world/israeli-defence-minister-condemns-settler-violence/1873753/)
+
+Article found but Couldn't summarize 
+JERUSALEM (Reuters) - Israeli Defence Minister Yoav Gallant on Tuesday condemned violence against Palestinians by Jewish settlers in the West Bank, saying in a state of law, only the police and the
+
 Tue, 05 Dec 2023 20:00:17 +0000
 ### [Stocks, US yields fall as investors gauge economic sturdiness](https://theprint.in/economy/stocks-us-yields-fall-as-investors-gauge-economic-sturdiness/1873749/)
 
