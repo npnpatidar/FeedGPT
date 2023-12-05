@@ -1,3 +1,33 @@
+2023-12-05T13:35:30+05:30
+### [SC Shields Journalist from Arrest Over Tweets on Manipur Violence](https://thewire.in/law/sc-stays-criminal-proceedings-against-journalist-booked-for-tweets-on-manipur-violence)
+
+No Article text 
+Independent journalist Makepeace Sitlhou made allegedly critical remarks against Manipur government's failure to control the spiraling violence in the state.
+
+2023-12-05T13:20:00+05:30
+### [Watch: After Sunday, Is a 2024 Modi Victory or Is it Too Early to Write Off the Opposition?](https://thewire.in/politics/watch-after-sunday-is-a-2024-modi-victory-or-is-it-too-early-to-write-off-the-opposition)
+
+No Article text 
+The critical question facing the Congress party, the core of the INDIA alliance, is: what is its aim in 2024?
+
+2023-12-05T13:14:26+05:30
+### [Mizoram Election Results Usher in New Politics and Developmental Challenges](https://thewire.in/politics/mizoram-election-results-usher-in-new-politics-and-developmental-challenges)
+
+No Article text 
+In a break from history, the six-year-old Zoram People’s Movement has been given a huge mandate by the voters.
+
+2023-12-05T12:35:22+05:30
+### ['Protect Sikhs in America': US Community Groups Demand Transparency on 'Pannun Plot'](https://thewire.in/world/sikhs-america-community-groups-transparency-pannun-plot)
+
+No Article text 
+The groups issued a series of suggestions to build pressure, including calling on state legislative bodies and Congress to hold hearings on "transnational repression that include discussion of India".
+
+2023-12-05T12:05:16+05:30
+### [No Mention of Nikhil Gupta in Union Govt's Registry on Narcotics Traffickers Launched in 2022](https://thewire.in/government/no-mention-of-nikhil-gupta-in-union-govts-registry-on-narcotics-traffickers-launched-in-2022)
+
+No Article text 
+Nikhil Gupta was named in the US government's indictment on a plot to assassinate a Sikh American that was allegedly planned by an Indian government official.
+
 2023-12-05T11:45:34+05:30
 ### [Indian Banks Write Off Rs 10.6 Lakh Crore in 5 Years, Mostly Linked to Large Corporates: Report](https://thewire.in/banking/indian-banks-write-off-rs-10-6-lakh-crore-in-5-years-mostly-linked-to-large-corporates-report)
 

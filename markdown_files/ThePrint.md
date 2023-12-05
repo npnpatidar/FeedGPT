@@ -1,3 +1,118 @@
+Tue, 05 Dec 2023 08:16:17 +0000
+### [Ericsson shares rally on AT&T network deal, Nokia drops](https://theprint.in/tech/ericsson-shares-rally-on-att-network-deal-nokia-drops/1872643/)
+
+Article found but Couldn't summarize 
+(Reuters) - Ericsson shares rallied in early trading on Tuesday after AT&#38;T chose the Swedish telecoms equipment maker over Finnish rival Nokia to build a network under a five-year deal that could see
+
+Tue, 05 Dec 2023 08:16:08 +0000
+### [Foxconn raises Q4 outlook on strong year-end holiday sales](https://theprint.in/tech/foxconn-raises-q4-outlook-on-strong-year-end-holiday-sales/1872641/)
+
+Article found but Couldn't summarize 
+TAIPEI (Reuters) - Taiwan's Foxconn, the world's largest contract electronics maker and a major Apple supplier, on Tuesday raised its outlook for the fourth quarter on strong year-end sales for the
+
+Tue, 05 Dec 2023 08:15:54 +0000
+### [Former Congress MLA from Malegaon Central seat passes away](https://theprint.in/india/former-congress-mla-from-malegaon-central-seat-passes-away/1872639/)
+
+Former Congress MLA Sheikh Rasheed Sheikh Shafi passed away at the age of 68 after a brief illness in Nashik, Maharashtra. Sheikh had represented the Malegaon Central assembly constituency twice. He began his political career as a Congress councillor and eventually became the chairman of the Malegaon Municipal Council and mayor of Malegaon city in 2017. Sheikh was elected as an MLA in 1999 and 2004, defeating Samajwadi Party stalwart Nihal Ahmed in his first election. He later joined the Nationalist Congress Party (NCP) after leaving the Congress. Sheikh's wife served as the mayor of Malegaon Municipal Corporation, and his son, Asif Sheikh, was a legislator. His last rites were conducted on Tuesday, and his demise was mourned by many.
+
+Tue, 05 Dec 2023 08:15:52 +0000
+### [Greek olive growers brace themselves as thieves seek pricey crop](https://theprint.in/environment/greek-olive-growers-brace-themselves-as-thieves-seek-pricey-crop/1872638/)
+
+Greek olive growers, including Panagiotis Tsafaras, are facing an increase in thefts as olive prices rise during a poor harvest. Tsafaras has been robbed twice, losing over a tonne of olives in one incident. Other producers in Greece have resorted to installing cameras, GPS trackers, and considering private security measures. The thieves strike at night, using rods or silent electric chainsaws to steal the olives. The decline in olive production, due to unfavorable weather conditions, has caused wholesale prices to double to 8-9 euros per liter. Retail prices have reached up to 14 euros, making the crop an attractive target for thieves. Greek police have confirmed a spike in olive and olive oil thefts across the country this year.
+
+Tue, 05 Dec 2023 08:15:40 +0000
+### [Tea exports fall 4.93 pc during Jan-Sep](https://theprint.in/economy/tea-exports-fall-4-93-pc-during-jan-sep/1872635/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 5 (PTI) Tea exports from India during January to September declined 4.93 per cent to 157.92 million kg, according to latest Tea Board data. During the first nine months of 2022, exports stood at 166.11 million kg. From North India, primarily the states of Assam and West Bengal, tea exports dropped 6.61 per [&#8230;]
+
+Tue, 05 Dec 2023 08:15:38 +0000
+### [France puts country on ‘high’ alert for bird flu](https://theprint.in/environment/france-puts-country-on-high-alert-for-bird-flu/1872634/)
+
+Article found but Couldn't summarize 
+PARIS (Reuters) - France raised the risk level of bird flu to 'high' from 'moderate' on Tuesday after the detection of new cases of the disease, forcing poultry farms to keep birds indoors to stem the
+
+Tue, 05 Dec 2023 08:15:28 +0000
+### [Beware of their divisive agenda: PM Modi on excuses of ‘ecosystem’ on BJP’s assembly polls win](https://theprint.in/india/beware-of-their-divisive-agenda-pm-modi-on-excuses-of-ecosystem-on-bjps-assembly-polls-win/1872632/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 5 (PTI) Prime Minister Narendra Modi on Tuesday took a swipe at critics, saying they may remain happy with their arrogance, lies, pessimism and ignorance but people should be beware of their divisive agenda as an old habit of 70 years cannot go away so easily. He was reacting to a an [&#8230;]
+
+Tue, 05 Dec 2023 08:15:24 +0000
+### [Oil prices little changed amid OPEC+ cut doubts, Mideast tension](https://theprint.in/economy/oil-prices-little-changed-amid-opec-cut-doubts-mideast-tension/1872631/)
+
+Article found but Couldn't summarize 
+Beijing (Reuters) - Oil prices held steady on Tuesday amid uncertainty over voluntary output cuts by the OPEC+ group of producers, tensions in the Middle East and weak economic data from the U.S..
+
+Tue, 05 Dec 2023 08:15:16 +0000
+### [Deceased Khalistani terrorist Lakhbir Singh Rode’s associate held in Punjab](https://theprint.in/india/deceased-khalistani-terrorist-lakhbir-singh-rodes-associate-held-in-punjab/1872630/)
+
+Punjab Police in India have arrested an associate of the deceased Khalistani terrorist Lakhbir Singh Rode. The arrested individual, Paramjit Singh alias Dhadi, is allegedly involved in terror funding and other subversive activities. Punjab Director General of Police Gaurav Yadav announced the arrest on social media, stating that Singh's association with Lakhbir Rode, the chief of the banned terrorist outfit ISYF, makes it a significant breakthrough. The police are conducting an investigation to expose the terrorist network and consider Singh's arrest as a major blow to the group attempting to disrupt peace in the region. In related news, Lakhbir Rode, one of India's most wanted men, died in Pakistan. Rode had fled to Pakistan after the death of Jarnail Singh Bhindranwale and settled in Lahore, where he passed away at the age of 72.
+
+Tue, 05 Dec 2023 08:15:14 +0000
+### [Indonesia softens internet law after critics complain of misuse](https://theprint.in/world/indonesia-softens-internet-law-after-critics-complain-of-misuse/1872629/)
+
+Indonesia's parliament has passed a revision to its internet law, aiming to address concerns that certain articles were being used to suppress government opposition. The amendment introduces stricter requirements for the defamation article of the electronic information and transaction law (ITE), including a higher burden of proof in prosecutions, and reduces the maximum penalty for defamation from four years to two. However, critics argue that the revision does not go far enough in safeguarding freedom of speech, as it fails to prevent misuse of the law by offended officials seeking extra protection. Human rights activists have long called for changes to the 2008 law, citing its vague and potentially misused articles. This development follows the sentencing of singer and opposition figure Ahmad Dhani under the ITE law in 2019 for insulting political rivals online.
+
+Tue, 05 Dec 2023 08:15:03 +0000
+### [Norway parliament in deal to advance seabed mining](https://theprint.in/world/norway-parliament-in-deal-to-advance-seabed-mining/1872626/)
+
+Article found but Couldn't summarize 
+By Victoria Klesty OSLO (Reuters) - Norway's minority Labour-led government has struck a deal with two opposition parties to open Arctic oceans to mineral exploration, a key step on the way to
+
+Tue, 05 Dec 2023 08:15:03 +0000
+### [Michaung landfall underway, eye of the storm close to Bapatla in Andhra Pradesh](https://theprint.in/india/michaung-landfall-underway-eye-of-the-storm-close-to-bapatla-in-andhra-pradesh/1872625/)
+
+Article found but Couldn't summarize 
+Amaravati, Dec 5 (PTI) Severe cyclonic storm Michaung’s landfall is currently underway with the eye of the cyclone situated near Bapatla in south Andhra Pradesh coast, said an official on Tuesday. The weather system over the west-central Bay of Bengal, running along and off the south Andhra Pradesh coast is moving nearly northwards, parallel and [&#8230;]
+
+Tue, 05 Dec 2023 08:09:59 +0000
+### [Why India abstained from renewable energy pledge signed by 118 countries at COP28](https://theprint.in/environment/why-india-abstained-from-renewable-energy-pledge-signed-by-118-countries-at-cop28/1872503/)
+
+Article found but Couldn't summarize 
+Global pledge, which aims to triple renewable energy capacity by 2030, also calls for phasedown of 'unabated coal power’. India has previously protested against specific focus on coal.
+
+Tue, 05 Dec 2023 08:02:28 +0000
+### [India Votes For Vegan It is a clear majority as nearly 60 per cent Indians want to try vegan](https://theprint.in/ani-press-releases/india-votes-for-vegan-it-is-a-clear-majority-as-nearly-60-per-cent-indians-want-to-try-vegan/1872613/)
+
+Article found but Couldn't summarize 
+PNN New Delhi [India], December 5: In this season of elections, India is voting for a vegan diet. A recent national survey on the mood of the nation reports that, Indians are overwhelmingly in favour of eating plant-based. The results come in the run up to the annual Veganuary campaign (Vegan-January), where people try vegan [&#8230;]
+
+Tue, 05 Dec 2023 08:02:16 +0000
+### [Leading Consultancy & Accounting Firm ASA joins Baker Tilly International network as their member firm in India](https://theprint.in/ani-press-releases/leading-consultancy-accounting-firm-asa-joins-baker-tilly-international-network-as-their-member-firm-in-india/1872611/)
+
+Article found but Couldn't summarize 
+PNN New Delhi [India], December 5: ASA Corporate Catalyst (India) Pvt Ltd (ASA), one of the leading players in the Indian business advisory and accounting landscape, announces its membership in the prestigious Baker Tilly International network. The professional services market in India has been experiencing tremendous growth and evolution over the years and this strategic [&#8230;]
+
+Tue, 05 Dec 2023 08:02:01 +0000
+### [Salman Khan arrives in Kolkata for 29th Kolkata International Film Festival](https://theprint.in/feature/salman-khan-arrives-in-kolkata-for-29th-kolkata-international-film-festival/1872609/)
+
+Article found but Couldn't summarize 
+Kolkata (West Bengal) [India], December 5 (ANI): Superstar Salman Khan on Tuesday morning arrived in the City of Joy to attend the inaugural ceremony of the 29th Kolkata International Film Festival. Salman donned a black T-shirt paired with blue denims was seen waving to his fans at the airport. The Kolkata International Film Festival that [&#8230;]
+
+Tue, 05 Dec 2023 08:01:29 +0000
+### [OBCs say Maratha protests for quotas are a betrayal. ‘They want what was ours’](https://theprint.in/ground-reports/obcs-say-maratha-protests-for-quotas-are-a-betrayal-they-want-what-was-ours/1867240/)
+
+Article found but Couldn't summarize 
+The Maratha quota protests have fractured old ties in epicentre Jalna. OBC and Maratha neighbours no longer chit-chat, children have been told to stop playing with each other.
+
+Tue, 05 Dec 2023 08:00:41 +0000
+### [Talk by social activist cancelled after BJP workers create ruckus at venue in Nashik](https://theprint.in/india/talk-by-social-activist-cancelled-after-bjp-workers-create-ruckus-at-venue-in-nashik/1872605/)
+
+Article found but Couldn't summarize 
+Nashik, Dec 5 (PTI) A lecture being delivered by social activist Dr Vishambhar Choudhari was cancelled after activists of the Bharatiya Janata Party (BJP) and Bajrang Dal caused a ruckus at the venue in Maharashtra&#8217;s Nashik district, alleging that he was critical of their idols. The incident occurred on Sunday evening at the public library [&#8230;]
+
+Tue, 05 Dec 2023 08:00:38 +0000
+### [SoftBank Corp buys $514 million majority stake in car software firm Cubic Telecom](https://theprint.in/tech/softbank-corp-buys-514-million-majority-stake-in-car-software-firm-cubic-telecom/1872604/)
+
+Article found but Couldn't summarize 
+By Nick Carey and Anton Bridge LONDON/TOKYO (Reuters) - SoftBank Corp will invest roughly 473 million euros ($514 million) to take a 51% equity stake in Cubic Telecom that will give the Dublin-based
+
+Tue, 05 Dec 2023 08:00:29 +0000
+### [Karnataka court grants bail to two accused in assembly ticket cheating case](https://theprint.in/india/karnataka-court-grants-bail-to-two-accused-in-assembly-ticket-cheating-case/1872603/)
+
+Right-wing activist Chaitra and another accused Srikanth have been granted bail by a Bengaluru court. They were involved in a case of allegedly cheating a businessman of Rs 5 crore by promising him a BJP ticket to contest in the Karnataka Assembly elections. Chaitra, who claimed to have close contacts with RSS and BJP leaders, had failed to fulfill the promise and allegedly threatened the businessman. The media was restricted from using Chaitra's surname in reports due to a complaint that it was affecting the town's reputation. This information is from a PTI news service report.
+
 Tue, 05 Dec 2023 06:17:35 +0000
 ### [Pitch Perfect India: An Award-Winning Sales Training Company in India](https://theprint.in/ani-press-releases/pitch-perfect-india-an-award-winning-sales-training-company-in-india/1872479/)
 

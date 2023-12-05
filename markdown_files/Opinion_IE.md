@@ -1,3 +1,8 @@
+Tue, 05 Dec 2023 07:21:12 +0000
+### [Maratha agitation and lathi-charge: Why aren’t we more appalled by the police violence on peaceful crowds?](https://indianexpress.com/article/opinion/columns/maratha-agitation-lathi-charge-police-violence-9055080/)
+
+Article found but Couldn't summarize
+
 Tue, 05 Dec 2023 01:40:07 +0000
 ### [Express View on stock market surge: Eye on risk](https://indianexpress.com/article/opinion/editorials/stock-market-surge-state-assembly-elections-hindi-heartland-bse-sensex-9054489/)
 

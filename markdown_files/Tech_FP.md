@@ -1,3 +1,13 @@
+Tue, 05 Dec 2023 13:04:24 +0530
+### [Out of tune: Spotify lays off 17 per cent or 1500 of its workforce, cancels two of its most popular podcasts](https://www.firstpost.com/tech/out-of-tune-spotify-to-layoff-17-per-cent-or-1500-of-its-workforce-cancels-two-of-its-most-popular-podcasts-13467422.html)
+
+Spotify is planning to lay off 17% of its global workforce in a strategic move to cut costs and focus on profitability. CEO Daniel Ek announced the decision in a blog post, stating that approximately 1,500 employees will be affected. This is the third round of layoffs for Spotify this year, with previous layoff percentages at 6% and 2%. In addition to the layoffs, Spotify will cancel its flagship shows, Heavyweight and Stolen, after their current seasons. The company aims to explore new opportunities for these acclaimed shows elsewhere.
+
+Tue, 05 Dec 2023 12:30:05 +0530
+### [IBM, Meta, other tech companies launch alliance to take on the ‘big bad boys’ of AI like OpenAI, Google](https://www.firstpost.com/tech/ibm-meta-other-tech-companies-launch-alliance-to-take-on-the-big-bad-boys-of-ai-like-openai-google-13467072.html)
+
+IBM, Intel, Sony, and Dell have partnered with younger AI startups, universities, and foundations to establish an "AI Alliance." The collaboration aims to challenge the dominance of OpenAI, Microsoft, Google, and Amazon in the field of artificial intelligence (AI). The announcement comes as traditional computing leaders express concern over the narrow focus on a few institutions in AI discussions. The alliance seeks to promote openness by establishing common frameworks for evaluating AI algorithms, providing capital for research funds, and collaborating on open-source models. Participants include corporate giants, chip manufacturers, AI startups, and prestigious universities. IBM has committed around $100 million to support AI research projects at universities and collaborated with Meta to develop an open-source toolkit for AI development. The alliance is in the process of defining objectives and building a coalition, with plans to establish technical working groups and potentially create an external nonprofit.
+
 Tue, 05 Dec 2023 11:25:49 +0530
 ### [Washed Away: Apple iPhone’s production at Foxconn, Pegatron Chennai facilities stopped due to heavy rains](https://www.firstpost.com/tech/washed-away-apple-iphones-production-at-foxconn-pegatran-chennai-facilities-due-to-heavy-rains-13466642.html)
 

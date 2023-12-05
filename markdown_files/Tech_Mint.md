@@ -1,3 +1,21 @@
+Tue, 05 Dec 2023 13:30:20 +0530
+### [Realme GT 5 Pro to give tough competition to OnePlus 12 with new 50MP camera? A look at what we know so far](https://www.livemint.com/technology/gadgets/realme-gt-5-pro-to-give-tough-competition-to-oneplus-12-a-look-at-what-we-know-so-far-11701760362603.html)
+
+Article found but Couldn't summarize 
+Realme GT 5 Pro will make its debut in China on December 7, just 2 days after the launch of OnePlus' premium OnePlus 12 series.
+
+Tue, 05 Dec 2023 13:24:27 +0530
+### [Mi LED TV for affordable high-quality watching? Choose from top 8 options to buy](https://www.livemint.com/technology/gadgets/mi-led-tv-for-affordable-high-quality-watching-choose-from-top-8-options-to-buy-11701621108162.html)
+
+Article found but Couldn't summarize 
+Mi LED TVs offer excellent value for money while being light on the pocket. Check out the top 8 options to consider, if you are in the market for a new TV. Bring home one from our comprehensive list.
+
+Tue, 05 Dec 2023 13:22:50 +0530
+### [Geyser for kitchen is essential for comfortable household chores: Top 8 picks](https://www.livemint.com/technology/gadgets/geyser-for-kitchen-is-essential-for-comfortable-household-chores-top-8-picks-11701677616709.html)
+
+Article found but Couldn't summarize 
+Geyser for kitchen are required in every household with dipping temperatures and chilling water. Choose from the 8 best options from renowned brands to get an uninterrupted supply of hot water throughout the season.
+
 Tue, 05 Dec 2023 11:18:05 +0530
 ### [From OnePlus Nord CE 3 5G to Motorola Edge 40 Neo; top 5 smartphones you can buy under  ₹25,000 in December 2023](https://www.livemint.com/technology/gadgets/from-oneplus-nord-ce-3-5g-to-motorola-edge-40-neo-top-5-smartphones-you-can-buy-under-rs-25-000-in-december-2023-11701752235677.html)
 

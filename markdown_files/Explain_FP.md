@@ -1,3 +1,14 @@
+Tue, 05 Dec 2023 13:29:11 +0530
+### [Shivaji to feature on naval uniforms: Why Maratha king is important to Indian Navy](https://www.firstpost.com/explainers/chhatrapati-shivaji-naval-uniforms-maratha-king-importance-indian-navy-contribution-13467402.html)
+
+Article found but Couldn't summarize 
+Shivaji to feature on naval uniforms: Why Maratha king is important to Indian Navy
+
+Tue, 05 Dec 2023 12:28:31 +0530
+### [Did Hamas make millions by betting against Israel stock market before 7 Oct attack?](https://www.firstpost.com/explainers/did-hamas-make-millions-in-profit-by-betting-against-israel-stock-market-before-7-october-attack-13466842.html)
+
+A study conducted by researchers from Columbia University and New York University suggests that some traders may have had prior knowledge of the deadly Hamas attack on Israel in October. The study, titled "Trading on Terror," found significant short-selling of shares before the attacks, indicating that traders bet against the Israeli economy and made profits by short-selling on the Israel stock exchange. The researchers found that short interest in the MSCI Israel Exchange Traded Fund spiked on October 2, and short selling of Israeli securities on the Tel Aviv Stock Exchange increased dramatically just before the attack. The paper provides an example of Bank Leumi, a TASE-listed company, where millions of shares were sold short, yielding profits of millions of dollars. The study suggests that traders who were informed about the coming attacks profited from them. While it is difficult to determine who made the profits, the researchers caution against linking it back to Hamas, as there are various possibilities. The Israel Securities Authority is currently investigating the matter.
+
 Tue, 05 Dec 2023 11:43:09 +0530
 ### [Cruelty by husband, kidnapping &amp; more: How crimes against women are on the rise again in India](https://www.firstpost.com/explainers/cruelty-by-husband-kidnapping-more-how-crimes-against-women-are-on-the-rise-again-in-india-13466122.html)
 
