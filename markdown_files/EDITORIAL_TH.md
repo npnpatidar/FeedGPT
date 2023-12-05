@@ -1,3 +1,15 @@
+Wed, 06 Dec 2023 00:20:00 +0530
+### [Honest reckoning: On the reality behind the commitment to renewable energy](https://www.thehindu.com/opinion/editorial/honest-reckoning-the-hindu-editorial-on-the-reality-behind-the-commitment-to-renewable-energy/article67607830.ece)
+
+Article found but Couldn't summarize 
+Major world economies seem unwilling to move away from fossil fuel
+
+Wed, 06 Dec 2023 00:10:00 +0530
+### [Shared blame: on Chennai and Cyclone Michaung](https://www.thehindu.com/opinion/editorial/shared-blame-on-chennai-and-cyclone-michaung/article67607875.ece)
+
+Article found but Couldn't summarize 
+Cyclone Michaung alone was not responsible for Chennai’s troubles
+
 Tue, 05 Dec 2023 00:20:00 +0530
 ### [Civic victory: On the Mizoram Assembly election results](https://www.thehindu.com/opinion/editorial/civic-victory-on-the-mizoram-assembly-election-results/article67604996.ece)
 

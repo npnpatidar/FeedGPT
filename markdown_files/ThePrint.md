@@ -1,3 +1,94 @@
+Tue, 05 Dec 2023 19:00:33 +0000
+### [Soccer-Barcelona keeper Ter Stegen to undergo back surgery](https://theprint.in/sport/soccer-barcelona-keeper-ter-stegen-to-undergo-back-surgery/1873722/)
+
+Barcelona and Germany goalkeeper Marc Andre ter Stegen will undergo surgery for a lower back injury, which has caused him to miss recent games. The injury was sustained during training with the German national team last month. Ter Stegen announced the decision to have surgery on his Instagram account, stating that it is the right and safe choice to ensure a full recovery. The timeframe for his return has not been specified, but local media reports suggest he could be out for several weeks, potentially causing him to miss the Champions League knockout stages in February. Ter Stegen has been a key player for Barcelona this season, making 17 appearances and keeping eight clean sheets. He was also awarded the Zamora Trophy last season as LaLiga's best goalkeeper.
+
+Tue, 05 Dec 2023 19:00:25 +0000
+### [Soccer-Greek referees refuse to officiate Super League matches over safety concerns](https://theprint.in/sport/soccer-greek-referees-refuse-to-officiate-super-league-matches-over-safety-concerns/1873721/)
+
+Greek referees and match officials have announced that they will not officiate any Super League matches starting from the upcoming weekend. They are protesting against what they deem to be dangerous working conditions. Greek football has been plagued by crowd trouble, corruption allegations, and match-fixing, leading to dwindling attendances. Referees often face violent attacks from fans, with some having their homes and vehicles set on fire. Recently, referee Andreas Gamaris had his shop firebombed, while another referee, Tasos Papapetrou, allegedly received death threats. The referees state that they have been targeted and made scapegoats for shifting responsibilities, enduring bullying, threats, and physical attacks. Club presidents also openly criticize specific referees, sometimes even before matches. In previous seasons, foreign referees were brought in to ensure top division matches could proceed. The referees have decided to abstain until conditions are safe and have requested a meeting with Prime Minister Kyriakos Mitsotakis to discuss the matter. The Greek Super League was not immediately available for comment.
+
+Tue, 05 Dec 2023 19:00:04 +0000
+### [US says Russia rejected a proposal in recent weeks for release of Paul Whelan, Evan Gershkovich](https://theprint.in/world/us-says-russia-rejected-a-proposal-in-recent-weeks-for-release-of-paul-whelan-evan-gershkovich/1873719/)
+
+Article found but Couldn't summarize 
+WASHINGTON (Reuters) - Russia in recent weeks rejected a new proposal for the release of Paul Whelan and Evan Gershkovich, two Americans considered by Washington to be "wrongfully detained" by Russia,
+
+Tue, 05 Dec 2023 19:00:03 +0000
+### [Michaung damages infrastructure in Andhra, subsides into cyclonic storm](https://theprint.in/india/michaung-damages-infrastructure-in-andhra-subsides-into-cyclonic-storm/1873718/)
+
+The severe cyclonic storm Michaung hit the Andhra Pradesh coast near Bapatla, causing significant damage. The storm weakened into a cyclonic storm and is expected to subside further into a deep depression. The impact of the storm affected around 4 million people in 194 villages and two towns, including the inundation of 25 villages. Although there were no human casualties during the storm, a boy died when a hut wall collapsed on him in Tirupati district the day before. The storm damaged 770 kilometers of roads, uprooted 35 trees, destroyed 78 huts and a cattle shed, and marooned 232 houses. In addition, several infrastructure elements such as streetlights, power feeders, and poles suffered damage. Relief efforts were launched, providing food packets, water packets, and health camps for evacuees. The state government allocated Rs 23 crore for relief work. The Meteorological Department reported that Michaung weakened into a cyclonic storm and was centered over south coastal Andhra Pradesh. Heavy rainfall was forecasted for several districts on Wednesday.
+
+Tue, 05 Dec 2023 18:45:29 +0000
+### [Soccer-No limit to Italy’s ambitions at Euro 2024, says Spalletti](https://theprint.in/sport/soccer-no-limit-to-italys-ambitions-at-euro-2024-says-spalletti/1873716/)
+
+Italy's manager, Luciano Spalletti, believes that Italy has the potential to achieve great things at Euro 2024, despite being drawn in a challenging group with Spain, Albania, and Croatia. Spalletti stated that there are no limits to what they can achieve and that their success depends on their ability to improve as a team. He emphasized the need to play high-level games and expressed confidence in his players' passion and potential. Although he didn't reveal his squad selection, Spalletti mentioned that he values players who believe in themselves, take responsibility, and are committed to making history. He also stressed the importance of representing the Azzurri shirt with honor and making the country proud.
+
+Tue, 05 Dec 2023 18:45:24 +0000
+### [Soccer-Al-Fayha complete Saudi sweep as Persepolis exit Asian Champions League](https://theprint.in/sport/soccer-al-fayha-complete-saudi-sweep-as-persepolis-exit-asian-champions-league/1873715/)
+
+Article found but Couldn't summarize 
+By Michael Church (Reuters) - Al-Fayha ensured a full house of Saudi Pro League sides in the last 16 of the Asian Champions League on Tuesday as a 4-1 win over Uzbekistan's Pakhtakor saw Vuk Rasovic's
+
+Tue, 05 Dec 2023 18:45:16 +0000
+### [Jai Ram Thakur shouldn’t make baseless statements: HP minister](https://theprint.in/india/jai-ram-thakur-shouldnt-make-baseless-statements-hp-minister/1873714/)
+
+Himachal Pradesh Minister Vikramaditya Singh criticized BJP leader Jai Ram Thakur for making baseless allegations that money from Chhattisgarh was used to fund the Congress' poll campaign in Himachal Pradesh last year. Singh stated that it is inappropriate for a senior leader like Thakur to make such statements and suggested that if there is any truth to the allegations, the BJP can investigate through the Enforcement Directorate (ED) and Central Bureau of Investigation (CBI), which are under the central government. Singh also advised Thakur to reflect on why his party lost power in Himachal Pradesh one year ago. Thakur had targeted Chhattisgarh Chief Minister Bhupesh Baghel regarding the Mahadev app scam case after the Congress' defeat in Chhattisgarh elections. The Mahadev app is currently being investigated by the Enforcement Directorate for money laundering.
+
+Tue, 05 Dec 2023 18:45:04 +0000
+### [Crew of seized Galaxy Leader allowed ‘modest’ contact with families -shipowner](https://theprint.in/world/crew-of-seized-galaxy-leader-allowed-modest-contact-with-families-shipowner/1873712/)
+
+Article found but Couldn't summarize 
+LONDON (Reuters) - The crew of the Galaxy Leader commercial ship seized by Yemen's Iran-backed Houthis last month have been allowed "modest contact" with their families while various countries push
+
+Tue, 05 Dec 2023 18:45:03 +0000
+### [Thane assistant civic commissioners told to ensure implementation of Marathi signboard order](https://theprint.in/india/thane-assistant-civic-commissioners-told-to-ensure-implementation-of-marathi-signboard-order/1873711/)
+
+Article found but Couldn't summarize 
+Thane, Dec 5 (PTI) Thane Municipal Commissioner Abhijit Bangar on Tuesday asked nine assistant civic commissioners to ensure that signboards of shops and other establishments in the city are displayed in the Marathi (Devnagri) script in bold letters as per Maharashtra government rules. An official release by the Thane Municipal Corporation (TMC) said the responsibility [&#8230;]
+
+Tue, 05 Dec 2023 18:32:12 +0000
+### [Indian Coast Guard Ship Sajag makes port call in Saudi Arabia](https://theprint.in/world/indian-coast-guard-ship-sajag-makes-port-call-in-saudi-arabia/1873708/)
+
+Article found but Couldn't summarize 
+Riyadh [Saudi Arabia], December 5 (ANI): The Indian Coast Guard Ship Sajag, an offshore patrol vessel (OPV), made a port call at King Abdul Aziz Port in Saudi Arabia for a three-day visit on Tuesday. The visit aims to strengthen long-standing diplomatic ties and enhance cooperative engagements with the Saudi Border Guards and Saudi Naval [&#8230;]
+
+Tue, 05 Dec 2023 18:32:02 +0000
+### [Pak cop arrested red-handed for ‘harassing’ women](https://theprint.in/world/pak-cop-arrested-red-handed-for-harassing-women/1873706/)
+
+Article found but Couldn't summarize 
+Faisalabad [Pakistan], December 5 (ANI): A police officer in Faisalabad from the Elite Force was caught by local residents on Tuesday for &#8220;harassing&#8221; women in the Dijkot area, according to ARY News. The residents claimed that the officer identified as Iftikhar was caught red-handed, engaging in inappropriate behaviour towards women. Subsequently, the Faisalabad cop, accused [&#8230;]
+
+Tue, 05 Dec 2023 18:30:38 +0000
+### [Striking employees say no ‘positive’ response of Punjab govt on demands](https://theprint.in/india/striking-employees-say-no-positive-response-of-punjab-govt-on-demands/1873705/)
+
+Article found but Couldn't summarize 
+Chandigarh, Dec 5 (PTI) Representatives of ministerial staff in Punjab who have been on a pen-down strike since November 8 on Tuesday said they did not receive any “positive” response regarding their demands during a meeting with the cabinet sub-committee. Salaries of nearly two lakh government employees have been delayed due to the strike, Punjab [&#8230;]
+
+Tue, 05 Dec 2023 18:30:26 +0000
+### [Climate change impacts human rights in big way, poorest of poor suffer most: NHRC chief](https://theprint.in/india/climate-change-impacts-human-rights-in-big-way-poorest-of-poor-suffer-most-nhrc-chief/1873704/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 5 (PTI) NHRC chairperson Justice Arun Mishra on Tuesday said climate change impacts human rights in a big way and the poorest of the poor suffer the most. He was addressing a session on &#8216;Empowering those most affected by Climate Change&#8217; at the NHRI COP28 Symposium organised by the Global Alliance of [&#8230;]
+
+Tue, 05 Dec 2023 18:30:15 +0000
+### [Man arrested for blackmailing woman employer](https://theprint.in/india/man-arrested-for-blackmailing-woman-employer/1873703/)
+
+Article found but Couldn't summarize 
+Thane, Dec 5 (PTI) A 41-year-old man was arrested here on Tuesday for allegedly blackmailing his woman employer, police said. Vishal Rathod, the accused, worked as a ladies tailor at a tailoring shop owned by the complainant, said senior inspector Kiran Kabadi of Srinagar police station. In her complaint lodged on Monday, the woman said [&#8230;]
+
+Tue, 05 Dec 2023 18:30:03 +0000
+### [Ex-DEA informant pleads guilty to role in killing Haitian president](https://theprint.in/world/ex-dea-informant-pleads-guilty-to-role-in-killing-haitian-president/1873702/)
+
+Article found but Couldn't summarize 
+(Reuters) - Joseph Vincent, a former Drug Enforcement Administration (DEA) informant, on Tuesday became the fourth person to plead guilty in a U.S. court case for his role in the 2021 assassination of
+
+Tue, 05 Dec 2023 18:30:03 +0000
+### [Chhattisgarh: Mahadev app scam accused’s father found dead; cops suspect suicide](https://theprint.in/india/chhattisgarh-mahadev-app-scam-accuseds-father-found-dead-cops-suspect-suicide/1873701/)
+
+Article found but Couldn't summarize 
+Durg, Dec 5 (PTI) The father of a man named as an accused in the Mahadev betting app scam was on Tuesday found dead under suspicious conditions at a village in Chhattisgarh&#8217;s Durg district, a senior police official said. The body of Sushil Das (62), who was missing since the last two days, was found [&#8230;]
+
 Tue, 05 Dec 2023 18:17:02 +0000
 ### [Jason Momoa mourns the demise of his friend Travis Snyder](https://theprint.in/feature/jason-momoa-mourns-the-demise-of-his-friend-travis-snyder/1873699/)
 
