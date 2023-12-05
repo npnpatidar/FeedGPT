@@ -1,3 +1,92 @@
+Tue, 05 Dec 2023 23:02:02 +0000
+### [Russian President Vladimir Putin to visit Gulf countries for first time since 2019](https://theprint.in/world/russian-president-vladimir-putin-to-visit-gulf-countries-for-first-time-since-2019/1873834/)
+
+Article found but Couldn't summarize 
+Moscow [Russia], December 6 (ANI): Russian President Vladimir Putin will visit Saudi Arabia and the UAE for the first time since 2019, with meetings scheduled with Saudi Crown Prince Mohammed bin Salman al Saud and the President of the United Arab Emirates, Mohammed bin Zayed Al Nahyan on Wednesday, Russian news agency TASS reported. It [&#8230;]
+
+Tue, 05 Dec 2023 23:00:18 +0000
+### [Exclusive-New leader of GM’s Cruise acknowledges ‘all-time low’ amid safety review](https://theprint.in/tech/exclusive-new-leader-of-gms-cruise-acknowledges-all-time-low-amid-safety-review/1873832/)
+
+General Motors' autonomous vehicle unit, Cruise, is facing a significant setback and loss of trust after pulling all its vehicles from U.S. roads. The new leader of Cruise, Mo Elshenawy, acknowledged the company's integrity and competency being questioned, describing the situation as going from an industry leader to an all-time low. Elshenawy emphasized the need to rebuild trust with stakeholders and regulators who currently have doubts about Cruise. The company faced regulatory scrutiny following an October accident in San Francisco, leading to the CEO's resignation and a safety review. Elshenawy expressed his disappointment that employees no longer feel comfortable wearing their Cruise jackets in public.
+
+Tue, 05 Dec 2023 23:00:03 +0000
+### [Peru court orders imprisoned ex-President Fujimori’s ‘immediate’ release](https://theprint.in/world/peru-court-orders-imprisoned-ex-president-fujimoris-immediate-release/1873830/)
+
+Article found but Couldn't summarize 
+LIMA (Reuters) -Peru's constitutional court ordered the "immediate release" of imprisoned former President Alberto Fujimori, according to a court document published on Tuesday, marking the latest
+
+Tue, 05 Dec 2023 22:47:01 +0000
+### [Russia signs declaration with Iran to override fresh US sanctions](https://theprint.in/world/russia-signs-declaration-with-iran-to-override-fresh-us-sanctions/1873828/)
+
+Iran and Russia have signed a declaration to overcome the fresh US sanctions imposed on them. Russian Foreign Minister Sergey Lavrov stated that this is an important step in increasing coordinated efforts to combat illegal sanctions. The talks between Russia and Iran will cover various bilateral and regional issues. In September, the US imposed sanctions on entities involved in Russia's energy production and export capacity expansion, including the Arctic LNG 2 project. Additional sanctions targeted Russian banks, businesses, and President Vladimir Putin, with the aim of damaging Russia's economy and holding it accountable for the conflict in Ukraine.
+
+Tue, 05 Dec 2023 22:45:28 +0000
+### [Soccer-England rout Scotland 6-0 but Olympic dreams over](https://theprint.in/sport/soccer-england-rout-scotland-6-0-but-olympic-dreams-over/1873826/)
+
+England's women's national soccer team, the Lionesses, defeated Scotland 6-0 in their recent match. However, this victory was not enough to secure a spot for Team GB in the Paris Olympics as the Netherlands claimed the top position in their Nations League group. In a dramatic turn of events, Lucy Bronze scored a last-minute goal for England, momentarily giving them hope of winning Group A1 and advancing to the Nations League semi-finals. But the Netherlands secured the top spot with a 4-0 victory over Belgium, edging out England on goal difference. Despite their disappointment, England's players recognized their hard work and expressed admiration for their performance. Germany and France also secured top spots in their respective groups, earning berths in the Paris Games.
+
+Tue, 05 Dec 2023 22:45:18 +0000
+### [Soccer-Gladbach score last-gasp extra time winner to beat Wolfsburg in German Cup](https://theprint.in/sport/soccer-gladbach-score-last-gasp-extra-time-winner-to-beat-wolfsburg-in-german-cup/1873824/)
+
+Borussia Moenchengladbach secured a 1-0 victory over VfL Wolfsburg in the German Cup last eight. Manu Kone scored the winning goal in the last minute of extra time, nodding in at the far post after a quick break. The game lacked excitement throughout the 90 minutes, with few highlights. Wolfsburg missed two important chances in stoppage time to snatch a late winner. In other cup matches, Bayer Leverkusen will face Paderborn, and Borussia Dortmund will take on VfB Stuttgart for a spot in the last eight.
+
+Tue, 05 Dec 2023 22:45:11 +0000
+### [Five9 says it is not considering a sale](https://theprint.in/tech/five9-says-it-is-not-considering-a-sale/1873823/)
+
+Article found but Couldn't summarize 
+(Reuters) - Five9 said on Tuesday it is not pursuing a sale of the company, though it had been approached with such an opportunity. Bloomberg News had reported on Monday that the call center software
+
+Tue, 05 Dec 2023 22:32:12 +0000
+### [IDF should retain control for disarmament of Gaza after war, says Israeli PM Netanyahu](https://theprint.in/world/idf-should-retain-control-for-disarmament-of-gaza-after-war-says-israeli-pm-netanyahu/1873821/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], December 6 (ANI): Israeli Prime Minister Benjamin Netanyahu on Tuesday rejected the idea that an international force could be responsible for security in the Gaza Strip after the war, saying that the Israel Defence Forces (IDF) should retain control of the disarmament of Gaza, CNN reported on Wednesday. According to CNN, this [&#8230;]
+
+Tue, 05 Dec 2023 22:32:02 +0000
+### [US announces 21 million USD in additional aid for Gaza](https://theprint.in/world/us-announces-21-million-usd-in-additional-aid-for-gaza/1873819/)
+
+Article found but Couldn't summarize 
+El-Arish [Egypt], December 6 (ANI): Amid the fresh hostilities between Israel and Hamas, after a brief pause for the release of hostages, the United States announced an additional 21 million USD in aid to Gaza, CNN reported quoting US Aid Administrator Samantha Power on a trip to Egypt. It reported that the aid will include [&#8230;]
+
+Tue, 05 Dec 2023 22:30:37 +0000
+### [Soccer-Arsenal go five clear as Rice seals seven-goal thriller at Luton](https://theprint.in/sport/soccer-arsenal-go-five-clear-as-rice-seals-seven-goal-thriller-at-luton/1873817/)
+
+Arsenal secured a thrilling 4-3 victory over Luton Town thanks to Declan Rice's header in stoppage time. The win propelled Arsenal five points clear at the top of the Premier League standings. The game started slow, but Gabriel Martinelli's scuffed shot, assisted by Bukayo Saka, gave Arsenal the lead. Luton quickly responded with a header from Gabriel Osho, and then Arsenal regained the lead just before halftime with a goal from Gabriel Jesus. Luton fought back with goals from Elijah Adebayo and Ross Barkley, but Kai Havertz equalized for Arsenal in the 60th minute. Ultimately, Rice's header secured the win for Arsenal, leaving Luton in disappointment.
+
+Tue, 05 Dec 2023 22:30:18 +0000
+### [Stocks, US yields fall as investors gauge economic health](https://theprint.in/economy/stocks-us-yields-fall-as-investors-gauge-economic-health/1873815/)
+
+Article found but Couldn't summarize 
+By Chuck Mikolajczak NEW YORK (Reuters) - A gauge of global stocks declined for a second straight session and U.S. Treasury yields fell on Tuesday, as investors attempted to assess the policy path of
+
+Tue, 05 Dec 2023 22:30:07 +0000
+### [Oil falls to near 5-month low on OPEC+ cut doubts, demand concerns](https://theprint.in/economy/oil-falls-to-near-5-month-low-on-opec-cut-doubts-demand-concerns/1873813/)
+
+Article found but Couldn't summarize 
+By Scott DiSavino NEW YORK (Reuters) - Oil prices fell to a near five-month low on Tuesday on a stronger U.S. dollar and demand concerns, putting the market down for a fourth day in a row on doubts
+
+Tue, 05 Dec 2023 22:17:01 +0000
+### [US official holds meeting in Pakistan to discuss Afghan deportation plan](https://theprint.in/world/us-official-holds-meeting-in-pakistan-to-discuss-afghan-deportation-plan/1873811/)
+
+A senior US administration official, Julieta Valls Noyes, has visited Pakistan to discuss Afghan refugees and their resettlement. Noyes met with Pakistan's special representative for Afghanistan, Ambassador Asif Durrani, and other senior officials during her four-day trip. The US is working with Pakistan to find a solution for eligible Afghans who worked for the US during its military campaign but are now stranded in Pakistan. Pakistan has started cracking down on illegal Afghan immigrants, but the US aims to spare those eligible for immigration. Concerns exist about vulnerable individuals like musicians, artists, and journalists facing eviction. Another US official, Tom West, is scheduled to arrive in Islamabad later to discuss the overall Afghan situation and the relationship between Pakistan and the Afghan Taliban.
+
+Tue, 05 Dec 2023 22:15:26 +0000
+### [SentinelOne raises annual revenue forecast on robust cybersecurity spending](https://theprint.in/tech/sentinelone-raises-annual-revenue-forecast-on-robust-cybersecurity-spending/1873809/)
+
+Article found but Couldn't summarize 
+(Reuters) - Cybersecurity firm SentinelOne on Tuesday forecast third-quarter revenue above Wall Street estimates and raised its annual revenue outlook, as cybersecurity spending remains strong. The
+
+Tue, 05 Dec 2023 22:15:17 +0000
+### [Bitcoin rises 5% to $44,083](https://theprint.in/tech/bitcoin-rises-5-to-44083/1873807/)
+
+Bitcoin saw a 5% increase to reach $44,083 at 2149 GMT on Tuesday, marking a $2,098 gain from its previous close. This surge comes as Bitcoin, the largest and most well-known cryptocurrency, is up by 66.1% from its yearly low of $26,533 on October 11. Additionally, Ether, the coin associated with the ethereum blockchain network, experienced a 1.4% rise, reaching $2,275.7 and adding $31.9 to its previous close. This information was reported by Devika Nair in Bengaluru and edited by Chris Reese for Reuters.
+
+Tue, 05 Dec 2023 22:15:05 +0000
+### [Costa Rica arrests ex-Panama presidential hopeful tied to money laundering case](https://theprint.in/world/costa-rica-arrests-ex-panama-presidential-hopeful-tied-to-money-laundering-case/1873806/)
+
+Article found but Couldn't summarize 
+SAN JOSE/PANAMA CITY (Reuters) - Costa Rican police on Tuesday arrested Panamanian businessman and former presidential hopeful David Ochy on charges of fraud and money laundering, judicial authorities
+
 Tue, 05 Dec 2023 22:00:21 +0000
 ### [Soccer-England’s Olympic dreams over despite 6-0 rout of Scotland](https://theprint.in/sport/soccer-englands-olympic-dreams-over-despite-6-0-rout-of-scotland/1873804/)
 
