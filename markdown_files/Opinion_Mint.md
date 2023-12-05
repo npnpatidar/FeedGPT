@@ -1,3 +1,26 @@
+Tue, 05 Dec 2023 21:06:42 +0530
+### [The written word is too important to risk an AI takeover of it](https://www.livemint.com/opinion/online-views/the-written-word-is-too-important-to-risk-an-ai-takeover-of-it-11701788208029.html)
+
+Article found but Couldn't summarize 
+We are at an inflection point in language deployment and must do all we can to retain its purpose. It has served humankind well all through our evolution so far and there may be a way to keep it this way.
+
+Tue, 05 Dec 2023 21:02:26 +0530
+### [Facts about India’s GDP growth challenge the narrative of critics](https://www.livemint.com/opinion/online-views/facts-about-india-s-gdp-growth-challenge-the-narrative-of-critics-11701777581395.html)
+
+The article discusses the narrative surrounding India's GDP growth and economic development. It highlights that despite criticisms, the country's economic growth has been 7.4% in the first six months of fiscal year 2023-24. The author mentions that experts' opinions on the Indian economy have changed since Prime Minister Modi took office in 2014. They argue that GDP data no longer reflects reality, recovery has been K-shaped with wealth inequality increasing, and women have been particularly impacted. However, the author counters these claims by stating that investment is a key driver of growth and that real investment ratios have remained relatively stable. They also note that factors such as monetary policy tightening and the COVID-19 pandemic have affected growth. The article concludes by suggesting that India is entering a sustained period of growth, with the potential for over 7% GDP growth and the highest per capita growth ever.
+
+Tue, 05 Dec 2023 20:56:01 +0530
+### [Should OTT platforms be regulated the same way cable television is?](https://www.livemint.com/opinion/online-views/should-ott-platforms-be-regulated-the-same-way-cable-television-is-11701777711399.html)
+
+Article found but Couldn't summarize 
+Different business models should not be treated alike for regulation. Also, as IT Rules already exist to oversee online apps, why reinvent the wheel?
+
+Tue, 05 Dec 2023 20:53:23 +0530
+### [Reduce oil and gas production, don’t just make it leak less methane](https://www.livemint.com/opinion/online-views/reduce-oil-and-gas-production-don-t-just-make-it-leak-less-methane-11701777665816.html)
+
+Article found but Couldn't summarize 
+Reducing fossil fuel output and usage is the way to go. It makes much more sense than pushing for efficiency to minimize gas leaks.
+
 Tue, 05 Dec 2023 08:00:14 +0530
 ### [The spatial spread of economic activities must be mapped for data accuracy](https://www.livemint.com/opinion/online-views/the-spatial-spread-of-economic-activities-must-be-mapped-for-data-accuracy-11701690655546.html)
 

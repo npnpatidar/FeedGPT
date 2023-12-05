@@ -1,3 +1,39 @@
+Tue, 05 Dec 2023 20:09:55 +0530
+### [OnePlus smart TVs come with trust of reliable performance: Choose from best 8](https://www.livemint.com/technology/gadgets/oneplus-smart-tvs-come-with-trust-of-reliable-performance-choose-from-best-8-11701629626792.html)
+
+Article found but Couldn't summarize 
+Are you looking for a reliable content viewing companion that does not feel like a burden on your pocket? Check out our in-depth list of the best OnePlus smart TVs for your home. Choose from different models and specifications based on your requirements.
+
+Tue, 05 Dec 2023 20:09:07 +0530
+### [Best monitor for gaming across budgets: Check out top 10 options for gaming](https://www.livemint.com/technology/gadgets/best-monitor-for-gaming-across-budgets-check-out-top-10-options-for-gaming-11701763361124.html)
+
+Article found but Couldn't summarize 
+Monitor for gaming is an essential peripheral to have an immersive gaming experience. Check out the best monitor for gaming in different budgets and bring home the one that fits best.
+
+Tue, 05 Dec 2023 19:50:39 +0530
+### [IFB microwaves: Top 7 reliable kitchen companions](https://www.livemint.com/technology/ifb-microwaves-top-7-reliable-kitchen-companions-11701755787943.html)
+
+Article found but Couldn't summarize 
+IFB microwaves are a range of reliable and efficient kitchen appliances suitable for various cooking needs. Each model is designed to enhance the cooking experience, offering a blend of functionality, style, and convenience.
+
+Tue, 05 Dec 2023 19:49:11 +0530
+### [32L microwave ovens: Top 5 cooking solutions for heavy cooking](https://www.livemint.com/technology/32l-microwave-ovens-top-5-cooking-solutions-for-heavy-cooking-11701754443233.html)
+
+Article found but Couldn't summarize 
+This article highlights different models of 32L microwave ovens, highlighting their unique features. Each model is assessed for its cooking efficiency, energy-saving modes, design, and additional functions like grilling and baking.
+
+Tue, 05 Dec 2023 19:48:45 +0530
+### [Best fridge under  ₹40,000 in India: Top 9 double door models vs. single door](https://www.livemint.com/technology/gadgets/best-fridge-under-rs-40-000-in-india-top-9-double-door-models-vs-single-door-11701775611584.html)
+
+Article found but Couldn't summarize 
+Explore the best refrigerators under  ₹40,000 available in India and compare models with single and multiple doors. Discover the best options for efficient cooling and storage, making informed choices for your budget.
+
+Tue, 05 Dec 2023 19:48:28 +0530
+### [Best fridges: Top 10 frost-free refrigerators for home](https://www.livemint.com/technology/gadgets/best-fridges-top-10-frost-free-refrigerators-for-home-11701766101877.html)
+
+Article found but Couldn't summarize 
+With the help of our in-depth guide on best fridges in the market this year, you can choose the finest frost-free refrigerators for your house that provide superior features, ideal storage, and cutting-edge technology.
+
 Tue, 05 Dec 2023 17:12:50 +0530
 ### [Apple warns India's EU-style charger rules will hit local production target](https://www.livemint.com/technology/gadgets/apple-warns-indias-eu-style-charger-rules-will-hit-local-production-target-11701775725745.html)
 

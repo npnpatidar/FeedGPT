@@ -1,3 +1,42 @@
+Tue, 05 Dec 2023 14:53:19 +0000
+### [Sensex, Nifty soar: Political, other factors driving the rally](https://indianexpress.com/article/explained/explained-economics/why-sensex-nifty-soaring-political-other-factors-9055865/)
+
+Indian equities have experienced a surge of over 2.6% in the last two trading sessions, reaching new highs following the BJP's victory in three out of four Assembly elections. This outcome has boosted market sentiments and raised optimism among investors that the national party will be re-elected in the 2024 Lok Sabha elections, leading to policy continuity and long-term growth.
+
+The rise in benchmark indices coincides with a rally in the domestic market due to stronger-than-expected GDP growth, lower crude oil prices, ease in US bond yields, increased foreign portfolio investments (FPI), and expectations of an early rate cut by the US Federal Reserve. Since November 1, the Sensex and Nifty have jumped by approximately 9%.
+
+The BJP's decisive victories in Madhya Pradesh, Rajasthan, and Chhattisgarh have instilled confidence in the market regarding political stability at the Centre, resulting in heavy buying from investors. The government's pro-growth initiatives such as infrastructure development, digital India, and 'Make in India' have been well-received by the market.
+
+Economically, higher-than-expected GDP growth of 7.6% in Q2 of FY '24 has further boosted investor sentiment. The yield on the 10-year US Treasury has fallen, making markets like India more attractive for foreign flows. Additionally, falling crude oil prices have led to expectations of controlled inflation in the US, potentially prompting the US Federal Reserve to cut interest rates earlier than anticipated.
+
+Foreign institutional investors (FII) have shifted their strategy from selling Indian shares in September and October to becoming net purchasers in November and December. FPIs have bought Rs 15,462 crore of shares in December compared to Rs 9,001 crore in November.
+
+Overall, the Indian equity market reflects strong optimism driven by both political and economic factors, with expectations of continued growth and a positive outlook for the Indian economy.
+
+Tue, 05 Dec 2023 13:28:20 +0000
+### [Karni Sena chief killed: Who was Sukhdev Singh Gogamedi, and what was the outfit he headed?](https://indianexpress.com/article/explained/explained-politics/karni-sena-chief-killed-who-was-gogamedi-9055777/)
+
+Sukhdev Singh Gogamedi, the president of Shri Rashtriya Rajput Karni Sena (SRRKS), was shot dead in Jaipur, along with one of the three assailants who attacked him at his home. The incident occurred on Tuesday afternoon in Jaipur's Shyam Nagar, and Gogamedi was pronounced dead at the hospital. SRRKS is a splinter group that split from the Shri Rajput Karni Sena (SRKS). Gogamedi was formerly associated with SRKS but was expelled in 2015 by its founder, Lokendra Singh Kalvi, which led to the formation of SRRKS.
+
+Gogamedi and his group gained notoriety for their violent opposition to various issues over the years, including the protests against the Bollywood movie 'Padmaavat.' They were involved in assaulting director Sanjay Leela Bhansali during the film's shooting in 2017. In April 2021, they demanded an increase in the economically weaker sections (EWS) quota for general castes.
+
+The murder of Gogamedi is allegedly claimed by a member of the Lawrence Bishnoi gang, currently imprisoned in Tihar jail. The SRKS was initially formed in 2006 as a response to the Rajputs' struggle against their rivals, the Jats, following a dispute involving a notorious gangster. The SRKS aimed to oppose social and political malice against Rajputs, promote Rajput unity, and prevent the misrepresentation of historical figures, named after the revered Karni Mata goddess.
+
+Further details regarding the motive behind Gogamedi's murder are yet to be revealed.
+
+Tue, 05 Dec 2023 12:42:49 +0000
+### [Why Moody’s cut China’s economic outlook to ‘negative’](https://indianexpress.com/article/explained/everyday-explainers/china-moodys-cut-economy-outlook-explained-9055615/)
+
+Moody's, the ratings agency, has downgraded China's credit rating outlook from 'stable' to 'negative'. The downgrade is a result of several challenges faced by the Chinese economy, including a manufacturing slowdown worsened by the Covid-19 pandemic. China's strategy of implementing strict lockdowns in response to Covid-19 impacted economic activity. Moody's also cited concerns about lower medium-term economic growth and the downsizing of the property sector as reasons for the downgrade.
+
+China's property sector has been experiencing funding constraints, with real estate giants like Country Garden and Evergrande recently defaulting on their loans due to decreased demand for homes. There are worries that these issues could have broader implications for the economy. Additionally, there are concerns about the government's finances as it may need to spend billions of dollars to support struggling sectors.
+
+Moody's predicts China's annual GDP growth to slow to 4.0% in 2024 and 2025, with an average of 3.8% from 2026 to 2030. Credit rating agencies evaluate the financial health of companies and governments based on official data and interactions with relevant stakeholders. These ratings help investors make informed decisions and influence borrowing costs.
+
+While Moody's retained China's A1 long-term local and foreign-currency issuer ratings, the downgrade in outlook suggests a potential future downgrade. The last downgrade of China's economy occurred in 2017. China's Finance Ministry expressed disappointment with the downgrade, stating that Moody's concerns were unnecessary.
+
+It is worth noting that Moody's also recently lowered the outlook on the US credit rating from "stable" to "negative" due to rising interest rates, a growing debt burden, and political gridlock in Congress. However, the US retained its AAA rating.
+
 Tue, 05 Dec 2023 11:39:27 +0000
 ### [Cyclone Michaung batters Chennai: Similarities, differences from the 2015 floods](https://indianexpress.com/article/explained/cyclone-michaung-2015-floods-9055525/)
 

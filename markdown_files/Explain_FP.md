@@ -1,3 +1,14 @@
+Tue, 05 Dec 2023 20:24:40 +0530
+### [Karni Sena chief murder: How the Lawrence Bishnoi gang is becoming more dangerous](https://www.firstpost.com/explainers/karni-sena-chief-murder-how-the-lawrence-bishnoi-gang-is-becoming-more-dangerous-13469912.html)
+
+Article found but Couldn't summarize 
+Karni Sena chief murder: How the Lawrence Bishnoi gang is becoming more dangerous
+
+Tue, 05 Dec 2023 19:48:53 +0530
+### [The Rise of Revanth Reddy: Meet the new Telangana chief minister](https://www.firstpost.com/explainers/telangana-assembly-election-results-2023-who-is-revanth-reddy-congress-13459862.html)
+
+The article discusses the Congress party's victory in the Telangana Assembly elections and the selection of Anumula Revanth Reddy as the new chief minister. The Congress won 65 seats, defeating Chief Minister K Chandrasekhar Rao's Bharat Rashtra Samithi (BRS). Reddy played a crucial role in leading the party's campaign in the state. He has a political background and started his career with the Akhil Bharatiya Vidhyarthi Parishad before joining the TRS and later the Congress. Reddy's strategic planning and charismatic leadership contributed to the party's success in increasing its seat count from 19 to 65. Despite facing some criticism within the party for his autocratic style, Reddy received support from senior party leaders, including Rahul Gandhi. Ultimately, it was Rahul Gandhi's decision to select Reddy as the chief minister.
+
 Tue, 05 Dec 2023 19:06:07 +0530
 ### [Where will bankrupt Pakistan get funds to hold elections?](https://www.firstpost.com/explainers/where-will-bankrupt-pakistan-get-funds-to-hold-elections-13469142.html)
 

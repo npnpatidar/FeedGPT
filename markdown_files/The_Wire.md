@@ -1,3 +1,21 @@
+2023-12-05T20:40:41+05:30
+### [Prominent Rajput Leader Gogamedi Shot Dead, Protests Erupt in Rajasthan](https://thewire.in/security/prominent-rajput-leader-gogamedi-shot-dead-protests-erupt-in-rajasthan)
+
+No Article text 
+While BJP leaders from Rajasthan government accused outgoing Congress government of not providing adequate security to the slain leader, Rajput community leaders say it is only the 'beginning' of many such attacks under the upcoming BJP rule.
+
+2023-12-05T20:30:33+05:30
+### [From 1960 to 1990, India and China Were at Par. How Did It Then Overtake Us?](https://thewire.in/economy/from-1960-to-1990-india-and-china-were-at-par-how-did-it-then-overtake-us)
+
+No Article text 
+In 1990, India's per person income was $367, while China's was $317. By 2000, India's per person income had risen to $1,357, compared to China's $4,450.
+
+2023-12-05T20:04:47+05:30
+### [In First Visit Since Charges Filed in Pannun ‘Plot’, US Talks Accountability, India Silent Publicly](https://thewire.in/diplomacy/first-visit-pannun-plot-us-accountability-india-silent-publicly)
+
+No Article text 
+Principal deputy national security advisor Jon Finer’s visit to India is the first by a senior US administration official following the charges being made public.
+
 2023-12-05T19:15:18+05:30
 ### [Israel's Goal of Eliminating Hamas is a Red Herring, Evicting Palestinians from Gaza is the Real Aim](https://thewire.in/world/israels-hamas-red-herring-evicting-palestinians-gaza)
 

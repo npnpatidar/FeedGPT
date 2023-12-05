@@ -1,3 +1,8 @@
+Tue, 05 Dec 2023 14:19:22 +0000
+### [Why Congress lost Madhya Pradesh: Unlike Telangana, it didn’t listen to advisers or notice BJP’s winning strategy](https://indianexpress.com/article/opinion/columns/why-congress-lost-madhya-pradesh-unlike-telangana-it-didnt-listen-to-advisers-or-notice-bjps-winning-strategy-9055724/)
+
+The article discusses the reasons behind the Congress party's loss in Madhya Pradesh and the BJP's victory. It highlights the lack of aggression and strategy in the Congress campaign compared to the BJP's focused approach. The Congress failed to address important issues such as welfarism, the Modi factor, and the Ram temple, which influenced the voters' choices. Prime Minister Modi and Amit Shah consistently emphasized the construction of the Ram temple during their rallies. Kamal Nath's attempts to project himself as a devout Hindu did not resonate with the voters. On the other hand, the BJP fielded several prominent leaders who worked hard in their respective areas. Jyotiraditya Scindia's shift to the BJP helped them overcome anti-incumbency sentiment. Shivraj Singh Chouhan effectively connected with voters, particularly women, by highlighting schemes targeted at them. Rahul Gandhi's focus on caste-based reservations did not resonate well in Madhya Pradesh, leading to the loss of Rajput-Brahmin votes for the Congress. Overall, the article suggests an uncertain future for the Congress in Madhya Pradesh.
+
 Tue, 05 Dec 2023 10:31:40 +0000
 ### [Ashutosh Varshney writes: Why BJP’s Hindutva — and Modi magic — hit a wall in South India](https://indianexpress.com/article/opinion/columns/ashutosh-varshney-bjp-hindutva-modi-magic-hit-a-wall-in-south-india-9055350/)
 
