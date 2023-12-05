@@ -1,3 +1,8 @@
+Tue, 05 Dec 2023 10:31:40 +0000
+### [Ashutosh Varshney writes: Why BJP’s Hindutva — and Modi magic — hit a wall in South India](https://indianexpress.com/article/opinion/columns/ashutosh-varshney-bjp-hindutva-modi-magic-hit-a-wall-in-south-india-9055350/)
+
+Article found but Couldn't summarize
+
 Tue, 05 Dec 2023 07:21:12 +0000
 ### [Maratha agitation and lathi-charge: Why aren’t we more appalled by the police violence on peaceful crowds?](https://indianexpress.com/article/opinion/columns/maratha-agitation-lathi-charge-police-violence-9055080/)
 

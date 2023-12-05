@@ -1,3 +1,33 @@
+2023-12-05T17:45:58+05:30
+### [The Art World Is Succumbing to the Pressure of Ostracising Those Who Support Palestine](https://thewire.in/culture/art-world-succumbing-pressure-ostracising-support-palestine)
+
+No Article text 
+The conflation of anti-Zionism with anti-Semitism is dangerous and the culture sector is cracking under its weight.
+
+2023-12-05T17:05:15+05:30
+### [Is Gehlot-Pilot Rivalry to Blame for Congress's Drubbing in Rajasthan?](https://thewire.in/politics/gehlot-pilot-rivalry-congress-drubbing-rajasthan)
+
+No Article text 
+While the Ashok Gehlot government appears to have received popular support for its welfare schemes, the Congress lost to the BJP due to its ineffective campaign strategy and poor selection of candidates.
+
+2023-12-05T17:00:31+05:30
+### [Ladakh Leaders' Statehood Demand Gets a Cold Shoulder From the Union Government](https://thewire.in/government/ladakh-leaders-statehood-demand-gets-a-cold-shoulder-from-the-union-government)
+
+No Article text 
+However, the Centre is likely to assent to other demands over jobs, land and identity-related rights. Talks will resume after the winter session of parliament.
+
+2023-12-05T16:30:39+05:30
+### [What Veterans Think About PM Modi Announcing Change of Navy Epaulettes](https://thewire.in/security/veterans-prime-minister-modi-change-navy-epaulettes)
+
+No Article text 
+Such internal service matters are best left to the armed forces themselves to announce and declarations by politicians give rise to charges of politicising the military, said a retired officer.
+
+2023-12-05T16:00:12+05:30
+### [Eminent Figures Urge MPs to Align Election Commissioners' Appointment Bill with SC Norms](https://thewire.in/rights/prominent-figures-urge-mps-to-align-election-commissioners-appointment-bill-with-sc-norms)
+
+No Article text 
+Section 7 of the Bill seeks to set up a selection committee headed by the prime minister, which will have one Union minister, nominated by the prime minister, and the Leader of the Opposition as its members.
+
 2023-12-05T15:30:02+05:30
 ### [Why IndusInd Bank’s Rejection of an Independent Director’s Reappointment Raises Concerns](https://thewire.in/banking/why-indusind-banks-rejection-of-an-independent-directors-reappointment-raises-concerns)
 

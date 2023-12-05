@@ -1,3 +1,30 @@
+Tue, 05 Dec 2023 17:42:07 +0530
+### [Earthquakes: How tech tools can mitigate catastrophic impacts](https://www.firstpost.com/opinion/earthquakes-how-tech-tools-can-mitigate-catastrophic-impacts-13469232.html)
+
+The article discusses the increased vulnerability of Delhi-NCR to earthquakes and the potential connection between climate change and seismic activity. The region has experienced multiple earthquakes in the past month, causing panic among residents. Delhi-NCR is located in earthquake zone 4, indicating a high-risk area due to its proximity to the fragile Himalayan region. While climate change is commonly associated with extreme weather events like floods and cyclones, recent research suggests that it can also impact earthquakes and volcanic eruptions. The changing climate can alter activities beneath the Earth's surface, leading to destabilization and increased earthquake frequency. The intensity of monsoon rainfall is predicted to increase in southern Asia, potentially exacerbating this phenomenon.
+
+The weight of water, including glacial ice, also affects the Earth's crust. As heavy glacial ice masses thawed at the end of the previous ice age around 10,000 years ago, parts of the Earth's crust began to rebound upwards, causing earthquakes. This process, known as isostatic rebound, has been observed in Scotland, where elevated beaches indicate this geological instability. If glacier ice continues to melt as it does now, similar consequences could occur in other areas.
+
+To mitigate the damage caused by earthquakes, various disaster risk measures can be adopted. One such measure is the use of technology like the MyShake app, which utilizes a smartphone's built-in sensor to detect earthquakes. Another app called LastQuake relies on volunteer reporting and collects seismic activity reports from social media platforms. These initiatives aim to improve data collection and citizen participation in risk-related scientific activities.
+
+India is committed to following the Sendai Framework for Disaster Risk Reduction, which emphasizes citizen involvement in risk awareness and preparedness. Crowdsourcing approaches have shown effectiveness in disaster management, assessment, and emergency decision-making. The author concludes by stating that the views expressed are personal and do not necessarily reflect Firstpost's opinions.
+
+Tue, 05 Dec 2023 17:06:48 +0530
+### [Vantage | What's behind Philippines battle with Islamic State?](https://www.firstpost.com/opinion/vantage-whats-behind-philippines-battle-with-islamic-state-13468772.html)
+
+A bomb blast during a Catholic mass in Marawi city, Philippines has caused devastation and left the nation mourning. The attack took place in a university gym, targeting a region with a history of religious extremism. The Islamic State (ISIS) has claimed responsibility for the attack, prompting the president to place the army on high alert and launch a manhunt for the attackers. Eyewitnesses described the panic and rush for safety after the explosion. Mindanao province, where the bombing occurred, has a history of religious extremism and ongoing military operations against extremist groups. The bombing could be a retaliatory response to recent anti-terror operations. Despite the tragedy, classes have resumed at the university with increased security measures. The government is determined to address the security crisis and prevent the resurgence of the Islamic State.
+
+Tue, 05 Dec 2023 16:27:15 +0530
+### [Congress invoking North-South divide is old Aryan-Dravidian wine in new bottle, will only script its demise](https://www.firstpost.com/opinion/congress-invoking-north-south-divide-is-old-aryan-dravidian-wine-in-new-bottle-will-only-script-its-demise-13468222.html)
+
+The article discusses the problematic narrative of the Congress party in Indian politics. It highlights how the party failed to analyze its defeat in the recent elections in the Hindi heartland states of Madhya Pradesh and Chhattisgarh, instead indulging in a North vs South debate. The article argues that this narrative is flawed politically and ideologically. Politically, it criticizes the Congress for questioning the motives and qualifications of voters who had previously supported the party. The article also points out that the BJP, a rising force in the South, undermines the North vs South narrative. Ideologically, the article suggests that the Congress is dividing the nation by manufacturing a fake divide between the North and South. It traces the Congress' shift towards a leftist ideology that has alienated young, tech-savvy voters who are rooted in their civilizational past. The article concludes by emphasizing the need for new politics in India that aligns with the needs and ethos of the country and rejects divisive narratives.
+
+Tue, 05 Dec 2023 15:58:24 +0530
+### [Israel-Hamas war resumes after a weeklong ceasefire: Evaluating hopes against realities](https://www.firstpost.com/opinion/israel-hamas-war-resumes-after-a-weeklong-ceasefire-evaluating-hopes-against-realities-13467932.html)
+
+Article found but Couldn't summarize 
+Israel-Hamas war resumes after a weeklong ceasefire: Evaluating hopes against realities
+
 Tue, 05 Dec 2023 14:33:16 +0530
 ### [Vantage | Why poor quality cough syrups may poison India's reputation too](https://www.firstpost.com/opinion/vantage-why-poor-quality-cough-syrups-may-poison-indias-reputation-too-13467772.html)
 

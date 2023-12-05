@@ -1,3 +1,9 @@
+Tue, 05 Dec 2023 17:12:50 +0530
+### [Apple warns India's EU-style charger rules will hit local production target](https://www.livemint.com/technology/gadgets/apple-warns-indias-eu-style-charger-rules-will-hit-local-production-target-11701775725745.html)
+
+Article found but Couldn't summarize 
+Apple has told India its local production targets will be hit if New Delhi follows the European Union and requires existing iPhones to have universal charging ports, the report said
+
 Tue, 05 Dec 2023 15:19:25 +0530
 ### [Rockstar Games to skip GTA 6 PC launch? Here's what we know so far](https://www.livemint.com/technology/tech-news/rockstar-games-to-skip-gta-6-pc-launch-heres-what-we-know-so-far-11701763618324.html)
 

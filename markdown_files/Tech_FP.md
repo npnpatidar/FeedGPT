@@ -1,3 +1,19 @@
+Tue, 05 Dec 2023 17:26:33 +0530
+### [US cybersecurity experts failing, can’t stop Iran-backed hackers from going after their water systems](https://www.firstpost.com/tech/us-cybersecurity-experts-failing-cant-stop-iran-backed-hackers-from-going-after-their-water-systems-13469152.html)
+
+Article found but Couldn't summarize 
+US cybersecurity experts failing, can’t stop Iran-backed hackers from going after their water systems
+
+Tue, 05 Dec 2023 16:59:24 +0530
+### [Best phones under Rs 50,000 (Dec 2023): Samsung Galaxy S22 5G, Google Pixel 7a to Nothing Phone (2)](https://www.firstpost.com/tech/best-phones-under-rs-50000-december-2023-13468872.html)
+
+The top 5 smartphones under Rs 50,000 in India currently are the Samsung Galaxy S22 5G, Google Pixel 7a, iQOO 11 5G, Nothing Phone (2), and Xiaomi 12 Pro 5G. The Samsung Galaxy S22 5G is priced at Rs 49,999 for the 8GB RAM/128GB storage variant. The Google Pixel 7a is priced at Rs 40,999 for the 8GB RAM/128GB storage variant. The iQOO 11 5G is priced at Rs 49,999 for the 8GB RAM/256GB storage variant. The Nothing Phone (2) is priced at Rs 44,999 for the 12GB RAM/256GB storage variant and Rs 49,999 for the 12GB RAM/512GB storage variant. The Xiaomi 12 Pro 5G is priced at Rs 41,999 for the 8GB RAM/256GB storage variant.
+
+Tue, 05 Dec 2023 16:39:09 +0530
+### [Harvard took $500mn from Meta to fire disinfo expert who said Facebook allowed COVID fake news](https://www.firstpost.com/tech/harvard-took-500mn-from-meta-to-fire-disinfo-expert-who-said-facebook-allowed-covid-fake-news-13468742.html)
+
+Joan Donovan, a disinformation expert and former head of Harvard's Technology and Social Change Project (TASC), has accused Harvard University of firing her after accepting a $500 million donation from the Chan Zuckerberg Institute associated with Meta CEO Mark Zuckerberg and Priscilla Chan. Donovan filed a document with the Massachusetts attorney general's office and the US Education Department, claiming that Harvard succumbed to pressure from Meta, leading to her termination and the closure of TASC. She alleges that her treatment changed after presenting a keynote on the "Facebook Papers" to top Kennedy School donors, suggesting that Facebook was aware of the harm caused by disinformation on its platform but chose not to act. Lawyers representing Donovan argue that the large donation may have influenced Harvard's actions. The allegations are being investigated by authorities. Harvard denies the claims and says Donovan was offered a chance to continue as a part-time adjunct lecturer, which she declined.
+
 Tue, 05 Dec 2023 15:31:20 +0530
 ### [Elon Musk left speechless when someone pointed out glaring flaw in his plan to colonise Mars](https://www.firstpost.com/tech/elon-musk-left-speechless-when-someone-pointed-out-glaring-flaw-in-his-plan-to-colonise-mars-13468342.html)
 

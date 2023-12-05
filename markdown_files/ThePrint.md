@@ -1,3 +1,121 @@
+Tue, 05 Dec 2023 12:17:01 +0000
+### [Shahid, Nora, Malaika, Sunil Grover, Honey Singh to dazzle at Stardom 2024!](https://theprint.in/ani-press-releases/shahid-nora-malaika-sunil-grover-honey-singh-to-dazzle-at-stardom-2024/1873099/)
+
+Outcry Entertainment is presenting Mumbai's first-ever Bollywood Live Concert called Stardom on January 20, 2024. The four-hour extravaganza will feature opening acts, dance performances by Bollywood A-listers including Shahid Kapoor, Nora Fatehi, and Malaika Arora. Comedian Sunil Grover will provide a comedy act, while singer Yo Yo Honey Singh will entertain with his biggest hits. The event aims to create a unique experience for Bollywood fans and set new entertainment standards. Tickets are available on BookMyShow, and the concert will include special effects, a firework display, multiple bars, and a food court. Outcry Entertainment is a renowned entertainment agency known for producing large-scale concerts.
+
+Tue, 05 Dec 2023 12:15:15 +0000
+### [Soccer-Sheffield United to replace Heckingbottom with former manager Wilder](https://theprint.in/sport/soccer-sheffield-united-to-replace-heckingbottom-with-former-manager-wilder/1873095/)
+
+Article found but Couldn't summarize 
+(Reuters) - Sheffield United are set to bring back Chris Wilder as their new manager to replace Paul Heckingbottom, the Premier League club's owner Prince Abdullah said. "Yes (I have made the decision
+
+Tue, 05 Dec 2023 12:15:14 +0000
+### [11,000 cops, 40 bomb squads to be deployed for assembly winter session in Nagpur](https://theprint.in/india/11000-cops-40-bomb-squads-to-be-deployed-for-assembly-winter-session-in-nagpur/1873094/)
+
+Around 11,000 policemen, along with 40 bomb squads and 10 companies of the state reserve police force (SRPF), will be deployed in Nagpur during the 14-day winter session of the Maharashtra assembly. The session is scheduled to begin on December 7 and end on December 20. Police Commissioner Amitesh Kumar and joint commissioner Aswati Dorje held a meeting to discuss security arrangements, emphasizing the strategic deployment of armed policemen around the Vidhan Bhavan. The deployment includes 6,000 police personnel from different parts of the state, as well as officers from various ranks, assistant commissioners of police, inspectors, and women inspectors. In addition, 30 bomb squads from outside the district and 10 from the city police force will provide security to VIPs. The number of organizations granted permission to hold protests is expected to exceed 100.
+
+Tue, 05 Dec 2023 12:15:02 +0000
+### [Assam records jump in corruption-related cases, reveals NCRB data](https://theprint.in/india/assam-records-jump-in-corruption-related-cases-reveals-ncrb-data/1873093/)
+
+Article found but Couldn't summarize 
+Guwahati, Dec 5 (PTI) Cases of corruption registered in Assam have witnessed a sharp increase in 2022 in comparison to the two previous years, according to National Crime Records Bureau (NCRB) data released on Monday. The state reported 57 cases under the Prevention of Corruption Act and related sections of the Indian Penal Code (IPC) [&#8230;]
+
+Tue, 05 Dec 2023 12:13:19 +0000
+### [Marked rise in sudden deaths & heart attacks in 2022, shows NCRB data](https://theprint.in/health/marked-rise-in-sudden-deaths-heart-attacks-in-2022-shows-ncrb-data/1873004/)
+
+Article found but Couldn't summarize 
+While 56,653 sudden deaths were reported in India, heart attacks caused 32,457 deaths. Spike in heart &#038; cardiovascular diseases over last few years is concerning, say doctors
+
+Tue, 05 Dec 2023 12:12:32 +0000
+### [DU India’s best performer in global QS sustainability rankings. But no Indian institution in top 200](https://theprint.in/india/education/du-indias-best-performer-in-global-qs-sustainability-rankings-but-no-indian-institution-in-top-200/1873042/)
+
+Article found but Couldn't summarize 
+University of Toronto tops list. Among 56 Indian universities featured in the rankings, DU claimed highest spot (220th) globally. IIT Bombay, IIT Madras ranked 303 and 344.
+
+Tue, 05 Dec 2023 12:07:55 +0000
+### [SubscriberWrites: Treat investment in schools as infrastructure project](https://theprint.in/yourturn/subscriberwrites-treat-investment-in-schools-as-infrastructure-project/1873055/)
+
+Article found but Couldn't summarize 
+A World Migration  report published in the year 2022 by the United Nations estimates that approximately 1.79 crore Indians have migrated from India and settled abroad
+
+Tue, 05 Dec 2023 12:02:35 +0000
+### [Actor Dinesh Phadnis passes away, ‘CID’ team pays condolences](https://theprint.in/feature/actor-dinesh-phadnis-passes-away-cid-team-pays-condolences/1873075/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 5 (ANI): &#8216;CID&#8217; fame Dinesh Phadnis passed away at a Mumbai hospital. He was 57. Dinesh left for his heavenly abode on Monday night. If reports are to be believed, Dinesh was fighting a battle against liver damage. On Tuesday, actor Ajay Nagrath, who shared screen space with Dinesh in the [&#8230;]
+
+Tue, 05 Dec 2023 12:02:24 +0000
+### [Introducing ZoopSign: A Solution to Secure & Legally Binding Contracts](https://theprint.in/ani-press-releases/introducing-zoopsign-a-solution-to-secure-legally-binding-contracts/1873073/)
+
+Article found but Couldn't summarize 
+SRV Media New Delhi [India], December 5: The global rise of imitation pictures and videos has captured public attention, but it is important not to overlook the longstanding issue of fraud involving documents. In a country with a population of over a billion people, 100 billion documents, and over a trillion digital footprints, every individual [&#8230;]
+
+Tue, 05 Dec 2023 12:02:14 +0000
+### [Successful Conclusion of the 7th Lokmat Maha Mumbai Maha Marathon](https://theprint.in/ani-press-releases/successful-conclusion-of-the-7th-lokmat-maha-mumbai-maha-marathon/1873071/)
+
+Article found but Couldn't summarize 
+VMPL Mumbai (Maharashtra) [India], December 5: Lokmat Media Pvt Ltd proudly announces the successful conclusion of the highly anticipated seventh edition of the Lokmat Maha Mumbai Maha Marathon with over 10,000 participants. This momentous event took place on Sunday, December 3rd, 2023, at the prestigious Raymond Ground in Thane, exceeding expectations and evolving into a [&#8230;]
+
+Tue, 05 Dec 2023 12:02:02 +0000
+### [Soldiers mobilise to battle Israeli agriculture’s ‘Greatest manpower crisis’](https://theprint.in/world/soldiers-mobilise-to-battle-israeli-agricultures-greatest-manpower-crisis/1873069/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], December 5 (ANI/TPS): With Israeli agriculture facing staggering losses in production and manpower, the Ministry of Agriculture announced on Tuesday that 500 non-combat soldiers will be assigned to help farmers on a daily basis to help meet a shortage of workers. &#8220;Agricultural work is a pillar in the spirit of Zionism based [&#8230;]
+
+Tue, 05 Dec 2023 12:01:21 +0000
+### [IISER Bhopal researchers complete genome sequencing of Jamun tree](https://theprint.in/india/iiser-bhopal-researchers-complete-genome-sequencing-of-jamun-tree/1873068/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 5 (PTI) Researchers at the Indian Institute of Science Education and Research, Bhopal have completed the first-ever genome sequencing of the Jamun tree, according to officials. To understand the genomic and evolutionary basis of the tree&#8217;s medicinal values, the research team sequenced the S.cumini genome. The research has been published in the [&#8230;]
+
+Tue, 05 Dec 2023 12:01:11 +0000
+### [Cyber-related crimes rose by over 50 pc in Karnataka in 2022: NCRB data](https://theprint.in/india/cyber-related-crimes-rose-by-over-50-pc-in-karnataka-in-2022-ncrb-data/1873067/)
+
+Article found but Couldn't summarize 
+Bengaluru, Dec 5 (PTI) Cases of cyber crime have jumped more than 50 per cent in  Karnataka with the state police registering 12,556 FIRs in 2022 as compared to 8,136 the previous year, making it the state with second highest number of such incidents, the latest report released by the National Crime Records Bureau (NCRB) [&#8230;]
+
+Tue, 05 Dec 2023 12:01:00 +0000
+### [Karnataka: Senior ruling Cong MLA walks out from Assembly after argument with Speaker](https://theprint.in/india/karnataka-senior-ruling-cong-mla-walks-out-from-assembly-after-argument-with-speaker/1873066/)
+
+Article found but Couldn't summarize 
+Belagavi (K&#8217;taka), Dec 5 (PTI) The Karnataka Legislative Assembly on Tuesday saw a heated exchange of words between a senior member of the ruling Congress and the Speaker over Question Hour proceedings going on for a longer duration than scheduled. Unhappy with the Question Hour being stretched, Congress MLA Basavaraj Rayareddy said the Speaker should [&#8230;]
+
+Tue, 05 Dec 2023 12:00:48 +0000
+### [NCRB crowns Kolkata safest city, jubilant TMC challenges BJP claims](https://theprint.in/india/ncrb-crowns-kolkata-safest-city-jubilant-tmc-challenges-bjp-claims/1873065/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 5 (PTI) The TMC on Tuesday expressed jubilance over the NCRB data which declared Kolkata as the safest city in the country and asserted that it exposed falsehoods propagated by BJP on the Bengal government&#8217;s handling of law and order. The National Crime Records Bureau (NCRB) report said Kolkata has secured its position [&#8230;]
+
+Tue, 05 Dec 2023 12:00:38 +0000
+### [Cyclone Michaung: 29 NDRF teams deployed in parts of southern India for relief, rescue operations](https://theprint.in/india/cyclone-michaung-29-ndrf-teams-deployed-in-parts-of-southern-india-for-relief-rescue-operations/1873064/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 5 (PTI) A total of 29 NDRF teams have been deployed in Andhra Pradesh, Tamil Nadu, Telangana and Puducherry to undertake relief and rescue operations in the wake of the severe cyclonic storm Michaung hurtling down India&#8217;s eastern coast on Tuesday, a senior officer said. Fourteen National Disaster Response Force (NDRF) teams [&#8230;]
+
+Tue, 05 Dec 2023 12:00:27 +0000
+### [Some things are best left unsaid, says Justice Kaul on non-listing of pleas on judges’ appointment](https://theprint.in/india/some-things-are-best-left-unsaid-says-justice-kaul-on-non-listing-of-pleas-on-judges-appointment/1873063/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 5 (PTI) Some things are best left unsaid, Supreme Court judge Sanjay Kishan Kaul said on Tuesday when some lawyers alleged sudden deletion from the cause list of the pleas related to alleged delay by the Centre in acting on the collegium&#8217;s recommendations on elevation and transfer of high court judges. The [&#8230;]
+
+Tue, 05 Dec 2023 12:00:16 +0000
+### [World Food Programme pauses distribution in north Yemen as funds limited](https://theprint.in/world/world-food-programme-pauses-distribution-in-north-yemen-as-funds-limited/1873061/)
+
+Article found but Couldn't summarize 
+RIYADH (Reuters) - The World Food Programme (WFP) said on Tuesday it had paused general food distribution in north Yemen due to limited funding and disagreement with local authorities over how to
+
+Tue, 05 Dec 2023 12:00:15 +0000
+### [Sonia won’t make me PM: Pranab told daughter Sharmistha after 2004 drama](https://theprint.in/india/sonia-wont-make-me-pm-pranab-told-daughter-sharmistha-after-2004-drama/1873059/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 5 (PTI) &#8220;No, she will not make me the PM,&#8221; was Pranab Mukherjee&#8217;s cryptic response in a reference to Sonia Gandhi when he was asked by his daughter Sharmistha Mukherjee about his chances of becoming the prime minister in 2004. Sharmistha recalls her father&#8217;s reply after Sonia Gandhi&#8217;s decision to withdraw from [&#8230;]
+
+Tue, 05 Dec 2023 12:00:06 +0000
+### [Norway parliament deal marks major step towards seabed mining](https://theprint.in/world/norway-parliament-deal-marks-major-step-towards-seabed-mining/1873058/)
+
+Article found but Couldn't summarize 
+By Victoria Klesty OSLO (Reuters) -Norway's minority government and two opposition parties have agreed to allow seabed mineral exploration in the Arctic region, they said on Tuesday, in a key step
+
 Tue, 05 Dec 2023 10:17:11 +0000
 ### [“Defence forces of India, Kenya to work together” says Kenyan President William Ruto](https://theprint.in/world/defence-forces-of-india-kenya-to-work-together-says-kenyan-president-william-ruto/1872836/)
 

@@ -1,3 +1,26 @@
+Tue, 05 Dec 2023 17:34:59 +0530
+### [Why is gold near its all-time high? Should you buy?](https://www.firstpost.com/explainers/why-is-gold-near-its-all-time-high-should-you-buy-13469022.html)
+
+Article found but Couldn't summarize 
+Why is gold near its all-time high? Should you buy?
+
+Tue, 05 Dec 2023 16:59:57 +0530
+### [Why New Zealand's Maoris are protesting against the newly elected government](https://www.firstpost.com/explainers/why-new-zealands-maoris-are-protesting-against-the-newly-elected-government-13467922.html)
+
+Thousands of protesters in New Zealand demonstrated against the newly elected conservative-led coalition government, organized by the Maori Party. The protests were a response to what they perceived as "anti-Maori" policies. The demonstrations caused traffic jams and resulted in two arrests in Auckland. Maori Party co-leader Rawiri Waititi criticized Prime Minister Christopher Luxon's administration, stating that their policies would regress New Zealand back to the 1800s. The protesters called for the protection of the Treaty of Waitangi, which safeguards Indigenous rights. Luxon's government plans to review the treaty and potentially make changes to modern laws based on it. They also intend to make changes to the Maori Health Authority. Luxon defended his government's commitment to improving outcomes for both Maori and non-Maori citizens. The ACT Party leader criticized the protests, describing them as divisive and showing disrespect for equal rights. The National Party won the largest proportion of the vote in the recent elections, forming a coalition with New Zealand First and ACT parties. The Maori Party secured six seats in Parliament.
+
+Tue, 05 Dec 2023 16:39:23 +0530
+### [Which city recorded the highest number of road accidents in India?](https://www.firstpost.com/explainers/which-city-recorded-the-highest-number-of-road-accidents-in-india-13468362.html)
+
+Article found but Couldn't summarize 
+Which city recorded the highest number of road accidents in India?
+
+Tue, 05 Dec 2023 16:36:57 +0530
+### [How did ISRO bring Chandrayaan-3’s propulsion module to Earth’s orbit?](https://www.firstpost.com/explainers/isro-chandrayaan-3-propulsion-module-moon-orbit-earth-orbit-significance-13468442.html)
+
+Article found but Couldn't summarize 
+How did ISRO bring Chandrayaan-3’s propulsion module to Earth’s orbit?
+
 Tue, 05 Dec 2023 15:11:18 +0530
 ### [US is struggling to send Ukraine money. Here’s what this means for conflict](https://www.firstpost.com/explainers/us-is-struggling-to-send-ukraine-money-heres-what-this-means-for-conflict-13468122.html)
 
