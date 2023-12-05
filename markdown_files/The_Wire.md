@@ -1,3 +1,27 @@
+2023-12-05T15:30:02+05:30
+### [Why IndusInd Bank’s Rejection of an Independent Director’s Reappointment Raises Concerns](https://thewire.in/banking/why-indusind-banks-rejection-of-an-independent-directors-reappointment-raises-concerns)
+
+No Article text 
+The matter calls for reactivating the stakeholders’ relationship committee, which has traditionally confined itself to shareholder grievances. As banks play a critical role in the economy, the role of the SRC needs to be strengthened.
+
+2023-12-05T15:00:37+05:30
+### [Navigating Deception: Dissecting the Implications of India’s Guidelines on 'Dark Patterns'](https://thewire.in/rights/india-guidelines-dark-patterns-implications)
+
+No Article text 
+The guidelines must comprehensively address the risks associated with dark patterns, particularly focusing on the threat posed by the collection of excessive and unnecessary personal data without informed consent.
+
+2023-12-05T14:35:26+05:30
+### [Indian Police 'Harassed' Sikh Activist in UK Before His Sudden Death: The Guardian](https://thewire.in/world/indian-police-harass-sikh-activist-avtar-singh-khanda-sudden-death-the-guardian)
+
+No Article text 
+The newspaper's investigation also raised questions about the UK police's earlier claim that Avtar Singh Khanda's death was the subject of a "thorough review" and that there was no foul play suspected.
+
+2023-12-05T14:05:31+05:30
+### [Supreme Court Gives Army Four Months to Fix Policy on Promotion of Women Officers](https://thewire.in/law/supreme-court-gives-army-four-months-to-fix-policy-on-promotion-of-women-officers)
+
+No Article text 
+Some women officers in the Army had alleged discrimination in promotion from the rank of colonel to brigadier.
+
 2023-12-05T13:35:30+05:30
 ### [SC Shields Journalist from Arrest Over Tweets on Manipur Violence](https://thewire.in/law/sc-stays-criminal-proceedings-against-journalist-booked-for-tweets-on-manipur-violence)
 

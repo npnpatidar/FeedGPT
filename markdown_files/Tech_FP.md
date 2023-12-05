@@ -1,3 +1,14 @@
+Tue, 05 Dec 2023 15:31:20 +0530
+### [Elon Musk left speechless when someone pointed out glaring flaw in his plan to colonise Mars](https://www.firstpost.com/tech/elon-musk-left-speechless-when-someone-pointed-out-glaring-flaw-in-his-plan-to-colonise-mars-13468342.html)
+
+Article found but Couldn't summarize 
+Elon Musk left speechless when someone pointed out glaring flaw in his plan to colonise Mars
+
+Tue, 05 Dec 2023 15:03:33 +0530
+### [OnePlus 12 Launched: From design to features and pricing in India, here’s everything you need to know](https://www.firstpost.com/world/oneplus-12-launched-in-china-from-design-to-features-and-pricing-in-india-heres-everything-to-know-13468142.html)
+
+OnePlus has launched its latest flagship smartphone, the OnePlus 12, in China. It will be released globally in mid-January 2024 and is expected to have a starting price of around Rs 60,000-65,000 in India. The OnePlus 12 introduces several improvements compared to its predecessors, including wireless charging, a faster USB port, and an enhanced camera system. It features a design similar to the OnePlus 11, with refinements such as a relocated alert slider. The device offers a 2K LTPO OLED display, a Qualcomm Snapdragon 8 Gen 3 processor, up to 24GB of RAM, and up to 1TB of storage. The camera setup includes a 50MP main sensor, a 48MP ultrawide lens, and a 64MP periscope telephoto lens. The phone is powered by a 5,400mAh battery with 100W fast wired charging and 50W wireless charging. The OnePlus 12 will be launched first in China, followed by other markets, including India, where the base variant is expected to start at around Rs 65,000.
+
 Tue, 05 Dec 2023 13:04:24 +0530
 ### [Out of tune: Spotify lays off 17 per cent or 1500 of its workforce, cancels two of its most popular podcasts](https://www.firstpost.com/tech/out-of-tune-spotify-to-layoff-17-per-cent-or-1500-of-its-workforce-cancels-two-of-its-most-popular-podcasts-13467422.html)
 

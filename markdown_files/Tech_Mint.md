@@ -1,3 +1,14 @@
+Tue, 05 Dec 2023 15:19:25 +0530
+### [Rockstar Games to skip GTA 6 PC launch? Here's what we know so far](https://www.livemint.com/technology/tech-news/rockstar-games-to-skip-gta-6-pc-launch-heres-what-we-know-so-far-11701763618324.html)
+
+Article found but Couldn't summarize 
+While the trailer for GTA 6 has finally been released, Rockstar Games has maintained silence on whether GTA 6 will make it to PC or remain exclusively available for consoles.
+
+Tue, 05 Dec 2023 14:42:44 +0530
+### [OnePlus 12 with Snapdragon 8 Gen 3 SoC launched in China. Check full specs, expected India pricing and more](https://www.livemint.com/technology/gadgets/oneplus-12-launched-in-china-check-full-specs-expected-india-pricing-and-more-11701765763351.html)
+
+OnePlus has launched its flagship OnePlus 12 series, with the global launch expected in early January. The smartphone features up to 24GB of RAM and up to 1TB of storage, powered by the Qualcomm Snapdragon 8 Gen 3 chipset. It sports a 6.82-inch QHD+ OLED display with a 120Hz refresh rate and a peak brightness of 4,500 nits, the highest on any smartphone. The device also comes with a triple camera setup on the back and a 32MP front-facing shooter. The OnePlus 12 is priced starting from 4,299 Yuan (around ₹50,600) and going up to 5,799 Yuan (around ₹68,400). OnePlus has confirmed that the OnePlus 12 will be released globally in early 2024, with media reports suggesting a possible release date of January 23, 2024.
+
 Tue, 05 Dec 2023 13:30:20 +0530
 ### [Realme GT 5 Pro to give tough competition to OnePlus 12 with new 50MP camera? A look at what we know so far](https://www.livemint.com/technology/gadgets/realme-gt-5-pro-to-give-tough-competition-to-oneplus-12-a-look-at-what-we-know-so-far-11701760362603.html)
 

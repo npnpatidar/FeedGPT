@@ -1,3 +1,9 @@
+Tue, 05 Dec 2023 14:33:16 +0530
+### [Vantage | Why poor quality cough syrups may poison India's reputation too](https://www.firstpost.com/opinion/vantage-why-poor-quality-cough-syrups-may-poison-indias-reputation-too-13467772.html)
+
+Article found but Couldn't summarize 
+Vantage | Why poor quality cough syrups may poison India's reputation too
+
 Tue, 05 Dec 2023 13:37:34 +0530
 ### [Vantage: Three things the Indian voter is telling us](https://www.firstpost.com/opinion/vantage-three-things-the-indian-voter-is-telling-us-13467622.html)
 

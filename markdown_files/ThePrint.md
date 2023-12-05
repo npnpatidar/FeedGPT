@@ -1,3 +1,121 @@
+Tue, 05 Dec 2023 10:17:11 +0000
+### [“Defence forces of India, Kenya to work together” says Kenyan President William Ruto](https://theprint.in/world/defence-forces-of-india-kenya-to-work-together-says-kenyan-president-william-ruto/1872836/)
+
+Kenyan President William Ruto and Indian Prime Minister Narendra Modi have agreed to collaborate on counter-terrorism efforts. Ruto stated that terrorism is a significant issue for both countries, and their defense forces will work together to share information, experience, knowledge, and intelligence. Ruto also expressed gratitude to India for its support in marine research and resource documentation related to Kenya's exploitation of the Indian Ocean. The leaders discussed combating piracy, terrorism, and other activities in shared waters. Ruto thanked Modi for considering providing $250 million to support Kenya's agricultural mechanization and health initiatives. He mentioned the possibility of manufacturing health commodities in Kenya for the African market. Additionally, Ruto highlighted discussions on stabilizing and securing the East Africa region, as well as learning from India's experience in affordable housing. Prime Minister Modi emphasized India's commitment as a trusted development partner for Kenya and announced a line of credit worth $250 million for modernizing Kenya's agricultural sector. They also exchanged five Memorandums of Understanding in various fields. The visit was seen as strengthening India's relations with Kenya and the African Union.
+
+Tue, 05 Dec 2023 10:17:01 +0000
+### [Revolutionizing Elegance: Dermawear’s Saree Shapewear Reshaping Traditions Across India](https://theprint.in/ani-press-releases/revolutionizing-elegance-dermawears-saree-shapewear-reshaping-traditions-across-india/1872834/)
+
+Dermawear, a compression garments pioneer, has introduced its innovative Saree Shapewear, redefining traditional Indian attire for women. This groundbreaking garment offers unparalleled comfort, adaptability, and versatility, replacing the conventional petticoat and empowering women across India. The Saree Shapewear resonates with women nationwide as a symbol of empowerment and individual expression, providing confidence, comfort, and grace. Dermawear's new lineup offers diverse options in color and advanced materials, ensuring style, comfort, and functionality. Crafted from breathable and stretchable fabrics, this garment allows unrestricted movement while providing support. Dermawear promotes diversity and inclusion by offering a wide range of sizes and collaborating with models and influencers of all ethnicities and body types. Looking to the future, Dermawear envisions empowering women beyond fashion and embracing sustainability through eco-friendly materials and ethical practices. Women are encouraged to join the movement, share their experiences using the #DermawearRevolution hashtag, and redefine elegance on their own terms. Dermawear aims to reshape the fashion landscape with its commitment to comfort, functionality, inclusivity, and a vision for a better future.
+
+Tue, 05 Dec 2023 10:15:44 +0000
+### [India records 83 new Covid cases](https://theprint.in/india/india-records-83-new-covid-cases/1872832/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 5 (PTI) India has logged 83 new coronavirus infections, while the active cases have been recorded at 512, according to the Union Health Ministry data updated on Tuesday. The death toll was recorded at 5,33,301, the data updated at 8 am showed. The country&#8217;s Covid case tally is 4.50 crore (4,50,02,321). The number of [&#8230;]
+
+Tue, 05 Dec 2023 10:15:30 +0000
+### [Death toll rises to 12; Boats and tractors used in rescue efforts in rain-hit Chennai](https://theprint.in/india/death-toll-rises-to-12-boats-and-tractors-used-in-rescue-efforts-in-rain-hit-chennai/1872830/)
+
+Article found but Couldn't summarize 
+Chennai, Dec 5 (PTI) &#8211; A dozen people lost their lives in various rain-related incidents in and around the city while personnel on fishing boats and farm tractors were engaged in rescuing stranded people on Tuesday. The city and adjoining districts faced relentless rains on Monday as the severe cyclonic storm Michaung loomed over the [&#8230;]
+
+Tue, 05 Dec 2023 10:15:28 +0000
+### [Oil prices rise on uncertainty over OPEC+ cuts and Middle East tensions](https://theprint.in/economy/oil-prices-rise-on-uncertainty-over-opec-cuts-and-middle-east-tensions/1872829/)
+
+Article found but Couldn't summarize 
+By Natalie Grover London (Reuters) -Oil prices jumped by nearly 1% on Tuesday, lifted by uncertainty over voluntary output cuts by the OPEC+ group of producers, tensions in the Middle East and some
+
+Tue, 05 Dec 2023 10:15:16 +0000
+### [Slovak truckers interrupt Ukraine border blockade, mull next steps](https://theprint.in/world/slovak-truckers-interrupt-ukraine-border-blockade-mull-next-steps/1872828/)
+
+Article found but Couldn't summarize 
+(Reuters) - Slovak truckers interrupted a blockade of the country's sole freight border crossing with Ukraine on Monday night after four days, but remain on alert and will decide on further steps
+
+Tue, 05 Dec 2023 10:15:16 +0000
+### [BJP leaders mock opposition for blaming EVMs for defeat in Assembly polls](https://theprint.in/india/bjp-leaders-mock-opposition-for-blaming-evms-for-defeat-in-assembly-polls/1872827/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 5 (PTI) As some opposition leaders have raised questions on EVMs after Assembly poll results were announced in five states, BJP leaders mocked them on Tuesday, saying they are looking for excuses to hide their own shortcomings. As the Bharatiya Janata Party (BJP) emerged victorious in three Hindi heartland states &#8212; Rajasthan, [&#8230;]
+
+Tue, 05 Dec 2023 10:15:05 +0000
+### [Mathematics, reading skills in unprecedented decline in teenagers – OECD survey](https://theprint.in/world/mathematics-reading-skills-in-unprecedented-decline-in-teenagers-oecd-survey/1872825/)
+
+Article found but Couldn't summarize 
+By Leigh Thomas PARIS (Reuters) - Teenagers' mathematics and reading skills are in an unprecedented decline across dozens of countries and COVID school closures are only partly to be blamed, the OECD
+
+Tue, 05 Dec 2023 10:15:03 +0000
+### [Delhi HC pulls up lawyer for petition against ‘distasteful’ anti-tobacco imagery](https://theprint.in/india/delhi-hc-pulls-up-lawyer-for-petition-against-distasteful-anti-tobacco-imagery/1872824/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 5 (PTI) The Delhi High Court Tuesday pulled up a lawyer for filing a petition seeking direction to the Centre to prohibit the display of anti-tobacco health spots having graphic or gross images during film screenings in cinema halls and on television and OTT platforms, and asked him to file an affidavit [&#8230;]
+
+Tue, 05 Dec 2023 10:02:53 +0000
+### [As China’s slowing economy faces capital flight, focus is on ‘managing the crisis’](https://theprint.in/world/as-chinas-slowing-economy-faces-capital-flight-focus-is-on-managing-the-crisis/1872780/)
+
+Article found but Couldn't summarize 
+July-September quarter saw China record 1st FDI deficit. It's also grappling with exit of individual wealth triggered by factors like loss of faith in real estate sector, say experts.
+
+Tue, 05 Dec 2023 10:02:01 +0000
+### [Union Minister Rajeev Chandrasekhar spearheads efforts against deepfakes with Digital India Dialogues](https://theprint.in/economy/union-minister-rajeev-chandrasekhar-spearheads-efforts-against-deepfakes-with-digital-india-dialogues/1872815/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 5 (ANI): In a step toward combatting the escalating threat of deepfake technology, Union Minister of State for Electronics and Technology Rajeev Chandrasekhar held the 2nd Digital India Dialogues on Misinformation and Deepfakes with intermediaries. The meeting aimed to review the progress made since the initial gathering on November 24 and [&#8230;]
+
+Tue, 05 Dec 2023 10:00:38 +0000
+### [Noida Police issues traffic advisory for Ambedkar death anniversary](https://theprint.in/india/noida-police-issues-traffic-advisory-for-ambedkar-death-anniversary/1872813/)
+
+Article found but Couldn't summarize 
+Noida, Dec 5 (PTI) Traffic diversions will be in place in Noida on Wednesday on account of Parinirvan Diwas of Dalit icon and architect of the Constitution Dr Bhimrao Ambedkar, according to a police advisory. Commuters have been advised to follow the diversions and obey traffic rules to a avoid inconvenience as visitors in large [&#8230;]
+
+Tue, 05 Dec 2023 10:00:28 +0000
+### [Sri Lanka to quickly settle over 14,000 cases of ‘missing’ persons: Justice minister](https://theprint.in/world/sri-lanka-to-quickly-settle-over-14000-cases-of-missing-persons-justice-minister-2/1872812/)
+
+Article found but Couldn't summarize 
+Colombo, Dec 5 (PTI) Sri Lanka is currently saddled with more than 14,000 cases related to persons who went &#8220;missing&#8221; during civil conflicts in the country, including the war against the LTTE, Justice Minister Wijeyadasa Rajapakshe said on Tuesday, pledging their quick resolution. The Office of Missing Persons (OMP), a special office set up for [&#8230;]
+
+Tue, 05 Dec 2023 10:00:17 +0000
+### [Birla cautions MPs against bringing placards in LS](https://theprint.in/india/birla-cautions-mps-against-bringing-placards-in-ls/1872811/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 5 (PTI) Speaker Om Birla on Tuesday cautioned MPs against bringing placards in the Lok Sabha and said dignity and discipline need to be maintained in the House. The comments by the Speaker came a day after BSP member Danish Ali hung a placard around his neck in protest demanding action against [&#8230;]
+
+Tue, 05 Dec 2023 10:00:04 +0000
+### [India to be world’s third-largest economy by 2030 -S&P Global Ratings](https://theprint.in/india/india-to-be-worlds-third-largest-economy-by-2030-sp-global-ratings/1872809/)
+
+Article found but Couldn't summarize 
+BENGALURU (Reuters) - India will remain the fastest-growing major economy for at least the next three years, setting it on course to become the world's third-largest economy by 2030, S&#38;P Global
+
+Tue, 05 Dec 2023 10:00:03 +0000
+### [Bangladesh eradicates kala-azar, India on track too but challenges remain](https://theprint.in/india/bangladesh-eradicates-kala-azar-india-on-track-too-but-challenges-remain/1872808/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 5 (PTI) Bangladesh recently achieved a major public health goal when it eradicated visceral leishmaniasis, commonly known as kala-azar, raising the question of when India would wipe out the debilitating, often fatal, parasitic disease – the fight very much on but far from complete. Challenges in sustaining the momentum of the fight [&#8230;]
+
+Tue, 05 Dec 2023 09:47:34 +0000
+### [PM Modi holds talks with Kenyan President Ruto; India to provide Kenya USD 250 mn line of credit for modernising agriculture](https://theprint.in/world/pm-modi-holds-talks-with-kenyan-president-ruto-india-to-provide-kenya-usd-250-mn-line-of-credit-for-modernising-agriculture/1872800/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 5 (ANI): Prime Minister Narendra Modi on Tuesday said India and Kenya will continue to explore new opportunities to realise the full potential of economic cooperation between two nations. He stressed that India has remained a trusted and committed development partner for Kenya. Addressing a joint press meet with Kenyan President [&#8230;]
+
+Tue, 05 Dec 2023 09:47:15 +0000
+### [SIAL India and Vinexpo India set to showcase global culinary diversity in New Delhi exhibition](https://theprint.in/economy/sial-india-and-vinexpo-india-set-to-showcase-global-culinary-diversity-in-new-delhi-exhibition/1872798/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 5 (ANI): The culinary world is gearing up for a showcase at the 5th edition of &#8216;SIAL INDIA,&#8217; an international exhibition for food and beverages, synchronized with Vinexpo India, a premier event for wine and spirits. This grand event is scheduled to unfold from 07th to 09th December 2023 at Yashobhoomi, [&#8230;]
+
+Tue, 05 Dec 2023 09:47:02 +0000
+### [PM GatiShakti marks two years with 61st Network Planning Group meeting](https://theprint.in/economy/pm-gatishakti-marks-two-years-with-61st-network-planning-group-meeting/1872796/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 5 (ANI): The 61st Network Planning Group (NPG) meeting under PM GatiShakti convened in New Delhi, chaired by Smt. Sumita Dawra, Special Secretary (Logistics), Department for Promotion of Industry and Internal Trade (DPIIT). According to a press release by the Ministry of Commerce and Industry, this significant gathering celebrated the second [&#8230;]
+
+Tue, 05 Dec 2023 09:46:06 +0000
+### [HC stays criminal proceedings against Akhilesh Yadav, Jayant Chaudhary ‘](https://theprint.in/india/hc-stays-criminal-proceedings-against-akhilesh-yadav-jayant-chaudhary-2/1872795/)
+
+Article found but Couldn't summarize 
+Prayagraj (UP), Dec 5 (PTI) The Allahabad High Court on Tuesday stayed criminal proceedings initiated by a local court against SP chief Akhilesh Yadav and RLD chief Jayant Chaudhary for alleged violation of model code and Covid norms in 2022. Justice Raj Veer Singh, while staying the proceedings, asked the state counsel to file a [&#8230;]
+
 Tue, 05 Dec 2023 08:16:17 +0000
 ### [Ericsson shares rally on AT&T network deal, Nokia drops](https://theprint.in/tech/ericsson-shares-rally-on-att-network-deal-nokia-drops/1872643/)
 

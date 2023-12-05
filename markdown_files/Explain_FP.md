@@ -1,3 +1,14 @@
+Tue, 05 Dec 2023 15:11:18 +0530
+### [US is struggling to send Ukraine money. Here’s what this means for conflict](https://www.firstpost.com/explainers/us-is-struggling-to-send-ukraine-money-heres-what-this-means-for-conflict-13468122.html)
+
+The US is warning that it may run out of money to provide weapons and equipment to Ukraine by the end of 2023. The White House's budget director, Shalanda Young, sent a letter to the US House Speaker stating that without congressional action, the flow of US weapons and equipment to Ukraine would be cut off, severely impeding Ukraine's ability to fight on the battlefield. The lack of funds for Ukraine is due to domestic US politics, with hard-right lawmakers opposing new funding for Ukraine. Despite President Joe Biden's request for $106 billion in national security funding, including support for Ukraine, Congress has been unable to secure the necessary funds. The US has already provided at least $40 billion in security aid to Ukraine since Russia invaded in February 2022, but most of the money remains in the United States and has been spent on replacing military hardware sent to Kyiv. The failure to agree on more funding not only puts Ukraine's gains at risk but also increases the chance of Russian military victories.
+
+Tue, 05 Dec 2023 14:17:05 +0530
+### [Will Revanth Reddy be next Telangana CM? Or is Congress still undecided?](https://www.firstpost.com/explainers/will-revanth-reddy-be-next-telangana-cm-or-is-congress-still-undecided-13466912.html)
+
+Article found but Couldn't summarize 
+Will Revanth Reddy be next Telangana CM? Or is Congress still undecided?
+
 Tue, 05 Dec 2023 13:29:11 +0530
 ### [Shivaji to feature on naval uniforms: Why Maratha king is important to Indian Navy](https://www.firstpost.com/explainers/chhatrapati-shivaji-naval-uniforms-maratha-king-importance-indian-navy-contribution-13467402.html)
 
