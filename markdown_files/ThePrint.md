@@ -1,3 +1,117 @@
+Tue, 05 Dec 2023 18:17:02 +0000
+### [Jason Momoa mourns the demise of his friend Travis Snyder](https://theprint.in/feature/jason-momoa-mourns-the-demise-of-his-friend-travis-snyder/1873699/)
+
+Actor Jason Momoa expressed his grief and love for his late friend Travis Snyder in an emotional Instagram post. Travis, an entrepreneur, had been battling acute myeloid leukemia since 2015. In a posthumously shared statement, Travis requested not to be referred to as having "lost the fight" with cancer, but rather as someone who lived, battled, and was blessed with eight years of life after the diagnosis. He also asked friends and followers to share memories of them together for his sons to cherish. Momoa addressed Snyder's three kids, praising him as the strongest man he has ever known.
+
+Tue, 05 Dec 2023 18:15:56 +0000
+### [NGT issues notices to environment ministry, NTPC over water scarcity in Prayagraj](https://theprint.in/india/ngt-issues-notices-to-environment-ministry-ntpc-over-water-scarcity-in-prayagraj/1873698/)
+
+The National Green Tribunal has requested a response from the Union Ministry of Environment, Forest and Climate Change, NTPC, and others regarding a petition that claims there is a scarcity of water in the Yamuna and Ganga rivers in Uttar Pradesh's Prayagraj. The petition argues that this water scarcity could make organizing the Kumbh Mela and the Magh Mela in Prayagraj difficult in the next two decades. The scarcity of water is said to be caused by multiple entities, including the Kishanpur canal and two thermal plants. The tribunal has impleaded several authorities as respondents in the matter and has given them eight weeks to file their response. The case is scheduled for further proceedings on February 7th.
+
+Tue, 05 Dec 2023 18:15:46 +0000
+### [Ex-Prez Kovind to unveil compilation of PM Modi’s speeches on Constitution](https://theprint.in/india/ex-prez-kovind-to-unveil-compilation-of-pm-modis-speeches-on-constitution/1873697/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 5 (PTI) Former President Ram Nath Kovind is slated to unveil a compilation of Prime Minister Narendra Modi&#8217;s speeches which focus on the Constitution on December 7, officials said on Tuesday. The compilation is titled &#8216;Naye Bharat ka Samaveda&#8217;. The event will take place at &#8216;Samvet&#8217; auditorium of the Indira Gandhi National [&#8230;]
+
+Tue, 05 Dec 2023 18:15:36 +0000
+### [Nepal court convicts 2 for their involvement in planting bomb on Indian train](https://theprint.in/world/nepal-court-convicts-2-for-their-involvement-in-planting-bomb-on-indian-train/1873696/)
+
+A Nepal court has convicted two individuals, including a suspected ISI agent, for their involvement in a plot to carry out a terror attack by planting a bomb on an Indian train seven years ago. The court verdict was given in response to a case filed by the Money Laundering Department against the two Nepali nationals, Samsul Hoda and Brij Kishor Giri. Details of the incident and the verdict have not been made public yet. According to a local news portal, Hoda, who was residing in Dubai at the time, collaborated with a Pakistani national to plan the attack and recruited Pakistani and Nepalese youths to plant the bomb in Bihar state, India. However, due to a technical fault, the bomb did not explode. It is reported that Hoda received money from Pakistan's spy agency, ISI, and after his plan failed, he murdered two Indian nationals and disposed of their bodies in a nearby forest. The article mentions that a special task force in India also conducted a separate investigation into the matter, leading to the arrest of three individuals.
+
+Tue, 05 Dec 2023 18:15:26 +0000
+### [Cyclone: Odisha remains on alert as intensity of rains likely to increase](https://theprint.in/india/cyclone-odisha-remains-on-alert-as-intensity-of-rains-likely-to-increase/1873695/)
+
+The southern districts of Odisha, India, are on alert due to the potential intensification of rains caused by severe cyclone Michaung. The storm made landfall in Andhra Pradesh with strong winds and is expected to move northwards and weaken into a depression. Light rainfall has been reported in several districts, but the intensity is likely to increase overnight. Local authorities are closely monitoring the situation and taking precautionary measures. Fishermen have been advised to avoid venturing into the deep sea until December 6.
+
+Tue, 05 Dec 2023 18:15:14 +0000
+### [HC asks social media firms not to publish objectionable posts about Dhirendra Krishna Shastri](https://theprint.in/india/hc-asks-social-media-firms-not-to-publish-objectionable-posts-about-dhirendra-krishna-shastri/1873693/)
+
+The Madhya Pradesh High Court has issued an interim order instructing popular social media platforms, including Facebook, X (formerly Twitter), and YouTube, to remove posts that tarnish the image of religious leader Aacharya Dhirendra Krishna Shastri. The court has also directed that no such posts should be published without verifying their veracity. The order states that publishers should adhere to journalistic norms and confirm with concerned individuals whether the news is defamatory or not before publishing it. The court has also ordered the deletion of existing electronic media posts that have harmed Shastri's reputation. The petitioner, Ranjit Singh Patel, objected to objectionable posts and news reports about Shastri, claiming to be his disciple. The court has served notices to the respondents, including the Indian government, YouTube, X, Facebook, and others, and requested responses within six weeks.
+
+Tue, 05 Dec 2023 18:15:13 +0000
+### [Ukraine does not expect allied support to decrease – foreign minister](https://theprint.in/world/ukraine-does-not-expect-allied-support-to-decrease-foreign-minister/1873692/)
+
+Article found but Couldn't summarize 
+KYIV (Reuters) - Ukraine's foreign minister said on Tuesday that Kyiv did not expect wartime support from its partners to decrease and that there had been no slowdown in deliveries of weapons. The
+
+Tue, 05 Dec 2023 18:15:04 +0000
+### [UK’s Cameron, China’s Wang discussed intention to have ‘constructive relationship’](https://theprint.in/world/uks-cameron-chinas-wang-discussed-intention-to-have-constructive-relationship/1873690/)
+
+Article found but Couldn't summarize 
+LONDON (Reuters) - British Foreign Secretary David Cameron said he had spoken to his Chinese counterpart Wang Yi on Tuesday and the pair discussed their "intention to have a constructive relationship"
+
+Tue, 05 Dec 2023 18:15:02 +0000
+### [India, Kenya share common views on major global issues: President Murmu](https://theprint.in/india/india-kenya-share-common-views-on-major-global-issues-president-murmu/1873689/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 5 (PTI) India and Kenya agree that there are many multilateral forums through which the two countries can work together, President Droupadi Murmu said on Tuesday, emphasising that both nations share common views on major global issues. Murmu received visiting President of Kenya William Samoei Ruto at the Rashtrapati Bhavan on Tuesday [&#8230;]
+
+Tue, 05 Dec 2023 18:02:02 +0000
+### [Kareena misses ‘The Archies’ screening, sends best wishes to team](https://theprint.in/feature/kareena-misses-the-archies-screening-sends-best-wishes-to-team/1873681/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 5 (ANI): Kareena Kapoor Khan missed attending the grand premier of Zoya Akhtar&#8217;s directorial &#8216;The Archies&#8217; on Tuesday night due to her shoot schedule but she made sure to send best wishes to the whole team virtually. Taking to Instagram, Kareena penned a sweet note for &#8216;The Archies&#8217; gang. &#8220;Good luck [&#8230;]
+
+Tue, 05 Dec 2023 18:00:50 +0000
+### [39 pc rise in case of crime registered by GRP in Delhi in 2022: NCRB](https://theprint.in/india/39-pc-rise-in-case-of-crime-registered-by-grp-in-delhi-in-2022-ncrb/1873679/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 5 (PTI) There was a 39 per cent increase in cases of crime registered by the Government Railway Police (GRP) in Delhi in 2022, according to the latest National Records Crime Bureau (NCRB) data. According to the data, a total of 3,243 cases of crime took place in the national capital in [&#8230;]
+
+Tue, 05 Dec 2023 18:00:40 +0000
+### [BMC sets up expert panel to review rebuilding of colonial-era water reservoir](https://theprint.in/india/bmc-sets-up-expert-panel-to-review-rebuilding-of-colonial-era-water-reservoir/1873678/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 5 (PTI) The Brihanmumbai Municipal Corporation (BMC) said on Tuesday it has set up a committee of experts, including IIT Bombay professors, to review the proposal to rebuild a colonial-era water reservoir constructed beneath the iconic Hanging Garden in south Mumbai. The expert panel is going to inspect a portion of the reservoir [&#8230;]
+
+Tue, 05 Dec 2023 18:00:27 +0000
+### [Telangana logs 15,297 cybercrime cases in 2022, highest in India: NCRB](https://theprint.in/india/telangana-logs-15297-cybercrime-cases-in-2022-highest-in-india-ncrb/1873676/)
+
+Telangana has reported the highest number of cybercrime cases in India, with 15,297 cases registered in 2022. This marks an increase from 5,024 cases in 2020 and 10,303 cases in 2021. According to the data from the National Crime Records Bureau (NCRB), Karnataka followed Telangana with 12,556 cases, while Uttar Pradesh recorded 10,117 cases. Overall, the 28 states in India recorded a total of 64,907 cybercrime cases in the same year. The report also highlights specific types of cybercrimes, including ATM frauds (624 cases), online banking frauds (3,223 cases), OTP frauds (2,179 cases), cheating frauds (4,467 cases), cyber stalking (280 cases), and cyber blackmailing/threatening (234 cases). The primary motive behind the majority of these cases was fraud. The rate of cybercrime cases per lakh population in Telangana was 40.3, and the percentage of cases for which a charge sheet was filed was 17.1. The data was derived from the PTI news service.
+
+Tue, 05 Dec 2023 18:00:22 +0000
+### [Carbon tax in Canada’s Pacific province has health benefit, study shows](https://theprint.in/environment/carbon-tax-in-canadas-pacific-province-has-health-benefit-study-shows/1873675/)
+
+Article found but Couldn't summarize 
+By Steve Scherer OTTAWA (Reuters) - As Canadian politicians continue an intense debate over emissions policies, a new study has found that the country's carbon pricing scheme in British Columbia has a
+
+Tue, 05 Dec 2023 18:00:15 +0000
+### [Telangana Cong leaders welcome Revanth Reddy’s appointment as CM](https://theprint.in/india/telangana-cong-leaders-welcome-revanth-reddys-appointment-as-cm/1873673/)
+
+Article found but Couldn't summarize 
+Hyderabad, Dec 5 (PTI) Congress leaders in Telangana on Tuesday welcomed the naming of A Revanth Reddy as the new chief minister of the state, saying his government will ensure democratic and pro-poor governance. The All India Congress Committee announced in Delhi that Reddy, who successfully led the party&#8217;s electoral campaign against the BRS, would [&#8230;]
+
+Tue, 05 Dec 2023 18:00:08 +0000
+### [Oil prices steady as demand concerns offset threatened supply cuts](https://theprint.in/economy/oil-prices-steady-as-demand-concerns-offset-threatened-supply-cuts/1873672/)
+
+Article found but Couldn't summarize 
+By Scott DiSavino NEW YORK (Reuters) -Oil prices were little changed in volatile trade on Tuesday as a stronger U.S. dollar and demand concerns offset supply worries after Russia said OPEC+ was ready
+
+Tue, 05 Dec 2023 18:00:03 +0000
+### [Bihar: IPS officer, wanted for involvement with liquor mafias, surrenders](https://theprint.in/india/bihar-ips-officer-wanted-for-involvement-with-liquor-mafias-surrenders/1873671/)
+
+Article found but Couldn't summarize 
+Patna, Dec 5 (PTI) IPS officer Aditya Kumar, who was wanted in a case that relates to his alleged involvement with liquor mafias in the state, surrendered before a court in Patna on Tuesday. The 2011-batch IPS officer was on the run for over a year, evading arrest in the case related to his alleged [&#8230;]
+
+Tue, 05 Dec 2023 17:48:02 +0000
+### [Israeli forces operating ‘in the core of Khan Yunis’](https://theprint.in/world/israeli-forces-operating-in-the-core-of-khan-yunis/1873668/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], December 5 (ANI/TPS): Israeli forces are now operating in the heart of Khan Yunis, southern Gaza&#8217;s largest city, the Israel Defence Forces said on Tuesday. &#8220;We are in the core of Jabaliya, in the core of Shejaya and now also in the core of Khan Yunis&#8221; the IDF said in a statement. [&#8230;]
+
+Tue, 05 Dec 2023 17:47:50 +0000
+### [Hamas drugged hostages before releasing them, Knesset told](https://theprint.in/world/hamas-drugged-hostages-before-releasing-them-knesset-told/1873666/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], December 5 (ANI/TPS): Hamas drugged Israeli hostages before freeing them, &#8220;to make them look happy,&#8221; a Health Ministry official told a Knesset panel on Tuesday. Hagar Mizrahi, head of the Health Ministry&#8217;s medical division, testified to the Knesset Health Committee that the captives were given a tranquilizer which she identified as Clonazepam [&#8230;]
+
+Tue, 05 Dec 2023 17:47:40 +0000
+### [Researchers find how important protein keeps cell membranes in balance](https://theprint.in/science/researchers-find-how-important-protein-keeps-cell-membranes-in-balance/1873664/)
+
+Article found but Couldn't summarize 
+Washington [US], December 5 (ANI): Lipids are the primary components of our cell membranes, which are made up of lipid bilayers. The lipid distribution is not uniform; it is asymmetric, having differing lipid contents in the outer and inner layers. P4-ATPases, also known as flippases, serve an important role in establishing and maintaining lipid asymmetry. [&#8230;]
+
 Tue, 05 Dec 2023 16:16:05 +0000
 ### [Model code, Covid norms violation: HC stays local court proceedings against Akhilesh Yadav](https://theprint.in/india/model-code-covid-norms-violation-hc-stays-local-court-proceedings-against-akhilesh-yadav/1873548/)
 

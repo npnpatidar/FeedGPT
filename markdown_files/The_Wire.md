@@ -1,3 +1,9 @@
+2023-12-05T23:43:29+05:30
+### [India To Extend $250M Soft Loan to Kenya, Eyes Its Cheetahs and Raises Issue of Missing Nationals](https://thewire.in/diplomacy/india-250-million-soft-loan-kenya-cheetahs-missing-nationals)
+
+No Article text 
+Prime Minister Narendra Modi said the loan is meant to “modernise Kenya’s agriculture sector”. India has also promised to urge Indian companies to invest in Kenya’s agriculture sector.
+
 2023-12-05T20:40:41+05:30
 ### [Prominent Rajput Leader Gogamedi Shot Dead, Protests Erupt in Rajasthan](https://thewire.in/security/prominent-rajput-leader-gogamedi-shot-dead-protests-erupt-in-rajasthan)
 
