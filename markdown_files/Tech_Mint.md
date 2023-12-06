@@ -1,3 +1,9 @@
+Wed, 06 Dec 2023 07:50:04 +0530
+### [GTA 6 trailer records over 90 million views in 24 hours, breaks THIS unique record.](https://www.livemint.com/technology/tech-news/gta-6-trailer-record-over-90-million-views-in-24-hours-breaks-this-unique-record-11701825345359.html)
+
+Article found but Couldn't summarize 
+GTA 6 trailer video has shattered the record most number of views on a non-music video on YouTube video, taking over from the present record holder Mr Beast.
+
 Tue, 05 Dec 2023 23:28:15 +0530
 ### [Nov services activity rises, but at slower pace: Survey](https://www.livemint.com/technology/nov-services-activity-rises-but-at-slower-pace-survey-11701798616675.html)
 

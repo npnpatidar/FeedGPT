@@ -1,3 +1,80 @@
+Wed, 06 Dec 2023 02:15:08 +0000
+### [BLACKPINK members renew contract, boosting shares in label YG Entertainment](https://theprint.in/entertainment/blackpink-members-renew-contract-boosting-shares-in-label-yg-entertainment/1873888/)
+
+Article found but Couldn't summarize 
+SEOUL (Reuters) - South Korea's YG Entertainment Inc said on Wednesday that all four members of South Korean K-pop girl group BLACKPINK have renewed their contracts with the label, sending shares of
+
+Wed, 06 Dec 2023 02:15:03 +0000
+### [PM Modi pays tributes to Ambedkar on death anniversary](https://theprint.in/india/pm-modi-pays-tributes-to-ambedkar-on-death-anniversary/1873887/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 6 (PTI) Prime Minister Narendra Modi on Wednesday paid tributes to B R Ambedkar on his death anniversary, saying he dedicated his life to the welfare of the exploited and deprived. Besides being the architect of the Constitution, he was an immortal champion of social harmony, Modi said of Ambedkar, who came [&#8230;]
+
+Wed, 06 Dec 2023 02:00:43 +0000
+### [Highest IPC crime rate among states, most IPC chargesheets filed — what NCRB data says about Kerala](https://theprint.in/india/highest-ipc-crime-rate-among-states-most-ipc-chargesheets-filed-what-ncrb-data-says-about-kerala/1873646/)
+
+Article found but Couldn't summarize 
+Among states &#38; UTs, Delhi recorded highest IPC crime rate &#38; 3rd lowest chargesheet rate. Kerala, meanwhile, recorded highest crime rate for negligent &#38; rash driving-related offences.
+
+Wed, 06 Dec 2023 02:00:37 +0000
+### [Nio to take over plant assets from manufacturing partner JAC](https://theprint.in/tech/nio-to-take-over-plant-assets-from-manufacturing-partner-jac/1873885/)
+
+Article found but Couldn't summarize 
+SHANGHAI/BEIJING (Reuters) -Nio said it would take over some plant assets from partner Anhui Jianghuai Automobile Group (JAC) as the Chinese electric vehicle maker moves closer to producing cars on
+
+Wed, 06 Dec 2023 02:00:24 +0000
+### [Dollar steady as traders weigh labour data, rate outlook](https://theprint.in/economy/dollar-steady-as-traders-weigh-labour-data-rate-outlook/1873883/)
+
+Article found but Couldn't summarize 
+By Ankur Banerjee SINGAPORE (Reuters) - The dollar was near a two-week high against a basket of currencies on Wednesday as investors assessed U.S. economic data that showed a cooling labour market,
+
+Wed, 06 Dec 2023 02:00:15 +0000
+### [Oil prices fall on China concerns, scepticism on OPEC+ cuts](https://theprint.in/economy/oil-prices-fall-on-china-concerns-scepticism-on-opec-cuts/1873881/)
+
+Article found but Couldn't summarize 
+BEIJING (Reuters) - Oil prices fell in Wednesday Asian morning trading as markets continue to doubt the impact of OPEC+ cuts and take cues from a worsening demand outlook in China. Brent crude futures
+
+Wed, 06 Dec 2023 02:00:03 +0000
+### [Yellen says U.S. would be ‘responsible for Ukraine’s defeat’ if aid fails in Congress](https://theprint.in/world/yellen-says-u-s-would-be-responsible-for-ukraines-defeat-if-aid-fails-in-congress/1873879/)
+
+Article found but Couldn't summarize 
+By David Lawder MEXICO CITY (Reuters) - Treasury Secretary Janet Yellen said on Tuesday that the United States would be "responsible for Ukraine's defeat" if Congress fails to approve the Biden
+
+Wed, 06 Dec 2023 02:00:03 +0000
+### [Will wait for results of India’s probe into plot to kill Sikh separatist: US](https://theprint.in/world/will-wait-for-results-of-indias-probe-into-plot-to-kill-sikh-separatist-us/1873878/)
+
+Article found but Couldn't summarize 
+Washington, Dec 6 (PTI) The United States has said it will wait to see the results of the investigation announced by India concerning allegations of the involvement of an Indian official in a plot to assassinate a separatist Sikh leader in the US. &#8220;We have noted at the most senior levels of this government – [&#8230;]
+
+Wed, 06 Dec 2023 01:47:02 +0000
+### [“Where the hell are you?”: Israeli PM tears into women’s right groups over silence on Hamas ‘rape’](https://theprint.in/world/where-the-hell-are-you-israeli-pm-tears-into-womens-right-groups-over-silence-on-hamas-rape/1873876/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], December 6 (ANI): Israeli Prime Minister Benjamin Netanyahu came down heavily on international human rights organisations, women&#8217;s groups and the UN for failing to speak out about the rapes and other atrocities committed by Hamas against Israeli women. Taking to his official X handle, the Israeli PM posted, &#8220;I say to the [&#8230;]
+
+Wed, 06 Dec 2023 01:45:05 +0000
+### [US and Sweden sign Defence Cooperation Agreement](https://theprint.in/world/us-and-sweden-sign-defence-cooperation-agreement/1873873/)
+
+The United States and Sweden have signed a Defense Cooperation Agreement as Sweden seeks approval to join NATO. The U.S. Department of State stated that Sweden is a strong defense partner that upholds NATO's values, and its membership will strengthen collective defense and enhance responses to security challenges in the Euro-Atlantic area. Swedish Defense Minister Pal Jonson expressed hope for the swift completion of Sweden's NATO accession but did not provide an estimate regarding the support of Turkey and Hungary, the only two NATO members yet to approve Sweden's entry.
+
+Wed, 06 Dec 2023 01:32:02 +0000
+### [Cross-border love story 2.0: Pakistani woman arrives in India to marry Kolkata man](https://theprint.in/world/cross-border-love-story-2-0-pakistani-woman-arrives-in-india-to-marry-kolkata-man/1873871/)
+
+Article found but Couldn't summarize 
+Amritsar (Punjab) [India], December 6 (ANI): In yet another cross-border love story, a Pakistani woman, Javeria Khanum, legally crossed over into India through the Attari-Wagah border to marry her fiance on Tuesday. Javeria, who has been granted a 45-day visa, arrived in India to marry her fiance Sameer Khan, who is a resident of Kolkata. [&#8230;]
+
+Wed, 06 Dec 2023 01:30:03 +0000
+### [Panama says President Cortizo still in remission from rare blood disorder](https://theprint.in/world/panama-says-president-cortizo-still-in-remission-from-rare-blood-disorder/1873869/)
+
+Article found but Couldn't summarize 
+PANAMA CITY (Reuters) - Panamanian President Laurentino Cortizo is still in remission from the rare blood disorder known as myelodysplastic syndrome, the government said in a statement on Tuesday.
+
+Wed, 06 Dec 2023 01:15:10 +0000
+### [Australia’s proposed koala haven faces logging threat](https://theprint.in/environment/australias-proposed-koala-haven-faces-logging-threat/1873868/)
+
+Article found but Couldn't summarize 
+By Cordelia Hsu and Jill Gralow SYDNEY (Reuters) - Nestled in old eucalyptus forests in Australia's New South Wales region, an estimated 15% of the state’s dwindling koala population is set to win
+
 Wed, 06 Dec 2023 01:00:45 +0000
 ### [India redefining need for regulations on data protection, BJP’s Baijayant Panda says at tech summit](https://theprint.in/india/governance/india-redefining-need-for-regulations-on-data-protection-bjps-baijayant-panda-says-at-tech-summit/1873480/)
 

@@ -1,3 +1,49 @@
+Wed, 06 Dec 2023 02:15:36 +0000
+### [December 6, Forty Years Ago: Opposition demand over arrest of Jarnail Singh Bhindranwale](https://indianexpress.com/article/opinion/40-years-ago/december-6-forty-years-ago-opposition-demand-9056014/)
+
+Article found but Couldn't summarize
+
+Wed, 06 Dec 2023 01:57:41 +0000
+### [Express View on Congress’s triple defeat: What is INDIA’s message?](https://indianexpress.com/article/opinion/editorials/congresss-triple-defeat-assembly-election-results-bjp-nitish-kumar-mamata-banerjee-akhilesh-yadav-9055973/)
+
+The future of the anti-BJP Opposition front, INDIA, is uncertain following the recent assembly elections. The alliance has faced challenges due to conflicts of ambition, ideologies, and interests, as well as seat-sharing and leadership issues. The Congress party's losses in Rajasthan, Chhattisgarh, and Madhya Pradesh have intensified internal divisions within the opposition. TMC chief Mamata Banerjee believes that if the Congress had shared seats with INDIA members, it could have avoided these defeats. SP chief Akhilesh Yadav has criticized the Congress for its arrogance. Several key figures, including Banerjee, Yadav, and Bihar Chief Minister Nitish Kumar, have skipped an alliance meeting, signaling potential internal rifts. INDIA suffers from fundamental problems such as Congress' entitlement and a lack of commitment from its members. Despite direct fights between Congress and BJP in three out of five contests, a united front could have sent a powerful message. The opposition should reassess its tone and message to resonate with voters, considering the BJP's successful mandates. A larger reckoning is needed, focusing on the story INDIA tells voters rather than relying solely on arithmetic calculations.
+
+Wed, 06 Dec 2023 01:40:37 +0000
+### [Express View on latest NCRB data: The crime story](https://indianexpress.com/article/opinion/editorials/express-view-on-latest-ncrb-data-the-crime-story-9055994/)
+
+Article found but Couldn't summarize
+
+Wed, 06 Dec 2023 01:37:13 +0000
+### [Kapil Sibal is wrong — judiciary’s independence is not under threat](https://indianexpress.com/article/opinion/columns/kapil-sibal-is-wrong-judiciarys-independence-is-not-under-threat-9056021/)
+
+The article discusses the issue of legislators and politicians who are also lawyers, and how they navigate the dual roles of lawmaking and representing clients. It highlights the trend of mixing politics with the law and addresses the recent allegations made by Kapil Sibal, a senior advocate and former Union Law Minister, against the judiciary. Sibal claims that there is a normalization of political intervention in the judiciary, which undermines its independence. However, the article argues that the comparison between the present times and the 1975 Emergency is false, as the judiciary has expanded its scope and plays an active role in judicial review. The author criticizes Sibal's accusations, stating that his own involvement in the courts contradicts his claims. The article emphasizes the importance of maintaining an independent judiciary and the potential consequences of undermining its independence, such as eroding public trust and influencing future verdicts. It concludes by advocating for a delicate balance between political advocacy and judicial independence, especially for legislators who also have legal expertise.
+
+Wed, 06 Dec 2023 01:37:01 +0000
+### [The secret to a better viewing experience on OTTs](https://indianexpress.com/article/opinion/columns/the-secret-to-a-better-viewing-experience-on-otts-9056020/)
+
+Article found but Couldn't summarize
+
+Wed, 06 Dec 2023 01:35:09 +0000
+### [Express View on Oxford Word of the Year: Got rizz?](https://indianexpress.com/article/opinion/editorials/express-view-on-oxford-word-of-the-year-got-rizz-9055995/)
+
+The Oxford Word of the Year for 2023 is "Rizz," which is a shortened form of "charisma." It represents the prevailing mood of the year, as it reflects optimism and a return to confidence after the pandemic. The word refers to style, charm, attractiveness, and the ability to attract a romantic or sexual partner. It also highlights how Gen Z is changing communication and the role of the internet. While some may view "Rizz" as an absurd choice, previous selections have included unconventional words and phrases. The tradition of choosing the Word of the Year started in 2004 and has become synonymous with Gen Z culture.
+
+Wed, 06 Dec 2023 01:30:44 +0000
+### [How India and UK can do more at COP28](https://indianexpress.com/article/opinion/editorials/cop28-india-uk-relations-india-energy-transition-narendra-modi-9055974/)
+
+India is undergoing a remarkable transition, aiming to become the first major economy to achieve developed country status using clean energy. This ambitious goal sets the stage for negotiations at the climate summit in Dubai, where countries are discussing the future of our planet. While progress has been made in renewable energy and net zero commitments, there is still much work to be done, as countries face the consequences of climate change such as loss of life, biodiversity, and significant economic damage.
+
+India, being one of the most vulnerable countries to climate change according to the IPCC, plays a crucial role in global efforts to limit temperature rise. The UK and India are collaborating in three key areas to address climate challenges. First, both countries are investing in renewables and green hydrogen technologies, with Indian initiatives like Mission LiFE demonstrating leadership in sustainability. Second, developed economies, including the UK, need to support countries like India in building solutions to climate change impacts. The UK has committed to financial aid and protection against climate change effects in vulnerable nations. Lastly, collaboration is needed to reverse the loss of biodiversity, with successful Indian companies like S4S Technologies receiving recognition and funding to scale their solutions.
+
+The writer emphasizes the importance of new commitments from all countries to keep global temperature rise below 1.5 degrees Celsius and accelerate the transition away from fossil fuels. Additionally, progress must be made in protecting nature, building resilience to climate disasters, and delivering necessary climate finance. The upcoming COP28 presents an opportunity for the UK and India to lead in these efforts and inspire the world through clean energy transitions, following the UK's significant reduction in greenhouse gas emissions over the years.
+
+Overall, the article highlights India's determination to achieve its clean energy ambitions and the collaborative efforts between the UK and India to address climate change challenges for the benefit of both countries and the world.
+
+Wed, 06 Dec 2023 01:30:34 +0000
+### [C Raja Mohan writes: Why India cannot afford to repeat its nuclear weapons mistakes with AI](https://indianexpress.com/article/opinion/columns/c-raja-mohan-writes-why-india-cannot-afford-to-repeat-its-nuclear-weapons-mistakes-with-ai-9056025/)
+
+This article discusses the parallels between the geopolitical challenges posed by nuclear technology in the past and those presented by artificial intelligence (AI) today. The author emphasizes that while nuclear and AI are different, both have significant implications for humanity's survival and well-being. The article highlights the need for managing the impact of AI on geopolitical rivalry, establishing norms and institutions to govern its use, and exploring arms control agreements between major powers. The United States and China dominate the AI discourse, with efforts to regulate military AI while continuing to develop it. International cooperation and the formation of alliances are seen as crucial in managing the negative consequences of the AI revolution. India is urged to draw lessons from its own nuclear history, particularly in terms of avoiding idealistic disarmament approaches and taking advantage of partnerships with countries like the US. The article also stresses the importance of building strong domestic capabilities in AI and involving the private sector in research and development.
+
 Tue, 05 Dec 2023 14:19:22 +0000
 ### [Why Congress lost Madhya Pradesh: Unlike Telangana, it didn’t listen to advisers or notice BJP’s winning strategy](https://indianexpress.com/article/opinion/columns/why-congress-lost-madhya-pradesh-unlike-telangana-it-didnt-listen-to-advisers-or-notice-bjps-winning-strategy-9055724/)
 

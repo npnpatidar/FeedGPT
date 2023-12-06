@@ -1,3 +1,8 @@
+Wed, 06 Dec 2023 01:44:53 +0000
+### [ExplainSpeaking | Soaring Sensex, Growing GDP: Do economic gains portend electoral victories](https://indianexpress.com/article/explained/explained-economics/explainspeaking-soaring-sensex-growing-gdp-do-economic-gains-portend-electoral-victories-9056071/)
+
+Article found but Couldn't summarize
+
 Tue, 05 Dec 2023 14:53:19 +0000
 ### [Sensex, Nifty soar: Political, other factors driving the rally](https://indianexpress.com/article/explained/explained-economics/why-sensex-nifty-soaring-political-other-factors-9055865/)
 
