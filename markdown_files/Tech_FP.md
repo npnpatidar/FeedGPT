@@ -1,3 +1,8 @@
+Wed, 06 Dec 2023 10:01:09 +0530
+### [Apple warns India against EU-like USB-C rules for iPhones, says move will hit local production targets](https://www.firstpost.com/tech/apple-warns-india-against-eu-like-usb-c-rules-for-iphones-says-move-will-hit-local-production-targets-13470772.html)
+
+Apple is lobbying against the Indian government's plan to adopt USB-C ports as the standard charging port for phones and devices, similar to the EU's mandate. The company has informed officials that this move could disrupt its local production targets. Discussions are ongoing, and India aims to implement the regulation by June 2025. While other manufacturers have agreed to comply, Apple is resisting due to its proprietary lightning connector port. The EU estimates that standardizing charging ports could save consumers $271 million and reduce e-waste. Apple has requested an exemption for existing iPhone models but may face challenges in meeting India's production-linked incentive targets. India is a crucial growth market for Apple, with an estimated 12-14% of iPhone production expected to come from the country by 2023. However, older generation iPhones remain popular in India's price-conscious market. The EU's charging port regulations will come into effect in December 2024, while India aims for compliance by June 2025. Apple has assured officials it can meet the deadline if existing models are exempted.
+
 Wed, 06 Dec 2023 09:28:44 +0530
 ### [Govt of India bans over 100 fraudulent Chinese websites in crackdown on China-operated financial scams](https://www.firstpost.com/tech/government-of-india-bans-over-100-fraudulent-chinese-websites-in-crackdown-on-china-operated-financial-scams-13470712.html)
 

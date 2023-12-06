@@ -1,3 +1,21 @@
+2023-12-06T10:41:49+05:30
+### [Rajasthan: BJP MLA Who Shut Down Meat Shops a Day After Election Win Apologises](https://thewire.in/communalism/rajasthan-bjp-mla-who-shut-down-meat-shops-a-day-after-election-win-apologises)
+
+No Article text 
+Videos of the MLA's heated exchange with municipal officials and police went viral.
+
+2023-12-06T10:38:49+05:30
+### ['Some Things Better Left Unsaid': Justice Kaul on Why Judges' Appointment Delays Matter Unlisted](https://thewire.in/law/some-things-better-left-unsaid-justice-kaul-on-why-judges-appointment-delays-matter-unlisted)
+
+No Article text 
+The matter was supposed to be heard by the Justice Kaul bench on Tuesday but was deleted. The judge made clear that he had nothing to do with the deletion.
+
+2023-12-06T10:00:59+05:30
+### [The Babri Masjid Demolition Inalterably Changed the Trajectory of India's History](https://thewire.in/communalism/the-babri-masjid-demolition-inalterably-changed-the-trajectory-of-indias-history)
+
+No Article text 
+The doctrine of Hindu exclusiveness has stimulated a second partition of the country, albeit metaphorical in the sense that it is not a physical territorial split but a schismatic division of minds based on religion.
+
 2023-12-06T08:29:38+05:30
 ### [Thirty-One Years After Babri Demolition, an Important Reminder](https://thewire.in/law/babri-demolition-anniversary-doctrine-non-retrogression)
 

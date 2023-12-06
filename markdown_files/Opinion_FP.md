@@ -1,3 +1,8 @@
+Wed, 06 Dec 2023 10:08:57 +0530
+### [Daughter's book reveals how a disillusioned Pranab Mukherjee decried Gandhis' Congress dominance as 'worst hegemony'](https://www.firstpost.com/opinion/daughters-book-reveals-how-a-disillusioned-pranab-mukherjee-decried-gandhis-congress-dominance-as-worst-hegemony-13470472.html)
+
+Former President Pranab Mukherjee's book, "PRANAB, MY FATHER: A Daughter Remembers," reveals his dissatisfaction with Congress leader Rahul Gandhi and Sonia Gandhi. In his personal diary entry from July 2020, Mukherjee criticized the Gandhis for turning Congress into a family-centric party and eroding its democratic character. He accused them of being focused solely on forming a government at the Centre with regional parties. Mukherjee's daughter, Sharmishta, meticulously recorded these events, highlighting significant moments during the UPA years. The book also exposes Mukherjee's disappointment in Rahul's political immaturity and lack of commitment. Mukherjee questioned Rahul's actions after he publicly criticized a Cabinet decision, describing him as arrogant without the political acumen of his ancestors. Despite some praise for Rahul's courteous behavior and curiosity, Mukherjee believed he still had a long way to go politically. The book also mentions Mukherjee's disagreement with Sonia Gandhi over displaying Savarkar's portrait in the Central Hall, where he defended Savarkar's patriotism. Overall, the book offers insights into Mukherjee's perspective on the Gandhis and their impact on the Congress party.
+
 Tue, 05 Dec 2023 19:10:39 +0530
 ### [Vantage | Unemployment, defaults ... is the Chinese dream dying?](https://www.firstpost.com/opinion/vantage-unemployment-defaults-is-the-chinese-dream-dying-13469682.html)
 

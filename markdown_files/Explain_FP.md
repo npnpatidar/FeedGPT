@@ -1,3 +1,9 @@
+Wed, 06 Dec 2023 10:26:25 +0530
+### [Karni Sena chief shot dead at home: Who was Sukhdev Singh Gogamedi, who killed him?](https://www.firstpost.com/explainers/karni-sena-chief-sukhdev-singh-gogamedi-murder-rohit-godara-lawrence-bishnoi-gang-rajasthan-13470762.html)
+
+Article found but Couldn't summarize 
+Karni Sena chief shot dead at home: Who was Sukhdev Singh Gogamedi, who killed him?
+
 Wed, 06 Dec 2023 09:02:04 +0530
 ### [Love Knows No Borders: How Pakistani woman crossed into India to marry Kolkata man](https://www.firstpost.com/explainers/love-knows-no-borders-how-pakistani-woman-crossed-into-india-to-marry-kolkata-man-13470542.html)
 

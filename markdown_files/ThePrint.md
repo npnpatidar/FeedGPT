@@ -1,3 +1,121 @@
+Wed, 06 Dec 2023 05:17:25 +0000
+### [‘Badalta Kashmir’: Young rappers sing about positive changes in Valley](https://theprint.in/feature/badalta-kashmir-young-rappers-sing-about-positive-changes-in-valley/1874027/)
+
+Article found but Couldn't summarize 
+Srinagar (Jammu and Kashmir) [India], December 6 (ANI): Kashmir-based rap duo, Humaira and MC Raa, recently came out with a new rap song &#8216;Badalta Kashmir&#8217; which celebrates the positive changes in the Kashmir Valley since the abrogation of Article 370. Talking about the song, Rapper MC Raa told ANI, &#8220;This song has tried to explain [&#8230;]
+
+Wed, 06 Dec 2023 05:17:14 +0000
+### [LTIMindtree Ranks Second in Overall Customer Satisfaction in Whitelane Research’s 2023 IT Sourcing Study for Germany](https://theprint.in/ani-press-releases/ltimindtree-ranks-second-in-overall-customer-satisfaction-in-whitelane-researchs-2023-it-sourcing-study-for-germany/1874025/)
+
+LTIMindtree, a global technology consulting and digital solutions company, has been ranked second in customer satisfaction in the 2023 IT Sourcing Study for Germany by Whitelane Research. The company received an overall customer satisfaction score of 80%, which is above the industry average. LTIMindtree ranked first in service delivery quality and second in transformative innovation. It was also one of only two companies with scores 5% or more above the average across all four key performance indicators (KPIs). The study evaluated over 700 unique IT sourcing relationships and 800 cloud sourcing relationships, with LTIMindtree receiving high satisfaction ratings from its clients. The company's focus on helping customers stay competitive and agile has contributed to its success in the region.
+
+Wed, 06 Dec 2023 05:17:02 +0000
+### [12,000 people in Afghanistan afflicted with AIDS: Taliban](https://theprint.in/world/12000-people-in-afghanistan-afflicted-with-aids-taliban/1874023/)
+
+Article found but Couldn't summarize 
+Kabul [Afghanistan], December 6 (ANI): Approximately 12,000 people in Afghanistan are currently afflicted with the &#8220;HIV&#8221; disease, as per statistics provided by the Taliban-appointed Ministry of Public Health, Khaama Press reported. The Khaama Press News Agency is an online news service for Afghanistan. The Taliban-appointed ministry during a session on Monday in observance of World [&#8230;]
+
+Wed, 06 Dec 2023 05:15:40 +0000
+### [How electric vehicles are accelerating the end of the oil age](https://theprint.in/economy/how-electric-vehicles-are-accelerating-the-end-of-the-oil-age/1874020/)
+
+Article found but Couldn't summarize 
+By Laura Sanicola (Reuters) - There is plenty of hand-wringing on display at the COP28 climate conference in Dubai about the slow pace of reducing the consumption of fossil fuels to fight climate
+
+Wed, 06 Dec 2023 05:15:25 +0000
+### [Energy, IT shares lead Indian stocks to fresh all-time highs](https://theprint.in/india/energy-it-shares-lead-indian-stocks-to-fresh-all-time-highs/1874018/)
+
+Article found but Couldn't summarize 
+By Bharath Rajeswaran BENGALURU (Reuters) -India's benchmark indexes advanced to fresh record highs for the third consecutive session on Wednesday, led by energy stocks on moderating oil prices and
+
+Wed, 06 Dec 2023 05:15:15 +0000
+### [Apple told component suppliers to source iPhone 16 batteries from India- FT](https://theprint.in/india/apple-told-component-suppliers-to-source-iphone-16-batteries-from-india-ft/1874016/)
+
+Article found but Couldn't summarize 
+(Reuters) - Apple has informed component suppliers of its preference to source batteries for the forthcoming iPhone 16 from Indian factories, the Financial Times reported on Wednesday. (Reporting by
+
+Wed, 06 Dec 2023 05:15:03 +0000
+### [Mayawati slams Centre for inflation, says 81 crore dependent on free foodgrains from govt](https://theprint.in/india/mayawati-slams-centre-for-inflation-says-81-crore-dependent-on-free-foodgrains-from-govt/1874014/)
+
+Article found but Couldn't summarize 
+Lucknow, Dec 6 (PTI) BSP chief Mayawati Wednesday said neither the freedom fighters nor the architect of the Indian Constitution Bhimrao Ambedkar could have thought that more than 81 crore poor people of the country would be dependent on free foodgrains from government as she slammed the Centre for rising inflation. Paying tributes to Ambedkar [&#8230;]
+
+Wed, 06 Dec 2023 05:15:03 +0000
+### [Cricket-Maxwell to play in IPL until he ‘can’t walk anymore’](https://theprint.in/india/cricket-maxwell-to-play-in-ipl-until-he-cant-walk-anymore/1874013/)
+
+Article found but Couldn't summarize 
+MELBOURNE (Reuters) - Australia all-rounder Glenn Maxwell says the Indian Premier League (IPL) has been so good to him that he will play in the lucrative T20 competition until he "can't walk anymore".
+
+Wed, 06 Dec 2023 05:05:28 +0000
+### [Gains from covert killing come with a big price tag. India can learn from Chile](https://theprint.in/opinion/security-code/gains-from-covert-killing-come-with-a-big-price-tag-india-can-learn-from-chile/1873964/)
+
+Article found but Couldn't summarize 
+The long shadow cast by Orlando Letelier’s murder illuminates how easily the ties between allies can be derailed by misjudgement—and how hard it can be to repair the damage.
+
+Wed, 06 Dec 2023 05:03:58 +0000
+### [Does China really care about climate change? Xi’s no-show at COP28 gives a hint](https://theprint.in/opinion/eye-on-china/does-china-really-care-about-climate-change-xis-no-show-at-cop28-gives-a-hint/1873614/)
+
+Article found but Couldn't summarize 
+Xi’s absence at COP28 was conspicuous, particularly when other prominent world leaders were present, including Narendra Modi, Emmanuel Macron, Giorgia Meloni, and Rishi Sunak.
+
+Wed, 06 Dec 2023 05:02:22 +0000
+### [Stock market bulls charge ahead as Nifty hits record highs](https://theprint.in/economy/stock-market-bulls-charge-ahead-as-nifty-hits-record-highs/1874007/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 6 (ANI): The stock market opened on a positive note, with indices maintaining their upward momentum, signalling a bullish trend. Bulls have taken firm control, and despite potential challenges, the Nifty&#8217;s momentum remains strong. The Sensex opened 294.06 points higher at 69,584.29, while the Nifty opened 78.95 points up at 20,934.65. [&#8230;]
+
+Wed, 06 Dec 2023 05:02:12 +0000
+### [ASHRAYA to nurture 100,000 AI leaders in schools of Punjab and Haryana with MEWS](https://theprint.in/ani-press-releases/ashraya-to-nurture-100000-ai-leaders-in-schools-of-punjab-and-haryana-with-mews/1874005/)
+
+Article found but Couldn't summarize 
+PNN Chandigarh [India], December 6: Ashraya, having successfully implemented its AI education in over 50 schools across 10 states in India and creating India&#8217;s first on bagless school in AVM Ambabari in Jaipur, now joins hands with the Maur Educational Welfare Society (MEWS) to transform learning for 100,000 students and help them compete world-wide. This [&#8230;]
+
+Wed, 06 Dec 2023 05:02:01 +0000
+### [Antaris Named to Fast Company’s Third Annual List of the Next Big Things in Tech](https://theprint.in/ani-press-releases/antaris-named-to-fast-companys-third-annual-list-of-the-next-big-things-in-tech/1874003/)
+
+Article found but Couldn't summarize 
+PRNewswire Los Altos (California) [US], December 6: Antaris, the leading software platform for space missions, today announced that it has been named to Fast Company&#8217;s third annual Next Big Things in Tech list, honoring technology breakthroughs that promise to shape the future. This year, 119 technologies developed by established companies, startups, or research teams are [&#8230;]
+
+Wed, 06 Dec 2023 05:00:20 +0000
+### [Taiwan boosts protection of key tech, but says won’t affect chipmakers’ business](https://theprint.in/tech/taiwan-boosts-protection-of-key-tech-but-says-wont-affect-chipmakers-business/1874001/)
+
+Article found but Couldn't summarize 
+By Sarah Wu and Ben Blanchard TAIPEI (Reuters) - Taiwan's new core technologies list will not affect its chip companies' business, Economy Minister Wang Mei-hua said on Wednesday, after the government
+
+Wed, 06 Dec 2023 05:00:07 +0000
+### [Oil prices mixed as markets weigh OPEC+ cuts, China demand concerns](https://theprint.in/economy/oil-prices-mixed-as-markets-weigh-opec-cuts-china-demand-concerns/1873999/)
+
+Article found but Couldn't summarize 
+BEIJING (Reuters) -Oil prices were mixed in Asian trade on Wednesday, after posting four sessions' worth of losses, as markets weighed the effectiveness of OPEC+ cuts on supplies and worries of a
+
+Wed, 06 Dec 2023 05:00:03 +0000
+### [Cyclone Michaung: TN seeks Rs 5,000 crore central assistance](https://theprint.in/india/cyclone-michaung-tn-seeks-rs-5000-crore-central-assistance/1873998/)
+
+Tamil Nadu has requested an interim relief of Rs 5,060 crore from the Indian government for the damages caused by Cyclone Michaung. The Chief Minister, M.K. Stalin, has written a letter to Prime Minister Narendra Modi, emphasizing the severe damage caused by the cyclone in Chennai, Tiruvallur, Kancheepuram, and Chengalpet. The letter highlights the destruction of infrastructure such as roads, bridges, and public buildings, along with the adverse impact on people's livelihoods. The Chief Minister has also urged the deployment of a central team to assess the extent of the damage.
+
+Wed, 06 Dec 2023 04:50:40 +0000
+### [Modi govt opposes plea to cap iron ore production in Odisha, cites ‘objective of Atmanirbhar Bharat’](https://theprint.in/judiciary/modi-govt-opposes-plea-to-cap-iron-ore-production-in-odisha-cites-objective-of-atmanirbhar-bharat/1873922/)
+
+Article found but Couldn't summarize 
+In SC affidavit, Ministry of Mines &#38; Minerals rubbishes claims of scarcity of iron ore as 'unfounded', says robust indigenous steel industry important to realise ‘Developed India by 2047' vision.
+
+Wed, 06 Dec 2023 04:47:23 +0000
+### [BJP National President JP Nadda meets Kenyan President William Samoei Ruto in New Delhi](https://theprint.in/world/bjp-national-president-jp-nadda-meets-kenyan-president-william-samoei-ruto-in-new-delhi/1873988/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 6 (ANI): BJP National President JP Nadda on Wednesday met Kenyan President William Samoei Ruto in New Delhi. The Kenyan President is on a State visit to India from December 4-6 at the invitation of President Droupadi Murmu. He is being accompanied by a high-level official delegation. The visit comes as [&#8230;]
+
+Wed, 06 Dec 2023 04:47:13 +0000
+### [Indian Automobile Dealers Association reports record vehicle retail sales in November 2023](https://theprint.in/economy/indian-automobile-dealers-association-reports-record-vehicle-retail-sales-in-november-2023/1873986/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 6 (ANI): The Federation of Automobile Dealers Associations (FADA) has unveiled the Vehicle Retail Data for November 2023, marking a historic achievement for the Indian Auto Retail Industry. According to a press release, the month witnessed the sale of 28.54 lakh vehicles, surpassing the previous high of March 2020, which sold [&#8230;]
+
+Wed, 06 Dec 2023 04:47:02 +0000
+### [Tektronix Releases 4 Series B Mixed Signal Oscilloscope, Increasing Processing Power for Quicker Analysis & Data Transfer Speed](https://theprint.in/ani-press-releases/tektronix-releases-4-series-b-mixed-signal-oscilloscope-increasing-processing-power-for-quicker-analysis-data-transfer-speed/1873984/)
+
+Article found but Couldn't summarize 
+PRNewswire Beaverton (Oregon) [US]/Bangalore (Karnataka) [India], December 6: Tektronix, Inc, a leading provider in test and measurement solutions and Fortive (NYSE:FTV) company, today announced the launch of its 4 Series B Mixed Signal Oscilloscope (MSO) featuring state-of-the-art measurement performance capabilities on all channels, unmatched user experience, and advanced analysis capabilities. Made for embedded designers who [&#8230;]
+
 Wed, 06 Dec 2023 04:17:01 +0000
 ### [UNAMA reports increased violence against Shia, Hazara communities in Afghanistan](https://theprint.in/world/unama-reports-increased-violence-against-shia-hazara-communities-in-afghanistan/1873961/)
 
