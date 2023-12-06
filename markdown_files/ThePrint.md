@@ -1,3 +1,118 @@
+Wed, 06 Dec 2023 21:15:04 +0000
+### [Venezuela issues arrest warrants for opposition staffers for treason](https://theprint.in/world/venezuela-issues-arrest-warrants-for-opposition-staffers-for-treason/1875390/)
+
+Article found but Couldn't summarize 
+By Vivian Sequera and Sabrina Valle BOGOTA/HOUSTON (Reuters) - Venezuela's attorney general on Wednesday said there are arrest warrants for three people involved in the campaign of opposition
+
+Wed, 06 Dec 2023 20:47:01 +0000
+### [Yemen’s Houthis fire ballistic missiles at Israeli city of Eilat](https://theprint.in/world/yemens-houthis-fire-ballistic-missiles-at-israeli-city-of-eilat/1875384/)
+
+The Iran-backed Houthi rebels in Yemen launched ballistic missiles over the Red Sea, which were intercepted and shot down by Israel's Arrow air defense system. The missiles did not enter Israeli airspace or pose a threat to civilians. The Houthis claimed responsibility for the attack, stating that they targeted military sites in the Eilat area. This is not the first time the Houthis have fired missiles at Eilat during the ongoing conflict between Israel and Hamas. Israel has successfully intercepted four ballistic missiles and used fighter jets to neutralize cruise missiles and drones launched by the Houthis. The Houthis, supported by Iran, are part of the "axis of resistance" against Israel, together with Hamas. They have expressed support for the Palestinians and issued threats against Israel. Iran has warned that Israel could face broader threats if it continues its war against Gaza. In a separate incident, Houthi-fired ballistic missiles struck three commercial ships in the Red Sea, and US warships shot down three drones in self-defense during the attack.
+
+Wed, 06 Dec 2023 20:45:38 +0000
+### [US Coast Guard finds sheen near oil spill in Gulf of Mexico](https://theprint.in/environment/us-coast-guard-finds-sheen-near-oil-spill-in-gulf-of-mexico/1875383/)
+
+The U.S. Coast Guard discovered a light sheen in the Gulf of Mexico, but could not confirm if it was related to the ongoing million-gallon oil spill in the area. The spill, first observed on November 16, resulted in the closure of underwater pipelines and a temporary halt to around 3% of the Gulf's daily crude oil output. The Coast Guard continues to investigate the sheen and has not identified any damage or leaks after surveying the pipelines. Additionally, surrounding pipelines belonging to other operators are also closed. The volume of the initial leak is estimated at 1.1 million gallons (4.2 million liters).
+
+Wed, 06 Dec 2023 20:45:25 +0000
+### [Dollar at 2-week high, euro softer as market bets on rate cuts](https://theprint.in/economy/dollar-at-2-week-high-euro-softer-as-market-bets-on-rate-cuts/1875381/)
+
+Article found but Couldn't summarize 
+By Hannah Lang WASHINGTON (Reuters) -The U.S. dollar was at a two-week high on Wednesday, while the euro was weak across the board as markets ramped up bets that the European Central Bank (ECB) will
+
+Wed, 06 Dec 2023 20:45:13 +0000
+### [US declares warring parties in Sudan committed war crimes](https://theprint.in/world/us-declares-warring-parties-in-sudan-committed-war-crimes/1875379/)
+
+The United States has determined that war crimes, crimes against humanity, and ethnic cleansing have been committed by warring parties in Sudan, specifically the army and paramilitary Rapid Support Forces (RSF). The conflict, which began in April, has resulted in the displacement of over 6.5 million people, over 10,000 deaths, and severe economic devastation. Secretary of State Antony Blinken called for an end to the conflict and for those responsible for atrocities to be held accountable. The RSF has been accused of leading ethnic massacres, looting, rape, and imprisonment of civilians, while the army has conducted intense air and artillery strikes on residential areas. The determination made by the United States does not automatically lead to punitive actions, but it emphasizes the need to address the ongoing crisis. The U.S. has previously imposed sanctions related to the conflict but has not directly targeted the army and RSF. However, Blinken stated that future determinations are possible as more information becomes available.
+
+Wed, 06 Dec 2023 20:45:03 +0000
+### [Las Vegas police say suspect dead after reports of university shooting](https://theprint.in/world/las-vegas-police-say-suspect-dead-after-reports-of-university-shooting/1875377/)
+
+Article found but Couldn't summarize 
+(Reuters) - Las Vegas police on Wednesday said they responded to reports of an active shooter on the local campus of the University of Nevada, where there appeared to be multiple victims, and then
+
+Wed, 06 Dec 2023 20:32:02 +0000
+### [‘Exercise Vajra Prahar 2023’: India, US forces conduct joint drills in Meghalaya](https://theprint.in/world/exercise-vajra-prahar-2023-india-us-forces-conduct-joint-drills-in-meghalaya/1875375/)
+
+Article found but Couldn't summarize 
+Shillong (Meghalaya) [India], December 7 (ANI): As part of &#8216;Exercise Vajraprahar 2023&#8217;, the Indian Air Force (IAF) and Individual Aunmentees (IA) conducted various joint drills on Wednesday. #WATCH &#124; As part of the Indo-US joint Exercise Vajraprahar 2023, IAF along with IA conducted various exercises with US troops in a Mi-17 Helicopter at Umiam Lake, [&#8230;]
+
+Wed, 06 Dec 2023 20:18:18 +0000
+### [Soccer-Swedes turn to Kallstrom to revive footballing fortunes](https://theprint.in/sport/soccer-swedes-turn-to-kallstrom-to-revive-footballing-fortunes/1875373/)
+
+Former midfielder Kim Kallstrom has been appointed as the head of football for the Swedish Football Association (SvFF) in response to the decline in performance by the national teams. The men's team failed to qualify for the Euro 2024 finals, while the women's team will miss the upcoming Olympic tournament for the first time in their history. Kallstrom, who had a successful playing career representing clubs such as Rennes, Arsenal, and Spartak Moscow, retired in 2017 before taking on his new role. He expressed his enthusiasm for positive change and his eagerness to apply his skills and ideas in his new position. His primary task is to hire a new coach for the men's national team. Kallstrom mentioned the importance of analyzing the current situation, setting goals, and finding the right people to implement the necessary changes. He also highlighted his valuable contacts in the football industry, including former Arsenal manager Arsene Wenger, whom he may seek advice from. Kallstrom emphasized the importance of sharing responsibilities and seeking guidance from those with experience.
+
+Wed, 06 Dec 2023 20:18:10 +0000
+### [Motor racing-F1 teams deny complaining to FIA about the Wolffs](https://theprint.in/sport/motor-racing-f1-teams-deny-complaining-to-fia-about-the-wolffs/1875371/)
+
+Formula One teams have denied making complaints to the governing body about Mercedes principal Toto Wolff and his wife Susie, who manages the sport's all-female F1 Academy series. The FIA had announced that its compliance department was investigating potential conflicts of interest following media speculation. However, nine out of ten teams issued statements refuting the allegations, stating that they had not made any complaints. The F1 Academy aims to support women in motorsport and will be sponsoring an entrant in each team's livery next season. Susie Wolff expressed her dismay at having her integrity questioned and highlighted misogynistic behavior. Both Mercedes and Liberty Media-owned Formula One expressed confidence that the allegations were unfounded. Red Bull boss Christian Horner also confirmed that his team had not filed any complaint.
+
+Wed, 06 Dec 2023 20:17:59 +0000
+### [AMD forecasts $45 billion AI chip market this year](https://theprint.in/tech/amd-forecasts-45-billion-ai-chip-market-this-year/1875369/)
+
+Article found but Couldn't summarize 
+By Max A. Cherney (Reuters) - AMD estimated there was a $45 billion market for data center artificial intelligence processors this year as it launched a new generation of AI chips on Wednesday.
+
+Wed, 06 Dec 2023 20:17:47 +0000
+### [Canada to unveil cap and trade system for capping oil and gas emissions -gov’t source](https://theprint.in/environment/canada-to-unveil-cap-and-trade-system-for-capping-oil-and-gas-emissions-govt-source/1875367/)
+
+Article found but Couldn't summarize 
+By Nia Williams (Reuters) -Canada plans to unveil a cap and trade system starting in 2026 for limiting emissions from the oil and gas sector, a government source said on Wednesday, a step toward
+
+Wed, 06 Dec 2023 20:17:37 +0000
+### [Paris to plant first ‘urban forest’ on busy roundabout in drive to build a garden city](https://theprint.in/environment/paris-to-plant-first-urban-forest-on-busy-roundabout-in-drive-to-build-a-garden-city/1875365/)
+
+Article found but Couldn't summarize 
+PARIS (Reuters) - Paris will plant its first "urban forest" on a busy roundabout as part of a plan to turn the French capital into a garden city. This winter, the city will plant 478 trees on the
+
+Wed, 06 Dec 2023 20:17:28 +0000
+### [Canada to unveil cap and trade system for oil and gas emissions -gov’t source](https://theprint.in/environment/canada-to-unveil-cap-and-trade-system-for-oil-and-gas-emissions-govt-source/1875363/)
+
+Article found but Couldn't summarize 
+By Nia Williams (Reuters) -Canada plans to unveil a cap and trade system starting in 2026 for limiting emissions from the oil and gas sector, a government source said on Wednesday, a step toward
+
+Wed, 06 Dec 2023 20:17:18 +0000
+### [City hall in Brazil’s Maceio requests new damages deal with Braskem](https://theprint.in/environment/city-hall-in-brazils-maceio-requests-new-damages-deal-with-braskem/1875361/)
+
+Article found but Couldn't summarize 
+SAO PAULO (Reuters) - The city hall of Brazil's northeastern city of Maceio has asked to negotiate a new compensation agreement with petrochemical firm Braskem over the expansion of a risk area linked
+
+Wed, 06 Dec 2023 20:17:03 +0000
+### [Stocks edge up, 10-year Treasury yield falls as rate cut timing weighed](https://theprint.in/economy/stocks-edge-up-10-year-treasury-yield-falls-as-rate-cut-timing-weighed/1875358/)
+
+Article found but Couldn't summarize 
+By Chuck Mikolajczak NEW YORK (Reuters) - A gauge of global equities rose on Wednesday following consecutive declines to start the week, while longer-dated U.S. Treasury yields fell after economic
+
+Wed, 06 Dec 2023 20:17:02 +0000
+### [UK: India High Commission honours Ambedkar, commemorates 67th ‘Mahaparinirvan Diwas’](https://theprint.in/world/uk-india-high-commission-honours-ambedkar-commemorates-67th-mahaparinirvan-diwas/1875356/)
+
+Article found but Couldn't summarize 
+London [UK], December 7 (ANI): The Indian High Commission in the UK organised a memorial event to commemorate the 68th Parinirvan Divas of Babasaheb Dr BR Ambedkar on Wednesday. The event was organised in association with the Federation of Ambedkarite and Buddist Organisation UK (FABO) at the Ambedkar Hall, India House, Aldwych in London. &#8220;The [&#8230;]
+
+Wed, 06 Dec 2023 20:16:54 +0000
+### [Oil falls 4% as build in gasoline stocks fuel demand concerns](https://theprint.in/economy/oil-falls-4-as-build-in-gasoline-stocks-fuel-demand-concerns/1875355/)
+
+Article found but Couldn't summarize 
+By Arathy Somasekhar HOUSTON (Reuters) -Oil prices fell about 4% on Wednesday to their lowest settlements since June, as a larger-than-expected rise in U.S. gasoline inventories exacerbated worries
+
+Wed, 06 Dec 2023 20:16:42 +0000
+### [Child poverty levels in the UK worst among world’s richest nations, UNICEF report finds](https://theprint.in/world/child-poverty-levels-in-the-uk-worst-among-worlds-richest-nations-unicef-report-finds/1875353/)
+
+Article found but Couldn't summarize 
+LONDON (Reuters) - Child income poverty rates in the United Kingdom were the highest among the world's richest countries, a report by U.N. children's agency UNICEF said, ranking bottom of the table
+
+Wed, 06 Dec 2023 20:16:34 +0000
+### [US would object to ‘buffer zone’ inside Gaza strip -State Dept](https://theprint.in/world/us-would-object-to-buffer-zone-inside-gaza-strip-state-dept/1875351/)
+
+Article found but Couldn't summarize 
+WASHINGTON (Reuters) - The U.S. would object to any proposed buffer zone inside the Gaza Strip as it would violate Washington's position that the size of the Palestinian enclave must not be reduced
+
+Wed, 06 Dec 2023 20:16:24 +0000
+### [UN chief rings alarm bell on global security threat from Gaza war](https://theprint.in/world/un-chief-rings-alarm-bell-on-global-security-threat-from-gaza-war/1875349/)
+
+Article found but Couldn't summarize 
+By Michelle Nichols UNITED NATIONS (Reuters) -United Nations Secretary-General Antonio Guterres made a rare move on Wednesday to formally warn the Security Council of a global threat from the Gaza war
+
 Wed, 06 Dec 2023 19:47:02 +0000
 ### [EAM Jaishankar interacts with Macquarie group team, shares India’s ‘view of world’](https://theprint.in/world/eam-jaishankar-interacts-with-macquarie-group-team-shares-indias-view-of-world/1875338/)
 
