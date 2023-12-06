@@ -1,3 +1,123 @@
+Wed, 06 Dec 2023 22:15:34 +0000
+### [Stocks slip, 10-year Treasury yield falls as rate cut timing weighed](https://theprint.in/economy/stocks-slip-10-year-treasury-yield-falls-as-rate-cut-timing-weighed/1875427/)
+
+Article found but Couldn't summarize 
+By Chuck Mikolajczak NEW YORK (Reuters) -A gauge of global equities slipped on Wednesday and was poised for a third straight decline, while longer-dated U.S. Treasury yields fell after economic data
+
+Wed, 06 Dec 2023 22:15:26 +0000
+### [Mexico’s military-run commercial airline to launch with military planes](https://theprint.in/world/mexicos-military-run-commercial-airline-to-launch-with-military-planes/1875426/)
+
+Article found but Couldn't summarize 
+By Kylie Madry MEXICO CITY (Reuters) - Mexico's newest commercial airline, due to be run by the military, is set to launch later this month using military aircraft after a deal to lease planes fell
+
+Wed, 06 Dec 2023 22:15:17 +0000
+### [Explainer-What is the border dispute between Venezuela and Guyana?](https://theprint.in/world/explainer-what-is-the-border-dispute-between-venezuela-and-guyana/1875424/)
+
+Article found but Couldn't summarize 
+By Julia Symmes Cobb (Reuters) - Tensions between neighbors Venezuela and Guyana have ratcheted up in recent weeks over a long-running territorial dispute. At issue is a 160,000-square-km (62,000-
+
+Wed, 06 Dec 2023 22:15:09 +0000
+### [Israeli forces battle Hamas in southern Gaza as civilians say no place is safe](https://theprint.in/world/israeli-forces-battle-hamas-in-southern-gaza-as-civilians-say-no-place-is-safe/1875422/)
+
+Israeli troops have intensified their offensive into southern Gaza, leading to tens of thousands of displaced Palestinians seeking refuge in the city of Rafah near the Egyptian border. However, fears remain as options for refuge dwindle and the Israeli bombardment continues. At least nine people were killed in an Israeli shelling incident in Rafah. This latest exodus adds to the already large number of displaced Palestinians who have fled from northern Gaza to the south during the two-month-long conflict between Israel and Hamas. The displaced Palestinians are now trapped near the fortified Egyptian border, despite Israel's claims of safety in the area. Israeli forces have entered Khan Younis, the largest city in southern Gaza, for the first time, targeting Hamas' military and administrative rule. Prime Minister Benjamin Netanyahu has stated that they are encircling the house of Hamas leader Yahya Al-Sinwar. Fierce combat has been reported, with Israeli bombings intensifying overnight and tanks battling Palestinian militants in various areas. The humanitarian crisis worsens as hundreds of thousands of homeless people desperately seek shelter in the diminishing safe areas designated by Israel. The situation has caused a lack of tents, hindering aid distribution. Amid the conflict, Gaza's hospitals are overwhelmed with dead and wounded, and supplies are running out. Both sides are accused of committing serious rights violations, prompting calls for immediate humanitarian ceasefires from world leaders and a resolution at the United Nations Security Council.
+
+Wed, 06 Dec 2023 22:15:04 +0000
+### [Honduras secures $607 million dev bank loan to improve highways](https://theprint.in/world/honduras-secures-607-million-dev-bank-loan-to-improve-highways/1875421/)
+
+Article found but Couldn't summarize 
+TEGUCIGALPA (Reuters) - A Central American development bank said on Wednesday it had approved a $606.9 million loan for Honduras, aimed at boosting transportation throughout the Central American
+
+Wed, 06 Dec 2023 21:47:13 +0000
+### [“We have big plans for Indian market”: Top Saudi tourism official](https://theprint.in/world/we-have-big-plans-for-indian-market-top-saudi-tourism-official/1875419/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 7 (ANI): The president of Asia-Pacific (APAC) markets of the Saudi Tourism Authority, Alhasan Aldabbagh, said foraying into the Indian market is the &#8216;biggest ambition&#8217; of Saudi Arabia and his country has big plans in that regard. &#8220;Our biggest ambition or expectations are around the Indian market. This country is home [&#8230;]
+
+Wed, 06 Dec 2023 21:47:01 +0000
+### [Dr BR Ambedkar was a progressive thinker; says head of UK group Pankaj Shamkunwar](https://theprint.in/world/dr-br-ambedkar-was-a-progressive-thinker-says-head-of-uk-group-pankaj-shamkunwar/1875417/)
+
+The general secretary of the Federation of Ambedkarite and Buddhist Organisation (FABO) UK, Pankaj Shamkunwar, praised Dr BR Ambedkar as a progressive thinker and emphasized his contributions to Indian democracy. He highlighted that the Constitution, which forms the foundation of Indian democracy, guarantees fundamental rights and principles based on equality, fraternity, and freedom. According to Shamkunwar, Dr Ambedkar's major contribution lies in women's empowerment and education, noting that Dalit women are now competing on par with other women in the country. These remarks were made during a memorial event organized by the Indian High Commission in the UK to commemorate Babasaheb Dr BR Ambedkar's 68th Parinirvan Divas.
+
+Acting High Commissioner to India in the UK, Sujit Ghosh, acknowledged Ambedkar's commitment to liberty, equality, and fraternity, which laid the foundation for democratic India. He stated that Dr Ambedkar played a crucial role as a visionary leader, social reformer, and principal architect of the Indian Constitution. Ghosh mentioned that Ambedkar's focus on justice and dedication to these principles guided the framing of the Constitution, aiming to dismantle social hierarchies. He also commended Ambedkar's recognition of education as a powerful equalizer, breaking caste barriers and fostering self-worth among marginalized communities.
+
+Dr BR Ambedkar was born on April 14, 1891, and was an Indian jurist, economist, politician, and social reformer. He fought against social discrimination towards Dalits and advocated for women's and workers' rights. Considered the architect of the Indian constitution, Ambedkar passed away on December 6, 1956. In addition to his legal and political pursuits, he earned doctorates in economics from Columbia University and the University of London. Ambedkar led a satyagraha in Mahad in 1956, advocating for the rights of the untouchable community to access the main water tank of the town. The 'Poona Pact' agreement, signed on September 25, 1932, between Ambedkar and Madan Mohan Malaviya, secured increased legislative representation for the depressed class.
+
+Ambedkar was one of the seven members on the committee responsible for drafting the Indian Constitution after independence. In 1990, he posthumously received the Bharat Ratna, India's highest civilian honor.
+
+Wed, 06 Dec 2023 21:46:21 +0000
+### [Soccer-Bournemouth’s resurgence continues with win at Palace](https://theprint.in/sport/soccer-bournemouths-resurgence-continues-with-win-at-palace/1875415/)
+
+Article found but Couldn't summarize 
+LONDON (Reuters) - Resurgent Bournemouth climbed further away from the Premier League relegation zone with a comfortable 2-0 victory at Crystal Palace courtesy of goals by Marcos Senesi and Kieffer
+
+Wed, 06 Dec 2023 21:46:11 +0000
+### [Soccer-Fulham thrash Forest 5-0 to pile pressure on Cooper](https://theprint.in/sport/soccer-fulham-thrash-forest-5-0-to-pile-pressure-on-cooper/1875413/)
+
+Fulham secured a commanding 5-0 victory over Nottingham Forest, adding to Forest's ongoing struggles in the Premier League. The defeat pushed Forest down to 16th place in the table, while Fulham jumped to 12th place. The goals came from a variety of players, with Willian and Alex Iwobi scoring in the first half, and Raul Jimenez, Iwobi again, and captain Tom Cairney finding the net in the second half. Forest's poor form continued with their fourth consecutive loss and only one win in their last 11 matches.
+
+Wed, 06 Dec 2023 21:46:04 +0000
+### [Soccer-Van Dijk volley sets up Liverpool for 2-0 win over Sheffield United](https://theprint.in/sport/soccer-van-dijk-volley-sets-up-liverpool-for-2-0-win-over-sheffield-united/1875412/)
+
+Article found but Couldn't summarize 
+SHEFFIELD, England (Reuters) - Liverpool's Virgil van Dijk scored a first-half volley to put his side on course for a 2-0 Premier League victory over Sheffield United on Wednesday, handing new Blades
+
+Wed, 06 Dec 2023 21:45:55 +0000
+### [Soccer-Hinshelwood saves and scores as Brighton beat Brentford 2-1](https://theprint.in/sport/soccer-hinshelwood-saves-and-scores-as-brighton-beat-brentford-2-1/1875410/)
+
+Article found but Couldn't summarize 
+BRIGHTON, England (Reuters) - Jack Hinshelwood saved on the line and then headed a winning first Premier League goal for Brighton &#38; Hove Albion as the south-coast side came from a goal down to beat
+
+Wed, 06 Dec 2023 21:45:45 +0000
+### [GameStop misses revenue estimates on faltering videogame demand](https://theprint.in/tech/gamestop-misses-revenue-estimates-on-faltering-videogame-demand/1875408/)
+
+GameStop, a videogame retailer, reported lower-than-expected revenue for the third quarter due to reduced consumer spending in an uncertain economy. The company's shift towards an online-focused business model was hampered by sticky inflation and high borrowing costs, which resulted in uneven spending in the gaming industry. Despite the revenue miss, GameStop managed to post adjusted breakeven earnings per share, surpassing analysts' estimates of a loss. Ryan Cohen, the top investor who joined as CEO and chairman in September, has adjusted the company's strategy, relying more on physical stores for customers to pick up online orders. GameStop's revenue for the quarter was $1.08 billion, falling short of the estimated $1.18 billion. The company's stock price dropped nearly 1% in after-hours trading.
+
+Wed, 06 Dec 2023 21:45:37 +0000
+### [US judge signs off on Binance, former chief’s plea deals with DOJ -court filings](https://theprint.in/tech/us-judge-signs-off-on-binance-former-chiefs-plea-deals-with-doj-court-filings/1875406/)
+
+Article found but Couldn't summarize 
+NEW YORK (Reuters) - U.S. District Judge Richard Jones in Seattle on Wednesday signed off on plea deals agreed by U.S. prosecutors, Binance Holdings and its former chief Changpeng Zhao, according to
+
+Wed, 06 Dec 2023 21:45:20 +0000
+### [Venezuela’s PDVSA authorizes first two oil cargoes to India after sanctions relief](https://theprint.in/economy/venezuelas-pdvsa-authorizes-first-two-oil-cargoes-to-india-after-sanctions-relief/1875404/)
+
+Venezuelan state oil company PDVSA has granted loading windows this month to two vessels destined for India, under spot deals for crude oil with Italy's ENI and U.S.-based Chevron. This follows a temporary relief of U.S. sanctions on Venezuela. Indian refiners such as Reliance Industries, Indian Oil Corp, and HPCL-Mittal Energy (HMEL) have been actively seeking Venezuelan crude cargoes since the sanctions were eased in October. Some refiners have made purchase agreements with trading houses that have access to Venezuelan oil, while others are planning to buy directly from PDVSA's partners.
+
+Wed, 06 Dec 2023 21:45:13 +0000
+### [Barbados PM Mottley calls for slavery reparation conversations](https://theprint.in/world/barbados-pm-mottley-calls-for-slavery-reparation-conversations/1875403/)
+
+Article found but Couldn't summarize 
+By Marc Jones LONDON (Reuters) - Barbados Prime Minister Mia Mottley used a speech in London on Wednesday to call for a global conversation on reparations for countries that saw their people enslaved,
+
+Wed, 06 Dec 2023 21:45:03 +0000
+### [Ukraine defense minister visits Pentagon amid questions about future of aid](https://theprint.in/world/ukraine-defense-minister-visits-pentagon-amid-questions-about-future-of-aid/1875401/)
+
+Ukraine's Defense Minister, Rustem Umerov, met with US Defense Secretary Lloyd Austin at the Pentagon to discuss Ukraine's strategic goals and long-term vision for its military. The Biden administration has been warning Congress that it is running out of time and money to support Ukraine in its war against Russia. In October, the administration requested nearly $106 billion from Congress, but the package was rejected by Republican lawmakers who control the House. Despite this setback, Austin announced an additional aid package for Ukraine, including air defense munitions. The US has been meeting with industry leaders to find ways to support Ukraine's military, which has depleted its artillery fighting Russian forces faster than its Western allies can provide assistance. President Biden warned that a victory for Russia over Ukraine would leave Moscow in a position to attack NATO allies. While Congress has approved over $110 billion for Ukraine since Russia's invasion in February 2022, no additional funds have been approved since Republicans took over the House in January. The postponement of US assistance being debated in Congress was described by Ukraine's chief of staff as a "big risk" that could lead to Ukraine losing the war.
+
+Wed, 06 Dec 2023 21:15:55 +0000
+### [Olympics-Paris 2024 Games a ‘considerable challenge’ for bomb disposal squad](https://theprint.in/sport/olympics-paris-2024-games-a-considerable-challenge-for-bomb-disposal-squad-2/1875399/)
+
+Article found but Couldn't summarize 
+By Antonia Cimini PARIS (Reuters) - The Paris police bomb disposal team expect the Olympics to present them with a "considerable challenge" next year. They have been working with Paris 2024 organisers
+
+Wed, 06 Dec 2023 21:15:43 +0000
+### [GameStop posts smaller-than-expected quarterly loss](https://theprint.in/tech/gamestop-posts-smaller-than-expected-quarterly-loss/1875397/)
+
+Article found but Couldn't summarize 
+(Reuters) - GameStop reported smaller-than-expected quarterly loss on Wednesday, helped by stable consumer spending on videogames and its shift to a more online-focused model from brick-and-mortar
+
+Wed, 06 Dec 2023 21:15:34 +0000
+### [Canada to unveil cap and trade system for oil and gas emissions](https://theprint.in/environment/canada-to-unveil-cap-and-trade-system-for-oil-and-gas-emissions/1875395/)
+
+Article found but Couldn't summarize 
+By Nia Williams (Reuters) -Canada on Wednesday said it plans to unveil a cap and trade system starting in 2026 for limiting emissions from the oil and gas sector, a step toward fulfilling one of Prime
+
+Wed, 06 Dec 2023 21:15:25 +0000
+### [Want greener EVs? Add plant-based ‘leather’ says designer Vicki von Holzhausen](https://theprint.in/environment/want-greener-evs-add-plant-based-leather-says-designer-vicki-von-holzhausen/1875393/)
+
+Article found but Couldn't summarize 
+By Paul Lienert (Reuters) - Former auto designer Vicki von Holzhausen thinks carmakers can make their electric vehicles even greener — with the help of bamboo and bananas. Vegan leather made from
+
 Wed, 06 Dec 2023 21:15:04 +0000
 ### [Venezuela issues arrest warrants for opposition staffers for treason](https://theprint.in/world/venezuela-issues-arrest-warrants-for-opposition-staffers-for-treason/1875390/)
 
