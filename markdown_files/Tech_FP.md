@@ -1,3 +1,21 @@
+Wed, 06 Dec 2023 13:47:13 +0530
+### ['Let me help you': Elon Musk lampoons heads of Harvard, MIT, Penn varsities for antisemitism on campus](https://www.firstpost.com/tech/elon-musk-lampoons-heads-of-harvard-mit-penn-varsities-for-antisemitism-on-campus-13472342.html)
+
+Article found but Couldn't summarize 
+'Let me help you': Elon Musk lampoons heads of Harvard, MIT, Penn varsities for antisemitism on campus
+
+Wed, 06 Dec 2023 13:06:33 +0530
+### [Elon Musk’s ChatGPT-killer xAI to raise $1 billion to invest in Grok, other bots, take on OpenAI](https://www.firstpost.com/tech/elon-musks-chatgpt-killer-xai-to-raise-1-billion-to-invest-in-grok-other-bots-to-take-on-openai-13471862.html)
+
+Article found but Couldn't summarize 
+Elon Musk’s ChatGPT-killer xAI to raise $1 billion to invest in Grok, other bots, take on OpenAI
+
+Wed, 06 Dec 2023 12:42:36 +0530
+### [Apple to launch 6G devices soon, ramps up efforts to make in-house next-gen modems](https://www.firstpost.com/tech/elon-musk-chatgpt-killer-startup-xai-is-looking-to-raise-1-billion-to-invest-in-grok-other-bots-13471472.html)
+
+Article found but Couldn't summarize 
+Apple to launch 6G devices soon, ramps up efforts to make in-house next-gen modems
+
 Wed, 06 Dec 2023 11:56:14 +0530
 ### [Elon Musk made the Tesla Cybertruck so strong, it may be illegal in the EU. Here’s why](https://www.firstpost.com/tech/auto-tech/elon-musk-made-the-cybertruck-so-strong-it-may-be-illegal-in-the-eu-heres-why-13471122.html)
 

@@ -1,3 +1,123 @@
+Wed, 06 Dec 2023 08:16:16 +0000
+### [Ten BJP MPs elected to state assemblies resign from Parliament](https://theprint.in/india/ten-bjp-mps-elected-to-state-assemblies-resign-from-parliament/1874262/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 6 (PTI) Ten of the 12 BJP MPs elected to state assemblies in the recent elections resigned from Parliament on Wednesday, and the two others will also quit. The 10 who put in their papers include nine Lok Sabha MPs, including Union ministers Narendra Singh Tomar and Prahlad Patel, and the one [&#8230;]
+
+Wed, 06 Dec 2023 08:16:04 +0000
+### [TPCC prez Revanth Reddy to take over as T’gana Chief Minister on Dec 7](https://theprint.in/india/tpcc-prez-revanth-reddy-to-take-over-as-tgana-chief-minister-on-dec-7/1874261/)
+
+Article found but Couldn't summarize 
+Hyderabad, Dec 6 (PTI) Congress president in Telangana Anumula Revanth Reddy would take oath as the new Chief Minister of the state on Thursday following the party&#8217;s victory in the recent Assembly elections. The swearing-in ceremony of the 56-year-old leader would be held at the sprawling LB Stadium here at 1.04 PM on Thursday. State [&#8230;]
+
+Wed, 06 Dec 2023 08:15:54 +0000
+### [Bihar records highest number of road accident deaths near religious places: NCRB report](https://theprint.in/india/bihar-records-highest-number-of-road-accident-deaths-near-religious-places-ncrb-report/1874260/)
+
+Article found but Couldn't summarize 
+Patna, Dec 6 (PTI) Bihar recorded the maximum number of road accidents near religious places in the country last year in which 2,995 people were killed, according to the latest report of National Crime Records Bureau (NCRB). The state also registered a 13.1 per cent rise in overall road accidents in 2022 over the previous [&#8230;]
+
+Wed, 06 Dec 2023 08:15:46 +0000
+### [With colour-changing fabric, Hong Kong AI lab aims to reduce clothing waste](https://theprint.in/tech/with-colour-changing-fabric-hong-kong-ai-lab-aims-to-reduce-clothing-waste/1874259/)
+
+Article found but Couldn't summarize 
+By Joyce Zhou HONG KONG (Reuters) - Simple gestures could be all it takes to alter the colour of your clothes in the future, according to a research team that has developed a colour-changing textile
+
+Wed, 06 Dec 2023 08:15:42 +0000
+### [Every other day Mumbai sees fire incident: HC raps Maharashtra govt; says laxness cannot be accepted](https://theprint.in/india/every-other-day-mumbai-sees-fire-incident-hc-raps-maharashtra-govt-says-laxness-cannot-be-accepted/1874258/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 6 (PTI) Every other day there is a fire incident in Mumbai in which people lose their lives, the Bombay High Court said on Wednesday, pulling up the Maharashtra government for dragging its feet on implementation of fire safety rules and regulations. A division bench of Chief Justice D K Upadhyaya and Justice [&#8230;]
+
+Wed, 06 Dec 2023 08:15:36 +0000
+### [Insurers heavily exposed to climate change, global watchdog says](https://theprint.in/environment/insurers-heavily-exposed-to-climate-change-global-watchdog-says/1874257/)
+
+Article found but Couldn't summarize 
+LONDON (Reuters) - Insurers are heavily exposed to the impact of climate change and also face risk from their alternative investments in reinsurance, the International Association of Insurance
+
+Wed, 06 Dec 2023 08:15:31 +0000
+### [Mamata to start North Bengal trip, attend family wedding in Kurseong](https://theprint.in/india/mamata-to-start-north-bengal-trip-attend-family-wedding-in-kurseong/1874256/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 6 (PTI) West Bengal Chief Minister Mamata Banerjee will be leaving for an official tour of the northern districts of the state on Wednesday, where she is scheduled to attend a slew of public distribution programmes apart from a family wedding, an official said. On Thursday, she will attend a public distribution programme [&#8230;]
+
+Wed, 06 Dec 2023 08:15:16 +0000
+### [Committee being constituted to frame guidelines on seizure of electronic devices: Centre to SC](https://theprint.in/india/committee-being-constituted-to-frame-guidelines-on-seizure-of-electronic-devices-centre-to-sc/1874253/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 6 (PTI) The Centre on Wednesday told the Supreme Court that a committee is being constituted and guidelines will be framed regarding the seizure of electronic devices such as phones and laptops by investigating agencies. The apex court had on November 7 asked the Centre to put in place guidelines on the [&#8230;]
+
+Wed, 06 Dec 2023 08:15:15 +0000
+### [Analysis-Italy’s Meloni talks tough on migrants while opening up to foreign workers](https://theprint.in/world/analysis-italys-meloni-talks-tough-on-migrants-while-opening-up-to-foreign-workers/1874252/)
+
+Article found but Couldn't summarize 
+By Alvise Armellini and Elvira Pollina ROME (Reuters) - Madou Koulibaly is the new face of an old Italy. The 24-year-old, who arrived in the country from Guinea in 2018, is blazing a trail as
+
+Wed, 06 Dec 2023 08:15:03 +0000
+### [Open to advice from state govt, not pressure: Kerala Governor Arif Mohammed Khan](https://theprint.in/india/open-to-advice-from-state-govt-not-pressure-kerala-governor-arif-mohammed-khan/1874250/)
+
+Article found but Couldn't summarize 
+Thiruvananthapuram, Dec 6 (PTI) Kerala Governor Arif Mohammed Khan on Wednesday said he was open to advice from the state government, &#8220;but not pressure from them.&#8221; Khan&#8217;s statement assumes significance as he has admitted that he succumbed to the pressure from the state government with regard to the re-appointment of Gopinath Ravindran as vice-chancellor (VC) [&#8230;]
+
+Wed, 06 Dec 2023 08:15:02 +0000
+### [Indian govt seeks parliament nod for extra spending for FY24](https://theprint.in/india/indian-govt-seeks-parliament-nod-for-extra-spending-for-fy24/1874249/)
+
+Article found but Couldn't summarize 
+NEW DELHI (Reuters) - The Indian government on Wednesday sought parliament's approval for additional spending of 1.29 trillion rupees ($15.48 billion) in the current fiscal year, mainly towards higher
+
+Wed, 06 Dec 2023 08:02:12 +0000
+### [RICS SBE gears up to host its 9th Convocation in December 2023](https://theprint.in/economy/rics-sbe-gears-up-to-host-its-9th-convocation-in-december-2023/1874239/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 6 (ANI): The RICS SBE, Amity University is poised to host its 9th convocation on December 8, 2023. The prestigious event will mark the culmination of academic achievements and will award degrees and medals to graduates. As the event draws near, the anticipation and excitement among students, faculty, and the broader [&#8230;]
+
+Wed, 06 Dec 2023 08:02:02 +0000
+### [Kazakhstan joins “Global Methane Pledge”](https://theprint.in/world/kazakhstan-joins-global-methane-pledge/1874237/)
+
+Article found but Couldn't summarize 
+Astana [Kazakhstan], December 6 (ANI): Central Asia&#8217;s largest oil producer and a major gas producer Kazakhstan joined the &#8220;Global Methane Pledge&#8221;, a voluntary agreement to cut methane emissions by 30 per cent by 2030, during this year&#8217;s COP28 event in Dubai, as per a release issued by the Embassy of Kazakhstan. In addition, 50 oil [&#8230;]
+
+Wed, 06 Dec 2023 08:00:35 +0000
+### [Law Minister Meghwal accuses INDIA parties of trying to divide country](https://theprint.in/india/law-minister-meghwal-accuses-india-parties-of-trying-to-divide-country/1874234/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 6 (PTI) Law Minister and BJP leader Arjun Ram Meghwal on Wednesday accused INDIA parties of trying to divide the country on north-south lines, and asserted that the opposition will fail in its attempts. Meghwal said DMK MP D N V Senthil Kumar on Tuesday &#8220;described the states BJP won as &#8216;gau [&#8230;]
+
+Wed, 06 Dec 2023 08:00:24 +0000
+### [Authorities working tirelessly on ground to assist those affected by Cyclone Michaung: PM Modi](https://theprint.in/india/authorities-working-tirelessly-on-ground-to-assist-those-affected-by-cyclone-michaung-pm-modi/1874233/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 6 (PTI) Prime Minister Narendra Modi on Wednesday said his thoughts are with the families of those who have lost their loved ones due to Cyclone Michaung, and noted that authorities have been working tirelessly on the ground to assist those affected. Severe cyclonic storm Michaung made landfall crossing south Andhra Pradesh [&#8230;]
+
+Wed, 06 Dec 2023 08:00:13 +0000
+### [Iran sends up rocket with test living capsule](https://theprint.in/world/iran-sends-up-rocket-with-test-living-capsule/1874232/)
+
+Article found but Couldn't summarize 
+DUBAI (Reuters) - Iran sent up a rocket with a test living space capsule on Wednesday, the semi-official Tasnim news agency reported, as the country pressed on with plans to send astronauts into space
+
+Wed, 06 Dec 2023 08:00:13 +0000
+### [Parts of city suffer from inundation, relief work expedited](https://theprint.in/india/parts-of-city-suffer-from-inundation-relief-work-expedited/1874231/)
+
+Article found but Couldn't summarize 
+Chennai, Dec 6 (PTI) Residents grappled with stagnant water and power disruption in parts of the city and its suburbs on Wednesday, two days after Cyclone Michaung wreaked havoc in the metropolis and neighbouring districts, even as civic agency personnel stepped up relief and rehabilitation efforts. The government said power was kept suspended in some [&#8230;]
+
+Wed, 06 Dec 2023 08:00:04 +0000
+### [Putin to talk oil in UAE and Saudi, to meet Crown Prince Mohammed bin Salman](https://theprint.in/world/putin-to-talk-oil-in-uae-and-saudi-to-meet-crown-prince-mohammed-bin-salman/1874229/)
+
+Article found but Couldn't summarize 
+By Vladimir Soldatkin MOSCOW (Reuters) - Russian President Vladimir Putin visits the United Arab Emirates and Saudi Arabia on Wednesday and will hold talks with Saudi Arabian Crown Prince Mohammed bin
+
+Wed, 06 Dec 2023 08:00:02 +0000
+### [Sharad Pawar, Thackeray, Digvijaya Singh to address public meeting in Nagpur on Dec 12: Deshmukh](https://theprint.in/india/sharad-pawar-thackeray-digvijaya-singh-to-address-public-meeting-in-nagpur-on-dec-12-deshmukh/1874228/)
+
+Article found but Couldn't summarize 
+Nagpur, Dec 1 (PTI) NCP founder Sharad Pawar, Shiv Sena (UBT) chief Uddhav Thackeray and Congress leader Digvijaya Singh will address a public meeting on the culmination of the Nationalist Congress Party’s ‘Yuva Sangharsh Yatra’ here on December 12, Maharashtra ex-home minister Anil Deshmukh said on Wednesday. The three leaders will address the public event [&#8230;]
+
+Wed, 06 Dec 2023 07:47:24 +0000
+### [Canada: UKPNP raises concern over human rights violations in Pakistan-occupied Kashmir](https://theprint.in/world/canada-ukpnp-raises-concern-over-human-rights-violations-in-pakistan-occupied-kashmir/1874224/)
+
+Article found but Couldn't summarize 
+Calgary [Canada], December 6 (ANI): Kashmiri political activists have raised concern over the gross human rights violations in Pakistan-occupied Kashmir (PoK) in a recently held seminar in Calgary. The event organised by the United Kashmir People&#8217;s National Party (UKPNP) North America announced massive demonstrations across PoK and other parts of the world in support of [&#8230;]
+
 Wed, 06 Dec 2023 07:17:02 +0000
 ### [JP Morgan Chase unveils financial and capital markets outlook for 2024](https://theprint.in/economy/jp-morgan-chase-unveils-financial-and-capital-markets-outlook-for-2024/1874179/)
 

@@ -1,3 +1,9 @@
+Wed, 06 Dec 2023 12:52:28 +0530
+### [Redmi 13C, Redmi 13C 5G launched in India: Check price, specs, launch offers and more](https://www.livemint.com/technology/gadgets/redmi-13c-redmi-13c-5g-launched-in-india-check-price-specs-launch-offers-and-more-11701845334551.html)
+
+Article found but Couldn't summarize 
+The Redmi 13C and Redmi 13C 5G have been launched in India with a starting price of  ₹7,999 going all the way up to  ₹13,499. The smartphones are the latest iteration in the Redmi ‘C’ series lineup.
+
 Wed, 06 Dec 2023 12:03:07 +0530
 ### [From Samsung Galaxy S20 FE to Oppo Reno 10 5G; top 5 camera phones you can buy under  ₹30,000 in December 2023](https://www.livemint.com/technology/gadgets/from-samsung-galaxy-s21-fe-to-oppo-reno-10-5g-top-5-camera-phones-you-can-buy-under-rs-30-000-in-december-2023-11701841453094.html)
 

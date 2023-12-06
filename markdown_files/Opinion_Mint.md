@@ -1,3 +1,9 @@
+Wed, 06 Dec 2023 12:52:20 +0530
+### [Market investors gain even when they miss out on bumper IPO allotments](https://www.livemint.com/opinion/online-views/market-investors-gain-even-when-they-miss-out-on-bumper-ipo-allotments-11701839348313.html)
+
+Article found but Couldn't summarize 
+Right pricing and transparent, credible information about the prospects of the company would determine the success of IPOs
+
 Wed, 06 Dec 2023 08:00:04 +0530
 ### [Why are retail investors obsessed with IPOs?](https://www.livemint.com/opinion/online-views/why-are-retail-investors-obsessed-with-ipos-11701788112222.html)
 

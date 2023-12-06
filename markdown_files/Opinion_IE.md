@@ -1,3 +1,20 @@
+Wed, 06 Dec 2023 07:10:13 +0000
+### [UP Safe City project: Controlling women is not safety](https://indianexpress.com/article/opinion/columns/uttar-pradesh-p-safe-city-project-controlling-women-is-not-safety-9056626/)
+
+The Uttar Pradesh government recently launched the Safe City Project, which involves installing CCTV cameras in municipal corporations and schools. A total of 26,568 CCTVs have been installed so far, including in government, aided, and unaided schools. Additionally, safety guidelines were issued for girls in private coaching institutes, restricting late evening classes. However, concerns arise regarding the government's exploitation of women's vulnerability to advance its data-driven agenda.
+
+The smart camera project aims to automatically capture images of distressed women by reading their facial expressions and alerting the nearest police vehicle. While presented as an effort to enhance women's safety, it is questioned whether this initiative may compromise privacy, social justice, and ethical data usage.
+
+The identification of "hotspots" frequented by girls or with reported issues is also part of the smart camera project. However, categorizing areas as "unsafe" or "dangerous hotspots" can target marginalized neighborhoods and contribute to the polarisation of public spaces. This becomes particularly concerning considering the divisive narrative promoted by the government and the criminalization of certain communities.
+
+Pinjra Tod, a movement advocating for women's rights, argues that simply marking the degree of insecurity based on risks and harms won't make streets safer. Privatizing safety can render public spaces fundamentally unsafe and undermine the idea of a "safe city" that can be monitored and policed at all times.
+
+The introduction of smart cameras reflects the integration of data markets with social control within the broader vision of a smart city. As technology adoption and data analytics continue to rise globally, the Safe City Project aligns with the trend towards data-driven governance. However, questions arise regarding the impact of surveillance and datafication on citizenship, freedom, and social justice.
+
+Furthermore, concerns are raised about potential exploitation and misuse of smart cameras. These technologies, capable of capturing facial expressions, could further restrict transgressive possibilities and trace the movements of women challenging patriarchal norms. Initiatives such as private militias and the government's stance against women highlight the exploitation of their vulnerability to violence, perpetuating patriarchy.
+
+In conclusion, the deployment of smart cameras in Uttar Pradesh raises concerns about privacy, social justice, and the potential exploitation of women's vulnerability. The Safe City Project, while aiming to enhance safety, prompts critical reflections on the consequences of surveillance and data-driven governance.
+
 Wed, 06 Dec 2023 06:50:02 +0000
 ### [On December 6, a question: How many election wins absolve the criminal destruction of Babri Masjid?](https://indianexpress.com/article/opinion/how-many-elections-absolve-destruction-of-babri-masjid-december-6-9056611/)
 

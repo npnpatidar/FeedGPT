@@ -1,3 +1,19 @@
+Wed, 06 Dec 2023 12:58:27 +0530
+### [From trend to tradition: How Narendra Modi turns pro-incumbency into a winning formula](https://www.firstpost.com/opinion/from-trend-to-tradition-how-narendra-modi-turns-pro-incumbency-into-a-winning-formula-13471492.html)
+
+The article discusses the political landscape in India, focusing on the Bharatiya Janata Party (BJP) led by Prime Minister Narendra Modi. It challenges the conventional wisdom of anti-incumbency and highlights a trend of pro-incumbency during the "Modi era." The author mentions that Modi's governance strategy of holistic development has strengthened his brand and enabled the BJP to secure sweeping mandates in various states. The article also emphasizes the BJP's increasing vote share and expanding footprint, indicating a shift in voter allegiance towards Modi. The author argues that Modi's developmental initiatives and appeal have turned elections into people's elections rather than party-centric ones. Based on current sentiments, the author suggests that a substantial mandate for Modi in the 2024 elections is plausible.
+
+Wed, 06 Dec 2023 12:55:57 +0530
+### [Vantage | Why is India slipping in global talent rankings?](https://www.firstpost.com/opinion/vantage-why-is-india-slipping-in-global-talent-rankings-13471642.html)
+
+The article discusses the concept of talent in the context of the global workforce. It mentions the global talent competitiveness index, which ranks countries based on their ability to grow, attract, and retain talent. Rich nations consistently dominate this index, with Switzerland leading the rankings. However, developing nations like Indonesia are making progress by improving quality of life and job sustainability.
+
+India, despite being the world's fifth-largest economy, received a poor ranking in the index, coming in at 103rd place. The report highlights India's struggle to attract talent domestically, with a high unemployment rate among the youth. Recruiters also face challenges in finding the right talent for job vacancies. Additionally, India experiences high attrition rates in its businesses.
+
+The article acknowledges that India has potential, as demonstrated by its renowned education centers and successful business leaders. However, it suggests that more efforts are needed to cultivate talent in the country. The author emphasizes the importance of hard work to address these challenges.
+
+In conclusion, while India's economic growth is real, the country faces obstacles in attracting and retaining talent, which need to be addressed for further development.
+
 Wed, 06 Dec 2023 10:08:57 +0530
 ### [Daughter's book reveals how a disillusioned Pranab Mukherjee decried Gandhis' Congress dominance as 'worst hegemony'](https://www.firstpost.com/opinion/daughters-book-reveals-how-a-disillusioned-pranab-mukherjee-decried-gandhis-congress-dominance-as-worst-hegemony-13470472.html)
 

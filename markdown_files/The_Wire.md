@@ -1,3 +1,9 @@
+2023-12-06T13:39:25+05:30
+### [Kerala Nurse on Death Row in Yemen, Delhi HC Asks Union to Respond to Mother’s Plea to Visit Her](https://thewire.in/government/kerala-nurse-on-death-row-in-yemen-delhi-hc-asks-union-to-respond-to-mothers-plea-to-visit-her)
+
+No Article text 
+Nimisha Priya was convicted for murdering Talal Abdo Mahdi after she injected him with sedatives to allegedly get back her passport from his possession.
+
 2023-12-06T12:29:50+05:30
 ### [From 10,355 in 2019 to 13,089 in 2021, Student Suicides Saw a Sharp Rise: Govt Data](https://thewire.in/education/from-10355-in-2019-to-13089-in-2021-student-suicides-see-a-sharp-rise)
 

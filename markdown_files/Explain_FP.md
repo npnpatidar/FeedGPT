@@ -1,3 +1,20 @@
+Wed, 06 Dec 2023 13:47:57 +0530
+### [Who is Baryl Vanneihsangi, RJ-turned-politician, Mizoram’s youngest woman MLA?](https://www.firstpost.com/explainers/who-is-baryl-vanneihsangi-rj-turned-politician-mizorams-youngest-woman-mla-13471952.html)
+
+Article found but Couldn't summarize 
+Who is Baryl Vanneihsangi, RJ-turned-politician, Mizoram’s youngest woman MLA?
+
+Wed, 06 Dec 2023 13:09:57 +0530
+### [How Pannun ‘murder’ plot dominates India, US talks](https://www.firstpost.com/explainers/gurpatwant-singh-pannun-murder-plot-dominates-india-us-talks-13471692.html)
+
+The article discusses the ongoing tension between India and the US regarding the alleged plot to assassinate Khalistan terrorist Gurpatwant Singh Pannun on US soil. US principal deputy national security advisor Jonathan Finer met with high-ranking Indian officials to discuss the matter, acknowledging India's establishment of a committee to investigate the plot. The article also mentions Finer's participation in discussions aimed at strengthening coordination between the US and India in various areas, such as technology cooperation and regional policy alignment. The US reiterated its seriousness in the matter and stated that it will wait for the results of India's investigation. The article provides details about the alleged plot, including plans to target multiple individuals in the US and Canada. India has designated Pannun as an "individual terrorist," and his group Sikhs for Justice has been banned in India. Despite the concerns raised by the US charges, experts believe that this issue is unlikely to significantly impact the overall relationship between India and the US.
+
+Wed, 06 Dec 2023 12:49:01 +0530
+### [Why all eyes are on Vladimir Putin's rare visit to UAE and Saudi Arabia](https://www.firstpost.com/explainers/russia-vladimir-putin-visit-uae-saudi-arabia-opec-plus-oil-israel-hamas-war-13471522.html)
+
+Article found but Couldn't summarize 
+Why all eyes are on Vladimir Putin's rare visit to UAE and Saudi Arabia
+
 Wed, 06 Dec 2023 11:49:19 +0530
 ### [No power, no food: How Andhra Pradesh, Tamil Nadu are reeling from Cyclone Michaung](https://www.firstpost.com/explainers/no-power-no-food-how-andhra-pradesh-tamil-nadu-are-reeling-from-cyclone-michaung-13470732.html)
 
