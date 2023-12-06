@@ -1,3 +1,9 @@
+Wed, 06 Dec 2023 20:39:27 +0530
+### [Sweet Dreams: What's 'cricket feet', a hack that could help you sleep better at night?](https://www.firstpost.com/explainers/sweet-dreams-whats-cricket-feet-a-hack-that-could-help-you-sleep-better-at-night-13473352.html)
+
+Article found but Couldn't summarize 
+Sweet Dreams: What's 'cricket feet', a hack that could help you sleep better at night?
+
 Wed, 06 Dec 2023 19:19:51 +0530
 ### [US mass shootings have risen to a high not seen since 2006. Here’s why](https://www.firstpost.com/explainers/us-mass-shootings-have-risen-to-a-high-not-seen-since-2006-heres-why-13474522.html)
 
