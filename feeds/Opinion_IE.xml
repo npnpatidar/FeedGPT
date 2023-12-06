@@ -5,6 +5,15 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Opinion_IE.xml</link>
 		<description>Opinion IE</description>
 		<item>
+			<title>Indian pilgrims’ road to Mecca just got easier</title>
+			<link>https://indianexpress.com/article/opinion/columns/indian-pilgrims-road-to-mecca-9057214/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Wed, 06 Dec 2023 13:00:19 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2023/12/pilgrims.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2023/12/pilgrims.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Pratap Bhanu Mehta writes: Why Congress fails to dent BJP’s Hindutva — ideologically and politically</title>
 			<link>https://indianexpress.com/article/opinion/columns/pratap-bhanu-mehta-writes-why-congress-fails-to-dent-bjps-hindutva-ideologically-and-politically-9056781/</link>
 			<description>The recent assembly elections in North India have highlighted the challenge faced by the Opposition in formulating an effective strategy against the ruling Bharatiya Janata Party (BJP). Despite having a popular and astute prime minister, a well-resourced political machine, and pockets of economic disaffection, there is no significant surge of discontent against the central government. The Opposition struggles to articulate criticisms that resonate with the public.

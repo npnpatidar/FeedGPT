@@ -1,3 +1,9 @@
+Wed, 06 Dec 2023 18:41:01 +0530
+### [What’s the giant hole in the Sun bigger than 60 Earths? How will it affect the planet?](https://www.firstpost.com/explainers/whats-the-giant-hole-in-the-sun-bigger-than-60-earths-how-will-it-affect-the-planet-13474012.html)
+
+Article found but Couldn't summarize 
+What’s the giant hole in the Sun bigger than 60 Earths? How will it affect the planet?
+
 Wed, 06 Dec 2023 17:15:58 +0530
 ### [Why BJP may pick new faces over old warhorses for CM job in 3 states](https://www.firstpost.com/explainers/rajasthan-chhattisgarh-madhya-pradesh-bjp-cm-face-assembly-election-results-13473282.html)
 

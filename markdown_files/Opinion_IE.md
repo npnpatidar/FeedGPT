@@ -1,3 +1,8 @@
+Wed, 06 Dec 2023 13:00:19 +0000
+### [Indian pilgrims’ road to Mecca just got easier](https://indianexpress.com/article/opinion/columns/indian-pilgrims-road-to-mecca-9057214/)
+
+Article found but Couldn't summarize
+
 Wed, 06 Dec 2023 09:18:36 +0000
 ### [Pratap Bhanu Mehta writes: Why Congress fails to dent BJP’s Hindutva — ideologically and politically](https://indianexpress.com/article/opinion/columns/pratap-bhanu-mehta-writes-why-congress-fails-to-dent-bjps-hindutva-ideologically-and-politically-9056781/)
 

@@ -1,3 +1,15 @@
+Wed, 06 Dec 2023 18:14:22 +0530
+### [Vantage |  Will the West stop funding Ukraine's war effort?](https://www.firstpost.com/opinion/vantage-will-the-west-stop-funding-ukraines-war-effort-13473872.html)
+
+Article found but Couldn't summarize 
+Vantage |  Will the West stop funding Ukraine's war effort?
+
+Wed, 06 Dec 2023 18:06:59 +0530
+### [‘No accountability, Congressional oversight’: Biden accused of arming Israel amid Gaza war](https://www.firstpost.com/opinion/no-accountability-congressional-oversight-biden-accused-of-arming-israel-amid-gaza-war-13473862.html)
+
+Article found but Couldn't summarize 
+‘No accountability, Congressional oversight’: Biden accused of arming Israel amid Gaza war
+
 Wed, 06 Dec 2023 17:32:34 +0530
 ### [Enchanting saga of Field Marshal Sam Manekshaw: The soldiers' general, people’s leader and gentleman warrior](https://www.firstpost.com/opinion/enchanting-saga-of-field-marshal-sam-manekshaw-the-soldiers-general-peoples-leader-and-gentleman-warrior-13473392.html)
 

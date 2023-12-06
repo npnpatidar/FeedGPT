@@ -1,3 +1,9 @@
+2023-12-06T18:40:56+05:30
+### [Reacknowledging Ambedkar's Role as the Architect of India's Constitution](https://thewire.in/history/reacknowledging-role-ambedkar-architect-india-constitution)
+
+No Article text 
+Though he lived only nine years after Independence, he left an indelible mark on the history of modern India, which possibly is greater than his contribution during the freedom struggle. He died on December 6, 1956.
+
 2023-12-06T17:44:26+05:30
 ### [In Telangana, Voting is Driven by a Social Agenda Rather Than Exclusive Electoral Concerns](https://thewire.in/politics/telangana-model-of-development)
 

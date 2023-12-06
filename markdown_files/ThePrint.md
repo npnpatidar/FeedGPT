@@ -1,3 +1,117 @@
+Wed, 06 Dec 2023 13:17:34 +0000
+### [Police constable, brother drown in UP](https://theprint.in/india/police-constable-brother-drown-in-up/1874797/)
+
+Article found but Couldn't summarize 
+Hamirpur (UP), Dec 6 (PTI) A police constable and his brother drowned after falling in a sewer tank near their house in Sumerpur area here on Wednesday, police said. Lal Bahadur Kushwaha (28), posted at Kaushambi police station, and his brother Ram Sewak Kushwaha (35) were standing on the tank in their village when its [&#8230;]
+
+Wed, 06 Dec 2023 13:17:21 +0000
+### [Rainwater harvesting systems in Delhi: NGT seeks compliance reports](https://theprint.in/india/rainwater-harvesting-systems-in-delhi-ngt-seeks-compliance-reports/1874795/)
+
+The National Green Tribunal (NGT) has asked authorities in Delhi to submit a compliance report on the functioning of rainwater harvesting systems in the city. The NGT had previously directed the concerned authorities to take certain measures, such as not installing rainwater harvesting systems near stormwater drains and closing deficient ones, among other actions. The tribunal noted that these directions were not followed and has issued notice to the Delhi Jal Board, Delhi Development Authority, Public Works Department, Central Ground Water Authority, Delhi Pollution Control Committee, New Delhi Municipal Council, and South Delhi Municipal Corporation. The authorities are required to file the compliance report at least one week before the next hearing, which is scheduled for February 12.
+
+Wed, 06 Dec 2023 13:17:20 +0000
+### [Chitkara University Organises Festival “Never Ending Story 2023”](https://theprint.in/ani-press-releases/chitkara-university-organises-festival-never-ending-story-2023/1874794/)
+
+Article found but Couldn't summarize 
+NewsVoir Chandigarh [India], December 6: Department of Communication Design, Chitkara Design School (CDS), Chitkara University, Punjab organised a two-day festival &#8220;Never Ending Story (NES) 2023&#8221;. The aim of the festival was to honour and boost the diverse art of storytelling and provide a place for creativity, design and technology to come together. On the first [&#8230;]
+
+Wed, 06 Dec 2023 13:17:02 +0000
+### [EPS-95 pensioners to protest in Delhi on Thursday, demand hike in pension](https://theprint.in/india/eps-95-pensioners-to-protest-in-delhi-on-thursday-demand-hike-in-pension/1874792/)
+
+The EPS-95 National Agitation Committee, a pensioners' body, plans to stage a protest at Ramlila maidan on December 7 to demand a minimum monthly pension of Rs 7,500. The committee's president, Ashok Raut, highlighted that senior citizens relying on pensions are facing hardships due to lack of food, medicines, and other necessities. They have been advocating for an increase in pension from Rs 1,171 to Rs 7,500, along with access to medical facilities. Despite protests and appeals to union ministers and the prime minister, there has been no progress in fulfilling their demands. The committee warns of an indefinite hunger strike if their concerns are not addressed.
+
+Wed, 06 Dec 2023 13:17:02 +0000
+### [The Great Indian IP Feast 2.0: A Culmination of Creativity, Innovation, and Intellectual Prowess](https://theprint.in/ani-press-releases/the-great-indian-ip-feast-2-0-a-culmination-of-creativity-innovation-and-intellectual-prowess/1874791/)
+
+The Great Indian IP Feast 2.0, held in New Delhi, celebrated India's intellectual prowess and the journey from ideas to brands through craftsmanship and innovation. The event showcased a curated selection of brands that have transformed Indian ideas into successful brands. Panel discussions explored various topics such as building brands through intellectual property (IP), the intersection of food and IP, and the significance of IP in preserving heritage. The event also focused on start-ups pushing boundaries in IPRs and highlighted the challenges of protecting intellectual property in India. Safir Anand, the organizer, expressed his vision of taking this celebration nationwide. Overall, the event reflected India's evolving creative landscape and promised to be a platform for the exchange of ideas that shape the future of intellectual property in India.
+
+Wed, 06 Dec 2023 13:16:49 +0000
+### [Sugar output may remain subdued this year; mills keen to produce sugar more than ethanol: Official](https://theprint.in/india/sugar-output-may-remain-subdued-this-year-mills-keen-to-produce-sugar-more-than-ethanol-official/1874790/)
+
+The sugar output in Maharashtra is expected to be low due to below-average rainfall in sugarcane-growing areas this year. Despite this, the mills are focused on producing sugar rather than diverting the crop for ethanol production. The decision was made during a meeting with stakeholders, as sugar prices are currently high. The sugar commissionerate had previously estimated that 1,022 lakh metric tonnes of sugarcane would be available for crushing in the next season, with 103.58 lakh metric tonnes of sugar to be produced. It also suggested that 15 lakh metric tonnes of sugarcane could be diverted for ethanol production. The reduced sugarcane production may result in a shorter sugar production season.
+
+Wed, 06 Dec 2023 13:16:38 +0000
+### [Kerala woman doctor’s suicide; Minister orders probe](https://theprint.in/india/kerala-woman-doctors-suicide-minister-orders-probe/1874789/)
+
+The Health Minister of Kerala, Veena George, has ordered an investigation into the suicide of a young woman doctor in Thiruvananthapuram. The 26-year-old postgraduate doctor was found unconscious and later declared dead at the hospital. The probe was initiated following allegations of dowry-related issues as a possible cause of the suicide. The Women and Child Development Department has been directed to conduct the investigation and submit a report. The police have started their own investigation and have recorded statements from the deceased doctor's relatives. Apparently, a suicide note was found in which the victim mentioned that "everybody wants money only." It is alleged that the doctor was depressed after her friend, who was also a doctor, backed out of their marriage due to dowry demands. The groom's family had asked for a higher dowry amount than what Shahana's family could provide.
+
+Wed, 06 Dec 2023 13:16:23 +0000
+### [Former Karnataka MLA accuses RSS museum of denying entry based on caste](https://theprint.in/india/former-karnataka-mla-accuses-rss-museum-of-denying-entry-based-on-caste/1874788/)
+
+Article found but Couldn't summarize 
+Bengaluru, Dec 6 (PTI) Goolihatti D Shekar, a former Karnataka MLA from Hosadurga constituency, has alleged that because he was a Dalit he was denied entry into the RSS Founder Keshav Baliram Hedgewar Museum in Nagpur. The RSS denied his claim, calling it baseless. In an audio message addressed to BJP national general secretary B [&#8230;]
+
+Wed, 06 Dec 2023 13:16:12 +0000
+### [Railways gave Rs 59,837 crore subsidy on passenger tickets in 2019-20: Ashwini Vaishnav](https://theprint.in/india/railways-gave-rs-59837-crore-subsidy-on-passenger-tickets-in-2019-20-ashwini-vaishnav/1874786/)
+
+Article found but Couldn't summarize 
+New Delhi, Nov 6 (PTI) The Indian Railways offered a subsidy of Rs 59,837 crore on passenger tickets in 2019-20 and the concession still continues, Railway Minister Ashwini Vaishnaw said in a written reply in the Lok Sabha on Wednesday. Vaishnaw shared the information in response to a question by Congress MP Anto Antony from [&#8230;]
+
+Wed, 06 Dec 2023 13:16:05 +0000
+### [UK watchdog warns companies over AI use and privacy](https://theprint.in/tech/uk-watchdog-warns-companies-over-ai-use-and-privacy/1874785/)
+
+The UK's Information Commissioner, John Edwards, has urged companies to prioritize people's privacy rights when using artificial intelligence (AI). Failure to do so may result in not only fines but also a loss of public trust in the technology. Edwards emphasized that organizations must protect customer data while utilizing AI, stating that non-compliance with data protection regulations will not be profitable. Risks associated with the rapid development of AI have become a key concern for policymakers worldwide. Although there is a general consensus on the need for AI regulation, a global plan for oversight is still in progress. Edwards cautioned that firms should use AI carefully to avoid alienating the public, as a lack of trust in AI could hinder its adoption and limit societal benefits and innovation.
+
+Wed, 06 Dec 2023 13:16:00 +0000
+### [CDS Gen Chauhan interacts with senior military brass of three service](https://theprint.in/india/cds-gen-chauhan-interacts-with-senior-military-brass-of-three-service/1874784/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 6 (PTI) Chief of Defence Staff Gen Anil Chauhan on Wednesday held wide-ranging deliberations with senior military brass at a combined leadership conclave with a focus on geo-strategic issues and ways to effectively deal with any future national security challenge. Gen Chauhan provided an insight into modern warfare and national security while [&#8230;]
+
+Wed, 06 Dec 2023 13:15:57 +0000
+### [VAST Data valued at $9.1 billion after latest fund-raise](https://theprint.in/tech/vast-data-valued-at-9-1-billion-after-latest-fund-raise/1874783/)
+
+Article found but Couldn't summarize 
+(Reuters) - Data infrastructure company VAST Data said on Wednesday it was valued at $9.1 billion after a funding round of $118 million, led by Fidelity Management &#38; Research. The fund-raise comes
+
+Wed, 06 Dec 2023 13:15:47 +0000
+### [Cong did greatest harm to OBCs; Modi working for welfare of backward classes: Amit Shah](https://theprint.in/india/cong-did-greatest-harm-to-obcs-modi-working-for-welfare-of-backward-classes-amit-shah/1874781/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 6 (PTI) The Congress has done the &#8220;greatest harm&#8221; to Other Backward Classes (OBCs) over the years and done nothing for their welfare, Union Home Minister Amit Shah alleged on Wednesday and asserted that it is Prime Minister Narendra Modi who has relentlessly worked for their overall development. Replying to a debate [&#8230;]
+
+Wed, 06 Dec 2023 13:15:44 +0000
+### [UK bans airline adverts over ‘misleading’ environmental claims](https://theprint.in/environment/uk-bans-airline-adverts-over-misleading-environmental-claims/1874780/)
+
+Article found but Couldn't summarize 
+LONDON (Reuters) - Adverts from Lufthansa, Air France-KLM and Etihad Airways were banned by Britain's advertising regulator on Wednesday for giving a "misleading impression" of the airlines'
+
+Wed, 06 Dec 2023 13:15:38 +0000
+### [46,930 CAPFs, Assam Rifles personnel availed VRS in last five years: MHA](https://theprint.in/india/46930-capfs-assam-rifles-personnel-availed-vrs-in-last-five-years-mha/1874779/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 6 (PTI) More than 46,000 personnel from the five CAPFs and the Assam Rifles took early retirement during the past five years, the government informed Parliament on Wednesday. The maximum &#8212; at more than 21,000 men and women &#8212; of the personnel who took early retirement were from the Border Security Force [&#8230;]
+
+Wed, 06 Dec 2023 13:15:27 +0000
+### [French police checked IDs on ‘massive’ scale in 2021, no objectives defined -report says](https://theprint.in/world/french-police-checked-ids-on-massive-scale-in-2021-no-objectives-defined-report-says/1874777/)
+
+Article found but Couldn't summarize 
+By Layli Foroudi PARIS (Reuters) - The French police conducted ID checks on a "massive" scale in 2021, despite not having a doctrine to define their objectives or good practice during such checks,
+
+Wed, 06 Dec 2023 13:15:27 +0000
+### [Protests of OBCs, Marathas in Maharashtra are state-sponsored: Wadettiwar](https://theprint.in/india/protests-of-obcs-marathas-in-maharashtra-are-state-sponsored-wadettiwar/1874776/)
+
+Article found but Couldn't summarize 
+Nagpur, Dec 6 (PTI) Congress leader Vijay Wadettiwar on Wednesday claimed that the ongoing protests by the Maratha and OBC communities in Maharashtra are being orchestrated by the Eknath Shinde-led government. The leader of opposition in the assembly was speaking to reporters here on the eve of the commencement of the winter session of the [&#8230;]
+
+Wed, 06 Dec 2023 13:15:15 +0000
+### [Gold firms on weaker yields as focus turns to US jobs data](https://theprint.in/india/gold-firms-on-weaker-yields-as-focus-turns-to-us-jobs-data/1874774/)
+
+Article found but Couldn't summarize 
+By Anjana Anil (Reuters) - Gold prices inched higher on Wednesday buoyed by lower bond yields, while investors awaited for a crucial U.S. employment report that could set the tone for Federal
+
+Wed, 06 Dec 2023 13:15:14 +0000
+### [Uncompromising policing reason for drastic fall in Assam’s crime rate: Sarma](https://theprint.in/india/uncompromising-policing-reason-for-drastic-fall-in-assams-crime-rate-sarma-2/1874773/)
+
+Article found but Couldn't summarize 
+Guwahati, Dec 6 (PTI) Assam Chief Minister Himanta Biswa Sarma Wednesday said “strong and uncompromising policing” has been the key to decline in incidents of crime, asserting that the state will become a “paradise&#8221; within three years if law and order is maintained in a similar manner. Sarma’s comments came after the latest report of [&#8230;]
+
+Wed, 06 Dec 2023 13:15:03 +0000
+### [New Delhi investigating alleged illegal transplants at Apollo hospital in city](https://theprint.in/india/new-delhi-investigating-alleged-illegal-transplants-at-apollo-hospital-in-city/1874771/)
+
+Article found but Couldn't summarize 
+By Rishika Sadam and Aditya Kalra NEW DELHI/HYDERABAD (Reuters) -The New Delhi city government is investigating an Apollo hospital, part of India's largest private hospital chain, after a media report
+
 Wed, 06 Dec 2023 12:17:20 +0000
 ### [Terror incidents in J-K declining since 2018, lowest in 2023: Parliament told](https://theprint.in/india/terror-incidents-in-j-k-declining-since-2018-lowest-in-2023-parliament-told/1874686/)
 
