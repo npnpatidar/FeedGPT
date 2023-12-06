@@ -1,3 +1,15 @@
+2023-12-06T19:40:50+05:30
+### [A Small Coterie, Hubris and Forgetting That the Era of ‘Doras’ Is Over: What Hurt KCR](https://thewire.in/politics/a-small-coterie-hubris-and-forgetting-that-the-era-of-doras-is-over-what-hurt-kcr)
+
+No Article text 
+His government did fulfil some promises; power cuts came down and water reached areas of scarcity. But his failure to address key issues like unemployment and the absence of government jobs – a core promise of the statehood movement – took him down.
+
+2023-12-06T19:12:01+05:30
+### [Pannun 'Plot': Australian MP Seeks Assurance From Govt About Safety of Sikhs](https://thewire.in/world/pannun-plot-australian-mp-david-shoebridge-assurance-safety-sikhs)
+
+No Article text 
+David Shoebridge said if the BJP administration is "actively plotting to kill political opponents in the US and Canada, just imagine what's happening in India itself".
+
 2023-12-06T18:40:56+05:30
 ### [Reacknowledging Ambedkar's Role as the Architect of India's Constitution](https://thewire.in/history/reacknowledging-role-ambedkar-architect-india-constitution)
 

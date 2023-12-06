@@ -1,3 +1,8 @@
+Wed, 06 Dec 2023 19:28:39 +0530
+### [Vantage | Does Byju's have a plan beyond pledging its CEO's houses?](https://www.firstpost.com/opinion/vantage-does-byjus-have-a-plan-beyond-pledging-its-ceos-houses-13474452.html)
+
+Byju Raveendran, the founder and CEO of Byju's, has reportedly pledged two of his houses in Bengaluru as collateral for a $12 million loan. This indicates financial difficulties for the company, which is currently facing cash flow challenges. Reports suggest that the loan was used to pay employees, highlighting the urgency of the situation. In addition to pledging his houses, Raveendran has already pledged his shares in the company and sold some of his stake in Byju's to raise funds. The company is also dealing with three major legal cases, including accusations of defaulting on payments to the Indian cricket board, violating foreign exchange rules, and owing $1.2 billion to lenders abroad. To address these challenges, Byju's is planning to sell off key assets to repay loans, but it remains uncertain if this will be sufficient. The company's annual general meeting is scheduled for December 20, where more details about their comeback plan may emerge. However, given the extent of the challenges, it appears unlikely that a comeback will be easy for Byju's.
+
 Wed, 06 Dec 2023 18:14:22 +0530
 ### [Vantage |  Will the West stop funding Ukraine's war effort?](https://www.firstpost.com/opinion/vantage-will-the-west-stop-funding-ukraines-war-effort-13473872.html)
 

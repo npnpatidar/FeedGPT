@@ -1,3 +1,8 @@
+Wed, 06 Dec 2023 19:19:51 +0530
+### [US mass shootings have risen to a high not seen since 2006. Here’s why](https://www.firstpost.com/explainers/us-mass-shootings-have-risen-to-a-high-not-seen-since-2006-heres-why-13474522.html)
+
+The United States has experienced the highest number of mass shootings in 17 years, surpassing the previous record set last year. In Dallas, a 21-year-old man killed four people, including a 1-year-old boy, before fatally shooting himself. In Vancouver, Washington, a man shot his wife, their two adult daughters, and his brother before taking his own life. These incidents were recorded as the 40th and 41st mass killings in the country this year. So far, at least 211 people have died in such incidents in 2023. The majority of mass shootings occurred in private homes or shelters rather than public places. The worst attack of the year took place in Lewiston, where 18 people were killed by a US Army reservist and firearms instructor. The increase in mass shootings is attributed to easy access to firearms. Different organizations have varying definitions for mass shootings, resulting in discrepancies in reported numbers. President Joe Biden has pledged to address gun violence, but finding solutions to prevent these incidents remains a challenge.
+
 Wed, 06 Dec 2023 18:41:01 +0530
 ### [What’s the giant hole in the Sun bigger than 60 Earths? How will it affect the planet?](https://www.firstpost.com/explainers/whats-the-giant-hole-in-the-sun-bigger-than-60-earths-how-will-it-affect-the-planet-13474012.html)
 

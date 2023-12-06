@@ -1,3 +1,8 @@
+Wed, 06 Dec 2023 13:25:52 +0000
+### [31 years of Babri mosque demolition: How rapid infra development is transforming Ayodhya](https://indianexpress.com/article/explained/explained-politics/babri-mosque-rapid-infra-development-ayodhya-9057257/)
+
+Article found but Couldn't summarize
+
 Wed, 06 Dec 2023 08:28:10 +0000
 ### [Mining for critical minerals: what is the auction process, and why is it important?](https://indianexpress.com/article/explained/explained-economics/critical-minerals-auction-process-9056726/)
 
