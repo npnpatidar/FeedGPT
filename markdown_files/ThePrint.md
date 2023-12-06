@@ -1,3 +1,84 @@
+Wed, 06 Dec 2023 19:47:02 +0000
+### [EAM Jaishankar interacts with Macquarie group team, shares India’s ‘view of world’](https://theprint.in/world/eam-jaishankar-interacts-with-macquarie-group-team-shares-indias-view-of-world/1875338/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 7 (ANI): External Affairs Minister S Jaishankar on Wednesday interacted with the visiting team of Macquarie Group, sharing the &#8220;strong fundamental and transformational changes underway&#8221; in the country. Taking to his official handle on X, EAM Jaishankar shared details of the meeting, posting, &#8220;Interacted with the visiting Macquarie group team today. [&#8230;]
+
+Wed, 06 Dec 2023 19:17:11 +0000
+### [Google launches its largest and ‘most capable’ AI model, Gemini](https://theprint.in/world/google-launches-its-largest-and-most-capable-ai-model-gemini/1875334/)
+
+Article found but Couldn't summarize 
+California [US], December 7 (ANI): In its most ambitious effort to compete in the rapidly growing field of generative artificial intelligence (AI), Google has introduced &#8216;Gemini&#8217; as the company&#8217;s &#8220;largest and most capable AI model&#8221;, CNN reported on Wednesday. The report stated that Gemini is designed to compete with the likes of OpenAI&#8217;s GPT models [&#8230;]
+
+Wed, 06 Dec 2023 19:17:02 +0000
+### [Russian President Putin arrives in Riyadh to hold discussion with Saudi Prince](https://theprint.in/world/russian-president-putin-arrives-in-riyadh-to-hold-discussion-with-saudi-prince/1875332/)
+
+Article found but Couldn't summarize 
+Riyadh [Saudi Arabia], December 7 (ANI): Russian President Vladimir Putin arrived in Riyadh on Wednesday to hold a meeting with Saudi Arabian Prime Minister Crown Prince Mohammed bin Salman Al Saud. Taking to X, Russia&#8217;s Ministry of Foreign Affairs shared about his arrival, posting, &#8220;#HappeningNow. President of Russia Vladimir Putin arrives to Riyadh on a [&#8230;]
+
+Wed, 06 Dec 2023 19:16:46 +0000
+### [Olympics-Solution will be found for Teahupo’o surfing site – Paris 2024](https://theprint.in/sport/olympics-solution-will-be-found-for-teahupoo-surfing-site-paris-2024/1875330/)
+
+Paris 2024 organizers are confident that a solution will be found soon for the construction of a judging tower at the Teahupo'o site in Tahiti for next year's Olympic surfing competition. The International Surfing Association (ISA) welcomed a pause in preparations after a video showed a barge stuck on the reef, damaging coral near the site. The French Polynesian government has paused further testing and preparations to address the issue. Paris 2024 and the government are working on reducing the size and weight of the tower to minimize its impact on the environment. Despite the challenges, the organizers remain committed to working transparently with associations to ensure the success of the Paris 2024 Games in French Polynesia.
+
+Wed, 06 Dec 2023 19:16:33 +0000
+### [Zoom was the bidder rebuffed by Five9 -source](https://theprint.in/tech/zoom-was-the-bidder-rebuffed-by-five9-source/1875329/)
+
+Article found but Couldn't summarize 
+By Anirban Sen NEW YORK (Reuters) -Zoom Video Communications was the bidder that was rebuffed by call center software firm Five9, according to a person familiar with the matter. On Tuesday, Five9 said
+
+Wed, 06 Dec 2023 19:16:27 +0000
+### [VAST Data eyes IPO after valuation surges to $9.1 billion in latest fund raise](https://theprint.in/tech/vast-data-eyes-ipo-after-valuation-surges-to-9-1-billion-in-latest-fund-raise/1875328/)
+
+Article found but Couldn't summarize 
+By Krystal Hu and Niket Nishant (Reuters) -VAST Data is preparing for an initial public offering as it raised $118 million in the latest funding round that valued the data infrastructure company at
+
+Wed, 06 Dec 2023 19:16:17 +0000
+### [Meta to introduce watermarking feature for some AI products](https://theprint.in/tech/meta-to-introduce-watermarking-feature-for-some-ai-products/1875326/)
+
+Meta Platforms, the parent company of Facebook, announced that it will be adding invisible watermarking to its text-to-image generation product, imagine with Meta AI chatbot, in order to enhance transparency. The company aims to bring this feature to many of its products that use AI-generated images and claims that the watermarking is resilient to common image manipulations. Meta has been leveraging large language models, such as Microsoft-backed OpenAI's ChatGPT, to create AI-powered products that attract investors, drive innovation, and engage customers. They have developed Meta AI using their own custom model based on the Llama 2 large language model. The company is currently testing over 20 new ways in which generative AI can improve user experiences across various social media platforms like Instagram and WhatsApp. Additionally, they are expanding access to imagine outside of chats and working on improving search capabilities across multiple products.
+
+Wed, 06 Dec 2023 19:16:01 +0000
+### [Al Jazeera says 22 relatives of Gaza correspondent killed by Israeli shelling](https://theprint.in/world/al-jazeera-says-22-relatives-of-gaza-correspondent-killed-by-israeli-shelling/1875325/)
+
+An Israeli bombardment in Gaza resulted in the deaths of 22 relatives of Al Jazeera correspondent Moamen Al-Sharafi, according to Al Jazeera Media Network. The victims included his parents, siblings, and children, as well as 17 other extended family members. The network condemned the operation and stated that it would take legal action against those responsible for the incident. This comes after a similar Israeli raid on October 25 that killed several family members of another Al Jazeera correspondent in Gaza. There was no immediate comment from the Israeli military regarding the recent incident.
+
+Wed, 06 Dec 2023 19:15:52 +0000
+### [UK immigration minister Robert Jenrick has resigned – Home Office minister](https://theprint.in/world/uk-immigration-minister-robert-jenrick-has-resigned-home-office-minister/1875323/)
+
+Article found but Couldn't summarize 
+LONDON (Reuters) -Britain's immigration minister Robert Jenrick resigned on Wednesday, interior minister James Cleverly said, after the government published draft emergency legislation aimed at
+
+Wed, 06 Dec 2023 19:15:43 +0000
+### [Paraguay, Brazil launch big crackdown on arms trafficking](https://theprint.in/world/paraguay-brazil-launch-big-crackdown-on-arms-trafficking-2/1875321/)
+
+Article found but Couldn't summarize 
+ASUNCION (Reuters) - Paraguay and Brazil launched dozens of raids across the two countries on Tuesday to seize weapons sent from Europe to be sold to Brazil's largest criminal groups. An investigation
+
+Wed, 06 Dec 2023 19:15:34 +0000
+### [UK immigration minister Robert Jenrick has resigned – Cleverly](https://theprint.in/world/uk-immigration-minister-robert-jenrick-has-resigned-cleverly/1875319/)
+
+Article found but Couldn't summarize 
+LONDON (Reuters) -Britain's immigration minister Robert Jenrick resigned on Wednesday, interior minister James Cleverly said, after the government published draft emergency legislation aimed at
+
+Wed, 06 Dec 2023 19:15:25 +0000
+### [Fixing Bologna’s leaning tower to take at least 10 years – mayor](https://theprint.in/world/fixing-bolognas-leaning-tower-to-take-at-least-10-years-mayor/1875317/)
+
+Article found but Couldn't summarize 
+(Refiles to restore dropped word "are" in final paragraph) ROME (Reuters) -Work to prevent the collapse of a medieval leaning tower in the heart of the northern Italian city of Bologna will cost 20
+
+Wed, 06 Dec 2023 19:15:14 +0000
+### [EU should consider sanctions on Hamas, Israeli settler violence -document](https://theprint.in/world/eu-should-consider-sanctions-on-hamas-israeli-settler-violence-document/1875315/)
+
+Article found but Couldn't summarize 
+By Andrew Gray BRUSSELS (Reuters) - The European Union should consider toughening sanctions on Hamas and its finances, and imposing sanctions on Israeli settlers responsible for violence in the West
+
+Wed, 06 Dec 2023 19:15:03 +0000
+### [US reviewing Amnesty International report that said US-made munitions have killed civilians in Gaza](https://theprint.in/world/us-reviewing-amnesty-international-report-that-said-us-made-munitions-have-killed-civilians-in-gaza/1875313/)
+
+Article found but Couldn't summarize 
+WASHINGTON (Reuters) - The United States is reviewing an Amnesty International report that said U.S.-made munitions have killed civilians in air strikes in Gaza, State Department spokesperson Matthew
+
 Wed, 06 Dec 2023 19:02:02 +0000
 ### [Poll harvest in 5 states, central schemes discussed at meeting of BJP national general secretaries: Sources](https://theprint.in/politics/poll-harvest-in-5-states-central-schemes-discussed-at-meeting-of-bjp-national-general-secretaries-sources/1875309/)
 
