@@ -1,3 +1,8 @@
+Wed, 06 Dec 2023 23:10:32 +0530
+### [Navigating the U.S.-China relationship | Explained](https://www.thehindu.com/news/international/navigating-the-us-china-relationship-explained/article67612251.ece)
+
+The article discusses the recent summit between U.S. President Joe Biden and Chinese President Xi Jinping, held in San Francisco on November 15. The main focus of the summit was to revive the bilateral relationship between the two countries, which has reached its lowest point since diplomatic ties were established in 1979. One significant outcome was the decision to restore military-to-military communications between the two nuclear weapons states, aimed at preventing potential miscalculations. These channels had been closed since Nancy Pelosi's visit to Taiwan in August 2022, which China considered a violation of the status quo. The article also highlights the economic and trade tensions between the two countries, including export bans and blacklisting of companies. Despite these conflicts, there appears to be a subtle shift towards exploring pragmatic avenues of coexistence rather than disengagement or 'decoupling'.
+
 Wed, 06 Dec 2023 09:30:00 +0530
 ### [How Cyclone Michaung formed, intensified, rained, and dissipated | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/michaung-cyclone-chennai-andhra-floods-intensification-climate-change-explained/article67609875.ece)
 
