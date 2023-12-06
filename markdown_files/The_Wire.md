@@ -1,3 +1,21 @@
+2023-12-06T15:38:27+05:30
+### [Watch: Is Israel Determined to Obliterate Hamas No Matter the Toll of Palestinian Civilian Lives?](https://thewire.in/world/watch-is-israel-determined-to-obliterate-hamas-no-matter-the-toll-of-palestinian-civilian-lives)
+
+No Article text 
+In conversation with Israel’s former justice minister, Yossi Beilin.
+
+2023-12-06T15:30:03+05:30
+### [Here’s What the Congress Must Do Now to Quickly Reset the 2024 Chessboard](https://thewire.in/politics/heres-what-the-congress-must-do-now-to-quickly-reset-the-2024-chessboard)
+
+No Article text 
+If Rahul and Priyanka Gandhi can jettison the old guard in key states, pick younger leaders, begin a conversation with Mayawati and hand over convenorship of the INDIA bloc to a senior non-Congress leader, the BJP can still be defeated.
+
+2023-12-06T15:00:42+05:30
+### [Resumption of Fighting in Gaza Will ‘Only Intensify the Catastrophic Hunger Crisis’, Says UN Agency](https://thewire.in/world/renewed-fighting-in-gaza-worsen-catastrophic-hunger-crisis-un-wfp)
+
+No Article text 
+The World Food Programme has said that the distribution of food aid has become “almost impossible” following the resumption of hostilities between Israel and Hamas on December 1.
+
 2023-12-06T14:34:59+05:30
 ### [Why 2024 Is Going to Be an Existential Fight for the INDIA Alliance](https://thewire.in/politics/why-2024-is-going-to-be-an-existential-fight-for-the-india-alliance)
 

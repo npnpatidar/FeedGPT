@@ -10,6 +10,11 @@ Wed, 06 Dec 2023 00:10:00 +0530
 Article found but Couldn't summarize 
 Cyclone Michaung alone was not responsible for Chennai’s troubles
 
+Wed, 06 Dec 2023 00:10:00 +0530
+### [Shared blame: On Chennai and Cyclone Michaung](https://www.thehindu.com/opinion/editorial/shared-blame-the-hindu-editoral-on-chennai-and-cyclone-michaung/article67607875.ece)
+
+The article discusses the recent heavy rains and cyclone in Chennai, India, highlighting the challenges faced by the city in responding to natural disasters. On December 3rd, Cyclone Michaung brought heavy rainfall to Chennai, causing widespread flooding. The author emphasizes that blaming nature alone for such calamities is unfair and fails to address the underlying issues. The city's power infrastructure, for example, was not equipped to handle the situation, resulting in a precautionary power shutdown. The article also mentions the impact of unplanned construction, zoning violations, and public indiscipline on Chennai's ability to respond to storms. Climate change is likely contributing to stronger cyclones, but the city's response has been hindered by these long-standing problems. The article concludes by urging Chennai to prioritize improving sanitation workers' conditions, particularly those from marginalized communities. Overall, the article calls for faster progress in addressing these issues to ensure better disaster preparedness and response in the future.
+
 Tue, 05 Dec 2023 00:20:00 +0530
 ### [Civic victory: On the Mizoram Assembly election results](https://www.thehindu.com/opinion/editorial/civic-victory-on-the-mizoram-assembly-election-results/article67604996.ece)
 

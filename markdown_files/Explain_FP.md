@@ -1,3 +1,9 @@
+Wed, 06 Dec 2023 15:07:13 +0530
+### ['Work from home’ scams on the rise. Here’s how to stay safe](https://www.firstpost.com/explainers/work-from-home-scams-are-on-the-rise-in-india-heres-how-to-stay-safe-13472702.html)
+
+Article found but Couldn't summarize 
+'Work from home’ scams on the rise. Here’s how to stay safe
+
 Wed, 06 Dec 2023 13:47:57 +0530
 ### [Who is Baryl Vanneihsangi, RJ-turned-politician, Mizoram’s youngest woman MLA?](https://www.firstpost.com/explainers/who-is-baryl-vanneihsangi-rj-turned-politician-mizorams-youngest-woman-mla-13471952.html)
 

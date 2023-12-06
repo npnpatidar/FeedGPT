@@ -1,3 +1,24 @@
+Wed, 06 Dec 2023 09:18:36 +0000
+### [Pratap Bhanu Mehta writes: Why Congress fails to dent BJP’s Hindutva — ideologically and politically](https://indianexpress.com/article/opinion/columns/pratap-bhanu-mehta-writes-why-congress-fails-to-dent-bjps-hindutva-ideologically-and-politically-9056781/)
+
+The recent assembly elections in North India have highlighted the challenge faced by the Opposition in formulating an effective strategy against the ruling Bharatiya Janata Party (BJP). Despite having a popular and astute prime minister, a well-resourced political machine, and pockets of economic disaffection, there is no significant surge of discontent against the central government. The Opposition struggles to articulate criticisms that resonate with the public.
+
+According to election analysis by the Centre for Policy Research, the Congress party's vote share has remained relatively constant in states where it lost. Rather than the Opposition gaining anti-BJP votes, the BJP seems better at consolidating the anti-Congress vote. This trend is evident in Chhattisgarh, where the Congress vote share barely dipped, while the BJP's increased significantly.
+
+One reason for this may be that the Congress party's intellectual ecosystem is at odds with the ideological changes it needs to make. The Left and Center in Indian politics often rely on lazy social determinism, looking for a natural social group that can act as an agent of emancipation. This approach reduces politics to an arithmetic of compulsory social identities and fails to recognize the complexities of voters' decision-making processes.
+
+The Congress party's focus on caste-based identity politics exemplifies this problem. The recent caste census, for instance, lacked a serious development agenda. The BJP, on the other hand, engages in an identity politics of Hindutva but acknowledges that identity is politically constructed. The Left's identitarianism is seen as even more confining and anti-political.
+
+Another issue is the tendency of Congress supporters to construct divisive narratives, such as the north-south distinction, which can be counterproductive and border on racism. These constructs fail to acknowledge the simmering communalism present in the south and the oppressive nature of caste in states like Tamil Nadu. Additionally, they underestimate the BJP's potential in the south and relinquish the grand ambition of national unity to the BJP.
+
+While acknowledging the increased risks of authoritarianism and communalism, it is a political fact that these threats are not widely felt or experienced by citizens. The degradation of important state institutions and erosion of liberties often go unnoticed in people's ordinary experience of governance. The competitive political space gives the impression that such issues are minor aberrations rather than systematic threats. It is crucial for those with disproportionate power, the elites, to amplify these concerns, but unfortunately, the Opposition fails to attract or convince this constituency.
+
+Regarding Hindutva, the Opposition's critique is hindered by two factors. Firstly, there is a core group among Hindus who are comfortable with marginalizing and even resorting to violence against Muslims. Secondly, the Opposition often falls into arguing on Hindutva's terms, which leads to accusations of being anti-Hindu. The way out of this trap is to defend the equal freedom and dignity of every individual, transcending the majority-minority framework.
+
+The Congress has emphasized a critique of corruption, but this approach only works when there is a credible carrier, like an outsider or a defector from the ruling system. Abstract critiques of influential entities like Adani are ineffective when they don't resonate with the public's concerns or local contexts. Additionally, the Opposition is seen as leaning more left, making it challenging to differentiate between being anti-big business and anti-business altogether.
+
+In summary, besides leadership, tactical, and organizational issues, the Opposition struggles to find a language and space for effective criticism. This contributes to its inability to expand beyond its existing support base and connect with the broader electorate.
+
 Wed, 06 Dec 2023 07:10:13 +0000
 ### [UP Safe City project: Controlling women is not safety](https://indianexpress.com/article/opinion/columns/uttar-pradesh-p-safe-city-project-controlling-women-is-not-safety-9056626/)
 

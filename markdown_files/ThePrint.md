@@ -1,3 +1,117 @@
+Wed, 06 Dec 2023 10:17:21 +0000
+### [PM Modi to inaugurate Uttarakhand Global Investors Summit on Friday](https://theprint.in/economy/pm-modi-to-inaugurate-uttarakhand-global-investors-summit-on-friday/1874444/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 6 (ANI): Prime Minister Narendra Modi will on Friday visit Dehradun to take part in the inauguration ceremony of the &#8216;Uttarakhand Global Investors Summit 2023&#8217;, an official release from the PMO said. The event will be held at Forest Research Institute, Dehradun. The Prime Minister will also address the gathering on [&#8230;]
+
+Wed, 06 Dec 2023 10:17:11 +0000
+### [“Here to make it easier for Muslims in India to go to Mecca and Medina”: Saudi Minister of Hajj](https://theprint.in/world/here-to-make-it-easier-for-muslims-in-india-to-go-to-mecca-and-medina-saudi-minister-of-hajj/1874442/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 6 (ANI): Saudi Minister of Hajj and Umrah Tawfiq bin Fawzan Al-Rabiah on Wednesday said &#8220;We are here to make it easier for Muslims in India to go to Mecca and Medina and have a great experience doing Umrah.&#8221; &#8220;We are here to hear comments, and suggestions to enrich the experience [&#8230;]
+
+Wed, 06 Dec 2023 10:17:02 +0000
+### [Abhishek Bachchan wishes niece Navya Nanda on her birthday](https://theprint.in/feature/abhishek-bachchan-wishes-niece-navya-nanda-on-her-birthday/1874440/)
+
+Actor Abhishek Bachchan extended a heartfelt birthday wish to his niece Navya Nanda on Instagram. He shared a childhood picture of Navya and called her his favorite. Navya is the daughter of Abhishek's sister Shweta Bachchan and Nikhil Nanda, who is the chairman and managing director of Escorts Limited. Despite coming from a family of actors, Navya has pursued entrepreneurship and launched Project Naveli in 2021 to fight gender inequality. She also recently hosted a podcast called "What The Hell Navya" with her mother and grandmother. Meanwhile, Abhishek Bachchan was seen in the sports drama film 'Ghoomer' alongside Saiyami Kher and Angad Bedi, which received a decent response from the audience.
+
+Wed, 06 Dec 2023 10:15:44 +0000
+### [Axiscades acquires Epcogen for Rs 26 cr](https://theprint.in/economy/axiscades-acquires-epcogen-for-rs-26-cr/1874438/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 6 (PTI) Axiscades Technologies (Axiscades) on Wednesday said it has acquired 100 per cent stake in Hyderabad-based Epcogen. Epcogen specialises in engineering design and providing solutions for the energy sector, Axiscades said in a statement. Axiscades has acquired Epcogen for Rs 26.25 crore to fortify its position in the energy markets of [&#8230;]
+
+Wed, 06 Dec 2023 10:15:38 +0000
+### [Banks mask lending to polluters with PR greenwash, ECB blog says](https://theprint.in/environment/banks-mask-lending-to-polluters-with-pr-greenwash-ecb-blog-says/1874437/)
+
+Article found but Couldn't summarize 
+FRANKFURT (Reuters) - Euro zone banks talking the most about climate change are the biggest lenders to polluting industries and use public relations noise to mask their support, a blog post by four
+
+Wed, 06 Dec 2023 10:15:34 +0000
+### [BJP stages walkout from Bengal assembly as demand on closed tea garden not allowed](https://theprint.in/india/bjp-stages-walkout-from-bengal-assembly-as-demand-on-closed-tea-garden-not-allowed/1874436/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 6 (PTI) BJP legislators on Wednesday staged a walkout from the West Bengal assembly after its demand for a discussion on closed tea gardens in the state was disallowed. The BJP moved an adjournment motion after the question hour seeking that the government take positive steps to reopen closed tea gardens in the [&#8230;]
+
+Wed, 06 Dec 2023 10:15:24 +0000
+### [Active Almora fault led to increase in earthquakes in 2023: Rijiju](https://theprint.in/india/active-almora-fault-led-to-increase-in-earthquakes-in-2023-rijiju/1874434/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 6 (PTI) The activation of the Almora fault in western Nepal was the reason for earthquakes in parts of north India and Nepal, Earth Sciences Minister Kiren Rijiju said on Wednesday. In a written reply in Lok Sabha, he said the activation of the Almora fault triggered significant mainshock earthquakes on January [&#8230;]
+
+Wed, 06 Dec 2023 10:15:18 +0000
+### [Pope Francis says feeling “much better”, voice still weak](https://theprint.in/world/pope-francis-says-feeling-much-better-voice-still-weak/1874433/)
+
+Article found but Couldn't summarize 
+VATICAN CITY (Reuters) - Pope Francis, who has been suffering from a lung inflammation, said on Wednesday that he is feeling a lot better, although he still has to restrict how much he talks. "I am
+
+Wed, 06 Dec 2023 10:15:14 +0000
+### [Junior Hockey WC: India need to guard against complacency against Spain](https://theprint.in/sport/junior-hockey-wc-india-need-to-guard-against-complacency-against-spain/1874431/)
+
+Article found but Couldn't summarize 
+Kuala Lumpur, Dec 6 (PTI) Their campaign has started off positively, but India must guard against complacency when they face Spain in their second Pool C match of the FIH junior men&#8217;s hockey World Cup here on Thursday. Vice-captain Araijeet Singh Hundal came out to be India&#8217;s saviour, scoring a hat-trick as India overcame some [&#8230;]
+
+Wed, 06 Dec 2023 10:15:05 +0000
+### [RBI’s heavy hand to keep Indian rupee in tight range for some time: Reuters poll](https://theprint.in/india/rbis-heavy-hand-to-keep-indian-rupee-in-tight-range-for-some-time-reuters-poll/1874430/)
+
+Article found but Couldn't summarize 
+By Milounee Purohit BENGALURU (Reuters) - The Indian rupee will trade in a tight range against the dollar in the year ahead, according to FX strategists in a Reuters poll who reckon it will be at
+
+Wed, 06 Dec 2023 10:15:03 +0000
+### [J-K bills brought by govt to give justice to those deprived of rights for last 70 years: Amit Shah](https://theprint.in/india/j-k-bills-brought-by-govt-to-give-justice-to-those-deprived-of-rights-for-last-70-years-amit-shah/1874428/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 6 (PTI) Home Minister Amit Shah on Wednesday said the two bills related to Jammu and Kashmir brought by the government will give justice to those deprived of their rights for the last 70 years and asserted that reservation to the displaced people will give them a voice in the legislature. Replying [&#8230;]
+
+Wed, 06 Dec 2023 10:00:59 +0000
+### [‘Rules disregarded’ in listing of sensitive cases in SC — lawyer Dushyant Dave writes to CJI](https://theprint.in/judiciary/rules-disregarded-in-listing-of-sensitive-cases-in-sc-lawyer-dushyant-dave-writes-to-cji/1874254/)
+
+Article found but Couldn't summarize 
+Dave says the cases include ‘matters involving human rights, freedom of speech, democracy, and functioning of statutory and constitutional institutions’. Letter written Wednesday.
+
+Wed, 06 Dec 2023 10:00:52 +0000
+### [‘Chamak’ explores Punjabi music industry roots, politics and crime: Rohit Jugraj](https://theprint.in/feature/chamak-explores-punjabi-music-industry-roots-politics-and-crime-rohit-jugraj/1874420/)
+
+The Punjabi music industry is explored in the OTT series "Chamak," according to writer-director Rohit Jugraj. The series follows Kaala, an aspiring rapper who returns to Punjab from Canada to uncover the murder of Taara Singh, a renowned singer. Jugraj believes that fame and crime are interconnected in the music industry, with the reach and popularity of Punjabi music attracting both money and criminal activities. He highlights the competitive spirit and insecurity among artists, citing incidents such as rappers claiming superiority and one rapper buying a Rolls Royce after another rapper's statement. While "Chamak" draws inspiration from true events, it incorporates fictional characters and a father-son storyline. The show features cameo appearances by various Punjabi artists. Jugraj had approached Sidhu Moosewala for a guest appearance, and although he couldn't participate due to his untimely demise, his name remains on the script as a mark of respect.
+
+Wed, 06 Dec 2023 10:00:42 +0000
+### [Punjab governor reserves three Bills for consideration of President](https://theprint.in/india/punjab-governor-reserves-three-bills-for-consideration-of-president/1874419/)
+
+Punjab Governor Bhawarlal Purohit has reserved three bills, including the Sikh Gurdwaras (Amendment) Bill, 2023, for the consideration of the President. The other two bills are the Punjab Universities Laws (Amendment) Bill, 2023, and the Punjab Police (Amendment) Bill, 2023. The Sikh Gurdwaras (Amendment) Bill aims to broadcast 'Gurbani' from the Golden Temple in Amritsar for free. The Punjab Universities Laws (Amendment) Bill intends to replace the governor with the chief minister as the chancellor of state-run universities. The Punjab Police (Amendment) Bill aims to establish an independent mechanism for selecting and appointing suitable candidates for the director general of police position. The move follows the Supreme Court's validation of the June 19-20 session, which the governor had previously called illegal. The court criticized the governor for delaying the approval of bills and questioned the state government for repeatedly adjourning the Budget session without proroguing it.
+
+Wed, 06 Dec 2023 10:00:30 +0000
+### [India’s market regulator, cenbank share concern on some credit funds masking bad loans – official](https://theprint.in/economy/indias-market-regulator-cenbank-share-concern-on-some-credit-funds-masking-bad-loans-official/1874417/)
+
+India's market regulator, the Securities and Exchange Board of India (SEBI), has raised concerns about alternate investment funds (AIFs) being used to hide bad loans in the financial system. SEBI has observed numerous cases of regulatory violations by AIFs, including avoiding recognition of non-performing assets. The Reserve Bank of India (RBI) shares these concerns. SEBI is currently investigating cases involving AIF misuse amounting to 150 billion to 200 billion rupees ($1.8 billion to $2.4 billion) and plans to enforce a code of conduct to prevent such practices. They have also proposed that all AIF liabilities and assets be held in dematerialized form for increased transparency.
+
+Wed, 06 Dec 2023 10:00:28 +0000
+### [Declare floods caused by Cyclone Michaung as national calamity: Baalu](https://theprint.in/india/declare-floods-caused-by-cyclone-michaung-as-national-calamity-baalu/1874415/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 6 (PTI) DMK MP TR Baalu on Wednesday demanded that the floods caused by Cyclone Michaung in Tamil Nadu be declared as a national calamity, and sought the Centre&#8217;s assistance to tide over the situation.  Raising the issue in Zero Hour, Baalu said more than 1.2 crore people in Tamil Nadu are [&#8230;]
+
+Wed, 06 Dec 2023 10:00:19 +0000
+### [India swap market signals cenbank will differ from Fed’s rate-cut path](https://theprint.in/economy/india-swap-market-signals-cenbank-will-differ-from-feds-rate-cut-path/1874414/)
+
+India's overnight index swap (OIS) market is indicating that the Reserve Bank of India (RBI) will not rush to cut interest rates, even if the U.S. Federal Reserve starts lowering rates early next year. The odds of the Fed's first rate cut in March have increased to 63%, while the RBI is expected to keep rates unchanged until mid-2024. This is reflected in India's OIS rates, which have only dropped modestly over the past six weeks. Market participants anticipate shallow rate cuts by the RBI due to strong economic growth and the need to control inflation. Inflation concerns are resurfacing in India, with retail inflation expected to exceed the RBI's tolerance limit. As a result, there is no room for the RBI to suggest any dovishness, and swap markets have not altered their rate cut expectations.
+
+Wed, 06 Dec 2023 10:00:15 +0000
+### [There will be no Marathas left in Maharashtra if all of them get Kunbi certificates: Bhujbal](https://theprint.in/india/there-will-be-no-marathas-left-in-maharashtra-if-all-of-them-get-kunbi-certificates-bhujbal/1874413/)
+
+Article found but Couldn't summarize 
+Nagpur, Dec 6 (PTI) If Marathas get blanket Kunbi OBC certificates, there will be no separate identity of the Maratha community in Maharashtra, state minister and senior OBC leader Chhagan Bhujbal said on Wednesday amid the quota row. Kunbi, a community associated with agriculture, is grouped under the Other Backward Classes (OBC) category in Maharashtra [&#8230;]
+
+Wed, 06 Dec 2023 10:00:04 +0000
+### [G7 leaders to meet virtually on Wednesday with Ukraine’s Zelenskiy](https://theprint.in/world/g7-leaders-to-meet-virtually-on-wednesday-with-ukraines-zelenskiy/1874411/)
+
+Article found but Couldn't summarize 
+By Sakura Murakami and John Geddie TOKYO (Reuters) - Leaders of the Group of Seven (G7) countries will hold a virtual meeting on Wednesday with Ukraine's president, Volodomyr Zelenskiy, in a show of
+
+Wed, 06 Dec 2023 10:00:03 +0000
+### [Rajput leader’s killing: Protest held in parts of Rajasthan, SIT formed to nab accused](https://theprint.in/india/rajput-leaders-killing-protest-held-in-parts-of-rajasthan-sit-formed-to-nab-accused/1874410/)
+
+Markets in Jaipur and several other districts of Rajasthan were closed due to a bandh called by the Rashtriya Rajput Karni Sena to protest the killing of its chief, Sukhdev Singh Gogamedi. The Director General of Police formed a Special Investigation Team (SIT) to investigate the killing, with a cash reward announced for information leading to the arrest of the two accused. The Rajasthan Police conducted searches for the suspects, who allegedly killed Gogamedi for supporting the enemies of gangster Rohit Godara. A mass rally was held in Udaipur, while demonstrations took place in Jodhpur and Udaipur as well. The bandh had an impact on public transport and people's movement in various districts. The Governor summoned officials to review the situation and emphasized the importance of arresting those responsible for the killing. The accused have been identified, and efforts are being made to trace them. The situation is being monitored by district collectors, and there are demands for the removal of the state police chief. The Rajput community expressed resentment and threatened protests if the accused were not apprehended soon. Gogamedi's supporters demanded compensation for his family, and there were calls for action against the negligent police officials involved.
+
 Wed, 06 Dec 2023 09:17:56 +0000
 ### [India Shines on a Global Platform, as The Postcard Hotel Wins Twin Honours at World Travel Awards in Dubai](https://theprint.in/ani-press-releases/india-shines-on-a-global-platform-as-the-postcard-hotel-wins-twin-honours-at-world-travel-awards-in-dubai/1874367/)
 

@@ -1,3 +1,9 @@
+Wed, 06 Dec 2023 15:35:27 +0530
+### [Vantage | Why Kenyan President's India visit matters for both countries](https://www.firstpost.com/opinion/vantage-why-kenyan-presidents-india-visit-matters-for-both-countries-13472622.html)
+
+Article found but Couldn't summarize 
+Vantage | Why Kenyan President's India visit matters for both countries
+
 Wed, 06 Dec 2023 14:35:10 +0530
 ### [Vantage | How a 'good morning' can change your life](https://www.firstpost.com/opinion/vantage-how-a-good-morning-can-change-your-life-13472552.html)
 

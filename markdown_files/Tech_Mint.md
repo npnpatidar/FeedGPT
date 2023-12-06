@@ -1,3 +1,9 @@
+Wed, 06 Dec 2023 14:49:03 +0530
+### [Electric blankets to keep you warm on chilly night? Pick one from top 8 options](https://www.livemint.com/technology/gadgets/electric-blankets-to-keep-you-warm-on-chilly-night-pick-one-from-top-8-options-11701839965924.html)
+
+Article found but Couldn't summarize 
+Electric blankets are a sweet combination of a blanket and a heater. Bring home one this winter season and experience a warm bliss on chilly days. Choose from our hand-picked top 8 options with multiple features and convenient functionality.
+
 Wed, 06 Dec 2023 14:39:10 +0530
 ### [Haier refrigerator collection: Top 10 models where innovation meets design](https://www.livemint.com/technology/gadgets/haier-refrigerator-collection-top-10-models-where-innovation-meets-design-11701849122819.html)
 
