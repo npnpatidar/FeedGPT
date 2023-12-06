@@ -1,3 +1,91 @@
+Wed, 06 Dec 2023 03:15:03 +0000
+### [Father of Mahadev app scam accused found dead in Chhattisgarh; cops suspect suicide](https://theprint.in/india/father-of-mahadev-app-scam-accused-found-dead-in-chhattisgarh-cops-suspect-suicide/1873917/)
+
+Article found but Couldn't summarize 
+Durg, Dec 6 (PTI) The father of a man named as an accused in the Mahadev betting app scam has been found dead under suspicious conditions at a village in Chhattisgarh&#8217;s Durg district, a senior police official said. The body of Sushil Das (62), who was missing since the last two days, was found in [&#8230;]
+
+Wed, 06 Dec 2023 03:07:05 +0000
+### [‘Because of Jawan & letter to Shah Rukh’— Dr Kafeel Khan says booked in fresh FIR over ‘BRD ghost’](https://theprint.in/india/because-of-jawan-letter-to-shah-rukh-dr-kafeel-khan-says-booked-in-fresh-fir-over-brd-ghost/1873110/)
+
+Article found but Couldn't summarize 
+Terming charges against him 'absurd', Dr Kafeel Khan says 'biggest pain Yogi govt gave him was to distance him from his kids' who live in Rajasthan, while he is in Chennai.
+
+Wed, 06 Dec 2023 03:00:44 +0000
+### [Twitch to shut down in South Korea due to high costs](https://theprint.in/tech/twitch-to-shut-down-in-south-korea-due-to-high-costs/1873913/)
+
+Article found but Couldn't summarize 
+(Reuters) - Amazon's streaming unit Twitch on Tuesday said it will shut down operations in South Korea in February next year, due to high operating costs and network fees. "Twitch has been operating
+
+Wed, 06 Dec 2023 03:00:25 +0000
+### [Argentina’s Milei taps Bausili as new central bank chief – sources](https://theprint.in/world/argentinas-milei-taps-bausili-as-new-central-bank-chief-sources/1873911/)
+
+Santiago Bausili, an Argentine economist and ally of the incoming Economy Minister Luis Caputo, is expected to become the governor of Argentina's central bank under President-elect Javier Milei. Bausili previously held roles in the finance sector under Mauricio Macri's administration and worked for Deutsche Bank and JPMorgan. His appointment could help moderate Milei's libertarian proposals. Milei had initially favored Emilio Ocampo as his dollarization adviser, but has since shifted towards a more pragmatic approach focused on reducing the fiscal deficit. Milei's team did not respond to a request for comment on Bausili.
+
+Wed, 06 Dec 2023 03:00:14 +0000
+### [Rupee to gauge dollar’s recovery even as economic data drives US yields lower](https://theprint.in/india/rupee-to-gauge-dollars-recovery-even-as-economic-data-drives-us-yields-lower/1873909/)
+
+The Indian rupee is expected to open unchanged amid a rebound in the US dollar, despite a decline in US Treasury yields due to lower-than-expected job openings in October. Non-deliverable forwards suggest the rupee will open around 83.36-83.37. The 10-year US Treasury yield dropped to 4.16% after data showed job openings at their lowest level in over two and a half years. Weakness in the data led to speculation that the US Federal Reserve may cut rates as early as March. The rupee's movement is currently influenced by speculation about the Reserve Bank of India's response rather than economic fundamentals. The RBI likely sold US dollars on Tuesday to limit the rupee's decline. Despite increased equity inflows, the rupee has been unable to strengthen. The dollar index has ticked up to 103.97, recovering after a recent sharp fall, driven by dovish comments from a European Central Bank official and safe-haven demand amid the Israel-Hamas conflict. Investors are awaiting further information on the US labor market from jobless claims data and the non-farm payrolls report.
+
+Wed, 06 Dec 2023 03:00:03 +0000
+### [Indian shares set to open at new record highs for third session](https://theprint.in/india/indian-shares-set-to-open-at-new-record-highs-for-third-session/1873907/)
+
+Article found but Couldn't summarize 
+BENGALURU (Reuters) - India's benchmark indexes are set to open at fresh record highs for the third session in a row on Wednesday, while the global market rally eased ahead of key U.S. data. India's
+
+Wed, 06 Dec 2023 02:45:30 +0000
+### [Nvidia to develop new chips that comply with US export regulations](https://theprint.in/tech/nvidia-to-develop-new-chips-that-comply-with-us-export-regulations/1873902/)
+
+Article found but Couldn't summarize 
+SINGAPORE (Reuters) - Nvidia will continue to develop a new set of products that comply with U.S. government regulations involving exports of high-end chips to China, CEO Jensen Huang said on
+
+Wed, 06 Dec 2023 02:45:22 +0000
+### [Philippines receives $5.3 billion climate finance commitment from Canada](https://theprint.in/environment/philippines-receives-5-3-billion-climate-finance-commitment-from-canada/1873901/)
+
+Article found but Couldn't summarize 
+MANILA (Reuters) - The Philippines and the United Nations Development Programme have secured Canada's commitment for $5.3 billion of climate finance, the president's office in Manila said on Wednesday
+
+Wed, 06 Dec 2023 02:45:11 +0000
+### [Australia government seeks opposition support on immigration detention legislation](https://theprint.in/world/australia-government-seeks-opposition-support-on-immigration-detention-legislation/1873900/)
+
+Article found but Couldn't summarize 
+SYDNEY (Reuters) - The Australian government on Wednesday urged the opposition to support legislation that would allow authorities to lock up some former immigration detainees who were released after
+
+Wed, 06 Dec 2023 02:45:03 +0000
+### [Australia to end daily letter delivery as postal service pivots to parcels](https://theprint.in/world/australia-to-end-daily-letter-delivery-as-postal-service-pivots-to-parcels/1873898/)
+
+Article found but Couldn't summarize 
+By Lewis Jackson SYDNEY (Reuters) - Australia Post will soon end daily letter deliveries as part of a series of postal reforms announced on Wednesday designed to modernise the government-owned postal
+
+Wed, 06 Dec 2023 02:30:41 +0000
+### [Panchtantra to Hitopadesha, how Sanskrit literature recovered ‘other’ voices](https://theprint.in/feature/around-town/panchtantra-to-hitopadesha-how-sanskrit-literature-recovered-other-voices/1873080/)
+
+Article found but Couldn't summarize 
+Animals in the Hitopadesha are not just metaphors for humans; they are very much beings in their own right, said historian Shonaleeka Kaul at a lecture in Delhi.
+
+Wed, 06 Dec 2023 02:30:34 +0000
+### [Biden December fundraising blitz stars James Taylor, Spielberg](https://theprint.in/entertainment/biden-december-fundraising-blitz-stars-james-taylor-spielberg/1873896/)
+
+Article found but Couldn't summarize 
+By Nandita Bose and Jarrett Renshaw BOSTON (Reuters) - President Joe Biden kicked off a December fundraising blitz on Tuesday that will show off the Democratic Party's star power while raising
+
+Wed, 06 Dec 2023 02:30:23 +0000
+### [Asia stocks gain as lower bond yields buoy tech; oil sags](https://theprint.in/economy/asia-stocks-gain-as-lower-bond-yields-buoy-tech-oil-sags/1873894/)
+
+Article found but Couldn't summarize 
+By Kevin Buckland TOKYO (Reuters) - Asia-Pacific equities gained on Wednesday as bets firmed for a peak in interest rates among major central banks globally, as bond yields continued to decline.
+
+Wed, 06 Dec 2023 02:30:12 +0000
+### [Honduras bus crash leaves 10 dead, president declares national mourning](https://theprint.in/world/honduras-bus-crash-leaves-10-dead-president-declares-national-mourning/1873892/)
+
+Article found but Couldn't summarize 
+TEGUCIGALPA (Reuters) - A bus in Honduras skidded off a highway and fell into a ravine on Tuesday, killing 10 people and injuring around two dozen others, authorities said. The bus, carrying nearly 60
+
+Wed, 06 Dec 2023 02:30:03 +0000
+### [G7 leaders to hold virtual meeting on Wednesday with Ukraine’s Zelenskiy](https://theprint.in/world/g7-leaders-to-hold-virtual-meeting-on-wednesday-with-ukraines-zelenskiy/1873890/)
+
+Article found but Couldn't summarize 
+WASHINGTON/TOKYO (Reuters) - Leaders of the Group of Seven countries will hold a virtual meeting on Wednesday with Ukraine President Volodomyr Zelenskiy. They will discuss the situation in Ukraine,
+
 Wed, 06 Dec 2023 02:15:08 +0000
 ### [BLACKPINK members renew contract, boosting shares in label YG Entertainment](https://theprint.in/entertainment/blackpink-members-renew-contract-boosting-shares-in-label-yg-entertainment/1873888/)
 

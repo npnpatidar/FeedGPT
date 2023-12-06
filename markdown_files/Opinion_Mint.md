@@ -1,3 +1,26 @@
+Wed, 06 Dec 2023 08:00:04 +0530
+### [Why are retail investors obsessed with IPOs?](https://www.livemint.com/opinion/online-views/why-are-retail-investors-obsessed-with-ipos-11701788112222.html)
+
+The article discusses the phenomenon of retail investors chasing initial public offerings (IPOs) in the stock market for listing day gains. It highlights two recent IPOs, Tata Technologies and Zomato, to illustrate how retail investors often get excited about the potential gains but fail to consider the bigger picture.
+
+In the case of Tata Technologies, the IPO was subscribed around 16.5 times, meaning investors received two shares for every 33 they applied for on average. While those who managed to sell their shares at the listing price of ₹1,200 made a profit of 140%, this gain didn't significantly change their lives. Similarly, with Zomato's IPO, despite the share price opening at a premium of over 51% on the listing day, many retail investors didn't receive any allotment or made only small gains.
+
+The article emphasizes that the chance of getting an allotment in an IPO is inversely proportional to its demand. Even if the share price lists at a high premium, the absolute gains made are often not significant. Additionally, not all IPOs that open with great fanfare deliver long-term returns. Examples like Reliance Power's IPO and Infosys' IPO are mentioned to highlight cases where short-term gains turned into losses or missed opportunities.
+
+The article concludes by providing insights for retail investors. It suggests that IPOs are not the only opportunity to invest in a company's stock, and genuine wealth creation often happens from purchases made after the IPO. It advises investors to gradually accumulate stocks they believe have good potential instead of making large purchases at once. Lastly, it reminds readers about the importance of understanding when to consider absolute numbers versus percentages in investment decisions.
+
+Wed, 06 Dec 2023 08:00:04 +0530
+### [Adani stock surge: Guess why](https://www.livemint.com/opinion/online-views/adani-stock-surge-guess-why-11701788324480.html)
+
+Article found but Couldn't summarize 
+It’s not just hardened expectations of political stability. Reports have surfaced of a US agency having deemed the Hindenburg allegations irrelevant.
+
+Wed, 06 Dec 2023 08:00:03 +0530
+### [Scanning capital markets could help fend off terror attacks](https://www.livemint.com/opinion/online-views/scanning-capital-markets-could-help-fend-off-terror-attacks-11701788055143.html)
+
+Article found but Couldn't summarize 
+That some traders may have acted on a tip-off about the Hamas attack of 7 October suggests that intelligence agencies could use AI scanners to spot signs of danger in market patterns.
+
 Tue, 05 Dec 2023 21:06:42 +0530
 ### [The written word is too important to risk an AI takeover of it](https://www.livemint.com/opinion/online-views/the-written-word-is-too-important-to-risk-an-ai-takeover-of-it-11701788208029.html)
 

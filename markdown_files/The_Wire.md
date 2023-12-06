@@ -1,3 +1,9 @@
+2023-12-06T08:29:38+05:30
+### [Thirty-One Years After Babri Demolition, an Important Reminder](https://thewire.in/law/babri-demolition-anniversary-doctrine-non-retrogression)
+
+No Article text 
+Amid attempts to thwart secularism in India, it is fitting to remember the Supreme Court's affirmation in its Ayodhya verdict of the doctrine of ‘non-retrogression’.
+
 2023-12-05T23:43:29+05:30
 ### [India To Extend $250M Soft Loan to Kenya, Eyes Its Cheetahs and Raises Issue of Missing Nationals](https://thewire.in/diplomacy/india-250-million-soft-loan-kenya-cheetahs-missing-nationals)
 
