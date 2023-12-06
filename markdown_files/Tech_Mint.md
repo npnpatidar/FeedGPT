@@ -1,3 +1,8 @@
+Wed, 06 Dec 2023 22:35:37 +0530
+### [E-sports to be the next big bet](https://www.livemint.com/technology/tech-news/esports-to-be-the-next-big-bet-11701882062478.html)
+
+The article discusses the growing revenue opportunities in the e-sports industry in India. With 42.5 crore gamers, second only to China, India has seen a rise in e-sports events with substantial prize money. Companies like Nodwin Gaming and JetSynthesys have organized tournaments with high prize pools and live broadcasts on traditional and digital platforms. Industry stakeholders believe that the potential for monetizing e-sports in India is significant due to the large user base and enthusiasm among young users. The proliferation of mobile phones and affordable internet data has fueled the growth of the gaming industry. However, challenges such as limited spending propensity and a relatively less mature domestic market persist. Real-money games currently contribute the largest share of revenue in the Indian gaming industry. As the industry matures and Indian e-sports teams gain more exposure and success, the business opportunity in e-sports is expected to grow. While some gaming ventures are betting on e-sports, others are not considering diversification into this segment.
+
 Wed, 06 Dec 2023 20:53:32 +0530
 ### [Mini dehumidifiers to keep your house smelling fresh: Choose from top 8 picks](https://www.livemint.com/technology/gadgets/mini-dehumidifiers-to-keep-your-house-smelling-fresh-choose-from-top-8-picks-11701853861172.html)
 

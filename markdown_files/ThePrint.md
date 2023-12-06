@@ -1,3 +1,116 @@
+Wed, 06 Dec 2023 17:11:08 +0000
+### [FBI director to visit India next week, says US envoy Garcetti. Trip comes amid ‘Pannun plot’ talks](https://theprint.in/diplomacy/fbi-director-to-visit-india-next-week-says-us-envoy-garcetti-trip-comes-amid-pannun-plot-talks/1875143/)
+
+Article found but Couldn't summarize 
+Eric Garcetti made the announcement during his address at Global Technology Summit — organised by think tank Carnegie India and Ministry of External Affairs.
+
+Wed, 06 Dec 2023 17:02:12 +0000
+### [Tanzania: At least 65 killed in landslides, flooding triggered by heavy rains](https://theprint.in/world/tanzania-at-least-65-killed-in-landslides-flooding-triggered-by-heavy-rains/1875153/)
+
+Heavy rains in northern Tanzania have caused landslides and flooding, resulting in the death of at least 65 people. The village of Katesh, located 300 kilometers north of the capital Dodoma, was severely affected, with properties being damaged. The Prime Minister, Kassim Majaliwa, updated the death toll and mentioned that two more bodies were found during the ongoing search. Approximately 5,600 people have been displaced due to the landslides. The area has also experienced disruptions in power and communication. A search operation is currently underway.
+
+Wed, 06 Dec 2023 17:02:01 +0000
+### [COP28 unifies global efforts aimed at finding effective solutions to climate change: South Sudan delegate](https://theprint.in/world/cop28-unifies-global-efforts-aimed-at-finding-effective-solutions-to-climate-change-south-sudan-delegate/1875151/)
+
+Article found but Couldn't summarize 
+Abu Dhabi [UAE], December 6 (ANI/WAM): Albino Akol Atak, Minister of Humanitarian Affairs and Disaster Management of the Republic of South Sudan, stressed that the UAE exerts immense efforts to help and support people and communities most vulnerable to the effects of climate change and natural disasters. He told the Emirates News Agency (WAM) on [&#8230;]
+
+Wed, 06 Dec 2023 17:00:44 +0000
+### [Records destroyed in fire at closed hospital in Thane city](https://theprint.in/india/records-destroyed-in-fire-at-closed-hospital-in-thane-city/1875150/)
+
+Article found but Couldn't summarize 
+Thane, Dec 6 (PTI) A fire destroyed old records kept inside a non-operational civic-run hospital in Thane city of Maharashtra on Wednesday evening, civic officials said. Chief of the Thane Municipal Corporaiton (TMC)&#8217;s disaster management cell, Yasin Tadvi, no one was injured in the fire that broke out at the hospital in the Shilphata area [&#8230;]
+
+Wed, 06 Dec 2023 17:00:35 +0000
+### [In Instagram post, Ratan Tata flags fake interview recommending investments](https://theprint.in/economy/in-instagram-post-ratan-tata-flags-fake-interview-recommending-investments/1875149/)
+
+Former Tata Group Chairman Ratan Tata has issued a warning about the misuse of his name on social media to promote fake investments. In an Instagram post, Tata called out a user named Sona Agrawal who had shared a video featuring a fake interview with him, recommending investments with a risk-free and guaranteed return. The video also displayed messages from people claiming to have received money in their accounts. Tata labeled the video as "FAKE" and warned against such misleading practices.
+
+Wed, 06 Dec 2023 17:00:24 +0000
+### [PoK is our own: Amit Shah in Lok Sabha](https://theprint.in/india/pok-is-our-own-amit-shah-in-lok-sabha/1875147/)
+
+Union Home Minister Amit Shah stated in the Lok Sabha that Pakistan-occupied Kashmir (PoK) is a part of India, and therefore, 24 seats have been reserved for the region in the Jammu and Kashmir assembly. He made this remark during a debate on the Jammu and Kashmir Reservation (Amendment) Bill and the Jammu and Kashmir Reorganisation (Amendment) Bill. Shah also mentioned that after the delimitation exercise in Jammu and Kashmir, there will be an increase in the number of assembly seats in both the Jammu region and the Kashmir Valley. Additionally, he highlighted what he referred to as two major "Nehruvian blunders" that had negatively affected Kashmir, namely declaring a ceasefire without winning the entire region and taking the matter to the United Nations. Shah emphasized that if the ceasefire had been declared three days later, Pakistan-occupied Kashmir would have been a part of India.
+
+Wed, 06 Dec 2023 17:00:13 +0000
+### [Shah made ‘deliberately provocative’ statements in Lok Sabha on Nehru’s role in J-K, says Congress](https://theprint.in/india/shah-made-deliberately-provocative-statements-in-lok-sabha-on-nehrus-role-in-j-k-says-congress/1875146/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 6 (PTI) The Congress on Wednesday said Home Minister Amit Shah made &#8220;deliberately provocative and blatantly false&#8221; statements in the Lok Sabha on India&#8217;s first prime minister Jawaharlal Nehru&#8217;s role in Jammu and Kashmir in 1947 and 1948, alleging that these are tactics to derail the party and the INDIA bloc&#8217;s narratives. [&#8230;]
+
+Wed, 06 Dec 2023 17:00:03 +0000
+### [Army developing military-grade 5G & 6G apps; focuses on rolling out emerging technologies](https://theprint.in/india/army-developing-military-grade-5g-6g-apps-focuses-on-rolling-out-emerging-technologies-2/1875145/)
+
+The Indian Army is working on developing military-grade 5G and 6G telecom applications, as well as software with AI-enabled decision-making tools and predictive analytics. These initiatives aim to enhance intelligence, operational efficiency, and address future warfare requirements. The development is being carried out in collaboration with the Ministry of Electronics and Information Technology. The Military College of Telecommunication Engineering in Madhya Pradesh is establishing itself as a hub for AI research and development. Noteworthy innovations include the situational awareness module for the army (SAMA) and advanced pattern recognition software for satellite imagery analysis. Several training activities are being conducted to upskill Army personnel in digital and cyber security domains. The Indian Army's expertise in cybersecurity is being integrated into security operations centers, and cutting-edge cybersecurity and cyber forensics tools are being developed. Infrastructure requirements for logistics have been incorporated into the Pradhan Mantri Gati Shakti Yojana. The Army has also implemented digital solutions for healthcare services, such as the 'Dhanwantri' software, which links over 110 military hospitals. Telemedicine services are being used to provide medical assistance to remote posts. Software systems like Himan Resource Management Suite (HRMS) and ASAAN have been put in place to manage large workforces and address specific issues.
+
+Wed, 06 Dec 2023 16:47:23 +0000
+### [Indian visa outsourcing firm faces action in Estonia](https://theprint.in/world/indian-visa-outsourcing-firm-faces-action-in-estonia/1875141/)
+
+BLS International, an Indian company operating in the visa outsourcing sector, is facing charges of breaching Estonia's e-residency mandate. Estonia's Ministry of Interiors awarded the country's e-residency documents to BLS International but recently discovered two cases of unauthorized issuance of these documents by individuals not authorized by Estonia's Police and Border Guard Board (PPA). The breach occurred in Bangkok and other locations where BLS International operates. As a result, Estonia's Ministry of the Interior terminated its contract with BLS International. The company claims that the unlawful conduct was carried out by certain errant employees, and disciplinary action has been taken against them. In unrelated news, BLS International has recently been awarded the outsourcing of consular services by India's Ministry of External Affairs in Canada.
+
+Wed, 06 Dec 2023 16:47:13 +0000
+### [Pakistan: Three people died after fire engulfs Arshi mall in Karachi](https://theprint.in/world/pakistan-three-people-died-after-fire-engulfs-arshi-mall-in-karachi/1875138/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 6 (ANI): Three people died after a fire broke out near Ayesha Manzil in Pakistan&#8217;s Karachi Federal B Area on Wednesday, reported Dawn, citing police and rescue services. Three people were killed after a fire broke out at the Arshi Shopping Centre located near Ayesha Manzil in Karachi&#8217;s Federal B Area on [&#8230;]
+
+Wed, 06 Dec 2023 16:47:01 +0000
+### [16th edition of India-Germany Military Cooperation Sub Group meeting held in New Delhi](https://theprint.in/world/16th-edition-of-india-germany-military-cooperation-sub-group-meeting-held-in-new-delhi/1875136/)
+
+The India-Germany Military Cooperation Subgroup (MCSG) held its 16th edition meeting in New Delhi from December 5-6. The meeting was co-chaired by Brigadier Vivek Narang from the Indian side and Colonel (GS) Christian Schmidt from the German side. The discussions focused on new initiatives to strengthen bilateral defense cooperation and ongoing defense engagements. The MCSG serves as a platform for regular talks between the Integrated Defense Staff and the Department of International Cooperation Armed Forces to enhance defense cooperation between the two nations. This report is auto-generated from ANI news service.
+
+Wed, 06 Dec 2023 16:45:25 +0000
+### [Akal Takht asks Balwant Rajoana to end hunger strike, forms committee to take up issue with Centre](https://theprint.in/india/akal-takht-asks-balwant-rajoana-to-end-hunger-strike-forms-committee-to-take-up-issue-with-centre/1875135/)
+
+Article found but Couldn't summarize 
+Chandigarh, Dec 6 (PTI) The Akal Takht on Wednesday asked Balwant Singh Rajoana, a death row convict in the 1995 former Punjab chief minister Beant Singh assassination case, to end his hunger strike to seek withdrawal of his mercy petition filed by the SGPC. The appeal by it came a day after Balwant Rajoana went [&#8230;]
+
+Wed, 06 Dec 2023 16:45:14 +0000
+### [Cases of atrocities against Scheduled Castes, Scheduled Tribes increased in Maha in 2022](https://theprint.in/india/cases-of-atrocities-against-scheduled-castes-scheduled-tribes-increased-in-maha-in-2022/1875134/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 6 (PTI) The number of cases of atrocities against members of the Scheduled Castes and Scheduled Tribes increased in Maharashtra in 2022 compared to the previous two years, the latest National Crime Records Bureau (NCRB) report showed. Maharashtra was in the sixth spot with 2,743 cases of atrocities against members of Scheduled Castes [&#8230;]
+
+Wed, 06 Dec 2023 16:45:03 +0000
+### [Army developing military-grade 5G & 6G apps; focuses on rolling out emerging technologies](https://theprint.in/india/army-developing-military-grade-5g-6g-apps-focuses-on-rolling-out-emerging-technologies/1875133/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 6 (PTI) The Indian Army is in the process of developing military-grade 5G and 6G telecom applications as part of an ambitious project to address future warfare requirement and roll out critical technologies to enhance overall efficiency, Army sources said on Wednesday. The Army is also actively developing military-grade software that includes [&#8230;]
+
+Wed, 06 Dec 2023 16:31:11 +0000
+### [Noida: Man arrested for abetting wife’s suicide over suspected dowry harassment](https://theprint.in/india/noida-man-arrested-for-abetting-wifes-suicide-over-suspected-dowry-harassment/1875128/)
+
+Article found but Couldn't summarize 
+Noida, Dec 6 (PTI) A 30-year-old man was arrested on Wednesday for allegedly abetting his wife&#8217;s suicide after nine years of their marriage riddled with conflicts related to dowry demands, the Noida police said. The accused, a taxi driver by profession, was held near the Garhi Chaukhandi roundabout, under Phase 3 police station limits, near [&#8230;]
+
+Wed, 06 Dec 2023 16:31:01 +0000
+### [Punjab Police checks vehicles in border districts to prevent drug trafficking, liquor smuggling](https://theprint.in/india/punjab-police-checks-vehicles-in-border-districts-to-prevent-drug-trafficking-liquor-smuggling/1875127/)
+
+Article found but Couldn't summarize 
+Chandigarh, Dec 6 (PTI) Punjab Police on Wednesday checked vehicles entering and exiting the border state as part of a special operation to curb drug trafficking and liquor smuggling and keep a tab on the movement of gangsters and anti-social elements. The operation was conducted from 8 am to 2 pm on the directions of [&#8230;]
+
+Wed, 06 Dec 2023 16:30:51 +0000
+### [ZP education officer booked for amassing assets worth over Rs 5.85 cr with wife, son: ACB](https://theprint.in/india/zp-education-officer-booked-for-amassing-assets-worth-over-rs-5-85-cr-with-wife-son-acb/1875126/)
+
+Article found but Couldn't summarize 
+Pune, Dec 6 (PTI) A Zilla Parishad education officer has been booked for allegedly amassing disproportionate assets worth more than Rs 5.85 crore through corrupt means in Solapur district of Maharashtra along with his wife and son, Anti-Corruption Bureau (ACB) officials said on Wednesday. The accused is identified as Kiran Lohar. A case was also [&#8230;]
+
+Wed, 06 Dec 2023 16:30:40 +0000
+### [Jharkhand CM lays foundation of development projects worth over Rs 300 crore](https://theprint.in/india/jharkhand-cm-lays-foundation-of-development-projects-worth-over-rs-300-crore/1875125/)
+
+Jharkhand Chief Minister Hemant Soren stated that the Indian government has not yet paid the state its coal royalty of Rs 1,36,000 crore. If received, this amount could have been used for various purposes such as providing a monthly pension of Rs 2,500 to the elderly, irrigation of agricultural lands, self-employment opportunities with a funding of Rs 10 lakh for youth, and making gas cylinders available for Rs 500. The Chief Minister also highlighted the development efforts being undertaken by the government, mentioning the construction of 15,000km of roads and the provision of electricity and water to villages. One unit of free electricity was already being offered to 66,000 people, and five units were provided to those who planted trees in urban areas. During the event, the Chief Minister inaugurated and distributed assets worth crores of rupees among beneficiaries.
+
+Wed, 06 Dec 2023 16:30:28 +0000
+### [Patna Pirates beat Telugu Titans 50-28 in PKL](https://theprint.in/sport/patna-pirates-beat-telugu-titans-50-28-in-pkl/1875124/)
+
+Article found but Couldn't summarize 
+Ahmedabad, Dec 6 (PTI) Patna Pirates produced a scintillating performance to record a 50-28 victory over Telugu Titans in a Pro Kabaddi League Season 10 match here on Wednesday. Raider Sachin led the charge for the Pirates with 14 touch points in the match. Pawan Sehrawat was the lone warrior for the Titans with 11 [&#8230;]
+
+Wed, 06 Dec 2023 16:30:15 +0000
+### [Leaders of 17 INDIA bloc parties meet, senior leadership to gather soon to plan strategy for LS polls](https://theprint.in/india/leaders-of-17-india-bloc-parties-meet-senior-leadership-to-gather-soon-to-plan-strategy-for-ls-polls/1875123/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 6 (PTI) Floor leaders of 17 parties of the INDIA opposition bloc on Wednesday met at the residence of Congress president Mallikarjun Kharge and discussed steps to improve coordination in Parliament to take on the BJP. It was decided at the meeting that the senior leadership would meet soon and the date [&#8230;]
+
 Wed, 06 Dec 2023 16:17:12 +0000
 ### [Italy officially exits China’s Belt and Road Initiative: Report](https://theprint.in/world/italy-officially-exits-chinas-belt-and-road-initiative-report/1875120/)
 
