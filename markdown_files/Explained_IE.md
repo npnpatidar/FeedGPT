@@ -1,3 +1,8 @@
+Wed, 06 Dec 2023 15:37:37 +0000
+### [NMC logo: Why are doctors protesting now if it always had Dhanvantri’s image?](https://indianexpress.com/article/explained/nmc-logo-why-doctors-protesting-dhanvantri-9057392/)
+
+Article found but Couldn't summarize
+
 Wed, 06 Dec 2023 13:25:52 +0000
 ### [31 years of Babri mosque demolition: How rapid infra development is transforming Ayodhya](https://indianexpress.com/article/explained/explained-politics/babri-mosque-rapid-infra-development-ayodhya-9057257/)
 

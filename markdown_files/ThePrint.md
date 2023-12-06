@@ -1,3 +1,118 @@
+Wed, 06 Dec 2023 16:17:12 +0000
+### [Italy officially exits China’s Belt and Road Initiative: Report](https://theprint.in/world/italy-officially-exits-chinas-belt-and-road-initiative-report/1875120/)
+
+Italy has officially withdrawn from China's Belt and Road Initiative (BRI) after four years of participation. The decision was communicated to Beijing three days before it was reported by the Italian newspaper Corriere della Sera. Italy became the first major Western country to join the BRI in 2019, despite concerns from the US about China's influence over critical infrastructure and technology. The withdrawal was carried out through the cancellation of the agreement by the Italian government, which was accompanied by promises of strategic friendship. Both countries chose not to make public statements about the cancellation. Financial difficulties faced by the BRI project may have contributed to Italy's decision. Italian Prime Minister Giorgia Meloni had previously expressed her intention to leave the BRI, citing a lack of significant benefits for Italy. This decision does not compromise relations with China, according to Meloni.
+
+Wed, 06 Dec 2023 16:17:04 +0000
+### [2 smugglers held in Punjab’s Ferozepur, 1 kg heroin recovered](https://theprint.in/india/2-smugglers-held-in-punjabs-ferozepur-1-kg-heroin-recovered/1875118/)
+
+Article found but Couldn't summarize 
+Chandigarh, Dec 6 (PTI) Two drug smugglers were arrested and 1 kg of heroin was recovered from their possession in Punjab’s Ferozepur on Wednesday, police said. Pipal Singh and Sonu, both residents of Ferozepur, were nabbed by the counterintelligence wing and state special operation cell, Fazilka near Khilcha village, they said. During preliminary investigation, it [&#8230;]
+
+Wed, 06 Dec 2023 16:17:01 +0000
+### [Indian Council for Cultural Relations hosts Knowledge India Visitors Programme](https://theprint.in/world/indian-council-for-cultural-relations-hosts-knowledge-india-visitors-programme/1875117/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 6 (ANI): The Indian Council for Cultural Relations (ICCR) organised its first of its kind &#8216;Knowledge India Visitors Programme&#8217; from December 4 to 6, to explore the diverse realms of Indian knowledge systems. The programme was organized in New Delhi, &#8220;hosting 77 esteemed foreign academicians from 35 countries devoted to exploring [&#8230;]
+
+Wed, 06 Dec 2023 16:16:52 +0000
+### [DU withdraws Strategic Plan 2022-2047 after opposition by Academic Council](https://theprint.in/india/du-withdraws-strategic-plan-2022-2047-after-opposition-by-academic-council/1875116/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 6 (PTI) The emergent Academic Council meeting convened to consider the revised Strategic Plan for Delhi University (2022-2047) withdrew the document owing to dissent by the elected members on Wednesday. The Strategic Plan will be revised and reintroduced in the Academic Council for its approval, according to officials. Delhi University Vice-Chancellor Yogesh [&#8230;]
+
+Wed, 06 Dec 2023 16:16:41 +0000
+### [Punjab: Govt employees extend pen-down strike till Dec 11](https://theprint.in/india/punjab-govt-employees-extend-pen-down-strike-till-dec-11/1875115/)
+
+Article found but Couldn't summarize 
+Chandigarh, Dec 6 (PTI) Representatives of the Punjab State Ministerial Services Union, who have been on a pen-down strike since November 8, on Wednesday announced extension of their agitation till December 11. The decision to extend the strike was taken a day after their talks with a cabinet sub-committee over their demands, including implementation of the [&#8230;]
+
+Wed, 06 Dec 2023 16:16:37 +0000
+### [Co-founder of seized crypto exchange Bitzlato to plead guilty in US](https://theprint.in/tech/co-founder-of-seized-crypto-exchange-bitzlato-to-plead-guilty-in-us/1875114/)
+
+Anatoly Legkodymov, the co-founder of Bitzlato, a virtual currency exchange based in Hong Kong, is expected to plead guilty in a U.S. court for processing approximately $700 million in illicit funds. Legkodymov, a Russian national, was arrested in Miami and has been held at the Metropolitan Detention Center in Brooklyn since then. He allegedly operated Bitzlato as an unlicensed money exchange business, engaging in cryptocurrency swaps with Hydra Market, described as a marketplace for drugs, stolen financial information, and money laundering services. Bitzlato's website has been seized by French authorities as part of an international law enforcement action. This development reflects the ongoing efforts by U.S. law enforcement to crack down on fraud and illicit finance in the cryptocurrency markets. The article also mentions other recent cases involving FTX founder Sam Bankman-Fried and Binance CEO Changpeng Zhao pleading guilty or facing charges related to fraudulent activities.
+
+Wed, 06 Dec 2023 16:16:29 +0000
+### [Suicide victim’s body gnawed by rats at mortuary in UP’s Lalitpur](https://theprint.in/india/suicide-victims-body-gnawed-by-rats-at-mortuary-in-ups-lalitpur/1875112/)
+
+A 21-year-old woman in Lalitpur, Uttar Pradesh allegedly committed suicide by hanging herself. However, her body was not properly covered and rats gnawed at it while it was kept in the mortuary. The family noticed bite marks on the body before the post-mortem examination. The victim's mother filed a complaint against the negligence in handling the body. A three-member team of doctors has been formed to investigate the matter and submit a report within a week. Additionally, an FIR of dowry death has been registered against the victim's husband and in-laws, and the case is currently under investigation.
+
+Wed, 06 Dec 2023 16:16:27 +0000
+### [Elon Musk says his AI firm xAI is not raising funds ‘right now’](https://theprint.in/tech/elon-musk-says-his-ai-firm-xai-is-not-raising-funds-right-now/1875111/)
+
+Article found but Couldn't summarize 
+(Reuters) - Elon Musk said on Wednesday his artificial intelligence company xAI was not raising funds "right now", a day after the startup filed with the U.S. securities regulator to raise up to $1
+
+Wed, 06 Dec 2023 16:16:18 +0000
+### [Ram temple trust committee to finalise Ram Lalla idol for consecration next week](https://theprint.in/india/ram-temple-trust-committee-to-finalise-ram-lalla-idol-for-consecration-next-week/1875109/)
+
+The Ram temple trust in Ayodhya, Uttar Pradesh, will decide next week which of the three Ram Lalla idols being sculpted will be placed in the sanctum sanctorum. The religious committee of the Shri Ram Janmabhoomi Teerth Kshetra Trust will finalize the idol on December 15. The idols, made from rocks brought from Karnataka and Rajasthan, are almost complete and are currently being given finishing touches. The best idol out of the three will be selected and consecrated in the temple. The idols are being sculpted by Ganesh Bhatt, Arun Yogiraj, and Satyanarayan Pandey. This information was reported by the PTI news service.
+
+Wed, 06 Dec 2023 16:16:13 +0000
+### [Development bank head at COP28 urges African exemption from EU carbon tax](https://theprint.in/environment/development-bank-head-at-cop28-urges-african-exemption-from-eu-carbon-tax/1875108/)
+
+Article found but Couldn't summarize 
+By Simon Jessop, AbdelHadi Ramahi and Rachel Savage DUBAI (Reuters) - African countries should be exempt from a plan by the European Union to impose a carbon tax on some imports, the head of the
+
+Wed, 06 Dec 2023 16:16:08 +0000
+### [Delhi govt mulls stipend for construction workers affected by GRAP curbs](https://theprint.in/india/delhi-govt-mulls-stipend-for-construction-workers-affected-by-grap-curbs/1875106/)
+
+The Delhi government plans to provide stipends of Rs 5,000 to nearly one lakh construction workers who were affected by the restrictions imposed under GRAP Stage-IV in the national capital. These workers are registered beneficiaries of various welfare schemes. A meeting will be held next week to discuss the proposal with Labour Minister Raaj Kumar Anand. GRAP Stage-IV restrictions were implemented on November 5 due to deteriorating air quality, but the ban on construction work has been revoked as the air quality improved in the Delhi-NCR region.
+
+Wed, 06 Dec 2023 16:16:01 +0000
+### [Emmy-winning TV producer-writer Norman Lear dies at age 101](https://theprint.in/entertainment/emmy-winning-tv-producer-writer-norman-lear-dies-at-age-101/1875105/)
+
+Article found but Couldn't summarize 
+By Bill Trott (Reuters) -Producer-writer Norman Lear, whose groundbreaking hit comedies such as "All in the Family" and "Maude" addressed race, abortion and other social issues rarely seen previously
+
+Wed, 06 Dec 2023 16:15:56 +0000
+### [Sharad-Ajit meet at industrialist’s home in August was to avoid split in NCP: Jayant Patil](https://theprint.in/india/sharad-ajit-meet-at-industrialists-home-in-august-was-to-avoid-split-in-ncp-jayant-patil/1875103/)
+
+Article found but Couldn't summarize 
+Nagpur, Dec 6 (PTI) Nationalist Congress Party founder Sharad Pawar and Maharashtra deputy CM Ajit Pawar had a closed door meeting at an industrialist&#8217;s residence in Pune in August to discuss the possibility of avoiding a formal split in the party, weeks after the latter joined the Eknath Shinde government, a senior NCP leader said [&#8230;]
+
+Wed, 06 Dec 2023 16:15:48 +0000
+### [Italian road and airport operator Mundys explores India, Australia expansion](https://theprint.in/economy/italian-road-and-airport-operator-mundys-explores-india-australia-expansion/1875102/)
+
+Article found but Couldn't summarize 
+By Elisa Anzolin MILAN (Reuters) - Italian infrastructure group Mundys aims to strengthen its toll roads presence in the United States, Chile and Europe and is exploring expansion in India and
+
+Wed, 06 Dec 2023 16:15:45 +0000
+### [Vasundhara Raje heads to Delhi amid Rajasthan CM suspense](https://theprint.in/india/vasundhara-raje-heads-to-delhi-amid-rajasthan-cm-suspense/1875100/)
+
+Article found but Couldn't summarize 
+Jaipur, Dec 6 (PTI) Amid a suspense over the BJP&#8217;s chief ministerial pick for Rajasthan, senior party leader and former CM Vasundhara Raje was headed to New Delhi Wednesday night. She was scheduled to take a flight to Delhi. Sources in the Raje camp said she would be meeting the party high command on Thursday. [&#8230;]
+
+Wed, 06 Dec 2023 16:15:39 +0000
+### [Stocks gain, 10-year Treasury yield falls as investors digest labor data](https://theprint.in/economy/stocks-gain-10-year-treasury-yield-falls-as-investors-digest-labor-data/1875099/)
+
+Article found but Couldn't summarize 
+By Chuck Mikolajczak NEW YORK (Reuters) - A gauge of global equities rose on Wednesday for the first time this week while U.S. Treasury yields fell after U.S. employment data buttressed expectations
+
+Wed, 06 Dec 2023 16:15:34 +0000
+### [Gujarat govt organises state-level ‘Surya Namaskar’ competition](https://theprint.in/india/gujarat-govt-organises-state-level-surya-namaskar-competition/1875097/)
+
+Article found but Couldn't summarize 
+Gandhinagar, Dec 6 (PTI) The Gujarat government has organised a state-level Surya Namaskar or Sun salutation competition to promote health awareness among youths, Sports Minister Harsh Sanghavi said on Wednesday. A participation of 20 lakh youngsters is expected in this multi-level statewide competition, he said. &#8220;An innovative approach to make citizens healthy through yoga practice [&#8230;]
+
+Wed, 06 Dec 2023 16:15:27 +0000
+### [Pakistan court rejects former PM Khan’s request to withdraw appeal and shift case to separate court](https://theprint.in/world/pakistan-court-rejects-former-pm-khans-request-to-withdraw-appeal-and-shift-case-to-separate-court/1875096/)
+
+Article found but Couldn't summarize 
+ISLAMABAD (Reuters) - An Islamabad court on Wednesday rejected former Pakistani Prime Minister Imran Khan's request to withdraw a key appeal so he could move it to a different court in the city of
+
+Wed, 06 Dec 2023 16:15:24 +0000
+### [Modi to address fintech event Infinity Forum 2.0 on Dec 9](https://theprint.in/economy/modi-to-address-fintech-event-infinity-forum-2-0-on-dec-9/1875094/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 6 (PTI) Prime Minister Narendra Modi will address the second edition of the flagship financial technology event Infinity Forum 2.0 on Saturday, the finance ministry said on Wednesday. The event will be hosted by the International Financial Services Centres Authority (IFSCA) and GIFT City, under the aegis of Government of India, the [&#8230;]
+
+Wed, 06 Dec 2023 16:15:17 +0000
+### [Congo presidential hopeful Fayulu fuelled by 2018 loss](https://theprint.in/world/congo-presidential-hopeful-fayulu-fuelled-by-2018-loss/1875093/)
+
+Article found but Couldn't summarize 
+By Sonia Rolley and Ange Kasongo KINSHASA (Reuters) - Congolese presidential candidate Martin Fayulu has a blunt message for voters: The 2018 election was stolen from him and he is back to fight for
+
 Wed, 06 Dec 2023 15:02:29 +0000
 ### [Teaser of Mohanlal’s ‘Malaikottai Vaaliban’ out now](https://theprint.in/feature/teaser-of-mohanlals-malaikottai-vaaliban-out-now/1875018/)
 

@@ -1,3 +1,9 @@
+2023-12-06T20:50:58+05:30
+### [Bengali Writer Shirshendhu Mukyopadhyaya Is Recipient of 2023 Kuvempu Award](https://thewire.in/the-arts/bengali-writer-shirshendhu-mukyopadhyaya-2023-kuvempu-award)
+
+No Article text 
+The writer brought "new sensibilities to his writings and enriched Indian literature through his works in the Bengali language", the citation says.
+
 2023-12-06T19:40:50+05:30
 ### [A Small Coterie, Hubris and Forgetting That the Era of ‘Doras’ Is Over: What Hurt KCR](https://thewire.in/politics/a-small-coterie-hubris-and-forgetting-that-the-era-of-doras-is-over-what-hurt-kcr)
 

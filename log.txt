@@ -900,3 +900,13 @@ Started at 2023-12-06 15:20:11
 Finished at 2023-12-06 15:23:14
 Total time taken: 183.39439225196838 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2023-12-06 16:25:38
+1 Feed entries have been written to feeds/Explained_IE.xml
+4 Feed entries have been written to feeds/Opinion_Mint.xml
+1 Feed entries have been written to feeds/The_Wire.xml
+1 Feed entries have been written to feeds/Tech_Mint.xml
+20 Feed entries have been written to feeds/ThePrint.xml
+27 new entries have been added
+Finished at 2023-12-06 16:29:08
+Total time taken: 209.53656387329102 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
