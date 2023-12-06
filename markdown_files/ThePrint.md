@@ -1,3 +1,76 @@
+Wed, 06 Dec 2023 23:16:05 +0000
+### [Soccer-Stuttering Manchester City lose 1-0 to Aston Villa](https://theprint.in/sport/soccer-stuttering-manchester-city-lose-1-0-to-aston-villa/1875449/)
+
+Aston Villa defeated Manchester City 1-0 in a Premier League match, with Leon Bailey scoring the winning goal. Villa dominated the game and deserved their victory, moving up to third place in the table. Bailey's shot deflected off Ruben Dias' foot to beat City's goalkeeper Ederson. Villa had several other chances to score, hitting the post and forcing saves from Ederson. The result leaves City in fourth place, six points behind the league leaders Arsenal. This was Villa's 14th consecutive home Premier League win. City struggled throughout the game and only managed two shots on target, their fewest ever under manager Pep Guardiola. Villa's impressive performance showcased their progress under manager Unai Emery.
+
+Wed, 06 Dec 2023 23:15:55 +0000
+### [AMD forecasts $45 billion AI chip market this year, $2 billion in sales in 2024](https://theprint.in/tech/amd-forecasts-45-billion-ai-chip-market-this-year-2-billion-in-sales-in-2024/1875447/)
+
+Article found but Couldn't summarize 
+By Max A. Cherney (Reuters) -AMD estimated there was a $45 billion market for its data center artificial intelligence processors this year as it launched a new generation of AI chips on Wednesday. The
+
+Wed, 06 Dec 2023 23:15:47 +0000
+### [GameStop misses revenue estimates on slow videogame demand, competition](https://theprint.in/tech/gamestop-misses-revenue-estimates-on-slow-videogame-demand-competition/1875445/)
+
+GameStop, the video game retailer, reported lower-than-expected revenue for the third quarter as competition increased and consumer spending decreased. The company's shift towards an online-focused model was hindered by economic uncertainty and inflation. GameStop's shares fell by nearly 3% in extended trading following the announcement. The results mark the first quarter since Ryan Cohen became GameStop's CEO and chairman. Despite the sales decline, the company managed to achieve breakeven earnings per share and reduced expenses by almost 24%. Analysts believe that GameStop will continue to face challenges and market share losses from mass merchants and e-commerce giants like Amazon.
+
+Wed, 06 Dec 2023 23:15:37 +0000
+### [US Northwest rains winding down amid record high temperatures](https://theprint.in/entertainment/us-northwest-rains-winding-down-amid-record-high-temperatures/1875444/)
+
+Article found but Couldn't summarize 
+(Reuters) - An atmospheric river that has drenched the U.S. Northwest forced more road closures on Wednesday, but the worst of the rain appeared to be winding down with record high temperatures moving
+
+Wed, 06 Dec 2023 23:15:25 +0000
+### [Greece, Turkey seek to restart relations with meetings in Athens](https://theprint.in/world/greece-turkey-seek-to-restart-relations-with-meetings-in-athens/1875442/)
+
+Turkish President Tayyip Erdogan is visiting Athens with a delegation of ministers for meetings with Greek counterparts in the hopes of improving relations between the two countries. Greece and Turkey have been at odds for years over various issues, including territorial boundaries, energy resources, Cyprus, and defence matters. Although tensions have eased recently, little progress is expected on these longstanding bilateral issues. The leaders will focus on areas of mutual benefit such as the economy, health, education, agriculture, migration, and tourism. Greece is also planning to allow Turkish citizens to apply for a seven-day tourist visa for certain islands close to the Turkish coast as a gesture of goodwill. Both countries want to demonstrate their willingness to mend ties, with Turkey seeking EU membership and Greece aiming to regain stability in the changing geopolitical landscape. Despite the positive rhetoric, some officials believe that little progress will be made on the thorny issues between the two nations.
+
+Wed, 06 Dec 2023 23:15:16 +0000
+### [Ukraine aid bill blocked in US Senate as Republicans press point on border](https://theprint.in/world/ukraine-aid-bill-blocked-in-us-senate-as-republicans-press-point-on-border/1875440/)
+
+Article found but Couldn't summarize 
+By Patricia Zengerle WASHINGTON (Reuters) -Legislation that would provide billions of dollars in new security assistance for Ukraine and Israel was blocked in the U.S. Senate on Wednesday as
+
+Wed, 06 Dec 2023 23:15:05 +0000
+### [Hiding in plain sight – Hamas leader Sinwar plotted destruction](https://theprint.in/world/hiding-in-plain-sight-hamas-leader-sinwar-plotted-destruction-2/1875438/)
+
+Yahya Sinwar, the leader of Hamas in Gaza, made a speech to supporters last year, vowing to strike Israel with fighters and rockets. His words turned out to be more than mere rhetoric when Hamas fighters breached Gaza's fence, resulting in the death of around 1,200 people and the taking of over 200 hostages. The attack, known as the "flood of Al-Aqsa," targeted the mosque in Jerusalem and was planned by Sinwar and Hamas' military leader, Mohammed Deif. Sinwar, who spent 23 years imprisoned by Israel before rising to a leadership role in Hamas, is now leading negotiations for prisoner-hostage swaps and directing military operations. He has a personal motivation to free all Palestinian prisoners held in Israeli jails. Israel considers him and other Hamas leaders to be "living on borrowed time" and is unlikely to end the conflict until Sinwar is captured or killed. Sinwar is described as devoted to Hamas and willing to endure great suffering for his cause.
+
+Wed, 06 Dec 2023 23:15:03 +0000
+### [India-born media veteran Dr Samir Shah selected as new BBC chairman](https://theprint.in/world/india-born-media-veteran-dr-samir-shah-selected-as-new-bbc-chairman/1875437/)
+
+Article found but Couldn't summarize 
+London, Dec 7 (PTI) An India-born media executive who has worked in UK broadcasting for over 40 years, Dr Samir Shah, has been announced as the UK government&#8217;s preferred candidate to take over as the new BBC chairman. The 71-year-old, who was honoured with a CBE by Queen Elizabeth II in 2019 for services to [&#8230;]
+
+Wed, 06 Dec 2023 23:00:02 +0000
+### [UK PM Rishi Sunak loses ally as immigration minister resigns](https://theprint.in/world/uk-pm-rishi-sunak-loses-ally-as-immigration-minister-resigns/1875436/)
+
+Britain's Immigration Minister, Robert Jenrick, has resigned from Prime Minister Rishi Sunak's Cabinet due to disagreements over the government's policy of deporting illegal migrants to Rwanda. Jenrick expressed his belief that the emergency legislation presented by Home Secretary James Cleverly did not go far enough to address the issue. He argued for a clear piece of legislation that would limit legal challenges to the government's immigration policy. Sunak responded by stating that the proposed bill would be the toughest ever introduced by the UK government. The move is seen as a setback for Sunak as he prepares for the 2024 general election. The opposition Labour Party criticized the Conservatives for presiding over a "chaotic" government. The Safety of Rwanda Bill will be tabled in the House of Commons, aiming to control the borders and deter dangerous journeys across the English Channel.
+
+Wed, 06 Dec 2023 22:32:01 +0000
+### [In rare move, UN Secretary-General Guterres invokes Article 99 amid Gaza war](https://theprint.in/world/in-rare-move-un-secretary-general-guterres-invokes-article-99-amid-gaza-war/1875434/)
+
+Article found but Couldn't summarize 
+New York [US], December 7 (ANI): In a rare move, United Nations Secretary-General Antonio Guterres invoked Article 99 of the UN Charter and formally referred the situation in Gaza to the UN Security Council, urging its members to &#8220;avert a humanitarian catastrophe&#8221; in the besieged enclave, CNN reported on Wednesday. According to the report, Guterres [&#8230;]
+
+Wed, 06 Dec 2023 22:16:07 +0000
+### [Soccer-Stuttgart power past Dortmund 2-0 to reach German Cup last eight](https://theprint.in/sport/soccer-stuttgart-power-past-dortmund-2-0-to-reach-german-cup-last-eight/1875432/)
+
+Article found but Couldn't summarize 
+STUTTGART, Germany (Reuters) - Second-half goals from Serhou Guirassy and Silas gave VfB Stuttgart a 2-0 victory over Borussia Dortmund on Wednesday, securing a spot in the German Cup last eight.
+
+Wed, 06 Dec 2023 22:15:58 +0000
+### [Russian co-founder of crypto exchange Bitzlato pleads guilty in US](https://theprint.in/tech/russian-co-founder-of-crypto-exchange-bitzlato-pleads-guilty-in-us/1875431/)
+
+Article found but Couldn't summarize 
+By Luc Cohen NEW YORK (Reuters) -The co-founder of Hong Kong-registered virtual currency exchange Bitzlato, a Russian national who U.S. authorities have accused of processing about $700 million in
+
+Wed, 06 Dec 2023 22:15:49 +0000
+### [GameStop misses quarterly revenue estimates on sluggish videogame demand](https://theprint.in/tech/gamestop-misses-quarterly-revenue-estimates-on-sluggish-videogame-demand/1875429/)
+
+Article found but Couldn't summarize 
+(Reuters) -GameStop missed quarterly revenue estimates on Wednesday as consumers dialed back spending in an uncertain economy, hampering the videogame retailer's pivot to a more online-focused model.
+
 Wed, 06 Dec 2023 22:15:34 +0000
 ### [Stocks slip, 10-year Treasury yield falls as rate cut timing weighed](https://theprint.in/economy/stocks-slip-10-year-treasury-yield-falls-as-rate-cut-timing-weighed/1875427/)
 
