@@ -1,3 +1,119 @@
+Wed, 06 Dec 2023 07:17:02 +0000
+### [JP Morgan Chase unveils financial and capital markets outlook for 2024](https://theprint.in/economy/jp-morgan-chase-unveils-financial-and-capital-markets-outlook-for-2024/1874179/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 6 (ANI): In the second instalment of our three-part 2024 outlook series, JP Morgan Chase delved into the financial and capital markets, exploring trends, and offering forecasts across various sectors, including interest rates, commodities, FX, and issuance volumes. The year 2023 witnessed a robust performance in major indices, driven primarily by [&#8230;]
+
+Wed, 06 Dec 2023 07:15:40 +0000
+### [Exclusive-China EV maker Nio to spin off its battery production unit -sources](https://theprint.in/tech/exclusive-china-ev-maker-nio-to-spin-off-its-battery-production-unit-sources/1874177/)
+
+Chinese electric vehicle manufacturer Nio is planning to spin off its battery manufacturing unit in a bid to reduce costs and improve efficiency, according to anonymous sources. Led by experienced engineers from Apple and Panasonic, the nascent battery unit will seek external investors and could be spun off by the end of the year. Nio intends to continue in-house research and development on batteries but plans to outsource all manufacturing. The company currently purchases batteries from CATL and CALB Group. The spin-off aligns with Nio's strategy to turn profitable sooner, as it aims to develop and manufacture some batteries internally while outsourcing production to other suppliers. This move will involve the transfer of top engineers to the new firm and the merging of some staff into other departments. Nio hired these engineers to facilitate mass production of large cylindrical cells similar to Tesla's 4680 at a planned plant in China's Anhui province. The assets to be spun off may include the planned plant, testing equipment, and intellectual property. Nio reported a loss of $637.06 million in Q3 and aims to improve profitability over the next three years by deferring its plan to bring battery production in-house. The company has also undertaken measures to reduce costs, including trimming its workforce and deferring long-term investments. Nio is expanding abroad and considering building a dealer network in Europe to accelerate sales growth.
+
+Wed, 06 Dec 2023 07:15:32 +0000
+### [Analysis-Sovereign wealth funds struggle to turn their trillions to climate finance](https://theprint.in/environment/analysis-sovereign-wealth-funds-struggle-to-turn-their-trillions-to-climate-finance/1874176/)
+
+Article found but Couldn't summarize 
+By Libby George and Hadeel Al Sayegh LONDON/DUBAI (Reuters) - Sovereign wealth funds that control nearly $12 trillion in assets are unlikely to quickly dismantle the hurdles in the way of urgently
+
+Wed, 06 Dec 2023 07:15:27 +0000
+### [Vast village heat pump tests one route to net zero for rural Britain](https://theprint.in/environment/vast-village-heat-pump-tests-one-route-to-net-zero-for-rural-britain/1874175/)
+
+Article found but Couldn't summarize 
+By Kate Holton, Natalie Thomas and Hannah McKay SWAFFHAM PRIOR, England (Reuters) - In a quiet field in eastern England a vast heat pump generates enough warmth to supply houses throughout a historic
+
+Wed, 06 Dec 2023 07:15:24 +0000
+### [Maruti, Mahindra, Audi, Hyundai extend support to customers in cyclone-hit areas of Tamil Nadu, Andhra](https://theprint.in/economy/maruti-mahindra-audi-hyundai-extend-support-to-customers-in-cyclone-hit-areas-of-tamil-nadu-andhra/1874174/)
+
+Maruti Suzuki India, Mahindra & Mahindra, Hyundai Motor, and Audi are providing assistance to customers affected by cyclones and floods in Tamil Nadu and Andhra Pradesh. Maruti Suzuki sent SMS alerts to its customers containing precautionary measures before the cyclone hit and mobilized tow trucks and roadside assistance vehicles for quick response. Mahindra & Mahindra offered complimentary roadside assistance, inspections, damage assessment, and financial relief to customers in affected areas. Audi announced 24x7 complimentary roadside assistance for customer cars impacted by the floods. Hyundai Motor India Foundation provided financial support and emergency relief to affected communities in Tamil Nadu.
+
+Wed, 06 Dec 2023 07:15:21 +0000
+### [Some Australian farmers get a boost from above-average Nov rains](https://theprint.in/environment/some-australian-farmers-get-a-boost-from-above-average-nov-rains/1874173/)
+
+Australia's weather bureau reported that rainfall in November was 37.8% above the average from 1961-1990, providing relief to farmers after a dry period. However, the overall rainfall during the southern hemisphere spring was 20.1% below average, the lowest since 2019. Soil moisture levels remain below average in parts of southern Australia, Western Australia, and along the eastern and northern coasts. This year's wheat crop is expected to be 37% less than last year, with rain impacting the harvest's quality. On a positive note, the rain has benefited summer crops and increased livestock prices. The weather bureau predicts a hotter than usual summer with below median rainfall in certain regions.
+
+Wed, 06 Dec 2023 07:15:14 +0000
+### [Man, his 11-year-old daughter and teenage son drown in well in MP village](https://theprint.in/india/man-his-11-year-old-daughter-and-teenage-son-drown-in-well-in-mp-village/1874171/)
+
+Article found but Couldn't summarize 
+Seoni (MP), Dec 6 (PTI) A man, his 11-year-old daughter and a teenage son drowned in a well at a village in Seoni district of Madhya Pradesh, police said on Wednesday. The incident occurred on Tuesday evening in Dhaparahar village located in Dhuma police station limits, an official said. The victim, Subhash Sahu (50), had [&#8230;]
+
+Wed, 06 Dec 2023 07:15:05 +0000
+### [China says its fighters shadowed US Navy patrol plane over Taiwan Strait](https://theprint.in/world/china-says-its-fighters-shadowed-us-navy-patrol-plane-over-taiwan-strait/1874170/)
+
+Article found but Couldn't summarize 
+BEIJING (Reuters) -China's military said on Wednesday it sent fighter jets to monitor and warn a U.S. Navy patrol aircraft that flew over the sensitive Taiwan Strait, a mission that took place weeks
+
+Wed, 06 Dec 2023 07:15:03 +0000
+### [Senior lawyer Dushyant Dave writes to CJI over listing of cases in SC](https://theprint.in/india/senior-lawyer-dushyant-dave-writes-to-cji-over-listing-of-cases-in-sc/1874169/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 6 (PTI) Senior advocate Dushyant Dave on Wednesday wrote to Chief Justice of India D Y Chandrachud expressing anguish over &#8220;certain happenings&#8221; in the listing of cases and their reallocation to other benches in the Supreme Court and sought immediate corrective measures. The open letter comes a day after Supreme Court judge [&#8230;]
+
+Wed, 06 Dec 2023 07:10:37 +0000
+### [Neeraj Chopra is sharpening his javelin for Paris. He has to prove Tokyo was no lucky toss](https://theprint.in/ground-reports/neeraj-chopra-is-sharpening-his-javelin-for-paris-he-has-to-prove-tokyo-was-no-lucky-toss/1873710/)
+
+Article found but Couldn't summarize 
+Olympian Neeraj Chopra has just wrapped up a brief break at his Panipat home. Now, he’s off to South Africa to train for Paris. ‘Sports is like war,’ his father says.
+
+Wed, 06 Dec 2023 07:02:11 +0000
+### [ED attaches properties worth Rs 64.53 lakh in DA case against former Magadh University VC](https://theprint.in/economy/ed-attaches-properties-worth-rs-64-53-lakh-in-da-case-against-former-magadh-university-vc/1874165/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 6 (ANI): The Enforcement Directorate (ED) has provisionally attached immovable and movable properties valued at Rs 64.53 lakh under the Prevention of Money Laundering Act, 2002 (PMLA). The action is part of an investigation into a Disproportionate Assets (DA) case involving Dr Rajendra Prasad, the former Vice Chancellor of Magadh University. [&#8230;]
+
+Wed, 06 Dec 2023 07:02:02 +0000
+### [RCS is back! Messages cross 50 million a month on Gupshup’s platform in India](https://theprint.in/ani-press-releases/rcs-is-back-messages-cross-50-million-a-month-on-gupshups-platform-in-india/1874163/)
+
+Article found but Couldn't summarize 
+PRNewswire Mumbai (Maharashtra) [India]/ San Francisco (California) [US], December 6: Gupshup.io, the leading Conversational Engagement Platform saw more than 50 million monthly RCS (Rich Communication Services) Business Messages sent through its platform in less than six months of the messaging channel&#8217;s relaunch in India. In particular during the festive season, the RCS traffic grew almost [&#8230;]
+
+Wed, 06 Dec 2023 07:00:52 +0000
+### [UP: Revenue dept employee, assistant arrested while accepting bribe](https://theprint.in/india/up-revenue-dept-employee-assistant-arrested-while-accepting-bribe/1874162/)
+
+Article found but Couldn't summarize 
+Ballia (UP), Dec 6 (PTI) A revenue department employee and his assistant have been arrested for taking a bribe of Rs 5,000 for measuring a piece of land, police said on Wednesday. A team of the Anti-Corruption Organization&#8217;s Azamgarh unit caught Lekhpal Navneet Kharwar and his assistant Chunnu Kumar red-handed while taking the bribe on [&#8230;]
+
+Wed, 06 Dec 2023 07:00:42 +0000
+### [Cold condition intensifies in Kashmir; night temperature below freezing point](https://theprint.in/india/cold-condition-intensifies-in-kashmir-night-temperature-below-freezing-point/1874161/)
+
+Article found but Couldn't summarize 
+Srinagar, Dec 6 (PTI) The minimum temperature across Kashmir settled below the freezing point as the cold conditions intensified in the valley, officials said on Wednesday. Srinagar, the summer capital of Jammu and Kashmir, recorded a low of minus 2 degrees Celsius, down from minus 1.4 degrees Celsius the previous night, they said. Pahalgam in [&#8230;]
+
+Wed, 06 Dec 2023 07:00:32 +0000
+### [4 tourists from Ker who died in J&K remembered as hardworking youth by their village in Palakkad](https://theprint.in/india/4-tourists-from-ker-who-died-in-jk-remembered-as-hardworking-youth-by-their-village-in-palakkad/1874160/)
+
+Article found but Couldn't summarize 
+Palakkad (Kerala), Dec 6 (PTI) The four young men from Chittur in this north Kerala district who died in a car accident in Jammu and Kashmir on December 5 are remembered by their village as &#8220;hardworking youth&#8221; who used to go on such trips everywhere. The four &#8212; Sudesh, Anil, Rahul and Vignesh &#8212; were [&#8230;]
+
+Wed, 06 Dec 2023 07:00:23 +0000
+### [We have to stand by values of Ambedkar: CJI](https://theprint.in/india/we-have-to-stand-by-values-of-ambedkar-cji/1874159/)
+
+The Chief Justice of India, D Y Chandrachud, along with other judges of the Supreme Court, paid tributes to B R Ambedkar on his death anniversary. The CJI emphasized the importance of upholding the values of Dr. Ambedkar and mentioned the installation of Ambedkar's statue at the Supreme Court, considering it a historic occasion. The CJI and his colleagues expressed their deep honor in paying homage to the architect of the Indian Constitution. President Droupadi Murmu had earlier unveiled the statue on November 26 as part of the Constitution Day celebrations.
+
+Wed, 06 Dec 2023 07:00:13 +0000
+### [ZPM leader Lalduhoma to take oath as Mizoram CM on Friday](https://theprint.in/india/zpm-leader-lalduhoma-to-take-oath-as-mizoram-cm-on-friday/1874158/)
+
+Article found but Couldn't summarize 
+Aizawl, Dec 6 (PTI) Zoram People&#8217;s Movement leader Lalduhoma will take oath as the Mizoram chief minister on Friday, Raj Bhavan sources said. Lalduhoma called on Governor Hari Babu Kambhampati on Wednesday to stake a claim to form the government. &#8220;Lalduhoma will be sworn in as the chief minister on Friday at a function to [&#8230;]
+
+Wed, 06 Dec 2023 07:00:03 +0000
+### [India to probe Apollo Hospital Delhi’s alleged links to ‘cash for kidneys’ scandal](https://theprint.in/india/india-to-probe-apollo-hospital-delhis-alleged-links-to-cash-for-kidneys-scandal/1874156/)
+
+Article found but Couldn't summarize 
+By Aditya Kalra and Rishika Sadam NEW DELHI/HYDERABAD (Reuters) - India's health ministry has ordered a probe into Apollo Hospital Delhi, part of largest private hospital chain Apollo Hospitals, after
+
+Wed, 06 Dec 2023 07:00:03 +0000
+### [The climate change we caused is here for at least 50,000 years – and probably far longer](https://theprint.in/world/the-climate-change-we-caused-is-here-for-at-least-50000-years-and-probably-far-longer-2/1874155/)
+
+Article found but Couldn't summarize 
+Leicester (UK), Dec 6 (The Conversation) In February 2000, Paul Crutzen rose to speak at the International Geosphere-Biosphere Programme in Mexico. And when he spoke, people took notice. He was then one of the world’s most cited scientists, a Nobel laureate working on huge-scale problems – the ozone hole, the effects of a nuclear winter. [&#8230;]
+
+Wed, 06 Dec 2023 06:47:38 +0000
+### [European International University’s Prestigious Event Culminates in Honorary Doctorate and World Peace Ambassador Designation for Dr Sangramsinh Mali](https://theprint.in/ani-press-releases/european-international-universitys-prestigious-event-culminates-in-honorary-doctorate-and-world-peace-ambassador-designation-for-dr-sangramsinh-mali/1874151/)
+
+Article found but Couldn't summarize 
+India PR Distribution New Delhi [India], December 6: The European International University, authorized by the French Ministry of National Education, recently hosted a prestigious event in Bangkok on December 3rd, 2023. Dr Sangramsinh Mali, a renowned global peace advocate, was honored for his exceptional contributions to societal well-being and spiritual literacy, culminating in the conferral [&#8230;]
+
 Wed, 06 Dec 2023 06:17:48 +0000
 ### [Manipal Hospitals Whitefield Introduces Innovative Healthcare Initiatives: Adult Vaccination Program and Neighbourhood Desk](https://theprint.in/ani-press-releases/manipal-hospitals-whitefield-introduces-innovative-healthcare-initiatives-adult-vaccination-program-and-neighbourhood-desk/1874106/)
 

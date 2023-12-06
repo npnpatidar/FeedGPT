@@ -1,3 +1,8 @@
+Wed, 06 Dec 2023 11:56:14 +0530
+### [Elon Musk made the Tesla Cybertruck so strong, it may be illegal in the EU. Here’s why](https://www.firstpost.com/tech/auto-tech/elon-musk-made-the-cybertruck-so-strong-it-may-be-illegal-in-the-eu-heres-why-13471122.html)
+
+The European Union (EU) may not allow the sale of Tesla's Cybertruck due to safety concerns. The Cybertruck lacks proper crumple zones, which are essential for reducing the impact of crashes and protecting pedestrians. While Elon Musk has boasted about the strength of the Cybertruck, its construction and lack of a crumple zone make it illegal for road use in the EU. The car's high-grade stainless steel body ensures the safety of occupants inside but poses a greater risk to those outside the vehicle in case of an accident.
+
 Wed, 06 Dec 2023 10:01:09 +0530
 ### [Apple warns India against EU-like USB-C rules for iPhones, says move will hit local production targets](https://www.firstpost.com/tech/apple-warns-india-against-eu-like-usb-c-rules-for-iphones-says-move-will-hit-local-production-targets-13470772.html)
 

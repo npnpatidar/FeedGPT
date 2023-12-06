@@ -1,3 +1,8 @@
+Wed, 06 Dec 2023 06:50:02 +0000
+### [On December 6, a question: How many election wins absolve the criminal destruction of Babri Masjid?](https://indianexpress.com/article/opinion/how-many-elections-absolve-destruction-of-babri-masjid-december-6-9056611/)
+
+The article discusses the demolition of the Babri Masjid in India on December 6, 1992, and the subsequent construction of a temple in its place. The author raises questions about the morality and consequences of this act. They highlight that the current government considers the temple a source of pride and has used it as a campaign strategy in elections. Despite the legal system deeming the destruction criminal, no one is held accountable. The author contemplates whether the popular support and court decisions make the demolition "right." They also suggest that focusing on past events may distract from pressing issues such as unemployment, poverty, and crime in the present. However, the article argues that there is something inherently wrong about celebrating an edifice built upon destruction. It reminds readers about the importance of basic morality and the struggle to reconcile personal convictions with societal attitudes.
+
 Wed, 06 Dec 2023 02:15:36 +0000
 ### [December 6, Forty Years Ago: Opposition demand over arrest of Jarnail Singh Bhindranwale](https://indianexpress.com/article/opinion/40-years-ago/december-6-forty-years-ago-opposition-demand-9056014/)
 

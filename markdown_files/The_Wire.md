@@ -1,3 +1,15 @@
+2023-12-06T12:29:50+05:30
+### [From 10,355 in 2019 to 13,089 in 2021, Student Suicides Saw a Sharp Rise: Govt Data](https://thewire.in/education/from-10355-in-2019-to-13089-in-2021-student-suicides-see-a-sharp-rise)
+
+No Article text 
+Union minister of state for social justice and empowerment Abbaiah Narayanaswamy informed the parliament that a total of 35,950 students had died by suicide between 2019 and 2021.
+
+2023-12-06T12:00:10+05:30
+### [SC Registry Isn't Listing Cases the Way it Is Supposed to: A Letter to the CJI](https://thewire.in/law/sc-registry-isnt-listing-cases-the-way-it-is-supposed-to-a-letter-to-the-cji)
+
+No Article text 
+Dushyant Dave has appealed to the CJI to look into these matters, particularly the re-assignment of important cases, and intervene.
+
 2023-12-06T11:08:46+05:30
 ### [Ready for J&K Elections, Onus on Election Commission to Announce Schedule: Centre](https://thewire.in/government/ready-for-jk-elections-onus-on-election-commission-to-announce-schedule-centre)
 
