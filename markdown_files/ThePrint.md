@@ -1,3 +1,120 @@
+Wed, 06 Dec 2023 06:17:48 +0000
+### [Manipal Hospitals Whitefield Introduces Innovative Healthcare Initiatives: Adult Vaccination Program and Neighbourhood Desk](https://theprint.in/ani-press-releases/manipal-hospitals-whitefield-introduces-innovative-healthcare-initiatives-adult-vaccination-program-and-neighbourhood-desk/1874106/)
+
+Manipal Hospitals in Bengaluru has launched two initiatives aimed at enhancing healthcare in the community. The first initiative is an Adult Vaccination Program, which aims to address the lack of awareness about the importance of adult vaccinations. The program focuses on educating and guiding individuals on travel vaccine guidelines, advocating for pre and post menopause vaccinations, and highlighting the importance of vaccinations for senior citizens. Additionally, Manipal Hospitals will hold panel discussions featuring healthcare experts to disseminate crucial information about adult vaccinations. The second initiative is the introduction of Neighbourhood Desks within the hospital premises. These desks aim to provide personalized care and assistance to patients, addressing their queries and concerns. Manipal Hospitals believes that these initiatives will contribute to building a healthier and more informed community.
+
+Wed, 06 Dec 2023 06:17:38 +0000
+### [Adani Green Energy ranks among top 3 global solar photovoltaic developer](https://theprint.in/economy/adani-green-energy-ranks-among-top-3-global-solar-photovoltaic-developer/1874104/)
+
+Article found but Couldn't summarize 
+Ahmedabad (Gujarat) [India], December 6 (ANI): Leading renewable energy solutions company Adani Green Energy Limited has attained the position of the second-largest global solar photovoltaic (PV) developer, in Mercom Capital Group&#8217;s latest annual global report. According to the report, the Adani Group company&#8217;s outstanding performance and contribution to the renewable energy landscape have earned it [&#8230;]
+
+Wed, 06 Dec 2023 06:17:29 +0000
+### [U GRO Capital and Laghu Udyog Bharati partners to empower the MSMEs](https://theprint.in/ani-press-releases/u-gro-capital-and-laghu-udyog-bharati-partners-to-empower-the-msmes/1874102/)
+
+U GRO Capital, a DataTech NBFC focused on MSME lending, and Laghu Udyog Bharati, an organization supporting micro-enterprises, have launched an awareness campaign to empower India's micro-enterprises. The collaboration aims to educate small businesses about government schemes, digital credit, and strategies for success. The importance of MSMEs in India's economy cannot be overstated, as they contribute significantly to employment generation and overall economic growth. The partnership will host seminars and workshops across India to provide education and support to small businesses. U GRO Capital's innovative financial products and underwriting model will aid in extending credit to micro-enterprises. Laghu Udyog Bharati, being the largest MSME association in the country, is keen on fulfilling the needs of Micro and Small Enterprises. The collaboration is expected to bring transformative impact to micro-enterprises, promoting their growth and success.
+
+Wed, 06 Dec 2023 06:17:20 +0000
+### [Gujarat Anganwadi Transformation Challenge organized by Government of Gujarat & UNICEF](https://theprint.in/ani-press-releases/gujarat-anganwadi-transformation-challenge-organized-by-government-of-gujarat-unicef/1874100/)
+
+The Department of Women and Child Development, Government of Gujarat, UNICEF, and Elixir organized the 'Gujarat Anganwadi Transformation Challenge' workshop in Ahmedabad. The aim of the workshop is to improve the quality and effectiveness of Anganwadi centers, which are crucial in a child's development. The collaboration between the government and UNICEF seeks to make these centers child-friendly, gender-sensitive, inclusive, and climate-resilient by using creativity, technology, and collective intellect. The workshop explores how startups can adapt and tailor solutions to meet the diverse needs of children, mothers, and communities. The Secretary of the Department of Women & Child Development invited shortlisted teams to collaborate closely with the department and UNICEF to further develop their ideas. The Anganwadi Transformation Hackathon aims to revitalize Anganwadi centers as centers of excellence in early childhood care and development. It brought together stakeholders, experts, and mentors to brainstorm innovative strategies. The outcomes and impact of implemented solutions will be shared with the public and relevant stakeholders to inspire others and contribute to improving early childhood development.
+
+Wed, 06 Dec 2023 06:17:11 +0000
+### [Harness the Cloud Revolution with Scale and Security](https://theprint.in/ani-press-releases/harness-the-cloud-revolution-with-scale-and-security/1874098/)
+
+Article found but Couldn't summarize 
+VMPL Bengaluru (Karnataka) [India], December 6: The cloud industry is not just adapting, but moving in leaps and bounds bringing great scale and cost efficiency to organizations. Transformative trends such as Cloud at the Edge, AI in the Cloud, Multi-Cloud solutions, Data Privacy in the Cloud, etc are scripting the future of technology. According to [&#8230;]
+
+Wed, 06 Dec 2023 06:17:02 +0000
+### [Voice of Crypto Partners With India’s Top Web3 Events](https://theprint.in/ani-press-releases/voice-of-crypto-partners-with-indias-top-web3-events/1874096/)
+
+Article found but Couldn't summarize 
+PNN New Delhi [India], December 6: One thing that is constant in the realm of cryptocurrency is its dynamic and volatile nature. If you are a crypto or blockchain enthusiast or have anything to do with this realm for that matter, staying ahead of the curve would require you to not just have expertise in [&#8230;]
+
+Wed, 06 Dec 2023 06:15:54 +0000
+### [HSBC tests protecting FX trading from quantum computer attacks](https://theprint.in/tech/hsbc-tests-protecting-fx-trading-from-quantum-computer-attacks/1874093/)
+
+Article found but Couldn't summarize 
+By Sinead Cruise and Lawrence White LONDON (Reuters) - HSBC has completed what it says is the world's first trial of a tool designed to protect highly sensitive financial data from cyber criminals
+
+Wed, 06 Dec 2023 06:15:52 +0000
+### [Digital India Act unlikely to be in place before next general election: MoS IT Rajeev Chandrasekhar](https://theprint.in/economy/digital-india-act-unlikely-to-be-in-place-before-next-general-election-mos-it-rajeev-chandrasekhar/1874091/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 6 (PTI) The government may not be able to put in place the Digital India Act, which aims to replace over 23 years old IT Act 2000, before the next general election, as there is not much time left for extensive consultation, minister of state for electronics and IT Rajeev Chandrasekhar said [&#8230;]
+
+Wed, 06 Dec 2023 06:15:46 +0000
+### [Disputed landmark AI rules face crunch EU talks](https://theprint.in/tech/disputed-landmark-ai-rules-face-crunch-eu-talks/1874089/)
+
+Article found but Couldn't summarize 
+By Foo Yun Chee, Supantha Mukherjee and Martin Coulter BRUSSELS/STOCKHOLM/LONDON (Reuters) - European Union ambitions to take a lead in landmark rules for artificial intelligence hang in the balance
+
+Wed, 06 Dec 2023 06:15:42 +0000
+### [Rajput leader’s killing: Hunt on for two accused, protests in parts of Rajasthan](https://theprint.in/india/rajput-leaders-killing-hunt-on-for-two-accused-protests-in-parts-of-rajasthan/1874088/)
+
+Article found but Couldn't summarize 
+Jaipur, Dec 6 (PTI) The Rajasthan Police on Wednesday carried out searches to nab the two accused behind the killing of Rajput leader and national president of Shri Rashtriya Rajput Karni Sena Sukhdev Singh Gogamedi. Jaipur Police Commissioner Biju Geroge Joseph told PTI that the two accused, who shot dead Gogamedi as well as Naveen [&#8230;]
+
+Wed, 06 Dec 2023 06:15:31 +0000
+### [ED attaches assets of former Magadh University VC in money laundering case](https://theprint.in/india/ed-attaches-assets-of-former-magadh-university-vc-in-money-laundering-case/1874087/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 6 (PTI) The Enforcement Directorate has attached properties of a former vice-chancellor of Magadh University in Bihar as part of its money laundering investigation against him linked to alleged possession of disproportionate assets. The action was taken against Dr Rajendra Prasad, the former vice-chancellor of the Bodh Gaya-based university. Immovable properties worth [&#8230;]
+
+Wed, 06 Dec 2023 06:15:27 +0000
+### [Rescuers pull out first survivor of Zambia landslide that trapped 25 miners](https://theprint.in/world/rescuers-pull-out-first-survivor-of-zambia-landslide-that-trapped-25-miners/1874086/)
+
+Article found but Couldn't summarize 
+LUSAKA (Reuters) - Rescue workers in Zambia have pulled out the first survivor of a Dec. 1 landslide that inundated a open-pit copper mine and trapped at least 25 people who were working there without
+
+Wed, 06 Dec 2023 06:15:17 +0000
+### [Education in times of war: Experts say need to ensure generations do not bear the brunt](https://theprint.in/world/education-in-times-of-war-experts-say-need-to-ensure-generations-do-not-bear-the-brunt/1874084/)
+
+Article found but Couldn't summarize 
+Doha (Qatar), Dec 6 (PTI) With universities and schools lying in rubble in Gaza and Ukraine, experts have underlined the urgent need to protect education at all costs to mitigate the effects of the war and ensure that the coming generations do not bear the brunt of raging conflicts. Stressing the need to recognise that [&#8230;]
+
+Wed, 06 Dec 2023 06:15:15 +0000
+### [Ukrainians prepare for a long war. Will the West stay the course?](https://theprint.in/world/ukrainians-prepare-for-a-long-war-will-the-west-stay-the-course/1874083/)
+
+Article found but Couldn't summarize 
+By Tom Balmforth KYIV (Reuters) - Oleksii Tilnenko hoped this would be the year Ukraine drove Russian forces out of swathes of occupied land. As 2023 draws to a close, his southern hometown of Kherson
+
+Wed, 06 Dec 2023 06:15:04 +0000
+### [US Navy patrol plane flies over sensitive Taiwan Strait](https://theprint.in/world/us-navy-patrol-plane-flies-over-sensitive-taiwan-strait/1874081/)
+
+Article found but Couldn't summarize 
+BEIJING (Reuters) - A U.S. Navy patrol aircraft flew through the sensitive Taiwan Strait on Wednesday, the U.S. military said, describing the mission as a demonstration of the country's commitment to
+
+Wed, 06 Dec 2023 06:15:03 +0000
+### [Widespread rains in Odisha as cyclone Michaung weakens into depression](https://theprint.in/india/widespread-rains-in-odisha-as-cyclone-michaung-weakens-into-depression/1874080/)
+
+Article found but Couldn't summarize 
+Bhubaneswar, Dec 6 (PTI) With the remnants of cyclonic storm Michaung weakening into a depression, Odisha&#8217;s southern areas received moderate rainfall on Wednesday while the Gajapati district administration announced the closure of all schools due to heavy downpour, officials said. The remnants of cyclonic storm Michaung weakened into a depression and lay centered at 5.30 [&#8230;]
+
+Wed, 06 Dec 2023 06:10:54 +0000
+### [Technology ‘enduring component’ of India-US ties — America’s acting envoy for critical & emerging tech](https://theprint.in/diplomacy/technology-enduring-component-of-india-us-ties-americas-acting-envoy-for-critical-emerging-tech/1874035/)
+
+Article found but Couldn't summarize 
+Speaking at Global Technology Summit organised by MEA &#38; Carnegie India., Seth Center says India-US Initiative on Critical and Emerging Technologies central to ties between both countries.
+
+Wed, 06 Dec 2023 06:02:11 +0000
+### [“Met the King”: Vir Das shares picture with Shah Rukh Khan from ‘The Archies’ premiere](https://theprint.in/feature/met-the-king-vir-das-shares-picture-with-shah-rukh-khan-from-the-archies-premiere/1874071/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 6 (ANI): Actor and comedian Vir Das on Tuesday attended the grand premiere of Zoya Akhtar&#8217;s film &#8216;The Archies&#8217; at the Nita Mukesh Ambani Cultural Centre in Mumbai. Several celebs including Shah Rukh Khan, Amitabh Bachchan, Abhishek Bachchan, Ranveer Singh, Ranbir Kapoor among others marked their presence at the gala night. [&#8230;]
+
+Wed, 06 Dec 2023 06:02:01 +0000
+### [Rural-fintech Startup Navadhan Raises USD 5M Led by Prime Venture Partners](https://theprint.in/ani-press-releases/rural-fintech-startup-navadhan-raises-usd-5m-led-by-prime-venture-partners/1874069/)
+
+Article found but Couldn't summarize 
+BusinessWire India Mumbai (Maharashtra) [India], December 6: Rural-fintech Navadhan, today announced that it has raised 40 Cr (USD 5M) in its Pre-Series A round led by Prime Venture Partners. Existing investors, Varanium NexGen Fintech Fund and Gemba Capital also participated in the round. The new funds will be used to further enhance the company&#8217;s AceN [&#8230;]
+
+Wed, 06 Dec 2023 06:00:52 +0000
+### [Rugby-Japan’s Horie to retire at end of season](https://theprint.in/sport/rugby-japans-horie-to-retire-at-end-of-season/1874066/)
+
+Article found but Couldn't summarize 
+(Reuters) - Japan hooker Shota Horie said on Wednesday he will retire from the sport at the end of the local domestic season, bringing an end to a career that has spanned four World Cups. Horie, who
+
 Wed, 06 Dec 2023 05:17:25 +0000
 ### [‘Badalta Kashmir’: Young rappers sing about positive changes in Valley](https://theprint.in/feature/badalta-kashmir-young-rappers-sing-about-positive-changes-in-valley/1874027/)
 

@@ -1,3 +1,9 @@
+2023-12-06T11:08:46+05:30
+### [Ready for J&K Elections, Onus on Election Commission to Announce Schedule: Centre](https://thewire.in/government/ready-for-jk-elections-onus-on-election-commission-to-announce-schedule-centre)
+
+No Article text 
+Since the dissolution of the erstwhile state legislature in 2018, J&amp;K has been under President's Rule. Contrary to the official statements, there are allegations that the BJP unit in the Union territory is not ready to face polls anytime soon.
+
 2023-12-06T10:41:49+05:30
 ### [Rajasthan: BJP MLA Who Shut Down Meat Shops a Day After Election Win Apologises](https://thewire.in/communalism/rajasthan-bjp-mla-who-shut-down-meat-shops-a-day-after-election-win-apologises)
 

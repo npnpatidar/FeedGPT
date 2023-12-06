@@ -1,3 +1,14 @@
+Wed, 06 Dec 2023 11:22:46 +0530
+### [Instagram faces backlash over glitch muting earliest videos: Here's what happened](https://www.livemint.com/technology/tech-news/instagram-faces-backlash-over-glitch-muting-earliest-videos-heres-what-happened-11701841612266.html)
+
+Instagram users are experiencing a glitch where audio is disappearing from their oldest videos posted on the platform, specifically affecting videos from 2014 and earlier. This issue is not related to copyright concerns, as Instagram usually notifies users in such cases. The problem seems to be limited to Instagram, as the videos play with sound when embedded on other platforms. Meta, the parent company of Instagram, is aware of the problem and working to fix it. In the meantime, there is no known solution to restore audio on the platform, but users can watch these videos with sound when embedded elsewhere.
+
+Wed, 06 Dec 2023 11:07:39 +0530
+### [From OnePlus Nord CE 3 Lite 5G to Samsung Galaxy M34; Top 5 smartphones you can buy under  ₹20,000 in December 2023](https://www.livemint.com/technology/gadgets/from-oneplus-nord-ce-3-lite-5g-to-samsung-galaxy-m34-top-5-smartphones-you-can-buy-under-rs-20-000-in-december-2023-11701837195892.html)
+
+Article found but Couldn't summarize 
+OnePlus Nord CE 3 Lite 5G, Samsung Galaxy M34 5G, iQOO Z7s 5G, Redmi Note 12 Pro 5G are among the top smartphones you can buy under  ₹20,000.
+
 Wed, 06 Dec 2023 10:45:46 +0530
 ### [Garena Free Fire Max redeem codes for Dec 06, 2023: Grab daily exciting rewards](https://www.livemint.com/technology/garena-free-fire-max-redeem-codes-for-dec-06-2023-grab-daily-exciting-rewards-11701839407129.html)
 

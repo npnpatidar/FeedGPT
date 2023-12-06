@@ -1,3 +1,15 @@
+Wed, 06 Dec 2023 11:49:19 +0530
+### [No power, no food: How Andhra Pradesh, Tamil Nadu are reeling from Cyclone Michaung](https://www.firstpost.com/explainers/no-power-no-food-how-andhra-pradesh-tamil-nadu-are-reeling-from-cyclone-michaung-13470732.html)
+
+Article found but Couldn't summarize 
+No power, no food: How Andhra Pradesh, Tamil Nadu are reeling from Cyclone Michaung
+
+Wed, 06 Dec 2023 10:41:27 +0530
+### [Did Ashok Gehlot track Sachin Pilot's phone during the 2020 rebellion in Rajasthan?](https://www.firstpost.com/explainers/did-ashok-gehlot-track-sachin-pilots-phone-during-the-2020-rebellion-in-rajasthan-13470802.html)
+
+Article found but Couldn't summarize 
+Did Ashok Gehlot track Sachin Pilot's phone during the 2020 rebellion in Rajasthan?
+
 Wed, 06 Dec 2023 10:26:25 +0530
 ### [Karni Sena chief shot dead at home: Who was Sukhdev Singh Gogamedi, who killed him?](https://www.firstpost.com/explainers/karni-sena-chief-sukhdev-singh-gogamedi-murder-rohit-godara-lawrence-bishnoi-gang-rajasthan-13470762.html)
 
