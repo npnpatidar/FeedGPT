@@ -1,3 +1,15 @@
+Thu, 07 Dec 2023 00:20:00 +0530
+### [Power to the people: On Telangana as a potentially rewarding challenge for the Congress](https://www.thehindu.com/opinion/editorial/power-to-the-people-the-hindu-editorial-on-telangana-as-a-potentially-rewarding-challenge-for-the-congress/article67611584.ece)
+
+Article found but Couldn't summarize 
+The Congress has an opportunity to demonstrate its governance model in Telangana
+
+Thu, 07 Dec 2023 00:10:00 +0530
+### [Creating certainty: On the Goods and Services Tax](https://www.thehindu.com/opinion/editorial/creating-certainty-the-hindu-editorial-on-the-goods-and-services-tax/article67611026.ece)
+
+Article found but Couldn't summarize 
+Healthier inflows from GST offer policy makers the bandwidth to fix its flaws
+
 Wed, 06 Dec 2023 00:20:00 +0530
 ### [Honest reckoning: On the reality behind the commitment to renewable energy](https://www.thehindu.com/opinion/editorial/honest-reckoning-the-hindu-editorial-on-the-reality-behind-the-commitment-to-renewable-energy/article67607830.ece)
 
