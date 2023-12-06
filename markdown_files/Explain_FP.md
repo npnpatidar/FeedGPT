@@ -1,3 +1,14 @@
+Wed, 06 Dec 2023 16:26:40 +0530
+### [What is the 'cash-for-kidneys racket' at Apollo Hospitals?](https://www.firstpost.com/explainers/what-is-the-cash-for-kidneys-racket-at-apollo-hospitals-13473032.html)
+
+The Telegraph newspaper has alleged that Apollo Hospitals, India's biggest private hospital group, is involved in an illegal "cash for kidney" racket. The investigation claims that impoverished individuals from Myanmar are lured to Apollo Hospital in Delhi to sell their kidneys to wealthy patients worldwide. The hospital group has vehemently denied the allegations and called them false. The Ministry of Health in India is also investigating the matter. The racket involves forging identity documents and creating fake family ties between donors and patients. The hospital's authorization committee is described as a facade, with minimal scrutiny of the donor-recipient relationship. Apollo denies the allegations and states that they follow strict procedures, including genetic testing, to ensure compliance with applicable laws. The National Organ and Tissue Transplant Organization (NOTTO) has initiated a probe into the matter.
+
+Wed, 06 Dec 2023 15:49:26 +0530
+### [Small Wonder: The 'bionic' girl from the UK who feels no pain or hunger](https://www.firstpost.com/explainers/small-wonder-the-bionic-girl-from-the-uk-who-feels-no-pain-or-hunger-13472472.html)
+
+Article found but Couldn't summarize 
+Small Wonder: The 'bionic' girl from the UK who feels no pain or hunger
+
 Wed, 06 Dec 2023 15:07:13 +0530
 ### ['Work from home’ scams on the rise. Here’s how to stay safe](https://www.firstpost.com/explainers/work-from-home-scams-are-on-the-rise-in-india-heres-how-to-stay-safe-13472702.html)
 

@@ -1,3 +1,9 @@
+Wed, 06 Dec 2023 16:32:35 +0530
+### [Indian robotics is shackled by high duties. The government must free it](https://www.livemint.com/opinion/first-person/government-must-slash-duties-and-taxes-to-make-indian-robotics-competitive-11701859794692.html)
+
+Article found but Couldn't summarize 
+While India dreams big with its National Strategy on Robotics, high customs duties and other taxes remain a hurdle to competing with the likes of Vietnam and Thailand, let alone China
+
 Wed, 06 Dec 2023 12:52:20 +0530
 ### [Market investors gain even when they miss out on bumper IPO allotments](https://www.livemint.com/opinion/online-views/market-investors-gain-even-when-they-miss-out-on-bumper-ipo-allotments-11701839348313.html)
 

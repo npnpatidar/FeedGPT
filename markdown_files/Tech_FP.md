@@ -1,3 +1,19 @@
+Wed, 06 Dec 2023 16:38:28 +0530
+### [Volkswagen may have used forced Uyghur Muslim labour in China factory](https://www.firstpost.com/tech/volkswagen-may-have-used-forced-uyghur-muslim-labour-in-china-factory-13473262.html)
+
+Volkswagen has been accused of using forced Uyghur Muslim labor at its factory in Xinjiang, China. However, auditors investigating the claim found no evidence to support these allegations. The auditors acknowledged that data collection in China can be challenging, which may have affected the investigation. Volkswagen investors demanded clarification and an independent audit after documented abuses, including forced labor in detention camps, were revealed in the region. The audit conducted by a German human rights due diligence firm raised concerns as it was accompanied by local Chinese lawyers. Although no evidence of interned labor was found, the flawed methodology prompted the auditors to acknowledge the challenges of data collection in such investigations. Further investigations reveal close ties between Volkswagen's joint venture and an educational institution involved in reeducating Uyghur Muslims in Xinjiang. While there is no definitive proof that Volkswagen employs former inmates of internment camps, the company is closely associated with state-sponsored forced labor programs. Critics argue that Volkswagen's presence in Xinjiang could be seen as a symbol of prosperity in the region, raising concerns about the company's complicity. With Volkswagen heavily reliant on business in China, the evolving geopolitical landscape poses challenges for its operations and reputation.
+
+Wed, 06 Dec 2023 16:17:10 +0530
+### [Not just EVs, Min. Nitin Gadkari plans to fight pollution with biofuels, alt fuels; unveils new green roadmap](https://www.firstpost.com/tech/auto-tech/not-just-evs-min-nitin-gadkari-plans-to-fight-pollution-with-biofuels-alt-fuels-unveils-new-green-roadmap-13473172.html)
+
+Minister of Road Transport and Highways, Nitin Gadkari, addressed the Rajya Sabha, highlighting the issue of vehicle pollution in India. He emphasized the need for strategies involving hydrogen-driven and electric vehicles to combat increasing carbon emissions. Gadkari expressed concern over the rising CO2 emissions from the transport sector and the heavy reliance on imported fossil fuels. He mentioned that efforts have been made by the Indian government to prioritize pollution control and emphasized the importance of addressing both economic and environmental aspects of the problem. Despite India's position as the third-largest automobile manufacturer globally, Gadkari acknowledged a slowdown in the industry's growth rate. The automobile sector plays a significant role in GST revenue generation and job creation. Gadkari expressed satisfaction with ongoing experiments involving alternative fuels, indicating the government's commitment to sustainable mobility. Overall, his address highlighted India's push towards greener and more sustainable transportation.
+
+Wed, 06 Dec 2023 15:55:38 +0530
+### [NVIDIA collaborates with US Govt to make low-grade AI Chips for the Chinese market](https://www.firstpost.com/tech/nvidia-collaborates-with-us-govt-to-make-nerfed-ai-chips-for-the-chinese-market-13472982.html)
+
+Article found but Couldn't summarize 
+NVIDIA collaborates with US Govt to make low-grade AI Chips for the Chinese market
+
 Wed, 06 Dec 2023 13:47:13 +0530
 ### ['Let me help you': Elon Musk lampoons heads of Harvard, MIT, Penn varsities for antisemitism on campus](https://www.firstpost.com/tech/elon-musk-lampoons-heads-of-harvard-mit-penn-varsities-for-antisemitism-on-campus-13472342.html)
 

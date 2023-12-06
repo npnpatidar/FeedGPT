@@ -1,3 +1,31 @@
+Wed, 06 Dec 2023 16:32:25 +0530
+### [Vantage | What Putin's rare trip abroad to UAE, Saudi is all about](https://www.firstpost.com/opinion/vantage-what-putins-rare-trip-abroad-to-uae-saudi-is-all-about-13473122.html)
+
+Russian President Vladimir Putin is embarking on a rare foreign trip to Saudi Arabia and the United Arab Emirates (UAE) amid the ongoing war in Ukraine. The trip aims to strengthen ties with these nations, both of which are crucial allies of the United States. The primary agenda revolves around oil, as all three countries are part of the OPEC Plus group, and recent decisions to cut oil output signal a collective effort to stabilize prices in a challenging global economic climate.
+
+Putin's visit to Saudi Arabia and the UAE highlights a shift in his diplomatic efforts, showing a willingness to engage with key allies of the United States. The common ground for Russia, Saudi Arabia, and the UAE is their membership in the OPEC Plus group. The recent decision to cut oil output reflects their shared interest in propping up oil prices.
+
+The backdrop of the oil market sets the stage for Putin's diplomatic venture. The aim is to reverse the downward trend in oil prices that has persisted in recent months. Despite the announced cuts, global economic uncertainties and sluggish demand for oil remain. Putin's visit is driven by the need to formulate a strategy that ensures a steady flow of oil revenue into Russia's treasury, as oil and gas make up 28% of Russia's revenue.
+
+During his visit to Saudi Arabia, Putin is scheduled to hold talks with Crown Prince Mohammed bin Salman. The leaders will likely seek ways to mitigate the impact of a challenging economic landscape on their respective economies. Oil revenues constitute a significant portion of both Russia's and Saudi Arabia's income, making these talks crucial.
+
+In addition to discussions on oil, Putin's visit to the Gulf aims to enhance Russia's influence in the region amid heightened geopolitical tensions. By engaging with Gulf states, he hopes to position Russia as a neutral or alternative partner, potentially shifting these nations away from their traditional alliance with the US.
+
+The diplomatic engagement extends beyond oil, as Russians increasingly turn to the UAE as a safe haven for investments, redirecting them from Western countries. The Gulf states actively welcome wealthy Russian visitors to boost their economies as well. The reciprocal nature of this relationship is evident.
+
+The outcome of Putin's meetings with Saudi Arabia and the UAE will provide valuable insights into the evolving dynamics of Russia's relationships in the Middle East. While the focus is primarily on oil-related strategies, the broader implications raise questions about the long-term sustainability and potential impact on the geopolitical landscape.
+
+Wed, 06 Dec 2023 16:23:58 +0530
+### [Vantage | Is Myanmar junta on the verge of collapse?](https://www.firstpost.com/opinion/vantage-is-myanmar-junta-on-the-verge-of-collapse-13472532.html)
+
+The military regime in Myanmar is facing significant challenges as rebel groups form alliances and launch offensives against the junta. The rebellion, initially localized in Shan state, has spread throughout the country, with the brotherhood alliance leading the offensive. The rebels have achieved success, causing the Myanmar army to lose ground rapidly, with reports of over 200 junta bases being overrun and a large number of weapons being looted. The army's morale is low, leading to troops surrendering or defecting to join the rebel groups. Many soldiers are also seeking refuge in India.
+
+Despite these developments, the top military generals in Myanmar are blaming radical ethnic youth, foreigners working for rebel groups, and banking staff for the unrest. The junta is making desperate attempts to regain control, calling on deserters and veterans to return to their barracks under threat of losing their pensions. However, this marks the first time the junta faces an existential threat, as the rebels continue to fight back.
+
+There are reports of fighter jets dropping cluster bombs, but the airstrikes have not stopped the fighting, with townships still being taken over by the rebels. In Kawlin, one of the largest townships in Sagaing state, the junta has been replaced by civilian leadership. However, the fighting has resulted in the displacement of hundreds of thousands of people, leaving many towns deserted.
+
+Myanmar's future remains uncertain, and neighboring countries like India and Thailand are opening their doors to refugees. China, on the other hand, has distanced itself from the situation. The international community has remained silent while civilians suffer amid the ongoing conflict.
+
 Wed, 06 Dec 2023 15:35:27 +0530
 ### [Vantage | Why Kenyan President's India visit matters for both countries](https://www.firstpost.com/opinion/vantage-why-kenyan-presidents-india-visit-matters-for-both-countries-13472622.html)
 

@@ -1,3 +1,121 @@
+Wed, 06 Dec 2023 11:02:11 +0000
+### [Anardana’s Winter Culinary Extravaganza: A Feast for the Senses](https://theprint.in/ani-press-releases/anardanas-winter-culinary-extravaganza-a-feast-for-the-senses/1874519/)
+
+Article found but Couldn't summarize 
+HT Syndication New Delhi [India], December 6: At Anardana, we are thrilled to unveil a bespoke winter menu, a delectable response to the clamor of our cherished guests. In this season of chilly winds and festive warmth, we present a symphony of flavors curated by our Culinary Head Chef, Gaurav Raghuvanshi. These delightful offerings, are [&#8230;]
+
+Wed, 06 Dec 2023 11:02:01 +0000
+### [AJIO announces Big Bold Sale](https://theprint.in/economy/ajio-announces-big-bold-sale/1874517/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 6 (ANI): Fashion e-tailer AJIO on Wednesday announced its flagship event &#8216;Big Bold Sale&#8217;, which is powered by Adidas and co-powered by Superdry. The Big Bold Sale will commence on Thursday. Customers got early access to the sale starting from December 4. In the biggest-ever edition of the Big Bold Sale [&#8230;]
+
+Wed, 06 Dec 2023 11:00:46 +0000
+### [Gangster behind Karni Sena chief’s killing demanded Rs 1 crore from Gurugram businessman: Police](https://theprint.in/india/gangster-behind-karni-sena-chiefs-killing-demanded-rs-1-crore-from-gurugram-businessman-police/1874516/)
+
+Article found but Couldn't summarize 
+Gurugram, Dec 6 (PTI) Gangster Rohit Godara, who has taken responsibility for the murder of Rashtriya Rajput Karni Sena chief Sukhdev Singh Gogamedi, had recently demanded Rs 1 crore in extortion from a former local councillor and a businessman, police said on Wednesday. While an FIR was registered at the Bilaspur police station on the [&#8230;]
+
+Wed, 06 Dec 2023 11:00:35 +0000
+### [Dispute over Salman Rushdie’s ancestral house: HC asks single judge to re-assess property value](https://theprint.in/india/dispute-over-salman-rushdies-ancestral-house-hc-asks-single-judge-to-re-assess-property-value/1874515/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 6 (PTI) The Delhi High Court has asked a single judge to determine afresh the value of the ancestral house of Salman Rushdie at civil lines here which the globally renowned writer’s father had agreed to sell to a Congress leader in 1970 but the deal stalled due to a dispute between [&#8230;]
+
+Wed, 06 Dec 2023 11:00:23 +0000
+### [ZPM high command to meet Lalduhoma over formation of Mizoram cabinet](https://theprint.in/india/zpm-high-command-to-meet-lalduhoma-over-formation-of-mizoram-cabinet/1874514/)
+
+Lalduhoma, the leader of the Zoram People's Movement (ZPM), is set to be sworn in as the new chief minister of Mizoram, according to a Raj Bhavan official. Lalduhoma met Governor Hari Babu Khambampati and staked claim to form the government, after which he was invited to do so. The ZPM emerged victorious in the Mizoram Assembly elections, winning 27 out of 40 seats. The party will hold a meeting to discuss the structure of the new government, including the council of ministers. Lalduhoma, an ex-IPS officer, was unanimously elected as the ZPM legislature party leader.
+
+Wed, 06 Dec 2023 11:00:13 +0000
+### [BJP MPs, including Union ministers, elected to assemblies quit Parliament; likely to join state governments](https://theprint.in/india/bjp-mps-including-union-ministers-elected-to-assemblies-quit-parliament-likely-to-join-state-governments/1874513/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 6 (PTI) Union ministers Narendra Singh Tomar and Prahlad Singh Patel resigned from Lok Sabha on Wednesday as the BJP decided that all of its 12 MPs recently elected to state assemblies will quit Parliament, amid strong indications that they may join the new governments in Madhya Pardesh, Chhattisgarh and Rajasthan. The [&#8230;]
+
+Wed, 06 Dec 2023 11:00:02 +0000
+### [Nadda holds talks with Kenyan President William S Ruto](https://theprint.in/india/nadda-holds-talks-with-kenyan-president-william-s-ruto/1874512/)
+
+BJP president J P Nadda met Kenyan President William S Ruto, who leads the ruling United Democratic Alliance (UDA), to discuss various issues. Nadda informed Ruto about the BJP's vision and organizational structure, highlighting their efforts in promoting social inclusion for economically disadvantaged, women, and marginalized groups. He also invited a UDA delegation to India for party-to-party dialogue under the 'Know BJP' initiative. Ruto, serving as Kenya's fifth president since September 2022, is on a state visit to India. Vijay Chauthaiwale, the head of the BJP's foreign affairs department, was also present during the meeting.
+
+Wed, 06 Dec 2023 10:47:24 +0000
+### [Bullish surge: Stock market ends on high note](https://theprint.in/economy/bullish-surge-stock-market-ends-on-high-note/1874505/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 6 (ANI): The Indian stock market maintained its upward momentum, closing in the green on Wednesday, with both the Sensex and Nifty posting notable gains. The Sensex surged by 357.59 points, closing at 69,653.73, while the Nifty climbed 82.55 points, concluding at 20,937.65. The market displayed mixed trends among Nifty companies, [&#8230;]
+
+Wed, 06 Dec 2023 10:47:13 +0000
+### [Paytm ramps up credit distribution business focusing on big ticket loans in partnership with banks, NBFCs](https://theprint.in/economy/paytm-ramps-up-credit-distribution-business-focusing-on-big-ticket-loans-in-partnership-with-banks-nbfcs/1874503/)
+
+Article found but Couldn't summarize 
+New Delhi [India], November 6 (ANI): India&#8217;s leading payments and financial services distribution company Paytm has announced the expansion of its loan distribution business with an enhanced focus on higher ticket loans for consumers and merchants. The company highlighted that these loans will be targeted at lower-risk and high-credit-worthy customers in partnership with large banks [&#8230;]
+
+Wed, 06 Dec 2023 10:47:02 +0000
+### [Islamabad High Court rejects former PM Imran Khan’s plea to withdraw appeal against disqualification in Toshakhana case](https://theprint.in/world/islamabad-high-court-rejects-former-pm-imran-khans-plea-to-withdraw-appeal-against-disqualification-in-toshakhana-case/1874501/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 6 (ANI): The Islamabad High Court (IHC) rejected Pakistan&#8217;s former Prime Minister Imran Khan&#8217;s plea to withdraw his appeal against disqualification in the Toshakhana case, as reported by Dawn. IHC Chief Justice Aamer Farooq announced the verdict on Wednesday, reserved on September 13. Imran Khan was arrested in Toshakhana, Al-Qadir Trust and [&#8230;]
+
+Wed, 06 Dec 2023 10:46:44 +0000
+### [Rare artworks of Indian modernists to go under hammer at AstaGuru’s auction](https://theprint.in/india/rare-artworks-of-indian-modernists-to-go-under-hammer-at-astagurus-auction/1874498/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 6 (PTI) Featuring over 200 artworks by iconic Indian modernists, an upcoming &#8216;Modern Odyssey&#8217; auction by AstaGuru offers a rare collection reflecting the diverse and ever-changing artistic landscape in India over decades. The online auction, to be held on December 11 and 12, will present bidders with masterpieces of some of the [&#8230;]
+
+Wed, 06 Dec 2023 10:46:32 +0000
+### [Mother of two breaks stereotype to become first female e-rickshaw driver in J-K’s Chenab valley](https://theprint.in/india/mother-of-two-breaks-stereotype-to-become-first-female-e-rickshaw-driver-in-j-ks-chenab-valley/1874497/)
+
+Article found but Couldn't summarize 
+Bhaderwah (J-K), Dec 6 (PTI) The world turned upside down for 39-year-old Meenakshi Devi, a mother of two, almost a year ago after her husband was diagnosed with renal failure and put on weekly dialysis, forcing the family to wrap up their business and sell their car to clear the debt. But instead of being [&#8230;]
+
+Wed, 06 Dec 2023 10:46:21 +0000
+### [SDC Foundation collaborates with Airbus to set up 300 plastic banks in Dehradun by 2025](https://theprint.in/india/sdc-foundation-collaborates-with-airbus-to-set-up-300-plastic-banks-in-dehradun-by-2025/1874496/)
+
+Article found but Couldn't summarize 
+Dehradun, Dec 6 (PTI) Dehradun-based environmental action and advocacy group SDC Foundation and aerospace major Airbus will jointly set up 300 plastic banks in the city by March 2025 to help in the recycling and conversion of plastic waste into fuel. &#8220;The target is to open 70-80 plastic banks in the city over the next [&#8230;]
+
+Wed, 06 Dec 2023 10:46:16 +0000
+### [China launches new homegrown supercomputer –  Xinhua](https://theprint.in/tech/china-launches-new-homegrown-supercomputer-xinhua/1874495/)
+
+Article found but Couldn't summarize 
+BEIJING (Reuters) - China unveiled a new domestically developed supercomputing system on Wednesday that state news agency Xinhua said was many times more powerful than a previous version. The
+
+Wed, 06 Dec 2023 10:46:10 +0000
+### [Decide in 3 months representation to ban dangerous dog breeds: Delhi HC to Centre](https://theprint.in/india/decide-in-3-months-representation-to-ban-dangerous-dog-breeds-delhi-hc-to-centre/1874494/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 6 (PTI) The Delhi High Court on Wednesday asked the Centre to decide expeditiously, preferably within three months, a representation to ban and cancel the licence to keep &#8220;dangerous&#8221; dog breeds such as Pitbull, Terriers, American Bulldog and Rottweiler. A bench headed by Acting Chief Justice Manmohan asked the petitioner, who made [&#8230;]
+
+Wed, 06 Dec 2023 10:45:59 +0000
+### [Stocks, gold gain as investors stay cheery on rate outlook](https://theprint.in/economy/stocks-gold-gain-as-investors-stay-cheery-on-rate-outlook/1874492/)
+
+Article found but Couldn't summarize 
+By Amanda Cooper LONDON (Reuters) -Global equities rose on Wednesday after U.S. employment data reinforced investors' convictions that rates may soon start to fall, which has pushed down bond yields
+
+Wed, 06 Dec 2023 10:45:59 +0000
+### [Nobel laureate Malala Yousafzai calls for making ‘gender apartheid’ a crime against humanity](https://theprint.in/world/nobel-laureate-malala-yousafzai-calls-for-making-gender-apartheid-a-crime-against-humanity/1874491/)
+
+Article found but Couldn't summarize 
+Johannesburg, Dec 6 (PTI) Likening the restrictions imposed by the Taliban on women in Afghanistan to the treatment of Black people under apartheid in South Africa, Nobel Laureate Malala Yousafzai has urged the international community to make &#8220;gender apartheid&#8221; a crime against humanity. Yousafzai, who was awarded the Nobel Peace Prize in 2014 when she [&#8230;]
+
+Wed, 06 Dec 2023 10:45:50 +0000
+### [India’s Paytm shifts focus to higher ticket loans](https://theprint.in/economy/indias-paytm-shifts-focus-to-higher-ticket-loans/1874489/)
+
+Article found but Couldn't summarize 
+BENGALURU (Reuters) - Indian digital payments firm Paytm said on Wednesday that it will cut down on disbursing loans under 50,000 rupees and expand to higher ticket ones, weeks after the central bank
+
+Wed, 06 Dec 2023 10:45:47 +0000
+### [INDIA bloc must act swiftly to finalise future strategies: Nitish](https://theprint.in/india/india-bloc-must-act-swiftly-to-finalise-future-strategies-nitish/1874488/)
+
+Article found but Couldn't summarize 
+Patna, Dec 6 (PTI) Bihar Chief Minister Nitish Kumar on Wednesday sought to downplay BJP&#8217;s victory in three states in the Hindi heartland, stating that there is &#8220;no need to discuss much&#8221; on such wins of the saffron party, and said the opposition INDIA alliance must act swiftly to finalise its future strategies. Kumar said [&#8230;]
+
+Wed, 06 Dec 2023 10:45:36 +0000
+### [Factbox-Putin travels to the Gulf to discuss oil, Gaza and Ukraine](https://theprint.in/world/factbox-putin-travels-to-the-gulf-to-discuss-oil-gaza-and-ukraine/1874486/)
+
+Article found but Couldn't summarize 
+MOSCOW (Reuters) - Russian President Vladimir Putin began a one-day trip to the United Arab Emirates and Saudi Arabia on Wednesday to discuss cooperation within the OPEC+ group of leading oil
+
 Wed, 06 Dec 2023 10:17:21 +0000
 ### [PM Modi to inaugurate Uttarakhand Global Investors Summit on Friday](https://theprint.in/economy/pm-modi-to-inaugurate-uttarakhand-global-investors-summit-on-friday/1874444/)
 

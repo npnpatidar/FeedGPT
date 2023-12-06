@@ -1,3 +1,9 @@
+2023-12-06T16:19:51+05:30
+### [By Evading Accountability, Indian Military Suffers More Losses Than Those Inflicted by Enemies](https://thewire.in/security/by-evading-accountability-indian-military-suffers-more-losses-than-those-inflicted-by-enemies)
+
+No Article text 
+About 1,600 soldiers are killed every year in India due to accidents, suicides, and ailments. It is due to the prevailing mindset that the conduct of defence forces can't be questioned results in such avoidable deaths.
+
 2023-12-06T15:38:27+05:30
 ### [Watch: Is Israel Determined to Obliterate Hamas No Matter the Toll of Palestinian Civilian Lives?](https://thewire.in/world/watch-is-israel-determined-to-obliterate-hamas-no-matter-the-toll-of-palestinian-civilian-lives)
 
