@@ -1,3 +1,9 @@
+Wed, 06 Dec 2023 06:00:00 +0530
+### [What’s the status of the UN treaty to end plastic pollution? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/inc-3-meeting-end-plastic-pollution-treaty-industry-pressure-explained/article67607097.ece)
+
+Article found but Couldn't summarize 
+Members of a committee met in Nairobi in November to develop an international treaty to end plastic pollution.
+
 Tue, 05 Dec 2023 18:18:04 +0530
 ### [What are the FSB’s concerns about crypto asset intermediaries? | Explained](https://www.thehindu.com/business/Industry/what-are-the-fsbs-concerns-about-crypto-asset-intermediaries-explained/article67590360.ece)
 

@@ -26,6 +26,11 @@ Tue, 05 Dec 2023 18:24:35 +0530
 Article found but Couldn't summarize 
 What is breadcrumbing, the new entrant in modern dating scene?
 
+Tue, 05 Dec 2023 18:23:13 +0530
+### [Putin's visit to Saudi Arabia, UAE; Republican debate: Top news today](https://www.firstpost.com/explainers/putins-visit-to-saudi-arabia-uae-republican-debate-top-news-today-13469102.html)
+
+Russian President Vladimir Putin is set to visit Saudi Arabia and the United Arab Emirates, despite Russia's isolation over the Ukraine conflict. The purpose of the visit is to discuss bilateral relations, the Israel-Hamas conflict, and international politics. British Foreign Secretary David Cameron will travel to Washington DC for bilateral meetings with US Secretary of State Antony Blinken and members of Congress. Four candidates have qualified for the fourth GOP presidential primary debate in Alabama. Former President Donald Trump will not be attending. A Pakistan court has summoned former Prime Minister Imran Khan and his wife in a corruption case. The swearing-in ceremony of the newly elected Congress government in Telangana was delayed but is likely to take place soon. The Reserve Bank of India (RBI) Monetary Policy Committee meeting will be held from 6 to 8 December. The Supreme Court will hear a public interest litigation (PIL) regarding safeguards against unreasonable interference by law enforcement agencies. Various court hearings are scheduled, including a case against accused being probed in a coal levy money laundering case in Chhattisgarh. Important anniversaries include the birthday of Indian cricketer Rudra Pratap Singh and the demolition of the Babri Masjid in Ayodhya. NASA also revealed photographs suggesting the presence of liquid water on Mars in 2006.
+
 Tue, 05 Dec 2023 17:34:59 +0530
 ### [Why is gold near its all-time high? Should you buy?](https://www.firstpost.com/explainers/why-is-gold-near-its-all-time-high-should-you-buy-13469022.html)
 
