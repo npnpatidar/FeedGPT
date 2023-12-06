@@ -1,3 +1,13 @@
+Wed, 06 Dec 2023 08:28:10 +0000
+### [Mining for critical minerals: what is the auction process, and why is it important?](https://indianexpress.com/article/explained/explained-economics/critical-minerals-auction-process-9056726/)
+
+Article found but Couldn't summarize
+
+Wed, 06 Dec 2023 08:25:46 +0000
+### [How ISRO brought Chandrayaan-3’s propulsion module back to Earth’s orbit — and why that matters](https://indianexpress.com/article/explained/explained-sci-tech/chandrayaan-isro-propulsion-module-earth-orbit-9056529/)
+
+Article found but Couldn't summarize
+
 Wed, 06 Dec 2023 07:47:14 +0000
 ### [Apollo Hospitals accused of being involved in ‘cash for kidney’ racket: 6 things you need to know](https://indianexpress.com/article/explained/explained-global/apollo-hospitals-cash-for-kidney-racket-9056660/)
 

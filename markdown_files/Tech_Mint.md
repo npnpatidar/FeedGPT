@@ -1,3 +1,9 @@
+Wed, 06 Dec 2023 14:39:10 +0530
+### [Haier refrigerator collection: Top 10 models where innovation meets design](https://www.livemint.com/technology/gadgets/haier-refrigerator-collection-top-10-models-where-innovation-meets-design-11701849122819.html)
+
+Article found but Couldn't summarize 
+Discover an entire range of Haier's new-age refrigerators. Their sleek design is sure to add a modern touch to your kitchen. Explore the best Haier refrigerators that deliver higher efficiency, better food preservation and ensure cost savings.
+
 Wed, 06 Dec 2023 12:52:28 +0530
 ### [Redmi 13C, Redmi 13C 5G launched in India: Check price, specs, launch offers and more](https://www.livemint.com/technology/gadgets/redmi-13c-redmi-13c-5g-launched-in-india-check-price-specs-launch-offers-and-more-11701845334551.html)
 

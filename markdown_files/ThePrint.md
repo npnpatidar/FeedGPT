@@ -1,3 +1,119 @@
+Wed, 06 Dec 2023 09:17:56 +0000
+### [India Shines on a Global Platform, as The Postcard Hotel Wins Twin Honours at World Travel Awards in Dubai](https://theprint.in/ani-press-releases/india-shines-on-a-global-platform-as-the-postcard-hotel-wins-twin-honours-at-world-travel-awards-in-dubai/1874367/)
+
+The Postcard Hotel has been awarded the titles of 'World's Leading Emerging Boutique Hotel Brand 2023' and 'World's Leading Boutique Beach Hotel 2023' at the prestigious World Travel Awards. The event brought together influential figures and top-tier brands from the global travel and tourism industry. The success of The Postcard Hotel highlights India's reputation for hospitality excellence and its growing influence in the global hospitality scene. Kapil Chopra, the Founder and CEO of The Postcard Hotel, expressed his gratitude for the recognition and emphasized the brand's commitment to delivering extraordinary experiences. The hotel currently operates in Goa, Gujarat, Bhutan, and Sri Lanka, with plans to open more hotels in the future.
+
+Wed, 06 Dec 2023 09:17:48 +0000
+### [Godrej L’Affaire Ignites Conversations with a Heartfelt Campaign: ‘Aap rishte nibhao, Riwaaz toh saath aa hi jaenge’ Message Takes Center Stage](https://theprint.in/ani-press-releases/godrej-laffaire-ignites-conversations-with-a-heartfelt-campaign-aap-rishte-nibhao-riwaaz-toh-saath-aa-hi-jaenge-message-takes-center-stage/1874365/)
+
+Godrej L’Affaire, a media lifestyle platform by Godrej Industries Limited and Associate Companies, has launched a digital campaign called #CelebratingAcceptance on the occasion of Bhai Dooj. The campaign aims to promote inclusivity, challenge stereotypes, and celebrate diverse forms of love. It features a heartwarming film portraying the emotional journey of a transgender woman and her brother, emphasizing the importance of acceptance and support. Through this campaign, Godrej L’Affaire encourages viewers to prioritize relationships over traditions and celebrate acceptance. The goal is to reshape societal attitudes and promote a culture of inclusion.
+
+Wed, 06 Dec 2023 09:17:38 +0000
+### [Homegrown D2C Brand Factor Notes Unveils Its Premium Curated Planners for 2024](https://theprint.in/ani-press-releases/homegrown-d2c-brand-factor-notes-unveils-its-premium-curated-planners-for-2024/1874363/)
+
+Article found but Couldn't summarize 
+NewsVoir New Delhi [India], December 6: Homegrown D2C brand, Factor Notes is thrilled to announce the launch of its highly anticipated premium curated planners for 2024. Rooted in the essence of curated premium planners, these artistic creations are designed to evoke a sense of serenity and sanguinity whist prioritizing mental health &#38; emotional well-being. From [&#8230;]
+
+Wed, 06 Dec 2023 09:17:26 +0000
+### [DLF Avenue unveils fashion avenue, a style hub featuring emerging brands](https://theprint.in/ani-press-releases/dlf-avenue-unveils-fashion-avenue-a-style-hub-featuring-emerging-brands/1874361/)
+
+DLF Avenue, a popular retail and restaurant hub in New Delhi, is set to launch Fashion Avenue on December 3, 2023. Fashion Avenue aims to revolutionize the mall experience by creating a vibrant pop-up area on the first level that showcases a curated selection of renowned e-retailers and homegrown designers. The brands featured at Fashion Avenue offer unique styles and high-quality products, catering to diverse fashion lovers. What sets Fashion Avenue apart is not just the range of brands but also the engaging shopping experience it provides. By bringing together previously online-only direct-to-consumer brands in one physical space, customers can enjoy a tangible shopping experience that surpasses the limitations of the virtual world. Pushpa Bector, Senior Executive Director of DLF Malls Retail, describes Fashion Avenue as a concept store that celebrates individuality, craftsmanship, and the merging of traditional and contemporary fashion. Several brand founders express their excitement about being a part of this innovative retail space. Fashion Avenue is a testament to DLF Avenue's dedication to curating a dynamic and inclusive shopping atmosphere.
+
+Wed, 06 Dec 2023 09:17:12 +0000
+### [‘Animal’: Bobby Deol’s entry song ‘Jamal Kudu’ out now](https://theprint.in/feature/animal-bobby-deols-entry-song-jamal-kudu-out-now/1874359/)
+
+The entry song 'Jamal Kudu' from the film 'Animal', featuring actor Bobby Deol, has become a viral sensation on social media. It is a remake of the Iranian song 'Jamaal Jamaaloo'. The film 'Animal' has achieved great success, crossing the Rs 250 crore mark within five days of its release in India. Trade analyst Taran Adarsh revealed that the film's total collection in Hindi stands at Rs 250.66 crore. Directed by Sandeep Reddy Vanga, 'Animal' also stars Ranbir Kapoor, Anil Kapoor, and Rashmika Mandanna. The movie revolves around a toxic father-son relationship in the context of crime and the underworld.
+
+Wed, 06 Dec 2023 09:17:02 +0000
+### [Nitin Gadkari addresses Rajya Sabha on pervasive vehicle pollution: Unveils strategic roadmap towards green mobility](https://theprint.in/economy/nitin-gadkari-addresses-rajya-sabha-on-pervasive-vehicle-pollution-unveils-strategic-roadmap-towards-green-mobility/1874357/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 6 (ANI): In today&#8217;s Rajya Sabha session, Minister of Road Transport and Highways, Nitin Gadkari, delivered a comprehensive address shedding light on the escalating issue of vehicle pollution in India. The minister outlined key strategies involving hydrogen-driven and electric vehicles to combat the rising carbon footprint. Nitin Gadkari said, &#8220;It is [&#8230;]
+
+Wed, 06 Dec 2023 09:15:51 +0000
+### [India’s Hindustan Zinc sets second dividend for FY24, Vedanta key benefactor](https://theprint.in/economy/indias-hindustan-zinc-sets-second-dividend-for-fy24-vedanta-key-benefactor/1874356/)
+
+Article found but Couldn't summarize 
+BENGALURU (Reuters) - India's Hindustan Zinc on Wednesday declared a dividend for the second time this fiscal, amounting to 25.35 billion rupees ($304.28 million), of which the major benefactor will
+
+Wed, 06 Dec 2023 09:15:41 +0000
+### [Oil steady as markets weigh OPEC+ cuts against China demand concerns](https://theprint.in/economy/oil-steady-as-markets-weigh-opec-cuts-against-china-demand-concerns/1874354/)
+
+Article found but Couldn't summarize 
+By Robert Harvey (Reuters) - Oil prices were steady on Wednesday, as investors weighed the effectiveness of an extension in OPEC+ cuts in tightening supply against a worsening demand outlook in China.
+
+Wed, 06 Dec 2023 09:15:38 +0000
+### [Welcome to the movies: Abhishek Bachchan to nephew Agastya post ‘The Archies’ premiere](https://theprint.in/feature/welcome-to-the-movies-abhishek-bachchan-to-nephew-agastya-post-the-archies-premiere/1874353/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 6 (PTI) With his debut in &#8220;The Archies&#8221;, Agastya Nanda is set to become a third generation actor of the Bachchan family and his maternal uncle Abhishek Bachchan on Wednesday said he would be there to handhold the newcomer whenever he would reach out for help. Grandson of veteran stars Amitabh Bachchan and [&#8230;]
+
+Wed, 06 Dec 2023 09:15:26 +0000
+### [The elephant in the expo centre: Who’s hosting COP29?](https://theprint.in/world/the-elephant-in-the-expo-centre-whos-hosting-cop29/1874351/)
+
+Article found but Couldn't summarize 
+By William James and Kate Abnett DUBAI (Reuters) - There's an unprecedented deadlock at this year's COP28 U.N. climate summit over who will host next year's event. The conference's opening days saw
+
+Wed, 06 Dec 2023 09:15:26 +0000
+### [‘Andhra Pradesh Guv, CM pay homage to B R Ambedkar on his death’](https://theprint.in/india/andhra-pradesh-guv-cm-pay-homage-to-b-r-ambedkar-on-his-death/1874350/)
+
+Article found but Couldn't summarize 
+Amaravati, Dec 6 (PTI) Andhra Pradesh Governor S Abdul Nazeer and Chief Minister Y S Jagan Mohan Reddy on Wednesday paid homage to B R Ambedkar on his death anniversary, observed as Mahaparinirvan Diwas. The Governor said Ambedkar, the architect of the Indian Constitution, was a social reformer. &#8220;He was an eminent jurist who was [&#8230;]
+
+Wed, 06 Dec 2023 09:15:17 +0000
+### [Turkey’s Erdogan calls for reinforced trust before Greece trip](https://theprint.in/world/turkeys-erdogan-calls-for-reinforced-trust-before-greece-trip/1874348/)
+
+Article found but Couldn't summarize 
+ATHENS (Reuters) - Greece and Turkey should reinforce trust and deepen cooperation on common challenges as they try to solve their differences, Turkish President Tayyip Erdogan said on Wednesday
+
+Wed, 06 Dec 2023 09:15:15 +0000
+### [BJP MP says illegal Bangladeshi immigrants changing demography in Jharkhand, Bihar, WB; demands NRC](https://theprint.in/india/bjp-mp-says-illegal-bangladeshi-immigrants-changing-demography-in-jharkhand-bihar-wb-demands-nrc/1874346/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 6 (PTI) BJP MP Nishikant Dubey Wednesday claimed the demography in many parts of Jharkhand, Bihar and West Bengal was changing because of a rise in infiltrations by illegal Bangladeshi immigrants and demanded the Centre implement National Register of Citizens (NRC) in these states. During the Zero Hour in Lok Sabha, the [&#8230;]
+
+Wed, 06 Dec 2023 09:15:05 +0000
+### [Brazil anti-deforestation agents protest working conditions under Lula](https://theprint.in/world/brazil-anti-deforestation-agents-protest-working-conditions-under-lula/1874345/)
+
+Article found but Couldn't summarize 
+By Jake Spring DUBAI (Reuters) - More than 1,500 workers at Brazil's federal anti-deforestation agencies are demanding better pay and working conditions from President Luiz Inacio Lula da Silva,
+
+Wed, 06 Dec 2023 09:15:03 +0000
+### [Air India rejigs 250-aircraft Airbus order](https://theprint.in/economy/air-india-rejigs-250-aircraft-airbus-order/1874344/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 6 (PTI) Tata Group-owned Air India, which placed a 250-aircraft order with Airbus earlier this year, has rejigged the order, which will now have more number of A321neo aircraft, according to sources. As part of the 250 aircraft order with Airbus, the airline was to acquire 210 narrowbody A320 family planes, comprising 140 [&#8230;]
+
+Wed, 06 Dec 2023 09:10:45 +0000
+### [List of Top Schools in Noida for 2024-25: Admission, Fees & Eligibility](https://theprint.in/theprint-valuead-initiative/list-of-top-schools-in-noida-for-2024-25-admission-fees-eligibility/1874310/)
+
+Article found but Couldn't summarize 
+The admission criteria depend on the age, test scores, meeting, seat availability, and so on. In addition, these criteria differ for each school.
+
+Wed, 06 Dec 2023 09:04:57 +0000
+### [Tata Curvv, Kia EV9 to Tesla debut—2024 is going to be big for cars in India](https://theprint.in/opinion/tata-curvv-kia-ev9-to-tesla-debut-2024-is-going-to-be-big-for-cars-in-india/1874296/)
+
+Article found but Couldn't summarize 
+From electric offerings, and long-wheelbase editions of premium sedans to major makeovers—2024 will see a slew of car launches.
+
+Wed, 06 Dec 2023 09:01:07 +0000
+### [ByteDance offers investors share buyback, valued at $268 billion-sources](https://theprint.in/tech/bytedance-offers-investors-share-buyback-valued-at-268-billion-sources/1874329/)
+
+Article found but Couldn't summarize 
+By Kane Wu and Josh Ye HONG KONG (Reuters) - TikTok owner ByteDance is offering to buy back around $5 billion worth of shares from investors at a price that will value the company at about $268
+
+Wed, 06 Dec 2023 09:00:53 +0000
+### [UAE extradites British hedge fund trader to Denmark](https://theprint.in/world/uae-extradites-british-hedge-fund-trader-to-denmark/1874328/)
+
+Article found but Couldn't summarize 
+By Hadeel Al Sayegh and Jacob Gronholt-Pedersen DUBAI/COPENHAGEN (Reuters) -The United Arab Emirates has extradited British hedge fund trader Sanjay Shah to Denmark, where he is accused of submitting
+
+Wed, 06 Dec 2023 09:00:46 +0000
+### [Portugal’s Social Democratic Party leader bets on tax cuts to win snap election](https://theprint.in/world/portugals-social-democratic-party-leader-bets-on-tax-cuts-to-win-snap-election/1874326/)
+
+Article found but Couldn't summarize 
+By Andrei Khalip and Sergio Goncalves LISBON (Reuters) - Portugal's leading contender for prime minister, Luis Montenegro, expects his promise of tax cuts for the middle class, young and companies to
+
 Wed, 06 Dec 2023 08:16:16 +0000
 ### [Ten BJP MPs elected to state assemblies resign from Parliament](https://theprint.in/india/ten-bjp-mps-elected-to-state-assemblies-resign-from-parliament/1874262/)
 

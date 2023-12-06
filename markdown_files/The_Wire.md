@@ -1,3 +1,9 @@
+2023-12-06T14:34:59+05:30
+### [Why 2024 Is Going to Be an Existential Fight for the INDIA Alliance](https://thewire.in/politics/why-2024-is-going-to-be-an-existential-fight-for-the-india-alliance)
+
+No Article text 
+The resounding defeat of the Congress has hopefully taught them the right lessons for the general elections. The most important single lesson is that their state-level leadership in the Hindi-speaking belt poses no threat to the BJP.
+
 2023-12-06T13:39:25+05:30
 ### [Kerala Nurse on Death Row in Yemen, Delhi HC Asks Union to Respond to Mother’s Plea to Visit Her](https://thewire.in/government/kerala-nurse-on-death-row-in-yemen-delhi-hc-asks-union-to-respond-to-mothers-plea-to-visit-her)
 
