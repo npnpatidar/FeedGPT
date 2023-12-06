@@ -1,3 +1,117 @@
+Wed, 06 Dec 2023 04:17:01 +0000
+### [UNAMA reports increased violence against Shia, Hazara communities in Afghanistan](https://theprint.in/world/unama-reports-increased-violence-against-shia-hazara-communities-in-afghanistan/1873961/)
+
+The United Nations Assistance Mission in Afghanistan (UNAMA) has reported an increase in violence against the Shia and Hazara communities in Kabul, Balkh, and Herat provinces. The recent attack on Shia Muslims in Herat has sparked strong reactions, leading to calls for support for individuals at risk. In the attack, six people, including four men and two women, were killed by unidentified armed individuals while riding in a rickshaw in the Hazara-populated area of Jibril. Prior to this incident, two Shia clerics were killed in an armed attack in Herat on November 23. Over the past month, numerous people, including women, have been killed and injured in separate attacks on a bus and a sports hall in the Hazara-populated area of Dasht-e Barchi in Kabul. The Human Rights Defenders Assembly and Richard Bennett, the Special Rapporteur on human rights in Afghanistan, have condemned these attacks. Hazaras and Shia Muslims in Afghanistan have faced assassinations, bombings, and targeted attacks, with no responsible party claiming responsibility for these acts of violence.
+
+Wed, 06 Dec 2023 04:15:30 +0000
+### [Soccer-Argentina’s Messi named Time’s Athlete of the Year for 2023](https://theprint.in/sport/soccer-argentinas-messi-named-times-athlete-of-the-year-for-2023/1873959/)
+
+Article found but Couldn't summarize 
+(Reuters) - Argentina captain Lionel Messi has been named Time magazine's Athlete of the Year for 2023 after winning the Ballon d'Or for a record-extending eighth time and elevating the profile of the
+
+Wed, 06 Dec 2023 04:15:21 +0000
+### [Soccer-Middle East teams better suited to Asian Cup’s January scheduling: Australia coach](https://theprint.in/sport/soccer-middle-east-teams-better-suited-to-asian-cups-january-scheduling-australia-coach/1873957/)
+
+Article found but Couldn't summarize 
+By Ian Ransom MELBOURNE (Reuters) - Australia coach Graham Arnold has criticised the Asian Cup's January scheduling, saying it suits Middle East nations while causing problems for others that have a
+
+Wed, 06 Dec 2023 04:15:14 +0000
+### [Patnaik praises Team Odisha for getting gold at IITF-2023](https://theprint.in/india/patnaik-praises-team-odisha-for-getting-gold-at-iitf-2023/1873956/)
+
+The Chief Minister of Odisha, Naveen Patnaik, praised Team Odisha for winning the gold award at the India International Trade Fair (IITF 2023). The Information and Public Relations Minister of Odisha, Pradeep Kumar Amat, along with other officials, met with the chief minister to present the gold award received by Odisha Mandap at the event. Patnaik advised the department to continue their good work and improve communication strategies for successful outreach programs in the state. The Odisha Mandap at IITF attracted over 500,000 visitors and showcased the maritime trade glory of Odisha, as well as its art, culture, and sculpture, receiving positive feedback from the jury.
+
+Wed, 06 Dec 2023 04:15:04 +0000
+### [Venezuela’s Maduro pledges to permit oil, mines development in disputed territory](https://theprint.in/world/venezuelas-maduro-pledges-to-permit-oil-mines-development-in-disputed-territory/1873953/)
+
+Venezuelan President Nicolas Maduro has announced his authorization for oil exploration in a disputed area with Guyana, despite the International Court of Justice (ICJ) barring Venezuela from changing the status quo in the region. Maduro's decision follows a referendum where voters rejected the ICJ's jurisdiction over the dispute and supported creating a new state in the territory. State oil company PDVSA and state iron and steel maker CVG will establish divisions for the contested region. In response, Guyana plans to report Maduro's actions to the United Nations and the ICJ, calling Venezuela an "outlaw nation." The maritime border between the two countries is also under dispute. Exxon Mobil has been producing oil off Guyana's coast since 2019, and Guyana recently received bids for new exploration licenses. Despite the tensions, Guyana's president reassured investors that their investments are secure, with support from international partners and the community. Analysts suggest that Maduro's move may be aimed at gauging his government's support ahead of the 2024 presidential election.
+
+Wed, 06 Dec 2023 04:15:03 +0000
+### [Important cases listed in the Supreme Court on Dec 6](https://theprint.in/india/important-cases-listed-in-the-supreme-court-on-dec-6/1873952/)
+
+The Supreme Court has listed several important cases to be heard on Wednesday, December 6. These include a five-judge Constitution bench examining the constitutional validity of section 6A of the Citizenship Act related to illegal immigrants in Assam. Another case involves a plea seeking comprehensive guidelines for search and seizure of digital devices by investigating agencies. Additionally, the court will hear a plea filed by activist Shoma Kanti Sen, an accused in the Elgar Parishad-Maoist links case, who is seeking interim bail on health grounds. The National Investigation Agency has also filed a plea challenging the Bombay High Court's order granting bail to activist Mahesh Raut, another accused in the Elgar Parishad-Maoist links case.
+
+Wed, 06 Dec 2023 04:02:14 +0000
+### [Janhvi Kapoor gives shout out to sister Khushi Kapoor for ‘The Archies’](https://theprint.in/feature/janhvi-kapoor-gives-shout-out-to-sister-khushi-kapoor-for-the-archies/1873945/)
+
+Actor Janhvi Kapoor took to Instagram to congratulate her sister Khushi Kapoor on her debut film 'The Archies'. Janhvi shared a picture of herself hugging her sister inside a restaurant and captioned it, "The sunshine of my life and now sunshine in cinema. You are magical." The grand premiere of 'The Archies' was attended by several Bollywood celebrities such as Shah Rukh Khan, Amitabh Bachchan, Ranveer Singh, and others. Khushi paid tribute to her late mother, Sridevi, by wearing a golden gown that Sridevi had previously worn in 2013. Directed by Zoya Akhtar, 'The Archies' is a coming-of-age musical set in the fictional town of Riverdale and will be available for streaming on Netflix from December 7.
+
+Wed, 06 Dec 2023 04:02:02 +0000
+### [Afghanistan world’s sixth vulnerable, least ready country to address impacts of climate change: UN](https://theprint.in/world/afghanistan-worlds-sixth-vulnerable-least-ready-country-to-address-impacts-of-climate-change-un/1873943/)
+
+Afghanistan ranks as the world's sixth most vulnerable and least-ready country to address the impacts of climate change, according to the UN Resident Coordinator and Humanitarian Coordinator in Afghanistan, Daniel Peter Endres. In a video released by the UN Office for the Coordination of Humanitarian Affairs (OCHA) Afghanistan, Endres highlighted rising temperatures, declining rainfall, and unprecedented deforestation in Afghanistan over the past 70 years. Mullah Jan Saiq, the Taliban-appointed spokesman of the State Ministry for Disaster Management, expressed concerns about the potential damage caused by climate change if not addressed in Afghanistan. The Taliban ruled government objected to not being invited to the COP28 Climate summit in Dubai despite the country's vulnerability to climate change. Farmers in Afghanistan also voiced their concerns about the severe drought and how it affects their harvests. The article concludes by mentioning that Afghanistan was not represented at the 2023 United Nations Climate Change Conference (COP 28) hosted by the UAE.
+
+Wed, 06 Dec 2023 04:00:14 +0000
+### [RSP signs MoU with ALIMCO for distribution of artificial limbs, assistive devices](https://theprint.in/india/rsp-signs-mou-with-alimco-for-distribution-of-artificial-limbs-assistive-devices/1873939/)
+
+Article found but Couldn't summarize 
+Rourkela, Dec 6 (PTI) Rourkela Steel Plant (RSP) and Artificial Limbs Manufacturing Corporation of India (ALIMCO) have signed a Memorandum of Understandings (MoU) for distribution of artificial limbs, aids and assistive devices amongst persons with disabilities and senior citizens in various areas of the steel plant&#8217;s impact zones. An amount of Rs 90 lakh has [&#8230;]
+
+Wed, 06 Dec 2023 04:00:11 +0000
+### [Petitions against UAPA & PMLA, Umar Khalid bail plea — speculation over ‘wrong’ listing of cases in SC](https://theprint.in/judiciary/petitions-against-uapa-pmla-umar-khalid-bail-plea-speculation-over-wrong-listing-of-cases-in-sc/1873022/)
+
+Article found but Couldn't summarize 
+In February 2018, SC made the assignment of cases and the roster for judges public. However, controversy has broken out over the listing of cases several times over the past month.
+
+Wed, 06 Dec 2023 04:00:03 +0000
+### [Energy shares lead Indian stocks to fresh all-time highs](https://theprint.in/india/energy-shares-lead-indian-stocks-to-fresh-all-time-highs/1873936/)
+
+Article found but Couldn't summarize 
+BENGALURU (Reuters) -India's benchmark indexes opened at fresh record highs for the third consecutive session on Wednesday, led by energy stocks on moderating crude prices, while the global market
+
+Wed, 06 Dec 2023 04:00:02 +0000
+### [Thousands gather at Chaityabhoomi in Mumbai to pay tributes to Ambedkar](https://theprint.in/india/thousands-gather-at-chaityabhoomi-in-mumbai-to-pay-tributes-to-ambedkar/1873935/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 6 (PTI) Maharashtra Chief Minister Eknath Shinde and Deputy chief ministers Devendra Fadnavis and Ajit Pawar paid tributes to Dr B R Ambedkar on his 67th death anniversary on Wednesday. The death anniversary of the chief architect of the Constitution is observed as &#8216;Mahaparinirvan Din&#8217;. The leaders paid floral tributes to Ambedkar at [&#8230;]
+
+Wed, 06 Dec 2023 03:45:17 +0000
+### [Hollywood actors union ratifies three-year contract after strike](https://theprint.in/entertainment/hollywood-actors-union-ratifies-three-year-contract-after-strike/1873933/)
+
+Article found but Couldn't summarize 
+By Danielle Broadway and Lisa Richwine LOS ANGELES (Reuters) - Members of the SAG-AFTRA actors union approved a three-year contract with major studios on Tuesday, formally ending six months of
+
+Wed, 06 Dec 2023 03:45:16 +0000
+### [Mizoram registers third lowest murder cases in country: NCRB data](https://theprint.in/india/mizoram-registers-third-lowest-murder-cases-in-country-ncrb-data/1873932/)
+
+Article found but Couldn't summarize 
+Aizawl, Dec 6 (PTI) Mizoram registered the third lowest murder cases in the country last year, according to National Crime Records Bureau (NCRB) data. The northeastern state recorded 31 murder cases in 2022, after Sikkim (9) and Nagaland (21). The murder rate in the state was 2.5, while the chargesheet filing rate stood at 95.7, [&#8230;]
+
+Wed, 06 Dec 2023 03:45:03 +0000
+### [Trump: I won’t be a dictator if I become U.S. president again](https://theprint.in/world/trump-i-wont-be-a-dictator-if-i-become-u-s-president-again/1873930/)
+
+Article found but Couldn't summarize 
+By Tim Reid (Reuters) - Donald Trump said on Tuesday that he will not become a dictator if he becomes U.S. president again except "on day one", after warnings from Democrats and some Republicans that
+
+Wed, 06 Dec 2023 03:45:03 +0000
+### [Michaung weakens into depression, to transform into well marked low pressure in six hours](https://theprint.in/india/michaung-weakens-into-depression-to-transform-into-well-marked-low-pressure-in-six-hours/1873929/)
+
+Article found but Couldn't summarize 
+Amaravati, Dec 6 (PTI) Severe cyclonic storm Michaung that ravaged parts of Andhra Pradesh on Tuesday has now weakened into a depression and moved northwards, said a Meteorological official on Wednesday. The weather system is expected to move northwards and further weaken into a well marked low pressure area in the next six hours, the [&#8230;]
+
+Wed, 06 Dec 2023 03:32:22 +0000
+### [Pakistan: NEPRA approves PKR 3 per unit hike in electricity prices](https://theprint.in/world/pakistan-nepra-approves-pkr-3-per-unit-hike-in-electricity-prices/1873927/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 6 (ANI): Pakistan&#8217;s National Electric Power Regulatory Authority (NEPRA) on Tuesday approved a Pakistani rupee (PKR) 3.07 per unit increase in electricity prices, applicable to all power distribution companies, Geo News reported. Geo News is a Pakistani news channel. The regulator said in a notification: &#8220;The [&#8230;] adjustment shall be shown separately [&#8230;]
+
+Wed, 06 Dec 2023 03:32:12 +0000
+### [“I have had enough”: Kalki Koechlin deletes X app amid Israel-Palestine conflict](https://theprint.in/feature/i-have-had-enough-kalki-koechlin-deletes-x-app-amid-israel-palestine-conflict/1873925/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 6 (ANI): &#8216;Yeh Jawani Hai Deewani&#8217; actor Kalki Koechlin, on Tuesday deleted the X (formerly Twitter) application from her phone amid the ongoing Israel &#8211; Palestine conflict. Taking to Instagram, Kalki shared a picture which she captioned, &#8220;Had to do this today. The hate and disinformation, the doom scrolling, the helplessness. [&#8230;]
+
+Wed, 06 Dec 2023 03:32:02 +0000
+### [Sachin Pilgaonkar urges fans to pray for veteran actor Junior Mehmood](https://theprint.in/feature/sachin-pilgaonkar-urges-fans-to-pray-for-veteran-actor-junior-mehmood/1873923/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 6 (ANI): Actor Sachin Pilgaonkar, known for his role in films like &#8216;Nadiya Ke Paar&#8217; and &#8216;Balika Badhu&#8217; has urged his fans to pray for veteran actor Junior Mehmood&#8217;s health. Taking to Instagram on Tuesday, Sachin shared a post which reads, &#8220;I request you all to pray for my childhood friend [&#8230;]
+
+Wed, 06 Dec 2023 03:17:11 +0000
+### [ECP to be given full security to hold general elections in peaceful environment: Pak Interior Minister](https://theprint.in/world/ecp-to-be-given-full-security-to-hold-general-elections-in-peaceful-environment-pak-interior-minister/1873920/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 6 (ANI): Pakistan&#8217;s Interim Interior Minister Sarfaraz Ahmed Bugti on Tuesday said the Election Commission of Pakistan (ECP) would be given full security needed to hold the upcoming general elections in a peaceful environment, Dawn newspaper reported. Dawn is a Pakistani English-language newspaper. General elections in Pakistan are scheduled for February 8. [&#8230;]
+
 Wed, 06 Dec 2023 03:15:03 +0000
 ### [Father of Mahadev app scam accused found dead in Chhattisgarh; cops suspect suicide](https://theprint.in/india/father-of-mahadev-app-scam-accused-found-dead-in-chhattisgarh-cops-suspect-suicide/1873917/)
 

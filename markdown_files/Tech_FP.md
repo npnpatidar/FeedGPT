@@ -1,3 +1,9 @@
+Wed, 06 Dec 2023 09:28:44 +0530
+### [Govt of India bans over 100 fraudulent Chinese websites in crackdown on China-operated financial scams](https://www.firstpost.com/tech/government-of-india-bans-over-100-fraudulent-chinese-websites-in-crackdown-on-china-operated-financial-scams-13470712.html)
+
+Article found but Couldn't summarize 
+Govt of India bans over 100 fraudulent Chinese websites in crackdown on China-operated financial scams
+
 Tue, 05 Dec 2023 17:26:33 +0530
 ### [US cybersecurity experts failing, can’t stop Iran-backed hackers from going after their water systems](https://www.firstpost.com/tech/us-cybersecurity-experts-failing-cant-stop-iran-backed-hackers-from-going-after-their-water-systems-13469152.html)
 

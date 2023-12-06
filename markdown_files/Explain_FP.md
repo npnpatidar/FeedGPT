@@ -1,3 +1,9 @@
+Wed, 06 Dec 2023 09:02:04 +0530
+### [Love Knows No Borders: How Pakistani woman crossed into India to marry Kolkata man](https://www.firstpost.com/explainers/love-knows-no-borders-how-pakistani-woman-crossed-into-india-to-marry-kolkata-man-13470542.html)
+
+Article found but Couldn't summarize 
+Love Knows No Borders: How Pakistani woman crossed into India to marry Kolkata man
+
 Tue, 05 Dec 2023 22:04:51 +0530
 ### [Explained: The race row over which Harry-Meghan could lose royal titles](https://www.firstpost.com/explainers/explained-the-race-row-over-which-harry-meghan-could-lose-royal-titles-13470102.html)
 

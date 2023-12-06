@@ -1,3 +1,9 @@
+Wed, 06 Dec 2023 09:30:00 +0530
+### [How Cyclone Michaung formed, intensified, rained, and dissipated | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/michaung-cyclone-chennai-andhra-floods-intensification-climate-change-explained/article67609875.ece)
+
+Article found but Couldn't summarize 
+Tropical cyclones are engines that use warm sea surfaces as fuel to move heat from the water to the upper atmosphere
+
 Wed, 06 Dec 2023 06:00:00 +0530
 ### [What’s the status of the UN treaty to end plastic pollution? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/inc-3-meeting-end-plastic-pollution-treaty-industry-pressure-explained/article67607097.ece)
 
