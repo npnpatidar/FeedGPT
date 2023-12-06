@@ -1,3 +1,9 @@
+Wed, 06 Dec 2023 17:50:37 +0530
+### [Samsung double door fridges: Top 10 models to check out](https://www.livemint.com/technology/gadgets/samsung-double-door-fridges-top-10-models-to-check-out-11701851737598.html)
+
+Article found but Couldn't summarize 
+In our comprehensive guide, we explore the top 10 Samsung double door fridge models, highlighting their advanced features and design. Perfect for any home, these fridges combine functionality with style, making them the best Samsung fridge choices for your kitchen.
+
 Wed, 06 Dec 2023 14:49:03 +0530
 ### [Electric blankets to keep you warm on chilly night? Pick one from top 8 options](https://www.livemint.com/technology/gadgets/electric-blankets-to-keep-you-warm-on-chilly-night-pick-one-from-top-8-options-11701839965924.html)
 

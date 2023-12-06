@@ -1,3 +1,14 @@
+Wed, 06 Dec 2023 17:15:58 +0530
+### [Why BJP may pick new faces over old warhorses for CM job in 3 states](https://www.firstpost.com/explainers/rajasthan-chhattisgarh-madhya-pradesh-bjp-cm-face-assembly-election-results-13473282.html)
+
+Article found but Couldn't summarize 
+Why BJP may pick new faces over old warhorses for CM job in 3 states
+
+Wed, 06 Dec 2023 17:05:08 +0530
+### [Why DMK MP who made ‘Gaumutra states' remarks is a serial offender](https://www.firstpost.com/explainers/why-dmk-mp-who-made-gaumutra-states-remarks-is-a-serial-offender-13473332.html)
+
+DNV Senthil Kumar, a DMK MP, caused controversy with his remarks referring to the Hindi heartland as "Gaumutra states." He stated that when the BJP is unable to win a state, they make it a Union Territory to maintain control. His comments received backlash from various parties, leading him to apologize for causing offense. This is not the first time Senthil Kumar has been involved in such controversies. In previous instances, he made bizarre remarks about gods and family planning, criticized a government official for a religious event, and faced criticism from Congress and BJP leaders.
+
 Wed, 06 Dec 2023 16:26:40 +0530
 ### [What is the 'cash-for-kidneys racket' at Apollo Hospitals?](https://www.firstpost.com/explainers/what-is-the-cash-for-kidneys-racket-at-apollo-hospitals-13473032.html)
 

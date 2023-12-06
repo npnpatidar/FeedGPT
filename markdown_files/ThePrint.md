@@ -1,3 +1,121 @@
+Wed, 06 Dec 2023 12:17:20 +0000
+### [Terror incidents in J-K declining since 2018, lowest in 2023: Parliament told](https://theprint.in/india/terror-incidents-in-j-k-declining-since-2018-lowest-in-2023-parliament-told/1874686/)
+
+The Indian government has reported a decline in terrorist incidents in Jammu and Kashmir over the past six years. The Minister of State for Home Affairs, Nityanand Rai, stated that there were 41 terrorist-initiated incidents and 44 encounters in the region until November 15 of this year. This is significantly lower compared to previous years, with 125 incidents and 117 encounters reported in 2022. In terms of casualties, 13 civilians and 20 security forces personnel were killed in terrorist incidents in 2023. The government emphasized its commitment to the development of Jammu and Kashmir, with several projects underway in sectors such as roads, power, health, education, tourism, agriculture, and skill development. The union territory has also attracted significant investment in recent years.
+
+Wed, 06 Dec 2023 12:17:13 +0000
+### [Micron’s semiconductor project in Gujarat gains momentum, to provide job opportunities](https://theprint.in/economy/microns-semiconductor-project-in-gujarat-gains-momentum-to-provide-job-opportunities/1874684/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 6 (ANI): Micron&#8217;s ambitious semiconductor project in Sanand, Gujarat, is progressing at an accelerated pace, achieving significant milestones within a short span. The Union Cabinet, led by Prime Minister Shri Narendra Modi, approved Micron&#8217;s semiconductor unit in India, with a substantial capital investment of Rs 22,516 crore (USD 2.75 billion) in [&#8230;]
+
+Wed, 06 Dec 2023 12:17:10 +0000
+### [Atishi asks officials to finish work on under-construction flyover in Anand Vihar by April](https://theprint.in/india/atishi-asks-officials-to-finish-work-on-under-construction-flyover-in-anand-vihar-by-april/1874682/)
+
+The Delhi PWD Minister, Atishi, has inspected an under-construction flyover in Anand Vihar and instructed officials to complete the work by April 2024. The six-lane flyover aims to reduce traffic congestion from Apsara Border to Anand Vihar, making east Delhi traffic jam-free. Atishi emphasized that delays in construction will not be tolerated and urged officials to speed up the work by increasing manpower and machinery. She also demanded weekly progress reports. If the construction is not completed on time, action will be taken against the officials. Once finished, the flyover is expected to benefit around 1.48 lakh daily commuters, saving them over 11 minutes per trip and reducing carbon dioxide emissions by 1.50 lakh tonnes. Additionally, the project is estimated to save 16.57 lakh litres of fuel annually, resulting in a cost savings of Rs 144.78 crore for the people.
+
+Wed, 06 Dec 2023 12:17:02 +0000
+### [Ananya Panday gives a shoutout to “baby sister” Suhana over her acting debut](https://theprint.in/feature/ananya-panday-gives-a-shoutout-to-baby-sister-suhana-over-her-acting-debut/1874681/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 6 (ANI): Shah Rukh Khan and Gauri Khan&#8217;s daughter Suhana Khan has entered the film industry with a bang. Her debut film &#8216;The Archies&#8217; got a grand premiere on Tuesday night, where the who&#8217;s who of Bollywood marked their presence. Suhana&#8217;s closest friend and actor Ananya Panday, too, came to the [&#8230;]
+
+Wed, 06 Dec 2023 12:16:58 +0000
+### [India logs 119 Covid cases](https://theprint.in/india/india-logs-119-covid-cases/1874680/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 6 (PTI) India on Wednesday recorded a single-day rise of 119 COVID-19 infections, while the number of active cases stood at 587, according to Union health ministry data. India&#8217;s COVID-19 tally stands at 4.50 crore (4,50,02,440) and the death toll at 5,33,302, the data stated. So far, 4,44,68,551 people have recuperated from [&#8230;]
+
+Wed, 06 Dec 2023 12:16:45 +0000
+### [Sikkim ex-CM meets governor over law and order](https://theprint.in/india/sikkim-ex-cm-meets-governor-over-law-and-order/1874679/)
+
+Article found but Couldn't summarize 
+Gangtok, Dec 6 (PTI) A Sikkim Democratic Front (SDF) delegation led by former chief minister Pawan Kumar Chamling on Wednesday submitted a memorandum to Governor Lakshman Acharya seeking his intervention into alleged deterioration of law and order in the state. Claiming that the ruling Sikkim Krantikari Morcha (SKM) supporters had thrashed nine SDF workers in [&#8230;]
+
+Wed, 06 Dec 2023 12:16:32 +0000
+### [Gujarat’s Garba dance gets included in UNESCO’s intangible cultural heritage list](https://theprint.in/india/gujarats-garba-dance-gets-included-in-unescos-intangible-cultural-heritage-list/1874677/)
+
+Article found but Couldn't summarize 
+Ahmedabad, Dec 6 (PTI) UNESCO has approved the inclusion of Gujarat&#8217;s traditional Garba dance in its `Representative List of the Intangible Cultural Heritage of Humanity&#8217;, Chief Minister Bhupendra Patel announced here on Wednesday. India had nominated Garba, performed across Gujarat and in many other parts of the country during the Navratri festival, for inclusion in [&#8230;]
+
+Wed, 06 Dec 2023 12:16:29 +0000
+### [Bank of England to look closer at rise of AI in finance: Woods](https://theprint.in/tech/bank-of-england-to-look-closer-at-rise-of-ai-in-finance-woods/1874676/)
+
+Article found but Couldn't summarize 
+LONDON (Reuters) - The Bank of England is looking closely at the growing use of artificial intelligence by financial firms but specific regulations that target AI may not be the best way forward,
+
+Wed, 06 Dec 2023 12:16:21 +0000
+### [Amid tight fiscal, Revanth Reddy, as CM of Telangana, tasked with delivering ‘six’ guarantees](https://theprint.in/india/amid-tight-fiscal-revanth-reddy-as-cm-of-telangana-tasked-with-delivering-six-guarantees/1874674/)
+
+Article found but Couldn't summarize 
+Hyderabad, Dec 6 (PTI) Telangana PCC President A Revanth Reddy who is set to take over the reins of the state from Thursday will have a daunting task of making the bleak coffers ring to be able to fulfill the “six guarantees” that the Congress party gave during the run up to the recently concluded [&#8230;]
+
+Wed, 06 Dec 2023 12:16:17 +0000
+### [SentinelOne raises annual revenue forecast on robust cybersecurity spending (Dec. 5)](https://theprint.in/tech/sentinelone-raises-annual-revenue-forecast-on-robust-cybersecurity-spending-dec-5/1874672/)
+
+Article found but Couldn't summarize 
+(Corrects to fourth quarter from third quarter in paragraph one) (Reuters) -Cybersecurity firm SentinelOne on Tuesday forecast fourth-quarter revenue above Wall Street estimates and raised its annual
+
+Wed, 06 Dec 2023 12:16:11 +0000
+### [Democratic nations must look at the ‘internal forces’: Tibetan leader on China](https://theprint.in/india/democratic-nations-must-look-at-the-internal-forces-tibetan-leader-on-china/1874670/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 6 (PTI) Tibetan people are &#8220;dying a slow death&#8221; in the face of China&#8217;s repression and the democratic nations must stand up to the Chinese belligerence, the president of Tibet&#8217;s government-in-exile Penpa Tsering has said. Tsering said democratic nations around the world must look at the &#8220;internal forces&#8221; such as the Tibetans, [&#8230;]
+
+Wed, 06 Dec 2023 12:16:03 +0000
+### [Explainer-Is the Hollywood actors’ strike over?](https://theprint.in/entertainment/explainer-is-the-hollywood-actors-strike-over-2/1874669/)
+
+Article found but Couldn't summarize 
+(Reuters) -Hollywood actors on Tuesday approved a three-year contract with major studios and streamers, formally ending the six months of labor disputes that had brought the industry to a standstill.
+
+Wed, 06 Dec 2023 12:16:00 +0000
+### [Kashmir suffered for years due to Jawaharlal Nehru’s two major blunders: Shah](https://theprint.in/india/kashmir-suffered-for-years-due-to-jawaharlal-nehrus-two-major-blunders-shah/1874668/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 6 (PTI) Home Minister Amit Shah on Wednesday blamed India&#8217;s first prime minister Jawaharlal Nehru&#8217;s &#8220;two major blunders&#8221; &#8212; declaring a ceasefire without winning the entire Kashmir and taking the issue to the United Nations &#8212; for the sufferings of the people of Jammu and Kashmir. Replying to a debate in the [&#8230;]
+
+Wed, 06 Dec 2023 12:15:48 +0000
+### [Brazil sees no risk of armed conflict between Guyana and Venezuela -minister](https://theprint.in/world/brazil-sees-no-risk-of-armed-conflict-between-guyana-and-venezuela-minister/1874667/)
+
+Article found but Couldn't summarize 
+RIO DE JANEIRO (Reuters) - Brazilian Foreign Relations Minister Mauro Vieira said on Wednesday he sees no risk of an armed conflict between neighbors Guyana and Venezuela, despite the increasing
+
+Wed, 06 Dec 2023 12:15:47 +0000
+### [INDIA bloc: TMC urges swift seat sharing and manifesto finalisation for effective opposition](https://theprint.in/india/india-bloc-tmc-urges-swift-seat-sharing-and-manifesto-finalisation-for-effective-opposition/1874665/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 6 (PTI) Amidst signs of discord within the INDIA opposition bloc, TMC has underscored the importance of expeditious seat-sharing talks, establishing a collective narrative and finalising the manifesto to mount a credible challenge against the saffron camp. A meeting of the top leaders of the INDIA opposition bloc has been deferred to the [&#8230;]
+
+Wed, 06 Dec 2023 12:15:39 +0000
+### [Putin talks oil, Gaza and Ukraine on Middle East trip, to meet Saudi’s MbS](https://theprint.in/world/putin-talks-oil-gaza-and-ukraine-on-middle-east-trip-to-meet-saudis-mbs/1874664/)
+
+Article found but Couldn't summarize 
+By Vladimir Soldatkin and Guy Faulconbridge MOSCOW (Reuters) -Russian President Vladimir Putin will meet Crown Prince Mohammed bin Salman in Saudi Arabia on Wednesday, during a rare trip abroad, to
+
+Wed, 06 Dec 2023 12:15:36 +0000
+### [Hungary plans to turn Amrita Sher-Gil’s Lahore residence into museum](https://theprint.in/world/hungary-plans-to-turn-amrita-sher-gils-lahore-residence-into-museum/1874662/)
+
+Article found but Couldn't summarize 
+Lahore, Dec 6 (PTI) Hungary plans to turn Hungarian-Indian painter Amrita Sher-Gil&#8217;s Ganga Ram Mansions on The Mall here into a museum, a top diplomat of the country said as several art lovers and intellectuals gathered for the unveiling of a commemorative plaque and an exhibition to pay homage to the celebrated artist. In connection [&#8230;]
+
+Wed, 06 Dec 2023 12:15:30 +0000
+### [Greek villagers vote to relocate after deadly climate-driven flood](https://theprint.in/world/greek-villagers-vote-to-relocate-after-deadly-climate-driven-flood/1874660/)
+
+Article found but Couldn't summarize 
+(Fixes typo in paragraph 4) By Karolina Tagaris ATHENS (Reuters) -Residents of the small Greek farming village of Metamorfosi have voted in favour of relocating their entire community after it was
+
+Wed, 06 Dec 2023 12:15:25 +0000
+### [Lalbiaktluanga Khiangte appointed as Jharkhand chief secretary](https://theprint.in/india/lalbiaktluanga-khiangte-appointed-as-jharkhand-chief-secretary/1874658/)
+
+Article found but Couldn't summarize 
+Ranchi, Dec 6 (PTI) Lalbiaktluanga Khiangte, a 1988-batch Jharkhand IAS officer, has been appointed as the new chief secretary of the state, an official notification said on Wednesday. Khiangte replaces Sukhdev Singh, who has been made the director general of Shri Krishna Institute of Public Administration, it said. Khiangte, who was holding the charge of [&#8230;]
+
+Wed, 06 Dec 2023 12:15:21 +0000
+### [British hedge fund trader lands in Denmark after extradition from UAE](https://theprint.in/world/british-hedge-fund-trader-lands-in-denmark-after-extradition-from-uae/1874657/)
+
+Article found but Couldn't summarize 
+By Hadeel Al Sayegh and Jacob Gronholt-Pedersen DUBAI/COPENHAGEN (Reuters) -A British hedge fund trader arrived in Denmark on Wednesday following extradition from the United Arab Emirates to stand
+
 Wed, 06 Dec 2023 11:02:11 +0000
 ### [Anardana’s Winter Culinary Extravaganza: A Feast for the Senses](https://theprint.in/ani-press-releases/anardanas-winter-culinary-extravaganza-a-feast-for-the-senses/1874519/)
 

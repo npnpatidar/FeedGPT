@@ -1,3 +1,21 @@
+2023-12-06T17:44:26+05:30
+### [In Telangana, Voting is Driven by a Social Agenda Rather Than Exclusive Electoral Concerns](https://thewire.in/politics/telangana-model-of-development)
+
+No Article text 
+A core feature of the ‘Telangana model’ of social development that goes beyond electoral representation is a direct synergy between civil society and social activism that has the potential to influence public opinion and electoral outcomes.
+
+2023-12-06T17:30:06+05:30
+### [In Kashmir’s Pulwama, a Teacher Facilitates the Return of Migrant Workers' Bodies to Their Families](https://thewire.in/society/in-kashmirs-pulwama-a-teacher-facilitates-the-return-of-migrant-workers-bodies-to-their-families)
+
+No Article text 
+Since 2022, Faisal Parray has voluntarily assisted in facilitating the return of at least 20 migrants who died in the valley back home.
+
+2023-12-06T16:50:45+05:30
+### [B.R. Ambedkar's Fears on the EC's Independence, Boycott of Minorities Are Coming True](https://thewire.in/history/b-r-ambedkars-fears-on-the-ecs-independence-boycott-of-minorities-are-coming-true)
+
+No Article text 
+The Election Commission's actions during the recent state assembly elections suggest that Ambedkar's warning – that it may come under “the thumb of the executive” – was well placed.
+
 2023-12-06T16:19:51+05:30
 ### [By Evading Accountability, Indian Military Suffers More Losses Than Those Inflicted by Enemies](https://thewire.in/security/by-evading-accountability-indian-military-suffers-more-losses-than-those-inflicted-by-enemies)
 

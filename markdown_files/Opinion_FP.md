@@ -1,3 +1,14 @@
+Wed, 06 Dec 2023 17:32:34 +0530
+### [Enchanting saga of Field Marshal Sam Manekshaw: The soldiers' general, people’s leader and gentleman warrior](https://www.firstpost.com/opinion/enchanting-saga-of-field-marshal-sam-manekshaw-the-soldiers-general-peoples-leader-and-gentleman-warrior-13473392.html)
+
+Article found but Couldn't summarize 
+Enchanting saga of Field Marshal Sam Manekshaw: The soldiers' general, people’s leader and gentleman warrior
+
+Wed, 06 Dec 2023 16:50:43 +0530
+### [View from Abroad | The BJP bloc: Women, youth, farmers, poor... and Muslims?](https://www.firstpost.com/opinion/view-from-abroad-the-bjp-bloc-women-youth-farmers-poor-and-muslims-13473362.html)
+
+The article discusses the voting patterns in India based on a survey conducted by Pew Research Center. The data indicates that there were no significant differences in voting patterns between men and women or across different age groups for both major parties, BJP and Congress. However, when it comes to household incomes, the BJP's voters tend to skew towards the poorer section of society, while the Congress's voters are relatively better-off. In terms of religion, the BJP received strong support from Hindus, while Congress performed well among Christians. Among Muslims, Congress had a slight advantage over the BJP, especially among poorer Muslims. In terms of caste, the BJP's vote advantage was higher among OBC (Other Backward Classes) and MBC (Most Backward Classes) groups, challenging the perception of it being a Brahmin/Bania party. The article suggests that if any party can be seen as a Brahmin/Bania party, it is the Congress. It also highlights the significance of appealing to OBCs in order to challenge the BJP's dominance. The article concludes by noting that until India develops a straightforward two-party system, elections will remain messy and unpredictable.
+
 Wed, 06 Dec 2023 16:32:25 +0530
 ### [Vantage | What Putin's rare trip abroad to UAE, Saudi is all about](https://www.firstpost.com/opinion/vantage-what-putins-rare-trip-abroad-to-uae-saudi-is-all-about-13473122.html)
 

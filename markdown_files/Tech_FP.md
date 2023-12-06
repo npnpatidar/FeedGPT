@@ -1,3 +1,14 @@
+Wed, 06 Dec 2023 17:28:48 +0530
+### [China claims to have developed 'most powerful' microwave weapon for drones, can jam comms for miles](https://www.firstpost.com/tech/china-claims-to-have-developed-most-powerful-microwave-weapon-for-drones-can-jam-comms-for-miles-13473632.html)
+
+Chinese military scientists and industry engineers have claimed to develop the world's most powerful microwave weapon that can be fitted in a drone. The breakthrough, detailed in a peer-reviewed paper, involves a compact microwave source with versatile capabilities. It can function as a radar while jamming enemy radar and communication systems. The weapon's design allows for customization and easy integration with different drone models. This new technology operates over an ultra-wide frequency range and competes with larger weapons used in electronic warfare aircraft. Chinese researchers believe this advancement could permanently alter the balance of military power. China aims to leverage its advancements in unmanned aircraft technology to gain a strategic advantage, particularly in regions like the South China Sea and Taiwan. They plan to integrate these microwave weapons into hypersonic aircraft and other near-space platforms, expanding their influence in electronic warfare globally.
+
+Wed, 06 Dec 2023 17:01:28 +0530
+### [Cryobot: NASA shows off new concept probe for detecting extraterrestrial or ‘alien’ life](https://www.firstpost.com/tech/cryobot-nasa-shows-off-new-concept-probe-for-detecting-extraterrestrial-or-alien-life-13473432.html)
+
+Article found but Couldn't summarize 
+Cryobot: NASA shows off new concept probe for detecting extraterrestrial or ‘alien’ life
+
 Wed, 06 Dec 2023 16:38:28 +0530
 ### [Volkswagen may have used forced Uyghur Muslim labour in China factory](https://www.firstpost.com/tech/volkswagen-may-have-used-forced-uyghur-muslim-labour-in-china-factory-13473262.html)
 
