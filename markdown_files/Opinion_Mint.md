@@ -1,3 +1,21 @@
+Thu, 07 Dec 2023 08:00:14 +0530
+### [Auto sector: A vroom story with room for more](https://www.livemint.com/opinion/quick-edit/auto-sector-a-vroom-story-with-room-for-more-11701877326893.html)
+
+Article found but Couldn't summarize 
+High festive-season demand helped November notch up India’s largest monthly vehicle sales on record. Not just cars, two-wheelers too.
+
+Thu, 07 Dec 2023 08:00:14 +0530
+### [Stock rally: India’s youth bulge could support higher valuations](https://www.livemint.com/opinion/online-views/stock-rally-india-s-youth-bulge-could-support-higher-valuations-11701875628607.html)
+
+Article found but Couldn't summarize 
+Various factors have powered Indian stocks upwards and corporate earnings must keep up for a sustainable surge even if longer investment horizons start supporting larger PE ratios. It’s plausible.
+
+Thu, 07 Dec 2023 08:00:14 +0530
+### [Indian girls are challenging the rest of the world to keep pace](https://www.livemint.com/opinion/online-views/indian-girls-are-challenging-the-rest-of-the-world-to-keep-pace-11701875700998.html)
+
+Article found but Couldn't summarize 
+They are thirsty for education, jobs and fun. We must enable their aspirations and not stifle them—for they are the future of India.
+
 Wed, 06 Dec 2023 21:49:01 +0530
 ### [India must rework the risk-reward matrix to push up its innovation quotient](https://www.livemint.com/opinion/online-views/india-must-rework-the-risk-reward-matrix-to-push-up-its-innovation-quotient-11701866154591.html)
 

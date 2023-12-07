@@ -1,3 +1,9 @@
+Thu, 07 Dec 2023 08:07:11 +0530
+### [Governments 'using push notifications to spy on your iOS, Android devices](https://www.livemint.com/technology/tech-news/governments-using-push-notifications-to-spy-on-your-ios-android-devices-heres-how-it-works-apple-google-ron-wyden-11701913814764.html)
+
+Article found but Couldn't summarize 
+Foreign governments are using the push notification data stored by Apple and Google for spying on the users, US Senator Ron Wyden has argued in a letter written to the Justice Department.
+
 Wed, 06 Dec 2023 22:35:37 +0530
 ### [E-sports to be the next big bet](https://www.livemint.com/technology/tech-news/esports-to-be-the-next-big-bet-11701882062478.html)
 

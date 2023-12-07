@@ -1,3 +1,8 @@
+Thu, 07 Dec 2023 02:30:44 +0000
+### [How Archie emerged as a ‘wholesome’ comic book](https://indianexpress.com/article/explained/explained-culture/archie-comics-wholesome-history-9057580/)
+
+Article found but Couldn't summarize
+
 Wed, 06 Dec 2023 15:37:37 +0000
 ### [NMC logo: Why are doctors protesting now if it always had Dhanvantri’s image?](https://indianexpress.com/article/explained/nmc-logo-why-doctors-protesting-dhanvantri-9057392/)
 

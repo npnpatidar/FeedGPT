@@ -1,3 +1,116 @@
+Thu, 07 Dec 2023 03:17:01 +0000
+### [Regional cooperation strengthens Central Asia’s socio-economic fabric: World Bank’s decades-long commitment bears fruit](https://theprint.in/economy/regional-cooperation-strengthens-central-asias-socio-economic-fabric-world-banks-decades-long-commitment-bears-fruit/1875564/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 7 (ANI): For over three decades, the World Bank has been a steadfast supporter of Central Asian countries&#8217; development endeavours, working towards elevating living standards and fostering economic growth. According to the World Bank, embracing a forward-looking strategy, the Bank is intensifying its regional approach, promoting cross-border cooperation, dialogues, and knowledge [&#8230;]
+
+Thu, 07 Dec 2023 03:16:22 +0000
+### [Cricket-Curran, Buttler back in form as England beat Windies to level series](https://theprint.in/sport/cricket-curran-buttler-back-in-form-as-england-beat-windies-to-level-series/1875562/)
+
+Article found but Couldn't summarize 
+(Reuters) - Sam Curran took three wickets and Jos Buttler scored a half-century to help England claim a six-wicket victory over West Indies in the second one-day international on Wednesday, levelling
+
+Thu, 07 Dec 2023 03:16:13 +0000
+### [Tennis-Djokovic still the man but youngsters knocking on the door](https://theprint.in/sport/tennis-djokovic-still-the-man-but-youngsters-knocking-on-the-door/1875560/)
+
+Article found but Couldn't summarize 
+By Shrivathsa Sridhar (Reuters) - Novak Djokovic tightened his iron grip on men's tennis in 2023 but fans got another glimpse of the sport's future flagbearers as Carlos Alcaraz stopped the Serb from
+
+Thu, 07 Dec 2023 03:16:03 +0000
+### [Soccer-Pochettino ‘not disappointed’ in Chelsea performance despite Man United loss](https://theprint.in/sport/soccer-pochettino-not-disappointed-in-chelsea-performance-despite-man-united-loss/1875558/)
+
+Article found but Couldn't summarize 
+(Reuters) - Chelsea manager Mauricio Pochettino said he was not disappointed in their performance in Wednesday's 2-1 loss at Manchester United because his players "gave everything." Pochettino said
+
+Thu, 07 Dec 2023 03:15:49 +0000
+### [‘Oppenheimer’ to screen in Japan next year after nuclear controversy](https://theprint.in/entertainment/oppenheimer-to-screen-in-japan-next-year-after-nuclear-controversy/1875556/)
+
+Universal Pictures' film "Oppenheimer," directed by Christopher Nolan, is set to debut in Japan in 2024, according to local distributor Bitters End. The release had faced uncertainty due to criticism that the movie downplays the devastation caused by the atomic bombings of Hiroshima and Nagasaki. Despite the controversy, the biopic about J. Robert Oppenheimer, the pioneer of atomic bombs, has achieved tremendous global success with over $950 million in box office earnings since its July premiere. The film is also expected to be a strong contender for various film awards. In addition to the controversy surrounding its content, the movie faced backlash for its marketing campaign, which unintentionally linked it to the blockbuster film "Barbie." Fan-produced images featuring the stars of both films alongside nuclear blasts caused offense among many Japanese viewers. Warner Bros., the distributor of "Barbie," issued an apology in response to the backlash. The atomic bombings, which occurred toward the end of World War Two, led to over 200,000 deaths.
+
+Thu, 07 Dec 2023 03:15:39 +0000
+### [Las Vegas campus shooting leaves 4 dead, including suspect](https://theprint.in/world/las-vegas-campus-shooting-leaves-4-dead-including-suspect/1875554/)
+
+Article found but Couldn't summarize 
+By Steve Gorman and Brad Brooks (Reuters) -A lone shooter opened fire on the main campus of the University of Nevada, Las Vegas, on Wednesday, killing three people and wounding a fourth before the
+
+Thu, 07 Dec 2023 03:15:32 +0000
+### [Venezuela arrests opposition figure, issues warrants for staffers for treason](https://theprint.in/world/venezuela-arrests-opposition-figure-issues-warrants-for-staffers-for-treason/1875553/)
+
+Article found but Couldn't summarize 
+By Vivian Sequera and Sabrina Valle BOGOTA/HOUSTON (Reuters) -Venezuela on Wednesday arrested an opposition member for alleged treason, after the attorney general said earlier there are arrest
+
+Thu, 07 Dec 2023 03:15:23 +0000
+### [US military grounds V-22 Osprey aircraft after fatal Japan crash](https://theprint.in/world/us-military-grounds-v-22-osprey-aircraft-after-fatal-japan-crash/1875551/)
+
+Article found but Couldn't summarize 
+By Idrees Ali WASHINGTON/TOKYO (Reuters) -The U.S. military said on Wednesday it was grounding its fleet of V-22 Osprey aircraft after a fatal crash last week off the coast of Japan that killed eight
+
+Thu, 07 Dec 2023 03:15:15 +0000
+### [Revanth Reddy to be sworn-in as Telangana CM on Thursday](https://theprint.in/india/revanth-reddy-to-be-sworn-in-as-telangana-cm-on-thursday/1875549/)
+
+Article found but Couldn't summarize 
+Hyderabad, Dec 7 (PTI) Congress legislature party leader Anumula Revanth Reddy would take oath as the second Chief Minister of Telangana on Thursday following the party&#8217;s victory in the recently concluded Assembly elections. The swearing-in ceremony of the 56-year-old leader would be held at 1.04 PM at the sprawling LB Stadium here. State Chief Secretary [&#8230;]
+
+Thu, 07 Dec 2023 03:15:13 +0000
+### [India rupee to struggle as weak risk boosts safe-haven dollar](https://theprint.in/india/india-rupee-to-struggle-as-weak-risk-boosts-safe-haven-dollar/1875548/)
+
+Article found but Couldn't summarize 
+By Nimesh Vora MUMBAI (Reuters) - The Indian rupee is expected to decline at open on Thursday as poor risk appetite fuelled demand for the safe-haven U.S. dollar. Non-deliverable forwards indicate the
+
+Thu, 07 Dec 2023 03:15:02 +0000
+### [90 newly elected MLAs in Madhya Pradesh face criminal cases](https://theprint.in/india/90-newly-elected-mlas-in-madhya-pradesh-face-criminal-cases/1875546/)
+
+Article found but Couldn't summarize 
+Bhopal, Dec 7 (PTI) As many as 90 of the 230 newly elected MLAs in Madhya Pradesh, almost 39 per cent of the assembly strength, have declared criminal cases against themselves, with 34 facing serious charges for which maximum punishment is more than five years in jail among other criteria. According to the Association for [&#8230;]
+
+Thu, 07 Dec 2023 03:15:02 +0000
+### [Indian shares set to open higher on softer oil prices, US rate cut bets](https://theprint.in/india/indian-shares-set-to-open-higher-on-softer-oil-prices-us-rate-cut-bets/1875545/)
+
+Article found but Couldn't summarize 
+BENGALURU (Reuters) - India's benchmark indexes are set to open at fresh record highs for a fourth session in a row on Thursday, after U.S. economic data kept intact the expectations of a U.S. Federal
+
+Thu, 07 Dec 2023 03:07:16 +0000
+### [Nothing ‘kazual’ about Vijender Chauhan—man who’s helping UPSC aspirants crack the interview](https://theprint.in/ground-reports/nothing-kazual-about-vijender-chauhan-man-whos-helping-upsc-aspirants-crack-the-interview/1874733/)
+
+Article found but Couldn't summarize 
+Chauhan’s life changed after memes on him went viral. Now he cannot go to the restaurants without people coming and talking to him, asking for pictures.
+
+Thu, 07 Dec 2023 03:02:02 +0000
+### [Ajay Banga unleashes vision for IDA: A pioneering agenda to eradicate poverty and ignite global development](https://theprint.in/economy/ajay-banga-unleashes-vision-for-ida-a-pioneering-agenda-to-eradicate-poverty-and-ignite-global-development/1875539/)
+
+Article found but Couldn't summarize 
+Zanzibar [Tanzania], December 7 (ANI): World Bank President Ajay Banga, in his remarks at the International Development Association (IDA) Midterm Review, emphasized the need for an aggressive, simultaneous, and comprehensive response to the complex challenges faced by developing countries today. The event took place in Zanzibar, Tanzania, with Banga extending condolences for recent floods in [&#8230;]
+
+Thu, 07 Dec 2023 02:47:02 +0000
+### [Charlie Sheen talks about his return to TV, calls it “surreal”](https://theprint.in/feature/charlie-sheen-talks-about-his-return-to-tv-calls-it-surreal/1875537/)
+
+Article found but Couldn't summarize 
+Washington [US], December 7 (ANI): Actor Charlie Sheen, who was famously sacked from his hit sitcom &#8216;Two and a Half Men&#8217; for erratic behaviour, shared that he&#8217;s now sober, happy, and ready to work again, reported People. Sheen has been out of the spotlight for the past six years, focusing on his recovery, parenting his [&#8230;]
+
+Thu, 07 Dec 2023 02:45:34 +0000
+### [Meta to start fully encrypting messages on Facebook and Messenger](https://theprint.in/tech/meta-to-start-fully-encrypting-messages-on-facebook-and-messenger/1875535/)
+
+Article found but Couldn't summarize 
+(Reuters) -Meta Platforms said on Wednesday it has started to roll out end-to-end encryption for all personal chats and calls on Messenger and Facebook. The end-to-end encryption feature will be
+
+Thu, 07 Dec 2023 02:45:14 +0000
+### [Sean ‘Diddy’ Combs accused in gang-rape of teenager in New York](https://theprint.in/world/sean-diddy-combs-accused-in-gang-rape-of-teenager-in-new-york/1875533/)
+
+Article found but Couldn't summarize 
+By Steve Gorman (Reuters) - Hip-hop star Sean "Diddy" Combs was accused in federal court on Wednesday of taking part in the gang rape of a 17-year-old girl in his Manhattan recording studio in 2003,
+
+Thu, 07 Dec 2023 02:45:04 +0000
+### [Japan prosecutors to investigate ruling party heavyweights over fundraising -Yomiuri](https://theprint.in/world/japan-prosecutors-to-investigate-ruling-party-heavyweights-over-fundraising-yomiuri/1875531/)
+
+Article found but Couldn't summarize 
+TOKYO (Reuters) - Japanese prosecutors will start investigating several dozen ruling party lawmakers, including current ministers, next week over unreported fundraising of over 100 million yen (
+
+Thu, 07 Dec 2023 02:30:38 +0000
+### [Only Modi can defeat Modi in 2024. Squabbling INDIA coalition leaders are just a sideshow](https://theprint.in/opinion/sharp-edge/only-modi-can-defeat-modi-in-2024-squabbling-india-coalition-leaders-are-just-a-sideshow/1875155/)
+
+Article found but Couldn't summarize 
+Congress has no natural allies today, only enemies. But even after the opposition leaders have reunited under INDIA, it won't be enough to challenge the BJP in 2024.
+
 Thu, 07 Dec 2023 02:16:56 +0000
 ### [Boxing-Influencers pack a punch as heavyweight logjam finally set to break](https://theprint.in/sport/boxing-influencers-pack-a-punch-as-heavyweight-logjam-finally-set-to-break/1875530/)
 

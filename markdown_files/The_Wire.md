@@ -1,3 +1,15 @@
+2023-12-07T08:43:07+05:30
+### [Las Vegas University Shooting: Police Say 3 Victims Dead, Plus Gunman](https://thewire.in/world/las-vegas-university-shooting-police-say-3-victims-dead-plus-gunman)
+
+No Article text 
+At least 203 people have been killed in mass shootings in the US this year.
+
+2023-12-07T08:31:12+05:30
+### [In US Senate Hearing on 'Transnational Repression', Many Questions on India's Role in Pannun Case](https://thewire.in/world/in-us-senate-hearing-on-transnational-repression-many-questions-on-indias-role-in-pannun-case)
+
+No Article text 
+India's actions were listed alongside other cases of cross-border repression by Washington’s perennial adversaries, including China, Russia and Iran.
+
 2023-12-07T08:00:54+05:30
 ### [Progressives Need To Stop Hectoring the INDIA Parties on What They Did and Did Not Do](https://thewire.in/politics/progressives-stop-hectoring-india-parties)
 
