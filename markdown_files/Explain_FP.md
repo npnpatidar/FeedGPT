@@ -1,3 +1,8 @@
+Thu, 07 Dec 2023 12:19:03 +0530
+### [Why is FBI chief visiting India amid US allegations of foiled ‘plot to kill’ Pannun?](https://www.firstpost.com/explainers/why-is-fbi-chief-christopher-wray-visiting-india-amid-us-allegations-of-foiled-plot-to-kill-pannun-13475922.html)
+
+The FBI Director, Christopher Wray, is planning to visit India on December 11 and 12. This visit comes after US federal prosecutors filed an indictment accusing an Indian national, Nikhil Gupta, and an unnamed Indian official of being involved in a plot to assassinate Khalistani terrorist Gurpatwant Singh Pannun in the United States. The purpose of Wray's visit is to strengthen ties between the US and India on law enforcement issues. During his visit, Wray is expected to meet with National Investigation Agency chief Dinkar Gupta and other senior officials from India's intelligence agencies and Ministry of Home Affairs. Discussions will focus on topics such as Khalistan terrorism, Pakistan-sponsored terror activities in Jammu and Kashmir, and the gangster nexus. The US is waiting for the results of India's investigation into the alleged assassination attempt before taking any further action.
+
 Thu, 07 Dec 2023 11:48:49 +0530
 ### [Why is Italy pulling out of China’s ambitious Belt and Road Initiative?](https://www.firstpost.com/explainers/why-italy-wants-out-of-chinas-bri-project-and-how-india-may-benefit-from-it-13108922.html)
 

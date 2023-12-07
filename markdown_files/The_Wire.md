@@ -1,3 +1,15 @@
+2023-12-07T12:28:02+05:30
+### [Two Years On, Union Asks for Another Week’s Time to Submit Guidelines for Seizure of Devices](https://thewire.in/law/two-years-on-union-asks-for-another-weeks-time-to-submit-guidelines-for-seizure-of-devices)
+
+No Article text 
+The petition seeking framing of guidelines on the matter was filed by the Foundation for Media Professionals in 2021.
+
+2023-12-07T12:00:30+05:30
+### [The Only Way to Deal With the Stubble Burning Issue Is to Treat It as a Policy Matter](https://thewire.in/government/the-only-way-to-deal-with-the-stubble-burning-issue-is-to-treat-it-as-a-policy-matter)
+
+No Article text 
+One potential solution could involve purchasing stubble from farmers and storing it at nearby manned centres. Technologies such as the Pusa dispenser could be used to convert the stubble into manure.
+
 2023-12-07T11:33:44+05:30
 ### [Four Days Since Election Results, Opposition MPs Ask Why No BJP CMs Announced Yet](https://thewire.in/politics/four-days-since-election-results-opposition-mps-ask-why-no-bjp-cms-announced-yet)
 

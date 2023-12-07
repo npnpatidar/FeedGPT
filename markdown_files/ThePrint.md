@@ -1,3 +1,121 @@
+Thu, 07 Dec 2023 07:02:02 +0000
+### [Koffee With Karan 8: Vicky Kaushal recalls how he proposed to Katrina Kaif](https://theprint.in/feature/koffee-with-karan-8-vicky-kaushal-recalls-how-he-proposed-to-katrina-kaif/1875857/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 7 (ANI): Actor Vicky Kaushal is celebrating the success of his film, &#8216;Sam Bahadur.&#8217; He recently appeared on &#8216;Koffee with Karan 8&#8217; with Kiara Advani. The actor opened up about his personal life, discussing his &#8221; not so well planned&#8221; proposal to Katrina Kaif. He shared, &#8220;It was very last minute. [&#8230;]
+
+Thu, 07 Dec 2023 07:00:36 +0000
+### [Robust Nov foreign inflows in Asian equities signal positive outlook for 2024](https://theprint.in/economy/robust-nov-foreign-inflows-in-asian-equities-signal-positive-outlook-for-2024/1875855/)
+
+Asian equities attracted significant foreign investment in November, indicating the potential for continued inflows in the coming year. The decrease in U.S. Treasury yields and growing optimism for Federal Reserve rate cuts contributed to this trend. Data from stock exchanges across several Asian countries showed that foreign investors purchased a net $11.16 billion worth of stocks last month, the highest since May. Cooler U.S. inflation and dovish comments from Federal Reserve officials led to notable declines in U.S. Treasury yields and the dollar. This has sparked interest among foreign investors who may have a greater appetite for emerging market assets with lower USD interest rates and a weaker USD. Asian equities have experienced a significant turnaround, receiving a net inflow of $14.03 billion this year, compared to net selling of approximately $57.52 billion in 2022. Taiwanese stocks saw the highest foreign inflows since at least 2008, while South Korean and Indian equities also attracted substantial investments. However, Philippine stocks witnessed only slight inflows after three months of outflows, while Thai and Vietnamese shares experienced outflows. Analysts predict that Asia may demonstrate resilience in the coming year, outperforming other regions due to strong fundamentals and growth prospects, particularly in industries such as AI and semiconductors.
+
+Thu, 07 Dec 2023 07:00:26 +0000
+### [Cold condition intensify in Kashmir](https://theprint.in/india/cold-condition-intensify-in-kashmir/1875853/)
+
+Srinagar, the summer capital of Jammu and Kashmir, experienced its coldest night of the season so far, with temperatures dropping to minus 2.6 degrees Celsius. Other areas in the valley also recorded sub-zero temperatures, including Pahalgam at minus 4.9 degrees Celsius and Gulmarg at minus 2.5 degrees Celsius. The meteorological office forecasts partly to generally cloudy weather with a decrease in night temperatures until December 11. There is a possibility of light rain or snow in the higher reaches of Jammu and Kashmir from December 12 to 15.
+
+Thu, 07 Dec 2023 07:00:23 +0000
+### [Singapore, China plan reciprocal 30-day visa-free entry](https://theprint.in/world/singapore-china-plan-reciprocal-30-day-visa-free-entry/1875852/)
+
+Article found but Couldn't summarize 
+(Reuters) -Singapore and China will put in place a 30-day mutual visa exemption agreement early next year, the Singapore foreign ministry said on Thursday. "Both countries will work out the
+
+Thu, 07 Dec 2023 07:00:14 +0000
+### [Two youths held for killing 16-year-old boy in Maharashtra’s Thane district](https://theprint.in/india/two-youths-held-for-killing-16-year-old-boy-in-maharashtras-thane-district/1875850/)
+
+Article found but Couldn't summarize 
+Thane, Dec 7 (PTI) The police in Maharashtra’s Thane district on Thursday arrested two young men from Bhiwandi for allegedly killing a 16-year-old boy over past enmity, an official said. Accused Ayush Virendra Jha and Manoj Tope, both 19, allegedly killed victim Yogesh Ravi Sharma at Retibunder area on November 25 and buried the body [&#8230;]
+
+Thu, 07 Dec 2023 07:00:13 +0000
+### [UAE planning to develop a national investment strategy -minister](https://theprint.in/world/uae-planning-to-develop-a-national-investment-strategy-minister/1875849/)
+
+Article found but Couldn't summarize 
+By Rachna Uppal ABU DHABI (Reuters) - The United Arab Emirates is working on developing a national investment strategy, its recently appointed investment minister, Mohamed Al Suwaidi, said on Thursday
+
+Thu, 07 Dec 2023 07:00:03 +0000
+### [Seychelles declares state of emergency after explosion, flooding](https://theprint.in/world/seychelles-declares-state-of-emergency-after-explosion-flooding/1875847/)
+
+Article found but Couldn't summarize 
+NAIROBI (Reuters) - Seychelles President Wavel Ramkalawan declared a state of emergency on Thursday after a blast at an explosives depot and heavy rains damaged an industrial zone and surrounding
+
+Thu, 07 Dec 2023 07:00:03 +0000
+### [Pak court to hear Nawaz Sharif’s appeal against his conviction in Al-Azizia corruption case](https://theprint.in/world/pak-court-to-hear-nawaz-sharifs-appeal-against-his-conviction-in-al-azizia-corruption-case/1875846/)
+
+Article found but Couldn't summarize 
+Islamabad, Dec 7 (PTI) The Islamabad High Court will hear on Thursday an appeal by former Pakistan prime minister Nawaz Sharif against his conviction in the Al-Azizia Steel mill corruption case. Sharif, 73, was sentenced to seven years in jail and imposed a heavy fine by an anti-corruption court in December 2018 after he failed [&#8230;]
+
+Thu, 07 Dec 2023 06:49:43 +0000
+### [Gabbar, memes & Rajkummar Rao — ECI targets ‘urban & youth’ population with its ‘Desh ka Form’ campaign](https://theprint.in/india/gabbar-memes-rajkummar-rao-eci-targets-urban-youth-population-with-its-desh-ka-form-campaign/1875598/)
+
+Article found but Couldn't summarize 
+Election Commission of India's multimedia 'Desh Ka Form' campaign aims to draw attention of existing &#38; tentative voters to check or add their names in electoral rolls ahead of 2024 polls.
+
+Thu, 07 Dec 2023 06:47:57 +0000
+### [Pakistan: Pashtun Tahaffuz Movement appeals to UN for immediate release of activist Manzoor Pashteen](https://theprint.in/world/pakistan-pashtun-tahaffuz-movement-appeals-to-un-for-immediate-release-of-activist-manzoor-pashteen/1875837/)
+
+Article found but Couldn't summarize 
+Balochistan [Pakistan], December 7 (ANI): The Pashtun Tahaffuz Movement (PTM) has appealed to the United Nations (UN) demanding the immediate release of PTM chief Manzoor Pashteen and has also condemned his assassination attempt by the Pakistan Army. In a letter penned to the UN High Commissioner for Human Rights, the PTM has &#8220;strongly condemned the [&#8230;]
+
+Thu, 07 Dec 2023 06:47:48 +0000
+### [Hearst Magazines and RPSG Lifestyle Media to launch the Indian edition of Esquire](https://theprint.in/ani-press-releases/hearst-magazines-and-rpsg-lifestyle-media-to-launch-the-indian-edition-of-esquire/1875834/)
+
+Article found but Couldn't summarize 
+PNN Mumbai (Maharashtra) [India], December 7: Hearst Magazines International today announced the launch of Esquire India under a multi-year licensing agreement with RPSG Lifestyle Media. Esquire is one of the world&#8217;s most respected men&#8217;s magazine titles. Established in 1933, Esquire presents man at his best, focusing on evolved taste and style, storytelling, and culture. Through [&#8230;]
+
+Thu, 07 Dec 2023 06:47:39 +0000
+### [Shapoorji Pallonji Real Estate Elevates Storytelling with Innovative Outdoor Campaign](https://theprint.in/ani-press-releases/shapoorji-pallonji-real-estate-elevates-storytelling-with-innovative-outdoor-campaign/1875832/)
+
+Article found but Couldn't summarize 
+NewsVoir Mumbai (Maharashtra) [India], December 7: Revolutionising traditional advertising practices, Shapoorji Pallonji Real Estate (SPRE), one of India&#8217;s most trusted real estate developers, introduced groundbreaking out-of-home (OOH) marketing campaigns in Pune. These unconventional 3D hoardings showcase the essence of SPRE&#8217;s latest urban development projects, Wildernest and Joyville Celestia, located at SP Kingstown. Positioned strategically on [&#8230;]
+
+Thu, 07 Dec 2023 06:47:31 +0000
+### [Empowering Tomorrow’s Leaders: The Leadership Blueprint](https://theprint.in/ani-press-releases/empowering-tomorrows-leaders-the-leadership-blueprint/1875830/)
+
+Article found but Couldn't summarize 
+VMPL New Delhi [India], December 7: The Leadership Blueprint: A Guide to Brilliance for Teens and Young Adults is a transformative guide authored by leadership coach and established author Dileep Kumar. With insights from the author&#8217;s two decades of business experience and his transformative years spent mentoring young adults, this comprehensive manual is ready to [&#8230;]
+
+Thu, 07 Dec 2023 06:47:21 +0000
+### [ADB approves USD 98 mln loan to support India’s horticulture farmers](https://theprint.in/economy/adb-approves-usd-98-mln-loan-to-support-indias-horticulture-farmers/1875828/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 7 (ANI): The Asian Development Bank (ADB) has approved a USD 98 million loan to improve India&#8217;s horticulture crop farmers&#8217; access to certified disease-free planting materials, thus safeguarding them from climate impacts. In a media release, the regional development bank said the financing will support the central government&#8217;s Atmanirbhar Clean Plant [&#8230;]
+
+Thu, 07 Dec 2023 06:47:12 +0000
+### [‘Fighter’: Hrithik Roshan, Deepika Padukone, Anil Kapoor starrer teaser to be out on this date](https://theprint.in/feature/fighter-hrithik-roshan-deepika-padukone-anil-kapoor-starrer-teaser-to-be-out-on-this-date/1875826/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 7 (ANI): After unveiling extremely intriguing looks, the makers of the aerial action thriller &#8216;Fighter&#8217; starring Hrithik Roshan, Deepika Padukone, and Anil Kapoor have finally locked the date for the release of the eagerly awaited teaser of the film. Director Siddharth Anand took to X and shared the exciting news with [&#8230;]
+
+Thu, 07 Dec 2023 06:47:02 +0000
+### [China hopes Afghanistan will respond to international community’s expectations](https://theprint.in/world/china-hopes-afghanistan-will-respond-to-international-communitys-expectations/1875824/)
+
+Article found but Couldn't summarize 
+Beijing [China], December 7 (ANI): Chinese Foreign Ministry spokesperson Wang Wenbin has said China hopes Afghanistan will further respond to the expectations of the international community, including adopting &#8220;moderate and prudent domestic and foreign policies,&#8221; TOLO News reported. TOLO News is an Afghan news channel broadcasting from Kabul. Wenbin while responding to a question about [&#8230;]
+
+Thu, 07 Dec 2023 06:45:33 +0000
+### [More than 10 lakh electricity connections provided by Tata Power distribution companies in Odisha](https://theprint.in/india/more-than-10-lakh-electricity-connections-provided-by-tata-power-distribution-companies-in-odisha/1875821/)
+
+Article found but Couldn't summarize 
+Bhubaneswar, Dec 7 (PTI) Tata Power distribution companies (discoms) have provided more than 10 lakh new electricity connections in Odisha since 2020, a company statement said. The discoms, joint ventures between Tata Power and Odisha government, are TP (Tata power) Central, TP Southern, TP Northern, and TP Western Odisha Distribution Limited, operating across the state. [&#8230;]
+
+Thu, 07 Dec 2023 06:45:31 +0000
+### [Cracks in US-Israel ties—Biden’s Gaza plan is up against anti-peace Netanyahu](https://theprint.in/opinion/cracks-in-us-israel-ties-bidens-gaza-plan-is-up-against-anti-peace-netanyahu/1875747/)
+
+Article found but Couldn't summarize 
+Biden &#38; Arab rulers are facing questions from within their countries for their extended support of Israel. They can overcome criticism if Netanyahu accepts the two-state solution.
+
+Thu, 07 Dec 2023 06:45:23 +0000
+### [Kerala govt fulfilled promise to exclude inhabited areas from buffer zones: CM Vijayan](https://theprint.in/india/kerala-govt-fulfilled-promise-to-exclude-inhabited-areas-from-buffer-zones-cm-vijayan/1875820/)
+
+Article found but Couldn't summarize 
+Kochi, Dec 7 (PTI) Kerala Chief Minister Pinarayi Vijayan on Thursday claimed that his government has fulfilled its promise to the people to exclude inhabited areas from the buffer zones around forest areas. Vijayan said that the Supreme Court has allowed Kerala&#8217;s plea seeking review of the apex court&#8217;s June 3, 2022 order directing that [&#8230;]
+
+Thu, 07 Dec 2023 06:45:13 +0000
+### [Maharashtra Winter Session: MVA leaders stage protest to demand farm loan waiver, higher MSPs](https://theprint.in/india/maharashtra-winter-session-mva-leaders-stage-protest-to-demand-farm-loan-waiver-higher-msps/1875819/)
+
+Article found but Couldn't summarize 
+Nagpur, Dec 7 (PTI) On the first day of the Winter Session of Maharashtra legislature, the Opposition on Thursday protested at the Vidhan Bhavan here demanding farm loan waiver, bonus on paddy crop and higher minimum support prices (MSP) for cotton and soybean. Senior leaders from the Maha Vikas Aghadi (MVA), which comprises the Shiv [&#8230;]
+
 Thu, 07 Dec 2023 06:17:27 +0000
 ### [EAM Jaishankar, Suriname counterpart Albert Ramdin co-chair 8th Joint Commission Meeting](https://theprint.in/world/eam-jaishankar-suriname-counterpart-albert-ramdin-co-chair-8th-joint-commission-meeting/1875774/)
 

@@ -1,3 +1,8 @@
+Thu, 07 Dec 2023 12:17:46 +0530
+### [Microsoft-Activision merger deal in troubled waters again, draws fresh questions](https://www.firstpost.com/tech/microsoft-activision-merger-deal-in-troubled-waters-again-draws-fresh-questions-13476132.html)
+
+Microsoft's $69 billion acquisition of Activision Blizzard is facing scrutiny from the Federal Trade Commission (FTC) and antitrust concerns. A San Francisco appeals court is currently reviewing the FTC's challenge to a ruling that had initially cleared the deal. During a hearing, the court questioned whether Microsoft's plan to release Activision titles on the cloud adequately addressed antitrust concerns. The court's decision could impact an ongoing in-house trial initiated by the FTC, although it cannot retroactively block the completed merger. Microsoft's dominance in subscription and cloud-based gaming was highlighted, with concerns raised about potential monopoly power. Microsoft's lawyer argued that the FTC is shifting its arguments from the summer trial. The court also discussed Microsoft's prowess in the cloud market and its intention to outcompete Sony. The FTC raised concerns about the UK settlement involving Microsoft selling the cloud rights of Activision games.
+
 Thu, 07 Dec 2023 11:16:04 +0530
 ### [EU's AI Act: European Comission set to finalise laws regulating AI companies like OpenAI, Google](https://www.firstpost.com/tech/eu-set-to-finalise-laws-regulating-ai-companies-like-openai-google-here-are-the-proposed-rules-13475682.html)
 

@@ -1,3 +1,9 @@
+Thu, 07 Dec 2023 12:08:19 +0530
+### [Vantage | What China's diplomatic moves in Afghanistan are really about](https://www.firstpost.com/opinion/vantage-what-chinas-diplomatic-moves-in-afghanistan-are-really-about-13475702.html)
+
+Article found but Couldn't summarize 
+Vantage | What China's diplomatic moves in Afghanistan are really about
+
 Thu, 07 Dec 2023 11:09:59 +0530
 ### [Vantage | What Pannun's threats to India say about US double standards](https://www.firstpost.com/opinion/vantage-what-pannuns-threats-to-india-say-about-us-double-standards-13475522.html)
 

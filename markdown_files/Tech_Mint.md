@@ -1,3 +1,9 @@
+Thu, 07 Dec 2023 11:56:43 +0530
+### [Government warns Android users for THIS vulnerability: How to stay safe](https://www.livemint.com/technology/tech-news/government-warns-android-users-for-this-vulnerability-how-to-stay-safe-11701930125557.html)
+
+Article found but Couldn't summarize 
+CERT-In issued a ‘high severity’ warning for Android 11 to Android 14, citing vulnerabilities in components like Framework and Qualcomm. Users are urged to apply the latest security patches promptly.
+
 Thu, 07 Dec 2023 11:25:19 +0530
 ### [Best gaming chair for budding gamers? Choose from top 8 to sit and play](https://www.livemint.com/technology/gadgets/best-gaming-chair-for-budding-gamers-choose-from-top-8-to-sit-and-play-11701868527467.html)
 
