@@ -1,3 +1,15 @@
+Thu, 07 Dec 2023 16:08:14 +0530
+### [Vantage | Why Rishi Sunak is risking his chair for a migration law](https://www.firstpost.com/opinion/vantage-why-rishi-sunak-is-risking-his-chair-for-a-migration-law-13477022.html)
+
+Article found but Couldn't summarize 
+Vantage | Why Rishi Sunak is risking his chair for a migration law
+
+Thu, 07 Dec 2023 15:59:12 +0530
+### [Amit Shah is right Nehru committed blunders in Kashmir, but not the way he suggests](https://www.firstpost.com/opinion/amit-shah-is-right-nehru-committed-blunders-in-kashmir-but-not-the-way-he-suggests-13477402.html)
+
+Article found but Couldn't summarize 
+Amit Shah is right Nehru committed blunders in Kashmir, but not the way he suggests
+
 Thu, 07 Dec 2023 14:50:24 +0530
 ### [Sadhguru | Taxing guns and bullets for soil and climate action](https://www.firstpost.com/opinion/sadhguru-taxing-guns-and-bullets-for-soil-and-climate-action-13477122.html)
 

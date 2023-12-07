@@ -1,3 +1,8 @@
+Thu, 07 Dec 2023 11:07:36 +0000
+### [Kashmiri Pandit Bill in Parliament: Nomination game is mere lip service, will perpetuate favouritism](https://indianexpress.com/article/opinion/columns/kashmiri-pandit-bill-parliament-amit-shah-9058447/)
+
+Article found but Couldn't summarize
+
 Thu, 07 Dec 2023 06:04:01 +0000
 ### [The biggest problem with ‘Animal’ isn’t its misogyny or violence. It’s just plain boring](https://indianexpress.com/article/opinion/columns/animal-movie-boring-misogyny-violence-ranbir-kapoor-sandeep-reddy-vanga-9057946/)
 

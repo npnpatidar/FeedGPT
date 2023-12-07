@@ -1,3 +1,9 @@
+Thu, 07 Dec 2023 16:02:48 +0530
+### [Elon Musk gets trolled violently for bad-mouthing GTA VI, saying violent video games are bad](https://www.firstpost.com/tech/elon-musk-gets-trolled-violently-for-bad-mouthing-gta-vi-saying-violent-video-games-are-bad-13477632.html)
+
+Article found but Couldn't summarize 
+Elon Musk gets trolled violently for bad-mouthing GTA VI, saying violent video games are bad
+
 Thu, 07 Dec 2023 15:39:04 +0530
 ### [Google Gemini: How to access and use the new ‘ChatGPT-killer’ AI bot in India](https://www.firstpost.com/tech/google-gemini-how-to-access-and-use-the-new-chatgpt-killer-ai-bot-in-india-13477462.html)
 

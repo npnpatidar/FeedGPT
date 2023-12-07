@@ -1,3 +1,15 @@
+2023-12-07T16:30:51+05:30
+### [Manipur SC-Appointed Committee: Kuki Groups Claim No Dialogue With Them, Deny Report’s Findings](https://thewire.in/rights/manipur-sc-committee-kuki-groups-dialogue-deny-report-findings)
+
+No Article text 
+The groups said the committee only met with a few tribal leaders in the hill areas but ignored the leading civil society organisations of the Kuki community.
+
+2023-12-07T15:59:22+05:30
+### [Kissinger’s Obsession With Chile Enabled a Murderous Dictatorship That Still Haunts The Country](https://thewire.in/world/kissinger-chile-murderous-dictatorship)
+
+No Article text 
+A former Chilean diplomat writes that many in the country bitterly remembered the role of the US government, and Kissinger in particular, in the breakdown of democracy.
+
 2023-12-07T15:00:24+05:30
 ### [Control + All or Delete: The Draft Broadcast Bill Is a Blueprint for Censorship](https://thewire.in/government/control-all-or-delete-the-draft-broadcast-bill-is-a-blueprint-for-censorship)
 

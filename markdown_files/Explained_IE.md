@@ -1,3 +1,8 @@
+Thu, 07 Dec 2023 10:34:52 +0000
+### [What is Article 99 of the UN Charter, invoked amid Israel’s military attacks on the Gaza Strip?](https://indianexpress.com/article/explained/everyday-explainers/article-99-un-invoke-israel-gaza-explained-9058381/)
+
+Article found but Couldn't summarize
+
 Thu, 07 Dec 2023 08:55:14 +0000
 ### [Who is a citizen, who is an ‘illegal immigrant’: Questions before SC in Assam Citizenship Act case](https://indianexpress.com/article/explained/explained-law/supreme-court-assam-citizenship-act-6a-9058138/)
 

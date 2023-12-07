@@ -1,3 +1,21 @@
+Thu, 07 Dec 2023 16:39:20 +0530
+### [India used SPICE bombs in Balakot ‘surgical’ strike. Now, Israel is dropping them on Gaza](https://www.firstpost.com/explainers/india-used-spice-bombs-in-balakot-surgical-strike-now-israel-is-dropping-them-on-gaza-13477772.html)
+
+Article found but Couldn't summarize 
+India used SPICE bombs in Balakot ‘surgical’ strike. Now, Israel is dropping them on Gaza
+
+Thu, 07 Dec 2023 16:29:38 +0530
+### [BMW, gold sovereigns, &amp; property: How hefty dowry demand claimed a young doctor's life in Kerala](https://www.firstpost.com/explainers/bmw-gold-sovereigns-property-how-hefty-dowry-demand-claimed-a-young-doctors-life-in-kerala-13477192.html)
+
+Article found but Couldn't summarize 
+BMW, gold sovereigns, &amp;amp; property: How hefty dowry demand claimed a young doctor's life in Kerala
+
+Thu, 07 Dec 2023 16:15:42 +0530
+### [Why the US is not retaliating to attacks by Houthis on ships in West Asia](https://www.firstpost.com/explainers/why-the-us-is-not-retaliating-to-attacks-by-houthis-on-ships-in-west-asia-13477372.html)
+
+Article found but Couldn't summarize 
+Why the US is not retaliating to attacks by Houthis on ships in West Asia
+
 Thu, 07 Dec 2023 14:37:57 +0530
 ### [What is Indian Army’s new promotion policy?](https://www.firstpost.com/explainers/what-is-indian-armys-new-promotion-policy-13476782.html)
 

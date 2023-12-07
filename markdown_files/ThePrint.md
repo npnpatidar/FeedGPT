@@ -1,3 +1,123 @@
+Thu, 07 Dec 2023 11:10:48 +0000
+### [‘Become positive voters’: UP Congress writes to Muslims, warns of bid to reserve their seats for women](https://theprint.in/politics/become-positive-voters-up-congress-writes-to-muslims-warns-of-bid-to-reserve-their-seats-for-women/1875894/)
+
+Article found but Couldn't summarize 
+Minority affairs dept head says more such letters to community leaders are planned as this is 'a way of constructive engagement'. Muslims comprise 19.26% of UP's population.
+
+Thu, 07 Dec 2023 11:04:22 +0000
+### [NIA attaches properties of 2 Kashmiri ‘LeT operatives involved in 2015 BSF convoy attack’](https://theprint.in/india/nia-attaches-properties-of-2-kashmiri-let-operatives-involved-in-2015-bsf-convoy-attack/1876216/)
+
+Article found but Couldn't summarize 
+The two accused, currently under trial, are Fayaz Ahmed Itoo &#38; Khursheed Ahmed Bhat. Seizures include four immovable properties, including ‘houses of Itoo &#38; Bhat in Kulgam &#38; Pulwama’.
+
+Thu, 07 Dec 2023 11:02:02 +0000
+### [NITI Aayog, economic experts illuminate path for India’s distinctive and inclusive economic growth at CII Forum](https://theprint.in/economy/niti-aayog-economic-experts-illuminate-path-for-indias-distinctive-and-inclusive-economic-growth-at-cii-forum/1876233/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 7 (ANI): Speaking at the CII Global Economic Policy Forum 2023, Suman Bery, Vice Chairperson of NITI Aayog, emphasized the importance of inclusive growth and women-led initiatives for achieving positive outcomes in India&#8217;s economic landscape. The forum, organized by the Confederation of Indian Industry (CII) in collaboration with the Department of [&#8230;]
+
+Thu, 07 Dec 2023 11:00:44 +0000
+### [2015 attack on BSF convoy: NIA attaches properties of 2 LeT operatives](https://theprint.in/india/2015-attack-on-bsf-convoy-nia-attaches-properties-of-2-let-operatives/1876232/)
+
+Article found but Couldn't summarize 
+Srinagar, Dec 7 (PTI) The National Investigation Agency on Thursday attached the properties of two key Lashkar-e-Taiba (LeT) operatives for their involvement in the 2015 terror attack on a BSF convoy in Udhampur district of Jammu and Kashmir. Two BSF personnel were killed and 13 others injured in the attack, which took place on August [&#8230;]
+
+Thu, 07 Dec 2023 11:00:33 +0000
+### [Ahom dynasty’s burial mounds submitted as India’s nomination for UNESCO tag: Govt](https://theprint.in/india/ahom-dynastys-burial-mounds-submitted-as-indias-nomination-for-unesco-tag-govt/1876231/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) The mound-burial system of the Ahom dynasty in Assam has been submitted as India&#8217;s nomination for inclusion in the UNESCO World Heritage List for the year 2023-24, the Centre informed the Parliament on Thursday. The unique burial mounds, represented by pyramid-like structures known as &#8216;moidams&#8217;, were used by the Tai-Ahom [&#8230;]
+
+Thu, 07 Dec 2023 11:00:24 +0000
+### [No ‘spectacular announcement’ in February budget: FM](https://theprint.in/economy/no-spectacular-announcement-in-february-budget-fm/1876230/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) Finance Minister Nirmala Sitharaman on Thursday ruled out any &#8220;spectacular announcement&#8221; for her sixth budget on February 1 next year, saying it would just be a vote on account before the general elections. A full Budget for the 2024-25 fiscal would be presented in July next year by the new [&#8230;]
+
+Thu, 07 Dec 2023 11:00:13 +0000
+### [Steve Smith’s manager debunks former Australian captain’s retirement talks](https://theprint.in/sport/steve-smiths-manager-debunks-former-australian-captains-retirement-talks/1876229/)
+
+Article found but Couldn't summarize 
+Sydney, Dec 7 (PTI) Steve Smith will not follow his teammate David Warner into Test retirement as the former Australian captain thinks he can still achieve a lot more, clarified Warren Craig, his long-time manager. Warner had expressed his desire for a Sydney farewell after the third and final Test against Pakistan starting from January [&#8230;]
+
+Thu, 07 Dec 2023 11:00:02 +0000
+### [Israel slams UN chief Guterres’ invoking of rarely-used power to demand ceasefire in Gaza, calls his tenure ‘danger to world peace’](https://theprint.in/world/israel-slams-un-chief-guterres-invoking-of-rarely-used-power-to-demand-ceasefire-in-gaza-calls-his-tenure-danger-to-world-peace/1876227/)
+
+Article found but Couldn't summarize 
+Jerusalem, Dec 7 (PTI) In a scathing criticism of UN chief Antonio Guterres, Israel on Thursday said his tenure &#8220;is a danger to world peace&#8221; after he used a rarely exercised power to warn the Security Council of an impending “humanitarian catastrophe” in Gaza and urged it to demand an immediate humanitarian ceasefire. In a [&#8230;]
+
+Thu, 07 Dec 2023 10:58:59 +0000
+### [Long list of ‘threat videos’ released by Pannun — World Cup, G20 meetings, and now Parliament](https://theprint.in/india/long-list-of-threat-videos-released-by-pannun-world-cup-g20-meetings-and-now-parliament/1875781/)
+
+Article found but Couldn't summarize 
+In new 49-second video Gurpatwant Singh Pannun talks about 'plot to assassinate him in US', allegedly involving an Indian govt official, and adds Parliament attack would be his response to it.
+
+Thu, 07 Dec 2023 10:47:33 +0000
+### [“Can’t go a day without you”: Genelia Deshmukh pens sweet note for her mother on birthday](https://theprint.in/feature/cant-go-a-day-without-you-genelia-deshmukh-pens-sweet-note-for-her-mother-on-birthday/1876214/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 7 (ANI): Actor Genelia Deshmukh on Thursday penned a sweet note for her mother Jeanette D&#8217;Souza on her birthday. Taking to Instagram, Genelia shared a cute family picture featuring herself, her mother and sons Riaan and Rahyl. &#160; &#160; &#160; &#160; &#160; View this post on Instagram &#160; &#160; &#160; &#160; [&#8230;]
+
+Thu, 07 Dec 2023 10:47:24 +0000
+### [Journey Through Time and Emotion in Memory Lane: Echoes of the Past](https://theprint.in/ani-press-releases/journey-through-time-and-emotion-in-memory-lane-echoes-of-the-past/1876212/)
+
+Article found but Couldn't summarize 
+VMPL New Delhi [India], December 7: Reeta Dobriyal&#8217;s book, Memory Lane: Echoes of the Past takes readers on a captivating journey through the human experience. This collection of stories, set against the backdrop of Reeta&#8217;s Himalayan roots and enriched by her personal tales, promises to transport readers to different periods and places, weaving together emotions, [&#8230;]
+
+Thu, 07 Dec 2023 10:47:14 +0000
+### [World Bank office to resume operations in Afghanistan within a month: Afghan official](https://theprint.in/world/world-bank-office-to-resume-operations-in-afghanistan-within-a-month-afghan-official/1876210/)
+
+Article found but Couldn't summarize 
+Kabul [Afghanistan], December 7 (ANI): The World Bank&#8217;s office will become operational in Afghanistan within a month, and it will restart its projects, halted since 2021, as reported by Khaama Press. Ahmad Wali Haqmal, the spokesperson for the Taliban&#8217;s Ministry of Finance, announced that the World Bank will restart 45 incomplete projects in Afghanistan that [&#8230;]
+
+Thu, 07 Dec 2023 10:47:02 +0000
+### [Union Minister for Women and Child Development, Smriti Irani, to grace the 3rd edition of MentorMyBoard’s Women Directors Conclave](https://theprint.in/ani-press-releases/union-minister-for-women-and-child-development-smriti-irani-to-grace-the-3rd-edition-of-mentormyboards-women-directors-conclave/1876208/)
+
+Article found but Couldn't summarize 
+PNN Mumbai (Maharashtra) [India], December 7: MentorMyBoard (https://www.mentormyboard.com/), the pioneering tech platform that has been working towards empowering and enabling directors across Indian boardrooms, is all set to host a power-packed 3rd edition of its coveted Women Directors Conclave 2023. The event is set to be held on December 15th at the Bombay Stock Exchange [&#8230;]
+
+Thu, 07 Dec 2023 10:46:25 +0000
+### [Three dead, one injured as car collides with minivan and motorcycle in MP](https://theprint.in/india/three-dead-one-injured-as-car-collides-with-minivan-and-motorcycle-in-mp/1876205/)
+
+Article found but Couldn't summarize 
+Chhindwara (MP), Dec 7 (PTI) Three persons were killed and another one injured after a car collided with a minivan and later hit a motorcycle in Madhya Pradesh&#8217;s Chhindwara on Thursday, a police official said. The incident took place when the car was on its way to Seoni from Chhindwara in the early hours, he [&#8230;]
+
+Thu, 07 Dec 2023 10:46:14 +0000
+### [HC restrains forest dept from holding event inside Asola Bhatti Wildlife Sanctuary](https://theprint.in/india/hc-restrains-forest-dept-from-holding-event-inside-asola-bhatti-wildlife-sanctuary/1876204/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) The Delhi High Court on Thursday restrained the forest department from holding a &#8216;Walk with Wildlife&#8217; event inside the Asola Bhatti Wildlife Sanctuary in the southern Ridge here later this month, saying it could endanger the lives of the participants and wild animals inside the jungle in the absence of [&#8230;]
+
+Thu, 07 Dec 2023 10:46:05 +0000
+### [Pak court resumes hearing on Nawaz Sharif’s appeal against his conviction in Al-Azizia corruption case](https://theprint.in/world/pak-court-resumes-hearing-on-nawaz-sharifs-appeal-against-his-conviction-in-al-azizia-corruption-case/1876203/)
+
+Article found but Couldn't summarize 
+Islamabad, Dec 7 (PTI) The Islamabad High Court on Thursday resumed hearing on Pakistan Muslim League-Nawaz supremo Nawaz Sharif&#8217;s appeal against his conviction in the Al-Azizia Steel mill corruption case. Sharif, 73, was sentenced to seven years in jail and imposed a heavy fine by an anti-corruption court in December 2018 after he failed to [&#8230;]
+
+Thu, 07 Dec 2023 10:45:56 +0000
+### [Sri Lanka successfully maintains neutrality in foreign relations: Foreign Minister Sabry](https://theprint.in/world/sri-lanka-successfully-maintains-neutrality-in-foreign-relations-foreign-minister-sabry/1876201/)
+
+Article found but Couldn't summarize 
+Colombo, Dec 7 (PTI) Sri Lanka has won the respect of its international partners for maintaining neutrality in practising foreign policy and this helped the country in striking a much-needed bailout package with the IMF, the island nation&#8217;s Foreign Minister Ali Sabry told Parliament on Thursday. Sri Lanka had succeeded in pursuing a policy of [&#8230;]
+
+Thu, 07 Dec 2023 10:45:50 +0000
+### [X to start hiring engineers in Japan, CEO says](https://theprint.in/tech/x-to-start-hiring-engineers-in-japan-ceo-says/1876200/)
+
+Article found but Couldn't summarize 
+(Reuters) - Social media platform X will start hiring engineers in Japan, chief executive Linda Yaccarino said in a post on Thursday. Nikkei earlier reported Yaccarino as saying X would start hiring
+
+Thu, 07 Dec 2023 10:45:47 +0000
+### [Pak court asks ISI chief to submit report on audio leak of call between ex-PM Imran Khan’s wife, her lawyer](https://theprint.in/world/pak-court-asks-isi-chief-to-submit-report-on-audio-leak-of-call-between-ex-pm-imran-khans-wife-her-lawyer/1876199/)
+
+Article found but Couldn't summarize 
+Islamabad, Dec 7 (PTI) The Islamabad High Court on Thursday asked the ISI chief Lieutenant General Nadeem Anjum to submit a report on who was behind the alleged leaked audio of a call between former prime minister Imran Khan&#8217;s wife Bushra Bibi and her lawyer Latif Khosa. The court also asked the Federal Investigation Agency [&#8230;]
+
+Thu, 07 Dec 2023 10:45:37 +0000
+### [Yen roars, bonds flinch as Japan teases rates shift](https://theprint.in/economy/yen-roars-bonds-flinch-as-japan-teases-rates-shift/1876197/)
+
+Article found but Couldn't summarize 
+By Marc Jones LONDON (Reuters) - Japan's long-suppressed yen surged and global bond and stock markets flinched on Thursday, as Tokyo's monetary policymakers gave their clearest hints yet that the exit
+
 Thu, 07 Dec 2023 10:17:11 +0000
 ### [Affordable Home Loans Now Available on Bajaj Markets](https://theprint.in/ani-press-releases/affordable-home-loans-now-available-on-bajaj-markets/1876163/)
 
