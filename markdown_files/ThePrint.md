@@ -1,3 +1,121 @@
+Thu, 07 Dec 2023 18:16:30 +0000
+### [Soccer-Juventus not rejoining European Club Association, team says](https://theprint.in/sport/soccer-juventus-not-rejoining-european-club-association-team-says/1876982/)
+
+Article found but Couldn't summarize 
+By Jacob Gronholt-Pedersen COPENHAGEN (Reuters) -Juventus are not interested in rejoining the European Club Association (ECA), the Italian outfit said on Thursday, after ECA chairman Nasser
+
+Thu, 07 Dec 2023 18:16:17 +0000
+### [Self-driving industry at ‘critical juncture,’ needs USDOT support — letter](https://theprint.in/tech/self-driving-industry-at-critical-juncture-needs-usdot-support-letter/1876980/)
+
+Article found but Couldn't summarize 
+(Reuters) - A coalition of groups representing self-driving car companies and others on Thursday urged U.S. Transportation Secretary Pete Buttigieg to support autonomous vehicles and assert federal
+
+Thu, 07 Dec 2023 18:16:06 +0000
+### [Canada asks oil firms to cut emissions by up to 38% in six years](https://theprint.in/environment/canada-asks-oil-firms-to-cut-emissions-by-up-to-38-in-six-years/1876978/)
+
+Article found but Couldn't summarize 
+By Ismail Shakil and Steve Scherer OTTAWA (Reuters) -Canada unveiled a plan on Thursday that would require oil and gas companies to cut emissions by 35% to 38% from 2019 levels in the next six years,
+
+Thu, 07 Dec 2023 18:15:54 +0000
+### [Oil drops to 6-month low on weak economic outlook](https://theprint.in/economy/oil-drops-to-6-month-low-on-weak-economic-outlook/1876976/)
+
+Article found but Couldn't summarize 
+By Stephanie Kelly NEW YORK (Reuters) -Oil prices fell on Thursday to six-month lows, as investors worried about sluggish energy demand in the U.S. and China. Brent crude futures dropped 48 cents to
+
+Thu, 07 Dec 2023 18:15:43 +0000
+### [Campbell stresses need for US to approve deals with Pacific islands](https://theprint.in/world/campbell-stresses-need-for-us-to-approve-deals-with-pacific-islands/1876974/)
+
+Article found but Couldn't summarize 
+WASHINGTON (Reuters) - It is essential the United States moves ahead in approving new agreements with three Pacific island states, the U.S. Indo-Pacific coordinator Kurt Campbell said on Thursday,
+
+Thu, 07 Dec 2023 18:15:34 +0000
+### [French coastguard records 30% drop in small boat departures via English Channel](https://theprint.in/world/french-coastguard-records-30-drop-in-small-boat-departures-via-english-channel/1876972/)
+
+Article found but Couldn't summarize 
+PARIS (Reuters) - The number of people departing from French shores to cross the English Channel by boat has dropped this year as French security forces have ramped up land interceptions of convoys
+
+Thu, 07 Dec 2023 18:15:25 +0000
+### [Delhi: Rape accused throws acid at girl, drinks it himself, dies](https://theprint.in/india/delhi-rape-accused-throws-acid-at-girl-drinks-it-himself-dies/1876970/)
+
+In a tragic incident that took place in New Delhi, a 54-year-old man threw acid at a 17-year-old girl in the Anand Parbat area. Shockingly, the man drank the acid himself and subsequently died. It was revealed that the attacker was already on trial for a rape case. The girl, who had suffered minor burn injuries, informed the police that her mother had filed a rape case against the man, who was out on bail to attend a wedding. When the girl refused to withdraw the rape case as demanded by the attacker, he resorted to the acid attack and subsequently died while receiving treatment. The girl has been discharged from the hospital.
+
+Thu, 07 Dec 2023 18:15:24 +0000
+### [Israel, UN signal progress in talks to open Gaza crossing](https://theprint.in/world/israel-un-signal-progress-in-talks-to-open-gaza-crossing/1876969/)
+
+Article found but Couldn't summarize 
+By Gabrielle Tétrault-Farber GENEVA (Reuters) -Israel and the United Nations signalled on Thursday that the Kerem Shalom crossing in Israel could soon be opened to allow more humanitarian supplies
+
+Thu, 07 Dec 2023 18:15:15 +0000
+### [U.S. to conduct flight operations in Guyana as concerns mount over border spat](https://theprint.in/world/u-s-to-conduct-flight-operations-in-guyana-as-concerns-mount-over-border-spat/1876967/)
+
+Article found but Couldn't summarize 
+BOGOTA (Reuters) - The United States on Thursday said it would conduct flight operations within Guyana that build on its routine engagement as Britain and Brazil expressed concerns about growing
+
+Thu, 07 Dec 2023 18:15:14 +0000
+### [ISB will offer 50 pc fee waiver for armed forces veterans: Defence Ministry](https://theprint.in/india/isb-will-offer-50-pc-fee-waiver-for-armed-forces-veterans-defence-ministry/1876966/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) Defence Ministry has entered into a collaboration with a top B-school for giving scholarship to ex-servicemen, the ministry said on Thursday. The collaboration aims to provide latest and in-depth management skills to the vast skillset that armed forces personnel and veterans already possess, the ministry said in a statement. Coinciding [&#8230;]
+
+Thu, 07 Dec 2023 18:15:04 +0000
+### [Gold holds steady as US payrolls test nears](https://theprint.in/india/gold-holds-steady-as-us-payrolls-test-nears/1876964/)
+
+Article found but Couldn't summarize 
+By Anushree Ashish Mukherjee and Deep Kaushik Vakil (Reuters) - Gold prices were little changed on Thursday in the run-up to U.S. non-farm payrolls data, as traders awaited the report to test their
+
+Thu, 07 Dec 2023 18:15:02 +0000
+### [Ethics panel report on Moitra listed for tabling in LS on Friday](https://theprint.in/india/ethics-panel-report-on-moitra-listed-for-tabling-in-ls-on-friday/1876963/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) A report of the Ethics Committee which recommended the expulsion of TMC MP Mahua Moitra in a &#8220;cash-for-query&#8221; case is listed for tabling in the Lok Sabha on Friday. The report was earlier listed in the agenda of the lower house for December 4 but was not tabled. The revised [&#8230;]
+
+Thu, 07 Dec 2023 18:02:22 +0000
+### [UAE Alliance for Climate Action launches two groundbreaking initiatives at COP28](https://theprint.in/world/uae-alliance-for-climate-action-launches-two-groundbreaking-initiatives-at-cop28/1876961/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 7 (ANI/WAM): In support of the UAE&#8217;s Net Zero by 2050 Strategic initiative, the UAE Alliance for Climate Action (UACA) launched two pioneering climate action initiatives at the 28th UN Climate Change Conference (COP28). Razan Al Mubarak, UN Climate Change High-Level Champion for COP28 and Chair of the UACA Advisory Committee attended [&#8230;]
+
+Thu, 07 Dec 2023 18:02:12 +0000
+### [Sharjah Entrepreneurship Festival to return in February 2024](https://theprint.in/world/sharjah-entrepreneurship-festival-to-return-in-february-2024/1876959/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 7 (ANI/WAM): Sharjah Entrepreneurship Centre (Sheraa) has announced that its Sharjah Entrepreneurship Festival (SEF) will be back for its 7th annual edition on February 3-4 next year at the Sharjah Research Technology and Innovation Park (SRTIP). Organisers said with the theme &#8216;Our Shared Canvas&#8217;, SEF 2024 is an ode to the incredible [&#8230;]
+
+Thu, 07 Dec 2023 18:02:02 +0000
+### [Pakistan: Lahore tops global pollution ranking again](https://theprint.in/world/pakistan-lahore-tops-global-pollution-ranking-again/1876957/)
+
+Article found but Couldn't summarize 
+Lahore [Pakistan], December 7 (ANI): With poor air quality, the provincial capital topped the worldwide pollution index once more on Thursday, ARY News reported. Lahore has the worst air quality in the world, with an early air quality index (AQI) of 400, which is considered &#8220;hazardous.&#8221; Millions of people&#8217;s lives and health have been impacted [&#8230;]
+
+Thu, 07 Dec 2023 18:00:44 +0000
+### [PM Modi ignites public consciousness about Constitution, says ex-Prez Kovind](https://theprint.in/india/pm-modi-ignites-public-consciousness-about-constitution-says-ex-prez-kovind/1876955/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) Former president Ram Nath Kovind on Thursday said Prime Minister Narendra Modi ignites public consciousness about the Constitution, encapsulating the essence of a nation marching forward in unity and purpose. He was speaking at the launch of &#8216;Naye Bharat ka Samaveda,&#8217; a seminal collection spotlighting Modi&#8217;s impactful speeches, delving deep [&#8230;]
+
+Thu, 07 Dec 2023 18:00:33 +0000
+### [Fire breaks out in residential building in Delhi’s Raj Nagar, 5 persons rescued](https://theprint.in/india/fire-breaks-out-in-residential-building-in-delhis-raj-nagar-5-persons-rescued/1876953/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) A fire broke out at a residential building in Delhi&#8217;s Raj Nagar area on Thursday and five persons had to be rescued from the blaze, officials said. Fifteen fire tenders were rushed to Vaishnavi Apartment near Satyam Jewellers, Raj Nagar Part-2, Palam, a senior fire official said. Four people were [&#8230;]
+
+Thu, 07 Dec 2023 18:00:23 +0000
+### [Rajnath appeals to people to donate to Armed Forces Flag Day Fund](https://theprint.in/india/rajnath-appeals-to-people-to-donate-to-armed-forces-flag-day-fund/1876952/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) Defence Minister Rajnath Singh on Thursday appealed to the people to donate to the Armed Forces Flag Day (AFFD) Fund and become a part of the government&#8217;s endeavour to ensure the welfare of the ex-soldiers and war widows and their families. In a message on AFFD on December 7, Singh [&#8230;]
+
+Thu, 07 Dec 2023 18:00:13 +0000
+### [President Murmu enthralled by piano performance by students](https://theprint.in/india/president-murmu-enthralled-by-piano-performance-by-students/1876951/)
+
+President Droupadi Murmu was captivated by the piano performances of students from the K M Music Conservatory, which is operated by the A R Rahman foundation. The talented children, including those from underprivileged backgrounds, showcased their exceptional musical abilities, culminating in a mesmerizing piano performance by the renowned musician Rahman at the Rashtrapati Bhavan cultural centre. The president expressed admiration for these remarkable performances by young individuals, believing that they will serve as an inspiration for aspiring talents to dream big and strive for excellence.
+
+Thu, 07 Dec 2023 18:00:02 +0000
+### [Teen boy dies in Pune after air compressor hose is inserted into rectum](https://theprint.in/india/teen-boy-dies-in-pune-after-air-compressor-hose-is-inserted-into-rectum/1876950/)
+
+Article found but Couldn't summarize 
+Pune, Dec 7 (PTI) A 16-year-old boy died of internal injuries after his kin allegedly inserted an air compressor hose into his rectum in Pune&#8217;s Hadapsar area, a police official said on Thursday. The incident took place on Monday at a food processing unit manufacturing different kinds of flour in Hadaspar industrial estate, he said. [&#8230;]
+
 Thu, 07 Dec 2023 17:05:30 +0000
 ### [Fintech startup Pontera raises $60 million, plans more hiring in Israel](https://theprint.in/tech/fintech-startup-pontera-raises-60-million-plans-more-hiring-in-israel/1876877/)
 

@@ -1,3 +1,9 @@
+Thu, 07 Dec 2023 23:06:21 +0530
+### [Apple-backed study says data breaches in US surge 20% in first nine months of 2023](https://www.livemint.com/technology/tech-news/applebacked-study-says-data-breaches-in-us-surge-20-in-first-nine-months-of-2023-11701966576518.html)
+
+Article found but Couldn't summarize 
+More than 80% of breaches involve data stored in the cloud, the study shows
+
 Thu, 07 Dec 2023 19:03:21 +0530
 ### [From iPhone 15 Pro to Google Pixel 8 Pro: Here are the top 5 best camera smartphones of 2023](https://www.livemint.com/technology/gadgets/from-iphone-15-pro-to-google-pixel-8-pro-here-are-the-top-5-best-camera-smartphones-of-2023-11701955550682.html)
 
