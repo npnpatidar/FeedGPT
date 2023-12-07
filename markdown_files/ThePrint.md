@@ -1,3 +1,121 @@
+Thu, 07 Dec 2023 04:17:12 +0000
+### [US-made weapons guidance system used in two Israeli airstrikes in Gaza: Amnesty International](https://theprint.in/world/us-made-weapons-guidance-system-used-in-two-israeli-airstrikes-in-gaza-amnesty-international/1875635/)
+
+Article found but Couldn't summarize 
+Washington, DC [US], December 7 (ANI): An Amnesty International investigation alleged that a US-made weapons guidance system was used in two Israeli airstrikes in Gaza in October in which 43 civilians were killed, CNN reported. A report released by the human rights organisation revealed that fragments of the US-made Joint Direct Attack Munitions guidance system [&#8230;]
+
+Thu, 07 Dec 2023 04:17:02 +0000
+### [Stock market opens flat amidst technical cautions, global fluctuations](https://theprint.in/economy/stock-market-opens-flat-amidst-technical-cautions-global-fluctuations/1875633/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 7 (ANI): After three days of continuous positive momentum, the stock market opened on a flat note in the red territory on Thursday. The benchmark indices, Sensex and Nifty, experienced a slight dip in early trading. Sensex commenced the day 215.59 points lower, opening at 69,438.13, while Nifty marked a 63.15 [&#8230;]
+
+Thu, 07 Dec 2023 04:16:18 +0000
+### [Soccer-Brazil’s Santos relegated for first time, Palmeiras champions](https://theprint.in/sport/soccer-brazils-santos-relegated-for-first-time-palmeiras-champions/1875632/)
+
+Article found but Couldn't summarize 
+(Reuters) - Pele's former club Santos were relegated for the first time in their 111-year history on Wednesday following a 2-1 home loss to Fortaleza in the final round of Brazil's Serie A. The costal
+
+Thu, 07 Dec 2023 04:16:10 +0000
+### [Tennis-Raducanu to play Auckland after Australian Open wildcard snub](https://theprint.in/sport/tennis-raducanu-to-play-auckland-after-australian-open-wildcard-snub/1875630/)
+
+Article found but Couldn't summarize 
+(Reuters) - Britain's Emma Raducanu has accepted a wildcard to play at the Auckland Classic in the New Year after missing out on one in the initial batch offered by the Australian Open. The former U.S
+
+Thu, 07 Dec 2023 04:16:01 +0000
+### [Soccer-Man City must ‘use the pain’ to return to winning ways, says Stones](https://theprint.in/sport/soccer-man-city-must-use-the-pain-to-return-to-winning-ways-says-stones/1875628/)
+
+Article found but Couldn't summarize 
+(Reuters) - Manchester City need to harness the pain they are feeling amid a poor run of form and use it to get their Premier League campaign back on track, defender John Stones said after Wednesday's
+
+Thu, 07 Dec 2023 04:15:45 +0000
+### [Top EU officials meet with Xi in China summit with trade in focus](https://theprint.in/world/top-eu-officials-meet-with-xi-in-china-summit-with-trade-in-focus/1875627/)
+
+Article found but Couldn't summarize 
+BEIJING (Reuters) -Top EU officials met Chinese President Xi Jinping in Beijing on Thursday for their first in-person summit in four years to discuss issues ranging from trade imbalances to Ukraine,
+
+Thu, 07 Dec 2023 04:15:35 +0000
+### [Indian shares open lower after recent rally](https://theprint.in/india/indian-shares-open-lower-after-recent-rally/1875625/)
+
+Article found but Couldn't summarize 
+BENGALURU (Reuters) -India's benchmark indexes opened lower on Thursday after hitting fresh record highs in a previous three sessions, while global stocks extended fall as the market rally faded. The
+
+Thu, 07 Dec 2023 04:15:26 +0000
+### [India’s Adani Ports looks to buy SP Group’s Gopalpur port in Odisha – ET](https://theprint.in/india/indias-adani-ports-looks-to-buy-sp-groups-gopalpur-port-in-odisha-et/1875623/)
+
+Article found but Couldn't summarize 
+BENGALURU (Reuters) -India's largest private port operator Adani Ports and Special Economic Zone is in early talks to acquire real-estate conglomerate Shapoorji Pallonji Group's (SP Group) Gopalpur
+
+Thu, 07 Dec 2023 04:15:15 +0000
+### [India’s Paytm tumbles in pre-open trade on plan to curtail low-value personal loans](https://theprint.in/india/indias-paytm-tumbles-in-pre-open-trade-on-plan-to-curtail-low-value-personal-loans/1875621/)
+
+Article found but Couldn't summarize 
+BENGALURU (Reuters) -India's Paytm plunged as much as 20% in early trade on Thursday, a day after the digital payments firm said it will issue fewer sub-50,000-rupee (about $600) personal loans after
+
+Thu, 07 Dec 2023 04:15:05 +0000
+### [India’s Paytm tumbles on plan to curtail low-value personal loans](https://theprint.in/india/indias-paytm-tumbles-on-plan-to-curtail-low-value-personal-loans/1875619/)
+
+Article found but Couldn't summarize 
+BENGALURU (Reuters) -India's Paytm plunged as much as 20% in early trade on Thursday, a day after the digital payments firm said it will issue fewer sub-50,000-rupee (about $600) personal loans after
+
+Thu, 07 Dec 2023 04:15:03 +0000
+### [HC-CASES](https://theprint.in/india/hc-cases-3/1875618/)
+
+The Delhi High Court is set to hear several important cases on Thursday, December 7. One case involves the forest department's request for permission to hold a 'Walk with Wildlife' event in the Asola Bhatti Wildlife Sanctuary in Delhi later this month. Another case pertains to alleged conman Sukesh Chandrasekhar seeking to quash a case filed by the Enforcement Directorate under anti-money laundering law, in connection with a 2017 Election Commission bribery matter. Additionally, the court will hear a plea by restaurant and hotel owners challenging an order that prohibits the levying of service charge on food bills. Please note that this summary was generated from a PTI news report. ThePrint is not responsible for its content.
+
+Thu, 07 Dec 2023 04:11:56 +0000
+### [Medieval Jewish merchants connected Mangalore to Egypt and Spain. Trade in India thrived](https://theprint.in/opinion/medieval-jewish-merchants-connected-mangalore-to-egypt-and-spain-trade-in-india-thrived/1874953/)
+
+Article found but Couldn't summarize 
+India is often treated like a side-act to Jewish history in Europe. But India, Egypt were central to medieval Jewish merchants
+
+Thu, 07 Dec 2023 04:02:11 +0000
+### [Pakistan: Death toll in Karachi mall fire rises to four, 2 injured](https://theprint.in/world/pakistan-death-toll-in-karachi-mall-fire-rises-to-four-2-injured/1875611/)
+
+Article found but Couldn't summarize 
+Karachi [Pakistan], December 7 (ANI): The death toll in a fire that broke out in Arshi shopping mall and residential flats near Ayesha Manzil, Karachi, rose to four, and two individuals sustained injuries, as reported by ARY News. Karachi Mayor Murtaza Wahab confirmed that the fire at the shopping mall was under control, with the [&#8230;]
+
+Thu, 07 Dec 2023 04:02:02 +0000
+### [“Had a rocky start”: Halle Berry expresses excitement about working with Angelina Jolie in next project](https://theprint.in/feature/had-a-rocky-start-halle-berry-expresses-excitement-about-working-with-angelina-jolie-in-next-project/1875608/)
+
+Article found but Couldn't summarize 
+Jeddah [Saudi Arabia], December 7 (ANI): Actor Halle Berry has shared her excitement about her upcoming movie and sharing screen space with Angelina Jolie, according to People. In an interview, she revealed to Variety at the Red Sea Film Festival in Jeddah, Saudi Arabia, that she and Jolie, 48, &#8220;had a rocky start&#8221; working on [&#8230;]
+
+Thu, 07 Dec 2023 04:00:26 +0000
+### [Delhi govt invites applications for admission at Ambedkar Schools of Specialised Excellence](https://theprint.in/india/delhi-govt-invites-applications-for-admission-at-ambedkar-schools-of-specialised-excellence/1875604/)
+
+The Delhi government has announced that applications are now open for admission to class 9 and class 11 at Dr B R Ambedkar Schools of Specialised Excellence. The last date to apply is December 22. Currently, there are 37 Specialised schools with a total of 4,400 seats in Delhi. These schools focus on special subjects starting from class 9. For the upcoming academic session 2023-24, the Delhi government has received approximately 92,000 applications for admission. The ASOSE includes schools such as the Armed Forces Preparatory School, School of High-end 21st Century Skills, Humanities, Performing and Visual Arts, and Science, Technology, Engineering, and Mathematics.
+
+Thu, 07 Dec 2023 04:00:14 +0000
+### [Eastern Army Commander reviews operational preparedness in Nagaland](https://theprint.in/india/eastern-army-commander-reviews-operational-preparedness-in-nagaland/1875603/)
+
+Article found but Couldn't summarize 
+Kohima, Dec 7 (PTI) The Eastern Army Commander Lt Gen R P Kalita reviewed the operational preparedness of forces in Nagaland and also inaugurated various facilities in the northeastern state. The General Officer Commanding-in-Chief (GOC-in-C) of Eastern Army Command reviewed the operational preparedness of the forces at Spear Corps Headquarters in Dimapur on Wednesday. He [&#8230;]
+
+Thu, 07 Dec 2023 04:00:03 +0000
+### [Will have to put in extra hours to hear disqualification pleas: Maharashtra speaker Narwekar](https://theprint.in/india/will-have-to-put-in-extra-hours-to-hear-disqualification-pleas-maharashtra-speaker-narwekar/1875602/)
+
+Article found but Couldn't summarize 
+Nagpur, Dec 7 (PTI) Maharashtra assembly speaker Rahul Narwekar on Thursday said that he would need to put in extra hours to conduct hearings on disqualification petitions while ensuring smooth functioning of the House. The Winter Session of the state legislature is scheduled to be held in Nagpur from December 7 to December 20. Speaking [&#8230;]
+
+Thu, 07 Dec 2023 03:59:51 +0000
+### [A big-ticket wedding for BJP leader Kuldeep Bishnoi’s MLA son & IAS fiancée — 4 cities, 3 lakh invites](https://theprint.in/politics/a-big-ticket-wedding-for-bjp-leader-kuldeep-bishnois-mla-son-ias-fiancee-4-cities-3-lakh-invites/1874477/)
+
+Article found but Couldn't summarize 
+Over 1.5 lakh expected to attend nuptial events of Bhavya &#038; Pari. Card-and-'peele chawal' invites to go to all in family's Adampur seat. BJP leader visits 86 villages to extend personal invites.
+
+Thu, 07 Dec 2023 03:53:58 +0000
+### [How MP sweep surprised BJP brass — ‘sidelined’ Shivraj’s women connect, state unit’s groundwork](https://theprint.in/politics/how-mp-sweep-surprised-bjp-brass-sidelined-shivrajs-women-connect-state-units-groundwork/1875190/)
+
+Article found but Couldn't summarize 
+A survey in June painted a dismal picture of voter fatigue, anti-incumbency for BJP. But party’s organisational structure, combined with CM’s Ladli Behna Yojana, helped turn the tide.
+
+Thu, 07 Dec 2023 03:45:14 +0000
+### [Odisha to put up AC tensile fabric structure near Puri Jagannath temple for devotees](https://theprint.in/india/odisha-to-put-up-ac-tensile-fabric-structure-near-puri-jagannath-temple-for-devotees/1875589/)
+
+Article found but Couldn't summarize 
+Bhubaneswar, Dec 7 (PTI) The Odisha government has started the process to set up air-conditioned tensile fabric structure on Grand Road in Puri to streamline the queue management system for devotees visiting the Jagannath temple. The tensile fabric structure will be covered from three sides and will look like a tunnel. It will be set [&#8230;]
+
 Thu, 07 Dec 2023 03:17:01 +0000
 ### [Regional cooperation strengthens Central Asia’s socio-economic fabric: World Bank’s decades-long commitment bears fruit](https://theprint.in/economy/regional-cooperation-strengthens-central-asias-socio-economic-fabric-world-banks-decades-long-commitment-bears-fruit/1875564/)
 

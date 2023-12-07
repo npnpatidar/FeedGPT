@@ -5,6 +5,16 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Tech_Mint.xml</link>
 		<description>Tech Mint</description>
 		<item>
+			<title>Meta adds end-to-end encryption to Messenger and Facebook. Details here</title>
+			<link>https://www.livemint.com/technology/tech-news/meta-adds-end-to-end-encryption-to-messenger-and-facebook-details-here-11701918055932.html</link>
+			<description>Article found but Couldn't summarize 
+Meta, the social media giant behind famous apps like Instagram and WhatsApp, said on Wednesday that it is making Facebook and Messenger end-to-end encrypted by default.</description>
+			<pubDate>Thu, 07 Dec 2023 09:32:13 +0530</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://www.livemint.com/lm-img/img/2023/12/07/1600x900/MSGR-Default-E2EE_Header_1701920697456_1701920703571.webp"></media:thumbnail>
+			<media:content url="https://www.livemint.com/lm-img/img/2023/12/07/1600x900/MSGR-Default-E2EE_Header_1701920697456_1701920703571.webp" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Governments 'using push notifications to spy on your iOS, Android devices</title>
 			<link>https://www.livemint.com/technology/tech-news/governments-using-push-notifications-to-spy-on-your-ios-android-devices-heres-how-it-works-apple-google-ron-wyden-11701913814764.html</link>
 			<description>Article found but Couldn't summarize 

@@ -1,3 +1,9 @@
+Thu, 07 Dec 2023 09:32:13 +0530
+### [Meta adds end-to-end encryption to Messenger and Facebook. Details here](https://www.livemint.com/technology/tech-news/meta-adds-end-to-end-encryption-to-messenger-and-facebook-details-here-11701918055932.html)
+
+Article found but Couldn't summarize 
+Meta, the social media giant behind famous apps like Instagram and WhatsApp, said on Wednesday that it is making Facebook and Messenger end-to-end encrypted by default.
+
 Thu, 07 Dec 2023 08:07:11 +0530
 ### [Governments 'using push notifications to spy on your iOS, Android devices](https://www.livemint.com/technology/tech-news/governments-using-push-notifications-to-spy-on-your-ios-android-devices-heres-how-it-works-apple-google-ron-wyden-11701913814764.html)
 

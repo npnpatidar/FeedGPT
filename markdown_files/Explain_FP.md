@@ -1,3 +1,15 @@
+Thu, 07 Dec 2023 09:40:38 +0530
+### [OpenAI is making artificial intelligence that's good at maths. Here's why that's significant](https://www.firstpost.com/explainers/openai-is-making-artificial-intelligence-thats-good-at-maths-heres-why-thats-significant-13474842.html)
+
+Article found but Couldn't summarize 
+OpenAI is making artificial intelligence that's good at maths. Here's why that's significant
+
+Thu, 07 Dec 2023 08:45:42 +0530
+### [In Graphics | Why India's roads are so deadly](https://www.firstpost.com/explainers/in-graphics-why-indias-roads-are-so-deadly-13474712.html)
+
+Article found but Couldn't summarize 
+In Graphics | Why India's roads are so deadly
+
 Wed, 06 Dec 2023 20:42:42 +0530
 ### [FirstUp: Telangana CM’s swearing-in, Washington Post strike: What to expect today](https://www.firstpost.com/explainers/firstup-telangana-cms-swearing-in-washington-post-strike-what-to-expect-today-13474682.html)
 

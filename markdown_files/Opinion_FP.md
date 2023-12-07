@@ -1,3 +1,9 @@
+Thu, 07 Dec 2023 08:44:01 +0530
+### [Head-on | Global North and the geopolitics of entitlement](https://www.firstpost.com/opinion/head-on-global-north-and-the-geopolitics-of-entitlement-13475062.html)
+
+Article found but Couldn't summarize 
+Head-on | Global North and the geopolitics of entitlement
+
 Wed, 06 Dec 2023 19:28:39 +0530
 ### [Vantage | Does Byju's have a plan beyond pledging its CEO's houses?](https://www.firstpost.com/opinion/vantage-does-byjus-have-a-plan-beyond-pledging-its-ceos-houses-13474452.html)
 

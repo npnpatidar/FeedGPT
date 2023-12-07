@@ -1,3 +1,8 @@
+Thu, 07 Dec 2023 03:45:01 +0000
+### [Google Gemini is here… but is it better than ChatGPT 4?](https://indianexpress.com/article/explained/explained-sci-tech/google-gemini-chatgpt-artificial-intelligence-9057795/)
+
+Article found but Couldn't summarize
+
 Thu, 07 Dec 2023 02:30:44 +0000
 ### [How Archie emerged as a ‘wholesome’ comic book](https://indianexpress.com/article/explained/explained-culture/archie-comics-wholesome-history-9057580/)
 

@@ -1,3 +1,9 @@
+2023-12-07T09:09:56+05:30
+### [Parliament Passed Two Important Laws on J&K. Here's What They Will Do.](https://thewire.in/government/parliament-passed-two-important-laws-on-jk-heres-what-they-will-do)
+
+No Article text 
+The two legislations are being viewed as an attempt by the Union government to tweak the political landscape to its advantage ahead of the 2024 Lok Sabha elections, by wooing the Kashmiri Pandits and Pahadia community of the region.
+
 2023-12-07T08:43:07+05:30
 ### [Las Vegas University Shooting: Police Say 3 Victims Dead, Plus Gunman](https://thewire.in/world/las-vegas-university-shooting-police-say-3-victims-dead-plus-gunman)
 

@@ -5,6 +5,15 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Explained_IE.xml</link>
 		<description>Explained IE</description>
 		<item>
+			<title>Google Gemini is here… but is it better than ChatGPT 4?</title>
+			<link>https://indianexpress.com/article/explained/explained-sci-tech/google-gemini-chatgpt-artificial-intelligence-9057795/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Thu, 07 Dec 2023 03:45:01 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2023/12/google-gemini-2.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2023/12/google-gemini-2.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>How Archie emerged as a ‘wholesome’ comic book</title>
 			<link>https://indianexpress.com/article/explained/explained-culture/archie-comics-wholesome-history-9057580/</link>
 			<description>Article found but Couldn't summarize</description>
