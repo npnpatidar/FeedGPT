@@ -1,3 +1,123 @@
+Thu, 07 Dec 2023 16:17:40 +0000
+### [Golf-Williams takes first-round lead at Leopard Creek](https://theprint.in/sport/golf-williams-takes-first-round-lead-at-leopard-creek/1876806/)
+
+Article found but Couldn't summarize 
+(Reuters) - Anglo-South African Robin Williams, ranked 924th in the world, shot a seven-under-par 65 for a one-shot lead after the first round of the Alfred Dunhill Championship on Thursday at the
+
+Thu, 07 Dec 2023 16:17:22 +0000
+### [Congress will not take up TikTok legislation before end of year — senator](https://theprint.in/tech/congress-will-not-take-up-tiktok-legislation-before-end-of-year-senator/1876803/)
+
+Article found but Couldn't summarize 
+WASHINGTON (Reuters) - Congress will not take up legislation this year that would give the Biden administration new tools to address foreign-owned apps like TikTok that have raised national security
+
+Thu, 07 Dec 2023 16:17:14 +0000
+### [UK accuses Russia of using cyber operation for election interference; imposes sanctions, summons envoy](https://theprint.in/world/uk-accuses-russia-of-using-cyber-operation-for-election-interference-imposes-sanctions-summons-envoy/1876801/)
+
+Article found but Couldn't summarize 
+London [UK], December 7 (ANI): The United Kingdom government has condemned the alleged attempts by Russian Intelligence Services to target &#8220;high-profile individuals and entities&#8221; through cyber operations to &#8220;interfere in UK politics and democratic process&#8221;. According to the Foreign, Commonwealth and Development Office (FCDO) of the UK, Centre 18, a unit within Russia&#8217;s Intelligence Services, [&#8230;]
+
+Thu, 07 Dec 2023 16:17:09 +0000
+### [Apple-backed study finds rise in data breaches as iPhone maker defends encryption stance](https://theprint.in/tech/apple-backed-study-finds-rise-in-data-breaches-as-iphone-maker-defends-encryption-stance/1876799/)
+
+Article found but Couldn't summarize 
+By Stephen Nellis (Reuters) - In the first nine months of 2023, U.S. data breaches increased by 20% compared to the full year 2022, according to a new study that was commissioned by Apple. The iPhone
+
+Thu, 07 Dec 2023 16:17:02 +0000
+### [EAM Jaishankar meets Rwandan counterpart Biruta at Hyderabad House](https://theprint.in/world/eam-jaishankar-meets-rwandan-counterpart-biruta-at-hyderabad-house/1876797/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 7 (ANI): External Affairs Minister S Jaishankar met Minister of Foreign Affairs and International Cooperation of Rwanda Vincent Biruta at Hyderabad House on Wednesday. Rwanda&#8217;s Foreign Minister Vincent Biruta arrived in New Delhi on Thursday on an official visit to further enhance India-Rwanda ties. &#8220;Warm welcome to FM @Vbiruta of Rwanda [&#8230;]
+
+Thu, 07 Dec 2023 16:16:58 +0000
+### [Singapore to triple AI talent to 15,000 experts, deputy PM says](https://theprint.in/tech/singapore-to-triple-ai-talent-to-15000-experts-deputy-pm-says-2/1876796/)
+
+Article found but Couldn't summarize 
+SINGAPORE - Singapore plans to triple its pool of artificial intelligence experts, including machine-learning scientists and engineers, to 15,000, as part of its national AI strategy, deputy prime
+
+Thu, 07 Dec 2023 16:16:43 +0000
+### [Benjamin Zephaniah, poet, performer, Black rights activist, dies aged 65](https://theprint.in/entertainment/benjamin-zephaniah-poet-performer-black-rights-activist-dies-aged-65/1876794/)
+
+Article found but Couldn't summarize 
+By Suban Abdulla LONDON (Reuters) -British poet, musician and actor Benjamin Zephaniah, known for fighting racism and social injustice, has died at the age of 65, after being diagnosed with a brain
+
+Thu, 07 Dec 2023 16:16:43 +0000
+### [Doorstep delivery of citizen-centric services from Dec 10: Punjab CM](https://theprint.in/india/doorstep-delivery-of-citizen-centric-services-from-dec-10-punjab-cm/1876793/)
+
+Article found but Couldn't summarize 
+Fatehgarh Sahib, Dec 7 (PTI) Punjab Chief Minister Bhagwant Mann on Thursday said his government will roll out a new scheme &#8216;Bhagwant Mann Sarkar, Tuhade Dwaar&#8217;, aimed to provide citizen-centric services to people at their doorsteps, from December 10. This initiative will provide the state&#8217;s residents hassle-free access to government-to-citizen (G2C) services, he said in [&#8230;]
+
+Thu, 07 Dec 2023 16:16:33 +0000
+### [UK’s ITV tried to verify rumour about star Schofield’s affair, report said](https://theprint.in/entertainment/uks-itv-tried-to-verify-rumour-about-star-schofields-affair-report-said/1876791/)
+
+Article found but Couldn't summarize 
+LONDON (Reuters) - Britain's ITV investigated rumours of a relationship between its star presenter Phillip Schofield and a junior staff member but could find no evidence to act, a lawyer said in a
+
+Thu, 07 Dec 2023 16:16:30 +0000
+### [BJP councillors accuse AAP of arbitrariness in running MCD, hold protest](https://theprint.in/india/bjp-councillors-accuse-aap-of-arbitrariness-in-running-mcd-hold-protest/1876789/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) BJP councillors on Thursday held a protest at the Civic Centre here, accusing AAP members of resorting to &#8220;arbitrariness&#8221; in running the Municipal Corporation of Delhi. The protest was held on the premises of the MCD headquarters exactly a year after the Arvind Kejriwal-led AAP won the civic polls, ending [&#8230;]
+
+Thu, 07 Dec 2023 16:16:22 +0000
+### [Milan’s La Scala launches opera season with Verdi’s Don Carlo](https://theprint.in/entertainment/milans-la-scala-launches-opera-season-with-verdis-don-carlo/1876788/)
+
+Article found but Couldn't summarize 
+By Sara Rossi MILAN (Reuters) - Italian composer Giuseppe Verdi's Don Carlo was being performed on Thursday at the traditional gala night to mark the opening of the new season at Milan's La Scala
+
+Thu, 07 Dec 2023 16:16:18 +0000
+### [Karni Sena chief Sukhdev Singh Gogamedi cremated in native village](https://theprint.in/india/karni-sena-chief-sukhdev-singh-gogamedi-cremated-in-native-village/1876787/)
+
+Article found but Couldn't summarize 
+Jaipur, Dec 7 (PTI) Chief of Rashtriya Rajput Karni Sena Sukhdev Singh Gogamedi was cremated on Thursday in his native village in Hanumangarh district, officials said. The post-mortem of Gogamedi&#8217;s body was conducted at the Sawai Man Singh (SMS) Hospital on Wednesday night, said Hanumangarh Additional Superintendent of Police Subhash. After the autopsy, his body [&#8230;]
+
+Thu, 07 Dec 2023 16:16:10 +0000
+### [Yen surges after BOJ hints at policy shift, sending dollar lower](https://theprint.in/economy/yen-surges-after-boj-hints-at-policy-shift-sending-dollar-lower/1876785/)
+
+Article found but Couldn't summarize 
+By Hannah Lang and Amanda Cooper WASHINGTON/LONDON (Reuters) -The yen staged its biggest one-day rally in almost a year on Thursday after Japanese monetary authorities offered a surprisingly clear
+
+Thu, 07 Dec 2023 16:16:07 +0000
+### [Delhi’s crime rate against women matter of shame, concern: Congress](https://theprint.in/india/delhis-crime-rate-against-women-matter-of-shame-concern-congress/1876784/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) The Delhi Congress on Thursday said it was a matter of shame and grave concern for Delhiites that the city had the highest rate of crimes against women in the country. Delhi Pradesh Congress Committee president Arvinder Singh Lovely said that according to the NCRB data, Delhi with 14,247 cases [&#8230;]
+
+Thu, 07 Dec 2023 16:15:58 +0000
+### [Sierra Leone ex-president Koroma summoned for questioning over failed coup](https://theprint.in/world/sierra-leone-ex-president-koroma-summoned-for-questioning-over-failed-coup/1876782/)
+
+Article found but Couldn't summarize 
+FREETOWN (Reuters) -Sierra Leone police have summoned former president Ernest Bai Koroma for questioning as part of their investigation into a failed coup attempt on Nov. 26, information minister
+
+Thu, 07 Dec 2023 16:15:55 +0000
+### [Odisha CM lays foundation stone for Rs 300 cr Narsee Monjee Management Institute](https://theprint.in/india/odisha-cm-lays-foundation-stone-for-rs-300-cr-narsee-monjee-management-institute/1876780/)
+
+Article found but Couldn't summarize 
+Bhubaneswar, Dec 7 (PTI) Odisha Chief Minister Naveen Patnaik on Thursday laid the foundation for Narsee Monjee Institute of Management Studies (NMIMS), a private university, in Bhubaneswar. The institute is being set up by Shri Vile Parle Kelavani Mandal Trust at an investment of Rs 300 corer. The Odisha government has provided 40 acres of [&#8230;]
+
+Thu, 07 Dec 2023 16:15:48 +0000
+### [China and EU leaders agree on need of ‘balanced’ trade ties](https://theprint.in/world/china-and-eu-leaders-agree-on-need-of-balanced-trade-ties/1876779/)
+
+Article found but Couldn't summarize 
+By Laurie Chen BEIJING (Reuters) -China and the European Union agreed their trade relationship should be more balanced at their first in-person summit for four years on Thursday, but gave no sign of
+
+Thu, 07 Dec 2023 16:15:44 +0000
+### [Fighting along border: India conveys security concerns to Myanmar](https://theprint.in/india/fighting-along-border-india-conveys-security-concerns-to-myanmar/1876777/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) India on Thursday said it has conveyed to Myanmar its security concerns, especially the challenges along the border including that of refugee flows, against the backdrop of the fighting between government forces and the anti-junta groups. The fighting near the Indo-Myanmar border has triggered an influx of Myanmarese refugees to [&#8230;]
+
+Thu, 07 Dec 2023 16:15:39 +0000
+### [Iran’s Raisi tells Putin in Moscow that West backs Gaza “genocide”](https://theprint.in/world/irans-raisi-tells-putin-in-moscow-that-west-backs-gaza-genocide/1876776/)
+
+Article found but Couldn't summarize 
+MOSCOW (Reuters) - Iranian President Ebrahim Raisi accused the West on Thursday of supporting "genocide" by Israel against Palestinians in Gaza, at the start of talks in Moscow with President Vladimir
+
+Thu, 07 Dec 2023 16:15:32 +0000
+### [Security beefed up for Mamata in north Bengal amid upsurge in KLO activities](https://theprint.in/india/security-beefed-up-for-mamata-in-north-bengal-amid-upsurge-in-klo-activities/1876774/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 7 (PTI) Security has been beefed up for West Bengal Chief Minister Mamata Banerjee, who is on a six-day visit to the northern districts, after intelligence inputs indicated a sudden upsurge in activities of the banned Kamtapur Liberation Organisation (KLO) outfit, a senior officer said on Thursday. Security measures were tightened after video [&#8230;]
+
 Thu, 07 Dec 2023 15:01:32 +0000
 ### [MCD targets to get 15 lakh properties geo-tagged in next two months: Delhi Mayor](https://theprint.in/india/mcd-targets-to-get-15-lakh-properties-geo-tagged-in-next-two-months-delhi-mayor/1876688/)
 

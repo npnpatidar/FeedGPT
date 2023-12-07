@@ -1,3 +1,9 @@
+Thu, 07 Dec 2023 21:53:10 +0530
+### [Hong Kong’s return from isolation is gathering pace but a long road lies ahead](https://www.livemint.com/opinion/online-views/hong-kong-s-return-from-isolation-is-gathering-pace-but-a-long-road-lies-ahead-11701950312712.html)
+
+Article found but Couldn't summarize 
+Observing that the pandemic changed people’s lifestyles, the Hong Kong government has mounted a ‘Night Vibes’ campaign that seems like a state directive to go out and party. For a revival of Hong Kong’s vibe, though, citizens need to be trusted more.
+
 Thu, 07 Dec 2023 10:00:17 +0530
 ### [Government’s capex push and L&amp;T’s engineering prowess prove a winning formula](https://www.livemint.com/opinion/online-views/governments-capex-push-and-l-t-s-engineering-prowess-prove-a-winning-formula-11701855968557.html)
 
