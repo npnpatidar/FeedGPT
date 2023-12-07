@@ -1,3 +1,120 @@
+Thu, 07 Dec 2023 13:17:02 +0000
+### [“Dil se ekdum Desi”: K-Pop singer Aoora to enter ‘Bigg Boss 17’ house as wild card contestant](https://theprint.in/feature/dil-se-ekdum-desi-k-pop-singer-aoora-to-enter-bigg-boss-17-house-as-wild-card-contestant/1876486/)
+
+Popular K-pop singer Aoora will be entering Salman Khan's TV reality show, Bigg Boss 17, as a wild card contestant. Aoora, a renowned South Korean singer, gained popularity in India with his K-pop version of Bappi Lahiri's cult classic 'Jimmy Jimmy'. He frequently shares videos on Instagram, where he grooves to Bollywood tracks and collaborates with Indian artists like Yo Yo Honey Singh. Aoora's entry into Bigg Boss 17 is expected to bring a change in the dynamics of the house.
+
+Thu, 07 Dec 2023 13:15:38 +0000
+### [100 more ‘aam aadmi clinics’ to come up in Punjab: CM Mann](https://theprint.in/india/100-more-aam-aadmi-clinics-to-come-up-in-punjab-cm-mann/1876484/)
+
+Article found but Couldn't summarize 
+Chandigarh, Dec 7 (PTI) Punjab Chief Minister Bhagwant Mann on Thursday said his government would dedicate 100 more &#8216;aam aadmi clinics&#8217; to people in the state for imparting quality healthcare services.  Chairing a meeting to review the working of the health and family welfare department here, Mann said the state government is committed to strengthening [&#8230;]
+
+Thu, 07 Dec 2023 13:15:38 +0000
+### [Kremlin accuses Biden of ‘demonising’ Russia to win more Ukraine money from Congress](https://theprint.in/world/kremlin-accuses-biden-of-demonising-russia-to-win-more-ukraine-money-from-congress/1876483/)
+
+Article found but Couldn't summarize 
+MOSCOW (Reuters) - The Kremlin on Thursday accused President Joe Biden of seeking to demonise Russia in order to wring more funds from Congress to keep the war in Ukraine going, something Moscow
+
+Thu, 07 Dec 2023 13:15:28 +0000
+### [UK’s Sunak tells divided party his Rwanda migrant plan is the only way](https://theprint.in/world/uks-sunak-tells-divided-party-his-rwanda-migrant-plan-is-the-only-way/1876481/)
+
+Article found but Couldn't summarize 
+By Andrew MacAskill, Kate Holton and Alistair Smout LONDON (Reuters) -British Prime Minister Rishi Sunak appealed to his Conservative lawmakers on Thursday to unite behind his plan to send asylum
+
+Thu, 07 Dec 2023 13:15:26 +0000
+### [Centre approves Rs 40 cr facelift of science city in Agartala: Pratima Bhoumik](https://theprint.in/india/centre-approves-rs-40-cr-facelift-of-science-city-in-agartala-pratima-bhoumik/1876480/)
+
+Article found but Couldn't summarize 
+Agartala, Dec 7 (PTI) The Centre has approved a proposal for a Rs 40 crore facelift of a science city located on the outskirts of Tripura&#8217;s capital Agartala, Union minister Pratima Bhoumik said on Thursday. Bhoumik, the Union Minister of State for Social Justice and Social Empowerment, said that in the proposed facelift of the [&#8230;]
+
+Thu, 07 Dec 2023 13:15:15 +0000
+### [FBI chief to visit India next week after US raised foiled murder plot](https://theprint.in/india/fbi-chief-to-visit-india-next-week-after-us-raised-foiled-murder-plot/1876478/)
+
+Article found but Couldn't summarize 
+NEW DELHI (Reuters) - FBI Director Christopher Wray will visit India next week, officials said, days after Washington accused an Indian government official of directing an unsuccessful plot to
+
+Thu, 07 Dec 2023 13:15:15 +0000
+### [PM Modi biggest OBC face in country; JD-U finished in Bihar, RJD very weak: Nityanand Rai](https://theprint.in/india/pm-modi-biggest-obc-face-in-country-jd-u-finished-in-bihar-rjd-very-weak-nityanand-rai/1876477/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) Prime Minister Narendra Modi is the biggest face of the Other Backward Class (OBC) and Extremely Backward Class (EBC) categories in the country, Union minister Nityanand Rai said on Thursday, adding the Bharatiya Janata Party will win all 40 seats in Bihar in the 2024 Lok Sabha elections. &#8220;The JD-U [&#8230;]
+
+Thu, 07 Dec 2023 13:15:04 +0000
+### [Tata Motors lobbies India not to lower EV import taxes as Tesla looms-sources](https://theprint.in/india/tata-motors-lobbies-india-not-to-lower-ev-import-taxes-as-tesla-looms-sources/1876475/)
+
+Article found but Couldn't summarize 
+By Aditi Shah and Aditya Kalra NEW DELHI (Reuters) - Tata Motors is pressing Indian officials not to lower import taxes of 100% on electric vehicles and to protect domestic industry and its investors,
+
+Thu, 07 Dec 2023 13:15:03 +0000
+### [SCBA president writes to CJI, expresses shock over open letter by senior Bar member](https://theprint.in/india/scba-president-writes-to-cji-expresses-shock-over-open-letter-by-senior-bar-member/1876474/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) Supreme Court Bar Association (SCBA) president Adish C Aggarwala Thursday wrote to Chief Justice of India D Y Chandrachud expressing &#8220;shock&#8221; at an open letter to the head of the judiciary by a senior member of the bar. Aggarwala&#8217;s letter came a day after senior advocate Dushyant Dave wrote an [&#8230;]
+
+Thu, 07 Dec 2023 13:02:47 +0000
+### [IBSAT-2023: Last Chance for MBA aspirants to take the leap](https://theprint.in/ani-press-releases/ibsat-2023-last-chance-for-mba-aspirants-to-take-the-leap/1876471/)
+
+Article found but Couldn't summarize 
+PRNewswire Hyderabad (Telangana) [India], December 7: In a resounding invitation to aspiring management graduates, the ICFAI Business School (IBS) extends an opportunity to grasp the final moments for applications to the IBS Aptitude Test 2023 (IBSAT-2023). This marks the closing chapter for those aiming to embark on the journey towards an MBA at one of [&#8230;]
+
+Thu, 07 Dec 2023 13:02:36 +0000
+### [Afghan Embassy in New Delhi is functional, says External Affairs Ministry](https://theprint.in/world/afghan-embassy-in-new-delhi-is-functional-says-external-affairs-ministry/1876469/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 7 (ANI): The Ministry of External Affairs confirmed on Wednesday that the Afghan Embassy in New Delhi is functioning. The embassy had previously announced that it would stop its activities on October 1, 2023. Ministry of External Affairs spokesperson Arindam Bagchi also emphasised that the consulates in Mumbai and Hyderabad are [&#8230;]
+
+Thu, 07 Dec 2023 13:02:23 +0000
+### [India has taken up threats on Indian Parliament made by Pannun with US, Canada: MEA](https://theprint.in/world/india-has-taken-up-threats-on-indian-parliament-made-by-pannun-with-us-canada-mea/1876467/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 7 (ANI): India has raised the matter of threats issued by Khalistani terrorist Gurpatwant Singh Pannun on the Indian Parliament, with the United States and Canadian authorities, the Ministry of External Affairs said on Thursday. Pannun, who is a designated terrorist by the National Investigation Agency (NIA), in a recent video, [&#8230;]
+
+Thu, 07 Dec 2023 13:02:12 +0000
+### [‘Peaky Blinders’ actor Benjamin Zephaniah passes away at 65](https://theprint.in/feature/peaky-blinders-actor-benjamin-zephaniah-passes-away-at-65/1876465/)
+
+Article found but Couldn't summarize 
+Washington DC [US], December 7 (ANI): Popular show &#8216;Peaky Blinders&#8217; actor and poet Benjamin Zephaniah passed away at the age of 65. He played the role of Jeremiah Jesus in &#8216;Peaky Blinders.&#8217; According to a statement posted to Zephaniah&#8217;s official Instagram account, he died on Thursday after being diagnosed with a brain tumor eight weeks [&#8230;]
+
+Thu, 07 Dec 2023 13:02:01 +0000
+### [Manipur Education Department Embraces Blockchain Technology on ICP](https://theprint.in/ani-press-releases/manipur-education-department-embraces-blockchain-technology-on-icp/1876463/)
+
+Article found but Couldn't summarize 
+India PR Distribution Zurich [Switzerland]/ Imphal (Manipur) [India], December 7: The DFINITY Foundation (DFINITY), a Swiss, not-for-profit research and development organization and a major contributor to the Internet Computer Blockchain (ICP), today announced that the Manipur Department of Education will deploy a unique educational product suite focused on verifying and storing educational certificates in a [&#8230;]
+
+Thu, 07 Dec 2023 13:01:48 +0000
+### [Man’s body found hanging from tree in UP’s Amethi](https://theprint.in/india/mans-body-found-hanging-from-tree-in-ups-amethi/1876462/)
+
+Article found but Couldn't summarize 
+Amethi (UP), Dec 7 (PTI) The body of a 33-year-old man was found hanging from a tree on the banks of a pond here on Thursday morning, police said. The deceased has been identified as Mohammad Ansar, a resident of Phula village in the Mohanganj Kotwali police station area, they added. On Thursday morning, villagers [&#8230;]
+
+Thu, 07 Dec 2023 13:01:37 +0000
+### [AMNS India plans Rs 100 cr capital infusion to set up 3 scrap processing centres](https://theprint.in/economy/amns-india-plans-rs-100-cr-capital-infusion-to-set-up-3-scrap-processing-centres/1876461/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) Gujarat-based AMNS India is planning to set up three scrap processing centres at a capital infusion of around Rs 100 crore. The company plans to set up two centres at Hazira and Ahmedabad in Gujarat, and one in Khopoli, Maharashtra, a company official said on Thursday. ArcelorMittal Nippon Steel (AMNS) [&#8230;]
+
+Thu, 07 Dec 2023 13:01:25 +0000
+### [Jamshedpur: Over 90 participants from 11 Asian nations to take part in kids sports climbing event](https://theprint.in/sport/jamshedpur-over-90-participants-from-11-asian-nations-to-take-part-in-kids-sports-climbing-event/1876460/)
+
+Article found but Couldn't summarize 
+Jamshedpur, Dec 7 (PTI) In all, 92 athletes from 11 Asian countries will take part in the second edition of Asian Kids Sports Climbing Championship at JRD Tata Sports Complex here from Friday. Organised by Tata Steel Adventure Foundation (TSAF) in association with the Asia unit of International Federation of Sports Climbing (IFSC) and Indian [&#8230;]
+
+Thu, 07 Dec 2023 13:01:13 +0000
+### [Meat, alcohol prohibited around Pashupatinath Temple for a week on occasion of Bala Chaturdashi festival](https://theprint.in/world/meat-alcohol-prohibited-around-pashupatinath-temple-for-a-week-on-occasion-of-bala-chaturdashi-festival/1876459/)
+
+Article found but Couldn't summarize 
+Kathmandu, Dec 7 (PTI) The sale and consumption of meat, alcohol and other intoxicants have been restricted around the Pashupatinath Temple area in Kathmandu for a week from Thursday due to the Hindu festival Bala Chaturdashi, authorities said. Situated on the banks of the holy River Bagmati on the eastern outskirts of Kathmandu, Pashupatinath is [&#8230;]
+
+Thu, 07 Dec 2023 13:01:03 +0000
+### [Seat sharing to be top agenda in upcoming INDIA bloc meet](https://theprint.in/india/seat-sharing-to-be-top-agenda-in-upcoming-india-bloc-meet/1876458/)
+
+The upcoming meeting of the INDIA bloc, scheduled to be held between December 17 and 20, will focus on seat sharing agreements. The constituents of the bloc are pushing for a quick decision on seat sharing in different states to allow candidates sufficient time for campaigning. The last meeting of the INDIA bloc took place on August 31 and September 1, and a meeting of the Coordination Committee of the Indian National Developmental Inclusive Alliance (I.N.D.I.A) was held on September 13 in New Delhi. This report is generated by PTI news service, and ThePrint bears no responsibility for its content.
+
+Thu, 07 Dec 2023 13:00:52 +0000
+### [BJP will win all 14 LS seats in Jharkhand; also form next govt in state: Babulal Marandi](https://theprint.in/india/bjp-will-win-all-14-ls-seats-in-jharkhand-also-form-next-govt-in-state-babulal-marandi/1876457/)
+
+Jharkhand BJP chief Babulal Marandi expressed confidence that his party will win all 14 Lok Sabha seats in the state in the upcoming general elections. He also claimed that the BJP would form the government in the state after the assembly elections next year. Marandi cited the BJP's success in tribal-dominated areas in the recent assembly elections in Madhya Pradesh, Chhattisgarh, and Rajasthan as proof that tribals support the BJP. He highlighted the Modi government's initiatives such as providing houses, gas connections, and free treatment to the poor. Marandi criticized Chief Minister Hemant Soren for allegedly neglecting areas where children from the Pahadia tribe had died due to an unknown disease. In response to Soren's claims about owed funds from coal mining, Marandi demanded complete details and accused him of seeking money through illicit means.
+
 Thu, 07 Dec 2023 12:32:16 +0000
 ### [CHG ENSOL Delivers Innovative Solutions for Climate Change at COP28](https://theprint.in/ani-press-releases/chg-ensol-delivers-innovative-solutions-for-climate-change-at-cop28/1876405/)
 

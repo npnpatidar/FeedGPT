@@ -1,3 +1,9 @@
+Thu, 07 Dec 2023 18:28:38 +0530
+### [Wireless CCTV camera for home security? Here are top 10 options to choose from](https://www.livemint.com/technology/gadgets/wireless-cctv-camera-for-home-security-here-are-top-10-options-to-choose-from-11701941126872.html)
+
+Article found but Couldn't summarize 
+Wireless CCTV cameras ensure the security of your home without the hassle of any wiring or connection. Check out the 10 best options to choose from to enhance the security of your home.
+
 Thu, 07 Dec 2023 15:16:26 +0530
 ### [Best refrigerator brands in India: 10 premium models priced over  ₹30,000](https://www.livemint.com/technology/gadgets/best-refrigerator-brands-in-india-10-premium-models-priced-over-rs-30000-11701935917539.html)
 

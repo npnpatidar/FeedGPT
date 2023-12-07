@@ -1,3 +1,15 @@
+2023-12-07T18:32:20+05:30
+### [J&K: Authorities Prevent Protest By Tribal Groups Against Bills to Include Paharis in ST List](https://thewire.in/government/jk-authoritiesprevent-protests-tribal-groups-paharis-st-bill)
+
+No Article text 
+Several Gujjar and Bakkerwal activists have been reportedly detained along with some students, while unofficial curbs were imposed in Rajouri on Thursday to foil the march to the national capital against the Bills.
+
+2023-12-07T18:13:51+05:30
+### [Exclusive: Nikhil Gupta Fights Extradition to US in Czech Court, Fate of Pannun Murder Plot Will Turn on Outcome](https://thewire.in/world/nikhil-gupta-pannun-plot-challenges-extradition-order-czech-court)
+
+No Article text 
+A municipal court in Prague issued an order on November 23 on the admissibility of the extradition order to the US. The case will now be referred to the high court.
+
 2023-12-07T17:30:37+05:30
 ### [Debate: Yogendra Yadav's Analysis Downplaying BJP Wins in Assembly Polls Is Misleading](https://thewire.in/politics/debate-yogendra-yadav-analysis-bjp-wins-assembly-polls-misleading)
 
