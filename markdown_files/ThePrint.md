@@ -1,3 +1,51 @@
+Thu, 07 Dec 2023 23:15:59 +0000
+### [Soccer-West Ham stun Tottenham with comeback win](https://theprint.in/sport/soccer-west-ham-stun-tottenham-with-comeback-win/1877109/)
+
+Article found but Couldn't summarize 
+By Martyn Herman LONDON (Reuters) - Tottenham Hotspur's inability to convert leads into Premier League points returned with a vengeance in a 2-1 home defeat by West Ham United as their winless run
+
+Thu, 07 Dec 2023 23:15:49 +0000
+### [Blackstone, Digital Realty join hands to develop $7 billion data centers](https://theprint.in/tech/blackstone-digital-realty-join-hands-to-develop-7-billion-data-centers/1877107/)
+
+Article found but Couldn't summarize 
+(Reuters) - U.S. investment giant Blackstone and data-center firm Digital Realty will create a joint venture that will spend $7 billion on developing data centers, the companies said on Thursday. The
+
+Thu, 07 Dec 2023 23:15:33 +0000
+### [Blinken: important that Israeli inquiry on killed Reuters journalist ‘come to a conclusion’](https://theprint.in/world/blinken-important-that-israeli-inquiry-on-killed-reuters-journalist-come-to-a-conclusion/1877105/)
+
+Article found but Couldn't summarize 
+WASHINGTON (Reuters) - U.S. Secretary of State Antony Blinken said it was important that Israel's inquiry into the killing of a Reuters journalist in Lebanon come to a conclusion, when asked about a
+
+Thu, 07 Dec 2023 23:15:24 +0000
+### [Hundreds more Palestinians killed in Israel’s assault on Hamas in south Gaza](https://theprint.in/world/hundreds-more-palestinians-killed-in-israels-assault-on-hamas-in-south-gaza/1877103/)
+
+Article found but Couldn't summarize 
+By Bassam Masoud and Maayan Lubell GAZA/JERUSALEM (Reuters) -Hundreds more Palestinians were killed as Israel fought Hamas militants in the Gaza Strip's biggest cities on Thursday, and almost 2
+
+Thu, 07 Dec 2023 23:15:15 +0000
+### [Blinken says gap remains between Israel’s intent to protect civilians and results](https://theprint.in/world/blinken-says-gap-remains-between-israels-intent-to-protect-civilians-and-results/1877101/)
+
+Article found but Couldn't summarize 
+By Simon Lewis and Humeyra Pamuk WASHINGTON (Reuters) - U.S. Secretary of State Antony Blinken on Thursday criticized Israel's conduct in its southern Gaza offensive, saying there was a "gap" between
+
+Thu, 07 Dec 2023 23:15:05 +0000
+### [Cameron, Blinken say they discussed ‘vital’ US air base at Diego Garcia](https://theprint.in/world/cameron-blinken-say-they-discussed-vital-us-air-base-at-diego-garcia/1877099/)
+
+Article found but Couldn't summarize 
+By Simon Lewis and David Brunnstrom WASHINGTON (Reuters) -British Foreign Secretary David Cameron and U.S. Secretary of State Antony Blinken said on Thursday they had discussed the "vital" U.S.-UK
+
+Thu, 07 Dec 2023 22:47:01 +0000
+### [Earthquake of magnitude 5.8 jolts Mexico](https://theprint.in/world/earthquake-of-magnitude-5-8-jolts-mexico/1877097/)
+
+Article found but Couldn't summarize 
+Mexico City [Mexico], December 8 (ANI): An earthquake of 5.8 magnitude on the Richter Scale jolted Mexico on Thursday afternoon (local time), the US Geological Survey (USGS) informed. The USGS said the quake occurred 10 km North-northeast of Chiautla de Tapia, Mexico. It occurred at 2:03 pm (local time) at a depth of 44.4 kilometres, [&#8230;]
+
+Thu, 07 Dec 2023 22:32:02 +0000
+### [Amnesty urges International Criminal Court to probe war crimes in Afghanistan](https://theprint.in/world/amnesty-urges-international-criminal-court-to-probe-war-crimes-in-afghanistan/1877095/)
+
+Article found but Couldn't summarize 
+Kabul [Afghanistan], December 8 (ANI): Amnesty International has urged the International Criminal Court (ICC) to prioritise and accelerate the delivery of justice for victims of crimes committed by the Taliban and other actors in Afghanistan before the Taliban seized power in August 2021, TOLO News reported. In the statement, Amnesty International stated, &#8220;The International Criminal [&#8230;]
+
 Thu, 07 Dec 2023 22:15:58 +0000
 ### [Soccer-Everton out of bottom three after 3-0 win over Newcastle](https://theprint.in/sport/soccer-everton-out-of-bottom-three-after-3-0-win-over-newcastle/1877093/)
 
