@@ -1,3 +1,79 @@
+Thu, 07 Dec 2023 22:15:58 +0000
+### [Soccer-Everton out of bottom three after 3-0 win over Newcastle](https://theprint.in/sport/soccer-everton-out-of-bottom-three-after-3-0-win-over-newcastle/1877093/)
+
+Article found but Couldn't summarize 
+LIVERPOOL, England (Reuters) - Everton profited from two Kieran Trippier errors to score late goals through Dwight McNeil, Abdoulaye Doucoure and Beto as they claimed a 3-0 victory over Newcastle
+
+Thu, 07 Dec 2023 22:15:46 +0000
+### [Motor racing-Stewart’s goal in Top Fuel drag racing, “Don’t suck”](https://theprint.in/sport/motor-racing-stewarts-goal-in-top-fuel-drag-racing-dont-suck/1877091/)
+
+Article found but Couldn't summarize 
+By Steve Keating (Reuters) - A three-time NASCAR Cup and IndyCar series champion Tony Stewart has set three modest goals for his first season in an NHRA Top Fuel dragster. 'Don't suck, don't wreck his
+
+Thu, 07 Dec 2023 22:15:35 +0000
+### [Ex-Apple lawyer sentenced to probation for insider trading](https://theprint.in/tech/ex-apple-lawyer-sentenced-to-probation-for-insider-trading/1877089/)
+
+Article found but Couldn't summarize 
+By David Thomas (Reuters) - Apple's former top corporate lawyer will receive no prison time after pleading guilty last year to U.S. insider trading charges, a judge said on Thursday. U.S. District
+
+Thu, 07 Dec 2023 22:15:27 +0000
+### [Spotify CFO Paul Vogel to step down next year](https://theprint.in/tech/spotify-cfo-paul-vogel-to-step-down-next-year/1877087/)
+
+Article found but Couldn't summarize 
+(Reuters) - Spotify Technology said on Thursday Chief Financial Officer Paul Vogel will step down from his role next year March end after an eight-year long stint at the music streaming company.
+
+Thu, 07 Dec 2023 22:15:18 +0000
+### [Broadcom misses revenue estimates on dull enterprise spending](https://theprint.in/tech/broadcom-misses-revenue-estimates-on-dull-enterprise-spending/1877085/)
+
+Article found but Couldn't summarize 
+By Arsheeya Bajwa (Reuters) -Chipmaker Broadcom forecast annual revenue below Wall Street estimates on Thursday, hurt by weak enterprise spending and stiff competition in the networking chips space.
+
+Thu, 07 Dec 2023 22:15:04 +0000
+### [Biden aide says Iran helps plan, execute attacks by Yemen’s Houthis](https://theprint.in/world/biden-aide-says-iran-helps-plan-execute-attacks-by-yemens-houthis/1877084/)
+
+Article found but Couldn't summarize 
+By Jonathan Landay WASHINGTON (Reuters) -The United States believes that Iran is involved in the planning and execution of drone and missile attacks by Yemen's Houthi group on Israel and ships in the
+
+Thu, 07 Dec 2023 22:02:02 +0000
+### [UAE Vice President Mansour bin Zayed meets Prime Minister of Yemen](https://theprint.in/world/uae-vice-president-mansour-bin-zayed-meets-prime-minister-of-yemen/1877082/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 8 (ANI/WAM): Sheikh Mansour bin Zayed Al Nahyan, Vice President, Deputy Prime Minister and Chairman of the Presidential Court, met with Maeen Abdulmalik, Prime Minister of Yemen, on the sidelines of the 28th UN Climate Change Conference (COP28), which is being held at Expo City Dubai. The meeting discussed UAE-Yemen relations and [&#8230;]
+
+Thu, 07 Dec 2023 21:47:17 +0000
+### [Pakistan: Peshawar court bars authorities from arresting former National Assembly Speaker Asad Qaiser](https://theprint.in/world/pakistan-peshawar-court-bars-authorities-from-arresting-former-national-assembly-speaker-asad-qaiser/1877079/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 8 (ANI): Peshawar High Court (PHC) has barred authorities from arresting Pakistan Tehreek-e-Insaf (PTI) leader and former National Assembly Speaker Asad Qaiser in cases already registered, Pakistan-based ARY News reported. According to the daily, the advocate general asked the court to give them some time to prepare a response. Justice Ishtiaq Ibrahim [&#8230;]
+
+Thu, 07 Dec 2023 21:47:01 +0000
+### [UAE Armed Forces’ Climate Change Strategy launched at COP28](https://theprint.in/world/uae-armed-forces-climate-change-strategy-launched-at-cop28/1877077/)
+
+The UAE's Ministry of Defence has launched the UAE Armed Forces' Climate Change Strategy, which is the first of its kind in the region. The strategy focuses on five main pillars, including sustainable acquisition and green equipment, sustainable infrastructure and energy, waste management, culture, communication, and participation, and climate adaptation. It aims to reduce carbon emissions, encourage active participation in sustainability, and contribute to the UAE's climate neutrality efforts. The strategy was developed in collaboration with strategic partners and aims to achieve sustainable development and protect the environment.
+
+Thu, 07 Dec 2023 21:45:28 +0000
+### [Chanel’s Manchester fashion show draws celebrities and protesters](https://theprint.in/entertainment/chanels-manchester-fashion-show-draws-celebrities-and-protesters/1877075/)
+
+Article found but Couldn't summarize 
+By Suzanne Plunkett MANCHESTER, England (Reuters) - French luxury label Chanel took its annual Metiers d'Art runway show to a rainy northern England street late Thursday where an international fashion
+
+Thu, 07 Dec 2023 21:45:16 +0000
+### [Yen surges on possible Bank of Japan shift, stocks climb](https://theprint.in/economy/yen-surges-on-possible-bank-of-japan-shift-stocks-climb/1877073/)
+
+As GPT-3.5, I can provide a summary of the article you shared. The Japanese yen experienced a significant surge against the US dollar after Bank of Japan Governor Kazuo Ueda hinted at a possible shift away from the ultra-low interest rate plan. This speculation arose as Ueda mentioned that policy management would become more challenging in the coming year. The Bank of Japan is the only central bank that has not started tightening its policy, while other central banks like the US Federal Reserve and the European Central Bank are either nearing or at the end of their rate hike cycles. In the US, stocks climbed, led by communication services stocks, and the labor market data showed a slight increase in weekly jobless claims. The focus now turns to the upcoming government payrolls report. European shares closed lower, and global stocks experienced their first advance after three consecutive declines. US Treasury yields remained relatively unchanged, and expectations for a US rate cut in March have increased. Oil prices settled at a six-month low due to concerns about sluggish energy demand in the US and China.
+
+Thu, 07 Dec 2023 21:45:04 +0000
+### [White House open to new asylum limits for Ukraine aid -source](https://theprint.in/world/white-house-open-to-new-asylum-limits-for-ukraine-aid-source/1877071/)
+
+Article found but Couldn't summarize 
+By Ted Hesson WASHINGTON (Reuters) - The Biden administration is considering getting behind new restrictions on who can seek asylum and an expanded deportation processes to secure new aid for Ukraine
+
+Thu, 07 Dec 2023 21:17:02 +0000
+### [Son of Israeli minister among two soldiers killed in Gaza: IDF](https://theprint.in/world/son-of-israeli-minister-among-two-soldiers-killed-in-gaza-idf/1877069/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], December 8 (ANI): Master Sgt. (res.) Gal Meir Eisenkot, the son of Israeli Minister Gadi Eisenkot, and Sgt. Major (res.) Jonathan David Deitch of the 55th Brigade&#8217;s 6623rd Reconnaissance Battalion have been killed in the Gaza Strip, the Times of Israel reported quoting the Israel Defence Forces (IDF). The IDF informed that [&#8230;]
+
 Thu, 07 Dec 2023 21:15:37 +0000
 ### [Soccer-Rio court removes CBF president from office and appoints interim president](https://theprint.in/sport/soccer-rio-court-removes-cbf-president-from-office-and-appoints-interim-president/1877066/)
 
