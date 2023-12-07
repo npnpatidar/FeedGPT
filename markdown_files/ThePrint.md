@@ -1,3 +1,123 @@
+Thu, 07 Dec 2023 15:01:32 +0000
+### [MCD targets to get 15 lakh properties geo-tagged in next two months: Delhi Mayor](https://theprint.in/india/mcd-targets-to-get-15-lakh-properties-geo-tagged-in-next-two-months-delhi-mayor/1876688/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) Delhi Mayor Shelly Oberoi on Thursday said the AAP-led MCD has set the ball rolling for creating a &#8220;proper database&#8221; of property tax records using cutting-edge technology and it aims to get 15 lakh properties geo-tagged in the next two months. At a press conference held at the Civic Centre [&#8230;]
+
+Thu, 07 Dec 2023 15:01:18 +0000
+### [MCOCA court acquits three men in 17-year-old armed dacoity case in Thane](https://theprint.in/india/mcoca-court-acquits-three-men-in-17-year-old-armed-dacoity-case-in-thane/1876687/)
+
+Article found but Couldn't summarize 
+Thane, Dec 7 (PTI) A special court here on Thursday acquitted three persons tried under the stringent Maharashtra Control of Organised Crime Act (MCOCA) in a 17-year-old case of armed dacoity, saying the prosecution has failed to prove charges against them beyond reasonable doubts. Those acquitted by the court were Rajesh Poojari, 44, Rafique Sheikh, [&#8230;]
+
+Thu, 07 Dec 2023 15:01:01 +0000
+### [Newly elected MLA reaches Bhopal on borrowed motorcycle](https://theprint.in/india/newly-elected-mla-reaches-bhopal-on-borrowed-motorcycle/1876686/)
+
+Article found but Couldn't summarize 
+Bhopal/Ratlam, Dec 7 (PTI) Newly elected Bharat Adivasi Party (BAP) MLA Kamleshwar Dodiyar rode to Bhopal on motorcycle as he could not get a car, and broadcast his ride live through social media. Dodiyar, the lone MLA of his party, was elected from the Sailana constituency in Ratlam district in the November 17 elections to [&#8230;]
+
+Thu, 07 Dec 2023 15:00:46 +0000
+### [Siddharth Roy Kapur to receive honour from Motion Picture Association](https://theprint.in/feature/siddharth-roy-kapur-to-receive-honour-from-motion-picture-association/1876685/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 7 (PTI) Producer Siddharth Roy Kapur will be felicitated with the Motion Picture Association Asia-Pacific Copyright Educator of the Year Award for his contributions towards the growth and development of the Indian film industry. Kapur heads the production banner Roy Kapur Films which has produced critically-acclaimed titles such as &#8220;The Sky Is Pink&#8221;, [&#8230;]
+
+Thu, 07 Dec 2023 15:00:32 +0000
+### [Railways needs 80,000 wheels annually, initiate projects to become atmanirbhar: Ashwini Vaishnaw](https://theprint.in/india/railways-needs-80000-wheels-annually-initiate-projects-to-become-atmanirbhar-ashwini-vaishnaw/1876684/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) The Indian Railways requires 80,000 forged wheels annually and the government has approved a project under which 2,30 lakh will be produced annually, Railway Minister Ashwini Vaishnaw said on Thursday. His statement at a press conference on Thursday came a day after he said in a written statement in Parliament, [&#8230;]
+
+Thu, 07 Dec 2023 15:00:21 +0000
+### [LPG carriers’ stir: IOC terms transporters’ claims ‘misleading’](https://theprint.in/india/lpg-carriers-stir-ioc-terms-transporters-claims-misleading/1876683/)
+
+Article found but Couldn't summarize 
+Guwahati, Dec 7 (PTI) PSU Indian Oil Corporation (IOC) on Thursday termed the reasons cited by North East Packed LPG Transporter Association (NEPLTA) for carrying out a flash strike as &#8220;misleading&#8221; and urged the union to end the agitation immediately. The NEPLTA on December 4 suddenly stopped plying its trucks alleging pending dues and low [&#8230;]
+
+Thu, 07 Dec 2023 15:00:04 +0000
+### [Ukraine to use trains to move blocked lorries across Polish border](https://theprint.in/world/ukraine-to-use-trains-to-move-blocked-lorries-across-polish-border/1876682/)
+
+Article found but Couldn't summarize 
+KYIV (Reuters) - Ukraine aims to bypass a border blockade by Polish truck drivers by bringing in lorries on train platforms, Interfax Ukraine news agency quoted an official from the national railways
+
+Thu, 07 Dec 2023 15:00:03 +0000
+### [Rupee falls 4 paise against US dollar](https://theprint.in/economy/rupee-falls-4-paise-against-us-dollar-5/1876681/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 7 (PTI) The rupee depreciated 4 paise to close at 83.36 against the US dollar on Thursday, tracking elevated American currency in the overseas market and a muted trend in domestic equities. Forex traders said the rupee traded in a narrow range as the support from easing crude oil prices was negated by [&#8230;]
+
+Thu, 07 Dec 2023 14:47:17 +0000
+### [Russian President Putin concludes visit to Saudi Arabia after exchanging views on regional, international issues](https://theprint.in/world/russian-president-putin-concludes-visit-to-saudi-arabia-after-exchanging-views-on-regional-international-issues/1876675/)
+
+Article found but Couldn't summarize 
+Moscow [Russia], December 7 (ANI): Russian President Vladimir Putin concluded his visit to Saudi Arabia after exchanging views on current regional and international issues. According to a joint statement at the conclusion of Putin&#8217;s visit, the statement highlighted that both leaders held an official session of talks during which they reviewed relations between the two [&#8230;]
+
+Thu, 07 Dec 2023 14:47:02 +0000
+### [US charges Russian-affiliated soldiers for war crimes during Ukraine invasion](https://theprint.in/world/us-charges-russian-affiliated-soldiers-for-war-crimes-during-ukraine-invasion/1876673/)
+
+Article found but Couldn't summarize 
+Washington, DC [US], December 7 (ANI): War crimes charges against four Russia-affiliated military personnel were unsealed in the Eastern District of Virginia, CNN reported. The charges include torture, inhuman treatment, and unlawful confinement of a US national in Ukraine following Russia&#8217;s full-scale invasion of Ukraine in February 2022. The charges included conspiracy to commit war [&#8230;]
+
+Thu, 07 Dec 2023 14:46:50 +0000
+### [Navi Mumbai: Gutkha worth Rs 20.16 lakh seized, one person arrested](https://theprint.in/india/navi-mumbai-gutkha-worth-rs-20-16-lakh-seized-one-person-arrested/1876672/)
+
+Article found but Couldn't summarize 
+Thane, Dec 7 (PTI) One person was arrested allegedly with gutkha, which is banned in Maharashtra, worth Rs 20.16 lakh, a Navi Mumbai police official said on Thursday. Acting on a tip off, a truck was stopped on Mumbra-Panel highway at Rohinjan village on December 3, he said. &#8220;A search of the truck led to [&#8230;]
+
+Thu, 07 Dec 2023 14:46:33 +0000
+### [Epic Games launches Lego ‘Fortnite’ videogame](https://theprint.in/tech/epic-games-launches-lego-fortnite-videogame/1876670/)
+
+Article found but Couldn't summarize 
+OSLO (Reuters) - "Fortnite" maker Epic Games on Thursday launched a Lego branded version of the survival mode videogame, with additional features set to be introduced next year, the two companies said
+
+Thu, 07 Dec 2023 14:46:33 +0000
+### [Allahabad HC to resume hearing on Gyanvapi mosque committee’s plea on Friday](https://theprint.in/india/allahabad-hc-to-resume-hearing-on-gyanvapi-mosque-committees-plea-on-friday/1876669/)
+
+Article found but Couldn't summarize 
+Prayagraj (UP), Dec 7 (PTI) The Allahabad High Court will resume on Friday the hearing on a petition filed by the Anjuman Intezamia Masjid Committee challenging the maintainability of a suit seeking &#8220;restoration&#8221; of a temple at the site of the Gyanvapi mosque. On December 5, the matter was listed before the bench of Justice [&#8230;]
+
+Thu, 07 Dec 2023 14:46:25 +0000
+### [C3.ai falls on worries AI investments will eat into profitability](https://theprint.in/tech/c3-ai-falls-on-worries-ai-investments-will-eat-into-profitability/1876668/)
+
+Article found but Couldn't summarize 
+(Reuters) -Retail investor darling C3.ai sank about 8% on Thursday as its forecast for a bigger-than-expected annual loss sparked worries about the costs stemming from rising investments in artificial
+
+Thu, 07 Dec 2023 14:46:22 +0000
+### [Junior Hockey WC: India suffer crushing 1-4 defeat to Spain](https://theprint.in/sport/junior-hockey-wc-india-suffer-crushing-1-4-defeat-to-spain/1876667/)
+
+Article found but Couldn't summarize 
+Kuala Lumpur, Dec 7 (PTI) Spain were superb on the wings and played a close-knit game to crush India 4-1 in a pool match of the FIH junior men&#8217;s hockey World Cup here on Tuesday. Spain are leading Pool C with six points from two wins, while Korea are ahead of India on goal difference, [&#8230;]
+
+Thu, 07 Dec 2023 14:46:15 +0000
+### [Tsunami threat lifted after earthquake strikes Vanuatu region](https://theprint.in/environment/tsunami-threat-lifted-after-earthquake-strikes-vanuatu-region/1876665/)
+
+Article found but Couldn't summarize 
+(Reuters) -A tsunami warning for the coasts of Vanuatu and New Caledonia has passed, the U.S. Tsunami Warning System said, after an earthquake of magnitude 7.2 struck the Vanuatu region on Friday. It
+
+Thu, 07 Dec 2023 14:46:12 +0000
+### [Actions of chief secretary must not put elected government at standstill: SC](https://theprint.in/india/actions-of-chief-secretary-must-not-put-elected-government-at-standstill-sc/1876663/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) The actions or inactions of a chief secretary must not put the elected government at a &#8220;standstill&#8221;, the Supreme Court has said while holding that the Centre&#8217;s decision to extend the services of the top-most bureaucrat in the Delhi government for six months cannot be construed as violative of law. [&#8230;]
+
+Thu, 07 Dec 2023 14:46:00 +0000
+### [‘Raise the bar’ at UN climate summit, urges COP28 leader Jaber](https://theprint.in/environment/raise-the-bar-at-un-climate-summit-urges-cop28-leader-jaber/1876662/)
+
+Article found but Couldn't summarize 
+By Sarah McFarlane, Valerie Volcovici and Jake Spring DUBAI (Reuters) - Ahead of the toughest phase of U.N. climate negotiations, COP28 President Sultan Al Jaber appealed to countries to maintain
+
+Thu, 07 Dec 2023 14:45:54 +0000
+### [Putting up selfie points in colleges with PM’s picture matter of pride, not mandatory: Pradhan](https://theprint.in/india/putting-up-selfie-points-in-colleges-with-pms-picture-matter-of-pride-not-mandatory-pradhan/1876660/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) Union Education Minister Dharmendra Pradhan on Thursday said colleges have been asked to set up selfie points with pictures of Prime Minister Narendra Modi because he has made the country proud globally but it is not mandatory for students to click photos. &#8220;We have been seeing since childhood that pictures [&#8230;]
+
+Thu, 07 Dec 2023 14:45:43 +0000
+### [UN refugee chief urges Western states to deter migrants from dangerous routes](https://theprint.in/environment/un-refugee-chief-urges-western-states-to-deter-migrants-from-dangerous-routes/1876659/)
+
+Article found but Couldn't summarize 
+By Emma Farge GENEVA (Reuters) - Western states should enact policies to prevent asylum seekers embarking on dangerous routes, the U.N. refugee chief said on Thursday, as the number of migrants
+
 Thu, 07 Dec 2023 14:10:14 +0000
 ### [What is ‘white lung syndrome’ and does India need to raise alarm yet](https://theprint.in/health/what-is-white-lung-syndrome-and-does-india-need-to-raise-alarm-yet/1876391/)
 

@@ -1,3 +1,15 @@
+2023-12-07T20:30:08+05:30
+### [Watch | Removal of Ramjas College's Ad Hoc Teachers Raises Concerns About DU's Academic Standards](https://thewire.in/video/watch-removal-of-ramjas-colleges-ad-hoc-teachers-raises-concerns-about-dus-academic-standards)
+
+No Article text 
+The arbitrary removal of ad hoc teachers has become a concerning trend, with 75% already displaced by April 2023, raising alarms about the fairness of the ad hoc system and the overall decline in academic standards.
+
+2023-12-07T19:59:21+05:30
+### [‘The Archies’: Zoya Akhtar Plays It Very Safe in This Frothy Adaptation of the American Comics](https://thewire.in/film/the-archies-zoya-akhtar-review)
+
+No Article text 
+The world-building, the songs and the set-pieces are nicely done, but not enough to make this 143-minute film feel any tighter and shorter.
+
 2023-12-07T19:30:13+05:30
 ### [Forced to Pull Story on Indian Firm's Alleged Global Hacking Operation, Reuters to Fight Court Order](https://thewire.in/law/delhi-court-reuters-takes-down-story-indian-firm-hacking)
 

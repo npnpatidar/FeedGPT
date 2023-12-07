@@ -1,3 +1,9 @@
+Thu, 07 Dec 2023 19:59:37 +0530
+### [How Indian-American stole $22 million from US football team for life of luxury](https://www.firstpost.com/explainers/how-indian-american-stole-22-million-from-us-football-team-for-life-of-luxury-13478652.html)
+
+Article found but Couldn't summarize 
+How Indian-American stole $22 million from US football team for life of luxury
+
 Thu, 07 Dec 2023 17:29:14 +0530
 ### [Why Pakistan wants to demolish NYC’s iconic Roosevelt Hotel](https://www.firstpost.com/explainers/why-pakistan-wants-to-demolish-nycs-iconic-roosevelt-hotel-13478022.html)
 
