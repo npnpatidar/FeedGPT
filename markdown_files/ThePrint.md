@@ -1,3 +1,122 @@
+Thu, 07 Dec 2023 10:17:11 +0000
+### [Affordable Home Loans Now Available on Bajaj Markets](https://theprint.in/ani-press-releases/affordable-home-loans-now-available-on-bajaj-markets/1876163/)
+
+Article found but Couldn't summarize 
+BusinessWire India Pune (Maharashtra) [India], December 7: Bajaj Markets, a subsidiary of Bajaj Finserv, enables its users to apply for home loans. Individuals can borrow up to Rs. 15 Crores at interest rates starting from just 8.50% p.a. Individuals can enjoy a hassle-free digital application process and repay these home loans over flexible repayment tenures. [&#8230;]
+
+Thu, 07 Dec 2023 10:17:02 +0000
+### [Reliable Homes enters Pollachi real estate market; Launches Palm Springs, Premium Plotted project in the heart of Pollachi at Zamin Uthukkuli](https://theprint.in/ani-press-releases/reliable-homes-enters-pollachi-real-estate-market-launches-palm-springs-premium-plotted-project-in-the-heart-of-pollachi-at-zamin-uthukkuli/1876161/)
+
+Article found but Couldn't summarize 
+SRV Media New Delhi [India], December 7: Reliable homes recently launched Reliable Palm Springs. Reliable Palm Springs, is the only premium plotted development situated right within Pollachi city. The project is located very close to the bus stand, NGM college, Minnal mahal and 1 min from Palakkad main road. The project is nestled amidst Coconut [&#8230;]
+
+Thu, 07 Dec 2023 10:16:19 +0000
+### [Bank of England proposes new checks on banks’ reliance on tech companies](https://theprint.in/tech/bank-of-england-proposes-new-checks-on-banks-reliance-on-tech-companies/1876159/)
+
+Article found but Couldn't summarize 
+LONDON (Reuters) - The Bank of England and Britain's Financial Conduct Authority proposed on Thursday that there should be greater checks on financial firms' heavy reliance on external technology
+
+Thu, 07 Dec 2023 10:16:10 +0000
+### [Kenya judge finds Meta is not in contempt of court](https://theprint.in/tech/kenya-judge-finds-meta-is-not-in-contempt-of-court/1876157/)
+
+Article found but Couldn't summarize 
+NAIROBI (Reuters) - A Kenyan judge on Thursday found Facebook's parent company Meta was not in contempt of court for failing to pay dozens of content moderators that a contractor laid off. Labour
+
+Thu, 07 Dec 2023 10:16:00 +0000
+### [‘Call me Modi, not Modiji’ — PM tells BJP MPs that the suffix ‘distances him from public’](https://theprint.in/politics/call-me-modi-not-modiji-pm-tells-bjp-mps-that-the-suffix-distances-him-from-public/1876027/)
+
+Article found but Couldn't summarize 
+The PM was addressing 1st meeting of BJP parliamentary party since BJP's victory in assembly elections in MP, Rajasthan &#38; Chhattisgarh. Modi said party chosen because of it development model.
+
+Thu, 07 Dec 2023 10:15:52 +0000
+### [Indian shares break recent rally to settle lower ahead of RBI policy](https://theprint.in/economy/indian-shares-break-recent-rally-to-settle-lower-ahead-of-rbi-policy/1876155/)
+
+Article found but Couldn't summarize 
+By Bharath Rajeswaran BENGALURU (Reuters) -India's benchmark indexes fell on Thursday after rallying for seven consecutive sessions, as investors took a breather a day before the Reserve Bank of
+
+Thu, 07 Dec 2023 10:15:50 +0000
+### [Pankaj Tripathi on exploring heartwarming father-daughter bond: My thoughts align with such stories](https://theprint.in/feature/pankaj-tripathi-on-exploring-heartwarming-father-daughter-bond-my-thoughts-align-with-such-stories/1876154/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) Women&#8217;s upliftment has a long way to go in society but at least it can happen in cinema and literature, believes Pankaj Tripathi, who feels lucky to have played supportive fathers to daughters and an ally to his female counterparts in many of his movies. Tripathi, who has a daughter [&#8230;]
+
+Thu, 07 Dec 2023 10:15:38 +0000
+### [With soy and lithium trade in the balance, Argentina’s Milei has a China conundrum](https://theprint.in/world/with-soy-and-lithium-trade-in-the-balance-argentinas-milei-has-a-china-conundrum/1876152/)
+
+Article found but Couldn't summarize 
+By Lucinda Elliott, Joe Cash and Maximilian Heath BUENOS AIRES/BEIJING (Reuters) - Argentina's President-elect Javier Milei has a China conundrum. The libertarian economist insulted communist-run
+
+Thu, 07 Dec 2023 10:15:37 +0000
+### [PM Modi to address second edition of Infinity Forum](https://theprint.in/india/pm-modi-to-address-second-edition-of-infinity-forum/1876151/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) Prime Minister Narendra Modi will address the second edition of Infinity Forum, a global thought leadership platform on fintech, on December 9 via video conferencing. The second edition of Infinity Forum is being jointly organised by the International Financial Services Centres Authority (IFSCA) and GIFT City, under the aegis of [&#8230;]
+
+Thu, 07 Dec 2023 10:15:26 +0000
+### [NSA Doval addresses security conclave in Mauritius](https://theprint.in/india/nsa-doval-addresses-security-conclave-in-mauritius/1876149/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) National Security Advisor Ajit Doval on Thursday underlined the importance of regional grouping Colombo Security Conclave (CSC) in ensuring security and stability in the region. He made the remarks while addressing the sixth NSA-level meeting of the CSC in Mauritius. The member states of the CSC are India, Maldives, Mauritius [&#8230;]
+
+Thu, 07 Dec 2023 10:15:25 +0000
+### [India inflation likely rebounded in November on higher food prices](https://theprint.in/india/india-inflation-likely-rebounded-in-november-on-higher-food-prices/1876148/)
+
+Article found but Couldn't summarize 
+By Milounee Purohit BENGALURU (Reuters) - India's retail inflation likely picked up in November due to higher food prices after declining for three months, bringing it closer to the upper end of the
+
+Thu, 07 Dec 2023 10:15:14 +0000
+### [Retired soldiers file PIL in Karnataka HC, challenge promise of ‘freebies’ by political parties](https://theprint.in/india/retired-soldiers-file-pil-in-karnataka-hc-challenge-promise-of-freebies-by-political-parties/1876145/)
+
+Article found but Couldn't summarize 
+Bengaluru, Dec 7 (PTI) Four retired military personnel have filed a public interest litigation (PIL) in the High Court of Karnataka challenging the announcement of “freebies” by political parties in the run up to the elections calling it “cash for votes”. Four retired military men Brigadier Ravi Muniswamy, Naib Subedar Ramesh Jagathap, Naik Manikanta A [&#8230;]
+
+Thu, 07 Dec 2023 10:15:14 +0000
+### [India inflation likely rebounded in November on higher food prices – Reuters poll](https://theprint.in/india/india-inflation-likely-rebounded-in-november-on-higher-food-prices-reuters-poll/1876144/)
+
+Article found but Couldn't summarize 
+By Milounee Purohit BENGALURU (Reuters) - India's retail inflation likely picked up in November due to higher food prices after declining for three months, bringing it closer to the upper end of the
+
+Thu, 07 Dec 2023 10:15:02 +0000
+### [Gold rises on weaker dollar, yields; spotlight on US jobs data](https://theprint.in/india/gold-rises-on-weaker-dollar-yields-spotlight-on-us-jobs-data/1876142/)
+
+Article found but Couldn't summarize 
+By Anjana Anil (Reuters) - Gold prices climbed on Thursday, buoyed by a weakness in the dollar and Treasury yields, with investors awaiting crucial U.S. payrolls data that could help ascertain the
+
+Thu, 07 Dec 2023 10:15:02 +0000
+### [Tharoor urges govt to hike stipend of non-NET research fellows](https://theprint.in/india/tharoor-urges-govt-to-hike-stipend-of-non-net-research-fellows/1876141/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) Senior Congress leader Shashi Tharoor on Thursday urged the government to consider hiking significantly the stipend of non-NET research fellows, asserting that their contributions are pivotal in advancing the country&#8217;s growth in research and development. Raising the issue in the Lok Sabha during &#8216;zero hour&#8217;, the MP from Thiruvananthapuram also [&#8230;]
+
+Thu, 07 Dec 2023 10:02:21 +0000
+### [Meghalaya: British Asian Trust official inaugurates solar fence to mitigate human-elephant conflict](https://theprint.in/world/meghalaya-british-asian-trust-official-inaugurates-solar-fence-to-mitigate-human-elephant-conflict/1876131/)
+
+Article found but Couldn't summarize 
+West Garo Hills (Meghalaya) [India], December 7 (ANI): In an effort to foster coexistence between villagers and wild elephants, a 1.2-kilometer-long solar-powered fence was inaugurated in Borogopal Part 3 village, West Garo Hills district of Meghalaya. Belinda Stuwart Cox from the British Asian Trust, UK, officially opened the fence, symbolising a significant step in mitigating [&#8230;]
+
+Thu, 07 Dec 2023 10:02:11 +0000
+### [Lexicon IMA opens admissions for upcoming academic year; offers unconventional courses in Media & Animation](https://theprint.in/ani-press-releases/lexicon-ima-opens-admissions-for-upcoming-academic-year-offers-unconventional-courses-in-media-animation/1876128/)
+
+Article found but Couldn't summarize 
+PNN Pune (Maharashtra) [India], December 7: The Lexicon Institute of Media and Animation (Lexicon IMA) in Pune has thrown open the doors for admissions to its upcoming academic year beginning July 2024. Lexicon IMA&#8217;s highly industry focused and customized course curriculum covers a wide range of subjects in both animation as well as media studies [&#8230;]
+
+Thu, 07 Dec 2023 10:02:02 +0000
+### [Federal Bank Named “Bank of the Year (India)” by The Banker, Financial Times](https://theprint.in/ani-press-releases/federal-bank-named-bank-of-the-year-india-by-the-banker-financial-times/1876126/)
+
+Article found but Couldn't summarize 
+BusinessWire India Mumbai (Maharashtra) [India], December 7: Federal Bank, a leading financial institution, has been recognised as &#8220;Bank of the Year (India)&#8221; by Financial Times owned The Banker, one of the only three global awards that considers the work of banks spanning 120 countries. This prestigious recognition is a testament to the Bank&#8217;s unwavering commitment [&#8230;]
+
+Thu, 07 Dec 2023 10:01:09 +0000
+### [Five killed in separate road accident in Punjab’s Hoshiarpur](https://theprint.in/india/five-killed-in-separate-road-accident-in-punjabs-hoshiarpur/1876125/)
+
+Five people were killed in separate road accidents in Hoshiarpur, Punjab. In the first incident, three men from Panch Nanglan village were riding a motorcycle when they were struck by a private bus near Panam village. The bus driver and conductor fled the scene. The victims were identified as Hemraj, Nikku, and Roki. In the second incident, Parvin Kumar and Rakesh Kumar, residents of Nathuwal village, died when a private bus collided with their tractor near Mukerian on the Jalandhar-Pathankot GT road. ThePrint, the source of this report, urges support for their journalism efforts.
+
+Thu, 07 Dec 2023 10:00:59 +0000
+### [Case registered against seven persons for selling adulterated edible oil](https://theprint.in/india/case-registered-against-seven-persons-for-selling-adulterated-edible-oil/1876124/)
+
+Article found but Couldn't summarize 
+Thane, Dec 7 (PTI) Navi Mumbai police has registered a First Information Report against seven persons associated with an agro firm for allegedly selling adulterated edible oil. A team of APMC police station had on September 5 conducted a raid on the premises of Gautam Agro India at Vashi and found that animal fats and [&#8230;]
+
 Thu, 07 Dec 2023 09:17:02 +0000
 ### [Gem Tunes Unveils Historic Collaboration: Rao Inderjeet Singh and Khesari Lal Yadav Set to Redefine Regional Music with ‘Balam’](https://theprint.in/ani-press-releases/gem-tunes-unveils-historic-collaboration-rao-inderjeet-singh-and-khesari-lal-yadav-set-to-redefine-regional-music-with-balam/1876068/)
 

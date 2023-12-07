@@ -1,3 +1,9 @@
+Thu, 07 Dec 2023 15:16:26 +0530
+### [Best refrigerator brands in India: 10 premium models priced over  ₹30,000](https://www.livemint.com/technology/gadgets/best-refrigerator-brands-in-india-10-premium-models-priced-over-rs-30000-11701935917539.html)
+
+Article found but Couldn't summarize 
+Discover the best refrigerator brands in India with our guide to the top 10 premium models priced over  ₹30,000. Explore high-end features and innovative designs in this fridge guide, showcasing premium fridges that redefine kitchen luxury.
+
 Thu, 07 Dec 2023 14:38:52 +0530
 ### [Searching for best game console? Choose from 8 top picks and enjoy gaming](https://www.livemint.com/technology/gadgets/searching-for-best-game-console-choose-from-8-top-picks-and-enjoy-gaming-11701930123583.html)
 

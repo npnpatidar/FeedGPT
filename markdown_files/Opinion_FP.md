@@ -1,3 +1,9 @@
+Thu, 07 Dec 2023 14:50:24 +0530
+### [Sadhguru | Taxing guns and bullets for soil and climate action](https://www.firstpost.com/opinion/sadhguru-taxing-guns-and-bullets-for-soil-and-climate-action-13477122.html)
+
+Article found but Couldn't summarize 
+Sadhguru | Taxing guns and bullets for soil and climate action
+
 Thu, 07 Dec 2023 13:35:21 +0530
 ### [Global Watch | How Pakistani death squads are carrying out ‘Kill and Dump’ mission in Balochistan](https://www.firstpost.com/opinion/global-watch-how-pakistani-death-squads-are-carrying-out-kill-and-dump-mission-in-balochistan-13476252.html)
 

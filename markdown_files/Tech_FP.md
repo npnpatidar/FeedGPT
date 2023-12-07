@@ -1,3 +1,9 @@
+Thu, 07 Dec 2023 15:39:04 +0530
+### [Google Gemini: How to access and use the new ‘ChatGPT-killer’ AI bot in India](https://www.firstpost.com/tech/google-gemini-how-to-access-and-use-the-new-chatgpt-killer-ai-bot-in-india-13477462.html)
+
+Article found but Couldn't summarize 
+Google Gemini: How to access and use the new ‘ChatGPT-killer’ AI bot in India
+
 Thu, 07 Dec 2023 14:01:43 +0530
 ### [Meta starts end-to-end encryption across Messenger, Facebook, UK law enforcement not happy](https://www.firstpost.com/tech/meta-starts-end-to-end-encryption-across-messenger-facebook-uk-law-enforcement-not-happy-13476902.html)
 

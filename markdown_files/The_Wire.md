@@ -1,3 +1,15 @@
+2023-12-07T15:00:24+05:30
+### [Control + All or Delete: The Draft Broadcast Bill Is a Blueprint for Censorship](https://thewire.in/government/control-all-or-delete-the-draft-broadcast-bill-is-a-blueprint-for-censorship)
+
+No Article text 
+The “central government” wants to drag independent news into a censor board framework. No independent regulation is proposed. The government is everywhere and in control. The dubious ‘3-tier’ regulatory structure proposed is recycled out of IT Rules 2021, which has been stayed by two high courts.
+
+2023-12-07T14:59:25+05:30
+### [Special Court May Be Set Up For Kalburgi, Gauri Lankesh Murder Trials](https://thewire.in/communalism/siddaramaiah-urgent-steps-special-court-kalburgi-lankesh-murder-trials)
+
+No Article text 
+Karnataka chief minister Siddaramaiah directed the state's home secretary on Wednesday to “take urgent steps” to expedite the trials.
+
 2023-12-07T14:30:55+05:30
 ### [Do GDP Growth Figures Reflect Robustness or a Statistical Overstatement?](https://thewire.in/economy/gdp-growth-figures-robustness-or-statistical-overstatement)
 
