@@ -1,3 +1,98 @@
+Thu, 07 Dec 2023 21:15:37 +0000
+### [Soccer-Rio court removes CBF president from office and appoints interim president](https://theprint.in/sport/soccer-rio-court-removes-cbf-president-from-office-and-appoints-interim-president/1877066/)
+
+Article found but Couldn't summarize 
+By Rodrigo Viga Gaier RIO DE JANEIRO (Reuters) - The president of the Brazilian Football Confederation (CBF) Ednaldo Rodrigues was removed from his post on Thursday by a Rio de Janeiro court, said the
+
+Thu, 07 Dec 2023 21:15:20 +0000
+### [Earthquake hits central Mexico, rattles capital but no damages](https://theprint.in/environment/earthquake-hits-central-mexico-rattles-capital-but-no-damages/1877064/)
+
+Article found but Couldn't summarize 
+MEXICO CITY (Reuters) -An earthquake jolted parts of central Mexico on Thursday afternoon, shaking buildings in the Mexican capital while sending anxious residents out into the streets in the
+
+Thu, 07 Dec 2023 21:15:05 +0000
+### [China rejects spying concerns from Costa Rica leader over 5G network](https://theprint.in/world/china-rejects-spying-concerns-from-costa-rica-leader-over-5g-network/1877062/)
+
+Article found but Couldn't summarize 
+By Alvaro Murillo SAN JOSE (Reuters) - China forcefully rejected cyber-security and spying concerns on Thursday raised by Costa Rica's president as he explained why Chinese tech company Huawei is
+
+Thu, 07 Dec 2023 20:45:28 +0000
+### [Oil drops to 6-month low on weak economic outlook, high U.S. supply](https://theprint.in/economy/oil-drops-to-6-month-low-on-weak-economic-outlook-high-u-s-supply/1877056/)
+
+Article found but Couldn't summarize 
+By Stephanie Kelly NEW YORK (Reuters) -Oil prices fell on Thursday to six-month lows, as investors worried about sluggish energy demand in the United States and China while output from the U.S.
+
+Thu, 07 Dec 2023 20:45:15 +0000
+### [Romania’s plan to boost Ukraine grain transit very achievable, minister says](https://theprint.in/world/romanias-plan-to-boost-ukraine-grain-transit-very-achievable-minister-says/1877054/)
+
+Article found but Couldn't summarize 
+BUCHAREST (Reuters) - Romania's objective to boost the monthly transit capacity for Ukrainian grain through its Black Sea port of Constanta to four million metric tons is edging closer as
+
+Thu, 07 Dec 2023 20:45:05 +0000
+### [US nominee Campbell says he’s not in favor of making support for Israel conditional](https://theprint.in/world/us-nominee-campbell-says-hes-not-in-favor-of-making-support-for-israel-conditional/1877052/)
+
+Article found but Couldn't summarize 
+By Simon Lewis and Humeyra Pamuk WASHINGTON (Reuters) - U.S. Deputy Secretary of State nominee Kurt Campbell said in a Senate hearing on Thursday that he is currently not in favor of making American
+
+Thu, 07 Dec 2023 20:32:02 +0000
+### [Inclusion of African Union in G20 under India’s Presidency showcased bloc’s will to act: Nirmala Sitharaman](https://theprint.in/world/inclusion-of-african-union-in-g20-under-indias-presidency-showcased-blocs-will-to-act-nirmala-sitharaman/1877049/)
+
+Article found but Couldn't summarize 
+New Delhi [India], November 8 (ANI): Union Finance Minister Nirmala Sitharaman on Thursday said the inclusion of the African Union in the G20 under India&#8217;s Presidency showcased the forum&#8217;s will to act. Addressing the Global Economic Policy Forum 2023, Sitharaman said, &#8220;The inclusion of Global South, meaning the voice of the Global South was heard [&#8230;]
+
+Thu, 07 Dec 2023 20:16:42 +0000
+### [Elon Musk appeals dispute over SEC consent decree to US Supreme Court](https://theprint.in/tech/elon-musk-appeals-dispute-over-sec-consent-decree-to-us-supreme-court/1877047/)
+
+Article found but Couldn't summarize 
+By John Kruzel WASHINGTON (Reuters) -Billionaire businessman Elon Musk on Thursday asked the U.S. Supreme Court to consider whether the Securities and Exchange Commission overstepped its authority in
+
+Thu, 07 Dec 2023 20:16:34 +0000
+### [US self-driving industry seeks federal support, cites China risk](https://theprint.in/tech/us-self-driving-industry-seeks-federal-support-cites-china-risk/1877045/)
+
+Article found but Couldn't summarize 
+By David Shepardson WASHINGTON (Reuters) -The U.S. Transportation Department needs to support the development of autonomous vehicles, a coalition of groups representing the industry warned on Thursday
+
+Thu, 07 Dec 2023 20:16:22 +0000
+### [El Nino’s abundant rains bring ‘optimal’ moisture to Argentine soy fields](https://theprint.in/environment/el-ninos-abundant-rains-bring-optimal-moisture-to-argentine-soy-fields/1877043/)
+
+According to the Buenos Aires grain exchange, Argentina's recent abundant rainfall is benefiting the production of soybean, corn, and wheat. This is a positive shift from the previous season, which was heavily affected by drought. The exchange reported that 98% of planted soybeans are in good condition due to optimal moisture levels. The planting progress for corn stands at 40.3% of the expected area, while wheat harvesting has reached over 48.2% of the total area. The exchange expects the current season to yield around 14.7 million metric tons of wheat.
+
+Thu, 07 Dec 2023 20:16:12 +0000
+### [Young French influencer turns to civil disobedience to raise climate change awareness](https://theprint.in/environment/young-french-influencer-turns-to-civil-disobedience-to-raise-climate-change-awareness/1877041/)
+
+Article found but Couldn't summarize 
+By Antonia Cimini PARIS (Reuters) - Camille Chaudron was among a dozen people arrested on Thursday while helping climate activists block the Concorde bridge in Paris, next to Parliament, to demand the
+
+Thu, 07 Dec 2023 20:16:05 +0000
+### [Earthquake shakes buildings in Mexico City](https://theprint.in/environment/earthquake-shakes-buildings-in-mexico-city/1877040/)
+
+Article found but Couldn't summarize 
+MEXICO CITY (Reuters) - A 5.8 magnitude earthquake hit central Mexico on Thursday afternoon, according to the country's national seismological institute. The earthquake shook buildings in Mexico City,
+
+Thu, 07 Dec 2023 20:15:50 +0000
+### [Former UK police officers sentenced for sending racist messages about Meghan, royals](https://theprint.in/world/former-uk-police-officers-sentenced-for-sending-racist-messages-about-meghan-royals/1877038/)
+
+Article found but Couldn't summarize 
+By Sam Tobin LONDON (Reuters) - Six former London police officers on Thursday were given suspended prison sentences for sharing offensive and racist messages on WhatsApp, including references to
+
+Thu, 07 Dec 2023 20:15:41 +0000
+### [With China poised, Campbell says vital for US to approve Pacific deals](https://theprint.in/world/with-china-poised-campbell-says-vital-for-us-to-approve-pacific-deals/1877036/)
+
+Article found but Couldn't summarize 
+By David Brunnstrom and Michael Martina WASHINGTON (Reuters) -It is essential the U.S. Congress approves new agreements with three Pacific island states, the U.S. Indo-Pacific coordinator Kurt
+
+Thu, 07 Dec 2023 20:15:33 +0000
+### [Hezbollah missile from Lebanon kills Israeli civilian -military](https://theprint.in/world/hezbollah-missile-from-lebanon-kills-israeli-civilian-military/1877035/)
+
+Article found but Couldn't summarize 
+JERUSALEM (Reuters) -A guided-missile attack from Lebanon killed an Israeli civilian in northern Israel on Thursday, Israel's military spokesperson said and Prime Minister Benjamin Netanyahu warned
+
+Thu, 07 Dec 2023 20:15:23 +0000
+### [US State Dept nominee says Saudi-Israel normalization players eager to resume process](https://theprint.in/world/us-state-dept-nominee-says-saudi-israel-normalization-players-eager-to-resume-process/1877033/)
+
+Article found but Couldn't summarize 
+By Humeyra Pamuk WASHINGTON (Reuters) - There is still willingness among the key players of the U.S.-led talks to normalize ties between Saudi Arabia and Israel to restart the process even after the
+
 Thu, 07 Dec 2023 20:15:14 +0000
 ### [Israeli families celebrate Hanukkah in Hungary, a temporary refuge](https://theprint.in/world/israeli-families-celebrate-hanukkah-in-hungary-a-temporary-refuge/1877032/)
 
