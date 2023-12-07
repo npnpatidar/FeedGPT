@@ -1,3 +1,8 @@
+Thu, 07 Dec 2023 12:17:34 +0000
+### [In developing Devbhumi Uttarakhand, navigating the ‘wrath of gods’ is as important as scientific data](https://indianexpress.com/article/opinion/developing-devbhumi-uttarakhand-navigating-wrath-gods-important-scientific-data-9058514/)
+
+Article found but Couldn't summarize
+
 Thu, 07 Dec 2023 11:07:36 +0000
 ### [Kashmiri Pandit Bill in Parliament: Nomination game is mere lip service, will perpetuate favouritism](https://indianexpress.com/article/opinion/columns/kashmiri-pandit-bill-parliament-amit-shah-9058447/)
 

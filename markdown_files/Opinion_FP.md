@@ -1,3 +1,21 @@
+Thu, 07 Dec 2023 17:55:43 +0530
+### [Vantage | Why higher taxes on alcohol, sugary drinks is a good idea](https://www.firstpost.com/opinion/vantage-why-higher-taxes-on-alcohol-sugary-drinks-is-a-good-idea-13478312.html)
+
+Article found but Couldn't summarize 
+Vantage | Why higher taxes on alcohol, sugary drinks is a good idea
+
+Thu, 07 Dec 2023 17:14:06 +0530
+### [The fizzled endeavour to divide North and South in Indian politics](https://www.firstpost.com/opinion/the-fizzled-endeavour-to-divide-north-and-south-in-indian-politics-13477812.html)
+
+Article found but Couldn't summarize 
+The fizzled endeavour to divide North and South in Indian politics
+
+Thu, 07 Dec 2023 16:59:46 +0530
+### [Vantage | How Indonesia got an army of 'special' mosquitoes to fight dengue](https://www.firstpost.com/opinion/vantage-how-indonesia-got-an-army-of-special-mosquitoes-to-fight-dengue-13477712.html)
+
+Article found but Couldn't summarize 
+Vantage | How Indonesia got an army of 'special' mosquitoes to fight dengue
+
 Thu, 07 Dec 2023 16:08:14 +0530
 ### [Vantage | Why Rishi Sunak is risking his chair for a migration law](https://www.firstpost.com/opinion/vantage-why-rishi-sunak-is-risking-his-chair-for-a-migration-law-13477022.html)
 

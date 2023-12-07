@@ -1,3 +1,121 @@
+Thu, 07 Dec 2023 12:32:16 +0000
+### [CHG ENSOL Delivers Innovative Solutions for Climate Change at COP28](https://theprint.in/ani-press-releases/chg-ensol-delivers-innovative-solutions-for-climate-change-at-cop28/1876405/)
+
+Article found but Couldn't summarize 
+PRNewswire Dubai [UAE], December 7: CHG ENSOL Renewable Technology Co., Ltd. (CHG ENSOL), a subsidiary of Central Holding Group (stock code: HK.01735), as an expert in the PV industry and practitioner of green and low-carbon concepts, has delivered its innovative technologies and solutions for climate change and sustainable development at the United Nations Framework Convention [&#8230;]
+
+Thu, 07 Dec 2023 12:32:02 +0000
+### [“There have been two hearings…”: MEA shares update on eight Indians detained in Qatar](https://theprint.in/world/there-have-been-two-hearings-mea-shares-update-on-eight-indians-detained-in-qatar/1876403/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 7 (ANI): The Ministry of External Affairs on Thursday said that India&#8217;s Ambassador in Qatar had consular access on December 3 to meet all eight ex-Navy personnel in prison who were sentenced to death in Qatar and two hearings have been held on their appeal. In a weekly media briefing on [&#8230;]
+
+Thu, 07 Dec 2023 12:31:29 +0000
+### [Delhi govt mulling proposal to set up its own disaster response force: officials](https://theprint.in/india/delhi-govt-mulling-proposal-to-set-up-its-own-disaster-response-force-officials/1876402/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) Furthering its aim to improve disaster preparedness in the national capital, the Delhi government is considering proposals to form an SDRF and set up a control room comprising staff from multiple agencies, officials said. Delhi might get its own State Disaster Response Force (SDRF) if a proposal for its formation [&#8230;]
+
+Thu, 07 Dec 2023 12:31:18 +0000
+### [3-yr-old falls to death from building’s third floor in Noida](https://theprint.in/india/3-yr-old-falls-to-death-from-buildings-third-floor-in-noida/1876400/)
+
+A tragic incident occurred in Noida, India, where a three-year-old girl fell from the third floor of a building while playing. The girl lived with her parents in a rented accommodation in Nithari village. She was immediately rushed to a nearby district hospital and later referred to a hospital in Delhi for further treatment. Unfortunately, despite efforts, the girl could not survive her injuries and passed away during treatment. The police have initiated legal proceedings in the case. This report is generated from PTI news service, and ThePrint disclaims any responsibility for its content.
+
+Thu, 07 Dec 2023 12:31:06 +0000
+### [Manipur govt urged to arrest killers of 13 people](https://theprint.in/india/manipur-govt-urged-to-arrest-killers-of-13-people/1876399/)
+
+Article found but Couldn't summarize 
+Guwahati, Dec 7 (PTI) The Global Manipur Federation (GMF), a platform of Manipuris residing in some foreign countries, has demanded that the state government apprehend those responsible for killing 13 people on a single day in the restive state recently. A total of 13 people were killed on December 4 in a gun battle between [&#8230;]
+
+Thu, 07 Dec 2023 12:30:53 +0000
+### [I-T dept recovers more than Rs 50 cr cash after raids on Odisha-based distillery group, others](https://theprint.in/india/i-t-dept-recovers-more-than-rs-50-cr-cash-after-raids-on-odisha-based-distillery-group-others/1876398/)
+
+Article found but Couldn't summarize 
+Bhubaneswar, Dec 7 (PTI) The Income Tax department recovered more than Rs 50 crore cash after it carried out searches against an Odisha-based distillery company and some linked entities on charges of alleged tax evasion, official sources said on Thursday. The raids were launched on Wednesday and the department officials have deployed counting machines to [&#8230;]
+
+Thu, 07 Dec 2023 12:30:42 +0000
+### [Jharkhand gang that defrauded pregnant women busted, 12 arrested](https://theprint.in/india/jharkhand-gang-that-defrauded-pregnant-women-busted-12-arrested/1876397/)
+
+Twelve individuals were arrested in Giridih district, Jharkhand, for a fraud scheme targeting pregnant women who were promised benefits from government schemes, according to the police. During the operation, authorities discovered unaccounted cash worth Rs 2.19 lakh, 19 mobile phones, 33 SIM cards, and five motorcycles. The Superintendent of Police, Deepak Kumar Sharma, received information about the fraud occurring in several police stations, leading to the establishment of a team that conducted the raids resulting in the arrest of 12 cyber criminals. The gang would contact pregnant women and deceive them into downloading remote access apps, subsequently gaining control of their phones and stealing money from their bank accounts. Additionally, they would randomly call mobile numbers, trick people into sharing their bank OTPs, and defraud them.
+
+Thu, 07 Dec 2023 12:30:32 +0000
+### [Indian ambassador met 8 former Navy men on death row in Qatar: MEA](https://theprint.in/india/indian-ambassador-met-8-former-navy-men-on-death-row-in-qatar-mea/1876396/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) The Indian ambassador to Qatar met on December 3 eight former Indian Navy personnel who were handed death sentence by a Qatari court in October, the Ministry of External Affairs (MEA) said on Thursday. MEA spokesperson Arindam Bagchi said two hearings on the appeal against the death sentence have already [&#8230;]
+
+Thu, 07 Dec 2023 12:30:23 +0000
+### [UK condemns Russia’s repeated efforts to hack private conversations of politicians, journalists](https://theprint.in/world/uk-condemns-russias-repeated-efforts-to-hack-private-conversations-of-politicians-journalists/1876395/)
+
+Article found but Couldn't summarize 
+London, Dec 7 (PTI) The UK government on Thursday condemned repeated efforts by Russia’s secret service to compromise the private conversations of high-profile politicians, civil servants and journalists as it tried to interfere in the country&#8217;s political processes through hacking. Centre 18, a unit within Russia’s Federal Security Service (FSB), has been identified as being [&#8230;]
+
+Thu, 07 Dec 2023 12:30:13 +0000
+### [Deccan FC move to second spot on table after goalless draw with Real Kashmir](https://theprint.in/sport/deccan-fc-move-to-second-spot-on-table-after-goalless-draw-with-real-kashmir/1876394/)
+
+Article found but Couldn't summarize 
+Srinagar, Dec 7 (PTI) Sreenidi Deccan FC preserved their second place in the table after a goalless draw with Real Kashmir FC in their I-League match here at the TRC Stadium on Thursday. Deccan now have 17 points from nine matches, while the Kashmir side slid to fourth with 14 points from eight matches. A [&#8230;]
+
+Thu, 07 Dec 2023 12:30:03 +0000
+### [Mortal remains of Malayalees who died in J&K road accident to reach Kerala on Dec 8: State govt](https://theprint.in/india/mortal-remains-of-malayalees-who-died-in-jk-road-accident-to-reach-kerala-on-dec-8-state-govt/1876393/)
+
+Article found but Couldn't summarize 
+Thiruvananthapuram, Dec 7 (PTI) The Kerala government on Thursday said that the mortal remains of the four men from Palakkad who died in a car accident in Jammu and Kashmir on December 5 would reach the state on December 8. State Minister for Local Self-Governments and Excise M B Rajesh said in a social media [&#8230;]
+
+Thu, 07 Dec 2023 12:17:12 +0000
+### [World’s Highest Enduro Mountain Biking Race Takes Place in Tawang, Arunachal Pradesh](https://theprint.in/ani-press-releases/worlds-highest-enduro-mountain-biking-race-takes-place-in-tawang-arunachal-pradesh/1876387/)
+
+Article found but Couldn't summarize 
+PNN New Delhi [India], December 7: Far from the busy streets and bustling cities is a land perched high up in the Himalayan ranges, a land filled with history and a rich culture. A land that boasts of the 2nd largest monastery in the whole of Asia and a land that witnessed the brutality of [&#8230;]
+
+Thu, 07 Dec 2023 12:17:02 +0000
+### [Experience Artistry and Cultural Extravaganza: HastaRachana Mela Returns as Navi Mumbai’s Premier Handcrafted Fair on December 9th and 10th](https://theprint.in/ani-press-releases/experience-artistry-and-cultural-extravaganza-hastarachana-mela-returns-as-navi-mumbais-premier-handcrafted-fair-on-december-9th-and-10th/1876385/)
+
+Article found but Couldn't summarize 
+NewsVoir Navi Mumbai (Maharashtra) [India], December 7: HastaRachana Mela, the biggest handcrafted fair of Navi Mumbai, is going to be held on 9th and 10th December 2023 at the Jhansi Ki Rani Maidan, Sec 9, Sanpada. Being organized by Shishyaa Waldorf School, a leading school in Navi Mumbai, this eagerly anticipated event has evolved into [&#8230;]
+
+Thu, 07 Dec 2023 12:16:02 +0000
+### [Soccer-Italy’s sports prosecutors request 4-year ban for Pogba – media](https://theprint.in/sport/soccer-italys-sports-prosecutors-request-4-year-ban-for-pogba-media/1876383/)
+
+Article found but Couldn't summarize 
+ROME (Reuters) - Italy's sports prosecutors have requested a 4-year ban for Juventus midfielder Paul Pogba over doping allegations, sports newspaper Gazzetta dello Sport and other Italian media
+
+Thu, 07 Dec 2023 12:15:50 +0000
+### [C3.ai falls on prediction loss will widen in fiscal 2024](https://theprint.in/tech/c3-ai-falls-on-prediction-loss-will-widen-in-fiscal-2024/1876381/)
+
+Article found but Couldn't summarize 
+(Reuters) - C3.ai shares slump 10% in premarket trading on Thursday, after the company forecast a bigger fiscal 2024 operating loss as it ramps up investments in its generative artificial intelligence
+
+Thu, 07 Dec 2023 12:15:44 +0000
+### [J-K Reorganisation Act is pending adjudication before SC, should not be amended: Omar](https://theprint.in/india/j-k-reorganisation-act-is-pending-adjudication-before-sc-should-not-be-amended-omar/1876379/)
+
+Article found but Couldn't summarize 
+Srinagar, Dec 7 (PTI) National Conference (NC) vice president Omar Abdullah Thursday said the government should not make amendments to the Jammu and Kashmir Reorganisation Act as the law is pending adjudication before the Supreme Court. Abdullah&#8217;s remarks came after the Lok Sabha passed the Jammu and Kashmir Reorganisation (Amendment) Bill, which seeks to nominate [&#8230;]
+
+Thu, 07 Dec 2023 12:15:41 +0000
+### [Democratic lawmakers ask payment firms to renew work on gun code](https://theprint.in/tech/democratic-lawmakers-ask-payment-firms-to-renew-work-on-gun-code/1876378/)
+
+Article found but Couldn't summarize 
+By Ross Kerber (Reuters) - U.S. Senator Elizabeth Warren and 48 other Democratic lawmakers on Wednesday urged top payments companies to resume work on implementing a sales code for gun merchants,
+
+Thu, 07 Dec 2023 12:15:33 +0000
+### [School principals divided on merging vocational education with formal education system](https://theprint.in/india/school-principals-divided-on-merging-vocational-education-with-formal-education-system/1876376/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) School principals are divided on merging vocational education with formal education with some saying it&#8217;s long overdue and others advocating for the apprenticeship model to develop skills. According to the National Education Policy (NEP) 2020, beginning with vocational exposure at early ages in middle and secondary school will allow smooth [&#8230;]
+
+Thu, 07 Dec 2023 12:15:30 +0000
+### [Germany’s budget crisis leaves struggling solar industry in limbo](https://theprint.in/environment/germanys-budget-crisis-leaves-struggling-solar-industry-in-limbo/1876375/)
+
+Article found but Couldn't summarize 
+By Riham Alkousaa BERLIN (Reuters) - Germany's budget crisis is threatening planned government support for its domestic solar manufacturers, in what could prove to be the death knell for an industry
+
+Thu, 07 Dec 2023 12:15:24 +0000
+### [Defending champions Gokulam Kerala face Sethu FC in opening match of IWL](https://theprint.in/sport/defending-champions-gokulam-kerala-face-sethu-fc-in-opening-match-of-iwl/1876374/)
+
+Article found but Couldn't summarize 
+Kozhikode, Dec 7 (PTI) Defending champions Gokulam Kerala FC will face Sethu FC in the opening match of the seventh Indian Women&#8217;s League (IWL) football here on Friday. For the first time, the IWL will be played in a double round-robin format on a home-and-away basis. All the previous six seasons were held at a [&#8230;]
+
 Thu, 07 Dec 2023 11:10:48 +0000
 ### [‘Become positive voters’: UP Congress writes to Muslims, warns of bid to reserve their seats for women](https://theprint.in/politics/become-positive-voters-up-congress-writes-to-muslims-warns-of-bid-to-reserve-their-seats-for-women/1875894/)
 

@@ -1,3 +1,8 @@
+Thu, 07 Dec 2023 11:46:09 +0000
+### [India’s first Pompe disease patient passes away: What is this rare genetic disorder?](https://indianexpress.com/article/explained/explained-health/pompe-disease-symptoms-cure-diagnosis-explained-9058436/)
+
+Article found but Couldn't summarize
+
 Thu, 07 Dec 2023 10:34:52 +0000
 ### [What is Article 99 of the UN Charter, invoked amid Israel’s military attacks on the Gaza Strip?](https://indianexpress.com/article/explained/everyday-explainers/article-99-un-invoke-israel-gaza-explained-9058381/)
 

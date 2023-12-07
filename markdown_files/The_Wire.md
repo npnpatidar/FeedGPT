@@ -1,3 +1,21 @@
+2023-12-07T17:30:37+05:30
+### [Debate: Yogendra Yadav's Analysis Downplaying BJP Wins in Assembly Polls Is Misleading](https://thewire.in/politics/debate-yogendra-yadav-analysis-bjp-wins-assembly-polls-misleading)
+
+No Article text 
+Yadav had written that 'BJP's victory is not so big, and Congress fall is not so deep'. Such a view is nothing but a false comfort. If the Congress does not honestly address the issues it is facing, putting up a good fight in 2024 will be extremely difficult.
+
+2023-12-07T17:13:21+05:30
+### [Poorna Swami’s Translation of the Poem ‘Falasteeni’ Awarded the 2023 Jawad Memorial Prize](https://thewire.in/the-arts/poorna-swamis-translation-of-the-poem-falasteeni-awarded-the-2023-jawad-memorial-prize)
+
+No Article text 
+'Among the poems we examined, it [‘Palestinian’] presented a shining example of how good translation threads the needle between minimising the loss of original metaphor and maximising the lyrical quality of the output language,' said the jury.
+
+2023-12-07T17:00:05+05:30
+### [Do Politicians Have Something to Gain From Taylor Swift Being Named Person of the Year?](https://thewire.in/politics/do-politicians-have-something-to-gain-from-taylor-swift-being-named-person-of-the-year)
+
+No Article text 
+World leaders from numerous countries have taken to social media to ask Swift to bring her tour to their countries.
+
 2023-12-07T16:30:51+05:30
 ### [Manipur SC-Appointed Committee: Kuki Groups Claim No Dialogue With Them, Deny Report’s Findings](https://thewire.in/rights/manipur-sc-committee-kuki-groups-dialogue-deny-report-findings)
 

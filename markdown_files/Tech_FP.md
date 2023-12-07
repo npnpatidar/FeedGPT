@@ -1,3 +1,15 @@
+Thu, 07 Dec 2023 17:16:40 +0530
+### [Deepfake Menace: Ratan Tata latest to get deepfaked, scammers promote investment scam using fake video](https://www.firstpost.com/world/deepfake-menace-ratan-tata-latest-to-get-deepfaked-scammers-promote-investment-scam-using-fake-video-13478102.html)
+
+Article found but Couldn't summarize 
+Deepfake Menace: Ratan Tata latest to get deepfaked, scammers promote investment scam using fake video
+
+Thu, 07 Dec 2023 17:01:13 +0530
+### [AI Chips a $45 billion industry in 2023, believes AMD, hedges massive bets on the sector](https://www.firstpost.com/tech/ai-chips-a-45-billion-industry-in-2023-believes-amd-hedges-massive-bets-on-the-sector-13478012.html)
+
+Article found but Couldn't summarize 
+AI Chips a $45 billion industry in 2023, believes AMD, hedges massive bets on the sector
+
 Thu, 07 Dec 2023 16:02:48 +0530
 ### [Elon Musk gets trolled violently for bad-mouthing GTA VI, saying violent video games are bad](https://www.firstpost.com/tech/elon-musk-gets-trolled-violently-for-bad-mouthing-gta-vi-saying-violent-video-games-are-bad-13477632.html)
 

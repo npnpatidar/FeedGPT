@@ -1,3 +1,15 @@
+Thu, 07 Dec 2023 17:29:14 +0530
+### [Why Pakistan wants to demolish NYC’s iconic Roosevelt Hotel](https://www.firstpost.com/explainers/why-pakistan-wants-to-demolish-nycs-iconic-roosevelt-hotel-13478022.html)
+
+Article found but Couldn't summarize 
+Why Pakistan wants to demolish NYC’s iconic Roosevelt Hotel
+
+Thu, 07 Dec 2023 17:28:28 +0530
+### [In Graphics | Garba enters UNESCO's Intangible Cultural Heritage List. What else is on it?](https://www.firstpost.com/explainers/in-graphics-garba-enters-unescos-intangible-cultural-heritage-list-what-else-is-on-it-13477872.html)
+
+Article found but Couldn't summarize 
+In Graphics | Garba enters UNESCO's Intangible Cultural Heritage List. What else is on it?
+
 Thu, 07 Dec 2023 16:39:20 +0530
 ### [India used SPICE bombs in Balakot ‘surgical’ strike. Now, Israel is dropping them on Gaza](https://www.firstpost.com/explainers/india-used-spice-bombs-in-balakot-surgical-strike-now-israel-is-dropping-them-on-gaza-13477772.html)
 
