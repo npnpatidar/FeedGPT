@@ -1,3 +1,9 @@
+Thu, 07 Dec 2023 13:38:18 +0530
+### [‘Hi Nanna’ movie review: A reaffirming story of love that conquers everything](https://www.thehindu.com/entertainment/movies/hi-nanna-telugu-movie-review-a-reaffirming-story-of-love-that-conquers-everything/article67613784.ece)
+
+Article found but Couldn't summarize 
+Nani, Mrunal Thakur and composer Hesham Abdul Wahab elevate debut director Shouryuv’s emotional drama about love and the play of destiny
+
 Sat, 02 Dec 2023 15:22:43 +0530
 ### [‘The Shepherd’ short film review: An elegant, heart-warming Christmas carol](https://www.thehindu.com/entertainment/movies/the-shepherd-film-review/article67597502.ece)
 
@@ -12,6 +18,12 @@ In Meghna Gulzar’s war biopic, Vicky Kaushal shines in the role of the militar
 
 Fri, 01 Dec 2023 19:17:06 +0530
 ### [‘Annapoorani’ movie review: Nayanthara stars in a template underdog story that’s neither appetizing nor delectable](https://www.thehindu.com/entertainment/movies/annapoorani-movie-review-nayanthara-stars-in-a-template-underdog-story-thats-neither-appetizing-nor-delectable/article67594640.ece)
+
+Article found but Couldn't summarize 
+Nilesh Krishnaa’s film, starring Nayanthara as a young woman with a dream to become the best chef in the country, has heartfelt ideas but the narration feels rushed and awfully convenient; it also has very little of those mouth-watering visuals of food you’d expect in such a film
+
+Fri, 01 Dec 2023 19:17:06 +0530
+### [‘Annapoorani’ movie review: Nayanthara stars in a template underdog story that’s neither appetising nor delectable](https://www.thehindu.com/entertainment/movies/annapoorani-movie-review-nayanthara-stars-in-a-template-underdog-story-thats-neither-appetising-nor-delectable/article67594640.ece)
 
 Article found but Couldn't summarize 
 Nilesh Krishnaa’s film, starring Nayanthara as a young woman with a dream to become the best chef in the country, has heartfelt ideas but the narration feels rushed and awfully convenient; it also has very little of those mouth-watering visuals of food you’d expect in such a film

@@ -5,6 +5,25 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Tech_FP.xml</link>
 		<description>Tech FP</description>
 		<item>
+			<title>US Senator accuses several world leaders of spying on Apple, Google users through notifications</title>
+			<link>https://www.firstpost.com/tech/us-senator-accuses-several-world-leaders-of-spying-on-apple-google-users-through-notifications-13476512.html</link>
+			<description>US Senator Ron Wyden has issued a warning about unidentified governments conducting surveillance on smartphone users through push notifications on various apps. In a letter to the Department of Justice, Wyden expressed concern that foreign officials were compelling Google and Apple to provide data, enabling governments to monitor smartphone activity. Push notifications, which alert users to incoming messages and updates, travel through Google and Apple's servers, giving these companies access to valuable user data. Senator Wyden called on the Department of Justice to address policies hindering public discussions on this form of spying. Both Apple and Google have acknowledged the concerns and expressed support for informing users about government requests related to push notifications. The extent and duration of this surveillance remain unclear, but privacy implications have been raised.</description>
+			<pubDate>Thu, 07 Dec 2023 13:15:24 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/12/US-Senator-accuses-several-world-leaders-of-spying-on-Apple-Google-users-through-notifications-.jpg"></media:thumbnail>
+			<media:content url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/12/US-Senator-accuses-several-world-leaders-of-spying-on-Apple-Google-users-through-notifications-.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>ED files chargesheet against Vivo, Lava for money laundering, tax evasion shenanigans</title>
+			<link>https://www.firstpost.com/tech/ed-files-chargesheet-against-vivo-lava-for-money-laundering-tax-evasion-shenanigans-13476302.html</link>
+			<description>Article found but Couldn't summarize 
+ED files chargesheet against Vivo, Lava for money laundering, tax evasion shenanigans</description>
+			<pubDate>Thu, 07 Dec 2023 12:47:04 +0530</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/12/ED-Files-chargesheet-against-Vivo-Lava-for-money-laundering-tax-evasion-shenanigans.jpg"></media:thumbnail>
+			<media:content url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/12/ED-Files-chargesheet-against-Vivo-Lava-for-money-laundering-tax-evasion-shenanigans.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Microsoft-Activision merger deal in troubled waters again, draws fresh questions</title>
 			<link>https://www.firstpost.com/tech/microsoft-activision-merger-deal-in-troubled-waters-again-draws-fresh-questions-13476132.html</link>
 			<description>Microsoft's $69 billion acquisition of Activision Blizzard is facing scrutiny from the Federal Trade Commission (FTC) and antitrust concerns. A San Francisco appeals court is currently reviewing the FTC's challenge to a ruling that had initially cleared the deal. During a hearing, the court questioned whether Microsoft's plan to release Activision titles on the cloud adequately addressed antitrust concerns. The court's decision could impact an ongoing in-house trial initiated by the FTC, although it cannot retroactively block the completed merger. Microsoft's dominance in subscription and cloud-based gaming was highlighted, with concerns raised about potential monopoly power. Microsoft's lawyer argued that the FTC is shifting its arguments from the summer trial. The court also discussed Microsoft's prowess in the cloud market and its intention to outcompete Sony. The FTC raised concerns about the UK settlement involving Microsoft selling the cloud rights of Activision games.</description>

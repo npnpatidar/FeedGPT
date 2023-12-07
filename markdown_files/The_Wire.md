@@ -1,3 +1,15 @@
+2023-12-07T13:30:37+05:30
+### [Witnessing Palestine in New York – and Watching India's Moral Vision Disappear](https://thewire.in/world/witnessing-palestine-in-new-york-and-watching-indias-moral-vision-disappear)
+
+No Article text 
+A 75-year-old India, set to become a global superpower, has not found the moral courage to utter a single word against Israel's apartheid regime, even at a time when fellow countries in South America and Africa have severed their diplomatic relationships with Israel.
+
+2023-12-07T13:00:52+05:30
+### [Excerpt: Why India's Social Development Indicators Lag Behind its Neighbours](https://thewire.in/books/excerpt-why-indias-social-development-indicators-lag-behind-its-neighbours)
+
+No Article text 
+Swati Narayan's 'UNEQUAL' offers a comparison of India’s social development indicators with that of its South Asian neighbours and an immersive examination of why India lags behind them.
+
 2023-12-07T12:28:02+05:30
 ### [Two Years On, Union Asks for Another Week’s Time to Submit Guidelines for Seizure of Devices](https://thewire.in/law/two-years-on-union-asks-for-another-weeks-time-to-submit-guidelines-for-seizure-of-devices)
 

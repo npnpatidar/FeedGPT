@@ -1,3 +1,15 @@
+Thu, 07 Dec 2023 13:35:21 +0530
+### [Global Watch | How Pakistani death squads are carrying out ‘Kill and Dump’ mission in Balochistan](https://www.firstpost.com/opinion/global-watch-how-pakistani-death-squads-are-carrying-out-kill-and-dump-mission-in-balochistan-13476252.html)
+
+Article found but Couldn't summarize 
+Global Watch | How Pakistani death squads are carrying out ‘Kill and Dump’ mission in Balochistan
+
+Thu, 07 Dec 2023 12:54:56 +0530
+### [Vantage | Is Putin's West Asia visit about mediating in Israel's war?](https://www.firstpost.com/opinion/vantage-is-putins-west-asia-visit-about-mediating-in-israels-war-13476092.html)
+
+Article found but Couldn't summarize 
+Vantage | Is Putin's West Asia visit about mediating in Israel's war?
+
 Thu, 07 Dec 2023 12:08:19 +0530
 ### [Vantage | What China's diplomatic moves in Afghanistan are really about](https://www.firstpost.com/opinion/vantage-what-chinas-diplomatic-moves-in-afghanistan-are-really-about-13475702.html)
 

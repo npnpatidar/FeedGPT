@@ -1,3 +1,8 @@
+Thu, 07 Dec 2023 13:13:41 +0530
+### [Apple reportedly plans to launch new iPads and MacBook Air. Check expected specs and pricing](https://www.livemint.com/technology/gadgets/apple-plans-to-launch-ipads-and-macbook-air-check-expected-specs-and-pricing-11701933234892.html)
+
+Apple is planning to launch new models and upgrades for its Mac and iPads in order to boost declining sales. The company will update its iPad Air, iPad Pro, and MacBook Air ranges, with the launch expected in March 2024. The new iPads will feature a larger display, potentially offering four models in different sizes. Additionally, Apple plans to release four new iPad Pro models ranging from 11 inches to 13 inches, with OLED screens and the M3 chipset. This would be the first overhaul of the iPad Pro range since 2018, and the new tablets could be priced as high as $2,000.
+
 Thu, 07 Dec 2023 11:56:43 +0530
 ### [Government warns Android users for THIS vulnerability: How to stay safe](https://www.livemint.com/technology/tech-news/government-warns-android-users-for-this-vulnerability-how-to-stay-safe-11701930125557.html)
 

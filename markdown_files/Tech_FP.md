@@ -1,3 +1,14 @@
+Thu, 07 Dec 2023 13:15:24 +0530
+### [US Senator accuses several world leaders of spying on Apple, Google users through notifications](https://www.firstpost.com/tech/us-senator-accuses-several-world-leaders-of-spying-on-apple-google-users-through-notifications-13476512.html)
+
+US Senator Ron Wyden has issued a warning about unidentified governments conducting surveillance on smartphone users through push notifications on various apps. In a letter to the Department of Justice, Wyden expressed concern that foreign officials were compelling Google and Apple to provide data, enabling governments to monitor smartphone activity. Push notifications, which alert users to incoming messages and updates, travel through Google and Apple's servers, giving these companies access to valuable user data. Senator Wyden called on the Department of Justice to address policies hindering public discussions on this form of spying. Both Apple and Google have acknowledged the concerns and expressed support for informing users about government requests related to push notifications. The extent and duration of this surveillance remain unclear, but privacy implications have been raised.
+
+Thu, 07 Dec 2023 12:47:04 +0530
+### [ED files chargesheet against Vivo, Lava for money laundering, tax evasion shenanigans](https://www.firstpost.com/tech/ed-files-chargesheet-against-vivo-lava-for-money-laundering-tax-evasion-shenanigans-13476302.html)
+
+Article found but Couldn't summarize 
+ED files chargesheet against Vivo, Lava for money laundering, tax evasion shenanigans
+
 Thu, 07 Dec 2023 12:17:46 +0530
 ### [Microsoft-Activision merger deal in troubled waters again, draws fresh questions](https://www.firstpost.com/tech/microsoft-activision-merger-deal-in-troubled-waters-again-draws-fresh-questions-13476132.html)
 
