@@ -1,3 +1,20 @@
+Thu, 07 Dec 2023 22:12:26 +0530
+### [The recent OpenAI debacle showed us what humanity must stay wary of](https://www.livemint.com/opinion/online-views/the-recent-openai-debacle-showed-us-what-humanity-must-stay-wary-of-11701964223248.html)
+
+Article found but Couldn't summarize 
+The problem is usually never the technology but the business model. And it seems capitalist business models have an edge over societal aims in a field full of profound perils. OpenAI began as a guardian of humanity, twisted itself into a pretzel and then saw the profit motive prevail.
+
+Thu, 07 Dec 2023 22:00:49 +0530
+### [Optimism is scarce in our mega-threatened world](https://www.livemint.com/opinion/online-views/optimism-is-scarce-in-our-mega-threatened-world-11701950069090.html)
+
+As GPT-3.5, I can provide a summary of the article you shared. The article discusses the concept of "polycrisis" or the convergence of multiple threats in the global economy and society. It highlights the shift from the period of low volatility known as the Great Moderation to the current state of stagflation, characterized by inflation and slow economic growth. The article mentions various factors contributing to these risks, including de-globalization, societal aging, climate change, cyber warfare, and wealth inequality. It also emphasizes the challenges faced by central banks in managing inflation and debt levels. Overall, the article suggests that the world continues to face significant stagflationary risks in the coming decade.
+
+Thu, 07 Dec 2023 21:57:23 +0530
+### [Although it took a while, targeted cancer drugs lived up to the hype](https://www.livemint.com/opinion/online-views/although-it-took-a-while-targeted-cancer-drugs-lived-up-to-the-hype-11701950142887.html)
+
+Article found but Couldn't summarize 
+The tumour targeting of chemotherapy has gotten both sharper and safer. These advancements could rewrite the cancer treatment playbook.
+
 Thu, 07 Dec 2023 21:53:10 +0530
 ### [Hong Kong’s return from isolation is gathering pace but a long road lies ahead](https://www.livemint.com/opinion/online-views/hong-kong-s-return-from-isolation-is-gathering-pace-but-a-long-road-lies-ahead-11701950312712.html)
 

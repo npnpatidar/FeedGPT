@@ -5,6 +5,35 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Opinion_Mint.xml</link>
 		<description>Opinion Mint</description>
 		<item>
+			<title>The recent OpenAI debacle showed us what humanity must stay wary of</title>
+			<link>https://www.livemint.com/opinion/online-views/the-recent-openai-debacle-showed-us-what-humanity-must-stay-wary-of-11701964223248.html</link>
+			<description>Article found but Couldn't summarize 
+The problem is usually never the technology but the business model. And it seems capitalist business models have an edge over societal aims in a field full of profound perils. OpenAI began as a guardian of humanity, twisted itself into a pretzel and then saw the profit motive prevail.</description>
+			<pubDate>Thu, 07 Dec 2023 22:12:26 +0530</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://www.livemint.com/lm-img/img/2023/12/07/1600x900/Microsoft-Altman-0_1700530414365_1701966699705.jpg"></media:thumbnail>
+			<media:content url="https://www.livemint.com/lm-img/img/2023/12/07/1600x900/Microsoft-Altman-0_1700530414365_1701966699705.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Optimism is scarce in our mega-threatened world</title>
+			<link>https://www.livemint.com/opinion/online-views/optimism-is-scarce-in-our-mega-threatened-world-11701950069090.html</link>
+			<description>As GPT-3.5, I can provide a summary of the article you shared. The article discusses the concept of "polycrisis" or the convergence of multiple threats in the global economy and society. It highlights the shift from the period of low volatility known as the Great Moderation to the current state of stagflation, characterized by inflation and slow economic growth. The article mentions various factors contributing to these risks, including de-globalization, societal aging, climate change, cyber warfare, and wealth inequality. It also emphasizes the challenges faced by central banks in managing inflation and debt levels. Overall, the article suggests that the world continues to face significant stagflationary risks in the coming decade.</description>
+			<pubDate>Thu, 07 Dec 2023 22:00:49 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://www.livemint.com/lm-img/img/2023/12/07/1600x900/USA-FED-MINUTES-0_1695198660101_1701966488398.JPG"></media:thumbnail>
+			<media:content url="https://www.livemint.com/lm-img/img/2023/12/07/1600x900/USA-FED-MINUTES-0_1695198660101_1701966488398.JPG" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Although it took a while, targeted cancer drugs lived up to the hype</title>
+			<link>https://www.livemint.com/opinion/online-views/although-it-took-a-while-targeted-cancer-drugs-lived-up-to-the-hype-11701950142887.html</link>
+			<description>Article found but Couldn't summarize 
+The tumour targeting of chemotherapy has gotten both sharper and safer. These advancements could rewrite the cancer treatment playbook.</description>
+			<pubDate>Thu, 07 Dec 2023 21:57:23 +0530</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://www.livemint.com/lm-img/img/2023/12/07/1600x900/3-0-27821833-iStock-931643458-0_1679821150011_1701966268053.jpg"></media:thumbnail>
+			<media:content url="https://www.livemint.com/lm-img/img/2023/12/07/1600x900/3-0-27821833-iStock-931643458-0_1679821150011_1701966268053.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Hong Kong’s return from isolation is gathering pace but a long road lies ahead</title>
 			<link>https://www.livemint.com/opinion/online-views/hong-kong-s-return-from-isolation-is-gathering-pace-but-a-long-road-lies-ahead-11701950312712.html</link>
 			<description>Article found but Couldn't summarize 

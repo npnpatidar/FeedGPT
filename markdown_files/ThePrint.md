@@ -1,3 +1,121 @@
+Thu, 07 Dec 2023 17:05:30 +0000
+### [Fintech startup Pontera raises $60 million, plans more hiring in Israel](https://theprint.in/tech/fintech-startup-pontera-raises-60-million-plans-more-hiring-in-israel/1876877/)
+
+Pontera, a fintech startup, has raised $60 million in funding led by ICONIQ Growth. The company, which provides software for financial advisers to manage retirement accounts, has a valuation of over $550 million. Pontera's platform is used by financial advisers to analyze and monitor retirement funds and other accounts. The company plans to use the funding to invest in product and engineering and expand its global team. The 401(k) plans in the United States hold an estimated $7.3 trillion in assets, making it crucial for advisers to make informed decisions. Pontera provides a solution for advisers to securely manage these assets.
+
+Thu, 07 Dec 2023 17:05:19 +0000
+### [U.S. must take tougher approach on tech to China, says U.S. House committee](https://theprint.in/tech/u-s-must-take-tougher-approach-on-tech-to-china-says-u-s-house-committee/1876875/)
+
+Article found but Couldn't summarize 
+By Karen Freifeld (Reuters) - The U.S. must take immediate action to stop "the hemorrhaging of sensitive U.S. technology to China" by tightening up enforcement of existing rules and adding new ones,
+
+Thu, 07 Dec 2023 17:05:07 +0000
+### [US Congress will not take up TikTok legislation this year -senator](https://theprint.in/tech/us-congress-will-not-take-up-tiktok-legislation-this-year-senator/1876873/)
+
+Article found but Couldn't summarize 
+By David Shepardson WASHINGTON (Reuters) -The U.S. Congress will not take up legislation this year that would give the Biden administration new tools to address foreign-owned apps like TikTok that
+
+Thu, 07 Dec 2023 17:04:55 +0000
+### [Sprott, HanETF launch copper miners ETF focused on lower carbon footprint](https://theprint.in/environment/sprott-hanetf-launch-copper-miners-etf-focused-on-lower-carbon-footprint/1876872/)
+
+Article found but Couldn't summarize 
+By Bansari Mayur Kamdar (Reuters) - HanETF and Sprott Asset Management on Thursday jointly launched an exchange-traded fund in Europe that tracks copper miners with a lower carbon footprint, in what
+
+Thu, 07 Dec 2023 17:04:45 +0000
+### [US gives final nod to Rhode Island’s $1.5 billion offshore wind farm](https://theprint.in/environment/us-gives-final-nod-to-rhode-islands-1-5-billion-offshore-wind-farm/1876870/)
+
+Article found but Couldn't summarize 
+(Reuters) - The U.S Federal Permitting Improvement Steering Council on Thursday approved the construction of a $1.5 billion offshore wind farm off the coast of Rhode Island. The project, Revolution
+
+Thu, 07 Dec 2023 17:04:42 +0000
+### [Hamas fired rockets from Gaza humanitarian zone](https://theprint.in/world/hamas-fired-rockets-from-gaza-humanitarian-zone/1876868/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], December 7 (ANI/TPS): Hamas fired rockets at Israel from the humanitarian zone in southern Gaza, near displaced civilians and a United Nations facility, the Israel Defence Forces said on Thursday. The military also released visual evidence of the launch site where, on Wednesday at around 3:59 pm, a barrage of 12 rockets [&#8230;]
+
+Thu, 07 Dec 2023 17:04:26 +0000
+### [Factbox-Details of Canada’s planned regulations to limit oil and gas emissions](https://theprint.in/environment/factbox-details-of-canadas-planned-regulations-to-limit-oil-and-gas-emissions/1876866/)
+
+Article found but Couldn't summarize 
+OTTAWA (Reuters) - Canada unveiled planned regulations on Thursday to limit emissions from the oil and gas sector using a cap-and-trade system, fulfilling a promise by Prime Minister Justin Trudeau's
+
+Thu, 07 Dec 2023 17:04:23 +0000
+### [NDA undertakes hikes to India’s four corners to commemorate 75 years of formation](https://theprint.in/india/nda-undertakes-hikes-to-indias-four-corners-to-commemorate-75-years-of-formation/1876865/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) The National Defence Academy has undertaken hiking expeditions to the four corners of India to commemorate the 75 glorious years of its existence, officials said on Thursday. The hike to Indira Point (southernmost corner of India) by a team comprising 10 NDA cadets and three instructors started on December 1 [&#8230;]
+
+Thu, 07 Dec 2023 17:04:21 +0000
+### [PM Modi extends Hanukkah greetings to Israeli counterpart Benjamin Netanyahu](https://theprint.in/world/pm-modi-extends-hanukkah-greetings-to-israeli-counterpart-benjamin-netanyahu-2/1876864/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 7 (ANI): Prime Minister Narendra Modi extended Hanukkah greetings to his Israeli counterpart Benjamin Netanyahu on Thursday. In a post on X (formerly Twitter), PM Modi wrote, &#8220;Hanukkah Sameach! I extend my warmest greetings to our Jewish friends in India and around the world on the occasion of Hanukkah.&#8221; &#8220;May this [&#8230;]
+
+Thu, 07 Dec 2023 17:03:55 +0000
+### [Road ministry terms news reports of landslides in Uttarkashi ‘factually incorrect’](https://theprint.in/india/road-ministry-terms-news-reports-of-landslides-in-uttarkashi-factually-incorrect/1876861/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) The Ministry of Road Transport and Highways on Thursday termed &#8220;factually incorrect, biased&#8221; some news reports that claimed landslide incidents in the Barethi area of Uttarkashi in Uttarakhand. Responding to a news broadcast by a channel, the ministry stated that the report is factually incorrect, biased and is not substantiated [&#8230;]
+
+Thu, 07 Dec 2023 17:03:53 +0000
+### [Oil edges up after steep losses but weak economic outlook lingers](https://theprint.in/economy/oil-edges-up-after-steep-losses-but-weak-economic-outlook-lingers/1876860/)
+
+Article found but Couldn't summarize 
+By Stephanie Kelly NEW YORK (Reuters) -Oil prices rose on Thursday, a day after tumbling to a six-month low, but remained under pressure as investors worried about sluggish demand in the United States
+
+Thu, 07 Dec 2023 17:03:50 +0000
+### [Research reveals why presence of healthy cells enables cancer to resist treatment](https://theprint.in/science/research-reveals-why-presence-of-healthy-cells-enables-cancer-to-resist-treatment/1876858/)
+
+Article found but Couldn't summarize 
+Washington DC [US], December 7 (ANI): According to two studies from UCL and Yale, chemotherapy becomes less effective because healthy cells push cancer cells to grow more slowly. In the two studies, supported by Cancer Research UK and published in Cell, researchers used &#8216;mini-tumours&#8217; and the latest single-cell analysis technologies to begin to solve the [&#8230;]
+
+Thu, 07 Dec 2023 17:03:15 +0000
+### [Allahabad HC expresses concern over detention of prisoner in UP jail even after completing sentence 11 months ago](https://theprint.in/india/allahabad-hc-expresses-concern-over-detention-of-prisoner-in-up-jail-even-after-completing-sentence-11-months-ago/1876856/)
+
+Article found but Couldn't summarize 
+Lucknow, Dec 7 (PTI) The Allahabad High Court has expressed serious concern over the detention of a prisoner in Hardoi jail even after the sentence awarded to him ended 11 months ago.  A Lucknow bench of Justice Shamim Ahmad has summoned the jail superintendent of Hardoi on Friday to explain why the prisoner has been [&#8230;]
+
+Thu, 07 Dec 2023 17:03:14 +0000
+### [Yen jumps on possible Bank of Japan shift, stocks bounce](https://theprint.in/economy/yen-jumps-on-possible-bank-of-japan-shift-stocks-bounce/1876855/)
+
+As GPT-3.5, I can provide a summary of the article you shared. The Japanese yen experienced a significant surge against the US dollar, reaching its highest one-day jump since January 12. This surge was prompted by speculation that the Bank of Japan (BOJ) may move away from its ultra-low interest rate plan. Bank of Japan Governor Kazuo Ueda hinted at the possibility of policy changes, stating that policy management would become more challenging in the coming year. The dollar index fell, while the euro saw a slight increase. U.S. stocks climbed, led by communication services stocks, and European shares fell after a recent rally. The global stock market saw its first advance after three consecutive declines. U.S. Treasury yields edged up, and there are expectations that the Federal Reserve may cut rates in March. Oil prices experienced a modest rebound after a previous sharp drop. Please note that this summary is based on the provided article and may not include all the details.
+
+Thu, 07 Dec 2023 17:03:03 +0000
+### [Pakistan: Imran Khan moves Lahore HC against his five-year disqualification](https://theprint.in/world/pakistan-imran-khan-moves-lahore-hc-against-his-five-year-disqualification/1876853/)
+
+Article found but Couldn't summarize 
+Lahore [Pakistan], December 7 (ANI): Former Pakistan Prime Minister Imran Khan filed a petition in the Lahore High Court (LHC) challenging the Election Commission of Pakistan&#8217;s (ECP) decision to disqualify him for five years, Dawn reported. This comes after the ECP on August 8, disqualified the Pakistan Tehreek-e-Insaaf (PTI) Chair for five years following his [&#8230;]
+
+Thu, 07 Dec 2023 17:02:22 +0000
+### [Mumbai: Issue guidelines for deep cleaning drive immediately, Chahal tells officials](https://theprint.in/india/mumbai-issue-guidelines-for-deep-cleaning-drive-immediately-chahal-tells-officials/1876851/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 7 (PTI) Guidelines will soon be issued for the &#8216;deep cleaning&#8217; drive that will be undertaken in Mumbai, a civic official said on Thursday. In a meeting held earlier in the day, Brihanmumbai Municipal Corporation chief IS Chahal asked officials to frame these guidelines immediately for the drive set to begin on December [&#8230;]
+
+Thu, 07 Dec 2023 17:02:19 +0000
+### [Blinken, in phone call with minister, urges Israel to do more to protect civilians in south Gaza](https://theprint.in/world/blinken-in-phone-call-with-minister-urges-israel-to-do-more-to-protect-civilians-in-south-gaza/1876850/)
+
+Article found but Couldn't summarize 
+WASHINGTON (Reuters) - U.S. Secretary of State Antony Blinken spoke with Israel's strategic affairs minister on Thursday, a senior State Department official said, and told him Israel needs to do more
+
+Thu, 07 Dec 2023 17:02:02 +0000
+### [India spends at least 18 times more in Kashmir as compared to Pakistan: Kashmir Cultural Centre](https://theprint.in/world/india-spends-at-least-18-times-more-in-kashmir-as-compared-to-pakistan-kashmir-cultural-centre/1876847/)
+
+Article found but Couldn't summarize 
+Vienna [Austria], December 7 (ANI): Comparing the socio-economic development of people on the Indian and Pakistan sides of Kashmir, the Kashmir Cultural Centre in Vienna has said that India spends at least 18 times more on their administered side as compared to Pakistan. Kashmir Cultural Centre, Vienna, along with the SPO (Social Democratic Party) of [&#8230;]
+
+Thu, 07 Dec 2023 17:01:18 +0000
+### [Muslim traders against not allowing stalls for temple festival](https://theprint.in/india/muslim-traders-against-not-allowing-stalls-for-temple-festival/1876844/)
+
+Article found but Couldn't summarize 
+Mangaluru, Dec 7 (PTI) Muslim traders in Dakshina Kannada district have alleged that the state endowment department-administered Kudupu Anantapadmanabha temple here was not allotting stalls to vendors belonging to the minority community. Stalls are coming up in the premises of the temple for the six-day &#8216;Shasti Mahotsava&#8217; that begins on December 14. In a memorandum [&#8230;]
+
+Thu, 07 Dec 2023 17:01:17 +0000
+### [Ukraine and US companies to jointly produce 155-caliber ammunition – minister](https://theprint.in/world/ukraine-and-us-companies-to-jointly-produce-155-caliber-ammunition-minister/1876843/)
+
+Article found but Couldn't summarize 
+(Reuters) - Ukraine has agreed with two American companies on joint production of vital 155mm artillery shells, a Ukrainian official said on Thursday. Demand for 155mm artillery rounds skyrocketed
+
 Thu, 07 Dec 2023 16:17:40 +0000
 ### [Golf-Williams takes first-round lead at Leopard Creek](https://theprint.in/sport/golf-williams-takes-first-round-lead-at-leopard-creek/1876806/)
 

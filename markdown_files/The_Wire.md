@@ -1,3 +1,9 @@
+2023-12-07T22:22:17+05:30
+### [Indian Ambassador Meets 8 Former Navy Men on Death Row in Qatar, Two Hearings on Appeal Held: MEA](https://thewire.in/world/indian-ambassador-meets-8-former-navy-men-on-death-row-in-qatar-two-hearings-on-appeal-held-mea)
+
+No Article text 
+'We are closely following the matter and extending all legal and consular assistance. Meanwhile, our ambassador got consular access to meet all eight of the men in prison on December 3. We will continue to follow (the matter),' said MEA spokesperson Arindam Bagchi.
+
 2023-12-07T20:30:08+05:30
 ### [Watch | Removal of Ramjas College's Ad Hoc Teachers Raises Concerns About DU's Academic Standards](https://thewire.in/video/watch-removal-of-ramjas-colleges-ad-hoc-teachers-raises-concerns-about-dus-academic-standards)
 
