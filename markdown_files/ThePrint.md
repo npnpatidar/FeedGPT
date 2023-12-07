@@ -1,3 +1,122 @@
+Thu, 07 Dec 2023 01:15:17 +0000
+### [Meta to start fully encrypting messages on Facebook and Instagram- WSJ](https://theprint.in/tech/meta-to-start-fully-encrypting-messages-on-facebook-and-instagram-wsj/1875510/)
+
+Article found but Couldn't summarize 
+(Reuters) - Meta Platforms will start fully encrypting messages on Facebook and Instagram by default, the Wall Street Journal reported on Wednesday, citing people familiar with the matter. (Reporting
+
+Thu, 07 Dec 2023 01:15:03 +0000
+### [Kyiv lights Christmas tree according to new calendar](https://theprint.in/world/kyiv-lights-christmas-tree-according-to-new-calendar/1875508/)
+
+Article found but Couldn't summarize 
+KYIV (Reuters) -Crowds flocked to one of Kyiv's most beloved squares on Wednesday to see the Ukraine's main Christmas tree lit up to mark Saint Nicholas Day according to a new calendar celebrating
+
+Thu, 07 Dec 2023 01:02:01 +0000
+### [US: Three killed, one injured after shooting on University of Nevada campus in Las Vegas](https://theprint.in/world/us-three-killed-one-injured-after-shooting-on-university-of-nevada-campus-in-las-vegas/1875506/)
+
+Article found but Couldn't summarize 
+Las Vegas [US], December 7 (ANI): At least three people were killed and one seriously injured following a shooting on the University of Nevada, Las Vegas campus in the US, CNN reported on Wednesday. &#8220;According to our investigators at the scene, we have three deceased victims and one additional victim in critical condition at a [&#8230;]
+
+Thu, 07 Dec 2023 01:00:37 +0000
+### [Global framework required to leverage the opportunities of AI, says MeitY official at tech summit](https://theprint.in/tech/global-framework-required-to-leverage-the-opportunities-of-ai-says-meity-official-at-tech-summit/1875038/)
+
+Article found but Couldn't summarize 
+Abhishek Singh, CEO of National e-Governance Division, said at Global Technology Summit organised in Delhi that Govt of India views AI regulation from 'point of user harm'.
+
+Thu, 07 Dec 2023 00:45:39 +0000
+### [Rugby-Wallabies winger Nawaqanitawase to defect to NRL from 2025](https://theprint.in/sport/rugby-wallabies-winger-nawaqanitawase-to-defect-to-nrl-from-2025/1875504/)
+
+Article found but Couldn't summarize 
+MELBOURNE (Reuters) - Australia winger Mark Nawaqanitawase will become the first active Wallabies player to cross to rugby league in nearly two decades after signing a two-year deal with the Sydney
+
+Thu, 07 Dec 2023 00:45:27 +0000
+### [Rakuten Group prices Rakuten Bank shares at 2,470 yen in $412 million overseas sale](https://theprint.in/tech/rakuten-group-prices-rakuten-bank-shares-at-2470-yen-in-412-million-overseas-sale/1875502/)
+
+Article found but Couldn't summarize 
+TOKYO (Reuters) -Japan's Rakuten Group said on Thursday it set a price of 2,470 yen per in a planned offshore sale of 24.5 million shares of Rakuten Bank worth 60.6 billion yen ($411.94 million). The
+
+Thu, 07 Dec 2023 00:45:12 +0000
+### [US Senate Republican block Ukraine, Israel aid bill over border dispute](https://theprint.in/world/us-senate-republican-block-ukraine-israel-aid-bill-over-border-dispute/1875500/)
+
+Article found but Couldn't summarize 
+By Patricia Zengerle WASHINGTON (Reuters) -An emergency spending bill to provide billions of dollars in new security assistance for Ukraine and Israel was blocked in the U.S. Senate on Wednesday as
+
+Thu, 07 Dec 2023 00:45:03 +0000
+### [Russia’s Putin, Saudi crown prince discuss further OPEC+ cooperation in whirlwind visit](https://theprint.in/world/russias-putin-saudi-crown-prince-discuss-further-opec-cooperation-in-whirlwind-visit/1875498/)
+
+Article found but Couldn't summarize 
+By Aziz El Yaakoubi and Vladimir Soldatkin RIYADH (Reuters) - Russian President Vladimir Putin and Saudi Crown Prince Mohammed bin Salman discussed further cooperation on oil prices on Wednesday as
+
+Thu, 07 Dec 2023 00:17:12 +0000
+### [UAE: Parliamentary meeting explores strategies for Paris Agreement oversight after COP28](https://theprint.in/world/uae-parliamentary-meeting-explores-strategies-for-paris-agreement-oversight-after-cop28/1875496/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 7 (ANI/WAM): Meeting at COP28 today, parliamentarians underscored the critical importance of the landmark results and commitments achieved at COP28. They said that the organisation of the first-ever international parliamentary meeting at COP28 Green Zone demonstrates the UAE&#8217;s commitment to prioritising participatory work. The Parliamentary Meeting was organised jointly by the Inter-Parliamentary [&#8230;]
+
+Thu, 07 Dec 2023 00:17:01 +0000
+### [UAE: Fujairah, Rotterdam explore climate action cooperation](https://theprint.in/world/uae-fujairah-rotterdam-explore-climate-action-cooperation/1875494/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 7 (ANI/WAM): Aseela Al Mualla, Director of Fujairah Environment Authority (FEA), met Ahmed Aboutaleb, Mayor of Rotterdam, to discuss ways to enhance joint cooperation and projects on various environmental issues. The meeting, held on the sidelines of COP28 in Expo City Dubai, addressed environmental challenges and global trends towards transformation in the [&#8230;]
+
+Thu, 07 Dec 2023 00:15:43 +0000
+### [Soccer-Beleaguered Ten Hag said Man United proved something to fans](https://theprint.in/sport/soccer-beleaguered-ten-hag-said-man-united-proved-something-to-fans/1875492/)
+
+Manchester United manager Erik ten Hag expressed his satisfaction with the team's performance and result following their 2-1 victory over Chelsea. This win came in the wake of a disappointing loss to Newcastle, which had sparked reports of unrest within the dressing room. Ten Hag stated that the team wanted to send a message to the fans and believed that they deserved the win. He emphasized the importance of being at their best in every game and having the right attitude. The club had banned four journalists from the pre-game press conference due to negative reporting without giving United a chance to respond. However, Ten Hag dismissed concerns about the noise surrounding the team. After the victory, fans chanted in support of the manager, and midfielder Sofyan Amrabat praised Ten Hag as one of the best coaches in the world. Ten Hag also highlighted Scott McTominay's excellent performance, scoring twice and being praised for his dynamic play.
+
+Thu, 07 Dec 2023 00:15:31 +0000
+### [Rakuten Group prices Rakuten Bank shares at 2,470 yen in $412 million offshore sale](https://theprint.in/tech/rakuten-group-prices-rakuten-bank-shares-at-2470-yen-in-412-million-offshore-sale/1875490/)
+
+Article found but Couldn't summarize 
+TOKYO (Reuters) - Japan's Rakuten Group said on Thursday it set a 2,470 yen per share price in a planned offshore sale of 24.5 million shares of Rakuten Bank worth 60.6 billion yen ($411.85 million).
+
+Thu, 07 Dec 2023 00:15:15 +0000
+### [Las Vegas campus shooting leaves three dead, one in critical condition](https://theprint.in/world/las-vegas-campus-shooting-leaves-three-dead-one-in-critical-condition/1875488/)
+
+Article found but Couldn't summarize 
+By Steve Gorman (Reuters) -A shooting on the main campus of the University of Nevada, Las Vegas, on Wednesday left at least three people dead before the bloodshed ended with the suspect's own death,
+
+Thu, 07 Dec 2023 00:15:04 +0000
+### [Peru’s divisive ex-president Fujimori freed after 16 years in prison for human rights abuses](https://theprint.in/world/perus-divisive-ex-president-fujimori-freed-after-16-years-in-prison-for-human-rights-abuses/1875486/)
+
+Article found but Couldn't summarize 
+By Marco Aquino LIMA (Reuters) - To his supporters, former Peruvian President Alberto Fujimori saved Peru from terrorism and economic collapse, while his critics see him as an authoritarian who
+
+Thu, 07 Dec 2023 00:02:14 +0000
+### [UAE Team Emirates announce net zero ambitions at COP28](https://theprint.in/world/uae-team-emirates-announce-net-zero-ambitions-at-cop28/1875484/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 7 (ANI/WAM): Today, the UAE Team Emirates&#8217; CEO and Team Principal, Mauro Gianetti, was invited to present at COP28 and used the platform to announce the team&#8217;s ambitious goal of reaching net-zero by 2030. The announcement, which underscored the team&#8217;s dedication to leading the way in sustainable sports and contributing to a [&#8230;]
+
+Thu, 07 Dec 2023 00:02:02 +0000
+### [NSA Ajit Doval arrives in Mauritius, to attend 6th NSA-level meeting of Colombo Security Conclave](https://theprint.in/world/nsa-ajit-doval-arrives-in-mauritius-to-attend-6th-nsa-level-meeting-of-colombo-security-conclave/1875482/)
+
+Article found but Couldn't summarize 
+Port Louis [Mauritius], December 7 (ANI): National Security Advisor (NSA) Ajit Doval arrived in Mauritius on Wednesday to participate in the 6th NSA-level meeting of the Colombo Security Conclave. The Colombo Security Conclave comprises India, Sri Lanka, and the Maldives. On May 9 last year, the fifth National Security Adviser-level meeting of the Colombo Security [&#8230;]
+
+Wed, 06 Dec 2023 23:46:22 +0000
+### [Chinese e-commerce platform Temu drawing shoppers from US dollar stores -data](https://theprint.in/tech/chinese-e-commerce-platform-temu-drawing-shoppers-from-us-dollar-stores-data/1875480/)
+
+Article found but Couldn't summarize 
+By Arriana McLymore and Granth Vanaik NEW YORK (Reuters) - Temu, the fast-growing Chinese e-commerce platform selling $4 home decor and $10 shirts, is successfully taking on U.S. dollar stores
+
+Wed, 06 Dec 2023 23:46:13 +0000
+### [Musk’s SpaceX approaches investors for another tender offer – Bloomberg News](https://theprint.in/tech/musks-spacex-approaches-investors-for-another-tender-offer-bloomberg-news/1875478/)
+
+Article found but Couldn't summarize 
+(Reuters) - Elon Musk's SpaceX has approached investors about another tender offer that would value the company at above $175 billion, a Bloomberg News reporter said in a post on X. Tender volume
+
+Wed, 06 Dec 2023 23:46:04 +0000
+### [Comcast to raise prices for its Xfinity programs](https://theprint.in/tech/comcast-to-raise-prices-for-its-xfinity-programs/1875476/)
+
+Article found but Couldn't summarize 
+(Reuters) - Comcast is raising prices for its Xfinity program, the media giant said on Wednesday, as it looks to offset high programming costs. Xfinity provides video, broadband and phone services.
+
+Wed, 06 Dec 2023 23:45:55 +0000
+### [Apple exec behind iPhone screen and touch ID is leaving – Bloomberg News](https://theprint.in/tech/apple-exec-behind-iphone-screen-and-touch-id-is-leaving-bloomberg-news/1875474/)
+
+Article found but Couldn't summarize 
+(Reuters) - Apple senior executive Steve Hotelling who oversaw iPhone screen and touch ID technology that transformed the way iPhones feel and function is leaving the company, Bloomberg News reported,
+
 Wed, 06 Dec 2023 23:16:05 +0000
 ### [Soccer-Stuttering Manchester City lose 1-0 to Aston Villa](https://theprint.in/sport/soccer-stuttering-manchester-city-lose-1-0-to-aston-villa/1875449/)
 

@@ -1,3 +1,8 @@
+Wed, 06 Dec 2023 20:42:42 +0530
+### [FirstUp: Telangana CM’s swearing-in, Washington Post strike: What to expect today](https://www.firstpost.com/explainers/firstup-telangana-cms-swearing-in-washington-post-strike-what-to-expect-today-13474682.html)
+
+Telangana Congress chief Anumula Revanth Reddy is set to become the state's new chief minister, taking over from his predecessor K Chandrasekhar Rao. Reddy's swearing-in ceremony will take place in Hyderabad. Russian President Vladimir Putin will meet with Iranian President Ebrahim Raisi in Moscow to discuss strengthening economic and military ties amid Western sanctions. Schools in Chennai remain closed due to the aftermath of Cyclone Michaung, which has caused flooding in many parts of the city. Journalists at The Washington Post are staging a 24-hour strike, accusing the company of not negotiating a contract in good faith and protesting staff cuts. Top EU officials will visit Beijing for a summit with Chinese leaders, focusing on Russia's invasion of Ukraine, trade issues, and Taiwan. US Representative on Afghanistan Tom West will visit Pakistan to discuss various issues, including the situation in Afghanistan.
+
 Wed, 06 Dec 2023 20:39:27 +0530
 ### [Sweet Dreams: What's 'cricket feet', a hack that could help you sleep better at night?](https://www.firstpost.com/explainers/sweet-dreams-whats-cricket-feet-a-hack-that-could-help-you-sleep-better-at-night-13473352.html)
 
