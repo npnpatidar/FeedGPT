@@ -1,3 +1,15 @@
+Thu, 07 Dec 2023 11:48:49 +0530
+### [Why is Italy pulling out of China’s ambitious Belt and Road Initiative?](https://www.firstpost.com/explainers/why-italy-wants-out-of-chinas-bri-project-and-how-india-may-benefit-from-it-13108922.html)
+
+Article found but Couldn't summarize 
+Why is Italy pulling out of China’s ambitious Belt and Road Initiative?
+
+Thu, 07 Dec 2023 11:40:19 +0530
+### [Did Rajasthan ignore tip-off on plot to kill Karni Sena's Sukhdev Singh Gogamedi?](https://www.firstpost.com/explainers/did-rajasthan-ignore-tip-off-on-plot-to-kill-karni-senas-sukhdev-singh-gogamedi-13475192.html)
+
+Article found but Couldn't summarize 
+Did Rajasthan ignore tip-off on plot to kill Karni Sena's Sukhdev Singh Gogamedi?
+
 Thu, 07 Dec 2023 10:33:59 +0530
 ### [Vivek Ramaswamy leads, Nikki Haley targeted: Takeaways from 4th Republican presidential debate](https://www.firstpost.com/explainers/vivek-ramaswamy-leads-nikki-haley-targeted-takeaways-from-4th-republican-presidential-debate-13475352.html)
 

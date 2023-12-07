@@ -1,3 +1,8 @@
+Thu, 07 Dec 2023 06:04:01 +0000
+### [The biggest problem with ‘Animal’ isn’t its misogyny or violence. It’s just plain boring](https://indianexpress.com/article/opinion/columns/animal-movie-boring-misogyny-violence-ranbir-kapoor-sandeep-reddy-vanga-9057946/)
+
+Article found but Couldn't summarize
+
 Thu, 07 Dec 2023 01:37:06 +0000
 ### [Italian Ambassador writes: India, a partner in an uncertain world](https://indianexpress.com/article/opinion/columns/italian-ambassador-writes-india-a-partner-in-an-uncertain-world-9057487/)
 

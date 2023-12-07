@@ -1,3 +1,9 @@
+Thu, 07 Dec 2023 11:16:04 +0530
+### [EU's AI Act: European Comission set to finalise laws regulating AI companies like OpenAI, Google](https://www.firstpost.com/tech/eu-set-to-finalise-laws-regulating-ai-companies-like-openai-google-here-are-the-proposed-rules-13475682.html)
+
+Article found but Couldn't summarize 
+EU's AI Act: European Comission set to finalise laws regulating AI companies like OpenAI, Google
+
 Thu, 07 Dec 2023 10:04:14 +0530
 ### [Google launches Gemini, an AI chatbot that they claim is way better than ChatGPT](https://www.firstpost.com/tech/news-analysis/google-launches-gemini-an-ai-chatbot-that-they-claim-is-way-better-than-chatgpt-13475302.html)
 

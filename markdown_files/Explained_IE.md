@@ -1,3 +1,8 @@
+Thu, 07 Dec 2023 06:20:39 +0000
+### [How Google DeepMind’s AI breakthrough could revolutionise chip, battery development](https://indianexpress.com/article/explained/explained-sci-tech/google-deepminds-ai-breakthrough-chip-battery-development-9057935/)
+
+Article found but Couldn't summarize
+
 Thu, 07 Dec 2023 03:45:01 +0000
 ### [Google Gemini is here… but is it better than ChatGPT 4?](https://indianexpress.com/article/explained/explained-sci-tech/google-gemini-chatgpt-artificial-intelligence-9057795/)
 

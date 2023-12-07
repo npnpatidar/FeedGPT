@@ -1,3 +1,122 @@
+Thu, 07 Dec 2023 06:17:27 +0000
+### [EAM Jaishankar, Suriname counterpart Albert Ramdin co-chair 8th Joint Commission Meeting](https://theprint.in/world/eam-jaishankar-suriname-counterpart-albert-ramdin-co-chair-8th-joint-commission-meeting/1875774/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 7 (ANI): External Affairs Minister (EAM) S Jaishankar, and his Suriname counterpart Albert Ramdin on Wednesday co-chaired the 8th India-Suriname Joint Commission Meeting (JCM) in New Delhi. The meeting provided an opportunity for a comprehensive review of the progress in bilateral relations in trade and commerce, health, pharmaceuticals and traditional medicines, [&#8230;]
+
+Thu, 07 Dec 2023 06:17:16 +0000
+### [Koffee With Karan 8: Kiara Advani shares what she likes, dislikes most about hubby Sidharth Malhotra](https://theprint.in/feature/koffee-with-karan-8-kiara-advani-shares-what-she-likes-dislikes-most-about-hubby-sidharth-malhotra/1875772/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 7 (ANI): Sidharth Malhotra and Kiara Advani are among the most adorable couples in Bollywood. Recently, Kiara appeared on the famous talk show &#8216;Koffee With Karan 8&#8217; (KWK) and opened up about her relationship with Sidharth. She shared what she liked most about him and what she hated most. She said, [&#8230;]
+
+Thu, 07 Dec 2023 06:17:02 +0000
+### [Boney Kapoor reviews Khushi Kapoor’s ‘The Archies’, says, it took him back to his “school days”](https://theprint.in/feature/boney-kapoor-reviews-khushi-kapoors-the-archies-says-it-took-him-back-to-his-school-days/1875770/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 7 (ANI): Film producer Boney Kapoor&#8217;s daughter Khushi Kapoor has made her acting debut with &#8216;The Archies&#8217;. Indeed, it is a proud moment for a father and Kapoor has praised the movie and said that it has taken him to his &#8220;school days&#8221;. He took to his Instagram handle and wrote [&#8230;]
+
+Thu, 07 Dec 2023 06:15:57 +0000
+### [Odisha invokes ESMA to ban strikes by Health Dept staff](https://theprint.in/india/odisha-invokes-esma-to-ban-strikes-by-health-dept-staff/1875769/)
+
+Article found but Couldn't summarize 
+Bhubaneswar, Dec 7 (PTI) The Odisha government invoked the Orissa Essential Services (Maintenance) Act (ESMA) prohibiting strikes by paramedical staff, including nurses, pharmacists, technicians, Class III and IV employees, to ensure that medical services are not disrupted. The order imposing ESMA and prohibiting strike will remain in force for six months from December 6, the [&#8230;]
+
+Thu, 07 Dec 2023 06:15:45 +0000
+### [Lok Sabha Speaker accepts resignation of nine MPs who won recent assembly polls](https://theprint.in/india/lok-sabha-speaker-accepts-resignation-of-nine-mps-who-won-recent-assembly-polls/1875768/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) Lok Sabha Speaker Om Birla on Thursday said he has accepted the resignation of nine Lok Sabha MPs, including Union ministers Narendra Singh Tomar and Prahlad Patel. The MPs, who are from the BJP, had resigned after winning in the recent assembly polls. Besides the two Union ministers, the other [&#8230;]
+
+Thu, 07 Dec 2023 06:15:36 +0000
+### [We should have have varied pace more, fielded better: India Women team pacer Shreyanka Patil](https://theprint.in/sport/we-should-have-have-varied-pace-more-fielded-better-india-women-team-pacer-shreyanka-patil/1875765/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 7 (PTI) Young fast bowler Shreyanka Patil feels India should have varied the pace more while bowling and also fielded better in their 36-run defeat against England in the opening Women&#8217;s T20I here. Renuka Singh Thakur (3/27) got two wickets in the first over, but India squandered the advantage to help England post [&#8230;]
+
+Thu, 07 Dec 2023 06:15:35 +0000
+### [Asian shares wobble with Wall Street, oil helps boost bonds](https://theprint.in/economy/asian-shares-wobble-with-wall-street-oil-helps-boost-bonds/1875764/)
+
+Article found but Couldn't summarize 
+By Stella Qiu SYDNEY (Reuters) -Asian shares fell with Wall Street on Thursday, while a sharp fall in oil prices to a six-month low and a soft reading on the U.S. labour market boosted the global bond
+
+Thu, 07 Dec 2023 06:15:25 +0000
+### [TMC women MPs protest against Giriraj Singh’s remarks on Mamata Banerjee](https://theprint.in/india/tmc-women-mps-protest-against-giriraj-singhs-remarks-on-mamata-banerjee/1875762/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) Women MPs from the Trinamool Congress on Thursday held a protest in Parliament premises against Union Minister Giriraj Singh’s “misogynistic” remarks targeting TMC leader and West Bengal Chief Minister Mamata Banerjee. The women MPs from the party staged a protest in front of Mahatma Gandhi&#8217;s statue in Parliament complex, and [&#8230;]
+
+Thu, 07 Dec 2023 06:15:23 +0000
+### [Hanukkah in wartime: Israelis take stock two months on](https://theprint.in/world/hanukkah-in-wartime-israelis-take-stock-two-months-on/1875761/)
+
+Article found but Couldn't summarize 
+By Howard Goller JERUSALEM (Reuters) - Two months into a war with Hamas, the faces of Israelis taken hostage to Gaza still appear on individual posters plastered across Jerusalem bus stops and flashed
+
+Thu, 07 Dec 2023 06:15:14 +0000
+### [PM Modi cites poll win data to assert BJP most preferred party for governance](https://theprint.in/india/pm-modi-cites-poll-win-data-to-assert-bjp-most-preferred-party-for-governance/1875759/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) Prime Minister Narendra Modi on Thursday cited poll data to assert that the BJP has become people&#8217;s most preferred for governance as its record of winning state elections while in power is much better than the Congress. Speaking at the BJP Parliamentary Party meeting, he credited &#8220;team spirit&#8221; for the [&#8230;]
+
+Thu, 07 Dec 2023 06:15:13 +0000
+### [Russia’s Putin told Saudi’s MbS: We meet in Moscow next time](https://theprint.in/world/russias-putin-told-saudis-mbs-we-meet-in-moscow-next-time/1875758/)
+
+Article found but Couldn't summarize 
+MOSCOW (Reuters) - President Vladimir Putin said that a planned visit by Saudi Crown Prince Mohammed bin Salman to Russia had been changed at the last minute, prompting the Kremlin chief to visit
+
+Thu, 07 Dec 2023 06:15:06 +0000
+### [Soaring pollution in Pakistan’s Lahore fills wards with sick children](https://theprint.in/world/soaring-pollution-in-pakistans-lahore-fills-wards-with-sick-children/1875757/)
+
+Article found but Couldn't summarize 
+By Charlotte Greenfield and Mubasher Bukhari LAHORE (Reuters) - In the packed paediatric emergency room of a Lahore public hospital, parents holding sick children lined up for treatment this week,
+
+Thu, 07 Dec 2023 06:15:03 +0000
+### [Ramaswamy calls Haley a ‘fascist’, ‘corrupt’; she says responding to him ‘not worth her time’](https://theprint.in/world/ramaswamy-calls-haley-a-fascist-corrupt-she-says-responding-to-him-not-worth-her-time/1875756/)
+
+Article found but Couldn't summarize 
+Washington, Dec 7 (PTI) Calling her “fascist” and “corrupt,” biotech entrepreneur Vivek Ramaswamy launched a tirade against his Republican presidential rival and fellow Indian-American Nikki Haley, who refrained from a verbal duel, saying it is not worth her time to respond to him. Ramaswamy launched the volley of charges against the former South Carolina governor [&#8230;]
+
+Thu, 07 Dec 2023 06:02:01 +0000
+### [Accura Scan, The Only Certified Biometric Solution Provider in India for Banks and Telcos](https://theprint.in/ani-press-releases/accura-scan-the-only-certified-biometric-solution-provider-in-india-for-banks-and-telcos/1875748/)
+
+Article found but Couldn't summarize 
+PRNewswire Mumbai (Maharashtra) [India], December 7: Global Identity Verification and Digital KYC solutions provider, Accura Scan is pleased to announce being awarded ISO/IEC 30107-03 compliance after passing a presentation attack detection (PAD) iBeta Level 2 audit with 0% FAR, making it one of the few companies worldwide and the only in India, Singapore, APAC &#38; [&#8230;]
+
+Thu, 07 Dec 2023 06:00:40 +0000
+### [14 students injured as school bus overturns in South Goa](https://theprint.in/india/14-students-injured-as-school-bus-overturns-in-south-goa/1875746/)
+
+Fourteen students were injured, four seriously, when a school bus overturned in South Goa. The incident occurred near Balli village as the bus was transporting 34 students to Cuncolim United Higher Secondary School. The bus veered off the main road and flipped over in a nearby field. The bus was under the 'Bal Rath' program of the state government. Four seriously injured students were taken to the District Hospital in Margao, while ten others sustained minor injuries. Preliminary investigations suggest that the bus steering wheel got locked, causing it to go off the road.
+
+Thu, 07 Dec 2023 06:00:29 +0000
+### [US House resolution urges Pakistan to uphold democratic institutions, human rights and the rule of law](https://theprint.in/world/us-house-resolution-urges-pakistan-to-uphold-democratic-institutions-human-rights-and-the-rule-of-law/1875744/)
+
+Article found but Couldn't summarize 
+Washington, Dec 7 (PTI) A resolution has been introduced in the US House of Representatives urging Pakistan to uphold democratic institutions, human rights, and the rule of law, as the cash-strapped country prepares for general elections in February. The resolution introduced in the House of Representatives by Congressman Mitch McCormick and Congressman Dan Kildee this [&#8230;]
+
+Thu, 07 Dec 2023 06:00:24 +0000
+### [Moldova volunteers to run COP29 climate summit, Serbia also mulls bid -sources](https://theprint.in/environment/moldova-volunteers-to-run-cop29-climate-summit-serbia-also-mulls-bid-sources/1875743/)
+
+Article found but Couldn't summarize 
+By Alexander Cornwell and Kate Abnett DUBAI (Reuters) - Moldova has put itself forward as a candidate for the presidency of next year's U.N. climate summit and Serbia is also considering throwing its
+
+Thu, 07 Dec 2023 06:00:16 +0000
+### [ED files first charge sheet against Chinese smartphone maker vivo-India, others](https://theprint.in/india/ed-files-first-charge-sheet-against-chinese-smartphone-maker-vivo-india-others/1875742/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) The Enforcement Directorate filed its first charge sheet in connection with its money laundering probe against Chinese smartphone maker vivo and some others, official sources said on Thursday. The prosecution complaint has been filed before a special court here on Wednesday under the criminal sections of the Prevention of Money [&#8230;]
+
+Thu, 07 Dec 2023 06:00:04 +0000
+### [ASEAN+3 agree on new financing facility to fend off crisis](https://theprint.in/world/asean3-agree-on-new-financing-facility-to-fend-off-crisis/1875740/)
+
+Article found but Couldn't summarize 
+By Tetsushi Kajimoto TOKYO (Reuters) -Deputies of the ASEAN+3 group of nations agreed on Thursday to set up a new regional lending facility to respond to emergencies in the region amid rising
+
+Thu, 07 Dec 2023 06:00:03 +0000
+### [UN chief invokes rarely-used UN Charter article to appeal for humanitarian ceasefire in Gaza conflict](https://theprint.in/world/un-chief-invokes-rarely-used-un-charter-article-to-appeal-for-humanitarian-ceasefire-in-gaza-conflict/1875739/)
+
+Article found but Couldn't summarize 
+United Nations, Dec 7 (PTI) UN chief Antonio Guterres has invoked a rarely-used article in the United Nations Charter to appeal to the Security Council for a humanitarian ceasefire in the Israel-Hamas conflict and to avert a &#8220;humanitarian catastrophe&#8221;, which he said has &#8220;potentially irreversible implications&#8221; for Palestinians and peace in the region. Secretary-General Guterres [&#8230;]
+
 Thu, 07 Dec 2023 05:17:50 +0000
 ### [AI Adoption among Software Testers at 78 per cent, reliability and skill gap the biggest challenges](https://theprint.in/ani-press-releases/ai-adoption-among-software-testers-at-78-per-cent-reliability-and-skill-gap-the-biggest-challenges/1875696/)
 

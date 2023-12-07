@@ -1,3 +1,15 @@
+2023-12-07T11:33:44+05:30
+### [Four Days Since Election Results, Opposition MPs Ask Why No BJP CMs Announced Yet](https://thewire.in/politics/four-days-since-election-results-opposition-mps-ask-why-no-bjp-cms-announced-yet)
+
+No Article text 
+"lected MLAs have to make a decision that who will be the leader. But that process has been done away in the BJP. Only two people make decisions on the CM – PM Narendra Modi and Amit Shah," Shiv Sena (UBT) leader Priyanka Chaturvedi said.
+
+2023-12-07T11:22:53+05:30
+### [Cost of Home-Cooked Vegetarian Meal Rises by 10%, Non-Vegetarian Thali by 5%: Report](https://thewire.in/economy/cost-of-home-cooked-vegetarian-meal-rises-by-10-non-vegetarian-thali-by-5-report)
+
+No Article text 
+With the jump in prices, a five-member family would incur an additional cost of Rs 840 per month for vegetarian thalis, and Rs 900 per month for non-vegetarian thalis.
+
 2023-12-07T10:24:18+05:30
 ### [UN Chief Invokes Little-Used UN Charter Article to Demand Ceasefire in Gaza](https://thewire.in/world/un-chief-invokes-little-used-un-charter-article-to-demands-ceasefire-in-gaza)
 

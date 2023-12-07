@@ -1,3 +1,9 @@
+Thu, 07 Dec 2023 11:09:59 +0530
+### [Vantage | What Pannun's threats to India say about US double standards](https://www.firstpost.com/opinion/vantage-what-pannuns-threats-to-india-say-about-us-double-standards-13475522.html)
+
+Article found but Couldn't summarize 
+Vantage | What Pannun's threats to India say about US double standards
+
 Thu, 07 Dec 2023 10:29:07 +0530
 ### [Vantage | Are top US colleges defending anti-semitism?](https://www.firstpost.com/opinion/vantage-are-top-us-colleges-defending-anti-semitism-13475362.html)
 

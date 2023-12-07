@@ -1,3 +1,15 @@
+Thu, 07 Dec 2023 11:25:19 +0530
+### [Best gaming chair for budding gamers? Choose from top 8 to sit and play](https://www.livemint.com/technology/gadgets/best-gaming-chair-for-budding-gamers-choose-from-top-8-to-sit-and-play-11701868527467.html)
+
+Article found but Couldn't summarize 
+Gaming chair has become an essential part of a gaming setup. Check out the top 8 picks to add to your gaming setup and enjoy a complete gaming experience.
+
+Thu, 07 Dec 2023 11:01:22 +0530
+### [Garena Free Fire Max redeem codes for Dec 07, 2023: Grab exciting rewards](https://www.livemint.com/technology/tech-news/garena-free-fire-max-redeem-codes-for-dec-07-2023-grab-exciting-rewards-11701926920108.html)
+
+Article found but Couldn't summarize 
+Developers of the game keep updating these codes daily. Developers of the game keep updating these codes daily. There is also a dedicated microsite where players can visit to redeem the available codes.
+
 Thu, 07 Dec 2023 09:32:13 +0530
 ### [Meta adds end-to-end encryption to Messenger and Facebook. Details here](https://www.livemint.com/technology/tech-news/meta-adds-end-to-end-encryption-to-messenger-and-facebook-details-here-11701918055932.html)
 
