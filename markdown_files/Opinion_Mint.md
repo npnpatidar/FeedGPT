@@ -1,3 +1,9 @@
+Fri, 08 Dec 2023 00:57:45 +0530
+### [The moment when you add pi](https://www.livemint.com/opinion/columns/the-moment-when-you-add-pi-11701976254361.html)
+
+Article found but Couldn't summarize 
+There are times when round figures are of no interest, and times when they stimulate great curiosity. Times when the digits after the decimal point grab our attention, times when they don’t
+
 Thu, 07 Dec 2023 22:12:26 +0530
 ### [The recent OpenAI debacle showed us what humanity must stay wary of](https://www.livemint.com/opinion/online-views/the-recent-openai-debacle-showed-us-what-humanity-must-stay-wary-of-11701964223248.html)
 

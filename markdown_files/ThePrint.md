@@ -1,3 +1,91 @@
+Thu, 07 Dec 2023 20:15:14 +0000
+### [Israeli families celebrate Hanukkah in Hungary, a temporary refuge](https://theprint.in/world/israeli-families-celebrate-hanukkah-in-hungary-a-temporary-refuge/1877032/)
+
+Article found but Couldn't summarize 
+By Krisztina Fenyo BUDAPEST (Reuters) - Liora Ruth lit the first candle of Hanukkah with her 6-year-old daughter and 8-year-old son in their rented Budapest flat on Thursday, and thought of everyone
+
+Thu, 07 Dec 2023 20:15:03 +0000
+### [Gold firms as dollar dips ahead of US payrolls report](https://theprint.in/india/gold-firms-as-dollar-dips-ahead-of-us-payrolls-report/1877030/)
+
+Article found but Couldn't summarize 
+By Anushree Ashish Mukherjee and Deep Kaushik Vakil (Reuters) - Gold firmed on Thursday on a weaker dollar in the run-up to U.S. non-farm payrolls data, as traders hoped for signs of a weaker labour
+
+Thu, 07 Dec 2023 20:02:02 +0000
+### [“IPL 2024 will serve as great preparatory tournament for T20 World Cup”: Jason Holder plays down burnout fears](https://theprint.in/sport/ipl-2024-will-serve-as-great-preparatory-tournament-for-t20-world-cup-jason-holder-plays-down-burnout-fears/1877027/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 8 (ANI): Playing down burnout fears, star all-rounder and former West Indies captain, Jason Holder, backed the scheduling of the next season of the Indian Premier League (IPL) ahead of the T20 World Cup next year, saying the premier domestic event would provide an ideal platform for cricketers to showcase their [&#8230;]
+
+Thu, 07 Dec 2023 19:32:01 +0000
+### [PM Modi cannot be intimidated or forced to take actions contrary to Indian interests: Russian President Putin](https://theprint.in/world/pm-modi-cannot-be-intimidated-or-forced-to-take-actions-contrary-to-indian-interests-russian-president-putin/1877025/)
+
+Article found but Couldn't summarize 
+Moscow [Russia], December 8 (ANI): Russian President Vladimir Putin on Thursday heaped praise on Prime Minister Narendra Modi, saying that he cannot be intimidated or forced to take decisions that are contrary to national interests. He also spoke favourably of PM Modi&#8217;s tough posturing and stance when it comes to defending the national interests. &#8220;I [&#8230;]
+
+Thu, 07 Dec 2023 19:30:28 +0000
+### [LG recalls files on judicial infra and administration lying with Delhi govt for months: Officials](https://theprint.in/india/lg-recalls-files-on-judicial-infra-and-administration-lying-with-delhi-govt-for-months-officials/1877024/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) Delhi Lieutenant Governor V K Saxena has recalled all files related to courts, judicial infrastructure, expeditious justice delivery and the justice administration system in the city following a &#8220;delay&#8221; by the AAP government in clearing them, officials at the Raj Niwas said on Thursday. The Lt Governor has directed that [&#8230;]
+
+Thu, 07 Dec 2023 19:30:17 +0000
+### [Communalism is first step towards country’s destruction: Jamiat Ulama-i-Hind president](https://theprint.in/india/communalism-is-first-step-towards-countrys-destruction-jamiat-ulama-i-hind-president-2/1877023/)
+
+As GPT-3.5, I can summarize the article for you. Maulana Arshad Madani, the President of Jamiat Ulama-i-Hind, emphasized that communalism is the first step towards the destruction of the country. He urged political parties to promote love and brotherhood instead of hatred. Madani also spoke about the term "love jihad," stating that it was coined to spread hatred within the country. He advocated for the establishment of separate schools for Muslim girls and emphasized the importance of modern education in madrasas. The conference organized by Jamiat Ulama-i-Hind saw the participation of members from 37 districts, and several resolutions were passed.
+
+Thu, 07 Dec 2023 19:30:04 +0000
+### [Kannada, English among subjects to be taught in madrasas: K’taka CM Siddaramaiah](https://theprint.in/india/kannada-english-among-subjects-to-be-taught-in-madrasas-ktaka-cm-siddaramaiah/1877022/)
+
+Article found but Couldn't summarize 
+Bengaluru, Dec 7 (PTI) Karnataka Chief Minister Siddaramaiah on Thursday said Kannada and English along with Maths and science will be taught for two years on an experimental basis in the registered madrasas for two years. &#8220;Children studying in waqf properties and registered madrasas run by waqf institutions will be taught continuously for two years [&#8230;]
+
+Thu, 07 Dec 2023 19:17:02 +0000
+### [“Investigation, treatment carried out”: AIIMS medical superintendent writes to director on leukaemia patient death](https://theprint.in/india/investigation-treatment-carried-out-aiims-medical-superintendent-writes-to-director-on-leukaemia-patient-death/1877019/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 8 (ANI): The medical superintendent of the All India Institute of Medical Sciences, Delhi, wrote to the director of the prestigious institute on Thursday with regard to the death of a 14-year-old leukaemia patient. The AIIMS Medical Superintendent, in his letter to the director, stated that the 14-year-old was earlier admitted [&#8230;]
+
+Thu, 07 Dec 2023 19:15:45 +0000
+### [Olympics-Safety is Paris 2024’s priority, Games boss says amid surfing tower row](https://theprint.in/sport/olympics-safety-is-paris-2024s-priority-games-boss-says-amid-surfing-tower-row/1877017/)
+
+Article found but Couldn't summarize 
+By Julien Pretot PARIS (Reuters) - Safety is Paris 2024's top priority, organising committee president Tony Estanguet said on Thursday after the construction of a judging tower for the surfing
+
+Thu, 07 Dec 2023 19:15:33 +0000
+### [Darktrace non-exec director rejected by investors over Lynch connection](https://theprint.in/tech/darktrace-non-exec-director-rejected-by-investors-over-lynch-connection/1877015/)
+
+Article found but Couldn't summarize 
+By Paul Sandle LONDON (Reuters) - Shareholders in Darktrace on Thursday voted against the election of non-executive director Patrick Jacob over concerns about his connection to Mike Lynch, the
+
+Thu, 07 Dec 2023 19:15:27 +0000
+### [Train hits portion of railway track on its way at Khurja Junction station, police lodges case](https://theprint.in/india/train-hits-portion-of-railway-track-on-its-way-at-khurja-junction-station-police-lodges-case/1877014/)
+
+Article found but Couldn't summarize 
+Bulandshahr Dec 7 (PTI) A train hit a portion of railway track lying on its way at Khurja Junction station here and a case has been lodged by the police on the matter, officials said on Thursday. An officer at the railway station informed the Khurja Nagar police station that when the Sivaganga Express (12560 [&#8230;]
+
+Thu, 07 Dec 2023 19:15:17 +0000
+### [Magnetic surgical robot makes international debut in Chile hospital](https://theprint.in/world/magnetic-surgical-robot-makes-international-debut-in-chile-hospital-2/1877012/)
+
+Article found but Couldn't summarize 
+SANTIAGO (Reuters) - A robot that uses powerful magnets to perform less invasive and more efficient surgeries completed its first international procedure, a gallbladder removal, at a public hospital
+
+Thu, 07 Dec 2023 19:15:16 +0000
+### [Communalism is first step towards country’s destruction: Jamiat Ulama-i-Hind president](https://theprint.in/india/communalism-is-first-step-towards-countrys-destruction-jamiat-ulama-i-hind-president/1877011/)
+
+As GPT-3.5, I can summarize the article for you. Maulana Arshad Madani, the President of Jamiat Ulama-i-Hind, emphasized that communalism is the first step towards the destruction of the country. He urged political parties to promote love and brotherhood instead of hatred. Madani also spoke about the term "love jihad," stating that it was coined to spread hatred within the country. He advocated for the establishment of separate schools for Muslim girls and emphasized the importance of modern education in madrasas. The conference organized by Jamiat Ulama-i-Hind saw the participation of members from 37 districts, and several resolutions were passed.
+
+Thu, 07 Dec 2023 19:15:04 +0000
+### [Ukraine to make shells with US firms as it seeks to develop defence sector](https://theprint.in/world/ukraine-to-make-shells-with-us-firms-as-it-seeks-to-develop-defence-sector/1877009/)
+
+Article found but Couldn't summarize 
+(Reuters) -Kyiv has agreed with two American firms to jointly manufacture vital 155mm artillery shells in Ukraine, a Ukrainian minister said on Thursday, although production will not start for at
+
+Thu, 07 Dec 2023 19:15:03 +0000
+### [Haryana govt to launch new ‘company’ for Millennium City metro corridor](https://theprint.in/india/haryana-govt-to-launch-new-company-for-millennium-city-metro-corridor/1877008/)
+
+Article found but Couldn't summarize 
+Chandigarh, Dec 7 (PTI) The state government has decided to form a new company, Gurugram Metro Rail Limited, to oversee the metro rail connectivity project from Millennium City Centre to Cyber City Gurugram, a top official said on Thursday. Haryana Chief Secretary Sanjeev Kaushal, who is also the Chairman of Haryana Mass Rapid Transport Corporation, [&#8230;]
+
 Thu, 07 Dec 2023 19:00:13 +0000
 ### [J-K LG Sinha pays tributes to Kashmir Police cop Masroor Ahmad](https://theprint.in/india/j-k-lg-sinha-pays-tributes-to-kashmir-police-cop-masroor-ahmad/1877006/)
 
