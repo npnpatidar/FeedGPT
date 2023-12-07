@@ -1,3 +1,9 @@
+Thu, 07 Dec 2023 10:04:14 +0530
+### [Google launches Gemini, an AI chatbot that they claim is way better than ChatGPT](https://www.firstpost.com/tech/news-analysis/google-launches-gemini-an-ai-chatbot-that-they-claim-is-way-better-than-chatgpt-13475302.html)
+
+Article found but Couldn't summarize 
+Google launches Gemini, an AI chatbot that they claim is way better than ChatGPT
+
 Wed, 06 Dec 2023 17:28:48 +0530
 ### [China claims to have developed 'most powerful' microwave weapon for drones, can jam comms for miles](https://www.firstpost.com/tech/china-claims-to-have-developed-most-powerful-microwave-weapon-for-drones-can-jam-comms-for-miles-13473632.html)
 

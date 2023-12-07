@@ -1,3 +1,15 @@
+2023-12-07T10:24:18+05:30
+### [UN Chief Invokes Little-Used UN Charter Article to Demand Ceasefire in Gaza](https://thewire.in/world/un-chief-invokes-little-used-un-charter-article-to-demands-ceasefire-in-gaza)
+
+No Article text 
+"We are facing a severe risk of collapse of the humanitarian system. The situation is fast deteriorating into a catastrophe with potentially irreversible implications for Palestinians as a whole and for peace and security in the region," Guterres wrote in a letter to the 15-member Security Council.
+
+2023-12-07T09:55:28+05:30
+### [Karnataka CM Seeks Clarification on Rs 798.03 Crore IGST Deduction; Revenue Minister Raises Alarm](https://thewire.in/government/karnataka-cm-seeks-clarification-on-rs-798-03-crore-igst-deduction-revenue-minister-raises-alarm)
+
+No Article text 
+Siddaramaiah also expressed the need for a phased-deduction approach, proposing 10 instalments to address the impact on the state's finances.
+
 2023-12-07T09:09:56+05:30
 ### [Parliament Passed Two Important Laws on J&K. Here's What They Will Do.](https://thewire.in/government/parliament-passed-two-important-laws-on-jk-heres-what-they-will-do)
 

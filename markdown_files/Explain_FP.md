@@ -1,3 +1,15 @@
+Thu, 07 Dec 2023 10:33:59 +0530
+### [Vivek Ramaswamy leads, Nikki Haley targeted: Takeaways from 4th Republican presidential debate](https://www.firstpost.com/explainers/vivek-ramaswamy-leads-nikki-haley-targeted-takeaways-from-4th-republican-presidential-debate-13475352.html)
+
+Article found but Couldn't summarize 
+Vivek Ramaswamy leads, Nikki Haley targeted: Takeaways from 4th Republican presidential debate
+
+Thu, 07 Dec 2023 10:33:06 +0530
+### [Revealed: Why Pranab Mukherjee was ‘disappointed’ with Rahul Gandhi](https://www.firstpost.com/explainers/pranab-mukherjee-disappointed-with-rahul-gandhi-sonia-gandhi-sharmishtha-mukherjee-book-13475282.html)
+
+Article found but Couldn't summarize 
+Revealed: Why Pranab Mukherjee was ‘disappointed’ with Rahul Gandhi
+
 Thu, 07 Dec 2023 09:40:38 +0530
 ### [OpenAI is making artificial intelligence that's good at maths. Here's why that's significant](https://www.firstpost.com/explainers/openai-is-making-artificial-intelligence-thats-good-at-maths-heres-why-thats-significant-13474842.html)
 

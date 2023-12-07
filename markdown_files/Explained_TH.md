@@ -1,3 +1,9 @@
+Thu, 07 Dec 2023 10:30:00 +0530
+### [The role of special inquiry committees of Parliament | Explained](https://www.thehindu.com/news/national/the-role-of-special-inquiry-committees-of-parliament-explained/article67612267.ece)
+
+Article found but Couldn't summarize 
+Why is TMC MP Mahua Moitra facing an inquiry by the ethics committee of Parliament?
+
 Wed, 06 Dec 2023 23:10:32 +0530
 ### [Navigating the U.S.-China relationship | Explained](https://www.thehindu.com/news/international/navigating-the-us-china-relationship-explained/article67612251.ece)
 

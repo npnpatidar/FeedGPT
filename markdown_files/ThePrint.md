@@ -1,3 +1,121 @@
+Thu, 07 Dec 2023 05:17:50 +0000
+### [AI Adoption among Software Testers at 78 per cent, reliability and skill gap the biggest challenges](https://theprint.in/ani-press-releases/ai-adoption-among-software-testers-at-78-per-cent-reliability-and-skill-gap-the-biggest-challenges/1875696/)
+
+Article found but Couldn't summarize 
+PRNewswire Noida (Uttar Pradesh) [India]/San Francisco (California) [US], December 7: A new &#8220;Future of Quality Assurance 2023&#8221; study by LambdaTest of 1,615 software testing professionals from 70 different countries has shed new light on software testing practices in 2023, including finding that 78% have already adopted AI in their workflows. LambdaTest&#8217;s new research has also [&#8230;]
+
+Thu, 07 Dec 2023 05:17:01 +0000
+### [Supermicro Extends AI and GPU Rack Scale Solutions with Support for AMD Instinct MI300 Series Accelerators](https://theprint.in/ani-press-releases/supermicro-extends-ai-and-gpu-rack-scale-solutions-with-support-for-amd-instinct-mi300-series-accelerators/1875693/)
+
+Article found but Couldn't summarize 
+PRNewswire San Jose (California) [US], December 7: Supermicro, Inc. (NASDAQ: SMCI), a Total IT Solution Manufacturer for AI, Cloud, Storage, and 5G/Edge, is announcing three new additions to its AMD-based H13 generation of GPU Servers, optimized to deliver leading-edge performance and efficiency, powered by the new AMD Instinct MI300 Series accelerators. Supermicro&#8217;s powerful rack scale [&#8230;]
+
+Thu, 07 Dec 2023 05:15:24 +0000
+### [KIFF pays tribute to maestro Mrinal Sen on his birth centenary year](https://theprint.in/feature/kiff-pays-tribute-to-maestro-mrinal-sen-on-his-birth-centenary-year/1875691/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 7 (PTI) The landline telephone used by auteur Mrinal Sen, his favourite chair, the fountain pen he used to jot down scripts and film posters are prominently displayed at the exhibition &#8216;Mrinal Sen: The Maverick&#8217; at the 29th Kolkata International Film Festival (KIFF) on his birth centenary year. The exhibition having sections like [&#8230;]
+
+Thu, 07 Dec 2023 05:15:23 +0000
+### [Analysis-Nuclear sector must overcome decades of stagnation to meet COP28 tripling goal](https://theprint.in/environment/analysis-nuclear-sector-must-overcome-decades-of-stagnation-to-meet-cop28-tripling-goal/1875690/)
+
+Article found but Couldn't summarize 
+By David Stanway and Timothy Gardner DUBAI (Reuters) - The global nuclear industry got a morale boost at the COP28 climate summit in Dubai after more than 20 nations vowed to triple capacity by 2050.
+
+Thu, 07 Dec 2023 05:15:13 +0000
+### [Intermittent rain hampers normal life in Kolkata and south Bengal districts](https://theprint.in/india/intermittent-rain-hampers-normal-life-in-kolkata-and-south-bengal-districts/1875688/)
+
+The denizens of Kolkata and neighboring districts in south Bengal experienced intermittent rain and chilly wind on Thursday morning, causing inconvenience in their daily lives. The Meteorological Department predicts a generally cloudy sky with light to moderate rain in eastern India until Friday morning, as cyclonic storm Michaung weakens into a less marked low-pressure area over Chhattisgarh. This was the first sign of winter for the region. Some areas in the city and Salt Lake faced traffic snarls, making it difficult for people to reach their workplaces. The minimum temperature in Kolkata was above normal at 19.9 degrees Celsius due to the cloudy conditions, but the maximum temperature is expected to be well below normal due to the weather conditions.
+
+Thu, 07 Dec 2023 05:15:07 +0000
+### [Japan financial diplomat Kanda: ASEAN+3 agree on new lending facility](https://theprint.in/world/japan-financial-diplomat-kanda-asean3-agree-on-new-lending-facility/1875687/)
+
+Article found but Couldn't summarize 
+TOKYO (Reuters) - Deputies of the ASEAN+3 group of nations agreed on Thursday to the establishment of a new regional lending facility to respond to emergencies in the region, Japan's Vice Finance
+
+Thu, 07 Dec 2023 05:15:02 +0000
+### [Congress take swipe at BJP for not announcing CMs in three states yet](https://theprint.in/india/congress-take-swipe-at-bjp-for-not-announcing-cms-in-three-states-yet/1875686/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) The Congress on Thursday took a swipe at the BJP over it not announcing the chief ministers in the three states it won in the recent assembly polls and asked why the party was not being called out for &#8220;what is actually a delay&#8221;. In a post on X, Congress [&#8230;]
+
+Thu, 07 Dec 2023 05:11:31 +0000
+### [‘Hindu Rashtra’ dream, BJP leaders at his satsangs — how an MP ‘baba’ is gaining ground in Maharashtra](https://theprint.in/india/hindu-rashtra-dream-bjp-leaders-at-his-satsangs-how-an-mp-baba-is-gaining-ground-in-maharashtra/1873990/)
+
+Article found but Couldn't summarize 
+Bageshwar Dham head has often been in news for his remarks, be it about Sant Tukaram &#038; Sai Baba.  That hasn't stopped BJP leaders from playing host to him.
+
+Thu, 07 Dec 2023 05:02:33 +0000
+### [CSA and LootMogul launch tech revolution in cricket experience](https://theprint.in/ani-press-releases/csa-and-lootmogul-launch-tech-revolution-in-cricket-experience/1875677/)
+
+Article found but Couldn't summarize 
+PRNewswire Mumbai (Maharashtra) [India], December 7: Cricket South Africa (CSA) is thrilled to announce a transformative partnership with LootMogul, a pioneering sports technology platform, marking a significant milestone in CSA&#8217;s journey towards digital innovation in sports. This collaboration is a testament to CSA&#8217;s commitment to harnessing the potential of technology to revolutionise the cricket experience [&#8230;]
+
+Thu, 07 Dec 2023 05:02:23 +0000
+### [Rewards Beyond Borders: utu and Enrich, the Loyalty programme of Malaysia Airlines enable Enrich Members to earn Enrich points through VAT Refunds](https://theprint.in/ani-press-releases/rewards-beyond-borders-utu-and-enrich-the-loyalty-programme-of-malaysia-airlines-enable-enrich-members-to-earn-enrich-points-through-vat-refunds/1875675/)
+
+Article found but Couldn't summarize 
+PRNewswire Kuala Lumpur [Malaysia], December 7: Enrich, the Travel and Lifestyle Loyalty programme of Malaysia Airlines has entered a partnership with utu, a travel tech company to provide its members with up to 40% additional Enrich Points through tax refunds on tax-free purchases made during international travel. This marks an exciting headway in the travel [&#8230;]
+
+Thu, 07 Dec 2023 05:02:13 +0000
+### [Brokerages bullish on Paytm stock as company expands loan portfolio](https://theprint.in/economy/brokerages-bullish-on-paytm-stock-as-company-expands-loan-portfolio/1875673/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 7 (ANI): Paytm has garnered positive ratings from major brokerage firms following its recent announcement to expand its business into offering higher ticket personal and merchant loans. Brokerages, including Bank of America (BofA), JM Financial Services, Jefferies, Motilal Oswal Financial Services, and Dolat, have maintained a &#8216;buy&#8217; rating on Paytm stock, [&#8230;]
+
+Thu, 07 Dec 2023 05:02:02 +0000
+### [Automation Anywhere Announces Collaboration Agreement with AWS to Expand Generative AI Solution Availability for Customers](https://theprint.in/ani-press-releases/automation-anywhere-announces-collaboration-agreement-with-aws-to-expand-generative-ai-solution-availability-for-customers/1875671/)
+
+Article found but Couldn't summarize 
+PRNewswire San Jose (California) [US], December 7: Automation Anywhere, a leader in intelligent automation that puts artificial intelligence (AI) to work across every aspect of an organization, today announced that it has entered into a multi-year Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS). The SCA enhances Automation Anywhere&#8217;s industry-leading expertise in generative AI [&#8230;]
+
+Thu, 07 Dec 2023 05:01:36 +0000
+### [Commonwealth releases ‘military justice principles’, 2 Indians among 15 experts who drafted rules](https://theprint.in/world/commonwealth-releases-military-justice-principles-2-indians-among-15-experts-who-drafted-rules/1875590/)
+
+Article found but Couldn't summarize 
+'Stellenbosch Draft' draft seeks to 'reiterate' importance of 'independent &#38; competent' legal system. Expert panel included Indian lawyers Major Navdeep Singh (retd) and Aishwarya Bhati.
+
+Thu, 07 Dec 2023 05:00:27 +0000
+### [Insults fly as Haley’s rise makes her target at U.S. Republican debate](https://theprint.in/world/insults-fly-as-haleys-rise-makes-her-target-at-u-s-republican-debate/1875665/)
+
+Article found but Couldn't summarize 
+By Gram Slattery and Joseph Ax TUSCALOOSA, Alabama (Reuters) -Former U.N. Ambassador Nikki Haley was the subject of repeated attacks during Wednesday's Republican presidential debate, as Florida
+
+Thu, 07 Dec 2023 05:00:03 +0000
+### [Indian shares fall as sustained rally comes to a pause](https://theprint.in/india/indian-shares-fall-as-sustained-rally-comes-to-a-pause/1875663/)
+
+Article found but Couldn't summarize 
+By Bharath Rajeswaran BENGALURU (Reuters) -India's benchmark indexes fell on Thursday, dragged by financials in a consolidation of sorts after rising for seven consecutive sessions and hitting fresh
+
+Thu, 07 Dec 2023 05:00:03 +0000
+### [Two killed after car collides with truck in Karnataka](https://theprint.in/india/two-killed-after-car-collides-with-truck-in-karnataka/1875662/)
+
+Article found but Couldn't summarize 
+Belagavi, Dec 7 (PTI) Two people, including a girl, were charred to death while as many sustained serious injuries when the car they were travelling in collided with a truck before catching fire in the district early on Thursday. According to police, Mohan Maruti Belgaumkar (24) and Sameeksha Divekar (12) died on the spot. They [&#8230;]
+
+Thu, 07 Dec 2023 04:59:17 +0000
+### [Three SC judges are set to retire by May 2024. Here are the key cases pending their decisions](https://theprint.in/judiciary/three-sc-judges-are-set-to-retire-by-may-2024-here-are-the-key-cases-pending-their-decisions/1874408/)
+
+Article found but Couldn't summarize 
+From abrogation of Article 370 to whether there should be sub-quotas in the SC/ST reservation, Justices S.K. Kaul, Aniruddha Bose, &#038; A.S. Bopanna have several cases pending before them.
+
+Thu, 07 Dec 2023 04:47:11 +0000
+### [Benjamin Netanyahu says ‘only matter of time’ before Hamas chief found](https://theprint.in/world/benjamin-netanyahu-says-only-matter-of-time-before-hamas-chief-found/1875651/)
+
+Israeli Prime Minister Benjamin Netanyahu has clarified two points in a statement. Firstly, he mentioned that the Israeli Defense Forces have surrounded the area in southern Gaza where Hamas leader Yahya Sinwar was believed to be located. Netanyahu emphasized that Sinwar's home is not a safe haven, suggesting that it is only a matter of time before he is found, even if he attempts to flee. Secondly, Netanyahu expressed the need to get the Red Cross to visit Israeli hostages held in Gaza. He suggested that the Red Cross should reach out to Qatar, as they have influence over Hamas, and request visits and provisions of medicine for the hostages.
+
+Thu, 07 Dec 2023 04:47:01 +0000
+### [90 per cent drop in visitor arrivals to Israel in November](https://theprint.in/world/90-per-cent-drop-in-visitor-arrivals-to-israel-in-november/1875649/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], December 7 (ANI/TPS): Israel&#8217;s Central Bureau of Statistics released the data on the total number of people who arrived in Israel from abroad in November of 2023. Due to the war in Gaza, there was more than a 90 per cent drop in the number of tourists who entered Israel from November [&#8230;]
+
+Thu, 07 Dec 2023 04:45:14 +0000
+### [Minor fire breaks out in one coach of Bhubaneswar-Howrah Jan Shatabdi Express at Cuttack station](https://theprint.in/india/minor-fire-breaks-out-in-one-coach-of-bhubaneswar-howrah-jan-shatabdi-express-at-cuttack-station/1875648/)
+
+Article found but Couldn't summarize 
+Bhubaneswar, Dec 7 (PTI) A minor fire broke out in one of the coaches of Bhubaneswar-Howrah Jan Shatabdi Express at Cuttack railway station on Thursday morning, railway officials said. The fire was doused immediately, they said. As smoke emanated from the bottom part of the coach, passengers deboarded the coach. No one was hurt in [&#8230;]
+
 Thu, 07 Dec 2023 04:17:12 +0000
 ### [US-made weapons guidance system used in two Israeli airstrikes in Gaza: Amnesty International](https://theprint.in/world/us-made-weapons-guidance-system-used-in-two-israeli-airstrikes-in-gaza-amnesty-international/1875635/)
 

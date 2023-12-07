@@ -1,3 +1,9 @@
+Thu, 07 Dec 2023 10:00:17 +0530
+### [Government’s capex push and L&amp;T’s engineering prowess prove a winning formula](https://www.livemint.com/opinion/online-views/governments-capex-push-and-l-t-s-engineering-prowess-prove-a-winning-formula-11701855968557.html)
+
+Article found but Couldn't summarize 
+L&amp;amp;T has become the top player in practically every sector in which it operates, and should hit new heights if the government continues to push for more infrastructure
+
 Thu, 07 Dec 2023 08:00:14 +0530
 ### [Auto sector: A vroom story with room for more](https://www.livemint.com/opinion/quick-edit/auto-sector-a-vroom-story-with-room-for-more-11701877326893.html)
 
