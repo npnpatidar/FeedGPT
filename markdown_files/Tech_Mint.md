@@ -1,3 +1,20 @@
+Thu, 07 Dec 2023 14:38:52 +0530
+### [Searching for best game console? Choose from 8 top picks and enjoy gaming](https://www.livemint.com/technology/gadgets/searching-for-best-game-console-choose-from-8-top-picks-and-enjoy-gaming-11701930123583.html)
+
+Article found but Couldn't summarize 
+Game consoles are extremely popular among people who are constantly looking for more ways to experience the gaming industry. We bring you the 8 best game consoles that you can bring home, and enjoy a plethora of games at your home. Check out the best picks and start gaming.
+
+Thu, 07 Dec 2023 14:37:00 +0530
+### [10 best fridge in India with less than 200L capacity](https://www.livemint.com/technology/gadgets/10-best-fridge-in-india-with-less-than-200l-capacity-11701930075479.html)
+
+Article found but Couldn't summarize 
+Explore 10 of the best fridges in India under 200L, focusing on models with advanced fridge stabilizers, key for maintaining efficiency in these compact yet powerful units.
+
+Thu, 07 Dec 2023 14:21:31 +0530
+### [Realme GT 5 Pro with Snapdragon 8 Gen 3 launched. Check full specs, pricing and more](https://www.livemint.com/technology/gadgets/realme-gt-5-pro-with-snapdragon-8-gen-3-launched-check-full-specs-pricing-and-more-11701935543875.html)
+
+Realme has launched the Realme GT 5 Pro in China, featuring Qualcomm's latest Snapdragon 8 Gen 3 chipset. The smartphone boasts a 6.78-inch curved OLED display with a peak brightness of 4,500 nits and an adaptive refresh rate of up to 144Hz. It also includes an Adreno 750 GPU for graphics-intensive tasks. The Realme GT 5 Pro comes with a 50MP primary camera with optical image stabilization (OIS), a 50MP secondary camera with OIS and EIS, and an 8MP ultra-wide-angle sensor. It is powered by a 5,400 mAh battery that supports fast charging via a 100W wired charger and a 50W wireless charger. The device runs on Realme UI 5.0 based on Android 14 and is available in three color options. The pricing starts at 3,399 Yuan for the 12GB RAM/256GB storage variant.
+
 Thu, 07 Dec 2023 13:13:41 +0530
 ### [Apple reportedly plans to launch new iPads and MacBook Air. Check expected specs and pricing](https://www.livemint.com/technology/gadgets/apple-plans-to-launch-ipads-and-macbook-air-check-expected-specs-and-pricing-11701933234892.html)
 

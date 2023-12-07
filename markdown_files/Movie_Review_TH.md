@@ -1,3 +1,8 @@
+Thu, 07 Dec 2023 14:38:37 +0530
+### [‘The Archies’ movie review: Too basic, but the kids are all right](https://www.thehindu.com/entertainment/movies/the-archies-movie-review-too-basic-but-the-kids-are-all-right/article67613917.ece)
+
+The article discusses the Indian adaptation of Archie Comics, titled "The Archies," directed by Zoya Akhtar. The film features Suhana Khan and Khushi Kapoor as they make their debut in Bollywood. The article highlights the challenge faced by the creators, as the Indian audience is already familiar with the Archie setup due to previous adaptations like "Riverdale." The film is set in an idyllic hill station in 1960s India and revolves around a love triangle between Archie Andrews, Betty Cooper, and Veronica Lodge. The story follows the characters as they come of age and join forces to save their town. The article praises certain moments and performances in the film but criticizes its nostalgic and simplistic approach. Despite being visually pleasing, the film fails to live up to the director's previous work. Overall, the article suggests that "The Archies" can be enjoyed as a cozy Christmas watch but falls short of expectations.
+
 Thu, 07 Dec 2023 13:38:18 +0530
 ### [‘Hi Nanna’ movie review: A reaffirming story of love that conquers everything](https://www.thehindu.com/entertainment/movies/hi-nanna-telugu-movie-review-a-reaffirming-story-of-love-that-conquers-everything/article67613784.ece)
 

@@ -1,3 +1,16 @@
+Thu, 07 Dec 2023 08:55:14 +0000
+### [Who is a citizen, who is an ‘illegal immigrant’: Questions before SC in Assam Citizenship Act case](https://indianexpress.com/article/explained/explained-law/supreme-court-assam-citizenship-act-6a-9058138/)
+
+A five-judge Constitution bench of the Supreme Court began hearing pleas challenging Section 6A of the Citizenship Act, which was introduced following the signing of the Assam Accord in 1985. The Accord was signed between the Rajiv Gandhi government and the All Assam Students' Union to address concerns about migrants from Bangladesh entering Assam. The ongoing hearing involves questions of citizenship, "illegal immigrants," and the rights of indigenous Assamese citizens.
+
+The challenge before the Constitutional bench questions one of the core elements of the Assam Accord, which determines who is considered a foreigner in the state. Section 6A of the Citizenship Act was inserted as an amendment to accommodate this, establishing March 24, 1971 as the cut-off date for entry into the state. Those entering after that date would be considered "illegal immigrants." The plea before the bench seeks to establish 1951 as the cut-off date instead of 1971 and argues that Section 6A is discriminatory and violative of the rights of indigenous Assamese people.
+
+The petitioners argue that the application of Section 6A has led to a change in the demographic pattern of Assam and reduced the people of Assam to a minority in their own state. They claim this is detrimental to the economic and political well-being of the state and acts against the cultural survival, political control, and employment opportunities of the people.
+
+The final National Register of Citizens (NRC) in Assam, published in 2019, became a point of contention. The Assam Sanmilita Mahasangha (ASM), the primary petitioner, referred to an order by a two-judge bench led by then Chief Justice of India Ranjan Gogoi, suggesting that the NRC could be updated according to their requested terms.
+
+The constitutional issues involved in the case were framed by a two-judge bench in 2014, consisting of 13 questions on Section 6A for deliberation by a constitutional bench. The outcome of the ongoing hearing will have implications for citizenship, illegal immigration, and the rights of indigenous Assamese people in Assam.
+
 Thu, 07 Dec 2023 06:20:39 +0000
 ### [How Google DeepMind’s AI breakthrough could revolutionise chip, battery development](https://indianexpress.com/article/explained/explained-sci-tech/google-deepminds-ai-breakthrough-chip-battery-development-9057935/)
 

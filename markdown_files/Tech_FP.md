@@ -1,3 +1,9 @@
+Thu, 07 Dec 2023 14:01:43 +0530
+### [Meta starts end-to-end encryption across Messenger, Facebook, UK law enforcement not happy](https://www.firstpost.com/tech/meta-starts-end-to-end-encryption-across-messenger-facebook-uk-law-enforcement-not-happy-13476902.html)
+
+Article found but Couldn't summarize 
+Meta starts end-to-end encryption across Messenger, Facebook, UK law enforcement not happy
+
 Thu, 07 Dec 2023 13:15:24 +0530
 ### [US Senator accuses several world leaders of spying on Apple, Google users through notifications](https://www.firstpost.com/tech/us-senator-accuses-several-world-leaders-of-spying-on-apple-google-users-through-notifications-13476512.html)
 

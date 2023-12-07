@@ -5,6 +5,16 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Tech_FP.xml</link>
 		<description>Tech FP</description>
 		<item>
+			<title>Meta starts end-to-end encryption across Messenger, Facebook, UK law enforcement not happy</title>
+			<link>https://www.firstpost.com/tech/meta-starts-end-to-end-encryption-across-messenger-facebook-uk-law-enforcement-not-happy-13476902.html</link>
+			<description>Article found but Couldn't summarize 
+Meta starts end-to-end encryption across Messenger, Facebook, UK law enforcement not happy</description>
+			<pubDate>Thu, 07 Dec 2023 14:01:43 +0530</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/12/Meta-starts-end-to-end-encryption-across-Messenger-Facebook-UK-law-enforcement-not-happy.jpg"></media:thumbnail>
+			<media:content url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/12/Meta-starts-end-to-end-encryption-across-Messenger-Facebook-UK-law-enforcement-not-happy.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>US Senator accuses several world leaders of spying on Apple, Google users through notifications</title>
 			<link>https://www.firstpost.com/tech/us-senator-accuses-several-world-leaders-of-spying-on-apple-google-users-through-notifications-13476512.html</link>
 			<description>US Senator Ron Wyden has issued a warning about unidentified governments conducting surveillance on smartphone users through push notifications on various apps. In a letter to the Department of Justice, Wyden expressed concern that foreign officials were compelling Google and Apple to provide data, enabling governments to monitor smartphone activity. Push notifications, which alert users to incoming messages and updates, travel through Google and Apple's servers, giving these companies access to valuable user data. Senator Wyden called on the Department of Justice to address policies hindering public discussions on this form of spying. Both Apple and Google have acknowledged the concerns and expressed support for informing users about government requests related to push notifications. The extent and duration of this surveillance remain unclear, but privacy implications have been raised.</description>

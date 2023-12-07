@@ -1,3 +1,122 @@
+Thu, 07 Dec 2023 09:17:02 +0000
+### [Gem Tunes Unveils Historic Collaboration: Rao Inderjeet Singh and Khesari Lal Yadav Set to Redefine Regional Music with ‘Balam’](https://theprint.in/ani-press-releases/gem-tunes-unveils-historic-collaboration-rao-inderjeet-singh-and-khesari-lal-yadav-set-to-redefine-regional-music-with-balam/1876068/)
+
+Article found but Couldn't summarize 
+PNN New Delhi [India], December 7: In a groundbreaking move, Gem Tunes, a prominent player in the music industry, has announced a historic collaboration between Rao Inderjeet Singh, the visionary owner of Gem Tunes, and Khesari Lal Yadav, a powerhouse in the Bhojpuri music scene. This collaboration, set to debut with the song &#8220;Balam&#8221; on [&#8230;]
+
+Thu, 07 Dec 2023 09:16:23 +0000
+### [IAF helicopter makes precautionary landing in field in Haryana’s Yamunanagar](https://theprint.in/india/iaf-helicopter-makes-precautionary-landing-in-field-in-haryanas-yamunanagar/1876067/)
+
+Article found but Couldn't summarize 
+Chandigarh, Dec 7 (PTI) An Indian Air Force helicopter on a routine training mission made a &#8220;precautionary landing&#8221; in a field in Haryana&#8217;s Yamunanagar district on Thursday due to technical reasons, an official statement said. No casualty or damage to property was reported in the incident, it said. &#8220;A Cheetah helicopter of the IAF on [&#8230;]
+
+Thu, 07 Dec 2023 09:16:09 +0000
+### [Police in Canada evacuate Hindi moviegoers at three theatres after unknown substance sprayed into air](https://theprint.in/feature/police-in-canada-evacuate-hindi-moviegoers-at-three-theatres-after-unknown-substance-sprayed-into-air/1876066/)
+
+Article found but Couldn't summarize 
+Toronto, Dec 7 (PTI) Several moviegoers in three different Greater Toronto Area regions in Canada were evacuated and some were treated for exposure to an unknown substance sprayed by masked men in theatres playing Hindi movies earlier this week, according to police and media reports. One such incident happened around 9:20 p.m. on Tuesday at [&#8230;]
+
+Thu, 07 Dec 2023 09:15:52 +0000
+### [Climate change could melt frozen methane from deep ocean waters, research finds](https://theprint.in/india/climate-change-could-melt-frozen-methane-from-deep-ocean-waters-research-finds/1876065/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) Climate change could melt the frozen methane trapped under oceans, releasing the potent greenhouse gas, methane, into these water bodies, researchers have found. They said that as frozen methane and ice melted, methane moved from the deepest parts of the continental slope to the edge of the underwater shelf. The [&#8230;]
+
+Thu, 07 Dec 2023 09:15:38 +0000
+### [Chaos in West Bengal assembly as TMC protests Giriraj’s remarks on Mamata](https://theprint.in/india/chaos-in-west-bengal-assembly-as-tmc-protests-girirajs-remarks-on-mamata/1876064/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 7 (PTI) Chaos reigned supreme at the West Bengal assembly on Thursday as the MLAs of the ruling TMC protested against the remarks made by Union Minister Giriraj Singh on Chief Minister Mamata Banerjee. Soon after the Question Hour, Woman and Child Development Minister Shashi Panja raised the issue in the House. Maintaining [&#8230;]
+
+Thu, 07 Dec 2023 09:15:26 +0000
+### [Boy kills 8-year-old girl for teasing him; held along with his father](https://theprint.in/india/boy-kills-8-year-old-girl-for-teasing-him-held-along-with-his-father/1876063/)
+
+Article found but Couldn't summarize 
+Palghar, Dec 7 (PTI) A teenage boy allegedly killed an eight-year-old girl, who was his next-door neighbour in Palghar district of Maharashtra, as he was miffed with her for teasing him, police said. The incident occurred on December 1 at a chawl in Pelhar village and the crime came to light after the girl&#8217;s body [&#8230;]
+
+Thu, 07 Dec 2023 09:15:21 +0000
+### [Disasters caused $100 billion in insured losses in 2023, Swiss Re says](https://theprint.in/environment/disasters-caused-100-billion-in-insured-losses-in-2023-swiss-re-says/1876062/)
+
+Article found but Couldn't summarize 
+FRANKFURT (Reuters) - Earthquakes in Turkey and Syria, wildfires in Hawaii and other natural catastrophes have caused an estimated $100 billion in insured losses so far in 2023, down from the previous
+
+Thu, 07 Dec 2023 09:15:15 +0000
+### [Action will be taken if Marathi films are denied theatres: Fadnavis tells legislative council](https://theprint.in/feature/action-will-be-taken-if-marathi-films-are-denied-theatres-fadnavis-tells-legislative-council/1876061/)
+
+The Deputy Chief Minister of Maharashtra, Devendra Fadnavis, has stated that legal action will be taken against theaters in the state if they refuse to screen Marathi films. The issue was raised by BJP's Pravin Darekar, who mentioned that the newly released Marathi film "Ekda Yeun Tar Bagha" was struggling to find cinema halls. Fadnavis assured that necessary legal measures will be taken if Marathi films are unable to secure screenings in Maharashtra. In addition, the Leader of Opposition, Ambadas Danve, raised concerns about shade-nets used by farmers, which often get damaged without compensation. Fadnavis mentioned that Chief Minister Eknath Shinde had already given instructions to address this issue. The legislative council adjourned after passing condolence motions. This report is auto-generated from PTI news service and ThePrint disclaims responsibility for its content.
+
+Thu, 07 Dec 2023 09:15:04 +0000
+### [Exclusive-50 days in Hamas captivity: Thai man recalls beatings and bleakness](https://theprint.in/world/exclusive-50-days-in-hamas-captivity-thai-man-recalls-beatings-and-bleakness/1876059/)
+
+Article found but Couldn't summarize 
+By Napat Wesshasartar and Devjyot Ghoshal DON PILA, Thailand (Reuters) - When Thai farm labourer Anucha Angkaew scrambled out of the bunker where he had been sheltering from rockets on Israel's border
+
+Thu, 07 Dec 2023 09:15:02 +0000
+### [Probe panel constituted on US inputs as these have bearing on our national security: Jaishankar](https://theprint.in/india/probe-panel-constituted-on-us-inputs-as-these-have-bearing-on-our-national-security-jaishankar/1876058/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) India has constituted an inquiry committee to look into the inputs received from the US as these have a bearing on the country&#8217;s national security, External Affairs Minister S Jaishankar told the Rajya Sabha on Thursday, days after Washington alleged an Indian link to a foiled plot to kill a [&#8230;]
+
+Thu, 07 Dec 2023 09:02:32 +0000
+### [Russian senators set March 17 as date for next year’s presidential election](https://theprint.in/world/russian-senators-set-march-17-as-date-for-next-years-presidential-election/1876048/)
+
+Article found but Couldn't summarize 
+Moscow [Russia], December 7 (ANI): The Russian Federation Council unanimously agreed to officially designate March 17, 2024, as the date for next year&#8217;s presidential election at a plenary meeting on Thursday, Russian state-owned news agency TASS reported. The Federation Council, or Senate, is the upper house of the Federal Assembly of Russia. The Senate stated [&#8230;]
+
+Thu, 07 Dec 2023 09:02:23 +0000
+### [Jessel Taank wants a “spoiled brat” like Nicky Hilton to join ‘RHONY’](https://theprint.in/feature/jessel-taank-wants-a-spoiled-brat-like-nicky-hilton-to-join-rhony/1876046/)
+
+Article found but Couldn't summarize 
+Washington [US], December 7 (ANI): &#8216;The Real Housewives of New York City&#8217; star Jessel Taank opened up on whom she would like to see join the reality show, reported Page Six. &#8220;I would just like to see a spoiled brat &#8212; like an heiress &#8212; like Nicky Hilton,&#8221; said during an interview with Page Six&#8217;s [&#8230;]
+
+Thu, 07 Dec 2023 09:02:12 +0000
+### [Chandan Roy Sanyal’s directorial debut ‘Suzie Q’ to premiere at Kolkata International Film Festival](https://theprint.in/feature/chandan-roy-sanyals-directorial-debut-suzie-q-to-premiere-at-kolkata-international-film-festival/1876044/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 7 (ANI): Chandan Roy Sanyal&#8217;s directorial debut, &#8216;Suzie Q&#8217; has been selected to be showcased at the prestigious Kolkata International Film Festival (KIFF) 2023. The film is a journey of its lead character Suzie Q played by the versatile and acclaimed actress Parno Mittrah. Taking to Instagram, Chandan Roy Sanyal shared [&#8230;]
+
+Thu, 07 Dec 2023 09:02:01 +0000
+### [UK Defence Minister to visit Israel, West Bank to push humanitarian aid in Gaza](https://theprint.in/world/uk-defence-minister-to-visit-israel-west-bank-to-push-humanitarian-aid-in-gaza/1876042/)
+
+Article found but Couldn't summarize 
+Gaza Border [Israel], December 7 (ANI): British Defence Secretary Grant Shapps is set to visit Israel and the occupied West Bank this week to expedite humanitarian aid to Gaza, aiming to discuss direct aid delivery by sea during talks with Israeli and Palestinian leaders, CNN reported on Thursday. Shapps emphasised the search for the quickest [&#8230;]
+
+Thu, 07 Dec 2023 09:00:56 +0000
+### [Cricket-Rain washes out second day of Bangladesh v NZ test in Mirpur](https://theprint.in/sport/cricket-rain-washes-out-second-day-of-bangladesh-v-nz-test-in-mirpur/1876041/)
+
+Article found but Couldn't summarize 
+DHAKA (Reuters) - Unrelenting rain prompted match officials to call off the entire second day's play in the second test between Bangladesh and New Zealand on Thursday. Umpires waited until 2 p.m. (
+
+Thu, 07 Dec 2023 09:00:33 +0000
+### [Euro sags, yen jumps as investors bet on BOJ shift](https://theprint.in/economy/euro-sags-yen-jumps-as-investors-bet-on-boj-shift/1876039/)
+
+Article found but Couldn't summarize 
+By Amanda Cooper LONDON (Reuters) -The euro grazed a three-week low on Thursday, driven by mounting expectations that the European Central Bank (ECB) may cut rates as early as March, while the
+
+Thu, 07 Dec 2023 09:00:32 +0000
+### [Inter-caste marriages cannot be prevented, it’s part of change in our state: Kerala CM](https://theprint.in/india/inter-caste-marriages-cannot-be-prevented-its-part-of-change-in-our-state-kerala-cm/1876038/)
+
+Article found but Couldn't summarize 
+Kochi, Dec 7 (PTI) Kerala Chief Minister Pinarayi Vijayan on Thursday said if a young man and woman like each other and decide to get married, irrespective of their caste or faith, no one can prevent the union. Vijayan said there has always been opposition to such marriages from parents of either side or both [&#8230;]
+
+Thu, 07 Dec 2023 09:00:16 +0000
+### [Revanth Reddy sworn in as Telangana CM](https://theprint.in/india/revanth-reddy-sworn-in-as-telangana-cm/1876036/)
+
+Article found but Couldn't summarize 
+Hyderabad, Dec 7 (PTI) Congress legislature party leader A Revanth Reddy was on Thursday sworn in as Chief Minister of Telangana. Governor Tamilisai Soundararajan administered the oath of office and secrecy to Revanth Reddy. Besides Revanth Reddy, Mallu Bhatti Vikramarka (Deputy Chief Minister), N Uttam Kumar Reddy, Komatireddy Venkata Reddy, C Damodar Rajanarasimha, D Sridhar [&#8230;]
+
+Thu, 07 Dec 2023 09:00:16 +0000
+### [Russia kicks off presidential election campaign](https://theprint.in/world/russia-kicks-off-presidential-election-campaign/1876035/)
+
+Article found but Couldn't summarize 
+MOSCOW (Reuters) - Russia will hold a presidential election on March 17, 2024 at which President Vladimir Putin is likely to run for another term that could keep him in power until at least 2030. WHEN
+
+Thu, 07 Dec 2023 09:00:03 +0000
+### [Azerbaijan’s Aliyev calls snap presidential election for February](https://theprint.in/world/azerbaijans-aliyev-calls-snap-presidential-election-for-february/1876033/)
+
+Article found but Couldn't summarize 
+(Reuters) - Azerbaijani President Ilham Aliyev on Thursday called an early presidential election for Feb. 7, according to a document published by his office. Aliyev, 61, was last re-elected in 2018
+
 Thu, 07 Dec 2023 08:17:02 +0000
 ### [Abhasa Calls for More Drug Addiction Treatment Centers as India Faces Escalating Drug Abuse Crisis](https://theprint.in/ani-press-releases/abhasa-calls-for-more-drug-addiction-treatment-centers-as-india-faces-escalating-drug-abuse-crisis/1875976/)
 

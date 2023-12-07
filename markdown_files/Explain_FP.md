@@ -1,3 +1,21 @@
+Thu, 07 Dec 2023 14:37:57 +0530
+### [What is Indian Army’s new promotion policy?](https://www.firstpost.com/explainers/what-is-indian-armys-new-promotion-policy-13476782.html)
+
+Article found but Couldn't summarize 
+What is Indian Army’s new promotion policy?
+
+Thu, 07 Dec 2023 14:37:26 +0530
+### [Who is Samir Shah, the Indian-origin media executive to take over as BBC chairman?](https://www.firstpost.com/explainers/who-is-samir-shah-the-indian-origin-media-executive-to-take-over-as-bbc-chairman-13475982.html)
+
+Article found but Couldn't summarize 
+Who is Samir Shah, the Indian-origin media executive to take over as BBC chairman?
+
+Thu, 07 Dec 2023 13:58:08 +0530
+### [Google has launched its Gemini AI. Is it a ChatGPT killer?](https://www.firstpost.com/explainers/google-has-launched-its-gemini-ai-is-it-a-chatgpt-killer-13476872.html)
+
+Article found but Couldn't summarize 
+Google has launched its Gemini AI. Is it a ChatGPT killer?
+
 Thu, 07 Dec 2023 12:19:03 +0530
 ### [Why is FBI chief visiting India amid US allegations of foiled ‘plot to kill’ Pannun?](https://www.firstpost.com/explainers/why-is-fbi-chief-christopher-wray-visiting-india-amid-us-allegations-of-foiled-plot-to-kill-pannun-13475922.html)
 

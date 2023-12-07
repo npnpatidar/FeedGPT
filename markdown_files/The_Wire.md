@@ -1,3 +1,21 @@
+2023-12-07T14:30:55+05:30
+### [Do GDP Growth Figures Reflect Robustness or a Statistical Overstatement?](https://thewire.in/economy/gdp-growth-figures-robustness-or-statistical-overstatement)
+
+No Article text 
+Given the contrastingly frail household income situation, the continued slackness in private capex and deceleration in trade, the divergent core and headline real GDP growth are not trivial.
+
+2023-12-07T14:27:23+05:30
+### [Despite Higher Overall Vote, Congress Loses Three Hindi Belt States: What's The Way Forward?](https://thewire.in/politics/congress-vote-share-hindi-belt-losses-2024)
+
+No Article text 
+The nitty gritty lies in this: the point-counterpoint among INDIA partners must cease forthwith, and the business of putting heads together to formulate both a common agenda and an agreed seat-sharing format be accomplished.
+
+2023-12-07T14:00:05+05:30
+### [Congress Defeat Turns the Spotlight on INDIA's Resilience](https://thewire.in/politics/congress-defeat-turns-the-spotlight-on-indias-resilience)
+
+No Article text 
+It takes no time to announce a front, but it is much more difficult to keep it together. Having taken the lead in forming the INDIA alliance, Rahul and Kharge abandoned the idea soon, when the time came to demonstrate unity in the INDIA alliance.
+
 2023-12-07T13:30:37+05:30
 ### [Witnessing Palestine in New York – and Watching India's Moral Vision Disappear](https://thewire.in/world/witnessing-palestine-in-new-york-and-watching-indias-moral-vision-disappear)
 
