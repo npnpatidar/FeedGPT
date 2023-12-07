@@ -1,3 +1,21 @@
+2023-12-07T08:00:54+05:30
+### [Progressives Need To Stop Hectoring the INDIA Parties on What They Did and Did Not Do](https://thewire.in/politics/progressives-stop-hectoring-india-parties)
+
+No Article text 
+Those who believe in the promise of India's constitution should leave the nuts and bolts of electioneering to the professionals. It is worth reflecting on what can be collectively done in the national interest, rather than frittering away time in finger-pointing.
+
+2023-12-07T07:30:00+05:30
+### [Noam Chomsky at 95: One of the Greatest Living Challengers of Unjust Power and Delusions](https://thewire.in/world/noam-chomsky-at-95-challenger-unjust-power)
+
+No Article text 
+Celebrating the man whose life more than anyone else’s tells us what it takes to be human.
+
+2023-12-07T07:00:04+05:30
+### [Remembering Yusuf Meherally, a Prominent Freedom Fighter Largely Forgotten Today](https://thewire.in/history/remembering-yusuf-meherally-a-prominent-freedom-fighter-largely-forgotten-today)
+
+No Article text 
+Associated with Mahatma Gandhi since 1927, he participated in the freedom struggle, was imprisoned several times, founded (with others) the Congress Socialist Party (CSP), and played a crucial role during the Quit India movement.
+
 2023-12-06T20:50:58+05:30
 ### [Bengali Writer Shirshendhu Mukyopadhyaya Is Recipient of 2023 Kuvempu Award](https://thewire.in/the-arts/bengali-writer-shirshendhu-mukyopadhyaya-2023-kuvempu-award)
 

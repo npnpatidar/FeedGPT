@@ -1,3 +1,38 @@
+Thu, 07 Dec 2023 01:37:06 +0000
+### [Italian Ambassador writes: India, a partner in an uncertain world](https://indianexpress.com/article/opinion/columns/italian-ambassador-writes-india-a-partner-in-an-uncertain-world-9057487/)
+
+Article found but Couldn't summarize
+
+Thu, 07 Dec 2023 01:37:03 +0000
+### [From Savarkar to Golwankar, why Hindutva admires Zionism](https://indianexpress.com/article/opinion/columns/from-savarkar-to-golwankar-why-hindutva-admires-zionism-9057486/)
+
+Article found but Couldn't summarize
+
+Thu, 07 Dec 2023 01:32:16 +0000
+### [M Kunhaman, the champion of those who were left behind](https://indianexpress.com/article/opinion/columns/m-kunhaman-keralas-conscience-keeper-9057491/)
+
+Article found but Couldn't summarize
+
+Thu, 07 Dec 2023 01:30:14 +0000
+### [December 7, 1983, Forty Years Ago: India on Tamil issue](https://indianexpress.com/article/opinion/40-years-ago/december-7-1983-forty-years-ago-india-on-tamil-issue-9057489/)
+
+Summary: The Sri Lankan President, J R Jayewardene, assured India that stateless individuals of Indian origin in Sri Lanka would be granted Sri Lankan citizenship. The Punjab government stated that action would be taken against Jarnail Singh Bhindranwale at the appropriate time, with several cases already registered against him. Defence Minister R Venkataraman declared that the country's defence preparedness was strong and could face any challenge. The University Grants Commission in India has proposed the creation of a new class of professors called "Professors of Eminence" and has asked universities to make necessary amendments to accommodate this designation.
+
+Thu, 07 Dec 2023 01:17:52 +0000
+### [Express View on ICC Women’s Cup 2023: Her own field](https://indianexpress.com/article/opinion/editorials/express-view-on-icc-womens-cup-2023-her-own-field-9057495/)
+
+Article found but Couldn't summarize
+
+Thu, 07 Dec 2023 01:17:49 +0000
+### [Express View: On track to becoming the third largest economy, India needs to seize manufacturing opportunity](https://indianexpress.com/article/opinion/editorials/express-view-on-track-to-becoming-the-third-largest-economy-india-needs-to-seize-manufacturing-opportunity-9057494/)
+
+Article found but Couldn't summarize
+
+Thu, 07 Dec 2023 01:16:11 +0000
+### [Express View: In Telangana, an opportunity for Congress](https://indianexpress.com/article/opinion/editorials/express-view-in-telangana-an-opportunity-for-congress-9057488/)
+
+Article found but Couldn't summarize
+
 Wed, 06 Dec 2023 13:00:19 +0000
 ### [Indian pilgrims’ road to Mecca just got easier](https://indianexpress.com/article/opinion/columns/indian-pilgrims-road-to-mecca-9057214/)
 
