@@ -1,3 +1,15 @@
+2023-12-07T19:30:13+05:30
+### [Forced to Pull Story on Indian Firm's Alleged Global Hacking Operation, Reuters to Fight Court Order](https://thewire.in/law/delhi-court-reuters-takes-down-story-indian-firm-hacking)
+
+No Article text 
+The additional district judge North West Rohini court found the article to be prima facie “indicative of defamation”.
+
+2023-12-07T19:00:06+05:30
+### [Is India Facing Thali Trouble Again?](https://thewire.in/economy/is-india-facing-thali-trouble-again)
+
+No Article text 
+If you do not want to imperil your nutrition in the coming years, then it is about time we prioritise food inflation as the top election priority. After all, in the end, we cannot be fed empty promises, can we?
+
 2023-12-07T18:32:20+05:30
 ### [J&K: Authorities Prevent Protest By Tribal Groups Against Bills to Include Paharis in ST List](https://thewire.in/government/jk-authoritiesprevent-protests-tribal-groups-paharis-st-bill)
 
