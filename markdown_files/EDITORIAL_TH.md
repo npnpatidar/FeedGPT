@@ -1,3 +1,15 @@
+Fri, 08 Dec 2023 00:20:00 +0530
+### [No fait accompli: On the changes proposed in the Lok Sabha in Jammu and Kashmir](https://www.thehindu.com/opinion/editorial/no-fait-accompli-the-hindu-editorial-on-the-changes-proposed-in-the-lok-sabha-in-jammu-and-kashmir/article67615639.ece)
+
+Article found but Couldn't summarize 
+Elections in J&amp;K and restoration of Statehood should not be delayed further
+
+Fri, 08 Dec 2023 00:10:00 +0530
+### [Gaza in flames: On Israel’s expanding offensive](https://www.thehindu.com/opinion/editorial/gaza-in-flames-the-hindu-editorial-on-israels-expanding-offensive/article67614788.ece)
+
+Article found but Couldn't summarize 
+Israel should not be allowed to extend and expand the war against Palestinians
+
 Thu, 07 Dec 2023 00:20:00 +0530
 ### [Power to the people: On Telangana as a potentially rewarding challenge for the Congress](https://www.thehindu.com/opinion/editorial/power-to-the-people-the-hindu-editorial-on-telangana-as-a-potentially-rewarding-challenge-for-the-congress/article67611584.ece)
 

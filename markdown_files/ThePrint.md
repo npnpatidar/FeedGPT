@@ -1,3 +1,84 @@
+Thu, 07 Dec 2023 19:00:13 +0000
+### [J-K LG Sinha pays tributes to Kashmir Police cop Masroor Ahmad](https://theprint.in/india/j-k-lg-sinha-pays-tributes-to-kashmir-police-cop-masroor-ahmad/1877006/)
+
+Article found but Couldn't summarize 
+Jammu, Dec 7 (PTI) Jammu and Kashmir Lieutenant Governor Manoj Sinha paid his tributes to Inspector Masroor Ahmad who died on Thursday of gunshot wounds sustained more than a month ago. Ahmad was shot by terrorists on October 29 when he was engaged in a cricket match with local boys at Eidgah grounds in downtown [&#8230;]
+
+Thu, 07 Dec 2023 19:00:03 +0000
+### [Communalism first step towards country’s destruction: Jamiat Ulama-i-Hind](https://theprint.in/india/communalism-first-step-towards-countrys-destruction-jamiat-ulama-i-hind-2/1877005/)
+
+As GPT-3.5, I can summarize the article for you. Maulana Arshad Madani, the President of Jamiat Ulama-i-Hind, emphasized that communalism is the first step towards the destruction of the country. He urged political parties to promote love and brotherhood instead of hatred. Madani also spoke about the term "love jihad," stating that it was coined to spread hatred within the country. He advocated for the establishment of separate schools for Muslim girls and emphasized the importance of modern education in madrasas. The conference organized by Jamiat Ulama-i-Hind saw the participation of members from 37 districts, and several resolutions were passed.
+
+Thu, 07 Dec 2023 18:47:01 +0000
+### [Abhishek Banerjee starrer ‘Stolen’ set to premiere at 28th International Film Festival of Kerala](https://theprint.in/feature/abhishek-banerjee-starrer-stolen-set-to-premiere-at-28th-international-film-festival-of-kerala/1877003/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 8 (ANI): After a grand India premiere at the Jio MAMI Mumbai Film Festival, &#8216;Stolen&#8217; starring Abhishek Banerjee is now gearing up for a special premiere at the upcoming 28th International Film Festival of Kerala. &#8216;Stolen&#8217; narrates the tale of a five-month-old baby who has been abducted from her mother. The [&#8230;]
+
+Thu, 07 Dec 2023 18:45:43 +0000
+### [Motor racing-FIA drops compliance probe into Toto and Susie Wolff](https://theprint.in/sport/motor-racing-fia-drops-compliance-probe-into-toto-and-susie-wolff/1877001/)
+
+Article found but Couldn't summarize 
+By Alan Baldwin LONDON (Reuters) - Formula One's governing body shelved a probe of F1 power couple Toto and Susie Wolff on Thursday, saying it was satisfied with existing compliance measures and was
+
+Thu, 07 Dec 2023 18:45:33 +0000
+### [Rugby-Harlequins Women’s flanker Robinson suspended five weeks for post-match headbutt](https://theprint.in/sport/rugby-harlequins-womens-flanker-robinson-suspended-five-weeks-for-post-match-headbutt/1877000/)
+
+Harlequins Women’s flanker Emily Robinson has received a five-week ban after being sent off for a headbutt against Sydney Gregson of Saracens, according to the Rugby Football Union. During a Premiership Women's Rugby match, Robinson struck Gregson following a confrontation between the two teams. As a result, Robinson will miss the club's next five matches, including the one against Bristol Bears on January 20. Robinson acknowledged and confessed to the charge, expressing disappointment in her actions. Saracens emerged victorious in the match with a score of 31-0.
+
+Thu, 07 Dec 2023 18:45:25 +0000
+### [Allegations of bribery for admission, bed found baseless: Safdarjung Hospital](https://theprint.in/india/allegations-of-bribery-for-admission-bed-found-baseless-safdarjung-hospital/1876998/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) The Safdarjung Hospital on Thursday said that a committee constituted by the Union Health Ministry has found no merit in the allegations of corruption and bribery for getting admission and beds at the facility. AAP leader Dilip Pandey alleged at a press conference earlier in the day that bribes are [&#8230;]
+
+Thu, 07 Dec 2023 18:45:22 +0000
+### [Binance withdraws Abu Dhabi licence bid as crypto giant weighs structure](https://theprint.in/tech/binance-withdraws-abu-dhabi-licence-bid-as-crypto-giant-weighs-structure/1876997/)
+
+Article found but Couldn't summarize 
+By Elizabeth Howcroft and Hadeel Al Sayegh LONDON (Reuters) - Binance has withdrawn an application for an Abu Dhabi licence, the latest sign that the giant crypto exchange is reassessing its global
+
+Thu, 07 Dec 2023 18:45:14 +0000
+### [Communalism first step towards country’s destruction: Jamiat Ulama-i-Hind](https://theprint.in/india/communalism-first-step-towards-countrys-destruction-jamiat-ulama-i-hind/1876996/)
+
+As GPT-3.5, I can summarize the article for you. Maulana Arshad Madani, the President of Jamiat Ulama-i-Hind, emphasized that communalism is the first step towards the destruction of the country. He urged political parties to promote love and brotherhood instead of hatred. Madani also spoke about the term "love jihad," stating that it was coined to spread hatred within the country. He advocated for the establishment of separate schools for Muslim girls and emphasized the importance of modern education in madrasas. The conference organized by Jamiat Ulama-i-Hind saw the participation of members from 37 districts, and several resolutions were passed.
+
+Thu, 07 Dec 2023 18:45:07 +0000
+### [Armenia backs Azerbaijan to host COP29 climate conference](https://theprint.in/world/armenia-backs-azerbaijan-to-host-cop29-climate-conference/1876995/)
+
+Article found but Couldn't summarize 
+By Nailia Bagirova BAKU (Reuters) - Armenia agreed on Thursday not to block Azerbaijan's candidacy to host next year's COP29 U.N. climate conference as part of a series of mutual goodwill gestures
+
+Thu, 07 Dec 2023 18:45:02 +0000
+### [Amendment bill to bring betting, gaming in 28 pc GST bracket tabled in Maharashtra assembly](https://theprint.in/india/amendment-bill-to-bring-betting-gaming-in-28-pc-gst-bracket-tabled-in-maharashtra-assembly/1876994/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 7 (PTI) Maharashtra Deputy Chief Minister Ajit Pawar on Thursday tabled an amendment bill in the assembly that seeks to bring online gaming, betting, casinos, horse racing and lottery in the highest GST bracket of 28 per cent. Pawar also holds the finance portfolio. The bill to amend the Maharashtra Goods and Services [&#8230;]
+
+Thu, 07 Dec 2023 18:32:23 +0000
+### [New report identifies transformational role financial institutions play in accelerating GCC’s food security, climate goals](https://theprint.in/world/new-report-identifies-transformational-role-financial-institutions-play-in-accelerating-gccs-food-security-climate-goals/1876992/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 7 (ANI/WAM): With the global population set to reach 9.8 billion by 2050, communities and ecosystems are facing enormous resource challenges. A recent report by KPMG Lower Gulf, First Abu Dhabi Bank (FAB), and the International Islamic Trade Finance Corporation (ITFC), titled &#8220;Harvesting Resilience, Leveraging Finance for Food Security and Climate Resilience&#8221;, [&#8230;]
+
+Thu, 07 Dec 2023 18:32:13 +0000
+### [Ananya Panday, Siddhant Chaturvedi’s ‘Kho Gaye Hum Kahan’ trailer to be out on this date](https://theprint.in/feature/ananya-panday-siddhant-chaturvedis-kho-gaye-hum-kahan-trailer-to-be-out-on-this-date/1876990/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 7 (ANI): Makers of the upcoming drama film &#8216;Kho Gaye Hum Kahan&#8217; on Thursday announced the trailer release date of the film. Taking to Instagram, OTT platform Netflix shared a new poster of the film featuring Ananya Panday which they captioned, &#8220;We&#8217;re simple people &#8211; we see Ahana in a picture, [&#8230;]
+
+Thu, 07 Dec 2023 18:32:02 +0000
+### [UAE: Abu Dhabi DoE partners with University of Arizona, IRENA to advance clean energy innovation](https://theprint.in/world/uae-abu-dhabi-doe-partners-with-university-of-arizona-irena-to-advance-clean-energy-innovation/1876988/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 7 (ANI/WAM): The Abu Dhabi Department of Energy (DoE) has signed two Memorandums of Understanding (MoU) at COP28 UAE with internationally recognised partners. The agreements aim to harness solar power in space and develop world-class clean energy transition policies and technologies to accelerate climate action, both in Abu Dhabi and globally. The [&#8230;]
+
+Thu, 07 Dec 2023 18:30:03 +0000
+### [Atishi raps DJB for letting sewage overflow in north Delhi colonies, serves notice to CEO](https://theprint.in/india/atishi-raps-djb-for-letting-sewage-overflow-in-north-delhi-colonies-serves-notice-to-ceo/1876987/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 7 (PTI) Delhi Water Minister Atishi pulled up the Jal Board officials for the dismal state of the sewer system on Thursday and sent a notice for action to its top official, government said on Thursday. The minister&#8217;s response was triggered by the issue of sewage overflow in Wazirpur JJ Colony, Shakti [&#8230;]
+
 Thu, 07 Dec 2023 18:16:30 +0000
 ### [Soccer-Juventus not rejoining European Club Association, team says](https://theprint.in/sport/soccer-juventus-not-rejoining-european-club-association-team-says/1876982/)
 
