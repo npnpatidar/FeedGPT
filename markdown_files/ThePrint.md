@@ -1,3 +1,97 @@
+Fri, 08 Dec 2023 20:16:14 +0000
+### [Doping-Russian athletes back in doping spotlight after Paris green light](https://theprint.in/sport/doping-russian-athletes-back-in-doping-spotlight-after-paris-green-light/1878685/)
+
+Article found but Couldn't summarize 
+By Steve Keating (Reuters) - The doping spotlight is once again on Russia after the International Olympic Committee (IOC) cleared the way on Friday for the country's athletes to compete at next year's
+
+Fri, 08 Dec 2023 20:16:04 +0000
+### [Apple’s iPhone and watch design head to depart in February – Bloomberg News](https://theprint.in/tech/apples-iphone-and-watch-design-head-to-depart-in-february-bloomberg-news/1878683/)
+
+Article found but Couldn't summarize 
+(Reuters) - Apple's head of iPhone and watch design Tang Tan is leaving the company in February, Bloomberg News reported on Friday, citing people with knowledge of the matter. (Reporting by Arsheeya
+
+Fri, 08 Dec 2023 20:15:55 +0000
+### [Tesla Cybertruck’s stiff structure, sharp design raise safety concerns -experts](https://theprint.in/tech/tesla-cybertrucks-stiff-structure-sharp-design-raise-safety-concerns-experts/1878681/)
+
+Article found but Couldn't summarize 
+By Akash Sriram and Hyunjoo Jin (Reuters) -The angular design of Tesla's Cybertruck has safety experts concerned the electric pickup truck's stiff stainless-steel exoskeleton could hurt pedestrians
+
+Fri, 08 Dec 2023 20:15:42 +0000
+### [Stocks advance, Treasury yields jump after US payrolls report](https://theprint.in/economy/stocks-advance-treasury-yields-jump-after-us-payrolls-report/1878679/)
+
+Article found but Couldn't summarize 
+By Chuck Mikolajczak NEW YORK (Reuters) -A gauge of global stocks climbed on Friday, poised for its sixth straight week of gains, while U.S. Treasury yields rose after a strong U.S. jobs report forced
+
+Fri, 08 Dec 2023 20:15:31 +0000
+### [Fossils show dismembered young dinosaurs in belly of T. rex cousin](https://theprint.in/world/fossils-show-dismembered-young-dinosaurs-in-belly-of-t-rex-cousin/1878677/)
+
+Article found but Couldn't summarize 
+By Will Dunham (Reuters) - The young Gorgosaurus knew what it liked for dinner. About 75 million years ago in what is now Canada's Alberta province, this fearsome T. rex cousin set about hunting
+
+Fri, 08 Dec 2023 20:15:22 +0000
+### [Israel increases Gaza strikes, UN decries ‘humanitarian nightmare’](https://theprint.in/world/israel-increases-gaza-strikes-un-decries-humanitarian-nightmare/1878675/)
+
+Article found but Couldn't summarize 
+By Bassam Masoud and Nidal al-Mughrabi GAZA/CAIRO (Reuters) -Israel sharply increased strikes on the Gaza Strip, pounding the length of the Palestinian enclave and killing hundreds in a new, expanded
+
+Fri, 08 Dec 2023 20:15:12 +0000
+### [Six teenagers convicted in connection with 2020 beheading of teacher Paty](https://theprint.in/world/six-teenagers-convicted-in-connection-with-2020-beheading-of-teacher-paty/1878673/)
+
+A French court has convicted six teenagers in connection with the beheading of history teacher Samuel Paty in 2020. Paty had shown caricatures of the Prophet Mohammad in a class on freedom of expression, which caused controversy among some Muslim parents. One of the teenagers falsely accused Paty of asking Muslim students to leave the room before showing the caricatures, but it was proved that she was not present during the class. The other adolescents were found guilty of being part of a pre-meditated criminal conspiracy and helping prepare the attack. Paty was killed by an 18-year-old assailant of Chechen origin, who was subsequently shot dead by the police. The court also found the convicted teenagers guilty of pointing out Paty to the murderer. The heaviest sentence given was six months in prison for one of the adolescents.
+
+Fri, 08 Dec 2023 20:15:03 +0000
+### [Exclusive-State Dept asks Congress to approve sale of Israeli tank rounds amid growing rights concerns](https://theprint.in/world/exclusive-state-dept-asks-congress-to-approve-sale-of-israeli-tank-rounds-amid-growing-rights-concerns/1878671/)
+
+Article found but Couldn't summarize 
+WASHINGTON (Reuters) - The Biden administration has asked Congress to approve the sale of 45,000 shells for Israel's Merkava tanks for use in its offensive against Hamas in Gaza, according to a U.S.
+
+Fri, 08 Dec 2023 20:02:02 +0000
+### [US tells UN it does not support calls for immediate ceasefire in Gaza](https://theprint.in/world/us-tells-un-it-does-not-support-calls-for-immediate-ceasefire-in-gaza/1878669/)
+
+Article found but Couldn't summarize 
+New York [US], December 9 (ANI): Robert A Wood, Ambassador and Deputy Permanent Representative of the United States to the UN, said that his country does not support calls for an immediate ceasefire in Gaza as it &#8220;would only plant the seeds for the next war.&#8221; In his remarks at the UN Security Council briefing [&#8230;]
+
+Fri, 08 Dec 2023 19:45:15 +0000
+### [NHRC notice to Manipur govt, DGP over killings in gun fight](https://theprint.in/india/nhrc-notice-to-manipur-govt-dgp-over-killings-in-gun-fight/1878668/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 8 (PTI) The NHRC has issued notices to the Manipur government and the state&#8217;s police chief over reports that at least 13 people were killed in a gun fight in Leithao village in the Tengnoupal district, officials said on Friday. The incident, as reported, indicates a &#8220;lapse&#8221; on the part of the [&#8230;]
+
+Fri, 08 Dec 2023 19:45:03 +0000
+### [Par panel expresss ‘deep concern’ over MoC’s response on ‘untraceable monuments’](https://theprint.in/india/par-panel-expresss-deep-concern-over-mocs-response-on-untraceable-monuments/1878667/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 8 (PTI) The Union Ministry of Culture could manage to provide action taken notes on &#8220;only 21 out of the total of 35 recommendations&#8221; made in a parliamentary panel report relating to untraceable monuments, according to an official statement issued on Friday. The department-related Parliamentary Standing Committee on Transport, Tourism and Culture [&#8230;]
+
+Fri, 08 Dec 2023 19:30:03 +0000
+### [28th IFFK expresses solidarity with people of war-torn Palestine on opening day](https://theprint.in/india/28th-iffk-expresses-solidarity-with-people-of-war-torn-palestine-on-opening-day/1878666/)
+
+Article found but Couldn't summarize 
+Thiruvananthapuram, Dec 8 (PTI) The 28th International Film Festival of Kerala (IFFK) kick-started at the state capital here on Friday by expressing solidarity with the people of war-torn Palestine. Kerala Chief Minister Pinarayi Vijayan virtually inaugurated the festival at a grand event held at the Nishagandhi open air auditorium here. The event was presided by [&#8230;]
+
+Fri, 08 Dec 2023 19:17:02 +0000
+### [Pakistan: Nawaz Sharif says PML-N doesn’t seek power, rather demands accountability](https://theprint.in/world/pakistan-nawaz-sharif-says-pml-n-doesnt-seek-power-rather-demands-accountability/1878663/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 9 (ANI): Pakistan Muslim League &#8211; Nawaz (PML-N) supremo Nawaz Sharif on Friday said his party does not wish to win elections and form a government. However, his party demands accountability, Pakistan-based Dawn reported. At a PML-N parliamentary board meeting in Lahore, Nawaz Sharif said, &#8220;The nation should know that those who [&#8230;]
+
+Fri, 08 Dec 2023 19:15:13 +0000
+### [Kerala govt cancels ongoing Nava Kerala Sadas for a day, to resume on Sunday](https://theprint.in/india/kerala-govt-cancels-ongoing-nava-kerala-sadas-for-a-day-to-resume-on-sunday/1878661/)
+
+Article found but Couldn't summarize 
+Kochi, Dec 8 (PTI) Kerala government on Friday informed that the ongoing Nava Kerala Sadas, a public outreach programme of the state government, will stand cancelled on December 9 and will resume only on Sunday afternoon. The announcement came following the demise of CPI state secretary Kanam Rajendran at a private hospital here in Kochi. [&#8230;]
+
+Fri, 08 Dec 2023 19:15:10 +0000
+### [OPEC head to OPEC+: reject COP28 language on fossil fuel phase-out](https://theprint.in/environment/opec-head-to-opec-reject-cop28-language-on-fossil-fuel-phase-out/1878660/)
+
+Article found but Couldn't summarize 
+By Yousef Saba and Maha El Dahan DUBAI (Reuters) -OPEC Secretary General Haitham Al Ghais has urged OPEC+ members to reject proposals for any text under negotiation at the COP28 climate summit that
+
+Fri, 08 Dec 2023 19:15:02 +0000
+### [India ranked 7th in this year’s climate change performance index, up one spot from the previous report](https://theprint.in/world/india-ranked-7th-in-this-years-climate-change-performance-index-up-one-spot-from-the-previous-report-2/1878659/)
+
+India has ranked 7th in this year's Climate Change Performance Index, according to the report released during the global climate talks COP28. The country has received high rankings in greenhouse gas emissions and energy use categories, but a medium ranking in climate policy and renewable energy. India's per capita emissions are relatively low, and it is on track to meet the benchmark of well below 2 degrees Celsius. However, the report highlights that the transition to renewable energy is progressing slowly, and India still heavily relies on coal, oil, and gas for its energy needs. The experts suggest a faster phase-out of coal, reduced reliance on gas, and expanded renewable energy to fulfill India's potential in climate action.
+
 Fri, 08 Dec 2023 19:00:16 +0000
 ### [India ranked 7th in this year’s climate change performance index, up one spot from the previous report](https://theprint.in/world/india-ranked-7th-in-this-years-climate-change-performance-index-up-one-spot-from-the-previous-report/1878656/)
 
