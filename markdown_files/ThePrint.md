@@ -1,3 +1,121 @@
+Fri, 08 Dec 2023 17:03:02 +0000
+### [Participation of women voters in Delhi elections rose by 4.2 pc since 1993, data shows](https://theprint.in/india/participation-of-women-voters-in-delhi-elections-rose-by-4-2-pc-since-1993-data-shows/1878528/)
+
+According to a recent report by the Directorate of Economics and Statistics, the participation of women voters in the national capital of New Delhi has increased by 4.24% since the 1993 assembly elections. The report, titled 'Women and Men in Delhi 2023,' reveals that in the fifth assembly election in 1993, the percentage of women voters was 58.27%, and it has now risen to 62.51% in the eleventh assembly election in 2020. The data also highlights an increase in the number of women elected in the assembly elections in 2020 compared to 2015. In the 2015 elections, there were 64 elected men and 6 elected women out of the 70 assembly seats, while in 2020, there were 62 elected men and 8 elected women. The report further provides information on the gender distribution among judges in the Delhi High Court and the police strength in Delhi as of January 2021.
+
+Fri, 08 Dec 2023 17:02:48 +0000
+### [Pakistan: New oil, gas reserves discovered in Sindh](https://theprint.in/world/pakistan-new-oil-gas-reserves-discovered-in-sindh/1878526/)
+
+Article found but Couldn't summarize 
+Sindh [Pakistan], December 8 (ANI): One of Pakistan&#8217;s top state-owned exploration and production firms, Oil &#38; Gas Development Company Limited (OGDCL), has said that gas and condensate have been found at Dars West Well 02, which is situated in the Tando Allahyar District of Sindh, according to ARY News. The business disclosed the development in [&#8230;]
+
+Fri, 08 Dec 2023 17:02:48 +0000
+### [AAP minister Kailash Gahlot divested of law portfolio, Atishi given charge](https://theprint.in/india/aap-minister-kailash-gahlot-divested-of-law-portfolio-atishi-given-charge/1878525/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 8 (PTI) Kailash Gahlot was divested of the Law and Justice portfolio in the AAP government on Friday, a day after LG V K Saxena recalled files related to judicial infrastructure and administration in the city as they remained pending with him for months, officials said. They said the Chief Minister&#8217;s Office [&#8230;]
+
+Fri, 08 Dec 2023 17:02:33 +0000
+### [COP28: Dubai Municipality announces weekend activations, panels and workshops](https://theprint.in/world/cop28-dubai-municipality-announces-weekend-activations-panels-and-workshops/1878523/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 8 (ANI/WAM): As COP28 nears its conclusion, Dubai Municipality will continue its highly successful programme of workshops and presentations, which are inspiring and educating hundreds of regional and international visitors. As a Strategic Pathway Partner at COP28, Dubai Municipality&#8217;s stand will feature discussions on sustainability best practices for urban development, climate change [&#8230;]
+
+Fri, 08 Dec 2023 17:02:33 +0000
+### [Two held for firing outside Delhi residence of former Punjab MLA](https://theprint.in/india/two-held-for-firing-outside-delhi-residence-of-former-punjab-mla/1878522/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 8 (PTI) The Special Cell of the Delhi Police has arrested two Haryana-based sharpshooters of Lawrence Bishnoi and Goldy Brar gang for allegedly being involved in a firing incident outside the residence of a former Punjab MLA, officials said on Friday. Police have arrested Sonipat resident Aakash (23) and Charkhi Dadri resident [&#8230;]
+
+Fri, 08 Dec 2023 17:02:18 +0000
+### [UAE announces first Women in Nuclear Middle East chapter](https://theprint.in/world/uae-announces-first-women-in-nuclear-middle-east-chapter/1878520/)
+
+Article found but Couldn't summarize 
+Abu Dhabi [UAE], December 8 (ANI/WAM): The UAE announced today the launch of the Women in Nuclear (WiN) Middle East Chapter. The Chapter was announced at COP28 by Mohamed Al Hammadi, Managing Director and Chief Executive Officer of the Emirates Nuclear Energy Corporation (ENEC), Dominique Mouillot, President of WiN Global, and Sama Bilbao y Leon, [&#8230;]
+
+Fri, 08 Dec 2023 17:02:16 +0000
+### [Stadium in J-K’s Baramulla named after Gen Rawat](https://theprint.in/india/stadium-in-j-ks-baramulla-named-after-gen-rawat/1878519/)
+
+Article found but Couldn't summarize 
+Srinagar, Dec 8 (PTI) The Jammu and Kashmir administration on Friday named a stadium in Baramulla district after former chief of defence staff General Bipin Rawat. The Jhelum Stadium in Janbazpora locality of the north Kashmir district was renamed as &#8216;General Bipin Rawat Stadium&#8217; on the second death anniversary of the country&#8217;s first CDS. &#8220;Sanction [&#8230;]
+
+Fri, 08 Dec 2023 17:02:01 +0000
+### [US discussing post-war scenario in Gaza with Palestinian Authority, Arab nations: Report](https://theprint.in/world/us-discussing-post-war-scenario-in-gaza-with-palestinian-authority-arab-nations-report/1878517/)
+
+Article found but Couldn't summarize 
+Washington DC [US], December 8 (ANI): Amid the ongoing conflict between Israel and Hamas, US officials are discussing the post-war Gaza governance plans with the Palestinian Authority along with regional allies, CNN reported. Secretary of State Antony Blinken will be meeting a delegation of Arab counterparts from Saudi Arabia, Qatar, Jordan, Turkey and the Palestinian [&#8230;]
+
+Fri, 08 Dec 2023 17:01:58 +0000
+### [Former Punjab CM Badal’s statue installed alongside Chaudhary Devi Lal’s at Killianwali village](https://theprint.in/india/former-punjab-cm-badals-statue-installed-alongside-chaudhary-devi-lals-at-killianwali-village/1878516/)
+
+Article found but Couldn't summarize 
+Chandigarh, Dec 8 (PTI) A lifesize statue of former Punjab chief minister Parkash Singh Badal was placed alongside that of former deputy prime minister Chaudhary Devi Lal at a memorial at Killianwali village on Punjab-Haryana border on Friday to commemorate the 97th birth anniversary of the late SAD leader. The unveiling of the statue took [&#8230;]
+
+Fri, 08 Dec 2023 17:01:44 +0000
+### [Uttarakhand HC seeks govt’s reply on pendency of cases against MPs, MLAs](https://theprint.in/india/uttarakhand-hc-seeks-govts-reply-on-pendency-of-cases-against-mps-mlas/1878515/)
+
+Article found but Couldn't summarize 
+Nainital, Dec 8 (PTI) The Uttarakhand High Court has taken suo motu cognisance of pendency of criminal cases against MPs and MLAs in the state and sought a reply from the government in two weeks. A division bench of Acting Chief Justice Manoj Kumar Tiwari and Justice Vivek Bharti Sharma directed the state government to [&#8230;]
+
+Fri, 08 Dec 2023 17:01:29 +0000
+### [Woman gets shot in head at police station in Aligarh](https://theprint.in/india/woman-gets-shot-in-head-at-police-station-in-aligarh/1878514/)
+
+Article found but Couldn't summarize 
+Aligarh (UP), Dec 8 (PTI) A woman who had gone to a police outpost on Friday for verification got a gunshot wound to head when a pistol got fired during a handover, an officer said. The woman rushed to a hospital is said to be critical. In CCTV footage of the incident doing rounds on [&#8230;]
+
+Fri, 08 Dec 2023 17:01:14 +0000
+### [C-DAC to provide technological solutions to share history of Raigad Fort](https://theprint.in/india/c-dac-to-provide-technological-solutions-to-share-history-of-raigad-fort/1878512/)
+
+Article found but Couldn't summarize 
+Pune, Dec 8 (PTI) The Centre for Development of Advanced Computing (C-DAC) has signed a memorandum of agreement (MOA) with the Raigad Development Authority (RDA) to provide technological solutions to preserve and share the history of Raigad Fort. C-DAC, a premier R&#38;D organization of the Ministry of Electronics and Information Technology, will deliver solutions using [&#8230;]
+
+Fri, 08 Dec 2023 17:01:02 +0000
+### [Latur’s patadi chinch, Borsuri tur dal, Kasti coriander get GI tags](https://theprint.in/india/laturs-patadi-chinch-borsuri-tur-dal-kasti-coriander-get-gi-tags/1878511/)
+
+Article found but Couldn't summarize 
+Latur, Dec 8 (PTI) Organisations involved in the cultivation of &#8216;patadi chinch&#8217; (a type of tamarind), Borsuri tur dal and Kasti coriander were felicitated in Latur on Friday after the three items got &#8216;Geographical Indication&#8217; (GI) tags. Patadi chinch is from Panchincholi village, Borsuri tur dal is named after the village in Nilanga tehsil where [&#8230;]
+
+Fri, 08 Dec 2023 17:00:52 +0000
+### [Civil engineers of Odisha’s Water Resource Dept to be trained at IIT-Roorkee](https://theprint.in/india/civil-engineers-of-odishas-water-resource-dept-to-be-trained-at-iit-roorkee/1878510/)
+
+Article found but Couldn't summarize 
+Bhubaneswar, Dec 8 (PTI) The Odisha government&#8217;s Water Resource Department on Friday signed an agreement with IIT-Roorkee for capacity building of its civil engineers, an official said. Development Commissioner Anu Garg said the training will be given to engineers of the minor irrigation division with a focus on sustainable use of water through cutting-edge technology. [&#8230;]
+
+Fri, 08 Dec 2023 17:00:40 +0000
+### [Trying to crack toughest knots in FTA talks: UK envoy Alex Ellis](https://theprint.in/india/trying-to-crack-toughest-knots-in-fta-talks-uk-envoy-alex-ellis/1878509/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 8 (PTI) India and the UK are &#8220;trying to crack the toughest knots&#8221; in the Free Trade Agreement negotiations, British High Commissioner Alex Ellis said on Friday. He said this during an interactive session at the Annual Convention of FICCI. &#8220;We are now trying to crack the toughest knots in the FTA [&#8230;]
+
+Fri, 08 Dec 2023 17:00:27 +0000
+### [Socio-economic study of indigenous Assamese Muslims to be conducted: CM](https://theprint.in/india/socio-economic-study-of-indigenous-assamese-muslims-to-be-conducted-cm/1878508/)
+
+Article found but Couldn't summarize 
+Guwahati, Dec 8 (PTI) The Assam government on Friday said it will conduct a socio-economic assessment of indigenous minorities in the state. This was decided at a cabinet meeting chaired by Chief Minister Himanta Biswa Sarma here. &#8220;A socio-economic assessment of indigenous Assamese Muslims will be conducted through the Directorate of Minority Affairs and Char [&#8230;]
+
+Fri, 08 Dec 2023 17:00:15 +0000
+### [Govt to issue sovereign gold bonds tranche in Dec, Feb](https://theprint.in/economy/govt-to-issue-sovereign-gold-bonds-tranche-in-dec-feb/1878507/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 8 (PTI) The government will issue a tranche of sovereign gold bonds (SGBs) this month, and one more in February. The date for subscription for 2023-24 Series III is December 18-22, 2023, while for Series IV is scheduled for February 12-16, a finance ministry statement said Friday. The Series I was open [&#8230;]
+
+Fri, 08 Dec 2023 17:00:03 +0000
+### [BJP leaders laud PM Modi’s leadership as he tops international approval ratings](https://theprint.in/india/bjp-leaders-laud-pm-modis-leadership-as-he-tops-international-approval-ratings/1878506/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 8 (PTI) BJP leaders asserted on Friday that &#8220;Modi ki guarantee&#8221; and &#8220;Modi&#8217;s magic&#8221; have been endorsed even by an international survey as Prime Minister Narendra Modi topped the approval ratings among several world leaders. The weekly survey by Morning Consult had Modi topping the popularity chart yet again as he received [&#8230;]
+
+Fri, 08 Dec 2023 16:47:39 +0000
+### [Adani Total Gas Ltd on target to install 75,000 EV charging stations by 2030: Gautam Adani](https://theprint.in/economy/adani-total-gas-ltd-on-target-to-install-75000-ev-charging-stations-by-2030-gautam-adani/1878502/)
+
+GPT-3.5: Adani Group Chairman Gautam Adani announced that Adani Total Gas Ltd is making significant progress in its expansion plans. They are focused on CNG and PNG, compressed biogas, and e-mobility. By 2030, they aim to install 75,000 EV charging stations. Additionally, all 50 sites of the group are now powered by rooftop solar panels. The group's operations vehicle fleet has also transitioned from diesel to CNG. Through their ATGL Greenmosphere initiative, they have planted 220,000 trees, reducing CO2 emissions by 3,000 tons annually. Adani Group is committed to sustainable practices in the cement industry as well. Over 90% of their cement production involves blended cements that recycle waste fly ash and slag. They aim to power 60% of their cement production with renewable energy sources by 2028. This demonstrates their dedication to sustainability.
+
+Fri, 08 Dec 2023 16:47:26 +0000
+### [Veteran Kannada actor Leelavathi passes away, PM Modi pays condolences](https://theprint.in/feature/veteran-kannada-actor-leelavathi-passes-away-pm-modi-pays-condolences/1878500/)
+
+Article found but Couldn't summarize 
+Bengaluru (Karanataka) [India], December 8 (ANI): Veteran Kannada actress Leelavathi has passed away. She was 85. After learning about the unfortunate news, Prime Minister Narendra Modi took paid his heartfelt condolences via a social media post. &#8220;Saddened to hear about the passing of the legendary Kannada film personality Leelavathi Ji. A true icon of cinema, [&#8230;]
+
 Fri, 08 Dec 2023 16:17:06 +0000
 ### [Soccer-Messi mania highlights ‘epic’ year for MLS, Garber says](https://theprint.in/sport/soccer-messi-mania-highlights-epic-year-for-mls-garber-says/1878465/)
 
