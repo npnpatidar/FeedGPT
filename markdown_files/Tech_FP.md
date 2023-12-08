@@ -1,3 +1,15 @@
+Fri, 08 Dec 2023 16:14:45 +0530
+### [Smartphones causing major rift in parent-child relationships, 94% worried about effects on mental health](https://www.firstpost.com/tech/smartphones-causing-major-rift-in-parent-child-relationships-94-per-c-worried-about-effects-on-mental-health-13481502.html)
+
+Article found but Couldn't summarize 
+Smartphones causing major rift in parent-child relationships, 94% worried about effects on mental health
+
+Fri, 08 Dec 2023 15:40:17 +0530
+### [Chinese EVs may electrocute people, recalled in Australia for risk of 'serious injury or even death’](https://www.firstpost.com/tech/auto-tech/chinese-evs-may-electrocute-people-recalled-in-australia-for-risk-of-serious-injury-or-even-death-13481302.html)
+
+Article found but Couldn't summarize 
+Chinese EVs may electrocute people, recalled in Australia for risk of 'serious injury or even death’
+
 Fri, 08 Dec 2023 13:10:06 +0530
 ### [Fraudsters scam Amazon out of millions of dollars using basic, fake product refund](https://www.firstpost.com/tech/amazon-scammed-out-of-millions-of-dollars-by-fraudsters-scammers-using-basic-fake-product-refund-13480552.html)
 

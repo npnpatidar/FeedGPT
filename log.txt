@@ -1263,3 +1263,14 @@ Started at 2023-12-08 10:20:09
 Finished at 2023-12-08 10:26:48
 Total time taken: 398.9991590976715 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2023-12-08 11:15:58
+2 Feed entries have been written to feeds/Explain_FP.xml
+1 Feed entries have been written to feeds/Opinion_FP.xml
+2 Feed entries have been written to feeds/The_Wire.xml
+2 Feed entries have been written to feeds/Tech_FP.xml
+3 Feed entries have been written to feeds/Movie_Review_TH.xml
+20 Feed entries have been written to feeds/ThePrint.xml
+30 new entries have been added
+Finished at 2023-12-08 11:19:25
+Total time taken: 207.4385039806366 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

@@ -1,3 +1,15 @@
+2023-12-08T16:30:06+05:30
+### [In Delhi’s Sunder Nagar, a Rushed Demolition Drive Allegedly Paid No Heed to Protocols](https://thewire.in/rights/in-delhis-sunder-nagar-a-rushed-demolition-drive-allegedly-paid-no-heed-to-protocols)
+
+No Article text 
+More than 200 families were displaced just as Delhi’s winter set in, without being provided alternative housing.
+
+2023-12-08T16:00:20+05:30
+### [Data Rewind: A Shadow on Parliament’s Ability to Function Independently of the Executive](https://thewire.in/government/data-rewind-a-shadow-on-parliaments-ability-to-function-independently-of-the-executive)
+
+No Article text 
+Data on suspension of MPs, other analysis and accounts reveal that parliament functioning independently of the ruling party is an important component of a healthy democracy.
+
 2023-12-08T15:45:23+05:30
 ### [Assam Citizenship Case: SC Tells Union Govt to Give Details on Undocumented Immigrants in Northeast](https://thewire.in/law/assam-citizenship-case-sc-tells-union-govt-to-give-details-on-undocumented-immigrants-in-northeast)
 

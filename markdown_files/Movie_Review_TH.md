@@ -1,3 +1,21 @@
+Fri, 08 Dec 2023 16:37:54 +0530
+### [‘Kaiva’ movie review: Jayathirtha, Dhanveerah’s gangster drama suffers from lack of focus](https://www.thehindu.com/entertainment/movies/kaiva-movie-review-jayathirthas-gangster-drama-starring-dhanveerah-suffers-from-lack-of-focus/article67617824.ece)
+
+Article found but Couldn't summarize 
+Dhanveerah-starrer ‘Kaiva’, a revenge drama set in the Bengaluru underworld of the ’80s, fails to engage thanks to a wobbly screenplay that struggles to find rhythm
+
+Fri, 08 Dec 2023 16:13:33 +0530
+### [‘Extra Ordinary Man’ movie review: Vakkantham Vamsi and Nithiin’s film is hilarious in parts](https://www.thehindu.com/entertainment/movies/extra-ordinary-man-movie-review-vakkantham-vamsi-and-nithiins-film-is-hilarious-in-parts/article67617650.ece)
+
+Article found but Couldn't summarize 
+Director Vakkantham Vamsi’s Telugu film ‘Extra Ordinary Man’, starring Nithiin and Sreeleela, is sometimes smart, sometimes silly and overstretched, but ensures plenty of laughs
+
+Fri, 08 Dec 2023 16:11:04 +0530
+### [‘Joram’ movie review: Manoj Bajpayee fuels this gripping thriller on the politics of development](https://www.thehindu.com/entertainment/movies/joram-movie-review-manoj-bajpayee-fuels-this-gripping-thriller-on-the-politics-of-development/article67617917.ece)
+
+Article found but Couldn't summarize 
+Devashish Makhija’s film is a disturbing yet absorbing take on the perils of feeding human greed, with no clear answers
+
 Fri, 08 Dec 2023 15:49:25 +0530
 ### [Hemmige Prashanth’s bid to replicate his guru’s style](https://www.thehindu.com/entertainment/music/hemmige-prashanths-bid-to-replicate-his-gurus-style/article67608629.ece)
 

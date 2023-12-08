@@ -1,3 +1,122 @@
+Fri, 08 Dec 2023 11:02:26 +0000
+### [AbhiBus’s “Ride and Fly” Campaign Takes Travel to New Heights with Free Flight Vouchers Worth Rs. 1000](https://theprint.in/ani-press-releases/abhibuss-ride-and-fly-campaign-takes-travel-to-new-heights-with-free-flight-vouchers-worth-rs-1000/1877901/)
+
+Article found but Couldn't summarize 
+VMPL Hyderabad (Telangana) [India], December 8: AbhiBus, India&#8217;s leading bus booking app, has announced the launch of its exciting new campaign, &#8220;Ride and Fly,&#8221; offering users a golden opportunity to win a free flight voucher worth Rs 1000. This festive season, AbhiBus is adding an extra layer of joy to travel plans by providing customers [&#8230;]
+
+Fri, 08 Dec 2023 11:02:16 +0000
+### [Hungary becomes 96th member of International Solar Alliance: MEA](https://theprint.in/world/hungary-becomes-96th-member-of-international-solar-alliance-mea/1877899/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 8 (ANI): Hungary became the 96th member of the International Solar Alliance on Friday, the Ministry of External Affairs said. The ISA is an alliance of more than 120 signatory countries that aims to reduce the dependence on non-renewable sources of energy like fossil fuels. Hungary was handed over the instrument [&#8230;]
+
+Fri, 08 Dec 2023 11:02:02 +0000
+### [Amnesty International calls for release of four Afghan women human right defenders from Taliban prisons](https://theprint.in/world/amnesty-international-calls-for-release-of-four-afghan-women-human-right-defenders-from-taliban-prisons/1877896/)
+
+Article found but Couldn't summarize 
+Kabul [Afghanistan], December 8 (ANI): Amnesty International expressed concern over the detention and alleged torture of women rights defenders in Taliban prisons and demanded their release, as reported by Khaama Press. The four women rights activists, namely Zholia Parsi, Manizha Seddiqi, Neda Parwani, and Parisa Azada were detained by the Taliba authorities between September and [&#8230;]
+
+Fri, 08 Dec 2023 11:01:56 +0000
+### [Delhi Medical Council should have more presence on ground to deal with quacks: HC](https://theprint.in/india/delhi-medical-council-should-have-more-presence-on-ground-to-deal-with-quacks-hc/1877895/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 8 (PTI) The Delhi High Court on Friday said the Delhi Medical Council should be more effective and have its presence on ground to deal with the problem of quacks and sought its stand on verification of doctors. A bench headed by Acting Chief Justice Manmohan issued notice to the National Medical [&#8230;]
+
+Fri, 08 Dec 2023 11:01:39 +0000
+### [Deputy CM Fadnavis inaugurates Indamer-Airbus Helicopters MRO facility in Nagpur](https://theprint.in/india/deputy-cm-fadnavis-inaugurates-indamer-airbus-helicopters-mro-facility-in-nagpur/1877893/)
+
+Article found but Couldn't summarize 
+Nagpur, Dec 8 (PTI) Maharashtra deputy Chief Minister Devendra Fadnavis on Friday inaugurated an Indamer-Airbus Helicopters MRO facility at the Multi Modal International Cargo Hub and Airport at Nagpur (MIHAN). Airbus Helicopters and Indamer have joined hands to provide after-market services for helicopters in India, a release from the company said. Indamer will provide Maintenance, [&#8230;]
+
+Fri, 08 Dec 2023 11:01:25 +0000
+### [Pvt member bill to repeal Waqf Act introduced in Rajya Sabha](https://theprint.in/india/pvt-member-bill-to-repeal-waqf-act-introduced-in-rajya-sabha/1877892/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 8 (PTI) A private member bill seeking to repeal the Waqf Act, 1995, was introduced in the Rajya Sabha after a division of votes amid strong protests by opposition parties. The Waqf Repeal Bill 2022 was moved for introduction by BJP member Harnath Singh Yadav. This was vehemently opposed by members of [&#8230;]
+
+Fri, 08 Dec 2023 11:01:13 +0000
+### [Expulsion of TMC MP Mahua Moitra from Lok Sabha betrayal of parliamentary democracy: Mamata](https://theprint.in/india/expulsion-of-tmc-mp-mahua-moitra-from-lok-sabha-betrayal-of-parliamentary-democracy-mamata/1877891/)
+
+The article reports that Mamata Banerjee, the Chief Minister of West Bengal, criticized the decision to expel TMC MP Mahua Moitra from the Lok Sabha in the 'cash-for-query' case. Banerjee condemned the move as a betrayal of India's parliamentary democracy. Moitra was accused of accepting gifts and illegal gratification from a businessman. Banerjee expressed her support for Moitra and accused the BJP of resorting to vendetta politics. She further mentioned that the BJP did not allow Moitra to explain her stand during the debate. The motion to expel Moitra for "unethical conduct" was adopted by a voice vote. Banerjee expressed confidence that Moitra would return to Parliament with a stronger mandate and warned the BJP about the possibility of losing power in the future.
+
+Fri, 08 Dec 2023 11:01:02 +0000
+### [India biennale to kick off at Red Fort, 7 themes for 7 days](https://theprint.in/india/india-biennale-to-kick-off-at-red-fort-7-themes-for-7-days/1877890/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 8 (PTI) The maiden India Art, Architecture and Design Biennale celebrating the rich tapestry of the country&#8217;s artistic and cultural heritage is set to kick off at the historic Red Fort complex here on Friday evening. Prime Minister Narendra Modi is slated to inaugurate the mega event. He will also visit thematic [&#8230;]
+
+Fri, 08 Dec 2023 11:00:49 +0000
+### [Skill development scam: SC to hear AP govt’s plea against Naidu’s bail on Jan 19](https://theprint.in/india/skill-development-scam-sc-to-hear-ap-govts-plea-against-naidus-bail-on-jan-19/1877889/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 8 (PTI) The Supreme Court will hear the Andhra Pradesh government&#8217;s plea against a high court order granting regular bail to TDP chief N Chandrababu Naidu in the skill development corporation scam case on January 19. A bench of Justices Bela M Trivedi and Satish Chandra Sharma on Friday adjourned the hearing [&#8230;]
+
+Fri, 08 Dec 2023 11:00:37 +0000
+### [J-K Police inspector Masroor Ahmad Wani’s killing to be investigated by NIA: Officer](https://theprint.in/india/j-k-police-inspector-masroor-ahmad-wanis-killing-to-be-investigated-by-nia-officer/1877888/)
+
+Article found but Couldn't summarize 
+Srinagar, Dec 8 (PTI) The probe into the killing of Jammu and Kashmir Police inspector Masroor Ahmad Wani has been handed over to the National Investigation Agency (NIA), a senior police officer said here on Friday. Wani, who was shot by a Lashkar-e-Taiba terrorist while playing cricket in Srinagar in October, died at the All [&#8230;]
+
+Fri, 08 Dec 2023 11:00:21 +0000
+### [A day after assuming office, Telangana CM Revanth Reddy holds ‘Praja Darbar’](https://theprint.in/india/a-day-after-assuming-office-telangana-cm-revanth-reddy-holds-praja-darbar/1877887/)
+
+Article found but Couldn't summarize 
+Hyderabad, Dec 8 (PTI) A day after assuming office, Telangana Chief Minister A Revanth Reddy on Friday held a &#8216;Praja Darbar&#8217; at his camp office-cum-official residence here and heard the grievances of common people, promising to address them at the earliest. People queued up in large numbers at the newly renamed Jyotirao Phule Praja Bhavan [&#8230;]
+
+Fri, 08 Dec 2023 11:00:02 +0000
+### [Northern states represent ‘gaumudra’ and not ‘gaumutra’, says Telangana Governor](https://theprint.in/india/northern-states-represent-gaumudra-and-not-gaumutra-says-telangana-governor/1877886/)
+
+Article found but Couldn't summarize 
+Ahmedabad, Dec 8 (PTI) Telangana Governor Tamilisai Soundararajan on Friday said northern states represent &#8220;gaumudra&#8221; (sacred symbol of cow) and not &#8220;gaumutra&#8221; (cow urine), comments coming in the backdrop of a controversial statement made by a DMK Lok Sabha member in Parliament. Dravida Munnetra Kazhagam (DMK) Lok Sabha member DNV Senthil Kumar on Tuesday triggered [&#8230;]
+
+Fri, 08 Dec 2023 10:47:24 +0000
+### [Soccer-Emery’s impact at Villa no surprise to Arsenal manager Arteta](https://theprint.in/sport/soccer-emerys-impact-at-villa-no-surprise-to-arsenal-manager-arteta/1877884/)
+
+Article found but Couldn't summarize 
+(Reuters) - Aston Villa's upward trajectory under manager Unai Emery is no surprise to Arsenal boss Mikel Arteta who said on Friday he is expecting a tough game when he takes his Premier League
+
+Fri, 08 Dec 2023 10:47:15 +0000
+### [Indian-Australian professor honoured with top microbiology award; says contribution driven by national, global collaborators](https://theprint.in/world/indian-australian-professor-honoured-with-top-microbiology-award-says-contribution-driven-by-national-global-collaborators/1877882/)
+
+Article found but Couldn't summarize 
+Melbourne, Dec 8 (PTI) Distinguished Indian-Australian professor from Western Sydney University, Brajesh Singh, named as this year&#8217;s winner of the Dorothy Jones Prize for microbiology, on Friday said his contribution to science is driven by national as well as global collaborators. The prestigious scientific prize is awarded to a scientist who has used microbiology to [&#8230;]
+
+Fri, 08 Dec 2023 10:47:13 +0000
+### [Cricket-Phillips leads NZ fightback against Bangladesh on gloomy third day](https://theprint.in/sport/cricket-phillips-leads-nz-fightback-against-bangladesh-on-gloomy-third-day/1877881/)
+
+Article found but Couldn't summarize 
+DHAKA (Reuters) - Glenn Phillips made a defiant half-century to keep New Zealand afloat before the tourists reduced Bangladesh to 38-2 in their second innings on Friday as bad light brought the third
+
+Fri, 08 Dec 2023 10:47:03 +0000
+### [Disturbed by crying, mentally-challenged man kills grandson, daughter-in-law in UP](https://theprint.in/india/disturbed-by-crying-mentally-challenged-man-kills-grandson-daughter-in-law-in-up/1877878/)
+
+Article found but Couldn't summarize 
+Sitapur (UP), Dec 8 (PTI) Disturbed by the constant crying of his grandson, a 55-year-old man allegedly killed the 2-year-old boy and his daughter-in law in a village here on Friday morning, police said. The police have arrested the accused Kamalkant, who is said to be mentally-challenged. The incident took place at a house in [&#8230;]
+
+Fri, 08 Dec 2023 10:47:03 +0000
+### [Bybit Unveils Its Web3 Vision: Pioneering Simplicity, Openness, and Equality in the Decentralized Ecosystem](https://theprint.in/ani-press-releases/bybit-unveils-its-web3-vision-pioneering-simplicity-openness-and-equality-in-the-decentralized-ecosystem/1877877/)
+
+Article found but Couldn't summarize 
+PRNewswire Dubai [UAE], December 8: Bybit, the world&#8217;s third-largest crypto exchange by volume, today unveiled its forward-thinking Web3 vision on its 5th anniversary, aimed at creating a decentralized ecosystem that is Simpler, Open, and Equal for all. &#8220;Our Web3 vision is an extension of our promise to be the Crypto Ark, safeguarding user assets and [&#8230;]
+
+Fri, 08 Dec 2023 10:47:03 +0000
+### [Soccer-Belgium, Germany and Netherlands submit joint bid to host 2027 women’s World Cup](https://theprint.in/sport/soccer-belgium-germany-and-netherlands-submit-joint-bid-to-host-2027-womens-world-cup/1877876/)
+
+Article found but Couldn't summarize 
+(Reuters) - Belgium, Germany and the Netherlands have submitted a joint bid to world soccer governing body FIFA to host the Women's World Cup in 2027, the countries' football associations said on
+
+Fri, 08 Dec 2023 10:46:52 +0000
+### [Onion farmers stage protest on Mumbai-Agra Highway, stop auctions over Centre’s ban on exports](https://theprint.in/india/onion-farmers-stage-protest-on-mumbai-agra-highway-stop-auctions-over-centres-ban-on-exports/1877874/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 8 (PTI) Onion farmers blocked the Mumbai Agra Highway at three places in Maharashtra&#8217;s Nashik and stopped auctions in wholesale markets of the district on Friday after the Centre announced a ban on the export of the kitchen staple, police said. The Centre has banned onion exports till March 31, 2024, to increase [&#8230;]
+
+Fri, 08 Dec 2023 10:46:50 +0000
+### [UK antitrust regulator considering Microsoft, OpenAI partnership](https://theprint.in/tech/uk-antitrust-regulator-considering-microsoft-openai-partnership/1877873/)
+
+Article found but Couldn't summarize 
+LONDON (Reuters) -Britain's antitrust regulator will review whether Microsoft's partnership with OpenAI has resulted in an "acquisition of control," which leads to one party having material influence
+
 Fri, 08 Dec 2023 10:20:57 +0000
 ### [Rajnath in Rajasthan, Khattar in MP, Munda in Chhattisgarh: How BJP chose observers for CM selection](https://theprint.in/politics/rajnath-in-rajasthan-khattar-in-mp-munda-in-chhattisgarh-how-bjp-chose-observers-for-cm-selection/1877533/)
 

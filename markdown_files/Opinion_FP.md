@@ -1,3 +1,9 @@
+Fri, 08 Dec 2023 15:44:23 +0530
+### [Vantage | Why is Hamas asking for Pakistan's help against Israel?](https://www.firstpost.com/opinion/vantage-why-is-hamas-asking-for-pakistans-help-against-israel-13481322.html)
+
+Article found but Couldn't summarize 
+Vantage | Why is Hamas asking for Pakistan's help against Israel?
+
 Fri, 08 Dec 2023 14:52:17 +0530
 ### [Righting historical wrongs in Jammu and Kashmir](https://www.firstpost.com/opinion/righting-historical-wrongs-in-jammu-and-kashmir-13481022.html)
 

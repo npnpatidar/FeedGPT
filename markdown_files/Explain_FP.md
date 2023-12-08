@@ -1,3 +1,15 @@
+Fri, 08 Dec 2023 16:11:22 +0530
+### [What's the antisemitism row at Harvard, Penn, MIT? How it could hurt the universities?](https://www.firstpost.com/explainers/whats-the-antisemitism-row-at-harvard-penn-mit-how-it-could-hurt-the-universities-13481522.html)
+
+Article found but Couldn't summarize 
+What's the antisemitism row at Harvard, Penn, MIT? How it could hurt the universities?
+
+Fri, 08 Dec 2023 15:47:48 +0530
+### [Notice for Students: Why studying in Canada will get costlier](https://www.firstpost.com/explainers/notice-for-students-why-studying-in-canada-will-get-costlier-13481012.html)
+
+Article found but Couldn't summarize 
+Notice for Students: Why studying in Canada will get costlier
+
 Fri, 08 Dec 2023 13:59:20 +0530
 ### [Vladimir Putin is a Narendra Modi fan: The story of their bonhomie](https://www.firstpost.com/explainers/vladimir-putin-is-a-narendra-modi-fan-the-story-of-their-bonhomie-13480262.html)
 
