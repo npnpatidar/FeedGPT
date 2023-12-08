@@ -1,3 +1,109 @@
+Fri, 08 Dec 2023 01:02:02 +0000
+### [Biden holds talks with Netanyahu, emphasises ‘critical need to protect civilians’](https://theprint.in/world/biden-holds-talks-with-netanyahu-emphasises-critical-need-to-protect-civilians/1877156/)
+
+Article found but Couldn't summarize 
+Washington DC [US], December 8 (ANI): US President Joe Biden on Thursday (local time) held talks with Israel Prime Minister Benjamin Netanyahu, emphasizing the &#8220;critical need&#8221; to protect civilians and to separate them from Hamas terrorists, including through corridors. The two leaders discussed developments in Gaza, with Biden stressing the importance of the &#8220;continuous and [&#8230;]
+
+Fri, 08 Dec 2023 01:00:18 +0000
+### [Approval of Brazil’s Lula roughly stable in December -polls](https://theprint.in/world/approval-of-brazils-lula-roughly-stable-in-december-polls/1877154/)
+
+According to two polls released in December, the approval rating of Brazilian President Luiz Inacio Lula da Silva's government remained relatively stable. In a survey conducted by Datafolha, Lula had an approval rate of 38%, unchanged from the previous release in September. The disapproval rate dropped slightly to 30% from 31%, but it was still higher than the 27% registered in June. Another 30% of respondents remained neutral. A separate poll by Ipec also showed a 38% approval rating for Lula's government, down from 40% in the previous poll. The disapproval rate in this poll was 30%, compared to 25% in September. Additionally, 39% of the people interviewed by Ipec believed that Brazil's economy is better than expected, while 36% believed it is worse. The Datafolha survey interviewed 2,004 people in 135 Brazilian cities on December 5, while Ipec polled 2,000 people in 128 cities from December 1 to 5. Both surveys have a margin of error of two percentage points.
+
+Fri, 08 Dec 2023 01:00:04 +0000
+### [Ukraine says Russian forces use aviation, keep pushing on Avdiivka](https://theprint.in/world/ukraine-says-russian-forces-use-aviation-keep-pushing-on-avdiivka/1877152/)
+
+Article found but Couldn't summarize 
+(Reuters) - Russian forces relied heavily on aerial attacks on Thursday in their slow-moving campaign to win control of eastern Ukraine and resorted to new smaller attack groups in pressing to capture
+
+Fri, 08 Dec 2023 00:32:01 +0000
+### [Anti-tank missile kills Israeli farmer near Lebanese border](https://theprint.in/world/anti-tank-missile-kills-israeli-farmer-near-lebanese-border/1877144/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], December 8 (ANI/TPS): An Israeli farmer was killed on Thursday when an anti-tank missile hit a vehicle in the Upper Galilee community of Mattat, near the Lebanese border. Paramedics pronounced dead a 54-year-old man &#8220;with no vital signs&#8221; after military medics evacuated him to a nearby intersection near Mattat, the Magen David [&#8230;]
+
+Fri, 08 Dec 2023 00:17:01 +0000
+### [Preparations for polls underway, schedule to be announced in few days: Pak Chief Election Commissioner](https://theprint.in/world/preparations-for-polls-underway-schedule-to-be-announced-in-few-days-pak-chief-election-commissioner/1877141/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 8 (ANI): Pakistan&#8217;s Chief Election Commissioner (CEC) Sikander Sultan Raja said preparations for the general elections are being made and the schedule for the elections will be announced in a few days, Pakistan-based Geo News reported. In a statement marking National Voters Day, Sikander Sultan Raja said the Election Commission knows its [&#8230;]
+
+Fri, 08 Dec 2023 00:16:25 +0000
+### [Soccer-Postecoglou says Tottenham lacking conviction as winless run goes on](https://theprint.in/sport/soccer-postecoglou-says-tottenham-lacking-conviction-as-winless-run-goes-on/1877139/)
+
+Article found but Couldn't summarize 
+By Martyn Herman LONDON (Reuters) - After watching his Tottenham Hotspur side throw away yet more Premier League points from a winning position, manager Ange Postecoglous's patience is beginning to
+
+Fri, 08 Dec 2023 00:16:16 +0000
+### [Golf-Masters champion Rahm joins LIV Golf](https://theprint.in/sport/golf-masters-champion-rahm-joins-liv-golf/1877137/)
+
+Article found but Couldn't summarize 
+(Reuters) - Masters champion Jon Rahm jumped from the PGA Tour to Saudi-backed LIV Golf on Thursday in a big-money move that has sent another shockwave through the sport. The 29-year-old becomes the
+
+Fri, 08 Dec 2023 00:16:05 +0000
+### [Snooker-Murphy hits first 147 in Shoot-Out history](https://theprint.in/sport/snooker-murphy-hits-first-147-in-shoot-out-history/1877135/)
+
+Shaun Murphy, an Englishman, achieved the first-ever 147 break in the history of the Snooker Shoot-Out tournament. He accomplished this feat during his first-round match against Bulcsu Revesz, a Hungarian teenager. Murphy cleared the table with two minutes and 26 seconds remaining on the shot clock, which allows only 15 seconds per shot initially and reduces to 10 seconds in the final five minutes. This break surpassed the previous record of 142, set by Mark Allen in 2011. Murphy expressed his excitement and joy, stating that he loves the event and wanted to make a century break. He will receive a prize of £5,000 ($6,293.50) for achieving the highest break unless it is equaled in subsequent rounds.
+
+Fri, 08 Dec 2023 00:15:53 +0000
+### [US judge orders Binance’s former chief to stay in US until sentencing -filing](https://theprint.in/tech/us-judge-orders-binances-former-chief-to-stay-in-us-until-sentencing-filing/1877133/)
+
+Article found but Couldn't summarize 
+NEW YORK (Reuters) -Former Binance chief Changpeng Zhao has to remain in the continental United States ahead of his sentencing for violating U.S. anti-money laundering laws, U.S. District Judge
+
+Fri, 08 Dec 2023 00:15:44 +0000
+### [Binance’s former chief has to stay in US until February sentencing -filing](https://theprint.in/tech/binances-former-chief-has-to-stay-in-us-until-february-sentencing-filing/1877131/)
+
+Article found but Couldn't summarize 
+NEW YORK (Reuters) -Former Binance chief Changpeng Zhao has to remain in the continental United States ahead of his sentencing for violating U.S. anti-money laundering laws, U.S. District Judge
+
+Fri, 08 Dec 2023 00:15:26 +0000
+### [UK made additional payment to Rwanda, says unrelated to deportation scheme](https://theprint.in/world/uk-made-additional-payment-to-rwanda-says-unrelated-to-deportation-scheme/1877129/)
+
+Article found but Couldn't summarize 
+(Reuters) - Britain paid Rwanda an additional 100 million pounds ($126 million) in April, on top of the 140 million pounds that was already paid last year, according to the Home Office, even before
+
+Fri, 08 Dec 2023 00:15:15 +0000
+### [Las Vegas campus gunman identified as struggling academic](https://theprint.in/world/las-vegas-campus-gunman-identified-as-struggling-academic/1877127/)
+
+Article found but Couldn't summarize 
+By Steve Gorman (Reuters) -The gunman shot dead by police after he killed three professors and wounded a fourth at the University of Nevada, Las Vegas, was a financially struggling academic who was
+
+Fri, 08 Dec 2023 00:15:05 +0000
+### [Explainer-What is at stake for investors in Congo’s election?](https://theprint.in/world/explainer-what-is-at-stake-for-investors-in-congos-election/1877125/)
+
+Article found but Couldn't summarize 
+(Reuters) - Voters in Democratic Republic of Congo go to the polls on Dec. 20 and international investors are keenly watching to see if a political shake-up occurs in one of the world's top suppliers
+
+Thu, 07 Dec 2023 23:45:30 +0000
+### [Broadcom sees revenue below estimates on weak enterprise spending](https://theprint.in/tech/broadcom-sees-revenue-below-estimates-on-weak-enterprise-spending/1877119/)
+
+Article found but Couldn't summarize 
+By Arsheeya Bajwa and Chavi Mehta (Reuters) -Chipmaker Broadcom forecast annual revenue below Wall Street estimates on Thursday, as weak enterprise spending and stiff competition cast a shadow on its
+
+Thu, 07 Dec 2023 23:45:17 +0000
+### [India curbs ethanol production from cane juice to boost sugar supplies](https://theprint.in/economy/india-curbs-ethanol-production-from-cane-juice-to-boost-sugar-supplies/1877117/)
+
+Article found but Couldn't summarize 
+By Mayank Bhardwaj and Rajendra Jadhav NEW DELHI/MUMBAI (Reuters) - India directed sugar mills not to use cane juice or syrup to produce ethanol, the government said in a notification on Thursday, as
+
+Thu, 07 Dec 2023 23:45:06 +0000
+### [India’s fuel demand slips in November from four-month peak](https://theprint.in/economy/indias-fuel-demand-slips-in-november-from-four-month-peak/1877115/)
+
+Article found but Couldn't summarize 
+(Reuters) - India's fuel consumption in November fell after hitting a four month peak in the previous month, hit by reduced travel in the world's third biggest oil consumer as a festive boost fizzled
+
+Thu, 07 Dec 2023 23:45:03 +0000
+### [India strategic partner but those behind assassination plot need to be held accountable: White House](https://theprint.in/world/india-strategic-partner-but-those-behind-assassination-plot-need-to-be-held-accountable-white-house/1877114/)
+
+Article found but Couldn't summarize 
+Washington, Dec 8 (PTI) India is a strategic partner for the United States, the White House has said as it urged New Delhi to hold accountable those responsible for the plot to assassinate a separatist Sikh leader, who is an American citizen. “India is a strategic partner. We&#8217;re deepening that strategic partnership. They&#8217;re a member [&#8230;]
+
+Thu, 07 Dec 2023 23:32:02 +0000
+### [X announces Grok rolling to Premium Plus subscribers in US next week](https://theprint.in/world/x-announces-grok-rolling-to-premium-plus-subscribers-in-us-next-week/1877111/)
+
+Article found but Couldn't summarize 
+Washington DC [US], December 8 (ANI): Social media platform X has announced that Elon Musk&#8217;s artificial intelligence venture, xAI, is rolling out Grok to Premium Plus subscribers of X in the US next week. X has announced that users can find Grok in the side menu on web, iOS, and Android. In a post, X [&#8230;]
+
 Thu, 07 Dec 2023 23:15:59 +0000
 ### [Soccer-West Ham stun Tottenham with comeback win](https://theprint.in/sport/soccer-west-ham-stun-tottenham-with-comeback-win/1877109/)
 

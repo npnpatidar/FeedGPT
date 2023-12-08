@@ -1,3 +1,9 @@
+Thu, 07 Dec 2023 23:36:11 +0530
+### [FirstUp: PM Modi at Red Fort, Rahul goes abroad, RBI meet… today’s big events](https://www.firstpost.com/explainers/firstup-pm-modi-at-red-fort-rahul-goes-abroad-rbi-meet-todays-big-events-13478922.html)
+
+Article found but Couldn't summarize 
+FirstUp: PM Modi at Red Fort, Rahul goes abroad, RBI meet… today’s big events
+
 Thu, 07 Dec 2023 19:59:37 +0530
 ### [How Indian-American stole $22 million from US football team for life of luxury](https://www.firstpost.com/explainers/how-indian-american-stole-22-million-from-us-football-team-for-life-of-luxury-13478652.html)
 
