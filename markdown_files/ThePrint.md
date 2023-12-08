@@ -1,3 +1,83 @@
+Fri, 08 Dec 2023 02:16:46 +0000
+### [Soccer-Copa America group stage draw](https://theprint.in/sport/soccer-copa-america-group-stage-draw/1877182/)
+
+Article found but Couldn't summarize 
+MIAMI (Reuters) - Following is the 2024 Copa America group stage draw, which was made at the James L. Knight Center in Miami, United States on Thursday: GROUP A Argentina Peru Chile CONCACAF Play-off
+
+Fri, 08 Dec 2023 02:16:36 +0000
+### [Cricket-Warner shrugs off Johnson criticism as a home summer ‘headline’](https://theprint.in/sport/cricket-warner-shrugs-off-johnson-criticism-as-a-home-summer-headline/1877180/)
+
+Article found but Couldn't summarize 
+MELBOURNE (Reuters) - David Warner has shrugged off Mitchell Johnson's withering criticism of his selection in Australia's test squad as a "headline" for the home summer, saying his former team mate
+
+Fri, 08 Dec 2023 02:16:25 +0000
+### [More than 10 million people have signed up for X in December, CEO says](https://theprint.in/tech/more-than-10-million-people-have-signed-up-for-x-in-december-ceo-says/1877178/)
+
+According to a post by X CEO Linda Yaccarino on a social media platform, over 10 million people have signed up for X in December. However, the company, previously known as Twitter, is facing a potential loss of up to $75 million in advertising revenue by the end of the year as several major brands have paused their marketing campaigns on the platform. The New York Times reported on this risk. X, which does not regularly disclose user data, has not commented on how the December sign-ups compare to the average or why Yaccarino shared this figure. In July, X's billionaire owner Elon Musk stated that the site had 540 million monthly users.
+
+In November, various companies such as Apple, Disney, Warner Bros Discovery, Comcast, Lions Gate Entertainment, Paramount Global, and IBM announced that they were halting their advertisements on X. This decision came after Musk faced controversy for agreeing with a user who made false claims about Jewish people inciting hatred against white people. Additionally, a watchdog group called Media Matters discovered ads from major companies appearing next to X posts supporting Nazism. X subsequently filed a lawsuit against Media Matters, accusing them of defamation.
+
+Please note that this summary is generated and may not accurately reflect the content of the original article.
+
+Fri, 08 Dec 2023 02:16:12 +0000
+### [Green groups at COP28 demand U.S. halt support for LNG](https://theprint.in/environment/green-groups-at-cop28-demand-u-s-halt-support-for-lng/1877176/)
+
+Article found but Couldn't summarize 
+(Reuters) - More than 250 environmental and community groups on Thursday called on the administration of U.S. President Joe Biden to halt its support for liquefied natural gas (LNG) due to the
+
+Fri, 08 Dec 2023 02:16:00 +0000
+### [Oil prices head for weekly decline on signs of weakened Asian demand](https://theprint.in/economy/oil-prices-head-for-weekly-decline-on-signs-of-weakened-asian-demand/1877174/)
+
+Article found but Couldn't summarize 
+By Stephanie Kelly (Reuters) - Oil prices rose in early trade on Friday but were on track to fall 6% for the week, hovering near six-month lows, with investors fretting about weak energy demand in
+
+Fri, 08 Dec 2023 02:15:50 +0000
+### [Trump fake electors buckle in Wisconsin, get charged in Nevada](https://theprint.in/world/trump-fake-electors-buckle-in-wisconsin-get-charged-in-nevada/1877172/)
+
+Article found but Couldn't summarize 
+WASHINGTON (Reuters) - Nevada charged six Republican fake electors in connection with a scheme to overturn Donald Trump's 2020 election loss to President Joe Biden, while 10 false electors reached a
+
+Fri, 08 Dec 2023 02:15:42 +0000
+### [Peru prosecutor suspended while anti-govt protests spread](https://theprint.in/world/peru-prosecutor-suspended-while-anti-govt-protests-spread/1877170/)
+
+Article found but Couldn't summarize 
+LIMA (Reuters) - Peru's justice oversight board suspended Attorney General Patricia Benavides amid an anti-corruption probe and as protesters on Thursday called on President Dina Boluarte to resign on
+
+Fri, 08 Dec 2023 02:15:33 +0000
+### [US, South Korean and Japanese security advisers meet to discuss North Korea](https://theprint.in/world/us-south-korean-and-japanese-security-advisers-meet-to-discuss-north-korea/1877168/)
+
+Article found but Couldn't summarize 
+SEOUL (Reuters) - The national security advisers of the United States, South Korea and Japan are set to meet in Seoul on Friday and Saturday to discuss North Korea and other global issues as they step
+
+Fri, 08 Dec 2023 02:15:23 +0000
+### [Ukraine using trains to move blocked lorries across Polish border](https://theprint.in/world/ukraine-using-trains-to-move-blocked-lorries-across-polish-border/1877166/)
+
+Article found but Couldn't summarize 
+KYIV (Reuters) -Ukraine began using train platforms on Thursday to bypass a border blockade by Polish truck drivers, Ukrzalynitsya, Ukraine's rail network, said. The first train deployed in the
+
+Fri, 08 Dec 2023 02:15:13 +0000
+### [Australia ‘heartened’ as US Congress expected to pass AUKUS provisions](https://theprint.in/world/australia-heartened-as-us-congress-expected-to-pass-aukus-provisions/1877164/)
+
+Article found but Couldn't summarize 
+By Kirsty Needham SYDNEY (Reuters) - Australia's government on Friday welcomed signs that a U.S. defense spending bill which would authorise the sale of nuclear submarines to Australia is set to pass
+
+Fri, 08 Dec 2023 02:15:03 +0000
+### [Taiwan spots Chinese balloon in strait month before election](https://theprint.in/world/taiwan-spots-chinese-balloon-in-strait-month-before-election/1877162/)
+
+The Taiwanese defense ministry has reported that a Chinese balloon crossed the median line of the Taiwan Strait, just ahead of the upcoming presidential election in Taiwan. Taiwan has long accused China of trying to influence its elections through military and economic pressure. China has been increasing its military activities around Taiwan in recent years, including conducting war games. The balloon was detected southwest of Keelung and traveled eastward before disappearing. Earlier this year, a similar balloon landed on a Taiwanese-held islet near China's coast, which was claimed by China to be for weather monitoring purposes.
+
+Fri, 08 Dec 2023 02:00:39 +0000
+### [Lower tax revenue growth & higher spending as 2024 polls approach could put strain on govt finances](https://theprint.in/macrosutra/lower-tax-revenue-growth-higher-spending-as-2024-polls-approach-could-put-strain-on-govt-finances/1876513/)
+
+Article found but Couldn't summarize 
+With tax revenue not doing as well as needed, govt has few choices before it: reduce subsidy-led revenue expenditure, cut back on growth-oriented capex, or miss its fiscal deficit target.
+
+Fri, 08 Dec 2023 01:47:02 +0000
+### [At UN, India calls out state complicity in “suppressing activities of transnational criminal groups”](https://theprint.in/world/at-un-india-calls-out-state-complicity-in-suppressing-activities-of-transnational-criminal-groups/1877160/)
+
+Article found but Couldn't summarize 
+New York [US], December 8 (ANI): India has emphasised the need to address growing state complicity in suppressing the activities of transnational criminal groups, India&#8217;s Permanent Representative to the United Nations Ruchira Kamboj said on Thursday (local time). Speaking at a United Nations Security Council debate on &#8216;Threats to International Peace and Security: Transnational Organized [&#8230;]
+
 Fri, 08 Dec 2023 01:02:02 +0000
 ### [Biden holds talks with Netanyahu, emphasises ‘critical need to protect civilians’](https://theprint.in/world/biden-holds-talks-with-netanyahu-emphasises-critical-need-to-protect-civilians/1877156/)
 

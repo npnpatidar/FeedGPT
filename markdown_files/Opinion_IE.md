@@ -1,3 +1,43 @@
+Fri, 08 Dec 2023 01:53:09 +0000
+### [Yogendra Yadav writes: For 2024, Opposition is still in the game](https://indianexpress.com/article/opinion/columns/yogendra-yadav-writes-for-2024-opposition-is-still-in-the-game-9058961/)
+
+Article found but Couldn't summarize
+
+Fri, 08 Dec 2023 01:37:17 +0000
+### [Derek O’Brien writes: Let’s bring laughter back to Parliament](https://indianexpress.com/article/opinion/columns/derek-obrien-writes-lets-bring-laughter-back-to-parliament-9058966/)
+
+Article found but Couldn't summarize
+
+Fri, 08 Dec 2023 01:37:11 +0000
+### [Who can stop Narendra Modi from a third term in office?](https://indianexpress.com/article/opinion/columns/who-can-stop-narendra-modi-from-a-third-term-in-office-9058962/)
+
+Article found but Couldn't summarize
+
+Fri, 08 Dec 2023 01:30:58 +0000
+### [Why is India covered in a haze one year and not the other? Delegates at COP28 have to join the dots](https://indianexpress.com/article/opinion/columns/why-is-india-covered-in-a-haze-one-year-and-not-the-other-delegates-at-cop28-have-to-join-the-dots-9058957/)
+
+Article found but Couldn't summarize
+
+Fri, 08 Dec 2023 01:20:00 +0000
+### [Express View on Chennai floods: A wake-up call for urban planners](https://indianexpress.com/article/opinion/editorials/express-view-on-chennai-floods-a-wake-up-call-for-urban-planners-9058958/)
+
+Article found but Couldn't summarize
+
+Fri, 08 Dec 2023 01:15:03 +0000
+### [Express View: The familiar gaslighting of Kim Jong-un](https://indianexpress.com/article/opinion/editorials/express-view-the-familiar-gaslighting-of-kim-jong-un-9058959/)
+
+Article found but Couldn't summarize
+
+Fri, 08 Dec 2023 01:00:06 +0000
+### [December 8, 1983, Forty Years Ago: A US spy in Delhi](https://indianexpress.com/article/opinion/40-years-ago/december-8-1983-forty-years-ago-a-us-spy-in-delhi-9058960/)
+
+Article found but Couldn't summarize
+
+Fri, 08 Dec 2023 00:53:17 +0000
+### [Express View: Farm dos and don’ts](https://indianexpress.com/article/opinion/editorials/express-view-farm-dos-and-donts-9058964/)
+
+Article found but Couldn't summarize
+
 Thu, 07 Dec 2023 12:17:34 +0000
 ### [In developing Devbhumi Uttarakhand, navigating the ‘wrath of gods’ is as important as scientific data](https://indianexpress.com/article/opinion/developing-devbhumi-uttarakhand-navigating-wrath-gods-important-scientific-data-9058514/)
 
