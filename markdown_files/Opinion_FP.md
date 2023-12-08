@@ -1,3 +1,9 @@
+Fri, 08 Dec 2023 14:08:05 +0530
+### [Vantage | Why it's time for colonisers like UK to pay up trillions of dollars they looted](https://www.firstpost.com/opinion/vantage-why-its-time-for-colonisers-like-uk-to-pay-up-trillions-of-dollars-they-looted-13480862.html)
+
+Article found but Couldn't summarize 
+Vantage | Why it's time for colonisers like UK to pay up trillions of dollars they looted
+
 Fri, 08 Dec 2023 11:49:14 +0530
 ### [How top leadership's whole-of-government approach contributed to triumph in Silkyara Tunnel rescue](https://www.firstpost.com/opinion/how-top-leaderships-whole-of-government-approach-contributed-to-triumph-in-silkyara-tunnel-rescue-13479792.html)
 

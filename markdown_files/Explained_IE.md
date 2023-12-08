@@ -1,3 +1,13 @@
+Fri, 08 Dec 2023 08:47:30 +0000
+### [A tale of two recoveries: How Chennai’s industrial landscape is dealing with the aftermath of Cyclone Michaung](https://indianexpress.com/article/explained/chennai-industrial-landscape-cyclone-michaung-flood-9059626/)
+
+Article found but Couldn't summarize
+
+Fri, 08 Dec 2023 08:40:55 +0000
+### [SC to deliver verdict on Article 370 on Monday: The challenge and issues, explained](https://indianexpress.com/article/explained/explained-law/supreme-court-verdict-article-370-issues-explained-9059739/)
+
+Article found but Couldn't summarize
+
 Fri, 08 Dec 2023 05:25:45 +0000
 ### [Monetary policy: Why RBI’s policy panel has kept repo rate unchanged while revising growth upwards](https://indianexpress.com/article/explained/explained-economics/rbi-monetary-policy-repo-rate-growth-explained-9059417/)
 

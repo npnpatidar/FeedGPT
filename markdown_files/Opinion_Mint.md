@@ -1,3 +1,9 @@
+Fri, 08 Dec 2023 14:41:37 +0530
+### [The pandemic may be behind us, but digital healthcare is here to stay](https://www.livemint.com/opinion/first-person/the-pandemic-may-be-behind-us-but-digital-healthcare-is-here-to-stay-11702025929202.html)
+
+Article found but Couldn't summarize 
+Healthcare underwent a forced digital transformation during covid, but tech adoption has persisted beyond the pandemic as it has played a huge role in reducing inefficiencies in the sector.
+
 Fri, 08 Dec 2023 12:09:12 +0530
 ### [Untangling revenge from justice in the $6 bn opioid addiction settlement case in the US](https://www.livemint.com/opinion/untangling-revenge-from-justice-in-the-6-bn-opioid-addiction-settlement-case-in-the-us-11702016687385.html)
 

@@ -1,3 +1,9 @@
+Fri, 08 Dec 2023 13:59:20 +0530
+### [Vladimir Putin is a Narendra Modi fan: The story of their bonhomie](https://www.firstpost.com/explainers/vladimir-putin-is-a-narendra-modi-fan-the-story-of-their-bonhomie-13480262.html)
+
+Article found but Couldn't summarize 
+Vladimir Putin is a Narendra Modi fan: The story of their bonhomie
+
 Fri, 08 Dec 2023 13:46:17 +0530
 ### [China has built the deepest laboratory on Earth. Here's what it's looking for](https://www.firstpost.com/explainers/china-has-built-the-deepest-laboratory-on-earth-heres-what-its-looking-for-13480772.html)
 

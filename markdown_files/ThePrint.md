@@ -1,3 +1,120 @@
+Fri, 08 Dec 2023 09:03:43 +0000
+### [Gulmarg: People dance to Bollywood classic numbers at Kongdoori Musical Event](https://theprint.in/feature/gulmarg-people-dance-to-bollywood-classic-numbers-at-kongdoori-musical-event/1877665/)
+
+Article found but Couldn't summarize 
+Srinagar (Jammu and Kashmir) [India], December 8 (ANI): Kashmir is known for its beautiful and pristine landscape. Most people go to Srinagar, Gulmarg and Sonmarg for vacation. However, attending a musical festival makes the trip more exciting. Tourists and visitors sang and danced their hearts out to popular Bollywood and classic numbers as they attended [&#8230;]
+
+Fri, 08 Dec 2023 09:02:53 +0000
+### [Junior Mehmood Funeral: Johny Lever, Sudesh Bhosale pay their last respects](https://theprint.in/feature/junior-mehmood-funeral-johny-lever-sudesh-bhosale-pay-their-last-respects/1877662/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 8 (ANI): Actor Johny Lever and playback singer Sudesh Bhosale paid their last respects to veteran actor Junior Mehmood in Mumbai on Friday. Junior Mehmood, who was battling with stage four cancer passed away in Mumbai on Friday. He was 67. The actor breathed his last in the early hours of [&#8230;]
+
+Fri, 08 Dec 2023 09:02:31 +0000
+### [Hema Malini pens adorable birthday wish for husband Dharmendra](https://theprint.in/feature/hema-malini-pens-adorable-birthday-wish-for-husband-dharmendra/1877660/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 8 (ANI): Veteran actor turned politician Hema Malini on Friday penned an adorable birthday wish for her husband and veteran star Dharmendra. Taking to Instagram, she shared a picture in which the husband and wife could be seen sharing their cute smiles. The &#8216;Seeta aur Geeta&#8217; actor captioned the post, &#8220;Wishing [&#8230;]
+
+Fri, 08 Dec 2023 09:02:03 +0000
+### [Aditya Pancholi, Raza Murad express grief on Junior Mehmood’s demise](https://theprint.in/feature/aditya-pancholi-raza-murad-express-grief-on-junior-mehmoods-demise/1877657/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 8 (ANI): Veteran actors Aditya Pancholi and Raza Murad expressed their grief and paid their last respects to veteran actor Junior Mehmood in Mumbai on Friday. Junior Mehmood, who was battling with stage four cancer. He was 67. The actor breathed his last in the early hours of Friday. Junior Mehmood&#8217;s [&#8230;]
+
+Fri, 08 Dec 2023 09:01:02 +0000
+### [Municipal Corporation of Delhi postpones special budget meeting to Saturday](https://theprint.in/india/municipal-corporation-of-delhi-postpones-special-budget-meeting-to-saturday/1877656/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 8 (PTI) The Municipal Corporation of Delhi has postponed to December 9 its special budget meeting scheduled for Friday to table the revised budget estimates for 2023-24 and the budget estimates for 2024-25, according to an official notice. The notice did not mention any reason for the postponement. The special budget meeting [&#8230;]
+
+Fri, 08 Dec 2023 09:00:50 +0000
+### [Elephant tramples two to death in Odisha’s Angul](https://theprint.in/india/elephant-tramples-two-to-death-in-odishas-angul-2/1877655/)
+
+Two individuals, Guru Nayak and Ainthu Sahu, were tragically trampled to death by a wild elephant in separate incidents in Odisha's Angul district. The forest official confirmed the recovery of their bodies on Thursday night. According to Vivek Kumar, the Divisional Forest Officer, the elephant first attacked Nayak in Saradhapur while he was on a walk and then proceeded to attack Sahu in Cheliapada. The authorities are investigating the circumstances surrounding the incidents and will take appropriate action based on the elephant's behavior. The families of the deceased will receive compensation as per norms.
+
+Fri, 08 Dec 2023 09:00:34 +0000
+### [Govt further tightens stock limits on wheat to curb hoarding, check prices](https://theprint.in/economy/govt-further-tightens-stock-limits-on-wheat-to-curb-hoarding-check-prices/1877654/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 8 (PTI) The government on Friday further tightened stock holding norms for wholesalers, retailers, big chain retailers and processors with immediate effect in order to curb hoarding and to check price rise. Briefing media, Food Secretary Sanjeev Chopra said the stock limit has been reduced to 1,000 tonnes from the existing 2,000 [&#8230;]
+
+Fri, 08 Dec 2023 09:00:19 +0000
+### [Malik a senior colleague, haven’t spoken to him about his political stand: Praful Patel](https://theprint.in/india/malik-a-senior-colleague-havent-spoken-to-him-about-his-political-stand-praful-patel/1877653/)
+
+Article found but Couldn't summarize 
+Nagpur, Dec 8 (PTI) Praful Patel, working president of the Ajit Pawar-led NCP group, on Friday called Nawab Malik a senior colleague and said where he sits in the Maharashtra assembly wasn’t an issue. Patel said they have not yet spoken to Malik about his political views. Talking to reporters here, Patel said Deputy Chief [&#8230;]
+
+Fri, 08 Dec 2023 09:00:03 +0000
+### [Corruption and nepotism replaced by growth and development in last 10 years: Amit Shah](https://theprint.in/india/corruption-and-nepotism-replaced-by-growth-and-development-in-last-10-years-amit-shah/1877652/)
+
+Union Home Minister Amit Shah spoke at the Akhil Bharatiya Vidyarthi Parishad’s national conference, expressing optimism about the future of India's youth. According to Shah, corruption, nepotism, and casteism have been replaced by growth and development over the past decade. He emphasized that education serves not only to shape careers but also to contribute to nation-building. Shah highlighted the significance of youth power in driving the country's growth and development, stating that India's time has come and that the world looks to it for solutions. Additionally, he mentioned that conserving cultural heritage and pursuing development are not contradictory. Shah praised the ABVP for its efforts in addressing education system flaws and fostering character development among students.
+
+Fri, 08 Dec 2023 08:58:06 +0000
+### [‘Aspirational India wants a stable govt,’ says Modi at business summit in Uttarakhand](https://theprint.in/india/aspirational-india-wants-a-stable-govt-says-modi-at-business-summit-in-uttarakhand/1877649/)
+
+Article found but Couldn't summarize 
+Speaking at Uttarakhand Global Investors Summit, PM Narendra Modi says he will propel India to 'third-largest economy' in next few years, ‘during his third term in office’.
+
+Fri, 08 Dec 2023 08:47:02 +0000
+### [Israel: Footage from terrorist’s body cam shows them](https://theprint.in/world/israel-footage-from-terrorists-body-cam-shows-them/1877647/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], December 8 (ANI/TPS): The IDF (Israel Defense Forces) revealed on Thursday evening more body cam footage taken from the bodies of terrorists eliminated by its forces. One video showed several terrorists crawling on the ground inside of an apartment with RPGs and Kalashnikov rifles towards the window, ready to fire on Israeli [&#8230;]
+
+Fri, 08 Dec 2023 08:45:32 +0000
+### [UK paid Rwanda additional $126 million for contested migrant plan](https://theprint.in/world/uk-paid-rwanda-additional-126-million-for-contested-migrant-plan/1877645/)
+
+Article found but Couldn't summarize 
+By Sarah Young and Rishabh Jaiswal LONDON (Reuters) -Britain paid Rwanda an additional 100 million pounds ($126 million) in April, on top of 140 million pounds it previously sent, as the bill for its
+
+Fri, 08 Dec 2023 08:45:19 +0000
+### [Azerbaijan tipped to host COP29 climate talks, says Russia backs it](https://theprint.in/world/azerbaijan-tipped-to-host-cop29-climate-talks-says-russia-backs-it/1877643/)
+
+Article found but Couldn't summarize 
+By Kate Abnett, Alexander Cornwell and Elizabeth Piper DUBAI (Reuters) - Azerbaijan is tipped to host next year's U.N. climate summit, after striking a late deal with longtime adversary Armenia over
+
+Fri, 08 Dec 2023 08:45:18 +0000
+### [Elephant tramples two to death in Odisha’s Angul](https://theprint.in/india/elephant-tramples-two-to-death-in-odishas-angul/1877642/)
+
+Article found but Couldn't summarize 
+Bhubaneswar, Dec 8 (PTI) Two persons were trampled to death by a wild elephant at separate locations in Odisha’s Angul district, a forest official said on Friday. The deceased were identified as Guru Nayak of Saradhapur village and Ainthu Sahu of Cheliapada village in the district. Police recovered their bodies on Thursday night, the official [&#8230;]
+
+Fri, 08 Dec 2023 08:45:04 +0000
+### [Trafficking for cyber fraud an increasingly globalised crime, Interpol says](https://theprint.in/world/trafficking-for-cyber-fraud-an-increasingly-globalised-crime-interpol-says/1877640/)
+
+Article found but Couldn't summarize 
+By Poppy McPherson BANGKOK (Reuters) - Interpol said on Friday its first operation targeting human-trafficking fueled cyber fraud showed the criminal industry was going global, spreading beyond its
+
+Fri, 08 Dec 2023 08:45:02 +0000
+### [Maharashtra govt woke up only after court order: HC on fire safety rules and regulations](https://theprint.in/india/maharashtra-govt-woke-up-only-after-court-order-hc-on-fire-safety-rules-and-regulations/1877639/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 8 (PTI) The Maharashtra government did not take any step and woke up only after the court issued an order, the Bombay High Court censured it on Friday, after it was informed that the notification for fire safety rules and regulations would be issued by May 2024. The high court earlier this week [&#8230;]
+
+Fri, 08 Dec 2023 08:32:26 +0000
+### [India allows duty-free import of yellow peas](https://theprint.in/economy/india-allows-duty-free-import-of-yellow-peas/1877634/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 8 (ANI): India has allowed duty-free imports of yellow peas until March 2024, an official gazette notification said. This is part of New Delhi&#8217;s intervention to cool the prices of the overall pulse basket. Reportedly, the duty on yellow peas was first implemented in November 2017 at 50 per cent. India [&#8230;]
+
+Fri, 08 Dec 2023 08:32:14 +0000
+### [First visit of British Defense Secretary to Israel in 27 years](https://theprint.in/world/first-visit-of-british-defense-secretary-to-israel-in-27-years/1877631/)
+
+As GPT-3.5, I can provide a summary of the article you shared. The Minister of Defense Yoav Gallant met with the British Secretary of State for Defense Grant Shapps in Tel Aviv. This visit marks the first time a British Defense Secretary has visited Israel in 27 years. They participated in the lighting of the first candle for the first night of Chanukah. Minister Gallant emphasized the importance of defending Israel and expressed determination to prevail in the ongoing conflict. The ministers held discussions and security briefings on various topics, including the IDF's operations in Gaza and the regional threats posed by Iranian proxies.
+
+Fri, 08 Dec 2023 08:32:02 +0000
+### [US President Biden tells Israeli PM Netanyahu, Hamas to blame for ceasefire ending](https://theprint.in/world/us-president-biden-tells-israeli-pm-netanyahu-hamas-to-blame-for-ceasefire-ending/1877629/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], December 8 (ANI/TPS): US President Joe Biden spoke with Israel&#8217;s Prime Minister Benjamin Netanyahu Thursday night to express his &#8220;concern for the remaining hostages &#8212; and to note that it was Hamas&#8217; refusal to releasze women civilia hostages that broke down the humanitarian pause.&#8221; &#8220;We will continue to pursue every opportunity to [&#8230;]
+
+Fri, 08 Dec 2023 08:30:56 +0000
+### [ITI officials suspended for misappropriating allowances, scholarships of SC, ST students](https://theprint.in/india/iti-officials-suspended-for-misappropriating-allowances-scholarships-of-sc-st-students/1877628/)
+
+Article found but Couldn't summarize 
+Nagpur, Dec 8 (PTI) Maharashtra Minister Mangalprabhat Lodha on Friday announced the suspension of officials of an industrial training institute (ITI) in Wardha district over the alleged misappropriation of allowances and scholarships meant for students belonging to the scheduled caste (SC) and scheduled tribe (ST) communities. The issue was raised by Leader of the Opposition [&#8230;]
+
 Fri, 08 Dec 2023 08:17:59 +0000
 ### [Stokastra awarded as the most trusted and fastest growing stock institute of the region](https://theprint.in/ani-press-releases/stokastra-awarded-as-the-most-trusted-and-fastest-growing-stock-institute-of-the-region/1877613/)
 

@@ -1,3 +1,15 @@
+2023-12-08T14:30:55+05:30
+### [Before Celebrating a Fall in J&K Terror, Amit Shah Would Do Well to Look Deeper Into the Numbers](https://thewire.in/security/before-celebrating-a-fall-in-jk-terror-amit-shah-would-do-well-to-look-deeper-into-the-numbers)
+
+No Article text 
+Both official and non-official data show that incidents of terrorism are far from over, even as year-wise break-ups indicate a zig-zag graph.
+
+2023-12-08T14:00:44+05:30
+### [Tiger and Tusker Attacks Killed Close to 3,000 People in Last Five Years, Govt Says](https://thewire.in/environment/tiger-elephant-attack-deaths-data-parliament)
+
+No Article text 
+Minister of state in the Union environment ministry Ashwini Kumar Choubey told the Rajya Sabha that the ministry does not collate information on how state and UT governments compensate deaths and injuries due to human-wildlife conflict.
+
 2023-12-08T13:30:42+05:30
 ### [‘Tradition’ for Union Ministers to Attend ‘Overseas Friends of BJP’ Events on Official Trips: Jaishankar](https://thewire.in/government/tradition-for-union-ministers-to-attend-overseas-friends-of-bjp-events-on-official-trips-jaishankar)
 
