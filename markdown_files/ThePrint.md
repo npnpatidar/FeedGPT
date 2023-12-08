@@ -1,3 +1,113 @@
+Fri, 08 Dec 2023 22:17:02 +0000
+### [Swedish Astronaut calls Chandrayaan-3 success ‘amazing’, says ‘looking forward to next Indian mission like that’](https://theprint.in/world/swedish-astronaut-calls-chandrayaan-3-success-amazing-says-looking-forward-to-next-indian-mission-like-that/1878749/)
+
+GPT-3.5: The success of Chandrayaan-3 is truly remarkable and outstanding, as mentioned by Swedish astronaut Christer Fuglesang. He expressed his anticipation for future Indian missions, particularly the Gaganyaan flight with Indian astronauts on an Indian rocket and capsule. The landing of the Vikram lander and Rover during Chandrayaan-3 was applauded worldwide. It's exciting to see the progress and achievements in India's space exploration endeavors. Additionally, Fuglesang highlighted the potential for collaboration between Sweden and India in the space sector, particularly in areas such as space sustainability and combating climate challenges.
+
+Fri, 08 Dec 2023 22:15:59 +0000
+### [Soccer-Ronaldo marks his 1,200th game in style as Al-Nassr bounce back](https://theprint.in/sport/soccer-ronaldo-marks-his-1200th-game-in-style-as-al-nassr-bounce-back/1878747/)
+
+As GPT-3.5, I am here to provide you with a summary of the article you shared. Cristiano Ronaldo marked his 1,200th professional match with a goal and an assist for his team Al-Nassr in a 4-1 victory over Al-Riyadh in the Saudi League. Ronaldo, who is closing in on Peter Shilton's record for most official appearances, scored the opening goal and assisted on Otavio's headed goal. He also expressed gratitude to his teammates for helping him reach this milestone. Al-Nassr currently sits in second place in the standings with 37 points.
+
+Fri, 08 Dec 2023 22:15:49 +0000
+### [Soccer-Juventus back on top after clinical win against wasteful Napoli](https://theprint.in/sport/soccer-juventus-back-on-top-after-clinical-win-against-wasteful-napoli/1878745/)
+
+Juventus secured a 1-0 home victory against Napoli, reclaiming the top spot in Serie A. Federico Gatti scored the winning goal with a header, assisted by Andrea Cambiaso. Despite Napoli having several opportunities, including a missed chance by Khvicha Kvaratskhelia and a disallowed goal by Victor Osimhen, they were unable to find the back of the net. With this win, Juventus now lead the league with 36 points, one point ahead of Inter Milan. Napoli currently sits in fifth place with 24 points.
+
+Fri, 08 Dec 2023 22:15:33 +0000
+### [Microsoft says it does not own any portion of OpenAI](https://theprint.in/tech/microsoft-says-it-does-not-own-any-portion-of-openai/1878743/)
+
+Article found but Couldn't summarize 
+WASHINGTON (Reuters) - Microsoft said in a statement on Friday that it does not own any part of OpenAI, an artificial intelligence powerhouse. "While details of our agreement remain confidential, it
+
+Fri, 08 Dec 2023 22:15:19 +0000
+### [‘Love Story’ actor Ryan O’Neal has died, his son says](https://theprint.in/entertainment/love-story-actor-ryan-oneal-has-died-his-son-says/1878741/)
+
+Article found but Couldn't summarize 
+LOS ANGELES (Reuters) - "Love Story" actor Ryan O'Neal has died, his son Patrick O'Neal said in a post on Instagram on Friday. (Reporting by Lisa Richwine; Editing by Leslie Adler)
+
+Fri, 08 Dec 2023 22:15:03 +0000
+### [Gold slides over 1% as strong US jobs data clouds rate cut bets](https://theprint.in/india/gold-slides-over-1-as-strong-us-jobs-data-clouds-rate-cut-bets/1878739/)
+
+Article found but Couldn't summarize 
+By Anushree Ashish Mukherjee (Reuters) - Gold retreated back under $2,000 an ounce on Friday as the dollar and Treasury yields strengthened after traders trimmed bets for U.S. interest rate cuts to
+
+Fri, 08 Dec 2023 21:46:07 +0000
+### [EU countries, lawmakers close to deal on AI rules, sources say](https://theprint.in/tech/eu-countries-lawmakers-close-to-deal-on-ai-rules-sources-say/1878736/)
+
+Article found but Couldn't summarize 
+BRUSSELS (Reuters) - EU countries and lawmakers are close to clinching a provisional deal on rules governing the use of artificial intelligence and an announcement could come in the next hour, people
+
+Fri, 08 Dec 2023 21:45:54 +0000
+### [Stocks gain, Treasury yields jump after US job report](https://theprint.in/economy/stocks-gain-treasury-yields-jump-after-us-job-report/1878734/)
+
+Article found but Couldn't summarize 
+By Chuck Mikolajczak NEW YORK (Reuters) -A gauge of global stocks rose on Friday, on pace for its sixth straight week of gains, while U.S. Treasury yields shot higher after a strong U.S. jobs report
+
+Fri, 08 Dec 2023 21:45:45 +0000
+### [Oil gains over 2% but records seventh weekly decline](https://theprint.in/economy/oil-gains-over-2-but-records-seventh-weekly-decline/1878732/)
+
+Article found but Couldn't summarize 
+By Shariq Khan BENGALURU (Reuters) -Oil prices rose more than 2% on Friday after U.S. data supported expectations of demand growth, but both benchmarks fell for a seventh straight week, their longest
+
+Fri, 08 Dec 2023 21:45:34 +0000
+### [Guatemala electoral court chief says election ‘unalterable’ after prosecutors seek to annul results](https://theprint.in/world/guatemala-electoral-court-chief-says-election-unalterable-after-prosecutors-seek-to-annul-results/1878730/)
+
+Article found but Couldn't summarize 
+By Sofia Menchu GUATEMALA CITY (Reuters) -Guatemala's top electoral court does not intend to hold a repeat of this year's general election after federal prosecutors said they considered the
+
+Fri, 08 Dec 2023 21:45:23 +0000
+### [Palestinians mourn Gaza poet, educator killed in Israeli strike](https://theprint.in/world/palestinians-mourn-gaza-poet-educator-killed-in-israeli-strike/1878728/)
+
+Article found but Couldn't summarize 
+JERUSALEM (Reuters) - Palestinians on Friday paid tribute to Refaat Alareer, a prominent poet and scholar who sought to tell the stories behind the news headlines in the blockaded enclave of Gaza and
+
+Fri, 08 Dec 2023 21:45:13 +0000
+### [Exclusive-Biden administration asks Congress’ approval on Israeli tank shells for use in Gaza](https://theprint.in/world/exclusive-biden-administration-asks-congress-approval-on-israeli-tank-shells-for-use-in-gaza/1878726/)
+
+Article found but Couldn't summarize 
+By Humeyra Pamuk WASHINGTON (Reuters) -The Biden administration has asked Congress to approve the sale of 45,000 shells for Israel's Merkava tanks for use in its offensive against Hamas in Gaza,
+
+Fri, 08 Dec 2023 21:45:03 +0000
+### [Exclusive-Biden administration presses Congress to approve tank shells for Israel’s war in Gaza](https://theprint.in/world/exclusive-biden-administration-presses-congress-to-approve-tank-shells-for-israels-war-in-gaza/1878724/)
+
+Article found but Couldn't summarize 
+By Humeyra Pamuk WASHINGTON (Reuters) -The Biden administration has asked Congress to approve the sale of 45,000 shells for Israel's Merkava tanks for use in its offensive against Hamas in Gaza,
+
+Fri, 08 Dec 2023 21:17:01 +0000
+### [Pakistan: National Accountability Bureau summons Imran Khan’s wife in Toshakhana case](https://theprint.in/world/pakistan-national-accountability-bureau-summons-imran-khans-wife-in-toshakhana-case-3/1878718/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 9 (ANI): The National Accountability Bureau (NAB) has summoned Pakistan Tehreek-e-Insaf (PTI) chairman Imran Khan&#8217;s wife in the Toshakhana case, Pakistan-based ARY News reported. According to details, the NAB Rawalpindi has issued notice to Bushra Bibi. The NAB has summoned her on December 11 at 11 am (local time) in connection with [&#8230;]
+
+Fri, 08 Dec 2023 21:15:52 +0000
+### [Olympics-Athletes risk becoming “Russian propaganda” after IOC decision on Paris Games, Ukrainian sportsman says](https://theprint.in/sport/olympics-athletes-risk-becoming-russian-propaganda-after-ioc-decision-on-paris-games-ukrainian-sportsman-says/1878716/)
+
+Article found but Couldn't summarize 
+By Sophie Penney LA PLAGNE, France (Reuters) - Olympic competitors risk being used as "Russian propaganda" after the International Olympic Committee's (IOC) decision to allow Russian and Belarusian
+
+Fri, 08 Dec 2023 21:15:35 +0000
+### [US blocks UN Security Council demand for humanitarian ceasefire in Gaza](https://theprint.in/world/us-blocks-un-security-council-demand-for-humanitarian-ceasefire-in-gaza/1878714/)
+
+Article found but Couldn't summarize 
+By Michelle Nichols UNITED NATIONS (Reuters) - The United States on Friday vetoed a United Nations Security Council demand for an immediate humanitarian ceasefire in the war between Israel and
+
+Fri, 08 Dec 2023 21:15:25 +0000
+### [US embassy in Baghdad struck with 7 mortars as attacks escalate](https://theprint.in/world/us-embassy-in-baghdad-struck-with-7-mortars-as-attacks-escalate/1878712/)
+
+Article found but Couldn't summarize 
+By Timour Azhari, Phil Stewart and Idrees Ali BAGHDAD/WASHINGTON (Reuters) -Approximately seven mortar rounds landed in the U.S. Embassy compound in Baghdad during an attack early on Friday, a U.S.
+
+Fri, 08 Dec 2023 21:15:15 +0000
+### [Taylor Swift named Time’s ‘Person of the Year,’ capping her record-breaking 2023](https://theprint.in/world/taylor-swift-named-times-person-of-the-year-capping-her-record-breaking-2023-2/1878710/)
+
+Article found but Couldn't summarize 
+(This Dec 6. story has been refiled to correct the typo in 'Greta' in paragraph 8) By Gabriella Borter (Reuters) - After launching a record-shattering global tour and becoming the world's
+
+Fri, 08 Dec 2023 21:15:04 +0000
+### [Paris’ Louvre museum to hike ticket prices by 29%](https://theprint.in/world/paris-louvre-museum-to-hike-ticket-prices-by-29/1878708/)
+
+The Louvre art museum in Paris will increase its entrance fee by 29% starting in January next year. The price hike aims to cover higher energy costs and fund free entry for specific groups such as individuals under 18, teachers, and journalists. Although the Louvre did not directly reference the Olympics, the timing of the increased fee coincides with rising costs in Paris as the city prepares to host the Games. Additionally, visitors to Paris during the Olympics will also encounter nearly doubled metro ticket prices and significantly higher hotel rates, which are expected to rise by over 300% between the 2023 and 2024 summer seasons.
+
 Fri, 08 Dec 2023 21:02:13 +0000
 ### [President of UAE receives President of Belarus](https://theprint.in/world/president-of-uae-receives-president-of-belarus/1878706/)
 
