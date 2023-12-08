@@ -1,3 +1,15 @@
+2023-12-08T20:19:06+05:30
+### ['Beginning of the End, Will Fight You for the Next 30 Years': Moitra Fires at BJP After Expulsion](https://thewire.in/politics/beginning-of-the-end-will-fight-you-for-the-next-30-years-moitra-fires-at-bjp-after-expulsion)
+
+No Article text 
+The extent of opposition unity was clearer outside. The INDIA alliance, seen to be on shaky ground after the Assembly polls, rallied behind the TMC member appealing to Speaker to let her speak in the House.
+
+2023-12-08T19:49:09+05:30
+### [Govt Refuses to Give Clarity on ‘One Nation One Election’ Deadline; Congress MPs Seek Details on Committee](https://thewire.in/government/govt-refuses-to-give-clarity-on-one-nation-one-election-deadline-congress-mps-seek-details-on-committee)
+
+No Article text 
+Though the theory of 'one nation one election' has been advocated by leaders of the ruling dispensation, including Prime Minister Narendra Modi, the government had remained tight-lipped about any move in that direction for quite a while.
+
 2023-12-08T19:25:06+05:30
 ### [Christian Michel Has Spent Five Years in Tihar Jail But There's No Word on When His Trial Will Begin](https://thewire.in/world/christian-michel-jail-five-years)
 

@@ -1,3 +1,120 @@
+Fri, 08 Dec 2023 15:01:39 +0000
+### [VP Dhankar to visit Gurugram on Saturday; Sec 144 restrictions around event venue](https://theprint.in/india/vp-dhankar-to-visit-gurugram-on-saturday-sec-144-restrictions-around-event-venue/1878354/)
+
+Article found but Couldn't summarize 
+Gurugram, Dec 8 (PTI) The Gurugram district administration has imposed restrictions under Section 144 in Sector 45 here, ahead of a visit by the Vice President of India Jagdeep Dhankhar on Sarturday. Dhankar is expected to visit the Sarthak Educational Trust at Sector 45 here as a chief guest of an event, officials said. In [&#8230;]
+
+Fri, 08 Dec 2023 15:01:28 +0000
+### [Mangaluru airport handles highest number of passengers in Nov](https://theprint.in/india/mangaluru-airport-handles-highest-number-of-passengers-in-nov/1878353/)
+
+The Mangaluru International Airport (MIA) experienced a significant increase in passenger numbers in November, handling a record-breaking 178,314 passengers. Out of this total, 132,762 were domestic passengers, while 45,552 were international passengers. This represents a growth of 10.3% compared to the previous month and brings the total number of passengers handled by MIA in the first eight months of the current fiscal year to 1,286,207, surpassing the corresponding period last year. The airport's handling of chartered flights has also contributed to this growth. Additionally, air traffic movements (ATMs) in November reached a high of 1,298, exceeding October's 1,222. Overall, the airport has seen an average of 5,944 passengers per day during this financial year, with a peak of 7,468 passengers on November 25.
+
+Fri, 08 Dec 2023 15:01:15 +0000
+### [Linking of Aadhaar with voter IDs not yet begun: Govt](https://theprint.in/india/linking-of-aadhaar-with-voter-ids-not-yet-begun-govt/1878352/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 8 (PTI) The linking of Aadhaar details with voter identity cards has not yet begun, Lok Sabha was informed on Friday. In a written reply, Law Minister Arjun Ram Meghwal said linking of Aadhaar is process-driven. He also said no targets have been given for linking Aadhaar details with the electoral photo [&#8230;]
+
+Fri, 08 Dec 2023 15:01:03 +0000
+### [We remain concerned over deteriorating security situation: EAM Jaishankar on Hamas-Israel conflict](https://theprint.in/india/we-remain-concerned-over-deteriorating-security-situation-eam-jaishankar-on-hamas-israel-conflict/1878351/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 8 (PTI) India on Friday said it remains concerned over the deteriorating security situation arising out of the Hamas-Israel conflict and called for &#8220;restraint and de-escalation&#8221; while emphasising on a peaceful resolution of the conflict through &#8220;dialogue and diplomacy&#8221;. External Affairs Minister S Jaishankar informed the Lok Sabha that India strongly condemned [&#8230;]
+
+Fri, 08 Dec 2023 15:00:49 +0000
+### [Mizoram to set up boundary committee: CM Lalduhoma](https://theprint.in/india/mizoram-to-set-up-boundary-committee-cm-lalduhoma/1878350/)
+
+Article found but Couldn't summarize 
+Aizawl, Dec 8 (PTI) Newly sworn-in Mizoram Chief Minister Lalduhoma on Friday said his government will set up a state-level boundary committee to deal with border issues with neighbouring states. Mizoram shares a 325km boundary with Assam in the north, Manipur in the east and Tripura in the west. Speaking to reporters after taking oath [&#8230;]
+
+Fri, 08 Dec 2023 15:00:42 +0000
+### [Liquor firms, ‘link to Congress MP’ — I-T dept recovers Rs 200 crore in Jharkhand, Odisha raids](https://theprint.in/india/liquor-firms-link-to-congress-mp-i-t-dept-recovers-rs-200-crore-in-jharkhand-odisha-raids/1878254/)
+
+Article found but Couldn't summarize 
+While IT dept is yet to issue any official statement, raids were conducted in connection with probe into alleged case of tax evasion, it is learnt.
+
+Fri, 08 Dec 2023 15:00:36 +0000
+### [Centre should reconsider its decision on ethanol: Co-operative sugar mills federation official](https://theprint.in/india/centre-should-reconsider-its-decision-on-ethanol-co-operative-sugar-mills-federation-official/1878349/)
+
+Article found but Couldn't summarize 
+Chhatrapati Sambhajinagar, Dec 8 (PTI) National Federation of Cooperative Sugar Factories Limited president Jaiprakash Dandegaonkar on Friday urged the Centre to reconsider its decision to stop the use of sugarcane juice and sugar syrup for ethanol production, as he expressed fear that the move may increase the woes of the sugar industry. Due to this [&#8230;]
+
+Fri, 08 Dec 2023 15:00:26 +0000
+### [Conflict between governors, elected govts affecting governance, federalism: Opposition MPs in RS](https://theprint.in/india/conflict-between-governors-elected-govts-affecting-governance-federalism-opposition-mps-in-rs/1878348/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 8 (PTI) Opposition members in the Rajya Sabha on Friday expressed concern over differences between governors and elected governments, saying such conflicts affect governance and erode harmonious relationship between the Centre and states, and demanded changes in the way governors are appointed. Most of the time governors abide by the ruling dispensation [&#8230;]
+
+Fri, 08 Dec 2023 15:00:13 +0000
+### [Meeting of BJP MLAs in Chhattisgarh likely to take place in next two days](https://theprint.in/india/meeting-of-bjp-mlas-in-chhattisgarh-likely-to-take-place-in-next-two-days/1878347/)
+
+Article found but Couldn't summarize 
+Raipur, Dec 8 (PTI) The meeting of the BJP&#8217;s newly elected 54 MLAs in Chhattisgarh to elect the leader of its legislative party, who would become the next chief minister, would take place on Saturday or Sunday, sources said here. The suspense over who would be the chief minister continues as the saffron party had [&#8230;]
+
+Fri, 08 Dec 2023 15:00:02 +0000
+### [Cop among two killed in Jamshedpur shootout](https://theprint.in/india/cop-among-two-killed-in-jamshedpur-shootout/1878346/)
+
+Article found but Couldn't summarize 
+Jamshedpur, Dec 8 (PTI) A police constable was among two killed when three motorcycle-borne men fired at them here on Friday, police said. The criminals first fired at one person identified as Sajjad in between Road No. 15/16 and fled when they were intercepted by a mobile police patrol team, a senior officer said. Seeing [&#8230;]
+
+Fri, 08 Dec 2023 14:47:12 +0000
+### [Man walks free in rape case after Delhi court says suspicion not grave enough for trial](https://theprint.in/india/man-walks-free-in-rape-case-after-delhi-court-says-suspicion-not-grave-enough-for-trial/1878340/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 8 (PTI) In a significant order, a Delhi court allowed a man walk free in a rape case after finding there was no &#8220;grave suspicion&#8221; warranting framing of charges against him. Additional Sessions Judge Anjani Mahajan was hearing a case against the man, against whom the woman had recorded statements before the [&#8230;]
+
+Fri, 08 Dec 2023 14:47:03 +0000
+### [‘The Archies’ actor Dot has to this say about film receiving positive response](https://theprint.in/feature/the-archies-actor-dot-has-to-this-say-about-film-receiving-positive-response/1878339/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 8 (ANI): Zoya Akhtar&#8217;s directorial &#8216;The Archies&#8217; has been receiving rave reviews. The film&#8217;s actors Aditi Saigal aka Dot, Suhana Khan, Agastya Nanda, Khushi Kapoor, Mihir Ahuja, Vedang Raina and Yuvraj Menda are quite happy about it. Dot, who garnered a lot of praise for her acting and for her significant [&#8230;]
+
+Fri, 08 Dec 2023 14:46:58 +0000
+### [J-K ADGP chairs meeting ahead of SC verdict of Article 370](https://theprint.in/india/j-k-adgp-chairs-meeting-ahead-of-sc-verdict-of-article-370/1878338/)
+
+Article found but Couldn't summarize 
+Srinagar, Dec 8 (PTI) Top police and administration officials held a meeting here on Friday to discuss &#8220;law and order&#8221; ahead of the Supreme Court&#8217;s verdict on Article 370 case. A senior officer of Jammu and Kashmir Police said punitive action will be taken against anyone found indulging in any mischief or misuse of social [&#8230;]
+
+Fri, 08 Dec 2023 14:46:45 +0000
+### [A salute and one last kiss: Family & colleagues bid tearful adieu to Kashmir Police officer](https://theprint.in/india/a-salute-and-one-last-kiss-family-colleagues-bid-tearful-adieu-to-kashmir-police-officer/1878337/)
+
+Article found but Couldn't summarize 
+Srinagar, Dec 8 (PTI) The air was rent with loud wails at the Police Lines area here as soon as the tricolour-draped coffin of Inspector Masroor Ahmad Wani was brought for a wreath laying ceremony. &#8220;You always wanted to become a police officer,&#8221; said a teary-eyed Wani&#8217;s sister who was amid the family and colleagues [&#8230;]
+
+Fri, 08 Dec 2023 14:46:35 +0000
+### [MP: 67-year-old man held at Indore airport with gold worth Rs 19.27 lakh](https://theprint.in/india/mp-67-year-old-man-held-at-indore-airport-with-gold-worth-rs-19-27-lakh/1878335/)
+
+Article found but Couldn't summarize 
+Indore, Dec 8 (PTI) A 67-year-old passenger was caught at Indore international airport in Madhya Pradesh allegedly with 352 grams of gold worth Rs 19.27 lakh, a Customs official said on Friday. The man was held by the Air Intelligence Unit of the Customs on a tip off on Thursday after he arrived from Dubai, [&#8230;]
+
+Fri, 08 Dec 2023 14:46:34 +0000
+### [Soccer-Ten Hag urges Man Utd squad to emulate Maguire and McTominay’s commitment](https://theprint.in/sport/soccer-ten-hag-urges-man-utd-squad-to-emulate-maguire-and-mctominays-commitment/1878334/)
+
+As GPT-3.5, I can provide a summary of the article you shared. Manchester United manager Erik ten Hag praised Harry Maguire and Scott McTominay as examples for other players to follow. Maguire, who faced criticism earlier in the season, fought for his place in the team and helped United keep three clean sheets. McTominay, the club's top scorer, has shown a good sense of positioning and finishing ability. Ten Hag believes that internal competition is important for a successful season and that players need to earn their place in the starting lineup. While Marcus Rashford has not been in top form, Ten Hag is confident that he will regain his form soon.
+
+Fri, 08 Dec 2023 14:46:24 +0000
+### [Olympics-Russian, Belarusian athletes to participate at Paris Olympics as neutrals – IOC](https://theprint.in/sport/olympics-russian-belarusian-athletes-to-participate-at-paris-olympics-as-neutrals-ioc/1878332/)
+
+Article found but Couldn't summarize 
+BERLIN (Reuters) - Russian and Belarusian athletes who qualify in their sport for the Paris 2024 Olympics can take part as neutrals without flags, emblems or anthems at the event next year, the
+
+Fri, 08 Dec 2023 14:46:23 +0000
+### [Karnataka HC orders formation of panel for constant monitoring of storm water drains in Bengaluru](https://theprint.in/india/karnataka-hc-orders-formation-of-panel-for-constant-monitoring-of-storm-water-drains-in-bengaluru/1878331/)
+
+Article found but Couldn't summarize 
+Bengaluru, Dec 8 (PTI) The Karnataka High Court has directed the constitution of a committee that would constantly monitor the storm water drains (SWDs) in Bengaluru particularly during the rainy season. It said the Bruhat Bengaluru Mahanagara Palike (BBMP) should conduct a detailed hydrological survey and if necessary, acquire land for formation of new SWDs. [&#8230;]
+
+Fri, 08 Dec 2023 14:46:13 +0000
+### [DTE Energy sees higher profit in 2024](https://theprint.in/environment/dte-energy-sees-higher-profit-in-2024/1878330/)
+
+DTE Energy, a utility firm based in Detroit, Michigan, predicts a higher operating profit for 2024 due to strong revenue expected from its electric, gas, renewable energy, and energy trading business segments. The company forecasts its operating earnings per share (EPS) for 2024 to be between $6.54 and $6.83. However, the 2023 operating EPS outlook was reduced to $5.65 to $5.85 from a previous estimate of $6.09 to $6.40 due to storm-related expenses and operating and maintenance charges in the previous quarter. DTE Energy also plans to increase its utility capital spend investment by $2 billion, bringing the total to around $25 billion over five years. The company aims to retire its coal plants by 2032 and invest $11 billion in transitioning to clean energy. DTE Energy exceeded profit estimates in the first two quarters but experienced challenges in the third quarter due to thunderstorms and weak electricity demand in Michigan.
+
+Fri, 08 Dec 2023 14:46:11 +0000
+### [Oppn demands Mahua be allowed to speak in LS; BJP says got adequate time before Ethics Committee](https://theprint.in/india/oppn-demands-mahua-be-allowed-to-speak-in-ls-bjp-says-got-adequate-time-before-ethics-committee/1878329/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 8 (PTI) The Lok Sabha witnessed a heated debate Friday on an Ethics Committee report recommending TMC MP Mahua Moitra&#8217;s expulsion in the cash-for-query issue, with the Opposition demanding she be allowed to speak in the House, and the government contending her views were heard by the panel. Initiating the debate, Congress [&#8230;]
+
 Fri, 08 Dec 2023 14:02:58 +0000
 ### [Azerbaijan, Armenia agree over prisoner exchange, to work towards peace deal](https://theprint.in/world/azerbaijan-armenia-agree-over-prisoner-exchange-to-work-towards-peace-deal/1878249/)
 
