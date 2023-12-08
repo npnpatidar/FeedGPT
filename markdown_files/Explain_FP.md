@@ -1,3 +1,9 @@
+Fri, 08 Dec 2023 19:22:18 +0530
+### [Timeline | How the cash-for-query case against Mahua Moitra unfolded](https://www.firstpost.com/explainers/timeline-how-the-cash-for-query-case-against-mahua-moitra-unfolded-13482562.html)
+
+Article found but Couldn't summarize 
+Timeline | How the cash-for-query case against Mahua Moitra unfolded
+
 Fri, 08 Dec 2023 18:30:33 +0530
 ### [Mahua Moitra expelled: What happened in Lok Sabha, what does the ethics panel report say?](https://www.firstpost.com/explainers/mahua-moitra-expelled-what-happened-in-lok-sabha-what-does-the-ethics-panel-report-say-13481482.html)
 

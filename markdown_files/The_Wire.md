@@ -1,3 +1,15 @@
+2023-12-08T19:25:06+05:30
+### [Christian Michel Has Spent Five Years in Tihar Jail But There's No Word on When His Trial Will Begin](https://thewire.in/world/christian-michel-jail-five-years)
+
+No Article text 
+An accused in the Agusta Westland helicopter deal,  the British national's letters to UK Prime Minister Rishi Sunak have been to no avail.
+
+2023-12-08T19:00:39+05:30
+### [The Intricacies of John Le Carré’s Secret Life Through the Lens of Adam Sisman’s Revelations](https://thewire.in/books/the-intricacies-of-john-le-carres-secret-life-through-the-lens-of-adam-sismans-revelations)
+
+No Article text 
+In le Carré’s lifetime, Adam Sisman had published a massive biography of the writer. It now transpires from Sisman’s new book that at le Carré’s insistence, Sisman was forced to exclude large chunks of le Carré’s private life from the biography.
+
 2023-12-08T18:20:12+05:30
 ### [Outrage Over 'Diversion of Healthcare Resources' For WB CM Mamata Banerjee's Family Event](https://thewire.in/politics/north-bengal-mamata-banerjee-nephew-wedding)
 

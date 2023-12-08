@@ -1,3 +1,121 @@
+Fri, 08 Dec 2023 14:02:58 +0000
+### [Azerbaijan, Armenia agree over prisoner exchange, to work towards peace deal](https://theprint.in/world/azerbaijan-armenia-agree-over-prisoner-exchange-to-work-towards-peace-deal/1878249/)
+
+Article found but Couldn't summarize 
+Baku [Azerbaijan], December 8 (ANI): Azerbaijan and Armenia have agreed to exchange prisoners and work towards normalising relations and reaching a peace agreement to end their decades-long conflict, according to CNN. In return for two, all-military members, Azerbaijan will release 32 prisoners of war to Armenia, according to a joint statement released by AZERTAC, the [&#8230;]
+
+Fri, 08 Dec 2023 14:02:29 +0000
+### [‘Gaza on brink of full-blown collapse’: UN agency director](https://theprint.in/world/gaza-on-brink-of-full-blown-collapse-un-agency-director/1878247/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], December 8 (ANI): The United Nations Relief and Works Agency for Palestine Refugees (UNRWA) said on Friday that Gaza is on the brink of full-blown collapse as civil order is breaking down in the region, The Times of Israel reported. UNRWA director Thomas White shared a post on his official social media [&#8230;]
+
+Fri, 08 Dec 2023 14:02:15 +0000
+### [Fintellix recognized as a category leader in regulatory reporting by Chartis](https://theprint.in/ani-press-releases/fintellix-recognized-as-a-category-leader-in-regulatory-reporting-by-chartis/1878245/)
+
+Article found but Couldn't summarize 
+SRV Media New Delhi [India]/ New York [US], December 8: Fintellix, leading provider of DataTech, RegTech and SupTech solutions to the financial services industry has been recognized as a &#8220;Category Leader&#8221; in the Chartis RiskTech Quadrant for Regulatory Reporting Solutions 2023 report. Chartis Research meticulously evaluates the world&#8217;s major players in risk and compliance technology [&#8230;]
+
+Fri, 08 Dec 2023 14:02:01 +0000
+### [Reena Ahluwalia’s Bejeweled Royal Mysore Paintings Acquired by C. Krishniah Chetty Crystal Museum](https://theprint.in/ani-press-releases/reena-ahluwalias-bejeweled-royal-mysore-paintings-acquired-by-c-krishniah-chetty-crystal-museum/1878242/)
+
+As GPT-3.5, I can provide a summary of the article you shared. Reena Ahluwalia, an artist, has created intricate paintings of the Maharaja and Maharani of Mysore, capturing the opulence of the past and the historic legacy of Indian gems and jewelry. These paintings have been acquired by the C. Krishniah Chetty Crystal Museum in Bengaluru, India. The museum showcases the art, gems, and jewelry history from the Deccan and Carnatic regions of Central and South India. The paintings symbolize the enduring significance of gems in Indian culture and serve as a historic record. They are now part of the museum's permanent collection. Reena Ahluwalia is a renowned Canadian jewelry designer, painter, and professor, known for her diamond and gemstone artworks. The C. Krishniah Chetty Group of Jewellers is a 150-year-old jewelry house that has served as the official jeweler to the Royal House of Mysore and other royal families in India. The museum is private and requires prior appointment for visitation.
+
+Fri, 08 Dec 2023 14:01:20 +0000
+### [Formalities for Shimla Ropeway Project completed, tendering process initiated: Deputy CM](https://theprint.in/india/formalities-for-shimla-ropeway-project-completed-tendering-process-initiated-deputy-cm/1878241/)
+
+Article found but Couldn't summarize 
+Shimla, Dec 8 (PTI) All the formalities for construction of the Shimla Ropeway Project, touted to be the second-largest ropeway project in the world, has been completed and the process of obtaining no objection certificates (NOC) and tendering has been initiated, Deputy Chief Minister Mukesh Agnihotri said on Friday. Consultants have been hired for the [&#8230;]
+
+Fri, 08 Dec 2023 14:01:07 +0000
+### [BJP will be left with few MPs if same method applied on them: SP chief on Mahua Moitra’s expulsion](https://theprint.in/india/bjp-will-be-left-with-few-mps-if-same-method-applied-on-them-sp-chief-on-mahua-moitras-expulsion/1878240/)
+
+As GPT-3.5, I can provide a summary of the article you shared. Samajwadi Party chief Akhilesh Yadav expressed his concern about the method used to expel opposition MPs from Parliament. He suggested that if the same method were applied to the ruling party, they would be left with only a few MPs. Yadav advised the BJP to hire a consultant to handle such matters so that the ruling party's representatives could focus on public welfare. He also mentioned that some individuals can be more influential outside the House than within it. Trinamool Congress leader Mahua Moitra was expelled from the Lok Sabha after being found guilty of accepting gifts and illegal gratification.
+
+Fri, 08 Dec 2023 14:00:55 +0000
+### [UP: Man trying to resolve dispute in Badaun village beaten to death](https://theprint.in/india/up-man-trying-to-resolve-dispute-in-badaun-village-beaten-to-death/1878239/)
+
+Article found but Couldn't summarize 
+Badaun (UP), Dec 8 (PTI) A 65-year-old man died after being severely beaten up while mediating in a dispute between two groups that arose out of a tiff between children in a village here, police said on Friday. Three persons alleged to have hit the man with lathis have been arrested, they said. According to [&#8230;]
+
+Fri, 08 Dec 2023 14:00:45 +0000
+### [Karti Chidambaram uses timed-out dismissal analogy on Mahua Moitra’s expulsion from LS](https://theprint.in/india/karti-chidambaram-uses-timed-out-dismissal-analogy-on-mahua-moitras-expulsion-from-ls/1878238/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 8 (PTI) Congress MP Karti Chidambaram on Friday used the analogy of Sri Lankan cricketer Angelo Mathews&#8217; timed-out dismissal in the recently-held cricket World Cup while slamming the government over the expulsion of TMC MP Mahua Moitra from the Lok Sabha in a &#8220;cash-for-query&#8221; case. Moitra was expelled from the Lok Sabha [&#8230;]
+
+Fri, 08 Dec 2023 14:00:33 +0000
+### [Top Congress brass reviews poll defeats in Chhattisgarh, Madhya Pradesh](https://theprint.in/india/top-congress-brass-reviews-poll-defeats-in-chhattisgarh-madhya-pradesh/1878237/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 8 (PTI) Five days after the Congress lost Chhattisgarh and Madhya Pradesh assembly polls, the party&#8217;s top leadership on Friday held separate meetings to asses the reasons for its humiliating defeats in the two states at the hands of the BJP. Congress president Mallikarjun Kharge had convened the review meeting at the [&#8230;]
+
+Fri, 08 Dec 2023 14:00:23 +0000
+### [WPL auction: Gujarat Giants, RCB look to plug the gaps](https://theprint.in/sport/wpl-auction-gujarat-giants-rcb-look-to-plug-the-gaps/1878236/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 8 (PTI) With the biggest purse going into the WPL auction on Saturday, last edition&#8217;s wooden-spooner Gujarat Giants will look to plug the holes ahead of the 2024 edition of the league, while the four other teams will be keen to fine-tune their squads. Gujarat Giants finished fifth and last in the inaugural [&#8230;]
+
+Fri, 08 Dec 2023 14:00:14 +0000
+### [Child star Junior Mehmood dies at 68](https://theprint.in/feature/child-star-junior-mehmood-dies-at-68/1878235/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 8 (PTI) Junior Mehmood, the child star remembered for his endearing performances in films such as “Caravan”, “Brahmachari&#8221; and &#8220;Mera Naam Joker” in the late 1960s and early 1970s, died in the early hours of Friday following a battle with cancer. He was 68. The actor, who was born Naeem Sayyed and got [&#8230;]
+
+Fri, 08 Dec 2023 14:00:02 +0000
+### [Rejected allegations of India’s involvement in any act of violence in Canada: Govt](https://theprint.in/india/rejected-allegations-of-indias-involvement-in-any-act-of-violence-in-canada-govt/1878234/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 8 (PTI) In calling for India&#8217;s cooperation into its allegations of a potential Indian link to the killing of a Khalistani leader on its soil, Canada has not provided any &#8220;specific and relevant information&#8221; to New Delhi for it to act upon, the government informed Parliament on Friday. Minister of State for [&#8230;]
+
+Fri, 08 Dec 2023 13:47:35 +0000
+### [Explore Last Minute Tax-Saving Options on Bajaj Markets](https://theprint.in/ani-press-releases/explore-last-minute-tax-saving-options-on-bajaj-markets/1878228/)
+
+Article found but Couldn't summarize 
+BusinessWire India Pune (Maharashtra) [India], December 8: Bajaj Markets, an online marketplace and a subsidiary of Bajaj Finserv, offers a host of tax-saving tools across categories like investments, loans, and insurance. As the ITR filing deadline approaches, individuals seeking last-minute options to save on taxes can explore these diverse avenues to lower their liabilities. Choosing [&#8230;]
+
+Fri, 08 Dec 2023 13:47:32 +0000
+### [Soccer-Dortmund’s Ryerson, Moukoko out for rest of year, teenager Brunner in squad](https://theprint.in/sport/soccer-dortmunds-ryerson-moukoko-out-for-rest-of-year-teenager-brunner-in-squad/1878227/)
+
+Article found but Couldn't summarize 
+BERLIN (Reuters) - Borussia Dortmund will be without injured Julian Ryerson and Youssoufa Moukoko for the rest of the year and have called 17-year-old Paris Brunner into the squad for the first time
+
+Fri, 08 Dec 2023 13:47:24 +0000
+### [Croatian soccer fans arrested in violent clashes in Greece released on bail](https://theprint.in/sport/croatian-soccer-fans-arrested-in-violent-clashes-in-greece-released-on-bail/1878225/)
+
+Article found but Couldn't summarize 
+ATHENS (Reuters) - Greek prosecutors have given the green light for the release on bail of 20 Croatian nationals arrested in August after a 29-year old man died in violent clashes between soccer clubs
+
+Fri, 08 Dec 2023 13:47:24 +0000
+### [Pulkit Samrat celebrates 6 years of ‘Fukrey Returns’](https://theprint.in/feature/pulkit-samrat-celebrates-6-years-of-fukrey-returns/1878224/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 8 (ANI): Friday turned out to be nostalgic for Pulkit Samrat as his film &#8216;Fukrey Returns&#8217; completed six years today. Marking the sixth anniversary of the film, Pulkit took to Instagram and posted a picture with his &#8216;Fukrey Returns&#8217; co-stars Varun Sharma, Manjot Singh and Ali Fazal. &#8220;Gratitude is the only [&#8230;]
+
+Fri, 08 Dec 2023 13:47:14 +0000
+### [Motor racing-Wolff says lawyers talking to FIA after compliance climbdown](https://theprint.in/sport/motor-racing-wolff-says-lawyers-talking-to-fia-after-compliance-climbdown/1878221/)
+
+Article found but Couldn't summarize 
+By Alan Baldwin LONDON (Reuters) - Toto Wolff hinted on Friday at legal action against Formula One's governing body after a storm over the integrity of the Mercedes team boss and his wife Susie, one
+
+Fri, 08 Dec 2023 13:47:13 +0000
+### [KP Group’s Solar Panel Cleaning Robots: A Technological Leap Towards Eco-Friendly Energy Production](https://theprint.in/ani-press-releases/kp-groups-solar-panel-cleaning-robots-a-technological-leap-towards-eco-friendly-energy-production/1878220/)
+
+Article found but Couldn't summarize 
+PNN New Delhi [India], December 8: Innovation: KP Group migrates from manual to Robotics water-less solar panel cleaning to save a minimum of 3,60,000 litres of water per year/MWp; Another step towards protecting the environment; already deployed at nine sites. KP Group has earned a name for its commitment to innovation. The company&#8217;s in-house R&#38;D [&#8230;]
+
+Fri, 08 Dec 2023 13:47:02 +0000
+### [Prabha Khaitan Foundation launches Ayodhya chapter with the unveiling of Anant Vijay’s book at the Kitaab event](https://theprint.in/ani-press-releases/prabha-khaitan-foundation-launches-ayodhya-chapter-with-the-unveiling-of-anant-vijays-book-at-the-kitaab-event/1878217/)
+
+Article found but Couldn't summarize 
+PNN Kolkata (West Bengal) [India], December 8: Prabha Khaitan Foundation (PKF) expanded its cultural and literary footprint by launching its new Ayodhya chapter with the unveiling of journalist-author Anant Vijay&#8217;s latest Hindi book &#8211; &#8220;Over the Top: OTT ka Mayajaal&#8221;at the iconic Raj Sadan &#8211; the Royal Palace of Ayodhya. Bimlendra Mohan Pratap Mishra, scion [&#8230;]
+
+Fri, 08 Dec 2023 13:47:00 +0000
+### [Nvidia to partner Malaysia’s YTL Power in $4.3 billion AI development project](https://theprint.in/tech/nvidia-to-partner-malaysias-ytl-power-in-4-3-billion-ai-development-project/1878216/)
+
+Article found but Couldn't summarize 
+By Rozanna Latiff and Fanny Potkin KUALA LUMPUR -Malaysian conglomerate YTL's utilities unit will partner with U.S technology giant Nvidia to develop artificial intelligence (AI) infrastructure in the
+
 Fri, 08 Dec 2023 13:18:36 +0000
 ### [HealthMitra, the new entrant in healthtech space](https://theprint.in/ani-press-releases/healthmitra-the-new-entrant-in-healthtech-space/1878165/)
 

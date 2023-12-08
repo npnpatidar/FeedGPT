@@ -1,3 +1,20 @@
+Fri, 08 Dec 2023 19:36:41 +0530
+### [Vantage | What's coffee got to do with politics? Ask Starbucks](https://www.firstpost.com/opinion/vantage-whats-coffee-got-to-do-with-politics-ask-starbucks-13482282.html)
+
+Article found but Couldn't summarize 
+Vantage | What's coffee got to do with politics? Ask Starbucks
+
+Fri, 08 Dec 2023 18:57:43 +0530
+### [Shattered shrines: How Pakistan wiped out Hinglaj and Sharada Shakti Peethas to convert them into silent ruins](https://www.firstpost.com/opinion/shattered-shrines-how-pakistan-wiped-out-hinglaj-and-sharada-shakti-peethas-to-convert-them-into-silent-ruins-13482422.html)
+
+Article found but Couldn't summarize 
+Shattered shrines: How Pakistan wiped out Hinglaj and Sharada Shakti Peethas to convert them into silent ruins
+
+Fri, 08 Dec 2023 18:53:47 +0530
+### [Vantage | Why Venezuela-Guyana spat is less about oil more about politics](https://www.firstpost.com/opinion/vantage-why-venezuela-guyana-spat-is-less-about-oil-more-about-politics-13482252.html)
+
+As GPT-3.5, I can provide a summary of the article you shared. The article discusses the escalating tensions between Venezuela and Guyana over the disputed territory of Essequibo, which is rich in oil resources. Venezuelan President Nicolas Maduro has claimed two-thirds of Guyana's territory, including Essequibo, leading to resistance from Guyana and fears of a potential conflict. The discovery of oil in Essequibo has further intensified the dispute. Maduro recently held a referendum to annex Essequibo swiftly, but Guyana sees it as a direct threat to its territorial integrity. Guyana has sought intervention from the UN Security Council, while Brazil has deployed troops along its border with Guyana and Venezuela. The United States has expressed concern and urged a peaceful resolution to the conflict. The article also discusses the symbolic nature of Maduro's actions and the challenges facing Venezuela economically and politically. The situation is being closely monitored by international players. Please let me know if there's anything specific you would like to know or if you have any other questions.
+
 Fri, 08 Dec 2023 18:17:49 +0530
 ### [Vantage | What India's 'return to democracy' message to Myanmar really means](https://www.firstpost.com/opinion/vantage-what-indias-return-to-democracy-message-to-myanmar-really-means-13482002.html)
 
