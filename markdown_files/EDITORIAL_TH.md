@@ -1,3 +1,15 @@
+Sat, 09 Dec 2023 00:20:00 +0530
+### [Invidious divide: On political discussions](https://www.thehindu.com/opinion/editorial/invidious-divide-the-hindu-editorial-on-political-discussions/article67618522.ece)
+
+Article found but Couldn't summarize 
+India can do without politicians exacerbating a north-south polarisation
+
+Sat, 09 Dec 2023 00:10:00 +0530
+### [An icy warning: On threats from contracting glaciers](https://www.thehindu.com/opinion/editorial/an-icy-warning-the-hindu-editorial-on-threats-from-contracting-glaciers/article67618613.ece)
+
+Article found but Couldn't summarize 
+Threats from contracting glaciers should be in the same category of risk as cyclones and earthquakes
+
 Fri, 08 Dec 2023 00:20:00 +0530
 ### [No fait accompli: On the changes proposed in the Lok Sabha in Jammu and Kashmir](https://www.thehindu.com/opinion/editorial/no-fait-accompli-the-hindu-editorial-on-the-changes-proposed-in-the-lok-sabha-in-jammu-and-kashmir/article67615639.ece)
 

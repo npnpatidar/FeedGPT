@@ -1,3 +1,103 @@
+Fri, 08 Dec 2023 19:00:16 +0000
+### [India ranked 7th in this year’s climate change performance index, up one spot from the previous report](https://theprint.in/world/india-ranked-7th-in-this-years-climate-change-performance-index-up-one-spot-from-the-previous-report/1878656/)
+
+India has ranked 7th in this year's Climate Change Performance Index, according to the report released during the global climate talks COP28. The country has received high rankings in greenhouse gas emissions and energy use categories, but a medium ranking in climate policy and renewable energy. India's per capita emissions are relatively low, and it is on track to meet the benchmark of well below 2 degrees Celsius. However, the report highlights that the transition to renewable energy is progressing slowly, and India still heavily relies on coal, oil, and gas for its energy needs. The experts suggest a faster phase-out of coal, reduced reliance on gas, and expanded renewable energy to fulfill India's potential in climate action.
+
+Fri, 08 Dec 2023 19:00:03 +0000
+### [COP28: New GST draft text gives four options for move towards clean energy](https://theprint.in/world/cop28-new-gst-draft-text-gives-four-options-for-move-towards-clean-energy/1878655/)
+
+Article found but Couldn't summarize 
+Dubai, Dec 8 (PTI) A new draft of the Global Stocktake released on Friday here at the COP28 has four options for the move towards clean energy ranging from phase out of fossil fuels to no mention of the phase out at all. The Global Stocktake is a fundamental component of the Paris Agreement of [&#8230;]
+
+Fri, 08 Dec 2023 18:45:49 +0000
+### [Microsoft, OpenAI tie-up comes under antitrust scrutiny](https://theprint.in/tech/microsoft-openai-tie-up-comes-under-antitrust-scrutiny/1878652/)
+
+Article found but Couldn't summarize 
+By Muvija M and Chavi Mehta LONDON (Reuters) - Microsoft's partnership with ChatGPT maker OpenAI is under scrutiny from antitrust regulators in the UK and the United States, according to a statement
+
+Fri, 08 Dec 2023 18:45:35 +0000
+### [Ethiopia edges towards default as bondholder talks falter](https://theprint.in/economy/ethiopia-edges-towards-default-as-bondholder-talks-falter/1878650/)
+
+Article found but Couldn't summarize 
+(Reuters) - Ethiopia appeared to be on the brink of a debt default on Friday after talks with key holders of the African country's $1 billion international bond ended without agreement. The combined
+
+Fri, 08 Dec 2023 18:45:24 +0000
+### [French far-right leader Marine Le Pen to stand trial over alleged misuse of EU funds](https://theprint.in/world/french-far-right-leader-marine-le-pen-to-stand-trial-over-alleged-misuse-of-eu-funds/1878648/)
+
+Article found but Couldn't summarize 
+PARIS (Reuters) - French far-right leader Marine Le Pen will stand trial alongside 27 others over alleged misuse of EU funds, the Paris prosecutor's office said on Friday, confirming French media
+
+Fri, 08 Dec 2023 18:45:14 +0000
+### [Ukraine says ICC arrest warrant for Putin helped return deported kids](https://theprint.in/world/ukraine-says-icc-arrest-warrant-for-putin-helped-return-deported-kids/1878646/)
+
+Article found but Couldn't summarize 
+KYIV (Reuters) - Ukraine's human rights commissioner said on Friday that two arrest warrants issued for Russian President Vladimir Putin and another official over the unlawful wartime deportation of
+
+Fri, 08 Dec 2023 18:45:13 +0000
+### [Army organises table-top exercise for women officers from ASEAN](https://theprint.in/india/army-organises-table-top-exercise-for-women-officers-from-asean/1878645/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 8 (PTI) The Indian Army has conducted a table-top exercise for  women officers from ASEAN countries with an aim to promote gender inclusivity and enhance capabilities of women military personnel in peacekeeping operations. The exercise is a part of ongoing efforts of the Centre for United Nations Peacekeeping (CUNPK) to strengthen international [&#8230;]
+
+Fri, 08 Dec 2023 18:45:03 +0000
+### [Ireland bids farewell to Shane MacGowan singing his Christmas classic](https://theprint.in/world/ireland-bids-farewell-to-shane-macgowan-singing-his-christmas-classic/1878643/)
+
+Article found but Couldn't summarize 
+By Graham Fahy and Karen Cox NENAGH, Ireland (Reuters) -Shane MacGowan's friends and family sang and danced in the aisles to a rousing rendition of The Pogues' Christmas anthem "Fairytale of New York"
+
+Fri, 08 Dec 2023 18:45:03 +0000
+### [As India threatens retaliation, European Commission says preventing carbon leakage sole aim of CBAM](https://theprint.in/world/as-india-threatens-retaliation-european-commission-says-preventing-carbon-leakage-sole-aim-of-cbam/1878642/)
+
+Article found but Couldn't summarize 
+Dubai, Dec 8 (PTI) The European Commission on Friday said the sole aim of CBAM &#8212; a tax the European Union plans to impose on energy-intensive goods from countries like India and China &#8212; is to prevent carbon leakage, a situation where companies decide to shift out their production from a country with stringent policies. [&#8230;]
+
+Fri, 08 Dec 2023 18:32:02 +0000
+### [‘First Act’ docuseries to capture journey of child actors](https://theprint.in/feature/first-act-docuseries-to-capture-journey-of-child-actors/1878640/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 8 (ANI): &#8216;First Act&#8217;, a docuseries, which chronicles the journey of child actors in the Hindi entertainment industry, is all set to be out soon. Written, produced, and directed by Deepa Bhatia under the banner of MalaKan Motion Pictures, with Amole Gupte serving as creative producer, &#8216;First Act&#8217; is a compelling [&#8230;]
+
+Fri, 08 Dec 2023 18:30:22 +0000
+### [Mathura girl being blackmailed jumps off building](https://theprint.in/india/mathura-girl-being-blackmailed-jumps-off-building/1878639/)
+
+Article found but Couldn't summarize 
+Mathura (UP), Dec 8 (PTI) A class 10 girl student here allegedly being blackmailed with a video jumped from a building, police said on Friday. Superintendent of Police (City) Martand Prakash Singh said the girl on Wednesday tried to kill herself by jumping from the third floor of a building in the Highway Police Station [&#8230;]
+
+Fri, 08 Dec 2023 18:30:13 +0000
+### [As India threatens retaliation, EU says preventing carbon leakage sole aim of CBAM](https://theprint.in/world/as-india-threatens-retaliation-eu-says-preventing-carbon-leakage-sole-aim-of-cbam/1878638/)
+
+Article found but Couldn't summarize 
+Dubai, Dec 8 (PTI) The European Commission on Friday said that the sole aim of CBAM &#8212; a tax the EU plans to impose on energy-intensive goods from countries like India and China &#8212; is to prevent carbon leakage, a situation where companies decide to shift out their production from a country with stringent policies. [&#8230;]
+
+Fri, 08 Dec 2023 18:30:03 +0000
+### [Man beats wife to death for not giving money for alcohol](https://theprint.in/india/man-beats-wife-to-death-for-not-giving-money-for-alcohol/1878637/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 8 (PTI) A man allegedly killed his wife in Goergaon East in Mumbai after she refused to give him money for alcohol, a police official said on Friday. The 42-year-old accused was arrested by the railway police from Malwani in Malad area while he was trying to flee the city, the official added. [&#8230;]
+
+Fri, 08 Dec 2023 18:17:02 +0000
+### [Nana Patekar attends International Film Festival of Kerala 2023](https://theprint.in/feature/nana-patekar-attends-international-film-festival-of-kerala-2023/1878633/)
+
+Article found but Couldn't summarize 
+Thiruvananthapuram (Kerala) [India], December 8 (ANI): Actor Nana Patekar attended the inauguration of the 28th edition of the International Film Festival of Kerala (IFFK) Thiruvananthapuram on Friday. Speaking on the occasion, Nana Patekar said, &#8220;I feel honoured to be here. I express gratitude to the organisers for inviting me to IFFK. I came to Kerala [&#8230;]
+
+Fri, 08 Dec 2023 18:15:52 +0000
+### [3D model souvenir of Mata Shri Chintpurni designed by NIFT-Kangra another attraction for devotees](https://theprint.in/india/3d-model-souvenir-of-mata-shri-chintpurni-designed-by-nift-kangra-another-attraction-for-devotees/1878632/)
+
+The National Institute of Fashion Designing Technology (NIFT) Kangra has created a 3D model souvenir of Mata Shri Chintpurni, which will be available for devotees visiting the temple. The Deputy Commissioner of Una, Raghav Sharma, and NIFT Director Rahul Chandra signed an agreement for the creation of the handicraft 3D model, which features authentic figures and portraits of Mata Shri Chintpurni. A counter will be set up for devotees to purchase the souvenir. Additionally, a museum will be built in the Mata Shri Chintpurni Temple, featuring modern technology and showcasing the cultural heritage of Himachal Pradesh, including dance, costumes, and musical instruments. The museum will also house a 3D theatre where religious films can be watched by devotees. The construction of the museum has been awarded to Pavilion and Interior Company Noida, who will complete it within a year and operate it for two years.
+
+Fri, 08 Dec 2023 18:15:39 +0000
+### [13% decline in road accidents in Himachal Pradesh in 2023: Police](https://theprint.in/india/13-decline-in-road-accidents-in-himachal-pradesh-in-2023-police/1878631/)
+
+Article found but Couldn't summarize 
+Shimla, Dec 8 (PTI) Himachal Pradesh saw a 13 per cent drop in the number of road accidents reported in the state this year, police officials said on Friday. There has been a 13 per cent reduction in road traffic accidents, 19 per cent dip in deaths due to them and 15 per cent drop [&#8230;]
+
+Fri, 08 Dec 2023 18:15:29 +0000
+### [Man’s charred body found in dharamshala in Rajasthan’s Rajsamand](https://theprint.in/india/mans-charred-body-found-in-dharamshala-in-rajasthans-rajsamand/1878630/)
+
+Article found but Couldn't summarize 
+Jaipur, Dec 8 (PTI) A charred body of a 75-year-old man was found in a room of a dharamshala in Rajsamand district on Friday, police said. People had to break open the door of the room when they saw smoke coming out of it. When they went inside, they found the burned down body of [&#8230;]
+
 Fri, 08 Dec 2023 18:15:16 +0000
 ### [Meghalaya: Armyman arrested with military ammo, animal remains](https://theprint.in/india/meghalaya-armyman-arrested-with-military-ammo-animal-remains/1878628/)
 
