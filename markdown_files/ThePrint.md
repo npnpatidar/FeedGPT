@@ -1,3 +1,121 @@
+Fri, 08 Dec 2023 18:15:16 +0000
+### [Meghalaya: Armyman arrested with military ammo, animal remains](https://theprint.in/india/meghalaya-armyman-arrested-with-military-ammo-animal-remains/1878628/)
+
+Article found but Couldn't summarize 
+Shillong, Dec 8 (PTI) An Army personnel was arrested in Meghalaya&#8217;s Ri-Bhoi district on Friday with a huge cache of military ammunition and animal remains, officials said. The arrest of the army personnel, who hails from Mizoram, was made after meticulous planning by the state police and military intelligence, they said. Chief Minister Conrad K [&#8230;]
+
+Fri, 08 Dec 2023 18:15:14 +0000
+### [Factbox-Egypt’s election follows long crackdown on dissent](https://theprint.in/world/factbox-egypts-election-follows-long-crackdown-on-dissent/1878627/)
+
+Article found but Couldn't summarize 
+(Reuters) - Egypt holds a presidential election on Dec. 10-12 in which Abdel Fattah al-Sisi is set to secure six more years in power. The vote comes after a decade-long crackdown on dissent that has
+
+Fri, 08 Dec 2023 18:15:03 +0000
+### [Canada’s opposition filibusters overnight against PM Trudeau’s carbon tax](https://theprint.in/world/canadas-opposition-filibusters-overnight-against-pm-trudeaus-carbon-tax/1878625/)
+
+Article found but Couldn't summarize 
+By Steve Scherer OTTAWA (Reuters) - Canada's main opposition Conservative Party forced the House of Commons to sit overnight in a filibuster that it says will end when Liberal Prime Minister Justin
+
+Fri, 08 Dec 2023 18:15:03 +0000
+### [Marandi demands FIR against Jharkhand Cong MP over ‘unaccounted’ cash recovery from his premises](https://theprint.in/india/marandi-demands-fir-against-jharkhand-cong-mp-over-unaccounted-cash-recovery-from-his-premises/1878624/)
+
+Article found but Couldn't summarize 
+Ranchi, Dec 8 (PTI) BJP&#8217;s Jharkhand unit president and former chief minister Babulal Marandi on Friday demanded the arrest of Congress Rajya Sabha MP from Jharkhand, Dhiraj Prasad Sahu, for &#8220;unaccounted&#8221; cash recovered from his premises. Unaccounted cash amounting to around Rs 225 crore has been recovered so far through searches being conducted by the [&#8230;]
+
+Fri, 08 Dec 2023 18:02:02 +0000
+### [“Won’t allow foreign court to block flights”: Rishi Sunak after UK’s new law against illegal immigration](https://theprint.in/world/wont-allow-foreign-court-to-block-flights-rishi-sunak-after-uks-new-law-against-illegal-immigration/1878620/)
+
+Article found but Couldn't summarize 
+London [UK], December 8 (ANI): Reiterating his stance against illegal immigration in the United Kingdom, British Prime Minister Rishi Sunak said that the new laws are the &#8220;toughest&#8221; anti-illegal migration law ever and now foreign courts can&#8217;t stop the Rwanda plan from taking place. Taking to social media platform X (formerly Twitter), Rishi Sunak stated, [&#8230;]
+
+Fri, 08 Dec 2023 18:00:42 +0000
+### [Red-breasted parakeet spotted for first time on Kurukshetra University premises](https://theprint.in/india/red-breasted-parakeet-spotted-for-first-time-on-kurukshetra-university-premises/1878619/)
+
+A red-breasted parakeet, a type of parrot facing the threat of extinction, has been spotted at Kurukshetra University in Haryana, according to university officials. This sighting is believed to be the first recorded instance of a red-breasted parakeet in Haryana. The state already has four other types of parakeets - rose-ringed parakeet, plum-headed parakeet, slaty-headed parakeet, and alexandrine parakeet. The university plans to conduct a thorough study on the bird and publish its findings. The presence of this rare bird species reflects the healthy ecosystem of the university campus, according to the Vice Chancellor.
+
+Fri, 08 Dec 2023 18:00:30 +0000
+### [Current period is golden period for country’s youth: JNU vice chancellor](https://theprint.in/india/current-period-is-golden-period-for-countrys-youth-jnu-vice-chancellor/1878618/)
+
+Article found but Couldn't summarize 
+Gandhinagar, Dec 8 (PTI) Jawaharlal Nehru University vice-chancellor Shantishree Pandit on Friday said the contribution of the youth towards the building of India as a strong nation and their involvement in shaping global standards have made the current times a golden period for them. She was speaking as chief guest at the fifth convocation at [&#8230;]
+
+Fri, 08 Dec 2023 18:00:19 +0000
+### [US tells UN it does not support call for Gaza ceasefire](https://theprint.in/world/us-tells-un-it-does-not-support-call-for-gaza-ceasefire/1878616/)
+
+Article found but Couldn't summarize 
+By Michelle Nichols UNITED NATIONS (Reuters) -Ahead of a delayed Friday vote by the United Nations Security Council on a demand for an immediate humanitarian ceasefire in the Israel-Hamas war, the
+
+Fri, 08 Dec 2023 18:00:17 +0000
+### [LS Secretariat notifies Mahua Moitra’s expulsion](https://theprint.in/india/ls-secretariat-notifies-mahua-moitras-expulsion/1878614/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 8 (PTI) The Lok Sabha Secretariat on Friday issued a notification announcing the expulsion of Trinamool Congress MP Mahua Moitra from the lower house. The notification came hours after Moitra was expelled from the Lok Sabha as the House adopted a report of its Ethics Committee that held her guilty of accepting [&#8230;]
+
+Fri, 08 Dec 2023 18:00:05 +0000
+### [World should make immediate Gaza ceasefire a priority – regional foreign ministers](https://theprint.in/world/world-should-make-immediate-gaza-ceasefire-a-priority-regional-foreign-ministers/1878613/)
+
+Article found but Couldn't summarize 
+By Humeyra Pamuk and Jonathan Landay WASHINGTON (Reuters) -There must be an immediate end to the fighting in Gaza but governments worldwide do not seem to see it as a priority, Saudi Arabia's foreign
+
+Fri, 08 Dec 2023 18:00:03 +0000
+### [After Assembly loss, Chhattisgarh Cong leader questions some of Baghel’s moves](https://theprint.in/india/after-assembly-loss-chhattisgarh-cong-leader-questions-some-of-baghels-moves/1878612/)
+
+Article found but Couldn't summarize 
+Korba, Dec 8 (PTI) Chhattisgarh Congress leader Jai Singh Agrawal on Friday said his party lost the Assembly polls in the state because power had got centralised and ministers were not given their due rights, the statement being seen as an attack on outgoing chief minister Bhupesh Baghel. He also pointed fingers at Baghel over [&#8230;]
+
+Fri, 08 Dec 2023 17:47:02 +0000
+### [PM Sheikh Hasina accuses BNP of causing famine in Bangladesh](https://theprint.in/world/pm-sheikh-hasina-accuses-bnp-of-causing-famine-in-bangladesh/1878610/)
+
+Article found but Couldn't summarize 
+Dhaka [Bangladesh], December 8 (ANI): Bangladesh Prime Minister Sheikh Hasina accused the Bangladesh Nationalist Party (BNP) to be the reason behind famine in the country, according to Dhaka Tribune. As the general election approaches in the country, PM Hasina said that the BNP&#8217;s next plan is to cause famine, as they have realized that the [&#8230;]
+
+Fri, 08 Dec 2023 17:46:43 +0000
+### [Soccer-U.S. and Mexico submit bid to co-host 2027 women’s World Cup](https://theprint.in/sport/soccer-u-s-and-mexico-submit-bid-to-co-host-2027-womens-world-cup/1878608/)
+
+Article found but Couldn't summarize 
+(Reuters) -The United States and Mexico submitted a joint bid on Friday to co-host the 2027 women's World Cup that, if successful, would see the North American neighbours stage global soccer's two
+
+Fri, 08 Dec 2023 17:46:27 +0000
+### [X discusses using Amazon’s ad-buying software – WSJ](https://theprint.in/tech/x-discusses-using-amazons-ad-buying-software-wsj/1878606/)
+
+According to the Wall Street Journal, Elon Musk's social media platform, X, has discussed the possibility of partnering with Amazon.com. The partnership would involve making X ads available on Amazon's ad-buying software. However, neither Amazon nor X has provided a comment regarding this potential collaboration. Recently, several companies, including Comcast and Walt Disney, paused their advertisements on X due to Musk's agreement with a false claim made on the platform that suggested Jewish people were stirring hatred against white people. Musk faced criticism for this and expressed frustration towards advertisers who had withdrawn from X.
+
+Fri, 08 Dec 2023 17:46:11 +0000
+### [Oil climbs 2% but still headed for seventh weekly drop](https://theprint.in/economy/oil-climbs-2-but-still-headed-for-seventh-weekly-drop/1878604/)
+
+Article found but Couldn't summarize 
+By Shariq Khan BENGALURU (Reuters) -Oil prices were on track for a seventh consecutive weekly decline for the first time in half a decade on Friday on concerns about surplus supply, but prices rose on
+
+Fri, 08 Dec 2023 17:46:00 +0000
+### [US sanctions dozens of people worldwide over human rights abuses](https://theprint.in/world/us-sanctions-dozens-of-people-worldwide-over-human-rights-abuses/1878602/)
+
+Article found but Couldn't summarize 
+By Daphne Psaledakis and Michael Martina WASHINGTON (Reuters) - The United States on Friday slapped sanctions on dozens of people over human rights abuses, including Iranian officers it accused of
+
+Fri, 08 Dec 2023 17:45:53 +0000
+### [3 terror suspects arrested with unaccounted for cash in Jammu’s Reasi](https://theprint.in/india/3-terror-suspects-arrested-with-unaccounted-for-cash-in-jammus-reasi/1878600/)
+
+Article found but Couldn't summarize 
+Jammu, Dec 8 (PTI) Three persons were detained by security forces with Rs 50,000 in cash in Jammu and Kashmir&#8217;s Reasi district on Friday, police said. During a routine checking of vehicles at a traffic check post in Mahore town, a vehicle on the way towards Srinagar was found to have three men with Rs [&#8230;]
+
+Fri, 08 Dec 2023 17:45:51 +0000
+### [World not focused on ending fighting in Gaza, Saudi foreign minister says](https://theprint.in/world/world-not-focused-on-ending-fighting-in-gaza-saudi-foreign-minister-says/1878599/)
+
+Article found but Couldn't summarize 
+WASHINGTON (Reuters) - There needs to be an immediate end to the fighting in Gaza but governments worldwide do not seem to see it as a priority, Saudi Arabia's foreign minister said on Friday in
+
+Fri, 08 Dec 2023 17:45:43 +0000
+### [Man held for consuming liquor in dry Bihar found dead in police lockup, case filed](https://theprint.in/india/man-held-for-consuming-liquor-in-dry-bihar-found-dead-in-police-lockup-case-filed/1878597/)
+
+Article found but Couldn't summarize 
+Munger (Bihar), Dec 8 (PTI) A 22-year-old man, who was arrested for consuming liquor in dry Bihar, was found dead inside the lockup of a police station in Munger district, an official said on Friday. The deceased, identified as Aman of Bageshwari area, was found hanging from the ventilator of the toilet attached to the [&#8230;]
+
+Fri, 08 Dec 2023 17:45:42 +0000
+### [Palestinian president says Gaza war must end, conference needed to reach settlement](https://theprint.in/world/palestinian-president-says-gaza-war-must-end-conference-needed-to-reach-settlement/1878596/)
+
+Article found but Couldn't summarize 
+By Samia Nakhoul and Ali Sawafta (Reuters) -Palestinian President Mahmoud Abbas on Friday called for an immediate end to the war in Gaza and an international peace conference to work out a lasting
+
 Fri, 08 Dec 2023 17:03:02 +0000
 ### [Participation of women voters in Delhi elections rose by 4.2 pc since 1993, data shows](https://theprint.in/india/participation-of-women-voters-in-delhi-elections-rose-by-4-2-pc-since-1993-data-shows/1878528/)
 

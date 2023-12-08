@@ -1,3 +1,15 @@
+Fri, 08 Dec 2023 23:01:10 +0530
+### [Spotify CFO Paul Vogel to step down days after third round of layoffs announced for 2023](https://www.livemint.com/technology/tech-news/spotify-cfo-paul-vogel-to-step-down-days-after-third-round-of-layoffs-announced-for-2023-11702056087824.html)
+
+Article found but Couldn't summarize 
+In a statement announcing CFO Paul Vogel’s departure, CEO Daniel Ek said that the two had 'come to the conclusion that Spotify is entering a new phase and needs a CFO with a different mix of experiences.'
+
+Fri, 08 Dec 2023 22:54:44 +0530
+### [Adopt AI by putting right governance in place: Maruti Suzuki’s Rajesh Uppal](https://www.livemint.com/technology/adopt-ai-by-putting-right-governance-in-place-maruti-suzuki-s-rajesh-uppal-11702055552855.html)
+
+Article found but Couldn't summarize 
+Uppal added that both technology providers and corporations are working together to adopt the latest technology—even as AI becomes more sophisticated
+
 Fri, 08 Dec 2023 19:59:17 +0530
 ### [Looking for best geyser brand? Choose from top 10 options by renowned companies](https://www.livemint.com/technology/gadgets/looking-for-best-geyser-brand-choose-from-top-10-options-by-renowned-companies-11702030290657.html)
 
