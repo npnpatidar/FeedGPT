@@ -1,3 +1,9 @@
+Fri, 08 Dec 2023 15:30:00 +0530
+### [The unusual cabbage mutation that could boost crop yield | Explained](https://www.thehindu.com/sci-tech/science/ms-cd1-cabbage-mutation-heterosis-crop-yield-explained/article67617801.ece)
+
+Article found but Couldn't summarize 
+Some 44 years ago, people found a cabbage plant with a natural mutation that destroyed the plant’s ability to make pollen.
+
 Thu, 07 Dec 2023 21:13:50 +0530
 ### [Dispute over sharing of Krishna waters between Andhra Pradesh and Telangana refuses to die down](https://www.thehindu.com/news/national/andhra-pradesh/dispute-over-sharing-of-krishna-waters-between-andhra-pradesh-and-telangana-refuses-to-die-down/article67614621.ece)
 

@@ -1010,3 +1010,8 @@ Wed, 08 Nov 2023 16:49:35 +0530
 
 The first "Global Scam Message" survey conducted by McAfee has revealed that Indians receive an average of 12 scam messages per day, increasing the risk of falling victim to phishing attacks. The study found that 82% of Indians surveyed have either clicked on or been victimized by fraudulent messages, with 49% stating that these scams are now more sophisticated and convincing. Fake job notifications and bank alert messages were reported as the most common types of scams, and a new phishing site pops up in India every 11 seconds. Approximately 60% of Indians believe that AI is needed to tackle scam messages, as hackers are increasingly using AI to make their scams more convincing. The survey also showed that 90% of Indians receive fake messages through email and text, while 84% receive them on social media platforms. Despite a decline in trust in digital communications, 88% of Indians are willing to trust AI-driven tools to detect online scams.
 
+Thu, 01 Jan 1970 05:30:00 +0530
+### [None](None)
+
+No Article text
+

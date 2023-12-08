@@ -1,3 +1,9 @@
+Fri, 08 Dec 2023 14:52:17 +0530
+### [Righting historical wrongs in Jammu and Kashmir](https://www.firstpost.com/opinion/righting-historical-wrongs-in-jammu-and-kashmir-13481022.html)
+
+Article found but Couldn't summarize 
+Righting historical wrongs in Jammu and Kashmir
+
 Fri, 08 Dec 2023 14:08:05 +0530
 ### [Vantage | Why it's time for colonisers like UK to pay up trillions of dollars they looted](https://www.firstpost.com/opinion/vantage-why-its-time-for-colonisers-like-uk-to-pay-up-trillions-of-dollars-they-looted-13480862.html)
 

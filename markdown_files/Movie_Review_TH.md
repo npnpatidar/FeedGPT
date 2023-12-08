@@ -1,3 +1,9 @@
+Fri, 08 Dec 2023 15:49:25 +0530
+### [Hemmige Prashanth’s bid to replicate his guru’s style](https://www.thehindu.com/entertainment/music/hemmige-prashanths-bid-to-replicate-his-gurus-style/article67608629.ece)
+
+Article found but Couldn't summarize 
+At his concert for Kedaram festival 2023, Prashanth chose kritis from K.V. Narayanaswamy’s treasure trove
+
 Fri, 08 Dec 2023 13:43:15 +0530
 ### [Emmet Cohen: ‘ I fell in love with the language of jazz and started observing the way musicians communicate with one another’](https://www.thehindu.com/entertainment/music/emmet-cohen-i-fell-in-love-with-the-language-of-jazz-and-started-observing-the-way-musicians-communicate-with-one-another/article67610860.ece)
 

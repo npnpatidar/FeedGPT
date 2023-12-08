@@ -1,3 +1,27 @@
+2023-12-08T15:45:23+05:30
+### [Assam Citizenship Case: SC Tells Union Govt to Give Details on Undocumented Immigrants in Northeast](https://thewire.in/law/assam-citizenship-case-sc-tells-union-govt-to-give-details-on-undocumented-immigrants-in-northeast)
+
+No Article text 
+The apex court’s directives have come during the hearing of a bunch of petitions opposed to, and in support of, Section 6A inserted into the Citizenship Act 1955 with the approval of Parliament for the state of Assam.
+
+2023-12-08T15:30:58+05:30
+### [Strife-Torn Manipur Lifts Alcohol Ban, Civil Society Opposes Move](https://thewire.in/government/strife-torn-manipur-lifts-alcohol-ban-civil-society-opposes-move)
+
+No Article text 
+Civil society organisations strongly opposed the state cabinet’s resolution to legalise liquor in the state.
+
+2023-12-08T15:27:06+05:30
+### [India Gave 70 Tonnes of Humanitarian Aid to Palestine, Says Government](https://thewire.in/world/india-gave-70-tonnes-of-humanitarian-aid-to-palestine-says-government)
+
+No Article text 
+'This included tents, blankets, hygiene kits, life-saving medicines, surgical items and medical equipment.'
+
+2023-12-08T14:59:26+05:30
+### [Bombay HC Questions Delay in Pune By-Poll, Asks EC For Satisfactory Response](https://thewire.in/government/bombay-hc-delay-pune-by-poll-ec-satisfactory-response)
+
+No Article text 
+The bench of Justices Gautam S. Patel and Kamal R. Khata said it prima facie disagreed with the poll panel's rationale that the by-poll winner would only have a short tenure and that the poll would affect preparations for the 2024 general election.
+
 2023-12-08T14:30:55+05:30
 ### [Before Celebrating a Fall in J&K Terror, Amit Shah Would Do Well to Look Deeper Into the Numbers](https://thewire.in/security/before-celebrating-a-fall-in-jk-terror-amit-shah-would-do-well-to-look-deeper-into-the-numbers)
 
