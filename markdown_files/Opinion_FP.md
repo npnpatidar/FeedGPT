@@ -1,3 +1,9 @@
+Fri, 08 Dec 2023 11:49:14 +0530
+### [How top leadership's whole-of-government approach contributed to triumph in Silkyara Tunnel rescue](https://www.firstpost.com/opinion/how-top-leaderships-whole-of-government-approach-contributed-to-triumph-in-silkyara-tunnel-rescue-13479792.html)
+
+Article found but Couldn't summarize 
+How top leadership's whole-of-government approach contributed to triumph in Silkyara Tunnel rescue
+
 Fri, 08 Dec 2023 10:01:22 +0530
 ### [Remaking of ‘NaMo app’ as a trusted news source a Modi govt strategy to own the narrative and set 2024 campaign agenda](https://www.firstpost.com/opinion/remaking-of-namo-app-as-a-trusted-news-source-a-modi-govt-strategy-to-own-the-narrative-and-set-2024-campaign-agenda-13479402.html)
 

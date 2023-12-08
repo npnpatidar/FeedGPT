@@ -1,3 +1,9 @@
+Fri, 08 Dec 2023 11:29:22 +0530
+### [Wi-Fi router for home to ensure constant connectivity? Check top 10 options](https://www.livemint.com/technology/gadgets/wifi-router-for-home-to-ensure-constant-connectivity-check-top-10-options-11701946637073.html)
+
+Article found but Couldn't summarize 
+A Wi-Fi router for home is necessary since most of us are working from home. Check out the complete curated list of Wi-Fi routers for home and choose from the 10 best options.
+
 Thu, 07 Dec 2023 23:06:21 +0530
 ### [Apple-backed study says data breaches in US surge 20% in first nine months of 2023](https://www.livemint.com/technology/tech-news/applebacked-study-says-data-breaches-in-us-surge-20-in-first-nine-months-of-2023-11701966576518.html)
 

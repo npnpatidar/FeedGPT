@@ -1,3 +1,15 @@
+Fri, 08 Dec 2023 11:44:20 +0530
+### [Is Meftal, the common painkiller you are popping for period pain, headaches, safe?](https://www.firstpost.com/explainers/is-metfal-the-common-painkiller-you-are-popping-for-period-pain-headaches-safe-13479372.html)
+
+Article found but Couldn't summarize 
+Is Meftal, the common painkiller you are popping for period pain, headaches, safe?
+
+Fri, 08 Dec 2023 11:33:37 +0530
+### [Who is Kamleshwar Dodiyar, the newly elected Madhya Pradesh MLA who lives in mud house, travels on borrowed bike?](https://www.firstpost.com/explainers/who-is-kamleshwar-dodiyar-the-newly-elected-madhya-pradesh-mla-who-lives-in-mud-house-travels-on-borrowed-bike-13479712.html)
+
+Article found but Couldn't summarize 
+Who is Kamleshwar Dodiyar, the newly elected Madhya Pradesh MLA who lives in mud house, travels on borrowed bike?
+
 Fri, 08 Dec 2023 10:40:42 +0530
 ### [Mahua Moitra report to be tabled in Lok Sabha: Is TMC MP’s expulsion imminent?](https://www.firstpost.com/explainers/mahua-moitra-cash-for-query-report-tabled-in-parliament-is-the-trinamool-mps-expulsion-imminent-13479612.html)
 

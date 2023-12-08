@@ -1,3 +1,9 @@
+Thu, 07 Dec 2023 21:13:50 +0530
+### [Dispute over sharing of Krishna waters between Andhra Pradesh and Telangana refuses to die down](https://www.thehindu.com/news/national/andhra-pradesh/dispute-over-sharing-of-krishna-waters-between-andhra-pradesh-and-telangana-refuses-to-die-down/article67614621.ece)
+
+Article found but Couldn't summarize 
+Andhra Pradesh’s recent takeover of its ‘legitimate territory’ at the Nagarjuna Sagar Project site highlights the need for a swift and collaborative action to address the concerns of both the States in adherence to the agreements reached earlier
+
 Thu, 07 Dec 2023 10:30:00 +0530
 ### [The role of special inquiry committees of Parliament | Explained](https://www.thehindu.com/news/national/the-role-of-special-inquiry-committees-of-parliament-explained/article67612267.ece)
 

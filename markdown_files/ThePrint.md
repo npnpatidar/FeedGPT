@@ -1,3 +1,115 @@
+Fri, 08 Dec 2023 06:17:13 +0000
+### [‘Fighter’ teaser: Hrithik Roshan, Deepika Padukone starrer promises adrenaline rush](https://theprint.in/feature/fighter-teaser-hrithik-roshan-deepika-padukone-starrer-promises-adrenaline-rush/1877432/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 8 (ANI): Makers of the upcoming aerial action thriller &#8216;Fighter&#8217; on Friday unveiled the much-awaited teaser of the film. Taking to Instagram, actor Hrithik Roshan shared the teaser which he captioned, &#8220;Har udaan, watan ke naam. #FighterForever. #FighterTeaser Out Now!&#8221; https://www.instagram.com/p/C0lI0JrixdG/ Helmed by Siddharth Anand, the film stars Hrithik Roshan, Deepika [&#8230;]
+
+Fri, 08 Dec 2023 06:17:02 +0000
+### [Taapsee Pannu wraps up her “special films” ‘Dunki’, ‘Phir Aayi Haseen Dilruba’](https://theprint.in/feature/taapsee-pannu-wraps-up-her-special-films-dunki-phir-aayi-haseen-dilruba/1877430/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 8 (ANI): After wrapping up her two special films &#8216;Dunki&#8217; and &#8216;Phir Aayi Haseen Dilruba&#8217;, actor Taapsee Pannu headed to her favourite destination Maldives for a holiday. On Thursday, Taapsee took to Instagram story and shared this exciting news with her fans along with glimpses from her holiday. In the picture, [&#8230;]
+
+Fri, 08 Dec 2023 06:15:56 +0000
+### [20 staffers, officers overstaying in same Noida Authority dept shuffled](https://theprint.in/india/20-staffers-officers-overstaying-in-same-noida-authority-dept-shuffled/1877428/)
+
+The Chief Executive Officer of Noida Authority, Lokesh M, has ordered a reshuffle of over one-and-a-half dozen officers and personnel who have been in the same department for more than three years. The decision was made after a surprise inspection conducted by CEO Lokesh M revealed a significant number of absent personnel in the industrial, institutional, commercial, and building departments. In the first phase of the reshuffle, 20 officers and employees have been transferred to other departments. The CEO had previously expressed displeasure at the absenteeism and had deducted one day's salary of the erring officials. Subscribe to ThePrint for more news and support journalism that is fair and non-hyphenated.
+
+Fri, 08 Dec 2023 06:15:45 +0000
+### [BJP appoints central observers for Rajasthan, MP, Chhattisgarh to elect legislative party leader](https://theprint.in/india/bjp-appoints-central-observers-for-rajasthan-mp-chhattisgarh-to-elect-legislative-party-leader/1877427/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 8 (PTI) The BJP on Friday appointed senior leaders Rajnath Singh, Manohar Lal Khattar and Arjun Munda as central observers for electing the leader of the legislative party in Rajasthan, Madhya Pradesh and Chhattisgarh respectively. The new legislative party leaders are set to become chief ministers of the three states. According to [&#8230;]
+
+Fri, 08 Dec 2023 06:15:36 +0000
+### [India Women’s face stern challenge against dominant England in 2nd T20I](https://theprint.in/sport/india-womens-face-stern-challenge-against-dominant-england-in-2nd-t20i/1877426/)
+
+In the second women's T20I match between India and England, England secured a comprehensive 38-run victory, taking a 1-0 lead in the three-match series. This win marked England's 21st victory in 28 T20Is against India and their eighth win in 10 matches in India. India struggled in the first game, making errors in both bowling and fielding. The Indian spinners were unable to contain England's batsmen, and the fielding support was lacking. Despite a strong performance from seamer Renuka Singh Thakur, India couldn't stage a comeback. England's spin pair of Sophie Ecclestone and Sarah Glenn troubled India's batters with their line and lengths. India's batters, including Shafali Verma and Harmanpreet Kaur, couldn't chase down the target of 198. India will need to make significant improvements in the upcoming matches to challenge England.
+
+Fri, 08 Dec 2023 06:15:25 +0000
+### [UPI payment limit to hospitals, educational institutes raised to Rs 5 lakh: RBI](https://theprint.in/economy/upi-payment-limit-to-hospitals-educational-institutes-raised-to-rs-5-lakh-rbi/1877425/)
+
+GPT-3.5: The Reserve Bank of India (RBI) has made a significant decision to raise the UPI payment limit for hospitals and educational institutions. The limit has been increased from Rs 1 lakh to Rs 5 lakh per transaction. This change will allow consumers to make higher UPI payments for education and healthcare purposes. Additionally, the RBI has also increased the cap for e-mandates for recurring payments. The limit has been raised to Rs 1 lakh per transaction for mutual fund subscriptions, insurance premium subscriptions, and credit card repayments. These measures aim to promote the usage of UPI and e-mandates in the financial sector. The RBI is also planning to establish a "Fintech Repository" to better understand developments in the fintech ecosystem and support the sector. Furthermore, the central bank is working on setting up a cloud facility for the financial sector in India to enhance data security, integrity, and privacy.
+
+Fri, 08 Dec 2023 06:15:14 +0000
+### [Maharashtra winter session: Opposition leaders shout slogans to target govt over farmers’ issues](https://theprint.in/india/maharashtra-winter-session-opposition-leaders-shout-slogans-to-target-govt-over-farmers-issues/1877423/)
+
+During the winter session of the Maharashtra legislature, the Opposition continued to criticize the government for not addressing the issues faced by farmers. They demanded higher minimum support price (MSP) for cotton, better prices for onions, and a farm loan waiver. Congress party leader, Nana Patole, expressed concerns about the loss of crops due to unseasonal rains, particularly affecting cotton growers. Leaders from the Maha Vikas Aghadi joined the protest and demanded an MSP of Rs 14,000 per quintal for cotton and higher MSPs for soybean. The leader of the opposition in the legislative council, Ambadas Danve, stated their opposition to what they perceive as anti-farmer policies of the government and called for fair prices for cotton, soybean, and onions.
+
+Fri, 08 Dec 2023 06:15:07 +0000
+### [Palestinian Authority working with US on postwar plan for Gaza – Bloomberg News](https://theprint.in/world/palestinian-authority-working-with-us-on-postwar-plan-for-gaza-bloomberg-news/1877422/)
+
+According to an article from Reuters, Palestinian Prime Minister Mohammad Shtayyeh stated that the Palestinian Authority is collaborating with U.S. officials on a plan to govern Gaza after the war. Shtayyeh expressed the desired outcome of the conflict to be Hamas, the militant group that currently controls Gaza, becoming a junior partner under the Palestinian Liberation Organization (PLO). This partnership would contribute to the establishment of a new independent state encompassing the West Bank, Gaza, and East Jerusalem. Shtayyeh emphasized the importance of Palestinian unity and stated that Israel's goal of completely defeating Hamas is unrealistic. Israel, in response to attacks by Iran-backed Hamas militants, has vowed to eradicate the group. The conflict has resulted in a significant number of casualties on both sides.
+
+Fri, 08 Dec 2023 06:15:03 +0000
+### [Earth may have had all the elements needed for life within it all along − contrary to theories that these elements came from meteorites](https://theprint.in/world/earth-may-have-had-all-the-elements-needed-for-life-within-it-all-along-%e2%88%92-contrary-to-theories-that-these-elements-came-from-meteorites/1877421/)
+
+Article found but Couldn't summarize 
+Knoxville (US)/Hefei (China), Dec 8 (The Conversation) For many years, scientists have predicted that many of the elements that are crucial ingredients for life, like sulfur and nitrogen, first came to Earth when asteroid-type objects carrying them crashed into our planet’s surface. But new research published by our team in Science Advances suggests that many [&#8230;]
+
+Fri, 08 Dec 2023 06:02:21 +0000
+### [RBI raises India’s 2023-24 GDP growth projections after firm Q2 figures; inflation forecast maintained](https://theprint.in/economy/rbi-raises-indias-2023-24-gdp-growth-projections-after-firm-q2-figures-inflation-forecast-maintained/1877416/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 8 (ANI): The Reserve Bank of India (RBI), while maintaining the status quo in key policy rate, has raised India&#8217;s GDP growth forecast for financial year 2023-24 by 50 basis points to 7 per cent. In its October meeting, the RBI forecast 2023-24 growth at 6.5 per cent. This upward revision [&#8230;]
+
+Fri, 08 Dec 2023 06:02:11 +0000
+### [The Art of Living joins hands with the Govt. of Maharashtra for a huge Natural Farming initiative with proven results](https://theprint.in/ani-press-releases/the-art-of-living-joins-hands-with-the-govt-of-maharashtra-for-a-huge-natural-farming-initiative-with-proven-results/1877414/)
+
+Article found but Couldn't summarize 
+PRNewswire Bengaluru (Karnataka) [India], December 8: An MOU was signed in Mumbai on the 26th of November between The Art of Living Social Projects and the Department of Soil and Water Conservation, Government of Maharashtra. Present at the occasion were Gurudev Sri Sri Ravi Shankar; Eknath Shinde, Chief Minister of Maharashtra; Devendra Fadnavis, Deputy Chief [&#8230;]
+
+Fri, 08 Dec 2023 06:02:02 +0000
+### [Bar Council of Telangana Chairman, Narasimha Reddy Anantha inaugurates Moot Court at Woxsen University](https://theprint.in/ani-press-releases/bar-council-of-telangana-chairman-narasimha-reddy-anantha-inaugurates-moot-court-at-woxsen-university/1877412/)
+
+The Chairman of Bar Council of Telangana, Narasimha Reddy Anantha, recently inaugurated the Moot Court at Woxsen University in Kamkole. The Moot Court is designed to provide law students with an immersive experience to refine their advocacy skills, research abilities, and legal reasoning. It serves as a platform for students to showcase their talents within a realistic courtroom setting. Chairman Narasimha Reddy emphasized the importance of developing analytical and problem-solving skills for a successful career in the legal industry. He also commended Woxsen University for its exceptional features, infrastructure, and global standards. The Moot Court at Woxsen University offers permanent membership to students and focuses on contemporary global issues. Students receive individual training from experienced mentors and professors and participate in special lectures to prepare for national and international moot court competitions. Woxsen University is known for its state-of-the-art campus and offers programs in various fields, including Business, Technology, Arts & Design, Architecture, Law, Sciences, and Liberal Arts & Humanities.
+
+Fri, 08 Dec 2023 06:01:03 +0000
+### [Indian-origin former football team employee in US accused of stealing over USD 22 million to buy condo, cars and cryptocurrency](https://theprint.in/sport/indian-origin-former-football-team-employee-in-us-accused-of-stealing-over-usd-22-million-to-buy-condo-cars-and-cryptocurrency/1877411/)
+
+Article found but Couldn't summarize 
+Washington, Dec 8 (PTI) An Indian-origin former financial manager of an American football team has been charged with wire fraud for allegedly racking up more than USD 22 million from the franchise in fraudulent credit card purchases to fund a lavish lifestyle. Amit Patel, who worked for the Jacksonville Jaguars for five years starting in [&#8230;]
+
+Fri, 08 Dec 2023 06:00:49 +0000
+### [Earthquake of 4.2 intensity hits Gujarat’s Kutch; no report of damage](https://theprint.in/india/earthquake-of-4-2-intensity-hits-gujarats-kutch-no-report-of-damage-2/1877410/)
+
+Article found but Couldn't summarize 
+Ahmedabad, Dec 8 (PTI) A 4.2 intensity earthquake was recorded near Rapar town of Gujarat’s Kutch district on Friday morning, officials said. There were no reports of casualties or damage as of now, they said. “Earthquake measuring 4.2 on Richter Scale was recorded 19 kms west-southwest of Rapar in Kutch district around 9 am,” said [&#8230;]
+
+Fri, 08 Dec 2023 06:00:34 +0000
+### [SA return just a process at moment, my operated arm needs to regain strength: Du Plessis](https://theprint.in/sport/sa-return-just-a-process-at-moment-my-operated-arm-needs-to-regain-strength-du-plessis/1877409/)
+
+As GPT-3.5, I can provide a summary of the article you shared. Faf du Plessis, the former captain of the South African cricket team, expressed his desire to regain peak fitness and game-touch before considering a return to the national team. He underwent elbow surgery in September during the Caribbean Premier League and is currently focused on getting back into cricket and allowing his arm to recover. Du Plessis mentioned that South Africa has announced the possibility of T20 contracts in March, and players will need to perform well in leagues and international matches to be eligible for selection. He also discussed the growing trend of cricketers participating in T20 leagues and emphasized the importance of finding a balance between international cricket and franchise cricket. Du Plessis is currently playing in the Abu Dhabi T10 tournament to sharpen his skills and fitness.
+
+Fri, 08 Dec 2023 06:00:24 +0000
+### [SC rejects plea seeking direction to fix limit of expenses by political parties, candidates](https://theprint.in/india/sc-rejects-plea-seeking-direction-to-fix-limit-of-expenses-by-political-parties-candidates/1877408/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 8 (PTI) The Supreme Court on Friday dismissed a petition seeking a direction to fix the limit of expenses by political parties and candidates in elections, saying these are matters of legislative policy. &#8220;Either these are legislative changes or policy matters. How can we entertain a petition like this,&#8221; a bench headed [&#8230;]
+
+Fri, 08 Dec 2023 06:00:16 +0000
+### [Chinese fighters, balloon cross Taiwan Strait a month before election](https://theprint.in/world/chinese-fighters-balloon-cross-taiwan-strait-a-month-before-election/1877406/)
+
+Article found but Couldn't summarize 
+By Ben Blanchard TAIPEI (Reuters) -Taiwan said on Friday that 12 Chinese fighter jets and a suspected weather balloon had crossed the Taiwan Strait's sensitive median line, in a ratcheting up of
+
+Fri, 08 Dec 2023 06:00:14 +0000
+### [Lalduhoma sworn in as Mizoram CM](https://theprint.in/india/lalduhoma-sworn-in-as-mizoram-cm/1877405/)
+
+Article found but Couldn't summarize 
+Aizawl, Dec 8 (PTI) Zoram People&#8217;s Movement (ZPM) leader Lalduhoma was sworn in as the chief minister of Mizoram on Friday. Governor Hari Babu Kambhampati administered the oath of office and secrecy to Lalduhoma. Eleven other ZPM leaders will also take oath as ministers. The swearing-in ceremony was held at the Raj Bhavan where Mizo [&#8230;]
+
+Fri, 08 Dec 2023 06:00:03 +0000
+### [Lok Sabha adjourned till 12 noon amid uproar over listing of ethics panel report on Mahua Moitra](https://theprint.in/india/lok-sabha-adjourned-till-12-noon-amid-uproar-over-listing-of-ethics-panel-report-on-mahua-moitra/1877403/)
+
+The Lok Sabha session in New Delhi was adjourned until noon due to opposition MPs causing an uproar over the listing of the ethics panel report on Trinamool Congress MP Mahua Moitra. Congress Leader Adhir Ranjan Chowdhury mentioned the report, which recommended Moitra's expulsion in a "cash-for-query" case. Speaker Om Birla stated that the matter is listed and MPs will have time to speak when it is taken up. However, as the chaos persisted, the speaker adjourned the session until noon.
+
+Fri, 08 Dec 2023 06:00:03 +0000
+### [India to move to same-day market settlement before fiscal year end – regulator](https://theprint.in/india/india-to-move-to-same-day-market-settlement-before-fiscal-year-end-regulator/1877402/)
+
+Article found but Couldn't summarize 
+(Reuters) -India is moving to set up same-day market settlement before the end of fiscal year ending March 2024 and subsequently to instantaneous settlement a year later, the chairperson of country's
+
 Fri, 08 Dec 2023 05:08:58 +0000
 ### [AIIMS can’t shift patient burden onto states. Steel frame of India’s healthcare is Centre’s job](https://theprint.in/feature/around-town/aiims-cant-shift-patient-burden-onto-states-steel-frame-of-indias-healthcare-is-centres-job/1877159/)
 

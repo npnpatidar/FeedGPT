@@ -1,3 +1,15 @@
+2023-12-08T11:54:58+05:30
+### [Maratha Quota: 2 Panel Members Quit Over 'Interference', 'Biased Approach' of Eknath Shinde Govt](https://thewire.in/caste/maratha-quota-2-panel-members-quit-over-interference-biased-approach-of-eknath-shinde-govt)
+
+No Article text 
+The government reportedly wants to limit data collection to just the Maratha community, whereas the dissenting members of the panel are pushing for data to be collected on all communities.
+
+2023-12-08T10:54:56+05:30
+### [A War Without the Fig Leaf of the High Court of Justice](https://thewire.in/world/a-war-without-the-fig-leaf-of-the-high-court-of-justice)
+
+No Article text 
+Time will tell if the conduct of the current war in Gaza without a cover from its top court will pay off for Israel.
+
 2023-12-08T10:43:23+05:30
 ### [Prashant Bhushan Writes to SC Registrar on 'Arbitrary' Allocation of Cases to Justice Bela M. Trivedi](https://thewire.in/law/prashant-bhushan-writes-to-sc-registrar-on-arbitrary-allocation-of-cases-to-justice-bela-m-trivedi)
 
