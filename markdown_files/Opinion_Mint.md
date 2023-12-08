@@ -1,3 +1,21 @@
+Fri, 08 Dec 2023 08:00:14 +0530
+### [A Supreme Court ruling has given personal insolvency a fresh start in India](https://www.livemint.com/opinion/online-views/a-supreme-court-ruling-has-given-personal-insolvency-a-fresh-start-in-india-11701964401834.html)
+
+Article found but Couldn't summarize 
+We may now see repayment plans being placed before creditors to resolve personal insolvency even as promoters get a chance to wipe their slates clean for fresh beginnings.
+
+Fri, 08 Dec 2023 08:00:14 +0530
+### [A K-shaped recovery: Smartphone sales show a troubling divergence](https://www.livemint.com/opinion/online-views/a-k-shaped-recovery-smartphone-sales-show-a-troubling-divergence-11701964047235.html)
+
+Article found but Couldn't summarize 
+Consumer market trends are worrying. Widening inequality could hit the long-term sustainability of India’s economic growth.
+
+Fri, 08 Dec 2023 08:00:14 +0530
+### [Maldives have gone from a beach resort to a worry spot for India](https://www.livemint.com/opinion/online-views/maldives-have-gone-from-a-beach-resort-to-a-worry-spot-for-india-11701964164302.html)
+
+Article found but Couldn't summarize 
+his country of islands is veering away from India again, perhaps towards China. To foil a larger apparent Chinese plan to encircle us, New Delhi should deploy a range of resources.
+
 Fri, 08 Dec 2023 00:57:45 +0530
 ### [The moment when you add pi](https://www.livemint.com/opinion/columns/the-moment-when-you-add-pi-11701976254361.html)
 

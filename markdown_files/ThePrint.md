@@ -1,3 +1,122 @@
+Fri, 08 Dec 2023 03:18:51 +0000
+### [ED charge sheet in Vivo case says ‘web of companies’ diverted Rs 1 lakh crore sent to China](https://theprint.in/india/ed-charge-sheet-in-vivo-case-says-web-of-companies-diverted-rs-1-lakh-crore-sent-to-china/1877007/)
+
+Article found but Couldn't summarize 
+ED Thursday filed charge sheet in money-laundering probe against Vivo. Allegations against firm include visa fraud. Vivo has maintained that it is ‘cooperating’ with probe.
+
+Fri, 08 Dec 2023 03:17:02 +0000
+### [Adani port operations to be carbon-neutral by 2025: Gautam Adani](https://theprint.in/economy/adani-port-operations-to-be-carbon-neutral-by-2025-gautam-adani/1877225/)
+
+GPT-3.5: Adani Group Chairman Gautam Adani has announced that all its port operations will be carbon neutral by 2025. The group aims to achieve net-zero port operations by 2040. Their climate-friendly transformation includes electrifying cranes, switching diesel-based Internal Transfer Vehicles to battery-based ones, and adding 1000 MW of captive renewable capacity. Additionally, the conglomerate plans to establish mangrove plantations in about 5,000 hectares by the financial year 2024-25. These efforts reflect their commitment to environmental protection and climate stewardship. Furthermore, Adani Group is setting up the world's largest green energy park in the Rann of Kutch desert area in Gujarat, covering 726 sq km of land. This project aims to generate 30 GW of power, which can supply over 20 million homes. Adani Group is contributing to India's renewable energy goals and its commitment to sustainable energy.
+
+Fri, 08 Dec 2023 03:16:00 +0000
+### [Olympics-USOPC says confident in Paris Games security measures](https://theprint.in/sport/olympics-usopc-says-confident-in-paris-games-security-measures/1877223/)
+
+Article found but Couldn't summarize 
+(Reuters) - The United States Olympic &#38; Paralympic Committee (USOPC) is confident in the security measures planned for next year's Paris Games, the governing body's CEO Sarah Hirshland said. French
+
+Fri, 08 Dec 2023 03:15:47 +0000
+### [Toshiba, Rohm to invest $2.7 billion to produce power chips](https://theprint.in/tech/toshiba-rohm-to-invest-2-7-billion-to-produce-power-chips/1877221/)
+
+Article found but Couldn't summarize 
+By Miho Uranaka and Makiko Yamazaki TOKYO (Reuters) -Toshiba and Rohm said on Friday they would invest 388.3 billion yen ($2.7 billion) to jointly produce power chips, the first collaboration since
+
+Fri, 08 Dec 2023 03:15:29 +0000
+### [Yen soars, Nikkei slides as rate hikes loom over Japan](https://theprint.in/economy/yen-soars-nikkei-slides-as-rate-hikes-loom-over-japan/1877218/)
+
+Article found but Couldn't summarize 
+By Tom Westbrook SINGAPORE (Reuters) - Japanese markets were reeling on Friday, with the Nikkei heading for its biggest weekly drop since October, bonds battered and the yen surging toward its largest
+
+Fri, 08 Dec 2023 03:15:04 +0000
+### [Las Vegas campus gunman described as struggling academic with ‘target list’](https://theprint.in/world/las-vegas-campus-gunman-described-as-struggling-academic-with-target-list/1877216/)
+
+Article found but Couldn't summarize 
+By Steve Gorman (Reuters) -The gunman who killed three professors and wounded one at the University of Nevada, Las Vegas, was a financially struggling academic whose job applications were rejected by
+
+Fri, 08 Dec 2023 03:15:02 +0000
+### [Supriya Sule slams BJP for ‘insulting’ Nawab Malik, says it has trapped Ajit Pawar group](https://theprint.in/india/supriya-sule-slams-bjp-for-insulting-nawab-malik-says-it-has-trapped-ajit-pawar-group/1877215/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 8 (PTI) NCP working president Supriya Sule has described the BJP as “Bhrashta Jumla Party” and accused it of “insulting” former Maharashtra minister Nawab Malik and &#8220;trapping&#8221; the Ajit Pawar group. Reacting to Deputy Chief Minister Devendra Fadnavis’s letter to Ajit Pawar opposing Malik sitting on a treasury bench seat, Sule said, “I [&#8230;]
+
+Fri, 08 Dec 2023 03:10:01 +0000
+### [Govt can’t make gig workers’ welfare all about social security. Choice, flexibility are key](https://theprint.in/opinion/govt-cant-make-gig-workers-welfare-all-about-social-security-choice-flexibility-are-key/1875081/)
+
+Article found but Couldn't summarize 
+Social security design for platform-based gig workers must be benchmarked against schemes available for the organised and unorganised sectors.
+
+Fri, 08 Dec 2023 03:09:19 +0000
+### [Subrata Mitra knew the camera by heart. He was Satyajit Ray’s ‘cinematic eye’](https://theprint.in/theprint-profile/subrata-mitra-knew-the-camera-by-heart-he-was-satyajit-rays-cinematic-eye/1877113/)
+
+Article found but Couldn't summarize 
+Ray &#38; Mitra created masterpieces like Pather Panchali, Nayak and Devi . Mitra’s lens wove emotions, as seen in the iconic freeze-frames at the end of Charulata.
+
+Fri, 08 Dec 2023 03:03:27 +0000
+### [Veteran actor Junior Mehmood passes away after long battle with stage four cancer](https://theprint.in/feature/veteran-actor-junior-mehmood-passes-away-after-long-battle-with-stage-four-cancer/1877209/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 8 (ANI): Veteran actor Junior Mehmood, who was battling with stage four cancer passed away in Mumbai on Friday. He was 67. The actor breathed his last in the early hours of Friday. Junior Mehmood&#8217;s family friend confirmed the news and said, &#8220;He passed away last night at 2 am in [&#8230;]
+
+Fri, 08 Dec 2023 03:02:58 +0000
+### [Canada implements stricter measures for international students, financial requirements raised](https://theprint.in/world/canada-implements-stricter-measures-for-international-students-financial-requirements-raised/1877207/)
+
+Article found but Couldn't summarize 
+Ottawa [Canada], December 8 (ANI): In a move aimed at enhancing the financial preparedness of international students, Canada&#8217;s Minister of Immigration, Refugees and Citizenship, Marc Miller, announced significant reforms to Canada&#8217;s study permit requirements, according to an official release. The changes, set to take effect from January 1, 2024, include a substantial increase in the [&#8230;]
+
+Fri, 08 Dec 2023 03:02:39 +0000
+### [RBI to announce monetary policy today, another pause in repo rate most likely](https://theprint.in/economy/rbi-to-announce-monetary-policy-today-another-pause-in-repo-rate-most-likely/1877205/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 8 (ANI): Financial market participants in India will closely monitor the outcome and the policy stance of the central bank, the Reserve Bank of India (RBI), to be announced at 10 am Friday (today), for fresh cues. As things stand, the monetary policy committee is most likely to maintain status quo. [&#8230;]
+
+Fri, 08 Dec 2023 03:02:26 +0000
+### [Fire erupts medicine market in Karachi’s Kharadar](https://theprint.in/world/fire-erupts-medicine-market-in-karachis-kharadar/1877201/)
+
+Article found but Couldn't summarize 
+Karachi [Pakistan], December 8 (ANI): A fire erupted in a medicine market in Karachi&#8217;s Kharadar on Thursday, ARY News reported. ARY News is a Pakistani news channel. According to details, two fire brigades arrived at the incident spot immediately. The fire brigade officials stated that the fire is under control and the cooling process is [&#8230;]
+
+Fri, 08 Dec 2023 03:02:21 +0000
+### [Chief ministership is a small thing, I will do what party tells me to, says Shivraj Chouhan](https://theprint.in/elections/chief-ministership-is-a-small-thing-i-will-do-what-party-tells-me-to-says-shivraj-chouhan/1876511/)
+
+Article found but Couldn't summarize 
+The 5-time Madhya Pradesh CM’s Ladli Behna Yojana is believed to have helped buck anti-incumbency in state. But Shivraj attributes victory to PM Modi and 'double-engine' governance.
+
+Fri, 08 Dec 2023 03:02:12 +0000
+### [Elon Musk calls for Bob Iger’s ouster after Disney pulls ads from X](https://theprint.in/world/elon-musk-calls-for-bob-igers-ouster-after-disney-pulls-ads-from-x/1877199/)
+
+Article found but Couldn't summarize 
+San Francisco [US], December 8 (ANI): Elon Musk is demanding the firing of Disney CEO Bob Iger in response to Disney&#8217;s decision to pull advertisements from his troubled social media platform, X, CNN reported. On Thursday, Musk, the owner of X and a billionaire conspiracy theorist, took to social media, where he frequently voices his [&#8230;]
+
+Fri, 08 Dec 2023 03:02:01 +0000
+### [“Does not go far enough”: UK immigration minister resigns over controversial Rwanda asylum bill](https://theprint.in/world/does-not-go-far-enough-uk-immigration-minister-resigns-over-controversial-rwanda-asylum-bill/1877196/)
+
+Article found but Couldn't summarize 
+London [UK], December 8 (ANI): UK&#8217;s Immigration Minister, Robert Jenrick, has tendered his resignation, expressing dissatisfaction with the government&#8217;s proposed legislation on the Rwanda asylum transfer scheme. Jenrick asserted that the legislation &#8220;does not go far enough&#8221; and falls short of providing the necessary safeguards for the contentious policy, CNN reported. The UK government&#8217;s plan [&#8230;]
+
+Fri, 08 Dec 2023 03:00:03 +0000
+### [Character actor Junior Mehmood dies at 68](https://theprint.in/feature/character-actor-junior-mehmood-dies-at-68/1877195/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 8 (PTI) Character actor Junior Mehmood, known for his roles in “Caravan”, “Haathi Mere Saathi” and “Mera Naam Joker”, died on Friday following a battle with cancer, his son Hasnain said. The actor was 68. &#8220;My father passed away at 2.00 am following his battle with stomach cancer. He was in a critical [&#8230;]
+
+Fri, 08 Dec 2023 02:45:50 +0000
+### [Hunter Biden hit with federal charges for tax evasion scheme](https://theprint.in/world/hunter-biden-hit-with-federal-charges-for-tax-evasion-scheme/1877192/)
+
+Article found but Couldn't summarize 
+By Costas Pitas and Dan Whitcomb LOS ANGELES (Reuters) -The Department of Justice on Thursday filed new criminal charges against U.S. President Joe Biden's son, Hunter, accusing him of failing to pay
+
+Fri, 08 Dec 2023 02:45:39 +0000
+### [Taiwan spots Chinese weather balloon in strait month before election](https://theprint.in/world/taiwan-spots-chinese-weather-balloon-in-strait-month-before-election/1877190/)
+
+Article found but Couldn't summarize 
+TAIPEI (Reuters) -Taiwan's defence ministry said on Friday that a Chinese weather balloon had crossed the Taiwan Strait median line on Thursday, about a month before Taiwan's presidential election. "
+
+Fri, 08 Dec 2023 02:45:26 +0000
+### [Rupee to keep ‘narrow range’ ahead of cenbank policy decision](https://theprint.in/india/rupee-to-keep-narrow-range-ahead-of-cenbank-policy-decision/1877188/)
+
+Article found but Couldn't summarize 
+By Jaspreet Kalra MUMBAI (Reuters) - The Indian rupee is likely to open little changed on Friday ahead of the Reserve Bank of India's monetary policy decision, even as the dollar index dipped,
+
 Fri, 08 Dec 2023 02:16:46 +0000
 ### [Soccer-Copa America group stage draw](https://theprint.in/sport/soccer-copa-america-group-stage-draw/1877182/)
 

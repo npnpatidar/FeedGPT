@@ -1,3 +1,8 @@
+Fri, 08 Dec 2023 02:30:05 +0000
+### [Global Cooling Pledge at COP28: How refrigerators and ACs contribute to global warming](https://indianexpress.com/article/explained/explained-climate/cooling-emissions-ac-fridge-climate-change-9058915/)
+
+Article found but Couldn't summarize
+
 Fri, 08 Dec 2023 01:30:18 +0000
 ### [India-Italy ties: How the ‘melodi’ came after setbacks, what is at stake](https://indianexpress.com/article/explained/india-italy-ties-how-the-melodi-came-after-setbacks-what-is-at-stake-9059042/)
 
