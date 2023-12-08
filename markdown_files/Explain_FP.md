@@ -1,3 +1,9 @@
+Fri, 08 Dec 2023 17:48:07 +0530
+### [Another dowry death in India: What are India’s laws on the menace?](https://www.firstpost.com/explainers/kerala-doctor-suicide-dowry-death-india-law-13481842.html)
+
+Article found but Couldn't summarize 
+Another dowry death in India: What are India’s laws on the menace?
+
 Fri, 08 Dec 2023 16:11:22 +0530
 ### [What's the antisemitism row at Harvard, Penn, MIT? How it could hurt the universities?](https://www.firstpost.com/explainers/whats-the-antisemitism-row-at-harvard-penn-mit-how-it-could-hurt-the-universities-13481522.html)
 

@@ -1,3 +1,8 @@
+Fri, 08 Dec 2023 12:23:51 +0000
+### [3 reasons why the RBI has held interest rates steady](https://indianexpress.com/article/opinion/columns/3-reasons-why-the-rbi-has-held-interest-rates-steady-9060121/)
+
+Hmm, based on the provided article, the Reserve Bank of India (RBI) has decided to maintain its withdrawal-of-accommodation stance and keep interest rates unchanged. There are three main reasons for this decision. First, although inflation has been trending down, it is still above the preferred target of 4%. Second, central banks in the US and Europe have signaled higher interest rates, which indirectly influences the RBI's monetary policy decisions. Lastly, the transmission of previous rate hikes into lending rates is still incomplete. Despite these factors, India is expected to continue its growth outperformance among large economies.
+
 Fri, 08 Dec 2023 08:50:18 +0000
 ### [How the internet came to India with Archie and Veronica](https://indianexpress.com/article/opinion/columns/how-the-internet-came-to-india-with-archie-and-veronica-9059763/)
 

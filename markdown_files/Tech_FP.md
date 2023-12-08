@@ -1,3 +1,9 @@
+Fri, 08 Dec 2023 17:18:02 +0530
+### [‘India did in few years what took others generations’: PM Modi ahead of Global Partnership AI Summit](https://www.firstpost.com/tech/india-did-in-few-years-what-took-others-generations-pm-modi-ahead-of-global-partnership-ai-summit-13482012.html)
+
+Article found but Couldn't summarize 
+‘India did in few years what took others generations’: PM Modi ahead of Global Partnership AI Summit
+
 Fri, 08 Dec 2023 16:14:45 +0530
 ### [Smartphones causing major rift in parent-child relationships, 94% worried about effects on mental health](https://www.firstpost.com/tech/smartphones-causing-major-rift-in-parent-child-relationships-94-per-c-worried-about-effects-on-mental-health-13481502.html)
 

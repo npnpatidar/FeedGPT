@@ -1,3 +1,21 @@
+2023-12-08T17:42:02+05:30
+### [Watch | Resumed Israel-Gaza War Worse than Before, Ceasefire Paramount Necessity: Oxfam CEO](https://thewire.in/video/resumed-israel-hamas-war-worse-ceasefire-paramount-necessity)
+
+No Article text 
+Dhananjayan Sriskandarajah said that in the US and UK, political imperative was trumping what is morally right. He added that political courage and leadership around the Israel-Hamas war were lacking internationally.
+
+2023-12-08T17:30:31+05:30
+### [Telangana: As Revanth Takes Over, Once-Fortified Official Residence of CM Thrown Open to Public](https://thewire.in/government/telangana-revanth-reddy-fortified-pragati-bhavan-open-to-public)
+
+No Article text 
+Previously called Pragati Bhavan, the residence was re-christened Praja Bhavan. During the campaign, the Congress had used it to dub KCR as a 'fedual lord', who was 'inaccessible'.
+
+2023-12-08T17:00:22+05:30
+### ['False Prophets': Evidence of the West’s Neo-Colonial Construct in the Arab World](https://thewire.in/books/false-prophets-evidence-of-the-wests-neo-colonial-construct-in-the-arab-world)
+
+No Article text 
+Nigel Ashton's book annotates the colourful history of relations between Britain and Middle Eastern countries from the Suez crisis to the Iraq debacle.
+
 2023-12-08T16:30:06+05:30
 ### [In Delhi’s Sunder Nagar, a Rushed Demolition Drive Allegedly Paid No Heed to Protocols](https://thewire.in/rights/in-delhis-sunder-nagar-a-rushed-demolition-drive-allegedly-paid-no-heed-to-protocols)
 

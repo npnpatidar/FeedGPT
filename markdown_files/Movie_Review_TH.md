@@ -1,3 +1,9 @@
+Fri, 08 Dec 2023 17:49:59 +0530
+### [‘Kadhikan’ movie review: Jayaraj’s film on Kathaprasangam is a good effort that falters in certain parts](https://www.thehindu.com/entertainment/movies/kadhikan-movie-review-jayarajs-film-on-kathaprasangam-is-a-good-effort-that-falters-in-certain-parts/article67617896.ece)
+
+Article found but Couldn't summarize 
+Despite noble intentions to shed light on a dying art form, the Jayaraj film, misses the mark when it comes to having an intriguing plot
+
 Fri, 08 Dec 2023 16:37:54 +0530
 ### [‘Kaiva’ movie review: Jayathirtha, Dhanveerah’s gangster drama suffers from lack of focus](https://www.thehindu.com/entertainment/movies/kaiva-movie-review-jayathirthas-gangster-drama-starring-dhanveerah-suffers-from-lack-of-focus/article67617824.ece)
 

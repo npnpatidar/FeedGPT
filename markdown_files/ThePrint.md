@@ -1,3 +1,120 @@
+Fri, 08 Dec 2023 12:32:40 +0000
+### [Oakridge Junior Olympics 2023: A Celebration of Sportsmanship, Teamwork, and Unity](https://theprint.in/ani-press-releases/oakridge-junior-olympics-2023-a-celebration-of-sportsmanship-teamwork-and-unity/1878064/)
+
+The Oakridge International School Bachupally recently concluded its Oakridge Junior Olympics (OJO) 2023, which was a day filled with spirited competitions and a celebration of early education. Over 400 participants from 18 preschools took part in various activities designed to promote physical fitness, social interaction, and sportsmanship among young toddlers. The event showcased the talent and enthusiasm of the young athletes who competed in events such as Shot Put, Short Sprint, Javelin Throw, Obstacle Race, Basketball Throw, and Relay Race. The focus of the event was on fostering healthy competition, camaraderie, and sportsmanship in the early years. The participants were recognized for their participation and sportsmanship during the prize distribution ceremony. The Oakridge International School Bachupally is committed to providing a holistic learning environment that nurtures academic brilliance, physical well-being, and teamwork values in the early years.
+
+Fri, 08 Dec 2023 12:32:24 +0000
+### [‘Mission Start Ab’ show on Indian start-ups to be out on this date](https://theprint.in/feature/mission-start-ab-show-on-indian-start-ups-to-be-out-on-this-date/1878062/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 8 (ANI): Mission Start Ab, an original reality series, that will center on grassroots entrepreneurs in India, is all set to be released. The series has been conceptualized and developed in collaboration with the Office of the Principal Scientific Adviser (PSA) to the Government of India, with the objective of discovering [&#8230;]
+
+Fri, 08 Dec 2023 12:32:11 +0000
+### [Tobacco Industry Uses Metaverse, Advergames, NFTs to Target Youth and Skirt Advertising Regulations](https://theprint.in/ani-press-releases/tobacco-industry-uses-metaverse-advergames-nfts-to-target-youth-and-skirt-advertising-regulations/1878060/)
+
+Article found but Couldn't summarize 
+NewsVoir New Delhi [India], December 8: A new report by Vital Strategies&#8217; TERM, an AI-powered marketing monitoring service, found that tobacco companies are fighting declining global smoking rates and stricter advertising regulations by investing in novel digital marketing ranging from metaverse experiences to podcasts, Non-Fungible Token (NFT) art and beyond. These unregulated spaces are dominated [&#8230;]
+
+Fri, 08 Dec 2023 12:32:02 +0000
+### [From Good to Great: Sodexo and Adani Join Hands to Reimagine Workplace Experience at Adani Corporate House, Ahmedabad](https://theprint.in/ani-press-releases/from-good-to-great-sodexo-and-adani-join-hands-to-reimagine-workplace-experience-at-adani-corporate-house-ahmedabad/1878058/)
+
+Article found but Couldn't summarize 
+NewsVoir Ahmedabad (Gujarat) [India], December 8: True to its vision of enabling Growth with Goodness, Adani continues to focus on elevated employee experience at the workplace with decade-old, French food &#38; catering partner, Sodexo in India. In an inaugural event, the Adani leadership team and promoters along with other senior officials, employees and the Sodexo [&#8230;]
+
+Fri, 08 Dec 2023 12:30:57 +0000
+### [Protests held in parts of Maharashtra against Priyank Kharge over his remarks on Savarkar](https://theprint.in/india/protests-held-in-parts-of-maharashtra-against-priyank-kharge-over-his-remarks-on-savarkar/1878056/)
+
+Article found but Couldn't summarize 
+Nagpur, Dec 8 (PTI) The BJP and its youth wing on Friday held protests in parts of Maharashtra, including Mumbai and Nagpur, to condemn Karnataka minister Priyank Kharge&#8217;s remarks against Hindutva ideologue V D Savarkar. Kharge, a Congress leader, on Thursday said it would be appropriate to remove the portrait of Savarkar from the chamber [&#8230;]
+
+Fri, 08 Dec 2023 12:30:46 +0000
+### [SC criticises Calcutta HC order on adolescent girls, says judges not expected to preach](https://theprint.in/india/sc-criticises-calcutta-hc-order-on-adolescent-girls-says-judges-not-expected-to-preach/1878055/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 8 (PTI) Judges are not expected to express their personal views or preach, the Supreme Court remarked on Friday, strongly criticising a Calcutta High Court judgement which advised young girls to &#8220;control sexual urges&#8221; and adolescent boys to train themselves to respect women. Terming the High Court observations as &#8220;highly objectionable and [&#8230;]
+
+Fri, 08 Dec 2023 12:30:34 +0000
+### [Assam unit of Congress calls for applications from party members aspiring to contest 2024 LS polls](https://theprint.in/india/assam-unit-of-congress-calls-for-applications-from-party-members-aspiring-to-contest-2024-ls-polls/1878054/)
+
+Article found but Couldn't summarize 
+Guwahati, Dec 8 (PTI) The Assam unit of the Congress has swung into election mode by calling for applications from party members aspiring to contest next year&#8217;s Lok Sabha polls. The unit will start accepting the applications along with a fee of Rs 1 lakh each from Monday, a circular by Assam Pradesh Congress Committee [&#8230;]
+
+Fri, 08 Dec 2023 12:30:16 +0000
+### [BJP demands Jharkhand CM Soren’s resignation after huge amount of cash linked to Cong MP seized](https://theprint.in/india/bjp-demands-jharkhand-cm-sorens-resignation-after-huge-amount-of-cash-linked-to-cong-mp-seized/1878053/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 8 (PTI) The BJP said on Friday that the opposition alliance is a guarantee of corruption while Prime Minister Narendra Modi&#8217;s guarantee is to root it out and take action against the guilty. BJP spokesperson Gaurav Bhatia hit out at the INDIA bloc following the recovery of a huge sum of cash [&#8230;]
+
+Fri, 08 Dec 2023 12:30:02 +0000
+### [Stock markets hit new peaks as RBI upgrades growth forecast](https://theprint.in/economy/stock-markets-hit-new-peaks-as-rbi-upgrades-growth-forecast/1878052/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 8 (PTI) Benchmark Sensex and Nifty rebounded to close at their new lifetime highs on Friday after the Reserve Bank raised the growth forecast for the current fiscal and kept policy rates unchanged, triggering heavy buying in banking and other rate-sensitive stocks. The 30-share BSE Sensex rose 303.91 points, or 0.44 per cent, [&#8230;]
+
+Fri, 08 Dec 2023 12:29:24 +0000
+### [TMC’s Mahua Moitra terms her expulsion from LS ‘witch-hunt’, says opposition ‘bulldozed into submission’](https://theprint.in/politics/tmcs-mahua-moitra-terms-her-expulsion-from-ls-witch-hunt-says-opposition-bulldozed-into-submission/1877969/)
+
+Article found but Couldn't summarize 
+Opposition boycotted voice vote after Speaker refused to allow Moitra to speak in her defence. TMC chief and Bengal CM Mamata Banerjee says 'party stand with Mahua. We'll fight boldly'.
+
+Fri, 08 Dec 2023 12:19:22 +0000
+### [As Italy withdraws from BRI after 4 yrs, a look at whether it benefited from China’s initiative](https://theprint.in/world/as-italy-withdraws-from-bri-after-4-yrs-a-look-at-whether-it-benefited-from-chinas-initiative/1877903/)
+
+Article found but Couldn't summarize 
+Italy has reportedly notified China of its intention to exit Belt &#38; Road Initiative. Since joining initiative in 2019, the move has been criticised by Italian politicians like PM Meloni.
+
+Fri, 08 Dec 2023 12:17:26 +0000
+### [Jain PU College opens applications for the academic year with new subject combinations – The top choice for PU Education in Bangalore](https://theprint.in/ani-press-releases/jain-pu-college-opens-applications-for-the-academic-year-with-new-subject-combinations-the-top-choice-for-pu-education-in-bangalore/1878046/)
+
+Jain PU College in Bangalore is now accepting applications for the upcoming academic year. They offer a wide range of courses in Science, Commerce, Arts, and Humanities. The college is known for its top-notch infrastructure, experienced faculty, and commitment to holistic development. They have two campuses located in VV Puram and Jayanagar. Additionally, Jain PU College has formed partnerships with Yeshas Academy and Allen Institute for CA Coaching and NEET/KCET/JEE MAINS Coaching, respectively. Students can apply online through the college's website. For more information, you can visit their website at https://www.jaincollege.ac.in.
+
+Fri, 08 Dec 2023 12:17:14 +0000
+### [Pakistan: Election Commission issues notice to Pakistan Tehreek-e-Insaaf over intra-party polls](https://theprint.in/world/pakistan-election-commission-issues-notice-to-pakistan-tehreek-e-insaaf-over-intra-party-polls/1878043/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 8 (ANI): The Election Commission of Pakistan (ECP) issued a notice to the Pakistan Tehreek-i-Insaf (PTI) on Friday alleging the party&#8217;s intra-party elections were &#8220;rigged and fraudulent&#8221;, Dawn reported. The ECP issued a notice to the party in response to the recent plea filed by estranged PTI founding member Akbar S Babar [&#8230;]
+
+Fri, 08 Dec 2023 12:17:06 +0000
+### [Srinagar Jamia Masjid management body claims Friday prayers not allowed for 9th consecutive week](https://theprint.in/india/srinagar-jamia-masjid-management-body-claims-friday-prayers-not-allowed-for-9th-consecutive-week/1878040/)
+
+The management committee of the Jamia Masjid in Nowhatta, Srinagar has accused the Jammu and Kashmir administration of preventing Friday prayers for the ninth week in a row. The Anjuman Auqaf, a religious organization, has called this action unjustified. The committee received instructions from the police to keep the doors of the mosque closed for the day's prayers. They also expressed dissatisfaction with the continuous house detention of Mirwaiz Umar Farooq, which prevents him from leading the prayers. The committee believes that these restrictions are not only unwarranted but also interfere with religious affairs and hurt the sentiments of the people.
+
+Fri, 08 Dec 2023 12:17:02 +0000
+### [Allu Arjun praises Sandeep Reddy Vanga’s ‘Animal’, calls Ranbir Kapoor’s performance “inspiring”](https://theprint.in/feature/allu-arjun-praises-sandeep-reddy-vangas-animal-calls-ranbir-kapoors-performance-inspiring/1878038/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 8 (ANI): Telugu star Allu Arjun on Friday heaped praises on director Sandeep Reddy Vanga&#8217;s action thriller film &#8216;Animal&#8217;. Taking to X (formerly Twitter), he wrote, &#8221; #Animal . Just mind blowing. Blown away by the cinematic brilliance. Congratulations!&#8221; Talking about Ranbir&#8217;s performance in the film, he wrote, &#8220;#RanbirKapoor ji just [&#8230;]
+
+Fri, 08 Dec 2023 12:16:59 +0000
+### [Clam makes comeback from extinction off shores of Croatia](https://theprint.in/environment/clam-makes-comeback-from-extinction-off-shores-of-croatia/1878037/)
+
+Article found but Couldn't summarize 
+By Antonio Bronic PULA, Croatia (Reuters) - A huge clam that was on the verge of extinction has made a comeback, with a surge in numbers in waters off Croatia, marine biologists say. The clam, known
+
+Fri, 08 Dec 2023 12:16:54 +0000
+### [Two held for thefts in Thane district; valuables worth Rs 3.73 lakh recovered](https://theprint.in/india/two-held-for-thefts-in-thane-district-valuables-worth-rs-3-73-lakh-recovered/1878036/)
+
+Article found but Couldn't summarize 
+Thane, Dec 8 (PTI) The police have arrested two history-sheeters in connection with six cases of thefts in Maharashtra&#8217;s Thane district, an official said on Friday. Acting on a tip-off, a team from the city police apprehended the duo who were about to board a state transport bus in Kalyan on Thursday, senior inspector Naresh [&#8230;]
+
+Fri, 08 Dec 2023 12:16:43 +0000
+### [RBI’s rate pause boosts real estate, inflation concerns linger: Experts](https://theprint.in/economy/rbis-rate-pause-boosts-real-estate-inflation-concerns-linger-experts/1878034/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 8 (PTI) Experts from the real estate sector have praised the Reserve Bank of India&#8217;s decision to keep lending rates steady, highlighting its positive impact on demand and affordability. However, some concerns remain regarding potential inflationary pressures in the coming months, experts said. Samantak Das, Chief Economist and Head of Research and REIS [&#8230;]
+
+Fri, 08 Dec 2023 12:16:40 +0000
+### [EU leaders know of Ukraine’s ‘existential’ need for aid – senior official](https://theprint.in/world/eu-leaders-know-of-ukraines-existential-need-for-aid-senior-official/1878033/)
+
+Article found but Couldn't summarize 
+By Gabriela Baczynska BRUSSELS (Reuters) - European Union leaders are conscious of how "existential" financial aid is to Ukraine and will honour their commitments, a senior official said on Friday,
+
+Fri, 08 Dec 2023 12:16:30 +0000
+### [Mortal remains of J&K accident victims from Kerala cremated](https://theprint.in/india/mortal-remains-of-jk-accident-victims-from-kerala-cremated/1878031/)
+
+Article found but Couldn't summarize 
+Palakkad (Ker), Dec 8 (PTI) Hundreds of people thronged Chittoor village in this north Kerala district on Friday to pay homage to four youths who had died in a car accident in Jammu and Kashmir on December 5. The mortal remains of Sudesh, Anil, Rahul and Vignesh, who belonged to the village, were brought to [&#8230;]
+
 Fri, 08 Dec 2023 11:02:26 +0000
 ### [AbhiBus’s “Ride and Fly” Campaign Takes Travel to New Heights with Free Flight Vouchers Worth Rs. 1000](https://theprint.in/ani-press-releases/abhibuss-ride-and-fly-campaign-takes-travel-to-new-heights-with-free-flight-vouchers-worth-rs-1000/1877901/)
 

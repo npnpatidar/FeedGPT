@@ -1,3 +1,8 @@
+Fri, 08 Dec 2023 16:36:22 +0530
+### [Watch | How to lock your Aadhaar biometrics data](https://www.thehindu.com/shorts/how-to-lock-your-aadhaar-biometrics-data/article67617997.ece)
+
+Article found but Couldn't summarize
+
 Fri, 08 Dec 2023 15:30:00 +0530
 ### [The unusual cabbage mutation that could boost crop yield | Explained](https://www.thehindu.com/sci-tech/science/ms-cd1-cabbage-mutation-heterosis-crop-yield-explained/article67617801.ece)
 

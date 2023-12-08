@@ -1,3 +1,15 @@
+Fri, 08 Dec 2023 17:35:06 +0530
+### [Vantage | Why Moody's downgrade hurt China and its markets so badly](https://www.firstpost.com/opinion/vantage-why-moodys-downgrade-hurt-china-and-its-markets-so-badly-13481912.html)
+
+Article found but Couldn't summarize 
+Vantage | Why Moody's downgrade hurt China and its markets so badly
+
+Fri, 08 Dec 2023 16:44:04 +0530
+### [Vantage | What US visa curbs on Israel say about its support for the war](https://www.firstpost.com/opinion/vantage-what-us-visa-curbs-on-israel-say-about-its-support-for-the-war-13481772.html)
+
+Article found but Couldn't summarize 
+Vantage | What US visa curbs on Israel say about its support for the war
+
 Fri, 08 Dec 2023 15:44:23 +0530
 ### [Vantage | Why is Hamas asking for Pakistan's help against Israel?](https://www.firstpost.com/opinion/vantage-why-is-hamas-asking-for-pakistans-help-against-israel-13481322.html)
 
