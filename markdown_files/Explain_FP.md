@@ -1,3 +1,27 @@
+Fri, 08 Dec 2023 13:46:17 +0530
+### [China has built the deepest laboratory on Earth. Here's what it's looking for](https://www.firstpost.com/explainers/china-has-built-the-deepest-laboratory-on-earth-heres-what-its-looking-for-13480772.html)
+
+Article found but Couldn't summarize 
+China has built the deepest laboratory on Earth. Here's what it's looking for
+
+Fri, 08 Dec 2023 13:42:54 +0530
+### [First floods, now oil spill: December has begun on a dreadful note for Chennai](https://www.firstpost.com/explainers/first-floods-now-oil-spill-december-has-begun-on-a-dreadful-note-for-chennai-13480132.html)
+
+Article found but Couldn't summarize 
+First floods, now oil spill: December has begun on a dreadful note for Chennai
+
+Fri, 08 Dec 2023 13:39:08 +0530
+### [Why does Elon Musk want Disney CEO to be sacked?](https://www.firstpost.com/explainers/why-does-elon-musk-want-disney-ceo-to-be-sacked-13480522.html)
+
+Article found but Couldn't summarize 
+Why does Elon Musk want Disney CEO to be sacked?
+
+Fri, 08 Dec 2023 12:44:44 +0530
+### [Israel-Hamas conflict: What is Article 99 of the UN Charter, invoked for first time since 1971 Indo-Pak war?](https://www.firstpost.com/explainers/israel-hamas-conflict-what-is-article-99-of-the-un-charter-invoked-for-first-time-since-1971-indo-pak-war-13480102.html)
+
+Article found but Couldn't summarize 
+Israel-Hamas conflict: What is Article 99 of the UN Charter, invoked for first time since 1971 Indo-Pak war?
+
 Fri, 08 Dec 2023 11:44:20 +0530
 ### [Is Meftal, the common painkiller you are popping for period pain, headaches, safe?](https://www.firstpost.com/explainers/is-metfal-the-common-painkiller-you-are-popping-for-period-pain-headaches-safe-13479372.html)
 

@@ -1,3 +1,15 @@
+Fri, 08 Dec 2023 13:10:06 +0530
+### [Fraudsters scam Amazon out of millions of dollars using basic, fake product refund](https://www.firstpost.com/tech/amazon-scammed-out-of-millions-of-dollars-by-fraudsters-scammers-using-basic-fake-product-refund-13480552.html)
+
+Article found but Couldn't summarize 
+Fraudsters scam Amazon out of millions of dollars using basic, fake product refund
+
+Fri, 08 Dec 2023 12:44:42 +0530
+### [Tata is planning new iPhone factory in Chennai, India to speed up Apple’s India expansion](https://www.firstpost.com/tech/tata-is-planning-new-iphone-factory-in-chennai-india-to-speed-up-apples-india-expansion-13480402.html)
+
+Article found but Couldn't summarize 
+Tata is planning new iPhone factory in Chennai, India to speed up Apple’s India expansion
+
 Fri, 08 Dec 2023 12:03:05 +0530
 ### [Big blow to China's tech industry, UAE to phase out Chinese parts in favour of American ones](https://www.firstpost.com/tech/big-blow-to-chinas-tech-industry-uae-to-phase-out-chinese-parts-in-favour-of-american-ones-13480042.html)
 

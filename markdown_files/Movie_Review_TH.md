@@ -1,3 +1,9 @@
+Fri, 08 Dec 2023 13:43:15 +0530
+### [Emmet Cohen: ‘ I fell in love with the language of jazz and started observing the way musicians communicate with one another’](https://www.thehindu.com/entertainment/music/emmet-cohen-i-fell-in-love-with-the-language-of-jazz-and-started-observing-the-way-musicians-communicate-with-one-another/article67610860.ece)
+
+Article found but Couldn't summarize 
+Pianist Emmet Cohen, who played at the recent NCPA International Jazz Festival in Mumbai, on his influences, learning jazz and why he showcases the Masters
+
 Fri, 08 Dec 2023 12:33:33 +0530
 ### [‘Kadak Singh’ movie review: Pankaj Tripathi livens up this languid thriller](https://www.thehindu.com/entertainment/movies/kadak-singh-movie-review-pankaj-tripathi-livens-up-this-languid-thriller/article67617426.ece)
 
