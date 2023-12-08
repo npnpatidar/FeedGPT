@@ -1,3 +1,8 @@
+Fri, 08 Dec 2023 09:13:47 +0530
+### [What does a net zero world look like? Here's what experts say](https://www.firstpost.com/explainers/what-does-a-net-zero-world-look-like-heres-what-experts-say-13478302.html)
+
+Hmm, based on the provided text, it seems that there is limited research on how climate extremes might change after reaching net zero CO₂ emissions. However, the study mentioned in the text suggests that temperatures would respond differently in various parts of the world, and heat extremes might continue to disproportionately affect vulnerable populations. It also mentions that regions with higher human development index, such as North America and western Europe, may experience larger reductions in heat extremes compared to regions with a lower rank, such as Sub-Saharan Africa and southeast Asia. It is important for humanity to work towards achieving net zero CO₂ emissions to mitigate the impacts of climate change.
+
 Thu, 07 Dec 2023 23:36:11 +0530
 ### [FirstUp: PM Modi at Red Fort, Rahul goes abroad, RBI meet… today’s big events](https://www.firstpost.com/explainers/firstup-pm-modi-at-red-fort-rahul-goes-abroad-rbi-meet-todays-big-events-13478922.html)
 

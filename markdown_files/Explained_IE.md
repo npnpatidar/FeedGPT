@@ -1,3 +1,8 @@
+Fri, 08 Dec 2023 04:00:18 +0000
+### [Did Nehru commit ‘blunders’ on Kashmir: How Hyderabad and Junagadh impacted J&K’s fate](https://indianexpress.com/article/explained/explained-history/nehru-blunders-kashmir-amit-shah-ceasefire-un-9059327/)
+
+Article found but Couldn't summarize
+
 Fri, 08 Dec 2023 02:30:05 +0000
 ### [Global Cooling Pledge at COP28: How refrigerators and ACs contribute to global warming](https://indianexpress.com/article/explained/explained-climate/cooling-emissions-ac-fridge-climate-change-9058915/)
 

@@ -1,3 +1,9 @@
+Fri, 08 Dec 2023 09:01:29 +0530
+### [India must hold mirror to US during FBI chief’s visit, assert right to take out enemies overseas](https://www.firstpost.com/opinion/india-must-hold-mirror-to-us-during-fbi-chiefs-visit-assert-right-to-take-out-enemies-overseas-13479232.html)
+
+Article found but Couldn't summarize 
+India must hold mirror to US during FBI chief’s visit, assert right to take out enemies overseas
+
 Thu, 07 Dec 2023 17:55:43 +0530
 ### [Vantage | Why higher taxes on alcohol, sugary drinks is a good idea](https://www.firstpost.com/opinion/vantage-why-higher-taxes-on-alcohol-sugary-drinks-is-a-good-idea-13478312.html)
 

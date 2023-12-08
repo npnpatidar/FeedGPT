@@ -1,3 +1,14 @@
+2023-12-08T09:37:22+05:30
+### [NSA Ajit Doval Underlines Importance of Colombo Security Conclave, Co-Founder Maldives Skips Meeting](https://thewire.in/diplomacy/nsa-ajit-doval-underlines-importance-of-colombo-security-conclave-co-founder-maldives-skips-meeting)
+
+No Article text 
+The sixth meeting of the Colombo Security Conclave, founded by India, Maldives and Sri Lanka in 2011, was held at the Indian Ocean nation of Mauritius on Thursday.
+
+2023-12-08T08:49:51+05:30
+### [One Has Provided Inputs, Another Hasn't: Jaishankar on India's Differing Responses to US, Canada](https://thewire.in/diplomacy/one-has-provided-inputs-another-hasnt-jaishankar-on-indias-differing-responses-to-us-canada)
+
+No Article text
+
 2023-12-07T22:22:17+05:30
 ### [Indian Ambassador Meets 8 Former Navy Men on Death Row in Qatar, Two Hearings on Appeal Held: MEA](https://thewire.in/world/indian-ambassador-meets-8-former-navy-men-on-death-row-in-qatar-two-hearings-on-appeal-held-mea)
 

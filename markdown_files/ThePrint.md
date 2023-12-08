@@ -1,3 +1,122 @@
+Fri, 08 Dec 2023 04:17:27 +0000
+### [Esha Deol pens adorable birthday wish for her “darling papa” Dharmendra](https://theprint.in/feature/esha-deol-pens-adorable-birthday-wish-for-her-darling-papa-dharmendra/1877287/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 8 (ANI): As the He-Man of Bollywood Dharmendra turned 88 years old today, he received a special wish from his daughter Esha Deol. Esha took to Instagram and shared a priceless picture with her dad on this special day. In one of the pictures, Dharmendra is seen planting a kiss on [&#8230;]
+
+Fri, 08 Dec 2023 04:17:15 +0000
+### [New York: Indian-American community celebrates Garba’s inclusion in UNESCO’s Intangible Cultural Heritage list](https://theprint.in/world/new-york-indian-american-community-celebrates-garbas-inclusion-in-unescos-intangible-cultural-heritage-list/1877285/)
+
+Article found but Couldn't summarize 
+By Reena Bhardwaj Times Square [New York], December 8 (ANI): The Federation of Indian Associations (FIA) NY-NJ-CT-NE along with support from a host of community organisations and the Consulate General of India NY, held a commemorative Garba celebration at the &#8216;Crossroads of the World&#8217;, Times Square. The celebration marked the recent inclusion of Garba as [&#8230;]
+
+Fri, 08 Dec 2023 04:17:02 +0000
+### [India prohibits onion exports till March 2024](https://theprint.in/economy/india-prohibits-onion-exports-till-march-2024/1877283/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 8 (ANI): India has prohibited the export of onions till March 2024, as per an official notification issued late on Thursday evening. The DGFT notification said the export of onions will be, however, allowed on the basis of permission granted by the central government to other countries based on the request [&#8230;]
+
+Fri, 08 Dec 2023 04:16:35 +0000
+### [Soccer-Argentina, Brazil get favourable Copa America draws, US to face Uruguay](https://theprint.in/sport/soccer-argentina-brazil-get-favourable-copa-america-draws-us-to-face-uruguay/1877282/)
+
+Article found but Couldn't summarize 
+MIAMI (Reuters) - Defending Copa America champions Argentina and South American heavyweights Brazil were drawn in favourable groups for next year’s edition on Thursday, while hosts the United States
+
+Fri, 08 Dec 2023 04:16:23 +0000
+### [Nvidia in talks with Malaysia’s YTL on data center deal- sources](https://theprint.in/tech/nvidia-in-talks-with-malaysias-ytl-on-data-center-deal-sources/1877280/)
+
+Article found but Couldn't summarize 
+(corrects city of Johor Bahru to state of Johor) -Nvidia is in advanced talks with Malaysian power-to-property conglomerate YTL on a data center deal, three sources familiar with the matter said. The
+
+Fri, 08 Dec 2023 04:16:09 +0000
+### [Oil heads for 7th weekly loss as supply surplus, weak China demand weigh on market](https://theprint.in/economy/oil-heads-for-7th-weekly-loss-as-supply-surplus-weak-china-demand-weigh-on-market/1877278/)
+
+Article found but Couldn't summarize 
+By Stephanie Kelly and Muyu Xu (Reuters) -Oil benchmarks were headed for a seventh straight weekly decline on worries over a global supply surplus and weak Chinese demand, although prices recovered
+
+Fri, 08 Dec 2023 04:15:58 +0000
+### [Taiwan spots Chinese weather balloon in strait a month before election](https://theprint.in/world/taiwan-spots-chinese-weather-balloon-in-strait-a-month-before-election/1877276/)
+
+Article found but Couldn't summarize 
+TAIPEI (Reuters) -Taiwan's defence ministry said on Friday that a Chinese weather balloon had crossed the Taiwan Strait median line on Thursday, about a month before Taiwan's presidential election. "
+
+Fri, 08 Dec 2023 04:15:48 +0000
+### [Hunter Biden hit with federal charges for evading tax](https://theprint.in/world/hunter-biden-hit-with-federal-charges-for-evading-tax/1877274/)
+
+Article found but Couldn't summarize 
+By Costas Pitas and Andrew Goudsward LOS ANGELES (Reuters) -The Department of Justice on Thursday filed new criminal charges against U.S. President Joe Biden's son, Hunter, accusing him of failing to
+
+Fri, 08 Dec 2023 04:15:34 +0000
+### [Taiwan intelligence says China leadership meet on election interference](https://theprint.in/world/taiwan-intelligence-says-china-leadership-meet-on-election-interference/1877272/)
+
+Article found but Couldn't summarize 
+By Yimou Lee TAIPEI (Reuters) - Senior Chinese leaders held a meeting in early December to "coordinate" government efforts to sway upcoming elections in Taiwan, according to intelligence gathered on
+
+Fri, 08 Dec 2023 04:15:34 +0000
+### [Woman accuses two minors of sodomising her 10-year-old son; case registered](https://theprint.in/india/woman-accuses-two-minors-of-sodomising-her-10-year-old-son-case-registered/1877271/)
+
+Article found but Couldn't summarize 
+Thane, Dec 8 (PTI) The Navi Mumbai police in Maharashtra have registered a case after a woman alleged that her 10-year-old son was sodomised by two minors, an official said on Friday. Nobody has been detained so far, the official said. The police said the accused and the child, who allegedly suffered sexual abuse, are [&#8230;]
+
+Fri, 08 Dec 2023 04:15:18 +0000
+### [Thailand, Myanmar to form aid task force as border unrest intensifies](https://theprint.in/world/thailand-myanmar-to-form-aid-task-force-as-border-unrest-intensifies/1877269/)
+
+Article found but Couldn't summarize 
+(Reuters) - Thailand and conflict-torn Myanmar will create a task force to boost humanitarian assistance to people displaced by fighting and could expand that to include other aid agencies, Thailand's
+
+Fri, 08 Dec 2023 04:15:16 +0000
+### [Environmental film fest to begin in Guwahati on Dec 9](https://theprint.in/india/environmental-film-fest-to-begin-in-guwahati-on-dec-9/1877268/)
+
+Article found but Couldn't summarize 
+Guwahati, Dec 8 (PTI) An environmental film festival will take place in Guwahati for the first time from December 9 to 10, the organisers said on Friday. The All Living Things Environmental Film Festival (ALT EFF) will happen at Agora Theatre Space. ALT EFF Founder Kunal Khanna said, &#8220;We are extremely excited as we take [&#8230;]
+
+Fri, 08 Dec 2023 04:15:03 +0000
+### [SC-CASES](https://theprint.in/india/sc-cases-45/1877266/)
+
+Article found but Couldn't summarize 
+Important cases listed in the Supreme Court on Friday, Dec 8 SC to hear plea by Andhra Pradesh government against HC order granting regular bail to TDP chief N Chandrababu Naidu in the skill development corporation scam case. SC to hear plea by liquor major&#8217;s executive Benoy Babu, facing prosecution in a money laundering case [&#8230;]
+
+Fri, 08 Dec 2023 04:15:03 +0000
+### [India’s Nifty 50 hits record high ahead of RBI policy decision](https://theprint.in/india/indias-nifty-50-hits-record-high-ahead-of-rbi-policy-decision/1877265/)
+
+Article found but Couldn't summarize 
+BENGALURU (Reuters) -Indian shares opened higher on Friday with the benchmark Nifty 50 hitting a fresh record high, ahead of the Reserve Bank of India's (RBI) monetary policy decision, where the bank
+
+Fri, 08 Dec 2023 04:13:20 +0000
+### [‘Campaign against liquor scam, corruption’ — OP Mathur on how BJP brought down Congress in Chhattisgarh](https://theprint.in/elections/campaigned-against-liquor-scam-corruption-op-mathur-on-how-bjp-brought-down-congress-in-chhattisgarh/1876444/)
+
+Article found but Couldn't summarize 
+BJP held non-stop agitations which created trust deficit about CM Bhupesh Baghel &#38; people believed Centre’s money for tribals, women &#38; farmers was looted, party state in-charge explains.
+
+Fri, 08 Dec 2023 04:02:12 +0000
+### [India poised to be active contributor in AI evolution: PM Modi](https://theprint.in/economy/india-poised-to-be-active-contributor-in-ai-evolution-pm-modi/1877261/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 8 (ANI): The Global Partnership on Artificial Intelligence Summit 2023 will begin on December 12 here in the national capital in presence of Prime Minister Narendra Modi. The Summit, spanning three days, will have many interesting sessions, including the AI Expo, which will have about 150 StartUps showcasing their strengths. Since [&#8230;]
+
+Fri, 08 Dec 2023 04:02:02 +0000
+### [White House calls for full investigation into alleged failed plot to kill Pannun](https://theprint.in/world/white-house-calls-for-full-investigation-into-alleged-failed-plot-to-kill-pannun/1877259/)
+
+Article found but Couldn't summarize 
+Washington, DC [US], December 8 (ANI): The White House emphasised the strategic partnership between the United States and India while urging New Delhi to ensure accountability in the alleged plot to assassinate Khalistani terrorist Gurpatwant Singh Pannun, an American citizen. National Security spokesperson John Kirby addressed reporters at a White House news conference, highlighting the [&#8230;]
+
+Fri, 08 Dec 2023 04:00:16 +0000
+### [India achieved in a few years with technology what took others a generation: PM Modi](https://theprint.in/india/india-achieved-in-a-few-years-with-technology-what-took-others-a-generation-pm-modi/1877258/)
+
+Hmm, it seems like the article you provided is about Prime Minister Narendra Modi's vision for India's advancement in Artificial Intelligence (AI). He mentioned that India aims to take a giant leap in AI to empower its citizens and highlighted the country's achievements in technology in just a few years. Prime Minister Modi emphasized India's commitment to inclusive growth and mentioned specific areas where AI can make a positive impact, such as healthcare and agriculture. He also mentioned India's involvement in the Global Partnership on Artificial Intelligence (GPAI) and its dedication to safe and trusted AI. Overall, the article showcases India's aspirations and efforts in harnessing the potential of AI for the welfare of its people.
+
+Fri, 08 Dec 2023 04:00:03 +0000
+### [Russian national tries to escape from police custody, caught after 100-metre chase](https://theprint.in/india/russian-national-tries-to-escape-from-police-custody-caught-after-100-metre-chase/1877257/)
+
+Article found but Couldn't summarize 
+Panaji, Dec 8 (PTI) A Russian national, arrested in a drug case, dashed while being escorted to a court in his bid to escape, triggering a chase by the police. After sprinting for about 100 metres, the police apprehended the fugitive, said an official on Friday. Deputy Superintendent of Police Jivba Dalvi told reporters that [&#8230;]
+
+Fri, 08 Dec 2023 03:45:22 +0000
+### [Soccer-Everton doing the hard yards to fight off relegation: Dyche](https://theprint.in/sport/soccer-everton-doing-the-hard-yards-to-fight-off-relegation-dyche/1877255/)
+
+Article found but Couldn't summarize 
+(Reuters) - There is no guarantee Everton will win their appeal against a 10-point deduction in the Premier League but manager Sean Dyche said one thing the fans can count on is his players showing
+
 Fri, 08 Dec 2023 03:18:51 +0000
 ### [ED charge sheet in Vivo case says ‘web of companies’ diverted Rs 1 lakh crore sent to China](https://theprint.in/india/ed-charge-sheet-in-vivo-case-says-web-of-companies-diverted-rs-1-lakh-crore-sent-to-china/1877007/)
 
