@@ -1,3 +1,27 @@
+Fri, 08 Dec 2023 23:15:23 +0000
+### [Ukraine’s parliament approves bills seen as key for EU talks](https://theprint.in/world/ukraines-parliament-approves-bills-seen-as-key-for-eu-talks/1878757/)
+
+Article found but Couldn't summarize 
+(Reuters) -The Ukrainian parliament on Friday approved four bills necessary to start European Union accession talks, including one on national minorities' rights, a critical demand from Hungary which
+
+Fri, 08 Dec 2023 23:15:14 +0000
+### [Japan PM Kishida plans to replace chief cabinet secretary Matsuno -report](https://theprint.in/world/japan-pm-kishida-plans-to-replace-chief-cabinet-secretary-matsuno-report/1878755/)
+
+Article found but Couldn't summarize 
+TOKYO (Reuters) - Japanese Prime Minister Fumio Kishida plans to replace Chief Cabinet Secretary Hirokazu Matsuno amid media reports he had received unreported political funds, the Yomiuri newspaper
+
+Fri, 08 Dec 2023 23:15:05 +0000
+### [Six teens in court in connection with beheading of French teacher](https://theprint.in/world/six-teens-in-court-in-connection-with-beheading-of-french-teacher-2/1878753/)
+
+Article found but Couldn't summarize 
+PARIS (Reuters) -Six teenagers go on trial behind closed doors on Monday in connection with the beheading of French history teacher Samuel Paty in 2020, a murder that shocked the country. The teacher
+
+Fri, 08 Dec 2023 23:02:01 +0000
+### [US vetoes UN resolution calling for immediate ceasefire in Gaza](https://theprint.in/world/us-vetoes-un-resolution-calling-for-immediate-ceasefire-in-gaza/1878751/)
+
+Article found but Couldn't summarize 
+New York [US], December 9 (ANI): The US on Friday (local time) vetoed a United Nations Security Council resolution on Gaza calling for an immediate humanitarian ceasefire between Israel and Hamas. The resolution was put forward by the United Arab Emirates and backed by over 90 member states. 13 members of the UNSC voted in [&#8230;]
+
 Fri, 08 Dec 2023 22:17:02 +0000
 ### [Swedish Astronaut calls Chandrayaan-3 success ‘amazing’, says ‘looking forward to next Indian mission like that’](https://theprint.in/world/swedish-astronaut-calls-chandrayaan-3-success-amazing-says-looking-forward-to-next-indian-mission-like-that/1878749/)
 
