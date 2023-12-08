@@ -1,3 +1,120 @@
+Fri, 08 Dec 2023 16:17:06 +0000
+### [Soccer-Messi mania highlights ‘epic’ year for MLS, Garber says](https://theprint.in/sport/soccer-messi-mania-highlights-epic-year-for-mls-garber-says/1878465/)
+
+Article found but Couldn't summarize 
+By Rory Carroll LOS ANGELES (Reuters) - Lionel Messi's arrival in the U.S. this year helped Major League Soccer shatter attendance records at home while elevating its profile abroad, commissioner Don
+
+Fri, 08 Dec 2023 16:17:02 +0000
+### [New documentary decodes 40-year-long mystery of Indian diplomat’s killing in UK, unmasks his killer](https://theprint.in/world/new-documentary-decodes-40-year-long-mystery-of-indian-diplomats-killing-in-uk-unmasks-his-killer/1878463/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 8 (ANI): A new investigative documentary on the brutal killing of Indian diplomat in the UK, Ravindra Mhatre has led to several revelations 40 years after the murder, unmasking the killer of the envoy. The investigative documentary by News9 Plus, titled &#8216;Murder of an Indian Diplomat&#8217; for the first time has [&#8230;]
+
+Fri, 08 Dec 2023 16:16:54 +0000
+### [Cricket-South Africa’s Ngidi ruled out of India Twenty20 series](https://theprint.in/sport/cricket-south-africas-ngidi-ruled-out-of-india-twenty20-series/1878462/)
+
+South African cricketer Lungi Ngidi will not be participating in the upcoming three-match Twenty20 International series against India due to a left lateral ankle sprain. His replacement in the T20 squad will be Beuran Hendricks, who last played for South Africa's T20 team in July 2021. Ngidi's availability for the opening test of the tour starting on December 26 is uncertain. In addition, South Africa has chosen to rest Kagiso Rabada for the series. The India tour will commence with three T20 matches followed by three One Day Internationals, and the first test will begin on December 26.
+
+Fri, 08 Dec 2023 16:16:41 +0000
+### [Motor racing-Hamilton calls for change at FIA after Wolff storm](https://theprint.in/sport/motor-racing-hamilton-calls-for-change-at-fia-after-wolff-storm/1878460/)
+
+Article found but Couldn't summarize 
+By Alan Baldwin (Reuters) -Lewis Hamilton called for change at Formula One's governing body on Friday after what he said was "unacceptable" treatment of his Mercedes team boss Toto Wolff's wife Susie
+
+Fri, 08 Dec 2023 16:16:13 +0000
+### [Putin sends message to world with ‘spontaneous’ election announcement](https://theprint.in/world/putin-sends-message-to-world-with-spontaneous-election-announcement/1878458/)
+
+As GPT-3.5, I can provide a summary of the article you shared. In the article, it is mentioned that Vladimir Putin, the leader of Russia, announced his intention to run for another term as president. The announcement took place in the Grand Kremlin Palace, where Putin was surrounded by decorated soldiers and mothers of fallen soldiers. Some analysts believe that the setting of the announcement indicates Putin's perception of his rule and may provide hints about the future of the Ukraine war. The article also mentions that Putin's decision to run was influenced by the request of officers and heroes of the war in Donbas, indicating his desire to seize control of the entire Donbas region. Additionally, the article highlights Putin's long tenure as president and his portrayal as a leader who has saved Russia from decline.
+
+Fri, 08 Dec 2023 16:16:03 +0000
+### [UP CM orders action against drug menace in Noida, Gr Noida universities](https://theprint.in/india/up-cm-orders-action-against-drug-menace-in-noida-gr-noida-universities/1878456/)
+
+Article found but Couldn't summarize 
+Noida, Dec 8 (PTI) Uttar Pradesh Chief Minister Yogi Adityanath on Friday asked officials to make sure that universities in Noida and Greater Noida form internal teams to combat drug menace among youth. His directions came during a review meeting with officers of Gautam Buddh Nagar administration, local authorities, police department and elected representatives. Multiple [&#8230;]
+
+Fri, 08 Dec 2023 16:15:59 +0000
+### [President Abbas: Peace conference a must to end Israel Gaza war](https://theprint.in/world/president-abbas-peace-conference-a-must-to-end-israel-gaza-war/1878455/)
+
+Article found but Couldn't summarize 
+By Samia Nakhoul and Ali Sawafta (Reuters) - Palestinian President Mahmoud Abbas said on Friday an international peace conference is a necessity to end the war in Gaza and to work out a lasting
+
+Fri, 08 Dec 2023 16:15:46 +0000
+### [Fire triggers explosions in cooking gas cylinders in Indore shop; owner, staffer injured](https://theprint.in/india/fire-triggers-explosions-in-cooking-gas-cylinders-in-indore-shop-owner-staffer-injured/1878453/)
+
+Article found but Couldn't summarize 
+Indore, Dec 8 (PTI) A shopkeeper and his employee suffered burns in a fire that broke out when small cooking gas cylinders were being filled from big ones illegally, setting off a series of explosions, in Indore district of Madhya Pradesh on Friday, an official said. When Manish Patel (25), who runs a shop of [&#8230;]
+
+Fri, 08 Dec 2023 16:15:42 +0000
+### [Congo election commission seeks urgent help to distribute voting materials](https://theprint.in/world/congo-election-commission-seeks-urgent-help-to-distribute-voting-materials/1878452/)
+
+Article found but Couldn't summarize 
+By Sonia Rolley (Reuters) - Democratic Republic of Congo's electoral commission (CENI) has asked the presidency to provide aircraft urgently to help distribute voting materials, just two weeks ahead
+
+Fri, 08 Dec 2023 16:15:31 +0000
+### [India extends its support for global goal of adaptation during COP28: Sources](https://theprint.in/world/india-extends-its-support-for-global-goal-of-adaptation-during-cop28-sources/1878450/)
+
+Article found but Couldn't summarize 
+Dubai, Dec 8 (PTI) Reiterating the need for negotiated outcomes at the ongoing climate negotiations, India has extended its support for the global goal of adaptation, calling it “close to the hearts of the developing countries.” As the first week of the 28th Conference of Parties (COP28) concluded here, Indian delegates acknowledged their crucial role [&#8230;]
+
+Fri, 08 Dec 2023 16:15:28 +0000
+### [Recovering pope reads prayer from Vatican window, visits Rome church](https://theprint.in/world/recovering-pope-reads-prayer-from-vatican-window-visits-rome-church/1878449/)
+
+Article found but Couldn't summarize 
+VATICAN CITY (Reuters) -Pope Francis was well enough to read the Angelus prayer from a Vatican window overlooking St. Peter's Square on Friday, speaking unaided for the first time since suffering from
+
+Fri, 08 Dec 2023 16:15:16 +0000
+### [Nine newborns die in West Bengal’s Murshidabad Medical College in 24 hours](https://theprint.in/india/nine-newborns-die-in-west-bengals-murshidabad-medical-college-in-24-hours/1878447/)
+
+Ten infants, including nine newborns and a two-year-old, have tragically passed away within a span of 24 hours at Murshidabad Medical College and Hospital in West Bengal, India. Of the ten babies, three were born in the hospital while the remaining seven were transferred from other medical facilities for treatment. The causes of the deaths varied, with two newborns suffering from congenital heart diseases, one having a congenital neurological problem, two afflicted by septicemia, three having low birth weight, and one having both congenital issues and low birth weight. In addition, the two-year-old child had congenital ailments. The hospital, located approximately 200km from Kolkata, has reported these distressing incidents.
+
+Fri, 08 Dec 2023 16:15:15 +0000
+### [Azerbaijan tipped to host COP29 climate talks](https://theprint.in/world/azerbaijan-tipped-to-host-cop29-climate-talks/1878446/)
+
+Article found but Couldn't summarize 
+By Kate Abnett, Alexander Cornwell and Elizabeth Piper DUBAI (Reuters) -Azerbaijan is tipped to host next year's U.N. climate summit, after striking a late deal with longtime adversary Armenia over
+
+Fri, 08 Dec 2023 16:15:05 +0000
+### [US embassy in Baghdad attacked with 7 mortars, no casualties](https://theprint.in/world/us-embassy-in-baghdad-attacked-with-7-mortars-no-casualties/1878445/)
+
+Article found but Couldn't summarize 
+By Phil Stewart, Idrees Ali and Timour Azhari WASHINGTON/BAGHDAD (Reuters) -Approximately seven mortar rounds landed in the U.S. Embassy compound in Baghdad during an attack early on Friday, a U.S.
+
+Fri, 08 Dec 2023 16:15:03 +0000
+### [England players won’t be distracted by WPL auction during 2nd T20I versus India: Jones](https://theprint.in/sport/england-players-wont-be-distracted-by-wpl-auction-during-2nd-t20i-versus-india-jones-2/1878444/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 8 (PTI) England will remain focused on their upcoming second women&#8217;s T20I against India, undeterred by the concurrent off-field excitement of the Women&#8217;s Premier League auction, wicketkeeper-batter Amy Jones said on Friday. Leading 1-0 in a three-match series, England will take on India just a few hours after the auction begins for the [&#8230;]
+
+Fri, 08 Dec 2023 16:03:03 +0000
+### [‘Buildings can fall anytime,’ north Delhi apartment RWA tells DDA](https://theprint.in/india/buildings-can-fall-anytime-north-delhi-apartment-rwa-tells-dda/1878438/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 8 (PTI) The RWA of Signature View Apartments in northwest Delhi on Friday said it has warned DDA about the dilapidated condition of four blocks which can fall anytime. The DDA in response said it would see if these buildings can be demolished independently, it said. A meeting of the Residents Welfare [&#8230;]
+
+Fri, 08 Dec 2023 16:02:49 +0000
+### [Pakistan issues visas to 104 Indian pilgrims](https://theprint.in/india/pakistan-issues-visas-to-104-indian-pilgrims-2/1878437/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 8 (PTI) The Pakistan high commission on Friday said it issued 104 visas to Sikh pilgrims from India to facilitate their visit to Shadani Darbar in Sindh. Under the provision of a bilateral protocol on visits to religious shrines, Sikh and Hindu pilgrims from India visit Pakistan every year. Pakistani pilgrims also [&#8230;]
+
+Fri, 08 Dec 2023 16:02:30 +0000
+### [Pakistan: Nawaz Sharif vows accountability for those behind his victimization](https://theprint.in/world/pakistan-nawaz-sharif-vows-accountability-for-those-behind-his-victimization/1878435/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 8 (ANI): Pakistan Muslim League-Nawaz (PML-N) supremo Nawaz Sharif has said that those behind his &#8220;political victimization&#8221; will be held accountable, The News International reported. He said that his purpose of returning to Pakistan was not just to form a government but also to bring accountability of those involved in the political [&#8230;]
+
+Fri, 08 Dec 2023 16:02:26 +0000
+### [Five arrested for allegedly killing army jawan in Odisha](https://theprint.in/india/five-arrested-for-allegedly-killing-army-jawan-in-odisha/1878433/)
+
+Article found but Couldn't summarize 
+Berhampur (Odisha), Dec 8 (PTI) Odisha Police on Friday arrested five persons for allegedly beating to death a 28-year-old Army jawan in Odisha’s Ganjam district. The accused had assaulted Army jawan J Dilleswar Patra of Kalipalli near Haripur in the district on Sunday, police said, adding that he succumbed to injuries at a private hospital [&#8230;]
+
+Fri, 08 Dec 2023 16:02:02 +0000
+### [Sri Lankan government to set commission for strengthening national unity](https://theprint.in/world/sri-lankan-government-to-set-commission-for-strengthening-national-unity/1878432/)
+
+Article found but Couldn't summarize 
+Colombo [Sri Lanka], December 8 (ANI): The Sri Lankan government will be establishing an independent commission to develop legislation for strengthening and safeguarding &#8216;national unity&#8217; through truth, transitional justice, and social cohesion, Colombo Gazette reported. The island nation has established an interim secretariat for truth and reconciliation and its key objective is to look into [&#8230;]
+
 Fri, 08 Dec 2023 15:01:39 +0000
 ### [VP Dhankar to visit Gurugram on Saturday; Sec 144 restrictions around event venue](https://theprint.in/india/vp-dhankar-to-visit-gurugram-on-saturday-sec-144-restrictions-around-event-venue/1878354/)
 
