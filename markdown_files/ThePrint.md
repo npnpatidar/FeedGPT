@@ -1,3 +1,61 @@
+Fri, 08 Dec 2023 21:02:13 +0000
+### [President of UAE receives President of Belarus](https://theprint.in/world/president-of-uae-receives-president-of-belarus/1878706/)
+
+Article found but Couldn't summarize 
+Abu Dhabi [UAE], December 9 (ANI/WAM): UAE President Sheikh Mohamed bin Zayed Al Nahyan today received Alexander Lukashenko President of Belarus, who is visiting the country to participate in the 28th Conference of the Parties to the United Nations Framework Convention on Climate Change (COP 28), at Expo City Dubai. During the meeting, which took [&#8230;]
+
+Fri, 08 Dec 2023 21:02:02 +0000
+### [Pakistan: National Accountability Bureau summons Imran Khan’s wife in Toshakhana case](https://theprint.in/world/pakistan-national-accountability-bureau-summons-imran-khans-wife-in-toshakhana-case-2/1878704/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 9 (ANI): The National Accountability Bureau (NAB) has summoned Pakistan Tehreek-e-Insaf (PTI) chairman Imran Khan&#8217;s wife in the Toshakhana case, Pakistan-based ARY News reported. According to details, the NAB Rawalpindi has issued notice to Bushra Bibi. The NAB has summoned her on December 11 at 11 am (local time) in connection with [&#8230;]
+
+Fri, 08 Dec 2023 20:46:05 +0000
+### [Amazon asks judge to dismiss FTC lawsuit, says no consumer harm shown](https://theprint.in/tech/amazon-asks-judge-to-dismiss-ftc-lawsuit-says-no-consumer-harm-shown/1878701/)
+
+Article found but Couldn't summarize 
+WASHINGTON (Reuters) - Amazon.com asked a federal court on Friday to dismiss a U.S. government antitrust lawsuit which accuses the company of using illegal strategies to boost profits at its online
+
+Fri, 08 Dec 2023 20:45:50 +0000
+### [Israeli images showing Palestinian detainees in underwear spark outrage](https://theprint.in/world/israeli-images-showing-palestinian-detainees-in-underwear-spark-outrage/1878699/)
+
+Article found but Couldn't summarize 
+By Nidal al-Mughrabi CAIRO (Reuters) -Palestinian, Arab and Muslim officials condemned Israel on Friday after images of detained Palestinian men stripped to their underwear in Gaza circulated on
+
+Fri, 08 Dec 2023 20:45:40 +0000
+### [OAS condemns ‘attempted coup’ in Guatemala](https://theprint.in/world/oas-condemns-attempted-coup-in-guatemala/1878697/)
+
+Article found but Couldn't summarize 
+GUATEMALA CITY (Reuters) - The Organization of American States (OAS) on Friday condemned what it called an "attempted coup d'etat" by Guatemala's prosecutors' office. Earlier in the day, prosecutors
+
+Fri, 08 Dec 2023 20:45:30 +0000
+### [Six French teenagers convicted in connection with 2020 beheading of teacher Paty](https://theprint.in/world/six-french-teenagers-convicted-in-connection-with-2020-beheading-of-teacher-paty/1878695/)
+
+Article found but Couldn't summarize 
+PARIS (Reuters) -A French court on Friday convicted six teenagers in connection with the 2020 beheading of history teacher Samuel Paty, whose murder shocked the country. The teacher had shown his
+
+Fri, 08 Dec 2023 20:45:21 +0000
+### [Exclusive-Biden administration asks Congress to approve sale of Israeli tank rounds](https://theprint.in/world/exclusive-biden-administration-asks-congress-to-approve-sale-of-israeli-tank-rounds/1878693/)
+
+Article found but Couldn't summarize 
+By Humeyra Pamuk WASHINGTON (Reuters) - The Biden administration has asked Congress to approve the sale of 45,000 shells for Israel's Merkava tanks for use in its offensive against Hamas in Gaza,
+
+Fri, 08 Dec 2023 20:45:12 +0000
+### [White House ‘eager’ to resume military talks with China](https://theprint.in/world/white-house-eager-to-resume-military-talks-with-china/1878691/)
+
+The United States expressed its eagerness to resume military-to-military talks with China, according to White House spokesperson John Kirby. The lack of communication may be attributed to the absence of a Chinese counterpart for U.S. Defense Secretary Lloyd Austin. President Joe Biden and Chinese leader Xi Jinping agreed to restart these talks during a recent summit in California. The aim of the talks is to prevent conflicts and address differences in areas such as the South China Sea and Taiwan. Over the past year, there have been numerous tense exchanges and close encounters between the U.S. and Chinese militaries.
+
+Fri, 08 Dec 2023 20:45:04 +0000
+### [World Food Programme says it cannot do its job in Gaza](https://theprint.in/world/world-food-programme-says-it-cannot-do-its-job-in-gaza/1878689/)
+
+Article found but Couldn't summarize 
+ROME (Reuters) - The World Food Programme (WFP) said it was becoming impossible to get supplies to hungry people in the Gaza Strip as Israel stepped up its attacks on targets there in its war with
+
+Fri, 08 Dec 2023 20:32:02 +0000
+### [Dubai announces ambitious plan to achieve 50 per cent reduction in carbon emissions by 2030](https://theprint.in/world/dubai-announces-ambitious-plan-to-achieve-50-per-cent-reduction-in-carbon-emissions-by-2030/1878687/)
+
+Dubai has announced an ambitious plan to achieve carbon neutrality by reducing emissions by 50 percent by 2030. This aligns with the city's commitment to environmental sustainability and climate action, in line with the objectives of the Paris Agreement. The plan includes a clear roadmap to reach net-zero emissions by 2050. Dubai aims to double its carbon emission reduction and emphasizes environmental protection, biodiversity, conservation of resources, renewable energy, and a green and circular economy. The city has made significant progress in its energy sector transformation, including the development of clean energy projects and partnerships with regional and international organizations. Dubai's climate action plan sets a target to reduce emissions by 50 percent by 2030 compared to 2018 levels, making it the first major city in the Middle East to align with the goals of the Paris Agreement. The city has implemented various initiatives such as the world's largest single-site solar power park and the promotion of hybrid or electric vehicles.
+
 Fri, 08 Dec 2023 20:16:14 +0000
 ### [Doping-Russian athletes back in doping spotlight after Paris green light](https://theprint.in/sport/doping-russian-athletes-back-in-doping-spotlight-after-paris-green-light/1878685/)
 
