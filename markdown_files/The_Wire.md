@@ -1,3 +1,15 @@
+2023-12-08T12:38:54+05:30
+### [Mizoram's New Chief Minister Takes Oath, 3 BJP States Await CM Announcements](https://thewire.in/politics/lalduhoma-chief-minister-mizoram-bjp-zpm)
+
+No Article text 
+Lalduhoma, the founder of Zoram People’s Movement, the regional party that has seized power from the Mizo National Front in these elections, is the northeastern state’s sixth chief minister.
+
+2023-12-08T12:30:43+05:30
+### [Divided Cadre, Soft Hindutva and Other Factors That Don't Help the Congress](https://thewire.in/politics/congress-narrative-polls-bjp-hindutva)
+
+No Article text 
+In the three states lost, the Congress narrative was to ape the BJP. This won't work.
+
 2023-12-08T11:54:58+05:30
 ### [Maratha Quota: 2 Panel Members Quit Over 'Interference', 'Biased Approach' of Eknath Shinde Govt](https://thewire.in/caste/maratha-quota-2-panel-members-quit-over-interference-biased-approach-of-eknath-shinde-govt)
 
@@ -15,6 +27,12 @@ Time will tell if the conduct of the current war in Gaza without a cover from it
 
 No Article text 
 Meanwhile, the Supreme Court Bar Association has also written to CJI Chandrachud, expressing "full faith and confidence in the neutrality and unprecedent administrative skill" of the CJI.
+
+2023-12-08T09:46:48+05:30
+### [Boris Johnson Apologises to UK COVID Victims](https://thewire.in/world/boris-johnson-apologises-to-uk-covid-victims)
+
+No Article text 
+Former British Prime Minister Boris Johnson said he is "deeply sorry for the pain and suffering" of the UK's COVID-19 victims. While he admitted to making mistakes, he defended his record at the height of the pandemic.
 
 2023-12-08T09:37:22+05:30
 ### [NSA Ajit Doval Underlines Importance of Colombo Security Conclave, Co-Founder Maldives Skips Meeting](https://thewire.in/diplomacy/nsa-ajit-doval-underlines-importance-of-colombo-security-conclave-co-founder-maldives-skips-meeting)

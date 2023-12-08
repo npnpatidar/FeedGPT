@@ -1,3 +1,122 @@
+Fri, 08 Dec 2023 07:03:18 +0000
+### [Jonathan Simon: Positive Outlook for Global Economy in 2024](https://theprint.in/ani-press-releases/jonathan-simon-positive-outlook-for-global-economy-in-2024/1877505/)
+
+Article found but Couldn't summarize 
+VMPL New Delhi [India], December 8: BlackRock Capital&#8217;s Head of Investment Strategy, Jonathan Simon, shared his outlook for the global economy in 2024 in an interview with Bloomberg. During a recent professional lecture, Simon expressed optimism about the global economy. He noted that despite facing various challenges in recent years, including the pandemic, economic uncertainty, [&#8230;]
+
+Fri, 08 Dec 2023 07:03:02 +0000
+### [India’s First Holistic Wellness App, Innergy, Takes Center Stage at Raahigiri Day in Delhi](https://theprint.in/ani-press-releases/indias-first-holistic-wellness-app-innergy-takes-center-stage-at-raahigiri-day-in-delhi/1877503/)
+
+Article found but Couldn't summarize 
+VMPL New Delhi [India], December 8: Innergy, the trailblazing holistic wellness app, took center stage at the recent Raahigiri Day event in Delhi, leaving an indelible mark on the celebration of Raahigiri&#8217;s 10-year milestone. Innergy&#8217;s second consecutive participation in the event showcased a commitment to fostering car-free, inclusive public streets and creating vibrant, accessible cities [&#8230;]
+
+Fri, 08 Dec 2023 07:02:47 +0000
+### [Law and order situation in Pakistan not bad enough to hamper polls: Caretaker Information Minister](https://theprint.in/world/law-and-order-situation-in-pakistan-not-bad-enough-to-hamper-polls-caretaker-information-minister/1877501/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 8 (ANI): Pakistan Caretaker Information Minister Murtaza Solangi has said the law and order situation in the country thus far is not bad enough to hamper polls on February 8. He stressed that the federal cabinet has no &#8220;doubt, worry or second thoughts&#8221; about holding the upcoming general elections, Dawn newspaper reported. [&#8230;]
+
+Fri, 08 Dec 2023 07:02:35 +0000
+### [Texas judge grants court-ordered abortion to pregnant woman in landmark ruling amidst state’s strict ban](https://theprint.in/world/texas-judge-grants-court-ordered-abortion-to-pregnant-woman-in-landmark-ruling-amidst-states-strict-ban/1877499/)
+
+Article found but Couldn't summarize 
+Texas [US], December 8 (ANI): A Texas judge has ruled that a pregnant woman who took legal action against the state to secure an abortion can indeed proceed with terminating her pregnancy, CNN reported. The decision, issued on Thursday (local time), stands out as a crucial development in the ongoing discourse surrounding the state&#8217;s stringent [&#8230;]
+
+Fri, 08 Dec 2023 07:02:25 +0000
+### [American Express Strengthens Membership Rewards Program in India: Launches ‘Reward Xcelerator’ for the Platinum Charge Cardmembers](https://theprint.in/ani-press-releases/american-express-strengthens-membership-rewards-program-in-india-launches-reward-xcelerator-for-the-platinum-charge-cardmembers/1877497/)
+
+Article found but Couldn't summarize 
+PRNewswire New Delhi [India], December 8: American Express strengthens the Membership Rewards &#174; (MR) program in India with the launch of Reward Xcelerator, a unique initiative offering Platinum Charge Cardmembers to earn up to 20X* rewards across many premium brands, including Darveys, Tata CLiQ Luxury, Kapoor Watch Company, Forest Essentials and more. The strategic partnerships [&#8230;]
+
+Fri, 08 Dec 2023 07:02:18 +0000
+### [Customs staffer, retd colleague sentenced to one year in jail in graft case](https://theprint.in/india/customs-staffer-retd-colleague-sentenced-to-one-year-in-jail-in-graft-case/1877495/)
+
+Article found but Couldn't summarize 
+Thane, Dec 8 (PTI) A special court here has convicted a customs staffer and his retired colleague in a corruption case and sentenced them to one year of simple imprisonment. Special (CBI) judge Amit M Shete found the accused, Sandip Vishnu Pawar and Sadanand Babu Keer, guilty of charges under the Prevention of Corruption Act [&#8230;]
+
+Fri, 08 Dec 2023 07:02:14 +0000
+### [Sunny Deol wishes “Papa” Dharmendra on his 88th birthday, shares cute pictures](https://theprint.in/feature/sunny-deol-wishes-papa-dharmendra-on-his-88th-birthday-shares-cute-pictures/1877494/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 8 (ANI): Actor Sunny Deol shared cute pictures of his dad Dharmendra to wish the vector actor on his 88th birthday. Taking to Instagram, Sunny posted a heartwarming wish for his papa. &#160; &#160; &#160; &#160; &#160; View this post on Instagram &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; [&#8230;]
+
+Fri, 08 Dec 2023 07:02:06 +0000
+### [Ethics panel report on Mahua Moitra’s expulsion tabled in Lok Sabha](https://theprint.in/india/ethics-panel-report-on-mahua-moitras-expulsion-tabled-in-lok-sabha/1877492/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 8 (PTI) The Lok Sabha&#8217;s Ethics Committee on Friday submitted its report in the lower house recommending the expulsion of Trinamool Congress member Mahua Moitra over the &#8220;cash-for-query&#8221; allegation. Ethics Committee Chairman Vinod Kumar Sonkar tabled the panel&#8217;s first report when the House re-convened at noon after an adjournment during the Question [&#8230;]
+
+Fri, 08 Dec 2023 07:02:02 +0000
+### [Creating Dreams Brick by Brick: Ekum Homes, Where Luxury Meets Legacy in South Delhi](https://theprint.in/ani-press-releases/creating-dreams-brick-by-brick-ekum-homes-where-luxury-meets-legacy-in-south-delhi/1877491/)
+
+Ekum Homes, led by Pramod Aggarwal and his son Shashank Aggarwal, is a prominent player in South Delhi's luxury real estate market. They are known for their commitment to excellence and visionary leadership. Ekum Homes focuses on creating bespoke residences that embody elegance and innovation. Their projects offer the ultimate living experience and aim to shape the future of real estate. Pramod Aggarwal's expertise in developing high-end apartments, eco-friendly homes, and modern architecture residences has made a significant impact in the luxury real estate market. Shashank Aggarwal brings a fresh dynamic and forward-thinking vision to the brand, ensuring prime location flats, designer homes, and investment opportunities in South Delhi. Ekum Homes is dedicated to delivering exceptional service and quality, with a focus on sustainable living and reflecting the latest real estate trends. Each Ekum residence is carefully crafted to be unique and encapsulate the essence of the Ekum experience. The upcoming 'A6' project in Greater Kailash Part 1 is set to redefine luxury living with its innovative and sustainable approach. Ekum Homes' logo symbolizes their sharp vision for luxury living and their commitment to excellence. They strive to stand out as a premier developer in the competitive South Delhi luxury real estate landscape. If you are interested in exploring Ekum Homes' offerings, you can contact them at the provided phone numbers or email address.
+
+Fri, 08 Dec 2023 07:01:50 +0000
+### [Funds for ‘Farishtey Dilli Ke’ scheme: SC notice to LG office on Delhi govt’s plea](https://theprint.in/india/funds-for-farishtey-dilli-ke-scheme-sc-notice-to-lg-office-on-delhi-govts-plea/1877490/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 8 (PTI) The Supreme Court on Friday sought a response from Delhi lieutenant governor&#8217;s office and others on a plea filed by the AAP government seeking release of funds for its &#8216;Farishtey Dilli Ke&#8217; scheme providing free treatment to accident victims. A bench of Justices B R Gavai and Sudhanshu Dhulia issued [&#8230;]
+
+Fri, 08 Dec 2023 07:01:33 +0000
+### [Sensex hits all-time high; Nifty scales 21k post RBI policy decision](https://theprint.in/economy/sensex-hits-all-time-high-nifty-scales-21k-post-rbi-policy-decision/1877488/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 8 (PTI) Equity benchmark Nifty scaled the psychological milestone of 21,000 in afternoon trade on Friday, and the Sensex touched its all-time intraday high of 69,888.33 after the central bank&#8217;s decision to keep policy rates unchanged in line with market expectations. The 50-share benchmark index opened on a bullish note, after taking a [&#8230;]
+
+Fri, 08 Dec 2023 07:01:18 +0000
+### [SC grant bail to executive of liquor firm in Delhi excise policy case](https://theprint.in/india/sc-grant-bail-to-executive-of-liquor-firm-in-delhi-excise-policy-case/1877487/)
+
+Article found but Couldn't summarize 
+New Delhi, Jul 3 (PTI) The Supreme Court on Friday granted bail to liquor giant Pernod Ricard&#8217;s executive Benoy Babu in a money laundering case arising out of the Delhi excise policy scam. A bench of Justices Sanjiv Khanna and SVN Bhatti noted that the accused has been in custody for more than 13 months [&#8230;]
+
+Fri, 08 Dec 2023 07:01:08 +0000
+### [Singapore signs carbon credits deal with Papua New Guinea](https://theprint.in/environment/singapore-signs-carbon-credits-deal-with-papua-new-guinea/1877486/)
+
+Article found but Couldn't summarize 
+(Reuters) - Singapore has signed its first carbon credits implementation agreement with Papua New Guinea, setting out a legally binding framework and processes for generating and transferring the
+
+Fri, 08 Dec 2023 07:01:00 +0000
+### [Indian Americans perform Garba at Times Square to celebrate its inclusion in UNESCO cultural heritage list](https://theprint.in/world/indian-americans-perform-garba-at-times-square-to-celebrate-its-inclusion-in-unesco-cultural-heritage-list/1877485/)
+
+Article found but Couldn't summarize 
+New York, Dec 8 (PTI) Times Square reverberated with the beats and music of ‘Garba’ as members of the Indian-American community performed the traditional Gujarati dance at the iconic New York City destination to celebrate its inclusion in UNESCO’s cultural heritage list. Braving near-freezing temperatures late Thursday evening, members of the diaspora from around the [&#8230;]
+
+Fri, 08 Dec 2023 07:00:41 +0000
+### [US criticises Israel on Gaza civilian toll as UN to hear ceasefire demand](https://theprint.in/world/us-criticises-israel-on-gaza-civilian-toll-as-un-to-hear-ceasefire-demand/1877482/)
+
+Article found but Couldn't summarize 
+By Bassam Masoud and Humeyra Pamuk GAZA/WASHINGTON (Reuters) -U.S. Secretary of State Antony Blinken, in his strongest public criticism of Israel's conduct of the war on Hamas in south Gaza, said
+
+Fri, 08 Dec 2023 07:00:38 +0000
+### [Bengal’s picturesque Sandakphu receives season’s first snowfall](https://theprint.in/india/bengals-picturesque-sandakphu-receives-seasons-first-snowfall/1877481/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 8 (PTI) The popular tourist destination of Sandakphu, known for its majestic view of the Kanchenjunga mountain range, received the season&#8217;s first snowfall, as temperatures dipped in the higher reaches of West Bengal&#8217;s Darjeeling district. Minimum temperatures in east India are likely to go down by three to five degrees Celsius in the [&#8230;]
+
+Fri, 08 Dec 2023 07:00:37 +0000
+### [Lok Sabha ethics panel tables report on Mahua Moitra. TMC MP says ‘Maa Durga is here, we’ll see’](https://theprint.in/politics/lok-sabha-ethics-panel-tables-report-on-mahua-moitra-tmc-mp-says-maa-durga-is-here-well-see/1877419/)
+
+Article found but Couldn't summarize 
+Ethics panel adopted the report, which recommends her expulsion, on 9 November. 6 members of panel had voted in favour of report. 4 members from opposition parties submitted dissent notes.
+
+Fri, 08 Dec 2023 07:00:04 +0000
+### [India holds rates amid buoyant growth, to monitor inflation](https://theprint.in/india/india-holds-rates-amid-buoyant-growth-to-monitor-inflation/1877479/)
+
+Article found but Couldn't summarize 
+By Swati Bhat and Sudipto Ganguly MUMBAI (Reuters) -India's central bank on Friday raised its fiscal year growth forecast on the back of a robust economy and flagged continuing tight monetary policy
+
+Fri, 08 Dec 2023 07:00:03 +0000
+### [Will understand Malik’s position first before spelling out our party’s stand: Ajit Pawar](https://theprint.in/india/will-understand-maliks-position-first-before-spelling-out-our-partys-stand-ajit-pawar-2/1877478/)
+
+Article found but Couldn't summarize 
+Nagpur, Dec 8 (PTI) Maharashtra Deputy Chief Minister Ajit Pawar said on Friday that he would first speak with Nawab Malik to understand the former minister’s position about his political affiliation before explaining his NCP group’s stand on the matter. Pawar was responding to a question on Deputy Chief Minister Devendra Fadnavis’s letter to him [&#8230;]
+
+Fri, 08 Dec 2023 06:47:02 +0000
+### [Zoop Wallet Achieves Monumental 500K+ Downloads Milestone on Android PlayStore](https://theprint.in/ani-press-releases/zoop-wallet-achieves-monumental-500k-downloads-milestone-on-android-playstore/1877475/)
+
+Article found but Couldn't summarize 
+SRV Media New Delhi [India], December 8: In a remarkable stride towards digital empowerment, Zoop Wallet proudly announces the accomplishment of surpassing 500,000 downloads on the Android PlayStore. The surge in downloads underscores the growing recognition and trust users place in Zoop Wallet as their go-to solution for efficient document management and organisation. As the [&#8230;]
+
 Fri, 08 Dec 2023 06:17:13 +0000
 ### [‘Fighter’ teaser: Hrithik Roshan, Deepika Padukone starrer promises adrenaline rush](https://theprint.in/feature/fighter-teaser-hrithik-roshan-deepika-padukone-starrer-promises-adrenaline-rush/1877432/)
 

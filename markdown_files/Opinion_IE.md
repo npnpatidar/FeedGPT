@@ -1,3 +1,8 @@
+Fri, 08 Dec 2023 07:02:25 +0000
+### [An open letter to Rannvijay from ‘Animal’: How not to be a ‘man’](https://indianexpress.com/article/opinion/columns/open-letter-to-rannvijay-from-animal-9059543/)
+
+Article found but Couldn't summarize
+
 Fri, 08 Dec 2023 01:53:09 +0000
 ### [Yogendra Yadav writes: For 2024, Opposition is still in the game](https://indianexpress.com/article/opinion/columns/yogendra-yadav-writes-for-2024-opposition-is-still-in-the-game-9058961/)
 

@@ -1,3 +1,9 @@
+Fri, 08 Dec 2023 12:33:33 +0530
+### [‘Kadak Singh’ movie review: Pankaj Tripathi livens up this languid thriller](https://www.thehindu.com/entertainment/movies/kadak-singh-movie-review-pankaj-tripathi-livens-up-this-languid-thriller/article67617426.ece)
+
+Article found but Couldn't summarize 
+Director Aniruddha Roy Chowdhury brews a mildly flavoured concoction on the fickleness of memory and relationships that takes a long time to come to the boil
+
 Thu, 07 Dec 2023 14:38:37 +0530
 ### [‘The Archies’ movie review: Too basic, but the kids are all right](https://www.thehindu.com/entertainment/movies/the-archies-movie-review-too-basic-but-the-kids-are-all-right/article67613917.ece)
 

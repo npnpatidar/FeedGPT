@@ -1,3 +1,9 @@
+Fri, 08 Dec 2023 12:09:12 +0530
+### [Untangling revenge from justice in the $6 bn opioid addiction settlement case in the US](https://www.livemint.com/opinion/untangling-revenge-from-justice-in-the-6-bn-opioid-addiction-settlement-case-in-the-us-11702016687385.html)
+
+Article found but Couldn't summarize 
+If the settlement is allowed to proceed, it would see rich folks escaping responsibility for having caused widespread suffering, including death, with only their company going bankrupt paying damages
+
 Fri, 08 Dec 2023 08:00:14 +0530
 ### [A Supreme Court ruling has given personal insolvency a fresh start in India](https://www.livemint.com/opinion/online-views/a-supreme-court-ruling-has-given-personal-insolvency-a-fresh-start-in-india-11701964401834.html)
 

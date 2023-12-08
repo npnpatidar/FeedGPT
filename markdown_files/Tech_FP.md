@@ -1,3 +1,9 @@
+Fri, 08 Dec 2023 12:03:05 +0530
+### [Big blow to China's tech industry, UAE to phase out Chinese parts in favour of American ones](https://www.firstpost.com/tech/big-blow-to-chinas-tech-industry-uae-to-phase-out-chinese-parts-in-favour-of-american-ones-13480042.html)
+
+Article found but Couldn't summarize 
+Big blow to China's tech industry, UAE to phase out Chinese parts in favour of American ones
+
 Fri, 08 Dec 2023 10:56:16 +0530
 ### [Porsche Cayenne 2023 Review: The classic, epic story of a fast and nimble SUV, retold](https://www.firstpost.com/tech/auto-tech/porsche-cayenne-2023-review-the-classic-epic-story-of-a-fast-and-nimble-suv-retold-13479852.html)
 
