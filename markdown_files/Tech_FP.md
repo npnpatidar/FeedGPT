@@ -1,3 +1,9 @@
+Fri, 08 Dec 2023 17:41:31 +0530
+### [Best phones under Rs 60,000 (Dec 2023): OnePlus 11 5G, Apple iPhone 13 to Nothing Phone (2)](https://www.firstpost.com/tech/best-phones-under-rs-60000-december-2023-13482042.html)
+
+Article found but Couldn't summarize 
+Best phones under Rs 60,000 (Dec 2023): OnePlus 11 5G, Apple iPhone 13 to Nothing Phone (2)
+
 Fri, 08 Dec 2023 17:18:02 +0530
 ### [‘India did in few years what took others generations’: PM Modi ahead of Global Partnership AI Summit](https://www.firstpost.com/tech/india-did-in-few-years-what-took-others-generations-pm-modi-ahead-of-global-partnership-ai-summit-13482012.html)
 

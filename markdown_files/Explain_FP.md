@@ -1,3 +1,15 @@
+Fri, 08 Dec 2023 18:30:33 +0530
+### [Mahua Moitra expelled: What happened in Lok Sabha, what does the ethics panel report say?](https://www.firstpost.com/explainers/mahua-moitra-expelled-what-happened-in-lok-sabha-what-does-the-ethics-panel-report-say-13481482.html)
+
+Article found but Couldn't summarize 
+Mahua Moitra expelled: What happened in Lok Sabha, what does the ethics panel report say?
+
+Fri, 08 Dec 2023 18:24:49 +0530
+### [Will UK’s controversial Rwanda asylum policy cost Rishi Sunak his job?](https://www.firstpost.com/explainers/will-uks-controversial-rwanda-asylum-policy-cost-rishi-sunak-his-job-13482332.html)
+
+Article found but Couldn't summarize 
+Will UK’s controversial Rwanda asylum policy cost Rishi Sunak his job?
+
 Fri, 08 Dec 2023 17:48:07 +0530
 ### [Another dowry death in India: What are India’s laws on the menace?](https://www.firstpost.com/explainers/kerala-doctor-suicide-dowry-death-india-law-13481842.html)
 

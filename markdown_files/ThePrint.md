@@ -1,3 +1,118 @@
+Fri, 08 Dec 2023 13:18:36 +0000
+### [HealthMitra, the new entrant in healthtech space](https://theprint.in/ani-press-releases/healthmitra-the-new-entrant-in-healthtech-space/1878165/)
+
+Article found but Couldn't summarize 
+PNN Gurgaon (Haryana) [India], December 8: HealthMitra is a group of individuals and partner organizations that are passionate about building the best line of products and services in healthcare, providing quality preventive healthcare solutions that are accessible and affordable to all. As, India&#8217;s leading preventive healthcare specialist, the firm is determined to live up to [&#8230;]
+
+Fri, 08 Dec 2023 13:18:20 +0000
+### [Antony Triumphs: Winning Hearts and Dominating Charts](https://theprint.in/ani-press-releases/antony-triumphs-winning-hearts-and-dominating-charts/1878163/)
+
+Article found but Couldn't summarize 
+VMPL New Delhi [India], December 8: Joju George and Joshiy, in their second collaboration &#8216;Antony,&#8217; have once again achieved success, striking gold with the film. Captivating family audiences, it has amassed a worldwide gross of 8.5 crores. Running successfully, Antony continues to dominate the booking charts, maintaining the first-place position even on working days, marking [&#8230;]
+
+Fri, 08 Dec 2023 13:17:58 +0000
+### [Accused student to be sentenced in 2021 Michigan school shooting](https://theprint.in/world/accused-student-to-be-sentenced-in-2021-michigan-school-shooting/1878161/)
+
+Article found but Couldn't summarize 
+Michigan [US], December 8 (ANI): A 15-year-old sophomore student, Ethan Crumbley, who was arrested for killing four of his classmates in the 2021 Michigan school shooting, is scheduled to be sentenced on Friday, as reported by ABC News. Crumbley was charged with killing four of his classmates and wounding others in the school shooting. Crumbley [&#8230;]
+
+Fri, 08 Dec 2023 13:17:41 +0000
+### [One killed, 18 injured as bus overturns in Rajasthan](https://theprint.in/india/one-killed-18-injured-as-bus-overturns-in-rajasthan/1878159/)
+
+A passenger died and 18 others were injured in an accident in Bundi district, Rajasthan. The incident occurred when a Rajasthan Roadways bus overturned after colliding with a motorcycle and hitting a divider on National Highway 52. It is believed that the bus driver lost control while trying to avoid the motorcycle. Police arrived at the scene and rescued the injured passengers, who were taken to Bundi district hospital for treatment. Unfortunately, one critically injured passenger, Govind Meena, passed away while being transported to MBS Hospital. The accident caused temporary disruption to traffic on the highway.
+
+Fri, 08 Dec 2023 13:17:36 +0000
+### [Russia: Vladimir Putin confirms running for 2024 presidential polls](https://theprint.in/world/russia-vladimir-putin-confirms-running-for-2024-presidential-polls/1878158/)
+
+GPT-3.5: Russian President Vladimir Putin has confirmed his intention to run for a fifth term in office in the 2024 presidential elections. His current term expires in May 2023, and the next presidential election is scheduled for March 2024. Putin's confirmation came after Donetsk People's Republic Parliament Speaker Artyom Zhoga addressed him on the matter. It is worth noting that a constitutional amendment passed in 2021 allows Putin to potentially stay in power until 2036. Recently, Putin concluded visits to the United Arab Emirates and Saudi Arabia, where discussions focused on enhancing mutual investments and cooperation between the countries.
+
+Fri, 08 Dec 2023 13:17:25 +0000
+### [479 rural courts notified across India but 284 operational: Govt](https://theprint.in/india/479-rural-courts-notified-across-india-but-284-operational-govt/1878156/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 8 (PTI) As many as 284 gram nyayalayas (rural courts) are functional across the country out of 479 notified by different states, according to data shared by the government in the Lok Sabha on Friday. The Gram Nyayalayas Act was enacted in 2008 to provide access to justice to citizen at their [&#8230;]
+
+Fri, 08 Dec 2023 13:17:21 +0000
+### [TIMES BPO: A Leader in Business Process Outsourcing Services](https://theprint.in/ani-press-releases/times-bpo-a-leader-in-business-process-outsourcing-services/1878155/)
+
+Times BPO, a leading provider of Business Process Outsourcing (BPO) services, has announced an opportunity for aspiring entrepreneurs in India. They are inviting applications from individuals and startups in all states, offering them the chance to become business owners with minimal investment. This initiative aims to democratize entrepreneurship by eliminating financial barriers and making it accessible to anyone with the drive and passion to succeed. Times BPO will provide support, training, and guidance to help individuals run their businesses successfully. This opportunity has the potential to boost the number of startups in India and contribute to the nation's economic growth. If you're interested in becoming a part of this initiative, you can visit the Times BPO website to learn more and submit your application.
+
+Fri, 08 Dec 2023 13:17:06 +0000
+### [Woman hacked to death by extramarital partner in UP village](https://theprint.in/india/woman-hacked-to-death-by-extramarital-partner-in-up-village/1878153/)
+
+Article found but Couldn't summarize 
+Amethi (UP), Dec 8 (PTI) A 32-year-old woman was allegedly hacked to death by her extramarital partner over a dispute in a village here on Friday, police said. The incident took place in Pura Rajapur village of Fursatganj police station area here, they added. The locals told the police that victim Rinki Yadav was in [&#8230;]
+
+Fri, 08 Dec 2023 13:17:02 +0000
+### [RBI, Bank of England sign MoU to facilitate cross-border settlement, clearing activities](https://theprint.in/world/rbi-bank-of-england-sign-mou-to-facilitate-cross-border-settlement-clearing-activities/1878152/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 8 (ANI): The Reserve Bank of India (RBI) and Bank of England (BoE) have signed a Memorandum of Understanding (MoU) to cooperate and exchange information regarding the Clearing Corporation of India (CCIL). Notably, CCIL is an entity regulated and supervised by RBI. The Indian High Commission in London informed in a [&#8230;]
+
+Fri, 08 Dec 2023 13:16:49 +0000
+### [Karnataka govt urging companies to participate in ongoing auction of mineral blocks: Official](https://theprint.in/economy/karnataka-govt-urging-companies-to-participate-in-ongoing-auction-of-mineral-blocks-official/1878151/)
+
+The Karnataka government is encouraging companies to participate in the ongoing auction of mines in the state, including strategic blocks. The Deputy Director of Mines in Karnataka emphasized the importance of the manufacturing sector enhancing research and development activities in the mining sector. The Chairman and Managing Director of BEML also stressed the critical role of mining in industrial progress. The government has recently launched the first round of auction for 20 blocks containing critical and strategic minerals across the country. This article is auto-generated from a PTI news service.
+
+Fri, 08 Dec 2023 13:16:27 +0000
+### [1 killed, cop injured in Jamshedpur shoot out](https://theprint.in/india/1-killed-cop-injured-in-jamshedpur-shoot-out/1878150/)
+
+In Jamshedpur, a person named Sajjad was shot and killed by three men on a motorcycle. When the perpetrators tried to flee, a police constable named Ramdev was also injured by a bullet. A mobile police team intercepted the criminals and managed to apprehend one of them, recovering firearms in the process. Sajjad was pronounced dead at Tata Main Hospital, while Ramdev is currently receiving treatment. The incident is under investigation, and it is noted that Sajjad had a criminal history.
+
+Fri, 08 Dec 2023 13:16:04 +0000
+### [Inter-state ‘criminal’ arrested with arms, animal remains in Meghalaya’s Ri-Bhoi](https://theprint.in/india/inter-state-criminal-arrested-with-arms-animal-remains-in-meghalayas-ri-bhoi/1878147/)
+
+Article found but Couldn't summarize 
+Shillong, Dec 8 (PTI) A notorious inter-state &#8220;criminal&#8221; was arrested in Meghalaya&#8217;s Ri-Bhoi district on Friday with a huge cache of arms and animal remains, Chief Minister Conrad K Sangma said. He said it was a decisive blow to &#8220;the forces of darkness targeting our state&#8221;. &#8220;A notorious interstate criminal who is entangled in a [&#8230;]
+
+Fri, 08 Dec 2023 13:16:02 +0000
+### [Prince Harry loses bid to have publisher’s libel defence thrown out](https://theprint.in/entertainment/prince-harry-loses-bid-to-have-publishers-libel-defence-thrown-out/1878146/)
+
+Article found but Couldn't summarize 
+LONDON (Reuters) -Prince Harry on Friday lost his attempt to have the Mail on Sunday newspaper's defence to his libel lawsuit thrown out, meaning the British royal is likely to give evidence again at
+
+Fri, 08 Dec 2023 13:15:46 +0000
+### [Noted Kannada actor Leelavathi no more](https://theprint.in/feature/noted-kannada-actor-leelavathi-no-more/1878144/)
+
+Article found but Couldn't summarize 
+Bengaluru, Dec 8 (PTI) Eminent Kannada actor Leelavathi (85) who has worked in over 600 movies, including Tamil and Telugu, passed away at a private hospital in Nelamangala on the outskirts of Bengaluru city on Friday evening. Suffering from ailments related to old age, she was admitted to a private hospital where she breathed her [&#8230;]
+
+Fri, 08 Dec 2023 13:15:43 +0000
+### [Killings hit record high in 2021 as post-lockdown stress grew – UN](https://theprint.in/world/killings-hit-record-high-in-2021-as-post-lockdown-stress-grew-un/1878143/)
+
+Article found but Couldn't summarize 
+By Francois Murphy VIENNA (Reuters) - The number of murders and other intentional killings surged to a record high across the world in 2021, driven in part by the stress and economic pressures of
+
+Fri, 08 Dec 2023 13:15:31 +0000
+### [Mizoram government will give top priority to farmers, anti-corruption measures: CM Lalduhoma](https://theprint.in/india/mizoram-government-will-give-top-priority-to-farmers-anti-corruption-measures-cm-lalduhoma/1878141/)
+
+Article found but Couldn't summarize 
+Aizawl, Dec 8 (PTI) Newly sworn-in Mizoram Chief Minister Lalduhoma on Friday said the state government will give top priority to farmers and anti-corruption measures. Addressing a press conference soon after the swearing-in ceremony here, the 73-year-old leader announced 12 priority programmes of his government to be implemented in the next 100 days. &#8220;Our Zoram [&#8230;]
+
+Fri, 08 Dec 2023 13:15:29 +0000
+### [Ukraine’s parliament approves minorities bill, seen as key for EU talks](https://theprint.in/world/ukraines-parliament-approves-minorities-bill-seen-as-key-for-eu-talks/1878140/)
+
+Article found but Couldn't summarize 
+(Reuters) - The Ukrainian parliament on Friday approved three bills necessary to start European Union accession talks, including one on national minorities' rights, a critical demand from Hungary
+
+Fri, 08 Dec 2023 13:15:17 +0000
+### [France’s Macron criticised for Hanukkah candle lighting ceremony at Elysee](https://theprint.in/world/frances-macron-criticised-for-hanukkah-candle-lighting-ceremony-at-elysee/1878138/)
+
+Article found but Couldn't summarize 
+By Dominique Vidalon PARIS (Reuters) - French President Emmanuel Macron has been criticised by opponents for what they said was a violation of the principle of secularism after attending a ceremony on
+
+Fri, 08 Dec 2023 13:15:17 +0000
+### [CPI Kerala state secy Kanam Rajendran no more](https://theprint.in/india/cpi-kerala-state-secy-kanam-rajendran-no-more/1878137/)
+
+Article found but Couldn't summarize 
+Kochi, Dec 8 (PTI) CPI state secretary Kanam Rajendran died at a private hospital here on Friday, party sources said. He was 73. The senior leader of the Communist Party of India has been undergoing treatment at the hospital for ailments including diabetes. His right foot was recently amputated to contain the spread of an [&#8230;]
+
+Fri, 08 Dec 2023 13:15:04 +0000
+### [From top of Paris Notre-Dame spire, Macron pledges reopening in a year](https://theprint.in/world/from-top-of-paris-notre-dame-spire-macron-pledges-reopening-in-a-year/1878134/)
+
+Article found but Couldn't summarize 
+By Elizabeth Pineau and Geert De Clercq PARIS (Reuters) - From scaffolding at the top of Notre-Dame's newly rebuilt spire, French President Emmanuel Macron pledged on Friday that reconstruction of the
+
 Fri, 08 Dec 2023 12:32:40 +0000
 ### [Oakridge Junior Olympics 2023: A Celebration of Sportsmanship, Teamwork, and Unity](https://theprint.in/ani-press-releases/oakridge-junior-olympics-2023-a-celebration-of-sportsmanship-teamwork-and-unity/1878064/)
 

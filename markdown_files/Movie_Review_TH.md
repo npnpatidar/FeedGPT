@@ -1,3 +1,9 @@
+Fri, 08 Dec 2023 18:28:44 +0530
+### [‘Wonka’ movie review: Paul King’s engaging, decadent Christmas present](https://www.thehindu.com/entertainment/movies/wonka-movie-review-paul-kings-engaging-decadent-christmas-present/article67618135.ece)
+
+Article found but Couldn't summarize 
+With its bright pops of colour, delicious fountains of chocolate, a sniffy 18-inch Oompa-Loompa leading a charming, talented cast, this origin story of one of Roald Dahl’s most fascinating characters is a winner all the way
+
 Fri, 08 Dec 2023 17:49:59 +0530
 ### [‘Kadhikan’ movie review: Jayaraj’s film on Kathaprasangam is a good effort that falters in certain parts](https://www.thehindu.com/entertainment/movies/kadhikan-movie-review-jayarajs-film-on-kathaprasangam-is-a-good-effort-that-falters-in-certain-parts/article67617896.ece)
 

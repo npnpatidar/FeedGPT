@@ -1,3 +1,9 @@
+Fri, 08 Dec 2023 18:17:49 +0530
+### [Vantage | What India's 'return to democracy' message to Myanmar really means](https://www.firstpost.com/opinion/vantage-what-indias-return-to-democracy-message-to-myanmar-really-means-13482002.html)
+
+Article found but Couldn't summarize 
+Vantage | What India's 'return to democracy' message to Myanmar really means
+
 Fri, 08 Dec 2023 17:35:06 +0530
 ### [Vantage | Why Moody's downgrade hurt China and its markets so badly](https://www.firstpost.com/opinion/vantage-why-moodys-downgrade-hurt-china-and-its-markets-so-badly-13481912.html)
 

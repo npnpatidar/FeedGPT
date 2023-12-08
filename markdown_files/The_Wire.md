@@ -1,3 +1,9 @@
+2023-12-08T18:20:12+05:30
+### [Outrage Over 'Diversion of Healthcare Resources' For WB CM Mamata Banerjee's Family Event](https://thewire.in/politics/north-bengal-mamata-banerjee-nephew-wedding)
+
+No Article text 
+A medical team comprising over 100 individuals, including specialist doctors, nurses, and general practitioners from North Bengal, has currently been deputed to two luxury resorts.
+
 2023-12-08T17:42:02+05:30
 ### [Watch | Resumed Israel-Gaza War Worse than Before, Ceasefire Paramount Necessity: Oxfam CEO](https://thewire.in/video/resumed-israel-hamas-war-worse-ceasefire-paramount-necessity)
 

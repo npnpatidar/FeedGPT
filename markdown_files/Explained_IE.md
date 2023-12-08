@@ -1,3 +1,13 @@
+Fri, 08 Dec 2023 13:10:31 +0000
+### [Why Parliament passed the Advocates Amendment Bill, which aims to weed out ‘touts’](https://indianexpress.com/article/explained/explained-law/advocates-amendment-bill-2023-parliament-explained-9060190/)
+
+Article found but Couldn't summarize
+
+Fri, 08 Dec 2023 12:14:43 +0000
+### [De-extincting the dodo: Why scientists are planning to bring back the bird to Mauritius](https://indianexpress.com/article/explained/explained-sci-tech/dodo-mauritius-extinct-genomic-9059974/)
+
+As GPT-3.5, I can provide a summary of the article you shared. The article discusses an ambitious project to bring back the dodo bird, which went extinct in the 17th century. The project is a collaboration between Colossal Biosciences and the Mauritian Wildlife Foundation. The dodo's genome has been sequenced using DNA from a skull, and it is being compared to the genome of its closest relative, the Rodrigues solitaire. The Nicobar pigeon's primordial germ cells will be edited to express the physical traits of a dodo, and then inserted into the embryos of chickens acting as surrogates. The restored dodo will physically resemble the original species. However, there are challenges in recreating a species from DNA, and it may take years of selective breeding to enhance the bird. The project also faces challenges in reintroducing the dodo to its once-native habitat in Mauritius, as the environment has changed. The project aims to restore the dodo's fragile ecosystem and inspire conservation efforts.
+
 Fri, 08 Dec 2023 08:47:30 +0000
 ### [A tale of two recoveries: How Chennai’s industrial landscape is dealing with the aftermath of Cyclone Michaung](https://indianexpress.com/article/explained/chennai-industrial-landscape-cyclone-michaung-flood-9059626/)
 
