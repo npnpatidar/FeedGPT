@@ -1,3 +1,9 @@
+2023-12-08T10:43:23+05:30
+### [Prashant Bhushan Writes to SC Registrar on 'Arbitrary' Allocation of Cases to Justice Bela M. Trivedi](https://thewire.in/law/prashant-bhushan-writes-to-sc-registrar-on-arbitrary-allocation-of-cases-to-justice-bela-m-trivedi)
+
+No Article text 
+Meanwhile, the Supreme Court Bar Association has also written to CJI Chandrachud, expressing "full faith and confidence in the neutrality and unprecedent administrative skill" of the CJI.
+
 2023-12-08T09:37:22+05:30
 ### [NSA Ajit Doval Underlines Importance of Colombo Security Conclave, Co-Founder Maldives Skips Meeting](https://thewire.in/diplomacy/nsa-ajit-doval-underlines-importance-of-colombo-security-conclave-co-founder-maldives-skips-meeting)
 

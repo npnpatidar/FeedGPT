@@ -1,3 +1,9 @@
+Fri, 08 Dec 2023 10:36:13 +0530
+### [Apple cybersecurity team meets CERT-In over Opposition leaders' iPhone security alerts](https://www.firstpost.com/tech/apple-cybersecurity-team-meets-cert-in-over-opposition-leaders-iphone-security-alerts-13479642.html)
+
+Article found but Couldn't summarize 
+Apple cybersecurity team meets CERT-In over Opposition leaders' iPhone security alerts
+
 Thu, 07 Dec 2023 17:16:40 +0530
 ### [Deepfake Menace: Ratan Tata latest to get deepfaked, scammers promote investment scam using fake video](https://www.firstpost.com/world/deepfake-menace-ratan-tata-latest-to-get-deepfaked-scammers-promote-investment-scam-using-fake-video-13478102.html)
 

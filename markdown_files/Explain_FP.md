@@ -1,3 +1,9 @@
+Fri, 08 Dec 2023 10:40:42 +0530
+### [Mahua Moitra report to be tabled in Lok Sabha: Is TMC MP’s expulsion imminent?](https://www.firstpost.com/explainers/mahua-moitra-cash-for-query-report-tabled-in-parliament-is-the-trinamool-mps-expulsion-imminent-13479612.html)
+
+Article found but Couldn't summarize 
+Mahua Moitra report to be tabled in Lok Sabha: Is TMC MP’s expulsion imminent?
+
 Fri, 08 Dec 2023 09:13:47 +0530
 ### [What does a net zero world look like? Here's what experts say](https://www.firstpost.com/explainers/what-does-a-net-zero-world-look-like-heres-what-experts-say-13478302.html)
 

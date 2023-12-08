@@ -1,3 +1,9 @@
+Fri, 08 Dec 2023 10:01:22 +0530
+### [Remaking of ‘NaMo app’ as a trusted news source a Modi govt strategy to own the narrative and set 2024 campaign agenda](https://www.firstpost.com/opinion/remaking-of-namo-app-as-a-trusted-news-source-a-modi-govt-strategy-to-own-the-narrative-and-set-2024-campaign-agenda-13479402.html)
+
+Article found but Couldn't summarize 
+Remaking of ‘NaMo app’ as a trusted news source a Modi govt strategy to own the narrative and set 2024 campaign agenda
+
 Fri, 08 Dec 2023 09:01:29 +0530
 ### [India must hold mirror to US during FBI chief’s visit, assert right to take out enemies overseas](https://www.firstpost.com/opinion/india-must-hold-mirror-to-us-during-fbi-chiefs-visit-assert-right-to-take-out-enemies-overseas-13479232.html)
 

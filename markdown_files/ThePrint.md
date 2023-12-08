@@ -1,3 +1,117 @@
+Fri, 08 Dec 2023 05:08:58 +0000
+### [AIIMS can’t shift patient burden onto states. Steel frame of India’s healthcare is Centre’s job](https://theprint.in/feature/around-town/aiims-cant-shift-patient-burden-onto-states-steel-frame-of-indias-healthcare-is-centres-job/1877159/)
+
+AIIMS, the All India Institute of Medical Sciences, Delhi, has a rich legacy since its establishment in 1956. It has evolved to become a prominent hub of medical research, healthcare, and technology in India. AIIMS Delhi treats a significant number of patients every day, around 15,000. The institute is expanding its presence across India, with institutes in Jodhpur and Guwahati. However, it still faces challenges in managing the influx of patients. The director of AIIMS emphasized the need for collaboration with other hospitals in Delhi to address this issue. AIIMS also plays a crucial role in advising policy changes and advocating for indigenous solutions in healthcare.
+
+Fri, 08 Dec 2023 05:05:12 +0000
+### [YouTube favourite to OTT darling—TVF’s success has even Bollywood calling](https://theprint.in/ground-reports/youtube-favourite-to-ott-darling-tvfs-success-has-even-bollywood-calling/1876714/)
+
+Article found but Couldn't summarize 
+TVF has cracked the code for what viewers want. It makes feel-good shows that speak to middle-class India’s dreams such as clearing the UPSC and owning a home.
+
+Fri, 08 Dec 2023 05:02:32 +0000
+### [India allows Non-Basmati rice exports to another 5 countries](https://theprint.in/economy/india-allows-non-basmati-rice-exports-to-another-5-countries/1877334/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 8 (ANI): India has allowed the export of non-basmati white rice in varying quantities to Comoros, Madagascar, Equatorial Guinea, Egypt, and Kenya, an official notification said. Notably, the export of non-Basmati white rice was prohibited on July 20 to check domestic prices and ensure domestic food security. Earlier, India allowed the [&#8230;]
+
+Fri, 08 Dec 2023 05:02:22 +0000
+### [Saankhya Labs secures Rs. 96.42 Crores provisional purchase order from NSIL, Department of Space, for indigenous Satcom Xponders on fishing vessels](https://theprint.in/ani-press-releases/saankhya-labs-secures-rs-96-42-crores-provisional-purchase-order-from-nsil-department-of-space-for-indigenous-satcom-xponders-on-fishing-vessels/1877332/)
+
+Saankhya Labs, a subsidiary of Tejas Networks, has received a Provisional Purchase order worth Rs. 96.42 Crores from NSIL (NewSpace India Limited). The order is for the supply, installation, and commissioning of Two-Way MSS Terminals (Xponders) for vessel communication and support system in Marine Fishing Vessels for Monitoring, Control, and Surveillance (MCS) along the coastal states of India. Saankhya Labs will deploy its indigenously designed and developed satellite terminals on motorized and mechanized fishing vessels to enhance safety and security for fishermen. The terminals will also provide navigational assistance, automatic boundary crossing alarm, and emergency weather alerts. This project aims to improve fishermen's livelihood and safety while promoting the deployment of indigenous Satcom solutions. For more information, you can visit Saankhya Labs at www.saankhyalabs.com.
+
+Fri, 08 Dec 2023 05:02:13 +0000
+### [Startek Secures Another Prestigious Great Place to Work Certification in the Philippines for 2023](https://theprint.in/ani-press-releases/startek-secures-another-prestigious-great-place-to-work-certification-in-the-philippines-for-2023/1877330/)
+
+Startek, a global customer experience solutions provider, has been certified as a Great Place To Work® company in the Philippines. This certification reflects Startek's commitment to creating an exceptional work environment where associates feel valued, empowered, and motivated to excel. The certification is based on a remarkable 79% overall associate satisfaction rate, as determined through research-backed surveys and questionnaires. Startek believes in hiring talented individuals, providing them with the necessary tools for success, and fostering a culture of collaboration. The company is dedicated to delivering the highest level of service to its clients.
+
+Fri, 08 Dec 2023 05:02:02 +0000
+### [RBI maintains status quo in policy rate for 5th time now](https://theprint.in/economy/rbi-maintains-status-quo-in-policy-rate-for-5th-time-now/1877328/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 8 (ANI): The Monetary Policy Committee of the Reserve Bank of India (RBI) in its December review meeting unanimously decided to keep the policy repo rate unchanged at 6.5 per cent, thus maintaining status quo for the fifth straight time. Deliberating the policy statement on Friday morning, RBI Governor Shaktikanta Das [&#8230;]
+
+Fri, 08 Dec 2023 05:00:43 +0000
+### [Tarsem Singh Dhandwar’s ‘Dear Jassi’ wins Silver Yusr for best feature film at Red Sea Int Film Fest](https://theprint.in/feature/tarsem-singh-dhandwars-dear-jassi-wins-silver-yusr-for-best-feature-film-at-red-sea-int-film-fest/1877327/)
+
+As GPT-3.5, I can provide a summary of the article you shared. "Dear Jassi," a film inspired by a real-life honor killing in Punjab, won the Silver Yusr Award for best feature film at the Red Sea International Film Festival 2023. Directed by Tarsem Singh Dhandwar, the Punjabi-English romance drama received this accolade at a ceremony held in Jeddah, Saudi Arabia. The film tells the story of Indian Canadian Jassi, who falls in love with an illiterate rickshaw driver named Mithu. The film's synopsis describes it as a restrained and humorous portrayal of their romance, with a culminating emotional impact. "Dear Jassi" previously won the Platform Award at the Toronto International Film Festival. The Red Sea International Festival also honored Hollywood actors Nicolas Cage and Diane Kruger, Indian actor Ranveer Singh, and Saudi Arabian actor-writer Abdullah Al-Sadhan with honorary Yusr Awards.
+
+Fri, 08 Dec 2023 05:00:33 +0000
+### [Former T’gana CM KCR admitted to hospital after fall, may require surgery](https://theprint.in/india/former-tgana-cm-kcr-admitted-to-hospital-after-fall-may-require-surgery/1877326/)
+
+Article found but Couldn't summarize 
+Hyderabad, Dec 8 (PTI) Former Telangana Chief Minister K Chandrasekhar Rao was admitted to a private super-specialty hospital here following a fall and a fracture is suspected which might require surgery, sources said on Friday. Rao, who quit as chief minister on December 3 following his party&#8217;s defeat in the recent assembly elections, has been [&#8230;]
+
+Fri, 08 Dec 2023 05:00:24 +0000
+### [RBI retains repo rate at 6.5 pc for fifth time in a row](https://theprint.in/economy/rbi-retains-repo-rate-at-6-5-pc-for-fifth-time-in-a-row/1877325/)
+
+The Reserve Bank of India has decided to maintain the policy rate at 6.5 percent, marking the fifth consecutive time it has remained unchanged. This decision comes as the central bank continues to closely monitor inflation. The rate increase cycle was halted in April after six consecutive rate hikes, totaling to 250 basis points since May 2022. The Monetary Policy Committee (MPC) unanimously agreed to keep the repo rate at 6.5 percent and will remain focused on actively reducing inflation. The growth projection for the current financial year has been raised from 6.5 percent to 7 percent. The central bank projects consumer price-based inflation to be at 5.4 percent for this fiscal year. The MPC meeting was held with inflation declining to 4.87 percent in October, and the November figures are expected to be released soon. The government has mandated the RBI to maintain CPI inflation at 4 percent with a margin of 2 percent on either side.
+
+Fri, 08 Dec 2023 05:00:13 +0000
+### [PM Modi wishes KCR speedy recovery](https://theprint.in/india/pm-modi-wishes-kcr-speedy-recovery/1877324/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 8 (PTI) Prime Minister Narendra Modi on Friday wished a speedy recovery to former Telangana chief minister K Chandrasekhar Rao, who has been hospitalised after a fall. He said on X, &#8220;Distressed to know that former Telangana CM Shri KCR Garu has suffered an injury. I pray for his speedy recovery and [&#8230;]
+
+Fri, 08 Dec 2023 05:00:02 +0000
+### [Indian-origin motel owner shot dead in US](https://theprint.in/world/indian-origin-motel-owner-shot-dead-in-us/1877323/)
+
+Article found but Couldn't summarize 
+Washington, Dec 8 (PTI) A 46-year-old Indian-origin motel owner in Newport city in the US state of North Carolina was shot dead by a homeless trespasser, who barricaded himself inside a room at the property before taking his own life, police said. Satyen Naik was discovered with a gunshot wound outside the motel when police [&#8230;]
+
+Fri, 08 Dec 2023 04:47:40 +0000
+### [Bugworks Research Inc. to Present Poster at the European Society for Medical Oncology (ESMO) Immuno-Oncology Congress 2023, in Geneva, Switzerland](https://theprint.in/ani-press-releases/bugworks-research-inc-to-present-poster-at-the-european-society-for-medical-oncology-esmo-immuno-oncology-congress-2023-in-geneva-switzerland/1877319/)
+
+Article found but Couldn't summarize 
+PRNewswire Bangalore (Karnataka) [India]/Saratoga (California) [US]/Adelaide [Australia], December 8: Bugworks Research Inc., a clinical-stage biopharmaceutical company, is presenting the research findings on its novel, best-in-class, dual-acting adenosine antagonists BWC2094 and BWC2562 with the potential to treat a variety of hard-to-treat cancers, at the European Society for Medical Oncology (ESMO) Immuno-Oncology Congress 2023 in Geneva, Switzerland [&#8230;]
+
+Fri, 08 Dec 2023 04:47:28 +0000
+### [Nexteer Recognized on Newsweek’s America’s Most Responsible Companies 2024 List](https://theprint.in/ani-press-releases/nexteer-recognized-on-newsweeks-americas-most-responsible-companies-2024-list/1877317/)
+
+Nexteer Automotive has been recognized as one of America's Most Responsible Companies for the fourth time in five years. This prestigious award, presented by Newsweek and Statista Inc., acknowledges Nexteer's commitment to environmental, social, and corporate governance (ESG) performance. The ranking considers key performance indicators (KPIs) and a public survey evaluating corporate social responsibility (CSR) reputation. Nexteer's sustainability efforts align with their vision of being a global leader in motion control technology, focusing on areas such as business ethics, supply chain, environmental health and safety, community, and value creation. To learn more about Nexteer's ESG/sustainability efforts, you can visit their sustainability webpage.
+
+Fri, 08 Dec 2023 04:47:13 +0000
+### [“Enough is enough”: Canada doubles student visa financial onus to curb frauds](https://theprint.in/world/enough-is-enough-canada-doubles-student-visa-financial-onus-to-curb-frauds/1877315/)
+
+Article found but Couldn't summarize 
+Ottawa [Canada], December 8 (ANI): Canada&#8217;s Immigration Minister, Marc Miller, announced a substantial increase in the financial criteria for international students applying for study permits, emphasising the government&#8217;s commitment to safeguarding the integrity of the education system, CBC reported. Miller also issued a stern warning, threatening to &#8220;significantly limit visas&#8221; if provinces and educational institutions [&#8230;]
+
+Fri, 08 Dec 2023 04:47:01 +0000
+### [India allows Non-Bbasmati rice exports to another 5 countries](https://theprint.in/economy/india-allows-non-bbasmati-rice-exports-to-another-5-countries/1877313/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 8 (ANI): India has allowed the export of non-basmati white rice in varying quantities to Comoros, Madagascar, Equatorial Guinea, Egypt, and Kenya, an official notification said. Notably, the export of non-Basmati white rice was prohibited on July 20 to check domestic prices and ensure domestic food security. Earlier, India allowed the [&#8230;]
+
+Fri, 08 Dec 2023 04:46:19 +0000
+### [Golf-McIlroy calls for Ryder Cup rules change after Rahm’s LIV move](https://theprint.in/sport/golf-mcilroy-calls-for-ryder-cup-rules-change-after-rahms-liv-move/1877311/)
+
+Article found but Couldn't summarize 
+(Reuters) - The DP World Tour must "rewrite the rules" on eligibility for the Ryder Cup following Jon Rahm's stunning move to the Saudi-backed LIV Golf circuit, world number two Rory McIlroy said.
+
+Fri, 08 Dec 2023 04:46:09 +0000
+### [Tencent reveals most ambitious game yet for consoles amid global expansion](https://theprint.in/tech/tencent-reveals-most-ambitious-game-yet-for-consoles-amid-global-expansion/1877309/)
+
+Article found but Couldn't summarize 
+By Josh Ye HONG KONG (Reuters) - Chinese tech giant Tencent Holdings unveiled on Friday a big-budget console game named Last Sentinel, a title seen as the mobile gaming giant's most ambitious foray
+
+Fri, 08 Dec 2023 04:45:51 +0000
+### [ASEAN strongly condemns Sunday’s ‘heinous terrorist attack’ in Philippines](https://theprint.in/world/asean-strongly-condemns-sundays-heinous-terrorist-attack-in-philippines/1877307/)
+
+Article found but Couldn't summarize 
+MANILA (Reuters) - The Southeast Asian bloc ASEAN on Friday strongly condemned what it called a "heinous terrorist attack" in the southern Philippines at the weekend in which four people were killed
+
+Fri, 08 Dec 2023 04:45:40 +0000
+### [Apple aims to build more than 50 million iPhones annually in India – WSJ](https://theprint.in/india/apple-aims-to-build-more-than-50-million-iphones-annually-in-india-wsj/1877305/)
+
+Article found but Couldn't summarize 
+(Reuters) - Apple and its suppliers aim to build more than 50 million iPhones in India each year, within the next two-to-three years, with additional tens of millions of units planned thereafter, the
+
+Fri, 08 Dec 2023 04:45:29 +0000
+### [US jobs data seen key for Indian rupee compared to RBI policy decision](https://theprint.in/india/us-jobs-data-seen-key-for-indian-rupee-compared-to-rbi-policy-decision/1877303/)
+
+Article found but Couldn't summarize 
+By Jaspreet Kalra MUMBAI (Reuters) - The Indian rupee was flat on Friday as market participants reckoned that U.S. jobs data due later in the day is likely to be the bigger cue for the unit as
+
 Fri, 08 Dec 2023 04:17:27 +0000
 ### [Esha Deol pens adorable birthday wish for her “darling papa” Dharmendra](https://theprint.in/feature/esha-deol-pens-adorable-birthday-wish-for-her-darling-papa-dharmendra/1877287/)
 
