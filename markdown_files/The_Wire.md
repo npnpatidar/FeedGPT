@@ -1,3 +1,9 @@
+2023-12-09T21:47:08+05:30
+### [J&K Police Officer Shot by Suspected Militants on Outskirts of Srinagar](https://thewire.in/security/jk-police-officer-shot-by-suspected-militants-on-outskirts-of-srinagar)
+
+No Article text 
+A senior police official said that the attack took place on Saturday evening, December 9, when suspected militants shot the police constable identified as Hafiz Mohammad Chad, in Hamdania Colony of Bemina.
+
 2023-12-09T17:27:54+05:30
 ### [BSP Suspends Danish Ali Day After He Protested Against Expulsion of TMC MP Mahua Moitra](https://thewire.in/politics/bsp-suspends-danish-ali-day-after-he-protested-against-expulsion-of-tmc-mp-mahua-moitra)
 

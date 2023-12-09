@@ -1,3 +1,119 @@
+Sat, 09 Dec 2023 16:15:40 +0000
+### [Safdarjung Hospital Resident doctor hangs self at house in south Delhi](https://theprint.in/india/safdarjung-hospital-resident-doctor-hangs-self-at-house-in-south-delhi/1879542/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 9 (PTI) A 25-year-old resident doctor of Safdarjung Hospital hanged himself from the ceiling fan of his rented accommodation in south Delhi&#8217;s Hauz Khas, reportedly out of depression, police said on Saturday. Dr Jay Dipesh Savla, a native of Maharashtra, was found dead at his Gautam Nagar house Friday evening, police said. [&#8230;]
+
+Sat, 09 Dec 2023 16:15:30 +0000
+### [Man, 50, killed in stray bull attack in UP village](https://theprint.in/india/man-50-killed-in-stray-bull-attack-in-up-village/1879541/)
+
+Article found but Couldn't summarize 
+Muzaffarnagar (UP), Dec 9 (PTI) A 50-year-old man was killed on Saturday in an attack by a stray bull in a village here, police said. Two women also were injured in the same attack, they said. &#8220;Satish Saini and his wife Maya Devi and a relative one Kunta Devi were working in the field when [&#8230;]
+
+Sat, 09 Dec 2023 16:15:16 +0000
+### [EU condemns ‘out of whack’ OPEC attempt to block COP28 fossil fuel deal](https://theprint.in/world/eu-condemns-out-of-whack-opec-attempt-to-block-cop28-fossil-fuel-deal/1879539/)
+
+Article found but Couldn't summarize 
+By Kate Abnett and Mohammed Benmansour DUBAI (Reuters) - The European Union's climate chief on Saturday heavily criticised an attempt by OPEC to derail a COP28 deal on phasing out fossil fuels,
+
+Sat, 09 Dec 2023 16:15:16 +0000
+### [England beat India by four wickets in second T20I, win series](https://theprint.in/sport/england-beat-india-by-four-wickets-in-second-t20i-win-series/1879538/)
+
+England defeated India by four wickets in the second T20I, securing a 2-0 lead in the three-game series. India, choosing to bat first, scored only 80 runs in 16.2 overs. Charlotte Dean, Lauren Bell, Sarah Glenn, and Sophie Ecclestone, with two wickets each, led England's disciplined bowling effort. In their chase, England reached the target in 11.2 overs, scoring 82 runs for the loss of six wickets. Jemimah Rodrigues top-scored for India with 30 runs. Renuka Singh and Deepti Sharma took two wickets each for India. Despite their efforts, England emerged victorious with Alice Capsey scoring 25 runs. This article was auto-generated from the PTI news service.
+
+Sat, 09 Dec 2023 16:15:04 +0000
+### [US govt uses emergency authority to provide tank shells to Israel](https://theprint.in/world/us-govt-uses-emergency-authority-to-provide-tank-shells-to-israel/1879536/)
+
+Article found but Couldn't summarize 
+By Humeyra Pamuk WASHINGTON (Reuters) -The Biden administration has used an emergency authority to allow the sale of about 14,000 tank shells to Israel without congressional review, the Pentagon said
+
+Sat, 09 Dec 2023 16:15:02 +0000
+### [Former T’gana CM KCR recovering well post surgery, says hospital](https://theprint.in/india/former-tgana-cm-kcr-recovering-well-post-surgery-says-hospital/1879535/)
+
+Article found but Couldn't summarize 
+Hyderabad, Dec 9 (PTI) Doctors treating former Telangana Chief Minister K Chandrasekhar Rao, who underwent a hip replacement surgery following a fracture due to a fall at his residence, are satisfied with his progress post the operation, the hospital said on Saturday. Rao (69) is medically stable, pain free and has rested well through the [&#8230;]
+
+Sat, 09 Dec 2023 16:02:02 +0000
+### [Pakistan: Court rejects Pakistan Tehreek-e-Insaf leader Asad Umar’s bail in Askari Tower attack case](https://theprint.in/world/pakistan-court-rejects-pakistan-tehreek-e-insaf-leader-asad-umars-bail-in-askari-tower-attack-case/1879532/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 9 (ANI): The Anti-Terrorism Court (ATC) in Lahore rejected the interim bail of former Pakistan Tehreek-e-Insaf (PTI) leader Asad Umar in the May 9 Askari Tower attack case, ARY News reported on Saturday. ATC Admin Judge Ubhar Gul rejected Asad Umar&#8217;s bail plea and started trial in the case. An Anti-Terrorism Court [&#8230;]
+
+Sat, 09 Dec 2023 16:00:55 +0000
+### [Teenage domestic worker stripped naked, bitten by dogs by employers in Gurgaon](https://theprint.in/india/teenage-domestic-worker-stripped-naked-bitten-by-dogs-by-employers-in-gurgaon/1879531/)
+
+Article found but Couldn't summarize 
+Gurugram, Dec 9 (PTI) A 13-year-old domestic help was allegedly beaten up, bitten by a dog, and forced to strip by the members of the family she worked for in the Sector 57 area, police said on Saturday. According to the complaint filed by the girl&#8217;s mother, the lady of the house where the girl [&#8230;]
+
+Sat, 09 Dec 2023 16:00:45 +0000
+### [Where there is a scam, there is a Congress leader: Smriti Irani on cash recovery](https://theprint.in/india/where-there-is-a-scam-there-is-a-congress-leader-smriti-irani-on-cash-recovery/1879530/)
+
+Article found but Couldn't summarize 
+Amethi (UP), Dec 9 (PTI) Union minister Smriti Irani on Saturday took a dig at the Congress over the recovery of &#8220;unaccounted&#8221; cash from the premises of a party leader during income tax raids, saying this is not the first time a Congress MP is found involved in &#8220;corruption&#8221;. The seizure of &#8220;unaccounted&#8221; cash after [&#8230;]
+
+Sat, 09 Dec 2023 16:00:34 +0000
+### [Commotion outside Wankhede stadium during India Vs England women’s T20 match](https://theprint.in/sport/commotion-outside-wankhede-stadium-during-india-vs-england-womens-t20-match/1879529/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 9 (PTI) A commotion was witnessed outside Wankhede Stadium in south Mumbai during an India versus England women&#8217;s T20 cricket match on Saturday evening as a lot of people tried to enter the stadium at once, police said. The authorities had provided free entry through QR codes, said an official. But they did [&#8230;]
+
+Sat, 09 Dec 2023 16:00:23 +0000
+### [Oxygen cylinder explodes during transport in Nashik](https://theprint.in/india/oxygen-cylinder-explodes-during-transport-in-nashik/1879528/)
+
+Article found but Couldn't summarize 
+Nashik, Dec 9 (PTI) An oxygen cylinder exploded while it was transported in a vehicle in Nashik city of Maharashtra on Saturday evening, causing minor injuries to some people, police said. Due to the impact of the blast, some vehicles suffered damage and the windowpanes of a shop and some houses in the vicinity shattered. [&#8230;]
+
+Sat, 09 Dec 2023 16:00:13 +0000
+### [It’s not winter yet in Kolkata, chill in air due to rains](https://theprint.in/india/its-not-winter-yet-in-kolkata-chill-in-air-due-to-rains/1879527/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 9 (PTI) Winter is yet to arrive in Kolkata and the chill in the air is due to the unseasonal rains that drenched the city earlier this week, a weather official said on Saturday. A minimum temperature of below 15 degrees Celsius is considered winter in the city, he said. The city&#8217;s temperature [&#8230;]
+
+Sat, 09 Dec 2023 16:00:02 +0000
+### [First phase of Mumbai’s coastal road to be operational by January end: Shinde](https://theprint.in/india/first-phase-of-mumbais-coastal-road-to-be-operational-by-january-end-shinde-2/1879526/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 9 (PTI) The first phase of Mumbai’s ambitious coastal road, from Marine Drive to Worli, will be operational by the end of January 2024, said Maharashtra Chief Minister Eknath Shinde on Saturday. Speaking at an event here, Shinde called Maharashtra a growth engine which has the most number of infrastructure projects in the [&#8230;]
+
+Sat, 09 Dec 2023 15:45:26 +0000
+### [India responded to challenge at northern border very resolutely: Jaishankar](https://theprint.in/india/india-responded-to-challenge-at-northern-border-very-resolutely-jaishankar/1879525/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 9 (PTI) India has had an &#8220;exceptionally difficult&#8221; challenge along the northern borders in the last three years and the country responded to it very resolutely and has been maintaining the kind of military deployment necessary for national security, External Affairs Minister S Jaishankar said on Saturday on the lingering row in [&#8230;]
+
+Sat, 09 Dec 2023 15:45:14 +0000
+### [It’s encouraging when you do well out of your comfort zone: Suryakumar on SA series](https://theprint.in/sport/its-encouraging-when-you-do-well-out-of-your-comfort-zone-suryakumar-on-sa-series/1879524/)
+
+As GPT-3.5, I can provide a brief summary of the article you shared. The article discusses the upcoming T20I series between South Africa and India. Captain Suryakumar Yadav believes that playing outside of India's comfort zone will motivate the players to perform well. He praises the young Indian squad for their fearlessness and expresses confidence in their ability to handle the bounce and pace of South African pitches. Suryakumar also mentions that the limited number of T20 matches before the T20 World Cup is not a concern as the players have gained experience through the IPL. He concludes by stating that the series win against Australia in the T20 format was a morale booster for the team.
+
+Sat, 09 Dec 2023 15:45:03 +0000
+### [US OKs potential sale of tank cartridges to Israel for $106.5 million](https://theprint.in/world/us-oks-potential-sale-of-tank-cartridges-to-israel-for-106-5-million/1879522/)
+
+Article found but Couldn't summarize 
+(Reuters) - The U.S. State Department has approved the potential sale of tank cartridges and related equipment to Israel for an estimated $106.5 million, the Pentagon said on Saturday. The sale will
+
+Sat, 09 Dec 2023 15:45:02 +0000
+### [First phase of Mumbai’s coastal road to be operational by January end: Shinde](https://theprint.in/india/first-phase-of-mumbais-coastal-road-to-be-operational-by-january-end-shinde/1879521/)
+
+The first phase of Mumbai's coastal road project, connecting Marine Drive to Worli, is expected to be operational by the end of January 2024, according to Maharashtra Chief Minister Eknath Shinde. The project, undertaken by the Brihanmumbai Municipal Corporation (BMC), aims to alleviate northbound traffic in Mumbai. Additionally, the Mumbai Trans-Harbour Link (MTHL) project from Sewri to Nhava Sheva is set to be completed this month, reducing travel time from 2 hours to 15 minutes over a distance of 22 km. These infrastructure projects are part of Maharashtra's growth initiatives and have been resumed by the current government.
+
+Sat, 09 Dec 2023 15:30:43 +0000
+### [Modi driving force behind policies that empower citizens: Union minister Som Parkash](https://theprint.in/india/modi-driving-force-behind-policies-that-empower-citizens-union-minister-som-parkash/1879520/)
+
+Article found but Couldn't summarize 
+Hoshiarpur, Dec 9 (PTI) Union Minister of State for Commerce and Industry Som Prakash Saturday said Prime Minister Narendra Modi is the driving force behind policies that empower citizens and foster inclusive development. He emphasised that the vision to make India a &#8216;Viksit Bharat&#8217; might be achieved even before 2047 with the prime minister&#8217;s leadership [&#8230;]
+
+Sat, 09 Dec 2023 15:30:33 +0000
+### [Remote village in J-K’s Poonch to get road connectivity for the first time since Independence](https://theprint.in/india/remote-village-in-j-ks-poonch-to-get-road-connectivity-for-the-first-time-since-independence/1879519/)
+
+The residents of Chella Dhangri, a remote village in Jammu and Kashmir’s Poonch district, have been waiting for road connectivity since Independence. However, their demand will soon be fulfilled as work on the upcoming road connecting the village to Atoli and the tehsil headquarters is progressing. Poonch Deputy Commissioner Yasin M Choudhary recently inspected the pace of work and the villagers are hopeful for the project's speedy completion. In addition, the deputy commissioner attended the ‘Viksit Bharat Sankalp Yatra’ at Kenu Kalani panchayat to raise awareness about the government's flagship schemes and programs. This initiative aims to inform and empower citizens, ensuring that all the unreached beneficiaries are covered.
+
+Sat, 09 Dec 2023 15:30:23 +0000
+### [MP: Muslim woman beaten up by hubby’s brother for voting in BJP’s favour; CM meets her](https://theprint.in/india/mp-muslim-woman-beaten-up-by-hubbys-brother-for-voting-in-bjps-favour-cm-meets-her/1879518/)
+
+Article found but Couldn't summarize 
+Sehore/ Bhopal, Dec 9 (PTI) A 30-year-old Muslim woman has claimed that she was beaten up by her brother-in-law for voting in favour of BJP in Madhya Pradesh assembly polls and celebrating the party victory, an incident prompting chief minister Shivraj Singh Chouhan to reach out to the victim. Chouhan on Saturday invited the woman [&#8230;]
+
 Sat, 09 Dec 2023 15:15:36 +0000
 ### [PM Modi pens poem during visit to PTI headquarters](https://theprint.in/india/pm-modi-pens-poem-during-visit-to-pti-headquarters/1879505/)
 
