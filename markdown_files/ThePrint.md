@@ -1,3 +1,20 @@
+Sat, 09 Dec 2023 21:06:32 +0000
+### [Killers of Karni Sena faction chief Gogamedi arrested from Chandigarh](https://theprint.in/india/killers-of-karni-sena-faction-chief-gogamedi-arrested-from-chandigarh/1879693/)
+
+Article found but Couldn't summarize 
+Joint operation to nab killers of Rashtriya Rajput Karni Sena chief Sukhdev Singh Gogamedi was carried out by Delhi Police Crime Branch &#38; Rajasthan Police, it is learnt.
+
+Sat, 09 Dec 2023 21:02:02 +0000
+### [UAE: Govt of Umm Al Qaiwain announces initiatives supporting Sustainable Blue Economy in emirate at COP28](https://theprint.in/world/uae-govt-of-umm-al-qaiwain-announces-initiatives-supporting-sustainable-blue-economy-in-emirate-at-cop28/1879696/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 10 (ANI/WAM): The Government of Umm Al Qaiwain, in close partnership with the UAE Ministry of Economy and Emirates Nature-WWF, has announced the launch of an initiative to develop a set of robust Sustainable Blue Economy (SBE) guidelines spanning key sectors such as Tourism and Recreation, Built Environment, and Blue Food, among [&#8230;]
+
+Sat, 09 Dec 2023 20:45:10 +0000
+### [Cricket-Forde gets first Windies T20 call up for England series](https://theprint.in/sport/cricket-forde-gets-first-windies-t20-call-up-for-england-series/1879694/)
+
+As GPT-3.5, I can provide a summary of the article you shared. West Indies has announced their T20 squad for the upcoming series against England. Seamer Matthew Forde has been included in the squad for the first time, along with the return of all-rounder Sherfane Rutherford and Gudakesh Motie. Andre Russell, who last played for West Indies in the 2021 T20 World Cup, is also back in the squad. This series will be West Indies' last home T20 series in 2023 before co-hosting the World Cup in June. The lead selector, Desmond Haynes, mentioned that the squad has been chosen with the aim of success in the upcoming tournament. The series is scheduled to take place from December 12 to 21.
+
 Sat, 09 Dec 2023 20:17:02 +0000
 ### [Ebrahim Raisi meets Vladimir Putin, calls cooperation with Russia important in Iran’s neighbourhood policy](https://theprint.in/world/ebrahim-raisi-meets-vladimir-putin-calls-cooperation-with-russia-important-in-irans-neighbourhood-policy/1879687/)
 
