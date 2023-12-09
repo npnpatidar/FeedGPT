@@ -1,3 +1,39 @@
+Sat, 09 Dec 2023 22:47:02 +0000
+### [Pakistan: Anti-terrorism court cancels arrest warrant of PML-N leader Marriyum Aurangzeb](https://theprint.in/world/pakistan-anti-terrorism-court-cancels-arrest-warrant-of-pml-n-leader-marriyum-aurangzeb/1879727/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 10 (ANI): An anti-terrorism court (ATC) on Saturday cancelled the arrest warrant of Pakistan&#8217;s former Information and Broadcasting Minister Marriyum Aurangzeb in a hate speech case, Pakistan-based ARY News reported. As per the details, the Pakistan Muslim League (PML-N) leader appeared before the ATC in a hate speech case against her in [&#8230;]
+
+Sat, 09 Dec 2023 22:45:03 +0000
+### [Rajpur leader’s murder: Two shooters among three held in Chandigarh](https://theprint.in/india/rajpur-leaders-murder-two-shooters-among-three-held-in-chandigarh/1879726/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 10 (PTI) In a joint operation with the Rajasthan Police, the Delhi Police Crime Branch has arrested three men, including two shooters, from Chandigarh for their alleged involvement in the killing of Shri Rashtriya Rajput Karni Sena chief Sukhdev Singh Gogamedi, officials said Sunday. Gogamedi was gunned down in the living room [&#8230;]
+
+Sat, 09 Dec 2023 22:17:01 +0000
+### [Rome: Four people dead, over 200 evacuated as fire breaks out at hospital](https://theprint.in/world/rome-four-people-dead-over-200-evacuated-as-fire-breaks-out-at-hospital/1879724/)
+
+Article found but Couldn't summarize 
+Rome [Italy], December 10 (ANI): At least four people have died and more than 200 people have been evacuated after a fire erupted near the mortuary of the San Giovanni Evangelista hospital in Rome&#8217;s Tivoli on Friday night (local time), CNN reported, citing Italy&#8217;s fire brigade. The fire erupted on the lower level between the [&#8230;]
+
+Sat, 09 Dec 2023 22:15:44 +0000
+### [Soccer-Inter thrash Udinese 4-0 to reclaim top spot](https://theprint.in/sport/soccer-inter-thrash-udinese-4-0-to-reclaim-top-spot/1879722/)
+
+Article found but Couldn't summarize 
+MILAN (Reuters) - Inter Milan beat lowly Udinese 4-0 at home in a dominant performance highlighted by a superb long-range effort from Lautaro Martinez to regain the Serie A top spot on Saturday. Inter
+
+Sat, 09 Dec 2023 22:15:31 +0000
+### [Soccer-PSG get hard-fought 2-1 win over Nantes to extend lead in Ligue 1](https://theprint.in/sport/soccer-psg-get-hard-fought-2-1-win-over-nantes-to-extend-lead-in-ligue-1/1879720/)
+
+Article found but Couldn't summarize 
+PARIS (Reuters) - Randal Kolo Muani's late goal helped Paris St Germain to get a 2-1 win over Nantes on Saturday to claim their eighth consecutive Ligue 1 win and extend their lead at the top of the
+
+Sat, 09 Dec 2023 22:15:03 +0000
+### [Ukraine’s Zelenskiy travelling to Argentina, hopes to win Global South’s support](https://theprint.in/world/ukraines-zelenskiy-travelling-to-argentina-hopes-to-win-global-souths-support/1879718/)
+
+Article found but Couldn't summarize 
+(Reuters) -Ukrainian President Volodymyr Zelenskiy was travelling to Argentina on Saturday to attend the inauguration of new Argentine President Javier Milei, his first trip to Latin America.
+
 Sat, 09 Dec 2023 22:02:11 +0000
 ### [Imran Khan approaches Lahore Court to challenge Pakistan Election Commission’s contempt proceedings](https://theprint.in/world/imran-khan-approaches-lahore-court-to-challenge-pakistan-election-commissions-contempt-proceedings/1879716/)
 
