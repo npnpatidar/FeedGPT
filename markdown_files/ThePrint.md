@@ -1,3 +1,121 @@
+Sat, 09 Dec 2023 12:17:40 +0000
+### [Pakistan leaders under terrorist threat during poll campaign: Interior Minister Bugti](https://theprint.in/world/pakistan-leaders-under-terrorist-threat-during-poll-campaign-interior-minister-bugti/1879296/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 9 (ANI): Pakistan caretaker Interior Minister, Sarfraz Ahmed Bugti expressed concern that the political leaders in the country are facing terrorist threats in the run-up to the February polls, Dawn News reported on Saturday. It reported that, speaking at a press conference in Islamabad, Bugti highlighted a general threat to political figures, [&#8230;]
+
+Sat, 09 Dec 2023 12:17:40 +0000
+### [How the keffiyeh became a symbol of Palestinian identity](https://theprint.in/world/how-the-keffiyeh-became-a-symbol-of-palestinian-identity/1879269/)
+
+The keffiyeh is a distinctive checkered scarf that has deep roots in the Middle East. It was traditionally worn by nomadic Bedouin tribes as protection against the desert sun and sand. Over time, it became a symbol of class struggle and later emerged as a national symbol for Palestinians. The keffiyeh gained prominence when Yasser Arafat, leader of the Palestine Liberation Organization, adopted and popularized it. Today, the keffiyeh is worn by Palestinians and supporters worldwide as a gesture of solidarity with the Palestinian cause. It has also been incorporated into fashion, although there are debates about respecting its political and historical context.
+
+Sat, 09 Dec 2023 12:17:27 +0000
+### [MEA provides ‘technical correction’ after MoS Lekhi claims not signing question attributed to her](https://theprint.in/world/mea-provides-technical-correction-after-mos-lekhi-claims-not-signing-question-attributed-to-her/1879294/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 9 (ANI): The Ministry of External Affairs clarified on Saturday that a question on the Sansad website being shown under the name of Union Minister of State, Meenakashi Lekhi needs &#8216;technical correction&#8217; and instead be attributed to MoS V Muraleedharan. The matter pertains to Lok Sabha Unstarred Question No. 980 from [&#8230;]
+
+Sat, 09 Dec 2023 12:17:13 +0000
+### [DuDigital Global Ltd Facilitates E-Visa Partnership with Ministry of Foreign Affairs, Republic of Georgia, Streamlining Short-Term Visit Visas for Indians](https://theprint.in/ani-press-releases/dudigital-global-ltd-facilitates-e-visa-partnership-with-ministry-of-foreign-affairs-republic-of-georgia-streamlining-short-term-visit-visas-for-indians/1879292/)
+
+Article found but Couldn't summarize 
+PNN New Delhi [India], December 9: DuDigital Global Ltd, a leading provider of digital solutions, is excited to announce a strategic partnership with the Ministry of Foreign Affairs, Republic of Georgia, to launch a cutting-edge e-visa system aimed at streamlining and expediting the short-term visit visa application process for Indian citizens. As part of this [&#8230;]
+
+Sat, 09 Dec 2023 12:17:01 +0000
+### [Top Achiever in Cash Segment and CEO Award for Acquisition: Wealthonic Capital Shines at Prestigious Financial Event](https://theprint.in/ani-press-releases/top-achiever-in-cash-segment-and-ceo-award-for-acquisition-wealthonic-capital-shines-at-prestigious-financial-event/1879290/)
+
+Article found but Couldn't summarize 
+PNN New Delhi [India], December 9: Wealthonic Capital a prominent name in the financial industry, proudly announces its exceptional achievements at the esteemed Angel Elite Partners Meet, held luxurious Costa Serena Cruise. The event witnessed the gathering of industry leaders, marking a celebration of excellence across various segments of the financial world. Wealthonic Capital emerged [&#8230;]
+
+Sat, 09 Dec 2023 12:15:55 +0000
+### [India at COP28 insists on ‘equity’ in climate talks](https://theprint.in/environment/india-at-cop28-insists-on-equity-in-climate-talks/1879288/)
+
+Article found but Couldn't summarize 
+By Gloria Dickie DUBAI (Reuters) - India's environment minister, Bhupender Yadav, on Saturday demanded "equity and justice" in U.N. climate negotiations, holding that rich countries should be leading
+
+Sat, 09 Dec 2023 12:15:42 +0000
+### [Gaza aid checks at Kerem Shalom being tested, crossing not open – UN official](https://theprint.in/world/gaza-aid-checks-at-kerem-shalom-being-tested-crossing-not-open-un-official/1879286/)
+
+Article found but Couldn't summarize 
+By Aidan Lewis CAIRO (Reuters) - A new process for inspecting aid for Gaza at the Kerem Shalom crossing is being tested, but efforts to get permission for trucks to enter through the crossing and ramp
+
+Sat, 09 Dec 2023 12:15:32 +0000
+### [Azerbaijan wins regional backing to host COP29 climate summit](https://theprint.in/world/azerbaijan-wins-regional-backing-to-host-cop29-climate-summit/1879284/)
+
+Article found but Couldn't summarize 
+By Kate Abnett DUBAI (Reuters) -Azerbaijan looks set to host next year's COP29 climate change summit, after winning backing from other Eastern European nations on Saturday. Nations from the Eastern
+
+Sat, 09 Dec 2023 12:15:28 +0000
+### [Canada’s higher cost-of-living requirement for students to worsen financial burden, say parents](https://theprint.in/india/canadas-higher-cost-of-living-requirement-for-students-to-worsen-financial-burden-say-parents/1879282/)
+
+Article found but Couldn't summarize 
+Hoshiarpur/Kapurthala (Punjab), Dec 9 (PTI) Canada&#8217;s move to more than double the cost-of-living requirement for incoming international students will put an additional financial burden on people sending their children to study in that country, several aspirants&#8217; parents in Punjab said. They added that the decision has come as a big blow as they will now [&#8230;]
+
+Sat, 09 Dec 2023 12:15:22 +0000
+### [Ukraine condemns Russian plans for elections on occupied territory](https://theprint.in/world/ukraine-condemns-russian-plans-for-elections-on-occupied-territory/1879281/)
+
+Article found but Couldn't summarize 
+KYIV (Reuters) - Ukraine on Saturday strongly condemned Russian plans to hold presidential elections next spring on occupied territory, declaring them "null and void" and pledging to prosecute any
+
+Sat, 09 Dec 2023 12:15:15 +0000
+### [Over 9.9 lakh health melas organised under Ayushman Bhav campaign since Sept 17: Govt](https://theprint.in/india/over-9-9-lakh-health-melas-organised-under-ayushman-bhav-campaign-since-sept-17-govt/1879279/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 9 (PTI) Over 9.9 lakh health melas at health and wellness centres have been organised under the Ayushman Bhav campaign since September 17 that have recorded 705.69 lakh footfall, the government told the Parliament this week. The number of people who received free drugs is 468.81 lakh, while 372.61 lakh received free [&#8230;]
+
+Sat, 09 Dec 2023 12:15:12 +0000
+### [Putin thanks Egypt’s Sisi for Gaza help in call on eve of election](https://theprint.in/world/putin-thanks-egypts-sisi-for-gaza-help-in-call-on-eve-of-election/1879278/)
+
+Article found but Couldn't summarize 
+MOSCOW (Reuters) - Russian President Vladimir Putin discussed the situation in Gaza in a phone call on Saturday with Egyptian President Abdel Fattah al-Sisi, the Kremlin said, on the eve of an
+
+Sat, 09 Dec 2023 12:15:03 +0000
+### [Steel shed collapse kills six in southwestern China’s Guizhou province](https://theprint.in/world/steel-shed-collapse-kills-six-in-southwestern-chinas-guizhou-province/1879277/)
+
+Article found but Couldn't summarize 
+BEIJING (Reuters) - At least six people were killed and three injured after a steel shed collapse at a building materials plant in southwestern China's Guizhou province on Saturday, state media CCTV
+
+Sat, 09 Dec 2023 12:15:02 +0000
+### [Odisha CM’s aide Pandian reviews heritage corridor project in Puri](https://theprint.in/india/odisha-cms-aide-pandian-reviews-heritage-corridor-project-in-puri/1879276/)
+
+Article found but Couldn't summarize 
+Puri, Dec 9 (PTI) Odisha Chief Minister Naveen Patnaik’s close aide V K Pandian on Saturday inspected ongoing work under the Shree Jagannath Temple Heritage Corridor project. During the early morning visit to the holy town, Pandian also reviewed the arrangement for queue management and traffic control around the 12th-century shrine for smooth and safe [&#8230;]
+
+Sat, 09 Dec 2023 12:14:51 +0000
+### [MoS Lekhi disowns Parliament reply, leaves govt red-faced. MEA then says ‘technical correction’ needed](https://theprint.in/india/governance/mos-lekhi-disowns-parliament-reply-leaves-govt-red-faced-mea-then-says-technical-correction-needed/1879219/)
+
+Article found but Couldn't summarize 
+MEA website now says correction needed to reflect that response was by MoS V. Muraleedharan, not Lekhi. Opposition uses issue to get back at govt over Mahua Moitra's expulsion.
+
+Sat, 09 Dec 2023 12:07:02 +0000
+### [You can get syphilis of the eye too. It can damage organs, US ophthalmologist says](https://theprint.in/science/you-can-get-syphilis-of-the-eye-too-it-can-damage-organs-us-ophthalmologist-says/1879230/)
+
+Article found but Couldn't summarize 
+A patient may be told there is nothing that can be done as they are thought to have a genetic eye disease. Syphilis then starts affecting the brain.
+
+Sat, 09 Dec 2023 12:02:50 +0000
+### [Chief Minister Bhupendra Patel inaugurated the 14th Conventions India Conclave in Gandhinagar](https://theprint.in/ani-press-releases/chief-minister-bhupendra-patel-inaugurated-the-14th-conventions-india-conclave-in-gandhinagar/1879265/)
+
+Article found but Couldn't summarize 
+PNN Gandhinagar (Gujarat) [India], December 9: Chief Minister Bhupendra Patel inaugurated the 14th Conventions India Conclave-2023, held as a prelude to the Vibrant Gujarat Global Investment Summit-2024. He emphasized that the success of the Vibrant Summit, which commenced in 2003 under the inspiration of Prime Minister Narendra Modi, has shown Gujarat&#8217;s ability to successfully organize [&#8230;]
+
+Sat, 09 Dec 2023 12:02:40 +0000
+### [‘Station 19’ to end with season 7](https://theprint.in/feature/station-19-to-end-with-season-7/1879263/)
+
+The action drama TV-series 'Station 19' will be ending after its upcoming seventh season. This spinoff of 'Grey's Anatomy' follows a team of Seattle-based firefighters as they navigate their personal and professional lives. The show features a talented cast including Jaina Lee Ortiz, Jason George, Grey Damon, Barrett Doss, Alberto Frezza, Jay Hayden, Okieriete Onaodowan, Danielle Savre, and Miguel Sandoval. The new season will have Zoanne Clack and Peter Paige as showrunners. Krista Vernoff, the longtime chief, announced her departure from both 'Grey's Anatomy' and 'Station 19' in January.
+
+Sat, 09 Dec 2023 12:02:31 +0000
+### [Akansha Ranjan Kapoor joins Sundeep Kishan starrer Tamil movie ‘MaayaOne’](https://theprint.in/feature/akansha-ranjan-kapoor-joins-sundeep-kishan-starrer-tamil-movie-maayaone/1879261/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 9 (ANI): Akansha Ranjan Kapoor is all set to debut in Tollywood with CV Kumar&#8217;s highly anticipated directorial &#8216;MaayaOne&#8217; opposite Sundeep Kishan. Taking to Instagram, production house AK Entertainments shared this exciting news and captioned it, &#8220;ProjectZ/Maayavan Sequel Titled #MaayaOne [?][?]@akansharanjankapoor onboard for the highly anticipated project opposite Talented Hero @sundeepkishan. [&#8230;]
+
+Sat, 09 Dec 2023 12:02:21 +0000
+### [Udumalpet’s Evolution: Navigating Growth and Progress](https://theprint.in/ani-press-releases/udumalpets-evolution-navigating-growth-and-progress/1879259/)
+
+Article found but Couldn't summarize 
+NewsVoir Udumalpet (Tamil Nadu) [India], December 9: In the heart of Tirupur district lies Udumalpet, a town that is currently in the midst of a notable infrastructural and social transformation. The town which is experiencing a surge in progress, marking a shift toward becoming a vibrant center of growth and prosperity, further making it increasing [&#8230;]
+
 Sat, 09 Dec 2023 11:05:12 +0000
 ### [By throwing open CM camp office to public, Telangana’s new CM is reviving YSR’s legacy](https://theprint.in/politics/by-throwing-open-cm-camp-office-to-public-telanganas-new-cm-is-reviving-ysrs-legacy/1879068/)
 

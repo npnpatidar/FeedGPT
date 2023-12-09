@@ -1,3 +1,15 @@
+2023-12-09T17:27:54+05:30
+### [BSP Suspends Danish Ali Day After He Protested Against Expulsion of TMC MP Mahua Moitra](https://thewire.in/politics/bsp-suspends-danish-ali-day-after-he-protested-against-expulsion-of-tmc-mp-mahua-moitra)
+
+No Article text 
+'You were warned many times against statements or actions against the policies, ideology and discipline of the party. But, despite that you have continuously been acting against the party,' the Bahujan Samaj Party said.
+
+2023-12-09T17:15:02+05:30
+### [Watch | Rajasthan BJP MLA, Who Shut Down Meat Shops After Election Win, Apologises](https://thewire.in/video/watch-bjp-mla-balmukund-acharya-meat-shops-apologises)
+
+No Article text 
+The apology from Balmukund Acharya came after people complained to the National Human Rights Commission.
+
 2023-12-09T15:30:33+05:30
 ### [Are First-Time Voters the ‘X Factor’ in BJP’s Victories?](https://thewire.in/politics/first-time-voters-x-factor-in-bjp-victory)
 
