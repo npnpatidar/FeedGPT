@@ -1,3 +1,117 @@
+Sat, 09 Dec 2023 18:15:42 +0000
+### [JK Police initiate legal action against social media misuse](https://theprint.in/india/jk-police-initiate-legal-action-against-social-media-misuse/1879652/)
+
+Article found but Couldn't summarize 
+Srinagar, Dec 9 (PTI) The Jammu and Kashmir Police on Saturday initiated action against nine people for allegedly misusing social media platforms to spread rumours and hateful content, officials said. The action comes after the authorities issued guidelines for social media users in order to contain content that is communally sensitive or promote terrorism and [&#8230;]
+
+Sat, 09 Dec 2023 18:15:32 +0000
+### [Lord Ram will return to people’s minds, hearts on Jan 22: RSS’ Dattatreya Hosabale](https://theprint.in/india/lord-ram-will-return-to-peoples-minds-hearts-on-jan-22-rss-dattatreya-hosabale/1879650/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 9 (PTI) Lord Shri Ram will return to his magnificent temple built at his birthplace in Ayodhya on January 22 next year and then in the &#8220;minds and hearts&#8221; of the people after 500 years of struggle, RSS general secretary Dattatreya Hosabale said on Saturday. Addressing a book launch event here, Hosabale [&#8230;]
+
+Sat, 09 Dec 2023 18:15:26 +0000
+### [Soccer-Monaco move into second place with win at Rennes](https://theprint.in/sport/soccer-monaco-move-into-second-place-with-win-at-rennes/1879649/)
+
+AS Monaco secured a 2-1 victory against Stade Rennais, moving up to second place in Ligue 1. Despite having Vanderson sent off late in the game and conceding a penalty, Monaco held on for the win. Vanderson scored the opening goal with a deflected shot, and Fofana extended Monaco's lead before conceding a penalty converted by Bourigeaud. Rennes tried to find an equalizer but failed, leaving them in 12th place. Monaco now stands at second place with 30 points, just one point ahead of Nice and three points behind table-toppers Paris St Germain.
+
+Sat, 09 Dec 2023 18:15:18 +0000
+### [Sena (UBT) will win at least three assembly seats in Pune: Raut](https://theprint.in/india/sena-ubt-will-win-at-least-three-assembly-seats-in-pune-raut/1879647/)
+
+Shiv Sena (UBT) MP Sanjay Raut predicts that at least three MLAs from his party will be elected in Pune during Maharashtra's upcoming assembly elections. He also guarantees that the next MP from Pune will not be from the BJP. Raut expressed his belief that there was no "Modi wave" during the recently held assembly elections in Rajasthan and Madhya Pradesh. He suggests conducting an election with ballot paper instead of electronic voting machines (EVMs) to ensure acceptance of the result. Please note that this summary was generated from an article by PTI news service, and ThePrint is not responsible for its content.
+
+Sat, 09 Dec 2023 18:15:11 +0000
+### [Soccer-Sheffield United’s McAtee nets first Premier League goal in Brentford win](https://theprint.in/sport/soccer-sheffield-uniteds-mcatee-nets-first-premier-league-goal-in-brentford-win/1879646/)
+
+Article found but Couldn't summarize 
+SHEFFIELD, England (Reuters) -Sheffield United's James McAtee scored with a stunning strike to secure a 1-0 home win over Brentford on Saturday and give Chris Wilder his first victory in his second
+
+Sat, 09 Dec 2023 18:15:03 +0000
+### [Man critical after wife sets him afire over domestic issue; three booked](https://theprint.in/india/man-critical-after-wife-sets-him-afire-over-domestic-issue-three-booked/1879645/)
+
+Article found but Couldn't summarize 
+Thane, Dec 9 (PTI) An FIR has been registered against a woman for allegedly trying to kill her 61-year-old husband by setting him afire over a domestic dispute in Kalyan city with the help of two others, police said on Saturday. The other two male accused in the case are friends of one of the [&#8230;]
+
+Sat, 09 Dec 2023 18:00:13 +0000
+### [J-K: Rape accused arrested in Samba](https://theprint.in/india/j-k-rape-accused-arrested-in-samba/1879642/)
+
+A man accused of raping a woman was arrested in Samba district of Jammu and Kashmir. The accused, Shambu Ram, was on the run but was successfully traced and arrested by the police. In another case, a drug peddler named Dharminder Singh was arrested and heroin worth over Rs 20,000 was recovered from his possession. Additionally, Dhuni Chand, who was accused of causing the death of a woman due to negligent driving, was also arrested. The police are committed to apprehending those involved in heinous crimes and ensuring that such cases are brought to a resolution without delay.
+
+Sat, 09 Dec 2023 18:00:03 +0000
+### [Shah Rukh Khan, Akshay Kumar, Ajay Devgn issued notice in gutka ad case: Allahabad HC told](https://theprint.in/india/shah-rukh-khan-akshay-kumar-ajay-devgn-issued-notice-in-gutka-ad-case-allahabad-hc-told/1879641/)
+
+Article found but Couldn't summarize 
+Lucknow, Dec 9 (PTI) The central government, responding to a contempt petition, informed the Lucknow bench of Allahabad Court that it has issued notices to actors Akshay Kumar, Shahrukh Khan, and Ajay Devgn in connection with advertisements they do for gutka companies. The Centre&#8217;s counsel informed the High Court on Friday that the same issue [&#8230;]
+
+Sat, 09 Dec 2023 17:47:02 +0000
+### [UAE, Azerbaijan Presidents discuss bilateral relations](https://theprint.in/world/uae-azerbaijan-presidents-discuss-bilateral-relations/1879636/)
+
+Article found but Couldn't summarize 
+Abu Dhabi [UAE], December 9 (ANI/WAM): President Sheikh Mohamed bin Zayed Al Nahyan today spoke by telephone to His Excellency Ilham Aliyev, President of the Republic of Azerbaijan. The call reviewed bilateral relations between the two nations and explored opportunities for further collaboration aimed at achieving their shared development ambitions. During the call, the two [&#8230;]
+
+Sat, 09 Dec 2023 17:46:17 +0000
+### [Soccer-Man Utd slump to humiliating 3-0 home loss to Bournemouth](https://theprint.in/sport/soccer-man-utd-slump-to-humiliating-3-0-home-loss-to-bournemouth/1879634/)
+
+Manchester United suffered a humiliating 3-0 defeat at home against Bournemouth in the Premier League. The pressure continues to mount on manager Erik Ten Hag as his team was thoroughly outplayed by an in-form Bournemouth side. Dominic Solanke scored the first goal for Bournemouth, and later, Philip Billing and Marcos Senesi added two more goals with powerful headers. Bournemouth could have scored a fourth goal, but it was disallowed due to handball after a VAR check. This victory further solidifies Bournemouth's recent good form, winning four out of their last five league matches and securing 13th place in the table. For Manchester United, it is a setback after their impressive victory over Chelsea earlier in the week.
+
+Sat, 09 Dec 2023 17:46:07 +0000
+### [Soccer-McAtee nets first Premier League goal in Sheffield United’s 1-0 win over Brentford](https://theprint.in/sport/soccer-mcatee-nets-first-premier-league-goal-in-sheffield-uniteds-1-0-win-over-brentford/1879632/)
+
+Sheffield United secured a 1-0 victory over Brentford in a Premier League match at Bramall Lane. James McAtee, who is on loan from Manchester City, scored his first Premier League goal with a left-footed strike into the far corner of the net just before halftime. This win marks Chris Wilder's first victory in his second stint as Blades manager. However, despite the win, Sheffield United remains at the bottom of the table with only eight points after 16 games, while Brentford sits 11th with 19 points.
+
+Sat, 09 Dec 2023 17:45:57 +0000
+### [Soccer-Cooper’s battling Forest earn point at Wolves](https://theprint.in/sport/soccer-coopers-battling-forest-earn-point-at-wolves/1879630/)
+
+Nottingham Forest secured a 1-1 draw against Wolverhampton Wanderers in a match where their fans showed support for manager Steve Cooper. After facing defeat in their previous four Premier League matches, questions had arisen regarding Cooper's job, but Forest demonstrated a strong response at Molineux. Forest started the game well and took the lead in the 14th minute through Harry Toffolo, who connected with a great cross from Neco Williams. Wolves managed to equalize in the 34th minute thanks to Matheus Cunha finishing off a well-executed move. Forest had opportunities to snatch a win, with Cheikhou Kouyate being denied by Wolves' goalkeeper and Anthony Elanga striking the crossbar. Despite the draw, Forest's loyal fans continued to show their support for Cooper throughout the match. With 14 points, Forest currently sits in 16th place, while Wolves are in 12th place with 19 points.
+
+Sat, 09 Dec 2023 17:45:49 +0000
+### [Soccer-Leaders Real Madrid held to 1-1 draw by Betis](https://theprint.in/sport/soccer-leaders-real-madrid-held-to-1-1-draw-by-betis/1879628/)
+
+Article found but Couldn't summarize 
+SEVILLE (Reuters) - A stunning goal from Real Betis' Aitor Ruibal cancelled out Jude Bellingham's strike for Real Madrid early in the second half to earn the home side a 1-1 draw in LaLiga on Saturday
+
+Sat, 09 Dec 2023 17:45:41 +0000
+### [Soccer-Manchester Utd slump to humiliating 3-0 home loss to Bournemouth](https://theprint.in/sport/soccer-manchester-utd-slump-to-humiliating-3-0-home-loss-to-bournemouth/1879626/)
+
+Article found but Couldn't summarize 
+MANCHESTER (Reuters) -Miserable Manchester United were humiliated 3-0 at home by Bournemouth in the Premier League on Saturday as the pressure ratcheted up once again on manager Erik Ten Hag. A
+
+Sat, 09 Dec 2023 17:45:30 +0000
+### [Soccer-Keeper Trafford the hero as struggling Burnley draw 1-1 at Brighton](https://theprint.in/sport/soccer-keeper-trafford-the-hero-as-struggling-burnley-draw-1-1-at-brighton/1879624/)
+
+Article found but Couldn't summarize 
+BRIGHTON, England (Reuters) - Simon Adingra's header cancelled out a superb strike by Wilson Odobert as Brighton &#38; Hove Albion came back from a goal down to grab a 1-1 Premier League draw at home to
+
+Sat, 09 Dec 2023 17:45:25 +0000
+### [New provisions on natural farming in next budget will boost farmers’ income: Himachal CM](https://theprint.in/india/new-provisions-on-natural-farming-in-next-budget-will-boost-farmers-income-himachal-cm/1879623/)
+
+Article found but Couldn't summarize 
+Shimla/Solan, Dec 9 (PTI) The next budget would have new provisions on natural farming with assured purchase by the state government to boost farmers’ income, Chief Minister Sukhvinder Singh Sukhu said on Saturday. Sukhu said that given Himachal Pradesh’s geographical conditions, the upcoming budget would prioritise and promote natural farming. Addressing the college convocation ceremony [&#8230;]
+
+Sat, 09 Dec 2023 17:45:13 +0000
+### [Orchestra bar raided, case registered for obscenity](https://theprint.in/india/orchestra-bar-raided-case-registered-for-obscenity/1879621/)
+
+Article found but Couldn't summarize 
+Thane, Dec 9 (PTI) Police raided an orchestra bar at Gotheghar in the district on early Saturday morning and registered a case against 60 people over the performance of `obscene&#8217; acts and songs, an official said here. A case under relevant sections of the IPC and Maharashtra Prohibition of Obscene Dance in Hotels, Restaurants and [&#8230;]
+
+Sat, 09 Dec 2023 17:45:11 +0000
+### [Death toll in Gaza from Israeli attacks rises to 17,700 – Health Ministry in Gaza](https://theprint.in/world/death-toll-in-gaza-from-israeli-attacks-rises-to-17700-health-ministry-in-gaza/1879620/)
+
+Article found but Couldn't summarize 
+(Reuters) - At least 17,700 Palestinians have been killed and 48,780 wounded in Israeli attacks in Gaza since Oct. 7, Gaza's Health Ministry said on Saturday. Ashraf Al-Qidra, spokesman for the
+
+Sat, 09 Dec 2023 17:45:05 +0000
+### [Yemen’s Houthis warn they will target all ships headed to Israel](https://theprint.in/world/yemens-houthis-warn-they-will-target-all-ships-headed-to-israel/1879619/)
+
+Article found but Couldn't summarize 
+By Mohammed Alghobari ADEN (Reuters) -Yemen's Houthi movement said on Saturday they would target all ships heading to Israel, regardless of their nationality, and warned all international shipping
+
+Sat, 09 Dec 2023 17:45:03 +0000
+### [Train firing: accused’s wife denies communal motive](https://theprint.in/india/train-firing-accuseds-wife-denies-communal-motive/1879618/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 9 (PTI) The wife of dismissed Railway Protection Force (RPF) constable Chetansinh Chaudhary who is accused of shooting dead his senior colleague and three passengers on a moving train on Saturday said a &#8220;communal angle&#8221; should not be linked to her husband&#8217;s alleged crime. Chaudhary was mentally ill for the past two years, [&#8230;]
+
 Sat, 09 Dec 2023 17:02:02 +0000
 ### [Pakistan Tehreek-e-Insaf leader Asad Qaiser re-arrested after getting bail](https://theprint.in/world/pakistan-tehreek-e-insaf-leader-asad-qaiser-re-arrested-after-getting-bail/1879581/)
 
