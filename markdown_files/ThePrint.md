@@ -1,3 +1,122 @@
+Sat, 09 Dec 2023 08:18:21 +0000
+### [PM Modi wishes Sonia Gandhi on her birthday, extends blessings for ‘long & healthy life’](https://theprint.in/india/pm-modi-wishes-sonia-gandhi-on-her-birthday-extends-blessings-for-long-healthy-life/1879007/)
+
+Article found but Couldn't summarize 
+Modi's wishes come as Congress lost three Hindi heartland states in recent Assembly polls, with crucial Lok Sabha elections just six months away.
+
+Sat, 09 Dec 2023 08:17:23 +0000
+### [Julia Roberts expresses her wish to do ‘My Best Friend’s Wedding’ sequel](https://theprint.in/feature/julia-roberts-expresses-her-wish-to-do-my-best-friends-wedding-sequel/1879024/)
+
+Article found but Couldn't summarize 
+Washington [US], December 9 (ANI): Actor Julia Roberts has been part of several popular rom-coms and when asked if she would love to do a sequel of any of them, she simply chooses &#8216;My Best Friend&#8217;s Wedding&#8217;, reported People. During an appearance on &#8216;Watch What Happens Live with Andy Cohen&#8217;, the Oscar-winning actress was asked [&#8230;]
+
+Sat, 09 Dec 2023 08:17:13 +0000
+### [Joe Jonas gets emotional as his daughters watch him perform](https://theprint.in/feature/joe-jonas-gets-emotional-as-his-daughters-watch-him-perform/1879022/)
+
+Article found but Couldn't summarize 
+New Jersey [US], December 9 (ANI): Joe Jonas got emotional as he performed a special song for his two daughters, reported People. The Jonas Brothers performed in their home state of New Jersey, with his family in attendance. His father Kevin Sr. was spotted in the crowd with the 34-year-old&#8217;s two kids, Delphine (17 months) [&#8230;]
+
+Sat, 09 Dec 2023 08:17:02 +0000
+### [Pakistan Tehreek-e-Insaf leaders’ bail in May 9 riots case extended](https://theprint.in/world/pakistan-tehreek-e-insaf-leaders-bail-in-may-9-riots-case-extended/1879019/)
+
+Article found but Couldn't summarize 
+Lahore [Pakistan], December 9 (ANI): An Anti-Terrorism Court (ATC) in Lahore has granted an extension to the bail of Zain Hussain Qureshi, a Pakistan Tehreek-e-Insaf (PTI) leader, along with two sisters of the former PTI chief, in connection with the May 9 riots case, as reported by ARY News on Saturday. ATC Judge Arshad Javed [&#8230;]
+
+Sat, 09 Dec 2023 08:15:27 +0000
+### [Soccer-Conflict forces Palestinian team Jabal Al Mukaber to withdraw from AFC Cup](https://theprint.in/sport/soccer-conflict-forces-palestinian-team-jabal-al-mukaber-to-withdraw-from-afc-cup/1879016/)
+
+Article found but Couldn't summarize 
+(Reuters) - Palestinian club Jabal Al Mukaber have withdrawn from the Asian Football Confederation (AFC) Cup as a result of the Israel-Gaza conflict, the region's governing body has announced. A
+
+Sat, 09 Dec 2023 08:15:24 +0000
+### [Five wanted terrorists killed in restive NW Pakistan](https://theprint.in/world/five-wanted-terrorists-killed-in-restive-nw-pakistan/1879015/)
+
+Article found but Couldn't summarize 
+Peshawar, Dec 9 (PTI) At least five wanted terrorists were killed in a clash with security forces during an operation in the restive northwest Pakistan, the Pakistan Army said on Saturday. The incident occurred on Friday in the volatile Tank district bordering South Waziristan where the forces launched the operation on the reported presence of [&#8230;]
+
+Sat, 09 Dec 2023 08:15:14 +0000
+### [Karnataka HC quashes registration and affiliations granted to ‘Kalarippayattu’](https://theprint.in/india/karnataka-hc-quashes-registration-and-affiliations-granted-to-kalarippayattu/1879013/)
+
+Article found but Couldn't summarize 
+Bengaluru, Dec 9 (PTI) The High Court of Karnataka has quashed the registration certificate granted by the Registrar of Societies and cancelled all affiliations and grants provided to a &#8220;Kalarippayattu&#8221; association which had duplicated the name of another association by adding a single additional letter &#8216;P&#8217; to its name. The petition filed by Karnataka Kalaripayattu [&#8230;]
+
+Sat, 09 Dec 2023 08:15:12 +0000
+### [US vetoes Security Council ceasefire demand as Gaza war intensifies](https://theprint.in/world/us-vetoes-security-council-ceasefire-demand-as-gaza-war-intensifies/1879012/)
+
+Article found but Couldn't summarize 
+By Bassam Masoud, Nidal al-Mughrabi and Michelle Nichols GAZA/CAIRO/NEW YORK (Reuters) -The United States vetoed a U.N. Security Council demand for an immediate ceasefire in Gaza, even as it kept up
+
+Sat, 09 Dec 2023 08:15:04 +0000
+### [Seoul says Japan inaction means ‘comfort women’ court ruling upheld](https://theprint.in/world/seoul-says-japan-inaction-means-comfort-women-court-ruling-upheld/1879011/)
+
+Article found but Couldn't summarize 
+SEOUL (Reuters) - A South Korean court ruling in favor of a group of 16 women who were forced to work in Japanese wartime brothels was confirmed on Saturday by Japan's decision not to appeal the
+
+Sat, 09 Dec 2023 08:15:03 +0000
+### [Turning annual performance reviews into ‘humble encounters’ yields dividends for employees and managers](https://theprint.in/world/turning-annual-performance-reviews-into-humble-encounters-yields-dividends-for-employees-and-managers-2/1879010/)
+
+Article found but Couldn't summarize 
+Pittsburgh (US), Dec 9 (The Conversation) Every year, employees worldwide enter annual performance reviews with mixed feelings. Do employees enter these conversations with enthusiasm to learn new things? Rarely. Are managers eager to have these conversations and coach their employees on how they can improve in the coming year? No. These meetings are typically experienced [&#8230;]
+
+Sat, 09 Dec 2023 08:01:05 +0000
+### [UP: US national gets 2 years in jail for trying to entering India on fake visa](https://theprint.in/india/up-us-national-gets-2-years-in-jail-for-trying-to-entering-india-on-fake-visa/1879001/)
+
+Article found but Couldn't summarize 
+Maharajganj (UP) Dec 9 (PTI) A local court here has sentenced a US national to two years imprisonment for trying to cross over to India on fake visa documents, a senior official said on Saturday. The court has also imposed a fine of Rs 20,000 on him, ASP Atish Kumar Singh said. Chief Judicial Magistrate [&#8230;]
+
+Sat, 09 Dec 2023 08:00:56 +0000
+### [Road accident in UP leaves three dead](https://theprint.in/india/road-accident-in-up-leaves-three-dead/1879000/)
+
+Article found but Couldn't summarize 
+Saharanpur (UP), Dec 9 (PTI) A mini truck rammed into people standing near a bus stand here, killing three people, including two students, on Saturday, police said. SP (Rural) Sagar Jain told PTI that the mini truck hit several people at the Nagal bus stand, killing Lucky (17), Noman (20) and another unidentified person. Both [&#8230;]
+
+Sat, 09 Dec 2023 08:00:46 +0000
+### [BFC part ways with head coach Simon Grayson amid a poor season](https://theprint.in/sport/bfc-part-ways-with-head-coach-simon-grayson-amid-a-poor-season/1878999/)
+
+Article found but Couldn't summarize 
+Bengaluru, Dec 9 (PTI) Amid a modest ISL 2023-24 season, Bengaluru FC on Saturday decided to part ways with head coach Simon Grayson and assistant coach Neil McDonald. Former India player Renedy Singh will be in-charge of the team till the appointment of a new head coach. The club and the coaching staff decided to [&#8230;]
+
+Sat, 09 Dec 2023 08:00:36 +0000
+### [Does exercise really do nothing for longevity, as a Finnish twins study suggests?](https://theprint.in/world/does-exercise-really-do-nothing-for-longevity-as-a-finnish-twins-study-suggests/1878998/)
+
+Hmm, based on the provided text, I can summarize the article for you. The Finnish Twins Cohort Study found that while people who exercise more tend to live longer on average, the direct effect of "leisure time physical activity" on lifespan is not significant. Factors such as genetics, diet, disabilities, education, and wealth may also influence lifespan. The study analyzed data from 11,000 pairs of adult same-sex twins and found that the most active group had a 24% lower death rate compared to the least active group. However, when considering other factors like smoking, alcohol consumption, and body mass index, the link between exercise and longevity was reduced. The study suggests that exercise may have a smaller role in lifespan than previously thought, but it still has benefits in preventing illness, improving mood, and enhancing overall quality of life.
+
+Sat, 09 Dec 2023 08:00:25 +0000
+### [Turning annual performance reviews into ‘humble encounters’ yields dividends for employees and managers](https://theprint.in/world/turning-annual-performance-reviews-into-humble-encounters-yields-dividends-for-employees-and-managers/1878997/)
+
+Article found but Couldn't summarize 
+Pittsburgh (US), Dec 9 (The Conversation) Every year, employees worldwide enter annual performance reviews with mixed feelings. Do employees enter these conversations with enthusiasm to learn new things? Rarely. Are managers eager to have these conversations and coach their employees on how they can improve in the coming year? No. These meetings are typically experienced [&#8230;]
+
+Sat, 09 Dec 2023 08:00:14 +0000
+### [KCR elected BRS Legislature Party leader in Telangana](https://theprint.in/india/kcr-elected-brs-legislature-party-leader-in-telangana/1878996/)
+
+Article found but Couldn't summarize 
+Hyderabad, Dec 9 (PTI) Former Telangana Chief Minister K Chandrasekhar Rao was on Saturday elected as the leader of the BRS Legislature Party in the new Assembly. The election was announced at a meeting of the newly-elected BRS MLAs here. &#8220;The BRS Legislative Party, which met at Telangana Bhavan ahead of the third Assembly session, [&#8230;]
+
+Sat, 09 Dec 2023 08:00:03 +0000
+### [India fastest growing major economy; now capable of creating positive impact on growth of others: Rajnath](https://theprint.in/india/india-fastest-growing-major-economy-now-capable-of-creating-positive-impact-on-growth-of-others-rajnath/1878995/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 9 (PTI) India has showed that there is no irreconcilable trade-off between growth and distributive justice, and the government is making all efforts to further boost the country&#8217;s position as a growth engine, Defence Minister Rajnath Singh said on Saturday. In an address at the annual general meeting of FICCI, Singh said [&#8230;]
+
+Sat, 09 Dec 2023 07:58:00 +0000
+### [Naga mom’s K-skincare wave swept India. Her Beauty Barn now competes with Nykaa, Amazon](https://theprint.in/ground-reports/naga-moms-k-skincare-wave-swept-india-her-beauty-barn-now-competes-with-nykaa-amazon/1878888/)
+
+Article found but Couldn't summarize 
+COSRX snail mucin, Holika Holika ceramide cream, to Klairs vitamin-c serum--Beauty Barn products have become household names in India.
+
+Sat, 09 Dec 2023 07:54:21 +0000
+### [Navy facing shortage of 10,896 personnel including 1,777 officers, govt tells Parliament](https://theprint.in/defence/navy-facing-shortage-of-10896-personnel-including-1777-officers-govt-tells-parliament/1878834/)
+
+Article found but Couldn't summarize 
+In response to another question, MoS Ajay Bhatt said defence &#38; finance ministries working on mechanism to enable special dispensation to operationalise non-lapsable modernisation fund.
+
+Sat, 09 Dec 2023 07:47:01 +0000
+### [Adani Energy Solutions announces CEO transition to drive infrastructure growth](https://theprint.in/economy/adani-energy-solutions-announces-ceo-transition-to-drive-infrastructure-growth/1878986/)
+
+Article found but Couldn't summarize 
+Ahmedabad (Gujarat) [India], December 9 (ANI): Adani Energy Solutions Limited (AESL), a key player in the Adani portfolio, revealed significant leadership changes aimed at propelling the growth of Adani Infrastructure India Limited. According to a press release by Adani, Bimal Dayal the current CEO of the Transmission business, has been appointed as the Chief Executive [&#8230;]
+
 Sat, 09 Dec 2023 07:02:24 +0000
 ### [Umanshi Marketing wins PR and Mar-comm mandates of 5 new businesses reinforcing its strength in the startup and SME categories](https://theprint.in/ani-press-releases/umanshi-marketing-wins-pr-and-mar-comm-mandates-of-5-new-businesses-reinforcing-its-strength-in-the-startup-and-sme-categories/1878952/)
 

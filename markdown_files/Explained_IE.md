@@ -1,3 +1,8 @@
+Sat, 09 Dec 2023 08:18:44 +0000
+### [Why Karnataka is coming down hard on cheating in public examinations](https://indianexpress.com/article/explained/explained-law/karnatakas-anti-cheating-bill-9061077/)
+
+Article found but Couldn't summarize
+
 Sat, 09 Dec 2023 06:20:13 +0000
 ### [Decoding China: How Agnes Chow became an enemy of the state](https://indianexpress.com/article/explained/explained-global/decoding-china-agnes-chow-hong-kong-9060949/)
 

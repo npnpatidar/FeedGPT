@@ -1,3 +1,15 @@
+2023-12-09T13:30:01+05:30
+### [Hadiya Denies Father's Fresh Claims That She Is Under 'Illegal Detention'](https://thewire.in/rights/hadiya-father-claim-illegal-detention-deny)
+
+No Article text 
+The Kerala woman's conversion to Islam and subsequent marriage to a Muslim man resulted in a landmark ruling by the Supreme Court about the autonomy of adult women.
+
+2023-12-09T13:21:00+05:30
+### [Economic Slowdown Affects Placements at IITs, Hiring Declines by 15% to 30%: Report](https://thewire.in/labour/economic-slowdown-affects-placements-at-iits-hiring-declines-by-15-to-30-report)
+
+No Article text 
+Even after a week of the placement drive has passed, most students are yet to land a job, and the situation ahead looks bleak.
+
 2023-12-09T12:45:40+05:30
 ### ['Broken': A Substantial Photo Exhibition About India and Indians](https://thewire.in/the-arts/broken-photo-exhibition-asha-thadani)
 
