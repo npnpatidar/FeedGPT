@@ -1,3 +1,8 @@
+Sat, 09 Dec 2023 12:33:20 +0000
+### [SC to deliver Article 370 verdict: What has changed in J&K since Art 370 was repealed](https://indianexpress.com/article/explained/sc-article-370-verdict-jk-9059739-9061342/)
+
+Article found but Couldn't summarize
+
 Sat, 09 Dec 2023 11:23:08 +0000
 ### [As China-US tensions rise over Taiwan, what do the Taiwanese themselves think?](https://indianexpress.com/article/explained/explained-global/china-us-tensions-taiwan-elections-explained-9061282/)
 

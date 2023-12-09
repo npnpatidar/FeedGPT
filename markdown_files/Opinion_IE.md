@@ -1,3 +1,8 @@
+Sat, 09 Dec 2023 13:17:52 +0000
+### [From Archies to ‘The Archies’: Why must we wokewash classics?](https://indianexpress.com/article/opinion/columns/from-archies-to-the-archies-why-must-we-wokewash-classics-9061445/)
+
+Article found but Couldn't summarize
+
 Sat, 09 Dec 2023 10:50:53 +0000
 ### [Why Mahua Moitra’s expulsion is against basic legal principles and the Constitution](https://indianexpress.com/article/opinion/columns/mahua-moitras-expulsion-against-basic-legal-principles-constitution-9061277/)
 

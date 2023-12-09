@@ -1,3 +1,9 @@
+Sat, 09 Dec 2023 18:05:56 +0530
+### [Unleashing innovation: How technology companies in India are embracing carbon credits](https://www.firstpost.com/opinion/unleashing-innovation-how-technology-companies-in-india-are-embracing-carbon-credits-13484942.html)
+
+Article found but Couldn't summarize 
+Unleashing innovation: How technology companies in India are embracing carbon credits
+
 Sat, 09 Dec 2023 17:25:36 +0530
 ### [What a Chinese oil refinery in Hambantota means for India](https://www.firstpost.com/opinion/what-a-chinese-oil-refinery-in-hambantota-means-for-india-13484792.html)
 

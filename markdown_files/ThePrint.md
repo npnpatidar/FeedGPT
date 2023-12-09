@@ -1,3 +1,119 @@
+Sat, 09 Dec 2023 13:04:18 +0000
+### [Going to the museum is good for health — a Canadian association just proved it](https://theprint.in/health/going-to-the-museum-is-good-for-health-a-canadian-association-just-proved-it/1879339/)
+
+Hmm, visiting a museum can indeed have positive effects on your health. The Association des Médecins francophones du Canada launched a program where patients could receive a doctor's prescription to visit a museum, aiming to promote recovery and well-being for those with chronic illnesses, neurological conditions, cognitive disorders, or mental health problems. While the specific effects of art exposure on health are still being studied, research suggests that regular visits to cultural venues like museums can lower the risk of dementia, depression, and age-related decline in health. Contact with artwork has been shown to potentially lower blood pressure, heart rate, and stress levels. However, it's important to note that the effects may vary depending on the individual and the specific museum experience. So, going to a museum can be a great way to have a pleasant day and potentially contribute to your overall well-being.
+
+Sat, 09 Dec 2023 13:02:35 +0000
+### [Sustainable Markets Initiative Agribusiness Task Force launches blended finance framework to make regenerative farming mainstream](https://theprint.in/ani-press-releases/sustainable-markets-initiative-agribusiness-task-force-launches-blended-finance-framework-to-make-regenerative-farming-mainstream/1879349/)
+
+Regenerative agriculture is gaining attention at COP 28, with the Sustainable Markets Initiative's Agribusiness Task Force launching a blended finance framework to support it. This framework aims to make regenerative farming financially viable and scalable. The task force includes companies like Mars, McCain Foods, McDonald's, Mondelez International, PepsiCo, and Waitrose. They are exploring implementation projects in India, the UK, and the US, and are calling for policy changes to support regenerative farming. The global food system currently contributes to GHG emissions and nature loss, so embracing regenerative farming could help address these issues. The task force proposes a four-lever framework, including new funding and sourcing models, common metrics, government policy changes, and creating new revenue streams for farmers. They are also exploring farming projects in different countries to prove the concept. The full plan can be viewed on the Agribusiness Task Force webpage.
+
+Sat, 09 Dec 2023 13:02:16 +0000
+### [Opening The Door For Endless Opportunities Abroad: iDC’s Guide to International Study Destinations](https://theprint.in/ani-press-releases/opening-the-door-for-endless-opportunities-abroad-idcs-guide-to-international-study-destinations/1879347/)
+
+Article found but Couldn't summarize 
+PNN New Delhi [India], December 9: Starting on a journey to study abroad is not just about earning a degree; it&#8217;s a transformative experience that opens doors to a world of opportunities. International education transcends borders, broadening horizons and shaping global citizens. If you&#8217;re contemplating studying abroad, iDC (iDreamCareer) is your compass in navigating the [&#8230;]
+
+Sat, 09 Dec 2023 13:02:01 +0000
+### [Eastman Cast & Forge Ltd.: Empowering Entrepreneurs with Quality Tools](https://theprint.in/ani-press-releases/eastman-cast-forge-ltd-empowering-entrepreneurs-with-quality-tools/1879345/)
+
+Article found but Couldn't summarize 
+VMPL New Delhi [India], December 9: In the realm of hand tools, power tools, and bicycles, one name has stood the test of time &#8211; Eastman Cast &#38; Forge Ltd. Since its inception in 1989, the company has been synonymous with quality manufacturing and exporting. As a proud member of the Eastman Group, alongside Eastman [&#8230;]
+
+Sat, 09 Dec 2023 13:00:33 +0000
+### [Kota schoolgirl hangs self at home](https://theprint.in/india/kota-schoolgirl-hangs-self-at-home/1879344/)
+
+Article found but Couldn't summarize 
+Kota (Rajasthan), Dec 9 (PTI) A 15-year–old schoolgirl allegedly hanged herself from the ceiling fan of her room in Bapu Colony here, police said on Saturday. The reason behind the suicide by the class 10 student of a government school is yet to be ascertained. According to police, Nikita Koli returned home after school Friday [&#8230;]
+
+Sat, 09 Dec 2023 13:00:23 +0000
+### [Delhi Police constable stabbed during raid in Wazirpur](https://theprint.in/india/delhi-police-constable-stabbed-during-raid-in-wazirpur/1879343/)
+
+In Delhi's Adarsh Nagar area, a man accused of robbery stabbed a Delhi Police constable when the officer tried to apprehend him. The constable sustained injuries and has been hospitalized for treatment. The police team had gone to arrest the accused, Ajay alias Ganja, who was involved in a previous snatching and robbery case. Ajay and his friend Akash attempted to flee but the constable, Bhupender, tried to stop them. Ajay then stabbed Bhupender in the chest and hand before escaping. Akash, however, was caught by the police. Bhupender's condition is currently stable. The police have formed teams to apprehend Ajay, who is accused in multiple cases of the Arms Act and robbery in the Adarsh Nagar area.
+
+Sat, 09 Dec 2023 13:00:13 +0000
+### [Over 7.43 lakh MGNREGA ‘fake job cards’ deleted in 2022-23, highest in UP](https://theprint.in/india/over-7-43-lakh-mgnrega-fake-job-cards-deleted-in-2022-23-highest-in-up/1879342/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 9 (PTI) More than 7.43 lakh &#8220;fake&#8221; job cards under the Mahatma Gandhi National Rural Employment Guarantee Scheme were deleted in 2022-23, of which over 2.96 lakh were in Uttar Pradesh, the Centre has said in the Lok Sabha. In a written response to a question this week, Minister of State for [&#8230;]
+
+Sat, 09 Dec 2023 13:00:03 +0000
+### [Assam CM, leader of opposition hit back at lawyer Kapil Sibal for his Myanmar remark](https://theprint.in/india/assam-cm-leader-of-opposition-hit-back-at-lawyer-kapil-sibal-for-his-myanmar-remark/1879341/)
+
+Article found but Couldn't summarize 
+Guwahati, Dec 9 (PTI) Assam Chief Minister Himanta Biswa Sarma has hit back at lawyer Kapil Sibal for saying the state was once a part of Myanmar. Leader of the opposition in Assam assembly, Debabrata Saikia, wrote to Sibal asking him to withdraw the statement. Sibal, while appearing before the Supreme Court earlier this week [&#8230;]
+
+Sat, 09 Dec 2023 12:47:40 +0000
+### [Paytm CEO Vijay Shekhar Sharma shares perspective on ‘Wed in India’, RBI regulations and Paytm transaction number](https://theprint.in/economy/paytm-ceo-vijay-shekhar-sharma-shares-perspective-on-wed-in-india-rbi-regulations-and-paytm-transaction-number/1879336/)
+
+Article found but Couldn't summarize 
+Gandhinagar (Gujarat) [India], December 9 (ANI): The founder and CEO of Paytm Vijay Shekhar Sharma, shared his perspectives on various aspects of the significance of &#8216;Wed in India&#8217;, RBI&#8217;s regulations, and the country&#8217;s GDP growth during an event in Gandhinagar, Gujarat. Speaking about Indian weddings, Shekhar Sharma emphasized the cultural importance of these events. He [&#8230;]
+
+Sat, 09 Dec 2023 12:47:31 +0000
+### [‘Stranger Things’ final season to start filming in January](https://theprint.in/feature/stranger-things-final-season-to-start-filming-in-january/1879334/)
+
+Article found but Couldn't summarize 
+Washington DC [US], December 9 (ANI): Makers of the horror drama show &#8216;Stranger Things&#8217; are all set to begin production of the final season of the show. As per Variety, a US-based media outlet, production on the fifth and final season of the juggernaut Netflix series is currently set to begin in early January, according [&#8230;]
+
+Sat, 09 Dec 2023 12:47:21 +0000
+### [Japan: Yamaha introduces most progressive bike ‘TRACER 9 GT+’](https://theprint.in/world/japan-yamaha-introduces-most-progressive-bike-tracer-9-gt/1879332/)
+
+Article found but Couldn't summarize 
+Tokyo [Japan], December 9 (ANI): Motorbike Giant Yamaha Motor has released its &#8216;most progressive&#8217; bike &#8220;TRACER9GT+&#8221;. Installed with a cruise control system using milli radio wave radar, the bike supports the rider to avoid a dangerous accident when other vehicle applies sudden brakes or stops suddenly. Satoshi Kasai from Yamaha Motor said, &#8220;Motorbike usually follows [&#8230;]
+
+Sat, 09 Dec 2023 12:47:12 +0000
+### [Union Minister of Education and Skill Development, Dharmendra Pradhan, Releases Four Management Textbooks Authored by Prof Nayantara Padhi](https://theprint.in/ani-press-releases/union-minister-of-education-and-skill-development-dharmendra-pradhan-releases-four-management-textbooks-authored-by-prof-nayantara-padhi/1879330/)
+
+Article found but Couldn't summarize 
+PNN New Delhi [India], December 9: In a momentous celebration of knowledge and academia, Union Minister of Education and Skill Development, Dharmendra Pradhan, unveiled a significant contribution to the educational landscape. Four cutting-edge management textbooks, authored by the esteemed Prof Nayantara Padhi, PhD, Professor of Management at the prestigious Indira Gandhi National Open University in [&#8230;]
+
+Sat, 09 Dec 2023 12:47:01 +0000
+### [Japan: Yokohama intends to grow its tourist influx; make city more sustainable, smart](https://theprint.in/world/japan-yokohama-intends-to-grow-its-tourist-influx-make-city-more-sustainable-smart/1879328/)
+
+Yokohama City in Japan is aiming to become a more sustainable and smart tourist destination. They organized the Y-Ship global event to collaborate with startups and companies from emerging countries to establish an innovative and smart city. The mayor of Yokohama appealed for cooperation to realize this vision. The event aims to address urban problems and climate change through new innovations. Yokohama City wants to create a low-carbon, eco-friendly, and liveable city. The event has garnered international collaborations and has sparked interest from participants who want to see similar developments in their own cities. Yokohama City is on its way to becoming a more sustainable and innovative city.
+
+Sat, 09 Dec 2023 12:45:50 +0000
+### [Man who roped in shooters for killing Gogamedi held in Jaipur](https://theprint.in/india/man-who-roped-in-shooters-for-killing-gogamedi-held-in-jaipur/1879326/)
+
+Article found but Couldn't summarize 
+Jaipur, Dec 9 (PTI) A man was arrested here for allegedly contracting shooters to kill Shri Rashtriya Rajput Karni Sena president Sukhdev Singh Gogamedi, the state police chief said here on Saturday. Jaipur Police Commissioner Biju George Joseph said Ramveer Jat, one of the conspirators in the Gogamedi murder case, was arrested on Saturday. Ramveer [&#8230;]
+
+Sat, 09 Dec 2023 12:45:37 +0000
+### [BJP to hold demonstrations across Bengal on Dec 11 to highlight farmers’ problems](https://theprint.in/india/bjp-to-hold-demonstrations-across-bengal-on-dec-11-to-highlight-farmers-problems/1879324/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 9 (PTI) BJP&#8217;s West Bengal unit will organise demonstrations in all the blocks of the state on December 11 to support farmers who are allegedly facing economic stress due to crop loss. Talking to reporters at Balurghat in Dakshin Dinajpur district on Saturday, party&#8217;s state unit chief Sukanta Majumdar alleged there farmers don&#8217;t [&#8230;]
+
+Sat, 09 Dec 2023 12:45:34 +0000
+### [Skiing-Shiffrin captures World Cup win 91 in St. Moritz downhill](https://theprint.in/sport/skiing-shiffrin-captures-world-cup-win-91-in-st-moritz-downhill/1879323/)
+
+Article found but Couldn't summarize 
+ST MORITZ, Switzerland (Reuters) -American Mikaela Shiffrin claimed a record-extending 91st alpine skiing World Cup victory when she won the downhill at St. Moritz on Saturday. The twice Olympic gold
+
+Sat, 09 Dec 2023 12:45:27 +0000
+### [People eligible for Aadhaar can enrol using iris scan if fingerprint unavailable: Govt](https://theprint.in/economy/people-eligible-for-aadhaar-can-enrol-using-iris-scan-if-fingerprint-unavailable-govt/1879322/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 9 (PTI) The government on Saturday said a person who is eligible for Aadhaar can enrol using Iris scan in case fingerprints are unavailable. The statement comes after Minister of State for Electronics and IT Rajeev Chandrasekhar intervened to ensure the enrolment of a woman, Josymol P Jose, in Kerala who could [&#8230;]
+
+Sat, 09 Dec 2023 12:45:15 +0000
+### [Activists stage rare UAE politics protest during COP28 climate summit](https://theprint.in/world/activists-stage-rare-uae-politics-protest-during-cop28-climate-summit/1879320/)
+
+Article found but Couldn't summarize 
+DUBAI (Reuters) - A small group of demonstrators staged a very rare protest in Dubai on Saturday in the COP28 U.N. climate summit site to demand the release of pro-democracy activists imprisoned in
+
+Sat, 09 Dec 2023 12:45:14 +0000
+### [TN govt should probe why it took 4 days for flood water to recede: MoS Rajeev Chandrasekhar](https://theprint.in/india/tn-govt-should-probe-why-it-took-4-days-for-flood-water-to-recede-mos-rajeev-chandrasekhar/1879319/)
+
+Article found but Couldn't summarize 
+Chennai, Dec 9 (PTI) The Tamil Nadu government should investigate why it took four days for the flood waters to recede after cyclone &#8216;Michaung&#8217; devastated Chennai and neighbouring areas, Union Minister Rajeev Chandrasekhar said on Saturday. Also, the reasons for prolonged waterlogging should be probed, he said, expressing concern for people&#8217;s lives and structural stability [&#8230;]
+
+Sat, 09 Dec 2023 12:45:04 +0000
+### [Nationwide power outage in Sri Lanka due to a system failure – government official](https://theprint.in/world/nationwide-power-outage-in-sri-lanka-due-to-a-system-failure-government-official/1879317/)
+
+Article found but Couldn't summarize 
+By Uditha Jayasinghe COLOMBO (Reuters) - Sri Lanka is experiencing a countrywide power outage due to a system failure, a government official said on Saturday. Ceylon Electricity Board (CEB), the
+
 Sat, 09 Dec 2023 12:17:40 +0000
 ### [Pakistan leaders under terrorist threat during poll campaign: Interior Minister Bugti](https://theprint.in/world/pakistan-leaders-under-terrorist-threat-during-poll-campaign-interior-minister-bugti/1879296/)
 
