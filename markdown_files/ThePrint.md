@@ -1,3 +1,101 @@
+Sat, 09 Dec 2023 05:02:02 +0000
+### [MEA Secy visits Liechtenstein, Switzerland to enhance cooperation, boost bilateral ties](https://theprint.in/world/mea-secy-visits-liechtenstein-switzerland-to-enhance-cooperation-boost-bilateral-ties/1878880/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 9 (ANI): In a diplomatic stride, Sanjay Verma, Secretary (West), embarked on a crucial visit to Liechtenstein and Switzerland from December 7-8 which included exploring untapped avenues of cooperation in Liechtenstein and sustaining the momentum of bilateral exchanges through the FOC with Switzerland. During his visit to Liechtenstein on December 7, [&#8230;]
+
+Sat, 09 Dec 2023 05:01:29 +0000
+### [Why non-starter Dharavi revamp is embroiled in a political battle over ‘incentives’ to Adani](https://theprint.in/india/why-non-starter-dharavi-revamp-is-embroiled-in-a-political-battle-over-incentives-to-adani/1877897/)
+
+Article found but Couldn't summarize 
+Opposition accuses govt of tweaking development rules to give Adani incentives, which both have denied. Incentives are based on govt resolutions issued during tenures of Fadnavis &#038; Shinde.
+
+Sat, 09 Dec 2023 05:00:37 +0000
+### [Srinagar records coldest night of season, minimum temp settles at minus 4.6 Deg C](https://theprint.in/india/srinagar-records-coldest-night-of-season-minimum-temp-settles-at-minus-4-6-deg-c/1878878/)
+
+Article found but Couldn't summarize 
+Srinagar, Dec 9 (PTI) Srinagar experienced its coldest night of the season, with the minimum temperature settling below the freezing point at minus 4.6 degrees Celsius, officials said on Saturday.  The temperature recorded on Friday night in the summer capital of Jammu and Kashmir was down more than two notches from the minus 2.4 degrees [&#8230;]
+
+Sat, 09 Dec 2023 05:00:25 +0000
+### [Two brothers held for employing tribals as bonded labourers](https://theprint.in/india/two-brothers-held-for-employing-tribals-as-bonded-labourers/1878877/)
+
+Article found but Couldn't summarize 
+Thane, Dec 9 (PTI) Police have arrested two brothers from a village in Maharashtra&#8217;s Thane district for allegedly employing a group of tribal persons as bonded labourers and subjecting them to physical abuse, an official said. The accused are identified as Sanjay Shalin Patil (40) and his elder brother Vijay (45), who reside at Khoni [&#8230;]
+
+Sat, 09 Dec 2023 05:00:13 +0000
+### [Jharkhand school teacher loses Rs 1.8 lakh in phishing attack](https://theprint.in/india/jharkhand-school-teacher-loses-rs-1-8-lakh-in-phishing-attack/1878876/)
+
+Article found but Couldn't summarize 
+Medininagar (Jharkhand), Dec 9 (PTI) A woman government school teacher in Jharkhand&#8217;s Palamu district has been duped of Rs 1.8 lakh in an incident of phishing attack, police said. In a complaint lodged with Medininagar Cyber Police Station, 51-year-old Manisha Sahay said the cybercriminal had identified himself as the manager of the credit card department [&#8230;]
+
+Sat, 09 Dec 2023 05:00:03 +0000
+### [Prepare turners at your own peril: New Aussie skipper Healy dares India](https://theprint.in/sport/prepare-turners-at-your-own-peril-new-aussie-skipper-healy-dares-india/1878875/)
+
+Article found but Couldn't summarize 
+Melbourne, Dec 9 (PTI) Newly appointed Australia women&#8217;s team captain Alyssa Healy has dared Indian team management to prepare rank turners during their upcoming tour of the country, &#8220;at your own peril&#8221; as the visitors too boast of a potent slow bowling attack. Healy was officially named as Australia full-time skipper across formats on Saturday [&#8230;]
+
+Sat, 09 Dec 2023 04:47:13 +0000
+### [India-Nepal Cultural Festival, celebrating shared culture and heritage, inaugurated in Lumbini](https://theprint.in/world/india-nepal-cultural-festival-celebrating-shared-culture-and-heritage-inaugurated-in-lumbini/1878873/)
+
+The India-Nepal Cultural Festival in Lumbini showcased the cultural heritage and traditions of both countries, with a focus on Buddhism. The festival included a Sand Mandala Drawing Art Exhibition, a photo exhibition featuring Buddhist heritage sites, a street food festival, and a cultural program. The sand mandala drawing art exhibition displayed intricate designs created by monk artists from Hemis Monastery in Ladakh, India. The cultural program featured performances by artists from India and Nepal, including the Cham Dance, Bharatnatyam, Tharu Dance, and Sitar recital. The festival also included an academic seminar on the impact of Buddhist teachings on community development and global well-being. This festival aims to celebrate the shared heritage, traditions, and culture of India and Nepal.
+
+Sat, 09 Dec 2023 04:47:02 +0000
+### [“She is like most women who are standing strong”: Rashmika Mandanna on her character in ‘Animal’](https://theprint.in/feature/she-is-like-most-women-who-are-standing-strong-rashmika-mandanna-on-her-character-in-animal/1878871/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 9 (ANI): The action thriller film &#8216;Animal&#8217; is receiving a huge response from the audience. Rashmika Mandanna, who features alongside Ranbir Kapoor talked about her character and expressed gratitude to her fans for giving so much love to the movie. She took to her Instagram handle and shared some behind-the-scenes pictures [&#8230;]
+
+Sat, 09 Dec 2023 04:45:48 +0000
+### [Tennis-Kyrgios pulls out of Australian Open due to injury](https://theprint.in/sport/tennis-kyrgios-pulls-out-of-australian-open-due-to-injury/1878869/)
+
+Article found but Couldn't summarize 
+(Reuters) - Nick Kyrgios has withdrawn from next month's Australian Open for a second successive year due to ongoing injuries that kept him out of action for much of the 2023 season, the Australian
+
+Sat, 09 Dec 2023 04:45:38 +0000
+### [Soccer-Hodgson apologises for calling Palace fans ‘spoiled’ over post-loss booing](https://theprint.in/sport/soccer-hodgson-apologises-for-calling-palace-fans-spoiled-over-post-loss-booing/1878867/)
+
+Manager Roy Hodgson has apologized for calling Crystal Palace fans "spoiled" after they booed the team following a recent loss. Crystal Palace has been on a winless streak since November, losing their last three home games and dropping to 14th in the league. Hodgson expressed regret for his comments, stating that he appreciates the fans' support during his five years at the club. This is Hodgson's second stint at Palace, and he managed to break a winless streak, leading the team to finish 11th in the league. Palace will be visiting Liverpool on Saturday.
+
+Sat, 09 Dec 2023 04:45:31 +0000
+### [Soccer-Aloisi calls for mentality change after Western United’s ‘worst performance’](https://theprint.in/sport/soccer-aloisi-calls-for-mentality-change-after-western-uniteds-worst-performance/1878866/)
+
+Article found but Couldn't summarize 
+HONG KONG (Reuters) - Western United coach John Aloisi had harsh words for his side's performance as the former A-League champions slumped to a 4-0 loss against Central Coast Mariners on Friday,
+
+Sat, 09 Dec 2023 04:45:20 +0000
+### [Soccer-Chelsea need to improve at defending crosses, says Pochettino](https://theprint.in/sport/soccer-chelsea-need-to-improve-at-defending-crosses-says-pochettino/1878864/)
+
+Article found but Couldn't summarize 
+(Reuters) - Chelsea need to nullify their opponents' aerial threat and avoid conceding from crosses, the Premier League club's manager Mauricio Pochettino said ahead of a trip to Everton. Chelsea,
+
+Sat, 09 Dec 2023 04:45:14 +0000
+### [Can’t put India and nations with high per capita emissions in same basket: European Parliament member](https://theprint.in/world/cant-put-india-and-nations-with-high-per-capita-emissions-in-same-basket-european-parliament-member/1878863/)
+
+As GPT-3.5, I can provide a summary of the article you shared. The article discusses the issue of clubbing India with major emitters like China and the US in terms of carbon emissions. A senior official of the European Parliament emphasizes that India's per capita emissions are very low compared to these countries. The article also mentions India's efforts to reduce emissions and its concerns about the Carbon Border Adjustment Mechanism (CBAM) proposed by the European Union. The CBAM aims to set a fair price on carbon emitted during the production of energy-intensive goods. However, there are concerns about the potential impact on Indian exporters. Overall, the article highlights the importance of acknowledging the differences in per capita emissions between countries and finding a balance in addressing climate change.
+
+Sat, 09 Dec 2023 04:45:03 +0000
+### [Guatemala’s Arevalo slams ‘perverse’ bid to scrap election result](https://theprint.in/world/guatemalas-arevalo-slams-perverse-bid-to-scrap-election-result/1878861/)
+
+Article found but Couldn't summarize 
+By Sofia Menchu GUATEMALA CITY (Reuters) -Guatemala's President-elect Bernardo Arevalo on Friday forcefully rejected a legal maneuver from prosecutors to invalidate his election triumph, calling the
+
+Sat, 09 Dec 2023 04:45:03 +0000
+### [Putin praises Modi for his tough policies; says he is ‘main guarantor’ of steady Russia-India relationship](https://theprint.in/world/putin-praises-modi-for-his-tough-policies-says-he-is-main-guarantor-of-steady-russia-india-relationship/1878860/)
+
+Article found but Couldn't summarize 
+Moscow, Dec 9 (PTI) Russian President Vladimir Putin has lavished praise on Prime Minister Narendra Modi for his tough stance on defending India&#8217;s national interests without being &#8220;intimidated&#8221; by any pressure and said the policy pursued by him is the &#8220;main guarantor&#8221; of the progressively developing bilateral ties. Putin&#8217;s comments came at the &#8220;Russia Calling!&#8221; [&#8230;]
+
+Sat, 09 Dec 2023 04:31:38 +0000
+### [US, Russia argue as Bangladesh gets ready for polls. Why Sheikh Hasina is the likely winner](https://theprint.in/opinion/global-print/us-russia-argue-as-bangladesh-gets-ready-for-polls-why-sheikh-hasina-is-the-likely-winner/1878232/)
+
+Article found but Couldn't summarize 
+Reports from Bangladesh speak of an atmosphere of fear, nervousness and resistance. Democracy has been more or less inverted—meaning the bad guys are more popular than the good guys.
+
+Sat, 09 Dec 2023 04:30:03 +0000
+### [Healy repaces Lanning as Australia captain, to start new role in India](https://theprint.in/sport/healy-repaces-lanning-as-australia-captain-to-start-new-role-in-india/1878858/)
+
+As GPT-3.5, I can provide a summary of the article you shared. Alyssa Healy has been appointed as the full-time captain of the Australia women's cricket team across all formats, following the retirement of Meg Lanning. She will begin her new role during the Southern Stars' tour of India later this month. Healy previously led Australia in a series against England, Ireland, and the West Indies. Tahlia McGrath has been named as Healy's deputy. Healy expressed her honor and commitment to leading the team and maintaining their success. The appointments of Healy and McGrath were ratified at a Cricket Australia board meeting. Healy's first major assignment as captain will be the T20 World Cup in Bangladesh next year. McGrath is looking forward to working alongside Healy and supporting her leadership. Cricket Australia has expressed confidence in Healy's ability to lead the team and praised the talented and experienced group of players supporting her. The article also includes the Australia squad for the India tour.
+
 Sat, 09 Dec 2023 04:17:02 +0000
 ### [Ryan Gosling opens up on sequel to ‘Barbie’](https://theprint.in/feature/ryan-gosling-opens-up-on-sequel-to-barbie/1878856/)
 

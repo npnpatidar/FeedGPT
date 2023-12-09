@@ -1,3 +1,9 @@
+2023-12-09T10:13:43+05:30
+### [Israel-Hamas War: US Vetoes UN Security Council Resolution for Gaza Ceasefire](https://thewire.in/world/israel-hamas-war-us-vetoes-un-security-council-resolution-for-gaza-ceasefire)
+
+No Article text 
+US Deputy Envoy to the UN Robert Wood said an immediate cease-fire now would keep Hamas in place and allow it to carry out more terror attacks.
+
 2023-12-09T08:00:19+05:30
 ### [Roger Waters and the Importance of Not Being ‘Comfortably Numb’ on the Palestine Issue](https://thewire.in/the-arts/roger-waters-and-the-importance-of-not-being-comfortably-numb-on-the-palestine-issue)
 

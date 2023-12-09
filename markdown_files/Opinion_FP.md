@@ -1,3 +1,9 @@
+Sat, 09 Dec 2023 10:22:20 +0530
+### [Two months into Gaza conflict, red lines blur as concerns mount over long-term impact](https://www.firstpost.com/opinion/two-months-into-gaza-conflict-red-lines-blur-as-concerns-mount-over-long-term-impact-13483382.html)
+
+Article found but Couldn't summarize 
+Two months into Gaza conflict, red lines blur as concerns mount over long-term impact
+
 Fri, 08 Dec 2023 19:36:41 +0530
 ### [Vantage | What's coffee got to do with politics? Ask Starbucks](https://www.firstpost.com/opinion/vantage-whats-coffee-got-to-do-with-politics-ask-starbucks-13482282.html)
 
