@@ -1,3 +1,119 @@
+Sat, 09 Dec 2023 11:05:12 +0000
+### [By throwing open CM camp office to public, Telangana’s new CM is reviving YSR’s legacy](https://theprint.in/politics/by-throwing-open-cm-camp-office-to-public-telanganas-new-cm-is-reviving-ysrs-legacy/1879068/)
+
+Article found but Couldn't summarize 
+Hyderabad: From opening the gates of the chief minister’s residence and principal workplace, Pragathi Bhavan, to signing his first file at Hyderabad’s famed Lal Bahadur Shastri Stadium, Revanth Reddy seems to be treading in the footsteps of one of united Andhra’s most popular chief ministers — Congress late leader’s Y.S. Rajasekhara Reddy, known popularly as [&#8230;]
+
+Sat, 09 Dec 2023 11:00:49 +0000
+### [Delhi BJP stages protest outside Cong headquarters; alleges corruption in party](https://theprint.in/india/delhi-bjp-stages-protest-outside-cong-headquarters-alleges-corruption-in-party/1879201/)
+
+Delhi BJP leaders and workers protested outside the Congress party headquarters in New Delhi. The demonstration was against the alleged corruption of the Congress party, following the recovery of a large amount of "unaccounted" cash from Odisha. The income-tax department conducted searches that resulted in the recovery of around Rs 250 crore, believed to be linked to an Odisha-based distillery group and entities associated with it. The premises of Dhiraj Prasad Sahu, a Congress Rajya Sabha MP from Jharkhand, were also covered during the searches. The BJP protesters demanded action against Sahu and expressed their faith in Prime Minister Narendra Modi's commitment to catching the corrupt. The protest was attended by various BJP leaders, including Virendra Sachdeva, Parvesh Verma, Ramvir Singh Bidhuri, and Vijendra Gupta.
+
+Sat, 09 Dec 2023 11:00:37 +0000
+### [COVID-19 led to reduction of microplastics in Goa’s Mandovi, Zuari estuaries: Research paper](https://theprint.in/india/covid-19-led-to-reduction-of-microplastics-in-goas-mandovi-zuari-estuaries-research-paper/1879200/)
+
+Article found but Couldn't summarize 
+Panaji, Dec 9 (PTI) The concentration of microplastics in surface water and sediments in Mandovi and Zuari estuaries in Goa declined significantly during the COVID-19 pandemic, which highlights the potential benefits of sustainable consumption and production patterns, a research paper has said. Microplastics are extremely small pieces of plastic debris in the environment resulting from [&#8230;]
+
+Sat, 09 Dec 2023 11:00:26 +0000
+### [Puducherry LG calls for steps on war-footing to help residents in rain-ravaged Chennai](https://theprint.in/india/puducherry-lg-calls-for-steps-on-war-footing-to-help-residents-in-rain-ravaged-chennai/1879199/)
+
+Article found but Couldn't summarize 
+Puducherry, Dec 9 (PTI) Puducherry Lieutenant Governor Tamilisai Soundararajan on Saturday appealed to the Tamil Nadu government to initiate speedy steps and measures on a war footing to help and assist the people in rain-ravaged areas in Chennai. She was speaking to reporters on the sidelines of a regional-level science exhibition organised by the Education [&#8230;]
+
+Sat, 09 Dec 2023 11:00:16 +0000
+### [Ashwini-Tanisha pair enters Guwahati Masters final](https://theprint.in/sport/ashwini-tanisha-pair-enters-guwahati-masters-final/1879198/)
+
+Article found but Couldn't summarize 
+Guwahati, Dec 9 (PTI) India&#8217;s Tanisha Crasto and Ashwini Ponnappa continued their impressive run and stormed into the women&#8217;s doubles final of the Guwahati Masters super 100 badminton tournament here on Saturday. The second seeded Indian combination, which finished runners-up at the Syed Modi International Super 300 tournament last week in Lucknow, beat third seeds [&#8230;]
+
+Sat, 09 Dec 2023 11:00:03 +0000
+### [ISIS module leader among 15 operatives arrested in Maharashtra, Karnataka: NIA](https://theprint.in/india/isis-module-leader-among-15-operatives-arrested-in-maharashtra-karnataka-nia/1879197/)
+
+The National Investigation Agency (NIA) has carried out a major crackdown on the ISIS terrorist organization. During multiple raids in Maharashtra and Karnataka, the NIA has arrested 15 operatives, including the leader of an ISIS module responsible for administering the 'bayath' oath of allegiance to new recruits. The raids took place at various locations in Padgha-Borivali, Thane, Mira Road, Pune, and Bengaluru. The suspects are accused of promoting terror and engaging in terror-related activities on behalf of the banned organization. This summary is based on an article from PTI news service.
+
+Sat, 09 Dec 2023 10:48:15 +0000
+### [“Complicit in brutal massacre”: Russia slams US after it vetoes UN ceasefire resolution in Gaza](https://theprint.in/world/complicit-in-brutal-massacre-russia-slams-us-after-it-vetoes-un-ceasefire-resolution-in-gaza/1879193/)
+
+Article found but Couldn't summarize 
+Moscow [Russia], December 9 (ANI): Russia criticized the United States after it vetoed a UN Security Council resolution calling for an immediate ceasefire in Gaza, CNN reported. Russia&#8217;s UN Ambassador accused the US of authorizing a ground offensive in Gaza by Israel. In a statement to the council, Russia&#8217;s diplomat accused Washington of being &#8220;complicit [&#8230;]
+
+Sat, 09 Dec 2023 10:48:03 +0000
+### [Pashtuns hold worldwide protests to demand release of PTM chief Manzoor Pashteen](https://theprint.in/world/pashtuns-hold-worldwide-protests-to-demand-release-of-ptm-chief-manzoor-pashteen/1879191/)
+
+Article found but Couldn't summarize 
+Frankfurt [Germany], December 9 (ANI): Pashtuns have launched worldwide protests against the arrest of Manzoor Pashteen, the chief of the Pashtun Tahafuz Movement (PTM). Pashteen, a prominent Pashtun leader, was arrested by the police in Pakistan&#8217;s Balochistan province on December 4. He was produced before the anti-terrorism court, which handed him over to the police [&#8230;]
+
+Sat, 09 Dec 2023 10:47:51 +0000
+### [Sunny Kaushal shares special wish for his “Paaji and Parjaiji” Vicky, Katrina on their 2nd wedding anniversary](https://theprint.in/feature/sunny-kaushal-shares-special-wish-for-his-paaji-and-parjaiji-vicky-katrina-on-their-2nd-wedding-anniversary/1879189/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 9 (ANI): Vicky Kaushal and Katrina Kaif are celebrating their second wedding anniversary today and the couple received a special wish from Sunny Kaushal. Taking to the Instagram story, Sunny shared a throwback picture of his Paaji and Parjaiji from their mehndi ceremony. He captioned the post, &#8220;Happy 2nd to Paaji [&#8230;]
+
+Sat, 09 Dec 2023 10:47:42 +0000
+### [This Garden Fair is a Celebration of Nature and Inclusivity](https://theprint.in/ani-press-releases/this-garden-fair-is-a-celebration-of-nature-and-inclusivity/1879187/)
+
+The 10-day Garden Fair, organized by The Association of People with Disability, was inaugurated on December 8 by Rajalakshmi Agarwal, Chairperson of Ola Foundation, and Mathew Chandy, CEO of Duroflex. The fair, located in Bengaluru, features a diverse display of plants, gardening merchandise, seeds, and saplings cultivated by individuals with disabilities. Visitors can explore the fair from December 8 to December 17 between 9 am to 6 pm. The event aims to support gardening efforts and raise awareness about the abilities and aspirations of individuals with disabilities. The proceeds from the sale of items will be used for the sustainability and livelihood training of people with disabilities. To learn more, you can visit www.apd-india.org.
+
+Sat, 09 Dec 2023 10:47:33 +0000
+### [Unveiling Culinary Excellence: SIAL India’s Grand Inauguration with FIFI Welcoming the Largest EU Delegation](https://theprint.in/ani-press-releases/unveiling-culinary-excellence-sial-indias-grand-inauguration-with-fifi-welcoming-the-largest-eu-delegation/1879185/)
+
+Article found but Couldn't summarize 
+BusinessWire India New Delhi [India], December 9: The commencement of SIAL India&#8217;s mega event signifies the initiation of a transformative journey into the future of the food and beverage landscape. Augmenting the grand inauguration is the Forum of Indian Food Importers (FIFI), playing host to the largest-ever European Union (EU) delegation to India. This momentous [&#8230;]
+
+Sat, 09 Dec 2023 10:47:23 +0000
+### [Bridging Nations through Harmony: Twin City Initiative by BCMF Sparks Global Unity and Spiritual Awakening](https://theprint.in/ani-press-releases/bridging-nations-through-harmony-twin-city-initiative-by-bcmf-sparks-global-unity-and-spiritual-awakening/1879183/)
+
+Article found but Couldn't summarize 
+VMPL New Delhi [India], December 9: In a world grappling with the shadows of conflict and environmental crises, the BRICS Culture Media Forum (BCMF) established in 2011 introduces an unprecedented initiative, the Twin City Program, heralding a wave of peace, cultural exchange, and spiritual enlightenment. Emerging from the serene heart of Grozny, Chechnya, this initiative [&#8230;]
+
+Sat, 09 Dec 2023 10:47:12 +0000
+### [Dubai: EAM Jaishankar highlights India’s transformation, global leadership](https://theprint.in/world/dubai-eam-jaishankar-highlights-indias-transformation-global-leadership/1879181/)
+
+As GPT-3.5, I can provide a summary of the article you shared. External Affairs Minister, S Jaishankar, highlighted the ongoing transformations in India and emphasized the role of the Indian diaspora in shaping global perceptions. He discussed various aspects, including technological advancements, social campaigns, and India's achievements in technology and space exploration. Jaishankar also mentioned the importance of effectively communicating India's progress to the world, especially for those studying abroad. He enumerated campaigns such as Swatch Bharat, Beti Bachao Beti Padhao, Digital India, Skill India, and Awas Yojana, showcasing India's progress. Additionally, he emphasized India's positive impact on the international stage, particularly during its G20 presidency.
+
+Sat, 09 Dec 2023 10:47:02 +0000
+### [Pakistan apex court to hear intra-court pleas against military trial verdict on December 13](https://theprint.in/world/pakistan-apex-court-to-hear-intra-court-pleas-against-military-trial-verdict-on-december-13/1879179/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 9 (ANI): The Pakistan Supreme Court will hear the intra-court appeals (ICAs) on December 13, moved to challenge the October 23 apex court verdict against trials of civilians in the military courts, ARY News reported on Saturday. It reported that on October 23, the Supreme Court (SC) announced its verdict by 4-1 [&#8230;]
+
+Sat, 09 Dec 2023 10:45:49 +0000
+### [Delhi Police arrests gang member under MCOCA](https://theprint.in/india/delhi-police-arrests-gang-member-under-mcoca/1879178/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 9 (PTI) The Delhi Police Special Cell has arrested a man under MCOCA (Maharashtra Control of Organised Crime Act) who is part of a gang that has close nexus with the notorious Neeraj Bawana gang, officials said on Saturday. Rohit, 34, was arrested from west Delhi&#8217;s Tilak Nagar on Friday and one [&#8230;]
+
+Sat, 09 Dec 2023 10:45:38 +0000
+### [J&K admin’s actions indicate SC verdict on Article 370 might be against country’s interest: Mehbooba](https://theprint.in/india/jk-admins-actions-indicate-sc-verdict-on-article-370-might-be-against-countrys-interest-mehbooba/1879177/)
+
+Article found but Couldn't summarize 
+Srinagar, Dec 9 (PTI) People&#8217;s Democratic Party (PDP) chief Mehbooba Mufti on Saturday said the actions of the Jammu and Kashmir adminstration hint towards the Supreme Court passing a verdict on petitions related to Article 370 of the Constitution, which might be against the interest of the country. &#8220;Since Friday night, we are witnessing that [&#8230;]
+
+Sat, 09 Dec 2023 10:45:27 +0000
+### [Two get life for murder of constable, another in UP](https://theprint.in/india/two-get-life-for-murder-of-constable-another-in-up/1879175/)
+
+Article found but Couldn't summarize 
+Pratapgarh (UP), Dec 9 (PTI) A local court has convicted two men in the eight-year-old murder of a police constable and one other in Uttar Pradesh&#8217;s Prayagraj district and sentenced them to life in prison. The bullet-riddled bodies of Sarvesh Pandey, a police constable, and one Anupam Shyam Srivastava were recovered from a field in [&#8230;]
+
+Sat, 09 Dec 2023 10:45:25 +0000
+### [Germany’s Scholz confident that budget crisis can be overcome](https://theprint.in/world/germanys-scholz-confident-that-budget-crisis-can-be-overcome/1879174/)
+
+Article found but Couldn't summarize 
+FRANKFURT (Reuters) - German Chancellor Olaf Scholz said on Saturday he was confident that tough talks with coalition partners to fix the country's budget following a landmark court ruling would
+
+Sat, 09 Dec 2023 10:45:15 +0000
+### [Explainer-How many Palestinians have died in Gaza war and how will the counting continue?](https://theprint.in/world/explainer-how-many-palestinians-have-died-in-gaza-war-and-how-will-the-counting-continue-2/1879172/)
+
+Article found but Couldn't summarize 
+By Ali Sawafta and Maggie Fick RAMALLAH, West Bank/BEIRUT (Reuters) -Israeli forces unleashed an aerial and ground blitz against Hamas in Gaza after a cross-border rampage by the enclave's ruling
+
+Sat, 09 Dec 2023 10:45:15 +0000
+### [Bengal: Four of family critically injured in cylinder blast](https://theprint.in/india/bengal-four-of-family-critically-injured-in-cylinder-blast/1879171/)
+
+Article found but Couldn't summarize 
+Jhargram (WB), Dec 9 (PTI) Four members of a family were seriously injured in an explosion of an LPG cylinder in West Bengal&#8217;s Jhargram district on Saturday, police said. The incident took place when food was being cooked in the injured persons&#8217; house in Harina village in Lalgarh police station area, a police officer said. [&#8230;]
+
 Sat, 09 Dec 2023 10:02:53 +0000
 ### [COP28’s Media Centre offers integrated services on 4,000 square metres](https://theprint.in/world/cop28s-media-centre-offers-integrated-services-on-4000-square-metres/1879145/)
 

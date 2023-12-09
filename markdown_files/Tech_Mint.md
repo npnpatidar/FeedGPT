@@ -1,3 +1,15 @@
+Sat, 09 Dec 2023 16:28:39 +0530
+### [Govt blocked over 36,800 URLs since 2018: IT minister Rajeev Chandrasekhar tells Parliament](https://www.livemint.com/technology/tech-news/govt-blocked-urls-2018-october-2023-it-minister-rajeev-chandrasekhar-parliament-rajya-sabha-11702119030209.html)
+
+Article found but Couldn't summarize 
+With 13,660 URLs blocked, X Corp, formerly known as Twitter, saw the maximum number of URLs blocked between 2018 and October 2023, Information Technology (IT) minister Rajeev Chandrasekhar informed the Rajya Sabha on Friday.
+
+Sat, 09 Dec 2023 16:28:27 +0530
+### [Mint AI Summit: Why AI is filling in for mental health professionals](https://www.livemint.com/technology/mint-ai-summit-why-ai-is-filling-in-for-mental-health-professionals-11702119212197.html)
+
+Article found but Couldn't summarize 
+Given the dearth of mental health experts, several individuals are resorting to conversing instead with chatbots. While that may offer some help, there remains an urgent need for greater AI support in addressing mental health requirements
+
 Fri, 08 Dec 2023 23:01:10 +0530
 ### [Spotify CFO Paul Vogel to step down days after third round of layoffs announced for 2023](https://www.livemint.com/technology/tech-news/spotify-cfo-paul-vogel-to-step-down-days-after-third-round-of-layoffs-announced-for-2023-11702056087824.html)
 

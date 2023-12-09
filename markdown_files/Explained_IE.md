@@ -1,3 +1,8 @@
+Sat, 09 Dec 2023 10:16:14 +0000
+### [Recalling the case of Kerala’s Hadiya, whose religious conversion led to NIA probe, SC judgement](https://indianexpress.com/article/explained/kerala-hadiya-religious-conversion-case-explained-9061228/)
+
+Article found but Couldn't summarize
+
 Sat, 09 Dec 2023 08:18:44 +0000
 ### [Why Karnataka is coming down hard on cheating in public examinations](https://indianexpress.com/article/explained/explained-law/karnatakas-anti-cheating-bill-9061077/)
 

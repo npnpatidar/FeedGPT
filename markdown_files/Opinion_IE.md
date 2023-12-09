@@ -1,3 +1,8 @@
+Sat, 09 Dec 2023 10:50:53 +0000
+### [Why Mahua Moitra’s expulsion is against basic legal principles and the Constitution](https://indianexpress.com/article/opinion/columns/mahua-moitras-expulsion-against-basic-legal-principles-constitution-9061277/)
+
+Article found but Couldn't summarize
+
 Sat, 09 Dec 2023 08:34:20 +0000
 ### [Why I gave my father’s Mahavir Chakra to the Naval Academy](https://indianexpress.com/article/opinion/columns/ins-khukri-1971-india-pakistan-war-mahavir-chakra-9061094/)
 
