@@ -1,3 +1,27 @@
+Sat, 09 Dec 2023 19:02:02 +0000
+### [Jaishankar speaks to Palestinian PM, reiterates India’s long-standing position on Palestine](https://theprint.in/world/jaishankar-speaks-to-palestinian-pm-reiterates-indias-long-standing-position-on-palestine/1879658/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 10 (ANI): External Affairs Minister S. Jaishankar held talks with Palestinian Prime Minister Mohammad Shtayyeh on Saturday. Jaishankar reiterated India&#8217;s long-standing position on Palestine. During the telephonic conversation, Mohammad Shtayyeh expressed deep concern on the situation in Gaza and the West Bank. The two leaders agreed to remain in touch. Taking [&#8230;]
+
+Sat, 09 Dec 2023 18:45:04 +0000
+### [Iran begins trial of Swedish EU employee detained in 2022](https://theprint.in/world/iran-begins-trial-of-swedish-eu-employee-detained-in-2022/1879657/)
+
+Article found but Couldn't summarize 
+STOCKHOLM (Reuters) - An Iranian court has begun the trial of a Swedish national employed by the European Union who was detained last year, Sweden's foreign minister said on Saturday. "I have been
+
+Sat, 09 Dec 2023 18:30:02 +0000
+### [Imran Khan challenges ECP contempt proceedings, jail trail](https://theprint.in/world/imran-khan-challenges-ecp-contempt-proceedings-jail-trail/1879656/)
+
+Article found but Couldn't summarize 
+Lahore, Dec 9 (PTI) Pakistan&#8217;s former jailed prime minister Imran Khan on Saturday challenged his &#8216;jail trial&#8217; in a higher court in a contempt case filed by the Election Commission of Pakistan (ECP). Khan, the 71-year-old founder of the Pakistan Tehreek-e-Insaaf (PTI) party, who has been languishing at the Adiala Jail Rawalpindi, moved the Lahore [&#8230;]
+
+Sat, 09 Dec 2023 18:17:01 +0000
+### [US: Biden’s approval ratings hit new low as new poll puts Trumps narrowly ahead in hypothetical rematch](https://theprint.in/world/us-bidens-approval-ratings-hit-new-low-as-new-poll-puts-trumps-narrowly-ahead-in-hypothetical-rematch/1879653/)
+
+Article found but Couldn't summarize 
+Washington DC [US], December 9 (ANI): In the run-up to the US presidential polls, a new national Wall Street Journal poll has placed former President Donald Trump &#8216;narrowly ahead&#8217; of President Je Biden in a hypothetical 2024 rematch, CNN reported. It is pertinent that Biden&#8217;s approval currently stands only at 37 per cent among registered [&#8230;]
+
 Sat, 09 Dec 2023 18:15:42 +0000
 ### [JK Police initiate legal action against social media misuse](https://theprint.in/india/jk-police-initiate-legal-action-against-social-media-misuse/1879652/)
 
