@@ -1,3 +1,51 @@
+Sat, 09 Dec 2023 02:15:43 +0000
+### [China LandSpace’s methane-powered rocket sends satellites into orbit](https://theprint.in/tech/china-landspaces-methane-powered-rocket-sends-satellites-into-orbit/1878813/)
+
+Article found but Couldn't summarize 
+BEIJING (Reuters) -A rocket developed by LandSpace Technology on Saturday launched three satellites into orbit, a milestone in the Chinese private rocket startup's mission to test whether its vehicle
+
+Sat, 09 Dec 2023 02:15:34 +0000
+### [Europe agrees landmark AI regulation deal](https://theprint.in/tech/europe-agrees-landmark-ai-regulation-deal/1878811/)
+
+Article found but Couldn't summarize 
+By Foo Yun Chee, Martin Coulter and Supantha Mukherjee BRUSSELS/LONDON/STOCKHOLM (Reuters) -Europe on Friday reached a provisional deal on landmark European Union rules governing the use of artificial
+
+Sat, 09 Dec 2023 02:15:24 +0000
+### [Tesla says California agency implicitly approved of its ‘Autopilot’ brand](https://theprint.in/tech/tesla-says-california-agency-implicitly-approved-of-its-autopilot-brand/1878809/)
+
+Article found but Couldn't summarize 
+(Reuters) - Tesla Inc defended its use of "Autopilot" and "self-driving" for its driver assistance features, arguing in response to a California regulatory action that the agency had implicitly
+
+Sat, 09 Dec 2023 02:15:12 +0000
+### [Actor Ryan O’Neal, star of ‘Love Story’ and ‘Paper Moon,’ dead at age 82](https://theprint.in/entertainment/actor-ryan-oneal-star-of-love-story-and-paper-moon-dead-at-age-82/1878807/)
+
+Article found but Couldn't summarize 
+By Steve Gorman and Lisa Richwine LOS ANGELES (Reuters) -Actor Ryan O'Neal, the 1970s Hollywood heartthrob who starred in such films as the smash-hit tearjerker "Love Story," screwball comedy "What's
+
+Sat, 09 Dec 2023 02:15:04 +0000
+### [Ukraine says Russian missiles kill one, troops press on Avdiivka](https://theprint.in/world/ukraine-says-russian-missiles-kill-one-troops-press-on-avdiivka/1878806/)
+
+Article found but Couldn't summarize 
+KYIV (Reuters) -Russian warplanes fired 19 long-range missiles at targets in Ukraine on Friday, killing one civilian in a central region, wounding eight and damaging an industrial facility and power
+
+Sat, 09 Dec 2023 02:00:44 +0000
+### [ED meets its match, as ‘Bachcha’ encroaches plot seized in 2016 Bihar topper scam case](https://theprint.in/india/bachcha-takes-ed-for-a-ride-encroaches-land-seized-by-agency-in-bihar-topper-scam-case/1877829/)
+
+Article found but Couldn't summarize 
+Construction stopped &#38; action taken, say police. Enforcement Directorate confiscated plot in 2018 under PMLA, complained to district authorities about illegal excavation last year too.
+
+Sat, 09 Dec 2023 01:47:02 +0000
+### [EU lawmakers agree on artificial intelligence laws](https://theprint.in/world/eu-lawmakers-agree-on-artificial-intelligence-laws/1878804/)
+
+Article found but Couldn't summarize 
+Washington DC [US], December 9 (ANI): European Union lawmakers on Friday agreed to one of the world&#8217;s first major comprehensive artificial intelligence laws, CNN reported. The legislation called AI Act set up a regulatory framework to promote the development of AI while addressing the risks related to the rapidly evolving technology. The legislation imposes a [&#8230;]
+
+Sat, 09 Dec 2023 01:32:01 +0000
+### [IDF says it struck manned Hezbollah observation post in Lebanon](https://theprint.in/world/idf-says-it-struck-manned-hezbollah-observation-post-in-lebanon/1878802/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], December 9 (ANI): The Israel Defence Forces (IDF) said it struck a manned Hezbollah observation post in Lebanon in response to the attacks carried out on the border, The Times of Israel reported. In addition, the IDF said it identified a group of operatives at an anti-tank missile launch site, from where [&#8230;]
+
 Sat, 09 Dec 2023 01:17:01 +0000
 ### [Afghan migrants found involved in political activities to face deportation: Pak caretaker minister](https://theprint.in/world/afghan-migrants-found-involved-in-political-activities-to-face-deportation-pak-caretaker-minister/1878800/)
 

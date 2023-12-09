@@ -1,3 +1,8 @@
+Sat, 09 Dec 2023 01:37:22 +0000
+### [What Putin’s visit to Saudi, UAE signals](https://indianexpress.com/article/explained/explained-global/what-putins-visit-to-saudi-uae-signals-9060419/)
+
+Article found but Couldn't summarize
+
 Fri, 08 Dec 2023 13:10:31 +0000
 ### [Why Parliament passed the Advocates Amendment Bill, which aims to weed out ‘touts’](https://indianexpress.com/article/explained/explained-law/advocates-amendment-bill-2023-parliament-explained-9060190/)
 
