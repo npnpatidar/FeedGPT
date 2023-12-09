@@ -1,3 +1,121 @@
+Sat, 09 Dec 2023 14:02:13 +0000
+### [UAE: Bhupender Yadav reiterates India’s commitment to global cooperation; announces three pillars of LeadIT2.0](https://theprint.in/world/uae-bhupender-yadav-reiterates-indias-commitment-to-global-cooperation-announces-three-pillars-of-leadit2-0/1879426/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 9 (ANI): Union Minister Bhupender Yadav on Friday announced the three pillars of the second phase of Leadership Group for Industry Transition and introduced the next phase of LeadIT to the world and industry leaders, the Ministry of Environment, Forest and Climate Change informed in a press release. The Minister of Environment, [&#8230;]
+
+Sat, 09 Dec 2023 14:02:02 +0000
+### [Pakistan: Nawaz Sharif says he was ousted in 1999 for opposing Kargil war](https://theprint.in/world/pakistan-nawaz-sharif-says-he-was-ousted-in-1999-for-opposing-kargil-war/1879424/)
+
+Article found but Couldn't summarize 
+Lahore [Pakistan], December 9 (ANI): Pakistan Muslim League-Nawaz (PML-N) supremo and former Pakistan Prime Minister Nawaz Sharif underlined the importance of having good relations with India and said that his government was ousted in 1999 because he opposed the Kargil war, The News International reported on Saturday. Nawaz said that PML-N always performed well but [&#8230;]
+
+Sat, 09 Dec 2023 14:01:10 +0000
+### [No purpose will be served by keeping me in custody, AAP’s Sanjay Singh tells court](https://theprint.in/india/no-purpose-will-be-served-by-keeping-me-in-custody-aaps-sanjay-singh-tells-court/1879423/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 9 (PTI) AAP leader Sanjay Singh on Saturday urged a court here to release him, saying no purpose will be served by keeping him in further custody in a money laundering case related to the alleged Delhi excise scam. Singh&#8217;s counsel made the submission before Special Judge M K Nagpal during the [&#8230;]
+
+Sat, 09 Dec 2023 14:00:58 +0000
+### [Modi govt is committed to welfare of every citizen: Union minister Mandaviya](https://theprint.in/india/modi-govt-is-committed-to-welfare-of-every-citizen-union-minister-mandaviya/1879422/)
+
+Article found but Couldn't summarize 
+Patiala, Dec 9 (PTI) Union Health Minister Mansukh Mandaviya Saturday said the Modi government is committed to the welfare of every citizen of the country. The Union minister visited Patiala&#8217;s Dakala area to interact with the beneficiaries of the Central Government&#8217;s flagship &#8216;Viksit Bharat Sankalp Yatra&#8217; campaign. He was accompanied by Patiala MP Preneet Kaur, [&#8230;]
+
+Sat, 09 Dec 2023 14:00:46 +0000
+### [Bangladeshi man arrested for running sex racket](https://theprint.in/india/bangladeshi-man-arrested-for-running-sex-racket/1879420/)
+
+Article found but Couldn't summarize 
+Palghar, Dec 9 (PTI) Police in Maharashtra&#8217;s Palghar district on Saturday claimed to have busted a sex racket with the arrest of a Bangladeshi national. The racket was operating for the last two years and nearly 250 women and girls were pushed into flesh trade through it, said an official. The Anti-Human Trafficking Cell of [&#8230;]
+
+Sat, 09 Dec 2023 14:00:37 +0000
+### [Soccer-Brave Girona can win LaLiga, says Xavi](https://theprint.in/sport/soccer-brave-girona-can-win-laliga-says-xavi/1879419/)
+
+Article found but Couldn't summarize 
+(Reuters) - Barcelona face high-flying Girona in LaLiga on Sunday, and Barca manager Xavi Hernandez believes this season's surprise package are perfectly capable of winning the title. Girona, with
+
+Sat, 09 Dec 2023 14:00:29 +0000
+### [Odisha cash haul: Congress ‘sheltering corrupt’, says BJP’s Himachal chief](https://theprint.in/india/odisha-cash-haul-congress-sheltering-corrupt-says-bjps-himachal-chief/1879417/)
+
+Article found but Couldn't summarize 
+Shimla, Dec 9 (PTI) The BJP&#8217;s Himachal Pradesh unit on Saturday accused the Congress of &#8220;sheltering the corrupt&#8221; over the recovery of a huge amount of &#8220;unaccounted for&#8221; cash in Odisha and demanded stern action against Jharkhand Congress MP Dhiraj Prasad Sahu. It also asked why Congress leaders are silent on the matter. A huge [&#8230;]
+
+Sat, 09 Dec 2023 14:00:21 +0000
+### [Commodities traders pledge at COP28 to protect South American grasslands](https://theprint.in/environment/commodities-traders-pledge-at-cop28-to-protect-south-american-grasslands/1879416/)
+
+Article found but Couldn't summarize 
+By Jake Spring DUBAI (Reuters) - Eight of the world's top commodities traders have pledged to stop buying soy from farms that ruin South American grasslands, adding to previous commitments to shun
+
+Sat, 09 Dec 2023 14:00:16 +0000
+### [Born as female, Indore resident marries sister’s friend after gender affirmation surgery](https://theprint.in/india/born-as-female-indore-resident-marries-sisters-friend-after-gender-affirmation-surgery/1879415/)
+
+Article found but Couldn't summarize 
+Indore, Dec 9 (PTI) A 49-year-old property dealer from Indore who was born as a female has married a woman after undergoing gender affirmation surgery. The bride is a friend of the groom’s sister. Authorities in the financial capital of Madhya Pradesh said on Saturday that they registered the union under the Special Marriage Act [&#8230;]
+
+Sat, 09 Dec 2023 14:00:04 +0000
+### [U.S. is left alone on Gaza issue after veto at UN – Turkey’s FM](https://theprint.in/world/u-s-is-left-alone-on-gaza-issue-after-veto-at-un-turkeys-fm/1879413/)
+
+Article found but Couldn't summarize 
+ISTANBUL (Reuters) - The United States' veto of a proposed United Nations Security Council resolution calling for an immediate humanitarian ceasefire in Gaza was a "complete disappointment," Turkey's
+
+Sat, 09 Dec 2023 14:00:03 +0000
+### [Didn’t do anti-party activities, will not compromise on principles: Danish Ali after BSP suspension](https://theprint.in/india/didnt-do-anti-party-activities-will-not-compromise-on-principles-danish-ali-after-bsp-suspension/1879412/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 9 (PTI) Soon after his suspension from the BSP, party MP Danish Ali on Saturday said he never indulged in any kind of anti-party activities and only raised his voice against the BJP-led government&#8217;s &#8220;anti-people&#8221; policies, asserting that he will &#8220;fight back&#8221; and not compromise on his principles. He said party supremo [&#8230;]
+
+Sat, 09 Dec 2023 13:47:15 +0000
+### [Alia Bhatt gives shoutout to best friend Akansha Ranjan Kapoor on her Telugu debut ‘MaayaOne’](https://theprint.in/feature/alia-bhatt-gives-shoutout-to-best-friend-akansha-ranjan-kapoor-on-her-telugu-debut-maayaone/1879404/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 9 (ANI): Alia Bhatt gave a big shoutout to her best friend and actor Akansha Ranjan Kapoor, who is all set to make her Telugu debut with CV Kumar&#8217;s highly anticipated directorial &#8216;MaayaOne&#8217; opposite Sundeep Kishan. Alia took to Instagram story and shared the poster of Akansha from the film. Sharing [&#8230;]
+
+Sat, 09 Dec 2023 13:47:01 +0000
+### [“Some places are just magical”: Farhan Akhtar visits this location from ‘Dil Chahta Hai’ after 23 years](https://theprint.in/feature/some-places-are-just-magical-farhan-akhtar-visits-this-location-from-dil-chahta-hai-after-23-years/1879402/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 9 (ANI): &#8216;Dil Chahta Hai&#8217;, the comedy-romantic film starring Aamir Khan, Akshaye Khanna and Saif Ali Khan which has gained cult status. It redefined the meaning of friendship, love and relationship. It was a coming-of-age film and a reflection of how Bollywood was starting to change and ready to deal with [&#8230;]
+
+Sat, 09 Dec 2023 13:46:13 +0000
+### [Parole jumper held for attempting 3 murders in Najafgarh, Palam](https://theprint.in/india/parole-jumper-held-for-attempting-3-murders-in-najafgarh-palam/1879401/)
+
+A death row inmate named Vicky, who was a member of the Nandu gang, has been arrested by the Delhi Police. While out on parole, Vicky attempted to kill three individuals in south-west Delhi. The Nandu gang is allegedly involved in multiple criminal activities, including murder, attempt to murder, robbery, extortion, and land grabbing. Vicky was apprehended in Gurugram with two pistols and eight live cartridges. He revealed his association with the gang and his involvement in grabbing unregistered plots in Palam area by forging documents. Whenever the plot owners intervened, the gang would threaten them with violence directed by Nandu. Vicky was serving a life sentence for a murder case but was released on parole granted by the Delhi High Court in July. He took advantage of the parole and committed the recent crimes in Palam Village and Najafgarh areas.
+
+Sat, 09 Dec 2023 13:46:03 +0000
+### [Himachal CM calls for more investment in state’s tourism sector](https://theprint.in/india/himachal-cm-calls-for-more-investment-in-states-tourism-sector/1879400/)
+
+Article found but Couldn't summarize 
+Shimla, Dec 9 (PTI) Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu called for more investment in the state&#8217;s tourism sector as he assured of speedy approvals and clearances. Speaking as a chief guest at the Outlook Traveller Awards-2023 function held in New Delhi on Friday evening, Sukhu said Himachal Pradesh is the best tourist destination [&#8230;]
+
+Sat, 09 Dec 2023 13:45:50 +0000
+### [Nepal-India Cultural Festival held in Lumbini](https://theprint.in/world/nepal-india-cultural-festival-held-in-lumbini/1879399/)
+
+Article found but Couldn't summarize 
+Kathmandu, Dec 9 (PTI) Nepal-India Cultural Festival, showcasing the rich cultural heritage and traditions of the two countries, was held in Lumbini. The festival with a special focus on Buddhism featured a Sand Mandala Drawing Art Exhibition prepared by monk artists from Hemis Monastery in Ladakh, India, a photo exhibition based on the photographs of [&#8230;]
+
+Sat, 09 Dec 2023 13:45:36 +0000
+### [PM Modi visits PTI headquarters](https://theprint.in/india/pm-modi-visits-pti-headquarters/1879398/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 9 (PTI) Prime Minister Narendra Modi visited the Press Trust of India office here on Saturday in his first visit to any newsroom since he assumed office in 2014, and saw from close quarters the news agency&#8217;s newly-launched video service. During his one-hour stay, Modi interacted with the entire PTI staff in [&#8230;]
+
+Sat, 09 Dec 2023 13:45:25 +0000
+### [Series win over Aussies was big boost ahead of SA tour: Suryakumar](https://theprint.in/sport/series-win-over-aussies-was-big-boost-ahead-of-sa-tour-suryakumar/1879397/)
+
+Article found but Couldn't summarize 
+Durban, Dec 9 (PTI) Suryakumar Yadav on Saturday admitted that the heart-breaking World Cup final defeat is a tough one to move on from, but the Indian captain termed the recent T20 series win over Australia as a big boost for the team ahead of the South Africa tour. India had beaten Australia 4-1 in [&#8230;]
+
+Sat, 09 Dec 2023 13:45:14 +0000
+### [SC judge voices concern over online harassment, says deepfake tech raises privacy invasion alarms](https://theprint.in/india/sc-judge-voices-concern-over-online-harassment-says-deepfake-tech-raises-privacy-invasion-alarms/1879396/)
+
+Justice Hima Kohli, a Supreme Court judge, expressed concern about the increasing trend of sexual harassment through social media. She also highlighted the emergence of deepfake technology, which raises concerns about privacy invasion, security risks, and the spread of misinformation. Deepfakes, which can create highly realistic content, pose a challenge to the authenticity of information and personal identity. Justice Kohli emphasized that deepfakes can spread false information that appears to come from trusted sources. She mentioned that the digital era has blurred the boundaries between professional and personal spaces, allowing harassment to seep into virtual arenas. Justice Kohli called for a holistic approach involving collaboration between policymakers, social media entities, employers, and users to create safe online environments and provide support for victims of online harassment. She also stressed the need to enhance legal frameworks to effectively address harassment in the digital and online spaces.
+
+Sat, 09 Dec 2023 13:45:03 +0000
+### [Four booked for fire at Pune candle making unit that killed 7](https://theprint.in/india/four-booked-for-fire-at-pune-candle-making-unit-that-killed-7/1879395/)
+
+Article found but Couldn't summarize 
+Pune, Dec 9 (PTI) A case was registered against four persons on Saturday in connection with a fire in a candle manufacturing unit in Pimpri Chinchwad in Pune a day earlier that killed seven and left 11 seriously injured, a police official said. The fire took place at around 2:45pm on Friday in the factory [&#8230;]
+
 Sat, 09 Dec 2023 13:04:18 +0000
 ### [Going to the museum is good for health — a Canadian association just proved it](https://theprint.in/health/going-to-the-museum-is-good-for-health-a-canadian-association-just-proved-it/1879339/)
 
