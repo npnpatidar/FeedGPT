@@ -1,3 +1,123 @@
+Sat, 09 Dec 2023 15:15:36 +0000
+### [PM Modi pens poem during visit to PTI headquarters](https://theprint.in/india/pm-modi-pens-poem-during-visit-to-pti-headquarters/1879505/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 9 (PTI) Prime Minister Narendra Modi, who visited the PTI newsroom on Saturday, concluded his hour-long tour with a thoughtful poem penned in the news agency&#8217;s visitors book, reminding journalists that ethics and thoughts are their best weapons. Writing in Hindi in his inimitable handwriting, the poem begins with the line &#8220;Aachaar, [&#8230;]
+
+Sat, 09 Dec 2023 15:15:36 +0000
+### [Majority of Americans hold Hamas responsible for conflict in Middle East, finds Pew survey](https://theprint.in/world/majority-of-americans-hold-hamas-responsible-for-conflict-in-middle-east-finds-pew-survey/1879450/)
+
+Article found but Couldn't summarize 
+Pew survey also found that 41% respondents in US were concerned that ongoing Israel-Hamas conflict may lead to terrorist attack on American soil.
+
+Sat, 09 Dec 2023 15:15:31 +0000
+### [Soccer-Salah nets 200th goal as Liverpool go top with 2-1 win over 10-man Palace](https://theprint.in/sport/soccer-salah-nets-200th-goal-as-liverpool-go-top-with-2-1-win-over-10-man-palace/1879504/)
+
+Article found but Couldn't summarize 
+LONDON (Reuters) -Mohamed Salah netted his 200th goal for Liverpool and Harvey Elliott scored a stoppage-time winner as Liverpool came from behind to beat 10-man Crystal Palace 2-1 and go top of the
+
+Sat, 09 Dec 2023 15:15:25 +0000
+### [Arunachal BJP stages demonstrations against Congress on cash recovery](https://theprint.in/india/arunachal-bjp-stages-demonstrations-against-congress-on-cash-recovery/1879502/)
+
+Article found but Couldn't summarize 
+Itanagar, Dec 9 (PTI) Arunachal Pradesh&#8217;s BJP unit on Saturday staged demonstrations across the state against the opposition Congress following the recovery of &#8220;unaccounted&#8221; cash from the premises of party&#8217;s Jharkhand Rajya Sabha MP Dhiraj Prasad Sahu. Unaccounted cash amounting to around Rs 225 crore has been recovered so far through searches being conducted by [&#8230;]
+
+Sat, 09 Dec 2023 15:15:17 +0000
+### [Factbox-What are Europe’s landmark AI regulations?](https://theprint.in/tech/factbox-what-are-europes-landmark-ai-regulations/1879501/)
+
+Article found but Couldn't summarize 
+By Foo Yun Chee BRUSSELS (Reuters) - European Union policymakers and lawmakers clinched a deal on Friday on the world's first comprehensive set of rules regulating the use of artificial intelligence (
+
+Sat, 09 Dec 2023 15:15:14 +0000
+### [Scoreboard 2nd women’s T20I: IND vs ENG](https://theprint.in/sport/scoreboard-2nd-womens-t20i-ind-vs-eng/1879500/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 9 (PTI) Scoreboard of the second T20I between India and England here on Saturday. India Women Innings: Shafali Verma lbw b Charlotte Dean 0 Smriti Mandhana lbw b Charlotte Dean 10 Jemimah Rodrigues lbw b Sarah Glenn 30 Harmanpreet Kaur lbw b Nat Sciver-Brunt 9 Deepti Sharma c Amy Jones b Lauren Bell [&#8230;]
+
+Sat, 09 Dec 2023 15:15:05 +0000
+### [Russia says U.S.-Russian dual national detained for ‘rehabilitating Nazism’](https://theprint.in/world/russia-says-u-s-russian-dual-national-detained-for-rehabilitating-nazism/1879499/)
+
+Article found but Couldn't summarize 
+MOSCOW (Reuters) - A man with dual U.S.-Russian nationality has been placed in pre-trial custody in St Petersburg for "rehabilitating Nazism" in posts on social media, the city's court service said on
+
+Sat, 09 Dec 2023 15:15:03 +0000
+### [J’khand Guv asks techies to innovate for benefit of people](https://theprint.in/india/jkhand-guv-asks-techies-to-innovate-for-benefit-of-people-2/1879498/)
+
+Article found but Couldn't summarize 
+Dhanbad (Jharkhand), Dec 9 (PTI) Jharkhand Governor CP Radhakrishan on Saturday called upon technocrats to innovate for the benefit of people and development of society. Addressing the 98th foundation of IIT-ISM Dhanbad, the governor said, &#8220;In today&#8217;s fast-paced world, where technology is advancing rapidly, institutions have an important role to play in grooming the next [&#8230;]
+
+Sat, 09 Dec 2023 15:03:32 +0000
+### [Uttarakhand govt receives proposals worth Rs 3.5 lakh cr during 2-day Global Investors’ summit](https://theprint.in/economy/uttarakhand-govt-receives-proposals-worth-rs-3-5-lakh-cr-during-2-day-global-investors-summit/1879438/)
+
+Article found but Couldn't summarize 
+Chief Minister Dhami said ‘all industrialists investing in state are brand ambassadors and govt will ensure ‘Destination Uttarakhand’ proves to be excellent brand for investment’.
+
+Sat, 09 Dec 2023 15:02:02 +0000
+### [Vaani Kapoor celebrates 7 years of ‘Befikre’](https://theprint.in/feature/vaani-kapoor-celebrates-7-years-of-befikre/1879493/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 9 (ANI): Actors Ranveer Singh and Vaani Kapoor starrer romantic comedy film &#8216;Befikre&#8217; turned 7 on Saturday. To mark the occasion, Vaani took to her Instagram and shared a clip from the film to her stories. The clip features scenes from the film. &#8216;Befikre&#8217; is about a young couple played by [&#8230;]
+
+Sat, 09 Dec 2023 15:01:07 +0000
+### [There should be no politics on SC or its judgment on Article 370 petitions: J&K BJP chief](https://theprint.in/india/there-should-be-no-politics-on-sc-or-its-judgment-on-article-370-petitions-jk-bjp-chief/1879491/)
+
+Article found but Couldn't summarize 
+Srinagar, Dec 9 (PTI) There should be no politics over the Supreme Court or its judgment on petitions challenging the abrogation of Article 370 of the Constitution and its verdict should be respected by the entire country, BJP&#8217;s Jammu and Kashmir unit chief Ravinder Raina said on Saturday. The remarks of the Bharatiya Janata Party [&#8230;]
+
+Sat, 09 Dec 2023 15:00:55 +0000
+### [Delhi’s Red Fort to remain open for visitors this Monday](https://theprint.in/india/delhis-red-fort-to-remain-open-for-visitors-this-monday/1879490/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 9 (PTI) Delhi&#8217;s iconic Red Fort, which is otherwise closed on Monday, will remain open for visitors on December 11, officials said on Saturday. The Red Fort, a UNESCO World Heritage Site, which draws a large number of tourists from across India and abroad. The 17th-century monument was closed for general visitors [&#8230;]
+
+Sat, 09 Dec 2023 15:00:45 +0000
+### [Cong should learn lessons from poll results: Jayant Chaudhary](https://theprint.in/india/cong-should-learn-lessons-from-poll-results-jayant-chaudhary/1879488/)
+
+Article found but Couldn't summarize 
+Lucknow, Dec 9 (PTI) Rashtriya Lok Dal president Jayant Chaudhary Saturday took a dig at INDIA bloc ally Congress, advising it to &#8220;learn a lesson&#8221; from the results in the recent assembly polls, while calling for finalising seat sharing for upcoming elections. Chaudhary, who was in Lucknow on Saturday, told mediapersons, &#8220;The Congress was a [&#8230;]
+
+Sat, 09 Dec 2023 15:00:36 +0000
+### [Benefits of central, state schemes being passed onto people of Gujarat: CM Patel](https://theprint.in/india/benefits-of-central-state-schemes-being-passed-onto-people-of-gujarat-cm-patel/1879487/)
+
+Article found but Couldn't summarize 
+Gandhinagar, Dec 9 (PTI) The benefits of various schemes of the central and state governments are being passed onto the people of Gujarat, embodying the commitment to good governance and service, Chief Minister Bhupendra Patel said on Saturday. The CM was speaking at the ‘Viksit Bharat Sankalp Yatra 2023’ programme at Lavarpur village in Gandhinagar [&#8230;]
+
+Sat, 09 Dec 2023 15:00:25 +0000
+### [Hardik might play Afghanistan T20s, Dravid’s tenure to be finalised after SA tour: Jay Shah](https://theprint.in/sport/hardik-might-play-afghanistan-t20s-dravids-tenure-to-be-finalised-after-sa-tour-jay-shah/1879486/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 9 (PTI) Injured India all-rounder Hardik Pandya is undergoing intense rehabilitation at the National Cricket Academy and could be fit for next month&#8217;s T20 series against Afghanistan, BCCI secretary Jay Shah said on Saturday. Hardik had torn ligament of his left ankle while trying to stop a powerful hit off his own bowling [&#8230;]
+
+Sat, 09 Dec 2023 15:00:14 +0000
+### [Govt committed to development of rural communities: Rijiju](https://theprint.in/india/govt-committed-to-development-of-rural-communities-rijiju/1879485/)
+
+Article found but Couldn't summarize 
+Itanagar, Dec 9 (PTI) Union minister Kiren Rijiju on Saturday said that the Centre was committed to the development and upliftment of rural communities. Taking part in the &#8216;Viksit Bharat Sankalp Yatra&#8217; at Rama Camp in Dirang circle of West Kameng district, he outlined the goals of various welfare schemes of the government, and spoke [&#8230;]
+
+Sat, 09 Dec 2023 15:00:03 +0000
+### [J’khand Guv asks techies to innovate for benefit of people](https://theprint.in/india/jkhand-guv-asks-techies-to-innovate-for-benefit-of-people/1879484/)
+
+Article found but Couldn't summarize 
+Dhanbad (Jharkhand), Dec 9 (PTI) Jharkhand Governor CP Radhakrishan on Saturday called upon technocrats to innovate for the benefit of people and development of society. Addressing the 98th foundation of IIT-ISM Dhanbad, the governor said, &#8220;In today&#8217;s fast-paced world, where technology is advancing rapidly, institutions have an important role to play in grooming the next [&#8230;]
+
+Sat, 09 Dec 2023 14:47:14 +0000
+### [‘Guntur Kaaram’: Second track ‘Oh My Baby’ from Mahesh Babu starrer to be out on this date](https://theprint.in/feature/guntur-kaaram-second-track-oh-my-baby-from-mahesh-babu-starrer-to-be-out-on-this-date/1879481/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 9 (ANI): Makers of the upcoming film &#8216;Guntur Kaaram&#8217; on Thursday announced the release date of the film&#8217;s second track &#8216;Oh My Baby&#8217;. Taking to X (formerly Twitter), Aditya Music shared a poster of the film&#8217;s second song and wrote, &#8220;Ablistering coffee with a blissful melody Swing to the most romantic [&#8230;]
+
+Sat, 09 Dec 2023 14:47:02 +0000
+### [Being ‘Atmanirbhar’ very important for a big nation like India: EAM Jaishankar](https://theprint.in/world/being-atmanirbhar-very-important-for-a-big-nation-like-india-eam-jaishankar/1879479/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 9 (ANI): Stressing the importance of supply chains, External Affairs Minister S Jaishankar said that being &#8216;Atmanirbhar&#8217; (self-reliant) is very important for a large economy like India. He also called the businesses the &#8220;engine for India&#8217;s progress&#8221; calling upon the business leaders to contribute towards building supply chains. The EAM was [&#8230;]
+
+Sat, 09 Dec 2023 14:45:52 +0000
+### [Soccer-Salah nets 200th goal for Liverpool on way to beating 10-man Crystal Palace](https://theprint.in/sport/soccer-salah-nets-200th-goal-for-liverpool-on-way-to-beating-10-man-crystal-palace/1879477/)
+
+Article found but Couldn't summarize 
+LONDON (Reuters) - Mohamed Salah netted his 200th goal for Liverpool and Harvey Elliott scored a stoppage-time winner as Liverpool came from behind to beat 10-man Crystal Palace 2-1 and go top of the
+
 Sat, 09 Dec 2023 14:02:13 +0000
 ### [UAE: Bhupender Yadav reiterates India’s commitment to global cooperation; announces three pillars of LeadIT2.0](https://theprint.in/world/uae-bhupender-yadav-reiterates-indias-commitment-to-global-cooperation-announces-three-pillars-of-leadit2-0/1879426/)
 
