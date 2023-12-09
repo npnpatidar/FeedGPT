@@ -1,3 +1,8 @@
+Sat, 09 Dec 2023 04:30:16 +0000
+### [‘The Archies’ – why it’s important for Gen Z, nepo kids and all](https://indianexpress.com/article/opinion/the-archies-why-important-gen-z-nepo-kids-all-9060344/)
+
+Article found but Couldn't summarize
+
 Sat, 09 Dec 2023 03:24:47 +0000
 ### [Hamas Attack, In Perspective](https://indianexpress.com/article/opinion/columns/hamas-attack-perspective-mumbai-terror-9060776/)
 

@@ -1,3 +1,15 @@
+2023-12-09T11:52:11+05:30
+### [Activist Nikhil Dey Among US Government’s International Anti-Corruption Champions for 2023](https://thewire.in/world/activist-nikhil-dey-us-government-international-anti-corruption-champion)
+
+No Article text 
+The co-founder of Mazdoor Kisan Shakti Sangathan was recognised for his decades-long work to build peasant and worker empowerment campaigns and exposing corruption in the delivery of government services.
+
+2023-12-09T10:54:31+05:30
+### [Vikrant Will Soon Be Deployed Operationally but Navy’s Aircraft Carrier Dilemma To Continue](https://thewire.in/security/vikrant-indian-navy-aircraft-carrier-dilemma)
+
+No Article text 
+The air arm of the indigenous carrier only inspires 'limited confidence', according to experts. The navy also continues to grapple with securing approval for a third carrier to supplement Vikrant and INS Vikramaditya.
+
 2023-12-09T10:13:43+05:30
 ### [Israel-Hamas War: US Vetoes UN Security Council Resolution for Gaza Ceasefire](https://thewire.in/world/israel-hamas-war-us-vetoes-un-security-council-resolution-for-gaza-ceasefire)
 

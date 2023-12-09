@@ -1405,3 +1405,13 @@ Started at 2023-12-09 05:16:59
 Finished at 2023-12-09 05:18:53
 Total time taken: 114.30707120895386 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2023-12-09 06:22:31
+1 Feed entries have been written to feeds/Explained_IE.xml
+1 Feed entries have been written to feeds/Explain_FP.xml
+1 Feed entries have been written to feeds/Opinion_IE.xml
+2 Feed entries have been written to feeds/The_Wire.xml
+18 Feed entries have been written to feeds/ThePrint.xml
+23 new entries have been added
+Finished at 2023-12-09 06:24:29
+Total time taken: 117.67541480064392 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

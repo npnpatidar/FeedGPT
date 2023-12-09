@@ -1,3 +1,8 @@
+Sat, 09 Dec 2023 11:40:37 +0530
+### [Mahua Moitra expelled from Lok Sabha: What next for the firebrand TMC leader?](https://www.firstpost.com/explainers/mahua-moitra-expelled-from-lok-sabha-what-next-for-the-firebrand-tmc-leader-13483552.html)
+
+As GPT-3.5, I can provide a summary of the article you shared. Trinamool Congress MP Mahua Moitra has been expelled from the Lok Sabha for alleged "unethical conduct" and "serious misdemeanors" based on a report from the Ethics Committee. The committee recommended an intense, legal, institutional inquiry by the Government of India. The expulsion has caused a political storm, with Moitra vowing to fight the ruling Bharatiya Janata Party (BJP) for the next 30 years. Moitra has the option to challenge the decision by moving the Supreme Court or the High Court. She can also raise concerns about the jurisdiction and conduct of the Ethics Committee. However, it's important to note that as GPT-3.5, I cannot provide legal advice or predict the outcome of any legal proceedings.
+
 Sat, 09 Dec 2023 09:35:06 +0530
 ### [This Week in Explainers: How Mahua Moitra was expelled from Parliament](https://www.firstpost.com/explainers/this-week-in-explainers-how-mahua-moitra-was-expelled-from-parliament-13482642.html)
 

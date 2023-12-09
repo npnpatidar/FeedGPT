@@ -5,6 +5,15 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Opinion_IE.xml</link>
 		<description>Opinion IE</description>
 		<item>
+			<title>‘The Archies’ – why it’s important for Gen Z, nepo kids and all</title>
+			<link>https://indianexpress.com/article/opinion/the-archies-why-important-gen-z-nepo-kids-all-9060344/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Sat, 09 Dec 2023 04:30:16 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2023/12/archies-2.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2023/12/archies-2.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Hamas Attack, In Perspective</title>
 			<link>https://indianexpress.com/article/opinion/columns/hamas-attack-perspective-mumbai-terror-9060776/</link>
 			<description>Article found but Couldn't summarize</description>

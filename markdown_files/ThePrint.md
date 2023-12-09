@@ -1,3 +1,107 @@
+Sat, 09 Dec 2023 06:17:13 +0000
+### [Towson University expands efforts to draw more students from around the world](https://theprint.in/ani-press-releases/towson-university-expands-efforts-to-draw-more-students-from-around-the-world/1878919/)
+
+Towson University has announced its partnership with Study Group as its global education partner. This partnership aims to recruit international students and provide support throughout the admissions process for undergraduate and graduate programs. Towson University, located in Maryland, offers a wide range of programs in STEM, healthcare, business, and the arts. It has been recognized as the 15th-best Master's University in the United States by Washington Monthly. The university also offers research, internship, and employment opportunities in the Baltimore-Washington D.C. region. The partnership with Study Group will help widen student access to global education within North America.
+
+Sat, 09 Dec 2023 06:17:01 +0000
+### [Adani Group secures second global rank among large-scale solar PV developers](https://theprint.in/economy/adani-group-secures-second-global-rank-among-large-scale-solar-pv-developers/1878917/)
+
+Article found but Couldn't summarize 
+Ahmedabad (Gujarat) [India], December 9(ANI): Chairman of Adani Group, Gautam Adani, expressed elation as Mercom Capital&#8217;s recent rankings positioned the conglomerate as the second-largest global player among large-scale solar PV developers. The recognition signifies Adani Group&#8217;s steadfast commitment as one of the fastest-growing contributors to renewable energy on a global scale. This achievement aligns with [&#8230;]
+
+Sat, 09 Dec 2023 06:15:03 +0000
+### [U.S., South Korea, Japan to step up actions on North Korea cyber threats](https://theprint.in/world/u-s-south-korea-japan-to-step-up-actions-on-north-korea-cyber-threats/1878915/)
+
+Article found but Couldn't summarize 
+By Hyunsu Yim and Ju-min Park SEOUL (Reuters) -The United States, South Korea and Japan agreed new initiatives on Saturday to respond to North Korea's threats in cyberspace, including cryptocurrency
+
+Sat, 09 Dec 2023 06:14:26 +0000
+### [Chennai learned from 2015 floods but encroachments exposed it to cyclone fury](https://theprint.in/opinion/newsmaker-of-the-week/chennai-learned-from-2015-floods-but-encroachments-exposed-it-to-cyclone-fury/1878883/)
+
+Article found but Couldn't summarize 
+Despite better management and fewer casualties during the 2023 floods, the DMK government was not able to handle the aftermath of the floods as efficiently.
+
+Sat, 09 Dec 2023 06:03:04 +0000
+### [Amit Shah’s attack on Nehru over Kashmir was ‘unjust & hypocritical’, says Urdu press](https://theprint.in/urduscope/amit-shahs-attack-on-nehru-over-kashmir-was-unjust-hypocritical-says-urdu-press/1878310/)
+
+Article found but Couldn't summarize 
+ThePrint’s round-up of how the Urdu media covered various news events through the week, and the editorial positions some of them took.
+
+Sat, 09 Dec 2023 06:02:14 +0000
+### [Stability AI Acheives Real-Time AI Image Generation With Their Latest Model](https://theprint.in/ani-press-releases/stability-ai-acheives-real-time-ai-image-generation-with-their-latest-model/1878910/)
+
+Article found but Couldn't summarize 
+ATK New Delhi [India], December 9: Stability AI, the company behind Stable Diffusion recently launched their latest Stable Diffusion model called SDXL Turbo. This model brings real-time image generation which changes how artists use Stable Diffusion to generate images. Unlike other Stable Diffusion models that require multiple steps for image generation, SDXL Turbo is a [&#8230;]
+
+Sat, 09 Dec 2023 06:02:01 +0000
+### [University of Nebraska at Omaha partners with international education specialists Study Group to increase international student recruitment](https://theprint.in/ani-press-releases/university-of-nebraska-at-omaha-partners-with-international-education-specialists-study-group-to-increase-international-student-recruitment/1878908/)
+
+Article found but Couldn't summarize 
+PRNewswire New Delhi [India], December 9: The University of Nebraska at Omaha (UNO) and Study Group are pleased to announce a new partnership focused on widening the participation of talented students from around the world to the university&#8217;s undergraduate and graduate programs. Study Group will draw on its global expertise and network of staff in [&#8230;]
+
+Sat, 09 Dec 2023 06:00:25 +0000
+### [India records 148 new COVID-19 cases](https://theprint.in/india/india-records-148-new-covid-19-cases/1878906/)
+
+According to data from the Union Health Ministry, India reported 148 new COVID-19 infections in a single day, bringing the total number of cases to 4.5 crore (4,50,02,889). The active cases have risen to 808, while the death toll stands at 5,33,306. The number of people who have recovered from the disease has increased to 4,44,68,775, resulting in a national recovery rate of 98.81%. The case fatality rate remains at 1.19%. The country has administered 220.67 crore doses of COVID-19 vaccines so far.
+
+Sat, 09 Dec 2023 06:00:14 +0000
+### [Kerala doctor, 5 others held for running spurious liquor production unit](https://theprint.in/india/kerala-doctor-5-others-held-for-running-spurious-liquor-production-unit/1878905/)
+
+Article found but Couldn't summarize 
+Thrissur (Kerala), Dec 9 (PTI) A 44-year-old doctor and five others were arrested for running a spurious liquor production unit behind a restaurant here, Excise officials said on Saturday. The unit had been operating at Peringottukara here for sometime by the gang led by Irinjalakuda resident Anoop, an allopathy doctor, they said. The excise commissioner&#8217;s [&#8230;]
+
+Sat, 09 Dec 2023 06:00:03 +0000
+### [Sit-in demonstration in Andamans’ Swaraj Dweep from Dec 11-13 to protest frequent power cuts](https://theprint.in/india/sit-in-demonstration-in-andamans-swaraj-dweep-from-dec-11-13-to-protest-frequent-power-cuts/1878904/)
+
+Article found but Couldn't summarize 
+Port Blair, Dec 9 (PTI) Hoteliers, tour operators and local people have decided to stage a three-day sit-in demonstration in Swaraj Dweep, popularly known as Havelock Islands, in Andaman and Nicobar Islands from December 11-13 to protest frequent power cuts.. They said frequent power outages are affecting the tourism industry, besides hampering daily lives. Tourism [&#8230;]
+
+Sat, 09 Dec 2023 05:47:16 +0000
+### [Salman Khan’s mother Salma Khan celebrates her 81st birthday, Arpita wishes her with a special message](https://theprint.in/feature/salman-khans-mother-salma-khan-celebrates-her-81st-birthday-arpita-wishes-her-with-a-special-message/1878902/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 9 (ANI): Superstar Salman Khan&#8217;s mother Salma Khan recently celebrated her 81st birthday. Her daughter Arpita Khan and son-in-law Atul Agnihotri wished her on this special day. Atul shared a sweet video of her cutting a huge cake. In the video, she can be seen along with her close ones including [&#8230;]
+
+Sat, 09 Dec 2023 05:47:01 +0000
+### [Russia launches cruise missile barrage on Ukraine after extended pause](https://theprint.in/world/russia-launches-cruise-missile-barrage-on-ukraine-after-extended-pause/1878900/)
+
+Article found but Couldn't summarize 
+Kyiv [Ukraine], December 9 (ANI): In the resumption of hostilities, Russia fired a barrage of cruise missiles at Ukrainian targets early on Friday morning, marking the end of an almost 80-day pause, CNN reported, citing Ukrainian officials. The air raid in Kyiv lasted for nearly two hours, but air defences successfully intercepted all missiles heading [&#8230;]
+
+Sat, 09 Dec 2023 05:45:06 +0000
+### [Biden mocks Trump during California fundraising trip](https://theprint.in/entertainment/biden-mocks-trump-during-california-fundraising-trip/1878898/)
+
+As GPT-3.5, I can provide a summary of the article you shared. President Joe Biden began a fundraising trip in California, where he mocked Donald Trump for claiming he would be a dictator on his first day in office if he were to become president again. Biden referred to Trump as a threat to democracy and did not mention his son's recent criminal charges during the fundraiser. California has traditionally been a significant source of funding for Democrats, and the end of labor strikes in the entertainment industry has unlocked pent-up dollars for fundraising. Biden is expected to participate in fundraisers with notable figures such as Steven Spielberg, Rob Reiner, Barbra Streisand, and Lenny Kravitz. The fundraisers in California and Boston are projected to raise at least $15 million, with a total fourth-quarter haul of around $67 million. Biden also made an announcement in Las Vegas regarding funding for new passenger rail projects. These projects, funded by the infrastructure law, include the nation's first high-speed rail line in California and a high-speed rail corridor between Las Vegas and Southern California. Biden has been traveling across the country to announce new funding tied to his legislative initiatives, aiming to boost his poll ratings and demonstrate his ability to lead the U.S. economy. However, recent public opinion polls suggest limited success in these efforts.
+
+Sat, 09 Dec 2023 05:45:03 +0000
+### [2 members of Lawrence Bishnoi gang nabbed in Delhi’s Vasant Kunj](https://theprint.in/india/2-members-of-lawrence-bishnoi-gang-nabbed-in-delhis-vasant-kunj/1878897/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 9 (PTI) The Delhi Police&#8217;s Special Cell has apprehended two members of the Lawrence Bishnoi criminal gang following a brief exchange of fire in the Vasant Kunj area here, police said on Saturday.  One of them is a juvenile. They &#8212; Anish (23) and a 15-year-old &#8212; were apprehended from near Pocket-9 [&#8230;]
+
+Sat, 09 Dec 2023 05:30:02 +0000
+### [Woman found dead at south Delhi flat](https://theprint.in/india/woman-found-dead-at-south-delhi-flat/1878889/)
+
+In a tragic incident, the body of a 30-year-old woman named Saniya Rai was discovered in an apartment in Khirki Extension area of south Delhi. The police received a PCR call reporting a foul smell coming from the woman's flat, prompting them to investigate. Upon arrival, they found the apartment locked from inside and requested the owner and neighbors to open it. The body, which was in a decomposed state, showed no visible external injuries. The crime team inspected the scene, and the body was sent for postmortem analysis. The police have initiated further proceedings under section 174 of the CrPC (Code of Criminal Procedure) and the investigation is ongoing.
+
+Sat, 09 Dec 2023 05:29:05 +0000
+### [Orry’s days turn hectic as Bollywood socialite tries living many lives in 24 hours](https://theprint.in/feature/orrys-days-turn-hectic-as-bollywood-socialite-tries-living-many-lives-in-24-hours/1878168/)
+
+Article found but Couldn't summarize 
+Orry seems unruffled by his detractors. I don’t think I need to set the record straight because whatever speculations people are making are not hurting me, he says.
+
+Sat, 09 Dec 2023 05:15:05 +0000
+### [US, South Korea, Japan to step up actions on North Korea cyber threats](https://theprint.in/world/us-south-korea-japan-to-step-up-actions-on-north-korea-cyber-threats/1878885/)
+
+Article found but Couldn't summarize 
+By Hyunsu Yim and Ju-min Park SEOUL (Reuters) -The United States, South Korea and Japan agreed new initiatives on Saturday to respond to North Korea's threats in cyberspace, including cryptocurrency
+
+Sat, 09 Dec 2023 05:15:03 +0000
+### [US vetoes UNSC resolution calling for immediate humanitarian ceasefire in Gaza](https://theprint.in/world/us-vetoes-unsc-resolution-calling-for-immediate-humanitarian-ceasefire-in-gaza/1878884/)
+
+Article found but Couldn't summarize 
+United Nations, Dec 9 (PTI) The US has vetoed a draft resolution on the Israel-Hamas conflict in the UN Security Council that would have demanded an immediate humanitarian ceasefire in Gaza and the immediate and unconditional release of all hostages taken by the Hamas militant group. The 15-nation Council met on Friday to vote on [&#8230;]
+
 Sat, 09 Dec 2023 05:02:02 +0000
 ### [MEA Secy visits Liechtenstein, Switzerland to enhance cooperation, boost bilateral ties](https://theprint.in/world/mea-secy-visits-liechtenstein-switzerland-to-enhance-cooperation-boost-bilateral-ties/1878880/)
 
