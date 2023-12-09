@@ -1,3 +1,9 @@
+Sat, 09 Dec 2023 22:19:24 +0530
+### [‘Leave the World Behind’ movie review: This Julia Roberts apocalyptic chiller is leisurely and lethal](https://www.thehindu.com/entertainment/movies/leave-the-world-behind-film-review/article67621015.ece)
+
+Article found but Couldn't summarize 
+While a tad simplistic in delivering its message, the beautifully acted film serves up the ultimate ‘What if’ situation with all the attendant horror and helplessness
+
 Fri, 08 Dec 2023 18:28:44 +0530
 ### [‘Wonka’ movie review: Paul King’s engaging, decadent Christmas present](https://www.thehindu.com/entertainment/movies/wonka-movie-review-paul-kings-engaging-decadent-christmas-present/article67618135.ece)
 
@@ -15,6 +21,12 @@ Fri, 08 Dec 2023 16:37:54 +0530
 
 Article found but Couldn't summarize 
 Dhanveerah-starrer ‘Kaiva’, a revenge drama set in the Bengaluru underworld of the ’80s, fails to engage thanks to a wobbly screenplay that struggles to find rhythm
+
+Fri, 08 Dec 2023 16:37:54 +0530
+### [‘Kaiva’ movie review: Jayathirtha, Dhanveerrah’s gangster drama suffers from lack of focus](https://www.thehindu.com/entertainment/movies/kaiva-movie-review-jayathirthas-gangster-drama-starring-dhanveerrah-suffers-from-lack-of-focus/article67617824.ece)
+
+Article found but Couldn't summarize 
+Dhanveerrah-starrer ‘Kaiva’, a revenge drama set in the Bengaluru underworld of the ’80s, fails to engage thanks to a wobbly screenplay that struggles to find rhythm
 
 Fri, 08 Dec 2023 16:13:33 +0530
 ### [‘Extra Ordinary Man’ movie review: Vakkantham Vamsi and Nithiin’s film is hilarious in parts](https://www.thehindu.com/entertainment/movies/extra-ordinary-man-movie-review-vakkantham-vamsi-and-nithiins-film-is-hilarious-in-parts/article67617650.ece)

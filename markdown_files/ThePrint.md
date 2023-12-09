@@ -1,3 +1,121 @@
+Sat, 09 Dec 2023 17:02:02 +0000
+### [Pakistan Tehreek-e-Insaf leader Asad Qaiser re-arrested after getting bail](https://theprint.in/world/pakistan-tehreek-e-insaf-leader-asad-qaiser-re-arrested-after-getting-bail/1879581/)
+
+Article found but Couldn't summarize 
+Swabi [Pakistan], December 9 (ANI): The Pakistan Tehreek-e-Insaf leader and former speaker of the National Assembly, Asad Qaiser, was re-arrested after securing bail from the district and sessions court in Mardan, ARY News reported on Saturday. It reported that the district and sessions court in Mardan granted him bail in the May 9 case against [&#8230;]
+
+Sat, 09 Dec 2023 17:01:04 +0000
+### [Figure skating-Malinin becomes first skater to land all six quads](https://theprint.in/sport/figure-skating-malinin-becomes-first-skater-to-land-all-six-quads/1879579/)
+
+American teenager Ilia Malinin made history at the Grand Prix Final in Beijing by becoming the first skater to successfully land all six types of quad jumps in competition. Despite falling during his quad Axel in the free program, Malinin still scored 314.66 points and clinched his first Grand Prix Final title. Japan's Shoma Uno finished in second place with a score of 297.34. In addition to his achievement, Malinin also landed a quad loop for the first time in competition. No skater has previously accomplished all six quad jumps – the quad toe loop, Salchow, flip, Lutz, Axel, and loop – in their career. Malinin expressed his satisfaction with being able to execute the quad loop under pressure after struggling with it just a couple of weeks earlier. In other events, Kaori Sakamoto of Japan won the women's singles title, Madison Chock and Evan Bates from the US secured the ice dance gold, and Minerva Fabienne Hase and Nikita Volodon emerged victorious in the pairs event.
+
+Sat, 09 Dec 2023 17:00:50 +0000
+### [Soccer-Eintracht crush Bayern 5-1 in first league defeat of the season](https://theprint.in/sport/soccer-eintracht-crush-bayern-5-1-in-first-league-defeat-of-the-season/1879577/)
+
+Article found but Couldn't summarize 
+FRANKFURT (Reuters) - Eintracht Frankfurt pulverised Bayern Munich 5-1 with a sensational three-goal first-half performance on Saturday to snap the champions' unbeaten run in the Bundesliga this
+
+Sat, 09 Dec 2023 17:00:46 +0000
+### [AI-based facial recognition system inaugurated in J-K’s Kishtwar](https://theprint.in/india/ai-based-facial-recognition-system-inaugurated-in-j-ks-kishtwar/1879576/)
+
+Article found but Couldn't summarize 
+Jammu, Dec 9 (PTI) An Artificial Intelligence (AI)-based facial recognition system and E-beat book mobile application were introduced in Jammu and Kashmir’s Kishtwar district that would help police tackle terror and criminal activities effectively, officials said. Jammu zone Inspector General of Police Anand Jain inaugurated the state-of-the art tool during his visit to Kishtwar district, [&#8230;]
+
+Sat, 09 Dec 2023 17:00:32 +0000
+### [SGPC to hold talks with Centre on commutation of Balwant Rajoana’s sentence](https://theprint.in/india/sgpc-to-hold-talks-with-centre-on-commutation-of-balwant-rajoanas-sentence/1879574/)
+
+Article found but Couldn't summarize 
+Amritsar, Dec 9 (PTI) The Shiromani Gurdwara Parbandhak Committee on Saturday said it has decided to hold talks with the Centre on the commutation of sentence of death row convict Balwant Singh Rajoana and other Sikh prisoners. The decision apparently was taken at the first meeting of the five-member committee formed by the Akal Takht [&#8230;]
+
+Sat, 09 Dec 2023 17:00:28 +0000
+### [Israel orders more evacuations in Khan Younis after US blocks Gaza ceasefire call](https://theprint.in/world/israel-orders-more-evacuations-in-khan-younis-after-us-blocks-gaza-ceasefire-call/1879573/)
+
+Article found but Couldn't summarize 
+By Bassam Masoud and Nidal al-Mughrabi GAZA/CAIRO (Reuters) -Israel ordered residents out of the centre of Gaza's main southern city Khan Younis on Saturday and pounded the length of the enclave,
+
+Sat, 09 Dec 2023 17:00:20 +0000
+### [Yemen’s Houthis say they will target ships in Red Sea en route to Israel](https://theprint.in/world/yemens-houthis-say-they-will-target-ships-in-red-sea-en-route-to-israel/1879572/)
+
+Article found but Couldn't summarize 
+CAIRO (Reuters) - A military spokesperson for Yemen's Houthis warned all shipping companies on Saturday against cooperating with Israel, saying they will be a target of attack in the Red Sea. "If Gaza
+
+Sat, 09 Dec 2023 17:00:19 +0000
+### [‘Vocal for Local’ initiative has potential to put J&K on higher growth path: LG Sinha](https://theprint.in/india/vocal-for-local-initiative-has-potential-to-put-jk-on-higher-growth-path-lg-sinha-2/1879571/)
+
+Article found but Couldn't summarize 
+Jammu, Dec 9 (PTI) Asserting that the ‘Vocal for Local’ initiative has the potential to put Jammu and Kashmir on a higher growth path, Lt Governor Manoj Sinha on Saturday asked young entrepreneurs to take advantage of new opportunities. Sinha was addressing &#8216;Mahotsav 2023&#8217; organised by Ladakh, Jammu and Kashmir Economic Growth and Development Dialogue [&#8230;]
+
+Sat, 09 Dec 2023 17:00:03 +0000
+### [Italian climate change protesters turn Venice’s Grand Canal green](https://theprint.in/world/italian-climate-change-protesters-turn-venices-grand-canal-green/1879569/)
+
+Article found but Couldn't summarize 
+VENICE, Italy (Reuters) - Italian environmentalists used a dye to turn Venice's Grand Canal green on Saturday in protest at what they said was a lack of progress at the COP28 climate summit in Dubai.
+
+Sat, 09 Dec 2023 17:00:02 +0000
+### [Odisha: Man kills wife, walks into police station with her severed head](https://theprint.in/india/odisha-man-kills-wife-walks-into-police-station-with-her-severed-head/1879568/)
+
+Article found but Couldn't summarize 
+Bhubaneswar, Dec 9 (PTI) A 35-year-old man allegedly killed his wife in Odisha&#8217;s Nayagarh district on Saturday suspecting that she was involved in an extra-marital affair, and surrendered at the police station with her severed head, officials said. Arjun Bagha, the accused, walked into the Banigochha police station with the severed head of his wife, [&#8230;]
+
+Sat, 09 Dec 2023 16:47:02 +0000
+### [Payment security mechanism with US for e-buses will help establish manufacturing hub in India: Environment Minister](https://theprint.in/world/payment-security-mechanism-with-us-for-e-buses-will-help-establish-manufacturing-hub-in-india-environment-minister/1879564/)
+
+Article found but Couldn't summarize 
+New Delhi (India), December 9 (ANI): Environment Minister Bhupender Yadav on Saturday asserted that the India-US Payment Security Mechanism (PSM) for e-buses will serve as an incentive for both Indian and international original equipment manufacturers (OEMs) to potentially establish a manufacturing hub in India. &#8220;The India-US Payment Security Mechanism (PSM) for e-buses will serve as [&#8230;]
+
+Sat, 09 Dec 2023 16:46:07 +0000
+### [LG inaugurates new building at Delhi FSL aimed at boosting testing capacity](https://theprint.in/india/lg-inaugurates-new-building-at-delhi-fsl-aimed-at-boosting-testing-capacity/1879563/)
+
+The Delhi Lieutenant Governor, Vinai Kumar Saxena, inaugurated a new annexe building at the Forensic Science Laboratory (FSL) in Delhi. The six-storied building, spread across 10,000 square meters, aims to expand the testing capacity of the facility. It includes state-of-the-art features such as a scene of crime laboratory, digital photo laboratory, cyber forensic laboratory, and unidentified DNA examination facilities. The new building is equipped with advanced technology to enhance the examination of cases related to narcotics and psychotropic substances. The facility also includes a unit for women staff and training facilities for forensic professionals. The expansion is expected to contribute to the fast disposal of samples, strengthen the criminal justice system, and attract international scientists in the future.
+
+Sat, 09 Dec 2023 16:45:56 +0000
+### [‘Vocal for Local’ initiative has potential to put J&K on higher growth path: LG Sinha](https://theprint.in/india/vocal-for-local-initiative-has-potential-to-put-jk-on-higher-growth-path-lg-sinha/1879562/)
+
+Article found but Couldn't summarize 
+Jammu, Dec 9 (PTI) Asserting that the ‘Vocal for Local’ initiative has the potential to put Jammu and Kashmir on a higher growth path, Lt Governor Manoj Sinha on Saturday asked young entrepreneurs to take advantage of new opportunities. Sinha was addressing &#8216;Mahotsav 2023&#8217; organised by Ladakh, Jammu and Kashmir Economic Growth and Development Dialogue [&#8230;]
+
+Sat, 09 Dec 2023 16:45:46 +0000
+### [This is real face of Cong: C P Joshi over recovery of unaccounted cash](https://theprint.in/india/this-is-real-face-of-cong-c-p-joshi-over-recovery-of-unaccounted-cash/1879561/)
+
+Article found but Couldn't summarize 
+Jaipur, Dec 9 (PTI) Rajasthan BJP state president CP Joshi on Saturday targeted the Congress over the recovery of &#8220;unaccounted&#8221; cash during Income Tax raids against Congress MP Dhiraj Prasad Sahu in Odisha, saying this is the &#8220;real&#8221; face of the party. &#8220;Shop of loot and lies (loot aur jhooth ki dukan) is the real [&#8230;]
+
+Sat, 09 Dec 2023 16:45:33 +0000
+### [Desi cow milk like ‘amrit’, says UP Minister](https://theprint.in/india/desi-cow-milk-like-amrit-says-up-minister/1879560/)
+
+Article found but Couldn't summarize 
+Meerut (UP), Dec 9 (PTI) Uttar Pradesh Animal Husbandry Minister Dharampal Singh on Saturday equated the milk of indigenous cows to elixir and said that &#8220;Lakshmi resides in the cow dung.&#8221; Speaking at a review meeting of stray cattle with district officials here, the minister said, &#8220;Ghee made from the milk of desi cow is [&#8230;]
+
+Sat, 09 Dec 2023 16:45:23 +0000
+### [Screenwriters’ body to take up issues of unfair contracts, low pay with producers, OTT platforms](https://theprint.in/feature/screenwriters-body-to-take-up-issues-of-unfair-contracts-low-pay-with-producers-ott-platforms/1879559/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 9 (PTI) The Screenwriters Association (SWA) on Saturday said it will be holding talks with leading Indian studios, producers and OTT platforms next month to discuss the grievances of writers in Bollywood and regional film industries. While writers in Hollywood had to go on a strike to press their demands earlier this year, [&#8230;]
+
+Sat, 09 Dec 2023 16:45:14 +0000
+### [England seal series 2-0 after India suffer stunning batting collapse in 2nd women’s T20I](https://theprint.in/sport/england-seal-series-2-0-after-india-suffer-stunning-batting-collapse-in-2nd-womens-t20i/1879558/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 9 (PTI) Indian batting looked clueless and out of depth to be dismissed for their third lowest total as England notched up a four-wicket win in the second women&#8217;s T20I to take an unassailable 2-0 lead in the three-match series here on Saturday. On a day uncapped Indian cricketers won fat pay-cheques in [&#8230;]
+
+Sat, 09 Dec 2023 16:45:03 +0000
+### [ITX raids: BJP raises question on Patnaik’s silence, asks CM to order CBI probe](https://theprint.in/india/itx-raids-bjp-raises-question-on-patnaiks-silence-asks-cm-to-order-cbi-probe-2/1879557/)
+
+Article found but Couldn't summarize 
+Bhubaneswar, Dec 9 (PTI) Stepping up its voice following the recovery of hundreds of crores of rupees during a series of Income Tax raids on Odisha-based distilleries, opposition BJP on Saturday questioned the chief minister’s silence on the issue. Odisha BJP president Manmohan Samal said, &#8220;How can Chief Minister Naveen Patnaik remain silent over such [&#8230;]
+
+Sat, 09 Dec 2023 16:32:12 +0000
+### [Shilpa Shetty shares glimpses from Rani Mukerji’s daughter Adira’s Christmas-themed birthday bash](https://theprint.in/feature/shilpa-shetty-shares-glimpses-from-rani-mukerjis-daughter-adiras-christmas-themed-birthday-bash/1879554/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 9 (ANI): Actor Rani Mukerji and producer Aditya Chopra on Saturday celebrated their daughter Adira&#8217;s 8th birthday with a bash at the Yash Raj Studios in Mumbai. Several B-town celebs including Shah Rukh Khan, Karan Johar, Alia Bhatt, Shilpa Shetty and Neil Nitin Mukesh among others attended the party. Taking to [&#8230;]
+
+Sat, 09 Dec 2023 16:32:01 +0000
+### [US “responsible for bloodshed” of children in Gaza: Palestine President after US vetoes UN resolution on ceasefire](https://theprint.in/world/us-responsible-for-bloodshed-of-children-in-gaza-palestine-president-after-us-vetoes-un-resolution-on-ceasefire/1879552/)
+
+Article found but Couldn't summarize 
+Ramallah [Palestine], December 9 (ANI): Palestinian President Mahmoud Abbas on Friday accused the United States of being &#8220;responsible&#8221; for the bloodshed of children in Gaza after Washington vetoed a UN resolution calling for an &#8216;immediate ceasefire&#8217;, Times of Israel reported. &#8220;The president has described the American position as aggressive and immoral, a flagrant violation of [&#8230;]
+
 Sat, 09 Dec 2023 16:15:40 +0000
 ### [Safdarjung Hospital Resident doctor hangs self at house in south Delhi](https://theprint.in/india/safdarjung-hospital-resident-doctor-hangs-self-at-house-in-south-delhi/1879542/)
 

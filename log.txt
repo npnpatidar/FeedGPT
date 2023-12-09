@@ -1497,3 +1497,10 @@ Started at 2023-12-09 16:22:17
 Finished at 2023-12-09 16:24:25
 Total time taken: 128.60767221450806 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2023-12-09 17:15:24
+2 Feed entries have been written to feeds/Movie_Review_TH.xml
+20 Feed entries have been written to feeds/ThePrint.xml
+22 new entries have been added
+Finished at 2023-12-09 17:17:44
+Total time taken: 139.34274077415466 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
