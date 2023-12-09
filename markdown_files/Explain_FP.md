@@ -1,3 +1,15 @@
+Sat, 09 Dec 2023 09:35:06 +0530
+### [This Week in Explainers: How Mahua Moitra was expelled from Parliament](https://www.firstpost.com/explainers/this-week-in-explainers-how-mahua-moitra-was-expelled-from-parliament-13482642.html)
+
+Article found but Couldn't summarize 
+This Week in Explainers: How Mahua Moitra was expelled from Parliament
+
+Sat, 09 Dec 2023 09:04:06 +0530
+### [What is Aarogya Maitri Aid Cube, India’s first portable hospital that can be flown to disaster areas?](https://www.firstpost.com/explainers/what-is-aarogya-maitri-aid-cube-indias-first-portable-hospital-that-can-be-flown-to-disaster-areas-13482742.html)
+
+Article found but Couldn't summarize 
+What is Aarogya Maitri Aid Cube, India’s first portable hospital that can be flown to disaster areas?
+
 Fri, 08 Dec 2023 19:22:18 +0530
 ### [Timeline | How the cash-for-query case against Mahua Moitra unfolded](https://www.firstpost.com/explainers/timeline-how-the-cash-for-query-case-against-mahua-moitra-unfolded-13482562.html)
 

@@ -1,3 +1,8 @@
+Sat, 09 Dec 2023 03:24:47 +0000
+### [Hamas Attack, In Perspective](https://indianexpress.com/article/opinion/columns/hamas-attack-perspective-mumbai-terror-9060776/)
+
+Article found but Couldn't summarize
+
 Sat, 09 Dec 2023 02:30:16 +0000
 ### [December 9, Forty Years Ago: Centre’s Summons](https://indianexpress.com/article/opinion/40-years-ago/december-9-forty-years-ago-centres-summons-9060470/)
 
