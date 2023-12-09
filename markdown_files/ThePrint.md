@@ -1,3 +1,39 @@
+Sat, 09 Dec 2023 03:06:46 +0000
+### [Indian businessmen are in fear & cheer mode, but feel Modi govt’s still their best bet](https://theprint.in/opinion/indian-businessmen-are-in-fear-cheer-mode-but-feel-modi-govts-still-their-best-bet/1878421/)
+
+Article found but Couldn't summarize 
+What businessmen would like is for Team Modi to return in 2024, but as a minority, and therefore in need of coalition partners who might put the brakes on any high-handed action.
+
+Sat, 09 Dec 2023 03:02:02 +0000
+### [Israel-Hamas war: Decomposed bodies of infants found in evacuated hospital ICU in Gaza](https://theprint.in/world/israel-hamas-war-decomposed-bodies-of-infants-found-in-evacuated-hospital-icu-in-gaza/1878825/)
+
+Article found but Couldn't summarize 
+Gaza Border [Israel], December 9 (ANI): Decomposed bodies of infants were found in the evacuated ICU of Al-Nasr Hospital in Gaza, shedding light on the tragic aftermath of the conflict, CNN reported. The distressing scene was captured on video by Mohamed Baalousha, a Gaza-based reporter, revealing the tiny bodies of babies, still attached to life-saving [&#8230;]
+
+Sat, 09 Dec 2023 02:56:28 +0000
+### [2024 isn’t about north vs south. See BJP’s limitations & do the maths](https://theprint.in/national-interest/2024-isnt-about-north-vs-south-see-bjps-limitations-do-the-maths/1878374/)
+
+Article found but Couldn't summarize 
+India’s political geographies display BJP’s strengths &#038; vulnerabilities. Nobody understands this better than BJP and it is because of this hard-headed realism that it keeps winning.
+
+Sat, 09 Dec 2023 02:47:13 +0000
+### [Oscar-nominated actor Ryan O’Neal passes away at 82](https://theprint.in/feature/oscar-nominated-actor-ryan-oneal-passes-away-at-82/1878818/)
+
+Article found but Couldn't summarize 
+California [US], December 9 (ANI): Oscar-nominated actor Ryan O&#8217;Neal, who rose to fame with his role as Rodney Harrington in the nighttime soap opera &#8216;Peyton Place&#8217; and went on to star in films such as &#8216;Love Story&#8217;, &#8216;What&#8217;s Up, Doc?&#8217;, &#8216;Paper Moon&#8217;, and &#8216;Barry Lyndon&#8217;, has passed away at the age of 82, reported Variety. [&#8230;]
+
+Sat, 09 Dec 2023 02:47:02 +0000
+### [US: Former police chief sentenced to 11 years for role in Capitol attack](https://theprint.in/world/us-former-police-chief-sentenced-to-11-years-for-role-in-capitol-attack/1878816/)
+
+Article found but Couldn't summarize 
+California [US], December 9 (ANI): A former California police chief, who was armed with a hatchet during the January 6 Capitol attack and had previously advocated for the execution of perceived political adversaries, has been sentenced to 11 years in prison, CNN reported. Alan Hostetter, 59, received the 135-month sentence on Thursday (local time) from [&#8230;]
+
+Sat, 09 Dec 2023 02:30:09 +0000
+### [Cricket-Healy named Australia captain across all three formats](https://theprint.in/sport/cricket-healy-named-australia-captain-across-all-three-formats/1878814/)
+
+Article found but Couldn't summarize 
+(Reuters) - Alyssa Healy has been appointed captain of Australia's women's cricket team across all three formats, replacing Meg Lanning following her retirement last month. The 33-year-old has been
+
 Sat, 09 Dec 2023 02:15:43 +0000
 ### [China LandSpace’s methane-powered rocket sends satellites into orbit](https://theprint.in/tech/china-landspaces-methane-powered-rocket-sends-satellites-into-orbit/1878813/)
 

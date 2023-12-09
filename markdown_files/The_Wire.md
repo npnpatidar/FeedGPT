@@ -1,3 +1,9 @@
+2023-12-09T08:00:19+05:30
+### [Roger Waters and the Importance of Not Being ‘Comfortably Numb’ on the Palestine Issue](https://thewire.in/the-arts/roger-waters-and-the-importance-of-not-being-comfortably-numb-on-the-palestine-issue)
+
+No Article text 
+There is nothing subtle about Waters’ activism. Not only does the musician wear the Palestinian kheffiyeh when he performs, but the gigantic screens behind his performing stage also bear constant witness to his political beliefs.
+
 2023-12-08T20:19:06+05:30
 ### ['Beginning of the End, Will Fight You for the Next 30 Years': Moitra Fires at BJP After Expulsion](https://thewire.in/politics/beginning-of-the-end-will-fight-you-for-the-next-30-years-moitra-fires-at-bjp-after-expulsion)
 

@@ -1,3 +1,8 @@
+Sat, 09 Dec 2023 02:30:16 +0000
+### [December 9, Forty Years Ago: Centre’s Summons](https://indianexpress.com/article/opinion/40-years-ago/december-9-forty-years-ago-centres-summons-9060470/)
+
+Article found but Couldn't summarize
+
 Sat, 09 Dec 2023 02:23:05 +0000
 ### [Ram Madhav writes: The harsh truth about Nehru’s blunders in Kashmir](https://indianexpress.com/article/opinion/columns/jawaharlal-nehru-amit-shah-on-nehrus-blunders-in-kashmir-congress-article-370-9060416/)
 
