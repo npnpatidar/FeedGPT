@@ -1,3 +1,91 @@
+Sat, 09 Dec 2023 07:02:24 +0000
+### [Umanshi Marketing wins PR and Mar-comm mandates of 5 new businesses reinforcing its strength in the startup and SME categories](https://theprint.in/ani-press-releases/umanshi-marketing-wins-pr-and-mar-comm-mandates-of-5-new-businesses-reinforcing-its-strength-in-the-startup-and-sme-categories/1878952/)
+
+Article found but Couldn't summarize 
+PNN Mumbai (Maharashtra) [India], December 9: Mumbai-based full-stack agency, Umanshi Marketing and Branding (https://bit.ly/3Lqv9Ll), proudly announces the onboarding of 5 clients solidifying its sectoral position within the startups and SME space. Its appointment as their strategic partner responsible for spearheading the comprehensive PR and/or marketing initiatives underscores Umanshi&#8217;s growing influence and expertise within the startup [&#8230;]
+
+Sat, 09 Dec 2023 07:02:13 +0000
+### [Indonesia must accelerate delivery of digital strategy to achieve government’s “top 10 global economy by 2030” ambitions, says GSMA report](https://theprint.in/ani-press-releases/indonesia-must-accelerate-delivery-of-digital-strategy-to-achieve-governments-top-10-global-economy-by-2030-ambitions-says-gsma-report/1878950/)
+
+Article found but Couldn't summarize 
+PRNewswire Jakarta [Indonesia], December 9: The Indonesian government has made strong steps towards becoming a leading digital nation, according to a report published today at the GSMA&#8217;s Indonesia Digital Nations Summit in Jakarta. However, the country needs to adopt a &#8220;whole-government&#8221; approach and be more joined-up around critical policy requirements, if Indonesia is to achieve [&#8230;]
+
+Sat, 09 Dec 2023 07:02:01 +0000
+### [Unlock Your Confidence with VCare’s Revolutionary Hair Regrowth Solution!](https://theprint.in/ani-press-releases/unlock-your-confidence-with-vcares-revolutionary-hair-regrowth-solution/1878948/)
+
+Article found but Couldn't summarize 
+VMPL New Delhi [India], December 9: In a remarkable journey spanning over two decades, VCare has firmly established itself as a beacon of excellence in the realm of hair and skin care. With a commitment to delivering unparalleled quality, the legacy of VCare is marked by innovation, cutting-edge technology, and a relentless pursuit of customer [&#8230;]
+
+Sat, 09 Dec 2023 07:00:21 +0000
+### [Soccer-Real’s Vinicius, Camavinga likely to return in January, says Ancelotti](https://theprint.in/sport/soccer-reals-vinicius-camavinga-likely-to-return-in-january-says-ancelotti/1878945/)
+
+Real Madrid players Vinicius Jr. and Eduardo Camavinga are expected to return to training after LaLiga's winter break in January, according to manager Carlo Ancelotti. Vinicius has been recovering from a hamstring and tendon injury, while Camavinga has been out due to a torn ligament in his right knee. Ancelotti stated that both players should be ready to train with the team by the end of the break. Additionally, Ancelotti provided an update on midfielder Jude Bellingham, who has been playing with a shoulder injury. Although the shoulder issue requires specific care, it is not severe enough to prevent Bellingham from playing. However, if continuous problems arise, surgery may be needed.
+
+Sat, 09 Dec 2023 07:00:10 +0000
+### [Soccer-Tottenham’s Postecoglou not bothered by ‘Spursy’ tag after winless run](https://theprint.in/sport/soccer-tottenhams-postecoglou-not-bothered-by-spursy-tag-after-winless-run/1878943/)
+
+Article found but Couldn't summarize 
+(Reuters) - Tottenham Hotspur's faltering form has invited the "Spursy" tag from critics who see it as typical of the club, but manager Ange Postecoglou says he wants to focus on the work at hand
+
+Sat, 09 Dec 2023 07:00:03 +0000
+### [TVS Motor donates Rs 3 cr for cyclone relief work in Tamil Nadu](https://theprint.in/economy/tvs-motor-donates-rs-3-cr-for-cyclone-relief-work-in-tamil-nadu/1878942/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 9 (PTI) TVS Motor Company on Saturday said it has donated Rs 3 crore to the Chief Minister&#8217;s Relief Fund to aid relief work in the wake of flooding and damage caused by cyclone Michaung in Tamil Nadu. The money will be used to provide necessary flood relief and support for the [&#8230;]
+
+Sat, 09 Dec 2023 06:47:02 +0000
+### [Five Reasons you Should Chase the Sun on a Holiday at Sea with Norwegian Cruise Line](https://theprint.in/ani-press-releases/five-reasons-you-should-chase-the-sun-on-a-holiday-at-sea-with-norwegian-cruise-line/1878935/)
+
+Article found but Couldn't summarize 
+NewsVoir Mumbai (Maharashtra) [India], December 9: Holidays can be very stressful for most travelers with a million things to tick off before actually embarking on the holiday with loved ones. Multiples levels of packing have to be done as per weather conditions and activities on your itinerary; cabs, trains and mini tours have to be [&#8230;]
+
+Sat, 09 Dec 2023 06:45:36 +0000
+### [Large number of people pay last respects to veteran Kannada actress Leelavathi](https://theprint.in/india/large-number-of-people-pay-last-respects-to-veteran-kannada-actress-leelavathi/1878934/)
+
+Article found but Couldn't summarize 
+Bengaluru, Dec 9 (PTI) A large number of people on Saturday paid their last respects to veteran Kannada actress Leelavathi who died on December 8. Leelavathi&#8217;s son Vinod Raj, who is also an actor, said the final rites will take place at their farmhouse at Soladevanahalli on the city outskirts. The body of the 86-year-old [&#8230;]
+
+Sat, 09 Dec 2023 06:45:26 +0000
+### [US vetoes UNSC resolution calling for immediate humanitarian ceasefire in war-torn Gaza](https://theprint.in/world/us-vetoes-unsc-resolution-calling-for-immediate-humanitarian-ceasefire-in-war-torn-gaza/1878933/)
+
+Article found but Couldn't summarize 
+United Nations, Dec 9 (PTI) The US has vetoed a draft resolution on the raging Israel-Hamas conflict in the UN Security Council that would have demanded an immediate humanitarian ceasefire in war-ravaged Gaza and the immediate and unconditional release of all hostages taken by the Hamas militant group. The 15-nation Council met on Friday to [&#8230;]
+
+Sat, 09 Dec 2023 06:45:14 +0000
+### [I-T intensifies raids on Odisha distillery group](https://theprint.in/india/i-t-intensifies-raids-on-odisha-distillery-group/1878932/)
+
+Article found but Couldn't summarize 
+Bhubaneswar, Dec 9 (PTI) A day after Prime Minister Narendra Modi assured people that &#8220;money looted from the public will be returned&#8221;, the Income Tax (I-T) Department on Saturday intensified its crackdown on a liquor distillery group in Odisha. After recovering around Rs 225 crore till Friday, the I-T sleuths seized another 20 bagloads of [&#8230;]
+
+Sat, 09 Dec 2023 06:45:03 +0000
+### [India’s Modi aims to make GIFT City a centre for sustainable finance](https://theprint.in/india/indias-modi-aims-to-make-gift-city-a-centre-for-sustainable-finance/1878930/)
+
+Article found but Couldn't summarize 
+By Jayshree P Upadhyay AHMEDABAD, India (Reuters) - India wants to make its financial hub in the western state of Gujarat a centre for global sustainable finance to help fund the $10 trillion
+
+Sat, 09 Dec 2023 06:45:03 +0000
+### [Odisha cash haul set to be ‘highest-ever’ with Rs 290 cr seizure](https://theprint.in/india/odisha-cash-haul-set-to-be-highest-ever-with-rs-290-cr-seizure/1878929/)
+
+Article found but Couldn't summarize 
+New Delhi/Bhubaneswar, Dec 9 (PTI) The seizure of &#8220;unaccounted&#8221; cash after Income Tax department raids against an Odisha-based distillery group and its linked entities is expected to reach Rs 290 crore, making it the &#8220;highest-ever&#8221; black money haul by any agency in a single operation, official sources said Saturday. The tax department has deployed about [&#8230;]
+
+Sat, 09 Dec 2023 06:32:02 +0000
+### [California State University San Marcos partners with Study Group to drive growth of its diverse global student community](https://theprint.in/ani-press-releases/california-state-university-san-marcos-partners-with-study-group-to-drive-growth-of-its-diverse-global-student-community/1878924/)
+
+As GPT-3.5, I can summarize the article for you. California State University San Marcos has partnered with Study Group to increase enrollments of international students. Study Group will directly recruit talented international students into undergraduate and graduate programs at the university's four colleges. The university offers a wide range of programs relevant to career-focused international students, such as business and supply chain management, biotechnology, and software engineering. California State University San Marcos aims to provide affordable tuition fees, flexible admissions criteria, and various scholarship opportunities. The partnership between Study Group and the university is focused on student success, belonging, and broadening access to education. Study Group, as an international education specialist, is committed to supporting talented international students in their global education journey. The partnership will open applications for the August 2024 intake from February 2024.
+
+Sat, 09 Dec 2023 06:30:16 +0000
+### [Extra pace and bounce of SA pitches will need some more practice: Rinku](https://theprint.in/sport/extra-pace-and-bounce-of-sa-pitches-will-need-some-more-practice-rinku/1878922/)
+
+Article found but Couldn't summarize 
+Durban, Dec 9 (PTI) India middle-order batter Rinku Singh feels the extra pace and bounce on offer on South African pitches will need a little more effort and practice to get used to. Giving his assessment about the South African wickets after India&#8217;s first practice session here, Rinku, who played a vital role in India [&#8230;]
+
+Sat, 09 Dec 2023 06:30:03 +0000
+### [HM Amit Shah to chair Eastern Zonal Council meet in Patna on Sunday](https://theprint.in/india/hm-amit-shah-to-chair-eastern-zonal-council-meet-in-patna-on-sunday/1878921/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 9 (PTI) Union Home Minister Amit Shah will chair a meeting of the Eastern Zonal Council to be held in Patna on Sunday where a host of issues like minimum price for a number of minor millets, creation of infrastructure, water sharing are expected to be discussed. Eastern Zonal Council comprises the [&#8230;]
+
 Sat, 09 Dec 2023 06:17:13 +0000
 ### [Towson University expands efforts to draw more students from around the world](https://theprint.in/ani-press-releases/towson-university-expands-efforts-to-draw-more-students-from-around-the-world/1878919/)
 

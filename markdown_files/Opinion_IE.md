@@ -1,3 +1,8 @@
+Sat, 09 Dec 2023 06:18:40 +0000
+### [Lessons from assembly poll results: Modi juggernaut will continue to march forward](https://indianexpress.com/article/opinion/modi-assembly-poll-results-9060956/)
+
+Article found but Couldn't summarize
+
 Sat, 09 Dec 2023 04:30:16 +0000
 ### [‘The Archies’ – why it’s important for Gen Z, nepo kids and all](https://indianexpress.com/article/opinion/the-archies-why-important-gen-z-nepo-kids-all-9060344/)
 

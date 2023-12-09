@@ -1,3 +1,9 @@
+2023-12-09T12:45:40+05:30
+### ['Broken': A Substantial Photo Exhibition About India and Indians](https://thewire.in/the-arts/broken-photo-exhibition-asha-thadani)
+
+No Article text 
+Asha Thadani shows that though trapped, the individuals she introduces us to are not unaware of their shackles and give us a glimpse into their defiance and their spirit.
+
 2023-12-09T11:52:11+05:30
 ### [Activist Nikhil Dey Among US Government’s International Anti-Corruption Champions for 2023](https://thewire.in/world/activist-nikhil-dey-us-government-international-anti-corruption-champion)
 
