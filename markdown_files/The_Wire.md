@@ -1,3 +1,9 @@
+2023-12-09T14:15:12+05:30
+### [Backstory: Polls, Verdicts and Media Narratives on Counting Day](https://thewire.in/media/backstory-polls-verdicts-media-narratives-counting-day)
+
+No Article text 
+A fortnightly column from The Wire's ombudsperson.
+
 2023-12-09T13:30:01+05:30
 ### [Hadiya Denies Father's Fresh Claims That She Is Under 'Illegal Detention'](https://thewire.in/rights/hadiya-father-claim-illegal-detention-deny)
 

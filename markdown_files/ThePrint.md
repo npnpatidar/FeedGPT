@@ -1,3 +1,120 @@
+Sat, 09 Dec 2023 09:02:17 +0000
+### [France: 6 teenagers convicted over school teacher’s beheading in 2020](https://theprint.in/world/france-6-teenagers-convicted-over-school-teachers-beheading-in-2020/1879064/)
+
+Article found but Couldn't summarize 
+Paris [France], December 9 (ANI): A French court convicted six teenagers for their connection with the 2020 beheading of history teacher Samuel Paty, a shocking incident that sent shockwaves across the country, CNN reported. The teacher had displayed caricatures of the Prophet Mohammad in a class on freedom of expression, sparking outrage among some Muslim [&#8230;]
+
+Sat, 09 Dec 2023 09:02:02 +0000
+### [Dalai Lama embarks on Sikkim and West Bengal visit](https://theprint.in/world/dalai-lama-embarks-on-sikkim-and-west-bengal-visit/1879062/)
+
+Article found but Couldn't summarize 
+Dharamshala (Himachal Pradesh) [India], December 9 (ANI): The Tibetan spiritual leader, the 14th Dalai Lama, on Saturday departed for his visit to Sikkim and West Bengal, where he is scheduled to give teachings from December 12 to 14. This visit has heightened diplomatic discussions regarding the ongoing border tension between India and China. During his [&#8230;]
+
+Sat, 09 Dec 2023 09:00:14 +0000
+### [Body of newborn baby found in Mumbai hospital dustbin; case registered](https://theprint.in/india/body-of-newborn-baby-found-in-mumbai-hospital-dustbin-case-registered/1879060/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 9 (PTI) The Mumbai police have registered a case after the body of a newborn baby was found inside a dustbin on the premises of a civic-run hospital, an official said on Saturday. According to the police official, a sweeper at the Lokmanya Tilak Municipal General Hospital, popular as Sion hospital, discovered the [&#8230;]
+
+Sat, 09 Dec 2023 09:00:02 +0000
+### [Maoist arrested in Telangana](https://theprint.in/india/maoist-arrested-in-telangana/1879058/)
+
+Article found but Couldn't summarize 
+Karimnagar (Telangana) Dec 9 (PTI) A Maoist has been arrested near Ramagundam town, a top police official in Telangana said. In a press release, Ramagundam Police Commissioner Rema Rajeshwari said, &#8220;Pamidimalla Avinash aka Mallesh (29) of Palnadu district in neighbouring Andhra Pradesh was arrested under suspicious circumstances in Godavarikhani town early on Friday.&#8221; Ramagundam town [&#8230;]
+
+Sat, 09 Dec 2023 08:47:11 +0000
+### [Eating within 10-hour window is good for health, finds study](https://theprint.in/health/eating-within-10-hour-window-is-good-for-health-finds-study/1879053/)
+
+Article found but Couldn't summarize 
+London [UK], December 9 (ANI): According to new findings from the largest UK community research project, eating within a 10-hour window improves mood, energy, and hunger. The outcomes of the trial were reported at the European Nutrition Conference by researchers from King&#8217;s College London. Intermittent fasting (IF), or restricting your food consumption to a set [&#8230;]
+
+Sat, 09 Dec 2023 08:47:02 +0000
+### [World Bank launches comprehensive programme to combat air pollution crisis in India](https://theprint.in/economy/world-bank-launches-comprehensive-programme-to-combat-air-pollution-crisis-in-india/1879051/)
+
+Hmm, it seems like you're looking for a summary of the article about the World Bank's program to address air pollution in India. The program aims to tackle the impact of ambient particulate matter (PM)2.5 pollution, which poses severe health risks to the population. The World Bank's efforts include introducing airshed management tools, developing State-wide Air Quality Action Plans, and creating a Regional Airshed Action Plan for the Indo-Gangetic Plains. The article highlights the alarming levels of PM2.5 pollution in India and its detrimental effects on public health and the economy. The World Bank emphasizes the need for coordinated efforts at the sub-national level and regional cooperation to effectively address air pollution. India has already taken steps to combat air pollution, such as revising air quality standards and promoting renewable energy and electric vehicles. The National Clean Air Programme (NCAP) sets goals to improve air quality, particularly in cities where pollution standards are not met. The World Bank's involvement in India's Air Quality Management (AQM) is part of a phased strategy, leveraging insights from similar projects in Mexico and China. The focus is on the densely populated Indo-Gangetic Plain, where pollution intensity is high. The article also mentions the importance of integrating air quality management into government capabilities, business practices, and individual behavior. The World Bank's goal is to reduce air pollution within a generation by implementing successful strategies from other countries. Overall, the World Bank's comprehensive approach aligns with India's commitment to cleaner air and sustainable development.
+
+Sat, 09 Dec 2023 08:45:39 +0000
+### [Swiss-Indian Chamber of Commerce launches Kolkata chapter to boost trade](https://theprint.in/economy/swiss-indian-chamber-of-commerce-launches-kolkata-chapter-to-boost-trade/1879050/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 9 (PTI) The Swiss-Indian Chamber of Commerce (SICC) inaugurated its Kolkata chapter, the sixth one in India, to boost trade between the two countries. Apart from Kolkata, the SICC has now a presence in Mumbai, New Delhi, Bangalore, Pune and Chennai. The launch of the SICC chapter in the eastern metropolis on Saturday [&#8230;]
+
+Sat, 09 Dec 2023 08:45:28 +0000
+### [BJP’s Assembly poll victories acknowledgement of Modi’s tremendous work: CM Shinde](https://theprint.in/india/bjps-assembly-poll-victories-acknowledgement-of-modis-tremendous-work-cm-shinde/1879049/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 9 (PTI) The BJP&#8217;s stellar performance in the recent Assembly polls is an acknowledgement of the tremendous welfare work Prime Minister Narendra Modi&#8217;s government has done for the people in nine years, Maharashtra Chief Minister Eknath Shinde said on Saturday. In Assembly polls held in five states between November 7 and 30, results [&#8230;]
+
+Sat, 09 Dec 2023 08:45:17 +0000
+### [At least 40 million women have long-term health problems after childbirth every year: Lancet Study](https://theprint.in/india/at-least-40-million-women-have-long-term-health-problems-after-childbirth-every-year-lancet-study/1879047/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 9 (PTI) Every year, at least 40 million women are likely to experience a long-term health problem caused by childbirth, new study published in The Lancet Global Health journal has found. Researchers found that the symptom of experiencing pain during sexual intercourse, or dyspareunia, affected more than a third of such postpartum [&#8230;]
+
+Sat, 09 Dec 2023 08:45:05 +0000
+### [Three die in Italian hospital fire](https://theprint.in/world/three-die-in-italian-hospital-fire/1879046/)
+
+A fire broke out at the San Giovanni Evangelista hospital in Tivoli, near Rome, resulting in the tragic deaths of three elderly individuals. An additional body was found in the hospital mortuary, believed to have died prior to the fire. The fire brigade successfully evacuated around 200 people, including a pregnant woman and children, using turntable ladders. The evacuated individuals were taken to other hospitals in Rome for treatment. The deceased victims, two men and two women, were between the ages of 76 and 86. The fire has been extinguished, and an investigation is underway to determine the cause.
+
+Sat, 09 Dec 2023 08:45:03 +0000
+### [1st T20I: Young India aim for right answers in tough Proteas ‘test’](https://theprint.in/sport/1st-t20i-young-india-aim-for-right-answers-in-tough-proteas-test/1879045/)
+
+Article found but Couldn't summarize 
+Durban, Dec 9 (PTI) A young Indian outfit will be asked tough questions, answers to which might not be readily available, when it faces a sturdy South African side in a three-match T20 International starting here on Sunday. With injured skipper Hardik Pandya out till the start of IPL, lead pacer Jasprit Bumrah taking a [&#8230;]
+
+Sat, 09 Dec 2023 08:39:34 +0000
+### [MoS Meenakshi Lekhi denies signing LS reply on designating Hamas as terror group, calls for inquiry](https://theprint.in/india/governance/mos-meenakshi-lekhi-denies-signing-ls-reply-on-designating-hamas-as-terror-group-calls-for-inquiry/1879018/)
+
+Article found but Couldn't summarize 
+Answer attributed to Lekhi is available on both Lok Sabha and MEA websites. It refers to designation of an organisation as terrorist being covered under UAPA.
+
+Sat, 09 Dec 2023 08:38:58 +0000
+### [‘When policy is given utmost priority, one can see it’s outcomes’: PM Modi at InFinity Forum](https://theprint.in/india/when-policy-is-given-utmost-priority-one-can-see-its-outcomes-pm-modi-at-infinity-forum/1879029/)
+
+Article found but Couldn't summarize 
+In a virtual address, PM Modi said India's economy has grown at a rate of 7.7% in the first six months of this fiscal year.
+
+Sat, 09 Dec 2023 08:32:02 +0000
+### [“This film was truly a journey”: Kajol celebrates 1 year of ‘Salaam Venky’](https://theprint.in/feature/this-film-was-truly-a-journey-kajol-celebrates-1-year-of-salaam-venky/1879037/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 9 (ANI): As the family entertainer film &#8216;Salaam Venky&#8217; completed one year today, actor Kajol expressed gratitude for the &#8220;vastly educating experience&#8221;. Taking to Instagram, Kajol shared a string of pictures featuring herself and Revathy to mark this day. https://www.instagram.com/p/C0nrUNPSsS2/? Sharing the pictures, she wrote, &#8220;To the highs and lows, to [&#8230;]
+
+Sat, 09 Dec 2023 08:31:04 +0000
+### [Odisha cash haul: BJP stages protest in J-K, demands action against Congress MP Sahu](https://theprint.in/india/odisha-cash-haul-bjp-stages-protest-in-j-k-demands-action-against-congress-mp-sahu/1879036/)
+
+Article found but Couldn't summarize 
+Jammu, Dec 9 (PTI) The BJP&#8217;s Jammu and Kashmir unit on Saturday held a protest over the recovery of a huge amount of &#8220;unaccounted for&#8221; cash in Odisha and demanded stern action against Congress MP Dhiraj Prasad Sahu. The protesters also burnt an effigy of Sahu. The seizure of &#8220;unaccounted for&#8221; cash after Income Tax [&#8230;]
+
+Sat, 09 Dec 2023 08:30:50 +0000
+### [372 genetlemen cadets pass out of IMA](https://theprint.in/india/372-genetlemen-cadets-pass-out-of-ima/1879035/)
+
+Article found but Couldn't summarize 
+Dehradun, Dec 9 (PTI) A total of 372 gentlemen cadets, including 29 from 12 friendly countries, passed out of the Indian Military Academy here on Saturday to be commissioned as officers into the armies of their respective countries. Addressing the passing out parade as the reviewing officer, Chief of Defence Staff of Sri Lanka Gen [&#8230;]
+
+Sat, 09 Dec 2023 08:30:38 +0000
+### [Empty BEST bus catches fire in South Mumbai, no injuries](https://theprint.in/india/empty-best-bus-catches-fire-in-south-mumbai-no-injuries/1879034/)
+
+An empty BEST bus caught fire in South Mumbai on Saturday morning. The driver and conductor were present on the bus when the fire started near the rear right tires. The incident occurred around 8:20 am near the JJ flyover. The bus belonged to the Santacruz depot of the Brihanmumbai Electric Supply and Transport. The staff on the bus alerted the fire brigade, and the fire was extinguished within 10 minutes. No injuries were reported. In a separate incident, a level one fire was reported at Asmi Industrial estate in Goregaon (West). It was confined to three to four closed units on the third floor of the building. Seven fire engines and two jumbo tankers were deployed to douse the fire. No injuries were reported in this incident as well.
+
+Sat, 09 Dec 2023 08:30:28 +0000
+### [First giraffe calf born in Guwahati zoo named ‘Parijat’](https://theprint.in/india/first-giraffe-calf-born-in-guwahati-zoo-named-parijat/1879033/)
+
+Article found but Couldn't summarize 
+Guwahati, Dec 9 (PTI) The first giraffe calf to be born in Guwahati zoo was named &#8216;Parijat&#8217; on Saturday, with the name selected from hundreds of suggestions. Chief Minister Himanta Biswa Sarma announced the name of the nearly two-month-old calf at the Assam State Zoo-cum-Botanical Garden, known as the Guwahati zoo, here. &#8220;We had received [&#8230;]
+
+Sat, 09 Dec 2023 08:30:17 +0000
+### [Problem with our society is we are not listening to others; we are only listening to ourselves: CJI](https://theprint.in/india/problem-with-our-society-is-we-are-not-listening-to-others-we-are-only-listening-to-ourselves-cji/1879032/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 9 (PTI) Chief Justice of India D Y Chandrachud on Saturday urged citizens to have the audacity to listen to others and break their own echo chambers. The CJI was speaking at the 20th convocation ceremony of the Symbiosis International (Deemed) University in Pune. “The power of listening to others is important in [&#8230;]
+
+Sat, 09 Dec 2023 08:30:03 +0000
+### [Lekhi denies approving Parliament Question, calls for inquiry](https://theprint.in/india/lekhi-denies-approving-parliament-question-calls-for-inquiry/1879031/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 9 (PTI) Union Minister Meenakshi Lekhi on Saturday said she did not approve any answer to a question in the Lok Sabha on declaring Hamas a terrorist organisation, prompting the opposition to call for a probe. &#8220;You have been misinformed as I have not signed any paper with this question and this [&#8230;]
+
 Sat, 09 Dec 2023 08:18:21 +0000
 ### [PM Modi wishes Sonia Gandhi on her birthday, extends blessings for ‘long & healthy life’](https://theprint.in/india/pm-modi-wishes-sonia-gandhi-on-her-birthday-extends-blessings-for-long-healthy-life/1879007/)
 

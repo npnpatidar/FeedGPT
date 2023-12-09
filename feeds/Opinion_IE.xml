@@ -5,6 +5,33 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Opinion_IE.xml</link>
 		<description>Opinion IE</description>
 		<item>
+			<title>Why I gave my father’s Mahavir Chakra to the Naval Academy</title>
+			<link>https://indianexpress.com/article/opinion/columns/ins-khukri-1971-india-pakistan-war-mahavir-chakra-9061094/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Sat, 09 Dec 2023 08:34:20 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2023/12/ins-khukri.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2023/12/ins-khukri.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Lessons from assembly poll results: Modi juggernaut will continue to march forward</title>
+			<link>https://indianexpress.com/article/opinion/columns/pm-narendra-modi-assembly-elections-results-2024-lok-sabha-9061127/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Sat, 09 Dec 2023 08:26:06 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2023/12/dec-ft-74.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2023/12/dec-ft-74.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Brinda Karat writes: Mahua Moitra is a political opponent. As a woman, I stand with her</title>
+			<link>https://indianexpress.com/article/opinion/columns/brinda-karat-on-mahua-moitra-expulsion-lok-sabha-9061125/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Sat, 09 Dec 2023 08:21:03 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2023/12/mahua-moitra-3.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2023/12/mahua-moitra-3.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Lessons from assembly poll results: Modi juggernaut will continue to march forward</title>
 			<link>https://indianexpress.com/article/opinion/modi-assembly-poll-results-9060956/</link>
 			<description>Article found but Couldn't summarize</description>

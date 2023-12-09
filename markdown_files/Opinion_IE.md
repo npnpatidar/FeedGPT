@@ -1,3 +1,18 @@
+Sat, 09 Dec 2023 08:34:20 +0000
+### [Why I gave my father’s Mahavir Chakra to the Naval Academy](https://indianexpress.com/article/opinion/columns/ins-khukri-1971-india-pakistan-war-mahavir-chakra-9061094/)
+
+Article found but Couldn't summarize
+
+Sat, 09 Dec 2023 08:26:06 +0000
+### [Lessons from assembly poll results: Modi juggernaut will continue to march forward](https://indianexpress.com/article/opinion/columns/pm-narendra-modi-assembly-elections-results-2024-lok-sabha-9061127/)
+
+Article found but Couldn't summarize
+
+Sat, 09 Dec 2023 08:21:03 +0000
+### [Brinda Karat writes: Mahua Moitra is a political opponent. As a woman, I stand with her](https://indianexpress.com/article/opinion/columns/brinda-karat-on-mahua-moitra-expulsion-lok-sabha-9061125/)
+
+Article found but Couldn't summarize
+
 Sat, 09 Dec 2023 06:18:40 +0000
 ### [Lessons from assembly poll results: Modi juggernaut will continue to march forward](https://indianexpress.com/article/opinion/modi-assembly-poll-results-9060956/)
 
