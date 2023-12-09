@@ -1,3 +1,123 @@
+Sat, 09 Dec 2023 01:17:01 +0000
+### [Afghan migrants found involved in political activities to face deportation: Pak caretaker minister](https://theprint.in/world/afghan-migrants-found-involved-in-political-activities-to-face-deportation-pak-caretaker-minister/1878800/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 9 (ANI): Pakistan Caretaker Interior Minister Sarfraz Bugti said that any Afghan living legally in the country if found involved in political activities will face deportation, Pakistan-based Dawn reported. While addressing a press conference on Friday, Bugti said that the Pakistan caretaker government had created a new policy for legal Afghan residents [&#8230;]
+
+Sat, 09 Dec 2023 01:15:41 +0000
+### [UN, US slap sanctions on four Haiti gang leaders](https://theprint.in/world/un-us-slap-sanctions-on-four-haiti-gang-leaders/1878798/)
+
+Article found but Couldn't summarize 
+PORT-AU-PRINCE (Reuters) -The United Nations Security Council on Friday said it had approved the addition of four suspected Haitian gang leaders to its sanctions list, a long-awaited addition as the
+
+Sat, 09 Dec 2023 01:15:29 +0000
+### [Australia swelters through heat wave as bushfire risk grows](https://theprint.in/world/australia-swelters-through-heat-wave-as-bushfire-risk-grows/1878796/)
+
+Article found but Couldn't summarize 
+SYDNEY (Reuters) -Australia's southeast on Saturday sweated through a heat wave that raised the risk of bushfires and led authorities to ban fires in large parts of New South Wales state. The nation's
+
+Sat, 09 Dec 2023 01:15:18 +0000
+### [Guatemala’s president-elect Arevalo slams attempt to scrap election results](https://theprint.in/world/guatemalas-president-elect-arevalo-slams-attempt-to-scrap-election-results/1878794/)
+
+Article found but Couldn't summarize 
+By Sofia Menchu GUATEMALA CITY (Reuters) -Guatemala's President-elect Bernardo Arevalo on Friday forcefully rejected a legal maneuver from prosecutors to invalidate his election triumph, calling the
+
+Sat, 09 Dec 2023 01:15:03 +0000
+### [Japan’s PM to replace chief cabinet secretary -report](https://theprint.in/world/japans-pm-to-replace-chief-cabinet-secretary-report/1878792/)
+
+Article found but Couldn't summarize 
+TOKYO (Reuters) -Japanese Prime Minister Fumio Kishida plans to replace Chief Cabinet Secretary Hirokazu Matsuno amid media reports he had received undeclared political funds, the Yomiuri newspaper
+
+Sat, 09 Dec 2023 00:45:38 +0000
+### [Europe agrees to landmark AI rules in bid to lead global race](https://theprint.in/tech/europe-agrees-to-landmark-ai-rules-in-bid-to-lead-global-race/1878790/)
+
+Article found but Couldn't summarize 
+By Foo Yun Chee, Martin Coulter and Supantha Mukherjee BRUSSELS/LONDON/STOCKHOLM (Reuters) -Europe on Friday reached a provisional deal on landmark European Union rules governing the use of artificial
+
+Sat, 09 Dec 2023 00:45:31 +0000
+### [China LandSpace’s methane-powered rocket sends satellites into orbit -state media](https://theprint.in/tech/china-landspaces-methane-powered-rocket-sends-satellites-into-orbit-state-media/1878789/)
+
+Article found but Couldn't summarize 
+BEIJING (Reuters) - A rocket developed by LandSpace Technology on Saturday launched three satellites into orbit, state media said, a milestone in the Chinese private rocket startup's mission to test
+
+Sat, 09 Dec 2023 00:45:14 +0000
+### [Australia’s PM Albanese says migration intake must be ‘sustainable’](https://theprint.in/world/australias-pm-albanese-says-migration-intake-must-be-sustainable/1878787/)
+
+Article found but Couldn't summarize 
+SYDNEY (Reuters) - Australia's Prime Minister Anthony Albanese said on Saturday the country's migration intake needed to be wound back to a "sustainable level", as he flagged the release this week of
+
+Sat, 09 Dec 2023 00:45:04 +0000
+### [US, S.Korea and Japan security advisors in Seoul for trilateral meeting](https://theprint.in/world/us-s-korea-and-japan-security-advisors-in-seoul-for-trilateral-meeting/1878785/)
+
+Article found but Couldn't summarize 
+SEOUL (Reuters) - The national security advisers of the United States, South Korea and Japan are holding a trilateral meeting in Seoul on Saturday, according to South Korea's presidential office, as
+
+Sat, 09 Dec 2023 00:32:02 +0000
+### [US FDA approves two gene therapies to treat patients with sickle cell disease](https://theprint.in/world/us-fda-approves-two-gene-therapies-to-treat-patients-with-sickle-cell-disease/1878782/)
+
+Article found but Couldn't summarize 
+Washington DC [US], December 9 (ANI): The US Food and Drug Administration approved two gene therapies for the treatment of sickle cell disease (SCD) in patients aged 12 years and above. Casgevy, a cell-based gene therapy, is approved for the treatment of sickle cell disease in patients 12 years of age and older with recurrent [&#8230;]
+
+Sat, 09 Dec 2023 00:15:56 +0000
+### [Britain sets out safeguards for accessing cash in digital age](https://theprint.in/tech/britain-sets-out-safeguards-for-accessing-cash-in-digital-age-2/1878780/)
+
+Article found but Couldn't summarize 
+By Huw Jones LONDON (Reuters) - Britain's banks and building societies should make sure customers can still access cash before closing a branch as more financial services move online, the country's
+
+Sat, 09 Dec 2023 00:15:39 +0000
+### [At least 11 dead after violent clash in central Mexican town](https://theprint.in/world/at-least-11-dead-after-violent-clash-in-central-mexican-town/1878779/)
+
+Article found but Couldn't summarize 
+MEXICO CITY (Reuters) - A violent confrontation between suspected criminals has left at least 11 people dead in the town of Texcaltitlan in central Mexico, state security officials said on Friday. (
+
+Sat, 09 Dec 2023 00:15:28 +0000
+### [US embassy in Baghdad struck with seven mortars as attacks escalate](https://theprint.in/world/us-embassy-in-baghdad-struck-with-seven-mortars-as-attacks-escalate/1878777/)
+
+Article found but Couldn't summarize 
+By Phil Stewart, Idrees Ali and Timour Azhari (Reuters) -Approximately seven mortar rounds landed in the U.S. Embassy compound in Baghdad during an attack early on Friday, a U.S. military official
+
+Sat, 09 Dec 2023 00:15:16 +0000
+### [Exclusive-Biden administration presses Congress to approve tank shells for Israel’s war in Gaza -sources](https://theprint.in/world/exclusive-biden-administration-presses-congress-to-approve-tank-shells-for-israels-war-in-gaza-sources/1878775/)
+
+Article found but Couldn't summarize 
+By Humeyra Pamuk WASHINGTON (Reuters) -The Biden administration has asked Congress to approve the sale of 45,000 shells for Israel's Merkava tanks for use in its offensive against Hamas in Gaza,
+
+Sat, 09 Dec 2023 00:15:04 +0000
+### [UN slaps sanctions on four Haiti gang leaders](https://theprint.in/world/un-slaps-sanctions-on-four-haiti-gang-leaders/1878773/)
+
+Article found but Couldn't summarize 
+PORT-AU-PRINCE (Reuters) - The United Nations Security Council on Friday said it had approved the addition of four suspected Haitian gang leaders to its sanctions list, a long-awaited addition as the
+
+Sat, 09 Dec 2023 00:02:14 +0000
+### [Afghanistan: Girls studying in sixth grade urge Taliban to not stop them from attending schools](https://theprint.in/world/afghanistan-girls-studying-in-sixth-grade-urge-taliban-to-not-stop-them-from-attending-schools/1878771/)
+
+Article found but Couldn't summarize 
+Kabul [Afghanistan], December 9 (ANI): Several girls studying in sixth grade in Afghanistan have raised concerns about not being able to go to school next year, Afghanistan-based TOLO News reported. Afghan girls called on the Taliban not to stop girls from going to school in the next academic year. Zahra and Zainab, who have just [&#8230;]
+
+Sat, 09 Dec 2023 00:02:01 +0000
+### [UAE General Civil Aviation Authority signs cooperation agreements with Brazil, Switzerland](https://theprint.in/world/uae-general-civil-aviation-authority-signs-cooperation-agreements-with-brazil-switzerland/1878769/)
+
+Article found but Couldn't summarize 
+Riyadh [UAE], December 9 (ANI/WAM): The UAE&#8217;s General Civil Aviation Authority (GCAA) signed two memorandums of understanding (MoUs) to strengthen and reinforce cooperation in the field of air transportation with Brazil and Switzerland, on the sidelines of the UAE delegation&#8217;s participation in the fifteenth ICAO Air Services Negotiation (ICAN2023), hosted by the Kingdom of Saudi [&#8230;]
+
+Fri, 08 Dec 2023 23:45:41 +0000
+### [Australia swelters through heat wave as bushfire risk](https://theprint.in/environment/australia-swelters-through-heat-wave-as-bushfire-risk/1878767/)
+
+Article found but Couldn't summarize 
+SYDNEY (Reuters) - Australia's southeast on Saturday sweated through a heat wave that raised the risk of bushfires and led authorities to ban fires in large parts of New South Wales state. The
+
+Fri, 08 Dec 2023 23:45:28 +0000
+### [‘Love Story’ actor Ryan O’Neal dies at age 82](https://theprint.in/entertainment/love-story-actor-ryan-oneal-dies-at-age-82/1878765/)
+
+Article found but Couldn't summarize 
+By Steve Gorman and Lisa Richwine LOS ANGELES (Reuters) -Actor Ryan O'Neal, the 1970s Hollywood heartthrob who starred in such films as "Love Story," "What's Up, Doc?" and "Paper Moon," died on Friday
+
+Fri, 08 Dec 2023 23:45:16 +0000
+### [North Korea boasts of satellite capability, says it will launch more soon](https://theprint.in/world/north-korea-boasts-of-satellite-capability-says-it-will-launch-more-soon/1878763/)
+
+Article found but Couldn't summarize 
+SEOUL (Reuters) - North Korea is determined to launch more spy satellites in the near future to collect information on the military activities of its enemies, a commentary carried by state news agency
+
 Fri, 08 Dec 2023 23:15:23 +0000
 ### [Ukraine’s parliament approves bills seen as key for EU talks](https://theprint.in/world/ukraines-parliament-approves-bills-seen-as-key-for-eu-talks/1878757/)
 
