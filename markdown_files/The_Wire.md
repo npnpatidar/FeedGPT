@@ -1,3 +1,15 @@
+2023-12-09T15:30:33+05:30
+### [Are First-Time Voters the ‘X Factor’ in BJP’s Victories?](https://thewire.in/politics/first-time-voters-x-factor-in-bjp-victory)
+
+No Article text 
+These voters comprise between 10-15% of the total electorate, perhaps more than most castes or religious denominations.
+
+2023-12-09T15:05:05+05:30
+### [Centre Blocked 36,838 Social Media Posts in Past 5 Years, X-Corp Topped the Chart Among Platforms](https://thewire.in/rights/centre-blocks-36838-social-media-posts-in-last-five-years-x-corp-tops-the-chart-among-platforms)
+
+No Article text 
+The information was disclosed by the government in response to questions raised by Rajya Sabha MP John Brittas of the CPI (M) in parliament. Most posts/URLs (9,849) were blocked in 2020.
+
 2023-12-09T14:15:12+05:30
 ### [Backstory: Polls, Verdicts and Media Narratives on Counting Day](https://thewire.in/media/backstory-polls-verdicts-media-narratives-counting-day)
 

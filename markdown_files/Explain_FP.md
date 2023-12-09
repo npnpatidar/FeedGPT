@@ -1,3 +1,9 @@
+Sat, 09 Dec 2023 15:04:05 +0530
+### [The rising threat of AI-powered apps that ‘undress’ women’s photos](https://www.firstpost.com/explainers/deepfakes-the-rising-threat-of-ai-powered-apps-that-undress-womens-photos-13484052.html)
+
+Article found but Couldn't summarize 
+The rising threat of AI-powered apps that ‘undress’ women’s photos
+
 Sat, 09 Dec 2023 11:40:37 +0530
 ### [Mahua Moitra expelled from Lok Sabha: What next for the firebrand TMC leader?](https://www.firstpost.com/explainers/mahua-moitra-expelled-from-lok-sabha-what-next-for-the-firebrand-tmc-leader-13483552.html)
 
