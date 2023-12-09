@@ -1,3 +1,68 @@
+Sat, 09 Dec 2023 20:17:02 +0000
+### [Ebrahim Raisi meets Vladimir Putin, calls cooperation with Russia important in Iran’s neighbourhood policy](https://theprint.in/world/ebrahim-raisi-meets-vladimir-putin-calls-cooperation-with-russia-important-in-irans-neighbourhood-policy/1879687/)
+
+Article found but Couldn't summarize 
+Moscow [Russia], December 10 (ANI): Iranian President Ebrahim Raisi held a meeting with Russian counterpart Vladimir Putin in Moscow. During the meeting, Raisi expressed his satisfaction with the growing ties between Iran and Russia and termed cooperation with Russia important in line with Iran&#8217;s neighbourhood policy. In the statement, the Iranian President&#8217;s Office said, &#8220;Dr [&#8230;]
+
+Sat, 09 Dec 2023 20:16:25 +0000
+### [Soccer-Coach Jurcevic ends short-lived role with Lebanon a month before Asian Cup](https://theprint.in/sport/soccer-coach-jurcevic-ends-short-lived-role-with-lebanon-a-month-before-asian-cup/1879685/)
+
+Croatian coach Nikola Jurcevic has left the Lebanon national team just two months into the role, by mutual consent. The decision came as the team prepares for the Asian Cup in Qatar next month. The Lebanese Federation did not provide a reason for Jurcevic's departure but stated that the decision was made to secure the best technical staff for the team ahead of the tournament. Jurcevic, who previously coached the Azerbaijan national team and worked with various clubs, led the Lebanon team in four matches, with two losses and two draws. In preparation for the Asian Cup, Lebanon will play a friendly against Saudi Arabia on January 4.
+
+Sat, 09 Dec 2023 20:16:13 +0000
+### [Soccer-Squad not good enough, says United’s Ten Hag, after Bournemouth rout](https://theprint.in/sport/soccer-squad-not-good-enough-says-uniteds-ten-hag-after-bournemouth-rout/1879683/)
+
+Article found but Couldn't summarize 
+MANCHESTER, England (Reuters) - Manchester United have spent around 400 million pounds ($501.84 million) on new signings since appointing Erik Ten Hag as manager in 2022 but after yet another abject
+
+Sat, 09 Dec 2023 20:16:05 +0000
+### [Soccer-Muriel’s last-gasp strike gives Atalanta 3-2 home win over Milan](https://theprint.in/sport/soccer-muriels-last-gasp-strike-gives-atalanta-3-2-home-win-over-milan/1879681/)
+
+Article found but Couldn't summarize 
+BERGAMO, Italy (Reuters) -Atalanta snatched a 3-2 victory at home to AC Milan thanks to a back-heel flick in added time from substitute Luis Muriel after a double from striker Ademola Lookman in Serie
+
+Sat, 09 Dec 2023 20:15:55 +0000
+### [Soccer-Leipzig beat 10-man Dortmund 3-2 in battle for fourth spot](https://theprint.in/sport/soccer-leipzig-beat-10-man-dortmund-3-2-in-battle-for-fourth-spot/1879679/)
+
+Article found but Couldn't summarize 
+DORTMUND, Germany (Reuters) - Visitors RB Leipzig beat 10-man Borussia Dortmund 3-2 in the Bundesliga on Saturday to tighten their grip on fourth place and put a further dent in their opponents' title
+
+Sat, 09 Dec 2023 20:15:45 +0000
+### [Soccer-Aston Villa beat Arsenal 1-0 for club record 15th straight home victory](https://theprint.in/sport/soccer-aston-villa-beat-arsenal-1-0-for-club-record-15th-straight-home-victory/1879677/)
+
+Article found but Couldn't summarize 
+BIRMINGHAM, England (Reuters) -John McGinn's early goal led surging Aston Villa to a club-record 15th consecutive home Premier League victory on Saturday, a breathless 1-0 win over Arsenal that
+
+Sat, 09 Dec 2023 20:15:32 +0000
+### [Soccer-Muriel’s last-gasp back-heel strike gives Atalanta 3-2 home win over Milan](https://theprint.in/sport/soccer-muriels-last-gasp-back-heel-strike-gives-atalanta-3-2-home-win-over-milan/1879675/)
+
+Article found but Couldn't summarize 
+BERGAMO, Italy (Reuters) -Atalanta snatched a 3-2 victory at home to AC Milan thanks to a back-heel flick in added time from substitute Luis Muriel after a double from striker Ademola Lookman in Serie
+
+Sat, 09 Dec 2023 20:15:13 +0000
+### [Japan PM Kishida to replace industry minister and LDP policy chief-Asahi](https://theprint.in/world/japan-pm-kishida-to-replace-industry-minister-and-ldp-policy-chief-asahi/1879673/)
+
+Article found but Couldn't summarize 
+TOKYO (Reuters) - Japanese Prime Minister Fumio Kishida plans to replace Industry Minister Yasutoshi Nishimura and ruling party policy chief Koichi Hagiuda amid a political funding scandal, the Asahi
+
+Sat, 09 Dec 2023 20:15:04 +0000
+### [Iraq’s Kataeb Hezbollah vows more attacks on US forces](https://theprint.in/world/iraqs-kataeb-hezbollah-vows-more-attacks-on-us-forces/1879672/)
+
+Article found but Couldn't summarize 
+BAGHDAD (Reuters) - Attacks by Iraq's Kataeb Hezbollah militia against U.S. interests on Friday are the start of "new rules of engagement," a security official from the group said in a social media
+
+Sat, 09 Dec 2023 19:30:03 +0000
+### [Organisers of COP28 want an inclusive summit. But just how diverse is the negotiating table?](https://theprint.in/world/organisers-of-cop28-want-an-inclusive-summit-but-just-how-diverse-is-the-negotiating-table/1879667/)
+
+Article found but Couldn't summarize 
+Dubai, Dec 9 (AP/PTI) Climate activist Lisa NoBaya sat in a room filled with stakeholders at the United Nations climate summit in Dubai and asked the delegates what inclusivity looks like at COP28: does it mean diverse voices are simply present, or actively participating in what the outcome of the talks will look like? The [&#8230;]
+
+Sat, 09 Dec 2023 19:15:11 +0000
+### [Soccer-Liverpool hit the top, Man Utd humiliated by Bournemouth](https://theprint.in/sport/soccer-liverpool-hit-the-top-man-utd-humiliated-by-bournemouth/1879661/)
+
+Article found but Couldn't summarize 
+By Martyn Herman LONDON (Reuters) - Liverpool climbed to the top of the Premier League as Mo Salah scored his 200th goal for the club in a 2-1 win at Crystal Palace on Saturday but storm clouds
+
 Sat, 09 Dec 2023 19:02:02 +0000
 ### [Jaishankar speaks to Palestinian PM, reiterates India’s long-standing position on Palestine](https://theprint.in/world/jaishankar-speaks-to-palestinian-pm-reiterates-indias-long-standing-position-on-palestine/1879658/)
 
