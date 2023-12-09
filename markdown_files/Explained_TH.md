@@ -1,3 +1,16 @@
+Sun, 10 Dec 2023 03:00:00 +0530
+### [Are crimes against women on the rise? | Explained](https://www.thehindu.com/news/national/are-crimes-against-women-on-the-rise-explained/article67622430.ece)
+
+Article found but Couldn't summarize 
+What do data from the National Crime Records Bureau indicate for 2022?
+Which are the laws that deal with women’s safety? What are the hurdles in their implementation? What are the challenges that stand in the way of effective justice?
+
+Sun, 10 Dec 2023 02:40:00 +0530
+### [What does a special package mean for Particularly Vulnerable Tribal Groups? | Explained](https://www.thehindu.com/news/national/what-does-a-special-package-mean-for-particularly-vulnerable-tribal-groups-explained/article67622417.ece)
+
+Article found but Couldn't summarize 
+Where do the Particularly Vulnerable Tribal Groups live in India? What is their population? Why is so little known about them? When was the last count done? How is the Pradhan Mantri-Janjati Adivasi Nyaya Maha Abhiyan (PM-JANMAN) scheme expected to benefit PVTGs?
+
 Fri, 08 Dec 2023 16:36:22 +0530
 ### [Watch | How to lock your Aadhaar biometrics data](https://www.thehindu.com/shorts/how-to-lock-your-aadhaar-biometrics-data/article67617997.ece)
 

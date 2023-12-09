@@ -1,3 +1,50 @@
+Sat, 09 Dec 2023 22:02:11 +0000
+### [Imran Khan approaches Lahore Court to challenge Pakistan Election Commission’s contempt proceedings](https://theprint.in/world/imran-khan-approaches-lahore-court-to-challenge-pakistan-election-commissions-contempt-proceedings/1879716/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 10 (ANI): In order to avoid his indictment in a case related to contempt of the Election Commission of Pakistan (ECP), Imran Khan on Saturday approached the Lahore High Court (LHC) challenging the case&#8217;s proceedings and his jail trial, Pakistan-based Geo News reported. In his petition, Pakistan Tehreek-e-Insaf (PTI) chairman Imran Khan [&#8230;]
+
+Sat, 09 Dec 2023 22:02:01 +0000
+### [COP28: Multilateral development banks publish first common principles for nature-positive finance](https://theprint.in/world/cop28-multilateral-development-banks-publish-first-common-principles-for-nature-positive-finance/1879714/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 10 (ANI/WAM): The European Investment Bank (EIB) and fellow multilateral development banks (MDBs) published common principles for identifying and tracking nature-positive finance. The announcement comes on nature day of the COP28 in Dubai, United Arab Emirates. The common principles aim to increase nature-positive finance by mainstreaming nature in MDB operations and investments [&#8230;]
+
+Sat, 09 Dec 2023 21:45:42 +0000
+### [Soccer-Liverpool hit the top as Arsenal lose, Man Utd humiliated by Bournemouth](https://theprint.in/sport/soccer-liverpool-hit-the-top-as-arsenal-lose-man-utd-humiliated-by-bournemouth/1879712/)
+
+Article found but Couldn't summarize 
+By Martyn Herman LONDON (Reuters) -Liverpool climbed atop the Premier League after Mo Salah scored his 200th goal for the club in a 2-1 win at Crystal Palace on Saturday before Aston Villa beat
+
+Sat, 09 Dec 2023 21:45:20 +0000
+### [Freed Gaza hostages recount captivity at Tel Aviv rally](https://theprint.in/world/freed-gaza-hostages-recount-captivity-at-tel-aviv-rally/1879710/)
+
+Article found but Couldn't summarize 
+TEL AVIV (Reuters) - Thousands of Israelis gathered in Tel Aviv on Saturday demanding the release of all hostages being held by Hamas in Gaza, while some of those freed during a recent ceasefire spoke
+
+Sat, 09 Dec 2023 21:45:04 +0000
+### [Ukraine’s Zelenskiy says he’s travelling to Argentina](https://theprint.in/world/ukraines-zelenskiy-says-hes-travelling-to-argentina/1879708/)
+
+Article found but Couldn't summarize 
+(Reuters) - Ukrainian President Volodymyr Zelenskiy said on Saturday that he was travelling to Argentina. Zelenskiy, who announced his trip on the Telegram messaging app and is on his first visit to
+
+Sat, 09 Dec 2023 21:17:01 +0000
+### [For too long India has put up with unfair competition…: EAM Jaishankar](https://theprint.in/world/for-too-long-india-has-put-up-with-unfair-competition-eam-jaishankar/1879705/)
+
+India's External Affairs Minister, S Jaishankar, emphasized the need for India to address unfair competition in the global market. He highlighted that India should have the ability to call out unfair competition and take action against it. Jaishankar also mentioned that India's position in the world has evolved, from being called the back office to being recognized as the pharmacy, designer, and producer of the world. He emphasized the importance of finding solutions to long-standing problems such as food and energy security. Jaishankar expressed the need for India to prepare for challenges like electric vehicles and artificial intelligence in the next 25 years. He also discussed the concept of "Bharat" as a belief and attitude that defines India.
+
+Sat, 09 Dec 2023 21:15:17 +0000
+### [Spain, Ireland, Belgium, Malta want EU summit to call for Gaza ceasefire](https://theprint.in/world/spain-ireland-belgium-malta-want-eu-summit-to-call-for-gaza-ceasefire/1879703/)
+
+Article found but Couldn't summarize 
+MADRID (Reuters) - Spain, Ireland, Belgium and Malta want EU leaders to debate the situation in Gaza next week and jointly call for a lasting humanitarian ceasefire that would end the conflict, a
+
+Sat, 09 Dec 2023 21:15:05 +0000
+### [Japan PM to replace key government, LDP lawmakers – media reports](https://theprint.in/world/japan-pm-to-replace-key-government-ldp-lawmakers-media-reports/1879701/)
+
+Article found but Couldn't summarize 
+TOKYO (Reuters) -Japanese Prime Minister Fumio Kishida plans to make changes to his cabinet and his party executive following media reports that lawmakers received undeclared political funds, the
+
 Sat, 09 Dec 2023 21:06:32 +0000
 ### [Killers of Karni Sena faction chief Gogamedi arrested from Chandigarh](https://theprint.in/india/killers-of-karni-sena-faction-chief-gogamedi-arrested-from-chandigarh/1879693/)
 
