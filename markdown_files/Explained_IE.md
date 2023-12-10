@@ -1,3 +1,13 @@
+Sun, 10 Dec 2023 06:10:41 +0000
+### [What is the Universal Declaration of Human Rights, which is marking its 75th anniversary?](https://indianexpress.com/article/explained/explained-global/universal-declaration-of-human-rights-marking-75th-anniversary-9061964/)
+
+The Universal Declaration of Human Rights, approved by the UN General Assembly 75 years ago, is a significant document that lays out fundamental rights and freedoms. It consists of a preamble and 30 articles that establish principles such as the equality and dignity of all individuals, the right to life, liberty, and security, and the prohibition of slavery, torture, and discrimination. The declaration was created in response to the atrocities of World War II and the Holocaust, with the aim of guaranteeing the rights of every individual. While it is not legally binding, its principles have influenced international human rights law and inspired numerous human rights treaties. Despite challenges and abuses, the declaration remains relevant, and its successes should be honored while learning from its failures.
+
+Sun, 10 Dec 2023 06:06:50 +0000
+### [Mahua Moitra and George Santos: A tale of two expulsions](https://indianexpress.com/article/explained/explained-global/mahua-moitra-george-santos-expelled-9061954/)
+
+Article found but Couldn't summarize
+
 Sun, 10 Dec 2023 03:00:52 +0000
 ### [Grand Theft Auto VI: Why there is such a hype around the upcoming GTA game](https://indianexpress.com/article/explained/explained-culture/grand-theft-auto-vi-hype-explained-9061658/)
 

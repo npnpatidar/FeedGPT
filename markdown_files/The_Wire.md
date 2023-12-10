@@ -1,3 +1,9 @@
+2023-12-10T10:57:18+05:30
+### [BJP MP Meenakshi Lekhi Distances Herself from Parliament Query on India's Stand on Hamas](https://thewire.in/government/bjp-mp-meenakshi-lekhi-distances-herself-from-parliament-query-on-indias-stand-on-hamas)
+
+No Article text 
+She said this issue has nothing to do with the party as it was a government matter. On being asked if Hamas should be banned, she said the concerned division would answer on this matter.
+
 2023-12-09T21:47:08+05:30
 ### [J&K Police Officer Shot by Suspected Militants on Outskirts of Srinagar](https://thewire.in/security/jk-police-officer-shot-by-suspected-militants-on-outskirts-of-srinagar)
 
