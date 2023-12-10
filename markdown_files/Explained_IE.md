@@ -1,3 +1,8 @@
+Sun, 10 Dec 2023 08:15:34 +0000
+### [EU ‘historic’ deal: What the world’s first law on regulating AI propose](https://indianexpress.com/article/explained/explained-sci-tech/eu-worlds-first-law-regulating-ai-9062105/)
+
+Article found but Couldn't summarize
+
 Sun, 10 Dec 2023 06:27:25 +0000
 ### [Landmark Article 370 verdict coming: here’s what happened in Supreme Court during hearings](https://indianexpress.com/article/explained/explained-law/article-370-verdict-supreme-court-hearings-9061978/)
 

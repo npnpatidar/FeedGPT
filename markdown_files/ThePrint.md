@@ -1,3 +1,123 @@
+Sun, 10 Dec 2023 08:15:05 +0000
+### [UN chief urges leaders at COP28 to agree on deep cuts to emissions](https://theprint.in/world/un-chief-urges-leaders-at-cop28-to-agree-on-deep-cuts-to-emissions/1880015/)
+
+Article found but Couldn't summarize 
+DOHA (Reuters) - United Nations Secretary-General Antonio Guterres urged leaders at the COP28 climate conference to agree on deep cuts to emissions and stop global warming exceeding 1.5 degrees
+
+Sun, 10 Dec 2023 08:15:03 +0000
+### [Why Centre targets only Cong and not BJP? asks Karnataka CM on Dhiraj Sahu I-T raids](https://theprint.in/india/why-centre-targets-only-cong-and-not-bjp-asks-karnataka-cm-on-dhiraj-sahu-i-t-raids/1880014/)
+
+Article found but Couldn't summarize 
+Bengaluru, Dec 10 (PTI) Karnataka Chief Minister Siddaramaiah on Sunday accused the Centre of targeting only the Congress and not the BJP, in the wake of seizure of unaccounted cash amounting to over Rs 200 crore from premises allegedly linked to Jharkhand Congress MP Dhiraj Prasad Sahu. He was reacting to the recent Income Tax [&#8230;]
+
+Sun, 10 Dec 2023 08:14:57 +0000
+### [‘Why does the city belong more to men?’ — how Indian women are reclaiming public spaces](https://theprint.in/best-of-theprint-icymi/why-does-the-city-belong-more-to-men-how-indian-women-are-reclaiming-public-spaces/1879908/)
+
+Article found but Couldn't summarize 
+A selection of the best news reports, analysis and opinions published by ThePrint this week.
+
+Sun, 10 Dec 2023 08:03:29 +0000
+### [India, Sweden committed to impartiality in responding to humanitarian situations: Swedish deputy envoy to UN](https://theprint.in/world/india-sweden-committed-to-impartiality-in-responding-to-humanitarian-situations-swedish-deputy-envoy-to-un/1879993/)
+
+Article found but Couldn't summarize 
+New York [US], December 10 (ANI): Sweden&#8217;s deputy envoy to the UN, Andreas von Uexkull, said India and Sweden remain committed to preserving the principles of humanity, neutrality, impartiality and independence in responding to all humanitarian situations. &#8220;India and Sweden remain committed to preserving the principles of humanity, neutrality, impartiality and independence in responding to [&#8230;]
+
+Sun, 10 Dec 2023 08:03:10 +0000
+### [Israeli military finds Gaza terror base inside mosque](https://theprint.in/world/israeli-military-finds-gaza-terror-base-inside-mosque/1879990/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], December 10 (ANI/TPS): The IDF (Israel Defense Forces) reported on its continued assaults on terrorist bases in Gaza over the past day. This included a raid carried out on a mosque in Gaza where forces found a terrorist base and supplies belonging to Hamas. The raid was conducted by the 12th Battalion [&#8230;]
+
+Sun, 10 Dec 2023 08:02:50 +0000
+### [Air Arabia Abu Dhabi marks its first flight to Colombo](https://theprint.in/world/air-arabia-abu-dhabi-marks-its-first-flight-to-colombo/1879987/)
+
+Article found but Couldn't summarize 
+Abu Dhabi [UAE], December 10 (ANI/WAM): Air Arabia Abu Dhabi has marked the inauguration of its first flight to Bandaranaike International Airport, Colombo, Sri Lanka. The carrier will connect the UAE&#8217;s capital to Colombo with three flights a week on Wednesday, Friday, and Sunday. Adel Al Ali, Group Chief Executive Officer of Air Arabia, said, [&#8230;]
+
+Sun, 10 Dec 2023 08:02:38 +0000
+### [Delhi Metro’s audio ad project is an assault on people’s ears. Why ban loud music then?](https://theprint.in/opinion/pov/delhi-metros-audio-ad-project-is-an-assault-on-peoples-ears-why-ban-loud-music-then/1879961/)
+
+Article found but Couldn't summarize 
+Subjecting people to mindless ads is neither a good marketing strategy nor a sound way to deliver a public service.
+
+Sun, 10 Dec 2023 08:02:32 +0000
+### [Arjun Rampal, Vidyut Jammwal unveil release date of ‘Crakk’](https://theprint.in/feature/arjun-rampal-vidyut-jammwal-unveil-release-date-of-crakk/1879985/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 10 (ANI): Actor Arjun Rampal on Sunday treated fans to an exciting announcement of the official release date of his upcoming film &#8216;Crakk&#8217;. Taking to Instagram, Arjun shared an announcement poster. &#160; &#160; &#160; &#160; &#160; View this post on Instagram &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; [&#8230;]
+
+Sun, 10 Dec 2023 08:02:14 +0000
+### [Israeli operations in Gaza continue as Hamas fires from schools, mosque](https://theprint.in/world/israeli-operations-in-gaza-continue-as-hamas-fires-from-schools-mosque/1879982/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Irael], December 10 (ANI/TPS): Israel Defence Forces troops continued to operate deep inside the Gaza Strip on Saturday as fighter jets struck Hamas assets across the Palestinian enclave. In one operation, terrorists holed up in a school in the Shejaya neighbourhood of Gaza City and ambushed Israeli soldiers, who responded with fire to [&#8230;]
+
+Sun, 10 Dec 2023 08:02:01 +0000
+### [Yemen’s Houthis vow to target any Israel-bound ship regardless of ownership](https://theprint.in/world/yemens-houthis-vow-to-target-any-israel-bound-ship-regardless-of-ownership/1879979/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], December 10 (ANI/TPS): Yemen&#8217;s Iranian-backed Houthi rebels announced on Saturday night that they will target any Israel-bound ship in the Red Sea regardless of the vessel&#8217;s ownership. In a rambling thread posted on X, formerly called Twitter, Mohammed Ali al-Houthi, leader of the Houthi rebels wrote, &#8220;The Yemeni Armed Forces announce that [&#8230;]
+
+Sun, 10 Dec 2023 08:00:30 +0000
+### [Adityanath directs UP officials to promptly resolve issues of public](https://theprint.in/india/adityanath-directs-up-officials-to-promptly-resolve-issues-of-public/1879975/)
+
+Article found but Couldn't summarize 
+Gorakhpur (UP), Dec 10 (PTI) Uttar Pradesh Chief Minister Yogi Adityanath on Sunday instructed the officials to address issues of the public with utmost seriousness and sensitivity as well as ensure satisfactory solutions. The chief minister met about 300 people in the Janata Darshan organised at Gorakhnath temple in Gorakhpur this morning. He said that [&#8230;]
+
+Sun, 10 Dec 2023 08:00:16 +0000
+### [Registration of properties in Pune up 7 pc in Nov amid strong housing demand: Knight Frank](https://theprint.in/economy/registration-of-properties-in-pune-up-7-pc-in-nov-amid-strong-housing-demand-knight-frank/1879974/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 10 (PTI) Registration of properties in Pune rose by 7 per cent annually to 14,607 units in November on higher demand, according to Knight Frank India. Real estate consultant Knight Frank India on Sunday released properties&#8217; registration numbers of Pune compiled from the Maharashtra government data. A total of 14,607 units were [&#8230;]
+
+Sun, 10 Dec 2023 08:00:10 +0000
+### [Oscar win, World Cup, Uttarkashi rescue — 10 events that brought Indians together in 2023](https://theprint.in/india/oscar-win-world-cup-uttarkashi-rescue-10-events-that-brought-indians-together-in-2023/1878896/)
+
+Article found but Couldn't summarize 
+2023 was a momentous year for India. The country took great strides in science, cinema, sports and diplomacy.
+
+Sun, 10 Dec 2023 08:00:02 +0000
+### [Adequate arrangements made to ensure peace in Kashmir: IGP](https://theprint.in/india/adequate-arrangements-made-to-ensure-peace-in-kashmir-igp/1879973/)
+
+Article found but Couldn't summarize 
+Srinagar, Dec 10 (PTI) Adequate security arrangements have been made to ensure a peaceful atmosphere in Kashmir as the Supreme Court is scheduled to pronounce its verdict on Monday on a bunch of petitions challenging the abrogation of the provisions of Article 370 of the Constitution by the Centre in August 2019, a senior police [&#8230;]
+
+Sun, 10 Dec 2023 07:47:49 +0000
+### [PM Modi extends wishes to South Korean President as both countries celebrate 50 years of diplomatic ties](https://theprint.in/world/pm-modi-extends-wishes-to-south-korean-president-as-both-countries-celebrate-50-years-of-diplomatic-ties/1879960/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 10 (ANI): Prime Minister Narendra Modi extended his wishes to South Korean President Yoon Suk Yeolh on Sunday as both countries celebrated 50 years of diplomatic ties. He further emphasised that India and South Korea have mutual respect, shared values and growing partnerships. PM Modi took to his social media X, [&#8230;]
+
+Sun, 10 Dec 2023 07:47:37 +0000
+### [Pakistan: Election Commission rules out possibility of delay in general elections](https://theprint.in/world/pakistan-election-commission-rules-out-possibility-of-delay-in-general-elections/1879958/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 10 (ANI): The Election Commission of Pakistan (ECP) has confirmed that there is no apparent possibility of delay in the conduct of elections, according to The News International. According to sources, the ECP considered some petitions and responded to those that landed in its office. &#8220;The pleas before the Election Commission have [&#8230;]
+
+Sun, 10 Dec 2023 07:47:24 +0000
+### [COP28 provides sustainable development solutions in developing countries: UNIDO Director-General](https://theprint.in/world/cop28-provides-sustainable-development-solutions-in-developing-countries-unido-director-general/1879956/)
+
+Article found but Couldn't summarize 
+Abu Dhabi [UAE], December 10 (ANI/WAM): Gerd Muller, Director-General of United Nations Industrial Development Organisation (UNIDO), said that the 28th Conference of the Parties (COP28) is a conference of solutions, focusing on investing in sustainable development, especially in developing and least developed countries. In remarks to the Emirates News Agency (WAM) on the sidelines of [&#8230;]
+
+Sun, 10 Dec 2023 07:47:13 +0000
+### [Chile’s pavilion at COP28 presents effective initiatives, solutions to address climate change](https://theprint.in/world/chiles-pavilion-at-cop28-presents-effective-initiatives-solutions-to-address-climate-change/1879954/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 10 (ANI/WAM): The Pavilion of Chile at COP28 is presenting effective initiatives and solutions that are making a significant contribution to addressing the effects of climate change. The conference is an important platform for raising awareness and promoting initiatives to protect the planet. The 140-square-metre space pavilion &#8211; located in the Blue [&#8230;]
+
+Sun, 10 Dec 2023 07:47:02 +0000
+### [Kajol shares glimpse of her “chill-kind” of Sunday](https://theprint.in/feature/kajol-shares-glimpse-of-her-chill-kind-of-sunday/1879952/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 10 (ANI): Actor Kajol treated fans to a glimpse of what her chill-kind of Sunday looks like. Taking to Instagram, Kajol shared a monochrome picture from her Sunday relaxing Sunday in bed. &#160; &#160; &#160; &#160; &#160; View this post on Instagram &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; [&#8230;]
+
+Sun, 10 Dec 2023 07:46:42 +0000
+### [As Gaza war rages on, Machiavelli would’ve warned Netanyahu. Enemies can learn from warfare](https://theprint.in/opinion/security-code/as-gaza-war-rages-on-machiavelli-wouldve-warned-netanyahu-enemies-can-learn-from-warfare/1879936/)
+
+Article found but Couldn't summarize 
+Machiavelli might have also counselled the Israeli PM not to be too eager in his grasp of total victory. Triumph, he might have said, can be almost as dangerous as defeat.
+
 Sun, 10 Dec 2023 07:02:02 +0000
 ### [Vidyut Jammwal goes bold during Himalayan retreat, treats fans to pics on birthday](https://theprint.in/feature/vidyut-jammwal-goes-bold-during-himalayan-retreat-treats-fans-to-pics-on-birthday/1879906/)
 
