@@ -1,3 +1,21 @@
+2023-12-10T18:00:17+05:30
+### [Rajasthan: FIR Against Hawa Mahal MLA Balmukunt Acharya for Alleged Assault on SC Community Member](https://thewire.in/law/rajasthan-fir-against-hawa-mahal-mla-balmukunt-acharya-for-alleged-assault-on-sc-community-member)
+
+No Article text 
+Another complaint has been filed with the National Human Rights Commission against Acharya for violating street vendor laws when instructing Muslim vendors to close their shops in the Hawa Mahal area.
+
+2023-12-10T17:30:00+05:30
+### [Former Pak PM Nawaz Sharif Says He Was Ousted for Opposing the Kargil War](https://thewire.in/south-asia/former-pak-pm-nawaz-sharif-says-he-was-ousted-for-opposing-the-kargil-war)
+
+No Article text 
+Sharif said he was thrown out by General Musharraf, who then led Pakistan's army, because he suggested keeping good relations with India and other key neighbours.
+
+2023-12-10T16:45:01+05:30
+### [Pakistan Issues Visas to 104 Sikh Pilgrims to Visit Shadani Darbar in Sindh](https://thewire.in/south-asia/pakistan-issues-visas-to-104-sikh-pilgrims-to-visit-shadani-darbar-in-sindh)
+
+No Article text 
+The celebrations at the Shadani Darbar Hayat Pitafi in the Sindh province, an important site for the Hindu Sindhi community, are due between December 12 and 23.
+
 2023-12-10T16:30:05+05:30
 ### [Aniruddha Bose's Book On Indian Railways and Partition Overlooks Communist Influence in Trade Unions](https://thewire.in/books/why-the-role-of-trade-unions-cant-be-overlooked-in-a-book-on-the-indian-railways)
 

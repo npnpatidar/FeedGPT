@@ -1,3 +1,122 @@
+Sun, 10 Dec 2023 12:15:39 +0000
+### [Work faster, be flexible, compromise to reach climate deal – COP28 president](https://theprint.in/environment/work-faster-be-flexible-compromise-to-reach-climate-deal-cop28-president/1880188/)
+
+Article found but Couldn't summarize 
+DUBAI (Reuters) - COP28 President Sultan al-Jaber called on countries on Sunday to work harder, be flexible and accept compromise to reach a deal on tackling climate change, including wording for the
+
+Sun, 10 Dec 2023 12:15:22 +0000
+### [Gaza war puts entire generation at risk of ‘radicalisation’ -Qatar PM](https://theprint.in/world/gaza-war-puts-entire-generation-at-risk-of-radicalisation-qatar-pm/1880186/)
+
+Article found but Couldn't summarize 
+DOHA (Reuters) - Qatar's Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani said on Sunday that an entire generation in the Middle East is at risk of becoming radicalised because of the war in
+
+Sun, 10 Dec 2023 12:15:14 +0000
+### [Om Prakash Chouhan wins SSP Chawrasia Invitational title](https://theprint.in/sport/om-prakash-chouhan-wins-ssp-chawrasia-invitational-title/1880184/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 10 (PTI) Om Prakash Chouhan displayed nerves of steel in a close finish as he won the Rs 1 crore SSP Chawrasia Invitational golf tournament to secure his 11th career title and fourth of the season here on Sunday. Om Prakash (70-69-70-73), the overnight leader by four shots, was not at his best [&#8230;]
+
+Sun, 10 Dec 2023 12:15:13 +0000
+### [Israel: pressure to end war inconsistent with support for eliminating Hamas](https://theprint.in/world/israel-pressure-to-end-war-inconsistent-with-support-for-eliminating-hamas/1880183/)
+
+Article found but Couldn't summarize 
+JERUSALEM (Reuters) - Isralei Prime Minister Benjamin Netanyahu rebuffed on Sunday international calls to end the Gaza war, describing them as inconsistent with supporting the war-aim of eliminating
+
+Sun, 10 Dec 2023 12:15:03 +0000
+### [Nobel Peace Prize winner says Iranian people will prevail against rulers](https://theprint.in/world/nobel-peace-prize-winner-says-iranian-people-will-prevail-against-rulers/1880181/)
+
+Article found but Couldn't summarize 
+By Nerijus Adomaitis OSLO (Reuters) - The Iranian people will ultimately overcome authoritarianism imposed by a government that has lost legitimacy and public support, Nobel Peace Prize winner Narges
+
+Sun, 10 Dec 2023 12:15:02 +0000
+### [Bharat charts its course to reclaim nation’s glory as ‘Vishwaguru’: Vice President](https://theprint.in/india/bharat-charts-its-course-to-reclaim-nations-glory-as-vishwaguru-vice-president/1880180/)
+
+Article found but Couldn't summarize 
+Jamshedpur (Jharkhand), Dec 10 (PTI) Vice President Jagdeep Dhankhar on Sunday said that Bharat is charting its course to reclaim its glory as &#8216;Viswaguru&#8217; (world leader) and it is going to be the third largest economy by the end of this decade. Speaking at the platinum jubilee celebration of XLRI in Jamshedpur, Dhankhar said that [&#8230;]
+
+Sun, 10 Dec 2023 12:00:30 +0000
+### [Mumbai police arrest Gujarat man for fraudulently transferring shares worth Rs 24 lakh in his name](https://theprint.in/india/mumbai-police-arrest-gujarat-man-for-fraudulently-transferring-shares-worth-rs-24-lakh-in-his-name/1880175/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 10 (PTI) The Mumbai police’s Economic Offences Wing (EOW) has arrested a resident of Ahmedabad for allegedly fraudulently transferring equity shares worth about Rs 24 lakh, belonging to another man, in his name, an official said here on Sunday. Accused Vikram Shankarlal Shah took advantage of the similarities between his name and that [&#8230;]
+
+Sun, 10 Dec 2023 12:00:17 +0000
+### [Medical student commits suicide at college hostel in Maharashtra, alleges harassment by roommates](https://theprint.in/india/medical-student-commits-suicide-at-college-hostel-in-maharashtra-alleges-harassment-by-roommates/1880174/)
+
+Article found but Couldn't summarize 
+Thane, Dec 10 (PTI) A 19-year-old student of a private medical college allegedly committed suicide, claiming that he was harassed and ragged by three roommates at a hostel in Karjat city of Maharashtra’s Raigad district, police said on Sunday. Based on a complaint lodged by the deceased boy’s father, the police have registered an offence [&#8230;]
+
+Sun, 10 Dec 2023 12:00:03 +0000
+### [Ray’s ‘Pather Panchali’ changed my life: Museum of Modern Arts ex-curator Laurence Kardish](https://theprint.in/feature/rays-pather-panchali-changed-my-life-museum-of-modern-arts-ex-curator-laurence-kardish/1880173/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 10 (PTI) As Laurence Kardish, a former curator of the Museum of Modern Arts (MOMA), watched Satyajit Ray&#8217;s &#8216;Pather Panchali&#8217; (Song of the Little Road) around five decades ago, his life changed as he realised people are the same across the world, despite their cultural difference. Ray was not only a famed director [&#8230;]
+
+Sun, 10 Dec 2023 11:47:02 +0000
+### [Pak court grants one-day physical remand of Fawad Chaudhry to anti-corruption establishment](https://theprint.in/world/pak-court-grants-one-day-physical-remand-of-fawad-chaudhry-to-anti-corruption-establishment/1880171/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 10 (ANI): A local court in Islamabad granted a one-day physical remand of the former Pakistan federal minister Fawad Chaudhry to the Punjab Anti-Corruption Establishment (ACE) in a graft case, ARY News reported on Sunday. It reported that the former minister was presented before the judicial magistrate where the judge reserved its [&#8230;]
+
+Sun, 10 Dec 2023 11:45:27 +0000
+### [ST bus gutted in fire in Nashik, all passengers alight safely](https://theprint.in/india/st-bus-gutted-in-fire-in-nashik-all-passengers-alight-safely/1880170/)
+
+Article found but Couldn't summarize 
+Nashik, Dec 10 (PTI) A &#8216;Shivshahi&#8217; bus of the Maharashtra State Road Transport Corporation (MSRTC) was gutted in a fire on Sunday in Nashik, though no one was hurt in the incident, a police official said. The bus, on its way from Nashik to Chhatrapati Sambhajinagar (formerly Aurangabad), caught fire at 2:15pm in Takli Phata [&#8230;]
+
+Sun, 10 Dec 2023 11:45:15 +0000
+### [Gupkar parties hope of favourable verdict, BJP says everyone should respect SC’s decision; Security agencies keep vigil](https://theprint.in/india/gupkar-parties-hope-of-favourable-verdict-bjp-says-everyone-should-respect-scs-decision-security-agencies-keep-vigil/1880168/)
+
+Article found but Couldn't summarize 
+Srinagar, Dec 10 (PTI) With the Supreme Court to pronounce its verdict on Monday on the constitutional validity of the Centre&#8217;s decision to abrogate controversial Article 370, several parties in Jammu and Kashmir expressed hope that the provision will be restored, while on the ground authorities have made &#8220;adequate&#8221; security arrangements. The BJP said that [&#8230;]
+
+Sun, 10 Dec 2023 11:45:15 +0000
+### [Navalny camp sets strategy to disrupt Putin’s path to new term](https://theprint.in/world/navalny-camp-sets-strategy-to-disrupt-putins-path-to-new-term/1880167/)
+
+Article found but Couldn't summarize 
+By Mark Trevelyan LONDON (Reuters) - With his hands on all the levers of power in Russia, Vladimir Putin appears unbeatable in a presidential election but opposition activists scent a chance to show
+
+Sun, 10 Dec 2023 11:45:03 +0000
+### [Israeli tanks reach centre of Khan Younis in new storm of southern Gaza](https://theprint.in/world/israeli-tanks-reach-centre-of-khan-younis-in-new-storm-of-southern-gaza/1880165/)
+
+Article found but Couldn't summarize 
+By Bassam Masoud and Nidal al-Mughrabi GAZA/CAIRO (Reuters) -Israeli tanks battled their way to the centre of Khan Younis on Sunday in a major new push into the heart of the main city in the southern
+
+Sun, 10 Dec 2023 11:45:02 +0000
+### [Assamese people should pledge not to sell land to ‘suspected foreigners’: Himanta](https://theprint.in/india/assamese-people-should-pledge-not-to-sell-land-to-suspected-foreigners-himanta/1880164/)
+
+Article found but Couldn't summarize 
+Guwahati, Dec 10 (PTI) Assam Chief Minister Himanta Biswa Sarma on Sunday appealed to the Assamese people not to sell their land to any &#8220;suspected foreigner&#8221; in order to safeguard the culture and identity of the indigenous population. He also urged the people, especially youths, to be economically independent, emphasising the importance of financial growth [&#8230;]
+
+Sun, 10 Dec 2023 11:30:38 +0000
+### [Haryana minister complains of dizziness, admitted to hospital; doctors say condition stable](https://theprint.in/india/haryana-minister-complains-of-dizziness-admitted-to-hospital-doctors-say-condition-stable/1880158/)
+
+Article found but Couldn't summarize 
+Yamunanagar, Dec 10 (PTI) Haryana Education Minister Kanwar Pal was admitted to a private hospital here on Sunday after he complained of dizziness. Doctors said his condition is stable. The 63-year-old MLA from Jagadhri was attending the Jan Samvad programme here and he suddenly felt dizzy, sources said. He could have felt dizzy due to [&#8230;]
+
+Sun, 10 Dec 2023 11:30:22 +0000
+### [Leopard run over by goods train in Gujarat’s Surat](https://theprint.in/india/leopard-run-over-by-goods-train-in-gujarats-surat/1880157/)
+
+A leopard was killed after being hit by a goods train near Surat city in Gujarat, India. The incident was reported to the forest department, who recovered the leopard's carcass for further investigation. The Amroli area, where the incident occurred, rarely sees leopard sightings, but the big cats occasionally venture into the locality from the nearby forests. In response, trap cameras will be set up to monitor their presence in the area. It is worth noting that Gujarat has experienced an increase in its leopard population, with the latest census indicating a 63% rise from 2016, totaling 2,274 leopards in 2023.
+
+Sun, 10 Dec 2023 11:30:03 +0000
+### [Karnataka: Key accused in lawyer murder case held](https://theprint.in/india/karnataka-key-accused-in-lawyer-murder-case-held/1880156/)
+
+Article found but Couldn't summarize 
+Kalaburagi (K&#8217;taka), Dec 10 (PTI) The key accused in the lawyer murder case in the district headquarters town of Kalaburagi has been arrested, police said on Sunday. According to police, Neelakanta Patil fled the spot after hacking Eerannagouda Patil in broad daylight on December 7 near the basement of an apartment. A camera had recorded [&#8230;]
+
+Sun, 10 Dec 2023 11:17:13 +0000
+### [UNAMA reiterates its commitment to rights of women, girls in Afghanistan](https://theprint.in/world/unama-reiterates-its-commitment-to-rights-of-women-girls-in-afghanistan/1880153/)
+
+Article found but Couldn't summarize 
+Kabul [Afghanistan], December 10 (ANI): As women and girls continue to face denial of basic human rights under the Taliban in Afghanistan, the United Nations Assistance Mission in Afghanistan (UNAMA) has reiterated its commitment to the rights of women and girls in the country on the occasion of World Human Rights Day, according to Khaama [&#8230;]
+
+Sun, 10 Dec 2023 11:17:02 +0000
+### [Pakistan: Senate chairman accepts Imran Khan’s party leader Shaukat Tarin’s resignation](https://theprint.in/world/pakistan-senate-chairman-accepts-imran-khans-party-leader-shaukat-tarins-resignation/1880151/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 10 (ANI): The Pakistan senate chairman, Sadiq Sanjrani accepted the Pakistan Tehreek-e-Insaf (PTI) leader and former finance minister Shaukat Tarin&#8217;s resignation from the upper house of the parliament, Dawn News reported on Sunday. The PTI leader announced to quit the party and politics for good, citing financial and health reasons. He said [&#8230;]
+
 Sun, 10 Dec 2023 11:02:12 +0000
 ### [“When the son insists…”: Genelia shares adorable video of Riteish, son](https://theprint.in/feature/when-the-son-insists-genelia-shares-adorable-video-of-riteish-son/1880135/)
 
