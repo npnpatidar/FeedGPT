@@ -1,3 +1,13 @@
+Sun, 10 Dec 2023 14:02:18 +0000
+### [Who is a J&K resident? This is how successive govts defined inhabitants of erstwhile state](https://indianexpress.com/article/explained/explained-politics/who-is-a-jk-resident-how-govts-defined-9062464/)
+
+Article found but Couldn't summarize
+
+Sun, 10 Dec 2023 13:43:13 +0000
+### [Article 370 verdict tomorrow: What other decisions by the Centre it will impact](https://indianexpress.com/article/explained/explained-politics/article-370-verdict-what-other-decisions-it-will-impact-9062447/)
+
+Article found but Couldn't summarize
+
 Sun, 10 Dec 2023 10:58:17 +0000
 ### [Global Renewables And Energy Efficiency Pledge at COP28: what is the tripling renewable energy target?](https://indianexpress.com/article/explained/explained-climate/cop28-tripling-renewable-energy-target-9062282/)
 

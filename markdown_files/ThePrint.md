@@ -1,3 +1,120 @@
+Sun, 10 Dec 2023 14:02:13 +0000
+### [Oman Sultan to visit India for State visit on Dec 16, to hold bilateral discussions with PM Modi](https://theprint.in/world/oman-sultan-to-visit-india-for-state-visit-on-dec-16-to-hold-bilateral-discussions-with-pm-modi/1880286/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 10 (ANI): The Head of State of the Sultanate of Oman, Sultan Haitham bin Tarik will come to India for a state visit on December 16 along with a high-level delegation of senior ministers and officials, Ministry of External Affairs (MEA) said in a statement on Sunday. As per the official [&#8230;]
+
+Sun, 10 Dec 2023 14:02:02 +0000
+### [Indonesia: Thousands gather to hold pro-Palestine rally in Medan amid Israel-Hamas war](https://theprint.in/world/indonesia-thousands-gather-to-hold-pro-palestine-rally-in-medan-amid-israel-hamas-war/1880284/)
+
+Article found but Couldn't summarize 
+Jakarta [Indonesia], December 10 (ANI): As the Israel-Hamas war entered day 65, the protests across the world both for Israel and Palestine refused to die down. Over 1000 Indonesians held a pro-Palestine rally in Medan, in the hope that a ceasefire would happen soon. According to Al Jazeera, the pro-Palestine rally in Medan took place [&#8230;]
+
+Sun, 10 Dec 2023 14:01:05 +0000
+### [Recovery of cash: HP BJP attacks Cong, says party yet to take action against its MP](https://theprint.in/india/recovery-of-cash-hp-bjp-attacks-cong-says-party-yet-to-take-action-against-its-mp/1880283/)
+
+Article found but Couldn't summarize 
+Shimla, Dec 10 (PTI) The Himachal Pradesh BJP on Sunday attacked the Congress over the recovery of more than Rs 300 crore cash in raids on a distillery company linked to its Rajya Sabha MP Dhiraj Prasad Sahu, saying the party is it yet to take any action against its leader. The Congress on Saturday, [&#8230;]
+
+Sun, 10 Dec 2023 14:00:56 +0000
+### [As number of devotees to Sabarimala increases, TDB raises darshan time by an hour](https://theprint.in/india/as-number-of-devotees-to-sabarimala-increases-tdb-raises-darshan-time-by-an-hour/1880282/)
+
+Article found but Couldn't summarize 
+Pathanamthitta (Kerala), Dec 10 (PTI) The Travancore Devaswom Board (TDB) on Sunday decided to increase the &#8216;darshan&#8217; timings at the Lord Ayyappa shrine in Sabarimala here by an hour following an increase in the number of devotees arriving for pilgrimage there. The Board decided to modify the darshan timings in the second half of the [&#8230;]
+
+Sun, 10 Dec 2023 14:00:46 +0000
+### [Oman’s Sultan Haitham bin Tarik to visit India this week](https://theprint.in/india/omans-sultan-haitham-bin-tarik-to-visit-india-this-week/1880281/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 10 (PTI) Oman&#8217;s Sultan Haitham bin Tarik will pay a state visit to India on December 16 in his first trip to the country to explore avenues for future collaborations for regional stability and prosperity. It will also be the first visit of a top leader from the Gulf region following the [&#8230;]
+
+Sun, 10 Dec 2023 14:00:34 +0000
+### [I-T raids: Jharkhand BJP stages protests demanding arrest of Congress MP](https://theprint.in/india/i-t-raids-jharkhand-bjp-stages-protests-demanding-arrest-of-congress-mp/1880280/)
+
+Article found but Couldn't summarize 
+Ranchi, Dec 10 (PTI) Activists of the BJP on Sunday staged protests at district headquarters across Jharkhand demanding the arrest of Congress MP Dheeraj Sahu over the seizure of a huge amount of cash allegedly linked to the lawmaker. More than Rs 300 crore in cash has been seized during ongoing raids conducted by the [&#8230;]
+
+Sun, 10 Dec 2023 14:00:21 +0000
+### [Cricket-Rain delays start of first T20 between South Africa and India](https://theprint.in/sport/cricket-rain-delays-start-of-first-t20-between-south-africa-and-india/1880279/)
+
+The first Twenty20 International match between South Africa and India has been delayed due to rain in Durban. The toss has been postponed indefinitely, and more wet weather is predicted throughout the day. This match marks the beginning of India's tour to South Africa, with additional T20 matches scheduled in Gqeberha and Johannesburg. The teams will later switch to three One Day Internationals from December 17 to 21 and then proceed to play test matches starting on December 26 in Pretoria and January 3 in Cape Town.
+
+Sun, 10 Dec 2023 14:00:17 +0000
+### [U-19 Asia Cup: Azan Awais scores ton as Pakistan beat India by 8 wickets](https://theprint.in/sport/u-19-asia-cup-azan-awais-scores-ton-as-pakistan-beat-india-by-8-wickets/1880278/)
+
+Article found but Couldn't summarize 
+Dubai, Dec 10 (PTI) Pakistan rode on Azan Awais&#8217;s classy unbeaten century to beat arch-rivals India by eight wickets in the ongoing U-19 Asia Cup here on Sunday. India managed a mediocre 259 for 9 in 50 overs, largely due to late surge by Sachin Dhas, who tonked three sixes in his 42-ball-58. Skipper Uday [&#8230;]
+
+Sun, 10 Dec 2023 14:00:04 +0000
+### [Swedish EU employee faces charges in Iran of spying for Israel – ISNA](https://theprint.in/world/swedish-eu-employee-faces-charges-in-iran-of-spying-for-israel-isna/1880277/)
+
+Johan Floderus, a Swedish national employed by the European Union, is facing charges in Iran for allegedly spying for Israel and being involved in 'corruption on earth'. These charges are considered capital offenses under Iran's Islamic laws. Floderus was detained in April 2022 while on vacation in Iran, and his trial has recently begun. His family has claimed that he was detained without any valid reason or proper legal process. Human rights groups and Western governments have criticized Iran for using arrests on security charges to extract political concessions, while Tehran maintains that such arrests are made in accordance with its criminal code and denies any political motives. Tensions between Sweden and Iran have been high since Sweden arrested a former Iranian official in 2019 for his role in the mass execution and torture of political prisoners during the 1980s.
+
+Sun, 10 Dec 2023 14:00:02 +0000
+### [Bengal: TMC leaders attend chanting of Bhagavad Gita](https://theprint.in/india/bengal-tmc-leaders-attend-chanting-of-bhagavad-gita/1880275/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 10 (PTI) Two senior Trinamool Congress leaders including MP Kalyan Banerjee on Sunday attended a programme where the Bhagavad Gita was chanted. The function was held at Mahesh in Hooghly district, where the state&#8217;s oldest Rath Yatra is organised, just two weeks ahead of a programme in Kolkata on December 24 in which [&#8230;]
+
+Sun, 10 Dec 2023 13:47:31 +0000
+### [Our organs age at different rates, faster ageing means 20-50% higher mortality risk, shows study](https://theprint.in/scientifix/our-organs-age-at-different-rates-faster-ageing-means-20-50-higher-mortality-risk-shows-study/1880210/)
+
+Article found but Couldn't summarize 
+ScientiFix, our weekly feature, offers you a summary of the top global science stories of the week, with links to their sources.
+
+Sun, 10 Dec 2023 13:47:02 +0000
+### [Pakistan: One police officer killed, two more injured after blast in Khuzdar](https://theprint.in/world/pakistan-one-police-officer-killed-two-more-injured-after-blast-in-khuzdar/1880268/)
+
+Article found but Couldn't summarize 
+Balochistan [Pakistan], December 10 (ANI): A police official was killed and two more were injured after a magnetic improvised explosive device (IED) explosion in Khuzdar district in Balochistan province in Pakistan, Geo News reported on Sunday. The police said that Counter Terrorism Department&#8217;s (CTD) Station House Officer Mohammad Murad was killed in the blast after [&#8230;]
+
+Sun, 10 Dec 2023 13:45:48 +0000
+### [Soccer-Haaland blow for Man City as he misses Luton clash with injury](https://theprint.in/sport/soccer-haaland-blow-for-man-city-as-he-misses-luton-clash-with-injury/1880266/)
+
+Manchester City striker Erling Haaland was unable to play in their Premier League match against Luton Town due to a "stress reaction" in his foot, according to manager Pep Guardiola. This injury could have a significant impact on City's title defense as they have not won in their last four league games. Haaland has been dealing with a foot injury and had to withdraw from the Norway squad for the recent international break. The severity of the injury is still uncertain, and Guardiola stated that they will monitor Haaland's condition week by week. The 23-year-old forward has scored 14 league goals this season and set a record for goals in his debut campaign last year.
+
+Sun, 10 Dec 2023 13:45:31 +0000
+### [Army’s half-marathon ‘Honour Run’ held to commemorate Kargil War victory](https://theprint.in/india/armys-half-marathon-honour-run-held-to-commemorate-kargil-war-victory/1880264/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 10 (PTI) A half-marathon to commemorate India&#8217;s victory in the 1999 Kargil war was held in Delhi on Sunday, officials said. The event was flagged off by Army Chief Gen Manoj Pande at Jawahar Lal Nehru Stadium in the presence of several military and civil dignitaries. &#8220;In commemoration of the historic military [&#8230;]
+
+Sun, 10 Dec 2023 13:45:28 +0000
+### [Gaza ‘catastrophic’ health situation almost impossible to improve- WHO](https://theprint.in/world/gaza-catastrophic-health-situation-almost-impossible-to-improve-who/1880263/)
+
+Article found but Couldn't summarize 
+By Emma Farge GENEVA (Reuters) -The World Health Organization chief said on Sunday it will be all but impossible to improve the "catastrophic" health situation in Gaza even if an emergency WHO motion
+
+Sun, 10 Dec 2023 13:45:16 +0000
+### [Swede faces charges in Iran of spying for Israel – ISNA](https://theprint.in/world/swede-faces-charges-in-iran-of-spying-for-israel-isna/1880262/)
+
+Article found but Couldn't summarize 
+DUBAI (Reuters) - A Swedish national employed by the European Union faces charges in Iran of spying for Israel and ‘corruption on earth’, which can carry the death penalty, Iranian news agency ISNA
+
+Sun, 10 Dec 2023 13:45:15 +0000
+### [BJP MP holds ‘Ram Katha’ at Kaushambi Jail](https://theprint.in/india/bjp-mp-holds-ram-katha-at-kaushambi-jail/1880261/)
+
+Article found but Couldn't summarize 
+Kaushambi (UP), Dec 10 (PTI) A three-day Ram Katha programme was started here at the Kaushambi district jail at the initiative of a BJP lawmaker. BJP Lok Sabha MP Vinod Sonkar said that the inmates too have a right to life and the three-day Ram Katha programme has been organised to kindle the &#8220;religious&#8221; tendencies [&#8230;]
+
+Sun, 10 Dec 2023 13:45:07 +0000
+### [Hadiya isn’t missing as her father claims. She’s just moved and wants to be left alone](https://theprint.in/ground-reports/hadiya-isnt-missing-as-her-father-claims-shes-just-moved-and-wants-to-be-left-alone/1880217/)
+
+Article found but Couldn't summarize 
+Hadiya’s just moved to Thiruvananthapuram with her husband. She says her father’s actions are influenced by politics.
+
+Sun, 10 Dec 2023 13:45:04 +0000
+### [Nigeria’s Tinubu urges re-engagement with regional juntas to promote democracy](https://theprint.in/world/nigerias-tinubu-urges-re-engagement-with-regional-juntas-to-promote-democracy/1880259/)
+
+Article found but Couldn't summarize 
+By Felix Onuah ABUJA (Reuters) - Nigerian President Bola Tinubu said on Sunday the West African bloc ECOWAS should try to re-engage with regional countries under military rule and support them to
+
+Sun, 10 Dec 2023 13:45:02 +0000
+### [INDIA bloc to meet on Dec 19 in Delhi, to work on ‘Main Nahin, Hum’ motto to take on Modi](https://theprint.in/india/india-bloc-to-meet-on-dec-19-in-delhi-to-work-on-main-nahin-hum-motto-to-take-on-modi/1880258/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 10 (PTI) Evolving a &#8220;core positive agenda&#8221;, seat sharing and a programme to hold joint rallies are among the main challenges before the opposition INDIA bloc that will be taken up at its next meeting in the national capital on December 19. &#8220;The 4th meeting of the leaders of INDIA parties will [&#8230;]
+
 Sun, 10 Dec 2023 13:17:01 +0000
 ### [25 Indian fishermen from Tamil Nadu, Puducherry detained by Sri Lankan Navy](https://theprint.in/world/25-indian-fishermen-from-tamil-nadu-puducherry-detained-by-sri-lankan-navy/1880244/)
 

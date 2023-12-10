@@ -1,3 +1,9 @@
+2023-12-10T19:30:54+05:30
+### [Chhattisgarh: BJP Ends Week-Long Suspense, Names Vishnu Deo Sai as Next Chief Minister](https://thewire.in/politics/chhattisgarh-bjp-ends-week-long-suspense-names-vishnu-deo-sai-as-next-chief-minister)
+
+No Article text 
+With Sai's appointment, the BJP seems to be setting the narrative for a new batch of leaders for Chhattisgarh
+
 2023-12-10T18:30:31+05:30
 ### [Article 370: Understanding the History, Legal Contexts, and Why It Matters](https://thewire.in/history/article-370-understanding-the-history-legal-contexts-and-why-it-matters)
 
