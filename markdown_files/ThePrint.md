@@ -1,3 +1,50 @@
+Sun, 10 Dec 2023 22:02:02 +0000
+### [Tibetans celebrate 34th anniversary of conferment of Nobel Peace Prize on Dalai Lama](https://theprint.in/world/tibetans-celebrate-34th-anniversary-of-conferment-of-nobel-peace-prize-on-dalai-lama/1880646/)
+
+Article found but Couldn't summarize 
+Dharamshala (Himachal Pradesh) [India], December 11 (ANI): The Central Tibetan Administration (CTA) of the Tibetan government in exile held an official ceremony on Sunday to celebrate the 34th anniversary of the conferment of the Nobel Peace Prize on the Dalai Lama. Hundreds of Tibetans gathered at the main Buddhist temple, Tsughlakhang, in Dharamshala to celebrate [&#8230;]
+
+Sun, 10 Dec 2023 21:45:29 +0000
+### [Syria shoots down Israeli missiles fired near Damascus](https://theprint.in/world/syria-shoots-down-israeli-missiles-fired-near-damascus/1880645/)
+
+Article found but Couldn't summarize 
+(Reuters) - Syria's army said its air defence shot down Israeli missiles fired at the surroundings of the capital Damascus from the Israeli-occupied Golan Heights on Sunday evening. Others missiles
+
+Sun, 10 Dec 2023 21:45:20 +0000
+### [What to watch at COP28 on Monday](https://theprint.in/world/what-to-watch-at-cop28-on-monday-2/1880643/)
+
+The almost 200 nations at the U.N. climate summit, led by COP28 President Sultan al-Jaber, are grappling with the issue of whether to call for a reduction in the world's use of oil and gas. A new draft text of the hoped-for final deal is expected to be released by the COP28 presidency. The negotiations intensify as countries advocating for a phase-out of fossil fuels clash with those who see them as crucial for their economies. Some countries argue that the focus should be on reducing climate pollution rather than specifically targeting fossil fuels. Time is running out, as the summit is scheduled to end on Tuesday, and discussions are likely to continue late into Monday night. If fossil fuels are mentioned in the final deal, it would be the first time they are directly addressed in 30 years of U.N. climate talks, which the summit host, the United Arab Emirates, would consider a success. However, opponents such as OPEC members Saudi Arabia and Iraq find it challenging to support such a move domestically.
+
+Sun, 10 Dec 2023 21:45:10 +0000
+### [Zelenskiy talks briefly to Hungary’s Orban in Argentina](https://theprint.in/world/zelenskiy-talks-briefly-to-hungarys-orban-in-argentina/1880641/)
+
+Article found but Couldn't summarize 
+BUENOS AIRES/BUDAPEST (Reuters) -Ukrainian President Volodymyr Zelenskiy and Hungarian Prime Minister Viktor Orban spoke briefly while attending the inauguration of Argentine President Javier Milei on
+
+Sun, 10 Dec 2023 21:45:03 +0000
+### [UN General Assembly likely to vote Tuesday on Gaza ceasefire demand – diplomats](https://theprint.in/world/un-general-assembly-likely-to-vote-tuesday-on-gaza-ceasefire-demand-diplomats/1880640/)
+
+Article found but Couldn't summarize 
+(Reuters) - The 193-member United Nations General Assembly is likely to vote Tuesday on a draft resolution demanding an immediate humanitarian ceasefire in the conflict between Israel and Palestinian
+
+Sun, 10 Dec 2023 21:15:29 +0000
+### [Soccer-Saudis face Lebanon, Palestine and Hong Kong friendlies before Asian Cup](https://theprint.in/sport/soccer-saudis-face-lebanon-palestine-and-hong-kong-friendlies-before-asian-cup/1880631/)
+
+Article found but Couldn't summarize 
+(Reuters) - - Saudi Arabia will play friendlies against Lebanon, Palestine and Hong Kong before the Asian cup, which starts in Qatar next month, the Saudi soccer football federation said on Sunday.
+
+Sun, 10 Dec 2023 21:15:23 +0000
+### [Soccer-Granada match against Bilbao to resume on Monday after supporter dies](https://theprint.in/sport/soccer-granada-match-against-bilbao-to-resume-on-monday-after-supporter-dies/1880630/)
+
+Article found but Couldn't summarize 
+(Reuters) - The LaLiga game between Granada and Athletic Bilbao will resume on Monday after the fixture was abandoned on Sunday following a supporter's death in the stands, the league said. The game
+
+Sun, 10 Dec 2023 21:15:04 +0000
+### [Analysis-New Zealand’s swing right on Maori issues reveals new fault lines](https://theprint.in/world/analysis-new-zealands-swing-right-on-maori-issues-reveals-new-fault-lines/1880628/)
+
+Article found but Couldn't summarize 
+By Lucy Craymer WELLINGTON (Reuters) - Plans by New Zealand's conservative government to roll back Maori rights reforms have revived race as a hot political issue in the Pacific nation, which was
+
 Sun, 10 Dec 2023 21:02:01 +0000
 ### [Israeli artillery operating for first time within Gaza](https://theprint.in/world/israeli-artillery-operating-for-first-time-within-gaza/1880622/)
 
