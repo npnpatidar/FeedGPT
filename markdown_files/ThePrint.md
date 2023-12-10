@@ -1,3 +1,37 @@
+Sun, 10 Dec 2023 22:45:29 +0000
+### [Soccer-Girona stun Barca 4-2 away to restore LaLiga lead](https://theprint.in/sport/soccer-girona-stun-barca-4-2-away-to-restore-laliga-lead/1880660/)
+
+Article found but Couldn't summarize 
+BARCELONA (Reuters) -High-flying Girona reclaimed top spot in LaLiga after beating champions Barcelona 4-2 away on Sunday, condemning Xavi Hernandez's side to their second league defeat of the season.
+
+Sun, 10 Dec 2023 22:45:13 +0000
+### [Australia plans to halve migrant intake, tighten student visa rules](https://theprint.in/world/australia-plans-to-halve-migrant-intake-tighten-student-visa-rules/1880658/)
+
+As GPT-3.5, I can provide a summary of the article you shared. Australia has announced plans to tighten visa rules for international students and low-skilled workers in an effort to overhaul its migration system, which the government considers to be "broken." This move is expected to reduce Australia's migrant intake by half over the next two years. The decision comes after net immigration was projected to reach a record high in 2022-23 but is now forecasted to decline to pre-COVID levels. The increase in net overseas migration in recent years has been largely driven by international students. The government's targeted reforms aim to put downward pressure on net overseas migration. The new policies include higher English test requirements for international students and the elimination of settings that allowed students to extend their stay in Australia. Additionally, a new specialist visa for highly skilled workers will be introduced with a shorter processing time of one week. These measures are intended to ensure a more sustainable level of migration for Australia.
+
+Sun, 10 Dec 2023 22:45:03 +0000
+### [Former President Donald Trump says he will not testify in New York fraud trial](https://theprint.in/world/former-president-donald-trump-says-he-will-not-testify-in-new-york-fraud-trial/1880656/)
+
+Article found but Couldn't summarize 
+WASHINGTON (Reuters) - Former President Donald Trump said Sunday that he would not testify in a New York courtroom this week, where he had been expected to appear for a second time to make the case
+
+Sun, 10 Dec 2023 22:17:02 +0000
+### [US President Joe Biden invites Ukrainian counterpart Volodymyr Zelenskyy to White House](https://theprint.in/world/us-president-joe-biden-invites-ukrainian-counterpart-volodymyr-zelenskyy-to-white-house/1880651/)
+
+Article found but Couldn't summarize 
+Washington DC [US], December 11 (ANI): US President Joe Biden has invited his Ukrainian counterpart Volodymyr Zelenskyy to the White House on Tuesday. During the meeting, the two leaders will discuss Ukraine&#8217;s energy needs and the importance of the US&#8217; continued support for Kyiv. According to a statement released by White House Press Secretary Karine [&#8230;]
+
+Sun, 10 Dec 2023 22:15:23 +0000
+### [Soccer-Roma salvage draw against Fiorentina despite double red card setback](https://theprint.in/sport/soccer-roma-salvage-draw-against-fiorentina-despite-double-red-card-setback/1880650/)
+
+Article found but Couldn't summarize 
+(Reuters) - AS Roma managed to secure a 1-1 draw at home against Fiorentina in Serie A on Sunday despite playing much of the second half with a reduced squad after first Nicola Zalewski and then
+
+Sun, 10 Dec 2023 22:15:13 +0000
+### [Soccer-Girona stun Barca 4-2 to restore LaLiga lead](https://theprint.in/sport/soccer-girona-stun-barca-4-2-to-restore-laliga-lead/1880648/)
+
+Girona defeated Barcelona 4-2 in a thrilling LaLiga match, reclaiming the top spot in the league standings. Artem Dovbyk scored the opening goal for Girona, which was quickly equalized by Robert Lewandowski for Barcelona. Miguel Gutierrez and Valery Fernandez added two more goals for Girona, while Ilkay Gundogan pulled one back for Barcelona. Cristhian Stuani sealed the victory for Girona with a stoppage-time goal. Girona now leads the league with 41 points, surpassing Real Madrid, who drew their previous match. Barcelona sits fourth in the standings with 34 points, tied with third-placed Atletico Madrid.
+
 Sun, 10 Dec 2023 22:02:02 +0000
 ### [Tibetans celebrate 34th anniversary of conferment of Nobel Peace Prize on Dalai Lama](https://theprint.in/world/tibetans-celebrate-34th-anniversary-of-conferment-of-nobel-peace-prize-on-dalai-lama/1880646/)
 
