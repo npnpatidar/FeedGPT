@@ -1,3 +1,15 @@
+2023-12-10T15:30:12+05:30
+### [A Tussle Between Two Political Streams](https://thewire.in/politics/a-tussle-between-two-political-streams)
+
+No Article text 
+The new North versus South debate is alarming because it signals a democratic environment increasingly under the threat of a xenophobic intolerance of our smaller cultural republics.
+
+2023-12-10T15:04:12+05:30
+### [Mizoram: BJP Falters in Power Bid Amid Hindutva Concerns; ZPM Emerges as a Force in Northeast Politics](https://thewire.in/politics/mizoram-bjp-falters-in-power-bid-amid-hindutva-concerns-zpm-emerges-as-a-force-in-northeast-politics)
+
+No Article text 
+With the Lalduhoma government taking over the state’s administration, Mizoram has remained the only state where the ruling party under Narendra Modi is not part of a northeastern state government.
+
 2023-12-10T11:53:03+05:30
 ### [(At Least) Three Critical Flaws in the Ethics Committee Report on Mahua Moitra](https://thewire.in/politics/at-least-three-critical-flaws-in-the-ethics-committee-report-on-mahua-moitra)
 

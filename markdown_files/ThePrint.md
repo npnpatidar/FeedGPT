@@ -1,3 +1,120 @@
+Sun, 10 Dec 2023 10:15:35 +0000
+### [Sanjay Raut cautions Congress over 2024 Lok Sabha polls](https://theprint.in/india/sanjay-raut-cautions-congress-over-2024-lok-sabha-polls/1880108/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 10 (PTI) The Congress would face more difficulties in the 2024 Lok Sabha polls if there are people around the Gandhi family who do politics that is favourable for Prime Minister Narendra Modi, Shiv Sena (UBT) leader Sanjay Raut said on Sunday. In his weekly column Rokhthok in the party mouthpiece &#8216;Saamana&#8217;, Raut [&#8230;]
+
+Sun, 10 Dec 2023 10:15:24 +0000
+### [Girl dies of electrocution in TN](https://theprint.in/india/girl-dies-of-electrocution-in-tn/1880106/)
+
+Article found but Couldn't summarize 
+Erode (TN), Dec 10 (PTI) A 13-year-old girl died of electrocution while cleaning a fan inside her house near here, police said on Sunday. According to police, Oviya, daughter of Senthilkumar and a resident of Surampatti suburb, on Saturday accidentally came into contact with a live wire in the regulator of the fan when she [&#8230;]
+
+Sun, 10 Dec 2023 10:15:16 +0000
+### [Conspiracy theorist Alex Jones account reinstated on X after poll](https://theprint.in/tech/conspiracy-theorist-alex-jones-account-reinstated-on-x-after-poll/1880105/)
+
+Article found but Couldn't summarize 
+(Reuters) -Social media platform X on Sunday showed the account of U.S. conspiracy theorist Alex Jones to have been reinstated after a poll of the site's users backed his return. "The people have
+
+Sun, 10 Dec 2023 10:15:14 +0000
+### [Imran Khan’s party accuses election Commission of dil­ly-dallying tactics in allocating ‘bat’ symbol](https://theprint.in/world/imran-khans-party-accuses-election-commission-of-dilly-dallying-tactics-in-allocating-bat-symbol/1880104/)
+
+Article found but Couldn't summarize 
+Islamabad, Dec 10 (PTI) Jailed former Pakistan prime minister Imran Khan&#8217;s party accused the election commission of “dil­ly-dallying tactics” in granting it permission to retain the cricket bat as its election symbol, describing the poll body&#8217;s move as pre-poll rigging. The Pakistan Tehreek-e-Insaf (PTI) also has called for immediate action from the Election Commission of [&#8230;]
+
+Sun, 10 Dec 2023 10:15:04 +0000
+### [Two Iranians questioned over suspected plots to attack Israelis in Cyprus -newspaper](https://theprint.in/world/two-iranians-questioned-over-suspected-plots-to-attack-israelis-in-cyprus-newspaper/1880103/)
+
+Article found but Couldn't summarize 
+NICOSIA (Reuters) - Two Iranians have been detained in Cyprus for questioning over suspected planning of attacks on Israeli citizens living in Cyprus, a Cypriot newspaper reported on Sunday. The two
+
+Sun, 10 Dec 2023 10:15:03 +0000
+### [Peaceful struggle for restoration of rights of J&K people will continue: NC leader Omar Abdullah](https://theprint.in/india/peaceful-struggle-for-restoration-of-rights-of-jk-people-will-continue-nc-leader-omar-abdullah/1880102/)
+
+Article found but Couldn't summarize 
+Srinagar, Dec 10 (PTI) National Conference (NC) leader Omar Abdullah said on Sunday that his party will not disturb the peace in Jammu and Kashmir even in case of an adverse Supreme Court verdict on petitions challenging the abrogation of the provisions of Article 370 of the Constitution. The former Jammu and Kashmir chief minister [&#8230;]
+
+Sun, 10 Dec 2023 10:00:28 +0000
+### [Shopkeeper in Rajasthan gets threat letter from PFI](https://theprint.in/india/shopkeeper-in-rajasthan-gets-threat-letter-from-pfi/1880098/)
+
+Article found but Couldn't summarize 
+Jaipur, Dec 10 (PTI) A shopkeeper in Rajasthan’s Alwar district has received a threat letter in the name of banned organisation Popular Front of India (PFI), police said on Sunday. Alwar sadar SHO Dinesh Meena said a shopkeeper in Chikani village on Tijara Road received a letter by post sometime back. In the letter, the [&#8230;]
+
+Sun, 10 Dec 2023 10:00:21 +0000
+### [Soccer-Bayern’s Gnabry sidelined by tendon injury](https://theprint.in/sport/soccer-bayerns-gnabry-sidelined-by-tendon-injury/1880097/)
+
+Article found but Couldn't summarize 
+(Reuters) - Bayern Munich attacker Serge Gnabry's season has been derailed by yet another injury setback, with the Bundesliga champions saying on Sunday that he picked up a tendon injury in a 5-1 loss
+
+Sun, 10 Dec 2023 10:00:15 +0000
+### [Union Minister Scindia lays foundation for Rs 350 cr new terminal at Rajamundry Airport](https://theprint.in/india/union-minister-scindia-lays-foundation-for-rs-350-cr-new-terminal-at-rajamundry-airport/1880096/)
+
+The Union Civil Aviation Minister, Jyotiraditya Scindia, laid the foundation for a new terminal building at Rajamundry Airport in Andhra Pradesh. The new terminal, costing Rs 350 crore, will cover an area of 17,029 sq metres and can accommodate 2,100 passengers during peak hours, with an annual capacity of 30 lakh passengers. The expansion of the airport aims to protect and promote Andhra Pradesh's cultural heritage and traditions. The new terminal will be four times larger than the existing one and will feature environmentally friendly elements such as insulated roofing, LED lighting, and a rainwater harvesting system. It will also include 28 check-in counters and four conveyor belts.
+
+Sun, 10 Dec 2023 10:00:04 +0000
+### [Iran and Saudi Arabia to negotiate on direct scheduled flights – ILNA](https://theprint.in/world/iran-and-saudi-arabia-to-negotiate-on-direct-scheduled-flights-ilna/1880095/)
+
+Article found but Couldn't summarize 
+DUBAI (Reuters) - Iran and Saudi Arabia will start formal talks next week to resume direct‮ ‬scheduled flights between Tehran and Riyadh and other cities, an Iranian official told the state-affiliated
+
+Sun, 10 Dec 2023 10:00:03 +0000
+### [Dipankar Bhattacharya condemns Mahua Moitra’s expulsion](https://theprint.in/india/dipankar-bhattacharya-condemns-mahua-moitras-expulsion/1880094/)
+
+Article found but Couldn't summarize 
+Patna, Dec 10 (PTI) Strongly condemning expulsion of TMC leader Mahua Moitra from the Lok Sabha, CPI(ML) Liberation general secretary Dipankar Bhattacharya on Sunday demanded &#8220;immediate restoration&#8221; of her membership. In a statement issued here, Bhattacharya alleged that the action against Moitra was a &#8220;brazen attempt to silence the opposition&#8221; by the Narendra Modi government [&#8230;]
+
+Sun, 10 Dec 2023 09:45:03 +0000
+### [US should also be held responsible for Israeli attacks on Gaza -Palestinian PM](https://theprint.in/world/us-should-also-be-held-responsible-for-israeli-attacks-on-gaza-palestinian-pm/1880089/)
+
+Article found but Couldn't summarize 
+DOHA (Reuters) - Palestinian Prime Minister Mohammad Shtayyeh said on Sunday the United States should also be held responsible for Israeli attacks on Gaza and the loss of Palestinian lives. Shtayyeh
+
+Sun, 10 Dec 2023 09:45:02 +0000
+### [Senior advocate’s letter to CJI: BCI chairman says attempt to create ‘undue influence’](https://theprint.in/india/senior-advocates-letter-to-cji-bci-chairman-says-attempt-to-create-undue-influence/1880088/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 10 (PTI) Bar Council of India (BCI) Chairman Manan Kumar Mishra has written to Chief Justice of India D Y Chandrachud voicing concerns about a recent open letter from a senior lawyer to the CJI over the listing of sensitive cases pending before the Supreme Court and said this was an attempt [&#8230;]
+
+Sun, 10 Dec 2023 09:32:01 +0000
+### [Diet has significant impact on risk of Alzheimer’s disease: Research](https://theprint.in/feature/diet-has-significant-impact-on-risk-of-alzheimers-disease-research/1880084/)
+
+Hmm, based on the provided text, I can tell you that the study mentioned in the article focuses on identifying diets that are effective in lowering the risk of developing Alzheimer's disease. It highlights that plant-based diets like the Mediterranean diet and traditional Chinese, Japanese, and Indian cuisines have shown to reduce the risk compared to the Western diet. The study also mentions that certain foods, such as saturated fats, red meat, processed meats, and ultra-processed foods high in sugar and refined grains, can increase the risk of Alzheimer's disease. On the other hand, foods like green leafy vegetables, colorful fruits and vegetables, legumes, nuts, omega-3 fatty acids, and whole grains are considered protective against Alzheimer's disease. Additionally, the study suggests that poverty and the consumption of meat and ultra-processed foods contribute to the rising trend of obesity, which is believed to be a driving force behind dementia.
+
+Sun, 10 Dec 2023 09:30:27 +0000
+### [Bengal could have added more people under welfare schemes if Centre cleared state’s dues: Mamata](https://theprint.in/india/bengal-could-have-added-more-people-under-welfare-schemes-if-centre-cleared-states-dues-mamata/1880083/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 10 (PTI) West Bengal Chief Minister Mamata Banerjee on Sunday claimed that her government could have included more people under its social welfare schemes if the Centre had cleared the state&#8217;s dues. Banerjee, while addressing a public meeting in Alipurduar, said her government stands by all sections of the society, including tea garden [&#8230;]
+
+Sun, 10 Dec 2023 09:30:15 +0000
+### [Telangana CM Revanth Reddy calls on KCR at hospital](https://theprint.in/india/telangana-cm-revanth-reddy-calls-on-kcr-at-hospital/1880082/)
+
+Article found but Couldn't summarize 
+Hyderabad, Dec 10 (PTI) Telangana Chief Minister Revanth Reddy on Sunday called on BRS supremo K Chandrasekhar Rao who is recovering at a private hospital here after undergoing hip replacement surgery. Speaking to reporters, Reddy said he had instructed the chief secretary and officials concerned to extend necessary help and cooperation for KCR&#8217;s treatment. &#8220;I [&#8230;]
+
+Sun, 10 Dec 2023 09:30:03 +0000
+### [French warship shoots down two drones coming from Yemen](https://theprint.in/world/french-warship-shoots-down-two-drones-coming-from-yemen/1880081/)
+
+A French warship, the Languedoc, operating in the Red Sea, successfully shot down two drones that were launched at it from the Yemen coast. The first drone was intercepted and destroyed at around 9:30 p.m. local French time on Saturday, while the second one was destroyed at 110 km (68.35 miles) from the Yemen coast around Al Hudaydah at approximately 11:30 p.m. The Yemeni Houthi movement had previously announced that they would target all ships heading to Israel, regardless of their nationality, and warned international shipping companies against dealing with Israeli ports. The Houthis, who are aligned with Iran, have attacked and seized several Israeli-linked ships in the Red Sea and the Bab al-Mandab strait, a major oil shipping route.
+
+Sun, 10 Dec 2023 09:30:02 +0000
+### [Chhattisgarh BJP govt may have deputy CM, says Raman Singh](https://theprint.in/india/chhattisgarh-bjp-govt-may-have-deputy-cm-says-raman-singh/1880080/)
+
+Article found but Couldn't summarize 
+Raipur, Dec 10 (PTI) The Bharatiya Janata Party government in Chhattisgarh may have a deputy chief minister, senior leader Raman Singh said on Sunday ahead of a meeting of the newly-elected MLAs in the state. The BJP won 54 seats in the 90-member Assembly in the recently held polls, unseating the Bhupesh Baghel-led Congress government. [&#8230;]
+
+Sun, 10 Dec 2023 09:23:04 +0000
+### [Godara’s ‘supari’ deal: 50k advance, guns & escape plan for Karni Sena faction chief’s killers](https://theprint.in/india/godaras-supari-deal-50k-advance-guns-escape-plan-for-karni-sena-faction-chiefs-killers/1879943/)
+
+Article found but Couldn't summarize 
+Nitin 'fauji' &#38; Rohit Rathore, who shot Rashtriya Rajput Karni Sena chief, were assured of passports, travel &#38; accomodation, it is learnt. Both were arrested from Chandigarh.
+
+Sun, 10 Dec 2023 09:18:00 +0000
+### [Do you know presence of healthy cells enables cancer to resist treatment? Study finds](https://theprint.in/science/do-you-know-presence-of-healthy-cells-enables-cancer-to-resist-treatment-study-finds/1880075/)
+
+Article found but Couldn't summarize 
+Washington DC [US], December 10 (ANI): Chemotherapy becomes less effective as healthy cells encourage cancer cells to grow more slowly, according to two studies from UCL and Yale. Researchers used mini-tumours&#8217; and the newest single-cell analysis technology to begin to unravel the conundrum of why healthy cells in a patient&#8217;s colon cancer tumour may contribute [&#8230;]
+
 Sun, 10 Dec 2023 09:15:16 +0000
 ### [Priyanka Gandhi reaches HP, to attend Congress govt’s first anniversary celebrations on December 11](https://theprint.in/india/priyanka-gandhi-reaches-hp-to-attend-congress-govts-first-anniversary-celebrations-on-december-11/1880054/)
 

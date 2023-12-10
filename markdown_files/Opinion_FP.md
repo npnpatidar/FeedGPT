@@ -1,3 +1,9 @@
+Sun, 10 Dec 2023 15:26:20 +0530
+### [‘Animal’ is a disturbing film that is also one of the best to come out of Bombay cinema in over two decades](https://www.firstpost.com/opinion/animal-is-a-disturbing-film-that-is-also-one-of-the-best-to-come-out-of-bombay-cinema-in-over-two-decades-13486752.html)
+
+Article found but Couldn't summarize 
+‘Animal’ is a disturbing film that is also one of the best to come out of Bombay cinema in over two decades
+
 Sun, 10 Dec 2023 11:52:06 +0530
 ### [How India-Bhutan ties remain a pillar of stability despite regional challenges](https://www.firstpost.com/opinion/how-india-bhutan-ties-remain-a-pillar-of-stability-despite-regional-challenges-13486382.html)
 
