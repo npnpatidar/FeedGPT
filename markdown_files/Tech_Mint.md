@@ -1,3 +1,9 @@
+Sun, 10 Dec 2023 10:08:20 +0530
+### [Weekly Tech Recap: From Google Gemini announcement to GTA 6 trailer; a look at top tech news of the week](https://www.livemint.com/technology/tech-news/weekly-tech-recap-from-google-gemini-announcement-to-gta-6-trailer-a-look-at-top-tech-news-of-the-week-11702176583661.html)
+
+Article found but Couldn't summarize 
+A lot happenned in the world of tech in the last week from the release of much awaited trailer to GTA 6 to the announcement of Google's new Gemini AI language model. We take a look at the top tech news of the week.
+
 Sun, 10 Dec 2023 08:13:59 +0530
 ### [iQOO 12 with Snapdragon 8 Gen 3 to debut in India on Dec 12. Expected price, specs and all you need to know](https://www.livemint.com/technology/gadgets/iqoo-12-with-snapdragon-8-gen-3-to-debut-in-india-on-dec-12-expected-price-specs-and-all-you-need-to-know-11702173240199.html)
 

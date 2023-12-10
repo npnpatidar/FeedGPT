@@ -1,3 +1,9 @@
+Sun, 10 Dec 2023 10:16:49 +0530
+### [BJP's electoral sweep in Rajasthan, MP and Chhattisgarh bolsters Modi's leadership, 'Sabka Saath Sabka Vikas' agenda](https://www.firstpost.com/opinion/bjps-electoral-sweep-in-rajasthan-mp-and-chhattisgarh-bolsters-modis-leadership-sabka-saath-sabka-vikas-agenda-13486122.html)
+
+Article found but Couldn't summarize 
+BJP's electoral sweep in Rajasthan, MP and Chhattisgarh bolsters Modi's leadership, 'Sabka Saath Sabka Vikas' agenda
+
 Sun, 10 Dec 2023 09:29:01 +0530
 ### [India's quest for Assumption Island: How New Delhi's military base aspirations in Seychelles are at a crossroads](https://www.firstpost.com/opinion/indias-quest-for-assumption-island-how-new-delhis-military-base-aspirations-in-seychelles-are-at-a-crossroads-13485732.html)
 

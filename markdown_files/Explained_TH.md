@@ -1,3 +1,9 @@
+Sun, 10 Dec 2023 10:30:00 +0530
+### [India’s extreme rain was restricted to a ‘corridor’ during 1901-2019 | Explained](https://www.thehindu.com/sci-tech/science/indias-extreme-rain-was-restricted-to-a-corridor-during-1901-2019-explained/article67623871.ece)
+
+Article found but Couldn't summarize 
+A new study has found that large-scale extreme rainfall has been simultaneous, or nearly so, and restricted to a ‘corridor’.
+
 Sun, 10 Dec 2023 03:00:00 +0530
 ### [Are crimes against women on the rise? | Explained](https://www.thehindu.com/news/national/are-crimes-against-women-on-the-rise-explained/article67622430.ece)
 
