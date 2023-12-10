@@ -1,3 +1,61 @@
+Sun, 10 Dec 2023 01:15:12 +0000
+### [Venezuela and Guyana to meet on December 14 amid territorial dispute](https://theprint.in/world/venezuela-and-guyana-to-meet-on-december-14-amid-territorial-dispute/1879746/)
+
+Article found but Couldn't summarize 
+SAO PAULO (Reuters) -Venezuela's President Nicolas Maduro will meet with Guyana President Mohamed Irfaan Ali on Thursday amid a territorial dispute between the two countries, according to a letter
+
+Sun, 10 Dec 2023 01:15:03 +0000
+### [Egyptians head to polls in election overshadowed by Gaza war](https://theprint.in/world/egyptians-head-to-polls-in-election-overshadowed-by-gaza-war/1879744/)
+
+As GPT-3.5, I can provide a summary of the article you shared. Egyptians are currently participating in a presidential election, with Abdel Fattah al-Sisi expected to win a third term in power. The country is facing economic challenges and a conflict on its border with Gaza. If reelected, Sisi's immediate priorities would include managing inflation, addressing the foreign currency shortage, and preventing spillover from the Israel-Gaza conflict. The voting period spans three days, and the results will be announced on December 18. Critics view the election as lacking genuine political pluralism due to a crackdown on dissent. While some Egyptians are encouraged to vote, others feel indifferent, believing that the election will not bring about significant change. Sisi came to power in 2013 after leading the ouster of Egypt's first democratically elected president, Mohamed Murs
+
+Sun, 10 Dec 2023 01:00:36 +0000
+### [Only 10% of PPP projects in India are in urban areas. Blame poor planning & low tax collections](https://theprint.in/india/governance/only-10-of-ppp-projects-in-india-are-in-urban-areas-blame-poor-planning-low-tax-collections/1878357/)
+
+Article found but Couldn't summarize 
+According to India Infrastructure Report 2023, Gujarat ranks 1st with 33 Public Private Partnership projects in urban areas, followed by Uttar Pradesh &#38; Maharashtra.
+
+Sun, 10 Dec 2023 00:47:01 +0000
+### [Pakistan: PML-N leader Amir Muqam suggests delay in polls by two to four weeks](https://theprint.in/world/pakistan-pml-n-leader-amir-muqam-suggests-delay-in-polls-by-two-to-four-weeks/1879741/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 10 (ANI): Pakistan Muslim League-Nawaz (PML-N) Khyber Pakhtunkhwa President Amir Muqam on Saturday suggested that the upcoming general elections would be delayed by two to four weeks due to the prevalent security threat and the weather conditions in the tribal belt on election days, Pakistan-based Dawn reported. Muqam&#8217;s statement comes after the [&#8230;]
+
+Sun, 10 Dec 2023 00:45:19 +0000
+### [U.S. offers Argentina’s Milei support on IMF, lithium – White House adviser](https://theprint.in/world/u-s-offers-argentinas-milei-support-on-imf-lithium-white-house-adviser/1879739/)
+
+Article found but Couldn't summarize 
+By Adam Jourdan BUENOS AIRES (Reuters) - A U.S. delegation gave its support to Argentine President-elect Javier Milei over talks with the International Monetary Fund (IMF) and developing its lithium
+
+Sun, 10 Dec 2023 00:45:06 +0000
+### [North Korea condemns US veto of Gaza ceasefire call at UN](https://theprint.in/world/north-korea-condemns-us-veto-of-gaza-ceasefire-call-at-un/1879737/)
+
+Article found but Couldn't summarize 
+SEOUL (Reuters) - A North Korean senior official criticised the United States for blocking a U.N. resolution calling for an immediate humanitarian ceasefire in Gaza, claiming the veto showed
+
+Sun, 10 Dec 2023 00:02:02 +0000
+### [Israeli hostage in Gaza killed in captivity](https://theprint.in/world/israeli-hostage-in-gaza-killed-in-captivity/1879735/)
+
+I'm sorry to hear about the tragic incident involving Sahar Baruch. According to the information provided, Sahar Baruch, a 25-year-old Israeli, was taken hostage by Hamas terrorists on October 7 and unfortunately, he has passed away while in captivity. The Kibbutz Be'eri, where Sahar was a former resident, expressed their deep sadness and condolences to his family. It is a heartbreaking situation, and efforts will be made to seek the return of his body as part of any hostage return deal. The Israel Defense Forces have denied Hamas's claim that Sahar was killed during a rescue attempt and stated that he was murdered by the terror group. The situation remains tense, with several individuals still held captive by Hamas in Gaza.
+
+Sat, 09 Dec 2023 23:32:02 +0000
+### [University of Pennsylvania President Liz Magill resigns after facing criticism over antisemitism testimony](https://theprint.in/world/university-of-pennsylvania-president-liz-magill-resigns-after-facing-criticism-over-antisemitism-testimony/1879733/)
+
+Article found but Couldn't summarize 
+Washington DC [US], December 10 (ANI): University of Pennsylvania President Liz Magill resigned from her position on Saturday (local time) after facing criticism over her remarks in a House hearing this week about rising antisemitism on college campuses, The Hill reported. In an email to university alumni, Board of Trustees Chair Scott Bok confirmed the [&#8230;]
+
+Sat, 09 Dec 2023 23:15:20 +0000
+### [Olympics-Ukraine must consider its interests in taking part in Paris 2024 says minister](https://theprint.in/sport/olympics-ukraine-must-consider-its-interests-in-taking-part-in-paris-2024-says-minister/1879731/)
+
+Article found but Couldn't summarize 
+(Reuters) - Ukraine must consider whether taking part in next year's Paris Olympics is in the nation's interests but participation is impossible unless the IOC alters its "non-constructive position,"
+
+Sat, 09 Dec 2023 23:15:03 +0000
+### [Hong Kong seeks to boost turnout in ‘patriots only’ election](https://theprint.in/world/hong-kong-seeks-to-boost-turnout-in-patriots-only-election/1879729/)
+
+Article found but Couldn't summarize 
+By Jessie Pang and Joyce Zhou HONG KONG (Reuters) - Hong Kong holds its first "patriots only" district elections on Sunday as a national security crackdown imposed by Beijing further marginalises
+
 Sat, 09 Dec 2023 22:47:02 +0000
 ### [Pakistan: Anti-terrorism court cancels arrest warrant of PML-N leader Marriyum Aurangzeb](https://theprint.in/world/pakistan-anti-terrorism-court-cancels-arrest-warrant-of-pml-n-leader-marriyum-aurangzeb/1879727/)
 
