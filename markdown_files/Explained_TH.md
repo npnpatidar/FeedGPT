@@ -1,3 +1,9 @@
+Sun, 10 Dec 2023 20:33:18 +0530
+### [The three Bills on reservation in Jammu & Kashmir | Explained](https://www.thehindu.com/news/national/the-three-bills-on-reservation-in-jammu-kashmir-explained/article67098856.ece)
+
+Article found but Couldn't summarize 
+The Modi government aims to push three bills pertaining to reservation in the Union territory of Jammu and Kashmir during the ongoing Winter parliament session, adding several more Hindu communities within the ambit of reservation
+
 Sun, 10 Dec 2023 10:30:00 +0530
 ### [India’s extreme rain was restricted to a ‘corridor’ during 1901-2019 | Explained](https://www.thehindu.com/sci-tech/science/indias-extreme-rain-was-restricted-to-a-corridor-during-1901-2019-explained/article67623871.ece)
 

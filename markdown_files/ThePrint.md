@@ -1,3 +1,121 @@
+Sun, 10 Dec 2023 15:02:01 +0000
+### [“Career suicide”: Adele on what people thought getting pregnant at height of her success](https://theprint.in/feature/career-suicide-adele-on-what-people-thought-getting-pregnant-at-height-of-her-success/1880347/)
+
+Article found but Couldn't summarize 
+California [US], December 10 (ANI): Singer Adele opened out about becoming a mother at the peak of her career, applauding herself for overcoming what she calls &#8220;career suicide,&#8221; reported People. Adele said that getting pregnant while at the height of her career was considered &#8220;career suicide&#8221; by many. The Grammy winner, 35, was honoured with [&#8230;]
+
+Sun, 10 Dec 2023 15:00:58 +0000
+### [Namo Bharat train trial conducted from Duhai to Modi Nagar](https://theprint.in/india/namo-bharat-train-trial-conducted-from-duhai-to-modi-nagar/1880346/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 10 (PTI) After commencement of the 17 km priority section of the Regional Rapid Transit System that covers Delhi, Ghaziabad, and Meerut, a trial run of the Namo Bharat train was conducted from Duhai to Modi Nagar South on Sunday. The train departed from Duhai station, reached Murad Nagar station, and then [&#8230;]
+
+Sun, 10 Dec 2023 15:00:46 +0000
+### [Driver of school van rapes 7-year-old in Jaipur, arrested](https://theprint.in/india/driver-of-school-van-rapes-7-year-old-in-jaipur-arrested/1880345/)
+
+Article found but Couldn't summarize 
+Jaipur, Dec 10 (PTI) A seven-year-old girl was allegedly raped by a man driving her to a private school here, police said on Sunday. The accused was arrested after the minor’s family registered a complaint in the three-month old incident on Friday, they said. The accused, Abdul Majid (55), who operates a school van was [&#8230;]
+
+Sun, 10 Dec 2023 15:00:35 +0000
+### [Rededicate towards realising vision of ‘Viksit Bharat’: J&K LG to youth](https://theprint.in/india/rededicate-towards-realising-vision-of-viksit-bharat-jk-lg-to-youth/1880343/)
+
+Article found but Couldn't summarize 
+Jammu, Dec 10 (PTI) Jammu and Kashmir Lt Governor Manoj Sinha on Sunday urged the youth to dedicate themselves to the vision of a developed India. &#8220;Future belongs to India and our youth. I am confident that the youth will lead the world to build a prosperous society,&#8221; Sinha said, attending the closing ceremony of [&#8230;]
+
+Sun, 10 Dec 2023 15:00:27 +0000
+### [Nvidia CEO aims to set up a base in Vietnam](https://theprint.in/tech/nvidia-ceo-aims-to-set-up-a-base-in-vietnam/1880342/)
+
+Article found but Couldn't summarize 
+HANOI (Reuters) - Nvidia wishes to establish a base in Vietnam to develop the country's semiconductor industry as it considers the Vietnamese market an important one, the Vietnamese government said,
+
+Sun, 10 Dec 2023 15:00:21 +0000
+### [Andhra Pradesh Governor attends Navy day celebrations](https://theprint.in/india/andhra-pradesh-governor-attends-navy-day-celebrations/1880341/)
+
+Article found but Couldn't summarize 
+Visakhapatnam, Dec 10 (PTI) Andhra Pradesh Governor Justice S Abdul Nazeer on Sunday participated in the Navy Day celebrations organised by the Eastern Naval Command here. The Navy Day celebrations are conducted every year by the Eastern Naval Command on December 4. This year, it was rescheduled to December 10 due to the Cyclone &#8216;Michuang,&#8217; [&#8230;]
+
+Sun, 10 Dec 2023 15:00:03 +0000
+### [Russia calls for international monitoring mission in Gaza](https://theprint.in/world/russia-calls-for-international-monitoring-mission-in-gaza/1880339/)
+
+Article found but Couldn't summarize 
+By Guy Faulconbridge MOSCOW (Reuters) -Russia on Sunday called for an international monitoring mission to go to Gaza to assess the humanitarian situation, and said it was unacceptable for Israel to
+
+Sun, 10 Dec 2023 15:00:03 +0000
+### [Kerala govt issues order to kill tiger that attacked man if it is not captured or transquilised](https://theprint.in/india/kerala-govt-issues-order-to-kill-tiger-that-attacked-man-if-it-is-not-captured-or-transquilised/1880338/)
+
+Article found but Couldn't summarize 
+Wayanad (Kerala), Dec 10 (PTI) A day after the death of a 36-year-old man near Kalpetta here due to a tiger attack, the Kerala government on Sunday issued orders to kill the animal if it cannot be captured or tranquilised. Principal Chief Conservator of Forests (WL) and Chief Wildlife Warden, D Jayaprasad, issued an order [&#8230;]
+
+Sun, 10 Dec 2023 14:47:02 +0000
+### [Pakistan: National Accountability Bureau recovers PKR 2.3 trillion, says chairman Nazir Ahmed](https://theprint.in/world/pakistan-national-accountability-bureau-recovers-pkr-2-3-trillion-says-chairman-nazir-ahmed/1880327/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 10 (ANI): Pakistan&#8217;s top anti-corruption organisation, &#8211; National Accountability Bureau (NAB) recovered Pakistan rupees (PKR) 2.3 trillion besides accruing over USD 10 billion in savings to the national exchequer, ARY News reported quoting NAB chairman Lt Gen (retd) Nazir Ahmed on Sunday. Ahmed reiterated that NAB will ensure that every act of [&#8230;]
+
+Sun, 10 Dec 2023 14:45:51 +0000
+### [Delhi’s Narela prison to house ‘high-risk’ prisoners to be ready in 2 years: Officials](https://theprint.in/india/delhis-narela-prison-to-house-high-risk-prisoners-to-be-ready-in-2-years-officials/1880326/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 10 (PTI) The national capital&#8217;s fourth jail in Narela that will house &#8220;high-risk&#8221; prisoners will be ready in two years as the Delhi government has given administrative approval for it, officials said.  The central government has allocated Rs 120 crore for the construction of the prison complex, which will have a design [&#8230;]
+
+Sun, 10 Dec 2023 14:45:39 +0000
+### [Delhi records coldest morning of season at 8.3 deg C; air quality ‘very poor’](https://theprint.in/india/delhi-records-coldest-morning-of-season-at-8-3-deg-c-air-quality-very-poor/1880325/)
+
+According to the India Meteorological Department (IMD), New Delhi experienced its coldest morning of the season with a minimum temperature of 8.3 degrees Celsius. The maximum temperature reached 23.4 degrees Celsius, slightly lower than the seasonal average. The city's Air Quality Index (AQI) was 312 at 6 pm, categorizing it as 'very poor', while the relative humidity at 5.30 pm was 60%. The previous day, the minimum temperature was recorded at 8.5 degrees Celsius, and the AQI was 322 at the same time. These details were reported by PTI news service, and ThePrint, which shares the report, disclaims any responsibility for its content.
+
+Sun, 10 Dec 2023 14:45:28 +0000
+### [TRAU FC beat Inter Kashi 3-0 to earn first win of I-League season](https://theprint.in/sport/trau-fc-beat-inter-kashi-3-0-to-earn-first-win-of-i-league-season/1880323/)
+
+In a recent match at the Kalyani Stadium, TRAU FC secured their first win of the I-League season by defeating Inter Kashi 3-0. Prior to this victory, TRAU had suffered seven defeats and managed only one draw in their eight previous games, resulting in them being at the bottom of the league table. However, determined to improve their position, TRAU played aggressively from the beginning, with Danish Aribam scoring the first goal in the ninth minute, followed by Deepak Singh doubling the advantage in the 22nd minute. In the 76th minute, Abraham Okyere sealed the victory with a remarkable strike. Source: PTI news service.
+
+Sun, 10 Dec 2023 14:45:26 +0000
+### [Soccer-Russo double helps Arsenal to superb 4-1 WSL win over Chelsea](https://theprint.in/sport/soccer-russo-double-helps-arsenal-to-superb-4-1-wsl-win-over-chelsea/1880322/)
+
+Article found but Couldn't summarize 
+LONDON (Reuters) - Arsenal striker Alessia Russo scored twice as her side hammered Women's Super League leaders Chelsea 4-1 at the Emirates Stadium on Sunday in front of a league-record crowd of
+
+Sun, 10 Dec 2023 14:45:15 +0000
+### [MP: School bus catches fire, all 36 students, 4 teachers unhurt](https://theprint.in/india/mp-school-bus-catches-fire-all-36-students-4-teachers-unhurt/1880320/)
+
+Article found but Couldn't summarize 
+Jabalpur, Dec 10 (PTI) Thirty-six children and four teachers were evacuated safely on Sunday from a burning bus by some Army men in Jabalpur in Madhya Pradesh, a police official said. The incident took place in Suarkol area, some 7 kilometres from the district headquarters, Khamaria police station in charge Hardayal Singh told reporters. &#8220;Some [&#8230;]
+
+Sun, 10 Dec 2023 14:45:06 +0000
+### [Blinken: Palestinian civilian safety imperative, envisions durable peace](https://theprint.in/world/blinken-palestinian-civilian-safety-imperative-envisions-durable-peace/1880319/)
+
+Article found but Couldn't summarize 
+WASHINGTON (Reuters) - U.S. Secretary of State Anthony Blinken said on Sunday it is "imperative" that Israeli military operations in Gaza protect Palestinian civilians, adding that the fighting should
+
+Sun, 10 Dec 2023 14:45:02 +0000
+### [Don’t let Bhujbal fulfil his dream of creating rift between Marathas and OBCs: Jarange](https://theprint.in/india/dont-let-bhujbal-fulfil-his-dream-of-creating-rift-between-marathas-and-obcs-jarange-2/1880318/)
+
+Article found but Couldn't summarize 
+Latur, Dec 10 (PTI) Quota activist Manoj Jarange on Sunday accused Maharashtra minister Chhagan Bhujbal of trying to trigger unrest by creating a rift between the Marathas and Other Backward Classes (OBCs) and asked people not to allow the NCP leader to “fulfil his dream”. Jarange was addressing a rally at Ausa town in the [&#8230;]
+
+Sun, 10 Dec 2023 14:35:00 +0000
+### [Ahead of New Year, Karnataka govt denies breweries in Mysuru permission to run 3rd shift](https://theprint.in/india/ahead-of-new-year-karnataka-govt-denies-breweries-in-mysuru-permission-to-run-3rd-shift/1880272/)
+
+Article found but Couldn't summarize 
+Govt in its order cited shortage of excise dept officials to oversee operations. Brewery employee from Mysuru said it is difficult to ‘quantify impact’ of order just yet.
+
+Sun, 10 Dec 2023 14:30:33 +0000
+### [Pakistan Army chief General Munir leaves for Washington on his first official trip to US](https://theprint.in/world/pakistan-army-chief-general-munir-leaves-for-washington-on-his-first-official-trip-to-us/1880308/)
+
+Article found but Couldn't summarize 
+Islamabad, Dec 10 (PTI) Pakistan Army chief General Asim Munir on Sunday left for Washington on his first official trip to the United States amidst severe economic, political and security challenges faced by his cash-strapped country. During his visit to the US, “Gen Munir is scheduled to meet the senior military and other government officials [&#8230;]
+
+Sun, 10 Dec 2023 14:30:15 +0000
+### [Don’t let Bhujbal fulfil his dream of creating rift between Marathas and OBCs: Jarange](https://theprint.in/india/dont-let-bhujbal-fulfil-his-dream-of-creating-rift-between-marathas-and-obcs-jarange/1880307/)
+
+Article found but Couldn't summarize 
+Latur, Dec 10 (PTI) Quota activist Manoj Jarange on Sunday accused Maharashtra minister Chhagan Bhujbal of trying to trigger unrest by creating a rift between the Marathas and Other Backward Classes (OBCs) and asked people not to allow the NCP leader to “fulfil his dream”. Jarange was addressing a rally at Ausa town in the [&#8230;]
+
+Sun, 10 Dec 2023 14:30:03 +0000
+### [Condoning terror acts a great disservice to human rights cause: NHRC chief](https://theprint.in/india/condoning-terror-acts-a-great-disservice-to-human-rights-cause-nhrc-chief/1880306/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 10 (PTI) Terrorism causes grave violation of human rights of citizens in the entire world, and condoning terror acts and terrorists is a &#8220;great disservice&#8221; to the cause of human rights, NHRC Chairperson Justice (retd) Arun Kumar Mishra said on Sunday. In his address at an event to mark Human Rights Day [&#8230;]
+
 Sun, 10 Dec 2023 14:02:13 +0000
 ### [Oman Sultan to visit India for State visit on Dec 16, to hold bilateral discussions with PM Modi](https://theprint.in/world/oman-sultan-to-visit-india-for-state-visit-on-dec-16-to-hold-bilateral-discussions-with-pm-modi/1880286/)
 

@@ -1,3 +1,8 @@
+Sun, 10 Dec 2023 14:37:43 +0000
+### [From the Opinions Editor: Assembly election results and the big question for 2024](https://indianexpress.com/article/opinion/columns/assembly-election-results-big-question-for-2024-9062481/)
+
+Article found but Couldn't summarize
+
 Sun, 10 Dec 2023 11:59:07 +0000
 ### [View from Pakistan: A historic win for women’s cricket and Denmark’s law against burning the Quran](https://indianexpress.com/article/opinion/columns/pakistan-historic-win-womens-cricket-denmark-law-burning-quran-9062357/)
 

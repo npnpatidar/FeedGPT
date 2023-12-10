@@ -1,3 +1,9 @@
+2023-12-10T20:19:41+05:30
+### [India Is Likely to Miss its Ethanol Blending Target This Year](https://thewire.in/energy/india-is-likely-to-miss-its-ethanol-blending-target-this-year)
+
+No Article text 
+As per the NITI Ayog, to achieve E20, the country is likely to need about 10.16 billion litres of ethanol annually with sugarcane based ethanol as the mainstay of production.
+
 2023-12-10T19:30:54+05:30
 ### [Chhattisgarh: BJP Ends Week-Long Suspense, Names Vishnu Deo Sai as Next Chief Minister](https://thewire.in/politics/chhattisgarh-bjp-ends-week-long-suspense-names-vishnu-deo-sai-as-next-chief-minister)
 
