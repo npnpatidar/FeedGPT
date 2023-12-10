@@ -1,3 +1,120 @@
+Sun, 10 Dec 2023 13:17:01 +0000
+### [25 Indian fishermen from Tamil Nadu, Puducherry detained by Sri Lankan Navy](https://theprint.in/world/25-indian-fishermen-from-tamil-nadu-puducherry-detained-by-sri-lankan-navy/1880244/)
+
+Article found but Couldn't summarize 
+Colombo [Sri Lanka], December 10 (ANI): 25 Indian fishermen, who were fishing in international waters, were detained by the Sri Lankan Navy along with their two trawlers, off Point Pedro town in Sri Lanka. According to the Sri Lankan Navy, the fishermen were allegedly involved in &#8216;illegal poaching&#8217; and were detained after a special operation [&#8230;]
+
+Sun, 10 Dec 2023 13:16:25 +0000
+### [Woman found dead in lodge in Thane district](https://theprint.in/india/woman-found-dead-in-lodge-in-thane-district/1880243/)
+
+Article found but Couldn't summarize 
+Thane, Dec 10 (PTI) A 32-year-old woman was found dead in a room of a lodge in Maharashtra’s Thane district on Sunday, police said. The body of Jyoti Todarmal was found in a lodge in Kalyan town this morning, an official from MFC police station said. Todarmal had checked into the lodge with a man [&#8230;]
+
+Sun, 10 Dec 2023 13:16:09 +0000
+### [Samantha Ruth Prabhu launches production house Tralala Moving Pictures](https://theprint.in/feature/samantha-ruth-prabhu-launches-production-house-tralala-moving-pictures/1880242/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 10 (PTI) Actor Samantha Ruth Prabhu on Sunday announced her foray into production with the launch of her banner Tralala Moving Pictures. Samantha, the star of Telugu and Tamil films such as &#8220;Eega&#8221;, &#8220;Mahanati&#8221;, &#8220;Mersal&#8221;, and &#8220;Super Deluxe&#8221;, and &#8220;Prime Video series &#8220;The Family Man 2&#8221;, shared the news on Instagram. &#8220;Very excited [&#8230;]
+
+Sun, 10 Dec 2023 13:15:52 +0000
+### [Man can’t be charged in cases where wife is 18 years of age or more: HC on ‘marital rape’](https://theprint.in/india/man-cant-be-charged-in-cases-where-wife-is-18-years-of-age-or-more-hc-on-marital-rape/1880241/)
+
+Article found but Couldn't summarize 
+Prayagraj, Dec 10 (PTI) The Allahabad High Court has observed that &#8220;protection of a person&#8221; from being charged in &#8220;marital rape continues in cases where the wife is of 18 years of age or more&#8221;.  The court also cited the judgment in the case of Independent Thought Vs Union of India (2017) where the Supreme [&#8230;]
+
+Sun, 10 Dec 2023 13:15:35 +0000
+### [England Women win toss, elect to bat against India in final T20I](https://theprint.in/sport/england-women-win-toss-elect-to-bat-against-india-in-final-t20i/1880240/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 10 (PTI) England skipper Heather Knight won the toss and elected to bat in the third and final women&#8217;s T20 International against the Harmanpreet Kaur-led India. India made one change to the side that lost at the same venue on Saturday, bringing in Amanjot Kaur in place of Pooja Vastrakar. England have made [&#8230;]
+
+Sun, 10 Dec 2023 13:15:24 +0000
+### [MP: BJP MLAs to meet on Monday to elect legislative party leader](https://theprint.in/india/mp-bjp-mlas-to-meet-on-monday-to-elect-legislative-party-leader/1880239/)
+
+Article found but Couldn't summarize 
+Bhopal, Dec 19 (PTI) The BJP&#8217;s newly-elected MLAs in Madhya Pradesh will meet on Monday to elect the leader of the legislative party. The Bharatiya Janata Party retained power in MP in the November 17 polls emphatically winning 163 seats in the 230-member Assembly, leaving the Congress a distant second with 66 seats. However, it [&#8230;]
+
+Sun, 10 Dec 2023 13:15:14 +0000
+### [Asked about peace talks, Russia’s Lavrov says: Ask Ukraine](https://theprint.in/world/asked-about-peace-talks-russias-lavrov-says-ask-ukraine/1880237/)
+
+Russian Foreign Minister Sergei Lavrov accused the West of attempting to exhaust Russia in Ukraine and suggested that for peace talks to occur, Kyiv would need to modify its presidential decree. Lavrov blamed the United States for the war and stated that it was up to the Ukrainians to understand the extent of the situation. Regarding the chances of diplomacy bringing about a ceasefire or peace, Lavrov advised contacting President Volodymyr Zelenskiy, who had previously prohibited negotiations with Russian President Vladimir Putin.
+
+Sun, 10 Dec 2023 13:15:13 +0000
+### [Cash haul in Odisha I-T raids goes past Rs 300 crore](https://theprint.in/india/cash-haul-in-odisha-i-t-raids-goes-past-rs-300-crore/1880236/)
+
+Article found but Couldn't summarize 
+New Delhi/Bhubaneswar, Dec 10 (PTI) The cash seizure in the income-tax department&#8217;s searches against an Odisha-based distillery company has become the &#8220;highest-ever&#8221; such haul in a single action conducted by any probe agency in the country and gone past Rs 300 crore, official sources said on Sunday. The marathon raids against Boudh Distillery Private Limited, [&#8230;]
+
+Sun, 10 Dec 2023 13:15:03 +0000
+### [Netanyahu speaks to Putin, voices disapproval of Iran ties](https://theprint.in/world/netanyahu-speaks-to-putin-voices-disapproval-of-iran-ties/1880234/)
+
+Article found but Couldn't summarize 
+JERUSALEM (Reuters) - Israeli Prime Minister Benjamin Netanyahu spoke to Russian President Vladimir Putin on Sunday and voiced displeasure with "anti-Israel positions" taken by Moscow's envoys at the
+
+Sun, 10 Dec 2023 13:15:02 +0000
+### [Baghel congratulates Sai on being elected as leader of BJP’s legislative party in Chhattisgarh](https://theprint.in/india/baghel-congratulates-sai-on-being-elected-as-leader-of-bjps-legislative-party-in-chhattisgarh-2/1880233/)
+
+Vishnu Deo Sai has been elected as the leader of the BJP's legislative party in Chhattisgarh, according to outgoing Chief Minister Bhupesh Baghel. Sai, known as a prominent tribal face of the BJP, will become the next Chief Minister of the state. Baghel congratulated Sai on his election and expressed his hopes for the progress and justice of Chhattisgarh under Sai's leadership. The BJP secured a significant victory in the state, winning 54 out of 90 assembly seats, while the Congress was reduced to 35 seats. The Gondwana Gantantra Party won one seat as well. This report is sourced from the PTI news service.
+
+Sun, 10 Dec 2023 13:03:03 +0000
+### [Gogamedi Murder Case: Assailants’ plan to flee country thwarted in Chandigarh](https://theprint.in/india/gogamedi-murder-case-assailants-plan-to-flee-country-thwarted-in-chandigarh/1880230/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 10 (ANI): After the national president of Rashtriya Rajput Karni Sena, Sukhdev Singh Gogamedi, was shot dead by unidentified assailants in Jaipur on Tuesday, the police said that two shooters, and one person who was providing logistical assistance were arrested from Chandigarh while they were waiting for passports to flee the [&#8230;]
+
+Sun, 10 Dec 2023 13:02:52 +0000
+### [‘Good Trouble’ to go off air after season 5](https://theprint.in/feature/good-trouble-to-go-off-air-after-season-5/1880228/)
+
+Article found but Couldn't summarize 
+Washington [US], December 10 (ANI): The TV show &#8216;Good Trouble&#8217; is going off air after season 5. The Freeform drama follows sisters Callie and Mariana as they try to make it to Los Angeles. The executive producers of the show, Maia Mitchell and Cierra Ramirez, who play Callie and Mariana Foster, have praised one another [&#8230;]
+
+Sun, 10 Dec 2023 13:02:41 +0000
+### [Hilary Duff remembers working with ‘Lizzie McGuire’ producer Stan Rogow](https://theprint.in/feature/hilary-duff-remembers-working-with-lizzie-mcguire-producer-stan-rogow/1880226/)
+
+Article found but Couldn't summarize 
+Washington [US], December 10 (ANI): Singer and actor Hilary Duff recalled working with the acclaimed producer Stan Rogow, who passed away recently. She worked with him in the comedy TV series &#8216;Lizzie McGuire&#8217;, in which she played the titular role, according to Deadline. Rogow passed away at the age of 75. Hilary took to her [&#8230;]
+
+Sun, 10 Dec 2023 13:02:26 +0000
+### [First LCA Mark1A fighter aircraft squadron to be deployed at Nal air base](https://theprint.in/india/first-lca-mark1a-fighter-aircraft-squadron-to-be-deployed-at-nal-air-base/1880224/)
+
+The Indian Air Force is planning to raise the first squadron of the indigenous LCA Mark1A fighter aircraft at the Nal air base in Bikaner district of Rajasthan near the Pakistan front. These advanced aircraft will be equipped with the latest indigenous radars and avionics. The first LCA Mark1A aircraft is expected to be delivered to the Indian Air Force by February-March. A total of 220 LCA Mark 1 and LCA Mark1A aircraft are planned to be inducted into service in the next 8-10 years. The Indian Air Force is gradually replacing its MiG series aircraft with the LCA variants. The goal is to have a fleet of 'Made in India' fighter aircraft to enhance the country's defense capabilities.
+
+Sun, 10 Dec 2023 13:02:13 +0000
+### [“Feel honoured”: Abhishek Kapoor celebrates 2 years of ‘Chandigarh Kare Aashiqui’](https://theprint.in/feature/feel-honoured-abhishek-kapoor-celebrates-2-years-of-chandigarh-kare-aashiqui/1880222/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 10 (ANI): Abhishek Kapoor&#8217;s directorial &#8216;Chandigarh Kare Aashiqui&#8217; starring Ayushmann Khurrana and Vaani Kapoor has completed two years. The film revolves around a cross-functional athlete &#8211; not confined by the boundaries of a single sport (Ayushmann Khurrana), who falls in love with a Zumba trainer (Vaani Kapoor) at his gym. Their [&#8230;]
+
+Sun, 10 Dec 2023 13:02:02 +0000
+### [US: Here is why Donald Trump thinks Vivek Ramaswamy won fourth GOP debate](https://theprint.in/world/us-here-is-why-donald-trump-thinks-vivek-ramaswamy-won-fourth-gop-debate/1880220/)
+
+Article found but Couldn't summarize 
+Washington DC [US], December 10 (ANI): Heaping praise on his Republican rival, former US President Donald Trump termed Indian-American entrepreneur Vivek Ramaswamy the winner of the fourth GOP debate. The fourth GOP primary debate was held on Wednesday in Tuscaloosa, Alabama, and was hosted by NewsNation. &#8220;So many people are asking what I thought of [&#8230;]
+
+Sun, 10 Dec 2023 13:00:14 +0000
+### [Palaniswami tells TN govt to hike cyclone cash aid to Rs 12,000](https://theprint.in/india/palaniswami-tells-tn-govt-to-hike-cyclone-cash-aid-to-rs-12000/1880219/)
+
+Article found but Couldn't summarize 
+Chennai, Dec 10 (PTI) AIADMK general secretary Edappadi K Palaniswami on Sunday demanded that the DMK regime increase the cyclone relief to Rs 12,000 from Rs 6,000 as people have lost their belongings and income. Alleging that the DMK regime did not complete stormwater drain work properly, Palaniswami blamed the government for &#8216;not taking suitable [&#8230;]
+
+Sun, 10 Dec 2023 13:00:03 +0000
+### [Baghel congratulates Sai on being elected as leader of BJP’s legislative party in Chhattisgarh](https://theprint.in/india/baghel-congratulates-sai-on-being-elected-as-leader-of-bjps-legislative-party-in-chhattisgarh/1880218/)
+
+Article found but Couldn't summarize 
+Raipur, Dec 10 (PTI) Outgoing Chhattisgarh Chief Minister Bhupesh Baghel on Sunday congratulated Vishnu Deo Sai on being elected as the leader of the BJP’s legislative party in the state. Sai (59), a prominent tribal face of the BJP, will be the next chief minister of Chhattisgarh as he was picked as the leader of [&#8230;]
+
+Sun, 10 Dec 2023 12:47:02 +0000
+### [Pakistan: Imran Khan’s former special assistant refuses to testify against him in NCA scandal](https://theprint.in/world/pakistan-imran-khans-former-special-assistant-refuses-to-testify-against-him-in-nca-scandal/1880215/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 10 (ANI): Nadeem Afzal Chan, the former special assistant on parliamentary coordination to Imran Khan, has refused to testify against the former Pakistan Prime Minister in connection with the National Crime Agency (NCA) scandal worth 190 million pounds, ARY News reported. Chan has stated that NAB had inquired into the case and [&#8230;]
+
+Sun, 10 Dec 2023 12:46:04 +0000
+### [Sikhs take out protest march in Delhi for release of ‘Bandi Singhs’](https://theprint.in/india/sikhs-take-out-protest-march-in-delhi-for-release-of-bandi-singhs/1880213/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 10 (PTI) Several Sikh protesters on Sunday took out a march from the Bangla Sahib Gurudwara to Sansad Marg, demanding release of &#8216;Bandi Singhs&#8217;. One of the protesters said a two-hour long discussion was held in Amritsar last week regarding the release of &#8216;Bandi Singhs&#8217;, the Sikh prisoners which the community claims are [&#8230;]
+
 Sun, 10 Dec 2023 12:15:39 +0000
 ### [Work faster, be flexible, compromise to reach climate deal – COP28 president](https://theprint.in/environment/work-faster-be-flexible-compromise-to-reach-climate-deal-cop28-president/1880188/)
 

@@ -1640,3 +1640,10 @@ Started at 2023-12-10 12:32:30
 Finished at 2023-12-10 12:34:29
 Total time taken: 118.26030254364014 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2023-12-10 13:19:26
+1 Feed entries have been written to feeds/The_Wire.xml
+20 Feed entries have been written to feeds/ThePrint.xml
+21 new entries have been added
+Finished at 2023-12-10 13:21:24
+Total time taken: 118.26147103309631 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

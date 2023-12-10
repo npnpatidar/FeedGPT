@@ -1,3 +1,9 @@
+2023-12-10T18:30:31+05:30
+### [Article 370: Understanding the History, Legal Contexts, and Why It Matters](https://thewire.in/history/article-370-understanding-the-history-legal-contexts-and-why-it-matters)
+
+No Article text 
+For the people of Jammu and Kashmir, what was lost was not just the special status of J&amp;K with its emotive appeal but also the privileges and protections it gave to the residents of J&amp;K.
+
 2023-12-10T18:00:17+05:30
 ### [Rajasthan: FIR Against Hawa Mahal MLA Balmukunt Acharya for Alleged Assault on SC Community Member](https://thewire.in/law/rajasthan-fir-against-hawa-mahal-mla-balmukunt-acharya-for-alleged-assault-on-sc-community-member)
 
