@@ -1,3 +1,8 @@
+Sun, 10 Dec 2023 08:30:31 +0000
+### [Mahua Moitra’s disquieting, unnatural expulsion from Parliament](https://indianexpress.com/article/opinion/columns/mahua-moitra-expelled-parliament-pdt-achary-writes-9062128/)
+
+Article found but Couldn't summarize
+
 Sun, 10 Dec 2023 06:56:05 +0000
 ### [Vamsee Juluri writes: A lesson for Bharat in failure to tackle antisemitism on US campuses](https://indianexpress.com/article/opinion/columns/bharat-india-antisemitism-us-campuses-education-9062021/)
 

@@ -1,3 +1,119 @@
+Sun, 10 Dec 2023 09:15:16 +0000
+### [Priyanka Gandhi reaches HP, to attend Congress govt’s first anniversary celebrations on December 11](https://theprint.in/india/priyanka-gandhi-reaches-hp-to-attend-congress-govts-first-anniversary-celebrations-on-december-11/1880054/)
+
+Congress leader Priyanka Gandhi Vadra has arrived in Himachal Pradesh to attend a program in Dharamshala on December 11, marking the first anniversary of the party-led state government. Priyanka Gandhi Vadra reached Shimla and went to her house in Chhabbra to rest for the day before accompanying Chief Minister Sukhvinder Singh Sukhu to Dharamshala. The event is expected to see the participation of several prominent Congress leaders. On the other hand, the opposition BJP has announced protests in all districts on Monday, criticizing the government's proposal to celebrate its one year in office.
+
+Sun, 10 Dec 2023 09:15:15 +0000
+### [Japan industry minister says reviewing finances amid funds scandal-media](https://theprint.in/world/japan-industry-minister-says-reviewing-finances-amid-funds-scandal-media/1880053/)
+
+Article found but Couldn't summarize 
+TOKYO (Reuters) - Under-fire Japanese industry minister Yasutoshi Nishimura said he would continue in his cabinet duties and will fully disclose his finances at an appropriate time, local media
+
+Sun, 10 Dec 2023 09:15:03 +0000
+### [UN chief says he will not give up appeals for ceasefire in Gaza](https://theprint.in/world/un-chief-says-he-will-not-give-up-appeals-for-ceasefire-in-gaza/1880051/)
+
+Article found but Couldn't summarize 
+By Andrew Mills DOHA (Reuters) -United Nations Secretary-General Antonio Guterres said on Sunday he will not give up appealing for a humanitarian ceasefire in Gaza, adding that the war undermined the
+
+Sun, 10 Dec 2023 09:15:02 +0000
+### [93-year-old Samarkand university sees rise in MBBS aspirants from India as war closes Ukraine door](https://theprint.in/world/93-year-old-samarkand-university-sees-rise-in-mbbs-aspirants-from-india-as-war-closes-ukraine-door/1880050/)
+
+As GPT-3.5, I can summarize the article for you. The State Samarkand Medical University in Uzbekistan has seen a significant increase in the number of Indian students due to the war in Ukraine closing its doors for MBBS aspirants from India. The university used to receive around 100 to 150 Indian students, but in 2023, the number has risen to 3,000. The university has also accommodated over 1,000 Indian students who had to leave their courses in Ukraine. To ensure the comfort of Indian students, the university has hired over 40 teachers from India. The reasons that attract students to Uzbekistan include teaching and learning in English, a peaceful atmosphere, affordable fees, and practical exposure. The rise in the number of Indian students is expected to continue in the coming years.
+
+Sun, 10 Dec 2023 09:00:23 +0000
+### [SC to pronounce verdict on Monday on pleas challenging abrogation of Article 370 in J&K](https://theprint.in/india/sc-to-pronounce-verdict-on-monday-on-pleas-challenging-abrogation-of-article-370-in-jk/1880046/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 10 (PTI) Was the decision taken by the Centre on August 5, 2019 to abrogate the provisions of Article 370 of the Constitution, which bestowed a special status on the erstwhile state of Jammu and Kashmir, constitutionally valid? The Supreme Court is scheduled to pronounce its verdict on Monday on a batch [&#8230;]
+
+Sun, 10 Dec 2023 09:00:12 +0000
+### [Why Rahul Gandhi silent on Cong MP Dhiraj Sahu’s IT seizure? asks Kishan Reddy](https://theprint.in/india/why-rahul-gandhi-silent-on-cong-mp-dhiraj-sahus-it-seizure-asks-kishan-reddy/1880045/)
+
+Article found but Couldn't summarize 
+Hyderabad, Dec 10 (PTI) Union Tourism Minister G Kishan Reddy on Sunday sought to know why Congress leader Rahul Gandhi was silent on the seizure of crores of rupees from premises allegedly linked to his party MP Dhiraj Prasad Sahu during a recent Income Tax raid. Addressing a press conference here, Reddy, also Telangana BJP [&#8230;]
+
+Sun, 10 Dec 2023 09:00:02 +0000
+### [Govt makes air-conditioned truck cabin mandatory from Oct 2025](https://theprint.in/economy/govt-makes-air-conditioned-truck-cabin-mandatory-from-oct-2025/1880044/)
+
+The Road Transport and Highways Ministry in India has issued a notification mandating that all new trucks manufactured after October 1, 2025, must be equipped with air-conditioned (AC) cabins for drivers. The ministry stated that vehicles falling under the N2 and N3 category should be fitted with an air-conditioning system, with testing to be conducted as per IS14618:2022 standards. The move comes as Union Road Transport Minister Nitin Gadkari emphasizes the importance of addressing the working conditions and well-being of truck drivers in India's transport sector. Despite objections from some individuals citing increased costs, Gadkari has long advocated for air-conditioned cabins for truck drivers to alleviate the challenges of extreme heat conditions. This article was generated from a PTI news service report.
+
+Sun, 10 Dec 2023 08:45:03 +0000
+### [Gibraltar deal hinges on use of airport, says Spain’s foreign minister](https://theprint.in/world/gibraltar-deal-hinges-on-use-of-airport-says-spains-foreign-minister/1880040/)
+
+Article found but Couldn't summarize 
+MADRID (Reuters) - A deal over the post-Brexit status of the British territory of Gibraltar depends on agreement over use of the airport, Spain's foreign minister, Jose Manuel Albares, said in an
+
+Sun, 10 Dec 2023 08:30:40 +0000
+### [Ballia man booked for morphing UP CM Adityanath’s picture](https://theprint.in/india/ballia-man-booked-for-morphing-up-cm-adityanaths-picture/1880038/)
+
+Article found but Couldn't summarize 
+Ballia (UP), Dec 10 (PTI) The Uttar Pradesh Police has registered an FIR against a local leader in this district for allegedly morphing Chief Minister Yogi Adityanath&#8217;s face out of a picture and posting it on social media. Bairia SHO Dharam Veer Singh said a case has been registered against Manoj Kumar Singh, a resident [&#8230;]
+
+Sun, 10 Dec 2023 08:30:38 +0000
+### [AI can enhance fuel efficiency and make aviation more sustainable. Here’s how](https://theprint.in/tech/ai-can-enhance-fuel-efficiency-and-make-aviation-more-sustainable-heres-how/1880031/)
+
+Article found but Couldn't summarize 
+AI-driven innovations reduce aviation's ecological footprint, but we must act fast to reach net-zero targets.
+
+Sun, 10 Dec 2023 08:30:24 +0000
+### [Ranbir Kapoor-starrer ‘Animal’ earns Rs 660 crore at global box office](https://theprint.in/feature/ranbir-kapoor-starrer-animal-earns-rs-660-crore-at-global-box-office/1880037/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 10 (PTI) Action drama film &#8220;Animal&#8221; has amassed Rs 660 crore at the worldwide gross box office in nine days, the makers said on Sunday. Fronted by Ranbir Kapoor and directed by Sandeep Reddy Vanga, the film released on December 1 in Hindi, Telugu, Tamil, Kannada and Malayalam. Production house T-Series shared the [&#8230;]
+
+Sun, 10 Dec 2023 08:30:14 +0000
+### [Conservationists urge Odisha govt to declare Mahendragiri as biosphere reserve](https://theprint.in/india/conservationists-urge-odisha-govt-to-declare-mahendragiri-as-biosphere-reserve/1880036/)
+
+Article found but Couldn't summarize 
+Berhampur (Odisha), Dec 10 (PTI) Conservationists have urged the Odisha government to declare Mahendragiri in Gajapati district as a biosphere reserve following the sighting of a Royal Bengal Tiger in the Odisha-Andhra Pradesh border, recently. The male tiger from Maharashtra&#8217;s Bramhapuri division in the Tadoba reached the border area of Odisha and Andhra Pradesh after [&#8230;]
+
+Sun, 10 Dec 2023 08:30:02 +0000
+### [PM Modi to launch ‘Viksit Bharat @2047: Voice of Youth’ on Monday](https://theprint.in/india/pm-modi-to-launch-viksit-bharat-2047-voice-of-youth-on-monday/1880035/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 10 (PTI) Prime Minister Narendra Modi will launch &#8216;Viksit Bharat @2047: Voice of Youth&#8221; via video-conferencing on Monday. During the programme, Modi will also address vice-chancellors of universities, heads of institutes and faculty members in workshops organised at Raj Bhawans across the country, which will symbolise the start of the initiative, according [&#8230;]
+
+Sun, 10 Dec 2023 08:21:27 +0000
+### [Our take on the state elections, Nijjar-Pannun saga, COP28 – in 50 words](https://theprint.in/50-word-edit/our-take-on-the-state-elections-nijjar-pannun-saga-cop28-in-50-words/1879913/)
+
+Article found but Couldn't summarize 
+ThePrint view on the most important issues this week
+
+Sun, 10 Dec 2023 08:16:20 +0000
+### [Hope SC delivers verdict in favour of people of J&K: Ghulam Nabi Azad on Article 370 petitions](https://theprint.in/india/hope-sc-delivers-verdict-in-favour-of-people-of-jk-ghulam-nabi-azad-on-article-370-petitions/1880028/)
+
+Article found but Couldn't summarize 
+Srinagar, Dec 10 (PTI) Former Jammu and Kashmir chief minister Ghulam Nabi Azad expressed hope on Sunday that the Supreme Court will deliver a verdict in favour of the people here on a bunch of petitions challenging the abrogation of the provisions of Article 370 of the Constitution in 2019. &#8220;I have said it earlier [&#8230;]
+
+Sun, 10 Dec 2023 08:16:09 +0000
+### [Two boys die of electrocution](https://theprint.in/india/two-boys-die-of-electrocution/1880027/)
+
+Article found but Couldn't summarize 
+Bhubaneswar, Dec 10 (PTI) Two boys died of electrocution and another was injured in Odisha&#8217;s Sonepur district after they accidentally touched an electrical wire laid for poaching wild boars, police said. The two minor boys have been identified as Jeet Dungdung and Ramesh Dungdung of Hatlimunda village. The condition of Jeet’s father Naveen Dungdung, who [&#8230;]
+
+Sun, 10 Dec 2023 08:15:59 +0000
+### [Sibal slams BJP for boycotting Telangana MLAs’ oath-taking presided over by pro-tem speaker](https://theprint.in/india/sibal-slams-bjp-for-boycotting-telangana-mlas-oath-taking-presided-over-by-pro-tem-speaker/1880026/)
+
+Rajya Sabha MP Kapil Sibal criticized the BJP for boycotting the oath-taking ceremony of newly-elected legislators in Telangana. This boycott was due to the appointment of AIMIM MLA Akbaruddin Owaisi as the pro-tem speaker, which the BJP claimed violated rules. Sibal expressed concern about the "public expression of hate" and questioned the direction in which the country is heading. The Telangana Assembly session began with Owaisi being administered the oath by Governor Tamilisai Soundararajan as the pro-tem speaker. Union Minister and Telangana BJP chief G Kishan Reddy alleged that other senior members should have been chosen for this position.
+
+Sun, 10 Dec 2023 08:15:48 +0000
+### [Man brutally kills puppy in MP; CM Chouhan assures strict action](https://theprint.in/india/man-brutally-kills-puppy-in-mp-cm-chouhan-assures-strict-action/1880024/)
+
+Article found but Couldn't summarize 
+Bhopal, Dec 10 (PTI) A man allegedly killed a puppy brutally in Madhya Pradesh&#8217;s Guna district following which Chief Minister Shivraj Singh Chouhan termed it as an &#8220;act of barbarism&#8221; and assured strict action against the culprit. Chouhan&#8217;s assurance came after Union minister Jyotiraditya Scindia urged the CM to look into the matter. The incident [&#8230;]
+
+Sun, 10 Dec 2023 08:15:37 +0000
+### [BSP chief Mayawati declares nephew Akash Anand as ‘uttaradhikari’, says party leader](https://theprint.in/india/bsp-chief-mayawati-declares-nephew-akash-anand-as-uttaradhikari-says-party-leader/1880022/)
+
+Article found but Couldn't summarize 
+Lucknow, Dec 10 (PTI) BSP chief Mayawati on Sunday declared her nephew Akash Anand as her &#8220;uttaradhikari (heir)&#8221;, a party office-bearer said. &#8220;Akash (Anand) has been declared the &#8216;uttaradhikari (heir)&#8217; by Mayawatiji,&#8221; Udayveer Singh, the BSP&#8217;s Shahjahanpur district unit chief, told reporters. &#8220;He (Anand) has been given the responsibility to strengthen the party organisation all [&#8230;]
+
+Sun, 10 Dec 2023 08:15:37 +0000
+### [Argentine libertarian Milei to take presidency with economic crisis in focus](https://theprint.in/world/argentine-libertarian-milei-to-take-presidency-with-economic-crisis-in-focus/1880021/)
+
+Article found but Couldn't summarize 
+By Nicolás Misculin and Miguel Lo Bianco BUENOS AIRES (Reuters) - Argentina will swear in libertarian economist Javier Milei as president on Sunday in a sharp swerve for the South American country as
+
 Sun, 10 Dec 2023 08:15:05 +0000
 ### [UN chief urges leaders at COP28 to agree on deep cuts to emissions](https://theprint.in/world/un-chief-urges-leaders-at-cop28-to-agree-on-deep-cuts-to-emissions/1880015/)
 
