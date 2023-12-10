@@ -1,3 +1,21 @@
+Sun, 10 Dec 2023 09:32:33 +0530
+### [Don’t wash your chicken before cooking. Here’s why](https://www.firstpost.com/explainers/dont-wash-your-chicken-before-cooking-heres-why-13460072.html)
+
+Article found but Couldn't summarize 
+Don’t wash your chicken before cooking. Here’s why
+
+Sun, 10 Dec 2023 09:21:35 +0530
+### [This Week in Explainers: What are SPICE bombs being dropped on Gaza?](https://www.firstpost.com/explainers/this-week-in-explainers-what-are-spice-bombs-being-dropped-on-gaza-and-used-by-india-in-balakot-13482852.html)
+
+Article found but Couldn't summarize 
+This Week in Explainers: What are SPICE bombs being dropped on Gaza?
+
+Sun, 10 Dec 2023 08:54:43 +0530
+### [Egypt presidential elections 2023: Who are the key candidates in fray?](https://www.firstpost.com/explainers/egypt-presidential-elections-2023-who-are-the-key-candidates-in-fray-13484672.html)
+
+Article found but Couldn't summarize 
+Egypt presidential elections 2023: Who are the key candidates in fray?
+
 Sat, 09 Dec 2023 15:04:05 +0530
 ### [The rising threat of AI-powered apps that ‘undress’ women’s photos](https://www.firstpost.com/explainers/deepfakes-the-rising-threat-of-ai-powered-apps-that-undress-womens-photos-13484052.html)
 

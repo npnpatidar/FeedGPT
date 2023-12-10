@@ -5,6 +5,36 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Explain_FP.xml</link>
 		<description>Explain FP</description>
 		<item>
+			<title>Don’t wash your chicken before cooking. Here’s why</title>
+			<link>https://www.firstpost.com/explainers/dont-wash-your-chicken-before-cooking-heres-why-13460072.html</link>
+			<description>Article found but Couldn't summarize 
+Don’t wash your chicken before cooking. Here’s why</description>
+			<pubDate>Sun, 10 Dec 2023 09:32:33 +0530</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/12/chicken.jpg"></media:thumbnail>
+			<media:content url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/12/chicken.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>This Week in Explainers: What are SPICE bombs being dropped on Gaza?</title>
+			<link>https://www.firstpost.com/explainers/this-week-in-explainers-what-are-spice-bombs-being-dropped-on-gaza-and-used-by-india-in-balakot-13482852.html</link>
+			<description>Article found but Couldn't summarize 
+This Week in Explainers: What are SPICE bombs being dropped on Gaza?</description>
+			<pubDate>Sun, 10 Dec 2023 09:21:35 +0530</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/12/spice.jpg"></media:thumbnail>
+			<media:content url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/12/spice.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Egypt presidential elections 2023: Who are the key candidates in fray?</title>
+			<link>https://www.firstpost.com/explainers/egypt-presidential-elections-2023-who-are-the-key-candidates-in-fray-13484672.html</link>
+			<description>Article found but Couldn't summarize 
+Egypt presidential elections 2023: Who are the key candidates in fray?</description>
+			<pubDate>Sun, 10 Dec 2023 08:54:43 +0530</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/12/2023-10-02T100604Z_2131917012_RC29K3A9TF97_RTRMADP_3_EGYPT-ELECTION.jpg"></media:thumbnail>
+			<media:content url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/12/2023-10-02T100604Z_2131917012_RC29K3A9TF97_RTRMADP_3_EGYPT-ELECTION.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>The rising threat of AI-powered apps that ‘undress’ women’s photos</title>
 			<link>https://www.firstpost.com/explainers/deepfakes-the-rising-threat-of-ai-powered-apps-that-undress-womens-photos-13484052.html</link>
 			<description>Article found but Couldn't summarize 

@@ -1,3 +1,9 @@
+Sun, 10 Dec 2023 09:29:01 +0530
+### [India's quest for Assumption Island: How New Delhi's military base aspirations in Seychelles are at a crossroads](https://www.firstpost.com/opinion/indias-quest-for-assumption-island-how-new-delhis-military-base-aspirations-in-seychelles-are-at-a-crossroads-13485732.html)
+
+Article found but Couldn't summarize 
+India's quest for Assumption Island: How New Delhi's military base aspirations in Seychelles are at a crossroads
+
 Sat, 09 Dec 2023 18:05:56 +0530
 ### [Unleashing innovation: How technology companies in India are embracing carbon credits](https://www.firstpost.com/opinion/unleashing-innovation-how-technology-companies-in-india-are-embracing-carbon-credits-13484942.html)
 
