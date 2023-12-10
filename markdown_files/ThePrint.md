@@ -1,3 +1,56 @@
+Sun, 10 Dec 2023 19:00:03 +0000
+### [Delhi govt plans WhatsApp-based bus ticketing system](https://theprint.in/india/delhi-govt-plans-whatsapp-based-bus-ticketing-system/1880582/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 10 (PTI) The Delhi government is planning to launch a WhatsApp-based bus ticketing system in the national capital on the lines of the Delhi Metro, officials said.  They said the Transport Department of the city government is working on rolling out the digital ticketing system for DTC and cluster buses.  The Delhi [&#8230;]
+
+Sun, 10 Dec 2023 18:45:58 +0000
+### [Soccer-Tottenham end winless run as Richarlison hits two in Newcastle rout](https://theprint.in/sport/soccer-tottenham-end-winless-run-as-richarlison-hits-two-in-newcastle-rout/1880580/)
+
+Article found but Couldn't summarize 
+By Martyn Herman LONDON (Reuters) - Tottenham Hotspur secured a first Premier League win since October as Brazilian striker Richarlison also returned to form with two goals in a 4-1 drubbing of a
+
+Sun, 10 Dec 2023 18:45:41 +0000
+### [Zelenskiy seen briefly talking to Hungary’s Orban in Argentina](https://theprint.in/world/zelenskiy-seen-briefly-talking-to-hungarys-orban-in-argentina/1880578/)
+
+Article found but Couldn't summarize 
+BUENOS AIRES/KYIV (Reuters) - Ukrainian President Volodymyr Zelenskiy and Hungarian Prime Minister Viktor Orban spoke briefly while attending the inauguration of Argentine President Javier Milei on
+
+Sun, 10 Dec 2023 18:45:31 +0000
+### [Egyptians vote in presidential election overshadowed by Gaza war](https://theprint.in/world/egyptians-vote-in-presidential-election-overshadowed-by-gaza-war/1880576/)
+
+As GPT-3.5, I can provide a summary of the article you shared. Egyptians have started voting in a presidential election that is expected to give Abdel Fattah al-Sisi a third term in power. The country is facing economic challenges and a conflict on its border with Gaza. If Sisi wins, his immediate priorities would be addressing inflation, managing the foreign currency shortage, and preventing spillover from the Israel-Gaza conflict. Voting will take place over three days, and results will be announced on December 18. Critics view the election as a sham due to a crackdown on dissent. Sisi led the ousting of Egypt's first democratically elected president in 2013 and has since overseen a crackdown on activists. Despite economic pressures, some voters support Sisi for providing security and stability. The election campaign has been low-key, and some analysts believe it was brought forward to implement economic changes. The International Monetary Fund is in talks with Egypt for additional financing.
+
+Sun, 10 Dec 2023 18:45:25 +0000
+### [Fire at landless workers’ movement camp in Brazil leaves nine dead](https://theprint.in/world/fire-at-landless-workers-movement-camp-in-brazil-leaves-nine-dead/1880575/)
+
+Article found but Couldn't summarize 
+SAO PAULO (Reuters) - A fire in a camp belonging to Brazil's Landless Workers' Movement MST in the northern state of Para killed nine people and left eight injured on Saturday night, the movement said
+
+Sun, 10 Dec 2023 18:45:15 +0000
+### [African mediators claim progress in efforts to end Sudan’s war](https://theprint.in/world/african-mediators-claim-progress-in-efforts-to-end-sudans-war/1880573/)
+
+Article found but Couldn't summarize 
+CAIRO (Reuters) -An African regional body involved in efforts to mediate over the war in Sudan says it has secured a commitment from warring parties to implement a ceasefire and to hold a political
+
+Sun, 10 Dec 2023 18:45:15 +0000
+### [Congress workers throw shoes at Kerala CM’s convoy](https://theprint.in/india/congress-workers-throw-shoes-at-kerala-cms-convoy/1880572/)
+
+Article found but Couldn't summarize 
+Kochi, Dec 10 (PTI) The workers of Kerala Students&#8217; Union (KSU), the student wing of the Congress party, on Sunday allegedly threw shoes at the convoy of Chief Minister Pinarayi Vijayan, while it was was on its way to Kothamangalam from Perumbavoor. Soon after the incident, television channels showed the visuals of police using canes [&#8230;]
+
+Sun, 10 Dec 2023 18:45:04 +0000
+### [Blinken: Israel should do more to protect Gaza civilians](https://theprint.in/world/blinken-israel-should-do-more-to-protect-gaza-civilians/1880570/)
+
+Article found but Couldn't summarize 
+By David Morgan WASHINGTON (Reuters) -U.S. Secretary of State Anthony Blinken urged Israel to do more to protect Palestinian civilians in its war with Hamas on Sunday, as Israeli tanks fought their
+
+Sun, 10 Dec 2023 18:45:02 +0000
+### [Fake and completely fabricated: MEA on report claiming ‘secret memo’ targeting Sikh separatists](https://theprint.in/india/fake-and-completely-fabricated-mea-on-report-claiming-secret-memo-targeting-sikh-separatists/1880569/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 10 (PTI) India on Sunday night described as &#8220;fake&#8221; and &#8220;completely fabricated&#8221; a media report which claimed that a &#8220;secret memo&#8221; was issued by New Delhi in April to take &#8220;concrete&#8221; measures against certain Sikh separatists including Hardeep Singh Nijjar. External Affairs Ministry spokesperson Arindam Bagchi said the report is part of [&#8230;]
+
 Sun, 10 Dec 2023 18:17:01 +0000
 ### [Two-day Sahithyotsav Jashn-e-Adab fest begins in Shimla](https://theprint.in/feature/two-day-sahithyotsav-jashn-e-adab-fest-begins-in-shimla/1880557/)
 

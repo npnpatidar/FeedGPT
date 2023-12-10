@@ -1,3 +1,15 @@
+Mon, 11 Dec 2023 00:20:00 +0530
+### [Bad precedent: On the expulsion of Trinamool Congress Member of Parliament Mahua Moitra](https://www.thehindu.com/opinion/editorial/bad-precedent-the-hindu-editorial-on-the-expulsion-of-trinamool-congress-member-of-parliament-mahua-moitra/article67624791.ece)
+
+Article found but Couldn't summarize 
+The expulsion of Mahua Moitra is ominous for parliamentary democracy
+
+Mon, 11 Dec 2023 00:10:00 +0530
+### [Falling behind: On Monetary Policy Committee and inflation](https://www.thehindu.com/opinion/editorial/falling-behind-the-hindu-editorial-on-monetary-policy-committee-and-inflation/article67624450.ece)
+
+Article found but Couldn't summarize 
+Dissonance in RBI’s inflation messaging betrays risks in its policy posture
+
 Sat, 09 Dec 2023 00:20:00 +0530
 ### [Invidious divide: On political discussions](https://www.thehindu.com/opinion/editorial/invidious-divide-the-hindu-editorial-on-political-discussions/article67618522.ece)
 
