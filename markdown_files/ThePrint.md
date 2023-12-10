@@ -1,3 +1,21 @@
+Sun, 10 Dec 2023 19:47:02 +0000
+### [India rejects ‘secret memo report’ over launch of crackdown against Khalistani terrorists, calls it “fake and fabricated”](https://theprint.in/world/india-rejects-secret-memo-report-over-launch-of-crackdown-against-khalistani-terrorists-calls-it-fake-and-fabricated/1880590/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 11 (ANI): India has rejected reports regarding a memo claiming that the Indian government ordered consulates in Northern America to launch a &#8220;crackdown scheme&#8221; against Khalistani terrorists in Western nations, calling it &#8220;fake and completely fabricated,&#8221; Ministry of External Affairs official spokesperson Arindam Bagchi said on Sunday. Reacting to reports of [&#8230;]
+
+Sun, 10 Dec 2023 19:32:02 +0000
+### [India rejects ‘secret memo report’ over launch of crackdown against Khalistani terrorists, call it “fake and fabricated”](https://theprint.in/world/india-rejects-secret-memo-report-over-launch-of-crackdown-against-khalistani-terrorists-call-it-fake-and-fabricated/1880587/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 11 (ANI): India has rejected reports regarding a memo claiming that the Indian government ordered consulates in Northern America to launch a &#8220;crackdown scheme&#8221; against Khalistani terrorists in Western nations, calling it &#8220;fake and completely fabricated,&#8221; Ministry of External Affairs official spokesperson Arindam Bagchi said on Sunday. Reacting to reports of [&#8230;]
+
+Sun, 10 Dec 2023 19:15:04 +0000
+### [Argentina’s dog-loving President Milei greets canine fan after inauguration](https://theprint.in/world/argentinas-dog-loving-president-milei-greets-canine-fan-after-inauguration/1880585/)
+
+Article found but Couldn't summarize 
+By Lucila Sigal BUENOS AIRES (Reuters) - Argentina's newly sworn in President Javier Milei, who famously has cloned dogs he calls his "kids with four paws", ordered his motorcade to stop unexpectedly
+
 Sun, 10 Dec 2023 19:00:03 +0000
 ### [Delhi govt plans WhatsApp-based bus ticketing system](https://theprint.in/india/delhi-govt-plans-whatsapp-based-bus-ticketing-system/1880582/)
 
