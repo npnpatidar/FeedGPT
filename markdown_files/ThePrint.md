@@ -1,3 +1,33 @@
+Sun, 10 Dec 2023 02:30:03 +0000
+### [Rajput leader’s murder: Two shooters among three held in Chandigarh](https://theprint.in/india/rajput-leaders-murder-two-shooters-among-three-held-in-chandigarh/1879753/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 10 (PTI) In a joint operation with the Rajasthan Police, the Delhi Police Crime Branch has arrested three men, including two shooters, from Chandigarh for their alleged involvement in the killing of Shri Rashtriya Rajput Karni Sena chief Sukhdev Singh Gogamedi, officials said Sunday. Gogamedi was gunned down in the living room [&#8230;]
+
+Sun, 10 Dec 2023 02:15:03 +0000
+### [Philippines says China rammed, water cannoned resupply vessels](https://theprint.in/world/philippines-says-china-rammed-water-cannoned-resupply-vessels/1879752/)
+
+Article found but Couldn't summarize 
+MANILA (Reuters) - A Philippine coastguard official on Sunday accused China of firing water cannon and ramming its resupply vessels in the South China Sea, with one of the ships suffering "serious
+
+Sun, 10 Dec 2023 02:00:19 +0000
+### [Why Senthilkumar, DMK MP who made ‘gaumutra states’ remark, is ‘repeat offender’ in eyes of BJP](https://theprint.in/politics/why-senthilkumar-dmk-mp-who-made-gaumutra-states-remark-is-repeat-offender-in-eyes-of-bjp/1879451/)
+
+Article found but Couldn't summarize 
+Tamil Nadu BJP calls Senthilkumar ‘repeat offender’, demands apology from MK Stalin over DMK MP referring to Hindi heartland as ‘gaumutra states’ during debate in Parliament.
+
+Sun, 10 Dec 2023 01:47:02 +0000
+### [Hamas members beat civilians, steal humanitarian aid received from int’l organisations: Israel Defence Forces](https://theprint.in/world/hamas-members-beat-civilians-steal-humanitarian-aid-received-from-intl-organisations-israel-defence-forces/1879750/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], December 10 (ANI): Israel Defence Forces (IDF) on Sunday accused Hamas terrorists of beating civilians and stealing the humanitarian aid that Gaza received from international organisations. The IDF stated that Hamas puts its terrorist goals over the needs of Gaza residents. IDF shared a video on X that showed people getting beaten [&#8230;]
+
+Sun, 10 Dec 2023 01:32:02 +0000
+### [India has adopted holistic approach towards conservation, accelerating ecosystem restoration: Union Environment Minister](https://theprint.in/world/india-has-adopted-holistic-approach-towards-conservation-accelerating-ecosystem-restoration-union-environment-minister/1879748/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 10 (ANI): Union Minister for Environment, Forest and Climate Change Bhupendra Yadav said that India has adopted a holistic approach towards conservation. He stated that India is not just focused on reducing emissions to tackle the temperature rise but also working towards arresting land degradation, accelerating ecosystem restoration and enriching biodiversity. While [&#8230;]
+
 Sun, 10 Dec 2023 01:15:12 +0000
 ### [Venezuela and Guyana to meet on December 14 amid territorial dispute](https://theprint.in/world/venezuela-and-guyana-to-meet-on-december-14-amid-territorial-dispute/1879746/)
 

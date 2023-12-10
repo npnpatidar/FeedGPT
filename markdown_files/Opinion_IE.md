@@ -1,3 +1,28 @@
+Sun, 10 Dec 2023 02:15:23 +0000
+### [When Indians left their footprint on Antarctica](https://indianexpress.com/article/opinion/columns/when-indians-left-their-footprint-on-antarctica-9061640/)
+
+GPT-3.5: In 1981, a scientific expedition called 'Operation Gangotri' was conducted by India to Antarctica. The crew, consisting of scientists, technicians, and Navy personnel, set sail from Goa and reached Queen Maud Land on January 9, 1982. They hoisted the Indian flag, marking India's first venture into Antarctica. The expedition lasted for 77 days, covering a distance of over 21,000 km. India's engagement with Antarctica began in 1956 when it proposed the peaceful use of the continent's resources. In 1959, the Antarctic Treaty was signed by 12 countries, including India, which prohibited military activity and emphasized peaceful purposes and scientific research. India's involvement in Antarctic research continued, with individuals like Dr. Parmjit Singh Sehra becoming the first Indian to circumnavigate Antarctica and winter-over at the South Pole. The expedition 'Operation Gangotri' was initiated under the leadership of former Prime Minister Indira Gandhi, and it was kept secret until its successful completion. The expedition received attention from the international press, raising questions about India's intentions in Antarctica.
+
+Sun, 10 Dec 2023 02:00:15 +0000
+### [Tavleen Singh writes: Time to end reservations](https://indianexpress.com/article/opinion/columns/reservations-caste-census-india-coalition-9061631/)
+
+Article found but Couldn't summarize
+
+Sun, 10 Dec 2023 01:43:18 +0000
+### [A world full of mistrust](https://indianexpress.com/article/opinion/columns/oxford-dictionary-word-year-rizz-world-full-mistrust-9061643/)
+
+Article found but Couldn't summarize
+
+Sun, 10 Dec 2023 01:35:50 +0000
+### [In Ambedkar’s treatise on rupee, a clear-eyed vision](https://indianexpress.com/article/opinion/columns/in-ambedkars-treatise-on-rupee-a-clear-eyed-vision-9061636/)
+
+Article found but Couldn't summarize
+
+Sun, 10 Dec 2023 01:30:21 +0000
+### [P Chidambaram writes | Caution: Mind the Gap](https://indianexpress.com/article/opinion/columns/caution-mind-the-gap-9061630/)
+
+The recent state elections in India have generated a lot of noise and reactions from various political parties. The calmness observed after the election results were announced is quite unusual, and it could either indicate mature behavior among rival parties or nonchalance on the part of the Congress, which is a matter of concern. In Chhattisgarh, the BJP emerged as the winner with a significant margin of 54 seats to 35, contrary to the initial expectations that the Congress would claim the state
+
 Sat, 09 Dec 2023 13:17:52 +0000
 ### [From Archies to ‘The Archies’: Why must we wokewash classics?](https://indianexpress.com/article/opinion/columns/from-archies-to-the-archies-why-must-we-wokewash-classics-9061445/)
 
