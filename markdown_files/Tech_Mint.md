@@ -1,3 +1,9 @@
+Sun, 10 Dec 2023 22:00:41 +0530
+### [Columbia University is Ivy League, not an ivory tower: president Minouche Shafik](https://www.livemint.com/technology/columbia-university-is-ivy-league-not-an-ivory-tower-president-minouche-shafik-11702225381429.html)
+
+Article found but Couldn't summarize 
+Shafik is certain that universities can bring solutions to many of the world’s problems—from affordable technologies that can tackle climate change, to using AI to speed up drug development for various ailments
+
 Sun, 10 Dec 2023 10:08:20 +0530
 ### [Weekly Tech Recap: From Google Gemini announcement to GTA 6 trailer; a look at top tech news of the week](https://www.livemint.com/technology/tech-news/weekly-tech-recap-from-google-gemini-announcement-to-gta-6-trailer-a-look-at-top-tech-news-of-the-week-11702176583661.html)
 

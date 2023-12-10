@@ -1,3 +1,9 @@
+Sun, 10 Dec 2023 22:39:19 +0530
+### [Which financial products should you be wary of?](https://www.livemint.com/opinion/columns/which-financial-products-should-you-be-wary-of-11702227793855.html)
+
+Article found but Couldn't summarize 
+For most people, diversified equity funds, PF, and NPS are enough for the long term
+
 Fri, 08 Dec 2023 23:33:24 +0530
 ### [MPC alters tone, embracing growth optimism for FY24](https://www.livemint.com/opinion/columns/mpc-alters-tone-embracing-growth-optimism-for-fy24-11702058280963.html)
 

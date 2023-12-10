@@ -1,3 +1,9 @@
+Sun, 10 Dec 2023 22:30:15 +0530
+### [On the listing of cases in the Supreme Court | Explained](https://www.thehindu.com/news/national/on-the-listing-of-cases-in-the-supreme-court-explained/article67625314.ece)
+
+Article found but Couldn't summarize 
+What do the two open letters penned separately by senior lawyers Dushyant Dave and Prashant Bhushan state? Has the top court responded to these letters? What role does the Chief Justice of India have in allocating cases to different Benches?
+
 Sun, 10 Dec 2023 20:33:18 +0530
 ### [The three Bills on reservation in Jammu & Kashmir | Explained](https://www.thehindu.com/news/national/the-three-bills-on-reservation-in-jammu-kashmir-explained/article67098856.ece)
 
