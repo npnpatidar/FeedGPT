@@ -1,3 +1,119 @@
+Sun, 10 Dec 2023 18:17:01 +0000
+### [Two-day Sahithyotsav Jashn-e-Adab fest begins in Shimla](https://theprint.in/feature/two-day-sahithyotsav-jashn-e-adab-fest-begins-in-shimla/1880557/)
+
+Article found but Couldn't summarize 
+Shimla (Himachal Pradesh) [India], December 10 (ANI): A two-day literary and cultural festival kickstarted in Shimla on Sunday. The two-day Sahithyotsav Jashn-e-Adab cultural Kaarva&#8217;n Virasat event is being held in the hill resort. The event was graced by Padma Shri award winners including Surendra Sharma (grandfather of comedy), Legendary Padma Shri Professor Ashok Chakradhar, Padma [&#8230;]
+
+Sun, 10 Dec 2023 18:15:14 +0000
+### [J-K Police chief visits family of cop killed in terror attack](https://theprint.in/india/j-k-police-chief-visits-family-of-cop-killed-in-terror-attack/1880554/)
+
+Jammu and Kashmir Police Chief R R Swain visited the family of Inspector Masroor Ahmad Wani, who sadly passed away due to gunshot wounds sustained in a terror attack. Accompanied by other officers, Swain expressed condolences and assured the family that the sacrifice of the martyr will be remembered for years to come. Wani was shot by a Lashkar-e-Taiba terrorist while playing cricket in Srinagar in October and later died at a hospital in Delhi. Swain also visited the Military Hospital to inquire about the health of the injured policeman Mohammad Hafeez, who was fired upon by terrorists.
+
+Sun, 10 Dec 2023 18:15:13 +0000
+### [Soccer-Man City beat Luton to get back on track, Everton down Chelsea](https://theprint.in/sport/soccer-man-city-beat-luton-to-get-back-on-track-everton-down-chelsea/1880553/)
+
+Article found but Couldn't summarize 
+LUTON, England (Reuters) - Manchester City proved that talk of their demise was premature as the champions climbed back to within four points of leaders Liverpool in the table with a much-needed 2-1
+
+Sun, 10 Dec 2023 18:15:02 +0000
+### [Tax consultant, aide hire goons to kill businessman in Thane; held](https://theprint.in/india/tax-consultant-aide-hire-goons-to-kill-businessman-in-thane-held/1880552/)
+
+Article found but Couldn't summarize 
+Thane, Dec 10 (PTI) A 40-year-old tax consultant and his accomplice were arrested in connection with the brutal murder of a 55-year-old businessman in Thane city of Maharashtra, police said on Sunday. According to police, the main accused had borrowed Rs 1.5 crore from the victim and didn&#8217;t want to repay the money. &#8220;The main [&#8230;]
+
+Sun, 10 Dec 2023 18:02:27 +0000
+### [Jailed activist Narges Mohammadi decries “tyrannical” Iranian regime in Nobel acceptance speech](https://theprint.in/world/jailed-activist-narges-mohammadi-decries-tyrannical-iranian-regime-in-nobel-acceptance-speech/1880546/)
+
+Article found but Couldn't summarize 
+Oslo [Norway], December 10 (ANI): A strong message against the &#8220;tyrannical&#8221; and &#8220;despotic religious government&#8221; of Iran echoed in Oslo on Sunday, as the children of jailed Iranian human rights activist Narges Mohammadi delivered her message while accepting the Nobel Peace Prize on her behalf, New York Times reported. Since Mohammadi (51) is incarcerated inside [&#8230;]
+
+Sun, 10 Dec 2023 18:02:13 +0000
+### [Centre issues notice to Shah Rukh Khan, Akshay Kumar, Ajay Devgn over misleading gutka ads](https://theprint.in/feature/centre-issues-notice-to-shah-rukh-khan-akshay-kumar-ajay-devgn-over-misleading-gutka-ads/1880544/)
+
+Article found but Couldn't summarize 
+Lucknow [UP], [India] December 10 (ANI): In a case of alleged misleading advertisements, the Centre has issued a notice to the gutkha companies and actors Shah Rukh Khan, Ajay Devgn, and Akshay Kumar. Earlier, in the PIL against several actors for these advertisements, the Allahabad HC has given two directions to the Centre: First, a [&#8230;]
+
+Sun, 10 Dec 2023 18:02:02 +0000
+### [UAEU organises seminar on water security under conditions of climate change in UAE at COP28](https://theprint.in/world/uaeu-organises-seminar-on-water-security-under-conditions-of-climate-change-in-uae-at-cop28/1880542/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 10 (ANI/WAM): The UAE University (UAEU) hosted a seminar titled &#8220;Water Security under Climate Change Conditions in the UAE: Challenges and Opportunities&#8221; in cooperation with Trends Research Advisory at COP28 in Expo Dubai. Dr. Muhammad Al-Ali, CEO of Trends Research Advisory, lauded the productive partnership between the two institutions, highlighting their commitment [&#8230;]
+
+Sun, 10 Dec 2023 18:00:03 +0000
+### [Rajasthan: Cong MLA Ramkesh Meena urges BJP to appoint Kirodi Meena as CM](https://theprint.in/india/rajasthan-cong-mla-ramkesh-meena-urges-bjp-to-appoint-kirodi-meena-as-cm/1880540/)
+
+Congress MLA and Rajasthan Adivasi Meena Seva Sangh president Ramkesh Meena has written to the BJP leadership, asking them to appoint tribal leader Kirodi Lal Meena as the Chief Minister of Rajasthan. Ramkesh Meena, who is also the president of the adivasi sangh, has sent letters to Prime Minister Narendra Modi, Home Minister Amit Shah, and BJP chief JP Nadda expressing the community's desire for Kirodi Meena to be given the CM post. He emphasized Kirodi Meena's struggles and leadership in various movements. The BJP won 115 seats in the recent elections, but the decision on the CM face is yet to be made. Three observers, including Defense Minister Rajnath Singh, have been appointed to oversee the BJP legislature party meeting.
+
+Sun, 10 Dec 2023 17:47:11 +0000
+### [COP28 surpasses expectations with daily successes: UAE’s Permanent Representative to IRENA](https://theprint.in/world/cop28-surpasses-expectations-with-daily-successes-uaes-permanent-representative-to-irena/1880534/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 10 (ANI/WAM): The Permanent Representative of the UAE to the International Renewable Energy Agency (IRENA), Nawal Al Hosany, said that the 28th United Nations Conference of the Parties (COP28) has exceeded expectations in terms of financial commitments and global pledges that support global climate and environmental action. In statements to the Emirates [&#8230;]
+
+Sun, 10 Dec 2023 17:47:02 +0000
+### [UAE’s Paralympic’s Alaryani wins gold medal at Paralympic Shooting World Championship in Al Ain](https://theprint.in/world/uaes-paralympics-alaryani-wins-gold-medal-at-paralympic-shooting-world-championship-in-al-ain/1880532/)
+
+Abdulla Sultan Alaryani, a Paralympic shooting star from the UAE, has recently won a gold medal in the men's 50m rifle, 3 positions SH1 event at the Paralympic Shooting World Championship in Al Ain. He achieved an impressive score of 452.3 points, securing victory. The championship, held at the Al Ain Equestrian, Shooting Golf Club, features 213 athletes from 20 nations. It is organized by the Zayed Higher Organisation for People of Determination, in collaboration with the International Paralympic Shooting Federation and the International Paralympic Committee.
+
+Sun, 10 Dec 2023 17:45:46 +0000
+### [Conspiracy theorist Alex Jones reinstated on X after Musk poll](https://theprint.in/tech/conspiracy-theorist-alex-jones-reinstated-on-x-after-musk-poll/1880530/)
+
+Article found but Couldn't summarize 
+By Mrinmay Dey and Jyoti Narayan (Reuters) -Social media platform X, formerly known as Twitter, on Sunday showed the account of U.S. right-wing conspiracy theorist Alex Jones to have been reinstated
+
+Sun, 10 Dec 2023 17:45:31 +0000
+### [Sudan’s army says Red Cross staff wounded as convoy comes under fire](https://theprint.in/world/sudans-army-says-red-cross-staff-wounded-as-convoy-comes-under-fire/1880529/)
+
+Several staff members from the International Committee of the Red Cross (ICRC) were injured in Sudan when their convoy, which was evacuating civilians from St. Mary's Church in Khartoum, came under fire. The Sudanese army claimed that the convoy violated an agreement by approaching their defensive positions in a car belonging to the rebel group known as the Rapid Support Forces (RSF). However, the RSF accused the army of attacking the convoy, resulting in both deaths and injuries. The ICRC confirmed the incident but was unable to provide further details. This report was generated from the Reuters news service.
+
+Sun, 10 Dec 2023 17:45:18 +0000
+### [UP: Three of family die after car hits people waiting for bus on expressway, 6 others injured](https://theprint.in/india/up-three-of-family-die-after-car-hits-people-waiting-for-bus-on-expressway-6-others-injured/1880527/)
+
+Article found but Couldn't summarize 
+Auraiya (UP), Dec 10 (PTI) Three persons of a family were killed and six others were injured when they were hit by a car while waiting for a bus on the Lucknow-Agra expressway on Sunday, police said. According to police, the deceased along with other family members were on their way to attend a marriage [&#8230;]
+
+Sun, 10 Dec 2023 17:45:16 +0000
+### [Around 4,000 march in Brussels against antisemitism](https://theprint.in/world/around-4000-march-in-brussels-against-antisemitism/1880526/)
+
+Article found but Couldn't summarize 
+BRUSSELS (Reuters) - Thousands of people demonstrated in Brussels on Sunday against antisemitism amid concern in Belgium's Jewish community over the rising number of antisemitic incidents in Europe
+
+Sun, 10 Dec 2023 17:45:04 +0000
+### [OPEC pursues charm offensive at COP28, for youths](https://theprint.in/world/opec-pursues-charm-offensive-at-cop28-for-youths/1880525/)
+
+Article found but Couldn't summarize 
+By Valerie Volcovici DUBAI (Reuters) - Oil producer group OPEC held an event on the sidelines of the COP28 negotiations in Dubai on Sunday aimed at convincing young people to support fossil fuels,
+
+Sun, 10 Dec 2023 17:45:02 +0000
+### [Tech transfer, finance for industry transition remains a challenge: Bhupender Yadav](https://theprint.in/world/tech-transfer-finance-for-industry-transition-remains-a-challenge-bhupender-yadav/1880524/)
+
+Article found but Couldn't summarize 
+Dubai, Dec 10 (PTI) Technology transfer and finance for low-carbon transition of hard to abate sectors like iron, steel, cement, and transport remains a challenge, Environment Minister Bhupender Yadav said at the UN climate talks on Sunday. Addressing an event, he said the global industrial landscape has seen a significant shift since the launch of [&#8230;]
+
+Sun, 10 Dec 2023 17:32:12 +0000
+### [Buckingham Palace releases Christmas card 2023 as part of UK’s royal tradition](https://theprint.in/world/buckingham-palace-releases-christmas-card-2023-as-part-of-uks-royal-tradition/1880521/)
+
+Article found but Couldn't summarize 
+London [UK], December 10 (ANI): As Christmas is approaching, Buckingham Palace has recently released an image of the Christmas card this year that has a picture of King Charles III and Queen Camilla, CNN reported. This will be the Christmas card that King Charles III and Queen Camilla will notably be sending out this year. [&#8230;]
+
+Sun, 10 Dec 2023 17:32:02 +0000
+### [Egyptian Pavilion at COP28 hosts session on food security in light of climate change](https://theprint.in/world/egyptian-pavilion-at-cop28-hosts-session-on-food-security-in-light-of-climate-change/1880518/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 10 (ANI/WAM): The Egyptian pavilion at COP28 hosted a session titled &#8220;Food Security in Light of Climate Change&#8221;, focusing on agriculture, water, and food-related issues. The session served as the culmination of the thematic days observed throughout the conference. Food and economics experts from Egyptian universities participated in a stimulating discussion on [&#8230;]
+
+Sun, 10 Dec 2023 17:30:26 +0000
+### [Corruption has no place in country’s present ecosystem: Vice President](https://theprint.in/india/corruption-has-no-place-in-countrys-present-ecosystem-vice-president/1880517/)
+
+Article found but Couldn't summarize 
+Dhanbad (Jharkhand), Dec 10 (PTI) Vice President Jagdeep Dhankhar on Sunday said that corruption has no place in the present ecosystem of the country. He said corruption is no longer a means to get favours in the country. &#8220;It is very clear that there is no place for corruption in the country&#8217;s ecosystem. It is [&#8230;]
+
+Sun, 10 Dec 2023 17:30:14 +0000
+### [Back-to-back matches tough on body, but important win ahead of Test: Smriti Mandhana](https://theprint.in/sport/back-to-back-matches-tough-on-body-but-important-win-ahead-of-test-smriti-mandhana/1880516/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 10 (PTI) Indian opener Smriti Mandhana on Sunday admitted that playing back-to-back matches was tough, but termed the consolation win over England in the third and final T20I on Sunday as a good stepping stone ahead of the one-off Test. Riding on Mandhana’s run-a-ball 48, India beat England by five wickets and they [&#8230;]
+
 Sun, 10 Dec 2023 17:02:30 +0000
 ### [UAE: 14th Annual Sir Bani Yas Forum concludes in Dubai](https://theprint.in/world/uae-14th-annual-sir-bani-yas-forum-concludes-in-dubai/1880468/)
 

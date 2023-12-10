@@ -1,3 +1,27 @@
+Sun, 10 Dec 2023 22:59:46 +0530
+### [Heavier risk weights can’t save lenders from every fire](https://www.livemint.com/opinion/online-views/heavier-risk-weights-can-t-save-lenders-from-every-fire-11702208874692.html)
+
+Article found but Couldn't summarize 
+Consumer lending has seen risks but bigger capital buffers, as RBI has asked for, may not be a solution to that problem.
+
+Sun, 10 Dec 2023 22:56:22 +0530
+### [Google’s Gemini looks impressive but still trails](https://www.livemint.com/opinion/online-views/googles-gemini-looks-impressive-but-still-trails-11702208767034.html)
+
+Article found but Couldn't summarize 
+While Google's search business faces a threat from AI-powered aides, overtaking OpenAI's ChatGPT upgradations won't be easy.
+
+Sun, 10 Dec 2023 22:53:14 +0530
+### [The MPC’s ‘If it ain’t broke, don’t fix it’ rate decision has its merits](https://www.livemint.com/opinion/online-views/the-mpc-s-if-it-ain-t-broke-don-t-fix-it-rate-decision-has-its-merits-11702208684849.html)
+
+Article found but Couldn't summarize 
+Credit for India's happy mix of inflation and growth should be shared by RBI's rate-setting panel and the Union government. The centre's supply-side measures have helped the central bank do its job.
+
+Sun, 10 Dec 2023 22:49:26 +0530
+### [A censor board for OTT platforms? Think again.](https://www.livemint.com/opinion/online-views/a-censor-board-for-ott-platforms-think-again-11702208615580.html)
+
+Article found but Couldn't summarize 
+Content filters could suffocate entertainment and come to prove counter-productive for the government. Quality entertainment needs a mature audience as well as mature governance.
+
 Sun, 10 Dec 2023 22:39:19 +0530
 ### [Which financial products should you be wary of?](https://www.livemint.com/opinion/columns/which-financial-products-should-you-be-wary-of-11702227793855.html)
 
