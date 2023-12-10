@@ -1,3 +1,118 @@
+Sun, 10 Dec 2023 11:02:12 +0000
+### [“When the son insists…”: Genelia shares adorable video of Riteish, son](https://theprint.in/feature/when-the-son-insists-genelia-shares-adorable-video-of-riteish-son/1880135/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 10 (ANI): Actor Genelia Deshmukh treated fans with an adorable video of Riteish giving a hair makeover to his son. Taking to Instagram story, Genelia shared a beautiful video of father-son bonding. In the video, Riteish can be seen trimming Sharing the video, &#8220;When the son insists his baba has to [&#8230;]
+
+Sun, 10 Dec 2023 11:02:02 +0000
+### [‘Dune 3’ screenplay is almost finished: Denis Villeneuve opens up](https://theprint.in/feature/dune-3-screenplay-is-almost-finished-denis-villeneuve-opens-up/1880133/)
+
+Article found but Couldn't summarize 
+Washington [US], December 10 (ANI): After kicking around a few different release dates, director Denis Villeneuve has high expectations for &#8216;Dune: Part Two&#8217;, which is presently slated for March 1, 2024. Villeneuve, however, hinted at more to come during a press conference in South Korea, saying he is nearly done with the script for a [&#8230;]
+
+Sun, 10 Dec 2023 11:00:53 +0000
+### [Wanted cow smuggler arrested in UP’s Sonbhadra](https://theprint.in/india/wanted-cow-smuggler-arrested-in-ups-sonbhadra/1880132/)
+
+Article found but Couldn't summarize 
+Sonbhadra, Dec 10 (PTI) A wanted cow smuggler was arrested following an encounter with police from the Rajkharh Valley area here in Uttar Pradesh on Sunday, an official said. Police had announced a reward of Rs 15,000 for information leading to Millat Ansari&#8217;s arrest. Superintendent of Police (SP) Yashveer Singh said early Sunday, two men [&#8230;]
+
+Sun, 10 Dec 2023 11:00:43 +0000
+### [Punjab: Kejriwal, Mann launch scheme to deliver services at people’s doorstep](https://theprint.in/india/punjab-kejriwal-mann-launch-scheme-to-deliver-services-at-peoples-doorstep/1880131/)
+
+Article found but Couldn't summarize 
+Ludhiana, Dec 10 (PTI) AAP national convenor Arvind Kejriwal and Punjab Chief Minister Bhagwant Mann launched the &#8220;Bhagwant Mann Sarkar Tuhade Dwar&#8221; scheme, aimed at providing citizen-centric services to people at their doorstep, on Sunday. Under the scheme, people will get 43 services, including issuance of certificates of birth, marriage, death, income, residence, caste, rural [&#8230;]
+
+Sun, 10 Dec 2023 11:00:32 +0000
+### [Carbon tax turns into climate fight at COP28](https://theprint.in/world/carbon-tax-turns-into-climate-fight-at-cop28/1880130/)
+
+The European Union's plan to impose a tax on carbon pollution emitted during the production of goods imported from countries like India and China has sparked a debate at the United Nations climate conference in Dubai. The tax, known as the Carbon Border Adjustment Mechanism (CBAM), aims to set a price on carbon emissions associated with energy-intensive products. The EU argues that this creates a level playing field for domestically-manufactured goods and reduces emissions from imports. However, developing countries are concerned that the tax will harm their economies and make trading with the EU too expensive. The EU sees CBAM as crucial for funding and achieving its climate goal of reducing emissions by 55% by 2030. A recent study by the United Nations Conference on Trade and Development found that a carbon tax of $44 per tonne could cut pollution from the supply chain in half. However, it also estimated that poorer countries could lose up to $5.9 billion, while rich countries could make $2.5 billion from the tax. India's government strongly opposes the idea of a carbon tax, although some experts believe that it could have a positive impact in the long run by reducing emissions.
+
+Sun, 10 Dec 2023 11:00:22 +0000
+### [Want to gift my parents their dream car, says overwhelmed Vrinda Dinesh](https://theprint.in/sport/want-to-gift-my-parents-their-dream-car-says-overwhelmed-vrinda-dinesh/1880129/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 10 (PTI) It was a red-letter day for Vrinda Dinesh having hit the WPL pay-dirt with a whopping Rs 1.30 crore deal but still the 22-year-old couldn&#8217;t muster enough courage to call her mother as she would be overwhelmed and emotional in equal measure. Vrinda on Saturday became the second-highest paid uncapped Indian [&#8230;]
+
+Sun, 10 Dec 2023 11:00:12 +0000
+### [Vishnu Deo Sai to be Chhattisgarh CM; BJP’s tribal face whom Shah promised to make a ‘big man’](https://theprint.in/india/vishnu-deo-sai-to-be-chhattisgarh-cm-bjps-tribal-face-whom-shah-promised-to-make-a-big-man/1880128/)
+
+Article found but Couldn't summarize 
+Raipur, Dec 10 (PTI) Vishnu Deo Sai, a prominent tribal face of the Bharatiya Janata Party in Chhattisgarh, will be state chief minister after he was elected as leader of BJP&#8217;s legislative party during a meeting of 54 newly-elected MLAs here on Sunday. Incidentally, addressing a poll rally in the Kunkuri constituency last month, Union [&#8230;]
+
+Sun, 10 Dec 2023 11:00:03 +0000
+### [RCB captain Smriti Mandhana hopes Kate Cross will complement Renuka in power play during WPL 2024](https://theprint.in/sport/rcb-captain-smriti-mandhana-hopes-kate-cross-will-complement-renuka-in-power-play-during-wpl-2024/1880127/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 10 (PTI) Royal Challengers Bangalore skipper Smriti Mandhana hoped that veteran England pacer Kate Cross could complement Renuka Singh and fortify her team&#8217;s bowling, particularly in the Power Play, in the second edition of the Women&#8217;s Premier League 2024. The Royal Challengers had acquired Cross in the player auction on Saturday for Rs [&#8230;]
+
+Sun, 10 Dec 2023 10:45:36 +0000
+### [Gogamedi murder accused stayed in Chandigarh hotel on fake IDs, planned to go abroad](https://theprint.in/india/gogamedi-murder-accused-stayed-in-chandigarh-hotel-on-fake-ids-planned-to-go-abroad/1880126/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 10 (PTI) The two persons who allegedly shot Shri Rashtriya Rajput Karni Sena chief Sukhdev Singh Gogamedi in Jaipur were staying on fake IDs at a hotel in Chandigarh while on their run, Delhi Police said on Sunday.  Sources said the duo attackers &#8212; Rohit Rathore of Jaipur and Nitin Fauji of [&#8230;]
+
+Sun, 10 Dec 2023 10:45:25 +0000
+### [How the Christmas pudding, with ingredients taken from the colonies, became an iconic British food](https://theprint.in/world/how-the-christmas-pudding-with-ingredients-taken-from-the-colonies-became-an-iconic-british-food/1880125/)
+
+The Christmas pudding has a rich global history, influenced by the British Empire and enjoyed in various parts of the world. It originated from two older dishes, "plum pottage" and "figgy pudding," which were made with a mixture of meats, dried fruits, and spices. Over time, these dishes evolved into the more familiar plum pudding, incorporating ingredients from the British Empire such as French brandy, raisins from the Mediterranean, and citrus from the Caribbean. The Victorians further popularized it as the "Christmas pudding," and it became a centerpiece of the holiday season. The socioeconomic accessibility of the pudding, with affordable ingredients like candied citrus peel, nutmeg, cinnamon, and raisins, contributed to its lasting appeal. Versions of Christmas pudding also spread across the British Empire, including in Australia and India. Even after decolonization, the tradition of Christmas pudding continues in various forms and adaptations.
+
+Sun, 10 Dec 2023 10:45:14 +0000
+### [Ashwini-Tanisha win Guwahati Masters Super 100 title](https://theprint.in/sport/ashwini-tanisha-win-guwahati-masters-super-100-title/1880124/)
+
+Indian women's doubles badminton pair, Tanisha Crasto and Ashwini Ponnappa, secured their second Super 100 title at the Guwahati Masters. They defeated the duo from Chinese Taipei, Sung Shuo Yun and Yu Chien Hui, in straight games. The Indian pair had previously finished as runners-up in the Syed Modi International Super 300 tournament. This win marked their third title, having previously won the Abu Dhabi Masters Super 100 and Nates International Challenge. Ashwini, 34, and Tanisha, 20, only started playing together in January and were part of India's Asian Games squad. The Badminton World Federation (BWF) World Tour consists of different levels, with the Super 1000 level offering the highest ranking points and prize pool.
+
+Sun, 10 Dec 2023 10:45:03 +0000
+### [Gaza health situation is ‘catastrophic’: WHO chief](https://theprint.in/world/gaza-health-situation-is-catastrophic-who-chief/1880122/)
+
+Article found but Couldn't summarize 
+GENEVA (Reuters) - The impact of the Israel-Hamas conflict on Gaza's healthcare sector has been "catastrophic", the World Health Organization chief said on Sunday at an emergency board meeting, saying
+
+Sun, 10 Dec 2023 10:45:02 +0000
+### [Clarification sought from Sahu on ‘unaccounted cash’: J’khand Cong in-charge](https://theprint.in/india/clarification-sought-from-sahu-on-unaccounted-cash-jkhand-cong-in-charge-2/1880121/)
+
+Article found but Couldn't summarize 
+Ranchi, Dec 10 (PTI) Jharkhand Congress in-charge Avinash Pandey on Sunday said that a clarification has been sought from party MP Dheeraj Sahu in connection with the recovery of huge cash from premises linked to him. Pandey, however, clarified that is it a private matter of Dheeraj Sahu and the party has nothing to do [&#8230;]
+
+Sun, 10 Dec 2023 10:30:44 +0000
+### [Celebratory firing: 16-year-old Dalit boy dies of gunshot wound](https://theprint.in/india/celebratory-firing-16-year-old-dalit-boy-dies-of-gunshot-wound/1880119/)
+
+Article found but Couldn't summarize 
+Pratapgarh, Dec 10 (PTI) A 16-year-old Dalit boy has died of a gunshot wound he suffered during celebratory firing at a marriage function at a village here in Uttar Pradesh, a police official said on Sunday. The incident took place on Friday and a case was registered at the Aaspur Devsara police station against the [&#8230;]
+
+Sun, 10 Dec 2023 10:30:35 +0000
+### [Body of unidentified man found in creek in Thane](https://theprint.in/india/body-of-unidentified-man-found-in-creek-in-thane/1880118/)
+
+Article found but Couldn't summarize 
+Thane, Dec 10 (PTI) The body of an unidentified man was found in a creek in Maharashtra’s Thane city on Sunday, a civic official said. The body of a man in his late 40s was found floating near the Visarjan Ghat of Gaimukh Creek in the Ghobunder Road area around noon, chief of the civic [&#8230;]
+
+Sun, 10 Dec 2023 10:30:24 +0000
+### [Ram Temple: Shinde hails PM as group of 300 leaves on foot for Ayodhya](https://theprint.in/india/ram-temple-shinde-hails-pm-as-group-of-300-leaves-on-foot-for-ayodhya/1880117/)
+
+Maharashtra Chief Minister Eknath Shinde expressed gratitude towards Prime Minister Narendra Modi for the construction of the Ram Temple in Ayodhya, Uttar Pradesh. He also thanked Uttar Pradesh Chief Minister Yogi Adityanath. Shinde highlighted the significance of the temple, stating that it fulfills the aspirations of millions of people and will enhance their devotion and pride. He mentioned that the late Bal Thackeray, founder of Shiv Sena, also desired the construction of a grand temple in Ayodhya. Shinde praised the 300 devotees who embarked on a 47-day pilgrimage to Ayodhya on foot and wished them well. He also expressed his anticipation to visit Ayodhya for the temple's inauguration on January 22. Shinde emphasized the transformation of Ayodhya into a renowned pilgrimage center.
+
+Sun, 10 Dec 2023 10:30:13 +0000
+### [Clarification sought from Sahu on ‘unaccounted cash’: J’khand Cong in-charge](https://theprint.in/india/clarification-sought-from-sahu-on-unaccounted-cash-jkhand-cong-in-charge/1880116/)
+
+Article found but Couldn't summarize 
+Ranchi, Dec 10 (PTI) Jharkhand Congress in-charge Avinash Pandey on Sunday said that a clarification has been sought from party MP Dheeraj Sahu in connection with the recovery of huge cash from premises linked to him. Pandey, however, clarified that is it a private matter of Dheeraj Sahu and the party has nothing to do [&#8230;]
+
+Sun, 10 Dec 2023 10:30:03 +0000
+### [Imran Khan’s party accuses election Commission of dil­ly-dallying tactics in allocating ‘bat’ symbol](https://theprint.in/world/imran-khans-party-accuses-election-commission-of-dilly-dallying-tactics-in-allocating-bat-symbol-2/1880115/)
+
+Article found but Couldn't summarize 
+Islamabad, Dec 10 (PTI) Jailed former Pakistan prime minister Imran Khan&#8217;s party accused the election commission of “dil­ly-dallying tactics” in granting it permission to retain the cricket bat as its election symbol, describing the poll body&#8217;s move as pre-poll rigging. The Pakistan Tehreek-e-Insaf (PTI) also has called for immediate action from the Election Commission of [&#8230;]
+
+Sun, 10 Dec 2023 10:15:56 +0000
+### [Crime Branch files charge sheet against director of Gujarat-based company for fraud in Jammu](https://theprint.in/india/crime-branch-files-charge-sheet-against-director-of-gujarat-based-company-for-fraud-in-jammu/1880110/)
+
+Article found but Couldn't summarize 
+Jammu, Dec 10 (PTI) The Jammu and Kashmir Police&#8217;s Crime Branch has filed a charge sheet against the director of Gujarat-based Armada Bazar Private Limited for allegedly cheating two investors of Rs 3 crore, the agency said on Sunday. The Economic Offences Wing of Crime Branch (Jammu) filed the charge sheet in court against Parshuram [&#8230;]
+
+Sun, 10 Dec 2023 10:15:46 +0000
+### [Rajasthan: Nearly 10 BJP MLAs meet Vasundhara Raje](https://theprint.in/india/rajasthan-nearly-10-bjp-mlas-meet-vasundhara-raje/1880109/)
+
+BJP MLAs met former Rajasthan Chief Minister Vasundhara Raje at her residence in Jaipur. The party is yet to announce the leader for the chief minister position. Raje is considered a strong contender for the role. Previously, several BJP MLAs had also met Raje, indicating their support. The BJP has appointed three observers, including Union Minister Rajnath Singh, for overseeing the legislature party meeting. In the recent assembly elections, BJP won 115 seats, while Congress secured 69 seats in the 200-seat state assembly. The election in Karanpur was postponed due to the candidate's demise, and it will be held on January 5.
+
 Sun, 10 Dec 2023 10:15:35 +0000
 ### [Sanjay Raut cautions Congress over 2024 Lok Sabha polls](https://theprint.in/india/sanjay-raut-cautions-congress-over-2024-lok-sabha-polls/1880108/)
 

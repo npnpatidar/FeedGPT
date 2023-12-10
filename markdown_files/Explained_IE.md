@@ -1,3 +1,8 @@
+Sun, 10 Dec 2023 10:58:17 +0000
+### [Global Renewables And Energy Efficiency Pledge at COP28: what is the tripling renewable energy target?](https://indianexpress.com/article/explained/explained-climate/cop28-tripling-renewable-energy-target-9062282/)
+
+Article found but Couldn't summarize
+
 Sun, 10 Dec 2023 08:15:34 +0000
 ### [EU ‘historic’ deal: What the world’s first law on regulating AI propose](https://indianexpress.com/article/explained/explained-sci-tech/eu-worlds-first-law-regulating-ai-9062105/)
 

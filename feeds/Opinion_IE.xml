@@ -5,6 +5,15 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Opinion_IE.xml</link>
 		<description>Opinion IE</description>
 		<item>
+			<title>Here’s how we can save the planet and keep the economy growing</title>
+			<link>https://indianexpress.com/article/opinion/columns/how-we-can-save-planet-economy-9062229/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Sun, 10 Dec 2023 10:35:13 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2023/12/PTI12_01_2023_000380A.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2023/12/PTI12_01_2023_000380A.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Mahua Moitra’s disquieting, unnatural expulsion from Parliament</title>
 			<link>https://indianexpress.com/article/opinion/columns/mahua-moitra-expelled-parliament-pdt-achary-writes-9062128/</link>
 			<description>Article found but Couldn't summarize</description>

@@ -1,3 +1,15 @@
+2023-12-10T16:30:05+05:30
+### [Aniruddha Bose's Book On Indian Railways and Partition Overlooks Communist Influence in Trade Unions](https://thewire.in/books/why-the-role-of-trade-unions-cant-be-overlooked-in-a-book-on-the-indian-railways)
+
+No Article text 
+In 'Shunting the Nation', the mainstay of the author's work is far too sketchy and based on a limited set of sources. The author ends up repeating facts too often and ensures that the reader is left with a sense of fatigue.
+
+2023-12-10T16:00:59+05:30
+### [What Meenakshi Lekhi’s Public Meltdown Over Hamas Tells Us About the Modi Government](https://thewire.in/government/what-meenakshi-lekhis-public-meltdown-over-hamas-tells-us-about-the-modi-government)
+
+No Article text 
+The ministry’s official view and Lekhi’s subsequent actions raise questions about the conduct of the Modi government, about how decisions are made and what its own ministers think about them.
+
 2023-12-10T15:30:12+05:30
 ### [A Tussle Between Two Political Streams](https://thewire.in/politics/a-tussle-between-two-political-streams)
 

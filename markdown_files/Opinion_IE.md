@@ -1,3 +1,8 @@
+Sun, 10 Dec 2023 10:35:13 +0000
+### [Here’s how we can save the planet and keep the economy growing](https://indianexpress.com/article/opinion/columns/how-we-can-save-planet-economy-9062229/)
+
+Article found but Couldn't summarize
+
 Sun, 10 Dec 2023 08:30:31 +0000
 ### [Mahua Moitra’s disquieting, unnatural expulsion from Parliament](https://indianexpress.com/article/opinion/columns/mahua-moitra-expelled-parliament-pdt-achary-writes-9062128/)
 
