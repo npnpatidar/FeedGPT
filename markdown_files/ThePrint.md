@@ -1,3 +1,121 @@
+Sun, 10 Dec 2023 16:17:26 +0000
+### [COP28: Bahrain announces 30 pc reduction in emissions by 2035, zero carbon by 2060](https://theprint.in/world/cop28-bahrain-announces-30-pc-reduction-in-emissions-by-2035-zero-carbon-by-2060/1880427/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 10 (ANI/WAM): During its participation in the 28th United Nations Conference of the Parties (COP28), the Kingdom of Bahrain announced its commitment to the national carbon neutrality strategy that aims to reduce carbon emissions by 30 per cent by 2035 and reach zero carbon by 2060. The Kingdom of Bahrain is participating [&#8230;]
+
+Sun, 10 Dec 2023 16:17:14 +0000
+### [Korean embassy organises ‘Rang De Korea’ Programme to mark 50th anniversary of diplomatic ties](https://theprint.in/world/korean-embassy-organises-rang-de-korea-programme-to-mark-50th-anniversary-of-diplomatic-ties/1880425/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 10 (ANI): In order to celebrate the 50th anniversary of diplomatic ties between Korea and India, the Embassy of South Korea in Delhi organised the &#8216;Rang De Korea&#8217; programme on Sunday that showcased some traditional performances from the east-Asian nation. The event had song performances in traditional Korean dresses (Hanbok), with [&#8230;]
+
+Sun, 10 Dec 2023 16:17:01 +0000
+### [COP28 solidifies efforts aimed at climate course correction: UNECA](https://theprint.in/world/cop28-solidifies-efforts-aimed-at-climate-course-correction-uneca/1880423/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 10 (ANI/WAM): James Murombedzi, Senior Climate Governance Expert at the United Nations Economic Commission for Africa (UNECA), said that the 28th United Nations Conference of the Parties (COP28) is of particular importance as it marks the first time that the Paris Agreement is being reviewed through the Global Stocktake. In a statement [&#8230;]
+
+Sun, 10 Dec 2023 16:16:07 +0000
+### [TV journalist Soumya’s father dies, weeks after justice to daughter](https://theprint.in/india/tv-journalist-soumyas-father-dies-weeks-after-justice-to-daughter/1880422/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 10 (PTI) TV journalist Soumya Vishwanathan&#8217;s father MK Vishwanathan who fought a 15-year-long battle for justice for his daughter died in a hospital here, weeks after her daughter&#8217;s killers were convicted. Viswanathan, 82, was admitted in a Delhi hospital after a heart attack, two days before the hearing on the quantum of [&#8230;]
+
+Sun, 10 Dec 2023 16:15:55 +0000
+### [Nagaland’s 10-day Hornbill Festival concludes](https://theprint.in/india/nagalands-10-day-hornbill-festival-concludes/1880421/)
+
+Article found but Couldn't summarize 
+Kohima, Dec 10 (PTI) The 10-day Hornbill Festival, the annual tourism promotional event of the Nagaland government, concluded on Sunday with visitors, including tourists, participating in &#8216;Unity Dance&#8217; around a large bonfire to the tune of Naga folk songs. Guests including United States Consul General Melinda Pavek, British Deputy High Commissioner Andrew Fleming, Nagaland Tourism [&#8230;]
+
+Sun, 10 Dec 2023 16:15:45 +0000
+### [Kerala Chief Secy should inform Guv about state’s financial situation: MoS Muraleedharan](https://theprint.in/india/kerala-chief-secy-should-inform-guv-about-states-financial-situation-mos-muraleedharan/1880419/)
+
+Article found but Couldn't summarize 
+Thiruvananthapuram, Dec 10 (PTI) Union Minister for External Affairs and Parliamentary Affairs V Muraleedharan on Sunday said the Kerala Chief Secretary should indicate the correct financial position of the state to Governor Arif Mohammed Khan. Khan had a couple of days ago sought a report from the state government after a social activist approached him [&#8230;]
+
+Sun, 10 Dec 2023 16:15:34 +0000
+### [Shah gives pep talk to Bihar BJP leaders](https://theprint.in/india/shah-gives-pep-talk-to-bihar-bjp-leaders/1880418/)
+
+Article found but Couldn't summarize 
+Patna, Dec 10 (PTI) Union Home Minister Amit Shah on Sunday gave a pep talk to BJP leaders of Bihar where the party&#8217;s performance will be crucial in ensuring Prime Minister Narendra Modi’s return to power for a third consecutive term. Shah, widely regarded as the BJP’s principal strategist, was here to chair the 26th [&#8230;]
+
+Sun, 10 Dec 2023 16:15:17 +0000
+### [India’s rain-hit first T20I against SA called off; Men in Blue’s WC combination search to wait](https://theprint.in/sport/indias-rain-hit-first-t20i-against-sa-called-off-men-in-blues-wc-combination-search-to-wait/1880417/)
+
+Article found but Couldn't summarize 
+Durban, Dec 10 (PTI) India&#8217;s desire to start the process of finding an ideal combination for the T20 World Cup 2024 suffered a minor dent as their first match against South Africa was abandoned without a ball being bowled after persistent rain here on Sunday. In fact, even the toss did not take place. Now, [&#8230;]
+
+Sun, 10 Dec 2023 16:15:13 +0000
+### [Gold mine collapse in Venezuela kills dozen people](https://theprint.in/world/gold-mine-collapse-in-venezuela-kills-dozen-people/1880416/)
+
+Article found but Couldn't summarize 
+(Reuters) - The collapse of an artisanal gold mine in southeastern Venezuela near an Indigenous community killed at least 12 people, the government announced on Sunday. A landslide on Wednesday buried
+
+Sun, 10 Dec 2023 16:15:04 +0000
+### [Iran tries Swedish EU employee for ‘spying for Israel’ – judiciary](https://theprint.in/world/iran-tries-swedish-eu-employee-for-spying-for-israel-judiciary/1880415/)
+
+Article found but Couldn't summarize 
+DUBAI (Reuters) -Iran said on Sunday that it had begun the trial of a Swedish national employed by the European Union who is charged with spying for Israel and "corruption on earth," a crime that
+
+Sun, 10 Dec 2023 16:15:03 +0000
+### [Cong treats tribals as vote bank, BJP takes care of their welfare: Chhattisgarh CM-designate Sai](https://theprint.in/india/cong-treats-tribals-as-vote-bank-bjp-takes-care-of-their-welfare-chhattisgarh-cm-designate-sai/1880414/)
+
+Article found but Couldn't summarize 
+Raipur, Dec 10 (PTI) Chhattisgarh Chief Minister-designate Vishnu Deo Sai on Sunday accused the Congress of treating tribals as a vote bank and said his party BJP takes care of their welfare. Sai (59), a prominent tribal face in the state, was on Sunday elected as the legislative party leader during a meeting of 54 [&#8230;]
+
+Sun, 10 Dec 2023 16:00:43 +0000
+### [Akhilesh demands caste census, accuses BJP of obstructing it](https://theprint.in/india/akhilesh-demands-caste-census-accuses-bjp-of-obstructing-it/1880410/)
+
+Article found but Couldn't summarize 
+Lucknow, Dec 10 (PTI) Samajwadi Party president Akhilesh Yadav on Sunday called for a caste census as he accused the Bharatiya Janata Party of tampering with the spirit of the Constitution by denying the people equality on the basis of their castes. &#8220;People across the country are in favour of caste census. The BJP has [&#8230;]
+
+Sun, 10 Dec 2023 16:00:30 +0000
+### [Jodhpur school owner threatened over forcibly shot ‘explicit videos’, woman among 2 arrested](https://theprint.in/india/jodhpur-school-owner-threatened-over-forcibly-shot-explicit-videos-woman-among-2-arrested/1880408/)
+
+Article found but Couldn't summarize 
+Jodhpur, Dec 10 (PTI) Two persons, including a woman, were arrested in a honey trap case in Jodhpur on Sunday in which they allegedly forcibly shot “explicit videos” of a man, and threatened to make them &#8220;viral&#8221; if he did not pay them Rs 1 crore, officials said. The accused allegedly physically assaulted the victim, [&#8230;]
+
+Sun, 10 Dec 2023 16:00:18 +0000
+### [White House to intensify push for Ukraine aid and border security deal](https://theprint.in/world/white-house-to-intensify-push-for-ukraine-aid-and-border-security-deal/1880406/)
+
+Article found but Couldn't summarize 
+By Ted Hesson WASHINGTON (Reuters) -The White House will step up its engagement with U.S. lawmakers trying to strike a bipartisan deal that would provide military aid for Ukraine and Israel while
+
+Sun, 10 Dec 2023 16:00:15 +0000
+### [Karnataka: Drowned students’ bodies recovered](https://theprint.in/india/karnataka-drowned-students-bodies-recovered/1880404/)
+
+Article found but Couldn't summarize 
+Mangaluru, Dec 10 (PTI) The bodies of two students who drowned off Someshwara beach here on December 9, were recovered from the same area on Sunday, police said. Two pre-university students, Yashvit (17) from Kunjattur Adka and Yuvaraj (17) from Kunjattur Majalu, were swept away by the rough sea waves on Saturday evening. The bodies [&#8230;]
+
+Sun, 10 Dec 2023 16:00:06 +0000
+### [Argentina will stay in Paris climate agreement under Milei, negotiator says](https://theprint.in/world/argentina-will-stay-in-paris-climate-agreement-under-milei-negotiator-says/1880403/)
+
+Despite President Javier Milei's previous views on climate change being a hoax, Argentina, under his leadership, will continue to be a part of the Paris Agreement on climate change. The country's new top climate diplomat, Marcia Levaggi, confirmed this decision and has been sent to lead the Argentinian delegation at the United Nations COP28 climate talks in Dubai. Levaggi arrived in Dubai on Sunday, coinciding with Milei's inauguration in Buenos Aires. The government's stance on climate change remains consistent despite the leader's past comments.
+
+Sun, 10 Dec 2023 16:00:03 +0000
+### [Eastern Zonal Council meet: Bihar Caste survey has issues that need to be resolved, says Shah](https://theprint.in/india/eastern-zonal-council-meet-bihar-caste-survey-has-issues-that-need-to-be-resolved-says-shah/1880402/)
+
+Article found but Couldn't summarize 
+Patna, Dec 10 (PTI) Union Home Minister Amit Shah on Sunday said there are some issues regarding the caste survey conducted by the Bihar government, which he hoped that the state will resolve. Addressing the Eastern Zonal Council meeting here, Shah said the central government never had any intention of creating hurdles in the caste-based [&#8230;]
+
+Sun, 10 Dec 2023 15:46:25 +0000
+### [Over 6 lakh children given polio vaccine under special campaign in Delhi](https://theprint.in/india/over-6-lakh-children-given-polio-vaccine-under-special-campaign-in-delhi/1880398/)
+
+In a special campaign by the Delhi government, over 600,000 children were vaccinated with the polio vaccine. The campaign, known as the Sub-National Immunisation Day (SNID), was followed by a five-day activity called the House to House (HTH) 'Search & Immunize Activity'. This program was run in a decentralized manner with direct control by district magistrates and chief district medical officers who managed various aspects such as manpower, logistics, vaccine distribution, and booth locations. Booths were set up at various locations including health facilities, metro and railway stations, religious places, schools, and institutions. Children under the age of five were given two drops of the Oral Polio Vaccine (bOPV). A total of 608,664 children were vaccinated at 5,836 booths. The HTH team aims to visit over 5 million households during the activity and vaccinate approximately 1.8 million children who may have missed the initial campaign.
+
+Sun, 10 Dec 2023 15:46:14 +0000
+### [7 wagons of goods train derail near Kasara; many trains from Mumbai diverted](https://theprint.in/india/7-wagons-of-goods-train-derail-near-kasara-many-trains-from-mumbai-diverted/1880397/)
+
+Article found but Couldn't summarize 
+Mumbai/Thane, Dec 10 (PTI) Seven loaded wagons of a goods train derailed between Kasara, more than 100 kilometres from Mumbai, and TGR-3 station on the Central Railway network on Sunday, an official said. The derailment took place at 6.31 pm, leaving mail express traffic on the Kasara-Igatpuri section on the Down line and middle line [&#8230;]
+
+Sun, 10 Dec 2023 15:46:03 +0000
+### [Shah targets opposition parties over massive cash seizure from premises linked to Congress MP](https://theprint.in/india/shah-targets-opposition-parties-over-massive-cash-seizure-from-premises-linked-to-congress-mp/1880396/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 10 (PTI) Home Minister Amit Shah on Sunday hit out at the opposition over the seizure of a large amount of cash from premises linked to a Congress MP, saying it is now clear that their &#8220;propaganda&#8221; about probe agencies being misused was driven by the fear that their corruption will be [&#8230;]
+
 Sun, 10 Dec 2023 15:02:01 +0000
 ### [“Career suicide”: Adele on what people thought getting pregnant at height of her success](https://theprint.in/feature/career-suicide-adele-on-what-people-thought-getting-pregnant-at-height-of-her-success/1880347/)
 
