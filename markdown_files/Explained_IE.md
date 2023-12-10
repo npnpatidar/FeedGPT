@@ -1,3 +1,8 @@
+Sun, 10 Dec 2023 03:00:52 +0000
+### [Grand Theft Auto VI: Why there is such a hype around the upcoming GTA game](https://indianexpress.com/article/explained/explained-culture/grand-theft-auto-vi-hype-explained-9061658/)
+
+Article found but Couldn't summarize
+
 Sat, 09 Dec 2023 12:33:20 +0000
 ### [SC to deliver Article 370 verdict: What has changed in J&K since Art 370 was repealed](https://indianexpress.com/article/explained/sc-article-370-verdict-jk-9059739-9061342/)
 

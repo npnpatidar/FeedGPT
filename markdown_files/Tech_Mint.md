@@ -1,3 +1,9 @@
+Sun, 10 Dec 2023 08:13:59 +0530
+### [iQOO 12 with Snapdragon 8 Gen 3 to debut in India on Dec 12. Expected price, specs and all you need to know](https://www.livemint.com/technology/gadgets/iqoo-12-with-snapdragon-8-gen-3-to-debut-in-india-on-dec-12-expected-price-specs-and-all-you-need-to-know-11702173240199.html)
+
+Article found but Couldn't summarize 
+iQOO 12 will become the first phone in India to be powered by Snapdragon's latest 8 Gen 3 processor and will also be the first phone outside the Pixel series to run the Android 14 Operating System.
+
 Sun, 10 Dec 2023 07:13:56 +0530
 ### [Vivo X100, X100 Pro series to make global debut on Dec 14. Expected price, specifications and more](https://www.livemint.com/technology/gadgets/vivo-x100-x100-pro-series-to-make-global-debut-on-dec-14-expected-price-specifications-and-more-11702169622235.html)
 

@@ -1,3 +1,33 @@
+Sun, 10 Dec 2023 03:05:16 +0000
+### [Bharat Atta gets thumbs up, buyers now want govt to sell tea, vegetable oils & more pulses](https://theprint.in/india/bharat-atta-gets-thumbs-up-buyers-now-want-govt-to-sell-tea-vegetable-oils-more-pulses/1877994/)
+
+Article found but Couldn't summarize 
+Modi govt allocated 2.5 lakh metric tonnes wheat for NAFED, NCCF &#038; Kendriya Bhandars which was later processed into flour &#038; is being sold at ₹27.50 per kg at outlets &#038; mobile vans.
+
+Sun, 10 Dec 2023 03:00:12 +0000
+### [Shop owner rapes minor girl in UP’s Bhadohi, arrested](https://theprint.in/india/shop-owner-rapes-minor-girl-in-ups-bhadohi-arrested/1879761/)
+
+Article found but Couldn't summarize 
+Bhadohi (UP), Dec 10 (PTI) A 14-year-old girl was allegedly raped by the 19-year-old owner of a shop in the City area of this Uttar Pradesh district, police said on Sunday. The alleged incident occurred on Saturday when the girl had gone to buy something from the accused Raju Jaiswal&#8217;s shop, they said. Jaiswal allegedly [&#8230;]
+
+Sun, 10 Dec 2023 03:00:02 +0000
+### [Chhattisgarh BJP MLAs to meet in Raipur; suspense over CM could end](https://theprint.in/india/chhattisgarh-bjp-mlas-to-meet-in-raipur-suspense-over-cm-could-end/1879760/)
+
+Article found but Couldn't summarize 
+Raipur, Dec 10 (PTI) A key meeting of the BJP’s newly-elected 54 MLAs in Chhattisgarh to pick the legislative party leader will be held here on Sunday which is likely to end the suspense over who will be the next chief minister. Speculations are doing rounds on who will get to don the mantle of [&#8230;]
+
+Sun, 10 Dec 2023 02:45:07 +0000
+### [Tennessee tornadoes leave at least 6 dead, tens of thousands without power](https://theprint.in/environment/tennessee-tornadoes-leave-at-least-6-dead-tens-of-thousands-without-power/1879755/)
+
+Article found but Couldn't summarize 
+By Kanishka Singh (Reuters) - Severe storms and tornadoes in Tennessee left at least six people dead on Saturday and caused what local emergency services described as extensive damage with tens of
+
+Sun, 10 Dec 2023 02:45:03 +0000
+### [SUV catches fire after accident in UP’s Bareilly, eight charred to death](https://theprint.in/india/suv-catches-fire-after-accident-in-ups-bareilly-eight-charred-to-death/1879754/)
+
+Article found but Couldn't summarize 
+Bareilly (UP), Dec 10 (PTI) Eight people, including a child, were charred to death in their SUV after it was hit by an oncoming truck and caught fire in this Uttar Pradesh district, police said on Sunday. The driver of the SUV lost control of the vehicle after it suffered a tyre puncture. It jumped [&#8230;]
+
 Sun, 10 Dec 2023 02:30:03 +0000
 ### [Rajput leader’s murder: Two shooters among three held in Chandigarh](https://theprint.in/india/rajput-leaders-murder-two-shooters-among-three-held-in-chandigarh/1879753/)
 
