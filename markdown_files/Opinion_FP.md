@@ -1,3 +1,9 @@
+Sun, 10 Dec 2023 11:52:06 +0530
+### [How India-Bhutan ties remain a pillar of stability despite regional challenges](https://www.firstpost.com/opinion/how-india-bhutan-ties-remain-a-pillar-of-stability-despite-regional-challenges-13486382.html)
+
+Article found but Couldn't summarize 
+How India-Bhutan ties remain a pillar of stability despite regional challenges
+
 Sun, 10 Dec 2023 10:51:25 +0530
 ### [Indonesian Elections 2024: President Jokowi's legacy hangs in balance as three contenders vie for power](https://www.firstpost.com/opinion/indonesian-elections-2024-president-jokowis-legacy-hangs-in-balance-as-three-contenders-vie-for-power-13486302.html)
 

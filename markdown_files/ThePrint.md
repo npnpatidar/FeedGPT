@@ -1,3 +1,114 @@
+Sun, 10 Dec 2023 07:02:02 +0000
+### [Vidyut Jammwal goes bold during Himalayan retreat, treats fans to pics on birthday](https://theprint.in/feature/vidyut-jammwal-goes-bold-during-himalayan-retreat-treats-fans-to-pics-on-birthday/1879906/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 10 (ANI): As action star Vidyut Jammwal turned a year older on Sunday, he took netizens by storm with his bold avatar. From cooking outdoors to taking a bath in the streams, he shared nude pictures of himself living a simple life in the lap of the mountains. Vidyut took to [&#8230;]
+
+Sun, 10 Dec 2023 07:00:47 +0000
+### [Three men drown in river in J-K’s Reasi](https://theprint.in/india/three-men-drown-in-river-in-j-ks-reasi-2/1879905/)
+
+Article found but Couldn't summarize 
+Jammu, Dec 10 (PTI) Three men on board an earth mover drowned in a river in Jammu and Kashmir’s Reasi district, police said on Sunday. The heavy vehicle belonging to a stone crusher was crossing a river near Sungri village of Chassana when it got submerged around 9 pm on Saturday, Station House Officer of [&#8230;]
+
+Sun, 10 Dec 2023 07:00:33 +0000
+### [Mumbai court imposes one-day sentence on man for molesting woman on local train](https://theprint.in/india/mumbai-court-imposes-one-day-sentence-on-man-for-molesting-woman-on-local-train/1879904/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 10 (PTI) A court here imposed a one-day sentence on a 49-year-old man for molesting a woman onboard a suburban local train in 2019. In the order dated December 4, Metropolitan Magistrate B K Gawande held that the offence was “heinous in nature” and hence, the accused could not be given the benefit [&#8230;]
+
+Sun, 10 Dec 2023 07:00:14 +0000
+### [1 person killed, 7 injured as bus hits trailer truck on Mumbai-Pune Expressway](https://theprint.in/india/1-person-killed-7-injured-as-bus-hits-trailer-truck-on-mumbai-pune-expressway/1879903/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 10 (PTI) A 40-year-old man was killed and seven other passengers injured after a private bus hit a trailer truck on the Mumbai-Pune Expressway in Maharashtra&#8217;s Raigad district in the wee hours of Sunday, a police official said. Traffic movement on the expressway was affected for sometime after the accident, which took place [&#8230;]
+
+Sun, 10 Dec 2023 07:00:02 +0000
+### [Journey of mutual respect, shared values, growing partnership: PM Modi on India-South Korea ties](https://theprint.in/india/journey-of-mutual-respect-shared-values-growing-partnership-pm-modi-on-india-south-korea-ties/1879902/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 10 (PTI) Prime Minister Narendra Modi on Sunday lauded the ties between India and South Korea as a journey of mutual respect, shared values and growing partnerships as diplomatic ties between the two countries marked the 50-year milestone. &#8220;We are celebrating 50 years of establishment of diplomatic ties between India and the [&#8230;]
+
+Sun, 10 Dec 2023 06:47:02 +0000
+### [US: 6 people dead after tornadoes strike Tennessee](https://theprint.in/world/us-6-people-dead-after-tornadoes-strike-tennessee/1879896/)
+
+Article found but Couldn't summarize 
+Nashville (Tennessee) [US], December 10 (ANI): Six people died after tornadoes and strong thunderstorms hit Tennessee, US, according to CNN. Moreover, three people were confirmed dead in Madison, a suburban neighbourhood of northeast Nashville, emergency management officials said. The Nashville Office of Emergency Management shared on X, &#8220;We have teams assessing damage and looking for [&#8230;]
+
+Sun, 10 Dec 2023 06:45:54 +0000
+### [‘Ink and Emotions’: New poetry book explores varied human emotions](https://theprint.in/india/ink-and-emotions-new-poetry-book-explores-varied-human-emotions/1879895/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 10 (PTI) A collection of over 50 poems, new book &#8220;Ink and Emotions: The poetry of Existence&#8221; by author Bhannu Arora, explores different human emotions and more &#8212; one verse at a time. Touted to be a vibrant exploration of life in all its &#8220;raw and beautiful forms&#8221;, the self-published book explores [&#8230;]
+
+Sun, 10 Dec 2023 06:45:38 +0000
+### [Three men drown in river in J-K’s Reasi](https://theprint.in/india/three-men-drown-in-river-in-j-ks-reasi/1879893/)
+
+Article found but Couldn't summarize 
+Jammu, Dec 10 (PTI) Three men on board an earth mover drowned in a river in Jammu and Kashmir’s Reasi district, police said on Sunday. The heavy vehicle belonging to a stone crusher was crossing a river near Sungri village of Chassana when it got submerged around 9 pm on Saturday, Station House Officer of [&#8230;]
+
+Sun, 10 Dec 2023 06:45:30 +0000
+### [Soccer-Alisson praises Liverpool’s ‘passion and intensity’ after win over Palace](https://theprint.in/sport/soccer-alisson-praises-liverpools-passion-and-intensity-after-win-over-palace/1879892/)
+
+Article found but Couldn't summarize 
+(Reuters) - Liverpool's fighting spirit and never-say-die attitude helped them claim their comeback 2-1 Premier League win over Crystal Palace, goalkeeper Alisson said. Mohamed Salah netted his 200th
+
+Sun, 10 Dec 2023 06:45:23 +0000
+### [Indonesia’s Prambanan temple: A testimony to India’s deep-rooted cultural ties with South East Asia](https://theprint.in/world/indonesias-prambanan-temple-a-testimony-to-indias-deep-rooted-cultural-ties-with-south-east-asia/1879891/)
+
+The Prambanan temple in Yogyakarta, Indonesia, is a testament to the deep-rooted cultural and historical ties between India and Southeast Asia. It is a large compound consisting of 240 Hindu temples and is considered Indonesia's largest Hindu temple. The temple complex has been restored with the assistance of the Archaeological Survey of India (ASI) in various ASEAN nations. The restoration work is challenging due to the complex structure and the limitations imposed by UNESCO heritage site rules. The temple is dedicated to the Hindu deities Brahma, Vishnu, and Shiva. The Prambanan temple, along with the nearby Borobudur Temple, attracts a significant number of tourists, although Yogyakarta remains relatively unexplored by Indian tourists. India's contribution is expected to boost the number of visitors to these historical sites in the future.
+
+Sun, 10 Dec 2023 06:45:04 +0000
+### [China, Japan trade blame over confrontation near disputed islands](https://theprint.in/world/china-japan-trade-blame-over-confrontation-near-disputed-islands/1879889/)
+
+China and Japan are accusing each other of maritime incursions in the East China Sea. China's coast guard claimed that a Japanese fishing boat and patrol vessels entered waters around disputed islands known as Diaoyu in China and Senkaku in Japan. China's coast guard took necessary measures to warn away the Japanese vessels. Japan's coast guard stated that two Chinese maritime patrol boats left Japan's territorial waters after receiving warnings. Similar incidents have occurred in the past. This comes amidst escalating maritime disputes in Asia, as China and the Philippines also traded accusations over a collision between their vessels in the South China Sea.
+
+Sun, 10 Dec 2023 06:45:03 +0000
+### [Kanam Rajendran cremated with official honours; hundreds turn up to pay homage](https://theprint.in/india/kanam-rajendran-cremated-with-official-honours-hundreds-turn-up-to-pay-homage/1879888/)
+
+Article found but Couldn't summarize 
+Kottayam (Kerala), Dec 10 (PTI) Bugles, gun salute and chants of &#8216;lal salaam&#8217; marked the funeral of late CPI state secretary Kanam Rajendran who was on Sunday morning cremated with official honours at his residence in his native village in this district. The mortal remains of the 73-year-old leader had reached his home in Kanam [&#8230;]
+
+Sun, 10 Dec 2023 06:32:01 +0000
+### [Kiara Advani all set to celebrate her first Christmas with husband Sidharth Malhotra](https://theprint.in/feature/kiara-advani-all-set-to-celebrate-her-first-christmas-with-husband-sidharth-malhotra/1879886/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 10 (ANI): Celebrity couple Kiara Advani and Sidharth Malhotra are all set to celebrate their first Christmas together after getting married. The &#8216;Satyaprem Ki Katha&#8217; actor shared a sneak peek of her preparation on Sunday. Kiara took to her Instagram story and treated fans to a glimpse of a beautifully decorated [&#8230;]
+
+Sun, 10 Dec 2023 06:30:15 +0000
+### [Kashmir continues to reel under sub-zero temperatures](https://theprint.in/india/kashmir-continues-to-reel-under-sub-zero-temperatures-5/1879885/)
+
+Article found but Couldn't summarize 
+Srinagar, Dec 10 (PTI) Kashmir continued to reel under extreme cold waves even as the mercury stayed several degrees below the freezing point across the valley last night, officials said on Sunday. The temperature recorded on Saturday night in the summer capital of Jammu and Kashmir rose slightly from the previous night&#8217;s minus 4.6 degrees [&#8230;]
+
+Sun, 10 Dec 2023 06:30:02 +0000
+### [Nigerian woman held with drugs worth Rs 2 cr in Mumbai](https://theprint.in/india/nigerian-woman-held-with-drugs-worth-rs-2-cr-in-mumbai/1879884/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 10 (PTI) A Nigerian woman has been arrested for allegedly trying to smuggle heroin worth Rs 2 crore from Mumbai to Delhi, an official of the Customs&#8217; Air Intelligence Unit (AIU) said on Sunday. Acting on specific information, the AIU intercepted the woman who was travelling from Mumbai to Delhi early Saturday morning. [&#8230;]
+
+Sun, 10 Dec 2023 06:15:16 +0000
+### [Musk poll shows X users want U.S. conspiracy theorist Jones’ account back](https://theprint.in/tech/musk-poll-shows-x-users-want-u-s-conspiracy-theorist-jones-account-back/1879882/)
+
+Article found but Couldn't summarize 
+(Reuters) - A majority of users on X have voted to reinstate the account of U.S. conspiracy theorist Alex Jones in a poll set up by the social media platform's owner Elon Musk. "Reinstate Alex Jones
+
+Sun, 10 Dec 2023 06:15:14 +0000
+### [Kashmir continues to reel under sub-zero temperatures](https://theprint.in/india/kashmir-continues-to-reel-under-sub-zero-temperatures-4/1879881/)
+
+Kashmir is experiencing extreme cold waves with temperatures several degrees below freezing point. The temperature in the summer capital, Srinagar, was recorded at minus 4.4 degrees Celsius, slightly higher than the previous night's minus 4.6 degrees. Pahalgam, a base camp for the annual Amarnath Yatra, recorded a minimum temperature of minus 5.5 degrees Celsius, while Gulmarg recorded minus 4.2 degrees Celsius. Other areas such as Qazigund, Kokernag, and Kupwara also experienced low temperatures. The meteorological office predicts generally cloudy but dry weather until December 16, with a slight dip in night temperatures.
+
+Sun, 10 Dec 2023 06:15:04 +0000
+### [China says Japanese vessels illegally entered territorial waters](https://theprint.in/world/china-says-japanese-vessels-illegally-entered-territorial-waters/1879880/)
+
+Article found but Couldn't summarize 
+BEIJING (Reuters) - China's coast guard said that a Japanese fishing boat and several patrol vessels intruded into waters around disputed islands in the East China Sea on Saturday. The disputed
+
+Sun, 10 Dec 2023 06:15:03 +0000
+### [Royal Bengal Tiger spotted in Sikkim at an altitude of 3,640 metre](https://theprint.in/india/royal-bengal-tiger-spotted-in-sikkim-at-an-altitude-of-3640-metre/1879879/)
+
+Article found but Couldn't summarize 
+Gangtok, Dec 10 (PTI) A Royal Bengal Tiger was spotted in Pangalokha Wildlife Sanctuary in Sikkim at an altitude of 3,640 metre, officials said. The Pangalokha Wildlife Sanctuary is located at the tri-junction of Sikkim, Bengal and Bhutan and is spread over 128 square kilometres. It is the largest wildlife sanctuary in Sikkim. The Royal [&#8230;]
+
 Sun, 10 Dec 2023 06:00:36 +0000
 ### [In Punjab, road accidents caused more deaths than injuries in 2021, 2022: NCRB data](https://theprint.in/india/in-punjab-road-accidents-caused-more-deaths-than-injuries-in-2021-2022-ncrb-data/1879878/)
 

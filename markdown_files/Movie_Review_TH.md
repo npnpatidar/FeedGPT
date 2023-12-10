@@ -1,3 +1,9 @@
+Sun, 10 Dec 2023 12:30:56 +0530
+### [‘Mast Mein Rehne Ka’ movie review: A low-rent delight](https://www.thehindu.com/entertainment/movies/mast-mein-rehne-ka-movie-review-a-low-rent-delight/article67622400.ece)
+
+Article found but Couldn't summarize 
+Vijay Maurya’s Mumbai-set comedy, starring Jackie Shroff and Neena Gupta, is sweetly uplifting and proudly crummy
+
 Sat, 09 Dec 2023 22:19:24 +0530
 ### [‘Leave the World Behind’ movie review: This Julia Roberts apocalyptic chiller is leisurely and lethal](https://www.thehindu.com/entertainment/movies/leave-the-world-behind-film-review/article67621015.ece)
 

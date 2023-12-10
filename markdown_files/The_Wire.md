@@ -1,3 +1,9 @@
+2023-12-10T11:53:03+05:30
+### [(At Least) Three Critical Flaws in the Ethics Committee Report on Mahua Moitra](https://thewire.in/politics/at-least-three-critical-flaws-in-the-ethics-committee-report-on-mahua-moitra)
+
+No Article text 
+The committee failed to establish the major allegations against Moitra. It did not cross-examine Hiranandani, despite Moitra demanding that the committee do so. The manner of the swift expulsion of the Krishnanagar MP has cast a dark shadow on the functioning of parliament.
+
 2023-12-10T10:57:18+05:30
 ### [BJP MP Meenakshi Lekhi Distances Herself from Parliament Query on India's Stand on Hamas](https://thewire.in/government/bjp-mp-meenakshi-lekhi-distances-herself-from-parliament-query-on-indias-stand-on-hamas)
 

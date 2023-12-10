@@ -1,3 +1,8 @@
+Sun, 10 Dec 2023 06:56:05 +0000
+### [Vamsee Juluri writes: A lesson for Bharat in failure to tackle antisemitism on US campuses](https://indianexpress.com/article/opinion/columns/bharat-india-antisemitism-us-campuses-education-9062021/)
+
+Article found but Couldn't summarize
+
 Sun, 10 Dec 2023 02:15:23 +0000
 ### [When Indians left their footprint on Antarctica](https://indianexpress.com/article/opinion/columns/when-indians-left-their-footprint-on-antarctica-9061640/)
 

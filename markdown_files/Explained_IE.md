@@ -1,3 +1,8 @@
+Sun, 10 Dec 2023 06:27:25 +0000
+### [Landmark Article 370 verdict coming: here’s what happened in Supreme Court during hearings](https://indianexpress.com/article/explained/explained-law/article-370-verdict-supreme-court-hearings-9061978/)
+
+Article found but Couldn't summarize
+
 Sun, 10 Dec 2023 06:10:41 +0000
 ### [What is the Universal Declaration of Human Rights, which is marking its 75th anniversary?](https://indianexpress.com/article/explained/explained-global/universal-declaration-of-human-rights-marking-75th-anniversary-9061964/)
 
