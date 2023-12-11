@@ -1,3 +1,20 @@
+Mon, 11 Dec 2023 08:00:08 +0530
+### [The proliferation of deepfakes has shrouded India’s 2024 polls in uncertainty](https://www.livemint.com/opinion/online-views/the-proliferation-of-deepfakes-has-shrouded-india-s-2024-polls-in-uncertainty-11702208306588.html)
+
+Article found but Couldn't summarize 
+The online spread of deceptive AI-generated content aimed at voters could hurt Indian democracy now that the menace of fake clips has grown so real.
+
+Mon, 11 Dec 2023 08:00:08 +0530
+### [RBI's focus on inflation control will help boost GDP expansion](https://www.livemint.com/opinion/online-views/rbis-focus-on-inflation-control-will-help-boost-gdp-expansion-11702208191730.html)
+
+Article found but Couldn't summarize 
+For price stability to serve as a firm base for sustainable 7.2% plus growth, RBI must meet its 4% inflation target. Deft liquidity modulation is crucial and credit quality mustn’t drop.
+
+Mon, 11 Dec 2023 08:00:08 +0530
+### [Sugarcane held for sugar: Will ethanol fall short?](https://www.livemint.com/opinion/quick-edit/sugarcane-held-for-sugar-will-ethanol-fall-short-11702218637470.html)
+
+The Indian government has banned the use of sugarcane juice and sugar syrup for ethanol production this year due to fears of a drop in sugar output. This move aims to prevent potential price spikes in sugar due to a shortfall in supply. However, this ban also raises concerns about a potential ethanol shortage. India has set targets for increasing the percentage of ethanol blended with fuel, and this intervention could impact the country's blended-fuel ambitions. The liquor industry also relies on ethanol, highlighting the need for careful allocation of resources. While incentives could be used to increase ethanol production from various sources, it is generally preferred to minimize policy distortions and allow markets to function freely.
+
 Sun, 10 Dec 2023 22:59:46 +0530
 ### [Heavier risk weights can’t save lenders from every fire](https://www.livemint.com/opinion/online-views/heavier-risk-weights-can-t-save-lenders-from-every-fire-11702208874692.html)
 

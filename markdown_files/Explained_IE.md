@@ -1,3 +1,13 @@
+Mon, 11 Dec 2023 01:38:09 +0000
+### [Behind legal challenge to Article 370: promise to Jammu and Kashmir by framers of Constitution](https://indianexpress.com/article/explained/article-370-verdict-behind-legal-challenge-promise-to-jk-by-framers-of-constitution-9062775/)
+
+Article found but Couldn't summarize
+
+Mon, 11 Dec 2023 01:30:21 +0000
+### [Security situation in Jammu and Kashmir: More arrests, crackdown on network supporting militants](https://indianexpress.com/article/explained/security-situation-more-arrests-crackdown-on-network-supporting-militants-9062753/)
+
+Article found but Couldn't summarize
+
 Sun, 10 Dec 2023 14:02:18 +0000
 ### [Who is a J&K resident? This is how successive govts defined inhabitants of erstwhile state](https://indianexpress.com/article/explained/explained-politics/who-is-a-jk-resident-how-govts-defined-9062464/)
 

@@ -1,3 +1,48 @@
+Mon, 11 Dec 2023 02:05:42 +0000
+### [Ashok Gulati writes: BJP’s success in MP is the story of farming success](https://indianexpress.com/article/opinion/columns/bjps-success-in-mp-madhya-pradesh-poll-result-bjp-cogress-modi-shah-jodi-brand-modi-modi-factor-9062606/)
+
+Hmm, based on the provided text, it seems to be an analysis of the BJP's recent victories in Chhattisgarh, Madhya Pradesh, and Rajasthan, and the potential implications for the 2024 parliamentary elections. The article suggests that the success of the BJP in these states may be attributed to factors beyond just the popularity of Prime Minister Modi and party president Amit Shah. It highlights the importance of agricultural growth in Madhya Pradesh, with a high agri-GDP growth rate and a significant share of agriculture in the state's overall GDP. The article also mentions the impact of promises made by the BJP, such as the Ladli Behna scheme in Madhya Pradesh, which may have influenced women's votes. Additionally, the article emphasizes the drivers of agricultural growth in Madhya Pradesh, including increased irrigation, a well-organized wheat procurement system, and diversification towards high-value crops and dairy. Overall, the article suggests that the BJP's focus on agriculture and welfare policies played a significant role in their electoral success in these states.
+
+Mon, 11 Dec 2023 02:01:15 +0000
+### [Why rural India needs women drone pilots](https://indianexpress.com/article/opinion/columns/why-rural-india-needs-women-drone-pilots-9062597/)
+
+Article found but Couldn't summarize
+
+Mon, 11 Dec 2023 02:00:13 +0000
+### [Protecting Basic Structure from judicial arbitrariness](https://indianexpress.com/article/opinion/columns/kesavananda-bharati-case-basic-structure-doctrine-supreme-court-9062570/)
+
+Article found but Couldn't summarize
+
+Mon, 11 Dec 2023 01:30:43 +0000
+### [The future of healthcare is in our genes](https://indianexpress.com/article/opinion/columns/gene-and-cell-therapy-future-of-indian-healthcare-system-global-healthcare-landscape-9062573/)
+
+Article found but Couldn't summarize
+
+Mon, 11 Dec 2023 00:40:35 +0000
+### [Express View on COP28 declaration: Balance aspiration with climate action](https://indianexpress.com/article/opinion/editorials/express-view-on-cop28-declaration-balance-aspiration-with-climate-action-9062645/)
+
+Article found but Couldn't summarize
+
+Mon, 11 Dec 2023 00:30:59 +0000
+### [December 11, Forty Year Ago: No pact with India](https://indianexpress.com/article/opinion/40-years-ago/december-11-forty-year-ago-no-pact-with-india-9062647/)
+
+Article 1: Sri Lankan President Rejects Pact with India
+Sri Lankan President Junius Jayewardene stated that he would not engage in any agreement with India for resolving the ethnic issues in the country. Despite acknowledging India's power, he firmly stated that Sri Lanka would not surrender if India attempted to invade. However, he expressed willingness to find a reasonable solution if the Tamil leaders abandoned their demand for a separate state.
+
+Article 2: Controversy over Redefining Poverty Line
+A significant controversy has arisen between the Prime Minister's secretariat and the Planning Commission regarding the redefinition of the poverty line. The disagreement stems from whether social consumption, specifically expenses incurred during celebrations like marriages and festivals in rural households, should be included in calculating the poverty line.
+
+Article 3: Spy Ring Traced back to Defense Journal Article
+The uncovering of a spy ring involving high-ranking Army and Air Force officers started with the publication of an article in a defense journal. Major-General F.D. Larkins (Retd), one of the accused, had been contributing articles to defense journals in India and abroad. It was during this time that he came into contact with a Central Intelligence Agency (CIA) operative.
+
+Article 4: Israeli Attack on Palestinian Forces in Lebanon
+Israeli warships targeted pro-Yasser Arafat Palestinian forces in the northern Lebanese city of Tripoli. The attack was reportedly in response to international offers to prevent the evacuation of loyalist forces from the city. Israeli gunboats and a destroyer fired rockets and heavy machine guns at PLO positions until early morning, with no casualties reported.
+
+Mon, 11 Dec 2023 00:30:04 +0000
+### [Express view: The cost of subsidies](https://indianexpress.com/article/opinion/editorials/express-view-the-cost-of-subsidies-9062621/)
+
+Article found but Couldn't summarize
+
 Sun, 10 Dec 2023 14:37:43 +0000
 ### [From the Opinions Editor: Assembly election results and the big question for 2024](https://indianexpress.com/article/opinion/columns/assembly-election-results-big-question-for-2024-9062481/)
 

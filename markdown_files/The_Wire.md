@@ -1,3 +1,9 @@
+2023-12-11T07:00:32+05:30
+### [Quiz: What Records Did Taylor Swift Break Upon Becoming TIME Person of the Year?](https://thewire.in/quiz/questionable-december-11-2023-edition)
+
+No Article text 
+Between that and the incongruous calls of a newly discovered frog in Arunachal Pradesh, how closely have you followed the news over the past fortnight?
+
 2023-12-10T20:19:41+05:30
 ### [India Is Likely to Miss its Ethanol Blending Target This Year](https://thewire.in/energy/india-is-likely-to-miss-its-ethanol-blending-target-this-year)
 

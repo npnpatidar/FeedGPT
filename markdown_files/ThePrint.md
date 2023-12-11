@@ -1,3 +1,62 @@
+Mon, 11 Dec 2023 02:16:10 +0000
+### [South Korea’s Yoon to visit Netherlands with focus on semiconductors](https://theprint.in/tech/south-koreas-yoon-to-visit-netherlands-with-focus-on-semiconductors/1880715/)
+
+Article found but Couldn't summarize 
+SEOUL (Reuters) - South Korean President Yoon Suk Yeol departs for the Netherlands on Monday for a state visit, with cooperation on semiconductors and a potential "chip alliance" likely to be the
+
+Mon, 11 Dec 2023 02:15:56 +0000
+### [Oil extends gains on US strategic reserve purchase](https://theprint.in/economy/oil-extends-gains-on-us-strategic-reserve-purchase/1880713/)
+
+Article found but Couldn't summarize 
+By Florence Tan SINGAPORE (Reuters) - Oil prices inched higher on Monday, extending gains for a second session as U.S. efforts to replenish strategic reserves provided some support, although concerns
+
+Mon, 11 Dec 2023 02:15:46 +0000
+### [Asian stocks ease, rate cut hopes to be tested in week of central bank meetings](https://theprint.in/economy/asian-stocks-ease-rate-cut-hopes-to-be-tested-in-week-of-central-bank-meetings/1880711/)
+
+Asian shares drifted lower on Monday as investors awaited a series of central bank meetings and data on U.S. inflation. The Federal Reserve is expected to hold rates steady this week, and the consumer price report for November will also be influential. Analysts anticipate a Fed-friendly CPI report, but believe that economic conditions have not changed enough for officials to drop their tightening bias. The European Central Bank, Bank of England, Norges Bank, and the Swiss National Bank will also meet this week. Investors are cautious, and the MSCI's broadest index of Asia-Pacific shares outside Japan eased 0.7%.
+
+Mon, 11 Dec 2023 02:15:30 +0000
+### [China’s actions in S. China Sea undermine regional stability – US State Dept](https://theprint.in/world/chinas-actions-in-s-china-sea-undermine-regional-stability-us-state-dept/1880709/)
+
+Article found but Couldn't summarize 
+MANILA (Reuters) - The United States has called out China for interfering in the Philippines' maritime operations and undermining regional stability, urging Beijing to stop "its dangerous and
+
+Mon, 11 Dec 2023 02:15:15 +0000
+### [Mother of jailed Mexican drug lord ‘El Chapo’ Guzman dies -local media](https://theprint.in/world/mother-of-jailed-mexican-drug-lord-el-chapo-guzman-dies-local-media/1880707/)
+
+Article found but Couldn't summarize 
+MEXICO CITY (Reuters) - The elderly mother of convicted Mexican crime boss Joaquin "El Chapo" Guzman has died after spending the last couple weeks in a private clinic, local media reported on Sunday.
+
+Mon, 11 Dec 2023 02:15:03 +0000
+### [Philippines eyes constitutional amendments to ease economic restrictions](https://theprint.in/world/philippines-eyes-constitutional-amendments-to-ease-economic-restrictions/1880705/)
+
+Article found but Couldn't summarize 
+MANILA (Reuters) - Philippine lawmakers are considering efforts to amend the country's constitution to ease restrictive provisions on economic ownership, a top congressional leader said on Monday. "We
+
+Mon, 11 Dec 2023 02:02:02 +0000
+### [Iran: Massive explosion rocks hydrocarbon refinery in Birjand special economic zone](https://theprint.in/world/iran-massive-explosion-rocks-hydrocarbon-refinery-in-birjand-special-economic-zone/1880703/)
+
+Article found but Couldn't summarize 
+Tehran [Iran], December 11 (ANI): A massive explosion has rocked the hydrocarbon refinery in Iran&#8217;s Birjand special economic zone, with the fire now engulfing all 18 reservoirs in the refinery, Iran-based IRNA News reported. Rescue teams have temporarily withdrawn from the spot due to the constant threat of further explosions. No casualties have been reported [&#8230;]
+
+Mon, 11 Dec 2023 02:00:12 +0000
+### [New face of Bahujan movement: What Mayawati declaring nephew Akash heir means for BSP, UP politics](https://theprint.in/politics/new-face-of-bahujan-movement-what-mayawati-declaring-nephew-akash-heir-means-for-bsp-up-politics/1880255/)
+
+Article found but Couldn't summarize 
+Akash Anand, the 28-yr-old with an MBA degree, was introduced to BSP workers in 2017. Mayawati says he will now oversee party’s poll prep in all states except UP &#38; Uttarakhand.
+
+Mon, 11 Dec 2023 01:47:01 +0000
+### [PTM member lambasts Pakistani military, says ‘will continue our struggle until release of Manzoor Pashteen’](https://theprint.in/world/ptm-member-lambasts-pakistani-military-says-will-continue-our-struggle-until-release-of-manzoor-pashteen/1880701/)
+
+Article found but Couldn't summarize 
+Geneva [Switzerland], December 11 (ANI): Pashtun Tahaffuz Movement (PTM) member Fazal-ur-Rehman Afridi lambasted the Pakistani military establishment for trying to stifle their freedom of expression and their right to peaceful assembly and asserted that they cannot stifle their freedom around the world. He said that PTM will continue its struggle until the release of PTM [&#8230;]
+
+Mon, 11 Dec 2023 01:30:34 +0000
+### [Military must know a war’s political aims. Or it risks doing the right thing for wrong reasons](https://theprint.in/opinion/military-must-know-a-wars-political-aims-or-it-risks-doing-the-right-thing-for-wrong-reasons/1878419/)
+
+Article found but Couldn't summarize 
+The armed forces need to be vigilant that their actions are in the national interest and that they are not unwittingly doing the right thing for the wrong reasons.
+
 Mon, 11 Dec 2023 01:15:17 +0000
 ### [Dollar steady with US inflation, Fed meeting eyed; yuan heavy](https://theprint.in/economy/dollar-steady-with-us-inflation-fed-meeting-eyed-yuan-heavy/1880699/)
 
