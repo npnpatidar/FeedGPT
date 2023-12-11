@@ -1,3 +1,39 @@
+Mon, 11 Dec 2023 20:45:26 +0000
+### [Oil settles slightly higher, investors still wary](https://theprint.in/economy/oil-settles-slightly-higher-investors-still-wary/1882204/)
+
+Article found but Couldn't summarize 
+By Laura Sanicola (Reuters) -Oil prices settled up slightly on Monday as OPEC+ production cuts failed to fully offset worries around crude oversupply and softer fuel demand growth next year. Brent
+
+Mon, 11 Dec 2023 20:45:14 +0000
+### [Wall St edges higher, gold slides ahead of CPI, central bank decisions](https://theprint.in/economy/wall-st-edges-higher-gold-slides-ahead-of-cpi-central-bank-decisions/1882202/)
+
+Article found but Couldn't summarize 
+By Stephen Culp NEW YORK (Reuters) -U.S. stocks moved higher and gold slid on Monday, as investors looked ahead to crucial inflation data and the U.S. Federal Reserve's two-day monetary policy meeting
+
+Mon, 11 Dec 2023 20:45:04 +0000
+### [Al Jazeera accuses Israel of targeting home of one of its journalists resulting in his father’s death](https://theprint.in/world/al-jazeera-accuses-israel-of-targeting-home-of-one-of-its-journalists-resulting-in-his-fathers-death/1882201/)
+
+Article found but Couldn't summarize 
+(Reuters) - Al Jazeera TV network accused Israel's army of targeting a residential house in Palestinian Gaza strip belonging to one of its journalists, Anas al-Sharif, resulting in his father's death.
+
+Mon, 11 Dec 2023 20:30:23 +0000
+### [Gold slips to three-week low; focus shifts to US inflation data](https://theprint.in/economy/gold-slips-to-three-week-low-focus-shifts-to-us-inflation-data/1882199/)
+
+Article found but Couldn't summarize 
+By Anushree Ashish Mukherjee (Reuters) - Gold prices fell to a three-week low on Wednesday as the dollar and U.S. Treasury yields firmed, while investors awaited several crucial central bank meetings
+
+Mon, 11 Dec 2023 20:30:12 +0000
+### [Israel has no intention of staying permanently in Gaza -defence minister](https://theprint.in/world/israel-has-no-intention-of-staying-permanently-in-gaza-defence-minister/1882197/)
+
+Article found but Couldn't summarize 
+JERUSALEM (Reuters) -Israel's defence minister on Monday said his country has no intention of staying permanently in the Gaza Strip and that it was open to discussing alternatives about who would
+
+Mon, 11 Dec 2023 20:30:03 +0000
+### [Activists calling for Gaza ceasefire protest in US Senate office building](https://theprint.in/world/activists-calling-for-gaza-ceasefire-protest-in-us-senate-office-building/1882195/)
+
+Article found but Couldn't summarize 
+By Moira Warburton WASHINGTON (Reuters) - Several dozen activists calling for the United States to push for a permanent ceasefire between Israel and Hamas briefly protested in a U.S. Senate office
+
 Mon, 11 Dec 2023 20:17:13 +0000
 ### [War against Hamas will end after Israel achieves its goals, says Defence Minister Gallant](https://theprint.in/world/war-against-hamas-will-end-after-israel-achieves-its-goals-says-defence-minister-gallant/1882193/)
 
