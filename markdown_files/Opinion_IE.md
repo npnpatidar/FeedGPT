@@ -1,3 +1,8 @@
+Mon, 11 Dec 2023 21:30:47 +0000
+### [December 12, 1983, Forty Years Ago: Impasse with Akalis](https://indianexpress.com/article/opinion/40-years-ago/december-12-1983-forty-years-ago-impasse-with-akalis-9064066/)
+
+Article found but Couldn't summarize
+
 Mon, 11 Dec 2023 14:10:25 +0000
 ### [Haseeb Drabu writes: For Kashmiris, Article 370 was was more than a law – it was an identity](https://indianexpress.com/article/opinion/columns/haseeb-drabu-for-kashmiris-article-370-was-was-more-than-a-law-9063879/)
 

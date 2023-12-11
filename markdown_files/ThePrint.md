@@ -1,3 +1,81 @@
+Mon, 11 Dec 2023 22:15:30 +0000
+### [Tucker Carlson’s streaming service goes live, charges $9 per month](https://theprint.in/tech/tucker-carlsons-streaming-service-goes-live-charges-9-per-month/1882231/)
+
+Article found but Couldn't summarize 
+By Aditya Soni and Helen Coster (Reuters) -Tucker Carlson's new subscription-based streaming video service featuring interviews and commentary went live on Monday, priced at $9 per month, as the
+
+Mon, 11 Dec 2023 22:15:16 +0000
+### [Wall St notches new 2023 closing highs, gold slides ahead of CPI, Fed](https://theprint.in/economy/wall-st-notches-new-2023-closing-highs-gold-slides-ahead-of-cpi-fed/1882229/)
+
+Article found but Couldn't summarize 
+By Stephen Culp NEW YORK (Reuters) - U.S. stocks ended in positive territory and gold slid on Monday, as investors looked ahead to crucial inflation data and the U.S. Federal Reserve's two-day
+
+Mon, 11 Dec 2023 22:15:05 +0000
+### [Trump holds wide lead in Republican 2024 nominating contest – Reuters/Ipsos poll](https://theprint.in/world/trump-holds-wide-lead-in-republican-2024-nominating-contest-reuters-ipsos-poll/1882227/)
+
+Article found but Couldn't summarize 
+By Andy Sullivan WASHINGTON (Reuters) - Donald Trump maintains his dominant position in the 2024 Republican presidential nominating contest, drawing the support of more than half of the party's voters
+
+Mon, 11 Dec 2023 21:47:02 +0000
+### [Pakistan Tehreek-e-Insaf urges election commission to allot ‘bat’ as election symbol](https://theprint.in/world/pakistan-tehreek-e-insaf-urges-election-commission-to-allot-bat-as-election-symbol/1882225/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 12 (ANI): Pakistan Tehreek-e-Insaf (PTI) core committee has called on the Election Commission of Pakistan (ECP) to allot bat as the election symbol to the party, Pakistan-based ARY News reported. According to the details, the PTI&#8217;s core committee has expressed disappointment with the delay in the allotment of election symbols. The PTI&#8217;s [&#8230;]
+
+Mon, 11 Dec 2023 21:45:24 +0000
+### [Soccer-Nigeria striker Osimhen crowned African Footballer of the Year](https://theprint.in/sport/soccer-nigeria-striker-osimhen-crowned-african-footballer-of-the-year/1882223/)
+
+Article found but Couldn't summarize 
+(Reuters) - Nigeria striker Victor Osimhen has been named African Footballer of the Year after beating Mohamed Salah to the award at a ceremony in Marrakech on Monday, with compatriot Asisat Oshoala
+
+Mon, 11 Dec 2023 21:45:10 +0000
+### [Oracle misses revenue estimates on weak cloud spending, shares fall](https://theprint.in/tech/oracle-misses-revenue-estimates-on-weak-cloud-spending-shares-fall/1882221/)
+
+Article found but Couldn't summarize 
+(Reuters) -Oracle missed estimates for second-quarter revenue on Monday, as an uncertain economy and competition in the cloud computing market weighed on demand for its cloud offerings, sending its
+
+Mon, 11 Dec 2023 21:32:02 +0000
+### [UAE: 17th Dubai International Food Safety Conference kicks off at DWTC](https://theprint.in/world/uae-17th-dubai-international-food-safety-conference-kicks-off-at-dwtc/1882219/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 12 (ANI/WAM): The 17th edition of the Dubai International Food Safety Conference, organised by Dubai Municipality kicked off on December 11, 2023, at the Dubai World Trade Center (DWTC) under the theme &#8216;Impact of Climate Change on Food Safety&#8217;. The event, which will run until December 13, 2023, will convene over 3,000 [&#8230;]
+
+Mon, 11 Dec 2023 21:17:01 +0000
+### [Amongst the leaders in gender equality, Finland awards International prize to Aghanistan-based NGO](https://theprint.in/world/amongst-the-leaders-in-gender-equality-finland-awards-international-prize-to-aghanistan-based-ngo/1882215/)
+
+Article found but Couldn't summarize 
+By Ayushi Agarwal Tampere [Finland], December 12 (ANI): Finland, on Monday, awarded the International Gender Equality Prize for 2023 to an NGO in Afghanistan that works to promote and protect the rights of women in Afghanistan. The organisation Afghan Women Skills Development Center does important humanitarian work to promote the safety of Afghan women. Ever [&#8230;]
+
+Mon, 11 Dec 2023 21:15:48 +0000
+### [Soccer-Coach Radulovic returns to Lebanon job a month before Asian Cup](https://theprint.in/sport/soccer-coach-radulovic-returns-to-lebanon-job-a-month-before-asian-cup/1882212/)
+
+Article found but Couldn't summarize 
+(Reuters) - Lebanon have reappointed former Montenegro coach Miodrag Radulovic to replace Croatian Nikola Jurcevic just a month before the Asian Cup in Qatar, the Lebanese FA said on Monday. Jurcevic
+
+Mon, 11 Dec 2023 21:15:40 +0000
+### [Soccer-Everton respond to ‘poverty chants’ from visiting fans with foodbanks advert](https://theprint.in/sport/soccer-everton-respond-to-poverty-chants-from-visiting-fans-with-foodbanks-advert/1882211/)
+
+Article found but Couldn't summarize 
+(Reuters) - Everton will continue to advertise charity foodbanks on their scoreboard at Goodison Park in response to visiting fans' 'poverty chanting' after "Feed the Scousers" was heard during the 2-
+
+Mon, 11 Dec 2023 21:15:30 +0000
+### [Oracle misses revenue estimates on weak cloud spending](https://theprint.in/tech/oracle-misses-revenue-estimates-on-weak-cloud-spending/1882209/)
+
+Article found but Couldn't summarize 
+(Reuters) - Oracle missed estimates for quarterly revenue on Monday, as an uncertain economy and competition in the cloud computing market weighed on demand for its cloud offerings. The cloud-based
+
+Mon, 11 Dec 2023 21:15:16 +0000
+### [US puts visa curbs on those it accuses of ‘anti-democratic’ moves in Guatemala](https://theprint.in/world/us-puts-visa-curbs-on-those-it-accuses-of-anti-democratic-moves-in-guatemala/1882208/)
+
+Article found but Couldn't summarize 
+WASHINGTON/GUATEMALA CITY (Reuters) -The U.S. government announced measures on Monday to punish what it has described as anti-democratic moves by officials including Guatemala's top prosecutor that
+
+Mon, 11 Dec 2023 21:15:06 +0000
+### [Israel must comply with laws of war under US weapons assistance policy](https://theprint.in/world/israel-must-comply-with-laws-of-war-under-us-weapons-assistance-policy/1882206/)
+
+Article found but Couldn't summarize 
+WASHINGTON (Reuters) - Israel is no exception to U.S. policy that any country receiving its weapons must comply with the laws of war, the State Department said on Monday after Washington sold about
+
 Mon, 11 Dec 2023 20:45:26 +0000
 ### [Oil settles slightly higher, investors still wary](https://theprint.in/economy/oil-settles-slightly-higher-investors-still-wary/1882204/)
 
