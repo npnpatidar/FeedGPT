@@ -1,3 +1,9 @@
+Mon, 11 Dec 2023 15:30:00 +0530
+### [Looking for intelligent alien life is hard not just for space’s size | Explained](https://www.thehindu.com/sci-tech/science/seti-meti-extraterrestrial-intelligence-search-challenges-explained/article67626950.ece)
+
+Article found but Couldn't summarize 
+We haven’t yet been able to pierce what has come to be called the ‘Great Silence’ of the universe. Why?
+
 Mon, 11 Dec 2023 08:30:00 +0530
 ### [What is the controversy over Germany’s debt brake rule? | Explained](https://www.thehindu.com/news/international/what-is-the-controversy-over-germanys-debt-brake-rule-explained/article67625307.ece)
 

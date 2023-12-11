@@ -1,3 +1,9 @@
+Mon, 11 Dec 2023 15:17:20 +0530
+### [Article 370: SC verdict shows that when it matters, judiciary upholds the sanctity of Indian state over activism](https://www.firstpost.com/opinion/article-370-sc-verdict-shows-that-when-it-matters-judiciary-upholds-the-sanctity-of-indian-state-over-activism-13490142.html)
+
+Article found but Couldn't summarize 
+Article 370: SC verdict shows that when it matters, judiciary upholds the sanctity of Indian state over activism
+
 Mon, 11 Dec 2023 11:51:04 +0530
 ### [India’s response to Rohingya refugee crisis must balance humanitarianism with national security](https://www.firstpost.com/opinion/indias-response-to-rohingya-refugee-crisis-must-balance-humanitarianism-with-national-security-13488932.html)
 

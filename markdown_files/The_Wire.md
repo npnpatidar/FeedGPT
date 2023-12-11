@@ -1,3 +1,9 @@
+2023-12-11T15:30:29+05:30
+### [J&K: New Study Paints Grim Picture of Land Use Changes in Dachigam National Park](https://thewire.in/environment/jk-dachigam-national-park-grim-picture-forest-cover)
+
+No Article text 
+The park, located near Srinagar, lost 8% of its forest cover in 55 years while the ‘exposed rock’ area reduced by 13%. There was an increase in the park’s shrublands and alpine pastures.
+
 2023-12-11T14:33:23+05:30
 ### [Four Important Takeaways From the Supreme Court Ruling on Jammu and Kashmir](https://thewire.in/law/four-important-takeaways-from-the-supreme-court-ruling-on-jammu-and-kashmir)
 

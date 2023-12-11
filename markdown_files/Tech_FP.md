@@ -1,3 +1,9 @@
+Mon, 11 Dec 2023 15:23:04 +0530
+### [Apple to launch Vision Pro headset soon, starts scheduling training sessions for retail employees](https://www.firstpost.com/tech/apple-to-launch-vision-pro-headset-soon-starts-scheduling-training-sessions-for-retail-employees-13490332.html)
+
+Article found but Couldn't summarize 
+Apple to launch Vision Pro headset soon, starts scheduling training sessions for retail employees
+
 Mon, 11 Dec 2023 14:10:19 +0530
 ### [NVIDIA CEO Jensen Huang woos Vietnam, plans to set up Asian AI Chip base in the country](https://www.firstpost.com/tech/nvidia-ceo-jensen-huang-woos-vietnam-plans-to-set-up-asian-ai-chip-base-in-the-country-13489822.html)
 

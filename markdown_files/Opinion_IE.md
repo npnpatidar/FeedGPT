@@ -1,3 +1,8 @@
+Mon, 11 Dec 2023 09:23:04 +0000
+### [Abrogation of Article 370 upheld: Better days lie ahead for Kashmiris](https://indianexpress.com/article/opinion/columns/article-370-abrogation-kashmir-better-days-9063314/)
+
+Article found but Couldn't summarize
+
 Mon, 11 Dec 2023 06:15:54 +0000
 ### [100 years on, remembering Maulana Azad’s words on Hindu-Muslim unity](https://indianexpress.com/article/opinion/columns/100-years-remembering-maulana-azad-hindu-muslim-unity-9063047/)
 
