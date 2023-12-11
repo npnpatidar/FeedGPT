@@ -1,3 +1,9 @@
+2023-12-11T21:45:55+05:30
+### [Citing SC's Silence on J&K's Statehood, Opposition Parties Raise Concerns Over Federalism](https://thewire.in/politics/citing-scs-silence-on-jks-statehood-opposition-parties-raise-concerns-over-federalism)
+
+No Article text 
+The part of the Article 370 judgement where the court has said it will not rule on downgrading the status of the erstwhile state and the process adopted for that has raised red flags.
+
 2023-12-11T20:42:34+05:30
 ### [Pak Shrugs Off Article 370 Ruling But May See Opportunity to Normalise Ties in Statehood Nod](https://thewire.in/diplomacy/pakistan-article-370-statehood-nod-normalise-ties)
 

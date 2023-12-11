@@ -1,3 +1,121 @@
+Mon, 11 Dec 2023 16:17:42 +0000
+### [Pakistan: Court rejects physical remand plea against Fawad Chaudhry](https://theprint.in/world/pakistan-court-rejects-physical-remand-plea-against-fawad-chaudhry/1881988/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 11 (ANI): The Anti-Corruption Court rejected the physical remand plea against Pakistan&#8217;s former federal minister, Fawad Chaudhary, in a graft case, ARY News reported on Monday. While hearing the plea filed by the Anti-Corruption Establishment, senior judge Ghulam Akbar rejected the physical remand and sent Fawad Chaudhry to jail on judicial remand. [&#8230;]
+
+Mon, 11 Dec 2023 16:17:32 +0000
+### [Dalai Lama to visit Mumbai for international conference on Buddhism: Union Minister Athawale](https://theprint.in/world/dalai-lama-to-visit-mumbai-for-international-conference-on-buddhism-union-minister-athawale/1881986/)
+
+Article found but Couldn't summarize 
+Mumbai [Maharashtra], December 11 (ANI) Tibetan spiritual leader, the 14th Dalai Lama, will come to Mumbai for an international conference on Buddhism on December 16, said Union Minister Ramdas Athawale. While addressing a press conference, the Union Minister shared that the Tibetan leader has been invited as a chief guest and that other political dignitaries [&#8230;]
+
+Mon, 11 Dec 2023 16:17:23 +0000
+### [“Love, ishq, mohabbat, pyaar…yeh sabka izhaar karne mein hum waqt laga dete hain”: SRK](https://theprint.in/feature/love-ishq-mohabbat-pyaar-yeh-sabka-izhaar-karne-mein-hum-waqt-laga-dete-hain-srk/1881984/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 11 (ANI): Superstar Shah Rukh Khan is all set to spread love with his new film &#8216;Dunki&#8217;. On Monday, he unveiled a new song &#8216;O Maahi&#8217; from the movie. In the video, Dunki&#8217;s lead pair Shah Rukh Khan and Taapsee Pannu determined to brave whatever life throws at them as they [&#8230;]
+
+Mon, 11 Dec 2023 16:17:12 +0000
+### [Argentina: President Javier Milei asks nation to brace for “painful economic shock”](https://theprint.in/world/argentina-president-javier-milei-asks-nation-to-brace-for-painful-economic-shock/1881982/)
+
+Argentina's newly elected President, Javier Milei, has warned the country to prepare for "painful austerity measures" in response to the country's economic crisis. Milei, known for hard-right libertarian views, plans to implement radical measures to fix the economy, including spending cuts and switching the Argentinian peso for the US dollar. His abrasive style has drawn comparisons with former US President Donald Trump, and his anti-establishment message has resonated with many Argentinians. Although he faces challenges in governing effectively due to his coalition's lack of majority in the legislature, signs indicate that he may soften his more radical positions in office.
+
+Mon, 11 Dec 2023 16:17:02 +0000
+### [Chiranjeevi meets ailing KCR at Hyderabad hospital](https://theprint.in/feature/chiranjeevi-meets-ailing-kcr-at-hyderabad-hospital/1881980/)
+
+Megastar Chiranjeevi visited Yashoda Hospital to inquire about the health of former Telangana chief minister K Chandrashekara Rao, who is recuperating from hip replacement surgery. KCR fell in his farmhouse, resulting in a left hip fracture that required surgery. Yashoda Hospital stated that the expected recovery time for such cases is six to eight weeks. Prime Minister Narendra Modi and other political leaders have expressed their well wishes for KCR's recovery. Leaders such as N Chandrababu Naidu and Telangana Deputy Chief Minister Bhatti Vikramarka also visited KCR at the hospital.
+
+Mon, 11 Dec 2023 16:16:38 +0000
+### [Priyanka Gandhi’s absence at Cong govt’s first anniversary celebrations leaves big question: Bindal](https://theprint.in/india/priyanka-gandhis-absence-at-cong-govts-first-anniversary-celebrations-leaves-big-question-bindal/1881979/)
+
+Article found but Couldn't summarize 
+Shimla, Dec 11 (PTI) Congress leader Priyanka Gandhi Vadra&#8217;s absence from the celebrations marking the completion of the Congress government&#8217;s one year in office raises a big question, Himachal Pradesh BJP president Rajiv Bindal alleged on Monday. Chief Minister Sukhvinder Singh Sukhu had personally announced that Congress president Mallikarjun Kharge as well as party leaders [&#8230;]
+
+Mon, 11 Dec 2023 16:16:27 +0000
+### [Political will to uplift SCs and STs lacking before 2014, says Uttarakhand CM Dhami](https://theprint.in/india/political-will-to-uplift-scs-and-sts-lacking-before-2014-says-uttarakhand-cm-dhami/1881978/)
+
+Article found but Couldn't summarize 
+Dehradun, Dec 11 (PTI) Prime Minister Narendra Modi began new experiments to steer Scheduled Castes, Dalits and tribal communities on the path of development while governments before 2014 lacked the political will to work to uplift these sections, Uttarakhand Chief Minister Pushkar Singh Dhami said on Monday. &#8220;Under Prime Minister Modi&#8217;s leadership, not only the [&#8230;]
+
+Mon, 11 Dec 2023 16:16:16 +0000
+### [No separate budget under Azadi ka Amrit Mahotsav programme: Govt](https://theprint.in/india/no-separate-budget-under-azadi-ka-amrit-mahotsav-programme-govt/1881976/)
+
+The article reports that there was "no separate budget" under the Azadi ka Amrit Mahotsav (AKAM), and all the ministries, state governments, and their attached bodies incurred expenditure for events from their respective budget heads. The program commemorated 75 years of independence and celebrated the history and diversity of the country. More than 2 lakh events and programs were organized under the AKAM, with about 1.9 lakh held under ministries, departments, states, or union territories and published on the website. Additionally, a Digital District Repository has been compiled to document stories linked to the freedom struggle of India at the district level, with about 14,500 stories already uploaded on the portal.
+
+Mon, 11 Dec 2023 16:16:11 +0000
+### [Soccer-Bayern must make amends against Man Utd, warns Freund](https://theprint.in/sport/soccer-bayern-must-make-amends-against-man-utd-warns-freund/1881975/)
+
+Bayern Munich will be looking to make amends for their recent defeat when they face Manchester United in the Champions League. Bayern has already secured a last-16 berth by winning Group A, while United is currently at the bottom and must win against Bayern to have a chance of advancing. Despite United possibly hoping for a less motivated Bayern, the recent defeat against Eintracht Frankfurt means that Bayern will be determined to bounce back. The match between Manchester United and Bayern Munich is always special, and there is still a lot at stake for United. Bayern aims to produce a good performance and remain undefeated in the group.
+
+Mon, 11 Dec 2023 16:16:06 +0000
+### [Odisha: Retired engineer, wife jailed in assets case](https://theprint.in/india/odisha-retired-engineer-wife-jailed-in-assets-case/1881974/)
+
+A retired engineer and his wife have been jailed for possessing disproportionate assets of Rs 38.40 lakh. Simadri Nayak, the former executive engineer of rural works division at Umarkote in Nabarangpur district, and his wife Laxmi Nayak were convicted by a special court in Bhubaneswar. The court imposed a three-year jail term for Nayak and a two-year jail term for his wife, along with fines of Rs 10 lakh and Rs 2 lakh, respectively. Additionally, Ananda Chandra Behera, a retired superintendent at the Odisha Warehousing Corporation, has been convicted in a graft case and sentenced to one year of imprisonment and fined Rs 2 lakh.
+
+Mon, 11 Dec 2023 16:15:55 +0000
+### [Bihar Police launches 24X7 helpline for reporting heinous crimes](https://theprint.in/india/bihar-police-launches-24x7-helpline-for-reporting-heinous-crimes/1881971/)
+
+The Bihar Police has launched a dedicated 24/7 helpline, 14432, for the public to share information about heinous crimes such as murders and rapes. All calls to the helpline will be monitored by the Special Task Force of the state police, and the identity of the person providing information will be kept secret. The helpline will only accept information related to heinous crimes and criminals involved in them, and prompt action will be taken based on the provided information. This helpline is in addition to existing emergency, prohibition, and cybercrime helplines.
+
+Mon, 11 Dec 2023 16:15:53 +0000
+### [Berlin Film Festival picks Lupita Nyong’o to lead 2024 jury](https://theprint.in/entertainment/berlin-film-festival-picks-lupita-nyongo-to-lead-2024-jury/1881970/)
+
+Lupita Nyong'o, the Academy Award-winning actress known for her roles in "Black Panther" and "12 Years A Slave," will lead the jury of next year's Berlin Film Festival. She gained fame for her Oscar-winning performance in "12 Years A Slave" and has since appeared in "Black Panther" and its sequel, as well as Jordan Peele's "Us." Nyong'o is also developing a series based on Nigerian author Chimamanda Ngozi Adichie's "Americanah." The Berlinale jury selects the winners of the Golden and Silver Bears, prestigious awards in the international film festival circuit. The directors of the Berlinale praised Nyong'o's versatility and consistency in embracing different projects and addressing diverse audiences. (Please stay in character!)
+
+Mon, 11 Dec 2023 16:15:41 +0000
+### [Cheating case: Kolkata court grants interim bail to Bollywood actress Zareen Khan](https://theprint.in/india/cheating-case-kolkata-court-grants-interim-bail-to-bollywood-actress-zareen-khan/1881968/)
+
+The Sealdah court in Kolkata has directed Bollywood actress Zareen Khan not to travel abroad without its permission in connection with a cheating case registered at Narkeldanga police station. The court granted her interim bail till December 26 on a personal bond of Rs 30,000 and barred her from leaving the country without prior permission from Kolkata Police. Zareen is also required to appear before the court at every hearing. The case dates back to 2018 when the actress allegedly took an advance of around Rs 12 lakh to perform at a Durga Puja function in Kolkata but did not turn up. This resulted in a complaint being filed against her and her manager at Narkeldanga police station. In September, the court issued an arrest warrant against Zareen in connection with the case.
+
+Mon, 11 Dec 2023 16:15:38 +0000
+### [Gold slips to near three-week low; focus shifts to US inflation data](https://theprint.in/economy/gold-slips-to-near-three-week-low-focus-shifts-to-us-inflation-data/1881967/)
+
+Article found but Couldn't summarize 
+By Anushree Ashish Mukherjee (Reuters) - Gold prices fell to a near three-week low on Wednesday as the dollar and U.S. Treasury yields firmed, while investors awaited several crucial central bank
+
+Mon, 11 Dec 2023 16:15:28 +0000
+### [IPL auction: Harshal, Shardul in top base price bracket as 333 players to go under hammer](https://theprint.in/sport/ipl-auction-harshal-shardul-in-top-base-price-bracket-as-333-players-to-go-under-hammer/1881964/)
+
+The Indian Premier League (IPL) auction is scheduled to take place in Dubai on December 19th, with 333 players vying for 77 slots. Among the players, seamers Harshal Patel, Shardul Thakur, and Umesh Yadav are in the highest base price bracket of Rs 2 crore. The IPL Governing Council handed the franchises a list of 1166 players, which was later pruned to 333 after the franchises provided their wish-list. Out of these players, 214 are Indian and 119 are overseas, with two from associate nations. The 10 franchises can collectively spend up to Rs 262.95 crore, and 30 slots are earmarked for overseas players. Players like Rachin Ravindra, Gerald Coetzee, Rassie van der Dussen, Tom-Kohler Cadmore, Wanindu Hasaranga, and Shivam Mavi are expected to attract attention during the auction.
+
+Mon, 11 Dec 2023 16:15:27 +0000
+### [Wall Street subdued, gold slides ahead of CPI, Fed](https://theprint.in/economy/wall-street-subdued-gold-slides-ahead-of-cpi-fed/1881963/)
+
+The article reports that on a particular day, U.S. stocks were muted, gold prices dropped to a near three-week low, and the dollar firmed against other currencies as investors awaited crucial inflation data and the U.S. Federal Reserve’s monetary policy meeting.
+
+The three major U.S. stock indexes were mixed, with the Dow Jones edging higher, the Nasdaq nominally lower, and the S&P 500 essentially unchanged. Gold dropped to a near three-week low as the dollar firmed and Treasury yields moved higher.
+
+European shares were slightly higher as market participants awaited critical U.S. economic data and interest rate decisions from the Fed and other major central banks. MSCI’s gauge of stocks across the globe gained slightly, while emerging market stocks lost 0.24%. U.S. Treasury yields extended last week’s rise as investors prepped for two auctions as well as the Fed’s policy meeting, which could determine whether a monetary policy shift is on the horizon. Benchmark 10-year notes last fell to yield 4.2698%, from 4.245% late on Friday, and the 30-year bond last fell to yield 4.3526%, from 4.326% late on Friday.
+
+The dollar edged higher against a basket of world currencies, the Japanese yen weakened, and Sterling was last trading slightly higher on the day. Oil prices were slightly higher, with U.S. crude falling to $71.15 per barrel and Brent last at $75.82. Gold slid to a near three-week low as the dollar firmed, dropping by 1.0% to $1,982.49 an ounce.
+
+Please note that this is just a summary of the article and may not include all the details. For specific investment advice or market analysis, it's best to consult with a financial professional.
+
+Mon, 11 Dec 2023 16:15:16 +0000
+### [Minister’s ‘Muslim Speaker’ comment rocks Karnataka Assembly](https://theprint.in/india/ministers-muslim-speaker-comment-rocks-karnataka-assembly/1881962/)
+
+Article found but Couldn't summarize 
+Belagavi (KTK), Dec 11 (PTI) Protests rocked the Karnataka Legislative Assembly proceedings on Monday with opposition BJP and JD(S) staging a day long agitation from the well, demanding the suspension of Minister Zameer Ahmed Khan from the House over his alleged &#8220;Muslim Speaker&#8221; remark. Amidst the din, the House witnessed five bills being passed without [&#8230;]
+
+Mon, 11 Dec 2023 16:15:16 +0000
+### [Turkish air strikes hit 13 Kurdish militant targets in northern Iraq -ministry](https://theprint.in/world/turkish-air-strikes-hit-13-kurdish-militant-targets-in-northern-iraq-ministry/1881961/)
+
+Article found but Couldn't summarize 
+ANKARA (Reuters) - Turkey's military conducted air strikes in northern Iraq on Monday and destroyed 13 Kurdish militant targets, the Turkish Defence Ministry said, adding many militants had been "
+
+Mon, 11 Dec 2023 16:15:06 +0000
+### [Israeli shelling kills mayor of Lebanese village](https://theprint.in/world/israeli-shelling-kills-mayor-of-lebanese-village/1881960/)
+
+Article found but Couldn't summarize 
+DUBAI (Reuters) - An Israeli shell killed the mayor of a Lebanese village on Monday, a relative and Lebanon's National News Agency said, as Israel and Lebanon's Hezbollah kept up hostilities ignited
+
+Mon, 11 Dec 2023 16:15:02 +0000
+### [Governor invites BJP legislature party leader Mohan Yadav to form government in MP](https://theprint.in/india/governor-invites-bjp-legislature-party-leader-mohan-yadav-to-form-government-in-mp/1881959/)
+
+Article found but Couldn't summarize 
+Bhopal, Dec 11 (PTI) Madhya Pradesh Governor Mangubhai Patel on Monday invited BJP legislature party leader Mohan Yadav to form a government in the state and handed over a letter pertaining to his appointment as the next chief minister, an official said. Soon after his election as the leader of the BJP legislature party, Yadav [&#8230;]
+
 Mon, 11 Dec 2023 15:15:03 +0000
 ### [India’s Infosys finance chief Nilanjan Roy resigns](https://theprint.in/india/indias-infosys-finance-chief-nilanjan-roy-resigns/1881868/)
 

@@ -1,3 +1,25 @@
+Mon, 11 Dec 2023 21:37:21 +0530
+### [Excessive executive pay must be held in check for India Inc’s sake](https://www.livemint.com/opinion/online-views/excessive-executive-pay-must-be-held-in-check-for-india-inc-s-sake-11702307357946.html)
+
+The article discusses the issue of excessive executive remuneration in corporate India, particularly the widening pay gap between top executives and median salaries, leading to tensions and low productivity. It also addresses concerns about substantial remuneration, regulatory breaches, and challenges to compensation practices. The article emphasizes the importance of transparency, regulatory compliance, and shareholder activism in shaping corporate decisions, including executive remuneration. Additionally, it highlights the need for companies to design transparent management pay-package policies for sustainable value creation and preservation, along with fostering a culture of transparency for a healthy and equitable work environment.
+
+Mon, 11 Dec 2023 21:29:32 +0530
+### [CoP-28 diary: We must learn to distinguish signal from noise at climate summits](https://www.livemint.com/opinion/online-views/cop28-diary-we-must-learn-to-distinguish-signal-from-noise-at-climate-summits-11702307464041.html)
+
+Article found but Couldn't summarize 
+A noisy parallel track of panel discussions and pledges has arisen at CoPs over the years but we should stay focused on the real deliverables to avert catastrophic outcomes for the planet.
+
+Mon, 11 Dec 2023 21:19:32 +0530
+### [CoP-28 is turning into a trade show and it is not necessarily a bad thing](https://www.livemint.com/opinion/online-views/cop28-is-turning-into-a-trade-show-and-it-is-not-necessarily-a-bad-thing-11702303004535.html)
+
+The article discusses the climate huddle at CoP-28 in Dubai, highlighting the presence of a large number of attendees, including representatives from fossil fuel companies. It emphasizes the need for substantial investment in clean energy to meet environmental commitments and suggests that global capital is waking up to both the threat and opportunity of the energy transition. The article also discusses the imbalance in media coverage between the emerging clean-energy economy and the petroleum industry, as well as the potential benefits of spreading the load of climate conferences to other industry events. Overall, it stresses the convergence of self-interest of big businesses with that of the planet in addressing environmental challenges.
+
+Mon, 11 Dec 2023 21:13:33 +0530
+### [Generative AI generates real worries of identity privacy and data accuracy](https://www.livemint.com/opinion/online-views/generative-ai-generates-real-worries-of-identity-privacy-and-data-accuracy-11702303089541.html)
+
+Article found but Couldn't summarize 
+A fierce chatbot race is underway among AI pioneers. Privacy and accuracy may end up as casualties. How well might rival bots fare?
+
 Mon, 11 Dec 2023 13:47:15 +0530
 ### [Is it time to stop your SIPs? Perhaps](https://www.livemint.com/opinion/columns/is-it-time-to-stop-your-sips-perhaps-11702281491993.html)
 
