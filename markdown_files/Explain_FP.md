@@ -1,3 +1,14 @@
+Mon, 11 Dec 2023 20:34:44 +0530
+### [Why BJP picked Mohan Yadav as Madhya Pradesh CM over Shivraj Singh Chouhan](https://www.firstpost.com/explainers/why-bjp-picked-mohan-yadav-as-madhya-pradesh-cm-over-shivraj-singh-chouhan-13491592.html)
+
+Article found but Couldn't summarize 
+Why BJP picked Mohan Yadav as Madhya Pradesh CM over Shivraj Singh Chouhan
+
+Mon, 11 Dec 2023 20:29:39 +0530
+### [How stone-pelting incidents have fallen in J&amp;K after abrogation of Article 370](https://www.firstpost.com/explainers/how-stone-pelting-incidents-have-fallen-in-jk-after-abrogation-of-article-370-13491572.html)
+
+The Centre told the Supreme Court that Jammu and Kashmir has seen significant progress in terms of security, with a substantial decrease in organized stone-pelting incidents and bandhs. The government reported that stone-pelting incidents reduced from 1,767 in 2018 to zero in 2023, while bandhs fell from 52 in 2018 to zero in 2023. Similarly, the number of hartals and bandh calls decreased by 90%. Additionally, there has been a significant drop in terrorist recruitment and a decline in street violence. The Ministry of Home Affairs data showed a decrease in stone-pelting incidents from 618 in 2019 to 76 in the same period in 2021. Home Minister Amit Shah also stated that there were zero stone-pelting incidents in 2023, compared to 2,654 in 2010.
+
 Mon, 11 Dec 2023 19:01:15 +0530
 ### [ChatGPT is injurious to health: Why you should not take medical advice from OpenAI's chatbot](https://www.firstpost.com/explainers/chatgpt-is-injurious-to-health-why-you-should-not-take-medical-advice-from-openais-chatbot-13490152.html)
 

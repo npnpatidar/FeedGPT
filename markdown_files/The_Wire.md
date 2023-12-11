@@ -1,3 +1,9 @@
+2023-12-11T20:42:34+05:30
+### [Pak Shrugs Off Article 370 Ruling But May See Opportunity to Normalise Ties in Statehood Nod](https://thewire.in/diplomacy/pakistan-article-370-statehood-nod-normalise-ties)
+
+No Article text 
+The Supreme Court's judgement also upheld Ladakh's separation from Jammu and Kashmir as well as its status as a Union territory. However, China, which had deemed the move as “unacceptable”, is yet to react.
+
 2023-12-11T19:27:10+05:30
 ### [India's Onion Export Ban Hits Neighbouring Countries, Steep Price Hikes Reported](https://thewire.in/trade/indias-onion-export-ban-hits-neighbouring-countries-steep-price-hikes-reported)
 
