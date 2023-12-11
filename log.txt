@@ -1926,3 +1926,10 @@ Started at 2023-12-11 22:18:31
 Finished at 2023-12-11 22:28:07
 Total time taken: 575.5525271892548 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2023-12-11 23:18:55
+1 Feed entries have been written to feeds/Explained_IE.xml
+1 Feed entries have been written to feeds/ThePrint.xml
+2 new entries have been added
+Finished at 2023-12-11 23:19:34
+Total time taken: 38.74612021446228 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

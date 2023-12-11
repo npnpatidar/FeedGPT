@@ -1,3 +1,8 @@
+Mon, 11 Dec 2023 22:32:02 +0000
+### [Bangladesh: Election Commission to deploy army ahead of parliamentary elections](https://theprint.in/world/bangladesh-election-commission-to-deploy-army-ahead-of-parliamentary-elections/1882233/)
+
+The Election Commission in Bangladesh will deploy armed forces across the country ahead of the upcoming parliamentary elections set to be held on January 7, 2024. Lieutenant General Wakar-uz-Zaman announced that the army will be deployed for 13 days starting from December 29. The armed forces deployment is aimed at ensuring a free and fair election in a healthy atmosphere. The deployment will be in aid of civil power, and the number of troops to be deployed will be decided based on the need. The Election Commission sought the armed forces assistance in line with the ministry’s suggestions. The election schedule was announced on November 15, and the last date for withdrawal of candidature is December 17, with the Election Commission allotting election symbols to candidates on December 18.
+
 Mon, 11 Dec 2023 22:15:30 +0000
 ### [Tucker Carlson’s streaming service goes live, charges $9 per month](https://theprint.in/tech/tucker-carlsons-streaming-service-goes-live-charges-9-per-month/1882231/)
 

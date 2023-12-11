@@ -1,3 +1,8 @@
+Mon, 11 Dec 2023 22:50:08 +0000
+### [Between the lines: A tilt in federal balance towards Centre](https://indianexpress.com/article/explained/abrogation-of-article-370-between-the-lines-a-tilt-in-federal-balance-towards-centre-9064142/)
+
+Article found but Couldn't summarize
+
 Mon, 11 Dec 2023 22:08:10 +0000
 ### [Osho Ashram: Why rebel faction stopped the sale of 2 plots by OIF](https://indianexpress.com/article/explained/osho-ashram-why-rebel-faction-stopped-the-sale-of-2-plots-by-oif-9064214/)
 
