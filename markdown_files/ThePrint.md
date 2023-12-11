@@ -1,3 +1,104 @@
+Mon, 11 Dec 2023 19:00:13 +0000
+### [DDA housing scheme: EWS, LIG flats in Dwarka Sec 14 sold out on day 1 of booking](https://theprint.in/india/dda-housing-scheme-ews-lig-flats-in-dwarka-sec-14-sold-out-on-day-1-of-booking/1882154/)
+
+According to the article, around 1,500 flats were booked in Dwarka, Narela, and Lok Nayak Puram on the first day of booking for the Delhi Development Authority's housing scheme. Flats in Sector 14 of Dwarka in the economically weaker section (EWS) and low-income group (LIG) categories were completely sold out. The registration for the scheme began on November 24 and will close on March 31, 2024. More than 32,000 flats of different categories have been put up for sale under this housing scheme.
+
+Mon, 11 Dec 2023 19:00:02 +0000
+### [Govt plans to introduce in Parliament 2 bills for 33 pc women’s quota in J-K, Puducherry Assemblies](https://theprint.in/india/govt-plans-to-introduce-in-parliament-2-bills-for-33-pc-womens-quota-in-j-k-puducherry-assemblies/1882153/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 11 (PTI) The government is planning to introduce two bills in Parliament on Tuesday for reservation of 33 per cent seats for women in the assemblies of Union Territories of Jammu and Kashmir and Puducherry, sources said. In September, the Parliament passed the Nari Shakti Vandan Adhiniyam to provide reservation of one-third [&#8230;]
+
+Mon, 11 Dec 2023 18:46:34 +0000
+### [Soccer-One in five players at 2023 Women’s World Cup got abusive messages – FIFA](https://theprint.in/sport/soccer-one-in-five-players-at-2023-womens-world-cup-got-abusive-messages-fifa/1882151/)
+
+Article found but Couldn't summarize 
+(Reuters) - One in five players were the target of online abuse during the 2023 Women's World Cup, FIFA said on Monday as a package of social media protection tools hid nearly 117,000 comments. The
+
+Mon, 11 Dec 2023 18:46:21 +0000
+### [US expects to make multi-billion chips awards within next year](https://theprint.in/tech/us-expects-to-make-multi-billion-chips-awards-within-next-year/1882149/)
+
+Article found but Couldn't summarize 
+NASHUA, New Hampshire (Reuters) - U.S. Commerce Secretary Gina Raimondo said Monday she expects to make around a dozen semiconductor chips funding awards within the next year, including multi-billion
+
+Mon, 11 Dec 2023 18:46:14 +0000
+### [Fastweb to develop native Italian trained AI language model](https://theprint.in/tech/fastweb-to-develop-native-italian-trained-ai-language-model/1882148/)
+
+Article found but Couldn't summarize 
+MILAN (Reuters) - Italian telecoms operator Fastweb said on Monday it plans to build an artificial intelligence large-language model (LLM) which is trained in native Italian to help its corporate and
+
+Mon, 11 Dec 2023 18:45:54 +0000
+### [Zelenskiy, in Washington, says hopes he can count on US as aid at risk](https://theprint.in/world/zelenskiy-in-washington-says-hopes-he-can-count-on-us-as-aid-at-risk/1882146/)
+
+Article found but Couldn't summarize 
+By Phil Stewart and Idrees Ali WASHINGTON (Reuters) -Ukrainian President Volodymyr Zelenskiy told a U.S. military audience on Monday that he hoped he can still count on the United States as he started
+
+Mon, 11 Dec 2023 18:45:45 +0000
+### [Britain offers funds to revive Northern Ireland government](https://theprint.in/world/britain-offers-funds-to-revive-northern-ireland-government/1882144/)
+
+Article found but Couldn't summarize 
+By Amanda Ferguson BELFAST (Reuters) - Britain proposed boosting Northern Ireland's strained budget on Monday on condition that the region's power-sharing government is restored, but most local
+
+Mon, 11 Dec 2023 18:45:37 +0000
+### [German prosecutor charges Prinz Reuss Group – Spiegel](https://theprint.in/world/german-prosecutor-charges-prinz-reuss-group-spiegel/1882143/)
+
+Article found but Couldn't summarize 
+FRANKFURT (Reuters) - A year after the arrest of members of Germany's extremist Reichsbuerger group in a failed coup plot, the federal prosecutor has brought charges against a total of 27 men and
+
+Mon, 11 Dec 2023 18:45:27 +0000
+### [Government official’s daughter gang-raped in Lucknow](https://theprint.in/india/government-officials-daughter-gang-raped-in-lucknow/1882141/)
+
+Article found but Couldn't summarize 
+Lucknow, Dec 11 (PTI) A government official&#8217;s 22-year-old daughter was allegedly raped by three men in a moving car here, police said on Monday. All three accused have been arrested. According to a police complaint lodged by the woman, she visited the King George&#8217;s Medical University (KGMU) Hospital&#8217;s Psychiatry Department, where she had been undergoing [&#8230;]
+
+Mon, 11 Dec 2023 18:45:26 +0000
+### [Exclusive-European lawmakers send plea to Congress on Ukraine aid](https://theprint.in/world/exclusive-european-lawmakers-send-plea-to-congress-on-ukraine-aid/1882140/)
+
+Article found but Couldn't summarize 
+By Michel Rose PARIS (Reuters) - More than a hundred senior European lawmakers will send a joint letter to their counterparts in the United States on Tuesday, pleading for Congress to unlock further
+
+Mon, 11 Dec 2023 18:45:15 +0000
+### [White House warns of democracy threat after Trump repeats dictator remark](https://theprint.in/world/white-house-warns-of-democracy-threat-after-trump-repeats-dictator-remark/1882138/)
+
+Article found but Couldn't summarize 
+(Reuters) - U.S. President Joe Biden has been working to guard against the "unprecedented threats" facing American democracy, a White House official said on Monday, responding to Donald Trump's
+
+Mon, 11 Dec 2023 18:45:14 +0000
+### [Case registered against Sanjay Raut for article against PM in ‘Saamana’](https://theprint.in/india/case-registered-against-sanjay-raut-for-article-against-pm-in-saamana/1882137/)
+
+Article found but Couldn't summarize 
+Yavatmal, Dec 11 (PTI) Yavatmal police on Monday registered an offence against Shiv Sena (UBT) leader Sanjay Raut for writing an allegedly objectionable article against Prime Minister Narendra Modi in the party mouthpiece &#8216;Saamana&#8217;, an official said. The complaint was filed against Raut, who is the executive editor of the paper, by BJP Yavatmal convener [&#8230;]
+
+Mon, 11 Dec 2023 18:45:05 +0000
+### [Zelenskiy, in Washington, says he hopes he can count on US as aid at risk](https://theprint.in/world/zelenskiy-in-washington-says-he-hopes-he-can-count-on-us-as-aid-at-risk/1882135/)
+
+Article found but Couldn't summarize 
+By Phil Stewart and Idrees Ali WASHINGTON (Reuters) -Ukrainian President Volodymyr Zelenskiy told a U.S. military audience on Monday that he hoped he can still count on the United States as he started
+
+Mon, 11 Dec 2023 18:45:03 +0000
+### [My father would say his stint with Indira Gandhi was ‘golden period’: Sharmishtha Mukherjee](https://theprint.in/india/my-father-would-say-his-stint-with-indira-gandhi-was-golden-period-sharmishtha-mukherjee/1882134/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 11 (PTI) Former president Pranab Mukherjee&#8217;s daughter Sharmishtha Mukherjee said her father felt he was not included in the cabinet of Rajiv Gandhi due to his &#8220;non-subservient&#8221; attitude.  At the launch of her book &#8220;Pranab My Father: A Daughter Remembers&#8221; on Monday, Sharmishtha said her father would say that his stint with [&#8230;]
+
+Mon, 11 Dec 2023 18:32:02 +0000
+### [UAE leaders congratulate transitional President of Burkina Faso on National Day](https://theprint.in/world/uae-leaders-congratulate-transitional-president-of-burkina-faso-on-national-day/1882132/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], (ANI/WAM): UAE President Sheikh Mohamed bin Zayed Al Nahyan has sent a congratulatory cable to Ibrahim Traore, the President of the transitional period and President of the Republic of Burkina Faso, on the occasion of his country&#8217;s National Day. Sheikh Mohammed bin Rashid Al Maktoum, Vice President and Prime Minister of the and [&#8230;]
+
+Mon, 11 Dec 2023 18:30:03 +0000
+### [Govt seeks to withdraw 3 bills on criminal laws, plans to introduce them afresh](https://theprint.in/india/govt-seeks-to-withdraw-3-bills-on-criminal-laws-plans-to-introduce-them-afresh/1882131/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 11 (PTI) The government has decided to withdraw the three bills that aim to replace existing criminal laws and introduce them afresh following various recommendations made by a parliamentary panel. The three redrafted bills are expected to introduced in Parliament on Tuesday. The Bharatiya Nyaya Sanhita Bill was introduced in the Lok [&#8230;]
+
+Mon, 11 Dec 2023 18:17:02 +0000
+### [Ecuador discusses sending thousands of agricultural workers to Israel](https://theprint.in/world/ecuador-discusses-sending-thousands-of-agricultural-workers-to-israel/1882129/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], December 11 (ANI/TPS): Israeli Foreign Minister Eli Cohen discussed bringing 25,000 workers from Ecuador with the South American country&#8217;s incoming Foreign Minister, Gabriela Sommerfeld on Monday, Israel&#8217;s Foreign Ministry announced. Cohen, Sommerfeld and other international dignitaries are in Buenos Aires for the inauguration of Argentine President Javier Milei. Israeli agriculture is facing [&#8230;]
+
 Mon, 11 Dec 2023 18:16:20 +0000
 ### [Soccer-Sevilla appeal French ban on fans travelling for Lens Champions League game](https://theprint.in/sport/soccer-sevilla-appeal-french-ban-on-fans-travelling-for-lens-champions-league-game/1882127/)
 
