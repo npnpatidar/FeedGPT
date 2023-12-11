@@ -1,3 +1,15 @@
+2023-12-11T22:42:47+05:30
+### [MP: BJP Names Mohan Yadav, an OBC Leader with RSS Roots, as the Next CM](https://thewire.in/politics/mp-bjp-names-mohan-yadav-an-obc-leader-with-rss-roots-as-the-next-cm)
+
+No Article text 
+After dilly-dallying for a week, the BJP legislature party finally elected Yadav (58), a three-time MLA who held the higher education department as a minister under the outgoing BJP government.
+
+2023-12-11T22:11:40+05:30
+### [Ends Matter, Not the Means: Decoding SC's Approval for Reading Down of Article 370](https://thewire.in/law/ends-matter-not-the-means-decoding-scs-approval-for-reading-down-of-article-370)
+
+No Article text 
+The goal of making Article 370 inoperative was legitimate in itself, and therefore, the means adopted to achieve it cannot be elevated as a test to determine the validity of the goal itself, the judgment would seem to suggest.
+
 2023-12-11T21:45:55+05:30
 ### [Citing SC's Silence on J&K's Statehood, Opposition Parties Raise Concerns Over Federalism](https://thewire.in/politics/citing-scs-silence-on-jks-statehood-opposition-parties-raise-concerns-over-federalism)
 

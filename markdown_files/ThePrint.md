@@ -1,3 +1,122 @@
+Mon, 11 Dec 2023 17:15:43 +0000
+### [Bangladesh to deploy Army to maintain order ahead of Jan 7 elections](https://theprint.in/world/bangladesh-to-deploy-army-to-maintain-order-ahead-of-jan-7-elections/1882038/)
+
+Article found but Couldn't summarize 
+Dhaka, Dec 11 (PTI) Bangladesh Army said on Monday that it will deploy troops to maintain law and order as the country gears up for January 7 general elections that the opposition parties demand should be held under an interim non-partisan government. “The Election Commission (EC) wants us (armed forces) to be deployed to stage [&#8230;]
+
+Mon, 11 Dec 2023 17:15:43 +0000
+### [White House: Seeing increased missile, drone attacks by Russians in Ukraine](https://theprint.in/world/white-house-seeing-increased-missile-drone-attacks-by-russians-in-ukraine/1882037/)
+
+Article found but Couldn't summarize 
+By Steve Holland ABOARD AIR FORCE ONE (Reuters) - Russia is increasing its missile and drone attacks on civilian infrastructure in Ukraine and the White House expects Moscow to target energy
+
+Mon, 11 Dec 2023 17:15:20 +0000
+### [Bird flu kills over 900 seals, sea lions in south Brazil](https://theprint.in/world/bird-flu-kills-over-900-seals-sea-lions-in-south-brazil/1882035/)
+
+Article found but Couldn't summarize 
+By Diego Vara and Ana Mano SAO JOSE DO NORTE, Brazil (Reuters) - Nearly 1,000 seals and sea lions in southern Brazil have died from bird flu outbreaks, say authorities, who are scrambling to isolate
+
+Mon, 11 Dec 2023 17:15:17 +0000
+### [Full statehood to J-K to be restored at appropriate time: Amit Shah as he hails SC verdict](https://theprint.in/india/full-statehood-to-j-k-to-be-restored-at-appropriate-time-amit-shah-as-he-hails-sc-verdict/1882034/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 11 (PTI) Article 370 gave rise to separatism and terrorism, while a &#8220;new and developed Kashmir&#8221; free from violence is being built under Prime Minister Narendra Modi, Home Minister Amit Shah said in Rajya Sabha on Monday and stressed that statehood would be restored to Jammu and Kashmir at an appropriate time. [&#8230;]
+
+Mon, 11 Dec 2023 17:15:03 +0000
+### [India’s Infosys CFO Nilanjan Roy resigns, Jayesh Sanghrajka to succeed](https://theprint.in/india/indias-infosys-cfo-nilanjan-roy-resigns-jayesh-sanghrajka-to-succeed/1882032/)
+
+Article found but Couldn't summarize 
+By Haripriya Suresh and Sai Ishwarbharath B BENGALURU (Reuters) -India's No. 2 IT services provider Infosys said on Monday Nilanjan Roy has resigned as its finance chief and would be succeeded by
+
+Mon, 11 Dec 2023 17:15:02 +0000
+### [PM Modi wishes athletes as first Khelo India Para Games begins](https://theprint.in/sport/pm-modi-wishes-athletes-as-first-khelo-india-para-games-begins/1882031/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 11 (PTI) Prime Minister Narendra Modi on Monday wished luck to all the athletes participating in the ongoing first Khleo Para Games Para, terming the occasion as a &#8220;monumental step towards inclusion and empowerment&#8221;. &#8220;As the First Khelo India Para Games begin, my best wishes to all those athletes who are taking [&#8230;]
+
+Mon, 11 Dec 2023 17:03:10 +0000
+### [Rashmika Mandanna misses Kashmir, ‘Animal’ shooting days](https://theprint.in/feature/rashmika-mandanna-misses-kashmir-animal-shooting-days/1882027/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 11 (ANI): Actor Rashmika Mandanna, who is basking in the success of &#8216;Animal&#8217; on Monday shared that she is missing shooting days in Kashmir. Taking to Instagram, Rashmika treated fans with a video of herself enjoying in snow and she added a song &#8216;Kashmir&#8217; from &#8216;Animal&#8217;. &#160; &#160; &#160; &#160; &#160; [&#8230;]
+
+Mon, 11 Dec 2023 17:03:01 +0000
+### [Dubai’s thriving real estate market takes centre stage at IPS 2024](https://theprint.in/world/dubais-thriving-real-estate-market-takes-centre-stage-at-ips-2024/1882025/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 11 (ANI/WAM): In partnership with the Dubai Land Department (DLD), the International Property Show (IPS) is gearing up for its 20th edition in 2024, taking place from February 27th to 29th, 2024, at the Dubai World Trade Centre. IPS 2024 is set to showcase Dubai&#8217;s thriving real estate sector, offering attendees an [&#8230;]
+
+Mon, 11 Dec 2023 17:02:49 +0000
+### [ADX and Abu Dhabi Housing Authority sign agreement to enhance service excellence](https://theprint.in/world/adx-and-abu-dhabi-housing-authority-sign-agreement-to-enhance-service-excellence/1882023/)
+
+As GPT-3.5, I can summarize the article for you. The Abu Dhabi Securities Exchange (ADX) and the Abu Dhabi Housing Authority have signed a service level agreement to enhance cooperation in areas such as digital connectivity and data exchange. The collaboration aims to improve service excellence and enhance the overall customer experience for Emiratis. Joint projects will be conducted to strengthen digital connectivity and streamline the processes for accessing data of Emirati investors on ADX who benefit from Abu Dhabi Housing programs. This collaboration emphasizes the commitment to enhancing connectivity among national entities and maintaining common standards of openness and confidentiality.
+
+Mon, 11 Dec 2023 17:02:39 +0000
+### [Russia: Putin critic Alexei Navalny goes ‘missing’ from prison](https://theprint.in/world/russia-putin-critic-alexei-navalny-goes-missing-from-prison/1882021/)
+
+Article found but Couldn't summarize 
+Moscow [Russia], December 11 (ANI): The lawyers of jailed Russian Opposition leader Alexei Navalny, have not heard from him for around a week and his name is also missing from the list of the prisoners, CNN reported citing the spokesperson of the Putin critic. Navalny, who was imprisoned in a penal colony east of Moscow [&#8230;]
+
+Mon, 11 Dec 2023 17:02:27 +0000
+### [Rafael Nadal, Carlos Alcaraz to headline Netflix’s Next Live Sports Event in One-Night Tennis Match](https://theprint.in/feature/rafael-nadal-carlos-alcaraz-to-headline-netflixs-next-live-sports-event-in-one-night-tennis-match/1882019/)
+
+Article found but Couldn't summarize 
+Los Angeles [US], December 11 (ANI): Streaming giant Netflix is all set to stream a one-night tennis exhibition match featuring Rafael Nadal and Carlos Alcaraz. The event is scheduled for Sunday, March 3, 2024, at noon PT at the Michelob Ultra Arena at MGM Resorts International&#8217;s Mandalay Bay Resort and Casino in Las Vegas, as [&#8230;]
+
+Mon, 11 Dec 2023 17:02:13 +0000
+### [Study identifies similarity between deficiency in vitamin B12, multiple sclerosis](https://theprint.in/science/study-identifies-similarity-between-deficiency-in-vitamin-b12-multiple-sclerosis/1882017/)
+
+Article found but Couldn't summarize 
+La Jolla (California) [US], December 11 (ANI): Scientists have been observing for decades an intriguing resemblance between multiple sclerosis (MS), a chronic disease where the immune system of the body attacks the central nervous system (CNS) and can cause neurodegeneration, and a deficiency in vitamin B12, an essential nutrient that supports healthy development and functioning [&#8230;]
+
+Mon, 11 Dec 2023 17:02:02 +0000
+### [Donald Trump maintains strong lead in Iowa as Republican rivals struggle](https://theprint.in/world/donald-trump-maintains-strong-lead-in-iowa-as-republican-rivals-struggle/1882015/)
+
+Article found but Couldn't summarize 
+Washington, DC [US], December 11 (ANI): With five weeks until the Republican nomination contest, a recent poll reveals that neither Florida Governor Ron DeSantis nor former UN ambassador Nikki Haley have made significant gains against former President Donald Trump in Iowa, The Washington Post reported. The NBC News-Des Moines Register-Mediacom Iowa poll conducted from December [&#8230;]
+
+Mon, 11 Dec 2023 17:00:28 +0000
+### [Greater Noida Authority assures help for Big Cricket League matches in city](https://theprint.in/india/greater-noida-authority-assures-help-for-big-cricket-league-matches-in-city/1882013/)
+
+Article found but Couldn't summarize 
+Noida, Dec 11 (PTI) The Greater Noida Industrial Development Authority (GNIDA) on Monday assured help to private Big Cricket League (BCL) in organising matches at the Shaheed Vijay Singh Pathik Sports Complex in the city, an official statement said. BCL representatives, including its vice president former West Indies great Courtney Walsh met with GNIDA&#8217;s Chief [&#8230;]
+
+Mon, 11 Dec 2023 17:00:15 +0000
+### [Armed Forces Flag Day Fund collection drive launched in Thane](https://theprint.in/india/armed-forces-flag-day-fund-collection-drive-launched-in-thane/1882012/)
+
+Article found but Couldn't summarize 
+Thane, Dec 11 (PTI) The Armed Forces Flag Day Fund collection drive was launched on Monday in Thane district by Additional Collector Manisha Jaibaye-Dhule, an official said. The Armed Forces Flag Day Fund provides assistance for welfare and rehabilitation of war widows, wives of martyred soldiers and ex-servicemen as well as for activities like education, [&#8230;]
+
+Mon, 11 Dec 2023 17:00:02 +0000
+### [West Bengal: Man arrested with arms in Gobardanga](https://theprint.in/india/west-bengal-man-arrested-with-arms-in-gobardanga/1882011/)
+
+Article found but Couldn't summarize 
+Barasat (WB), Dec 11 (PTI) A man was arrested with semi-automatic pistols in West Bengal&#8217;s North 24 Parganas on Monday, police said. The Special Task Force (STF) of the state police arrested him from Gaipore Hospital More in Gobardanga police station area, they said. The man, identified as Jaman Mondal, was coming from Thakurnagar on [&#8230;]
+
+Mon, 11 Dec 2023 16:47:14 +0000
+### [‘3 Idiots’ fame Atul Tiwari attends Sahithyotsav Jashn-e-Adab cultural event in Shimla](https://theprint.in/feature/3-idiots-fame-atul-tiwari-attends-sahithyotsav-jashn-e-adab-cultural-event-in-shimla/1882008/)
+
+Article found but Couldn't summarize 
+Shimla (Himachal Pradesh) [India], December 11 (ANI): For the second time, Sahityotsav Jashn-e-Adab Cultural Kaarva&#8217;n Virasat was organised in Shimla. &#8216;3 Idiots&#8217; fame Atul Tiwari graced the cultural event. The two-day literary and cultural festival kickstarted in Shimla on Sunday. The two-day Sahithyotsav Jashn-e-Adab cultural Kaarva&#8217;n Virasat event was held in the hill resort. It [&#8230;]
+
+Mon, 11 Dec 2023 16:47:02 +0000
+### [Special Olympics UAE signs MoU with American University in Dubai](https://theprint.in/world/special-olympics-uae-signs-mou-with-american-university-in-dubai/1882006/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 11 (ANI/WAM): Special Olympics UAE and the American University in Dubai (AUD) have signed a Memorandum of Understanding (MoU) that aims to boost cooperation and exchange of valuable experience and knowledge related to sports activities for People of Determination. The MoU raises awareness about the significance of inclusion in society and methods [&#8230;]
+
+Mon, 11 Dec 2023 16:46:05 +0000
+### [Vasundhara hails SC verdict on Article 370, says ‘new’ J&K scripting story of development](https://theprint.in/india/vasundhara-hails-sc-verdict-on-article-370-says-new-jk-scripting-story-of-development/1882005/)
+
+Article found but Couldn't summarize 
+Jaipur, Dec 11 (PTI) Former Rajasthan chief minister Vasundhara Raje on Monday hailed the Supreme Court&#8217;s decision regarding the abrogation of Article 370 of the Constitution, saying a &#8220;new&#8221; Jammu and Kashmir is scripting a story of development and reform. The senior BJP leader also lauded the leadership of Prime Minister Narendra Modi and Union [&#8230;]
+
+Mon, 11 Dec 2023 16:45:52 +0000
+### [Security concern as suspicious pit found adjacent to Hindon airbase boundary wall](https://theprint.in/india/security-concern-as-suspicious-pit-found-adjacent-to-hindon-airbase-boundary-wall/1882004/)
+
+Article found but Couldn't summarize 
+Ghaziabad (UP), Dec 11 (PTI) A four-feet deep and wide pit was found adjacent to the boundary wall of the strategically important Hindon airbase here, raising an alert, with the local police saying the possibility of an infiltration attempt cannot be ruled out. A senior police official said on Monday police here have taken a [&#8230;]
+
 Mon, 11 Dec 2023 16:17:42 +0000
 ### [Pakistan: Court rejects physical remand plea against Fawad Chaudhry](https://theprint.in/world/pakistan-court-rejects-physical-remand-plea-against-fawad-chaudhry/1881988/)
 

@@ -1,3 +1,9 @@
+Mon, 11 Dec 2023 22:09:05 +0530
+### [Ominously anti-federal: On the Supreme Court’s judgment on Article 370 and J&K’s special status](https://www.thehindu.com/opinion/editorial/ominously-anti-federal-on-the-supreme-courts-judgement-on-article-370-and-jks-special-status/article67628150.ece)
+
+Article found but Couldn't summarize 
+In upholding the removal of Jammu and Kashmir’s special status and its downgrading, the Supreme Court of India has imperilled the rights of States and weakened the limits on the Union’s power
+
 Mon, 11 Dec 2023 00:20:00 +0530
 ### [Bad precedent: On the expulsion of Trinamool Congress Member of Parliament Mahua Moitra](https://www.thehindu.com/opinion/editorial/bad-precedent-the-hindu-editorial-on-the-expulsion-of-trinamool-congress-member-of-parliament-mahua-moitra/article67624791.ece)
 

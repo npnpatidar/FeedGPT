@@ -5,6 +5,16 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Opinion_Mint.xml</link>
 		<description>Opinion Mint</description>
 		<item>
+			<title>Should charity be Done directly or through a trust?</title>
+			<link>https://www.livemint.com/opinion/columns/should-charity-be-done-directly-or-through-a-trust-11702312374046.html</link>
+			<description>Article found but Couldn't summarize 
+It is no longer feasible to run a charitable trust of a reasonable size on a part-time basis</description>
+			<pubDate>Mon, 11 Dec 2023 22:07:07 +0530</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://www.livemint.com/lm-img/img/2023/12/11/1600x900/3-0-14290710-20170907-Mum-KP-MN-LalbaughchaRaja-00_1702312507568_1702312507743.jpg"></media:thumbnail>
+			<media:content url="https://www.livemint.com/lm-img/img/2023/12/11/1600x900/3-0-14290710-20170907-Mum-KP-MN-LalbaughchaRaja-00_1702312507568_1702312507743.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Excessive executive pay must be held in check for India Inc’s sake</title>
 			<link>https://www.livemint.com/opinion/online-views/excessive-executive-pay-must-be-held-in-check-for-india-inc-s-sake-11702307357946.html</link>
 			<description>The article discusses the issue of excessive executive remuneration in corporate India, particularly the widening pay gap between top executives and median salaries, leading to tensions and low productivity. It also addresses concerns about substantial remuneration, regulatory breaches, and challenges to compensation practices. The article emphasizes the importance of transparency, regulatory compliance, and shareholder activism in shaping corporate decisions, including executive remuneration. Additionally, it highlights the need for companies to design transparent management pay-package policies for sustainable value creation and preservation, along with fostering a culture of transparency for a healthy and equitable work environment.</description>

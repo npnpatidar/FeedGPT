@@ -1,3 +1,9 @@
+Mon, 11 Dec 2023 22:26:19 +0530
+### [India seeks consensus in GPAI Summit talks](https://www.livemint.com/technology/tech-news/india-seeks-consensus-in-gpai-summit-talks-11702313518338.html)
+
+Article found but Couldn't summarize 
+The declaration aims to advance talks on global AI regulatory frameworks
+
 Mon, 11 Dec 2023 18:17:38 +0530
 ### [10 best laptops under  ₹60,000 to ensure performance in budget](https://www.livemint.com/technology/gadgets/10-best-laptops-under-rs-60-000-to-ensure-performance-in-budget-11702288552223.html)
 

@@ -1,3 +1,9 @@
+Mon, 11 Dec 2023 22:07:07 +0530
+### [Should charity be Done directly or through a trust?](https://www.livemint.com/opinion/columns/should-charity-be-done-directly-or-through-a-trust-11702312374046.html)
+
+Article found but Couldn't summarize 
+It is no longer feasible to run a charitable trust of a reasonable size on a part-time basis
+
 Mon, 11 Dec 2023 21:37:21 +0530
 ### [Excessive executive pay must be held in check for India Inc’s sake](https://www.livemint.com/opinion/online-views/excessive-executive-pay-must-be-held-in-check-for-india-inc-s-sake-11702307357946.html)
 
