@@ -1,3 +1,21 @@
+2023-12-11T10:31:14+05:30
+### [In Jammu and Kashmir, All Eyes Are on the Supreme Court Today](https://thewire.in/law/in-jammu-and-kashmir-all-eyes-are-on-the-supreme-court-today)
+
+No Article text 
+Many believe that it is the sweeping crackdown by investigation agencies post Article 370 that has pushed Kashmir into a meaningful silence.
+
+2023-12-11T10:29:57+05:30
+### [Benjamin Zephaniah's Powerful Politics Will Endure](https://thewire.in/world/benjamin-zephaniah-obituary-british-rastafarian)
+
+No Article text 
+'Zephaniah had seemingly eternal optimism. This never limited his ability to confront.'
+
+2023-12-11T09:56:38+05:30
+### [Egypt's Presidential Elections: Change in the Offing or Much of the Same?](https://thewire.in/world/egypts-presidential-elections-change-in-the-offing-or-much-of-the-same)
+
+No Article text 
+While President Abdel Fattah el-Sissi's reputation has improved somewhat, observers fear that neither Egypt's economic crisis nor the dire human rights situation will be resolved.
+
 2023-12-11T08:48:09+05:30
 ### [Woman Jailed Over 'Maoist Links' Miscarries a Week After Court Dismisses Medical Bail Plea](https://thewire.in/rights/anita-aazad-prabha-kushwaha-miscarriage-jail-medical-bail-maoist-link)
 

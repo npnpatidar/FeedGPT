@@ -1,3 +1,93 @@
+Mon, 11 Dec 2023 05:02:29 +0000
+### [FBI Director Christopher Wray in India today for two-day visit](https://theprint.in/world/fbi-director-christopher-wray-in-india-today-for-two-day-visit/1880795/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 11 (ANI): Federal Bureau of Investigation (FBI) Director Christopher Wray is to be in India today as part of his two day visit to the country. The Minitry of external affairs had earlier said that this visit was part of the the ongoing cooperation between the US and India on areas [&#8230;]
+
+Mon, 11 Dec 2023 05:02:15 +0000
+### [Stock market opens positively: Nifty, Sensex break all records on Monday opening](https://theprint.in/economy/stock-market-opens-positively-nifty-sensex-break-all-records-on-monday-opening/1880793/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 11 (ANI): Monday witnessed a buoyant start for the stock market, with the Nifty and Sensex both opening at all-time highs. After a brief two-day consolidation, the Nifty resumed its upward trajectory, advocating for a recommended trading strategy to retain long positions with a trailing stop-loss mechanism. Opening at 70,024.52, the [&#8230;]
+
+Mon, 11 Dec 2023 05:02:02 +0000
+### [Navigating 21st-century global migration: World development report unveils insights and tools](https://theprint.in/economy/navigating-21st-century-global-migration-world-development-report-unveils-insights-and-tools/1880791/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 11 (ANI): The World Development Report 2023 sheds light on the complex landscape of global migration, presenting a synthesis of over two decades of research from the World Bank and experts worldwide. According to the World Bank, at the heart of this report is the innovative Match and Motive Matrix, a [&#8230;]
+
+Mon, 11 Dec 2023 05:00:15 +0000
+### [UP: Man commits suicide after killing wife, sons](https://theprint.in/india/up-man-commits-suicide-after-killing-wife-sons/1880790/)
+
+Article found but Couldn't summarize 
+Ballia (UP), Dec 11 (PTI) A 35-year-old man allegedly killed his wife and two sons and committed suicide due to family disputes here, police said on Monday. The bodies of Shashiikala (30) and her two sons Surya Rao (7) and Mitthu (4 months) were found in an orchard in front of their house in Devdeeh [&#8230;]
+
+Mon, 11 Dec 2023 05:00:03 +0000
+### [Mehbooba put under house arrest ahead of SC verdict on Article 370](https://theprint.in/india/mehbooba-put-under-house-arrest-ahead-of-sc-verdict-on-article-370/1880789/)
+
+Article found but Couldn't summarize 
+Srinagar, Dec 11 (PTI) People&#8217;s Democratic Party (PDP) president Mehbooba Mufti was put under house arrest on Monday ahead of the Supreme Court&#8217;s verdict on a batch of petitions challenging the abrogation of Article 370 of the Constitution that conferred a special status on Jammu and Kashmir, her party said. &#8220;Even before Supreme Court judgement [&#8230;]
+
+Mon, 11 Dec 2023 04:56:07 +0000
+### [Gandhi was as ordinary as he was remarkable. Kasturba never let him forget this](https://theprint.in/feature/around-town/gandhi-was-as-ordinary-as-he-was-remarkable-kasturba-never-let-him-forget-this/1880655/)
+
+Article found but Couldn't summarize 
+Gopalkrishna Gandhi remembered his grandfather’s remarkable life at the Delhi launch of ‘I Am An Ordinary Man’, an autobiography he edited.
+
+Mon, 11 Dec 2023 04:45:51 +0000
+### [Oil extends gains on US strategic reserve purchases](https://theprint.in/economy/oil-extends-gains-on-us-strategic-reserve-purchases/1880786/)
+
+Article found but Couldn't summarize 
+By Mohi Narayan and Florence Tan NEW DELHI (Reuters) -Oil prices rose on Monday, extending gains for a second session as U.S. efforts to replenish strategic reserves provided some support, although
+
+Mon, 11 Dec 2023 04:45:40 +0000
+### [India’s Dr. Reddy’s shares fall on observations from US drug regulator](https://theprint.in/economy/indias-dr-reddys-shares-fall-on-observations-from-us-drug-regulator/1880785/)
+
+Article found but Couldn't summarize 
+BENGALURU (Reuters) -Shares of Indian drugmaker Dr. Reddy's Laboratories were down 5.8% on Monday after the U.S. Food and Drug Administration issued three observations for the company's plant in
+
+Mon, 11 Dec 2023 04:45:21 +0000
+### [China’s actions in S. China Sea undermine regional stability, US says](https://theprint.in/world/chinas-actions-in-s-china-sea-undermine-regional-stability-us-says/1880783/)
+
+Article found but Couldn't summarize 
+MANILA (Reuters) -The United States has called out China for interfering in the Philippines' maritime operations and undermining regional stability, urging Beijing to stop "its dangerous and
+
+Mon, 11 Dec 2023 04:45:19 +0000
+### [Kashmir continues to reel under sub-zero temperatures; Srinagar experienced coldest night](https://theprint.in/india/kashmir-continues-to-reel-under-sub-zero-temperatures-srinagar-experienced-coldest-night/1880781/)
+
+Article found but Couldn't summarize 
+Srinagar, Dec 11 (PTI) Srinagar experienced the coldest night of the season so far as Kashmir continued to reel under cold wave-like conditions even as the mercury stayed several degrees below the freezing point across the valley last night, officials said on Monday. Srinagar, the summer capital of Jammu and Kashmir, recorded a low of [&#8230;]
+
+Mon, 11 Dec 2023 04:45:03 +0000
+### [India’s Sensex trims gains after hitting milestone of 70,000](https://theprint.in/india/indias-sensex-trims-gains-after-hitting-milestone-of-70000/1880780/)
+
+Article found but Couldn't summarize 
+By Bharath Rajeswaran BENGALURU (Reuters) -India's Nifty 50 and Sensex indexes hit record highs on Monday before paring the gains, dragged by pharma stocks following the U.S. drug regulator's
+
+Mon, 11 Dec 2023 04:45:02 +0000
+### [Security beefed up across Kashmir ahead of SC verdict on Article 370](https://theprint.in/india/security-beefed-up-across-kashmir-ahead-of-sc-verdict-on-article-370/1880779/)
+
+Article found but Couldn't summarize 
+Srinagar, Dec 11 (PTI) Security was beefed up across Kashmir on Monday ahead of the Supreme Court&#8217;s verdict on a batch of petitions challenging the abrogation of the provisions of Article 370 of the Constitution that gave a special status to the erstwhile state of Jammu and Kashmir, officials said. Security forces have been deployed [&#8230;]
+
+Mon, 11 Dec 2023 04:32:16 +0000
+### [Hrithik Roshan gushes over girlfriend Saba Azad’s performance at ‘Kho Gaye Hum Kahan’ trailer launch](https://theprint.in/feature/hrithik-roshan-gushes-over-girlfriend-saba-azads-performance-at-kho-gaye-hum-kahan-trailer-launch/1880776/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 11 (ANI): Actor Hrithik Roshan&#8217;s girlfriend Saba Azad on Sunday arrived at the trailer launch of Ananya Panday, Siddhant Chaturvedi and Adarsh Gourav starrer &#8216;Kho Gaye Hum Kahan&#8217;. Along with the trailer, the film&#8217;s album was also out yesterday which also featured the song &#8216;I Wanna See You Dance&#8217; that has [&#8230;]
+
+Mon, 11 Dec 2023 04:32:02 +0000
+### [London: Baloch Human Rights Council organises conference to address human rights violations in Balochistan](https://theprint.in/world/london-baloch-human-rights-council-organises-conference-to-address-human-rights-violations-in-balochistan/1880774/)
+
+Article found but Couldn't summarize 
+London [UK], December 11 (ANI): The Baloch Human Rights Council (BHRC) organised a conference in London to address the human rights violations in Balochistan and to provide a platform where impassioned voices could highlight the ongoing human rights issues in Pakistan. The conference was organised at the Sindhi Centre in London on Sunday. According to [&#8230;]
+
+Mon, 11 Dec 2023 04:27:36 +0000
+### [‘Completely fabricated’ — MEA slams US news report on India’s ‘secret memo’ targeting Sikh groups abroad](https://theprint.in/diplomacy/completely-fabricated-mea-slams-us-news-report-on-indias-secret-memo-targeting-sikh-groups-abroad/1880722/)
+
+Article found but Couldn't summarize 
+Report says India issued memo in April to launch a crackdown on Sikh dissidents in US, Canada. MEA says 'news outlet known for propagating fake narratives peddled by Pakistani intelligence'.
+
 Mon, 11 Dec 2023 04:15:14 +0000
 ### [Rijiju assures Arunachal people of tech advancements, accurate weather forecast](https://theprint.in/india/rijiju-assures-arunachal-people-of-tech-advancements-accurate-weather-forecast/1880770/)
 

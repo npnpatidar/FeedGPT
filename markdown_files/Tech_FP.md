@@ -1,3 +1,15 @@
+Mon, 11 Dec 2023 10:35:47 +0530
+### ['Psychologically abusive, toxic': New report calls out OpenAI CEO Sam Altman as a horrible boss](https://www.firstpost.com/tech/psychologically-abusive-toxic-new-report-calls-out-openai-ceo-sam-altman-as-a-horrible-boss-13488592.html)
+
+Article found but Couldn't summarize 
+'Psychologically abusive, toxic': New report calls out OpenAI CEO Sam Altman as a horrible boss
+
+Mon, 11 Dec 2023 10:08:50 +0530
+### [Microsoft, OpenAI's partnership comes under antitrust scrutiny in the UK, US](https://www.firstpost.com/tech/microsoft-openais-partnership-comes-under-antitrust-scrutiny-in-the-uk-us-13488472.html)
+
+Article found but Couldn't summarize 
+Microsoft, OpenAI's partnership comes under antitrust scrutiny in the UK, US
+
 Mon, 11 Dec 2023 09:34:44 +0530
 ### [Here’s how the EU plans to target advanced AI-models like ChatGPT with new regulations, laws](https://www.firstpost.com/tech/heres-how-the-eu-plans-to-target-advanced-ai-models-like-chatgpt-with-new-regulations-laws-13488212.html)
 

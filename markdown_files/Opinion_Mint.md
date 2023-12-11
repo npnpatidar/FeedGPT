@@ -1,3 +1,9 @@
+Mon, 11 Dec 2023 10:43:11 +0530
+### [Govt could miss blending target after banning sugarcane in ethanol production](https://www.livemint.com/opinion/online-views/govt-could-miss-blending-target-after-banning-sugarcane-in-ethanol-production-11702270944948.html)
+
+Article found but Couldn't summarize 
+India achieved its target of 12% ethanol blend for supply year 2022-23 but may miss its 15% target for 2023-24 unless grain-based ethanol production is ramped up.
+
 Mon, 11 Dec 2023 08:00:08 +0530
 ### [The proliferation of deepfakes has shrouded India’s 2024 polls in uncertainty](https://www.livemint.com/opinion/online-views/the-proliferation-of-deepfakes-has-shrouded-india-s-2024-polls-in-uncertainty-11702208306588.html)
 

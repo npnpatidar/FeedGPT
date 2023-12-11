@@ -1,3 +1,9 @@
+Mon, 11 Dec 2023 09:55:03 +0530
+### [Supreme Court verdict on Article 370: What is the case all about? What are the arguments for and against it?](https://www.firstpost.com/explainers/supreme-court-verdict-jammu-kashmir-article-370-case-arguments-for-and-against-it-13488262.html)
+
+Article found but Couldn't summarize 
+Supreme Court verdict on Article 370: What is the case all about? What are the arguments for and against it?
+
 Mon, 11 Dec 2023 08:46:18 +0530
 ### [US mulls big changes on immigration: What are they? What could happen if they change?](https://www.firstpost.com/explainers/us-mulls-big-changes-on-immigration-what-are-they-what-could-happen-if-they-change-13487852.html)
 
