@@ -1,3 +1,119 @@
+Mon, 11 Dec 2023 07:11:07 +0000
+### [‘Culmination of integration’ — SC upholds abrogation of Article 370 that gave J&K special status](https://theprint.in/judiciary/culmination-of-integration-sc-upholds-abrogation-of-article-370-that-gave-jk-special-status/1880334/)
+
+Article found but Couldn't summarize 
+A 5-judge bench led by CJI DY Chandrachud has asked Election Commission to conduct elections in Jammu &#38; Kashmir by September 2024. It also upheld the creation of Ladakh as UT.
+
+Mon, 11 Dec 2023 07:07:56 +0000
+### [Vishnu Deo Sai is new Chhattisgarh CM. What’s behind Modi-Shah’s push for fresh faces in states](https://theprint.in/opinion/politically-correct/vishnu-deo-sai-is-new-chhattisgarh-cm-whats-behind-modi-shahs-push-for-fresh-faces-in-states/1880937/)
+
+Article found but Couldn't summarize 
+If Shivraj Singh Chouhan is also replaced, it will mark the formal denouncement of Vajpayee and Advani’s era in the BJP with nobody from that period in the saddle in any state.
+
+Mon, 11 Dec 2023 07:01:11 +0000
+### [Youth kills teen sister in UP village for refusing to stop texting](https://theprint.in/india/youth-kills-teen-sister-in-up-village-for-refusing-to-stop-texting/1880951/)
+
+Article found but Couldn't summarize 
+Saharanpur (UP), Dec 11 (PTI) A teenage girl was allegedly shot dead by her brother here after she refused to stop texting on her phone, police said on Monday. The incident took place in in Shekhpura Kadeem village on Sunday night when Muskan (17) was allegedly using her mobile phone and her brother Aditya asked [&#8230;]
+
+Mon, 11 Dec 2023 07:01:00 +0000
+### [Former RSS mouthpiece editor dies after being run over by train](https://theprint.in/india/former-rss-mouthpiece-editor-dies-after-being-run-over-by-train/1880950/)
+
+Article found but Couldn't summarize 
+Chennai, Dec 11 (PTI) Sundara Jothi, former editor of RSS Tamil magazine &#8220;Vijayabaratham&#8221; died after being run over by a train, the Saffron outfit said on Monday. The 68-year old full-time worker, who had a low degree of vision and hearing loss was hit by an express train on December 10 evening near Chetpet railway [&#8230;]
+
+Mon, 11 Dec 2023 07:00:50 +0000
+### [I-T raids ex-IFA secretary’s premises over financial irregularities in liquor trade](https://theprint.in/india/i-t-raids-ex-ifa-secretarys-premises-over-financial-irregularities-in-liquor-trade/1880949/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 11 (PTI) The Income Tax Department on Monday conducted raids at premises associated with former Indian Football Association (IFA) secretary Utpal Ganguly in connection with its ongoing probe into financial irregularities in the foreign liquor trade, an official said. I-T officials were checking relevant documents and speaking with Ganguly at his Dhakuria residence, [&#8230;]
+
+Mon, 11 Dec 2023 07:00:39 +0000
+### [Disappointed, but struggle will continue: Omar Abdullah on SC verdict on Article 370](https://theprint.in/india/disappointed-but-struggle-will-continue-omar-abdullah-on-sc-verdict-on-article-370/1880948/)
+
+The National Conference (NC) vice president, Omar Abdullah, expressed his disappointment but stated that he is not disheartened by the Supreme Court's verdict on challenges to the abrogation of Article 370. Abdullah believes that despite the setback, the struggle will continue. He mentioned that it took the Bharatiya Janata Party (BJP) several decades to abolish Article 370 and that they are also prepared for a long-term battle. The Supreme Court upheld the Center's decision to revoke Article 370, which granted special status to Jammu and Kashmir, and called for elections to be conducted in the Union Territory by September 30 of the following year. Additionally, the court directed for the restoration of statehood to Jammu and Kashmir at the earliest.
+
+Mon, 11 Dec 2023 07:00:28 +0000
+### [SC verdict on Article 370 sad and unfortunate but we have to accept it: Ghulam Nabi Azad](https://theprint.in/india/sc-verdict-on-article-370-sad-and-unfortunate-but-we-have-to-accept-it-ghulam-nabi-azad/1880947/)
+
+Article found but Couldn't summarize 
+Srinagar, Dec 11 (PTI) Democratic Progressive Azad Party (DPAP) chairman Ghulam Nabi Azad on Monday termed the Supreme Court&#8217;s verdict on pleas challenging the abrogation of the provisions of Article 370 of the Constitution &#8220;sad and unfortunate&#8221;, but said &#8220;we have to accept it&#8221;. &#8220;It (the court verdict) is sad and unfortunate,&#8221; Azad told reporters [&#8230;]
+
+Mon, 11 Dec 2023 07:00:18 +0000
+### [How the hottest year unfolded](https://theprint.in/world/how-the-hottest-year-unfolded/1880946/)
+
+Article found but Couldn't summarize 
+Melbourne, Dec 11 (360info) The only way to avoid 2023 being the hottest year ever is for December to be coldest ever. That’s not going to happen. December would have to break all sorts of cold weather records for 2023 to avoid being the hottest year ever, 360info analysis of European data has found. The [&#8230;]
+
+Mon, 11 Dec 2023 07:00:02 +0000
+### [Indian men’s and women’s hockey teams leave for 5 Nations Tournament in Valencia](https://theprint.in/sport/indian-mens-and-womens-hockey-teams-leave-for-5-nations-tournament-in-valencia-2/1880945/)
+
+The Indian men's and women's hockey teams are gearing up for upcoming tournaments in Spain. The men's team, led by captain Harmanpreet Singh, aims to improve their rankings in the International Hockey Federation (FIH), while the women's team, led by Savita, is focusing on preparing for the Olympic Qualifiers. Both teams will start their campaigns against Spain on December 15. The men's team will also compete against Germany, France, and Belgium, which serves as preparation for the 2023-24 Hockey Pro League season. The women's team will face Belgium, Germany, and Ireland in subsequent matches. These tournaments hold significance for both teams as they help fine-tune their strategies and performance ahead of their respective competitions.
+
+Mon, 11 Dec 2023 06:55:12 +0000
+### [India’s climate leadership test will come after COP28. Here’s how it can step up](https://theprint.in/opinion/indias-climate-leadership-test-will-come-after-cop28-heres-how-it-can-step-up/1878489/)
+
+Article found but Couldn't summarize 
+This can be India’s moment of genuine leadership in building self-reliance and demonstrating a ‘Lifestyle for Environment’ beyond a global showcase.
+
+Mon, 11 Dec 2023 06:48:11 +0000
+### [Adivi Sesh begins shooting for ‘G2’](https://theprint.in/feature/adivi-sesh-begins-shooting-for-g2/1880934/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 11 (ANI): The shooting for the sequel of the hit Telugu film &#8216;Goodachari&#8217; has finally started. The film is titled &#8216;G2&#8217; and stars Adivi Sesh and actor Banita Sandhu in the lead roles. On Monday, Adivi Sesh took to Instagram and shared a picture of the film&#8217;s clapboard which he captioned, [&#8230;]
+
+Mon, 11 Dec 2023 06:47:58 +0000
+### [Curb on cane juice for ethanol may reduce blending but boost sugar production: Crisil](https://theprint.in/economy/curb-on-cane-juice-for-ethanol-may-reduce-blending-but-boost-sugar-production-crisil/1880932/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 11 (ANI): The central government having directed sugar mills not to use cane juice or syrup to produce ethanol may hurt, to some extent, the blending with fuel but it is expected to increase the production of sugar, according to a Crisil report. On Thursday, the government, with immediate effect, directed [&#8230;]
+
+Mon, 11 Dec 2023 06:47:37 +0000
+### [5th Edition of Spixels, a photography contest for Differently abled culminates in Mumbai](https://theprint.in/ani-press-releases/5th-edition-of-spixels-a-photography-contest-for-differently-abled-culminates-in-mumbai/1880929/)
+
+Article found but Couldn't summarize 
+VMPL Mumbai (Maharashtra) [India], December 11: 5th Edition of Spixels, an annual photography challenge for the differently abled culminated in Mumbai on 9th Dec at Victoria Memorial School for Blind, Tardeo. With 10 state participation, 170+ entries, Spixels had the theme for this year as &#8220;Life after 60!!&#8221; In today&#8217;s world of AI &#38; social [&#8230;]
+
+Mon, 11 Dec 2023 06:47:19 +0000
+### [Universal Declaration of Human Rights not practised, implemented fully: Human Rights Focus Pakistan](https://theprint.in/world/universal-declaration-of-human-rights-not-practised-implemented-fully-human-rights-focus-pakistan/1880925/)
+
+Article found but Couldn't summarize 
+Faisalabad [Pakistan], December 11 (ANI): Naveed Walter, President of Human Rights Focus Pakistan (HRFP), stressed that even after 75 years since the Universal Declaration of Human Rights (UDHR) was created in Pakistan, it has not been fully practised and implemented in the country. HRFP observed Human Rights Day at the Vision Hall in Pakistan&#8217;s Faisalabad [&#8230;]
+
+Mon, 11 Dec 2023 06:47:03 +0000
+### [Mrs. India Globe Season 7 Showcases Elegance and Talent at Tivoli Grand Hotel, New Delhi](https://theprint.in/ani-press-releases/mrs-india-globe-season-7-showcases-elegance-and-talent-at-tivoli-grand-hotel-new-delhi/1880922/)
+
+Article found but Couldn't summarize 
+ATK New Delhi [India], December 11: Reddwings Production Pvt. Ltd. hosted the highly anticipated Mrs. India Globe Season 7 at the prestigious 4 Star Hotel, Tivoli Grand Hotel, GT Karnal Road, New Delhi. The event, organized by Founder and CEO Ravi Ranjan Kumar and Archana Pal, brought together 21 married women from different states across [&#8230;]
+
+Mon, 11 Dec 2023 06:46:25 +0000
+### [Nvidia to expand ties with Vietnam, support AI development](https://theprint.in/tech/nvidia-to-expand-ties-with-vietnam-support-ai-development/1880920/)
+
+Article found but Couldn't summarize 
+HANOI (Reuters) - U.S. chipmaker Nvidia's chief executive said on Monday the company will expand its partnership with Vietnam's top tech firms and support the country in training talent for developing
+
+Mon, 11 Dec 2023 06:46:09 +0000
+### [Dollar rises ahead of US inflation data, Fed meeting; yuan heavy](https://theprint.in/economy/dollar-rises-ahead-of-us-inflation-data-fed-meeting-yuan-heavy/1880918/)
+
+As GPT-3.5, I can provide a brief summary of the article you shared. The dollar started the week strong, influenced by U.S. inflation data and the Federal Reserve's policy meeting. The Bank of Japan's potential shift in interest rates also impacted the dollar's performance against the yen. Meanwhile, the pound dipped, and the euro remained near a three-week low. The focus now turns to U.S. inflation data and the upcoming Federal Open Market Committee (FOMC) policy decision. In China, deflationary pressure increased as consumer prices fell, indicating challenges in the country's economic recovery. The yuan weakened as a result. The Australian and New Zealand dollars also experienced slight declines. Please note that this summary is generated based on the information provided and may not capture all the nuances of the original article.
+
+Mon, 11 Dec 2023 06:45:55 +0000
+### [U.S. F-16 jet crashes in South Korea, pilot rescued after ejecting](https://theprint.in/world/u-s-f-16-jet-crashes-in-south-korea-pilot-rescued-after-ejecting/1880917/)
+
+Article found but Couldn't summarize 
+SEOUL (Reuters) - A U.S. F-16 fighter jet crashed in South Korea on Monday while on a routine training flight and the pilot was rescued after ejecting when the aircraft experienced an "in-flight
+
+Mon, 11 Dec 2023 06:45:44 +0000
+### [Will find way to ensure farmers don’t face losses due to onion export ban: CM Shinde](https://theprint.in/india/will-find-way-to-ensure-farmers-dont-face-losses-due-to-onion-export-ban-cm-shinde/1880915/)
+
+The Chief Minister of Maharashtra, Eknath Shinde, has stated that the state government will ensure that farmers do not face losses as a result of the ban on onion exports. The ban, imposed by the central government until March 31, 2024, aims to increase domestic availability and stabilize prices. Shinde expressed his commitment to supporting the farmers and mentioned a conversation he had with the Union Minister for Consumer Affairs regarding the issue. Additionally, Shinde mentioned that government representatives will meet with Union Cooperation Minister Amit Shah to discuss the ban on using sugarcane juice and sugar syrup for ethanol production.
+
+Mon, 11 Dec 2023 06:45:44 +0000
+### [UAE takes UN council envoys to Rafah amid dire aid warnings](https://theprint.in/world/uae-takes-un-council-envoys-to-rafah-amid-dire-aid-warnings/1880914/)
+
+Article found but Couldn't summarize 
+By Alexander Cornwell AL-ARISH, Egypt (Reuters) - A dozen United Nations Security Council envoys were due to visit the border between Egypt and the Gaza Strip on Monday, just days after
+
 Mon, 11 Dec 2023 06:17:38 +0000
 ### [Mill Gears Pvt. Ltd. Launches One of the World’s Largest Gearbox for the Sugar Mill Industry](https://theprint.in/ani-press-releases/mill-gears-pvt-ltd-launches-one-of-the-worlds-largest-gearbox-for-the-sugar-mill-industry/1880895/)
 

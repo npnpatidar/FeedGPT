@@ -1,3 +1,15 @@
+2023-12-11T12:38:30+05:30
+### [Bangladesh: Opposition to Boycott General Election, Demands a Caretaker Govt to Hold Polls](https://thewire.in/south-asia/bangladesh-opposition-to-boycott-general-election-demands-a-caretaker-govt-to-hold-polls)
+
+No Article text 
+Expressing doubt about the prospect of a fair and free election under Hasina's leadership, opposition activists pointed to an ongoing crackdown on opposition politicians and critics.
+
+2023-12-11T12:00:27+05:30
+### [India Will Need at Least Nine Years to Clear the Backlog of Pending POCSO Cases: Study](https://thewire.in/rights/india-will-need-at-least-nine-years-to-clear-the-backlog-of-pending-pocso-cases-study)
+
+No Article text 
+As per a study by the India Child Protection Fund, each of the over 1,000 fast track special courts, set up in 2019 to exclusively deal with POCSO cases, are clearing only 28 cases on average every year, falling short of the target of 165.
+
 2023-12-11T11:28:35+05:30
 ### [Breaking | SC Upholds Validity of Constitutional Order Which Read Down Article 370](https://thewire.in/law/supreme-court-kashmir-article-370-verdict)
 

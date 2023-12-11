@@ -1,3 +1,9 @@
+Mon, 11 Dec 2023 11:51:04 +0530
+### [India’s response to Rohingya refugee crisis must balance humanitarianism with national security](https://www.firstpost.com/opinion/indias-response-to-rohingya-refugee-crisis-must-balance-humanitarianism-with-national-security-13488932.html)
+
+Article found but Couldn't summarize 
+India’s response to Rohingya refugee crisis must balance humanitarianism with national security
+
 Mon, 11 Dec 2023 10:47:12 +0530
 ### [Weather Report: Absence of Western Disturbance to result in dry conditions this week across India](https://www.firstpost.com/opinion/weather-report-absence-of-western-disturbance-to-result-in-dry-conditions-this-week-across-india-13488022.html)
 

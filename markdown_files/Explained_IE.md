@@ -1,3 +1,8 @@
+Mon, 11 Dec 2023 07:17:25 +0000
+### [Article 370 abrogation upheld: How SC answered three key questions in the government’s favour](https://indianexpress.com/article/explained/explained-law/article-370-abrogation-upheld-supreme-court-explained-9063145/)
+
+Article found but Couldn't summarize
+
 Mon, 11 Dec 2023 03:47:48 +0000
 ### [SC verdict on abrogation of Article 370 Explained Live: The arguments in court so far](https://indianexpress.com/article/explained/explained-law/article-370-verdict-supreme-court-explained-live-updates-9061383/)
 

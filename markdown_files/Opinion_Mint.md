@@ -1,3 +1,9 @@
+Mon, 11 Dec 2023 12:39:19 +0530
+### [Every day should be National Energy Conservation Day](https://www.livemint.com/opinion/first-person/every-day-should-be-national-energy-conservation-day-11702277742316.html)
+
+Article found but Couldn't summarize 
+Energy efficiency is just as important as energy generation, and has tremendous potential to reduce greenhouse gas emissions while making Indian businesses more competitive. We must adopt it as a way of life.
+
 Mon, 11 Dec 2023 10:57:11 +0530
 ### [For ITC, a bigger opportunity in fast-moving consumer foods](https://www.livemint.com/opinion/for-itc-a-bigger-opportunity-in-fast-moving-consumer-foods-11702272030475.html)
 

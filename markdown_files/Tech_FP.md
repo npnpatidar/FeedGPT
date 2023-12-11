@@ -1,3 +1,9 @@
+Mon, 11 Dec 2023 12:25:19 +0530
+### [OpenAI’s massive plans for India: Hires Twitter India ex-head Rishi Jaitly to navigate AI regulations](https://www.firstpost.com/tech/openais-massive-plans-for-india-hires-twitter-ex-head-rishi-jaitly-to-navigate-ai-regulations-13489102.html)
+
+Article found but Couldn't summarize 
+OpenAI’s massive plans for India: Hires Twitter India ex-head Rishi Jaitly to navigate AI regulations
+
 Mon, 11 Dec 2023 10:35:47 +0530
 ### ['Psychologically abusive, toxic': New report calls out OpenAI CEO Sam Altman as a horrible boss](https://www.firstpost.com/tech/psychologically-abusive-toxic-new-report-calls-out-openai-ceo-sam-altman-as-a-horrible-boss-13488592.html)
 
