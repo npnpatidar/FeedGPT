@@ -1892,3 +1892,11 @@ Started at 2023-12-11 17:17:53
 Finished at 2023-12-11 17:37:50
 Total time taken: 1196.912039756775 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2023-12-11 18:24:09
+1 Feed entries have been written to feeds/Explained_TH.xml
+1 Feed entries have been written to feeds/The_Wire.xml
+20 Feed entries have been written to feeds/ThePrint.xml
+22 new entries have been added
+Finished at 2023-12-11 18:40:45
+Total time taken: 995.6553158760071 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

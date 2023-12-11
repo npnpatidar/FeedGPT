@@ -1,3 +1,9 @@
+2023-12-11T23:18:41+05:30
+### [Watch | Kuki Outfits Reject Findings of SC-Appointed Panel on Manipur Violence](https://thewire.in/video/watch-kuki-outfits-reject-findings-of-sc-appointed-panel-on-manipur-violence)
+
+No Article text 
+They claim that the Justice Gita Mittal Committee did not hold any dialogue with them, compelling them to reject its findings.
+
 2023-12-11T22:42:47+05:30
 ### [MP: BJP Names Mohan Yadav, an OBC Leader with RSS Roots, as the Next CM](https://thewire.in/politics/mp-bjp-names-mohan-yadav-an-obc-leader-with-rss-roots-as-the-next-cm)
 

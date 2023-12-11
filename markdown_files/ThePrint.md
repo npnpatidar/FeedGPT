@@ -1,3 +1,123 @@
+Mon, 11 Dec 2023 18:16:20 +0000
+### [Soccer-Sevilla appeal French ban on fans travelling for Lens Champions League game](https://theprint.in/sport/soccer-sevilla-appeal-french-ban-on-fans-travelling-for-lens-champions-league-game/1882127/)
+
+Article found but Couldn't summarize 
+(Reuters) - Sevilla have lodged an appeal with French authorities over a ban on their supporters attending Tuesday's Champions League game at Lens, which has been imposed after a fan was killed ahead
+
+Mon, 11 Dec 2023 18:16:08 +0000
+### [US judge to hear Meta privacy dispute with FTC next month](https://theprint.in/tech/us-judge-to-hear-meta-privacy-dispute-with-ftc-next-month/1882125/)
+
+Article found but Couldn't summarize 
+WASHINGTON (Reuters) - A judge overseeing a lawsuit brought by Meta Platforms, owner of WhatsApp, Instagram and Facebook, said he would hear arguments in late January on a request that he temporarily
+
+Mon, 11 Dec 2023 18:15:48 +0000
+### [Palestinians starve as Gaza war rages amid fears of exodus into Egypt](https://theprint.in/world/palestinians-starve-as-gaza-war-rages-amid-fears-of-exodus-into-egypt/1882123/)
+
+Article found but Couldn't summarize 
+By Bassam Masoud and Nidal al-Mughrabi GAZA/CAIRO (Reuters) -Israel on Monday denied it intended to push Palestinians seeking refuge from its bombardment of Gaza over the border into Egypt as
+
+Mon, 11 Dec 2023 18:15:34 +0000
+### [Explainer-Why Palestinian displacement in Gaza war alarms the UN and Arabs](https://theprint.in/world/explainer-why-palestinian-displacement-in-gaza-war-alarms-the-un-and-arabs/1882121/)
+
+Article found but Couldn't summarize 
+By Tom Perry and Maayan Lubell BEIRUT/JERUSALEM (Reuters) - Israel's orders to Gaza's residents to move ever further south towards the Egyptian border during its offensive and the dire humanitarian
+
+Mon, 11 Dec 2023 18:15:34 +0000
+### [Gogamedi murder: Three Bhondsi jail inmates in Jaipur police custody for questioning](https://theprint.in/india/gogamedi-murder-three-bhondsi-jail-inmates-in-jaipur-police-custody-for-questioning/1882120/)
+
+Article found but Couldn't summarize 
+Gurugram, Dec 11 (PTI) The Jaipur Police has taken three inmates of Bhondsi jail here in their custody on a production warrant in connection with the Sukhdev Singh Gogamedi murder case, officials said on Monday. All three inmates &#8212; Sandeep alias Sumit, Bhavani Singh alias Roni, and Rahul &#8212; are said to be members of [&#8230;]
+
+Mon, 11 Dec 2023 18:15:22 +0000
+### [Poland’s parliament votes in favour of Donald Tusk becoming prime minister](https://theprint.in/world/polands-parliament-votes-in-favour-of-donald-tusk-becoming-prime-minister/1882118/)
+
+Article found but Couldn't summarize 
+By Anna Koper and Pawel Florkiewicz WARSAW (Reuters) - Poland's parliament voted in favour of Donald Tusk becoming prime minister on Monday, putting an end to eight years of nationalist rule and
+
+Mon, 11 Dec 2023 18:15:20 +0000
+### [Telangana CM orders release of financial aid for farmers under ‘Rythu Bandhu’ scheme](https://theprint.in/india/telangana-cm-orders-release-of-financial-aid-for-farmers-under-rythu-bandhu-scheme/1882116/)
+
+Article found but Couldn't summarize 
+Hyderabad, Dec 11 (PTI) Telangana Chief Minister A Revanth Reddy on Monday directed officials to start the process of disbursing financial aid to farmers under the &#8216;Rythu Bandhu&#8217; scheme. At a meeting with ministers and officials, Reddy held in-depth discussions on the functioning and performance of the Department of Agriculture and its allied wings, and [&#8230;]
+
+Mon, 11 Dec 2023 18:15:05 +0000
+### [France to end contract with biggest Muslim high school amid fears of wider crackdown](https://theprint.in/world/france-to-end-contract-with-biggest-muslim-high-school-amid-fears-of-wider-crackdown/1882115/)
+
+Article found but Couldn't summarize 
+By Juliette Jabkhiro PARIS (Reuters) - France is to end funding for its biggest Muslim high school on the grounds of administrative failures and questionable teaching practices, a local official said
+
+Mon, 11 Dec 2023 18:15:02 +0000
+### [Swearing-in ceremony of new govt on Dec 13, says MP CM-designate Mohan Yadav](https://theprint.in/india/swearing-in-ceremony-of-new-govt-on-dec-13-says-mp-cm-designate-mohan-yadav/1882114/)
+
+Article found but Couldn't summarize 
+Bhopal, Dec 11 (PTI) Madhya Pradesh Chief Minister-designate Mohan Yadav on Monday said the swearing-in ceremony of the new government will take place on December 13. Yadav was addressing reporters in the evening after he was chosen as the leader of the BJP&#8217;s legislature party. Yadav had met Governor Mangubhai Patel and staked claim to [&#8230;]
+
+Mon, 11 Dec 2023 18:02:47 +0000
+### [Delhi: Delegation of journalists from Africa meet CEC Rajiv Kumar, discuss electoral process](https://theprint.in/world/delhi-delegation-of-journalists-from-africa-meet-cec-rajiv-kumar-discuss-electoral-process/1882112/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 11 (ANI): A delegation of journalists from African countries called on Chief Election Commissioner Rajiv Kumar in the national capital on Monday. The 32-member delegation showed keen interest in electoral processes, outreach and funding of the Commission. CEC Rajiv Kumar outlined the massive scale and preparation of elections during the meeting. [&#8230;]
+
+Mon, 11 Dec 2023 18:02:35 +0000
+### [COP28 draft is “diplomatic-speak, not science-speak”, misses fossil fuel phase-out, sparks criticism](https://theprint.in/world/cop28-draft-is-diplomatic-speak-not-science-speak-misses-fossil-fuel-phase-out-sparks-criticism/1882110/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 11 (ANI): A new draft of the fundamental agreement at the COP28 climate summit, published on Monday, has drawn criticism for omitting the mention of phasing out fossil fuels, a key factor in the climate crisis. The removal of the call to abandon fossil fuels appears to be a concession to oil-producing [&#8230;]
+
+Mon, 11 Dec 2023 18:02:25 +0000
+### [Dubai Police COP28UAE game fosters environmental awareness, sustainably](https://theprint.in/world/dubai-police-cop28uae-game-fosters-environmental-awareness-sustainably/1882108/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 11 (ANI/WAM): At the COP28, Dubai Police showcased their adventure game, COP28UAE, which has received over 920,000 views and is available in six languages: Arabic, English, French, Russian, Spanish, and Chinese, the official languages of the United Nations. The game&#8217;s launch is part of Dubai Police&#8217;s efforts to support the United Arab [&#8230;]
+
+Mon, 11 Dec 2023 18:02:15 +0000
+### [European Council and Parliament strike deal on first rules for AI](https://theprint.in/world/european-council-and-parliament-strike-deal-on-first-rules-for-ai/1882106/)
+
+Article found but Couldn't summarize 
+Brussels [Belgium], December 11 (ANI/WAM): Following 3-day &#8216;marathon&#8217; talks, the European Council presidency and the European Parliament&#8217;s negotiators have reached a provisional agreement on the proposal on harmonised rules on artificial intelligence (AI), the so-called artificial intelligence act. The draft regulation aims to ensure that AI systems placed on the European market and used in [&#8230;]
+
+Mon, 11 Dec 2023 18:02:02 +0000
+### [National Human Rights Institution holds discussion session on occasion of Human Rights Day](https://theprint.in/world/national-human-rights-institution-holds-discussion-session-on-occasion-of-human-rights-day/1882104/)
+
+Article found but Couldn't summarize 
+Abu Dhabi [UAE], December 11 (ANI/WAM): The National Human Rights Institution (NHRI) held a discussion session titled &#8220;Celebrating History and Shaping the Future&#8221; on the occasion of Human Rights Day, coinciding with the 75th anniversary of the Universal Declaration of Human Rights and marking 30 years since the adoption of the Paris Principles which guide [&#8230;]
+
+Mon, 11 Dec 2023 18:00:14 +0000
+### [Thirteen tourists rescued by lifesavers from drowning in Goa over weekend](https://theprint.in/india/thirteen-tourists-rescued-by-lifesavers-from-drowning-in-goa-over-weekend/1882101/)
+
+Article found but Couldn't summarize 
+Panaji, Dec 11 (PTI) Thirteen persons, including two foreign nationals, were rescued from drowning across various beaches and other water bodies in Goa over the weekend, a private firm providing professional lifesaving services in the coastal state said on Monday. A spokesman of Drishti Marine Lifesaving said a 34-year-old tourist from Gujarat slipped off a [&#8230;]
+
+Mon, 11 Dec 2023 18:00:02 +0000
+### [Kerala: Waste management rules violation to now attract max fine of Rs 50,000, 1-year imprisonment](https://theprint.in/india/kerala-waste-management-rules-violation-to-now-attract-max-fine-of-rs-50000-1-year-imprisonment/1882100/)
+
+Article found but Couldn't summarize 
+Thiruvananthapuram, Dec 11 (PTI) Violation of waste management rules will now attract a maximum fine of Rs 50,000 and imprisonment of up to one year under the laws amended as part of the ongoing garbage-free Kerala campaign. Minister for Local Self-Governments M B Rajesh Monday said according to the Kerala Panchayat Raj (Amendment) Ordinance, 2023, [&#8230;]
+
+Mon, 11 Dec 2023 17:46:15 +0000
+### [Delhi govt’s excise dept asks people to get P-10 license for serving liquor in weddings](https://theprint.in/india/delhi-govts-excise-dept-asks-people-to-get-p-10-license-for-serving-liquor-in-weddings/1882097/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 11 (PTI) In view of the wedding season, the Delhi government&#8217;s excise department has requested people to get temporary P-10 licenses to ensure liquor was consumed properly in a responsible manner on such occasions, officials said Monday. An excise department officer said drinking in public during the wedding season needs to be [&#8230;]
+
+Mon, 11 Dec 2023 17:46:05 +0000
+### [Shaheed Bhagat Singh College bars denies admit card to 100 students over low attendance](https://theprint.in/india/shaheed-bhagat-singh-college-bars-denies-admit-card-to-100-students-over-low-attendance/1882096/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 11 (PTI) Delhi University&#8217;s Shaheed Bhagat Singh College has denied admit cards for examinations to about 100 students with less than 40 per cent attendance, according to a notice issued on Monday. This is the second time in a month that the college has barred students from appearing in exams due to [&#8230;]
+
+Mon, 11 Dec 2023 17:45:54 +0000
+### [No agreement in sight for a new Dutch coalition after Wilders win](https://theprint.in/world/no-agreement-in-sight-for-a-new-dutch-coalition-after-wilders-win/1882094/)
+
+Article found but Couldn't summarize 
+AMSTERDAM (Reuters) - A new coalition government for the Netherlands is far off as parties have yet to agree common ground over the rule of law with far-right leader Geert Wilders let alone open
+
+Mon, 11 Dec 2023 17:45:53 +0000
+### [Goa to use drones for aerial surveillance of wildlife sanctuaries, forests: Rane](https://theprint.in/india/goa-to-use-drones-for-aerial-surveillance-of-wildlife-sanctuaries-forests-rane/1882093/)
+
+Article found but Couldn't summarize 
+Panaji, Dec 11 (PTI) The Goa government will conduct aerial surveillance through drones at wildlife sanctuaries and forest areas to track movement and curb forest fires, state minister Vishwajit Rane said on Monday. The state government is also taking the help of Forest Survey of India to monitor the movement in these areas, he added. [&#8230;]
+
 Mon, 11 Dec 2023 17:15:43 +0000
 ### [Bangladesh to deploy Army to maintain order ahead of Jan 7 elections](https://theprint.in/world/bangladesh-to-deploy-army-to-maintain-order-ahead-of-jan-7-elections/1882038/)
 

@@ -1,3 +1,9 @@
+Mon, 11 Dec 2023 23:02:14 +0530
+### [Can Bihar increase its reservation pool? | Explained](https://www.thehindu.com/news/national/can-bihar-increase-its-reservation-pool-explained/article67628656.ece)
+
+Article found but Couldn't summarize 
+What has the Supreme Court said about reservation being ‘adequate’ and not ‘proportionate’? Are there other States which do not adhere to the 50% limit on reservation?
+
 Mon, 11 Dec 2023 16:02:35 +0530
 ### [How do web browsers work? | Explained](https://www.thehindu.com/sci-tech/technology/how-web-browsers-work-explained/article67627006.ece)
 
