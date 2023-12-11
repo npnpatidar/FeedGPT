@@ -1,3 +1,9 @@
+Mon, 11 Dec 2023 16:02:35 +0530
+### [How do web browsers work? | Explained](https://www.thehindu.com/sci-tech/technology/how-web-browsers-work-explained/article67627006.ece)
+
+Article found but Couldn't summarize 
+Web browsers translate code into the dynamic web pages that form the backbone of our online experiences.
+
 Mon, 11 Dec 2023 15:30:00 +0530
 ### [Looking for intelligent alien life is hard not just for space’s size | Explained](https://www.thehindu.com/sci-tech/science/seti-meti-extraterrestrial-intelligence-search-challenges-explained/article67626950.ece)
 

@@ -1,3 +1,8 @@
+Mon, 11 Dec 2023 10:30:06 +0000
+### [‘We the people of Jammu and Kashmir’: What Justice Kaul said in his Article 370 verdict’s ‘sentimental epilogue’](https://indianexpress.com/article/explained/explained-law/justice-kaul-article-370-verdict-supreme-court-9063464/)
+
+The Supreme Court upheld the abrogation of Article 370 by the Centre in 2019 and Justice Sanjay Kishan Kaul recommended setting up a Truth and Reconciliation Commission for human rights violations in J&K since the 1980s. He emphasized the need for impartiality, expeditiousness, and dialogue, and discussed the historical burden carried by the people of Jammu and Kashmir due to conflicts since 1947. He also highlighted the involuntary migration of a part of the state's population, the army's role, and the feeling of distrust among the youth in the Valley. Justice Kaul expressed hope for systemic reforms and the return of those compelled to migrate with dignity.
+
 Mon, 11 Dec 2023 08:30:15 +0000
 ### [SC upholds Article 370 abrogation: What is Truth and Reconciliation Commission?](https://indianexpress.com/article/explained/explained-law/sc-abrogation-article-370-truth-and-reconciliation-commisssion-9063179/)
 

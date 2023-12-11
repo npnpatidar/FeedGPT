@@ -1,3 +1,21 @@
+2023-12-11T16:45:46+05:30
+### [Subdued Response From J&K Political Parties After SC Upholds Reading Down of Article 370](https://thewire.in/politics/subdued-response-jk-political-parties-sc-uphold-article-370)
+
+No Article text 
+While Mehbooba Mufti and Omar Abdullah said they were put under house arrest, J&amp;K Lieutenant Governor Manoj Sinha rejected the claim.
+
+2023-12-11T16:30:46+05:30
+### [PM Modi May Join Kolkata 'Gita' Recital by Those Behind Controversial Bengal Kumbh 'Revival'](https://thewire.in/politics/narendra-modi-kumbh-mela-kolkata-gita-recital-alan-morinis)
+
+No Article text 
+Hindutva organisations under apolitical banners are working in tandem with the Sangh Parivar to spread ‘religiousness’ across Bengal.
+
+2023-12-11T16:00:29+05:30
+### [A Lasting Solution For Israel-Palestine: A Ceasefire and an End to Occupation](https://thewire.in/world/a-lasting-solution-for-israel-palestine-a-ceasefire-and-an-end-to-occupation)
+
+No Article text 
+Even if this horrifically brutal war ends soon, violence will recur as long as the occupation of Palestinian territories continues.
+
 2023-12-11T15:30:29+05:30
 ### [J&K: New Study Paints Grim Picture of Land Use Changes in Dachigam National Park](https://thewire.in/environment/jk-dachigam-national-park-grim-picture-forest-cover)
 

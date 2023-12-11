@@ -1,3 +1,14 @@
+Mon, 11 Dec 2023 15:45:44 +0530
+### [SC’s verdict upholding abrogation of Article 370 is a landmark decision and a step towards democratic equality](https://www.firstpost.com/opinion/scs-verdict-upholding-abrogation-of-article-370-is-a-landmark-decision-and-a-step-towards-democratic-equality-13490432.html)
+
+Article found but Couldn't summarize 
+SC’s verdict upholding abrogation of Article 370 is a landmark decision and a step towards democratic equality
+
+Mon, 11 Dec 2023 15:43:11 +0530
+### [What if Donald Trump won the presidency in 2024?](https://www.firstpost.com/opinion/what-if-donald-trump-won-the-presidency-in-2024-13489372.html)
+
+President Joe Biden has made strong statements about former President Donald Trump, calling him an "existential threat" to the United States. Biden has criticized Trump's attacks on democratic institutions and divisive rhetoric targeting various groups. The article also discusses potential impacts of a second Trump presidency, including reversal of policies, challenges to international alliances, and divisions within the country. It also outlines concerns about Trump's vindictive conduct and plans to expand presidential power, leading to fears of an authoritarian leadership style. The article presents a detailed analysis of the potential implications of a Trump victory in the 2024 election.
+
 Mon, 11 Dec 2023 15:17:20 +0530
 ### [Article 370: SC verdict shows that when it matters, judiciary upholds the sanctity of Indian state over activism](https://www.firstpost.com/opinion/article-370-sc-verdict-shows-that-when-it-matters-judiciary-upholds-the-sanctity-of-indian-state-over-activism-13490142.html)
 

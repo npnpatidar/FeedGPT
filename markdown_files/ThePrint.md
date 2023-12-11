@@ -1,3 +1,114 @@
+Mon, 11 Dec 2023 11:02:11 +0000
+### [Stock market powers through challenges, Nifty gains 5.5 per cent](https://theprint.in/economy/stock-market-powers-through-challenges-nifty-gains-5-5-per-cent/1881378/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 11 (ANI): The stock market maintained positive momentum, overcoming brief dips to ultimately close in green territory. The global and domestic markets rebounded impressively during the month, driven by a cheerful festive season and positive global cues. Investor sentiments were buoyed by a dovish Fed commentary and robust economic data, signalling [&#8230;]
+
+Mon, 11 Dec 2023 11:02:02 +0000
+### [President Tokayev signs landmark decree advancing human rights in Kazakhstan](https://theprint.in/world/president-tokayev-signs-landmark-decree-advancing-human-rights-in-kazakhstan/1881376/)
+
+Article found but Couldn't summarize 
+Astana [Kazakhstan], December 11 (ANI): President Kassym-Jomart Tokayev of Kazakhstan signed a decree endorsing an action plan dedicated to the advancement of human rights and the rule of law in the country, informed the Embassy of Kazakhstan. To bring the decree into effect, Kazakhstan will undertake several significant actions. These include the adoption of seven [&#8230;]
+
+Mon, 11 Dec 2023 11:01:54 +0000
+### [Delhi govt showcauses five engineers over non-functional street lights](https://theprint.in/india/delhi-govt-showcauses-five-engineers-over-non-functional-street-lights/1881375/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 11 (PTI) Delhi Public Work Department (PWD) Minister Atishi has showcaused five engineers over non-functional of street lights in several parts of the national capital, officials said on Monday. The notices were served on Friday to four engineers in south Delhi and one in northwest Delhi division. According to the notice issued [&#8230;]
+
+Mon, 11 Dec 2023 11:01:43 +0000
+### [Gold tumbles Rs 900; silver declines Rs 200](https://theprint.in/economy/gold-tumbles-rs-900-silver-declines-rs-200/1881374/)
+
+Gold prices in the national capital of India dropped by Rs 900 to Rs 61,300 per 10 grams, while silver also declined by Rs 200 to Rs 76,000 per kilogram due to weak cues in global markets. The decrease in gold prices is attributed to an uptick in US Treasury yields and the dollar following upbeat US jobs data. In the overseas market, gold was trading at USD 1,995 per ounce, and silver at USD 22.98 per ounce. Traders anticipate gold prices to remain bearish, with macro events such as the release of the US Consumer Price Index (CPI) data and the US Federal Reserve policy meeting expected to impact prices.
+
+Mon, 11 Dec 2023 11:01:24 +0000
+### [SC verdict on validity of Article 370 abrogation gets varied reactions in J-K](https://theprint.in/india/sc-verdict-on-validity-of-article-370-abrogation-gets-varied-reactions-in-j-k/1881373/)
+
+Article found but Couldn't summarize 
+Srinagar/Jammu, Dec 11 (PTI) The Supreme Court upholding the Centre&#8217;s decision to abrogate Article 370 evoked varied reactions from political parties in Jammu and Kashmir with the National Conference vowing to continue its struggle while the BJP welcomed it and said the judgment will be honoured in &#8220;letter and spirit&#8221;. The ruling sparked a range [&#8230;]
+
+Mon, 11 Dec 2023 11:01:06 +0000
+### [Stop clock trial to get underway during West Indies-England series](https://theprint.in/sport/stop-clock-trial-to-get-underway-during-west-indies-england-series/1881372/)
+
+The ICC will implement a stop clock trial during the white-ball series between West Indies and England, beginning with the first T20 in Barbados. The trial aims to restrict the time taken between overs, requiring the bowling team to be prepared to bowl within 60 seconds of the completion of the previous over. Failure to comply after two warnings will result in a five-run penalty. The trial follows the successful implementation of a new playing condition in 2022. The outcomes of the trial will be evaluated upon its conclusion.
+
+Mon, 11 Dec 2023 11:00:54 +0000
+### [Dire need to enact law giving wider powers to CBI to probe cases without states’ consent:Par Panel](https://theprint.in/india/dire-need-to-enact-law-giving-wider-powers-to-cbi-to-probe-cases-without-states-consentpar-panel/1881370/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 11 (PTI) Asserting that withdrawal of &#8216;general consent&#8217; by some states has led to severe limitations in the CBI&#8217;s powers to investigate crucial cases, a Parliamentary panel on Monday said there was a dire need to enact a new law and give wider powers to the federal agency so that it can [&#8230;]
+
+Mon, 11 Dec 2023 11:00:46 +0000
+### [Exclusive-Huawei approaches Audi, Mercedes about investing in its smart car firm, sources say](https://theprint.in/tech/exclusive-huawei-approaches-audi-mercedes-about-investing-in-its-smart-car-firm-sources-say/1881369/)
+
+Article found but Couldn't summarize 
+SHANGHAI/HONG KONG (Reuters) - China's Huawei Technologies has asked Mercedes Benz and Volkswagen's Audi if they are interested in buying small stakes in its smart car software and components firm,
+
+Mon, 11 Dec 2023 11:00:43 +0000
+### [Ensure repatriation of fishermen arrested in Lanka, TN CM tells Centre](https://theprint.in/india/ensure-repatriation-of-fishermen-arrested-in-lanka-tn-cm-tells-centre/1881368/)
+
+Article found but Couldn't summarize 
+Chennai, Dec 11 (PTI) Tamil Nadu Chief Minister M K Stalin on Monday urged the Centre to ensure the early repatriation of the Indian fishermen arrested in Sri Lanka recently. He pointed out that the attacks on the fishermen have been on the rise of late and have had serious repercussions on the lives and [&#8230;]
+
+Mon, 11 Dec 2023 11:00:31 +0000
+### [Biggest losers will be Dogras of Jammu, Buddhists of Ladakh, says Owaisi](https://theprint.in/india/biggest-losers-will-be-dogras-of-jammu-buddhists-of-ladakh-says-owaisi/1881366/)
+
+AIMIM president Asaduddin Owaisi expressed concerns about the impact of the Union's decision to abrogate Article 370, particularly on the Dogras of Jammu and Buddhists of Ladakh, who he believes will face demographic changes. Owaisi also questioned the timeline for the reinstatement of statehood and emphasized the need for democratic representation through assembly elections. He criticized the process of abrogating Article 370, stating that it was a violation of constitutional morality and a betrayal of the promise made to the people of Kashmir. The Supreme Court upheld the decision and directed the restoration of statehood and elections to the assembly by September 30 next year.
+
+Mon, 11 Dec 2023 11:00:30 +0000
+### [BTS members head for South Korean military service, fans vow to wait](https://theprint.in/entertainment/bts-members-head-for-south-korean-military-service-fans-vow-to-wait/1881365/)
+
+BTS, the K-pop supergroup, will have four more of its members begin their 18-month military service this week in South Korea. This follows three others who have already started their service. Fans are pledging to wait until 2025 for the group to perform together again, expressing their support for the band members as they fulfill their mandatory military duty. The article also mentions fans gathering to bid farewell and expressing their sadness at the temporary separation. Additionally, it discusses the band members' individual activities before starting their military service and the debate surrounding the length of military service for K-pop artists.
+
+Mon, 11 Dec 2023 11:00:14 +0000
+### [Evaluating EC’s letter on office-of-profit case against CM: J’khand Guv](https://theprint.in/india/evaluating-ecs-letter-on-office-of-profit-case-against-cm-jkhand-guv/1881363/)
+
+Article found but Couldn't summarize 
+Ranchi, Dec 11 (PTI) Jharkhand Governor C P Radhakrishnan on Monday said the Raj Bhavan is evaluating the Election Commission’s recommendation in an office-of-profit case against Chief Minister Hemant Soren over the extension of a mining lease to him. The governor also said that persons, who have done wrong and have been found guilty, will [&#8230;]
+
+Mon, 11 Dec 2023 11:00:12 +0000
+### [Sweden demands immediate release of EU employee jailed in Iran](https://theprint.in/world/sweden-demands-immediate-release-of-eu-employee-jailed-in-iran/1881362/)
+
+Article found but Couldn't summarize 
+STOCKHOLM (Reuters) - Sweden's Prime Minister Ulf Kristersson said on Monday the Nordic country demanded that Iran immediately release Swedish EU employee Johan Floderus from prison. Kristersson told
+
+Mon, 11 Dec 2023 11:00:04 +0000
+### [Swiss police on manhunt for shooter who killed two](https://theprint.in/world/swiss-police-on-manhunt-for-shooter-who-killed-two/1881361/)
+
+Article found but Couldn't summarize 
+GENEVA (Reuters) -Swiss police were searching on Monday for a shooter who killed two people and wounded a third. Police said a 36-year-old man fired several shots in two different locations in Sion, a
+
+Mon, 11 Dec 2023 11:00:02 +0000
+### [Want to take all the positivity into next year and put up a show in bigger events: Ashwini](https://theprint.in/sport/want-to-take-all-the-positivity-into-next-year-and-put-up-a-show-in-bigger-events-ashwini/1881360/)
+
+As GPT-3.5, I can provide a summary of the article you shared. Indian shuttler Ashwini Ponnappa is experiencing a sensational run in recent weeks, fueling her dreams of participating in the Olympics. Alongside her partner Tanisha Crasto, they secured their third women's doubles title at the Guwahati Masters tournament. Their success in Guwahati will boost their world ranking, bringing them closer to the top 16, which is the cutoff for the Paris Games. Ashwini expressed her focus on performing well in every tournament and simplifying their journey towards the Olympics. They have also won the Abu Dhabi Masters Super 100 and Nantes International Challenge this year. Ashwini, a two-time Olympian, previously achieved success with Jwala Gutta but is now partnering with Tanisha. They aim to take their positive momentum into the next year while focusing on their upcoming tournament in Odisha. Ashwini emphasized the importance of diet and nutrition in maintaining her performance at the age of 34.
+
+Mon, 11 Dec 2023 10:53:09 +0000
+### [Over Rs 300 cr seized as I-T raids on Congress MP & kin enter Day 6: ‘Even counting machines struggled’](https://theprint.in/india/over-rs-300-cr-seized-as-i-t-raids-on-congress-mp-kin-enter-day-6-even-counting-machines-struggled/1881123/)
+
+Article found but Couldn't summarize 
+Size of I-T seizures has catapulted operation to national headlines, stoking an attack from top BJP leaders at Congress, which has distanced itself from the matter.
+
+Mon, 11 Dec 2023 10:47:36 +0000
+### [Unlocking the Power of Nestaway Ratings: Tenant Experiences and Insights](https://theprint.in/ani-press-releases/unlocking-the-power-of-nestaway-ratings-tenant-experiences-and-insights/1881346/)
+
+Nestaway's decision to share tenant ratings and reviews demonstrates their commitment to transparency in the home rental market. By providing valuable insights and creating trust among residents, Nestaway allows prospective renters to make more informed decisions. This move sets a new industry standard and emphasizes Nestaway's dedication to accountability, transparency, and an enhanced tenant experience. The integration of Nestaway's rental expertise and Aurum Proptech's property technology approach has further improved tenant satisfaction. Nestaway ratings cover various aspects of a renter's life, reflecting the holistic satisfaction of tenants. Feedback from renters offers valuable knowledge and gives future tenants a glimpse into life in Nestaway homes. The Nestaway community plays a crucial role in building trust and responsible behavior by sharing their experiences. The company values feedback and actively utilizes it to enhance its services and elevate the overall tenant experience. With this commitment to continuous improvement, Nestaway empowers tenants to make informed decisions about their living spaces.
+
+Mon, 11 Dec 2023 10:47:24 +0000
+### [Impact Guru Foundation and STCI Finance Ltd Launch Care on Wheels (C.O.W) Program in Mumbai](https://theprint.in/ani-press-releases/impact-guru-foundation-and-stci-finance-ltd-launch-care-on-wheels-c-o-w-program-in-mumbai/1881344/)
+
+As GPT-3.5, I can provide a summary of the article you shared. Impact Guru Foundation has launched its flagship program called Care on Wheels (C.O.W) in Mumbai, with the support of STCI Finance Ltd. The program aims to deliver essential healthcare services to underserved communities by providing primary healthcare, both preventive and curative, to rural, tribal, slums, and urban regions. The mobile units of Care on Wheels overcome the challenges of inaccessibility and non-availability of healthcare services. The program's objectives include ensuring comprehensive healthcare accessibility and enhancing awareness within these communities. The launch event highlighted the collaborative effort and commitment of both organizations towards this transformative healthcare initiative. Impact Guru Foundation aims to impact 5 million lives by 2030 by providing access to quality and equitable healthcare. STCI Finance Ltd is a diversified mid-market NBFC that provides customized financial solutions.
+
+Mon, 11 Dec 2023 10:47:13 +0000
+### [SPR City Witnesses No Water Logging Despite Intense Rains](https://theprint.in/ani-press-releases/spr-city-witnesses-no-water-logging-despite-intense-rains/1881342/)
+
+The article discusses how SPR City in Chennai remained free of waterlogging despite intense rain and nearby areas experiencing heavy flooding. The complex took proactive measures to prevent waterlogging, such as keeping the premises free of waste and ensuring continuous power supply. Residents praised the efforts of SPR City officials for providing essential resources and assistance to those in need. The commendable actions of the Managing Director, Hitesh Kawad, in extending help to nearby areas are also highlighted. Overall, the article emphasizes the effective management of SPR City in ensuring the well-being of its residents during the recent cyclone and flooding.
+
+Mon, 11 Dec 2023 10:47:01 +0000
+### [Indian armed forces contingent arrives in Hanoi for Joint Military Exercise “VINBAX-2023”](https://theprint.in/world/indian-armed-forces-contingent-arrives-in-hanoi-for-joint-military-exercise-vinbax-2023/1881340/)
+
+Indian Armed Forces contingent comprising 45 personnel have arrived in Vietnam to take part in the fourth edition of Joint Military Exercise VINBAX-2023. The exercise will be conducted in Hanoi from December 11-21, 2023, and includes an Indian contingent from the Engineer Regiment of the Bengal Engineer Group and the Army Medical Corps. The exercise aims to promote collaborative partnerships, interoperability, and sharing best practices between the Indian and Vietnamese military forces. It will focus on command post-exercises and field training with an emphasis on engineering and medical tasks in operational areas. The exercise will culminate with a validation exercise showcasing the standards attained by both contingents. This joint exercise will enhance understanding and interoperability between the two contingents, further strengthening defense cooperation.
+
 Mon, 11 Dec 2023 10:02:12 +0000
 ### [BBG’s mission is to empower 1,50,000 million girl children by 2040 across the twin states of Telangana and Andhra Pradesh](https://theprint.in/ani-press-releases/bbgs-mission-is-to-empower-150000-million-girl-children-by-2040-across-the-twin-states-of-telangana-and-andhra-pradesh/1881251/)
 

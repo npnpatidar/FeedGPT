@@ -1,3 +1,8 @@
+Mon, 11 Dec 2023 15:59:26 +0530
+### [Poco C65 to launch in India on December 15. Expected features, pricing, color options and more](https://www.livemint.com/technology/gadgets/poco-c65-to-launch-in-india-on-december-15-expected-features-pricing-color-options-and-more-11702284554130.html)
+
+Poco is set to launch the new C65 smartphone in India on December 15, exclusively on Flipkart. The phone will be available in two color options - Pastel Blue and Matte Black - and will feature a dual rear camera setup. The global variant of the Poco C65 sports a 6.74-inch IPS LCD panel with a resolution of 720 x 1600 pixels, 90Hz refresh rate, and 600 nits peak brightness. It runs on a Mediatek MT6769Z Helio G85 chipset and features a dual rear camera setup with a 50MP primary sensor and a 2MP macro sensor, along with an 8MP front camera. The phone is powered by a 5,000 mAh battery and can be quickly charged via an 18W PD charger. The Poco C65 is expected to debut in India in two storage variants: 6GB RAM/128GB storage and 8GB RAM/256GB storage, with expected pricing to start for less than ₹10,000.
+
 Mon, 11 Dec 2023 15:18:45 +0530
 ### [Top 10 grill microwaves, convection microwaves and OTGs: Grill anyway you want](https://www.livemint.com/technology/gadgets/top-10-grill-microwaves-convection-microwaves-and-otgs-grill-anyway-you-want-11702280129876.html)
 

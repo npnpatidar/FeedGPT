@@ -1,3 +1,9 @@
+Mon, 11 Dec 2023 15:57:34 +0530
+### [Elon Musk’s X reinstates controversial conspiracy theorist, gun-violence denier Alex Jones](https://www.firstpost.com/tech/elon-musks-x-reinstates-controversial-conspiracy-theorist-gun-violence-denier-alex-jones-13490502.html)
+
+Article found but Couldn't summarize 
+Elon Musk’s X reinstates controversial conspiracy theorist, gun-violence denier Alex Jones
+
 Mon, 11 Dec 2023 15:23:04 +0530
 ### [Apple to launch Vision Pro headset soon, starts scheduling training sessions for retail employees](https://www.firstpost.com/tech/apple-to-launch-vision-pro-headset-soon-starts-scheduling-training-sessions-for-retail-employees-13490332.html)
 

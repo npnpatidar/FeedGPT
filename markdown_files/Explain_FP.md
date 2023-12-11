@@ -1,3 +1,8 @@
+Mon, 11 Dec 2023 16:34:13 +0530
+### [Vladimir Putin announces bid for fifth term: The world’s top 10 longest serving leaders](https://www.firstpost.com/explainers/vladimir-putin-announces-bid-for-fifth-term-the-worlds-top-10-longest-serving-leaders-13490792.html)
+
+Vladimir Putin has announced his intention to run for president in the March 2024 election, potentially securing a fifth term in power. He is eligible to seek two more six-year terms under constitutional changes he engineered in 2020, allowing him to stay in power until 2036. If he does so, he will surpass Joseph Stalin as the longest-serving Moscow leader. The article also lists the top 10 longest-serving elected leaders in the world, giving a brief background on each leader's tenure.
+
 Mon, 11 Dec 2023 15:06:37 +0530
 ### [Rs 351 crore &amp; counting: The Jharkhand cash seizure and other big hauls in India](https://www.firstpost.com/explainers/rs-351-crore-counting-the-jharkhand-cash-seizure-and-other-big-hauls-in-india-13488982.html)
 
