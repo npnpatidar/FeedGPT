@@ -1,3 +1,9 @@
+2023-12-11T08:48:09+05:30
+### [Woman Jailed Over 'Maoist Links' Miscarries a Week After Court Dismisses Medical Bail Plea](https://thewire.in/rights/anita-aazad-prabha-kushwaha-miscarriage-jail-medical-bail-maoist-link)
+
+No Article text 
+The woman and her husband were arrested in October this year on the basis of examination and data extraction of electronic devices seized from them four years ago.
+
 2023-12-11T07:00:32+05:30
 ### [Quiz: What Records Did Taylor Swift Break Upon Becoming TIME Person of the Year?](https://thewire.in/quiz/questionable-december-11-2023-edition)
 

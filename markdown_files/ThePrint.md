@@ -1,3 +1,74 @@
+Mon, 11 Dec 2023 03:17:14 +0000
+### [China Coast Guard provokes Philippinian vessels, personnel; President Marcos directs authorities to conduct missions](https://theprint.in/world/china-coast-guard-provokes-philippinian-vessels-personnel-president-marcos-directs-authorities-to-conduct-missions/1880736/)
+
+Article found but Couldn't summarize 
+Manila [Philippines], December 11 (ANI): Philippine President Bongbong Marcos directed the uniformed services to proceed with a mission-oriented mindset as the China Coast Guard and their Chinese Maritime Militia provoked and acted aggressively against Philippinian vessels and personnel over the weekend. Further, Marcos stressed that their aggression has only strengthened their will to protect their [&#8230;]
+
+Mon, 11 Dec 2023 03:17:02 +0000
+### [Dunki Drop 5: SRK explains what ‘Dunki’ means, unveils teaser of new track ‘O Maahi’](https://theprint.in/feature/dunki-drop-5-srk-explains-what-dunki-means-unveils-teaser-of-new-track-o-maahi/1880734/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 11 (ANI): Superstar Shah Rukh Khan dropped a teaser of his film Dunki&#8217;s upcoming track &#8216;O Maahi&#8217; on early Monday morning. Titled &#8216;Dunki Drop 5: O Maahi&#8217;, SRK took to X (formerly Twitter) and shared a teaser of the song which he captioned, &#8220;Because everybody asks, what does Dunki mean? Dunki [&#8230;]
+
+Mon, 11 Dec 2023 03:15:58 +0000
+### [TikTok to invest $1.5 billion in Indonesia’s GoTo](https://theprint.in/tech/tiktok-to-invest-1-5-billion-in-indonesias-goto/1880732/)
+
+Article found but Couldn't summarize 
+JAKARTA (Reuters) -TikTok will take a controlling stake in an e-commerce unit of Indonesia's biggest tech firm PT GoTo Gojek Tokopedia, a partnership that will see the short video app invest $1.5
+
+Mon, 11 Dec 2023 03:15:47 +0000
+### [TikTok to invest $1.5 billion in GoTo’s Indonesia e-commerce business](https://theprint.in/tech/tiktok-to-invest-1-5-billion-in-gotos-indonesia-e-commerce-business/1880730/)
+
+Article found but Couldn't summarize 
+JAKARTA (Reuters) -TikTok will take a controlling stake in an e-commerce unit of Indonesia's biggest tech firm PT GoTo Gojek Tokopedia, a partnership that will see the short video app invest $1.5
+
+Mon, 11 Dec 2023 03:15:33 +0000
+### [Gold slips ahead of central bank meetings, key US data this week](https://theprint.in/economy/gold-slips-ahead-of-central-bank-meetings-key-us-data-this-week/1880728/)
+
+As GPT-3.5, I can provide a summary of the article you shared. Gold prices have declined due to the strength of the dollar, and investors are awaiting central bank meetings and U.S. inflation data for further clarity on interest rate trends. Spot gold dropped 0.2% to $1,998.89 per ounce, while U.S. gold futures remained flat at $2,014.80. The stronger-than-expected U.S. jobs report has led to a reevaluation of expectations for the Federal Reserve's actions next year, which has put downward pressure on gold. The upcoming U.S. consumer price report and central bank meetings will provide more insights into the future of interest rates. Lower interest rates typically support gold prices. The outcome of these events will determine whether gold can stay above the $2,000 level. Spot silver rose slightly to $23.98 per ounce, while platinum remained steady at $915.31 and palladium fell to $941.11 per ounce.
+
+Mon, 11 Dec 2023 03:15:21 +0000
+### [UK PM Sunak battles to unite divided party in pivotal week](https://theprint.in/world/uk-pm-sunak-battles-to-unite-divided-party-in-pivotal-week/1880726/)
+
+Article found but Couldn't summarize 
+By Andrew MacAskill LONDON (Reuters) - Prime Minister Rishi Sunak faces the most dangerous moment of his premiership this week, when he is due to appear before a COVID-19 inquiry and must win a crunch
+
+Mon, 11 Dec 2023 03:15:03 +0000
+### [India’s Nifty 50 set to open at all-time high](https://theprint.in/india/indias-nifty-50-set-to-open-at-all-time-high/1880724/)
+
+Article found but Couldn't summarize 
+BENGALURU (Reuters) - India's benchmark index Nifty 50 is set to open at a new record high on Monday, continuing its rally from last week on strong domestic conditions, even as stronger-than-expected
+
+Mon, 11 Dec 2023 03:15:02 +0000
+### [Madhya Pradesh BJP MLAs to meet to elect legislative party leader](https://theprint.in/india/madhya-pradesh-bjp-mlas-to-meet-to-elect-legislative-party-leader/1880723/)
+
+Article found but Couldn't summarize 
+Bhopal, Dec 11 (PTI) The Bharatiya Janata Party&#8217;s newly-elected MLAs in Madhya Pradesh will meet on Monday to elect the leader of the legislative party. After the November 17 polls, the BJP retained power in MP by winning 163 seats in the 230-member assembly, leaving the Congress a distant second with 66 seats. The BJP [&#8230;]
+
+Mon, 11 Dec 2023 02:59:12 +0000
+### [‘Whom to trust?’ — people of Myanmar’s border towns caught between military & an armed resistance](https://theprint.in/india/whom-to-trust-people-of-myanmars-border-towns-caught-between-military-an-armed-resistance/1880155/)
+
+Article found but Couldn't summarize 
+Resistance groups' sustained attacks on military bases forced civilians to flee to India. Those who stayed, don't know whom to side with, those who left, aren’t sure when they can return.
+
+Mon, 11 Dec 2023 02:45:15 +0000
+### [Former Japanese soldier fights for justice in landmark sexual assault case](https://theprint.in/world/former-japanese-soldier-fights-for-justice-in-landmark-sexual-assault-case/1880719/)
+
+Article found but Couldn't summarize 
+By Akiko Okamoto and Chris Gallagher YOKOHAMA (Reuters) - A former Japanese soldier's years-long fight for justice against the men she has accused of sexually assaulting her will reach a climax on
+
+Mon, 11 Dec 2023 02:45:04 +0000
+### [Israel presses ahead in battle against Hamas in southern Gaza](https://theprint.in/world/israel-presses-ahead-in-battle-against-hamas-in-southern-gaza/1880717/)
+
+Article found but Couldn't summarize 
+By Nidal al-Mughrabi and Bassam Masoud GAZA/CAIRO (Reuters) - Israeli tanks were trying to push further west in their battle against Hamas in and around Khan Younis on Monday, as they met resistance
+
+Mon, 11 Dec 2023 02:30:26 +0000
+### [Hooda alleges ‘betiyan unsafe’ in Khattar’s Haryana. Here’s what NCRB data says](https://theprint.in/india/hooda-says-betiyan-unsafe-in-khattars-haryana-whats-behind-states-rising-crimes-against-women/1879851/)
+
+Article found but Couldn't summarize 
+According to NCRB’s latest report, Haryana had highest crime rate for crimes against women among states, in 2022, at 118.7 per lakh population.
+
 Mon, 11 Dec 2023 02:16:10 +0000
 ### [South Korea’s Yoon to visit Netherlands with focus on semiconductors](https://theprint.in/tech/south-koreas-yoon-to-visit-netherlands-with-focus-on-semiconductors/1880715/)
 

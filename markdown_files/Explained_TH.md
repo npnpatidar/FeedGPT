@@ -1,3 +1,9 @@
+Mon, 11 Dec 2023 08:30:00 +0530
+### [What is the controversy over Germany’s debt brake rule? | Explained](https://www.thehindu.com/news/international/what-is-the-controversy-over-germanys-debt-brake-rule-explained/article67625307.ece)
+
+Article found but Couldn't summarize 
+What did the Karlsruhe court rule with respect to reallocating funds for the pandemic to the climate fund?
+
 Sun, 10 Dec 2023 22:30:15 +0530
 ### [On the listing of cases in the Supreme Court | Explained](https://www.thehindu.com/news/national/on-the-listing-of-cases-in-the-supreme-court-explained/article67625314.ece)
 

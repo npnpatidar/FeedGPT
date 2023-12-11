@@ -1,3 +1,8 @@
+Mon, 11 Dec 2023 03:00:40 +0000
+### [Food versus Fuel: What’s happening with Centre’s ethanol blending scheme](https://indianexpress.com/article/explained/food-versus-fuel-whats-happening-with-centres-ethanol-blending-scheme-9062757/)
+
+Article found but Couldn't summarize
+
 Mon, 11 Dec 2023 01:38:09 +0000
 ### [Behind legal challenge to Article 370: promise to Jammu and Kashmir by framers of Constitution](https://indianexpress.com/article/explained/article-370-verdict-behind-legal-challenge-promise-to-jk-by-framers-of-constitution-9062775/)
 
