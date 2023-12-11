@@ -1,3 +1,21 @@
+2023-12-11T13:54:46+05:30
+### [Mahua Moitra Approches Supreme Court Against Her Expulsion From the Lok Sabha](https://thewire.in/law/mahua-moitra-approches-supreme-court-against-her-expulsion-from-the-lok-sabha)
+
+No Article text 
+Soon after her expulsion, Moitra had said that parliament had behaved like a "kangaroo court".
+
+2023-12-11T13:30:35+05:30
+### [The Cause of the BJP’s Victories in State Polls Is Mundane. Misreading It Will Only Benefit Them](https://thewire.in/politics/the-cause-of-the-bjps-victories-in-state-polls-is-mundane-misreading-it-will-only-benefit-them)
+
+No Article text 
+The rise in BJP's vote share has not come at the cost of Congress' voter base but that of other smaller parties, data shows.
+
+2023-12-11T12:55:39+05:30
+### [BJP Spent Much More Than Congress on Social Media Ads in MP, Rajasthan, Chhattisgarh](https://thewire.in/politics/bjp-spent-much-more-than-congress-on-social-media-ads-in-mp-rajasthan-chhattisgarh)
+
+No Article text 
+In Rajasthan, the BJP spent Rs 94 lakh and the Congress Rs 2.18 lakh on Facebook and Instagram ads in the 90 days leading up to the elections.
+
 2023-12-11T12:38:30+05:30
 ### [Bangladesh: Opposition to Boycott General Election, Demands a Caretaker Govt to Hold Polls](https://thewire.in/south-asia/bangladesh-opposition-to-boycott-general-election-demands-a-caretaker-govt-to-hold-polls)
 

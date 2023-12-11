@@ -1,3 +1,9 @@
+Mon, 11 Dec 2023 13:07:40 +0530
+### [Huawei has a massive lineup of ‘disruptive’ products for 2024 after surprise launch of 5G smartphone](https://www.firstpost.com/tech/huawei-has-a-massive-line-of-disruptive-products-for-2024-after-surprise-launch-of-5g-smartphone-13489422.html)
+
+Article found but Couldn't summarize 
+Huawei has a massive lineup of ‘disruptive’ products for 2024 after surprise launch of 5G smartphone
+
 Mon, 11 Dec 2023 12:25:19 +0530
 ### [OpenAI’s massive plans for India: Hires Twitter India ex-head Rishi Jaitly to navigate AI regulations](https://www.firstpost.com/tech/openais-massive-plans-for-india-hires-twitter-ex-head-rishi-jaitly-to-navigate-ai-regulations-13489102.html)
 

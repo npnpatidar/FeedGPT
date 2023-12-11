@@ -1,3 +1,131 @@
+Mon, 11 Dec 2023 08:17:35 +0000
+### [BN Group celebrated 10th Foundation Day with important announcements and award distribution](https://theprint.in/ani-press-releases/bn-group-celebrated-10th-foundation-day-with-important-announcements-and-award-distribution/1881086/)
+
+Article found but Couldn't summarize 
+PNN New Delhi [India], December 11: BN Group celebrated its 10th Foundation Day at Yasho bhumi, Dwarka, Delhi last Saturday. This grand celebration witnessed Union Minister for Fisheries, Animal Husbandry and Dairying, Parshottam Rupala along with other respectable guests. BN Group Chairman Ajay Kumar Agarwal, MD Anubhav Agarwal and many other important dignitaries were also [&#8230;]
+
+Mon, 11 Dec 2023 08:17:26 +0000
+### [Buying Bike Insurance Online in 2024? 7 Crucial Tips to Get the Best Quote](https://theprint.in/ani-press-releases/buying-bike-insurance-online-in-2024-7-crucial-tips-to-get-the-best-quote/1881084/)
+
+Article found but Couldn't summarize 
+ATK New Delhi [India], December 11: Finding the right bike insurance online can seem confusing, given the myriad policies and providers in the market. The premium you pay largely depends on the quote you receive. This detailed guide shares 7 tips for bike owners to secure the most affordable and comprehensive bike insurance online in [&#8230;]
+
+Mon, 11 Dec 2023 08:17:16 +0000
+### [Media Dynox Secures Heroic Digital Marketing and PR Contract for Hero Electric Bikes](https://theprint.in/ani-press-releases/media-dynox-secures-heroic-digital-marketing-and-pr-contract-for-hero-electric-bikes/1881082/)
+
+Article found but Couldn't summarize 
+PNN New Delhi [India], December 11: In a strategic move that&#8217;s set to electrify the digital marketing and PR landscape, Media Dynox has clinched a monumental contract with none other than Hero Electric, one of India&#8217;s leading electric two-wheeler manufacturers. This exciting partnership marks a significant milestone, as Media Dynox gears up to propel Hero [&#8230;]
+
+Mon, 11 Dec 2023 08:17:02 +0000
+### [How to Choose the Perfect Car Insurance in 2024: A Comprehensive Guide](https://theprint.in/ani-press-releases/how-to-choose-the-perfect-car-insurance-in-2024-a-comprehensive-guide/1881080/)
+
+Article found but Couldn't summarize 
+ATK New Delhi [India], December 11: In the fast-paced world of 2024, where the choices for car insurance seem endless, finding the right coverage tailored to your needs can be daunting. It&#8217;s not just about the premiums anymore; various factors must be considered to ensure your peace of mind on the road. So, let&#8217;s find [&#8230;]
+
+Mon, 11 Dec 2023 08:15:24 +0000
+### [Phasing out fossil fuels is key to COP28 success, says UN’s Guterres](https://theprint.in/environment/phasing-out-fossil-fuels-is-key-to-cop28-success-says-uns-guterres/1881078/)
+
+Article found but Couldn't summarize 
+DUBAI (Reuters) - U.N. Secretary-General Antonio Guterres said on Monday one key to success of the COP28 climate summit was for nations to reach agreement on the need to "phase out" fossil fuels,
+
+Mon, 11 Dec 2023 08:15:06 +0000
+### [Japan PM pledges to restore trust as fundraising scandal engulfs government](https://theprint.in/world/japan-pm-pledges-to-restore-trust-as-fundraising-scandal-engulfs-government/1881076/)
+
+Article found but Couldn't summarize 
+By Kantaro Komiya and Satoshi Sugiyama TOKYO (Reuters) -Embattled Japanese premier Fumio Kishida pledged on Monday to restore trust in his government amid reports he is planning to purge ministers
+
+Mon, 11 Dec 2023 08:15:03 +0000
+### [SC upholds abrogation of Art 370, directs restoration of J&K statehood, polls by Sep 2024](https://theprint.in/india/sc-upholds-abrogation-of-art-370-directs-restoration-of-jk-statehood-polls-by-sep-2024/1881075/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 11 (PTI) The Supreme Court on Monday unanimously upheld the Centre&#8217;s decision to abrogate provisions of Article 370 bestowing special status to the erstwhile state of Jammu and Kashmir, and directed restoration of statehood &#8220;at the earliest&#8221; as well as elections to the assembly by September 30 next year. Ending a decades [&#8230;]
+
+Mon, 11 Dec 2023 08:08:14 +0000
+### [‘Shinde govt meddling, notices’: Why duo quit Maharashtra backward class panel amid Maratha quota talks](https://theprint.in/politics/shinde-govt-meddling-notices-why-duo-quit-maharashtra-backward-class-panel-amid-maratha-quota-talks/1880826/)
+
+Article found but Couldn't summarize 
+Balaji Killarikar &#38; Laxman Hake quit Maharashtra State Backward Class Commission earlier this month, at a time when Maratha reservation issue is gathering steam in the state.
+
+Mon, 11 Dec 2023 08:02:13 +0000
+### [Tibetan Diaspora in Vienna stages symbolic protest, condemns China’s human rights violations](https://theprint.in/world/tibetan-diaspora-in-vienna-stages-symbolic-protest-condemns-chinas-human-rights-violations/1881062/)
+
+Article found but Couldn't summarize 
+Vienna [Austria], December 11 (ANI): Members of the Tibetan Diaspora in Vienna staged a symbolic protest in front of the Chinese Embassy in Austria, condemning China for ongoing human rights abuses against Tibetans in Tibet. The demonstration held by the Tibetan community in Vienna on the eve of Human Rights Day, which is observed globally [&#8230;]
+
+Mon, 11 Dec 2023 08:02:02 +0000
+### [Slash Costs With These 5 Must-Know Car Insurance Renewal Hacks](https://theprint.in/ani-press-releases/slash-costs-with-these-5-must-know-car-insurance-renewal-hacks/1881060/)
+
+As GPT-3.5, I can provide you with a summary of the article you shared. The article discusses five hacks to save money on car insurance renewal. Here are the key points:
+
+1. Compare Insurance Online: By comparing quotes from different companies online, you can find the best rate and maximum coverage that fits your budget.
+
+2. Install Genuine Anti-Theft Devices: Adding approved anti-theft devices can qualify you for theft-prevention discounts from insurers. These devices enhance security and aid in recovery.
+
+3. Know Your Car's Worth: Research the current market price of your car to negotiate better on premiums. Use online pricing guides to determine its depreciated value and provide this information to insurers.
+
+4. Get No Claim Bonus: Safe driving habits can earn you a no-claim bonus, which reduces your premium costs. Make sure to apply the full savings you're entitled to when renewing.
+
+5. Understand the Policy Details: Thoroughly examine the fine print of your insurance contract to avoid surprises. Pay attention to clauses that may affect rates or coverage, and seek clarity on any terms you don't understand.
+
+Remember, these are just a summary of the hacks mentioned in the article. If you need more detailed information, I recommend reading the full article.
+
+Mon, 11 Dec 2023 08:01:35 +0000
+### [Discussed ban on ethanol from sugarcane juice with Gadkari, will meet Shah soon: Ajit Pawar](https://theprint.in/india/discussed-ban-on-ethanol-from-sugarcane-juice-with-gadkari-will-meet-shah-soon-ajit-pawar/1881058/)
+
+Article found but Couldn't summarize 
+Nagpur, Dec 11 (PTI) Maharashtra Deputy Chief Minister Ajit Pawar on Monday said he met with Union Minister Nitin Gadkari to discuss the Centre&#8217;s ban on the use of sugarcane juice or syrup in the production of ethanol. Talking to reporters on the Vidhan Bhavan premises, Pawar said he met Gadkari on Sunday and discussed [&#8230;]
+
+Mon, 11 Dec 2023 08:01:21 +0000
+### [Agastya Nanda joins grandfather Amitabh Bachchan for weekly meet-and-greet with fans](https://theprint.in/feature/agastya-nanda-joins-grandfather-amitabh-bachchan-for-weekly-meet-and-greet-with-fans/1881056/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 11 (PTI) Megastar Amitabh Bachchan kept his Sunday date with fans and followers but this time, the cinema icon was accompanied by grandson Agastya Nanda, who made his acting debut with &#8220;The Archies&#8221;. On his official blog, Bachchan posted several photos from his meet and greet with fans, who line up outside his [&#8230;]
+
+Mon, 11 Dec 2023 08:01:07 +0000
+### [Royal Enfield opens first warehouse in eastern region](https://theprint.in/economy/royal-enfield-opens-first-warehouse-in-eastern-region/1881055/)
+
+Royal Enfield, a two-wheeler manufacturer, has established its first warehouse in Kolkata, India's eastern region, to meet the demand for spare parts. This move will reduce transit time for the supply of motorcycle parts and help in the development of channel partners. The newly built warehouse, covering a 50,000 sq ft area in Ballygunge, will cater to the entire eastern and northeastern regions of India. Royal Enfield's major export markets are the Americas (45%), followed by Europe, West Asia, Africa (35%), and the Asia Pacific region (20%). Additionally, more than 27% of Royal Enfield's overall sales in India come from the eastern region.
+
+Mon, 11 Dec 2023 08:00:55 +0000
+### [HM Shah welcomes SC verdict upholding abrogation of Article 370](https://theprint.in/india/hm-shah-welcomes-sc-verdict-upholding-abrogation-of-article-370/1881054/)
+
+The Supreme Court of India has upheld the government's decision to revoke Article 370, according to Union Home Minister Amit Shah. Shah, who played a crucial role in the abrogation of Article 370, praised Prime Minister Narendra Modi for his visionary decision five years ago, which he claimed had restored peace and normalcy to Jammu and Kashmir. The apex court's verdict also called for elections in the region's assembly to be held by September 30 next year while urging the prompt reinstatement of statehood for Jammu and Kashmir. This article was auto-generated from the PTI news service.
+
+Mon, 11 Dec 2023 08:00:46 +0000
+### [Rugby-Super Rugby Pacific not looking to cut teams: New Zealand boss](https://theprint.in/sport/rugby-super-rugby-pacific-not-looking-to-cut-teams-new-zealand-boss/1881053/)
+
+Article found but Couldn't summarize 
+(Reuters) - Super Rugby Pacific bosses are not looking to cut teams as a way of solving the trans-Tasman competition's challenges, New Zealand Rugby (NZR) chief Mark Robinson said on Monday. A
+
+Mon, 11 Dec 2023 08:00:39 +0000
+### [BJP, JD(S) are struggling like fish out of water: Karnataka CM attacks two parties](https://theprint.in/india/bjp-jds-are-struggling-like-fish-out-of-water-karnataka-cm-attacks-two-parties/1881051/)
+
+Article found but Couldn't summarize 
+Belagavi (K&#8217;taka), Dec 11 (PTI) Karnataka Chief Minister Siddaramaiah on Monday said BJP and JD(S) are in a state of illusion about his government&#8217;s fall, as he hit out at former Chief Minister H D Kumaraswamy for predicting its collapse. BJP and JD(S) have joined hands and struck an alliance in Karnataka to fight the [&#8230;]
+
+Mon, 11 Dec 2023 08:00:27 +0000
+### [TikTok set to restart e-commerce in Indonesia with $1.5 billion Tokopedia investment](https://theprint.in/tech/tiktok-set-to-restart-e-commerce-in-indonesia-with-1-5-billion-tokopedia-investment/1881050/)
+
+As GPT-3.5, I can summarize the article for you. TikTok has agreed to acquire the majority of GoTo's e-commerce unit in Indonesia for $840 million. This move allows TikTok to restart its online shopping business in Southeast Asia's largest economy. Additionally, TikTok plans to invest a total of $1.5 billion in Tokopedia, Indonesia's largest e-commerce platform. The partnership aims to create an Indonesian e-commerce champion by combining Tokopedia's local presence with TikTok's mass market reach. The deal is expected to be concluded by the first quarter of 2024.
+
+Mon, 11 Dec 2023 08:00:19 +0000
+### [Chhattisgarh CM-designate Sai offers prayers at Ram temple in Raipur](https://theprint.in/india/chhattisgarh-cm-designate-sai-offers-prayers-at-ram-temple-in-raipur/1881048/)
+
+Article found but Couldn't summarize 
+Raipur, Dec 11 (PTI) Chhattisgarh Chief Minister-designate Vishnu Deo Sai on Monday visited the Ram Mandir in Raipur and prayed for the development and prosperity of the state. Sai, the prominent tribal face of the Bharatiya Janata Party in the state, was on Sunday elected as the legislative party leader during the meeting of 54 [&#8230;]
+
+Mon, 11 Dec 2023 08:00:08 +0000
+### [BTS members head for South Korean military service](https://theprint.in/entertainment/bts-members-head-for-south-korean-military-service/1881047/)
+
+Article found but Couldn't summarize 
+By Hyonhee Shin SEOUL (Reuters) - The remaining four members of K-pop supergroup BTS will begin their 18-month military service in South Korea this week, joining three others already serving, and with
+
+Mon, 11 Dec 2023 08:00:03 +0000
+### [Resounding declaration of hope: PM Modi hails SC verdict upholding abrogation of Article 370](https://theprint.in/india/resounding-declaration-of-hope-pm-modi-hails-sc-verdict-upholding-abrogation-of-article-370/1881045/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 11 (PTI) Hailing the Supreme Court&#8217;s verdict upholding the government&#8217;s decision to abrogate Article 370 of the Constitution as &#8220;historic&#8221;, Prime Minister Narendra Modi asserted on Monday that it is not just a legal judgment, but a &#8220;beacon of hope&#8221; and a testament to the collective resolve to build a stronger and [&#8230;]
+
 Mon, 11 Dec 2023 07:11:07 +0000
 ### [‘Culmination of integration’ — SC upholds abrogation of Article 370 that gave J&K special status](https://theprint.in/judiciary/culmination-of-integration-sc-upholds-abrogation-of-article-370-that-gave-jk-special-status/1880334/)
 
