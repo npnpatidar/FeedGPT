@@ -1,3 +1,117 @@
+Mon, 11 Dec 2023 06:17:38 +0000
+### [Mill Gears Pvt. Ltd. Launches One of the World’s Largest Gearbox for the Sugar Mill Industry](https://theprint.in/ani-press-releases/mill-gears-pvt-ltd-launches-one-of-the-worlds-largest-gearbox-for-the-sugar-mill-industry/1880895/)
+
+The Gujarat-based company, Mill Gears Pvt. Ltd., has launched a groundbreaking Gearbox designed specifically for the sugar mill industry. This Gearbox, which is one of the largest in the world, aims to enhance efficiency and performance in sugar mill operations. It incorporates advanced technology to optimize processes and increase productivity. The installation of five Gearboxes at the Jarandeshwar Sugar Mill in Maharashtra marks a significant milestone for Mill Gears Pvt. Ltd. and establishes the mill as one of Asia's largest operational sugar mills utilizing this innovative technology. The Gearbox model is AK 483 SQ IP 170 Foot, and it offers exceptional power and speed capabilities. Mill Gears Pvt. Ltd. is committed to engineering excellence and is open to manufacturing orders for this Gearbox, which will benefit the sugar mill industry globally. For more information, please visit www.millgears.com.
+
+Mon, 11 Dec 2023 06:17:02 +0000
+### [Israel using Hamas’ October 7 attack as justification for “collective punishment” of Palestinians in Gaza: Russia](https://theprint.in/world/israel-using-hamas-october-7-attack-as-justification-for-collective-punishment-of-palestinians-in-gaza-russia/1880892/)
+
+Article found but Couldn't summarize 
+Moscow [Russia], December 11 (ANI): Condemning Israel&#8217;s counter-attack on Gaza, Russian Foreign Minister Sergei Lavrov said it is unacceptable that Israel is using Hamas&#8217; October 7 attack as justification for a &#8220;collective punishment&#8221; of Palestinians in Gaza, Al Jazeera reported. The Russian leader also called for international monitoring of the situation on the ground in [&#8230;]
+
+Mon, 11 Dec 2023 06:16:39 +0000
+### [Tennis-Djokovic says young rivals have awoken his inner ‘beast’](https://theprint.in/sport/tennis-djokovic-says-young-rivals-have-awoken-his-inner-beast/1880891/)
+
+Novak Djokovic, the world number one tennis player, is turning 37 next year. Despite his age, Djokovic's hunger for success continues to grow, especially with the emergence of young challengers. In 2023, Djokovic had an exceptional year, winning three out of the four Grand Slam tournaments and bringing his total Grand Slam titles to 24, surpassing his rivals Rafael Nadal and Roger Federer. However, he faced tough competition from 20-year-old Carlos Alcaraz, who denied him a fifth-straight Wimbledon crown, and 22-year-old Jannik Sinner, who dashed his hopes of Davis Cup glory. Djokovic sees these young players as additional motivation and believes they awaken a competitive drive within him. Despite his defeats, Djokovic acknowledges the talent and threat posed by these young rivals. He used his loss in the Wimbledon final as motivation to reinvent himself and push harder, resulting in victories at the Cincinnati and Flushing Meadows tournaments. Djokovic's determination and drive remain strong as he continues to strive for success.
+
+Mon, 11 Dec 2023 06:16:31 +0000
+### [‘BR Ambedkar: Now and Then’ strips the Brahmin gaze off the Bahujan story. A compulsory watch](https://theprint.in/feature/reel-take/br-ambedkar-now-and-then-strips-the-brahmin-gaze-off-the-bahujan-story-a-compulsory-watch/1880860/)
+
+Article found but Couldn't summarize 
+Jyoti Nisha’s documentary makes it clear that the ‘popular’ story of India is not necessarily the real story of India. At the very least, the story is incomplete.
+
+Mon, 11 Dec 2023 06:16:12 +0000
+### [Rupee stands pat as likely RBI help counters drop in Asian peers](https://theprint.in/economy/rupee-stands-pat-as-likely-rbi-help-counters-drop-in-asian-peers/1880889/)
+
+Article found but Couldn't summarize 
+By Jaspreet Kalra MUMBAI (Reuters) - The Indian rupee was little changed on Monday, aided by likely intervention from the Reserve Bank of India (RBI), even as its Asian peers slipped amid an uptick in
+
+Mon, 11 Dec 2023 06:15:43 +0000
+### [Asian stocks slip, rate cut hopes face pivotal week](https://theprint.in/economy/asian-stocks-slip-rate-cut-hopes-face-pivotal-week/1880886/)
+
+Article found but Couldn't summarize 
+By Wayne Cole SYDNEY (Reuters) - Asian shares drifted lower on Monday in a week packed with a quintet of rich world central bank meetings and data on U.S. inflation that could make or break market
+
+Mon, 11 Dec 2023 06:15:43 +0000
+### [Sarpanch shot dead in Haryana village, accused on the run](https://theprint.in/india/sarpanch-shot-dead-in-haryana-village-accused-on-the-run/1880885/)
+
+Article found but Couldn't summarize 
+Chandigarh, Dec 11 (PTI) A sarpanch was allegedlly shot dead by unidentified persons in a village in Haryana&#8217;s Sonipat district on Monday, police said. Efforts to nab the absconding accused are underway, they added. Chhichhrana village Sarpanch Rajesh alias Raju was shot dead by the assailants in Sonipat&#8217;s Gohana area, Baroda SHO Ramesh Chander said [&#8230;]
+
+Mon, 11 Dec 2023 06:15:23 +0000
+### [Europe’s support for Ukraine teeters as Hungary plays hardball](https://theprint.in/world/europes-support-for-ukraine-teeters-as-hungary-plays-hardball/1880883/)
+
+Article found but Couldn't summarize 
+By Gabriela Baczynska and Andrew Gray BRUSSELS (Reuters) - European Union heavyweights are set for a showdown with Hungary this week over giving Ukraine billions of euros in aid and the chance to
+
+Mon, 11 Dec 2023 06:15:22 +0000
+### [India to take quantum jump during current period: PM Modi](https://theprint.in/india/india-to-take-quantum-jump-during-current-period-pm-modi/1880882/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 11 (PTI) Prime Minister Narendra Modi exuded confidence on Monday that India will take a quantum jump during the current period and said the young generation has to be prepared in such a way that it provides leadership to the country and prioritises national interest over everything else. Launching &#8220;Viksit Bharat @2047: [&#8230;]
+
+Mon, 11 Dec 2023 06:15:04 +0000
+### [Explainer-What Ukraine needs to do to keep its EU membership bid alive](https://theprint.in/world/explainer-what-ukraine-needs-to-do-to-keep-its-eu-membership-bid-alive/1880880/)
+
+Article found but Couldn't summarize 
+By Dan Peleschuk KYIV (Reuters) - The European Union's 27 leaders could decide at a summit this week whether to launch formal membership talks with Ukraine, a step that would provide a much-needed
+
+Mon, 11 Dec 2023 06:15:03 +0000
+### [Doctors with knowledge of artificial intelligence will hold advantage: Andrew Elder](https://theprint.in/india/doctors-with-knowledge-of-artificial-intelligence-will-hold-advantage-andrew-elder/1880879/)
+
+AI has the potential to enhance medical tasks such as diagnosis and surgery, making them more efficient and reducing treatment time. However, according to Prof Andrew Elder, President of the Royal College of Physicians of Edinburgh, it may take a couple of decades for AI to play a significant role in disease diagnosis. He emphasizes that the application of human judgment will continue to be important even with the advancement of AI. Doctors who embrace AI technology will have an advantage over those who do not. While AI can contribute to drug manufacturing and vaccine development, its role in diagnosis during the COVID-19 pandemic was not as strong as expected. It is crucial for AI development in healthcare to involve individuals with medical training and understanding of patient care.
+
+Mon, 11 Dec 2023 06:02:02 +0000
+### [Embark on a Cultural Odyssey: Ryan Group Hosts the 17th Ryan International Children’s Festival in New Delhi](https://theprint.in/ani-press-releases/embark-on-a-cultural-odyssey-ryan-group-hosts-the-17th-ryan-international-childrens-festival-in-new-delhi/1880869/)
+
+Article found but Couldn't summarize 
+PRNewswire New Delhi [India], December 11: The eagerly awaited Ryan International Children&#8217;s Festival is set to make a triumphant return, illuminating the heart of Delhi from December 13th to 17th, 2023. Now in its 17th edition, this cultural extravaganza is poised to unite over 13,000 enthusiastic children from across the globe, creating a tapestry of [&#8230;]
+
+Mon, 11 Dec 2023 06:00:41 +0000
+### [Man hacked to death in UP’s Amethi](https://theprint.in/india/man-hacked-to-death-in-ups-amethi/1880868/)
+
+Article found but Couldn't summarize 
+Amethi (UP), Dec 11 (PTI) A 55-year-old man was hacked to death by some unidentified men in the Munshiganj area here, police said on Monday. The incident happened in Ramdepur village on Sunday night. Ram Sajivan (55) and his sister-in-law Dhanraji (58) were attacked by some persons when they were sleeping outside Sajivan’s house, Superintendent [&#8230;]
+
+Mon, 11 Dec 2023 06:00:29 +0000
+### [Boat mechanic stabbed to death](https://theprint.in/india/boat-mechanic-stabbed-to-death/1880867/)
+
+According to a news report from December 11, 2023, a boat repair worker named Binu was stabbed to death by his colleague, Johnson, at Tannirbavi beach in Mangaluru. The incident occurred after a minor altercation between the two under the influence of alcohol. Binu was a 42-year-old native of Kollam in Kerala, while Johnson, the accused, was a 52-year-old resident of Taliparamba in Kannur district, also from Kerala. The two workers were involved in boat repair at Tannirbavi and were staying in temporary shelters at the work site. Johnson has been arrested, and a case has been registered at the Panambur police station for investigation. Please note that this article was generated by PTI news service, and ThePrint holds no responsibility for its content.
+
+Mon, 11 Dec 2023 06:00:17 +0000
+### [KSU activists throwing shoes at CM’s convoy: Cong terms it as emotional outburst](https://theprint.in/india/ksu-activists-throwing-shoes-at-cms-convoy-cong-terms-it-as-emotional-outburst/1880866/)
+
+Article found but Couldn't summarize 
+Kochi, Dec 11 (PTI) A case has been registered against four Kerala Students Union activists for allegedly throwing shoes at the convoy of Chief Minister Pinarayi Vijayan, an act which was disowned by the Congress leadership on Monday, saying it was an emotional outburst. Kuruppampady police have registered a case under various provisions of the [&#8230;]
+
+Mon, 11 Dec 2023 06:00:05 +0000
+### [Gold prices slip as dollar firms; cenbank meetings, US data in focus](https://theprint.in/economy/gold-prices-slip-as-dollar-firms-cenbank-meetings-us-data-in-focus/1880864/)
+
+As GPT-3.5, I can provide a summary of the article you shared. Gold prices experienced a slight decline due to the strength of the dollar. Investors are eagerly awaiting central bank meetings and the release of U.S. inflation data to gain more clarity on the future of interest rates. Spot gold was down 0.3% at $1,997.16 per ounce, while U.S. gold futures eased 0.1% at $2,013.20. The recent strong jobs report has shifted expectations for the Federal Reserve's actions next year, providing some relief to the dollar and bond yields, which in turn puts downward pressure on gold. The upcoming U.S. consumer price report and the comments of Fed Chair Jerome Powell will be closely watched for further rate clues. The Federal Reserve, along with other central banks, is expected to leave rates unchanged this week. Goldman Sachs predicts that the Fed may deliver its first rate cut in the third quarter of next year. Lower interest rates typically support non-interest-bearing assets like gold. That's the summary of the article you shared.
+
+Mon, 11 Dec 2023 06:00:03 +0000
+### [Woman killed, husband injured after truck runs over them on footpath in Ahmedabad](https://theprint.in/india/woman-killed-husband-injured-after-truck-runs-over-them-on-footpath-in-ahmedabad/1880863/)
+
+Article found but Couldn't summarize 
+Ahmedabad, Dec 11 (PTI) A woman was killed and her husband grievously injured when a truck of the local civic body mounted with a road sweeping machine ran over them on a footpath in Gujarat&#8217;s Ahmedabad city on Monday morning, police said. The incident took place at around 5 am in Vasna locality where the [&#8230;]
+
+Mon, 11 Dec 2023 05:47:13 +0000
+### [“Are you for real”: Riddhima Kapoor lauds brother Ranbir Kapoor’s performance in ‘Animal’](https://theprint.in/feature/are-you-for-real-riddhima-kapoor-lauds-brother-ranbir-kapoors-performance-in-animal/1880855/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 11 (ANI): Actor Ranbir Kapoor&#8217;s sister Riddhima Kapoor Sahni has lauded his performance in the recently released action thriller film &#8216;Animal&#8217;. On Sunday night, Riddhima took to her Instagram, and wrote on her stories, &#8220;Rans! You incredibly crazy talented human. Are you for real! Acred it &#38; how! I am speechless! [&#8230;]
+
+Mon, 11 Dec 2023 05:47:02 +0000
+### [Retik Finance (RETIK) to outperform Dogecoin (DOGE) in 2024](https://theprint.in/ani-press-releases/retik-finance-retik-to-outperform-dogecoin-doge-in-2024/1880853/)
+
+Article found but Couldn't summarize 
+VMPL New Delhi [India], December 11: Bitcoin&#8217;s next halving event is less than 150 days away. The next few months after this event will see explosive growth in the prices of nearly all crypto coins and tokens. Early preparedness is crucial if you are looking to capitalise on this opportunity. The coming three months are [&#8230;]
+
+Mon, 11 Dec 2023 05:45:47 +0000
+### [Delhi records coldest day of season as mercury dips to 6.5 deg C](https://theprint.in/india/delhi-records-coldest-day-of-season-as-mercury-dips-to-6-5-deg-c/1880852/)
+
+Delhi experienced its coldest morning of the season with a minimum temperature of 6.5 degrees Celsius, which is three notches below the average. The city has been witnessing below-normal temperatures for the past few days, with a low of 8.5 degrees Celsius on Saturday and 8.3 degrees Celsius on Sunday. The relative humidity was recorded at 100% in the morning. The weather forecast predicts a clear sky throughout the day, with a maximum temperature of around 23 degrees Celsius. The minimum temperatures from December 12 to December 17 are expected to range between 6 degrees Celsius and 7 degrees Celsius. The Air Quality Index (AQI) for Delhi was 318, falling under the "very poor" category.
+
 Mon, 11 Dec 2023 05:02:29 +0000
 ### [FBI Director Christopher Wray in India today for two-day visit](https://theprint.in/world/fbi-director-christopher-wray-in-india-today-for-two-day-visit/1880795/)
 

@@ -1,3 +1,9 @@
+Mon, 11 Dec 2023 10:57:11 +0530
+### [For ITC, a bigger opportunity in fast-moving consumer foods](https://www.livemint.com/opinion/for-itc-a-bigger-opportunity-in-fast-moving-consumer-foods-11702272030475.html)
+
+Article found but Couldn't summarize 
+The conglomerate leads the fast-moving consumer goods category in the food sector with its portfolio of mega brands. ITC is now potentially looking at some bold strategic moves to fortify its position
+
 Mon, 11 Dec 2023 10:43:11 +0530
 ### [Govt could miss blending target after banning sugarcane in ethanol production](https://www.livemint.com/opinion/online-views/govt-could-miss-blending-target-after-banning-sugarcane-in-ethanol-production-11702270944948.html)
 

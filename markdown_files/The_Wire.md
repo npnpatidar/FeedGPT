@@ -1,3 +1,15 @@
+2023-12-11T11:28:35+05:30
+### [Breaking | SC Upholds Validity of Constitutional Order Which Read Down Article 370](https://thewire.in/law/supreme-court-kashmir-article-370-verdict)
+
+No Article text 
+The bench also added that not every decision by the Centre can be challenged.
+
+2023-12-11T11:25:40+05:30
+### ['Union Govt Never Intended to Create Hurdles in Caste-Based Survey': Amit Shah](https://thewire.in/caste/union-govt-never-intended-to-create-hurdles-in-caste-based-survey-amit-shah)
+
+No Article text 
+The Union home minister's comments may be construed as defensive in the light of the government's earlier stance that it is the sole authority which can conduct such an exercise.
+
 2023-12-11T10:31:14+05:30
 ### [In Jammu and Kashmir, All Eyes Are on the Supreme Court Today](https://thewire.in/law/in-jammu-and-kashmir-all-eyes-are-on-the-supreme-court-today)
 

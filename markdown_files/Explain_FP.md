@@ -1,3 +1,15 @@
+Mon, 11 Dec 2023 11:21:39 +0530
+### [Who is Vishnu Deo Sai, the tribal leader picked by BJP to be Chhattisgarh CM?](https://www.firstpost.com/explainers/who-is-vishnu-deo-sai-the-tribal-leader-picked-by-bjp-to-be-chhattisgarh-cm-13488062.html)
+
+Article found but Couldn't summarize 
+Who is Vishnu Deo Sai, the tribal leader picked by BJP to be Chhattisgarh CM?
+
+Mon, 11 Dec 2023 10:42:28 +0530
+### [Why new edition of Tintin comics has sparked a controversy](https://www.firstpost.com/explainers/why-new-edition-of-tintin-comics-has-sparked-a-controversy-13488132.html)
+
+Article found but Couldn't summarize 
+Why new edition of Tintin comics has sparked a controversy
+
 Mon, 11 Dec 2023 09:55:03 +0530
 ### [Supreme Court verdict on Article 370: What is the case all about? What are the arguments for and against it?](https://www.firstpost.com/explainers/supreme-court-verdict-jammu-kashmir-article-370-case-arguments-for-and-against-it-13488262.html)
 

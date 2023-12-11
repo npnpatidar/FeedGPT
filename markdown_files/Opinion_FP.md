@@ -1,3 +1,9 @@
+Mon, 11 Dec 2023 10:47:12 +0530
+### [Weather Report: Absence of Western Disturbance to result in dry conditions this week across India](https://www.firstpost.com/opinion/weather-report-absence-of-western-disturbance-to-result-in-dry-conditions-this-week-across-india-13488022.html)
+
+Article found but Couldn't summarize 
+Weather Report: Absence of Western Disturbance to result in dry conditions this week across India
+
 Sun, 10 Dec 2023 16:54:10 +0530
 ### ['In 30 years, there won’t be a Hindu in Bangladesh': A new book talks about them and their existential crisis](https://www.firstpost.com/opinion/in-30-years-there-wont-be-a-hindu-in-bangladesh-a-new-book-talks-about-them-and-their-existential-crisis-13486952.html)
 
