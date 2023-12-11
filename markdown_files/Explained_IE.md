@@ -1,3 +1,8 @@
+Mon, 11 Dec 2023 08:30:15 +0000
+### [SC upholds Article 370 abrogation: What is Truth and Reconciliation Commission?](https://indianexpress.com/article/explained/explained-law/sc-abrogation-article-370-truth-and-reconciliation-commisssion-9063179/)
+
+Article found but Couldn't summarize
+
 Mon, 11 Dec 2023 07:17:25 +0000
 ### [Article 370 abrogation upheld: How SC answered three key questions in the government’s favour](https://indianexpress.com/article/explained/explained-law/article-370-abrogation-upheld-supreme-court-explained-9063145/)
 

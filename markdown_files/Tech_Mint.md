@@ -1,3 +1,9 @@
+Mon, 11 Dec 2023 14:14:55 +0530
+### [Realme 12 Pro, Realme 12 Pro+ likely to launch in India soon. Check expected specs, price, launch date and more](https://www.livemint.com/technology/gadgets/realme-12-pro-realme-12-pro-likely-to-launch-in-india-soon-check-expected-specs-price-launch-date-and-more-11702279619782.html)
+
+Article found but Couldn't summarize 
+Realme 12 Pro has received the BIS certification in India, hinting at the possibility that the Chinese smartphone maker could soon launch the mid ranger series in India.
+
 Mon, 11 Dec 2023 10:48:26 +0530
 ### [Wireless Wi-Fi routers ensure hassle-free connectivity: Choose from top 9 picks](https://www.livemint.com/technology/gadgets/wireless-wi-fi-routers-ensure-hassle-free-connectivity-choose-from-top-9-picks-11702035686538.html)
 

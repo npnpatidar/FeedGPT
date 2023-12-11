@@ -1,3 +1,27 @@
+2023-12-11T14:33:23+05:30
+### [Four Important Takeaways From the Supreme Court Ruling on Jammu and Kashmir](https://thewire.in/law/four-important-takeaways-from-the-supreme-court-ruling-on-jammu-and-kashmir)
+
+No Article text 
+Many pronouncements and utterances today will have serious implications on India’s two northern-most union territories, but also for the rest of the country.
+
+2023-12-11T14:15:53+05:30
+### ['Time for Action to Prevent Genocide Is Now': Holocaust Scholars on Israel's Attacks on Gaza](https://thewire.in/world/holocaust-genocide-studies-scholars-warn-of-genocide-risk-in-palestine)
+
+No Article text 
+The 56 scholars said in their open letter that Palestinians in the West Bank and those who are citizens of Israel also faced “grave danger” if Israel's attack on Gaza were to continue and escalate.
+
+2023-12-11T14:00:54+05:30
+### ['DGP Treats Assam Police as Ancestral Property': ULFA-I Takes Responsibility for 'Warning' Blasts](https://thewire.in/government/dgp-treats-assam-police-as-ancestral-property-ulfa-i-takes-responsibility-for-warning-blasts)
+
+No Article text 
+In a letter, the anti-talks faction of the outfit accused the top cop G.P. Singh of 'arrogance.'
+
+2023-12-11T13:59:37+05:30
+### [How the EU Plans to Regulate Artificial Intelligence](https://thewire.in/tech/how-the-eu-plans-to-regulate-artificial-intelligence)
+
+No Article text 
+The EU Parliament and the member states agreed on a draft of their new AI Act. So what exactly will the landmark regulations entail?
+
 2023-12-11T13:54:46+05:30
 ### [Mahua Moitra Approches Supreme Court Against Her Expulsion From the Lok Sabha](https://thewire.in/law/mahua-moitra-approches-supreme-court-against-her-expulsion-from-the-lok-sabha)
 

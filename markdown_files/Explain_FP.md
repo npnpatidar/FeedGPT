@@ -1,3 +1,9 @@
+Mon, 11 Dec 2023 14:17:11 +0530
+### [What the SC said on Article 370 and key takeaways of verdict](https://www.firstpost.com/explainers/sc-verdict-on-article-370-what-the-apex-court-said-and-key-takeaways-13489992.html)
+
+Article found but Couldn't summarize 
+What the SC said on Article 370 and key takeaways of verdict
+
 Mon, 11 Dec 2023 13:29:47 +0530
 ### [Why China has started referring to Tibet as ‘Xizang’](https://www.firstpost.com/explainers/why-china-has-started-referring-to-tibet-as-xizang-13489502.html)
 

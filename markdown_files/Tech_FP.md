@@ -1,3 +1,9 @@
+Mon, 11 Dec 2023 14:10:19 +0530
+### [NVIDIA CEO Jensen Huang woos Vietnam, plans to set up Asian AI Chip base in the country](https://www.firstpost.com/tech/nvidia-ceo-jensen-huang-woos-vietnam-plans-to-set-up-asian-ai-chip-base-in-the-country-13489822.html)
+
+Article found but Couldn't summarize 
+NVIDIA CEO Jensen Huang woos Vietnam, plans to set up Asian AI Chip base in the country
+
 Mon, 11 Dec 2023 13:07:40 +0530
 ### [Huawei has a massive lineup of ‘disruptive’ products for 2024 after surprise launch of 5G smartphone](https://www.firstpost.com/tech/huawei-has-a-massive-line-of-disruptive-products-for-2024-after-surprise-launch-of-5g-smartphone-13489422.html)
 
