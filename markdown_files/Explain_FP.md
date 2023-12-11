@@ -16,6 +16,12 @@ Sun, 10 Dec 2023 08:54:43 +0530
 Article found but Couldn't summarize 
 Egypt presidential elections 2023: Who are the key candidates in fray?
 
+Sat, 09 Dec 2023 18:29:43 +0530
+### [FirstUp: Supreme Court’s verdict on Article 370… The big news today](https://www.firstpost.com/explainers/firstup-supreme-courts-verdict-on-article-370-the-big-news-today-13484972.html)
+
+Article found but Couldn't summarize 
+FirstUp: Supreme Court’s verdict on Article 370… The big news today
+
 Sat, 09 Dec 2023 15:04:05 +0530
 ### [The rising threat of AI-powered apps that ‘undress’ women’s photos](https://www.firstpost.com/explainers/deepfakes-the-rising-threat-of-ai-powered-apps-that-undress-womens-photos-13484052.html)
 

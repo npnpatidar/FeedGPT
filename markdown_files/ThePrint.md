@@ -1,3 +1,111 @@
+Mon, 11 Dec 2023 01:15:17 +0000
+### [Dollar steady with US inflation, Fed meeting eyed; yuan heavy](https://theprint.in/economy/dollar-steady-with-us-inflation-fed-meeting-eyed-yuan-heavy/1880699/)
+
+Article found but Couldn't summarize 
+By Rae Wee SINGAPORE (Reuters) - The dollar started Monday on the front foot, with a reading on U.S. inflation and the Federal Reserve's last policy meeting for the year likely to set the tone for the
+
+Mon, 11 Dec 2023 01:15:04 +0000
+### [Japan PM looks to ‘restore trust’ amid fundraising scandal](https://theprint.in/world/japan-pm-looks-to-restore-trust-amid-fundraising-scandal/1880697/)
+
+Article found but Couldn't summarize 
+TOKYO (Reuters) -Japan's Prime Minister Fumio Kishida said on Monday he would take steps to restore trust in his government amid a fundraising scandal, but declined to confirm a media report that he
+
+Mon, 11 Dec 2023 01:00:34 +0000
+### [India’s ‘Air and Space Force’: Spaceplane to ‘desi GPS’, how IAF renaming will widen its ambit](https://theprint.in/defence/indias-air-and-space-force-spaceplane-to-desi-gps-how-iaf-renaming-will-widen-its-ambit/1880160/)
+
+The Indian Air Force (IAF) is considering changing its name to the 'Indian Air and Space Force'. This proposal has been sent to the Union government and is expected to be implemented soon. The move is in line with the Defense Minister's call for the IAF to become an aerospace force and be prepared for future challenges. The IAF is also taking measures to strengthen its capabilities in space, including the use of space-based sensors and intelligence gathering. Additionally, the IAF is looking to enhance its navigation coverage through the NavIC system and is exploring the procurement of a Reusable Launch Vehicle (RLV) for accessing space. The name change and other initiatives aim to enhance the IAF's focus on space and its ability to detect and neutralize threats originating from space.
+
+Mon, 11 Dec 2023 00:45:36 +0000
+### [Asian stocks brace for central bank bonanza](https://theprint.in/economy/asian-stocks-brace-for-central-bank-bonanza/1880695/)
+
+As GPT-3.5, I can provide a brief summary of the article you shared. The Asian shares started cautiously on Monday due to a busy week ahead with central bank meetings and U.S. inflation data. The Federal Reserve is expected to hold rates this week, and the consumer price report for November will also influence the outlook. The European Central Bank, Bank of England, Norges Bank, and the Swiss National Bank will also meet this week. Investors are cautious, and Asian shares outside Japan eased slightly. The Japanese Nikkei bounced back, and S&P 500 and Nasdaq futures were stable. Chinese markets may face challenges after a drop in consumer prices. The Treasury market will face a test with new supply, and currency markets are watching the yen and euro. Gold prices declined, and oil prices remained steady. The COP28 climate summit is also being closely watched. Please let me know if you have any specific questions or if there's anything else I can assist you with.
+
+Mon, 11 Dec 2023 00:45:18 +0000
+### [Ukraine’s Zelenskiy says had ‘frank’ talk with Hungary’s Orban](https://theprint.in/world/ukraines-zelenskiy-says-had-frank-talk-with-hungarys-orban/1880693/)
+
+Article found but Couldn't summarize 
+BUENOS AIRES/BUDAPEST (Reuters) -Ukrainian President Volodymyr Zelenskiy said he had a "frank" conversation with Hungarian Prime Minister Viktor Orban on the sidelines of the inauguration of Argentine
+
+Mon, 11 Dec 2023 00:45:04 +0000
+### [Hong Kong ‘patriots only’ election falls flat with record low turnout](https://theprint.in/world/hong-kong-patriots-only-election-falls-flat-with-record-low-turnout/1880691/)
+
+Article found but Couldn't summarize 
+By Edward Cho and Dorothy Kam HONG KONG (Reuters) - A "patriots only" district election in Hong Kong that barred opposition democrats from the ballot sheet amid a national security squeeze had a
+
+Mon, 11 Dec 2023 00:32:02 +0000
+### [Javier Milei sworn in as Argentina’s President](https://theprint.in/world/javier-milei-sworn-in-as-argentinas-president/1880689/)
+
+As GPT-3.5, I can provide a summary of the article you shared. Javier Milei has been sworn in as Argentina's new president. He is an economist and political newcomer who gained popularity by advocating for economic reforms, including spending cuts. Milei delivered his first speech as president, expressing his commitment to bringing about significant changes in Argentina. The swearing-in ceremony was attended by several world leaders, including Ukrainian President Volodymyr Zelenskyy and former Brazilian President Jair Bolsonaro. Israel Foreign Minister Eli Cohen also attended and praised Milei as a clear supporter of Israel. Milei's election is seen as strengthening Israel's support in South America. He has already held meetings with top US officials and is working with the International Monetary Fund to reshape Argentina's foreign policy and address the country's economic challenges. Milei's political program includes measures such as dollarization, reducing government spending, opposing abortion rights, and implementing a tough-on-crime approach.
+
+Mon, 11 Dec 2023 00:15:31 +0000
+### [Rugby-Former Ireland and Lions great Syd Millar dies aged 89](https://theprint.in/sport/rugby-former-ireland-and-lions-great-syd-millar-dies-aged-89/1880688/)
+
+Syd Millar, a former Ireland prop and British and Irish Lions player, coach, and manager, passed away at the age of 89. He had a remarkable career, representing Ballymena Rugby Club, Ulster Rugby, and Ireland, earning 37 caps. Millar also participated in three British and Irish Lions tours. He served as the coach of the Ireland team from 1973 to 1975 and led the Lions on an undefeated tour of South Africa in 1974. Additionally, he managed the Lions on the 1980 tour and Ireland in the inaugural Rugby World Cup in 1987. Millar later became the chairman of the International Rugby Board (now known as World Rugby) from 2003 to 2007. His contributions to the sport were widely recognized, and he was inducted into the International Rugby Hall of Fame in 2009.
+
+Mon, 11 Dec 2023 00:15:21 +0000
+### [Britain’s M&G invests in crypto derivatives platform GFO-X](https://theprint.in/tech/britains-mg-invests-in-crypto-derivatives-platform-gfo-x/1880687/)
+
+Global Futures and Options (GFO-X), a digital assets trading platform, has secured $30 million in a second round of funding led by M&G Investments, a subsidiary of M&G Plc. GFO-X is licensed by the UK's Financial Conduct Authority and will allow global institutional investors to trade digital asset futures and options cleared at LCH SA, the Paris clearing arm of the London Stock Exchange Group. The investment will support GFO-X's upcoming launch and fuel innovation in the regulated digital asset sector. M&G Investments believes that the lack of regulated trading venues is hindering the growth of the crypto derivatives trading market and sees the UK as a potential global hub for crypto asset technology and investment. The LCH SA clearing arm will facilitate a regulated marketplace for bitcoin index futures and options.
+
+Mon, 11 Dec 2023 00:15:04 +0000
+### [Japan PM to replace four ministers over fundraising scandal – Asahi](https://theprint.in/world/japan-pm-to-replace-four-ministers-over-fundraising-scandal-asahi/1880685/)
+
+Article found but Couldn't summarize 
+TOKYO (Reuters) - Japan's Prime Minister Fumio Kishida has decided to replace four ministers and 11 other ministerial positions in his cabinet as a scandal over alleged undisclosed funding has fuelled
+
+Mon, 11 Dec 2023 00:02:01 +0000
+### [Bangladesh reports nine more deaths from dengue, fatalities reach 1661](https://theprint.in/world/bangladesh-reports-nine-more-deaths-from-dengue-fatalities-reach-1661/1880683/)
+
+Article found but Couldn't summarize 
+Dhaka [Bangladesh], December 11 (ANI): Bangladesh has reported nine more deaths from dengue in 24 hours till Sunday morning, taking the total number of fatalities to 1661 in 2023, Bangladesh-based Dhaka Tribune reported. According to the Directorate General of Health Services (DGHS), 459 more patients were hospitalised with viral fever. As many as 2291 dengue [&#8230;]
+
+Sun, 10 Dec 2023 23:46:06 +0000
+### [Soccer-Talking points from European soccer](https://theprint.in/sport/soccer-talking-points-from-european-soccer-13/1880681/)
+
+Article found but Couldn't summarize 
+(Reuters) - Talking points from the weekend in European soccer leagues: FRANCE WELCOME RETURNS FOR PSG AHEAD OF CRUCIAL DORTMUND CLASH Paris St Germain maintained their four-point lead over Nice at
+
+Sun, 10 Dec 2023 23:45:54 +0000
+### [Factbox-Who is still banned on X?](https://theprint.in/tech/factbox-who-is-still-banned-on-x/1880679/)
+
+Article found but Couldn't summarize 
+(Reuters) - U.S. right-wing conspiracy theorist Alex Jones is back on X, formerly known as Twitter, as of Sunday. Jones was allowed back on the social media platform after a poll organized by X's
+
+Sun, 10 Dec 2023 23:45:40 +0000
+### [Canada to offer incentives to cattle farms to reduce methane emissions](https://theprint.in/environment/canada-to-offer-incentives-to-cattle-farms-to-reduce-methane-emissions/1880677/)
+
+Article found but Couldn't summarize 
+(Reuters) - Canada on Sunday introduced new economic incentives for beef cattle farms in order to reduce methane emissions from cows, according to a statement from the Canadian government. The new
+
+Sun, 10 Dec 2023 23:45:26 +0000
+### [Papua New Guinea PM Marape says no talks with China on security](https://theprint.in/world/papua-new-guinea-pm-marape-says-no-talks-with-china-on-security/1880675/)
+
+Article found but Couldn't summarize 
+By Kirsty Needham SYDNEY (Reuters) - Papua New Guinea Prime Minister James Marape said on Monday there had been no recent talks with China on security after the resource-rich nation signed a security
+
+Sun, 10 Dec 2023 23:45:12 +0000
+### [EU ministers consider next steps in response to Israel-Hamas war](https://theprint.in/world/eu-ministers-consider-next-steps-in-response-to-israel-hamas-war/1880673/)
+
+Article found but Couldn't summarize 
+By Andrew Gray BRUSSELS (Reuters) - European Union foreign ministers on Monday consider possible next steps in response to the Middle East crisis, including a crackdown on Hamas’s finances and travel
+
+Sun, 10 Dec 2023 23:45:05 +0000
+### [Russians banned from travel to hand over passports within five days -decree](https://theprint.in/world/russians-banned-from-travel-to-hand-over-passports-within-five-days-decree/1880672/)
+
+Article found but Couldn't summarize 
+(Reuters) - Russians who have been banned from travelling abroad will have to hand over their passports to authorities within five days after being notified, according to a government decree that
+
+Sun, 10 Dec 2023 23:17:02 +0000
+### [Political rivals participating in polls to evade imprisonment: PPP Chairman Bilawal Bhutto-Zardari](https://theprint.in/world/political-rivals-participating-in-polls-to-evade-imprisonment-ppp-chairman-bilawal-bhutto-zardari/1880670/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 11 (ANI): In an apparent reference to Pakistan&#8217;s former Prime Ministers &#8211; Nawaz Sharif and Imran Khan, Pakistan Peoples Party (PPP) Chairman Bilawal Bhutto-Zardari said on Sunday that one is contesting general elections to evade imprisonment, while the other is seeking to escape prison by securing a win in the polls, Pakistan-based [&#8230;]
+
+Sun, 10 Dec 2023 23:15:11 +0000
+### [PGA Tour advances deal talks with investors including Fenway Sports Group](https://theprint.in/sport/pga-tour-advances-deal-talks-with-investors-including-fenway-sports-group/1880668/)
+
+The PGA Tour has announced that it will begin discussions with Strategic Sports Group (SSG), a consortium of U.S.-based sports team investors which includes Fenway Sports Group. This decision was made by the PGA Tour Policy Board, while negotiations with Saudi Arabia’s Public Investment Fund (PIF) are ongoing. The DP World Tour will also remain involved in the process as they work towards PGA TOUR Enterprises. Fenway Sports Group, notable owners of the Boston Red Sox and Premier League club Liverpool, are part of the consortium alongside Cohen Private Ventures, Steve Cohen’s family office, and HighPost Capital. This potential transaction could rival the PGA's current deal with the PIF.
+
 Sun, 10 Dec 2023 22:45:29 +0000
 ### [Soccer-Girona stun Barca 4-2 away to restore LaLiga lead](https://theprint.in/sport/soccer-girona-stun-barca-4-2-away-to-restore-laliga-lead/1880660/)
 

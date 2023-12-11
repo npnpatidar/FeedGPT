@@ -1717,3 +1717,10 @@ Started at 2023-12-10 23:17:39
 Finished at 2023-12-10 23:18:47
 Total time taken: 68.02161765098572 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2023-12-11 01:21:30
+1 Feed entries have been written to feeds/Explain_FP.xml
+19 Feed entries have been written to feeds/ThePrint.xml
+20 new entries have been added
+Finished at 2023-12-11 01:24:02
+Total time taken: 151.92263507843018 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
