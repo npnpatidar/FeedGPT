@@ -1,3 +1,8 @@
+Mon, 11 Dec 2023 14:10:25 +0000
+### [Haseeb Drabu writes: For Kashmiris, Article 370 was was more than a law – it was an identity](https://indianexpress.com/article/opinion/columns/haseeb-drabu-for-kashmiris-article-370-was-was-more-than-a-law-9063879/)
+
+Article found but Couldn't summarize
+
 Mon, 11 Dec 2023 11:31:35 +0000
 ### [Pratap Bhanu Mehta writes on abrogation of Article 370 being upheld: Has SC established a dangerous precedent for federalism?](https://indianexpress.com/article/opinion/columns/pratap-bhanu-mehta-abrogation-article-370-supreme-court-kashmir-9063575/)
 

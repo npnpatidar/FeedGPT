@@ -1,3 +1,15 @@
+2023-12-11T19:27:10+05:30
+### [India's Onion Export Ban Hits Neighbouring Countries, Steep Price Hikes Reported](https://thewire.in/trade/indias-onion-export-ban-hits-neighbouring-countries-steep-price-hikes-reported)
+
+No Article text 
+Markets in Bangladesh, Nepal, Bhutan, Sri Lanka and the Maldives have reported a surge in onion prices in wake of the Indian ban on export of the vegetable till March 31, 2024.
+
+2023-12-11T18:59:47+05:30
+### [The Supreme Court's Article 370 Judgment is Injustice Writ Large](https://thewire.in/rights/supreme-court-article-370-verdict-injustice-writ-large)
+
+No Article text 
+There are many parts to the judgment. But there is one issue that stands out as the heart and substance of the case, and it is the key differentiator between a democracy and a dictatorship.
+
 2023-12-11T18:30:04+05:30
 ### [‘No Place Is Safe in Gaza’: Is This the Brutal Climax of the Zionist Settler Colonial Project?](https://thewire.in/world/gaza-brutal-climax-zionist-settler-colonial-project-israel)
 
