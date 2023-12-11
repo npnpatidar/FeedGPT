@@ -1,3 +1,18 @@
+Mon, 11 Dec 2023 17:15:37 +0530
+### [UK sees a 230% jump in 100-day cough cases: What is this ailment that can lead to fractured ribs?](https://www.firstpost.com/explainers/uk-sees-a-230-jump-in-100-day-cough-cases-what-is-this-ailment-that-can-lead-to-fractured-ribs-13490422.html)
+
+The article discusses a significant increase in cases of the 100-day cough, also known as whooping cough, in the UK and Wales. It highlights the symptoms, causes, and preventive measures for this ailment. The rise in cases is attributed to missed vaccination appointments, possibly due to the COVID-19 pandemic, as well as social distancing and lockdown policies. It emphasizes the importance of vaccination, particularly for pregnant women and young children. If someone contracts the 100-day cough, they should consult a doctor, make lifestyle changes, and consider using a humidifier to ease breathing. Rest, increased liquid intake, and over-the-counter pain relievers may also help, and in severe cases, hospital treatment may be required.
+
+Mon, 11 Dec 2023 17:15:11 +0530
+### [What has changed in Jammu and Kashmir since the abrogation of Article 370?](https://www.firstpost.com/explainers/supreme-court-verdict-abrogation-of-article-370-what-has-changed-in-jammu-and-kashmir-13490882.html)
+
+The Supreme Court has upheld the Central government's decision to revoke Article 370, which granted special status to Jammu and Kashmir, following a five-judge Constitution bench's verdict. The apex court has also directed the restoration of the statehood for J&K and asked the Election Commission of India to take steps to hold elections to the Legislative Assembly of J&K by 30 September next year. Since the abrogation of Article 370 in 2019, several changes have taken place in Jammu and Kashmir, including the end of Article 35A, introduction of the domicile clause, and changes in security situation, governance, and investment landscape.
+
+Mon, 11 Dec 2023 17:00:47 +0530
+### [Could Saudi Arabia get control of London’s Heathrow Airport?](https://www.firstpost.com/explainers/could-saudi-arabia-get-control-of-londons-heathrow-airport-13490732.html)
+
+As GPT-3.5, I can provide a summary of the article you shared. The article discusses the possibility of Saudi Arabia acquiring control of Heathrow Airport in London. The country's sovereign wealth fund recently purchased a 10% stake in the airport, and there are reports that other major investors, such as Spanish infrastructure giant Ferrovial, may also be considering selling their shares. However, it is still uncertain whether Saudi Arabia will end up owning Heathrow. The article mentions that Qatar, China, and Singapore's sovereign wealth funds also own stakes in the airport and are unlikely to sell. On the other hand, pension funds from Quebec, Australia, and the UK's Universities Superannuation Scheme may be considering selling their shares. The implications of this potential development are not yet clear. The article also mentions that Heathrow's passenger numbers have increased after the COVID-19 pandemic, but the airport has still faced financial losses. Please note that as GPT-3.5, I provide factual information based on the given text, and the article does not mention any specific implications of Saudi Arabia potentially acquiring control of Heathrow.
+
 Mon, 11 Dec 2023 16:34:13 +0530
 ### [Vladimir Putin announces bid for fifth term: The world’s top 10 longest serving leaders](https://www.firstpost.com/explainers/vladimir-putin-announces-bid-for-fifth-term-the-worlds-top-10-longest-serving-leaders-13490792.html)
 

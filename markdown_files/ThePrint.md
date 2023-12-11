@@ -1,3 +1,120 @@
+Mon, 11 Dec 2023 12:32:00 +0000
+### [Want universities to be strong driver of country’s inclusive development process: Haryana Guv](https://theprint.in/india/want-universities-to-be-strong-driver-of-countrys-inclusive-development-process-haryana-guv/1881576/)
+
+Haryana Governor Bandaru Dattatreya addressed a workshop on the topic "Viksit Bharat-2047," expressing the need for universities and colleges to drive the country's inclusive development process. He emphasized the importance of making India a developed nation by 2047 and encouraged active participation from students. The New Education Policy's focus on skill development and entrepreneurship aligns with the vision for a developed India by 2047. The governor also advocated for a social media campaign to engage students in contributing to the nation's development.
+
+Mon, 11 Dec 2023 12:31:49 +0000
+### [Teen boy, girl found hanging from tree in Rajasthan village](https://theprint.in/india/teen-boy-girl-found-hanging-from-tree-in-rajasthan-village/1881575/)
+
+Article found but Couldn't summarize 
+Jaipur, Dec 11 (PTI) A minor boy and a girl who were allegedly in a relationship were found hanging from a tree in the Udaipur district of Rajasthan, police said on Monday. SHO Dilip Singh said the bodies of the duo, both aged around 16-17 years, were found hanging from a tree in Banjariya village [&#8230;]
+
+Mon, 11 Dec 2023 12:31:37 +0000
+### [Plea against anti-tobacco imagery: HC accepts lawyer’s apology, expunges remarks against him](https://theprint.in/india/plea-against-anti-tobacco-imagery-hc-accepts-lawyers-apology-expunges-remarks-against-him-2/1881574/)
+
+The Delhi High Court has expunged certain remarks made against a lawyer by a single judge who had dismissed his plea seeking direction to the Centre to prohibit the display of anti-tobacco health spots with graphic images during film screenings and on television and OTT platforms. The lawyer filed an appeal challenging the dismissal of his petition, but later tendered an unconditional apology and expressed regret, leading the court to accept the apology and expunge the remarks made by the single judge. The court observed that the government is taking measures to spread awareness about the harmful impact of tobacco consumption through the issuance of anti-tobacco health spots and disclaimers under the Cigarette and Other Tobacco Products Act (COTPA) rules. The petitioner's grievance was against the incorporation and prevalence of graphic anti-tobacco imagery in the health spots played during the screening of movies and television programs.
+
+Mon, 11 Dec 2023 12:31:24 +0000
+### [Arunachal governor asks youths to come up with innovative ideas to take country forward](https://theprint.in/india/arunachal-governor-asks-youths-to-come-up-with-innovative-ideas-to-take-country-forward/1881573/)
+
+Article found but Couldn't summarize 
+Itanagar, Dec 11 (PTI) Arunachal Pradesh Governor Lt Gen KT Parnaik on Monday said &#8216;Viksit Bharat@2047&#8217; is the driving force for every Indian, particularly the youth to find solution to every problem and plan strategies to become a developed and progressive nation. Participating in the ‘Ideas For The Vision of Viksit Bharat@2047’ programme at Raj [&#8230;]
+
+Mon, 11 Dec 2023 12:31:11 +0000
+### [Article 370 verdict: Kashmir politicians allege house arrest, LG says claim baseless](https://theprint.in/india/article-370-verdict-kashmir-politicians-allege-house-arrest-lg-says-claim-baseless/1881572/)
+
+Mainstream politicians from Kashmir have claimed that they were under house arrest, sharing pictures of chains and locks on their gates. The Jammu and Kashmir Lt Governor denied these claims, stating that no one had been put under house arrest in the Union Territory. The Jammu and Kashmir Police issued a statement clarifying that no arrest orders had been issued and there were no restrictions on movement, urging people to carry on with their daily lives. This all took place on the same day the Supreme Court upheld the validity of abrogation of Article 370.
+
+Mon, 11 Dec 2023 12:31:00 +0000
+### [Rebel JD(S) faction declares Nanu as national president, to back INDIA bloc](https://theprint.in/india/rebel-jds-faction-declares-nanu-as-national-president-to-back-india-bloc/1881571/)
+
+The article discusses the internal power struggle within the JD(S) party in Karnataka. C K Nanu was declared as the new national president of the party by a rebel faction, replacing former Prime Minister H D Deve Gowda. The rebel faction, led by leaders like C M Ibrahim, declared itself as the "actual JD(S)" and announced support to the INDIA bloc. They also plan to move to the Election Commission to stake their claim over the party and take necessary legal steps. The faction accuses Gowda of going against the party's secular ideology and having ties with a communal party. Ibrahim has raised a revolt against the JD(S) leadership and announced support to INDIA bloc in the Lok Sabha polls. The faction is also planning to approach the court and the election commission for their cause.
+
+Mon, 11 Dec 2023 12:30:48 +0000
+### [PPP chairman Bilawal moves SC for live streaming proceedings on case against Zulfikar Bhutto’s death sentence](https://theprint.in/world/ppp-chairman-bilawal-moves-sc-for-live-streaming-proceedings-on-case-against-zulfikar-bhuttos-death-sentence/1881570/)
+
+The article discusses Pakistan People’s Party chairman Bilawal Bhutto-Zardari's approach to the Supreme Court for live streaming of proceedings on a case seeking to revisit the controversial death sentence given to the party founder and former premier Zulfikar Ali Bhutto. The larger bench of the apex court is set to hear the long-pending presidential case, filed on behalf of former president Asif Ali Zardari in 2011, to seek an opinion on revisiting the death sentence. Bilawal aims to bring transparency to the proceedings and expects justice in the case.
+
+Mon, 11 Dec 2023 12:30:36 +0000
+### [Will govt continue action on seized properties of Praful Patel for gangster Mirchi link, asks Uddhav](https://theprint.in/india/will-govt-continue-action-on-seized-properties-of-praful-patel-for-gangster-mirchi-link-asks-uddhav/1881569/)
+
+Article found but Couldn't summarize 
+Nagpur, Dec 11 (PTI) Shiv Sena (UBT) chief Uddhav Thackeray on Monday wondered whether the government will take action regarding the properties of NCP leader Praful Patel which were seized for alleged link with gangster Iqbal Mirchi. Patel, a former confidant of NCP founder Sharad Pawar, is a member of the NCP camp led by [&#8230;]
+
+Mon, 11 Dec 2023 12:30:18 +0000
+### [SC verdict on Article 370 abrogation ‘historic’, ‘momentous’: BCI president](https://theprint.in/india/sc-verdict-on-article-370-abrogation-historic-momentous-bci-president/1881568/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 11 (PTI) The Bar Council of India on Monday termed as &#8220;historic&#8221; and &#8220;momentous&#8221; the Supreme Court verdict upholding the Centre&#8217;s decision to abrogate provisions of Article 370, which bestowed special status on the erstwhile state of Jammu and Kashmir. The apex court unanimously upheld the Centre&#8217;s action and directed the restoration [&#8230;]
+
+Mon, 11 Dec 2023 12:30:03 +0000
+### [Why KSU not protesting against Kerala Guv interference in universities? asks CM Vijayan](https://theprint.in/india/why-ksu-not-protesting-against-kerala-guv-interference-in-universities-asks-cm-vijayan/1881567/)
+
+Kerala Chief Minister Pinarayi Vijayan accuses Governor Arif Mohammed Khan of interfering in the functioning of universities and questions why the KSU, the student wing of Congress, was not protesting against it. He expresses concern over the actions of KSU, particularly the throwing of shoes at the CM's bus, and emphasizes the need to avoid such provocations. The CM also criticizes the Congress-led UDF opposition for not participating in the outreach program and condemns their resorting to violent actions. The LDF convener alleges that certain Congress leaders are behind the shoe-throwing incident and highlights the opposition's allegations regarding the misuse of state apparatus for political campaigning by the Left government.
+
+Mon, 11 Dec 2023 12:17:56 +0000
+### [Dwarka Expressway: Live in a Skyscraper City – Get Stellar Returns on Investment](https://theprint.in/ani-press-releases/dwarka-expressway-live-in-a-skyscraper-city-get-stellar-returns-on-investment/1881562/)
+
+The article discusses the remarkable development along the Dwarka Expressway in Delhi-NCR, India. This development is fueled by its strategic proximity to the Delhi-Mumbai Expressway and the Haryana Government’s ambitious Global City Project, which has given rise to unprecedented growth and investment opportunities. The region has been transformed into a promising real estate hotspot, reshaping the National Capital Region (NCR) landscape.
+
+The Dwarka Expressway promises a congestion-free living experience with upcoming urban developments such as the "Skyscraper City" under the Global City Project. This initiative envisions residential, commercial, institutional, and recreational spaces to cater to the evolving needs of residents and multinational corporations, further elevating the appeal of Dwarka Expressway.
+
+The article also emphasizes the rapid growth of Gurugram as India’s real estate leader, boasting a remarkable 28.9% quarter-on-quarter growth in 2023, far exceeding the national average. Luxury housing has particularly attracted buyers from the national capital, and the Haryana government’s 1000-acre Global City project in Sector 36 and 37D is expected to contribute to tremendous growth in the region’s real estate market.
+
+The region is witnessing the development of business parks, IT parks, hotels, retail arenas, golf courses, diplomatic enclaves, eco-parks, and more. The growth and development of Shop-Cum-Office (SCO) spaces are also providing compelling propositions for small and medium enterprises seeking integrated office and retail solutions.
+
+Overall, Dwarka Expressway is poised to emerge as a prominent realty hotspot in the NCR, offering a unique blend of urban sophistication and contemporary living, making it an attractive choice for discerning homebuyers and investors.
+
+Mon, 11 Dec 2023 12:17:46 +0000
+### [An Expo here in Mumbai – A Space for Great Art](https://theprint.in/ani-press-releases/an-expo-here-in-mumbai-a-space-for-great-art/1881560/)
+
+Article found but Couldn't summarize 
+SRV Media New Delhi [India], December 11: Answers OneWorld, a full-service creative &#38; media co. introducing its Art Expo &#8211; WORLD ART CONCLAVE &#8211; ART EXPO 2024 at Nehru Centre, Mumbai, India from 27th to 30th March 2024. Art needs to enrich culture and cultivate minds. Art needs to flow freely in space. Let art [&#8230;]
+
+Mon, 11 Dec 2023 12:17:35 +0000
+### [Telugu crime series ‘Vyooham’  to be out on this date](https://theprint.in/feature/telugu-crime-series-vyooham-to-be-out-on-this-date/1881558/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 11 (ANI): A new Telugu crime series, &#8216;Vyooham&#8217;, is all set to be out soon. On Monday, Prime Video announced the series, which features Sai Sushanth Reddy, Chaitanya Krishna, Pavani Gangireddy, Ravindra Vijay, and Shashank Siddamsetty in prominent roles. As per a statement, &#8216;Vyooham&#8217; is an investigative crime thriller series that [&#8230;]
+
+Mon, 11 Dec 2023 12:17:24 +0000
+### [QL One, Asia’s Largest Training and Coaching Company Set to Host Edition 2 of PROFICORN on 20-21 December 2023](https://theprint.in/ani-press-releases/ql-one-asias-largest-training-and-coaching-company-set-to-host-edition-2-of-proficorn-on-20-21-december-2023/1881556/)
+
+Article found but Couldn't summarize 
+NewsVoir Bangalore (Karnataka) [India], December 11: On May 23rd and 24th, QL One, Asia&#8217;s largest training and coaching company hosted PROFICORN 2023 in Bangalore, an event specifically tailored for MSME business owners. With over 750 participants, the event focused on celebrating the unsung heroes of the economy, showcasing the power of bootstrapping and profitability in [&#8230;]
+
+Mon, 11 Dec 2023 12:17:13 +0000
+### [90s Divas reunion: Raveena Tandon, Sonali Bendre Shilpa Shetty pose together at party](https://theprint.in/feature/90s-divas-reunion-raveena-tandon-sonali-bendre-shilpa-shetty-pose-together-at-party/1881554/)
+
+Bollywood divas Raveena Tandon, Sonali Bendre, and Shilpa Shetty posed together at actor Gayatri Joshi’s new home in Mumbai. Raveena Tandon shared pictures from the evening on Instagram, including a selfie with Gayatri Joshi and a rooftop group photo. Shilpa Shetty also shared a group picture on her Instagram Stories, celebrating the occasion. The article also includes information about the career and recent projects of Gayatri Joshi, Shilpa Shetty, and Raveena Tandon, along with details about their upcoming film and series appearances.
+
+Mon, 11 Dec 2023 12:17:02 +0000
+### [JAIN (Deemed-to-be University) Celebrates Triumph at its 13th Annual Convocation for Batch 2023](https://theprint.in/ani-press-releases/jain-deemed-to-be-university-celebrates-triumph-at-its-13th-annual-convocation-for-batch-2023/1881552/)
+
+The provided text describes the 13th Annual Convocation of JAIN (Deemed-to-be University) held in Bengaluru from November 22nd to 24th, 2023. The event celebrated the exceptional achievements of the Batch 2023 and saw a total of 7879 students from diverse disciplines eligible to receive their degree certificates. The convocation included the presence of distinguished dignitaries from various fields as Chief Guests and Guests of Honour, delivering impactful speeches. Additionally, it honored 52 remarkable sporting personalities during the prestigious Sports Achievers Award Ceremony. The Chancellor of the university encouraged graduates to embrace entrepreneurship for the country's growth and development. For more information, you can visit their website https://jainuniversity.ac.in/.
+
+Mon, 11 Dec 2023 12:17:00 +0000
+### [Haryana Minister Kanwar Pal discharged from hospital](https://theprint.in/india/haryana-minister-kanwar-pal-discharged-from-hospital/1881551/)
+
+Article found but Couldn't summarize 
+Yamunanagar (Haryana), Dec 11 (PTI) Haryana Education Minister Kanwar Pal, who was admitted to a private hospital in the district after complaining of dizziness, was discharged on Monday, doctors said. His condition is fine. Various tests were done on him and the results were normal, they said. The 63-year-old MLA from Jagadhri was attending an [&#8230;]
+
+Mon, 11 Dec 2023 12:16:51 +0000
+### [GreenH, Medha to build hydrogen production, refuelling station at Jind](https://theprint.in/economy/greenh-medha-to-build-hydrogen-production-refuelling-station-at-jind/1881550/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 11 (PTI) GreenH Electrolysis (GreenH) on Monday announced signing an agreement with Medha Servo Drives Pvt Ltd (Medha) to build a hydrogen production and refuelling station at Jind in Haryana. Indian Railways has awarded a contract to Medha for a pilot project to retrofit diesel-electric multiple unit rake on the Sonipat-Jind section [&#8230;]
+
+Mon, 11 Dec 2023 12:16:40 +0000
+### [Set up special cells to work on Viksit Bharat vision, Delhi L-G Saxena tells heads of institutions](https://theprint.in/india/set-up-special-cells-to-work-on-viksit-bharat-vision-delhi-l-g-saxena-tells-heads-of-institutions/1881549/)
+
+The article discusses Delhi Lt Governor VK Saxena's suggestion for academic institutions in the national capital to set up special cells on campuses to work on the vision of Viksit Bharat @2047. More than 500 academics and students participated in a virtual address by Prime Minister Narendra Modi on the vision for Viksit Bharat @2047, where he emphasized the role of India's youth in driving and benefiting from change. Additionally, a panel discussion, question-answer session, and brainstorming session were conducted to engage participants. The article also highlights the importance of academia in shaping a new India and the necessity for all individuals to have employment and access to justice.
+
+Mon, 11 Dec 2023 12:16:30 +0000
+### [Plea against anti-tobacco imagery: HC accepts lawyer’s apology, expunges remarks against him](https://theprint.in/india/plea-against-anti-tobacco-imagery-hc-accepts-lawyers-apology-expunges-remarks-against-him/1881548/)
+
+The Delhi High Court expunged certain remarks made against a lawyer by a single judge who dismissed his plea seeking to prohibit the display of anti-tobacco health spots with graphic images during film screenings. The lawyer filed an appeal challenging the dismissal, but later tendered an unconditional apology for filing the appeal, expressing regret and stating that there were no malicious intentions. The court accepted the apology and expunged the single judge's remarks, subsequently dismissing the appeal. The single judge had emphasized the government's duty to spread awareness about the harmful effects of tobacco consumption through anti-tobacco health spots and disclaimers issued under the Cigarette and Other Tobacco Products Act.
+
 Mon, 11 Dec 2023 11:02:11 +0000
 ### [Stock market powers through challenges, Nifty gains 5.5 per cent](https://theprint.in/economy/stock-market-powers-through-challenges-nifty-gains-5-5-per-cent/1881378/)
 

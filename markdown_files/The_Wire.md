@@ -1,3 +1,27 @@
+2023-12-11T17:59:30+05:30
+### [Retail Inflation is Now Stable, Union Finance Minister Nirmala Sitharaman Tells Parliament](https://thewire.in/economy/fm-sitharaman-says-retail-inflation-now-stable)
+
+No Article text 
+Sitharaman's statement comes after Barclay's estimated last week that India's retail inflation may have crossed the RBI's tolerance limit of 6% in November from 4.87% in October.
+
+2023-12-11T17:45:50+05:30
+### [Since 2015, 65.9% of 118 Lakh Commissioned Houses Completed Under PMAY-U](https://thewire.in/government/pmay-u-66-percent-houses-completed-lok-sabha)
+
+No Article text 
+In a written reply to the Lok Sabha on Monday, the minister of state in the Ministry of Housing and Urban Affairs said that PMAY-U is a “demand driven scheme and Government of India has not fixed any target for construction of houses.”
+
+2023-12-11T17:30:22+05:30
+### [Bihar Caste Survey: The Who’s Who in the Data | Dabgar](https://thewire.in/caste/bihar-caste-survey-the-whos-who-in-the-data-dabgar)
+
+No Article text 
+Dabgars have a minuscule population in Bihar.
+
+2023-12-11T17:00:42+05:30
+### [Are India’s Elections Free and Fair?](https://thewire.in/politics/are-indias-elections-free-and-fair)
+
+No Article text 
+The BJP secured victories in three states and the Congress in one. However, the Congress garnered more votes than the BJP. A critical examination of the electoral landscape reveals intriguing disparities.
+
 2023-12-11T16:45:46+05:30
 ### [Subdued Response From J&K Political Parties After SC Upholds Reading Down of Article 370](https://thewire.in/politics/subdued-response-jk-political-parties-sc-uphold-article-370)
 

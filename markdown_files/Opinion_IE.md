@@ -1,3 +1,8 @@
+Mon, 11 Dec 2023 11:31:35 +0000
+### [Pratap Bhanu Mehta writes on abrogation of Article 370 being upheld: Has SC established a dangerous precedent for federalism?](https://indianexpress.com/article/opinion/columns/pratap-bhanu-mehta-abrogation-article-370-supreme-court-kashmir-9063575/)
+
+The Supreme Court's decision to uphold the abrogation of Article 370 in Jammu and Kashmir is seen as a significant legal victory for the Narendra Modi government's approach to the region. The judgment is expected to shape perceptions of whether this move represents the full integration of the state into India's constitutional scheme or a betrayal of its historical promises. The article discusses the complexity of Kashmir's history, its special status under Article 370, and the impact of the government's actions in 2019. It also addresses the potential implications for federalism and the need for truth and reconciliation in the region. The piece emphasizes the need for an honest reckoning with the suffering in Jammu and Kashmir and the challenges of creating political reconciliation. The writer highlights the evolving nature of Indian politics and raises questions about the Supreme Court's role in upholding the Indian Constitution.
+
 Mon, 11 Dec 2023 09:23:04 +0000
 ### [Abrogation of Article 370 upheld: Better days lie ahead for Kashmiris](https://indianexpress.com/article/opinion/columns/article-370-abrogation-kashmir-better-days-9063314/)
 

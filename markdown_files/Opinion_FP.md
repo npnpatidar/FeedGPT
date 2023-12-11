@@ -1,3 +1,8 @@
+Mon, 11 Dec 2023 17:40:06 +0530
+### [Hiding behind Article 370, how Nehru pulled a fast one on India with the dehumanising Article 35A](https://www.firstpost.com/opinion/hiding-behind-article-370-how-nehru-pulled-a-fast-one-on-india-with-the-dehumanising-article-35a-13491112.html)
+
+The Supreme Court has upheld the abrogation of Article 370 and Article 35A, ending a discriminatory regime of rights violations in Jammu and Kashmir. Article 35A was added to the Indian Constitution illegally and granted special privileges to a separate class of 'permanent' residents, leading to discriminatory powers and restrictions. This resulted in the denial of fundamental rights and privileges to non-state subjects, including women, West Pakistan refugees, and other communities. The articles created an island within India with limited application of the Constitution, hindering the state's complete integration with the rest of India. The abrogation of these articles is seen as a step towards inclusivity and justice, aimed at fully integrating Jammu and Kashmir with the rest of India.
+
 Mon, 11 Dec 2023 15:45:44 +0530
 ### [SC’s verdict upholding abrogation of Article 370 is a landmark decision and a step towards democratic equality](https://www.firstpost.com/opinion/scs-verdict-upholding-abrogation-of-article-370-is-a-landmark-decision-and-a-step-towards-democratic-equality-13490432.html)
 

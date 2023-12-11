@@ -1,3 +1,13 @@
+Mon, 11 Dec 2023 12:20:12 +0000
+### [Recalling Syama Prasad Mookerjee, fierce Nehru critic who fought for J&K’s integration with India](https://indianexpress.com/article/explained/explained-history/syama-prasad-mookerjee-jammu-kashmir-integration-9063688/)
+
+The article discusses the significance of Dr. Syama Prasad Mookerjee, an influential figure in Indian politics, particularly regarding the abrogation of Article 370 and the integration of Kashmir with the Indian Union. Dr. Mookerjee was a prominent academic, barrister, and politician known for his staunch opposition to Kashmir's special status and his advocacy for a unified India. He founded the Bharatiya Jana Sangh, the precursor to the BJP, and played a key role in shaping the Hindu right's political ideology. His strong stance on the integration of Jammu and Kashmir with the Indian Union led to his untimely demise, which some believe was part of a conspiracy to suppress the movement in Kashmir.
+
+Mon, 11 Dec 2023 12:06:55 +0000
+### [After Article 370 scrapping, why incidents of stone-pelting fell in Kashmir](https://indianexpress.com/article/explained/explained-politics/article-370-scrapping-stone-pelting-fell-kashmir-9063678/)
+
+Article found but Couldn't summarize
+
 Mon, 11 Dec 2023 10:30:06 +0000
 ### [‘We the people of Jammu and Kashmir’: What Justice Kaul said in his Article 370 verdict’s ‘sentimental epilogue’](https://indianexpress.com/article/explained/explained-law/justice-kaul-article-370-verdict-supreme-court-9063464/)
 
