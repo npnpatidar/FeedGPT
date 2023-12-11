@@ -1,3 +1,124 @@
+Mon, 11 Dec 2023 13:21:42 +0000
+### [Lahore govt is washing roads to combat deadly air. Pakistanis call it a desi mom solution](https://theprint.in/go-to-pakistan/lahore-govt-is-washing-roads-to-combat-deadly-air-pakistanis-call-it-a-desi-mom-solution/1881657/)
+
+The government in Pakistan has implemented an "anti-smog drive" in Lahore by cleaning streets with the aim of reducing air pollution. This initiative has drawn criticism and mockery from citizens who question the logic behind the approach, particularly regarding the wastage of water and its impact on smog. In response to public outrage, concerns have been raised about the unnecessary documentation of the program and the potential negative consequences, such as water wastage, traffic obstruction, and increased vehicle emissions contributing to the smog. Citizens have also called for more sustainable and effective measures to address air pollution, such as providing clean fuel, ensuring compliance with emission standards, and enforcing a ban on stubble burning. The article also highlights the severity of air pollution in Lahore and the need for comprehensive measures to combat it, including proper monitoring, real-time air pollution data, and addressing key sources of pollution such as construction and transport emissions.
+
+Mon, 11 Dec 2023 13:17:15 +0000
+### [After Covid-19, advanced MRI technology detects alterations in brain: Study](https://theprint.in/health/after-covid-19-advanced-mri-technology-detects-alterations-in-brain-study/1881680/)
+
+Researchers from Linkoping University in Sweden conducted a study analyzing the brains of 16 people who had been hospitalized for Covid-19 and still had symptoms. They used a new type of MRI called advanced diffusion MRI to examine the brain's white matter, which consists of nerve axons and is crucial for brain function. Their findings, published in the journal Brain Communications, suggest changes in brain tissue structure in patients with persistent Covid-19 symptoms. The researchers hope to use this technology to understand the long-term effects of Covid-19 on the brain. They also aim to investigate how changes detected with diffusion MRI are connected to brain activity and whether these changes are permanent or temporary.
+
+Mon, 11 Dec 2023 13:17:04 +0000
+### [Nangloi WTP maintenance: Water supply to be affected in several areas of Delhi on Tuesday](https://theprint.in/india/nangloi-wtp-maintenance-water-supply-to-be-affected-in-several-areas-of-delhi-on-tuesday/1881678/)
+
+As GPT-3.5, I can inform you that water supply will be affected in several areas of Delhi for a few hours on December 12. The Nangloi water treatment plant will undergo preventive maintenance, and as a result, water supply will not be available from 9 am to 12 noon in Nangloi, Mundka, and adjoining areas. The Delhi Jal Board has issued a notice stating that water supply will be interrupted for HT Panel servicing during this time. Residents in the affected areas have been advised to store sufficient water in advance.
+
+Mon, 11 Dec 2023 13:17:02 +0000
+### [Pakistan People’s Party calls for live telecast of hearing against Zulfikar Bhutto’s death sentence](https://theprint.in/world/pakistan-peoples-party-calls-for-live-telecast-of-hearing-against-zulfikar-bhuttos-death-sentence/1881677/)
+
+As GPT-3.5, I can provide a summary of the article you shared. The Pakistan People's Party (PPP) has requested a live telecast of the Supreme Court hearing on a presidential reference challenging the death sentence of former Prime Minister Zulfiqar Ali Bhutto. The hearing, scheduled for December 12, aims to reassess the controversial death penalty imposed on Bhutto. The plea was submitted by PPP Chairman Bilawal Bhutto Zardari, who emphasized the enduring legacy of Zulfikar Ali Bhutto despite the death sentence. The article also mentions that Zulfikar Ali Bhutto received the death penalty during the rule of former military leader General (retired) Ziaul Haq.
+
+Mon, 11 Dec 2023 13:16:54 +0000
+### [Teen girl raped in UP village, accused arrested](https://theprint.in/india/teen-girl-raped-in-up-village-accused-arrested/1881676/)
+
+A 15-year-old girl was allegedly raped by a man in a village in Pilibhit, Uttar Pradesh. The incident occurred when the man took the teenage girl from her home on the pretext of some work and allegedly raped her at his house. The man was later spotted accompanying the girl back home, which led to a confrontation with the girl's family. The accused managed to escape, but was subsequently arrested by the police. A case has been registered against him under relevant sections of the Indian Penal Code and the Protection of Children from Sexual Offences Act. The girl has undergone a medical examination, and further legal action is being taken.
+
+Mon, 11 Dec 2023 13:16:43 +0000
+### [Karni Sena chief murder case: Miscommunication forced shooters to change escape plan, led to arrest](https://theprint.in/india/karni-sena-chief-murder-case-miscommunication-forced-shooters-to-change-escape-plan-led-to-arrest/1881675/)
+
+The article shares details about the arrest of the alleged shooters of Karni Sena chief Sukhdev Singh Gogamedi. The shooters, Rohit Rathore and Nitin Fauji, were supposed to escape from Jaipur immediately after the killing but faced a miscommunication with their handlers over the escape plan. They ended up using several vehicles and hiding at different locations to evade arrest. Additionally, it mentions their contacts with individuals suspected of involvement in criminal activities and their plan to flee the country with promised passports and visas.
+
+Mon, 11 Dec 2023 13:16:32 +0000
+### [BJP women’s wing stages protests in Latur against Congress MP over cash seizure](https://theprint.in/india/bjp-womens-wing-stages-protests-in-latur-against-congress-mp-over-cash-seizure/1881674/)
+
+Article found but Couldn't summarize 
+Latur, Dec 11 (PTI) Activists of the Bharatiya Janata Party&#8217;s women&#8217;s wing staged agitations in Maharashtra&#8217;s Latur district on Monday against Congress MP Dheeraj Sahu over a huge recovery of cash from premises linked to him. Protesters, led by the BJP women&#8217;s wing district secretary Surekha Puri, gathered at Murud village and attacked an effigy [&#8230;]
+
+Mon, 11 Dec 2023 13:16:22 +0000
+### [ZPM goverment will implement its priority programmes timely: CM](https://theprint.in/india/zpm-goverment-will-implement-its-priority-programmes-timely-cm/1881673/)
+
+Article found but Couldn't summarize 
+Aizawl, Dec 11 (PTI) Mizoram Chief Minister Lalduhoma on Monday said his government will implement the priority programmes in a time-bound manner. Addressing a meeting of the Zoram People&#8217;s Movement (ZPM) here, Lalduhoma said he wants people to assess his government through its work. &#8220;Mizoram&#8217;s people are testing our government. I want them to continue [&#8230;]
+
+Mon, 11 Dec 2023 13:16:12 +0000
+### [PM Modi’s decision to abrogate Art 370 gave new strength to unity, integrity of India: BJP](https://theprint.in/india/pm-modis-decision-to-abrogate-art-370-gave-new-strength-to-unity-integrity-of-india-bjp/1881672/)
+
+The article discusses the Supreme Court's verdict upholding the scrapping of Article 370, bestowing special status to Jammu and Kashmir, and the creation of the Union territory of Ladakh from Jammu and Kashmir. The court also directed the restoration of statehood and elections to the assembly by September 30 next year. Various ministers and leaders expressed their support for the decision, stating it will lead to peace, prosperity, and development in the region under the leadership of Prime Minister Narendra Modi and Home Minister Amit Shah.
+
+Mon, 11 Dec 2023 13:16:02 +0000
+### [Delhi excise ‘scam’: Court extends judicial custody of Manish Sisodia till Jan 10](https://theprint.in/india/delhi-excise-scam-court-extends-judicial-custody-of-manish-sisodia-till-jan-10/1881671/)
+
+Manish Sisodia, an AAP leader, has had his judicial custody extended until January 10, 2024, in connection with a money laundering case related to the alleged Delhi excise policy scam. The judge also sought responses from Sisodia and other accused on an application filed by the Enforcement Directorate (ED) seeking permission to file additional documents in the case. The trial will begin after the stage of scrutiny of documents is over and charges are framed against the accused persons. Sisodia was arrested by the Central Bureau of Investigation (CBI) for his alleged role in corruption in the formulation and implementation of the Delhi Excise Policy 2020-21. The case involves allegations regarding the arbitrary increase in profit margins of wholesalers and favoritism in liquor licenses. Sisodia and the Delhi government have denied any wrongdoing and have maintained that the new policy would have led to an increase in revenue.
+
+Mon, 11 Dec 2023 13:15:52 +0000
+### [Representatives from US, India, Taiwan discuss cyber security issues](https://theprint.in/india/representatives-from-us-india-taiwan-discuss-cyber-security-issues/1881669/)
+
+A workshop was held in New Delhi, India, under the Global Cooperation and Training Framework (GCTF) with representatives from India, the US, and Taiwan. The workshop focused on deepening operational expertise and sharing best practices on cybersecurity issues. The initiative aims to utilize Taiwan’s strengths and expertise to address global cybersecurity concerns. The US is committed to collaborating with partners like India and Taiwan to enhance cybersecurity and protect shared interests in the digital space. The GCTF has held 70 international workshops with participation from over 120 countries since its launch in 2015, promoting collaboration on various global issues.
+
+Mon, 11 Dec 2023 13:15:45 +0000
+### [A quarter of freshwater fish risk extinction -study](https://theprint.in/environment/a-quarter-of-freshwater-fish-risk-extinction-study/1881668/)
+
+Article found but Couldn't summarize 
+By Emma Farge GENEVA (Reuters) - About a quarter of all freshwater fish species are at risk of extinction due to threats from climate change and pollution, the latest Red List of Threatened Species
+
+Mon, 11 Dec 2023 13:15:39 +0000
+### [Oppn, treasury benches trade barbs during discussion on supplementary demands for grants](https://theprint.in/india/oppn-treasury-benches-trade-barbs-during-discussion-on-supplementary-demands-for-grants/1881667/)
+
+In the article, the opposition and the treasury benches in India spar over the country's economic situation. The Congress alleges that the government has created monopolies and that only big capitalists have seen progress, while the BJP argues that the Congress had imposed a "quota raj" during its tenure. The discussion in the Lower House also addresses concerns about GDP growth, the agriculture sector, allocation of funds for the Mahatma Gandhi National Rural Employment Guarantee Act, the delay in conducting the 2021 census, and other economic and social issues. The article includes statements and rebuttals from political leaders regarding various aspects of the country's economic and social policies.
+
+Mon, 11 Dec 2023 13:15:28 +0000
+### [Yen slides as hopes of December BOJ pivot fade, China’s yuan falls](https://theprint.in/economy/yen-slides-as-hopes-of-december-boj-pivot-fade-chinas-yuan-falls/1881665/)
+
+The article discusses several key points related to the foreign exchange market and economic indicators. Here are the main highlights:
+
+1. The U.S. dollar rose against the Japanese yen after a report suggested the Bank of Japan may not end negative interest rates in December.
+
+2. China's yuan fell to a three-week low due to worsening deflation in November.
+
+3. Investors are focused on U.S. inflation figures for November, the Federal Reserve's interest rate decision, and the upcoming rate decisions by the European Central Bank and the Bank of England.
+
+4. Economists expect U.S. inflation to slow to 3.1% in November year-on-year and anticipate the Fed to hold interest rates at the current level for a third meeting in a row.
+
+5. U.S. job growth accelerated in November, challenging expectations of imminent rate cuts from the Fed beginning early next year.
+
+6. Data over the weekend revealed that China's consumer prices fell at the fastest pace in three years in November, and factory-gate deflation deepened, indicating increasing deflationary pressure as weak domestic demand casts doubt over the country's economic recovery.
+
+7. The yuan weakened to a three-week low, and the lack of a strong economic revival suggests that weak inflation will persist, requiring more policy support.
+
+Let me know if you would like more information on any specific part of the article.
+
+Mon, 11 Dec 2023 13:15:26 +0000
+### [Rs 6,000 flood relief will be given to all ration cardholders: TN govt](https://theprint.in/india/rs-6000-flood-relief-will-be-given-to-all-ration-cardholders-tn-govt/1881664/)
+
+Article found but Couldn't summarize 
+Chennai, Dec 11 (PTI) The flood relief sum of Rs 6,000 announced by the Tamil Nadu government will be provided to all ration cardholders in the four cyclone Michaung ravaged districts, including Chennai, state Finance Minister Thangam Thennarasu said on Monday. Tokens to avail the relief would be distributed on December 16 to all the [&#8230;]
+
+Mon, 11 Dec 2023 13:15:16 +0000
+### [Explainer-Why China, the Philippines keep fighting over tiny shoal](https://theprint.in/world/explainer-why-china-the-philippines-keep-fighting-over-tiny-shoal/1881662/)
+
+The article describes recent confrontations between the Philippines and China in the South China Sea, particularly at the Second Thomas Shoal. The Philippines accused Chinese vessels of firing water cannon at its resupply boats and deliberately ramming one of them. This has caused serious concerns, as the shoal has become a flashpoint for conflict. The Philippines fears that China may be plotting to take over the shoal and militarize it. These confrontations could further strain relations between the Philippines and China. While the situation is tense, high-level relations between the two countries remain important, as the Philippines is among China's top trading partners.
+
+Mon, 11 Dec 2023 13:15:15 +0000
+### [Art 370 verdict: Life as usual in Kashmir, several organisations celebrate ruling in Jammu](https://theprint.in/india/art-370-verdict-life-as-usual-in-kashmir-several-organisations-celebrate-ruling-in-jammu/1881661/)
+
+The Supreme Court upheld the Centre's decision to abrogate Article 370 and reorganize Jammu and Kashmir into two Union territories. This decision was celebrated in Jammu, but life went on as usual in Srinagar and other district headquarters in the Kashmir Valley. Shops and business establishments opened in Srinagar and elsewhere, and public transport also operated normally. The Supreme Court also directed the restoration of statehood to the Union Territory of Jammu and Kashmir and the conduct of elections to the Assembly in the Union Territory by September 30 next year. Additionally, the article describes celebratory events held by various organizations in Jammu to mark the top court verdict.
+
+Mon, 11 Dec 2023 13:15:05 +0000
+### [Polish drivers lift blockade at one border crossing with Ukraine, says Kyiv](https://theprint.in/world/polish-drivers-lift-blockade-at-one-border-crossing-with-ukraine-says-kyiv/1881659/)
+
+Article found but Couldn't summarize 
+KYIV (Reuters) - Ukrainian Deputy Prime Minister Oleksandr Kubrakov said on Monday that protesting Polish drivers had lifted a blockade at a Ukrainian-Polish border crossing and that the first lorries
+
+Mon, 11 Dec 2023 13:15:03 +0000
+### [Delhi excise scam: Court seeks ED’s reply on accused Arun Pillai’s interim bail plea](https://theprint.in/india/delhi-excise-scam-court-seeks-eds-reply-on-accused-arun-pillais-interim-bail-plea/1881658/)
+
+The article discusses a court seeking the Enforcement Directorate’s response on an application by Arun Ramchandra Pillai, a businessman from Hyderabad. He has been arrested in a money laundering case related to an alleged Delhi excise scam and is seeking interim bail on the grounds of his wife’s medical condition. The court has issued notice to the ED and directed it to file its reply by December 15, when the court will hear arguments on the application. The accused is seeking bail to support his wife who needs surgery. The article also mentions allegations of kickbacks and irregularities related to the Delhi excise policy, involving government authorities and liquor traders.
+
+Mon, 11 Dec 2023 13:02:13 +0000
+### [India Skills 2023-2024: National competition aims to showcase diverse talents, elevate skill standards](https://theprint.in/economy/india-skills-2023-2024-national-competition-aims-to-showcase-diverse-talents-elevate-skill-standards/1881654/)
+
+The National Skill Development Corporation (NSDC) under the Ministry of Skill Development and Entrepreneurship (MSDE) is organizing the "India Skills 2023-2024" competition, aiming to celebrate a wide range of skills and provide opportunities for individuals. This event serves as a platform for participants to showcase their talents in various domains and potentially represent India in the WorldSkills Competition in 2024. The competition is open for registration on the Skill India Digital website and includes 61 skills across different fields. It is designed to bridge the skill gap, prepare the youth for the evolving job market, and elevate their competence and productivity to world-class standards. The event, held biennially, is expected to have a significant impact on the skill landscape of the nation.
+
 Mon, 11 Dec 2023 12:32:00 +0000
 ### [Want universities to be strong driver of country’s inclusive development process: Haryana Guv](https://theprint.in/india/want-universities-to-be-strong-driver-of-countrys-inclusive-development-process-haryana-guv/1881576/)
 

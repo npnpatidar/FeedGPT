@@ -1,3 +1,23 @@
+Mon, 11 Dec 2023 18:17:38 +0530
+### [10 best laptops under  ₹60,000 to ensure performance in budget](https://www.livemint.com/technology/gadgets/10-best-laptops-under-rs-60-000-to-ensure-performance-in-budget-11702288552223.html)
+
+The article discusses the best laptops under ₹60,000, providing detailed insights into several laptop models and their specifications. It includes recommendations for different user needs, including gaming, professional use, and content creation.
+
+The article highlights the specific features and specifications of various laptops, offering a comparison to help users make informed decisions. It emphasizes the importance of considering factors such as the processor, RAM size, storage type, display quality, and build durability when purchasing a laptop under ₹60,000. It also includes frequently asked questions about selecting the right laptop and provides guidance on choosing between AMD and Intel processors.
+
+Overall, the article serves as a valuable resource for individuals looking to purchase a laptop within a budget and provides practical advice on how to find the best laptop to meet their specific needs.
+
+Mon, 11 Dec 2023 18:12:35 +0530
+### [Microwaves under  ₹25,000: Top 10 affordable choices](https://www.livemint.com/technology/gadgets/microwaves-under-rs-25-000-top-10-affordable-choices-11702283824774.html)
+
+The article discusses various microwaves available for purchase under ₹25000 along with their features and benefits. It provides an overview of different types of microwaves such as solo, grill, and convection, and suggests steps to consider when choosing a microwave within your budget. Additionally, it includes FAQs related to microwaves under ₹25000 and their maintenance.
+
+The best value for money microwave under the given budget is the Samsung 28L Convection Microwave Oven with Curd Making. It offers a large capacity, convection cooking mode, and hassle-free warranty, making it suitable for various cooking tasks. The best overall product suggested is the IFB 20L Grill Microwave Oven, known for its multi-tasking capabilities and ability to simplify meal preparations.
+
+If you are looking to purchase a microwave under ₹25000, the article suggests considering your cooking needs, types of microwaves, capacity requirements, features and functions, brand reputation, reading reviews, warranty terms, price comparisons, and seeking recommendations before making a purchase.
+
+Please note that the information provided is based on the article's content and recommendations, and you should conduct your own research and consider your specific needs before making a purchase.
+
 Mon, 11 Dec 2023 15:59:26 +0530
 ### [Poco C65 to launch in India on December 15. Expected features, pricing, color options and more](https://www.livemint.com/technology/gadgets/poco-c65-to-launch-in-india-on-december-15-expected-features-pricing-color-options-and-more-11702284554130.html)
 

@@ -1,3 +1,9 @@
+Mon, 11 Dec 2023 18:30:39 +0530
+### [The gap between Kashmiriyat and BHARATIYAT has been bridged](https://www.firstpost.com/opinion/the-gap-between-kashmiriyat-and-bharatiyat-has-been-bridged-13491372.html)
+
+The Supreme Court has ruled in favor of upholding the abrogation of Articles 370 and 35A, cementing the Modi government's decision to end Article 370. This judgment puts an end to the political leverage that certain parties had over these Articles, with the support of the Congress party. The ruling clarifies that the applicability of Article 370 was meant to be temporary until the formulation and adoption of the state's Constitution. It also emphasizes that these Articles held Kashmir back and were not linked to Kashmir's accession to India.
+The ruling paves the way for the restoration of statehood to the union territory of Jammu and Kashmir, and directs the Election Commission of India to conduct elections to the Legislative Assembly by September 30, 2024. Additionally, it emphasizes the need for complete cohesion between Kashmiri identity and Indian identity, setting the stage for the region's progress and growth.
+
 Mon, 11 Dec 2023 17:40:06 +0530
 ### [Hiding behind Article 370, how Nehru pulled a fast one on India with the dehumanising Article 35A](https://www.firstpost.com/opinion/hiding-behind-article-370-how-nehru-pulled-a-fast-one-on-india-with-the-dehumanising-article-35a-13491112.html)
 

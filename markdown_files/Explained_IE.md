@@ -1,3 +1,8 @@
+Mon, 11 Dec 2023 13:02:25 +0000
+### [What was Karan Singh’s Proclamation of 1949, cited by SC to uphold abrogation of Article 370?](https://indianexpress.com/article/explained/explained-history/karan-singh-proclamation-1949-sc-uphold-abrogation-article-370-9063745/)
+
+The Supreme Court upheld the abrogation of Article 370, ruling that Jammu and Kashmir did not retain an element of sovereignty after joining the Union of India. In his judgment, Chief Justice of India D Y Chandrachud referred to a proclamation by Yuvraj Karan Singh in November 1949, reflecting the surrender of J&K's sovereignty to India. The proclamation stated that the Constitution of India would govern the constitutional relationship between J&K and the Union of India, superseding all other constitutional provisions inconsistent with it. Karan Singh later clarified that the proclamation was issued to eliminate ambiguity regarding J&K's integration with India. The Supreme Court's ruling aligns with the Center's argument that the 1949 proclamation surrendered sovereignty to the Indian Constitution.
+
 Mon, 11 Dec 2023 12:20:12 +0000
 ### [Recalling Syama Prasad Mookerjee, fierce Nehru critic who fought for J&K’s integration with India](https://indianexpress.com/article/explained/explained-history/syama-prasad-mookerjee-jammu-kashmir-integration-9063688/)
 

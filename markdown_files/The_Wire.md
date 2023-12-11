@@ -1,3 +1,15 @@
+2023-12-11T18:30:04+05:30
+### [‘No Place Is Safe in Gaza’: Is This the Brutal Climax of the Zionist Settler Colonial Project?](https://thewire.in/world/gaza-brutal-climax-zionist-settler-colonial-project-israel)
+
+No Article text 
+The complete expulsion of Palestinians has long been a goal of Israel's political leaders.
+
+2023-12-11T18:15:46+05:30
+### [Did the Lok Sabha Follow Due Process While Expelling Mahua Moitra From the House?](https://thewire.in/politics/did-the-lok-sabha-follow-due-process-while-expelling-mahua-moitra-from-the-house)
+
+No Article text 
+The ethics committee had no conclusive evidence of a cash trail leading to Mitra. Yet she was not given a chance to respond to the allegations.
+
 2023-12-11T17:59:30+05:30
 ### [Retail Inflation is Now Stable, Union Finance Minister Nirmala Sitharaman Tells Parliament](https://thewire.in/economy/fm-sitharaman-says-retail-inflation-now-stable)
 
