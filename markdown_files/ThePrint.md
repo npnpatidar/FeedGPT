@@ -1,3 +1,102 @@
+Mon, 11 Dec 2023 04:15:14 +0000
+### [Rijiju assures Arunachal people of tech advancements, accurate weather forecast](https://theprint.in/india/rijiju-assures-arunachal-people-of-tech-advancements-accurate-weather-forecast/1880770/)
+
+Article found but Couldn't summarize 
+Itanagar, Dec 11 (PTI) Union Minister Kiren Rijiju has assured the people of Arunachal Pradesh of further technological advancements, including establishing a Doppler radar system in West Kameng district of the northeastern state. Rijiju, the minister of Earth Sciences, inaugurated a permanent seismological observatory at Bomdila, the headquarters of the district, on Sunday and said [&#8230;]
+
+Mon, 11 Dec 2023 04:15:03 +0000
+### [ED summons Jharkhand CM Hemant Soren for questioning in money-laundering case on Tuesday](https://theprint.in/india/ed-summons-jharkhand-cm-hemant-soren-for-questioning-in-money-laundering-case-on-tuesday/1880769/)
+
+Article found but Couldn't summarize 
+Ranchi, Dec 11 (PTI) The Enforcement Directorate (ED) has issued a fresh summons to Jharkhand Chief Minister Hemant Soren for questioning in a money-laundering case linked to an alleged land scam on Tuesday, official sources said. Soren has been asked to depose at the federal agency&#8217;s office here and get his statement recorded under the [&#8230;]
+
+Mon, 11 Dec 2023 04:00:33 +0000
+### [TikTok to buy GoTo’s Indonesia e-commerce business in $1.5 billion deal](https://theprint.in/tech/tiktok-to-buy-gotos-indonesia-e-commerce-business-in-1-5-billion-deal/1880766/)
+
+Article found but Couldn't summarize 
+JAKARTA (Reuters) -TikTok will take a controlling stake in an e-commerce unit of Indonesia's biggest tech firm, PT GoTo Gojek Tokopedia, a partnership that will see the video app invest $1.5 billion
+
+Mon, 11 Dec 2023 04:00:23 +0000
+### [India’s central bank likely sold US dollars to limit rupee’s losses](https://theprint.in/economy/indias-central-bank-likely-sold-us-dollars-to-limit-rupees-losses/1880764/)
+
+Article found but Couldn't summarize 
+MUMBAI (Reuters) - The Reserve Bank of India likely sold U.S. dollars on Monday to curb losses in the rupee, as the currency opened trading near its lifetime low, four traders told Reuters. The rupee
+
+Mon, 11 Dec 2023 04:00:16 +0000
+### [India’s Dr. Reddy’s shares fall on observations from US regulator](https://theprint.in/economy/indias-dr-reddys-shares-fall-on-observations-from-us-regulator/1880763/)
+
+Article found but Couldn't summarize 
+BENGALURU (Reuters) - Shares of Indian drug-maker Dr. Reddy's Laboratories were down 6.5% on Monday after the U.S. Food and Drug Administration issued three observations for the company's plant in
+
+Mon, 11 Dec 2023 04:00:14 +0000
+### [30 electrical meters, car damaged after fire in Thane building](https://theprint.in/india/30-electrical-meters-car-damaged-after-fire-in-thane-building/1880762/)
+
+Article found but Couldn't summarize 
+Thane, Dec 11 (PTI) Thirty electrical meters were destroyed after a fire broke out in the meter box room of a seven-storey building in Maharashtra&#8217;s Thane city in the wee hours of Monday, civic officials said. No person was injured in the incident, Thane Municipal Corporation&#8217;s disaster management cell chief Yasin Tadvi said. The front [&#8230;]
+
+Mon, 11 Dec 2023 04:00:04 +0000
+### [Daily wagers worst affected by suicide, numbers for housewives twice that of farmers — NCRB data](https://theprint.in/india/daily-wagers-worst-affected-by-suicide-numbers-for-housewives-twice-that-of-farmers-ncrb-data/1879616/)
+
+According to the analysis of National Crime Records Bureau (NCRB) data, daily wage earners were the most vulnerable to suicide in the five years leading up to 2022. The number of daily wage earners who died by suicide increased each year during that period. On the other hand, the number of suicide cases among farmers, both cultivators and laborers, remained relatively low compared to other groups. Housewives, self-employed individuals, students, and unemployed people were also affected by suicide, with varying numbers reported each year. It is important to note that if you or someone you know is feeling suicidal or depressed, please reach out to a helpline number in your state for support.
+
+Mon, 11 Dec 2023 04:00:03 +0000
+### [India’s Nifty 50, Sensex open flat after recent rally](https://theprint.in/india/indias-nifty-50-sensex-open-flat-after-recent-rally/1880760/)
+
+Article found but Couldn't summarize 
+BENGALURU (Reuters) -Indian shares opened little changed on Monday after their longest weekly winning streak in three years, while weak economic data from China and easing expectations of a U.S. rate
+
+Mon, 11 Dec 2023 04:00:03 +0000
+### [Important cases listed in the Supreme Court on Monday](https://theprint.in/india/important-cases-listed-in-the-supreme-court-on-monday-4/1880759/)
+
+The Supreme Court has several important cases lined up for Monday, December 11. These include a verdict on the validity of the Centre's decision to abrogate Article 370 of the Constitution. Additionally, the court will hear pleas from various individuals, such as AAP leader Raghav Chadha challenging his indefinite suspension from the Rajya Sabha, AAP MP Sanjay Singh challenging his arrest and remand in a money-laundering case, and NewsClick founder Prabir Purkayastha and Amit Chakravarthy challenging their arrests under UAPA by the Delhi police. Furthermore, the court will hear a plea from Tushar Gandhi, the great grandson of Mahatma Gandhi, regarding a speedy investigation into the slapping incident of a Muslim school student. Lastly, Congress leader Jaya Thakur has moved a plea seeking free sanitary pads for girls studying in government schools from Classes 6 to 12 across the country. This report is sourced from the PTI news service, and ThePrint assumes no responsibility for its content.
+
+Mon, 11 Dec 2023 03:45:19 +0000
+### [Cricket-Teams fume as Big Bash match abandoned due to dangerous pitch](https://theprint.in/sport/cricket-teams-fume-as-big-bash-match-abandoned-due-to-dangerous-pitch/1880754/)
+
+Article found but Couldn't summarize 
+MELBOURNE (Reuters) - Cricket Australia will conduct a "thorough review" into Sunday's abandoned Big Bash League (BBL) match in Geelong after the Melbourne Renegades-Perth Scorchers clash was called
+
+Mon, 11 Dec 2023 03:45:15 +0000
+### [Important cases listed in the Supreme Court on Monday](https://theprint.in/india/important-cases-listed-in-the-supreme-court-on-monday-3/1880753/)
+
+The Supreme Court will make a ruling on the validity of the Indian government's decision to revoke Article 370 of the Constitution. Additionally, the court will hear pleas from AAP leader Raghav Chadha and AAP MP Sanjay Singh challenging their suspensions and arrests respectively. NewsClick founder Prabir Purkayastha and Amit Chakravarthy, head of the human resources department, will also have their arrests challenged. Tushar Gandhi, the great grandson of Mahatma Gandhi, has filed a plea for a speedy investigation into a case where a Muslim school student was slapped by classmates at the behest of a teacher. Lastly, Congress leader Jaya Thakur is seeking directions to provide free sanitary pads to girls studying in government schools. This article summary was auto-generated from PTI news service.
+
+Mon, 11 Dec 2023 03:45:04 +0000
+### [Russian air strike on Kyiv injures two, damages buildings – Ukraine officials](https://theprint.in/world/russian-air-strike-on-kyiv-injures-two-damages-buildings-ukraine-officials/1880752/)
+
+Article found but Couldn't summarize 
+KYIV (Reuters) - Russia launched an overnight air assault on Kyiv, with debris from the shot down weapons that fell onto several districts injuring at least two people and damaging a residential
+
+Mon, 11 Dec 2023 03:45:03 +0000
+### [Derailed wagons of goods train removed from Kasara accident spot; restoration work underway](https://theprint.in/india/derailed-wagons-of-goods-train-removed-from-kasara-accident-spot-restoration-work-underway/1880751/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 11 (PTI) A day after seven wagons of a goods train derailed between Kasara and TGR-3 station near Mumbai on the Central Railway network, the derailed wagons were removed from the accident site, officials said on Monday. Restoration work on the route was underway, Central Railway&#8217;s chief public relations officer Dr Shivraj Manaspure [&#8230;]
+
+Mon, 11 Dec 2023 03:33:25 +0000
+### [Tribal leader, farmer’s son, sports enthusiast — meet Chhattisgarh’s 1st tribal CM Vishnu Deo Sai](https://theprint.in/politics/tribal-leader-farmers-son-sports-enthusiast-meet-chhattisgarhs-1st-tribal-cm-vishnu-deo-sai/1880276/)
+
+Article found but Couldn't summarize 
+As BJP wrested Chhattisgarh from Congress, what played decisive role was its wins in tribal belt. It's decision to choose 'soft-spoken' leader is also aimed at Lok Sabha polls.
+
+Mon, 11 Dec 2023 03:32:22 +0000
+### [Amitabh Bachchan greets fans outside Jalsa with grandson Agastya Nanda, see pics](https://theprint.in/feature/amitabh-bachchan-greets-fans-outside-jalsa-with-grandson-agastya-nanda-see-pics/1880746/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 11 (ANI): Every Sunday megastar Amitabh Bachchan comes out of his house Jalsa to meet and greet his fans. This time he was joined by his grandson Agastya Nanda. In the early hours of Monday, Big B took to X (formerly Twitter) and shared a couple of pics from his fans&#8217; [&#8230;]
+
+Mon, 11 Dec 2023 03:32:02 +0000
+### [Earthquake of magnitude 4.4 jolts Afghanistan’s Fayzabad](https://theprint.in/world/earthquake-of-magnitude-4-4-jolts-afghanistans-fayzabad/1880744/)
+
+Article found but Couldn't summarize 
+Kabul [Afghanistan], December 11 (ANI): An earthquake of magnitude 4.4 on the Richter Scale jolted Afghanistan&#8217;s Fayzabad on Monday morning, the National Center for Seismology (NCS) said. According to the NCS, the earthquake occurred around 08:04:05 (IST) at a depth of 180 kilometres. The quake was located at 151 kilometres South-Southeast (SSE) of Fayzabad. &#8220;Earthquake [&#8230;]
+
+Mon, 11 Dec 2023 03:30:03 +0000
+### [Fake, completely fabricated: MEA on report claiming ‘secret memo’ targeting Sikh separatists](https://theprint.in/india/fake-completely-fabricated-mea-on-report-claiming-secret-memo-targeting-sikh-separatists/1880741/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 11 (PTI) India has described as &#8220;fake&#8221; and &#8220;completely fabricated&#8221; a media report claiming that a &#8220;secret memo&#8221; was issued by New Delhi in April to take &#8220;concrete&#8221; measures against certain Sikh separatists, including Hardeep Singh Nijjar. Ministry of External Affairs (MEA) spokesperson Arindam Bagchi said on Sunday that the report is [&#8230;]
+
 Mon, 11 Dec 2023 03:17:14 +0000
 ### [China Coast Guard provokes Philippinian vessels, personnel; President Marcos directs authorities to conduct missions](https://theprint.in/world/china-coast-guard-provokes-philippinian-vessels-personnel-president-marcos-directs-authorities-to-conduct-missions/1880736/)
 

@@ -1,3 +1,8 @@
+Mon, 11 Dec 2023 03:47:48 +0000
+### [SC verdict on abrogation of Article 370 Explained Live: The arguments in court so far](https://indianexpress.com/article/explained/explained-law/article-370-verdict-supreme-court-explained-live-updates-9061383/)
+
+Article found but Couldn't summarize
+
 Mon, 11 Dec 2023 03:00:40 +0000
 ### [Food versus Fuel: What’s happening with Centre’s ethanol blending scheme](https://indianexpress.com/article/explained/food-versus-fuel-whats-happening-with-centres-ethanol-blending-scheme-9062757/)
 

@@ -1,3 +1,9 @@
+Mon, 11 Dec 2023 09:34:44 +0530
+### [Here’s how the EU plans to target advanced AI-models like ChatGPT with new regulations, laws](https://www.firstpost.com/tech/heres-how-the-eu-plans-to-target-advanced-ai-models-like-chatgpt-with-new-regulations-laws-13488212.html)
+
+Article found but Couldn't summarize 
+Here’s how the EU plans to target advanced AI-models like ChatGPT with new regulations, laws
+
 Fri, 08 Dec 2023 17:41:31 +0530
 ### [Best phones under Rs 60,000 (Dec 2023): OnePlus 11 5G, Apple iPhone 13 to Nothing Phone (2)](https://www.firstpost.com/tech/best-phones-under-rs-60000-december-2023-13482042.html)
 

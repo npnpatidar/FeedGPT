@@ -1,3 +1,9 @@
+Mon, 11 Dec 2023 09:40:59 +0530
+### [WhatsApp to roll out new Channel Alerts feature soon. Check what it is and how to use](https://www.livemint.com/technology/tech-news/whatsapp-to-roll-out-new-channel-alerts-feature-soon-check-what-it-is-and-how-to-use-11702256714929.html)
+
+Article found but Couldn't summarize 
+WhatsApp will soon rollout the new Channel Alerts feature which will allow channel administrators to understand the issues concerning their channels and take corrective measures to address them.
+
 Sun, 10 Dec 2023 22:00:41 +0530
 ### [Columbia University is Ivy League, not an ivory tower: president Minouche Shafik](https://www.livemint.com/technology/columbia-university-is-ivy-league-not-an-ivory-tower-president-minouche-shafik-11702225381429.html)
 
