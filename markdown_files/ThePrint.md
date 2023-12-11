@@ -1,3 +1,122 @@
+Mon, 11 Dec 2023 20:17:13 +0000
+### [War against Hamas will end after Israel achieves its goals, says Defence Minister Gallant](https://theprint.in/world/war-against-hamas-will-end-after-israel-achieves-its-goals-says-defence-minister-gallant/1882193/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], December 12 (ANI): Israeli Defence Minister Yoav Gallant has said that the war against Hamas in Gaza will end after Israel achieves its goals, The Times of Israel reported. He said that the Hamas&#8217; Jabaliya and Shejaiya battalions in the northern Gaza Strip are on the &#8220;verge of being dismantled.&#8221; While addressing [&#8230;]
+
+Mon, 11 Dec 2023 20:17:02 +0000
+### [Israel: New plan approved for revival of Tkuma area near Gaza](https://theprint.in/world/israel-new-plan-approved-for-revival-of-tkuma-area-near-gaza/1882191/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], December 12 (ANI/TPS): The Israeli government approved an outline for a multi-year strategic plan for the renewal and development of the Tkuma (revival) region just to the east of Gaza. The plan has an emphasis on environmental and climate issues and the preservation of nature in the area. The approval came in [&#8230;]
+
+Mon, 11 Dec 2023 20:16:21 +0000
+### [Soccer-Real aim to end Champions League group stage on a high as Kepa starts](https://theprint.in/sport/soccer-real-aim-to-end-champions-league-group-stage-on-a-high-as-kepa-starts/1882189/)
+
+Article found but Couldn't summarize 
+BERLIN (Reuters) - Real Madrid are determined to finish on a high when they visit Union Berlin in their final Champions League Group C clash on Tuesday, coach Carlo Ancelotti said, despite having
+
+Mon, 11 Dec 2023 20:16:09 +0000
+### [EU begin to hash out EU AI Act details starting Tuesday](https://theprint.in/tech/eu-begin-to-hash-out-eu-ai-act-details-starting-tuesday/1882187/)
+
+Article found but Couldn't summarize 
+By Supantha Mukherjee and Foo Yun Chee STOCKHOLM/BRUSSELS (Reuters) - Days after EU countries and lawmakers agreed on a provisional deal on artificial intelligence rules, experts from both sides are
+
+Mon, 11 Dec 2023 20:15:58 +0000
+### [US in talks with Nvidia about AI chip sales to China – Raimondo](https://theprint.in/tech/us-in-talks-with-nvidia-about-ai-chip-sales-to-china-raimondo/1882185/)
+
+Article found but Couldn't summarize 
+By David Shepardson NASHUA, New Hampshire (Reuters) - The Biden administration is in discussions with Nvidia Corp about permissible sales of artificial intelligence chips to China but emphasized that
+
+Mon, 11 Dec 2023 20:15:40 +0000
+### [French lower house rejects Macron’s immigration bill](https://theprint.in/world/french-lower-house-rejects-macrons-immigration-bill/1882183/)
+
+Article found but Couldn't summarize 
+By Michel Rose and Elizabeth Pineau PARIS (Reuters) - French lawmakers sent the government's immigration bill back to the drawing board on Monday in a surprise move that cut short debates at the lower
+
+Mon, 11 Dec 2023 20:15:28 +0000
+### [Russian Deputy PM Novak to visit China this week](https://theprint.in/world/russian-deputy-pm-novak-to-visit-china-this-week/1882181/)
+
+As GPT-3.5, I can provide a summary of the article you shared. Russian Deputy Prime Minister Alexander Novak, who is President Vladimir Putin's top oil and gas representative, will lead a delegation of up to 20 officials to China. The purpose of the visit is to participate in an intergovernmental commission on energy. The delegation will be in China from December 12 to 16. China has become one of Russia's main trade partners, along with India, and they purchase a significant amount of Russian oil exports. This shift in trade occurred after Russia faced sanctions following the conflict in Ukraine. Additionally, Russia aims to increase its natural gas supplies to China, with plans to reach around 100 billion cubic meters per year by 2030. Moscow has been engaged in discussions with China regarding the Power of Siberia 2 pipeline, which would transport Russian natural gas from northern Siberia to China via Mongolia. Please note that this summary is generated based on the provided text and may not include all the details of the original article.
+
+Mon, 11 Dec 2023 20:15:16 +0000
+### [Zelenskiy, in Washington, urges Congress not to play into Putin’s hands](https://theprint.in/world/zelenskiy-in-washington-urges-congress-not-to-play-into-putins-hands/1882179/)
+
+Article found but Couldn't summarize 
+By Phil Stewart and Idrees Ali WASHINGTON (Reuters) - Ukrainian President Volodymyr Zelenskiy told a U.S. military audience on Monday that he hoped he can still count on the United States and urged
+
+Mon, 11 Dec 2023 20:15:05 +0000
+### [Mexico president to push forward anti-vape bill](https://theprint.in/world/mexico-president-to-push-forward-anti-vape-bill/1882177/)
+
+Article found but Couldn't summarize 
+MEXICO CITY (Reuters) - Mexican President Andres Manuel Lopez Obrador plans to present a law banning e-cigarettes and vapes before he leaves office in 2024, he said on Monday, after the supreme court
+
+Mon, 11 Dec 2023 19:32:01 +0000
+### [Parliament votes in favour of Donald Tusk becoming Poland’s PM](https://theprint.in/world/parliament-votes-in-favour-of-donald-tusk-becoming-polands-pm/1882175/)
+
+Article found but Couldn't summarize 
+Warsaw [Poland], December 12 (ANI): Members of the Polish Parliament backed Donald Tusk to become Poland&#8217;s prime minister after current leader Mateusz Morawiecki lost a confidence vote in the country&#8217;s parliament on Monday, Politico reported. The vote was 248 in favour and 201 against, clearing the way for his return nearly two months after a [&#8230;]
+
+Mon, 11 Dec 2023 19:30:03 +0000
+### [Delhi: Woman threatens to jump off elevated metro track, rescued](https://theprint.in/india/delhi-woman-threatens-to-jump-off-elevated-metro-track-rescued/1882174/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 11 (PTI) Drama unfolded at central Delhi&#8217;s Shadipur metro station on Monday evening when a woman walked down the elevated metro track and threatened to commit suicide by jumping on the road, police said. The woman was successfully rescued by security personnel within minutes and handed over to her family, they said. [&#8230;]
+
+Mon, 11 Dec 2023 19:17:01 +0000
+### [Peshawar Court bars ECP from giving verdict on Pakistan Tehreek-e-Insaf’s intra-party polls](https://theprint.in/world/peshawar-court-bars-ecp-from-giving-verdict-on-pakistan-tehreek-e-insafs-intra-party-polls/1882172/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 12 (ANI): Peshawar High Court (PHC) on Monday barred the Election Commission of Pakistan (ECP) from giving a verdict on intra-party polls of the Pakistan Tehreek-e-Insaf (PTI), Pakistan-based ARY News reported. According to details, a two-member bench of the Peshawar High Court &#8211; Justice SM Ateeq Shah and Justice Shakeel Shah heard [&#8230;]
+
+Mon, 11 Dec 2023 19:16:04 +0000
+### [Germany cannot support COP28 draft deal, foreign minister says](https://theprint.in/environment/germany-cannot-support-cop28-draft-deal-foreign-minister-says/1882170/)
+
+Article found but Couldn't summarize 
+FRANKFURT (Reuters) -Germany's foreign minister Annalena Baerbock said on Monday that the draft deal at COP28 climate summit was clearly insufficient and disappointing. Speaking at the German Climate
+
+Mon, 11 Dec 2023 19:15:51 +0000
+### [White House ‘concerned’ at reports Israel used white phosphorus in Lebanon attack](https://theprint.in/world/white-house-concerned-at-reports-israel-used-white-phosphorus-in-lebanon-attack/1882168/)
+
+Article found but Couldn't summarize 
+ABOARD AIR FORCE ONE (Reuters) -The United States is concerned about reports Israel used U.S.-supplied white phosphorus munitions in an October attack in southern Lebanon, White House spokesperson
+
+Mon, 11 Dec 2023 19:15:43 +0000
+### [Trump increases polling lead in Iowa ahead of first Republican contest](https://theprint.in/world/trump-increases-polling-lead-in-iowa-ahead-of-first-republican-contest/1882166/)
+
+Article found but Couldn't summarize 
+By Tim Reid (Reuters) - Donald Trump has a huge and expanded lead over his rivals for the Republican presidential nomination in a new poll in Iowa, the state that kicks off the party's nominating
+
+Mon, 11 Dec 2023 19:15:37 +0000
+### [US imposes visa restrictions on nearly 300 Guatemalans over ‘anti-democratic actions’](https://theprint.in/world/us-imposes-visa-restrictions-on-nearly-300-guatemalans-over-anti-democratic-actions/1882165/)
+
+Article found but Couldn't summarize 
+WASHINGTON (Reuters) - The United States on Monday took steps to impose visa restrictions on nearly 300 Guatemalan nationals, including 100 members of the congress, accusing them of undermining
+
+Mon, 11 Dec 2023 19:15:29 +0000
+### [EU to propose sanctions on violent Israeli settlers in West Bank](https://theprint.in/world/eu-to-propose-sanctions-on-violent-israeli-settlers-in-west-bank/1882163/)
+
+Article found but Couldn't summarize 
+By Andrew Gray and David Latona BRUSSELS (Reuters) -European Union foreign policy chief Josep Borrell said on Monday he would propose sanctions against Jewish settlers responsible for violence against
+
+Mon, 11 Dec 2023 19:15:21 +0000
+### [Israel has no intention on staying permanently in Gaza, defence minister says](https://theprint.in/world/israel-has-no-intention-on-staying-permanently-in-gaza-defence-minister-says/1882161/)
+
+Article found but Couldn't summarize 
+JERUSALEM (Reuters) - Israeli Defence Minister Yoav Gallant said on Monday that Israel had no intention of staying permanently in the Gaza Strip and that it was open to discussing alternatives about
+
+Mon, 11 Dec 2023 19:15:14 +0000
+### [US puts sanctions on two former Afghan officials for corruption](https://theprint.in/world/us-puts-sanctions-on-two-former-afghan-officials-for-corruption/1882160/)
+
+Article found but Couldn't summarize 
+By Arshad Mohammed and Daphne Psaledakis WASHINGTON (Reuters) - The United States said on Monday it put sanctions on two former Afghan officials and 44 related entities for a corruption scheme in
+
+Mon, 11 Dec 2023 19:15:04 +0000
+### [Push to mobilise turnout as Egyptians vote for president](https://theprint.in/world/push-to-mobilise-turnout-as-egyptians-vote-for-president/1882158/)
+
+Article found but Couldn't summarize 
+By Farah Saafan and Amina Ismail SUEZ, Egypt (Reuters) -Egyptians, some arriving on buses or stationed waving national flags outside polling stations, voted on Monday in the second of three days in a
+
 Mon, 11 Dec 2023 19:00:13 +0000
 ### [DDA housing scheme: EWS, LIG flats in Dwarka Sec 14 sold out on day 1 of booking](https://theprint.in/india/dda-housing-scheme-ews-lig-flats-in-dwarka-sec-14-sold-out-on-day-1-of-booking/1882154/)
 
