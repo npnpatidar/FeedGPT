@@ -1,3 +1,27 @@
+Tue, 12 Dec 2023 21:44:13 +0530
+### [Global discussions on AI regulation must not miss the Global South's interests](https://www.livemint.com/opinion/online-views/global-discussions-on-ai-regulation-must-not-miss-the-global-souths-interests-11702395442627.html)
+
+Article found but Couldn't summarize 
+While countries of the Global North worry about the risks of this new technology from a place of privilege at the top of the economic food chain; for countries of the Global South, AI represents an opportunity to hasten development and enhance their efforts to pull their populations out of poverty.
+
+Tue, 12 Dec 2023 21:37:45 +0530
+### [Central banks should resolve to adopt a more humble approach to central banking](https://www.livemint.com/opinion/online-views/central-banks-should-resolve-to-adopt-a-more-humble-approach-to-central-banking-11702384415742.html)
+
+Article found but Couldn't summarize 
+Rich-economy central bankers need to reassess where they went wrong and learn from their emerging-market counterparts who framed better policy responses.
+
+Tue, 12 Dec 2023 21:35:23 +0530
+### [International law is failing displaced Gazans and it's time to act](https://www.livemint.com/opinion/online-views/international-law-is-failing-displaced-gazans-and-its-time-to-act-11702384516334.html)
+
+Article found but Couldn't summarize 
+About 80% of the Gazan population has been displaced by the ongoing war. It’s a moral imperative to alleviate the sufferings of Gaza’s people.
+
+Tue, 12 Dec 2023 21:31:46 +0530
+### [Public goods aid poverty reduction but it needs sustained economic growth too](https://www.livemint.com/opinion/online-views/public-goods-aid-poverty-reduction-but-it-needs-sustained-economic-growth-too-11702384612559.html)
+
+Article found but Couldn't summarize 
+While the Great Indian Poverty debate has been animated by welfare data, it doesn’t alter our main aim of expanding India’s economy.
+
 Tue, 12 Dec 2023 15:42:31 +0530
 ### [Women are losing out to men in India’s jobless growth](https://www.livemint.com/opinion/online-views/women-are-losing-out-to-men-in-india-s-jobless-growth-11702375534773.html)
 

@@ -1,3 +1,15 @@
+Tue, 12 Dec 2023 21:40:10 +0530
+### [A brief history of the term ‘Urbicide’](https://www.thehindu.com/news/international/a-brief-history-of-the-term-urbicide/article67576893.ece)
+
+Article found but Couldn't summarize 
+Activists say Israel’s attack on hospitals, bakeries and schools counts as urbicide — a premeditated destruction of cities.
+
+Tue, 12 Dec 2023 21:27:47 +0530
+### [Supreme Court’s verdict upholding the abrogation of Article 370 | Explained](https://www.thehindu.com/news/national/supreme-courts-verdict-abrogation-of-article-370-explained/article67626973.ece)
+
+Article found but Couldn't summarize 
+The Hindu decodes the verdict, the key issues involved in the challenge, and its impact on Centre-State relations
+
 Tue, 12 Dec 2023 10:00:00 +0530
 ### [The limitations of CCS and CDR and their grip on our future climate | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/carbon-capture-sequestration-science-limitations-ipcc-explained/article67627040.ece)
 

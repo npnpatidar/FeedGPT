@@ -1,3 +1,122 @@
+Tue, 12 Dec 2023 16:17:11 +0000
+### [Olympics-Paris 2024 will ‘welcome’ neutral Russia and Belarus athletes – Estanguet](https://theprint.in/sport/olympics-paris-2024-will-welcome-neutral-russia-and-belarus-athletes-estanguet/1883403/)
+
+As GPT-3.5, I can summarize the article for you. The Paris 2024 Olympics will allow neutral Russian and Belarusian athletes to participate in the event next year. These athletes can compete as individual neutral athletes without flags, emblems, or anthems. The decision was made by the International Olympic Committee (IOC). The head of the Paris 2024 organizing committee, Tony Estanguet, welcomed and respected this decision. It is important to note that no Russian or Belarusian government or state officials will be invited or accredited for Paris 2024. Athletes who actively support the war in Ukraine or are contracted to the Russian or Belarusian military are not eligible to participate. This information is based on a report from the Reuters news service.
+
+Tue, 12 Dec 2023 16:17:03 +0000
+### [Soccer-Premier League clubs agree five-year limit on transfer fee amortisation](https://theprint.in/sport/soccer-premier-league-clubs-agree-five-year-limit-on-transfer-fee-amortisation/1883402/)
+
+Article found but Couldn't summarize 
+(Reuters) -Premier League clubs have voted to limit the period over which a player's transfer fee can be spread in their accounts to five years, the league announced on Tuesday. Previously, clubs
+
+Tue, 12 Dec 2023 16:16:49 +0000
+### [Italy fines YouTube, Twitch for allegedly breaching gamble ads ban](https://theprint.in/tech/italy-fines-youtube-twitch-for-allegedly-breaching-gamble-ads-ban/1883400/)
+
+Article found but Couldn't summarize 
+MILAN (Reuters) - Italy's communications watchdog has fined Alphabet Inc's YouTube and Amazon's Twitch for allegedly breaching rules which ban gambling advertising in the country. Youtube and Twitch
+
+Tue, 12 Dec 2023 16:16:34 +0000
+### [As fossil fuel rift delays COP28, Arab energy leaders say oil here to stay](https://theprint.in/environment/as-fossil-fuel-rift-delays-cop28-arab-energy-leaders-say-oil-here-to-stay/1883398/)
+
+Article found but Couldn't summarize 
+By Yousef Saba DOHA (Reuters) - Oil and gas will be "pillars of global energy for many decades to come," the closing statement of a meeting of Arab energy ministers said on Tuesday, as the issue of
+
+Tue, 12 Dec 2023 16:16:21 +0000
+### [Miss Universe franchise owner in Nicaragua to retire after government accusations](https://theprint.in/entertainment/miss-universe-franchise-owner-in-nicaragua-to-retire-after-government-accusations/1883396/)
+
+Article found but Couldn't summarize 
+(Reuters) - The owner of the Miss Universe franchise in Nicaragua is retiring from her role with the beauty contest, she announced on social media, days after she was charged alongside her husband and
+
+Tue, 12 Dec 2023 16:16:07 +0000
+### [Factbox-Major attacks in Pakistan targeting security forces](https://theprint.in/world/factbox-major-attacks-in-pakistan-targeting-security-forces/1883394/)
+
+Article found but Couldn't summarize 
+(Reuters) - A six-man suicide squad drove an explosive-laden truck into a military camp in northwest Pakistan on Tuesday, killing at least 23 soldiers, in the latest attack on security forces in the
+
+Tue, 12 Dec 2023 16:15:56 +0000
+### [Iranian foreign minister says Israel, U.S. cannot wipe out Hamas](https://theprint.in/world/iranian-foreign-minister-says-israel-u-s-cannot-wipe-out-hamas/1883392/)
+
+Article found but Couldn't summarize 
+GENEVA (Reuters) - Iranian Foreign Minister Hossein Amirabdollahian said on Tuesday that Israel and the United States will never be able to wipe out Hamas and that Israel could only secure the
+
+Tue, 12 Dec 2023 16:15:49 +0000
+### [Netherlands raises terrorism threat level to ‘substantial’](https://theprint.in/world/netherlands-raises-terrorism-threat-level-to-substantial/1883391/)
+
+Article found but Couldn't summarize 
+AMSTERDAM (Reuters) -The likelihood of a terrorist attack in the Netherlands has increased in recent months, its anti-terrorism agency said on Tuesday as it raised its threat level for the first time
+
+Tue, 12 Dec 2023 16:15:43 +0000
+### [3 killed in road accident in UP](https://theprint.in/india/3-killed-in-road-accident-in-up-2/1883389/)
+
+Article found but Couldn't summarize 
+Bahraich (UP), Dec 12 (PTI) Three people, including a policeman and his two-year-old son, were killed when their car rammed into a stationary tractor-trolley on the Lucknow-Bahraich highway here, police said on Tuesday. The accident took place on Monday night when Suresh Tyagi (50), a head constable, was returning to Bahraich with his family, Additional [&#8230;]
+
+Tue, 12 Dec 2023 16:15:37 +0000
+### [Netanyahu says Israel, U.S. differ about post-war Gaza rule](https://theprint.in/world/netanyahu-says-israel-u-s-differ-about-post-war-gaza-rule/1883388/)
+
+Article found but Couldn't summarize 
+JERUSALEM (Reuters) - Israel enjoys U.S. support for its goals of destroying Hamas and recovering hostages held by the Palestinian militants, but the allies differ about what might follow the Gaza war
+
+Tue, 12 Dec 2023 16:15:30 +0000
+### [International Railway Convention focuses on modern command, control signalling systems](https://theprint.in/india/international-railway-convention-focuses-on-modern-command-control-signalling-systems/1883386/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 12 (PTI) The ongoing International Railway Convention at the Manekshaw Centre here is focussing on the digital transformation of Railways, an important part of infrastructure modernisation, an official statement said on Tuesday. The three-day convention and exhibition was inaugurated on Monday and is being organised by two public sector undertakings of the [&#8230;]
+
+Tue, 12 Dec 2023 16:15:27 +0000
+### [German prosecutors charge 27 over far-right coup plot](https://theprint.in/world/german-prosecutors-charge-27-over-far-right-coup-plot/1883385/)
+
+Article found but Couldn't summarize 
+BERLIN (Reuters) - German prosecutors have charged a total of 27 people with supporting a terrorist organisation and preparing an act of high treason just over a year after members of a far-right
+
+Tue, 12 Dec 2023 16:15:16 +0000
+### [New-born baby stuck in Odisha bore well; rescue operation continues: official](https://theprint.in/india/new-born-baby-stuck-in-odisha-bore-well-rescue-operation-continues-official/1883383/)
+
+Article found but Couldn't summarize 
+Bhubaneswar/ Sambalpur (Odisha), Dec 12 (PTI) An infant was found stuck in an abandoned bore well in Odisha’s Sambalpur district on Tuesday evening, as the state government launched a rescue operation, officials said. Six hours passed after the baby was spotted in the around 20-foot-deep bore well at Laripali village in Rengali area and oxygen [&#8230;]
+
+Tue, 12 Dec 2023 16:15:15 +0000
+### [Nearly 50 million facing hunger in West, Central Africa as conflict spreads](https://theprint.in/world/nearly-50-million-facing-hunger-in-west-central-africa-as-conflict-spreads/1883382/)
+
+Article found but Couldn't summarize 
+DAKAR (Reuters) - A record 49.5 million people are expected to go hungry in West and Central Africa next year due to a combination of conflict, climate change and high food prices, the United Nations
+
+Tue, 12 Dec 2023 16:15:06 +0000
+### [Yemen’s Houthis claim missile attack on Norwegian tanker in tense Middle East](https://theprint.in/world/yemens-houthis-claim-missile-attack-on-norwegian-tanker-in-tense-middle-east/1883381/)
+
+Article found but Couldn't summarize 
+By Nadine Awadalla, Terje Solsvik and Phil Stewart DUBAI/OSLO (Reuters) -Yemen's Houthis said on Tuesday they hit a Norwegian commercial tanker with a missile in their latest protest against Israel's
+
+Tue, 12 Dec 2023 16:15:03 +0000
+### [Unhappy with minister’s reply, opposition parties walk out of Rajya Sabha over Bill to appoint CEC, ECs](https://theprint.in/india/unhappy-with-ministers-reply-opposition-parties-walk-out-of-rajya-sabha-over-bill-to-appoint-cec-ecs/1883380/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 12 (PTI) Unhappy with the Union minister&#8217;s reply to the discussion on the bill regulating the appointment of CEC and election commissioners, leaders of several opposition parties on Tuesday walked out of Rajya Sabha in protest, alleging the government wanted to control the poll panel. They said that Law Minister Arjun Ram [&#8230;]
+
+Tue, 12 Dec 2023 16:06:31 +0000
+### [FBI director visits NIA, discusses ‘criminal-terrorist nexus, probe into attack on Indian consulate’](https://theprint.in/india/fbi-director-visits-nia-discusses-criminal-terrorist-nexus-probe-into-attack-on-indian-consulate/1883279/)
+
+Article found but Couldn't summarize 
+Planned ‘in advance’, FBI chief Christopher Wray’s two-day visit to India comes under shadow of Pannun controversy. He had met CBI head a day earlier.
+
+Tue, 12 Dec 2023 16:01:21 +0000
+### [‘Modi Ji’s Guarantee Van’ carrier of security, prosperity, happiness: UP CM Adityanath](https://theprint.in/india/modi-jis-guarantee-van-carrier-of-security-prosperity-happiness-up-cm-adityanath/1883376/)
+
+Article found but Couldn't summarize 
+Lucknow, Dec 12 (PTI) Uttar Pradesh Chief Minister Yogi Adityanath Tuesday said the &#8216;Modi Ji&#8217;s Guarantee Van&#8217;, which is reaching every village and city under the &#8216;Viksit Bharat Sankalp Yatra&#8217;, as the carrier of security, prosperity and happiness in the life of every citizen. Interacting with people online under the &#8216;Viksit Bharat Sankalp Yatra&#8217;, he [&#8230;]
+
+Tue, 12 Dec 2023 16:01:09 +0000
+### [Himachal: Cabinet expansion ‘fails’ to resolve regional imbalance](https://theprint.in/india/himachal-cabinet-expansion-fails-to-resolve-regional-imbalance/1883375/)
+
+Article found but Couldn't summarize 
+Shimla, Dec 12 (PTI) The induction of two new ministers in the Himachal Pradesh Cabinet has increased the representation of Brahmin and Schedule Caste communities, but it seems the Congress government has failed to give adequate representation to various regions in the state. For instance, Shimla district with seven Congress MLAs still has lion&#8217;s share [&#8230;]
+
+Tue, 12 Dec 2023 16:00:58 +0000
+### [Gurugram: Woman arrested for torturing domestic help](https://theprint.in/india/gurugram-woman-arrested-for-torturing-domestic-help/1883374/)
+
+Article found but Couldn't summarize 
+Gurugram, Dec 13 (PTI) Shashi Sharma, the woman accused of torturing her domestic help, was arrested on Tuesday three days after registration of the FIR, police said. She was, however, let off on bail after she joined the investigation, they said. On the other hand, the victim&#8217;s actual age is found to be 17 years [&#8230;]
+
 Tue, 12 Dec 2023 15:16:11 +0000
 ### [6 arrested in Delhi for robbing UP couple of Rs 50 lakh](https://theprint.in/india/6-arrested-in-delhi-for-robbing-up-couple-of-rs-50-lakh/1883313/)
 

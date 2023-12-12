@@ -1,3 +1,8 @@
+Tue, 12 Dec 2023 15:38:40 +0000
+### [Express View: BJP’s three new faces and the 2024 strategy](https://indianexpress.com/article/opinion/editorials/express-view-bjps-three-new-faces-and-the-2024-strategy-9065469/)
+
+Article found but Couldn't summarize
+
 Tue, 12 Dec 2023 12:16:20 +0000
 ### [C Raja Mohan writes: A chance for India to permanently end external meddling in Kashmir](https://indianexpress.com/article/opinion/columns/a-chance-for-india-to-permanently-end-external-meddling-in-kashmir-9065176/)
 

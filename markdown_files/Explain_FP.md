@@ -1,3 +1,9 @@
+Tue, 12 Dec 2023 20:58:35 +0530
+### [Why has BJP picked new CM faces in Hindi heartland?](https://www.firstpost.com/explainers/why-has-bjp-picked-new-cm-faces-in-hindi-heartland-13496732.html)
+
+Article found but Couldn't summarize 
+Why has BJP picked new CM faces in Hindi heartland?
+
 Tue, 12 Dec 2023 18:45:32 +0530
 ### [Why billionaires from across the world are moving businesses to Abu Dhabi](https://www.firstpost.com/explainers/why-billionaires-from-across-the-world-are-moving-businesses-to-abu-dhabi-13495322.html)
 

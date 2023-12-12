@@ -1,3 +1,9 @@
+2023-12-12T21:25:00+05:30
+### [Watch | Ajit Doval Would Have Known of Indian Official's Alleged Plot to Kill Pannun: Former RAW Head](https://thewire.in/video/watch-ajit-doval-pannun-plot-as-dulat-karan-thapar)
+
+No Article text 
+In an interview with Karan Thapar, A.S. Dulat discusses the US federal prosecutor's allegation that an 'identified Indian government employee' directed the murder plot of a US citizen on American soil.
+
 2023-12-12T19:59:18+05:30
 ### ['Joram': No Country for the Downtrodden in a System Heavily Loaded Towards the Rich and Powerful](https://thewire.in/film/joram-no-country-for-the-downtrodden-in-a-system-heavily-loaded-towards-the-rich-and-powerful)
 
