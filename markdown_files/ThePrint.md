@@ -1,3 +1,33 @@
+Tue, 12 Dec 2023 23:00:03 +0000
+### [India votes in favour of UNGA draft resolution demanding immediate ceasefire in Gaza](https://theprint.in/world/india-votes-in-favour-of-unga-draft-resolution-demanding-immediate-ceasefire-in-gaza/1883630/)
+
+Article found but Couldn't summarize 
+United Nations, Dec 13 (PTI) India voted in favour of a draft resolution in the UN General Assembly that demanded an immediate humanitarian ceasefire in the Israel-Hamas conflict as well as the unconditional release of all hostages. The 193-member UN General Assembly adopted the draft resolution, introduced by Egypt, at an Emergency Special Session here [&#8230;]
+
+Tue, 12 Dec 2023 22:15:48 +0000
+### [Soccer-Arsenal’s Champions League return meets with Arteta’s approval](https://theprint.in/sport/soccer-arsenals-champions-league-return-meets-with-artetas-approval/1883628/)
+
+Article found but Couldn't summarize 
+EINDHOVEN, Netherlands (Reuters) - Arsenal manager Mikel Arteta described their return to the Champions League as very positive after they wrapped up their Group B campaign on Tuesday with a 1-1 draw
+
+Tue, 12 Dec 2023 22:15:27 +0000
+### [Wall St closes higher ahead of Fed; crude tumbles](https://theprint.in/economy/wall-st-closes-higher-ahead-of-fed-crude-tumbles/1883626/)
+
+Article found but Couldn't summarize 
+By Stephen Culp NEW YORK (Reuters) -U.S. stocks advanced Tuesday and the dollar dipped after a report showed sticky U.S. inflation meandering lower as the Federal Reserve convened to assess policy and
+
+Tue, 12 Dec 2023 22:15:16 +0000
+### [Poland’s Donald Tusk wins confidence vote, sets pro-EU path](https://theprint.in/world/polands-donald-tusk-wins-confidence-vote-sets-pro-eu-path/1883624/)
+
+Article found but Couldn't summarize 
+By Anna Koper WARSAW (Reuters) - Polish prime minister Donald Tusk's government won a vote of confidence in parliament on Tuesday, as he set out a pro-European Union vision for Poland that marks
+
+Tue, 12 Dec 2023 22:15:03 +0000
+### [U.N. calls for immediate ceasefire in Gaza, Biden warns Israel is losing support](https://theprint.in/world/u-n-calls-for-immediate-ceasefire-in-gaza-biden-warns-israel-is-losing-support/1883622/)
+
+Article found but Couldn't summarize 
+By Nidal al-Mughrabi and Bassam Masoud CAIRO/GAZA (Reuters) -The United Nations on Tuesday demanded an immediate humanitarian ceasefire in the Gaza Strip as U.S. President Joe Biden warned Israel it
+
 Tue, 12 Dec 2023 22:00:03 +0000
 ### [UK PM Sunak survives crunch vote on controversial Rwanda policy](https://theprint.in/world/uk-pm-sunak-survives-crunch-vote-on-controversial-rwanda-policy/1883621/)
 
