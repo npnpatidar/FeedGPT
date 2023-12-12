@@ -5,6 +5,15 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Tech_Mint.xml</link>
 		<description>Tech Mint</description>
 		<item>
+			<title>Apple releases iOS 17.2 upgrade with Journal app, Spatial recording and more</title>
+			<link>https://www.livemint.com/technology/tech-news/apple-releases-ios-17-2-upgrade-with-journal-app-spacial-recording-and-more-11702345633183.html</link>
+			<description>Apple has released the iOS 17.2 update for iPhone users, introducing the long-awaited Journal app, which focuses on gratitude journaling with scheduled notifications and end-to-end encryption for privacy protection. Additionally, the update includes the new Spatial recording feature for video capture, Action button customizations for language translation, and major updates to the Messages app, such as the 'catch up arrow' for missed conversations and Contact Key verification for enhanced security, particularly for individuals facing digital threats like human rights activists, government officials, or journalists.</description>
+			<pubDate>Tue, 12 Dec 2023 08:16:45 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://www.livemint.com/lm-img/img/2023/12/12/1600x900/ios_17_1685986638198_1702348948866.png"></media:thumbnail>
+			<media:content url="https://www.livemint.com/lm-img/img/2023/12/12/1600x900/ios_17_1685986638198_1702348948866.png" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Netflix down for thousands of users due to ‘unexpected technical issues’</title>
 			<link>https://www.livemint.com/technology/tech-news/netflix-down-for-thousands-of-users-due-to-unexpected-technical-issues-11702342276352.html</link>
 			<description>Article found but Couldn't summarize 

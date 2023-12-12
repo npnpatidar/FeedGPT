@@ -1,3 +1,8 @@
+Tue, 12 Dec 2023 08:16:45 +0530
+### [Apple releases iOS 17.2 upgrade with Journal app, Spatial recording and more](https://www.livemint.com/technology/tech-news/apple-releases-ios-17-2-upgrade-with-journal-app-spacial-recording-and-more-11702345633183.html)
+
+Apple has released the iOS 17.2 update for iPhone users, introducing the long-awaited Journal app, which focuses on gratitude journaling with scheduled notifications and end-to-end encryption for privacy protection. Additionally, the update includes the new Spatial recording feature for video capture, Action button customizations for language translation, and major updates to the Messages app, such as the 'catch up arrow' for missed conversations and Contact Key verification for enhanced security, particularly for individuals facing digital threats like human rights activists, government officials, or journalists.
+
 Tue, 12 Dec 2023 06:30:28 +0530
 ### [Netflix down for thousands of users due to ‘unexpected technical issues’](https://www.livemint.com/technology/tech-news/netflix-down-for-thousands-of-users-due-to-unexpected-technical-issues-11702342276352.html)
 

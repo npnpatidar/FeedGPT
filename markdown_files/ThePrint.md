@@ -1,3 +1,43 @@
+Tue, 12 Dec 2023 03:02:13 +0000
+### [Baloch National Movement reiterates call for freedom on International Human Rights Day](https://theprint.in/world/baloch-national-movement-reiterates-call-for-freedom-on-international-human-rights-day/1882319/)
+
+The article describes a seminar held by the Baloch National Movement in Amsterdam, Netherlands, to highlight the ongoing crisis in Balochistan and call for freedom from what they consider to be an illegal occupation. The seminar was attended by members of the Baloch National Movement, the Baloch community, and other human rights activists. The chairman of the Baloch National Movement, Naseem Baloch, emphasized the struggle for freedom and sovereignty, citing inhuman treatment of the Baloch people for many decades. The article also includes statements from various speakers who highlighted human rights violations and urged global awareness and support for the Balochistan conflict.
+
+Tue, 12 Dec 2023 03:02:02 +0000
+### [“Eternal garden of Eden”: Randeep Hooda shares loved-up pics with wife Lin Laisharm from wedding reception](https://theprint.in/feature/eternal-garden-of-eden-randeep-hooda-shares-loved-up-pics-with-wife-lin-laisharm-from-wedding-reception/1882317/)
+
+Actor Randeep Hooda recently shared loved-up pictures with his wife, Lin Laisharm, from their wedding reception. The couple exchanged vows on November 29 in Manipur, in a traditional Meitei ceremony. Randeep was seen wearing a white shawl, while Lin wore a Potloi, a cylindrical skirt adorned with satin, velvet, gems, and glitter. They've been active on social media, and earlier this Diwali, they shared cheerful photos. Randeep seemingly made his relationship Instagram official with Lin in October 2022. The wedding reception was attended by several members of the film industry, including notable personalities like Imtiaz Ali, Naseeruddin Shah, Ratna Pathak, and Jackie Shroff.
+
+Tue, 12 Dec 2023 03:00:02 +0000
+### [Rajasthan BJP legislature party meet at 4 pm, suspense over CM to end](https://theprint.in/india/rajasthan-bjp-legislature-party-meet-at-4-pm-suspense-over-cm-to-end/1882316/)
+
+Article found but Couldn't summarize 
+Jaipur, Dec 12 (PTI) The suspense over who will be the new chief minister of Rajasthan is likely to end Tuesday evening with a BJP Legislature Party meeting scheduled to be held at 4 pm. BJP state general secretary and MLA Bhajanlal Sharma said the meeting will take place at the party&#8217;s state headquarters in [&#8230;]
+
+Tue, 12 Dec 2023 02:45:47 +0000
+### [Soccer-Messi v Ronaldo – Inter Miami to take on Al-Nassr in Saudi Arabia](https://theprint.in/sport/soccer-messi-v-ronaldo-inter-miami-to-take-on-al-nassr-in-saudi-arabia/1882311/)
+
+Lionel Messi’s Inter Miami will play two matches in Saudi Arabia early next year, including one against Cristiano Ronaldo's club Al-Nassr, as part of the Riyadh Season Cup, a three-team round-robin tournament. The matches are scheduled for Jan. 29 against Al-Hilal and Feb. 1 against Al-Nassr at the Kingdom Arena in Riyadh. This tour is part of the team's first international tour, which will also include stops in El Salvador and Hong Kong. The tournament is seen as a major opportunity to create lasting relationships with passionate fans and to connect with new supporters in Saudi Arabia.
+
+Tue, 12 Dec 2023 02:45:28 +0000
+### [Cruise missile from Yemen strikes tanker ship: US officials](https://theprint.in/world/cruise-missile-from-yemen-strikes-tanker-ship-us-officials/1882310/)
+
+Article found but Couldn't summarize 
+WASHINGTON (Reuters) - A land-based cruise missile launched from Houthi-controlled Yemen has struck a commercial tanker vessel, causing a fire and damage but no casualties, two U.S. defenses officials
+
+Tue, 12 Dec 2023 02:45:17 +0000
+### [UKMTO flags report of vessel ordered to alter course by ‘Yemeni navy’](https://theprint.in/world/ukmto-flags-report-of-vessel-ordered-to-alter-course-by-yemeni-navy/1882309/)
+
+Article found but Couldn't summarize 
+CAIRO (Reuters) - The United Kingdom Maritime Trade Operations (UKMTO) agency has received a report of an entity declaring itself to be the Yemeni navy ordering a vessel to alter course to an
+
+Tue, 12 Dec 2023 02:45:03 +0000
+### [Indian shares set to rise ahead of inflation data, Fed policy](https://theprint.in/india/indian-shares-set-to-rise-ahead-of-inflation-data-fed-policy/1882307/)
+
+The Nifty 50 index in India is expected to open higher, tracking the rise in Asian markets. The U.S. Consumer Price Index (CPI) report is due, and it is anticipated to show a moderation in inflation while still being above the Fed's target. The inflation data, along with the U.S. Federal Reserve's commentary, could influence the near-term rate outlook. Additionally, India's retail inflation likely picked up in November due to higher food prices. The Nifty 50 has recently achieved new all-time highs, supported by strong macroeconomic data, a decline in crude oil prices, favorable global interest rate outlook, the resurgence of foreign inflows, and sustained inflows from domestic mutual fund investors.
+
+Some key stocks to watch include Dixon Technologies, which secured a manufacturing contract from Lenovo, and Rail Vikas Nigam, whose joint venture emerged as the lowest bidder for a project worth 5.43 billion rupees. SpiceJet has adjourned a meeting to consider quarterly results and raise fresh capital, while Mankind Pharma is likely to see a stake sale via block deals worth at least $590 million.
+
 Tue, 12 Dec 2023 02:16:19 +0000
 ### [SpaceX postpones planned launch of US military’s secretive X-37B spaceplane](https://theprint.in/tech/spacex-postpones-planned-launch-of-us-militarys-secretive-x-37b-spaceplane/1882304/)
 
