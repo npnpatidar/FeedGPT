@@ -1,3 +1,92 @@
+Tue, 12 Dec 2023 20:41:26 +0000
+### [Soccer-Lens beat Sevilla to secure Europa League place](https://theprint.in/sport/soccer-lens-beat-sevilla-to-secure-europa-league-place/1883599/)
+
+Article found but Couldn't summarize 
+LENS, France (Reuters) - Angelo Fulgini's goal deep in stoppage time gave RC Lens a 2-1 win at home to Sevilla on Tuesday that secured third place in Champions League Group B and a spot in the Europa
+
+Tue, 12 Dec 2023 20:41:13 +0000
+### [Soccer-Arsenal finish successful Champions League group campaign with PSV draw](https://theprint.in/sport/soccer-arsenal-finish-successful-champions-league-group-campaign-with-psv-draw/1883598/)
+
+Article found but Couldn't summarize 
+EINDHOVEN, Netherlands (Reuters) -A much changed Arsenal were pegged back to draw 1-1 away at Dutch league leaders PSV Eindhoven in the Champions League on Tuesday as both sides concluded their Group
+
+Tue, 12 Dec 2023 20:40:54 +0000
+### [Soccer-Al-Ittihad cruise to 3-0 win over Auckland City at Club World Cup](https://theprint.in/sport/soccer-al-ittihad-cruise-to-3-0-win-over-auckland-city-at-club-world-cup/1883596/)
+
+Article found but Couldn't summarize 
+JEDDAH (Reuters) - First-half goals from Romarinho, N'Golo Kante and Karim Benzema earned Saudi champions Al-Ittihad a 3-0 win over Auckland City at the King Abdullah Sports City Stadium on Tuesday to
+
+Tue, 12 Dec 2023 20:40:38 +0000
+### [Soccer-I should have quit before Qatar World Cup, says Canada coach Herdman](https://theprint.in/sport/soccer-i-should-have-quit-before-qatar-world-cup-says-canada-coach-herdman/1883594/)
+
+Article found but Couldn't summarize 
+(Reuters) - John Herdman said he wished he had stepped down as coach of Canada's national men's soccer team ahead of last year's World Cup after his sister's suicide and discord within the
+
+Tue, 12 Dec 2023 20:40:03 +0000
+### [Apple now requires a judge’s consent to hand over push notification data](https://theprint.in/tech/apple-now-requires-a-judges-consent-to-hand-over-push-notification-data/1883592/)
+
+Article found but Couldn't summarize 
+By Raphael Satter WASHINGTON (Reuters) - Apple has said it now requires a judge's order to hand over information about its customers' push notification to law enforcement, putting the iPhone maker's
+
+Tue, 12 Dec 2023 20:39:18 +0000
+### [Cisco defeats Centripetal patent case that led to $2.75 billion award](https://theprint.in/tech/cisco-defeats-centripetal-patent-case-that-led-to-2-75-billion-award/1883590/)
+
+Article found but Couldn't summarize 
+By Blake Brittain (Reuters) - A federal judge in Virginia has rejected cybersecurity company Centripetal Networks' patent infringement claims against Cisco Systems in a multi-billion-dollar fight over
+
+Tue, 12 Dec 2023 20:38:05 +0000
+### [Wall St advances as focus shifts to Fed, crude slides](https://theprint.in/economy/wall-st-advances-as-focus-shifts-to-fed-crude-slides/1883588/)
+
+Article found but Couldn't summarize 
+By Stephen Culp NEW YORK (Reuters) -U.S. stocks advanced Tuesday and the dollar dipped after a report showed sticky U.S. inflation continues to meander lower as the Federal Reserve gathers to assess
+
+Tue, 12 Dec 2023 20:36:37 +0000
+### [Oil falls more than 3% on softening demand, oversupply concerns](https://theprint.in/economy/oil-falls-more-than-3-on-softening-demand-oversupply-concerns/1883586/)
+
+Article found but Couldn't summarize 
+By Nicole Jao NEW YORK (Reuters) -Oil prices fell more than 3% on Tuesday to their lowest level in six months on concern about oversupply and after U.S. economic data showed an unexpected rise in
+
+Tue, 12 Dec 2023 20:34:45 +0000
+### [Dollar dips as investors wait for Fed](https://theprint.in/economy/dollar-dips-as-investors-wait-for-fed/1883584/)
+
+Article found but Couldn't summarize 
+By Karen Brettell NEW YORK (Reuters) - The dollar fell on Tuesday before the Federal Reserve officials give updated economic and interest rate projections after their latest policy meeting on
+
+Tue, 12 Dec 2023 20:32:30 +0000
+### [Australia, Canada, New Zealand back ‘sustainable ceasefire’ in Gaza](https://theprint.in/world/australia-canada-new-zealand-back-sustainable-ceasefire-in-gaza/1883582/)
+
+Article found but Couldn't summarize 
+By Ismail Shakil OTTAWA (Reuters) -Canada, Australia and New Zealand on Tuesday backed urgent international efforts towards a "sustainable ceasefire" in Gaza in a coordinated show of concern shortly
+
+Tue, 12 Dec 2023 20:30:06 +0000
+### [Biden says Netanyahu must change, Israel losing global support](https://theprint.in/world/biden-says-netanyahu-must-change-israel-losing-global-support/1883579/)
+
+Article found but Couldn't summarize 
+By Trevor Hunnicutt and Steve Holland WASHINGTON (Reuters) - U.S. President Joe Biden said on Tuesday that Israel is losing support over its "indiscriminate" bombing of Gaza and that Benjamin
+
+Tue, 12 Dec 2023 20:28:55 +0000
+### [IMF board approves first review of Sri Lanka’s nearly $3 billion bailout](https://theprint.in/world/imf-board-approves-first-review-of-sri-lankas-nearly-3-billion-bailout/1883578/)
+
+As GPT-3.5, I can provide a summary of the article you shared. The International Monetary Fund (IMF) has approved the first review of Sri Lanka's $3 billion bailout, providing approximately $337 million in funds to address the country's severe financial crisis. Sri Lanka experienced its worst financial crisis since gaining independence in 1948, leading to a plummeting economy, high inflation, currency depreciation, and low foreign reserves. The IMF has now sent a total of around $670 million to Sri Lanka. The approval of Memoranda of Understanding with official creditors and timely implementation of agreements, along with resolving issues with external private creditors, are crucial for restoring Sri Lanka's debt sustainability. Sri Lanka's economy began stabilizing after securing the IMF bailout, and the country's parliament recently approved an increase in value-added tax (VAT) to meet revenue targets set under the IMF program. Please note that this summary is generated based on the provided text and may not include all the details from the original article.
+
+Tue, 12 Dec 2023 20:25:41 +0000
+### [Biden tells Ukraine’s Zelenskiy: Don’t give up hope](https://theprint.in/world/biden-tells-ukraines-zelenskiy-dont-give-up-hope/1883576/)
+
+Article found but Couldn't summarize 
+WASHINGTON (Reuters) - U.S. President Joe Biden told Ukrainian President Volodymyr Zelenskiy not to give up hope in his country's fight against Russia's invasion as the two leaders met in Washington
+
+Tue, 12 Dec 2023 20:20:44 +0000
+### [Guatemala president slams U.S. action after new visa curbs announced](https://theprint.in/world/guatemala-president-slams-u-s-action-after-new-visa-curbs-announced/1883574/)
+
+Article found but Couldn't summarize 
+GUATEMALA CITY (Reuters) - Guatemala's outgoing President Alejandro Giammattei on Tuesday rejected what he described as "intimidating actions" that undercut national sovereignty, a day after the U.S.
+
+Tue, 12 Dec 2023 20:15:04 +0000
+### [Zelenskiy met by Republican doubts in 11th hour push for US aid to fight Russia](https://theprint.in/world/zelenskiy-met-by-republican-doubts-in-11th-hour-push-for-us-aid-to-fight-russia/1883572/)
+
+Article found but Couldn't summarize 
+By Patricia Zengerle, Richard Cowan and Trevor Hunnicutt WASHINGTON (Reuters) -Ukrainian President Volodymyr Zelenskiy faced a skeptical reception from key Republicans during a trip to Washington on
+
 Tue, 12 Dec 2023 19:30:16 +0000
 ### [Delhi: Probe launched after video of man hitting cyclist while showcasing stunts surfaces](https://theprint.in/india/delhi-probe-launched-after-video-of-man-hitting-cyclist-while-showcasing-stunts-surfaces/1883571/)
 
