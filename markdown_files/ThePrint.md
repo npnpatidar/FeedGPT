@@ -1,3 +1,121 @@
+Tue, 12 Dec 2023 10:25:32 +0000
+### [Sunak faces crunch UK parliamentary showdown over Rwanda asylum plan](https://theprint.in/world/sunak-faces-crunch-uk-parliamentary-showdown-over-rwanda-asylum-plan/1882814/)
+
+No Article text 
+By Andrew MacAskill, Michael Holden and Sarah Young LONDON (Reuters) -British Prime Minister Rishi Sunak faces the biggest parliamentary test of his premiership on Tuesday when lawmakers vote on his
+
+Tue, 12 Dec 2023 10:15:03 +0000
+### [India cenbank aiming at multiple targets with simultaneous purchase, sale of dollars – bankers](https://theprint.in/india/india-cenbank-aiming-at-multiple-targets-with-simultaneous-purchase-sale-of-dollars-bankers/1882811/)
+
+Article found but Couldn't summarize 
+By Nimesh Vora MUMBAI (Reuters) - The Indian central bank's simultaneous purchase and sale of U.S. dollars in recent weeks has puzzled bankers, who speculate there may be multiple objectives behind
+
+Tue, 12 Dec 2023 10:12:08 +0000
+### [Congress high command has asked Punjab unit to fight on all 13 Lok Sabha seats: Warring](https://theprint.in/india/congress-high-command-has-asked-punjab-unit-to-fight-on-all-13-lok-sabha-seats-warring/1882810/)
+
+Article found but Couldn't summarize 
+Chandigarh, Dec 12 (PTI) The Congress high command has asked the state unit to gear up to fight all 13 Lok Sabha seats in Punjab, state unit president Amrinder Singh Raja Warring said on Tuesday. He further said he has not received any indication from the party&#8217;s high command about fighting the 2024 Lok Sabha [&#8230;]
+
+Tue, 12 Dec 2023 10:07:19 +0000
+### [Govt to move amendment to bring CEC, ECs on par with SC judges](https://theprint.in/india/govt-to-move-amendment-to-bring-cec-ecs-on-par-with-sc-judges/1882807/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 12 (PTI) The government has decided to retain the status of CEC and other election commissioners on par with judges of the Supreme Court following protests by opposition parties and former chief election commissioners. At present, the CECs and ECs enjoy the status of a Supreme Court judge. The Chief Election Commissioner [&#8230;]
+
+Tue, 12 Dec 2023 10:04:11 +0000
+### [Mandhana bats for Women’s WTC but Engand’s Beaumont says long way to go](https://theprint.in/sport/mandhana-bats-for-womens-wtc-but-engands-beaumont-says-long-way-to-go/1882804/)
+
+Article found but Couldn't summarize 
+Navi Mumbai, Dec 12 (PTI) India vice-captain Smriti Mandhana on Tuesday welcomed the idea of organising a World Test Championship in women’s Test cricket, but England veteran Tammy Beaumont said it would be unfair to have such a competition when only three countries are playing regularly. In men’s Test cricket, the ICC’s World Test Championship [&#8230;]
+
+Tue, 12 Dec 2023 10:01:44 +0000
+### [Confident you will overcome struggles: Sule on father Sharad Pawar’s birthday](https://theprint.in/india/confident-you-will-overcome-struggles-sule-on-father-sharad-pawars-birthday/1882802/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 12 (PTI) NCP MP Supriya Sule extended good wishes to her father and party president Sharad Pawar on his 83rd birthday on Tuesday and expressed confidence that he will overcome all difficulties and succeed in this time of struggle. The Sharad Pawar-founded Nationalist Congress Party split earlier this year after his nephew Ajit [&#8230;]
+
+Tue, 12 Dec 2023 10:00:02 +0000
+### [MHA approves release of Rs 338 crore to Gujarat, Rs 633 crore to Himachal as calamity relief](https://theprint.in/india/mha-approves-release-of-rs-338-crore-to-gujarat-rs-633-crore-to-himachal-as-calamity-relief/1882801/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 12 (PTI) The Union Ministry of Home Affairs on Tuesday approved the release of Rs 338 crore to Gujarat and Rs 633 crore to Himachal Pradesh as financial assistance for damages caused by natural calamities. The Union Home Minister&#8217;s Office said in a post on X that Gujarat was severely affected by [&#8230;]
+
+Tue, 12 Dec 2023 09:55:33 +0000
+### [Politics, influence, caste — the murky loan dealings of Gujarat’s cooperative banks](https://theprint.in/economy/politics-influence-caste-the-murky-loan-dealings-of-gujarats-cooperative-banks/1878243/)
+
+Article found but Couldn't summarize 
+Gujarat’s urban cooperative banks have been making headlines for the wrong reasons, and many have been slapped with RBI fines for lending to own directors or their relatives.
+
+Tue, 12 Dec 2023 09:47:19 +0000
+### [Navigate the Markets with Confidence: HDFC SKY Introduces a Comprehensive Stock Market Learning Center](https://theprint.in/india/navigate-the-markets-with-confidence-hdfc-sky-introduces-a-comprehensive-stock-market-learning-center/1882782/)
+
+Article found but Couldn't summarize 
+The HDFC SKY Stock Market App is more than just a trading platform; it's a comprehensive financial companion.
+
+Tue, 12 Dec 2023 09:46:14 +0000
+### [HCL Tech, UPES Dehradun team up for sustainability solutions for oil and gas industry](https://theprint.in/economy/hcl-tech-upes-dehradun-team-up-for-sustainability-solutions-for-oil-and-gas-industry/1882795/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 12 (PTI) IT services company HCL Technologies announced that it has inked a pact with UPES Dehradun, Uttarakhand, to collaborate on developing advanced solutions for the oil and gas industry, with a focus on sustainability. According to a release, students and research scholars from UPES Dehradun will have the opportunity to intern [&#8230;]
+
+Tue, 12 Dec 2023 09:46:02 +0000
+### [IIT-JEE aspirant beaten to death in Kota; suspects detained for interrogation](https://theprint.in/india/iit-jee-aspirant-beaten-to-death-in-kota-suspects-detained-for-interrogation/1882794/)
+
+Article found but Couldn't summarize 
+Kota (Rajasthan), Dec 12 (PTI) A 17-year-old IIT-JEE aspirant was beaten to death in Indira Vihar area here, police said on Tuesday. The deceased was attacked with iron rods and chains by some youths, who were also reportedly coaching students, while he was at a tea stall here late Monday evening, they said. The deceased [&#8230;]
+
+Tue, 12 Dec 2023 09:45:52 +0000
+### [Delhi Police arrests 3 arms traffickers, seizes 11 semi-automatic pistols](https://theprint.in/india/delhi-police-arrests-3-arms-traffickers-seizes-11-semi-automatic-pistols/1882793/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 12 (PTI) The Delhi Police has busted an interstate firearms trafficking gang with the arrest of three people and seizure of 11 semi-automatic pistols, officials said on Tuesday. During investigation, it was learnt that the seized firearms were meant to be supplied to criminals and arms traffickers in Delhi and some states, [&#8230;]
+
+Tue, 12 Dec 2023 09:45:42 +0000
+### [Cong govt in T’gana to implement Rs 500 LPG cylinder scheme within 100 days: Uttam Kumar Reddy](https://theprint.in/india/cong-govt-in-tgana-to-implement-rs-500-lpg-cylinder-scheme-within-100-days-uttam-kumar-reddy/1882792/)
+
+Article found but Couldn't summarize 
+Hyderabad, Dec 12 (PTI) The Congress government in Telangana is committed to implement the schemes &#8212; LPG cylinder for Rs 500 and Rs 500 extra per quintal to farmers for paddy procurement &#8211;, within 100 days, Minister for Civil Supplies N Uttam Kumar Reddy said on Tuesday. After holding a review meeting with senior officials [&#8230;]
+
+Tue, 12 Dec 2023 09:45:33 +0000
+### [British Indian dentist selected as Tory parliamentary candidate for Oxford](https://theprint.in/world/british-indian-dentist-selected-as-tory-parliamentary-candidate-for-oxford/1882791/)
+
+Article found but Couldn't summarize 
+London, Dec 12 (PTI) Dr Vinay Raniga, a British Indian doctor, who founded an educational charity to train dentists, has been selected as the parliamentary candidate by the Conservative Party to contest from Oxford in the next UK general election, expected in 2024. The 30-year-old dental surgeon took to social media to announce his selection [&#8230;]
+
+Tue, 12 Dec 2023 09:45:24 +0000
+### [Oil rises after Houthi attack on ship, weak sentiment weighs](https://theprint.in/economy/oil-rises-after-houthi-attack-on-ship-weak-sentiment-weighs/1882789/)
+
+Article found but Couldn't summarize 
+By Alex Lawler LONDON (Reuters) -Oil rose on Tuesday as an attack by the Iran-aligned Houthis on a chemical tanker escalated geopolitical tension in the Middle East, though concerns over excess supply
+
+Tue, 12 Dec 2023 09:45:22 +0000
+### [India’s doctor-population ratio 1:834: Minister](https://theprint.in/india/indias-doctor-population-ratio-1834-minister/1882788/)
+
+Hmm, based on the provided text, I can tell you that the doctor-population ratio in India is 1:834, assuming 80% availability of registered allopathic doctors and 5.65 lakh AYUSH doctors. Additionally, there are 36.14 lakh nursing personnel in the country, with a nurse-population ratio of 1:476. These figures were shared by Minister of State for Health Bharati Pravin Pawar in a written reply to the Rajya Sabha. However, please note that as an AI assistant, I don't have access to real-time data, so it's always a good idea to verify the information from reliable sources.
+
+Tue, 12 Dec 2023 09:45:15 +0000
+### [Pakistan army says Islamist militant attack kills 23 soldiers](https://theprint.in/world/pakistan-army-says-islamist-militant-attack-kills-23-soldiers/1882787/)
+
+Article found but Couldn't summarize 
+By Saud Mehsud Mushtaq Ali DERA ISMAIL KHAN, Pakistan (Reuters) -Islamist militants rammed an explosive-laden truck into a police station in northwest Pakistan on Tuesday, killing at least 23 soldiers
+
+Tue, 12 Dec 2023 09:45:13 +0000
+### [SpiceJet to raise Rs 2,250 crore through equity shares](https://theprint.in/economy/spicejet-to-raise-rs-2250-crore-through-equity-shares/1882786/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 12 (PTI) Crisis-hit SpiceJet on Tuesday said it will raise fresh capital of Rs 2,250 crore through issuance of equity shares. The airline&#8217;s board has approved the issuance of equity shares/equity warrants under a private placement basis. The proposed fund infusion will go a long way in enhancing product presence and market [&#8230;]
+
+Tue, 12 Dec 2023 09:45:03 +0000
+### [India’s SpiceJet to raise $270 million, reports smaller Q2 loss](https://theprint.in/india/indias-spicejet-to-raise-270-million-reports-smaller-q2-loss/1882784/)
+
+As GPT-3.5, I can provide a summary of the article you shared. SpiceJet, a low-cost carrier in India, plans to raise 22.50 billion rupees ($269.9 million) through the issuance of preferential shares and warrants. This fundraise will help the airline restore its grounded fleet of 25 jets and clear unpaid salaries. The company will issue shares worth 16 billion rupees and warrants convertible to shares worth 6.5 billion rupees. SpiceJet has been facing financial difficulties and legal troubles, including unpaid dues and lessors looking to de-register aircraft. The airline reported a narrowed second-quarter loss and a decline in revenue. After announcing the fundraising plans, SpiceJet's shares fell 8%. Please note that this summary is based on the provided article.
+
+Tue, 12 Dec 2023 09:45:02 +0000
+### [Doctors advise Singaporeans to vaccinate, put on face masks amidst COVID-19 wave](https://theprint.in/world/doctors-advise-singaporeans-to-vaccinate-put-on-face-masks-amidst-covid-19-wave/1882783/)
+
+Article found but Couldn't summarize 
+Singapore, Dec 12 (PTI) Doctors in Singapore are calling on people to vaccinate and to put on a face mask to reduce the usual year-end increase in acute respiratory infections, including COVID-19, influenza and the common cold. Both Healthway Medical, the largest general practice chain with more than 120 clinics, and Parkway Shenton with 55 [&#8230;]
+
 Tue, 12 Dec 2023 08:17:50 +0000
 ### [Vibrant Pappi Song “Nach Ke Wakhaun” by Sarika Kansara launched, trends on Instagram](https://theprint.in/ani-press-releases/vibrant-pappi-song-nach-ke-wakhaun-by-sarika-kansara-launched-trends-on-instagram/1882693/)
 

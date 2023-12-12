@@ -1,3 +1,9 @@
+Tue, 12 Dec 2023 14:29:24 +0530
+### [Google Messages could soon bring WhatsApp like message editing feature. Here's what we know so far](https://www.livemint.com/technology/apps/google-messages-could-soon-bring-whatsapp-imessage-like-message-editing-feature-heres-what-we-know-so-far-11702356899270.html)
+
+Article found but Couldn't summarize 
+Google Messages could soon bring new a message editing featue akin to what we have seen on popular messaging apps like WhatsApp and Apple's iMessage.
+
 Tue, 12 Dec 2023 11:14:14 +0530
 ### [8 best earbuds under  ₹1,500: Choose from top offerings](https://www.livemint.com/technology/gadgets/8-best-earbuds-under-rs-1-500-choose-from-top-offerings-11702296257873.html)
 
@@ -187,6 +193,12 @@ Thu, 07 Dec 2023 14:38:52 +0530
 
 Article found but Couldn't summarize 
 Game consoles are extremely popular among people who are constantly looking for more ways to experience the gaming industry. We bring you the 8 best game consoles that you can bring home, and enjoy a plethora of games at your home. Check out the best picks and start gaming.
+
+Thu, 07 Dec 2023 14:38:52 +0530
+### [8 best game console to enjoy multiple games in one place](https://www.livemint.com/technology/gadgets/8-best-game-console-to-enjoy-multiple-games-in-one-place-11701930123583.html)
+
+Article found but Couldn't summarize 
+8 best game console: Game consoles are extremely popular among people who are constantly looking for more ways to experience the gaming industry. We bring you the 8 best game consoles that you can bring home, and enjoy a plethora of games at your home. Check out the best picks and start gaming.
 
 Thu, 07 Dec 2023 14:37:00 +0530
 ### [10 best fridge in India with less than 200L capacity](https://www.livemint.com/technology/gadgets/10-best-fridge-in-india-with-less-than-200l-capacity-11701930075479.html)

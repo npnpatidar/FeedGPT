@@ -1,3 +1,8 @@
+Tue, 12 Dec 2023 15:42:31 +0530
+### [Women are losing out to men in India’s jobless growth](https://www.livemint.com/opinion/online-views/women-are-losing-out-to-men-in-india-s-jobless-growth-11702375534773.html)
+
+According to the quarterly Periodic Labour Force Survey (PLFS) data, the share of women in regular salaried jobs in urban India decreased from 54% in the first quarter to 52.8% in the second quarter. This is the lowest it has been since Q3 of FY19. The survey also showed an increase in the share of women who are self-employed and doing casual work. However, it is important to note that the economy is not creating enough salaried jobs for women, and employers still prefer to hire men. The increase in education among women and access to credit through government schemes may contribute to the rise in self-employment, but it is more likely that women are shifting to such activities due to distress rather than increased opportunities. The lack of formal, productive jobs in India's economy leads to women losing out in the job market.
+
 Tue, 12 Dec 2023 08:00:20 +0530
 ### [The Jammu and Kashmir verdict: It's time for India to look ahead](https://www.livemint.com/opinion/online-views/the-jammu-and-kashmir-verdict-its-time-for-india-to-look-ahead-11702308018977.html)
 

@@ -1,3 +1,15 @@
+Tue, 12 Dec 2023 15:38:31 +0530
+### [Over half of Indian employees feel AI will help enhance productivity, finds survey](https://www.firstpost.com/tech/almost-half-of-indian-employees-feel-ai-will-help-enhance-productivity-finds-survey-13495022.html)
+
+Article found but Couldn't summarize 
+Over half of Indian employees feel AI will help enhance productivity, finds survey
+
+Tue, 12 Dec 2023 15:20:15 +0530
+### [Bitcoin City: El Salvador seeks funds to make city powered by volcano, to launch crypto bonds](https://www.firstpost.com/tech/bitcoin-city-el-salvador-seeks-funds-to-make-city-powered-by-volcano-to-launch-crypto-bonds-13494812.html)
+
+Article found but Couldn't summarize 
+Bitcoin City: El Salvador seeks funds to make city powered by volcano, to launch crypto bonds
+
 Tue, 12 Dec 2023 13:50:16 +0530
 ### [Doing business while doing business: Elon Musk’s toilet humour about phone booths is hilarious, but accurate](https://www.firstpost.com/tech/doing-business-while-doing-business-elon-musks-toilet-humour-about-phone-booths-is-hilarious-but-accurate-13494162.html)
 

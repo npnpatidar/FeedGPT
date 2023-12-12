@@ -1,3 +1,39 @@
+2023-12-12T15:45:12+05:30
+### [JNU Institutes New Rules to Punish Protests with Fines, Rustication from Campus](https://thewire.in/rights/jnu-institutes-new-rules-to-punish-protests-with-fines-rustication-from-campus)
+
+No Article text 
+The student body JNUSU, in a statement, said that the 'stringent measures outlined in the manual are aimed at stifling the vibrant campus culture that has defined JNU for decades'.
+
+2023-12-12T15:11:08+05:30
+### [Onion Prices Could Dip Below Rs 40/kg By January, Food Ministry Official Tells Press](https://thewire.in/agriculture/onion-prices-rs-40-january-rohit-kumar-sharma)
+
+No Article text 
+Meanwhile, the food ministry said it is working on procuring onions from farmers for its buffer stock and that it is “continuously” selling from this stock in order to control prices.
+
+2023-12-12T15:09:42+05:30
+### [Rural Income Stress Cloud Over FMCG Demand](https://thewire.in/business/rural-income-stress-cloud-over-fmcg-demand)
+
+No Article text 
+A report quoted industry executives as having said that while green shoots of recovery are visible, rural demand is still trailing urban markets.
+
+2023-12-12T14:30:12+05:30
+### [Amid Discussion Over Article 370 Verdict, Parliament Clears Bills 'Reserving' Seats in J&K Assembly](https://thewire.in/government/amid-discussion-over-article-370-verdict-parliament-clears-bills-reserving-seats-in-jk-assembly)
+
+No Article text 
+The stated intent of these two Bills is to nominate two members from the 'Kashmiri migrant community' and one representing the displaced persons from Pakistan Occupied Kashmir (PoK) to the J&amp;K legislative assembly.
+
+2023-12-12T14:15:52+05:30
+### [Epic Games Wins Major Court Battle Against Google](https://thewire.in/tech/epic-games-wins-major-court-battle-against-google)
+
+No Article text 
+The Fortnite maker claimed the search engine giant abused its power to shield its app store from competition. Epic had lost a similar case against Apple, which is now under appeal.
+
+2023-12-12T14:00:53+05:30
+### [NSE Set to Overtake Hong Kong in Market Cap, Becoming World's Seventh-Largest Trading Venue: Report](https://thewire.in/business/nse-set-to-overtake-hong-kong-in-market-cap-becoming-worlds-seventh-largest-trading-venue-report)
+
+No Article text 
+In October, the NSE reported a market capitalisation of $3.7 trillion, compared to Hong Kong's $3.9 trillion, reported Financial Times. While Hong Kong grapples with liquidity issues, India is witnessing growth in consumer confidence, infrastructure development, and political stability.
+
 2023-12-12T13:30:05+05:30
 ### [Alexei Navalny's Whereabouts Unknown, Says Jailed Russian Opposition Leader's Team](https://thewire.in/world/alexei-navalnys-whereabouts-unknown-says-jailed-russian-opposition-leaders-team)
 

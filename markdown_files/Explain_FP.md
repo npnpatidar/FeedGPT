@@ -1,3 +1,21 @@
+Tue, 12 Dec 2023 15:36:42 +0530
+### [Will COP28 end with no deal on the phase out of fossil fuels?](https://www.firstpost.com/explainers/will-cop28-end-with-no-deal-on-the-phase-out-of-fossil-fuels-13494222.html)
+
+Article found but Couldn't summarize 
+Will COP28 end with no deal on the phase out of fossil fuels?
+
+Tue, 12 Dec 2023 14:26:16 +0530
+### [The row over JNU banning protests on campus](https://www.firstpost.com/explainers/the-row-over-jnu-banning-protests-on-campus-13493372.html)
+
+Article found but Couldn't summarize 
+The row over JNU banning protests on campus
+
+Tue, 12 Dec 2023 14:22:19 +0530
+### [Australia unveils stricter visa rules for students and workers. Will it hurt Indians?](https://www.firstpost.com/explainers/australia-unveils-stricter-visa-rules-for-students-and-workers-will-it-hurt-indians-13494352.html)
+
+Article found but Couldn't summarize 
+Australia unveils stricter visa rules for students and workers. Will it hurt Indians?
+
 Tue, 12 Dec 2023 12:59:37 +0530
 ### [Article 370 verdict: What is the truth commission that SC has recommended for J&amp;K?](https://www.firstpost.com/explainers/article-370-verdict-what-is-the-truth-and-reconciliation-commission-that-sc-has-recommended-for-jammu-kashmir-13493742.html)
 

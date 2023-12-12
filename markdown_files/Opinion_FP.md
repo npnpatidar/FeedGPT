@@ -1,3 +1,9 @@
+Tue, 12 Dec 2023 15:01:50 +0530
+### [Chinese shadow behind growing anti-Semitism, influence operations among American youth](https://www.firstpost.com/opinion/chinese-shadow-behind-growing-anti-semitism-influence-operations-among-american-youth-13493002.html)
+
+Article found but Couldn't summarize 
+Chinese shadow behind growing anti-Semitism, influence operations among American youth
+
 Tue, 12 Dec 2023 13:46:25 +0530
 ### [Vantage | How Jammu &amp; Kashmir has changed after 2019](https://www.firstpost.com/opinion/vantage-how-jammu-kashmir-has-changed-after-2019-13493612.html)
 
