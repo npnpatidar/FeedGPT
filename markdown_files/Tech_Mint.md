@@ -1,3 +1,9 @@
+Tue, 12 Dec 2023 11:14:14 +0530
+### [8 best earbuds under  ₹1,500: Choose from top offerings](https://www.livemint.com/technology/gadgets/8-best-earbuds-under-rs-1-500-choose-from-top-offerings-11702296257873.html)
+
+Article found but Couldn't summarize 
+Earbuds are essential to stay connected to your music during the daily travel. There are several budget friendly options, but we have curated a list of the 8 best earbuds under  ₹1,500.
+
 Tue, 12 Dec 2023 10:01:13 +0530
 ### [Redmi 13C with 90Hz display goes on sale today. When and where to buy, launch offers, and more](https://www.livemint.com/technology/gadgets/redmi-13c-with-90hz-display-goes-on-sale-today-when-and-where-to-buy-launch-offers-and-more-11702349581480.html)
 

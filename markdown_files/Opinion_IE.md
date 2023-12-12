@@ -1,3 +1,8 @@
+Tue, 12 Dec 2023 06:04:23 +0000
+### [Pick up a book, watch a film and go to a restaurant — without Zomato, Goodreads or IMDb](https://indianexpress.com/article/opinion/columns/pick-up-a-book-watch-a-film-and-go-to-a-restaurant-without-zomato-goodreads-or-imdb-9064563/)
+
+Article found but Couldn't summarize
+
 Tue, 12 Dec 2023 02:00:25 +0000
 ### [Lessons from COP28: How to save what we can](https://indianexpress.com/article/opinion/columns/lessons-from-cop28-how-to-save-what-we-can-9064055/)
 

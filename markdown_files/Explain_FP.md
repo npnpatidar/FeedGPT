@@ -1,3 +1,9 @@
+Tue, 12 Dec 2023 11:39:23 +0530
+### [Who is Licypriya Kangujam, the 12-year-old Indian activist who protested at COP28?](https://www.firstpost.com/explainers/who-is-licypriya-kangujam-the-12-year-old-indian-activist-who-protested-at-cop28-13492572.html)
+
+Article found but Couldn't summarize 
+Who is Licypriya Kangujam, the 12-year-old Indian activist who protested at COP28?
+
 Tue, 12 Dec 2023 10:26:09 +0530
 ### [Why new speed limits have been imposed on Noida Expressway](https://www.firstpost.com/explainers/why-new-speed-limits-have-been-imposed-on-noida-expressway-13492522.html)
 

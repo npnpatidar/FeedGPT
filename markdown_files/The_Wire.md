@@ -1,3 +1,9 @@
+2023-12-12T10:50:12+05:30
+### [Supreme Court Declines PIL Seeking New Panel of Experts for Addressing Manipur Violence](https://thewire.in/rights/supreme-court-declines-pil-seeking-new-panel-of-experts-for-addressing-manipur-violence)
+
+No Article text 
+The bench said the committee chaired by Justice (retired) Gita Mittal was already looking into the matter.
+
 2023-12-12T10:29:45+05:30
 ### [Calling Detention for 5 Years 'Illegal', J&K HC Sets Journalist Aasif Sultan Free](https://thewire.in/media/aasif-sultan-kashmir-journalist-detention-free)
 

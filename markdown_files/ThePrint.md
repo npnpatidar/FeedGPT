@@ -1,3 +1,123 @@
+Tue, 12 Dec 2023 06:17:23 +0000
+### [Fitch Ratings adjusts global metals and mining price assumptions for 2023-2026](https://theprint.in/economy/fitch-ratings-adjusts-global-metals-and-mining-price-assumptions-for-2023-2026/1882516/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 12 (ANI): In response to evolving market dynamics, Fitch Ratings has revised certain price assumptions in the global metals and mining sector. According to Fitch Ratings, the adjustments are reflective of changes in production, demand-supply balances, and market conditions across key commodities. Fitch Ratings has increased its thermal coal price assumptions, [&#8230;]
+
+Tue, 12 Dec 2023 06:17:12 +0000
+### [Rajinikanth turns 73: Kamal Haasan to Jr NTR, celebs extend wishes](https://theprint.in/feature/rajinikanth-turns-73-kamal-haasan-to-jr-ntr-celebs-extend-wishes/1882514/)
+
+Article found but Couldn't summarize 
+Chennai (Tamil Nadu) [India], December 12 (ANI): As superstar Rajinikanth turned 73 today, several big Indian celebs took to their social media handles and extended heartfelt wishes. Actor Kamal Haasan took to X (formerly Twitter) and wrote in Tamil, &#8220;Happy birthday to my dear friend Superstar @rajinikanth. I sincerely wish you to live a happy [&#8230;]
+
+Tue, 12 Dec 2023 06:17:02 +0000
+### [TalentSprint and IIM Lucknow Announce Strategic Partnership to Launch Executive General Management Program](https://theprint.in/ani-press-releases/talentsprint-and-iim-lucknow-announce-strategic-partnership-to-launch-executive-general-management-program/1882512/)
+
+Article found but Couldn't summarize 
+BusinessWire India New Delhi [India], December 12: TalentSprint, a leading global edtech company, and the Indian Institute of Management Lucknow, a top ranked IIM as per NIRF 2023, have announced their strategic partnership and the launch of an Executive General Management Program for modern-day professionals. This collaboration brings together the strengths of two esteemed institutions [&#8230;]
+
+Tue, 12 Dec 2023 06:16:11 +0000
+### [Puma to terminate sponsorship of Israel’s national football team – FT](https://theprint.in/sport/puma-to-terminate-sponsorship-of-israels-national-football-team-ft/1882510/)
+
+Article found but Couldn't summarize 
+(Reuters) - Puma will end its sponsorship of the Israel national football team in a decision made a year ago and which was not connected to calls for consumer boycotts following Israel's military
+
+Tue, 12 Dec 2023 06:16:00 +0000
+### [China’s Changxin Memory delays IPO, eyeing valuation of $19.5 billion – Bloomberg News](https://theprint.in/tech/chinas-changxin-memory-delays-ipo-eyeing-valuation-of-19-5-billion-bloomberg-news/1882508/)
+
+Article found but Couldn't summarize 
+(Reuters) - Chinese chip maker Changxin Memory Technologies Inc (CXMT) is delaying its initial public offering (IPO) and will consider raising funds at a valuation of 140 billion yuan ($19.51 billion)
+
+Tue, 12 Dec 2023 06:15:50 +0000
+### [Cryptoverse: Bitcoin defies its doubters in 2023](https://theprint.in/tech/cryptoverse-bitcoin-defies-its-doubters-in-2023/1882506/)
+
+Article found but Couldn't summarize 
+By Medha Singh and Lisa Pauline Mattackal (Reuters) - If 2022 was the year that "broke bitcoin", 2023 has been the year of trauma recovery. Bitcoin has bounced pluckily in the face of depressed crypto
+
+Tue, 12 Dec 2023 06:15:36 +0000
+### [Centre, state set up system for doorstep delivery of services to underprivileged: Haryana minister](https://theprint.in/india/centre-state-set-up-system-for-doorstep-delivery-of-services-to-underprivileged-haryana-minister/1882504/)
+
+Article found but Couldn't summarize 
+Chandigarh, Dec 12 (PTI) Haryana&#8217;s Urban Local Bodies Minister Kamal Gupta said the Centre and the state governments have established a system to ensure the benefits of schemes and programmes reach on the doorstep of the underprivileged. &#8220;Both the Central and Haryana governments have established a system ensuring that the benefits of schemes and programmes [&#8230;]
+
+Tue, 12 Dec 2023 06:15:34 +0000
+### [Japan PM backs minister at centre of fundraising scandal allegations](https://theprint.in/world/japan-pm-backs-minister-at-centre-of-fundraising-scandal-allegations/1882503/)
+
+Article found but Couldn't summarize 
+By John Geddie TOKYO (Reuters) -A top Japanese minister at the centre of allegations of missing funds survived a no-confidence motion on Tuesday, with embattled Prime Minister Fumio Kishida saying he
+
+Tue, 12 Dec 2023 06:15:26 +0000
+### [USFDA issues Form 483 with 5 procedural observations to Torrent Pharma’s Gujarat unit](https://theprint.in/economy/usfda-issues-form-483-with-5-procedural-observations-to-torrent-pharmas-gujarat-unit/1882501/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 12 (PTI) Torrent Pharmaceuticals Ltd on Tuesday said the US health regulator has issued Form 483 with five procedural observations after inspecting its oral manufacturing facility situated at Bileshwarpura in Gujarat. As per the US Food and Drug Administration (USFDA), Form 483 is issued to a firm&#8217;s management at the conclusion of [&#8230;]
+
+Tue, 12 Dec 2023 06:15:25 +0000
+### [Zelenskiy makes 11th hour plea for Ukraine war funds in Washington](https://theprint.in/world/zelenskiy-makes-11th-hour-plea-for-ukraine-war-funds-in-washington/1882500/)
+
+Article found but Couldn't summarize 
+By Trevor Hunnicutt WASHINGTON (Reuters) - Ukrainian President Volodymyr Zelenskiy on Tuesday plans a last-ditch plea to U.S. lawmakers to keep military support flowing as he battles Russia, in visits
+
+Tue, 12 Dec 2023 06:15:16 +0000
+### [Japanese ex-soldiers found guilty in landmark sexual assault case](https://theprint.in/world/japanese-ex-soldiers-found-guilty-in-landmark-sexual-assault-case/1882498/)
+
+Article found but Couldn't summarize 
+By Sakura Murakami FUKUSHIMA, Japan (Reuters) - A Japanese court on Tuesday found three former soldiers guilty of sexually assaulting a female colleague, in a victory for the victim whose long battle
+
+Tue, 12 Dec 2023 06:15:15 +0000
+### [Ajit Pawar says will reconsider his stand against old pension scheme](https://theprint.in/india/ajit-pawar-says-will-reconsider-his-stand-against-old-pension-scheme/1882497/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 12 (PTI) Maharashtra Deputy Chief Minister Ajit Pawar on Tuesday said his earlier stand against the old pension scheme has changed and he would reconsider it positively and added that the state government wants to strike a balance between salaries, pension amount and its burden on the state&#8217;s finances. Speaking to reporters in [&#8230;]
+
+Tue, 12 Dec 2023 06:15:04 +0000
+### [Indonesia’s presidential hopefuls face off in first election debate](https://theprint.in/world/indonesias-presidential-hopefuls-face-off-in-first-election-debate/1882495/)
+
+Article found but Couldn't summarize 
+By Kate Lamb JAKARTA (Reuters) - Indonesia's three presidential hopefuls will face off in the country's first election debate on Tuesday, with candidates expected to tackle questions on law, human
+
+Tue, 12 Dec 2023 06:15:02 +0000
+### [BJP lashes out at Cong, says strict action against corruption is Modi’s guarantee](https://theprint.in/india/bjp-lashes-out-at-cong-says-strict-action-against-corruption-is-modis-guarantee/1882494/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 12 (PTI) The BJP on Tuesday targeted the Congress and its allies, saying they have spread the &#8220;disease of corruption&#8221; against which a movement has to be started not just by the government but also by the people. Addressing a press conference here, Union minister and BJP leader Kiren Rijiju listed various [&#8230;]
+
+Tue, 12 Dec 2023 06:06:42 +0000
+### [RBI must regulate risky loan apps, cooperative banks. They are plaguing the banking sector](https://theprint.in/opinion/standard-deviation/rbi-must-regulate-risky-loan-apps-cooperative-banks-they-are-plaguing-the-banking-sector/1882471/)
+
+Article found but Couldn't summarize 
+The act of banking involves a social responsibility that the banks must honour on their own, without the RBI forcing them to.
+
+Tue, 12 Dec 2023 06:02:02 +0000
+### [Varied home price trajectories and stable arrears anticipated across key APAC markets in 2024: Fitch Ratings](https://theprint.in/economy/varied-home-price-trajectories-and-stable-arrears-anticipated-across-key-apac-markets-in-2024-fitch-ratings/1882485/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 12 (ANI): Fitch Ratings&#8217; Global Housing and Mortgage Outlook sheds light on the diverse trends expected in home prices and mortgage arrears across crucial Asia-Pacific (APAC) markets in the coming years. The analysis foresees distinctive trajectories for Australia, China, and Japan, highlighting nuanced economic factors influencing these regions. In China, Fitch [&#8230;]
+
+Tue, 12 Dec 2023 06:00:30 +0000
+### [Indonesia says will audit TikTok, Tokopedia trial e-commerce tieup](https://theprint.in/tech/indonesia-says-will-audit-tiktok-tokopedia-trial-e-commerce-tieup/1882483/)
+
+Article found but Couldn't summarize 
+By Ananda Teresia JAKARTA (Reuters) - China's TikTok and Indonesia's tech group GoTo will carry out a trial e-commerce partnership for several months as regulators assess its impact on small merchants
+
+Tue, 12 Dec 2023 06:00:26 +0000
+### [Govt school teacher in UP’s Shahjahanpur thrashes students after being hit by ball, suspended](https://theprint.in/india/govt-school-teacher-in-ups-shahjahanpur-thrashes-students-after-being-hit-by-ball-suspended/1882482/)
+
+Article found but Couldn't summarize 
+Shahjahanpur (UP), Dec 12 (PTI) A government school teacher in this Uttar Pradesh district was suspended for allegedly thrashing nine students after being hit by a ball they were playing with, officials said on Tuesday. The alleged incident occurred in the Government Junior High School in the Kila locality of the district&#8217;s City area on [&#8230;]
+
+Tue, 12 Dec 2023 06:00:17 +0000
+### [Gold prices rise as dollar retreats ahead of US inflation data](https://theprint.in/economy/gold-prices-rise-as-dollar-retreats-ahead-of-us-inflation-data/1882480/)
+
+Article found but Couldn't summarize 
+By Brijesh Patel (Reuters) -Gold prices gained on Tuesday after hitting a three-week low in the previous session as the dollar eased, while investors awaited key U.S. inflation data and major central
+
+Tue, 12 Dec 2023 06:00:15 +0000
+### [Reports claiming non-procurement of contraceptives misleading: Govt](https://theprint.in/india/reports-claiming-non-procurement-of-contraceptives-misleading-govt/1882478/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 12 (PTI) The Union Health Ministry Tuesday termed &#8220;misleading&#8221; reports claiming that India&#8217;s family planning programme is likely to get severely affected due to the country&#8217;s central procurement agency&#8217;s failure in procuring contraceptives. &#8220;Such reports are ill-informed and provides misleading information,&#8221; the ministry said in a statement. The Central Medical Services Society [&#8230;]
+
 Tue, 12 Dec 2023 05:03:16 +0000
 ### [Tax doctors on research grants by drugmakers, says govt panel reviewing pharma marketing practices](https://theprint.in/health/tax-doctors-on-research-grants-by-drugmakers-says-govt-panel-reviewing-pharma-marketing-practices/1882313/)
 
