@@ -1,3 +1,75 @@
+Tue, 12 Dec 2023 22:00:03 +0000
+### [UK PM Sunak survives crunch vote on controversial Rwanda policy](https://theprint.in/world/uk-pm-sunak-survives-crunch-vote-on-controversial-rwanda-policy/1883621/)
+
+Article found but Couldn't summarize 
+London, Dec 13 (PTI) British Prime Minister Rishi Sunak on Tuesday night survived a crunch vote in Parliament as none of his party MPs voted against the government&#8217;s Safety of Rwanda Bill. The vote in the House of Commons passed by 313 to 269, a majority of 44 votes. Around 38 Conservative MPs were recorded [&#8230;]
+
+Tue, 12 Dec 2023 21:46:05 +0000
+### [Soccer-Haaland will return to training on Thursday, says Guardiola](https://theprint.in/sport/soccer-haaland-will-return-to-training-on-thursday-says-guardiola/1883619/)
+
+Article found but Couldn't summarize 
+(Reuters) - Erling Haaland will not travel with Manchester City for their Champions League tie with Red Star Belgrade but will return to training on Thursday, manager Pep Guardiola said on Tuesday.
+
+Tue, 12 Dec 2023 21:45:39 +0000
+### [US Treasury, White House top brass signal Argentina support with early visits – sources](https://theprint.in/world/us-treasury-white-house-top-brass-signal-argentina-support-with-early-visits-sources/1883617/)
+
+Article found but Couldn't summarize 
+By Jorgelina do Rosario and Andrea Shalal BUENOS AIRES/WASHINGTON (Reuters) - Senior U.S. officials from the National Security Council and the Treasury will visit Argentina later this week, an
+
+Tue, 12 Dec 2023 21:45:23 +0000
+### [US in touch with Beijing about arranging military communication -Pentagon](https://theprint.in/world/us-in-touch-with-beijing-about-arranging-military-communication-pentagon/1883615/)
+
+Article found but Couldn't summarize 
+WASHINGTON (Reuters) - The United States has been coordinating with Beijing to arrange military-to-military talks, the Pentagon said on Tuesday, though it did not have any announcements on any talks.
+
+Tue, 12 Dec 2023 21:45:04 +0000
+### [United Nations demands humanitarian ceasefire in Gaza](https://theprint.in/world/united-nations-demands-humanitarian-ceasefire-in-gaza/1883613/)
+
+Article found but Couldn't summarize 
+By Michelle Nichols UNITED NATIONS (Reuters) -The United Nations on Tuesday demanded an immediate humanitarian ceasefire in the Israel-Hamas war after more than three-quarters of the 193-member
+
+Tue, 12 Dec 2023 21:17:45 +0000
+### [Soccer-Leao ready to start for Milan against Newcastle](https://theprint.in/sport/soccer-leao-ready-to-start-for-milan-against-newcastle/1883612/)
+
+Article found but Couldn't summarize 
+(Reuters) - Rafael Leao is fit and ready to return to the AC Milan side to face Newcastle United in their crunch Champions League tie, manager Stefano Pioli said on Tuesday. The Portuguese winger has
+
+Tue, 12 Dec 2023 21:17:11 +0000
+### [X’s 2023 ad sales to slump to $2.5 billion – Bloomberg News reporter](https://theprint.in/tech/xs-2023-ad-sales-to-slump-to-2-5-billion-bloomberg-news-reporter/1883610/)
+
+Article found but Couldn't summarize 
+(Reuters) -Elon Musk's social media platform X's 2023 ad sales are projected to fall to about $2.5 billion, Bloomberg News reported on Tuesday. Musk had last month cursed out advertisers that have
+
+Tue, 12 Dec 2023 21:16:47 +0000
+### [X’s 2023 ad sales to slump to $2.5 billion – Bloomberg News](https://theprint.in/tech/xs-2023-ad-sales-to-slump-to-2-5-billion-bloomberg-news/1883608/)
+
+Article found but Couldn't summarize 
+(Reuters) -Elon Musk's social media platform X's 2023 ad sales are projected to fall to about $2.5 billion, Bloomberg News reported on Tuesday. Musk had last month cursed out advertisers that have
+
+Tue, 12 Dec 2023 21:16:13 +0000
+### [Hungary passes ‘sovereignty’ law as Orban steps up campaign](https://theprint.in/world/hungary-passes-sovereignty-law-as-orban-steps-up-campaign/1883606/)
+
+Article found but Couldn't summarize 
+By Boldizsar Gyori BUDAPEST (Reuters) - Hungary's parliament passed a law in parliament on "protecting national sovereignty" on Tuesday to defend against what the ruling Fidesz party called undue
+
+Tue, 12 Dec 2023 21:15:54 +0000
+### [US rejects “absurd” claims it is plotting violence against Cuba](https://theprint.in/world/us-rejects-absurd-claims-it-is-plotting-violence-against-cuba/1883605/)
+
+Article found but Couldn't summarize 
+By Dave Sherwood HAVANA (Reuters) - The U.S. State Department denied on Tuesday it was plotting violent attacks against Cuba, a day after the Communist-run island claimed Washington was seeking to
+
+Tue, 12 Dec 2023 21:15:31 +0000
+### [Polish PM Donald Tusk’s govt wins vote of confidence](https://theprint.in/world/polish-pm-donald-tusks-govt-wins-vote-of-confidence/1883603/)
+
+Article found but Couldn't summarize 
+WARSAW (Reuters) - Newly appointed Polish Prime Minister Donald Tusk's government won a vote of confidence in parliament on Tuesday, voting results showed. The government had the support of 248
+
+Tue, 12 Dec 2023 21:15:03 +0000
+### [Countries push for COP28 deal on fossil fuels as talks spill into overtime](https://theprint.in/world/countries-push-for-cop28-deal-on-fossil-fuels-as-talks-spill-into-overtime/1883601/)
+
+Article found but Couldn't summarize 
+By Valerie Volcovici, Kate Abnett and Jake Spring DUBAI (Reuters) - Negotiations for a climate deal spilled into overtime at the COP28 summit in Dubai on Wednesday, as nearly 200 countries sought to
+
 Tue, 12 Dec 2023 20:41:26 +0000
 ### [Soccer-Lens beat Sevilla to secure Europa League place](https://theprint.in/sport/soccer-lens-beat-sevilla-to-secure-europa-league-place/1883599/)
 
