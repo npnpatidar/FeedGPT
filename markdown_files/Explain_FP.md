@@ -1,3 +1,21 @@
+Tue, 12 Dec 2023 17:07:36 +0530
+### [Qatar sent millions to Hamas for years and Netanyahu encouraged it. Here’s why](https://www.firstpost.com/explainers/qatar-sent-millions-to-hamas-for-years-and-netanyahu-encouraged-it-heres-why-13495242.html)
+
+Article found but Couldn't summarize 
+Qatar sent millions to Hamas for years and Netanyahu encouraged it. Here’s why
+
+Tue, 12 Dec 2023 16:22:52 +0530
+### [Hotel on the Move: How Canada has shifted a 220-tonne hotel with the help of 700 soap bars](https://www.firstpost.com/explainers/hotel-on-the-move-how-canada-has-shifted-a-220-tonne-hotel-with-the-help-of-700-soap-bars-13494452.html)
+
+Article found but Couldn't summarize 
+Hotel on the Move: How Canada has shifted a 220-tonne hotel with the help of 700 soap bars
+
+Tue, 12 Dec 2023 16:22:26 +0530
+### [What is the X-37B, the US military’s top secret spacecraft?](https://www.firstpost.com/explainers/what-is-the-x-37b-the-us-militarys-top-secret-spacecraft-13495202.html)
+
+Article found but Couldn't summarize 
+What is the X-37B, the US military’s top secret spacecraft?
+
 Tue, 12 Dec 2023 15:36:42 +0530
 ### [Will COP28 end with no deal on the phase out of fossil fuels?](https://www.firstpost.com/explainers/will-cop28-end-with-no-deal-on-the-phase-out-of-fossil-fuels-13494222.html)
 

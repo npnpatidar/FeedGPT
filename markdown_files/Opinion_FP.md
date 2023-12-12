@@ -1,3 +1,15 @@
+Tue, 12 Dec 2023 17:43:38 +0530
+### [Why Gupkar Alliance’s brouhaha can’t undermine PM Modi's aspirational, inclusive brand of politics in Kashmir](https://www.firstpost.com/opinion/why-gupkar-alliances-brouhaha-cant-undermine-pm-modis-aspirational-inclusive-brand-of-politics-in-kashmir-13495702.html)
+
+Article found but Couldn't summarize 
+Why Gupkar Alliance’s brouhaha can’t undermine PM Modi's aspirational, inclusive brand of politics in Kashmir
+
+Tue, 12 Dec 2023 17:37:51 +0530
+### [From Torkham to Gaza: Unravelling challenges of global refugee dynamics](https://www.firstpost.com/opinion/from-torkham-to-gaza-unravelling-challenges-of-global-refugee-dynamics-13489312.html)
+
+Article found but Couldn't summarize 
+From Torkham to Gaza: Unravelling challenges of global refugee dynamics
+
 Tue, 12 Dec 2023 15:01:50 +0530
 ### [Chinese shadow behind growing anti-Semitism, influence operations among American youth](https://www.firstpost.com/opinion/chinese-shadow-behind-growing-anti-semitism-influence-operations-among-american-youth-13493002.html)
 

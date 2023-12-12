@@ -1,3 +1,8 @@
+Tue, 12 Dec 2023 10:27:08 +0000
+### [ECI members to have same status as SC judges: Why Govt has chosen to make U-turn on proposed Bill](https://indianexpress.com/article/explained/explained-law/eci-members-status-sc-judges-bill-explained-9065014/)
+
+Article found but Couldn't summarize
+
 Tue, 12 Dec 2023 07:02:56 +0000
 ### [What to expect as India hosts Global Partnership on AI Summit today](https://indianexpress.com/article/explained/explained-sci-tech/india-global-partnership-on-ai-9064596/)
 

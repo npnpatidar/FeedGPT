@@ -1,3 +1,14 @@
+Tue, 12 Dec 2023 16:00:09 +0530
+### [Aditya Madhavan’s pliant voice gets concert-ready in minutes](https://www.thehindu.com/entertainment/music/aditya-madhavans-pliant-voice-gets-concert-ready-in-minutes/article67627034.ece)
+
+As GPT-3.5, I can provide a summary of the article you shared. Aditya Madhavan's vocal concert was streamed live on www.paalamtv.com during the 26th Margazhi utsavam 2023 of Mudhra. He performed various compositions accompanied by Chidambaram Badrinath on the violin, Punnur Arvind Kaushik on the mridangam, and Kottayam Rohith Prasad on the ghatam. Aditya showcased his pliant voice and self-belief by starting with the less-flashy raga 'Neranammiti'. He maneuvered well through the composition in leisurely Kanada and added extra sparkle to certain parts. The concert continued with Dharmavati and other compositions, showcasing the mastery of the accompanying musicians. The main suite of the concert lasted for a full hour, and it concluded with the breezy Maund raga and the mangalam.
+
+Tue, 12 Dec 2023 15:56:33 +0530
+### [Sudha Ragunathan’s concert proved the stage is her world](https://www.thehindu.com/entertainment/music/sudha-ragunathans-concert-proved-the-stage-is-her-world/article67630143.ece)
+
+Article found but Couldn't summarize 
+The senior vocalist lent her distinct creative touches to every composition
+
 Sun, 10 Dec 2023 12:30:56 +0530
 ### [‘Mast Mein Rehne Ka’ movie review: A low-rent delight](https://www.thehindu.com/entertainment/movies/mast-mein-rehne-ka-movie-review-a-low-rent-delight/article67622400.ece)
 

@@ -1,3 +1,45 @@
+2023-12-12T18:06:47+05:30
+### [Biden Won't Be the Republic Day Chief Guest, Scheduled Quad Summit in January Postponed: Officials](https://thewire.in/diplomacy/biden-wont-be-the-republic-day-chief-guest-scheduled-quad-summit-in-january-postponed-officials)
+
+No Article text 
+Indian official sources have said that the Quad summit is 'proposed to be held later in 2024'. The statement does not address the invitation to Biden, but it is highly unlikely that the US President would be considering two separate visits to India in one year.
+
+2023-12-12T17:55:26+05:30
+### [Rajasthan: First-Time MLA Bhajanlal Sharma Is New Chief Minister](https://thewire.in/politics/rajasthan-first-time-mla-bhajanlal-sharma-new-chief-minister)
+
+No Article text 
+With this announcement, the BJP has now dropped all of its previous chief ministers in Madhya Pradesh (Shivraj Singh Chouhan), Chhattisgarh (Raman Singh) and Rajasthan (Vasundhara Raje).
+
+2023-12-12T17:30:21+05:30
+### [A Gripping Deep Dive Into the 2015 FTII Students' Agitation](https://thewire.in/books/a-gripping-deep-dive-into-the-2015-ftii-students-agitation)
+
+No Article text 
+Ashish Rajadhyaksha’s one-of-a-kind volume – John-Ghatak-Tarkovsky: Citizens, Filmmakers, Hackers – is a fairly comprehensive, non-linear chronicle of the strike.
+
+2023-12-12T17:26:20+05:30
+### [Mohan Yadav: Little Known Outside Ujjain, BJP's CM Pick for MP Baffles Party Leaders, Cadres](https://thewire.in/politics/mohan-yadav-little-known-outside-ujjan-bjps-cm-pick-for-mp-baffles-party-leaders-cadres)
+
+No Article text 
+The choice of the 58-year-old OBC leader by the party leadership has defied all comprehension given that the other claimants for the coveted post have more experience and popularity. Is Yadav's elevation a master stroke as is being described by the media?
+
+2023-12-12T17:00:23+05:30
+### [COP: Protecting the Lifestyle of the Well-Off For the 28th Time](https://thewire.in/environment/cop-protecting-the-lifestyle-of-the-well-off-for-the-28th-time)
+
+No Article text 
+For COP to make progress, the agenda of both the rich nations and the ruling classes of the developing countries has to be cutting wasteful consumption.
+
+2023-12-12T16:00:51+05:30
+### [Remembering Benjamin Zephaniah: A Griot in the World](https://thewire.in/culture/remembering-benjamin-zephaniah-a-griot-in-the-world)
+
+No Article text 
+Zephaniah’s radical rejection of mid-20th century abstract aestheticism in Western poetry has been much commented upon since his death recently.
+
+2023-12-12T16:00:34+05:30
+### [Adani Group's Ties with Controversial Contractor Howe Raise Governance Concerns: Report](https://thewire.in/business/adani-groups-ties-with-controversial-contractor-howe-raise-governance-concerns-report)
+
+No Article text 
+Bloomberg reported that the contracting firm contains the core operations of a business called PMC Projects Pvt. Ltd. PMC Projects, along with two other firms, faced allegations of inflating the value of imported power and infrastructure goods, amounting to nearly Rs 1,500 crore.
+
 2023-12-12T15:45:12+05:30
 ### [JNU Institutes New Rules to Punish Protests with Fines, Rustication from Campus](https://thewire.in/rights/jnu-institutes-new-rules-to-punish-protests-with-fines-rustication-from-campus)
 

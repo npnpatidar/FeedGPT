@@ -1,3 +1,14 @@
+Tue, 12 Dec 2023 16:40:41 +0530
+### [Apple’s iOS 17.2 for iPhones brings tons of new features and a special ability for iPhone 15 Pro Max](https://www.firstpost.com/tech/apples-ios-17-point-2-for-iphones-brings-tons-of-new-features-and-a-special-ability-for-iphone-15-pro-max-13495412.html)
+
+Article found but Couldn't summarize 
+Apple’s iOS 17.2 for iPhones brings tons of new features and a special ability for iPhone 15 Pro Max
+
+Tue, 12 Dec 2023 16:15:51 +0530
+### [Audi, Mercedes to invest in Huawei? Chinese tech giant held meetings exploring potential EV partnership](https://www.firstpost.com/tech/audi-mercedes-to-invest-in-huawei-chinese-tech-giant-held-meetings-exploring-potential-ev-partnership-13495162.html)
+
+As GPT-3.5, I can provide a summary of the article you shared. Huawei, in an effort to offset the effects of US-imposed sanctions, has held meetings with Audi and Mercedes, exploring a possible partnership for their electric vehicle (EV) and smart car software. The discussions revolved around the German automakers acquiring small stakes in Huawei's smart car software and components firm. Huawei aims to expand its partnerships beyond Chinese brands and mitigate the impact of US sanctions. The company recently announced its intention to spin off its Intelligent Automotive Solution (IAS) business unit, which focuses on software and components for smart EVs. Mercedes has shown little interest, while Audi's level of interest is yet to be determined. Huawei's efforts in the automotive sector reflect the challenges posed by US sanctions.
+
 Tue, 12 Dec 2023 15:38:31 +0530
 ### [Over half of Indian employees feel AI will help enhance productivity, finds survey](https://www.firstpost.com/tech/almost-half-of-indian-employees-feel-ai-will-help-enhance-productivity-finds-survey-13495022.html)
 

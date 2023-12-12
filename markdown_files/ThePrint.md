@@ -1,3 +1,121 @@
+Tue, 12 Dec 2023 12:57:19 +0000
+### [Soccer-Dortmund eye PSG weakness in away games for group win](https://theprint.in/sport/soccer-dortmund-eye-psg-weakness-in-away-games-for-group-win/1883083/)
+
+Article found but Couldn't summarize 
+BERLIN (Reuters) - Borussia Dortmund have identified Pars St Germain's away form in the Champions League as one of their opponents' weaknesses ahead of their final Group F game on Wednesday that will
+
+Tue, 12 Dec 2023 12:57:10 +0000
+### [Rugby-Jones to be named Japan head coach on Thursday – reports](https://theprint.in/sport/rugby-jones-to-be-named-japan-head-coach-on-thursday-reports/1883081/)
+
+Article found but Couldn't summarize 
+TOKYO (Reuters) - Eddie Jones is set to return as Japan's head coach, local media reported, with an announcement expected as soon as Thursday. Former Australia and England coach Jones attended a final
+
+Tue, 12 Dec 2023 12:56:58 +0000
+### [Oracle tumbles as tepid forecast fans cloud growth concerns](https://theprint.in/tech/oracle-tumbles-as-tepid-forecast-fans-cloud-growth-concerns/1883079/)
+
+Article found but Couldn't summarize 
+(Reuters) - Oracle shares fell 9% in premarket trading on Tuesday as another quarter of below-expectations cloud sales and a bleak forecast amplified concerns over the pace of growth at the business
+
+Tue, 12 Dec 2023 12:56:43 +0000
+### [India’s October industrial output up 11.7% y/y](https://theprint.in/economy/indias-october-industrial-output-up-11-7-y-y/1883077/)
+
+Article found but Couldn't summarize 
+NEW DELHI (Reuters) - India's industrial output rose 11.7% year-on-year in October, data from the Ministry of Statistics showed on Tuesday. Analysts in a Reuters poll had forecast an expansion of 10%.
+
+Tue, 12 Dec 2023 12:56:34 +0000
+### [Dollar edges lower as US inflation data looms](https://theprint.in/economy/dollar-edges-lower-as-us-inflation-data-looms/1883075/)
+
+Article found but Couldn't summarize 
+By Tom Westbrook and Alun John SINGAPORE/LONDON (Reuters) - The dollar ticked lower on Tuesday and the yen regained some ground it had lost in the past two sessions as traders turned their focus to
+
+Tue, 12 Dec 2023 12:56:22 +0000
+### [Gold drifts upwards as dollar dips ahead of US inflation print](https://theprint.in/economy/gold-drifts-upwards-as-dollar-dips-ahead-of-us-inflation-print/1883073/)
+
+Article found but Couldn't summarize 
+By Anjana Anil (Reuters) - Gold prices recovered from a three-week low hit the previous session, as a weaker dollar provided support on Tuesday ahead of U.S. inflation data and major central bank
+
+Tue, 12 Dec 2023 12:56:05 +0000
+### [Stocks, gold rise as dollar eases ahead of U.S. inflation data](https://theprint.in/economy/stocks-gold-rise-as-dollar-eases-ahead-of-u-s-inflation-data/1883071/)
+
+Article found but Couldn't summarize 
+By Amanda Cooper LONDON (Reuters) -Global stocks rose on Tuesday, while gold edged up on the back of a weaker dollar, ahead of U.S. inflation figures that could set the tone for trading in a week
+
+Tue, 12 Dec 2023 12:55:42 +0000
+### [Kenya to scrap visas for all visitors, president says](https://theprint.in/world/kenya-to-scrap-visas-for-all-visitors-president-says/1883069/)
+
+As GPT-3.5, I can provide a summary of the article you shared. According to President William Ruto of Kenya, starting from January, visitors from around the world will no longer require a visa to enter Kenya. The government has developed a digital platform to issue electronic travel authorizations in advance, eliminating the need for a visa application. This move aims to make it easier for people to travel to Kenya without the burden of visa requirements. The tourism industry in Kenya, which offers beach holidays and wildlife safaris, plays a vital role in the country's economy. President Ruto expressed a welcoming message to humanity, emphasizing that Kenya is open to visitors. Please note that this summary is generated based on the provided text and may not include all the details from the original article.
+
+Tue, 12 Dec 2023 12:54:29 +0000
+### [Guinea-Bissau president reappoints Geraldo Martins as PM](https://theprint.in/world/guinea-bissau-president-reappoints-geraldo-martins-as-pm/1883067/)
+
+Article found but Couldn't summarize 
+By Alberto Dabo BISSAU (Reuters) - Guinea-Bissau's President Umaro Sissoco Embalo has reappointed Geraldo Martins as prime minister after dissolving his government last week, he said in a statement on
+
+Tue, 12 Dec 2023 12:51:26 +0000
+### [Israel pounds Gaza as hunger spreads, disease risk grows](https://theprint.in/world/israel-pounds-gaza-as-hunger-spreads-disease-risk-grows/1883066/)
+
+Article found but Couldn't summarize 
+By Nidal al-Mughrabi and Michelle Nichols CAIRO/UNITED NATIONS (Reuters) -Israeli tanks and warplanes pummelled southern Gaza on Tuesday, and the U.N. said aid distribution to Gazans facing growing
+
+Tue, 12 Dec 2023 12:50:43 +0000
+### [Govt ignored geologists’ advice on Silkyara tunnel: Adhir](https://theprint.in/india/govt-ignored-geologists-advice-on-silkyara-tunnel-adhir/1883065/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 12 (PTI) Congress leader Adhir Ranjan Chowdhury on Tuesday said the ordeal of 41 workers trapped inside a tunnel in Uttarakhand for 17 days could have been averted had the government listened to the advice of experts. Raising the issue in the Lok Sabha during Zero Hour, Chowdhury said experts had flagged [&#8230;]
+
+Tue, 12 Dec 2023 12:46:10 +0000
+### [Yemen’s Houthis claim attack on Norwegian tanker in tense Middle East](https://theprint.in/world/yemens-houthis-claim-attack-on-norwegian-tanker-in-tense-middle-east/1883064/)
+
+Article found but Couldn't summarize 
+By Nadine Awadalla and Terje Solsvik DUBAI/OSLO (Reuters) -Yemen's Houthis said on Tuesday they carried out a military operation against a Norwegian commercial tanker in their latest protest against
+
+Tue, 12 Dec 2023 12:45:03 +0000
+### [Industrial production grows to 16-month high of 11.7 pc in Oct](https://theprint.in/economy/industrial-production-grows-to-16-month-high-of-11-7-pc-in-oct/1883062/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 12 (PTI) India&#8217;s industrial production growth increased to a 16-month high of 11.7 per cent in October, mainly due to good show by manufacturing, mining and electricity sectors, according to the official data released on Tuesday. &#8220;India&#8217;s IIP growth rate rises to a 16-month high of 11.7 per cent in October 2023,&#8221; [&#8230;]
+
+Tue, 12 Dec 2023 12:38:25 +0000
+### [WHO protests after patient dies on rescue mission held up by Israeli troops](https://theprint.in/world/who-protests-after-patient-dies-on-rescue-mission-held-up-by-israeli-troops/1883061/)
+
+Article found but Couldn't summarize 
+By Gabrielle Tétrault-Farber GENEVA (Reuters) -The World Health Organization complained on Tuesday about the Israeli detention of a medical rescue convoy in the Gaza Strip, saying one patient had died
+
+Tue, 12 Dec 2023 12:30:04 +0000
+### [Militant suicide truck attack kills 23 Pakistani soldiers](https://theprint.in/world/militant-suicide-truck-attack-kills-23-pakistani-soldiers/1883060/)
+
+Article found but Couldn't summarize 
+By Saud Mehsud and Mushtaq Ali DERA ISMAIL KHAN, Pakistan (Reuters) - A six-man suicide squad drove an explosive-laden truck into a military camp in northwest Pakistan on Tuesday, killing at least 23
+
+Tue, 12 Dec 2023 12:30:03 +0000
+### [India women’s performance against England, Australia could lead to multi-Test series: Beaumont](https://theprint.in/sport/india-womens-performance-against-england-australia-could-lead-to-multi-test-series-beaumont-2/1883059/)
+
+Article found but Couldn't summarize 
+Navi Mumbai, Dec 12 (PTI) England batter Tammy Beaumont feels India’s performances in the two women&#8217;s Tests at home could determine the length of a red-ball series going forward. The Indian women’s team will take on England in a one-off Test starting on December 14, followed by another one-off Test against Australia to be played [&#8230;]
+
+Tue, 12 Dec 2023 12:20:54 +0000
+### [No rush to write bespoke rules for AI in finance, says UK watchdog](https://theprint.in/tech/no-rush-to-write-bespoke-rules-for-ai-in-finance-says-uk-watchdog/1883053/)
+
+Article found but Couldn't summarize 
+By Huw Jones LONDON (Reuters) - As criminals make "unfettered" use of artificial intelligence (AI) to disrupt markets and scam consumers, Britain has a cocktail of rules already in place to tackle
+
+Tue, 12 Dec 2023 12:19:22 +0000
+### [MCD’s first ‘milk bank’ plans to store mother’s milk for future use](https://theprint.in/india/mcds-first-milk-bank-plans-to-store-mothers-milk-for-future-use/1883049/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 12 (PTI) Delhi&#8217;s first municipal-run &#8220;milk bank&#8221;, proposed to be setup at a hospital, will have a facility to store mother&#8217;s milk at low temperatures for future use, officials said. In its budget presented on December 9, the Municipal Corporation of Delhi (MCD) had proposed the establishment of its first lactation management [&#8230;]
+
+Tue, 12 Dec 2023 12:19:21 +0000
+### [India’s retail inflation rose to 5.55% in November](https://theprint.in/economy/indias-retail-inflation-rose-to-5-55-in-november/1883048/)
+
+Hmm, based on the provided text, I can tell you that India's annual retail inflation in November rose at the fastest pace in three months, primarily due to food prices. The annual retail inflation increased to 5.55% in November from 4.87% the previous month. However, this rate was lower than the forecasted rate of 5.70% by economists. Food inflation, which contributes to almost half of the overall consumer price basket, was 8.70% in November, up from 6.61% in October. This information is based on government data.
+
+Tue, 12 Dec 2023 12:18:09 +0000
+### [A woman’s perspective important in every aspect: ‘Kathaal’ director Jeo Baby](https://theprint.in/feature/a-womans-perspective-important-in-every-aspect-kathaal-director-jeo-baby/1883043/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 12 (PTI) Director Jeo Baby says he is affected by what happens in families and wants his cinema to reflect that reality, whether it&#8217;s his critically-acclaimed &#8220;The Great Indian Kitchen&#8221; or his latest &#8220;Kathaal-The Core&#8221;, which is making waves for its portrayal of a marriage in crisis. &#8220;Kathaal&#8221;, starring Malayalam cinema star [&#8230;]
+
 Tue, 12 Dec 2023 10:25:32 +0000
 ### [Sunak faces crunch UK parliamentary showdown over Rwanda asylum plan](https://theprint.in/world/sunak-faces-crunch-uk-parliamentary-showdown-over-rwanda-asylum-plan/1882814/)
 

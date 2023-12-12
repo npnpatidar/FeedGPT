@@ -1,3 +1,13 @@
+Tue, 12 Dec 2023 12:16:20 +0000
+### [C Raja Mohan writes: A chance for India to permanently end external meddling in Kashmir](https://indianexpress.com/article/opinion/columns/a-chance-for-india-to-permanently-end-external-meddling-in-kashmir-9065176/)
+
+Article found but Couldn't summarize
+
+Tue, 12 Dec 2023 11:37:44 +0000
+### [Zara’s ‘Palestine’ ad campaign: Why death and war are not for sale](https://indianexpress.com/article/opinion/columns/zara-palestine-ad-campaign-death-war-not-sale-9065204/)
+
+Article found but Couldn't summarize
+
 Tue, 12 Dec 2023 06:04:23 +0000
 ### [Pick up a book, watch a film and go to a restaurant — without Zomato, Goodreads or IMDb](https://indianexpress.com/article/opinion/columns/pick-up-a-book-watch-a-film-and-go-to-a-restaurant-without-zomato-goodreads-or-imdb-9064563/)
 
