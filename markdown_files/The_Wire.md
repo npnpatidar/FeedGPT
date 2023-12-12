@@ -1,3 +1,15 @@
+2023-12-12T12:45:04+05:30
+### [Union Govt's Procurement from MSMEs Owned by SC, ST, Women Entrepreneurs Fell Short of Policy](https://thewire.in/business/msme-procurement-women-scheduled-castes-tribes)
+
+No Article text 
+Since 2019, the government has procured 2.03% from MSMEs owned by members of Scheduled Caste and Scheduled Tribe communities and 2.46% from MSMEs owned by women entrepreneurs.
+
+2023-12-12T12:17:45+05:30
+### [Of Rs 84,544 Crore Proposals, Only Rs 2,518 Crore Investments Actualised in J&K Since 2021](https://thewire.in/government/of-rs-84544-crore-proposals-only-rs-2518-crore-investments-actualised-in-jk-since-2021)
+
+No Article text 
+More than half the investments – almost 60% – in terms of value are for Jammu, and the rest for Kashmir.
+
 2023-12-12T10:50:12+05:30
 ### [Supreme Court Declines PIL Seeking New Panel of Experts for Addressing Manipur Violence](https://thewire.in/rights/supreme-court-declines-pil-seeking-new-panel-of-experts-for-addressing-manipur-violence)
 

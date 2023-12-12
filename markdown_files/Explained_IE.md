@@ -1,3 +1,8 @@
+Tue, 12 Dec 2023 07:02:56 +0000
+### [What to expect as India hosts Global Partnership on AI Summit today](https://indianexpress.com/article/explained/explained-sci-tech/india-global-partnership-on-ai-9064596/)
+
+Article found but Couldn't summarize
+
 Tue, 12 Dec 2023 02:10:58 +0000
 ### [Key aspects of Article 370 verdict unpacked](https://indianexpress.com/article/explained/key-aspects-of-article-370-verdict-unpacked-9064079/)
 

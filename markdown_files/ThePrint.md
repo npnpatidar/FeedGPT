@@ -1,3 +1,119 @@
+Tue, 12 Dec 2023 07:02:45 +0000
+### [HarperCollins presents SHEIKH ABDULLAH – The Caged Lion of Kashmir by Chitralekha Zutshi (The second book in the Indian Lives series)](https://theprint.in/ani-press-releases/harpercollins-presents-sheikh-abdullah-the-caged-lion-of-kashmir-by-chitralekha-zutshi-the-second-book-in-the-indian-lives-series/1882579/)
+
+Article found but Couldn't summarize 
+PRNewswire New Delhi [India], December 12: Sheikh Abdullah: The Caged Lion of Kashmir is as much a biography of one Kashmiri as that of an entire generation of leaders who shaped the politics and institutions of twentieth-century South Asia. A Fourth Estate Book Hardback &#124; Non-Fiction &#124; History &#124; 384 pp &#124; INR 799 Available [&#8230;]
+
+Tue, 12 Dec 2023 07:02:32 +0000
+### [L&T Technology Services and bp Sign Multi-Year Engineering Services Partnership](https://theprint.in/ani-press-releases/lt-technology-services-and-bp-sign-multi-year-engineering-services-partnership/1882577/)
+
+As GPT-3.5, I can provide a summary of the article you shared. L&T Technology Services Limited (LTTS) has secured a multi-year engineering services partnership with bp, plc, one of the world's largest diversified energy companies. This collaboration will focus on improving operational excellence and addressing significant challenges for bp globally. LTTS will leverage its domain expertise in the Energy segment and its experience in engineering, manufacturing services, digital and enterprise data management. The partnership aims to drive productivity improvement and emphasize top-tier operational efficiency through digital enablement.
+
+Tue, 12 Dec 2023 07:02:18 +0000
+### [Disha Salian death case: State orders SIT probe](https://theprint.in/feature/disha-salian-death-case-state-orders-sit-probe/1882575/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 12 (ANI): The state government on Tuesday ordered an SIT (Special Investigation Team) probe into the death of Disha Salian, the manager of late actor Sushant Singh Rajput. In December, last year, Deputy Chief Minister Devendra Fadnavis informed the Assembly that a Special Investigation Team (SIT) would be formed to probe [&#8230;]
+
+Tue, 12 Dec 2023 07:02:02 +0000
+### [Indus Valley Partners earns its first coveted Great Place to Work Certification](https://theprint.in/ani-press-releases/indus-valley-partners-earns-its-first-coveted-great-place-to-work-certification/1882573/)
+
+Article found but Couldn't summarize 
+PRNewswire Noida (Uttar Pradesh) [India], December 12: Indus Valley Partners (India) Pvt. Ltd. (IVP), a leading organization specializing in IT services and IT consulting, proudly announces the attainment of the esteemed Great Place to Work&#174; Certification by the Great Place to Work&#174; Institute. This accolade underscores IVP&#8217;s unwavering commitment to nurturing an outstanding workplace culture, [&#8230;]
+
+Tue, 12 Dec 2023 07:01:06 +0000
+### [Body of boy killed by leopard recovered in UP’s Balrampur](https://theprint.in/india/body-of-boy-killed-by-leopard-recovered-in-ups-balrampur/1882572/)
+
+Article found but Couldn't summarize 
+Balrampur (UP), Dec 12 (PTI) The body of a nine-year-old boy who was allegedly taken into the forests by a leopard was recovered near Dharmpur village in the Sohelwa Forest Range of this Uttar Pradesh district, officials said on Tuesday. Sharif was returning to the village after grazing goats on Monday when a leopard attacked [&#8230;]
+
+Tue, 12 Dec 2023 07:00:55 +0000
+### [Cyber thugs dupe 62-year-old man by faking his relative’s kidnapping](https://theprint.in/india/cyber-thugs-dupe-62-year-old-man-by-faking-his-relatives-kidnapping/1882571/)
+
+As GPT-3.5, I can provide a summary of the article you shared. A 62-year-old man from Yamuna Vihar in northeast Delhi was allegedly duped of Rs 50,000 by a group of cyber criminals. They tricked him by claiming that one of his relatives had been kidnapped and would be harmed if he didn't pay the money. The victim received a call on his WhatsApp, where he heard the voice of a man crying in the background. The accused provided a different number for the victim to make the payment. The victim transferred Rs 50,000 out of fear, but later realized that his cousin's son was safe at home. The police have registered a complaint and initiated an investigation into the matter. Please note that this summary is based on the information provided in the article.
+
+Tue, 12 Dec 2023 07:00:42 +0000
+### [Mercury plummets below 10 degC in parts of Odisha](https://theprint.in/india/mercury-plummets-below-10-degc-in-parts-of-odisha/1882569/)
+
+Article found but Couldn't summarize 
+Bhubaneswar, Dec 12 (PTI) Cold weather conditions prevailed in several tribal-dominated districts of Odisha as the mercury plummeted below the 10 degrees Celsius mark on Tuesday. G Udayagiri in Kandhamal district recorded the lowest temperature in the state at 7.2 degrees Celsius, the Meteorological Centre, Bhubaneswar said. Keonjhar and Kirei in Sundargarh district recorded a [&#8230;]
+
+Tue, 12 Dec 2023 07:00:33 +0000
+### [COP28 heads for overtime as draft fossil fuel deal divides nations](https://theprint.in/environment/cop28-heads-for-overtime-as-draft-fossil-fuel-deal-divides-nations/1882568/)
+
+Article found but Couldn't summarize 
+By Valerie Volcovici, Jake Spring and Kate Abnett DUBAI (Reuters) - The COP28 climate summit was hurtling towards overtime early on Tuesday, with negotiators awaiting a new draft deal after many
+
+Tue, 12 Dec 2023 07:00:29 +0000
+### [Why Russians still support Vladimir Putin and the war in Ukraine](https://theprint.in/world/why-russians-still-support-vladimir-putin-and-the-war-in-ukraine/1882567/)
+
+Article found but Couldn't summarize 
+Calgary (Canada), Dec 12 (The Conversation) Russian president Vladimir Putin has announced he intends to run in the 2024 presidential election. Putin is almost certain to win what would be his fifth term as Russian president. The news comes as little surprise. Putin has led Russia for 24 years and polls suggest Russia’s ongoing military [&#8230;]
+
+Tue, 12 Dec 2023 07:00:15 +0000
+### [Mamata to meet PM Modi on Dec 20 over release of financial dues](https://theprint.in/india/mamata-to-meet-pm-modi-on-dec-20-over-release-of-financial-dues/1882566/)
+
+As GPT-3.5, I can provide you with a summary of the article you shared. West Bengal Chief Minister Mamata Banerjee is scheduled to meet Prime Minister Narendra Modi in New Delhi on December 20 to discuss the release of financial dues to the state. The Prime Minister's Office has agreed to Banerjee's request for an appointment, and the meeting is set to take place around 11 am on December 20. Banerjee had earlier claimed that the Centre owed Rs 1.15 lakh crore to West Bengal on various accounts, including 100 days of work under MGNREGA. Please note that this summary is generated by GPT-3.5 and may not include all the details of the article.
+
+Tue, 12 Dec 2023 07:00:14 +0000
+### [Four Palestinians killed in Israeli raid on West Bank’s Jenin -Palestinian health ministry](https://theprint.in/world/four-palestinians-killed-in-israeli-raid-on-west-banks-jenin-palestinian-health-ministry/1882565/)
+
+Article found but Couldn't summarize 
+RAMALLAH (Reuters) - Four Palestinians were killed on Tuesday in a drone strike during an Israeli raid on the occupied West Bank city of Jenin and its refugee camp, the Palestinian health ministry and
+
+Tue, 12 Dec 2023 07:00:03 +0000
+### [Philippines summons Chinese ambassador over South China Sea ‘harassment’](https://theprint.in/world/philippines-summons-chinese-ambassador-over-south-china-sea-harassment/1882563/)
+
+Article found but Couldn't summarize 
+MANILA (Reuters) - The Philippines' foreign ministry said on Tuesday it has summoned China's ambassador to Manila to protest "back-to-back harassments" in the South China Sea at the weekend. Manila
+
+Tue, 12 Dec 2023 07:00:02 +0000
+### [Koalas suffer in the heat – here’s how to help this summer](https://theprint.in/world/koalas-suffer-in-the-heat-heres-how-to-help-this-summer/1882562/)
+
+Article found but Couldn't summarize 
+Brisbane (Australia), Dec 12 (The Conversation) As we brace for an unusually hot summer, spare a thought for koalas. They will be out and about in search of love, food and water in the searing heat. Mother koalas with pouch young are especially vulnerable. Many will be killed or injured on our roads as they [&#8230;]
+
+Tue, 12 Dec 2023 06:47:47 +0000
+### [‘Fighter’ new poster: Hrithik Roshan introduces Karan Singh Grover as Squadron Leader Sartaj Gill](https://theprint.in/feature/fighter-new-poster-hrithik-roshan-introduces-karan-singh-grover-as-squadron-leader-sartaj-gill/1882554/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 12 (ANI): Makers of the upcoming aerial action thriller film &#8216;Fighter&#8217; on Tuesday unveiled a new poster of actor Karan Singh Grover as Squadron Leader Sartaj Gill. Taking to Instagram, actor Hrithik Roshan shared the poster that he captioned, &#8220;Squadron Leader Sartaj Gill, Call Sign: Taj, Designation: Squadron Pilot, Unit: Air [&#8230;]
+
+Tue, 12 Dec 2023 06:47:37 +0000
+### [Pakistan Supreme Court to take up lifetime disqualification matter](https://theprint.in/world/pakistan-supreme-court-to-take-up-lifetime-disqualification-matter/1882552/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 12 (ANI): The Supreme Court of Pakistan on Monday took notice of the discrepancy between the judicial decision on lifetime disqualification under Article 62 (1) (f) and the amendments made to the Elections Act, 2017, ARY News reported. ARY News is a Pakistani news channel. The top court scheduled the hearing for [&#8230;]
+
+Tue, 12 Dec 2023 06:47:27 +0000
+### [IFFCO Group Marks a Culinary Milestone with the Grand Opening of its Flagship Customer Engagement Centre in India](https://theprint.in/ani-press-releases/iffco-group-marks-a-culinary-milestone-with-the-grand-opening-of-its-flagship-customer-engagement-centre-in-india/1882550/)
+
+Article found but Couldn't summarize 
+NewsVoir Delhi-NCR [India], December 12: IFFCO, the Multinational group based in the United Arab Emirates announces the grand opening of its state-of-the-art Customer Engagement Centre in India, solidifying its significant footprint in the country. The grandeur of this occasion unfolded at the prestigious AIPL Business Club, as PRISTINE, one of IFCCO&#8217;s flagship brands, embarked on [&#8230;]
+
+Tue, 12 Dec 2023 06:47:15 +0000
+### [Naveen Jindal led Jindal Steel & Power honoured with CSR Excellence Award](https://theprint.in/ani-press-releases/naveen-jindal-led-jindal-steel-power-honoured-with-csr-excellence-award/1882548/)
+
+Article found but Couldn't summarize 
+Jindal Steel &#38; Power Limited New Delhi [India], December 12: Jindal Steel &#38; Power (JSP), a global leader in the steel industry, has been conferred with the CSR Excellence Award by The CSR Journal in recognition of its outstanding contribution to the promotion of sports in rural and tribal areas of the country. Union Defence [&#8230;]
+
+Tue, 12 Dec 2023 06:47:02 +0000
+### [The Art of Living signs an MOU with the Govt. of Maharashtra for a powerful resolution to the devastating water crises](https://theprint.in/ani-press-releases/the-art-of-living-signs-an-mou-with-the-govt-of-maharashtra-for-a-powerful-resolution-to-the-devastating-water-crises/1882546/)
+
+Article found but Couldn't summarize 
+PRNewswire Mumbai (Maharashtra) [India], December 12: The Art of Living Social Projects takes immense pride in unveiling a strategic partnership to usher in transformative measures ensuring water positivity for the state of Maharashtra. An MOU was signed in Mumbai on the 26th of November between The Art of Living Social Projects and the Department of [&#8230;]
+
+Tue, 12 Dec 2023 06:45:59 +0000
+### [Puma to end sponsorship of Israel’s national football team next year](https://theprint.in/sport/puma-to-end-sponsorship-of-israels-national-football-team-next-year/1882544/)
+
+Puma will end its sponsorship of Israel's national football team next year. The decision was made before Hamas' Oct. 7 attack. Puma's spokesperson stated that the contracts of some federations, including Serbia and Israel, will expire in 2024. This decision was part of Puma's new "fewer-bigger-better strategy" and aligned with the timelines for designing and developing team jerseys. The Palestinian-led Boycott, Divestment and Sanctions (BDS) movement had called for a boycott of Puma due to its sponsorship of the Israeli team. Boycott calls have grown stronger following Israel's military offensive in the Gaza Strip. Please note that this information is auto-generated from the Reuters news service, and ThePrint holds no responsibility for its content.
+
+Tue, 12 Dec 2023 06:45:47 +0000
+### [Nokia lowers 2026 profit margin target, wins Deutsche Telekom contract](https://theprint.in/tech/nokia-lowers-2026-profit-margin-target-wins-deutsche-telekom-contract/1882542/)
+
+Article found but Couldn't summarize 
+STOCKHOLM (Reuters) - Finnish telecom equipment maker Nokia said on Tuesday it had revised down its comparable operating margin target to at least 13% by 2026 from at least 14% previously, after
+
 Tue, 12 Dec 2023 06:17:23 +0000
 ### [Fitch Ratings adjusts global metals and mining price assumptions for 2023-2026](https://theprint.in/economy/fitch-ratings-adjusts-global-metals-and-mining-price-assumptions-for-2023-2026/1882516/)
 

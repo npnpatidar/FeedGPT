@@ -1,3 +1,15 @@
+Tue, 12 Dec 2023 12:19:06 +0530
+### [Google updates ad policies for cryptocurrencies, will set strict conditions to protect investors](https://www.firstpost.com/tech/google-updates-ad-policies-for-cryptocurrencies-will-set-strict-conditions-to-protect-investors-13493582.html)
+
+Article found but Couldn't summarize 
+Google updates ad policies for cryptocurrencies, will set strict conditions to protect investors
+
+Tue, 12 Dec 2023 11:56:40 +0530
+### [Epic vs Google: Alphabet loses Google Play Store monopoly case, jury rules against ‘illegal monopoly’](https://www.firstpost.com/tech/epic-vs-google-alphabet-loses-google-play-store-monopoly-case-jury-rules-against-illegal-monopoly-13492902.html)
+
+Article found but Couldn't summarize 
+Epic vs Google: Alphabet loses Google Play Store monopoly case, jury rules against ‘illegal monopoly’
+
 Tue, 12 Dec 2023 10:29:44 +0530
 ### [US Judge upholds Texas ban on TikTok, agrees with state’s data protection concerns](https://www.firstpost.com/tech/us-judge-upholds-texas-ban-on-tiktok-agrees-with-states-data-protection-concerns-13492782.html)
 
