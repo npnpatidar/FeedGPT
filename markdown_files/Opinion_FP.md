@@ -1,3 +1,9 @@
+Tue, 12 Dec 2023 10:22:19 +0530
+### [How diminishing influence of US in West Asia is opening up spaces for Russia, China](https://www.firstpost.com/opinion/how-diminishing-influence-of-us-in-west-asia-is-opening-up-spaces-for-russia-china-13492502.html)
+
+Article found but Couldn't summarize 
+How diminishing influence of US in West Asia is opening up spaces for Russia, China
+
 Mon, 11 Dec 2023 18:30:39 +0530
 ### [The gap between Kashmiriyat and BHARATIYAT has been bridged](https://www.firstpost.com/opinion/the-gap-between-kashmiriyat-and-bharatiyat-has-been-bridged-13491372.html)
 

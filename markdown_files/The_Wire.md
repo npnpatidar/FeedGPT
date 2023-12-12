@@ -1,3 +1,15 @@
+2023-12-12T10:29:45+05:30
+### [Calling Detention for 5 Years 'Illegal', J&K HC Sets Journalist Aasif Sultan Free](https://thewire.in/media/aasif-sultan-kashmir-journalist-detention-free)
+
+No Article text 
+The court also reprimanded the authorities for not furnishing any credible evidence in court.
+
+2023-12-12T09:56:56+05:30
+### [Union Govt Withdraws 3 Criminal Law Bills to Make Changes Recommended By Parl Panel](https://thewire.in/government/union-govt-withdraws-3-criminal-law-bills-to-make-changes-recommended-by-parl-panel)
+
+No Article text 
+The parliamentary panel, headed by Bharatiya Janata Party MP Brij Lal, had said that the government should bring back the term “unsound mind” instead of “mental illness”.
+
 2023-12-12T09:02:01+05:30
 ### ['Excessive and Needless': Veterans on IAF's Likely Move to Rename Itself 'Indian Air and Space Force'](https://thewire.in/security/indian-air-force-space-rename-rajnath-singh)
 

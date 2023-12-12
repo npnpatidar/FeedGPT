@@ -1,3 +1,9 @@
+Tue, 12 Dec 2023 10:00:00 +0530
+### [The limitations of CCS and CDR and their grip on our future climate | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/carbon-capture-sequestration-science-limitations-ipcc-explained/article67627040.ece)
+
+Article found but Couldn't summarize 
+While their technical details are clear, scientists have questions about the scale at which CCS and CDR are expected to succeed.
+
 Mon, 11 Dec 2023 23:02:14 +0530
 ### [Can Bihar increase its reservation pool? | Explained](https://www.thehindu.com/news/national/can-bihar-increase-its-reservation-pool-explained/article67628656.ece)
 

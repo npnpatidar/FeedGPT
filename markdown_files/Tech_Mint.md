@@ -1,3 +1,9 @@
+Tue, 12 Dec 2023 10:01:13 +0530
+### [Redmi 13C with 90Hz display goes on sale today. When and where to buy, launch offers, and more](https://www.livemint.com/technology/gadgets/redmi-13c-with-90hz-display-goes-on-sale-today-when-and-where-to-buy-launch-offers-and-more-11702349581480.html)
+
+Article found but Couldn't summarize 
+Redmi 13C 4G variant will go on sale today on Amazon, Mi.com and Xiaomi Retail. The smartphone is powered by the Helio G85 chipset and sports a 6.74 inch display with 90 Hz refresh rate.
+
 Tue, 12 Dec 2023 09:19:01 +0530
 ### [Apple rolls out Journal app with iOS 17.2 update. All you need to know about the new app](https://www.livemint.com/technology/tech-news/apple-rolls-out-journal-app-with-ios-17-2-update-all-you-need-to-know-about-the-new-app-11702349715013.html)
 

@@ -1,3 +1,15 @@
+Tue, 12 Dec 2023 10:29:44 +0530
+### [US Judge upholds Texas ban on TikTok, agrees with state’s data protection concerns](https://www.firstpost.com/tech/us-judge-upholds-texas-ban-on-tiktok-agrees-with-states-data-protection-concerns-13492782.html)
+
+Article found but Couldn't summarize 
+US Judge upholds Texas ban on TikTok, agrees with state’s data protection concerns
+
+Tue, 12 Dec 2023 09:50:48 +0530
+### [Apple chooses Vietnam for iPad, to move major engineering, manufacturing resources away from China](https://www.firstpost.com/tech/apple-chooses-vietnam-for-ipad-to-move-major-engineering-manufacturing-resources-away-from-china-13492642.html)
+
+Article found but Couldn't summarize 
+Apple chooses Vietnam for iPad, to move major engineering, manufacturing resources away from China
+
 Mon, 11 Dec 2023 17:40:35 +0530
 ### [Chandrayaan-3, Bhupendra Jogi memes, Kiara Advani: What did Indians Google the most in 2023?](https://www.firstpost.com/world/google-year-in-search-2023-full-list-most-searched-sports-person-movie-news-13491072.html)
 
