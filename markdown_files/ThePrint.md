@@ -1,3 +1,121 @@
+Tue, 12 Dec 2023 08:17:50 +0000
+### [Vibrant Pappi Song “Nach Ke Wakhaun” by Sarika Kansara launched, trends on Instagram](https://theprint.in/ani-press-releases/vibrant-pappi-song-nach-ke-wakhaun-by-sarika-kansara-launched-trends-on-instagram/1882693/)
+
+Article found but Couldn't summarize 
+PNN New Delhi [India], December 12: In a mesmerizing blend of melodious beats and captivating visuals, Sarika Kansara Music has launched the lively and energetic pappi song titled &#8220;Nach Ke Wakhaun,&#8221; by Sarika Kansara. The song has already garnered over 2 million views on Youtube since the release and is trending on Instagram. Shot against [&#8230;]
+
+Tue, 12 Dec 2023 08:17:41 +0000
+### [IMA Launches Certification Focused on Foundational Financial and Managerial Accounting Knowledge](https://theprint.in/ani-press-releases/ima-launches-certification-focused-on-foundational-financial-and-managerial-accounting-knowledge/1882691/)
+
+Article found but Couldn't summarize 
+PRNewswire Bangalore (Karnataka)/Montvale (New Jersey) [US], December 12: IMA&#174; (Institute of Management Accountants), the worldwide association of accountants and financial professionals in business, announced the launch of a new foundational certification in the accounting and finance profession. The FMAA&#8482; (Financial and Managerial Accounting Associate) instills the fundamental knowledge and competencies in accounting and finance, allowing [&#8230;]
+
+Tue, 12 Dec 2023 08:17:31 +0000
+### [Atmus Filtration Technologies Inaugurates its World-Class Global Capability Center in India](https://theprint.in/ani-press-releases/atmus-filtration-technologies-inaugurates-its-world-class-global-capability-center-in-india/1882688/)
+
+Article found but Couldn't summarize 
+NewsVoir Pune (Maharashtra) [India], December 12: Atmus Filtration Technologies Inc. (Atmus; NYSE: ATMU), a global leader in filtration and media solutions, has announced the inauguration of its state-of-the-art Global Capability Center in Pune, India. The opening of the Global Capability Center marks a major milestone for the company in its continued focus to design and [&#8230;]
+
+Tue, 12 Dec 2023 08:17:21 +0000
+### [CoRover and Google Cloud Partner to Bring BharatGPT, A Pioneering Generative AI Powered Conversational Bot for India](https://theprint.in/ani-press-releases/corover-and-google-cloud-partner-to-bring-bharatgpt-a-pioneering-generative-ai-powered-conversational-bot-for-india/1882686/)
+
+Article found but Couldn't summarize 
+PNN Bangalore (Karnataka) [India], December 12: As India continues its ascent as a beacon of technological prowess in cloud adoption, CoRover.ai, in collaboration with Google Cloud as its technology partner, takes a monumental leap with the launch of BharatGPT, an Indigenous generative AI platform meticulously tailored for the Indians. BharatGPT champions the linguistic diversity of [&#8230;]
+
+Tue, 12 Dec 2023 08:17:11 +0000
+### [IIT Delhi to propel professionals into the Quantum Future with Certification in Quantum Computing & Machine Learning](https://theprint.in/ani-press-releases/iit-delhi-to-propel-professionals-into-the-quantum-future-with-certification-in-quantum-computing-machine-learning/1882684/)
+
+Article found but Couldn't summarize 
+PRNewswire New Delhi [India], December 12: The Indian Institute of Technology Delhi (IIT Delhi) has announced the launch of the fourth batch for Certification in Quantum Computing &#38; Machine Learning. This innovative programme is known for its cutting-edge curriculum and is designed to equip professionals with new-age skills and knowledge needed to navigate the transformative [&#8230;]
+
+Tue, 12 Dec 2023 08:17:02 +0000
+### [Israel shoots down six rockets launched from Lebanon](https://theprint.in/world/israel-shoots-down-six-rockets-launched-from-lebanon/1882682/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], December 12 (ANI/TPS): The IDF (Israel Defense Forces) reported that it successfully struck down six rockets out of a group that was launched by terrorists based in Lebanon at Israeli territory. IDF forces then attacked the sources of the launches with artillery fire. Meanwhile, the United States is concerned about reports that [&#8230;]
+
+Tue, 12 Dec 2023 08:15:44 +0000
+### [Spain charges arbitrator who awarded $15 billion to sultan’s heirs in Malaysia dispute](https://theprint.in/world/spain-charges-arbitrator-who-awarded-15-billion-to-sultans-heirs-in-malaysia-dispute/1882679/)
+
+Article found but Couldn't summarize 
+By Belén Carreño and Charlie Devereux MADRID (Reuters) - A Madrid court has started criminal proceedings against a Spanish arbitrator who awarded $15 billion to the descendents of a former sultan in
+
+Tue, 12 Dec 2023 08:15:36 +0000
+### [CBI opposes statutory bail granted to DHFL’s Wadhawans in loan scam case](https://theprint.in/india/cbi-opposes-statutory-bail-granted-to-dhfls-wadhawans-in-loan-scam-case/1882677/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 12 (PTI) The CBI on Tuesday assailed in the Supreme Court the statutory bail granted by courts below to former Dewan Housing Finance Corporation Limited (DHFL) promoters Kapil Wadhawan and his brother Dheeraj in connection with a multi-crore rupees bank loan scam case. A bench comprising Justices Bela M Trivedi and Satish [&#8230;]
+
+Tue, 12 Dec 2023 08:15:32 +0000
+### [South Korea, US to hold new round of nuclear consultation talks -Seoul](https://theprint.in/world/south-korea-us-to-hold-new-round-of-nuclear-consultation-talks-seoul/1882676/)
+
+As GPT-3.5, I can provide a summary of the article you shared. South Korea and the United States will be holding talks on nuclear deterrence as part of their commitment to sharing insights and planning in the event of a conflict with North Korea. The second Nuclear Consultative Group (NCG) meeting will take place in Washington D.C., following the formation of the NCG during a summit in April. The goal of the NCG is to bolster extended deterrence against North Korea's nuclear and missile programs. Additionally, South Korea's Joint Chiefs of Staff Chairman and the U.S. counterpart discussed strengthening bilateral cooperation against North Korea's nuclear and missile threats, as well as countering Pyongyang's military ties with Russia. They also confirmed plans to launch a real-time data-sharing system to monitor North Korean missiles alongside Japan. Please let me know if there's anything else I can assist you with.
+
+Tue, 12 Dec 2023 08:15:24 +0000
+### [Delhi HC asks Centre to respond to AAP’s plea to allot land for its offices](https://theprint.in/india/delhi-hc-asks-centre-to-respond-to-aaps-plea-to-allot-land-for-its-offices/1882674/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 12 (PTI) Delhi High Court on Tuesday sought the Centre&#8217;s response on a plea by the AAP seeking allotment of land in the national capital for construction of its offices, having been recognised as a national party. Justice Subramonium Prasad issued a notice to the Union Ministry of Housing and Urban Affairs [&#8230;]
+
+Tue, 12 Dec 2023 08:15:21 +0000
+### [China is happy to see parties in Myanmar conflict to hold peace talks -Chinese foreign ministry](https://theprint.in/world/china-is-happy-to-see-parties-in-myanmar-conflict-to-hold-peace-talks-chinese-foreign-ministry/1882673/)
+
+Article found but Couldn't summarize 
+BEIJING (Reuters) - China is happy to see parties to the Myanmar conflict hold peace talks and is willing to provide further support, the Chinese foreign ministry said on Tuesday. Representatives from
+
+Tue, 12 Dec 2023 08:15:13 +0000
+### [Pak SC resumes hearing of long-pending case against Zulfikar Bhutto’s death sentence](https://theprint.in/world/pak-sc-resumes-hearing-of-long-pending-case-against-zulfikar-bhuttos-death-sentence/1882672/)
+
+Article found but Couldn't summarize 
+Islamabad, Dec 12 (PTI) Pakistan’s Supreme Court on Tuesday resumed hearing a long-pending presidential reference seeking to revisit the 1979 controversial death penalty given to former prime minister Zulfikar Ali Bhutto. A nine-member larger bench of the apex court, headed by chief justice Qazi Faez Isa, took up the case for hearing. Bhutto was hanged [&#8230;]
+
+Tue, 12 Dec 2023 08:15:13 +0000
+### [Islamist militants attack Pakistani army, killing 24 -sources](https://theprint.in/world/islamist-militants-attack-pakistani-army-killing-24-sources/1882671/)
+
+Article found but Couldn't summarize 
+By Saud Mehsud Mushtaq Ali DERA ISMAIL KHAN, Pakistan (Reuters) -Islamist militants rammed an explosive-laden truck into a police station in northwest Pakistan on Tuesday, killing at least 24 people,
+
+Tue, 12 Dec 2023 08:15:03 +0000
+### [Russian opposition politician Navalny’s location in prison system remains unknown – spokesperson](https://theprint.in/world/russian-opposition-politician-navalnys-location-in-prison-system-remains-unknown-spokesperson/1882668/)
+
+Article found but Couldn't summarize 
+MOSCOW (Reuters) - Russian opposition politician Alexei Navalny's location inside the prison system remains unknown and he again did not show up at a court hearing by video link, Kira Yarmysh, his
+
+Tue, 12 Dec 2023 08:15:02 +0000
+### [Tourists inconvenienced as hotel staffers join stir over power shortage in Andamans’ Havelock Island](https://theprint.in/india/tourists-inconvenienced-as-hotel-staffers-join-stir-over-power-shortage-in-andamans-havelock-island/1882667/)
+
+Article found but Couldn't summarize 
+Port Blair (PTI), Dec 12 (PTI) Around 2,000 tourists faced inconvenience in hotels as many staffers were away to join sit-in demonstrations in protest against frequent power cuts in Swaraj Dweep, popularly known as Havelock Island, in the Andaman and Nicobar Islands. As many as 300 agitators, including hotel staffers, locals and tour operators, staged [&#8230;]
+
+Tue, 12 Dec 2023 08:04:55 +0000
+### [Seven arrested for stripping woman naked, tying her to pole in Karnataka’s Belagavi](https://theprint.in/india/seven-arrested-for-stripping-woman-naked-tying-her-to-pole-in-karnatakas-belagavi/1882650/)
+
+Article found but Couldn't summarize 
+Police said the 42-year-old woman was stripped naked, paraded and assaulted after being tied to an electric pole Monday after her son eloped with a girl of the same village.
+
+Tue, 12 Dec 2023 08:02:20 +0000
+### [Israeli forces continue to find terror bases in schools, UN facilities in Gaza](https://theprint.in/world/israeli-forces-continue-to-find-terror-bases-in-schools-un-facilities-in-gaza/1882658/)
+
+As GPT-3.5, I can provide a summary of the article you shared. The IDF (Israel Defense Forces) reported that soldiers from its Bisla’h infantry brigade combat team, along with fighters from the 636th special forces battalion, identified terrorists armed with shoulder-fired missiles in the Shejaiya area. The brigade directed aircraft to eliminate the terrorists. Additionally, evidence was found of terrorists using UN facilities and schools as cover for their activities. During other operations, explosive charges, weapons, and rocket launch sites were discovered. Israel Air Force aircraft also targeted and eliminated dozens of terrorists. Please note that this summary is based on the information provided in the article.
+
+Tue, 12 Dec 2023 08:02:11 +0000
+### [Benchmark Computer’s IPO for Rs. 12.24 cr. opens on December 14, 2023](https://theprint.in/ani-press-releases/benchmark-computers-ipo-for-rs-12-24-cr-opens-on-december-14-2023/1882656/)
+
+Article found but Couldn't summarize 
+PNN New Delhi [India], December 12: Mumbai based Benchmark Computer Solutions Ltd. is coming with its maiden IPO of 1854000 equity shares of Rs. 10 each at a fixed price of Rs. 66 per share (including a premium of Rs. 56 per share). The company mulls raising Rs. 12.24 cr. with this IPO. The issue [&#8230;]
+
+Tue, 12 Dec 2023 08:02:02 +0000
+### [Ashlesha Thakur’s period Drama Film ‘Shantala’ Will Be Released on December 15 – Mahesh Bhatt](https://theprint.in/ani-press-releases/ashlesha-thakurs-period-drama-film-shantala-will-be-released-on-december-15-mahesh-bhatt/1882654/)
+
+Article found but Couldn't summarize 
+PNN Mumbai (Maharashtra) [India], December 12: Shantala, a dance-centric period drama based on the true events on a popular legend in Karnataka, will be releasing on December 15th. Nihal Kodhaty, who shot to fame with Butterfly, The Story of A Beautiful Girl and Panchatantra Kathalu, pairs up opposite Ashlesha Thakur for the period drama. The [&#8230;]
+
+Tue, 12 Dec 2023 08:00:02 +0000
+### [Maharashtra govt forms panel to probe BMC’s financial transactions in last 25 years](https://theprint.in/india/maharashtra-govt-forms-panel-to-probe-bmcs-financial-transactions-in-last-25-years/1882652/)
+
+Article found but Couldn't summarize 
+Nagpur, Dec 12 (PTI) The Maharashtra government has formed a committee to conduct an audit of the financial transactions of the Brihanmumbai Municipal Corporation (BMC) in the last 25 years, state Minister Uday Samant said on Tuesday. Speaking to reporters here, Samant said the issue was raised during a discussion in the legislative assembly on [&#8230;]
+
 Tue, 12 Dec 2023 07:02:45 +0000
 ### [HarperCollins presents SHEIKH ABDULLAH – The Caged Lion of Kashmir by Chitralekha Zutshi (The second book in the Indian Lives series)](https://theprint.in/ani-press-releases/harpercollins-presents-sheikh-abdullah-the-caged-lion-of-kashmir-by-chitralekha-zutshi-the-second-book-in-the-indian-lives-series/1882579/)
 

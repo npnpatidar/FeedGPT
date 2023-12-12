@@ -1,3 +1,15 @@
+Tue, 12 Dec 2023 13:50:16 +0530
+### [Doing business while doing business: Elon Musk’s toilet humour about phone booths is hilarious, but accurate](https://www.firstpost.com/tech/doing-business-while-doing-business-elon-musks-toilet-humour-about-phone-booths-is-hilarious-but-accurate-13494162.html)
+
+Article found but Couldn't summarize 
+Doing business while doing business: Elon Musk’s toilet humour about phone booths is hilarious, but accurate
+
+Tue, 12 Dec 2023 13:08:34 +0530
+### [‘Not afraid to die, prepared to go to prison if the US government tries to censor X,’ says Elon Musk](https://www.firstpost.com/tech/not-afraid-to-die-prepared-to-go-to-prison-if-the-us-government-tries-to-censor-x-says-elon-musk-13493822.html)
+
+Article found but Couldn't summarize 
+‘Not afraid to die, prepared to go to prison if the US government tries to censor X,’ says Elon Musk
+
 Tue, 12 Dec 2023 12:19:06 +0530
 ### [Google updates ad policies for cryptocurrencies, will set strict conditions to protect investors](https://www.firstpost.com/tech/google-updates-ad-policies-for-cryptocurrencies-will-set-strict-conditions-to-protect-investors-13493582.html)
 

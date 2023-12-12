@@ -1,3 +1,21 @@
+2023-12-12T13:30:05+05:30
+### [Alexei Navalny's Whereabouts Unknown, Says Jailed Russian Opposition Leader's Team](https://thewire.in/world/alexei-navalnys-whereabouts-unknown-says-jailed-russian-opposition-leaders-team)
+
+No Article text 
+Navalny's spokeswoman, Kira Yarmysh, said staff at the penal colony where he has been held since the middle of last year told his lawyer that the opposition leader was no longer among the inmates.
+
+2023-12-12T13:27:33+05:30
+### [Union to SC: 'No Accurate Data on Illegal Immigration, Rs 122 Cr Spent on 100 Foreigners Tribunals'](https://thewire.in/uncategorised/union-to-sc-no-accurate-data-on-illegal-immigration-rs-122-cr-spent-on-100-foreigners-tribunals)
+
+No Article text 
+As of December 1, nearly 8,500 appeals against tribunal orders were pending before the Gauhati high court, the Union home ministry's affidavit said.
+
+2023-12-12T13:00:56+05:30
+### [Mallikarjun Kharge Is the Man the Moment Needs](https://thewire.in/politics/mallikarjun-kharge-is-the-man-the-moment-needs)
+
+No Article text 
+The Herculean challenge that INDIA faces at the moment can only be met by surefooted leaders. Since regional players in INDIA have already given the mantle to the Congress, the role of Mallikajrun Kharge will be decisive.
+
 2023-12-12T12:45:04+05:30
 ### [Union Govt's Procurement from MSMEs Owned by SC, ST, Women Entrepreneurs Fell Short of Policy](https://thewire.in/business/msme-procurement-women-scheduled-castes-tribes)
 

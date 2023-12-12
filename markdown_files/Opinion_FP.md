@@ -1,3 +1,9 @@
+Tue, 12 Dec 2023 13:46:25 +0530
+### [Vantage | How Jammu &amp; Kashmir has changed after 2019](https://www.firstpost.com/opinion/vantage-how-jammu-kashmir-has-changed-after-2019-13493612.html)
+
+Article found but Couldn't summarize 
+Vantage | How Jammu &amp;amp; Kashmir has changed after 2019
+
 Tue, 12 Dec 2023 11:53:25 +0530
 ### [Migration of Panna Tiger Reserve's vultures to faraway places like Southeast Asia, China has surprised scientists](https://www.firstpost.com/opinion/migration-of-panna-tiger-reserves-vultures-to-faraway-places-like-southeast-asia-china-has-surprised-scientists-13493042.html)
 

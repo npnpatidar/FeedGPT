@@ -1,3 +1,9 @@
+Tue, 12 Dec 2023 12:59:37 +0530
+### [Article 370 verdict: What is the truth commission that SC has recommended for J&amp;K?](https://www.firstpost.com/explainers/article-370-verdict-what-is-the-truth-and-reconciliation-commission-that-sc-has-recommended-for-jammu-kashmir-13493742.html)
+
+Article found but Couldn't summarize 
+Article 370 verdict: What is the truth commission that SC has recommended for J&amp;amp;K?
+
 Tue, 12 Dec 2023 11:39:23 +0530
 ### [Who is Licypriya Kangujam, the 12-year-old Indian activist who protested at COP28?](https://www.firstpost.com/explainers/who-is-licypriya-kangujam-the-12-year-old-indian-activist-who-protested-at-cop28-13492572.html)
 
