@@ -1,3 +1,56 @@
+Tue, 12 Dec 2023 19:30:16 +0000
+### [Delhi: Probe launched after video of man hitting cyclist while showcasing stunts surfaces](https://theprint.in/india/delhi-probe-launched-after-video-of-man-hitting-cyclist-while-showcasing-stunts-surfaces/1883571/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 12 (PTI) A video of a man showcasing stunts while travelling in an autorickshaw and hitting a cyclist on the Signature flyover in north Delhi has surfaced on social media prompting police to launch an investigation into the matter, officials said on Tuesday. Police said that the video was shared widely on [&#8230;]
+
+Tue, 12 Dec 2023 19:30:04 +0000
+### [Cong to launch month-long protests for students, farmers in Odisha](https://theprint.in/india/cong-to-launch-month-long-protests-for-students-farmers-in-odisha/1883570/)
+
+Article found but Couldn't summarize 
+Bhubaneswar, Dec 12 (PTI) The Congress on Tuesday announced that the party would hold month-long demonstrations across Odisha over issues related to students and farmers. Odisha Pradesh Congress Committee (OPCC) chief Sarat Pattanayak said its student wing activists will stage protests in colleges and universities against setting up of selfie points in the institutes with [&#8230;]
+
+Tue, 12 Dec 2023 19:15:34 +0000
+### [Biden says Netanyahu must change government, Israel losing global support](https://theprint.in/world/biden-says-netanyahu-must-change-government-israel-losing-global-support/1883567/)
+
+Article found but Couldn't summarize 
+By Trevor Hunnicutt and Steve Holland WASHINGTON (Reuters) -U.S. President Joe Biden said on Tuesday that Israel is losing support over its "indiscriminate" bombing of Gaza and that Benjamin Netanyahu
+
+Tue, 12 Dec 2023 19:15:24 +0000
+### [US committee offers 2024 legislative ‘blueprint’ for countering China](https://theprint.in/world/us-committee-offers-2024-legislative-blueprint-for-countering-china/1883565/)
+
+Article found but Couldn't summarize 
+By Michael Martina WASHINGTON (Reuters) - A U.S. congressional committee issued an extensive list of bipartisan recommendations on Tuesday to reset America's economic ties with China, setting out
+
+Tue, 12 Dec 2023 19:15:23 +0000
+### [Noida Police attaches Rs 1.07 crore house of gangster](https://theprint.in/india/noida-police-attaches-rs-1-07-crore-house-of-gangster/1883563/)
+
+Article found but Couldn't summarize 
+Noida, Dec 12 (PTI) The Noida Police on Tuesday said it has attached ill-gotten property worth Rs 1.07 crore of a criminal under provisions of the Gangsters Act. The attached property, a house in Veerpur village in the Jarcha area, belongs to Narendra Tewatiya, an active member of the Sundar Bhati-Anil Bhati gang, police said. [&#8230;]
+
+Tue, 12 Dec 2023 19:15:14 +0000
+### [UK’s Sunak facing revolt over Rwanda asylum plan](https://theprint.in/world/uks-sunak-facing-revolt-over-rwanda-asylum-plan/1883562/)
+
+Article found but Couldn't summarize 
+By Andrew MacAskill, Michael Holden and Alistair Smout LONDON (Reuters) -British Prime Minister Rishi Sunak faced revolt from some of his own lawmakers in a parliamentary vote on his flagship
+
+Tue, 12 Dec 2023 19:15:13 +0000
+### [South Africa take 1-0 lead with five-wicket win over India](https://theprint.in/sport/south-africa-take-1-0-lead-with-five-wicket-win-over-india/1883561/)
+
+Article found but Couldn't summarize 
+Gqeberha (South Africa), Dec 12 (PTI) South Africa shred a pedestrian looking Indian bowing attack to pieces to script a five-wicket win in the second T20 of the three-match series here on Tuesday. Rinku Singh (68 not out off 39) enhanced his credentials as a finisher with a maiden half-century while skipper Suryakumar Yadav (56 [&#8230;]
+
+Tue, 12 Dec 2023 19:15:04 +0000
+### [As Israel pounds southern Gaza, Biden warns it is losing support](https://theprint.in/world/as-israel-pounds-southern-gaza-biden-warns-it-is-losing-support/1883559/)
+
+Article found but Couldn't summarize 
+By Nidal al-Mughrabi and Bassam Masoud CAIRO/GAZA (Reuters) - Israeli tanks and warplanes bombarded the Gaza Strip on Tuesday, killing dozens of Palestinians, and U.S. President Joe Biden warned
+
+Tue, 12 Dec 2023 19:15:02 +0000
+### [South Africa beat India by 5 wickets in 2nd T20I](https://theprint.in/sport/south-africa-beat-india-by-5-wickets-in-2nd-t20i/1883558/)
+
+As GPT-3.5, I can provide a summary of the article you shared. In the second T20 International match between South Africa and India, South Africa emerged victorious by five wickets. India posted a total of 180 for 7 while batting, but due to rain, the hosts were given a revised target of 152 in 15 overs. India was performing well before rain interrupted the game. Skipper Suryakumar Yadav scored 56 runs off 36 balls, and Rinku Singh contributed 68 runs off 39 balls. In the chase, South Africa reached the target in 13.5 overs, scoring 154 for 5. Reeza Hendricks made 49 runs, and skipper Aiden Markram scored 30 runs. The final scores were India: 180 for 7 and South Africa: 154 for 5. This report is auto-generated from PTI news service.
+
 Tue, 12 Dec 2023 19:01:03 +0000
 ### [Explainer-Epic Games verdict adds to Google’s global antitrust woes](https://theprint.in/tech/explainer-epic-games-verdict-adds-to-googles-global-antitrust-woes/1883555/)
 
