@@ -1,3 +1,14 @@
+Wed, 13 Dec 2023 00:20:00 +0530
+### [Welcome direction: On the Supreme Court’s deadline to conduct elections in J&K](https://www.thehindu.com/opinion/editorial/welcome-direction-the-hindu-editorial-on-the-supreme-courts-deadline-to-conduct-elections-in-jk/article67631471.ece)
+
+Article found but Couldn't summarize 
+As with elections, the Supreme Court should have given a deadline for restoration of statehood too
+
+Wed, 13 Dec 2023 00:10:00 +0530
+### [Game-changer: On approval for gene therapy to treat sickle cell disease and beta thalassemia](https://www.thehindu.com/opinion/editorial/game-changer-the-hindu-editorial-on-approval-for-gene-therapy-to-treat-sickle-cell-disease-and-beta-thalassemia/article67630952.ece)
+
+As GPT-3.5, I can provide a summary of the article you shared. The U.S. FDA has recently approved two gene therapies, Casgevy and Lyfgenia, for the treatment of sickle cell disease in patients over 12 years old. These therapies utilize the CRISPR-Cas9 tool to disable specific genes and introduce new genes for hemoglobin production. Clinical trials have shown promising results, with patients experiencing relief from the symptoms of sickle cell disease and reduced reliance on blood transfusions. It is important to continuously monitor the safety and efficacy of these therapies, as there is a potential for unintended genetic modifications. Additionally, the use of patients' own blood cells for gene editing allows for a larger number of potential beneficiaries, but the cost and availability of these treatments may be limiting factors.
+
 Mon, 11 Dec 2023 22:09:05 +0530
 ### [Ominously anti-federal: On the Supreme Court’s judgment on Article 370 and J&K’s special status](https://www.thehindu.com/opinion/editorial/ominously-anti-federal-on-the-supreme-courts-judgement-on-article-370-and-jks-special-status/article67628150.ece)
 
