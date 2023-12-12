@@ -1,3 +1,13 @@
+Tue, 12 Dec 2023 02:10:58 +0000
+### [Key aspects of Article 370 verdict unpacked](https://indianexpress.com/article/explained/key-aspects-of-article-370-verdict-unpacked-9064079/)
+
+The recent Supreme Court ruling upheld the Centre’s abrogation of Article 370 of the Indian Constitution. The court examined key issues in the challenge to the government's decision, including the sovereignty of Jammu and Kashmir, the temporary or permanent nature of Article 370, the legality of its abrogation, and the action taken during President's rule. The court unanimously upheld the constitutional validity of the Presidential Orders CO 272 and 273 of August 5 and 6, 2019, making the entire Constitution of India applicable to J&K and declaring all provisions of Article 370 inoperative.
+
+Tue, 12 Dec 2023 02:10:19 +0000
+### [What was the Bommai judgment, which the SC relied on in its Article 370 ruling?](https://indianexpress.com/article/explained/what-was-the-bommai-judgment-which-the-sc-relied-on-in-its-article-370-ruling-9064090/)
+
+In the case of SR Bommai v Union of India, the Supreme Court interpreted Article 356 of the Constitution regarding the proclamation of President's rule. The Court ruled that the President's decision can be subject to judicial review and established guidelines for when and how President's rule can be imposed. This case has been invoked in recent challenges to President's rule in Uttarakhand and Arunachal Pradesh. The Bommai ruling also emphasized the importance of parliamentary approval for imposing President's rule and highlighted the significance of center-state relationships. It is worth noting that the Bommai verdict led to a decrease in the frequency of President's rule being imposed. In the context of the Kashmir case, the Supreme Court relied on the Bommai ruling to validate the actions of the President in abrogating Article 370. The Court held that the President's actions are constitutionally valid and subject to judicial review based on varying standards set by different judges in the Bommai case.
+
 Mon, 11 Dec 2023 22:50:08 +0000
 ### [Between the lines: A tilt in federal balance towards Centre](https://indianexpress.com/article/explained/abrogation-of-article-370-between-the-lines-a-tilt-in-federal-balance-towards-centre-9064142/)
 

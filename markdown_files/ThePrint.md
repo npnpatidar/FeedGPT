@@ -1,3 +1,67 @@
+Tue, 12 Dec 2023 02:16:19 +0000
+### [SpaceX postpones planned launch of US military’s secretive X-37B spaceplane](https://theprint.in/tech/spacex-postpones-planned-launch-of-us-militarys-secretive-x-37b-spaceplane/1882304/)
+
+The planned launch of the U.S. military’s secretive X-37B robot spaceplane on its seventh mission to orbit, and its first flight atop a SpaceX Falcon Heavy rocket, was postponed for at least 24 hours. The delay was due to a ground side issue, and the next launch opportunity is scheduled for Tuesday night. The X-37B is a small bus-sized spacecraft designed to deploy various payloads and conduct technology experiments in long-duration orbital flights, and it has flown six previous missions since 2010. The U.S. Defense Department carries out its operations as part of the military’s National Security Space Launch program.
+
+Tue, 12 Dec 2023 02:16:10 +0000
+### [Epic Games prevails in antitrust case against Google over Play app store](https://theprint.in/tech/epic-games-prevails-in-antitrust-case-against-google-over-play-app-store/1882302/)
+
+Epic Games has prevailed in its antitrust trial against Google's Play app store, with the California jury finding against the alleged monopoly on all counts. This ruling could potentially impact the app store economy by giving developers more control over app distribution and profits. Google plans to appeal, maintaining its commitment to the Android business model and users. Additionally, Epic Games has also filed a similar antitrust case against Apple, asking the U.S. Supreme Court to revive key claims in the Apple case, while Apple is fighting a ruling that would require changes to its App Store rules.
+
+Tue, 12 Dec 2023 02:15:59 +0000
+### [Storm hitting Chinese ports is a wakeup call for climate risk to markets](https://theprint.in/environment/storm-hitting-chinese-ports-is-a-wakeup-call-for-climate-risk-to-markets/1882300/)
+
+Article found but Couldn't summarize 
+By Katy Daigle and Simon Jessop DUBAI (Reuters) - As Typhoon Doksuri aimed toward mainland China, major southeast ports were forced to turn away dozens of vessels for days. The storm, supercharged by
+
+Tue, 12 Dec 2023 02:15:47 +0000
+### [Oil steady ahead of interest rate decisions, OPEC+ supply cut doubts](https://theprint.in/economy/oil-steady-ahead-of-interest-rate-decisions-opec-supply-cut-doubts/1882298/)
+
+Article found but Couldn't summarize 
+SINGAPORE (Reuters) - Oil prices held steady on Tuesday ahead of key interest rate policy and inflation data announcements, and amid doubts that production cuts by OPEC+ next year would offset crude
+
+Tue, 12 Dec 2023 02:15:38 +0000
+### [Asian stocks edge higher ahead of US inflation data](https://theprint.in/economy/asian-stocks-edge-higher-ahead-of-us-inflation-data/1882296/)
+
+Article found but Couldn't summarize 
+By Ankur Banerjee SINGAPORE (Reuters) - Asian shares crept higher on Tuesday while the dollar eased as investors stayed cautious ahead of a crucial U.S. inflation report later in the day that will set
+
+Tue, 12 Dec 2023 02:15:25 +0000
+### [China’s Xi visits Vietnam after Biden, seeks ‘shared future’ with Hanoi](https://theprint.in/world/chinas-xi-visits-vietnam-after-biden-seeks-shared-future-with-hanoi/1882294/)
+
+Article found but Couldn't summarize 
+By Francesco Guarascio HANOI (Reuters) - China's President Xi Jinping starts a two-day visit to Vietnam on Tuesday to build a "community with shared future", three months after U.S. President Joe
+
+Tue, 12 Dec 2023 02:15:14 +0000
+### [Top Japanese minister faces no-confidence vote over swirling funds scandal](https://theprint.in/world/top-japanese-minister-faces-no-confidence-vote-over-swirling-funds-scandal/1882292/)
+
+Article found but Couldn't summarize 
+By John Geddie TOKYO (Reuters) - One of Japan's most prominent government ministers faces a no-confidence motion on Tuesday, underlining the intense pressure mounting on Prime Minister Fumio Kishida's
+
+Tue, 12 Dec 2023 02:15:04 +0000
+### [Biden alludes to disagreements with Israel’s Netanyahu](https://theprint.in/world/biden-alludes-to-disagreements-with-israels-netanyahu/1882290/)
+
+Article found but Couldn't summarize 
+By Jeff Mason and Trevor Hunnicutt WASHINGTON (Reuters) - U.S. President Joe Biden on Monday alluded to the complex relationship he has with Israel's Benjamin Netanyahu, suggesting the prime minister
+
+Tue, 12 Dec 2023 02:00:44 +0000
+### [J&K ‘surrendered’ sovereignty in 1949, Article 370 a temporary provision — breakdown of SC judgment](https://theprint.in/judiciary/jk-surrendered-sovereignty-in-1949-article-370-a-temporary-provision-breakdown-of-sc-judgment/1881864/)
+
+Article found but Couldn't summarize 
+Top court finds fault in process by which Parliament sought to interpret Article 367 to substitute 'Constituent Assembly' with 'State Legislative Assembly' in Article 370(3).
+
+Tue, 12 Dec 2023 01:47:02 +0000
+### [Israel to use two crossings to help screen humanitarian aid for Gaza: IDF](https://theprint.in/world/israel-to-use-two-crossings-to-help-screen-humanitarian-aid-for-gaza-idf/1882288/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], December 12 (ANI): Israel Defence Forces (IDF) said on Monday that Israel is increasing the speed at which humanitarian aid is inspected and sent into Gaza. Israel will use two crossings to help screen humanitarian aid for Gaza, said the IDF. It further said that security screenings of trucks containing water, food [&#8230;]
+
+Tue, 12 Dec 2023 01:32:01 +0000
+### [US expects Taliban to prevent Afghanistan from being safe haven for terrorism](https://theprint.in/world/us-expects-taliban-to-prevent-afghanistan-from-being-safe-haven-for-terrorism/1882286/)
+
+Article found but Couldn't summarize 
+Washington DC [US], December 12 (ANI): The US will continue to remain concerned about the potential for terrorist activists in Afghanistan and expects Taliban to prevent Afghanistan from being a haven for terrorism, US Department of State spokesperson Matthew Miller said in a press briefing on Monday (local time). In response to question about US [&#8230;]
+
 Tue, 12 Dec 2023 01:15:27 +0000
 ### [Epic Games CEO says company won in Google Play antitrust case](https://theprint.in/tech/epic-games-ceo-says-company-won-in-google-play-antitrust-case/1882284/)
 

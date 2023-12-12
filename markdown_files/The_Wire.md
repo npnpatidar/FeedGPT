@@ -1,3 +1,9 @@
+2023-12-12T06:58:25+05:30
+### ['Another Ploy to Dupe Pandits': Criticism Over Bills Aiming to 'Reserve' Seats in J&K Assembly](https://thewire.in/rights/another-ploy-to-dupe-pandits-criticism-over-bills-aiming-to-reserve-seats-in-jk-assembly)
+
+No Article text 
+Some community leaders say it is not a 'reservation' of seats per se, as the government is claiming, but a 'nomination' of a political nature, which they say, would not empower the community politically in any way.
+
 2023-12-11T23:18:41+05:30
 ### [Watch | Kuki Outfits Reject Findings of SC-Appointed Panel on Manipur Violence](https://thewire.in/video/watch-kuki-outfits-reject-findings-of-sc-appointed-panel-on-manipur-violence)
 

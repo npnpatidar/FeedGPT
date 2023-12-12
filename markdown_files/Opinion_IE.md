@@ -1,3 +1,28 @@
+Tue, 12 Dec 2023 02:00:25 +0000
+### [Lessons from COP28: How to save what we can](https://indianexpress.com/article/opinion/columns/lessons-from-cop28-how-to-save-what-we-can-9064055/)
+
+Article found but Couldn't summarize
+
+Tue, 12 Dec 2023 01:49:13 +0000
+### [Express View on Mayawati’s successor Akash Anand: Out of ideas](https://indianexpress.com/article/opinion/editorials/express-view-on-mayawatis-successor-akash-anand-out-of-ideas-9064063/)
+
+Article found but Couldn't summarize
+
+Tue, 12 Dec 2023 01:48:30 +0000
+### [Narendra Modi writes on Article 370 verdict: Today, a clean canvas for every child in J&K](https://indianexpress.com/article/opinion/columns/pm-narendra-modi-article-370-verdict-jammu-and-kashmir-9064035/)
+
+The Supreme Court of India upheld the abrogation of Articles 370 and 35(A), emphasizing the sovereignty and integrity of India. The decision aimed to enhance constitutional integration, recognizing that Article 370 was not permanent. The Prime Minister, Narendra Modi, reflects on the historical context and development efforts in Jammu, Kashmir, and Ladakh. The region’s natural beauty contrasts with historical violence and instability, driven by a complex societal and political landscape. In response, the government prioritized development, initiated relief efforts, and promoted grassroots democracy. The article highlights the impact of central government schemes and the region’s transformation.
+
+Tue, 12 Dec 2023 01:44:27 +0000
+### [Express View: Tintin, a preface and a middle path](https://indianexpress.com/article/opinion/editorials/express-view-tintin-a-preface-and-a-middle-path-9064056/)
+
+The article discusses the recent trend of addressing racially insensitive content in children's literature. It mentions how some publishers have chosen to stop publishing certain works, such as six Dr. Seuss books, due to their racist imagery, while others have released "sanitized" versions of books by authors like Roald Dahl and Enid Blyton. The article also highlights the release of Tintin in the Congo with a preface providing historical context, offering a middle ground between ceasing publication and altering the original work. It emphasizes the importance of allowing readers to form their own impressions and arrive at their own conclusions.
+
+Tue, 12 Dec 2023 01:42:23 +0000
+### [Express View on Supreme Court’s Article 370 verdict: The seal of approval](https://indianexpress.com/article/opinion/editorials/express-view-on-supreme-courts-article-370-verdict-the-seal-of-approval-9064057/)
+
+Article found but Couldn't summarize
+
 Mon, 11 Dec 2023 21:30:47 +0000
 ### [December 12, 1983, Forty Years Ago: Impasse with Akalis](https://indianexpress.com/article/opinion/40-years-ago/december-12-1983-forty-years-ago-impasse-with-akalis-9064066/)
 

@@ -1,3 +1,20 @@
+Tue, 12 Dec 2023 08:00:20 +0530
+### [The Jammu and Kashmir verdict: It's time for India to look ahead](https://www.livemint.com/opinion/online-views/the-jammu-and-kashmir-verdict-its-time-for-india-to-look-ahead-11702308018977.html)
+
+The Supreme Court validated the scrapping of Article 370, making all laws applicable to Jammu, Kashmir, and Ladakh as to other states and Union territories. The ruling also recommended the setting up of a Truth and Reconciliation Commission and emphasized the role of the SC as an arbiter of democracy. Additionally, it accepted the reorganization of J&K into a Union Territory with an assembly, comprising Jammu and Kashmir, and a UT without an assembly, Ladakh. The judicial verdict acknowledges the primacy of the democratic political process and addresses the political problems in the region.
+
+Tue, 12 Dec 2023 08:00:19 +0530
+### [Hong Kong's low voter turnout signals a backslide](https://www.livemint.com/opinion/quick-edit/hong-kongs-low-voter-turnout-signals-a-backslide-11702297163705.html)
+
+Article found but Couldn't summarize 
+Beijing’s vetting of poll candidates for patriotism is to blame and democracy in Britain’s ex-colony looks weak. Parallels cannot be drawn with Jammu and Kashmir’s past electoral turnouts, though.
+
+Tue, 12 Dec 2023 07:15:17 +0530
+### [The dreams of Jammu and Kashmir’s people are no longer prisoners of the past](https://www.livemint.com/opinion/online-views/the-dreams-of-jammu-and-kashmir-s-people-are-no-longer-prisoners-of-the-past-11702302928888.html)
+
+Article found but Couldn't summarize 
+Development, democracy and dignity have replaced disillusionment, disappointment and despondency in the former state.
+
 Mon, 11 Dec 2023 22:07:07 +0530
 ### [Should charity be Done directly or through a trust?](https://www.livemint.com/opinion/columns/should-charity-be-done-directly-or-through-a-trust-11702312374046.html)
 

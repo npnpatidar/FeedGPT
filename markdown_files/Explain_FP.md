@@ -1,3 +1,9 @@
+Tue, 12 Dec 2023 07:42:31 +0530
+### [Study on twins says exercise doesn't translate to longer life. Here's what it means](https://www.firstpost.com/explainers/study-on-twins-says-exercise-doesnt-translate-to-longer-life-heres-what-it-means-13491752.html)
+
+Article found but Couldn't summarize 
+Study on twins says exercise doesn't translate to longer life. Here's what it means
+
 Mon, 11 Dec 2023 20:34:44 +0530
 ### [Why BJP picked Mohan Yadav as Madhya Pradesh CM over Shivraj Singh Chouhan](https://www.firstpost.com/explainers/why-bjp-picked-mohan-yadav-as-madhya-pradesh-cm-over-shivraj-singh-chouhan-13491592.html)
 
