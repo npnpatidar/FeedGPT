@@ -1,3 +1,122 @@
+Tue, 12 Dec 2023 13:16:53 +0000
+### [Social engineering, eye on 2024 — why BJP picked Yadav CM, Dalit & Brahmin deputies in MP](https://theprint.in/politics/social-engineering-eye-on-2024-why-bjp-picked-yadav-cm-dalit-brahmin-deputies-in-mp/1882777/)
+
+Article found but Couldn't summarize 
+BJP leaders say by choosing Yadav as CM, party is also looking to gain in states like Bihar &#38; UP where Yadavs are an influential group, especially amid Opposition demand for a caste census.
+
+Tue, 12 Dec 2023 13:16:48 +0000
+### [SAD leadership initiates ‘akhand path’ to mark party’s 103rd foundation day](https://theprint.in/india/sad-leadership-initiates-akhand-path-to-mark-partys-103rd-foundation-day/1883132/)
+
+Article found but Couldn't summarize 
+Amritsar, Dec 12 (PTI) Senior SAD leadership led by its president Sukhbir Singh Badal initiated &#8216;akhand path&#8217; (continuous recitation of Guru Granth Sahib) at Gurdwara Shaheed Baba Gurbaksh Singh at the Akal Takht Sahib here on Tuesday to mark the party&#8217;s 103rd foundation day on December 14. The Shiromani Akali Dal (SAD) president along with [&#8230;]
+
+Tue, 12 Dec 2023 13:16:37 +0000
+### [Court allows Tahir Hussain to attest power of attorney in wife’s favour in property matter](https://theprint.in/india/court-allows-tahir-hussain-to-attest-power-of-attorney-in-wifes-favour-in-property-matter/1883130/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 12 (PTI) A court here has allowed the application of former AAP councillor Tahir Hussain seeking permission to attest in the court a General Power of Attorney in favour of his wife regarding a property. The court passed the order while hearing a case registered by the Enforcement Directorate (ED) against Hussain, [&#8230;]
+
+Tue, 12 Dec 2023 13:16:26 +0000
+### [LG unveils Gen Zorawar Singh’s statue at Jammu University](https://theprint.in/india/lg-unveils-gen-zorawar-singhs-statue-at-jammu-university/1883129/)
+
+Article found but Couldn't summarize 
+Jammu, Dec 12 (PTI) Lt Governor Manoj Sinha on Tuesday unveiled a statue of General Zorawar Singh at the Jammu University and reiterated his administration&#8217;s resolve to honour the valour and sacrifice of Jammu and Kashmir&#8217;s &#8220;immortal heroes&#8221;. He also announced the setting up of a Chair in memory of Dogra Rajput ruler Gulab Singh, [&#8230;]
+
+Tue, 12 Dec 2023 13:16:15 +0000
+### [Capt Fatima becomes 1st woman medical officer to be deployed on operational post on Siachen Glacier](https://theprint.in/india/capt-fatima-becomes-1st-woman-medical-officer-to-be-deployed-on-operational-post-on-siachen-glacier/1883128/)
+
+Captain Fatima Wasim has made history by becoming the first woman medical officer in the Indian Army to be deployed on an operational post on the Siachen Glacier, the world's highest battlefield. She is the second medical officer to be deployed on the Siachen Glacier in the Union Territory of Ladakh. This deployment is significant in promoting gender inclusion within the military. Captain Fatima underwent rigorous training at the Siachen Battle School and was inducted to a post at an altitude of 15,200 feet. Siachen, located in the northern Himalayas, presents challenges due to its strategic importance, harsh climate, and demanding terrain.
+
+Tue, 12 Dec 2023 13:16:05 +0000
+### [Soccer-Kofu book Asian Champions League last 16 berth as Ulsan also advance](https://theprint.in/sport/soccer-kofu-book-asian-champions-league-last-16-berth-as-ulsan-also-advance/1883126/)
+
+Article found but Couldn't summarize 
+By Michael Church HONG KONG (Reuters) - Japan's Ventforet Kofu became the first second division club to qualify for the knockout rounds of the Asian Champions League on Tuesday as Yoshiyuki Shinoda's
+
+Tue, 12 Dec 2023 13:16:02 +0000
+### [Assam CM meets Union Minister Hardeep Puri, discusses state’s green economy potential](https://theprint.in/india/assam-cm-meets-union-minister-hardeep-puri-discusses-states-green-economy-potential/1883125/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 12 (PTI) Assam Chief Minister Himanta Biswa Sarma met Union Petroleum and Natural Gas Minister Hardeep Singh Puri here on Tuesday and the two discussed the state&#8217;s huge green economy potential, an official statement said. Sarma also met National Security Advisor Ajit Doval here for about 40 minutes. The details of the [&#8230;]
+
+Tue, 12 Dec 2023 13:15:48 +0000
+### [Three redrafted bills to replace existing criminal laws introduced in Parliament](https://theprint.in/india/three-redrafted-bills-to-replace-existing-criminal-laws-introduced-in-parliament/1883124/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 12 (PTI) The government Tuesday introduced in Parliament three redrafted bills to replace the existing criminal laws by including various recommendations made by a parliamentary panel. The Bharatiya Nyaya Sanhita Bill was introduced first in the Lok Sabha on August 11 along with Bharatiya Nagarik Suraksha Sanhita and the Bharatiya Sakshya Adhiniyam [&#8230;]
+
+Tue, 12 Dec 2023 13:15:47 +0000
+### [Indian Bank launches share sale to institutional investors](https://theprint.in/economy/indian-bank-launches-share-sale-to-institutional-investors/1883123/)
+
+Article found but Couldn't summarize 
+BENGALURU (Reuters) - State-run Indian Bank has launched a share issue to institutional investors at a floor price of 414.44 rupees per share, the lender said on Tuesday. The bank in August approved
+
+Tue, 12 Dec 2023 13:15:37 +0000
+### [CJI inaugurates cancer detection & health camp, stresses importance of spreading awareness](https://theprint.in/india/cji-inaugurates-cancer-detection-health-camp-stresses-importance-of-spreading-awareness/1883120/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 12 (PTI) Chief Justice of India DY Chandrachud on Tuesday underlined the importance of spreading awareness about health and said the clinic on the Supreme Court premises is being upgraded. Chief Justice Chandrachud was inaugurating a cancer detection and health camp being organised by the Supreme Court Bar Association on the apex [&#8230;]
+
+Tue, 12 Dec 2023 13:15:34 +0000
+### [Asylum seeker dies on board UK barge housing migrants](https://theprint.in/world/asylum-seeker-dies-on-board-uk-barge-housing-migrants/1883119/)
+
+Article found but Couldn't summarize 
+LONDON (Reuters) -An asylum seeker has died on board a barge housing migrants off the south coast of England, British police and interior minister James Cleverly said on Tuesday. Earlier refugee
+
+Tue, 12 Dec 2023 13:15:26 +0000
+### [Assam: Organisations resolve to resume stir if govt tries to implement CAA](https://theprint.in/india/assam-organisations-resolve-to-resume-stir-if-govt-tries-to-implement-caa/1883117/)
+
+Article found but Couldn't summarize 
+Guwahati, Dec 12 (PTI) As tributes were paid to five persons killed during an anti-CAA stir in Assam four years ago, various organisations on Tuesday resolved to again build up a movement against the law if the government tried to implement it. Memorial meetings were organised in different parts of the state, including Guwahati, by [&#8230;]
+
+Tue, 12 Dec 2023 13:15:25 +0000
+### [Egypt’s Sisi cruises towards victory in subdued election](https://theprint.in/world/egypts-sisi-cruises-towards-victory-in-subdued-election/1883116/)
+
+Article found but Couldn't summarize 
+By Aidan Lewis and Amina Ismail CAIRO (Reuters) - Egyptians cast their ballots on Tuesday on the third and last day of a presidential election expected to give President Abdel Fattah al-Sisi a
+
+Tue, 12 Dec 2023 13:15:15 +0000
+### [Russia opens new criminal case against U.S. Radio Free Europe journalist – media report](https://theprint.in/world/russia-opens-new-criminal-case-against-u-s-radio-free-europe-journalist-media-report/1883114/)
+
+Article found but Couldn't summarize 
+(Reuters) - Russian investigators have opened a new criminal case against a Russian-American journalist being held in detention, accusing her of spreading false information about the Russian army, a
+
+Tue, 12 Dec 2023 13:15:15 +0000
+### [Onus on Centre, Maharashtra govt to give hope to new generation on quota issue: Sharad Pawar](https://theprint.in/india/onus-on-centre-maharashtra-govt-to-give-hope-to-new-generation-on-quota-issue-sharad-pawar/1883113/)
+
+Article found but Couldn't summarize 
+Nagpur, Dec 12 (PTI) Nationalist Congress Party (NCP) founder Sharad Pawar on Tuesday said the Centre and the Maharashtra government have the responsibility of giving hope to the new generation on the issue of reservation to different communities, which has become a “serious” matter. Pawar&#8217;s statement came in the backdrop of the ongoing agitation by [&#8230;]
+
+Tue, 12 Dec 2023 13:15:04 +0000
+### [Pakistan court overturns ex-PM Nawaz Sharif’s last graft conviction](https://theprint.in/world/pakistan-court-overturns-ex-pm-nawaz-sharifs-last-graft-conviction/1883110/)
+
+Article found but Couldn't summarize 
+By Asif Shahzad ISLAMABAD (Reuters) - A Pakistan court on Tuesday overturned a conviction for graft of former Prime Minister Nawaz Sharif, his lawyer said, removing one of the last major hurdles for
+
+Tue, 12 Dec 2023 13:15:03 +0000
+### [Delhi HC dismisses Omar Abdullah’s plea seeking divorce from estranged wife](https://theprint.in/india/delhi-hc-dismisses-omar-abdullahs-plea-seeking-divorce-from-estranged-wife/1883109/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 12 (PTI) The Delhi High Court on Tuesday dismissed National Conference leader Omar Abdullah&#8217;s plea seeking divorce from his estranged wife on grounds of cruelty, saying there was no merit in his appeal. A bench of Justices Sanjeev Sachdeva and Vikas Mahajan upheld the 2016 family court order refusing to grant a [&#8230;]
+
+Tue, 12 Dec 2023 13:10:49 +0000
+### [Khattar suggests naming & shaming corrupt officials in Haryana. Walk the talk, say detractors](https://theprint.in/politics/khattar-suggests-naming-shaming-corrupt-officials-in-haryana-walk-the-talk-say-detractors/1872945/)
+
+Article found but Couldn't summarize 
+On International Anti-Corruption Day (9 Dec), Khattar proposes that depts name corrupt officials after their retirement so that they serve as a warning to serving staff.
+
+Tue, 12 Dec 2023 13:09:49 +0000
+### [SC verdict on Article 370 triggers questions on federalism](https://theprint.in/50-word-edit/sc-verdict-on-article-370-triggers-questions-on-federalism/1883102/)
+
+Article found but Couldn't summarize 
+ThePrint view on the most important issues.
+
+Tue, 12 Dec 2023 13:02:30 +0000
+### [Delhi Water Minister Atishi conducts inspection after complaints about overflowing sewers, pulls up officials](https://theprint.in/india/delhi-water-minister-atishi-conducts-inspection-after-complaints-about-overflowing-sewers-pulls-up-officials/1883101/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 12 (PTI) Delhi Water Minister Atishi on Tuesday pulled up department officials over the &#8220;deplorable&#8221; state of sewers following an inspection in Chitla Gate, Chawri Bazaar and Nehru Hill JJ Colony, an official statement said. She also ordered strict action against those responsible for the maintenance of sewers, it said. According to [&#8230;]
+
 Tue, 12 Dec 2023 12:57:19 +0000
 ### [Soccer-Dortmund eye PSG weakness in away games for group win](https://theprint.in/sport/soccer-dortmund-eye-psg-weakness-in-away-games-for-group-win/1883083/)
 

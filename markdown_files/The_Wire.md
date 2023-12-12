@@ -1,3 +1,9 @@
+2023-12-12T18:28:06+05:30
+### [Postcards for Palestine](https://thewire.in/the-arts/postcards-for-palestine)
+
+No Article text 
+Artist Pariplab Chakraborty expresses solidarity with the people of Palestine and their resilience in the face of an ongoing genocide.
+
 2023-12-12T18:06:47+05:30
 ### [Biden Won't Be the Republic Day Chief Guest, Scheduled Quad Summit in January Postponed: Officials](https://thewire.in/diplomacy/biden-wont-be-the-republic-day-chief-guest-scheduled-quad-summit-in-january-postponed-officials)
 
