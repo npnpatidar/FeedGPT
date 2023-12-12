@@ -1,3 +1,15 @@
+2023-12-12T09:02:01+05:30
+### ['Excessive and Needless': Veterans on IAF's Likely Move to Rename Itself 'Indian Air and Space Force'](https://thewire.in/security/indian-air-force-space-rename-rajnath-singh)
+
+No Article text 
+'The IAF’s top brass seem to have taken Rajnath Singh’s generic observation on the military exploitation of space as an order from the government...'
+
+2023-12-12T08:51:53+05:30
+### [COP28: Just A Day Left, Yet Latest Draft of Global Stocktake Doesn’t Inspire Hope](https://thewire.in/environment/cop28-licypriya-kangujam-global-stocktake)
+
+No Article text 
+The draft text of the first Global Stocktake released on the penultimate day of COP28 is 'disappointing' and 'weak', experts say, and keeps the world out of reach of the 1.5° Celsius target.
+
 2023-12-12T06:58:25+05:30
 ### ['Another Ploy to Dupe Pandits': Criticism Over Bills Aiming to 'Reserve' Seats in J&K Assembly](https://thewire.in/rights/another-ploy-to-dupe-pandits-criticism-over-bills-aiming-to-reserve-seats-in-jk-assembly)
 

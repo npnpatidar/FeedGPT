@@ -1,3 +1,115 @@
+Tue, 12 Dec 2023 04:17:02 +0000
+### [PM Narendra Modi to inaugurate GPAI Summit 2023 to propel AI innovation today](https://theprint.in/economy/pm-narendra-modi-to-inaugurate-gpai-summit-2023-to-propel-ai-innovation-today/1882388/)
+
+Prime Minister Narendra Modi is set to inaugurate the Global Partnership on Artificial Intelligence (GPAI) Summit 2023 today at 5:30 pm at Bharat Mandapam, Pragati Maidan, New Delhi. The summit, running from December 12 to 14, aims to bring together influential minds from various sectors to advance the collaborative development of artificial intelligence. India has actively engaged in various initiatives to foster the development, deployment, and adoption of open, safe, secure, and accountable AI, reflecting its dedication to Safe & Trusted AI. The GPAI Summit encompasses crucial governing body meetings and a range of side events designed to showcase AI progress and foster engaging discussions, grounded in the principles of the Global Partnership on Artificial Intelligence. The summit will emphasize the importance of harnessing AI's potential while upholding ethical considerations, offering a unique opportunity for stakeholders to contribute to shaping the future of AI.
+
+Tue, 12 Dec 2023 04:16:25 +0000
+### [Tennis-Swiatek wins back-to-back WTA Player of the Year awards](https://theprint.in/sport/tennis-swiatek-wins-back-to-back-wta-player-of-the-year-awards/1882386/)
+
+Iga Swiatek was named WTA Player of the Year for a second consecutive season, having won the French Open for a third time and claiming her first WTA Finals crown. She regained the top spot in the rankings and won a tour-leading six titles. Swiatek is the first player to be named WTA Player of the Year in back-to-back seasons since Serena Williams from 2012 to 2015. Elina Svitolina was named Comeback Player of the Year after reaching the Roland Garros quarter-finals and the Wimbledon semi-finals following her return to tennis in April.
+
+Tue, 12 Dec 2023 04:16:11 +0000
+### [US expects to make multi-billion chips awards within the next year](https://theprint.in/tech/us-expects-to-make-multi-billion-chips-awards-within-the-next-year/1882384/)
+
+U.S. Commerce Secretary Gina Raimondo has announced plans to make approximately a dozen semiconductor chips funding awards within the next year, with multi-billion dollar announcements expected to significantly impact U.S. chip production. The first award of $35 million was granted to a BAE Systems facility in Hampshire for producing chips for fighter planes as part of the "Chips for America" semiconductor manufacturing and research subsidy program. Raimondo aims to increase the percentage of semiconductors produced in the United States from about 12% to closer to 20% and establish at least two "leading-edge" U.S. manufacturing clusters. The program has received significant interest from companies like Intel, Micron, and GlobalFoundries. Congress has allocated $39 billion for manufacturing incentives. Funding awards are expected to range between 5%-15% of project capital expenditures, with total award amounts generally not exceeding 35% of project capital expenditures.
+
+Tue, 12 Dec 2023 04:15:55 +0000
+### [Oil rises ahead of interest rate decisions, oversupply fears linger](https://theprint.in/economy/oil-rises-ahead-of-interest-rate-decisions-oversupply-fears-linger/1882382/)
+
+The article discusses oil prices and the factors affecting them. It mentions that oil prices saw a slight increase due to cautious investor behavior prior to key interest rate decisions and inflation data releases. However, concerns over supply surplus and slower demand growth restricted gains. The article also highlights the upcoming U.S. Consumer Price Index (CPI) report, the potential impact on U.S. policymakers, and the geopolitical tensions affecting oil prices. Additionally, it outlines skepticism regarding OPEC's supply cut pledges and the market's response to upcoming reports and negotiations.
+
+Tue, 12 Dec 2023 04:15:45 +0000
+### [China’s Xi visits Vietnam after Biden, seeks stronger ties](https://theprint.in/world/chinas-xi-visits-vietnam-after-biden-seeks-stronger-ties/1882380/)
+
+China's President Xi Jinping is visiting Vietnam to enhance relations between the two communist countries, following U.S. President Joe Biden's recent trip to Hanoi. The visit aims to further economic ties and includes plans to upgrade rail links between the two countries. China is also seeking to incorporate Vietnam into its Belt and Road Initiative and Digital Silk Road. Additionally, Xi highlighted the importance of cooperation in security, connectivity, green energy, and critical minerals in an effort to strengthen ties between China and Vietnam.
+
+Tue, 12 Dec 2023 04:15:34 +0000
+### [Children are the best investment for China says Beijing think tank](https://theprint.in/world/children-are-the-best-investment-for-china-says-beijing-think-tank/1882378/)
+
+The Beijing policy institute has suggested that investing in children would be beneficial for China's economy, as the country experienced its first population decline in over six decades in 2022. The report emphasizes that infrastructure investment and manufacturing capacity are reaching saturation, making children the best investment for stimulating consumption and expanding domestic demand. Additionally, the report recommends the urgent reversal of the decline in newborn numbers and the implementation of national-level maternity subsidies to reduce the high cost of childbearing and rearing. It also highlights the current insufficiency of subsidies compared to European countries and the challenges women face in balancing family and work, contributing to the low fertility willingness among Chinese people. These factors, combined with a drop of roughly 850,000 people in China's population, mark the first decline since 1961.
+
+Tue, 12 Dec 2023 04:15:24 +0000
+### [Japan court to rule on ex-soldier’s long battle in sexual assault case](https://theprint.in/world/japan-court-to-rule-on-ex-soldiers-long-battle-in-sexual-assault-case/1882376/)
+
+The article discusses a court ruling in a sexual assault case involving a former female soldier, Rina Gonoi, in Japan. The case, which has garnered international attention, centers around an incident in 2021 when Gonoi alleges she was assaulted by three male colleagues while serving in the army. Despite complaining to her superiors, she decided to leave the army when no action was taken. The defendants have denied the allegations. Gonoi's decision to go public with her accusations has drawn attention in a traditionally male-dominated society and coincided with Japan's efforts to recruit more women soldiers. It has also led to international recognition for Gonoi. Additionally, she has lodged a civil case seeking damages for the alleged assault and inaction despite her complaints.
+
+Tue, 12 Dec 2023 04:15:16 +0000
+### [Myanmar is now world’s largest source of opium, UN says](https://theprint.in/world/myanmar-is-now-worlds-largest-source-of-opium-un-says/1882374/)
+
+Article found but Couldn't summarize 
+BANGKOK (Reuters) - Myanmar has become the world's largest source of opium, thanks to domestic instability and a decline in cultivation in Afghanistan, the United Nations said in a report on Tuesday.
+
+Tue, 12 Dec 2023 04:15:04 +0000
+### [India’s Nifty 50 hits record high ahead of inflation data, Fed policy](https://theprint.in/india/indias-nifty-50-hits-record-high-ahead-of-inflation-data-fed-policy/1882372/)
+
+Article found but Couldn't summarize 
+BENGALURU (Reuters) -India's blue-chip Nifty 50 index opened marginally higher to hit a record high for the eighth session out of nine, ahead of a crucial inflation data and the U.S. Federal Reserve
+
+Tue, 12 Dec 2023 04:15:03 +0000
+### [Violation of waste management rules in Kerala to attract 1 year prison term](https://theprint.in/india/violation-of-waste-management-rules-in-kerala-to-attract-1-year-prison-term/1882371/)
+
+The article discusses the amendment of waste management rules in Kerala, India. Violating these rules can now result in a maximum fine of Rs 50,000 and imprisonment of up to one year. The amendments have placed more responsibilities on waste generators, increased fines for violations, and empowered the government to impose fines on local self-government bodies for non-compliance. The article also mentions the empowerment of the secretary to enforce punitive measures and assign duties to officials for waste management. Additionally, it highlights the duty of shop owners to keep their premises clean, the confiscation of vehicles used for improper disposal of garbage, and the creation of a Waste Management Fund. Fines, penalties, and other contributions will be deposited into this fund for waste management activities.
+
+Tue, 12 Dec 2023 04:03:39 +0000
+### [More than 47,000 children missing in India, 71% are girls, shows NCRB data](https://theprint.in/india/more-than-47000-children-missing-in-india-71-are-girls-shows-ncrb-data/1880048/)
+
+Article found but Couldn't summarize 
+Number of children reported missing has seen mostly rising trend since 2018. Police and activists say first 24 hours crucial in investigation of such cases.
+
+Tue, 12 Dec 2023 04:02:02 +0000
+### [US: Texas Supreme Court rules against pregnant woman seeking abortion](https://theprint.in/world/us-texas-supreme-court-rules-against-pregnant-woman-seeking-abortion/1882361/)
+
+Article found but Couldn't summarize 
+Texas [US], December 12 (ANI): The Texas Supreme Court on Monday reversed a lower court&#8217;s ruling that would have allowed a woman to obtain an abortion under the state&#8217;s &#8220;medical emergency&#8221; exception, CNN reported. This comes hours after the woman&#8217;s attorneys said she had left the state to have the procedure. The woman, Kate Cox, [&#8230;]
+
+Tue, 12 Dec 2023 04:00:03 +0000
+### [Unidentified man found dead in Thane; police suspect murder](https://theprint.in/india/unidentified-man-found-dead-in-thane-police-suspect-murder/1882360/)
+
+Article found but Couldn't summarize 
+Thane, Dec 12 (PTI) The body of an unidentified man with multiple stab wounds has been found on a roadside in Maharashtra&#8217;s Thane district following which police have registered a case of murder, officials said on Tuesday. Some passers-by on Monday evening spotted the decomposed body of the man, believed to be in the age [&#8230;]
+
+Tue, 12 Dec 2023 03:47:02 +0000
+### [Priyanka Chopra gives sneak peek into her Christmas preparations](https://theprint.in/feature/priyanka-chopra-gives-sneak-peek-into-her-christmas-preparations/1882358/)
+
+Article found but Couldn't summarize 
+Los Angeles [US], December 12 (ANI): Global icon Priyanka Chopra is already in the Christmas mood. On Tuesday, she took to her Instagram and shared a glimpse of Christmas preparations at her residence. The &#8216;Don&#8217; actor shared a picture on her stories which she captioned, &#8220;Grateful.&#8221; She dropped a picture of the fireplace corner decorated [&#8230;]
+
+Tue, 12 Dec 2023 03:45:25 +0000
+### [Netball-Netball Australia CEO resigns with agreement reached in player pay dispute](https://theprint.in/sport/netball-netball-australia-ceo-resigns-with-agreement-reached-in-player-pay-dispute/1882357/)
+
+Article found but Couldn't summarize 
+(Reuters) - Netball Australia (NA) CEO Kelly Ryan resigned on Tuesday after the governing body reached an in-principle agreement with players in the professional Super Netball league to end a
+
+Tue, 12 Dec 2023 03:45:06 +0000
+### [Cyclone Jasper set to bring heavy rain, strong winds for Australia’s northeast](https://theprint.in/world/cyclone-jasper-set-to-bring-heavy-rain-strong-winds-for-australias-northeast/1882356/)
+
+Article found but Couldn't summarize 
+By Renju Jose SYDNEY (Reuters) - Residents in Australia's northeast on Tuesday braced for heavy rain and damaging winds from tropical cyclone Jasper, expected to make landfall in the next 24 hours, as
+
+Tue, 12 Dec 2023 03:45:02 +0000
+### [BJD, Cong, BJP in slugfest over IT raids on Odisha distilleries](https://theprint.in/india/bjd-cong-bjp-in-slugfest-over-it-raids-on-odisha-distilleries/1882355/)
+
+Article found but Couldn't summarize 
+Bhubaneswar, Dec 12 (PTI) With the income-tax department seizing over Rs 350-crore unaccounted cash during a series of raids on distilleries, three major political parties in Odisha have virtually entered into a slugfest, accusing each other of patronising illegality in the country-liquor trade in the state. While the opposition BJP on Monday organised demonstrations in [&#8230;]
+
+Tue, 12 Dec 2023 03:32:15 +0000
+### [Some American hostages’ families claim they were not invited to Hanukkah reception at White House](https://theprint.in/world/some-american-hostages-families-claim-they-were-not-invited-to-hanukkah-reception-at-white-house/1882350/)
+
+Article found but Couldn't summarize 
+Washington, DC [US], December 12 (ANI): Several family members of US citizens believed to have been taken hostage by Hamas, weren&#8217;t invited to the Hanukkah reception at the White House on Monday night, as per the father of a 19-year-old missing Israeli American, CNN reported. The citizens had reportedly asked to attend the Hanukkah reception. [&#8230;]
+
+Tue, 12 Dec 2023 03:32:02 +0000
+### [‘The Kerala Story’ actor Pranay Pachauri ties knot with screenwriter Sehaj Maini, see wedding pics](https://theprint.in/feature/the-kerala-story-actor-pranay-pachauri-ties-knot-with-screenwriter-sehaj-maini-see-wedding-pics/1882347/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 12 (ANI): &#8216;The Kerala Story&#8217; actor Pranay Pachauri recently tied the knot with screenwriter Sehaj Maini. Taking to Instagram, Paranay shared a string of pictures from their wedding. The couple tied the knot on December 9, 2023. &#160; &#160; &#160; &#160; &#160; View this post on Instagram &#160; &#160; &#160; &#160; [&#8230;]
+
+Tue, 12 Dec 2023 03:30:05 +0000
+### [Malaysia PM makes multiple changes in cabinet reshuffle](https://theprint.in/world/malaysia-pm-makes-multiple-changes-in-cabinet-reshuffle/1882345/)
+
+Article found but Couldn't summarize 
+KUALA LUMPUR (Reuters) - Malaysian Prime Minister Anwar Ibrahim reshuffled his cabinet on Tuesday, making multiple changes including the posts of foreign, defence and energy ministers and the return
+
 Tue, 12 Dec 2023 03:02:13 +0000
 ### [Baloch National Movement reiterates call for freedom on International Human Rights Day](https://theprint.in/world/baloch-national-movement-reiterates-call-for-freedom-on-international-human-rights-day/1882319/)
 

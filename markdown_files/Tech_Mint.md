@@ -1,3 +1,8 @@
+Tue, 12 Dec 2023 09:19:01 +0530
+### [Apple rolls out Journal app with iOS 17.2 update. All you need to know about the new app](https://www.livemint.com/technology/tech-news/apple-rolls-out-journal-app-with-ios-17-2-update-all-you-need-to-know-about-the-new-app-11702349715013.html)
+
+The Journal app, released with the iOS 17.2 upgrade, allows users to reflect and practice gratitude by recording text entries, as well as adding photos, music, videos, audio recordings, and locations. It also offers personalized suggestions for journal entries using on-device machine learning. Apple emphasizes privacy, with encrypted entries once the iPhone is locked and the option to secure the app with a password, Face ID, or Touch ID. The app integrates with iCloud, where entries are end-to-end encrypted, ensuring only users can access their data.
+
 Tue, 12 Dec 2023 08:16:45 +0530
 ### [Apple releases iOS 17.2 upgrade with Journal app, Spatial recording and more](https://www.livemint.com/technology/tech-news/apple-releases-ios-17-2-upgrade-with-journal-app-spacial-recording-and-more-11702345633183.html)
 

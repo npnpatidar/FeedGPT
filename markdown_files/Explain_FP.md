@@ -1,3 +1,13 @@
+Tue, 12 Dec 2023 09:40:03 +0530
+### [Missing for 6 days: The strange case of Alexei Navalny’s disappearance from Russian jail](https://www.firstpost.com/explainers/the-strange-case-of-alexei-navalnys-disappearance-from-russian-prison-13492552.html)
+
+Russian opposition leader Alexei Navalny's supporters have reported that he has been missing for nearly a week and his lawyers have been unable to contact him. Navalny, known for his criticism of Putin and currently serving a 30-year prison term, was last reported to be in a corrective penal colony in the Vladimir region near Moscow. His absence comes in the wake of Putin declaring his candidacy for re-election next March, raising concerns about political motives behind Navalny's disappearance. The timing of his absence is seen as linked to Putin's bid for a fifth term in power. Navalny's aides suspect political control from the Kremlin and his supporters have initiated an anti-Putin campaign. The White House has expressed concern over Navalny's disappearance, and Navalny's continued confrontation against Putin has led to multiple jail terms and allegations of fresh charges.
+
+Tue, 12 Dec 2023 08:46:12 +0530
+### [Karni Sena chief murder case: The role Pooja Saini played in the killing of Sukhdev Singh Gogamedi](https://www.firstpost.com/explainers/karni-sena-chief-murder-case-the-role-pooja-saini-played-in-the-killing-of-sukhdev-singh-gogamedi-13492282.html)
+
+Sukhdev Singh Gogamedi, the Karni Sena chief, was fatally shot at his Shyam Nagar apartment by two assailants, Nitin Fauji and Rohit Rathod. The Rajasthan police has arrested a woman named Pooja Saini, who is allegedly associated with a criminal network and involved in the murder. Pooja provided weapons and financial help to the assailants and is currently being questioned by the authorities. Three men involved in the murder have been arrested and remanded to police custody. The shooters were provided weapons and shelter by Pooja and her husband before carrying out the killing. The Lawrence Bishnoi gang claimed responsibility for the murder, and police have recovered substantial evidence indicating the gang's operation in Jaipur.
+
 Tue, 12 Dec 2023 07:42:31 +0530
 ### [Study on twins says exercise doesn't translate to longer life. Here's what it means](https://www.firstpost.com/explainers/study-on-twins-says-exercise-doesnt-translate-to-longer-life-heres-what-it-means-13491752.html)
 
