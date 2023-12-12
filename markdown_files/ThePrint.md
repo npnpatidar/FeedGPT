@@ -1,3 +1,123 @@
+Tue, 12 Dec 2023 15:16:11 +0000
+### [6 arrested in Delhi for robbing UP couple of Rs 50 lakh](https://theprint.in/india/6-arrested-in-delhi-for-robbing-up-couple-of-rs-50-lakh/1883313/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 12 (PTI) The Delhi Police has arrested six people for allegedly robbing a couple of Rs 50 lakh which they were carrying to purchase jewellery, a senior official said on Tuesday. Special Commissioner of Police (crime) Ravindra Singh Yadav said the couple from Uttar Pradesh had filed a complaint at the Anand [&#8230;]
+
+Tue, 12 Dec 2023 15:16:00 +0000
+### [Haryana: Inmate wrongly released from Ambala jail, Anil Vij asks DG prisons to probe matter](https://theprint.in/india/haryana-inmate-wrongly-released-from-ambala-jail-anil-vij-asks-dg-prisons-to-probe-matter/1883312/)
+
+Article found but Couldn't summarize 
+Chandigarh, Dec 12 (PTI) Haryana Home Minister Anil Vij on Tuesday took serious note of an inmate mistakenly released from Ambala jail and asked the director general of prisons to investigate the matter. Vij said he also spoke to the jail administration and was informed by them that &#8220;some other person was released by mistake&#8221; [&#8230;]
+
+Tue, 12 Dec 2023 15:15:49 +0000
+### [Punjab: Jail inmate seen dancing at marriage ceremony, 2 cops suspended](https://theprint.in/india/punjab-jail-inmate-seen-dancing-at-marriage-ceremony-2-cops-suspended/1883311/)
+
+Article found but Couldn't summarize 
+Ludhiana, Dec 12 (PTI) In an embarrassment to the Punjab Police, a jail inmate was seen dancing at a marriage ceremony after he was taken for a medical checkup, prompting authorities to suspend two police officers including a sub-inspector. Savottam Singh alias Lucky Sandhu, who was lodged in the Ludhiana Central Jail in a kidnapping [&#8230;]
+
+Tue, 12 Dec 2023 15:15:40 +0000
+### [ED files chargesheet against Bengal minister Jyoti Priya Mallick, businessman in ration ‘scam’](https://theprint.in/india/ed-files-chargesheet-against-bengal-minister-jyoti-priya-mallick-businessman-in-ration-scam/1883310/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 12 (PTI) The Enforcement Directorate (ED) on Tuesday filed a chargesheet before a city court against West Bengal minister Jyoti Priya Mallick and a businessman in connection with the alleged ration distribution scam. The chargesheet was filed 46 days after Mallick&#8217;s arrest on October 27. The ED claimed to have found his links [&#8230;]
+
+Tue, 12 Dec 2023 15:15:31 +0000
+### [BBC India restructures to create new entity to comply with FDI rules](https://theprint.in/world/bbc-india-restructures-to-create-new-entity-to-comply-with-fdi-rules/1883309/)
+
+Article found but Couldn't summarize 
+London, Dec 12 (PTI) Four BBC staff members on Tuesday announced plans to leave the organisation and form a new entity in India named Collective Newsroom, which will provide services “as commissioned by the BBC” and in compliance with the country&#8217;s foreign direct investment (FDI) rules. According to a statement from the UK-based public service [&#8230;]
+
+Tue, 12 Dec 2023 15:15:22 +0000
+### [FBI director visits NIA HQs, highlights need to take partnership to next level to counter terrorism](https://theprint.in/india/fbi-director-visits-nia-hqs-highlights-need-to-take-partnership-to-next-level-to-counter-terrorism/1883308/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 12 (PTI) FBI Director Christopher A Wray visited the NIA headquarters here on Tuesday and emphasised the need to take the partnership between the US and India to the next level to deal with constantly-evolving challenges and threats of terrorism, an official said. The attack on the Indian consulate in San Francisco [&#8230;]
+
+Tue, 12 Dec 2023 15:15:12 +0000
+### [FBI director meets Delhi Police commissioner, holds discussions on solving transnational cybercrimes](https://theprint.in/india/fbi-director-meets-delhi-police-commissioner-holds-discussions-on-solving-transnational-cybercrimes/1883306/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 12 (PTI) FBI Director Christopher A Wray met Delhi Police Commissioner Sanjay Arora here on Tuesday and the two held discussions on emerging technology-based challenges to law enforcement and the need for closer cooperation in solving transnational cybercrimes, an official statement said. Accompanied by a US delegation, Wray met Arora at the [&#8230;]
+
+Tue, 12 Dec 2023 15:15:07 +0000
+### [Oil falls 3%, extends losses after US inflation data](https://theprint.in/economy/oil-falls-3-extends-losses-after-us-inflation-data/1883305/)
+
+Article found but Couldn't summarize 
+By Alex Lawler LONDON (Reuters) -Oil fell 3% on Tuesday, with Brent crude hitting the lowest since June after U.S. consumer prices rose in November, offering more evidence that the Federal Reserve was
+
+Tue, 12 Dec 2023 15:15:03 +0000
+### [Rupee ends flat against US dollar](https://theprint.in/economy/rupee-ends-flat-against-us-dollar-2/1883304/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 12 (PTI) The rupee settled flat at 83.37 against the US dollar on Tuesday, as investors preferred to remain cautious ahead of the domestic inflation data release and US Fed meeting. Besides, selling pressure in the domestic equity markets dented market sentiments, forex traders said. At the interbank foreign exchange market, the local [&#8230;]
+
+Tue, 12 Dec 2023 15:01:43 +0000
+### [BJP MLA found guilty of raping minor in 2014](https://theprint.in/india/bjp-mla-found-guilty-of-raping-minor-in-2014/1883296/)
+
+Article found but Couldn't summarize 
+Sonbhadra (UP), Dec 12 (PTI) A local court here on Tuesday convicted BJP MLA Ramdular Gond for raping a minor girl nine years ago and fixed December 15 for pronouncing the punishment. Additional District Judge (First), MP/MLA Court, Ehsan Ullah Khan, found the MLA guilty in the 2014 rape case, said Special Public Prosecutor (POCSO) [&#8230;]
+
+Tue, 12 Dec 2023 15:01:31 +0000
+### [RSS did lot for nation, impressed with working of this patriotic organization: Kangana Ranaut](https://theprint.in/india/rss-did-lot-for-nation-impressed-with-working-of-this-patriotic-organization-kangana-ranaut/1883295/)
+
+Article found but Couldn't summarize 
+Bilaspur (HP), Dec 12 (PTI) Bollywood actor Kangana Ranaut Tuesday praised the functioning of the Rashtriya Swayamsevak Sangh (RSS), saying the organisation had done a lot for the nation and was still working to unite it. &#8220;My revolutionary ideology matches with that of the RSS and therefore I am impressed with the working of this [&#8230;]
+
+Tue, 12 Dec 2023 15:01:20 +0000
+### [Serum Institute CEO Adar Poonawalla buys London mansion: Report](https://theprint.in/world/serum-institute-ceo-adar-poonawalla-buys-london-mansion-report/1883294/)
+
+Article found but Couldn't summarize 
+London, Dec 12 (PTI) Serum Institute of India (SII) CEO Adar Poonawalla has acquired a sprawling mansion in the heart of London worth around GBP 138 million, according to a UK media report on Tuesday. According to ‘The Financial Times’, the Poonawalla family has agreed a deal for the 25,000 square foot Mayfair mansion near [&#8230;]
+
+Tue, 12 Dec 2023 15:01:09 +0000
+### [Take action against those involved in wrongdoings: Mamata tells Bengal land dept secy](https://theprint.in/india/take-action-against-those-involved-in-wrongdoings-mamata-tells-bengal-land-dept-secy/1883293/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 12 (PTI) Alleging that there were a few officials in the land department, who were involved in some illegal dealings, West Bengal Chief Minister Mamata Banerjee on Tuesday directed the principal secretary of the department to look into the matter and take serious actions against those who would be found guilty. Banerjee also [&#8230;]
+
+Tue, 12 Dec 2023 15:00:56 +0000
+### [Kerala HC asks govt to provide necessary support to Sabarimala pilgrims](https://theprint.in/india/kerala-hc-asks-govt-to-provide-necessary-support-to-sabarimala-pilgrims/1883292/)
+
+Article found but Couldn't summarize 
+Kochi, Dec 12 (PTI) The Kerala High Court on Tuesday directed the authorities to ensure support to the Sabarimala pilgrims who reach the shrine and to provide adequate parking facilities for the vehicles. The bench of Justice Anil Narendran and G Girish, asked the state police to ensure that the rush to the hilltop shrine [&#8230;]
+
+Tue, 12 Dec 2023 15:00:53 +0000
+### [Buy now, pay later company Affirm pushes further into retail gift cards](https://theprint.in/tech/buy-now-pay-later-company-affirm-pushes-further-into-retail-gift-cards/1883291/)
+
+Article found but Couldn't summarize 
+By Arriana McLymore and Lisa Baertlein NEW YORK (Reuters) - Buy now, pay later company Affirm said it is teaming up with a major provider of retail-branded gift cards to let shoppers purchase digital
+
+Tue, 12 Dec 2023 15:00:43 +0000
+### [LS nod to two bills extending women’s quota to Puducherry, J-K assemblies](https://theprint.in/india/ls-nod-to-two-bills-extending-womens-quota-to-puducherry-j-k-assemblies/1883289/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 12 (PTI) Lok Sabha on Tuesday passed two bills that seek to extend the provisions of the women&#8217;s reservation law to the legislative assemblies of the Union Territories of Puducherry and Jammu and Kashmir. Replying to a debate on the Jammu and Kashmir Reorganisation (Second Amendment) Bill and the Government of Union [&#8230;]
+
+Tue, 12 Dec 2023 15:00:36 +0000
+### [Spain sees record December temperatures, endangering ski season](https://theprint.in/environment/spain-sees-record-december-temperatures-endangering-ski-season/1883288/)
+
+Article found but Couldn't summarize 
+MADRID (Reuters) - Temperatures across Spain smashed records for December as a mass of hot air swept over the Iberian Peninsula on Tuesday, pushing the mercury close to 30 degrees Celsius (86
+
+Tue, 12 Dec 2023 15:00:30 +0000
+### [Kathuniya tops in discus throw with special throw](https://theprint.in/sport/kathuniya-tops-in-discus-throw-with-special-throw/1883287/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 12 (PTI) Tokyo Paralympics silver medallist Yogesh Kathuniya of Haryana bagged a gold medal in the discus throw for F56 category in the Khelo India Para Games here on Tuesday. The 26-year-old, who developed a rare neurological condition called Guillain-Barre syndrome when he was only nine years old, clinched yellow metal with [&#8230;]
+
+Tue, 12 Dec 2023 15:00:18 +0000
+### [Dollar pares losses after data shows some inflation remains sticky](https://theprint.in/economy/dollar-pares-losses-after-data-shows-some-inflation-remains-sticky/1883285/)
+
+Article found but Couldn't summarize 
+NEW YORK (Reuters) - The dollar pared losses against the euro and yen on Tuesday after data showed that some underlying measures of inflation remained relatively elevated in November even as price
+
+Tue, 12 Dec 2023 15:00:16 +0000
+### [Bangladesh elections: Ruling party encourages independent candidates, JaPa requests PM not to join hands with its faction](https://theprint.in/world/bangladesh-elections-ruling-party-encourages-independent-candidates-japa-requests-pm-not-to-join-hands-with-its-faction/1883284/)
+
+Article found but Couldn't summarize 
+Dhaka, Dec 12 (PTI) With less than a month to go for the general elections, Bangladesh is witnessing fast-paced political developments with the latest being the Jatiya Party chief patron on Tuesday urging Prime Minister Sheikh Hasina to not form an alliance with her party’s faction. Bangladesh is headed to general elections on January 7. [&#8230;]
+
 Tue, 12 Dec 2023 14:16:30 +0000
 ### [Soccer-Chelsea’s James faces another long spell out with hamstring injury](https://theprint.in/sport/soccer-chelseas-james-faces-another-long-spell-out-with-hamstring-injury/1883227/)
 

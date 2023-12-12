@@ -1,3 +1,8 @@
+Tue, 12 Dec 2023 14:27:47 +0000
+### [What does ‘unabated’ fossil fuels mean — and can carbon capture help achieve net-zero?](https://indianexpress.com/article/explained/explained-climate/unabated-fossil-fuels-carbon-capture-9065481/)
+
+Article found but Couldn't summarize
+
 Tue, 12 Dec 2023 10:27:08 +0000
 ### [ECI members to have same status as SC judges: Why Govt has chosen to make U-turn on proposed Bill](https://indianexpress.com/article/explained/explained-law/eci-members-status-sc-judges-bill-explained-9065014/)
 

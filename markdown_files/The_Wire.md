@@ -1,3 +1,9 @@
+2023-12-12T19:59:18+05:30
+### ['Joram': No Country for the Downtrodden in a System Heavily Loaded Towards the Rich and Powerful](https://thewire.in/film/joram-no-country-for-the-downtrodden-in-a-system-heavily-loaded-towards-the-rich-and-powerful)
+
+No Article text 
+Davashish Makhija’s fourth film is yet another iteration of anger against the system.
+
 2023-12-12T19:14:55+05:30
 ### [To Comply With FDI Rules, BBC's India Services Will Soon Be Produced by New Company](https://thewire.in/media/fdi-rules-bbc-india-services-new-company-collective-newsroom-private-limited)
 
