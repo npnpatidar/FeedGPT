@@ -1,3 +1,15 @@
+2023-12-12T22:40:40+05:30
+### [After Supreme Court Order, China Reiterates Position on Kashmir](https://thewire.in/world/after-supreme-court-order-china-reiterates-position-on-kashmir)
+
+No Article text 
+“The Kashmir issue, left from the past, needs to be resolved peacefully and appropriately in accordance with the UN Charter, Security Council resolutions and relevant bilateral agreement. Parties concerned need to settle the dispute through dialogue and consultation so as to maintain regional peace and stability," the Chinese foreign ministry spokesperson said.
+
+2023-12-12T22:23:15+05:30
+### [Germany Charges 27 Suspects Over Reichsbürger Coup Plot](https://thewire.in/world/germany-charges-27-suspects-over-reichsburger-coup-plot)
+
+No Article text 
+The accused are strongly suspected of membership of a terrorist organisation as well as preparation of a treasonous undertaking," the prosecutors said in a statement.
+
 2023-12-12T21:25:00+05:30
 ### [Watch | Ajit Doval Would Have Known of Indian Official's Alleged Plot to Kill Pannun: Former RAW Head](https://thewire.in/video/watch-ajit-doval-pannun-plot-as-dulat-karan-thapar)
 

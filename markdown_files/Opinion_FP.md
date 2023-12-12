@@ -1,3 +1,9 @@
+Tue, 12 Dec 2023 22:17:23 +0530
+### [Year Ender 2023: With Ranbir Kapoor’s Animal a success, toxic masculinity rules Bollywood](https://www.firstpost.com/entertainment/year-ender-2023-with-ranbir-kapoors-animal-a-success-toxic-masculinity-rules-bollywood-13493692.html)
+
+Article found but Couldn't summarize 
+Year Ender 2023: With Ranbir Kapoor’s Animal a success, toxic masculinity rules Bollywood
+
 Tue, 12 Dec 2023 19:31:18 +0530
 ### [Vantage | How China uses ships to bully neighbours in South China Sea](https://www.firstpost.com/opinion/vantage-how-china-uses-ships-to-bully-neighbours-in-south-china-sea-13496372.html)
 

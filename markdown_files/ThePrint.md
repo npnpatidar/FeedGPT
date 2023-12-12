@@ -1,3 +1,122 @@
+Tue, 12 Dec 2023 17:18:31 +0000
+### [Soccer-Chelsea condemn abuse of Lauren James after 4-1 loss at Arsenal](https://theprint.in/sport/soccer-chelsea-condemn-abuse-of-lauren-james-after-4-1-loss-at-arsenal/1883469/)
+
+Article found but Couldn't summarize 
+(Reuters) - Chelsea have condemned the online abuse directed towards England forward Lauren James following Sunday's 4-1 loss at Arsenal, the Women's Super League club said on Tuesday. The 22-year-old
+
+Tue, 12 Dec 2023 17:17:58 +0000
+### [Wall Street inches higher after CPI report, crude slides](https://theprint.in/economy/wall-street-inches-higher-after-cpi-report-crude-slides/1883467/)
+
+Article found but Couldn't summarize 
+By Stephen Culp NEW YORK (Reuters) -U.S. stocks inched higher in choppy trading on Tuesday and the dollar dipped after a crucial report showed sticky U.S. inflation continues to meander along its slow
+
+Tue, 12 Dec 2023 17:17:24 +0000
+### [Yad Vashem head says antisemitism in universities a major threat](https://theprint.in/world/yad-vashem-head-says-antisemitism-in-universities-a-major-threat/1883465/)
+
+Article found but Couldn't summarize 
+JERUSALEM (Reuters) - The head of Israel's main Holocaust memorial centre has welcomed criticism levelled at three top U.S. university presidents over their comments on campus antisemitism but said an
+
+Tue, 12 Dec 2023 17:17:03 +0000
+### [Govt replaces ‘mental illness’ with ‘unsound mind’ in 3 criminal law bills](https://theprint.in/india/govt-replaces-mental-illness-with-unsound-mind-in-3-criminal-law-bills/1883463/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 12 (PTI) The government has introduced the term &#8220;unsound mind&#8221; in place of &#8220;mental illness&#8221;, on the recommendations of a parliamentary panel, in the redrafted criminal law bills that seek to replace the British-era Indian Penal Code, CrPC and Indian Evidence Act. The Bharatiya Nyaya Sanhita Bill was first introduced in the [&#8230;]
+
+Tue, 12 Dec 2023 17:16:56 +0000
+### [Argentina grains, peso markets shackled ahead of economic shock package](https://theprint.in/world/argentina-grains-peso-markets-shackled-ahead-of-economic-shock-package/1883462/)
+
+Article found but Couldn't summarize 
+By Jorge Otaola and Walter Bianchi BUENOS AIRES (Reuters) -Argentina's foreign exchange and grains markets were locked down on Tuesday as traders waited for the new government's economic "shock" plan
+
+Tue, 12 Dec 2023 17:16:36 +0000
+### [Certain UAPA provisions included in redrafted Bharatiya Nyaya Sanhita Bill](https://theprint.in/india/certain-uapa-provisions-included-in-redrafted-bharatiya-nyaya-sanhita-bill/1883461/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 12 (PTI) Certain provisions of anti-terror law UAPA have been included in the redrafted Bharatiya Nyaya Sanhita Bill, which was reintroduced in the Lok Sabha afresh along with two other bills to replace the existing criminal laws. The three bills were reintroduced to include some of the recommendations made by a parliamentary [&#8230;]
+
+Tue, 12 Dec 2023 17:16:31 +0000
+### [US citizen accused of stabbings in Brazil falls to death from hotel room](https://theprint.in/world/us-citizen-accused-of-stabbings-in-brazil-falls-to-death-from-hotel-room/1883460/)
+
+Article found but Couldn't summarize 
+SAO PAULO (Reuters) - A U.S. citizen accused of trying to stab his girlfriend and a taxi driver in Brazil's northeastern city of Salvador jumped to his death from a hotel room on Tuesday while police
+
+Tue, 12 Dec 2023 17:16:07 +0000
+### [Rinku, Surya fire India to 180/7 before rain interrupts](https://theprint.in/sport/rinku-surya-fire-india-to-180-7-before-rain-interrupts/1883458/)
+
+Article found but Couldn't summarize 
+Gqeberha (South Africa), Dec 12 (PTI) Rinku Singh enhanced his credential as a finisher with a maiden half-century while skipper Suryakumar Yadav played in his inimitable way to take India to 180 for seven in the second T20 against South Africa here on Tuesday. Put in to bat, India lost Yashasvi Jaiswal and Shubman Gill [&#8230;]
+
+Tue, 12 Dec 2023 17:16:04 +0000
+### [Elon Musk to take part in Italian PM’s political festival](https://theprint.in/world/elon-musk-to-take-part-in-italian-pms-political-festival/1883457/)
+
+Article found but Couldn't summarize 
+ROME (Reuters) - Billionaire Elon Musk confirmed on Tuesday that he had accepted an invitation from Italian Prime Minister Giorgia Meloni to attend a political gathering this weekend in Rome. Musk
+
+Tue, 12 Dec 2023 17:15:38 +0000
+### [Five-year-old dies after falling into borewell in MP](https://theprint.in/india/five-year-old-dies-after-falling-into-borewell-in-mp/1883455/)
+
+Article found but Couldn't summarize 
+Alirajpur (MP), Dec 12 (PTI) A five-year-old boy died after falling into a borewell in Alirajpur district of Madhya Pradesh on Tuesday, police said. The boy was rescued from the borewell shaft but declared dead at the hospital, district&#8217;s Superintendent of Police (SP) Rajesh Vyas told PTI in the evening. The child fell into the [&#8230;]
+
+Tue, 12 Dec 2023 17:15:37 +0000
+### [Iranian foreign minister says Israel, US cannot wipe out Hamas](https://theprint.in/world/iranian-foreign-minister-says-israel-us-cannot-wipe-out-hamas/1883454/)
+
+Article found but Couldn't summarize 
+GENEVA (Reuters) -Iranian Foreign Minister Hossein Amirabdollahian said on Tuesday that Israel and the United States will never be able to wipe out Hamas and that Israel could only secure the release
+
+Tue, 12 Dec 2023 17:15:04 +0000
+### [Far-right Polish lawmaker uses fire extinguisher on Hanukkah candles in parliament](https://theprint.in/world/far-right-polish-lawmaker-uses-fire-extinguisher-on-hanukkah-candles-in-parliament/1883452/)
+
+Article found but Couldn't summarize 
+WARSAW (Reuters) - A far-right Polish lawmaker used a fire extinguisher to put out Hanukkah candles in the country's parliament, leading the speaker to exclude him from the sitting and provoking
+
+Tue, 12 Dec 2023 17:15:02 +0000
+### [Pakistan summons Afghan diplomat over TJP attack on military](https://theprint.in/world/pakistan-summons-afghan-diplomat-over-tjp-attack-on-military/1883451/)
+
+Article found but Couldn't summarize 
+Islamabad, Dec 12 (PTI) Pakistan on Tuesday summoned Afghan Chargé d&#8217;Affaires here and delivered strong demarche to the interim Taliban government in the context of a deadly attack on a military check post in the country&#8217;s restive northwest. At least 23 soldiers were killed on Tuesday in the attack in Darban areas of Dera Ismail [&#8230;]
+
+Tue, 12 Dec 2023 17:00:53 +0000
+### [BJP appoints ‘prabharis’, ‘sah-prabharis’ in Punjab](https://theprint.in/india/bjp-appoints-prabharis-sah-prabharis-in-punjab/1883441/)
+
+Article found but Couldn't summarize 
+Chandigarh, Dec 12 (PTI) The BJP on Tuesday announced the appointments of district &#8216;prabharis&#8217; and &#8216;sah-prabharis&#8217; of its Punjab unit. The list of 70 appointees of &#8216;prabharis&#8217; (incharges) and &#8216;sah-prabharis&#8217; (co-incharges) was made after the due approval of party president J P Nadda, the BJP said. The announcement was made by Punjab BJP chief Sunil [&#8230;]
+
+Tue, 12 Dec 2023 17:00:37 +0000
+### [J-K LG inaugurates online booking facility for ropeway from Vaishno Devi to Bhairon Ji Temple](https://theprint.in/india/j-k-lg-inaugurates-online-booking-facility-for-ropeway-from-vaishno-devi-to-bhairon-ji-temple/1883440/)
+
+Article found but Couldn't summarize 
+Jammu, Dec 12 (PTI) Jammu and Kashmir Lieutenant Governor Manoj Sinha on Tuesday inaugurated an online booking facility for the passenger ropeway from Shri Mata Vaishno Devi Bhawan to the Bhairon Ji Temple for the convenience of the visiting pilgrims, officials said. An official spokesman said that the inauguration of the online booking facility for [&#8230;]
+
+Tue, 12 Dec 2023 17:00:25 +0000
+### [Noida: Two assaulted over suspicion of theft, chilli powder applied on private parts](https://theprint.in/india/noida-two-assaulted-over-suspicion-of-theft-chilli-powder-applied-on-private-parts/1883439/)
+
+Article found but Couldn't summarize 
+Noida, Dec 12 (PTI) Two youths were allegedly assaulted on suspicion of theft and chilli powder was applied on their private parts by three men in Greater Noida, police said on Tuesday. The three accused have been arrested after an FIR was lodged at Jewar police station, police said, even as a purported video clip [&#8230;]
+
+Tue, 12 Dec 2023 17:00:14 +0000
+### [Israeli movie wins Best Film award as curtains down on Kolkata festival](https://theprint.in/feature/israeli-movie-wins-best-film-award-as-curtains-down-on-kolkata-festival/1883438/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 12 (PTI) ‘Children of Nobody’ from Israel, directed by Erez Tadmor, won the Best Film award in the International Competition section of the 29th Kolkata International Film Festival which ended on Tuesday. While the globally acclaimed film got the Rs 51 lakh prize money along with the Golden Royal Bengal trophy as the [&#8230;]
+
+Tue, 12 Dec 2023 17:00:02 +0000
+### [Outgoing Indian envoy to Sri Lanka Gopal Bagley calls on PM Gunawardena](https://theprint.in/world/outgoing-indian-envoy-to-sri-lanka-gopal-bagley-calls-on-pm-gunawardena/1883437/)
+
+Article found but Couldn't summarize 
+Colombo, Dec 12 (PTI) Indian High Commissioner to Sri Lanka Gopal Bagley paid a farewell call on Sri Lankan Prime Minister Dinesh Gunawardena at the Temple Trees here and thanked him for his continuous support towards a closer and stronger relationship between the two countries. &#8220;Greatly honoured to pay a farewell call on H.E PM [&#8230;]
+
+Tue, 12 Dec 2023 16:46:39 +0000
+### [Soccer-Italy and Juventus great Chiellini retires from football](https://theprint.in/sport/soccer-italy-and-juventus-great-chiellini-retires-from-football/1883435/)
+
+Article found but Couldn't summarize 
+(Reuters) -Former Italy and Juventus defender Giorgio Chiellini has decided to retire from professional football, the 39-year-old announced on social media platform X on Tuesday. Chiellini, who played
+
+Tue, 12 Dec 2023 16:46:31 +0000
+### [Clearing firm Apex Fintech confidentially files for US IPO](https://theprint.in/tech/clearing-firm-apex-fintech-confidentially-files-for-us-ipo/1883434/)
+
+Apex Fintech, a clearing firm based in Dallas, Texas, has confidentially filed for a U.S. initial public offering (IPO). The company had previously planned to go public in 2021 through a merger with Northern Star Investment Corp II, but the deal fell through. The number of shares to be sold and the proposed price range for the IPO filing have not been disclosed. Apex offers digital clearing, custody, execution, and routing solutions to financial institutions and has over $115 billion in assets under custody. Please note that as GPT-3.5, I do not have access to real-time information, so this summary is based on the provided text.
+
 Tue, 12 Dec 2023 16:17:11 +0000
 ### [Olympics-Paris 2024 will ‘welcome’ neutral Russia and Belarus athletes – Estanguet](https://theprint.in/sport/olympics-paris-2024-will-welcome-neutral-russia-and-belarus-athletes-estanguet/1883403/)
 

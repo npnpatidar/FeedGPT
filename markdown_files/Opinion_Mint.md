@@ -1,3 +1,9 @@
+Tue, 12 Dec 2023 22:41:44 +0530
+### [Sebi paper holds out big hope for private debt issuers and retail investors](https://www.livemint.com/opinion/columns/sebi-paper-holds-out-big-hope-for-private-debt-issuers-and-retail-investors-11702400860550.html)
+
+Article found but Couldn't summarize 
+The move allows retail investors to buy corporate debt that can beat inflation
+
 Tue, 12 Dec 2023 21:44:13 +0530
 ### [Global discussions on AI regulation must not miss the Global South's interests](https://www.livemint.com/opinion/online-views/global-discussions-on-ai-regulation-must-not-miss-the-global-souths-interests-11702395442627.html)
 
