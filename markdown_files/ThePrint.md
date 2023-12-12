@@ -1,3 +1,122 @@
+Tue, 12 Dec 2023 01:15:27 +0000
+### [Epic Games CEO says company won in Google Play antitrust case](https://theprint.in/tech/epic-games-ceo-says-company-won-in-google-play-antitrust-case/1882284/)
+
+Article found but Couldn't summarize 
+By Mike Scarcella and Greg Bensinger (Reuters) -"Fortnite" maker Epic Games has prevailed in an antitrust trial over Alphabet's Google Play app marketplace, Epic Chief Executive Tim Sweeney said late
+
+Tue, 12 Dec 2023 01:15:18 +0000
+### [Epic Games CEO says his company won in Google Play antitrust case](https://theprint.in/tech/epic-games-ceo-says-his-company-won-in-google-play-antitrust-case/1882282/)
+
+Epic Games has won an antitrust trial against Google's Play app marketplace, with the California jury ruling against Google's monopoly on all counts. This trial was in response to Epic's lawsuit filed in 2020, which challenged the dominance of the Google Play store and Google's 30% fee on in-app sales. The court will now work on remedies starting in January. Epic's lawsuit also accused Google of blocking alternative app stores on the Play store. Meanwhile, Google has denied wrongdoing and settled related claims with other companies and antitrust claims by U.S. states and consumers. Epic has also lodged a similar antitrust case against Apple, with ongoing legal battles between the two companies.
+
+Tue, 12 Dec 2023 01:15:04 +0000
+### [Yen hands back gains, dollar waits on CPI](https://theprint.in/economy/yen-hands-back-gains-dollar-waits-on-cpi/1882280/)
+
+Article found but Couldn't summarize 
+SINGAPORE (Reuters) - The yen nursed losses on Tuesday as traders walked back expectations for a Japan rate hike, while the dollar was waiting on U.S. inflation data and a slew of central bank
+
+Tue, 12 Dec 2023 00:47:02 +0000
+### [Tripura: Govt initated efforts to boost logistic support in hospitals](https://theprint.in/health/tripura-govt-initated-efforts-to-boost-logistic-support-in-hospitals/1882278/)
+
+Article found but Couldn't summarize 
+Agartala (Tripura) [India], December 12 (ANI) In a move to enhance the healthcare system, the state government has initiated efforts to boost logistic support in hospitals and will soon introduce four additional super specialty services at GB Pant Hospitals, said Chief Minister Manik Saha. Saha announced this after inaugurating the type-three and type-four residential quarters [&#8230;]
+
+Tue, 12 Dec 2023 00:45:42 +0000
+### [Soccer-Turkish leagues halted after club president punches referee in face](https://theprint.in/sport/soccer-turkish-leagues-halted-after-club-president-punches-referee-in-face/1882276/)
+
+Article found but Couldn't summarize 
+ANKARA (Reuters) -The Turkish Football Federation (TFF) has suspended all leagues on a night of "shame" for the nation's soccer after Ankaragucu's president Faruk Koca punched the referee in the face
+
+Tue, 12 Dec 2023 00:45:31 +0000
+### [Soccer-Bayern expect a top performance against Manchester United, says Tuchel](https://theprint.in/sport/soccer-bayern-expect-a-top-performance-against-manchester-united-says-tuchel/1882274/)
+
+Article found but Couldn't summarize 
+(Reuters) - Bayern Munich will give 100% against Manchester United in their final Champions League Group A game on Tuesday, coach Thomas Tuchel said, despite having already secured top spot. Bottom
+
+Tue, 12 Dec 2023 00:45:04 +0000
+### [Hunger rises in Gaza as UN prepares to vote on ceasefire resolution](https://theprint.in/world/hunger-rises-in-gaza-as-un-prepares-to-vote-on-ceasefire-resolution/1882272/)
+
+Article found but Couldn't summarize 
+By Nidal al-Mughrabi and Michelle Nichols CAIRO/UNITED NATIONS (Reuters) - Hunger was worsening among Palestinians in the besieged Gaza strip, aid agencies said, as the United Nations General Assembly
+
+Tue, 12 Dec 2023 00:17:01 +0000
+### [More than 345,000 Afghans deported from Iran to Afghanistan in over two months: Taliban](https://theprint.in/world/more-than-345000-afghans-deported-from-iran-to-afghanistan-in-over-two-months-taliban/1882270/)
+
+Article found but Couldn't summarize 
+Kabul [Afghanistan], December 12 (ANI): More than 345,000 Afghans have been deported from Iran to Afghanistan in over two months, Afghanistan-based TOLO News reported, citing a senior official of the Taliban-led Ministry of Refugees and Repatriation. Abdul Rahman Rashid, Taliban-appointed Deputy Minister of Refugees and Repatriation, said, &#8220;Since the first of Mizan (23rd September) till [&#8230;]
+
+Tue, 12 Dec 2023 00:16:09 +0000
+### [Oracle forecasts Q3 revenue below estimates on weak cloud spending, shares fall](https://theprint.in/tech/oracle-forecasts-q3-revenue-below-estimates-on-weak-cloud-spending-shares-fall/1882268/)
+
+Article found but Couldn't summarize 
+By Arsheeya Bajwa (Reuters) -Oracle forecast quarterly revenue below estimates on Monday, as an uncertain economy and competition in the cloud computing market weighed on demand for its cloud
+
+Tue, 12 Dec 2023 00:15:59 +0000
+### [After US curbs, Tencent and small chip designers chase Nvidia’s China crown](https://theprint.in/tech/after-us-curbs-tencent-and-small-chip-designers-chase-nvidias-china-crown/1882266/)
+
+Article found but Couldn't summarize 
+By Yelin Mo and Fanny Potkin BEIJING/SINGAPORE (Reuters) -Chinese chip designers including Tencent Holdings are aggressively pitching their AI chips as alternatives to Nvidia's, hoping U.S. export
+
+Tue, 12 Dec 2023 00:15:50 +0000
+### [Extreme cold still poses reliability challenge for N. American power generators -NERC](https://theprint.in/environment/extreme-cold-still-poses-reliability-challenge-for-n-american-power-generators-nerc/1882265/)
+
+Article found but Couldn't summarize 
+(Reuters) - The North American Electric Reliability Corp (NERC) anticipates that "freezing conditions" still remain a reliability concern for power generators, it said in a report released on Monday.
+
+Tue, 12 Dec 2023 00:15:37 +0000
+### [Rishi Sunak faces tense UK parliamentary showdown over Rwanda asylum plan](https://theprint.in/world/rishi-sunak-faces-tense-uk-parliamentary-showdown-over-rwanda-asylum-plan/1882263/)
+
+Article found but Couldn't summarize 
+By Andrew MacAskill and Michael Holden LONDON (Reuters) - British Prime Minister Rishi Sunak faces the biggest parliamentary test of his premiership on Tuesday when lawmakers vote on his divisive plan
+
+Tue, 12 Dec 2023 00:15:28 +0000
+### [US House expects Wednesday vote on formalizing Biden impeachment inquiry – aide](https://theprint.in/world/us-house-expects-wednesday-vote-on-formalizing-biden-impeachment-inquiry-aide/1882261/)
+
+Article found but Couldn't summarize 
+By David Morgan WASHINGTON (Reuters) -The Republican-controlled U.S. House of Representatives is expected to vote on Wednesday to formalize its impeachment inquiry of Democratic President Joe Biden, a
+
+Tue, 12 Dec 2023 00:15:18 +0000
+### [China’s Xi visits Vietnam after Biden, seeks to boost ties](https://theprint.in/world/chinas-xi-visits-vietnam-after-biden-seeks-to-boost-ties/1882259/)
+
+Article found but Couldn't summarize 
+HANOI (Reuters) - China's President Xi Jinping starts a two-day visit to Vietnam on Tuesday, three months after U.S. President Joe Biden travelled to Hanoi as the two great powers vie for influence in
+
+Tue, 12 Dec 2023 00:15:06 +0000
+### [UK condemns China over incidents in the South China Sea against Philippines](https://theprint.in/world/uk-condemns-china-over-incidents-in-the-south-china-sea-against-philippines/1882257/)
+
+Article found but Couldn't summarize 
+LONDON (Reuters) - Britain on Monday condemned what it called "unsafe and escalatory tactics deployed by Chinese vessels" against the Philippines over the weekend in the South China Sea. "The UK
+
+Mon, 11 Dec 2023 23:47:01 +0000
+### [US ‘concerned’ about reports that Israel used white phosphorus in Lebanon attack](https://theprint.in/world/us-concerned-about-reports-that-israel-used-white-phosphorus-in-lebanon-attack/1882255/)
+
+Article found but Couldn't summarize 
+Washington, DC [US], December 12 (ANI): The United States is concerned about reports that Israel used US-supplied white phosphorus munitions in an attack carried out in southern Lebanon in October, US National Security Council Coordinator for Strategic Communications John Kirby said on Monday (local time). Speaking to reporters while en route to Philadelphia, John Kirby [&#8230;]
+
+Mon, 11 Dec 2023 23:17:01 +0000
+### [We support diplomatic resolution to various issues between Afghanistan, Pakistan: US](https://theprint.in/world/we-support-diplomatic-resolution-to-various-issues-between-afghanistan-pakistan-us/1882253/)
+
+Article found but Couldn't summarize 
+Washington DC [US], December 12 (ANI): The US supports diplomatic resolution to all of the various issues between Afghanistan and Pakistan, US Department of State spokesperson Matthew Miller said in a press briefing on Monday (local time). Asked whether the US is concerned about the ties going bad between Pakistan and Afghanistan, Matthew Miller said, [&#8230;]
+
+Mon, 11 Dec 2023 23:16:30 +0000
+### [Soccer-Turkish club president punches referee in the face after Super Lig game](https://theprint.in/sport/soccer-turkish-club-president-punches-referee-in-the-face-after-super-lig-game/1882251/)
+
+Article found but Couldn't summarize 
+ANKARA (Reuters) - Turkish side Ankaragucu's president Faruk Koca punched referee Halil Umut Meler in the face at the end of their Super Lig home match after Rizespor scored a 97th minute equaliser on
+
+Mon, 11 Dec 2023 23:16:20 +0000
+### [Athletics-Kipyegon, Lyles among six crowned at expanded World Athletics Awards](https://theprint.in/sport/athletics-kipyegon-lyles-among-six-crowned-at-expanded-world-athletics-awards/1882249/)
+
+Article found but Couldn't summarize 
+(Reuters) - Six athletes - Faith Kipyegon, Noah Lyles, Armand "Mondo" Duplantis, Tigist Assefa, Kelvin Kiptum, and Yulimar Rojas - were all named World Athletes of the Year on Monday after the awards
+
+Mon, 11 Dec 2023 23:16:03 +0000
+### [What to watch at COP28 on Tuesday](https://theprint.in/environment/what-to-watch-at-cop28-on-tuesday-2/1882247/)
+
+Article found but Couldn't summarize 
+DUBAI (Reuters) - Negotiations have formally entered high-stress mode. With just hours to go before the COP28 climate summit is scheduled to end, nearly 200 countries remain sharply divided on the
+
 Mon, 11 Dec 2023 22:32:02 +0000
 ### [Bangladesh: Election Commission to deploy army ahead of parliamentary elections](https://theprint.in/world/bangladesh-election-commission-to-deploy-army-ahead-of-parliamentary-elections/1882233/)
 

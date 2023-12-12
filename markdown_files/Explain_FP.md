@@ -14,6 +14,12 @@ Mon, 11 Dec 2023 19:01:15 +0530
 
 The article discusses concerns about using ChatGPT's free edition for medical information and highlights potential risks and inaccuracies. It points out that relying on ChatGPT for medical advice, especially in drug-related inquiries, may lead to inaccurate or incomplete responses. Researchers found that the AI chatbot's accuracy was lacking, providing false information in some cases, which could potentially put users at risk. Therefore, it is advisable to approach healthcare professionals directly for reliable medical advice instead of solely relying on ChatGPT. OpenAI has emphasized that their models are not fine-tuned to provide medical information, and users should not use ChatGPT for diagnostic or treatment services. Additionally, the article mentions investigations by the Federal Trade Commission related to the chatbot's accuracy and customer protections.
 
+Mon, 11 Dec 2023 18:18:59 +0530
+### [FirstUp: Xi Jinping in Vietnam, COP28 ends... The big developments today](https://www.firstpost.com/explainers/firstup-xi-jinping-in-vietnam-cop28-ends-the-big-developments-today-13490922.html)
+
+Article found but Couldn't summarize 
+FirstUp: Xi Jinping in Vietnam, COP28 ends... The big developments today
+
 Mon, 11 Dec 2023 18:09:20 +0530
 ### [Why a ‘tunnel’ under Ghaziabad's Hindon Air Base has sparked security concern](https://www.firstpost.com/explainers/why-a-tunnel-under-ghaziabads-hindon-air-base-has-sparked-security-concern-13491242.html)
 

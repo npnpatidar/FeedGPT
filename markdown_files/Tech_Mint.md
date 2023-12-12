@@ -1,3 +1,9 @@
+Tue, 12 Dec 2023 06:30:28 +0530
+### [Netflix down for thousands of users due to ‘unexpected technical issues’](https://www.livemint.com/technology/tech-news/netflix-down-for-thousands-of-users-due-to-unexpected-technical-issues-11702342276352.html)
+
+Article found but Couldn't summarize 
+Netflix is down for thousands of users, as per Downdetector.
+
 Mon, 11 Dec 2023 22:26:19 +0530
 ### [India seeks consensus in GPAI Summit talks](https://www.livemint.com/technology/tech-news/india-seeks-consensus-in-gpai-summit-talks-11702313518338.html)
 

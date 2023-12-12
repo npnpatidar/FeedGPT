@@ -5,6 +5,16 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Tech_Mint.xml</link>
 		<description>Tech Mint</description>
 		<item>
+			<title>Netflix down for thousands of users due to ‘unexpected technical issues’</title>
+			<link>https://www.livemint.com/technology/tech-news/netflix-down-for-thousands-of-users-due-to-unexpected-technical-issues-11702342276352.html</link>
+			<description>Article found but Couldn't summarize 
+Netflix is down for thousands of users, as per Downdetector.</description>
+			<pubDate>Tue, 12 Dec 2023 06:30:28 +0530</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://www.livemint.com/lm-img/img/2023/12/12/1600x900/Netflix_India_1685073506723_1702342379714.jpg"></media:thumbnail>
+			<media:content url="https://www.livemint.com/lm-img/img/2023/12/12/1600x900/Netflix_India_1685073506723_1702342379714.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>India seeks consensus in GPAI Summit talks</title>
 			<link>https://www.livemint.com/technology/tech-news/india-seeks-consensus-in-gpai-summit-talks-11702313518338.html</link>
 			<description>Article found but Couldn't summarize 
