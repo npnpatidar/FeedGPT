@@ -1,3 +1,9 @@
+2023-12-12T23:23:14+05:30
+### [Rajya Sabha Passes Bill To Appoint Election Commissioners, Opposition Walks Out](https://thewire.in/government/rajya-sabha-passes-bill-election-commissioners-opposition-appointment)
+
+No Article text 
+The government agreed to some concessions in the Bill, including retaining the status of the CEC and the ECs on par with judges of the Supreme Court.
+
 2023-12-12T22:40:40+05:30
 ### [After Supreme Court Order, China Reiterates Position on Kashmir](https://thewire.in/world/after-supreme-court-order-china-reiterates-position-on-kashmir)
 
