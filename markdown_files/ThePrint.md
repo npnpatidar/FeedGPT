@@ -1,3 +1,122 @@
+Tue, 12 Dec 2023 14:16:30 +0000
+### [Soccer-Chelsea’s James faces another long spell out with hamstring injury](https://theprint.in/sport/soccer-chelseas-james-faces-another-long-spell-out-with-hamstring-injury/1883227/)
+
+Article found but Couldn't summarize 
+LONDON (Reuters) - Chelsea's England defender Reece James suffered a hamstring injury in Sunday's 2-0 defeat at Everton, the Premier League club confirmed on Tuesday, with media reports saying the
+
+Tue, 12 Dec 2023 14:16:18 +0000
+### [Ukraine’s top mobile operator hit by biggest cyber attack of war so far](https://theprint.in/tech/ukraines-top-mobile-operator-hit-by-biggest-cyber-attack-of-war-so-far/1883225/)
+
+Article found but Couldn't summarize 
+By Max Hunder and Yuliia Dysa KYIV (Reuters) -Ukraine's biggest mobile network operator, Kyivstar, was hit on Tuesday by what appeared to be the biggest cyber attack of the war with Russia so far,
+
+Tue, 12 Dec 2023 14:16:16 +0000
+### [Haryana enforcement bureau raids 11 districts in crackdown against illegal mining](https://theprint.in/india/haryana-enforcement-bureau-raids-11-districts-in-crackdown-against-illegal-mining/1883223/)
+
+Article found but Couldn't summarize 
+Chandigarh, Dec 12 (PTI) In a crackdown on illegal mining, the Haryana State Enforcement Bureau carried out raids across 11 districts of the state, on the intervening night of December 11-12, state&#8217;s Home Minister Anil Vij said on Tuesday. During the operation, 358 vehicles were checked leading to the confiscation of 52 vehicles, including 22 [&#8230;]
+
+Tue, 12 Dec 2023 14:16:09 +0000
+### [Global EV sales hit new record in November – Rho Motion](https://theprint.in/tech/global-ev-sales-hit-new-record-in-november-rho-motion/1883222/)
+
+Article found but Couldn't summarize 
+By Nick Carey LONDON (Reuters) - Global sales of battery electric vehicles (BEV) and plug-in hybrids (PHEV) rose 20% versus a year ago as strong growth in North America and China offset lower sales in
+
+Tue, 12 Dec 2023 14:16:05 +0000
+### [Rohit Pawar, others detained during protest](https://theprint.in/india/rohit-pawar-others-detained-during-protest/1883221/)
+
+As GPT-3.5, I can provide a summary of the article you shared. The article reports that NCP MLA Rohit Pawar and several others were detained by the police during a protest in Nagpur. The protest march, called the 'Yuva Sangharsh Morcha,' culminated in a public meeting on Tekdi Road. The participants of the march wanted to hand over memorandums of demands to the Maharashtra government, but no representative was present to accept them. As a result, angry NCP workers shouted slogans and attempted to head towards the legislature complex. Subsequently, the police detained Rohit Pawar, Salil Deshmukh, Sangram Deshmukh, and other NCP workers. The march had started from Pune and covered a distance of around 800 km before reaching Nagpur, where the winter session of the Maharashtra legislature is taking place. Please note that this summary is generated based on the information provided and may not include all the details of the article.
+
+Tue, 12 Dec 2023 14:15:56 +0000
+### [Tricia Tuttle named as new Berlin Film Festival director](https://theprint.in/entertainment/tricia-tuttle-named-as-new-berlin-film-festival-director/1883219/)
+
+Article found but Couldn't summarize 
+BERLIN (Reuters) - American Tricia Tuttle, who spent a decade at the British Film Institute, was announced as the Berlinale's next director on Tuesday, taking charge as the festival attempts to dodge
+
+Tue, 12 Dec 2023 14:15:53 +0000
+### [Three killed in separate road accidents in Odisha](https://theprint.in/india/three-killed-in-separate-road-accidents-in-odisha/1883218/)
+
+Article found but Couldn't summarize 
+Bhadrak (Odisha), Dec 12 (PTI) Three persons were killed and two critically injured on Tuesday in two separate accidents on National Highway 16 in Odisha’s Bhadrak district, police said. In one of the accidents, a speeding car from Kolkata with four persons on board rammed into an electric pole at Ranital under the Bhadrak (Rural) [&#8230;]
+
+Tue, 12 Dec 2023 14:15:41 +0000
+### [Automatic payment limit via UPI raised to Rs 1 lakh: RBI](https://theprint.in/economy/automatic-payment-limit-via-upi-raised-to-rs-1-lakh-rbi/1883216/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 12 (PTI) The Reserve Bank of India on Tuesday increased the limit for automatic payments through UPI to Rs 1 lakh per transaction from the existing Rs 15,000 for certain categories, including subscription to mutual funds. As of now, relaxation in Additional Factor of Authentication (AFA) is permitted while processing e-mandates/standing instructions on [&#8230;]
+
+Tue, 12 Dec 2023 14:15:39 +0000
+### [Orphans of Gaza war left with no close relatives to care for them](https://theprint.in/world/orphans-of-gaza-war-left-with-no-close-relatives-to-care-for-them/1883215/)
+
+Article found but Couldn't summarize 
+By Doaa Rouqa DEIR AL-BALAH, Gaza Strip (Reuters) - Playing with dolls on a Gaza hospital bed where she sits with her leg in a plaster cast and scars on her face, 10-year-old Razan Shabat does not
+
+Tue, 12 Dec 2023 14:15:28 +0000
+### [Some ex-members of backward class panel got ‘supari’ for delaying Maratha quota issue: Fadnavis](https://theprint.in/india/some-ex-members-of-backward-class-panel-got-supari-for-delaying-maratha-quota-issue-fadnavis/1883213/)
+
+Article found but Couldn't summarize 
+Nagpur, Dec 12 (PTI) Maharashtra Deputy Chief Minister Devendra Fadnavis on Tuesday dubbed &#8220;politically motivated&#8221; the claim made by former State Backward Class Commission member B L Killarikar against him over the survey of communities in the state. Speaking on resignations by some members of the panel, Fadnavis said some of them and others had [&#8230;]
+
+Tue, 12 Dec 2023 14:15:27 +0000
+### [COP28 forced into overtime as fossil fuel phase-out divides countries](https://theprint.in/world/cop28-forced-into-overtime-as-fossil-fuel-phase-out-divides-countries/1883212/)
+
+Article found but Couldn't summarize 
+By Valerie Volcovici, Kate Abnett and Jake Spring DUBAI (Reuters) - The COP28 climate talks went into overtime on Tuesday and countries engaged in shuttle-diplomacy to seek a new draft agreement and
+
+Tue, 12 Dec 2023 14:15:16 +0000
+### [Vatican eases rules on the ashes of the dead](https://theprint.in/world/vatican-eases-rules-on-the-ashes-of-the-dead/1883210/)
+
+Article found but Couldn't summarize 
+VATICAN CITY (Reuters) - A small part of a dead person's cremated ashes may be stored in a place that was dear to them rather than in a church or cemetery, the Vatican said on Tuesday, softening its
+
+Tue, 12 Dec 2023 14:15:15 +0000
+### [Common people not law enforcers, can’t grill others on suspicion: Manipur CM](https://theprint.in/india/common-people-not-law-enforcers-cant-grill-others-on-suspicion-manipur-cm/1883209/)
+
+Article found but Couldn't summarize 
+Imphal, Dec 12 (PTI) Manipur Chief Minister N Biren Singh on Tuesday said that common people should not take the role of law enforcers and excessively question those whom they deem suspicious in the restive northeastern state. Asking them not to see enemies everywhere, the chief minister said one should not harass and assault people [&#8230;]
+
+Tue, 12 Dec 2023 14:15:05 +0000
+### [Four Palestinians killed in Israeli raid on West Bank’s Jenin](https://theprint.in/world/four-palestinians-killed-in-israeli-raid-on-west-banks-jenin/1883207/)
+
+Article found but Couldn't summarize 
+RAMALLAH (Reuters) -Four Palestinians were killed on Tuesday in a drone strike during an Israeli raid on the occupied West Bank city of Jenin and its refugee camp, the Palestinian health ministry and
+
+Tue, 12 Dec 2023 14:15:03 +0000
+### [Shah hits back at TMC, Cong leaders after ‘communal’, ‘take back PoK’ barbs](https://theprint.in/india/shah-hits-back-at-tmc-cong-leaders-after-communal-take-back-pok-barbs/1883206/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 12 (PTI) Lok Sabha on Tuesday witnessed some heated moments as Home Minister Amit Shah took exception to Trinamool Congress member Saugata Roy referring to the repeal of Article 370, the construction of Ram Temple in Ayodhya and Uniform Civil Code as BJP&#8217;s &#8220;communal and divisive agenda&#8221;. &#8220;Ram temple was built as [&#8230;]
+
+Tue, 12 Dec 2023 14:01:46 +0000
+### [DJB fund crunch: Finance secretary causing delay by persistently raising new queries, says Atishi](https://theprint.in/india/djb-fund-crunch-finance-secretary-causing-delay-by-persistently-raising-new-queries-says-atishi/1883203/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 12 (PTI) Despite adherence to the prescribed payment schedule and timely submission of utilisation certificates, the finance secretary has persistently raised new queries, impeding the release of much-needed funds for the Delhi Jal Board, Water Minister Atishi has said. Atishi said this in an affidavit filed in the Delhi High Court on [&#8230;]
+
+Tue, 12 Dec 2023 14:01:36 +0000
+### [Mere external examination insufficient to hold someone guilty of consuming alcohol: Allahabad HC](https://theprint.in/india/mere-external-examination-insufficient-to-hold-someone-guilty-of-consuming-alcohol-allahabad-hc/1883202/)
+
+Article found but Couldn't summarize 
+Prayagraj, Dec 12 (PTI) The Allahabad High Court has observed that mere external examination of a person is not sufficient proof to establish that he or she is in an intoxicated condition. The court was hearing a plea by police constable Jai Mangal Ram who was dismissed for alleged inappropriate behaviour while intoxicated on duty. [&#8230;]
+
+Tue, 12 Dec 2023 14:01:26 +0000
+### [Day after coldest morning of season in Delhi, mercury settles  ‘below 7 deg C](https://theprint.in/india/day-after-coldest-morning-of-season-in-delhi-mercury-settles-below-7-deg-c/1883201/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 12 (PTI) A day after Delhi experienced its coldest morning of the season, the minimum temperature in the city remained below 7 degrees Celsius on Tuesday, officials said. The mercury in the morning settled at 6.8 degrees Celsius, two notches below normal. The city had recorded its coldest morning of the season [&#8230;]
+
+Tue, 12 Dec 2023 14:01:17 +0000
+### [HPPTC Kangra to adopt forest to train staff in disaster management, rescue skills](https://theprint.in/india/hpptc-kangra-to-adopt-forest-to-train-staff-in-disaster-management-rescue-skills/1883200/)
+
+Article found but Couldn't summarize 
+Shimla, Dec 12 (PTI) The Himachal Pradesh Police Training College (HPPTC) in Kangra district will adopt a nearby forest to impart knowledge and training in disaster management, rescue skills and others to enhance the capabilities of the local forest staff, officials said. A memorandum of understanding (MoU) in this regard was signed by HPPTC DIG [&#8230;]
+
+Tue, 12 Dec 2023 14:01:07 +0000
+### [Rs 65 crore project for ducting of electric cables in 3 towns: Himachal CM](https://theprint.in/india/rs-65-crore-project-for-ducting-of-electric-cables-in-3-towns-himachal-cm/1883199/)
+
+Article found but Couldn't summarize 
+Shimla, Dec 12, (PTI) Underground electric cables would be laid to address the problem of overhead electricity and other wires and an amount of Rs 65 crore has been sanctioned for this purpose, Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu said on Tuesday. Under the project, Rs 25 crore would be spent in Shimla town [&#8230;]
+
 Tue, 12 Dec 2023 13:16:53 +0000
 ### [Social engineering, eye on 2024 — why BJP picked Yadav CM, Dalit & Brahmin deputies in MP](https://theprint.in/politics/social-engineering-eye-on-2024-why-bjp-picked-yadav-cm-dalit-brahmin-deputies-in-mp/1882777/)
 

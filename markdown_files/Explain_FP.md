@@ -1,3 +1,14 @@
+Tue, 12 Dec 2023 18:45:32 +0530
+### [Why billionaires from across the world are moving businesses to Abu Dhabi](https://www.firstpost.com/explainers/why-billionaires-from-across-the-world-are-moving-businesses-to-abu-dhabi-13495322.html)
+
+Abu Dhabi has become a preferred choice for high-net-worth individuals (HNWIs) to park their assets. Thousands of billionaires have set up special purpose vehicles (SPVs) in Abu Dhabi, making it a top choice for billionaires. The emirate offers advantages such as tax treaties with other countries to minimize tax bills, mechanisms to protect assets from foreign interference, and long-term residency options. Other traditional havens like the Cayman Islands and British Virgin Islands have faced increased scrutiny, making Abu Dhabi more attractive. Additionally, Abu Dhabi's cultural attractions and business opportunities contribute to its appeal for HNWIs.
+
+Tue, 12 Dec 2023 18:45:28 +0530
+### [Who is Bhajanlal Sharma, BJP's choice for Rajasthan CM? Why was he chosen?](https://www.firstpost.com/explainers/who-is-bhajanlal-sharma-bjps-choice-for-rajasthan-cm-why-was-he-chosen-13496032.html)
+
+Article found but Couldn't summarize 
+Who is Bhajanlal Sharma, BJP's choice for Rajasthan CM? Why was he chosen?
+
 Tue, 12 Dec 2023 17:07:36 +0530
 ### [Qatar sent millions to Hamas for years and Netanyahu encouraged it. Here’s why](https://www.firstpost.com/explainers/qatar-sent-millions-to-hamas-for-years-and-netanyahu-encouraged-it-heres-why-13495242.html)
 

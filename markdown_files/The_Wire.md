@@ -1,3 +1,9 @@
+2023-12-12T19:14:55+05:30
+### [To Comply With FDI Rules, BBC's India Services Will Soon Be Produced by New Company](https://thewire.in/media/fdi-rules-bbc-india-services-new-company-collective-newsroom-private-limited)
+
+No Article text 
+Four Indian BBC staffers – Rupa Jha, Mukesh Sharma, Sanjoy Majumder and Sara Hassan – have set up a new entity called 'Collective Newsroom Private Limited'.
+
 2023-12-12T18:28:06+05:30
 ### [Postcards for Palestine](https://thewire.in/the-arts/postcards-for-palestine)
 
