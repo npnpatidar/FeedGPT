@@ -1,3 +1,121 @@
+Wed, 13 Dec 2023 13:18:21 +0000
+### [‘True leaders lead from behind’ & ‘India’s political dynasties’](https://theprint.in/last-laughs/true-leaders-lead-from-behind-indias-political-dynasties/1884355/)
+
+Article found but Couldn't summarize 
+The best cartoons of the day, chosen by the editors at ThePrint.
+
+Wed, 13 Dec 2023 13:17:21 +0000
+### [“I want to remind every kid…”: Suniel Shetty reveals what keeps him motivated to stay lean and mean at 63](https://theprint.in/feature/i-want-to-remind-every-kid-suniel-shetty-reveals-what-keeps-him-motivated-to-stay-lean-and-mean-at-63/1884598/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 13 (ANI): In a career spanning three decades, actor Suniel Shetty has not only impressed the audience with his acting skills but also managed to win hearts with his fitness. Even at 63, the actor looks ripped and fit as a fiddle. From playing cricket, working out devoutly in a gym [&#8230;]
+
+Wed, 13 Dec 2023 13:17:16 +0000
+### [Restoring law and order among priorities: Rajasthan deputy CMs-elect](https://theprint.in/india/restoring-law-and-order-among-priorities-rajasthan-deputy-cms-elect/1884596/)
+
+Article found but Couldn't summarize 
+Jaipur, Dec 13 (PTI) Rajasthan deputy chief ministers-designate Diya Kumari and Prem Chand Bairwa on Wednesday attacked the previous Congress government over the law and order issue and said all efforts will be made by the BJP dispensation to bring the state back on track. Kumari said Rajasthan became number one in the country in [&#8230;]
+
+Wed, 13 Dec 2023 13:17:02 +0000
+### [Trailer of ‘First Act’ docuseries unveiled](https://theprint.in/feature/trailer-of-first-act-docuseries-unveiled/1884595/)
+
+As GPT-3.5, I can provide a summary of the article you shared. The article discusses the trailer release of the docuseries called "First Act." This series explores the journey of child actors and their parents in the Hindi TV and film industry. It follows six key child artistes, capturing their lives in personal and professional settings. The experiences of these child actors are juxtaposed with insights from seasoned actors, parents, casting directors, and filmmakers, providing a comprehensive perspective on the subject. The trailer offers a glimpse into the lives of child artistes and the challenges they face while pursuing their dreams. It also features perspectives from industry professionals who started their careers as child actors. The docuseries, written, produced, and directed by Deepa Bhatia, will premiere on Prime Video on December 15.
+
+Wed, 13 Dec 2023 13:16:56 +0000
+### [Two die in motorcycle-car collision in Odisha](https://theprint.in/india/two-die-in-motorcycle-car-collision-in-odisha/1884594/)
+
+Article found but Couldn't summarize 
+Rourkela (Odisha), Dec 13 (PTI) Two persons were killed after their motorcycle collided head-on with a car on Wednesday afternoon in Odisha’s Sundargarh district, police said. The accident took place at Barakhai in Lefripara area when the two-wheeler crashed into the car, a senior officer said. One of the deceased was identified as Rohit Nayak [&#8230;]
+
+Wed, 13 Dec 2023 13:16:38 +0000
+### [Sports science conclave to be held in Odisha on Dec 16](https://theprint.in/india/sports-science-conclave-to-be-held-in-odisha-on-dec-16/1884593/)
+
+As GPT-3.5, I can provide a summary of the article you shared. The Sports Science India (SSI) will be organizing a day-long sports science conclave at Kalinga Stadium in Bhubaneswar on December 16. The aim of the conclave is to strengthen grassroots-level sports in the country, particularly in Odisha. The event will feature sessions on injury prevention, sports science, rehabilitation, and recovery. Experts, players, coaches, and doctors from Odisha and other parts of India will participate in the conclave. Additionally, the SSI will also host a sports awards ceremony during the event.
+
+Wed, 13 Dec 2023 13:16:26 +0000
+### [Soccer-Yokohama beat Shandong to book Asian Champions League last 16 berth](https://theprint.in/sport/soccer-yokohama-beat-shandong-to-book-asian-champions-league-last-16-berth/1884592/)
+
+Article found but Couldn't summarize 
+By Michael Church HONG KONG (Reuters) - Japan's Yokohama F Marinos booked their place in the last 16 of the Asian Champions League on Wednesday after a 3-0 win over Shandong Taishan ensured Kevin
+
+Wed, 13 Dec 2023 13:16:26 +0000
+### [TN CM Stalin says security breach a dangerous threat to temple of democracy](https://theprint.in/india/tn-cm-stalin-says-security-breach-a-dangerous-threat-to-temple-of-democracy/1884591/)
+
+Article found but Couldn't summarize 
+Chennai, Dec 13 (PTI) Tamil Nadu Chief Minister and DMK President M K Stalin on Wednesday termed the security breach in Parliament a dangerous threat and urged swift action and prompt probe. In a post on X, Stalin said: &#8220;The unprecedented security breach in the parliament poses a dangerous threat to our august temple of [&#8230;]
+
+Wed, 13 Dec 2023 13:16:14 +0000
+### [Security breach highlights inadequate security measures, say sources](https://theprint.in/india/security-breach-highlights-inadequate-security-measures-say-sources/1884589/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 13 (PTI) The major security breach in Parliament on Wednesday brought to the fore shortcomings in the security protocol, driven in part by the shortage of parliamentary staff assigned to enforce it, a point made by some leaders in the all-party meeting convened by Lok Sabha Speaker Om Birla. The two accused, [&#8230;]
+
+Wed, 13 Dec 2023 13:16:13 +0000
+### [Google Ventures adds partner to back AI, open source startups](https://theprint.in/tech/google-ventures-adds-partner-to-back-ai-open-source-startups/1884588/)
+
+Article found but Couldn't summarize 
+By Krystal Hu (Reuters) - Venture capital firm GV, backed by Google parent Alphabet Inc, has hired Michael McBride from software firm GitLab as its latest investment partner to focus on open-source
+
+Wed, 13 Dec 2023 13:16:00 +0000
+### [May 9 violence: Pakistan Supreme Court allows trial of civilians by military courts](https://theprint.in/world/may-9-violence-pakistan-supreme-court-allows-trial-of-civilians-by-military-courts/1884586/)
+
+Article found but Couldn't summarize 
+Islamabad, Dec 13 (PTI) Pakistan&#8217;s Supreme Court Wednesday allowed the trial of civilians by the military courts, conditionally suspending its October 23 ruling in which it had ordered authorities to conduct the hearing of the cases of ex-premier Imran Khan&#8217;s supporters arrested for their alleged role in May 9 violence in ordinary courts. A six-member [&#8230;]
+
+Wed, 13 Dec 2023 13:15:53 +0000
+### [Pakistan court indictment hits ex-PM Imran Khan’s election ambitions](https://theprint.in/world/pakistan-court-indictment-hits-ex-pm-imran-khans-election-ambitions/1884585/)
+
+Article found but Couldn't summarize 
+By Asif Shahzad ISLAMABAD (Reuters) - Jailed former Prime Minister Imran Khan pleaded not guilty to charges of leaking state secrets under an indictment on Wednesday that dealt a new blow to his
+
+Wed, 13 Dec 2023 13:15:42 +0000
+### [Over 100 kg explosives used in Pak terror attack which killed 23 soldiers](https://theprint.in/world/over-100-kg-explosives-used-in-pak-terror-attack-which-killed-23-soldiers/1884583/)
+
+Article found but Couldn't summarize 
+Peshawar, Dec 13 (PTI) Over 100 kg of explosives were used in the deadliest terror attack this year on Pakistani security forces in the country in which 23 soldiers were killed, an official said here on Wednesday. Six terrorists linked to Tehrik-e-Jihad Pakistan (TJP) rammed an explosive-laden truck into the security post in Dera Ismail [&#8230;]
+
+Wed, 13 Dec 2023 13:15:34 +0000
+### [Israel suffers worst combat losses since October, diplomatic isolation](https://theprint.in/world/israel-suffers-worst-combat-losses-since-october-diplomatic-isolation/1884582/)
+
+Article found but Couldn't summarize 
+By Nidal al-Mughrabi and Fadi Shana CAIRO/GAZA (Reuters) - Israel announced its worst combat losses for more than a month on Wednesday after an ambush in the ruins of Gaza City, and faced growing
+
+Wed, 13 Dec 2023 13:15:27 +0000
+### [India ‘indispensable’ partner for strategic equilibrium: Australian envoy Philip Green](https://theprint.in/india/india-indispensable-partner-for-strategic-equilibrium-australian-envoy-philip-green/1884581/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 13 (PTI) India is an &#8220;indispensable&#8221; partner critical for ensuring strategic equilibrium against the backdrop of China&#8217;s &#8220;largest military&#8221; build-up without any transparency after the Second World War as well as challenges such as coercive trade measures and political interference, Australian High Commissioner Philip Green said on Wednesday. In an address at [&#8230;]
+
+Wed, 13 Dec 2023 13:15:25 +0000
+### [Tanker in Red Sea targeted by speedboat gunfire and missiles -sources](https://theprint.in/world/tanker-in-red-sea-targeted-by-speedboat-gunfire-and-missiles-sources/1884580/)
+
+Article found but Couldn't summarize 
+DUBAI (Reuters) -A tanker in the Red Sea off Yemen's coast was fired on by gunmen in a speedboat and targeted with missiles, maritime sources said on Wednesday, the latest incident to threaten the
+
+Wed, 13 Dec 2023 13:15:15 +0000
+### [Man kills live-in partner in Indore, flees after locking home with her body inside](https://theprint.in/india/man-kills-live-in-partner-in-indore-flees-after-locking-home-with-her-body-inside/1884578/)
+
+Article found but Couldn't summarize 
+Indore, Dec 13 (PTI) The live-in partner of a 20-year-old woman was arrested in Indore on Wednesday for allegedly stabbing her to death for refusing to have physical relations with him, police said. The deceased and the accused were living together in a rented house in the city for the last few days after becoming [&#8230;]
+
+Wed, 13 Dec 2023 13:15:14 +0000
+### [Brazil’s Lula calls on G20 to seek more representative global institutions](https://theprint.in/world/brazils-lula-calls-on-g20-to-seek-more-representative-global-institutions/1884577/)
+
+Article found but Couldn't summarize 
+BRASILIA (Reuters) - Brazil's President Luiz Inacio Lula da Silva on Wednesday urged the international community to work for a two-state solution to the Israel-Palestinian conflict, and called for
+
+Wed, 13 Dec 2023 13:15:05 +0000
+### [Dozens killed in double attack on Mali army camp and village](https://theprint.in/world/dozens-killed-in-double-attack-on-mali-army-camp-and-village/1884576/)
+
+Article found but Couldn't summarize 
+BAMAKO (Reuters) - Around two dozen soldiers and at least five civilians were killed when militants attacked a military camp and a village in central Mali on Tuesday, a local official said. The attack
+
+Wed, 13 Dec 2023 13:15:03 +0000
+### [Shami nominated for Arjuna Award, Satwik-Chirag for Khel Ratna](https://theprint.in/sport/shami-nominated-for-arjuna-award-satwik-chirag-for-khel-ratna/1884575/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 13 (PTI) Pacer Mohammed Shami, one of the architects of India&#8217;s near successful World Cup campaign, has been nominated for this year&#8217;s Arjuna Award, while men&#8217;s doubles badminton pair of Satwik Sairaj Rankireddy and Chirag Shetty were selected for the Major Dhyan Chand Khel Ratna Award. Shami, 33, had a spectacular run [&#8230;]
+
 Wed, 13 Dec 2023 12:47:40 +0000
 ### [How T-Series’ Smart Marketing Strategies Led to the Triumph of ‘Animal’](https://theprint.in/ani-press-releases/how-t-series-smart-marketing-strategies-led-to-the-triumph-of-animal/1884550/)
 

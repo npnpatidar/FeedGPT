@@ -1,3 +1,8 @@
+Wed, 13 Dec 2023 13:13:57 +0000
+### [India votes in favour of UN resolution demanding Gaza ceasefire: Everything you need to know](https://indianexpress.com/article/explained/explained-global/india-vote-favour-un-resolution-gaza-ceasefire-9066979/)
+
+Article found but Couldn't summarize
+
 Wed, 13 Dec 2023 12:31:57 +0000
 ### [Parliament security breach: Who is BJP MP Pratap Simha, who issued visitor passes for the accused; how they are issued](https://indianexpress.com/article/explained/parliament-security-breach-who-is-bjp-mp-pratap-simha-visitor-passes-how-they-are-issued-9066921/)
 

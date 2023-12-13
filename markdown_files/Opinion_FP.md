@@ -1,3 +1,9 @@
+Wed, 13 Dec 2023 18:34:15 +0530
+### [Supreme Court’s Article 370 verdict ignites hope and concern](https://www.firstpost.com/opinion/supreme-courts-article-370-verdict-ignites-hope-and-concern-13500122.html)
+
+Article found but Couldn't summarize 
+Supreme Court’s Article 370 verdict ignites hope and concern
+
 Wed, 13 Dec 2023 16:12:34 +0530
 ### [Global Watch | How US is meddling in Bangladesh elections](https://www.firstpost.com/opinion/global-watch-how-us-is-meddling-in-bangladesh-elections-13499692.html)
 

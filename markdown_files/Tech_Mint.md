@@ -1,3 +1,15 @@
+Wed, 13 Dec 2023 18:51:44 +0530
+### [8 best Panasonic top load washing machine: Make smart laundry choices](https://www.livemint.com/technology/gadgets/8-best-panasonic-top-load-washing-machine-make-smart-laundry-choices-11702471442983.html)
+
+Article found but Couldn't summarize 
+8 best Panasonic top load washing machine's innovative approach is unparalleled. In this article, we explore intelligent design choices that set Panasonic apart in the world of laundry appliances.
+
+Wed, 13 Dec 2023 18:32:33 +0530
+### [10 best watches for women under  ₹3000: Stylish and elegant](https://www.livemint.com/technology/gadgets/10-best-watches-for-women-under-rs-3000-stylish-and-elegant-11702465228545.html)
+
+Article found but Couldn't summarize 
+10 best watches for women come with a decent and classy design under the budget price range of  ₹3000. These watches come from top brands, including Louis Devin, Nibosi, Swisstone, and more.
+
 Wed, 13 Dec 2023 18:11:50 +0530
 ### [‘In this video it isn’t me…': Zerodha's Nithin Kamath shares his own deepfake video](https://www.livemint.com/technology/tech-news/in-this-video-it-isn-t-me-zerodhas-nithin-kamath-shares-his-own-deepfake-video-11702470236503.html)
 

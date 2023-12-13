@@ -1,3 +1,8 @@
+Wed, 13 Dec 2023 13:13:13 +0000
+### [UAPA, PMLA allow today’s Warren Hastings to exploit law for political gain](https://indianexpress.com/article/opinion/columns/uapa-pmla-allow-todays-warren-hastings-to-exploit-law-for-political-gain-9066890/)
+
+Article found but Couldn't summarize
+
 Wed, 13 Dec 2023 10:58:43 +0000
 ### [From America to India: Academic freedom is misunderstood](https://indianexpress.com/article/opinion/columns/from-america-to-india-academic-freedom-is-misunderstood-9066660/)
 
