@@ -1,3 +1,9 @@
+2023-12-13T22:41:18+05:30
+### [COP28 Draws to a Close, 23 Hours Overtime: Historic but Also Disappointing, Say Experts](https://thewire.in/environment/cop28-ends-historic-but-also-disappointing-experts)
+
+No Article text 
+For the first time, transitioning from fossil fuels found place in the consensus of parties but developed countries have once again wriggled out of several aspects – including delivering on time-bound climate finance.
+
 2023-12-13T21:45:31+05:30
 ### [Modi's BJP Has Confirmed Nehru's Worries About the Jana Sangh's Divisive Plans for Kashmir](https://thewire.in/rights/nehru-prescient-apprehensions-jana-sangh-kashmir-bjp-modi)
 

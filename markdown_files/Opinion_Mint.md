@@ -1,3 +1,27 @@
+Wed, 13 Dec 2023 22:37:32 +0530
+### [An idea whose time has come: Sugar taxation could spell a healthier India](https://www.livemint.com/opinion/online-views/an-idea-whose-time-has-come-sugar-taxation-could-spell-a-healthier-india-11702482102987.html)
+
+Article found but Couldn't summarize 
+It's about time the country levied GST rates on packaged beverages that vary by their sugar content. Many countries do as we need to refine our fiscal incentives too.
+
+Wed, 13 Dec 2023 22:33:39 +0530
+### [India's informal sector may be adding more value to its economy than we know](https://www.livemint.com/opinion/online-views/indias-informal-sector-may-be-adding-more-value-to-its-economy-than-we-know-11702467729209.html)
+
+Article found but Couldn't summarize 
+Arguments that the size of this sector—and contribution to GDP—is overestimated are flawed. PLFS data suggests that it's far likelier to have been undercounted.
+
+Wed, 13 Dec 2023 22:29:28 +0530
+### [Google's and Apple's walled gardens will survive Epic’s court win](https://www.livemint.com/opinion/online-views/googles-and-apples-walled-gardens-will-survive-epic-s-court-win-11702467789817.html)
+
+Article found but Couldn't summarize 
+A US court ruling against Google’s app store policies has shaken the layout of these gardens a bit, but they’ll stay in place—for now.
+
+Wed, 13 Dec 2023 22:21:43 +0530
+### [Getting humans to trust face-less machines remains a challenge for tech giants](https://www.livemint.com/opinion/online-views/getting-humans-to-trust-face-less-machines-remains-a-challenge-for-tech-giants-11702467867346.html)
+
+Article found but Couldn't summarize 
+Tech companies must examine key insights of human behaviour to generate trust in technology. They should work to craft a personality for what they have on offer.
+
 Wed, 13 Dec 2023 16:23:52 +0530
 ### [Why India should aspire for 10% GDP growth](https://www.livemint.com/opinion/online-views/why-india-should-aspire-for-10-gdp-growth-11702464536625.html)
 
