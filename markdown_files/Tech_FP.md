@@ -1,3 +1,9 @@
+Wed, 13 Dec 2023 16:23:46 +0530
+### [US agencies want anti-drunk-driving tech in cars but &quot;complicated rulemaking&quot; stands in the way](https://www.firstpost.com/tech/us-agencies-want-anti-drunk-driving-tech-in-cars-but-complicated-rulemaking-stands-in-the-way-13499972.html)
+
+Article found but Couldn't summarize 
+US agencies want anti-drunk-driving tech in cars but &amp;quot;complicated rulemaking&amp;quot; stands in the way
+
 Wed, 13 Dec 2023 14:44:55 +0530
 ### [‘Mental health’ issues in AI? ChatGPT suffering from seasonal depression, getting lazier,](https://www.firstpost.com/tech/mental-health-issues-in-ai-chatgpt-suffering-from-seasonal-depression-getting-lazier-13499522.html)
 

@@ -1,3 +1,15 @@
+Wed, 13 Dec 2023 16:47:20 +0530
+### [10 best OTGs under  ₹10,000 for budget conscious buyers](https://www.livemint.com/technology/gadgets/10-best-otgs-under-rs-10-000-for-budget-conscious-buyers-11702461926124.html)
+
+Article found but Couldn't summarize 
+10 best OTGs under  ₹10,000: These appliances offer a blend of affordability and functionality. This guide to the top 10 OTGs within this price range reveals a diverse array of options catering to various cooking and buying needs.
+
+Wed, 13 Dec 2023 16:03:08 +0530
+### [Realme C67 5G to launch in India on December 14. Expected specs, pricing and more](https://www.livemint.com/technology/gadgets/realme-c67-5g-to-launch-in-india-on-december-14-expected-specs-pricing-and-more-11702459101397.html)
+
+Article found but Couldn't summarize 
+Realme C67 5G will make its official debut in India at a launch event on December 14. The smarphone is expected to further increase the competition in the budget mobile category.
+
 Wed, 13 Dec 2023 14:51:00 +0530
 ### [10 best gaming laptops under  ₹60,000 from different brands](https://www.livemint.com/technology/gadgets/10-best-gaming-laptops-under-rs-60-000-from-different-brands-11702449434631.html)
 

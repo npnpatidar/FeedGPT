@@ -1,3 +1,27 @@
+2023-12-13T16:30:58+05:30
+### [In October, India Paid Over $20/Barrel More Than West's Price Cap For Russian Crude: Report](https://thewire.in/trade/india-paid-84-20-per-barrel-russian-crude-oil-highest-since-west-sanctions-last-year)
+
+No Article text 
+Russian oil reportedly made up 40% of Indian imports of the product in the first half of the fiscal year 2023-2024.
+
+2023-12-13T16:15:51+05:30
+### [India's Assault Rifle Induction Woes Continue With Delays in Indigenous Ak-203 Production](https://thewire.in/security/indias-assault-rifle-induction-woes-continue-with-delays-in-indigenous-ak-203-production)
+
+No Article text 
+Because of this delay, the Ministry of Defence has approved the Indian Army's request for the follow-on import of 73,000 ‘Patrol’ Sig assault rifles from the US for Rs 840 crore, to meet urgent operational requirements.
+
+2023-12-13T16:05:22+05:30
+### [India Rejects OIC Statement on Supreme Court Upholding Article 370’s Dilution](https://thewire.in/diplomacy/india-rejects-oic-statement-supreme-court-article-370-dilution)
+
+No Article text 
+India has repeatedly rejected the organisation's statements on India, accusing it of being a tool in Pakistan's hands.
+
+2023-12-13T16:00:08+05:30
+### [Don’t Marry a Brit (Unless They’re Really Rich)!](https://thewire.in/world/dont-marry-a-brit-unless-theyre-really-rich)
+
+No Article text 
+As a measure to limit immigration, the British government announced that the minimum income required to bring a foreign spouse into the country on a family visa will rise sharply.
+
 2023-12-13T15:30:30+05:30
 ### [Governors' Pocket Veto Compromises Constitutional Probity](https://thewire.in/law/governors-pocket-veto-compromises-constitutional-probity)
 

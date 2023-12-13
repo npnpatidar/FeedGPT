@@ -1,3 +1,123 @@
+Wed, 13 Dec 2023 11:17:28 +0000
+### [Durex The Birds and Bees Talk Steps into the Spotlight as the Official Health and Hygiene Partner at the 24th Hornbill Festival](https://theprint.in/ani-press-releases/durex-the-birds-and-bees-talk-steps-into-the-spotlight-as-the-official-health-and-hygiene-partner-at-the-24th-hornbill-festival/1884384/)
+
+Article found but Couldn't summarize 
+NewsVoir Kohima (Nagaland) [India], December 13: The 24th Edition of the Festival of Festivals &#8211; the Hornbill Festival concluded on 10th December with as much of a cultural extravaganza and grandeur of the opening ceremony. Ms Melinda Pavek, United States Consul General and Dr Andrew Fleming, British Deputy High Commissioner were the Honoured Guests. Temjin [&#8230;]
+
+Wed, 13 Dec 2023 11:17:19 +0000
+### [Shekhar Ravjiani’s 14th independent single of 2023 – ‘Ishq-E-Mareez’ featuring his 17-year-old prodigy from Global Schools-Sheykhar Ravjiani School of Music](https://theprint.in/ani-press-releases/shekhar-ravjianis-14th-independent-single-of-2023-ishq-e-mareez-featuring-his-17-year-old-prodigy-from-global-schools-sheykhar-ravjiani-school-of-music/1884382/)
+
+Article found but Couldn't summarize 
+PNN Mumbai (Maharashtra) [India], December 13: India&#8217;s Leading Musician and Singer Shekhar Ravjiani, under his record label Garuudaa Music, has unveiled his 14th single of the year titled &#8216;Ishq-E-Mareez&#8217;. The song is composed and sung by Shekhar Ravjiani, written by Rajat Arora and features Anuj Danait, Shivam Sengupta and Zehlin, a talented 17-year-old student from [&#8230;]
+
+Wed, 13 Dec 2023 11:17:11 +0000
+### [Uniqus Consultech Announces Strategic Partnership with Board International to Deliver Technology-Based Finance Transformation Solutions](https://theprint.in/ani-press-releases/uniqus-consultech-announces-strategic-partnership-with-board-international-to-deliver-technology-based-finance-transformation-solutions/1884380/)
+
+Article found but Couldn't summarize 
+BusinessWire India Mumbai (Maharashtra) [India], December 13: Uniqus Consultech Inc., the ESG and Accounting &#38; Reporting Consulting company, announced a global strategic partnership with Board International (&#8216;Board&#8217;). Uniqus has strong domain knowledge and practical experience in delivering finance, risk, and governance advisory solutions to clients across industries. Board is the global leader for Intelligent Planning [&#8230;]
+
+Wed, 13 Dec 2023 11:17:01 +0000
+### [Kult App and Estee Lauder Companies Unite to Redefine Beauty Shopping Experience](https://theprint.in/ani-press-releases/kult-app-and-estee-lauder-companies-unite-to-redefine-beauty-shopping-experience/1884378/)
+
+Article found but Couldn't summarize 
+NewsVoir New Delhi [India], December 13: Kult App, the immersive m-commerce platform for premium and luxury beauty shopping, has announced the introduction of 6 iconic brands from Estee Lauder Companies to its platform. The two powerhouses have partnered to offer an impressive lineup of iconic beauty brands including Bobbi Brown, Too Faced, Smashbox, Clinique, Estee [&#8230;]
+
+Wed, 13 Dec 2023 11:16:44 +0000
+### [Lack of infrastructure in district courts genuine problem: HC on plea for hybrid hearings](https://theprint.in/india/lack-of-infrastructure-in-district-courts-genuine-problem-hc-on-plea-for-hybrid-hearings/1884377/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 13 (PTI) The Delhi High Court Wednesday observed a lack of infrastructure in district courts here is a genuine problem, and restored a public interest litigation (PIL) seeking implementation of hybrid system of hearing in subordinate judiciary and quasi-judicial bodies. A bench of Acting Chief Justice Manmohan and Justice Mini Pushkarna allowed [&#8230;]
+
+Wed, 13 Dec 2023 11:16:34 +0000
+### [Bilawal seeks justice for his grandfather and ex-PM Zulfikar Bhutto’s ‘murder’](https://theprint.in/world/bilawal-seeks-justice-for-his-grandfather-and-ex-pm-zulfikar-bhuttos-murder/1884376/)
+
+Article found but Couldn't summarize 
+Peshawar, Dec 13 (PTI) Bilawal-Bhutto Zardari on Wednesday sought justice for the &#8220;murder&#8221; of his grandfather and Pakistan&#8217;s former prime minister Zulfikar Ali Bhutto, a day after the Supreme Court questioned the maintainability of a long-pending case seeking to revisit the controversial death penalty handed out to him in 1979. While hearing the case on [&#8230;]
+
+Wed, 13 Dec 2023 11:16:24 +0000
+### [Mahindra Group, MRF Ltd contribute to TN cyclone relief](https://theprint.in/india/mahindra-group-mrf-ltd-contribute-to-tn-cyclone-relief/1884375/)
+
+Article found but Couldn't summarize 
+Chennai, Dec 13 (PTI) Diversified conglomerate Mahindra Group donated Rs 1 crore to the Tamil Nadu government as their contribution towards relief and rehabilitation works following the havoc caused by Cyclone Michaung in the northern parts of the state, the company said on Wednesday. Mahindra and Mahindra Automotive Technology and Product Development president R Velusamy [&#8230;]
+
+Wed, 13 Dec 2023 11:16:13 +0000
+### [Drugs worth Rs 190cr seized in Nagaland this year, 456 people arrested: DGP](https://theprint.in/india/drugs-worth-rs-190cr-seized-in-nagaland-this-year-456-people-arrested-dgp/1884374/)
+
+Article found but Couldn't summarize 
+Kohima, Dec 13 (PTI) A total of 456 people were arrested and drugs worth Rs 190 crore seized in Nagaland so far this year, Director-General of Police (DGP) Rupin Sharma said on Wednesday. In all, 318 cases were registered in connection with these arrests and seizures, he said, addressing a press conference. Among the drugs [&#8230;]
+
+Wed, 13 Dec 2023 11:16:03 +0000
+### [Two members of Arunachal PSC sworn in](https://theprint.in/india/two-members-of-arunachal-psc-sworn-in/1884373/)
+
+Article found but Couldn't summarize 
+Itanagar, Dec 13 (PTI) Arunachal Pradesh Governor Lt Gen K T Parnaik on Wednesday administered oath of office and secrecy to two newly appointed members of the state public service commission. Col (Retd) Koj Tari and Rosy Taba were sworn in as the new members of the commission at the Darbar Hall of the Raj [&#8230;]
+
+Wed, 13 Dec 2023 11:15:54 +0000
+### [Shami in race for Arjuna Award](https://theprint.in/sport/shami-in-race-for-arjuna-award/1884371/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 13 (PTI) One of India&#8217;s ODI World Cup heroes, pacer Mohammed Shami has been recommended for this year&#8217;s Arjuna Award by the country&#8217;s cricket board (BCCI), sources said on Wednesday. The 33-year-old had a spectacular run in the ODI World Cup, where India finished second best losing to Australia in the final. [&#8230;]
+
+Wed, 13 Dec 2023 11:15:53 +0000
+### [Japan Rugby Football Union names Eddie Jones as head coach](https://theprint.in/sport/japan-rugby-football-union-names-eddie-jones-as-head-coach/1884370/)
+
+Article found but Couldn't summarize 
+TOKYO (Reuters) -The Japan Rugby Football Union on Wednesday named Eddie Jones as its new head coach, ending weeks of speculation over the Australian's re-appointment to the job he held from 2012 and
+
+Wed, 13 Dec 2023 11:15:44 +0000
+### [Fire in canteen at LTT railway station in Mumbai, nobody injured; train operations likely to hit](https://theprint.in/india/fire-in-canteen-at-ltt-railway-station-in-mumbai-nobody-injured-train-operations-likely-to-hit/1884368/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 13 (PTI) A major fire broke out in a canteen located near the concourse area of the Lokmanya Tilak Terminus (LTT), a busy railway station in Mumbai, on Wednesday afternoon, in which nobody was injured, officials said. The incident is likely to cause a delay in the operation of some trains as the [&#8230;]
+
+Wed, 13 Dec 2023 11:15:42 +0000
+### [Analysis-Driverless vehicles on limited routes bump along despite US robotaxi scrutiny](https://theprint.in/tech/analysis-driverless-vehicles-on-limited-routes-bump-along-despite-us-robotaxi-scrutiny/1884367/)
+
+Article found but Couldn't summarize 
+By Abhirup Roy SAN FRANCISCO (Reuters) - A quest for lower costs and efficiently moving goods and groups of people is pushing demand for driverless technology in trucks and shuttles, even as robotaxis
+
+Wed, 13 Dec 2023 11:15:34 +0000
+### [Frontline staff are trained in giving first aid in trains, at stations: Railway Minister](https://theprint.in/india/frontline-staff-are-trained-in-giving-first-aid-in-trains-at-stations-railway-minister/1884365/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 13 (PTI) Railways imparts refresher courses in first aid to its frontline workers such as train guards, train ticket examiners (TTE) and station masters, Railway Minister Ashwini Vaishnaw informed Lok Sabha in a written reply on Wednesday. Vaishnaw responded to questions raised by Lok Sabha MP Kunwar Danish Ali regarding the steps [&#8230;]
+
+Wed, 13 Dec 2023 11:15:25 +0000
+### [Congo opposition candidate suspends presidential campaign after violence](https://theprint.in/world/congo-opposition-candidate-suspends-presidential-campaign-after-violence/1884363/)
+
+Article found but Couldn't summarize 
+KINSHASA (Reuters) - One of the main opposition candidates for Congo's presidential election next week, Moise Katumbi, suspended part of his campaign on Wednesday after violent clashes at one of his
+
+Wed, 13 Dec 2023 11:15:24 +0000
+### [Suryakumar strengthens top position in ICC T20 batter rankings](https://theprint.in/sport/suryakumar-strengthens-top-position-in-icc-t20-batter-rankings/1884361/)
+
+Article found but Couldn't summarize 
+Dubai, Dec 13 (PTI) Star India batter Suryakumar Yadav consolidated his position at the top of the ICC Men&#8217;s T20I Batter Rankings after being rewarded for his quickfire half-century against South Africa in the second T20I in Gqeberha, South Africa. The attacking right-hander gained a total of 10 rating points after smashing 56 from just [&#8230;]
+
+Wed, 13 Dec 2023 11:15:16 +0000
+### [China chip firm powered by US tech and money avoids Biden’s crackdown](https://theprint.in/world/china-chip-firm-powered-by-us-tech-and-money-avoids-bidens-crackdown/1884360/)
+
+Article found but Couldn't summarize 
+By Alexandra Alper and Eduardo Baptista WASHINGTON (Reuters) - A Chinese chip designer, part-owned by the country's top sanctioned chipmaker, is purchasing U.S. software and has American financial
+
+Wed, 13 Dec 2023 11:15:13 +0000
+### [Vishnu Deo Sai: BJP’s tribal face in Chhattisgarh with grassroot connect](https://theprint.in/india/vishnu-deo-sai-bjps-tribal-face-in-chhattisgarh-with-grassroot-connect/1884358/)
+
+Article found but Couldn't summarize 
+Raipur, Dec 13 (PTI) Vishnu Deo Sai earned his stripes through hard work and dedication in a political journey that began as a sarpanch in Chhattisgarh in 1990 and went on to become multiple-time MP and a Union minister, emerging as the BJP&#8217;s tribal face known for humility and organisational skills. The newly-elected MLA from [&#8230;]
+
+Wed, 13 Dec 2023 11:15:06 +0000
+### [China, Vietnam hail upgrade of ties; agree to boost security efforts](https://theprint.in/world/china-vietnam-hail-upgrade-of-ties-agree-to-boost-security-efforts/1884357/)
+
+Article found but Couldn't summarize 
+By Francesco Guarascio, Khanh Vu and Minh Nguyen HANOI (Reuters) -China and Vietnam agreed to step up co-operation on security matters in their move towards becoming a community with a "shared future"
+
+Wed, 13 Dec 2023 11:15:03 +0000
+### [One-off Test against India ‘huge unknown’ for both teams: England captain Heather Knight](https://theprint.in/sport/one-off-test-against-india-huge-unknown-for-both-teams-england-captain-heather-knight-2/1884356/)
+
+Article found but Couldn't summarize 
+Navi Mumbai, Dec 13 (PTI) England Women’s captain Heather Knight said the one-off Test against India starting here on Thursday will be a ‘huge unknown’ for both the teams and approaching the game with the right mindset will be crucial. Indian women&#8217;s outfit has not lost a Test — at home since 1995 and away [&#8230;]
+
 Wed, 13 Dec 2023 10:17:22 +0000
 ### [Techwarezen Celebrates Second Anniversary In Jaipur, Launching SportsFigure and AndroHive Apps](https://theprint.in/ani-press-releases/techwarezen-celebrates-second-anniversary-in-jaipur-launching-sportsfigure-and-androhive-apps/1884259/)
 

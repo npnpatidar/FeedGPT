@@ -1,3 +1,15 @@
+Wed, 13 Dec 2023 16:00:16 +0530
+### [What is the 'mistake of Oslo' that Benjamin Netanyahu brought up?](https://www.firstpost.com/explainers/what-is-the-mistake-of-oslo-that-benjamin-netanyahu-brought-up-13499922.html)
+
+Article found but Couldn't summarize 
+What is the 'mistake of Oslo' that Benjamin Netanyahu brought up?
+
+Wed, 13 Dec 2023 15:52:16 +0530
+### [Why Joe Biden is unlikely to visit India for Republic Day parade and Quad meet in January](https://www.firstpost.com/explainers/why-joe-biden-is-unlikely-to-visit-india-for-republic-day-parade-and-quad-meet-in-january-13499002.html)
+
+Article found but Couldn't summarize 
+Why Joe Biden is unlikely to visit India for Republic Day parade and Quad meet in January
+
 Wed, 13 Dec 2023 15:38:42 +0530
 ### [Lok Sabha sees major security breach: How Parliament is protected from threats and attacks](https://www.firstpost.com/explainers/lok-sabha-sees-major-security-breach-how-parliament-is-protected-from-threats-and-attacks-13499732.html)
 
