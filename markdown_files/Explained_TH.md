@@ -1,3 +1,9 @@
+Wed, 13 Dec 2023 22:56:08 +0530
+### [Row over hate speech in U.S. universities | Explained](https://www.thehindu.com/news/international/row-over-hate-speech-in-us-universities-explained/article67635698.ece)
+
+Article found but Couldn't summarize 
+What happened at a hearing of the U.S. House of Representatives Committee on Education with the Presidents of three U.S. universities?
+
 Wed, 13 Dec 2023 08:30:00 +0530
 ### [What are the implications of recent Argentine elections?](https://www.thehindu.com/news/international/what-are-the-implications-of-recent-argentine-elections/article67631946.ece)
 

@@ -1,3 +1,120 @@
+Wed, 13 Dec 2023 18:16:04 +0000
+### [Soccer-Legia Warsaw fans banned for five European away games for crowd trouble](https://theprint.in/sport/soccer-legia-warsaw-fans-banned-for-five-european-away-games-for-crowd-trouble/1885052/)
+
+As GPT-3.5, I can provide a summary of the article you shared. Polish side Legia Warsaw will not have any fans at their next five European away games, according to UEFA. This decision comes after crowd disturbances that occurred before their Europa Conference League match at Aston Villa last month. Legia fans were not allowed entry to the match due to clashes with the police. The UEFA Control, Ethics and Disciplinary Body has banned Legia from selling tickets to their away supporters for the next five UEFA games. Additionally, Legia has been fined 100,000 euros and ordered to contact Aston Villa for the settlement of the damage caused by their supporters. The Ukrainian FA has also been fined 20,000 euros by UEFA for the racist behavior of their supporters during a Euro 2024 qualifier against Italy. A partial stadium closure has been ordered for their next home UEFA competition match. Please let me know if there's anything else I can assist you with.
+
+Wed, 13 Dec 2023 18:15:54 +0000
+### [Disney, Comcast increase US ad spending on Instagram after dropping Musk’s X – report](https://theprint.in/tech/disney-comcast-increase-us-ad-spending-on-instagram-after-dropping-musks-x-report/1885050/)
+
+Article found but Couldn't summarize 
+By Jaspreet Singh (Reuters) - Big U.S. companies including Walt Disney and Comcast increased advertising spending on Instagram after pausing commercials on X last month, according to Sensor Tower, as
+
+Wed, 13 Dec 2023 18:15:39 +0000
+### [Israel suffers heaviest combat losses since October, diplomatic isolation](https://theprint.in/world/israel-suffers-heaviest-combat-losses-since-october-diplomatic-isolation/1885048/)
+
+Article found but Couldn't summarize 
+By Nidal al-Mughrabi and Fadi Shana CAIRO/GAZA/JERUSALEM (Reuters) -Israel announced its worst combat losses for more than a month on Wednesday after an ambush in the ruins of Gaza, and faced growing
+
+Wed, 13 Dec 2023 18:15:29 +0000
+### [Shahi Idgah row: HC likely to pass order on appointment of advocate commissioner on Thursday](https://theprint.in/india/shahi-idgah-row-hc-likely-to-pass-order-on-appointment-of-advocate-commissioner-on-thursday/1885046/)
+
+Article found but Couldn't summarize 
+Prayagraj, Dec 13 (PTI) The Allahabad High Court is likely to deliver on Thursday its order on an application seeking appointment of a court-monitored advocate commissioner to survey the Shahi Idgah premises adjoining the Sri Krishna Janmabhoomi temple in Mathura. On November 16, Justice Mayank Kumar Jain had reserved the order on the application after [&#8230;]
+
+Wed, 13 Dec 2023 18:15:28 +0000
+### [Exclusive-EU budget chief sees deal on 50 billion euros for Ukraine, has plan B](https://theprint.in/world/exclusive-eu-budget-chief-sees-deal-on-50-billion-euros-for-ukraine-has-plan-b/1885045/)
+
+Article found but Couldn't summarize 
+By Jan Strupczewski BRUSSELS (Reuters) - European Union leaders are likely to reach a deal on 50 billion euros ($54 billion) for Ukraine this week because it is to come in a package with other cash
+
+Wed, 13 Dec 2023 18:15:15 +0000
+### [British PM to attend Rome event staged by Italy’s Meloni](https://theprint.in/world/british-pm-to-attend-rome-event-staged-by-italys-meloni/1885043/)
+
+Article found but Couldn't summarize 
+ROME (Reuters) - British Prime Minister Rishi Sunak will attend a political event in Rome on Saturday organised by the right-wing party of Italian Prime Minister Giorgia Meloni, which is also due to
+
+Wed, 13 Dec 2023 18:15:15 +0000
+### [Woman’s burnt body found in room near house in Punjab](https://theprint.in/india/womans-burnt-body-found-in-room-near-house-in-punjab/1885042/)
+
+Article found but Couldn't summarize 
+Chandigarh, Dec 13 (PTI) The burnt body of an 18-year-old woman was found in a room constructed on a plot near her house in Punjab&#8217;s Jalandhar district on Wednesday, a day after she went missing, police said. The incident took place in the Mithu Basti area. The woman&#8217;s parents had reported her missing. In their [&#8230;]
+
+Wed, 13 Dec 2023 18:15:04 +0000
+### [Israel wants Hezbollah away from border, lawmaker says](https://theprint.in/world/israel-wants-hezbollah-away-from-border-lawmaker-says/1885040/)
+
+Article found but Couldn't summarize 
+By Dan Williams and Tom Perry JERUSALEM/BEIRUT (Reuters) - An Israeli lawmaker said on Wednesday his government was seeking to use diplomatic channels to push Lebanon's Hezbollah fighters away from
+
+Wed, 13 Dec 2023 18:15:03 +0000
+### [Women legislators give a miss to lecture on cyber security](https://theprint.in/india/women-legislators-give-a-miss-to-lecture-on-cyber-security/1885039/)
+
+Article found but Couldn't summarize 
+Nagpur, Dec 13 (PTI) Most women legislators on Wednesday gave a miss to a lecture by a cyber security expert organised here by the Maharashtra state women&#8217;s rights commission. More than ten women members of the Maharashtra Assembly and Legislative Council turned up for the seminar organised by the commission which coincided with the ongoing [&#8230;]
+
+Wed, 13 Dec 2023 18:02:25 +0000
+### [COP28 President lauds Parties’ success in delivering comprehensive response to Global Stocktake during closing plenary](https://theprint.in/world/cop28-president-lauds-parties-success-in-delivering-comprehensive-response-to-global-stocktake-during-closing-plenary/1885036/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 13 (ANI/WAM): Sultan bin Ahmed Al Jaber, Minister of Industry and Advanced Technology and COP28 President, lauded the success of the parties in delivering a comprehensive response to the global stocktake and all the other mandates and finding a new way. In his statement at the closing plenary of the 28th UN [&#8230;]
+
+Wed, 13 Dec 2023 18:02:01 +0000
+### [May 9 carnage was conspiracy hatched by Pakistan Army, ISI: MQM leader Altaf Hussain](https://theprint.in/world/may-9-carnage-was-conspiracy-hatched-by-pakistan-army-isi-mqm-leader-altaf-hussain/1885034/)
+
+Article found but Couldn't summarize 
+London [UK], December 13 (ANI): The founder and leader of MQM (Muttahida Qaumi Movement), Altaf Hussain declared that Pakistan is still under the control of international forces, reflecting a lack of true freedom. He pointed out that &#8220;international powers have an impact on appointments and promotions in the military and administration&#8221;. In his speech, he [&#8230;]
+
+Wed, 13 Dec 2023 18:01:28 +0000
+### [CM Mann has directed police to frame SAD leaders in fake cases: Sukhbir Badal](https://theprint.in/india/cm-mann-has-directed-police-to-frame-sad-leaders-in-fake-cases-sukhbir-badal/1885033/)
+
+Article found but Couldn't summarize 
+Amritsar, Dec 13 (PTI) Shiromani Akali Dal president Sukhbir Singh Badal on Wednesday accused Punjab Chief Minister Bhagwant Mann of directing senior police officers to frame his party&#8217;s social media heads in fake cases. A special investigation team of the Punjab Police, probing a drugs case, had recently summoned SAD leader Bikram Singh Majithia to [&#8230;]
+
+Wed, 13 Dec 2023 18:01:09 +0000
+### [Nine years of Modi govt shining example of good governance, prosperity: BJP Mahila Morcha chief](https://theprint.in/india/nine-years-of-modi-govt-shining-example-of-good-governance-prosperity-bjp-mahila-morcha-chief/1885032/)
+
+As GPT-3.5, I can provide a summary of the article you shared. The article discusses the remarks made by Vanathi Srinivasan, the BJP's women's wing chief, about the nine years of the Narendra Modi government being a shining example of good governance, development, and prosperity in the country. Srinivasan highlighted the pro-people policies of the Union government and their impact on the BJP's victory in three assembly elections. The article also mentions the first meeting of the BJP Punjab Mahila Morcha since Jai Inder Kaur became the state president. Additionally, it mentions the construction of the Sri Kartarpur Sahib corridor and other steps taken by the Modi government for the betterment of Sikhs and the Punjabi community. Jai Inder Kaur emphasized the Mahila Morcha's commitment to working for the betterment of the party in the state. Please note that this summary is generated by GPT-3.5 and may not capture all the details of the article.
+
+Wed, 13 Dec 2023 18:00:53 +0000
+### [Main accused in Dehradun jewellery showroom robbery arrested from Bihar](https://theprint.in/india/main-accused-in-dehradun-jewellery-showroom-robbery-arrested-from-bihar/1885031/)
+
+The main accused in the Rs 15-crore jewellery showroom heist was arrested on Wednesday from Bihar's Vaishali district. Prince Kumar, who carried a reward of Rs 2 lakh on his arrest, was nabbed by the Bihar Police. He is being brought to Dehradun by a Uttarakhand police team on transit remand. Singh had gone to Bihar to seek the cooperation of Bihar Police STF in arresting the accused. This report is auto-generated from PTI news service. ThePrint holds no responsibility for its content.
+
+Wed, 13 Dec 2023 18:00:36 +0000
+### [Oppn parties welcome HC ruling on Pune Lok Sabha seat bypoll; BJP says avoid politics](https://theprint.in/india/oppn-parties-welcome-hc-ruling-on-pune-lok-sabha-seat-bypoll-bjp-says-avoid-politics/1885030/)
+
+Article found but Couldn't summarize 
+Pune, Dec 13 (PTI) Opposition parties in Maharashtra welcomed the Bombay High Court ruling on Wednesday asking the Election Commission of India (ECI) to immediately hold the bypoll for the Pune Lok Sabha seat, stressing people from the constituency cannot be left unrepresented for a long time. The Congress termed the HC ruling as a [&#8230;]
+
+Wed, 13 Dec 2023 18:00:22 +0000
+### [From operationalisation of Loss and Damage fund to deal on making ‘transition away from fossil fuels’: COP28 called decisive by many but criticism remains](https://theprint.in/world/from-operationalisation-of-loss-and-damage-fund-to-deal-on-making-transition-away-from-fossil-fuels-cop28-called-decisive-by-many-but-criticism-remains/1885029/)
+
+Article found but Couldn't summarize 
+Dubai, Dec 13 (PTI) From operationalisation of the Loss and Damage fund on the first day to the adoption of a landmark deal of making a &#8216;transition away from fossil fuels&#8217;, this year&#8217;s global climate talks COP28 are considered a decisive one by many, but criticism was also drawn from several quarters over lack of [&#8230;]
+
+Wed, 13 Dec 2023 18:00:02 +0000
+### [LS Secretariat reminds members to get their smart cards to access Parliament House](https://theprint.in/india/ls-secretariat-reminds-members-to-get-their-smart-cards-to-access-parliament-house/1885028/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 13 (PTI) On a day the Parliament witnessed a major security breach, the Lok Sabha Secretariat on Wednesday reminded MPs to get their &#8216;smart cards&#8217; prepared for accessing the new building. It also reminded them that access to the Parliament House is also facilitated at building gates, Lok Sabha and Rajya Sabha [&#8230;]
+
+Wed, 13 Dec 2023 17:48:03 +0000
+### [UAE: 8th edition of Fujairah International Arabian Horse Championship kicks off tomorrow](https://theprint.in/world/uae-8th-edition-of-fujairah-international-arabian-horse-championship-kicks-off-tomorrow/1885023/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 13 (ANI/WAM): Under the patronage of Sheikh Mohammed bin Hamad bin Mohammed Al Sharqi, Crown Prince of Fujairah, the Organising Committee of the Fujairah International Arabian Horse Championship announced it has completed all preparations for the tournament&#8217;s eighth edition, which kicks off on December 14 in the area adjacent to the historic [&#8230;]
+
+Wed, 13 Dec 2023 17:47:50 +0000
+### [Israel Embassy in India hosts Hanukkah celebration, hopes for safe return of hostages](https://theprint.in/world/israel-embassy-in-india-hosts-hanukkah-celebration-hopes-for-safe-return-of-hostages/1885021/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 13 (ANI): The Israel Embassy in India organized a &#8216;Hannukah&#8217; celebration with the earnest hope for the safe return of all hostages held by Hamas in Gaza. The event was held at the Israeli envoy Naor Gilon&#8217;s residence, where everyone expressed unity and hope and sincerely wished for the safe return [&#8230;]
+
+Wed, 13 Dec 2023 17:47:40 +0000
+### [We take attack on Hindu temples in Australia very seriously: Envoy Philip Green](https://theprint.in/world/we-take-attack-on-hindu-temples-in-australia-very-seriously-envoy-philip-green/1885019/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 13 (ANI): The Australian High Commissioner to India, Philip Green, on Wednesday, said his country takes attacks on Hindu temples very seriously and has a lot of experience in dealing with such situations. &#8220;We take these sorts of acts in relation to Hindu temples seriously as we take any act in [&#8230;]
+
 Wed, 13 Dec 2023 17:02:02 +0000
 ### [Release date for Millie Bobby Brown-starrer ‘Damsel’ out](https://theprint.in/feature/release-date-for-millie-bobby-brown-starrer-damsel-out/1884965/)
 
