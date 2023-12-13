@@ -1,3 +1,9 @@
+2023-12-13T20:39:51+05:30
+### [Bombay HC Orders EC to Conduct Bypoll to Vacant Pune Lok Sabha Seat](https://thewire.in/law/bombay-high-court-order-ec-bypoll-vacant-pune-lok-sabha-seat)
+
+No Article text 
+The high court quashed ECI's certificate stating that by-polls will not be held as the poll panel is "busy with preparation for 2024 General Elections and the candidate elected in the bye-election will have a very short tenure".
+
 2023-12-13T18:07:11+05:30
 ### [Retail Inflation Rises to 5.55% in November](https://thewire.in/economy/retail-inflation-rises-to-5-55-in-november)
 

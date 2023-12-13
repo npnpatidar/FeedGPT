@@ -1,3 +1,121 @@
+Wed, 13 Dec 2023 15:09:13 +0000
+### [Housing minister Puri introduces bill to extend immunity to unauthorised structures in Delhi](https://theprint.in/india/housing-minister-puri-introduces-bill-to-extend-immunity-to-unauthorised-structures-in-delhi/1884783/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 13 (PTI) Union Housing and Urban Affairs Minister Hardeep Singh Puri on Wednesday introduced a bill in the Lok Sabha to extend protection against punitive action to unauthorised developments in Delhi for three years beyond the December 31 deadline. The Bill seeks to provide protection to certain forms of unauthorised developments in [&#8230;]
+
+Wed, 13 Dec 2023 15:06:07 +0000
+### [Braille maps and signs installed at Indore railway station, shopping malls](https://theprint.in/india/braille-maps-and-signs-installed-at-indore-railway-station-shopping-malls/1884782/)
+
+Braille maps and signs have been installed at the local railway station and some shopping malls in Indore as part of a campaign to make public places accessible to the visually impaired. This initiative is being carried out by Young Indians, a group of young industrialists associated with the Confederation of Indian Industry (CII). Additionally, Braille maps and indicators have already been installed at the Khajrana Ganesh temple and Vaishnav Dham temple in the city. The installation of Braille maps and signs at public places will greatly benefit visually impaired individuals like Kashmira Ansari, a visually impaired student who expressed her support for this initiative. It is important to note that this report is auto-generated from PTI news service and ThePrint holds no responsibility for its content.
+
+Wed, 13 Dec 2023 15:04:27 +0000
+### [Abaran Jewellers feud: Sibling accuses brother of fraud, HC issues notice](https://theprint.in/india/abaran-jewellers-feud-sibling-accuses-brother-of-fraud-hc-issues-notice/1884781/)
+
+Article found but Couldn't summarize 
+Bengaluru, Dec 13 (PTI) The High Court of Karnataka on December 12 issued emergent notices to Abaran Timeless Jewellery Ltd and its director Prathap Kamath on a petition filed by the latter&#8217;s younger brother Bharath Kamath. The younger sibling has alleged that Prathap had induced him to sign a one-sided lease agreement pertaining to a [&#8230;]
+
+Wed, 13 Dec 2023 15:03:41 +0000
+### [Puducherry CM urges stern action against those behind security breach in Parliament](https://theprint.in/india/puducherry-cm-urges-stern-action-against-those-behind-security-breach-in-parliament/1884780/)
+
+Article found but Couldn't summarize 
+Puducherry, Dec 13 (PTI) Puducherry Chief Minister N Rangasamy on Wednesday condemned the incident in the Lok Sabha today where two intruders jumped from the visitors gallery into the House and used gas canisters to spread yellow smoke causing panic. In a statement, the Chief Minister said the incident was a threat to national integration [&#8230;]
+
+Wed, 13 Dec 2023 15:03:06 +0000
+### [Dhunseri’s poly films project in Bengal begins commercial production](https://theprint.in/economy/dhunseris-poly-films-project-in-bengal-begins-commercial-production/1884777/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 13 (PTI) Dhunseri Ventures Ltd on Wednesday said it has commenced commercial production of polyester films, used in the packaging sector, at its Panagarh plant in West Bengal. With a focus on sustainable packaging solutions, the facility will initially manufacture 45,000 tonnes per annum (TPA) of BOPET films, catering to the food, cosmetics, [&#8230;]
+
+Wed, 13 Dec 2023 15:03:05 +0000
+### [Trailer of Telugu series ‘ Vyooham’ out now](https://theprint.in/feature/trailer-of-telugu-series-vyooham-out-now/1884776/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 13 (ANI): On Wednesday, the makers of &#8216;Vyooham&#8217; unveiled the trailer of Telugu series. The eight-episode crime thriller features Sai Sushanth Reddy, Chaitanya Krishna, Pavani Gangireddy, Ravindra Vijay, and Shashank Siddamsetty in prominent roles. The trailer showcases ACP Arjun Ramachandra, portrayed by Sai Sushanth Reddy, as he engages viewers in a [&#8230;]
+
+Wed, 13 Dec 2023 15:02:31 +0000
+### [Australia engaging with India as a friend not a Five Eyes member, says envoy on Nijjar-Pannun row](https://theprint.in/world/australia-engaging-with-india-as-a-friend-not-a-five-eyes-member-says-envoy-on-nijjar-pannun-row/1884608/)
+
+Article found but Couldn't summarize 
+Australian High Commissioner Phillip Green’s remarks come amid US federal investigation into whether an Indian govt employee was involved in alleged assassination attempt on Sikh extremist Pannun.
+
+Wed, 13 Dec 2023 15:02:29 +0000
+### [Odisha inks pact with Tata Steel to set up archery, sports climbing high performamce centres](https://theprint.in/india/odisha-inks-pact-with-tata-steel-to-set-up-archery-sports-climbing-high-performamce-centres/1884773/)
+
+Article found but Couldn't summarize 
+Bhubaneswar, Dec 13 (PTI) Odisha government on Wednesday signed a MoU with Tata Steel to set up high performance centres in Olympic sports — archery and sport climbing. The pact was signed in presence of Chief Minister Naveen Patnaik. This will add to Odisha&#8217;s bouquet of such centres. Odisha Tata Archery Academy and Odisha Tata [&#8230;]
+
+Wed, 13 Dec 2023 15:02:27 +0000
+### [Pakistan govt urged to block national identity cards of PTI leaders absconding since May 9 violence](https://theprint.in/world/pakistan-govt-urged-to-block-national-identity-cards-of-pti-leaders-absconding-since-may-9-violence/1884772/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 13 (ANI): The Punjab Police urged the government to block Computerised National Identity Cards (CNICs) of Pakistan Tehreek-e-Insaf (PTI) leaders, who were declared absconders in May 9 violence, ARY News reported. The police requested the caretaker government to block the CNICs of 18 PTI leaders in a letter to the National Database [&#8230;]
+
+Wed, 13 Dec 2023 15:02:04 +0000
+### [Opposition members raise security concerns in Parliament at all-party meeting](https://theprint.in/india/opposition-members-raise-security-concerns-in-parliament-at-all-party-meeting/1884770/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 13 (PTI) The home ministry was on Wednesday asked to launch a security review of Parliament as members of opposition at an all-party meeting demanded a through probe into the incident of two persons jumping into the Lok Sabha chamber and also sought action against BJP MP Prathap Simha who felicitated their [&#8230;]
+
+Wed, 13 Dec 2023 15:02:02 +0000
+### [Sit-ins continue in Pakistan’s Quetta against CTD personnel in ‘extra-judicial killing’ of Baloch youth](https://theprint.in/world/sit-ins-continue-in-pakistans-quetta-against-ctd-personnel-in-extra-judicial-killing-of-baloch-youth/1884769/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 13 (ANI): Protests continue on Sariab Road in Pakistan&#8217;s Quetta as negotiations between the leaders of a long march from Turbat and the local administration did not come to a result over &#8220;extra-judicial killing&#8221; of a Baloch youth by Counter Terrorism Department (CTD) last Thursday, Dawn reported. Hundreds of protesters, including family [&#8230;]
+
+Wed, 13 Dec 2023 15:01:41 +0000
+### [Neelam arrested for protesting outside Parliament participated in farmers’ agitation: Family members](https://theprint.in/india/neelam-arrested-for-protesting-outside-parliament-participated-in-farmers-agitation-family-members/1884768/)
+
+Article found but Couldn't summarize 
+Chandigarh/New Delhi, Dec 13 (PTI) Family members of Neelam, one of the two persons arrested for protesting outside the Parliament on Wednesday, said she had earlier participated in several agitations including farmers&#8217; movement. Neelam&#8217;s mother Saraswati Devi told reporters at her house in Ghaso Khurd village in Haryana&#8217;s Jind that she came to know about [&#8230;]
+
+Wed, 13 Dec 2023 15:01:20 +0000
+### [Net borrowing ceiling: Kerala moves SC alleging interference by Centre in state’s finances](https://theprint.in/india/net-borrowing-ceiling-kerala-moves-sc-alleging-interference-by-centre-in-states-finances/1884767/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 13 (PTI) The Kerala government has approached the Supreme Court accusing the Centre of interfering in exercise of its &#8220;exclusive, autonomous and plenary powers&#8221; to regulate the state&#8217;s finances by imposing a ceiling on net borrowing. In an original suit filed under Article 131 of the Constitution, the Kerala government has said [&#8230;]
+
+Wed, 13 Dec 2023 15:01:05 +0000
+### [Dhankhar biggest example of social engineering: Rajeev Shukla](https://theprint.in/india/dhankhar-biggest-example-of-social-engineering-rajeev-shukla/1884765/)
+
+As GPT-3.5, I can provide a brief summary of the article you shared. The article discusses the Jat origin of Vice President and Rajya Sabha Chairperson Jagdeep Dhankhar. Rajeev Shukla referred to Dhankhar as the "biggest example" of social engineering, highlighting that no Jat leader has previously held the position of Vice President. Ghanshyam Tiwari, a BJP member, praised Prime Minister Narendra Modi's leadership for the appointment of a Jat as the country's Vice President. Dhankhar, who comes from a humble background and started his career as a lawyer, was chosen as the ruling party's vice presidential candidate in 2021. His selection was believed to be influenced by his Jat background, as the Jat community holds political significance in states like Rajasthan, Haryana, and parts of Uttar Pradesh. Please note that this summary is generated based on the provided text and may not include all the details of the original article.
+
+Wed, 13 Dec 2023 15:00:47 +0000
+### [Major security breach in LS; two persons enter House, open smoke canisters; two protest outside parliament; five detained](https://theprint.in/india/major-security-breach-in-ls-two-persons-enter-house-open-smoke-canisters-two-protest-outside-parliament-five-detained/1884764/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 13 (PTI) In a major security breach on the anniversary of the deadly 2001 Parliament terror attack, two persons on Wednesday jumped into the Lok Sabha chamber from the visitors&#8217; gallery, shouted slogans and released yellow smoke from canisters that triggered panic and chaos in the House. Around the same time, two [&#8230;]
+
+Wed, 13 Dec 2023 15:00:29 +0000
+### [Nine Bangladeshi nationals held in Mumbai for illegal stay](https://theprint.in/india/nine-bangladeshi-nationals-held-in-mumbai-for-illegal-stay/1884763/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 13 (PTI) The Mumbai police have arrested nine Bangladeshi nationals from Sewri area in central part of the city for staying allegedly without valid documents, an official said on Wednesday. Unit-6 of the crime branch took the action against them, he said. &#8220;Based on specific information, the crime branch apprehended a man and [&#8230;]
+
+Wed, 13 Dec 2023 15:00:15 +0000
+### [Kerala CM Vijayan praises state’s financial growth](https://theprint.in/india/kerala-cm-vijayan-praises-states-financial-growth/1884762/)
+
+Article found but Couldn't summarize 
+Kottayam (Ker), Dec 13 (PTI) Kerala Chief Minister Pinarayi Vijayan on Wednesday hailed the state&#8217;s financial management, citing its positive impact on revenue and internal income. Speaking at the Nava Kerala Sadas programme in Puthuppally Assembly constituency, he noted an increase in the state&#8217;s own revenue, domestic revenue, and per capita income. &#8220;As part of [&#8230;]
+
+Wed, 13 Dec 2023 15:00:03 +0000
+### [New MP CM’s first order prohibits use of loudspeakers at religious places beyond permissible limits](https://theprint.in/india/new-mp-cms-first-order-prohibits-use-of-loudspeakers-at-religious-places-beyond-permissible-limits/1884761/)
+
+Article found but Couldn't summarize 
+Bhopal, Dec 13 (PTI) The newly-appointed Madhya Pradesh Chief Minister Mohan Yadav on Wednesday issued a directive prohibiting the use of loudspeakers at religious places beyond permissible decibel levels. It was the first order issued by Yadav who took oath of office earlier in the morning, additional chief secretary (home) Dr Rajesh Rajora told PTI. [&#8230;]
+
+Wed, 13 Dec 2023 14:49:50 +0000
+### [Pakistan: Surge in terrorism poses formidable challenge in Khyber Pakhtunkhwa](https://theprint.in/world/pakistan-surge-in-terrorism-poses-formidable-challenge-in-khyber-pakhtunkhwa/1884756/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 13 (ANI): The surge in terror in Khyber Pakhtunkhwa continue to persist as an unsolved problem as despite countless military operations spanning almost a decade and resulting in substantial casualties among both security forces and innocent civilians, Dawn reported. The residents remain sceptical of complete eradication of terrorism from the region. According [&#8230;]
+
+Wed, 13 Dec 2023 14:49:12 +0000
+### [“Expecting them to forgive my daughter”: Nimisha Priya’s mother on court allowing her to visit her imprisoned daughter in Yemen](https://theprint.in/world/expecting-them-to-forgive-my-daughter-nimisha-priyas-mother-on-court-allowing-her-to-visit-her-imprisoned-daughter-in-yemen/1884753/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 13 (ANI): Following the Delhi High Court&#8217;s approval for Nimisha Priya&#8217;s mother to travel to Yemen, Prem Kumari, expressed joy and said that she is hoping that the victim&#8217;s family would forgive her daughter. &#8220;I am grateful and happy about this high court verdict. Thanks to advocates and Yemen,&#8221; she said. [&#8230;]
+
 Wed, 13 Dec 2023 14:16:36 +0000
 ### [10-year-old boy killed in road accident in UP’s Amethi](https://theprint.in/india/10-year-old-boy-killed-in-road-accident-in-ups-amethi/1884717/)
 

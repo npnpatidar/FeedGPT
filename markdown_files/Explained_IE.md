@@ -1,3 +1,8 @@
+Wed, 13 Dec 2023 14:18:42 +0000
+### [94 years ago, when Bhagat Singh chose to ‘make the deaf hear’ in Parliament](https://indianexpress.com/article/explained/explained-history/bhagat-singh-parliament-bomb-attack-9067123/)
+
+Article found but Couldn't summarize
+
 Wed, 13 Dec 2023 14:11:04 +0000
 ### [Epic Games wins case against Google over Play Store ‘monopoly’: What happened, its implications](https://indianexpress.com/article/explained/explained-law/epic-games-google-play-store-case-9067137/)
 
