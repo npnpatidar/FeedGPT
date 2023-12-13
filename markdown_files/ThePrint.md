@@ -1,3 +1,123 @@
+Wed, 13 Dec 2023 09:23:15 +0000
+### [Cricket-South Africa reach rain-reduced target to beat India](https://theprint.in/sport/cricket-south-africa-reach-rain-reduced-target-to-beat-india/1884145/)
+
+Article found but Couldn't summarize 
+GQEBERHA, South Africa (Reuters) - South Africa opener Reeza Hendricks laid the foundation as they beat India by five wickets after reaching a rain-reduced target to win their second Twenty20
+
+Wed, 13 Dec 2023 09:15:03 +0000
+### [Oppn protests against Dharavi redevelopment project; urges govt to save its industries, people](https://theprint.in/india/oppn-protests-against-dharavi-redevelopment-project-urges-govt-to-save-its-industries-people/1884140/)
+
+Article found but Couldn't summarize 
+Nagpur, Dec 13 (PTI) Members of opposition parties in Maharashtra on Wednesday attacked the Eknath Shinde-led state government over the Dharavi redevelopment issue, accusing it of favouring the Adani Group but leaving the residents of the slum colony in the lurch. Mumbai Congress chief Varsha Gaikwad, who represents the Dharavi assembly constituency, Leader of Opposition [&#8230;]
+
+Wed, 13 Dec 2023 09:08:52 +0000
+### [Khul Ke Surpasses 1 Million User Milestone Within a Month of Launch](https://theprint.in/ani-press-releases/khul-ke-surpasses-1-million-user-milestone-within-a-month-of-launch/1884138/)
+
+Article found but Couldn't summarize 
+VMPL New Delhi [India], December 13: In a striking accomplishment, Khul Ke, India&#8217;s pioneering social networking platform, has rapidly garnered an impressive one million users within just one month of its official launch. The platform, founded with a vision to create a distinctly Indian space for open expression, has swiftly become a cultural force, redefining [&#8230;]
+
+Wed, 13 Dec 2023 09:08:14 +0000
+### [Cricket-England must put the brakes on big-hitting West Indies: Buttler](https://theprint.in/sport/cricket-england-must-put-the-brakes-on-big-hitting-west-indies-buttler/1884136/)
+
+Article found but Couldn't summarize 
+(Reuters) - England must find a way to restrict the big hitters in the West Indies team after the hosts smashed 14 sixes en route to a four-wicket win in the opening Twenty20 International in Barbados
+
+Wed, 13 Dec 2023 09:02:02 +0000
+### [Unlocking Prosperity: Unipe’s Bold Mission to Build a Credit Universe for MSMEs and its Workforce](https://theprint.in/ani-press-releases/unlocking-prosperity-unipes-bold-mission-to-build-a-credit-universe-for-msmes-and-its-workforce/1884134/)
+
+Article found but Couldn't summarize 
+NewsVoir Bangalore (Karnataka) [India], December 13: Meet Raj, the owner of a bustling manufacturing unit in the heart of India. His factory, a microcosm of the nation&#8217;s robust economy, employed over 200 skilled workers. Raj took pride in contributing to India&#8217;s growth story, but behind the scenes, he faced a persistent challenge-processing payroll on time. [&#8230;]
+
+Wed, 13 Dec 2023 09:01:39 +0000
+### [Gunmen in speadboat approach two vessels in Bab al-Mandab Strait -Ambrey](https://theprint.in/world/gunmen-in-speadboat-approach-two-vessels-in-bab-al-mandab-strait-ambrey/1884133/)
+
+Article found but Couldn't summarize 
+DUBAI (Reuters) - A speedboat with armed men aboard approached two vessels transiting off the coast of Yemen's Red Sea port of Hodeidah, an advisory note from British maritime security company Ambrey
+
+Wed, 13 Dec 2023 09:01:37 +0000
+### [Police restricts entry of vehicles into Vrindavan from Dec 25 to Jan 2 to regulate rush of devotees](https://theprint.in/india/police-restricts-entry-of-vehicles-into-vrindavan-from-dec-25-to-jan-2-to-regulate-rush-of-devotees/1884132/)
+
+Article found but Couldn't summarize 
+Mathura (UP), Dec 13 (PTI) In view of the huge rush at the Banke Bihari Temple in Vrindavan on December 25 and new year, police has restricted the entry of heavy vehicles for the period in the city, officials said on Wednesday. Private vehicles entering the city will also be parked at designated parking spots [&#8230;]
+
+Wed, 13 Dec 2023 09:00:09 +0000
+### [Support Ukraine for “as long as it takes”, EU chief urges bloc](https://theprint.in/world/support-ukraine-for-as-long-as-it-takes-eu-chief-urges-bloc/1884129/)
+
+Article found but Couldn't summarize 
+By Gabriela Baczynska BRUSSELS (Reuters) -The European Union's chief executive called on Wednesday for the bloc to support Ukraine as long as it takes, her remarks ahead of a key European leaders'
+
+Wed, 13 Dec 2023 09:00:02 +0000
+### [Speaker Birla calls meeting of MPs to discuss security lapse](https://theprint.in/india/speaker-birla-calls-meeting-of-mps-to-discuss-security-lapse/1884128/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 12 (PTI) Lok Sabha Speaker Om Birla on Wednesday said the security lapse in the House is being thoroughly probed and called a meeting of MPs from all parties later in the day to address their concerns over the matter.  As the House met at 2 pm, amid concerns raised by various [&#8230;]
+
+Wed, 13 Dec 2023 08:58:17 +0000
+### [Custom vs. Standard Modern Window Design: Which is Right for You?](https://theprint.in/theprint-valuead-initiative/custom-vs-standard-modern-window-design-which-is-right-for-you/1884123/)
+
+Article found but Couldn't summarize 
+The decision between opting for custom or standard modern window design hinges on several factors, including budget, time constraints, and the desire for personalisation.
+
+Wed, 13 Dec 2023 08:50:26 +0000
+### [Reaction to the final COP28 climate deal](https://theprint.in/environment/reaction-to-the-final-cop28-climate-deal/1884119/)
+
+Article found but Couldn't summarize 
+DUBAI (Reuters) - The COP28 climate summit adopted a final deal on Wednesday that for the first time calls on nations to transition away from fossil fuels to avert the worst impacts of climate change.
+
+Wed, 13 Dec 2023 08:49:32 +0000
+### [EU welcomes COP 28 climate agreement, von der Leyen says](https://theprint.in/environment/eu-welcomes-cop-28-climate-agreement-von-der-leyen-says/1884116/)
+
+Article found but Couldn't summarize 
+BRUSSELS (Reuters) - The agreement reached on the COP 28 climate summit could speed up the transition to a cleaner and healthier economy and keep the world on track to meet the climate goals of the
+
+Wed, 13 Dec 2023 08:49:16 +0000
+### [Israeli military hits 250 terror targets in Gaza](https://theprint.in/world/israeli-military-hits-250-terror-targets-in-gaza/1884114/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], December 13 (ANI/TPS): The IDF (Israel Defense Forces) reported that its offensive against the terrorist organization Hamas in Gaza continues and that over the past 24 hours its forces&#8211;on land sea and air&#8211;attacked 250 different targets. This included eliminating a terrorist squad the IDF said was on its way to launch rockets [&#8230;]
+
+Wed, 13 Dec 2023 08:48:35 +0000
+### [AAP govt running away from debate, say Delhi BJP MLAs](https://theprint.in/india/aap-govt-running-away-from-debate-say-delhi-bjp-mlas/1884112/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 13 (PTI) Ahead of the winter session of the Delhi assembly later this week, BJP MLAs on Wednesday alleged that the AAP government was running away from debates on issues related to the people of the city. No immediate reaction was available from the ruling Aam Aadmi Party (AAP) over the charge. [&#8230;]
+
+Wed, 13 Dec 2023 08:48:31 +0000
+### [S.Korea’s defence minister warns North Korea of ‘hell of destruction’](https://theprint.in/world/s-koreas-defence-minister-warns-north-korea-of-hell-of-destruction/1884111/)
+
+Article found but Couldn't summarize 
+By Josh Smith SEOUL (Reuters) - South Korea's defence minister threatened on Wednesday to unleash a "hell of destruction" on neighbouring North Korea in retaliation for any reckless actions. The
+
+Wed, 13 Dec 2023 08:48:21 +0000
+### [Impact Guru Foundation and Sagility India, Launch ‘Thank-A-Nurse’ Digital Health Program to Transform Patient Care in Coimbatore](https://theprint.in/ani-press-releases/impact-guru-foundation-and-sagility-india-launch-thank-a-nurse-digital-health-program-to-transform-patient-care-in-coimbatore/1884109/)
+
+Article found but Couldn't summarize 
+India PR Distribution Coimbatore (Tamil Nadu) [India], December 13: Impact Guru Foundation, an organization that aims to facilitate access to affordable healthcare, and Sagility India, a leader in providing technology and transformation-driven BPM services proudly announce the launch of the &#8216;Thank-A-Nurse&#8217; Digital Health Program in Coimbatore, Tamil Nadu on 29th November 2023. The inauguration took [&#8230;]
+
+Wed, 13 Dec 2023 08:47:56 +0000
+### [Indian American university in Silicon Valley to have mega campus and launch new courses in AI & medical](https://theprint.in/world/indian-american-university-in-silicon-valley-to-have-mega-campus-and-launch-new-courses-in-ai-medical/1884107/)
+
+Article found but Couldn't summarize 
+Milpitas (US), Dec 13 (PTI) The University of SiliconAndhra, the first-of-its-kind university in the US, being run by Indian Americans and offering courses in Indian dances and languages, is now expanding to a sprawling campus that would have a medical college, an international standard cricket stadium and is launching new courses in advance technologies like [&#8230;]
+
+Wed, 13 Dec 2023 08:47:54 +0000
+### [Sea change for Poland as Donald Tusk sworn in as PM](https://theprint.in/world/sea-change-for-poland-as-donald-tusk-sworn-in-as-pm/1884106/)
+
+Article found but Couldn't summarize 
+WARSAW (Reuters) - New Polish Prime Minister Donald Tusk's government was sworn in by the president on Wednesday, the final step in a transfer of power that marks a huge change after eight years of
+
+Wed, 13 Dec 2023 08:47:41 +0000
+### [Symbiosis School for Liberal Arts Presents the Fourth Edition of Symbiosis Literary Festival (SLF) 2023 on December 16 & 17](https://theprint.in/ani-press-releases/symbiosis-school-for-liberal-arts-presents-the-fourth-edition-of-symbiosis-literary-festival-slf-2023-on-december-16-17/1884104/)
+
+Article found but Couldn't summarize 
+SRV Media Pune (Maharashtra) [India], December 13: The Symbiosis International (Deemed University) is gearing up for the fourth edition of the Symbiosis Literary Festival (SLF, 2023) which will be held on December 16 and 17, 2023. The event will kick off with an inaugural session on December 16, 2023 at 10:00 am. Javed Akhtar, renowned [&#8230;]
+
+Wed, 13 Dec 2023 08:47:17 +0000
+### [Amendments to SEZ Act to spur commercial office space leasing: Crisil](https://theprint.in/economy/amendments-to-sez-act-to-spur-commercial-office-space-leasing-crisil/1884102/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 13 (PTI) The recent notification of the commerce ministry to demarcate part of Special Economic Zones into non-SEZ areas will spur office space leasing in the country, according to a report prepared by research firm Crisil Ratings. India&#8217;s office space leasing is expected to benefit from the recent amendments to the SEZ Act [&#8230;]
+
 Wed, 13 Dec 2023 08:20:59 +0000
 ### [Businessman dies after assault over road rage in Pune; three held](https://theprint.in/india/businessman-dies-after-assault-over-road-rage-in-pune-three-held/1884057/)
 

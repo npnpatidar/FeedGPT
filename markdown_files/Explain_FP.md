@@ -1,3 +1,15 @@
+Wed, 13 Dec 2023 14:04:30 +0530
+### [The significant changes in criminal law Bills](https://www.firstpost.com/explainers/terror-definition-expanded-mental-cruelty-and-more-the-significant-changes-in-criminal-law-bills-13499012.html)
+
+Article found but Couldn't summarize 
+The significant changes in criminal law Bills
+
+Wed, 13 Dec 2023 13:45:48 +0530
+### [In Graphics | Unilever under fire for 'greenwashing' consumers. What does this mean?](https://www.firstpost.com/explainers/in-graphics-unilever-under-fire-for-greenwashing-consumers-what-does-this-mean-13498592.html)
+
+Article found but Couldn't summarize 
+In Graphics | Unilever under fire for 'greenwashing' consumers. What does this mean?
+
 Wed, 13 Dec 2023 12:55:28 +0530
 ### [Israel-Hamas war: How India has gone from abstaining on ceasefire vote to favouring it](https://www.firstpost.com/explainers/israel-hamas-war-how-india-has-gone-from-abstaining-on-ceasefire-vote-to-voting-in-favour-of-it-13498622.html)
 

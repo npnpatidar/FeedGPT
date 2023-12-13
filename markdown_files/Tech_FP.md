@@ -1,3 +1,15 @@
+Wed, 13 Dec 2023 14:44:55 +0530
+### [‘Mental health’ issues in AI? ChatGPT suffering from seasonal depression, getting lazier,](https://www.firstpost.com/tech/mental-health-issues-in-ai-chatgpt-suffering-from-seasonal-depression-getting-lazier-13499522.html)
+
+Article found but Couldn't summarize 
+‘Mental health’ issues in AI? ChatGPT suffering from seasonal depression, getting lazier,
+
+Wed, 13 Dec 2023 14:23:33 +0530
+### [Amazon caught selling spy cams disguised as bathroom/changing room clothes hook](https://www.firstpost.com/tech/amazon-caught-selling-spy-cams-disguised-as-bathroom-changing-room-clothes-hook-13499422.html)
+
+Article found but Couldn't summarize 
+Amazon caught selling spy cams disguised as bathroom/changing room clothes hook
+
 Wed, 13 Dec 2023 13:30:47 +0530
 ### [Foxconn to strengthen operations in India, invest an additional $1.7 billion in Karnataka](https://www.firstpost.com/tech/foxconn-to-strengthen-operations-in-india-invest-an-additional-1-7-billion-in-karnataka-13499022.html)
 

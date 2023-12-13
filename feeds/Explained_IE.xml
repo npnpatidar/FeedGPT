@@ -5,6 +5,15 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Explained_IE.xml</link>
 		<description>Explained IE</description>
 		<item>
+			<title>How the 2001 Parliament attack unfolded — and what happened afterwards</title>
+			<link>https://indianexpress.com/article/explained/2001-parliament-attack-9066363/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Wed, 13 Dec 2023 08:27:51 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2023/12/ParliamentAttack.jpeg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2023/12/ParliamentAttack.jpeg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Kidney transplants in India: the law, the demand, the alleged rackets</title>
 			<link>https://indianexpress.com/article/explained/explained-health/kidney-transplants-in-india-the-law-the-demand-the-alleged-rackets-9065681/</link>
 			<description>Article found but Couldn't summarize</description>

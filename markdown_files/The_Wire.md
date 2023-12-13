@@ -1,3 +1,21 @@
+2023-12-13T14:30:07+05:30
+### [Prasanth Vijay's Film 'Daayam' Unravels Kerala's Gender Paradox Amidst Grief and Patriarchy](https://thewire.in/film/prasanth-vijays-film-daayam-unravels-keralas-gender-paradox-amidst-grief-and-patriarchy)
+
+No Article text 
+The film's immediate focus is Kamala Das's famous Malayalam short story, 'Neypaayasam'. It's a heart-wrenching account of the sudden death of a woman and the sweet dish she leaves behind being relished by her unsuspecting young children, with the devastated father looking on.
+
+2023-12-13T14:00:41+05:30
+### ['Constantly Conspiring': Hemant Soren After ED Summons CM for Sixth Time](https://thewire.in/government/constantly-conspiring-hemant-soren-after-ed-summons-cm-for-sixth-time)
+
+No Article text 
+The ED had asked him to present himself at its Ranchi office on December 12. Soren did not turn up and attended a Dumka function instead.
+
+2023-12-13T13:57:22+05:30
+### ['Security Breach': Two Men Enter Lok Sabha, Deploy Yellow Gas Canisters](https://thewire.in/government/parliament-security-breach-anniversary-slogan-dictatorship)
+
+No Article text 
+The incident has occurred on the anniversary of the 2001 attack on the parliament.
+
 2023-12-13T13:30:50+05:30
 ### [The Triumph of the Modi Model Rests on Three Key Weapons](https://thewire.in/politics/the-triumph-of-the-modi-model-rests-on-three-key-weapons)
 

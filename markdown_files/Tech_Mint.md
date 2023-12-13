@@ -1,3 +1,15 @@
+Wed, 13 Dec 2023 14:51:00 +0530
+### [10 best gaming laptops under  ₹60,000 from different brands](https://www.livemint.com/technology/gadgets/10-best-gaming-laptops-under-rs-60-000-from-different-brands-11702449434631.html)
+
+Article found but Couldn't summarize 
+10 best gaming laptops under  ₹60,000: Gaming laptops do not need to be expensive. We present to you a list of gaming laptops under  ₹60,000 that will help you enjoy all the latest games without breaking a sweat. Check out the list and choose on for yourself.
+
+Wed, 13 Dec 2023 14:37:29 +0530
+### [Google Maps is bringing THESE 5 privacy-focused upgrades on Android and iOS. Here's what you should know](https://www.livemint.com/technology/apps/google-maps-is-bringing-these-5-privacy-focused-upgrades-on-android-and-ios-heres-what-you-should-know-11702454674254.html)
+
+Article found but Couldn't summarize 
+Google Maps' Android and iOS app will soon comes with some new privacy-focused features which will provide users with more control over their personal data.
+
 Wed, 13 Dec 2023 11:41:50 +0530
 ### [10 best phones under  ₹25,000: Say hello to performance in budget](https://www.livemint.com/technology/gadgets/10-best-phones-under-rs-25-000-say-hello-to-performance-in-budget-11702384304823.html)
 
