@@ -1,3 +1,15 @@
+2023-12-13T13:30:50+05:30
+### [The Triumph of the Modi Model Rests on Three Key Weapons](https://thewire.in/politics/the-triumph-of-the-modi-model-rests-on-three-key-weapons)
+
+No Article text 
+The BJP's victory in the Hindu heartland states has once again demonstrated the devious means the party uses to skew the political environment for the opposition by misusing probe agencies and gaining undue benefit from electoral bonds scheme.
+
+2023-12-13T13:00:01+05:30
+### [Stubble-Burning Incidents Down by 54.2% in the Latest Paddy Harvesting Season: Centre](https://thewire.in/environment/stubble-burning-incidents-down-by-54-2-in-the-latest-paddy-harvesting-season-centre)
+
+No Article text 
+The number of incidents reduced from 13,964 (in 2022) to 6,391 (in 2023) during the September 15 to October 29 period across Punjab, Haryana, NCR-Uttar Pradesh, NCR-Rajasthan, and Delhi. Data suggests that 38% of the air pollution level is contributed by stubble burning.
+
 2023-12-13T12:30:45+05:30
 ### [Manipur CM Biren Singh Asks Mizoram Counterpart Lalduhoma to Stay Out of 'Internal Matters'](https://thewire.in/government/manipur-mizoram-biren-singh-lalduhoma-internal-matter)
 

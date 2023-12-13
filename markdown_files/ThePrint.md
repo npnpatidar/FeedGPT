@@ -1,3 +1,122 @@
+Wed, 13 Dec 2023 08:20:59 +0000
+### [Businessman dies after assault over road rage in Pune; three held](https://theprint.in/india/businessman-dies-after-assault-over-road-rage-in-pune-three-held/1884057/)
+
+Article found but Couldn't summarize 
+Pune, Dec 13 (PTI) A 30-year-old man from Pune died after he was assaulted by a group of people over road rage, an official said on Wednesday. The police have registered a case against 11 persons and arrested three of them, he said. Victim Abhishek Bhosale and the main accused Vilas Sakat got into an [&#8230;]
+
+Wed, 13 Dec 2023 08:20:57 +0000
+### [India’s Mahindra and Mahindra, investors to invest $105 million in unit](https://theprint.in/economy/indias-mahindra-and-mahindra-investors-to-invest-105-million-in-unit/1884056/)
+
+Article found but Couldn't summarize 
+BENGALURU (Reuters) - Indian automaker Mahindra and Mahindra said on Wednesday that the company, along with external investors, will invest 8.75 billion rupees ($105 million) in unit, Classic Legends,
+
+Wed, 13 Dec 2023 08:19:48 +0000
+### [Netflix comes out with viewership numbers, releases data for 18,000 titles](https://theprint.in/feature/netflix-comes-out-with-viewership-numbers-releases-data-for-18000-titles/1884054/)
+
+Article found but Couldn't summarize 
+Los Angeles, Dec 13 (PTI) In a big move towards transparency, streaming service Netflix has come out with viewership statistics for over 18 thousands titles for a six month period with &#8220;The Night Agent&#8221;, a spy series, topping the top-20 chart with 812.1 million hours views. In its first “What We Watched” report, covering the [&#8230;]
+
+Wed, 13 Dec 2023 08:19:42 +0000
+### [In Congo’s east, elections dominated by conflict and voter anger](https://theprint.in/world/in-congos-east-elections-dominated-by-conflict-and-voter-anger/1884053/)
+
+Article found but Couldn't summarize 
+By Djaffar Al Katanty GOMA, Democratic Republic of Congo (Reuters) - Conflict defined Ishara Bahati Yassin's childhood, forcing him time and again to flee his home in eastern Congo, where like
+
+Wed, 13 Dec 2023 08:18:17 +0000
+### [Treasury benches target health dept; Oppn walks out of assembly over death of 3 women in hospitals](https://theprint.in/india/treasury-benches-target-health-dept-oppn-walks-out-of-assembly-over-death-of-3-women-in-hospitals/1884051/)
+
+Article found but Couldn't summarize 
+Nagpur, Dec 13 (PTI) Members of the ruling alliance targeted the Maharashtra health department on Wednesday after opposition legislators in the assembly claimed three women died due to lack of proper treatment in state-run hospitals. The opposition members later staged a walkout from the House during the ongoing winter session of the state legislature here, [&#8230;]
+
+Wed, 13 Dec 2023 08:18:07 +0000
+### [Orban opposes Kyiv’s EU accession bid; not all Hungarians in Ukraine agree](https://theprint.in/world/orban-opposes-kyivs-eu-accession-bid-not-all-hungarians-in-ukraine-agree/1884050/)
+
+Article found but Couldn't summarize 
+By Olena Harmash UZHHOROD, Ukraine (Reuters) - Hungarian Prime Minister Viktor Orban says he will block Kyiv's bid to start membership talks with the European Union, citing corruption and the denial
+
+Wed, 13 Dec 2023 08:16:37 +0000
+### [ISRO to develop ECLSS for Gaganyaan mission after failing to get it from other countries: Somanath](https://theprint.in/india/isro-to-develop-eclss-for-gaganyaan-mission-after-failing-to-get-it-from-other-countries-somanath/1884048/)
+
+Article found but Couldn't summarize 
+Panaji, Dec 13 (PTI) ISRO chairman S Somanath on Wednesday said the space agency has decided to indigenously develop the environmental control and life support system (ECLSS) for the upcoming human space flight mission Gaganyaan, after it failed to get it from other countries. The Gaganyaan project envisages a demonstration of Indian Space Research Organisation&#8217;s [&#8230;]
+
+Wed, 13 Dec 2023 08:16:34 +0000
+### [Progressive Thai lawmaker sentenced to jail for insulting monarchy](https://theprint.in/world/progressive-thai-lawmaker-sentenced-to-jail-for-insulting-monarchy/1884047/)
+
+Article found but Couldn't summarize 
+BANGKOK (Reuters) - A court in Thailand sentenced an activist-turned-lawmaker to six years in prison on Wednesday for insulting the powerful monarchy and related offenses, over social media posts
+
+Wed, 13 Dec 2023 08:15:03 +0000
+### [Security breach in Indian parliament, man jumps into lawmakers’s area](https://theprint.in/india/security-breach-in-indian-parliament-man-jumps-into-lawmakerss-area/1884045/)
+
+Article found but Couldn't summarize 
+NEW DELHI (Reuters) - A man jumped into the lawmakers' area of the lower house of India's parliament on Wednesday, TV channels showed, in a major security breach on the 22nd anniversary of a deadly
+
+Wed, 13 Dec 2023 08:15:03 +0000
+### [Overhead water tank falls on platform at Bardhaman railway station in Bengal, 10 injured](https://theprint.in/india/overhead-water-tank-falls-on-platform-at-bardhaman-railway-station-in-bengal-10-injured/1884044/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 13 (PTI) At least 10 people were injured on Wednesday after a large overhead water tank fell on a platform of Bardhaman railway station in West Bengal, an ER official said. The injured persons were sent to Bardhaman Medical College and Hospital, he said. The large metal water tank fell on waiting passengers [&#8230;]
+
+Wed, 13 Dec 2023 08:04:02 +0000
+### [Soccer-Turkish referee leaves hospital with a black eye 36 hours after on-field attack](https://theprint.in/sport/soccer-turkish-referee-leaves-hospital-with-a-black-eye-36-hours-after-on-field-attack/1884036/)
+
+Article found but Couldn't summarize 
+ANKARA (Reuters) - The referee who was punched on the pitch by the head of a top-tier Turkish soccer club was released from hospital on Wednesday with a swollen eye but no other health issues, the
+
+Wed, 13 Dec 2023 08:02:45 +0000
+### [Superconductor claims are ‘baseless’ say South Korean experts](https://theprint.in/tech/superconductor-claims-are-baseless-say-south-korean-experts/1884032/)
+
+Article found but Couldn't summarize 
+By Hyunsu Yim SEOUL (Reuters) - A South Korean academic group said on Wednesday that claims by some researchers in the country that a practical superconductor had been discovered were "baseless",
+
+Wed, 13 Dec 2023 08:01:46 +0000
+### [COP28 president hails climate deal as ‘historic’](https://theprint.in/environment/cop28-president-hails-climate-deal-as-historic/1884030/)
+
+Article found but Couldn't summarize 
+DUBAI (Reuters) - COP28 President Sultan al-Jaber hailed a climate deal approved by almost 200 countries on Wednesday as an "historic package" of measures which offered a "robust plan" to keep the
+
+Wed, 13 Dec 2023 08:01:45 +0000
+### [Tourist drowns in swimming pool in Karnataka](https://theprint.in/india/tourist-drowns-in-swimming-pool-in-karnataka/1884029/)
+
+Article found but Couldn't summarize 
+Mangaluru, Dec 13 (PTI) A 30-year-old man drowned at the Mangala swimming pool here, police said. The man, identified as Abhishek Anand, had come from Gurugram and was touring the city. He had gone for a swim at the swimming pool on Tuesday evening. Though the lifeguards pulled him up from the deeper section of [&#8230;]
+
+Wed, 13 Dec 2023 08:01:15 +0000
+### [COP28’s final hours of climate negotiations](https://theprint.in/environment/cop28s-final-hours-of-climate-negotiations/1884027/)
+
+Article found but Couldn't summarize 
+DUBAI (Reuters) - The COP28 climate summit went into overtime Wednesday morning, with negotiators trying to reach a deal for this year's U.N. meeting. Reuters reporters were on the ground delivering
+
+Wed, 13 Dec 2023 08:01:15 +0000
+### [State govt will have zero tolerance towards corruption: Mizoram guv](https://theprint.in/india/state-govt-will-have-zero-tolerance-towards-corruption-mizoram-guv/1884026/)
+
+Article found but Couldn't summarize 
+Dec 13 (PTI) Mizoram Governor Hari Babu Kambhampati on Wednesday said the state government will have zero tolerance towards corruption. He said the mission to eliminate corruption from public life and government services will be steadfastly implemented. &#8220;My government is determined to rid the state of the scourge of corruption and will have zero tolerance [&#8230;]
+
+Wed, 13 Dec 2023 08:00:53 +0000
+### [Japan’s JERA to study ammonia supply to ships with NYK and Resonac](https://theprint.in/environment/japans-jera-to-study-ammonia-supply-to-ships-with-nyk-and-resonac/1884024/)
+
+As GPT-3.5, I can provide a summary of the article you shared. The article discusses Japan's top power generator, JERA, conducting a joint study with shipping major NYK Line and chemical company Resonac to supply ammonia to ships. This study is part of the efforts to expand the use of low-carbon fuel beyond power plants. Other shippers are also exploring ammonia as an alternative marine fuel to reduce emissions and meet decarbonization goals. The study will focus on safe operational methods, transportation, and creating rules for using ammonia as a marine fuel. Ammonia is produced from hydrogen and nitrogen and does not emit carbon dioxide when burned. JERA aims to extend ammonia supply to the shipping sector as part of its decarbonization goals. The company has been conducting various studies, including ammonia co-firing at coal-fired power plants in Japan, the Philippines, and Malaysia. Please note that this summary is based on the information provided in the article.
+
+Wed, 13 Dec 2023 08:00:50 +0000
+### [Two persons jump into Lok Sabha from public gallery, proceedings adjourned](https://theprint.in/india/two-persons-jump-into-lok-sabha-from-public-gallery-proceedings-adjourned/1884023/)
+
+Article found but Couldn't summarize 
+New Delhi Dec 13 (PTI) Two persons on Wednesday jumped into the Lok Sabha chamber from the public gallery, with Congress MP Adhir Ranjan Chowdhury saying they were carrying tear gas canisters. The House was adjourned soon after. One person was seen leaping over the benches of the Lok Sabha while another was seen dangling [&#8230;]
+
+Wed, 13 Dec 2023 08:00:27 +0000
+### [COP28: historic deal on a ‘transition away from fossil fuels’, adopted](https://theprint.in/world/cop28-historic-deal-on-a-transition-away-from-fossil-fuels-adopted/1884021/)
+
+Article found but Couldn't summarize 
+Dubai, Dec 13 (PTI) The Global Stocktake text, a historic deal on a &#8216;transition away from fossil fuels&#8217;, has been adopted at the final session of the annual climate talks COP28 without any objection here on Wednesday. The room burst into applause, as COP28 President Sultan al-Jaber gavelled through the agreement. The text of the [&#8230;]
+
+Wed, 13 Dec 2023 08:00:26 +0000
+### [Indonesian presidential hopeful Ganjar projects grassroots appeal as popularity slips](https://theprint.in/world/indonesian-presidential-hopeful-ganjar-projects-grassroots-appeal-as-popularity-slips/1884020/)
+
+Article found but Couldn't summarize 
+By Kate Lamb and Ananda Teresia JAKARTA (Reuters) - Indonesian presidential hopeful Ganjar Pranowo faces an uphill battle against rivals ahead of February's election but is pinning his hopes on an
+
 Wed, 13 Dec 2023 07:15:58 +0000
 ### [Cricket-Pakistan look to be positive against strong Australia team](https://theprint.in/sport/cricket-pakistan-look-to-be-positive-against-strong-australia-team/1883967/)
 

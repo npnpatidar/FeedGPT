@@ -1,3 +1,15 @@
+Wed, 13 Dec 2023 13:30:47 +0530
+### [Foxconn to strengthen operations in India, invest an additional $1.7 billion in Karnataka](https://www.firstpost.com/tech/foxconn-to-strengthen-operations-in-india-invest-an-additional-1-7-billion-in-karnataka-13499022.html)
+
+Article found but Couldn't summarize 
+Foxconn to strengthen operations in India, invest an additional $1.7 billion in Karnataka
+
+Wed, 13 Dec 2023 12:57:08 +0530
+### [X may miss revenue projection by $1.4 billion as Elon Musk keeps scaring advertisers away](https://www.firstpost.com/tech/x-may-miss-revenue-projection-by-1-4-billion-as-elon-musk-keeps-scaring-advertisers-away-13498822.html)
+
+Article found but Couldn't summarize 
+X may miss revenue projection by $1.4 billion as Elon Musk keeps scaring advertisers away
+
 Wed, 13 Dec 2023 12:11:42 +0530
 ### [Hackers can steal data from Android password managers, show IIIT Hyderabad researchers](https://www.firstpost.com/tech/hackers-can-steal-data-from-android-password-managers-show-iiit-hyderabad-researchers-13498482.html)
 

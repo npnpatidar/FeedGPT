@@ -1,3 +1,9 @@
+Wed, 13 Dec 2023 12:55:28 +0530
+### [Israel-Hamas war: How India has gone from abstaining on ceasefire vote to favouring it](https://www.firstpost.com/explainers/israel-hamas-war-how-india-has-gone-from-abstaining-on-ceasefire-vote-to-voting-in-favour-of-it-13498622.html)
+
+Article found but Couldn't summarize 
+Israel-Hamas war: How India has gone from abstaining on ceasefire vote to favouring it
+
 Wed, 13 Dec 2023 12:08:07 +0530
 ### [Mahadev betting app case: Who is Ravi Uppal, the app's founder arrested in Dubai?](https://www.firstpost.com/explainers/mahadev-betting-app-case-who-is-ravi-uppal-who-has-been-arrested-in-dubai-13497802.html)
 

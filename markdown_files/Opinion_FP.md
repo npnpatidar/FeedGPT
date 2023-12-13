@@ -1,3 +1,9 @@
+Wed, 13 Dec 2023 13:04:26 +0530
+### [Vantage | Why West Africa is going soft on Niger's coup leaders](https://www.firstpost.com/opinion/vantage-why-west-africa-is-going-soft-on-nigers-coup-leaders-13498852.html)
+
+Article found but Couldn't summarize 
+Vantage | Why West Africa is going soft on Niger's coup leaders
+
 Wed, 13 Dec 2023 12:22:22 +0530
 ### [Vantage | Why El Sisi is Egypt's, and world's, best bet in these times](https://www.firstpost.com/opinion/vantage-why-el-sisi-is-egypts-and-worlds-best-bet-in-these-times-13498532.html)
 
