@@ -1,3 +1,69 @@
+Wed, 13 Dec 2023 03:15:37 +0000
+### [Netball-Netball Australia end player pay dispute, new three-year deal inked](https://theprint.in/sport/netball-netball-australia-end-player-pay-dispute-new-three-year-deal-inked/1883729/)
+
+Article found but Couldn't summarize 
+(Reuters) - The months-long dispute between Netball Australia (NA) and Australian Netball Players Association (ANPA) over players' pay in the country's Super Netball professional league has ended with
+
+Wed, 13 Dec 2023 03:15:20 +0000
+### [Rupee eyes Fed rate projections after in-line U.S. inflation data](https://theprint.in/economy/rupee-eyes-fed-rate-projections-after-in-line-u-s-inflation-data/1883727/)
+
+Article found but Couldn't summarize 
+By Nimesh Vora MUMBAI (Reuters) - The Indian rupee is expected to have a quiet opening on Wednesday after U.S. inflation came broadly in-line with expectations, with traders now awaiting the Federal
+
+Wed, 13 Dec 2023 03:15:03 +0000
+### [Indian shares set to open higher; focus turns to Fed policy](https://theprint.in/india/indian-shares-set-to-open-higher-focus-turns-to-fed-policy/1883725/)
+
+Article found but Couldn't summarize 
+BENGALURU (Reuters) - India's benchmark Nifty 50 is set to open higher on Wednesday, as the focus turns to the U.S. Federal Reserve's policy decision, while domestic and U.S. data re-ignited inflation
+
+Wed, 13 Dec 2023 03:15:02 +0000
+### [Mohan Yadav to take oath as Madhya Pradesh CM; PM Modi, Amit Shah to attend ceremony](https://theprint.in/india/mohan-yadav-to-take-oath-as-madhya-pradesh-cm-pm-modi-amit-shah-to-attend-ceremony/1883724/)
+
+Article found but Couldn't summarize 
+Bhopal, Dec 13 (PTI) Mohan Yadav will take oath as chief minister of Madhya Pradesh here on Wednesday and the event will be attended by Prime Minister Narendra Modi, Union Home Minister Amit Shah and the chief ministers of BJP-ruled states among others, a party leader said. The state will also have two deputy chief [&#8230;]
+
+Wed, 13 Dec 2023 03:00:36 +0000
+### [What happens to cash seized in income tax raids? A look as Congress MP-linked ‘Rs 350cr’ op goes on](https://theprint.in/india/what-happens-to-cash-seized-in-income-tax-raids-a-look-as-congress-mp-linked-rs-350cr-op-goes-on/1883233/)
+
+Article found but Couldn't summarize 
+An income tax department operation under way for a week and counting has been in the news for seizures described as being34weds among the highest ever.
+
+Wed, 13 Dec 2023 02:46:05 +0000
+### [Soccer-Sixth-tier US Revel euphoric after drawing French Cup game versus PSG](https://theprint.in/sport/soccer-sixth-tier-us-revel-euphoric-after-drawing-french-cup-game-versus-psg/1883717/)
+
+Article found but Couldn't summarize 
+(Reuters) - The euphoric celebrations of US Revel after the sixth-tier club were drawn against the might of Paris St Germain in the French Cup this week showed what it means for amateur players just
+
+Wed, 13 Dec 2023 02:45:47 +0000
+### [Musk’s SpaceX value jumps closer to $180 billion in tender offer – Bloomberg News](https://theprint.in/tech/musks-spacex-value-jumps-closer-to-180-billion-in-tender-offer-bloomberg-news/1883715/)
+
+Article found but Couldn't summarize 
+(Reuters) -Elon Musk's SpaceX will sell insider shares at $97 apiece in a tender offer, a price increase that boosts the value of the space and satellite company closer to $180 billion, Bloomberg News
+
+Wed, 13 Dec 2023 02:45:29 +0000
+### [Asian stocks mixed ahead of Fed decision; oil prices slump](https://theprint.in/economy/asian-stocks-mixed-ahead-of-fed-decision-oil-prices-slump/1883713/)
+
+Article found but Couldn't summarize 
+By Rae Wee SINGAPORE (Reuters) - Asian shares were mixed on Wednesday, while oil prices slid to six-month lows as traders waited for the year's final policy decision from the Federal Reserve and clues
+
+Wed, 13 Dec 2023 02:45:18 +0000
+### [Oil holds soft tone on oversupply concerns, markets await Fed](https://theprint.in/economy/oil-holds-soft-tone-on-oversupply-concerns-markets-await-fed/1883711/)
+
+Article found but Couldn't summarize 
+By Colleen Howe BEIJING (Reuters) - Oil prices consolidated losses on Wednesday in Asian trade, after falling by more than 3% to six-month lows in the previous session on oversupply and demand
+
+Wed, 13 Dec 2023 02:45:06 +0000
+### [Gold holds tight range as traders strap in for Fed verdict](https://theprint.in/economy/gold-holds-tight-range-as-traders-strap-in-for-fed-verdict/1883709/)
+
+Article found but Couldn't summarize 
+By Brijesh Patel (Reuters) - Gold prices traded in a narrow range on Wednesday as investors refrained from making big bets ahead of the U.S. Federal Reserve's interest rate decision and policy outlook
+
+Wed, 13 Dec 2023 02:41:05 +0000
+### [Ayodhya is being rebooted, rebuilt, & reimagined— Gen Z pilgrims, luxury hotels, 3D shows](https://theprint.in/ground-reports/ayodhya-is-being-rebooted-rebuilt-reimagined-gen-z-pilgrims-luxury-hotels-3d-shows/1883259/)
+
+Article found but Couldn't summarize 
+Ayodhya is the ultimate 21st-century pilgrim town with its wide roads,  international airport, and ‘uniform’ aesthetic. You can enjoy pizza on the ghats while watching Ram and Sita in 3D.
+
 Wed, 13 Dec 2023 02:16:24 +0000
 ### [South Korea to provide $29 billion to support battery industry over 5 years](https://theprint.in/tech/south-korea-to-provide-29-billion-to-support-battery-industry-over-5-years/1883706/)
 

@@ -1,3 +1,9 @@
+Wed, 13 Dec 2023 08:30:00 +0530
+### [What are the implications of recent Argentine elections?](https://www.thehindu.com/news/international/what-are-the-implications-of-recent-argentine-elections/article67631946.ece)
+
+Article found but Couldn't summarize 
+Who is Javier Milei, the new President of Argentina? What are the regional ramifications of his leadership? What does this mean for Peronism?
+
 Tue, 12 Dec 2023 21:40:10 +0530
 ### [A brief history of the term ‘Urbicide’](https://www.thehindu.com/news/international/a-brief-history-of-the-term-urbicide/article67576893.ece)
 

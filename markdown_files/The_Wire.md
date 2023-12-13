@@ -1,3 +1,9 @@
+2023-12-13T08:21:03+05:30
+### [India Joins 80% of the World to Pass UNGA Resolution on Immediate Ceasefire in Gaza](https://thewire.in/world/india-votes-in-favour-of-unga-resolution-calling-for-immediate-ceasefire-in-gaza)
+
+No Article text 
+With 153 votes in favour, nearly 80% of the UN’s member states voted in favour of the resolution “Protection of civilians and upholding legal and humanitarian obligations”.
+
 2023-12-12T23:23:14+05:30
 ### [Rajya Sabha Passes Bill To Appoint Election Commissioners, Opposition Walks Out](https://thewire.in/government/rajya-sabha-passes-bill-election-commissioners-opposition-appointment)
 
