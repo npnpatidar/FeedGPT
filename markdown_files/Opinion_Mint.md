@@ -1,3 +1,20 @@
+Wed, 13 Dec 2023 08:00:09 +0530
+### [Stock trek: Valuations are going where nobody has gone before](https://www.livemint.com/opinion/online-views/stock-trek-valuations-are-going-where-nobody-has-gone-before-11702395353440.html)
+
+Hmm, based on the provided text, it seems that the Indian stock market has experienced a change in direction since the end of October. The BSE Sensex, which is India's premier stock market index, has risen by approximately 9% during this period. This change in direction can be attributed to the behavior of foreign institutional investors (FIIs). In September and October, FIIs sold stocks worth ₹39,316 crore, but from November 1st to December 12th, they have bought stocks worth ₹40,372 crore. Additionally, domestic institutional investors have continued to buy stocks, offsetting the FII sales. The falling yield on the 10-year US Treasury bond since the end of October may have influenced the behavior of FIIs. As the bond market discounts the possibility of inflation being under control in the US and the US Federal Reserve cutting interest rates, FIIs are seeking higher returns and investing in Indian stocks. This has led to a rally in large-cap and mid-cap stocks, as well as a significant rise in the price of small-cap stocks. The valuations of small-cap stocks, measured by their price-to-earnings (PE) ratios, have reached very high levels. It is worth noting that retail investors have been showing interest in small-cap stocks, with net inflows into small-cap mutual funds. However, it is important for investors to diversify their investments across different categories of stocks and avenues to mitigate risks.
+
+Wed, 13 Dec 2023 08:00:09 +0530
+### [It is time to flag bull market risks of asset price inflation](https://www.livemint.com/opinion/online-views/it-is-time-to-flag-bull-market-risks-of-asset-price-inflation-11702395291378.html)
+
+Article found but Couldn't summarize 
+A stock market in the grip of over-exuberance should attract RBI’s attention as emerging asset-price bubbles risk spilling over into retail-level inflation through second-order effects.
+
+Wed, 13 Dec 2023 08:00:08 +0530
+### [The BJP has a surprise trio of CMs](https://www.livemint.com/opinion/quick-edit/the-bjp-has-a-surprise-trio-of-cms-11702387343400.html)
+
+Article found but Couldn't summarize 
+The party is doubling down on offering fresh leadership at the state level, but for its ‘double-engine’ model to work, its chief ministers will have to pull their own weight too.
+
 Tue, 12 Dec 2023 22:41:44 +0530
 ### [Sebi paper holds out big hope for private debt issuers and retail investors](https://www.livemint.com/opinion/columns/sebi-paper-holds-out-big-hope-for-private-debt-issuers-and-retail-investors-11702400860550.html)
 

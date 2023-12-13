@@ -1,3 +1,9 @@
+Wed, 13 Dec 2023 07:13:34 +0530
+### [iQOO 12 with Snapdragon 8 Gen 3 SoC launched in India. Check price, specs, launch offers and more](https://www.livemint.com/technology/gadgets/iqoo-12-with-snapdragon-8-gen-3-soc-launched-in-india-check-price-specs-launch-offers-and-more-11702428675395.html)
+
+Article found but Couldn't summarize 
+iQOO 12 with the Snapdragon 8 Gen 3 chipset starts at a price of  ₹53,000 in India and will likely give tough comeptition to the OnePlus 12 when it launches in the country.
+
 Tue, 12 Dec 2023 18:16:28 +0530
 ### [5 best monitor brands: Explore top 10 models for immersive picture quality](https://www.livemint.com/technology/gadgets/5-best-monitor-brands-explore-top-10-models-for-immersive-picture-quality-11702374155056.html)
 

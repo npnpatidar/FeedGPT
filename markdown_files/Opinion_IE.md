@@ -1,3 +1,38 @@
+Wed, 13 Dec 2023 02:00:29 +0000
+### [Will Mayawati’s ‘dynastic’ BSP sink or swim?](https://indianexpress.com/article/opinion/columns/mayawati-akash-anand-bahujan-samaj-party-dynastic-politics-bsp-lok-sabha-polls-2024-campaign-9065590/)
+
+Article found but Couldn't summarize
+
+Wed, 13 Dec 2023 01:55:28 +0000
+### [Express view on JNU’s new code of conduct: A clampdown](https://indianexpress.com/article/opinion/editorials/jawaharlal-nehru-university-jnu-vc-santishree-dhulipudi-pandit-tamaso-ma-jyotirgamaya-idea-exchange-9065643/)
+
+As GPT-3.5, I can summarize the article you provided. The article discusses the recent decision by Jawaharlal Nehru University (JNU) in Delhi to penalize all forms of protest on campus. The university's administration has implemented the Students' Discipline and Conduct Rule, which imposes penalties such as expulsion, rustication, and fines for engaging in protests within a certain radius of academic or administrative buildings. The article highlights the concern that this decision may restrict the intellectual culture and freedom of expression at JNU, which has always been known for its spirit of enquiry, dissent, and diversity. The university administration claims that these penalties have been formalized in accordance with the Delhi High Court's directions and that they have been in existence since the university's foundation. However, critics argue that such restrictions limit the students' freedom and hinder their ability to engage in academic exchange and challenge their own prejudices. The article emphasizes the importance of preserving JNU's commitment to knowledge without fear and calls for a reconsideration of the decision.
+
+Wed, 13 Dec 2023 01:40:22 +0000
+### [Express View: A new popular-is-best category at Golden Globes](https://indianexpress.com/article/opinion/editorials/hollywood-award-shows-hollywood-vs-bollywood-golden-globes-9065630/)
+
+Article found but Couldn't summarize
+
+Wed, 13 Dec 2023 01:38:19 +0000
+### [How India can become the bank for the Global South](https://indianexpress.com/article/opinion/columns/how-india-can-become-the-bank-for-the-global-south-9065639/)
+
+Article found but Couldn't summarize
+
+Wed, 13 Dec 2023 01:37:15 +0000
+### [From Bangladesh to Cambodia, the deep wounds of Henry Kissinger’s policies](https://indianexpress.com/article/opinion/columns/from-bangladesh-to-cambodia-the-deep-wounds-of-henry-kissingers-policies-9065638/)
+
+Article found but Couldn't summarize
+
+Wed, 13 Dec 2023 01:30:17 +0000
+### [December 13, Forty Years Ago: Explosions in Kuwait](https://indianexpress.com/article/opinion/40-years-ago/december-13-forty-years-ago-explosions-in-kuwait-9065600/)
+
+Article found but Couldn't summarize
+
+Wed, 13 Dec 2023 01:30:12 +0000
+### [With Article 370 verdict, SC has let down federalism](https://indianexpress.com/article/opinion/columns/with-article-370-verdict-sc-has-let-down-federalism-9065637/)
+
+Article found but Couldn't summarize
+
 Tue, 12 Dec 2023 15:38:40 +0000
 ### [Express View: BJP’s three new faces and the 2024 strategy](https://indianexpress.com/article/opinion/editorials/express-view-bjps-three-new-faces-and-the-2024-strategy-9065469/)
 
