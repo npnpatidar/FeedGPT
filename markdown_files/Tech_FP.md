@@ -1,3 +1,9 @@
+Wed, 13 Dec 2023 16:52:45 +0530
+### [Not enough intelligence for AI: IT Minister Chandrasekhar calls for academic institutions to deliver](https://www.firstpost.com/tech/not-enough-intelligence-for-ai-it-minister-chandrasekhar-calls-for-academic-institutions-to-deliver-13500172.html)
+
+Article found but Couldn't summarize 
+Not enough intelligence for AI: IT Minister Chandrasekhar calls for academic institutions to deliver
+
 Wed, 13 Dec 2023 16:23:46 +0530
 ### [US agencies want anti-drunk-driving tech in cars but &quot;complicated rulemaking&quot; stands in the way](https://www.firstpost.com/tech/us-agencies-want-anti-drunk-driving-tech-in-cars-but-complicated-rulemaking-stands-in-the-way-13499972.html)
 

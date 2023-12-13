@@ -4,6 +4,12 @@ Wed, 13 Dec 2023 16:23:52 +0530
 Article found but Couldn't summarize 
 Settling for 8%, down from 10%, as India's aspirational GDP growth rate is unnecessary
 
+Wed, 13 Dec 2023 16:23:52 +0530
+### [Why India should aspire for 10% GDP growth, not 8%](https://www.livemint.com/opinion/online-views/why-india-should-aspire-for-10-gdp-growth-not-8-11702464536625.html)
+
+Article found but Couldn't summarize 
+Settling for 8%, down from 10%, as India's aspirational GDP growth rate is unnecessary
+
 Wed, 13 Dec 2023 12:13:47 +0530
 ### [Why Shivraj Chouhan could be a good fit as India’s food and agriculture minister](https://www.livemint.com/politics/why-shivraj-chouhan-could-be-a-good-fit-as-india-s-food-and-agriculture-minister-11702449439515.html)
 

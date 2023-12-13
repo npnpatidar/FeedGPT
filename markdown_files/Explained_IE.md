@@ -1,3 +1,18 @@
+Wed, 13 Dec 2023 12:31:57 +0000
+### [Parliament security breach: Who is BJP MP Pratap Simha, who issued visitor passes for the accused; how they are issued](https://indianexpress.com/article/explained/parliament-security-breach-who-is-bjp-mp-pratap-simha-visitor-passes-how-they-are-issued-9066921/)
+
+Article found but Couldn't summarize
+
+Wed, 13 Dec 2023 12:03:56 +0000
+### [How Russia’s tallest opposition leader has ‘vanished’ from prison](https://indianexpress.com/article/explained/explained-global/russia-navalny-vanished-prison-putin-9066766/)
+
+Article found but Couldn't summarize
+
+Wed, 13 Dec 2023 11:36:44 +0000
+### [Revised criminal reform Bills in Parliament: What has changed, and why](https://indianexpress.com/article/explained/explained-law/revised-criminal-reform-bills-in-parliament-what-changed-why-9066678/)
+
+Article found but Couldn't summarize
+
 Wed, 13 Dec 2023 08:27:51 +0000
 ### [How the 2001 Parliament attack unfolded — and what happened afterwards](https://indianexpress.com/article/explained/2001-parliament-attack-9066363/)
 

@@ -1,3 +1,21 @@
+2023-12-13T18:07:11+05:30
+### [Retail Inflation Rises to 5.55% in November](https://thewire.in/economy/retail-inflation-rises-to-5-55-in-november)
+
+No Article text 
+This is likely caused by food price increase. Since August, inflation had been on a decline.
+
+2023-12-13T18:01:44+05:30
+### [Pranab Mukherjee, the Best Prime Minister India Never Had](https://thewire.in/books/pranab-mukherjee-the-best-prime-minister-india-never-had)
+
+No Article text 
+Sharmistha Mukherjee's book 'Pranab, My Father: A Daughter Remembers' brings to the fore observations and apprehensions recorded in the former president's personal diary, which were never made public during his lifetime.
+
+2023-12-13T17:15:44+05:30
+### [BJP's Leadership Shuffle: Generational Change or Modi's Strategy for a Return to Power?](https://thewire.in/politics/bjp-leadership-shuffle-generational-change-strategy-for-modi-return)
+
+No Article text 
+Significantly, all the 'sidelined' leaders – Shivraj Chouhan, Sushil Modi, Vasundhara Raje, and Raman Singh – are much younger than 75, the age that the Modi-Shah duo has set for 'retiring' from politics. In fact, they are much younger than Modi.
+
 2023-12-13T16:30:58+05:30
 ### [In October, India Paid Over $20/Barrel More Than West's Price Cap For Russian Crude: Report](https://thewire.in/trade/india-paid-84-20-per-barrel-russian-crude-oil-highest-since-west-sanctions-last-year)
 

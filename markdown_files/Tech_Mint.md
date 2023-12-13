@@ -1,3 +1,9 @@
+Wed, 13 Dec 2023 18:11:50 +0530
+### [‘In this video it isn’t me…': Zerodha's Nithin Kamath shares his own deepfake video](https://www.livemint.com/technology/tech-news/in-this-video-it-isn-t-me-zerodhas-nithin-kamath-shares-his-own-deepfake-video-11702470236503.html)
+
+Article found but Couldn't summarize 
+Zerodha CEO Nithin Kamath expressed concerns regarding the growing threat posed by AI technology and deepfakes to the financial services industry. However, the video clip took a shocking turn when Kamath revealed that the person in the video was not him but a deepfake
+
 Wed, 13 Dec 2023 16:47:20 +0530
 ### [10 best OTGs under  ₹10,000 for budget conscious buyers](https://www.livemint.com/technology/gadgets/10-best-otgs-under-rs-10-000-for-budget-conscious-buyers-11702461926124.html)
 

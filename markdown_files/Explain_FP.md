@@ -1,3 +1,21 @@
+Wed, 13 Dec 2023 18:03:19 +0530
+### [Who are the five people who were behind the Lok Sabha breach?](https://www.firstpost.com/explainers/who-are-the-five-people-who-were-behind-the-lok-sabha-breach-13500542.html)
+
+Article found but Couldn't summarize 
+Who are the five people who were behind the Lok Sabha breach?
+
+Wed, 13 Dec 2023 17:20:14 +0530
+### ['They jumped from the gallery': How the Lok Sabha breach took place as told by MPs](https://www.firstpost.com/explainers/lok-sabha-security-breach-mps-intruders-parliament-winter-session-13500032.html)
+
+Article found but Couldn't summarize 
+'They jumped from the gallery': How the Lok Sabha breach took place as told by MPs
+
+Wed, 13 Dec 2023 17:11:30 +0530
+### [That's Dope: What is the Netherlands' trial project which will legalise all cannabis?](https://www.firstpost.com/explainers/thats-dope-what-is-the-netherlands-trial-project-which-will-legalise-all-cannabis-13500162.html)
+
+Article found but Couldn't summarize 
+That's Dope: What is the Netherlands' trial project which will legalise all cannabis?
+
 Wed, 13 Dec 2023 16:00:16 +0530
 ### [What is the 'mistake of Oslo' that Benjamin Netanyahu brought up?](https://www.firstpost.com/explainers/what-is-the-mistake-of-oslo-that-benjamin-netanyahu-brought-up-13499922.html)
 

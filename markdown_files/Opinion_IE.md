@@ -1,3 +1,8 @@
+Wed, 13 Dec 2023 10:58:43 +0000
+### [From America to India: Academic freedom is misunderstood](https://indianexpress.com/article/opinion/columns/from-america-to-india-academic-freedom-is-misunderstood-9066660/)
+
+Article found but Couldn't summarize
+
 Wed, 13 Dec 2023 08:51:37 +0000
 ### [With BJP’s three new faces, a new chapter for social justice in India](https://indianexpress.com/article/opinion/columns/bjps-three-new-faces-chapter-social-justice-india-9066393/)
 
