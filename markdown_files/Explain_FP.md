@@ -1,3 +1,9 @@
+Wed, 13 Dec 2023 12:08:07 +0530
+### [Mahadev betting app case: Who is Ravi Uppal, the app's founder arrested in Dubai?](https://www.firstpost.com/explainers/mahadev-betting-app-case-who-is-ravi-uppal-who-has-been-arrested-in-dubai-13497802.html)
+
+Article found but Couldn't summarize 
+Mahadev betting app case: Who is Ravi Uppal, the app's founder arrested in Dubai?
+
 Wed, 13 Dec 2023 10:33:10 +0530
 ### [From 'phase out' to 'transitioning away': The COP28's new proposal on fossil fuels](https://www.firstpost.com/explainers/from-phase-out-to-transitioning-away-the-cop28s-new-proposal-on-fossil-fuels-13497842.html)
 

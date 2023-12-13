@@ -1,3 +1,21 @@
+2023-12-13T12:30:45+05:30
+### [Manipur CM Biren Singh Asks Mizoram Counterpart Lalduhoma to Stay Out of 'Internal Matters'](https://thewire.in/government/manipur-mizoram-biren-singh-lalduhoma-internal-matter)
+
+No Article text 
+'Unfortunately, I have seen comments from the newly elected chief minister of Mizoram that state police shouldn’t harass his people in Moreh.'
+
+2023-12-13T12:17:27+05:30
+### [Watch: What Is it Like to Be a Muslim in 'Hindu India'?](https://thewire.in/communalism/ziya-us-salam-karan-thapar-muslim-hindu-india)
+
+No Article text 
+How do Muslims respond to the abusive terms and pejorative taunts we use for them? Ziya Us Salam attempts to answer.
+
+2023-12-13T12:05:58+05:30
+### [Sanjay Raut Booked for 'Anti-Modi' Article Under Sedition Law, Currently Kept in Abeyance](https://thewire.in/politics/sanjay-raut-booked-for-anti-modi-article-under-sedition-law-currently-kept-in-abeyance)
+
+No Article text 
+An FIR was booked against Shiv Sena (UBT) leader based on a complaint lodged by a BJP functionary, who said that the former had written an 'objectionable' piece against Prime Minister Narendra Modi in 'Saamana'.
+
 2023-12-13T11:49:48+05:30
 ### [What Is Holding South Asia Back While Other Asian Economies Flourish?](https://thewire.in/south-asia/what-is-holding-south-asia-back-while-other-asian-economies-flourish)
 

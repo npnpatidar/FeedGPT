@@ -1,3 +1,9 @@
+Wed, 13 Dec 2023 12:11:42 +0530
+### [Hackers can steal data from Android password managers, show IIIT Hyderabad researchers](https://www.firstpost.com/tech/hackers-can-steal-data-from-android-password-managers-show-iiit-hyderabad-researchers-13498482.html)
+
+Article found but Couldn't summarize 
+Hackers can steal data from Android password managers, show IIIT Hyderabad researchers
+
 Wed, 13 Dec 2023 11:12:31 +0530
 ### [Lenovo Tab P12 Review: A practical, value-for-money Android tablet that just clicks](https://www.firstpost.com/tech/lenovo-tab-p12-review-a-practical-value-for-money-android-tablet-that-just-clicks-13498112.html)
 
