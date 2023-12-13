@@ -5,6 +5,15 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Tech_Mint.xml</link>
 		<description>Tech Mint</description>
 		<item>
+			<title>WhatsApp now allows users to pin messages. Here's how to use the new feature</title>
+			<link>https://www.livemint.com/technology/apps/whatsapp-now-allows-users-to-pin-messages-heres-how-to-use-the-new-feature-11702441874349.html</link>
+			<description>As GPT-3.5, I can provide you with information about pinning messages on WhatsApp. Users can pin any type of message in a conversation, including text, polls, and emojis. To pin a message, you can go to the menu, click on 'Pin,' and select the duration for the pinned message. On an iPhone, you can swipe right on the chat you want to pin, and on Android, you can hold the chat you want to pin. Group admins have the option to choose whether only admins or all members can pin a message. It's not yet clear if the pin chat feature will be available for WhatsApp Channels. Other messaging apps like iMessage and Telegram already offer the ability to pin messages for individual and group chats. WhatsApp has been adding new features, including the recent release of 'View Once Voice Messages' for sharing sensitive information via voice messages. Additionally, WhatsApp is working on improving its integration with Instagram to allow users to share status updates directly as stories.</description>
+			<pubDate>Wed, 13 Dec 2023 10:35:07 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://www.livemint.com/lm-img/img/2023/12/13/1600x900/2-0-1238292641-RTX3G546-0_1679617304050_1702443656484.jpg"></media:thumbnail>
+			<media:content url="https://www.livemint.com/lm-img/img/2023/12/13/1600x900/2-0-1238292641-RTX3G546-0_1679617304050_1702443656484.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Apple adds new Stolen Device Protection with iOS 17.3 beta. What is it and how does it work?</title>
 			<link>https://www.livemint.com/technology/tech-news/apple-adds-new-stolen-device-protection-with-ios-17-3-beta-what-is-it-and-how-does-it-work-11702435957732.html</link>
 			<description>Stolen Device Protection is a new feature introduced by Apple in the iOS 17.3 beta. It is designed to protect users in case their iPhone is stolen and the thief knows the password. To enable Stolen Device Protection, users can navigate to the Face ID and Passcode settings in the iOS 17.3 Beta. The stable version of the upgrade is expected to be available to all users in January or February. Once enabled, users will need to use Face ID or Touch ID to perform various tasks, such as viewing passwords stored in iCloud Keychain, applying for a new Apple Card, turning off Lost Mode, resetting the device to factory settings, and using stored payment information in Safari. Apple is also adding a one-hour delay followed by Face ID or Touch ID verification for sensitive tasks like changing the Apple ID password or iPhone passcode. However, there will be no delay for these tasks if they are performed in familiar places like home or office.</description>

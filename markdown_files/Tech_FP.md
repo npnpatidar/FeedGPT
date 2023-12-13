@@ -1,3 +1,9 @@
+Wed, 13 Dec 2023 09:56:46 +0530
+### [‘India to soon launch AI missions for agriculture, healthcare’: PM Modi at GPAI Summit 2023](https://www.firstpost.com/tech/india-to-launch-ai-missions-soon-for-agriculture-healthcare-pm-modi-at-gpai-summit-2023-13497832.html)
+
+Article found but Couldn't summarize 
+‘India to soon launch AI missions for agriculture, healthcare’: PM Modi at GPAI Summit 2023
+
 Tue, 12 Dec 2023 16:40:41 +0530
 ### [Apple’s iOS 17.2 for iPhones brings tons of new features and a special ability for iPhone 15 Pro Max](https://www.firstpost.com/tech/apples-ios-17-point-2-for-iphones-brings-tons-of-new-features-and-a-special-ability-for-iphone-15-pro-max-13495412.html)
 

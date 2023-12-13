@@ -1,3 +1,9 @@
+Wed, 13 Dec 2023 09:55:07 +0530
+### [When ‘from river to the sea’ is wrong, but ‘Bharat tere tukde honge’ is right: Of ‘free speech’, duplicity and hypocrisy](https://www.firstpost.com/opinion/when-from-river-to-the-sea-is-wrong-but-bharat-tere-tukde-honge-is-right-of-free-speech-duplicity-and-hypocrisy-13497732.html)
+
+Article found but Couldn't summarize 
+When ‘from river to the sea’ is wrong, but ‘Bharat tere tukde honge’ is right: Of ‘free speech’, duplicity and hypocrisy
+
 Tue, 12 Dec 2023 22:17:23 +0530
 ### [Year Ender 2023: With Ranbir Kapoor’s Animal a success, toxic masculinity rules Bollywood](https://www.firstpost.com/entertainment/year-ender-2023-with-ranbir-kapoors-animal-a-success-toxic-masculinity-rules-bollywood-13493692.html)
 

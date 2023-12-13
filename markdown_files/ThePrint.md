@@ -1,3 +1,122 @@
+Wed, 13 Dec 2023 05:15:57 +0000
+### [Soccer-Referee made mistake by stopping play for foul on Haaland: Webb](https://theprint.in/sport/soccer-referee-made-mistake-by-stopping-play-for-foul-on-haaland-webb/1883825/)
+
+Article found but Couldn't summarize 
+(Reuters) - Referees body (PGMOL) chief Howard Webb said the official in charge of Manchester City's 3-3 draw with Tottenham Hotspur on Dec. 3 made a mistake by not allowing play to continue after a
+
+Wed, 13 Dec 2023 05:15:36 +0000
+### [Rebel alliance reaffirms commitment to ending Myanmar ‘dictatorship’](https://theprint.in/world/rebel-alliance-reaffirms-commitment-to-ending-myanmar-dictatorship/1883824/)
+
+Article found but Couldn't summarize 
+(Reuters) - An alliance of ethnic minority insurgent groups in Myanmar on Wednesday reaffirmed its commitment to defeat the country's "dictatorship", days after the ruling military said it held
+
+Wed, 13 Dec 2023 05:15:25 +0000
+### [UN seeks to counter Western anti-refugee rhetoric at major forum](https://theprint.in/world/un-seeks-to-counter-western-anti-refugee-rhetoric-at-major-forum/1883822/)
+
+Article found but Couldn't summarize 
+By Emma Farge GENEVA (Reuters) - Thousands of U.N. officials, politicians, aid and business groups meet in Geneva on Wednesday to seek solutions to a record displacement crisis as the U.N. refugee
+
+Wed, 13 Dec 2023 05:15:23 +0000
+### [Leopard cub found dead in Delhi’s Alipur; accident suspected](https://theprint.in/india/leopard-cub-found-dead-in-delhis-alipur-accident-suspected/1883820/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 13 (PTI) A leopard cub was found dead on National Highway 44 near the Khatushyam temple in outer-north Delhi&#8217;s Alipur in the early hours of Wednesday, police said. Police received a call about it around 4 am, they said. A police team reached the spot and found the animal&#8217;s body, an official [&#8230;]
+
+Wed, 13 Dec 2023 05:15:15 +0000
+### [More than 50 injured as 10 Russian ballistic missiles target Kyiv -Ukraine](https://theprint.in/world/more-than-50-injured-as-10-russian-ballistic-missiles-target-kyiv-ukraine/1883819/)
+
+Article found but Couldn't summarize 
+By Sergiy Karazy and Valentyn Ogirenko KYIV (Reuters) -Russia's second missile assault on Kyiv this week injured at least 51 people and damaged homes and a children's hospital, Ukrainian officials
+
+Wed, 13 Dec 2023 05:15:13 +0000
+### [India has a unique vantage position on how AI could play out in the Global South: UN Tech Envoy](https://theprint.in/world/india-has-a-unique-vantage-position-on-how-ai-could-play-out-in-the-global-south-un-tech-envoy/1883818/)
+
+Article found but Couldn't summarize 
+New York, Dec 13 (PTI) India&#8217;s successful experience of building digital public infrastructure at scale has a unique vantage position on how Artificial Intelligence could play out in the Global South, UN Secretary-General’s Envoy on Technology Amandeep Singh Gill has said. India&#8217;s experience in tackling the potential risks and challenges would also be of global [&#8230;]
+
+Wed, 13 Dec 2023 05:15:03 +0000
+### [‘Our challenge in this extraordinarily difficult time is to strike the right balance’: Indian Amb Kamboj](https://theprint.in/world/our-challenge-in-this-extraordinarily-difficult-time-is-to-strike-the-right-balance-indian-amb-kamboj/1883816/)
+
+Article found but Couldn't summarize 
+United Nations, Dec 13 (PTI) India, voting in favour of a General Assembly resolution demanding an immediate humanitarian ceasefire in Gaza, has said the challenge in “this extraordinarily difficult time” is to strike the &#8220;right balance&#8221;. The 193-member UN General Assembly overwhelmingly adopted the draft resolution at an emergency special session on Tuesday, with 153 [&#8230;]
+
+Wed, 13 Dec 2023 05:15:02 +0000
+### [IT drives losses in Indian shares ahead of Fed policy outcome](https://theprint.in/india/it-drives-losses-in-indian-shares-ahead-of-fed-policy-outcome/1883815/)
+
+Article found but Couldn't summarize 
+By Bharath Rajeswaran BENGALURU (Reuters) -India's benchmark indexes fell on Wednesday, dragged by information technology (IT) stocks following inflation concerns from U.S. data, while Asian peers
+
+Wed, 13 Dec 2023 05:12:05 +0000
+### [India has a problem of guesstimating crop stocks & consumption. 3 new govt projects will help](https://theprint.in/opinion/india-has-a-problem-of-guesstimating-crop-stocks-consumption-3-new-govt-projects-will-help/1883797/)
+
+Article found but Couldn't summarize 
+When these new initiatives become fully operational at the national level, India is likely to receive robust, near-real-time production estimates.
+
+Wed, 13 Dec 2023 05:00:35 +0000
+### [Autorickshaw in viral Signature Bridge stunt video impounded](https://theprint.in/india/autorickshaw-in-viral-signature-bridge-stunt-video-impounded/1883807/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 13 (PTI) Police have impounded an autorickshaw seen in a recent video of a man performing stunts while travelling in the vehicle and hitting a cyclist on north Delhi&#8217;s Signature Bridge, officials said on Wednesday. &#8220;The autorickshaw in question and its driver Shiva of Ghaziabad have been traced by traffic personnel of [&#8230;]
+
+Wed, 13 Dec 2023 05:00:24 +0000
+### [COP28: ‘Global Goal on Adaptation’ draft shifts focus, emphasises urgent support for developing countries post-Paris agreement](https://theprint.in/world/cop28-global-goal-on-adaptation-draft-shifts-focus-emphasises-urgent-support-for-developing-countries-post-paris-agreement/1883805/)
+
+Article found but Couldn't summarize 
+Dubai, Dec 13 (PTI) The new draft of the &#8216;Global Goal on Adaptation&#8217; released after the last day of COP28 removed a key part requesting developed countries to provide specific support to developing countries and instead, it emphasises the urgent need for continuous and enhanced international support to developing countries, following the Paris Agreement. This [&#8230;]
+
+Wed, 13 Dec 2023 05:00:13 +0000
+### [PM Modi pays tributes to those killed in 2001 Parliament attack](https://theprint.in/india/pm-modi-pays-tributes-to-those-killed-in-2001-parliament-attack/1883804/)
+
+GPT-3.5: On this day in 2001, terrorists attacked the Parliament, and Prime Minister Narendra Modi paid tributes to the brave security personnel who sacrificed their lives in the attack. He emphasized their courage and sacrifice, which will always be remembered by our nation. The ceremony held at the Parliament House was attended by Lok Sabha Speaker Om Birla, Home Minister Amit Shah, and other dignitaries. The attack resulted in the loss of nine lives, including eight security personnel, and all five Pakistan-sponsored terrorists were killed.
+
+Wed, 13 Dec 2023 05:00:03 +0000
+### [Vice President, PM, Parliamentarians pay tributes to Parliament attack victims](https://theprint.in/india/vice-president-pm-parliamentarians-pay-tributes-to-parliament-attack-victims/1883803/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 13 (PTI) Vice President Jagdeep Dhankhar, Prime Minister Narendra Modi and Lok Sabha Speaker Om Birla on Wednesday led the nation in paying tributes to those who laid down their lives in the 2001 terror attack on Parliament. Congress leaders Sonia Gandhi and Mallikarjun Kharge, Home Minister Amit Shah, Parliamentary Affairs Minister [&#8230;]
+
+Wed, 13 Dec 2023 04:53:46 +0000
+### [New draft criminal law bill broadens definition of terrorism, now includes ‘threat to economic security’](https://theprint.in/india/new-draft-criminal-bill-broadens-definition-of-terrorism-now-includes-threat-to-economic-security/1883721/)
+
+Article found but Couldn't summarize 
+Revised Bharatiya Nyaya Sanhita includes 'destruction of property in a foreign country', 'threat to economic security' as acts of terror, replaces the term mental illness with 'unsound mind'.
+
+Wed, 13 Dec 2023 04:46:34 +0000
+### [Cricket-Cricket Australia expects Khawaja to abide by rules in Gaza support](https://theprint.in/sport/cricket-cricket-australia-expects-khawaja-to-abide-by-rules-in-gaza-support/1883793/)
+
+Article found but Couldn't summarize 
+PERTH (Reuters) - Cricket Australia said on Wednesday they backed Usman Khawaja's right to express his support for the people of Gaza but expected him to conform to International Cricket Council (ICC)
+
+Wed, 13 Dec 2023 04:46:18 +0000
+### [Golf-PGA members demand information about Tour’s future](https://theprint.in/sport/golf-pga-members-demand-information-about-tours-future/1883791/)
+
+Article found but Couldn't summarize 
+(Reuters) - Golfers playing for the PGA Tour have demanded more information about the potential impact of capital tie-ups being discussed, saying they had been "kept entirely in the dark" about the
+
+Wed, 13 Dec 2023 04:45:51 +0000
+### [Reaction to proposed COP28 climate deal](https://theprint.in/environment/reaction-to-proposed-cop28-climate-deal/1883789/)
+
+Article found but Couldn't summarize 
+DUBAI (Reuters) - The COP28 presidency released on Wednesday a proposed text for a final climate deal that would for the first time push nations to "transition away" from fossil fuels to avert the
+
+Wed, 13 Dec 2023 04:45:06 +0000
+### [Sri Lanka’s second review of $2.9 billion IMF bailout possible in first half of 2024 – official](https://theprint.in/world/sri-lankas-second-review-of-2-9-billion-imf-bailout-possible-in-first-half-of-2024-official/1883787/)
+
+Article found but Couldn't summarize 
+By Uditha Jayasinghe COLOMBO (Reuters) -The second review of Sri Lanka's $2.9 billion bailout with the IMF could be completed in the first half of 2024, provided it manages to meet debt restructuring
+
+Wed, 13 Dec 2023 04:30:39 +0000
+### [Delhi: Minimum temperature 7.4 deg C, air quality ‘very poor’](https://theprint.in/india/delhi-minimum-temperature-7-4-deg-c-air-quality-very-poor/1883783/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 13 (PTI) Delhiites woke up on Wednesday to a slightly warmer morning than the day before as the minimum temperature settled at 7.4 degrees Celsius, a notch below normal. The minimum temperature on Tuesday was recorded at 6.8 degrees Celsius and on Monday at 6.5 degrees Celsius, three notches below normal. The [&#8230;]
+
+Wed, 13 Dec 2023 04:30:27 +0000
+### [Freedom of speech and expression cannot go beyond limits of reasonableness: HC](https://theprint.in/india/freedom-of-speech-and-expression-cannot-go-beyond-limits-of-reasonableness-hc/1883782/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 13 (PTI) Freedom of speech and expression cannot be allowed to go beyond the limits of reasonableness otherwise it could lead to disastrous consequences, the Bombay High Court has said. A single bench of Justice Milind Jadhav made the observation on Tuesday while upholding the termination of service of an employee with Hitachi [&#8230;]
+
 Wed, 13 Dec 2023 04:15:21 +0000
 ### [Reaction to the UN’s final proposal for COP28 deal](https://theprint.in/environment/reaction-to-the-uns-final-proposal-for-cop28-deal/1883773/)
 

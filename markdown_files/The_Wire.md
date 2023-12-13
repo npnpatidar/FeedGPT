@@ -1,3 +1,15 @@
+2023-12-13T10:40:56+05:30
+### [The Strength of the Women Who Led the 2019 Shaheen Bagh Protests](https://thewire.in/film/shaheen-bagh-documentary-nausheen-khan)
+
+No Article text 
+In a documentary recollecting the 2019 protests against the Citizenship Amendment Act, Nausheen Khan courageously captures the voices of protesters and embraces her own identity as a Muslim woman.
+
+2023-12-13T10:10:05+05:30
+### [What Bhajanlal Sharma's Appointment as CM Says About the BJP's Past and Future in Rajasthan](https://thewire.in/politics/rajasthan-bjp-bhajanlal-sharma)
+
+No Article text 
+Going by public popularity, Vasundhara Raje Scindia should have been the logical choice for chief minister. But the much-less-known Sharma has a history that fits with the Sangh parivar's agenda.
+
 2023-12-13T08:21:03+05:30
 ### [India Joins 80% of the World to Pass UNGA Resolution on Immediate Ceasefire in Gaza](https://thewire.in/world/india-votes-in-favour-of-unga-resolution-calling-for-immediate-ceasefire-in-gaza)
 

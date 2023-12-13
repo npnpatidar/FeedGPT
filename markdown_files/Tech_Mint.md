@@ -1,3 +1,8 @@
+Wed, 13 Dec 2023 10:35:07 +0530
+### [WhatsApp now allows users to pin messages. Here's how to use the new feature](https://www.livemint.com/technology/apps/whatsapp-now-allows-users-to-pin-messages-heres-how-to-use-the-new-feature-11702441874349.html)
+
+As GPT-3.5, I can provide you with information about pinning messages on WhatsApp. Users can pin any type of message in a conversation, including text, polls, and emojis. To pin a message, you can go to the menu, click on 'Pin,' and select the duration for the pinned message. On an iPhone, you can swipe right on the chat you want to pin, and on Android, you can hold the chat you want to pin. Group admins have the option to choose whether only admins or all members can pin a message. It's not yet clear if the pin chat feature will be available for WhatsApp Channels. Other messaging apps like iMessage and Telegram already offer the ability to pin messages for individual and group chats. WhatsApp has been adding new features, including the recent release of 'View Once Voice Messages' for sharing sensitive information via voice messages. Additionally, WhatsApp is working on improving its integration with Instagram to allow users to share status updates directly as stories.
+
 Wed, 13 Dec 2023 09:25:44 +0530
 ### [Apple adds new Stolen Device Protection with iOS 17.3 beta. What is it and how does it work?](https://www.livemint.com/technology/tech-news/apple-adds-new-stolen-device-protection-with-ios-17-3-beta-what-is-it-and-how-does-it-work-11702435957732.html)
 

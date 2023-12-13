@@ -1,3 +1,9 @@
+Wed, 13 Dec 2023 10:33:10 +0530
+### [From 'phase out' to 'transitioning away': The COP28's new proposal on fossil fuels](https://www.firstpost.com/explainers/from-phase-out-to-transitioning-away-the-cop28s-new-proposal-on-fossil-fuels-13497842.html)
+
+Article found but Couldn't summarize 
+From 'phase out' to 'transitioning away': The COP28's new proposal on fossil fuels
+
 Wed, 13 Dec 2023 09:25:05 +0530
 ### [Attack on Indian consulate in San Francisco and more: What FBI chief discussed with NIA boss](https://www.firstpost.com/explainers/attack-on-indian-consulate-in-san-francisco-and-more-what-fbi-chief-discussed-with-nia-boss-13497482.html)
 
