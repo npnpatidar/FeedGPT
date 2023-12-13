@@ -1,3 +1,15 @@
+Thu, 14 Dec 2023 00:20:00 +0530
+### [Change in Chhattisgarh: On the new BJP government and the road ahead](https://www.thehindu.com/opinion/editorial/change-in-chhattisgarh-the-hindu-editorial-on-the-new-bjp-government-and-the-road-ahead/article67634857.ece)
+
+Article found but Couldn't summarize 
+The BJP will have to make good on its poll promises in the tribal State
+
+Thu, 14 Dec 2023 00:10:00 +0530
+### [End the uncertainty: On the Sri Lankan refugees in Tamil Nadu](https://www.thehindu.com/opinion/editorial/end-the-uncertainty-the-hindu-editorial-on-the-sri-lankan-refugees-in-tamil-nadu/article67634929.ece)
+
+Article found but Couldn't summarize 
+Centre must adopt a proactive approach to resolve issues of Sri Lankan repatriates
+
 Wed, 13 Dec 2023 00:20:00 +0530
 ### [Welcome direction: On the Supreme Court’s deadline to conduct elections in J&K](https://www.thehindu.com/opinion/editorial/welcome-direction-the-hindu-editorial-on-the-supreme-courts-deadline-to-conduct-elections-in-jk/article67631471.ece)
 

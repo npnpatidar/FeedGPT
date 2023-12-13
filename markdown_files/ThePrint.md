@@ -1,3 +1,44 @@
+Wed, 13 Dec 2023 18:45:53 +0000
+### [Alphabet announces reduced costs for its leading AI model Gemini](https://theprint.in/tech/alphabet-announces-reduced-costs-for-its-leading-ai-model-gemini/1885061/)
+
+Gemini is Alphabet's most advanced artificial intelligence model that can process various forms of information such as video, audio, and text. It is capable of sophisticated reasoning and understanding with a greater degree of nuance compared to Google's previous technology. The cost of Gemini has been reduced, and Alphabet is providing developers with tools to customize their own versions of Gemini. Additionally, there are two new products powered by Gemini in development, one focused on computer programming assistance and the other on company security operations. Alphabet is offering three versions of Gemini, each designed for different processing power requirements. Since the launch of OpenAI's ChatGPT, Google has been striving to produce AI software that rivals its competitors.
+
+Wed, 13 Dec 2023 18:45:33 +0000
+### [Oil prices up 1% on big U.S. storage withdrawal, tanker attack in Red Sea](https://theprint.in/economy/oil-prices-up-1-on-big-u-s-storage-withdrawal-tanker-attack-in-red-sea/1885059/)
+
+Article found but Couldn't summarize 
+By Scott DiSavino NEW YORK (Reuters) -Oil prices edged up about 1% on Wednesday from a five-month low in the prior session on a much bigger-than-expected weekly withdrawal from U.S. crude storage and
+
+Wed, 13 Dec 2023 18:45:18 +0000
+### [Venezuelan accused of bribing top officials convicted on US drugs charges](https://theprint.in/world/venezuelan-accused-of-bribing-top-officials-convicted-on-us-drugs-charges/1885058/)
+
+Article found but Couldn't summarize 
+By Luc Cohen NEW YORK (Reuters) - A man accused of bribing top Venezuelan political and military leaders was convicted on Wednesday of shipping tens of thousands of kilograms of cocaine to the United
+
+Wed, 13 Dec 2023 18:45:03 +0000
+### [Israelis say Hamas must be crushed despite Gaza casualties, U.N. rebuke](https://theprint.in/world/israelis-say-hamas-must-be-crushed-despite-gaza-casualties-u-n-rebuke/1885056/)
+
+Article found but Couldn't summarize 
+By Ilan Rosenberg and Frank Jack Daniel JERUSALEM (Reuters) - Israeli citizens said on Wednesday the army should not back off from its unrelenting offensive to crush Hamas, despite the U.N. General
+
+Wed, 13 Dec 2023 18:45:03 +0000
+### [Allahabad University student injured in explosion while making bomb in hostel room](https://theprint.in/india/allahabad-university-student-injured-in-explosion-while-making-bomb-in-hostel-room/1885055/)
+
+Article found but Couldn't summarize 
+Prayagraj (UP), Dec 13 (PTI) An Allahabad University student was badly injured when a bomb he was allegedly making in his hostel room exploded in his hand on Wednesday evening, police said. It was not known immediately why the student was making the bomb. Prabhat Yadav, an MA student of Allahabad University, was making a [&#8230;]
+
+Wed, 13 Dec 2023 18:30:28 +0000
+### [Man arrested for desecrating temple in Dehradun](https://theprint.in/india/man-arrested-for-desecrating-temple-in-dehradun/1885054/)
+
+Article found but Couldn't summarize 
+Dehradun, Dec 13 (PTI) A man was arrested on Wednesday for allegedly desecrating a temple in the Harrawala area here, police said. The accused, Saddam, was arrested from the Mehuwala area here on the basis of CCTV footage, said Dehradun Senior Superintendent of Police (SSP) Ajai Singh. His family members claimed that Saddam is mentally [&#8230;]
+
+Wed, 13 Dec 2023 18:30:03 +0000
+### [Job racket kingpin, aide held from Bengal, 544 passports recovered, 23 accounts frozen so far](https://theprint.in/india/job-racket-kingpin-aide-held-from-bengal-544-passports-recovered-23-accounts-frozen-so-far/1885053/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 13 (PTI) Police have arrested a key accused in a Mumbai-operated job racket and his aide from West Bengal for their alleged involvement in duping hundreds of unemployed men by promising them jobs abroad, an official said on Wednesday. The police recovered 482 passports of job aspirants during a search at the key [&#8230;]
+
 Wed, 13 Dec 2023 18:16:04 +0000
 ### [Soccer-Legia Warsaw fans banned for five European away games for crowd trouble](https://theprint.in/sport/soccer-legia-warsaw-fans-banned-for-five-european-away-games-for-crowd-trouble/1885052/)
 

@@ -2293,3 +2293,10 @@ Started at 2023-12-13 18:22:07
 Finished at 2023-12-13 18:58:02
 Total time taken: 2155.2734060287476 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2023-12-13 19:15:16
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+7 Feed entries have been written to feeds/ThePrint.xml
+9 new entries have been added
+Finished at 2023-12-13 19:26:24
+Total time taken: 667.9079451560974 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
