@@ -1,3 +1,27 @@
+2023-12-13T11:49:48+05:30
+### [What Is Holding South Asia Back While Other Asian Economies Flourish?](https://thewire.in/south-asia/what-is-holding-south-asia-back-while-other-asian-economies-flourish)
+
+No Article text 
+Increased cooperation between South Asian countries has the potential to produce significant gains across all countries in the region.
+
+2023-12-13T11:35:53+05:30
+### [Maratha Quota Panel: 3 More Members, Chairman Quit Citing Government Interference](https://thewire.in/caste/maratha-quota-panel-3-more-members-chairman-quit-citing-government-interference)
+
+No Article text 
+Justice (retired) Anand Nirgude, chairman of the commission, along with five out of the ten-member panel said the government was trying to force them into declaring the Maratha community as backward.
+
+2023-12-13T11:06:58+05:30
+### ['Disinfo Lab' – Which Claims Conspiracies Against Modi Govt – Run by a RAW Officer: Washington Post](https://thewire.in/security/disinfo-lab-which-claims-conspiracies-against-modi-govt-run-by-a-raw-officer-washington-post)
+
+No Article text 
+Disinfo Lab has published reports alleging misinformation conspiracies by Islamists and Soros. It denies ties to government, says run by those “who had met in an anti-corruption political movement” and were concerned about “the massive disinformation targeted at India to sow divisions”.
+
+2023-12-13T11:00:11+05:30
+### [Bihar Caste Survey: The Who’s Who in the Data | Kumhar](https://thewire.in/caste/bihar-caste-survey-the-whos-who-in-the-data-kumhar)
+
+No Article text 
+A people who used to be skilled potters are now forced to become daily wage labourers.
+
 2023-12-13T10:40:56+05:30
 ### [The Strength of the Women Who Led the 2019 Shaheen Bagh Protests](https://thewire.in/film/shaheen-bagh-documentary-nausheen-khan)
 

@@ -1,3 +1,123 @@
+Wed, 13 Dec 2023 06:15:03 +0000
+### [Proposed COP28 climate deal hints at looming end to fossil fuel era](https://theprint.in/world/proposed-cop28-climate-deal-hints-at-looming-end-to-fossil-fuel-era/1883870/)
+
+Article found but Couldn't summarize 
+By Valerie Volcovici, Gloria Dickie and William James DUBAI (Reuters) - The COP28 Presidency released a proposed text of a final climate deal on Wednesday that would, for the first time, push nations
+
+Wed, 13 Dec 2023 06:15:02 +0000
+### [Mild snowfall in higher reaches of Himachal Pradesh](https://theprint.in/india/mild-snowfall-in-higher-reaches-of-himachal-pradesh/1883869/)
+
+Article found but Couldn't summarize 
+Shimla, Dec 13 (PTI) Higher reaches and mountain ranges in Kullu, Kinnaur, and Lahaul and Spiti districts received another spell of mild snowfall in the past 24 hours, according to the local Met station. Kalpa and Sangla in Kinnaur district received 0.2 and 0.1 cm of snow, it said. A fresh western disturbance is likely [&#8230;]
+
+Wed, 13 Dec 2023 06:01:45 +0000
+### [India’s SC verdict on Article 370 would ‘further complicate’ Kashmir issue: Imran Khan](https://theprint.in/world/indias-sc-verdict-on-article-370-would-further-complicate-kashmir-issue-imran-khan/1883862/)
+
+Article found but Couldn't summarize 
+Islamabad, Dec 13 (PTI) Pakistan&#8217;s jailed former prime minister Imran Khan has said that India&#8217;s Supreme Court verdict upholding the abrogation of Article 370 would &#8220;further complicate&#8221; the Kashmir issue. The Supreme Court on Monday unanimously upheld the Centre government&#8217;s decision of August 2019 to abrogate Article 370, which bestowed a special status on the [&#8230;]
+
+Wed, 13 Dec 2023 06:01:33 +0000
+### [Ladakh: Sudden water surge in hot springs in Chumathang region, expert panel set up](https://theprint.in/india/ladakh-sudden-water-surge-in-hot-springs-in-chumathang-region-expert-panel-set-up/1883861/)
+
+Article found but Couldn't summarize 
+Leh/Jammu, Dec 13 (PTI) There has been an alarming rise in the water levels of hot springs in the Chumathang area of Leh district&#8217;s Nyoma sub-division recently and a mechanism will be put in place to monitor it, officials said on Wednesday. The Geological Survey of India (GSI), the Wadia Institute of Himalayan Geology and [&#8230;]
+
+Wed, 13 Dec 2023 06:01:21 +0000
+### [Misfiring Indian bowlers in focus as India seek series-levelling win over SA in 3rd T20I](https://theprint.in/sport/misfiring-indian-bowlers-in-focus-as-india-seek-series-levelling-win-over-sa-in-3rd-t20i/1883860/)
+
+Article found but Couldn't summarize 
+Johannesburg, Dec 13 (PTI) The Indian bowlers will come under sharp scrutiny in the team&#8217;s effort to merge the immediate task of series-levelling and the distant target of finding an ideal combination for next year&#8217;s T20 World Cup during the third and final match against South Africa here on Thursday. The second T20I against the [&#8230;]
+
+Wed, 13 Dec 2023 06:01:08 +0000
+### [North East has become powerhouse of India’s growth under PM Modi: Sonowal](https://theprint.in/india/north-east-has-become-powerhouse-of-indias-growth-under-pm-modi-sonowal/1883859/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 13 (PTI) Union minister Sarbananda Sonowal said on Wednesday that the North East has become a &#8220;powerhouse of India&#8217;s growth&#8221; under Prime Minister Narendra Modi&#8217;s leadership. Addressing a press conference, the former Assam chief minister said Modi has delivered more than his guarantees for the region during his over nine years at [&#8230;]
+
+Wed, 13 Dec 2023 06:00:53 +0000
+### [Markram and Shamsi”s middle-over spells became turning point, feels Tilak Varma](https://theprint.in/sport/markram-and-shamsis-middle-over-spells-became-turning-point-feels-tilak-varma/1883857/)
+
+Article found but Couldn't summarize 
+Gqeberha (South Africa), Dec 13 (PTI) South African spinners Tabraiz Shamsi and Aiden Markram used better bowling conditions to the fullest to emerge game-changers for South Africa during their five-wicket victory over India in the rain-affected second T20 International, reckoned Indian batter Tilak Varma. Batting first, India were 180 for 7 in 19.3 overs when [&#8230;]
+
+Wed, 13 Dec 2023 06:00:44 +0000
+### [Tennis-I’ll play two more years tops, says exhausted Kyrgios](https://theprint.in/sport/tennis-ill-play-two-more-years-tops-says-exhausted-kyrgios/1883856/)
+
+Article found but Couldn't summarize 
+SYDNEY (Reuters) - Former Wimbledon finalist Nick Kyrgios thinks his well-documented mental health issues have taken a couple of seasons off his career and he will play on for only one or two more
+
+Wed, 13 Dec 2023 06:00:35 +0000
+### [Expulsion from Lok Sabha: CJI to take call on listing of Mahua Moitra’s plea, says SC](https://theprint.in/india/expulsion-from-lok-sabha-cji-to-take-call-on-listing-of-mahua-moitras-plea-says-sc/1883854/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 13 (PTI) The Supreme Court on Wednesday said Chief Justice of India D Y Chandrachud will take a call on the listing of Trinamool Congress (TMC) leader Mahua Moitra&#8217;s plea challenging her expulsion from the Lok Sabha. Moitra&#8217;s plea was mentioned for urgent listing before a bench of Justice Sanjay Kishan Kaul [&#8230;]
+
+Wed, 13 Dec 2023 06:00:25 +0000
+### [Indonesia relaxes tax rules on EV imports to attract investment](https://theprint.in/tech/indonesia-relaxes-tax-rules-on-ev-imports-to-attract-investment/1883853/)
+
+Article found but Couldn't summarize 
+JAKARTA (Reuters) - Indonesia will grant automakers that plan to build electric vehicle plants tax incentives on their imports of completely built-up EVs until 2025, a new presidential regulation
+
+Wed, 13 Dec 2023 06:00:18 +0000
+### [What happens to teeth as you age? And how can you extend the life of your smile?](https://theprint.in/world/what-happens-to-teeth-as-you-age-and-how-can-you-extend-the-life-of-your-smile/1883852/)
+
+Article found but Couldn't summarize 
+Brisbane, Dec 13 (The Conversation) A healthy smile helps us live long, well and happy lives. But just like our bodies, our teeth succumb to age-related changes. So what happens to teeth as you age? And what can you do to ensure your smile lasts the distance? First, what are teeth made of? The tooth [&#8230;]
+
+Wed, 13 Dec 2023 06:00:04 +0000
+### [Week’s second cold wave encases China’s Beijing in snow, ice](https://theprint.in/world/weeks-second-cold-wave-encases-chinas-beijing-in-snow-ice/1883850/)
+
+Article found but Couldn't summarize 
+By Ryan Woo and Liz Lee BEIJING (Reuters) -Heavy snow, blizzards and plunging temperatures swept northern China in what could be one of its most severe cold snaps in December, spurring authorities in
+
+Wed, 13 Dec 2023 06:00:03 +0000
+### [SC overrules verdict holding unstamped agreements unenforceable, invalid](https://theprint.in/india/sc-overrules-verdict-holding-unstamped-agreements-unenforceable-invalid/1883849/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 13 (PTI) A seven-judge Constitution bench of the Supreme Court on Wednesday held that non-stamping or insufficient stamping of an agreement has nothing to do with the validity of the document as it is a curable defect. The bench headed by Chief Justice D Y Chandrachud, in an unanimous verdict, overruled its [&#8230;]
+
+Wed, 13 Dec 2023 05:50:37 +0000
+### [COP28 ambitions must go local. Share the burden of net zero transition with MSMEs too](https://theprint.in/opinion/cop28-ambitions-must-go-local-share-the-burden-of-net-zero-transition-with-msmes-too/1883831/)
+
+Article found but Couldn't summarize 
+Recognising diversity across and within industries and the hurdles faced by MSMEs in adopting energy-efficient technologies are key.
+
+Wed, 13 Dec 2023 05:45:27 +0000
+### [Indo-British production ‘A Game of Two Halves’ set for February 2024 release](https://theprint.in/feature/indo-british-production-a-game-of-two-halves-set-for-february-2024-release/1883843/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 13 (PTI) An Indo-British film, exploring the themes of identity crisis, racial dissonance and acceptance, will be released in theatres on February 23, 2024, the makers have announced. Titled &#8220;A Game of Two Halves&#8221;, the film stars actor Saaj Raja, known for featuring in Marvel Studios&#8217; &#8220;Eternals&#8221;, alongside Lucy Jackson, Swaroopa Ghosh and [&#8230;]
+
+Wed, 13 Dec 2023 05:45:15 +0000
+### [Heat of light bulb, thrown plastic bottle saved baby stuck inside Odisha bore well: officials](https://theprint.in/india/heat-of-light-bulb-thrown-plastic-bottle-saved-baby-stuck-inside-odisha-bore-well-officials/1883842/)
+
+Article found but Couldn't summarize 
+Bhubaneswar, Dec 13 (PTI) It was a simple 100-watt light bulb that provided much-needed heat to a newborn girl who was found stuck inside a cold bore well in Odisha, before she was rescued safely in an over five-hour-long operation on a winter night. Besides, the child who has no claimant fell on a stuck [&#8230;]
+
+Wed, 13 Dec 2023 05:45:04 +0000
+### [China, Vietnam hail strategic upgrade of ties](https://theprint.in/world/china-vietnam-hail-strategic-upgrade-of-ties/1883840/)
+
+Article found but Couldn't summarize 
+HANOI (Reuters) -The leaders of China and Vietnam hailed as "strategic" on Wednesday their decision to strengthen ties and be part of a community with a "shared future", as a visit by Chinese
+
+Wed, 13 Dec 2023 05:45:03 +0000
+### [Foreign News Schedule for December 13, Wednesday](https://theprint.in/world/foreign-news-schedule-for-december-13-wednesday/1883839/)
+
+Article found but Couldn't summarize 
+**** COP28: World nears historic deal on fossil fuel transition; India, China resist targeting of coal &#8216;Our challenge in this extraordinarily difficult time is to strike the right balance&#8217;: Indian Amb Kamboj India votes in favour of UNGA resolution demanding immediate humanitarian ceasefire in Gaza COP28: &#8216;Global Goal on Adaptation&#8217; draft shifts focus, emphasises urgent [&#8230;]
+
+Wed, 13 Dec 2023 05:36:42 +0000
+### [BJP’s social engineering in Rajasthan — why the party chose Bhajanlal Sharma as CM](https://theprint.in/politics/bjps-social-engineering-in-rajasthan-why-the-party-chose-bhajanlal-sharma-as-cm/1883379/)
+
+Article found but Couldn't summarize 
+Bhajanlal Sharma is BJP's 1st Brahmin CM in the state since 1990. Party sees the caste group as major influencers &#38; key to its Hindutva push in Hindi heartland ahead of Lok Sabha polls.
+
+Wed, 13 Dec 2023 05:30:18 +0000
+### [Kashmir is beautiful and fantastic, please come: John Abraham after wrapping ‘Vedaa’ shoot](https://theprint.in/feature/kashmir-is-beautiful-and-fantastic-please-come-john-abraham-after-wrapping-vedaa-shoot/1883837/)
+
+Article found but Couldn't summarize 
+Srinagar, Dec 13 (PTI) &#8220;Please come to Kashmir, it is fantastic,&#8221; said Bollywood star John Abraham after he concluded a shooting schedule of his upcoming movie &#8220;Vedaa&#8221; in the valley. Abraham arrived in the union territory last week for the shooting of the movie, which also features Sharvari Wagh. The film was shot in Srinagar [&#8230;]
+
 Wed, 13 Dec 2023 05:15:57 +0000
 ### [Soccer-Referee made mistake by stopping play for foul on Haaland: Webb](https://theprint.in/sport/soccer-referee-made-mistake-by-stopping-play-for-foul-on-haaland-webb/1883825/)
 

@@ -1,3 +1,9 @@
+Wed, 13 Dec 2023 11:12:31 +0530
+### [Lenovo Tab P12 Review: A practical, value-for-money Android tablet that just clicks](https://www.firstpost.com/tech/lenovo-tab-p12-review-a-practical-value-for-money-android-tablet-that-just-clicks-13498112.html)
+
+Article found but Couldn't summarize 
+Lenovo Tab P12 Review: A practical, value-for-money Android tablet that just clicks
+
 Wed, 13 Dec 2023 09:56:46 +0530
 ### [‘India to soon launch AI missions for agriculture, healthcare’: PM Modi at GPAI Summit 2023](https://www.firstpost.com/tech/india-to-launch-ai-missions-soon-for-agriculture-healthcare-pm-modi-at-gpai-summit-2023-13497832.html)
 
