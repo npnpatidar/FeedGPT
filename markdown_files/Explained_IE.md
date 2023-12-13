@@ -1,3 +1,8 @@
+Wed, 13 Dec 2023 22:34:25 +0000
+### [What helped two men dodge layers of security inside Parliament House](https://indianexpress.com/article/explained/what-helped-two-men-dodge-layers-of-security-inside-parliament-house-9067409/)
+
+Article found but Couldn't summarize
+
 Wed, 13 Dec 2023 16:11:17 +0000
 ### [Hanuman Beniwal thrashes Lok Sabha intruder: 5 things you need to know about the Nagaur MP](https://indianexpress.com/article/explained/explained-politics/hanuman-beniwal-lok-sabha-intruder-thrashed-mp-9067247/)
 

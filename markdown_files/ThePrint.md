@@ -1,3 +1,55 @@
+Wed, 13 Dec 2023 23:16:09 +0000
+### [Apple reaches record high close as Fed signals rate cuts](https://theprint.in/tech/apple-reaches-record-high-close-as-fed-signals-rate-cuts/1885168/)
+
+As GPT-3.5, I can provide a summary of the article you shared. Apple's stock reached a record high close on Wednesday, rising by 1.7% to $197.96 per share. This increase was driven by a broad Wall Street rally following the Federal Reserve's indication of lower borrowing costs in 2024. Apple's previous record high close was $196.45 on July 31. The company now has a market capitalization of $3.08 trillion. The rally in Apple's stock also contributed to the Dow Jones Industrial Average reaching its first record high close since January 2022. Apple's shares have surged by 52% in 2023, playing a significant role in the Dow's recovery and the S&P 500's rally. Please let me know if there's anything else I can assist you with.
+
+Wed, 13 Dec 2023 23:15:57 +0000
+### [Mattel to make ‘American Girl’ movie after ‘Barbie’ success](https://theprint.in/entertainment/mattel-to-make-american-girl-movie-after-barbie-success/1885166/)
+
+As GPT-3.5, I can provide a summary of the article you shared. Mattel, the toymaker, announced its plans to create a live-action feature film based on its "American Girl" doll line in collaboration with Paramount Pictures and Temple Hill Entertainment. This decision comes after the success of the "Barbie" movie released earlier this year. Lindsey Anderson Beer, known for writing the Netflix film "Sierra Burgess is a Loser," will be responsible for writing the screenplay and producing the film. The "Barbie" movie, starring Margot Robbie, had a significant opening and is expected to contribute over $125 million to Mattel's Dolls segment's gross billings measure in 2023. "American Girl" was founded in 1986 and aims to celebrate girlhood through dolls and books that inspire imagination and provide education and entertainment. Paramount Pictures and Temple Hill Entertainment have a history of producing successful film franchises. Please let me know if there's anything else I can assist you with.
+
+Wed, 13 Dec 2023 23:15:41 +0000
+### [US delays sale of assault rifles to Israel over settler violence -sources](https://theprint.in/world/us-delays-sale-of-assault-rifles-to-israel-over-settler-violence-sources/1885164/)
+
+Article found but Couldn't summarize 
+By Humeyra Pamuk WASHINGTON (Reuters) - The Biden administration is delaying the sale of more than 20,000 U.S.-made rifles to Israel over concerns about attacks by Israeli settlers on Palestinians in
+
+Wed, 13 Dec 2023 23:15:28 +0000
+### [Argentina inflation tops 160% spotlighting challenge for Milei](https://theprint.in/world/argentina-inflation-tops-160-spotlighting-challenge-for-milei/1885162/)
+
+Article found but Couldn't summarize 
+By Hernan Nessi and Lucila Sigal BUENOS AIRES (Reuters) - Argentina's annual inflation rate hit 161% in November, faster than expected and the highest monthly figure this year, laying bare the
+
+Wed, 13 Dec 2023 23:15:17 +0000
+### [Larry Doby, pioneering Black baseball star, given Congressional Gold Medal](https://theprint.in/world/larry-doby-pioneering-black-baseball-star-given-congressional-gold-medal/1885160/)
+
+Article found but Couldn't summarize 
+By Dan Whitcomb (Reuters) - Larry Doby, who in 1947 became the second Black player to break baseball's color barrier, leading the Cleveland Indians to a World Series championship the following year,
+
+Wed, 13 Dec 2023 23:15:03 +0000
+### [Biden impeachment inquiry authorized by House Republicans, despite lack of evidence](https://theprint.in/world/biden-impeachment-inquiry-authorized-by-house-republicans-despite-lack-of-evidence/1885158/)
+
+Article found but Couldn't summarize 
+By Moira Warburton and Katharine Jackson WASHINGTON (Reuters) -The U.S. House of Representatives voted on Wednesday to formally authorize its ongoing impeachment inquiry into President Joe Biden, as
+
+Wed, 13 Dec 2023 22:32:14 +0000
+### [Pakistan: Fawad Chaudhry to contest election from jail, says his wife](https://theprint.in/world/pakistan-fawad-chaudhry-to-contest-election-from-jail-says-his-wife/1885156/)
+
+Article found but Couldn't summarize 
+Rawalpindi [Pakistan], December 14 (ANI): Hiba Chaudhry, the wife of former Pakistan minister Fawad Chaudhry, will be contesting the next general elections from jail, ARY News reported. Speaking to media outside Adiala Jail, Hiba said that Fawad Chaudhry will contest the election from jail and she will run his election campaign. She maintained that none [&#8230;]
+
+Wed, 13 Dec 2023 22:32:01 +0000
+### [Pakistan: Imran Khan’s pre-arrest bail dismissed in Toshakhana case](https://theprint.in/world/pakistan-imran-khans-pre-arrest-bail-dismissed-in-toshakhana-case/1885154/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 14 (ANI): An accountability court in Islamabad dismissed the pre-arrest bail plea of Pakistan Tehreek-e-Insaf (PTI) Chairman Imran Khan in the Toshakhana case, ARY News reported on Wednesday. The accountability court&#8217;s judge Muhammad Bashir announced the reserved verdict on Imran Khan&#8217;s pre-arrest bail plea in the case. The National Accountability Bureau (NAB) [&#8230;]
+
+Wed, 13 Dec 2023 22:17:01 +0000
+### [US: Fed holds interest rate steady amid retreating inflation](https://theprint.in/world/us-fed-holds-interest-rate-steady-amid-retreating-inflation/1885152/)
+
+Article found but Couldn't summarize 
+Washington DC [US], December 14 (ANI): The Federal Reserve on Wednesday held interest rates steady at a 22-year high for the third straight meeting, while the central bankers have predicted three possible rate cuts next year, The Hill reported on Wednesday. The Fed&#8211;the central bank of the United States&#8211;has raised rates 11 times since March [&#8230;]
+
 Wed, 13 Dec 2023 22:15:51 +0000
 ### [Soccer-Atletico Madrid win group after 2-0 win over Lazio](https://theprint.in/sport/soccer-atletico-madrid-win-group-after-2-0-win-over-lazio/1885150/)
 
