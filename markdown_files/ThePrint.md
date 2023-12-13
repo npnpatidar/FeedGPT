@@ -1,3 +1,56 @@
+Wed, 13 Dec 2023 20:02:01 +0000
+### [Six Indian fishermen detained by Sri Lankan Navy; second incident within a week](https://theprint.in/world/six-indian-fishermen-detained-by-sri-lankan-navy-second-incident-within-a-week/1885079/)
+
+Article found but Couldn't summarize 
+Colombo [Sri Lanka], December 14 (ANI): As many as six Indian fishermen from Tamil Nadu, who were fishing in international waters, were detained by the Sri Lankan Navy along with their trawler, near the Kankesanthurai area in Sri Lanka. According to the Sri Lankan Navy, the fishermen were allegedly involved in &#8216;illegal poaching&#8217; and were [&#8230;]
+
+Wed, 13 Dec 2023 19:32:02 +0000
+### [The UAE Consensus: A Win-Win for All](https://theprint.in/world/the-uae-consensus-a-win-win-for-all/1885077/)
+
+Article found but Couldn't summarize 
+By Mohamed Jalal Alrayssi Abu Dhabi [UAE], December 14 (ANI/WAM): The COP28 Summit in Dubai is a &#8216;watershed moment&#8217; in the fight against climate change as it is the first time that the global leaders have agreed on a historic set of measures outlining a solid plan towards the 1.5 degree Celsius target, Mohamed Jalal [&#8230;]
+
+Wed, 13 Dec 2023 19:16:22 +0000
+### [Golf-Rahm to stay away from public events after joining LIV Golf](https://theprint.in/sport/golf-rahm-to-stay-away-from-public-events-after-joining-liv-golf/1885075/)
+
+Article found but Couldn't summarize 
+BILBAO, Spain (Reuters) - Masters champion Jon Rahm said on Wednesday that he had decided to lay low and would avoid public events until February after agreeing to jump from the PGA Tour to the
+
+Wed, 13 Dec 2023 19:16:13 +0000
+### [Soccer-Peru sack coach Reynoso after poor run](https://theprint.in/sport/soccer-peru-sack-coach-reynoso-after-poor-run/1885073/)
+
+Peru has fired coach Juan Reynoso due to poor results in their opening games of the South American qualifiers for the 2026 World Cup. Peru is currently at the bottom of the CONMEBOL World Cup qualifying standings with two points after two draws and four losses. Reynoso was appointed in 2022 to replace Argentina's Ricardo Gareca, who led Peru to their first World Cup in 36 years in 2018. The Peruvian Football Association (FPF) expressed their best wishes for Reynoso's future career. Peru will face champions Argentina, Chile, and a CONCACAF playoff winner in Group A at next year's Copa America. They will resume their World Cup qualifying campaign in September against Colombia and Ecuador.
+
+Wed, 13 Dec 2023 19:15:56 +0000
+### [Biden welcomes ‘historic’ COP28 deal, cites work needed to reach climate goals](https://theprint.in/environment/biden-welcomes-historic-cop28-deal-cites-work-needed-to-reach-climate-goals/1885071/)
+
+Article found but Couldn't summarize 
+WASHINGTON (Reuters) - U.S. President Joe Biden welcomed the agreement reached at the COP28 climate summit on Wednesday to begin reducing global consumption of fossil fuels, calling it a "historic
+
+Wed, 13 Dec 2023 19:15:37 +0000
+### [Trump civil fraud trial testimony concludes, verdict expected in early 2024](https://theprint.in/world/trump-civil-fraud-trial-testimony-concludes-verdict-expected-in-early-2024/1885069/)
+
+Article found but Couldn't summarize 
+By Jack Queen (Reuters) - Testimony concluded on Wednesday in Donald Trump's civil fraud trial in New York, where the former U.S. president is accused of lying about his net worth to dupe lenders. The
+
+Wed, 13 Dec 2023 19:15:25 +0000
+### [Biden meets with relatives of Americans held hostage by Hamas](https://theprint.in/world/biden-meets-with-relatives-of-americans-held-hostage-by-hamas/1885067/)
+
+Article found but Couldn't summarize 
+WASHINGTON (Reuters) -President Joe Biden met with family members of Americans held hostage by Hamas on Wednesday as Israel intensifies its military campaign in Gaza after a pause in fighting during
+
+Wed, 13 Dec 2023 19:15:13 +0000
+### [Explainer-What does Argentina’s ‘shock therapy’ economic package involve?](https://theprint.in/world/explainer-what-does-argentinas-shock-therapy-economic-package-involve/1885065/)
+
+Article found but Couldn't summarize 
+By Valentine Hilaire (Reuters) - Argentina's government under libertarian President Javier Milei has unveiled a "shock therapy" economic plan, a radical and likely painful blueprint to stabilize the
+
+Wed, 13 Dec 2023 19:15:03 +0000
+### [Kyivstar starts restoring voice services -CEO](https://theprint.in/world/kyivstar-starts-restoring-voice-services-ceo/1885063/)
+
+Article found but Couldn't summarize 
+By Olena Harmash KYIV (Reuters) - Ukraine's top mobile phone operator Kyivstar started restoring voice services to some clients on Wednesday after its networks were knocked out by a major cyber attack
+
 Wed, 13 Dec 2023 18:45:53 +0000
 ### [Alphabet announces reduced costs for its leading AI model Gemini](https://theprint.in/tech/alphabet-announces-reduced-costs-for-its-leading-ai-model-gemini/1885061/)
 
