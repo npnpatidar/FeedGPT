@@ -1,3 +1,15 @@
+2023-12-13T21:45:31+05:30
+### [Modi's BJP Has Confirmed Nehru's Worries About the Jana Sangh's Divisive Plans for Kashmir](https://thewire.in/rights/nehru-prescient-apprehensions-jana-sangh-kashmir-bjp-modi)
+
+No Article text 
+Nehru wondered what would happen if a “communal party” such as the Jana Sangh was in charge of Kashmir. Cut to the present, and Kashmir is under a clampdown on rights and democracy imposed by the Jana Sangh's successor, the BJP.
+
+2023-12-13T21:17:09+05:30
+### ['Western Section of China-India Border Belongs to China': Beijing on SC’s Article 370 Order](https://thewire.in/diplomacy/china-india-ladakh-supreme-court-article-370)
+
+No Article text 
+"China has never recognised the so-called union territory of Ladakh set up unilaterally and illegally by India," said foreign ministry spokesperson Mao Ning, addressing the Indian top court's verdict for the second consecutive day.
+
 2023-12-13T20:39:51+05:30
 ### [Bombay HC Orders EC to Conduct Bypoll to Vacant Pune Lok Sabha Seat](https://thewire.in/law/bombay-high-court-order-ec-bypoll-vacant-pune-lok-sabha-seat)
 

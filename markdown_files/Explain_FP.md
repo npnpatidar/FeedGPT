@@ -1,3 +1,9 @@
+Wed, 13 Dec 2023 21:27:32 +0530
+### [Will Joe Biden go the Jimmy Carter way and become a one-term US president?](https://www.firstpost.com/explainers/will-joe-biden-go-the-jimmy-carter-way-and-become-a-one-term-us-president-13501202.html)
+
+Article found but Couldn't summarize 
+Will Joe Biden go the Jimmy Carter way and become a one-term US president?
+
 Wed, 13 Dec 2023 19:25:12 +0530
 ### [Lok Sabha breach: Who is Pratap Simha, the BJP MP who issued visitors pass to intruders?](https://www.firstpost.com/explainers/lok-sabha-breach-who-is-pratap-simha-the-bjp-mp-who-issued-visitors-pass-to-intruders-13499932.html)
 

@@ -1,3 +1,13 @@
+Wed, 13 Dec 2023 16:11:17 +0000
+### [Hanuman Beniwal thrashes Lok Sabha intruder: 5 things you need to know about the Nagaur MP](https://indianexpress.com/article/explained/explained-politics/hanuman-beniwal-lok-sabha-intruder-thrashed-mp-9067247/)
+
+Article found but Couldn't summarize
+
+Wed, 13 Dec 2023 15:22:19 +0000
+### [Back in 1994, two other incidents of jumping into Lok Sabha: what happened then?](https://indianexpress.com/article/explained/explained-history/parliament-security-breach-lok-sabha-past-incidents-jumping-9067212/)
+
+Article found but Couldn't summarize
+
 Wed, 13 Dec 2023 14:18:42 +0000
 ### [94 years ago, when Bhagat Singh chose to ‘make the deaf hear’ in Parliament](https://indianexpress.com/article/explained/explained-history/bhagat-singh-parliament-bomb-attack-9067123/)
 

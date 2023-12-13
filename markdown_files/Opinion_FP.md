@@ -1,3 +1,9 @@
+Wed, 13 Dec 2023 20:35:53 +0530
+### [Vantage | What COP28 says about COP's ability to solve climate problems](https://www.firstpost.com/opinion/vantage-what-cop28-says-about-cops-ability-to-solve-climate-problems-13501032.html)
+
+Article found but Couldn't summarize 
+Vantage | What COP28 says about COP's ability to solve climate problems
+
 Wed, 13 Dec 2023 19:50:31 +0530
 ### [Vantage | Why world's investors and political leaders are wooing Vietnam](https://www.firstpost.com/opinion/vantage-why-worlds-investors-and-political-leaders-are-wooing-vietnam-13500942.html)
 
