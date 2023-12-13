@@ -1,3 +1,122 @@
+Wed, 13 Dec 2023 14:16:36 +0000
+### [10-year-old boy killed in road accident in UP’s Amethi](https://theprint.in/india/10-year-old-boy-killed-in-road-accident-in-ups-amethi/1884717/)
+
+Article found but Couldn't summarize 
+Amethi (UP), Dec 13 (PTI) A 10-year-old boy died after being allegedly hit by a truck in Maharajpur under Amethi police station area here on Wednesday, police said. The boy was crossing the road when he was hit by a truck and died on the spot, they said. The incident took place when the deceased [&#8230;]
+
+Wed, 13 Dec 2023 14:16:25 +0000
+### [Family of guard killed of gunshot wounds in Gogamedi attack seeks Rs 5 cr in compensation](https://theprint.in/india/family-of-guard-killed-of-gunshot-wounds-in-gogamedi-attack-seeks-rs-5-cr-in-compensation/1884715/)
+
+Article found but Couldn't summarize 
+Jaipur, Dec 13 (PTI) Family members of a private security guard, who succumbed to gunshot wounds he sustained during the attack on Shri Rashtriya Rajput Karni Sena president Sukhdev Singh Gogamedi, on Wednesday held a protest here demanding Rs 5 crore and a job in compensation. Family members of Ajit Singh were supported in their [&#8230;]
+
+Wed, 13 Dec 2023 14:16:23 +0000
+### [Soccer-Guardiola, Wiegman among finalists for FIFA Best men’s and women’s coach awards](https://theprint.in/sport/soccer-guardiola-wiegman-among-finalists-for-fifa-best-mens-and-womens-coach-awards/1884714/)
+
+Article found but Couldn't summarize 
+(Reuters) - Manchester City's treble-winning coach Pep Guardiola and England women manager Sarina Wiegman are among the finalists for The Best FIFA men's coach and women's coach awards, world soccer's
+
+Wed, 13 Dec 2023 14:16:15 +0000
+### [For 9 years govt did nothing: Cong after passage of bill to set up tribal university in Telangana](https://theprint.in/india/for-9-years-govt-did-nothing-cong-after-passage-of-bill-to-set-up-tribal-university-in-telangana/1884712/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 13 (PTI) With Parliament passing a bill to establish a tribal university in Telangana, the Congress Wednesday alleged the government &#8220;did nothing for nine years&#8221; and &#8220;suddenly&#8221; Prime Minister Narendra Modi in his election speech in October announced that such a university was to be set up in the state. Parliament on [&#8230;]
+
+Wed, 13 Dec 2023 14:16:12 +0000
+### [Global news publisher Axel Springer partners with OpenAI in landmark deal](https://theprint.in/tech/global-news-publisher-axel-springer-partners-with-openai-in-landmark-deal/1884711/)
+
+Article found but Couldn't summarize 
+By Helen Coster NEW YORK (Reuters) - Global news publisher Axel Springer is partnering with OpenAI, the company behind the ChatGPT chatbot, in a first-of-its-kind deal that will deliver summaries of
+
+Wed, 13 Dec 2023 14:16:05 +0000
+### [Railways granted 430 sanctions to prosecute officials since 2014, says minister](https://theprint.in/india/railways-granted-430-sanctions-to-prosecute-officials-since-2014-says-minister/1884709/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 13 (PTI) The Indian Railways has granted 430 sanctions to prosecute its officials since 2014, Railway Minister Ashwini Vaishnaw informed the Lok Sabha in a written reply on Wednesday. &#8220;Since 2014, 430 sanctions have been granted by the Railways to prosecute officials. Presently, two cases of sanctions are under consideration,&#8221; Vaishnaw said. [&#8230;]
+
+Wed, 13 Dec 2023 14:16:02 +0000
+### [Saudi Arabia backs COP28 deal, praises flexible approach](https://theprint.in/environment/saudi-arabia-backs-cop28-deal-praises-flexible-approach/1884708/)
+
+Article found but Couldn't summarize 
+By Maha El Dahan and Yousef Saba DUBAI (Reuters) -Saudi Arabia's energy minister Prince Abdulaziz bin Salman said on Wednesday that Riyadh supported the final COP28 deal as it leaves countries to
+
+Wed, 13 Dec 2023 14:15:54 +0000
+### [Entire BEST fleet to have clean energy-powered buses by 2027: Minister Samant](https://theprint.in/india/entire-best-fleet-to-have-clean-energy-powered-buses-by-2027-minister-samant/1884706/)
+
+Article found but Couldn't summarize 
+Nagpur, Dec 13 (PTI) The Brihanmumbai Electricity Supply and Transport (BEST), a key public transporter in Mumbai, will have only clean energy-powered buses, mostly electric, in its fleet by 2027, said Maharashtra industry minister Uday Samant on Wednesday. He was speaking in the legislative council during the ongoing winter session of the state legislature here. [&#8230;]
+
+Wed, 13 Dec 2023 14:15:52 +0000
+### [Analysis-COP28 calls for adapting to warmer world without resolving how to pay](https://theprint.in/environment/analysis-cop28-calls-for-adapting-to-warmer-world-without-resolving-how-to-pay/1884705/)
+
+Article found but Couldn't summarize 
+By Simon Jessop, David Stanway and Kate Abnett DUBAI (Reuters) - How to adapt to the impacts of climate change was one of the many difficult questions addressed at the COP28 talks in Dubai - and how
+
+Wed, 13 Dec 2023 14:15:45 +0000
+### [Canadian PM Trudeau says his decision to make allegations in public intended as ‘extra level of deterrence’](https://theprint.in/world/canadian-pm-trudeau-says-his-decision-to-make-allegations-in-public-intended-as-extra-level-of-deterrence/1884704/)
+
+Article found but Couldn't summarize 
+Ottawa, Dec 13 (PTI) Canadian Prime Minister Justin Trudeau has said that his decision to make allegations in public about a possible Indian government link and the killing of a pro-Khalistan separatist was intended to &#8220;put a chill&#8221; on them from repeating a similar action. The ties between India and Canada came under severe strain [&#8230;]
+
+Wed, 13 Dec 2023 14:15:36 +0000
+### [Nordic nations vow to back Ukraine ‘as long as it takes’ during Zelenskiy visit](https://theprint.in/world/nordic-nations-vow-to-back-ukraine-as-long-as-it-takes-during-zelenskiy-visit/1884702/)
+
+Article found but Couldn't summarize 
+OSLO (Reuters) -The five Nordic nations told Ukrainian President Volodymyr Zelenskiy during talks in Oslo on Wednesday that they would support his country "for as long as it takes" in its struggle to
+
+Wed, 13 Dec 2023 14:15:34 +0000
+### [Bitcoin scam: SC transfers FIRs to CBI, orders trial in Delhi court](https://theprint.in/india/bitcoin-scam-sc-transfers-firs-to-cbi-orders-trial-in-delhi-court/1884700/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 13 (PTI) In a significant development, the Supreme Court Wednesday ordered transfer of over 40 FIRs related to the Bitcoin cryptocurrency scam to the CBI for further investigation and shifted the trial to a Delhi court. Observing that the accused, who are on anticipatory bail, cannot be allowed to “stultify” the ongoing [&#8230;]
+
+Wed, 13 Dec 2023 14:15:26 +0000
+### [Argentina peso slumps as markets welcome Milei’s ‘tough pill’](https://theprint.in/world/argentina-peso-slumps-as-markets-welcome-mileis-tough-pill/1884699/)
+
+Article found but Couldn't summarize 
+By Libby George and Jorge Otaola LONDON/BUENOS AIRES (Reuters) -Argentina's peso dropped more than 50% to 801 to the dollar on Wednesday as markets cautiously welcomed the first details of President
+
+Wed, 13 Dec 2023 14:15:24 +0000
+### [Will continue to fight for humanitarian views on field, says Khawaja](https://theprint.in/sport/will-continue-to-fight-for-humanitarian-views-on-field-says-khawaja/1884698/)
+
+Article found but Couldn't summarize 
+Perth, Dec 13 (PTI) Australia opener Usman Khawaja vowed to fight for his right to express humanitarian views on the field after ICC disallowed him from wearing written messages on his shoes, apparently with reference to the war in Gaza, when the first Test against Pakistan begins here on Thursday. The charismatic cricketer of Pakistani [&#8230;]
+
+Wed, 13 Dec 2023 14:15:14 +0000
+### [Bain Capital sells $448 million stake in India’s Axis Bank](https://theprint.in/india/bain-capital-sells-448-million-stake-in-indias-axis-bank/1884696/)
+
+Article found but Couldn't summarize 
+BENGALURU (Reuters) -Private equity firm Bain Capital has sold a stake worth $448 million in Indian private lender Axis Bank in a block trade on Wednesday, according to a term sheet seen by Reuters.
+
+Wed, 13 Dec 2023 14:15:13 +0000
+### [Fadnavis shouldn’t give more power to Bhujbal, it will create misunderstanding: Jarange](https://theprint.in/india/fadnavis-shouldnt-give-more-power-to-bhujbal-it-will-create-misunderstanding-jarange-2/1884694/)
+
+Article found but Couldn't summarize 
+Chhatrapati Sambhajinagar, Dec 13 (PTI) Maharashtra Deputy Chief Minister Devendra Fadnavis should not vest NCP minister Chhagan Bhujbal with more power as it will lead to misunderstanding among Marathas, said quota activist Manoj Jarange on Wednesday. Jarange, who is touring parts of Maharashtra to raise awareness about his demand for reservation for the Maratha community, [&#8230;]
+
+Wed, 13 Dec 2023 14:15:04 +0000
+### [Disney, Reliance plan London meeting for India media merger talks-sources](https://theprint.in/india/disney-reliance-plan-london-meeting-for-india-media-merger-talks-sources/1884693/)
+
+Article found but Couldn't summarize 
+By Aditya Kalra NEW DELHI (Reuters) - Billionaire Mukesh Ambani's Reliance Industries and U.S. giant Walt Disney are discussing a plan to hold next-stage talks about their India media business merger
+
+Wed, 13 Dec 2023 14:15:03 +0000
+### [Important cases heard by Delhi High Court on Wednesday](https://theprint.in/india/important-cases-heard-by-delhi-high-court-on-wednesday-3/1884692/)
+
+Article found but Couldn't summarize 
+Important cases heard by Delhi High Court on Wednesday, December 13: * HC observed that a lack of infrastructure in district courts here is a genuine problem and restored a public interest litigation (PIL) seeking implementation of a hybrid system of hearing in subordinate judiciary and quasi-judicial bodies. * HC observed &#8220;surrogacy industry&#8221; should not [&#8230;]
+
+Wed, 13 Dec 2023 14:02:41 +0000
+### [Railways provides fare concession to four categories of disabilities, says minister](https://theprint.in/india/railways-provides-fare-concession-to-four-categories-of-disabilities-says-minister/1884687/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 13 (PTI) The Indian Railways offers concession in passenger fare to four categories of persons with disabilities, Railway Minister Ashwini Vaishnaw informed the Lok Sabha in a written reply on Wednesday. Vaishnaw&#8217;s response came in response to JD(U) MP Sunil Kumar Pintu questioning the government&#8217;s stance on fare concessions to differently-abled people [&#8230;]
+
+Wed, 13 Dec 2023 14:02:27 +0000
+### [Over 2,000 children adopted by Indians, 224 by foreigners so far this year: Govt](https://theprint.in/india/over-2000-children-adopted-by-indians-224-by-foreigners-so-far-this-year-govt/1884686/)
+
+As GPT-3.5, I can provide a summary of the article you shared. According to the data shared by Union Minister Smriti Irani, more than 2,000 children have been adopted by Indians in the financial year 2023-24, while 224 children have been adopted by foreigners. The Women and Child Development Ministry has notified Adoption Regulations, 2022, which are in line with the Juvenile Justice (Care and Protection of Children) Act. These regulations aim to address the challenges faced by the Central Adoption Resource Authority (CARA) and other stakeholders. CARA has developed CARINGS, an online adoption platform, to bring transparency and streamline the adoption process. Please note that this summary is based on the information provided in the article.
+
 Wed, 13 Dec 2023 13:18:21 +0000
 ### [‘True leaders lead from behind’ & ‘India’s political dynasties’](https://theprint.in/last-laughs/true-leaders-lead-from-behind-indias-political-dynasties/1884355/)
 

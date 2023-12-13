@@ -1,3 +1,8 @@
+Wed, 13 Dec 2023 14:11:04 +0000
+### [Epic Games wins case against Google over Play Store ‘monopoly’: What happened, its implications](https://indianexpress.com/article/explained/explained-law/epic-games-google-play-store-case-9067137/)
+
+Article found but Couldn't summarize
+
 Wed, 13 Dec 2023 13:13:57 +0000
 ### [India votes in favour of UN resolution demanding Gaza ceasefire: Everything you need to know](https://indianexpress.com/article/explained/explained-global/india-vote-favour-un-resolution-gaza-ceasefire-9066979/)
 

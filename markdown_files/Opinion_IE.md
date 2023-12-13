@@ -1,3 +1,8 @@
+Wed, 13 Dec 2023 13:59:04 +0000
+### [Parliament attacks have exposed shameful lack of security preparedness](https://indianexpress.com/article/opinion/columns/parliament-attacks-have-exposed-shameful-lack-of-security-preparedness-9067076/)
+
+Article found but Couldn't summarize
+
 Wed, 13 Dec 2023 13:13:13 +0000
 ### [UAPA, PMLA allow today’s Warren Hastings to exploit law for political gain](https://indianexpress.com/article/opinion/columns/uapa-pmla-allow-todays-warren-hastings-to-exploit-law-for-political-gain-9066890/)
 

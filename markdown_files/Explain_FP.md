@@ -1,3 +1,9 @@
+Wed, 13 Dec 2023 19:25:12 +0530
+### [Lok Sabha breach: Who is Pratap Simha, the BJP MP who issued visitors pass to intruders?](https://www.firstpost.com/explainers/lok-sabha-breach-who-is-pratap-simha-the-bjp-mp-who-issued-visitors-pass-to-intruders-13499932.html)
+
+Article found but Couldn't summarize 
+Lok Sabha breach: Who is Pratap Simha, the BJP MP who issued visitors pass to intruders?
+
 Wed, 13 Dec 2023 18:03:19 +0530
 ### [Who are the five people who were behind the Lok Sabha breach?](https://www.firstpost.com/explainers/who-are-the-five-people-who-were-behind-the-lok-sabha-breach-13500542.html)
 

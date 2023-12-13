@@ -1,3 +1,9 @@
+Wed, 13 Dec 2023 19:50:31 +0530
+### [Vantage | Why world's investors and political leaders are wooing Vietnam](https://www.firstpost.com/opinion/vantage-why-worlds-investors-and-political-leaders-are-wooing-vietnam-13500942.html)
+
+Article found but Couldn't summarize 
+Vantage | Why world's investors and political leaders are wooing Vietnam
+
 Wed, 13 Dec 2023 18:34:15 +0530
 ### [Supreme Court’s Article 370 verdict ignites hope and concern](https://www.firstpost.com/opinion/supreme-courts-article-370-verdict-ignites-hope-and-concern-13500122.html)
 

@@ -5,6 +5,15 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Opinion_IE.xml</link>
 		<description>Opinion IE</description>
 		<item>
+			<title>Parliament attacks have exposed shameful lack of security preparedness</title>
+			<link>https://indianexpress.com/article/opinion/columns/parliament-attacks-have-exposed-shameful-lack-of-security-preparedness-9067076/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Wed, 13 Dec 2023 13:59:04 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2023/12/Parliament-4.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2023/12/Parliament-4.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>UAPA, PMLA allow today’s Warren Hastings to exploit law for political gain</title>
 			<link>https://indianexpress.com/article/opinion/columns/uapa-pmla-allow-todays-warren-hastings-to-exploit-law-for-political-gain-9066890/</link>
 			<description>Article found but Couldn't summarize</description>
