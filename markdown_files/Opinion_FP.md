@@ -1,3 +1,9 @@
+Wed, 13 Dec 2023 15:01:07 +0530
+### [India must look beyond the China question to understand US' mixed signals](https://www.firstpost.com/opinion/india-must-look-beyond-the-china-question-to-understand-us-mixed-signals-13499492.html)
+
+Article found but Couldn't summarize 
+India must look beyond the China question to understand US' mixed signals
+
 Wed, 13 Dec 2023 13:04:26 +0530
 ### [Vantage | Why West Africa is going soft on Niger's coup leaders](https://www.firstpost.com/opinion/vantage-why-west-africa-is-going-soft-on-nigers-coup-leaders-13498852.html)
 

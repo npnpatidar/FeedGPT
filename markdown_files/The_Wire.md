@@ -1,3 +1,15 @@
+2023-12-13T15:30:30+05:30
+### [Governors' Pocket Veto Compromises Constitutional Probity](https://thewire.in/law/governors-pocket-veto-compromises-constitutional-probity)
+
+No Article text 
+The tendency of governors sitting indefinitely on Bills cleared by state Assemblies raises alarm. When a lack of probity is seen amongst the constitutional heads of many states run by Opposition parties, it indicates design.
+
+2023-12-13T15:00:54+05:30
+### [What Will the Supreme Court's Article 370 Judgment Mean for Politics in J&K?](https://thewire.in/politics/what-will-the-supreme-courts-article-370-judgment-mean-for-politics-in-jk)
+
+No Article text 
+The court directed the Election Commission of India to conduct assembly polls in J&amp;K by September 30, 2024.
+
 2023-12-13T14:30:07+05:30
 ### [Prasanth Vijay's Film 'Daayam' Unravels Kerala's Gender Paradox Amidst Grief and Patriarchy](https://thewire.in/film/prasanth-vijays-film-daayam-unravels-keralas-gender-paradox-amidst-grief-and-patriarchy)
 

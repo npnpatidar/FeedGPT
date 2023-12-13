@@ -1,3 +1,9 @@
+Wed, 13 Dec 2023 15:38:42 +0530
+### [Lok Sabha sees major security breach: How Parliament is protected from threats and attacks](https://www.firstpost.com/explainers/lok-sabha-sees-major-security-breach-how-parliament-is-protected-from-threats-and-attacks-13499732.html)
+
+Article found but Couldn't summarize 
+Lok Sabha sees major security breach: How Parliament is protected from threats and attacks
+
 Wed, 13 Dec 2023 14:04:30 +0530
 ### [The significant changes in criminal law Bills](https://www.firstpost.com/explainers/terror-definition-expanded-mental-cruelty-and-more-the-significant-changes-in-criminal-law-bills-13499012.html)
 

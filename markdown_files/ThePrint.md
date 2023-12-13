@@ -1,3 +1,123 @@
+Wed, 13 Dec 2023 10:17:22 +0000
+### [Techwarezen Celebrates Second Anniversary In Jaipur, Launching SportsFigure and AndroHive Apps](https://theprint.in/ani-press-releases/techwarezen-celebrates-second-anniversary-in-jaipur-launching-sportsfigure-and-androhive-apps/1884259/)
+
+Article found but Couldn't summarize 
+PNN Noida (Uttar Pradesh) [India], December 13: Techwarezen Private Limited, a leading game development and IT services company, recently commemorated its second anniversary with a memorable milestone. The company, founded by Vivek Kumar Jha and Lead By Vishal Swami, celebrated its journey over the past two years with a special staff excursion to Jaipur. The [&#8230;]
+
+Wed, 13 Dec 2023 10:17:13 +0000
+### [Cricket-‘Not political’, Khawaja to fight Gaza message ban](https://theprint.in/sport/cricket-not-political-khawaja-to-fight-gaza-message-ban/1884257/)
+
+Article found but Couldn't summarize 
+PERTH (Reuters) -Australia batsman Usman Khawaja believes the statements he wrote on his shoes in support of the people of Gaza were not political and said he would fight the International Cricket
+
+Wed, 13 Dec 2023 10:17:12 +0000
+### [Suhana Swasthyam: A Resounding Success! India’s Largest Wellness Festival Wraps Up Its Transformative Second Edition in Pune](https://theprint.in/ani-press-releases/suhana-swasthyam-a-resounding-success-indias-largest-wellness-festival-wraps-up-its-transformative-second-edition-in-pune/1884256/)
+
+Article found but Couldn't summarize 
+PNN Mumbai (Maharashtra) [India], December 13: &#8220;Suhana Swasthyam: The Global Festival of Wellness,&#8221; which took place in Pune from December 1st to 3rd, successfully wrapped up its second edition, inspiring and enlightening 12,000 guests as they embarked on a path towards holistic well-being. The book &#8220;Awakening Your Bliss,&#8221; a thorough exploration into the realms of [&#8230;]
+
+Wed, 13 Dec 2023 10:17:02 +0000
+### [CLAGE, Germany’s Trusted Brand, Introduces the Next-gen Water Heaters in India](https://theprint.in/ani-press-releases/clage-germanys-trusted-brand-introduces-the-next-gen-water-heaters-in-india/1884253/)
+
+Article found but Couldn't summarize 
+NewsVoir Mumbai (Maharashtra) [India], December 13: Beat the winter blues this season with Clage, Germany&#8217;s top brand, bringing its premium range of water heaters to the Indian market. Blutherm, India&#8217;s leading curator of premium energy-efficient, sustainable products, has brought these premium water heaters through an exclusive partnership with Clage to cater to the Indian market. [&#8230;]
+
+Wed, 13 Dec 2023 10:16:58 +0000
+### [A quarter of freshwater fish risk extinction -study](https://theprint.in/environment/a-quarter-of-freshwater-fish-risk-extinction-study-2/1884250/)
+
+Article found but Couldn't summarize 
+By Emma Farge GENEVA (Reuters) - About a quarter of all freshwater fish species are at risk of extinction due to threats from climate change and pollution, the latest Red List of Threatened Species
+
+Wed, 13 Dec 2023 10:16:48 +0000
+### [Ferrari and Philip Morris to collaborate to cut carbon footprint of Italian plants](https://theprint.in/environment/ferrari-and-philip-morris-to-collaborate-to-cut-carbon-footprint-of-italian-plants/1884248/)
+
+Article found but Couldn't summarize 
+MILAN (Reuters) - Luxury sportscar maker Ferrari said on Wednesday it would work with tobacco company Philip Morris International (PMI) to study ways in which they could cut the carbon footprint of
+
+Wed, 13 Dec 2023 10:16:37 +0000
+### [COP28 agreeable to Saudis as it lets nations chart own course – source](https://theprint.in/environment/cop28-agreeable-to-saudis-as-it-lets-nations-chart-own-course-source/1884246/)
+
+Article found but Couldn't summarize 
+By Maha El Dahan DUBAI (Reuters) - The deal struck at the COP28 U.N. climate summit is agreeable because it provides a "menu" for every country to follow its own pathway to the energy transition, a
+
+Wed, 13 Dec 2023 10:16:22 +0000
+### [Gold creeps higher on weaker yields, traders brace for Fed verdict](https://theprint.in/economy/gold-creeps-higher-on-weaker-yields-traders-brace-for-fed-verdict/1884244/)
+
+Article found but Couldn't summarize 
+By Anjana Anil (Reuters) - Gold prices edged up on Wednesday, buoyed by weaker Treasury yields, but bullion was still near its lowest in over three weeks as the dollar inched higher ahead of the U.S.
+
+Wed, 13 Dec 2023 10:16:12 +0000
+### [Stocks bide time ahead of Fed decision; oil slumps](https://theprint.in/economy/stocks-bide-time-ahead-of-fed-decision-oil-slumps/1884242/)
+
+Article found but Couldn't summarize 
+By Rae Wee and Alun John SINGAPORE/LONDON (Reuters) -Oil prices slid to six-month lows on Wednesday and world shares killed time ahead of the year's final Federal Reserve policy decision and clues
+
+Wed, 13 Dec 2023 10:16:03 +0000
+### [Airlines charging exorbitant fares for Nagpur where legislature session is underway: Prithviraj](https://theprint.in/india/airlines-charging-exorbitant-fares-for-nagpur-where-legislature-session-is-underway-prithviraj/1884240/)
+
+Article found but Couldn't summarize 
+Nagpur, Dec 13 (PTI) Congress legislator Prithviraj Chavan on Wednesday asked the Maharashtra government to take up the issue of airlines charging exorbitantly for flights to Nagpur, where the winter session of the state legislature is underway, with the Centre. Speaking in the legislative assembly, Chavan attributed the high rise in air fares to the [&#8230;]
+
+Wed, 13 Dec 2023 10:16:02 +0000
+### [Rupee falls to record closing ahead of U.S. Fed outcome](https://theprint.in/economy/rupee-falls-to-record-closing-ahead-of-u-s-fed-outcome/1884239/)
+
+Article found but Couldn't summarize 
+By Jaspreet Kalra MUMBAI (Reuters) - The Indian rupee fell to its record closing low on Wednesday as an uptick in the dollar index pressured the local unit ahead of the U.S. Federal Reserve's monetary
+
+Wed, 13 Dec 2023 10:15:50 +0000
+### [Don’t interfere in Manipur’s internal affairs: CM Biren Singh tells Mizoram counterpart](https://theprint.in/india/dont-interfere-in-manipurs-internal-affairs-cm-biren-singh-tells-mizoram-counterpart/1884237/)
+
+Article found but Couldn't summarize 
+Imphal, Dec 13 (PTI) Manipur Chief Minister N Biren Singh has asked his Mizoram counterpart Lalduhoma not to interfere in the internal affairs of the state. Singh said while neighbouring states can extend their support to resolve the ethnic strife in Manipur, he requested the Mizoram chief minister to refrain from commenting on the internal [&#8230;]
+
+Wed, 13 Dec 2023 10:15:48 +0000
+### [Japan’s military needs change, sexually assaulted ex-soldier says](https://theprint.in/world/japans-military-needs-change-sexually-assaulted-ex-soldier-says/1884236/)
+
+Article found but Couldn't summarize 
+By Sakura Murakami TOKYO (Reuters) - Japan's military will need sweeping changes to root out harassment, ex-soldier Rina Gonoi said on Wednesday, a day after a Japanese court found three of her former
+
+Wed, 13 Dec 2023 10:15:38 +0000
+### [Cong seeks answers from govt on ‘serious security breach’ in Parliament](https://theprint.in/india/cong-seeks-answers-from-govt-on-serious-security-breach-in-parliament/1884234/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 13 (PTI) The Congress on Wednesday demanded answers from the government on the &#8220;serious security breach&#8221; in Lok Sabha, saying does the incident &#8220;not prove that necessary precautions were not taken&#8221;. Two persons jumped into the Lok Sabha chamber from the public gallery during Zero Hour and released yellow gas from canisters [&#8230;]
+
+Wed, 13 Dec 2023 10:15:37 +0000
+### [Ukraine says 53, including 6 children, hurt in Russian missile strikes on Kyiv](https://theprint.in/world/ukraine-says-53-including-6-children-hurt-in-russian-missile-strikes-on-kyiv/1884233/)
+
+Article found but Couldn't summarize 
+By Sergiy Karazy and Valentyn Ogirenko KYIV (Reuters) -Russia's second missile assault on Kyiv this week injured at least 53 people, damaging homes and a children's hospital, Ukrainian officials said
+
+Wed, 13 Dec 2023 10:15:26 +0000
+### [Ukrainian food exports by road recover after Polish crossing opened – brokers](https://theprint.in/world/ukrainian-food-exports-by-road-recover-after-polish-crossing-opened-brokers/1884231/)
+
+Article found but Couldn't summarize 
+KYIV (Reuters) - The volume of Ukrainian food exports by road has stabilised after the partial unblocking of the border with Poland, but it is still below the November figures, brokers said on
+
+Wed, 13 Dec 2023 10:15:25 +0000
+### [Police identify other person who jumped into LS chamber](https://theprint.in/india/police-identify-other-person-who-jumped-into-ls-chamber/1884229/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 13 (PTI) Police are learnt to have identified the second person who jumped into the Lok Sabha chamber as Manoranjan. The other person has been identified as Sagar Sharma from the visitor pass in his possession. The two had jumped inside the House from the public gallery and opened canisters that emitted [&#8230;]
+
+Wed, 13 Dec 2023 10:15:17 +0000
+### [Pakistan court indicts Imran Khan for leaking state secrets – media](https://theprint.in/world/pakistan-court-indicts-imran-khan-for-leaking-state-secrets-media/1884228/)
+
+Article found but Couldn't summarize 
+Islamabad (Reuters) -A Pakistani court on Wednesday indicted former Prime Minister Imran Khan on charges of leaking state secrets, several media channels reported, delivering a fresh blow to the
+
+Wed, 13 Dec 2023 10:15:14 +0000
+### [Rajya Sabha chairman prods members in call for discussion on student suicides](https://theprint.in/india/rajya-sabha-chairman-prods-members-in-call-for-discussion-on-student-suicides/1884226/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 13 (PTI) Rajya Sabha Chairman Jagdeep Dhankhar on Wednesday took cognisance of suicides among students due to the stress of competitive exams and prodded members of the Upper House to propose a discussion on the issue. During Question Hour in the Rajya Sabha, five supplementaries were asked by members on suicides among [&#8230;]
+
+Wed, 13 Dec 2023 10:15:06 +0000
+### [In sea change for Poland, new government is sworn in](https://theprint.in/world/in-sea-change-for-poland-new-government-is-sworn-in/1884225/)
+
+Article found but Couldn't summarize 
+By Alan Charlish and Pawel Florkiewicz WARSAW (Reuters) -New Prime Minister Donald Tusk's government was sworn in by Poland's president on Wednesday, the final step in a transfer of power that marks a
+
 Wed, 13 Dec 2023 09:23:15 +0000
 ### [Cricket-South Africa reach rain-reduced target to beat India](https://theprint.in/sport/cricket-south-africa-reach-rain-reduced-target-to-beat-india/1884145/)
 
