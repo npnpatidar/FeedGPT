@@ -1,3 +1,128 @@
+Wed, 13 Dec 2023 04:15:21 +0000
+### [Reaction to the UN’s final proposal for COP28 deal](https://theprint.in/environment/reaction-to-the-uns-final-proposal-for-cop28-deal/1883773/)
+
+Article found but Couldn't summarize 
+DUBAI (Reuters) - The COP28 presidency released on Wednesday a proposed text for a final climate deal that would for the first time push nations to "transition away" from fossil fuels to avert the
+
+Wed, 13 Dec 2023 04:15:15 +0000
+### [SC-CASES](https://theprint.in/india/sc-cases-47/1883772/)
+
+As GPT-3.5, I am here to provide a summary of the article you shared. The article discusses the list of important cases to be heard on December 13, Wednesday, by the Supreme Court of India. Here are the key points:
+
+1. A five-judge constitution bench of the Supreme Court will hear a plea related to the reconsideration of its 2018 judgment. The judgment stated that stays granted by lower courts or high courts in civil and criminal cases will automatically expire after six months, unless specifically extended.
+
+2. The Supreme Court will also hear pleas related to various service-related issues of women officers in the defense forces.
+
+3. Another plea to be heard is from the Tamil Nadu government, alleging a delay by the state governor in giving assent to bills passed by the state assembly.
+
+Please note that this summary is based on the information provided in the article.
+
+Wed, 13 Dec 2023 04:15:03 +0000
+### [China’s Beijing girds for blizzards, looks to avert disruption](https://theprint.in/world/chinas-beijing-girds-for-blizzards-looks-to-avert-disruption/1883770/)
+
+Article found but Couldn't summarize 
+By Ryan Woo and Liz Lee BEIJING (Reuters) -Heavy snow, blizzards and plunging temperatures are forecast to sweep China in what could be one of its most severe cold snaps in December, spurring
+
+Wed, 13 Dec 2023 04:15:02 +0000
+### [SPORTS SCHEDULE](https://theprint.in/sport/sports-schedule-18/1883769/)
+
+GPT-3.5: On Wednesday, December 13, the sports schedule includes several cricket events. There will be a preview of the 3rd T20I between India and South Africa in Johannesburg. Additionally, there will be a preview of the Women's Test match between India and England in Mumbai. The Vijay Hazare Trophy semifinal match between Haryana and Tamil Nadu will take place in Rajkot at 1:30 pm (D/N). Apart from cricket, there are also football matches, including the ISL match between Chennayin and Bengaluru FC in Chennai at 8 pm. Other stories related to India and international football will be covered as well. The Khelo India Para Games will be held in New Delhi, and there will be a preview of the Junior Men's World Cup semifinal between India and Germany in hockey. Pro Kabaddi League matches are also scheduled. Please note that this report is auto-generated from PTI news service, and ThePrint holds no responsibility for its content.
+
+Wed, 13 Dec 2023 04:08:51 +0000
+### [India’s trade deficit with China is so far lower in 2023 than last year. Here’s why](https://theprint.in/economy/indias-trade-deficit-with-china-is-so-far-lower-in-2023-than-last-year-heres-why/1882879/)
+
+Article found but Couldn't summarize 
+Smaller deficit this year could be down to slowing Chinese economy. In terms of volume, Indian exports to China remain roughly one-tenth of Chinese exports to India.
+
+Wed, 13 Dec 2023 04:00:25 +0000
+### [India votes in favour of UNGA resolution demanding immediate humanitarian ceasefire in Gaza](https://theprint.in/world/india-votes-in-favour-of-unga-resolution-demanding-immediate-humanitarian-ceasefire-in-gaza/1883763/)
+
+Article found but Couldn't summarize 
+United Nations, Dec 13 (PTI) India has voted in favour of a draft resolution in the UN General Assembly that demanded an immediate humanitarian ceasefire in the Israel-Hamas conflict and unconditional release of all hostages. The 193-member UN General Assembly overwhelmingly adopted the resolution at an emergency special session on Tuesday, with 153 nations voting [&#8230;]
+
+Wed, 13 Dec 2023 04:00:16 +0000
+### [Australian resort towns along Great Barrier Reef brace for cyclone](https://theprint.in/world/australian-resort-towns-along-great-barrier-reef-brace-for-cyclone/1883762/)
+
+Article found but Couldn't summarize 
+By Lewis Jackson SYDNEY (Reuters) - Tourist towns along Australia's Great Barrier Reef are bracing for a tropical cyclone set to hit the Queensland state coast on Wednesday afternoon as first winds
+
+Wed, 13 Dec 2023 04:00:13 +0000
+### [2021 ganja seizure in Mumbai: Inter-state drug network kingpin, his aide nabbed from Odisha](https://theprint.in/india/2021-ganja-seizure-in-mumbai-inter-state-drug-network-kingpin-his-aide-nabbed-from-odisha/1883761/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 13 (PTI) The Mumbai police have arrested the alleged kingpin of an inter-state drug syndicate and his aide from Odisha in connection with a two-year-old case in which ganja worth Rs 3.85 crore was seized in the metropolis, an official said. The Anti-Narcotics Cell (ANC) of the Mumbai crime branch arrested the alleged [&#8230;]
+
+Wed, 13 Dec 2023 04:00:03 +0000
+### [Indian shares open flat as inflation data reignites rate concerns](https://theprint.in/india/indian-shares-open-flat-as-inflation-data-reignites-rate-concerns/1883759/)
+
+Article found but Couldn't summarize 
+By Bharath Rajeswaran BENGALURU (Reuters) -India's benchmark Nifty 50 opened little changed on Wednesday after domestic and U.S. data reignited inflation concerns and elevated bets of a delay in rate
+
+Wed, 13 Dec 2023 04:00:03 +0000
+### [SPORTS SCHEDULE](https://theprint.in/sport/sports-schedule-17/1883758/)
+
+GPT-3.5: On Wednesday, December 13, the sports schedule includes several cricket events. There will be a preview of the 3rd T20I between India and South Africa in Johannesburg. Additionally, there will be a preview of the Women's Test match between India and England in Mumbai. The Vijay Hazare Trophy semifinal match between Haryana and Tamil Nadu will take place in Rajkot at 1:30 pm (D/N). Apart from cricket, there are also football matches, including the ISL match between Chennayin and Bengaluru FC in Chennai at 8 pm. Other stories related to India and international football will be covered as well. The Khelo India Para Games will be held in New Delhi, and there will be a preview of the Junior Men's World Cup semifinal between India and Germany in hockey. Pro Kabaddi League matches are also scheduled. Please note that this report is auto-generated from PTI news service, and ThePrint holds no responsibility for its content.
+
+Wed, 13 Dec 2023 03:45:37 +0000
+### [J-K LG pays tributes to 2001 Parliament attack victims](https://theprint.in/india/j-k-lg-pays-tributes-to-2001-parliament-attack-victims/1883752/)
+
+Article found but Couldn't summarize 
+Jammu, Dec 13 (PTI) Jammu and Kashmir Lieutenant Governor Manoj Sinha on Wednesday paid tributes to those who died in the terror attack on Parliament on this day in 2001. Five heavily armed terrorists stormed the Parliament complex on this day 22 years ago, killing nine people. The terrorists were gunned down before they could [&#8230;]
+
+Wed, 13 Dec 2023 03:45:21 +0000
+### [1 person injured, 3 cars gutted in fire in Mumbai](https://theprint.in/india/1-person-injured-3-cars-gutted-in-fire-in-mumbai/1883751/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 13 (PTI) A 45-year-old person suffered burn injuries after some cars caught fire in Andheri area of Mumbai in the early hours on Wednesday, officials said. The incident took place opposite the Trans Residency on Mahakali Caves Road in Andheri (East) at around 2.30 am, they said. A person, identified as Faruq Siddhiki [&#8230;]
+
+Wed, 13 Dec 2023 03:45:05 +0000
+### [North Korea hosts Russia delegation for talks on economic cooperation](https://theprint.in/world/north-korea-hosts-russia-delegation-for-talks-on-economic-cooperation/1883749/)
+
+Article found but Couldn't summarize 
+By Hyunsu Yim SEOUL (Reuters) - A North Korean minister met with the governor of the Russian region bordering the two countries to discuss boosting regional economic cooperation, state media KCNA
+
+Wed, 13 Dec 2023 03:45:03 +0000
+### [Nation will forever be indebted to security personnel: Prez Murmu on 2001 Parliament attack](https://theprint.in/india/nation-will-forever-be-indebted-to-security-personnel-prez-murmu-on-2001-parliament-attack/1883748/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 13 (PTI) President Droupadi Murmu Wednesday said the nation will forever be indebted to the brave security personnel who laid down their lives in the 2001 terror attack on Parliament, and asked all to reiterate the pledge to wipe out terrorism. Terrorists of the Pakistan-based Lashkar-e-Taiba and Jaish-e-Mohammed outfits attacked the Parliament [&#8230;]
+
+Wed, 13 Dec 2023 03:32:01 +0000
+### [COP28 proposed deal references transition away from all fossil fuels](https://theprint.in/environment/cop28-proposed-deal-references-transition-away-from-all-fossil-fuels/1883743/)
+
+Article found but Couldn't summarize 
+DUBAI (Reuters) -The U.N.'s climate body on Wednesday published the proposed text of the deal countries hope to reach at the COP28 summit in Dubai, which included a reference to transitioning away
+
+Wed, 13 Dec 2023 03:31:42 +0000
+### [Actor Andre Braugher, star of ‘Brooklyn Nine-Nine’, dead at 61](https://theprint.in/entertainment/actor-andre-braugher-star-of-brooklyn-nine-nine-dead-at-61/1883741/)
+
+Article found but Couldn't summarize 
+(Reuters) - Two-time Emmy-winning actor Andre Braugher, star of the television comedy "Brooklyn Nine-Nine" and the 1990s police drama "Homicide: Life on the Street," died on Monday after a brief
+
+Wed, 13 Dec 2023 03:31:18 +0000
+### [Japan PM expected to overhaul scandal-plagued cabinet as soon as Wednesday](https://theprint.in/world/japan-pm-expected-to-overhaul-scandal-plagued-cabinet-as-soon-as-wednesday/1883738/)
+
+Article found but Couldn't summarize 
+By Kaori Kaneko and Satoshi Sugiyama TOKYO (Reuters) - Japanese Prime Minister Fumio Kishida is widely expected to announce a cabinet shake-up as soon as Wednesday as he seeks to stem the fallout from
+
+Wed, 13 Dec 2023 03:30:49 +0000
+### [Dozens injured in Kyiv in Russia’s second missile assault this week -Ukraine](https://theprint.in/world/dozens-injured-in-kyiv-in-russias-second-missile-assault-this-week-ukraine/1883736/)
+
+Article found but Couldn't summarize 
+By Sergiy Karazy and Valentyn Ogirenko KYIV (Reuters) - Russia's second missile assault on Kyiv this week injured at least 34 people and damaged homes and a children's hospital, Ukrainian officials
+
+Wed, 13 Dec 2023 03:30:48 +0000
+### [Tribal MLA Vishnu Deo Sai to take oath as Chhattisgarh CM; PM Modi, Shah to attend](https://theprint.in/india/tribal-mla-vishnu-deo-sai-to-take-oath-as-chhattisgarh-cm-pm-modi-shah-to-attend/1883735/)
+
+Article found but Couldn't summarize 
+Raipur, Dec 13 (PTI) BJP MLA Vishnu Deo Sai will take oath as chief minister of Chhattisgarh on Wednesday at an event in Raipur which will be attended by Prime Minister Narendra Modi, Union Home Minister Amit Shah, other senior BJP leaders and chief ministers of other states. &#8220;Like the historic victory of BJP in [&#8230;]
+
+Wed, 13 Dec 2023 03:30:04 +0000
+### [Proposed COP28 climate deal calls for ‘transitioning away from fossil fuels’](https://theprint.in/world/proposed-cop28-climate-deal-calls-for-transitioning-away-from-fossil-fuels/1883733/)
+
+Article found but Couldn't summarize 
+By Valerie Volcovici, Gloria Dickie and William James DUBAI (Reuters) - The COP28 Presidency released a proposed text of a final climate deal on Wednesday that would, for the first time, push nations
+
 Wed, 13 Dec 2023 03:15:37 +0000
 ### [Netball-Netball Australia end player pay dispute, new three-year deal inked](https://theprint.in/sport/netball-netball-australia-end-player-pay-dispute-new-three-year-deal-inked/1883729/)
 

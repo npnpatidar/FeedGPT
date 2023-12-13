@@ -5,6 +5,15 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Tech_Mint.xml</link>
 		<description>Tech Mint</description>
 		<item>
+			<title>Apple adds new Stolen Device Protection with iOS 17.3 beta. What is it and how does it work?</title>
+			<link>https://www.livemint.com/technology/tech-news/apple-adds-new-stolen-device-protection-with-ios-17-3-beta-what-is-it-and-how-does-it-work-11702435957732.html</link>
+			<description>Stolen Device Protection is a new feature introduced by Apple in the iOS 17.3 beta. It is designed to protect users in case their iPhone is stolen and the thief knows the password. To enable Stolen Device Protection, users can navigate to the Face ID and Passcode settings in the iOS 17.3 Beta. The stable version of the upgrade is expected to be available to all users in January or February. Once enabled, users will need to use Face ID or Touch ID to perform various tasks, such as viewing passwords stored in iCloud Keychain, applying for a new Apple Card, turning off Lost Mode, resetting the device to factory settings, and using stored payment information in Safari. Apple is also adding a one-hour delay followed by Face ID or Touch ID verification for sensitive tasks like changing the Apple ID password or iPhone passcode. However, there will be no delay for these tasks if they are performed in familiar places like home or office.</description>
+			<pubDate>Wed, 13 Dec 2023 09:25:44 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://www.livemint.com/lm-img/img/2023/12/13/1600x900/SKOREA-APPLE-STORE-23_1702439552788_1702439565633.jpg"></media:thumbnail>
+			<media:content url="https://www.livemint.com/lm-img/img/2023/12/13/1600x900/SKOREA-APPLE-STORE-23_1702439552788_1702439565633.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>iQOO 12 with Snapdragon 8 Gen 3 SoC launched in India. Check price, specs, launch offers and more</title>
 			<link>https://www.livemint.com/technology/gadgets/iqoo-12-with-snapdragon-8-gen-3-soc-launched-in-india-check-price-specs-launch-offers-and-more-11702428675395.html</link>
 			<description>Article found but Couldn't summarize 

@@ -1,3 +1,15 @@
+Wed, 13 Dec 2023 09:25:05 +0530
+### [Attack on Indian consulate in San Francisco and more: What FBI chief discussed with NIA boss](https://www.firstpost.com/explainers/attack-on-indian-consulate-in-san-francisco-and-more-what-fbi-chief-discussed-with-nia-boss-13497482.html)
+
+Article found but Couldn't summarize 
+Attack on Indian consulate in San Francisco and more: What FBI chief discussed with NIA boss
+
+Wed, 13 Dec 2023 09:24:47 +0530
+### [From princess who walks on the streets to deputy CM: The rise and rise of Diya Kumari](https://www.firstpost.com/explainers/from-princess-who-walks-on-the-streets-to-deputy-cm-the-rise-and-rise-of-diya-kumari-13497522.html)
+
+Article found but Couldn't summarize 
+From princess who walks on the streets to deputy CM: The rise and rise of Diya Kumari
+
 Tue, 12 Dec 2023 20:58:35 +0530
 ### [Why has BJP picked new CM faces in Hindi heartland?](https://www.firstpost.com/explainers/why-has-bjp-picked-new-cm-faces-in-hindi-heartland-13496732.html)
 
