@@ -15,6 +15,12 @@ Tue, 12 Dec 2023 18:45:28 +0530
 Article found but Couldn't summarize 
 Who is Bhajanlal Sharma, BJP's choice for Rajasthan CM? Why was he chosen?
 
+Tue, 12 Dec 2023 18:22:56 +0530
+### [FirstUp: New Madhya Pradesh, Chhattisgarh CMs to take oath and other big news today](https://www.firstpost.com/explainers/firstup-new-madhya-pradesh-chhattisgarh-cms-to-take-oath-and-other-big-news-today-13495452.html)
+
+Article found but Couldn't summarize 
+FirstUp: New Madhya Pradesh, Chhattisgarh CMs to take oath and other big news today
+
 Tue, 12 Dec 2023 17:07:36 +0530
 ### [Qatar sent millions to Hamas for years and Netanyahu encouraged it. Here’s why](https://www.firstpost.com/explainers/qatar-sent-millions-to-hamas-for-years-and-netanyahu-encouraged-it-heres-why-13495242.html)
 

@@ -1,3 +1,122 @@
+Wed, 13 Dec 2023 01:15:15 +0000
+### [Argentina devalues peso, cuts spending to treat fiscal deficit ‘addiction’](https://theprint.in/world/argentina-devalues-peso-cuts-spending-to-treat-fiscal-deficit-addiction/1883691/)
+
+Article found but Couldn't summarize 
+By Jorge Otaola and Walter Bianchi BUENOS AIRES (Reuters) -Argentina will weaken its peso over 50% to 800 per dollar, cut energy subsidies, and cancel tenders of public works, new Economy Minister
+
+Wed, 13 Dec 2023 01:15:03 +0000
+### [China’s Xi meets Vietnam leaders in second day of state visit to Hanoi](https://theprint.in/world/chinas-xi-meets-vietnam-leaders-in-second-day-of-state-visit-to-hanoi/1883689/)
+
+Article found but Couldn't summarize 
+HANOI (Reuters) - China's President Xi Jinping will meet Vietnamese leaders on Wednesday on the second day of a state visit to Hanoi, during which dozens of deals have been announced, including on
+
+Wed, 13 Dec 2023 00:46:32 +0000
+### [Rugby-Arundell ineligible for England until 2026 after Racing 92 contract extension](https://theprint.in/sport/rugby-arundell-ineligible-for-england-until-2026-after-racing-92-contract-extension/1883687/)
+
+Article found but Couldn't summarize 
+(Reuters) - Wing Henry Arundell will be ineligible for England after French club Racing 92 announced on Tuesday he had signed a contract extension until 2026. England's Rugby Football Union rules
+
+Wed, 13 Dec 2023 00:46:16 +0000
+### [US agency will not reinstate $900 million subsidy for SpaceX Starlink unit](https://theprint.in/tech/us-agency-will-not-reinstate-900-million-subsidy-for-spacex-starlink-unit/1883685/)
+
+Article found but Couldn't summarize 
+By David Shepardson WASHINGTON (Reuters) - The U.S. Federal Communications Commission on Tuesday reaffirmed its 2022 decision to deny SpaceX satellite internet unit Starlink $885.5 million in rural
+
+Wed, 13 Dec 2023 00:46:03 +0000
+### [Arctic warming threatens wider world with rising seas-US report](https://theprint.in/environment/arctic-warming-threatens-wider-world-with-rising-seas-us-report/1883683/)
+
+Article found but Couldn't summarize 
+By Timothy Gardner and Daniel Trotta (Reuters) - The Arctic experienced the warmest summer on record this year, contributing to extraordinary wildfires and melting glaciers while threatening the rest
+
+Wed, 13 Dec 2023 00:45:49 +0000
+### [Dollar on back foot as traders look to Fed for cut timing clues](https://theprint.in/economy/dollar-on-back-foot-as-traders-look-to-fed-for-cut-timing-clues/1883681/)
+
+Article found but Couldn't summarize 
+By Kevin Buckland TOKYO (Reuters) - The dollar remained on the back foot versus major rivals on Wednesday, as traders braced for the conclusion of a Federal Reserve policy meeting and clues on when
+
+Wed, 13 Dec 2023 00:45:35 +0000
+### [Australia backs UN resolution for Gaza ceasefire in rare split with US](https://theprint.in/world/australia-backs-un-resolution-for-gaza-ceasefire-in-rare-split-with-us/1883679/)
+
+Article found but Couldn't summarize 
+By Alasdair Pal SYDNEY (Reuters) - Australia Foreign Minister Penny Wong said on Wednesday the country had supported a UN resolution calling for a humanitarian ceasefire in Gaza out of concern for
+
+Wed, 13 Dec 2023 00:45:26 +0000
+### [White House sees ceasefire holding in eastern Democratic Republic of Congo -official](https://theprint.in/world/white-house-sees-ceasefire-holding-in-eastern-democratic-republic-of-congo-official/1883678/)
+
+Article found but Couldn't summarize 
+By Trevor Hunnicutt WASHINGTON (Reuters) - A 72-hour ceasefire agreed to by the parties involved in the conflict in the eastern Democratic Republic of Congo (DRC) is holding so far, according to a
+
+Wed, 13 Dec 2023 00:45:15 +0000
+### [UK’s Sunak sees off revolt to win vote on Rwanda migrant plan](https://theprint.in/world/uks-sunak-sees-off-revolt-to-win-vote-on-rwanda-migrant-plan/1883676/)
+
+Article found but Couldn't summarize 
+By Andrew MacAskill, Michael Holden and Alistair Smout LONDON (Reuters) - British Prime Minister Rishi Sunak avoided defeat in parliament on Tuesday on an emergency bill to revive his plan to send
+
+Wed, 13 Dec 2023 00:45:04 +0000
+### [Ukraine’s top mobile operator hit by biggest cyberattack of war](https://theprint.in/world/ukraines-top-mobile-operator-hit-by-biggest-cyberattack-of-war/1883674/)
+
+Article found but Couldn't summarize 
+By Max Hunder, Jonathan Landay and Stefaniia Bern KYIV (Reuters) - Ukraine's biggest mobile network operator said it hoped to restore operations by Wednesday after coming under what appeared to be the
+
+Wed, 13 Dec 2023 00:16:16 +0000
+### [Brazil Senate passes sports betting regulations](https://theprint.in/sport/brazil-senate-passes-sports-betting-regulations/1883673/)
+
+Article found but Couldn't summarize 
+BRASILIA (Reuters) -The Brazilian Senate on Tuesday passed a bill regulating and establishing taxes on sports bets, a measure that the government expects to bring in 1.65 billion reais ($332.27
+
+Wed, 13 Dec 2023 00:16:05 +0000
+### [Soccer-Man United can turn attention to improving in Premier League, Ten Hag says](https://theprint.in/sport/soccer-man-united-can-turn-attention-to-improving-in-premier-league-ten-hag-says/1883671/)
+
+Article found but Couldn't summarize 
+By Lori Ewing MANCHESTER, England (Reuters) - While Manchester United's involvement in European competition came to a crashing end on Tuesday with their 1-0 loss to Bayern Munich, embattled manager
+
+Wed, 13 Dec 2023 00:15:53 +0000
+### [Environmental groups ask lenders to avoid LNG project in Papua New Guinea](https://theprint.in/environment/environmental-groups-ask-lenders-to-avoid-lng-project-in-papua-new-guinea/1883670/)
+
+Article found but Couldn't summarize 
+By Lewis Jackson SYDNEY (Reuters) -Major global lenders should refuse to finance a liquefied natural gas (LNG) project in Papua New Guinea to help keep global warming in check, civil society groups
+
+Wed, 13 Dec 2023 00:15:34 +0000
+### [Australia govt sees budget almost in balance for 2023/24](https://theprint.in/world/australia-govt-sees-budget-almost-in-balance-for-2023-24/1883668/)
+
+Article found but Couldn't summarize 
+SYDNEY (Reuters) - Australia's government expects a much improved budget bottom line this year as revenues outpace forecasts, but is resisting calls for more cost-of-living handouts to avoid inflaming
+
+Wed, 13 Dec 2023 00:15:20 +0000
+### [Zelenskiy meets Republican doubts in push for US aid to fight Russia](https://theprint.in/world/zelenskiy-meets-republican-doubts-in-push-for-us-aid-to-fight-russia/1883666/)
+
+Article found but Couldn't summarize 
+By Trevor Hunnicutt, Patricia Zengerle and Richard Cowan WASHINGTON (Reuters) -President Joe Biden warned Republicans on Tuesday they would give Russia a "Christmas gift" if they failed to provide
+
+Wed, 13 Dec 2023 00:15:04 +0000
+### [Argentina to devalue peso, slash energy subsidies to fix economic crisis](https://theprint.in/world/argentina-to-devalue-peso-slash-energy-subsidies-to-fix-economic-crisis/1883664/)
+
+Article found but Couldn't summarize 
+By Jorge Otaola and Walter Bianchi BUENOS AIRES (Reuters) -Argentina will weaken its peso over 50% to 800 per dollar, cut energy subsidies, and cancel tenders of public works, new Economy Minister
+
+Tue, 12 Dec 2023 23:45:28 +0000
+### [Yemen’s Houthis warn ships in Red Sea to avoid travel to Palestinian territories](https://theprint.in/world/yemens-houthis-warn-ships-in-red-sea-to-avoid-travel-to-palestinian-territories/1883662/)
+
+As GPT-3.5, I can summarize the article for you. The article reports that a senior official from Yemen's Houthis has warned cargo ships in the Red Sea to avoid traveling towards the occupied Palestinian territories. The Houthis claimed responsibility for an attack on a Norwegian commercial tanker as a protest against Israel's bombardment of Gaza. The official also advised ships passing Yemen to keep their radios turned on and respond promptly to Houthi attempts at communication. The Houthis have been involved in the Israel-Hamas conflict, attacking vessels and launching drones and missiles at Israel from their base in Sanaa, Yemen's capital. Please note that this summary is generated by GPT-3.5 and may not reflect the complete details of the article.
+
+Tue, 12 Dec 2023 23:45:16 +0000
+### [Palestinian minister accuses Israel of starving Gazans; Israel says charge ‘obscene’](https://theprint.in/world/palestinian-minister-accuses-israel-of-starving-gazans-israel-says-charge-obscene/1883660/)
+
+Article found but Couldn't summarize 
+By Gabrielle Tétrault-Farber GENEVA (Reuters) -The Palestinian foreign minister on Tuesday accused Israel of starving Gaza, a charge swiftly rejected by an Israeli official, as the U.N. human rights
+
+Tue, 12 Dec 2023 23:45:04 +0000
+### [UN calls for immediate ceasefire in Gaza, Biden warns Israel is losing support](https://theprint.in/world/un-calls-for-immediate-ceasefire-in-gaza-biden-warns-israel-is-losing-support/1883658/)
+
+Article found but Couldn't summarize 
+By Nidal al-Mughrabi and Bassam Masoud CAIRO/GAZA (Reuters) -The United Nations on Tuesday demanded an immediate humanitarian ceasefire in the Gaza Strip as U.S. President Joe Biden warned Israel it
+
+Tue, 12 Dec 2023 23:18:04 +0000
+### [Soccer-Real beat Union Berlin 3-2 with late Ceballos goal for perfect group stage run](https://theprint.in/sport/soccer-real-beat-union-berlin-3-2-with-late-ceballos-goal-for-perfect-group-stage-run/1883656/)
+
+Article found but Couldn't summarize 
+BERLIN (Reuters) - Real Madrid's Dani Ceballos scored an 89th-minute winner to secure a 3-2 victory at Union Berlin in their final Champions League Group C match on Tuesday, to make it six wins from
+
 Tue, 12 Dec 2023 23:00:03 +0000
 ### [India votes in favour of UNGA draft resolution demanding immediate ceasefire in Gaza](https://theprint.in/world/india-votes-in-favour-of-unga-draft-resolution-demanding-immediate-ceasefire-in-gaza/1883630/)
 
