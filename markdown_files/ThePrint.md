@@ -1,3 +1,124 @@
+Thu, 14 Dec 2023 08:17:02 +0000
+### [Vivek Ramaswamy speaks on Universal values of Hinduism on being asked if the US can accept a Hindu President](https://theprint.in/world/vivek-ramaswamy-speaks-on-universal-values-of-hinduism-on-being-asked-if-the-us-can-accept-a-hindu-president/1885653/)
+
+Vivek Ramaswamy, an Indian-origin Republican presidential candidate, recently discussed his Hindu faith at a CNN town hall. He emphasized that he would not fake convert to further his political career and highlighted the shared values of Hinduism and Christianity. He also expressed his support for ending birthright citizenship for illegal immigrants, emphasizing that it shouldn't be a reward for violating the law. Additionally, he announced his 2024 US presidential election bid and is the second Indian-American to enter the 2024 Republican presidential primary after Nikki Haley.
+
+Thu, 14 Dec 2023 08:15:41 +0000
+### [BJP divided J-K for cronies, used brute majority to rob its people: PDP](https://theprint.in/india/bjp-divided-j-k-for-cronies-used-brute-majority-to-rob-its-people-pdp/1885652/)
+
+Article found but Couldn't summarize 
+Srinagar, Dec 14 (PTI) The BJP divided the land and resources of Jammu and Kashmir for the benefit of its &#8220;cronies&#8221; and used brute majority in Parliament to pass laws that disempower the region&#8217;s people, the Peoples Democratic Party said in its periodical. &#8220;Other than dividing up our land and resources for their cronies and [&#8230;]
+
+Thu, 14 Dec 2023 08:15:31 +0000
+### [Three Palestinians killed by Israeli forces in raid on Jenin – health ministry](https://theprint.in/world/three-palestinians-killed-by-israeli-forces-in-raid-on-jenin-health-ministry/1885651/)
+
+Article found but Couldn't summarize 
+RAMALLAH (Reuters) - Three Palestinians were killed on Thursday in an ongoing Israeli raid on the occupied West Bank city of Jenin and its refugee camp, the Palestinian health ministry said. A young
+
+Thu, 14 Dec 2023 08:15:27 +0000
+### [Eight security personnel suspended for Parliament security breach: Sources](https://theprint.in/india/eight-security-personnel-suspended-for-parliament-security-breach-sources/1885649/)
+
+Article found but Couldn't summarize 
+New Dehi, Dec 14 (PTI) Eight security personnel have been suspended for the security breach in Parliament, sources said on Thursday. Those suspended belong to various security agencies who were on deputation for Parliament security. Sources identified them as Rampal, Arvind, Vir Das, Ganesh, Anil, Pradeep, Vimitt and Narendra. &#8220;Though they are on deputation for [&#8230;]
+
+Thu, 14 Dec 2023 08:15:19 +0000
+### [Cyprus calls for EU rethink on Syria migration as refugee numbers rise](https://theprint.in/world/cyprus-calls-for-eu-rethink-on-syria-migration-as-refugee-numbers-rise/1885648/)
+
+The article highlights the increasing number of Syrian refugees arriving in Cyprus and the government's efforts to address the situation. The Cypriot interior minister, Constantinos Ioannou, is seeking the European Union's consideration to declare parts of Syria as safe for the repatriation of refugees. This request is based on a report by the European Union Agency for Asylum which stated that two Syrian governates – Damascus and Tartous – were assessed to have "no real risk for a civilian to be personally affected by indiscriminate violence."
+
+Cyprus has experienced a surge in asylum applications and refugee arrivals, with most of the migrants coming from Syria. The government is also focused on improving support for Lebanon, which hosts a significant number of refugees.
+
+The article also mentions that Cyprus became a migrant hotspot after the closure of the Turkish springboard to the Greek islands in a 2016 EU deal with Ankara. The island has seen a rise in the number of arrivals through a new migrant route from Africa, leading authorities to be concerned about potential future influxes.
+
+Furthermore, the idea of creating "safe zones" outside the EU for examining asylum requests is being considered, with Italy already announcing a plan to build such centers in Albania.
+
+Amid these developments, the article also reports that the United Nations refugee chief discussed the potential for more displacement in the wider region due to the Israel-Hamas conflict in Gaza at an international forum on refugees held in Geneva.
+
+The European Commission did not reply to requests for comment on the matter.
+
+Thu, 14 Dec 2023 08:15:14 +0000
+### [Decision on old pension scheme before budget session: Ajit Pawar](https://theprint.in/india/decision-on-old-pension-scheme-before-budget-session-ajit-pawar/1885646/)
+
+The article reports that the Maharashtra Deputy Chief Minister, Ajit Pawar, stated that the Chief Minister, Eknath Shinde, has assured government employees demanding restoration of the old pension scheme (OPS) that a decision on it will be taken before the upcoming budget session. The OPS was discontinued in Maharashtra in 2005 and the employees have been demanding its restoration. The government has received a report on this matter and is expected to take an appropriate decision on the pension of its employees. Additionally, there are discussions being held with the leaders of the workers and the government has assured that a decision will be made before the forthcoming budget session.
+
+Thu, 14 Dec 2023 08:15:07 +0000
+### [Ban flavoured vapes, WHO says, urging tobacco-style controls](https://theprint.in/world/ban-flavoured-vapes-who-says-urging-tobacco-style-controls/1885645/)
+
+Article found but Couldn't summarize 
+LONDON (Reuters) - The World Health Organization (WHO) on Thursday urged governments to treat e-cigarettes similarly to tobacco and ban all flavours, threatening cigarette companies' bets on smoking
+
+Thu, 14 Dec 2023 08:15:02 +0000
+### [ATS arrests man with pistol, 28 live rounds in Maharashtra’s Bhandara district](https://theprint.in/india/ats-arrests-man-with-pistol-28-live-rounds-in-maharashtras-bhandara-district/1885644/)
+
+Article found but Couldn't summarize 
+Nagpur, Dec 14 (PTI) The Maharashtra Anti-Terrorism Squad has arrested a young man from Bhandara district after recovering a pistol, two magazines and 28 live rounds from him, officials from the agency said on Thursday. The Nagur unit of ATS on Wednesday raided a house at Bhuyar village in Paoni tehsil of Bhandara district, about [&#8230;]
+
+Thu, 14 Dec 2023 08:02:03 +0000
+### [Emraan Hashmi wishes wife Parveen Shahani on their 17th wedding anniversary](https://theprint.in/feature/emraan-hashmi-wishes-wife-parveen-shahani-on-their-17th-wedding-anniversary/1885638/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 14 (ANI): Actor Emraan Hashmi on Thursday penned an adorable wish for his wife Parveen Shahani on the occasion of their 17th wedding anniversary. Taking to Instagram, Emraan dropped a string of throwback pictures which he captioned, &#8220;You are and will always be my most happy place! It&#8217;s been such a [&#8230;]
+
+Thu, 14 Dec 2023 08:00:37 +0000
+### [West Bengal’s Malda, known for its mangoes, grows oranges in a first](https://theprint.in/india/west-bengals-malda-known-for-its-mangoes-grows-oranges-in-a-first/1885637/)
+
+Article found but Couldn't summarize 
+English Bazar (WB), Dec 14 (PTI) A farmer in West Bengal&#8217;s Malda district, which is known for its mangoes, has set a record this year by growing oranges. Dipak Rajbanshi has grown around 1.5 quintal of orange in his garden. He claimed that the oranges that he grew were tastier than the ones grown in [&#8230;]
+
+Thu, 14 Dec 2023 08:00:21 +0000
+### [Slovakia unblocks road crossing with Ukraine, Kyiv says](https://theprint.in/world/slovakia-unblocks-road-crossing-with-ukraine-kyiv-says/1885636/)
+
+Slovakia has unblocked the movement of lorries across its border with Ukraine after three days of restrictions. Slovak hauliers had blocked truck traffic from Ukraine, demanding the introduction of transport permits for Ukrainian vehicles. As of 19:30 (17:30 GMT) December 13, the Slovak side partially resumed crossing operations to enter its territory. The Ukrainian border service reported that 28 trucks were cleared to leave Ukraine at the Uzhhorod crossing on Thursday morning. This development followed an almost month-long blockage of the Polish-Ukrainian border by Polish hauliers, which led to a significant number of lorries using Slovakian border crossings to cross into the EU.
+
+Thu, 14 Dec 2023 08:00:18 +0000
+### [Prevail upon Lanka to secure release of 45 fishermen, TN CM tells Centre](https://theprint.in/india/prevail-upon-lanka-to-secure-release-of-45-fishermen-tn-cm-tells-centre/1885635/)
+
+Article found but Couldn't summarize 
+Chennai, Dec 14 (PTI) Tamil Nadu Chief Minister M K Stalin requested the Centre on Thursday to immediately take up through appropriate diplomatic channels the apprehension of fishermen from the state with Sri Lanka and secure the release of 45 fishermen and 138 boats. Expressing &#8220;a deep sense of anguish&#8221; on yet another incident of [&#8230;]
+
+Thu, 14 Dec 2023 08:00:04 +0000
+### [India’s Tata Capital eyes fashion brand Rare Rabbit at $300 million valuation -sources](https://theprint.in/india/indias-tata-capital-eyes-fashion-brand-rare-rabbit-at-300-million-valuation-sources/1885633/)
+
+Tata Capital is looking to purchase a 13% stake in Rare Rabbit, a premium Indian fashion brand, at a valuation of $300 million. The investment is part of Tata's strategic move to target affluent consumers in the country. Rare Rabbit, founded in 2015, offers a range of clothing and sells its products online as well as through 90 retail outlets across India. The stake sale talks are Rare Rabbit’s first external fundraising effort, and there is also interest from local Indian private equity fund A91 Partners in acquiring a stake.
+
+Thu, 14 Dec 2023 08:00:03 +0000
+### [Rajya Sabha MP Derek O’Brien suspended for remainder of winter session](https://theprint.in/india/rajya-sabha-mp-derek-obrien-suspended-for-remainder-of-winter-session/1885632/)
+
+The article covers a tense situation in the Rajya Sabha, where proceedings were adjourned amid protests by opposition MPs after TMC leader Derek O’Brien was suspended for unruly behavior and defying the directions of the Chair. The suspension of O'Brien led to more protests by opposition members who raised slogans. The article details the events that led to O'Brien's suspension, including the unruly behavior of opposition MPs during the session and their refusal to adhere to the Chair's directives. The Chairman, Jagdeep Dhankhar, warned O'Brien against disrupting the proceedings and unruly behavior, eventually leading to O'Brien's suspension. The article provides a comprehensive account of the events and the reactions of the opposition members and the Chairman.
+
+Thu, 14 Dec 2023 07:51:29 +0000
+### [New Ramjas teachers ‘quote Ramayana, dislike Marxist historians’—students miss academic rigour](https://theprint.in/ground-reports/new-ramjas-teachers-quote-ramayana-dislike-marxist-historians-students-miss-academic-rigour/1885535/)
+
+Article found but Couldn't summarize 
+The history department at Ramjas is a microcosm of how the teaching is changing across DU, claim several permanent and former ad hoc teachers at Ramjas and other colleges.
+
+Thu, 14 Dec 2023 07:48:02 +0000
+### [Make the World Your Office with EVM’s EnLap Pro Laptop Power Bank for Macbooks, Type-C Laptops and Smartphones, Exclusively available at Vijay Sales](https://theprint.in/ani-press-releases/make-the-world-your-office-with-evms-enlap-pro-laptop-power-bank-for-macbooks-type-c-laptops-and-smartphones-exclusively-available-at-vijay-sales/1885625/)
+
+EVM, a well-known brand for computing and mobility products, has introduced the EnLap Pro Laptop Power Bank. This power bank is designed for professionals and travelers, with a 30,000mAh battery capacity and fast charging capabilities. It is priced at Rs. 3,999 and is available for purchase at Vijay Sales and their ecommerce website. The EnLap Pro features 5 LED indicators, 65W ultra-fast charging PD output, 22.5W USB output, and sturdy body with multi-layers of chipset protection. It comes with a 2-year warranty and a commitment to after-sales service with 500+ service locations across the country. Additionally, EVM also donates INR 10 to a child cancer fund for each product sold, demonstrating their social responsibility.
+
+Thu, 14 Dec 2023 07:47:50 +0000
+### [After seven months, India’s wholesale inflation back in positive territory](https://theprint.in/economy/after-seven-months-indias-wholesale-inflation-back-in-positive-territory/1885623/)
+
+The article provides an overview of the wholesale and retail inflation in India based on the Wholesale Price Index (WPI) and Consumer Price Index (CPI), respectively. It highlights that wholesale inflation has returned to positive territory after being in the negative zone for several months, with a notable increase in food prices contributing to the positive rate of inflation. In contrast, retail inflation rose at its fastest pace in three months, primarily due to a spike in food prices. The article also mentions the efforts of the Reserve Bank of India (RBI) in addressing inflation through monetary policy, including maintaining the repo rate and raising interest rates.
+
+Thu, 14 Dec 2023 07:47:37 +0000
+### [Benefits of Starting an SIP with Bajaj Finserv Flexi Cap Fund](https://theprint.in/ani-press-releases/benefits-of-starting-an-sip-with-bajaj-finserv-flexi-cap-fund/1885621/)
+
+Flexi cap funds are a type of mutual funds that offer flexibility to the fund manager in terms of asset allocation across large, mid, and small-cap stocks. The primary goal of flexi cap funds is to provide investors with an opportunity to generate long term wealth by capitalizing on the ever-evolving market conditions. Bajaj Finserv Flexi Cap Fund offers key benefits such as diversification, rupee cost averaging, professional fund management, flexibility in investment, potential for better returns, ease of regular investing, and long-term wealth creation.
+
+The fund employs a "Megatrend Investing" approach, which focuses on predicting powerful currents that shape landscapes and impact economies, industries, and companies. It also follows the "InQuBe Investment Philosophy," based on the belief that equity investments may yield fruitful returns over time. Starting a Systematic Investment Plan (SIP) with Bajaj Finserv Flexi Cap Fund offers a strategic and flexible approach to wealth creation, combining the benefits of professional management, diversification, and the convenience of systematic investing.
+
+Thu, 14 Dec 2023 07:47:21 +0000
+### [iTV Network Shines Spotlight on Political Dynamics at the Grand Unveiling of ‘India News Manch’ with Day 1 Highlights](https://theprint.in/ani-press-releases/itv-network-shines-spotlight-on-political-dynamics-at-the-grand-unveiling-of-india-news-manch-with-day-1-highlights/1885619/)
+
+The article discusses the commencement of the 2023 edition of 'India News Manch' by the iTV Network, which provides a platform for political leaders to discuss pressing issues. It includes insights from leaders such as AAP MP Raghav Chadha, Karnataka Deputy Chief Minister DK Shivakumar, Gen VK Singh, Anurag Thakur, and Union Law Minister Kiren Rijiju, who discussed various topics including the CEC bill, Telangana's success, the Uttarkashi rescue operation, Pranab Mukherjee, and the abrogation of Article 370. The political conclave is scheduled from December 13 to December 15, 2023, at the NDMC Convention Centre in New Delhi, setting the stage for the forthcoming 2024 Lok Sabha Elections.
+
+Thu, 14 Dec 2023 07:47:03 +0000
+### [ESRO MAGICA Illuminates the Cosmos: Students’ Celestial Discoveries Take Center Stage](https://theprint.in/ani-press-releases/esro-magica-illuminates-the-cosmos-students-celestial-discoveries-take-center-stage/1885617/)
+
+ESRO MAGICA, a leading space education provider, recently achieved a celestial triumph as its students discovered a dozen celestial bodies during a NASA-supported Asteroid Search Campaign. Students like Avanish Pande, Suhaas Kartikeya R, Tejas Raut, Shivam Raut, Shlok Patil, Shahaavr Patel, Prajakta Swami, Shravani Pandhare, and Hridam Patil made significant discoveries. ESRO MAGICA is recognized by the Government of India as a space edtech platform and is a global leader in space science and technology education, with ISRO registration and STEM.org international accreditation in over 80 countries. The institution's unique "SWIFT Set" pedagogy and the Junior Scientist Program have been instrumental in shaping successful students and offering comprehensive online curriculum and hands-on experience. ESRO MAGICA aims to foster a generation of scholars passionate about space exploration and contribute significantly to the enrichment of space science. For more details on their innovative space education programs, you can visit their website (https://www.esromagica.com) or check their social media channels on Instagram, Facebook, and YouTube.
+
 Thu, 14 Dec 2023 07:02:46 +0000
 ### [DC Fashion Unveils Exquisite Women’s & Men’s Collection Redefining Elegance in Wedding Wear in Karol Bagh, Delhi Since 1972](https://theprint.in/ani-press-releases/dc-fashion-unveils-exquisite-womens-mens-collection-redefining-elegance-in-wedding-wear-in-karol-bagh-delhi-since-1972/1885555/)
 

@@ -1,3 +1,20 @@
+Thu, 14 Dec 2023 13:24:43 +0530
+### [What is the connection between Lok Sabha intruders and Bhagat Singh?](https://www.firstpost.com/explainers/parliament-security-breach-what-is-the-connection-between-lok-sabha-intruders-and-bhagat-singh-13502902.html)
+
+Article found but Couldn't summarize 
+What is the connection between Lok Sabha intruders and Bhagat Singh?
+
+Thu, 14 Dec 2023 13:02:50 +0530
+### [Why did the intruders breach Parliament? Was it to protest against unemployment?](https://www.firstpost.com/explainers/why-did-the-intruders-breach-parliament-was-it-to-protest-against-unemployment-13502822.html)
+
+During the Winter Session proceedings at the Lok Sabha on Wednesday, two individuals, identified as Manoranjan D and Sagar Sharma, jumped into the chamber and released coloured smoke from gas canisters, while two others – Amol Shinde and Neelam Devi – were detained from the premises as they yelled slogans and released yellow-coloured gas. The motives behind the security breach have been linked to frustration over unemployment, as the individuals were reportedly highly qualified but unable to secure employment. Additionally, they expressed frustration over issues like the farmers' protest and the Manipur crisis. The group meticulously planned the incident and was connected through a club known as the 'Bhagat Singh Fan Club'. The Ministry of Home Affairs has constituted an enquiry panel to investigate the breach and recommend improvements to security at the Parliament.
+
+Thu, 14 Dec 2023 12:58:53 +0530
+### [The key decisions and climate pledges made at COP28](https://www.firstpost.com/explainers/the-key-decisions-and-climate-pledges-made-at-cop28-13502532.html)
+
+Article found but Couldn't summarize 
+The key decisions and climate pledges made at COP28
+
 Thu, 14 Dec 2023 12:01:49 +0530
 ### [Parliament security breach: Meet the ‘saviour’ MPs who fought intruders](https://www.firstpost.com/explainers/parliament-security-breach-meet-the-saviour-mps-who-fought-intruders-13501762.html)
 

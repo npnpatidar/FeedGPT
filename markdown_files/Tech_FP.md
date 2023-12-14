@@ -1,3 +1,15 @@
+Thu, 14 Dec 2023 13:17:54 +0530
+### [Foxconn to open its first iPhone assembly plant in Bengaluru in April 2024, to make 20 mn units a year](https://www.firstpost.com/tech/foxconn-to-open-its-first-iphone-assembly-plant-in-bengaluru-in-april-2024-to-make-20-mn-units-a-year-13502962.html)
+
+Article found but Couldn't summarize 
+Foxconn to open its first iPhone assembly plant in Bengaluru in April 2024, to make 20 mn units a year
+
+Thu, 14 Dec 2023 12:56:53 +0530
+### [ISRO to make its own Life Support System for Gaganyaan after other countries refuse to share tech](https://www.firstpost.com/tech/isro-to-make-their-own-life-support-system-for-gaganyaan-after-other-countries-refuse-to-share-tech-13502512.html)
+
+Article found but Couldn't summarize 
+ISRO to make its own Life Support System for Gaganyaan after other countries refuse to share tech
+
 Thu, 14 Dec 2023 11:24:09 +0530
 ### [Elon Musk is planning a new university in Austin, will also start a STEM-focussed primary school](https://www.firstpost.com/tech/elon-musk-is-planning-a-new-university-in-austin-will-also-start-a-stem-focussed-primary-school-13502312.html)
 

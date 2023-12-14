@@ -1,3 +1,21 @@
+2023-12-14T13:20:14+05:30
+### [Israel-Hamas War: What Does International Law Say on the Use of White Phosphorus?](https://thewire.in/world/israel-hamas-war-what-does-the-international-law-say-on-the-use-of-white-phosphorus)
+
+No Article text 
+In the ongoing war, Israel is accused of using the chemical component in the Lebanese town of Dheira in October. Although its use is not fully prohibited in an armed conflict, it is, however, guided by strict regulations.
+
+2023-12-14T13:01:43+05:30
+### [Rajnath Singh Calls Parliament Security Breach ‘Unfortunate’, Derek O'Brien Suspended](https://thewire.in/government/parliament-security-breach-rajnath-singh-opposition-statement-amit-shah)
+
+No Article text 
+Opposition members raised slogans and demanded a statement from Union home minister Amit Shah in both houses.
+
+2023-12-14T12:50:32+05:30
+### ['Global Road Deaths Drop 5%, India’s Record Worsens': WHO Report](https://thewire.in/urban/global-road-deaths-drop-5-indias-record-worsens-who-report)
+
+No Article text 
+India's share in global road fatalities rose from 11% to 13%, with number of deaths increasing from 1.34 lakh in 2010 to 1.54 lakh in 2021.
+
 2023-12-14T12:20:40+05:30
 ### [Feasibility Study of Nepal-China Railway 'on Track'](https://thewire.in/south-asia/feasibility-study-of-nepal-china-railway-on-track)
 
