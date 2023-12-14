@@ -1,3 +1,33 @@
+Thu, 14 Dec 2023 23:17:02 +0000
+### [Pakistan: Massive protests erupt in Balochistan after alarming rise in extrajudicial killings, enforced disappearances](https://theprint.in/world/pakistan-massive-protests-erupt-in-balochistan-after-alarming-rise-in-extrajudicial-killings-enforced-disappearances/1886786/)
+
+Article found but Couldn't summarize 
+Balochistan [Pakistan], December 15 (ANI): Large-scale protests have erupted across Balochistan after an alarming rise in cases of extrajudicial killings and enforced disappearances spanning different demographics in the region, the Human Rights Council of Balochistan (HRCB) stated in a report. Notably, the month of November witnessed an alarming rise in cases of human rights violations [&#8230;]
+
+Thu, 14 Dec 2023 23:15:56 +0000
+### [US regulators add artificial intelligence to potential financial system risks](https://theprint.in/tech/us-regulators-add-artificial-intelligence-to-potential-financial-system-risks/1886784/)
+
+Article found but Couldn't summarize 
+By Pete Schroeder WASHINGTON (Reuters) -Rapid adoption of artificial intelligence (AI) could create new risks for the U.S. financial system if the technology is not properly supervised, a panel of
+
+Thu, 14 Dec 2023 23:15:38 +0000
+### [More sanctions on Russia agreed by EU leaders](https://theprint.in/world/more-sanctions-on-russia-agreed-by-eu-leaders/1886782/)
+
+Article found but Couldn't summarize 
+By Julia Payne and Andrew Gray BRUSSELS (Reuters) - European Union countries agreed on a 12th package of sanctions against Russia, the European Council said on Thursday, meaning that a phased ban on
+
+Thu, 14 Dec 2023 23:15:04 +0000
+### [Israeli troops kill 12 Palestinians, desecrate West Bank mosque](https://theprint.in/world/israeli-troops-kill-12-palestinians-desecrate-west-bank-mosque/1886780/)
+
+Article found but Couldn't summarize 
+By Ali Sawafta RAMALLAH, West Bank (Reuters) -Israeli troops killed a youth at a hospital and read out Jewish prayers at a mosque in the occupied West Bank city of Jenin during raids that Palestinian
+
+Thu, 14 Dec 2023 22:47:02 +0000
+### [Millions of Chinese ‘blacklisted’ for debts as loan default hits record high: Report](https://theprint.in/world/millions-of-chinese-blacklisted-for-debts-as-loan-default-hits-record-high-report/1886778/)
+
+Article found but Couldn't summarize 
+Beijing [China], December 15 (ANI): Millions of Chinese borrowers have been blacklisted for failing to pay their debts and are mostly between the ages of 18 and 59, Voice of America (VOA) reported. They are in debt due to the loans they took during the economic disruption caused by the Covid pandemic and Beijing&#8217;s strict [&#8230;]
+
 Thu, 14 Dec 2023 22:17:02 +0000
 ### [European Union greenlights membership talks with Ukraine, Moldova; Zelenskyy terms it “victory”](https://theprint.in/world/european-union-greenlights-membership-talks-with-ukraine-moldova-zelenskyy-terms-it-victory/1886776/)
 
