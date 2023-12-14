@@ -1,3 +1,120 @@
+Thu, 14 Dec 2023 19:00:02 +0000
+### [Suryakumar hurts ankle, stays away from field for 11 overs during India’s win against SA](https://theprint.in/sport/suryakumar-hurts-ankle-stays-away-from-field-for-11-overs-during-indias-win-against-sa/1886683/)
+
+India's series-levelling 106-run win over South Africa had a juddering note as captain Suryakumar Yadav hurt his ankle and had to stay away from the field. He sustained the injury while trying to stop a shot in the outfield and limped out of the field with the assistance of the team’s physio. Despite his absence, vice-captain Ravindra Jadeja led the team to victory, with left-arm wrist-spinner Kuldeep Yadav delivering a standout performance. Suryakumar reassured fans about the status of his ankle, stating that it was not serious.
+
+Thu, 14 Dec 2023 18:45:28 +0000
+### [Brazil’s Congress overturns Lula’s veto on extended payroll tax exemption](https://theprint.in/world/brazils-congress-overturns-lulas-veto-on-extended-payroll-tax-exemption/1886680/)
+
+Article found but Couldn't summarize 
+BRASILIA (Reuters) - The Brazilian Congress voted on Thursday to overturn President Luiz Inacio Lula da Silva's veto to a bill that extended payroll tax exemptions for 17 sectors of the economy until
+
+Thu, 14 Dec 2023 18:45:20 +0000
+### [Turkey’s Erdogan tells Biden U.S. has responsibility to secure Gaza ceasefire](https://theprint.in/world/turkeys-erdogan-tells-biden-u-s-has-responsibility-to-secure-gaza-ceasefire/1886679/)
+
+Article found but Couldn't summarize 
+ISTANBUL (Reuters) - Turkish President Tayyip Erdogan told President Joe Biden in a phone call that the United States has a historic responsibility to achieve a lasting ceasefire in the Gaza conflict
+
+Thu, 14 Dec 2023 18:45:16 +0000
+### [Indian-American Vanita Gupta to step down as Associate Attorney General of US next year](https://theprint.in/world/indian-american-vanita-gupta-to-step-down-as-associate-attorney-general-of-us-next-year/1886677/)
+
+Article found but Couldn't summarize 
+Washington, Dec 14 (PTI) Associate Attorney General of the US, Indian-American Vanita Gupta, will step down from the post in February 2024, an official release said on Thursday. Gupta, the first woman of colour to serve as the Department of Justice&#8217;s third-highest ranking official, led its &#8220;Reproductive Rights Taskforce to defend the reproductive freedoms that [&#8230;]
+
+Thu, 14 Dec 2023 18:45:04 +0000
+### [Cricket-India outclass South Africa to square Twenty20 series](https://theprint.in/india/cricket-india-outclass-south-africa-to-square-twenty20-series/1886676/)
+
+Captain Suryakumar Yadav's outstanding performance led India to a 106-run victory in the third Twenty20 International against South Africa. He scored a century from 56 balls, helping India reach 201 for seven in their 20 overs. South Africa was dismissed for 95 in their chase. India's seamers created problems for South Africa, and wrist-spinner Kuldeep Yadav took a career-best figure of 5-17 in 2.5 overs. Additionally, there was a concern when Suryakumar Yadav rolled his ankle during the match. The article also mentions the upcoming three-match One-Day International series between the two sides.
+
+Thu, 14 Dec 2023 18:45:03 +0000
+### [Suryakumar’s hundred, Kuldeep’s fifer fashion India’s series-levelling win over SA](https://theprint.in/sport/suryakumars-hundred-kuldeeps-fifer-fashion-indias-series-levelling-win-over-sa/1886675/)
+
+In the recent T20I match between India and South Africa, Captain Suryakumar Yadav scored a remarkable century, contributing significantly to India's total score of 201 for 7. Suryakumar's innings, which included seven fours and eight sixes, played a key role in India's victory. In the company of Yashasvi Jaiswal, he made 112 runs for the fourth wicket, allowing India to recover from a tight spot after the loss of two early wickets. India's left-arm wrist spinner Kuldeep Yadav also played a crucial role in the match, taking five wickets for 17 runs. South Africa's chase never really took off, as they were reduced to 42 for four, and ultimately crumbled under the pressure of India's bowling attack. Suryakumar's absence due to an ankle injury in the third over of South Africa's innings was the only setback for India, as Jadeja stood in for him for the rest of the match.
+
+Thu, 14 Dec 2023 18:31:37 +0000
+### [Italy’s De Nora plans to halve greenhouse gas emissions by 2030](https://theprint.in/environment/italys-de-nora-plans-to-halve-greenhouse-gas-emissions-by-2030/1886670/)
+
+Article found but Couldn't summarize 
+(Reuters) - Italian electrode maker Industrie De Nora plans to halve its greenhouse gas emissions in the next seven years, the group said on Thursday as it released its sustainability plan to 2030.
+
+Thu, 14 Dec 2023 18:31:17 +0000
+### [Oil rises 4% on weaker dollar, IEA demand upgrade](https://theprint.in/economy/oil-rises-4-on-weaker-dollar-iea-demand-upgrade/1886667/)
+
+Article found but Couldn't summarize 
+By Stephanie Kelly NEW YORK (Reuters) -Oil prices rose 4% on Thursday, extending the previous session's gains, boosted by a weaker dollar and as the International Energy Agency (IEA) lifted its oil
+
+Thu, 14 Dec 2023 18:31:16 +0000
+### [Lalit Jha, fifth accused in Parliament security breach case, arrested in Delhi](https://theprint.in/india/lalit-jha-fifth-accused-in-parliament-security-breach-case-arrested-in-delhi/1886585/)
+
+Article found but Couldn't summarize 
+All accused had allegedly planned to give their phones, IDs to Jha to avoid them being seized. Jha allegedly also made a video outside Parliament, asked an NGO founder to ‘publicise it’.
+
+Thu, 14 Dec 2023 18:30:59 +0000
+### [Gold touches 10-day high as Fed hints at lower US rates next year](https://theprint.in/economy/gold-touches-10-day-high-as-fed-hints-at-lower-us-rates-next-year/1886665/)
+
+Article found but Couldn't summarize 
+By Anushree Ashish Mukherjee (Reuters) - Gold prices touched a 10-day high on Thursday as the U.S. dollar and Treasury yields were beaten lower after the Federal Reserve signalled an end to its
+
+Thu, 14 Dec 2023 18:30:41 +0000
+### [Seven arrested in Germany, Denmark, the Netherlands over suspected terrorism plots](https://theprint.in/world/seven-arrested-in-germany-denmark-the-netherlands-over-suspected-terrorism-plots/1886663/)
+
+Article found but Couldn't summarize 
+COPENHAGEN/BERLIN (Reuters) -Seven people, including four suspected Hamas members, were arrested in Denmark, Germany and the Netherlands on suspicion of planning attacks on Jewish institutions in
+
+Thu, 14 Dec 2023 18:30:24 +0000
+### [Explainer-Why quick Ukraine membership would be a challenge for EU](https://theprint.in/world/explainer-why-quick-ukraine-membership-would-be-a-challenge-for-eu/1886661/)
+
+Article found but Couldn't summarize 
+By Jan Strupczewski BRUSSELS (Reuters) - European Union leaders will declare the start of accession talks with Ukraine at their summit in Brussels, their chairman Charles Michel said on Thursday in a
+
+Thu, 14 Dec 2023 18:30:05 +0000
+### [How the world agreed to move away from fossil fuels at COP28](https://theprint.in/world/how-the-world-agreed-to-move-away-from-fossil-fuels-at-cop28/1886659/)
+
+Article found but Couldn't summarize 
+By Maha El Dahan, David Stanway and Valerie Volcovici DUBAI (Reuters) - The COP28 climate summit in Dubai started with all the ingredients for spectacular failure: It proposed an end to the
+
+Thu, 14 Dec 2023 18:30:03 +0000
+### [India beat South Africa by 106 runs in 3rd T20I, draw series 1-1](https://theprint.in/sport/india-beat-south-africa-by-106-runs-in-3rd-t20i-draw-series-1-1/1886658/)
+
+Article found but Couldn't summarize 
+Johannesburg, Dec 14 (PTI) India beat South Africa by 106 runs in the third T20I to draw the three-match series 1-1 here on Thursday. Captain Suryakumar Yadav struck a magnificent 100 &#8212; his fourth T20I century &#8212; off just 56 balls as India posted 201 for 7 after being asked to bat first. Opener Yashasvi [&#8230;]
+
+Thu, 14 Dec 2023 18:17:32 +0000
+### [India for inclusion of Global South as world shapes future of AI](https://theprint.in/economy/india-for-inclusion-of-global-south-as-world-shapes-future-of-ai/1886653/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 14 (ANI): Union Minister of State for Information Technology Rajeev Chandrasekhar on Thursday stressed the need for the inclusion of countries in the Global South as the world shapes the future of Artificial Intelligence and other emerging technologies. Nations that are regarded as having a relatively low level of economic and [&#8230;]
+
+Thu, 14 Dec 2023 18:17:20 +0000
+### [UK parliamentarians laud India’s achievements under PM Modi’s leadership](https://theprint.in/world/uk-parliamentarians-laud-indias-achievements-under-pm-modis-leadership/1886651/)
+
+Article found but Couldn't summarize 
+London [UK], December 14 (ANI): In a notable event organised by the Indian Minorities Foundation in London, UK parliamentarians came together to celebrate the achievements of India under the leadership of Prime Minister Narendra Modi. The &#8216;Namaste London: Resurgence of a New India&#8217; event not only acknowledged India&#8217;s progress but also honoured the significant contributions [&#8230;]
+
+Thu, 14 Dec 2023 18:17:10 +0000
+### [Deepika Padukone arrives in Tirumala to seek blessings of Lord Venkateswara with sister Anisha](https://theprint.in/feature/deepika-padukone-arrives-in-tirumala-to-seek-blessings-of-lord-venkateswara-with-sister-anisha/1886649/)
+
+Article found but Couldn't summarize 
+Tirupati (Andhra Pradesh) [India], December 14 (ANI): Deepika Padukone, who is gearing up for her upcoming aerial action thriller &#8216;Fighter&#8217;, on Thursday evening arrived in Tirumala with her sister Anisha to seek the blessings of Lord Venkateswara. Several videos and pictures of Deepika surfaced on social media in which she can be seen arriving at [&#8230;]
+
+Thu, 14 Dec 2023 18:17:01 +0000
+### [22 years of ‘K3G’: Kareena Kapoor shares iconic ‘Poo’ scenes, Ranveer Singh reacts](https://theprint.in/feature/22-years-of-k3g-kareena-kapoor-shares-iconic-poo-scenes-ranveer-singh-reacts/1886647/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 14 (ANI): It feels like Karan Johar&#8217;s &#8216;Kabhi Khushi Kabhie Gham&#8217; was released yesterday. As the film clocked 22 years on Thursday, actor Kareena Kapoor Khan shared a video of her iconic character &#8216;Poo&#8217; to mark the day. Helmed by KJo, the film starred Amitabh Bachchan, Jaya Bachchan, Shah Rukh Khan, [&#8230;]
+
+Thu, 14 Dec 2023 18:15:50 +0000
+### [Alpine skiing-Bennett clinches narrow win in downhill race](https://theprint.in/sport/alpine-skiing-bennett-clinches-narrow-win-in-downhill-race/1886645/)
+
+Article found but Couldn't summarize 
+VAL GARDENA, Italy (Reuters) - American Bryce Bennett narrowly won the first men's downhill World Cup race of the season by defeating Norwegian Aleksander Aamodt Kilde by a slim margin in the
+
+Thu, 14 Dec 2023 18:15:37 +0000
+### [Explainer-What’s next for the EU AI Act?](https://theprint.in/tech/explainer-whats-next-for-the-eu-ai-act/1886643/)
+
+Article found but Couldn't summarize 
+By Supantha Mukherjee, Martin Coulter and Foo Yun Chee STOCKHOLM/BRUSSELS/LONDON (Reuters) - European Union countries and lawmakers last week agreed a provisional deal for artificial intelligence
+
 Thu, 14 Dec 2023 17:03:12 +0000
 ### [Objected from urinating publicly, ex-serviceman fires at man in Delhi](https://theprint.in/india/objected-from-urinating-publicly-ex-serviceman-fires-at-man-in-delhi/1886548/)
 

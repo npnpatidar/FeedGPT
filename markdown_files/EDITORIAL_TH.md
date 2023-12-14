@@ -1,3 +1,14 @@
+Fri, 15 Dec 2023 00:20:00 +0530
+### [Keeping it relevant: On the United Nations Conference of Parties meetings](https://www.thehindu.com/opinion/editorial/keeping-it-relevant-the-hindu-editorial-on-the-united-nations-conference-of-parties-meetings/article67638550.ece)
+
+Article found but Couldn't summarize 
+COP meetings must use climate science to promote justice and equity
+
+Fri, 15 Dec 2023 00:10:00 +0530
+### [Principled shift: On India’s stand on Gaza](https://www.thehindu.com/opinion/editorial/principled-shift-the-hindu-editorial-on-indias-stand-on-gaza/article67638569.ece)
+
+The article discusses India's shift in its position on the Israel-Gaza conflict, particularly in its recent vote at the UN General Assembly. Two months after Israel's bombardment of Gaza began, India joined the global call for a ceasefire, voting in favor of a resolution along with 152 other nations. The resolution demanded an immediate humanitarian ceasefire and other humanitarian measures. This shift in India's position from its previous abstention is explained in the article. It also highlights the potential implications and considerations for India in this conflict.
+
 Thu, 14 Dec 2023 00:20:00 +0530
 ### [Change in Chhattisgarh: On the new BJP government and the road ahead](https://www.thehindu.com/opinion/editorial/change-in-chhattisgarh-the-hindu-editorial-on-the-new-bjp-government-and-the-road-ahead/article67634857.ece)
 

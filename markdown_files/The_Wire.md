@@ -1,3 +1,15 @@
+2023-12-14T23:16:15+05:30
+### [Maldives Seeks to Terminate Hydrographic Survey Agreement With India](https://thewire.in/diplomacy/maldives-seeks-to-terminate-hydrographic-survey-agreement-with-india)
+
+No Article text 
+There has been no formal comment from the Indian side.
+
+2023-12-14T23:05:39+05:30
+### [Another Death in Manipur on Day that Bodies Lying in Morgues Were Finally Returned to Kin](https://thewire.in/rights/another-death-in-manipur-on-day-that-bodies-lying-in-morgues-were-finally-returned-to-kin)
+
+No Article text 
+Manipur police confirmed that 41 bodies have been sent to Churachandpur, 19 to Kangpokpi from Imphal and four from Churachandpur have been relocated to Imphal. The continuing turmoil had made it impossible for families to collect bodies of loved ones lying in other parts of the state.
+
 2023-12-14T22:13:24+05:30
 ### [SC Suspends Conviction of BSP MP Afzal Ansari](https://thewire.in/law/sc-suspends-conviction-of-bsp-mp-afzal-ansari)
 

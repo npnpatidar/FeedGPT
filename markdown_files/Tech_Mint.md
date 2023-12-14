@@ -1,3 +1,9 @@
+Thu, 14 Dec 2023 22:52:57 +0530
+### [Mahindra set to drive in its first electric truck in 2025](https://www.livemint.com/technology/tech-news/mahindra-set-to-drive-in-its-first-electric-truck-in-2025-11702574339226.html)
+
+Article found but Couldn't summarize 
+Co plans to complement its existing cargo vehicles in the electric three-wheeler segment
+
 Thu, 14 Dec 2023 19:02:00 +0530
 ### [Top 10 premium black smartwatch under  ₹10000: From OnePlus, Titan, Noise and more](https://www.livemint.com/technology/gadgets/top-10-premium-black-smartwatch-under-rs-10000-from-oneplus-titan-noise-and-more-11702552312334.html)
 
