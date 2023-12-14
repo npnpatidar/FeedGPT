@@ -1,3 +1,13 @@
+Thu, 14 Dec 2023 02:20:46 +0000
+### [ExplainSpeaking: What is ‘Hindutva rate’ of (GDP) growth; how it compares with ‘Hindu’ rate](https://indianexpress.com/article/explained/explained-economics/explainspeaking-hindutva-rate-of-gdp-growth-9067341/)
+
+Article found but Couldn't summarize
+
+Thu, 14 Dec 2023 01:30:21 +0000
+### [COP28: What were the most important decisions, where they fell short](https://indianexpress.com/article/explained/explained-climate/cop28-what-were-the-most-important-decisions-where-they-fell-short-9067358/)
+
+Article found but Couldn't summarize
+
 Wed, 13 Dec 2023 22:34:25 +0000
 ### [What helped two men dodge layers of security inside Parliament House](https://indianexpress.com/article/explained/what-helped-two-men-dodge-layers-of-security-inside-parliament-house-9067409/)
 

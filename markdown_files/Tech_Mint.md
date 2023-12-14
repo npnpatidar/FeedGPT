@@ -1,3 +1,9 @@
+Thu, 14 Dec 2023 07:19:27 +0530
+### [Instagram will allow users to set video status. Here's how the new feature works](https://www.livemint.com/technology/apps/instagram-will-allow-users-to-set-video-status-heres-how-the-new-feature-works-11702515374013.html)
+
+Article found but Couldn't summarize 
+Instagram is now adding the ability for users to post 2 second video status as an addition to the popular Notes feature which was released last year.
+
 Wed, 13 Dec 2023 20:46:32 +0530
 ### [10 best LG top load washing machines compared with other brands: Buyer's guide](https://www.livemint.com/technology/gadgets/10-best-lg-top-load-washing-machines-compared-with-other-brands-buyers-guide-11702473330568.html)
 

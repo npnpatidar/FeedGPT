@@ -1,3 +1,43 @@
+Thu, 14 Dec 2023 01:40:05 +0000
+### [Work of consultancy firms with government must be regulated](https://indianexpress.com/article/opinion/columns/work-of-consultancy-firms-with-government-must-be-regulated-9067316/)
+
+Article found but Couldn't summarize
+
+Thu, 14 Dec 2023 01:37:57 +0000
+### [New criminal law Bills endanger civil liberties](https://indianexpress.com/article/opinion/columns/new-criminal-law-bills-endanger-civil-liberties-9067305/)
+
+Article found but Couldn't summarize
+
+Thu, 14 Dec 2023 01:37:46 +0000
+### [After Article 370 verdict, Centre and Ladakh need to be on the same page](https://indianexpress.com/article/opinion/columns/after-article-370-verdict-centre-and-ladakh-need-to-be-on-the-same-page-9067304/)
+
+Article found but Couldn't summarize
+
+Thu, 14 Dec 2023 01:37:08 +0000
+### [Mahua Moitra has no excuse](https://indianexpress.com/article/opinion/columns/mahua-moitra-has-no-excuse-9067306/)
+
+Article found but Couldn't summarize
+
+Thu, 14 Dec 2023 01:25:57 +0000
+### [Express View on AI-generated van Gogh: Zombie Vincent](https://indianexpress.com/article/opinion/editorials/express-view-on-ai-generated-van-gogh-zombie-vincent-9067315/)
+
+Article found but Couldn't summarize
+
+Thu, 14 Dec 2023 01:15:54 +0000
+### [Express View on RBI study on state budgets: State of finances](https://indianexpress.com/article/opinion/editorials/express-view-on-rbi-study-on-state-budgets-state-of-finances-9067313/)
+
+Hmm, based on the provided text, the Reserve Bank of India conducted a study on state budgets and found that the consolidated fiscal deficit of states decreased from 4.1% of GDP in 2020-21 to 2.8% in 2022-23. This improvement in the fiscal position of states was supported by a healthy momentum in capital spending, aided by the central government. However, the study also highlights challenges such as the burden of shifting back to the old pension scheme and the risk of fiscally imprudent schemes announced by political parties. Overall, while there has been improvement, not all states have seen the same level of progress in their fiscal position.
+
+Thu, 14 Dec 2023 01:05:50 +0000
+### [Express View on new criminal law code: Law and liberty](https://indianexpress.com/article/opinion/editorials/express-view-on-new-criminal-law-code-law-and-liberty-9067312/)
+
+Article found but Couldn't summarize
+
+Thu, 14 Dec 2023 01:00:24 +0000
+### [December 14, 1983, Forty Years Ago: EC’s recommendation](https://indianexpress.com/article/opinion/40-years-ago/december-14-1983-forty-years-ago-ecs-recommendation-9067307/)
+
+The Election Commission recommends the imposition of President's rule during assembly elections to prevent the ruling party from misusing official machinery. This is seen as the ideal solution. Warships off the coast of Lebanon bombarded Syrian, Druze, and Palestinian positions in response to demonstrations and rallies against the United States and Israel's revived agreement on strategic cooperation. Syria considers this agreement as a declaration of war. Delhi's most wanted criminal, Subhash, was killed in a police encounter, and his body was found abandoned outside a hospital. Sheikh Hasina Wazed, a prominent opposition leader, rejected talks with Bangladesh's military ruler and demanded an end to the ban on politics.
+
 Wed, 13 Dec 2023 13:59:04 +0000
 ### [Parliament attacks have exposed shameful lack of security preparedness](https://indianexpress.com/article/opinion/columns/parliament-attacks-have-exposed-shameful-lack-of-security-preparedness-9067076/)
 

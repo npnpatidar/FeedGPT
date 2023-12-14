@@ -1,3 +1,81 @@
+Thu, 14 Dec 2023 02:17:02 +0000
+### [“Cannot have old wine in new bottles and expect new results”: India reiterates call for security council reforms](https://theprint.in/world/cannot-have-old-wine-in-new-bottles-and-expect-new-results-india-reiterates-call-for-security-council-reforms/1885241/)
+
+Article found but Couldn't summarize 
+New York [US], December 14 (ANI): Reiterating New Delhi&#8217;s stand for the expansion of the multilateral institutions, India&#8217;s permanent ambassador to the United Nations, Ruchira Kamboj said that multilateral institutions &#8220;rarely die&#8221;, they simply &#8220;fade into irrelevance.&#8221; She was speaking at the Intergovernmental Negotiations on Security Council Reforms in New York on Wednesday. https://x.com/IndiaUNNewYork/status/1735065212825305346?s=20 Kamboj [&#8230;]
+
+Thu, 14 Dec 2023 02:16:42 +0000
+### [Soccer-World Cup kiss undermines huge progress in women’s game](https://theprint.in/sport/soccer-world-cup-kiss-undermines-huge-progress-in-womens-game/1885239/)
+
+Article found but Couldn't summarize 
+By Philip O'Connor (Reuters) - Spain's brilliant victory at the Women's World Cup was almost immediately overshadowed by a controversial kiss which proved that despite a great deal of progress in the
+
+Thu, 14 Dec 2023 02:16:28 +0000
+### [Cycling-Hush-hush new league talks as vintage Tour, Olympics loom](https://theprint.in/sport/cycling-hush-hush-new-league-talks-as-vintage-tour-olympics-loom/1885237/)
+
+Article found but Couldn't summarize 
+By Julien Pretot PARIS (Reuters) - Who will win the next Tour de France is obviously going to be a hot topic in 2024 but talk of a new cycling league could also take centre stage as a handful of teams
+
+Thu, 14 Dec 2023 02:16:14 +0000
+### [Toshiba to retain Shimada as CEO, get 4 board members from JIP](https://theprint.in/tech/toshiba-to-retain-shimada-as-ceo-get-4-board-members-from-jip/1885235/)
+
+Article found but Couldn't summarize 
+TOKYO (Reuters) - Japan's Toshiba on Thursday said chief executive Taro Shimada will remain in the post after the company goes private, while a majority of the board will come from private equity firm
+
+Thu, 14 Dec 2023 02:16:02 +0000
+### [Cold wave grips northern China as temperatures in south plummet](https://theprint.in/environment/cold-wave-grips-northern-china-as-temperatures-in-south-plummet/1885233/)
+
+Article found but Couldn't summarize 
+By Bernard Orr and Ryan Woo BEIJING (Reuters) - Gripping cold weather swept across major sections of China on Thursday while many areas in the south will see sharp drops in temperatures over the next
+
+Thu, 14 Dec 2023 02:15:50 +0000
+### [Greenpeace Australia files greenwashing lawsuit against Woodside Energy](https://theprint.in/environment/greenpeace-australia-files-greenwashing-lawsuit-against-woodside-energy/1885231/)
+
+Article found but Couldn't summarize 
+By Lewis Jackson SYDNEY (Reuters) - Greenpeace Australia said on Thursday it had filed a lawsuit against the country's largest oil and gas company Woodside Energy alleging it deceived the public over
+
+Thu, 14 Dec 2023 02:15:37 +0000
+### [Oil rises on Middle East worries, future cuts to borrowing costs](https://theprint.in/economy/oil-rises-on-middle-east-worries-future-cuts-to-borrowing-costs/1885229/)
+
+Article found but Couldn't summarize 
+By Laura Sanicola (Reuters) - Oil prices rose in early Asian trade on Thursday, extending gains from the previous session following a bigger-than-expected weekly withdrawal from U.S. crude storage and
+
+Thu, 14 Dec 2023 02:15:26 +0000
+### [Gold rises as Fed rate-cut prospects dent dollar, bond yields](https://theprint.in/economy/gold-rises-as-fed-rate-cut-prospects-dent-dollar-bond-yields/1885227/)
+
+Article found but Couldn't summarize 
+By Brijesh Patel (Reuters) - Gold prices extended gains to a one-week high on Thursday after the U.S. Federal Reserve flagged an end to its tightening cycle and signalled lower borrowing costs in 2024
+
+Thu, 14 Dec 2023 02:15:15 +0000
+### [Japan cabinet purge underway as PM Kishida battles financial scandal](https://theprint.in/world/japan-cabinet-purge-underway-as-pm-kishida-battles-financial-scandal/1885225/)
+
+Article found but Couldn't summarize 
+By Kantaro Komiya and Sakura Murakami TOKYO (Reuters) -Japanese Prime Minister Fumio Kishida set about replacing key cabinet members at the centre of a financial probe on Thursday, battling to control
+
+Thu, 14 Dec 2023 02:15:03 +0000
+### [Why the Indian Ocean could be China’s Achilles’ heel in a Taiwan war](https://theprint.in/world/why-the-indian-ocean-could-be-chinas-achilles-heel-in-a-taiwan-war/1885223/)
+
+Article found but Couldn't summarize 
+By Greg Torode HONG KONG (Reuters) - Every day, nearly 60 fully loaded very large crude-oil carriers sail between the Persian Gulf and Chinese ports, carrying about half of the oil that powers the
+
+Thu, 14 Dec 2023 01:32:24 +0000
+### [Israel: The Kibbutz Daughter who ‘worried about us more than she did for herself’](https://theprint.in/world/israel-the-kibbutz-daughter-who-worried-about-us-more-than-she-did-for-herself/1885221/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], December 14 (ANI/TPS): &#8220;My 18-year-old daughter Tchelet was killed on a Saturday morning during the holiday of Simchat Torah,&#8221; Gladys Fishbein told the Tazpit Press Service. On October 7, Fishbein was tending to her ill 94-year-old mother, Sarah, at Kibbutz Be&#8217;eri when Hamas terrorists invaded Israel, killing 1,200 people, including Tchelet (Celeste) [&#8230;]
+
+Thu, 14 Dec 2023 01:32:13 +0000
+### [UAE: Moro Hub presents General Directorate of Residency, Foreigners Affairs with Green Certificate](https://theprint.in/world/uae-moro-hub-presents-general-directorate-of-residency-foreigners-affairs-with-green-certificate/1885219/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 14 (ANI/WAM): Moro Hub, a subsidiary of Digital DEWA, the digital arm of Dubai Electricity and Water Authority (DEWA), presented the General Directorate of Residency and Foreigners Affairs (GDRFA) with a Green Certificate. The Green Certificate is presented by Moro Hub to companies and institutions hosted through its green data centres, reducing [&#8230;]
+
+Thu, 14 Dec 2023 01:32:02 +0000
+### [UAE: CBUAE maintains Base Rate at 5.40 per cent](https://theprint.in/world/uae-cbuae-maintains-base-rate-at-5-40-per-cent/1885217/)
+
+Article found but Couldn't summarize 
+Abu Dhabi [UAE], December 14 (ANI/WAM): The Central Bank of the UAE (CBUAE) has decided to maintain the Base Rate applicable to the Overnight Deposit Facility (ODF) without change at 5.40 per cent. This decision was taken following the US Federal Reserve&#8217;s announcement on 13th December to keep the Interest on Reserve Balances (IORB) unchanged. [&#8230;]
+
 Thu, 14 Dec 2023 01:15:36 +0000
 ### [US officials say Russians hackers are launching potential SolarWinds-style operations](https://theprint.in/tech/us-officials-say-russians-hackers-are-launching-potential-solarwinds-style-operations/1885216/)
 

@@ -1,3 +1,20 @@
+Thu, 14 Dec 2023 08:00:16 +0530
+### [Parliament security breach: Risk exposure](https://www.livemint.com/opinion/quick-edit/parliament-security-breach-risk-exposure-11702483256260.html)
+
+Article found but Couldn't summarize 
+The intrusion into the Lok Sabha warrants a full investigation and thorough security review of the country’s apex legislative body that only recently adopted new premises.
+
+Thu, 14 Dec 2023 08:00:15 +0530
+### [Climate relief: CoP-28's finale averted a cop-out on fossil fuels](https://www.livemint.com/opinion/online-views/climate-relief-cop-28s-finale-averted-a-cop-out-on-fossil-fuels-11702481904170.html)
+
+Article found but Couldn't summarize 
+A transition away from fossil fuels finally found a global consensus in Dubai, but the UN climate conclave’s success depends on what gets implemented and whether rich countries help the rest.
+
+Thu, 14 Dec 2023 08:00:15 +0530
+### [India's economy in 2024: A stable growth path is now within sight.](https://www.livemint.com/opinion/online-views/indias-economy-in-2024-a-stable-growth-path-is-now-within-sight-11702482011789.html)
+
+GPT-3.5: The article discusses the positive economic outlook for India as the year 2023 comes to an end. The GDP growth in the second quarter of 2023-24 exceeded market expectations at 7.6%, driven by a strong rebound in the manufacturing sector. Investment also saw a strong rebound, led by increased capital expenditure by the government. High-frequency economic indicators such as GST collections, core sector growth, car sales, and passenger traffic reflect healthy economic growth. Inflation has been on a downward trajectory, with consumer price index (CPI) inflation close to 5%. The corporate sector is in good shape, as indicated by a credit ratio of 1.67 (number of upgrades to downgrades) in the first half of 2023-24. However, uncertainties in the global economy are expected to continue, with a slowdown in overall global growth predicted for 2024. Geo-political concerns and climate-related risks are also factors to watch out for. While urban consumption remains strong, rural demand may remain shaky due to a skewed monsoon and lower crop production. India has seen a sharp increase in personal loans, and this trend is likely to continue, supported by digitization trends. Private investment is expected to pick up gradually, and the Reserve Bank of India (RBI) may consider rate cuts in the second quarter of 2024-25. India is also expected to benefit from 'China plus one' corporate strategies in the long run. Overall, the mood is optimistic, but there are uncertainties and challenges that need to be addressed for more broad-based and inclusive growth.
+
 Wed, 13 Dec 2023 22:37:32 +0530
 ### [An idea whose time has come: Sugar taxation could spell a healthier India](https://www.livemint.com/opinion/online-views/an-idea-whose-time-has-come-sugar-taxation-could-spell-a-healthier-india-11702482102987.html)
 
