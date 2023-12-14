@@ -1,3 +1,9 @@
+Thu, 14 Dec 2023 10:07:06 +0530
+### [Redmi Note 13 5G series to launch in India on January 4. Expected price, specs and all you need to know](https://www.livemint.com/technology/gadgets/redmi-note-13-5g-series-to-launch-in-india-on-january-4-expected-price-specs-and-all-you-need-to-know-11702523627232.html)
+
+Article found but Couldn't summarize 
+Redmi Note 13 5G series will release in India on January 4 and all three phones in the series - Redmi Note 13, Redmi Note 13 Pro and Redmi Note 13 Pro+ are expected to make their way in the country.
+
 Thu, 14 Dec 2023 08:12:38 +0530
 ### [Elon Musk's Grok AI is now available for users in India. Here's how you can get access to the chatbot](https://www.livemint.com/technology/tech-news/elon-musks-grok-ai-is-now-available-in-india-heres-how-you-can-get-access-to-the-chatbot-xai-11702519015854.html)
 

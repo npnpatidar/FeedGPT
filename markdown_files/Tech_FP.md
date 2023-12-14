@@ -1,3 +1,9 @@
+Thu, 14 Dec 2023 09:54:52 +0530
+### [GPAI 2023: All member nations adopt New Delhi Resolution for collaborative development regulation of AI](https://www.firstpost.com/tech/gpai-2023-all-member-nations-adopt-new-delhi-resolution-for-collaborative-development-regulation-of-ai-13501862.html)
+
+Article found but Couldn't summarize 
+GPAI 2023: All member nations adopt New Delhi Resolution for collaborative development regulation of AI
+
 Wed, 13 Dec 2023 16:52:45 +0530
 ### [Not enough intelligence for AI: IT Minister Chandrasekhar calls for academic institutions to deliver](https://www.firstpost.com/tech/not-enough-intelligence-for-ai-it-minister-chandrasekhar-calls-for-academic-institutions-to-deliver-13500172.html)
 

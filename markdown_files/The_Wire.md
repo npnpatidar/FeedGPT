@@ -1,3 +1,9 @@
+2023-12-14T09:58:56+05:30
+### [No House Panel, Top Post Vacant: Parliament Security Breach Unfurls Serious Lapses](https://thewire.in/government/parliament-breach-security-uapa)
+
+No Article text 
+MPs noted that there is a "political bias" at play when it comes to issuing visitors' passes. The two men who stormed the Lower House yesterday had been given passed by a Bharatiya Janata Party MP.
+
 2023-12-14T09:00:30+05:30
 ### [An Artist's Quest to Paint the Mighty Kanchenjunga for His Patron, the Viceroy of India](https://thewire.in/books/excerpt-anindyo-roy-the-viceroys-artist)
 

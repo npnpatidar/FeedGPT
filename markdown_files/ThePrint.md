@@ -1,3 +1,93 @@
+Thu, 14 Dec 2023 05:02:33 +0000
+### [New Aptar Mumbai Site to Increase Manufacturing Capabilities](https://theprint.in/ani-press-releases/new-aptar-mumbai-site-to-increase-manufacturing-capabilities-3/1885360/)
+
+Article found but Couldn't summarize 
+PNN Mumbai (Maharashtra) [India], December 14: Aptar Pharma, a global leader in drug delivery systems, services and active material science solutions, today announced the opening of its new Aptar Mumbai site, which will increase manufacturing capabilities in South East Asia. An inauguration ceremony held on December 1, 2023, marked the official opening of the new [&#8230;]
+
+Thu, 14 Dec 2023 05:02:24 +0000
+### [Startek Honored as one of India’s Best Workplaces in IT & IT-BPM 2023 by Great Place To Work India](https://theprint.in/ani-press-releases/startek-honored-as-one-of-indias-best-workplaces-in-it-it-bpm-2023-by-great-place-to-work-india/1885358/)
+
+Article found but Couldn't summarize 
+PRNewswire Mumbai (Maharashtra) [India], December 14: Startek&#174; (NYSE: SRT), a global customer experience (CX) solutions provider, has been recognized by Great Place To Work&#174; India as one of India&#8217;s Best Workplaces&#8482; in IT &#38; IT-BPM for the year 2023. The prestigious accolade is a testament to the Startek commitment to fostering a positive and inclusive [&#8230;]
+
+Thu, 14 Dec 2023 05:02:13 +0000
+### [India to continue pursuit to become number one economy in world, predicts USISPF chairman](https://theprint.in/world/india-to-continue-pursuit-to-become-number-one-economy-in-world-predicts-usispf-chairman/1885356/)
+
+Article found but Couldn't summarize 
+Washington, DC [US], December 14 (ANI): US-India Strategic Partnership Forum (USISPF) chairman John Chambers has predicted that in 2024 India will continue its pursuit to become the number one economy in the world. Chambers predicted that in 2024: &#8220;India will keep tracking towards ultimately becoming the number one economy in the world (as I predicted [&#8230;]
+
+Thu, 14 Dec 2023 05:02:02 +0000
+### [Mrunal Thakur shares fan-girl moment with ‘Harry Potter’ star Daniel Radcliffe](https://theprint.in/feature/mrunal-thakur-shares-fan-girl-moment-with-harry-potter-star-daniel-radcliffe/1885354/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 14 (ANI): Actor Mrunal Thakur shared a fan-girl moment as she met the &#8216;Harry Potter&#8217; actor Daniel Radcliffe in New York. Taking to Instagram, Mrunal shared a video on her stories in which Daniel Radcliffe is seen clicking selfies with his fans and Mrunal can be heard screaming from in the [&#8230;]
+
+Thu, 14 Dec 2023 05:00:03 +0000
+### [4 killed as brick kiln chimney collapses on workers in West Bengal](https://theprint.in/india/4-killed-as-brick-kiln-chimney-collapses-on-workers-in-west-bengal/1885351/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 14 (PTI) At least four workers were killed and three injured after the chimney of a brick kiln collapsed on them in West Bengal&#8217;s North 24 Parganas district, police said. The incident happened at Dhaltitah village in Basirhat on Wednesday evening while attempting to restart the brick kiln which was closed for a [&#8230;]
+
+Thu, 14 Dec 2023 04:55:06 +0000
+### [Manichaeism worshipped Jesus, Buddha. This Silk Road religion’s strength became its weakness](https://theprint.in/opinion/manichaeism-worshipped-jesus-buddha-this-silk-road-religions-strength-became-its-weakness/1885324/)
+
+Article found but Couldn't summarize 
+Manichaean icons and ideas trickled into the art of Tibet and Japan, with Mani and Jesus represented as Buddhas.
+
+Thu, 14 Dec 2023 04:48:24 +0000
+### [‘Did recce months ago, realised footwear isn’t checked’ — how Parliament security breach was planned](https://theprint.in/india/went-with-visitor-pass-realised-footwear-isnt-checked-how-parliament-security-breach-was-planned/1885273/)
+
+Article found but Couldn't summarize 
+Manoranjan, one of the accused, got a cavity made inside his shoe to conceal a smoke canister. That is how he was able to take it inside bypassing all security, say police officers.
+
+Thu, 14 Dec 2023 04:47:33 +0000
+### [NLC India Ltd unveils Eco-Friendly M-Sand plant](https://theprint.in/economy/nlc-india-ltd-unveils-eco-friendly-m-sand-plant/1885338/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 14 (ANI): Neyveli Lignite Corporation India Limited (NLCIL), has taken another significant step with the initiation of the Bhoomi Puja for the proposed OB to M-Sand Plant at Mine-IA, Neyveli. This event, held on December 12, was attended by Prasanna Kumar Motupalli, CMD/NLCIL, along with Functional Directors, Executive Directors, and Senior [&#8230;]
+
+Thu, 14 Dec 2023 04:47:22 +0000
+### [Dharmendra remembers Raj Kapoor on his 99th birth anniversary, shares throwback picture](https://theprint.in/feature/dharmendra-remembers-raj-kapoor-on-his-99th-birth-anniversary-shares-throwback-picture/1885336/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 14 (ANI): Veteran star Dharmendra on Thursday, took a stroll down memory lane and shared a priceless throwback picture with yesteryear&#8217;s star Raj Kapoor on the occasion of his birth anniversary. Taking to Instagram, Dharmendra dropped the picture which he captioned, &#8220;Happy Birthday Raj Sahab &#8230;. We miss you ! &#8230;.. [&#8230;]
+
+Thu, 14 Dec 2023 04:47:13 +0000
+### [Workifys Revolutionizes Freelancing Industry with Zero-Commission Marketplace](https://theprint.in/ani-press-releases/workifys-revolutionizes-freelancing-industry-with-zero-commission-marketplace/1885334/)
+
+Article found but Couldn't summarize 
+SRV Media New Delhi [India], December 14: Workifys, a trailblazing freelancing marketplace connecting freelancers and companies, announces its groundbreaking platform designed to bridge the gap between talent and opportunity. Launched recently, Workifys aims to reshape the freelancing landscape by introducing a platform that champions fair opportunities and ensures project success without the burden of service [&#8230;]
+
+Thu, 14 Dec 2023 04:47:02 +0000
+### [New Aptar Mumbai Site to Increase Manufacturing Capabilities](https://theprint.in/ani-press-releases/new-aptar-mumbai-site-to-increase-manufacturing-capabilities-2/1885332/)
+
+Article found but Couldn't summarize 
+PNN Mumbai (Maharashtra) [India], December 14: Aptar Pharma, a global leader in drug delivery systems, services and active material science solutions, today announced the opening of its new Aptar Mumbai site, which will increase manufacturing capabilities in South East Asia. An inauguration ceremony held on December 1, 2023, marked the official opening of the new [&#8230;]
+
+Thu, 14 Dec 2023 04:45:04 +0000
+### [India’s Nifty, Sensex hit new highs as Fed spurs global rally](https://theprint.in/india/indias-nifty-sensex-hit-new-highs-as-fed-spurs-global-rally/1885329/)
+
+Article found but Couldn't summarize 
+By Bharath Rajeswaran BENGALURU (Reuters) -India's benchmark indexes advanced to new all-time highs on Thursday as a global rally spilled over to regional markets after the U.S. Federal Reserve
+
+Thu, 14 Dec 2023 04:45:02 +0000
+### [Nusuk’s 1st Indian roadshow unveils services for streamlined Umrah experience](https://theprint.in/india/nusuks-1st-indian-roadshow-unveils-services-for-streamlined-umrah-experience/1885328/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 14 (PTI) Saudi Arabia held a roadshow here to promote its integrated Nusuk platform and address various challenges of representatives of Umrah partners and travel agents. The first roadshow here, chaired by Saudi Arabia&#8217;s Minister of Hajj and Umrah, Tawfig Al-Rabiah, focused on engaging with officials to address various challenges and called for [&#8230;]
+
+Thu, 14 Dec 2023 04:34:12 +0000
+### [‘Genetic scissors’ — India using same tech to find sickle cell cure as gene therapy approved by US FDA](https://theprint.in/health/genetic-scissors-india-using-same-tech-to-find-sickle-cell-cure-as-gene-therapy-approved-by-us-fda/1884468/)
+
+Article found but Couldn't summarize 
+FDA-approved Casgevy &#38; Lyfgenia made from patients’ blood stem cells which are modified and given back as single-dose infusion. India ‘in preclinical stage’ of trial of similar therapy.
+
+Thu, 14 Dec 2023 04:30:02 +0000
+### [Nobody can force filmmaker to make movies of particular genre: Manoj Bajpayee](https://theprint.in/feature/nobody-can-force-filmmaker-to-make-movies-of-particular-genre-manoj-bajpayee/1885321/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 14 (PTI) Popular actor Manoj Bajpayee said nobody can force a filmmaker to make movies of a particular genre. Interacting with reporters during the 29th Kolkata International Film Festival here recently, the 54-year old actor said it is up to people to choose the kind of films they want to see. &#8220;It is [&#8230;]
+
 Thu, 14 Dec 2023 04:17:21 +0000
 ### [Market soars to new heights as Federal Reserve signals shift: Sensex and Nifty surges amid global economic optimism](https://theprint.in/economy/market-soars-to-new-heights-as-federal-reserve-signals-shift-sensex-and-nifty-surges-amid-global-economic-optimism/1885318/)
 
