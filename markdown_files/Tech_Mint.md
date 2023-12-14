@@ -1,3 +1,27 @@
+Thu, 14 Dec 2023 11:53:06 +0530
+### [Garena Free Fire Max redeem codes for Dec 14, 2023: Grab exciting daily rewards](https://www.livemint.com/technology/tech-news/garena-free-fire-max-redeem-codes-for-dec-14-2023-grab-exciting-daily-rewards-11702534773792.html)
+
+Article found but Couldn't summarize 
+Players can redeem Garena Free Fire Max codes to win Rebel Academy Weapon Loot Crate, Revolt Weapon Loot Crate, Diamonds Voucher, Fire Head Hunting Parachute, and more. Hurry up as the codes are available for a limited time and for the first 500 users only.
+
+Thu, 14 Dec 2023 11:38:11 +0530
+### [Apple may go back to THIS iPhone 12 design with upcoming iPhone 16](https://www.livemint.com/technology/tech-news/apple-to-revert-back-to-iphone-12-design-with-upcoming-iphone-16-report-11702529288157.html)
+
+Article found but Couldn't summarize 
+Apple is expected to return to the camera design used in the iPhone 12 for its upcoming flagship iPhone 16 series, while keeping the position of the camera flash the same as in the iPhone 15 Pro.
+
+Thu, 14 Dec 2023 11:36:53 +0530
+### [Nothing Phone 3 could take center stage at 'Nothing to See' event during MWC 2024: Details](https://www.livemint.com/technology/gadgets/nothing-phone-3-could-take-center-stage-at-nothing-to-see-event-during-mwc-2024-details-11702531628822.html)
+
+Article found but Couldn't summarize 
+Nothing is preparing for a major unveiling in 2024 with the launch of the Nothing Phone 3. The company has announced an event at the Mobile World Congress in February 2024, generating excitement for its highly anticipated smartphone.
+
+Thu, 14 Dec 2023 11:00:48 +0530
+### [8 best printers for home use: Ensure easy and high quality printing at home](https://www.livemint.com/technology/gadgets/8-best-printers-for-home-use-ensure-easy-and-high-quality-printing-at-home-11702465627535.html)
+
+Article found but Couldn't summarize 
+8 best printers for home use bring you the accessibility and convenience to get every printing related job done at home. Check out the best options from different brands and get your printing journey started.
+
 Thu, 14 Dec 2023 10:07:06 +0530
 ### [Redmi Note 13 5G series to launch in India on January 4. Expected price, specs and all you need to know](https://www.livemint.com/technology/gadgets/redmi-note-13-5g-series-to-launch-in-india-on-january-4-expected-price-specs-and-all-you-need-to-know-11702523627232.html)
 

@@ -1,3 +1,13 @@
+Thu, 14 Dec 2023 05:59:54 +0000
+### [INDIA and Maharashtra’s new Dalit formation: Why Congress needs Ambedkar’s party](https://indianexpress.com/article/opinion/columns/india-alliance-maharasthra-dalit-congress-vba-ambedkar-9067759/)
+
+Article found but Couldn't summarize
+
+Thu, 14 Dec 2023 04:30:02 +0000
+### [In JNU today, the price for free speech is Rs 20,000](https://indianexpress.com/article/opinion/columns/jnu-protests-new-rules-9067535/)
+
+Article found but Couldn't summarize
+
 Thu, 14 Dec 2023 01:40:05 +0000
 ### [Work of consultancy firms with government must be regulated](https://indianexpress.com/article/opinion/columns/work-of-consultancy-firms-with-government-must-be-regulated-9067316/)
 

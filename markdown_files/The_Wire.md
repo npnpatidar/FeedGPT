@@ -1,3 +1,27 @@
+2023-12-14T11:48:57+05:30
+### [The Last Pillar of Indian Democracy Has Fallen](https://thewire.in/law/the-last-pillar-of-indian-democracy-has-fallen)
+
+No Article text 
+By upholding the Article 370 decision, the Supreme Court has opened the way for the government to amend the Constitution without having to bother with getting a two-thirds majority in both houses of Parliament.
+
+2023-12-14T11:45:29+05:30
+### [MP: Newly Sworn-in CM Places Curbs on Loudspeakers at Religious Places, Sale of Meat](https://thewire.in/politics/mp-newly-sworn-in-cm-orders-curbs-on-loudspeakers-at-religious-places-sale-of-meat)
+
+No Article text 
+Known for his communal rhetoric and aggressive Hindutva, Mohan Yadav took oath as chief minister on Wednesday in the presence of Narendra Modi, Amit Shah, and Shivraj Singh Chouhan.
+
+2023-12-14T11:15:19+05:30
+### [US House of Representatives Votes To Authorise Joe Biden Impeachment Inquiry](https://thewire.in/world/us-house-of-representatives-authorise-joe-biden-impeachment-inquiry)
+
+No Article text 
+Republicans accuse the US president of being involved in the controversial foreign business dealings of his son, Hunter. He has denied the allegations.
+
+2023-12-14T11:01:47+05:30
+### ['Impending Crisis': Kerala Moves SC Against Union Govt's Move to Lower Its Borrowing Capacity](https://thewire.in/law/kerala-union-government-supreme-court-borrowing-capacity)
+
+No Article text 
+'The ability to determine the borrowing of the state in order to balance the budget and make up the fiscal deficit is exclusively within the domain of the states.'
+
 2023-12-14T09:58:56+05:30
 ### [No House Panel, Top Post Vacant: Parliament Security Breach Unfurls Serious Lapses](https://thewire.in/government/parliament-breach-security-uapa)
 

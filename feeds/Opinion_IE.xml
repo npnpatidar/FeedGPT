@@ -5,6 +5,24 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Opinion_IE.xml</link>
 		<description>Opinion IE</description>
 		<item>
+			<title>INDIA and Maharashtra’s new Dalit formation: Why Congress needs Ambedkar’s party</title>
+			<link>https://indianexpress.com/article/opinion/columns/india-alliance-maharasthra-dalit-congress-vba-ambedkar-9067759/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Thu, 14 Dec 2023 05:59:54 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2023/12/ambedkar-3.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2023/12/ambedkar-3.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>In JNU today, the price for free speech is Rs 20,000</title>
+			<link>https://indianexpress.com/article/opinion/columns/jnu-protests-new-rules-9067535/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Thu, 14 Dec 2023 04:30:02 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2023/12/JNU-Protest.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2023/12/JNU-Protest.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Work of consultancy firms with government must be regulated</title>
 			<link>https://indianexpress.com/article/opinion/columns/work-of-consultancy-firms-with-government-must-be-regulated-9067316/</link>
 			<description>Article found but Couldn't summarize</description>

@@ -1,3 +1,123 @@
+Thu, 14 Dec 2023 06:18:30 +0000
+### [Oman Air elevates cargo connectivity: Launches freighter service linking Hyderabad and Muscat](https://theprint.in/economy/oman-air-elevates-cargo-connectivity-launches-freighter-service-linking-hyderabad-and-muscat/1885469/)
+
+Article found but Couldn't summarize 
+Hyderabad (Telangana) [India], December 14 (ANI): Oman Air inaugurated its maiden freighter service from GMR Hyderabad International Airport, marking a crucial link between Hyderabad and Muscat. According to a press release, the airline&#8217;s first Boeing B737-800BCF, dedicated to freight services, will operate two weekly flights on Tuesdays and Saturdays, departing from Hyderabad at 2 pm [&#8230;]
+
+Thu, 14 Dec 2023 06:18:04 +0000
+### [NYUCT Design Labs launches the first venture design and innovation hackathon](https://theprint.in/ani-press-releases/nyuct-design-labs-launches-the-first-venture-design-and-innovation-hackathon/1885467/)
+
+Article found but Couldn't summarize 
+PRNewswire Mumbai (Maharashtra) [India], December 14: NYUCT Design Labs, a venture design and innovation firm, launched the first Hack &#38; the Beanstalk edition with a 5-day hackathon program in collaboration with Mumbai&#8217;s Rachana Sansad College of Applied Art and Craft (CAAC), a leading design institute. A curriculum for innovation, design thinking and business-led creativity was [&#8230;]
+
+Thu, 14 Dec 2023 06:17:46 +0000
+### [Stop obsessing over ‘leading from the front’. It doesn’t justify sacrifice of Army officers](https://theprint.in/opinion/stop-obsessing-over-leading-from-the-front-it-doesnt-justify-sacrifice-of-army-officers/1884830/)
+
+Article found but Couldn't summarize 
+The ethos of ‘leading from the front’ is being used by the Army as an afterthought to cover up undue haste and violation of tactical norms and standard operating procedures.
+
+Thu, 14 Dec 2023 06:17:38 +0000
+### [China: Millions blacklisted for debt as loan defaults hit record high](https://theprint.in/world/china-millions-blacklisted-for-debt-as-loan-defaults-hit-record-high/1885464/)
+
+Article found but Couldn't summarize 
+Beijing [China], December 14 (ANI): Amid China&#8217;s economy struggles to recover and unemployment remains high, the country&#8217;s indebted population is growing at a rapid rate, Voice Of America reported. VOA quoting a report from the Financial Times said that defaults by Chinese borrowers have surged to a record high since the pandemic, with authorities blacklisting [&#8230;]
+
+Thu, 14 Dec 2023 06:17:18 +0000
+### [Adivi Sesh looks fierce in first look poster of his next Pan-India film with Shruti Haasan](https://theprint.in/feature/adivi-sesh-looks-fierce-in-first-look-poster-of-his-next-pan-india-film-with-shruti-haasan/1885462/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 14 (ANI): Makers of the upcoming untitled Pan-India film starring Shruti Haasan and Adivi Sesh on Thursday dropped the new first-look poster. Taking to Instagram, actor Adivi Sesh shared the poster, that he captioned, &#8220;Surprise! #SeshEXShruti Not just a straight Bollywood Film. Not just a straight TFI film. This is an [&#8230;]
+
+Thu, 14 Dec 2023 06:17:02 +0000
+### [RPPL Reschedules the Historic Night Street Formula Race (Chennai Formula Street Circuit) to the Next Racing Season](https://theprint.in/ani-press-releases/rppl-reschedules-the-historic-night-street-formula-race-chennai-formula-street-circuit-to-the-next-racing-season/1885460/)
+
+Article found but Couldn't summarize 
+NewsVoir New Delhi [India], December 14: The Government of Tamil Nadu had put in place elaborate arrangements to organize the Chennai Formula 4 Racing Circuit, which was set to feature India&#8217;s inaugural first-ever Night Street Circuit race on December 9th and 10th, 2023. The Federation Internationale de l&#8217;Automobile (FIA) certified circuit was set to host [&#8230;]
+
+Thu, 14 Dec 2023 06:16:43 +0000
+### [US shoots down aerial vehicle launched from Houthi-controlled areas](https://theprint.in/world/us-shoots-down-aerial-vehicle-launched-from-houthi-controlled-areas/1885459/)
+
+Article found but Couldn't summarize 
+(Reuters) - The United States shot down an aerial vehicle launched from a Houthi-controlled area in response to a call from a Marshall Islands-flagged tanker in the southern Red Sea on Wednesday, U.S.
+
+Thu, 14 Dec 2023 06:16:31 +0000
+### [How F-16 fighter jets could reshape Ukraine’s aerial battlefield](https://theprint.in/world/how-f-16-fighter-jets-could-reshape-ukraines-aerial-battlefield/1885457/)
+
+Article found but Couldn't summarize 
+By Gerry Doyle (Reuters) - As U.S.-made F-16 fighter jets for Ukraine arrive at training centres in the United States and Europe, Kyiv’s allies hope the modern aircraft can push Russian planes farther
+
+Thu, 14 Dec 2023 06:16:30 +0000
+### [BJP President to visit HP from Dec 15 to Dec 17](https://theprint.in/india/bjp-president-to-visit-hp-from-dec-15-to-dec-17/1885456/)
+
+Article found but Couldn't summarize 
+Shimla, Dec 14 (PTI) BJP National President Jagat Prakash Nadda will be on a visit to Himachal Pradesh from December 15 to 17 to participate in the Viksit Bharat Sankalp Yatra, a party member said on Thursday. State BJP chief Rajeev Bindal in a statement said that Nadda on Friday will reach his village, Vijaypur, [&#8230;]
+
+Thu, 14 Dec 2023 06:16:03 +0000
+### [Gaza faces ‘perfect storm’ of deadly diseases](https://theprint.in/world/gaza-faces-perfect-storm-of-deadly-diseases/1885454/)
+
+Article found but Couldn't summarize 
+By Bassam Masoud and Saleh Salem GAZA (Reuters) - For the besieged residents of Gaza who have so far survived Israel's bombs and bullets, a silent, invisible killer is now stalking them: disease. A
+
+Thu, 14 Dec 2023 06:16:02 +0000
+### [Mcap of BSE-listed firms jumps to record high of Rs 354.41 lakh cr; investors richer by Rs 3 lk cr](https://theprint.in/economy/mcap-of-bse-listed-firms-jumps-to-record-high-of-rs-354-41-lakh-cr-investors-richer-by-rs-3-lk-cr/1885453/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 14 (PTI) The market capitalisation of BSE-listed companies surged to an all-time high of Rs 354.41 lakh crore in early trade on Thursday, with investors becoming richer by Rs 3.22 lakh crore, as the benchmark Sensex hit its all-time high level driven by a rally in global equities. Global markets rallied after [&#8230;]
+
+Thu, 14 Dec 2023 06:15:05 +0000
+### [US says Ukraine conflict is damaging Russian economy – FT](https://theprint.in/world/us-says-ukraine-conflict-is-damaging-russian-economy-ft/1885450/)
+
+Article found but Couldn't summarize 
+(Reuters) - The conflict in Ukraine is significantly impacting Russia's economy, raising domestic prices, and forcing Moscow to devote a third of its budget on defense, the Financial Times reported on
+
+Thu, 14 Dec 2023 06:15:03 +0000
+### [Odisha: Rescued newborn from borewell stable, out of danger, say doctors](https://theprint.in/india/odisha-rescued-newborn-from-borewell-stable-out-of-danger-say-doctors/1885449/)
+
+Article found but Couldn't summarize 
+Sambalpur (Odisha), Dec 14 (PTI) The health condition of the newborn girl, who was rescued from an abandoned borewell in Odisha’s Sambalpur district on Tuesday evening, is stable and out of danger, doctors said. The girl is currently undergoing treatment at the special newborn care unit (SNCU) of Veer Surendra Sai Institute of Medical Sciences [&#8230;]
+
+Thu, 14 Dec 2023 06:02:28 +0000
+### [Ashok Goel Library at Rishihood University Hosts International Conference Addressing IP Rights in the AI Era: Modern Challenges for Innovative Library Services](https://theprint.in/ani-press-releases/ashok-goel-library-at-rishihood-university-hosts-international-conference-addressing-ip-rights-in-the-ai-era-modern-challenges-for-innovative-library-services/1885441/)
+
+Article found but Couldn't summarize 
+NewsVoir Sonipat (Haryana) [India], December 14: The Ashok Goel Library at Rishihood University, Sonipat, Haryana recently hosted the International Conference on &#8220;Intellectual Property Rights in the Era of Artificial Intelligence: Challenges in Modern Innovative Libraries Services&#8221;. The conference, organized in collaboration with The Indian Law Institute (ILI), New Delhi, and sponsored by the Raja Rammohun [&#8230;]
+
+Thu, 14 Dec 2023 06:02:16 +0000
+### [Karan Johar, Kajol celebrate 22 years of ‘Kabhi Khushi Kabhie Gham’](https://theprint.in/feature/karan-johar-kajol-celebrate-22-years-of-kabhi-khushi-kabhie-gham/1885439/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 14 (ANI): Ace filmmaker Karan Johar&#8217;s family drama film &#8216;Kabhi Khushi Kabhie Gham&#8217; turned 22 on Thursday. To mark the occasion, KJo took to Instagram and shared a collage video that featured a few scenes of the iconic film. He captioned the post, &#8220;My annual reminder of &#8220;It&#8217;s all about loving [&#8230;]
+
+Thu, 14 Dec 2023 06:02:02 +0000
+### [US discusses ways to expand Taiwan’s participation in international forums](https://theprint.in/world/us-discusses-ways-to-expand-taiwans-participation-in-international-forums/1885436/)
+
+Article found but Couldn't summarize 
+Washington, DC [US], December 14 (ANI): The US and Taiwan are exploring ways to expand Taiwan&#8217;s participation in the UN and other international forums, as well as addressing a range of global challenges, including public health, aviation safety and climate change, Voice of America (VOA) reported. VOA is a US state-owned news network and international [&#8230;]
+
+Thu, 14 Dec 2023 06:01:27 +0000
+### [BJP minister behind backward class panel head’s exit, claims Wadettiwar](https://theprint.in/india/bjp-minister-behind-backward-class-panel-heads-exit-claims-wadettiwar/1885434/)
+
+Article found but Couldn't summarize 
+Nagpur, Dec 14 (PTI) Leader of opposition in the Maharashtra assembly Vijay Wadettiwar on Thursday claimed a BJP minister from Vidarbha had insulted Justice Anand Nirgude (retired) following which the latter stepped down from the post of the state Backward Class Commission&#8217;s chairman. Earlier, Congress leader Wadettiwar on Tuesday alleged that members of the state [&#8230;]
+
+Thu, 14 Dec 2023 06:01:17 +0000
+### [Inclusion of African Union in G20 under India’s initiative should inspire UN to reform Security Council: Amb Kamboj](https://theprint.in/world/inclusion-of-african-union-in-g20-under-indias-initiative-should-inspire-un-to-reform-security-council-amb-kamboj/1885433/)
+
+Article found but Couldn't summarize 
+United Nations, Dec 14 (PTI) India’s initiative to include the African Union as a permanent member of the G20 under its presidency is a significant step in reform that should inspire the “much older” United Nations to make the Security Council contemporary, New Delhi’s envoy to the UN has said. India’s Permanent Representative to the [&#8230;]
+
+Thu, 14 Dec 2023 06:01:05 +0000
+### [Lok Sabha adjourned till 2 pm amid Opposition protests over security breach](https://theprint.in/india/lok-sabha-adjourned-till-2-pm-amid-opposition-protests-over-security-breach/1885432/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 14 (PTI) Lok Sabha proceedings on Thursday were adjourned till 2 pm following vociferous protests by Opposition members demanding a statement from the government on the security breach in the House. Speaker Om Birla said the responsibility of the security matters of the Lok Sabha is with the House&#8217;s secretariat. However, the [&#8230;]
+
+Thu, 14 Dec 2023 06:00:49 +0000
+### [Congress’ Gaddam Prasad Kumar elected Telangana Speaker](https://theprint.in/india/congress-gaddam-prasad-kumar-elected-telangana-speaker/1885430/)
+
+Article found but Couldn't summarize 
+Hyderabad, Dec 14 (PTI) Ruling Congress legislator Gaddam Prasad Kumar was elected unanimously as Speaker of the Telangana Assembly, pro-tem Speaker Akbaruddin Owaisi announced on Thursday. Kumar had earlier filed nomination for the post. &#8220;&#8230;Shri Gaddam Prasad Kumar (is) elected unanimously to the office of the Speaker,&#8221; Owaisi declared, congratulating the former. After the pro [&#8230;]
+
 Thu, 14 Dec 2023 05:02:33 +0000
 ### [New Aptar Mumbai Site to Increase Manufacturing Capabilities](https://theprint.in/ani-press-releases/new-aptar-mumbai-site-to-increase-manufacturing-capabilities-3/1885360/)
 

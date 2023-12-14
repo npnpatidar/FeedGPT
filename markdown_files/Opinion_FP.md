@@ -1,3 +1,15 @@
+Thu, 14 Dec 2023 11:30:12 +0530
+### [Vantage | Will Russia's Wagner group replace UN in Mali?](https://www.firstpost.com/opinion/vantage-will-russias-wagner-group-replace-un-in-mali-13502332.html)
+
+Article found but Couldn't summarize 
+Vantage | Will Russia's Wagner group replace UN in Mali?
+
+Thu, 14 Dec 2023 11:00:19 +0530
+### [Vantage: How Houthi attacks threaten West Asia and global maritime trade](https://www.firstpost.com/opinion/vantage-how-houthi-attacks-threaten-west-asia-and-global-maritime-trade-13502142.html)
+
+Article found but Couldn't summarize 
+Vantage: How Houthi attacks threaten West Asia and global maritime trade
+
 Thu, 14 Dec 2023 08:44:13 +0530
 ### [Regime change in Bangladesh? Biden’s Arab Spring desire in Dhaka no better than Obama’s Middle Eastern nightmare](https://www.firstpost.com/opinion/regime-change-in-bangladesh-bidens-arab-spring-desire-in-dhaka-no-better-than-obamas-middle-eastern-nightmare-13501462.html)
 

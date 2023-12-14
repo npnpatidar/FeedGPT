@@ -1,3 +1,15 @@
+Thu, 14 Dec 2023 11:24:09 +0530
+### [Elon Musk is planning a new university in Austin, will also start a STEM-focussed primary school](https://www.firstpost.com/tech/elon-musk-is-planning-a-new-university-in-austin-will-also-start-a-stem-focussed-primary-school-13502312.html)
+
+Article found but Couldn't summarize 
+Elon Musk is planning a new university in Austin, will also start a STEM-focussed primary school
+
+Thu, 14 Dec 2023 10:54:24 +0530
+### [German consultancy staff distance themselves from VW China forced labour audit after giving clean chit](https://www.firstpost.com/tech/german-consultancy-staff-distance-themselves-from-vw-china-forced-labour-audit-after-giving-clean-chit-13502172.html)
+
+Article found but Couldn't summarize 
+German consultancy staff distance themselves from VW China forced labour audit after giving clean chit
+
 Thu, 14 Dec 2023 09:54:52 +0530
 ### [GPAI 2023: All member nations adopt New Delhi Resolution for collaborative development regulation of AI](https://www.firstpost.com/tech/gpai-2023-all-member-nations-adopt-new-delhi-resolution-for-collaborative-development-regulation-of-ai-13501862.html)
 
