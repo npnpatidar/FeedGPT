@@ -1,3 +1,9 @@
+Thu, 14 Dec 2023 08:30:00 +0530
+### [How will the election boycott by the BNP affect Bangladesh? | Explained](https://www.thehindu.com/news/international/how-will-the-election-boycott-by-the-bnp-affect-bangladesh-explained/article67635696.ece)
+
+Article found but Couldn't summarize 
+Why is the Bangladesh Nationalist Party not participating in the polls? Will there be free and fair elections?
+
 Wed, 13 Dec 2023 22:56:08 +0530
 ### [Row over hate speech in U.S. universities | Explained](https://www.thehindu.com/news/international/row-over-hate-speech-in-us-universities-explained/article67635698.ece)
 

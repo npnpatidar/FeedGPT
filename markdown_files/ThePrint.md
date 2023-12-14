@@ -1,3 +1,57 @@
+Thu, 14 Dec 2023 03:15:30 +0000
+### [3 killed, 30 injured as brick kiln chimney collapses on workers in West Bengal](https://theprint.in/india/3-killed-30-injured-as-brick-kiln-chimney-collapses-on-workers-in-west-bengal/1885259/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 14 (PTI) At least three workers were killed and more than 30 people injured as the chimney of a brick kiln collapsed on them in West Bengal&#8217;s North 24 Parganas district, police said. The incident happened on Wednesday evening at Dhaltitah village in Basirhat when the brick kiln was in operation, they said. [&#8230;]
+
+Thu, 14 Dec 2023 03:15:03 +0000
+### [India’s Nifty set to hit new high as dovish Fed triggers global rally](https://theprint.in/india/indias-nifty-set-to-hit-new-high-as-dovish-fed-triggers-global-rally/1885257/)
+
+Article found but Couldn't summarize 
+BENGALURU (Reuters) - India's benchmark Nifty 50 is set to open at a new all-time high on Thursday, after the U.S. Federal Reserve flagged the end of its tightening cycle and struck a dovish tone on
+
+Thu, 14 Dec 2023 03:15:03 +0000
+### [Vishnu Deo Sai govt in Chhattisgarh tol hold first cabinet meet, discuss poll promises](https://theprint.in/india/vishnu-deo-sai-govt-in-chhattisgarh-tol-hold-first-cabinet-meet-discuss-poll-promises/1885256/)
+
+Article found but Couldn't summarize 
+Raipur, Dec 14 (PTI) The first cabinet meeting of the newly-formed Bharatiya Janata Party (BJP) government in Chhattisgarh will take place on Thursday, Chief Minister Vishnu Deo Sai has said. Sai was sworn in as chief minister on Wednesday, while two party MLAs Arun Sao and Vijay Sharma took oath as deputy chief ministers. Prime [&#8230;]
+
+Thu, 14 Dec 2023 03:00:46 +0000
+### [Shrinking water bodies, rampant encroachment, ‘colluding depts’ — why Chennai floods year after year](https://theprint.in/statedraft/shrinking-water-bodies-rampant-encroachment-colluding-depts-why-chennai-floods-year-after-year/1885100/)
+
+Article found but Couldn't summarize 
+According to one expert, Ennore Pulicat creek in north &#038; Pallikaranai marshland in south are blessing for Chennai but rampant encroachment has continued largely unchecked there.
+
+Thu, 14 Dec 2023 02:45:38 +0000
+### [Athletics-Shoe tech advances bring sub-two hour marathon ever closer](https://theprint.in/sport/athletics-shoe-tech-advances-bring-sub-two-hour-marathon-ever-closer/1885252/)
+
+Article found but Couldn't summarize 
+By Mitch Phillips LONDON (Reuters) - A century after the 1924 Paris Olympic men's marathon was won by Finn Albin Stenroos in two hours 41.22 minutes, next year's Games in the same city could feature
+
+Thu, 14 Dec 2023 02:45:26 +0000
+### [Rugby-Impending brain injury lawsuit could signal huge shift in rugby](https://theprint.in/sport/rugby-impending-brain-injury-lawsuit-could-signal-huge-shift-in-rugby/1885250/)
+
+Article found but Couldn't summarize 
+By Lori Ewing MANCHESTER, England (Reuters) - While the 2023 Rugby World Cup was deemed a resounding success, with record crowds packing stadiums across France, the global tournament was played
+
+Thu, 14 Dec 2023 02:45:06 +0000
+### [Asian equities follow Wall Street higher; yields and dollar down](https://theprint.in/economy/asian-equities-follow-wall-street-higher-yields-and-dollar-down/1885248/)
+
+Article found but Couldn't summarize 
+By Xie Yu HONG KONG (Reuters) - Asian stocks broadly rallied on Thursday morning, after the U.S. Federal Reserve flagged the end of its tightening cycle and struck a dovish tone for the year ahead.
+
+Thu, 14 Dec 2023 02:30:31 +0000
+### [News anchors playing musical chairs on TV. And it’s giving us a real identity crisis](https://theprint.in/opinion/telescope/news-anchors-playing-musical-chairs-on-tv-and-its-giving-us-a-real-identity-crisis/1885107/)
+
+Article found but Couldn't summarize 
+Many anchors and well-known TV news reporters are no longer where they are supposed to be—they’ve taken on new assignments and left us scratching our heads.
+
+Thu, 14 Dec 2023 02:30:02 +0000
+### [Parliament security breach: Case under UAPA registered](https://theprint.in/india/parliament-security-breach-case-under-uapa-registered/1885243/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 14 (PTI) The Delhi Police has registered a case under the stringent Unlawful Activities (Prevention) Act in connection with the Parliament security breach, officials said on Thursday. In a major security breach on the anniversary of the 2001 Parliament terror attack on Wednesday, two persons &#8212; Sagar Sharma and Manoranjan D &#8212; [&#8230;]
+
 Thu, 14 Dec 2023 02:17:02 +0000
 ### [“Cannot have old wine in new bottles and expect new results”: India reiterates call for security council reforms](https://theprint.in/world/cannot-have-old-wine-in-new-bottles-and-expect-new-results-india-reiterates-call-for-security-council-reforms/1885241/)
 

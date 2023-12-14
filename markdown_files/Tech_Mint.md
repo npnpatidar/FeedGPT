@@ -1,3 +1,8 @@
+Thu, 14 Dec 2023 08:12:38 +0530
+### [Elon Musk's Grok AI is now available for users in India. Here's how you can get access to the chatbot](https://www.livemint.com/technology/tech-news/elon-musks-grok-ai-is-now-available-in-india-heres-how-you-can-get-access-to-the-chatbot-xai-11702519015854.html)
+
+GPT-3.5: Grok AI, the generative AI-based chatbot developed by xAI, is now available in India and several other countries, including Pakistan, Australia, Canada, New Zealand, Singapore, and Sri Lanka. In India, access to Grok is limited to X Premium+ subscribers, who can subscribe for ₹1,300 per month or ₹13,600 annually. Grok is designed to provide witty answers and has a rebellious streak. It has access to real-time information and can answer questions that other chatbots may reject. Grok-0, xAI's proprietary large language model, is trained with 33 billion parameters and offers superior performance compared to ChatGPT based on the GPT 3.5 language model. Despite some controversies, xAI is working to make Grok politically neutral.
+
 Thu, 14 Dec 2023 07:19:27 +0530
 ### [Instagram will allow users to set video status. Here's how the new feature works](https://www.livemint.com/technology/apps/instagram-will-allow-users-to-set-video-status-heres-how-the-new-feature-works-11702515374013.html)
 
