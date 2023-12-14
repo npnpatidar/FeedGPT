@@ -1,3 +1,15 @@
+Thu, 14 Dec 2023 19:02:00 +0530
+### [Top 10 premium black smartwatch under  ₹10000: From OnePlus, Titan, Noise and more](https://www.livemint.com/technology/gadgets/top-10-premium-black-smartwatch-under-rs-10000-from-oneplus-titan-noise-and-more-11702552312334.html)
+
+Article found but Couldn't summarize 
+Top 10 picks of black smartwatch under  ₹10000 offer affordable style and functionality. With sleek designs and diverse features, these wearables cater to various preferences, combining affordability and technology for a seamless user experience.
+
+Thu, 14 Dec 2023 18:56:24 +0530
+### [Top 10 small fridges with sleek designs and innovative functions: From Samsung, LG and more](https://www.livemint.com/technology/gadgets/top-10-small-fridges-with-sleek-designs-and-innovative-functions-from-samsung-lg-and-more-11702546328023.html)
+
+Article found but Couldn't summarize 
+Know the ultimate in compact cooling with our top 10 small fridge picks, blending modern features for maximum convenience. Perfect for tight spaces, these appliances offer sleek designs and innovative functions, redefining small fridge efficiency.
+
 Thu, 14 Dec 2023 18:40:17 +0530
 ### [Top 10 budget-friendly smartwatches from fire-boltt under  ₹2000: Phoenix Ultra, Asteroid and more](https://www.livemint.com/technology/gadgets/top-10-budget-friendly-smartwatches-from-fire-boltt-under-rs-2000-phoenix-ultra-asteroid-and-more-11702543257135.html)
 

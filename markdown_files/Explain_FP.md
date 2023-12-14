@@ -1,3 +1,9 @@
+Thu, 14 Dec 2023 19:16:38 +0530
+### [Why have 15 Opposition MPs been suspended from Parliament?](https://www.firstpost.com/explainers/why-have-15-opposition-mps-been-suspended-from-parliament-13504552.html)
+
+Article found but Couldn't summarize 
+Why have 15 Opposition MPs been suspended from Parliament?
+
 Thu, 14 Dec 2023 18:00:26 +0530
 ### [December Blues: Is COVID-19 making a comeback amid holiday season?](https://www.firstpost.com/explainers/december-blues-is-covid-19-making-a-comeback-amid-holiday-season-13503942.html)
 

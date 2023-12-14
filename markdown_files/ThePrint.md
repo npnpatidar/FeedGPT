@@ -1,3 +1,117 @@
+Thu, 14 Dec 2023 14:13:18 +0000
+### [Eye on 2024, Sukhbir apologises to Sikhs for sacrilege, his govt’s failure to nab culprits](https://theprint.in/india/eye-on-2024-sukhbir-apologises-to-sikhs-for-sacrilege-his-govts-failure-to-nab-culprits/1886173/)
+
+The article discusses the apology issued by the Shiromani Akali Dal (SAD) president, Sukhbir Singh Badal, at the Golden Temple in Amritsar, seeking forgiveness for the party's failure to prevent incidents of sacrilege of the Guru Granth Sahib in 2015. The article also describes the political repercussions of these incidents, which led to protests, police firing, and ultimately led to the downfall of the Akali government in the 2017 assembly elections. The apology is seen as an attempt to regain political support before the upcoming Lok Sabha elections. Additionally, it highlights Badal's acknowledgment of the party's failure to address the gravity of the situation and bring the culprits to justice.
+
+Thu, 14 Dec 2023 14:02:31 +0000
+### [Pakistan People’s Party to field Bilawal Bhutto Zardari for PM, Asif Ali Zardari for president](https://theprint.in/world/pakistan-peoples-party-to-field-bilawal-bhutto-zardari-for-pm-asif-ali-zardari-for-president/1886276/)
+
+Faisal Karim Kundi, the Information Secretary of the Pakistan People’s Party (PPP), announced that party chairman Bilawal Bhutto Zardari will be the candidate for the position of prime minister, and his father, former president Asif Ali Zardari, will be nominated for the role of president in the upcoming elections. Kundi also expressed the PPP's desire to see Asif Zardari become the president again. Additionally, he criticized the PML-N's reluctance to participate in elections, called for making the elections inclusive, and opposed reports of a potential social media ban during elections, stating that it would go against freedom of expression. Kundi also condemned the recent terrorist attack in Dera Ismail Khan and called for the implementation of the National Action Plan. Lastly, he emphasized the need for justice for Zulfikar Ali Bhutto, stating that those involved in his martyrdom should be punished, irrespective of their roles as bureaucrats, judges, or lawyers.
+
+Thu, 14 Dec 2023 14:02:19 +0000
+### [PM Modi congratulates Donald Tusk on becoming Poland’s new Prime Minister](https://theprint.in/world/pm-modi-congratulates-donald-tusk-on-becoming-polands-new-prime-minister/1886274/)
+
+Prime Minister Narendra Modi congratulated Donald Tusk on becoming Poland’s new Prime Minister after President Andrzej Duda swore him in on Wednesday. Tusk vowed to uphold the nation's constitution and received backing from the Polish Parliament after the outgoing Prime Minister lost a confidence vote. Tusk aims to lead a centrist, pro-EU government comprising the Civic Coalition party, the liberal Poland 2050 party, the conservative agrarian Polish People’s Party, and the Left. Tusk previously served two terms as Poland’s PM and then as EU Council President for five years.
+
+Thu, 14 Dec 2023 14:02:02 +0000
+### [Pak: Accountability court approves 2-day remand of Imran Khan in Toshakhana case](https://theprint.in/world/pak-accountability-court-approves-2-day-remand-of-imran-khan-in-toshakhana-case/1886272/)
+
+The article discusses an accountability court in Pakistan approving a two-day remand of Pakistan Tehreek-e-Insaf (PTI) founder Imran Khan in the Toshakhana case. It mentions the rejection of the National Accountability Bureau's (NAB) request for a seven-day physical remand and the dismissal of Imran Khan's pre-arrest bail plea. The Islamabad High Court (IHC) reserved its verdict on Khan's plea seeking suspension of his conviction in the Toshakhana case. It also touches on the electoral watchdog's disqualification of Imran Khan and his subsequent appeal.
+
+It is important to note that the content appears to be auto-generated from ANI news service, and ThePrint holds no responsibility for its content. For more detailed and accurate information, it is recommended to refer to reliable news sources or legal documents related to the case.
+
+Thu, 14 Dec 2023 14:01:23 +0000
+### [Bittu Bajrangi’s brother set on fire in Faridabad, receives 54% burn injuries](https://theprint.in/india/bittu-bajrangis-brother-set-on-fire-in-faridabad-receives-54-burn-injuries/1886271/)
+
+Article found but Couldn't summarize 
+Faridabad, Dec 14 (PTI) A group of men allegedly poured flammable liquid on cow vigilante Bittu Bajrangi&#8217;s brother and set him on fire here, police said on Thursday. He has sustained 54 per cent burn injuries and is currently being treated at a private hospital, they said. Bajrangi alias Rajkumar, the national president of Goraksha [&#8230;]
+
+Thu, 14 Dec 2023 14:01:11 +0000
+### [Excavation in Haryana reveals remains of 3 occupational phases of Saraswati-Indus civilisation](https://theprint.in/india/excavation-in-haryana-reveals-remains-of-3-occupational-phases-of-saraswati-indus-civilisation/1886270/)
+
+The excavation at Kunal in Haryana’s Fatehabad district has revealed the remains of three successive occupational phases of the pre, early, and mature Saraswati-Indus civilization. This excavation was conducted in collaboration with the Department of Archaeology and Museums, Government of Haryana, the National Museum, New Delhi, and the Indian Archaeological Society, New Delhi. The findings include pit dwellings, square and rectangular mud brick houses. Additionally, the Institute of Archaeology at Rakhigarhi in Haryana’s Hisar district revealed a housing complex of mud bricks, evidence of drains, wells, streets, hearth, and other significant artifacts. The Archaeological Survey of India (ASI) conducts ongoing archaeological excavations in different parts of the country, revealing substantial archaeological vestiges from various historical periods.
+
+Thu, 14 Dec 2023 14:01:00 +0000
+### [Net direct tax collection at Rs 10.64 lakh cr in Apr-Nov; 58.34 pc of BE](https://theprint.in/economy/net-direct-tax-collection-at-rs-10-64-lakh-cr-in-apr-nov-58-34-pc-of-be/1886269/)
+
+As GPT-3.5, I can summarize the article for you. The net direct tax collection in the first eight months of the current fiscal year reached 58.34% of the Budget Estimates at Rs 10.64 lakh crore. This is a 23.4% increase compared to the same period last year. Gross collections, before issuing refunds, grew by 17.7% to Rs 12.67 lakh crore during the April-November period. Refunds amounting to Rs 2.03 lakh crore were issued during this period. The government is expected to collect Rs 18.23 lakh crore in direct taxes and Rs 15.38 lakh crore in indirect taxes for the current fiscal year. Please note that this information is based on the provided text and may not include all the details from the original article.
+
+Thu, 14 Dec 2023 14:00:44 +0000
+### [TN govt seeks enhanced interim flood relief as central team wraps up visit](https://theprint.in/india/tn-govt-seeks-enhanced-interim-flood-relief-as-central-team-wraps-up-visit/1886268/)
+
+Tamil Nadu Chief Minister M K Stalin has requested enhanced interim flood relief of Rs 7,033 crore and permanent relief of Rs 12,659 crore from the central government following the havoc caused by cyclone Michaung on December 4 and 5. The inter-ministerial team, led by Kunal Satyarthi from the National Disaster Management Authority, conducted an assessment in Chennai, Kancheepuram, Chengalpattu, and Tiruvallur districts. The Chief Minister highlighted the extensive damages caused by the cyclone and the precautionary measures and relief efforts undertaken by the state government, aiming to restore normalcy in the affected areas.
+
+Thu, 14 Dec 2023 14:00:29 +0000
+### [Will continue to support 40,000 people who have taken shelter in Mizoram: Lalduhoma](https://theprint.in/india/will-continue-to-support-40000-people-who-have-taken-shelter-in-mizoram-lalduhoma/1886267/)
+
+Article found but Couldn't summarize 
+Aizawl, Dec 14 (PTI) Mizoram Chief Minister Lalduhona on Thursday said that his government will continue to provide support to the over 40,000 people from Myanmar, Bangladesh and Manipur who have taken shelter in the state. Speaking in the assembly, Lalduhoma said he had discussed the issue with Union Home Minister Amit Shah and External [&#8230;]
+
+Thu, 14 Dec 2023 14:00:17 +0000
+### [Need to reform, rebuild war fighting machinery to make them ready for future battlespace: IAF chief](https://theprint.in/india/need-to-reform-rebuild-war-fighting-machinery-to-make-them-ready-for-future-battlespace-iaf-chief/1886266/)
+
+Article found but Couldn't summarize 
+Pune, Dec 14 (PTI) Future battlespace will be cluttered, congested, contested and complex, said Air Chief Marshal V R Chaudhari on Thursday, underscoring the need to reimagine, reform, redesign and rebuild the traditional war fighting machinery to adapt to this emerging paradigm. The Chief of Air Staff (CAS) was delivering the General BC Joshi Memorial [&#8230;]
+
+Thu, 14 Dec 2023 14:00:03 +0000
+### [Important cases heard in Supreme Court on Thursday](https://theprint.in/india/important-cases-heard-in-supreme-court-on-thursday-3/1886265/)
+
+As GPT-3.5, I can provide a summary of the article you shared. The important cases heard in the Supreme Court on December 14, Thursday, include the conditional suspension of the conviction of former BSP MP Afzal Ansari in a 2007 Gangsters Act case. The bail plea of former Chhattisgarh Chief Minister Bhupesh Baghel's deputy secretary Saumya Chaurasia, who is an accused in an alleged coal levy scam money laundering case, was dismissed. Additionally, there have been discussions to formulate guidelines for the seizure of electronic devices like mobile phones and laptops during criminal investigations, particularly involving individuals from the media. Please note that this summary is based on the provided text and may not include all the details of the article.
+
+Thu, 14 Dec 2023 13:49:20 +0000
+### [Delhi government’s ‘mohalla’ bus service likely to be launched in January](https://theprint.in/india/delhi-governments-mohalla-bus-service-likely-to-be-launched-in-january/1886260/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 14 (PTI) The Delhi government&#8217;s &#8216;mohalla&#8217; bus service could be rolled out in January next year with the delivery of the first lot of buses after necessary approvals, Transport Minister Kailash Gahlot said on Thursday. The &#8216;mohalla&#8217; bus service, announced in the 2023-24 Delhi budget, aims to deploy shorter nine-metre electric buses [&#8230;]
+
+Thu, 14 Dec 2023 13:49:02 +0000
+### [Notorious drug peddler arrested under PSA in J-K’s Reasi](https://theprint.in/india/notorious-drug-peddler-arrested-under-psa-in-j-ks-reasi/1886259/)
+
+Article found but Couldn't summarize 
+Jammu, Dec 14 (PTI) A 33-year-old notorious drug peddler was arrested under the Public Safety Act in Jammu and Kashmir&#8217;s Reasi district on Thursday, police said. The drug peddler named Amzad Hussain alias Kaki of Chack Bhagtha was arrested under the Public Safety Act (PSA) and has been sent to the Sub-Jail in Reasi, said [&#8230;]
+
+Thu, 14 Dec 2023 13:48:46 +0000
+### [Training on neuromodulation in mental health launched at AIIMS-Delhi](https://theprint.in/india/training-on-neuromodulation-in-mental-health-launched-at-aiims-delhi/1886258/)
+
+The article discusses the launch of a training program on neuromodulation techniques in mental health by the Centre for Advanced Research and Excellence in Neuromodulation at AIIMS in New Delhi. The program focuses on Transcranial Magnetic Stimulation (TMS) and aims to train medical professionals in the use of this non-invasive technique for treating neuropsychiatric and neurological disorders such as resistant depression, obsessive-compulsive disorder, and schizophrenia.
+
+The training program, organized by the Department of Psychiatry, has been expanded to three times annually to further knowledge in neuromodulation and neuropsychiatry. The workshop is limited to 30 doctors from 14 states to ensure an optimal learning environment. The cost of the TMS training and certification is stated to be Rs 20,000 for three days, which is significantly less than the cost in western countries.
+
+The article also highlights the importance of fair journalism and encourages support for organizations like ThePrint that engage in on-ground reporting and questioning journalism.
+
+Thu, 14 Dec 2023 13:48:32 +0000
+### [Circle officer, 2 subordinates booked for raping woman in Muzaffarpur](https://theprint.in/india/circle-officer-2-subordinates-booked-for-raping-woman-in-muzaffarpur/1886257/)
+
+Bihar Police have booked a circle officer and his two subordinates for allegedly raping a 22-year-old woman in Muzaffarpur district. The FIR has been registered on the direction of a district court in Muzaffarpur. The accused have been booked under several sections of the Indian Penal Code, including those related to rape, sexual intercourse by a person in authority, punishment for repeat offenders, and gang-rape. The victim had come in contact with the accused after they promised her a government job, but later they called her and repeatedly raped her, refusing to give her the promised job. As a result, the victim sought registration of an FIR against the accused, and the district court directed the district police to do so based on evidence presented.
+
+Thu, 14 Dec 2023 13:48:14 +0000
+### [Parliament security breach: Just shows how serious job condition is in country, says Aaditya](https://theprint.in/india/parliament-security-breach-just-shows-how-serious-job-condition-is-in-country-says-aaditya/1886256/)
+
+Article found but Couldn't summarize 
+Nagpur, Dec 14 (PTI) The youth who jumped into the Lok Sabha chamber risked their future and lives to highlight the lack of jobs, which shows how serious the situation in the country is, Shiv Sena (UBT) leader Aaditya Thackeray said on Thursday. In a major security breach on the anniversary of the 2001 Parliament [&#8230;]
+
+Thu, 14 Dec 2023 13:47:55 +0000
+### [Visitors’ passes often facilitated on ‘goodwill’, probe will bring out all aspects: Pralhad Joshi](https://theprint.in/india/visitors-passes-often-facilitated-on-goodwill-probe-will-bring-out-all-aspects-pralhad-joshi/1886255/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 14 (PTI) Parliamentary Affairs Minister Pralhad Joshi said on Thursday that the ongoing probe into the security breach in Lok Sabha will bring out all the details, amid the opposition&#8217;s demand of action against BJP MP Prathap Simha for facilitating the entry passes for two persons who jumped into the chamber. Joshi, [&#8230;]
+
+Thu, 14 Dec 2023 13:47:28 +0000
+### [Parliament security breach: Delhi court remands 4 accused in police custody](https://theprint.in/india/parliament-security-breach-delhi-court-remands-4-accused-in-police-custody/1886252/)
+
+The Delhi court has sent the four accused involved in a breach of security at the new Parliament building to seven days of police custody for interrogation. The accused were charged under anti-terror law UAPA and various sections of the Indian Penal Code. The prosecution accused the four of indulging in an act of terrorism and stated their custodial interrogation was necessary to unravel the actual motive behind the incident and find out if other people were involved. The defense counsel opposed the city police's application for a 15-day remand, suggesting that two or three days were sufficient for their custodial interrogation. The accused were immediately taken into custody, while their accomplice Vishal was detained later, and a key conspirator, Lalit Jha, is on the run.
+
+Thu, 14 Dec 2023 13:47:12 +0000
+### [Cricket-Warner ton silences critics as actions speak louder than words](https://theprint.in/sport/cricket-warner-ton-silences-critics-as-actions-speak-louder-than-words/1886250/)
+
+Australian opener David Warner scored his 26th test century, with a fiery 164 off 211 balls, on day one of the first test against Pakistan in Perth. This helped put Australia in a strong position, ending the day at 346-5 from 84 overs. Warner silenced his critics with his performance and his celebration gesture towards the Perth media box. Despite scrutiny about his spot in the test side, Warner's aggressive innings and desire for a home farewell were evident. He is likely to play his final test in front of a home crowd in Sydney. Warner's aggressive play included hitting fast-bowler Shaheen Afridi for six and surpassing former greats Matthew Hayden and Michael Clarke to become Australia’s fifth-highest test run-scorer. Despite some luck, including a dropped catch and a missed stumping, Warner expressed a game-by-game approach to his future innings.
+
+Thu, 14 Dec 2023 13:47:05 +0000
+### [Implemented ‘parity’ in Canada’s diplomatic presence under provisions of Vienna Convention: Govt](https://theprint.in/india/implemented-parity-in-canadas-diplomatic-presence-under-provisions-of-vienna-convention-govt/1886249/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 14 (PTI) India on Thursday said it implemented &#8220;parity&#8221; in Canada&#8217;s diplomatic presence in the country under the provisions of the Vienna Convention on Diplomatic Relations in view of the state of bilateral ties and &#8220;interference&#8221; by Canadian officials in the country&#8217;s internal affairs. Minister of State for External Affairs V Muraleedharan, [&#8230;]
+
 Thu, 14 Dec 2023 13:18:18 +0000
 ### [Delhi LG takes exception over ‘inaccurate’ land survey, delay in acquisition for bridge project](https://theprint.in/india/delhi-lg-takes-exception-over-inaccurate-land-survey-delay-in-acquisition-for-bridge-project/1886200/)
 

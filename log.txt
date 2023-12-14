@@ -2453,3 +2453,11 @@ Started at 2023-12-14 13:26:12
 Finished at 2023-12-14 13:30:31
 Total time taken: 258.52755212783813 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2023-12-14 14:18:00
+1 Feed entries have been written to feeds/Explain_FP.xml
+2 Feed entries have been written to feeds/Tech_Mint.xml
+20 Feed entries have been written to feeds/ThePrint.xml
+23 new entries have been added
+Finished at 2023-12-14 14:23:09
+Total time taken: 308.9962079524994 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
