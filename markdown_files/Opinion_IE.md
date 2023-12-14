@@ -1,3 +1,8 @@
+Thu, 14 Dec 2023 21:30:36 +0000
+### [December 15, 1983, Forty Years Ago: DTC buses burnt](https://indianexpress.com/article/opinion/40-years-ago/december-15-1983-forty-years-ago-dtc-buses-burnt-9068767/)
+
+Article found but Couldn't summarize
+
 Thu, 14 Dec 2023 12:09:11 +0000
 ### [Tavleen Singh doesn’t understand caste discrimination – because she doesn’t need to](https://indianexpress.com/article/opinion/columns/tavleen-singh-doesnt-understand-caste-discrimination-she-doesnt-need-to-9068385/)
 

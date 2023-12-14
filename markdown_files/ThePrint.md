@@ -1,3 +1,122 @@
+Thu, 14 Dec 2023 22:17:02 +0000
+### [European Union greenlights membership talks with Ukraine, Moldova; Zelenskyy terms it “victory”](https://theprint.in/world/european-union-greenlights-membership-talks-with-ukraine-moldova-zelenskyy-terms-it-victory/1886776/)
+
+Article found but Couldn't summarize 
+Brussels [Belgium], December 15 (ANI): The European Council has opened membership negotiations with Ukraine and Moldova, the President of the EU Council, Charles Michel informed on Thursday, CNN reported. Ukrainian President Volodymyr Zelenskyy hailed the development calling it a &#8220;victory of Ukraine&#8221;. &#8220;This is a victory for Ukraine. A victory for all of Europe. A [&#8230;]
+
+Thu, 14 Dec 2023 22:15:59 +0000
+### [Soccer-Late Pedro goal gives Brighton win over Marseille and top spot in Europa League group](https://theprint.in/sport/soccer-late-pedro-goal-gives-brighton-win-over-marseille-and-top-spot-in-europa-league-group/1886774/)
+
+Article found but Couldn't summarize 
+BRIGHTON, England (Reuters) - Joao Pedro's late goal earned Brighton &#38; Hove Albion a dramatic 1-0 win over Olympique Marseille on Thursday to secure the hosts top spot in Europa League Group B. Both
+
+Thu, 14 Dec 2023 22:15:43 +0000
+### [Guyana, Venezuela both committed to peace, Guyanese president says](https://theprint.in/world/guyana-venezuela-both-committed-to-peace-guyanese-president-says/1886772/)
+
+Summary: The article discusses the tensions between Guyana and Venezuela over a border dispute, specifically focusing on the potentially oil-rich region of Esequibo. It mentions a recent meeting between the leaders of both countries, along with representatives from various organizations, to address the issue. Guyana's President emphasized his country's right to approve and facilitate developments within its territorial and sovereign space, while reiterating the commitment to peaceful resolution through the International Court of Justice (ICJ). The article also highlights the economic significance of offshore oil production for Guyana and disputes claims made by Maduro's government regarding a referendum.
+
+Thu, 14 Dec 2023 22:15:34 +0000
+### [Mexican president directly appoints new Supreme Court judge](https://theprint.in/world/mexican-president-directly-appoints-new-supreme-court-judge/1886770/)
+
+Article found but Couldn't summarize 
+MEXICO CITY (Reuters) -Mexican President Andres Manuel Lopez Obrador on Thursday named Lenia Batres as a new Supreme Court judge, after the lawmakers refused to approve one of his earlier candidates
+
+Thu, 14 Dec 2023 22:15:25 +0000
+### [US pushes for ‘more precise’ military operations in Gaza to save civilians](https://theprint.in/world/us-pushes-for-more-precise-military-operations-in-gaza-to-save-civilians/1886768/)
+
+Article found but Couldn't summarize 
+By Nidal al-Mughrabi and Fadi Shana CAIRO/GAZA (Reuters) -A U.S. security envoy discussed with Israeli officials on Thursday how to better protect civilians during their war against Hamas in Gaza and
+
+Thu, 14 Dec 2023 22:15:14 +0000
+### [EU grants Ukraine membership talks in midst of war, bypassing Hungarian objections](https://theprint.in/world/eu-grants-ukraine-membership-talks-in-midst-of-war-bypassing-hungarian-objections/1886766/)
+
+Article found but Couldn't summarize 
+By Andrew Gray, Gabriela Baczynska and Krisztina Than BRUSSELS (Reuters) - European Union leaders made a historic decision on Thursday to open membership talks with Ukraine, bypassing objections from
+
+Thu, 14 Dec 2023 22:15:05 +0000
+### [Biden, Turkey’s Erdogan discuss Sweden’s NATO bid](https://theprint.in/world/biden-turkeys-erdogan-discuss-swedens-nato-bid/1886764/)
+
+Article found but Couldn't summarize 
+WASHINGTON (Reuters) - U.S. President Joe Biden and Turkish President Tayyip Erdogan spoke about Sweden's application to join the NATO alliance, White House spokesperson John Kirby said on Thursday.
+
+Thu, 14 Dec 2023 21:47:02 +0000
+### [Four suspected Hamas members plotting attack on Jewish institutions arrested in Germany, Netherlands](https://theprint.in/world/four-suspected-hamas-members-plotting-attack-on-jewish-institutions-arrested-in-germany-netherlands/1886762/)
+
+Article found but Couldn't summarize 
+Berlin [Germany], December 15 (ANI): Four alleged Hamas members suspected of plotting terror attacks on Jewish institutions in Europe were arrested by German and Dutch authorities on Thursday (local time), CNN reported citing Germany&#8217;s federal prosecutor. The prosecutor said that three arrests were made in Germany and one in the Netherlands. Hamas is classified as [&#8230;]
+
+Thu, 14 Dec 2023 21:46:34 +0000
+### [Cricket-King puts England to the sword as West Indies take 2-0 lead in T20 series](https://theprint.in/sport/cricket-king-puts-england-to-the-sword-as-west-indies-take-2-0-lead-in-t20-series/1886761/)
+
+Article found but Couldn't summarize 
+(Reuters) - West Indies took a 2-0 lead over England in their five-match Twenty20 series after winning the second game by 10 runs on Thursday on the back of Brandon King's sublime knock of 82 in St
+
+Thu, 14 Dec 2023 21:46:23 +0000
+### [Soccer-Messi’s shirts from Argentina’s World Cup triumph fetch $7.8 million](https://theprint.in/sport/soccer-messis-shirts-from-argentinas-world-cup-triumph-fetch-7-8-million/1886759/)
+
+Article found but Couldn't summarize 
+(Reuters) - Six shirts worn by Lionel Messi during Argentina's triumphant run at the 2022 World Cup were sold for $7.8 million at an auction in New York on Thursday. Auction house Sotheby's said the
+
+Thu, 14 Dec 2023 21:46:13 +0000
+### [SpaceX gets US approval for direct-to-cell tests](https://theprint.in/tech/spacex-gets-us-approval-for-direct-to-cell-tests/1886757/)
+
+Article found but Couldn't summarize 
+(Reuters) - The U.S. Federal Communications Commission (FCC) on Thursday granted authorization to Elon Musk's SpaceX to run tests for its direct-to-cellular system, according to regulatory filings.
+
+Thu, 14 Dec 2023 21:46:03 +0000
+### [US regulators monitoring artificial intelligence as potential financial risk: Yellen](https://theprint.in/tech/us-regulators-monitoring-artificial-intelligence-as-potential-financial-risk-yellen/1886755/)
+
+Article found but Couldn't summarize 
+WASHINGTON (Reuters) - U.S. Treasury Secretary Janet Yellen said Thursday that a panel of financial regulators considered the use of artificial intelligence by financial firms as a potential risk to
+
+Thu, 14 Dec 2023 21:45:50 +0000
+### [Wall St ends higher, Treasury yields hit multi-month lows in Fed’s wake](https://theprint.in/economy/wall-st-ends-higher-treasury-yields-hit-multi-month-lows-in-feds-wake/1886753/)
+
+Article found but Couldn't summarize 
+By Stephen Culp NEW YORK (Reuters) -U.S. stocks pared earlier gains to close modestly higher on Thursday, while benchmark Treasury yields dropped to multi-month lows after investors rotated out of
+
+Thu, 14 Dec 2023 21:45:37 +0000
+### [Top Biden adviser to meet Palestinian President Abbas on Friday](https://theprint.in/world/top-biden-adviser-to-meet-palestinian-president-abbas-on-friday/1886751/)
+
+Article found but Couldn't summarize 
+By Steve Holland WASHINGTON (Reuters) - U.S. President Joe Biden's national security adviser will visit Palestinian President Mahmoud Abbas in Ramallah on Friday, according to a U.S. official. The
+
+Thu, 14 Dec 2023 21:45:26 +0000
+### [Maersk denies Houthi claim container ship hit by Yemeni militia](https://theprint.in/world/maersk-denies-houthi-claim-container-ship-hit-by-yemeni-militia/1886749/)
+
+Article found but Couldn't summarize 
+COPENHAGEN/DUBAI (Reuters) -Danish shipping company Maersk on Friday denied a claim by Yemen's Iran-aligned Houthi movement that the militia made a drone strike on a Maersk vessel sailing towards
+
+Thu, 14 Dec 2023 21:45:17 +0000
+### [Revamped Palestinian Authority should govern Gaza and West Bank, says senior US official](https://theprint.in/world/revamped-palestinian-authority-should-govern-gaza-and-west-bank-says-senior-us-official/1886747/)
+
+Article found but Couldn't summarize 
+JERUSALEM (Reuters) - White House national security adviser Jake Sullivan said on Thursday that governance of the West Bank and Gaza Strip needs to be connected under a "revamped and revitalized"
+
+Thu, 14 Dec 2023 21:45:05 +0000
+### [US Senate to vote on Ukraine funding, border security next week](https://theprint.in/world/us-senate-to-vote-on-ukraine-funding-border-security-next-week/1886745/)
+
+Article found but Couldn't summarize 
+By Makini Brice and Ted Hesson WASHINGTON (Reuters) -The U.S. Senate will vote on military aid for Ukraine and Israel next week as negotiations continue over changes to U.S. border security policy
+
+Thu, 14 Dec 2023 21:17:02 +0000
+### [US wants Russia to negotiate in “good faith” regarding release of detainees, Evan Gershkovich and Paul Whelan](https://theprint.in/world/us-wants-russia-to-negotiate-in-good-faith-regarding-release-of-detainees-evan-gershkovich-and-paul-whelan/1886743/)
+
+Article found but Couldn't summarize 
+Washington DC [US], December 15 (ANI): The United States said that it wants Russia to negotiate in &#8220;good faith&#8221; regarding the release of detained Wall Street Journal reporter Evan Gershkovich and American Paul Whelan, adding that Washington would welcome serious engagement with Moscow. US State Department spokesperson Mathew Miller said on Thursday (local time) that [&#8230;]
+
+Thu, 14 Dec 2023 21:15:21 +0000
+### [Soccer-Roma finish second in Europa League group, Liverpool lose to Union](https://theprint.in/sport/soccer-roma-finish-second-in-europa-league-group-liverpool-lose-to-union/1886741/)
+
+Article found but Couldn't summarize 
+ROME (Reuters) -AS Roma finished second in Europa League Group G after beating Moldovan side Sheriff Tiraspol 3-0 on Thursday, courtesy of first-half goals from Romelu Lukaku and Andrea Belotti and a
+
+Thu, 14 Dec 2023 21:15:07 +0000
+### [BP cleaning up 25,000-gallon gasoline spill in Washington state](https://theprint.in/environment/bp-cleaning-up-25000-gallon-gasoline-spill-in-washington-state/1886739/)
+
+Article found but Couldn't summarize 
+(Reuters) - BP has been working with the U.S. Environmental Protection Agency and local officials since Sunday to clean up a roughly 25,000-gallon gasoline spill from its Olympic Pipeline near Mount
+
 Thu, 14 Dec 2023 21:02:02 +0000
 ### [UK: Indian consulate organises event to celebrate 554th birth anniversary of Guru Nanak Dev in Cardiff](https://theprint.in/world/uk-indian-consulate-organises-event-to-celebrate-554th-birth-anniversary-of-guru-nanak-dev-in-cardiff/1886737/)
 
