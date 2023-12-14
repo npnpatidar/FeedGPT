@@ -1,3 +1,24 @@
+Thu, 14 Dec 2023 21:20:24 +0530
+### [Efficient state intervention can help prevent gender-based violence in India](https://www.livemint.com/opinion/online-views/efficient-state-intervention-can-help-prevent-gender-based-violence-in-india-11702562063919.html)
+
+The article discusses the prevalence of gender-based violence (GBV) in India and the measures taken to combat it. It mentions India's legislative frameworks to deter GBV, the under-reporting problem, and the need for improved resource allocation, aligning incentives for functionaries to act in the best interests of survivors, and investing in changing social norms through gender-norm corrective interventions at all levels of education. The article emphasizes the importance of preventing GBV as a prerequisite for women to realize their full potential.
+
+Thu, 14 Dec 2023 21:12:29 +0530
+### [CoP-28's outcome should be celebrated for its big ‘no excuses’ call to action](https://www.livemint.com/opinion/online-views/cop28s-outcome-should-be-celebrated-for-its-big-no-excuses-call-to-action-11702554730114.html)
+
+The CoP-28 session of the UN Framework Convention on Climate Change resulted in a commitment to transition away from fossil fuels in energy systems in a just, orderly, and equitable manner with the goal of achieving net zero emissions by 2050. The outcome of the conference was celebrated for its inclusivity, commitment to action on mitigation and adaptation, and financial pledges towards the Loss and Damage Fund. This transition strategy requires governments, industry, and consumers to take action without excuses, and places a particular emphasis on finding just, orderly, and equitable development transition paths for those at the cusp of energy poverty. The article also discusses India's net zero commitment for 2070 and emphasizes the need for a clear transition strategy and understanding of potential social consequences.
+
+Thu, 14 Dec 2023 21:09:35 +0530
+### [The CoP-28 deal left a major question out: Who will pay and for what?](https://www.livemint.com/opinion/online-views/the-cop-28-deal-left-a-major-question-out-who-will-pay-and-for-what-11702554772741.html)
+
+The CoP-28 delegates worked overnight to produce a historic climate pact, focusing on ending the use of fossil fuels. However, the agreement lacks firm promises from wealthy nations to support developing countries in meeting their commitments. Without financial assistance, developing nations may struggle to transition to clean energy, risking economic hardship. The deal also falls short in providing funding for loss-and-damage repayment, climate adaptation, and subsidies to the fossil fuel industry. While there are promising efforts to triple renewable energy and nuclear capacity, a substantial amount of investment is needed. The lack of financial commitments poses a significant challenge in effectively addressing climate change.
+
+Thu, 14 Dec 2023 21:02:16 +0530
+### [Indian weddings abroad could help project our soft power globally](https://www.livemint.com/opinion/online-views/indian-weddings-abroad-could-help-project-our-soft-power-globally-11702554836530.html)
+
+Article found but Couldn't summarize 
+Holding big-budget wedding ceremonies within India would boost the local economy, no doubt, but this effect should be weighed against the big-picture benefits that destination weddings offer.
+
 Thu, 14 Dec 2023 14:42:44 +0530
 ### [The market rally seems robust for now but caution never hurts](https://www.livemint.com/opinion/online-views/the-market-rally-seems-robust-for-now-but-caution-never-hurts-11702542939966.html)
 

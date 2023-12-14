@@ -1,3 +1,123 @@
+Thu, 14 Dec 2023 16:01:52 +0000
+### [Uttarakhand Assembly security reviewed, day after Parliament breach](https://theprint.in/india/uttarakhand-assembly-security-reviewed-day-after-parliament-breach/1886480/)
+
+Article found but Couldn't summarize 
+Dehradun, Dec 14 (PTI) Senior police officials on Thursday reviewed the security at the Uttarakhand Assembly here, a day after a breach in Parliament. On the anniversary of the 2001 Parliament terror attack on Wednesday, two persons jumped into the Lok Sabha chamber from the public gallery during Zero Hour, released yellow gas from canisters, [&#8230;]
+
+Thu, 14 Dec 2023 16:01:39 +0000
+### [Ambedkar’s statue vandalised in UP’s Ghaziabad, FIR registered](https://theprint.in/india/ambedkars-statue-vandalised-in-ups-ghaziabad-fir-registered/1886479/)
+
+Article found but Couldn't summarize 
+Ghaziabad (UP), Dec 14 (PTI) A statue of Dr Bhimrao Ambedkar was damaged by some miscreants at Suthari village in Murad nagar police station area here, police said on Thursday. An FIR has been lodged against the unknown miscreants and a hunt is on to nab them, they said. The incident, which took place on [&#8230;]
+
+Thu, 14 Dec 2023 16:01:27 +0000
+### [Making India developed by 2047 is a ‘Modi guarantee’: CM Adityanath](https://theprint.in/india/making-india-developed-by-2047-is-a-modi-guarantee-cm-adityanath/1886478/)
+
+Article found but Couldn't summarize 
+Azamgarh/Varanasi (UP), Dec 14 (PTI) Making India a developed nation by 2047 and ensuring the security, well-being and prosperity of all states within it is a &#8220;Modi guarantee&#8221;, Uttar Pradesh Chief Minister Yogi Adityanath said on Thursday. Speaking at the &#8216;Viksit Bharat Sankalp Yatra&#8217; programmes organised in Azamgarh and Varanasi, the chief minister said people [&#8230;]
+
+Thu, 14 Dec 2023 16:01:16 +0000
+### [TMC’s Derek O’Brien stages ‘silent protest’ after suspension from Rajya Sabha](https://theprint.in/india/tmcs-derek-obrien-stages-silent-protest-after-suspension-from-rajya-sabha/1886477/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 14 (PTI) Trinamool Congress MP Derek O&#8217;Brien Thursday staged a silent protest against his suspension from Rajya Sabha for disrupting House proceedings. A resolution on breach of privilege was also moved against him for staying in the House after suspension and the matter was referred to the Privileges Committee of Rajya Sabha. [&#8230;]
+
+Thu, 14 Dec 2023 16:01:04 +0000
+### [Putin says next BRICS summit in Russia will be dedicated to establishing a ‘fair’ world order](https://theprint.in/world/putin-says-next-brics-summit-in-russia-will-be-dedicated-to-establishing-a-fair-world-order/1886476/)
+
+Article found but Couldn't summarize 
+Moscow, Dec 14 (PTI) President Vladimir Putin on Thursday criticised the West for demanding a so-called &#8220;rules-based world order&#8221; and said that the next BRICS summit under Russia&#8217;s presidency in 2024 will be dedicated to establishing a &#8220;fair&#8221; world order. Addressing a year-end news conference that lasted over four hours, Putin said the next BRICS [&#8230;]
+
+Thu, 14 Dec 2023 16:00:52 +0000
+### [Over 2.3 lakh pilgrims visited Gurudwara Darbar Sahib using Kartarpur corridor: govt](https://theprint.in/india/over-2-3-lakh-pilgrims-visited-gurudwara-darbar-sahib-using-kartarpur-corridor-govt/1886475/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 14 (PTI) Around 2.35 lakh pilgrims visited the Gurudwara Darbar Sahib in Pakistan through the Kartarpur corridor since its inauguration in November 2019, the government informed the Rajya Sabha on Thursday. In November 2019, India and Pakistan threw open the Kartarpur corridor linking Dera Baba Sahib in Gurdaspur in India with the [&#8230;]
+
+Thu, 14 Dec 2023 16:00:41 +0000
+### [Pakistan’s anti-graft watchdog gets 2-day physical remand of ex-PM Imran Khan in Toshakhana corruption case](https://theprint.in/world/pakistans-anti-graft-watchdog-gets-2-day-physical-remand-of-ex-pm-imran-khan-in-toshakhana-corruption-case/1886474/)
+
+Article found but Couldn't summarize 
+Islamabad, Dec 14 (PTI) An accountability court in Pakistan on Thursday granted the apex anti-corruption body a two-day physical remand of jailed former premier Imran Khan in the Toshakhana graft case. The Toshakhana case is based on the allegations that the 71-year-old former premier violated the Toshakhana rules. The Toshakhana (state repository) is where all [&#8230;]
+
+Thu, 14 Dec 2023 16:00:28 +0000
+### [Court denies bail to 2 ABVP activists who forcibly took HC judge’s car to rush man to hospital](https://theprint.in/india/court-denies-bail-to-2-abvp-activists-who-forcibly-took-hc-judges-car-to-rush-man-to-hospital/1886473/)
+
+Article found but Couldn't summarize 
+Gwalior, Dec 15 (PTI) A court in Madhya Pradesh has denied bail to two ABVP activists arrested for allegedly forcibly taking a high court judge’s car parked outside a railway station to rush an ailing man, who was the vice-chancellor of a private university, to a hospital. Special Judge for dacoity cases Sanjay Goyal on [&#8230;]
+
+Thu, 14 Dec 2023 16:00:14 +0000
+### [Suspension of democracy: Oppn slams govt on suspension of MPs seeking debate on security breach](https://theprint.in/india/suspension-of-democracy-oppn-slams-govt-on-suspension-of-mps-seeking-debate-on-security-breach/1886472/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 14 (PTI) Opposition parties on Thursday condemned the suspension of 14 MPs from Parliament and termed the action a &#8220;murder of democracy&#8221; after they protested in both houses, demanding a statement from Home Minister Amit Shah and a discussion on the issue of breach of security in the Lok Sabha. The opposition [&#8230;]
+
+Thu, 14 Dec 2023 16:00:02 +0000
+### [Accused charged under UAPA, planned to replicate Bhagat Singh’s act: Sources on Parliament security breach](https://theprint.in/india/accused-charged-under-uapa-planned-to-replicate-bhagat-singhs-act-sources-on-parliament-security-breach/1886471/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 14 (PTI) Four persons arrested in connection with the security breach in Parliament have been charged under the anti-terror law UAPA besides sections of the Indian Penal Code, police sources said on Thursday as security agencies were on the hunt to nab the alleged mastermind. During interrogation, it was revealed by the [&#8230;]
+
+Thu, 14 Dec 2023 15:48:12 +0000
+### [Golf-Nirat takes two-shot lead at season-ending Saudi Open](https://theprint.in/sport/golf-nirat-takes-two-shot-lead-at-season-ending-saudi-open/1886466/)
+
+Article found but Couldn't summarize 
+(Reuters) - Thailand's Chapchai Nirat took a two-shot lead in the first round of the Saudi Open after carding a seven-under 64 at the Riyadh Golf Club on Thursday. Starting on the back nine, Nirat
+
+Thu, 14 Dec 2023 15:47:53 +0000
+### [Golf-Rozner makes strong start to defence of Mauritius Open](https://theprint.in/sport/golf-rozner-makes-strong-start-to-defence-of-mauritius-open/1886464/)
+
+Article found but Couldn't summarize 
+(Reuters) - Frenchman Antoine Rozner made a strong start his Mauritius Open title defence with a 10-under-par 62 for a one-shot lead after Thursday’s first round at the Heritage La Reserve Golf Club.
+
+Thu, 14 Dec 2023 15:47:38 +0000
+### [Soccer-Tottenham in the market for new centre back, says Postecoglou](https://theprint.in/sport/soccer-tottenham-in-the-market-for-new-centre-back-says-postecoglou/1886462/)
+
+Article found but Couldn't summarize 
+LONDON (Reuters) - Tottenham Hotspur will be looking for a new central defender in the January transfer window with manager Ange Postecoglou admitting they are thinly covered at the back. The return
+
+Thu, 14 Dec 2023 15:47:16 +0000
+### [Intel says dozens of PC makers are using its new AI-enabled chip](https://theprint.in/tech/intel-says-dozens-of-pc-makers-are-using-its-new-ai-enabled-chip/1886460/)
+
+Article found but Couldn't summarize 
+By Stephen Nellis (Reuters) - Intel on Thursday said that dozens of personal computer makers are using its newest chip, as the company and its customers try to entice consumers to upgrade their
+
+Thu, 14 Dec 2023 15:47:02 +0000
+### [Ukraine touts ambitions for chip manufacturing, AI growth](https://theprint.in/tech/ukraine-touts-ambitions-for-chip-manufacturing-ai-growth/1886456/)
+
+Article found but Couldn't summarize 
+By Max Hunder KYIV (Reuters) - Ukraine set out ambitions on Thursday to develop high-tech industries, proposing future state support for the creation of a chipmaking industry and to build up
+
+Thu, 14 Dec 2023 15:47:01 +0000
+### [US urges stakeholders in Bangladesh to exercise restraint ahead of upcoming elections](https://theprint.in/world/us-urges-stakeholders-in-bangladesh-to-exercise-restraint-ahead-of-upcoming-elections/1886455/)
+
+Article found but Couldn't summarize 
+Dhaka [Bangladesh], December 14 (ANI): Ahead of the upcoming general elections in Bangladesh, the United States has urged all stakeholders in the country to exercise restraint and avoid violence, reported Dhaka Tribune. US State Department spokesperson Matthew Miller expressed concern about the mass arrests of thousands of opposition members and reports about people getting tortured [&#8230;]
+
+Thu, 14 Dec 2023 15:46:45 +0000
+### [Activist Peltz seeks two Disney board seats after ending earlier challenge](https://theprint.in/entertainment/activist-peltz-seeks-two-disney-board-seats-after-ending-earlier-challenge/1886453/)
+
+Article found but Couldn't summarize 
+(Reuters) -Activist investor Nelson Peltz is seeking two board seats at Disney, his fund said on Thursday, less than a year after abandoning an earlier bid as the media conglomerate outlined plans
+
+Thu, 14 Dec 2023 15:46:33 +0000
+### [Activist investor Peltz seeks two Disney board seats](https://theprint.in/entertainment/activist-investor-peltz-seeks-two-disney-board-seats/1886450/)
+
+Article found but Couldn't summarize 
+(Reuters) -Activist investor Nelson Peltz is seeking two board seats at Disney, his fund said on Thursday, less than a year after abandoning an earlier bid as the media conglomerate outlined plans
+
+Thu, 14 Dec 2023 15:46:19 +0000
+### [2020 Delhi riots: Court rejects bail plea of man who pointed gun at cop](https://theprint.in/india/2020-delhi-riots-court-rejects-bail-plea-of-man-who-pointed-gun-at-cop-4/1886448/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 14 (PTI) A court here on Thursday dismissed the bail plea of Shahrukh Pathan, who hogged media spotlight as he pointed a pistol at a policeman and threatened to kill him during the 2020 northeast Delhi riots. Additional Sessions Judge Amitabh Rawat was hearing Pathan’s plea seeking relief, saying as the accused [&#8230;]
+
+Thu, 14 Dec 2023 15:46:18 +0000
+### [Euro hits two-week high as ECB pushes back on imminent rate cuts](https://theprint.in/economy/euro-hits-two-week-high-as-ecb-pushes-back-on-imminent-rate-cuts/1886447/)
+
+Article found but Couldn't summarize 
+By Karen Brettell and Samuel Indyk NEW YORK/LONDON (Reuters) - The euro hit a two-week high against the U.S. dollar on Thursday as the European Central Bank pushed back against imminent interest rate
+
 Thu, 14 Dec 2023 15:02:36 +0000
 ### [Pakistan top court says trials of civilians by military courts in May 9 riots cases will continue](https://theprint.in/world/pakistan-top-court-says-trials-of-civilians-by-military-courts-in-may-9-riots-cases-will-continue/1886383/)
 

@@ -1,3 +1,9 @@
+2023-12-14T21:26:50+05:30
+### [How the Govt’s Response to Parliament Security Breach Was a Bundle of Contradictions](https://thewire.in/politics/how-the-govts-response-to-parliament-security-breach-was-a-bundle-of-contradictions)
+
+No Article text 
+The Speaker and the ruling party, officials and even the media are calling it a security breach. Yet the five arrested have been booked under the draconian anti-terror law UAPA.
+
 2023-12-14T20:30:22+05:30
 ### [DMK MP Who Was Not in Lok Sabha Suspended, ‘Mistaken Identity’, Says Prahlad Joshi](https://thewire.in/government/dmk-mp-who-was-not-in-lok-sabha-suspended-mistaken-identity-says-prahlad-joshi)
 

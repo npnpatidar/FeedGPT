@@ -1,3 +1,8 @@
+Thu, 14 Dec 2023 20:49:21 +0530
+### [What is hydrogen therapy developed by Chinese researchers that could reverse ageing?](https://www.firstpost.com/explainers/what-is-hydrogen-therapy-developed-by-chinese-researchers-that-could-reverse-ageing-13504722.html)
+
+Chinese researchers claim to have developed a hydrogen therapy that could potentially reverse age-related changes in the body and prevent geriatric diseases like Alzheimer’s. This therapy involves delivering a high concentration of hydrogen molecules using a scaffold implant developed with nanotechnology, which is reported to be 40,000 times more effective than other delivery methods. The implant can provide a slow and consistent release of hydrogen for about a week, with initial tests showing promising results in repairing bone defects in older mice. The researchers believe that this method could have broad-spectrum anti-ageing properties and potential applications for treating other age-related conditions and diseases.
+
 Thu, 14 Dec 2023 19:56:22 +0530
 ### [In Graphics | Will COP28's UAE Consensus spell doom for fossil fuels?](https://www.firstpost.com/explainers/in-graphics-will-cop28s-uae-consensus-spell-doom-for-fossil-fuels-13504632.html)
 
