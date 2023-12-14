@@ -1,3 +1,13 @@
+Thu, 14 Dec 2023 14:29:07 +0530
+### [How the kickback scandal in Japan is stirring trouble for PM Fumio Kishida](https://www.firstpost.com/explainers/how-the-kickback-scandal-in-japan-is-stirring-trouble-for-pm-fumio-kishida-13503372.html)
+
+Japanese Prime Minister Fumio Kishida has faced a kickback scheme within his ruling party, leading to multiple cabinet ministers resigning and a drop in public approval for his cabinet. The scandal centers around the LDP’s Seiwaken or the Seiwa policy study group, with allegations of unreported campaign violations and kickbacks. The ministers who have resigned include Chief Cabinet Secretary Hirokazu Matsuno, Industry Minister Yasutoshi Nishimura, Internal Affairs Minister Junji Suzuki, Agriculture Minister Ichiro Miyashita, and special advisor Michiko Ueno. Investigations are ongoing, and the scandal is affecting Kishida's public support. The situation may impact the upcoming party leadership vote in September.
+
+Thu, 14 Dec 2023 14:02:48 +0530
+### [Parliament security breach accused booked under UAPA: What is this stringent law?](https://www.firstpost.com/explainers/parliament-security-breach-accused-booked-under-uapa-what-is-this-stringent-law-13503052.html)
+
+On December 13, 2023, significant events took place outside and inside the Indian Parliament, involving intruders releasing colored smoke canisters and breaching security. Two individuals entered the Lok Sabha chamber while two others released colored smoke outside. This resulted in arrests and suspension of security personnel. The incident led to the enforcement of stricter security measures at Parliament. Additionally, the article outlines the history and multiple amendments of the Unlawful Activities (Prevention) Act (UAPA), India’s main anti-terrorism law, along with its controversial aspects, such as provisions for detention without a chargesheet and restrictions on bail.
+
 Thu, 14 Dec 2023 13:24:43 +0530
 ### [What is the connection between Lok Sabha intruders and Bhagat Singh?](https://www.firstpost.com/explainers/parliament-security-breach-what-is-the-connection-between-lok-sabha-intruders-and-bhagat-singh-13502902.html)
 

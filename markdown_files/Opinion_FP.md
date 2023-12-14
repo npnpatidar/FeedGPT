@@ -1,3 +1,8 @@
+Thu, 14 Dec 2023 14:29:18 +0530
+### [Vantage | What Biden's cancelled visit to India could've achieved](https://www.firstpost.com/opinion/vantage-what-bidens-cancelled-visit-to-india-couldve-achieved-13503222.html)
+
+The article discusses the breach of security at the Indian Parliament, the decision of US President Joe Biden to not attend the Republic Day celebrations in India, and the strain in India-US relations due to allegations involving a Khalistani terrorist in the United States. It also mentions the postponement of the Quad Summit due to the unavailability of key leaders. The article highlights concerns about security and the need for meaningful collaboration between the two nations to address the current strains and build a stronger foundation for their strategic partnership.
+
 Thu, 14 Dec 2023 12:25:32 +0530
 ### [Vantage | Will Pakistan's elections be delayed again?](https://www.firstpost.com/opinion/vantage-will-pakistans-elections-be-delayed-again-13502732.html)
 

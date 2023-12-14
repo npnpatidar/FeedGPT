@@ -10,6 +10,12 @@ Wed, 13 Dec 2023 22:56:08 +0530
 Article found but Couldn't summarize 
 What happened at a hearing of the U.S. House of Representatives Committee on Education with the Presidents of three U.S. universities?
 
+Wed, 13 Dec 2023 22:04:52 +0530
+### [Watch | The historic shift in Jammu and Kashmir’s status | Explained](https://www.thehindu.com/news/national/the-historic-shift-in-jammu-and-kashmirs-status-explained/article67635628.ece)
+
+Article found but Couldn't summarize 
+Krishnadas Rajagopal of The Hindu talks about the history of Article 370 and the events that led to its abrogation in 2019
+
 Wed, 13 Dec 2023 08:30:00 +0530
 ### [What are the implications of recent Argentine elections?](https://www.thehindu.com/news/international/what-are-the-implications-of-recent-argentine-elections/article67631946.ece)
 

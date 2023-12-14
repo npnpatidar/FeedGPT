@@ -1,3 +1,120 @@
+Thu, 14 Dec 2023 09:02:02 +0000
+### [Israeli Prime Minister Netanyahu to meet US National Security Adviser](https://theprint.in/world/israeli-prime-minister-netanyahu-to-meet-us-national-security-adviser/1885699/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], December 14 (ANI/TPS): Israeli Prime Minister Benjamin Netanyahu will on Thursday at the Kirya (Israel&#8217;s version of the Pentagon) in Tel Aviv meet with US National Security Adviser Jake Sullivan, who is arriving in Israel as the guest of Israel&#8217;s National Security Council Director and National Security Adviser Tzachi Hanegbi. US National [&#8230;]
+
+Thu, 14 Dec 2023 09:00:51 +0000
+### [Ro Khana slams Ramaswamy after Iowa town hall; says he is ‘dangerous to our democracy’](https://theprint.in/world/ro-khana-slams-ramaswamy-after-iowa-town-hall-says-he-is-dangerous-to-our-democracy/1885698/)
+
+Indian-American Congressman Ro Khanna criticized Republican presidential candidate Vivek Ramaswamy, calling him "dangerous to our democracy" and accusing him of offering "zero solutions" to real issues. Ramaswamy appeared on a CNN town hall in Iowa, discussing immigration, border security, religion, and economic inequality. Khanna, a Democrat supporting President Joe Biden's re-election, expressed concern about the lack of focus on significant issues and labeled the Republican Party as "unserious." Ramaswamy voiced his intention to send undocumented migrants back to their countries of origin and emphasized ending birthright citizenship for the children of illegal migrants.
+
+Thu, 14 Dec 2023 09:00:40 +0000
+### [Five MPs suspended from LS for remainder of session over disruptions](https://theprint.in/india/five-mps-suspended-from-ls-for-remainder-of-session-over-disruptions/1885697/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 14 (PTI) The Lok Sabha on Thursday passed a resolution suspending five Congress MPs for the remainder of the session after being named by the Speaker for disrupting House proceedings. Parliamentary Affairs Minister Pralhad Joshi moved a resolution amid the din to suspend the five. &#8220;I move the following that this House [&#8230;]
+
+Thu, 14 Dec 2023 09:00:29 +0000
+### [Power transformer catches fire in Mumbai building; no casualty](https://theprint.in/india/power-transformer-catches-fire-in-mumbai-building-no-casualty/1885695/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 14 (PTI) A fire broke out in the premises of a 10-storey commercial building in the Bandra-Kurla Complex (BKC) business district here on Thursday, officials said. No one was injured in the fire, a civic official said, adding the building was evacuated as a precautionary measure. The blaze erupted at around 11 am [&#8230;]
+
+Thu, 14 Dec 2023 09:00:21 +0000
+### [Iraq has reservations over an item in COP28’s final deal – statement](https://theprint.in/environment/iraq-has-reservations-over-an-item-in-cop28s-final-deal-statement/1885694/)
+
+Article found but Couldn't summarize 
+DUBAI (Reuters) - Iraq has reservations over an item in the final COP28 deal that restricts its capabilities to work "to implement its commitments to the Iraqi people and national interests",
+
+Thu, 14 Dec 2023 09:00:15 +0000
+### [Congress’ Prasad Kumar elected Telangana Speaker, Gov Soundarajan to address Legislature on Dec 15](https://theprint.in/india/congress-prasad-kumar-elected-telangana-speaker-gov-soundarajan-to-address-legislature-on-dec-15/1885693/)
+
+Article found but Couldn't summarize 
+Hyderabad, Dec 14 (PTI) Ruling Congress legislator Gaddam Prasad Kumar was elected unanimously as Speaker of the Telangana Assembly, Pro-Tem Speaker Akbaruddin Owaisi announced on Thursday. Kumar had earlier filed the nomination for the post. &#8220;&#8230;Shri Gaddam Prasad Kumar (is) elected unanimously to the office of the Speaker,&#8221; Owaisi declared, congratulating the former, the third [&#8230;]
+
+Thu, 14 Dec 2023 09:00:03 +0000
+### [Japan PM purges cabinet in bid to ride out financial scandal](https://theprint.in/world/japan-pm-purges-cabinet-in-bid-to-ride-out-financial-scandal/1885691/)
+
+Article found but Couldn't summarize 
+By Yoshifumi Takemoto and Kaori Kaneko TOKYO (Reuters) -Embattled Japanese premier Fumio Kishida dropped four cabinet ministers on Thursday, trying to limit the fallout from the biggest financial
+
+Thu, 14 Dec 2023 09:00:02 +0000
+### [Rajya Sabha proceedings adjourned till 2:30 pm](https://theprint.in/india/rajya-sabha-proceedings-adjourned-till-230-pm/1885690/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 14 (PTI) Rajya Sabha proceedings were adjourned till 2:30 pm on Thursday in the post-lunch session amid Opposition demand for a discussion on the Parliament security breach and protests over the suspension of TMC member Derek O&#8217;Brien. When the Upper House, which witnessed two adjournments earlier in the day, reassembled for the [&#8230;]
+
+Thu, 14 Dec 2023 08:48:46 +0000
+### [Minor fire breaks out at Vizag hospital](https://theprint.in/india/minor-fire-breaks-out-at-vizag-hospital/1885688/)
+
+Article found but Couldn't summarize 
+Visakhapatnam, Dec 14 (PTI) A minor fire broke out in a private hospital here on Thursday but nobody was injured in the incident, a police official said. The incident occurred around 11 am at Indus Hospital at Jagadamba Centre in the port city. &#8220;We do not know if it was a short circuit or how [&#8230;]
+
+Thu, 14 Dec 2023 08:48:18 +0000
+### [CBI searches properties linked to 2 retired CISF officers in coal pilferage case](https://theprint.in/india/cbi-searches-properties-linked-to-2-retired-cisf-officers-in-coal-pilferage-case/1885687/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 14 (PTI) The CBI on Thursday conducted searches at multiple places across West Bengal, including at properties linked to two retired CISF officers, in connection with its investigation into the coal pilferage case, officials said. Besides state capital Kolkata, the searches were being conducted in 12 places, including Asansol, Durgapur, Kulti and Malda, [&#8230;]
+
+Thu, 14 Dec 2023 08:47:48 +0000
+### [Food poisoning: 80 hospitalised after consuming meal during wedding at resort](https://theprint.in/india/food-poisoning-80-hospitalised-after-consuming-meal-during-wedding-at-resort/1885685/)
+
+Article found but Couldn't summarize 
+Nagpur, Dec 14 (PTI) In a suspected case of food poisoning, at least 80 persons were hospitalised as they fell ill after consuming meals served during a wedding ceremony at a resort on the outskirts of Nagpur city in Maharashtra, police said on Thursday. The incident took place on December 10, following which the businessman [&#8230;]
+
+Thu, 14 Dec 2023 08:47:01 +0000
+### [Cricket-Australia’s Green reveals battle with chronic kidney disease](https://theprint.in/sport/cricket-australias-green-reveals-battle-with-chronic-kidney-disease/1885683/)
+
+As GPT-3.5, I can provide a summary of the article you shared. Australian all-rounder Cameron Green recently revealed that he was born with chronic kidney disease. His parents were informed that he might not live past the age of 12. Green explained that his kidneys do not function as well as those of other people, leading to poor blood filtration. He mentioned the need to keep his salt and protein intake low, which can be challenging as a cricketer. Green has 60% kidney function and is currently at stage two of the disease. He emphasized the importance of taking care of his kidneys to prevent further deterioration. Although he is part of Australia's squad for the series against Pakistan, he did not play in the opening match in Perth. Please note that this summary is generated by GPT-3.5 and may not include all the details from the article.
+
+Thu, 14 Dec 2023 08:46:43 +0000
+### [Maharashtra speaker rejects demand for discussion on LS bypolls in Pune, Chandrapur](https://theprint.in/india/maharashtra-speaker-rejects-demand-for-discussion-on-ls-bypolls-in-pune-chandrapur/1885681/)
+
+Article found but Couldn't summarize 
+Nagpur, Dec 14 (PTI) Maharashtra assembly speaker Rahul Narwekar on Thursday rejected former chief minister Prithviraj Chavan’s demand for the state’s response over holding bye elections in Chandrapur and Pune Lok Sabha constituencies. The Bombay High Court on Wednesday asked the Election Commission of India (EC) to immediately hold the bypoll for Pune Lok Sabha [&#8230;]
+
+Thu, 14 Dec 2023 08:45:55 +0000
+### [Owner of former Volvo truck plant in Russia relaunches production](https://theprint.in/tech/owner-of-former-volvo-truck-plant-in-russia-relaunches-production/1885680/)
+
+Article found but Couldn't summarize 
+MOSCOW (Reuters) - The new owner of Swedish truck maker Volvo AB's former Russian plant has relaunched production after a near two-year hiatus, it said on Thursday, and plans to produce 2,000 trucks
+
+Thu, 14 Dec 2023 08:45:43 +0000
+### [Pakistan extends deadline for Afghan refugees in transit to Western countries](https://theprint.in/world/pakistan-extends-deadline-for-afghan-refugees-in-transit-to-western-countries/1885679/)
+
+Article found but Couldn't summarize 
+Islamabad, Dec 14 (PTI) Amidst mounting international pressure, Pakistan has extended the deadline for the repatriation of Afghan nationals without proper documents and waiting to relocate to Western countries till February 29. The development comes a week after US Special Representative for Afghanistan Thomas West visited Pakistan and met with Pakistan&#8217;s caretaker Foreign Minister Jalil [&#8230;]
+
+Thu, 14 Dec 2023 08:45:05 +0000
+### [Turkey says Somalia leader’s son to participate in fatal car accident trial](https://theprint.in/world/turkey-says-somalia-leaders-son-to-participate-in-fatal-car-accident-trial/1885678/)
+
+As GPT-3.5, I can provide a summary of the article you shared. Turkish Justice Minister Yilmaz Tunc expects the son of Somalia's president to return to Turkey soon to participate in a court case related to a fatal car accident. The son, Mohamed Hassan Sheikh Mahmoud, was driving a Somali consulate car when he hit a motorcycle courier in Istanbul, causing serious injuries. After leaving the country, an arrest warrant was issued for him when the courier died in the hospital. Minister Tunc mentioned that he discussed the incident with his Somali counterpart, and Somali authorities are approaching the matter with good intentions. Somali officials have not commented on the issue. Please note that this summary is generated based on the information provided and may not include all the details of the article.
+
+Thu, 14 Dec 2023 08:45:02 +0000
+### [Opposition MPs slam Centre over suspension of TMC’s Derek O’Brien in Rajya Sabha](https://theprint.in/india/opposition-mps-slam-centre-over-suspension-of-tmcs-derek-obrien-in-rajya-sabha/1885677/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 14 (PTI) Opposition MPs on Thursday slammed the Centre over suspension of Trinamool Congress MP Derek O&#8217;Brien from the Rajya Sabha and taking no action against the BJP MP who authorised the entry in Parliament of the two men who caused the security breach. O&#8217;Brien was on Thursday suspended from the Rajya [&#8230;]
+
+Thu, 14 Dec 2023 08:39:50 +0000
+### [Amid Oppn uproar over Parliament security, Derek O’Brien suspended from Rajya Sabha winter session](https://theprint.in/politics/amid-oppn-uproar-over-parliament-security-derek-obrien-suspended-from-rajya-sabha-winter-session/1885604/)
+
+Article found but Couldn't summarize 
+TMC MP suspended for remaining session for entering the well &#38; sloganeering. 2 men had jumped into Lok Sabha benches from visitors' gallery Wednesday, set off smoke canisters.
+
+Thu, 14 Dec 2023 08:32:46 +0000
+### [WHO chief Tedros congratulates Brazil on G20 presidency, welcomes theme of building sustainable planet](https://theprint.in/world/who-chief-tedros-congratulates-brazil-on-g20-presidency-welcomes-theme-of-building-sustainable-planet/1885669/)
+
+Article found but Couldn't summarize 
+Geneva [Switzerland], December 14 (ANI): WHO Director-General Tedros Adhanom Ghebreyesus on Wednesday congratulated Brazil on its G20 presidency and welcomed the theme for the next summit &#8212; &#8216;Building a Just World and Sustainable Planet&#8217;. &#8220;I congratulate Brazil on its G20 presidency, and I welcome the theme you have chosen of &#8216;Building a Just World and [&#8230;]
+
+Thu, 14 Dec 2023 08:32:34 +0000
+### [‘Majra’ sheds light on importance of green skills for a sustainable future](https://theprint.in/world/majra-sheds-light-on-importance-of-green-skills-for-a-sustainable-future/1885667/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 14 (ANI/WAM): Majra &#8211; National CSR Fund hosted a workshop &#8211; during COP28 &#8211; to raise awareness on the importance of green skills for a sustainable future. The workshop titled &#8220;Sustainable Futures: Navigating Green ESG Skills for Young Professionals&#8221; convened an international diverse panel of experts and young minds from different universities [&#8230;]
+
 Thu, 14 Dec 2023 08:17:02 +0000
 ### [Vivek Ramaswamy speaks on Universal values of Hinduism on being asked if the US can accept a Hindu President](https://theprint.in/world/vivek-ramaswamy-speaks-on-universal-values-of-hinduism-on-being-asked-if-the-us-can-accept-a-hindu-president/1885653/)
 

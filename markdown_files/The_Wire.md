@@ -1,3 +1,9 @@
+2023-12-14T14:05:20+05:30
+### [Why There Is Silence in Kashmir Over the Supreme Court's Verdict](https://thewire.in/rights/why-there-is-silence-in-kashmir-over-the-supreme-courts-verdict)
+
+No Article text 
+The Supreme Court's verdict shows that the region is a test case. This model can now be unleashed anywhere in the country.
+
 2023-12-14T13:20:14+05:30
 ### [Israel-Hamas War: What Does International Law Say on the Use of White Phosphorus?](https://thewire.in/world/israel-hamas-war-what-does-the-international-law-say-on-the-use-of-white-phosphorus)
 
