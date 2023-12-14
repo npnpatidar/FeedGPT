@@ -1,3 +1,9 @@
+2023-12-14T22:13:24+05:30
+### [SC Suspends Conviction of BSP MP Afzal Ansari](https://thewire.in/law/sc-suspends-conviction-of-bsp-mp-afzal-ansari)
+
+No Article text 
+The top court clarified that Ansari shall not be disqualified to contest future elections during the pendency of his criminal appeal before the high court.
+
 2023-12-14T21:26:50+05:30
 ### [How the Govt’s Response to Parliament Security Breach Was a Bundle of Contradictions](https://thewire.in/politics/how-the-govts-response-to-parliament-security-breach-was-a-bundle-of-contradictions)
 

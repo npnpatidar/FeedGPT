@@ -2480,3 +2480,11 @@ Started at 2023-12-14 16:20:44
 Finished at 2023-12-14 16:22:42
 Total time taken: 117.57415127754211 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2023-12-14 17:17:39
+1 Feed entries have been written to feeds/Explained_TH.xml
+1 Feed entries have been written to feeds/The_Wire.xml
+20 Feed entries have been written to feeds/ThePrint.xml
+22 new entries have been added
+Finished at 2023-12-14 17:19:09
+Total time taken: 89.50948309898376 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

@@ -1,3 +1,9 @@
+Thu, 14 Dec 2023 22:39:19 +0530
+### [Is Russia winning the Ukraine war? | Explained](https://www.thehindu.com/news/international/is-russia-winning-the-ukraine-war-explained/article67639356.ece)
+
+Article found but Couldn't summarize 
+Has Ukraine’s counteroffensive failed? What has been the impact of Western sanctions on Russia? Has western support and aid for Ukraine decreased?
+
 Thu, 14 Dec 2023 08:30:00 +0530
 ### [How will the election boycott by the BNP affect Bangladesh? | Explained](https://www.thehindu.com/news/international/how-will-the-election-boycott-by-the-bnp-affect-bangladesh-explained/article67635696.ece)
 

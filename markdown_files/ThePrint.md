@@ -1,3 +1,120 @@
+Thu, 14 Dec 2023 17:03:12 +0000
+### [Objected from urinating publicly, ex-serviceman fires at man in Delhi](https://theprint.in/india/objected-from-urinating-publicly-ex-serviceman-fires-at-man-in-delhi/1886548/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 14 (PTI) A 47-year-old ex-serviceman has been arrested for allegedly firing at a man and attacking another for objecting him from urinating publicly in north Delhi&#8217;s Burari area, police said on Thursday. The incident took place around 9.45 pm on Wednesday, they said. The accused ex-serviceman, identified as Ravindra, a resident of [&#8230;]
+
+Thu, 14 Dec 2023 17:02:59 +0000
+### [Haryana Assembly Session from Friday; Oppn looks to corner govt over spurious liquor deaths](https://theprint.in/india/haryana-assembly-session-from-friday-oppn-looks-to-corner-govt-over-spurious-liquor-deaths/1886546/)
+
+Article found but Couldn't summarize 
+Chandigarh, Dec 14 (PTI) Spurious liquor deaths and sexual harassment of several schoolgirls in Jind and Kaithal among a host of other issues would be on the Opposition&#8217;s agenda during the Haryana Assembly&#8217;s Winter Session slated to begin Friday. The state song (&#8220;Rajya Geet&#8221;) of Haryana will also be launched during the session. Security measures [&#8230;]
+
+Thu, 14 Dec 2023 17:02:44 +0000
+### [Greater Noida garbage treatment facility penalised Rs 5 lakh for flouting rules](https://theprint.in/india/greater-noida-garbage-treatment-facility-penalised-rs-5-lakh-for-flouting-rules/1886545/)
+
+Article found but Couldn't summarize 
+Noida, Dec 14 (PTI) A garbage treatment facility in Greater Noida was on Thursday slapped with a penalty of Rs 5 lakh for alleged improper disposal of waste, the local authority said. The penalty was issued by the Public Health Department of the Greater Noida Industrial Development Authority (GNIDA) after a surprise inspection at the [&#8230;]
+
+Thu, 14 Dec 2023 17:02:20 +0000
+### [Delhi’s FSL gets new lab with DNA fingerprinting technology](https://theprint.in/india/delhis-fsl-gets-new-lab-with-dna-fingerprinting-technology/1886544/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 14 (PTI) The Forensic Science Laboratory now has a new lab equipped with latest technology for DNA fingerprinting to ensure that unclaimed bodies can be identified even after they have been cremated, officials said. Last week, Delhi Lt Governor V K Saxena inaugurated a state-of-the-art new annexe building of the Forensic Science [&#8230;]
+
+Thu, 14 Dec 2023 17:01:53 +0000
+### [Composer Sudhir Phadke to get Sawlaram award in Thane](https://theprint.in/india/composer-sudhir-phadke-to-get-sawlaram-award-in-thane/1886543/)
+
+Article found but Couldn't summarize 
+Thane, Dec 14 (PTI) Renowned composer Sudhir Phadke has been chosen for the &#8216;Jana Kavi P Sawlaram Smriti Puraskar&#8217;, which is given jointly by the Thane Municipal Corporation and the P Sawlaram Kala Samiti, an official said on Thursday. The award ceremony will be held on December 17, he added. &#8220;The Ganga Jamuna Puraskar will [&#8230;]
+
+Thu, 14 Dec 2023 17:01:41 +0000
+### [BJD to hold state executive meeting on Friday](https://theprint.in/india/bjd-to-hold-state-executive-meeting-on-friday/1886542/)
+
+GPT-3.5: The Biju Janata Dal (BJD) will be holding its state executive body meeting on Friday. The meeting will be presided over by Chief Minister and BJD President Naveen Patnaik at the party's state headquarters, 'Sankha Bhawan'. Around 80 leaders, including MPs, MLAs, ministers, party functionaries, and members of the 5T (transformational initiative) and Nabin Odisha Chairman V K Pandian, will be attending the meeting. The agenda of the meeting has not been revealed. Please note that this information is auto-generated from PTI news service, and ThePrint holds no responsibility for its content.
+
+Thu, 14 Dec 2023 17:01:30 +0000
+### [Patnaik distributes land deeds to displaced families of Hirakud Dam, Sorada project](https://theprint.in/india/patnaik-distributes-land-deeds-to-displaced-families-of-hirakud-dam-sorada-project/1886541/)
+
+Summary: Odisha Chief Minister Naveen Patnaik distributed land deeds to displaced families of the Hirakud Dam in Jharsuguda district and another irrigation project in Ganjam district. A total of 866 families in Jharsuguda district and 1,339 families in Ganjam district are set to benefit from this initiative. These actions have come after meetings with affected people and are part of the state government's commitment to resolving the issues faced by the common people. These deeds are integral to resolving long-pending problems of displaced people.
+
+Thu, 14 Dec 2023 17:01:20 +0000
+### [Deepak Hooda’s magnificent 180 takes Rajasthan into Vijay Hazare Trophy final](https://theprint.in/sport/deepak-hoodas-magnificent-180-takes-rajasthan-into-vijay-hazare-trophy-final/1886540/)
+
+Deepak Hooda played a captain’s innings, scoring a magnificent 180 to help Rajasthan beat Karnataka by six wickets and enter the final of the Vijay Hazare Trophy. With Hooda's impressive 128-ball knock comprising 19 fours and five sixes, Rajasthan successfully chased down the target of 283 with 38 balls to spare. Hooda found support from Karan Lamba, who scored an unbeaten 73 off 112 balls in a massive 255-run partnership for the fourth wicket. This victory sets up a final match between Rajasthan and Haryana.
+
+Thu, 14 Dec 2023 17:01:10 +0000
+### [Suryakumar’s sparkling hundred carries India to 201 for 7 in 3rd T20I against SA](https://theprint.in/sport/suryakumars-sparkling-hundred-carries-india-to-201-for-7-in-3rd-t20i-against-sa/1886539/)
+
+Article found but Couldn't summarize 
+Johannesburg, Dec 14 (PTI) Captain Suryakumar Yadav exploited a bone-dry surface to make a twinkling hundred as India made a competitive 201 for seven against South Africa in the third and final T20I here on Thursday. Trailing 0-1 in the series, India perforce needed a win here, and they showed all that necessary intensity after [&#8230;]
+
+Thu, 14 Dec 2023 17:00:59 +0000
+### [Pak’s caretaker PM Kakar alleges India’s apex court verdict on Article 370 ‘politically motivated’](https://theprint.in/world/paks-caretaker-pm-kakar-alleges-indias-apex-court-verdict-on-article-370-politically-motivated/1886538/)
+
+Article found but Couldn't summarize 
+Islamabad, Dec 14 (PTI) Pakistan&#8217;s caretaker Prime Minister Anwaarul Haq Kakar on Thursday alleged that India&#8217;s Supreme Court verdict upholding the abrogation of Article 370 was &#8220;politically motivated&#8221; as he reaffirmed his country&#8217;s moral, political and diplomatic support to the people of Kashmir. The Supreme Court on Monday unanimously upheld the Centre government&#8217;s decision of [&#8230;]
+
+Thu, 14 Dec 2023 17:00:50 +0000
+### [India post 201 for 7 in third T20I against South Africa](https://theprint.in/sport/india-post-201-for-7-in-third-t20i-against-south-africa/1886537/)
+
+Article found but Couldn't summarize 
+Johannesburg, Dec 14 (PTI) Captain Suryakumar Yadav struck a magnificent 100 off just 56 balls as India posted 201 for 7 in the third and final T20I against South Africa here on Thursday. Suryakumar struck seven fours and eight sixes for his 100 &#8212; his fourth T20I century &#8212; after India were invited to bat [&#8230;]
+
+Thu, 14 Dec 2023 17:00:39 +0000
+### [Mass Gita chant organisers say PM likely to attend meet, already invited Mamata](https://theprint.in/india/mass-gita-chant-organisers-say-pm-likely-to-attend-meet-already-invited-mamata/1886536/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 14 (PTI) Organisers of &#8216;Ek Lakh Gita Path&#8217; programme, in which one lakh people are scheduled to chant the Bhagavad Gita on December 24 in Kolkata, said on Thursday that Prime Minister Narendra Modi is likely to attend the event. Vice-President of the organising committee of the programme, Srimant Nirgunanada Brahmachari, said they [&#8230;]
+
+Thu, 14 Dec 2023 17:00:28 +0000
+### [Parliament security breach: Cops, ATS, SID inspect legislature complex in Nagpur](https://theprint.in/india/parliament-security-breach-cops-ats-sid-inspect-legislature-complex-in-nagpur/1886535/)
+
+Article found but Couldn't summarize 
+Nagpur, Dec 14 (PTI) A day after a massive security breach in Parliament, several law enforcement agencies on Thursday carried out a thorough check of the Vidhan Bhavan complex in Nagpur where the Winter Session of the Maharashtra legislature is underway. The inspection was led by Nagpur police commissioner Amitesh Kumar and involved personnel from [&#8230;]
+
+Thu, 14 Dec 2023 17:00:16 +0000
+### [‘Mild blast’ near army station in Assam’s Jorhat](https://theprint.in/india/mild-blast-near-army-station-in-assams-jorhat/1886534/)
+
+Article found but Couldn't summarize 
+Jorhat, Dec 14 (PTI) A &#8220;mild blast&#8221; took place near the army station here in Assam&#8217;s Jorhat district on Thursday evening, a defence official said. There were, however, no reports of any casualty or damage so far. Details of the incident and the nature of the explosion are awaited, the official said. The sound of [&#8230;]
+
+Thu, 14 Dec 2023 17:00:02 +0000
+### [Speaker holds all-party meeting ahead of J’khand assembly winter session](https://theprint.in/india/speaker-holds-all-party-meeting-ahead-of-jkhand-assembly-winter-session-4/1886533/)
+
+Article found but Couldn't summarize 
+Ranchi, Dec 14 (PTI) Jharkhand Assembly Speaker Rabindra Nath Mahto on Thursday held an all-party meeting to discuss the smooth functioning of the House during the winter session beginning Friday. The five-day session will conclude on December 21. Chief Minister Hemant Soren, Parliamentary Affairs Minister Alamgir Alam, Leader of Opposition Amar Bauri, Minister Satyanand Bhokta, [&#8230;]
+
+Thu, 14 Dec 2023 16:47:02 +0000
+### [India’s Uma Sekhar gets elected to Governing Council of UNIDROIT in historic victory](https://theprint.in/world/indias-uma-sekhar-gets-elected-to-governing-council-of-unidroit-in-historic-victory/1886530/)
+
+Article found but Couldn't summarize 
+Rome [Italy], December 14 (ANI): In a historic decision, India&#8217;s first woman candidate, Uma Sekhar, was elected to the Governing Council of the International Institute for the Unification of Private Law (UNIDROIT) on Thursday, according to sources. Notably, the Governing Council consists of 25 positions, all of which are held by distinguished legal experts. According [&#8230;]
+
+Thu, 14 Dec 2023 16:46:00 +0000
+### [Bhardwaj gets irked by lapses in cleanliness at govt hospital, directs strict action](https://theprint.in/india/bhardwaj-gets-irked-by-lapses-in-cleanliness-at-govt-hospital-directs-strict-action/1886529/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 14 (PTI) Delhi Health Minister Saurabh Bhardwaj on Thursday conducted a surprise inspection at four city government-run hospitals, and at one of the facilities reprimanded the administration for negligence in cleanliness and directed strict action against the officials responsible, according to an official statement. Additionally, he issued &#8220;stern orders for stringent action&#8221; [&#8230;]
+
+Thu, 14 Dec 2023 16:45:48 +0000
+### [SAD chief Badal seeks apology for 2015 sacrilege incidents](https://theprint.in/india/sad-chief-badal-seeks-apology-for-2015-sacrilege-incidents/1886528/)
+
+Article found but Couldn't summarize 
+Chandigarh, Dec 14 (PTI) Shiromani Akali Dal chief Sukhbir Singh Badal Thursday sought an apology for the sacrilege incidents that took place during the Akali regime in 2015. He also tendered an apology for not being able to catch culprits involved in the sacrilege incidents. Reacting to the development, Punjab Chief Minister Bhagwant Mann said [&#8230;]
+
+Thu, 14 Dec 2023 16:45:36 +0000
+### [Two brothers murder dumper driver by running truck over him in Nuh](https://theprint.in/india/two-brothers-murder-dumper-driver-by-running-truck-over-him-in-nuh/1886527/)
+
+Article found but Couldn't summarize 
+Gurugram, Dec 14 (PTI) Two brothers allegedly murdered a man by running a dumper truck over him in Nuh district, police said on Thursday. While one of the accused was driving the dumper truck, the other pushed the victim in front of the moving dumper, they said. The victim, a dumper driver, died on the [&#8230;]
+
+Thu, 14 Dec 2023 16:45:24 +0000
+### [Inadequate support from Kerala govt, other issues delay Angamaly-Sabarimala rail line: Vaishnaw](https://theprint.in/india/inadequate-support-from-kerala-govt-other-issues-delay-angamaly-sabarimala-rail-line-vaishnaw/1886526/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 14 (PTI) Angamaly-Sabarimala rail line, which will provide many pilgrims easy access to the Sabarimala temple, got delayed due to inadequate support from the Kerala government among other issues, Railway Minister Ashwini Vaishnaw informed the Lok Sabha. Angamaly-Sabarimala via Erumeli new line project was sanctioned in 1997-98 and work on Angamaly-Kaladi (7 [&#8230;]
+
 Thu, 14 Dec 2023 16:01:52 +0000
 ### [Uttarakhand Assembly security reviewed, day after Parliament breach](https://theprint.in/india/uttarakhand-assembly-security-reviewed-day-after-parliament-breach/1886480/)
 
