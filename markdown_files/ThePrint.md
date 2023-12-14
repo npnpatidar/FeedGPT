@@ -1,3 +1,123 @@
+Thu, 14 Dec 2023 07:02:46 +0000
+### [DC Fashion Unveils Exquisite Women’s & Men’s Collection Redefining Elegance in Wedding Wear in Karol Bagh, Delhi Since 1972](https://theprint.in/ani-press-releases/dc-fashion-unveils-exquisite-womens-mens-collection-redefining-elegance-in-wedding-wear-in-karol-bagh-delhi-since-1972/1885555/)
+
+Article found but Couldn't summarize 
+VMPL New Delhi [India], December 14: Nestled in the vibrant Karol Bagh market, DC Fashion stands as a pioneering force in the bridal attire realm since its inception in 1972. Over the years, &#8220;DC Fashion&#8221; has become synonymous with authenticity, trendsetting designs, and unparalleled sophistication in ethnic fashion. As a comprehensive destination for wedding shopping, [&#8230;]
+
+Thu, 14 Dec 2023 07:02:22 +0000
+### [Motilal Oswal’s Guide to Choose Profitable Picks for a Portfolio](https://theprint.in/ani-press-releases/motilal-oswals-guide-to-choose-profitable-picks-for-a-portfolio/1885553/)
+
+Article found but Couldn't summarize 
+BusinessWire India Mumbai (Maharashtra) [India], December 14: Success in the world of stock market investing often requires a mix of knowledge, strategy, and proper guidance. To navigate this complex landscape, investors seek expertise from financial institutions with a proven track record of success. Motilal Oswal Financial Services Ltd (MOFSL), a legacy of more than 3 [&#8230;]
+
+Thu, 14 Dec 2023 07:02:02 +0000
+### [Manoj Bajpayee, Konkona Sehsharma’s crime series ‘Killer Soup’ to stream from this date](https://theprint.in/feature/manoj-bajpayee-konkona-sehsharmas-crime-series-killer-soup-to-stream-from-this-date/1885551/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 14 (ANI): Makers of the upcoming crime series &#8216;Killer Soup&#8217; on Thursday announced unveiled the series&#8217; new poster. Taking to Instagram, the OTT platform Netflix shared the poster which they captioned, &#8220;A story so bizarre, you need to watch it to believe it. Know the ingredients of this Killer Soup starring [&#8230;]
+
+Thu, 14 Dec 2023 07:01:39 +0000
+### [Abhishek Chaubey’s Netflix series ‘Killer Soup’ to release on Jan 11](https://theprint.in/feature/abhishek-chaubeys-netflix-series-killer-soup-to-release-on-jan-11-2/1885549/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 14 (PTI) “Killer Soup”, starring Manoj Bajpayee and Konkona Sensharma, will release on January 11 on Netflix, the streaming platform announced Thursday. Directed by Abhishek Chaubey of &#8220;Udta Punjab&#8221; and &#8220;Sonchiriya&#8221; fame, the comedy crime-drama is loosely inspired by a news headline and serves up a &#8220;tantalising blend of intrigue and dark humour&#8221;. [&#8230;]
+
+Thu, 14 Dec 2023 07:01:21 +0000
+### [Shoaib Bashir mistakenly ignored McCullum’s England selection call for India tour](https://theprint.in/sport/shoaib-bashir-mistakenly-ignored-mccullums-england-selection-call-for-india-tour/1885548/)
+
+Article found but Couldn't summarize 
+London, Dec 14 (PTI) A few days ago, when young England off-spinner Shoaib Bashir saw a missed call from a New Zealand dialling code number, he ignored it thinking it could be from &#8220;anyone random&#8221;. All of six first class matches old, Bashir couldn&#8217;t even imagine in his wildest dream that the number belonged to [&#8230;]
+
+Thu, 14 Dec 2023 07:01:04 +0000
+### [Wholesale inflation back in positive zone after seven months, at 0.26 pc in Nov](https://theprint.in/economy/wholesale-inflation-back-in-positive-zone-after-seven-months-at-0-26-pc-in-nov/1885546/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 14 (PTI) Wholesale price-based inflation rose at the fastest pace in eight months at 0.26 per cent in November mainly due to a sharp rise in food prices. The WPI inflation was in the negative zone for the past seven months and was at (-) 0.52 per cent in October. &#8220;Positive rate [&#8230;]
+
+Thu, 14 Dec 2023 07:00:55 +0000
+### [Telenor to sell Pakistan telecoms unit for $490 million](https://theprint.in/tech/telenor-to-sell-pakistan-telecoms-unit-for-490-million/1885545/)
+
+Article found but Couldn't summarize 
+OSLO (Reuters) -Norway's Telenor said on Thursday it had agreed to sell its Pakistan unit to state group Pakistan Telecommunications in a transaction valuing the operation at 5.3 billion Norwegian
+
+Thu, 14 Dec 2023 07:00:52 +0000
+### [SC conditionally suspends conviction of former BSP MP Afzal Ansari in 2007 Gangsters Act case](https://theprint.in/india/sc-conditionally-suspends-conviction-of-former-bsp-mp-afzal-ansari-in-2007-gangsters-act-case/1885544/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 14 (PTI) The Supreme Court on Thursday conditionally suspended the conviction of former BSP MP Afzal Ansari in a 2007 Gangsters Act case. A bench of Justices Surya Kant, Dipankar Datta and Ujjal Bhuyan in a majority verdict said that Ansari, a former MP from the Ghazipur constituency of Uttar Pradesh, will [&#8230;]
+
+Thu, 14 Dec 2023 07:00:39 +0000
+### [2,366 farmers died by suicide in Maharashtra in 10 months this year: Minister](https://theprint.in/india/2366-farmers-died-by-suicide-in-maharashtra-in-10-months-this-year-minister/1885542/)
+
+Article found but Couldn't summarize 
+Nagpur, Dec 14 (PTI) As many as 2,366 farmers have committed suicide in Maharashtra between January and October this year, Minister for Relief and Rehabilitation Anil Bhaidas Patil informed the state assembly on Thursday. The Amravati revenue division reported the highest number of such deaths at 951, the minister said in a written reply to [&#8230;]
+
+Thu, 14 Dec 2023 07:00:39 +0000
+### [Gold rises as Fed rate-cut prospects dent dollar, yields](https://theprint.in/economy/gold-rises-as-fed-rate-cut-prospects-dent-dollar-yields/1885541/)
+
+Article found but Couldn't summarize 
+By Brijesh Patel (Reuters) -Gold prices extended their climb to a one-week high on Thursday after the U.S. Federal Reserve flagged an end to its tightening cycle and signalled lower borrowing costs in
+
+Thu, 14 Dec 2023 07:00:22 +0000
+### [Kerala CM condemns Parliament security breach](https://theprint.in/india/kerala-cm-condemns-parliament-security-breach/1885539/)
+
+Article found but Couldn't summarize 
+Kottayam (Kerala), Dec 14 (PTI) Kerala Chief Minister Pinarayi Vijayan on Thursday condemned the security breach at the Parliament on December 13, saying such an incident should never have happened and called for action into the matter. Vijayan, at a press briefing here, said all major political parties have pointed out at the alleged security [&#8230;]
+
+Thu, 14 Dec 2023 07:00:18 +0000
+### [Israel strikes southern Gaza as disease stalks residents](https://theprint.in/world/israel-strikes-southern-gaza-as-disease-stalks-residents/1885538/)
+
+Article found but Couldn't summarize 
+By Nidal al-Mughrabi and Fadi Shana CAIRO/GAZA (Reuters) -Israel kept up its barrage of the Gaza Strip on Thursday despite intensifying international calls to reduce civilian casualties from its
+
+Thu, 14 Dec 2023 07:00:04 +0000
+### [Russia attacks south Ukraine with 42 drones and missiles, killing 1, Ukraine says](https://theprint.in/world/russia-attacks-south-ukraine-with-42-drones-and-missiles-killing-1-ukraine-says/1885537/)
+
+Article found but Couldn't summarize 
+KYIV (Reuters) -Russia launched 42 drones and 6 missiles at Ukraine's southern regions overnight with air defences destroying 41 drones, but missiles killed one civilian, Ukrainian military said on
+
+Thu, 14 Dec 2023 07:00:03 +0000
+### [Parliament security breach: Opposition demands statement from Amit Shah](https://theprint.in/india/parliament-security-breach-opposition-demands-statement-from-amit-shah/1885536/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 14 (PTI) Leaders of various opposition parties on Thursday demanded that Home Minister Amit Shah make a statement on the issue of Parliament security breach followed by a discussion on the matter in both houses. This was decided at a meeting of opposition leaders held in the chamber of Leader of Opposition [&#8230;]
+
+Thu, 14 Dec 2023 06:57:47 +0000
+### [Look beyond lazy explanations on 2023 election outcome—changes and shift everyone missed](https://theprint.in/opinion/look-beyond-lazy-explanations-on-2023-election-outcome-changes-and-shift-everyone-missed/1885099/)
+
+Article found but Couldn't summarize 
+Based on the post-poll survey by Lokniti-CSDS, we can now bust some of the popular myths around the 2023 assembly elections and say what did not work—and why Congress has reasons to worry.
+
+Thu, 14 Dec 2023 06:55:30 +0000
+### [Modi is following Indira Gandhi playbook—election wins are personal triumphs, CMs don’t matter](https://theprint.in/opinion/sharp-edge/modi-is-following-indira-gandhi-playbook-election-wins-are-personal-triumphs-cms-dont-matter/1885496/)
+
+Article found but Couldn't summarize 
+Modi's charisma and vision for India is the only mandate for elections. Local leaders become no more than facilitators. They are not expected to win votes in their own names.
+
+Thu, 14 Dec 2023 06:47:22 +0000
+### [Avail Personal Loans with Zero Foreclosure and Prepayment Charges by Piramal Finance](https://theprint.in/ani-press-releases/avail-personal-loans-with-zero-foreclosure-and-prepayment-charges-by-piramal-finance/1885524/)
+
+Article found but Couldn't summarize 
+PNN Mumbai (Maharashtra) [India], December 14: Piramal Finance is offering personal loans featuring zero foreclosure and prepayment charges. This enhances the borrowing experience for individuals by providing convenience and cost-saving opportunities. This reflects the company&#8217;s ethos of empowering individuals and fostering a transparent and affordable borrowing environment. Understanding the Offer * Zero Foreclosure Charges: Foreclosure [&#8230;]
+
+Thu, 14 Dec 2023 06:47:12 +0000
+### [Raj Kapoor @ 100 Film memorabilia for a steal at deRivaz & Ives Raj Kapoor’s centenary birthday auction this December 14](https://theprint.in/ani-press-releases/raj-kapoor-100-film-memorabilia-for-a-steal-at-derivaz-ives-raj-kapoors-centenary-birthday-auction-this-december-14/1885522/)
+
+Article found but Couldn't summarize 
+VMPL New Delhi [India], December 14: December 14 marks the centenary birth anniversary of showman Raj Kapoor, one of the greatest and most influential actors and filmmakers in the history of Indian cinema. deRivaz &#38; Ives (https://www.derivaz-ives.com/home) celebrates the greatest showman with a vintage Indian film photography and memorabilia auction &#8216;Raj Kapoor @ 100&#8217; from [&#8230;]
+
+Thu, 14 Dec 2023 06:47:02 +0000
+### [Uniphore and Altruist Technologies Join Forces to Revolutionize Customer Experience Through AI](https://theprint.in/ani-press-releases/uniphore-and-altruist-technologies-join-forces-to-revolutionize-customer-experience-through-ai/1885520/)
+
+Article found but Couldn't summarize 
+BusinessWire India Mumbai (Maharashtra) [India], December 14: Uniphore, one of the world&#8217;s largest AI-native companies, today announced a strategic partnership with Altruist Technologies Pvt Ltd., a prominent end-to-end solution provider in Business Process Outsourcing (BPO), Customer Management Outsourcing (CMO), and IT services. This collaboration aims to redefine Altruist Technologies&#8217; customer experiences across various industries by [&#8230;]
+
+Thu, 14 Dec 2023 06:46:34 +0000
+### [Cold wave gripping northern China seen moving south](https://theprint.in/environment/cold-wave-gripping-northern-china-seen-moving-south/1885518/)
+
+Article found but Couldn't summarize 
+By Bernard Orr and Ryan Woo BEIJING (Reuters) -Cold weather gripped large swathes of China on Thursday, with sharp falls in temperature expected over the next two days, particularly in the south,
+
 Thu, 14 Dec 2023 06:18:30 +0000
 ### [Oman Air elevates cargo connectivity: Launches freighter service linking Hyderabad and Muscat](https://theprint.in/economy/oman-air-elevates-cargo-connectivity-launches-freighter-service-linking-hyderabad-and-muscat/1885469/)
 

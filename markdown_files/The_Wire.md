@@ -1,3 +1,9 @@
+2023-12-14T12:20:40+05:30
+### [Feasibility Study of Nepal-China Railway 'on Track'](https://thewire.in/south-asia/feasibility-study-of-nepal-china-railway-on-track)
+
+No Article text 
+Many analysts consider a railway connecting the Chinese border town of Kerung with Kathmandu as an effort to counter India’s project to connect the Nepali capital with a cross-border Railway via Raxaul.
+
 2023-12-14T11:48:57+05:30
 ### [The Last Pillar of Indian Democracy Has Fallen](https://thewire.in/law/the-last-pillar-of-indian-democracy-has-fallen)
 

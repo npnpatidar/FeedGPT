@@ -1,3 +1,8 @@
+Thu, 14 Dec 2023 07:09:20 +0000
+### [Innovation or safety? How Delhi declaration found middle path between promotion and regulation of AI](https://indianexpress.com/article/explained/explained-sci-tech/delhi-declaration-gpai-regulation-ai-explained-9067865/)
+
+Article found but Couldn't summarize
+
 Thu, 14 Dec 2023 02:20:46 +0000
 ### [ExplainSpeaking: What is ‘Hindutva rate’ of (GDP) growth; how it compares with ‘Hindu’ rate](https://indianexpress.com/article/explained/explained-economics/explainspeaking-hindutva-rate-of-gdp-growth-9067341/)
 

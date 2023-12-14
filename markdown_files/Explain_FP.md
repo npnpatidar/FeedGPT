@@ -1,3 +1,9 @@
+Thu, 14 Dec 2023 12:01:49 +0530
+### [Parliament security breach: Meet the ‘saviour’ MPs who fought intruders](https://www.firstpost.com/explainers/parliament-security-breach-meet-the-saviour-mps-who-fought-intruders-13501762.html)
+
+Article found but Couldn't summarize 
+Parliament security breach: Meet the ‘saviour’ MPs who fought intruders
+
 Thu, 14 Dec 2023 11:30:20 +0530
 ### [Chandrayaan-3, G20 Summit and more: The big moments that made India shine in 2023](https://www.firstpost.com/explainers/chandrayaan-3-g20-summit-and-more-the-big-moments-that-made-india-shine-in-2023-13501022.html)
 

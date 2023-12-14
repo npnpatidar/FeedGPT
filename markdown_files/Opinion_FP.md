@@ -1,3 +1,9 @@
+Thu, 14 Dec 2023 12:25:32 +0530
+### [Vantage | Will Pakistan's elections be delayed again?](https://www.firstpost.com/opinion/vantage-will-pakistans-elections-be-delayed-again-13502732.html)
+
+Article found but Couldn't summarize 
+Vantage | Will Pakistan's elections be delayed again?
+
 Thu, 14 Dec 2023 11:30:12 +0530
 ### [Vantage | Will Russia's Wagner group replace UN in Mali?](https://www.firstpost.com/opinion/vantage-will-russias-wagner-group-replace-un-in-mali-13502332.html)
 
