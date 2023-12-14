@@ -1,3 +1,112 @@
+Thu, 14 Dec 2023 13:18:18 +0000
+### [Delhi LG takes exception over ‘inaccurate’ land survey, delay in acquisition for bridge project](https://theprint.in/india/delhi-lg-takes-exception-over-inaccurate-land-survey-delay-in-acquisition-for-bridge-project/1886200/)
+
+The Lieutenant Governor of Delhi has expressed displeasure over the inaccurate land survey for a four-lane bridge over the Najafgarh drain and the delay in its acquisition. He has directed the chief secretary to identify the officials responsible for the inaccurate survey and the delay in the land acquisition process, and has sought a report within three weeks. The project exceeded its stipulated timeline due to the initiation without the requisite land parcels, and the request for land acquisition was made in February 2021, with a notification submitted in December 2023. The LG has issued directions to expedite the land acquisition proceedings and has approved a proposal for the project.
+
+Thu, 14 Dec 2023 13:18:05 +0000
+### [AMU student booked for making ‘derogatory’ remarks against Prophet Muhammad](https://theprint.in/india/amu-student-booked-for-making-derogatory-remarks-against-prophet-muhammad/1886199/)
+
+Article found but Couldn't summarize 
+Aligarh (UP), Dec 14 (PTI) A class 12 student of an AMU-run college here was booked for allegedly making derogatory remarks against Prophet Muhammad, officials said on Thursday. The action was taken after a classmate of the accused lodged a complaint against him with the Aligarh Muslim University (AMU) authorities on Tuesday, a senior varsity [&#8230;]
+
+Thu, 14 Dec 2023 13:17:52 +0000
+### [CISF nabs loader at Mumbai airport for stealing smuggled gold worth Rs 1 crore from check-in luggage](https://theprint.in/india/cisf-nabs-loader-at-mumbai-airport-for-stealing-smuggled-gold-worth-rs-1-crore-from-check-in-luggage/1886197/)
+
+As GPT-3.5, I can provide a summary of the article you shared. A loader working for IndiGo airlines at the Mumbai international airport was apprehended by the CISF for allegedly stealing smuggled gold bars worth Rs 1 crore from check-in baggage. The loader, Akshay Kule, was caught on December 11 at around 3 am. He was working in the baggage breakup area at Terminal 2 of the Chhatrapati Shivaji Maharaj International Airport. Kule is a loader with IndiGo and was outsourced by the airline from a company called Agile Airport Services. Sixteen gold bars weighing about 1.86 kilograms were recovered from his bag. The value of the gold bars is approximately Rs 1 crore. Kule was handed over to Customs officials for further investigation and registration of a case against him. Please note that this summary is based on the provided text and does not include any additional information.
+
+Thu, 14 Dec 2023 13:17:45 +0000
+### [Call centre software firm Aircall names Scott Chancellor as new CEO](https://theprint.in/tech/call-centre-software-firm-aircall-names-scott-chancellor-as-new-ceo/1886196/)
+
+Article found but Couldn't summarize 
+PARIS (Reuters) - Aircall, a call centre software company that has been valued at around $1 billion, on Thursday named 41-year old Scott Chancellor as its new chief executive officer. Chancellor, who
+
+Thu, 14 Dec 2023 13:17:41 +0000
+### [Case of mistaken identity: Govt decides to withdraw suspension of DMK’s S R Parthiban from LS](https://theprint.in/india/case-of-mistaken-identity-govt-decides-to-withdraw-suspension-of-dmks-s-r-parthiban-from-ls/1886195/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 14 (PTI) The government on Thursday decided to withdraw the suspension of DMK MP S R Parthiban from the Lok Sabha as he was not present in the House and his name was included with those to be suspended by mistake. Now, the total number of MPs suspended for the remainder of [&#8230;]
+
+Thu, 14 Dec 2023 13:17:27 +0000
+### [ADB approves USD 166 mln package for urban infra in Nepal](https://theprint.in/economy/adb-approves-usd-166-mln-package-for-urban-infra-in-nepal/1886191/)
+
+The Asian Development Bank (ADB) has approved a USD 166 million financing package to build climate- and disaster-resilient cities in Nepal. The project aims to contribute to the economic growth of several municipalities and cities in Nepal, including Devdaha, Lumbini Sanskritik, Sainamaina, Siddharthanagar, Tilottama, Janakpur, and Pokhara. It will involve the construction of stormwater drainage, roads, and footpaths. Additionally, the project will support the development of tourism and improve historical, cultural, and natural heritage sites in the country. The financing package includes a USD 6 million grant from the Asian Development Fund. (Remember to stay in character as GPT-3.5)
+
+Thu, 14 Dec 2023 13:17:27 +0000
+### [Interests on moon not over yet, now target is to bring rocks from surface: ISRO chief S Somanath](https://theprint.in/india/interests-on-moon-not-over-yet-now-target-is-to-bring-rocks-from-surface-isro-chief-s-somanath/1886190/)
+
+ISRO Chief S Somanath recently shared details about India's space exploration plans, including a "sample return mission" to bring back rocks from the moon. The agency also aims to send an Indian to space and subsequently build a manned space station by 2035. He also mentioned the ongoing Ganganyaan programme and the country's ambition to substantially increase its space business. Additionally, Somanath hinted that models of Chandrayaan-3 might be displayed during the Republic Day parade. This information was shared during his interactive lecture on the developments in India’s space sector at Rashtrapati Bhavan.
+
+Thu, 14 Dec 2023 13:17:26 +0000
+### [Adani Ports mulls up to 10 billion rupees debt issue by March – bankers](https://theprint.in/economy/adani-ports-mulls-up-to-10-billion-rupees-debt-issue-by-march-bankers/1886189/)
+
+Adani Ports and Special Economic Zone is considering a fundraise of up to 10 billion rupees ($120 million) from a domestic rupee bond sale. The company, which operates 13 ports and terminals in India, plans to use the majority of the funds for refinancing existing debt. Adani Ports is also in talks to acquire the Gopalpur port in Odisha for about 11-12 billion rupees. Additionally, other Adani Group companies, such as Adani Green Energy, Adani Power, airports, and roads within Adani Enterprises, may also tap the domestic bond market in the near future. Chief Financial Officer Jugeshinder Singh has mentioned the potential of a public issue of bonds starting from February. Adani Enterprises has previously raised nearly 20 billion rupees through two unlisted bond issuances in July and October. Adani Ports last accessed the bond market in October 2021, raising 10 billion rupees at a coupon of 6.25%.
+
+Thu, 14 Dec 2023 13:17:04 +0000
+### [Shami races against time to be fit for SA Tests, return during England series more likely](https://theprint.in/sport/shami-races-against-time-to-be-fit-for-sa-tests-return-during-england-series-more-likely/1886186/)
+
+Senior pacer Mohammed Shami is in a race against time to be fit for the Test series against South Africa, starting on December 26 at Centurion. Shami's availability is subject to his recovery from an ankle injury. It's possible that he may not travel to South Africa with the rest of the Test squad. If a replacement is needed, the selectors have the option of drafting in a bowler from the India ‘A’ squad currently playing in South Africa. Shami is expected to continue his recuperation at home and may return during the Test series at home against England starting from January 25 at Hyderabad. Additionally, Shami has been nominated for the prestigious Arjuna Award.
+
+Thu, 14 Dec 2023 13:17:02 +0000
+### [Supercharged markets surge on rate cut signals](https://theprint.in/economy/supercharged-markets-surge-on-rate-cut-signals/1886185/)
+
+Global share markets have risen to their highest in over a year and a half, and borrowing costs and the dollar have tumbled due to signals from the U.S. Federal Reserve that rate cuts are coming. The U.S. and Swiss central banks have had an impact on European stocks, and investors are closely watching for rate decisions from the European Central Bank. The Bank of England has maintained high interest rates, and the UK's FTSE 100 index gave up some gains. The Fed's signals have led to a rally in Asian stock markets, with MSCI's broadest index of Asia-Pacific shares outside Japan jumping significantly. The U.S. dollar has fallen, while spot gold and oil prices have both risen.
+
+Thu, 14 Dec 2023 13:17:02 +0000
+### [Udhayanidhi Stalin thanks actor Soori for cyclone relief support](https://theprint.in/feature/udhayanidhi-stalin-thanks-actor-soori-for-cyclone-relief-support/1886184/)
+
+Article found but Couldn't summarize 
+Chennai (Tamil Nadu) [India], December 14 (ANI): Tamil Nadu minister Udhayanidhi Stalin on Thursday expressed gratitude to actor Soori for providing financial support for Michaung storm-heavy rain relief work. Taking to X (formerly Twitter), Stalin wrote in Tamil, &#8220;In order to support the Michaung storm-heavy rain relief work being carried out by the Tamil Nadu [&#8230;]
+
+Thu, 14 Dec 2023 13:16:47 +0000
+### [Gold extends gains as Fed’s rate-cut forecast hurts dollar, yields](https://theprint.in/economy/gold-extends-gains-as-feds-rate-cut-forecast-hurts-dollar-yields/1886182/)
+
+Gold prices rose to their highest in a week after the U.S. Federal Reserve signaled that its interest rate-hiking policy is at an end and that it sees lower borrowing costs in 2024. This sent the dollar and Treasury yields lower. Specifically, spot gold was 0.4% higher at $2,034.58 per ounce, while U.S. gold futures jumped 2.6% to $2,049.50. The market perceives the Fed's stance as dovish, with 17 of 19 Fed officials projecting lower interest rates by end-2024. This has put pressure on the dollar and bond yields, increasing the appeal of non-yielding bullion, such as gold. In addition, markets are now pricing in a chance of about 89% of a rate cut in March from the Fed. Other metals also saw gains, with spot silver rising 1.2% to $24.04 per ounce, platinum gaining 0.9% to $942.22, and palladium climbing 2.3% to $1,015.42. The European Central Bank also slashed its forecasts for inflation next year, which observers view as signaling that interest rates may soon be cut. Independent analysts retain a positive outlook for gold, with one targeting a price of $2,250 per ounce by the end of 2024.
+
+Thu, 14 Dec 2023 13:16:46 +0000
+### [Himanta meets president, invites her to Karbi Youth Festival](https://theprint.in/india/himanta-meets-president-invites-her-to-karbi-youth-festival/1886181/)
+
+Article found but Couldn't summarize 
+Guwahati, Dec 14 (PTI) Assam Chief Minister Himanta Biswa Sarma on Thursday called on President Droupadi Murmu at the Rashtrapati Bhavan and invited her to the attend golden jubilee celebrations of the Karbi Youth Festival. In a post on X, Sarma said Murmu&#8217;s humility and compassion are an immense source of strength and he was [&#8230;]
+
+Thu, 14 Dec 2023 13:16:25 +0000
+### [Parliament security breach: Delhi court sends 4 accused to 7-day police custody](https://theprint.in/india/parliament-security-breach-delhi-court-sends-4-accused-to-7-day-police-custody/1886179/)
+
+The Delhi court has sent the four accused who breached security at the new Parliament building to the city police's custody for seven days. The accused have been charged under the anti-terror law UAPA and various sections of the Indian Penal Code. During the security breach, the accused sprayed colored gas from canisters and shouted slogans. Two of the accused jumped into the Lok Sabha chamber, while the other two sprayed gas outside the Parliament premises. Their accomplice has been detained, and a key conspirator is on the run.
+
+Thu, 14 Dec 2023 13:16:22 +0000
+### [Turkey will no longer send imams to German mosques – German ministry](https://theprint.in/world/turkey-will-no-longer-send-imams-to-german-mosques-german-ministry/1886178/)
+
+Article found but Couldn't summarize 
+BERLIN (Reuters) - Germany has agreed with Turkey to phase out a controversial programme that posts Turkish imams to German mosques, the interior ministry in Berlin announced on Thursday, saying that
+
+Thu, 14 Dec 2023 13:16:01 +0000
+### [Forty years on, memories of M800 linger as the car that altered personal mobility in India](https://theprint.in/economy/forty-years-on-memories-of-m800-linger-as-the-car-that-altered-personal-mobility-in-india/1886176/)
+
+The article discusses the significance of the Maruti 800, also known as the M800, in revolutionizing personal mobility in India. Launched in 1983, it challenged existing car models and became a symbol of aspiration for the middle class. Over the years, it witnessed significant milestones in production before being discontinued in 2014 due to newer technologies, safety, and emission norms. The M800 played a vital role in shaping Maruti Udyog Ltd. into a dominant force in the automotive industry and continues to evoke nostalgia among many.
+
+Thu, 14 Dec 2023 13:15:58 +0000
+### [Analysis-Despite COP28 deal on fossil fuels, 1.5C goal likely out of reach](https://theprint.in/world/analysis-despite-cop28-deal-on-fossil-fuels-1-5c-goal-likely-out-of-reach/1886175/)
+
+Article found but Couldn't summarize 
+By Gloria Dickie DUBAI (Reuters) - A deal for the world to transition away from fossil fuels was hailed as a historic achievement on Wednesday at the U.N. climate summit in Dubai, but there's a good
+
+Thu, 14 Dec 2023 13:15:37 +0000
+### [Bodies of 64 victims of Manipur violence handed over to kin, tribal body calls for 12-hr total shutdown Friday for funeral services](https://theprint.in/india/bodies-of-64-victims-of-manipur-violence-handed-over-to-kin-tribal-body-calls-for-12-hr-total-shutdown-friday-for-funeral-services/1886172/)
+
+The article reports that the bodies of 64 victims of the Manipur violence have been handed over to their families after being kept in morgues since ethnic clashes broke out in the state in May. The Supreme Court-constituted committee reported 175 deaths during the clashes, with 169 bodies identified. The bodies of 60 Kuki community members were airlifted under tight security, and the Committee on Tribal Unity called for funeral services with a shutdown in a specific area. The Supreme Court issued directives for burial or cremation of those killed in the ethnic violence, including unclaimed bodies, to be carried out by December 11. The report mentions the ethnic composition of the population and the background of the clashes.
+
+Thu, 14 Dec 2023 13:15:35 +0000
+### [Putin confronts his AI ‘double’](https://theprint.in/world/putin-confronts-his-ai-double/1886171/)
+
+Article found but Couldn't summarize 
+MOSCOW (Reuters) - Russian President Vladimir Putin appeared briefly lost for words on Thursday when confronted with an AI-generated version of himself. The "double" took the opportunity to put a
+
+Thu, 14 Dec 2023 13:15:17 +0000
+### [Group demanding vessel change course in Bab al-Mandab Strait -Ambrey citing reports](https://theprint.in/world/group-demanding-vessel-change-course-in-bab-al-mandab-strait-ambrey-citing-reports/1886170/)
+
+Article found but Couldn't summarize 
+(Reuters) -The British maritime security company Ambrey said on Thursday it is aware of reports that a group claiming to be the "Yemeni Navy" is demanding a vessel sailing in the Bab al-Mandab Strait
+
 Thu, 14 Dec 2023 12:32:13 +0000
 ### [Clashes between Chinese, Philippine vessels in South China Sea signals trouble](https://theprint.in/world/clashes-between-chinese-philippine-vessels-in-south-china-sea-signals-trouble/1886098/)
 

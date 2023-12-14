@@ -1,3 +1,15 @@
+2023-12-14T18:13:49+05:30
+### [Modi Govt Stonewalls Rafale Deal Corruption Probe By French Judges: Report](https://thewire.in/government/modi-govt-stonewalls-rafale-deal-corruption-probe-by-french-judges-report)
+
+No Article text 
+In a diplomatic note dated July 25, 2023, French Ambassador to India Emmanuel Lenain highlighted difficulties in collaborating on criminal cases with India. He noted, "Many cases are handled by our Indian partners with very long delays, often in an incomplete manner."
+
+2023-12-14T18:10:10+05:30
+### [Interview | 'Despite Resistance from Rich Countries, What Developing Nations Got at COP28 Is Huge'](https://thewire.in/environment/interview-despite-resistance-from-rich-countries-what-developing-nations-got-at-cop28-is-huge)
+
+No Article text 
+Harjeet Singh, head of global political strategy at Climate Action Network International (CAN), delves deeper into the issues and contestations which took place at the recently concluded COP28 in Dubai.
+
 2023-12-14T17:41:04+05:30
 ### [China ‘Running Away’ With Strategically Important Advanced Industries: Think Tank](https://thewire.in/world/china-dominating-strategically-important-industries-think-tank-report)
 

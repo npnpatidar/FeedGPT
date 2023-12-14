@@ -1,3 +1,15 @@
+Thu, 14 Dec 2023 18:32:50 +0530
+### [Vantage | Why listing out New Year resolutions is actually a good idea](https://www.firstpost.com/opinion/vantage-why-listing-out-new-year-resolutions-is-actually-a-good-idea-13504332.html)
+
+Article found but Couldn't summarize 
+Vantage | Why listing out New Year resolutions is actually a good idea
+
+Thu, 14 Dec 2023 18:18:36 +0530
+### [Pranab Mukherjee: Trusted by Indira Gandhi, doubted by Rajiv &amp; Sonia, and outraged by Rahul’s sense of entitlement](https://www.firstpost.com/opinion/pranab-mukherjee-trusted-by-indira-gandhi-doubted-by-rajiv-sonia-and-outraged-by-rahuls-sense-of-entitlement-13504302.html)
+
+Article found but Couldn't summarize 
+Pranab Mukherjee: Trusted by Indira Gandhi, doubted by Rajiv &amp;amp; Sonia, and outraged by Rahul’s sense of entitlement
+
 Thu, 14 Dec 2023 17:29:17 +0530
 ### [Vantage | How China left Malaysia stranded with a billion dollar 'ghost city'](https://www.firstpost.com/opinion/vantage-how-china-left-malaysia-stranded-with-a-billion-dollar-ghost-city-13504142.html)
 

@@ -1,3 +1,8 @@
+Thu, 14 Dec 2023 13:22:20 +0000
+### [‘Bizarre’ reason for not holding Pune bypoll: Why the Bombay HC pulled up the Election Commission](https://indianexpress.com/article/explained/explained-law/pune-bypoll-why-bombay-hc-pulled-up-election-commission-9068569/)
+
+The Bombay High Court directed the Election Commission of India to conduct a bypoll for the Pune Lok Sabha constituency following a petition filed by a 25-year-old law graduate, Sughosh Joshi. The petition challenged the delay in conducting the bypoll and argued that the constituents had been without representation in Parliament, contrary to the Representation of People Act. The High Court held that the petitioner had the legal standing to file the writ petition and criticized the ECI's argument for not conducting the bypoll due to preparations for the 2024 General Elections. The ECI was directed to immediately proceed with the election, but it has the option to challenge the decision in the Supreme Court. Currently, there are 18 vacant Lok Sabha seats, with 13 vacated due to winning state Assembly elections and 5 due to untimely deaths and other circumstances.
+
 Thu, 14 Dec 2023 10:38:35 +0000
 ### [Allahabad HC allows survey of Mathura Idgah: What is this plea in the Sri Krishna Janmabhoomi case](https://indianexpress.com/article/explained/explained-law/allahabad-hc-mathura-idgah-sri-krishna-janmabhoomi-case-9068278/)
 
