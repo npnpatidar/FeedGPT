@@ -1,3 +1,9 @@
+2023-12-14T09:00:30+05:30
+### [An Artist's Quest to Paint the Mighty Kanchenjunga for His Patron, the Viceroy of India](https://thewire.in/books/excerpt-anindyo-roy-the-viceroys-artist)
+
+No Article text 
+Were his travels worth the pain and tedium that he now feels throbbing in his bones? Would Kurseong offer a view of the mighty Kanchenjunga that he can capture on just an ordinary sheet of paper?
+
 2023-12-13T22:41:18+05:30
 ### [COP28 Draws to a Close, 23 Hours Overtime: Historic but Also Disappointing, Say Experts](https://thewire.in/environment/cop28-ends-historic-but-also-disappointing-experts)
 

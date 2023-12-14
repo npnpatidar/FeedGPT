@@ -1,3 +1,9 @@
+Thu, 14 Dec 2023 08:44:13 +0530
+### [Regime change in Bangladesh? Biden’s Arab Spring desire in Dhaka no better than Obama’s Middle Eastern nightmare](https://www.firstpost.com/opinion/regime-change-in-bangladesh-bidens-arab-spring-desire-in-dhaka-no-better-than-obamas-middle-eastern-nightmare-13501462.html)
+
+Article found but Couldn't summarize 
+Regime change in Bangladesh? Biden’s Arab Spring desire in Dhaka no better than Obama’s Middle Eastern nightmare
+
 Wed, 13 Dec 2023 20:35:53 +0530
 ### [Vantage | What COP28 says about COP's ability to solve climate problems](https://www.firstpost.com/opinion/vantage-what-cop28-says-about-cops-ability-to-solve-climate-problems-13501032.html)
 
