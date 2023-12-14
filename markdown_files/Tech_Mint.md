@@ -1,3 +1,8 @@
+Thu, 14 Dec 2023 15:37:16 +0530
+### [Realme C67 5G launched in India with MediaTek Dimensity 6100+ SoC: Check price, specifications](https://www.livemint.com/technology/realme-c67-5g-launched-in-india-with-mediatek-dimensity-6100-soc-check-price-specifications-11702548127189.html)
+
+Realme has introduced the Realme C67 5G smartphone featuring 33W wired fast charging and boasting an IP54 rating for dust and splash resistance. The device is equipped with a 6nm MediaTek Dimensity chipset and a dual rear camera unit supported by artificial intelligence. The smartphone is available in Dark Purple and Sunny Oasis color choices, with the 4GB + 128GB variant priced at Rs. 13,999 and the 6GB + 128GB option at Rs. 14,999 in India. It is set to be available at retail stores starting December 16, with an early access sale on the official Realme website and Flipkart. Customers can enjoy offers of up to Rs. 2,000, with online purchasers benefiting from offers up to Rs. 1,500 from December 20. The Realme C67 5G boasts a 6.72-inch full-HD+ display with a refresh rate of up to 120Hz and a peak brightness of 680 nits. It is powered by a 6nm MediaTek Dimensity 6100+ SoC and supports configurations up to 6GB of RAM and 128GB of built-in storage, expandable up to 2TB via a microSD card slot. The smartphone features a dual rear camera setup with a 50MP main sensor and a 2MP portrait shooter, as well as a 5,000mAh battery with 33W wired fast charging and a side-mounted fingerprint sensor for security.
+
 Thu, 14 Dec 2023 11:53:06 +0530
 ### [Garena Free Fire Max redeem codes for Dec 14, 2023: Grab exciting daily rewards](https://www.livemint.com/technology/tech-news/garena-free-fire-max-redeem-codes-for-dec-14-2023-grab-exciting-daily-rewards-11702534773792.html)
 

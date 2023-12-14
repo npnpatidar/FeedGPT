@@ -1,3 +1,14 @@
+Thu, 14 Dec 2023 15:39:26 +0530
+### [How hackers with $24 to spare are hijacking Bangladesh's 2024 election](https://www.firstpost.com/tech/how-hackers-with-24-to-spare-are-hijacking-bangladeshs-2024-election-13503632.html)
+
+Article found but Couldn't summarize 
+How hackers with $24 to spare are hijacking Bangladesh's 2024 election
+
+Thu, 14 Dec 2023 14:49:48 +0530
+### [Elon Musk’s X Fiasco: Disney, Comcast increase ad spend on Instagram following owner’s tirade](https://www.firstpost.com/tech/elon-musks-x-fiasco-disney-comcast-increase-ad-spend-on-instagram-following-owners-tirade-13503432.html)
+
+Following Elon Musk's controversial comments and subsequent loss of advertisers on his platform X (formerly known as Twitter), several prominent US companies, including Walt Disney and Comcast, have significantly increased their advertising expenditure on Instagram. This shift in advertising strategies illustrates the challenges faced by Elon Musk and X, leading to a decline in advertiser confidence. As a result, X has experienced a significant decline in ad revenue and a decrease in monthly active users. Additionally, there is a trend of users shifting from text-based social networking apps to platforms focused on photo and video content.
+
 Thu, 14 Dec 2023 13:17:54 +0530
 ### [Foxconn to open its first iPhone assembly plant in Bengaluru in April 2024, to make 20 mn units a year](https://www.firstpost.com/tech/foxconn-to-open-its-first-iphone-assembly-plant-in-bengaluru-in-april-2024-to-make-20-mn-units-a-year-13502962.html)
 

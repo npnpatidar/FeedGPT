@@ -1,3 +1,16 @@
+Thu, 14 Dec 2023 15:37:26 +0530
+### [Vantage | What India's vote for Gaza ceasefire is telling Israel](https://www.firstpost.com/opinion/vantage-what-indias-vote-for-gaza-ceasefire-is-telling-israel-13503292.html)
+
+Article found but Couldn't summarize 
+Vantage | What India's vote for Gaza ceasefire is telling Israel
+
+Thu, 14 Dec 2023 15:22:49 +0530
+### [India-US relationship: Alleged leaked memo, Congressional hearing and decoding intriguing dynamics in bilateral ties](https://www.firstpost.com/opinion/india-us-relationship-alleged-leaked-memo-congressional-hearing-and-decoding-intriguing-dynamics-in-bilateral-ties-13503492.html)
+
+The article discusses an alleged leaked memo signed by Foreign Secretary Vinay Kwatra, which instructs Indian consulates in North America to cooperate with Indian intelligence agencies on issues related to "Khalistani extremism." The article also covers a Congressional hearing on "transnational repression," where India was grouped with China and Iran in terms of nations accused of harassing and killing their nationals in other countries. The testimony during the hearing expressed concerns about India's activities on Canadian soil and mentioned a provision in the Arms Control Act that could potentially affect the transfer of weaponry to countries engaged in acts of intimidation or harassment on US soil. The article also describes a possible impact on India's relationship with the US, especially concerning the sale of drones and a maintenance facility. However, it emphasizes the significance of India in the eyes of the US, particularly in relation to national security. The writer expresses concerns about the escalating bad press against India in the US and the potential overlapping interests and complexities surrounding these issues.
+
+If you need more details about a particular aspect of the article, feel free to ask!
+
 Thu, 14 Dec 2023 14:29:18 +0530
 ### [Vantage | What Biden's cancelled visit to India could've achieved](https://www.firstpost.com/opinion/vantage-what-bidens-cancelled-visit-to-india-couldve-achieved-13503222.html)
 

@@ -1,3 +1,21 @@
+2023-12-14T15:45:01+05:30
+### [Bihar Caste Survey: The Who’s Who in the Data | Amaat](https://thewire.in/caste/bihar-caste-survey-the-whos-who-in-the-data-amaat)
+
+No Article text 
+Are Amaat people Brahmin or Rajpur? The jury is out.
+
+2023-12-14T15:43:22+05:30
+### ['What's the Difference Between an Occupation and a Government?': PDP on Kashmir](https://thewire.in/politics/whats-the-difference-between-an-occupation-and-a-government-pdp-on-kashmir)
+
+No Article text 
+"A government strives to empower and enrich, whereas an occupation's aim is to disempower, dispossess, and exploit."
+
+2023-12-14T14:59:19+05:30
+### [Art, Architecture and Design Biennale: The Fine Line Between Government Support and Politicisation](https://thewire.in/government/art-architecture-design-biennale-government-support-politicisation)
+
+No Article text 
+An official endorsement by the government of what constitutes Indian art and design is not just troubling from the standpoint of its content, but also for the fact that art should be so brazenly claimed by the government.
+
 2023-12-14T14:05:20+05:30
 ### [Why There Is Silence in Kashmir Over the Supreme Court's Verdict](https://thewire.in/rights/why-there-is-silence-in-kashmir-over-the-supreme-courts-verdict)
 

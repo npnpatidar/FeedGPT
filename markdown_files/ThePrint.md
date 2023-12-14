@@ -1,3 +1,117 @@
+Thu, 14 Dec 2023 10:02:02 +0000
+### [Nippon Paint India Announces Acquisition of VIBGYOR Paints and Chemicals](https://theprint.in/ani-press-releases/nippon-paint-india-announces-acquisition-of-vibgyor-paints-and-chemicals/1885783/)
+
+Nippon Paint, the leading paint and coatings company in Asia, has acquired VIBGYOR Paints and Chemicals Pondicherry, a major supplier of paints and coatings in South India. This strategic acquisition will allow Nippon Paint to strengthen its industrial coatings portfolio, particularly focusing on Indian Railways. VIBGYOR Paints and Chemicals Pondicherry will become a division of Nippon Paint India, leveraging its resources and reach for further growth and market leadership. Key members of the VIBGYOR team will join Nippon Paint as employees, ensuring a seamless transition and retention of valuable industry expertise.
+
+Thu, 14 Dec 2023 10:00:50 +0000
+### [Punjab girl sent to hospital after thrown on ground by elephant](https://theprint.in/india/punjab-girl-sent-to-hospital-after-thrown-on-ground-by-elephant/1885780/)
+
+A 10-year-old daughter of a laborer was injured after being thrown to the ground and lifted with its trunk by an elephant in Ludhiana. The incident occurred in Guru Har Rai Nagar of Salem Tabri locality. The girl, Luxmi, was rushed to a nearby hospital and her condition is stated to be critical. The police took the elephant and two mahouts into custody, and are determining whether they had a license to keep the animal. This information is sourced from a PTI news report.
+
+Thu, 14 Dec 2023 10:00:42 +0000
+### [‘Barbie’ director Greta Gerwig to head Cannes Film Festival jury](https://theprint.in/entertainment/barbie-director-greta-gerwig-to-head-cannes-film-festival-jury/1885779/)
+
+U.S. director Greta Gerwig has been named as the jury president for the 2024 Cannes Film Festival, making her the first female U.S. director to serve in this role. She will be taking over from Ruben Ostlund, the head of the 2023 jury. Greta Gerwig's movie "Barbie" has been a huge success, setting records and topping the list of nominees for Hollywood’s Golden Globe awards. The 77th Cannes Film Festival is scheduled to take place from May 14-25, with the official selection to be unveiled in mid-April.
+
+Thu, 14 Dec 2023 10:00:37 +0000
+### [Rajasthan: Congress fields Rupinder Singh Kunnar from Karanpur](https://theprint.in/india/rajasthan-congress-fields-rupinder-singh-kunnar-from-karanpur/1885777/)
+
+The Congress has declared Rupinder Singh Kunnar as its candidate for the adjourned poll to Karanpur assembly constituency in Rajasthan. The election was postponed due to the death of the Congress candidate and then MLA Gurmeet Singh Kooner, and the party has fielded his son this time. Former minister Surendrapal Singh TT is the BJP’s candidate. The last date of filing the nominations is December 19, with voting scheduled for January 5, 2024, and the counting of votes on January 8. There are a total of 249 polling stations, and there were over 2.40 lakh voters in the constituency.
+
+Thu, 14 Dec 2023 10:00:29 +0000
+### [India’s Nov Russian oil imports up 3% from Oct – trade](https://theprint.in/economy/indias-nov-russian-oil-imports-up-3-from-oct-trade/1885776/)
+
+Article found but Couldn't summarize 
+By Nidhi Verma NEW DELHI (Reuters) - India's Russian oil imports in November rose to a 4-month high of 1.6 million barrels per day (bpd), up 3.1% from October, making up about 36% of the nation's
+
+Thu, 14 Dec 2023 10:00:27 +0000
+### [Shiv Sena leader Ramesh Shewale meets PM Modi](https://theprint.in/india/shiv-sena-leader-ramesh-shewale-meets-pm-modi/1885775/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 14 (PTI) Shiv Sena&#8217;s leader in the Lok Sabha Rahul Shewale met Prime Minister Narendra Modi on Thursday and assured him of ensuring the implementation of the Dharavi redevelopment project. Shewale met the prime minister along with his wife, Kamini, and two sons &#8212; Swayam and Vedant. &#8220;I assured the prime minister [&#8230;]
+
+Thu, 14 Dec 2023 10:00:15 +0000
+### [Speaker holds all-party meeting ahead of J’khand assembly winter session](https://theprint.in/india/speaker-holds-all-party-meeting-ahead-of-jkhand-assembly-winter-session-2/1885773/)
+
+Article found but Couldn't summarize 
+Ranchi, Dec 14 (PTI) Jharkhand assembly speaker Rabindra Nath Mahto on Thursday held an all-party meeting to discuss the smooth functioning of the House during the winter session beginning Friday. The five-day session will conclude on December 21. Chief Minister Hemant Soren, Parliamentary Affairs Minister Alamgir Alam, Leader of Opposition Amar Bauri, Minister Satyanand Bhokta, [&#8230;]
+
+Thu, 14 Dec 2023 10:00:14 +0000
+### [Quotes: Highlights from Vladimir Putin’s annual press conference](https://theprint.in/world/quotes-highlights-from-vladimir-putins-annual-press-conference/1885772/)
+
+Article found but Couldn't summarize 
+MOSCOW (Reuters) - Here are some highlights from Russian President Vladimir Putin's annual press conference and phone-in held in Moscow on Thursday: ON THE CONFLICT IN UKRAINE "There will be peace
+
+Thu, 14 Dec 2023 10:00:03 +0000
+### [Russian court extends pre-trial detention for WSJ reporter Gershkovich -Ifax](https://theprint.in/world/russian-court-extends-pre-trial-detention-for-wsj-reporter-gershkovich-ifax/1885770/)
+
+Article found but Couldn't summarize 
+MOSCOW (Reuters) - A Moscow сourt ruled on Thursday that Wall Street Journal reporter Evan Gershkovich must remain in custody until Jan. 30, 2024. Gershkovich was arrested on March 29 in the Urals
+
+Thu, 14 Dec 2023 10:00:03 +0000
+### [BSF jawan killed in blast triggered by Naxalites in Chhattisgarh’s Kanker district](https://theprint.in/india/bsf-jawan-killed-in-blast-triggered-by-naxalites-in-chhattisgarhs-kanker-district-2/1885769/)
+
+Article found but Couldn't summarize 
+Kanker, Dec 14 (PTI) A jawan of the Border Security Force was killed in a blast triggered by Naxalites in Chhattisgarh’s Kanker district on Thursday, the second such death in two days, the police said. The incident occurred near Sadaktola village under Partapur police station limits when a joint team of the BSF and district [&#8230;]
+
+Thu, 14 Dec 2023 09:47:02 +0000
+### [Nexteer achieves global production milestone of 100 million electric power steering systems](https://theprint.in/ani-press-releases/nexteer-achieves-global-production-milestone-of-100-million-electric-power-steering-systems/1885765/)
+
+Article found but Couldn't summarize 
+PRNewswire Auburn Hills (Michigan) [US], December 14: Today, Nexteer Automotive announced its global production milestone of 100 million electric power steering (EPS) systems &#8211; a key technology enabling fuel efficiency and advanced safety and performance. Nexteer is a global leader of EPS &#8211; serving more than 60 customers around the world. &#8220;Nexteer&#8217;s EPS systems provide [&#8230;]
+
+Thu, 14 Dec 2023 09:46:00 +0000
+### [Mother-in-law held in connection with woman’s death in Kerala](https://theprint.in/india/mother-in-law-held-in-connection-with-womans-death-in-kerala/1885763/)
+
+Article found but Couldn't summarize 
+Kozhikode (Ker), Dec 14 (PTI) A woman was arrested in connection with the alleged death by suicide of her daughter-in-law who was found hanging in their house in this north Kerala district recently, police said on Thursday. Thirty-year-old Shabna, wife of Habeeb, allegedly took the extreme step following a physical assault from her husband&#8217;s relatives. [&#8230;]
+
+Thu, 14 Dec 2023 09:45:54 +0000
+### [Oil rises on U.S. inventory draw, dollar weakness](https://theprint.in/economy/oil-rises-on-u-s-inventory-draw-dollar-weakness/1885762/)
+
+Article found but Couldn't summarize 
+By Dmitry Zhdannikov and Trixie Yap LONDON (Reuters) - Oil prices rose on Thursday, extending the previous session's gains, on a bigger-than-expected weekly withdrawal from U.S. crude storage and a
+
+Thu, 14 Dec 2023 09:45:49 +0000
+### [Speaker holds all-party meeting ahead of J’khand assembly winter session](https://theprint.in/india/speaker-holds-all-party-meeting-ahead-of-jkhand-assembly-winter-session/1885760/)
+
+As GPT-3.5, I can provide a summary of the article you shared. The article discusses an all-party meeting held by the Jharkhand assembly speaker to ensure the smooth functioning of the House during the upcoming winter session. The session will last for five days and conclude on December 21. The meeting was attended by Chief Minister Hemant Soren, Parliamentary Affairs Minister Alamgir Alam, Leader of Opposition Amar Bauri, Minister Satyanand Bhokta, AJSU Party leader Lambodar Mahto, and CPI(ML) Liberation legislator Vinod Singh. The speaker emphasized the responsibility of both the ruling and opposition parties to run the House smoothly and expressed hope for meaningful discussions on issues of public interest. Chief Minister Hemant Soren stated that the government will address all questions raised in the House, while Amar Bauri, the leader of the opposition, mentioned that they will raise issues such as corruption, law and order, and problems faced by students and youths. The article also mentions the seizure of a large amount of cash linked to a Congress MP and the intention to raise the issue of rising murder cases in Jharkhand. Please note that this summary is generated by GPT-3.5 and may not include all the details of the original article.
+
+Thu, 14 Dec 2023 09:45:45 +0000
+### [Dollar hits four-month low as Fed signals 2024 rate cuts, NOK stronger after rate hike](https://theprint.in/economy/dollar-hits-four-month-low-as-fed-signals-2024-rate-cuts-nok-stronger-after-rate-hike/1885759/)
+
+Article found but Couldn't summarize 
+By Samuel Indyk and Brigid Riley LONDON (Reuters) - The dollar dropped to a fresh four-month low on Thursday after the Federal Reserve indicated that its interest-rate hike cycle has ended and that
+
+Thu, 14 Dec 2023 09:45:38 +0000
+### [Bodies of 64 victims of Manipur ethnic violence handed over to kin](https://theprint.in/india/bodies-of-64-victims-of-manipur-ethnic-violence-handed-over-to-kin/1885757/)
+
+Article found but Couldn't summarize 
+Imphal, Dec 14 (PTI) A total of 64 bodies of victims from the Kuki and Meitei communities, lying in morgues of Manipur since ethnic clashes broke out in the state in May, were handed over to their family members under tight security, officials said here on Thursday. The bodies of 60 members of the Kuki [&#8230;]
+
+Thu, 14 Dec 2023 09:45:33 +0000
+### [Senegal court orders opposition leader Sonko to be reinstated on electoral list](https://theprint.in/world/senegal-court-orders-opposition-leader-sonko-to-be-reinstated-on-electoral-list/1885756/)
+
+Article found but Couldn't summarize 
+DAKAR (Reuters) - A Senegal court has ordered jailed opposition leader Ousmane Sonko to be reinstated on the electoral register, a ruling that could pave the way for him to run in a February
+
+Thu, 14 Dec 2023 09:45:26 +0000
+### [Jarange claims govt has changed statements on Maratha quota issue; to hold meeting on Dec 17](https://theprint.in/india/jarange-claims-govt-has-changed-statements-on-maratha-quota-issue-to-hold-meeting-on-dec-17/1885755/)
+
+Article found but Couldn't summarize 
+Chhatrapati Sambhajinagar, Dec 14 (PTI) Activist Manoj Jarange on Thursday claimed the government has change its statements on the Maratha quota issue and hence he along with other members of the community will hold a meeting on December 17 to decide on how to take their agitation forward. Jarange had set December 24 as the [&#8230;]
+
+Thu, 14 Dec 2023 09:45:25 +0000
+### [Denmark makes arrests on suspicion of attack preparations](https://theprint.in/world/denmark-makes-arrests-on-suspicion-of-attack-preparations/1885754/)
+
+Article found but Couldn't summarize 
+COPENHAGEN (Reuters) - Copenhagen police and the Danish Security and Intelligence Service (PET) said on Thursday they had made several arrests in a coordinated action across the country on suspicion
+
+Thu, 14 Dec 2023 09:45:15 +0000
+### [Shreyas Iyer returns to KKR captaincy, Rana named his deputy](https://theprint.in/sport/shreyas-iyer-returns-to-kkr-captaincy-rana-named-his-deputy/1885752/)
+
+As GPT-3.5, I can summarize the article for you. Shreyas Iyer, an Indian middle-order batter, will lead the Kolkata Knight Riders in the IPL 2024 season. He missed the previous season due to a back injury and underwent surgery. Nitish Rana served as the captain in his absence. Shreyas made a comeback in the Asia Cup and performed well in the home series against Australia. He scored a hundred in Mohali. In the recently-concluded World Cup, he scored 530 runs in 11 innings. Shreyas expressed his appreciation for Nitish's leadership and is glad that he has been named Vice-Captain. This information is from a report by PTI news service.
+
 Thu, 14 Dec 2023 09:02:02 +0000
 ### [Israeli Prime Minister Netanyahu to meet US National Security Adviser](https://theprint.in/world/israeli-prime-minister-netanyahu-to-meet-us-national-security-adviser/1885699/)
 
