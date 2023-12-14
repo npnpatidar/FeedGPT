@@ -1,3 +1,9 @@
+Thu, 14 Dec 2023 16:10:25 +0530
+### [Why Washington Post, Intercept are openly pushing anti-India propaganda](https://www.firstpost.com/opinion/why-washington-post-intercept-are-openly-pushing-anti-india-propaganda-13503442.html)
+
+Article found but Couldn't summarize 
+Why Washington Post, Intercept are openly pushing anti-India propaganda
+
 Thu, 14 Dec 2023 15:37:26 +0530
 ### [Vantage | What India's vote for Gaza ceasefire is telling Israel](https://www.firstpost.com/opinion/vantage-what-indias-vote-for-gaza-ceasefire-is-telling-israel-13503292.html)
 

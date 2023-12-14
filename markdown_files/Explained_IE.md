@@ -1,3 +1,8 @@
+Thu, 14 Dec 2023 10:38:35 +0000
+### [Allahabad HC allows survey of Mathura Idgah: What is this plea in the Sri Krishna Janmabhoomi case](https://indianexpress.com/article/explained/explained-law/allahabad-hc-mathura-idgah-sri-krishna-janmabhoomi-case-9068278/)
+
+The Allahabad High Court has allowed an application to appoint a commission to inspect the Shahi Idgah mosque complex in Mathura, India, as part of a dispute between Hindu petitioners and the UP Sunni Central Waqf Board and the Shahi Idgah mosque committee. The Hindu petitioners seek the removal of the construction on the land in dispute and its handover to the Shree Krishna Janmbhoomi Trust. The dispute revolves around the location of the Shahi Idgah mosque, believed to have been built on the place where Lord Krishna was born. The complex history of the land includes the mosque being built by Emperor Aurangzeb in 1670 on the site of an earlier temple, and subsequent ownership changes and legal actions. The Allahabad High Court has consolidated multiple suits related to this dispute.
+
 Thu, 14 Dec 2023 07:09:20 +0000
 ### [Innovation or safety? How Delhi declaration found middle path between promotion and regulation of AI](https://indianexpress.com/article/explained/explained-sci-tech/delhi-declaration-gpai-regulation-ai-explained-9067865/)
 

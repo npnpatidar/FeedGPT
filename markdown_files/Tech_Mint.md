@@ -1,3 +1,8 @@
+Thu, 14 Dec 2023 16:07:54 +0530
+### [10 best CCTV cameras under  ₹1,000: Secure your home with security solutions](https://www.livemint.com/technology/gadgets/10-best-cctv-cameras-under-rs-1-000-secure-your-home-with-security-solutions-11702536614635.html)
+
+The article is a comprehensive guide to finding the best CCTV camera under ₹1,000. It highlights various CCTV cameras with their features and specifications, focusing on affordability and efficient surveillance. It also provides a summary of the best value for money and overall product, along with a guide on how to find the best CCTV camera under ₹1,000 and frequently asked questions. The article emphasizes prioritizing high-resolution video, night vision capability, connectivity options like Wi-Fi, and additional features like motion detection and weather resistance when choosing a CCTV camera. It also alerts readers that Livemint has an affiliate partnership, and may get a part of the revenue when a purchase is made.
+
 Thu, 14 Dec 2023 15:37:16 +0530
 ### [Realme C67 5G launched in India with MediaTek Dimensity 6100+ SoC: Check price, specifications](https://www.livemint.com/technology/realme-c67-5g-launched-in-india-with-mediatek-dimensity-6100-soc-check-price-specifications-11702548127189.html)
 

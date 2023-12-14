@@ -1,3 +1,8 @@
+Thu, 14 Dec 2023 16:02:41 +0530
+### [Trump is selling pieces of the suit he wore during arrest for $5,000. Who is buying?](https://www.firstpost.com/explainers/trump-is-selling-pieces-of-the-suit-he-wore-during-arrest-for-5000-who-is-buying-13502682.html)
+
+Former US President Donald Trump is selling pieces of the suit he wore in his mugshot after being arrested in August 2023. He is offering 2,024 pieces of the suit, each obtainable by purchasing 47 NFT digital trading cards at $99 each. Some cards come with autographs, and one piece of the suit will be given to those who purchase 47 digital cards. There is also an offer for 200 limited-edition $9,900 "VIP Tickets" for a dinner at Mar-a-Lago, which can be obtained by purchasing 100 cards at once and paying with cryptocurrencies. However, potential buyers should exercise caution, as there is a disclaimer stating that buyers may receive a limited edition Trump NFT instead of the physical suit in the event of any manufacturing, production, or delivery issues. Trump has also previously sold sets of cards, making millions of dollars from the sales.
+
 Thu, 14 Dec 2023 14:29:07 +0530
 ### [How the kickback scandal in Japan is stirring trouble for PM Fumio Kishida](https://www.firstpost.com/explainers/how-the-kickback-scandal-in-japan-is-stirring-trouble-for-pm-fumio-kishida-13503372.html)
 

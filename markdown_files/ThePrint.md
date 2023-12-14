@@ -1,3 +1,114 @@
+Thu, 14 Dec 2023 11:13:04 +0000
+### [Days after China-Philippines skirmish in South China Sea, Indian warship at Manila to bolster ties](https://theprint.in/defence/days-after-china-philippines-skirmish-in-south-china-sea-indian-warship-at-manila-to-bolster-ties/1885785/)
+
+The Indian naval ship INS Kadmatt visited the Philippines as part of ongoing Long Range Op Deployment in the South China Sea. The visit aimed to bolster maritime cooperation between India and the Philippines. The MoD mentioned a wide range of engagements planned during the port call, including professional interactions, Subject Matter Expert Exchange, and cross deck visits. There were also plans for a Maritime Partnership Exercise between INS Kadmatt and a vessel of the Philippine Navy following the visit. This comes in the context of recent maritime confrontations between the Chinese and Filipino navies in the disputed South China Sea, including allegations of harassment and dangerous maneuvers by Chinese vessels.
+
+Thu, 14 Dec 2023 11:08:18 +0000
+### [Woman dies 6 days after ‘accidentally’ being shot at Aligarh police station, sub-inspector on the run](https://theprint.in/india/woman-dies-6-days-after-accidentally-being-shot-at-aligarh-police-station-sub-inspector-on-the-run/1885746/)
+
+Article found but Couldn't summarize 
+Deceased Ishrat Nigar's son claims the shooting wasn't an accident &#038; that sub-inspector Manoj Sharma shot her in the head after an altercation over her passport verification.
+
+Thu, 14 Dec 2023 11:02:13 +0000
+### [Nitin Gadkari Inaugurates GICA 2023 and felicitates 24 distinguished Global Indians](https://theprint.in/ani-press-releases/nitin-gadkari-inaugurates-gica-2023-and-felicitates-24-distinguished-global-indians/1885906/)
+
+The Global Indians Conclave and Awards (GICA) 2023 began with an inauguration by Nitin Gadkari, Minister of Road Transport and Highways of India. The event, organized by the "I am Still Human" NGO, aimed to acknowledge and honor Global Indians for their remarkable achievements and foster insightful discussions to inspire and enlighten individuals globally. The Chief Guest, Nitin Gadkari, felicitated 24 distinguished individuals from various fields and emphasized the importance of working tirelessly for the nation's development and road safety. The conclave also featured engaging panel discussions on crucial topics such as infrastructure and sustainability, the modern age of information and media, and the future of entrepreneurship. Co-organizers Vivek Mehra and Bhavpreet Singh highlighted the platform's aim to honor those Indians whose contributions have made a significant impact on a global scale and to drive positive change globally through insightful discussions. The event successfully recognized achievements of Global Indians, fostering discussions, and promoting a collective vision for a better, more inclusive future for Indians worldwide.
+
+(ADVERTORIAL DISCLAIMER: The above press release has been provided by PNN. ThePrint holds no responsibility for its content.)
+
+Thu, 14 Dec 2023 11:02:02 +0000
+### [Fab Invest Launches its First Real Estate Investment Opportunity that yields 18 per cent ROI & comes with 1.75x collateral](https://theprint.in/ani-press-releases/fab-invest-launches-its-first-real-estate-investment-opportunity-that-yields-18-per-cent-roi-comes-with-1-75x-collateral/1885904/)
+
+Fab Invest is a real estate investment platform that allows small and mid-scale investors to participate in top-tier real estate projects as Micro Investors or Investment Partners. The platform offers a unique model where every rupee invested is backed by a real estate property worth 1.75 times the investment, providing a safety net for investors. The founder, Dr. Ravi Teja, emphasizes the need for alternative investments due to low returns on traditional options like fixed deposits. Fab Invest provides an opportunity for smaller investors to participate in real estate projects through fractionalized big-ticket investments, with every rupee collateralized by real estate property valued at 1.5-2 times the investment amount. The platform is poised to offer a remarkable 18% annual return backed by 1.75x real estate collateral, and their first investment opportunity has received significant support. For more information, you can visit www.fabinvest.in.
+
+Thu, 14 Dec 2023 11:00:51 +0000
+### [Putin casts shadow over Russian participation at 2024 Olympics](https://theprint.in/sport/putin-casts-shadow-over-russian-participation-at-2024-olympics/1885901/)
+
+Article found but Couldn't summarize 
+MOSCOW (Reuters) -President Vladimir Putin said on Thursday he supported Russians competing at the 2024 Paris Summer Olympics but that the country should ponder whether it should compete if the event
+
+Thu, 14 Dec 2023 11:00:43 +0000
+### [Snow leopard spotted again in Darma valley](https://theprint.in/india/snow-leopard-spotted-again-in-darma-valley/1885900/)
+
+Article found but Couldn't summarize 
+Pithoragarh (U&#8217;khand), Dec 14 (PTI) A snow leopard was spotted recently in Bongling village for the second consecutive year confirming its presence in Darma valley. &#8220;An ITBP patrol party two days ago informed us about the viewing of a snow leopard in Bongling village located at a height of 3,200 metres from the sea level. [&#8230;]
+
+Thu, 14 Dec 2023 11:00:30 +0000
+### [UP: Man, woman commit suicide by jumping in front of vehicles on Purvanchal Expressway](https://theprint.in/india/up-man-woman-commit-suicide-by-jumping-in-front-of-vehicles-on-purvanchal-expressway/1885898/)
+
+Two individuals, a man and a woman, allegedly committed suicide by jumping in front of a car and a truck within 11 minutes on the Purvanchal Expressway in Barabanki (UP). Additional Superintendent of Police (ASP) Akhilesh Narayan Singh stated that the woman jumped before a speeding car at 11:57 pm on Wednesday, and a few minutes later, the man jumped before a speeding truck at the same spot at 12:08 am. The police believe the duo knew each other and were romantically involved. The deceased man has been identified as 30-year-old Suresh Kumar Rawat of Kalyanpur village, while the woman’s identity is yet to be ascertained. The bodies have been sent for post-mortem.
+
+Thu, 14 Dec 2023 11:00:29 +0000
+### [China says it facilitated Myanmar military’s talks with rebel groups](https://theprint.in/world/china-says-it-facilitated-myanmar-militarys-talks-with-rebel-groups/1885897/)
+
+Article found but Couldn't summarize 
+BEIJING (Reuters) - China facilitated Myanmar's ruling military's peace talks with rebel groups, and the parties reached an agreement on a temporary ceasefire and the maintenance of dialogue, the
+
+Thu, 14 Dec 2023 11:00:20 +0000
+### [Role of Islam in Turkish education fuels secularist fears](https://theprint.in/world/role-of-islam-in-turkish-education-fuels-secularist-fears/1885895/)
+
+Turkey's steps to promote traditional moral values in students, increase Islamic lessons and open prayer rooms in schools are fuelling concerns on the role of religion in education. President Erdogan and his AK Party have introduced measures reshaping Turkey according to conservative Islamic beliefs, opening many Islamic “Imam Hatip” schools and implementing additional religion and morality classes in the regular school system. Secularist opposition parties, unions, and parents are critical of the encroachment of Islam in schools, sparking tensions and dividing opinions on the issue. The measures have also sparked protests and legal challenges, with critics accusing the government of promoting the values of a particular religion.
+
+Thu, 14 Dec 2023 11:00:19 +0000
+### [TMC condemns suspension of Derek O’Brien, calls for Amit Shah’s resignation](https://theprint.in/india/tmc-condemns-suspension-of-derek-obrien-calls-for-amit-shahs-resignation/1885894/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 14 (PTI) The Trinamool Congress (TMC) on Thursday criticised the BJP-led central government for suspending its Rajya Sabha MP Derek O&#8217;Brien and called for the immediate resignation of Union Home Minister Amit Shah for the Parliament security breach. The TMC accused the government of failing to ensure the safety of Parliament while actively [&#8230;]
+
+Thu, 14 Dec 2023 11:00:06 +0000
+### [Pope calls for binding global treaty on artificial intelligence](https://theprint.in/world/pope-calls-for-binding-global-treaty-on-artificial-intelligence/1885891/)
+
+Article found but Couldn't summarize 
+ROME (Reuters) - Pope Francis called on Thursday for a legally binding international treaty to regulate artificial intelligence. The pope made his call in a message for the Roman Catholic Church's
+
+Thu, 14 Dec 2023 11:00:03 +0000
+### [Parliament security breach: 4 accused charged under stringent anti-terror law; hunt on to nab key man](https://theprint.in/india/parliament-security-breach-4-accused-charged-under-stringent-anti-terror-law-hunt-on-to-nab-key-man/1885890/)
+
+Summary: Four individuals have been arrested and charged under the anti-terror law UAPA in connection with a security breach at the Indian Parliament. They are also facing charges under the Indian Penal Code. They are suspected of being part of a well-coordinated and meticulously planned security breach. The article details the actions of the accused, their motivations, and the measures taken by security personnel. Raids are being conducted to arrest the main conspirator, and the police are investigating the involvement of two organizations in the breach.
+
+Thu, 14 Dec 2023 10:59:18 +0000
+### [‘Crony capitalism’, Covid: Parliament breach suspect had many a gripe with govt, his FB page shows](https://theprint.in/india/crony-capitalism-covid-parliament-breach-suspect-had-many-a-gripe-with-govt-his-fb-page-shows/1885712/)
+
+Article found but Couldn't summarize 
+Sagar Sharma of Lucknow appears to be a follower of Che Guevara and Bhagat Singh. He is one of the six suspects allegedly involved in Wednesday's Parliament security breach.
+
+Thu, 14 Dec 2023 10:47:30 +0000
+### [Bullish surge: Stock markets rally as Federal Reserve signals rate cuts](https://theprint.in/economy/bullish-surge-stock-markets-rally-as-federal-reserve-signals-rate-cuts/1885884/)
+
+The stock market in Mumbai displayed a significant uptrend following the US Federal Reserve's positive signals. The Nifty reached an all-time high of 21,210, reflecting the positive market momentum. The Sensex also recorded an upswing, gaining 944.12 points to close at 70,528.73. The market received this news well, with small and mid-cap stocks available at attractive discounts, prompting investors to capitalize on the opportunity. While the market outlook for sectors such as petrochemicals, IT, FMCG, media, metals, and banking remains positive, caution is advised for the short term, and employing trailing stop losses is recommended. The Federal Reserve's projection of three rate cuts in 2024, the fall in oil prices, and persistent FIIs buying interest are contributing to the bullish market sentiment. Despite the robust bullish momentum, indicators suggest a need for prudence in the short term. It is anticipated that the market will achieve the suggested target of 21,234-21,410 in the medium term, with a short-term resistance anticipated around 21,500.
+
+Thu, 14 Dec 2023 10:47:16 +0000
+### [Hostkicker Takes Over Serverbyt to Unleash a New Era of Hosting: Accessible, Affordable, and Available for Everyone](https://theprint.in/ani-press-releases/hostkicker-takes-over-serverbyt-to-unleash-a-new-era-of-hosting-accessible-affordable-and-available-for-everyone/1885882/)
+
+Hostkicker, a renowned hosting firm, has taken over Serverbyt to enhance hosting standards, customer experiences, and accessibility to hosting services. The merger focuses on making hosting accessible, affordable, and available for everyone. As part of their mission, Hostkicker is offering free web hosting for students, aiming to empower them and contribute meaningfully to the online world. The acquisition of Serverbyt aims to redefine the hosting industry, offering unparalleled accessibility and affordability to individuals, businesses, and visionaries with an online presence. Hostkicker's future vision is to introduce a paradigm shift in the hosting landscape, providing robust and unwavering services without compromising affordability and empowering consumers with seamless, customer-centric technologies.
+
+Thu, 14 Dec 2023 10:47:01 +0000
+### [Seize Opportunities with Flexible Business Loans Available on Bajaj Markets](https://theprint.in/ani-press-releases/seize-opportunities-with-flexible-business-loans-available-on-bajaj-markets/1885880/)
+
+Article found but Couldn't summarize 
+BusinessWire India Pune (Maharashtra) [India], December 14: Bajaj Markets, a subsidiary of Bajaj Finserv, empowers entrepreneurs to upscale their enterprises with the help of business loans. Individuals can secure high loan amounts of up to Rs 50 Lakhs at interest rates starting as low as 12 per cent p.a. These collateral-free business loans can be [&#8230;]
+
+Thu, 14 Dec 2023 10:46:57 +0000
+### [Parliament Security Breach: Timeline](https://theprint.in/india/parliament-security-breach-timeline/1885879/)
+
+Article found but Couldn't summarize 
+Timeline of the parliament security breach &#8212; In 2022, Lalit Jha, Sagar Sharma, 26, and Maoranjan D, 34, met in Mysuru where they made a plan to barge into the parliament to attract the attention of the country. Later Neelam, 37, and Amol, 25, joined the plan. &#8212; The five joined a Bhagat Singh fan [&#8230;]
+
+Thu, 14 Dec 2023 10:46:31 +0000
+### [Woman shot by police officer dies during treatment in UP’s Aligarh](https://theprint.in/india/woman-shot-by-police-officer-dies-during-treatment-in-ups-aligarh/1885878/)
+
+A 55-year-old woman, Ishrat Nigar, was shot in the head by a police officer, Sub-Inspector Manoj Sharma, on December 8th and later succumbed to her injuries at Jawaharlal Nehru Medical College and Hospital. The officer is currently absconding, and a non-bailable warrant has been issued for his arrest, with a reward of Rs 20,000 announced. CCTV footage of the incident shows the officer accidentally firing his pistol, striking the woman. Please note that this summary was auto-generated from a news report by PTI and ThePrint holds no responsibility for its content.
+
+Thu, 14 Dec 2023 10:45:57 +0000
+### [One killed in Russian drone and missile attack on southern Ukraine – Kyiv](https://theprint.in/world/one-killed-in-russian-drone-and-missile-attack-on-southern-ukraine-kyiv/1885876/)
+
+As GPT-3.5, I can provide a summary of the article you shared. According to Ukrainian officials, Russia launched 42 drones and six missiles at regions in southern Ukraine overnight. This resulted in the death of one civilian and damage to grain warehouses near the River Danube. The attack included a missile strike on the Kherson region, which destroyed a medical facility, a private house, and a garage. Ukraine's air force reported that they were able to shoot down 41 of the 42 attack drones. The majority of the drones were shot down in the Odesa region. The downed drones caused damage to buildings in the city of Odesa and injured 11 civilians. The drones also damaged warehouses in the Danube area, which contained grain. Russia has been conducting nightly attacks with drones and missiles as part of its full-scale invasion of Ukraine. It's important to note that Reuters could not independently verify the latest reports, and there has been no immediate comment from Russia.
+
+Thu, 14 Dec 2023 10:45:56 +0000
+### [SC extends interim bail granted to AAP leader Satyendar Jain till Jan 8](https://theprint.in/india/sc-extends-interim-bail-granted-to-aap-leader-satyendar-jain-till-jan-8/1885875/)
+
+The Supreme Court has extended the interim bail granted to former Delhi minister Satyendar Kumar Jain in a money laundering case until January 8. This extension was granted in response to Jain's petition challenging the Delhi High Court's order dismissing his bail application. Jain is on interim bail for health reasons, as he suffered a leg fracture on December 9. The Enforcement Directorate (ED) is probing the case, and the court has refrained from expressing an opinion on the case's merits while extending the interim bail.
+
 Thu, 14 Dec 2023 10:02:02 +0000
 ### [Nippon Paint India Announces Acquisition of VIBGYOR Paints and Chemicals](https://theprint.in/ani-press-releases/nippon-paint-india-announces-acquisition-of-vibgyor-paints-and-chemicals/1885783/)
 

@@ -1,3 +1,9 @@
+2023-12-14T16:45:16+05:30
+### [Krishna Janmabhoomi Case: Allahabad HC Orders Survey of Shahi Idgah Mosque in Mathura](https://thewire.in/law/krishna-janmabhoomi-case-allahabad-hc-orders-survey-of-shahi-idgah-mosque-in-mathura)
+
+No Article text 
+The survey of the 17th-century mosque is to ascertain the claims being made by Hindutva groups that the mosque was built adjacent to the Krishna Janmasthal (believed to be the birthplace of Lord Krishna) after demolishing Katra Keshav Dev Temple.
+
 2023-12-14T15:45:01+05:30
 ### [Bihar Caste Survey: The Who’s Who in the Data | Amaat](https://thewire.in/caste/bihar-caste-survey-the-whos-who-in-the-data-amaat)
 
