@@ -1,3 +1,114 @@
+Thu, 14 Dec 2023 15:02:36 +0000
+### [Pakistan top court says trials of civilians by military courts in May 9 riots cases will continue](https://theprint.in/world/pakistan-top-court-says-trials-of-civilians-by-military-courts-in-may-9-riots-cases-will-continue/1886383/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 14 (ANI): Pakistan Supreme Court postponed on Wednesday its unanimous decision from October 23 to annul the military courts&#8217; ability to try civilians concerning the May 9 riots, according to The Nation. The Nation is an English-language daily based in Lahore. A six-member bench with a 5-1 majority decided to uphold the [&#8230;]
+
+Thu, 14 Dec 2023 15:02:19 +0000
+### [Israeli FM applauds Swiss move to cut UNWRA funding](https://theprint.in/world/israeli-fm-applauds-swiss-move-to-cut-unwra-funding/1886381/)
+
+The Swiss Parliament has voted to end USD 21 million in funding for the United Nations Relief and Works Agency for Palestine Refugees (UNRWA). Israel's Foreign Minister Eli Cohen applauded this decision, stating that UNRWA "glorified" terrorism against Israel and worsened the lives of Gaza residents. In response, UNRWA's Commissioner-General, Philippe Lazzarini, expressed disheartenment and hopes the Swiss Senate will overturn the decision. Cohen criticized UNRWA for educating incitement to terrorism and ignoring Hamas's use of Gaza residents as human shields.
+
+Thu, 14 Dec 2023 15:02:02 +0000
+### [Nepal: Man held for trying to slap former PM KP Oli during campaign](https://theprint.in/world/nepal-man-held-for-trying-to-slap-former-pm-kp-oli-during-campaign/1886379/)
+
+Article found but Couldn't summarize 
+Kathmandu [Nepal], December 14 (ANI): A person attempted to physically assault Nepal&#8217;s former Prime Minister and Opposition CPN-UML Chair KP Sharma Oli during a popularity campaign in the Dhankuta district of eastern Nepal. The assailant, identified as Mahesh Rai by the local police, attempted to slap Oli while he was being greeted and offered flowers [&#8230;]
+
+Thu, 14 Dec 2023 15:01:24 +0000
+### [Kolkata: Grandparents arrested for selling newborn for Rs 30,000](https://theprint.in/india/kolkata-grandparents-arrested-for-selling-newborn-for-rs-30000/1886378/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 14 (PTI) A couple was arrested by the Kolkata Police for allegedly selling their newborn granddaughter for Rs 30,000, officials said on Thursday. The 23-day-old baby was rescued from Narendrapur in South 24 Parganas district, while the couple was arrested from Gaya in Bihar where they fled to after selling her, they said. [&#8230;]
+
+Thu, 14 Dec 2023 15:01:12 +0000
+### [Rupee recovers 10 paise against US dollar as rate hike fear eases](https://theprint.in/economy/rupee-recovers-10-paise-against-us-dollar-as-rate-hike-fear-eases/1886377/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 14 (PTI) The rupee recovered from all-time lows to close at 83.30 against the US dollar on Thursday, gaining 10 paise as the greenback weakened in the overseas markets following signals that rate hikes by the US Federal Reserve were over. A stellar rally in domestic equities fuelled by foreign fund inflows also [&#8230;]
+
+Thu, 14 Dec 2023 15:00:59 +0000
+### [TN CM bats for 3-month moratorium on repayment of loans by borrowers in flood-hit regions](https://theprint.in/india/tn-cm-bats-for-3-month-moratorium-on-repayment-of-loans-by-borrowers-in-flood-hit-regions/1886376/)
+
+Article found but Couldn't summarize 
+Chennai, Dec 14 (PTI) Tamil Nadu Chief Minister M K Stalin on Thursday urged the Centre to direct banks to provide borrowers including MSMEs and traders in cyclone Michaung affected northern districts of Tamil Nadu, a three-month moratorium on the repayment of their loans. The livelihood of about 37 lakh families in Chennai, Chengelpet, Kancheepuram [&#8230;]
+
+Thu, 14 Dec 2023 15:00:50 +0000
+### [Pak asks Afghanistan’s Taliban govt to hand over those involved in deadly attack on army post](https://theprint.in/world/pak-asks-afghanistans-taliban-govt-to-hand-over-those-involved-in-deadly-attack-on-army-post/1886375/)
+
+The article discusses Pakistan's request to Afghanistan's Taliban government to hand over those responsible for an attack on an army post that resulted in the deaths of about two dozen soldiers. The attack was carried out by six terrorists linked to Tehrik-e-Jihad Pakistan (TJP) who rammed an explosive-laden truck into a security post in Dera Ismail Khan. Pakistan has demanded that Afghanistan take strong actions against the perpetrators and prevent the use of Afghan soil by terrorist entities against Pakistan. Pakistan also expects Afghanistan to take concrete and verifiable steps to prevent the use of its soil by terrorist entities against Pakistan. Additionally, the article mentions that Pakistan strongly denies reports or speculation of any talks taking place between Pakistan and TTP (Tehreek-e-Taliban Pakistan).
+
+Thu, 14 Dec 2023 15:00:37 +0000
+### [Speaker guardian of House, govt will follow his directives: Pralhad Joshi on security breach](https://theprint.in/india/speaker-guardian-of-house-govt-will-follow-his-directives-pralhad-joshi-on-security-breach/1886374/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 14 (PTI) The government on Thursday all but rejected the opposition&#8217;s demand for a statement from its top functionary on the Parliament security breach issue, saying the speaker is the guardian of the House and it will follow his directives. Parliamentary Affairs Minister Pralhad Joshi said the government does not have the [&#8230;]
+
+Thu, 14 Dec 2023 15:00:27 +0000
+### [Exclusive-Argentina poised to get CAF loan for $913 million IMF payment -sources](https://theprint.in/world/exclusive-argentina-poised-to-get-caf-loan-for-913-million-imf-payment-sources/1886372/)
+
+Article found but Couldn't summarize 
+By Jorgelina do Rosario BUENOS AIRES (Reuters) - Argentina is set to receive financing from the Development Bank of Latin America and the Caribbean (CAF) to make a $913 million payment due to the
+
+Thu, 14 Dec 2023 15:00:25 +0000
+### [SLC appoints Sanath Jayasuriya as Cricket Consultant for one year](https://theprint.in/sport/slc-appoints-sanath-jayasuriya-as-cricket-consultant-for-one-year/1886370/)
+
+Sri Lanka Cricket has appointed former opener Sanath Jayasuriya as the full-time Cricket Consultant for one year. In this role, Jayasuriya will be responsible for ensuring the professionalism of SLC national programs and monitoring the players and coaching staff to deliver excellence. He will oversee training, coaching requirements, establish national specialist skills programs, and work from the High-Performance Center at the Premadasa Stadium in Colombo. Sri Lanka is aiming to improve their cricketing performance after finishing ninth in the recent ODI World Cup.
+
+Thu, 14 Dec 2023 15:00:16 +0000
+### [Palestinian keffiyeh scarves – a controversial symbol of solidarity](https://theprint.in/world/palestinian-keffiyeh-scarves-a-controversial-symbol-of-solidarity/1886369/)
+
+Article found but Couldn't summarize 
+By Riham Alkousaa and Layli Foroudi BERLIN/PARIS (Reuters) - Across the world, the black-and-white keffiyeh head scarf has become an emblem of solidarity with the Palestinian cause as war rages
+
+Thu, 14 Dec 2023 15:00:15 +0000
+### [South Africa elect to bowl in third T20I against India](https://theprint.in/sport/south-africa-elect-to-bowl-in-third-t20i-against-india/1886367/)
+
+Article found but Couldn't summarize 
+Johannesburg, Dec 14 (PTI) South Africa skipper Aiden Markram won the toss and elected to bowl in the third and final T20 International against India at the Wanderers here on Thursday. India have kept an unchanged side, while the Proteas made three changes to the side that beat the tourists in the second T20I. The [&#8230;]
+
+Thu, 14 Dec 2023 15:00:04 +0000
+### [Russian court orders retrial of veteran rights campaigner](https://theprint.in/world/russian-court-orders-retrial-of-veteran-rights-campaigner/1886366/)
+
+The article discusses the case of Oleg Orlov, a veteran Russian human rights campaigner who is facing charges of discrediting the country's armed forces. Orlov, a leader of Memorial, was fined for writing an article criticizing Russia under President Vladimir Putin and its actions in Ukraine. After appealing the verdict, prosecutors sought a three-year jail sentence, which Orlov denies. A retrial was ordered on a legal technicality after prosecutors shifted their position. The article also discusses Russia's clampdown on political dissent and its actions in Ukraine. Vladimir Putin reiterated his determination to continue fighting in Ukraine. The article mentions the international perspective on Russia's actions in Ukraine.
+
+Thu, 14 Dec 2023 15:00:03 +0000
+### [SC stays operation of sentence awarded to actor Jayapradha in ESIC case](https://theprint.in/india/sc-stays-operation-of-sentence-awarded-to-actor-jayapradha-in-esic-case/1886365/)
+
+The Supreme Court stayed the operation of actor and former Lok Sabha MP Jayapradha’s sentence in a case in which she was awarded six-month simple imprisonment for not having paid Employees State Insurance Corporation (ESIC) dues of the staff of a cinema theater owned by her for over 18 years. The verdict was delivered on a petition by the workers of the theater who complained that the actor had not paid their ESI contribution. The workers alleged that the management deducted their ESI contribution but did not deposit the money with the state insurance corporation. The Madras High Court had dismissed petitions challenging the order to suspend the sentence imposed by a trial court on the actor and her partners who owned the defunct theater. PTI PKS SK SK.
+
+Thu, 14 Dec 2023 14:47:24 +0000
+### [Putin says 617,000 Russian soldiers now in Ukraine, war goals remain unchanged](https://theprint.in/world/putin-says-617000-russian-soldiers-now-in-ukraine-war-goals-remain-unchanged/1886360/)
+
+Russian President Vladimir Putin stated that there are currently about 617,000 Russian soldiers in Ukraine, including 244,000 who were mobilized to support professional Russian military forces. He emphasized that Russia's goals in Ukraine, including "denazification, demilitarization, and a neutral status" remain unchanged. Furthermore, Putin defended Russia's actions and stated that they were compelled by external pressure due to the West's "unbridled desire" to expand towards Russia's borders. Putin also commented on Russia's relations with China, international matters such as the humanitarian crisis in Gaza and Argentina's plan to dollarize its economy, as well as the 2024 Paris Summer Olympics. He highlighted the importance of maintaining United Nations mechanisms and emphasized the need for a careful analysis of the International Olympic Committee's conditions regarding Russian athletes' participation in the 2024 Paris Summer Olympics.
+
+Thu, 14 Dec 2023 14:47:13 +0000
+### [India-Botswana hold 4th Foreign Office Consultations](https://theprint.in/world/india-botswana-hold-4th-foreign-office-consultations/1886358/)
+
+The fourth Foreign Office Consultations (FOC) between India and Botswana were held in Gaborone. The discussions covered various aspects of bilateral relations, including political exchanges, development partnerships, trade and investments, and consular issues. Both sides also explored potential cooperation in sectors such as agriculture, defence, health, arts and culture, and energy. They also exchanged views on regional and multilateral issues of mutual interest. Additionally, the Indian side extended an invitation to Botswana to join the Coalition for Disaster Resilient Infrastructure (CDRI). The next round of consultations is scheduled to be held in New Delhi.
+
+Thu, 14 Dec 2023 14:47:01 +0000
+### [“One who led the way”: Karisma remembers her “Dadaji” Raj Kapoor on his 99th birth anniversary](https://theprint.in/feature/one-who-led-the-way-karisma-remembers-her-dadaji-raj-kapoor-on-his-99th-birth-anniversary/1886356/)
+
+Karisma Kapoor remembered her grandfather, the late actor Raj Kapoor, on his 99th birth anniversary by sharing a childhood photo of herself with him on Instagram. Fans and industry members reacted to the post, celebrating the legendary actor's impact on Indian cinema. Raj Kapoor, widely regarded as the greatest showman in the history of Indian cinema, had an illustrious career spanning over two decades, with notable accolades and iconic movies to his name. Karisma Kapoor will be seen in director Homi Adajania's next film, "Murder Mubarak," alongside Sara Ali Khan.
+
+Thu, 14 Dec 2023 14:46:27 +0000
+### [Soccer-Bullet point previews of Premier League matches](https://theprint.in/sport/soccer-bullet-point-previews-of-premier-league-matches-25/1886354/)
+
+Article found but Couldn't summarize 
+(Reuters) - Match-by-match facts and statistics ahead of the next round of Premier League fixtures from Dec. 15-17 (all times GMT): Friday, Dec. 15 Nottingham Forest v Tottenham Hotspur (2000) *
+
+Thu, 14 Dec 2023 14:46:26 +0000
+### [Facilities in limbo at DU’s medical college awaiting land allotment](https://theprint.in/india/facilities-in-limbo-at-dus-medical-college-awaiting-land-allotment/1886353/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 14 (PTI) The University College of Medical Sciences is likely to be relocated as it has requested the Delhi University for allotment of land to construct its own college and hospital building. As of now, the University College of Medical Sciences (UCMS), which is affiliated with Delhi University, shares the campus with [&#8230;]
+
+Thu, 14 Dec 2023 14:46:12 +0000
+### [Ghaziabad man linked to Rs 552 cr fraud with pvt bank held by Noida cops](https://theprint.in/india/ghaziabad-man-linked-to-rs-552-cr-fraud-with-pvt-bank-held-by-noida-cops/1886351/)
+
+The Noida police arrested a 29-year-old man from Ghaziabad in connection with a fraud case worth Rs 552 crore involving a private bank. This is the fourth arrest in connection with the case and the accused members of the gang were booked under the Gangsters’ Act. The arrested accused, Aman Sharma, is an active member of a gang involved in floating bogus companies that were used to dupe banks of hundreds of crore of rupees using forged documents. The gang leader, Anurag Chitkara alias Anurag Arora, has already been held. The gang allegedly duped multiple banks by using forged documents like Aadhaar and PAN cards of non-existing employees to secure loans. A private bank approached the Noida Police and claimed that 83 ghost employees of a bogus firm were issued loans worth over Rs 6.68 crore by it and the pending amount has reached Rs 552 crore.
+
 Thu, 14 Dec 2023 14:13:18 +0000
 ### [Eye on 2024, Sukhbir apologises to Sikhs for sacrilege, his govt’s failure to nab culprits](https://theprint.in/india/eye-on-2024-sukhbir-apologises-to-sikhs-for-sacrilege-his-govts-failure-to-nab-culprits/1886173/)
 

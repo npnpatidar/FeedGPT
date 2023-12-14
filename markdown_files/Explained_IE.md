@@ -1,3 +1,8 @@
+Thu, 14 Dec 2023 14:38:57 +0000
+### [Beyond Jammu and Kashmir: Why many states in India enjoy special provisions](https://indianexpress.com/article/explained/everyday-explainers/why-many-states-in-india-enjoy-special-provisions-9068631/)
+
+In India, the governance structure is quasi-federal, meaning that while states have autonomy, the power to legislate is tilted towards the Centre. The Constitution contains different lists that prescribe subjects for legislation by the Centre and states. In case of a conflict, the Union law prevails. Some states in India have special statuses, such as Jammu and Kashmir, which had Article 370 formalizing its relationship with India. Other states like Nagaland and Mizoram also enjoy negotiated autonomy. These special provisions are considered features of asymmetric federalism, providing varying degrees of autonomy and relationship with the Centre. Delhi also has a unique arrangement for administration under Article 239AA.
+
 Thu, 14 Dec 2023 13:22:20 +0000
 ### [‘Bizarre’ reason for not holding Pune bypoll: Why the Bombay HC pulled up the Election Commission](https://indianexpress.com/article/explained/explained-law/pune-bypoll-why-bombay-hc-pulled-up-election-commission-9068569/)
 

@@ -1,3 +1,15 @@
+2023-12-14T20:30:22+05:30
+### [DMK MP Who Was Not in Lok Sabha Suspended, ‘Mistaken Identity’, Says Prahlad Joshi](https://thewire.in/government/dmk-mp-who-was-not-in-lok-sabha-suspended-mistaken-identity-says-prahlad-joshi)
+
+No Article text 
+Opposition parties condemned the suspension of MPs as a 'murder of democracy'. They questioned why no action was taken against BJP MP Pratap Simha, who provided passes to those who breached parliament security on Wednesday.
+
+2023-12-14T20:00:42+05:30
+### [What Yellow Smoke Signals Tell Us About the ‘Mother of Democracy’](https://thewire.in/government/what-yellow-smoke-signals-tell-us-about-the-mother-of-democracy)
+
+No Article text 
+Even small protests in the current regime are being dealt with brute force. The space to register legitimate protests has been shrinking by the day.
+
 2023-12-14T18:13:49+05:30
 ### [Modi Govt Stonewalls Rafale Deal Corruption Probe By French Judges: Report](https://thewire.in/government/modi-govt-stonewalls-rafale-deal-corruption-probe-by-french-judges-report)
 

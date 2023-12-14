@@ -1,3 +1,8 @@
+Thu, 14 Dec 2023 19:56:22 +0530
+### [In Graphics | Will COP28's UAE Consensus spell doom for fossil fuels?](https://www.firstpost.com/explainers/in-graphics-will-cop28s-uae-consensus-spell-doom-for-fossil-fuels-13504632.html)
+
+The COP28 concluded in Dubai with a deal known as the UAE Consensus, spearheaded by the UAE's Sultan al-Jaber. The deal calls for transitioning away from fossil fuels in a just, orderly, and equitable manner, although it did not specifically name the main driver of planet-heating pollution. Observers view this as a major milestone but also note that significant efforts are needed to achieve global decarbonization and limit warming to 1.5 degrees Celsius. The UAE Consensus, along with other deals achieved in Dubai, holds significance in addressing climate change, but there are concerns about whether it will be enough to effectively combat the rapidly-accelerating climate impacts.
+
 Thu, 14 Dec 2023 19:16:38 +0530
 ### [Why have 15 Opposition MPs been suspended from Parliament?](https://www.firstpost.com/explainers/why-have-15-opposition-mps-been-suspended-from-parliament-13504552.html)
 
