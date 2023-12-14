@@ -16,6 +16,12 @@ Wed, 13 Dec 2023 18:03:19 +0530
 Article found but Couldn't summarize 
 Who are the five people who were behind the Lok Sabha breach?
 
+Wed, 13 Dec 2023 17:25:41 +0530
+### [FirstUp: Geminid meteor shower, Putin’s yearly press conference… The big news today](https://www.firstpost.com/explainers/firstup-geminid-meteor-shower-putins-yearly-press-conference-the-big-news-today-13500292.html)
+
+Article found but Couldn't summarize 
+FirstUp: Geminid meteor shower, Putin’s yearly press conference… The big news today
+
 Wed, 13 Dec 2023 17:20:14 +0530
 ### ['They jumped from the gallery': How the Lok Sabha breach took place as told by MPs](https://www.firstpost.com/explainers/lok-sabha-security-breach-mps-intruders-parliament-winter-session-13500032.html)
 

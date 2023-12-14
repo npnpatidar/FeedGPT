@@ -1,3 +1,122 @@
+Thu, 14 Dec 2023 01:15:36 +0000
+### [US officials say Russians hackers are launching potential SolarWinds-style operations](https://theprint.in/tech/us-officials-say-russians-hackers-are-launching-potential-solarwinds-style-operations/1885216/)
+
+Article found but Couldn't summarize 
+By Raphael Satter WASHINGTON (Reuters) -U.S. officials say that Russian hackers are targeting servers hosting outdated versions of software made by the Czech tech company JetBrains for potential
+
+Thu, 14 Dec 2023 01:15:20 +0000
+### [Australian woman jailed for 20 years for death of her four children has conviction quashed](https://theprint.in/world/australian-woman-jailed-for-20-years-for-death-of-her-four-children-has-conviction-quashed/1885215/)
+
+Article found but Couldn't summarize 
+By Alasdair Pal SYDNEY (Reuters) - A woman imprisoned for 20 years over the deaths of her four children, and pardoned in June, saw her convictions quashed by New South Wales state on Thursday, with
+
+Thu, 14 Dec 2023 01:15:04 +0000
+### [Brazil Senate approves Lula’s justice minister for Supreme Court seat](https://theprint.in/world/brazil-senate-approves-lulas-justice-minister-for-supreme-court-seat/1885213/)
+
+Article found but Couldn't summarize 
+SAO PAULO (Reuters) - Brazil's Senate on Wednesday signed off on President Luiz Inacio Lula da Silva's nomination of Justice Minister Flavio Dino to the Supreme Court, paving the way for the minister
+
+Thu, 14 Dec 2023 01:02:01 +0000
+### [WHO blames Israel’s lengthy checks for death of patient in Gaza](https://theprint.in/world/who-blames-israels-lengthy-checks-for-death-of-patient-in-gaza/1885211/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], December 14 (ANI): Accusing Israel of prolonging the health and rescue mission in Gaza by detaining health workers and attacking aid trucks, World Health Organisation (WHO) chief Tedros Adhanom Ghebreyes informed that one patient sustaining grave injuries died due to delay in getting treatment. Taking to X (formerly Twitter), Tedros said, &#8220;We [&#8230;]
+
+Thu, 14 Dec 2023 01:00:37 +0000
+### [‘Anything could have happened’ — INDIA bloc meeting to discuss Parliament security breach today](https://theprint.in/india/anything-could-have-happened-india-bloc-meeting-to-discuss-parliament-security-breach-today/1884896/)
+
+Article found but Couldn't summarize 
+Home ministry says enquiry committee set up to look into breach, identify lapses, and submit its report with recommendations, including suggestions on improving security in Parliament.
+
+Thu, 14 Dec 2023 00:45:58 +0000
+### [Toshiba says President Shimada to remain in post after going private](https://theprint.in/tech/toshiba-says-president-shimada-to-remain-in-post-after-going-private/1885209/)
+
+Article found but Couldn't summarize 
+TOKYO (Reuters) - Japan's Toshiba on Thursday said current president Taro Shimada will remain in the post after the company goes private, while private equity firm Japan Industrial Partners will
+
+Thu, 14 Dec 2023 00:45:50 +0000
+### [IMF chief says rules, infrastructure needed to prevent crypto risks](https://theprint.in/tech/imf-chief-says-rules-infrastructure-needed-to-prevent-crypto-risks/1885207/)
+
+Crypto currencies pose risks to financial stability and need to be regulated with rules and infrastructure, according to the head of the International Monetary Fund (IMF). The high adoption of crypto assets could undermine macro-financial stability and affect monetary policy transmission, capital flow management measures, and fiscal sustainability. The goal is to create a more efficient and accessible financial system by providing rules to mitigate the risks of crypto and leveraging its technologies. Rules are not intended to stifle innovation but rather to spur and guide it. (Remember to stay in character!)
+
+Thu, 14 Dec 2023 00:45:36 +0000
+### [Dollar takes a dive after Fed signals rate cuts next year](https://theprint.in/economy/dollar-takes-a-dive-after-fed-signals-rate-cuts-next-year/1885205/)
+
+Article found but Couldn't summarize 
+By Brigid Riley TOKYO (Reuters) - The dollar was under pressure on Thursday after the Federal Reserve's latest economic projections indicated that the interest-rate hike cycle has come to an end and
+
+Thu, 14 Dec 2023 00:45:25 +0000
+### [Most Israelis want Hamas crushed despite Gaza casualties, UN rebuke](https://theprint.in/world/most-israelis-want-hamas-crushed-despite-gaza-casualties-un-rebuke/1885203/)
+
+Article found but Couldn't summarize 
+By Ilan Rosenberg and Frank Jack Daniel JERUSALEM (Reuters) -Israeli citizens said on Wednesday the army should not back off its unrelenting offensive to crush Hamas, despite the U.N. General
+
+Thu, 14 Dec 2023 00:45:16 +0000
+### [Russia notes falling U.S. support for Ukraine, says Kremlin](https://theprint.in/world/russia-notes-falling-u-s-support-for-ukraine-says-kremlin/1885201/)
+
+Article found but Couldn't summarize 
+(Reuters) - Russia is watching as U.S. military support for Ukraine declines and Kyiv suffers setbacks on the battlefield, Kremlin spokesperson Dmitry Peskov said in interviews made public on
+
+Thu, 14 Dec 2023 00:45:04 +0000
+### [Sembcorp’s renewables unit gets 300 MW solar project from India’s NHPC](https://theprint.in/india/sembcorps-renewables-unit-gets-300-mw-solar-project-from-indias-nhpc/1885200/)
+
+Article found but Couldn't summarize 
+(Reuters) - Singapore's Sembcorp Industries on Thursday said its renewables unit was awarded a 300 mega-watt (MW) solar power project by Indian government-run hydropower producer NHPC Ltd. NHPC in its
+
+Thu, 14 Dec 2023 00:32:01 +0000
+### [US House approves impeachment inquiry against Biden; President calls it “baseless political stunt”](https://theprint.in/world/us-house-approves-impeachment-inquiry-against-biden-president-calls-it-baseless-political-stunt/1885198/)
+
+Article found but Couldn't summarize 
+Washington DC [US], December 14 (ANI): In a major political development, the US House on Wednesday approved a resolution to formalise an impeachment enquiry into President Joe Biden over the international dealings of his son, CNN reported. The GOP-led House voted 221-212 on the resolution, as the Republicans put the weight of their majority behind [&#8230;]
+
+Thu, 14 Dec 2023 00:15:55 +0000
+### [Montana grand jury indicts two men for allegedly killing bald eagles](https://theprint.in/environment/montana-grand-jury-indicts-two-men-for-allegedly-killing-bald-eagles/1885196/)
+
+Article found but Couldn't summarize 
+By Brad Brooks (Reuters) - Two men have been indicted in Montana for allegedly hunting and killing bald eagles, the once nearly extinct national symbol of the United States, and selling feathers and
+
+Thu, 14 Dec 2023 00:15:44 +0000
+### [‘American Fiction’ film takes characters beyond stereotypes to true selves](https://theprint.in/entertainment/american-fiction-film-takes-characters-beyond-stereotypes-to-true-selves/1885194/)
+
+Article found but Couldn't summarize 
+By Danielle Broadway and Rollo Ross LOS ANGELES (Reuters) - Actor Jeffrey Wright wants audiences to know the comedy-drama film “American Fiction” is meant to capture the “humanness” of its characters
+
+Thu, 14 Dec 2023 00:15:32 +0000
+### [Israelis want Hamas crushed despite Gaza casualties, UN rebuke](https://theprint.in/world/israelis-want-hamas-crushed-despite-gaza-casualties-un-rebuke/1885192/)
+
+Article found but Couldn't summarize 
+By Ilan Rosenberg and Frank Jack Daniel JERUSALEM (Reuters) -Israeli citizens said on Wednesday the army should not back off its unrelenting offensive to crush Hamas, despite the U.N. General
+
+Thu, 14 Dec 2023 00:15:26 +0000
+### [Australia tourist towns brace for floods in aftermath of cyclone Jasper](https://theprint.in/world/australia-tourist-towns-brace-for-floods-in-aftermath-of-cyclone-jasper/1885191/)
+
+Article found but Couldn't summarize 
+By Renju Jose SYDNEY (Reuters) - Residents of tourist towns in Australia's northeast on Thursday braced for flash flooding after Tropical Cyclone Jasper tore through the region, uprooting trees,
+
+Thu, 14 Dec 2023 00:15:16 +0000
+### [Scientists see risk of lost opportunity for long COVID research in China](https://theprint.in/world/scientists-see-risk-of-lost-opportunity-for-long-covid-research-in-china/1885189/)
+
+Article found but Couldn't summarize 
+By Andrew Silver SHANGHAI (Reuters) - With more than a full year past since China eased restrictions and let COVID-19 sweep its households, scientists are worried a unique opportunity may be slipping
+
+Thu, 14 Dec 2023 00:15:03 +0000
+### [Indian rupee’s decline versus non-dollar currencies spurs more hedging by exporters](https://theprint.in/india/indian-rupees-decline-versus-non-dollar-currencies-spurs-more-hedging-by-exporters/1885187/)
+
+Article found but Couldn't summarize 
+By Jaspreet Kalra and Nimesh Vora MUMBAI (Reuters) - The Indian rupee's recent decline against the euro, the British pound and the Japanese yen has prompted exporters to increase hedging their
+
+Wed, 13 Dec 2023 23:45:51 +0000
+### [Soccer-Bittersweet night for Pioli as Milan end English curse](https://theprint.in/sport/soccer-bittersweet-night-for-pioli-as-milan-end-english-curse/1885185/)
+
+Article found but Couldn't summarize 
+NEWCASTLE (Reuters) - AC Milan finally ended their jinx away to English clubs in Europe as they beat Newcastle United 2-1 in their final Champions league Group F game on Wednesday but it was a
+
+Wed, 13 Dec 2023 23:45:32 +0000
+### [Taiwan’s last generation to fight China](https://theprint.in/world/taiwans-last-generation-to-fight-china/1885183/)
+
+Article found but Couldn't summarize 
+By Ann Wang and Ben Blanchard TAOYUAN, Taiwan (Reuters) - Sun Kuo-hsi vividly remembers the chaos of the final years of the Chinese civil war and the government forces he fought for collapsing in
+
 Wed, 13 Dec 2023 23:16:09 +0000
 ### [Apple reaches record high close as Fed signals rate cuts](https://theprint.in/tech/apple-reaches-record-high-close-as-fed-signals-rate-cuts/1885168/)
 
