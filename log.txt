@@ -2498,3 +2498,9 @@ Started at 2023-12-14 19:15:17
 Finished at 2023-12-14 19:16:40
 Total time taken: 83.73593354225159 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2023-12-14 20:20:21
+20 Feed entries have been written to feeds/ThePrint.xml
+20 new entries have been added
+Finished at 2023-12-14 20:22:05
+Total time taken: 103.88071632385254 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

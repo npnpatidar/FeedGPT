@@ -1,3 +1,125 @@
+Thu, 14 Dec 2023 20:15:54 +0000
+### [Soccer-Turkish club president given permanent ban for punching referee](https://theprint.in/sport/soccer-turkish-club-president-given-permanent-ban-for-punching-referee/1886723/)
+
+The Turkish Football Federation (TFF) has issued a permanent ban on Ankaragucu club president Faruk Koca for physically assaulting a referee after a game. As a result, Ankaragucu has received a two-million-lira ($69,000) fine and will play five home games without fans due to fan and club official unrest. Additionally, various other Ankaragucu officials have received bans, cautions, and fines in relation to the incident. The referee, Halil Umut Meler, was assaulted after Rizespor scored a 97th-minute equalizer in a 1-1 draw. The incident led to the immediate suspension of all matches, which will resume after a one-week suspension. Meler was released from the hospital with a swollen and darkened eye but no other health issues.
+
+Thu, 14 Dec 2023 20:15:43 +0000
+### [Musk’s X receives Pennsylvania money license in push toward payment features](https://theprint.in/tech/musks-x-receives-pennsylvania-money-license-in-push-toward-payment-features/1886721/)
+
+Elon Musk's social media platform X, previously known as Twitter, has received a money-transmitter license from Pennsylvania, marking a step toward offering payment features. This approval enables X to facilitate money transfers and potentially allow users to send money to each other, similar to services offered by PayPal's Venmo. Musk aims to transform the platform into an "everything app" similar to WeChat, where users can conduct their entire financial lives. However, the process of obtaining approval in every U.S. state may take up to 18 months and millions of dollars.
+
+X's push into payments signals an effort to diversify its business beyond digital advertising, which has faced challenges since Musk acquired the platform. However, the company's history of controversial statements and unpredictable decision-making may pose challenges in gaining the trust of users and financial regulators. Furthermore, holding users' money will require X to obtain a bank charter or form a partnership with an existing bank. 
+
+Other states that have approved X for money-transmitter licenses include Arizona, Georgia, Wyoming, and Maryland, with ongoing reviews in other states. Ultimately, X's foray into payments may encounter regulatory hurdles and necessitate further strategic and operational adjustments.
+
+Thu, 14 Dec 2023 20:15:26 +0000
+### [Wall St loses steam, Treasury yields touch multi-month lows as Fed frenzy wanes](https://theprint.in/economy/wall-st-loses-steam-treasury-yields-touch-multi-month-lows-as-fed-frenzy-wanes/1886719/)
+
+The article reports that U.S. stocks lost momentum in afternoon trading, while benchmark Treasury yields dropped to multi-month lows after investors rotated out of momentum growth stocks following the U.S. Federal Reserve's dovish pivot. The dollar hit a four-month low, and the three major U.S. stock indexes gyrated, reclaiming positive territory after the Fed's policy decision to leave interest rates unchanged and signal that historic rate cuts are likely over.
+
+The Dow Jones Industrial Average rose 91.71 points, or 0.25%, to 37,181.95, the S&P 500 gained 8.03 points, or 0.17%, to 4,715.12, and the Nasdaq Composite added 8.74 points, or 0.06%, to 14,742.71. European shares gave back some gains but closed at a more than 22-month high as the dovish Fed offset the ECB's dismissal of rate cut speculation.
+
+Emerging market stocks rose 1.99%, with MSCI's broadest index of Asia-Pacific shares outside Japan closing 1.97% higher. The article also mentions movements in Treasury yields, exchange rates, oil prices, and gold prices.
+
+Please note that this is a summary of the article and does not include the full report.
+
+Thu, 14 Dec 2023 20:15:14 +0000
+### [Biden, Turkey’s Erdogan spoke about Sweden’s accession to NATO -White House](https://theprint.in/world/biden-turkeys-erdogan-spoke-about-swedens-accession-to-nato-white-house/1886717/)
+
+U.S. President Joe Biden and Turkish President Tayyip Erdogan discussed Sweden's application to join NATO, with a potential discussion about the issue of F-16 fighter jets likely taking place. Sweden has expressed interest in joining NATO, but faces resistance from Turkey and Hungary. Turkey has requested to buy 40 Lockheed Martin Corp F-16 fighters and modernization kits, a sale backed by the Biden administration, but facing objections in the U.S. Congress due to concerns about Turkey's role in delaying NATO enlargement and its human rights record.
+
+Thu, 14 Dec 2023 20:15:04 +0000
+### [Russian missiles strike central Ukraine targets, Ukraine air force says](https://theprint.in/world/russian-missiles-strike-central-ukraine-targets-ukraine-air-force-says/1886715/)
+
+Article found but Couldn't summarize 
+KYIV (Reuters) - Ukraine's Air Force said Russian MiG-31K fighter jets carrying Kinzhal hypersonic missiles struck targets in central Ukraine just 10 minutes after their takeoff from Savasleyka
+
+Thu, 14 Dec 2023 20:01:18 +0000
+### [Soccer-Roma finish second in Europa League group after win against Sheriff](https://theprint.in/sport/soccer-roma-finish-second-in-europa-league-group-after-win-against-sheriff/1886712/)
+
+AS Roma secured a 3-0 victory over Sheriff Tiraspol in the Europa League, with first-half goals from Romelu Lukaku, Andrea Belotti, and a late strike by Niccolo Pisilli. This result placed Roma second in Group G, with Slavia Prague taking the top spot. Lukaku broke the deadlock 11 minutes into the match by tapping in Nicola Zalewski’s cross, while Belotti extended the lead by heading in a rebound from Zalewski’s volley. Pisilli sealed the win with a low shot deep into stoppage time. With this victory, Roma finished with 13 points, securing a spot in the play-off rounds of the Europa League.
+
+Thu, 14 Dec 2023 20:01:06 +0000
+### [Meta oversight board to examine Israel-Hamas war content](https://theprint.in/tech/meta-oversight-board-to-examine-israel-hamas-war-content-2/1886710/)
+
+Meta's independent Oversight Board has announced that it will review how the company has handled violent content on its social media platforms in two cases involving the Israel-Hamas conflict. The board's decision to take on these cases comes amidst an influx of violent, hateful, and misleading content related to the conflict. Meta temporarily lowered its threshold for removing potentially harmful content after an attack in October, and the company has also faced accusations of suppressing expressions of support for Palestinians living in Gaza. The cases involve the removal and restoration of videos on Instagram and Facebook, with Meta welcoming the Oversight Board's review and pledging to implement its decision in each case.
+
+Thu, 14 Dec 2023 20:00:53 +0000
+### [White House asks employees to travel by train, EVs when possible](https://theprint.in/environment/white-house-asks-employees-to-travel-by-train-evs-when-possible/1886708/)
+
+Article found but Couldn't summarize 
+By David Shepardson WASHINGTON (Reuters) - U.S. federal employees should rent electric vehicles and opt for rail trips when feasible on government travel to sharply reduce emissions, the White House
+
+Thu, 14 Dec 2023 20:00:37 +0000
+### [EU agrees to open Ukraine membership talks in shock win for Kyiv](https://theprint.in/world/eu-agrees-to-open-ukraine-membership-talks-in-shock-win-for-kyiv/1886706/)
+
+The article discusses the European Union's decision to start membership negotiations with Ukraine, despite Hungary's objection. Hungarian Prime Minister Viktor Orban initially opposed the decision but eventually abstained from the vote. The talks are expected to take years, and Ukraine's admission to the EU presents unique challenges due to its large population and geographical size. The decision is seen as a message to both Kyiv and Moscow, and the EU has also decided to open accession negotiations with Moldova, grant EU candidate status to Georgia, and advance an EU bid by Bosnia.
+
+Thu, 14 Dec 2023 20:00:27 +0000
+### [Israeli grandmother of Gaza hostage spends Hanukkah outside leaders’ homes](https://theprint.in/world/israeli-grandmother-of-gaza-hostage-spends-hanukkah-outside-leaders-homes/1886704/)
+
+Article found but Couldn't summarize 
+TEL AVIV (Reuters) - Dvora Leshem spent each of the eight nights of Hanukkah outside the house of a different Israeli leader, in protest, demanding the return of her granddaughter who is being held
+
+Thu, 14 Dec 2023 20:00:18 +0000
+### [Brazil Congress overturns Lula veto on limit to Indigenous land claims](https://theprint.in/world/brazil-congress-overturns-lula-veto-on-limit-to-indigenous-land-claims/1886702/)
+
+Article found but Couldn't summarize 
+BRASILIA (Reuters) -Brazil's Congress on Thursday overturned a presidential veto that had struck down the core of a bill to limit Indigenous land claims. Indigenous groups had supported President Luiz
+
+Thu, 14 Dec 2023 20:00:05 +0000
+### [Ex-FBI official sentenced to over four years for work for Russia’s Deripaska](https://theprint.in/world/ex-fbi-official-sentenced-to-over-four-years-for-work-for-russias-deripaska/1886700/)
+
+A former FBI official, Charles McGonigal, was sentenced to over four years in prison for pleading guilty to working for Russian oligarch Oleg Deripaska, who is under U.S. sanctions. He worked to find negative information on rival Russian oligarch Vladimir Potanin. McGonigal led the FBI’s New York counterintelligence division from 2016 to 2018 and admitted to working for Deripaska in 2021. U.S. District Judge Jennifer Rearden imposed the 50-month sentence at a hearing in federal court in Manhattan. McGonigal's lawyers argued for leniency, while federal prosecutors had suggested a five-year prison sentence. Additionally, he has pleaded guilty to concealing cash payments from a former Albanian intelligence officer and is scheduled to be sentenced on those charges on Feb. 16.
+
+Thu, 14 Dec 2023 19:45:03 +0000
+### [‘Pariksha Pe Charcha’ aims to transform stress into success: PM Modi](https://theprint.in/india/pariksha-pe-charcha-aims-to-transform-stress-into-success-pm-modi/1886699/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 14 (PTI) Prime Minister Narendra Modi on Thursday said his &#8216;Pariksha Pe Charcha&#8217; initiative aims to transform stress into success, enabling students to ace exams with a smile. His remarks came on a post on X by the Union Education Ministry on Wednesday informing students, teachers and parents that &#8216;Pariksha Pe Charcha&#8217;, [&#8230;]
+
+Thu, 14 Dec 2023 19:17:01 +0000
+### [Shreyas Talpade suffers heart attack, undergoes angioplasty](https://theprint.in/feature/shreyas-talpade-suffers-heart-attack-undergoes-angioplasty/1886697/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 15 (ANI): Actor Shreyas Talpade, suffered a heart attack after finishing a shoot in Mumbai on Thursday. As per a source close to the actor, &#8220;Shreyas, 47, was shooting for &#8216;Welcome to the Jungle&#8217; and in the evening he suffered a heart attack and underwent angioplasty. He is fine now.&#8221; Shreyas [&#8230;]
+
+Thu, 14 Dec 2023 19:15:54 +0000
+### [Cricket-Yadav praises India’s attacking style in big T20 win over S Africa](https://theprint.in/sport/cricket-yadav-praises-indias-attacking-style-in-big-t20-win-over-s-africa/1886695/)
+
+Article found but Couldn't summarize 
+JOHANNESBURG - India achieved their ambition of playing fearless cricket in their crushing 106-run victory over South Africa to share the three-match series 1-1 at The Wanderers on Thursday, captain
+
+Thu, 14 Dec 2023 19:15:39 +0000
+### [Factbox-What are the loopholes in the COP28 climate deal?](https://theprint.in/environment/factbox-what-are-the-loopholes-in-the-cop28-climate-deal/1886693/)
+
+Article found but Couldn't summarize 
+By Valerie Volcovici (Reuters) - Nations struck a historic deal on Wednesday at the COP28 climate summit in Dubai to transition the global economy away from fossil fuels. But some delegations and
+
+Thu, 14 Dec 2023 19:15:25 +0000
+### [EU gives green light to Ukraine membership talks in shock win for Kyiv](https://theprint.in/world/eu-gives-green-light-to-ukraine-membership-talks-in-shock-win-for-kyiv/1886691/)
+
+Article found but Couldn't summarize 
+By Gabriela Baczynska, Krisztina Than and Andrew Gray BRUSSELS (Reuters) -European Union leaders unexpectedly agreed on Thursday to open membership talks with Ukraine, something Hungarian Prime
+
+Thu, 14 Dec 2023 19:15:15 +0000
+### [Ukraine’s Zelenskiy hails ‘victory’ after EU decision to open accession talks](https://theprint.in/world/ukraines-zelenskiy-hails-victory-after-eu-decision-to-open-accession-talks/1886689/)
+
+Article found but Couldn't summarize 
+By Tom Balmforth and Yuliia Dysa (Reuters) - President Volodymyr Zelenskiy hailed a "victory" for Ukraine and the European continent on Thursday after European Union leaders agreed to open membership
+
+Thu, 14 Dec 2023 19:15:05 +0000
+### [Brazil’s Congress blocks Lula’s veto on extended payroll tax exemption](https://theprint.in/world/brazils-congress-blocks-lulas-veto-on-extended-payroll-tax-exemption/1886687/)
+
+Article found but Couldn't summarize 
+BRASILIA (Reuters) -The Brazilian Congress voted on Thursday to block President Luiz Inacio Lula da Silva's veto on a bill focused on extending payroll tax exemptions for 17 labor sectors until 2027,
+
+Thu, 14 Dec 2023 19:15:03 +0000
+### [Surya hurts ankle, stays away from field for 11 overs during India’s win; later says not serious](https://theprint.in/sport/surya-hurts-ankle-stays-away-from-field-for-11-overs-during-indias-win-later-says-not-serious/1886686/)
+
+Article found but Couldn't summarize 
+Johannesburg, Dec 14 (PTI) India’s series-levelling 106-run win over South Africa on Thursday had a juddering note to it as captain Suryakumar Yadav stayed away from the field with a hurt ankle. In the third over, Suryakumar tried to stop a shot from Reeza Hendricks off Mohammed Siraj in the outfield but hurt his ankle [&#8230;]
+
 Thu, 14 Dec 2023 19:00:02 +0000
 ### [Suryakumar hurts ankle, stays away from field for 11 overs during India’s win against SA](https://theprint.in/sport/suryakumar-hurts-ankle-stays-away-from-field-for-11-overs-during-indias-win-against-sa/1886683/)
 
