@@ -1,3 +1,21 @@
+Thu, 14 Dec 2023 17:29:17 +0530
+### [Vantage | How China left Malaysia stranded with a billion dollar 'ghost city'](https://www.firstpost.com/opinion/vantage-how-china-left-malaysia-stranded-with-a-billion-dollar-ghost-city-13504142.html)
+
+Article found but Couldn't summarize 
+Vantage | How China left Malaysia stranded with a billion dollar 'ghost city'
+
+Thu, 14 Dec 2023 17:02:10 +0530
+### [Vantage | India's message to China with a warship in Manila, soldiers in Vietnam](https://www.firstpost.com/opinion/vantage-indias-message-to-china-with-a-warship-in-manila-soldiers-in-vietnam-13503692.html)
+
+Article found but Couldn't summarize 
+Vantage | India's message to China with a warship in Manila, soldiers in Vietnam
+
+Thu, 14 Dec 2023 16:55:31 +0530
+### [Vantage | Why Ethiopia's Nobel Peace laureate went after its peace minister](https://www.firstpost.com/opinion/vantage-why-ethiopias-nobel-peace-laureate-went-after-its-peace-minister-13503992.html)
+
+Article found but Couldn't summarize 
+Vantage | Why Ethiopia's Nobel Peace laureate went after its peace minister
+
 Thu, 14 Dec 2023 16:10:25 +0530
 ### [Why Washington Post, Intercept are openly pushing anti-India propaganda](https://www.firstpost.com/opinion/why-washington-post-intercept-are-openly-pushing-anti-india-propaganda-13503442.html)
 

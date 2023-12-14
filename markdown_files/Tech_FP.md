@@ -1,3 +1,14 @@
+Thu, 14 Dec 2023 17:22:48 +0530
+### [EU may force delivery aggregators, others, to treat gig workers as full-time employees](https://www.firstpost.com/tech/eu-may-force-delivery-aggregators-others-to-treat-gig-workers-as-full-time-employees-13504152.html)
+
+Article found but Couldn't summarize 
+EU may force delivery aggregators, others, to treat gig workers as full-time employees
+
+Thu, 14 Dec 2023 17:01:48 +0530
+### [By the powers of AI: Albania to speed up EU accession process by using ChatGPT](https://www.firstpost.com/tech/by-the-power-of-ai-albania-to-speed-up-eu-accession-process-by-using-chatgpt-13504022.html)
+
+The Albanian government has partnered with OpenAI, the company behind ChatGPT, to expedite Albania's accession into the European Union (EU). They plan to use ChatGPT to translate and incorporate EU legal measures into Albanian, and to analyze necessary changes in local legislation to comply with EU standards. This initiative is aimed at streamlining the integration process and potentially saving millions of euros by reducing the need for numerous translators and legal experts. This collaboration is part of Albania's broader efforts to utilize AI in public administration and combat corruption.
+
 Thu, 14 Dec 2023 15:39:26 +0530
 ### [How hackers with $24 to spare are hijacking Bangladesh's 2024 election](https://www.firstpost.com/tech/how-hackers-with-24-to-spare-are-hijacking-bangladeshs-2024-election-13503632.html)
 

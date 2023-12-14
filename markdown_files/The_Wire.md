@@ -1,3 +1,9 @@
+2023-12-14T17:41:04+05:30
+### [China ‘Running Away’ With Strategically Important Advanced Industries: Think Tank](https://thewire.in/world/china-dominating-strategically-important-industries-think-tank-report)
+
+No Article text 
+The report by the Information Technology & Innovation Foundation also said that while India's advanced-industry output has been consistently outshined by China's, it may emerge as an alternative to China if it “assure[s] investors of the basics”.
+
 2023-12-14T16:45:16+05:30
 ### [Krishna Janmabhoomi Case: Allahabad HC Orders Survey of Shahi Idgah Mosque in Mathura](https://thewire.in/law/krishna-janmabhoomi-case-allahabad-hc-orders-survey-of-shahi-idgah-mosque-in-mathura)
 

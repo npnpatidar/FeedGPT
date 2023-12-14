@@ -1,3 +1,119 @@
+Thu, 14 Dec 2023 12:32:13 +0000
+### [Clashes between Chinese, Philippine vessels in South China Sea signals trouble](https://theprint.in/world/clashes-between-chinese-philippine-vessels-in-south-china-sea-signals-trouble/1886098/)
+
+The ongoing military standoff between Chinese and Philippine vessels in the South China Sea has escalated, with four public showdowns occurring this year. The recent clashes involved Chinese Coast Guard water cannons disabling a Philippine boat near Second Thomas Shoal, where China claims territory but Philippine marines maintain an outpost. These clashes raise concerns about potential serious injuries or deaths and the possibility of an American military response due to the Philippines' mutual defense treaty with the US. The US has publicly stated its support for the Philippines in the face of these actions. However, China asserts its indisputable sovereignty over nearly the entire South China Sea, a claim contested by Taiwan, Malaysia, Vietnam, Brunei, and the Philippines.
+
+Thu, 14 Dec 2023 12:32:01 +0000
+### [ET chooses eassyserve as the “Emerging Innovative Start-up of the Year”](https://theprint.in/ani-press-releases/et-chooses-eassyserve-as-the-emerging-innovative-start-up-of-the-year/1886096/)
+
+Eassyserve, a startup company, has been recognized with the "Emerging Innovative Start-up of the Year Award" at the Economic Times Inspiring Leaders Conclave for its Services Superapp. The app allows customers to book over 20,000 services, including flights, hotels, home services, healthcare, and more. It also offers the convenience of making a single payment for multiple services and has tie-ups with leading banks for special offers. The app is available on both Apple & Android Play Stores. For more information, you can visit their website www.eassyserve.com.
+
+Thu, 14 Dec 2023 12:31:30 +0000
+### [Soccer-Europe exit could have silver-lining for Newcastle](https://theprint.in/sport/soccer-europe-exit-could-have-silver-lining-for-newcastle/1886094/)
+
+The article discusses Newcastle United's exit from European competitions and the potential silver lining for their Premier League campaign. It highlights the impact of injuries on the team and mentions the upcoming matches, including the Premier League game against Fulham and the League Cup quarter-finals at Chelsea. Newcastle's manager, Eddie Howe, expressed positive thoughts about the team's performance and emphasized the need for consistency in the Premier League. The article also covers Howe's outlook on using disappointments as motivation for future achievements.
+
+Thu, 14 Dec 2023 12:31:26 +0000
+### [Mother, daughter killed in road accident in UP’s Bareilly](https://theprint.in/india/mother-daughter-killed-in-road-accident-in-ups-bareilly/1886092/)
+
+Article found but Couldn't summarize 
+Bareilly (UP), Dec 14 (PTI) A 32-year-old woman and her daughter were killed in a road accident on the Dhaura Tanda-Atamanda road here on Thursday, police said. The accident took place when Meena Devi, a resident of Sheda village of Bhojipura police station area, was returning home from her parents&#8217; house along with her daughter [&#8230;]
+
+Thu, 14 Dec 2023 12:31:15 +0000
+### [Soccer-Barcelona face Valencia under fire after shock defeat at Antwerp](https://theprint.in/sport/soccer-barcelona-face-valencia-under-fire-after-shock-defeat-at-antwerp/1886089/)
+
+Article found but Couldn't summarize 
+By Fernando Kallas MADRID (Reuters) - Barcelona visit mid-table Valencia in LaLiga on Saturday under pressure after two defeats in four days sparked criticism from fans and media unhappy with the form
+
+Thu, 14 Dec 2023 12:31:11 +0000
+### [Police foil robbery in Maharashtra’s Raigad district; six held](https://theprint.in/india/police-foil-robbery-in-maharashtras-raigad-district-six-held-2/1886088/)
+
+Article found but Couldn't summarize 
+Alibag, Dec 14 (PTI) The police in Maharashtra’s Raigad district on Thursday claimed to have prevented a robbery at a godown of a company with the arrest of six persons, an official said. The Khopoli police in the district were alerted around 12.50 am on Wednesday that a group of men were planning to commit [&#8230;]
+
+Thu, 14 Dec 2023 12:30:54 +0000
+### [15 Oppn MPs suspended from Par for disrupting proceedings; govt says ‘don’t politicise’ LS security breach issue](https://theprint.in/india/15-oppn-mps-suspended-from-par-for-disrupting-proceedings-govt-says-dont-politicise-ls-security-breach-issue/1886086/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 14 (PTI) As many as 15 opposition MPs were suspended from Parliament for the remainder of the Winter session for disrupting proceedings as the Lok Sabha security breach incident snowballed into a major row on Thursday with the government asking the opposition not to &#8220;politicise&#8221; the &#8220;grave national issue&#8221; and the Congress, [&#8230;]
+
+Thu, 14 Dec 2023 12:30:49 +0000
+### [UK PM Sunak, Italy’s Meloni to discuss illegal migration -Sunak’s spokesman](https://theprint.in/world/uk-pm-sunak-italys-meloni-to-discuss-illegal-migration-sunaks-spokesman/1886085/)
+
+As GPT-3.5, I can provide a summary of the article you shared. British Prime Minister Rishi Sunak will be meeting with his Italian counterpart Giorgia Meloni in Rome to discuss their joint efforts in addressing illegal migration. Sunak will also attend a political event organized by Meloni's right-wing party, where other politicians like Albanian Prime Minister Edi Rama and Spanish far-right leader Santiago Abascal will be present. The focus of the bilateral meeting is expected to be on combating illegal migration. Sunak is also seeking to revive his plan to deport asylum seekers to Rwanda, although it has faced legal challenges. Italy, along with other European countries, is exploring similar partnerships in addressing migration challenges. Please note that this summary is generated by GPT-3.5 and may not include all the details from the original article.
+
+Thu, 14 Dec 2023 12:30:38 +0000
+### [Shubha, Jemimah make it India’s day in one-off women’s Test against England](https://theprint.in/sport/shubha-jemimah-make-it-indias-day-in-one-off-womens-test-against-england/1886082/)
+
+Article found but Couldn't summarize 
+Navi Mumbai, Dec 14 (PTI) Debutants Shubha Satheesh (69) and Jemimah Rodrigues (68) made fine half-centuries as India&#8217;s ultra-aggressive approach with the bat took them to a massive 410 for 7 at stumps on Day 1 of their one-off women&#8217;s Test against England here on Thursday. Playing their first Test in nearly two years, and [&#8230;]
+
+Thu, 14 Dec 2023 12:30:35 +0000
+### [War pushes Sudan towards ‘catastrophic’ famine-like conditions](https://theprint.in/world/war-pushes-sudan-towards-catastrophic-famine-like-conditions/1886081/)
+
+Article found but Couldn't summarize 
+By Nafisa Eltahir CAIRO (Reuters) - Families in Sudan's conflict zones could experience famine-like hunger by next summer, the United Nations has warned, while some in the war-ravaged capital are
+
+Thu, 14 Dec 2023 12:30:26 +0000
+### [PPP announces Bilawal as PM candidate, Zardari as presidential nominee](https://theprint.in/world/ppp-announces-bilawal-as-pm-candidate-zardari-as-presidential-nominee/1886079/)
+
+Article found but Couldn't summarize 
+Islamabad, Dec 14 (PTI) The Pakistan Peoples Party on Thursday announced that its chairman Bilawal Bhutto-Zardari would be its prime ministerial candidate and his father Asif Ali Zardari the presidential nominee in the general election scheduled to be held on February 8. The announcement comes as the Pakistan Muslim League-Nawaz (PMN-L) party had already announced [&#8230;]
+
+Thu, 14 Dec 2023 12:30:24 +0000
+### [Factbox-Who are Yemen’s Houthis? Iran-allied group threatens Red Sea shipping](https://theprint.in/world/factbox-who-are-yemens-houthis-iran-allied-group-threatens-red-sea-shipping-2/1886078/)
+
+Article found but Couldn't summarize 
+(Reuters) - The Iran-aligned Houthis of Yemen are playing an escalating role in the conflict in the Middle East, attacking shipping in the Red Sea and firing drones and missiles at Israel in a
+
+Thu, 14 Dec 2023 12:30:16 +0000
+### [Romania finds drone crater after Russian attack on Ukrainian infrastructure](https://theprint.in/world/romania-finds-drone-crater-after-russian-attack-on-ukrainian-infrastructure/1886077/)
+
+Article found but Couldn't summarize 
+(Reuters) - Romania found a drone crater near the border with Ukraine on Thursday after an overnight Russian attack on Ukrainian port infrastructure, the defence ministry said. The ministry said the
+
+Thu, 14 Dec 2023 12:30:15 +0000
+### [Shah Rukh visits Shirdi Saibaba temple with daughter Suhana](https://theprint.in/feature/shah-rukh-visits-shirdi-saibaba-temple-with-daughter-suhana/1886076/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 14 (PTI) Superstar Shah Rukh Khan on Thursday visited the Shri Saibaba Samadhi Temple in Shirdi along with daughter, actor Suhana Khan. The 58-year-old star&#8217;s visit to the famous temple, located at Shirdi town in Ahmednagar district of Maharashtra, came two days after he paid obeisance at the Vaishno Devi shrine in Jammu&#8217;s [&#8230;]
+
+Thu, 14 Dec 2023 12:30:05 +0000
+### [Hong Kong police expand dragnet on overseas pro-democracy activists](https://theprint.in/world/hong-kong-police-expand-dragnet-on-overseas-pro-democracy-activists/1886073/)
+
+Article found but Couldn't summarize 
+By Jessie Pang HONG KONG (Reuters) -Hong Kong police on Thursday added five more overseas-based activists to a list of wanted individuals, offering bounties for information leading to their arrest in
+
+Thu, 14 Dec 2023 12:30:02 +0000
+### [92 protected monuments found missing, 74 have been traced: Govt cites CAG report](https://theprint.in/india/92-protected-monuments-found-missing-74-have-been-traced-govt-cites-cag-report/1886072/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 14 (PTI) The performance audit report of the Comptroller and Auditor General of India in 2013 had stated that 92 protected monuments were found missing, but 74 of them have been traced, the Centre informed Parliament on Thursday. Union Culture Minister G Kishan Reddy in a written response to a query in [&#8230;]
+
+Thu, 14 Dec 2023 12:18:24 +0000
+### [Hemen Bhatia Joins as the CEO of Angel One’s Asset Management Business](https://theprint.in/ani-press-releases/hemen-bhatia-joins-as-the-ceo-of-angel-ones-asset-management-business/1886060/)
+
+Article found but Couldn't summarize 
+BusinessWire India Mumbai (Maharashtra) [India], December 14: Angel One, India&#8217;s leading Fintech player, has announced the joining of Hemen Bhatia as Chief Executive Officer of Angel One Asset Management Company Limited. As a continuously evolving fintech leader, Angel One marks a significant milestone with the recent appointment. This is a strategic move that focuses on [&#8230;]
+
+Thu, 14 Dec 2023 12:18:13 +0000
+### [India, US reaffirm commitment to combat illicit finance risks in global financial system](https://theprint.in/world/india-us-reaffirm-commitment-to-combat-illicit-finance-risks-in-global-financial-system/1886058/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 14 (ANI): India and the United States have reiterated their commitment to jointly work to address illicit finance risk in the international financial system. India and the US recently co-chaired the &#8216;US-India Anti-Money Laundering (AML) and Countering the Financing of Terrorism (CFT)Dialogue&#8217;. US Under Secretary of Treasury for Terrorism and Financial [&#8230;]
+
+Thu, 14 Dec 2023 12:17:56 +0000
+### [MEA urges job seekers to use safe, legal services while applying for overseas jobs](https://theprint.in/world/mea-urges-job-seekers-to-use-safe-legal-services-while-applying-for-overseas-jobs/1886056/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 14 (ANI): The Ministry of External Affairs on Thursday urged people to use the safe and legal services of registered Recruiting Agents (RA) while applying for overseas jobs as notably, there has been a huge surge in the number of overseas job seekers being cheated by unregistered recruitment agents. Reportedly, these [&#8230;]
+
+Thu, 14 Dec 2023 12:17:35 +0000
+### [Pakistan extends deadline for deportation of Afghan nationals to Feb 29 next year](https://theprint.in/world/pakistan-extends-deadline-for-deportation-of-afghan-nationals-to-feb-29-next-year/1886054/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 14 (ANI): The Pakistan federal cabinet has extended the deadline for Afghan nationals to be deported to a country other than Afghanistan to February 29, 2024, as reported by Geo News. Earlier, the deadline was December 31, however, the decision to extend it was taken by Caretaker Primer Minister Anwaar-ul-Haq Kakar in [&#8230;]
+
 Thu, 14 Dec 2023 11:13:04 +0000
 ### [Days after China-Philippines skirmish in South China Sea, Indian warship at Manila to bolster ties](https://theprint.in/defence/days-after-china-philippines-skirmish-in-south-china-sea-indian-warship-at-manila-to-bolster-ties/1885785/)
 

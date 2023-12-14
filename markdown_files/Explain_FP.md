@@ -1,3 +1,20 @@
+Thu, 14 Dec 2023 18:00:26 +0530
+### [December Blues: Is COVID-19 making a comeback amid holiday season?](https://www.firstpost.com/explainers/december-blues-is-covid-19-making-a-comeback-amid-holiday-season-13503942.html)
+
+Article found but Couldn't summarize 
+December Blues: Is COVID-19 making a comeback amid holiday season?
+
+Thu, 14 Dec 2023 17:09:23 +0530
+### [Parliament security breach: Who is Lalit Jha, the alleged mastermind still on the run?](https://www.firstpost.com/explainers/parliament-security-breach-who-is-lalit-jha-the-alleged-mastermind-still-on-the-run-13503512.html)
+
+Article found but Couldn't summarize 
+Parliament security breach: Who is Lalit Jha, the alleged mastermind still on the run?
+
+Thu, 14 Dec 2023 17:03:00 +0530
+### [UK, Italy, Japan to build world's most sophisticated stealth jet. Here’s what we know](https://www.firstpost.com/explainers/uk-italy-japan-want-to-build-the-most-sophisticated-stealth-jet-in-history-heres-what-we-know-13503922.html)
+
+The UK, Italy, and Japan have collaborated to develop a new stealth fighter jet, known as the Tempest in the UK. The aircraft, scheduled for launch by 2035, is designed to incorporate cutting-edge technologies and be one of the world's most advanced and adaptable fighter jets. The proposed craft aims to have hypersonic weapons, AI-controlled drones, and energy weapon systems. The partnership aims to create the Global Combat Air Programme (GCAP) and manage the private-sector joint venture, which includes Mitsubishi Heavy, Britain’s BAE Systems PLC, and Italy’s Leonardo. Japan's participation in the project reflects its efforts to counter growing threats from China, North Korea, and Russia. The joint development of the fighter jet is seen as crucial for each country's security and future defense capabilities.
+
 Thu, 14 Dec 2023 16:02:41 +0530
 ### [Trump is selling pieces of the suit he wore during arrest for $5,000. Who is buying?](https://www.firstpost.com/explainers/trump-is-selling-pieces-of-the-suit-he-wore-during-arrest-for-5000-who-is-buying-13502682.html)
 

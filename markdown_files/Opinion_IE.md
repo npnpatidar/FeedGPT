@@ -1,3 +1,8 @@
+Thu, 14 Dec 2023 12:09:11 +0000
+### [Tavleen Singh doesn’t understand caste discrimination – because she doesn’t need to](https://indianexpress.com/article/opinion/columns/tavleen-singh-doesnt-understand-caste-discrimination-she-doesnt-need-to-9068385/)
+
+Article found but Couldn't summarize
+
 Thu, 14 Dec 2023 05:59:54 +0000
 ### [INDIA and Maharashtra’s new Dalit formation: Why Congress needs Ambedkar’s party](https://indianexpress.com/article/opinion/columns/india-alliance-maharasthra-dalit-congress-vba-ambedkar-9067759/)
 
