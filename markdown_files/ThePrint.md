@@ -1,3 +1,43 @@
+Thu, 14 Dec 2023 21:02:02 +0000
+### [UK: Indian consulate organises event to celebrate 554th birth anniversary of Guru Nanak Dev in Cardiff](https://theprint.in/world/uk-indian-consulate-organises-event-to-celebrate-554th-birth-anniversary-of-guru-nanak-dev-in-cardiff/1886737/)
+
+The Indian consulate in Wales organized an event to celebrate the 554th birth anniversary of Guru Nanak Dev in Cardiff in association with the Sikh Council of Wales. The event took place on November 27 at Cardiff University and was attended by hundreds of people. It featured the participation of Sikhs from all four Gurdwaras in Wales. Notable attendees included the First Minister of Wales, Mark Drakeford, and the Indian High Commissioner to the UK, Vikram Doraiswami. The event included performances, a vegetarian buffet, and discussions on promoting business, culture, and sports through the 'Living Bridge' in Wales. It was a celebration of community, diversity, and inclusivity, open to people of all religious faiths.
+
+Thu, 14 Dec 2023 20:45:31 +0000
+### [Intel chief ready to go it alone on chip manufacturing](https://theprint.in/tech/intel-chief-ready-to-go-it-alone-on-chip-manufacturing/1886735/)
+
+Intel CEO Pat Gelsinger stated that the company has no plans to spin out its contract chip manufacturing business, instead moving its manufacturing unit into Intel Foundry Services (IFS), operating as a business within Intel. IFS will break out financials starting in the second quarter of next year. Gelsinger also mentioned that Intel isn't prepared to break out IFS into a separate entity and list it. He shared these comments at an event in New York focusing on PC chips with artificial intelligence features, discussing the economic necessity for running AI applications on local PCs rather than far away data centers.
+
+Thu, 14 Dec 2023 20:45:13 +0000
+### [Dollar tumbles on dovish Fed, euro gains as ECB talks down rate cuts](https://theprint.in/economy/dollar-tumbles-on-dovish-fed-euro-gains-as-ecb-talks-down-rate-cuts/1886733/)
+
+Article found but Couldn't summarize 
+By Karen Brettell and Samuel Indyk NEW YORK/LONDON (Reuters) -The dollar fell to a two-week low against the euro and a more than four-month low against the Japanese yen in a broad based selloff on
+
+Thu, 14 Dec 2023 20:45:05 +0000
+### [Oil rises 3% on IEA demand upgrade, weaker dollar](https://theprint.in/economy/oil-rises-3-on-iea-demand-upgrade-weaker-dollar/1886731/)
+
+Article found but Couldn't summarize 
+By Stephanie Kelly NEW YORK (Reuters) -Oil prices rose 3% on Thursday, extending the previous session's gains, boosted by a weaker dollar and as the International Energy Agency (IEA) lifted its oil
+
+Thu, 14 Dec 2023 20:32:02 +0000
+### [“We want it to end as soon as possible, but…”: White House on Israel-Hamas war](https://theprint.in/world/we-want-it-to-end-as-soon-as-possible-but-white-house-on-israel-hamas-war/1886729/)
+
+Article found but Couldn't summarize 
+Washington DC [US], December 15 (ANI): The White House said on Thursday that it wants the Israel-Hamas war to end &#8220;as soon as possible&#8221; but also clarified that Washington won&#8217;t be dictating terms and Tel Aviv has the right to take it &#8220;as long as they feel&#8221; to eliminate the Hamas threat. US National Security [&#8230;]
+
+Thu, 14 Dec 2023 20:30:04 +0000
+### [Israel strikes length of Gaza as US pushes for ‘lower intensity’ war](https://theprint.in/world/israel-strikes-length-of-gaza-as-us-pushes-for-lower-intensity-war/1886727/)
+
+Article found but Couldn't summarize 
+By Nidal al-Mughrabi and Fadi Shana CAIRO/GAZA (Reuters) - Israel pounded the length of the Gaza Strip on Thursday, killing families in their homes even as Washington's envoy discussed how its ally
+
+Thu, 14 Dec 2023 20:17:02 +0000
+### [Pakistan: Protests continue despite severe cold demanding probe over Baloch killings](https://theprint.in/world/pakistan-protests-continue-despite-severe-cold-demanding-probe-over-baloch-killings/1886725/)
+
+Article found but Couldn't summarize 
+Balochistan [Pakistan], December 15 (ANI): Leaders of several political parties and all groups of Balochistan continued their protest in the Sariab Mill against the extrajudicial killings of Baloch people and non-recovery of missing people, Pakistan vernacular media Qudrat Daily reported. The dharna continued in Sariab Mill on the second day despite the severe cold. Hundreds [&#8230;]
+
 Thu, 14 Dec 2023 20:15:54 +0000
 ### [Soccer-Turkish club president given permanent ban for punching referee](https://theprint.in/sport/soccer-turkish-club-president-given-permanent-ban-for-punching-referee/1886723/)
 
