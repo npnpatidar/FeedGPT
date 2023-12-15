@@ -1,3 +1,57 @@
+Fri, 15 Dec 2023 20:02:02 +0000
+### [Hungary blocks USD 54 billion aid for Ukraine](https://theprint.in/world/hungary-blocks-usd-54-billion-aid-for-ukraine/1888272/)
+
+Article found but Couldn't summarize 
+Brussels [Belgium], December 16 (ANI): Hungarian Prime Minister Viktor Orban on Friday blocked 50 billion euros (USD 54 billion) in aid for Ukraine, hours after the European Union agreed to formally open membership talks with Kyiv, Al Jazeera reported. After Orban refused to back the additional funding for Ukraine&#8217;s government, the leaders in Brussels said [&#8230;]
+
+Fri, 15 Dec 2023 19:47:02 +0000
+### [UN Security Council extends sanctions oversight on Taliban for another year](https://theprint.in/world/un-security-council-extends-sanctions-oversight-on-taliban-for-another-year/1888270/)
+
+Article found but Couldn't summarize 
+New York [US], December 16 (ANI): The United Nations Security Council extended the mission of the Sanctions Monitoring Team against the Taliban administration for another year, Khaama Press reported. The UNSC members, in a meeting on Thursday, approved Resolution 2716, requesting the Sanctions Monitoring Team to support the committee established by Resolution 1988. The US [&#8230;]
+
+Fri, 15 Dec 2023 19:32:01 +0000
+### [Pak SC suspends Lahore High Court order; orders Election Commission to issue election schedule by Friday](https://theprint.in/world/pak-sc-suspends-lahore-high-court-order-orders-election-commission-to-issue-election-schedule-by-friday/1888268/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 16 (ANI): The Pakistan Supreme Court on Friday suspended the Lahore High Court order staying the appointment of returning officers and district returning officers and directed the Election Commission of Pakistan (ECP) to issue the election schedule by Friday night, Dawn reported. Three SC bench headed by Chief Justice of Pakistan Qazi [&#8230;]
+
+Fri, 15 Dec 2023 19:30:25 +0000
+### [JK:Exam forms of students of pvt schools on state land being refused, claim parties; official denies](https://theprint.in/india/jkexam-forms-of-students-of-pvt-schools-on-state-land-being-refused-claim-parties-official-denies/1888267/)
+
+Article found but Couldn't summarize 
+Srinagar, Dec 15 (PTI) Political parties in Kashmir on Friday alleged that authorities are not accepting class 10 examination forms from students of private schools established on state land, a charge denied by the J-K Board of School Education. The parties&#8217; reaction came after a media report claimed that the Jammu and Kashmir Board of [&#8230;]
+
+Fri, 15 Dec 2023 19:30:15 +0000
+### [Man dies, brother injured after being stabbed in UP’s Bulandshahr](https://theprint.in/india/man-dies-brother-injured-after-being-stabbed-in-ups-bulandshahr/1888266/)
+
+Article found but Couldn't summarize 
+Bulandshahr (UP), Dec 15 (PTI) A 24-year-old man died and his brother was injured in a knife attack after an altercation between two parties late Friday evening in this district, police. The incident took place in an area under the Khurja City police station limits. Police have nabbed the main accused. Khurja Circle Officer (CO) [&#8230;]
+
+Fri, 15 Dec 2023 19:30:03 +0000
+### [Lalit Jha’s father, brother express shock over his involvement in Parliament security breach](https://theprint.in/india/lalit-jhas-father-brother-express-shock-over-his-involvement-in-parliament-security-breach/1888265/)
+
+Article found but Couldn't summarize 
+Kolkata/Darbhanga, Dec 15 (PTI) Shambhu Jha, the elder brother of Lalit Mohan Jha, the alleged mastermind behind the Parliament security breach, has expressed shock over the incident, stating that the entire family is still in a state of disbelief. In a major security breach on the anniversary of the 2001 Parliament terror attack on Wednesday, [&#8230;]
+
+Fri, 15 Dec 2023 19:15:33 +0000
+### [E-signature company DocuSign to explore sale – WSJ](https://theprint.in/tech/e-signature-company-docusign-to-explore-sale-wsj/1888264/)
+
+Article found but Couldn't summarize 
+(Reuters) - DocuSign is working with advisers to explore a sale, which could be one of the largest leveraged buyouts in recent times, the Wall Street Journal reported on Friday, citing people familiar
+
+Fri, 15 Dec 2023 19:15:14 +0000
+### [Israeli armed forces killed 3 hostages by mistake -spokesperson](https://theprint.in/world/israeli-armed-forces-killed-3-hostages-by-mistake-spokesperson/1888262/)
+
+Article found but Couldn't summarize 
+(Reuters) - The Israeli military mistakingly killed three hostages being held in Gaza by Hamas during an incident which is "under review," a military spokesperson said on Friday. The military said the
+
+Fri, 15 Dec 2023 19:15:04 +0000
+### [Indigenous protesters in Brazil interrupt hearing on Amazon grain railway](https://theprint.in/world/indigenous-protesters-in-brazil-interrupt-hearing-on-amazon-grain-railway/1888260/)
+
+Article found but Couldn't summarize 
+BRASILIA (Reuters) - Indigenous protesters on Friday tried to prevent a public hearing on the construction of a railway that is planned to run through their lands to carry grains to a northern port in
+
 Fri, 15 Dec 2023 19:00:23 +0000
 ### [Ashok Gehlot congratulates Bhajan Lal Sharma on being sworn in as Rajasthan CM](https://theprint.in/india/ashok-gehlot-congratulates-bhajan-lal-sharma-on-being-sworn-in-as-rajasthan-cm/1888259/)
 
