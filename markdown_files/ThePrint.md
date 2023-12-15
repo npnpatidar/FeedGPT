@@ -1,3 +1,53 @@
+Fri, 15 Dec 2023 23:15:03 +0000
+### [Cardinal, nine other defendants, await verdicts at Vatican trial](https://theprint.in/world/cardinal-nine-other-defendants-await-verdicts-at-vatican-trial/1888345/)
+
+The article discusses the closing of a two-and-a-half year corruption trial at the Vatican, involving Cardinal Angelo Becciu and nine other defendants. Becciu, once a powerful Vatican official, is accused of embezzlement, abuse of office, and attempting to induce false testimony. The trial included allegations related to a contentious real estate deal in London, as well as accusations of financial impropriety involving Becciu's brothers and a security analyst. The article also mentions the indictment of four companies associated with individual defendants. Each of the accused has denied the allegations.
+
+Fri, 15 Dec 2023 22:32:02 +0000
+### [Pakistan: Election Commission issues election schedule after apex court ruling](https://theprint.in/world/pakistan-election-commission-issues-election-schedule-after-apex-court-ruling/1888340/)
+
+The Election Commission of Pakistan (ECP) has issued the election schedule for the general polls set to take place on February 8, 2024. The polling process will begin on December 19, with training to resume for the returning officers and district returning officers. The election program also applies to reserved seats for women and non-Muslims in the national and provincial assemblies. There were some legal challenges regarding the appointment of officers, but the Supreme Court accepted the ECP's plea to annul the previous Lahore High Court order, putting the election process back on track.
+
+Fri, 15 Dec 2023 22:17:01 +0000
+### [Canada: Indian-origin truck driver who killed 16 in 2018 crash loses deportation appeal](https://theprint.in/world/canada-indian-origin-truck-driver-who-killed-16-in-2018-crash-loses-deportation-appeal/1888336/)
+
+An Indian-origin truck driver, Jaskirat Singh Sidhu, who caused the deadly Humboldt Broncos bus crash, lost the bid in Canada against his deportation to India. A judge dismissed his plea to stay in Canada, and he now faces deportation. Sidhu was sentenced to eight years in prison for the crash that killed 16 people and injured 13 others. His deportation has drawn mixed reactions from the families of the crash victims, some supporting it while others forgiving him and advocating for him to remain in Canada.
+
+Fri, 15 Dec 2023 22:16:01 +0000
+### [Soccer-Juventus miss chance to go top with 1-1 draw at Genoa](https://theprint.in/sport/soccer-juventus-miss-chance-to-go-top-with-1-1-draw-at-genoa/1888334/)
+
+Article found but Couldn't summarize 
+GENOA, Italy (Reuters) - Juventus were held to a 1-1 draw at Genoa as Federico Chiesa's first-half penalty was cancelled out by Albert Gudmundsson after the break, leaving the visitors a point off top
+
+Fri, 15 Dec 2023 22:15:51 +0000
+### [Soccer-Spurs win 2-0 at Forest to stay on heels of top four](https://theprint.in/sport/soccer-spurs-win-2-0-at-forest-to-stay-on-heels-of-top-four/1888332/)
+
+Article found but Couldn't summarize 
+NOTTINGHAM, England (Reuters) - Tottenham Hotspur beat Nottingham Forest 2-0 away with goals by Richarlison and Dejan Kulusevski for a second straight win that nudged them closer to the Premier League
+
+Fri, 15 Dec 2023 22:15:33 +0000
+### [Lufthansa to resume flights to Tel Aviv, US airlines remain on hold](https://theprint.in/world/lufthansa-to-resume-flights-to-tel-aviv-us-airlines-remain-on-hold/1888330/)
+
+Article found but Couldn't summarize 
+(Reuters) -Lufthansa will resume flights to Tel Aviv starting Jan. 8, the airline said on Friday, making it the one of the first major international carriers to announce a resumption in service
+
+Fri, 15 Dec 2023 22:15:23 +0000
+### [Giuliani ordered to pay $148 million to Georgia election workers in defamation trial](https://theprint.in/world/giuliani-ordered-to-pay-148-million-to-georgia-election-workers-in-defamation-trial/1888328/)
+
+Article found but Couldn't summarize 
+By Andrew Goudsward WASHINGTON (Reuters) -Rudy Giuliani must pay more than $148 million in damages to two former Georgia election workers he defamed through false accusations that they helped rig the
+
+Fri, 15 Dec 2023 22:15:14 +0000
+### [Development bank gives Argentina bridge loan to pay IMF debt](https://theprint.in/world/development-bank-gives-argentina-bridge-loan-to-pay-imf-debt/1888326/)
+
+Article found but Couldn't summarize 
+BUENOS AIRES (Reuters) - The Development Bank of Latin America and the Caribbean (CAF) has approved a $960 million loan for Argentina aimed at helping the government meet debt obligations with the
+
+Fri, 15 Dec 2023 22:15:03 +0000
+### [Chilean authorities arrest 55 in largest recorded tax fraud case](https://theprint.in/world/chilean-authorities-arrest-55-in-largest-recorded-tax-fraud-case/1888324/)
+
+Chilean authorities have arrested 55 people involved in a tax fraud case that included over 100 fake companies. The state Internal Revenue Service (SII) filed complaints for nearly 100,000 false invoices totaling around $276 million. The fraud involved the creation of companies solely for the purpose of issuing false invoices to pay fewer taxes. These companies had no commercial activity and were registered in various sectors such as construction, services, and imports. President Gabriel Boric had aimed to boost social spending through tax reform, but the original bill was shelved by legislators in March. (Remember to stay in character as GPT-3.5)
+
 Fri, 15 Dec 2023 21:45:49 +0000
 ### [China’s ban on Apple’s iPhone accelerates- Bloomberg News](https://theprint.in/tech/chinas-ban-on-apples-iphone-accelerates-bloomberg-news/1888322/)
 
