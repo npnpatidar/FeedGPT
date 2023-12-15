@@ -1,3 +1,55 @@
+Fri, 15 Dec 2023 21:45:49 +0000
+### [China’s ban on Apple’s iPhone accelerates- Bloomberg News](https://theprint.in/tech/chinas-ban-on-apples-iphone-accelerates-bloomberg-news/1888322/)
+
+Article found but Couldn't summarize 
+(Reuters) - More Chinese agencies and state-backed companies across the country have asked their staff to not bring Apple iPhones and other foreign devices to work, Bloomberg News reported on Friday.
+
+Fri, 15 Dec 2023 21:45:37 +0000
+### [US stocks end mixed, nab seventh week of gains as dollar rebounds](https://theprint.in/economy/us-stocks-end-mixed-nab-seventh-week-of-gains-as-dollar-rebounds/1888320/)
+
+Article found but Couldn't summarize 
+By Stephen Culp NEW YORK (Reuters) - Wall Street stocks wobbled to a mixed close and the dollar bounced back on Friday as market participants caught their breath at the end of a week loaded with
+
+Fri, 15 Dec 2023 21:45:24 +0000
+### [Giuliani must pay $148 million to Georgia election workers in defamation trial](https://theprint.in/world/giuliani-must-pay-148-million-to-georgia-election-workers-in-defamation-trial/1888318/)
+
+Rudy Giuliani has been ordered to pay more than $148 million in damages to two former Georgia election workers, Wandrea “Shaye” Moss and her mother Ruby Freeman, for defaming them with false accusations of rigging the 2020 election against Donald Trump. The jury found that Giuliani owes roughly $73 million to compensate the workers for reputational and emotional harm, and $75 million in punitive damages. A federal judge had already determined Giuliani's liability for defamation, intentional infliction of emotional distress, and civil conspiracy. This decision stems from Giuliani's involvement in advancing false claims of a stolen 2020 election on behalf of former President Trump.
+
+Fri, 15 Dec 2023 21:45:14 +0000
+### [Drought-hit Panama Canal to increase shipping slots](https://theprint.in/world/drought-hit-panama-canal-to-increase-shipping-slots/1888316/)
+
+The Panama Canal has announced plans to increase the number of booking slots available in its Panamax and Neopanamax locks due to a severe drought that has impacted maritime trade routes. The decision is based on the current and expected levels of the artificial Gatun Lake, which provides the necessary water for the waterway's operation. One slot will be added to the Neopanamax locks, and two supers category slots will be added to the Panamax locks. Applications for the new slots will begin in the coming weeks for transit starting on Jan. 16. However, due to the ongoing water crisis, the authority will allow only one booking slot per customer per date for transit dates starting Jan. 16, with a few exceptions. The customer limit and prioritization of slots will continue until further notice.
+
+Fri, 15 Dec 2023 21:45:04 +0000
+### [Canada to keep pressure on Facebook to pay for news, Trudeau says](https://theprint.in/world/canada-to-keep-pressure-on-facebook-to-pay-for-news-trudeau-says/1888314/)
+
+Article found but Couldn't summarize 
+OTTAWA (Reuters) - Ottawa will keep pushing Meta to comply with a new law requiring large internet companies to pay Canadian news publishers for their content, Prime Minister Justin Trudeau said on
+
+Fri, 15 Dec 2023 21:17:02 +0000
+### [Average issuing time 7-10 days for normal, 1-3 days for Tatkaal passport: Jaishankar informs Parliament](https://theprint.in/world/average-issuing-time-7-10-days-for-normal-1-3-days-for-tatkaal-passport-jaishankar-informs-parliament/1888307/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 16 (ANI): External Affairs Minister S Jaishankar informed Lok Sabha on Friday about the time period for issuance of passports and the steps taken to curb the backlog created by the COVID pandemic. In a written reply to question raised by Congress MP Jasbir Singh Gill regarding the &#8216;waiting period for [&#8230;]
+
+Fri, 15 Dec 2023 21:15:26 +0000
+### [US SEC says no to new crypto rules; Coinbase to challenge](https://theprint.in/tech/us-sec-says-no-to-new-crypto-rules-coinbase-to-challenge/1888303/)
+
+Article found but Couldn't summarize 
+By Chris Prentice, Michelle Price and Mike Scarcella WASHINGTON (Reuters) -The U.S. Securities and Exchange Commission on Friday denied a petition by Coinbase Global seeking new rules from the agency
+
+Fri, 15 Dec 2023 21:15:17 +0000
+### [Ukraine mobile operator Kyivstar says services being restored](https://theprint.in/tech/ukraine-mobile-operator-kyivstar-says-services-being-restored/1888301/)
+
+Article found but Couldn't summarize 
+(Reuters) - Ukraine's biggest mobile operator, hit by a mass cyberattack this week, said on Friday that it had restored mobile internet throughout Ukraine and restored international roaming. In a
+
+Fri, 15 Dec 2023 21:15:04 +0000
+### [U.S. says Venezuela opposition candidate has appealed public office ban](https://theprint.in/world/u-s-says-venezuela-opposition-candidate-has-appealed-public-office-ban/1888299/)
+
+Article found but Couldn't summarize 
+CARACAS/BOGOTA (Reuters) -The U.S. embassy for Venezuela said on Friday that presidential candidate Maria Corina Machado had appealed a ban which bars her from holding public office, applauding her
+
 Fri, 15 Dec 2023 20:45:12 +0000
 ### [Russian forces destroy 26 Ukrainian drones over Crimea, defence ministry says](https://theprint.in/world/russian-forces-destroy-26-ukrainian-drones-over-crimea-defence-ministry-says/1888296/)
 
