@@ -1,3 +1,9 @@
+2023-12-15T22:25:44+05:30
+### [Indian-American Lawmakers Warn of 'Significant Damage' Pannun 'Murder Plot' Could Pose to Bilateral Ties](https://thewire.in/diplomacy/pannun-murder-plot-significant-damage-likely-for-bilateral-ties-warn-indian-american-lawmakers)
+
+No Article text 
+In a joint statement, five US Congress members said relations between India and the US could face 'significant damage' if there is no enough accountability for allegations made of the involvement of an Indian government official in the plot to kill the US citizen.
+
 2023-12-15T21:20:39+05:30
 ### [Srinagar: Prayers at Jamia Masjid Barred for 10th Consecutive Friday, Mirwaiz Put Under House Arrest](https://thewire.in/rights/srinagar-prayers-at-jamia-masjid-barred-for-10th-consecutive-friday-mirwaiz-put-under-house-arrest)
 

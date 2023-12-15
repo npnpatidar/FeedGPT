@@ -1,3 +1,114 @@
+Fri, 15 Dec 2023 17:02:13 +0000
+### [India’s November exports saw marginal 1.2 pc growth at USD 62.6 billion](https://theprint.in/economy/indias-november-exports-saw-marginal-1-2-pc-growth-at-usd-62-6-billion/1888132/)
+
+India’s overall exports, including merchandise and services, in November 2023 were estimated to be USD 62.58 billion, showing a marginal positive growth of 1.23% on a yearly basis. The major contributors to this growth included iron ore, gems and jewelry, pharmaceuticals, fruits and vegetables, dairy and poultry products, among others. The trade deficit in November narrowed to USD 5.30 billion from the previous month. In the fiscal year 2022-23, India's overall exports were worth USD 775.87 billion, with significant growth in merchandise and services exports. The government's initiatives, such as the Production Linked Incentive (PLI) scheme, contributed to making Indian manufacturers globally competitive, attracting investments, and enhancing exports.
+
+Fri, 15 Dec 2023 17:02:02 +0000
+### [UAE Air Force and Air Defence to participate in Ethiopian Air Force’s 88th anniversary celebrations](https://theprint.in/world/uae-air-force-and-air-defence-to-participate-in-ethiopian-air-forces-88th-anniversary-celebrations/1888130/)
+
+The UAE Ministry of Defence, represented by the Air Force and Air Defence, and the Joint Aviation Command, will participate in the Ethiopian Air Force's 88th anniversary celebrations at the Harar Meda Air Base in Ethiopia’s capital Addis Ababa. The UAE's Air Force and Air Defence will take part in the "Black Lion" air show as a response to an invitation from the Ethiopian Air Force, highlighting the close relations and strategic partnership between the UAE and Ethiopia. This participation reflects the Ministry of Defence's commitment to supporting and strengthening military and defence cooperation between the two countries.
+
+Fri, 15 Dec 2023 17:01:05 +0000
+### [11 more BJP leaders appointed vice presidents of various councils, committees](https://theprint.in/india/11-more-bjp-leaders-appointed-vice-presidents-of-various-councils-committees/1888129/)
+
+Article found but Couldn't summarize 
+Dehradun, Dec 15 (PTI) Uttarakhand Chief Minister Pushkar Singh Dhami has appointed 11 more senior BJP leaders as vice-presidents of various councils and committees in the state. The second list of 11 party leaders appointed to different posts include Dedvendra Bhasin, Vishwas Dabur, Chandi Prasad Bhatt, Vinod Uniyal, Shyamveer Saini, Rajkumar, Dipak Mehra, Vinay Rohila, [&#8230;]
+
+Fri, 15 Dec 2023 17:00:53 +0000
+### [Telangana BJP chief calls on partymen to gear up for LS polls](https://theprint.in/india/telangana-bjp-chief-calls-on-partymen-to-gear-up-for-ls-polls/1888128/)
+
+Summary: BJP chief J P Nadda is expected to visit Hyderabad in the last week of December to prepare for the upcoming Lok Sabha elections in Telangana. BJP president in Telangana, G Kishan Reddy, urged party members to gear up for the elections and strive to win the maximum number of seats in Telangana. The article also mentions the BJP's improved vote share in Telangana and the efforts of the NDA government to ensure the benefits of welfare schemes reach eligible beneficiaries.
+
+Fri, 15 Dec 2023 17:00:42 +0000
+### [Security staff of Kerala CM attacked KSU-YC workers, alleges Congress](https://theprint.in/india/security-staff-of-kerala-cm-attacked-ksu-yc-workers-alleges-congress/1888126/)
+
+The Congress has alleged that the security staff of Chief Minister Pinarayi Vijayan attacked workers of Youth Congress and Kerala Students Union in Alappuzha during a government outreach program. The KPCC president and Leader of Opposition in the state Assembly issued separate statements condemning the alleged attack and warned of retaliation if hooliganism continues. The Congress claimed that the Chief Minister's bodyguards and gunmen are a group of hardened criminals and urged Vijayan to control them. They also alleged that after the workers were attacked, the house of KPCC general secretary M J Job was targeted and his wife was assaulted. The Congress has accused the police and criminals of systematically attacking Congress workers and warned of a strong response if the situation is not addressed.
+
+Fri, 15 Dec 2023 17:00:32 +0000
+### [PCB says it has signed hosting rights agreement of 2025 Champions Trophy with ICC](https://theprint.in/sport/pcb-says-it-has-signed-hosting-rights-agreement-of-2025-champions-trophy-with-icc/1888125/)
+
+The Pakistan Cricket Board (PCB) has signed the hosting rights agreement for the 2025 Champions Trophy with the International Cricket Council (ICC) in Dubai. The agreement was signed by Zaka Ashraf, who heads the Cricket Management Committee running the PCB affairs at the moment. Pakistan last hosted an ICC event in 1996 - the ODI World Cup. The biggest challenge surrounding Pakistan hosting the Champions Trophy remains whether the Indian government would allow its team to travel to Pakistan for its matches. The PCB has conveyed to the government to provide foolproof security to visiting international teams for the Champions Trophy. Presently, only Karachi, Lahore, and Multan have stadiums capable of hosting Champions Trophy games.
+
+Fri, 15 Dec 2023 17:00:22 +0000
+### [Odisha: Ex-bureaucrat Pandian puts all speculations at rest, says will not contest polls](https://theprint.in/india/odisha-ex-bureaucrat-pandian-puts-all-speculations-at-rest-says-will-not-contest-polls/1888124/)
+
+The article reports that V Karthikeyan Pandian, a close aide to Chief Minister Naveen Patnaik in Odisha, has clarified that he is unlikely to contest the Lok Sabha and state assembly elections in 2024. There were rumors that Pandian, who recently joined the BJD, would contest the elections next year, but he has stated that he will not be contesting and will instead support Chief Minister Naveen Patnaik in all the 147 assembly segments in Odisha. This decision was confirmed by BJD senior vice-president Debi Prasad Mishra and Pandian himself, emphasizing his dedication to serving the people of Odisha and further strengthening the BJD for the state's development.
+
+Fri, 15 Dec 2023 17:00:13 +0000
+### [Democracy blossoms when three wings work in tandem: V-P on separation of powers](https://theprint.in/india/democracy-blossoms-when-three-wings-work-in-tandem-v-p-on-separation-of-powers/1888123/)
+
+Vice President Jagdeep Dhankhar emphasized the need for a structured mechanism of interaction among the heads of the Executive, Legislature, and Judiciary in India to ensure that the country's democracy thrives. He suggested that public platforms are not the appropriate avenue for these leaders to share their thoughts and urged for collaboration rather than confrontation. Additionally, he highlighted the role of the Attorney General in ensuring deference to the doctrine of separation of powers from all three organs. This information was shared during an event to launch a poetry collection by R. Venkataramani, the Attorney General.
+
+Fri, 15 Dec 2023 17:00:02 +0000
+### [HC dismisses plea seeking security to Atiq Ahmad’s son in jail](https://theprint.in/india/hc-dismisses-plea-seeking-security-to-atiq-ahmads-son-in-jail/1888122/)
+
+Article found but Couldn't summarize 
+Prayagraj (UP), Dec 15 (PTI) The Allahabad High Court has dismissed a writ petition filed by slain gangster-turned-politician Atiq Ahmad&#8217;s son Ali Ahmad, seeking security in jail due to apprehensions of a &#8220;threat&#8221; to his life. In his petition, Ali Ahmad had requested the court to conduct the hearing of his case through video-conferencing for [&#8230;]
+
+Fri, 15 Dec 2023 16:45:54 +0000
+### [Construction of AIIMS Rewari set to commence soon: Haryana Health Minister Anil Vij](https://theprint.in/india/construction-of-aiims-rewari-set-to-commence-soon-haryana-health-minister-anil-vij/1888117/)
+
+Article found but Couldn't summarize 
+Chandigarh, Dec 15 (PTI) Haryana&#8217;s Health Minister Anil Vij on Friday said the work for construction of All India Institute of Medical Sciences (AIIMS), Rewari is expected to start shortly. Responding to a question raised during the Question Hour in the state Assembly by Congress&#8217; Rewari MLA Chiranjeev Rao, Vij emphasised that the Haryana government, [&#8230;]
+
+Fri, 15 Dec 2023 16:45:44 +0000
+### [Atishi inaugurates 67th National School Games](https://theprint.in/sport/atishi-inaugurates-67th-national-school-games/1888116/)
+
+The 67th National School Games were inaugurated by Delhi Sports Minister Atishi at Chhatrasal Stadium. She emphasized the importance of integrating sports with education and highlighted the exceptional skill and determination of athletes. The event was hosted by the Delhi Directorate of Education and saw the participation of over 3,000 student players from 44 units across India. The games featured students in the U-14, U-17, and U-19 categories participating in 13 games, including Handball, Karate, Gymnastics, Table Tennis, Wrestling, and more.
+
+Fri, 15 Dec 2023 16:45:34 +0000
+### [CISF orders ‘enquiry’ after TN CM claims jawan harassed woman at airport for not knowing Hindi](https://theprint.in/india/cisf-orders-enquiry-after-tn-cm-claims-jawan-harassed-woman-at-airport-for-not-knowing-hindi/1888114/)
+
+The Central Industrial Security Force (CISF) has ordered an enquiry following Tamil Nadu Chief Minister M K Stalin’s claim that a woman from his state was harassed by a constable of the force at the Goa airport after she said she does not know Hindi. The CISF guards 67 civil airports of the country and has stated that it respects the nation’s linguistic diversity. The force has ordered an enquiry into the incident and is taking steps to sensitize its personnel on how to treat passengers and educate them about the rich cultural and linguistic diversity of the Union. Discrimination has no place in India and the chief minister emphasized the need to ensure equal respect for all languages.
+
+Fri, 15 Dec 2023 16:45:24 +0000
+### [Anti-Gangster Task Force to be formed to control organised crime: Rajasthan CM Bhajan Lal Sharma](https://theprint.in/india/anti-gangster-task-force-to-be-formed-to-control-organised-crime-rajasthan-cm-bhajan-lal-sharma/1888113/)
+
+Article found but Couldn't summarize 
+Jaipur, Dec 15 (PTI) Rajasthan Chief Minister Bhajan Lal Sharma Friday said an Anti-Gangster Task Force will be formed to control organised crime in the state while a Special Investigation Team will probe government exam paper leak cases. At a press conference in the chief minister&#8217;s office on Friday night, hours after his swearing-in, Sharma [&#8230;]
+
+Fri, 15 Dec 2023 16:45:15 +0000
+### [Govt allows use of cane juice, B-molasses to make ethanol; caps sugar diversion at 17 lakh tonnes in 2023-24](https://theprint.in/economy/govt-allows-use-of-cane-juice-b-molasses-to-make-ethanol-caps-sugar-diversion-at-17-lakh-tonnes-in-2023-24/1888112/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) In a U-turn, the government on Friday reversed its decision to ban the use of sugarcane juice for making ethanol as it allowed utilisation of the juice as well as B-heavy molasses to produce the green fuel but capped the diversion of sugar at 17 lakh tonnes. For now, the [&#8230;]
+
+Fri, 15 Dec 2023 16:45:02 +0000
+### [Mukhtar Ansari gets  five-and-a-half year’s jail term for death threat to coal trader](https://theprint.in/india/mukhtar-ansari-gets-five-and-a-half-years-jail-term-for-death-threat-to-coal-trader/1888111/)
+
+Article found but Couldn't summarize 
+Varanasi (UP), Dec 15 (PTI) A special court here on Friday sentenced gangster-turned-politician Mukhtar Ansari to five-and-a-half year&#8217;s imprisonment for death threat to a coal trader in 1997. Along with the imprisonment, the MP-MLA court of Ujjawal Upadhyay also slapped a fine of Rs 10,000 on Ansari after convicting him for threatening to kill Mahaveer [&#8230;]
+
+Fri, 15 Dec 2023 16:31:08 +0000
+### [Father, son died after being electrocuted in UP’s Gonda](https://theprint.in/india/father-son-died-after-being-electrocuted-in-ups-gonda/1888107/)
+
+Article found but Couldn't summarize 
+Gonda (UP), Dec 15 (PTI) A 50-year-old man and his son died from electric shock while irrigating a field in this district, police said on Friday. The incident took place in a village under Paraspur police station limits on Thursday night. Station House Officer (SHO) Sesh Mani Pandey said,&#8221;Raghvendra Singh and his son Vipin Singh [&#8230;]
+
+Fri, 15 Dec 2023 16:30:57 +0000
+### [Dalit woman gang-raped in moving bus coming from UP, one arrested](https://theprint.in/india/dalit-woman-gang-raped-in-moving-bus-coming-from-up-one-arrested/1888106/)
+
+Article found but Couldn't summarize 
+Jaipur, Dec 15 (PTI) A 20-year-old Dalit woman was allegedly gang-raped by two drivers in a moving bus coming here from Uttar Pradesh, police said on Friday. The incident took place in the intervening night of December 9 and 10 when the private bus was en route to Jaipur from Uttar Pradesh, they said. The [&#8230;]
+
+Fri, 15 Dec 2023 16:30:47 +0000
+### [Thane court hands 2-year rigorous jail term to woman for kidnapping toddler for begging](https://theprint.in/india/thane-court-hands-2-year-rigorous-jail-term-to-woman-for-kidnapping-toddler-for-begging/1888105/)
+
+Article found but Couldn't summarize 
+Thane, Dec 15 (PTI) A local court has sentenced a 36-year-old woman to two years of rigorous imprisonment for kidnapping a toddler for begging last year in Raigad district, noting the accused needs to be dealt with an iron hand. First Class Judicial Magistrate (Railway Court) at Kalyan in Thane district, Swayam S Chopda, also [&#8230;]
+
+Fri, 15 Dec 2023 16:30:36 +0000
+### [Odisha: Miscreants stab jewellery shop employee, loot gold worth over Rs 50 lakh](https://theprint.in/india/odisha-miscreants-stab-jewellery-shop-employee-loot-gold-worth-over-rs-50-lakh/1888104/)
+
+Article found but Couldn't summarize 
+Rourkela (Odisha), Dec 15 (PTI) Three unidentified miscreants allegedly stabbed a jewellery shop employee multiple times and looted gold worth Rs 52 lakh in Rourkela city on Friday, police said. Pradeep Soni was attacked by the miscreants when he was returning home along with his friend in a two-wheeler with the gold from Kolkata, they [&#8230;]
+
+Fri, 15 Dec 2023 16:30:25 +0000
+### [India hosts anti-terror exercise of SCO member states](https://theprint.in/india/india-hosts-anti-terror-exercise-of-sco-member-states/1888103/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) India on Friday hosted a joint anti-terror exercise of the Shanghai Cooperation Organisation (SCO) nations with a broader aim of suppressing the use of the internet for terrorist activities. The exercise was carried out in New Delhi with the support of the executive committee of the Regional Anti-Terrorist Structure (RATS) [&#8230;]
+
 Fri, 15 Dec 2023 16:17:24 +0000
 ### [EAM Jaishankar meets Oman Sultan Haitham Bin Tarik in Delhi](https://theprint.in/world/eam-jaishankar-meets-oman-sultan-haitham-bin-tarik-in-delhi/1888093/)
 
