@@ -1,3 +1,15 @@
+2023-12-15T15:30:20+05:30
+### [Nehru and Kashmir: After SC's Article 370 Order, BJP Attempts to Distort History Again](https://thewire.in/politics/nehru-kashmir-article-370-rss-bjp-distort-history)
+
+No Article text 
+The attempt to show Nehru and Sardar Patel as having differing opinions on the issue of Kashmir is a figment of imagination which abuses the facts of history to the extreme.
+
+2023-12-15T15:00:47+05:30
+### [Journalists, Activists, Lawyers Express Solidarity With NewsClick Founder Prabir Purkayastha](https://thewire.in/rights/journalists-activists-lawyers-express-solidarity-with-newsclick-founder-prabir-purkayastha)
+
+No Article text 
+During a discussion on Purkayastha's latest book 'Keeping Up the Good Fight: From the Emergency to the Present Day', the media's performance during the Emergency and the current attacks on journalists were discussed.
+
 2023-12-15T14:30:35+05:30
 ### [COP28 Floundered on Fossil Fuels, Coal and Finance](https://thewire.in/environment/cop28-floundered-fossil-fuels-coal-finance)
 

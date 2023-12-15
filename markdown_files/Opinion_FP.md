@@ -1,3 +1,14 @@
+Fri, 15 Dec 2023 15:23:30 +0530
+### [Vantage | How Maldives' two 'India Out' champions, Yameen and Muizzu, fell out](https://www.firstpost.com/opinion/vantage-how-maldives-two-india-out-champions-yameen-and-muizzu-fell-out-13506902.html)
+
+Article found but Couldn't summarize 
+Vantage | How Maldives' two 'India Out' champions, Yameen and Muizzu, fell out
+
+Fri, 15 Dec 2023 15:09:55 +0530
+### [Vantage | What makes you a morning person? Science has the answer](https://www.firstpost.com/opinion/vantage-what-makes-you-a-morning-person-science-has-the-answer-13506762.html)
+
+The article discusses the cultural emphasis on waking up early and whether it is applicable to everyone. It explores the genetic connection to being a morning person or a night owl, discussing the influence of Neanderthal genes on our sleep patterns. The article questions the realistic and beneficial nature of conforming to the norm of waking up early, highlighting potential stress and discomfort. It also addresses the societal rewards for early risers and the importance of acknowledging and embracing individual differences. The article suggests redefining success to involve respecting unique qualities and striking a balance between natural circadian rhythms and the demands of a fast-paced world.
+
 Fri, 15 Dec 2023 14:19:14 +0530
 ### [Taming the dragon: India is emerging as a powerful player in South China Sea](https://www.firstpost.com/opinion/taming-the-dragon-india-is-emerging-as-a-powerful-player-in-south-china-sea-13506882.html)
 

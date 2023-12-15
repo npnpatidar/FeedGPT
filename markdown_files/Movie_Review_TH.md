@@ -1,3 +1,9 @@
+Fri, 15 Dec 2023 15:11:41 +0530
+### [Ramana Balachandran weaves together new ideas](https://www.thehindu.com/entertainment/music/ramana-balachandran-weaves-together-new-ideas/article67634259.ece)
+
+Article found but Couldn't summarize 
+Ramana, who performed recently at Delhi’s Sunder Nursery, shares how he changes the format of his presentation everytime
+
 Fri, 15 Dec 2023 13:59:03 +0530
 ### [‘Fight Club’ Tamil movie review: This Vijay Kumar-starrer is all style and very little substance](https://www.thehindu.com/entertainment/movies/fight-club-tamil-movie-review-this-vijay-kumar-starrer-is-all-style-and-very-little-substance/article67640997.ece)
 

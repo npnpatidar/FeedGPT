@@ -1,3 +1,21 @@
+Fri, 15 Dec 2023 15:37:35 +0530
+### [Netflix subscribers can now finally play GTA trilogy on Android, iOS devices. Here’s how to download](https://www.firstpost.com/tech/netflix-subscribers-can-now-finally-play-gta-trilogy-on-android-ios-devices-heres-how-to-download-13507332.html)
+
+Article found but Couldn't summarize 
+Netflix subscribers can now finally play GTA trilogy on Android, iOS devices. Here’s how to download
+
+Fri, 15 Dec 2023 15:03:23 +0530
+### [Google to start restricting third-party cookies from January, completely disable them by mid-2024](https://www.firstpost.com/tech/google-to-start-restricting-ad-cookies-from-january-completely-disable-them-by-mid-2024-13507152.html)
+
+Article found but Couldn't summarize 
+Google to start restricting third-party cookies from January, completely disable them by mid-2024
+
+Fri, 15 Dec 2023 14:48:14 +0530
+### [Google to stop sharing location data of people with police, will not respond to geofence warrants](https://www.firstpost.com/tech/google-to-stop-sharing-location-data-of-people-with-the-police-will-not-respond-to-geofence-warrants-13507092.html)
+
+Article found but Couldn't summarize 
+Google to stop sharing location data of people with police, will not respond to geofence warrants
+
 Fri, 15 Dec 2023 13:17:03 +0530
 ### [OpenAI believes human-like SuperAI is coming sooner than expected, plans to control, capitalise on it](https://www.firstpost.com/tech/openai-believes-human-like-superai-is-coming-sooner-than-expected-plans-to-control-capitalise-on-it-13506542.html)
 

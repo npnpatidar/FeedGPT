@@ -1,3 +1,120 @@
+Fri, 15 Dec 2023 10:17:31 +0000
+### [Mitron Introduces Exciting New Culinary Delights for the Holiday Season!](https://theprint.in/ani-press-releases/mitron-introduces-exciting-new-culinary-delights-for-the-holiday-season/1887416/)
+
+Article found but Couldn't summarize 
+PNN Mumbai (Maharashtra) [India], December 15: Get ready to be swept away by the holiday charm at Mitron Bar and Cafe this season. The celebrations commence with the traditional Cake Mixing Ceremony on 17th December at their latest Navi Mumbai outlet, marking the start of a season of gifting and joy. Continue the celebration with [&#8230;]
+
+Fri, 15 Dec 2023 10:17:22 +0000
+### [The Lenzing Conclave in Bangalore: Pioneers Sustainable Solutions for the Textile Industry](https://theprint.in/ani-press-releases/the-lenzing-conclave-in-bangalore-pioneers-sustainable-solutions-for-the-textile-industry/1887414/)
+
+Article found but Couldn't summarize 
+ATK New Delhi [India], December 15: The Lenzing Group, world leading provider of wood-based specialty fibers, hosted the &#8216;The Lenzing Conclave&#8217; in Bengaluru. The event served as a platform for brands, retailers, and selected garment manufacturers to convene, exchanging insights on current consumption trends and the future trajectory of textile fibers and fabrics for 2030. [&#8230;]
+
+Fri, 15 Dec 2023 10:17:12 +0000
+### [Benny Abraham Appointed as Managing Director – India and South Asia at actyv.ai](https://theprint.in/ani-press-releases/benny-abraham-appointed-as-managing-director-india-and-south-asia-at-actyv-ai/1887412/)
+
+Article found but Couldn't summarize 
+BusinessWire India Bangalore (Karnataka) [India], December 15: actyv.ai, a leading provider of cutting-edge AI powered Enterprise SaaS solutions in the Supply Chain domain, has announced the elevation of Benny Abraham to the position of Managing Director &#8211; India &#38; South Asia. In his new role, Benny will be responsible to drive the business growth strategies, [&#8230;]
+
+Fri, 15 Dec 2023 10:17:02 +0000
+### [Queensland Minister, The Stirling Hinchliffe MP visits India to Bolster Queensland – India trade relations](https://theprint.in/ani-press-releases/queensland-minister-the-stirling-hinchliffe-mp-visits-india-to-bolster-queensland-india-trade-relations/1887410/)
+
+Article found but Couldn't summarize 
+VMPL New Delhi [India], December 15: The Stirling Hinchliffe MP, Queensland Minister for Tourism, Innovation and Sport, Minister Assisting the Premier on Olympics and Paralympics Sport and Engagement and Minister Responsible for International Education and Training is currently on a five-day Mission to India. This is the first Queensland ministerial visit since the launch of [&#8230;]
+
+Fri, 15 Dec 2023 10:16:23 +0000
+### [Cricket-India’s Sharma grabs five wickets for seven runs as England women collapse](https://theprint.in/sport/cricket-indias-sharma-grabs-five-wickets-for-seven-runs-as-england-women-collapse/1887408/)
+
+Article found but Couldn't summarize 
+(Reuters) - India's Deepti Sharma was the thorn in England's flesh yet again after the feisty spinner captured five wickets for seven runs in an extraordinary spell to bundle out the tourists for 136
+
+Fri, 15 Dec 2023 10:16:10 +0000
+### [China issues draft plan for data security incidents](https://theprint.in/tech/china-issues-draft-plan-for-data-security-incidents/1887406/)
+
+Article found but Couldn't summarize 
+BEIJING (Reuters) -China on Friday proposed a four-tier classification to help it respond to data security incidents, highlighting Beijing's concern with large-scale data leaks and hacking within its
+
+Fri, 15 Dec 2023 10:15:58 +0000
+### [Pune to host nine-day book festival from December 16](https://theprint.in/india/pune-to-host-nine-day-book-festival-from-december-16/1887405/)
+
+Article found but Couldn't summarize 
+Pune, Dec 15 (PTI) Thousands of books in English and 10 regional languages will be up for grabs at the nine-day Pune Book Festival, which begins in the city on Saturday. The National Book Trust, in collaboration with the Pune Municipal Corporation, is organising the festival on the premises of Fergusson College from December 16 [&#8230;]
+
+Fri, 15 Dec 2023 10:15:56 +0000
+### [Factbox-Will Western aid plug Ukraine’s gaping budget deficit in 2024?](https://theprint.in/world/factbox-will-western-aid-plug-ukraines-gaping-budget-deficit-in-2024-2/1887404/)
+
+Article found but Couldn't summarize 
+By Olena Harmash KYIV (Reuters) - Kyiv has relied heavily on economic assistance from the West during Russia's war on Ukraine, but faces uncertainty over where funds will come from in 2024. Ukraine
+
+Fri, 15 Dec 2023 10:15:47 +0000
+### [J’khand: Winter assembly session begins](https://theprint.in/india/jkhand-winter-assembly-session-begins-2/1887402/)
+
+Article found but Couldn't summarize 
+Ranchi, Dec 15 (PTI) The five-day winter session of the Jharkhand assembly began on Friday. The House assembled for around an hour and was adjourned till December 18 after obituary references. Speaker Rabindra Nath Mahto told the House that there would be five sittings during the session, in which the second supplementary budget for the [&#8230;]
+
+Fri, 15 Dec 2023 10:15:47 +0000
+### [Missing boy found in France expected to return to UK in next few days -UK police](https://theprint.in/world/missing-boy-found-in-france-expected-to-return-to-uk-in-next-few-days-uk-police/1887401/)
+
+Article found but Couldn't summarize 
+LONDON (Reuters) - A teenager from Britain who was found in southern France after disappearing six years ago is expected to return to his family in northern England in the next few days, British
+
+Fri, 15 Dec 2023 10:15:36 +0000
+### [White House sees precise targeting of Hamas leaders in next phase of Gaza war](https://theprint.in/world/white-house-sees-precise-targeting-of-hamas-leaders-in-next-phase-of-gaza-war/1887399/)
+
+Article found but Couldn't summarize 
+JERUSALEM (Reuters) - The war in Gaza will transition to a new phase focused on precise targeting of the Hamas leadership and on intelligence driven operations, U.S. National Security Adviser Jake
+
+Fri, 15 Dec 2023 10:15:35 +0000
+### [Youths skilled under ‘Rail Kaushal Vikas Yojana’ are not preferred for railway jobs: Vaishnaw](https://theprint.in/india/youths-skilled-under-rail-kaushal-vikas-yojana-are-not-preferred-for-railway-jobs-vaishnaw/1887398/)
+
+As GPT-3.5, I can summarize the article for you. The "Rail Kaushal Vikas Yojana" scheme in India has trained over 26,000 candidates until November 2023. However, these candidates will not receive any preference for jobs in the Indian Railways. The scheme aims to enhance the skills of individuals to help them secure employment or start their own businesses. The Indian Railways launched this program to empower candidates between the ages of 18 and 35 by providing them with entry-level skill training in various technical trades. Successful candidates receive certificates for their training, and the objective is to improve their employability and entrepreneurship. The scheme aims to empower trained candidates to find wage employment or become self-employed. The Indian Railways does not maintain state-wise data of the candidates. Please note that this summary is generated by GPT-3.5 and may not be an exact representation of the article.
+
+Fri, 15 Dec 2023 10:15:26 +0000
+### [Leading Hong Kong democrat’s son says trial outcome pre-determined](https://theprint.in/world/leading-hong-kong-democrats-son-says-trial-outcome-pre-determined/1887396/)
+
+Article found but Couldn't summarize 
+TAIPEI (Reuters) - The son of leading China critic and Hong Kong media tycoon Jimmy Lai said on Friday he thought the outcome of his father's trial next week had already been decided but he was proud
+
+Fri, 15 Dec 2023 10:15:24 +0000
+### [Odisha govt extends State Food Security Scheme till 2028](https://theprint.in/india/odisha-govt-extends-state-food-security-scheme-till-2028/1887394/)
+
+As GPT-3.5, I can summarize the article for you. The Odisha government has announced the extension of the State Food Security Scheme (SFSS) for five more years until December 31, 2028. Under this scheme, beneficiaries are entitled to receive 5 kg of rice free of cost. The state government will allocate Rs 1,250 crore from its own resources over the next five years to support the scheme. The chief minister has emphasized the importance of ensuring food security for all individuals in the state. This information is auto-generated from PTI news service.
+
+Fri, 15 Dec 2023 10:15:17 +0000
+### [Danish police still searching for 4 terrorism suspects after arrests](https://theprint.in/world/danish-police-still-searching-for-4-terrorism-suspects-after-arrests/1887393/)
+
+Article found but Couldn't summarize 
+COPENHAGEN (Reuters) - Two people were remanded in custody in Denmark on Friday on suspicion of plotting a terrorism attack, while another four suspects were still sought by police, Danish prosecutors
+
+Fri, 15 Dec 2023 10:15:14 +0000
+### [Fadnavis says SIT to probe arson in Beed during Maratha quota stir, vows to punish culprits](https://theprint.in/india/fadnavis-says-sit-to-probe-arson-in-beed-during-maratha-quota-stir-vows-to-punish-culprits/1887391/)
+
+Article found but Couldn't summarize 
+Nagpur, Dec 15 (PTI) Maharashtra Deputy Chief Minister Devendra Fadnavis on Friday announced in the assembly that a Special Investigation Team (SIT) would be set up in the next two days to probe arson during the Maratha quota stir in Beed district where homes of two NCP MLAs were torched as he vowed not to [&#8230;]
+
+Fri, 15 Dec 2023 10:15:06 +0000
+### [Poland to get first 5 billion euros in EU funds this year](https://theprint.in/world/poland-to-get-first-5-billion-euros-in-eu-funds-this-year/1887390/)
+
+Article found but Couldn't summarize 
+BRUSSELS (Reuters) - European Union will transfer to Poland this year a first 5 billion euros ($5.5 bln) of financial aid that was until now mostly frozen over democratic backsliding, the bloc's chief
+
+Fri, 15 Dec 2023 10:15:02 +0000
+### [MPs’ suspension no deterrent to those who breached security, aimed at silencing oppn: Chidambaram](https://theprint.in/india/mps-suspension-no-deterrent-to-those-who-breached-security-aimed-at-silencing-oppn-chidambaram/1887389/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) Senior Congress leader P Chidambaram Friday hit out at the BJP over the suspension of 14 MPs, saying this was no deterrent to those who breached security and was intended at silencing the opposition. While Derek O&#8217;Brien of the Trinamool Congress (TMC) was suspended from the Rajya Sabha on Thursday, [&#8230;]
+
+Fri, 15 Dec 2023 10:02:11 +0000
+### [Israeli military kills ten terrorists in 60 hour Jenin raid](https://theprint.in/world/israeli-military-kills-ten-terrorists-in-60-hour-jenin-raid/1887384/)
+
+During the counter-terrorism operation in Jenin, the IDF (Israel Defense Forces) and Border Police units conducted an extensive operation to counter-terrorism in the refugee camp and city of Jenin. The operation lasted for 60 hours and resulted in the elimination of more than ten terrorists. The IDF forces searched hundreds of buildings, arrested about 60 wanted terrorists, and confiscated over 50 weapons, explosives, and terrorist funds. They also discovered underground shafts, cargo laboratories, and observation posts used by terrorists to monitor the IDF. Some of the terrorist infrastructures were destroyed. Additionally, an Israel Air Force aircraft attacked two squads of terrorists, resulting in the death of seven terrorists and injuries to others. Seven IDF soldiers and an officer sustained slight injuries and received medical treatment. Please note that this report is auto-generated from ANI news service, and ThePrint holds no responsibility for its content.
+
+Fri, 15 Dec 2023 10:02:02 +0000
+### [Shine & Taj International Glamour Night 2024: A Celebration of Beauty and Empowerment Orchestrated by Sagarika Roy](https://theprint.in/ani-press-releases/shine-taj-international-glamour-night-2024-a-celebration-of-beauty-and-empowerment-orchestrated-by-sagarika-roy/1887382/)
+
+Article found but Couldn't summarize 
+ATK New Delhi [India], December 15: In a resounding display of commitment to social responsibility, Sagarika Roy has recently orchestrated the &#8220;Shine and Taj&#8221; event, a culmination of her three-year-long vision. This transformative event served as a powerful platform for 95 participants with physical disabilities to showcase their talents, effectively challenging societal norms and fervently [&#8230;]
+
 Fri, 15 Dec 2023 09:02:34 +0000
 ### [Appy Pie Introduces Cutting-Edge No-Code AI App Development for Future-Ready Applications](https://theprint.in/ani-press-releases/appy-pie-introduces-cutting-edge-no-code-ai-app-development-for-future-ready-applications/1887302/)
 

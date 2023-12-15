@@ -1,3 +1,8 @@
+Fri, 15 Dec 2023 10:18:01 +0000
+### [How the hottest summer ever affected the Arctic: 5 things you need to know](https://indianexpress.com/article/explained/explained-climate/arctic-hottest-summer-climate-change-9069590/)
+
+According to the article, the 2023 summer in the Arctic was the warmest on record. The Arctic has been warming nearly four times faster than the rest of the globe since 1979 due to climate change. This has led to various consequences, including the thawing of subsea permafrost, which releases greenhouse gases that contribute to global warming and ocean acidification. Food insecurity has also been a concern, with extremely low numbers of Chinook and chum salmon in Western Alaska, impacting Indigenous communities that rely on salmon for food. Raging wildfires, severe flooding, and the melting of Greenland's ice sheet are other severe consequences of the soaring temperatures in the Arctic.
+
 Fri, 15 Dec 2023 02:30:13 +0000
 ### [What Vladimir Putin wants from the Ukraine War](https://indianexpress.com/article/explained/explained-global/vladimir-putin-ukraine-war-conference-9068720/)
 

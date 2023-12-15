@@ -1,3 +1,8 @@
+Fri, 15 Dec 2023 15:34:34 +0530
+### [India debates paid menstrual leave policy at work. Where do other countries stand?](https://www.firstpost.com/explainers/india-debates-paid-menstrual-leave-policy-at-workplace-where-do-other-countries-stand-13506072.html)
+
+The article discusses the topic of menstrual leave for employees and students, particularly in India and other countries. It highlights the recent statement by India's Union Women and Child Development Minister, Smriti Irani, opposing the idea of mandatory paid menstrual leave for female employees, emphasizing that menstruation is a natural part of life and shouldn't be treated as a handicap requiring special leave provisions. The article also provides information on India's current stance on menstrual leave policy, as well as the policies in other countries such as Spain, Indonesia, Japan, South Korea, Taiwan, South Africa, Zambia, and Vietnam. It offers insights into the debate surrounding the need for menstrual leave and the challenges women face during menstruation.
+
 Fri, 15 Dec 2023 13:46:07 +0530
 ### [Why Oman Sultan's first state visit to India is significant for both nations](https://www.firstpost.com/explainers/why-oman-sultans-first-state-visit-to-india-is-significant-for-both-nations-13506792.html)
 
