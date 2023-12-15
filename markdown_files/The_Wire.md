@@ -1,3 +1,9 @@
+2023-12-15T14:30:35+05:30
+### [COP28 Floundered on Fossil Fuels, Coal and Finance](https://thewire.in/environment/cop28-floundered-fossil-fuels-coal-finance)
+
+No Article text 
+India must insist that the fossil fuel phase-out must be differentiated depending on national circumstances and on a time scale, and technology transfer, co-development and access form the core of the energy transition.
+
 2023-12-15T13:56:50+05:30
 ### [More Than 2,300 Farmer Suicides in 10 Months in Maharashtra](https://thewire.in/agriculture/more-than-2300-farmer-suicides-in-10-months-in-maharashtra)
 

@@ -1,3 +1,9 @@
+Fri, 15 Dec 2023 14:19:14 +0530
+### [Taming the dragon: India is emerging as a powerful player in South China Sea](https://www.firstpost.com/opinion/taming-the-dragon-india-is-emerging-as-a-powerful-player-in-south-china-sea-13506882.html)
+
+Article found but Couldn't summarize 
+Taming the dragon: India is emerging as a powerful player in South China Sea
+
 Fri, 15 Dec 2023 13:18:26 +0530
 ### [How closure of diplomatic mission in Lhasa remains Nehru's lesser-known ‘Tibetan’ blunder](https://www.firstpost.com/opinion/how-closure-of-diplomatic-mission-in-lhasa-remains-nehrus-lesser-known-tibetan-blunder-13506332.html)
 

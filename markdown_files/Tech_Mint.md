@@ -1,3 +1,9 @@
+Fri, 15 Dec 2023 14:45:47 +0530
+### [iOS 17.3 Beta unveils new features: Stolen Device Protection, Collaborative Playlists, and more](https://www.livemint.com/technology/tech-news/ios-17-3-beta-unveils-new-features-stolen-device-protection-collaborative-playlists-and-more-11702631154513.html)
+
+Article found but Couldn't summarize 
+iOS 17.3 beta 1 introduces Stolen Device Protection, collaborative Apple Music playlists, and emoji reactions to songs. The update is available to Apple Developer program members, with a global rollout expected in January.
+
 Fri, 15 Dec 2023 12:53:01 +0530
 ### [Samsung users alert! Government warns against THIS critical risk: Here's how to stay safe](https://www.livemint.com/technology/samsung-users-alert-government-warns-against-this-critical-risk-heres-how-to-stay-safe-11702624533457.html)
 

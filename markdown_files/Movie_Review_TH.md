@@ -1,3 +1,8 @@
+Fri, 15 Dec 2023 13:59:03 +0530
+### [‘Fight Club’ Tamil movie review: This Vijay Kumar-starrer is all style and very little substance](https://www.thehindu.com/entertainment/movies/fight-club-tamil-movie-review-this-vijay-kumar-starrer-is-all-style-and-very-little-substance/article67640997.ece)
+
+The article discusses the Tamil film "Fight Club" and its elements. The film marks the return of actor-filmmaker Vijay Kumar, known for the Uriyadi films. The storyline revolves around a talented young player who loses his way and his game after the murder of his mentor. The film is praised for its technical prowess, performances, and intense action sequences, but criticized for a predictable plot and underdeveloped supporting characters. Despite some shortcomings, it is considered an important addition to the action genre in Tamil cinema.
+
 Fri, 15 Dec 2023 13:12:32 +0530
 ### [‘The Family Plan’ movie review: Mark Wahlberg’s assassin comedy derails off course all too soon](https://www.thehindu.com/entertainment/movies/the-family-plan-movie-review-mark-wahlbergs-assassin-comedy-derails-off-course-all-too-soon/article67640661.ece)
 

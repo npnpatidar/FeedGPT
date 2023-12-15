@@ -1,3 +1,109 @@
+Fri, 15 Dec 2023 09:02:34 +0000
+### [Appy Pie Introduces Cutting-Edge No-Code AI App Development for Future-Ready Applications](https://theprint.in/ani-press-releases/appy-pie-introduces-cutting-edge-no-code-ai-app-development-for-future-ready-applications/1887302/)
+
+Appy Pie, a no-code AI app development platform, is revolutionizing the tech industry by simplifying AI-powered app development for businesses and individuals. Its innovative approach allows users to create powerful and customized applications without extensive coding knowledge. The platform integrates AI to incorporate intelligent features such as predictive analytics, natural language processing, and machine learning algorithms, streamlining the development process and enhancing user experiences. Appy Pie's commitment to democratizing technology has positioned it as a frontrunner in the app development landscape, offering a comprehensive suite of no-code tools for businesses of all sizes. For media inquiries or further information, you can contact Snigdha Ghosh Roy at marketing@appypie.com or on +91 120 4338720.
+
+Fri, 15 Dec 2023 09:02:24 +0000
+### [Kazakhstan’s experience in implementing political, human rights reforms presented at UN](https://theprint.in/world/kazakhstans-experience-in-implementing-political-human-rights-reforms-presented-at-un/1887300/)
+
+The article summarizes Kazakhstan's efforts in implementing political and human rights reforms, as presented at the United Nations (UN) event commemorating the 75th anniversary of the Universal Declaration of Human Rights. The Kazakh delegation, led by the Chairman of the Constitutional Court Elvira Azimova, discussed Kazakhstan's priorities in human rights, including protecting children and women, implementing the "listening state" concept, digitalization, and enhancing the role of civil society in safeguarding human rights. Kazakhstan also presented the implementation of three reform packages and an Action Plan in the field of human rights and the rule of law. The country's vision includes the protection of rights and fundamental freedoms, adherence to the rule of law for political stability, and economic and social progress within the framework of human rights. The article also mentions initiatives such as the "Dialogue Police" project and the fight against torture, as well as collaborative efforts with the EU and other human rights institutions.
+
+Fri, 15 Dec 2023 09:02:13 +0000
+### [Centre to directly sanction critical mineral exploration projects to notified agencies](https://theprint.in/economy/centre-to-directly-sanction-critical-mineral-exploration-projects-to-notified-agencies/1887298/)
+
+The Union Ministry of Mines has announced that it will directly sanction exploration projects to private exploration agencies for critical and deep-seated minerals. This decision aims to expedite the exploration of crucial minerals and encourage bigger and junior mining companies to participate in exploration projects in India. The Mines and Minerals (Development and Regulation) Act was amended in 2021 to empower the central government to notify private entities for prospecting operations. A total of 16 private exploration agencies have been notified to take up exploration projects funded by the National Mineral Exploration Trust. Out of the 17 projects sanctioned so far, 11 are related to critical minerals. The Ministry of Mines has identified 30 critical minerals that are essential for economic development and national security. These developments demonstrate the government's efforts to boost mineral exploration and support India's self-reliance roadmap.
+
+Fri, 15 Dec 2023 09:02:02 +0000
+### [Pakistan: 3 security personnel killed, several injured in two attacks in Khyber Pakhtunkhwa](https://theprint.in/world/pakistan-3-security-personnel-killed-several-injured-in-two-attacks-in-khyber-pakhtunkhwa/1887296/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 15 (ANI): As many as three security personnel have been killed and several injured in two attacks in the Khyber-Pakhtunkhwa (K-P) province on Friday, The Express Tribune newspaper reported. The Express Tribune is an English-language newspaper based in Pakistan. In the first incident in KP&#8217;s Tank district, a suicide bomber blew himself [&#8230;]
+
+Fri, 15 Dec 2023 09:00:51 +0000
+### [Soccer-Fan who hit Melbourne City keeper with bucket has jail term overturned](https://theprint.in/sport/soccer-fan-who-hit-melbourne-city-keeper-with-bucket-has-jail-term-overturned/1887295/)
+
+The article discusses the overturning of the jail term for a soccer fan, Alex Agelopoulos, who struck Melbourne City goalkeeper Tom Glover in the face with a metal bucket during a pitch invasion last year. Agelopoulos had been sentenced to three months in jail and a community corrections order in August, but the judge struck off the jail term and instead imposed a three-and-a-half-year community corrections order with 350 hours of unpaid work. Agelopoulos also remains banned from attending all soccer matches for five years. Additionally, there were formal apologies issued to Glover, referee Alex King, and a cameraman who was also injured during the incident.
+
+Fri, 15 Dec 2023 09:00:36 +0000
+### [Britain weighs new consultation on social media impact on teens](https://theprint.in/tech/britain-weighs-new-consultation-on-social-media-impact-on-teens/1887293/)
+
+The Online Safety Act, which became law in October, requires platforms like Meta's Instagram and Alphabet's YouTube to strengthen controls around illegal content and age-checking measures. Major platforms including Instagram, YouTube, and Snapchat require users to be at least 13 years old. The British government is considering further measures to protect young teenagers from the risks of social media, including potential bans and restrictions on social media access for children under the age of 16. Science Minister Andrew Griffith emphasized the importance of finding a balance between important freedoms and putting parents in control. Please note that this information is based on the provided text, and I am unable to provide any additional details beyond that.
+
+Fri, 15 Dec 2023 09:00:28 +0000
+### [Adityanath pays tributes to ‘Iron Man’ on death anniversary](https://theprint.in/india/adityanath-pays-tributes-to-iron-man-on-death-anniversary/1887292/)
+
+Uttar Pradesh Chief Minister Yogi Adityanath paid tribute to India's first home minister, Sardar Vallabhbhai Patel, on his death anniversary during a visit to Varanasi. Adityanath hailed Patel as the "architect" of the new India and described him as a great freedom fighter who had a significant role in integrating more than 563 princely states with India after Independence. He also mentioned that Patel's statue in Gujarat has become a symbol of unity and that the values and ideals of Sardar Patel continue to inspire people.
+
+Fri, 15 Dec 2023 09:00:16 +0000
+### [S.Korea lodges protests over Russia, China air defence zone intrusion](https://theprint.in/world/s-korea-lodges-protests-over-russia-china-air-defence-zone-intrusion/1887291/)
+
+Article found but Couldn't summarize 
+SEOUL (Reuters) - South Korea's defence ministry said on Friday it expressed regret and lodged a protest to China and Russia over the intrusion of its air defence zone by the neighbouring counties'
+
+Fri, 15 Dec 2023 09:00:15 +0000
+### [Lok Sabha adjourned for day amid opposition protests](https://theprint.in/india/lok-sabha-adjourned-for-day-amid-opposition-protests-2/1887289/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) Lok Sabha could not transact any business on Friday as the House was adjourned due to continuous protests by opposition members seeking a reply from Union Home Minister Amit Shah on the Parliament security breach. As soon as the House reassembled at 2 pm after an earlier adjournment, Kirit Solanki, [&#8230;]
+
+Fri, 15 Dec 2023 09:00:04 +0000
+### [Cold wave freezes most of China, shutting highways, roads](https://theprint.in/world/cold-wave-freezes-most-of-china-shutting-highways-roads/1887287/)
+
+The article describes a cold wave in China, with temperatures dropping to below freezing across most of the country. It mentions specific regions where temperatures are expected to drop to below minus 40 degrees Celsius. The article also discusses the impact of the cold wave on transportation, including accidents on highways, suspended ferries and buses, and measures taken by local governments to clear snow and prevent road hazards. Additionally, the article mentions efforts to secure vegetable and fruit harvests from freeze damage and forecasts heavy snowfall in certain provinces. It concludes by stating that most of the country will experience lower-than-usual temperatures over the next ten days.
+
+Fri, 15 Dec 2023 09:00:03 +0000
+### [Rajya Sabha proceedings adjourned for day amid Opposition protest](https://theprint.in/india/rajya-sabha-proceedings-adjourned-for-day-amid-opposition-protest/1887286/)
+
+The Rajya Sabha proceedings on Friday were adjourned for the day as the Opposition parties continued with their protest demanding discussion on the security breach in Parliament. The Chairman informed members that he had received 23 notices for suspension of the scheduled business to discuss the security breach, but these notices were not approved. The entire Opposition erupted in protest, and the proceedings were adjourned. A member who had been previously suspended was allowed to attend the House proceedings after his suspension was withdrawn. The Chairman had also asked the Leader of the Opposition and other floor leaders to meet him in his chamber before adjourning the proceedings.
+
+Fri, 15 Dec 2023 08:52:43 +0000
+### [Village sarpanch to 1st-time MLA — Bhajanlal Sharma takes oath as Rajasthan chief minister](https://theprint.in/india/village-sarpanch-to-1st-time-mla-bhajanlal-sharma-takes-oath-as-rajasthan-chief-minister/1887203/)
+
+Article found but Couldn't summarize 
+Diya Kumari and Prem Chand Bairwa sworn in as state’s deputy chief ministers.
+
+Fri, 15 Dec 2023 08:48:04 +0000
+### [Indian Armed Forces officers awarded ‘Golden Owl’ for outstanding performance at DSCSC Sri Lanka](https://theprint.in/world/indian-armed-forces-officers-awarded-golden-owl-for-outstanding-performance-at-dscsc-sri-lanka/1887277/)
+
+Article found but Couldn't summarize 
+Colombo [Sri Lanka], December 15 (ANI): All three Indian Armed Forces officers undergoing the Command and Staff Course at Defence Services Command and Staff College (DSCSC) in Sri Lanka have been awarded the &#8216;Golden Owl&#8217; for their outstanding performance. The DSCSC course is a program designed to prepare senior officers for leadership roles in joint [&#8230;]
+
+Fri, 15 Dec 2023 08:47:55 +0000
+### [Lifetime Honor Presented, Legacy Entrusted: JK Khurana Celebrates Son Parveen (Vicky) and Daughter-In-Law Seema Khurana as Heirs to Lead Venus Industries](https://theprint.in/ani-press-releases/lifetime-honor-presented-legacy-entrusted-jk-khurana-celebrates-son-parveen-vicky-and-daughter-in-law-seema-khurana-as-heirs-to-lead-venus-industries/1887275/)
+
+The recent 18th Annual International Travel Awards 2023 organized by Hospitality India honored J.K. Khurana, the Founding Chairman of Venus Industries, with the Lifetime Achievement Award for his pioneering vision in growing Venus into Asia’s foremost hospitality cutlery brand since 1963. Attended by over 500 industry veterans, including political dignitaries, the award recognizes Khurana’s legacy in building Venus Industries from modest beginnings into a pioneering global name synonymous with 5-star fine dining cutlery excellence. The article delves into Venus Industries' journey back to 1963, its partnership with Indian Airlines, its expansion into international markets, and its commitment to modernization and innovation. Overall, the article celebrates J.K. Khurana's dedication spanning six remarkable decades and his contribution to the hospitality industry.
+
+Fri, 15 Dec 2023 08:47:45 +0000
+### [A New Way to Protect Your Family’s Future](https://theprint.in/ani-press-releases/a-new-way-to-protect-your-familys-future/1887273/)
+
+The article discusses a new digital service called NoRegret.in, designed to help individuals secure their family's financial future. The platform allows users to upload important financial documents, such as insurance, bank details, and property papers, and add contact details of loved ones. It also enables users to create and store a will, with the platform keeping an eye on users and automatically notifying their loved ones if they are unable to respond. NoRegret.in provides top-notch security measures, has regular audits, and is currently free to use. It aims to give users and their families peace of mind and ensure their loved ones are protected.
+
+Fri, 15 Dec 2023 08:47:34 +0000
+### [17.3 lakh workers added under ESIC in October 2023: Ministry of Labour](https://theprint.in/economy/17-3-lakh-workers-added-under-esic-in-october-2023-ministry-of-labour/1887271/)
+
+GPT-3.5: According to the provisional payroll data, about 17.3 lakh new employees were added to the Employees' State Insurance Scheme in October 2023. The data is provisional as it is continuously generated. The Employees' State Insurance Corporation provides medical care to insured persons and their families in cases of sickness, maternity, disablement, and death due to employment injury. Additionally, the data revealed that more jobs have been generated for the youth, with a majority of new registrations coming from employees up to the age group of 25 years. The gender-wise analysis showed a net enrollment of 3.31 lakh female members in October. Furthermore, 51 transgender employees also got registered under the ESI Scheme during that month, highlighting the commitment of ESIC to deliver benefits to every section of society. Please note that this report is auto-generated from ANI news service, and ThePrint holds no responsibility for its content.
+
+Fri, 15 Dec 2023 08:47:21 +0000
+### [Raveena Tandon to headline new web series ‘Karmma Calling’](https://theprint.in/feature/raveena-tandon-to-headline-new-web-series-karmma-calling/1887269/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 15 (ANI): Actor Raveena Tandon will be seen in an interesting avatar in a web series titled &#8216;Karmma Calling&#8217;. As per a statement, &#8216;Karmma Calling&#8217; is the Indian adaptation of ABC series &#8216;Revenge&#8217;. In the series, Raveena plays the role of Indrani Kothari, the reigning queen of society in Alibaug, a [&#8230;]
+
+Fri, 15 Dec 2023 08:47:11 +0000
+### [Kriti Sanon Radiates Golden Glamour on the Cover of HELLO! India’s December Issue](https://theprint.in/ani-press-releases/kriti-sanon-radiates-golden-glamour-on-the-cover-of-hello-indias-december-issue/1887267/)
+
+The December issue of HELLO! India features National Award-winning actress Kriti Sanon on the cover in a dazzling golden haute couture. The issue promises a visual feast, offering readers an exclusive insight into the best of people, trends, fashion, and much more. The magazine also presents insights into men's fashion, the allure of understated luxury, upcoming luxury trends, and an intimate tour of a sleek and minimalist home in Bangalore. The issue aims to usher in a year filled with luxury, opulence, and an elevated lifestyle. For more details, you can visit in.hellomagazine.com.
+
+Fri, 15 Dec 2023 08:47:01 +0000
+### [The Benchmark For Medical Education in India: Apollo Hospitals Group’s Apollo Institute of Medical Sciences and Research](https://theprint.in/ani-press-releases/the-benchmark-for-medical-education-in-india-apollo-hospitals-groups-apollo-institute-of-medical-sciences-and-research/1887265/)
+
+The Apollo Institute of Medical Sciences and Research (AIMSR) in Hyderabad, India, is dedicated to advancing medical education and research. It offers world-class facilities, expert faculty, a holistic curriculum, advanced research opportunities, and global outreach programs. AIMSR provides a dynamic range of undergraduate and postgraduate programs in various medical disciplines, attracting the finest talents in India and promoting a culture of excellence. The institute is committed to giving back to society and investing in the future by nurturing the best medical minds and instilling in them the values of compassion, integrity, and empathy. This marks a significant milestone in the field of medical education and clinical expertise in India, aiming to bridge the gap between the demand for quality healthcare and the availability of skilled professionals.
+
+Fri, 15 Dec 2023 08:46:00 +0000
+### [River Rhine in south Germany remains closed to shipping](https://theprint.in/environment/river-rhine-in-south-germany-remains-closed-to-shipping-2/1887263/)
+
+Parts of the river Rhine in south Germany remained closed to shipping on Friday due to heavy rain and melting snow, leading to increased water levels. The southern sector of the Rhine around the chokepoint of Maxau was closed on Tuesday after rain and rising temperatures melted snow in south Germany, raising water levels. Shipping on northern sections of the river is operating normally, but in the southern regions, water levels are falling, and it's possible that shipping could resume through Maxau on Sunday. High water levels prevent vessels from sailing under bridges and block vessels from sailing to Switzerland. The Rhine is a major shipping route for commodities such as minerals, coal, oil products, grains, and animal feed.
+
 Fri, 15 Dec 2023 08:21:02 +0000
 ### [Centre spent over Rs 416 crore of allocated Rs 990 crore on G20 summit, MEA informs Parliament](https://theprint.in/india/governance/centre-spent-over-rs-416-crore-of-allocated-rs-990-crore-on-g20-summit-mea-informs-parliament/1887085/)
 
