@@ -1,3 +1,9 @@
+Fri, 15 Dec 2023 13:18:26 +0530
+### [How closure of diplomatic mission in Lhasa remains Nehru's lesser-known ‘Tibetan’ blunder](https://www.firstpost.com/opinion/how-closure-of-diplomatic-mission-in-lhasa-remains-nehrus-lesser-known-tibetan-blunder-13506332.html)
+
+Article found but Couldn't summarize 
+How closure of diplomatic mission in Lhasa remains Nehru's lesser-known ‘Tibetan’ blunder
+
 Fri, 15 Dec 2023 10:07:01 +0530
 ### [Vantage | Why global luxury's beeline is about India growth story](https://www.firstpost.com/opinion/vantage-why-global-luxurys-beeline-is-about-india-growth-story-13504292.html)
 

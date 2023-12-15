@@ -1,3 +1,21 @@
+Fri, 15 Dec 2023 13:46:07 +0530
+### [Why Oman Sultan's first state visit to India is significant for both nations](https://www.firstpost.com/explainers/why-oman-sultans-first-state-visit-to-india-is-significant-for-both-nations-13506792.html)
+
+Article found but Couldn't summarize 
+Why Oman Sultan's first state visit to India is significant for both nations
+
+Fri, 15 Dec 2023 13:31:12 +0530
+### [Why a UP judge has sought CJI DY Chandrachud’s nod to ‘end’ her life](https://www.firstpost.com/explainers/up-judge-letter-supreme-court-cji-dy-chandrachuds-nod-to-end-her-life-sexual-harassment-13506562.html)
+
+Article found but Couldn't summarize 
+Why a UP judge has sought CJI DY Chandrachud’s nod to ‘end’ her life
+
+Fri, 15 Dec 2023 12:51:33 +0530
+### [Why Hungary has blocked €50 billion in EU aid to Ukraine](https://www.firstpost.com/explainers/why-hungary-has-blocked-e50-billion-in-eu-aid-to-ukraine-13506312.html)
+
+Article found but Couldn't summarize 
+Why Hungary has blocked €50 billion in EU aid to Ukraine
+
 Fri, 15 Dec 2023 11:13:42 +0530
 ### [Parliament breach: What social media posts of six conspirators reveal](https://www.firstpost.com/explainers/parliament-breach-what-social-media-posts-of-six-conspirators-reveal-13504372.html)
 

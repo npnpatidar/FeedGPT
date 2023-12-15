@@ -1,3 +1,122 @@
+Fri, 15 Dec 2023 08:21:02 +0000
+### [Centre spent over Rs 416 crore of allocated Rs 990 crore on G20 summit, MEA informs Parliament](https://theprint.in/india/governance/centre-spent-over-rs-416-crore-of-allocated-rs-990-crore-on-g20-summit-mea-informs-parliament/1887085/)
+
+Article found but Couldn't summarize 
+MoS for External Affairs V. Muraleedharan shares breakdown of expenses for hosting the summit in Delhi, including conferencing, venue charges, website creation and branding.
+
+Fri, 15 Dec 2023 08:17:02 +0000
+### [Teaser of Sidharth Malhotra-starrer ‘Indian Police Force’ to be out tomorrow](https://theprint.in/feature/teaser-of-sidharth-malhotra-starrer-indian-police-force-to-be-out-tomorrow/1887233/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 15 (ANI): Sidharth Malhotra is all set to make your weekend interesting with the release of the teaser of his debut web series &#8216;Indian Police Force&#8217;. Helmed by Rohit Shetty, &#8216;Indian Police Force&#8217; also stars Shilpa Shetty and Vivek Oberoi. On Friday, the team shared that they will release the teaser [&#8230;]
+
+Fri, 15 Dec 2023 08:16:01 +0000
+### [Cricket-New Zealand add Sears to ODI squad as cover for Jamieson](https://theprint.in/sport/cricket-new-zealand-add-sears-to-odi-squad-as-cover-for-jamieson/1887231/)
+
+Article found but Couldn't summarize 
+(Reuters) - New Zealand have added Ben Sears to their one-day international squad as cover for fellow pace bowler Kyle Jamieson ahead of the three-match series against Bangladesh, the country's
+
+Fri, 15 Dec 2023 08:15:56 +0000
+### [Bhajan Lal Sharma: An unlikely rise from village sarpanch to Rajasthan CM](https://theprint.in/india/bhajan-lal-sharma-an-unlikely-rise-from-village-sarpanch-to-rajasthan-cm/1887230/)
+
+Article found but Couldn't summarize 
+Jaipur, Dec 15 (PTI) A group photo taken at the BJP office here ahead of the legislature party meeting earlier this week showed Bhajan Lal Sharma in the very last row. But an hour or so later, he had jumped places to front and centre stage after the BJP announced that he has been chosen [&#8230;]
+
+Fri, 15 Dec 2023 08:15:47 +0000
+### [Rajya Sabha proceedings adjourned till 2 pm amid Opposition protest](https://theprint.in/india/rajya-sabha-proceedings-adjourned-till-2-pm-amid-opposition-protest/1887229/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) The Rajya Sabha proceedings were adjourned within minutes of assembling on Friday till 2 pm amid protest by Opposition parties after Chairman Jagdeep Dhankhar rejected their demand to suspend the scheduled business of the day to discuss the security breach in Parliament. Soon after the listed papers were laid on [&#8230;]
+
+Fri, 15 Dec 2023 08:15:43 +0000
+### [One person dead after migrant dinghy flounders in Channel – French coastguard](https://theprint.in/world/one-person-dead-after-migrant-dinghy-flounders-in-channel-french-coastguard/1887228/)
+
+As GPT-3.5, I can provide a summary of the article you shared. One person drowned and another is critically ill after an inflatable dinghy carrying 66 migrants ran into difficulty off the northern French coast. French rescuers reached the distressed boat and found that one of its inflatable tubes had deflated. Two unconscious people were pulled from the sea, with one being airlifted to the French port city of Calais and the other unable to be revived. Search operations are still ongoing. The Channel, which separates Britain and continental Europe, is one of the busiest shipping lanes in the world, and more than 29,000 migrants have made the perilous crossing in small boats this year. In November 2021, at least 27 migrants died after a dinghy sank in the Channel, marking the highest known number of deaths in a single incident. Please let me know if there's anything else I can assist you with.
+
+Fri, 15 Dec 2023 08:15:36 +0000
+### [ULFA(I) claims responsibility for blast near army station in Assam’s Jorhat](https://theprint.in/india/ulfai-claims-responsibility-for-blast-near-army-station-in-assams-jorhat/1887226/)
+
+Article found but Couldn't summarize 
+Guwahati, Dec 15 (PTI) ULFA (Independent) on Friday claimed responsibility for the blast near the gate of the army station in Assam&#8217;s Jorhat district. The &#8216;mild blast&#8217; had occurred on Thursday night in a dustbin near the army gate in the town&#8217;s Lichubari area, a defence spokesperson said. Bomb experts have reached the spot and [&#8230;]
+
+Fri, 15 Dec 2023 08:15:34 +0000
+### [Biden, Turkey’s Erdogan discuss Gaza war, Sweden’s NATO bid](https://theprint.in/world/biden-turkeys-erdogan-discuss-gaza-war-swedens-nato-bid/1887225/)
+
+Article found but Couldn't summarize 
+WASHINGTON/ANKARA (Reuters) -U.S. President Joe Biden and Turkish President Tayyip Erdogan discussed the war in Gaza and Sweden's application to join the NATO alliance in a phone call on Thursday, the
+
+Fri, 15 Dec 2023 08:15:25 +0000
+### [Odisha Police intensifies search operation against Maoists in Boudh](https://theprint.in/india/odisha-police-intensifies-search-operation-against-maoists-in-boudh/1887223/)
+
+Article found but Couldn't summarize 
+Bhubaneswar, Dec 15 (PTI) A day after an encounter took place between Maoists and security forces in Nalikumbha forest of Boudh district, the Odisha Police on Friday intensified its search operation there, engaging over 300 jawans of a special squad, senior officers said. The operation was launched in the forest, following the gun battle between [&#8230;]
+
+Fri, 15 Dec 2023 08:15:25 +0000
+### [Still unclear where Russian opposition politician Alexei Navalny is – allies](https://theprint.in/world/still-unclear-where-russian-opposition-politician-alexei-navalny-is-allies/1887222/)
+
+Article found but Couldn't summarize 
+MOSCOW (Reuters) -Allies of jailed Russian opposition leader Alexei Navalny said on Friday that it was still unclear where he was after prison authorities said he was no longer in the penal colony
+
+Fri, 15 Dec 2023 08:15:15 +0000
+### [Hungary’s Orban blocks aid for Ukraine, says he can still halt EU accession](https://theprint.in/world/hungarys-orban-blocks-aid-for-ukraine-says-he-can-still-halt-eu-accession/1887220/)
+
+Article found but Couldn't summarize 
+By Krisztina Than and Gabriela Baczynska BUDAPEST/BRUSSELS (Reuters) - Hungarian Prime Minister Viktor Orban on Friday stood by his decision to veto a 50-billion-euro ($54.94 billion) EU aid package
+
+Fri, 15 Dec 2023 08:15:13 +0000
+### [2023 Morocco earthquake source deeper than common for that region, did not break surface: Study](https://theprint.in/india/2023-morocco-earthquake-source-deeper-than-common-for-that-region-did-not-break-surface-study/1887219/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) A study of the 2023 Morocco earthquake suggests that the shocks ruptured roughly 25 kilometers beneath the surface, deeper than what might be commonly expected in the region. Researchers at the US Geological Survey (USGS) said that the seismic waves from this point did not reach the surface. The source [&#8230;]
+
+Fri, 15 Dec 2023 08:15:03 +0000
+### [SC defers hearing on Mahua Moitra’s plea against expulsion till Jan 3](https://theprint.in/india/sc-defers-hearing-on-mahua-moitras-plea-against-expulsion-till-jan-3/1887217/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) The Supreme Court on Friday deferred the hearing on a plea of Trinamool Congress leader Mahua Moitra challenging her expulsion from the Lok Sabha till January 3 next year. Moitra challenged her expulsion in the top court after the Lok Sabha adopted the report of its ethics committee that held [&#8230;]
+
+Fri, 15 Dec 2023 08:15:02 +0000
+### [Top buyer India’s Nov palm oil imports jump to 3-month high](https://theprint.in/india/top-buyer-indias-nov-palm-oil-imports-jump-to-3-month-high/1887216/)
+
+Article found but Couldn't summarize 
+By Rajendra Jadhav and Brijesh Patel MUMBAI (Reuters) - India's palm oil imports in November jumped nearly 23% from the previous month to hit their highest in three months as refiners preferred the
+
+Fri, 15 Dec 2023 08:02:02 +0000
+### [Union Minister Jyotiraditya Scindia unveils plans for airport infrastructure development](https://theprint.in/economy/union-minister-jyotiraditya-scindia-unveils-plans-for-airport-infrastructure-development/1887213/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 15 (ANI): In a press conference held today at the Press Information Bureau (PIB) headquarters, Union Minister for Civil Aviation, Jyotiraditya Scindia, revealed comprehensive plans to transform airport infrastructure across key cities in India. Scindia said, &#8220;We decided to take the 6 metros in phase 1 across our country and look [&#8230;]
+
+Fri, 15 Dec 2023 08:00:33 +0000
+### [Violent anarchy cannot hijack vibrant democracy: Naqvi on Parliament security breach](https://theprint.in/india/violent-anarchy-cannot-hijack-vibrant-democracy-naqvi-on-parliament-security-breach/1887209/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) In an apparent reference to the Lok Sabha security breach incident, former Union minister and senior BJP leader Mukhtar Abbas Naqvi on Friday said &#8220;violent anarchy&#8221; cannot hijack &#8220;vibrant democracy&#8221;. The robustness of constitutional rights and the mantra of fundamental duties have transformed Bharat into an unbeatable democracy, Naqvi said [&#8230;]
+
+Fri, 15 Dec 2023 08:00:23 +0000
+### [Drugs worth Rs 50,000 crore seized in Maharashtra in recent past: Fadnavis](https://theprint.in/india/drugs-worth-rs-50000-crore-seized-in-maharashtra-in-recent-past-fadnavis/1887208/)
+
+Article found but Couldn't summarize 
+Nagpur, Dec 15 (PTI) The Maharashtra police have seized drugs worth about Rs 50,000 crore in the state in the recent past, said Deputy Chief Minister Devendra Fadnavis in the legislative assembly on Friday. He was replying to a question by Shiv Sena (UBT) legislator Ravindra Waikar, who represents the Jogeshwari East constituency in Mumbai. [&#8230;]
+
+Fri, 15 Dec 2023 08:00:12 +0000
+### [Defence ministry inks over Rs 5,300 cr deal with BEL](https://theprint.in/india/defence-ministry-inks-over-rs-5300-cr-deal-with-bel/1887207/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) The defence ministry on Friday sealed an over Rs 5,300 crore deal with state-run Bharat Electronics Ltd (BEL) for procurement of electronic fuzes for the Indian Army for a period of 10 years. An electronic fuze is an integral component of medium to heavy calibre artillery guns which provide sustained [&#8230;]
+
+Fri, 15 Dec 2023 08:00:02 +0000
+### [Police headquarters comes under attack in Pakistan; 3 policemen killed](https://theprint.in/world/police-headquarters-comes-under-attack-in-pakistan-3-policemen-killed/1887206/)
+
+Article found but Couldn't summarize 
+Peshawar, Dec 15 (PTI) At least three policemen were killed and as many as injured after militants attacked a regional police headquarters in a former Taliban stronghold in northwest Pakistan on Friday, three days after terrorists killed 23 soldiers in the same region. The attack occurred at the Police Lines in Khyber Pakhtunkhwa’s Tank district. [&#8230;]
+
+Fri, 15 Dec 2023 07:47:22 +0000
+### [Cyril Amarchand Mangaldas advises BNP Paribas on exit from Sharekhan Group with stake sale to Mirae Asset Group](https://theprint.in/ani-press-releases/cyril-amarchand-mangaldas-advises-bnp-paribas-on-exit-from-sharekhan-group-with-stake-sale-to-mirae-asset-group/1887200/)
+
+Article found but Couldn't summarize 
+BusinessWire India Mumbai (Maharashtra) [India], December 15: Cyril Amarchand Mangaldas (CAM) advised BNP Paribas in relation to its exit from Sharekhan Group by a 100% stake sale to Mirae Asset Capital Markets (India) Pvt. Ltd. (MACM) and Mirae Asset Securities Co., Ltd. (MAS) (Proposed Transaction). The Sharekhan Group is primarily engaged in the business of [&#8230;]
+
 Fri, 15 Dec 2023 07:04:07 +0000
 ### [‘Quiet boy’ from Latur who ‘wanted to join Army’ — who is Parliament security breach accused Amol Shinde](https://theprint.in/india/quiet-boy-from-latur-who-wanted-to-join-army-who-is-parliament-security-breach-accused-amol-shinde/1886972/)
 

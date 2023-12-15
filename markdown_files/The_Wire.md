@@ -1,3 +1,27 @@
+2023-12-15T13:56:50+05:30
+### [More Than 2,300 Farmer Suicides in 10 Months in Maharashtra](https://thewire.in/agriculture/more-than-2300-farmer-suicides-in-10-months-in-maharashtra)
+
+No Article text 
+The Vidarbha region saw the highest number of farmers' suicides, with 951 reported cases.
+
+2023-12-15T13:35:57+05:30
+### [Second Avatar of the Criminal Law Bills: The Key Changes](https://thewire.in/government/second-avatar-criminal-law-bills-has-anything-changed)
+
+No Article text 
+In their second drafts too, the character of the Bills remains fundamentally anti-democratic. A few modifications proposed, however, are noteworthy.
+
+2023-12-15T13:34:14+05:30
+### [For Second Day, Opposition Stays Put With Demands of Clarity Over Parliament Security Breach](https://thewire.in/government/opposition-parliament-security-breach)
+
+No Article text 
+'In a parliamentary system, the Union home minister's principle accountability, when parliament is in session, is to the very House of Parliament of which he is a member.'
+
+2023-12-15T13:12:08+05:30
+### [More Than Three in Four High Court Judges Appointed Since 2018 Upper-Caste: Law Ministry](https://thewire.in/caste/more-than-three-in-four-high-court-judges-appointed-since-2018-upper-caste-law-ministry)
+
+No Article text 
+The Union government has previously criticised the collegium system of judicial appointments for what it said was a failure to address the issue of social diversity in the higher judiciary.
+
 2023-12-15T12:33:33+05:30
 ### [Nikhil Gupta Approaches Indian Supreme Court Against Arrest, Extradition](https://thewire.in/law/nikhil-gupta-approaches-indian-supreme-court-against-arrest-extradition)
 

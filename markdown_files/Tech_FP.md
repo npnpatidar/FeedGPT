@@ -1,3 +1,9 @@
+Fri, 15 Dec 2023 13:17:03 +0530
+### [OpenAI believes human-like SuperAI is coming sooner than expected, plans to control, capitalise on it](https://www.firstpost.com/tech/openai-believes-human-like-superai-is-coming-sooner-than-expected-plans-to-control-capitalise-on-it-13506542.html)
+
+Article found but Couldn't summarize 
+OpenAI believes human-like SuperAI is coming sooner than expected, plans to control, capitalise on it
+
 Fri, 15 Dec 2023 12:39:58 +0530
 ### [Apple slashes the price of iPhone 15 Pro Max, iPhone 14, iPhone 15 and other devices; check details here](https://www.firstpost.com/tech/apple-slashes-the-price-of-iphone-15-pro-max-iphone-14-iphone-15-and-other-devices-check-details-here-13506362.html)
 

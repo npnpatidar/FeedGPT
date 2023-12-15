@@ -1,3 +1,9 @@
+Fri, 15 Dec 2023 13:12:32 +0530
+### [‘The Family Plan’ movie review: Mark Wahlberg’s assassin comedy derails off course all too soon](https://www.thehindu.com/entertainment/movies/the-family-plan-movie-review-mark-wahlbergs-assassin-comedy-derails-off-course-all-too-soon/article67640661.ece)
+
+Article found but Couldn't summarize 
+In Apple’s ‘The Family Plan,’ a lot of opportunities are surrendered in favour of dull characters, and an even duller plot
+
 Fri, 15 Dec 2023 11:57:35 +0530
 ### [‘Reacher’ Season 2 review: Double the action, twice the fun](https://www.thehindu.com/entertainment/movies/reacher-season-2-review-double-the-action-twice-the-fun/article67639602.ece)
 

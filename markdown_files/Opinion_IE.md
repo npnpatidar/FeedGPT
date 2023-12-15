@@ -1,3 +1,8 @@
+Fri, 15 Dec 2023 07:27:31 +0000
+### [Four years after CAA protests, why Jamia students have lost faith in the system](https://indianexpress.com/article/opinion/columns/four-years-caa-protests-jamia-students-lost-faith-system-9069346/)
+
+Article found but Couldn't summarize
+
 Fri, 15 Dec 2023 01:56:51 +0000
 ### [The nature of the future](https://indianexpress.com/article/opinion/columns/cop28-climate-meeting-dubai-fossil-fuel-declarations-9068768/)
 
