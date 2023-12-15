@@ -1,3 +1,8 @@
+Fri, 15 Dec 2023 11:06:08 +0000
+### [Maldives to not renew 2019 water survey pact with India: What happens under hydrographic pacts?](https://indianexpress.com/article/explained/everyday-explainers/maldives-survey-pact-india-hydrographic-explained-9069657/)
+
+Article found but Couldn't summarize
+
 Fri, 15 Dec 2023 10:18:01 +0000
 ### [How the hottest summer ever affected the Arctic: 5 things you need to know](https://indianexpress.com/article/explained/explained-climate/arctic-hottest-summer-climate-change-9069590/)
 

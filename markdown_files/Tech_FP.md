@@ -1,3 +1,9 @@
+Fri, 15 Dec 2023 16:01:52 +0530
+### [Apple is seriously considering foldable tablets, but will launch OLED iPads, MacBooks first](https://www.firstpost.com/tech/apple-is-seriously-considering-foldable-tablets-but-will-launch-oled-ipads-macbooks-first-13507542.html)
+
+Article found but Couldn't summarize 
+Apple is seriously considering foldable tablets, but will launch OLED iPads, MacBooks first
+
 Fri, 15 Dec 2023 15:37:35 +0530
 ### [Netflix subscribers can now finally play GTA trilogy on Android, iOS devices. Here’s how to download](https://www.firstpost.com/tech/netflix-subscribers-can-now-finally-play-gta-trilogy-on-android-ios-devices-heres-how-to-download-13507332.html)
 

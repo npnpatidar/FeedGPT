@@ -1,3 +1,122 @@
+Fri, 15 Dec 2023 11:07:24 +0000
+### [Kolkata to witness ‘1 lakh Gita recitations’ on 24 December, PM Modi to be chief guest](https://theprint.in/india/kolkata-to-witness-1-lakh-gita-recitations-on-24-december-pm-modi-to-be-chief-guest/1886225/)
+
+Article found but Couldn't summarize 
+'Ek Lokho Konthe Gita Path' will see participants gather at Brigade Parade Ground, reciting the Gita. BJP says 'there's no explicit political messaging just because PM Modi is attending'.
+
+Fri, 15 Dec 2023 11:02:25 +0000
+### [Mikro Grafeio’s Mission: 100K Jobs to Revitalise India’s Emerging Cities](https://theprint.in/ani-press-releases/mikro-grafeios-mission-100k-jobs-to-revitalise-indias-emerging-cities/1887486/)
+
+Article found but Couldn't summarize 
+PNN New Delhi [India], December 15: India is a country of diverse cultures, languages, and regions. It is also a country of immense potential, with a large and young population, a growing economy, and a vibrant entrepreneurial spirit. However, not all parts of India are equally developed or prosperous. While the metros and Tier 1 [&#8230;]
+
+Fri, 15 Dec 2023 11:02:14 +0000
+### [Bitget Collaborates with Onmeta for Unwind with Leading WEB3 Players](https://theprint.in/ani-press-releases/bitget-collaborates-with-onmeta-for-unwind-with-leading-web3-players/1887484/)
+
+Article found but Couldn't summarize 
+PRNewswire Mumbai (Maharashtra) [India]/ Victoria [Seychelles], December 15: Bitget, the world&#8217;s leading cryptocurrency exchange and Web3 company, collaborated with Onmeta &#8211; the web3 decentralised app on-ramp and off-ramp solutions provider to host Unwind &#8211; an event for local WEB3 players in the industry. The event was held on 8th December 2023 in Bengaluru, India and [&#8230;]
+
+Fri, 15 Dec 2023 11:02:02 +0000
+### [AASRAA Recognizes Excellence: Dr. Srinivas Naik Dharavath Awarded Visionary Leader Icon 2023](https://theprint.in/ani-press-releases/aasraa-recognizes-excellence-dr-srinivas-naik-dharavath-awarded-visionary-leader-icon-2023/1887482/)
+
+Article found but Couldn't summarize 
+PNN Hyderabad (Telangana) [India], December 15: Real Vision Homes Pvt Ltd proudly announces the remarkable achievement of its esteemed Chairman, Dr. Srinivas Naik Dharavath, who has been honored with the Visionary Leader Icon Award of the Year 2023 by the Advocates Association For Social Responsibility And Awareness (AASRAA). The prestigious award was presented at the [&#8230;]
+
+Fri, 15 Dec 2023 11:00:54 +0000
+### [Anonymous caller threatens to kill UP judge’s son](https://theprint.in/india/anonymous-caller-threatens-to-kill-up-judges-son/1887481/)
+
+Article found but Couldn't summarize 
+Ballia (UP), Dec 15 (PTI) Police here have booked an unidentified man for allegedly threatening to kill the District Judge&#8217;s son, an officer said on Friday. According to the complaint, District Judge Ashok Kumar had received the call on December 10 on his WhatsApp. &#8220;The anonymous caller said that he was a resident of Kotwali [&#8230;]
+
+Fri, 15 Dec 2023 11:00:43 +0000
+### [Man kills mother in Haryana, travels in train to UP with body in suitcase](https://theprint.in/india/man-kills-mother-in-haryana-travels-in-train-to-up-with-body-in-suitcase/1887480/)
+
+Article found but Couldn't summarize 
+Prayagraj (UP), Dec 15 (PTI) Police on Friday arrested a man with a suitcase packed with the body of his mother, whom he had allegedly killed in Haryana and then travelled here by train to dispose of the corpse at Sangam, an official said. On December 13, Himanshu, a resident of Haryana’s Hisar district, asked [&#8230;]
+
+Fri, 15 Dec 2023 11:00:34 +0000
+### [Pandian will not contest upcoming elections in 2024: BJD](https://theprint.in/india/pandian-will-not-contest-upcoming-elections-in-2024-bjd/1887479/)
+
+Article found but Couldn't summarize 
+Bhubaneswar, Dec 15 (PTI) Ending all speculations on Chief Minister Naveen Patnaik&#8217;s close aide, V Karthikeyan Pandian, the ruling BJD on Friday clarified that the former IAS officer is unlikely to contest the upcoming elections for Lok Sabha and state Assembly in 2024. This clarification was issued by BJD senior vice-president Debi Prasad Mishra at [&#8230;]
+
+Fri, 15 Dec 2023 11:00:24 +0000
+### [UK envoy meets Indore mayor, praises city’s cleanliness model](https://theprint.in/india/uk-envoy-meets-indore-mayor-praises-citys-cleanliness-model/1887478/)
+
+Article found but Couldn't summarize 
+Indore, Dec 15 (PTI) The British High Commissioner to India, Alex Ellis, met Indore mayor Pushyamitra Bhargava on Friday and praised the city’s cleanliness model apart from discussing its nitty-gritty and other issues. Ellis and the mayor talked about the city&#8217;s sanitation model, water supply and garbage collection arrangements, a release from Bhargava’s office said. [&#8230;]
+
+Fri, 15 Dec 2023 11:00:14 +0000
+### [Lalit Jha’s brother expresses shock over his involvement in Parliament security breach](https://theprint.in/india/lalit-jhas-brother-expresses-shock-over-his-involvement-in-parliament-security-breach/1887477/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 15 (PTI) Shambhu Jha, the elder brother of Lalit Mohan Jha, the alleged mastermind behind the Parliament security breach, expressed shock, stating that the entire family is still in a state of disbelief. Lalit was arrested in New Delhi on Thursday evening. Accompanied by an individual, Lalit reached the Kartavya Path police station [&#8230;]
+
+Fri, 15 Dec 2023 11:00:03 +0000
+### [No change of guard ceremony on Saturday: Rashtrapati Bhavan](https://theprint.in/india/no-change-of-guard-ceremony-on-saturday-rashtrapati-bhavan-3/1887475/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) There will be no change of guard ceremony on Saturday due to the scheduled guard of honour for the Sultan of Oman, the Rashtrapati Bhavan said on Friday. Oman&#8217;s Sultan Haitham bin Tarik will pay a state visit to India on December 16 on his first trip to the country [&#8230;]
+
+Fri, 15 Dec 2023 10:58:49 +0000
+### [SubscriberWrites: Reading – The most significant gift for mankind](https://theprint.in/yourturn/subscriberwrites-reading-the-most-significant-gift-for-mankind/1887462/)
+
+Article found but Couldn't summarize 
+When we read a book, our mind moves from real life to real life, and we start visualising, which is the first step to any form of learning.
+
+Fri, 15 Dec 2023 10:47:38 +0000
+### [“Passengers’ convenience paramount”: Jyotiraditya Scindia on congestion at airports](https://theprint.in/economy/passengers-convenience-paramount-jyotiraditya-scindia-on-congestion-at-airports/1887464/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 15 (ANI): Space allocations for commercial activities should be planned on the principle of being &#8216;on the way&#8217;, and &#8216;not in the way&#8217; to ensure smooth and natural flow of passengers, said Union Minister of Civil Aviation Jyotiraditya Scindia on Friday here in the national capital. He was addressing media persons [&#8230;]
+
+Fri, 15 Dec 2023 10:47:28 +0000
+### [Dwayne Johnson to play MMA fighter Mark Kerr  in ‘The Smashing Machine’](https://theprint.in/feature/dwayne-johnson-to-play-mma-fighter-mark-kerr-in-the-smashing-machine/1887461/)
+
+Article found but Couldn't summarize 
+Washington [US], December 15 (ANI): Actor and film producer Dwayne Johnson is all set to take up a new role as mixed martial arts fighter Mark Kerr. The wrestler-turned-actor, 51, will play the MMA and UFC champion in director Benny Safdie&#8217;s upcoming film &#8216;The Smashing Machine&#8217;, according to an announcement made by the independent entertainment [&#8230;]
+
+Fri, 15 Dec 2023 10:47:19 +0000
+### [Global economic diplomacy: India advances on multiple fronts with key trade partners UK, Czech Republic and Oman](https://theprint.in/economy/global-economic-diplomacy-india-advances-on-multiple-fronts-with-key-trade-partners-uk-czech-republic-and-oman/1887459/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 15 (ANI): India has made significant strides in fortifying trade relations with the United Kingdom, the Czech Republic, and Oman, reflecting the country&#8217;s commitment to fostering global economic partnerships. The India-UK Free Trade Agreement (FTA) negotiations, inaugurated on January 13, 2022, as a follow-up to Prime Minister Narendra Modi&#8217;s announcement in [&#8230;]
+
+Fri, 15 Dec 2023 10:47:10 +0000
+### [US expands investments in Africa, seals USD 14.2 bn in deals to counter Chinese influence](https://theprint.in/world/us-expands-investments-in-africa-seals-usd-14-2-bn-in-deals-to-counter-chinese-influence/1887457/)
+
+Article found but Couldn't summarize 
+Washington, DC [US], December 15 (ANI): The United States has engaged in an extensive effort to bolster its ties with African nations, finalising numerous trade and investment agreements totaling USD 14.2 billion in the past year, Voice of America reported. This initiative aims to counteract the increasing influence of China on the continent. The 547 [&#8230;]
+
+Fri, 15 Dec 2023 10:47:01 +0000
+### [Stars or Substance? Orientbell Tiles Unveils Bold Campaign Challenging Celeb-Endorsements](https://theprint.in/ani-press-releases/stars-or-substance-orientbell-tiles-unveils-bold-campaign-challenging-celeb-endorsements/1887455/)
+
+Article found but Couldn't summarize 
+PNN New Delhi [India], December 15: In an industry where celebrity endorsements often steal the spotlight, Orientbell Tiles is breaking free from tradition with its latest campaign, challenging the norm that equates star power with product worth. Titled &#8220;100% Tiles and 0% Celebs,&#8221; this groundbreaking initiative is not just about tiles; it&#8217;s a reflection on [&#8230;]
+
+Fri, 15 Dec 2023 10:45:38 +0000
+### [Gold set for weekly gain on Fed’s interest rate pivot](https://theprint.in/economy/gold-set-for-weekly-gain-on-feds-interest-rate-pivot/1887453/)
+
+Article found but Couldn't summarize 
+By Anjana Anil (Reuters) - Gold prices were on track for a weekly jump, driven by a weaker U.S. dollar and lower Treasury yields, after the Federal Reserve indicated lowering borrowing costs next year
+
+Fri, 15 Dec 2023 10:45:27 +0000
+### [Pakistan media ban on Imran Khan trial raises transparency concerns](https://theprint.in/world/pakistan-media-ban-on-imran-khan-trial-raises-transparency-concerns/1887451/)
+
+Article found but Couldn't summarize 
+By Asif Shahzad ISLAMABAD (Reuters) - A Pakistan court has banned media from reporting on proceedings in a closed-door trial of jailed former Prime Minister Imran Khan on charges of leaking state
+
+Fri, 15 Dec 2023 10:45:27 +0000
+### [Fresh appointments in Rajasthan CM office after Sharma’s oath taking](https://theprint.in/india/fresh-appointments-in-rajasthan-cm-office-after-sharmas-oath-taking/1887450/)
+
+As GPT-3.5, I can provide a summary of the article you shared. Hours after Bhajan Lal Sharma became the chief minister of Rajasthan, the state government appointed three IAS officers to the chief minister's office on a temporary basis. T. Ravikanth, a 1998 batch IAS officer, has been appointed as the principal secretary to the chief minister, replacing Kuldeep Ranka. Additionally, Anandhi, a 2007 batch IAS officer, has been given the charge of the secretary to the chief minister, and Saumya Jha, a 2017 batch IAS officer, has been temporarily appointed as the chief minister's joint secretary. These appointments were made by the department of personnel. Ravikanth is currently serving as the principal secretary (medical education), Anandhi as the IT and Communication secretary, and Jha as the CEO of Rajasthan Rural Livelihood Development Council. They will continue to hold their current positions along with their additional responsibilities.
+
+Fri, 15 Dec 2023 10:45:15 +0000
+### [Israel-Hamas fighting convulses Gaza as U.S. seeks protection of civilians](https://theprint.in/world/israel-hamas-fighting-convulses-gaza-as-u-s-seeks-protection-of-civilians/1887448/)
+
+Article found but Couldn't summarize 
+By Nidal al-Mughrabi and Fadi Shana CAIRO/GAZA (Reuters) -Israeli forces and Hamas fought fierce battles throughout Gaza on Friday, witnesses said, suggesting Israel's ground offensive was meeting
+
 Fri, 15 Dec 2023 10:17:31 +0000
 ### [Mitron Introduces Exciting New Culinary Delights for the Holiday Season!](https://theprint.in/ani-press-releases/mitron-introduces-exciting-new-culinary-delights-for-the-holiday-season/1887416/)
 

@@ -1,3 +1,15 @@
+2023-12-15T16:30:05+05:30
+### [What Are the Unseen Effects of the Election Commissioner Bill on Electoral Governance](https://thewire.in/government/what-are-the-unseen-effects-of-the-election-commissioner-bill-on-electoral-governance)
+
+No Article text 
+Any perceived influence of the Executive in the selection process of the Chief Election Commissioner and Other Election Commissioners may give rise to apprehensions regarding the Election Commission's capacity to fulfil its duties without prejudice.
+
+2023-12-15T16:00:26+05:30
+### [Union Govt Tells SC it Will Follow CBI Manual on Device Seizure. Here's What the Manual Says.](https://thewire.in/government/union-govt-tells-sc-it-will-follow-cbi-manual-on-device-seizure-heres-what-the-manual-says)
+
+No Article text 
+The Union has promised to follow the CBI Manual while it works on preparing guidelines.
+
 2023-12-15T15:30:20+05:30
 ### [Nehru and Kashmir: After SC's Article 370 Order, BJP Attempts to Distort History Again](https://thewire.in/politics/nehru-kashmir-article-370-rss-bjp-distort-history)
 

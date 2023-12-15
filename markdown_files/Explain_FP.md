@@ -1,3 +1,14 @@
+Fri, 15 Dec 2023 16:22:15 +0530
+### [Inside ‘Operation 1027’, the anti-junta offensive in Myanmar](https://www.firstpost.com/explainers/inside-operation-1027-the-anti-junta-offensive-in-myanmar-13507682.html)
+
+Article found but Couldn't summarize 
+Inside ‘Operation 1027’, the anti-junta offensive in Myanmar
+
+Fri, 15 Dec 2023 15:54:33 +0530
+### [Gen-Z are scaling back on eating out owing to menu anxiety. What is it?](https://www.firstpost.com/explainers/gen-z-are-scaling-back-on-eating-out-owing-to-menu-anxiety-what-is-it-13503792.html)
+
+Hmm, it seems like you're experiencing menu anxiety, which is a form of social anxiety related to feeling overwhelmed when choosing from a variety of options on a restaurant menu. Menu anxiety can make it difficult to decide what to order and may even affect your appetite. It's worth noting that menu anxiety is not an officially recognized mental health diagnosis, but it is a common issue that many people face. Factors such as the cost of the meal, not finding something appetizing, or having too many choices can contribute to menu anxiety. Some individuals also worry about being judged or feel pressured by others waiting in line. However, there are ways to cope with menu anxiety. Familiarizing yourself with the menu options in advance can help reduce feelings of being overwhelmed or rushed. It's also important to remember that there's no such thing as a wrong decision when ordering food. Opting for familiar dishes that bring comfort and satisfaction can also be helpful. Ultimately, the goal is to enjoy the dining experience and focus on the positive social interactions with your companions.
+
 Fri, 15 Dec 2023 15:34:34 +0530
 ### [India debates paid menstrual leave policy at work. Where do other countries stand?](https://www.firstpost.com/explainers/india-debates-paid-menstrual-leave-policy-at-workplace-where-do-other-countries-stand-13506072.html)
 

@@ -1,3 +1,9 @@
+Fri, 15 Dec 2023 16:38:58 +0530
+### [‘Priscilla’ movie review: Sofia Coppola’s giddy swirl through the dream and nightmare of celebrity](https://www.thehindu.com/entertainment/movies/priscilla-movie-review-sofia-coppolas-giddy-swirl-through-the-dream-and-nightmare-of-celebrity/article67641401.ece)
+
+Article found but Couldn't summarize 
+From when 24-year-old Elvis sweeps a 14-year-old Priscilla off her feet, to 14 years later when she leaves Graceland, Sofia Coppola presents a nuanced look, at the highs and lows of a rockstar life
+
 Fri, 15 Dec 2023 15:11:41 +0530
 ### [Ramana Balachandran weaves together new ideas](https://www.thehindu.com/entertainment/music/ramana-balachandran-weaves-together-new-ideas/article67634259.ece)
 
