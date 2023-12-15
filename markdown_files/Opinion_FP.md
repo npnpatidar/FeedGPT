@@ -1,3 +1,9 @@
+Fri, 15 Dec 2023 21:18:05 +0530
+### [Vantage | Is US trying to wean Africa away from China with trade deals?](https://www.firstpost.com/opinion/vantage-is-us-trying-to-wean-africa-away-from-china-with-trade-deals-13509312.html)
+
+Article found but Couldn't summarize 
+Vantage | Is US trying to wean Africa away from China with trade deals?
+
 Fri, 15 Dec 2023 19:34:15 +0530
 ### [Vantage | Why Germany is planning to ban its far-right party](https://www.firstpost.com/opinion/vantage-why-germany-is-planning-to-ban-its-far-right-party-13508742.html)
 

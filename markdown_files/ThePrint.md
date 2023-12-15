@@ -1,3 +1,123 @@
+Fri, 15 Dec 2023 16:17:24 +0000
+### [EAM Jaishankar meets Oman Sultan Haitham Bin Tarik in Delhi](https://theprint.in/world/eam-jaishankar-meets-oman-sultan-haitham-bin-tarik-in-delhi/1888093/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 15 (ANI): External Affairs Minister S Jaishankar on Friday met Oman Sultan Haitham Bin Tarik. Jaishankar said that he values his guidance for further deepening of strategic partnership between India and Oman. In a post shared on X, Jaishankar stated, &#8220;Honoured to call on His Majesty Sultan Haitham Bin Tarik of [&#8230;]
+
+Fri, 15 Dec 2023 16:17:12 +0000
+### [MoS Muraleedharan participates in National Day celebrations of Bhutan at its embassy](https://theprint.in/world/mos-muraleedharan-participates-in-national-day-celebrations-of-bhutan-at-its-embassy/1888091/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 15 (ANI): Minister of State (MoS) for External Affairs V Muraleedharan on Friday expressed joy in participating in the 116th National Day celebrations at the Royal Embassy of Bhutan in New Delhi. He further extended greetings to the Bhutan government and people of Bhutan on this ocsasion. Muraleedharan also emphasised that [&#8230;]
+
+Fri, 15 Dec 2023 16:17:02 +0000
+### [Cabinet approves MoU between India, Italy for cooperation in field of Industrial Property Rights](https://theprint.in/world/cabinet-approves-mou-between-india-italy-for-cooperation-in-field-of-industrial-property-rights/1888088/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 15 (ANI): The Union Cabinet approved a Memorandum of Understanding (MoU) between India and Italy for cooperation in the field of industrial property Rights. The cabinet chaired by Prime Minister Narendra Modi on Friday gave its approval for the signing of the MoU between the &#8220;Department for Promotion of Industry and [&#8230;]
+
+Fri, 15 Dec 2023 16:16:12 +0000
+### [Haryana one of foremost states in ‘Bharat’, to have its own state song: Assembly resolution](https://theprint.in/india/haryana-one-of-foremost-states-in-bharat-to-have-its-own-state-song-assembly-resolution/1888087/)
+
+Article found but Couldn't summarize 
+Chandigarh, Dec 15 (PTI) Haryana will soon have its own state song reflecting the rich history, heritage and vibrant culture of the state. Chief Minister Manohar Lal Khattar, who had on Thursday said the state will have its own &#8220;Rajya Geet&#8221;, introduced an official resolution in this regard on the opening day of the Winter [&#8230;]
+
+Fri, 15 Dec 2023 16:16:01 +0000
+### [J-K BJP Mahila Morcha hails passage of bill extending women’s quota to UT](https://theprint.in/india/j-k-bjp-mahila-morcha-hails-passage-of-bill-extending-womens-quota-to-ut/1888086/)
+
+Article found but Couldn't summarize 
+Jammu, Dec 15 (PTI) The BJP Mahila Morcha here celebrated the passage of a bill that extended the provisions of the women&#8217;s reservation law to Jammu and Kashmir calling it a &#8220;significant step&#8221; towards empowering women in the region. The Lok Sabha on Tuesday passed two bills that extended the provisions of the women&#8217;s reservation [&#8230;]
+
+Fri, 15 Dec 2023 16:15:50 +0000
+### [Mizoram’s Chakma Autonomous District Council chief resigns](https://theprint.in/india/mizorams-chakma-autonomous-district-council-chief-resigns-2/1888084/)
+
+Article found but Couldn't summarize 
+Aizawl, Dec 15 (PTI) Days after quitting the Mizo National Front (MNF) party, Kali Kumar Tongchangya on Friday resigned as chairman of Mizoram’s Chakma Autonomous District Council (CADC), an official said. Tongchangya submitted his resignation letter to Governor Hari Babu Kambhampati, the official said. The Chakma leader had quit the MNF and joined the Zoram [&#8230;]
+
+Fri, 15 Dec 2023 16:15:39 +0000
+### [Home Minister speaks to MPs through media, this is unacceptable: Chidambaram](https://theprint.in/india/home-minister-speaks-to-mps-through-media-this-is-unacceptable-chidambaram/1888083/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) Congress leader P Chidambaram Friday asserted that Home Minister Amit Shah should make a statement in Parliament over the security breach in Lok Sabha and cited the precedent of then Home Minister L K Advani making a statement in the House in the aftermath of the 2001 Parliament attack. Accusing [&#8230;]
+
+Fri, 15 Dec 2023 16:15:28 +0000
+### [SIT starts probe into Disha Salian death case](https://theprint.in/india/sit-starts-probe-into-disha-salian-death-case/1888082/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 15 (PTI) A Special Investigation Team (SIT) of Mumbai Police has started probe into the alleged suicide of Disha Salian, former manager of late Bollywood actor Sushant Singh Rajput, an official said here on Friday. Additional Commissioner of Police (North) Rajiv Jain is heading the SIT. Senior inspector of Malvani police station Chimaji [&#8230;]
+
+Fri, 15 Dec 2023 16:15:16 +0000
+### [U.S. stocks inch higher, dollar rebounds as rate cut fever wanes](https://theprint.in/economy/u-s-stocks-inch-higher-dollar-rebounds-as-rate-cut-fever-wanes/1888080/)
+
+Article found but Couldn't summarize 
+By Stephen Culp NEW YORK (Reuters) - U.S. stocks were slightly higher and the dollar rebounded on Friday as market participants caught their breath as they approached the end of a week loaded with
+
+Fri, 15 Dec 2023 16:15:15 +0000
+### [India’s approach to Afghanistan continues to be guided by historical relations, friendship with Afghan people: Jaishankar](https://theprint.in/india/indias-approach-to-afghanistan-continues-to-be-guided-by-historical-relations-friendship-with-afghan-people-jaishankar/1888079/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) In the past two years, some Afghan diplomats have left India as they obtained residency in third countries but the remaining diplomats have taken over the responsibility for continued functioning of the diplomatic missions of that country, External Affairs Minister S Jaishankar said on Friday. In a written reply to [&#8230;]
+
+Fri, 15 Dec 2023 16:15:03 +0000
+### [Maersk to pause all container ship traffic through the Red Sea](https://theprint.in/world/maersk-to-pause-all-container-ship-traffic-through-the-red-sea/1888077/)
+
+Article found but Couldn't summarize 
+HELSINKI (Reuters) -Danish shipping company A.P. Moller-Maersk will pause all container shipments through the Red Sea until further notice and send them on a detour around Africa, a spokesperson for
+
+Fri, 15 Dec 2023 16:15:02 +0000
+### [Bill to ban polygamy to be introduced in assembly by Feb, says Assam CM; ‘Love Jihad’ clause likely](https://theprint.in/india/bill-to-ban-polygamy-to-be-introduced-in-assembly-by-feb-says-assam-cm-love-jihad-clause-likely/1888076/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) A bill to ban polygamy will be introduced in the next session of the Assam assembly to be held in February, Assam Chief Minister Himanta Biswa Sarma said here on Friday. The bill has been formulated after months of consultations with various individuals and organisations. Talking to reporters, Sarma said, [&#8230;]
+
+Fri, 15 Dec 2023 16:01:37 +0000
+### [Bamnoli land acquisition: Delhi LG refuses to reconsider report seeking chief secy’s suspension](https://theprint.in/india/bamnoli-land-acquisition-delhi-lg-refuses-to-reconsider-report-seeking-chief-secys-suspension/1888067/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) Lieutenant Governor V K Saxena has turned down Vigilance Minister Atishi’s proposal to review his earlier stand on her report alleging “prima facie complicity” of Delhi chief secretary in the Bamnoli land acquisition matter, saying the fresh file is nothing but &#8220;re-spinning&#8221; of theories, Raj Niwas officials said on Friday. [&#8230;]
+
+Fri, 15 Dec 2023 16:01:27 +0000
+### [Assistant professor of medical college in Telangana arrested over ‘attack’ on students](https://theprint.in/india/assistant-professor-of-medical-college-in-telangana-arrested-over-attack-on-students/1888066/)
+
+Article found but Couldn't summarize 
+Hyderabad, Dec 15 (PTI) An assistant professor at the state-run Rajiv Gandhi institute of Medical Sciences in Adilabad has been removed from service after he was arrested by the police over his alleged involvement in an attack on some students. The professor and four others were arrested for the December 13 incident that occurred on [&#8230;]
+
+Fri, 15 Dec 2023 16:01:17 +0000
+### [Mizoram’s Chakma Autonomous District Council chief resigns](https://theprint.in/india/mizorams-chakma-autonomous-district-council-chief-resigns/1888065/)
+
+Article found but Couldn't summarize 
+Aizawl, Dec 15 (PTI) Days after quitting the Mizo National Front (MNF) party, Kali Kumar Tongchangya on Friday resigned as chairman of Mizoram’s Chakma Autonomous District Council (CADC), an official said. Tongchangya submitted his resignation letter to Governor Hari Babu Kambhampati, the official said. The Chakma leader had quit the MNF and joined the Zoram [&#8230;]
+
+Fri, 15 Dec 2023 16:01:07 +0000
+### [PM Modi to interact with beneficiaries of Viksit Bharat Sankalp Yatra](https://theprint.in/india/pm-modi-to-interact-with-beneficiaries-of-viksit-bharat-sankalp-yatra/1888064/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) Prime Minister Narendra Modi will interact with beneficiaries of the &#8216;Viksit Bharat Sankalp Yatra&#8217; on Saturday via video conference. The Prime Minister&#8217;s Office said in a statement that Modi will also flag off the Yatra in Rajasthan, Madhya Pradesh, Chhattisgarh, Telangana and Mizoram during the programme. &#8220;Thousands of Viksit Bharat [&#8230;]
+
+Fri, 15 Dec 2023 16:00:56 +0000
+### [Safety of Indians in Canada priority for government: Muraleedharan](https://theprint.in/india/safety-of-indians-in-canada-priority-for-government-muraleedharan/1888063/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) As many as 8.3 lakh Canadian citizens have affiliation to Hinduism while 7.7 lakh reported Sikhism as their religion, the government told Parliament on Friday, citing Ottawa&#8217;s census data for 2021. The information was provided by Minister of State for External Affairs V Muraleedharan in a written reply to a [&#8230;]
+
+Fri, 15 Dec 2023 16:00:46 +0000
+### [Parliament security breach accused Sagar Sharma talked about ‘dying for nation’ in his diary](https://theprint.in/india/parliament-security-breach-accused-sagar-sharma-talked-about-dying-for-nation-in-his-diary/1888061/)
+
+Article found but Couldn't summarize 
+Lucknow, Dec 15 (PTI) Sagar Sharma, one of the two men who had jumped into the Lok Sabha chamber and set off smoke canisters, maintained for some years a diary in which he often wrote &#8220;Inquilab Zindabad&#8221; on top of the page and at one stage talked about &#8220;dying for the nation&#8221;. &#8220;I have given [&#8230;]
+
+Fri, 15 Dec 2023 16:00:36 +0000
+### [Bengal Guv shown ‘black flags’ by section of students in Burdwan](https://theprint.in/india/bengal-guv-shown-black-flags-by-section-of-students-in-burdwan/1888060/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 15 (PTI) West Bengal Governor C V Ananda Bose was allegedly shown black flags by a section of students when he went to the Burdwan University on Friday. A spokesman of the Trinamool Chhatra Parishad, the students’ wing of the ruling Trinamool Congress, claimed its members displayed black flags as Bose’s car entered [&#8230;]
+
+Fri, 15 Dec 2023 16:00:25 +0000
+### [Rahul interacts with Harvard students, says keen to give every Indian student same exposure](https://theprint.in/india/rahul-interacts-with-harvard-students-says-keen-to-give-every-indian-student-same-exposure/1888059/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) Congress leader Rahul Gandhi interacted with Harvard University students from across the world on Friday and asserted that he is determined to ensure that every Indian student gets the exposure and opportunity needed to become global ambassadors. &#8220;Had a wonderful and engaging chat with a diverse community of Harvard students [&#8230;]
+
 Fri, 15 Dec 2023 15:02:02 +0000
 ### [Israel strikes Hezbollah target in Lebanon: IDF](https://theprint.in/world/israel-strikes-hezbollah-target-in-lebanon-idf/1887979/)
 
