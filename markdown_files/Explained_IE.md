@@ -1,3 +1,8 @@
+Fri, 15 Dec 2023 01:35:38 +0000
+### [How the world reacted to Article 370 abrogation, how SC verdict helps India](https://indianexpress.com/article/explained/how-the-world-reacted-to-article-370-abrogation-how-sc-verdict-helps-india-9068822/)
+
+The recent article discusses the international reactions to the Supreme Court's approval of constitutional changes in Jammu and Kashmir. Pakistan and China have disputed the changes, while the Organization of Islamic Cooperation has called for a reversal of the measures. Various countries and international bodies have expressed nuanced positions on the issue, with some supporting India's actions and others emphasizing human rights and the need to avoid escalation between India and Pakistan. India's diplomatic strategy on Kashmir has received endorsement from the Supreme Court. Looking ahead, the article mentions the importance of protecting the human rights of the people in J&K, holding free and fair elections, and preventing tensions between India and Pakistan. The article also notes upcoming national elections in both India and Pakistan as potential windows for engagement between the two countries.
+
 Thu, 14 Dec 2023 14:38:57 +0000
 ### [Beyond Jammu and Kashmir: Why many states in India enjoy special provisions](https://indianexpress.com/article/explained/everyday-explainers/why-many-states-in-india-enjoy-special-provisions-9068631/)
 

@@ -1,3 +1,20 @@
+Fri, 15 Dec 2023 08:00:05 +0530
+### [The Judiciary has given India a better chance to emerge as an arbitration hub](https://www.livemint.com/opinion/online-views/the-judiciary-has-given-india-a-better-chance-to-emerge-as-an-arbitration-hub-11702561945679.html)
+
+The recent 7-judge ruling by the Supreme Court of India on the enforceability of unstamped and insufficiently stamped arbitration agreements has significant implications for India's position as an arbitrator hub. The ruling asserts that unstamped or insufficiently stamped agreements will still be enforceable, with courts deferring the examination of stamp duty sufficiency to arbitrators. This decision aims to enhance India's attractiveness as an arbitrator hub by promoting arbitral competence and minimizing judicial intervention in arbitral processes. It also reinforces the principles of arbitral autonomy and minimal judicial interference, which are crucial for an effective arbitration ecosystem. The ruling is expected to save time for disputant parties, add certainty and predictability to dispute resolution, and improve investor confidence in India's arbitration system.
+
+Fri, 15 Dec 2023 08:00:05 +0530
+### [Angry apps versus Big Tech gateways](https://www.livemint.com/opinion/online-views/angry-apps-versus-big-tech-gateways-11702563280485.html)
+
+Article found but Couldn't summarize 
+Epic’s win against Google in the US was a sign that America’s antitrust approach is being updated to the Information Age. This should please Indian app developers chafing at stiff app store charges applied by a powerful duopoly.
+
+Fri, 15 Dec 2023 08:00:04 +0530
+### [Digitization of land records will fast-track infra projects and fight poverty](https://www.livemint.com/opinion/online-views/digitization-of-land-records-will-fast-track-infra-projects-and-fight-poverty-11702561880953.html)
+
+Article found but Couldn't summarize 
+Digitized land records should boost infrastructure development as the Gati Shakti platform makes use of this data, while title clarity serving as collateral for credit could give the poor a better chance to escape poverty.
+
 Thu, 14 Dec 2023 23:59:10 +0530
 ### [The 20th is 22 septillion plus](https://www.livemint.com/opinion/columns/the-20th-is-22-septillion-plus-11702554877594.html)
 

@@ -1,3 +1,33 @@
+Fri, 15 Dec 2023 01:56:51 +0000
+### [The nature of the future](https://indianexpress.com/article/opinion/columns/cop28-climate-meeting-dubai-fossil-fuel-declarations-9068768/)
+
+The 28th Conference of Parties (COP28) to the UN Framework Convention on Climate Change (UNFCCC) concluded with a focus on the urgent need to address climate change. However, the global stocktake presented at the conference revealed a stark gap between current actions and the necessary efforts to combat climate change. The latest assessment reports of the Inter-Governmental Panel on Climate Change (IPCC) indicated that the current nationally determined contributions (NDCs) will only lead to a meager 2% reduction in global greenhouse gas emissions by 2030, far from the 50% reduction needed to limit global temperature rise to 1.5 degrees Celsius by 2050. Additionally, the article highlighted the challenges related to climate finance, the need for transitioning away from fossil fuels, renewable energy targets, and the acknowledgement of climate change's impact on health, food security, and biodiversity.
+
+Fri, 15 Dec 2023 01:50:25 +0000
+### [Emoji quest](https://indianexpress.com/article/opinion/editorials/ecologist-demand-biodiversity-emojis-9068765/)
+
+Article found but Couldn't summarize
+
+Fri, 15 Dec 2023 01:49:01 +0000
+### [A small step](https://indianexpress.com/article/opinion/editorials/cop28-meet-deal-on-fossil-fuels-9068734/)
+
+The COP28 declaration, calling for a transition away from fossil fuels, marks a historic but incremental advance. While it addresses concerns of emerging economies like India and China, it falls short of explicit commitments and targets, disappointing small island states and other vulnerable countries. The declaration also aims for a tripling of global renewable energy capacity by 2030 and doubling of improvements in energy efficiency, potentially reducing emissions by 7 billion tonnes of carbon dioxide equivalent. However, a clear roadmap to achieve these targets is lacking, and the issue of energy storage for renewables remains unresolved. Achieving the 10,000 gigawatts of global installed renewable energy by 2030 will require increased investments and addressing high capital costs, particularly in developing nations. While these steps may support the Paris Pact, there's a concern about actual progress and potential backtracking.
+
+Fri, 15 Dec 2023 01:45:47 +0000
+### [Protect the House](https://indianexpress.com/article/opinion/editorials/parliament-security-breach-on-anniversary-of-2001-terrorist-attack-9068733/)
+
+Article found but Couldn't summarize
+
+Fri, 15 Dec 2023 01:37:31 +0000
+### [The only castes that matter](https://indianexpress.com/article/opinion/columns/the-only-castes-that-matter-9068800/)
+
+The article discusses the historical and contemporary issues of caste-based discrimination in India and the efforts made by political leaders, particularly Prime Minister Narendra Modi, to address these issues. It highlights the detrimental impact of caste-based discrimination and the transformational efforts of the Modi government to create an egalitarian society. The article mentions various government schemes aimed at social inclusion, poverty alleviation, and empowerment, emphasizing the focus on improving the lives of all citizens, regardless of caste, religion, or gender. The article also underscores the government's efforts to preserve traditional knowledge and crafts while promoting economic growth and social progress.
+
+Fri, 15 Dec 2023 01:37:14 +0000
+### [In Haryana, a breakdown](https://indianexpress.com/article/opinion/columns/in-haryana-a-breakdown-9068796/)
+
+Article found but Couldn't summarize
+
 Thu, 14 Dec 2023 21:30:36 +0000
 ### [December 15, 1983, Forty Years Ago: DTC buses burnt](https://indianexpress.com/article/opinion/40-years-ago/december-15-1983-forty-years-ago-dtc-buses-burnt-9068767/)
 

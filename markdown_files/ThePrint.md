@@ -1,3 +1,81 @@
+Fri, 15 Dec 2023 02:16:33 +0000
+### [Tennis-Andreescu targets Paris Olympics but rules out Australian Open](https://theprint.in/sport/tennis-andreescu-targets-paris-olympics-but-rules-out-australian-open/1886845/)
+
+Article found but Couldn't summarize 
+By Steve Keating MONTREAL (Reuters) - Bianca Andreescu said on Thursday she hopes to represent Canada at next year's Paris Olympics but the 2019 U.S. Open champion has ruled out playing at next
+
+Fri, 15 Dec 2023 02:16:26 +0000
+### [Rugby in denial over concussion problem, says author Peters](https://theprint.in/sport/rugby-in-denial-over-concussion-problem-says-author-peters/1886844/)
+
+Article found but Couldn't summarize 
+By Mitch Phillips LONDON (Reuters) - Sam Peters had his dream job as a rugby writer but, as his interest in the game's concussion problem came up against a wall of denial and obfuscation, he morphed
+
+Fri, 15 Dec 2023 02:16:10 +0000
+### [Oil prices on track for first weekly rise in two months](https://theprint.in/economy/oil-prices-on-track-for-first-weekly-rise-in-two-months/1886842/)
+
+Article found but Couldn't summarize 
+By Laura Sanicola (Reuters) - Oil prices rose in early Asian trade on Friday, on track to notch their first weekly rise in two months after benefiting from a bullish forecast from the International
+
+Fri, 15 Dec 2023 02:15:59 +0000
+### [Dollar feels the heat as Fed’s dovish pivot weighs](https://theprint.in/economy/dollar-feels-the-heat-as-feds-dovish-pivot-weighs/1886840/)
+
+Article found but Couldn't summarize 
+By Ankur Banerjee SINGAPORE (Reuters) - The dollar languished near four-month lows on Friday, weighed by growing prospects of U.S. interest rate cuts next year, while the euro and pound found support
+
+Fri, 15 Dec 2023 02:15:50 +0000
+### [Asian shares hit three-month peak as Fed pivot rally rolls on](https://theprint.in/economy/asian-shares-hit-three-month-peak-as-fed-pivot-rally-rolls-on/1886838/)
+
+Article found but Couldn't summarize 
+By Stella Qiu SYDNEY (Reuters) - Asian shares hit a three-month peak on Friday as sharp declines in the dollar and U.S. yields extended the Fed-fuelled rally, but pushback on rate cuts from central
+
+Fri, 15 Dec 2023 02:15:41 +0000
+### [US plans 5G protection conference after spying concerns from Costa Rica](https://theprint.in/world/us-plans-5g-protection-conference-after-spying-concerns-from-costa-rica/1886837/)
+
+Article found but Couldn't summarize 
+(Reuters) - The U.S. Embassy in Costa Rica said on Thursday it planned to organize a regional conference on protecting 5G networks in April next year, days after China rejected cyber-security and
+
+Fri, 15 Dec 2023 02:15:29 +0000
+### [Hungary holds up EU deal on 50 billion euro for Ukraine, talks to resume in January](https://theprint.in/world/hungary-holds-up-eu-deal-on-50-billion-euro-for-ukraine-talks-to-resume-in-january/1886835/)
+
+Article found but Couldn't summarize 
+BRUSSELS (Reuters) - Hungary held up a European Union deal on Friday on 50 billion euros for Ukraine from the EU budget and EU leaders decided to return to the discussion in January, Dutch Prime
+
+Fri, 15 Dec 2023 02:15:18 +0000
+### [North Korea may test ICBM soon, South official says ahead of nuclear talks in DC](https://theprint.in/world/north-korea-may-test-icbm-soon-south-official-says-ahead-of-nuclear-talks-in-dc/1886834/)
+
+Article found but Couldn't summarize 
+SEOUL (Reuters) - North Korea may test-launch an intercontinental ballistic missile (ICBM) this month, a senior South Korean official said on Friday before discussions with U.S. officials on responses
+
+Fri, 15 Dec 2023 02:15:05 +0000
+### [US pushes Israel ‘shift’ in Gaza attacks, but details scarce](https://theprint.in/world/us-pushes-israel-shift-in-gaza-attacks-but-details-scarce/1886832/)
+
+Article found but Couldn't summarize 
+By Andrea Shalal and Jeff Mason WASHINGTON (Reuters) - U.S. President Joe Biden and top national security adviser Jake Sullivan have discussed with Israeli Prime Minister Benjamin Netanyahu scaling
+
+Fri, 15 Dec 2023 02:00:15 +0000
+### [UP, MP to Assam, several districts have no MGNREGS ombudsperson to address workers’ grievances](https://theprint.in/india/governance/up-mp-to-assam-several-districts-have-no-mgnregs-ombudsperson-to-address-workers-grievances/1884621/)
+
+Article found but Couldn't summarize 
+Over 170 districts in India don't have an ombudsperson, a mandatory requirement under the job guarantee scheme. In some states, 1 ombudsperson allotted for 2 districts, it is learnt.
+
+Fri, 15 Dec 2023 02:00:03 +0000
+### [Bhajan Lal Sharma to take oath as Rajasthan CM Friday](https://theprint.in/india/bhajan-lal-sharma-to-take-oath-as-rajasthan-cm-friday/1886831/)
+
+Article found but Couldn't summarize 
+Jaipur, Dec 15 (PTI) The swearing-in ceremony of Rajasthan chief minister-designate Bhajan Lal Sharma will take place in Jaipur on Friday. Along with Sharma, Diya Kumari and Prem Chand Bairwa, who were named as deputy chief ministers in the recently held BJP legislature party meeting, will take oath. The three will be administered the oath [&#8230;]
+
+Fri, 15 Dec 2023 01:47:01 +0000
+### [India, US co-chair AML/CFT Dialogue, agree to improve cooperation against money laundering, terror financing](https://theprint.in/world/india-us-co-chair-aml-cft-dialogue-agree-to-improve-cooperation-against-money-laundering-terror-financing-2/1886829/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 15 (ANI): India and the United States co-chaired the US-India Anti-Money Laundering and Countering the Financing of Terrorism Dialogue, and agreed to improve cooperation and information sharing The Dialogue took place on Wednesday here in the national capital. It was co-chaired by US Treasury Under Secretary for Terrorism and Financial Intelligence, [&#8230;]
+
+Fri, 15 Dec 2023 01:32:02 +0000
+### [India, US co-chair AML/CFT Dialogue, agree to improve cooperation against money laundering, terror financing](https://theprint.in/world/india-us-co-chair-aml-cft-dialogue-agree-to-improve-cooperation-against-money-laundering-terror-financing/1886827/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 15 (ANI): India and the United States co-chaired the US-India Anti-Money Laundering and Countering the Financing of Terrorism Dialogue, and agreed to improve cooperation and information sharing The Dialogue took place on Wednesday here in the national capital. It was co-chaired by US Treasury Under Secretary for Terrorism and Financial Intelligence, [&#8230;]
+
 Fri, 15 Dec 2023 01:17:01 +0000
 ### [Oman Sultan to arrive in India today for three-day state visit](https://theprint.in/world/oman-sultan-to-arrive-in-india-today-for-three-day-state-visit/1886825/)
 
