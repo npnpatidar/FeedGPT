@@ -1,3 +1,9 @@
+Fri, 15 Dec 2023 11:57:35 +0530
+### [‘Reacher’ Season 2 review: Double the action, twice the fun](https://www.thehindu.com/entertainment/movies/reacher-season-2-review-double-the-action-twice-the-fun/article67639602.ece)
+
+Article found but Couldn't summarize 
+The nomadic former military policeman has friends and an old flame for company on his second rodeo, which involves crooked cops, an international man of mystery, a night at the symphony, and loads of turbo- charged action
+
 Tue, 12 Dec 2023 16:00:09 +0530
 ### [Aditya Madhavan’s pliant voice gets concert-ready in minutes](https://www.thehindu.com/entertainment/music/aditya-madhavans-pliant-voice-gets-concert-ready-in-minutes/article67627034.ece)
 

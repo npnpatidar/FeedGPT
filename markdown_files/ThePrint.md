@@ -1,3 +1,123 @@
+Fri, 15 Dec 2023 07:04:07 +0000
+### [‘Quiet boy’ from Latur who ‘wanted to join Army’ — who is Parliament security breach accused Amol Shinde](https://theprint.in/india/quiet-boy-from-latur-who-wanted-to-join-army-who-is-parliament-security-breach-accused-amol-shinde/1886972/)
+
+Article found but Couldn't summarize 
+Shinde's parents — 'poor landless labourers' — recall their son's 'sporting achievements', say he was 'dejected... wanted to serve the country' &#38; attended military and police recruitment camps.
+
+Fri, 15 Dec 2023 07:02:28 +0000
+### [A Symphony of Flavors: Reflex Launches the Ultimate Sunday Family Brunch Experience](https://theprint.in/ani-press-releases/a-symphony-of-flavors-reflex-launches-the-ultimate-sunday-family-brunch-experience/1887149/)
+
+Article found but Couldn't summarize 
+NewsVoir Gurgaon (Haryana) [India], December 15: Reflex, Gurgaon&#8217;s premier upscale restaurant and live entertainment space, is thrilled to announce the launch of its Sunday Family Brunch, commencing from the 17th of December, 2023. This enticing culinary affair promises to redefine the Sunday Family Brunch experience, offering an array of delectable cuisines, including Continental, Pan Asian, [&#8230;]
+
+Fri, 15 Dec 2023 07:02:16 +0000
+### [‘India will buy Venezuelan Oil’ says Petroleum Minister Hardeep Singh Puri](https://theprint.in/economy/india-will-buy-venezuelan-oil-says-petroleum-minister-hardeep-singh-puri/1887147/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 15 (ANI): India will buy Venezuelan oil, said Petroleum Minister Hardeep Singh Puri on Friday adding that Indian refineries are capable of processing the heavy oil from the South African country. Speaking to reporters at an event, Puri stated that New Delhi is willing to resume oil import with any nation [&#8230;]
+
+Fri, 15 Dec 2023 07:02:02 +0000
+### [Pak army chief should be questioned on enforced disappearances: Baloch Voice Association President](https://theprint.in/world/pak-army-chief-should-be-questioned-on-enforced-disappearances-baloch-voice-association-president/1887145/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 15 (ANI): President of the Baloch Voice Association Munir Mengal has said that Pakistani Army Chief General Asim Munir should be questioned in the US about enforced disappearances, military operations, extrajudicial killings and systematic abuse of rights in Balochistan. He said Pakistan should be asked to end its occupation of Balochistan. &#8220;Pakistani [&#8230;]
+
+Fri, 15 Dec 2023 07:00:57 +0000
+### [Delhi MLA fund raised from Rs 4 cr to Rs 7 cr](https://theprint.in/india/delhi-mla-fund-raised-from-rs-4-cr-to-rs-7-cr/1887144/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) The Delhi MLA Local Area Development (MLALAD) fund for each lawmaker has been raised from Rs 4 crore to Rs 7 crore, Urban Development Minister Saurabh Bharadwaj said in the Delhi Assembly on Friday. The two-day Winter Session of the Delhi Vidhan Sabha began this morning. During the session, the [&#8230;]
+
+Fri, 15 Dec 2023 07:00:46 +0000
+### [312 Covid cases logged in India](https://theprint.in/india/312-covid-cases-logged-in-india/1887143/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15(PTI) India saw a single-day rise of 312 new coronavirus infections, the highest since May 31, while the tally of active cases have increased to 1,296, according to Union Health Ministry data updated on Friday. The death toll was recorded at 5,33,310, as per the data updated at 8 am. The country&#8217;s [&#8230;]
+
+Fri, 15 Dec 2023 07:00:35 +0000
+### [Oppn leaders stage protest against Maharashtra govt over unemployment, exam paper leaks](https://theprint.in/india/oppn-leaders-stage-protest-against-maharashtra-govt-over-unemployment-exam-paper-leaks/1887142/)
+
+Article found but Couldn't summarize 
+Nagpur, Dec 15 (PTI) Leaders from the Opposition parties targeted the Maharashtra government over the issues of unemployment and exam paper leaks on Friday, the sixth day of the winter session of the state assembly. Legislators from the Maha Vikas Aghadi, constituting the Shiv Sena (UBT), Nationalist Congress Party&#8217;s Sharad Pawar faction and Congress, gathered [&#8230;]
+
+Fri, 15 Dec 2023 07:00:24 +0000
+### [Former T’gana CM KCR discharged from hospital](https://theprint.in/india/former-tgana-cm-kcr-discharged-from-hospital/1887141/)
+
+Article found but Couldn't summarize 
+Hyderabad, Dec 15 (PTI) Former Telangana Chief Minister K Chandrasekhar Rao who underwent hip replacement surgery was on Friday discharged from the hospital. A source close to him said Rao would be going to his residence at Nandi Nagar here from the hospital. The BRS chief on December 8 successfully underwent an operation of left [&#8230;]
+
+Fri, 15 Dec 2023 07:00:14 +0000
+### [‘Bitter rivals’ Gehlot, Shekhawat sit next to each other at Rajasthan CM’s swearing-in ceremony](https://theprint.in/india/bitter-rivals-gehlot-shekhawat-sit-next-to-each-other-at-rajasthan-cms-swearing-in-ceremony/1887140/)
+
+Article found but Couldn't summarize 
+Jaipur, Dec 15 (PTI) Outgoing chief minister of Rajasthan Ashok Gehlot reached the swearing-in ceremony of the new chief minister Bhajan Lal Sharma and sat next to &#8220;rival&#8221; Gajendra Singh Shekhwat. Gehlot has been repeatedly targeting Union minister Shekhawat, accusing him of being involved in the Sanjivani Credit Co-operative Society &#8216;scam&#8217;. Shekhawat, in turn, has [&#8230;]
+
+Fri, 15 Dec 2023 07:00:03 +0000
+### [Delivering Covid vaccine directly to respiratory tract may provide higher protection: Study](https://theprint.in/india/delivering-covid-vaccine-directly-to-respiratory-tract-may-provide-higher-protection-study/1887139/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) Delivering the COVID-19 vaccine directly to the respiratory tract &#8212; the primary site of entry in SARS-CoV-2 infection &#8212; may lead to improved protection against the disease, a study in monkeys has found. The global COVID-19 vaccination campaign saved an estimated 20 million lives, researchers said. However, while current COVID-19 [&#8230;]
+
+Fri, 15 Dec 2023 06:52:40 +0000
+### [Opposition protests in Parliament, demands action against BJP MP Pratap Simha over security breach](https://theprint.in/india/opposition-protests-in-parliament-demands-action-against-bjp-mp-pratap-simha-over-security-breach/1887104/)
+
+Article found but Couldn't summarize 
+MP Simha faces scrutiny over allegations of providing Parliament passes to those responsible for the security breach in the Lok Sabha on 13 December.
+
+Fri, 15 Dec 2023 06:47:31 +0000
+### [Aviation can be an Enabler of Global Connectivity and Peace States Jaideep Mirchandani, Group Chairman of Sky One](https://theprint.in/ani-press-releases/aviation-can-be-an-enabler-of-global-connectivity-and-peace-states-jaideep-mirchandani-group-chairman-of-sky-one/1887128/)
+
+Article found but Couldn't summarize 
+NewsVoir Mumbai (Maharashtra) [India], December 15: Jaideep Mirchandani, the Group Chairman of aviation conglomerate Sky One believes that aviation does a lot more than connect people and generate revenue. It is essentially a gateway to explore culture that transforms how diverse societies engage. He says, &#8220;The speed and convenience of air travel empowers people to [&#8230;]
+
+Fri, 15 Dec 2023 06:47:21 +0000
+### [Introducing Recz in India: The Ultimate Recommendations-Based Social App](https://theprint.in/ani-press-releases/introducing-recz-in-india-the-ultimate-recommendations-based-social-app/1887125/)
+
+Article found but Couldn't summarize 
+SRV Media New Delhi [India], December 15: Recz App, a social recommendations-based app, is designed to revolutionize how you discover, share, and trust recommendations online. The app is populated with your trusted friends, family and peers, making it a go-to platform for genuine and foolproof recommendations on a wide range of trending categories. Recz App&#8217;s [&#8230;]
+
+Fri, 15 Dec 2023 06:47:12 +0000
+### [Deepika Padukone offers prayers at Tirupati Balaji Temple with family](https://theprint.in/feature/deepika-padukone-offers-prayers-at-tirupati-balaji-temple-with-family/1887123/)
+
+Article found but Couldn't summarize 
+Tirupati (Andhra Pradesh) [India], December 15 (ANI): Actor Deepika Padukone was spotted at the Tirupati Balaji Temple on Friday morning. In the visuals obtained by ANI, Deepika could be seen seeking the blessings of Lord Balaji with her father Prakash Padukone, mother Ujjala Padukone, and sister Anisha Padukone. https://twitter.com/ANI/status/1735521453230207041?s=20 The whole family was dressed in [&#8230;]
+
+Fri, 15 Dec 2023 06:47:02 +0000
+### [Raj and Sharmila Thackeray inaugurate Sharvari Luth’s Jehangir exhibition, Alekhyam](https://theprint.in/ani-press-releases/raj-and-sharmila-thackeray-inaugurate-sharvari-luths-jehangir-exhibition-alekhyam/1887121/)
+
+Article found but Couldn't summarize 
+VMPL New Delhi [India], December 15: Artist, architect and educationist Sharvari Luth&#8217;s exhibition Alekhyam is a unique fusion of creativity and architectural finesse takes one on a visual odyssey, transcending conventional boundaries and connecting to the essence of life. Alekhyam, exhibited at the Jehangir Art Gallery, was inaugurated by Raj Thackeray and Sharmila Thackeray along [&#8230;]
+
+Fri, 15 Dec 2023 06:45:46 +0000
+### [Asian shares race to four-month peak as Fed pivot rally rolls on](https://theprint.in/economy/asian-shares-race-to-four-month-peak-as-fed-pivot-rally-rolls-on/1887119/)
+
+Article found but Couldn't summarize 
+By Stella Qiu SYDNEY (Reuters) -Asian shares jumped to a four-month peak on Friday as sharp declines in the dollar and U.S. yields extended a Federal Reserve-fuelled rally, but pushback on rate cuts
+
+Fri, 15 Dec 2023 06:45:36 +0000
+### [Dollar feels the heat as Fed’s dovish pivot weighs; euro, pound firm](https://theprint.in/economy/dollar-feels-the-heat-as-feds-dovish-pivot-weighs-euro-pound-firm/1887117/)
+
+Article found but Couldn't summarize 
+By Ankur Banerjee SINGAPORE (Reuters) - The dollar was set for its steepest weekly drop against major currencies since July, weighed by growing prospects of U.S. rate cuts next year, while the euro
+
+Fri, 15 Dec 2023 06:45:25 +0000
+### [Telecom infrastructure providers flag permission issues in Uttar Pradesh](https://theprint.in/economy/telecom-infrastructure-providers-flag-permission-issues-in-uttar-pradesh/1887115/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) Industry body Digital Infrastructure Providers Association (DIPA) has flagged &#8220;critical issues&#8221; faced by telecom infrastructure players in securing permissions for deploying infrastructure in Uttar Pradesh, particularly in Noida and Ghaziabad. DIPA has urged the Uttar Pradesh Government to clear all the pending applications at the earliest for faster rollout of [&#8230;]
+
+Fri, 15 Dec 2023 06:45:23 +0000
+### [Finland will again shut Russian border over asylum seekers](https://theprint.in/world/finland-will-again-shut-russian-border-over-asylum-seekers/1887114/)
+
+Article found but Couldn't summarize 
+By Essi Lehto HELSINKI (Reuters) - Finland will again shut its entire border with Russia to stop the inflow of asylum seekers, Minister of Interior Mari Rantanen said on Thursday, just hours after the
+
+Fri, 15 Dec 2023 06:45:16 +0000
+### [Baluch militants attack Iran police station, killing 11 -state TV](https://theprint.in/world/baluch-militants-attack-iran-police-station-killing-11-state-tv/1887113/)
+
+Article found but Couldn't summarize 
+(Reuters) - Baluch militants attacked a police station in southeastern Iran early on Friday, killing 11 security personnel and wounding several, state television said. State media added that several
+
 Fri, 15 Dec 2023 06:17:40 +0000
 ### [Prodigy Finance Appoints Sonal Kapoor as Global Chief Commercial Officer](https://theprint.in/ani-press-releases/prodigy-finance-appoints-sonal-kapoor-as-global-chief-commercial-officer/1887075/)
 

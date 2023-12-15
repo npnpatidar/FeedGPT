@@ -1,3 +1,15 @@
+2023-12-15T12:33:33+05:30
+### [Nikhil Gupta Approaches Indian Supreme Court Against Arrest, Extradition](https://thewire.in/law/nikhil-gupta-approaches-indian-supreme-court-against-arrest-extradition)
+
+No Article text 
+Gupta's petition is listed before a bench headed by Justice Sanjiv Khanna.
+
+2023-12-15T12:11:33+05:30
+### [Won't Control What a Judge Does With a Matter Listed in Front of Them: CJI Chandrachud](https://thewire.in/law/wont-control-what-a-judge-does-with-a-matter-listed-in-front-of-them-cji-chandrachud)
+
+No Article text 
+The Supreme Court has been in the limelight recently for the allegedly arbitrary manner in which cases were being assigned.
+
 2023-12-15T11:35:27+05:30
 ### [An Ode to the ‘Ad-Hoc’ Teachers of Ramjas English Department](https://thewire.in/education/ode-ad-hoc-teachers-ramjas-english-department)
 

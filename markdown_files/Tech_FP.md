@@ -1,3 +1,21 @@
+Fri, 15 Dec 2023 12:39:58 +0530
+### [Apple slashes the price of iPhone 15 Pro Max, iPhone 14, iPhone 15 and other devices; check details here](https://www.firstpost.com/tech/apple-slashes-the-price-of-iphone-15-pro-max-iphone-14-iphone-15-and-other-devices-check-details-here-13506362.html)
+
+Article found but Couldn't summarize 
+Apple slashes the price of iPhone 15 Pro Max, iPhone 14, iPhone 15 and other devices; check details here
+
+Fri, 15 Dec 2023 12:19:10 +0530
+### [Realme launch the C67, its first 5G smartphone in C-series; Check pricing, specs and availability](https://www.firstpost.com/tech/realme-launch-the-c67-its-first-5g-smartphone-in-c-series-check-pricing-specs-and-availability-13506232.html)
+
+Article found but Couldn't summarize 
+Realme launch the C67, its first 5G smartphone in C-series; Check pricing, specs and availability
+
+Fri, 15 Dec 2023 12:00:50 +0530
+### [AI Everywhere: Intel plans to make AI-enabled PCs accessible to everyone with its new Core Ultra Processors](https://www.firstpost.com/tech/ai-everywhere-intel-plans-to-make-ai-enabled-pcs-accessible-for-everyone-with-its-new-core-ultra-processors-13506022.html)
+
+Article found but Couldn't summarize 
+AI Everywhere: Intel plans to make AI-enabled PCs accessible to everyone with its new Core Ultra Processors
+
 Fri, 15 Dec 2023 10:45:36 +0530
 ### [Rishi Sunak-led UK government considers limiting, banning social media access for under-16 teens](https://www.firstpost.com/tech/rishi-sunak-led-uk-government-considers-limiting-banning-social-media-access-for-under-16-teens-13505842.html)
 
