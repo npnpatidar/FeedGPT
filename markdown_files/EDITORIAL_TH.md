@@ -1,3 +1,15 @@
+Sat, 16 Dec 2023 00:20:00 +0530
+### [Debt and welfare: On the new government in Madhya Pradesh, election promises and the exchequer](https://www.thehindu.com/opinion/editorial/debt-and-welfare-on-the-new-government-in-madhya-pradesh-election-promises-and-the-exchequer/article67642191.ece)
+
+Article found but Couldn't summarize 
+As it seeks to fulfill poll promises, the Bharatiya Janata Party must keep an eye on the exchequer
+
+Sat, 16 Dec 2023 00:10:00 +0530
+### [Acceleration foretold: On volatile food prices](https://www.thehindu.com/opinion/editorial/acceleration-foretold-on-volatile-food-prices/article67642176.ece)
+
+Article found but Couldn't summarize 
+If inflation is not tamed, there is risk to consumption and growth
+
 Fri, 15 Dec 2023 00:20:00 +0530
 ### [Keeping it relevant: On the United Nations Conference of Parties meetings](https://www.thehindu.com/opinion/editorial/keeping-it-relevant-the-hindu-editorial-on-the-united-nations-conference-of-parties-meetings/article67638550.ece)
 

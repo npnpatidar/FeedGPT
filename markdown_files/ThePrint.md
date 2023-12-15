@@ -1,3 +1,78 @@
+Fri, 15 Dec 2023 19:00:23 +0000
+### [Ashok Gehlot congratulates Bhajan Lal Sharma on being sworn in as Rajasthan CM](https://theprint.in/india/ashok-gehlot-congratulates-bhajan-lal-sharma-on-being-sworn-in-as-rajasthan-cm/1888259/)
+
+Article found but Couldn't summarize 
+Jaipur, Dec 15 (PTI) Senior Congress leader Ashok Gehlot on Friday congratulated Bhajan Lal Sharma on being sworn in as the chief minister of Rajasthan. The former chief minister expressed hope that the new government would continue the Chiranjeevi health insurance scheme, old pension scheme among others which were launched during his tenure. &#8220;Hearty congratulations [&#8230;]
+
+Fri, 15 Dec 2023 19:00:13 +0000
+### [Delhi mayor’s Facebook account hacked](https://theprint.in/india/delhi-mayors-facebook-account-hacked/1888258/)
+
+Delhi Mayor Shelly Oberoi's Facebook account has been hacked, and she confirmed the issue through a post. The Mayor's team is working to restore the account. There have been no reports of unusual activity from the hacked account so far. This is the second time the Mayor's Facebook account has been hacked, with the previous incident occurring six to seven months ago. A team is currently working on recovering the account, and a complaint will be filed if it is not restored.
+
+Fri, 15 Dec 2023 19:00:03 +0000
+### [Shipping industry urges caution on use of armed guards on Red Sea vessels](https://theprint.in/world/shipping-industry-urges-caution-on-use-of-armed-guards-on-red-sea-vessels/1888257/)
+
+The article warns shipping companies about the risks of deploying private armed guards on vessels in the Red Sea and Gulf of Aden due to the growing number of attacks on ships. It advises companies to complete a thorough risk assessment when considering the use of armed guards and to exercise caution in managing their employment. The industry advisory also highlights the importance of rules of engagement that consider the risk of escalation. Additionally, it emphasizes the need for a clear distinction between suspected attackers with small arms and military forces with more advanced weaponry, and advises against engagement with military forces to avoid significant escalation. Furthermore, the advisory notes that ships switching off their AIS tracking transponders could complicate rescue efforts if they encounter trouble.
+
+Fri, 15 Dec 2023 19:00:02 +0000
+### [2 coaches of Mumbai-bound train decouple near Bengal’s Uluberia, none hurt](https://theprint.in/india/2-coaches-of-mumbai-bound-train-decouple-near-bengals-uluberia-none-hurt-2/1888256/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 15 (PTI) Two coaches of a Mumbai-bound train got decoupled near Uluberia station in West Bengal on Friday evening, officials said. There is no report of any injury as the train was not moving at a high speed , they said. The two coaches of the 12810 Howrah-Mumbai Mail got decoupled around 9.30 [&#8230;]
+
+Fri, 15 Dec 2023 18:47:02 +0000
+### [“No disrespect”: Justin Timberlake tells crowd before singing ‘Cry Me a River’](https://theprint.in/feature/no-disrespect-justin-timberlake-tells-crowd-before-singing-cry-me-a-river/1888252/)
+
+Article found but Couldn't summarize 
+Washington [US], December 16 (ANI): Singer-songwriter Justin Timberlake gave a quick disclaimer before singing his 2002 breakup ballad &#8216;Cry Me a River&#8217; during his hour-long performance to a celebrity-studded crowd at the inauguration of the Fontainebleau in Las Vegas, reported People. &#8220;No disrespect,&#8221; he told the crowd &#8212; which included his wife Jessica Biel, 41 [&#8230;]
+
+Fri, 15 Dec 2023 18:45:37 +0000
+### [UP: Six cops among seven accused declared absconders in farmer’s murder case](https://theprint.in/india/up-six-cops-among-seven-accused-declared-absconders-in-farmers-murder-case/1888251/)
+
+Article found but Couldn't summarize 
+Bareilly (UP), Dec 15 (PTI) Seven persons, including six policemen, booked in the murder case of a farmer, were declared absconders on Friday, police said. Family members of the victim, Santosh Kumar Sharma (46), have claimed that he died after allegedly being beaten up by the staff of the Sardar Nagar outpost here, they added. [&#8230;]
+
+Fri, 15 Dec 2023 18:45:26 +0000
+### [Gujarat’s development projects setting example on global podium: CM Patel](https://theprint.in/india/gujarats-development-projects-setting-example-on-global-podium-cm-patel/1888249/)
+
+GPT-3.5: The article highlights the development projects of the Gujarat government, such as Gift City and Dream City, which are setting an example on the global stage. These projects showcase Gujarat's commitment to developing futuristic cities and demonstrate how cities are conceived, perceived, and developed. The Chief Minister of Gujarat, Bhupendrabhai Patel, emphasized the government's significant investments in urban development and infrastructure over the past few decades. The article also mentions that Gujarat has pioneered innovative concepts like land pooling, transit-oriented development, heritage management, and sustainable waste management. The summit discussed during the article, "Liveable Cities of Tomorrow," provided a platform for cities to showcase their initiatives and explore collaboration opportunities.
+
+Fri, 15 Dec 2023 18:45:22 +0000
+### [Oil prices turn positive after falling more than $1](https://theprint.in/economy/oil-prices-turn-positive-after-falling-more-than-1/1888248/)
+
+Article found but Couldn't summarize 
+By Erwin Seba HOUSTON (Reuters) -Brent and U.S. crude futures turned positive during a see-saw session, in which prices fell more than $1 a barrel at one point on Friday, as traders tried to reconcile
+
+Fri, 15 Dec 2023 18:45:15 +0000
+### [NHRC notice to K’taka govt, DGP over woman being stripped, paraded naked in village](https://theprint.in/india/nhrc-notice-to-ktaka-govt-dgp-over-woman-being-stripped-paraded-naked-in-village/1888246/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) The NHRC has issued a notice to the Karnataka government and the state&#8217;s police chief after a 42-year-old woman was allegedly stripped, paraded naked and tied to an electric pole and assaulted in a village in Belagavi district, officials said on Friday. The purported act, as reported, seems to have [&#8230;]
+
+Fri, 15 Dec 2023 18:45:12 +0000
+### [Germany’s Scholz: ‘friendly Union proposal’ for Orban to leave room for Ukraine decision](https://theprint.in/world/germanys-scholz-friendly-union-proposal-for-orban-to-leave-room-for-ukraine-decision/1888245/)
+
+Article found but Couldn't summarize 
+BERLIN (Reuters) - German Chancellor Olaf Scholz on Friday called his proposal to Hungarian Prime Minister Viktor Orban to leave the room to avoid endorsing a decision to open European Union
+
+Fri, 15 Dec 2023 18:45:03 +0000
+### [Al Jazeera cameraman killed in Gaza, network confirms](https://theprint.in/world/al-jazeera-cameraman-killed-in-gaza-network-confirms/1888244/)
+
+Article found but Couldn't summarize 
+(Reuters) - A cameraman for Al Jazeera was killed on Friday in the southern Gaza Strip, a spokesperson for the Arabic broadcaster said. Cameraman Samer Abu Daqqa was injured along with a colleague
+
+Fri, 15 Dec 2023 18:45:02 +0000
+### [2 coaches of Mumbai-bound train decouple near Bengal’s Uluberia, none hurt](https://theprint.in/india/2-coaches-of-mumbai-bound-train-decouple-near-bengals-uluberia-none-hurt/1888243/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 15 (PTI) Two coaches of a Mumbai-bound train got decoupled near Uluberia station in West Bengal on Friday evening, officials said. There is no report of any injury as the train was not moving at a high speed , they said. The two coaches of the 12810 Howrah-Mumbai Mail got decoupled around 9.30 [&#8230;]
+
+Fri, 15 Dec 2023 18:30:03 +0000
+### [Two held for trying to extort Rs 15 lakh from fruit merchant](https://theprint.in/india/two-held-for-trying-to-extort-rs-15-lakh-from-fruit-merchant/1888241/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 15 (PTI) Two men were arrested for allegedly threatening to kill a fruit merchant if he did not pay them Rs 15 lakh, a Mumbai Crime Branch official said on Friday. The Mulund-based businessman received an extortion call on December 4, he said. &#8220;He approached Navghar police and lodged a complaint on December [&#8230;]
+
 Fri, 15 Dec 2023 18:17:02 +0000
 ### [US leaves open possibility of Hamas keeping power as Ramallah throws lifeline](https://theprint.in/world/us-leaves-open-possibility-of-hamas-keeping-power-as-ramallah-throws-lifeline/1888239/)
 
