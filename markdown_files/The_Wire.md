@@ -1,3 +1,15 @@
+2023-12-15T23:05:07+05:30
+### [Watch | SC Erred on Article 370, Should Review its Verdict: Justice Madan Lokur](https://thewire.in/video/watch-sc-erred-on-article-370-should-review-its-verdict-justice-madan-lokur)
+
+No Article text 
+In an interview to Karan Thapar, the former Supreme Court judge said he was 'unhappy' over court refusing to determine whether the re-organisation of Jammu and Kashmir was constitutionally permissible under Article 3.
+
+2023-12-15T22:58:40+05:30
+### [20 Tonnes of Oil-Soaked Soil, 7,000 Litres of Affected Water Removed: TN Govt on Chennai Oil Spill](https://thewire.in/environment/20-tonnes-of-oil-soaked-soil-7000-litres-of-affected-water-removed-tn-govt-on-chennai-oil-spill)
+
+No Article text 
+Mitigation efforts are still on to remove remaining oil, but they are proving inadequate.
+
 2023-12-15T22:25:44+05:30
 ### [Indian-American Lawmakers Warn of 'Significant Damage' Pannun 'Murder Plot' Could Pose to Bilateral Ties](https://thewire.in/diplomacy/pannun-murder-plot-significant-damage-likely-for-bilateral-ties-warn-indian-american-lawmakers)
 

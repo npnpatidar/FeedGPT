@@ -1,3 +1,118 @@
+Fri, 15 Dec 2023 18:17:02 +0000
+### [US leaves open possibility of Hamas keeping power as Ramallah throws lifeline](https://theprint.in/world/us-leaves-open-possibility-of-hamas-keeping-power-as-ramallah-throws-lifeline/1888239/)
+
+The US State Department refused to rule out the possibility of the Hamas terrorist organization retaining power or joining a Palestinian Authority-led governing body for the Gaza Strip, Judea and Samaria. The State Department emphasized the need for the Palestinians' voices and aspirations to be at the center of post-crisis governance in Gaza, unified with the West Bank under the P.A. Additionally, recent surveys found that a majority of Palestinians believe that Hamas is the most deserving of representing and leading the Palestinian people today. The surveys also showed support for establishing a government that includes or is led by Hamas. This information provides an insight into the political dynamics in the Gaza Strip and the sentiments of the Palestinian population toward different leadership options.
+
+Fri, 15 Dec 2023 18:15:54 +0000
+### [Haryana Police forms SIT to probe alleged attempt to set on fire Bittu Bajrangi’s brother](https://theprint.in/india/haryana-police-forms-sit-to-probe-alleged-attempt-to-set-on-fire-bittu-bajrangis-brother/1888237/)
+
+The Haryana Police has formed a Special Investigation Team (SIT) to probe the alleged attempt to set on fire the brother of Nuh violence accused Bittu Bajrangi. A group of men allegedly poured flammable liquid on Bajrangi’s brother Mahesh Panchal and set him on fire in Faridabad. Panchal sustained 54 per cent burn injuries and was shifted from Faridabad Civil Hospital to Delhi Safdarjung Hospital. Bajrangi, the president of the cow vigilante group ‘Gauraksha Bajrang Force’, expressed fear that he, too, might be attacked. The police have recorded Mahesh Panchal’s statement before the Judicial Magistrate and formed a team to investigate the case.
+
+Fri, 15 Dec 2023 18:15:42 +0000
+### [BJP wants to scare people in name of security: Akhilesh on Parliament security breach](https://theprint.in/india/bjp-wants-to-scare-people-in-name-of-security-akhilesh-on-parliament-security-breach/1888236/)
+
+Article found but Couldn't summarize 
+Kannauj (UP), Dec 15 (PTI) Samajwadi Party president Akhilesh Yadav on Friday targeted the BJP over security lapse in the Parliament House and alleged that the ruling party wanted to scare people in the name of security. &#8220;Poor security arrangements in the Prime Minister&#8217;s dream project is a matter of shame. The government is trying [&#8230;]
+
+Fri, 15 Dec 2023 18:15:30 +0000
+### [Actor Vaishnavi Dhanraj accuses family members of assault, files police complaint](https://theprint.in/feature/actor-vaishnavi-dhanraj-accuses-family-members-of-assault-files-police-complaint/1888235/)
+
+Article found but Couldn't summarize 
+Thane, Dec 15 (PTI) Television actor Vaishnavi Dhanraj on Friday accused her close family members of abusing and assaulting her. Dhanraj, who has acted in the TV show C.I.D. among others, also posted a video on social media, showing her injuries. After she lodged a complaint with Kashimira police station in Thane district, police registered [&#8230;]
+
+Fri, 15 Dec 2023 18:15:17 +0000
+### [Kalyan cops question firecracker shop owners over gas canisters](https://theprint.in/india/kalyan-cops-question-firecracker-shop-owners-over-gas-canisters/1888234/)
+
+Article found but Couldn't summarize 
+Thane, Dec 15 (PTI) Police in Kalyan in Thane district are checking with local firecracker shops amid media reports that the canister used in the Parliament security breach may have been bought from here, an official said. He, however, clarified that no one from Delhi police or other agencies probing the incident have contacted Kalyan [&#8230;]
+
+Fri, 15 Dec 2023 18:15:15 +0000
+### [Spanish warship heading to vessel to investigate possible Somali hijacking](https://theprint.in/world/spanish-warship-heading-to-vessel-to-investigate-possible-somali-hijacking/1888233/)
+
+Article found but Couldn't summarize 
+By Jonathan Saul LONDON (Reuters) -A Spanish navy ship is sailing at full speed towards a Maltese-flagged commercial vessel that may have been hijacked by pirates off Somalia, the European Union's
+
+Fri, 15 Dec 2023 18:15:04 +0000
+### [Warship rushes in to investigate suspected pirate attack off Somalia](https://theprint.in/world/warship-rushes-in-to-investigate-suspected-pirate-attack-off-somalia/1888232/)
+
+The Spanish navy ship is heading towards a Maltese-flagged commercial vessel that may have been hijacked by pirates off Somalia. If confirmed, it would be the first successful hijacking involving Somali pirates since 2017. EUNAVFOR, the European Union’s Somali counter piracy force, is coordinating with the broader international naval Combined Maritime Force and has dispatched the Spanish warship Victoria to gather more information and evaluate further actions. The vessel in question, Ruen, was last seen sailing towards Somalia, according to ship tracking data on LSEG.
+
+Fri, 15 Dec 2023 18:15:03 +0000
+### [Telangana CM asks officials to take up police recruitment ‘immediately’](https://theprint.in/india/telangana-cm-asks-officials-to-take-up-police-recruitment-immediately/1888231/)
+
+Article found but Couldn't summarize 
+Hyderabad, Dec 15 (PTI) Telangana Chief Minister A Revanth Reddy on Friday directed officials to take up the police recruitment process immediately in a transparent manner and without any irregularities. Reddy, who held a meeting with senior officials, also asked them to submit a report on the total recruitment done since the formation of Telangana [&#8230;]
+
+Fri, 15 Dec 2023 18:02:33 +0000
+### [China dismisses US support for Philippines amid tensions in West Philippine Sea](https://theprint.in/world/china-dismisses-us-support-for-philippines-amid-tensions-in-west-philippine-sea/1888228/)
+
+The article reports on the recent tensions between China and the US regarding the West Philippine Sea (WPS) aggression. China rejected a US statement backing the Philippines in response to China's use of water cannons against Philippine vessels delivering aid near Bajo de Masinloc. The US reaffirmed its support for the Philippines and the South China Sea Mutual Defence Treaty, while China accused the US of endorsing Philippine provocation and interference in WPS disputes. The article also includes statements from Chinese Foreign Ministry Spokesperson Mao Ning, emphasizing China's sovereignty and maritime rights.
+
+Fri, 15 Dec 2023 18:02:23 +0000
+### [Timothee Chalamet is clueless about his scrapped cameo in ‘Barbie’](https://theprint.in/feature/timothee-chalamet-is-clueless-about-his-scrapped-cameo-in-barbie/1888226/)
+
+American-French actor Timothee Chalamet discussed his ‘Barbie’ cameo that never materialized during an appearance on ‘The Tonight Show’. He also commented on his latest film, where he plays the legendary chocolatier. There was an initial idea for him and Saoirse Ronan to do a cameo in a movie starring Ryan Gosling and Margot Robbie, but it didn't work out. Chalamet expressed gratitude for the opportunity to visit the Barbie set after finishing filming on Wonka. Director Greta Gerwig expressed disappointment that Ronan and Chalamet couldn't be cast in the movie, as she wanted them to be a part of it. This summary is based on an article from ANI news service.
+
+Fri, 15 Dec 2023 18:02:13 +0000
+### [Israeli opposition leader rules out handing over Gaza to Ramallah after war](https://theprint.in/world/israeli-opposition-leader-rules-out-handing-over-gaza-to-ramallah-after-war/1888224/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], December 15 (ANI): In his most outspoken remarks on the issue to date, Israeli opposition leader Yair Lapid this week expressed his objections to giving the Palestinian Authority control over the Gaza Strip following the conclusion of Israel&#8217;s military operation against Hamas. &#8220;No one on earth thinks that Gaza should be handed [&#8230;]
+
+Fri, 15 Dec 2023 18:02:02 +0000
+### [Union Cabinet approves Memorandum of Cooperation between India, Saudi Arabia on cooperation in digitization, electronic manufacturing](https://theprint.in/world/union-cabinet-approves-memorandum-of-cooperation-between-india-saudi-arabia-on-cooperation-in-digitization-electronic-manufacturing/1888222/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 15 (ANI): The Union Cabinet, chaired by Prime Minister Narendra Modi, has approved a Memorandum of Cooperation (MoC) between India and Saudi Arabia in the field of digitization and electronic manufacturing. The Cabinet, chaired by Prime Minister Narendra Modi, was apprised of a MoC signed on August 18, 2023, between the [&#8230;]
+
+Fri, 15 Dec 2023 18:00:17 +0000
+### [Factbox-European countries tighten borders](https://theprint.in/world/factbox-european-countries-tighten-borders-3/1888220/)
+
+Article found but Couldn't summarize 
+(Reuters) -The European Union is dealing with an increase in legal and illegal arrivals by migrants, prompting some member states to temporarily re-introduce border controls within what is normally a
+
+Fri, 15 Dec 2023 18:00:15 +0000
+### [Mega parent-teacher meeting in Punjab govt schools on Saturday](https://theprint.in/india/mega-parent-teacher-meeting-in-punjab-govt-schools-on-saturday/1888219/)
+
+Article found but Couldn't summarize 
+Chandigarh, Dec 15 (PTI) Punjab Chief Minister Bhagwant Mann Friday called for maximum participation in the mega parent-teacher meeting, in which the education department is expecting 20 lakh parents to take part. The school education department will hold the parent-teacher meeting (PTM) at 19,109 government primary schools and upper primary schools from 10 am to [&#8230;]
+
+Fri, 15 Dec 2023 18:00:03 +0000
+### [Deletes](https://theprint.in/india/deletes/1888217/)
+
+Article found but Couldn't summarize 
+(.) By Rupam Jain NEW DELHI (Reuters) -India has requested the United States to share intelligence on Sikh separatists living there amid investigations into an accusation that an Indian official was
+
+Fri, 15 Dec 2023 18:00:03 +0000
+### [Biden Admin briefs five Indian-American lawmakers on Nikhil Gupta case](https://theprint.in/world/biden-admin-briefs-five-indian-american-lawmakers-on-nikhil-gupta-case/1888216/)
+
+Article found but Couldn't summarize 
+Washington, Dec 15 (PTI) The Biden Administration officials on Friday briefed the five Indian-American lawmakers on the indictment of Nikhil Gupta, an Indian, who has been accused of plotting an assassination attempt on a Sikh separatist on American soil. Congress members Ami Bera, Pramila Jayapal, Ro Khanna, Raja Krishnamoorthi and Shri Thanedar released a joint [&#8230;]
+
+Fri, 15 Dec 2023 17:48:24 +0000
+### [Supreme Court to hear petition on Indian Citizen’s detention in Czech Republic on Jan 4](https://theprint.in/world/supreme-court-to-hear-petition-on-indian-citizens-detention-in-czech-republic-on-jan-4/1888208/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 15 (ANI): Rohini Moosa, representing Nikhil Gupta, currently detained in the Czech Republic and facing extradition to US over allegations related to the alleged conspiracy to murder Gurpatwant Singh Pannun,said that a plea has been filed with the Supreme Court of India seeking assistance and the matter has been listed for [&#8230;]
+
+Fri, 15 Dec 2023 17:48:14 +0000
+### [Suresh Raina wishes “happy married life” to Randeep Hooda, Lin Laishram](https://theprint.in/feature/suresh-raina-wishes-happy-married-life-to-randeep-hooda-lin-laishram/1888206/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 15 (ANI): Former Indian batter Suresh Raina has congratulated the newlywed couple Randeep Hooda and Lin Laishram. He took to X and wrote, &#8220;Congratulations @RandeepHooda &#38; Lin. Wishing you both a very happy married life!&#8221; https://twitter.com/ImRaina/status/1735697221298118825 Randeep and Lin exchanged vows on November 29 in Manipur. Dr Nishikant Dubey, Member of [&#8230;]
+
+Fri, 15 Dec 2023 17:48:05 +0000
+### [Israeli forces capture Shejaiya Command and Control Center](https://theprint.in/world/israeli-forces-capture-shejaiya-command-and-control-center/1888204/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], December 15 (ANI/TPS): Israeli soldiers captured the command and control center of Hamas&#8217;s Shejaiya Battalion in northern Gaza, the Israel Defense Forces said on Friday morning. The complex was struck by aircraft, tanks and engineering forces and a tunnel shaft was destroyed. Over the last day, troops also raided Hamas terror infrastructure [&#8230;]
+
+Fri, 15 Dec 2023 17:47:55 +0000
+### [UAE Foreign Minister Abdullah bin Zayed, Finnish FM discuss regional developments over phone](https://theprint.in/world/uae-foreign-minister-abdullah-bin-zayed-finnish-fm-discuss-regional-developments-over-phone/1888202/)
+
+Article found but Couldn't summarize 
+Abu Dhabi [UAE], December 15 (ANI/WAM): Sheikh Abdullah bin Zayed Al Nahyan, UAE&#8217;s Minister of Foreign Affairs, discussed during a telephone conversation with Elina Valtonen, Minister of Foreign Affairs of Finland, the latest developments in the region, and their fallout at the humanitarian and security levels. During the call, the two top diplomats explored ways [&#8230;]
+
 Fri, 15 Dec 2023 17:02:13 +0000
 ### [India’s November exports saw marginal 1.2 pc growth at USD 62.6 billion](https://theprint.in/economy/indias-november-exports-saw-marginal-1-2-pc-growth-at-usd-62-6-billion/1888132/)
 
