@@ -1,3 +1,116 @@
+Fri, 15 Dec 2023 06:17:40 +0000
+### [Prodigy Finance Appoints Sonal Kapoor as Global Chief Commercial Officer](https://theprint.in/ani-press-releases/prodigy-finance-appoints-sonal-kapoor-as-global-chief-commercial-officer/1887075/)
+
+Article found but Couldn't summarize 
+BusinessWire India London [UK]/ New Delhi [India], December 15: Prodigy Finance, a social impact driven FinTech and a leading international student loan lender, is delighted to announce the appointment of Sonal Kapoor as its new Global Chief Commercial Officer. In her role, Sonal will spearhead the global commercial strategy and drive growth initiatives for the [&#8230;]
+
+Fri, 15 Dec 2023 06:17:31 +0000
+### [Iran waives Visa requirements for Indian citizens, 32 other nations](https://theprint.in/world/iran-waives-visa-requirements-for-indian-citizens-32-other-nations/1887073/)
+
+The Iranian Cabinet has decided to unilaterally cancel visa requirements for visitors from India as well as 32 other countries. This decision is aimed at boosting tourism arrivals and attracting more visitors from around the world. The countries approved for Iran’s new visa-waiver program include India, Russia, United Arab Emirates, Bahrain, Saudi Arabia, Qatar, and others. The number of foreign arrivals in Iran reached 4.4 million during the first eight months of the current Iranian year, representing an increase of 48.5% compared to the same period last year.
+
+Fri, 15 Dec 2023 06:17:21 +0000
+### [Vir Das excited to perform at iconic Apollo Theatre  in London](https://theprint.in/feature/vir-das-excited-to-perform-at-iconic-apollo-theatre-in-london/1887071/)
+
+Article found but Couldn't summarize 
+London [UK], December 15 (ANI): Comedian-actor Vir Das is all set to perform at the iconic Apollo Theatre in London on 16th December. The Apollo Theatre is a venue steeped in musical history having witnessed performances from iconic acts like The Beatles, The Rolling Stones, David Bowie, Iron Maiden, and contemporary music royalties such as [&#8230;]
+
+Fri, 15 Dec 2023 06:17:11 +0000
+### [“He is in stable condition…”: Shreyas Talpade’s wife shares actor’s health update a day after he suffered heart attack](https://theprint.in/feature/he-is-in-stable-condition-shreyas-talpades-wife-shares-actors-health-update-a-day-after-he-suffered-heart-attack/1887069/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 15 (ANI): A day after Shreyas Talpade suffered a heart attack, his wife Deepti issued a statement sharing the actor&#8217;s health update. Deepti informed that Shreyas is &#8220;in stable condition&#8221; and will be discharged soon. &#8220;I want to express my heartfelt gratitude for the overwhelming concern and well-wishes following the recent [&#8230;]
+
+Fri, 15 Dec 2023 06:17:02 +0000
+### [LTIMindtree Opens New Delivery Center in Mexico City](https://theprint.in/ani-press-releases/ltimindtree-opens-new-delivery-center-in-mexico-city/1887067/)
+
+LTIMindtree, a global technology consulting and digital solutions company, has inaugurated a new Delivery Center in Mexico City to expand its presence in Latin America. The center, located in the heart of Mexico City’s financial district, will enable workforce transformation and localization for LTIMindtree in the Americas, providing world-class services in the SAP and Digital Engineering Service Lines. The inauguration took place on December 14, 2023, attended by distinguished guests including His Excellency, Pankaj Sharma, Ambassador of India to Mexico, and Fadlala Akabani, Minister of Economy of the Secretariat of Economic Development of Mexico. LTIMindtree's commitment to nurturing a high-quality workforce in the region and leveraging its global domain experience is highlighted in its aim to bridge the gap between nearshore and local customers, delivering programs within the same time zone. The company's clients in Mexico span sectors such as Telecom, Media & Entertainment, Manufacturing, Hi-Tech & Services, Banking & Financial Services, and RCG.
+
+Fri, 15 Dec 2023 06:15:35 +0000
+### [UP: Missing person’s body found in drain in Saharanpur](https://theprint.in/india/up-missing-persons-body-found-in-drain-in-saharanpur/1887066/)
+
+Article found but Couldn't summarize 
+Saharanpur (UP), Dec 15 (PTI) The body of a 32-year-old man who went missing four days ago was found in a drain here, a police official said on Friday. Police found the body on Thursday evening and said the cause of death will be clear after post-mortem. Superintendent of Police (rural) Sagar Jain told PTI [&#8230;]
+
+Fri, 15 Dec 2023 06:15:25 +0000
+### [Mandaviya inaugurates CGHS Wellness Centres in NITRD, Delhi](https://theprint.in/india/mandaviya-inaugurates-cghs-wellness-centres-in-nitrd-delhi/1887065/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) Union Health Minister Mansukh Mandaviya on Friday said the number of CGHS Wellness Centres in the country will be increased from 80 at present to 100 in the coming days. &#8220;Earlier, private hospitals would give the last priority to CGHS beneficiaries due to various reasons, including delayed payment from the [&#8230;]
+
+Fri, 15 Dec 2023 06:15:14 +0000
+### [Our today’s meeting with Amit Shah postponed: Ajit Pawar](https://theprint.in/india/our-todays-meeting-with-amit-shah-postponed-ajit-pawar-2/1887063/)
+
+Article found but Couldn't summarize 
+Nagpur, Dec 15 (PTI) Maharashtra Deputy Chief Minister Ajit Pawar on Friday said he along with Chief Minister Eknath Shinde and deputy CM Devendra Fadnavis were scheduled to meet Union Home Minister Amit Shah in the evening but the meeting got postponed. Pawar was speaking with journalists on the Vidhan Bhavan premises in Nagpur, where [&#8230;]
+
+Fri, 15 Dec 2023 06:15:09 +0000
+### [Global coal use at all-time high in 2023 – IEA](https://theprint.in/environment/global-coal-use-at-all-time-high-in-2023-iea/1887062/)
+
+Article found but Couldn't summarize 
+PARIS (Reuters) - Global coal use is expected to reach a record high in 2023 as demand in emerging and developing economies remains strong, the International Energy Agency (IEA) said in a report on
+
+Fri, 15 Dec 2023 06:15:03 +0000
+### [Lok Sabha adjourned till 2 pm](https://theprint.in/india/lok-sabha-adjourned-till-2-pm-3/1887061/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) Lok Sabha proceedings were on Friday adjourned in less than a minute of the House meeting for the day as opposition MPs raised slogans demanding Union Home Minister Amit Shah&#8217;s statement on the Parliament security breach. As soon as the House met at 11 am, opposition MPs held up placards [&#8230;]
+
+Fri, 15 Dec 2023 06:01:07 +0000
+### [Indian-American Vanita Gupta to step down as Associate Attorney General of US](https://theprint.in/world/indian-american-vanita-gupta-to-step-down-as-associate-attorney-general-of-us/1887051/)
+
+Article found but Couldn't summarize 
+Washington, Dec 15 (PTI) Vanita Gupta, the highest-ranking Indian-American in the Department of Justice, will step down as the Associate Attorney General of the US in February 2024. Gupta, the first woman of colour to serve as the Department of Justice&#8217;s third-highest ranking official, led its &#8220;Reproductive Rights Taskforce to defend the reproductive freedoms that [&#8230;]
+
+Fri, 15 Dec 2023 06:00:57 +0000
+### [Bus owners’ association urge govt to extend 15-year old vehicle phaseout deadline by 2 yrs](https://theprint.in/india/bus-owners-association-urge-govt-to-extend-15-year-old-vehicle-phaseout-deadline-by-2-yrs/1887050/)
+
+The private bus owners associations in West Bengal have requested the state Transport department to extend the 15-year deadline for stage carriages by two years due to the Covid-19 pandemic and consequent lockdown. They argue that buses and minibuses could not run for about three years, leading to financial constraints. The Transport minister mentioned that the government is aware of the situation and is considering steps that balance the crisis faced by bus operators and environmental issues. Presently, 32,000 buses ply in the city and Howrah.
+
+Fri, 15 Dec 2023 06:00:47 +0000
+### [Investors richer by Rs 2 lakh cr as Sensex scales 71,000-peak](https://theprint.in/economy/investors-richer-by-rs-2-lakh-cr-as-sensex-scales-71000-peak/1887049/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) Equity investors became richer by Rs 2 lakh crore in morning trade on Friday as a rally in stocks propelled benchmark BSE Sensex to scale the 71,000 mark for the first time. Optimistic trends in global markets after the US Federal Reserve kept its key interest rate unchanged and signalled [&#8230;]
+
+Fri, 15 Dec 2023 06:00:38 +0000
+### [Police headquarters comes under attack in Pakistan; 2 policemen killed](https://theprint.in/world/police-headquarters-comes-under-attack-in-pakistan-2-policemen-killed/1887048/)
+
+On Dec 15, at least two policemen were killed and others injured in an attack on a regional police headquarters in northwest Pakistan. The attack took place in the Tank district, Khyber Pakhtunkhwa province. A suicide bomber detonated, but the attack was stopped. The newly formed militant group Ansarul Jihad claimed responsibility for the attack. This incident followed a recent attack where militants from the Tehreek-i-Jihad Pakistan (TJP) stormed a military compound, resulting in casualties and damage. This article also mentions other significant militant attacks in Pakistan, including an attack on the Pakistan Air Force’s Mianwali Training Air Base in 2018 and attacks on the Badaber air base in 2015 and PNS Mehran in 2011.
+
+Fri, 15 Dec 2023 06:00:26 +0000
+### [Our today’s meeting with Amit Shah postponed: Ajit Pawar](https://theprint.in/india/our-todays-meeting-with-amit-shah-postponed-ajit-pawar/1887046/)
+
+Article found but Couldn't summarize 
+Nagpur, Dec 15 (PTI) Maharashtra Deputy Chief Minister Ajit Pawar on Friday said he along with Chief Minister Eknath Shinde and deputy CM Devendra Fadnavis were scheduled to meet Union Home Minister Amit Shah in the evening but the meeting got postponed. Pawar was speaking with journalists on the Vidhan Bhavan premises in Nagpur, where [&#8230;]
+
+Fri, 15 Dec 2023 06:00:19 +0000
+### [Gold poised for weekly rise on Fed’s dovish tilt](https://theprint.in/economy/gold-poised-for-weekly-rise-on-feds-dovish-tilt/1887045/)
+
+Gold prices are set for a weekly gain due to prospects of the U.S. Federal Reserve lowering borrowing costs next year, which has weakened the dollar and Treasury yields, increasing demand for gold as a safe-haven asset. Spot gold is at $2,035.93 per ounce, with U.S. gold futures at $2,050.30. The possibility of rate cuts is bullish for gold, as lower yields make gold more attractive. This is particularly relevant given the Fed's recent stance on interest rates and the potential impact on gold and other metals.
+
+Fri, 15 Dec 2023 06:00:15 +0000
+### [RS adjourned till 2 pm amid opposition protest over Parliament security breach](https://theprint.in/india/rs-adjourned-till-2-pm-amid-opposition-protest-over-parliament-security-breach/1887043/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) Rajya Sabha proceedings were adjourned till 2 pm on Friday amid protest by the Opposition parties after Chairman Jagdeep Dhankhar rejected their notices to suspended the scheduled business of the day to discuss the security breach in Parliament. Soon after the listed papers were laid on the table, the Chairman [&#8230;]
+
+Fri, 15 Dec 2023 06:00:05 +0000
+### [Blizzards sweep across Russia bringing massive snow falls](https://theprint.in/world/blizzards-sweep-across-russia-bringing-massive-snow-falls/1887042/)
+
+The recent snowfall in Moscow has resulted in chaotic conditions, with more than 20 centimeters of snow and strong winds causing major disruptions. Meteorologists believe it could be one of the strongest snowstorms to hit Moscow in 60 years. The Gismeteo weather website reported that the total December snowfall in Moscow could reach 50 cm, the highest on record for that month. Additionally, schools in some regions of European Russia were closed, and a significant 10-kilometer traffic jam formed on the M4 highway to the south, trapping motorists in freezing temperatures. The cost of digging out snow-covered cars in Moscow rose to around 5,000 roubles ($55).
+
+Fri, 15 Dec 2023 06:00:03 +0000
+### [Lok Sabha adjourned till 2 pm](https://theprint.in/india/lok-sabha-adjourned-till-2-pm-2/1887041/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) Lok Sabha proceedings were on Friday adjourned in less than a minute of the House meeting for the day as opposition MPs raised slogans demanding Union Home Minister Amit Shah&#8217;s statement on the Parliament security breach. As soon as the House met at 11 am, opposition MPs held up placards [&#8230;]
+
+Fri, 15 Dec 2023 05:47:32 +0000
+### [BioCheetah announces exclusive licensing and commercialisation agreement with Nippon Kayaku for VECanDx in Japan](https://theprint.in/ani-press-releases/biocheetah-announces-exclusive-licensing-and-commercialisation-agreement-with-nippon-kayaku-for-vecandx-in-japan/1887037/)
+
+BioCheetah and Nippon Kayaku have partnered to develop and market a non-invasive urinary biomarkers-based bladder cancer diagnostic assay kit, VECanDx™ ELISA, in Japan. This proprietary urine test measures the protein expression levels of five novel biomarkers to detect the presence or absence of bladder cancer. BioCheetah is responsible for completing clinical trials, while Nippon Kayaku will handle clinical trials, regulatory application, distribution, and sales in Japan. The goal is to provide a specific and sensitive diagnostic test for bladder cancer, addressing the limitations of the current gold standard, cystoscopy. For more information, you can visit BioCheetah's website at www.biocheetah.com.
+
 Fri, 15 Dec 2023 05:02:02 +0000
 ### [Hong Kong police puts bounties of 5 activists for alleged security crimes](https://theprint.in/world/hong-kong-police-puts-bounties-of-5-activists-for-alleged-security-crimes/1886965/)
 

@@ -1,3 +1,9 @@
+Fri, 15 Dec 2023 10:45:36 +0530
+### [Rishi Sunak-led UK government considers limiting, banning social media access for under-16 teens](https://www.firstpost.com/tech/rishi-sunak-led-uk-government-considers-limiting-banning-social-media-access-for-under-16-teens-13505842.html)
+
+Article found but Couldn't summarize 
+Rishi Sunak-led UK government considers limiting, banning social media access for under-16 teens
+
 Fri, 15 Dec 2023 10:20:23 +0530
 ### [Banking on it: Elon Musk’s X receives major money transfer license, to start payment services soon](https://www.firstpost.com/tech/banking-on-it-elon-musks-x-receives-major-money-transfer-license-to-start-payment-services-soon-13505752.html)
 

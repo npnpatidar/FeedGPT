@@ -1,3 +1,15 @@
+2023-12-15T11:35:27+05:30
+### [An Ode to the ‘Ad-Hoc’ Teachers of Ramjas English Department](https://thewire.in/education/ode-ad-hoc-teachers-ramjas-english-department)
+
+No Article text 
+These professors had to finish their doctoral research, write papers, present in conferences, and yet miraculously also had time for that extra reading that a student requested, or for lunch at D-School Canteen to give a serious answer to a question.
+
+2023-12-15T11:07:08+05:30
+### ['Over 74% Indians Unable to Afford Healthy Diet': UN Report](https://thewire.in/rights/over-74-indians-unable-to-afford-healthy-diet-un-report)
+
+No Article text 
+The report also estimated India’s proportion of undernourished population at 16.6% during 2020-2022.
+
 2023-12-15T09:21:56+05:30
 ### [Will Disclose Evidence on Indian Govt's Alleged Involvement in Assassination Like the US Did: Trudeau](https://thewire.in/diplomacy/will-disclose-evidence-on-indian-govts-alleged-involvement-in-assassination-like-the-us-did-trudeau)
 
