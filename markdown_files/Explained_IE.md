@@ -1,3 +1,17 @@
+Fri, 15 Dec 2023 02:30:13 +0000
+### [What Vladimir Putin wants from the Ukraine War](https://indianexpress.com/article/explained/explained-global/vladimir-putin-ukraine-war-conference-9068720/)
+
+Article found but Couldn't summarize
+
+Fri, 15 Dec 2023 01:53:48 +0000
+### [At the heart of current market rally, push from retail investors](https://indianexpress.com/article/explained/explained-economics/at-the-heart-of-current-market-rally-push-from-retail-investors-9068824/)
+
+The BSE Sensex rallied 1.34%, or 930 points, and closed above 70,000 on Thursday, following the United States Federal Reserve's decision to leave interest rates unchanged and hint at cuts in 2024. This surge has been attributed to sustained investment from retail investors, with the number of active demat accounts on the CDSL platform crossing 10 crore last month. The higher-than-expected GDP growth of 7.6% in the quarter ended September 2023 has also raised sentiment among investors, who are factoring in expectations of an early rate cut by the Fed and a fall in the yield on 10-year US Treasury bonds.
+
+The prospect of political stability after the 2024 Lok Sabha election is seen as a positive factor, encouraging market analysts to anticipate low election-linked market volatility. The surge in demat accounts indicates the entry of many new investors into the markets, with a notable increase in retail AUM and the number of retail portfolios. Additionally, FPIs have made a major comeback in December, investing more than Rs 39,260 crore so far this month.
+
+Moreover, caution is advised as new investors tend to chase low-grade small caps, and retail investors have a tendency to buy overvalued small and mid-cap stocks. Experienced investors take this as a sign of caution, and it's important to be mindful of the potential risks associated with market corrections.
+
 Fri, 15 Dec 2023 01:35:38 +0000
 ### [How the world reacted to Article 370 abrogation, how SC verdict helps India](https://indianexpress.com/article/explained/how-the-world-reacted-to-article-370-abrogation-how-sc-verdict-helps-india-9068822/)
 

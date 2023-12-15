@@ -1,3 +1,94 @@
+Fri, 15 Dec 2023 03:15:24 +0000
+### [China accuses Taiwan of unfair trade barriers month before election](https://theprint.in/world/china-accuses-taiwan-of-unfair-trade-barriers-month-before-election/1886873/)
+
+Article found but Couldn't summarize 
+BEIJING (Reuters) - China on Friday said that after an investigation, it had determined Taiwan was erecting unfair trade barriers - an accusation the government in Taipei calls an attempt to interfere
+
+Fri, 15 Dec 2023 03:15:14 +0000
+### [Rebel fire and China’s ire: Inside Myanmar’s anti-junta offensive](https://theprint.in/world/rebel-fire-and-chinas-ire-inside-myanmars-anti-junta-offensive/1886871/)
+
+Article found but Couldn't summarize 
+(Reuters) - Generals from Myanmar's junta held peace talks in June near the border with China with representatives of three powerful ethnic armies. They sat across a wide table covered with blue cloth
+
+Fri, 15 Dec 2023 03:15:04 +0000
+### [China crackdown on Hong Kong under spotlight as leading democrat goes on trial](https://theprint.in/world/china-crackdown-on-hong-kong-under-spotlight-as-leading-democrat-goes-on-trial/1886869/)
+
+In a long-awaited national security trial in Hong Kong, leading China critic and media tycoon Jimmy Lai faces charges of colluding with foreign forces, including the United States. Lai, the founder of the now-shuttered pro-democracy newspaper Apple Daily, has faced a salvo of litigation since a wave of pro-democracy demonstrations in 2019. He is accused of requesting foreign sanctions against Hong Kong and Chinese officials, among other charges. The trial is viewed as a test for the city’s judicial independence and freedoms under the sweeping national security law imposed by China in 2020. The trial brings attention to the challenges faced by Hong Kong in reconciling its global financial center status with China's growing national security prerogative under Xi Jinping. The U.S. government has repeatedly called for Lai’s release, saying his case is politically motivated. Lai is already serving a 5-year, 9-month jail term for a fraud conviction over a lease dispute for his newspaper. The trial could last more than 80 days, and there are concerns about fairness, with the appointment of national security judges and restrictions on defense lawyers.
+
+Fri, 15 Dec 2023 03:15:02 +0000
+### [Court denies bail to 2 ABVP activists who forcibly took HC judge’s car to rush man to hospital](https://theprint.in/india/court-denies-bail-to-2-abvp-activists-who-forcibly-took-hc-judges-car-to-rush-man-to-hospital-3/1886868/)
+
+The court in Madhya Pradesh has denied bail to two ABVP activists who were arrested for forcibly taking a high court judge's car parked outside a railway station to rush an ailing man, who was the vice-chancellor of a private university, to a hospital. The activists were charged under an anti-dacoity law for snatching the car's key from its driver at Gwalior railway station. The court observed that one should seek help with politeness and not force. The activists are now in judicial custody for 14 days. The deceased passenger, Ranjeet Singh, the vice-chancellor of a private university, died of cardiac failure.
+
+Fri, 15 Dec 2023 03:12:51 +0000
+### [Food inflation getting more persistent & widespread and, unfortunately, showing no signs of easing](https://theprint.in/macrosutra/food-inflation-getting-more-persistent-widespread-and-unfortunately-showing-no-signs-of-easing/1885860/)
+
+The article provides a summary of the retail inflation data for November 2023, measured by the Consumer Price Index (CPI). The key points include:
+
+1. Retail inflation saw a spike to 5.55 percent in November from a four-month low of 4.87 percent in October. This was driven by a combination of an unfavorable base effect and elevated food prices. Rural inflation continued to surpass urban inflation.
+
+2. Food inflation rose to 8.7 percent in November, driven by double-digit inflation in cereals, pulses, vegetables, fruits, and spices.
+
+3. Core inflation, excluding food and fuel, has trended closer to the medium target of 4 percent, while non-core inflation rose to 7.26 percent in November.
+
+4. The article also discusses the sequential rise in prices and the inflation scenario across various states. The Price Monitoring Division monitors retail and wholesale prices of essential commodities to assess food inflation trends.
+
+5. The Reserve Bank of India (RBI) is expected to maintain vigilance on inflation, with uncertainties in food prices and global crude oil prices posing a risk to the inflation outlook.
+
+The article reveals insights into inflation trends, particularly regarding food prices and its impact on overall inflation. It also provides an overview of the RBI's stance and its projections for inflation.
+
+Fri, 15 Dec 2023 03:02:01 +0000
+### [Indian envoy to US discusses technology partnership with IBM CEO](https://theprint.in/world/indian-envoy-to-us-discusses-technology-partnership-with-ibm-ceo/1886863/)
+
+Indian Ambassador to the US, Taranjit Singh Sandhu, met with IBM CEO Arvind Krishna to discuss the India-US technology partnership, focusing on new and emerging technologies such as Artificial Intelligence and Quantum. Sandhu also expressed delight in the launch of the first made-in-India bicycles in a Walmart store in the US, highlighting the growing supplier relationships between Indian manufacturers and Walmart. This aims to accelerate Walmart's goal of tripling exports of goods from India to USD 10 billion annually by 2027.
+
+Fri, 15 Dec 2023 03:00:57 +0000
+### [Asian shares hit four-month peak as Fed pivot rally rolls on](https://theprint.in/economy/asian-shares-hit-four-month-peak-as-fed-pivot-rally-rolls-on/1886861/)
+
+The article discusses the recent developments in the Asian market, specifically the rise in shares and the impact of central bank decisions. It mentions the rally in Asian shares, the continued pushback on rate cuts from central banks in Europe, and highlights the change in bond yields. Additionally, it covers the rebound in U.S. retail sales, the rise in oil prices, and the stability of spot gold prices.
+
+If you would like to read the full article or have specific questions about certain sections, feel free to let me know!
+
+Fri, 15 Dec 2023 03:00:42 +0000
+### [Rupee to see dollar selloff undermined by ‘customary’ sell orders](https://theprint.in/economy/rupee-to-see-dollar-selloff-undermined-by-customary-sell-orders/1886859/)
+
+Article found but Couldn't summarize 
+By Nimesh Vora MUMBAI (Reuters) - The Indian rupee is expected to be little changed on Friday amid more losses for the U.S. dollar and likely orders to sell the local currency. Non-deliverable
+
+Fri, 15 Dec 2023 03:00:28 +0000
+### [Guyana, Venezuela agree to not use force or escalate tensions in Esequibo dispute](https://theprint.in/world/guyana-venezuela-agree-to-not-use-force-or-escalate-tensions-in-esequibo-dispute/1886857/)
+
+The article reports on the recent agreement between Guyana and Venezuela to avoid the use of force and to not escalate tensions in their ongoing dispute over the oil-rich Esequibo area. The two countries have committed to resolving their disputes in accordance with international law and have agreed to continue their dialogue in Brazil within the next three months. Guyana has emphasized its sovereignty over its territorial space and its right to facilitate development and investment within its borders. The article also mentions Guyana's booming economy due to oil production and its commitment to developing resources responsibly. It also addresses claims made by Venezuela's President Maduro regarding oil exploration and the involvement of companies like Exxon in undermining a referendum.
+
+Fri, 15 Dec 2023 03:00:18 +0000
+### [Yazidis, led by Nobel winner, sue French cement maker over ISIS support](https://theprint.in/world/yazidis-led-by-nobel-winner-sue-french-cement-maker-over-isis-support/1886855/)
+
+The article discusses a lawsuit filed by hundreds of Yazidi-Americans against the French cement maker Lafarge, accusing the company of conspiring to provide material support to the Islamic State of Iraq and Syria (ISIS). The Yazidis, represented by Nobel Peace Prize winner Nadia Murad, are survivors of ISIS violence, and the lawsuit seeks compensation for their suffering. The article also highlights the shocking allegations of a leading corporation working with ISIS and the tragic experiences of the Yazidis at the hands of ISIS. Additionally, it mentions that families of a U.S. aid worker and American soldiers, killed or injured by ISIS and the militant group Al-Nusra Front, have also filed a similar lawsuit against Lafarge.
+
+For further details, you may refer to the Reuters news service.
+
+Fri, 15 Dec 2023 03:00:02 +0000
+### [India’s Nifty set to hit new high as Fed-driven global rally extends](https://theprint.in/india/indias-nifty-set-to-hit-new-high-as-fed-driven-global-rally-extends/1886853/)
+
+Article found but Couldn't summarize 
+BENGALURU (Reuters) - India's benchmark Nifty 50 is set to open at a new all-time high on Friday, tracking the global stocks rally on elevated bets of a U.S. rate cut by March 2024 after the Federal
+
+Fri, 15 Dec 2023 02:56:44 +0000
+### [‘Strong message must be sent out’ — Bombay HC order upholds Hitachi employee’s sacking over FB posts](https://theprint.in/judiciary/strong-message-must-be-sent-out-bombay-hc-order-upholds-hitachi-employees-sacking-over-fb-posts/1885862/)
+
+Article found but Couldn't summarize 
+Overturning a Pune court’s findings, Justice Jadhav concluded that enquiry against employee was 'absolutely fair &#038; proper', added that freedom of speech can't go beyond reasonableness.
+
+Fri, 15 Dec 2023 02:45:05 +0000
+### [EU grants Ukraine membership talks but can’t agree financial aid](https://theprint.in/world/eu-grants-ukraine-membership-talks-but-cant-agree-financial-aid/1886849/)
+
+The article discusses the European Union's decision to open membership talks with Ukraine and its struggles to agree on a 50 billion euro financial aid package for Kyiv due to opposition from Hungary. Despite the differences, the leaders agreed to start accession negotiations with Ukraine and other former Soviet republics, indicating a step closer to Ukraine's long-term goal of anchoring itself in the West. The membership talks will likely take years and will not start immediately, as the EU will need to agree to a negotiating framework for the talks, involving another unanimous decision.
+
+Fri, 15 Dec 2023 02:30:08 +0000
+### [JNU comrades, Kamal Nath’s cold feet, Gehlot’s insecurities—tales about Congress meltdown](https://theprint.in/opinion/politically-correct/jnu-comrades-kamal-naths-cold-feet-gehlots-insecurities-tales-about-congress-meltdown/1886547/)
+
+The article discusses the internal dynamics and power struggles within the Congress party, particularly in the states of Madhya Pradesh, Rajasthan, and Chhattisgarh during the last assembly elections. It highlights how certain individuals with influence within the party, such as poll strategist Sunil Kanugolu and Priyanka Vadra's PA Sandeep Singh, played significant roles in the campaign strategies, candidate selection, and backroom operations. The article also sheds light on how their actions and decisions impacted the party's electoral prospects in these states. Furthermore, it delves into the implications of these internal power plays on the party's future direction and messaging, especially in comparison to the BJP's political strategies.
+
 Fri, 15 Dec 2023 02:16:33 +0000
 ### [Tennis-Andreescu targets Paris Olympics but rules out Australian Open](https://theprint.in/sport/tennis-andreescu-targets-paris-olympics-but-rules-out-australian-open/1886845/)
 
