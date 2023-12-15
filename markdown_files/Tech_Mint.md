@@ -1,3 +1,9 @@
+Fri, 15 Dec 2023 18:43:09 +0530
+### [10 best-budget TVs under  ₹20,000: Top picks for you](https://www.livemint.com/technology/gadgets/10-best-budget-tvs-under-rs-20-000-top-picks-for-you-11702622873014.html)
+
+Article found but Couldn't summarize 
+Want the best budget TV under Rs. 20,000 that combines quality and affordability? Our guide features top budget TVs, offering the best value and economical TV choices without sacrificing quality. Dive into our selection of affordable quality TVs to find your ideal match.
+
 Fri, 15 Dec 2023 15:52:21 +0530
 ### [10 best monitors for work: Choose top models from renowned brands](https://www.livemint.com/technology/gadgets/10-best-monitors-for-work-choose-top-models-from-renowned-brands-11702626764419.html)
 

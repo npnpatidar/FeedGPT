@@ -1,3 +1,15 @@
+Fri, 15 Dec 2023 18:30:14 +0530
+### [Parliament security breach: Other five significant instances of similar overt transgressions worldwide](https://www.firstpost.com/opinion/parliament-security-breach-other-five-significant-instances-of-similar-overt-transgressions-worldwide-13508172.html)
+
+Article found but Couldn't summarize 
+Parliament security breach: Other five significant instances of similar overt transgressions worldwide
+
+Fri, 15 Dec 2023 18:26:18 +0530
+### [Vantage | What happens to Gaza after the war?](https://www.firstpost.com/opinion/vantage-what-happens-to-gaza-after-the-war-13508122.html)
+
+Article found but Couldn't summarize 
+Vantage | What happens to Gaza after the war?
+
 Fri, 15 Dec 2023 17:44:27 +0530
 ### [Vantage | What do Russia's Indian Ocean military drills mean for India?](https://www.firstpost.com/opinion/vantage-what-do-russias-indian-ocean-military-drills-mean-for-india-13507462.html)
 

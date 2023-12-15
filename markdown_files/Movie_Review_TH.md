@@ -1,3 +1,9 @@
+Fri, 15 Dec 2023 18:09:27 +0530
+### [‘Kannagi’ movie review: A middling emotional tale about four women](https://www.thehindu.com/entertainment/movies/kannagi-movie-review-a-middling-emotional-tale-about-four-women/article67641613.ece)
+
+Article found but Couldn't summarize 
+Pitched as a women-centric film, ‘Kannagi’ has a few highs but could have exploited its plot points better
+
 Fri, 15 Dec 2023 16:38:58 +0530
 ### [‘Priscilla’ movie review: Sofia Coppola’s giddy swirl through the dream and nightmare of celebrity](https://www.thehindu.com/entertainment/movies/priscilla-movie-review-sofia-coppolas-giddy-swirl-through-the-dream-and-nightmare-of-celebrity/article67641401.ece)
 

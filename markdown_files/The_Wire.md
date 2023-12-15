@@ -1,3 +1,21 @@
+2023-12-15T18:36:44+05:30
+### [Russian Rifle Delays Raise Concerns Over Deliveries from Moscow](https://thewire.in/security/russia-ak203-kalashnikov-ukraine-sanction)
+
+No Article text 
+Is this an indicator that the halcyon period of bilateral military commerce between New Delhi and Moscow had finally run its course and was fast nearing an end?
+
+2023-12-15T18:30:19+05:30
+### [Masala Bonds Case: ED Summons to Thomas Isaac, KIIFB Officials Withdrawn, Kerala HC Told](https://thewire.in/law/masala-bonds-case-ed-summons-to-thomas-isaac-kiifb-officials-withdrawn-kerala-hc-told)
+
+No Article text 
+In 2022, both the Kerala Infrastructure Investment Fund Board and Isaac had moved petitions challenging the ED summons in relation to its probe into the alleged violations of the Foreign Exchange Management Act in the issuance of ‘Masala Bonds’.
+
+2023-12-15T18:15:30+05:30
+### [Wholesale Price-Based Inflation in November Was Fastest in 8 Months](https://thewire.in/economy/wholesale-price-based-inflation-in-november-was-fastest-in-8-months)
+
+No Article text 
+The government has said that this rise is primarily due to increase in prices of food articles, minerals, machinery and equipment, computer, electronics and optical products, and motor vehicles.
+
 2023-12-15T18:00:02+05:30
 ### [As Telangana Govt Mulls Judicial Probe Into Recruitment Exam Leaks, Unemployment Crisis in Focus](https://thewire.in/rights/telangana-judicial-probe-recruitment-exam-leaks-unemployment-crisis)
 
