@@ -1,3 +1,15 @@
+2023-12-15T09:21:56+05:30
+### [Will Disclose Evidence on Indian Govt's Alleged Involvement in Assassination Like the US Did: Trudeau](https://thewire.in/diplomacy/will-disclose-evidence-on-indian-govts-alleged-involvement-in-assassination-like-the-us-did-trudeau)
+
+No Article text 
+"Canada is investigating a murder and there are different stakes involved in that and our justice system has different processes," the Canadian PM said. "But that is unfolding.”
+
+2023-12-15T09:13:09+05:30
+### [Smoke and Mirrors: A Tepid Parliament Session That’s Turned Very Hot](https://thewire.in/government/smoke-and-mirrors-a-tepid-session-thats-turned-very-hot)
+
+No Article text 
+An opposition MP reflects on the chaos and repression in the House as the BJP government scrambles to prevent the Opposition from having its say.
+
 2023-12-14T23:16:15+05:30
 ### [Maldives Seeks to Terminate Hydrographic Survey Agreement With India](https://thewire.in/diplomacy/maldives-seeks-to-terminate-hydrographic-survey-agreement-with-india)
 

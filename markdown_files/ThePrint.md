@@ -1,3 +1,119 @@
+Fri, 15 Dec 2023 04:16:58 +0000
+### [US, UK, Canada & Australia top study destinations for Indian students, shows Immigration Bureau data](https://theprint.in/india/us-uk-canada-australia-top-study-destinations-for-indian-students-shows-immigration-bureau-data/1886430/)
+
+The article highlights that the US, Canada, Australia, and the UK are the most popular destinations for Indian students pursuing higher studies abroad, according to Bureau of Immigration data. Other top destinations in the past five years for Indian students include Germany, the Russian Federation, Bangladesh, Kyrgyzstan, Ukraine, and Singapore. The article also mentions the increase in visa restrictions introduced by Australia, Canada, and the UK over the past year, affecting Indian students studying in these countries. Additionally, the article discusses the measures taken by the Indian government to prioritize the welfare and safety of its students studying abroad, including repatriation operations.
+
+Fri, 15 Dec 2023 04:15:55 +0000
+### [Tennis-Djokovic, Sabalenka named ITF’s 2023 ‘world champions’](https://theprint.in/sport/tennis-djokovic-sabalenka-named-itfs-2023-world-champions/1886930/)
+
+Novak Djokovic and Aryna Sabalenka have been named the 'world champions' of 2023 by the International Tennis Federation (ITF) based on their performances at this year's Grand Slams. Djokovic received the men's singles award for the eighth time after winning three out of the four majors. He also won the ATP Finals title for a record seventh time and finished the year as the number one player. Sabalenka, on the other hand, won her first major at the Australian Open and reached the finals of the U.S. Open. She expressed her delight at being named world champion and is looking forward to the new season in January. Rajeev Ram and Joe Salisbury were awarded the men's doubles title, while Storm Hunter and Elise Mertens claimed the women's doubles title.
+
+Fri, 15 Dec 2023 04:15:41 +0000
+### [Meta, TikTok report jump in Malaysia govt requests to remove content in 2023](https://theprint.in/tech/meta-tiktok-report-jump-in-malaysia-govt-requests-to-remove-content-in-2023/1886928/)
+
+The article reports that Facebook-owner Meta and TikTok restricted a record number of social media posts and accounts in Malaysia in the first six months of 2023. Malaysia's government has faced accusations of backpedaling on its promises to protect freedom of speech amidst increased scrutiny of online content. The government denies allegations of stifling dissent online, stating that it aims to curb provocative posts related to race, religion, and royalty. The government requested the removal of content critical of it. The article raises concerns about potential stifling of legitimate free speech and expression due to increased requests to restrict content.
+
+Fri, 15 Dec 2023 04:15:24 +0000
+### [Royalty, stars pay tribute to comedian Barry Humphries in Sydney ceremony](https://theprint.in/world/royalty-stars-pay-tribute-to-comedian-barry-humphries-in-sydney-ceremony/1886926/)
+
+Article found but Couldn't summarize 
+SYDNEY (Reuters) - Elton John, Rupert Murdoch and King Charles III paid tribute to Australian comedian Barry Humphries, whose character Dame Edna Everage earned him plaudits as one of the world's
+
+Fri, 15 Dec 2023 04:15:15 +0000
+### [China pressures Taiwan with trade accusations and warplanes month before election](https://theprint.in/world/china-pressures-taiwan-with-trade-accusations-and-warplanes-month-before-election/1886924/)
+
+Article found but Couldn't summarize 
+By Liz Lee and Jeanny Kao BEIJING/TAIPEI (Reuters) - China on Friday pressured Taiwan with a trade barrier probe and warplanes in the Taiwan Strait a month before the island holds key elections, as
+
+Fri, 15 Dec 2023 04:15:03 +0000
+### [India’s Nifty, Sensex hit new highs as Fed-driven global rally extends](https://theprint.in/india/indias-nifty-sensex-hit-new-highs-as-fed-driven-global-rally-extends/1886922/)
+
+Article found but Couldn't summarize 
+BENGALURU (Reuters) - India's benchmark Nifty 50 and Sensex indexes opened at a new all-time high on Friday, tracking the global stocks rally on elevated bets of a U.S. rate cut by March 2024, after
+
+Fri, 15 Dec 2023 04:02:13 +0000
+### [Pakistan: ECP stops 3-day session to train returning officers after LHC ruling](https://theprint.in/world/pakistan-ecp-stops-3-day-session-to-train-returning-officers-after-lhc-ruling/1886916/)
+
+The Election Commission of Pakistan (ECP) stopped a three-day session to train returning officers (ROs) only a day after it began, raising doubts about Pakistan's ability to hold national elections in February. This action came after a Lahore High Court order suspended a notification by the election watchdog regarding the appointment of ROs and district returning officers (DROs) from the bureaucracy. The court order has caused concern among political parties about the upcoming general elections, which are scheduled for February 8. The process of announcing the election schedule is now on hold pending the final verdict in the case related to the appointment of DROs and ROs. The ECP official stated that the appointment of ROs was made in accordance with the law, expressing surprise over the court ruling. Additionally, delimitation cases being remanded to the election watchdog by the high courts present another hurdle. Although intervention from the Supreme Court could dissipate the uncertainty surrounding the elections, an ECP spokesperson rejected reports that it planned to approach the Supreme Court against the LHC order.
+
+Fri, 15 Dec 2023 04:02:02 +0000
+### [Hollywood legend Clint Eastwood promises to watch ‘Jigarthanda Double X’, Karthik Subbaraj reacts](https://theprint.in/feature/hollywood-legend-clint-eastwood-promises-to-watch-jigarthanda-double-x-karthik-subbaraj-reacts/1886914/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 15 (ANI): The team of &#8216;Jigarthanda Double X&#8217; can&#8217;t keep calm as legendary actor-director Clint Eastwood promised to watch their film. Karthik Subbaraj&#8217;s directorial &#8216;Jigarthanda Double X&#8217;, starring Raghava Lawrence and SJ Suryah, is a tribute to Clint Eastwood and Satyajit Ray. Surprisingly, Eastwood&#8217;s team that maintains his X profile recently [&#8230;]
+
+Fri, 15 Dec 2023 04:00:34 +0000
+### [Is Russia evading Western sanctions via Central Asia? What EU trade data suggests](https://theprint.in/world/is-russia-evading-western-sanctions-via-central-asia-what-eu-trade-data-suggests/1885912/)
+
+Article found but Couldn't summarize 
+EU exports to Kyrgyzstan, Kazakhstan, Tajikistan, Turkmenistan, Uzbekistan grew 120% from January-September 2021 to January-September 2023. Russia invaded Ukraine in February 2022.
+
+Fri, 15 Dec 2023 03:45:49 +0000
+### [PM Modi pays tributes to Sardar Patel on his death anniversary](https://theprint.in/india/pm-modi-pays-tributes-to-sardar-patel-on-his-death-anniversary/1886910/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) Prime Minister Narendra Modi on Friday paid tributes to India&#8217;s first home minister Sardar Vallabhbhai Patel on his death anniversary, saying his exemplary work guides us towards building a stronger and more united country. Given the epithet of &#8216;Sardar&#8217; for his leadership qualities, Patel is lauded as the architect of [&#8230;]
+
+Fri, 15 Dec 2023 03:45:35 +0000
+### [Sheena Bora case: CBI lists former Mumbai top cop Rakesh Maria, 22 others as ‘unrelied’ witnesses](https://theprint.in/india/sheena-bora-case-cbi-lists-former-mumbai-top-cop-rakesh-maria-22-others-as-unrelied-witnesses/1886909/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 15 (PTI) The Central Bureau of Investigation (CBI) has submitted a list of 23 witnesses it would not be examining against former media executive Indrani Mukerjea and other accused in connection with the killing of her daughter Sheena Bora. The CBi in the list that includes Mumbai&#8217;s former police commissioner Rakesh Maria and [&#8230;]
+
+Fri, 15 Dec 2023 03:45:02 +0000
+### [SC-CASES](https://theprint.in/india/sc-cases-52/1886908/)
+
+Article found but Couldn't summarize 
+Important matters listed for hearing in Supreme Court on December 15, Friday: * SC to hear plea of TMC leader Mahua Moitra against her expulsion after the Lok Sabha adopted a report by its ethics committee that held her guilty of accepting gifts and illegal gratification from a businessman to further his interests. * SC [&#8230;]
+
+Fri, 15 Dec 2023 03:32:12 +0000
+### [‘Brooklyn Nine-Nine’ actor Andre Braugher’s cause of death revealed](https://theprint.in/feature/brooklyn-nine-nine-actor-andre-braughers-cause-of-death-revealed/1886903/)
+
+Article found but Couldn't summarize 
+Los Angeles [US], December 15 (ANI): The cause of actor Andre Braugher&#8217;s death has been revealed three days after he breathed his last. Andre&#8217;s rep told People that the &#8216;Brooklyn Nine-Nine&#8217; star died due to lung cancer. It is unclear when Andre was diagnosed with the illness. He was 61 when he died on Monday. [&#8230;]
+
+Fri, 15 Dec 2023 03:32:02 +0000
+### [Need for more balanced, representative, democratic UNSC: UNGA President](https://theprint.in/world/need-for-more-balanced-representative-democratic-unsc-unga-president/1886901/)
+
+Article found but Couldn't summarize 
+New York [US], December 15 (ANI): United Nations General Assembly (UNGA) President Dennis Francis has said there is need for a UN Security Council (UNSC) that is more balanced, more representative, more responsive, more democratic, and more transparent. &#8220;As President of the General Assembly, I share the view that we need a Council that is [&#8230;]
+
+Fri, 15 Dec 2023 03:31:06 +0000
+### [Soccer-New Zealand makes nearly $70m from Women’s World Cup](https://theprint.in/sport/soccer-new-zealand-makes-nearly-70m-from-womens-world-cup/1886898/)
+
+Article found but Couldn't summarize 
+WELLINGTON (Reuters) - New Zealand received a net economic benefit of NZ$109.5 million ($67.87 million) from co-hosting the Women's World Cup with Australia earlier this year, according to a
+
+Fri, 15 Dec 2023 03:30:55 +0000
+### [Tencent launches party game ‘DreamStar’, analysts say poses a threat to NetEase](https://theprint.in/tech/tencent-launches-party-game-dreamstar-analysts-say-poses-a-threat-to-netease/1886896/)
+
+Article found but Couldn't summarize 
+By Josh Ye HONG KONG (Reuters) - Chinese tech giant Tencent Holdings on Friday launched "DreamStar", a new party game that has been widely anticipated by users and pegged by analysts to pose a threat
+
+Fri, 15 Dec 2023 03:30:44 +0000
+### [Indonesia state power firm PLN signs 14 clean energy deals during COP28](https://theprint.in/environment/indonesia-state-power-firm-pln-signs-14-clean-energy-deals-during-cop28/1886894/)
+
+Article found but Couldn't summarize 
+JAKARTA (Reuters) - Indonesia's state utility Perusahaan Listrik Negara (PLN) said on Friday it had signed 14 agreements with various institutions during the COP28 climate summit to transition to
+
+Fri, 15 Dec 2023 03:30:34 +0000
+### [Freezing temperatures, snow, ice blanket China, shutting highways](https://theprint.in/environment/freezing-temperatures-snow-ice-blanket-china-shutting-highways/1886892/)
+
+Article found but Couldn't summarize 
+By Liz Lee BEIJING (Reuters) - Chinese authorities limited traffic flows on highways on Friday in several provinces after vehicles collided on icy patches as temperatures plummeted to below freezing
+
+Fri, 15 Dec 2023 03:30:19 +0000
+### [Gold poised for weekly gain on Fed rate-cut bets](https://theprint.in/economy/gold-poised-for-weekly-gain-on-fed-rate-cut-bets/1886889/)
+
+Article found but Couldn't summarize 
+By Brijesh Patel (Reuters) - Gold prices were set on Friday for a weekly gain, as prospects of the U.S. Federal Reserve lowering borrowing costs next year dented the dollar and Treasury yields,
+
+Fri, 15 Dec 2023 03:30:17 +0000
+### [SC-CASES](https://theprint.in/india/sc-cases-51/1886888/)
+
+Article found but Couldn't summarize 
+Important matters listed for hearing in Supreme Court on December 15, Friday: * SC to hear plea of TMC leader Mahua Moitra against her expulsion after the Lok Sabha adopted a report by its ethics committee that held her guilty of accepting gifts and illegal gratification from a businessman to further his interests. * SC [&#8230;]
+
 Fri, 15 Dec 2023 03:15:24 +0000
 ### [China accuses Taiwan of unfair trade barriers month before election](https://theprint.in/world/china-accuses-taiwan-of-unfair-trade-barriers-month-before-election/1886873/)
 

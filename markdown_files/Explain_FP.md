@@ -1,3 +1,8 @@
+Fri, 15 Dec 2023 09:48:31 +0530
+### [Parliament security breach: How mastermind Lalit Jha evaded cops before surrendering](https://www.firstpost.com/explainers/parliament-security-breach-how-mastermind-lalit-jha-evaded-cops-before-surrendering-13505582.html)
+
+The article discusses the arrest of Lalit Mohan Jha, the alleged mastermind behind a security breach at the Indian Parliament. Jha was arrested after reportedly surrendering to the police and was found to have orchestrated the breach by recording video footage of the incident and coordinating with other individuals involved. The article also provides details about Jha's background, including his profession as a teacher and his alleged inspiration from freedom fighter Bhagat Singh and Cuban revolutionary Che Guevara. The plot of the breach, its execution, and the subsequent custody of the accused are also detailed. Additionally, the article mentions the involvement of certain Members of Parliament in responding to the breach.
+
 Thu, 14 Dec 2023 21:59:05 +0530
 ### [FirstUp: SC to hear Moitra plea, Modi-Shah in Rajasthan… today’s big news](https://www.firstpost.com/explainers/firstup-sc-to-hear-moitra-plea-modi-shah-in-rajasthan-todays-big-news-13504942.html)
 
