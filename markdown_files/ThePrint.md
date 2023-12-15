@@ -1,3 +1,123 @@
+Fri, 15 Dec 2023 15:02:02 +0000
+### [Israel strikes Hezbollah target in Lebanon: IDF](https://theprint.in/world/israel-strikes-hezbollah-target-in-lebanon-idf/1887979/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], December 15 (ANI): The Israel Defence Forces (IDF) said that the air force struck a Hezbollah target in Lebanon amid the ongoing exchanges of gunfire between the two sides along the border, The Times of Israel reported. According to IDF, the Israeli soldiers conducted a strike on two gunmen near the border. [&#8230;]
+
+Fri, 15 Dec 2023 15:01:50 +0000
+### [DU panel to look into alleged ‘financial irregularities’ in 12 Delhi govt-funded colleges](https://theprint.in/india/du-panel-to-look-into-alleged-financial-irregularities-in-12-delhi-govt-funded-colleges/1887978/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) The Delhi University on Friday formed a committee comprising its executive council members to look into alleged &#8220;financial irregularities&#8221; in 12 Delhi government-funded colleges, according to a statement. The development comes days after Delhi Education Minister Atishi in a letter to the Centre had flagged &#8220;irregularities and procedural lapses involving [&#8230;]
+
+Fri, 15 Dec 2023 15:01:39 +0000
+### [Haryana Assembly pays tributes to former minister Ram Prakash, martyr Major Ashish Dhonchak](https://theprint.in/india/haryana-assembly-pays-tributes-to-former-minister-ram-prakash-martyr-major-ashish-dhonchak/1887977/)
+
+Article found but Couldn't summarize 
+Chandigarh, Dec 15 (PTI) The Haryana Assembly on the opening day of its winter session on Friday paid tributes to former Minister Ram Prakash, martyr Major Ashish Dhonchak and other prominent personalities who passed away during the intervening period from the end of the previous session to the beginning of the current one. The House [&#8230;]
+
+Fri, 15 Dec 2023 15:01:28 +0000
+### [Launch drive to make Chhattisgarh leprosy-free: CM Sai to officials](https://theprint.in/india/launch-drive-to-make-chhattisgarh-leprosy-free-cm-sai-to-officials/1887976/)
+
+Article found but Couldn't summarize 
+Raipur, Dec 15 (PTI) Chhattisgarh Chief Minister Vishnu Deo Sai on Friday instructed officials to launch a campaign against leprosy, a government official said. Sai also asked them to complete the construction of super specialty hospitals in Bilaspur and Jagdalpur cities by February next year. During a meeting of the health and family welfare department [&#8230;]
+
+Fri, 15 Dec 2023 15:01:16 +0000
+### [Kerala prisoner accused in daughter’s murder jumps to death from train](https://theprint.in/india/kerala-prisoner-accused-in-daughters-murder-jumps-to-death-from-train/1887975/)
+
+Article found but Couldn't summarize 
+Kollam (Ker), Dec 15 (PTI): A 38-year-old prisoner who is an accused in the gruesome murder of his six-year-old daughter months ago, killed himself by jumping down from a moving train in Sasthamkotta in this district on Friday, police said. The incident occurred when he was being taken back to the central jail in Thiruvananthapuram [&#8230;]
+
+Fri, 15 Dec 2023 15:01:05 +0000
+### [Rice inflation: FCI chief says PDS rice quality good; appeals traders to buy grain under OMSS](https://theprint.in/economy/rice-inflation-fci-chief-says-pds-rice-quality-good-appeals-traders-to-buy-grain-under-omss/1887974/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) Expressing concern over rice inflation, FCI chief Ashok K Meena on Friday asserted that the PDS rice is of &#8220;extremely&#8221; good quality and urged traders to buy the grain under the Open Market Sale Scheme (OMSS) to boost domestic availability and contain price rise. To encourage more participation of rice [&#8230;]
+
+Fri, 15 Dec 2023 15:00:54 +0000
+### [Delhi excise ‘scam’: Court to pass order on Arun Pillai’s interim bail plea on December 18](https://theprint.in/india/delhi-excise-scam-court-to-pass-order-on-arun-pillais-interim-bail-plea-on-december-18/1887973/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) A court here will decide on December 18 whether to grant interim bail to Hyderabad-based businessman Arun Ramchandra Pillai, arrested in a money-laundering case related to the alleged Delhi excise scam, on the ground of his wife&#8217;s medical condition. Special Judge M K Nagpal, who reserved the order on Friday [&#8230;]
+
+Fri, 15 Dec 2023 15:00:45 +0000
+### [Indian men’s hockey team loses to Spain 0-1 in 5-Nation tournament](https://theprint.in/sport/indian-mens-hockey-team-loses-to-spain-0-1-in-5-nation-tournament/1887972/)
+
+Article found but Couldn't summarize 
+Valencia (Spain), Dec 15 (PTI) The Indian men’s hockey team began its 5-Nation Tournament on a disappointing note, losing 0-1 to lower ranked Spain here on Friday. Alvaro Iglesias scored the only goal of the match in the 29th minute. The Indian team, which has qualified for the 2024 Paris Olympics after winning gold at [&#8230;]
+
+Fri, 15 Dec 2023 15:00:35 +0000
+### [Ex-Sri Lankan president Mahinda Rajapaksa reelected as SLPP leader](https://theprint.in/world/ex-sri-lankan-president-mahinda-rajapaksa-reelected-as-slpp-leader/1887971/)
+
+Article found but Couldn't summarize 
+Colombo, Dec 15 (PTI) Disgraced former Sri Lankan president Mahinda Rajapaksa, who was reelected as the leader of the ruling party on Friday, claimed the Rajapaksa clan was being &#8220;unfairly&#8221; accused of causing the unprecedented economic crisis that hit the island nation last year. Rajapaksa, 78, was reelected as the Sri Lanka Podujana Peramuna (SLPP) [&#8230;]
+
+Fri, 15 Dec 2023 15:00:24 +0000
+### [CJI praises outgoing judge Kaul, says he left indelible mark on legal landscape](https://theprint.in/india/cji-praises-outgoing-judge-kaul-says-he-left-indelible-mark-on-legal-landscape/1887970/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) Chief Justice of India DY Chandrachud on Friday lavished praise on outgoing judge Justice Sanjay Kishan Kaul, saying during his tenure of more than six years at the Supreme Court he left an indelible mark on the legal landscape of the nation. Speaking at the farewell function organised by the [&#8230;]
+
+Fri, 15 Dec 2023 15:00:14 +0000
+### [Important matters heard in Supreme Court on December 15](https://theprint.in/india/important-matters-heard-in-supreme-court-on-december-15/1887969/)
+
+Article found but Couldn't summarize 
+Important matters heard in Supreme Court on December 15, Friday: * The SC directed the Manipur government to apprise the apex court-appointed committee of the steps taken to secure places of public worship in the state where ethnic clashes have claimed more than 170 lives since May. * The SC deferred the hearing on a [&#8230;]
+
+Fri, 15 Dec 2023 15:00:03 +0000
+### [J’khand cabinet approves proposals for industrial township, 500-bed hospital](https://theprint.in/india/jkhand-cabinet-approves-proposals-for-industrial-township-500-bed-hospital-2/1887968/)
+
+Article found but Couldn't summarize 
+Ranchi, Dec 15 (PTI) Jharkhand cabinet on Friday gave nod to the proposal of setting up the Jamshedpur Industrial Township in East Singhbhum district and a 500-bed medical college and hospital in Bokaro district. The Hemant Soren government has also decided to extend the benefits of Savitribai Phule Kishori Samridhi Yojana to all girl members [&#8230;]
+
+Fri, 15 Dec 2023 14:47:06 +0000
+### [BJP, AAP govt spar over ‘deaths’ of homeless people in Delhi during winter](https://theprint.in/india/bjp-aap-govt-spar-over-deaths-of-homeless-people-in-delhi-during-winter/1887963/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) The BJP and AAP government indulged in a war of words on Friday after the saffron party alleged that 203 homeless people have died in the city this winter so far and demanded that Chief Minister Arvind Kejriwal speak on the issue in the House. The issue resonated inside the [&#8230;]
+
+Fri, 15 Dec 2023 14:46:56 +0000
+### [Take immediate action to fill vacancies in Punjab State Commission for NRIs: Bajwa to CM Mann](https://theprint.in/india/take-immediate-action-to-fill-vacancies-in-punjab-state-commission-for-nris-bajwa-to-cm-mann/1887962/)
+
+Article found but Couldn't summarize 
+Chandigarh, Dec 15 (PTI) Congress leader Partap Singh Bajwa on Friday wrote to Punjab Chief Minister Bhagwant Mann and urged him to take immediate action to fill vacancies in the state commission for the Non-Resident Indians (NRIs). The Congress leader said this inaction is causing distress to the NRIs whose cases are pending and added [&#8230;]
+
+Fri, 15 Dec 2023 14:46:46 +0000
+### [Naxalite held in Narayanpur in Chhattisgarh](https://theprint.in/india/naxalite-held-in-narayanpur-in-chhattisgarh/1887961/)
+
+Article found but Couldn't summarize 
+Narayanpur, Dec 15 (PTI) A 50-year-old Naxalite was arrested on Friday in Narayanpur district in Chhattisgarh, a police official said. Dasru Korram was the &#8216;jantana sarkar&#8217; president under the &#8216;Aamdal area committee&#8217; of the outlawed Communist Party of India (Maoist), the official added. He was involved in 16 incidents of Left Wing violence, including murder, [&#8230;]
+
+Fri, 15 Dec 2023 14:46:36 +0000
+### [Man held for possession of 202 knives in Mumbai](https://theprint.in/india/man-held-for-possession-of-202-knives-in-mumbai/1887960/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 15 (PTI) A 42-year-old man was arrested for alleged possession of 202 knives of different sizes and makes in south Mumbai, police said on Friday. Based on a tip-off, a joint team of the Mumbai and Amravati police nabbed the accused from the Musafir Khana area on Thursday, an official said. The police [&#8230;]
+
+Fri, 15 Dec 2023 14:46:25 +0000
+### [Police return stolen gold to owners in Odisha’s Berhampur](https://theprint.in/india/police-return-stolen-gold-to-owners-in-odishas-berhampur-2/1887959/)
+
+Article found but Couldn't summarize 
+Berhampur (Odisha), Dec 15 (PTI) Police on Friday returned stolen gold and silver ornaments worth over Rs 85 lakh to their owners during a programme here. Over 1.3kg of gold ornaments and 400 grams of silver ornaments, stolen by thieves from different areas of Berhampur town in October, were handed over to their owners by [&#8230;]
+
+Fri, 15 Dec 2023 14:46:10 +0000
+### [Soccer-Liverpool will not see repeat of ‘freakish’ 7-0 win over Man Utd – Klopp](https://theprint.in/sport/soccer-liverpool-will-not-see-repeat-of-freakish-7-0-win-over-man-utd-klopp/1887957/)
+
+Article found but Couldn't summarize 
+(Reuters) - Liverpool's massive 7-0 victory over Manchester United at Anfield last season was a once-in-a-lifetime result that will not be repeated but Sunday's derby promises to be a 'special' game,
+
+Fri, 15 Dec 2023 14:46:07 +0000
+### [J’khand cabinet approves proposals for industrial township, 500-bed hospital](https://theprint.in/india/jkhand-cabinet-approves-proposals-for-industrial-township-500-bed-hospital/1887956/)
+
+Article found but Couldn't summarize 
+Ranchi, Dec 15 (PTI) Jharkhand cabinet on Friday gave nod to the proposal of setting up the Jamshedpur Industrial Township in East Singhbhum district and a 500-bed medical college and hospital in Bokaro district. The Hemant Soren government has also decided to extend the benefits of Savitribai Phule Kishori Samridhi Yojana to all girl members [&#8230;]
+
+Fri, 15 Dec 2023 14:45:48 +0000
+### [Courts are temple of justice, must remain open for tired & weary litigants: Justice Kaul](https://theprint.in/india/courts-are-temple-of-justice-must-remain-open-for-tired-weary-litigants-justice-kaul/1887953/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) The courts are temples of justice and must remain open to litigants to knock at their doors anytime as citizens are “tired and weary” by the time they reach the apex court, Supreme Court judge Justice Sanjay Kishan Kaul said on Friday. Justice Kaul, who will demit office on December [&#8230;]
+
 Fri, 15 Dec 2023 14:20:30 +0000
 ### [Telangana ‘liberated from 10 years of repression’, Governor Soundararajan in House address](https://theprint.in/politics/telangana-liberated-from-10-years-of-repression-governor-soundararajan-in-house-address/1887821/)
 
