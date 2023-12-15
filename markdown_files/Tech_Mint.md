@@ -1,3 +1,21 @@
+Fri, 15 Dec 2023 19:07:19 +0530
+### [10 Best Acer smart TVs for every budget: Enjoy the new smart viewing experience](https://www.livemint.com/technology/gadgets/10-best-acer-smart-tvs-for-every-budget-enjoy-the-new-smart-viewing-experience-11702622807925.html)
+
+Article found but Couldn't summarize 
+Maximize your entertainment with the best Acer smart TV selections tailored for every budget. These top 10 Acer TV models redefine the new viewing experience, blending advanced technology and affordability in smart televisions.
+
+Fri, 15 Dec 2023 19:03:20 +0530
+### [7 Best 65-inch OLED TVs from the top brands of India: From Samsung, Sony, LG and more with unmatched visuals](https://www.livemint.com/technology/gadgets/7-best-65-inch-oled-tvs-from-the-top-brands-of-india-from-samsung-sony-lg-and-more-with-unmatched-visuals-11702622745488.html)
+
+Article found but Couldn't summarize 
+Experience unparalleled visuals with the 65-inch OLED TV, a masterpiece in the realm of high-performance TVs. This guide highlights the best OLED TVs from India's top brands, showcasing premium OLED technology that transforms your viewing experience.
+
+Fri, 15 Dec 2023 18:59:08 +0530
+### [10 Most affordable 60-inch+ smart tvs: From Samsung, LG, Sony and more for large-scale viewing](https://www.livemint.com/technology/gadgets/10-most-affordable-60-inch-smart-tvs-from-samsung-lg-sony-and-more-for-large-scale-viewing-11702622675509.html)
+
+Article found but Couldn't summarize 
+Explore our handpicked selection of the top 10 most affordable 60-inch smart TVs, tailored for those seeking a large smart TV experience without overspending. This guide focuses on the best 60-inch smart TVs, ensuring a grand viewing experience on a budget.
+
 Fri, 15 Dec 2023 18:43:09 +0530
 ### [10 best-budget TVs under  ₹20,000: Top picks for you](https://www.livemint.com/technology/gadgets/10-best-budget-tvs-under-rs-20-000-top-picks-for-you-11702622873014.html)
 

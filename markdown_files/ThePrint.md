@@ -1,3 +1,123 @@
+Fri, 15 Dec 2023 14:20:30 +0000
+### [Telangana ‘liberated from 10 years of repression’, Governor Soundararajan in House address](https://theprint.in/politics/telangana-liberated-from-10-years-of-repression-governor-soundararajan-in-house-address/1887821/)
+
+Article found but Couldn't summarize 
+Tamilisai Soundararajan Friday addressed joint session of Telangana legislature following Congress’ election to power. Governor’s speech is drafted by government.
+
+Fri, 15 Dec 2023 14:17:02 +0000
+### [Pak: Imran Khan summoned in ‘illegal’ Nikah case](https://theprint.in/world/pak-imran-khan-summoned-in-illegal-nikah-case/1887909/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 15 (ANI): A local court in the federal capital has issued a summons for the former prime minister and Pakistan Tehreek-e-Insaf (PTI) founder, Imran Khan, in an &#8216;illegal&#8217; nikah case, as reported by ARY News. The District and Session Courts in Islamabad have scheduled a hearing to investigate the alleged &#8216;illegal&#8217; nikah [&#8230;]
+
+Fri, 15 Dec 2023 14:15:56 +0000
+### [Andhra Pradesh Guv, CM condole MLC Shaik Sabjee’s death](https://theprint.in/india/andhra-pradesh-guv-cm-condole-mlc-shaik-sabjees-death-2/1887905/)
+
+Article found but Couldn't summarize 
+Amaravati, Dec 15 (PTI) Andhra Pradesh Governor S Abdul Nazeer and Chief Minister Y S Jagan Mohan Reddy expressed grief over the death of Legislative Council member Shaik Sabjee on Friday. Sabjee (57) died in a car crash at Cherukuvada village in West Godavari district today when he was on his way to Bhimavaram from [&#8230;]
+
+Fri, 15 Dec 2023 14:15:47 +0000
+### [2 brick kiln workers die of suffocation in Odisha’s Dhenkanal](https://theprint.in/india/2-brick-kiln-workers-die-of-suffocation-in-odishas-dhenkanal/1887903/)
+
+Article found but Couldn't summarize 
+Bhubaneswar, Dec 15 (PTI) Two labourers died due to suspected asphyxiation at a brick kiln in Odisha’s Dhenkanal district, police said on Friday. The incident took place at Manapur village in Kantabania area on Thursday night. The deceased belong to Pallahara area of Angul district, they said. The labourers had left a diesel generator running [&#8230;]
+
+Fri, 15 Dec 2023 14:15:40 +0000
+### [Soccer-Guardiola not expecting injured Haaland back against Palace](https://theprint.in/sport/soccer-guardiola-not-expecting-injured-haaland-back-against-palace/1887902/)
+
+Article found but Couldn't summarize 
+By Lori Ewing MANCHESTER, England (Reuters) - Manchester City's Erling Haaland will likely miss his second consecutive Premier League game with a foot injury on Saturday, said manager Pep Guardiola,
+
+Fri, 15 Dec 2023 14:15:36 +0000
+### [BJP MP Dubey cites past incidents to target opposition for its reaction to latest breach in Parliament](https://theprint.in/india/bjp-mp-dubey-cites-past-incidents-to-target-opposition-for-its-reaction-to-latest-breach-in-parliament/1887900/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) BJP MP Nishikant Dubey on Friday shared some past instances of Lok Sabha security breaches, including an intruder walking close to the then prime minister P V Narasimha Rao, to claim that his party never attacked government functionaries or sought the Speaker&#8217;s resignation, as he targeted the opposition for its [&#8230;]
+
+Fri, 15 Dec 2023 14:15:29 +0000
+### [Soccer-Nkunku set for Chelsea debut against Sheffield United](https://theprint.in/sport/soccer-nkunku-set-for-chelsea-debut-against-sheffield-united/1887899/)
+
+Article found but Couldn't summarize 
+(Reuters) - French forward Christopher Nkunku will be a part of Chelsea's squad for the first time this season when they face Sheffield United this weekend, manager Mauricio Pochettino said on Friday.
+
+Fri, 15 Dec 2023 14:15:26 +0000
+### [Cong accuses Shah of ‘contempt of Parliament’ by speaking on security breach on TV, not in House](https://theprint.in/india/cong-accuses-shah-of-contempt-of-parliament-by-speaking-on-security-breach-on-tv-not-in-house/1887898/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) The Congress Friday accused Home Minister Amit Shah of &#8220;contempt of Parliament&#8221; by speaking to TV channels on the security breach issue and not in the House when it is in session and said both Lok Sabha and Rajya Sabha are unlikely to function till he makes a statement on [&#8230;]
+
+Fri, 15 Dec 2023 14:15:15 +0000
+### [UP: ED attaches 28 land parcels in ‘fraud’ bike taxi scheme case](https://theprint.in/india/up-ed-attaches-28-land-parcels-in-fraud-bike-taxi-scheme-case/1887897/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) More than two dozen agricultural land parcels worth Rs 2.38 crore were attached by the Enforcement Directorate on Friday in Uttar Pradesh as part of a money laundering probe against the promoters of a &#8216;bike taxi scheme&#8217;. The scheme&#8217;s promoters have allegedly siphoned off public funds worth Rs 72 crore. [&#8230;]
+
+Fri, 15 Dec 2023 14:15:04 +0000
+### [India gets bids for green hydrogen, electrolyser incentives](https://theprint.in/india/india-gets-bids-for-green-hydrogen-electrolyser-incentives/1887895/)
+
+Article found but Couldn't summarize 
+By Sarita Chaganti Singh NEW DELHI (Reuters) -Reliance Industries, JSW Energy, Torrent Power and Bharat Petroleum Corp are among 14 companies that have bid for incentives under India's green hydrogen
+
+Fri, 15 Dec 2023 14:15:03 +0000
+### [PM degree: Gujarat court junks Kejriwal plea on govt nod to prosecute him in defamation case](https://theprint.in/india/pm-degree-gujarat-court-junks-kejriwal-plea-on-govt-nod-to-prosecute-him-in-defamation-case/1887894/)
+
+Article found but Couldn't summarize 
+Ahmedabad, Dec 15 (PTI) A metropolitan court here on Friday rejected Delhi Chief Minister Arvind Kejriwal&#8217;s plea challenging his prosecution in a defamation case over his remarks regarding Prime Minister Narendra Modi&#8217;s educational degree, saying no prior sanction from government was needed to proceed against him as argued by the defendant. Through his plea, the [&#8230;]
+
+Fri, 15 Dec 2023 14:01:54 +0000
+### [Two killed, 2 injured as vehicle hits auto-rickshaw in Agra](https://theprint.in/india/two-killed-2-injured-as-vehicle-hits-auto-rickshaw-in-agra/1887883/)
+
+Article found but Couldn't summarize 
+Agra, Dec 15 (PTI) Two people died and as many were injured on Friday when an unidentified vehicle hit an auto-rickshaw here, police said. The accident took place in the Iradatnagar area around 1.15 pm. Both vehicles travelling in the same direction dashed against each other near an overbridge an the Khari river. Local police [&#8230;]
+
+Fri, 15 Dec 2023 14:01:44 +0000
+### [Punjab: Radical preacher Amritpal’s close aide held](https://theprint.in/india/punjab-radical-preacher-amritpals-close-aide-held/1887882/)
+
+Article found but Couldn't summarize 
+Amritsar, Dec 15 (PTI) A close aide of Amritpal Singh has been arrested, 10 months after the radical preacher and his supporters stormed a police station in Ajnala here to secure an associate&#8217;s release. Deputy Superintendent of Police Riputapan Singh said Kulwant Singh, a resident of Moga district, was absconding and he was arrested on [&#8230;]
+
+Fri, 15 Dec 2023 14:01:33 +0000
+### [Andhra Pradesh Guv, CM condole MLC Shaik Sabjee’s death](https://theprint.in/india/andhra-pradesh-guv-cm-condole-mlc-shaik-sabjees-death/1887881/)
+
+Article found but Couldn't summarize 
+Amaravati, Dec 15 (PTI) Andhra Pradesh Governor S Abdul Nazeer and Chief Minister Y S Jagan Mohan Reddy expressed grief over the death of Legislative Council member Shaik Sabjee on Friday. Sabjee (57) died in a car crash at Cherukuvada village in West Godavari district today when he was on his way to Bhimavaram from [&#8230;]
+
+Fri, 15 Dec 2023 14:01:19 +0000
+### [Tell us before Dec 17 what you have done on Maratha quota demand: Jarange to ministers](https://theprint.in/india/tell-us-before-dec-17-what-you-have-done-on-maratha-quota-demand-jarange-to-ministers/1887880/)
+
+Article found but Couldn't summarize 
+Chhatrapati Sambhajinagar, Dec 15 (PTI) The Maharashtra ministers who came to Antarwali Sarati in Jalna to meet Maratha quota agitators must say before December 17 what they have done about the demand since the community feels it is being fooled, activist Manoj Jarange said here on Friday. Jarange had sat on a hunger strike in [&#8230;]
+
+Fri, 15 Dec 2023 14:01:05 +0000
+### [Rahul interacts with Harvard students, says he’s keen to give every Indian student same exposure](https://theprint.in/india/rahul-interacts-with-harvard-students-says-hes-keen-to-give-every-indian-student-same-exposure/1887879/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) Congress leader Rahul Gandhi interacted with Harvard University students from across the world on Friday and asserted that he is determined to ensure that every Indian student gets the exposure and opportunity needed to become global ambassadors. &#8220;Had a wonderful and engaging chat with a diverse community of Harvard students [&#8230;]
+
+Fri, 15 Dec 2023 14:00:51 +0000
+### [SC refuses to stay Allahabad HC order on Mathura’s Shahi Idgah on oral plea of mosque committee](https://theprint.in/india/sc-refuses-to-stay-allahabad-hc-order-on-mathuras-shahi-idgah-on-oral-plea-of-mosque-committee/1887877/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) The Supreme Court on Friday refused to stay the Allahabad High Court&#8217;s decision allowing a court-monitored survey of the Shahi Idgah adjoining the Krishna Janmabhoomi temple in Mathura on an oral plea by the Muslim side and asked them to challenge the order by way of an appeal. The high [&#8230;]
+
+Fri, 15 Dec 2023 14:00:39 +0000
+### [Venture capital funds backing fewer women startups than men-led ones: Irani](https://theprint.in/economy/venture-capital-funds-backing-fewer-women-startups-than-men-led-ones-irani/1887876/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 15 (PTI) Union Minister Smriti Irani on Friday hit out at venture capital funds for not backing women-led innovative startups, and instead taking bets on entities founded by men. The Union Minister for Women and Child Development said there are many women innovators in science and technology, but rued that their strides are [&#8230;]
+
+Fri, 15 Dec 2023 14:00:27 +0000
+### [Nobody wants India to become a womb renting industry: Delhi HC on surrogacy](https://theprint.in/india/nobody-wants-india-to-become-a-womb-renting-industry-delhi-hc-on-surrogacy/1887875/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) The Delhi High Court Friday said the law regulating the procedure of surrogacy is intended to curb the exploitation of surrogates and no one wants India to become an “industry of renting a womb”. The court made the observation while hearing a plea by an Indian origin couple living in [&#8230;]
+
+Fri, 15 Dec 2023 14:00:15 +0000
+### [1,761 loco pilots failed breathalyser test in last five years: Vaishnaw](https://theprint.in/india/1761-loco-pilots-failed-breathalyser-test-in-last-five-years-vaishnaw/1887874/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) Railway Minister Ashwini Vaishnaw on Friday informed the Rajya Sabha that 1,761 loco pilots failed breathalyser test in the last five years and were subjected to disciplinary action as per the laid down policies. “In order to ensure safe train operation, Loco Pilots are required to undergo Breathalyser (BA) test [&#8230;]
+
 Fri, 15 Dec 2023 13:20:58 +0000
 ### [SubscriberWrites: Unclogging India’s Urban Future](https://theprint.in/yourturn/subscriberwrites-unclogging-indias-urban-future/1887787/)
 

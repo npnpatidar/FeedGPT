@@ -1,3 +1,8 @@
+Fri, 15 Dec 2023 19:34:15 +0530
+### [Vantage | Why Germany is planning to ban its far-right party](https://www.firstpost.com/opinion/vantage-why-germany-is-planning-to-ban-its-far-right-party-13508742.html)
+
+The article discusses the rise of the far-right Alternative for Germany (AfD) party, the concerns it poses to democracy in Germany, and the reasons behind its popularity. The party's roots lay in Euroskepticism, but it gained momentum during the 2015 migrant crisis, reflecting growing anti-immigration sentiment. AfD has seen significant support in eastern Germany, historically less developed than the west, and has raised concerns about right-wing hostility towards democracy. Despite calls to ban the party, there are doubts about the effectiveness of such action and the need to address the underlying factors fueling its popularity.
+
 Fri, 15 Dec 2023 18:30:14 +0530
 ### [Parliament security breach: Other five significant instances of similar overt transgressions worldwide](https://www.firstpost.com/opinion/parliament-security-breach-other-five-significant-instances-of-similar-overt-transgressions-worldwide-13508172.html)
 

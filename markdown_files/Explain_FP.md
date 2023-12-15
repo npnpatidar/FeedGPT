@@ -1,3 +1,9 @@
+Fri, 15 Dec 2023 19:06:09 +0530
+### [Retail Wars: Why Shein has been accused of ‘mafia-style intimidation’ by rival Temu](https://www.firstpost.com/explainers/retail-wars-why-shein-has-been-accused-of-mafia-style-intimidation-by-rival-temu-13507472.html)
+
+Article found but Couldn't summarize 
+Retail Wars: Why Shein has been accused of ‘mafia-style intimidation’ by rival Temu
+
 Fri, 15 Dec 2023 18:42:48 +0530
 ### [Is Nikhil Gupta, arrested for Pannun murder plot in US, being ‘tortured’ in custody?](https://www.firstpost.com/explainers/is-nikhil-gupta-arrested-for-pannun-murder-plot-in-us-being-tortured-in-custody-13508092.html)
 
