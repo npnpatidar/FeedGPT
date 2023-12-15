@@ -5,6 +5,25 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Opinion_Mint.xml</link>
 		<description>Opinion Mint</description>
 		<item>
+			<title>Higher for longer? What's that, asks the Fed</title>
+			<link>https://www.livemint.com/opinion/first-person/higher-for-longer-whats-that-asks-the-fed-11702614864651.html</link>
+			<description>Article found but Couldn't summarize 
+Global equity and bond markets have been on a tear since Fed chair Jerome Powell’s dovish turn this month, which will force other central banks to pivot as well.</description>
+			<pubDate>Fri, 15 Dec 2023 10:14:43 +0530</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://www.livemint.com/lm-img/img/2023/12/15/1600x900/im-898892_1702436561225_1702615066786.jpg"></media:thumbnail>
+			<media:content url="https://www.livemint.com/lm-img/img/2023/12/15/1600x900/im-898892_1702436561225_1702615066786.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Rich countries’ hypocrisy and chicanery was in full show at COP28</title>
+			<link>https://www.livemint.com/opinion/online-views/rich-countries-hypocrisy-and-chicanery-was-in-full-show-at-cop28-11702562238027.html</link>
+			<description>The article discusses the Dubai climate summit, COP28, and its declaration calling for a transition away from fossil fuels. It highlights the gap between commitments and actions in reducing emissions, as well as the challenges in meeting the 1.5 degrees Celsius warming limit. The author emphasizes the necessity of carbon dioxide removal (CDR) technologies, such as carbon capture, storage, and use (CCUS), as well as the need for the rich world to invest in these technologies. Additionally, it points out the disparity in CO2 emissions per capita between the rich world and the Global South, advocating for support in energy transition for the latter.</description>
+			<pubDate>Fri, 15 Dec 2023 10:00:08 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://www.livemint.com/lm-img/img/2023/12/14/1600x900/UN-Climate-Chief-Simon-Stiell--COP28-President-Sul_1702562290478_1702562320157.jpg"></media:thumbnail>
+			<media:content url="https://www.livemint.com/lm-img/img/2023/12/14/1600x900/UN-Climate-Chief-Simon-Stiell--COP28-President-Sul_1702562290478_1702562320157.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>The Judiciary has given India a better chance to emerge as an arbitration hub</title>
 			<link>https://www.livemint.com/opinion/online-views/the-judiciary-has-given-india-a-better-chance-to-emerge-as-an-arbitration-hub-11702561945679.html</link>
 			<description>The recent 7-judge ruling by the Supreme Court of India on the enforceability of unstamped and insufficiently stamped arbitration agreements has significant implications for India's position as an arbitrator hub. The ruling asserts that unstamped or insufficiently stamped agreements will still be enforceable, with courts deferring the examination of stamp duty sufficiency to arbitrators. This decision aims to enhance India's attractiveness as an arbitrator hub by promoting arbitral competence and minimizing judicial intervention in arbitral processes. It also reinforces the principles of arbitral autonomy and minimal judicial interference, which are crucial for an effective arbitration ecosystem. The ruling is expected to save time for disputant parties, add certainty and predictability to dispute resolution, and improve investor confidence in India's arbitration system.</description>

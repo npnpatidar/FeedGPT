@@ -1,3 +1,101 @@
+Fri, 15 Dec 2023 05:02:02 +0000
+### [Hong Kong police puts bounties of 5 activists for alleged security crimes](https://theprint.in/world/hong-kong-police-puts-bounties-of-5-activists-for-alleged-security-crimes/1886965/)
+
+The Hong Kong police have accused five activists based overseas of breaching China-imposed national security law and have issued bounties worth USD 128,000 for information leading to each of their arrests. The charges against these activists include incitement to secession, incitement to subversion, and foreign collusion. Among the accused activists is prominent figure Simon Cheng, who is currently in Britain, and the other four named are Frances Hui, Joey Siu, Fok Ka-chi, and Choi Ming-da. This is the second time Hong Kong police have offered rewards to catch those accused of national security crimes. The United States, Australia, and Britain, where some of the accused activists now reside, have condemned this move from the Hong Kong government, with Washington calling it a "dangerous precedent."
+
+Fri, 15 Dec 2023 05:00:23 +0000
+### [Indian-American Sikh leader says no support for Khalistan movement in US](https://theprint.in/world/indian-american-sikh-leader-says-no-support-for-khalistan-movement-in-us/1886964/)
+
+The prominent Indian-American Sikh leader, Jassee Singh, stated that there is no support for the Khalistan movement in the US, and he urged the Modi government to provide a comprehensive developmental package for Punjab. He also highlighted that the majority of Sikhs do not support the Khalistan movement but mentioned the need for the Modi government to address various Sikh issues and seek direct relationships with the community. Additionally, Singh discussed the recent American allegations concerning a plot to assassinate a separatist Sikh leader in the United States, emphasizing the need for bilateral understanding and a strong India-US relationship.
+
+Fri, 15 Dec 2023 05:00:13 +0000
+### [Pakistan needs to mend its relationship with India, says prominent Pakistani-American businessman](https://theprint.in/world/pakistan-needs-to-mend-its-relationship-with-india-says-prominent-pakistani-american-businessman/1886963/)
+
+The prominent Pakistani-American businessman, Sajid Tarar, emphasized the need for Pakistan's leadership to overcome their fear of losing political equity and goodwill if they improve ties with India. He stressed that Prime Minister Narendra Modi is a strong leader and Pakistan should take bold steps to build trust with India, especially in areas like trade, tourism, education, health, and countering cross-border terrorism concerns. Additionally, he highlighted the importance of balancing ties with China and improving relations with Afghanistan and Iran. Tarar also discussed the internal challenges faced by Pakistan, including political instability and economic crisis, and expressed hope for the country's future.
+
+Fri, 15 Dec 2023 05:00:03 +0000
+### [South African pitches are suiting spinners in ongoing tour, says Kuldeep after picking fifer](https://theprint.in/sport/south-african-pitches-are-suiting-spinners-in-ongoing-tour-says-kuldeep-after-picking-fifer/1886962/)
+
+Article found but Couldn't summarize 
+Johannesburg, Dec 15 (PTI) Surprised by the spin on offer during the third T20I at The Wanderers here, Kuldeep Yadav said the South African wickets, generally known for their pace and bounce, are also suiting spinners in the ongoing tour. Kuldeep had a perfect 29th birthday on Thursday as he became only the second Indian [&#8230;]
+
+Fri, 15 Dec 2023 04:53:55 +0000
+### [Parliament security breach was ‘part of larger conspiracy’, say police. Terror charge invoked](https://theprint.in/india/parliament-security-breach-was-part-of-larger-conspiracy-say-police-terror-charge-invoked/1886848/)
+
+The security breach during the ongoing winter session of the Parliament has been described as a part of a larger conspiracy. The accused allegedly planned the attack to protest against unemployment and PM Modi's silence on key issues. The group of accused had met two times before carrying out the plan in Delhi. The accused had connected digitally on Meta and were part of several other protests, including farmers' agitations. The source of their funds is under investigation, and the accused have been booked under the Unlawful Activities (Prevention) Act (UAPA).
+
+Fri, 15 Dec 2023 04:47:11 +0000
+### [PlasmaGen Biosciences completes INR 225 crores equity financing to drive growth from its state-of-the-art manufacturing facility for plasma products](https://theprint.in/ani-press-releases/plasmagen-biosciences-completes-inr-225-crores-equity-financing-to-drive-growth-from-its-state-of-the-art-manufacturing-facility-for-plasma-products/1886956/)
+
+Article found but Couldn't summarize 
+PRNewswire Bengaluru (Karnataka) [India], December 15: PlasmaGen Biosciences (&#8216;PlasmaGen&#8217;), a biopharmaceutical company focused on blood plasma-derived pharmaceutical products for India and emerging markets, announced that it has raised 225 crores from UK based Artian Investments, prominent public market investor Ashish Kacholia, pharmaceutical entrepreneurs Anurag Bagaria and Dushyant Patel and other noteable HNI investors. Along with [&#8230;]
+
+Fri, 15 Dec 2023 04:47:02 +0000
+### [Tiffany Haddish facing DUI charges after arrest](https://theprint.in/feature/tiffany-haddish-facing-dui-charges-after-arrest/1886954/)
+
+Article found but Couldn't summarize 
+Los Angeles [US], December 15 (ANI): Controversies and comedian Tiffany Haddish go hand-in-hand. Haddish has been charged in her second Driving under the influence (DUI) case following her arrest last month after allegedly being found asleep behind the wheel of a car, which wasn&#8217;t moving but was blocking a roadway in Beverly Hills, The Hollywood [&#8230;]
+
+Fri, 15 Dec 2023 04:46:29 +0000
+### [Soccer-Rangers clear the bar with win over Betis](https://theprint.in/sport/soccer-rangers-clear-the-bar-with-win-over-betis/1886952/)
+
+Article found but Couldn't summarize 
+(Reuters) - Rangers picked the perfect time to record their first win over Spanish opposition in Spain on Thursday after the Scottish side stunned Real Betis 3-2 in Seville and snatched the top spot
+
+Fri, 15 Dec 2023 04:46:10 +0000
+### [Australian regulator flags power supply risks as coal-fired plants close](https://theprint.in/environment/australian-regulator-flags-power-supply-risks-as-coal-fired-plants-close/1886950/)
+
+Article found but Couldn't summarize 
+By Renju Jose SYDNEY (Reuters) - Australia runs the risk of insufficient grid capacity by the middle of next decade as coal-fired power plants get retired earlier and replacement falls behind, the
+
+Fri, 15 Dec 2023 04:45:52 +0000
+### [Actor Andre Braugher had been diagnosed with lung cancer months before death -publicist](https://theprint.in/entertainment/actor-andre-braugher-had-been-diagnosed-with-lung-cancer-months-before-death-publicist/1886948/)
+
+Article found but Couldn't summarize 
+By Steve Gorman LOS ANGELES (Reuters) - Emmy-winning actor Andre Braugher, best known for two television roles playing cops - one dramatic, the other comedic - was diagnosed with lung cancer months
+
+Fri, 15 Dec 2023 04:45:34 +0000
+### [India’s Adani Ports to sell Ennore terminal stake to MSC unit for $30 million](https://theprint.in/economy/indias-adani-ports-to-sell-ennore-terminal-stake-to-msc-unit-for-30-million/1886946/)
+
+Article found but Couldn't summarize 
+BENGALURU (Reuters) - India's Adani Ports on Friday said it will sell a 49% stake in its Ennore Container Terminal located in the southern city of Chennai to a unit of global shipping giant
+
+Fri, 15 Dec 2023 04:45:17 +0000
+### [Turkey strongly condemns Israeli raid on Jenin, calls for accountability](https://theprint.in/world/turkey-strongly-condemns-israeli-raid-on-jenin-calls-for-accountability/1886943/)
+
+Article found but Couldn't summarize 
+ANKARA (Reuters) - Turkey strongly condemns "provocations" by Israeli forces during raids on a refugee camp in the occupied West Bank city of Jenin and the desecration of a mosque there, Turkey's
+
+Fri, 15 Dec 2023 04:45:03 +0000
+### [Indian shares scale new peaks as Fed-fuelled rally extends](https://theprint.in/india/indian-shares-scale-new-peaks-as-fed-fuelled-rally-extends/1886941/)
+
+Article found but Couldn't summarize 
+By Bharath Rajeswaran BENGALURU (Reuters) -India's benchmark Nifty 50 and Sensex indexes rose to new all-time highs on Friday, potentially setting the stage for their longest joint weekly winning
+
+Fri, 15 Dec 2023 04:32:12 +0000
+### [Bullish run continues as stock market opens on high note](https://theprint.in/economy/bullish-run-continues-as-stock-market-opens-on-high-note/1886937/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 15 (ANI): In a continuation of the positive and upward momentum, the stock market opened on a high note on Friday, with both the Sensex and Nifty poised for sustained upward momentum. The optimism is fueled by positive global market conditions and expectations of an accommodative monetary policy from the US [&#8230;]
+
+Fri, 15 Dec 2023 04:32:01 +0000
+### [Millions of people in China dropping out of state health insurance: VOA Report](https://theprint.in/world/millions-of-people-in-china-dropping-out-of-state-health-insurance-voa-report/1886935/)
+
+Article found but Couldn't summarize 
+Beijing [China], December 15 (ANI): Millions of people in China are dropping out of state health insurance, according to a report by Voice of America (VOA). VOA is a US state-owned news network and international radio broadcaster. As per statistics released by China&#8217;s National Healthcare Security Administration, in 2022, China had 1.34 billion people enrolled [&#8230;]
+
+Fri, 15 Dec 2023 04:30:19 +0000
+### [Article 370 chapter is closed. Time for US-China to show they can learn, unlike Pakistan](https://theprint.in/opinion/article-370-chapter-is-closed-time-for-us-china-to-show-they-can-learn-unlike-pakistan/1886532/)
+
+Article found but Couldn't summarize 
+POK is India’s gateway that will link Asia to the Middle East and Europe. It's advantage India now as an economically bankrupt Pakistan isn't of much use to either China or US.
+
+Fri, 15 Dec 2023 04:30:03 +0000
+### [Police grill friend of key accused in Parliament security breach in Bengal](https://theprint.in/india/police-grill-friend-of-key-accused-in-parliament-security-breach-in-bengal/1886934/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 15 (PTI) Police have questioned a friend of Lalit Mohan Jha, a key accused in the Parliament security breach incident, for hours in West Bengal&#8217;s North 24 Parganas district, an officer said. A team from Barrackpore Police Commissionerate visited Nilakahya Aich&#8217;s Halisahar residence on Thursday and asked him about his acquaintance with Jha [&#8230;]
+
 Fri, 15 Dec 2023 04:16:58 +0000
 ### [US, UK, Canada & Australia top study destinations for Indian students, shows Immigration Bureau data](https://theprint.in/india/us-uk-canada-australia-top-study-destinations-for-indian-students-shows-immigration-bureau-data/1886430/)
 

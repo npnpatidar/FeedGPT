@@ -1,3 +1,16 @@
+Fri, 15 Dec 2023 10:20:23 +0530
+### [Banking on it: Elon Musk’s X receives major money transfer license, to start payment services soon](https://www.firstpost.com/tech/banking-on-it-elon-musks-x-receives-major-money-transfer-license-to-start-payment-services-soon-13505752.html)
+
+Elon Musk's social media platform, X, has secured a money-transmitter license in Pennsylvania, marking its 13th such license in the United States. This approval brings X closer to Musk's vision of transforming the platform into an all-encompassing "everything app," positioning it as a major competitor to Paypal. The license empowers X to facilitate money transfers, enabling users to send money to one another similar to platforms like PayPal's Venmo.
+
+Musk envisions X as a messaging platform and a hub for various financial activities, including payments, taxi hailing, and merchant transactions. The platform aims to roll out new financial features by the end of next year, with longer-term plans including the potential introduction of a debit card and money-market accounts. However, the process of offering payment services nationwide involves obtaining approval from each US state, which may take up to 18 months and incur substantial costs.
+
+X's expansion into financial services is seen as a strategic move to diversify its revenue streams beyond digital advertising, which faced setbacks following Musk's acquisition of Twitter. Overcoming challenges related to Musk's controversial statements and unpredictable decision-making is crucial for the success of X's foray into payments. The platform's future plans may involve obtaining a bank charter or forming a partnership with an existing bank to hold users' funds, posing additional regulatory challenges.
+
+Overall, X's progress in obtaining money-transmitter licenses and its plans for financial services represent significant developments that align with Elon Musk's broader vision for the platform.
+
+Please note that this summary is based on the information provided in the article you provided.
+
 Thu, 14 Dec 2023 17:22:48 +0530
 ### [EU may force delivery aggregators, others, to treat gig workers as full-time employees](https://www.firstpost.com/tech/eu-may-force-delivery-aggregators-others-to-treat-gig-workers-as-full-time-employees-13504152.html)
 

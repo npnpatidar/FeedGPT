@@ -1,3 +1,8 @@
+Fri, 15 Dec 2023 10:30:00 +0530
+### [Counting scientists’ productivity with numbers undermines science | Explained](https://www.thehindu.com/sci-tech/science/measuring-scientists-productivity-numbers-undermines-science/article67629745.ece)
+
+The article discusses the recent ranking of the top 2% of scientists by citation impact, based on standardized citation metrics across various scientific disciplines. It explains the six citation indicators used in this ranking system and discusses the use of scientometric indicators to quantify scientific achievement. The article raises concerns about the limitations of numerical measures in evaluating scientific productivity, such as the inability to assess the quality or impact of scientific work and the overvaluation of publication and citation numbers. It also highlights the potential influence of quantitative indicators on academic decisions and the need to consider scientists' other responsibilities beyond research. Ultimately, the article emphasizes the importance of reading the actual science to evaluate scientists' work.
+
 Thu, 14 Dec 2023 22:39:19 +0530
 ### [Is Russia winning the Ukraine war? | Explained](https://www.thehindu.com/news/international/is-russia-winning-the-ukraine-war-explained/article67639356.ece)
 

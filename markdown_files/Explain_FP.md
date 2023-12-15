@@ -1,3 +1,8 @@
+Fri, 15 Dec 2023 10:23:08 +0530
+### [It's Shopping Season: Why businesses use Christmas music to convince you to spend more](https://www.firstpost.com/explainers/why-businesses-use-christmas-music-to-convince-you-to-spend-more-13501272.html)
+
+The article discusses the influence of music on holiday season shopping behaviors, particularly in the context of Christmas adverts by major retailers. It examines the use of nostalgic and emotional music, such as 1980s and 1990s popular hits, as a marketing tool to evoke emotional appeal and influence consumer spending. The author explores the impact of music on impulse buying, brand loyalty, and the overall shopping experience, shedding light on the psychological and marketing strategies behind the use of music in holiday advertising.
+
 Fri, 15 Dec 2023 09:48:31 +0530
 ### [Parliament security breach: How mastermind Lalit Jha evaded cops before surrendering](https://www.firstpost.com/explainers/parliament-security-breach-how-mastermind-lalit-jha-evaded-cops-before-surrendering-13505582.html)
 

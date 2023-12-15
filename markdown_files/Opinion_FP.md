@@ -1,3 +1,9 @@
+Fri, 15 Dec 2023 10:07:01 +0530
+### [Vantage | Why global luxury's beeline is about India growth story](https://www.firstpost.com/opinion/vantage-why-global-luxurys-beeline-is-about-india-growth-story-13504292.html)
+
+Article found but Couldn't summarize 
+Vantage | Why global luxury's beeline is about India growth story
+
 Thu, 14 Dec 2023 21:08:59 +0530
 ### [Modi is already 10-1 ahead before 2024 polls, can the Opposition catch up?](https://www.firstpost.com/opinion/modi-is-already-10-1-ahead-before-2024-polls-can-the-opposition-catch-up-13504862.html)
 

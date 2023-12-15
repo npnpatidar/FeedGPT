@@ -1,3 +1,14 @@
+Fri, 15 Dec 2023 10:14:43 +0530
+### [Higher for longer? What's that, asks the Fed](https://www.livemint.com/opinion/first-person/higher-for-longer-whats-that-asks-the-fed-11702614864651.html)
+
+Article found but Couldn't summarize 
+Global equity and bond markets have been on a tear since Fed chair Jerome Powell’s dovish turn this month, which will force other central banks to pivot as well.
+
+Fri, 15 Dec 2023 10:00:08 +0530
+### [Rich countries’ hypocrisy and chicanery was in full show at COP28](https://www.livemint.com/opinion/online-views/rich-countries-hypocrisy-and-chicanery-was-in-full-show-at-cop28-11702562238027.html)
+
+The article discusses the Dubai climate summit, COP28, and its declaration calling for a transition away from fossil fuels. It highlights the gap between commitments and actions in reducing emissions, as well as the challenges in meeting the 1.5 degrees Celsius warming limit. The author emphasizes the necessity of carbon dioxide removal (CDR) technologies, such as carbon capture, storage, and use (CCUS), as well as the need for the rich world to invest in these technologies. Additionally, it points out the disparity in CO2 emissions per capita between the rich world and the Global South, advocating for support in energy transition for the latter.
+
 Fri, 15 Dec 2023 08:00:05 +0530
 ### [The Judiciary has given India a better chance to emerge as an arbitration hub](https://www.livemint.com/opinion/online-views/the-judiciary-has-given-india-a-better-chance-to-emerge-as-an-arbitration-hub-11702561945679.html)
 
