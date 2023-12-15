@@ -1,3 +1,79 @@
+Fri, 15 Dec 2023 20:45:12 +0000
+### [Russian forces destroy 26 Ukrainian drones over Crimea, defence ministry says](https://theprint.in/world/russian-forces-destroy-26-ukrainian-drones-over-crimea-defence-ministry-says/1888296/)
+
+Article found but Couldn't summarize 
+(Reuters) - Russian anti-aircraft units destroyed 26 Ukrainian drones over the Crimean peninsula on Friday, the Russian Defence Ministry said on Telegram. A ministry statement said the interceptions
+
+Fri, 15 Dec 2023 20:45:04 +0000
+### [Al Jazeera says cameraman killed in Gaza by drone strike on school building](https://theprint.in/world/al-jazeera-says-cameraman-killed-in-gaza-by-drone-strike-on-school-building/1888295/)
+
+Samer Abu Daqqa, a cameraman for Al Jazeera, was killed by a drone strike while reporting on the bombing of a school being used as a shelter for displaced people in the southern Gaza Strip. The incident resulted in the death of Abu Daqqa and three Gazan rescue workers. Al Jazeera stated that Israeli drones fired missiles at the school, and the Committee to Protect Journalists has reported at least 64 reporters and media workers killed in the two months of war in Gaza. There are calls for an independent investigation into the attack to hold the perpetrators to account.
+
+Fri, 15 Dec 2023 20:30:05 +0000
+### [Soccer-Al Ahly thrash Al-Ittihad in Club World Cup to book Fluminense semi-final](https://theprint.in/sport/soccer-al-ahly-thrash-al-ittihad-in-club-world-cup-to-book-fluminense-semi-final/1888293/)
+
+Article found but Couldn't summarize 
+JEDDAH (Reuters) - Egypt's Al Ahly cruised to a 3-1 win over Al-Ittihad on Friday to book a place in the Club World Cup semi-finals after Karim Benzema missed a penalty before scoring for the Saudi
+
+Fri, 15 Dec 2023 20:17:01 +0000
+### [IDF ‘mistakenly’ kills three Israeli hostages in Gaza](https://theprint.in/world/idf-mistakenly-kills-three-israeli-hostages-in-gaza/1888291/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], December 16 (ANI): The Israeli Defense Forces (IDF) killed three of its hostages after opening fire on them, mistakenly identifying them as &#8216;threats&#8217;, Times of Israel reported citing IDF spokesperson Daniel Hagari. Hagari said the IDF bears responsibility for the &#8220;tragic incident.&#8221; &#8220;This is an area where the soldiers encountered many terrorists, [&#8230;]
+
+Fri, 15 Dec 2023 20:16:33 +0000
+### [Soccer-Squad size at next Africa Cup of Nations finals will be 27 per team](https://theprint.in/sport/soccer-squad-size-at-next-africa-cup-of-nations-finals-will-be-27-per-team/1888290/)
+
+Article found but Couldn't summarize 
+CAIRO (Reuters) - Teams at next month's Africa Cup of Nations finals will be able to select 27 players for the tournament in the Ivory Coast, the Confederation of African Football said on Friday. It
+
+Fri, 15 Dec 2023 20:16:17 +0000
+### [France to review actor Depardieu’s Legion d’Honneur medal following allegations](https://theprint.in/entertainment/france-to-review-actor-depardieus-legion-dhonneur-medal-following-allegations/1888288/)
+
+Article found but Couldn't summarize 
+PARIS (Reuters) - French actor Gerard Depardieu's Legion d'Honneur medal is under review following a string of allegations about sexual aggression and a TV documentary in which he was heard making
+
+Fri, 15 Dec 2023 20:16:08 +0000
+### [New York’s Met museum returns Southeast Asian artifacts tied to looting](https://theprint.in/entertainment/new-yorks-met-museum-returns-southeast-asian-artifacts-tied-to-looting/1888286/)
+
+Article found but Couldn't summarize 
+(Reuters) - The Metropolitan Museum of Art in New York City said on Friday that it would return 14 sculptures to Cambodia and two to Thailand that were associated with an art dealer who was charged
+
+Fri, 15 Dec 2023 20:15:58 +0000
+### [US stocks inch higher, dollar rebounds as rate cut fever wanes](https://theprint.in/economy/us-stocks-inch-higher-dollar-rebounds-as-rate-cut-fever-wanes/1888284/)
+
+Article found but Couldn't summarize 
+By Stephen Culp NEW YORK (Reuters) -U.S. stocks were mixed while the dollar rebounded and Treasury yields steadied near multi-month lows on Friday as market participants caught their breath near the
+
+Fri, 15 Dec 2023 20:15:48 +0000
+### [Oil prices take a small loss in seesaw session](https://theprint.in/economy/oil-prices-take-a-small-loss-in-seesaw-session/1888282/)
+
+Article found but Couldn't summarize 
+By Erwin Seba HOUSTON (Reuters) -Brent and U.S. crude futures finished at a small loss following a see-saw session, in which prices fell more than $1 a barrel at one point on Friday, as traders tried
+
+Fri, 15 Dec 2023 20:15:34 +0000
+### [More asylum seekers rushed to Finland from Russia before border reclosure](https://theprint.in/world/more-asylum-seekers-rushed-to-finland-from-russia-before-border-reclosure/1888280/)
+
+Article found but Couldn't summarize 
+By Essi Lehto and Anne Kauranen HELSINKI (Reuters) -Finland closed again its border with Russia on Friday evening at 1800 GMT for a month, after more than 300 asylum seekers entered from Russia within
+
+Fri, 15 Dec 2023 20:15:24 +0000
+### [Mexican president urges Argentines to peacefully resist Milei](https://theprint.in/world/mexican-president-urges-argentines-to-peacefully-resist-milei/1888278/)
+
+Article found but Couldn't summarize 
+MEXICO CITY (Reuters) - Mexico's leftist leader on Friday recommended that Argentines peacefully protest the new government of radical libertarian President Javier Milei, who took office last week
+
+Fri, 15 Dec 2023 20:15:15 +0000
+### [US envoy hints at disagreement with Israel over timing to scale down war](https://theprint.in/world/us-envoy-hints-at-disagreement-with-israel-over-timing-to-scale-down-war/1888276/)
+
+Article found but Couldn't summarize 
+By Nidal al-Mughrabi and Fadi Shana CAIRO/GAZA (Reuters) -The United States hinted on Friday at disagreement with Israel over how quickly to scale down the war in Gaza, with President Joe Biden's
+
+Fri, 15 Dec 2023 20:15:03 +0000
+### [India to allow diversion of up to 1.7 million tons of sugar for ethanol](https://theprint.in/india/india-to-allow-diversion-of-up-to-1-7-million-tons-of-sugar-for-ethanol/1888274/)
+
+As an AI language model, I can provide a summary of the article you shared. India has decided to allow sugar mills to divert up to 1.7 million metric tons of sugar for ethanol production. This decision aims to reduce disruptions in India's biofuel program. Previously, sugar mills were directed not to use cane juice or syrup for ethanol due to concerns over production. However, the government has now permitted the diversion of cane juice and B-heavy molasses for ethanol production. This diversion is capped at 1.7 million metric tons for the 2023/24 marketing year. Uneven rainfall in sugar cane-growing states has raised concerns about this year's output, leading to anticipated production decreases and higher local sugar prices.
+
 Fri, 15 Dec 2023 20:02:02 +0000
 ### [Hungary blocks USD 54 billion aid for Ukraine](https://theprint.in/world/hungary-blocks-usd-54-billion-aid-for-ukraine/1888272/)
 
