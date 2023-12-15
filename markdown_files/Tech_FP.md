@@ -1,3 +1,15 @@
+Fri, 15 Dec 2023 17:18:35 +0530
+### [Working on robotic arm for Chandrayaan-4, mission will be more daunting than Ch-3, reveals ISRO Chief](https://www.firstpost.com/tech/working-on-robotic-arm-for-chandrayaan-4-mission-will-be-more-daunting-than-ch-3-reveals-isro-chief-13508032.html)
+
+Article found but Couldn't summarize 
+Working on robotic arm for Chandrayaan-4, mission will be more daunting than Ch-3, reveals ISRO Chief
+
+Fri, 15 Dec 2023 16:52:23 +0530
+### [Samsung launches Galaxy Book 4 Series with Intel Ultra Core AI CPUs, RTX 4000 GPUs; Check specs, availability](https://www.firstpost.com/tech/samsung-launches-galaxy-book-4-series-with-intel-ultra-core-ai-cpus-rtx-4000-gpus-check-specs-availability-13507952.html)
+
+Article found but Couldn't summarize 
+Samsung launches Galaxy Book 4 Series with Intel Ultra Core AI CPUs, RTX 4000 GPUs; Check specs, availability
+
 Fri, 15 Dec 2023 16:01:52 +0530
 ### [Apple is seriously considering foldable tablets, but will launch OLED iPads, MacBooks first](https://www.firstpost.com/tech/apple-is-seriously-considering-foldable-tablets-but-will-launch-oled-ipads-macbooks-first-13507542.html)
 

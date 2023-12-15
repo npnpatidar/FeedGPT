@@ -1,3 +1,8 @@
+Fri, 15 Dec 2023 11:26:07 +0000
+### [Why India’s green push needs balancing, why COP28 coal breather is important](https://indianexpress.com/article/explained/explained-economics/india-coal-renewable-energy-storage-9069676/)
+
+Article found but Couldn't summarize
+
 Fri, 15 Dec 2023 11:06:08 +0000
 ### [Maldives to not renew 2019 water survey pact with India: What happens under hydrographic pacts?](https://indianexpress.com/article/explained/everyday-explainers/maldives-survey-pact-india-hydrographic-explained-9069657/)
 

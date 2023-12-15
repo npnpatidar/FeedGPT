@@ -1,3 +1,21 @@
+Fri, 15 Dec 2023 17:44:27 +0530
+### [Vantage | What do Russia's Indian Ocean military drills mean for India?](https://www.firstpost.com/opinion/vantage-what-do-russias-indian-ocean-military-drills-mean-for-india-13507462.html)
+
+Article found but Couldn't summarize 
+Vantage | What do Russia's Indian Ocean military drills mean for India?
+
+Fri, 15 Dec 2023 17:22:28 +0530
+### [Colombo Security Conclave: Decoding Maldivian absence in an India-centric forum](https://www.firstpost.com/opinion/colombo-security-conclave-finding-meanings-behind-maldivian-absence-in-an-india-centric-forum-13507902.html)
+
+Article found but Couldn't summarize 
+Colombo Security Conclave: Decoding Maldivian absence in an India-centric forum
+
+Fri, 15 Dec 2023 16:54:20 +0530
+### [FBI chief Christopher Wray should have focused on Pakistan, not Pannun](https://www.firstpost.com/opinion/fbi-chief-christopher-wray-should-have-focused-on-pakistan-not-pannun-13507862.html)
+
+Article found but Couldn't summarize 
+FBI chief Christopher Wray should have focused on Pakistan, not Pannun
+
 Fri, 15 Dec 2023 16:21:41 +0530
 ### [Vantage | What Pakistan Army chief can hope to bring back from his US visit](https://www.firstpost.com/opinion/vantage-what-pakistan-army-chief-can-hope-to-bring-back-from-his-us-visit-13507252.html)
 

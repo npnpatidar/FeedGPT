@@ -1,3 +1,123 @@
+Fri, 15 Dec 2023 12:31:28 +0000
+### [Start-up executive ends life in Noida office, probe on](https://theprint.in/india/start-up-executive-ends-life-in-noida-office-probe-on/1887713/)
+
+Article found but Couldn't summarize 
+Noida, Dec 15 (PTI) A start-up executive was found dead in her office here in a suspected case of suicide, police said on Friday. The 27-year-old executive, a resident of Delhi&#8217;s Burari area, was found hanging from the ceiling in the hall of her office, they said. &#8220;The executive had on Thursday come to her [&#8230;]
+
+Fri, 15 Dec 2023 12:31:17 +0000
+### [‘Over 32 Cr people have been screened for oral, breast, cervical cancer at Ayushman Arogya Mandirs’](https://theprint.in/india/over-32-cr-people-have-been-screened-for-oral-breast-cervical-cancer-at-ayushman-arogya-mandirs/1887712/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) A total of 1,63,273 Ayushman Arogya Mandir are operational across the country, where 18.46 crore people have been screened for oral cancer, 8.88 crore for breast cancer and 4.96 crore for cervical cancer, the government informed Parliament on Friday. In a written response to a question in the Lok Sabha, [&#8230;]
+
+Fri, 15 Dec 2023 12:31:06 +0000
+### [e-Buses in Ladakh completes one year; sets example in fight against climate change](https://theprint.in/india/e-buses-in-ladakh-completes-one-year-sets-example-in-fight-against-climate-change/1887710/)
+
+Article found but Couldn't summarize 
+Leh/Kargil, Dec 15 (PTI) Notwithstanding the harsh climatic conditions, Ladakh has successfully embraced the services of 19 electric buses for over a year now, cumulatively covering over 10.50 lakh kilometres and curbing carbon dioxide emissions by an estimated 25.20 lakh kilograms, officials said. The eBuses from PMI Electro Mobility Solutions were introduced in Leh and [&#8230;]
+
+Fri, 15 Dec 2023 12:30:56 +0000
+### [Investors richer by Rs 8 lakh crore in 3 days; mcap of BSE firms jumps to record high of Rs 357.87 lakh crore](https://theprint.in/economy/investors-richer-by-rs-8-lakh-crore-in-3-days-mcap-of-bse-firms-jumps-to-record-high-of-rs-357-87-lakh-crore/1887709/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) Equity investors became richer by Rs 8.11 lakh crore in three days of market rally that saw the benchmark Sensex breaching the 71,000-mark for the first time on Friday. The US Federal Reserve keeping its key interest rate unchanged and signalling rate cuts next year, along with continuous foreign fund [&#8230;]
+
+Fri, 15 Dec 2023 12:30:46 +0000
+### [India, Bangladesh share emotional bonding: Lt Gen Kalita](https://theprint.in/india/india-bangladesh-share-emotional-bonding-lt-gen-kalita/1887708/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 15 (PTI) Eastern Army Commander Lt General Rana Pratap Kalita on Friday said India and Bangladesh have an emotional bonding along with historical and geographical linkages. The General Officer Commanding-in-Chief of the Eastern Army Command also said the two countries are working together for the development of Bangladesh as a prosperous nation. &#8220;India [&#8230;]
+
+Fri, 15 Dec 2023 12:30:36 +0000
+### [Jharkhand guv returns 1932 domicile Bill for reconsideration, Speaker informs House](https://theprint.in/india/jharkhand-guv-returns-1932-domicile-bill-for-reconsideration-speaker-informs-house/1887707/)
+
+Article found but Couldn't summarize 
+Ranchi, Dec 15 (PTI) Jharkhand Assembly Speaker Rabindra Nath Mahto on Friday informed the House that Governor CP Radhakrishnan has returned the Bill regarding the use of 1932 land records to determine domicile status for reconsideration. The five-day winter session of the assembly began on Friday. The House assembled for a brief period and was [&#8230;]
+
+Fri, 15 Dec 2023 12:30:25 +0000
+### [India challenges WTO panel ruling in favour of EU on ICT import duties](https://theprint.in/economy/india-challenges-wto-panel-ruling-in-favour-of-eu-on-ict-import-duties/1887706/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) India has appealed against a ruling of the World Trade Organization&#8217;s (WTO) trade dispute settlement panel in a case filed by the European Union against New Delhi&#8217;s import duties on nine information and technology products. India&#8217;s move came after both regions were not able to arrive at a mutually agreeable [&#8230;]
+
+Fri, 15 Dec 2023 12:30:13 +0000
+### [Kerala CM accuses Congress of creating false narratives against Nava Kerala Sadas](https://theprint.in/india/kerala-cm-accuses-congress-of-creating-false-narratives-against-nava-kerala-sadas/1887705/)
+
+Article found but Couldn't summarize 
+Alappuzha (Ker), Dec 15 (PTI) Kerala Chief Minister Pinarayi Vijayan on Friday accused the Congress of disseminating false narratives about his government&#8217;s outreach programme &#8216;Nava Kerala Sadas&#8217; and dismissed allegations that he insulted Kerala Congress (M) MP Thomas Chazhikadan during a recent event. The Chief Minister&#8217;s statement came in response to the opposition Congress, which [&#8230;]
+
+Fri, 15 Dec 2023 12:30:08 +0000
+### [SubscriberWrites: Lowering the age of consent – a mom’s view](https://theprint.in/yourturn/subscriberwrites-lowering-the-age-of-consent-a-moms-view/1887700/)
+
+Article found but Couldn't summarize 
+In a recent judgement, the Allahabad High Court observed that the POCSO act was never meant to criminalise consensual romantic relationships between adolescents.
+
+Fri, 15 Dec 2023 12:30:03 +0000
+### [Pak court notice to top election body on ex-PM Imran Khan’s plea challenging disqualification in Toshakhana graft case](https://theprint.in/world/pak-court-notice-to-top-election-body-on-ex-pm-imran-khans-plea-challenging-disqualification-in-toshakhana-graft-case-2/1887702/)
+
+Article found but Couldn't summarize 
+Lahore, Dec 15 (PTI) The Lahore High Court on Friday issued notice to Pakistan’s top election body on former prime minister Imran Khan’s plea challenging his five-year disqualification in the Toshakhana corruption case which would prevent him from contesting general elections in February. A five-member bench also said it would first decide on the jurisdiction [&#8230;]
+
+Fri, 15 Dec 2023 12:25:44 +0000
+### [SubscriberWrites: NO PASSWORD NEEDED FOR SCREAMING!](https://theprint.in/yourturn/subscriberwrites-no-password-needed-for-screaming/1887655/)
+
+Article found but Couldn't summarize 
+Heavy metal is, in my opinion, a very noisy kind of music for which millions of teenagers are crazy.
+
+Fri, 15 Dec 2023 12:17:51 +0000
+### [Japan strengthens security partnerships with ASEAN nations to contain China: Analysts](https://theprint.in/world/japan-strengthens-security-partnerships-with-asean-nations-to-contain-china-analysts/1887691/)
+
+Article found but Couldn't summarize 
+Washington DC [US], December 15 (ANI):Japan has been enhancing its security ties with various Southeast Asian nations ahead of a Japan-ASEAN summit that is scheduled to be held in Tokyo from December 16-18. According to analysts, this forum is being held to offset China&#8217;s aggressive behaviour in the region, VOA News reported. Japan will host [&#8230;]
+
+Fri, 15 Dec 2023 12:17:41 +0000
+### [DOOWUP by HomeLane Launches Its First-Ever Store in Jamshedpur in Collaboration with BNR Homes](https://theprint.in/ani-press-releases/doowup-by-homelane-launches-its-first-ever-store-in-jamshedpur-in-collaboration-with-bnr-homes/1887689/)
+
+Article found but Couldn't summarize 
+BusinessWire India Jamshedpur (Jharkhand) [India], December 15: HomeLane, a leader in personalized home interiors, is excited to announce the grand opening of its first-ever DOOWUP store in Jamshedpur, in partnership with BNR Homes. This innovative store, spanning 700 square feet, marks a significant milestone as the first of its kind in the city, offering a [&#8230;]
+
+Fri, 15 Dec 2023 12:17:32 +0000
+### [Asia needs to decouple economic growth from carbon emissions, says ADB](https://theprint.in/economy/asia-needs-to-decouple-economic-growth-from-carbon-emissions-says-adb/1887687/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 15 (ANI): In an effort to mitigate the impacts of climate change, Asia and the Pacific region, accounting for a substantial 60 per cent of global CO2 emissions, confront the intricate task of decoupling economic growth from carbon-intensive practices. According to the Asian Development Bank (ADB), the pressing need for this [&#8230;]
+
+Fri, 15 Dec 2023 12:17:23 +0000
+### [Emami Marks Golden Milestone, Accomplishes 50 Glorious Years](https://theprint.in/ani-press-releases/emami-marks-golden-milestone-accomplishes-50-glorious-years/1887685/)
+
+Article found but Couldn't summarize 
+NewsVoir New Delhi [India], December 15: Emami Group, one of the leading diversified business conglomerates in India, proudly marks its 50th anniversary, commemorating five decades of delivering happiness to the nation. The celebration reflects the remarkable journey of Emami from a humble beginning of a personal care product manufacturing company in the by-lanes of Kolkata [&#8230;]
+
+Fri, 15 Dec 2023 12:17:12 +0000
+### [Tabu to Raveena Tandon, celebs congratulate ‘The Kapil Sharma Show’ fame Sugandha Mishra, Sanket Bhosale on baby girl](https://theprint.in/feature/tabu-to-raveena-tandon-celebs-congratulate-the-kapil-sharma-show-fame-sugandha-mishra-sanket-bhosale-on-baby-girl/1887683/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 15 (ANI): Popular singer and comedian Sugandha Mishra and her husband Sanket Bhosale have been blessed with a baby girl. The couple shared the news with their fans through a video in which Sugandha can be seen lying down on a hospital bed and Bhosale making an announcement about the arrival [&#8230;]
+
+Fri, 15 Dec 2023 12:17:01 +0000
+### [Sponsors Back the Idea of Inclusivity; Back the First-Ever Khelo India Para Games 2023](https://theprint.in/ani-press-releases/sponsors-back-the-idea-of-inclusivity-back-the-first-ever-khelo-india-para-games-2023/1887681/)
+
+Article found but Couldn't summarize 
+BusinessWire India New Delhi [India], December 15: Joining the celebrations of inclusivity in sports, sponsors are enthusiastically backing the first-ever Khelo India Para Games, a Ministry of Youth Affairs and Sports initiative driven by the vision of Prime Minister Narendra Modi to provide an inclusive sports ecosystem in the country. Deepali Sports, a division of [&#8230;]
+
+Fri, 15 Dec 2023 12:16:20 +0000
+### [Nothing changed in 11 years, crimes against women have not decreased, says Nirbhaya’s mother](https://theprint.in/india/nothing-changed-in-11-years-crimes-against-women-have-not-decreased-says-nirbhayas-mother/1887679/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 15 (PTI) &#8220;It has been 11 years and nothing has changed. We got justice with everyone&#8217;s cooperation but several cases are stuck in the lower court for 10 to 12 years,&#8221; said the mother of the 23-year-old paramedic student whose gang-rape and murder on December 16, 2012, had seared the nation&#8217;s soul. [&#8230;]
+
+Fri, 15 Dec 2023 12:16:09 +0000
+### [Coast Guard IG Bhisham Sharma visits Goa headquarters](https://theprint.in/india/coast-guard-ig-bhisham-sharma-visits-goa-headquarters/1887677/)
+
+Article found but Couldn't summarize 
+Panaji, Dec 15 (PTI) Inspector General Bhisham Sharma, Commander Coast Guard Region West, is on a two-day visit to the Coast Guard District Headquarters no11 in Goa, an official release said here. Sharma arrived in the state on his maiden official visit since taking over as IG on Thursday, the release said. Various operations and [&#8230;]
+
+Fri, 15 Dec 2023 12:16:03 +0000
+### [OpenAI CEO promotes crypto project Worldcoin after fundraising report](https://theprint.in/tech/openai-ceo-promotes-crypto-project-worldcoin-after-fundraising-report/1887676/)
+
+Article found but Couldn't summarize 
+By Elizabeth Howcroft and Martin Coulter LONDON (Reuters) - OpenAI CEO Sam Altman has doubled down on his vision for cryptocurrency project Worldcoin, following reports the company was seeking $50
+
 Fri, 15 Dec 2023 11:07:24 +0000
 ### [Kolkata to witness ‘1 lakh Gita recitations’ on 24 December, PM Modi to be chief guest](https://theprint.in/india/kolkata-to-witness-1-lakh-gita-recitations-on-24-december-pm-modi-to-be-chief-guest/1886225/)
 

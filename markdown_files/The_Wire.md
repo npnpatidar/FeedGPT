@@ -1,3 +1,21 @@
+2023-12-15T18:00:02+05:30
+### [As Telangana Govt Mulls Judicial Probe Into Recruitment Exam Leaks, Unemployment Crisis in Focus](https://thewire.in/rights/telangana-judicial-probe-recruitment-exam-leaks-unemployment-crisis)
+
+No Article text 
+In all, the Telangana State Public Service Commission cancelled 16 written exams for various posts in four categories because of various reasons – including leakage of papers.
+
+2023-12-15T17:30:09+05:30
+### [COP28 Agreement Suggests the Days of Fossil Fuels Are Numbered, but Climate Crisis Is Not Yet Averted](https://thewire.in/environment/cop28-agreement-suggests-the-days-of-fossil-fuels-are-numbered-but-climate-crisis-is-not-yet-averted)
+
+No Article text 
+Despite the diplomatic achievement of an agreement that looked unlikely only hours earlier, it’s still hard to say the international community is taking this enormous challenge as seriously as it should.
+
+2023-12-15T17:00:02+05:30
+### [Free Books and Classes: Behind UP Police's 'Conversion' Arrests of South Indian-Origin Social Workers](https://thewire.in/government/uttar-pradesh-police-religious-conversion-south-india)
+
+No Article text 
+In the last two weeks, police in eastern UP have arrested at least four persons hailing from south Indian states on charges of allegedly trying to convert backward caste and tribal people.
+
 2023-12-15T16:30:05+05:30
 ### [What Are the Unseen Effects of the Election Commissioner Bill on Electoral Governance](https://thewire.in/government/what-are-the-unseen-effects-of-the-election-commissioner-bill-on-electoral-governance)
 

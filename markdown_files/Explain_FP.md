@@ -1,3 +1,9 @@
+Fri, 15 Dec 2023 16:53:40 +0530
+### [Is Maldives' 'India Out' campaign becoming a reality?](https://www.firstpost.com/explainers/maldives-india-out-campaign-hydrographic-survey-pact-military-mohamed-muizzu-13507582.html)
+
+Article found but Couldn't summarize 
+Is Maldives' 'India Out' campaign becoming a reality?
+
 Fri, 15 Dec 2023 16:22:15 +0530
 ### [Inside ‘Operation 1027’, the anti-junta offensive in Myanmar](https://www.firstpost.com/explainers/inside-operation-1027-the-anti-junta-offensive-in-myanmar-13507682.html)
 

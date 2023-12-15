@@ -1,3 +1,13 @@
+Fri, 15 Dec 2023 12:13:06 +0000
+### [Long before Mahua Moitra, the first MP to face cash-for-query charges](https://indianexpress.com/article/opinion/columns/mahua-moitra-cash-for-query-charges-hg-mudgal-parliament-9069786/)
+
+Article found but Couldn't summarize
+
+Fri, 15 Dec 2023 11:25:13 +0000
+### [On menstrual leave, Smriti Irani and Constitution are on opposite sides](https://indianexpress.com/article/opinion/columns/on-menstrual-leave-smriti-irani-constitution-on-opposite-sides-9069652/)
+
+Article found but Couldn't summarize
+
 Fri, 15 Dec 2023 07:27:31 +0000
 ### [Four years after CAA protests, why Jamia students have lost faith in the system](https://indianexpress.com/article/opinion/columns/four-years-caa-protests-jamia-students-lost-faith-system-9069346/)
 
