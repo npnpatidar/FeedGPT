@@ -1,3 +1,9 @@
+Thu, 14 Dec 2023 21:59:05 +0530
+### [FirstUp: SC to hear Moitra plea, Modi-Shah in Rajasthan… today’s big news](https://www.firstpost.com/explainers/firstup-sc-to-hear-moitra-plea-modi-shah-in-rajasthan-todays-big-news-13504942.html)
+
+Article found but Couldn't summarize 
+FirstUp: SC to hear Moitra plea, Modi-Shah in Rajasthan… today’s big news
+
 Thu, 14 Dec 2023 20:49:21 +0530
 ### [What is hydrogen therapy developed by Chinese researchers that could reverse ageing?](https://www.firstpost.com/explainers/what-is-hydrogen-therapy-developed-by-chinese-researchers-that-could-reverse-ageing-13504722.html)
 

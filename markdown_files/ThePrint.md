@@ -1,3 +1,118 @@
+Fri, 15 Dec 2023 01:17:01 +0000
+### [Oman Sultan to arrive in India today for three-day state visit](https://theprint.in/world/oman-sultan-to-arrive-in-india-today-for-three-day-state-visit/1886825/)
+
+The article summarizes the state visit of the Head of State of the Sultanate of Oman, Sultan Haitham bin Tarik, to India. This visit, upon the invitation of President Droupadi Murmu, marks a significant milestone in the diplomatic relations between India and Oman. The visit will include meetings with Indian officials, a ceremonial welcome, and discussions about future collaboration for regional stability, progress, and prosperity. Additionally, it highlights the historical, cultural, and economic ties between the two countries, as well as the significant presence of the Indian expatriate community in Oman. The article also emphasizes the close defense partnership between India and Oman, with both countries conducting regular bilateral exercises and service-level staff talks. Furthermore, the article mentions India's special invitation to Oman to participate in the G20 Summit and meetings, along with Oman's active participation in various G20 ministerial meetings.
+
+Fri, 15 Dec 2023 01:15:32 +0000
+### [Exclusive-US official says eastern Congo ceasefire extended for two weeks](https://theprint.in/world/exclusive-us-official-says-eastern-congo-ceasefire-extended-for-two-weeks/1886824/)
+
+Article found but Couldn't summarize 
+By Trevor Hunnicutt WASHINGTON (Reuters) -The parties to a ceasefire in parts of the eastern Democratic Republic of Congo (DRC) have agreed to a two-week extension, according to a senior U.S. official
+
+Fri, 15 Dec 2023 01:15:22 +0000
+### [Aborted test and missing parts add to European space woes](https://theprint.in/world/aborted-test-and-missing-parts-add-to-european-space-woes/1886822/)
+
+The European Space Agency (ESA) has experienced delays and setbacks with its Vega and Ariane rocket programs. The final flight of Italy's Vega rocket has been delayed to September 2024 after crucial parts went missing, and its latest test of the new Ariane 6 was aborted. The missing parts of the Vega rocket were found "crushed" and unusable in a landfill. The plan is to adapt slightly larger tanks designed for the Vega C model. Additionally, a hot-firing test of the upper stage of the Ariane 6 was aborted, but it is not expected to delay the inaugural launch scheduled for mid-2024. Despite these setbacks, ESA is working to restore independent access to space.
+
+Fri, 15 Dec 2023 01:15:12 +0000
+### [Argentine economy likely already in recession, analysts say](https://theprint.in/world/argentine-economy-likely-already-in-recession-analysts-say/1886820/)
+
+The article discusses Argentina's economy entering a technical recession in the third quarter, likely contracting by 0.7% due to lower grain sales, reduced consumption, and a decline in industrial activity. The country is also facing stagflation, with high inflation and a potential increase in the poverty rate. The economic situation was further impacted by political uncertainty, sharp currency devaluations, and a major drought affecting the grains sector. Argentina's GDP data for the third quarter will be published by the official statistics agency on Friday at 4 p.m. (1900 GMT).
+
+Fri, 15 Dec 2023 01:15:03 +0000
+### [US stresses safety for Gaza civilians as Israel unrelenting in attacks](https://theprint.in/world/us-stresses-safety-for-gaza-civilians-as-israel-unrelenting-in-attacks/1886818/)
+
+The article discusses the recent conflict between Israel and Hamas, as well as the diplomatic efforts to address the situation. It describes discussions of a shift in emphasis from high-tempo clearance operations to lower intensity focus on high-value targets, with an emphasis on protecting civilians. There are also discussions about freeing hostages in Gaza and connecting the West Bank and Gaza under a revitalized Palestinian Authority government. Additionally, it mentions Israeli military operations in the West Bank and a denial by a Danish shipping company of a claim of a drone strike on one of its vessels.
+
+Fri, 15 Dec 2023 00:45:37 +0000
+### [US Chamber, Comcast, tech group split over net neutrality](https://theprint.in/tech/us-chamber-comcast-tech-group-split-over-net-neutrality/1886816/)
+
+Article found but Couldn't summarize 
+By David Shepardson WASHINGTON (Reuters) -The U.S. Chamber of Commerce and Comcast Corp said on Thursday they oppose the Federal Communications Commission's proposal to reinstate landmark net
+
+Fri, 15 Dec 2023 00:45:23 +0000
+### [Netflix takes ‘Stranger Things’ to the stage in London](https://theprint.in/entertainment/netflix-takes-stranger-things-to-the-stage-in-london/1886814/)
+
+Article found but Couldn't summarize 
+By Edward Baran LONDON (Reuters) - The unusual world of Hawkins, Indiana, came alive in London on Thursday as Netflix debuted a stage play based on its hit sci-fi series "Stranger Things." Called "
+
+Fri, 15 Dec 2023 00:45:14 +0000
+### [Exclusive-Eastern Congo ceasefire extended for two weeks, US official says](https://theprint.in/world/exclusive-eastern-congo-ceasefire-extended-for-two-weeks-us-official-says/1886813/)
+
+Article found but Couldn't summarize 
+WASHINGTON (Reuters) - The parties to a limited ceasefire in the eastern Democratic Republic of Congo (DRC) have agreed to a two-week extension, according to a senior U.S. official familiar with the
+
+Fri, 15 Dec 2023 00:45:04 +0000
+### [Australia praises US Congress green light for AUKUS nuclear submarine sale](https://theprint.in/world/australia-praises-us-congress-green-light-for-aukus-nuclear-submarine-sale/1886811/)
+
+Article found but Couldn't summarize 
+By Kirsty Needham SYDNEY (Reuters) - Australia's Prime Minister Anthony Albanese hailed U.S. Congress for authorising the sale of nuclear submarines to another country for the first time, allowing the
+
+Fri, 15 Dec 2023 00:32:01 +0000
+### [UAE: Sultan bin Ahmed opens third edition of Sharjah Events Festival](https://theprint.in/world/uae-sultan-bin-ahmed-opens-third-edition-of-sharjah-events-festival/1886809/)
+
+The third edition of the Sharjah Events Festival has been opened by Sheikh Sultan bin Ahmed bin Sultan Al Qasimi, Deputy Ruler of Sharjah and Chairman of the Sharjah Media Council. The festival, held under the slogan "See Sharjah," offers a range of thrilling, entertaining, and educationally informative activities and contests. It will run for four days at the Al Majaz Amphitheatre in Sharjah. The festival also includes humanitarian participation from the Sharjah Charity International, which is conducting an aid campaign for the people of Gaza in Palestine. Visitors can donate to this cause through strategically placed donation boxes throughout the festival venue. Over 30 government, semi-government, and private sector institutions and organizations are participating in the festival, offering various activities, performances, and workshops for young people, adolescents, and families. The festival venue, Al Majaz Amphitheatre, has been decorated with vibrant colors and lighting, creating a joyful and festive atmosphere. The agenda of the Sharjah Events Festival aims to provide wholesome fun for the whole family and celebrate humanity and positive social messages.
+
+Fri, 15 Dec 2023 00:17:02 +0000
+### [Israel: Netanyahu, war cabinet members meet with US National Security Adviser](https://theprint.in/world/israel-netanyahu-war-cabinet-members-meet-with-us-national-security-adviser/1886807/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], December 15 (ANI/TPS): Prime Minister Benjamin Netanyahu and the members of Israel&#8217;s War Cabinet Thursday at the Kirya (Israel&#8217;s version of the Pentagon) in Tel Aviv met with US National Security Adviser Jake Sullivan. The Prime Minister and the US National Security Adviser emphasized their commitment to bring about the release of [&#8230;]
+
+Fri, 15 Dec 2023 00:15:36 +0000
+### [Film ‘Poor Things’ inspires curiosity, says star Emma Stone](https://theprint.in/entertainment/film-poor-things-inspires-curiosity-says-star-emma-stone/1886805/)
+
+Article found but Couldn't summarize 
+By Hanna Rantala LONDON (Reuters) - Oscar-winner Emma Stone says her sex-charged gothic comedy-drama "Poor Things" is a lesson in embracing change and diversity. Directed by Greece's Yorgos Lanthimos,
+
+Fri, 15 Dec 2023 00:15:23 +0000
+### [Explainer-Prince Harry’s phone-hacking lawsuit against UK Mirror group](https://theprint.in/world/explainer-prince-harrys-phone-hacking-lawsuit-against-uk-mirror-group/1886803/)
+
+Article found but Couldn't summarize 
+By Michael Holden LONDON(Reuters) - The judge overseeing the phone-hacking and privacy lawsuit brought by Prince Harry and some 100 others against British publisher Mirror Group Newspapers (MGN) at
+
+Fri, 15 Dec 2023 00:15:14 +0000
+### [Prince Harry to find out result of phone-hacking lawsuit against UK publisher](https://theprint.in/world/prince-harry-to-find-out-result-of-phone-hacking-lawsuit-against-uk-publisher/1886801/)
+
+Article found but Couldn't summarize 
+By Michael Holden and Sam Tobin LONDON (Reuters) - Britain's Prince Harry will learn on Friday whether he has won his lawsuit against a newspaper publisher over allegations of phone-hacking and other
+
+Fri, 15 Dec 2023 00:15:04 +0000
+### [Factbox-Prince Harry and his many lawsuits against the press](https://theprint.in/world/factbox-prince-harry-and-his-many-lawsuits-against-the-press/1886799/)
+
+Article found but Couldn't summarize 
+LONDON (Reuters) - Britain's Prince Harry will on Friday find out the result of his phone-hacking lawsuit against Mirror Group Newspapers (MGN), publisher of the Daily Mirror, Sunday Mirror and Sunday
+
+Fri, 15 Dec 2023 00:02:02 +0000
+### [Mossad chief’s trip to Qatar for restarting hostage talks cancelled: Report](https://theprint.in/world/mossad-chiefs-trip-to-qatar-for-restarting-hostage-talks-cancelled-report/1886797/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], December 15 (ANI): Israel cancelled a planned trip of Mossad director David Barnea to Qatar to restart talks on a possible second hostage release deal, CNN reported citing a source. Mossad director David Barnea will not travel to the Qatari capital Doha, where previous talks on the release of hostages held by [&#8230;]
+
+Thu, 14 Dec 2023 23:45:38 +0000
+### [Cryptoverse: Bitcoin defies its doubters in 2023](https://theprint.in/tech/cryptoverse-bitcoin-defies-its-doubters-in-2023-2/1886795/)
+
+Article found but Couldn't summarize 
+(This Dec. 12 story has been corrected to fix the spelling of Kelvin Koh's name in paragraph 3) By Medha Singh and Lisa Pauline Mattackal (Reuters) - If 2022 was the year that "broke bitcoin", 2023
+
+Thu, 14 Dec 2023 23:45:28 +0000
+### [BP restarts pipeline after gasoline spill in Washington state-source](https://theprint.in/environment/bp-restarts-pipeline-after-gasoline-spill-in-washington-state-source/1886793/)
+
+Article found but Couldn't summarize 
+(Reuters) -BP has restarted its Olympic Pipeline that had leaked roughly 25,000 gallons of gasoline near Mount Vernon in Washington state, a source familiar with the pipeline's operations said on
+
+Thu, 14 Dec 2023 23:45:16 +0000
+### [Moldovan court awards gay soldier damages for ill treatment](https://theprint.in/world/moldovan-court-awards-gay-soldier-damages-for-ill-treatment/1886792/)
+
+Article found but Couldn't summarize 
+By Alexander Tanas CHISINAU (Reuters) - A court in former Soviet Moldova awarded a gay soldier 120,000 lei, or around $6,700, as compensation for ill treatment he suffered while serving in a military
+
+Thu, 14 Dec 2023 23:45:04 +0000
+### [Medecins Sans Frontieres shutters Haiti emergency clinic after attack on ambulance](https://theprint.in/world/medecins-sans-frontieres-shutters-haiti-emergency-clinic-after-attack-on-ambulance/1886790/)
+
+Article found but Couldn't summarize 
+PORT-AU-PRINCE (Reuters) - Medecins Sans Frontieres (Doctors Without Borders) is temporarily shuttering an emergency clinic in Haiti's capital Port-au-Prince, the medical charity said on Thursday,
+
 Thu, 14 Dec 2023 23:17:02 +0000
 ### [Pakistan: Massive protests erupt in Balochistan after alarming rise in extrajudicial killings, enforced disappearances](https://theprint.in/world/pakistan-massive-protests-erupt-in-balochistan-after-alarming-rise-in-extrajudicial-killings-enforced-disappearances/1886786/)
 
