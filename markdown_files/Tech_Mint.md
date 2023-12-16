@@ -1,3 +1,9 @@
+Sat, 16 Dec 2023 08:02:07 +0530
+### [SpaceX delays launch of X-37B robot spaceplane to December 28](https://www.livemint.com/technology/tech-news/spacex-delays-launch-of-x-37b-robot-spaceplane-to-december-28-11702693457233.html)
+
+Article found but Couldn't summarize 
+SpaceX targets December 28 for launch of the US military's secretive X-37B spaceplane.
+
 Fri, 15 Dec 2023 20:10:28 +0530
 ### [7 best Mi power banks for efficiently charging your devices anywhere](https://www.livemint.com/technology/gadgets/7-best-mi-power-banks-for-efficiently-charging-your-devices-anywhere-11702642721330.html)
 

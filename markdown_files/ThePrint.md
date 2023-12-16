@@ -1,3 +1,62 @@
+Sat, 16 Dec 2023 03:17:02 +0000
+### [SRK beams with pride as his son AbRam imitates his signature pose at annual function](https://theprint.in/feature/srk-beams-with-pride-as-his-son-abram-imitates-his-signature-pose-at-annual-function/1888411/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 16 (ANI): There&#8217;s nothing more special for parents than seeing their children take centre stage at their school&#8217;s function. A similar thing happened to actor Shah Rukh Khan on Friday evening. SRK&#8217;s youngest son AbRam performed at his school&#8217;s annual day function and his cute performance undoubtedly elicited claps, cheers and [&#8230;]
+
+Sat, 16 Dec 2023 03:16:19 +0000
+### [COP28 climate deal is a win for India. It got semantics right for developing economies](https://theprint.in/opinion/cop28-climate-deal-is-a-win-for-india-it-got-semantics-right-for-developing-economies/1887442/)
+
+Article found but Couldn't summarize 
+In a victory for India and other developing economies, the agreement avoids the term ‘phase out’ for fossil fuels, using “phase down of unabated coal power” instead.
+
+Sat, 16 Dec 2023 03:15:21 +0000
+### [Meet Ashley, the world’s first AI-powered political campaign caller](https://theprint.in/tech/meet-ashley-the-worlds-first-ai-powered-political-campaign-caller-2/1888409/)
+
+Democrat Shamaine Daniels is running for Congress, hoping to unseat Trump-aligned Republican Representative Scott Perry. A new campaign tool called Ashley, an artificial intelligence volunteer, is being used. Ashley engages voters in customized conversations and is capable of having an infinite number of one-on-one conversations at the same time. The use of generative AI in political campaigning is both exciting and worrying due to concerns about disinformation. Civox, the company behind Ashley, has decided to give her a robotic-sounding voice and disclose that she is an AI, despite not being legally required to do so. This development has raised concerns about election integrity and potential misinformation spread. Regulations have not caught up with this use of AI, prompting discussions about the need for regulators and legislators to start paying attention.
+
+Sat, 16 Dec 2023 03:15:03 +0000
+### [Any hostile move against Yemen will have dire consequences -Houthi official on Al Mayadeen TV](https://theprint.in/world/any-hostile-move-against-yemen-will-have-dire-consequences-houthi-official-on-al-mayadeen-tv/1888407/)
+
+The article discusses the response of the Houthi group in Yemen to potential hostile actions against Yemen. The group's member, Ali al-Qahoum, stated that any hostile move against Yemen would have dire consequences and great costs. He emphasized the group's commitment to the Palestinian cause and readiness to respond to any American, Israeli, or Western hostile actions. Additionally, it mentions recent attacks on ships in the Bab al-Mandab Strait and the group's targeting of vessels in Red Sea shipping lanes. The article also highlights the group's intention to continue their attacks until Israel stops its offensive in the Gaza Strip.
+
+Please note that this summary includes a disclaimer stating that this report is auto-generated from the Reuters news service, and ThePrint holds no responsibility for its content.
+
+Sat, 16 Dec 2023 03:02:22 +0000
+### [Matthew Perry died of acute effects of Ketamine, autopsy reveals](https://theprint.in/feature/matthew-perry-died-of-acute-effects-of-ketamine-autopsy-reveals/1888405/)
+
+Matthew Perry, best known for his role as Chandler Bing on the hit TV sitcom 'Friends', passed away at the age of 54. The toxicology report from the Los Angeles County Medical Examiner’s Office indicated that he died from the acute effects of ketamine. Contributing factors in his death included drowning, coronary artery disease, and the effects of buprenorphine, which is used to treat opioid use disorder. Perry had been undergoing ketamine infusion therapy for depression and anxiety prior to his death. The report also mentioned that no alcohol was detected in his system and there were no traces of other drugs such as cocaine, heroin, or fentanyl. The article also features tributes from Perry's 'Friends' cast members, expressing their grief and fond memories of him.
+
+Sat, 16 Dec 2023 03:02:12 +0000
+### [Pakistan interim interior minister Sarfaraz Ahmed Bugti resigns, likely to join PML-N](https://theprint.in/world/pakistan-interim-interior-minister-sarfaraz-ahmed-bugti-resigns-likely-to-join-pml-n/1888403/)
+
+The article reports that Pakistan's caretaker Prime Minister has accepted the resignation of Interior Minister Sarfaraz Ahmed Bugti, who is expected to join the Pakistan Muslim League-Nawaz (PML-N) ahead of the 2024 general elections. The Supreme Court has halted the Lahore High Court's order regarding the appointment of returning officers (ROs) and district returning officers (DROs) for the upcoming elections. The Election Commission of Pakistan (ECP) has issued the election schedule, with polling to begin on December 19 and the general elections to take place on February 8, 2024.
+
+Sat, 16 Dec 2023 03:02:01 +0000
+### [Minister Dharmendra Pradhan advocates industry-ready workforce through digital apprentice framework](https://theprint.in/economy/minister-dharmendra-pradhan-advocates-industry-ready-workforce-through-digital-apprentice-framework/1888400/)
+
+The article discusses Union Minister Dharmendra Pradhan's emphasis on the need for a future-ready workforce in light of Artificial Intelligence (AI) advancements. He encouraged collaboration between Cognizant, NASSCOM, and NSDC to prepare a #DigitalApprentice framework for industry and future-ready workforce development. Minister Pradhan stressed the transformative impact of AI on the global job market and the importance of humanizing AI to make skilling more efficient and promote inclusive development. The envisioned digital apprentice framework aims to prepare a workforce to navigate the digital landscape while ensuring agility and equipping them for the demands of the digital era.
+
+Let me know if I can help you with anything else!
+
+Sat, 16 Dec 2023 03:00:43 +0000
+### [Urdu’s popularity in Devanagari is a lesson for Muslims—acceptance lies in Indianisation](https://theprint.in/opinion/urdus-popularity-in-devanagari-is-a-lesson-for-muslims-acceptance-lies-in-indianisation/1888386/)
+
+Article found but Couldn't summarize 
+Today, Urdu literacy is lowest among the Ashraaf and highest among the lower classes who are educated in madrasas. But it’s the Ashraafs who claim to live the ‘Urdu culture’.
+
+Sat, 16 Dec 2023 02:48:31 +0000
+### [Sanctions, prolonged war haven’t hurt Russia as much as West hoped, but long-term cost is inevitable](https://theprint.in/opinion/sanctions-prolonged-war-havent-hurt-russia-as-much-as-west-hoped-but-long-term-cost-is-inevitable/1888100/)
+
+Article found but Couldn't summarize 
+There has been no drastic fallout of sanctions since Russia found customers for its oil in China &#038; India, among other reasons. But Iran is proof that extended sanctions do have an impact.
+
+Sat, 16 Dec 2023 02:38:12 +0000
+### [DDA turned into Delhi Destruction Authority & why we applaud the market taking revenge](https://theprint.in/national-interest/dda-turned-into-delhi-destruction-authority-why-we-applaud-the-market-taking-revenge/1888069/)
+
+Article found but Couldn't summarize 
+A DDA flat was a privilege in a city where almost nobody could build anything. Its inventory of unsold flats now exceeds 40,000 at a value of Rs 18,000 crore, and it's still building more.
+
 Sat, 16 Dec 2023 02:15:04 +0000
 ### [Ukraine puts head of Russian church on “wanted” list](https://theprint.in/world/ukraine-puts-head-of-russian-church-on-wanted-list/1888390/)
 

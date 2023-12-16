@@ -12,6 +12,11 @@ Sat, 16 Dec 2023 02:13:15 +0000
 
 The article describes the ongoing war in Gaza and its impact on the people in the region. It highlights the high numbers of casualties, particularly among children, and the displacement of a significant portion of the population. The author points out the broader implications of the war, including the potential for deepening ideological fissures and the erosion of liberal values and the liberal world order. The article also emphasizes the need for constructive dialogue and leadership to address the crisis and calls for a region-wide understanding involving powers like Iran, Saudi Arabia, Egypt, and Qatar. Additionally, it discusses the need for Israel to reconsider its actions and policies for long-term security and prosperity.
 
+Sat, 16 Dec 2023 02:13:15 +0000
+### [Pratap Bhanu Mehta writes: Gaza is being talked to death, with no remedy to stop the deaths](https://indianexpress.com/article/opinion/columns/israel-palestine-war-gaza-children-deaths-hamas-attack-on-israel-9070119/)
+
+Article found but Couldn't summarize
+
 Sat, 16 Dec 2023 01:45:35 +0000
 ### [Express View on M S Dhoni and Jersey No 7: Making a legend](https://indianexpress.com/article/opinion/editorials/express-view-on-m-s-dhoni-and-jersey-no-7-making-a-legend-9070131/)
 
