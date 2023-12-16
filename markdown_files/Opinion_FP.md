@@ -1,3 +1,8 @@
+Sat, 16 Dec 2023 13:34:52 +0530
+### [When it comes to raising a toast, Nitish’s Bihar can learn from Yogi’s Uttar Pradesh and Manipur](https://www.firstpost.com/opinion/when-it-comes-to-raising-a-toast-nitishs-bihar-can-learn-from-yogis-uttar-pradesh-and-manipur-13510232.html)
+
+The article is about the lifting of the alcohol ban in Manipur, ending its status as a dry state after 30 years. It discusses the potential benefits of lifting the ban, such as increased tax revenue and reduction of the underground alcohol and drug trade. It also mentions the Confederation of Indian Alcoholic Beverage Companies proposing a reconsideration of the prohibition policy in Bihar, suggesting ways to balance social goals with the liquor industry. The article also compares the approaches of other states regarding alcohol policy and reflects on the impact of prohibition.
+
 Sat, 16 Dec 2023 11:46:08 +0530
 ### [War in Our Times | Major Shamsher Mehta's heroic saga in the shadows of 'Pippa' in the 1971 war](https://www.firstpost.com/opinion/war-in-our-times-major-shamsher-mehtas-heroic-saga-in-the-shadows-of-pippa-in-the-1971-war-13510112.html)
 

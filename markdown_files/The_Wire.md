@@ -1,3 +1,15 @@
+2023-12-16T13:32:42+05:30
+### ['Schindler’s List' at 30: A Look Back at Steven Spielberg’s Shattering Masterpiece](https://thewire.in/film/schindlers-list-at-30-steven-spielberg)
+
+No Article text 
+The director later said making the film changed his life.
+
+2023-12-16T13:18:06+05:30
+### [After IT Raids and Cash Seizure at Congress MP’s Liquor Business, a Political Blame Game](https://thewire.in/politics/it-raids-cash-seizure-congress-mp-dhiraj-sahur-liquor-business-political-blame-game)
+
+No Article text 
+Dhiraj Sahu, in his first reaction to the raids on Friday, said the Rs 350 crore that was seized was the proceeds of his family liquor business and he can account for it.
+
 2023-12-16T11:59:40+05:30
 ### [USCIRF Alarmed by India’s ‘Increased Transnational Targeting’ of Religious Minorities](https://thewire.in/world/uscirf-india-transnational-targeting-religious-minorities-cpc)
 

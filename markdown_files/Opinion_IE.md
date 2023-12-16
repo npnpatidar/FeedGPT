@@ -1,3 +1,8 @@
+Sat, 16 Dec 2023 08:15:45 +0000
+### [Congress vs BJP: Record on women’s safety](https://indianexpress.com/article/opinion/columns/congress-bjp-record-womens-safety-9070642/)
+
+The article discusses the contrasting approaches of different Indian political parties in addressing women's safety issues. It highlights the Congress government's response to the 2012 Delhi gangrape and murder, including the passage of the Nirbhaya Act, as well as its efforts to address women's safety. In contrast, it criticizes the BJP government's handling of recent cases of sexual misconduct and the release of convicted individuals, citing instances where the government allegedly failed to take appropriate action and prioritize women's safety. The article also emphasizes the rise in crimes against women and calls for increased political focus on women's safety.
+
 Sat, 16 Dec 2023 02:15:46 +0000
 ### [Why tractors may be the key to rural economy boost](https://indianexpress.com/article/opinion/columns/rural-economy-tractor-market-in-india-agricultural-operations-9070111/)
 

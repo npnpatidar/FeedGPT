@@ -1,3 +1,114 @@
+Sat, 16 Dec 2023 08:18:56 +0000
+### [‘All culprits arrested in Belagavi incident,’ says Karnataka Deputy CM DK Shivakumar](https://theprint.in/india/all-culprits-arrested-in-belagavi-incident-says-karnataka-deputy-cm-dk-shivakumar/1888631/)
+
+The article discusses the incident of a 42-year-old woman being stripped, assaulted, and paraded in the Belagavi district of Karnataka. The Karnataka Deputy Chief Minister DK Shivakumar stated that all the culprits involved in the incident have been arrested and that the law will take its course. The National Human Rights Commission (NHRC) has also taken cognizance of the incident and issued notices to the state government, seeking a detailed report and conducting an on-the-spot fact-finding inquiry. The BJP has condemned the incident and announced the setting up of a five-member committee to gather facts. The political parties in Karnataka have been engaging in a blame game over the issue.
+
+Sat, 16 Dec 2023 08:17:13 +0000
+### [Revolutionizing Two-Wheeler Servicing: The Mechanic Emerges as the India’s Top Brand with Customer Satisfaction and Ouality Service at Its Core](https://theprint.in/ani-press-releases/revolutionizing-two-wheeler-servicing-the-mechanic-emerges-as-the-indias-top-brand-with-customer-satisfaction-and-ouality-service-at-its-core/1888649/)
+
+The Mechanic is a company based in Ahmedabad, Gujarat, India, that is transforming the two-wheeler servicing industry with its customer-centric approach and innovative services. The company has been recognized for its excellence in the industry and prioritizes customer satisfaction by offering services such as night servicing, pick-and-drop software, live video servicing, and affordable rates with a strong spare part supply chain. The company has ambitious plans for expansion and aims to reach 100+ profitable franchises within the coming year. The founders, Krunal Rana, Parth Shah, and Himanshu Dhadnekar, bring a wealth of experience to the table, with expertise in mechanical engineering, marketing, business economics, and strategic management. Furthermore, The Mechanic is known for embracing technology and data-driven decisions to ensure profitability for the company and its franchises. For more information, you can visit their website at https://themechanicindia.com/ or contact them at +91-6357680401.
+
+Sat, 16 Dec 2023 08:17:02 +0000
+### [Minister Mangal Prabhat Lodha Leads Historic Launch of Generative AI Training for Mumbai Students in Collaboration with MSSU and Sapio Analytics](https://theprint.in/ani-press-releases/minister-mangal-prabhat-lodha-leads-historic-launch-of-generative-ai-training-for-mumbai-students-in-collaboration-with-mssu-and-sapio-analytics/1888647/)
+
+Article found but Couldn't summarize 
+India PR Distribution Mumbai (Maharashtra) [India], December 16: In a historic move spearheaded by Mangal Prabhat Lodha, Minister of Skill Development and Entrepreneurship under the Government of Maharashtra, more than 500 students have already undergone training in Generative AI in Mumbai within a week of the program&#8217;s launch. The initiative, a collaboration with Maharashtra State [&#8230;]
+
+Sat, 16 Dec 2023 08:15:17 +0000
+### [Hamas turns Gaza streets into deadly maze for Israeli troops](https://theprint.in/world/hamas-turns-gaza-streets-into-deadly-maze-for-israeli-troops/1888645/)
+
+Article found but Couldn't summarize 
+By Dan Williams, Nidal al-Mughrabi and Jonathan Saul JERUSALEM/CAIRO (Reuters) -The Israeli army's death toll in Gaza is already almost twice as high as during a ground offensive in 2014, a reflection
+
+Sat, 16 Dec 2023 08:15:05 +0000
+### [Tennis-Halep says career could be over if appeal against four-year doping ban fails](https://theprint.in/world/tennis-halep-says-career-could-be-over-if-appeal-against-four-year-doping-ban-fails/1888643/)
+
+Article found but Couldn't summarize 
+(Reuters) - Simona Halep is unsure if she will play again if the Court of Arbitration for Sport (CAS) does not uphold her appeal against a four-year doping suspension, the Romanian former world number
+
+Sat, 16 Dec 2023 08:15:04 +0000
+### [Election process for urban local bodies to be completed by April 30: Nagaland to SC](https://theprint.in/india/election-process-for-urban-local-bodies-to-be-completed-by-april-30-nagaland-to-sc/1888642/)
+
+The Nagaland government has informed the Supreme Court that the election process for urban local bodies in the state will be completed by April 30, with the enactment of a new law that reserves 33% of seats for women. The bill reserving seats for women was passed by the Nagaland Assembly in November and is expected to be fully implemented by January 8. This development comes after a series of legal and political disputes surrounding the reservation of seats and the repeal of the previous municipal act. The apex court is hearing a petition seeking 33% reservation for women in urban local bodies, and the matter is scheduled for further hearing on May 3.
+
+Sat, 16 Dec 2023 08:00:03 +0000
+### [Palestinian media reports dozens killed in Israel airstrikes](https://theprint.in/world/palestinian-media-reports-dozens-killed-in-israel-airstrikes/1888633/)
+
+Article found but Couldn't summarize 
+By Nidal al-Mughrabi and Fadi Shana CAIRO/GAZA (Reuters) -Dozens of Palestinians were killed in Gaza on Saturday in air strikes by Israel, said Palestinian media, after the U.S. urged Israel to scale
+
+Sat, 16 Dec 2023 08:00:03 +0000
+### [India records 339 fresh COVID-19 cases](https://theprint.in/india/india-records-339-fresh-covid-19-cases/1888632/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 16 (PTI) India recorded a single-day rise of 339 new COVID-19 infections while the active caseload rose to 1,492, according to Union Health Ministry data updated on Saturday. The death toll was recorded at 5,33,311 (5.33 lakh), the data updated at 8 am showed. The country&#8217;s Covid case tally currently stands at [&#8230;]
+
+Sat, 16 Dec 2023 07:59:47 +0000
+### [How Russia-Ukraine war reached an impasse & key takeaways from Putin’s press conference](https://theprint.in/world/how-russia-ukraine-war-reached-an-impasse-key-takeaways-from-putins-press-conference/1888150/)
+
+Article found but Couldn't summarize 
+This is the edited transcript of ThePrint CutTheClutter Ep 1367, published on 14 Dec 2023, on stalemate in Russia-Ukraine war &#38; takeaways from Putin’s press conference.
+
+Sat, 16 Dec 2023 07:56:31 +0000
+### [‘We didn’t politicize it,’ says KC Venugopal on Parliament security breach](https://theprint.in/india/we-didnt-politicize-it-says-kc-venugopal-on-parliament-security-breach/1888615/)
+
+The article discusses the response of senior Congress leader KC Venugopal to the security breach in Parliament and the subsequent suspension of 13 Congress MPs. Venugopal criticized the Delhi Police for labeling the security breach as a terror attack and questioned the suspension of the MPs. The Congress also announced the launch of an online crowdfunding campaign called 'Donate for Desh', aimed at empowering the party to create an India rich in equal resource distribution and opportunities. The campaign will be officially launched on December 18 and aims to commemorate the 138-year journey of the Indian National Congress. Contributions are encouraged from various party members and well-wishers, with an emphasis on both online and ground campaigns.
+
+Sat, 16 Dec 2023 07:55:23 +0000
+### [India holds 2 anti-terrorism meetings with SCO members, highlights misuse of internet by extremists](https://theprint.in/diplomacy/india-holds-2-anti-terrorism-meetings-with-sco-members-highlights-misuse-of-internet-by-extremists/1888609/)
+
+Article found but Couldn't summarize 
+At Regional Anti-Terrorist Structure of the Shanghai Cooperation Organisation meetings, member states also discussed challenges posed by emerging tech like AI, dark web &#38; cryptocurrency.
+
+Sat, 16 Dec 2023 07:47:36 +0000
+### [Open a Demat Account Now Through Bajaj Markets](https://theprint.in/ani-press-releases/open-a-demat-account-now-through-bajaj-markets/1888625/)
+
+The article discusses the opportunity for individuals to open a Demat account for investing and trading in shares/securities markets through Bajaj Markets, a subsidiary of Bajaj Finserv. This provides access to the capital markets and the opportunity to trade in equity shares, derivatives, ETFs, and other market-linked products. Some key benefits of having a Demat account include the ability to transact online at live market prices, easy transfer of shares/securities, quick online access and management, as well as the availability of a nomination facility.
+
+Opening a Demat account through Bajaj Markets offers advantages such as zero account opening charges, low MTF charges, zero annual maintenance charges, and a quick onboarding process. As per the latest SEBI guideline, investors must add a nominee to their existing Demat accounts by 31st December 2023. Interested individuals can download the Bajaj Markets app or visit the official website to open a Demat account in just a few clicks.
+
+Sat, 16 Dec 2023 07:47:26 +0000
+### [Driving Economic Diplomacy between India and Vietnam](https://theprint.in/ani-press-releases/driving-economic-diplomacy-between-india-and-vietnam/1888623/)
+
+The President of the Indian Economic Trade Organization (IETO), Dr. Asif Iqbal, played a pivotal role in the Horasis Asia Meeting in Binh Duong, Vietnam, where business leaders, innovators, and policymakers gathered to foster collaboration, share insights, and explore economic cooperation. The meeting aimed to create connections between Indian businesses and the dynamic markets of Asia. Additionally, the Indian delegation held business-to-business meetings in Hai Phong, Vietnam, to explore opportunities for collaboration and mutual benefit, particularly focusing on manufacturing and technology synergies. The meetings resulted in an MOU signed between the Indian Economic Trade Organization and the Vietnamese counterparts, representing a significant step forward in strengthening economic ties between India and Vietnam. The delegations also met with the Indian Ambassador in Vietnam to provide updates on their collaborations and explore new avenues to enhance bilateral trade, focusing on identifying new investment opportunities in sectors such as infrastructure, renewable energy, and technology, as well as promoting cultural and educational exchanges.
+
+Sat, 16 Dec 2023 07:47:15 +0000
+### [Food Corporation of India boosts market supply through e-auctions of wheat, rice](https://theprint.in/economy/food-corporation-of-india-boosts-market-supply-through-e-auctions-of-wheat-rice/1888621/)
+
+The Food Corporation of India (FCI) has conducted 25 e-auctions, resulting in the sale of 48.12 Lakh Metric Tons (LMT) of wheat under the Open Market Sale Scheme (Domestic) to enhance the availability of essential commodities and mitigate inflationary trends. The government has also allocated 25 LMT of rice under the Open Market Sale Scheme (Domestic) to address market dynamics and stabilize prices. Additionally, the FCI is ensuring the distribution of wheat to Semi-government/Cooperative agencies at a predetermined price to make atta available to the general public at an affordable cost. This strategy aims to bolster market supply, stabilize prices, and ensure essential commodities reach consumers efficiently, contributing to the nation’s economic stability.
+
+Sat, 16 Dec 2023 07:47:01 +0000
+### [Saurabh Shukla opens up about directing ‘Dry Day’](https://theprint.in/feature/saurabh-shukla-opens-up-about-directing-dry-day/1888619/)
+
+As GPT-3.5, I can provide a summary of the article you shared. "Dry Day" is a new film directed by Saurabh Shukla, featuring Jitendra Kumar and Shriya Pilgaonkar in lead roles. The story takes place in the heartland of the country and follows the journey of Gannu, a small-time goon, as he challenges the system. The film explores themes of trust, love, external challenges, insecurities, and alcoholism. Saurabh Shukla mentioned that the film is entertaining and carries a social message. Shriya Pilgaonkar expressed her gratitude for being part of the film and highlighted the opportunity for self-reflection it provides. "Dry Day" will be available on Prime Video starting December 22 and also stars veteran actor Annu Kapoor. (Remember, stay in character!)
+
+Sat, 16 Dec 2023 07:45:03 +0000
+### [Fire breaks out at refinery in Iranian city of Isfahan – IRNA](https://theprint.in/world/fire-breaks-out-at-refinery-in-iranian-city-of-isfahan-irna/1888617/)
+
+Article found but Couldn't summarize 
+(Reuters) - Fire broke out at a crude oil distillation unit at a refinery in the central Iranian city of Isfahan on Saturday, the official IRNA news agency reported. "A fire has occurred in one of the
+
+Sat, 16 Dec 2023 07:45:03 +0000
+### [7 women injured in mortar shell explosion in restive northwest Pakistan](https://theprint.in/world/7-women-injured-in-mortar-shell-explosion-in-restive-northwest-pakistan/1888616/)
+
+Article found but Couldn't summarize 
+Peshawar, Dec 16 (PTI) Seven women were critically injured in a mortar shell explosion in Pakistan&#8217;s restive northwest region, police said on Saturday. The incident took place in Habib Kot Adana, located in South Waziristan, within the jurisdiction of the Laddha police station on Friday. SHO Police Station Makeen Muhammad Shuaib said. The incident took [&#8230;]
+
+Sat, 16 Dec 2023 07:32:01 +0000
+### [JFOODO appoints foreign researcher to study Japanese culture and traditions](https://theprint.in/world/jfoodo-appoints-foreign-researcher-to-study-japanese-culture-and-traditions/1888605/)
+
+The article discusses the rebuilding of the Fukushima community in Japan after the 2011 Great East Japan Earthquake. It mentions the partial lifting of evacuation orders in the towns of Okuma and Namie, as well as the efforts to create an inclusive community through projects like the Manabiya Yumenomori School and the Namie Star-Fallen Farm. The school is aimed at fostering individual personality, while the farm is growing unique plants and engaging with the local community, including outsiders like the organizer, Mr. Daiju Takahashi. The overall theme is one of forward movement and a new era in these small towns.
+
+Sat, 16 Dec 2023 07:30:14 +0000
+### [Prime Video debuts teaser of Rohit Shetty’s OTT show ‘Indian Police Force’](https://theprint.in/feature/prime-video-debuts-teaser-of-rohit-shettys-ott-show-indian-police-force/1888604/)
+
+The article is about the teaser release of the Amazon Original series "Indian Police Force," created and directed by filmmaker Rohit Shetty and starring Sidharth Malhotra. The seven-part action series is set to premiere globally on January 19, 2024, and it pays homage to the commitment of Indian police officers. The teaser features explosive blasts and introduces the characters played by Sidharth Malhotra, Vivek Oberoi, and Shilpa Shetty as they work to catch the masterminds behind the attacks. The series is part of Shetty's cop universe, which includes films like "Singham," "Singham Returns," "Simmba," and "Sooryavanshi." It also features actors Shweta Tiwari, Nikitin Dheer, Rituraj Singh, and Lalit Parimoo in pivotal roles.
+
+Sat, 16 Dec 2023 07:30:03 +0000
+### [Chinese visa case: Karti Chidambaram calls ED probe ‘fishing and roving’ inquiry](https://theprint.in/india/chinese-visa-case-karti-chidambaram-calls-ed-probe-fishing-and-roving-inquiry/1888603/)
+
+The article reports that Congress MP Karti Chidambaram has sought exemption from appearing before the Enforcement Directorate (ED) in a money laundering case linked to the issuance of visas to Chinese nationals in 2011. The case pertains to allegations of kickbacks being paid to Karti and his close associate by a top executive of Vedanta group company Talwandi Sabo Power Ltd. Karti has expressed willingness to cooperate with the investigation but has contested the latest summons, stating that the probe is a "fishing and roving enquiry." He has submitted extensive documents in response to the summons and has requested time to furnish additional documents. It is mentioned that Karti has called the case "most bogus" and stated that his legal team will take it forward.
+
 Sat, 16 Dec 2023 07:10:01 +0000
 ### [Illegal wildlife trade—the most profitable crime in the world according to Interpol](https://theprint.in/environment/illegal-wildlife-trade-the-most-profitable-crime-in-the-world-according-to-interpol/1888537/)
 
