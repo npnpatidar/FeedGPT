@@ -5,6 +5,16 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Explain_FP.xml</link>
 		<description>Explain FP</description>
 		<item>
+			<title>In Graphics | India's favourite foods in 2023</title>
+			<link>https://www.firstpost.com/explainers/in-graphics-indias-favourite-foods-in-2023-13508652.html</link>
+			<description>Article found but Couldn't summarize 
+In Graphics | India's favourite foods in 2023</description>
+			<pubDate>Sat, 16 Dec 2023 09:54:10 +0530</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/12/biryani-1.jpg"></media:thumbnail>
+			<media:content url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/12/biryani-1.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>This Week in Explainers: How the Parliament security breach was planned</title>
 			<link>https://www.firstpost.com/explainers/this-week-in-explainers-how-the-parliament-security-breach-was-planned-13508192.html</link>
 			<description>The article discusses several significant events in India, including a security breach at Parliament, a large cash haul in a tax raid on a Congress MP, and the BJP's strategy for the 2024 general elections. It also covers a security scare at the Hindon airbase, the BJP's plans for the upcoming elections, and the Supreme Court's judgment on the abrogation of Article 370 in Jammu and Kashmir. Additionally, it addresses the debate on menstrual leave for women employees.

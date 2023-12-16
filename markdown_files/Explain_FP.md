@@ -1,3 +1,9 @@
+Sat, 16 Dec 2023 09:54:10 +0530
+### [In Graphics | India's favourite foods in 2023](https://www.firstpost.com/explainers/in-graphics-indias-favourite-foods-in-2023-13508652.html)
+
+Article found but Couldn't summarize 
+In Graphics | India's favourite foods in 2023
+
 Sat, 16 Dec 2023 09:02:05 +0530
 ### [This Week in Explainers: How the Parliament security breach was planned](https://www.firstpost.com/explainers/this-week-in-explainers-how-the-parliament-security-breach-was-planned-13508192.html)
 

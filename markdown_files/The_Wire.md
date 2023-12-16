@@ -1,3 +1,9 @@
+2023-12-16T10:29:19+05:30
+### [Vanishing Middle Class and Struggling Opposition Need Productivism](https://thewire.in/economy/vanishing-middle-class-struggling-opposition-productivism)
+
+No Article text 
+Productivism differs from neoliberalism in giving governments and civil society a significant role. It puts less faith in markets and is suspicious of large corporations.
+
 2023-12-16T07:00:25+05:30
 ### [How to Feast on Silence](https://thewire.in/books/chetna-maroo-western-lane-booker-squash-novel)
 

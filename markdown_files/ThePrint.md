@@ -1,3 +1,96 @@
+Sat, 16 Dec 2023 05:00:32 +0000
+### [Raghvendra Kumar Singh appointed as principal secretary to Madhya Pradesh CM](https://theprint.in/india/raghvendra-kumar-singh-appointed-as-principal-secretary-to-madhya-pradesh-cm/1888470/)
+
+Article found but Couldn't summarize 
+Bhopal, Dec 16 (PTI) Raghvendra Kumar Singh, a 1997 batch IAS officer, has been appointed as the principal secretary to Madhya Pradesh Chief Minister Mohan Yadav. The order to this effect was issued on Friday night. As per the government order, Singh will replace Manish Rastogi, a 1994 batch IAS officer. Rastogi was the principal [&#8230;]
+
+Sat, 16 Dec 2023 05:00:29 +0000
+### [Jagan’s social engineering sparks dissidence in YSRCP ahead of polls. ‘Reddy dissent spilling out’](https://theprint.in/politics/jagans-social-engineering-sparks-dissidence-in-ysrcp-ahead-of-polls-reddy-dissent-spilling-out/1887470/)
+
+Article found but Couldn't summarize 
+At forefront of dissent are some from CM Jagan Mohan Reddy’s own community — Reddy MLAs &#038; staunch loyalists — with many aligning with rival TDP ahead of 2024 assembly polls in Andhra.
+
+Sat, 16 Dec 2023 05:00:23 +0000
+### [Shami ruled out of SA Tests, Deepak Chahar withdraws from ODI series](https://theprint.in/sport/shami-ruled-out-of-sa-tests-deepak-chahar-withdraws-from-odi-series/1888469/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 16 (PTI) Senior pacer Mohammed Shami was on Saturday ruled out of India&#8217;s two-match Test series against South Africa, the BCCI announced. Shami was included in the Test squad subject to his fitness but he was not cleared by the board&#8217;s medical team for the series. Pace-bowling all-rounder Deepak Chahar was also withdrawn [&#8230;]
+
+Sat, 16 Dec 2023 05:00:13 +0000
+### [Prez pays homage to armed forces personnel for ‘unparalleled courage’ during 1971 Pakistan war](https://theprint.in/india/prez-pays-homage-to-armed-forces-personnel-for-unparalleled-courage-during-1971-pakistan-war/1888468/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 16 (PTI) President Droupadi Murmu on Saturday paid homage to armed forces personnel for displaying &#8220;unparalleled courage&#8221; and achieving a &#8220;historic victory&#8221; during the 1971 war against Pakistan on the occasion of &#8216;Vijay Diwas&#8217;. India&#8217;s decisive win over Pakistan led to the birth of Bangladesh. &#8220;The nation remembers with gratitude the selfless [&#8230;]
+
+Sat, 16 Dec 2023 05:00:02 +0000
+### [Nothing has changed in past decade, says DCW chief Maliwal on 11th anniversary of Nirbhaya rape](https://theprint.in/india/nothing-has-changed-in-past-decade-says-dcw-chief-maliwal-on-11th-anniversary-of-nirbhaya-rape/1888467/)
+
+The article discusses the statements made by Swati Maliwal, the Delhi Commission for Women (DCW) Chief, regarding the increase in crimes against women in Delhi since the Nirbhaya incident in 2012. She expressed concern about the lack of change in the past decade and called for certainty and swiftness in punishments, increased police strength, and the need for a system where justice is assured swiftly and systematically. She also highlighted the low conviction rate in rape and sexual assault cases and suggested the need for more comprehensive education in schools to teach boys to make women feel safer and respect them. Lastly, she mentioned that the DCW has received over a lakh cases in the last six years and served notices to the Delhi Police in almost every one.
+
+Sat, 16 Dec 2023 04:47:14 +0000
+### [Pakistan: Karachi city police chief seeks 20,000 personnel, PKR 100 mln for election conduct](https://theprint.in/world/pakistan-karachi-city-police-chief-seeks-20000-personnel-pkr-100-mln-for-election-conduct/1888462/)
+
+Article found but Couldn't summarize 
+Karachi [Pakistan], December 16 (ANI): Karachi city police chief Khadim Rind informed the provincial interim government that they would need PKR 100 million for election-related expenses and over 20,000 personnel to overcome the shortage, Dawn News reported on Friday. It reported quoting a city police spokesperson, that in a meeting held to review arrangements for [&#8230;]
+
+Sat, 16 Dec 2023 04:47:01 +0000
+### [Kodak moment: SRK, Aishwarya, Abhishek groove to ‘Deewangi Deewangi’ at their kids’ annual day, Big B too joined them](https://theprint.in/feature/kodak-moment-srk-aishwarya-abhishek-groove-to-deewangi-deewangi-at-their-kids-annual-day-big-b-too-joined-them/1888460/)
+
+The annual day function at Dhirubhai Ambani International School in Mumbai was a star-studded affair with several Bollywood celebrities in attendance. Notable names included Amitabh Bachchan, Shah Rukh Khan, Abhishek Bachchan, Aishwarya Rai Bachchan, and Kareena Kapoor Khan. The event featured performances by the children of these celebrities, including SRK’s son AbRam, Abhishek-Aishwarya’s daughter Aaradhya, Kareena’s son Taimur, and Karan Johar’s twins Yash and Roohi. The children's performances, as well as the participation of their celebrity parents, garnered attention. The event also showcased the celebrities dancing to the tune of the song "Deewangi Deewangi” from the movie "Om Shanti Om". Additionally, Shah Rukh and Gauri’s son AbRam imitated his father's signature step during his performance, and Shah Rukh and Gauri were visibly proud of their son's performance. Other prominent personalities in attendance included Shahid Kapoor, Mira Kapoor, Rohit Sharma, and Ritika Sajdeh, whose children also study at the school.
+
+Sat, 16 Dec 2023 04:45:24 +0000
+### [DCW issues notice to Delhi govt over ‘missing streetlights’ at Lalita Park bus stand](https://theprint.in/india/dcw-issues-notice-to-delhi-govt-over-missing-streetlights-at-lalita-park-bus-stand/1888459/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 16 (PTI) The Delhi Commission for Women has issued a notice to the city government over &#8220;missing streetlights&#8221; at the Lalita Park bus stand and several other places in the national capital, the women&#8217;s panel chief Swati Maliwal said on Saturday. Maliwal said the commission conducted a surprise inspection at several locations [&#8230;]
+
+Sat, 16 Dec 2023 04:45:13 +0000
+### [Delhi records minimum temperature of 5.5 deg C, AQI ‘very poor’](https://theprint.in/india/delhi-records-minimum-temperature-of-5-5-deg-c-aqi-very-poor-2/1888458/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 16 (PTI) Delhi on Saturday recorded a minimum temperature of 5.5 degrees Celsius, three notches below the season&#8217;s average, according to the India Meteorological Department. The IMD has predicted clear skies during the day. The maximum temperature is likely to settle around 25 degrees Celsius, it said. The relative humidity at 8.30 [&#8230;]
+
+Sat, 16 Dec 2023 04:45:03 +0000
+### [‘Cultural identity’ as unifying factor for Assamese people highlighted](https://theprint.in/india/cultural-identity-as-unifying-factor-for-assamese-people-highlighted/1888457/)
+
+Article found but Couldn't summarize 
+Guwahati, Dec 16 (PTI) The &#8216;cultural identity&#8217; of the Assamese community, which is divided into many tribes and sects but bind together by shared legacy ranging from history to food, can be the unifying factor for the people of the state, eminent personalities of diverse fields opined. They maintained that perspectives on the community by [&#8230;]
+
+Sat, 16 Dec 2023 04:32:02 +0000
+### [Hopeful but not optimistic about future of ties with Beijing, says US envoy to China](https://theprint.in/world/hopeful-but-not-optimistic-about-future-of-ties-with-beijing-says-us-envoy-to-china/1888455/)
+
+Article found but Couldn't summarize 
+Washington, DC [US], December 16 (ANI): The US envoy to China, Nicholas Burns, on Friday said relations between the two countries are not necessarily improving, but he was &#8216;hopeful&#8217; of better ties, The Hill reported. &#8220;I don&#8217;t feel optimistic about the future of U.S.-China relations because I feel that we need to see how things [&#8230;]
+
+Sat, 16 Dec 2023 04:30:34 +0000
+### [Delhi records minimum temperature of 5.5 deg C, AQI ‘very poor’](https://theprint.in/india/delhi-records-minimum-temperature-of-5-5-deg-c-aqi-very-poor/1888454/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 16 (PTI) Delhi on Saturday recorded a minimum temperature of 5.5 degrees Celsius, three notches below the season&#8217;s average, according to the India Meteorological Department. The IMD has predicted clear skies during the day. The maximum temperature is likely to settle around 25 degrees Celsius, it said. The relative humidity at 8.30 [&#8230;]
+
+Sat, 16 Dec 2023 04:30:24 +0000
+### [Six killed, one critical as car collides with truck in Nagpur](https://theprint.in/india/six-killed-one-critical-as-car-collides-with-truck-in-nagpur/1888453/)
+
+Article found but Couldn't summarize 
+Nagpur, Dec 16 (PTI) Six persons were killed and one was seriously injured after a car collided with a truck on the outskirts of Nagpur city in Maharashtra in the wee hours of Saturday, police said. The accident took place near Sonkhamb village on Katol-Kalmeshwar Road between 12.15 am and 2 am, a senior police [&#8230;]
+
+Sat, 16 Dec 2023 04:30:12 +0000
+### [PM Modi pays tribute to heroes of India’s win over Pakistan in 1971 war](https://theprint.in/india/pm-modi-pays-tribute-to-heroes-of-indias-win-over-pakistan-in-1971-war/1888451/)
+
+As GPT-3.5, I can provide a summary of the article you shared. Prime Minister Narendra Modi paid tribute to the heroes of India's victory over Pakistan in the 1971 war on the occasion of 'Vijay Diwas'. He expressed that their valour and dedication remain a source of immense pride for the nation, and their sacrifices and unwavering spirit will forever be etched in the people's hearts and the nation's history. Vijay Diwas is observed annually to commemorate this victory, with Pakistan's military surrendering to Indian forces.
+
+Sat, 16 Dec 2023 04:30:05 +0000
+### [Israel mistakenly kills 3 hostages; US urges Israel to narrow attacks](https://theprint.in/world/israel-mistakenly-kills-3-hostages-us-urges-israel-to-narrow-attacks/1888450/)
+
+Article found but Couldn't summarize 
+By Nidal al-Mughrabi and Fadi Shana CAIRO/GAZA (Reuters) -The Israeli military said it killed three hostages held by Hamas in Gaza after wrongly identifying them as a threat, as the U.S. urged Israel
+
+Sat, 16 Dec 2023 04:30:02 +0000
+### [India”s Shubha Satheesh ruled out of England Test with broken finger; doubtful for Australia match](https://theprint.in/sport/indias-shubha-satheesh-ruled-out-of-england-test-with-broken-finger-doubtful-for-australia-match/1888449/)
+
+Article found but Couldn't summarize 
+Navi Mumbai, Dec 16 (PTI) India Women batter Shubha Satheesh was on Saturday ruled out of the remainder of the ongoing one-off Test against England due to a broken finger, and it also made her a doubtful starter for the Test match against Australia starting here next week. India will face Australia in a one-off [&#8230;]
+
 Sat, 16 Dec 2023 04:15:25 +0000
 ### [Rugby-Challenge Cup newcomers Black Lion beat Scarlets](https://theprint.in/sport/rugby-challenge-cup-newcomers-black-lion-beat-scarlets/1888447/)
 
