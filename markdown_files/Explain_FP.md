@@ -1,3 +1,9 @@
+Sat, 16 Dec 2023 11:49:33 +0530
+### [What is anti-anxiety drug ketamine tied to F.R.I.E.N.D.S star Matthew Perry's death?](https://www.firstpost.com/explainers/matthew-perry-death-what-is-anti-anxiety-drug-ketamine-tied-to-f-r-i-e-n-d-s-star-13510122.html)
+
+Article found but Couldn't summarize 
+What is anti-anxiety drug ketamine tied to F.R.I.E.N.D.S star Matthew Perry's death?
+
 Sat, 16 Dec 2023 09:54:10 +0530
 ### [In Graphics | India's favourite foods in 2023](https://www.firstpost.com/explainers/in-graphics-indias-favourite-foods-in-2023-13508652.html)
 

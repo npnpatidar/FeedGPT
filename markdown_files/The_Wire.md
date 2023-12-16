@@ -1,3 +1,9 @@
+2023-12-16T11:59:40+05:30
+### [USCIRF Alarmed by India’s ‘Increased Transnational Targeting’ of Religious Minorities](https://thewire.in/world/uscirf-india-transnational-targeting-religious-minorities-cpc)
+
+No Article text 
+The bipartisan commission implored the US government to desginate India as a country of particular concern for religious freedom due to the "systematic, ongoing, and egregious violations of freedom of religion or belief".
+
 2023-12-16T11:29:08+05:30
 ### [Protests Erupt in Israel After IDF Says It 'Accidentally Killed' Three Hostages in Gaza](https://thewire.in/world/idf-accidentally-killed-three-israeli-hostages-gaza)
 

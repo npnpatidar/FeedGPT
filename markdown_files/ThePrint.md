@@ -1,3 +1,117 @@
+Sat, 16 Dec 2023 07:10:01 +0000
+### [Illegal wildlife trade—the most profitable crime in the world according to Interpol](https://theprint.in/environment/illegal-wildlife-trade-the-most-profitable-crime-in-the-world-according-to-interpol/1888537/)
+
+Article found but Couldn't summarize 
+Illegal wildlife products are now worth up to $20 billion a year on the black market and it’s causing ‘incalculable damage’ to biodiversity.
+
+Sat, 16 Dec 2023 07:06:22 +0000
+### [Samsonite was a classic American success story. How private equity firms strip-mined it](https://theprint.in/pageturner/excerpt/samsonite-was-a-classic-american-success-story-how-private-equity-firms-strip-mined-it/1888546/)
+
+Article found but Couldn't summarize 
+In 'These Are the Plunderers', Gretchen Morgenson writes it took a decade for Apollo to gut this once-thriving and iconic American luggage maker.
+
+Sat, 16 Dec 2023 07:02:02 +0000
+### [“Boost to India-Oman Strategic Partnership”, PM Modi holds bilateral with Oman Sultan Haitham bin Tarik](https://theprint.in/world/boost-to-india-oman-strategic-partnership-pm-modi-holds-bilateral-with-oman-sultan-haitham-bin-tarik/1888576/)
+
+Prime Minister Narendra Modi held a bilateral meeting with Sultan of Oman, Haitham bin Tarik in New Delhi and discussed future collaborations between the two countries. The visit further reinforced the longstanding friendship and cooperation between India and Oman. The two countries share a long-standing friendship rooted in historical, cultural, and economic ties, with diplomatic relations established in 1955 and upgraded to a strategic partnership in 2008. Oman is India’s closest defense partner in the Gulf region, and the visit aimed to explore avenues for future collaboration between India and Oman for regional stability, progress, and prosperity. Additionally, India extended a special invitation to Oman to participate in the G20 Summit and meetings, with Oman's active involvement in over 150 working group meetings and nine of its ministers taking part in various G20 ministerial meetings.
+
+Sat, 16 Dec 2023 07:00:49 +0000
+### [Delhi CM Kejriwal to go for 10-day Vipassana session next week](https://theprint.in/india/delhi-cm-kejriwal-to-go-for-10-day-vipassana-session-next-week/1888575/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 16 (PTI) Aam Aadmi Party national convener and Delhi Chief Minister Arvind Kejriwal will leave for a 10-day Vipassana meditation course next week, officials said on Saturday. Kejriwal will leave for the course to an undisclosed location on December 19, a day after the winter session of the Delhi Assembly is concluded [&#8230;]
+
+Sat, 16 Dec 2023 07:00:37 +0000
+### [India Women pulverise England by 347 runs to record the biggest Test victory in history](https://theprint.in/sport/india-women-pulverise-england-by-347-runs-to-record-the-biggest-test-victory-in-history/1888573/)
+
+Article found but Couldn't summarize 
+Navi Mumbai, Dec 16 (PTI) Deepti Sharma played the enforcer&#8217;s role to perfection for the second time in as many days as the dominant India Women scripted a historic 347-run victory over England on the third day of the one-off Test here on Saturday. India set in motion the hunt for triumph while declaring their [&#8230;]
+
+Sat, 16 Dec 2023 07:00:26 +0000
+### [PM Modi holds talks with Oman’s Sultan Haitham bin Tarik](https://theprint.in/india/pm-modi-holds-talks-with-omans-sultan-haitham-bin-tarik/1888572/)
+
+Prime Minister Narendra Modi held talks with Oman’s Sultan Haitham bin Tarik during the Sultan's first state visit to India. The focus of the discussions was on expanding bilateral cooperation in areas such as trade and investment, with an agenda including taking stock of bilateral ties and charting pathways for future collaboration. The visit is considered a significant milestone in the diplomatic relations between India and the Sultanate of Oman, as the two nations are strategic partners with a growing trade and investment relationship.
+
+Sat, 16 Dec 2023 07:00:15 +0000
+### [Indian Navy counters hijacking incident in Arabian Sea](https://theprint.in/india/indian-navy-counters-hijacking-incident-in-arabian-sea/1888570/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 16 (PTI) The Indian Navy on Saturday said it swiftly responded to a maritime incident in the Arabian Sea involving the hijacking of a Malta-flagged vessel with 18 crew members on board. The Navy&#8217;s maritime patrol aircraft undertaking surveillance in the area and its warship on anti-piracy patrol in the Gulf of [&#8230;]
+
+Sat, 16 Dec 2023 07:00:03 +0000
+### [Parliament security breach accused considered self-immolation, other options: Officials](https://theprint.in/india/parliament-security-breach-accused-considered-self-immolation-other-options-officials/1888568/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 16 (PTI) The five accused arrested in the December 13 Parliament security breach case have revealed that they explored self-immolation and distribution of pamphlets before settling on the plan to jump into the Lok Sabha&#8217;s chamber with smoke canisters, Delhi Police officials said on Saturday. The Delhi Police&#8217;s Special Cell, which is [&#8230;]
+
+Sat, 16 Dec 2023 06:47:14 +0000
+### [Jackie Shroff celebrates 40 years of ‘Hero’](https://theprint.in/feature/jackie-shroff-celebrates-40-years-of-hero/1888555/)
+
+Jackie Shroff's hit film 'Hero' completed 40 years recently. Directed by Subhash Ghai, the film also starred Meenakshi Seshadri and late actors Amrish Puri, Shammi Kapoor, Sanjeev Kumar. The film won hearts not only with its story but also with its music. Each and every song added to the charm of Hero, whether it was 'Pyar Karne Wale Kabhi Darte Nahin', 'Tu Mera Janu Hai' or 'Ding Dong Oh Baby Sing A Song'. The music was composed by Laxmikant-Pyarelal. Jackie Shroff's acting skills were commendable in the film, turning him into an overnight star. Subhash Ghai and others involved in the film celebrated its 40th anniversary, and Ghai shared a post on Instagram commemorating the occasion. The film's music, cast, and Jackie Shroff's performance continue to be celebrated even today.
+
+Sat, 16 Dec 2023 06:47:02 +0000
+### [Tokyo Metropolitan Government completes construction of underground water reservoir](https://theprint.in/world/tokyo-metropolitan-government-completes-construction-of-underground-water-reservoir/1888553/)
+
+The article discusses the Tokyo Metropolitan Government's efforts to create a safe and secure city, particularly in protecting residents from water-related disasters. This includes the construction of an underground water reservoir pond and the widening of rivers to mitigate flood damage. Additionally, citizen cooperation and the installation of rainwater tanks are highlighted as important measures to maintain a green environment and prevent flooding. The article also mentions specific initiatives in the Sumida and Katsushika districts, such as the use of preserved rainwater for agricultural and daily needs. Finally, it notes the Tokyo Metropolitan Police's commitment to the safety and security of residents and visitors.
+
+Sat, 16 Dec 2023 06:45:26 +0000
+### [Pandian reviews crowd management system at Puri Jagannath temple ahead of New Year rush](https://theprint.in/india/pandian-reviews-crowd-management-system-at-puri-jagannath-temple-ahead-of-new-year-rush/1888551/)
+
+Article found but Couldn't summarize 
+Bhubaneswar, Dec 16 (PTI) Odisha Chief Minister Naveen Patnaik&#8217;s close aide and 5T (transformational initiative) and Nabin Odisha scheme chairman V K Pandian on Saturday reviewed the crowd management system of the Shree Jagannath Temple here in view of the New Year rush. He issued directions to officials for hassle-free movement of devotees in the [&#8230;]
+
+Sat, 16 Dec 2023 06:45:19 +0000
+### [Soccer-German fans hurl chocolate coins in protest against media rights deal](https://theprint.in/sport/soccer-german-fans-hurl-chocolate-coins-in-protest-against-media-rights-deal/1888550/)
+
+The German Football League (DFL) is planning to generate up to a billion euros by selling a stake in media rights next year. This move comes as leagues in Europe seek to increase revenue and global reach through broadcasting arrangements. The DFL aims to reach an agreement between 900 million and 1 billion euros by the end of March, before awarding media rights for the German market for 2025-2029. Additionally, there have been protests from supporters' groups in response to the DFL's decision to sell to outside investors. These protests include a 12-minute silent protest during matches and throwing chocolate coins onto the field during a recent Bundesliga match between Borussia Moenchengladbach and Werder Bremen.
+
+Sat, 16 Dec 2023 06:45:15 +0000
+### [COVID-19 sub-strain JN.1 detected in Kerala woman](https://theprint.in/india/covid-19-sub-strain-jn-1-detected-in-kerala-woman/1888549/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 16 (PTI) A case of COVID-19 sub-variant JN.1 was detected in Kerala on December 8, official sources said on Saturday. The sample from a 79-year-old woman had returned a positive result in an RT-PCR test on November 18, they said, adding that she had mild symptoms of influenza-like illness (ILI) and had [&#8230;]
+
+Sat, 16 Dec 2023 06:45:04 +0000
+### [Iran executes agent of Israel’s Mossad intelligence service – official media](https://theprint.in/world/iran-executes-agent-of-israels-mossad-intelligence-service-official-media/1888548/)
+
+Article found but Couldn't summarize 
+(Reuters) - An agent of Israel's Mossad intelligence service was executed on Saturday in Iran's southeastern Sistan-Baluchestan province, the official IRNA news agency reported. "This person
+
+Sat, 16 Dec 2023 06:45:03 +0000
+### [Winter brings more than just ugly sweaters – here’s how the season can affect your mind and behaviour](https://theprint.in/world/winter-brings-more-than-just-ugly-sweaters-heres-how-the-season-can-affect-your-mind-and-behaviour-2/1888547/)
+
+Article found but Couldn't summarize 
+Arizona (US), Dec 16 (The Conversation) What comes to mind when you think about winter? Snowflakes? Mittens? Reindeer? In much of the Northern Hemisphere, winter means colder temperatures, shorter days and year-end holidays. Along with these changes, a growing body of research in psychology and related fields suggests that winter also brings some profound changes [&#8230;]
+
+Sat, 16 Dec 2023 06:30:56 +0000
+### [Fahadh Faasil’s ‘Aavesham’ to come out in theatres in April 2024](https://theprint.in/feature/fahadh-faasils-aavesham-to-come-out-in-theatres-in-april-2024/1888544/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 16 (PTI) Actor Fahadh Faasil&#8217;s upcoming Malayalam movie &#8220;Aavesham&#8221; will be released in theatres countrywide on April 11, 2024. The actor, known for critically-acclaimed titles such as &#8220;Take Off&#8221;, &#8220;Thondimuthalum Driksakshiyum&#8221;, &#8220;Malik&#8221; and &#8220;Joji&#8221;, shared the news in a post on Facebook on Friday. &#8220;&#8216;AAVESHAM&#8217; on its way !! Passing on to you [&#8230;]
+
+Sat, 16 Dec 2023 06:30:44 +0000
+### [Son held for hacking his mother to death in Kerala](https://theprint.in/india/son-held-for-hacking-his-mother-to-death-in-kerala/1888543/)
+
+Article found but Couldn't summarize 
+Thrissur (Kerala), Dec 16 (PTI) A 38-year-old man was taken into custody for allegedly hacking to death his mother at their home in Edakkalathur in this district, police said on Saturday. Anil, a resident of Kaiparambu in Edakkalathur, was held soon after the crime on Friday night, they said. &#8220;The accused was suspected to be [&#8230;]
+
+Sat, 16 Dec 2023 06:30:31 +0000
+### [Winter brings more than just ugly sweaters – here’s how the season can affect your mind and behaviour](https://theprint.in/world/winter-brings-more-than-just-ugly-sweaters-heres-how-the-season-can-affect-your-mind-and-behaviour/1888542/)
+
+Article found but Couldn't summarize 
+Arizona (US), Dec 16 (The Conversation) What comes to mind when you think about winter? Snowflakes? Mittens? Reindeer? In much of the Northern Hemisphere, winter means colder temperatures, shorter days and year-end holidays. Along with these changes, a growing body of research in psychology and related fields suggests that winter also brings some profound changes [&#8230;]
+
+Sat, 16 Dec 2023 06:30:18 +0000
+### [India thrash England by 347 runs in one-off women’s Test](https://theprint.in/sport/india-thrash-england-by-347-runs-in-one-off-womens-test/1888541/)
+
+India defeated England by a massive 347 runs in the one-off women's Test match. India scored 428 runs in the first innings and bundled out England for 136. They did not enforce the follow-on and batted again, declaring their second innings at 186 for 6. This set a target of 479 runs for England. The Indian bowlers dominated again, bowling out England for 131 in their second innings. Deepti Sharma, who took five wickets in the first innings, continued to perform well with figures of 4/32 in England's second innings. India secured a comprehensive victory.
+
+Sat, 16 Dec 2023 06:30:03 +0000
+### [Tribal singer beaten to death for molesting mentally retarded girl](https://theprint.in/india/tribal-singer-beaten-to-death-for-molesting-mentally-retarded-girl/1888540/)
+
+Article found but Couldn't summarize 
+Ranchi, Dec 16 (PTI) A 35-year-old tribal singer was beaten to death for allegedly molesting a mentally retarded girl in Jharkhand&#8217;s Ranchi district, a police officer said on Saturday. Three persons have been arrested in connection with the case, the officer said. The incident happened at Tatkundo village, some 30 km from the capital city [&#8230;]
+
 Sat, 16 Dec 2023 06:17:20 +0000
 ### [Pak: Former PML-N leader Sardar Mehtab Ahmed Khan to contest polls as Independent](https://theprint.in/world/pak-former-pml-n-leader-sardar-mehtab-ahmed-khan-to-contest-polls-as-independent/1888533/)
 

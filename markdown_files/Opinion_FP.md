@@ -1,3 +1,8 @@
+Sat, 16 Dec 2023 11:46:08 +0530
+### [War in Our Times | Major Shamsher Mehta's heroic saga in the shadows of 'Pippa' in the 1971 war](https://www.firstpost.com/opinion/war-in-our-times-major-shamsher-mehtas-heroic-saga-in-the-shadows-of-pippa-in-the-1971-war-13510112.html)
+
+The article summarizes the themes of the recently released movie "Pippa" on Amazon Prime Video, focusing on the 1971 India-Pakistan War, the PT-76 amphibious tank, and the Mehta family. It notes discrepancies between the movie and actual events, particularly regarding the eldest Mehta sibling's name and circumstances. The article also highlights the role of Major Shamsher Mehta, a tank squadron commander, and the actions of 63 Cavalry in the 1971 conflict, detailing their involvement in key battles and the capture of Dacca. It also discusses the Indian Army's operations, including the protection of key installations and the orchestration of military operations that contributed to the rapid fall of Dacca.
+
 Fri, 15 Dec 2023 21:18:05 +0530
 ### [Vantage | Is US trying to wean Africa away from China with trade deals?](https://www.firstpost.com/opinion/vantage-is-us-trying-to-wean-africa-away-from-china-with-trade-deals-13509312.html)
 

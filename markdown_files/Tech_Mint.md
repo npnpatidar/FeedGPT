@@ -1,3 +1,9 @@
+Sat, 16 Dec 2023 12:27:01 +0530
+### [Apple users warned after Samsung! Government notifies against THIS critical risk](https://www.livemint.com/technology/tech-news/apple-users-warned-after-samsung-government-notifies-against-this-critical-risk-11702709567415.html)
+
+Article found but Couldn't summarize 
+CERT-In identifies vulnerabilities in Apple products, posing significant risks and potential threats.
+
 Sat, 16 Dec 2023 10:56:31 +0530
 ### [Asus ROG Phone 8, Phone 8 Pro unveiling on Jan 9, 2024: Here's what to expect](https://www.livemint.com/technology/asus-rog-phone-8-phone-8-pro-unveiling-on-jan-9-2024-heres-what-to-expect-11702703649952.html)
 

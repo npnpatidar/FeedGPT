@@ -1,3 +1,8 @@
+Sat, 16 Dec 2023 07:08:38 +0000
+### [PM Modi to inaugurate Surat Diamond Bourse, the world’s biggest workspace: Everything you need to know](https://indianexpress.com/article/explained/surat-diamond-bourse-sdb-gujarat-9070608/)
+
+The Surat Diamond Bourse (SDB) is a newly-built complex in Gujarat, India. It is claimed to be the world's biggest office space in a single project, surpassing the capacity of the Pentagon in the United States. The SDB aims to expand and shift the diamond trading business from Mumbai to Surat, which is known for its cutting and polishing of diamonds. The complex consists of nine towers with a total of about 4,200 offices, ranging from 300 square feet to 7,500 square feet each. It will serve as a hub for diamond-related activities, including the sale of rough and polished diamonds, diamond manufacturing machinery, diamond planning software, diamond certificate firms, lab-grown diamonds, and more. Additionally, there will be 27 retail outlets for diamond jewelry. The SDB has implemented strict security measures, including over 4,000 CCTV cameras and biometric access for employees. The project was completed in five years, with a total cost of Rs 3,200 crore.
+
 Fri, 15 Dec 2023 11:26:07 +0000
 ### [Why India’s green push needs balancing, why COP28 coal breather is important](https://indianexpress.com/article/explained/explained-economics/india-coal-renewable-energy-storage-9069676/)
 
