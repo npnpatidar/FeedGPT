@@ -1,3 +1,116 @@
+Sat, 16 Dec 2023 06:17:20 +0000
+### [Pak: Former PML-N leader Sardar Mehtab Ahmed Khan to contest polls as Independent](https://theprint.in/world/pak-former-pml-n-leader-sardar-mehtab-ahmed-khan-to-contest-polls-as-independent/1888533/)
+
+Article found but Couldn't summarize 
+Rawalpindi [Pakistan], December 16 (ANI): Pakistan&#8217;s former federal minister, Sardar Mehtab Ahmed Khan, announced that he will contest the upcoming general elections as an independent candidate, saying that the country&#8217;s dignity has been lost due to political leaders and rulers, The Express Tribune reported on Saturday. In February, Mehtab stepped down as a senior Pakistan [&#8230;]
+
+Sat, 16 Dec 2023 06:17:11 +0000
+### [SMX CSR Change Maker Summit & Awards 2.0: Recognizing Excellence in Corporate Social Responsibility](https://theprint.in/ani-press-releases/smx-csr-change-maker-summit-awards-2-0-recognizing-excellence-in-corporate-social-responsibility/1888531/)
+
+Article found but Couldn't summarize 
+PRNewswire Mumbai (Maharashtra) [India], December 16: The SMX CSR Change Maker Summit &#38; Awards 2.0, held at the BSE Convention Hall in Mumbai on December 1, 2023, commenced with a Welcome Address by Rahul Jain, MD of InnoServ Group, setting the tone for the day&#8217;s discussions. Dr Sandeep Pachpande, Chairman of ASM Group of Institutes, [&#8230;]
+
+Sat, 16 Dec 2023 06:17:02 +0000
+### [India and US forge ‘Innovation Handshake’ to boost startup ecosystems](https://theprint.in/economy/india-and-us-forge-innovation-handshake-to-boost-startup-ecosystems/1888529/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 16 (ANI): The Union Cabinet chaired by Prime Minister Narendra Modi has given its nod to the Memorandum of Understanding (MoU) between India and the United States. This strategic partnership aims to enhance innovation ecosystems through what is being termed an &#8216;Innovation Handshake.&#8217; The announcement was made through a tweet from [&#8230;]
+
+Sat, 16 Dec 2023 06:15:15 +0000
+### [Europe must rearm as new threats loom, German minister says](https://theprint.in/world/europe-must-rearm-as-new-threats-loom-german-minister-says/1888527/)
+
+The article discusses the need for Europe to strengthen its defense capabilities in the face of evolving military threats. Germany's defense minister, Boris Pistorius, highlights the necessity for Europe to enhance its own security measures and increase weapons production within the next 5-8 years. Additionally, there is a potential shift in U.S. military engagement towards the Indo-Pacific region, prompting European countries to re-evaluate their defense strategies. Pistorius also emphasizes the importance of developing military cooperation with Poland and aligning with NATO defense plans.
+
+Sat, 16 Dec 2023 06:15:14 +0000
+### [Rain, snow likely in higher reaches of J-K over two days](https://theprint.in/india/rain-snow-likely-in-higher-reaches-of-j-k-over-two-days/1888526/)
+
+Article found but Couldn't summarize 
+Srinagar, Dec 16 (PTI) A western disturbance is likely to affect Jammu and Kashmir on Saturday with a possibility of light rain or snow in the higher reaches over two days, officials said. Cold wave conditions improved in north and central Kashmir due to cloud cover but the mercury dropped in south Kashmir areas last [&#8230;]
+
+Sat, 16 Dec 2023 06:15:02 +0000
+### [UGC warns edtech companies offering degree courses online in association with foreign universities](https://theprint.in/india/ugc-warns-edtech-companies-offering-degree-courses-online-in-association-with-foreign-universities/1888524/)
+
+The University Grants Commission (UGC) has issued a warning to edtech companies and colleges that are offering degrees through collaborative arrangements with foreign universities not recognized by the UGC. The commission has stated that none of these degrees will be valid and has cautioned students against enrolling in such courses. The UGC Secretary, Manish Joshi, emphasized that collaborative agreements with unrecognized foreign educational institutions are not permissible and that any degree issued as a result of such an arrangement will not be recognized by the UGC. The UGC has also advised students and the general public to exercise caution and stated that enrollment in such courses will be at their own risk. Additionally, the commission has warned of action against defaulting edtech companies and Higher Education Institutions (HEIs) under applicable regulations.
+
+Sat, 16 Dec 2023 06:15:02 +0000
+### [Cricket-India’s Shami ruled out of South Africa tests, Chahar unavailable for ODIs](https://theprint.in/india/cricket-indias-shami-ruled-out-of-south-africa-tests-chahar-unavailable-for-odis/1888523/)
+
+Article found but Couldn't summarize 
+(Reuters) - India seamer Mohammed Shami will not play in two test matches against South Africa while bowler Deepak Chahar has withdrawn from the one-day international series, the country's cricket
+
+Sat, 16 Dec 2023 06:02:45 +0000
+### [Pepe (PEPE), Retik Finance (RETIK) and Ordi (ORDI) Expected to Provide Huge Profits in 2024](https://theprint.in/ani-press-releases/pepe-pepe-retik-finance-retik-and-ordi-ordi-expected-to-provide-huge-profits-in-2024/1888519/)
+
+The article discusses three tokens that have gained attention in the crypto arena for their unique value propositions - Pepe (PEPE), Retik Finance (RETIK), and Ordi (ORDI). Pepe offers a fusion of meme coin excitement and innovative features, Retik Finance aims to revolutionize the DeFi space with community-driven growth and inclusive opportunities, and Ordi focuses on bridging the gap between traditional finance and the blockchain by tokenizing real-world assets. These tokens are positioned as promising investment choices for 2024, offering potential profits and active participation in the transformative journey of the blockchain space.
+
+For more information about Retik Finance (RETIK), including its presale and mission, you can visit their official website at https://retik.com/ or their Linktree at https://linktr.ee/retikfinance.
+
+Sat, 16 Dec 2023 06:02:34 +0000
+### [Shruti Haasan’s first look from Adivi Sesh-starrer action drama unveiled](https://theprint.in/feature/shruti-haasans-first-look-from-adivi-sesh-starrer-action-drama-unveiled/1888517/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 16 (ANI): On Saturday, actor Adivi Sesh unveiled the first look of his co-star Shruti Haasan from their upcoming action drama. In the poster, Shruti captivates the audience with a striking portrayal, focusing on her eyes that vividly express anger and fury, cutting through the frame with intense emotion. Sharing the [&#8230;]
+
+Sat, 16 Dec 2023 06:02:24 +0000
+### [S&P Global Commodity insights unveils in-depth 2024 energy outlook](https://theprint.in/economy/sp-global-commodity-insights-unveils-in-depth-2024-energy-outlook/1888515/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 16 (ANI): S&#38;P Global Commodity Insights, has laid bare the intricate landscape of the 2024 energy market. According to S&#38;P Global, against the backdrop of a turbulent global stage, characterized by economic deceleration and geopolitical uncertainties, the analysts provide insights into the delicate equilibrium between energy supply and demand. The oil [&#8230;]
+
+Sat, 16 Dec 2023 06:02:12 +0000
+### [Get your new iPhone at Rs 15,000 exclusively at Maple with an exclusive Upgrade plan](https://theprint.in/ani-press-releases/get-your-new-iphone-at-rs-15000-exclusively-at-maple-with-an-exclusive-upgrade-plan/1888513/)
+
+Article found but Couldn't summarize 
+HT Syndication New Delhi [India], December 16: Upgrade to the next iPhone series seamlessly with Maple&#8217;s Easy Upgrade Plan, starting at just Rs 7,990. Embrace the future while always being upgraded at a minimal cost valuable with a honest 84.7 per cent buyback value for your old device, making your upgrade even more easy and [&#8230;]
+
+Sat, 16 Dec 2023 06:02:01 +0000
+### [Two-Day Annual Extravaganza at Satluj Public School, Sector 4, Panchkula](https://theprint.in/ani-press-releases/two-day-annual-extravaganza-at-satluj-public-school-sector-4-panchkula/1888511/)
+
+Article found but Couldn't summarize 
+NewsVoir Panchkula (Haryana) [India], December 16: Students of Satluj Public School, Sector 4, Panchkula today gave a scintillating performance on two days of the annual day celebrations at the school premises in Sector 4 here. The theme of &#8216;Satluj Pride 2023&#8217; this year was Incomparable India: Unveiling the Story of Bharat, which showcased different traditions [&#8230;]
+
+Sat, 16 Dec 2023 06:00:46 +0000
+### [Urdu press hails SC ruling on Article 370, says ‘time to focus on holding elections’](https://theprint.in/urduscope/urdu-press-hails-sc-ruling-on-article-370-says-time-to-focus-on-holding-elections/1887660/)
+
+Article found but Couldn't summarize 
+ThePrint’s round-up of how the Urdu media covered various news events through the week, and the editorial positions some of them took.
+
+Sat, 16 Dec 2023 06:00:03 +0000
+### [Patna district administration to conduct fresh security audit of all court premises: DM](https://theprint.in/india/patna-district-administration-to-conduct-fresh-security-audit-of-all-court-premises-dm/1888508/)
+
+The district administration in Patna has decided to conduct a security audit of all court premises in the city following the fatal shooting of an undertrial prisoner, Abhishek Singh, at the Danapur court premises. Abhishek Singh, also known as Chhote Sarkar, was involved in several cases of heinous crimes and was attacked by two armed assailants while being escorted to a trial court. The security audit will include an assessment of security personnel deployment, round-the-clock monitoring through high-resolution CCTV cameras, increased installation of metal detectors and X-ray scanners, as well as thorough frisking of individuals entering court complexes. Additionally, only authorized vehicles with requisite stickers will be permitted inside court premises. The incident is under investigation, and the shooters involved are being questioned to establish their motive.
+
+Sat, 16 Dec 2023 05:47:14 +0000
+### [It’s a wrap for Sunny Singh’s ‘Risky Romeo’](https://theprint.in/feature/its-a-wrap-for-sunny-singhs-risky-romeo/1888502/)
+
+Article found but Couldn't summarize 
+Kolkata (West Bengal) [India], December 16 (ANI): Actor Sunny Singh has finished shooting for his film &#8216;Risky Romeo&#8217; in Kolkata. Excited about the project, Sunny in a statement said, &#8220;I usually do not get offered characters like this and only when I started shooting I realised what Abir had seen in me and offered me [&#8230;]
+
+Sat, 16 Dec 2023 05:47:02 +0000
+### [A Pioneer in Stock Market Education, Indore-based Bimal Institute launches its signature course “Be A Trader Program” in Online Mode](https://theprint.in/ani-press-releases/a-pioneer-in-stock-market-education-indore-based-bimal-institute-launches-its-signature-course-be-a-trader-program-in-online-mode/1888500/)
+
+The Bimal Institute for Market Research in Indore, India has launched its "Be a Trader Program" in an online format, providing comprehensive share market and trading classes with a focus on intraday trading mastery, options trading, swing trading excellence, and strategic portfolio creation. The program aims to empower individuals with knowledge and skills for successful trading. The institute also boasts the region's largest trading lounge and has garnered acclaim from over 3000 students. The founder, Manish Bimal, aims to create 100,000 self-reliant traders by 2030. For more information, you can visit their website at https://www.bimalinstitute.com/.
+
+Sat, 16 Dec 2023 05:45:04 +0000
+### [Japan and Malaysia sign $2.8 million maritime security assistance deal](https://theprint.in/world/japan-and-malaysia-sign-2-8-million-maritime-security-assistance-deal/1888498/)
+
+Japan and Malaysia signed a security assistance deal, with Japan providing a grant of 400 million yen ($2.8 million) to boost Malaysia’s maritime security. The agreement includes providing equipment such as rescue boats and supplies. The assistance is part of Japan's efforts to support ASEAN members in enhancing their international standing and managing their relations with other countries, including China. This deal comes in the context of the South China Sea dispute, in which ASEAN members and China have competing territorial claims. Japan's aid to Malaysia is part of a broader plan to provide financial assistance to developing countries to strengthen their defense capabilities.
+
+Sat, 16 Dec 2023 05:45:02 +0000
+### [Odisha opens command & control centre for tracking public transport vehicles](https://theprint.in/india/odisha-opens-command-control-centre-for-tracking-public-transport-vehicles/1888497/)
+
+The Odisha state transport department has established a round-the-clock command and control center for vehicle location tracking, using both GPS and GSM/GPRS technology to ensure the safety of passengers, especially women. This initiative is in compliance with the Central Motor Vehicle Rule 1989 and the Nirbhaya Scheme for women's safety. Public transport vehicles and goods vehicles are required to have Vehicle Location Tracking (VLT) devices installed, and a mobile application named 'Mo Yatra Suraksha' has been developed for tracking and monitoring. The project aims to ensure continuous monitoring of public transport vehicles, enhance road safety, and provide better support for enforcement services. All passenger transport vehicles will be equipped with VLT panic buttons for the safety of women and children, and specified vehicles must comply with the VLT requirement as per the designated timelines.
+
+Sat, 16 Dec 2023 05:32:27 +0000
+### [Kanubhai – The Great: A Cinematic Revolution in Urban Gujarati Cinema](https://theprint.in/ani-press-releases/kanubhai-the-great-a-cinematic-revolution-in-urban-gujarati-cinema/1888492/)
+
+The article is about the revolution and elevation of urban Gujarati films, particularly focusing on the film "Kanubhai – The Great." The film is based on the life of Padma Shri awardee Kanubhai Tailor, known as the "Messiah of the Differently-abled," and it offers a unique blend of entertainment and a powerful message. The film transcends traditional boundaries and incorporates engaging narratives, imaginative storytelling, an unconventional love story, comedy, mystery, and courtroom drama. Directed by renowned filmmaker Irshad Dalal, the film features a stellar cast and soulful music composed by Teenu Arora and Jay Mahant. Shot on real locations in Surat and Vadodara, the movie aims to uplift the spirits of the audience and marks a significant step in elevating Gujarati cinema to new heights.
+
+Sat, 16 Dec 2023 05:32:14 +0000
+### [17th Ryan International Children’s Festival 2023 Inaugurated in Delhi](https://theprint.in/ani-press-releases/17th-ryan-international-childrens-festival-2023-inaugurated-in-delhi/1888490/)
+
+The Ryan Group of Schools recently inaugurated the 17th edition of the Ryan International Children’s Festival 2023 with the theme “Let’s Have Fun” at Talkatora Stadium, New Delhi. The event brought together over 13,000 children from more than 17 countries, offering a platform for cultural exchange and talent showcase. The festival included various performances, workshops, and classroom exchanges, as well as symbolic events like the White T-Shirt Ceremony and World Village, promoting peace, harmony, and cultural understanding. The Ryan International Children’s Festival is known for fostering international understanding and collaboration, drawing children from over 30 countries, and showcasing the diversity of nearly 300,000 enthusiastic participants. The Ryan Group of Schools, with a legacy of over four decades, is committed to providing holistic education and nurturing future leaders and global citizens.
+
 Sat, 16 Dec 2023 05:00:32 +0000
 ### [Raghvendra Kumar Singh appointed as principal secretary to Madhya Pradesh CM](https://theprint.in/india/raghvendra-kumar-singh-appointed-as-principal-secretary-to-madhya-pradesh-cm/1888470/)
 

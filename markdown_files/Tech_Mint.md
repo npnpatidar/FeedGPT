@@ -1,3 +1,9 @@
+Sat, 16 Dec 2023 10:56:31 +0530
+### [Asus ROG Phone 8, Phone 8 Pro unveiling on Jan 9, 2024: Here's what to expect](https://www.livemint.com/technology/asus-rog-phone-8-phone-8-pro-unveiling-on-jan-9-2024-heres-what-to-expect-11702703649952.html)
+
+Article found but Couldn't summarize 
+Asus has officially announced that the upcoming ROG Phone 8 series will be revealed at CES 2024, featuring Qualcomm's Snapdragon 8 Gen 3 SoC.
+
 Sat, 16 Dec 2023 08:02:07 +0530
 ### [SpaceX delays launch of X-37B robot spaceplane to December 28](https://www.livemint.com/technology/tech-news/spacex-delays-launch-of-x-37b-robot-spaceplane-to-december-28-11702693457233.html)
 

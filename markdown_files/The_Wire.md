@@ -1,3 +1,15 @@
+2023-12-16T11:29:08+05:30
+### [Protests Erupt in Israel After IDF Says It 'Accidentally Killed' Three Hostages in Gaza](https://thewire.in/world/idf-accidentally-killed-three-israeli-hostages-gaza)
+
+No Article text 
+Some 130 hostages remain in Gaza. The three hostages were killed in the Gaza City district of Shijaiyah.
+
+2023-12-16T10:59:38+05:30
+### [Pratap Simha: Hardline Hindutva Leader, Mysore-Kodagu MP in Eye of Storm for Parliament Security Breach](https://thewire.in/politics/pratap-simha-hardline-hindutva-leader-bjp-mysore-kodagu-mp-parliament-security-breach)
+
+No Article text 
+Simha, a two term MP, is one of the most polarising public representatives that the multicultural region of Old Mysore has ever seen. Though not a BJP old-timer, he has risen to significance as part of Modi-Shah's efforts to create a new, aggressive leadership.
+
 2023-12-16T10:29:19+05:30
 ### [Vanishing Middle Class and Struggling Opposition Need Productivism](https://thewire.in/economy/vanishing-middle-class-struggling-opposition-productivism)
 
