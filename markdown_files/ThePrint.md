@@ -1,3 +1,114 @@
+Sat, 16 Dec 2023 01:15:19 +0000
+### [Activision to pay $50 million to settle workplace harassment lawsuit](https://theprint.in/tech/activision-to-pay-50-million-to-settle-workplace-harassment-lawsuit/1888382/)
+
+Article found but Couldn't summarize 
+(Reuters) -Activision Blizzard will pay roughly $50 million to settle a 2021 lawsuit by a California regulator that alleged the videogame maker discriminated against women employees, including denying
+
+Sat, 16 Dec 2023 01:15:03 +0000
+### [US-China science pact renewal ‘not a given’ -US envoy](https://theprint.in/world/us-china-science-pact-renewal-not-a-given-us-envoy/1888380/)
+
+Article found but Couldn't summarize 
+By Michael Martina and David Brunnstrom WASHINGTON (Reuters) - U.S. Ambassador to China Nicholas Burns said on Friday he had started talks with Beijing on renewing a landmark scientific cooperation
+
+Sat, 16 Dec 2023 01:00:02 +0000
+### [Inform rape survivors about right to abort at the time of filing FIR, says Karnataka HC](https://theprint.in/judiciary/inform-rape-survivors-about-right-to-abort-at-the-time-of-filing-fir-says-karnataka-hc/1887762/)
+
+The Karnataka High Court has passed a series of directions on the handling of unwanted pregnancies caused by sexual assault. These directions include informing the survivor at the earliest about the right to terminate their pregnancy, counseling them about legal options, and having a standard operating procedure for such cases. The court has also directed for the immediate medical examination of survivors to ascertain pregnancy status, counseling in a language known to the victim, and follow-up checks to ascertain the physical and mental well-being of the survivor. Additionally, the court ruled in favor of allowing the termination of a minor's pregnancy at 26 weeks, when the medical board's report stated that the minor's basic parameters were normal and there would be no harm or injury to her if the procedure was performed.
+
+Sat, 16 Dec 2023 00:47:01 +0000
+### [Russia: Kremlin has “no information” about missing Putin critic Alexei Navalny](https://theprint.in/world/russia-kremlin-has-no-information-about-missing-putin-critic-alexei-navalny/1888378/)
+
+Alexei Navalny, a prominent Russian opposition leader, has reportedly been missing from prison since December 6. The Kremlin has stated that it has "no information" about his whereabouts, and his lawyers have not been able to see him since then. Navalny, known for criticizing President Putin's government, was serving a sentence for multiple charges, including extremism, before being transferred from the penal colony. There are concerns about his well-being, and rights groups have criticized the lack of information surrounding his location. Navalny was previously poisoned with a nerve agent and has been a vocal critic of Putin's regime. His current situation raises concerns about his safety and human rights.
+
+Sat, 16 Dec 2023 00:45:26 +0000
+### [Activision Blizzard settles workplace harassment lawsuit in California](https://theprint.in/tech/activision-blizzard-settles-workplace-harassment-lawsuit-in-california/1888376/)
+
+Activision Blizzard, the maker of "Call of Duty," has agreed to pay $46.8 million to settle a lawsuit filed by a California regulator. The lawsuit alleged widespread workplace harassment at the company, including underpayment and lack of promotion for female employees, as well as condoning sexual harassment. However, it is important to note that the settlement agreement acknowledges that no court or independent investigation has substantiated these allegations of systemic or widespread sexual harassment at Activision Blizzard. The company stated this in a statement released on Friday. Please let me know if there's anything else I can assist you with.
+
+Sat, 16 Dec 2023 00:45:14 +0000
+### [US approves $300 million support for Taiwan’s tactical information systems](https://theprint.in/world/us-approves-300-million-support-for-taiwans-tactical-information-systems/1888375/)
+
+Article found but Couldn't summarize 
+WASHINGTON (Reuters) - The U.S. State Department has approved a $300 million sale of equipment to help maintain Taiwan's tactical information systems, the Pentagon said on Friday, the latest U.S.
+
+Sat, 16 Dec 2023 00:45:03 +0000
+### [US religious freedom watchdog ‘implores’ Biden administration to designate India](https://theprint.in/india/us-religious-freedom-watchdog-implores-biden-administration-to-designate-india/1888373/)
+
+Article found but Couldn't summarize 
+WASHINGTON (Reuters) - The U.S. religious freedom watchdog on Friday again called on the Biden administration to designate India as a "country of particular concern" under the U.S. Religious Freedom
+
+Sat, 16 Dec 2023 00:32:02 +0000
+### [Quad members to “detect and deter” cyber-attacks for keeping Indo-Pacific resilient](https://theprint.in/world/quad-members-to-detect-and-deter-cyber-attacks-for-keeping-indo-pacific-resilient/1888371/)
+
+The Quad members—India, Australia, Japan, and the United States— recently held the third in-person Quad Senior Cyber Group Principal Meeting in Tokyo on December 5-6. During the meeting, the Quad members discussed the importance of enhanced cooperation in the field of cybersecurity and reaffirmed their commitment to an Indo-Pacific that is resilient and equipped to detect and deter cyber-attacks. They also expressed serious concern about cyber-attacks on critical infrastructure in the region. The Quad partners shared their recognition that cyber-attacks have been increasing in frequency and sophistication and discussed the importance of securing the resilience of information technology and operational technology systems in critical infrastructure. Additionally, they discussed the need for reliable, secure, and resilient supply chains for critical sectors. The joint statement from the Quad Senior Cyber Group highlighted their support for the Quad Cybersecurity Partnership and welcomed the progress on Quad cyber initiatives. The Quad partners reaffirmed their commitment to leveraging their respective strengths and resources to promote a more secure cyber space in the Indo-Pacific.
+
+Sat, 16 Dec 2023 00:15:28 +0000
+### [Motor racing-Former F1 champion Button to race in World Endurance Championship](https://theprint.in/sport/motor-racing-former-f1-champion-button-to-race-in-world-endurance-championship/1888369/)
+
+Article found but Couldn't summarize 
+(Reuters) - Former Formula 1 world champion Jenson Button will drive a Jota Porsche 963 in the World Endurance Championship next year. Button, 43, is set to race in the world's top hypercar category,
+
+Sat, 16 Dec 2023 00:15:13 +0000
+### [Australia swelters through heat wave amid ‘extreme’ fire danger](https://theprint.in/world/australia-swelters-through-heat-wave-amid-extreme-fire-danger/1888368/)
+
+Article found but Couldn't summarize 
+SYDNEY (Reuters) - Large parts of Australia on Saturday sweltered under heat wave conditions that prompted the nation's weather forecaster to issue bush fire warnings in several states. Heat wave
+
+Sat, 16 Dec 2023 00:15:03 +0000
+### [US, South Korea to draw up joint nuclear defence guideline against North Korean threat -Yonhap](https://theprint.in/world/us-south-korea-to-draw-up-joint-nuclear-defence-guideline-against-north-korean-threat-yonhap/1888366/)
+
+Article found but Couldn't summarize 
+SEOUL (Reuters) - The United States and South Korea plan to draw up joint guidelines on nuclear defence strategy by the middle of next year and establish an integrated system to deter North Korea's
+
+Sat, 16 Dec 2023 00:02:01 +0000
+### [India raised cases of minority persecution in Pakistan multiple times: MoS Muraleedharan](https://theprint.in/world/india-raised-cases-of-minority-persecution-in-pakistan-multiple-times-mos-muraleedharan/1888364/)
+
+Union Minister of State for External Affairs, V Muraleedharan, informed the Lok Sabha that India is aware of reports of minority persecution in Pakistan and has taken up the matter with the Islamabad government multiple times. The Indian government has noted alleged heinous crimes against minority communities in Pakistan and has urged the Pakistani government to protect and promote the safety, security, and well-being of its minority communities. Additionally, India has highlighted human rights violations in Pakistan at the Human Rights Council in Geneva.
+
+Fri, 15 Dec 2023 23:45:03 +0000
+### [Attacks from Houthi-controlled Yemen hit two ships](https://theprint.in/world/attacks-from-houthi-controlled-yemen-hit-two-ships/1888363/)
+
+The summary mentions the recent attacks on multiple container ships in the Red Sea by Houthi forces affiliated with Yemen. The attacks targeted vessels including the MSC Alanya, MSC Palatium III, and Al Jasrah, resulting in fires and the need for additional security measures. The Houthi forces claimed that these attacks were in support of Palestinians, as Israeli forces continued their offensive against Iran-aligned Hamas militants in the Gaza Strip. The Houthi forces also warned all ships except those heading to Israeli ports to expect no harm. The U.S. has expressed the need for a broader maritime coalition to protect ships and signal to the Houthis that attacks would not be tolerated. Iran has warned against the proposed multinational naval force, arguing that no movement should be made in a region where they have predominance.
+
+Fri, 15 Dec 2023 23:32:02 +0000
+### [Israel retrieves bodies of two abducted soldiers](https://theprint.in/world/israel-retrieves-bodies-of-two-abducted-soldiers/1888361/)
+
+Article found but Couldn't summarize 
+Tel Aviv [Israel], December 16 (ANI/TPS): Israeli forces recovered the bodies of two abducted soldiers, the Israel Defense Forces announced on Friday morning. The bodies of Cpl Nik Beizer and Sgt Ron Sherman were positively identified by medical officials and military rabbis, together with the Institute of Forensic Medicine and the Israel Police. Beizer, a [&#8230;]
+
+Fri, 15 Dec 2023 23:17:21 +0000
+### [US: Former Trump lawyer Rudy Giuliani to pay USD 148 million for defaming two election workers](https://theprint.in/world/us-former-trump-lawyer-rudy-giuliani-to-pay-usd-148-million-for-defaming-two-election-workers/1888359/)
+
+The jury has ordered former New York Mayor Rudy Giuliani to pay USD 148 million to two former Georgia election workers over false allegations of rigging the 2020 presidential polls against former President Donald Trump. The workers, Rose Freeman and Shaye Moss, testified about the impact of the accusations on their lives, including facing threats. The jury deliberated for over 10 hours before reaching the verdict. Giuliani has doubled down on his claims of election fraud, and it remains unclear how he will pay the sum. Moss expressed the hope that no one else has to endure what they have experienced. The case focused on claims of defamation, intentional infliction of emotional distress, civil conspiracy, and punitive damage.
+
+Fri, 15 Dec 2023 23:17:12 +0000
+### [UAE: Dubai Police Commander-in-Chief receives UNDRR Secretary-General](https://theprint.in/world/uae-dubai-police-commander-in-chief-receives-undrr-secretary-general/1888357/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 16 (ANI/WAM): Lieutenant General Abdullah Khalifa Al Marri, the Commander-in-Chief of Dubai Police, warmly welcomed Mami Mizutori, the Special Representative of the United Nations Secretary-General for Disaster Risk Reduction and Head of the United Nations Office for Disaster Risk Reduction (UNDRR), along with her accompanying delegation, at the Dubai Police General Headquarters. [&#8230;]
+
+Fri, 15 Dec 2023 23:17:02 +0000
+### [UAE: Ajman Tourism achieves milestones in Egypt roadshow, secures partnerships with three prominent tourism companies](https://theprint.in/world/uae-ajman-tourism-achieves-milestones-in-egypt-roadshow-secures-partnerships-with-three-prominent-tourism-companies/1888355/)
+
+The Ajman Department of Tourism Development conducted a strategic roadshow in Egypt to enhance collaboration between Ajman and Egypt, with a focus on fortifying tourism ties. Memorandums of understanding were signed with Travco Egypt, Travista Egypt, and Heliopolis Express Tours Egypt to strengthen cooperation in tourism, hospitality, and marketing. The goal is to promote Ajman's tourist attractions and cultural landmarks, aiming to position Ajman prominently on the global tourism stage. The department remains dedicated to strengthening relationships with key partners in the tourism sector to achieve sustainable tourism development and increase demand from Egyptian tourists.
+
+Fri, 15 Dec 2023 23:15:59 +0000
+### [Soccer-Jeffinho scores late to give Lyon 1-0 upset win at Monaco](https://theprint.in/sport/soccer-jeffinho-scores-late-to-give-lyon-1-0-upset-win-at-monaco/1888354/)
+
+Article found but Couldn't summarize 
+(Reuters) - Struggling Olympique Lyonnais snatched a 1-0 victory at third-placed AS Monaco thanks to a late winner from substitute Jefferson Jeffinho in Ligue 1 on Friday. Relegation-threatened Lyon
+
+Fri, 15 Dec 2023 23:15:47 +0000
+### [Drought-hit Panama Canal to increase shipping slots to 24](https://theprint.in/environment/drought-hit-panama-canal-to-increase-shipping-slots-to-24/1888352/)
+
+The Panama Canal Authority has announced an increase in the number of booking slots available in its Panamax and Neopanamax locks due to a severe drought. From mid-January, the authority will offer 24 transit slots per day, up from the previously planned 18. This decision is based on the current and expected levels of the artificial Gatun Lake, which provides the necessary water for the canal's operation. The additional slots will cover regular, supers, and neopanamax vessel categories. The authority has also provided information regarding applications for the new slots, as well as the prioritization process for slot allocation. Additionally, due to the water crisis, the authority will only allow one booking slot per customer per date for transit dates starting on Jan. 16, until further notice. The ongoing drought has resulted in increased fees and traffic at the canal, prompting some vessels to take longer routes to avoid congestion. An alternative route takes ships down South America’s entire Atlantic coast, crossing the Strait of Magellan at the continent’s southern tip and heading back up the Pacific coast tracks.
+
+Fri, 15 Dec 2023 23:15:32 +0000
+### [Mexico closes cantaloupe plant temporarily amid deadly salmonella outbreak](https://theprint.in/world/mexico-closes-cantaloupe-plant-temporarily-amid-deadly-salmonella-outbreak/1888350/)
+
+Article found but Couldn't summarize 
+MEXICO CITY (Reuters) - Mexico's government said Friday it temporarily closed a cantaloupe processing plant while investigating the source of a salmonella contamination that has killed at least nine
+
 Fri, 15 Dec 2023 23:15:03 +0000
 ### [Cardinal, nine other defendants, await verdicts at Vatican trial](https://theprint.in/world/cardinal-nine-other-defendants-await-verdicts-at-vatican-trial/1888345/)
 
