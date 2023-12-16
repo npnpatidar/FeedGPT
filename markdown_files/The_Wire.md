@@ -1,3 +1,9 @@
+2023-12-16T07:00:25+05:30
+### [How to Feast on Silence](https://thewire.in/books/chetna-maroo-western-lane-booker-squash-novel)
+
+No Article text 
+Chetna Maroo's Booker shorlisted novel 'Western Lane' is quiet in a way that is tyranny to the reader but to the inhabitants of the novel, it is necessary, calming and stark in its beauty.
+
 2023-12-15T23:05:07+05:30
 ### [Watch | SC Erred on Article 370, Should Review its Verdict: Justice Madan Lokur](https://thewire.in/video/watch-sc-erred-on-article-370-should-review-its-verdict-justice-madan-lokur)
 

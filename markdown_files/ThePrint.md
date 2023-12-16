@@ -1,3 +1,19 @@
+Sat, 16 Dec 2023 02:15:04 +0000
+### [Ukraine puts head of Russian church on “wanted” list](https://theprint.in/world/ukraine-puts-head-of-russian-church-on-wanted-list/1888390/)
+
+Article found but Couldn't summarize 
+(Reuters) - Ukraine's Interior Ministry on Friday placed the head of Russia's Orthodox Church, a backer of the Kremlin's 21-month-old war against Kyiv, on a wanted list after security services accused
+
+Sat, 16 Dec 2023 02:00:20 +0000
+### [First ‘Pannun plot’ indictment filed by US only mentioned Nikhil Gupta, not ‘Indian govt employee’](https://theprint.in/india/first-pannun-plot-indictment-filed-by-us-only-mentioned-nikhil-gupta-not-indian-govt-employee/1888338/)
+
+The article discusses the indictment filed in the US against Nikhil Gupta, an Indian national accused of participating in an alleged plot to kill Sikh radical Gurpatwant Singh Pannun. The initial indictment did not mention the suspected involvement of an "Indian government employee," but a superseding indictment filed by US prosecutors mentions the role of an Indian government employee in the alleged plot. Gupta is believed to have been arrested in the Czech Republic. His family has filed a petition in the Supreme Court, claiming he is being kept in illegal detention. The petition includes an affidavit filed in support of a request for extradition by a special agent of the US Drug Enforcement Administration, detailing the alleged plot and Gupta's actions.
+
+Sat, 16 Dec 2023 01:17:02 +0000
+### [Iran: Lack of jobs pose major challenge to Afghan immigrant women](https://theprint.in/world/iran-lack-of-jobs-pose-major-challenge-to-afghan-immigrant-women/1888384/)
+
+Millions of Afghan immigrants live in Iran, with approximately one-third being women with limited job opportunities, often engaging in home-based occupations such as sewing. There are restrictions on education and employment for undocumented immigrants in Iran, with many Afghan migrant women employed in underground workshops for low wages. The lack of legal residency can result in job loss, and the trend of deporting Afghan migrant families from Iran is increasing. Despite the challenges faced by Afghan migrants, there is limited organizational support and human rights organizations in Iran have not been active in addressing their difficulties.
+
 Sat, 16 Dec 2023 01:15:19 +0000
 ### [Activision to pay $50 million to settle workplace harassment lawsuit](https://theprint.in/tech/activision-to-pay-50-million-to-settle-workplace-harassment-lawsuit/1888382/)
 
