@@ -1,3 +1,86 @@
+Sat, 16 Dec 2023 09:03:25 +0000
+### [UP: Teen boy killed in clash during wedding procession](https://theprint.in/india/up-teen-boy-killed-in-clash-during-wedding-procession/1888705/)
+
+Article found but Couldn't summarize 
+Sultanpur (UP), Dec 16 (PTI) A 17-year-old boy was stabbed to death after a dispute occurred between two groups over dancing at a wedding procession here, police said on Saturday. The incident took place on Friday at around 9.30 pm in Madhavpur Belvai village, In-charge of Belvai police outpost Shailendra Pratap Singh said. A procession [&#8230;]
+
+Sat, 16 Dec 2023 09:02:47 +0000
+### [Sunny Singh wraps shooting of next movie ‘Risky Romeo’](https://theprint.in/feature/sunny-singh-wraps-shooting-of-next-movie-risky-romeo/1888704/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 16 (PTI) Actor Sunny Singh on Saturday said he has concluded shooting for his upcoming movie &#8220;Risky Romeo&#8221;. Directed by Abir Sengupta, “Risky Romeo” is a neo-noir comic tragedy about “modern day existential crisis”. It also stars actor Kriti Kharbanda. Singh, known for movies such as “Sonu Ke Titu Ki Sweety” and “Adipurush”, [&#8230;]
+
+Sat, 16 Dec 2023 09:02:02 +0000
+### [Breaking Ground at Thub: Student Tribe App Redefines Student Career Opportunities](https://theprint.in/ani-press-releases/breaking-ground-at-thub-student-tribe-app-redefines-student-career-opportunities/1888702/)
+
+The article you provided is about the launch of the Student Tribe App by T-Hub, Hyderabad. The app aims to enhance career opportunities for students across India by offering tailored internships and job listings. It also provides features such as organizing events, writing articles, offering group discounts, and a novel in-app currency called "st. coins." Additionally, the article mentions the st. x Infinitum Creator Accelerator Program, which aims to nurture student creators and offer them mentorship and practical opportunities to thrive. The app is designed to create a community where students can access unparalleled opportunities for career growth and personal development.
+
+Sat, 16 Dec 2023 09:02:01 +0000
+### [Our son can’t do this: Parents of Par security breach mastermind Lalit Jha](https://theprint.in/india/our-son-cant-do-this-parents-of-par-security-breach-mastermind-lalit-jha/1888701/)
+
+The article is about the parents of Lalit Jha, who was accused of being the mastermind behind a security breach in the Indian Parliament. The article describes how Lalit's father, Devanand Jha, found out about his son's arrest and the disbelief and emotional turmoil the family is going through. Lalit's parents vehemently deny their son's involvement in any wrongdoing and express their hope for a fair legal process. They also highlight Lalit's academic and philanthropic activities to portray a different image of him than the one portrayed in the accusations.
+
+Sat, 16 Dec 2023 09:01:24 +0000
+### [Myanmar instability, weapons with Manipur warring groups have grave implications for state: Kalita](https://theprint.in/india/myanmar-instability-weapons-with-manipur-warring-groups-have-grave-implications-for-state-kalita/1888700/)
+
+The article discusses the implications of the availability of firearms in Manipur and the instability in neighboring Myanmar. Lieutenant General Rana Pratap Kalita, Eastern Army Commander, talks about the efforts of the Army and the Assam Rifles, along with state police and CAPF, to control violence in Manipur, where the Meitei and Kuki communities are in conflict. He emphasizes the challenges posed by the large number of weapons in both communities and the instability in Myanmar. The report also highlights the efforts to reduce violence and the difficulty in setting a time limit for resolving the situation due to historical and legacy issues. Additionally, it mentions the proactive operations being conducted in collaboration with state authorities and the mention of India's victory in the 1971 war against Pakistan.
+
+Sat, 16 Dec 2023 09:00:55 +0000
+### [Congress to launch ‘Donate for Desh’ crowdfunding campaign on December 18](https://theprint.in/india/congress-to-launch-donate-for-desh-crowdfunding-campaign-on-december-18/1888699/)
+
+The article highlights the launch of the Congress party's nationwide ‘Donate for Desh’ crowdfunding campaign ahead of the 2024 Lok Sabha elections. The campaign, scheduled to launch on December 18, will allow Indian citizens above 18 to donate a minimum of Rs 138 and its multiples. The initiative is inspired by Mahatma Gandhi’s ‘Tilak Swaraj Fund’ and aims to empower the party in creating a more equitable India. The party has created two online channels for the fundraising campaign, and Pradesh Congress Committee presidents will raise awareness about the campaign through press conferences and social media. Ground campaigns, including door-to-door visits and a "mammoth rally" in Maharashtra’s Nagpur on December 28, are also planned as part of the initiative. The campaign's tagline is “INC needs you, INDIA needs you, for a better desh.” If you wish to donate, you must be an Indian citizen and above the age of 18.
+
+[For the full article, you can visit ThePrint website.]
+
+Sat, 16 Dec 2023 09:00:29 +0000
+### [With win against strong England, India have got a taste of what Test cricket is all about: Muzumdar](https://theprint.in/sport/with-win-against-strong-england-india-have-got-a-taste-of-what-test-cricket-is-all-about-muzumdar/1888698/)
+
+The article discusses the Indian women's cricket team's victory against England in a one-off four-day match. Head coach Amol Muzumdar praises the team's effort and performance, especially that of player Deepti Sharma, and emphasizes the importance of continuing the momentum in the upcoming Test match against Australia on December 21 at the Wankhede Stadium in Mumbai. He also highlights the significance of back-to-back Test matches for the team. Deepti Sharma shares her pride in her performance and credits the assistance from the pitch for her success.
+
+Sat, 16 Dec 2023 09:00:02 +0000
+### [Court denies bail to sacked RPF constable accused of killing four persons on moving train](https://theprint.in/india/court-denies-bail-to-sacked-rpf-constable-accused-of-killing-four-persons-on-moving-train/1888697/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 16 (PTI) A court here on Saturday denied bail to dismissed Railway Protection Force (RPF) constable Chetansinh Chaudhary, accused of shooting dead his senior colleague and three passengers on a moving train in July this year. Chaudhary, who is lodged in a jail in Maharashtra&#8217;s Akola, about 550 kms from here, was present [&#8230;]
+
+Sat, 16 Dec 2023 08:47:02 +0000
+### [Union Minister Piyush Goyal launches LEADS 2023 to catalyse logistics sector growth](https://theprint.in/economy/union-minister-piyush-goyal-launches-leads-2023-to-catalyse-logistics-sector-growth/1888689/)
+
+The article is about the unveiling of the Logistics Ease Across Different States (LEADS) 2023 initiative by Union Minister of Commerce and Industry Piyush Goyal in India. The initiative aims to streamline logistics operations across different states, foster efficiency, reduce bottlenecks, and propel the logistics sector to new heights. It addresses key challenges faced by the industry, fosters seamless connectivity across states, and aims to optimize the movement of goods. The unveiling of LEADS aligns with the government's commitment to creating an enabling environment for businesses, boosting trade, and driving economic expansion. It reflects India's determination to be a global logistics leader and a key player in the evolving dynamics of international trade.
+
+Sat, 16 Dec 2023 08:45:15 +0000
+### [Kerala CM defends security personnel’s action over alleged attack against KSU activists](https://theprint.in/india/kerala-cm-defends-security-personnels-action-over-alleged-attack-against-ksu-activists/1888687/)
+
+The article describes a conflict between Kerala Chief Minister Pinarayi Vijayan and Leader of the Opposition V D Satheesan over an alleged attack on Youth Congress and Kerala Students Union workers by the CM's security staff. Vijayan defended his security staff's actions, stating that they ensure his safety. Satheesan accused Vijayan of having a "sadist mindset" and criticized the CM for his handling of the situation. The article also includes criticism from KPCC chief K Sudhakaran. This report is auto-generated from PTI news service and supported by ThePrint.
+
+Sat, 16 Dec 2023 08:45:04 +0000
+### [Russia to test launch seven intercontinental ballistic missiles in 2024 -Ifax](https://theprint.in/world/russia-to-test-launch-seven-intercontinental-ballistic-missiles-in-2024-ifax/1888686/)
+
+Article found but Couldn't summarize 
+MOSCOW (Reuters) - Russia plans to test launch seven intercontinental ballistic missiles in 2024, Sergei Karakayev, the commander of Russia's Strategic Missile Forces has said, the Interfax news
+
+Sat, 16 Dec 2023 08:45:02 +0000
+### [Progress in ending child marriage stagnating in India; 1 in 5 girls, 1 in 6 boys are married: Study](https://theprint.in/india/progress-in-ending-child-marriage-stagnating-in-india-1-in-5-girls-1-in-6-boys-are-married-study/1888685/)
+
+The article discusses a study published in 'The Lancet Global Health' journal about child marriage in India. It highlights that the progress towards eliminating the practice of child marriage has stagnated in recent years, with an increase in both girl and boy child marriages in certain states and Union territories. The prevalence of girl child marriage decreased from 49% in 1993 to 22% in 2021, and that of boy child marriage reduced from 7% in 2006 to 2% in 2021 nationwide. However, progress in stopping the practice altogether has stalled, and the researchers emphasized the need to reignite progress to achieve the UN's Sustainable Development Goal (SDG) target 5.3. The report also mentions the increased global attention to combat child marriage, legal prohibitions, policies, and interventions aimed at addressing the underlying drivers of the practice.
+
+Sat, 16 Dec 2023 08:39:17 +0000
+### [How nostalgic Christmas jingles encourage you to spend more](https://theprint.in/feature/how-nostalgic-christmas-jingles-encourage-you-to-spend-more/1888657/)
+
+The article discusses the use of music in Christmas shopping strategies and advertising, focusing on the influence of nostalgia on consumer behavior. It explains how retailers employ music to evoke warmth and nostalgia in shoppers, making them more susceptible to impulsive spending. Additionally, it highlights the role of emotional appeal in advertising and the use of nostalgic music from the 1980s and 1990s to target the demographic with the most disposable income. The author also delves into the impact of music on mental depletion and impulse spending, underscoring the carefully curated nature of music in both retail spaces and advertising to evoke specific emotional responses from consumers.
+
+Sat, 16 Dec 2023 08:34:35 +0000
+### [BBC raids to Article 370 — former SC judge Rohinton Nariman highlights ‘disturbing’ incidents in India](https://theprint.in/judiciary/bbc-raids-to-article-370-former-sc-judge-rohinton-nariman-highlights-disturbing-incidents-in-india/1888504/)
+
+Article found but Couldn't summarize 
+Speaking on theme ‘The Constitution of India: Checks and Balances’ in Mumbai, Justice Nariman also derides new Bill on EC appointments &#38; the matter of governors sitting on proposed laws.
+
+Sat, 16 Dec 2023 08:30:02 +0000
+### [India eye ODI reboot from first ODI against South Africa](https://theprint.in/sport/india-eye-odi-reboot-from-first-odi-against-south-africa/1888665/)
+
+Article found but Couldn't summarize 
+Johannesburg, Dec 16 (PTI) With a clutch of new-gen stars lining up to make their presence felt, India’s journey into their ODI future will hit its first stop during the opening match against South Africa at the hulking Wanderers here on Sunday. Scepticism may be in the air about the relevance of an ODI series [&#8230;]
+
 Sat, 16 Dec 2023 08:18:56 +0000
 ### [‘All culprits arrested in Belagavi incident,’ says Karnataka Deputy CM DK Shivakumar](https://theprint.in/india/all-culprits-arrested-in-belagavi-incident-says-karnataka-deputy-cm-dk-shivakumar/1888631/)
 

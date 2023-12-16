@@ -1,3 +1,8 @@
+Sat, 16 Dec 2023 08:24:29 +0000
+### [A teacher, displaced: Why Delhi University’s actions have made me want to quit academia](https://indianexpress.com/article/opinion/columns/a-teacher-displaced-why-delhi-universitys-actions-have-made-me-want-to-quit-academia-9070697/)
+
+The article is about the author's personal experience as an ad hoc teacher at Indraprastha College for Women, University of Delhi, and her reaction to the displacement of herself and four others from their positions as assistant professors. The author expresses concern over the fairness of the selection process for the permanent positions, highlighting disparities in qualifications and experience among the new appointees. Additionally, the author reflects on the wider implications of these selections on education and the discipline of Sociology, expressing doubts about the value of her own educational contributions and the impact on her students.
+
 Sat, 16 Dec 2023 08:15:45 +0000
 ### [Congress vs BJP: Record on women’s safety](https://indianexpress.com/article/opinion/columns/congress-bjp-record-womens-safety-9070642/)
 

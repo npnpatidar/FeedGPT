@@ -1,3 +1,9 @@
+2023-12-16T14:44:04+05:30
+### [Inform Panel of Steps To Secure Places of Worship, Supreme Court Tells Manipur](https://thewire.in/law/inform-panel-of-steps-to-secure-places-of-worship-supreme-court-tells-manipur)
+
+No Article text 
+Details of all places of worship, irrespective of religious denomination and the nature of such structures, which have been damaged or destroyed should be identified, the court said.
+
 2023-12-16T13:32:42+05:30
 ### ['Schindler’s List' at 30: A Look Back at Steven Spielberg’s Shattering Masterpiece](https://thewire.in/film/schindlers-list-at-30-steven-spielberg)
 

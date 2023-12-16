@@ -1,3 +1,8 @@
+Sat, 16 Dec 2023 09:05:14 +0000
+### [Vijay Diwas: How India won the 1971 War in under two weeks](https://indianexpress.com/article/explained/explained-history/vijay-diwas-1971-war-india-pakistan-bangladesh-9070725/)
+
+In December 1971, Lt Gen AAK Niazi of the Pakistan Eastern Command signed the Instrument of Surrender, ending a 13-day war and leading to the birth of Bangladesh. The war began earlier in 1971 with the Pakistan Army's Operation Searchlight, targeting political opposition in the East. This led to widespread violence, sparking resistance from Bengali civilians and the formation of the Mukti Bahini guerrilla force. India supported the resistance movement by arming and training the Mukti Bahini, leading to a lengthy preparation before direct military involvement. The Indian Army executed a successful three-pronged assault, gaining control of the air and sea and ultimately forcing the surrender of Lt Gen Niazi.
+
 Sat, 16 Dec 2023 07:08:38 +0000
 ### [PM Modi to inaugurate Surat Diamond Bourse, the world’s biggest workspace: Everything you need to know](https://indianexpress.com/article/explained/surat-diamond-bourse-sdb-gujarat-9070608/)
 
