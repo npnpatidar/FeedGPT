@@ -1,3 +1,10 @@
+Sat, 16 Dec 2023 09:02:05 +0530
+### [This Week in Explainers: How the Parliament security breach was planned](https://www.firstpost.com/explainers/this-week-in-explainers-how-the-parliament-security-breach-was-planned-13508192.html)
+
+The article discusses several significant events in India, including a security breach at Parliament, a large cash haul in a tax raid on a Congress MP, and the BJP's strategy for the 2024 general elections. It also covers a security scare at the Hindon airbase, the BJP's plans for the upcoming elections, and the Supreme Court's judgment on the abrogation of Article 370 in Jammu and Kashmir. Additionally, it addresses the debate on menstrual leave for women employees.
+
+Overall, the article provides detailed insights into recent developments in Indian politics, security matters, and social issues.
+
 Fri, 15 Dec 2023 20:29:03 +0530
 ### [Millions of US adults have chronic fatigue syndrome: What is this condition?](https://www.firstpost.com/explainers/millions-of-us-adults-have-chronic-fatigue-syndrome-what-is-this-condition-13508942.html)
 

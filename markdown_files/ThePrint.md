@@ -1,3 +1,83 @@
+Sat, 16 Dec 2023 04:15:25 +0000
+### [Rugby-Challenge Cup newcomers Black Lion beat Scarlets](https://theprint.in/sport/rugby-challenge-cup-newcomers-black-lion-beat-scarlets/1888447/)
+
+Article found but Couldn't summarize 
+(Reuters) - Newcomers Black Lion of Georgia beat Welsh side Scarlets 23-7 in Llanelli on Friday to claim their first-ever victory in the Challenge Cup. Lion's fly-half Luka Matkava kicked 13 points
+
+Sat, 16 Dec 2023 04:15:14 +0000
+### [Activision to pay $50 million to settle workplace discrimination lawsuit](https://theprint.in/tech/activision-to-pay-50-million-to-settle-workplace-discrimination-lawsuit/1888445/)
+
+Article found but Couldn't summarize 
+(Reuters) -Activision Blizzard will pay roughly $50 million to settle a 2021 lawsuit by a California regulator that alleged the videogame maker discriminated against women employees, including denying
+
+Sat, 16 Dec 2023 04:15:09 +0000
+### [BJP Mahila Morcha reaching out to ‘silent voters’ with Modi’s Lakhpati Didi, Drone Didi initiatives](https://theprint.in/politics/bjp-mahila-morcha-reaching-out-to-silent-voters-with-modis-lakhpati-didi-drone-didi-initiatives/1887888/)
+
+The Mahila Morcha of the Bharatiya Janata Party (BJP) has launched an outreach program to showcase women's experiences under the Modi government's 'Lakhpati Didi' and 'Drone Didi' initiatives, focusing on how they have benefited from them. The 'Lakhpati Didi' initiative encourages women to start microenterprises in their villages, aiming for them to earn at least Rs 1 lakh per annum per household. It includes skill development training for two crore women. The 'Drone Didi' initiative aims to empower 15,000 women self-help groups by providing drones for agricultural purposes. The BJP Mahila Morcha is motivating beneficiaries to share their experiences and upload selfies on the NaMo app, emphasizing the impact of PM Modi's schemes and women's empowerment under the Modi government. This initiative is part of the ongoing Viksit Bharat Sankalp Yatra program to connect citizens with central schemes they are eligible for but have not benefited from.
+
+Sat, 16 Dec 2023 04:15:03 +0000
+### [Australia swelters through heat wave as firefighters battle bushfires](https://theprint.in/world/australia-swelters-through-heat-wave-as-firefighters-battle-bushfires/1888444/)
+
+Article found but Couldn't summarize 
+SYDNEY (Reuters) -Large parts of Australia on Saturday sweltered under heat wave conditions that prompted the nation's weather forecaster to issue bush fire warnings in several states. In New South
+
+Sat, 16 Dec 2023 04:02:02 +0000
+### [Yemen’s Houthi group strikes Liberian vessels in Red sea](https://theprint.in/world/yemens-houthi-group-strikes-liberian-vessels-in-red-sea/1888434/)
+
+Yemen’s Houthi group has attacked two Liberian vessels in the Red Sea corridor, with one vessel being hit by a ballistic missile and another being struck by a UAV-launched strike. The attacks occurred near the Bab el-Mandeb Strait, a strategic maritime chokepoint. The Houthi rebels also launched two ballistic missiles towards international shipping lanes in the strait. The US has responded to the situation by intervening and providing assistance to the affected vessels. The Houthi rebels have announced their intention to target any Israel-bound ship in the Red Sea, regardless of the vessel’s ownership. The attacks have raised concerns about the safety of shipping in the region, as the Bab el-Mandeb Strait is a critical passage for the majority of the world’s oil en route to the Suez Canal and the Mediterranean Sea.
+
+Sat, 16 Dec 2023 03:53:06 +0000
+### [Rural India’s mental health crisis not invisible anymore. Private ‘champions’ are taking charge](https://theprint.in/feature/rural-indias-mental-health-crisis-not-invisible-anymore-private-champions-are-taking-charge/1887489/)
+
+Article found but Couldn't summarize 
+Private players like the LiveLoveLaugh Foundation and Mariwala Health Foundation are bridging mental health gaps with their community programmes in villages across India.
+
+Sat, 16 Dec 2023 03:47:13 +0000
+### [Jason Momoa says his fate as ‘Aquaman’ in future films not looking good](https://theprint.in/feature/jason-momoa-says-his-fate-as-aquaman-in-future-films-not-looking-good/1888428/)
+
+Article found but Couldn't summarize 
+Los Angeles [US], December 16 (ANI): Actor Jason Momoa, who earned plaudits for his role as Aquaman, said he is sceptical about the future of the DC superhero franchise. Speaking to Entertainment Tonight, Momoa expressed his concerns regarding future instalments while promoting Aquaman and the Lost Kingdom, which arrives in theatres on December 22, The [&#8230;]
+
+Sat, 16 Dec 2023 03:47:12 +0000
+### [As 19 Kuki-Zo victims of Manipur strife laid to rest, principal mourns Class 1 student — ‘inhuman act’](https://theprint.in/india/as-19-kuki-zo-victims-of-manipur-strife-laid-to-rest-principal-mourns-class-1-student-inhuman-act/1887935/)
+
+Article found but Couldn't summarize 
+Tonsing Hangshing, his mom &#038; family friend were killed while on their way to avail treatment in Imphal. SC had ordered Manipur to ensure burial for victims of ethnic violence.
+
+Sat, 16 Dec 2023 03:47:02 +0000
+### [India calls for zero tolerance for terror actors, sponsors at UN](https://theprint.in/world/india-calls-for-zero-tolerance-for-terror-actors-sponsors-at-un/1888426/)
+
+Article found but Couldn't summarize 
+New York [US], December 16 (ANI): India&#8217;s Permanent Representative to the United Nations, Ruchira Kamboj, called on the UN on Friday to exercise zero tolerance against the terror groups and their sponsors, adding that the illicit traffic of small arms and light is a key enabler for sustaining conflicts by armed and terrorist groups. &#8220;The [&#8230;]
+
+Sat, 16 Dec 2023 03:45:03 +0000
+### [JU teachers’ body urges state govt to facilitate holding of annunal convocation](https://theprint.in/india/ju-teachers-body-urges-state-govt-to-facilitate-holding-of-annunal-convocation/1888424/)
+
+The Jadavpur University Teachers’ Association (JUTA) has urged the West Bengal Education Minister to ensure the holding of the annual convocation of the varsity in time for the students' benefit. The association emphasized the importance of the convocation as a cherished tradition and requested the timely issuance of degrees and certificates to the students. The impasse over the convocation arose from the appointment of the officiating Vice Chancellor and the involvement of the Higher Education department. The University's executive council meeting was also forbidden, affecting the planning of the convocation.
+
+Sat, 16 Dec 2023 03:32:02 +0000
+### [Pakistan slashes petrol price by PKR 14, high-speed diesel by PKR 13.5](https://theprint.in/world/pakistan-slashes-petrol-price-by-pkr-14-high-speed-diesel-by-pkr-13-5/1888421/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 16 (ANI): The Pakistan caretaker government slashed the rates of petrol and high-speed diesel (HSD) by Pakistan rupees (PKR) 14 and PKR 13.5 per litre respectively for the next fortnight, Dawn News reported. It reported citing a notification from the Pakistan Ministry of finance, the new prices of petrol are PKR 267.34 [&#8230;]
+
+Sat, 16 Dec 2023 03:30:17 +0000
+### [Judge’s car as ambulance: Chouhan writes to CJ of MP high court seeking forgiveness for ABVP men](https://theprint.in/india/judges-car-as-ambulance-chouhan-writes-to-cj-of-mp-high-court-seeking-forgiveness-for-abvp-men/1888420/)
+
+Article found but Couldn't summarize 
+Bhopal, Dec 16 (PTI) Former chief minister Shivraj Singh Chouhan has written to Madhya Pradesh High Court Chief Justice Ravi Malimath seeking forgiveness for two ABVP functionaries who were arrested for taking the car of a judge to ferry an ailing person to a hospital in Gwalior. The Akhil Bharatiya Vidyarthi Parishad&#8217;s Gwalior secretary Himanshu [&#8230;]
+
+Sat, 16 Dec 2023 03:30:03 +0000
+### [Kerala University study on Kutch crater could throw better light on Indus Valley civilisation](https://theprint.in/india/kerala-university-study-on-kutch-crater-could-throw-better-light-on-indus-valley-civilisation/1888419/)
+
+A group of geologists from Kerala University claim to have discovered a significant scientific find that may offer a clearer understanding of the events leading to the end of the Indus Valley civilization. They have discovered a crater in Luna, Kutch in Gujarat, which they believe was caused by a meteor impact, potentially marking the only major one since human beings appeared on Earth. Melt rock analysis from the crater site has confirmed that the rocks were remnants of a meteor, and the impact occurred within the last 6,900 years, coinciding with the thriving period of the Indus Valley civilization in the area. The discovery has attracted the interest of international firms and the research paper has been published in the scientific journal ScienceDirect. The scientists are planning to seek foreign assistance to date the samples and protect the site which is a marshland and is getting destroyed as it has been flooded with water for 11 months of the year.
+
+Sat, 16 Dec 2023 03:23:44 +0000
+### [After SC’s final word, Article 370 is no longer a battleground. But J&K election is](https://theprint.in/opinion/newsmaker-of-the-week/supreme-court-verdict-article-370-jk-assembly-election/1888110/)
+
+Article found but Couldn't summarize 
+The Supreme Court has pronounced its verdict on the legality of Modi govt's action to abrogate Article 370, putting an end to a conflict that engulfed J&#38;K for the past four years.
+
 Sat, 16 Dec 2023 03:17:02 +0000
 ### [SRK beams with pride as his son AbRam imitates his signature pose at annual function](https://theprint.in/feature/srk-beams-with-pride-as-his-son-abram-imitates-his-signature-pose-at-annual-function/1888411/)
 

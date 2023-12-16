@@ -1,3 +1,10 @@
+Sat, 16 Dec 2023 09:00:02 +0530
+### [Rishad Premji, not just Delaporte, must carry the can at Wipro](https://www.livemint.com/opinion/online-views/rishad-premji-not-just-delaporte-must-carry-the-can-at-wipro-11702627457333.html)
+
+Azim Premji, the chairman of Wipro, is concerned with the company's recent decline in revenues and profits under the leadership of CEO Thierry Delaporte. Analysts predict that Wipro's annual revenues for the current fiscal year will be less than its fiscal year 2023's $11 billion. Wipro's shares have doubled during Delaporte's term, but the company has experienced unprecedented churn amid a massive restructuring over the past four years. More than half of Wipro's 750 executives ranked general manager and above are no longer with the company, leaving a hole at the top and hurting confidence in the organization and its stakeholders. High-profile exits include those of CFO Jatin Dalal and chief growth officer Stephanie Trautman.
+
+Azim Premji has a track record of cutting loose senior executives who underdeliver on promises. His past decisions have shown decisiveness in addressing underperformance. There is speculation about the potential actions Azim Premji might take in response to the company's poor performance and how much of the company's and Delaporte's poor performance rests with Rishad, his son and the executive chairman.
+
 Fri, 15 Dec 2023 11:19:56 +0530
 ### [Zomato is winning the contest with Swiggy](https://www.livemint.com/opinion/online-views/zomato-is-winning-the-contest-with-swiggy-11702615795633.html)
 
