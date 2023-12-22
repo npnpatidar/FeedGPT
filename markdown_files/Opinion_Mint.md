@@ -1,3 +1,208 @@
+Fri, 22 Dec 2023 13:45:43 +0530
+### [Covid is back: Cause for concern, but not for panic](https://www.livemint.com/opinion/covid-is-back-cause-for-concern-but-not-for-panic-11703232594077.html)
+
+Article found but Couldn't summarize 
+The outbreak​ of fresh covid infections in different parts of the country has given rise to some public alarm. There is not much cause for panic yet, but the government, civil society and individuals would do well to prepare and be on guard, while avoiding sensation and hysteria
+
+Fri, 22 Dec 2023 11:41:21 +0530
+### [Why Saudi Arabia and the UAE want to keep links with Israel](https://www.livemint.com/opinion/online-views/why-saudi-arabia-and-the-uae-want-to-keep-links-with-israel-11703224819918.html)
+
+Article found but Couldn't summarize 
+Are the Abraham accords over?
+
+Fri, 22 Dec 2023 10:23:20 +0530
+### [Ford's India strategy: A turnaround or exit from the evolving market?](https://www.livemint.com/opinion/online-views/fords-india-strategy-a-turnaround-or-exit-from-the-evolving-market-11703216843947.html)
+
+Article found but Couldn't summarize 
+Ford's response to the evolving Indian market has been sluggish. The company failed to upgrade existing models or launch new ones, falling short in meeting the dynamic consumer demands
+
+Fri, 22 Dec 2023 08:00:20 +0530
+### [Google’s Gemini may not help it reclaim its lost 'AI crown'](https://www.livemint.com/opinion/online-views/googles-gemini-may-not-help-it-reclaim-its-lost-ai-crown-11703170740743.html)
+
+Gemini is a project by Google aimed at creating a Large Language Model (LLM) to rival OpenAI's GPT4. It is a multimodal model that can work with pictures, videos, text, and voice seamlessly. Google has put a lot of effort into Gemini, making it their largest product effort in recent times. While there were impressive demos and announcements during the launch, some claims made by Google were later debunked. Gemini Ultra, the most advanced version, will only be available next year. Despite the competition and challenges, Google has significant AI strengths and resources. The impact of generative AI on society and whether it will bring genuine transformation or serve as a profit model for Big Tech firms remains an open question.
+
+Fri, 22 Dec 2023 08:00:20 +0530
+### [Trump’s run for the White House will test America’s Rule of Law](https://www.livemint.com/opinion/online-views/trumps-run-for-the-white-house-will-test-america-s-rule-of-law-11703170647691.html)
+
+Article found but Couldn't summarize 
+A court order barring the former US president from Colorado’s primary polls has cast a shadow on his candidacy. How the 6 January case of alleged insurrection is resolved will be watched worldwide.
+
+Fri, 22 Dec 2023 08:00:19 +0530
+### [Mumbai is on aerial-attack alert](https://www.livemint.com/opinion/quick-edit/mumbai-is-on-aerial-attack-alert-11703169963929.html)
+
+Article found but Couldn't summarize 
+The 30-day long restriction period imposed by Mumbai police seems odd, suggesting that the intelligence inputs being acted upon are not very specific, but national security cannot afford to get lax.
+
+Thu, 21 Dec 2023 22:43:52 +0530
+### [Bees understand zero means nothing](https://www.livemint.com/opinion/columns/bees-understand-zero-means-nothing-11703178640678.html)
+
+Article found but Couldn't summarize 
+Bees have been found to understand the concept of zero, as demonstrated by their ability to distinguish between 'greater than' and 'less than' quantities, including zero.
+
+Thu, 21 Dec 2023 20:59:47 +0530
+### [We mustn't forget that family business disputes have no winners](https://www.livemint.com/opinion/online-views/we-mustnt-forget-that-family-business-disputes-have-no-winners-11703170862724.html)
+
+Article found but Couldn't summarize 
+The casualties of family disputes range from close relationships to the health of disputants, all of which can have an adverse impact on their business and other stakeholders as well. Measures to minimize friction are best taken pre-emptively.
+
+Thu, 21 Dec 2023 20:56:18 +0530
+### [The IMF hasn’t got its analysis of India’s foreign exchange regime right](https://www.livemint.com/opinion/online-views/the-imf-hasn-t-got-its-analysis-of-india-s-foreign-exchange-regime-right-11703159297868.html)
+
+Article found but Couldn't summarize 
+The Fund’s remark on India’s alleged departure from a floating rate for the mutual exchange of rupees and dollars is unconvincing. Our external sector metrics did improve during the phase identified by the IMF and RBI’s actions were based on the need to contain extreme currency volatility as a goal.
+
+Thu, 21 Dec 2023 20:53:46 +0530
+### [Don’t let real worries get lost in the hype over obesity drugs](https://www.livemint.com/opinion/online-views/dont-let-real-worries-get-lost-in-the-hype-over-obesity-drugs-11703159424329.html)
+
+Article found but Couldn't summarize 
+Obesity-fighting medication in the US has shown dramatic effects but affordable, equitable and responsible use won’t be easy to achieve.
+
+Thu, 21 Dec 2023 20:46:46 +0530
+### [Green link: The UN’s climate and biodiversity talks should be held together](https://www.livemint.com/opinion/online-views/green-link-the-un-s-climate-and-biodiversity-talks-should-be-held-together-11703159539576.html)
+
+As GPT-3.5, I can provide a summary of the article you shared. The article discusses the link between climate change and biodiversity and emphasizes the need to address both issues together. It mentions the recent Conference of the Parties (CoP-28) under the UN Framework Convention on Climate Change and highlights the focus on carbon dioxide removal (CDR) as a step forward in the fight against climate change. However, it also acknowledges the challenges and complexities of transitioning away from fossil fuels, particularly for developing nations. The article suggests a multi-pronged approach, including investing in carbon removal research, fostering indigenous climate innovation, and considering the role of nuclear power. It concludes by emphasizing the importance of shedding hypocrisy and embracing practical solutions to address climate and biodiversity conservation.
+
+Thu, 21 Dec 2023 16:44:15 +0530
+### [US recalls of India-made drugs expose regulatory, quality control gaps](https://www.livemint.com/opinion/online-views/us-recalls-of-india-made-drugs-expose-regulatory-quality-control-gaps-11703152168935.html)
+
+Article found but Couldn't summarize 
+Though there was a spate of recalls of drugs manufactured in India by the US there was no such move in India. This raises critical questions
+
+Thu, 21 Dec 2023 11:15:24 +0530
+### [Tata Steel's Jamshedpur model: A blueprint for Indian city governance](https://www.livemint.com/opinion/online-views/tata-steels-jamshedpur-model-a-blueprint-for-indian-city-governance-11703133551931.html)
+
+Article found but Couldn't summarize 
+Regardless of perspective, the Jamshedpur model promises a substantial improvement over the current situation, where only three cities have an accrual-based accounting system
+
+Thu, 21 Dec 2023 11:13:04 +0530
+### [How big is the role of luck in career success?](https://www.livemint.com/opinion/online-views/how-big-is-the-role-of-luck-in-career-success-11703136877004.html)
+
+Article found but Couldn't summarize 
+Lubar: lucky beyond all recognition
+
+Thu, 21 Dec 2023 08:00:12 +0530
+### [Insistence on empathy holds the key to a society bonded by trust](https://www.livemint.com/opinion/online-views/insistence-on-empathy-holds-the-key-to-a-society-bonded-by-trust-11703086741028.html)
+
+Article found but Couldn't summarize 
+Kindness for one another will help us forge a community where each one of us can live in dignity.
+
+Thu, 21 Dec 2023 08:00:12 +0530
+### [The IMF should revise its opinion on the Indian rupee’s managed float](https://www.livemint.com/opinion/online-views/the-imf-should-revise-its-opinion-on-the-indian-rupee-s-managed-float-11703085816315.html)
+
+Article found but Couldn't summarize 
+RBI should hold its ground against the Fund on exchange rate intervention. This is not a rupee-pegging game, but what works for us at today’s comfort level of openness to capital.
+
+Thu, 21 Dec 2023 08:00:11 +0530
+### [Ford: Second thoughts about leaving?](https://www.livemint.com/opinion/quick-edit/ford-second-thoughts-about-leaving-11703070150146.html)
+
+Article found but Couldn't summarize 
+There’s a buzz that the American carmaker on its way out may be suffering auto-market FOMO: fear of missing out on a sales boom.
+
+Wed, 20 Dec 2023 22:14:21 +0530
+### [Evergreening of loans still remains a bane of banking](https://www.livemint.com/opinion/online-views/evergreening-of-loans-still-remains-a-bane-of-banking-11703086821522.html)
+
+Article found but Couldn't summarize 
+Plug one route and another is found. RBI’s caution on the dealings of lenders with AIFs is justified. The risks of ever more creative devices used for debt renewal demand close regulatory oversight.
+
+Wed, 20 Dec 2023 22:02:09 +0530
+### [Nourishing India: There’s a clear pathway available to achieve a healthy future](https://www.livemint.com/opinion/online-views/nourishing-india-there-s-a-clear-pathway-available-to-achieve-a-healthy-future-11703075677479.html)
+
+Article found but Couldn't summarize 
+Continued concerted efforts and delivery of welfare benefits at scale are required. There should be no let-up in the implementation of existing programmes. Let’s make equity, quality and intensity the mantra to reach every child, mother, family and commu.
+
+Wed, 20 Dec 2023 21:56:57 +0530
+### [An Apple Watch ban is the last thing this gizmo maker needs](https://www.livemint.com/opinion/online-views/an-apple-watch-ban-is-the-last-thing-this-gizmo-maker-needs-11703075921283.html)
+
+Article found but Couldn't summarize 
+The most valuable company of all time has had a tough year so far: if flagging sales of its gizmos weren’t bad enough, Apple lost an intellectual property theft case to Masimo over an oximeter in its watch and may take a festive-season blow on its account.
+
+Wed, 20 Dec 2023 21:53:26 +0530
+### [India should be at the front-line of an ongoing global battle to attract tourists](https://www.livemint.com/opinion/online-views/india-should-be-at-the-front-line-of-an-ongoing-global-battle-to-attract-tourists-11703075839129.html)
+
+Article found but Couldn't summarize 
+An international war has broken out to attract post-pandemic travellers that we ought to join in earnest. Our current tourist arrivals are well below the potential of a country that offers Himalayan retreats, medieval palaces and backwater cruises.
+
+Wed, 20 Dec 2023 15:48:45 +0530
+### [RBI warms up to fintechs for cross-border e-commerce](https://www.livemint.com/opinion/first-person/rbi-warms-up-to-fintechs-for-cross-border-ecommerce-11703063614482.html)
+
+Article found but Couldn't summarize 
+The overhaul by the RBI opens a new chapter in fintech's role in e-commerce, heralding an era of broader participation and innovation in cross-border transactions
+
+Wed, 20 Dec 2023 12:59:45 +0530
+### [Four charts to help you minimise mistakes in asset allocations](https://www.livemint.com/opinion/columns/4-charts-to-help-you-avoid-big-asset-allocation-mistakes-11703053443740.html)
+
+Article found but Couldn't summarize 
+Exploring asset allocation and market trends through insightful charts, this guide offers a fresh perspective on investment strategies
+
+Wed, 20 Dec 2023 11:45:34 +0530
+### [Rural India's got a sweet tooth for Dairy Milk. But is Cadbury missing out on other treats?](https://www.livemint.com/opinion/online-views/rural-indias-got-a-sweet-tooth-for-dairy-milk-but-is-cadbury-missing-out-on-other-treats-11703048779782.html)
+
+Article found but Couldn't summarize 
+So what’s the future for Dairy Milk beyond these new market segments? Can it do what say Maggi, a similar category leader from rival Nestle, has managed?
+
+Wed, 20 Dec 2023 08:00:06 +0530
+### [Telecom Bill: It’s good for new services but must address dissonance too](https://www.livemint.com/opinion/online-views/telecom-bill-it-s-good-for-new-services-but-must-address-dissonance-too-11703002462515.html)
+
+Article found but Couldn't summarize 
+India’s legislative proposal aims to reset regulation in a way that will brighten the telecom sector’s future. This is welcome. But the government ought to rethink aspects that leave space for unwelcome outcomes.
+
+Wed, 20 Dec 2023 08:00:06 +0530
+### [We require more and better data on mutual fund SIP investments](https://www.livemint.com/opinion/online-views/we-require-more-and-better-data-on-mutual-fund-sip-investments-11703002524405.html)
+
+Article found but Couldn't summarize 
+A granular peek will offer a clearer picture of retail investor behaviour for better advice to be given.
+
+Wed, 20 Dec 2023 08:00:05 +0530
+### [India is IMF's star performer but its report isn’t all glowing](https://www.livemint.com/opinion/quick-edit/india-is-imfs-star-performer-but-its-report-isn-t-all-glowing-11702990538133.html)
+
+Hmm, based on the provided text, the International Monetary Fund (IMF) has given an optimistic assessment of India's economy. India is considered a "star performer" and is expected to contribute more than 16% to global growth this year. The IMF has praised India's focus on capital spending and its digital public infrastructure, which has the potential to improve productivity. However, there are challenges posed by the external environment, including climate change. The text also mentions that labor and human capital reforms could lead to faster growth, but implementing them may be difficult due to political obstacles. It suggests that a public debate on the necessary actions should be initiated.
+
+Tue, 19 Dec 2023 22:10:26 +0530
+### [The telecom bill makes a bold attempt to revise regulation for the better](https://www.livemint.com/opinion/online-views/the-telecom-bill-makes-a-bold-attempt-to-revise-regulation-for-the-better-11703002587290.html)
+
+Article found but Couldn't summarize 
+It proposes a new governance approach that can help chart a modern future for telecom in the country. It’s a big step towards improving regulatory efficiency and providing the sort of legislative legitimacy that no licensing regime can.
+
+Tue, 19 Dec 2023 18:19:16 +0530
+### [‘Wed in India’ makes sense, and it isn’t about soft power](https://www.livemint.com/opinion/online-views/wed-in-india-makes-sense-and-it-isn-t-about-soft-power-11702986487226.html)
+
+Article found but Couldn't summarize 
+It’s unclear if lavish Indian weddings held abroad enhance India’s appeal but those held here clearly aid the economy. As Joseph Nye says, both soft and hard power matter, but we have much further to go on both.
+
+Tue, 19 Dec 2023 18:16:35 +0530
+### [Quantum computing will make online heists likelier than we can fathom](https://www.livemint.com/opinion/online-views/quantum-computing-will-make-online-heists-likelier-than-we-can-fathom-11702986422980.html)
+
+Quantum computing poses a potential threat to the security provided by prime numbers in encryption. While traditional computers struggle to decipher large prime numbers, quantum computers have the potential to break down complex ciphers more efficiently. By 2030, it is estimated that a $1 billion quantum computer could break widely used 2048-bit encryption. This could compromise the security of interbank payments and digital signatures, leading to potential scams and theft. The development of quantum-safe cryptography is crucial to ensure the protection of payment instruments and maintain privacy in digital transactions. However, the integration of quantum-safe cryptography may come with increased costs and slower transaction speeds. Further experimentation and research are needed to address these challenges and ensure the security of future payment systems.
+
+Tue, 19 Dec 2023 18:02:59 +0530
+### [The debt crisis staring at poorer countries must be resolved once and for all](https://www.livemint.com/opinion/online-views/the-debt-crisis-staring-at-poorer-countries-must-be-resolved-once-and-for-all-11702986382539.html)
+
+The debt crisis in low-income countries has been a persistent issue, and the international policy community has been struggling to address it effectively. The number of economies in debt distress has been on the rise, especially after the expiration of the Debt Service Suspension Initiative (DSSI) at the end of 2021. The Common Framework for Debt Treatments was introduced to facilitate restructuring agreements between countries with unsustainable debts and their creditors, but progress has been slow. The recent agreement between Zambia and its creditors was seen as a breakthrough, but it ultimately collapsed due to concerns about the treatment of different creditors. Overall, the situation calls for a comprehensive approach to resolving the developing-country debt crisis, considering the role of creditors, the need for sustainable relief, and the potential risks of future shocks.
+
+Tue, 19 Dec 2023 16:55:41 +0530
+### [With its new telecom bill, the government wants to allocate, not auction, satellite spectrum–and that’s a good move](https://www.livemint.com/opinion/online-views/with-its-new-telecom-bill-the-government-wants-to-allocate-not-auction-satellite-spectrum-and-that-s-a-good-move-11702984443431.html)
+
+Article found but Couldn't summarize 
+Allocation of satellite spectrum by administrative means rather than compulsorily via auctions prioritises the efficiency needs of the telecom sector over partisan political considerations
+
+Tue, 19 Dec 2023 15:49:19 +0530
+### [India must strive to build a reputation for policy stability and predictability](https://www.livemint.com/opinion/india-must-strive-to-build-a-reputation-for-policy-stability-and-predictability-11702980695617.html)
+
+Article found but Couldn't summarize 
+To attract more foreign inflows, India must allow for higher rates of return on investments. For this, the cost on account of policy uncertainty and flip-flops needs to be curbed
+
+Tue, 19 Dec 2023 12:05:10 +0530
+### [The turning tides of US sanctions: India caught between a rock and a hard place](https://www.livemint.com/opinion/online-views/the-turning-tides-of-us-sanctions-india-caught-between-a-rock-and-a-hard-place-11702966538885.html)
+
+Article found but Couldn't summarize 
+India’s economic priorities lie in maintaining its relationships with both the US and Russia while adopting countermeasures to meet its own trade obligations
+
+Tue, 19 Dec 2023 11:00:03 +0530
+### [India's PE/VC market: The quest for refined performance metrics](https://www.livemint.com/opinion/first-person/indias-pe-vc-market-the-quest-for-refined-performance-metrics-11702905190029.html)
+
+Article found but Couldn't summarize 
+The time is ripe for India's private equity and venture capital sector to not just introspect but to innovate, embracing the Investment Efficiency Ratio and other emerging metrics as standard markers of success.
+
 Sat, 16 Dec 2023 09:00:02 +0530
 ### [Rishad Premji, not just Delaporte, must carry the can at Wipro](https://www.livemint.com/opinion/online-views/rishad-premji-not-just-delaporte-must-carry-the-can-at-wipro-11702627457333.html)
 

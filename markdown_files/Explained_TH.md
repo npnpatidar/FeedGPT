@@ -1,3 +1,62 @@
+Wed, 20 Dec 2023 10:30:00 +0530
+### [Was the COP28 climate summit a milestone or a mirage? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/cop28-outcomes-decisions-explained/article67656914.ece)
+
+Article found but Couldn't summarize 
+The COP28 outcomes had a lot of firsts even as some challenges and differences between developed and developing countries remained unaddressed
+
+Tue, 19 Dec 2023 22:32:11 +0530
+### [Dharavi revamp in turmoil | Explained](https://www.thehindu.com/news/cities/mumbai/dharavi-revamp-in-turmoil-explained/article67654045.ece)
+
+Article found but Couldn't summarize 
+The Dharavi Redevelopment Project, an initiative to rebuild Asia’s largest slum, has sparked heated controversies and political clashes, primarily due to allegations of favouritism towards the Adani Group, the winning bidder for the project; Opposition parties cited irregularities in tender processes, raising concerns about transparency
+
+Tue, 19 Dec 2023 20:22:33 +0530
+### [Post Office Bill 2023 | State surveillance and privacy concerns explained](https://www.thehindu.com/news/national/post-office-bill-2023-state-surveillance-and-privacy-concerns-explained/article67605585.ece)
+
+Article found but Couldn't summarize 
+What are the Bill’s key features and its legislative history? What concerns have been raised by Opposition MPs? What do prior Supreme Court rulings say about the state’s surveillance powers?
+
+Tue, 19 Dec 2023 14:48:56 +0530
+### [How do touchscreens work? | Explained](https://www.thehindu.com/sci-tech/science/capacitive-touchscreen-smartphones-innovation-explained/article67653714.ece)
+
+As GPT-3.5, I can summarize the article for you. The article discusses the history and advancements of touchscreen technology. It mentions that capacitive touchscreens have become more popular than resistive touchscreens in the consumer electronics market. Capacitive touchscreens use a grid of capacitors to detect touch, while resistive touchscreens use resistance. The article also mentions other touchscreen technologies based on optical inputs and acoustic waves. It highlights the advantages of capacitive touchscreens, such as better image clarity, sensitivity, and durability. The article concludes by mentioning that touchscreen technology continues to evolve with the integration of more sensors and advancements in machine learning.
+
+Tue, 19 Dec 2023 11:47:21 +0530
+### [Who are Yemen’s Houthis? | Explained](https://www.thehindu.com/news/international/who-are-yemens-houthis-explained/article67653059.ece)
+
+Article found but Couldn't summarize 
+What started as a Zaydi revivalist movement is now the most powerful war machine in Yemen that has carried out a series of attacks on tankers passing through the Red Sea in protest against Israel’s war on Gaza, triggering a regional crisis
+
+Tue, 19 Dec 2023 10:30:00 +0530
+### [Why has a survey been approved at the Shahi Idgah? | Explained](https://www.thehindu.com/news/national/why-has-a-survey-been-approved-at-the-shahi-idgah-explained/article67651898.ece)
+
+Article found but Couldn't summarize 
+What is the Shahi Idgah-Krishna Janmabhoomi dispute? What has the Allahabad High Court said?
+
+Mon, 18 Dec 2023 22:44:24 +0530
+### [What does COP-28 mean for cities? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/what-does-cop-28-mean-for-cities-explained/article67651894.ece)
+
+Article found but Couldn't summarize 
+How are cities important with respect to tackling climate change? How was this year’s Conference of Parties different when it came to talking about the role of urban cities in climate action? Why do cities in the Global South require more support?
+
+Mon, 18 Dec 2023 20:26:21 +0530
+### [Revised criminal law bills: Key changes explained](https://www.thehindu.com/news/national/revised-criminal-law-bills-the-key-changes-explained/article67637348.ece)
+
+Article found but Couldn't summarize 
+Revised criminal law Bills were introduced in the Parliament on December 12 after incorporating recommendations by a parliamentary committee — what are the key changes and the existing concerns?
+
+Mon, 18 Dec 2023 08:30:00 +0530
+### [What led to the coup attempt in Sierra Leone? | Explained](https://www.thehindu.com/news/international/what-led-to-the-coup-attempt-in-sierra-leone-explained/article67648546.ece)
+
+Article found but Couldn't summarize 
+What are the factors which led to political instability in one of the poorest West African countries?
+
+Sun, 17 Dec 2023 22:41:07 +0530
+### [On selecting Election Commissioners | Explained](https://www.thehindu.com/news/national/on-selecting-election-commissioners-explained/article67648538.ece)
+
+Article found but Couldn't summarize 
+What does The Chief Election Commissioner and other Election Commissioners (Appointment, Conditions of Office and Terms of Office) Bill, 2023 passed by the Rajya Sabha say? How is the new mechanism different from the one spelled out by the Supreme Court?
+
 Fri, 15 Dec 2023 10:30:00 +0530
 ### [Counting scientists’ productivity with numbers undermines science | Explained](https://www.thehindu.com/sci-tech/science/measuring-scientists-productivity-numbers-undermines-science/article67629745.ece)
 

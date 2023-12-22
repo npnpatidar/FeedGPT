@@ -1,3 +1,153 @@
+Fri, 22 Dec 2023 16:33:48 +0530
+### [Over 240 mn PCs to end up as e-waste once Microsoft ends Windows 10 support, finds study](https://www.firstpost.com/tech/over-240-mn-pcs-to-end-up-as-e-waste-once-microsoft-ends-windows-10-support-finds-study-13536132.html)
+
+Article found but Couldn't summarize 
+Over 240 mn PCs to end up as e-waste once Microsoft ends Windows 10 support, finds study
+
+Fri, 22 Dec 2023 16:14:47 +0530
+### [China’s gaming crackdown causes top 3 companies $80 bn market value loss, Tencent alone sheds $50 bn](https://www.firstpost.com/tech/chinas-gaming-crackdown-causes-top-3-companies-80-bn-market-value-loss-tencent-alone-sheds-50-bn-13535982.html)
+
+Article found but Couldn't summarize 
+China’s gaming crackdown causes top 3 companies $80 bn market value loss, Tencent alone sheds $50 bn
+
+Fri, 22 Dec 2023 14:18:59 +0530
+### [China bans export of tech used to make magnets out of rare metals, as global tensions continue to rise](https://www.firstpost.com/tech/china-bans-export-of-tech-used-to-make-magnets-out-of-rare-metals-as-global-tensions-continue-to-heighten-13535372.html)
+
+Article found but Couldn't summarize 
+China bans export of tech used to make magnets out of rare metals, as global tensions continue to rise
+
+Fri, 22 Dec 2023 13:22:31 +0530
+### [Apple stops repair of out-of-warranty, older Watch models amid sale ban triggered by patent dispute](https://www.firstpost.com/tech/apple-stops-repair-of-out-of-warranty-older-watch-models-amid-sale-ban-triggered-by-patent-dispute-13535082.html)
+
+Article found but Couldn't summarize 
+Apple stops repair of out-of-warranty, older Watch models amid sale ban triggered by patent dispute
+
+Fri, 22 Dec 2023 12:42:14 +0530
+### [AI image-generators are being trained on child abuse, other paedophile content content, finds study](https://www.firstpost.com/tech/ai-image-generators-are-being-trained-on-child-abuse-other-paedophile-content-content-finds-study-13534912.html)
+
+Article found but Couldn't summarize 
+AI image-generators are being trained on child abuse, other paedophile content content, finds study
+
+Fri, 22 Dec 2023 11:59:13 +0530
+### [OnePlus Ace 3 launch date leaked, to be powered by Snapdragon 8 Gen 2 SoC, will have a 1.5K curved display](https://www.firstpost.com/tech/oneplus-ace-3-launch-date-leaked-to-be-powered-by-snapdragon-8-gen-2-soc-will-have-a-1-5k-curved-display-13534792.html)
+
+Article found but Couldn't summarize 
+OnePlus Ace 3 launch date leaked, to be powered by Snapdragon 8 Gen 2 SoC, will have a 1.5K curved display
+
+Fri, 22 Dec 2023 11:50:28 +0530
+### [Lava launches Storm 5G smartphone for under Rs 15,000; Check specs, officers and other details](https://www.firstpost.com/tech/lava-launches-storm-5g-smartphone-for-under-rs-15000-check-specs-officers-and-other-details-13534602.html)
+
+Article found but Couldn't summarize 
+Lava launches Storm 5G smartphone for under Rs 15,000; Check specs, officers and other details
+
+Fri, 22 Dec 2023 11:08:52 +0530
+### [Apple is trying to equip iPhone 16 Pro, Pro Max with tetraprism lens for telephoto camera](https://www.firstpost.com/world/apple-is-trying-to-equip-iphone-16-pro-pro-max-with-tetraprism-lens-for-telephoto-camera-13534512.html)
+
+Article found but Couldn't summarize 
+Apple is trying to equip iPhone 16 Pro, Pro Max with tetraprism lens for telephoto camera
+
+Fri, 22 Dec 2023 10:14:56 +0530
+### [Best phones under Rs 75,000 (Dec 2023): Google Pixel 7 Pro, Apple iPhone 14 to OnePlus 11 5G](https://www.firstpost.com/tech/best-phones-under-rs-75000-dec-2023-google-pixel-7-pro-apple-iphone-14-to-oneplus-11-5g-13534222.html)
+
+Article found but Couldn't summarize 
+Best phones under Rs 75,000 (Dec 2023): Google Pixel 7 Pro, Apple iPhone 14 to OnePlus 11 5G
+
+Fri, 22 Dec 2023 09:47:07 +0530
+### [India Semicon: Foxconn submits application for setting up its Indian semiconductor fab plant](https://www.firstpost.com/tech/india-semicon-foxconn-submits-application-for-setting-up-its-indian-semiconductor-fab-plant-13534162.html)
+
+Article found but Couldn't summarize 
+India Semicon: Foxconn submits application for setting up its Indian semiconductor fab plant
+
+Fri, 22 Dec 2023 09:32:38 +0530
+### [Boss Move: Bengaluru cab driver launches his own app to compete with ride-hailing apps like Uber, Ola](https://www.firstpost.com/tech/boss-move-bengaluru-cab-driver-launches-his-own-app-to-compete-with-ride-hailing-apps-like-uber-ola-13534002.html)
+
+Article found but Couldn't summarize 
+Boss Move: Bengaluru cab driver launches his own app to compete with ride-hailing apps like Uber, Ola
+
+Thu, 21 Dec 2023 17:14:04 +0530
+### [Apple fails to get Watch Series 9, Ultra 2 sale ban reversed, will take a massive hit to $17 bn business](https://www.firstpost.com/tech/apple-fails-to-get-watch-series-9-ultra-2-sale-ban-reversed-will-take-a-massive-hit-to-17-bn-business-13531572.html)
+
+Article found but Couldn't summarize 
+Apple fails to get Watch Series 9, Ultra 2 sale ban reversed, will take a massive hit to $17 bn business
+
+Thu, 21 Dec 2023 16:57:07 +0530
+### [Mahindra Scorpio-N, one of India’s safest cars got 5-stars in GNCAP. Why did it get 0-stars in Australasian NCAP?](https://www.firstpost.com/tech/auto-tech/why-did-mahindra-scorpio-n-get-5-stars-in-gncap-crash-test-but-fail-australasian-ncap-13531202.html)
+
+Article found but Couldn't summarize 
+Mahindra Scorpio-N, one of India’s safest cars got 5-stars in GNCAP. Why did it get 0-stars in Australasian NCAP?
+
+Thu, 21 Dec 2023 15:43:09 +0530
+### [Bill Gates 'super optimistic' about AI in 2024, believes it to supercharge innovation](https://www.firstpost.com/tech/bill-gates-super-optimistic-about-ai-in-2024-believes-it-to-supercharge-innovation-13531112.html)
+
+Article found but Couldn't summarize 
+Bill Gates 'super optimistic' about AI in 2024, believes it to supercharge innovation
+
+Thu, 21 Dec 2023 15:17:53 +0530
+### [More trouble for Tesla: EV maker marked wheels breaking, flying off moving cars as 'minor issue'](https://www.firstpost.com/tech/more-trouble-for-tesla-ev-maker-marked-wheels-breaking-flying-off-moving-cars-as-minor-issue-13530982.html)
+
+Article found but Couldn't summarize 
+More trouble for Tesla: EV maker marked wheels breaking, flying off moving cars as 'minor issue'
+
+Thu, 21 Dec 2023 14:05:35 +0530
+### [India's Aditya-L1 running as per schedule, to reach Lagrange Point 1 in first week of January](https://www.firstpost.com/tech/indias-aditya-l1-running-on-schedule-to-reach-lagrange-point-1-in-first-week-of-january-13530702.html)
+
+Article found but Couldn't summarize 
+India's Aditya-L1 running as per schedule, to reach Lagrange Point 1 in first week of January
+
+Thu, 21 Dec 2023 13:27:38 +0530
+### [Japan is testing Hayabusa2 rockets to deflect or destroy missile-like asteroid set to collide with Earth](https://www.firstpost.com/tech/japan-testing-hayabusa2-rockets-to-deflect-or-destroy-missile-like-asteroid-set-to-collide-with-earth-13530512.html)
+
+Article found but Couldn't summarize 
+Japan is testing Hayabusa2 rockets to deflect or destroy missile-like asteroid set to collide with Earth
+
+Thu, 21 Dec 2023 12:54:03 +0530
+### [Apple aims to launch Vision Pro AR headset by Feb 2024, ramps up production](https://www.firstpost.com/tech/apple-aims-to-launch-vision-pro-ar-headset-by-feb-2024-ramps-up-production-13530342.html)
+
+Article found but Couldn't summarize 
+Apple aims to launch Vision Pro AR headset by Feb 2024, ramps up production
+
+Thu, 21 Dec 2023 12:32:56 +0530
+### [X Outage: Elon Musk's social media platform suffers global outage, users unable to browse, access posts](https://www.firstpost.com/tech/x-outage-elon-musks-social-media-platform-goes-down-yet-again-users-unable-to-browse-access-posts-13529822.html)
+
+Article found but Couldn't summarize 
+X Outage: Elon Musk's social media platform suffers global outage, users unable to browse, access posts
+
+Thu, 21 Dec 2023 12:20:10 +0530
+### [Meta is partnering with India's ONDC to boost 5 Lakh small businesses, take on e-commerce giants](https://www.firstpost.com/tech/meta-is-partnering-with-indias-ondc-to-boost-5-lakh-small-businesses-take-on-e-commerce-giants-13530062.html)
+
+Article found but Couldn't summarize 
+Meta is partnering with India's ONDC to boost 5 Lakh small businesses, take on e-commerce giants
+
+Thu, 21 Dec 2023 11:10:38 +0530
+### [Drake at your fingertips: Microsoft's Copilot can now create songs, music based on texts](https://www.firstpost.com/tech/drake-at-your-fingertips-microsofts-copilot-can-now-create-songs-music-based-on-texts-13529592.html)
+
+Article found but Couldn't summarize 
+Drake at your fingertips: Microsoft's Copilot can now create songs, music based on texts
+
+Thu, 21 Dec 2023 10:03:55 +0530
+### [Indian crypto exchange WazirX's trading volume falls by 90 per cent as regulatory delays continue](https://www.firstpost.com/tech/indian-crypto-exchange-wazirxs-trading-volume-falls-by-90-per-cent-as-regulatory-delays-continue-13529432.html)
+
+Article found but Couldn't summarize 
+Indian crypto exchange WazirX's trading volume falls by 90 per cent as regulatory delays continue
+
+Thu, 21 Dec 2023 09:42:20 +0530
+### [Tata Motors' Safari and Harrier get first ever 5-star safety rating in India’s new Bharat-NCAP crash tests](https://www.firstpost.com/tech/auto-tech/tata-motors-safari-and-harrier-get-first-ever-5-star-safety-rating-in-indias-new-bharat-ncap-crash-tests-13529352.html)
+
+Article found but Couldn't summarize 
+Tata Motors' Safari and Harrier get first ever 5-star safety rating in India’s new Bharat-NCAP crash tests
+
+Wed, 20 Dec 2023 17:45:38 +0530
+### [AI, AI On the Wall: Scary new ChatGPT-like system can predict time of death with ‘eerie accuracy’](https://www.firstpost.com/tech/ai-ai-on-the-wall-scary-new-chatgpt-like-system-can-predict-time-of-death-with-eerie-accuracy-13527652.html)
+
+Article found but Couldn't summarize 
+AI, AI On the Wall: Scary new ChatGPT-like system can predict time of death with ‘eerie accuracy’
+
+Wed, 20 Dec 2023 17:17:21 +0530
+### [High Stakes: Narcotics police forces go online as Drug Cartels turn to video games for mules, members and customers](https://www.firstpost.com/tech/high-stakes-narcotic-police-go-online-as-drug-cartels-turn-to-video-games-for-mules-members-and-customers-13527102.html)
+
+Article found but Couldn't summarize 
+High Stakes: Narcotics police forces go online as Drug Cartels turn to video games for mules, members and customers
+
 Fri, 15 Dec 2023 17:18:35 +0530
 ### [Working on robotic arm for Chandrayaan-4, mission will be more daunting than Ch-3, reveals ISRO Chief](https://www.firstpost.com/tech/working-on-robotic-arm-for-chandrayaan-4-mission-will-be-more-daunting-than-ch-3-reveals-isro-chief-13508032.html)
 

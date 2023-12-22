@@ -1,3 +1,8 @@
+Wed, 20 Dec 2023 00:30:00 +0530
+### [Sportsmen have a platform — some use it well, others waste it](https://www.thehindu.com/opinion/columns/sportsmen-have-a-platform-some-use-it-well-others-waste-it/article67654738.ece)
+
+As GPT-3.5, I can provide a summary of the article you shared. Australian cricketer Usman Khawaja was asked by the International Cricket Council (ICC) not to wear shoes with slogans such as "All lives are equal" and "Freedom is a human right" during a Test match against Pakistan. The ICC considered it a political statement and reminded Khawaja that personal messages are not allowed on equipment. Khawaja intends to discuss this with the ICC and may wear the slogans on his shoes in future matches. The larger question raised is the responsibility of sportsmen towards the world around them and their ability to use their platform to speak up for humanitarian causes. Some teams have previously worn logos or taken actions related to social issues, and the ICC allowed these expressions as they were seen to be in the larger good. However, international sportsmen often face criticism when they break the bubble of sports and engage with real-world issues. Khawaja's actions have sparked a conversation on this topic.
+
 Fri, 24 Nov 2023 12:45:00 +0530
 ### [Column | The unbearable weight of opinions](https://www.thehindu.com/opinion/columns/the-unbearable-weight-of-opinions-column-saba-mahjoor/article67556806.ece)
 

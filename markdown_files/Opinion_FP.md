@@ -1,3 +1,151 @@
+Fri, 22 Dec 2023 18:34:49 +0530
+### [Dawood Ibrahim: The man, myth and most wanted in mainstream culture](https://www.firstpost.com/opinion/dawood-ibrahim-the-man-myth-and-most-wanted-in-mainstream-culture-13536642.html)
+
+Article found but Couldn't summarize 
+Dawood Ibrahim: The man, myth and most wanted in mainstream culture
+
+Fri, 22 Dec 2023 18:32:20 +0530
+### [Vantage | How JN.1 variant has put the world on high alert](https://www.firstpost.com/opinion/vantage-how-jn-1-variant-has-put-the-world-on-high-alert-13536372.html)
+
+As GPT-3.5, I can provide a summary of the article you shared. The article discusses the resurgence of the Wuhan virus, particularly due to a new variant called JN.1. India, specifically Kerala, has seen a noticeable surge in cases related to this variant. JN.1 is an offshoot of the Omicron lineage and carries a unique mutation that enhances its immune-evading capabilities, making it highly transmissible. While the symptoms of JN.1 are generally mild, countries worldwide are reassessing their COVID-19 guidelines and vaccination strategies. The World Health Organization (WHO) has classified JN.1 as a "variant of interest" and advises close monitoring. Vaccines continue to offer protection, and preventive measures such as wearing masks, practicing good hygiene, and getting tested for symptoms are crucial. Booster shots are recommended to enhance immunity against this variant. Overall, vigilance and adherence to health guidelines are important in mitigating the impact of JN.1.
+
+Fri, 22 Dec 2023 17:54:19 +0530
+### [Italy sings Indian melody much to Chinese consternation](https://www.firstpost.com/opinion/italy-sings-indian-melody-much-to-chinese-consternation-13536542.html)
+
+Article found but Couldn't summarize 
+Italy sings Indian melody much to Chinese consternation
+
+Fri, 22 Dec 2023 16:38:16 +0530
+### [Vantage | Why focussing on approach goals may help achieve New Year resolutions](https://www.firstpost.com/opinion/vantage-why-focussing-on-approach-goals-may-help-achieve-new-year-resolutions-13536112.html)
+
+Article found but Couldn't summarize 
+Vantage | Why focussing on approach goals may help achieve New Year resolutions
+
+Fri, 22 Dec 2023 15:56:06 +0530
+### [Donald Trump to challenge insurrection ruling using vagueness of Section 3 of 14th Amendment](https://www.firstpost.com/opinion/donald-trump-to-challenge-insurrection-ruling-using-vagueness-of-article-3-of-14th-amendment-13535342.html)
+
+Article found but Couldn't summarize 
+Donald Trump to challenge insurrection ruling using vagueness of Section 3 of 14th Amendment
+
+Fri, 22 Dec 2023 13:00:58 +0530
+### [Red Sea chokepoints in peril: Houthi strikes raise stakes for global shipping](https://www.firstpost.com/opinion/red-sea-chokepoints-in-peril-houthi-strikes-raise-stakes-for-global-shipping-13534842.html)
+
+Article found but Couldn't summarize 
+Red Sea chokepoints in peril: Houthi strikes raise stakes for global shipping
+
+Fri, 22 Dec 2023 12:08:32 +0530
+### [Vantage | What's at stake for India in Red Sea events?](https://www.firstpost.com/opinion/vantage-whats-at-stake-for-india-in-red-sea-events-13531362.html)
+
+Article found but Couldn't summarize 
+Vantage | What's at stake for India in Red Sea events?
+
+Fri, 22 Dec 2023 09:31:18 +0530
+### [FT interview of PM Modi: When a western media outlet got brutally exposed for its propaganda and lexical subterfuge](https://www.firstpost.com/opinion/ft-interview-of-pm-modi-when-a-western-media-outlet-got-brutally-exposed-for-its-propaganda-and-lexical-subterfuge-13533772.html)
+
+Article found but Couldn't summarize 
+FT interview of PM Modi: When a western media outlet got brutally exposed for its propaganda and lexical subterfuge
+
+Thu, 21 Dec 2023 18:30:50 +0530
+### [BJP’s legal goodies before 2024: Cure for netas’ ‘chest pain’ to deshdroh, love jihad to mob lynching](https://www.firstpost.com/opinion/bjps-legal-goodies-before-2024-cure-for-netas-chest-pain-to-deshdroh-love-jihad-to-mob-lynching-13531762.html)
+
+Article found but Couldn't summarize 
+BJP’s legal goodies before 2024: Cure for netas’ ‘chest pain’ to deshdroh, love jihad to mob lynching
+
+Thu, 21 Dec 2023 18:26:26 +0530
+### [Vantage | Why Imran Khan's AI double spooked Pakistan's army](https://www.firstpost.com/opinion/vantage-why-imran-khans-ai-double-spooked-pakistans-army-13529732.html)
+
+Article found but Couldn't summarize 
+Vantage | Why Imran Khan's AI double spooked Pakistan's army
+
+Thu, 21 Dec 2023 18:10:50 +0530
+### [Vantage | What Shekh Hasina's risks in a Bangladesh poll without opposition](https://www.firstpost.com/opinion/vantage-what-shekh-hasinas-risks-in-a-bangladesh-poll-without-opposition-13531922.html)
+
+Article found but Couldn't summarize 
+Vantage | What Shekh Hasina's risks in a Bangladesh poll without opposition
+
+Thu, 21 Dec 2023 17:29:30 +0530
+### [India shines at COP28: Green initiatives, climate justice and human rights in focus](https://www.firstpost.com/opinion/india-shines-at-cop28-green-initiatives-climate-justice-and-human-rights-in-focus-13531372.html)
+
+Article found but Couldn't summarize 
+India shines at COP28: Green initiatives, climate justice and human rights in focus
+
+Thu, 21 Dec 2023 15:54:33 +0530
+### [Vantage | How much does your employer need to know about your health?](https://www.firstpost.com/opinion/vantage-how-much-does-your-employer-need-to-know-about-your-health-13531102.html)
+
+Article found but Couldn't summarize 
+Vantage | How much does your employer need to know about your health?
+
+Thu, 21 Dec 2023 15:36:34 +0530
+### [Vantage | Why Putin is proposing talks with Ukraine](https://www.firstpost.com/opinion/vantage-why-putin-is-proposing-talks-with-ukraine-13530932.html)
+
+Article found but Couldn't summarize 
+Vantage | Why Putin is proposing talks with Ukraine
+
+Thu, 21 Dec 2023 14:44:44 +0530
+### [Sultan of Oman visits India: A big boost to bilateral partnership](https://www.firstpost.com/opinion/sultan-of-oman-visits-india-a-big-boost-to-bilateral-partnership-13530632.html)
+
+Article found but Couldn't summarize 
+Sultan of Oman visits India: A big boost to bilateral partnership
+
+Thu, 21 Dec 2023 13:54:32 +0530
+### [Vantage | What's behind Nawaz Sharif's 'don't blame India'?](https://www.firstpost.com/opinion/vantage-whats-behind-nawaz-sharifs-dont-blame-india-13530622.html)
+
+Article found but Couldn't summarize 
+Vantage | What's behind Nawaz Sharif's 'don't blame India'?
+
+Thu, 21 Dec 2023 12:25:25 +0530
+### [Vantage | What record-breaking cocoa prices mean for your chocolate craving](https://www.firstpost.com/opinion/vantage-what-record-breaking-cocoa-prices-mean-for-your-chocolate-craving-13529972.html)
+
+Article found but Couldn't summarize 
+Vantage | What record-breaking cocoa prices mean for your chocolate craving
+
+Thu, 21 Dec 2023 11:09:37 +0530
+### [Vantage | What caused electronic giant Toshiba's decline?](https://www.firstpost.com/opinion/vantage-what-caused-electronic-giant-toshibas-decline-13529602.html)
+
+Article found but Couldn't summarize 
+Vantage | What caused electronic giant Toshiba's decline?
+
+Thu, 21 Dec 2023 09:03:35 +0530
+### [Countdown to February 8: Why Gen Asim Munir is key to ensuring Nawaz Sharif's comeback and Pakistan regaining US trust](https://www.firstpost.com/opinion/countdown-to-february-8-why-gen-asim-munir-is-key-to-ensuring-nawaz-sharifs-comeback-and-pakistan-regaining-us-trust-13528932.html)
+
+Article found but Couldn't summarize 
+Countdown to February 8: Why Gen Asim Munir is key to ensuring Nawaz Sharif's comeback and Pakistan regaining US trust
+
+Wed, 20 Dec 2023 19:34:57 +0530
+### [Security walls and closed doors: Unravelling Global North's refugee response](https://www.firstpost.com/opinion/security-walls-and-closed-doors-unravelling-global-norths-refugee-response-13527752.html)
+
+Article found but Couldn't summarize 
+Security walls and closed doors: Unravelling Global North's refugee response
+
+Wed, 20 Dec 2023 19:30:49 +0530
+### [Vantage | Why are UN peacekeepers unpopular in Africa?](https://www.firstpost.com/opinion/vantage-why-are-un-peacekeepers-unpopular-in-africa-13527462.html)
+
+Article found but Couldn't summarize 
+Vantage | Why are UN peacekeepers unpopular in Africa?
+
+Wed, 20 Dec 2023 18:52:03 +0530
+### [Vantage | What Wild Wild West of influencing is telling you about influencers](https://www.firstpost.com/opinion/vantage-what-wild-wild-west-of-influencing-is-telling-you-about-influencers-13527682.html)
+
+Article found but Couldn't summarize 
+Vantage | What Wild Wild West of influencing is telling you about influencers
+
+Wed, 20 Dec 2023 18:21:28 +0530
+### [Vantage | Why Bangladesh is stuck in a cycle of poll-related violence](https://www.firstpost.com/opinion/vantage-why-bangladesh-is-stuck-in-a-cycle-of-poll-related-violence-13526852.html)
+
+Article found but Couldn't summarize 
+Vantage | Why Bangladesh is stuck in a cycle of poll-related violence
+
+Wed, 20 Dec 2023 17:22:04 +0530
+### [Why Indian electorate prefers dignity, long-term development over immediate freebies](https://www.firstpost.com/opinion/why-indian-electorate-prefers-dignity-long-term-development-over-immediate-freebies-13526822.html)
+
+Article found but Couldn't summarize 
+Why Indian electorate prefers dignity, long-term development over immediate freebies
+
+Wed, 20 Dec 2023 17:20:40 +0530
+### [Vantage | Can a 10-nation force prevent Houthi attacks in Red Sea?](https://www.firstpost.com/opinion/vantage-can-a-10-nation-force-prevent-houthi-attacks-in-red-sea-13526602.html)
+
+In recent weeks, tensions in the Red Sea have escalated due to drone attacks, cruise missiles, and hijackings. The primary instigators of these incidents are the Houthi rebels of Yemen. To address this growing threat, a multinational coalition has been formed, consisting of 10 nations including the United States, Britain, Spain, Seychelles, Norway, the Netherlands, Italy, France, Canada, and Bahrain. The coalition's mission, known as Operation Prosperity Guardian, aims to defend commercial vessels in the Red Sea through joint patrols, increased air support, and providing escorts for cargo ships. However, there are concerns about the absence of more West Asian nations in the coalition. The Houthi rebels continue to intensify their attacks, launching drones and missiles, which has led to disruptions in shipping operations and increased costs for major shipping companies. The situation in the Red Sea requires international attention and collaborative efforts to secure vital trade routes.
+
 Sat, 16 Dec 2023 13:34:52 +0530
 ### [When it comes to raising a toast, Nitish’s Bihar can learn from Yogi’s Uttar Pradesh and Manipur](https://www.firstpost.com/opinion/when-it-comes-to-raising-a-toast-nitishs-bihar-can-learn-from-yogis-uttar-pradesh-and-manipur-13510232.html)
 

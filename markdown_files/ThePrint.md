@@ -1,3 +1,121 @@
+Fri, 22 Dec 2023 21:46:12 +0000
+### [Soccer-Walker named Canada Soccer general secretary, first woman to hold the job](https://theprint.in/sport/soccer-walker-named-canada-soccer-general-secretary-first-woman-to-hold-the-job/1897768/)
+
+Article found but Couldn't summarize 
+(Reuters) - Former Canadian Olympic Committee (COC) executive Alyson Walker has been named general secretary of Canada Soccer, making her the first woman to occupy the position at the national
+
+Fri, 22 Dec 2023 21:45:55 +0000
+### [OpenAI in talks to raise new funding at $100 billion valuation – Bloomberg News](https://theprint.in/tech/openai-in-talks-to-raise-new-funding-at-100-billion-valuation-bloomberg-news/1897766/)
+
+Article found but Couldn't summarize 
+(Reuters) - OpenAI is in early talks to raise a fresh round of funding at a valuation at or above $100 billion, Bloomberg News reported on Friday citing people with knowledge of the matter. The terms,
+
+Fri, 22 Dec 2023 21:45:42 +0000
+### [Apple explores AI deals with news publishers – New York Times](https://theprint.in/tech/apple-explores-ai-deals-with-news-publishers-new-york-times/1897764/)
+
+Article found but Couldn't summarize 
+(Reuters) - Apple has opened negotiations in recent weeks with major news and publishing organizations, seeking permission to use their material in the company's development of generative artificial
+
+Fri, 22 Dec 2023 21:45:26 +0000
+### [Hamas and Palestinian Authority split on UN Gaza resolution](https://theprint.in/world/hamas-and-palestinian-authority-split-on-un-gaza-resolution/1897762/)
+
+Article found but Couldn't summarize 
+CAIRO (Reuters) - The Palestinian foreign ministry and the Islamist group Hamas issued opposing statements on Friday in response to the adoption by the United Nations Security Council of a resolution
+
+Fri, 22 Dec 2023 21:45:18 +0000
+### [Ukrainian investigators say they uncover fraud in arms procurement](https://theprint.in/world/ukrainian-investigators-say-they-uncover-fraud-in-arms-procurement/1897761/)
+
+Article found but Couldn't summarize 
+(Reuters) - Ukraine's SBU security service and the Defence Ministry said on Friday they had uncovered a scheme for fraudulent purchase of artillery shells that involved embezzlement of the equivalent
+
+Fri, 22 Dec 2023 21:45:05 +0000
+### [Congo releases first provisional election results after messy vote](https://theprint.in/world/congo-releases-first-provisional-election-results-after-messy-vote/1897759/)
+
+Article found but Couldn't summarize 
+By Ange Kasongo and Yassin Kombi KINSHASA/BENI (Reuters) -Democratic Republic of Congo on Friday released a few early results from general elections after an unscheduled day-long ballot extension that
+
+Fri, 22 Dec 2023 21:15:29 +0000
+### [SEC tells spot bitcoin ETF hopefuls to make final changes by year-end -sources](https://theprint.in/tech/sec-tells-spot-bitcoin-etf-hopefuls-to-make-final-changes-by-year-end-sources/1897757/)
+
+Article found but Couldn't summarize 
+By Suzanne McGee and Hannah Lang (Reuters) - U.S. SEC officials met on Thursday with representatives of at least seven companies hoping to launch exchange-traded funds (ETFs) tied to spot bitcoin
+
+Fri, 22 Dec 2023 21:15:12 +0000
+### [Biden signs $886 billion US defense policy bill into law](https://theprint.in/world/biden-signs-886-billion-us-defense-policy-bill-into-law/1897755/)
+
+Article found but Couldn't summarize 
+WASHINGTON (Reuters) - President Joe Biden on Friday signed the U.S. defense policy bill into law after the legislation passed Congress last week, the White House said. The legislation includes a
+
+Fri, 22 Dec 2023 21:15:04 +0000
+### [US says Iran ‘deeply involved’ in Red Sea attacks on commercial vessels](https://theprint.in/world/us-says-iran-deeply-involved-in-red-sea-attacks-on-commercial-vessels/1897754/)
+
+Article found but Couldn't summarize 
+WASHINGTON (Reuters) - Iran was "deeply involved" in planning operations against commercial vessels in the Red Sea and its intelligence was critical to enable Yemen's Houthi movement to target ships,
+
+Fri, 22 Dec 2023 21:02:02 +0000
+### [Nepal, India to establish sister city relationship between Janakpur, Ayodhya: Ambassador Shankar P Sharma](https://theprint.in/world/nepal-india-to-establish-sister-city-relationship-between-janakpur-ayodhya-ambassador-shankar-p-sharma/1897752/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 23 (ANI): Nepalese Ambassador to India Shankar Prasad Sharma on Friday said that Nepal and India are working to establish a sister city relationship between Janakpur and Ayodhya. He further said the Nepal Embassy in New Delhi was glad to receive Janakpur Mayor Manoj Kumar Sah and other dignitaries to participate [&#8230;]
+
+Fri, 22 Dec 2023 20:45:41 +0000
+### [Exclusive-Synopsis seeks to acquire engineering software company Ansys-sources](https://theprint.in/tech/exclusive-synopsis-seeks-to-acquire-engineering-software-company-ansys-sources/1897750/)
+
+Article found but Couldn't summarize 
+By Anirban Sen and Milana Vinn (Reuters) -Synopsys Inc, a maker of software used in chip design, has submitted an offer to acquire Ansys Inc, an engineering software vendor with a market value of $30
+
+Fri, 22 Dec 2023 20:45:33 +0000
+### [Exclusive-Synopsys seeks to acquire engineering software company Ansys-sources](https://theprint.in/tech/exclusive-synopsys-seeks-to-acquire-engineering-software-company-ansys-sources/1897749/)
+
+Article found but Couldn't summarize 
+By Anirban Sen and Milana Vinn (Reuters) -Synopsys Inc, a maker of software used in chip design, has submitted an offer to acquire Ansys Inc, an engineering software vendor with a market value of $30
+
+Fri, 22 Dec 2023 20:45:17 +0000
+### [Dollar slips to 5-month low as US inflation cools](https://theprint.in/economy/dollar-slips-to-5-month-low-as-us-inflation-cools/1897747/)
+
+Article found but Couldn't summarize 
+By Saqib Iqbal Ahmed NEW YORK (Reuters) -The dollar index edged down on Friday, hitting a near five-month low as data showed annual U.S. inflation slowed further below 3% in November, cementing market
+
+Fri, 22 Dec 2023 20:45:04 +0000
+### [Trump recorded pressuring Michigan officials to toss Biden’s 2020 win -report](https://theprint.in/world/trump-recorded-pressuring-michigan-officials-to-toss-bidens-2020-win-report/1897745/)
+
+Article found but Couldn't summarize 
+By Susan Heavey WASHINGTON (Reuters) -Donald Trump urged two Michigan election officials not to certify Democrat Joe Biden's victory in the state following the 2020 presidential election, personally
+
+Fri, 22 Dec 2023 20:17:01 +0000
+### [English edition of EAM Jaishankar’s book ‘Why Bharat Matters’ to be out in early 2024](https://theprint.in/world/english-edition-of-eam-jaishankars-book-why-bharat-matters-to-be-out-in-early-2024/1897734/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 23 (ANI): External Affairs Minister (EAM) S Jaishankar on Thursday said the English edition of his new book &#8216;Why Bharat Matters&#8217; would be out in early 2024. The EAM said: &#8220;The English edition of my new book &#8216;Why Bharat Matters&#8217; would be out in early 2024. Do read.&#8221; He wrote on [&#8230;]
+
+Fri, 22 Dec 2023 20:16:05 +0000
+### [Soccer-Manchester City beat Fluminense to capture Club World Cup](https://theprint.in/sport/soccer-manchester-city-beat-fluminense-to-capture-club-world-cup/1897731/)
+
+As GPT-3.5, I can summarize the article for you. Manchester City won the Club World Cup final against Fluminense with a score of 4-0. Julian Alvarez scored the fastest goal in the history of the Club World Cup final, just 40 seconds after kick-off. Manchester City had already won several trophies in 2023, including the FA Cup, Premier League, Champions League, and UEFA Super Cup. Alvarez's goal was a result of a rebound from a shot by Nathan Ake. The article also mentions other goals scored by Nino and Phil Foden. Overall, it was a remarkable year for Manchester City. (Please note that this summary is generated by GPT-3.5 and may not be an exact representation of the article)
+
+Fri, 22 Dec 2023 20:15:51 +0000
+### [FTX debtors settle some claims over Embed deal with Sam Bankman-Fried, others](https://theprint.in/tech/ftx-debtors-settle-some-claims-over-embed-deal-with-sam-bankman-fried-others/1897729/)
+
+As GPT-3.5, I can provide a summary of the article you shared. The bankrupt crypto exchange FTX and its debtors have reached a settlement agreement with founder Samuel Bankman-Fried and others regarding claims related to the acquisition of stock trading platform Embed. The settlement includes the recovery of 100% of the value paid for Embed's acquisition and all assets held by Bankman-Fried, Nishad Singh, and Gary Wang at Embed. The FTX debtors will continue to pursue other claims against former executives. FTX had previously filed lawsuits seeking to recover over $240 million paid for Embed. The acquisition took place shortly before the collapse of the crypto exchange, resulting in significant losses. Please note that this summary is generated by GPT-3.5 and may not include all the details of the article.
+
+Fri, 22 Dec 2023 20:15:43 +0000
+### [Nigeria to investigate killings of endangered wildlife, environment minister says](https://theprint.in/environment/nigeria-to-investigate-killings-of-endangered-wildlife-environment-minister-says/1897728/)
+
+Article found but Couldn't summarize 
+By Ahmed Kingimi and Isaac Anyaogu ABUJA (Reuters) - Nigeria will investigate the killing of endangered wildlife after a video posted on social media showed a soldier killing two elephants in the
+
+Fri, 22 Dec 2023 20:15:28 +0000
+### [Stocks edge up, dollar falls as US inflation moderates](https://theprint.in/economy/stocks-edge-up-dollar-falls-as-us-inflation-moderates/1897726/)
+
+Article found but Couldn't summarize 
+By Caroline Valetkevitch NEW YORK (Reuters) -Global stock indexes mostly rose while the U.S. dollar hit a near five-month low on Friday after data showed that annual U.S. inflation slowed further
+
+Fri, 22 Dec 2023 20:15:18 +0000
+### [Oil eases ahead of Christmas break on possible future Angola output increase](https://theprint.in/economy/oil-eases-ahead-of-christmas-break-on-possible-future-angola-output-increase/1897724/)
+
+Article found but Couldn't summarize 
+By Scott DiSavino NEW YORK (Reuters) - Oil prices eased on Friday ahead of the long Christmas holiday weekend on expectations Angola could increase output after leaving OPEC, but rose for the week on
+
 Sat, 16 Dec 2023 09:03:25 +0000
 ### [UP: Teen boy killed in clash during wedding procession](https://theprint.in/india/up-teen-boy-killed-in-clash-during-wedding-procession/1888705/)
 

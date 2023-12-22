@@ -1,3 +1,263 @@
+Fri, 22 Dec 2023 14:08:59 +0000
+### [‘Dunki’ and immigration: How the first modern passports came to be](https://indianexpress.com/article/explained/everyday-explainers/dunki-immigration-history-passport-visas-travel-9079283/)
+
+As GPT-3.5, I can provide a summary of the article you shared. "Dunki" is a film by Shahrukh Khan and Rajkumar Hirani that explores the issue of immigration. The title of the film is derived from the term "donkey journey," which refers to the challenging and often perilous routes people take to immigrate to their desired destinations. The film also touches upon the history of passports and visas, highlighting that these documents are relatively modern, dating back around 70 years. Passports have existed for centuries, with examples found in ancient texts like the Hebrew Bible. France had an established passport system before the French Revolution, and similar systems were in place in other countries like the United Kingdom. In India, the practice of issuing passports began during World War I under the British government's Defense of India Act. The need to secure borders and regulate travel during the World Wars led to the development of modern passports with features like photographs and descriptions of physical traits. The League of Nations held a conference in 1920 to standardize passport regulations, and the British system became widely adopted. In the 1920s, countries like the US also implemented passport laws, partly in response to increased immigration. Despite their origins in wartime measures, passports have become an essential aspect of modern citizenship.
+
+Fri, 22 Dec 2023 12:31:15 +0000
+### [Why the White House is opposing Japan firm’s bid to acquire US steelmaker](https://indianexpress.com/article/explained/explained-global/why-the-white-house-is-opposing-japan-firms-bid-to-acquire-us-steelmaker-9079196/)
+
+As GPT-3.5, I can provide a summary of the article you shared. The article discusses the opposition faced by Japanese steel major Nippon Steel's plans to acquire US Steel. Both Democratic and Republican lawmakers, as well as the Joe Biden Administration, have expressed concerns about the deal. Critics argue that the acquisition could impact US national security and union jobs in Pennsylvania. The United Steelworkers union, which endorsed Biden's presidential run, has also opposed the deal. The White House has stated that the proposed acquisition deserves serious scrutiny in terms of its potential impact on national security and supply chain reliability. However, there are multiple factors to consider. Nippon Steel is the largest steelmaker in Japan, which is a close ally of the US. The acquisition could bring stability to US Steel's operations and restore some of its past glory. The terms of the deal seem reasonable, and Nippon Steel has been operating in the US for four decades. The deal still needs to meet shareholders' approval and may face regulatory hurdles.
+
+Fri, 22 Dec 2023 12:28:44 +0000
+### [Macron for Republic Day 2024: How India chooses its Republic Day chief guest](https://indianexpress.com/article/explained/how-india-republic-day-chief-guest-chosen-9079203/)
+
+Article found but Couldn't summarize
+
+Fri, 22 Dec 2023 11:36:10 +0000
+### [National Mathematics Day: Remembering the legacy of Srinivasa Ramanujan](https://indianexpress.com/article/explained/everyday-explainers/national-mathematics-day-srinivasa-ramanujan-9079116/)
+
+Srinivasa Ramanujan, a legendary mathematician, was born on December 22 and National Mathematics Day is celebrated in his honor. Despite his short life, Ramanujan's ideas continue to inspire mathematicians. He excelled in mathematics from a young age, but struggled in other subjects. Ramanujan's work was substantial and often used novel methods. He gained popularity in Madras' mathematical circles and eventually received a clerical position at the Madras Port Trust. With the help of GH Hardy, he went to Britain and enrolled in Trinity College, Cambridge. Ramanujan's lack of formal training was compensated by his intuition and inspired thinking. He became a member of the London Mathematical Society and a Fellow of the Royal Society. Unfortunately, Ramanujan faced health issues and returned to India, where he passed away. His genius was compared to Euler and Jacobi, and his work in number theory, particularly in the partition function, is highly regarded. Ramanujan left behind notebooks and unpublished results that mathematicians continued to study. In 2012, December 22 was declared National Mathematics Day in his honor.
+
+Fri, 22 Dec 2023 04:48:38 +0000
+### [Breakfast in the clouds, on a gyrocopter: What are the two new initiatives for tourists Uttarakhand is planning](https://indianexpress.com/article/explained/breakfast-in-the-clouds-gyrocopter-uttarakhand-tourism-9078225/)
+
+Article found but Couldn't summarize
+
+Fri, 22 Dec 2023 04:25:37 +0000
+### [Two reasons why Odisha has contested Centre’s school drop-out data for the state](https://indianexpress.com/article/explained/why-odisha-contested-centres-school-drop-out-data-9078089/)
+
+Article found but Couldn't summarize
+
+Fri, 22 Dec 2023 02:30:08 +0000
+### [How an AI tool can make weather forecasts more accurate and help tackle climate change](https://indianexpress.com/article/explained/explained-sci-tech/ai-tool-weather-forecasts-tackle-climate-change-9077964/)
+
+Article found but Couldn't summarize
+
+Fri, 22 Dec 2023 01:30:42 +0000
+### [Indian Penal Code to Nyaya Sanhita: What’s new, what is out, what changes](https://indianexpress.com/article/explained/explained-law/indian-penal-code-to-nyaya-sanhita-whats-new-what-is-out-what-changes-9078213/)
+
+Article found but Couldn't summarize
+
+Thu, 21 Dec 2023 22:40:11 +0000
+### [What new criminal code says on punishing medical practitioners for negligence, accidental death](https://indianexpress.com/article/explained/explained-health/docs-thank-govt-but-in-bns-they-can-still-face-criminal-cases-9078284/)
+
+Article found but Couldn't summarize
+
+Thu, 21 Dec 2023 14:24:23 +0000
+### [How the crossword puzzle was born, 110 years ago](https://indianexpress.com/article/explained/explained-culture/crossword-puzzle-110-history-world-war-9077967/)
+
+Article found but Couldn't summarize
+
+Thu, 21 Dec 2023 13:42:59 +0000
+### [Why Tamil Nadu has witnessed heavy rainfall in December 2023](https://indianexpress.com/article/explained/explained-climate/why-tamil-nadu-has-witnessed-heavy-rainfall-in-december-9077911/)
+
+Article found but Couldn't summarize
+
+Thu, 21 Dec 2023 12:00:33 +0000
+### [Iceland volcano eruption: What are volcanoes and why is the island so volcanically active?](https://indianexpress.com/article/explained/explained-sci-tech/iceland-volcano-eruption-types-9077779/)
+
+Article found but Couldn't summarize
+
+Thu, 21 Dec 2023 11:39:13 +0000
+### [Who was Leonard Bernstein, the celebrated conductor in ‘Maestro’?](https://indianexpress.com/article/explained/explained-culture/who-was-leonard-bernstein-the-celebrated-conductor-in-maestro-9077731/)
+
+GPT-3.5: Leonard Bernstein, the subject of the motion picture "Maestro," was a multifaceted and influential musician in the history of Western classical music. He was born in Lawrence, Massachusetts in 1918 to Jewish parents who had emigrated from Russia. Bernstein's musical journey began with piano lessons at the age of 10, and he later studied conducting at Curtis Institute in Philadelphia. He gained recognition after substituting for Bruno Walter at the New York Philharmonic and went on to have a triumphant career, performing all over Europe and becoming the first American-born conductor to lead the orchestra. Bernstein had a passionate conducting style and was known for his animated performances. He married Felicia Montealegre and had three children, but he also had relationships with both women and men throughout his life. Bernstein was politically active, protesting the Vietnam War and advocating for civil rights. He passed away in 1990 due to complications from emphysema.
+
+Thu, 21 Dec 2023 11:36:59 +0000
+### [CISF set to take over Parliament security: 10 things you need to know about the force](https://indianexpress.com/article/explained/cisf-parliament-security-9077723/)
+
+Article found but Couldn't summarize
+
+Thu, 21 Dec 2023 03:18:04 +0000
+### [How two different SC rulings on the same issue impact ED’s powers of arrest](https://indianexpress.com/article/explained/explained-law/2-different-sc-rulings-eds-powers-of-arrest-9076723/)
+
+Article found but Couldn't summarize
+
+Thu, 21 Dec 2023 02:30:33 +0000
+### [Kejriwal skips ED summons for Vipassana: 10 things you need to know about the meditation practice](https://indianexpress.com/article/explained/kejriwal-ed-summons-vipassana-meditation-9076604/)
+
+Vipassana is an ancient meditation technique derived from the teachings of the Buddha. It is a way of self-transformation through self-observation, aiming to achieve true peace of mind and lead a happy, useful life. The practice of Vipassana disappeared from India for centuries but was reintroduced in the 19th century by the influential monk Ledi Sayadaw and spread globally in the 20th century. SN Goenka brought Vipassana back to India in 1969 and established numerous Vipassana centers worldwide. The most popular course is a 10-day residential course where students have no contact with the outside world and follow a strict Code of Discipline. It is important to note that Vipassana is not limited to Buddhists and does not involve religious practices. The training involves three steps: morality, Anapana meditation focusing on the breath, and the actual practice of Vipassana. The daily schedule includes meditation sessions, interactions with the teacher, and discourses on Vipassana. The courses are run solely on a donation basis.
+
+Thu, 21 Dec 2023 01:30:03 +0000
+### [Why garlic prices are up, and will stay high for some time](https://indianexpress.com/article/explained/why-garlic-prices-are-up-and-will-stay-high-for-some-time-9076712/)
+
+Article found but Couldn't summarize
+
+Wed, 20 Dec 2023 13:46:29 +0000
+### [Bihar to develop Sita’s birthplace: An expert explains the history and mythology of Mithila](https://indianexpress.com/article/explained/explained-culture/history-and-mythology-of-mithila-ramayana-sita-9076478/)
+
+Article found but Couldn't summarize
+
+Wed, 20 Dec 2023 13:18:33 +0000
+### [Explained: The rarely invoked 14th Amendment of the US Constitution, used to disqualify Trump from holding office](https://indianexpress.com/article/explained/explained-global/donald-trump-14th-amendment-us-constitution-9076323/)
+
+Article found but Couldn't summarize
+
+Wed, 20 Dec 2023 07:13:40 +0000
+### [What is Donald Trump’s big legal setback, and could it prevent him from running for President?](https://indianexpress.com/article/explained/explained-global/donald-trump-legal-setback-2024-elections-us-politics-9075805/)
+
+Article found but Couldn't summarize
+
+Wed, 20 Dec 2023 03:57:37 +0000
+### [ExplainSpeaking: What explains India’s surprisingly fast GDP growth and the ongoing surge in Sensex?](https://indianexpress.com/article/explained/explained-economics/explainspeaking-what-explains-indias-surprisingly-fast-gdp-growth-and-the-ongoing-surge-in-sensex-9075482/)
+
+Article found but Couldn't summarize
+
+Wed, 20 Dec 2023 03:46:10 +0000
+### [Theme of SRK’s ‘Dunki’, what is the donkey route: Dangerous path to the American Dream](https://indianexpress.com/article/explained/srks-dunki-what-is-the-donkey-route-9075346/)
+
+Article found but Couldn't summarize
+
+Wed, 20 Dec 2023 02:30:40 +0000
+### [Why the UK banned Air France, Lufthansa, and Etihad ads over ‘greenwashing’ claims](https://indianexpress.com/article/explained/explained-climate/airline-ads-banned-greenwashing-aviation-industry-climate-change-9074970/)
+
+Article found but Couldn't summarize
+
+Wed, 20 Dec 2023 01:37:03 +0000
+### [Illegal Delhi colonies protected for another 3 years: what the Bill passed in Parliament says](https://indianexpress.com/article/explained/illegal-delhi-colonies-protected-for-another-3-years-what-the-law-says-9075138/)
+
+Article found but Couldn't summarize
+
+Tue, 19 Dec 2023 20:27:30 +0000
+### [Dr Gufran Beig, Founder-Director of SAFAR, explains air pollution management](https://indianexpress.com/article/explained/shift-the-sowing-period-of-winter-crops-convert-waste-to-energy-and-control-air-pollution-9075262/)
+
+Article found but Couldn't summarize
+
+Tue, 19 Dec 2023 14:48:15 +0000
+### [Attacks on ships, costly rerouting and more: What is happening in Red Sea, as spillover of Gaza war](https://indianexpress.com/article/explained/explained-global/red-sea-attacks-ships-yemen-israel-palestine-explained-9074931/)
+
+Article found but Couldn't summarize
+
+Tue, 19 Dec 2023 13:49:52 +0000
+### [Goa Liberation Day: Why India waited for 14 years after independence to move troops to Goa](https://indianexpress.com/article/explained/explained-history/goa-liberation-day-why-14-years-after-independence-9074903/)
+
+Article found but Couldn't summarize
+
+Tue, 19 Dec 2023 12:13:20 +0000
+### [Gyanvapi mosque case: What is the 1991 suit, why it was revived](https://indianexpress.com/article/explained/explained-law/allahabad-hc-gyanvapi-case-explained-9074618/)
+
+Article found but Couldn't summarize
+
+Tue, 19 Dec 2023 10:15:51 +0000
+### [Ashfaqullah and Bismil hanged 96 years ago: How young revolutionary leaders executed the Kakori Train Robbery](https://indianexpress.com/article/explained/explained-history/kakori-train-robbery-action-9074349/)
+
+Article found but Couldn't summarize
+
+Tue, 19 Dec 2023 09:51:47 +0000
+### [ED calls Delhi CM Arvind Kejriwal again, but what if he declines again?](https://indianexpress.com/article/explained/enforcement-directorate-kejriwal-summons-delhi-explained-9074392/)
+
+Article found but Couldn't summarize
+
+Tue, 19 Dec 2023 07:56:04 +0000
+### [Applying for a loan or card? What should your credit score be, and why is it important?](https://indianexpress.com/article/explained/everyday-explainers/credit-score-loan-card-9074179/)
+
+Article found but Couldn't summarize
+
+Tue, 19 Dec 2023 06:54:07 +0000
+### [Telecommunications Bill, 2023: The changes it seeks in the telecom sector, why some have raised concerns](https://indianexpress.com/article/explained/explained-sci-tech/telecommunications-bill-2023-significance-9074099/)
+
+Article found but Couldn't summarize
+
+Tue, 19 Dec 2023 06:06:12 +0000
+### [78 Opposition MPs suspended, most ever in a day: Why this happened, what Parliament rules say](https://indianexpress.com/article/explained/explained-politics/opposition-parliament-mp-suspended-explained-9074037/)
+
+Article found but Couldn't summarize
+
+Tue, 19 Dec 2023 01:40:10 +0000
+### [Centre writes to states over new Covid variant: all you should know about JN.1](https://indianexpress.com/article/explained/explained-health/centre-writes-to-states-over-new-covid-variant-all-you-should-know-about-jn-1-9073584/)
+
+Article found but Couldn't summarize
+
+Mon, 18 Dec 2023 15:02:47 +0000
+### [Who is Jimmy Lai, the pro-democracy media tycoon facing a national security trial in Hong Kong?](https://indianexpress.com/article/explained/explained-global/jimmy-lai-national-security-trial-hong-kong-9073441/)
+
+Article found but Couldn't summarize
+
+Mon, 18 Dec 2023 13:52:53 +0000
+### [Telecom Bill 2023: What powers it gives the government for ‘national security’](https://indianexpress.com/article/explained/everyday-explainers/telecom-bill-2023-what-powers-government-national-security-9073347/)
+
+Article found but Couldn't summarize
+
+Mon, 18 Dec 2023 11:20:36 +0000
+### [33 MPs barred from Lok Sabha: Recalling 1989, when 63 MPs were suspended during Rajiv Gandhi’s govt](https://indianexpress.com/article/explained/explained-politics/recalling-1989-when-63-mps-suspended-rajiv-gandhis-govt-9073047/)
+
+Article found but Couldn't summarize
+
+Mon, 18 Dec 2023 10:01:48 +0000
+### [A brief history of colour blue in art](https://indianexpress.com/article/explained/explained-culture/brief-history-colour-blue-art-9072778/)
+
+Article found but Couldn't summarize
+
+Mon, 18 Dec 2023 09:38:51 +0000
+### [PM Modi inaugurates Kashi Tamil Sangamam: What is the ancient connect between Kashi and the Tamil land](https://indianexpress.com/article/explained/explained-history/pm-modi-innaugerates-kashi-tamil-sangamam-what-is-the-ancient-connect-between-kashi-and-the-tamil-land-9072744/)
+
+Article found but Couldn't summarize
+
+Mon, 18 Dec 2023 09:11:50 +0000
+### [India set to man its Arctic base around the year with new expedition: Here’s why](https://indianexpress.com/article/explained/explained-sci-tech/india-arctic-year-round-manning-expedition-9072693/)
+
+Himadri, India's Arctic Research Station at Ny-Ålesund in the Norwegian archipelago of Svalbard, will now operate throughout the year. India recently sent its first winter expedition to Himadri, consisting of four scientists from different institutions. The region above the Arctic Circle offers pristine environments for various scientific research, including atmospheric, oceanic, biological, geological, glaciological, and earth sciences. The Arctic region has been experiencing rising temperatures, with a 4-degree Celsius increase on average over the last century. The melting sea ice in the Arctic can have global impacts, such as rising sea levels and changes in atmospheric circulation. India, along with other countries, is actively involved in Arctic research and has its permanent research station, Himadri, which has been operational since 2008. The recent winter expedition aims to study atmospheric sciences, astronomy, astrophysics, and climate studies.
+
+Mon, 18 Dec 2023 05:42:29 +0000
+### [How Indian states fare on logistics: What the Centre’s latest survey says](https://indianexpress.com/article/explained/explained-economics/2023-logistics-ease-across-different-states-leads-survey-9072513/)
+
+Article found but Couldn't summarize
+
+Mon, 18 Dec 2023 01:45:54 +0000
+### [How terms of trade have moved in agriculture sector, for farmers and farm workers](https://indianexpress.com/article/explained/explained-economics/how-terms-of-trade-have-moved-for-agriculture-9072151/)
+
+Article found but Couldn't summarize
+
+Sun, 17 Dec 2023 15:36:54 +0000
+### [Guru Teg Bahadur’s valiant life and death, and why there’s confusion over his martyrdom date](https://indianexpress.com/article/explained/explained-history/guru-teg-bahadur-life-death-martyrdom-9072060/)
+
+Article found but Couldn't summarize
+
+Sun, 17 Dec 2023 14:42:38 +0000
+### [This Quote Means: Lending hands to someone is better than giving a dole](https://indianexpress.com/article/explained/this-quote-means-lending-hands-to-someone-is-better-than-giving-a-dole-9072014/)
+
+Article found but Couldn't summarize
+
+Sun, 17 Dec 2023 13:20:04 +0000
+### [PM Modi in Varanasi: What is Viksit Bharat Sankalp Yatra, and the Kashi Tamil Sangamam?](https://indianexpress.com/article/explained/everyday-explainers/pm-modi-varanasi-what-is-viksit-bharat-sankalp-yatra-kashi-tamil-sangamam-9071956/)
+
+Article found but Couldn't summarize
+
+Sun, 17 Dec 2023 11:15:55 +0000
+### [England, Wales caution judges over AI: What the rules say, what is the situation in India](https://indianexpress.com/article/explained/explained-law/england-judges-ai-india-rule-9071836/)
+
+Article found but Couldn't summarize
+
+Sun, 17 Dec 2023 10:51:54 +0000
+### [US veto of Gaza ceasefire: Why only five countries have veto power in the UN Security Council](https://indianexpress.com/article/explained/everyday-explainers/permanent-five-veto-power-unsc-explained-9071707/)
+
+Article found but Couldn't summarize
+
+Sun, 17 Dec 2023 05:12:39 +0000
+### [A short history of the Krishna Janmasthan temple in Mathura](https://indianexpress.com/article/explained/explained-history/krishna-janmasthan-temple-mathura-survey-history-9071447/)
+
+Article found but Couldn't summarize
+
+Sat, 16 Dec 2023 13:44:59 +0000
+### [Ukraine puts Patriarch Kirill on ‘wanted’ list: Who is he — and what is the Russian Orthodox Church?](https://indianexpress.com/article/explained/explained-global/what-is-russian-orthodox-church-patriarch-kirill-9071033/)
+
+Article found but Couldn't summarize
+
+Sat, 16 Dec 2023 11:40:38 +0000
+### [The more fertile you are, the sooner you may die: What a new study says](https://indianexpress.com/article/explained/explained-sci-tech/fertile-die-study-gene-antagonistic-pleiotropy-hypothesis-9070888/)
+
+Hmm, based on the provided article, scientists believe that aging may be a consequence of how we evolved to reproduce. The study analyzed the genes of over 276,000 participants and found that individuals carrying gene variances promoting reproduction are less likely to survive to old age. This supports the antagonistic pleiotropy hypothesis, which suggests that mutations promoting reproduction are more likely to reduce lifespan. It's interesting to note that genetic variances promoting reproduction increased over generations from 1940 to 1969, indicating ongoing human evolution. However, the article also mentions that the decline in reproductive performance with age is not fully understood from an evolutionary perspective. The benefits of fertility in early life may come at the cost of aging later on. This hypothesis suggests that certain traits and genetic variants that are beneficial in youth can become problematic in old age, leading to fragility and health issues. For example, menopause and fertility loss in women can accelerate aging. Overall, this study provides evidence supporting the antagonistic pleiotropy hypothesis and its potential implications for understanding aging-related diseases.
+
+Sat, 16 Dec 2023 10:59:38 +0000
+### [What is ketamine, the drug involved in Matthew Perry’s death?](https://indianexpress.com/article/explained/what-is-ketamine-matthew-perry-9070907/)
+
+Article found but Couldn't summarize
+
+Sat, 16 Dec 2023 10:24:17 +0000
+### [Post Office Bill, 2023: Why it was brought in, provisions, criticism](https://indianexpress.com/article/explained/explained-law/post-office-bill-shashi-tharoor-9070808/)
+
+The Post Office Bill, 2023, was brought to the Lok Sabha for consideration on December 13. It aims to consolidate and amend the law relating to the Post Office in India. The Bill allows the Centre to intercept, open, or detain any item in the interest of state security, public order, or contravention of other laws. It also empowers post officers to hand over postal items to customs authorities if they are suspected to contain prohibited items. The Bill removes penalties and offences under the 1898 Act and regulates private courier services for the first time. Some members of the Opposition have criticized the Bill for retaining draconian provisions.
+
 Sat, 16 Dec 2023 09:05:14 +0000
 ### [Vijay Diwas: How India won the 1971 War in under two weeks](https://indianexpress.com/article/explained/explained-history/vijay-diwas-1971-war-india-pakistan-bangladesh-9070725/)
 

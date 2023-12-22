@@ -1,3 +1,152 @@
+Fri, 22 Dec 2023 20:07:06 +0530
+### [Save your tears: Why Whamageddon is making people stay away from ‘Last Christmas’](https://www.firstpost.com/explainers/whamageddon-last-christmas-wham-song-holiday-season-13536972.html)
+
+Article found but Couldn't summarize 
+Save your tears: Why Whamageddon is making people stay away from ‘Last Christmas’
+
+Fri, 22 Dec 2023 19:21:26 +0530
+### [Rewind 2023: The newsmakers of the year](https://www.firstpost.com/explainers/rewind-2023-from-virat-kohli-to-sam-altman-newsmakers-of-the-year-13534422.html)
+
+Article found but Couldn't summarize 
+Rewind 2023: The newsmakers of the year
+
+Fri, 22 Dec 2023 17:20:48 +0530
+### [Ram Mandir inauguration: Did Nihang Sikhs start the temple movement over a century back?](https://www.firstpost.com/explainers/ram-mandir-inauguration-did-nihang-sikhs-start-the-temple-movement-over-a-century-back-13536162.html)
+
+Article found but Couldn't summarize 
+Ram Mandir inauguration: Did Nihang Sikhs start the temple movement over a century back?
+
+Fri, 22 Dec 2023 16:31:00 +0530
+### [Why Nirvana is facing trouble again over iconic naked baby album cover](https://www.firstpost.com/explainers/why-nirvana-is-facing-trouble-again-over-iconic-naked-baby-album-cover-13536012.html)
+
+Article found but Couldn't summarize 
+Why Nirvana is facing trouble again over iconic naked baby album cover
+
+Fri, 22 Dec 2023 15:33:53 +0530
+### [How Houthi attacks in the Red Sea could affect everyday life](https://www.firstpost.com/explainers/how-houthi-attacks-in-the-red-sea-could-affect-everyday-life-13535262.html)
+
+Article found but Couldn't summarize 
+How Houthi attacks in the Red Sea could affect everyday life
+
+Fri, 22 Dec 2023 14:24:32 +0530
+### [France's Macron invited for Republic Day: How India selects its chief guest](https://www.firstpost.com/explainers/frances-emmanuel-macron-invited-for-republic-day-how-india-selects-its-chief-guest-for-the-parade-13535212.html)
+
+Article found but Couldn't summarize 
+France's Macron invited for Republic Day: How India selects its chief guest
+
+Fri, 22 Dec 2023 13:54:17 +0530
+### [Could JN.1 COVID variant affect your holiday travel? Where are cases rising in India, world?](https://www.firstpost.com/explainers/could-jn-1-covid-variant-affect-your-holiday-travel-where-are-cases-rising-in-india-world-13535092.html)
+
+Article found but Couldn't summarize 
+Could JN.1 COVID variant affect your holiday travel? Where are cases rising in India, world?
+
+Fri, 22 Dec 2023 13:14:12 +0530
+### [Pannun assassination plot: What is consular access that India got to Nikhil Gupta?](https://www.firstpost.com/explainers/pannun-assassination-plot-what-is-consular-access-that-india-got-to-nikhil-gupta-13534982.html)
+
+Article found but Couldn't summarize 
+Pannun assassination plot: What is consular access that India got to Nikhil Gupta?
+
+Fri, 22 Dec 2023 11:38:29 +0530
+### [Who is Mayushi Bhagat, the Indian who appears on FBI's ‘worst kidnapping list’?](https://www.firstpost.com/explainers/who-is-mayushi-bhagat-the-missing-indian-student-who-appears-on-the-fbis-worst-kidnapping-list-13534552.html)
+
+Article found but Couldn't summarize 
+Who is Mayushi Bhagat, the Indian who appears on FBI's ‘worst kidnapping list’?
+
+Fri, 22 Dec 2023 11:16:54 +0530
+### [Poonch attack kills 4 soldiers: What is PAFF, the group behind the J-K ambush?](https://www.firstpost.com/explainers/poonch-attack-5-army-soldiers-paff-terror-group-j-k-ambush-13533982.html)
+
+GPT-3.5: On Thursday, heavily-armed terrorists ambushed two Indian Army vehicles in Jammu and Kashmir's Poonch district, resulting in the death of four soldiers and injuries to three others. The attack took place during a cordon-and-search operation. The People's Anti-Fascist Front (PAFF), a proxy outfit of the terror group Jaish-e-Mohammed (JeM), claimed responsibility for the attack. PAFF has been involved in various acts of terrorism in Jammu and Kashmir and has been banned by the Union Home Ministry. The Indian Army is currently conducting a search operation to apprehend the terrorists involved in the attack.
+
+Fri, 22 Dec 2023 10:27:47 +0530
+### [14 killed in Prague university: How common are school shootings in Europe?](https://www.firstpost.com/explainers/14-killed-in-prague-university-how-common-are-school-shootings-in-europe-13534212.html)
+
+Article found but Couldn't summarize 
+14 killed in Prague university: How common are school shootings in Europe?
+
+Fri, 22 Dec 2023 07:34:32 +0530
+### [FirstUp: From INDIA bloc’s protest to Salaar release, it’s a day to watch out for](https://www.firstpost.com/explainers/firstup-from-india-blocs-protest-to-prabhas-salaar-release-its-a-day-to-watch-out-for-13531622.html)
+
+Article found but Couldn't summarize 
+FirstUp: From INDIA bloc’s protest to Salaar release, it’s a day to watch out for
+
+Thu, 21 Dec 2023 20:23:30 +0530
+### [Why do Punjab houses have planes on their rooftops? Did they inspire SRK’s Dunki?](https://www.firstpost.com/explainers/punjab-houses-rooftop-planes-srk-dunki-release-13532842.html)
+
+Article found but Couldn't summarize 
+Why do Punjab houses have planes on their rooftops? Did they inspire SRK’s Dunki?
+
+Thu, 21 Dec 2023 19:32:02 +0530
+### [A Christmas Horror: Why penile fractures are most common on the holiday](https://www.firstpost.com/explainers/a-christmas-horror-why-penile-fractures-are-most-common-on-the-holiday-13531392.html)
+
+Article found but Couldn't summarize 
+A Christmas Horror: Why penile fractures are most common on the holiday
+
+Thu, 21 Dec 2023 18:25:48 +0530
+### [Rewind 2023: From India's population to Barbie, the year in numbers](https://www.firstpost.com/explainers/rewind-2023-from-indias-population-to-barbies-box-office-figures-the-year-in-numbers-13531612.html)
+
+Article found but Couldn't summarize 
+Rewind 2023: From India's population to Barbie, the year in numbers
+
+Thu, 21 Dec 2023 17:43:59 +0530
+### [In Graphics | What’s the history behind Santa Claus, the Christmas tree, and carols?](https://www.firstpost.com/explainers/in-graphics-whats-the-history-behind-santa-claus-the-christmas-tree-and-carols-13526862.html)
+
+Article found but Couldn't summarize 
+In Graphics | What’s the history behind Santa Claus, the Christmas tree, and carols?
+
+Thu, 21 Dec 2023 17:03:34 +0530
+### [Why CISF will take charge of Parliament security from Delhi Police](https://www.firstpost.com/explainers/lok-sabha-breach-why-cisf-will-take-charge-of-parliament-security-from-delhi-police-13531382.html)
+
+Article found but Couldn't summarize 
+Why CISF will take charge of Parliament security from Delhi Police
+
+Thu, 21 Dec 2023 16:16:30 +0530
+### [What is ‘mouse fever’, the illness causing Russian soldiers to bleed from their eyes?](https://www.firstpost.com/explainers/what-is-mouse-fever-the-illness-causing-russian-soldiers-to-bleed-from-their-eyes-13531222.html)
+
+Article found but Couldn't summarize 
+What is ‘mouse fever’, the illness causing Russian soldiers to bleed from their eyes?
+
+Thu, 21 Dec 2023 14:22:52 +0530
+### [K'taka techie, Bhagat Singh fan: Who are two new detainees in Parliament breach case?](https://www.firstpost.com/explainers/karnataka-techie-bhagat-singhs-fan-who-are-two-new-detainees-in-parliament-breach-case-13530532.html)
+
+Article found but Couldn't summarize 
+K'taka techie, Bhagat Singh fan: Who are two new detainees in Parliament breach case?
+
+Thu, 21 Dec 2023 13:34:36 +0530
+### [1 state, multiple outbreaks: Why Kerala is often the first to record diseases](https://www.firstpost.com/explainers/1-state-multiple-outbreaks-why-kerala-is-often-the-first-to-record-diseases-13530482.html)
+
+Article found but Couldn't summarize 
+1 state, multiple outbreaks: Why Kerala is often the first to record diseases
+
+Thu, 21 Dec 2023 13:25:27 +0530
+### [More JN.1 infections in India: Is India on the cusp of another COVID wave?](https://www.firstpost.com/explainers/more-jn-1-sub-variant-infections-in-india-is-india-on-the-cusp-of-another-covid-wave-13529582.html)
+
+Article found but Couldn't summarize 
+More JN.1 infections in India: Is India on the cusp of another COVID wave?
+
+Thu, 21 Dec 2023 12:44:16 +0530
+### [Mob lynching, rape, suicide: What are the changes in India’s criminal laws?](https://www.firstpost.com/explainers/mob-lynching-rape-suicide-changes-in-india-criminal-laws-bharatiya-nyaya-sanhita-13530072.html)
+
+Article found but Couldn't summarize 
+Mob lynching, rape, suicide: What are the changes in India’s criminal laws?
+
+Thu, 21 Dec 2023 12:37:14 +0530
+### [How world's craving for chocolate is bad news for a Nigerian rainforest](https://www.firstpost.com/explainers/how-worlds-craving-for-chocolate-is-bad-news-for-a-nigerian-rainforest-13530112.html)
+
+Article found but Couldn't summarize 
+How world's craving for chocolate is bad news for a Nigerian rainforest
+
+Thu, 21 Dec 2023 10:32:55 +0530
+### [Why Sri Lanka has declared a one-year pause on foreign research vessels](https://www.firstpost.com/explainers/why-sri-lanka-has-declared-a-one-year-pause-on-foreign-research-vessels-13529502.html)
+
+Article found but Couldn't summarize 
+Why Sri Lanka has declared a one-year pause on foreign research vessels
+
+Thu, 21 Dec 2023 09:17:00 +0530
+### [Rewind 2023: Remembering influential figures we lost this year](https://www.firstpost.com/explainers/rewind-2023-remembering-influential-figures-we-lost-this-year-13527152.html)
+
+Article found but Couldn't summarize 
+Rewind 2023: Remembering influential figures we lost this year
+
 Sat, 16 Dec 2023 11:49:33 +0530
 ### [What is anti-anxiety drug ketamine tied to F.R.I.E.N.D.S star Matthew Perry's death?](https://www.firstpost.com/explainers/matthew-perry-death-what-is-anti-anxiety-drug-ketamine-tied-to-f-r-i-e-n-d-s-star-13510122.html)
 

@@ -1,3 +1,110 @@
+Fri, 22 Dec 2023 17:33:45 +0530
+### [‘Rebel Moon: A Child of Fire’ movie review: Zack Snyder’s space opera riddled with sci-fi déjà vu and outright cliché](https://www.thehindu.com/entertainment/movies/rebel-moon-a-child-of-fire-movie-review-zack-snyders-space-opera-riddled-with-sci-fi-d%C3%A9j%C3%A0-vu-and-outright-clich%C3%A9/article67665761.ece)
+
+Article found but Couldn't summarize 
+The cool myth-making and grand-canvas visuals aside, Zack Snyder’s space opera is an uninspiring, generic mishmash of sci-fi tropes, with the lack of ambition from the filmmaker being the biggest letdown
+
+Fri, 22 Dec 2023 14:13:50 +0530
+### [‘Salaar: Part 1 – Ceasefire’ movie review: Prabhas returns to form in Prashanth Neel’s indulgent saga](https://www.thehindu.com/entertainment/movies/salaar-part-1-ceasefire-movie-review-prabhas-returns-to-form-in-prashanth-neels-indulgent-saga/article67665283.ece)
+
+Article found but Couldn't summarize 
+Prashanth Neel’s ‘Salaar: Part 1: Ceasefire’ is an unabashed celebration of the stardom of Prabhas and plays to the gallery for mass action lovers
+
+Thu, 21 Dec 2023 20:08:40 +0530
+### [‘Neru’ movie review: Jeethu Joseph and Mohanlal’s courtroom drama almost delivers a cathartic high](https://www.thehindu.com/entertainment/movies/neru-movie-review-jeethu-joseph-and-mohanlals-courtroom-drama-almost-delivers-a-cathartic-high/article67661846.ece)
+
+Article found but Couldn't summarize 
+Mohanlal is back to form with an understated performance, while Jeethu Joseph has found his mojo in this mostly riveting legal drama
+
+Thu, 21 Dec 2023 19:21:06 +0530
+### [‘Aquaman and the Lost Kingdom’ movie review: Jason Momoa stars in a jittery, lacklustre farewell to DCEU](https://www.thehindu.com/entertainment/movies/aquaman-and-the-lost-kingdom-movie-review-jason-momoa-stars-in-a-jittery-lacklustre-farewell-to-dceu/article67662354.ece)
+
+Aquaman and the Lost Kingdom is the final installment in the DC Extended Universe (DCEU). It features Arthur Curry, also known as Aquaman, who is a member of the Justice League. In this film, Arthur faces a conflict with David Kane, who seeks revenge for his father's death. To resolve the situation, Arthur forms an unlikely alliance with his half-brother, Orm Marius. The film has received mixed reviews and faced controversies during its production. It showcases stunning visuals, incorporates lighter moments, and includes references to popular culture. However, it falls prey to familiar tropes and a predictable plot, making it a mediocre outing. Despite its intentions to be a fitting send-off for the franchise, Aquaman and the Lost Kingdom ends up being underwhelming.
+
+Thu, 21 Dec 2023 17:46:03 +0530
+### [‘Dunki’ movie review: Shah Rukh Khan and Rajkumar Hirani deliver a drama that delights and drags in equal measure](https://www.thehindu.com/entertainment/movies/dunki-movie-review-shah-rukh-khan-and-rajkumar-hirani-deliver-a-drama-that-delights-and-drags-in-equal-measure/article67661665.ece)
+
+Article found but Couldn't summarize 
+In ‘Dunki,’ Rajkumar Hirani’s first and long-awaited collaboration with Shah Rukh Khan, the purpose and social concern is laudable but the storytelling feels facile and laboured after a point
+
+Thu, 21 Dec 2023 14:25:07 +0530
+### [‘Maestro’ movie review: Carey Mulligan steals the show in Bradley Cooper’s uneven but stylish drama](https://www.thehindu.com/entertainment/movies/maestro-movie-review-carey-mulligan-steals-the-show-in-bradley-coopers-uneven-but-stylish-drama/article67661321.ece)
+
+Article found but Couldn't summarize 
+While Bradley Cooper can hold down the technical elements that make ‘Maestro’ good, his inability to bring the same control to the script does not go unnoticed
+
+Wed, 20 Dec 2023 15:38:27 +0530
+### [A brilliant Carnatic concert featuring one voice and two mridangams](https://www.thehindu.com/entertainment/music/a-brilliant-carnatic-concert-featuring-one-voice-and-two-mridangams/article67657735.ece)
+
+Article found but Couldn't summarize 
+Ramakrishnan Murthy was accompanied by two percussionists, who made the most of this unconventional kutcheri set up
+
+Tue, 19 Dec 2023 21:02:36 +0530
+### [BVFF 2023 | ‘Before Spring’ movie review: A poignant tale of tender hearts fighting to escape realities](https://www.thehindu.com/entertainment/movies/bvff-2023-before-spring-movie-review-a-poignant-tale-of-tender-hearts-fighting-to-escape-realities/article67654961.ece)
+
+Article found but Couldn't summarize 
+Shrutismriti Changkakoti’s debut feature tells a heartbreaking yet hopeful story about three characters coping with three distinct situations; the empathy shown to the characters, an impressive subversion, economical use of dialogue and music, and tenderly captured frames make it all the more impressive
+
+Tue, 19 Dec 2023 19:12:59 +0530
+### [‘Koose Munisamy Veerappan’ docu-series review: Another iteration to the contested legacy of the forest brigand](https://www.thehindu.com/entertainment/movies/koose-munisamy-veerappan-docu-series-review-another-iteration-to-the-contested-legacy-of-the-forest-brigand/article67654355.ece)
+
+Article found but Couldn't summarize 
+The first season of the ZEE5 series tries to shine a light on why Veerappan chose to continue his life of crime, his justifications on why he murdered so many cops, and why he didn’t think of surrender as an option despite being witness to the suffering of common people at the hands of the police
+
+Tue, 19 Dec 2023 16:07:07 +0530
+### [Vidya Kalyanaraman presented a charming portrait of Kapi](https://www.thehindu.com/entertainment/music/vidya-kalyanaraman-presented-a-charming-portrait-of-kapi/article67650304.ece)
+
+Article found but Couldn't summarize 
+Vidya Kalyanaraman came up with a fine detailing of the raga at her concert for The Music Academy’s Margazhi festival.
+
+Tue, 19 Dec 2023 16:05:14 +0530
+### [Gayathri Venkataraghavan’s creative mind at work](https://www.thehindu.com/entertainment/music/a-creative-mind-at-work/article67653906.ece)
+
+Article found but Couldn't summarize 
+Gayathri Venkataraghavan showed how to sound refreshing without moving away from tradition
+
+Tue, 19 Dec 2023 14:44:02 +0530
+### [BVFF 2023 | ‘Sangi-Gai’ movie review: A superb, arresting Arunachali fantasy drama](https://www.thehindu.com/entertainment/movies/bvff-2023-sangi-gai-movie-review-a-superb-arresting-arunachali-fantasy-drama/article67653474.ece)
+
+Article found but Couldn't summarize 
+Minor flaws aside, Nyago Ete’s ‘Sangi-Gai’ is a unique, enthralling fantasy drama that leaves you wishing to spend more time in its world
+
+Mon, 18 Dec 2023 17:29:14 +0530
+### [Carnatic vocalist Ashwath Narayanan displays a streak of individuality](https://www.thehindu.com/entertainment/music/carnatic-vocalist-ashwath-narayanan-displays-a-streak-of-individuality/article67649826.ece)
+
+Article found but Couldn't summarize 
+Ashwath Narayanan’s singing and approach during his concert at Bharatiya Vidya Bhavan showed his ability to arrive at a style of his own
+
+Mon, 18 Dec 2023 16:46:32 +0530
+### [‘The Delinquents’ movie review: An endearing rumination on chasing freedom](https://www.thehindu.com/entertainment/movies/the-delinquents-movie-review-an-endearing-rumination-on-chasing-freedom/article67650213.ece)
+
+Article found but Couldn't summarize 
+Filmmaker Rodrigo Moreno puts forth an endearing epic about the tricky negotiations we have to make with our expectations of freedom, and the reality of it
+
+Mon, 18 Dec 2023 13:39:34 +0530
+### [‘The Crown’ Season 6 Part 2 review: The reign of what was once a gorgeous show stumbles to a kitschy, melodramatic close](https://www.thehindu.com/entertainment/movies/the-crown-season-6-part-2-review/article67649803.ece)
+
+Article found but Couldn't summarize 
+After obsessing over Princess Diana for the last couple of seasons, shifting the focus to Prince William and Kate Middleton does the royal soap opera no favours
+
+Mon, 18 Dec 2023 13:02:43 +0530
+### [Srividhya Lakshminarayanan and Prithvi Harish concerts were a show promise](https://www.thehindu.com/entertainment/music/to-go-the-extra-mile/article67634162.ece)
+
+Article found but Couldn't summarize 
+With a little more work on their voices, Srividhya Lakshminarayanan and Prithvi Harish can grow in classicism and confidence
+
+Sat, 16 Dec 2023 21:16:55 +0530
+### [‘Chicken Run: Dawn of the Nugget’ movie review: A slightly undercooked sequel that still manages to charm](https://www.thehindu.com/entertainment/movies/chicken-run-dawn-of-the-nugget-movie-review-a-slightly-undercooked-sequel-that-still-manages-to-charm/article67645308.ece)
+
+Article found but Couldn't summarize 
+Despite being funny and carrying the essence of the original film, ‘Chicken Run: Dawn of the Nugget’ doesn’t break any boundaries like its predecessor
+
+Sat, 16 Dec 2023 12:00:08 +0530
+### [BVFF 2023 | ‘Kooki’ movie review: A heart-aching wail that refuses to be anything more](https://www.thehindu.com/entertainment/movies/bvff-2023-kooki-movie-review-a-heart-aching-wail-that-refuses-to-be-anything-more/article67643443.ece)
+
+Article found but Couldn't summarize 
+‘Kooki’ is bent on not taking steps beyond the questions it poses on the need for an alternate justice, but its refusal to find answers only leads you back to a hopeless reality
+
 Fri, 15 Dec 2023 18:09:27 +0530
 ### [‘Kannagi’ movie review: A middling emotional tale about four women](https://www.thehindu.com/entertainment/movies/kannagi-movie-review-a-middling-emotional-tale-about-four-women/article67641613.ece)
 

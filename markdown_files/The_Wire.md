@@ -1,3 +1,303 @@
+2023-12-22T20:23:50+05:30
+### [Oil, Tar Balls Removed After North Chennai Oil Spill, but Birds, Mangroves Affected: TN Govt to NGT](https://thewire.in/environment/oil-tar-balls-removed-after-north-chennai-oil-spill-but-birds-mangroves-affected-tn-govt-to-ngt)
+
+No Article text 
+The Chennai Petroleum Corporation Limited has agreed to pay over Rs 7 crore as compensation for fishermen, and this amount has already been disbursed to the authorities. However, fishers say the amount won't suffice for the losses they have incurred.
+
+2023-12-22T19:32:59+05:30
+### [Modi Govt's Priority: An MP's Act of Mimicry, Caste Politics, Not Parliament Security Breach](https://thewire.in/politics/modi-govts-priorities-an-mps-mimicry-not-146-suspensions)
+
+No Article text 
+To any observer, TMC MP Kalyan Banerjee’s act was in the spirit of a protest. However, the Union government spun it as an insult to the Jats.
+
+2023-12-22T19:30:12+05:30
+### [The Revenge Interview: Suhel Seth Takes the ‘Piss’ Out of Karan Thapar](https://thewire.in/video/the-revenge-interview-suhel-seth-takes-the-piss-out-of-karan-thapar)
+
+No Article text 
+As part of a new end-of-year tradition, it's an opportunity for a well-known and highly regarded individual, possessing a sense of wit and satire along with a flair for repartee, to interview Karan Thapar and turn the tables.
+
+2023-12-22T19:24:14+05:30
+### [Rising Food Prices Push November Retail Inflation to 7.37% for Farm Workers, 7% for Rural Labourers](https://thewire.in/economy/rising-food-prices-push-november-retail-inflation-to-7-37-for-farm-workers-7-for-rural-labourers)
+
+No Article text 
+The figures were higher than October's rates of 7.08% and 6.92% for farm workers and rural labourers, respectively.
+
+2023-12-22T19:00:48+05:30
+### ['Don't Argue Cases for Terror Accused': Why Gujarat Minister's Advice to Law Students Is Wrong](https://thewire.in/law/dont-argue-cases-for-terror-accused-why-gujarat-ministers-advice-to-law-students-is-wrong)
+
+No Article text 
+Implicit in such a view is that all those charged with terrorism are 'terrorists', which is fundamentally at odds with the criminal law. Rushikesh Patel's remarks are indicative of the ruling dispensation's mindset, as there has been a surge in terrorism cases.
+
+2023-12-22T18:33:43+05:30
+### [We Were Created in Our Creator's Image – Mimicry Is Our Manifest Destiny](https://thewire.in/culture/mimicry-jagdeep-dhankhar-kalyan-banerjee)
+
+No Article text 
+Keeping this grand act of self mimicry in mind, Vice-President Jagdeep Dhankhar should applaud MP Kalyan Banerjee's act of mimicking him.
+
+2023-12-22T18:30:11+05:30
+### [‘I’d Cut My Saree Into Pieces to Cover My Child’: How Women Survive in Assam’s Detention Centres](https://thewire.in/rights/id-cut-my-saree-into-pieces-to-cover-my-child-how-women-survive-in-assams-detention-centres)
+
+No Article text 
+Most women in the detention centres are middle-aged and mothers. However, the gender-insensitive environment at detention centres do not take into account the needs of the mothers and their children who might accompany them.
+
+2023-12-22T18:00:31+05:30
+### [Bihar Caste Survey: The Who’s Who in the Data | Lalbegi](https://thewire.in/caste/bihar-caste-survey-the-whos-who-in-the-data-lalbegi)
+
+No Article text 
+There are many names for them in Hinduism and Islam, like Hela, Dom, Halalkhor, Bhangi, Chuhra, Bansphod, Naamshudra, Matang, Mehtar, Mahar, Supach, Beda, Boya, Hunter, Mazhabi and Koli.
+
+2023-12-22T17:30:04+05:30
+### [It May Be a Mistake to Dismiss China as Copy-Paste](https://thewire.in/tech/it-may-be-a-mistake-to-dismiss-china-as-copy-paste)
+
+No Article text 
+Must wake up and smell the coffee on what is going on in the middle kingdom after the chip war.
+
+2023-12-22T17:00:18+05:30
+### [Netanyahu’s Supremacist War](https://thewire.in/world/netanyahus-supremacist-war)
+
+No Article text 
+Despite an overwhelming military advantage, Israel is far from meeting its own stated goals of the war in the Gaza Strip. This may be because Netanyahu is pursuing a different endgame.
+
+2023-12-22T16:30:41+05:30
+### [Assam's Amendment to Police Act Has Put Constraints on Holding Misconduct Accountable](https://thewire.in/rights/assam-amendment-police-act-constrains-serious-misconduct)
+
+No Article text 
+A study by the Commonwealth Human Rights Initiative has underlined that though Assam is among a few states to have a functional State Police Accountability Commission, the amendments to the Act severely compromised its independence.
+
+2023-12-22T16:15:18+05:30
+### [EC Challenges Bombay HC Order to Hold Pune By-Polls, Petitioner Files Caveat in SC](https://thewire.in/law/ec-challenges-bombay-hc-order-to-hold-pune-by-polls-petitioner-files-caveat-in-sc)
+
+No Article text 
+The Election Commission had said it could not hold by-elections in the Pune seat which has been vacant since late March as it is busy with "other elections in the country."
+
+2023-12-22T16:00:25+05:30
+### [The Biden Administration's Delay of Gun Shipments to Israel Police Is Simply Too Little](https://thewire.in/world/biden-guns-shipment-delay-israel)
+
+No Article text 
+This decision is expected to have zero effect on Israel.
+
+2023-12-22T15:35:01+05:30
+### [Protest at the Parliament Should Be Seen as Fearlessness, Not Terror](https://thewire.in/rights/protest-at-the-parliament-should-be-seen-as-fearlessness-not-terror)
+
+No Article text 
+Think of the youth's profound disappointment when they realised that the people they had elected to parliament were supremely indifferent to the needs of their own people.
+
+2023-12-22T15:30:36+05:30
+### [CISF Asked to Take Over Parliament Security After Breach](https://thewire.in/government/cisf-asked-to-take-over-parliament-security-after-breach)
+
+No Article text 
+The CISF will collaborate with Parliament Security Services to regulate access to both the old and new parliament complex. Currently, visitor frisking is managed by Delhi Police personnel.
+
+2023-12-22T15:00:24+05:30
+### [History Repeats, Twists and Turns: Democracy Is Again in the Doghouse](https://thewire.in/rights/history-repeats-twists-and-turns-democracy-doghouse)
+
+No Article text 
+Students of history would know that history (and democracy) has been conceived of variously through intellectual time. The cartwheel of democracy may yet spin, toss and change course.
+
+2023-12-22T14:24:24+05:30
+### [Odisha Congress Leaders Hopeful of Revival, but Is It Realistic?](https://thewire.in/politics/odish-congress-hope-revival-bjd-bjp)
+
+No Article text 
+Things are not going to be easy for the party if its record in the state is anything to go by. Its vote share and seat tallies have consistently declined since 2009.
+
+2023-12-22T13:30:13+05:30
+### [Russia Remained India's Biggest Source of Crude Oil Imports in October](https://thewire.in/trade/russia-remained-indias-biggest-source-of-crude-oil-imports-in-october)
+
+No Article text 
+The value of Russia's supply to India in the month stood at $3.78 billion, which was a 44% year-on-year increase from October 2022.
+
+2023-12-22T12:53:28+05:30
+### [RSS Flip-Flops on Caste Census, Now Says 'Not Against' it](https://thewire.in/politics/rss-flip-flops-on-caste-census-now-says-not-against-it)
+
+No Article text 
+Earlier, both the prime minister and a senior RSS leader had publicly opposed the idea of conducting a caste census.
+
+2023-12-22T12:07:17+05:30
+### [Three New Laws Give the Govt Extraordinary Powers Over Journalism, Entertainment and Internet](https://thewire.in/government/telecom-broadcasting-data-protection-bill-digipub)
+
+No Article text 
+These legislations come at a time when journalists and filmmakers face greater pressure than ever to conform to government narratives, said experts at a Digipub conference.
+
+2023-12-22T11:59:20+05:30
+### [Parliamentary Panel Says Nodal Agency Needed to Aid Resettlement Of Released Agniveers](https://thewire.in/government/parliamentary-panel-nodal-agency-resettlement-released-agniveers)
+
+No Article text 
+The released Agniveers will have a much younger age profile compared to the ex-servicemen whose affairs are looked after by the Directorate General Resettlement. A focused and special approach is needed, the committee said.
+
+2023-12-22T11:30:18+05:30
+### [With Cleverly Drafted Telecom Bill, Government Tightens Grip on Digital India](https://thewire.in/government/cleverly-drafted-telecom-bill-government-tightens-grip-digital-india)
+
+No Article text 
+The Bill is one of several laws that the Union government has passed or proposed to increase state power, decrease accountability and transparency and threaten ordinary citizens.
+
+2023-12-22T11:15:25+05:30
+### [After Biden Turns Down Invite, France's Macron Asked To Be Republic Day Chief Guest](https://thewire.in/diplomacy/india-republic-day-2024-chief-guest-biden-macron)
+
+No Article text 
+When Macron arrives in Delhi in January, it will be the sixth time that France will be the Republic Day chief guest, the most for any country.
+
+2023-12-22T11:00:35+05:30
+### [Lalu, Tejashwi Summoned by ED as Investigative Agencies Turn Up the Heat on Opposition Leaders](https://thewire.in/politics/lalu-tejashwi-summoned-by-ed-in-land-for-jobs-case)
+
+No Article text 
+What has apparently rendered the INDIA strategists clueless is the fact that the BJP has been getting away with all its machinations, at least in the Hindi heartland.
+
+2023-12-22T10:48:45+05:30
+### [Don't Know Who Might Need Whom in Future: Mayawati Issues Warning to Those Dismissing Her](https://thewire.in/uncategorised/dont-know-who-might-need-whom-in-future-mayawati-issues-warning-to-those-dismissing-her)
+
+No Article text 
+Mayawati has so far maintained an equidistant position from both the BJP-led National Democratic Alliance and the INDIA bloc, which includes the Congress and the SP, when it comes to contesting the 2024 Lok Sabha election.
+
+2023-12-22T09:30:54+05:30
+### [Five Army Soldiers Killed in Anti-Militancy Operation in J&K’s Poonch](https://thewire.in/security/three-army-soldiers-killed-in-anti-militancy-operation-in-jks-poonch)
+
+No Article text 
+The attack took place on a road that connects Dera-Ki-Gali and Buffliaz areas in the Surankote tehsil of Poonch, which has witnessed a spike in militant activities in recent years.
+
+2023-12-22T08:46:28+05:30
+### [‘Watershed Moment,’ Says Modi as Rajya Sabha Passes Three Criminal Bills in Absence of Opposition](https://thewire.in/government/watershed-moment-says-modi-as-rajya-sabha-passes-three-criminal-bills-in-absence-of-opposition)
+
+No Article text 
+The Bharatiya Nyaya Sanhita Bill to replace the Indian Penal Code, 1860, the Bharatiya Sakshya Adhiniyam Bill to replace the Indian Evidence Act, 1872 and the Bharatiya Nagarik Suraksha Sanhita Bill to replace the Criminal Procedure Code, 1973 were passed by the Lok Sabha on Wednesday.
+
+2023-12-21T23:13:58+05:30
+### [After Pakistan Army Chief’s Visit to the US, India Says It Hoped Others Will Treat Counter-Terrorism Seriously](https://thewire.in/world/after-pakistan-army-chiefs-visit-to-the-us-india-says-it-hoped-others-will-treat-counter-terrorism-seriously)
+
+No Article text 
+Last week, Pakistan Army Chief Asim Munir embarked on his first-ever official visit to the US, engaging in discussions with senior officials, including Secretary of State Antony Blinken and Secretary of Defence General Lloyd Austin.
+
+2023-12-21T23:00:40+05:30
+### [Indian Embassy Granted Consular Access to Nikhil Gupta Three Times: MEA](https://thewire.in/diplomacy/indian-embassy-granted-consular-access-to-nikhil-gupta-three-times-mea)
+
+No Article text 
+'An Indian national is currently in the custody of the Czech authorities pending a request for extradition to the US. We have received consular access at least on three occasions. We are extending necessary consular assistance as required,' said MEA spokesperson Arindam Bagchi.
+
+2023-12-21T22:45:20+05:30
+### [Meta Censoring Palestinian Voices on Social Media: Human Rights Watch](https://thewire.in/rights/meta-censoring-palestinian-voices-on-social-media-human-rights-watch)
+
+No Article text 
+Human Rights Watch in a report has identified “six key patterns of censorship, each recurring in at least 100 instances”.
+
+2023-12-21T22:22:38+05:30
+### [Congress Working Committee Condemns Suspension of MPs and Union Govt’s Lack of Accountability for Parliament Security](https://thewire.in/politics/congress-working-committee-condemns-suspension-of-mps-and-union-govts-lack-of-accountability-for-parliament-security)
+
+No Article text 
+The CWC focussed on economic issues and social polarisation and said it is primed to take on the challenge of the 2024 Lok Sabha polls.
+
+2023-12-21T21:46:45+05:30
+### [‘Dunki’ is Shockingly Inept and Arguably Rajkumar Hirani’s Worst Film](https://thewire.in/film/dunki-is-shockingly-inept-and-arguably-rajkumar-hiranis-worst-film)
+
+No Article text 
+The premise had possibilities, but despite a big star like Shah Rukh Khan, it remains simplistic and occasionally even crude.
+
+2023-12-21T21:17:03+05:30
+### [INDIA Alliance MPs March in Protest Against Suspensions in Parliament](https://thewire.in/rights/india-alliance-mps-march-in-protest-against-suspensions-in-parliament)
+
+No Article text 
+The protest took place as another three members of the opposition were suspended in the Lok Sabha, taking the total number of suspensions in the Lok Sabha to 100.
+
+2023-12-21T20:00:45+05:30
+### [UN Calls for Probe into Alleged Killing of 11 Unarmed Palestinians by Israeli Army](https://thewire.in/rights/un-calls-for-probe-into-alleged-killing-of-11-unarmed-palestinians-by-israeli-army)
+
+No Article text 
+While welcoming the UN's call for a probe into the 'unlawful killings', an analyst, however, informed 'Al Jazeera' that none of the entities that could investigate alleged Israeli crimes against Palestinians is currently allowed into the Gaza Strip.
+
+2023-12-21T19:48:58+05:30
+### [Controversial Telecom Bill Passed by Both Houses in Absence of Suspended Opposition MPs](https://thewire.in/tech/controversial-telecom-bill-becomes-act-in-absence-of-suspended-opposition-mps)
+
+No Article text 
+The newly-passed Bill has raised concerns about potential infringement of privacy and granting the government sweeping control over all private communication.
+
+2023-12-21T19:45:20+05:30
+### [Lok Sabha Passes Bill to Appoint Election Commissioners In Absence of Opposition](https://thewire.in/government/lok-sabha-passes-election-commissioners-bill)
+
+No Article text 
+The debate that lasted about an hour and 40 minutes saw the participation of 12 MPs, mostly from the BJP and other friendly parties. Only AIMIM MP Asaduddin Owaisi opposed the Bill.
+
+2023-12-21T19:30:56+05:30
+### [INDIA Will Reach Out to Voters in One Voice: Shashi Tharoor](https://thewire.in/video/india-will-reach-out-to-voters-in-one-voice-shashi-tharoor)
+
+No Article text 
+With regard to INDIA bloc’s Electronic Voting Machine resolution, the Congress MP emphasised on the importance of providing voters with VVPAT slips.
+
+2023-12-21T19:00:17+05:30
+### [Sahitya Akademi Awards 2023: Rajasekaran, E.V. Ramakrishnan, Patanjali Sastry Among Recipients](https://thewire.in/books/sahitya-akademi-awards-2023-rajasekaran-e-v-ramakrishnan-patanjali-sastry-among-recipients)
+
+No Article text 
+This year, the Sahitya Akademi Awards recognised nine poetry books, six novels, five short story collections, three essays, and one literary study for their outstanding contributions.
+
+2023-12-21T18:30:32+05:30
+### [How India Made Virtue Out of Necessity by Exporting Labour](https://thewire.in/economy/how-india-made-virtue-out-of-necessity-by-exporting-labour)
+
+No Article text 
+India, which has once again topped the global charts with respect to inward Dollar remittances, has been increasingly relying on foreign remittances from overseas Indians to manage its balance of payments.
+
+2023-12-21T18:15:39+05:30
+### [Watch | JN.1 Not a Matter of Concern but a Matter of Caution: Shahid Jameel on COVID Cases](https://thewire.in/video/watch-jn-1-covid-19-shahid-jameel-karan-thapar)
+
+No Article text 
+The virologist speaks to Karan Thapar about vulnerable populations, booster doses and precautions as COVID-19 cases rise.
+
+2023-12-21T18:00:59+05:30
+### [Are Aging Politicians up to the Task of Solving Global Issues?](https://thewire.in/politics/are-aging-politicians-up-to-the-task-of-solving-global-issues)
+
+No Article text 
+Our world is being ruined by malevolent old politicians who preach high principle but act dishonourably.
+
+2023-12-21T17:35:22+05:30
+### [‘He Rang Me to Apologise’: Karan Thapar On Why He Holds L.K. Advani in High Regard](https://thewire.in/politics/karan-thapar-suhel-seth-lk-advani-bjp-politics)
+
+No Article text 
+Suhel Seth asks Karan Thapar why he has "issues" with Narendra Modi but none with Advani.
+
+2023-12-21T17:05:15+05:30
+### [Football: EU Court Rules UEFA and FIFA Bans on European Super League ‘Unlawful'](https://thewire.in/sport/football-eu-court-uefa-fifa-ban-european-super-league-unlawful)
+
+No Article text 
+In a highly anticipated decision for football on the continent, the European Court of Justice has said UEFA and FIFA are guilty of abusing their dominant position. The court did, however, add that the ruling did not mean the Super League would be approved.
+
+2023-12-21T17:00:07+05:30
+### [First, the River Took Their Land. Then Came the Micro-Finance Companies.](https://thewire.in/rights/loan-debt-trap-micro-finance-companies)
+
+No Article text 
+Most residents of a village in Uttar Pradesh live in mortal fear of the inability to pay back loans they have taken from micro-finance companies whose agents are not above threats and coercion.
+
+2023-12-21T16:35:16+05:30
+### [Is the European Union's AI Act Attempting a Magna Carta for the Digital Age?](https://thewire.in/tech/european-union-ai-act-magna-carta-digital-age)
+
+No Article text 
+A look at the draft Act as an important cultural text of our time for what it seeks to do, and how it fits in with a larger emphasis on rights and risks to those rights.
+
+2023-12-21T15:59:28+05:30
+### [Sakshi Malik Quits Wrestling as Brij Bhushan Loyalist Elected as WFI Chief](https://thewire.in/sport/brij-bhushan-singhs-loyalist-elected-as-the-chief-of-wrestling-federation-of-india)
+
+No Article text 
+The Sanjay Singh panel, backed by the former WFI chief, defeated the panel led by Commonwealth Games gold medallist Anita Sheoran. Sheoran's panel was supported by the wrestlers who accused Brij Bhushan Singh of sexual harassment.
+
+2023-12-21T15:00:33+05:30
+### [146: Here Are All the MPs Suspended From Parliament This Winter Session](https://thewire.in/government/141-here-are-all-the-mps-suspended-from-parliament-this-winter-session)
+
+No Article text 
+Opposition members have accused the Modi government of “delegitimising democracy” and “bulldozing” the opposition with the suspensions.
+
+2023-12-21T14:14:24+05:30
+### [Drug Regulator Says Anti-Cold Drug Mix Not to Be Used For Children Below Four](https://thewire.in/health/cdsco-says-anti-cold-fdc-not-to-be-used-in-children-below-4)
+
+No Article text 
+Cough syrups manufactured in India have come under scrutiny after the deaths of children both at home and abroad were linked to their consumption.
+
+2023-12-21T14:10:06+05:30
+### [The Vice-President Was a Jat During the Farmers' and Wrestlers' Protests Too...](https://thewire.in/politics/jagdeep-dhankhar-jat-farmer-vice-president-kalyan-banerjee)
+
+No Article text 
+...and yet he had remained silent then. His invocation of the community is restricted to only instances that conveniently suit the ruling party.
+
+2023-12-21T13:59:43+05:30
+### [How Donald Trump Can Run for US President Despite Legal Troubles](https://thewire.in/world/how-donald-trump-can-run-for-us-president-despite-legal-troubles)
+
+No Article text 
+Trump will appeal a ruling declaring him ineligible for primary ballots in Colorado, and his chances are good with the conservative-dominated US Supreme Court. But he faces several simultaneous legal battles.
+
 2023-12-16T14:44:04+05:30
 ### [Inform Panel of Steps To Secure Places of Worship, Supreme Court Tells Manipur](https://thewire.in/law/inform-panel-of-steps-to-secure-places-of-worship-supreme-court-tells-manipur)
 

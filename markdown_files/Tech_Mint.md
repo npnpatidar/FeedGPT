@@ -1,3 +1,209 @@
+Fri, 22 Dec 2023 19:16:27 +0530
+### [Top 10 65-inch Android TVs vs bigger ones: Our best selections](https://www.livemint.com/technology/gadgets/top-10-65-inch-android-tvs-vs-bigger-ones-our-best-selections-11703234878984.html)
+
+Article found but Couldn't summarize 
+In this complete guide, we will check out the best 43-inch Ultra HD TVs as well as a few bigger models with fantastic sound, excellent features, and awesome picture quality. Have extra fun at home with films, games, and other adventures!
+
+Fri, 22 Dec 2023 18:39:53 +0530
+### [Christmas gifting guide: Choose from 10 high-quality electric kettles for family](https://www.livemint.com/technology/gadgets/christmas-gifting-guide-choose-from-10-high-quality-electric-kettles-for-family-11703235314908.html)
+
+Article found but Couldn't summarize 
+Christmas gifting guide: Present the perfect combination of elegance and utility with the best electric kettles available online. Embrace the winter chills with hot water at all times.
+
+Fri, 22 Dec 2023 18:38:31 +0530
+### [Christmas sale: 10 best hand mixers for baking delicacies up to 60% off](https://www.livemint.com/technology/gadgets/christmas-sale-10-best-hand-mixers-for-baking-delicacies-up-to-60-off-11703228227744.html)
+
+Article found but Couldn't summarize 
+Christmas sale is the optimal time to get your hands on the best hand mixers online. We have curated a list of the 10 best hand mixers you can bring home to make the delicious Christmas cookies and cakes.
+
+Fri, 22 Dec 2023 18:13:58 +0530
+### [Best room heaters priced between  ₹1,000 -  ₹2,000: Our top 10 picks](https://www.livemint.com/technology/gadgets/best-room-heaters-priced-between-rs-1-000-rs-2-000-our-top-10-picks-11703231128377.html)
+
+Article found but Couldn't summarize 
+Find the 10 best room heaters that cost between Rs. 1000 and Rs. 2000, providing comfortable warmth and simple features in our comprehensive guide. Ideal for a cosy wintertime house!
+
+Fri, 22 Dec 2023 18:01:57 +0530
+### [Top 43-inch Ultra HD TV vs. other models: Here are our best picks from OnePlus, Samsung, more](https://www.livemint.com/technology/gadgets/top-43-inch-ultra-hd-tv-vs-other-models-here-are-our-best-picks-from-oneplus-samsung-more-11703226102421.html)
+
+Article found but Couldn't summarize 
+In this comprehensive guide, we will explore the best 43-inch Ultra HD TVs as well as other models with high-quality sound, advanced functions, and unmatched Ultra HD experiences. Enhance your home entertainment with games, films, and more.
+
+Fri, 22 Dec 2023 16:56:17 +0530
+### [10 best oven toaster grills priced between Rs. 3000 and Rs. 5000](https://www.livemint.com/technology/gadgets/10-best-oven-toaster-grills-priced-between-rs-3000-and-rs-5000-11703238699555.html)
+
+Article found but Couldn't summarize 
+10 best oven toaster grill: Find the top 10 oven toaster grills in the  ₹3000–5000 range in our comprehensive guide. Make excellent meals with ease and enhance your cooking experience at a reasonable price.
+
+Fri, 22 Dec 2023 16:41:17 +0530
+### [Oppo A59 5G launched in India: Check price, specifications and features](https://www.livemint.com/technology/oppo-a59-5g-launched-in-india-check-price-specifications-and-features-11703242704099.html)
+
+Article found but Couldn't summarize 
+The Oppo A59 5G is priced at  ₹14,999 in India and can be purchased from Oppo's official store, Amazon, Flipkart and authorised retail stores. Customers can avail cashback of up to  ₹1,500 and no-cost EMI for up to six months from select banks.
+
+Fri, 22 Dec 2023 13:04:20 +0530
+### [Poco M6 5G with Dimensity 6100+ SoC launched in India. Check price, specs, launch offers and more](https://www.livemint.com/technology/gadgets/poco-m6-5g-with-dimesity-6100-soc-launched-in-india-check-price-specs-launch-offers-and-more-11703228673992.html)
+
+Article found but Couldn't summarize 
+Poco M6 5G is the latest addition to the budget 5G smartphone segment, offering affordability and competitive specifications. The Poco M6 is launched at  ₹10,499 for the 4GB RAM/128GB storage variant,  ₹11,499 for the 6GB RAM/128GB storage variant and  ₹13,499 for the 8GB RAM/256 storage variant.
+
+Fri, 22 Dec 2023 12:25:57 +0530
+### [Android could soon get iOS-like battery health indicator. Here's how it will work](https://www.livemint.com/technology/tech-news/android-could-soon-get-ios-like-battery-health-indicator-heres-how-it-will-work-11703224542621.html)
+
+As GPT-3.5, I can provide a summary of the article you shared. According to the Android Authority report, Google introduced a new "Battery Information" page in Settings with the Pixel Feature Drop for December 2023. However, this page currently only displays the date of manufacture and the battery cycle count, and does not reflect the health of the battery. The report suggests that Google may add more battery health-related statistics with the upcoming Android 14 QPR2 Beta 2 update. This update is expected to include a new 'Battery Health' page that will show information such as the estimated percentage of charge the battery can currently hold compared to when it was new. Additionally, the Settings app may start providing users with tips when their battery capacity is getting degraded. Google is also working on tracking more battery-related information, such as past battery status and serial number. It is possible that Android may also indicate in the operating system whether the original battery has been replaced or not.
+
+Fri, 22 Dec 2023 12:02:55 +0530
+### [10 best 75-inch smart TV trends: Ultimate watching experience](https://www.livemint.com/technology/gadgets/10-best-75-inch-smart-tv-trends-ultimate-watching-experience-11703138048653.html)
+
+Article found but Couldn't summarize 
+10 best 75-inch smart TV trends: Dive into the world of 75-inch smart TVs, where the latest trends redefine your viewing. These large smart TVs, epitomizing the ultimate TV experience, blend cutting-edge technology with sleek design.
+
+Fri, 22 Dec 2023 12:02:05 +0530
+### [10 best Fire-boltt smartwatches for women to check out](https://www.livemint.com/technology/gadgets/10-best-fire-boltt-smartwatches-for-women-to-check-out-11703143552306.html)
+
+Article found but Couldn't summarize 
+10 best Fire-boltt smartwatches: This curated list presents the top models that every fashion-forward woman should consider. From elegant designs to powerful features, these Fire-Boltt smartwatches blend style and technology perfectly.
+
+Fri, 22 Dec 2023 12:01:22 +0530
+### [9 best TCL QLED TV models: Standout selections](https://www.livemint.com/technology/9-best-tcl-qled-tv-models-standout-selections-11703152104635.html)
+
+Article found but Couldn't summarize 
+9 best TCL QLED TV models: Explore the exclusive TCL QLED TV models featuring the latest technology and exceptional visual performance. This curated list showcases the best selections, highlighting their standout features, advanced picture quality and immersive viewing experience.
+
+Fri, 22 Dec 2023 12:00:44 +0530
+### [10 best high-end watches for men: Luxury models for your collection](https://www.livemint.com/technology/gadgets/10-best-high-end-watches-for-men-luxury-models-for-your-collection-11703147563485.html)
+
+Article found but Couldn't summarize 
+10 best high-end watches for men: Find a concise list of the top high-end watches for men from luxury collections. We will cover the features, styles, and brands of these watches and will include links to where you can purchase these watches online.
+
+Fri, 22 Dec 2023 11:47:34 +0530
+### [Top 7 Christmas gift ideas: Deals on iPhone 15, Samsung Galaxy S23 FE 5G and other smartphones](https://www.livemint.com/technology/gadgets/top-7-christmas-gift-ideas-deals-on-iphone-15-samsung-galaxy-s23-fe-5g-and-other-smartphones-11703225502682.html)
+
+Article found but Couldn't summarize 
+Discover the ideal tech gifts on Amazon for Christmas in India. Top picks include the realme narzo 60X 5G, iQOO Z7s 5G, Lava Agni 2 5G, OnePlus 11R 5G, Samsung Galaxy S23 FE 5G, and Apple iPhone 15, offering innovative features and thoughtful design.
+
+Fri, 22 Dec 2023 11:16:23 +0530
+### [Moto G34 5G with 50MP camera launched. Check price, specifications and more](https://www.livemint.com/technology/gadgets/moto-g34-5g-with-50mp-camera-launched-check-price-specifications-and-more-11703221084197.html)
+
+Article found but Couldn't summarize 
+Motorola has launched its budget 5G smartphone, Moto G54 5G in China, with features like an 18W fast charger, a 50MP back camera, and a 120Hz OLED panel.
+
+Fri, 22 Dec 2023 11:03:27 +0530
+### [Garena Free Fire Redeem Codes for December 22: Details on weekly agenda](https://www.livemint.com/technology/garena-free-fire-redeem-codes-for-december-22-details-on-weekly-agenda-11703222790777.html)
+
+Article found but Couldn't summarize 
+Garena Free Fire players can redeem codes to obtain exclusive rewards by following the steps on the official Free Fire Redemption website.
+
+Fri, 22 Dec 2023 09:03:52 +0530
+### [Apple Watch ban: Apple cannot repair out-of-warranty watches in US. Here's why](https://www.livemint.com/technology/tech-news/apple-watch-ban-apple-cannot-repair-out-of-warranty-watches-in-us-heres-why-11703211506699.html)
+
+Article found but Couldn't summarize 
+Apple will not repair out-of-warranty Apple Watch models from Series 6 onwards, according to a memo to its customer services team. The company will still assist with software-related issues.
+
+Fri, 22 Dec 2023 07:44:47 +0530
+### [OnePlus Ace 3 aka OnePlus 12R specifications leaked online ahead of potential launch. Here's what you should know](https://www.livemint.com/technology/tech-news/oneplus-ace-3-aka-oneplus-12r-specifications-leaked-online-ahead-of-potential-launch-heres-what-you-should-know-11703206927037.html)
+
+The OnePlus Ace 3 is expected to debut in China on January 4, 2023, according to a post by a tipster on Digital Chat Station. It will feature a metal frame with a superior texture and be powered by the Qualcomm Snapdragon 8 Gen 2 SoC. The smartphone is rumored to have a 6.78-inch AMOLED display with a 120Hz adaptive refresh rate and LTPO technology. It may also come with an IP54 certification and a circular camera island design on the back. The OnePlus Ace 3 is likely to have a 50MP primary camera with optical image stabilization, an 8MP ultra-wide-angle sensor, and a 16MP front-facing camera. It is expected to run on Oxygen OS 14 based on Android 14 in India and Color OS 14 in China. The smartphone may have a glass body with a metal mid-frame and a 5,500mAh battery that supports fast charging with a 100W fast charger.
+
+Fri, 22 Dec 2023 07:06:03 +0530
+### [Amazon Prime Lite subscription gets a significant price cut. Check new price and benefits here](https://www.livemint.com/technology/tech-news/amazon-prime-lite-subscription-gets-a-significant-price-cut-check-new-price-and-benefits-11703207078313.html)
+
+As GPT-3.5, I can summarize the article for you. The Amazon Prime Lite membership in India has been reduced in price from ₹999 to ₹799 per year. This membership offers benefits such as free one-day, two-day, scheduled, and same-day delivery from Amazon, with no minimum order value required for free delivery. Prime Lite members also have access to cashback offers and early access to Lightning Deals and Deals of the Day. They can stream unlimited videos, movies, and TV shows, but with a limit of two devices in HD quality and advertisements on Prime Video. However, Prime Lite members do not have access to Prime Music, Prime Reading, and Prime Gaming services. The membership also includes a higher delivery fee for morning delivery compared to regular Amazon Prime users. In summary, Amazon Prime Lite offers many of the same benefits as regular Prime membership, but with ad-supported streaming and without access to certain services.
+
+Thu, 21 Dec 2023 20:16:04 +0530
+### [Best year end deals: 8 OTG ovens to bake perfect cakes and cookies](https://www.livemint.com/technology/gadgets/best-year-end-deals-8-otg-ovens-to-bake-perfect-cakes-and-cookies-11703162939086.html)
+
+Article found but Couldn't summarize 
+Best year end deals: Get ready to bake the ultimate cookies and cakes this holiday season with the best OTG ovens. Bake to your heart's content with our top 8 picks and enjoy the holiday season to the fullest.
+
+Thu, 21 Dec 2023 18:18:08 +0530
+### [Christmas sale: 10 best stand mixers for making delicious Christmas cakes](https://www.livemint.com/technology/gadgets/christmas-sale-10-best-stand-mixers-for-making-delicious-christmas-cakes-11703155222346.html)
+
+Article found but Couldn't summarize 
+Christmas sale on Amazon is the best time to get a stand mixer. Let loose the baker in you, and bake delicious Christmas themed cakes and cookies this holiday season. Check out the top stand mixer options and get into the festive mood.
+
+Thu, 21 Dec 2023 18:08:04 +0530
+### [10 best Samsung 7kg front load washing machine vs competitors: Buying guide](https://www.livemint.com/technology/gadgets/10-best-samsung-7kg-front-load-washing-machine-vs-competitors-buying-guide-11703149930373.html)
+
+Article found but Couldn't summarize 
+10 best Samsung 7kg front load washing machine vs competitors: Explore the laundry revolution with our comprehensive guide comparing the Samsung 7kg front load washing machine against its competitors. Dive into an in-depth analysis of features, performance, and innovation.
+
+Thu, 21 Dec 2023 16:47:06 +0530
+### [Christmas gifting guide: 10 best soundbars to gift your audiophile friends](https://www.livemint.com/technology/gadgets/christmas-gifting-guide-10-best-soundbars-to-gift-your-audiophile-friends-11703137836409.html)
+
+Article found but Couldn't summarize 
+Christmas gifting guide: Enjoy Christmas movies and music with family on the best soundbars that guarantee immersive and clear sound. Check out the top affordable picks from various brands and make your celebrations different this Christmas.
+
+Thu, 21 Dec 2023 15:17:10 +0530
+### [Lava Storm 5G launched in India. Check price, specs, introductory offers and more](https://www.livemint.com/technology/gadgets/lava-storm-5g-launched-in-india-check-price-specs-introductory-offers-and-more-11703149844587.html)
+
+Article found but Couldn't summarize 
+Lava has launched the budget 5G smartphone, Lava Storm 5G, featuring the MediaTek Dimensity 6080 chipset, aiming to compete in the sub-15k price segment.
+
+Thu, 21 Dec 2023 11:41:12 +0530
+### [X (formerly Twitter) down for thousands of users globally. Details here](https://www.livemint.com/technology/tech-news/x-formerly-twitter-down-for-thousands-of-users-details-here-elon-musk-11703138908807.html)
+
+Article found but Couldn't summarize 
+Elon Musk led social media platform X was down for thousands of users globally. Downdetector data showed that over 70,000 users globally were affected by the issue.
+
+Thu, 21 Dec 2023 10:50:46 +0530
+### [Best Christmas gift ideas: Extend modernity with top smartphones under  ₹15,000](https://www.livemint.com/technology/gadgets/best-christmas-gift-ideas-extend-modernity-with-top-smartphones-under-rs-15000-11703071089631.html)
+
+Article found but Couldn't summarize 
+Best Christmas gift ideas: Give the gift of modern and innovative technology with the best smartphones under  ₹15,000. Bring out the festivities with budget smartphones loaded with features and functionality.
+
+Thu, 21 Dec 2023 10:46:54 +0530
+### [BGMI now offers M416 and AKM Glacier skins with Frozen Kindom update. Here's how you can get them](https://www.livemint.com/technology/apps/bgmi-now-offers-m416-and-akm-glacier-skins-with-frozen-kindom-update-heres-how-you-can-get-them-11703133135578.html)
+
+As GPT-3.5, I can provide you with a summary of the article you shared. The article discusses the "Frozen Kingdom" update in Battlegrounds Mobile India (BGMI). This update introduces new abilities, in-game rewards, and special crates for players. One of the highlights is the return of M416 and AKM Glacier skins, which can be obtained through a winter crate. To open the crate, players can spend 60 unknown cash (UC) for a single opening or 540 UC for ten openings. However, acquiring the desired skins may require multiple attempts. The winter crate also includes other items such as the Frigid Beast Set and Cover, Iceberg Arcade QBZ Skin, Bony Totem Backpack, Mini Cyclops Ornament, Mega Yeti Parachute, and more. It's important to note that these Frozen Kingdom themed rewards are only available from December 16 to January 25. To get the winter-themed rewards in BGMI, players need to open the game, navigate to the upper right corner of the screen, click on "Crates," and choose the reward they want by opening the winter crate. Additionally, users are guaranteed an AKM Glacier skin on their 150th Winter crate opening.
+
+Thu, 21 Dec 2023 09:42:52 +0530
+### [Apple Vision Pro headset likely to launch in February 2024. Here's what you should know](https://www.livemint.com/technology/gadgets/apple-vision-pro-headset-likely-to-launch-in-february-2024-heres-what-you-should-know-11703128792790.html)
+
+Article found but Couldn't summarize 
+Apple's upcoming Vision Pro launch could challenge Meta's position in the headset market. The $3500 headset may require customized components and proper fitting to display content correctly.
+
+Wed, 20 Dec 2023 22:54:23 +0530
+### [Millions of Americans to get cash from Google: Here's all you need to know](https://www.livemint.com/technology/tech-news/app-store-settlement-google-to-pay-700-million-to-us-customers-as-antitrust-payout-11703091383166.html)
+
+Article found but Couldn't summarize 
+Google has agreed to pay $700 million and several other concessions to nearly 102 million customers in the US as part of an antitrust payout over fees the tech giant charged through its app store
+
+Wed, 20 Dec 2023 18:53:38 +0530
+### [10 Best 65-inch QLED TVs with premium features and immersive experience: Top picks from OnePlus, Nu and more](https://www.livemint.com/technology/gadgets/10-best-65-inch-qled-tvs-with-premium-features-and-immersive-experience-top-picks-from-oneplus-nu-and-more-11703063092554.html)
+
+Article found but Couldn't summarize 
+In our latest blog, we've carefully curated the top 10 choices for the finest 65-inch QLED TV. Featuring the best in class for quality and technology, these QLED TV picks are sure to enhance your viewing experience.
+
+Wed, 20 Dec 2023 18:42:48 +0530
+### [10 Top-rated 55-inch QLED TVs with advanced technology: From Samsung, TCL, and more](https://www.livemint.com/technology/gadgets/10-top-rated-55-inch-qled-tvs-with-advanced-technology-from-samsung-tcl-and-more-11703059112074.html)
+
+Article found but Couldn't summarize 
+Experience unparalleled picture quality with our expert selection of the best 10 QLED TVs of 55-inches. Our QLED TV guide highlights the best models, blending advanced technology and premium features to elevate your viewing experience.
+
+Wed, 20 Dec 2023 18:37:38 +0530
+### [10 Best 4K Ultra HD TV with stunning visuals: Must-have models from Samsung, OnePlus, and more](https://www.livemint.com/technology/gadgets/10-best-4k-ultra-hd-tv-with-stunning-visuals-must-have-models-from-samsung-oneplus-and-more-11703053168827.html)
+
+Article found but Couldn't summarize 
+Maximize your viewing experience with our top 10 4K Ultra HD TVs that blend quality and affordability. From budget-friendly to must-have models, these TVs offer stunning visuals without breaking the bank. Find the best 4K models for a superior UHD experience.
+
+Wed, 20 Dec 2023 18:30:08 +0530
+### [Christmas gift for women: Choose from range of gifts for this holiday season](https://www.livemint.com/technology/gadgets/christmas-gift-for-women-choose-from-range-of-gifts-for-this-holiday-season-11703061364372.html)
+
+Article found but Couldn't summarize 
+Christmas gift for women: Pick the best Christmas gift for women from choices ranging from kindle readers, smartwatches, earbuds and more. Make this holiday season full of gifts with our recommendations.
+
+Wed, 20 Dec 2023 17:40:24 +0530
+### [From text to tracks: Microsoft Copilot and Suno partner for a creating AI music composition](https://www.livemint.com/technology/tech-news/from-text-to-tracks-microsoft-copilot-and-suno-partner-for-a-creating-ai-music-composition-11703073969903.html)
+
+Article found but Couldn't summarize 
+Microsoft announces collaboration with Suno to integrate AI-based music creation into Copilot, allowing users to effortlessly generate personalized songs through straightforward prompts.
+
+Wed, 20 Dec 2023 16:41:26 +0530
+### [7 best 70-inch LED TVs: Big screen, bigger impact](https://www.livemint.com/technology/gadgets/7-best-70-inch-led-tvs-big-screen-bigger-impact-11703065884066.html)
+
+Article found but Couldn't summarize 
+7 best 70-inch LED TVs: Enhance your viewing pleasure with our selection of the top 70-Inch LED TVs. Delve into the realm of big screen TVs and select the best 70-inch TV for unparalleled picture quality and immersive experiences.
+
 Sat, 16 Dec 2023 14:09:11 +0530
 ### [Flipkart Year End Sale ends today: Top 5 deals on smartphones - iPhone 14, Nothing Phone (2) and more](https://www.livemint.com/technology/flipkart-year-end-sale-ends-today-top-5-deals-on-smartphones-iphone-14-nothing-phone-2-and-more-11702715709797.html)
 

@@ -1,3 +1,308 @@
+Fri, 22 Dec 2023 12:30:53 +0000
+### [Express View on WFI elections: Stranglehold of Brij Bhushan Singh](https://indianexpress.com/article/opinion/editorials/express-view-wfi-elections-brij-bhushan-singh-sanjay-singh-sakshi-malik-9079218/)
+
+Article found but Couldn't summarize
+
+Fri, 22 Dec 2023 12:21:03 +0000
+### [Sakshi Malik’s resignation, Brij Bhushan’s impunity: When hope is lost](https://indianexpress.com/article/opinion/columns/wrestlers-protest-sakshi-malik-brij-bhushan-sharan-singh-9079199/)
+
+Article found but Couldn't summarize
+
+Fri, 22 Dec 2023 11:51:58 +0000
+### [Supriya Sule writes: Every time the government throttles Parliament, it damages national interest](https://indianexpress.com/article/opinion/columns/parliament-members-suspension-opposition-supriya-sule-9079137/)
+
+Article found but Couldn't summarize
+
+Fri, 22 Dec 2023 10:28:28 +0000
+### [The green credit strategy — potential and pitfalls](https://indianexpress.com/article/opinion/columns/green-credit-strategy-potential-and-pitfalls-9078974/)
+
+Article found but Couldn't summarize
+
+Fri, 22 Dec 2023 07:05:06 +0000
+### [How BJP is using Hindi to move beyond Hindutva](https://indianexpress.com/article/opinion/columns/how-bjp-is-using-hindi-to-move-beyond-hindutva-9078642/)
+
+Article found but Couldn't summarize
+
+Fri, 22 Dec 2023 01:37:29 +0000
+### [SC ruling on Article 370 is the beginning of prosperity for Kashmir](https://indianexpress.com/article/opinion/columns/a-valley-of-growth-9078126/)
+
+Article found but Couldn't summarize
+
+Fri, 22 Dec 2023 01:37:26 +0000
+### [IIT Kharagpur director writes: What we are doing for future workers in a world of AI](https://indianexpress.com/article/opinion/columns/innovation-atmanirbhar-9078125/)
+
+Article found but Couldn't summarize
+
+Fri, 22 Dec 2023 01:20:32 +0000
+### [Express View on NASA cat videos: The future is cats](https://indianexpress.com/article/opinion/editorials/the-future-is-feline-9078136/)
+
+Article found but Couldn't summarize
+
+Fri, 22 Dec 2023 01:15:37 +0000
+### [Express View on rupee and Macroeconomic Stability: IMF’s message](https://indianexpress.com/article/opinion/editorials/imfs-message-9078117/)
+
+Article found but Couldn't summarize
+
+Fri, 22 Dec 2023 01:15:20 +0000
+### [Express View on Covid rise: Time for caution, again](https://indianexpress.com/article/opinion/editorials/time-for-caution-again-9078123/)
+
+Article found but Couldn't summarize
+
+Fri, 22 Dec 2023 01:00:22 +0000
+### [December 22, 1983, Forty Years Ago: MPs on Punjab issue](https://indianexpress.com/article/opinion/40-years-ago/december-22-1983-forty-years-ago-mps-on-punjab-issue-9078124/)
+
+Article found but Couldn't summarize
+
+Thu, 21 Dec 2023 13:55:54 +0000
+### [Derek O’Brien writes: 25 per cent of India has been silenced](https://indianexpress.com/article/opinion/columns/derek-obrien-writes-parliament-suspensions-india-silenced-9077872/)
+
+Article found but Couldn't summarize
+
+Thu, 21 Dec 2023 10:56:22 +0000
+### [Pratap Bhanu Mehta writes: The collapse of parliamentary democracy in Bharat that is not India](https://indianexpress.com/article/opinion/pratap-bhanu-mehta-parliamentary-democracy-bharat-india-mps-suspension-9077660/)
+
+Article found but Couldn't summarize
+
+Thu, 21 Dec 2023 05:30:16 +0000
+### [Lessons for Modi government on parliamentary democracy — from L K Advani and Sushma Swaraj](https://indianexpress.com/article/opinion/columns/modi-government-parliamentary-democracy-opposition-mp-suspension-9076877/)
+
+Article found but Couldn't summarize
+
+Thu, 21 Dec 2023 01:37:25 +0000
+### [Behind suspension of 143 MPs, a political immorality](https://indianexpress.com/article/opinion/columns/behind-suspension-of-143-mps-a-political-immorality-9076656/)
+
+Article found but Couldn't summarize
+
+Thu, 21 Dec 2023 01:37:19 +0000
+### [US and Israel: Two settler-colonial states, partners in crime](https://indianexpress.com/article/opinion/columns/us-and-israel-two-settler-colonial-states-partners-in-crime-9076682/)
+
+As GPT-3.5, I can provide a summary of the article you shared. The article discusses the unwavering support given by the US to Israel during the ongoing war in Palestine. It highlights the special relationship between the two countries, dating back to 1948 when the US became the first country to recognize Israel as a sovereign state. The article also mentions the influence of Jewish intellectuals in shaping various aspects of American society. Additionally, it explores the concept of settler colonialism and its role in the founding of Israel. The author argues that both the US and Israel are settler colonial states, and their actions have had devastating consequences for the indigenous populations. The article concludes by expressing concerns about the impact of the US-Israel alliance on their respective countries and the world as a whole.
+
+Thu, 21 Dec 2023 01:37:14 +0000
+### [Where is the evidence for North-South political faultline?](https://indianexpress.com/article/opinion/columns/where-is-the-evidence-for-north-south-political-faultline-9076652/)
+
+Article found but Couldn't summarize
+
+Thu, 21 Dec 2023 01:30:25 +0000
+### [The OPS promise and the cost of false electoral narratives](https://indianexpress.com/article/opinion/columns/the-ops-promise-and-the-cost-of-false-electoral-narratives-9076683/)
+
+Article found but Couldn't summarize
+
+Thu, 21 Dec 2023 01:30:12 +0000
+### [A broken education system: Apps and coaching classes are the wrong solution](https://indianexpress.com/article/opinion/columns/a-broken-education-system-apps-and-coaching-classes-are-the-wrong-solution-9076681/)
+
+Article found but Couldn't summarize
+
+Thu, 21 Dec 2023 01:20:17 +0000
+### [Express View: Framework for spectrum](https://indianexpress.com/article/opinion/editorials/express-view-framework-for-spectrum-9076653/)
+
+Article found but Couldn't summarize
+
+Thu, 21 Dec 2023 01:15:22 +0000
+### [Express View on IPL auction: An unpredictable game](https://indianexpress.com/article/opinion/editorials/express-view-on-ipl-auction-an-unpredictable-game-9076655/)
+
+As GPT-3.5, I can summarize the article for you. The IPL auction saw Mitchell Starc and Pat Cummins, both Australian cricketers, fetching record-breaking sums despite their limited IPL appearances. The success of Australia in the World Cup played a significant role in their high bids. Travis Head and Daryl Mitchell, who had previously gone unsold, also found buyers this time. The franchises prioritize players who have performed well in big tournaments and possess multi-dimensional skills. However, there is no guarantee that these high-priced players will justify their price tags. Flops in the past have not deterred franchises from breaking auction records.
+
+Thu, 21 Dec 2023 01:15:19 +0000
+### [Express View on Kalyan Banerjee’s mimicry: An own goal](https://indianexpress.com/article/opinion/editorials/express-view-on-kalyan-banerjees-mimicry-an-own-goal-9076654/)
+
+Article found but Couldn't summarize
+
+Thu, 21 Dec 2023 01:05:39 +0000
+### [December 21, 1983, Forty Years Ago: Espionage case](https://indianexpress.com/article/opinion/40-years-ago/december-21-1983-forty-years-ago-espionage-case-9076657/)
+
+In a recent debate in the Lok Sabha, Defence Minister R Venkataraman acknowledged that flawed security arrangements had led to the leakage of information to foreign intelligence agencies. This admission came after a case of espionage involving retired officers of the defense services and CIA. Meanwhile, despite a call by four major constituents of the Palestine Liberation Organisation (PLO) to Fatah fighters not to leave Lebanon, the evacuation of Yasser Arafat's supporters from Tripoli began, disregarding the plea to stay on the front line against their "Zionist enemy." The introduction of the Life Insurance Corporations Bill sparked a 48-hour strike by its 45,000 employees across the country. These employees have consistently opposed the bill as it diminishes their bargaining power and removes the protection they had under the Industrial Disputes Act (IDA). In Kerala, the Karunakaran ministry survived a no-confidence motion in the assembly, with 72 votes against the motion and 63 in favor. However, the voting highlighted divisions within the ruling coalition. Finally, veteran journalist V K Narasimhan became the inaugural recipient of the B D Goenka Foundation Award for excellence in journalism. Narasimhan was recognized for his resilience during the emergency, according to Achut Patwardhan.
+
+Wed, 20 Dec 2023 11:18:26 +0000
+### [On suspension of 141 MPs, Manoj Kumar Jha writes: I hope I am not compelled to write another piece soon with the title, ‘RIP Indian Democracy’](https://indianexpress.com/article/opinion/columns/suspension-mps-manoj-kumar-jha-indian-democracy-9076127/)
+
+Article found but Couldn't summarize
+
+Wed, 20 Dec 2023 10:55:47 +0000
+### [I encountered hate, bigotry in a barbershop. But amid fear and anger, I found hope in a lift](https://indianexpress.com/article/opinion/columns/hate-bigotry-fear-and-anger-muslim-9076158/)
+
+As GPT-3.5, I can provide a summary of the article you shared. The article describes a personal experience of the author during a visit to a salon. The author overhears a conversation between two gentlemen discussing high crime rates in the country. One of the gentlemen suggests that the government should temporarily do away with the Constitution to solve the problem. The author questions the effectiveness of such an approach. The conversation then shifts to the performance of the current government, and one of the individuals openly threatens to eliminate a particular community. The author confronts the person and asserts their identity as a Muslim without fear. The article highlights the rise of hate speech and the impact it has on individuals and society. The author emphasizes the importance of unity, respect, and equality among citizens, as guaranteed by the Constitution.
+
+Wed, 20 Dec 2023 06:55:53 +0000
+### [Reservation in Maharashtra: Why an OBC community wants ST status](https://indianexpress.com/article/opinion/columns/reservation-maharashtra-obc-community-st-status-9075748/)
+
+Article found but Couldn't summarize
+
+Wed, 20 Dec 2023 04:52:01 +0000
+### [Why India must measure digital literacy](https://indianexpress.com/article/opinion/columns/why-india-must-measure-digital-literacy-9075549/)
+
+Article found but Couldn't summarize
+
+Wed, 20 Dec 2023 02:25:56 +0000
+### [December 20, Forty Years Ago: PM on rising violence](https://indianexpress.com/article/opinion/40-years-ago/december-20-forty-years-ago-pm-on-rising-violence-9075162/)
+
+Article found but Couldn't summarize
+
+Wed, 20 Dec 2023 02:15:39 +0000
+### [Let them speak: Suspension of MPs shows Parliament must find better ways to engage](https://indianexpress.com/article/opinion/columns/parliament-standoff-suspension-of-opposition-mps-parliament-winter-session-9075121/)
+
+Article found but Couldn't summarize
+
+Wed, 20 Dec 2023 02:10:31 +0000
+### [Express View on Pope Francis and same-sex unions: Pontiff’s blessings](https://indianexpress.com/article/opinion/editorials/pontiffs-blessings-9075152/)
+
+Article found but Couldn't summarize
+
+Wed, 20 Dec 2023 02:00:52 +0000
+### [Express View on Opposition removal from Parliament: Breach and stain](https://indianexpress.com/article/opinion/editorials/breach-stain-9075143/)
+
+Article found but Couldn't summarize
+
+Wed, 20 Dec 2023 01:40:53 +0000
+### [Express view on caste discrimination in Karnataka school: Cast out](https://indianexpress.com/article/opinion/editorials/karnataka-school-caste-discrimination-casteism-tamil-writer-bama-9075145/)
+
+Article found but Couldn't summarize
+
+Wed, 20 Dec 2023 01:30:54 +0000
+### [Saving Punjab from rice](https://indianexpress.com/article/opinion/columns/saving-punjab-from-paddy-9075116/)
+
+Article found but Couldn't summarize
+
+Wed, 20 Dec 2023 01:29:52 +0000
+### [On climate change, India’s challenges leading the Global South](https://indianexpress.com/article/opinion/columns/a-climate-paradox-9075115/)
+
+Article found but Couldn't summarize
+
+Tue, 19 Dec 2023 12:49:51 +0000
+### [C Raja Mohan writes: Between Trump and Putin, a vulnerable Europe](https://indianexpress.com/article/opinion/columns/donald-trump-vladimir-putin-vulnerable-europe-c-raja-mohan-9074733/)
+
+Article found but Couldn't summarize
+
+Tue, 19 Dec 2023 11:44:41 +0000
+### [141 MPs suspended: Colonial hangover in New Parliament](https://indianexpress.com/article/opinion/columns/141-mps-suspended-colonial-hangover-in-new-parliament-9074526/)
+
+Article found but Couldn't summarize
+
+Tue, 19 Dec 2023 09:25:39 +0000
+### [Karnataka school horror: We are blaming the wrong people](https://indianexpress.com/article/opinion/columns/karnataka-school-horror-blaming-wrong-people-9074222/)
+
+Article found but Couldn't summarize
+
+Tue, 19 Dec 2023 06:05:09 +0000
+### [Epic Games vs Google: Even when Big Tech loses, it wins](https://indianexpress.com/article/opinion/columns/epic-games-vs-google-even-when-big-tech-loses-it-wins-9074063/)
+
+Article found but Couldn't summarize
+
+Tue, 19 Dec 2023 02:30:32 +0000
+### [For Indian companies, the way to money](https://indianexpress.com/article/opinion/columns/foreign-investments-foreign-listings-of-indian-companies-nirmala-sitharaman-gift-9073560/)
+
+Foreign listings of Indian companies have recently gained interest. The Finance Minister suggested starting listings in GIFT IFSC and potentially expanding to other locations. The Ministry of Corporate Affairs has empowered the government to allow certain public companies to issue securities for listing on foreign stock exchanges. This is seen as a positive step towards accessing capital at a lower cost and attracting foreign investments. Different mechanisms for foreign listings include separate classes of shares, Global Registered Shares (GRS), dual listed company (DLC) structures, and depository receipts (DRs). Indian companies have primarily relied on American Depository Receipts (ADRs) and Global Depository Receipts (GDRs) in the past. The latest notification has sparked interest in direct listing on foreign exchanges. Regulatory concerns around DRs and ultimate beneficial ownership have led policymakers to explore the possibility of listing shares directly on foreign exchanges without relying on DRs. This could require amending multiple laws and creating interoperability among clearing corporations. Alternatively, Indian companies could issue a special class of shares for listing in specific jurisdictions. Balancing regulatory concerns with the needs of unlisted companies is crucial. A conducive policy on foreign listings could have significant benefits for the Indian economy.
+
+Tue, 19 Dec 2023 02:25:38 +0000
+### [For energy transition, how to create climate for change](https://indianexpress.com/article/opinion/columns/for-energy-transition-how-to-create-climate-for-change-9073571/)
+
+Article found but Couldn't summarize
+
+Tue, 19 Dec 2023 02:15:18 +0000
+### [Express View on MP meat and eggs ban: CM Mohan Yadav’s bad start](https://indianexpress.com/article/opinion/editorials/express-view-on-mp-meat-and-eggs-ban-cm-mohan-yadavs-bad-start-9073586/)
+
+As GPT-3.5, I can provide a summary of the article you shared. The article discusses the challenges faced by the new Chief Minister of Madhya Pradesh, Mohan Yadav, including diversifying the state's economy, creating non-government jobs, and ensuring social harmony. However, the implementation of food safety guidelines in the state has led to a ban on the open sale of meat, poultry, and eggs, which has raised concerns about the selective nature of the ban and its impact on small business owners and workers in the sector. The article emphasizes the need for the government to act as a facilitator rather than a bulldozer in bringing the meat and poultry sector up to hygiene standards. It also highlights the importance of addressing nutrition issues and job creation in the state.
+
+Tue, 19 Dec 2023 02:15:07 +0000
+### [December 19, Forty Years Ago: On President’s Rule](https://indianexpress.com/article/opinion/editorials/december-19-forty-years-ago-on-presidents-rule-9073574/)
+
+Article found but Couldn't summarize
+
+Tue, 19 Dec 2023 01:30:29 +0000
+### [India’s growth prospects are on the up. What changed?](https://indianexpress.com/article/opinion/columns/indian-economy-gdp-growth-capex-global-market-share-digital-public-infrastructure-9073549/)
+
+Article found but Couldn't summarize
+
+Tue, 19 Dec 2023 01:30:20 +0000
+### [Express View on ICMR leak: Plug the breach](https://indianexpress.com/article/opinion/editorials/express-view-on-icmr-leak-plug-the-breach-9073581/)
+
+Article found but Couldn't summarize
+
+Tue, 19 Dec 2023 01:25:37 +0000
+### [Express View on Garima Arora’s Michelin Star: One for cuisine, two for diversity](https://indianexpress.com/article/opinion/editorials/express-view-on-garima-aroras-michelin-star-one-for-cuisine-two-for-diversity-9073590/)
+
+As GPT-3.5, I can provide a summary of the article you shared. Mumbai-born chef Garima Arora recently won her second Michelin Star, making her one of the few Indian chefs with this honor and the first Indian woman chef to achieve it. This achievement highlights the gender disparity in the culinary industry, where male chefs are historically overrepresented. While the number of women chefs has been steadily increasing globally, the percentage of women-run Michelin-starred restaurants remains low at 6.04%. This imbalance is attributed to entrenched bias and the "boys club" environment that hinders women from advancing in their careers. Efforts have been made to address this issue, such as the introduction of the Best Female Chef award by The World's 50 Best Restaurants. However, there is still a need for further progress and diversity in the industry.
+
+Mon, 18 Dec 2023 08:51:57 +0000
+### [Facebook whistleblower docs: How AI is hurting India – and Indians](https://indianexpress.com/article/opinion/columns/facebook-whistleblower-docs-artificial-intelligence-india-9072751/)
+
+Article found but Couldn't summarize
+
+Mon, 18 Dec 2023 02:25:29 +0000
+### [The regulator’s challenge in the age of AI](https://indianexpress.com/article/opinion/columns/the-regulators-challenge-in-the-age-of-ai-9072107/)
+
+Article found but Couldn't summarize
+
+Mon, 18 Dec 2023 02:15:42 +0000
+### [Fali S Nariman writes: Where the Supreme Court went wrong on Article 370](https://indianexpress.com/article/opinion/columns/supreme-court-verdict-on-article-370-fali-s-nariman-abbrogation-of-article-370-jammu-and-kashmir-9072109/)
+
+Article found but Couldn't summarize
+
+Mon, 18 Dec 2023 02:00:35 +0000
+### [December 18, Forty Years Ago: Pakistan set for war](https://indianexpress.com/article/opinion/editorials/december-18-forty-years-ago-pak-set-for-war-9072120/)
+
+Article found but Couldn't summarize
+
+Mon, 18 Dec 2023 01:40:17 +0000
+### [Express View on AI summit in Delhi: India’s challenge](https://indianexpress.com/article/opinion/editorials/artificial-intelligtence-delhi-ai-summit-ai-regulations-international-ai-summit-european-union-9072124/)
+
+Article found but Couldn't summarize
+
+Mon, 18 Dec 2023 01:30:08 +0000
+### [Express View on restriction of ethanol production: Food vs fuel](https://indianexpress.com/article/opinion/editorials/express-view-on-restriction-of-ethanol-production-food-vs-fuel-9072127/)
+
+Article found but Couldn't summarize
+
+Sun, 17 Dec 2023 10:44:58 +0000
+### [From the Opinions Editor | SC verdict on Article 370 abrogation: A few answers, many questions](https://indianexpress.com/article/opinion/columns/supreme-court-article-370-abrogation-9071770/)
+
+Article found but Couldn't summarize
+
+Sun, 17 Dec 2023 10:30:51 +0000
+### [From ‘rule taker’ to ‘rule shaper’, the evolution of India in international negotiations](https://indianexpress.com/article/opinion/columns/india-diplomacy-mohan-kumar-indias-moment-hardeep-singh-puri-9071705/)
+
+Article found but Couldn't summarize
+
+Sun, 17 Dec 2023 09:31:46 +0000
+### [View from Pakistan: Article 370 verdict is a ‘grave injustice’](https://indianexpress.com/article/opinion/columns/pakistan-view-article-370-9071693/)
+
+Article found but Couldn't summarize
+
+Sun, 17 Dec 2023 07:42:16 +0000
+### [Menstrual leave: Not acknowledging women’s needs is not the cure to patriarchy](https://indianexpress.com/article/opinion/columns/menstrual-leave-women-needs-cure-patriarchy-9071587/)
+
+Article found but Couldn't summarize
+
+Sun, 17 Dec 2023 01:45:27 +0000
+### [Inside Track by Coomi Kapoor: No one is indispensable, except PM Modi](https://indianexpress.com/article/opinion/columns/not-indispensable-9071163/)
+
+Article found but Couldn't summarize
+
+Sun, 17 Dec 2023 01:45:11 +0000
+### [P Chidambaram writes: Towards a dystopian future](https://indianexpress.com/article/opinion/columns/supreme-court-article-370-verdict-abrogation-of-article-370-jammu-and-kashmir-9071154/)
+
+Article found but Couldn't summarize
+
+Sun, 17 Dec 2023 01:40:29 +0000
+### [Tavleen Singh writes: A caste census is casteism](https://indianexpress.com/article/opinion/columns/a-caste-census-is-casteism-9071161/)
+
+Article found but Couldn't summarize
+
+Sun, 17 Dec 2023 01:30:48 +0000
+### [The woman in black](https://indianexpress.com/article/opinion/columns/the-woman-in-black-2-9071170/)
+
+Article found but Couldn't summarize
+
+Sat, 16 Dec 2023 12:32:56 +0000
+### [UGC’s selfie points with PM Modi: It’s the nature of leaders to clone themselves as their nation](https://indianexpress.com/article/opinion/columns/ugc-selfie-point-pm-modi-lenin-propaganda-9070945/)
+
+Article found but Couldn't summarize
+
+Sat, 16 Dec 2023 10:30:38 +0000
+### [Why Smriti Irani spoke against period leaves](https://indianexpress.com/article/opinion/columns/why-smriti-irani-spoke-against-period-leaves-9070813/)
+
+Article found but Couldn't summarize
+
 Sat, 16 Dec 2023 08:24:29 +0000
 ### [A teacher, displaced: Why Delhi University’s actions have made me want to quit academia](https://indianexpress.com/article/opinion/columns/a-teacher-displaced-why-delhi-universitys-actions-have-made-me-want-to-quit-academia-9070697/)
 

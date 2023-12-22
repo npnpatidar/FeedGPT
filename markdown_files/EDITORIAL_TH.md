@@ -1,3 +1,75 @@
+Sat, 23 Dec 2023 00:20:00 +0530
+### [Two down: On the conviction of a senior functionary and the DMK](https://www.thehindu.com/opinion/editorial/two-down-on-the-conviction-of-a-senior-functionary-and-the-dmk/article67666527.ece)
+
+Article found but Couldn't summarize 
+Testing time for DMK as senior functionary is found guilty of corruption
+
+Sat, 23 Dec 2023 00:10:00 +0530
+### [Awards for words: On the Sahitya Akademi awards](https://www.thehindu.com/opinion/editorial/awards-for-words-on-the-sahitya-akademi-awards/article67665448.ece)
+
+Article found but Couldn't summarize 
+The Sahitya Akademi must do more to promote Indian literature
+
+Fri, 22 Dec 2023 00:20:00 +0530
+### [Revision sans vision: On the three Bills that replace the body of criminal laws in India](https://www.thehindu.com/opinion/editorial/revision-sans-vision-on-the-three-bills-that-replace-the-body-of-criminal-laws-in-india/article67662843.ece)
+
+Article found but Couldn't summarize 
+New laws have positive features, but bring no path-breaking change in system
+
+Fri, 22 Dec 2023 00:10:00 +0530
+### [Staying alert: On the rapidly increasing spread of the JN.1 variant](https://www.thehindu.com/opinion/editorial/staying-alert-on-the-rapidly-increasing-spread-of-the-jn1-variant/article67662076.ece)
+
+Article found but Couldn't summarize 
+India must sustain focus on genome sequencing for novel variants
+
+Thu, 21 Dec 2023 00:20:00 +0530
+### [Debarring Donald: On the Trump ruling by the Supreme Court of the U.S. State of Colorado](https://www.thehindu.com/opinion/editorial/debarring-donald-on-the-trump-ruling-by-the-supreme-court-of-the-us-state-of-colorado/article67658440.ece)
+
+Article found but Couldn't summarize 
+The U.S. seems set for a bitter polarisation in an election year
+
+Thu, 21 Dec 2023 00:10:00 +0530
+### [Sisi again: On the result of Egypt’s presidential elections](https://www.thehindu.com/opinion/editorial/sisi-again-on-the-result-of-egypts-presidential-elections/article67658407.ece)
+
+Article found but Couldn't summarize 
+Governing Egypt during an economic crisis is not going to be easy
+
+Wed, 20 Dec 2023 00:20:00 +0530
+### [Incoming call: On the introduction of the Telecommunications Bill, 2023](https://www.thehindu.com/opinion/editorial/incoming-call-on-the-introduction-of-the-telecommunications-bill-2023/article67654726.ece)
+
+Article found but Couldn't summarize 
+Regulation of Internet world must address privacy concerns and simplify procedures
+
+Wed, 20 Dec 2023 00:10:00 +0530
+### [Turbulence in south: On the heavy rain in southern Tamil Nadu, weather forecasting and preparedness](https://www.thehindu.com/opinion/editorial/turbulence-in-south-on-the-heavy-rain-in-southern-tamil-nadu-weather-forecasting-and-preparedness/article67654609.ece)
+
+Article found but Couldn't summarize 
+India must ensure better cohesion among agencies during disasters
+
+Tue, 19 Dec 2023 00:30:00 +0530
+### [Legislative decline: On government’s actions and a disregard for deliberative democracy](https://www.thehindu.com/opinion/editorial/legislative-decline-the-hindu-editorial-on-governments-actions-and-a-disregard-for-deliberative-democracy/article67651320.ece)
+
+Article found but Couldn't summarize 
+Denial of legislative debate furthers democratic backsliding in India.
+
+Tue, 19 Dec 2023 00:15:00 +0530
+### [Unseemly turn: Raj Bhavan’s relations in Kerala](https://www.thehindu.com/opinion/editorial/unseemly-turn-the-hindu-editorial-on-raj-bhavans-relations-in-kerala/article67650765.ece)
+
+Article found but Couldn't summarize 
+Kerala’s Governor-government conflict should not result in belligerent protests
+
+Mon, 18 Dec 2023 00:30:00 +0530
+### [New order: On three States and the new BJP governments](https://www.thehindu.com/opinion/editorial/new-order-the-hindu-editorial-on-three-states-and-the-new-bjp-governments/article67647923.ece)
+
+Article found but Couldn't summarize 
+The Bharatiya Janata Party hopes to retain a diverse support base with its pick of State leaders
+
+Mon, 18 Dec 2023 00:15:00 +0530
+### [A cloudy horizon: On trade data](https://www.thehindu.com/opinion/editorial/a-cloudy-horizon-the-hindu-editorial-on-trade-data/article67647950.ece)
+
+Article found but Couldn't summarize 
+Latest trade data underscore the criticality of competitiveness
+
 Sat, 16 Dec 2023 00:20:00 +0530
 ### [Debt and welfare: On the new government in Madhya Pradesh, election promises and the exchequer](https://www.thehindu.com/opinion/editorial/debt-and-welfare-on-the-new-government-in-madhya-pradesh-election-promises-and-the-exchequer/article67642191.ece)
 
