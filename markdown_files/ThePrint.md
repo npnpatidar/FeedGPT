@@ -1,3 +1,21 @@
+Fri, 22 Dec 2023 22:32:01 +0000
+### [Two bombs found at Karachi’s Cantt railway station](https://theprint.in/world/two-bombs-found-at-karachis-cantt-railway-station/1897773/)
+
+Article found but Couldn't summarize 
+Karachi [Pakistan], December 23 (ANI): Two bombs were found at a cantonment railway station in Karachi on Friday, ARY News reported. ARY News is a Pakistani news channel. The bombs were later diffused by the authorities. According to details, the two bombs that looked like time devices were found at platform 2 of Karachi Cantt [&#8230;]
+
+Fri, 22 Dec 2023 22:17:01 +0000
+### [ECP decides against letting Pakistan Tehreek-e-Insaf retain its ‘bat’ electoral symbol](https://theprint.in/world/ecp-decides-against-letting-pakistan-tehreek-e-insaf-retain-its-bat-electoral-symbol/1897771/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 23 (ANI): The Election Commission of Pakistan (ECP) on Friday decided against letting the Pakistan Tehreek-e-Insaf (PTI) retain its &#8216;bat&#8217; electoral symbol for the February 8 general election, Dawn newspaper reported. Dawn is a Pakistani English-language newspaper. The ECP&#8217;s verdict was announced a day after the Peshawar High Court (PHC) directed the [&#8230;]
+
+Fri, 22 Dec 2023 22:15:04 +0000
+### [UN pushes for more aid into Gaza, Israel widens offensive](https://theprint.in/world/un-pushes-for-more-aid-into-gaza-israel-widens-offensive/1897769/)
+
+Article found but Couldn't summarize 
+By Michelle Nichols, Nidal al-Mughrabi and Dan Williams UNITED NATIONS/CAIRO/JERUSALEM (Reuters) -The U.N. Security Council approved a toned-down bid to boost humanitarian aid to Gaza on Friday that
+
 Fri, 22 Dec 2023 21:46:12 +0000
 ### [Soccer-Walker named Canada Soccer general secretary, first woman to hold the job](https://theprint.in/sport/soccer-walker-named-canada-soccer-general-secretary-first-woman-to-hold-the-job/1897768/)
 
