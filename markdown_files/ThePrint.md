@@ -1,3 +1,117 @@
+Sat, 23 Dec 2023 06:17:02 +0000
+### [Pakistan President Alvi, caretaker PM Kakar express concern over police crackdown on Baloch protesters](https://theprint.in/world/pakistan-president-alvi-caretaker-pm-kakar-express-concern-over-police-crackdown-on-baloch-protesters/1897939/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 23 (ANI): Expressing concern over the police crackdown on Baloch protesters in Islamabad, Pakistan President Arif Alvi and caretaker Prime Minister Anwaarul Haq Kakar announced measures to improve the law and order situation in Balochistan, Dawn reported. Islamabad Police cracked down on and broke up Baloch protesters, who had gathered in the [&#8230;]
+
+Sat, 23 Dec 2023 06:15:26 +0000
+### [UN Security Council adopts resolution calling for increased humanitarian aid to Gaza](https://theprint.in/world/un-security-council-adopts-resolution-calling-for-increased-humanitarian-aid-to-gaza/1897938/)
+
+Article found but Couldn't summarize 
+United Nations, Dec 23 (PTI) The UN Security Council has adopted a resolution that demanded scaling up humanitarian assistance throughout the Gaza Strip but did not call for a ceasefire which the UN Secretary General said was “needed” for aid to be effectively delivered. After days of intense negotiations and delays on a vote, the [&#8230;]
+
+Sat, 23 Dec 2023 06:15:14 +0000
+### [President’s winter sojourn at Rashtrapati Nilayam in Hyderabad concludes](https://theprint.in/india/presidents-winter-sojourn-at-rashtrapati-nilayam-in-hyderabad-concludes-4/1897936/)
+
+Article found but Couldn't summarize 
+Hyderabad, Dec 23 (PTI) President Droupadi Murmu&#8217;s annual southern sojourn at the Rashtrapati Nilayam here concluded on Saturday. Telangana Governor Tamilisai Soundararajan, Chief Minister A Revanth Reddy, his ministerial colleagues and several other dignitaries gave a warm send-off to the President at the Air Force Station, Hakimpet here. The President arrived in Hyderabad on December [&#8230;]
+
+Sat, 23 Dec 2023 06:15:04 +0000
+### [Wrestling-Safeguarding India women wrestlers may be key to federation’s return](https://theprint.in/india/wrestling-safeguarding-india-women-wrestlers-may-be-key-to-federations-return/1897935/)
+
+Article found but Couldn't summarize 
+By Amlan Chakraborty NEW DELHI (Reuters) - The Wrestling Federation of India (WFI), battling a sexual harassment scandal, may need to safeguard women wrestlers to get its suspension lifted, the game's
+
+Sat, 23 Dec 2023 06:15:03 +0000
+### [Hindu temple vandalised with anti-India in US in apparent hate crime](https://theprint.in/world/hindu-temple-vandalised-with-anti-india-in-us-in-apparent-hate-crime/1897934/)
+
+Article found but Couldn't summarize 
+New York, Dec 23 (PTI) A prominent Hindu temple was vandalised with anti-India graffiti in the US state of California and the police are investigating the matter as a possible hate crime. The City of Newark Police Department in Newark, Newark, California told PTI in an emailed statement that on Friday at approximately 8:35 am, [&#8230;]
+
+Sat, 23 Dec 2023 06:14:03 +0000
+### [Die Hard, Home Alone, Little Women – 10 classic films to binge-watch this Christmas season](https://theprint.in/opinion/pov/die-hard-home-alone-little-women-10-classic-films-to-binge-watch-this-christmas-season/1897881/)
+
+Article found but Couldn't summarize 
+Little Women opens with a heartwarming Christmas, while Kristen Stewart’s Happiest Season and Cate Blanchett’s Carol celebrate queer love.
+
+Sat, 23 Dec 2023 06:00:18 +0000
+### [‘Protesting youth were educated & jobless’ — Urdu press links Parliament breach to unemployment](https://theprint.in/urduscope/protesting-youth-were-educated-jobless-urdu-press-links-parliament-breach-to-unemployment/1896934/)
+
+Article found but Couldn't summarize 
+ThePrint’s round-up of how the Urdu media covered various news events through the week, and the editorial positions some of them took.
+
+Sat, 23 Dec 2023 06:00:16 +0000
+### [Motivational speaker Vivek Bindra booked for domestic violence](https://theprint.in/india/motivational-speaker-vivek-bindra-booked-for-domestic-violence/1897911/)
+
+Article found but Couldn't summarize 
+Noida, Dec 23 (PTI) Entrepreneur and motivational speaker Vivek Bindra has been booked for allegedly assaulting his wife in Noida, police officials said on Saturday. The police said they are investigating the allegations and would take action upon probe. Bindra could not be contacted immediately for his response. The FIR was lodged at the Sector [&#8230;]
+
+Sat, 23 Dec 2023 06:00:03 +0000
+### [Rickshaw driver kills cousin; arrested](https://theprint.in/india/rickshaw-driver-kills-cousin-arrested/1897910/)
+
+Article found but Couldn't summarize 
+Thane, Dec 23 (PTI) An autorickshaw driver allegedly killed his 32-year-old cousin after the latter kept demanding money from him in an inebriated condition in Raigad district of Maharashtra, police said on Saturday. The incident occurred at Chikhale village near Panvel on Friday morning and the accused, Bharat Pandurang Patil (42), was arrested hours later, [&#8230;]
+
+Sat, 23 Dec 2023 05:45:14 +0000
+### [MeT forecasts rain, snow for parts of Himachal](https://theprint.in/india/met-forecasts-rain-snow-for-parts-of-himachal/1897899/)
+
+Article found but Couldn't summarize 
+Shimla (HP), Dec 23 (PTI) The local Met Office has forecast rain and snow at isolated places in Himachal Pradesh on Saturday as a feeble Western Disturbance has affected the state from Friday night, however, White Christmas may elude Shimla city. &#8220;A Western Disturbance has affected the state from Friday night and snow and rain [&#8230;]
+
+Sat, 23 Dec 2023 05:45:02 +0000
+### [President’s winter sojourn at Rashtrapati Nilayam in Hyderabad concludes](https://theprint.in/india/presidents-winter-sojourn-at-rashtrapati-nilayam-in-hyderabad-concludes-3/1897897/)
+
+Article found but Couldn't summarize 
+Hyderabad, Dec 23 (PTI) President Droupadi Murmu&#8217;s annual sojourn at the Rashtrapati Nilayam here concluded on Saturday and she flew back to the national capital. Telangana Governor Tamilisai Soundararajan, Chief Minister A Revanth Reddy, his ministerial colleagues and several other dignitaries gave a warm send-off to the President at the Air Force Station, Hakimpet here. [&#8230;]
+
+Sat, 23 Dec 2023 05:32:19 +0000
+### [‘Two and a Half Men’ star Charlie Sheen attacked at home, suspect arrested](https://theprint.in/feature/two-and-a-half-men-star-charlie-sheen-attacked-at-home-suspect-arrested/1897892/)
+
+Article found but Couldn't summarize 
+Washington [US], December 23 (ANI): Actor Charlie Sheen was attacked in his Malibu home, and police officials have arrested and charged the suspect with assault and burglary. Entertainment outlet TMZ quoted officers saying that &#8220;Charlie&#8217;s neighbor, a 47-year-old woman, forced her way into his home and attacked him when he opened the door after hearing [&#8230;]
+
+Sat, 23 Dec 2023 05:32:02 +0000
+### [US hosts Quad Counterterrorism Working Group meeting in Honolulu, Hawaii](https://theprint.in/world/us-hosts-quad-counterterrorism-working-group-meeting-in-honolulu-hawaii/1897890/)
+
+Article found but Couldn't summarize 
+Washington, DC [US], December 23 (ANI): The US hosted representatives from India, Japan and Australia, for the Quad Counterterrorism Working Group meeting in Honolulu, Hawaii from December 19-21, &#8220;to make tangible progress on pressing challenges within the region and support a free and open Indo-Pacific.&#8221; The Quad, officially the Quadrilateral Security Dialogue, is a group [&#8230;]
+
+Sat, 23 Dec 2023 05:30:44 +0000
+### [Mumbai University and Oxford Centre for Hindu Studies to offer course on temple management](https://theprint.in/india/mumbai-university-and-oxford-centre-for-hindu-studies-to-offer-course-on-temple-management/1897889/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 23 (PTI) The Mumbai University has said it has signed a memorandum of understanding (MoU) with the Oxford Centre for Hindu Studies to offer a course on temple management. It will be one of the various diploma and certificate-level courses to be offered offline as well as in online mode under this collaboration. [&#8230;]
+
+Sat, 23 Dec 2023 05:30:29 +0000
+### [2023: BJP consolidates position in Tripura; Tipra Motha emerges as major power](https://theprint.in/india/2023-bjp-consolidates-position-in-tripura-tipra-motha-emerges-as-major-power/1897888/)
+
+Article found but Couldn't summarize 
+Agartala, Dec 23 (PTI) The BJP might have won the assembly elections in February 2023 for the second consecutive term and consolidated its position in Tripura, but the polls also brought some changes in the opposition camp. The Tipra Motha, founded by former royal scion Pradyot Manikya Debbarma just four years ago, emerged as the [&#8230;]
+
+Sat, 23 Dec 2023 05:30:16 +0000
+### [President’s winter sojourn at Rashtrapati Nilayam in Hyderabad concludes](https://theprint.in/india/presidents-winter-sojourn-at-rashtrapati-nilayam-in-hyderabad-concludes-2/1897886/)
+
+Article found but Couldn't summarize 
+Hyderabad, Dec 23 (PTI) President Droupadi Murmu&#8217;s annual sojourn at the Rashtrapati Nilayam here concluded on Saturday and she flew back to the national capital. Telangana Governor Tamilisai Soundararajan, Chief Minister A Revanth Reddy, his ministerial colleagues and several other dignitaries gave a warm send-off to the President at the Air Force Station, Hakimpet here. [&#8230;]
+
+Sat, 23 Dec 2023 05:30:03 +0000
+### [India gets consular access after flight carrying mostly Indians detained in France](https://theprint.in/world/india-gets-consular-access-after-flight-carrying-mostly-indians-detained-in-france/1897885/)
+
+Article found but Couldn't summarize 
+Paris, Dec 23 (PTI) India&#8217;s embassy in France has received consular access to its citizens after a Nicaragua-bound flight carrying 303 people, mostly Indians, was detained by French authorities during &#8220;a technical halt&#8221; at an airport near Paris over suspected &#8220;human trafficking&#8221;. The plane that took off from the United Arab Emirates carrying 303 Indian [&#8230;]
+
+Sat, 23 Dec 2023 05:15:17 +0000
+### [Three sitting MPs, 80 others seek Cong tickets for Lok Sabha election in Assam](https://theprint.in/india/three-sitting-mps-80-others-seek-cong-tickets-for-lok-sabha-election-in-assam/1897880/)
+
+Article found but Couldn't summarize 
+Guwahati, Dec 23 (PTI) A total of 83 Congress members in Assam, including all three sitting MPs in the state, have sought party tickets for next year&#8217;s Lok Sabha elections, an APCC release said. While Nagaon MP Pradyut Bordoloi has submitted his application seeking re-election from the same constituency, Barpeta MP Abdul Khaleque has filed [&#8230;]
+
+Sat, 23 Dec 2023 05:15:02 +0000
+### [India U19 to play tri-series against South Africa, Afghanistan ahead of World Cup](https://theprint.in/sport/india-u19-to-play-tri-series-against-south-africa-afghanistan-ahead-of-world-cup/1897879/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) The Indian U19 team will take on hosts South Africa and Afghanistan in a tri-series in Johannesburg ahead of the ICC Men&#8217;s U19 World Cup in the Rainbow Nation next year. The tri-series will be played at the Old Edwardians Cricket Club in Johannesburg and will witness each team playing [&#8230;]
+
 Sat, 23 Dec 2023 05:01:25 +0000
 ### [‘Poor performance, advanced age’ — why more than 100 BJP MPs are under scanner ahead of 2024 polls](https://theprint.in/politics/poor-performance-advanced-age-why-more-than-100-bjp-mps-are-under-scanner-ahead-of-2024-polls/1896406/)
 

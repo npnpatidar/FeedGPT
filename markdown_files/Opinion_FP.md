@@ -1,3 +1,9 @@
+Sat, 23 Dec 2023 11:48:40 +0530
+### [How Financial Times has joined legions of media houses feeding into anti-growth biases against India](https://www.firstpost.com/opinion/how-financial-times-has-joined-legions-of-media-houses-feeding-into-anti-growth-biases-against-india-13538042.html)
+
+Article found but Couldn't summarize 
+How Financial Times has joined legions of media houses feeding into anti-growth biases against India
+
 Sat, 23 Dec 2023 10:33:27 +0530
 ### [Vantage | Open myth of Santa Claus: Folklore or triumph of marketing?](https://www.firstpost.com/opinion/vantage-open-myth-of-santa-claus-folklore-or-triumph-of-marketing-13538012.html)
 
