@@ -1,3 +1,15 @@
+2023-12-23T12:15:00+05:30
+### ['Can't Live as Padma Shri Awardee When Women Wrestlers Are Insulted': Bajrang Punia to PM Modi](https://thewire.in/rights/cant-live-as-padma-shri-awardee-when-women-wrestlers-are-insulted-bajrang-punia-to-pm-modi)
+
+No Article text 
+The Olympic-medal winner was stopped by Delhi Police on Friday when he set out to return his award to Prime Minister Narendra Modi at his residence. He left his Padma Shri medallion on a footpath, which the police picked up.
+
+2023-12-23T12:00:55+05:30
+### [The Ayodhya Ram Temple and LK Advani's (Sour) Grapes of Rath](https://thewire.in/politics/the-ayodhya-ram-temple-and-lk-advanis-sour-grapes-of-rath)
+
+No Article text 
+It is difficult to feel sympathy for the man whose yatra has led to what is happening in India today.
+
 2023-12-23T08:00:28+05:30
 ### [Amit Shah's 'Zero Terror Plan' for J&K Sounds Too Good to Be True. And it Is.](https://thewire.in/security/amit-shahs-zero-terror-plan-for-jk-sounds-too-good-to-be-true-and-it-is)
 

@@ -1,3 +1,98 @@
+Sat, 23 Dec 2023 07:02:45 +0000
+### [“136 of our colleagues in Gaza have been killed in 75 days”: UN Chief Guterres](https://theprint.in/world/136-of-our-colleagues-in-gaza-have-been-killed-in-75-days-un-chief-guterres/1897973/)
+
+Article found but Couldn't summarize 
+New York [US], December 23 (ANI): As many as 136 UN workers have lost their lives in the last 75 days in the ongoing war between Israel and Hamas while several employees of the world body have been forced out of their homes, the United Nations Secretary General, Antonio Guterrres said. Guterres said that no [&#8230;]
+
+Sat, 23 Dec 2023 07:02:18 +0000
+### [Plan a Weekend Getaway This New Year’s Eve with Road Trip Cover on Bajaj Markets](https://theprint.in/ani-press-releases/plan-a-weekend-getaway-this-new-years-eve-with-road-trip-cover-on-bajaj-markets/1897971/)
+
+Article found but Couldn't summarize 
+BusinessWire India Pune (Maharashtra) [India], December 23: Bajaj Markets, a subsidiary of Bajaj Finserv, is setting a new standard for safety by making extensive insurance plans available, which are designed to provide financial support. Bajaj Markets aims to help safeguard one&#8217;s trips against unforeseen circumstances, ensuring a secure journey on the road, with Road Trip [&#8230;]
+
+Sat, 23 Dec 2023 07:02:02 +0000
+### [Dhanush set to come up with third directorial, unveils poster](https://theprint.in/feature/dhanush-set-to-come-up-with-third-directorial-unveils-poster/1897969/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 23 (ANI): Actor Dhanush treated fans with the exciting announcement of his third directorial venture with a concept poster on Friday. Taking to X, Dhanush shared a poster with the release date. #DD3 pic.twitter.com/IgXDIDReca &#8212; Dhanush (@dhanushkraja) December 22, 2023 The poster features a beach bench with the vast blue sea [&#8230;]
+
+Sat, 23 Dec 2023 07:01:17 +0000
+### [Smart classrooms, AI tools, e-libraries — how higher education in Odisha govt schools is levelling up](https://theprint.in/india/smart-classrooms-ai-tools-e-libraries-how-higher-education-in-odisha-govt-schools-is-levelling-up/1896915/)
+
+Article found but Couldn't summarize 
+Inititiative's goal is to modernise 8,679 high schools in eastern state. Rural areas, were electrictiy supply is not steady as in cities, are were it faces challenges.
+
+Sat, 23 Dec 2023 07:00:53 +0000
+### [Himachal BJP MLAs demand fulfilment of promises made to horticulturists](https://theprint.in/india/himachal-bjp-mlas-demand-fulfilment-of-promises-made-to-horticulturists/1897968/)
+
+Article found but Couldn't summarize 
+Dharamshala (HP), Dec 23 (PTI) Continuing their protest against the Himachal Pradesh government for alleged non-fulfilment of the ten guarantees promised on the eve of the last Assembly polls, the BJP legislators on Saturday carried apple boxes to the Assembly campus demanding fulfilment of promises made to horticulturists. Led by Leader of the Opposition Jai [&#8230;]
+
+Sat, 23 Dec 2023 07:00:31 +0000
+### [Short film ‘Incognito’ to be turned into feature by Anurag Kashyap and team](https://theprint.in/feature/short-film-incognito-to-be-turned-into-feature-by-anurag-kashyap-and-team/1897967/)
+
+Article found but Couldn't summarize 
+Guwahati, Dec 23 (PTI) Short film &#8220;Incognito&#8221; by filmmaker Ravi Muppa is set to be developed into a feature film, which will be produced by Anurag Kashyap. The short, a Hitchcockian thriller narrating the story of a motel receptionist who captures hidden visuals of guests and sells those on the internet to earn extra bucks, [&#8230;]
+
+Sat, 23 Dec 2023 07:00:02 +0000
+### [Land-for-jobs case: Fresh ED summons to Tejashwi Yadav, asked to appear on Jan 5](https://theprint.in/india/land-for-jobs-case-fresh-ed-summons-to-tejashwi-yadav-asked-to-appear-on-jan-5/1897966/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) The Enforcement Directorate on Saturday issued a fresh summons to Bihar Deputy Chief Minister and RJD leader Tejashwi Yadav in a railway land-for-jobs scam case, asking him to appear on January 5, official sources said. He was earlier called to appear on December 22 but the 34-year-old skipped the summons. [&#8230;]
+
+Sat, 23 Dec 2023 06:47:01 +0000
+### [MaximizeU and Softude Unite to Introduce an AI-powered Platform for Personal Growth, Revolutionizing Lives](https://theprint.in/ani-press-releases/maximizeu-and-softude-unite-to-introduce-an-ai-powered-platform-for-personal-growth-revolutionizing-lives/1897960/)
+
+Article found but Couldn't summarize 
+SRV Media New Delhi [India], December 23: MaximizeU, a forefront AI-powered technology platform dedicated to optimizing individual and institutional potential for a more balanced, happier, and impactful life, is delighted to announce its expansion to India in collaboration with Softude, a leading digital solutions company. This partnership aims to introduce MaximizeU&#8217;s state-of-the-art digital platform that [&#8230;]
+
+Sat, 23 Dec 2023 06:45:15 +0000
+### [NSD’s Repertory Company stages musical play ‘Babuji’](https://theprint.in/india/nsds-repertory-company-stages-musical-play-babuji/1897957/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) The National School of Drama&#8217;s Repertory Company is presenting a musical play, titled &#8220;Babuji, an adaptation of a short story by writer Mithleshwar. Based on the folk art form of Nautanki, the stage show opened to audiences on Friday and will run till December 25 at NSD&#8217;s Abhimanch Auditorium. The [&#8230;]
+
+Sat, 23 Dec 2023 06:45:10 +0000
+### [Soccer-United can ‘beat anyone’ with full squad – Ten Hag](https://theprint.in/sport/soccer-united-can-beat-anyone-with-full-squad-ten-hag/1897956/)
+
+As GPT-3.5, I can provide a summary of the article you shared. Manchester United manager Erik Ten Hag believes that his team has a squad capable of competing with the top teams in the Premier League. Despite recent struggles, Ten Hag is confident that the team will bounce back once key players return from injury. Manchester United is currently in seventh place in the standings, six points behind the top four. The team has failed to score in their last three games, including losses to Bournemouth and Bayern Munich, as well as a goalless draw against Liverpool. Ten Hag has had to deal with several injuries, with players like Casemiro, Lisandro Martinez, Mason Mount, Tyrell Malacia, Victor Lindelof, and Amad Diallo unavailable. However, Ten Hag remains optimistic about the team's prospects and believes that they can turn their season around. Manchester United will face West Ham United on Saturday and Aston Villa on Tuesday.
+
+Sat, 23 Dec 2023 06:45:02 +0000
+### [Rare 12th century AD sculptures found in Jammu](https://theprint.in/india/rare-12th-century-ad-sculptures-found-in-jammu/1897955/)
+
+Article found but Couldn't summarize 
+Jammu, Dec 23 (PTI) A pair of sculptures of Lord Shiva and Goddess Indrani, dating back to the 12th century AD, were unearthed here, officials said on Saturday. The ancient sculptures were found during digging at the Bhour camp in the outskirts of Jammu and were subsequently taken into possession by the Department of Archives, [&#8230;]
+
+Sat, 23 Dec 2023 06:30:56 +0000
+### [Rat-hole miners not to encash cheques given by Uttarakhand govt](https://theprint.in/india/rat-hole-miners-not-to-encash-cheques-given-by-uttarakhand-govt/1897948/)
+
+Article found but Couldn't summarize 
+Dehradun, Dec 23 (PTI) The rat-hole miners who played a vital role in the evacuation of 41 workers trapped in the Silkyara tunnel have refused to encash the cheques of Rs 50,000 given to them recently by Uttarakhand Chief Minister Pushkar Singh Dhami. The rat-hole miners said the chief minister&#8217;s gesture was &#8220;not commensurate&#8221; with [&#8230;]
+
+Sat, 23 Dec 2023 06:30:38 +0000
+### [Karti Chidambaram appears before ED in money laundering case](https://theprint.in/india/karti-chidambaram-appears-before-ed-in-money-laundering-case/1897946/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) Congress MP Karti Chidambaram appeared before the Enforcement Directorate here on Saturday in a money laundering case linked to the issuance of visa to some Chinese nationals in 2011, official sources said. The ED case pertains to the allegations of Rs 50 lakh being paid as kickbacks to Karti and [&#8230;]
+
+Sat, 23 Dec 2023 06:30:25 +0000
+### [Lifting hijab ban in Karnataka raises concern about ‘secular nature’ of educational spaces, says BJP](https://theprint.in/india/lifting-hijab-ban-in-karnataka-raises-concern-about-secular-nature-of-educational-spaces-says-bjp/1897945/)
+
+Article found but Couldn't summarize 
+Bengaluru, Dec 23 (PTI) The BJP on Saturday strongly reacted to Karnataka government&#8217;s decision to withdraw the ban on wearing hijab in educational institutions in the state, saying the ruling Congress is carrying forward the British policy of &#8216;divide and rule&#8217;. The saffron party also stated that the move raises concerns about the &#8220;secular nature&#8221; [&#8230;]
+
+Sat, 23 Dec 2023 06:30:14 +0000
+### [Parliament security breach: Accused Mahesh Kumawat’s custody extended till Jan 5](https://theprint.in/india/parliament-security-breach-accused-mahesh-kumawats-custody-extended-till-jan-5/1897944/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) A court here on Saturday extended till January 5 the police custody of Mahesh Kumawat, who has been arrested in connection with the December 13 Parliament security breach case. Special Judge Hardeep Kaur extended Kumawat&#8217;s custody on an application moved by the Delhi Police. The police told the court that [&#8230;]
+
+Sat, 23 Dec 2023 06:30:03 +0000
+### [President’s winter sojourn at Rashtrapati Nilayam in Hyderabad concludes](https://theprint.in/india/presidents-winter-sojourn-at-rashtrapati-nilayam-in-hyderabad-concludes-5/1897943/)
+
+Article found but Couldn't summarize 
+Hyderabad, Dec 23 (PTI) President Droupadi Murmu&#8217;s annual southern sojourn at the Rashtrapati Nilayam here concluded on Saturday. Telangana Governor Tamilisai Soundararajan, Chief Minister A Revanth Reddy, his ministerial colleagues and several other dignitaries gave a warm send-off to the President at the Air Force Station, Hakimpet here. The President arrived in Hyderabad on December [&#8230;]
+
 Sat, 23 Dec 2023 06:17:02 +0000
 ### [Pakistan President Alvi, caretaker PM Kakar express concern over police crackdown on Baloch protesters](https://theprint.in/world/pakistan-president-alvi-caretaker-pm-kakar-express-concern-over-police-crackdown-on-baloch-protesters/1897939/)
 

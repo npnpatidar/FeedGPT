@@ -5,6 +5,26 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Explain_FP.xml</link>
 		<description>Explain FP</description>
 		<item>
+			<title>Guess which is the most popular Christmas song of all time?</title>
+			<link>https://www.firstpost.com/explainers/guess-which-is-the-most-popular-christmas-song-of-all-time-13531802.html</link>
+			<description>Article found but Couldn't summarize 
+Guess which is the most popular Christmas song of all time?</description>
+			<pubDate>Sat, 23 Dec 2023 12:17:28 +0530</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/12/song-lead.jpg"></media:thumbnail>
+			<media:content url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/12/song-lead.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Is China rebuilding its old base for nuclear tests? Should India be concerned?</title>
+			<link>https://www.firstpost.com/explainers/china-rebuilding-its-old-base-for-nuclear-tests-should-india-be-concerned-13538262.html</link>
+			<description>Article found but Couldn't summarize 
+Is China rebuilding its old base for nuclear tests? Should India be concerned?</description>
+			<pubDate>Sat, 23 Dec 2023 12:17:15 +0530</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/12/G27H9-highres-1-1.jpg"></media:thumbnail>
+			<media:content url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/12/G27H9-highres-1-1.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Christmas pudding is a famous British food. Here's how it got there</title>
 			<link>https://www.firstpost.com/explainers/christmas-pudding-is-a-famous-british-food-heres-how-it-got-there-13518492.html</link>
 			<description>Article found but Couldn't summarize 

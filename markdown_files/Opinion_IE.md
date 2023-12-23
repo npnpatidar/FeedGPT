@@ -1,3 +1,8 @@
+Sat, 23 Dec 2023 07:00:29 +0000
+### [After witnessing Sakshi Malik’s fate, a question: Should I speak up against harassment?](https://indianexpress.com/article/opinion/columns/after-witnessing-sakshi-maliks-fate-a-question-9080036/)
+
+Article found but Couldn't summarize
+
 Sat, 23 Dec 2023 02:30:43 +0000
 ### [Ram Madhav writes: Opposition today needs to learn from Atal Bihari Vajpayee](https://indianexpress.com/article/opinion/columns/atal-bihari-vajpayee-independence-era-leadership-parliamentary-democracy-suspension-of-oppn-mps-9079536/)
 

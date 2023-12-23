@@ -1,3 +1,8 @@
+Sat, 23 Dec 2023 06:54:20 +0000
+### [Is Kim Jong Un grooming his daughter to rule North Korea?](https://indianexpress.com/article/explained/explained-global/kim-jong-un-grooming-his-daughter-to-rule-north-korea-9080018/)
+
+Article found but Couldn't summarize
+
 Sat, 23 Dec 2023 02:30:55 +0000
 ### [How the United States’ climate response has been lacking](https://indianexpress.com/article/explained/explained-climate/us-slacking-tackling-climate-change-9079572/)
 

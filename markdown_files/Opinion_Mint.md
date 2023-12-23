@@ -1,3 +1,9 @@
+Sat, 23 Dec 2023 12:12:22 +0530
+### [In sustainability, a mega opportunity for Indian banks](https://www.livemint.com/opinion/online-views/in-sustainability-a-mega-opportunity-for-indian-banks-11703169265673.html)
+
+Article found but Couldn't summarize 
+RBI's and Sebi's focus on steering substantial funding into sustainable avenues presents a multi-billion-dollar opportunity for domestic financial institutions
+
 Fri, 22 Dec 2023 13:45:43 +0530
 ### [Covid is back: Cause for concern, but not for panic](https://www.livemint.com/opinion/covid-is-back-cause-for-concern-but-not-for-panic-11703232594077.html)
 
