@@ -1,3 +1,9 @@
+Sat, 23 Dec 2023 18:58:57 +0530
+### [Is AppleGPT in the works? Here's what the report suggests...](https://www.livemint.com/technology/is-applegpt-in-the-works-heres-what-the-report-suggests-11703337898381.html)
+
+Article found but Couldn't summarize 
+Apple has reportedly developed an internal service similar to ChatGPT for employees to test new features, summarize text, and answer questions. Recent research suggests that Large Language Models (LLMs) may run on Apple devices, addressing the challenge of limited DRAM capacity.
+
 Sat, 23 Dec 2023 15:02:20 +0530
 ### [Top 5 tech gifts for this Christmas season: Sony PlayStation 5, Honor 90 5G, more](https://www.livemint.com/technology/top-5-tech-gifts-for-this-christmas-season-sony-playstation-5-honor-90-5g-more-11703323349311.html)
 

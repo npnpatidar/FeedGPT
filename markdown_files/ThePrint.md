@@ -1,3 +1,121 @@
+Sat, 23 Dec 2023 14:16:35 +0000
+### [HP: Stopped from passing through VIP lane at toll plaza, tourist opens fire; detained](https://theprint.in/india/hp-stopped-from-passing-through-vip-lane-at-toll-plaza-tourist-opens-fire-detained/1898401/)
+
+Article found but Couldn't summarize 
+Shimla (HP), Dec 23 (PTI) A tourist was detained on Saturday after he allegedly opened fire in the air when his car was stopped from passing through the VIP lane at a toll plaza on the Shimla-Kalka national highway, police said. The incident occurred at the Sanwara toll barrier, a few kilometres from Dharampur, in [&#8230;]
+
+Sat, 23 Dec 2023 14:16:23 +0000
+### [Climate change greater threat to human race than world wars: Sonam Wangchuk](https://theprint.in/india/climate-change-greater-threat-to-human-race-than-world-wars-sonam-wangchuk/1898400/)
+
+Article found but Couldn't summarize 
+Kokrajhar (Assam), Dec 23 (PTI) Ramon Magsaysay awardee Sonam Wangchuk on Saturday asserted that climate change poses a greater threat to the human race than world wars. He underlined the role of tribal communities in protecting the environment and urged the residents of modern cities to learn the sustainable way of living from the people [&#8230;]
+
+Sat, 23 Dec 2023 14:16:12 +0000
+### [Merchant vessel with 21 Indians hit by drone in Arabian Sea, no casualties](https://theprint.in/india/merchant-vessel-with-21-indians-hit-by-drone-in-arabian-sea-no-casualties/1898399/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) A suspected drone attack on a merchant vessel with 21 Indian crew in the Arabian Sea off India&#8217;s west coast caused an explosion on Saturday but there was no report of any casualties in the incident, according to military sources and a maritime agency. A P-8I maritime patrol aircraft, deployed [&#8230;]
+
+Sat, 23 Dec 2023 14:16:00 +0000
+### [Odisha advises elderly persons and those with comorbidities to wear masks](https://theprint.in/india/odisha-advises-elderly-persons-and-those-with-comorbidities-to-wear-masks/1898398/)
+
+Article found but Couldn't summarize 
+Bhubaneswar, Dec 23 (PTI) With detection of a fresh Covid-19 case in the state and the spread of JN.1 variant in some parts of southern India, the Odisha government on Saturday advised elderly persons and those with comorbidities to wear masks. Taking to its official ‘X’ handle, Odisha Health and Family Welfare (H&#38;FW) department wrote, [&#8230;]
+
+Sat, 23 Dec 2023 14:15:45 +0000
+### [ED arrests three vivo-India executives in money laundering case](https://theprint.in/india/ed-arrests-three-vivo-india-executives-in-money-laundering-case/1898397/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) The Enforcement Directorate has arrested three vivo-India executives in connection with its money laundering probe against the Chinese smartphone-maker and some others, official sources said on Saturday. Interim CEO of vivo-India Hong Xuquan alias Terry, Chief Financial Officer (CFO)Harinder Dahiya and consultant Hemant Munjal have been taken into custody under [&#8230;]
+
+Sat, 23 Dec 2023 14:15:26 +0000
+### [Jagannath temple video row: Cong demands CM’s apology](https://theprint.in/india/jagannath-temple-video-row-cong-demands-cms-apology/1898396/)
+
+Article found but Couldn't summarize 
+Bhubaneswar, Dec 23 (PTI) The row over social media influencer and Curly Tales founder Kamiya Jani’s entry into Shree Jagannath Temple intensified on Saturday with the opposition Congress joining the bandwagon and a local cultural outfit staging protest here demanding action against people who hurt religious sentiments of devotees. The issue has been on the [&#8230;]
+
+Sat, 23 Dec 2023 14:15:14 +0000
+### [Suspected drone attack on merchant ship off Gujarat coast; crew, vessel safe: Coast Guard](https://theprint.in/india/suspected-drone-attack-on-merchant-ship-off-gujarat-coast-crew-vessel-safe-coast-guard/1898395/)
+
+As GPT-3.5, I can provide a summary of the article you shared. A suspected drone attack caused an explosion and fire on a merchant ship off the Gujarat coast. The ship, named Chem Pluto, had 21 Indians onboard and was on its way to New Mangalore from Saudi Arabia. The crew and the vessel are reported to be safe. The fire has been extinguished, and the ship's engineers are working to restore its power supply. The Indian Coast Guard Ship Vikram was diverted to the site, and an investigation is underway to determine if it was indeed a drone attack. Please note that this summary is based on the information provided in the article.
+
+Sat, 23 Dec 2023 14:15:03 +0000
+### [French airport provides makeshift base for Indians on grounded flight](https://theprint.in/india/french-airport-provides-makeshift-base-for-indians-on-grounded-flight/1898394/)
+
+Article found but Couldn't summarize 
+PARIS (Reuters) - Around 300 Indian nationals who were on board a plane grounded in France on suspicion of human trafficking were being cared for on Saturday in the hall of an airport in the eastern
+
+Sat, 23 Dec 2023 14:15:03 +0000
+### [Death toll in China’s earthquake rises to 148 as focus shifts to reconstruction](https://theprint.in/world/death-toll-in-chinas-earthquake-rises-to-148-as-focus-shifts-to-reconstruction/1898393/)
+
+Article found but Couldn't summarize 
+Beijing, Dec 23 (PTI) The death toll from the 6.2-magnitude earthquake that jolted northwest China earlier this week has risen to 148 while local authorities stepped up focus on reconstruction and rehabilitation after five days of gruelling relief and rescue operations amid biting cold conditions. The quake, the worst in nine years in the region, [&#8230;]
+
+Sat, 23 Dec 2023 14:02:02 +0000
+### [Some analysts, watchdogs express concern over China’s deployment of “consular volunteers”: Report](https://theprint.in/world/some-analysts-watchdogs-express-concern-over-chinas-deployment-of-consular-volunteers-report/1898387/)
+
+Article found but Couldn't summarize 
+Washington DC [US], December 23 (ANI): Some analysts and watchdogs have expressed concern over the deployment of so-called &#8220;consular volunteers,&#8221; and see them as part of the Chinese Communist Party&#8217;s &#8220;long arm&#8221; abroad, VOA News reported. They have expressed fear that these &#8220;consular volunteers&#8221; could be used to monitor dissent, something China denies. Chung Ching [&#8230;]
+
+Sat, 23 Dec 2023 14:01:33 +0000
+### [2 fresh Covid cases detected in Gurugram district; active cases rise to 4](https://theprint.in/india/2-fresh-covid-cases-detected-in-gurugram-district-active-cases-rise-to-4/1898386/)
+
+As GPT-3.5, I can provide a summary of the article you shared. The number of active Covid cases in Gurugram district has reached four, as two more cases were detected. A 36-year-old man who had returned from Indonesia tested positive for Covid after experiencing symptoms such as sore throat, cold, and cough. Additionally, a 32-year-old woman also tested positive, although no travel history was found for her. The health department collected samples from 102 people for testing and found three women and one man infected. All patients with mild symptoms are currently in home isolation. Please note that this summary is based on the information provided in the article.
+
+Sat, 23 Dec 2023 14:01:20 +0000
+### [Air quality in ‘severe’ category in Delhi, maximum temperature 24.4 deg C](https://theprint.in/india/air-quality-in-severe-category-in-delhi-maximum-temperature-24-4-deg-c/1898385/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) The Air Quality Index (AQI) in the national capital on Saturday was recorded in the &#8216;severe&#8217; category, the Central Pollution Control Board (CPCB) said. Delhi recorded a minimum temperature of 9.6 degrees Celsius, two notches above the season&#8217;s average, during the day. The maximum temperature settled at 24.4 degrees Celsius, [&#8230;]
+
+Sat, 23 Dec 2023 14:01:05 +0000
+### [Labourer electrocuted at under-construction hostel building in Kota](https://theprint.in/india/labourer-electrocuted-at-under-construction-hostel-building-in-kota/1898384/)
+
+Article found but Couldn't summarize 
+Kota (Rajasthan), Dec 23 (PTI) A 23-year-old labourer died from electrocution while using a marble cutter at an under-construction hostel building in Rajasthan&#8217;s Kota, a police officer said on Saturday. The police have lodged a case of accidental death under CrPC Section 174 and begun investigation. According to the police, Anil Meghwal, 23, a resident [&#8230;]
+
+Sat, 23 Dec 2023 14:00:54 +0000
+### [In future, councillors who create ruckus in MCD House may face tough action, says Mayor](https://theprint.in/india/in-future-councillors-who-create-ruckus-in-mcd-house-may-face-tough-action-says-mayor/1898383/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) Hours after the MCD House was adjourned due to ruckus during its proceedings, Delhi Mayor Shelly Oberoi on Saturday said in the future, councillors who &#8220;resort to such behaviour&#8221; may face tough action. The House was adjourned after just less than an hour of business due to protest by opposition [&#8230;]
+
+Sat, 23 Dec 2023 14:00:42 +0000
+### [Two farmers killed as tractor lands in pond](https://theprint.in/india/two-farmers-killed-as-tractor-lands-in-pond/1898382/)
+
+Article found but Couldn't summarize 
+Shahdol (MP), Dec 23 (PTI) Two farmers were killed and another injured when the tractor they were riding fell into a pond in Madhya Pradesh&#8217;s Shahdol district on Saturday, police said. The incident occurred in Bijha village when the farmers were headed to their agricultural fields for sowing, said Beohari police station in-charge Munnalal Rahangdale. [&#8230;]
+
+Sat, 23 Dec 2023 14:00:29 +0000
+### [Previous govts did nothing but loot Jharkhand for 20 years: Soren](https://theprint.in/india/previous-govts-did-nothing-but-loot-jharkhand-for-20-years-soren/1898381/)
+
+Article found but Couldn't summarize 
+Ramgarh (Jharkhand), Dec 23 (PTI) Chief Minister Hemant Soren on Saturday alleged that the previous governments in Jharkhand did nothing but loot the state for nearly 20 years since its formation in 2000. The Soren-led JMM-Congress-RJD government came to power in the mineral-rich state in 2019. Addressing a public rally in Gola in Ramgarh district [&#8230;]
+
+Sat, 23 Dec 2023 14:00:17 +0000
+### [Move to resume government bus services in Manipur suffers setback](https://theprint.in/india/move-to-resume-government-bus-services-in-manipur-suffers-setback/1898380/)
+
+Article found but Couldn't summarize 
+Imphal, Dec 23 (PTI) Attempts to resume Manipur State Transport (MST) services on Saturday suffered a setback after buses heading from the state capital to the hill districts could not go beyond Imphal valley. Officials said one MST bus left for the northern district of Senapati through NH-2 while another left from Malom for the [&#8230;]
+
+Sat, 23 Dec 2023 14:00:02 +0000
+### [BJP meet: Party eyes big boost in vote share to score ‘overwhelming’ win in 2024](https://theprint.in/india/bjp-meet-party-eyes-big-boost-in-vote-share-to-score-overwhelming-win-in-2024/1898379/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) The BJP has set its sights on an &#8220;overwhelming&#8221; win in the 2024 Lok Sabha elections, with Prime Minister Narendra Modi asking key organisational leaders to work towards boosting the party&#8217;s vote share by 10 per cent, sources said. Addressing the BJP&#8217;s national office-bearers and state presidents on the concluding [&#8230;]
+
+Sat, 23 Dec 2023 13:47:02 +0000
+### [Pakistani author Hanif Mohammad returns award in protest against action on Balochistan march](https://theprint.in/world/pakistani-author-hanif-mohammad-returns-award-in-protest-against-action-on-balochistan-march/1898377/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 23 (ANI): Amid the ongoing Baloch protest in Pakistan, Pakistani author and journalist Hanif Mohammad returned his &#8220;Sitara e Imtiaz&#8221; award on Saturday in protest against Pakistan&#8217;s action on the Balochistan march. In a social media post, Hanif accused the state government of abducting and torturing Baloch citizens. https://x.com/mohammedhanif/status/1738514456756326454?s=20 In a post [&#8230;]
+
+Sat, 23 Dec 2023 13:45:37 +0000
+### [Cricket-S Africa hope to unleash full pace attack on India in first Test](https://theprint.in/sport/cricket-s-africa-hope-to-unleash-full-pace-attack-on-india-in-first-test/1898373/)
+
+Article found but Couldn't summarize 
+JOHANNESBURG (Reuters) - South Africa are hopeful that both fast bowlers Kagiso Rabada and Lungi Ngidi will be available for selection in the first test against India that gets underway in Pretoria on
+
 Sat, 23 Dec 2023 13:16:02 +0000
 ### [Soccer-O’Neil, Klopp raise concerns over crammed Christmas schedule](https://theprint.in/sport/soccer-oneil-klopp-raise-concerns-over-crammed-christmas-schedule/1898346/)
 
