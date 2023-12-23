@@ -1,3 +1,15 @@
+Sun, 24 Dec 2023 02:50:00 +0530
+### [What’s the latest blip in India-Maldives ties? | Explained](https://www.thehindu.com/news/international/whats-the-latest-blip-in-india-maldives-ties-explained/article67669814.ece)
+
+Article found but Couldn't summarize 
+Why has the government of Mohamed Muizzu decided against renewing a hydrographic survey agreement with India? What are the implications, coming soon after a pledge to send back Indian troops stationed in the Indian Ocean archipelago?
+
+Sun, 24 Dec 2023 02:30:00 +0530
+### [Will the new telecom Bill streamline the sector? | Explained](https://www.thehindu.com/news/national/will-the-new-telecom-bill-streamline-the-sector-explained/article67669834.ece)
+
+Article found but Couldn't summarize 
+How does the government plan to consolidate the law for wireless networks and Internet service providers? Has the licensing procedure been eased for telecom operators? What are industry players saying? What are the concerns raised by digital rights groups?
+
 Sun, 24 Dec 2023 02:05:00 +0530
 ### [How is the U.K. cracking down on immigration? | Explained](https://www.thehindu.com/news/international/how-is-the-uk-cracking-down-on-immigration-explained/article67669799.ece)
 

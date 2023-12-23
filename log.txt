@@ -2999,3 +2999,10 @@ Started at 2023-12-23 21:15:13
 Finished at 2023-12-23 21:16:47
 Total time taken: 93.86549830436707 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2023-12-23 22:16:48
+2 Feed entries have been written to feeds/Explained_TH.xml
+4 Feed entries have been written to feeds/ThePrint.xml
+6 new entries have been added
+Finished at 2023-12-23 22:20:09
+Total time taken: 201.2824456691742 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
