@@ -256,6 +256,12 @@ Mayawati has so far maintained an equidistant position from both the BJP-led Nat
 No Article text 
 The attack took place on a road that connects Dera-Ki-Gali and Buffliaz areas in the Surankote tehsil of Poonch, which has witnessed a spike in militant activities in recent years.
 
+2023-12-22T09:30:12+05:30
+### [How Brand India Has Been Hurt By Modi Government's Policies](https://thewire.in/video/the-revenge-interview-karan-thapar)
+
+No Article text 
+As part of a new end-of-year tradition, it's an opportunity for a well-known and highly regarded individual, possessing a sense of wit and satire along with a flair for repartee, to interview Karan Thapar and turn the tables.
+
 2023-12-22T08:46:28+05:30
 ### [‘Watershed Moment,’ Says Modi as Rajya Sabha Passes Three Criminal Bills in Absence of Opposition](https://thewire.in/government/watershed-moment-says-modi-as-rajya-sabha-passes-three-criminal-bills-in-absence-of-opposition)
 

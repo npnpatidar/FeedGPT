@@ -2979,3 +2979,10 @@ Started at 2023-12-23 18:21:30
 Finished at 2023-12-23 18:30:17
 Total time taken: 527.1020567417145 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2023-12-23 19:13:51
+1 Feed entries have been written to feeds/The_Wire.xml
+11 Feed entries have been written to feeds/ThePrint.xml
+12 new entries have been added
+Finished at 2023-12-23 19:19:04
+Total time taken: 312.1464536190033 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
