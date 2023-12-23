@@ -1,3 +1,122 @@
+Sat, 23 Dec 2023 18:15:42 +0000
+### [Soccer-Llorente earns 10-man Atletico 1-0 win over Sevilla](https://theprint.in/sport/soccer-llorente-earns-10-man-atletico-1-0-win-over-sevilla/1898594/)
+
+Article found but Couldn't summarize 
+MADRID (Reuters) - Marcos Llorente's second-half goal earned Atletico Madrid a hard-fought 1-0 win over Sevilla on Saturday as the hosts reclaimed third spot in the LaLiga standings. Diego Simeone's
+
+Sat, 23 Dec 2023 18:15:33 +0000
+### [Soccer-Man United slump again, Tottenham move up to fourth](https://theprint.in/sport/soccer-man-united-slump-again-tottenham-move-up-to-fourth/1898592/)
+
+Article found but Couldn't summarize 
+By Martyn Herman LONDON (Reuters) - Gloom descended on Manchester United again as they began their festive fixtures with a 2-0 Premier League defeat at West Ham United on Saturday -- a 13th loss of
+
+Sat, 23 Dec 2023 18:15:14 +0000
+### [Sombre Bethlehem marks Christmas with vigil as bombs rain on Gaza](https://theprint.in/world/sombre-bethlehem-marks-christmas-with-vigil-as-bombs-rain-on-gaza/1898590/)
+
+Article found but Couldn't summarize 
+BETHLEHEM, Occupied West Bank (Reuters) - Palestinian Christians held a sombre Christmas vigil in Bethlehem on Saturday, with candle-lit hymns and prayers for peace in Gaza instead of the usual
+
+Sat, 23 Dec 2023 18:15:04 +0000
+### [Ukrainian Catholic church says document on blessing same-sex marriage does not apply](https://theprint.in/world/ukrainian-catholic-church-says-document-on-blessing-same-sex-marriage-does-not-apply/1898588/)
+
+Article found but Couldn't summarize 
+(Reuters) - The head of Ukraine's eastern-rite Catholic church on Saturday said a document endorsed by Pope Francis this week permitting blessings for same-sex couples did not apply to his church and
+
+Sat, 23 Dec 2023 18:15:03 +0000
+### [Telangana records 12 new Covid cases](https://theprint.in/india/telangana-records-12-new-covid-cases/1898587/)
+
+Article found but Couldn't summarize 
+Hyderabad, Dec 23 (PTI) Telangana on Saturday logged 12 new COVID-19 cases with Hyderabad reporting the highest number of infections at nine, a health department bulletin said. The remaining three cases were reported from Rangareddy, Sangareddy and Warangal districts. No fresh fatalities were reported in the state, it said. The total number of cases under [&#8230;]
+
+Sat, 23 Dec 2023 18:02:02 +0000
+### [US Air Force plans to reclaim Pacific island airfield to counter China](https://theprint.in/world/us-air-force-plans-to-reclaim-pacific-island-airfield-to-counter-china/1898585/)
+
+Article found but Couldn't summarize 
+Washington DC [US], December 23 (ANI): The US Air Force plans to bring the Pacific island airfield that launched the atomic bombings of Japan back into commission, CNN reported citing the service&#8217;s top officer in the Pacific. The US decision comes as Washington attempts to broaden its basing options in case of any hostilities with [&#8230;]
+
+Sat, 23 Dec 2023 18:00:28 +0000
+### [More than 1,000 cases of child malnutrition in Thane district: officials](https://theprint.in/india/more-than-1000-cases-of-child-malnutrition-in-thane-district-officials/1898584/)
+
+Article found but Couldn't summarize 
+Thane, Dec 23 (PTI) More than 1,000 cases of child malnutrition have been found in Thane district neighbouring Mumbai, officials said on Saturday.Every effort will be made to end malnourishment in the district within six months, Thane Zilla Parishad chief executive officer Manuj Jindal on Friday said after visiting the families of a few malnourished [&#8230;]
+
+Sat, 23 Dec 2023 18:00:15 +0000
+### [Telangana CM announces Rs 5 lakh accident insurance policy for gig workers, cab, auto drivers](https://theprint.in/india/telangana-cm-announces-rs-5-lakh-accident-insurance-policy-for-gig-workers-cab-auto-drivers/1898583/)
+
+As GPT-3.5, I can provide a summary of the article you shared. Telangana Chief Minister A Revanth Reddy has announced that the state government will provide Rs 5 lakh accident insurance to gig workers involved in food delivery, driving cabs, and auto-rickshaws. Additionally, the government will offer Rs 10 lakh health cover under the Rajiv Arogyasri scheme. The chief minister also mentioned that the state government will provide social security to workers in the unorganized sectors and make a policy decision in this regard. He further stated that the government will study the existing policy for gig workers in Rajasthan and introduce an effective law in the next state budget session. The chief minister advised cab and auto-rickshaw drivers, as well as food delivery executives, to submit their applications online or physically in the Grama Sabhas.
+
+Sat, 23 Dec 2023 18:00:02 +0000
+### [Drone hits merchant vessel with 21 Indians off Porbandar coast, Navy deploys patrol aircraft](https://theprint.in/india/drone-hits-merchant-vessel-with-21-indians-off-porbandar-coast-navy-deploys-patrol-aircraft/1898581/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) A merchant vessel, with 21 Indian crew, was hit by a suspected drone around 217 nautical miles off the Porbandar coast in the Arabian Sea on Saturday but there was no report of any casualties in the incident, Indian military sources and a maritime security agency said. The incident comes [&#8230;]
+
+Sat, 23 Dec 2023 17:45:13 +0000
+### [Contractual employee of Delhi hospital accuses manager, supervisors of molesting her](https://theprint.in/india/contractual-employee-of-delhi-hospital-accuses-manager-supervisors-of-molesting-her/1898577/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) A woman, working as a housekeeping staff on a contract basis in North Delhi&#8217;s Burari Government Hospital, has accused her manager and three supervisors of molesting and harassing her and two other employees, police said. Based on the woman&#8217;s complaint, her manager Rajkumar and three supervisors Neeraj, Adarsh and Deepak [&#8230;]
+
+Sat, 23 Dec 2023 17:45:12 +0000
+### [Soccer-Solanke hat-trick earns Bournemouth late win over Nuno’s Forest](https://theprint.in/sport/soccer-solanke-hat-trick-earns-bournemouth-late-win-over-nunos-forest/1898576/)
+
+Article found but Couldn't summarize 
+NOTTINGHAM, England (Reuters) -Dominic Solanke scored a hat-trick as Bournemouth ruined the managerial debut of Nuno Espirito Santo at 10-man Nottingham Forest with a pulsating last-gasp 3-2 Premier
+
+Sat, 23 Dec 2023 17:45:02 +0000
+### [Nava Kerala Sadas concludes amidst intense protests; CM Vijayan targets Centre, Congress](https://theprint.in/india/nava-kerala-sadas-concludes-amidst-intense-protests-cm-vijayan-targets-centre-congress/1898575/)
+
+Article found but Couldn't summarize 
+Thiruvananthapuram, Dec 23 (PTI) The 36-day-long Nava Kerala Sadas, an ambitious outreach programme of the Left government in the state, drew to a close here on Saturday amidst intense statewide protests staged by opposition Congress, BJP and their youth outfits. The Sadas, which began in the northernmost constituency of Manjeswsram in Kasaragod district on December [&#8230;]
+
+Sat, 23 Dec 2023 17:32:02 +0000
+### [Hotter weather due to climate change could lead to more mosquitos: Study](https://theprint.in/science/hotter-weather-due-to-climate-change-could-lead-to-more-mosquitos-study/1898572/)
+
+Article found but Couldn't summarize 
+Virginia [US], December 23 (ANI): A recent study conducted by Virginia Commonwealth University scientists found that a warmer environment may result in more mosquitos as predators struggle to maintain their number. As the cover feature in Ecology, a journal published by the Ecological Society of America, the study &#8212; &#8220;Warming and Top-Down Control of Stage-Structured [&#8230;]
+
+Sat, 23 Dec 2023 17:30:24 +0000
+### [Soccer-Solanke hat-trick earns Bournemouth win over Nuno’s Forest](https://theprint.in/sport/soccer-solanke-hat-trick-earns-bournemouth-win-over-nunos-forest/1898568/)
+
+Article found but Couldn't summarize 
+NOTTINGHAM, England (Reuters) - Dominic Solanke scored a hat-trick as Bournemouth ruined the managerial debut of Nuno Espirito Santo at 10-man Nottingham Forest with a pulsating last-gasp 3-2 Premier
+
+Sat, 23 Dec 2023 17:30:15 +0000
+### [2 children dead, as many injured as dilapidated building collapses in UP](https://theprint.in/india/2-children-dead-as-many-injured-as-dilapidated-building-collapses-in-up/1898567/)
+
+Article found but Couldn't summarize 
+Siddharthnagar (UP), Dec 23 (PTI) Two children died and as many were injured when a dilapidated building collapsed in a village here Saturday evening, police said. The incident occurred in a village under the Shohratgarh police station area, they said, adding that the kids were playing in the building. Local Station House Officer (SHO) Raj [&#8230;]
+
+Sat, 23 Dec 2023 17:30:06 +0000
+### [Hamas says lost contact with group responsible for five Israeli hostages](https://theprint.in/world/hamas-says-lost-contact-with-group-responsible-for-five-israeli-hostages/1898566/)
+
+Article found but Couldn't summarize 
+CAIRO (Reuters) - Hamas said on Saturday it has lost contact with a group responsible for five Israeli hostages being held captive in the Gaza Strip due to Israeli bombardment. The Palestinian
+
+Sat, 23 Dec 2023 17:30:03 +0000
+### [Protest near Mamata’s home: City court grants bail to 55 women, 4 men sent to police custody](https://theprint.in/india/protest-near-mamatas-home-city-court-grants-bail-to-55-women-4-men-sent-to-police-custody/1898565/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 23 (PTI) A city court on Saturday granted interim bail to 55 women school teacher jobseekers but sent four of their male counterparts to police remand for staging a protest near West Bengal Chief Minister Mamata Banerjee&#8217;s residence at Kalighat here, a police officer said. The four were sent to police custody till [&#8230;]
+
+Sat, 23 Dec 2023 17:17:42 +0000
+### [Indian Coast Guard responds as drone strikes India-bound merchant vessel MV Chem Pluto](https://theprint.in/world/indian-coast-guard-responds-as-drone-strikes-india-bound-merchant-vessel-mv-chem-pluto/1898562/)
+
+Article found but Couldn't summarize 
+By Ajit Dubey New Delhi [India], December 23 (ANI): An India-bound merchant vessel MV Chem Pluto with 20 Indian and one Vietnamese crew member caught fire after it was attacked by a suspected drone and was later secured by the Indian Coast Guard (ICG) on Saturday, ICG said in an official statement. The merchant vessel [&#8230;]
+
+Sat, 23 Dec 2023 17:17:32 +0000
+### [Adjuvants, pesticides disrupt honey bee’s sense of smell: Study](https://theprint.in/science/adjuvants-pesticides-disrupt-honey-bees-sense-of-smell-study/1898560/)
+
+Article found but Couldn't summarize 
+Washington DC [US], December 23 (ANI): Pesticide sprays have long been recognised as a threat to honey bees. In a new study, researchers uncovered the influence of such sprays on bees&#8217; sense of smell, which could disrupt their social signalling. Honey bees live in dynamic communities and constantly communicate with each other using chemicals that [&#8230;]
+
+Sat, 23 Dec 2023 17:17:16 +0000
+### [UAE: Dubai’s RTA organises 4th forum to discuss ‘Legal Structure of Intelligent Transport’](https://theprint.in/world/uae-dubais-rta-organises-4th-forum-to-discuss-legal-structure-of-intelligent-transport/1898558/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 23 (ANI/WAM): Dubai&#8217;s Roads and Transport Authority (RTA) has recently organised the 4th Legal Forum under the theme &#8216;The Legal Structure of Intelligent Transport&#8217;. The event discussed laws related to intelligent transportation and artificial intelligence and how to use them in transportation applications. Shehab Hamad Bu Shehab, Executive Director of the Legal [&#8230;]
+
 Sat, 23 Dec 2023 17:02:41 +0000
 ### [Hamdan bin Zayed issues resolution regarding invasive marine species policy in Abu Dhabi](https://theprint.in/world/hamdan-bin-zayed-issues-resolution-regarding-invasive-marine-species-policy-in-abu-dhabi/1898539/)
 

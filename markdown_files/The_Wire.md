@@ -1,3 +1,9 @@
+2023-12-23T22:50:58+05:30
+### [India Has Lodged Complaint with US: Jaishankar on Graffiti Sprayed on Hindu Temple](https://thewire.in/diplomacy/india-has-lodged-complaint-with-us-jaishankar-on-graffiti-sprayed-on-hindu-temple)
+
+No Article text 
+The graffiti on the temple included the word ‘Khalistan’, as per photos of it circulated on social media.
+
 2023-12-23T21:03:01+05:30
 ### [Seasoned Humanitarian Workers Say They've Seen Nothing Like Gaza: UN Chief Guterres](https://thewire.in/world/guterres-ceasefire-gaza-press-conference)
 
