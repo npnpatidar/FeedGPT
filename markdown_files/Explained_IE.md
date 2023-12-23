@@ -1,3 +1,8 @@
+Sat, 23 Dec 2023 10:57:01 +0000
+### [How did the tradition of the Christmas tree emerge?](https://indianexpress.com/article/explained/explained-culture/tradition-christmas-tree-9080290/)
+
+Article found but Couldn't summarize
+
 Sat, 23 Dec 2023 08:55:58 +0000
 ### [The true story of the Jolly Joseph case, now subject of a Netflix documentary](https://indianexpress.com/article/explained/jolly-joseph-murders-koodatha-netflix-9079974/)
 

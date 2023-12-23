@@ -1,3 +1,9 @@
+Sat, 23 Dec 2023 16:28:23 +0530
+### [Vantage | Why Xi Jinping is after video games now](https://www.firstpost.com/opinion/vantage-why-xi-jinping-is-after-video-games-now-13538902.html)
+
+Article found but Couldn't summarize 
+Vantage | Why Xi Jinping is after video games now
+
 Sat, 23 Dec 2023 14:32:11 +0530
 ### [The butterfly effect: How India’s defence indigenisation impacts global geo-political dynamics](https://www.firstpost.com/opinion/the-butterfly-effect-how-indias-defence-indigenisation-impacts-global-geo-political-dynamics-13538762.html)
 

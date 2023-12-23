@@ -1,3 +1,8 @@
+Sat, 23 Dec 2023 10:30:10 +0000
+### [When democracy fails in its temple: Behind the suspension of 146 MPs](https://indianexpress.com/article/opinion/columns/democracy-fails-temple-behind-suspension-146-mp-9080179/)
+
+Article found but Couldn't summarize
+
 Sat, 23 Dec 2023 08:45:34 +0000
 ### [Bangladesh Elections and extremists: The tragic history and dangers today](https://indianexpress.com/article/opinion/bangladesh-elections-extremists-history-danger-9080145/)
 

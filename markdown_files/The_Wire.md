@@ -1,3 +1,15 @@
+2023-12-23T16:24:04+05:30
+### [WFI Saga Proves Once Again That Sexual Harassment Is a Crime Steeped in Power](https://thewire.in/rights/wfi-saga-proves-once-again-that-sexual-harassment-is-a-crime-steeped-in-power)
+
+No Article text 
+Any hope that the protests led by country's top women wrestlers would yield results in the form of punishment to Brij Bhushan Singh was buried when former WFI president's close aide was elected as its new chief on December 21.
+
+2023-12-23T16:01:29+05:30
+### [Karnataka CM Siddaramaiah Says Hijab Ban in State Schools Will Be Revoked](https://thewire.in/government/karnataka-cm-siddaramaiah-says-hijab-ban-in-state-schools-will-be-revoked)
+
+No Article text 
+State BJP leaders have criticised Siddaramaiah's decision to revoke the ban, saying that allowing religious attire in educational institutes would ‘divide young minds along religious lines’.
+
 2023-12-23T15:28:52+05:30
 ### [Civilians Killed in the Aftermath of Poonch Terror Attack Were Tortured to Death, Allege Families](https://thewire.in/security/civilians-killed-in-the-aftermath-of-poonch-terror-attack-were-tortured-to-death-allege-families)
 

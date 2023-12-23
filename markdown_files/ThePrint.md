@@ -1,3 +1,123 @@
+Sat, 23 Dec 2023 11:15:29 +0000
+### [Supply of ‘fake’ drugs in Delhi govt hospitals: LG recommends CBI inquiry; AAP demands action against officials](https://theprint.in/india/supply-of-fake-drugs-in-delhi-govt-hospitals-lg-recommends-cbi-inquiry-aap-demands-action-against-officials/1898208/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) Delhi Lieutenant Governor V K Saxena has recommended a CBI inquiry into the alleged supply of drugs that &#8220;failed quality standard tests&#8221; and have the &#8220;potential of endangering lives&#8221; in Delhi government hospitals, Raj Niwas officials said on Saturday. Reacting to the development, Delhi Health Minister Saurabh Bharadwaj said that [&#8230;]
+
+Sat, 23 Dec 2023 11:15:16 +0000
+### [Combination Confusion: Rahul’s keeping, ideal choice between Prasidh and Mukesh](https://theprint.in/sport/combination-confusion-rahuls-keeping-ideal-choice-between-prasidh-and-mukesh-5/1898207/)
+
+Article found but Couldn't summarize 
+Centurion, Dec 23 (PTI) The best combination as per conditions isn&#8217;t always a team&#8217;s best eleven and it will certainly be a struggle for India to find the right blend going into the opening Test against South Africa on ‘Boxing Day’. At least two slots will give head coach Rahul Dravid sleepless nights. The teething [&#8230;]
+
+Sat, 23 Dec 2023 11:15:09 +0000
+### [Where has the snow gone? Most Canadians will wake up to a green Christmas](https://theprint.in/environment/where-has-the-snow-gone-most-canadians-will-wake-up-to-a-green-christmas/1898206/)
+
+Article found but Couldn't summarize 
+By David Ljunggren OTTAWA (Reuters) - All over Canada, a giant northern country known for its biting winters and drifts so deep they can swallow a car, people will wake up this Christmas with a simple
+
+Sat, 23 Dec 2023 11:15:02 +0000
+### [Relief activities continue in TN’s Thoothukudi district, NDRF reach marooned](https://theprint.in/india/relief-activities-continue-in-tns-thoothukudi-district-ndrf-reach-marooned-2/1898205/)
+
+Article found but Couldn't summarize 
+Thoothukudi (TN), Dec 23 (PTI) Relief activities continued in the rain-ravaged coastal district of Thoothukudi in Tamil Nadu while an NDRF team accompanied by police rescued the people marooned in the SIPCOT industrial area on Saturday. The NDRF team along with the SIPCOT police rescued the flood-affected women and children by boat and provided them [&#8230;]
+
+Sat, 23 Dec 2023 11:02:40 +0000
+### [Impact of Buddhism extends beyond realm of faith in Bhutan: Report](https://theprint.in/world/impact-of-buddhism-extends-beyond-realm-of-faith-in-bhutan-report/1898191/)
+
+Article found but Couldn't summarize 
+Thimphu [Bhutan], December 23 (ANI): Buddhism had an influence that went beyond religion. Bhutan&#8217;s art, architecture, and even government were influenced by it, Bhutan Live reported. A pillar of Bhutanese society, the concept of Gross National Happiness reflects the Buddhist emphasis on compassion, personal serenity, and harmony with the environment. Bhutan is nestled in the [&#8230;]
+
+Sat, 23 Dec 2023 11:02:27 +0000
+### [Gilgit-Baltistan: Protest against surging wheat prices gains momentum](https://theprint.in/world/gilgit-baltistan-protest-against-surging-wheat-prices-gains-momentum/1898188/)
+
+Article found but Couldn't summarize 
+Gilgit-Baltistan [PoK], December 23 (ANI): In response to the spike in wheat prices, the Awami Action Committee and the All-Party Alliance started region-wide protests in Pakistan-occupied Gilgit-Baltistan on December 21. Earlier, the leaders of various political and religious parties had attended a joint meeting presided over by Ehsan Ali, the chairman of the Awami Action [&#8230;]
+
+Sat, 23 Dec 2023 11:02:13 +0000
+### [‘8 Mile’ fame Nashawn Breedlove cause of death revealed](https://theprint.in/feature/8-mile-fame-nashawn-breedlove-cause-of-death-revealed/1898186/)
+
+Article found but Couldn't summarize 
+Washington DC [US], December 23 (ANI): Actor and rapper Nashawn Breedlove, who was known for battle-rapping with American rapper and songwriter Eminem in the film &#8216;8 Mile,&#8217; cause of death has been revealed. The rapper-actor died of acute intoxication by the combined effects of fentanyl, acetyl fentanyl, cocaine and ethanol, according to an autopsy report [&#8230;]
+
+Sat, 23 Dec 2023 11:02:01 +0000
+### [Plug N Ride Motors Pvt Ltd unveils Innovative Electric Two-Wheeler, “LoadRunner,” at EV Expo](https://theprint.in/ani-press-releases/plug-n-ride-motors-pvt-ltd-unveils-innovative-electric-two-wheeler-loadrunner-at-ev-expo/1898184/)
+
+Article found but Couldn't summarize 
+VMPL New Delhi [India], December 23: Zafar Equbal, the visionary founder of Plug N Ride Motors Pvt Ltd, a pioneering force in the electric vehicle sector, proudly introduced its latest innovation, the LoadRunner, at the recent EV EXPO in New Delhi. This 100 per cent indigenous electric two-wheeler is poised to revolutionize last-mile delivery solutions [&#8230;]
+
+Sat, 23 Dec 2023 11:00:47 +0000
+### [AAP to seek legal opinion on fresh ED summons to Kejriwal: Gopal Rai](https://theprint.in/india/aap-to-seek-legal-opinion-on-fresh-ed-summons-to-kejriwal-gopal-rai/1898182/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) The Aam Aadmi Party (AAP) will take legal opinion on the Enforcement Directorate&#8217;s fresh summons to Chief Minister Arvind Kejriwal after he returns from his Vipassana, senior party leader Gopal Rai said on Saturday. After Kejriwal skipped the second summons on Thursday, the ED on Friday again issued a notice [&#8230;]
+
+Sat, 23 Dec 2023 11:00:34 +0000
+### [J-K govt announces compensation and jobs to kin of 3 civilians killed in Poonch](https://theprint.in/india/j-k-govt-announces-compensation-and-jobs-to-kin-of-3-civilians-killed-in-poonch/1898180/)
+
+Article found but Couldn't summarize 
+Jammu, Dec 23 (PTI) The Jammu and Kashmir administration on Saturday announced compensation and jobs to the kin of the three civilians who were found dead near the site of an anti-terrorist operation in Poonch district. Political parties in Jammu and Kashmir have alleged that the three men, who were found dead under mysterious circumstances [&#8230;]
+
+Sat, 23 Dec 2023 11:00:23 +0000
+### [Relief activities continue in TN’s Thoothukudi district, NDRF reach marooned](https://theprint.in/india/relief-activities-continue-in-tns-thoothukudi-district-ndrf-reach-marooned/1898179/)
+
+Article found but Couldn't summarize 
+Thoothukudi (TN), Dec 23 (PTI) Relief activities continued in the rain-ravaged coastal district of Thoothukudi in Tamil Nadu while an NDRF team accompanied by police rescued the people marooned in the SIPCOT industrial area on Saturday. The NDRF team along with the SIPCOT police rescued the flood-affected women and children by boat and provided them [&#8230;]
+
+Sat, 23 Dec 2023 11:00:13 +0000
+### [INDI Alliance set of leaders facing corruption charges: Anurag Thakur](https://theprint.in/india/indi-alliance-set-of-leaders-facing-corruption-charges-anurag-thakur/1898178/)
+
+Article found but Couldn't summarize 
+Bengaluru, Dec 23 (PTI) Union minister Anurag Thakur on Saturday dubbed the opposition INDIA bloc as a set of leaders facing corruption charges with no common ideology or a political programme. Thakur, speaking to reporters here, also said the opposition coalition disrupted the Winter session of Parliament that concluded on Thursday out of frustration of [&#8230;]
+
+Sat, 23 Dec 2023 11:00:02 +0000
+### [Now Deaflympics gold medallist Virender Singh to return Padma Shri over WFI president’s election](https://theprint.in/sport/now-deaflympics-gold-medallist-virender-singh-to-return-padma-shri-over-wfi-presidents-election/1898177/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) Deaflympics gold medallist Virender Singh Yadav, better known as Goonga Pehlwan, has now decided to return his Padma Shri to the government, showing solidarity with the country&#8217;s top wrestlers who have objected to election of Brij Bhushan Sharan Singh loyalist Sanjay Singh as WFI president. Throwing his weight behind Olympic [&#8230;]
+
+Sat, 23 Dec 2023 10:47:11 +0000
+### [It’s a wrap for Shahid Kapoor, Pooja Hegde’s ‘Deva’ first schedule](https://theprint.in/feature/its-a-wrap-for-shahid-kapoor-pooja-hegdes-deva-first-schedule/1898170/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 23 (ANI): Makers of the upcoming action thriller film &#8216;Deva&#8217; starring Shahid Kapoor and Pooja Hegde have wrapped up the film&#8217;s first schedule. On Saturday, production house Roy Kapur Films shared a picture on X (formerly Twitter) and made the announcement. They wrote, &#8220;And it&#8217;s a wrap for #DEVA schedule one. [&#8230;]
+
+Sat, 23 Dec 2023 10:47:01 +0000
+### [Get Ready to Hit the Dance Floor with Neha Malik and Prabhat Kumar’s party number – Apni To Party by Rahul Khan](https://theprint.in/ani-press-releases/get-ready-to-hit-the-dance-floor-with-neha-malik-and-prabhat-kumars-party-number-apni-to-party-by-rahul-khan/1898168/)
+
+Article found but Couldn't summarize 
+ATK New Delhi [India], December 23: Apni To Party is out to sweep the nation off its feet with its infectious rhythm and captivating lyrics. Featuring the dynamic duo of actor Prabhat Kumar and diva Neha Malik, this musical extravaganza is a collaboration that promises to leave you mesmerized. Directed by the talented Rahul Khan, [&#8230;]
+
+Sat, 23 Dec 2023 10:45:46 +0000
+### [Delhi-NCR: Man’s body with bullet injury found in taxi in Manesar](https://theprint.in/india/delhi-ncr-mans-body-with-bullet-injury-found-in-taxi-in-manesar/1898166/)
+
+Article found but Couldn't summarize 
+Gurugram, Dec 23 (PTI) The body of a man with a bullet injury was found in the driver&#8217;s seat of a taxi parked outside a dhaba in Manesar here on Saturday morning, police said. The deceased, who is yet to be identified, was allegedly shot on the temple Friday late night, SHO Virender Kumar said. [&#8230;]
+
+Sat, 23 Dec 2023 10:45:35 +0000
+### [Siddhant Chaturvedi wants redefine Bollywood heroism: I’m trying to find and build my space](https://theprint.in/feature/siddhant-chaturvedi-wants-redefine-bollywood-heroism-im-trying-to-find-and-build-my-space-2/1898165/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 23 (PTI) The likes of Dilip Kumar, Amitabh Bachchan and Shah Rukh Khan have defined the norms for playing a Bollywood hero in Hindi cinema, says actor Siddhant Chaturvedi who aims to carve out a space for himself by mixing the concept of heroism with content. It was his dream to be a [&#8230;]
+
+Sat, 23 Dec 2023 10:45:27 +0000
+### [Boxing Nationals: World champion Saweety Boora, Pooja Rani advance to pre-quarters](https://theprint.in/sport/boxing-nationals-world-champion-saweety-boora-pooja-rani-advance-to-pre-quarters/1898164/)
+
+Article found but Couldn't summarize 
+Greater Noida, Dec 23 (PTI) The experienced duo of Saweety Boora and Pooja Rani cruised into the pre-quarterfinals with contrasting wins on the second day of the women&#8217;s National Boxing Championships here on Saturday. While Saweety (81kg), the reigning world champion, faced a tough challenge from Alfiya of Railway Sports Promotion Board (RSPB) before securing [&#8230;]
+
+Sat, 23 Dec 2023 10:45:14 +0000
+### [India’s economy growing but wealth not getting distributed: Rahul Gandhi](https://theprint.in/india/indias-economy-growing-but-wealth-not-getting-distributed-rahul-gandhi/1898163/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) India&#8217;s economy is growing but the wealth is getting concentrated in a few hands and the challenge of unemployment continues, Congress leader Rahul Gandhi said in an interaction with some students of Harvard University. The former Congress president on Saturday shared on X a video of the interaction held on [&#8230;]
+
+Sat, 23 Dec 2023 10:45:03 +0000
+### [Mariner goes missing from merchant vessel, Coast Guard locates his body](https://theprint.in/india/mariner-goes-missing-from-merchant-vessel-coast-guard-locates-his-body/1898162/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 23 (PTI) The Indian Coast Guard on Saturday located the body of a mariner, hours after he was reported missing from MV Boonya Naree, around 11 miles from Prongs Lighthouse off Mumbai. A release by the maritime security agency said it deployed ICG Chetak 805 helicopter and Indian Coast Guard ship C439 for [&#8230;]
+
 Sat, 23 Dec 2023 10:15:03 +0000
 ### [Odisha alerts districts as IMD forecasts dense fog on Sunday; G Udayagiri coldest at 5.8 degC](https://theprint.in/india/odisha-alerts-districts-as-imd-forecasts-dense-fog-on-sunday-g-udayagiri-coldest-at-5-8-degc/1898120/)
 
