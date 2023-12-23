@@ -1,3 +1,9 @@
+Sat, 23 Dec 2023 17:29:36 +0530
+### [Lessons from Gaza: India cannot ignore security threats in Kashmir](https://www.firstpost.com/opinion/lessons-from-gaza-india-cannot-ignore-security-threats-in-kashmir-13539252.html)
+
+Article found but Couldn't summarize 
+Lessons from Gaza: India cannot ignore security threats in Kashmir
+
 Sat, 23 Dec 2023 16:28:23 +0530
 ### [Vantage | Why Xi Jinping is after video games now](https://www.firstpost.com/opinion/vantage-why-xi-jinping-is-after-video-games-now-13538902.html)
 

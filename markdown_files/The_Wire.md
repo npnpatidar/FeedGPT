@@ -1,3 +1,15 @@
+2023-12-23T17:46:54+05:30
+### [UN Security Council Passes Resolution on War in Gaza; US, Russia Abstain](https://thewire.in/world/un-security-council-passes-resolution-on-war-in-gaza-us-russia-abstain)
+
+No Article text 
+The resolution called for the facilitation of 'safe and unhindered delivery of humanitarian assistance at scale', and the creation of 'conditions for a sustainable cessation of hostilities' without demanding an immediate end to the fighting.
+
+2023-12-23T17:24:51+05:30
+### ['All Lives Matter': West Indian Legend Michael Holding Hits Out at ICC 'Hypocrisy' Over Usman Khwaja](https://thewire.in/rights/all-lives-matter-west-indian-legend-michael-holding-hits-out-at-icc-hypocrisy-over-usman-khwaja)
+
+No Article text 
+Australian cricketer, who went for training with 'All Lives Matter', then reprimanded by ICC has got vital support from Holding, who spoke up regarding the treatment of blacks and black cricketers, causing an earthquake in international sport.
+
 2023-12-23T16:24:04+05:30
 ### [WFI Saga Proves Once Again That Sexual Harassment Is a Crime Steeped in Power](https://thewire.in/rights/wfi-saga-proves-once-again-that-sexual-harassment-is-a-crime-steeped-in-power)
 

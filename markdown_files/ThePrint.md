@@ -1,3 +1,122 @@
+Sat, 23 Dec 2023 12:17:53 +0000
+### [Poet Imroz’s departure marks end of literary love saga](https://theprint.in/world/poet-imrozs-departure-marks-end-of-literary-love-saga/1898287/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 23 (ANI): Imroz, the artist whose life intertwined with legendary poetess Amrita Pritam, peacefully departed at the age of 97 in his Mumbai residence due to inevitable grasp of age-related issues, The Khalsa Vox reported on Saturday. Imroz, originally named Inderjeet, was born on January 26, 1926, in Chak number 36 [&#8230;]
+
+Sat, 23 Dec 2023 12:17:42 +0000
+### [Pakistan: Gold, jewellery worth over PKR 1 crore stolen from shrine of Sufi saint Lal Shahbaz Qalandar in Sindh](https://theprint.in/world/pakistan-gold-jewellery-worth-over-pkr-1-crore-stolen-from-shrine-of-sufi-saint-lal-shahbaz-qalandar-in-sindh/1898285/)
+
+Article found but Couldn't summarize 
+Sindh [Pakistan], December 23 (ANI): Gold and jewellery worth more than Pakistan Rupees (PKR) 1 crore were stolen from the shrine of well-known Sufi Saint Hazrat Lal Shahbaz Qalandar in the Sehwan area of Jamshoro district in Pakistan&#8217;s Sindh, Pakistan-based vernacular media Express reported. According to the details, gold given as an offering worth PKR [&#8230;]
+
+Sat, 23 Dec 2023 12:17:33 +0000
+### [Aayush Sharma, Aisha Sharma’s dance track ‘Tera Hoke Nachda Phira’ poster unveiled](https://theprint.in/feature/aayush-sharma-aisha-sharmas-dance-track-tera-hoke-nachda-phira-poster-unveiled/1898283/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 23 (ANI): Actors Aayush Sharma and Aisha Sharma on Saturday unveiled the poster of their new dance track &#8216;Tera Hoke Nachda Phira&#8217;. Taking to Instagram, Aayush shared the poster which he captioned, &#8220;Get ready to dance your heart out on #TeraHokeNachdaPhira! This sizzling music video, is set to become the ultimate [&#8230;]
+
+Sat, 23 Dec 2023 12:17:22 +0000
+### [Bollywood star-kids want to be part of Tollywood’s 100 crore Blockbuster Baby Hindi Remake](https://theprint.in/ani-press-releases/bollywood-star-kids-want-to-be-part-of-tollywoods-100-crore-blockbuster-baby-hindi-remake/1898281/)
+
+Article found but Couldn't summarize 
+VMPL New Delhi [India], December 23: Baby is a cult blockbuster film of this year in Tollywood. The film was loved unanimously by the audience, filmmakers and celebrities. This sensational film directed by outstanding filmmaker Sai Rajesh, broke all box-office records. This cult love story stars Anand Deverakonda, Vaishnavi Chaitanya, and Viraj Ashwin in lead [&#8230;]
+
+Sat, 23 Dec 2023 12:17:11 +0000
+### [Pak: Imran Khan’s party leader Azam Khan announces to contest election against Nawaz Sharif](https://theprint.in/world/pak-imran-khans-party-leader-azam-khan-announces-to-contest-election-against-nawaz-sharif/1898279/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 23 (ANI): The absconding former senator and Pakistan Tehreek-e-Insaf (PTI) leader, Azam Khan Swati has announced to contest the election against Pakistan Muslim League-Nawaz (PML-N) chief Nawaz Sharif, Pak-vernacular media, Geo News reported on Saturday. The leader is absconding in the May 9 violence that erupted after the arrest of former Pakistan [&#8230;]
+
+Sat, 23 Dec 2023 12:17:01 +0000
+### [Christmas bells ring for Kashmir’s paper mache artisans, create special items for Xmas](https://theprint.in/feature/christmas-bells-ring-for-kashmirs-paper-mache-artisans-create-special-items-for-xmas/1898277/)
+
+Article found but Couldn't summarize 
+Srinagar (Jammu and Kashmir) [India], December 23 (ANI): As Christmas is around the corner, celebrations all over the country are in full swing. The paper mache artisans of the valley are very busy with making special balls and other gift items ahead of Christmas. The festival time always provides joy to the valley&#8217;s paper mache [&#8230;]
+
+Sat, 23 Dec 2023 12:15:30 +0000
+### [China regulator to ‘earnestly study’ public concerns over draft video gaming rules](https://theprint.in/tech/china-regulator-to-earnestly-study-public-concerns-over-draft-video-gaming-rules/1898275/)
+
+Article found but Couldn't summarize 
+SHANGHAI (Reuters) - China's draft online video gaming rules were designed to promote the healthy development of the industry, regulators said on Saturday, adding that the government would further
+
+Sat, 23 Dec 2023 12:15:15 +0000
+### [Bells ring across Czech Republic to mourn victims of mass shooting](https://theprint.in/world/bells-ring-across-czech-republic-to-mourn-victims-of-mass-shooting/1898273/)
+
+Article found but Couldn't summarize 
+PRAGUE (Reuters) - Bells rang across the Czech Republic on Saturday and flags flew at half mast as the country mourned victims of the country's worst mass shooting that killed 14 at a Prague
+
+Sat, 23 Dec 2023 12:15:14 +0000
+### [‘Fake’ medicine row: BJP demands sacking of Delhi minister Saurabh Bharadwaj, Cong calls for probe](https://theprint.in/india/fake-medicine-row-bjp-demands-sacking-of-delhi-minister-saurabh-bharadwaj-cong-calls-for-probe/1898272/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) The Delhi BJP on Saturday demanded the sacking of Health Minister Saurabh Bharadwaj after Lieutenant Governor V K Saxena recommended a CBI inquiry into the alleged supply of drugs that failed quality standard tests in Delhi government hospitals. The Delhi Congress said it is a &#8220;serious matter&#8221; and action should [&#8230;]
+
+Sat, 23 Dec 2023 12:15:04 +0000
+### [Israel-affiliated merchant vessel hit by aerial vehicle off India – UK firm](https://theprint.in/india/israel-affiliated-merchant-vessel-hit-by-aerial-vehicle-off-india-uk-firm/1898271/)
+
+Article found but Couldn't summarize 
+NEW DELHI (Reuters) - An Israel-affiliated merchant vessel in the Arabian Sea off India's west coast was struck by an unmanned aerial vehicle, causing a fire, British maritime security firm Ambrey
+
+Sat, 23 Dec 2023 12:15:03 +0000
+### [India making border infra robust with seriousness it deserves: Jaishankar](https://theprint.in/india/india-making-border-infra-robust-with-seriousness-it-deserves-jaishankar/1898270/)
+
+Article found but Couldn't summarize 
+Gandhinagar, Dec 23 (PTI) The country is making its border infrastructure robust with the seriousness it deserves to strengthen national security, with the construction of roads, bridges and tunnels along the China border at a much faster pace compared to what was achieved in previous decades, External Affairs Minister S Jaishankar said here Saturday. Despite [&#8230;]
+
+Sat, 23 Dec 2023 12:02:01 +0000
+### [ITR Filing 2023: Explore Tax-Saving Options on Bajaj Markets](https://theprint.in/ani-press-releases/itr-filing-2023-explore-tax-saving-options-on-bajaj-markets/1898266/)
+
+Article found but Couldn't summarize 
+BusinessWire India Pune (Maharashtra) [India], December 23: Unlock smart tax-saving strategies and explore a range of financial products on Bajaj Markets, a subsidiary of Bajaj Finserv. As the ITR filing deadline approaches, discover diverse avenues for last-minute tax savings across investments, loans, and insurance. Elevate your financial journey with tax-saving investments that not only offer [&#8230;]
+
+Sat, 23 Dec 2023 12:00:34 +0000
+### [Bengal gets Rs 5,488cr from Centre as additional instalment of tax devolution](https://theprint.in/economy/bengal-gets-rs-5488cr-from-centre-as-additional-instalment-of-tax-devolution/1898263/)
+
+As GPT-3.5, I can summarize the article for you. West Bengal has received an additional installment of Rs 5,488.88 crore as tax devolution from the Centre. This is in addition to the Rs 72,961.21 crore disbursed to all states for social welfare measures and infrastructure development. The tax devolution funds are disbursed in 14 yearly installments, and the latest allocation shows that Uttar Pradesh received the largest share at Rs 13,088.51 crore. Bihar, Madhya Pradesh, West Bengal, Maharashtra, Rajasthan, and Odisha also received significant amounts. Please note that this information is auto-generated from PTI news service.
+
+Sat, 23 Dec 2023 12:00:24 +0000
+### [Harmanpreet Kaur leads India Women’s fightback but Australia take slender lead in one-off Test](https://theprint.in/sport/harmanpreet-kaur-leads-india-womens-fightback-but-australia-take-slender-lead-in-one-off-test/1898262/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 23 (PTI) Skipper Harmanpreet Kaur&#8217;s (2/23) golden arm came to India Women&#8217;s rescue with two late wickets as the hosts endured a challenging outing in the one-off Test here on Saturday, with Australia leading by 46 runs at stumps on the third day. Kaur brought herself on in the third session after India [&#8230;]
+
+Sat, 23 Dec 2023 12:00:14 +0000
+### [Music maestro Rashid Khan critical](https://theprint.in/india/music-maestro-rashid-khan-critical/1898261/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 23 (PTI) The condition of music maestro Ustad Rashid Khan, who is undergoing treatment in a city-based hospital for prostate cancer, is stated to be critical, an official said on Saturday. Khan (55) has been put on ventilation, he added. &#8220;Initially, he was reciprocating well to treatment. But after a cerebral attack, his [&#8230;]
+
+Sat, 23 Dec 2023 12:00:02 +0000
+### [Amit Shah attends BJP’s national office-bearers meeting in Delhi](https://theprint.in/india/amit-shah-attends-bjps-national-office-bearers-meeting-in-delhi-2/1898260/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) Union Home Minister Amit Shah on Saturday attended the BJP&#8217;s national office-bearers meeting here and interacted with the party leaders. Shah reached the BJP headquarters here in the afternoon on the second and last day of the meeting. BJP chief J P Nadda was present at the meeting which is [&#8230;]
+
+Sat, 23 Dec 2023 11:47:24 +0000
+### [Sun Stellar Unveils Stellar Sanitar–A Revolutionizing Stainless Steel Plumbing Solution for its customers](https://theprint.in/ani-press-releases/sun-stellar-unveils-stellar-sanitar-a-revolutionizing-stainless-steel-plumbing-solution-for-its-customers/1898245/)
+
+Article found but Couldn't summarize 
+HT Syndication New Delhi [India], December 23: Sun Stellar, a trailblazer in cutting-edge Renewable energy Technology and plastic free water storage Solutions, proudly announces the launch of its latest brand, Stellar Sanitar. This innovative state-of-the-art stainless steel plumbing solution is catered to the diverse needs across residential and industrial projects. Stellar Sanitar stands at the [&#8230;]
+
+Sat, 23 Dec 2023 11:47:02 +0000
+### [Taiwan detects 7 Chinese military aircraft, 2 naval ships around nation](https://theprint.in/world/taiwan-detects-7-chinese-military-aircraft-2-naval-ships-around-nation/1898243/)
+
+Article found but Couldn't summarize 
+Taipei [Taiwan], December 23 (ANI): Taiwan&#8217;s Ministry of Defence announced on Saturday that it detected seven Chinese military aircraft and two naval vessels around the nation. The Chinese planes and naval ships were tracked between Friday, December 22, at six in the morning and Monday, December 22, at two in the morning, according to the [&#8230;]
+
+Sat, 23 Dec 2023 11:45:35 +0000
+### [Cricket-Pakistan’s Ali out of remaining Australia tests, Nawaz called up](https://theprint.in/sport/cricket-pakistans-ali-out-of-remaining-australia-tests-nawaz-called-up/1898242/)
+
+Article found but Couldn't summarize 
+MELBOURNE (Reuters) -Spinner Noman Ali will miss Pakistan's last two tests against Australia after undergoing surgery for acute appendicitis on Saturday, with Mohammad Nawaz drafted in as his
+
+Sat, 23 Dec 2023 11:45:29 +0000
+### [Amit Shah attends BJP’s national office-bearers meeting in Delhi](https://theprint.in/india/amit-shah-attends-bjps-national-office-bearers-meeting-in-delhi/1898241/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) Union Home Minister Amit Shah on Saturday attended the BJP&#8217;s national office-bearers meeting here and interacted with the party leaders. Shah reached the BJP headquarters here in the afternoon on the second and last day of the meeting. BJP chief J P Nadda was present at the meeting which is [&#8230;]
+
 Sat, 23 Dec 2023 11:15:29 +0000
 ### [Supply of ‘fake’ drugs in Delhi govt hospitals: LG recommends CBI inquiry; AAP demands action against officials](https://theprint.in/india/supply-of-fake-drugs-in-delhi-govt-hospitals-lg-recommends-cbi-inquiry-aap-demands-action-against-officials/1898208/)
 

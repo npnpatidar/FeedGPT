@@ -1,3 +1,9 @@
+Sat, 23 Dec 2023 17:53:50 +0530
+### [After Canada, is pro-Khalistan sentiment growing in the US?](https://www.firstpost.com/explainers/after-canada-is-pro-khalistan-sentiment-growing-in-the-us-13539172.html)
+
+Article found but Couldn't summarize 
+After Canada, is pro-Khalistan sentiment growing in the US?
+
 Sat, 23 Dec 2023 14:44:33 +0530
 ### [What led to France grounding a plane with over 300 Indians?](https://www.firstpost.com/explainers/france-grounds-plane-with-over-300-indians-human-trafficking-13538722.html)
 
