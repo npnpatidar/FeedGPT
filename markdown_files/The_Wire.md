@@ -1,3 +1,15 @@
+2023-12-23T15:28:52+05:30
+### [Civilians Killed in the Aftermath of Poonch Terror Attack Were Tortured to Death, Allege Families](https://thewire.in/security/civilians-killed-in-the-aftermath-of-poonch-terror-attack-were-tortured-to-death-allege-families)
+
+No Article text 
+The alleged custodial killing of the three civilians triggered protests in Poonch on Friday.
+
+2023-12-23T15:12:52+05:30
+### [Manipur: Kuki Tribal Body to Seal Borders between Hill, Valley Districts During Christmas Season](https://thewire.in/security/manipur-kuki-tribal-body-to-seal-borders-between-hill-valley-districts-during-christmas-season)
+
+No Article text 
+The Indigenous Tribal Leaders' Forum said it has 'intelligence inputs about an imminent threat' to disrupt Christmas season, prompting it to seal borders for two weeks starting from December 23.
+
 2023-12-23T14:24:24+05:30
 ### [Opposition's Efforts to Have a 'Meaningful Discussion' in Parliament Were Ignored: Kharge to Dhankar](https://thewire.in/politics/oppositions-efforts-to-have-a-meaningful-discussion-in-parliament-were-ignored-kharge-to-dhankar)
 

@@ -1,3 +1,9 @@
+Sat, 23 Dec 2023 15:02:20 +0530
+### [Top 5 tech gifts for this Christmas season: Sony PlayStation 5, Honor 90 5G, more](https://www.livemint.com/technology/top-5-tech-gifts-for-this-christmas-season-sony-playstation-5-honor-90-5g-more-11703323349311.html)
+
+Article found but Couldn't summarize 
+The HONOR 90 5G smartphone, Zebronics PIXAPLAY 22 projector, Audio Technica ATH - M50x headphones, Sony PlayStation 5, and Samsung Galaxy S23 FE 5G are among the top 5 tech gifts for Christmas.
+
 Sat, 23 Dec 2023 11:09:39 +0530
 ### [Garena Free Fire redeem codes for December 23, 2023: Win daily rewards and excited gifts](https://www.livemint.com/technology/garena-free-fire-redeem-codes-for-december-23-2023-win-daily-rewards-and-excited-gifts-11703309052015.html)
 

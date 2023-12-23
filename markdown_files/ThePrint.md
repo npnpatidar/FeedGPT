@@ -1,3 +1,123 @@
+Sat, 23 Dec 2023 10:15:03 +0000
+### [Odisha alerts districts as IMD forecasts dense fog on Sunday; G Udayagiri coldest at 5.8 degC](https://theprint.in/india/odisha-alerts-districts-as-imd-forecasts-dense-fog-on-sunday-g-udayagiri-coldest-at-5-8-degc/1898120/)
+
+Article found but Couldn't summarize 
+Bhubaneswar, Dec 23 (PTI) With the IMD forecasting the prevalence of dense fog in various parts of Odisha on Sunday, Special Relief Commissioner (SRC) Satyabrat Sahu has asked all the district collectors to heighten vigil and take measures to prevent road accidents in view of the prediction. The SRC, in a letter to all the [&#8230;]
+
+Sat, 23 Dec 2023 10:15:03 +0000
+### [India firm denies tampering with tests in probe of cough syrup deaths](https://theprint.in/india/india-firm-denies-tampering-with-tests-in-probe-of-cough-syrup-deaths/1898119/)
+
+Article found but Couldn't summarize 
+By Krishna N. Das NEW DELHI (Reuters) - India's Maiden Pharmaceuticals, whose cough syrups have been linked to the deaths of children in Gambia, on Saturday denied it had tampered with test samples or
+
+Sat, 23 Dec 2023 10:02:50 +0000
+### [17 corporate teams participate in DEWA’s 8th Suppliers Cricket Tournament](https://theprint.in/world/17-corporate-teams-participate-in-dewas-8th-suppliers-cricket-tournament/1898113/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 23 (ANI/WAM): Dubai Electricity and Water Authority (DEWA) organised the 8th Suppliers Cricket Tournament 2023 at the Insports Club in Al Quoz, Dubai, with the participation of 17 corporate teams. This is part of its social responsibility and commitment to enhance the happiness of all stakeholders. DEWA is keen to strengthen its [&#8230;]
+
+Sat, 23 Dec 2023 10:02:38 +0000
+### [UAE leaders condole Saudi King on passing of Prince Mohammed bin Badr](https://theprint.in/world/uae-leaders-condole-saudi-king-on-passing-of-prince-mohammed-bin-badr/1898111/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 23 (ANI/WAM): UAE President Sheikh Mohamed bin Zayed Al Nahyan has sent a message of condolences to the custodian of the two holy mosques, King Salman bin Abdulaziz Al Saud of Saudi Arabia, on the passing of Prince Mohammed bin Badr bin Fahd bin Saad Al Awal Al Abdurrahman Al Saud. Sheikh [&#8230;]
+
+Sat, 23 Dec 2023 10:02:25 +0000
+### [Study reveals psilocybin-assisted therapy lessens depressive symptoms in adults with cancer, depression](https://theprint.in/health/study-reveals-psilocybin-assisted-therapy-lessens-depressive-symptoms-in-adults-with-cancer-depression/1898109/)
+
+Article found but Couldn't summarize 
+New Jersey [US], December 23 (ANI): According to a phase II clinical study, psilocybin, a hallucinogenic chemical found in several mushrooms of the genus Psilocybe, may help persons suffering from cancer and severe depression. When trial participants were interviewed at the conclusion of the experiment, they not only reported a decrease in depressive symptoms, but [&#8230;]
+
+Sat, 23 Dec 2023 10:02:14 +0000
+### [Researchers shed lights on how breathing in sleep affects memory processes](https://theprint.in/science/researchers-shed-lights-on-how-breathing-in-sleep-affects-memory-processes/1898107/)
+
+Article found but Couldn't summarize 
+Bavaria [Germany], December 23 (ANI): How do memories form when sleeping? Recently, a study found a link between the formation of certain sleep-related brain activity patterns and the reactivation of memory contents during sleep in 2021. The research led by Dr Thomas Schreiner, head of the Emmy Noether junior research group at LMU&#8217;s Department of [&#8230;]
+
+Sat, 23 Dec 2023 10:02:02 +0000
+### [Ridhi Dogra watches SRK’s ‘Dunki’, shares people in theatre met her as “Jawan ki mummy”](https://theprint.in/feature/ridhi-dogra-watches-srks-dunki-shares-people-in-theatre-met-her-as-jawan-ki-mummy/1898103/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 23 (ANI): Superstar Shah Rukh Khan&#8217;s &#8216;Dunki&#8217; has been released in theatres and it has a good start at the box office. Actor Ridhi Dogra went to watch the film in a theatre and shared with her fans what happened to her during the interval. In the action-packed drama, &#8216;Jawan&#8217;, Ridhi [&#8230;]
+
+Sat, 23 Dec 2023 10:00:39 +0000
+### [Farmers respected in new UP of new India: CM Adityanath](https://theprint.in/india/farmers-respected-in-new-up-of-new-india-cm-adityanath/1898102/)
+
+Article found but Couldn't summarize 
+Lucknow, Dec 23 (PTI) Chief Minister Yogi Adityanath on Saturday said that farmers are respected in the new Uttar Pradesh of new India. &#8220;This is the new Uttar Pradesh of new India, where farmers are respected. The government bows down and respects their hard work and efforts,&#8221; he said. Addressing farmers at the Kisan Samman [&#8230;]
+
+Sat, 23 Dec 2023 10:00:25 +0000
+### [Moral policing: 3 held for harassing young couple in Mangaluru](https://theprint.in/india/moral-policing-3-held-for-harassing-young-couple-in-mangaluru/1898101/)
+
+Article found but Couldn't summarize 
+Mangaluru, Dec 23 (PTI) Three youths have been arrested in a case of moral policing for confronting and harassing a young couple by asking for their identity cards at an eatery in the city. Sources said one of the accused confronted a boy and a girl from Kerala on December 21 at an eatery, demanding [&#8230;]
+
+Sat, 23 Dec 2023 10:00:12 +0000
+### [Liquor in GIFT City: Congress, AAP slam Gujarat’s BJP govt over decision](https://theprint.in/india/liquor-in-gift-city-congress-aap-slam-gujarats-bjp-govt-over-decision/1898100/)
+
+Article found but Couldn't summarize 
+Ahmedabad, Dec (PTI) The ruling Bharatiya Janata Party and the opposition Congress on Saturday clashed over the Gujarat government&#8217;s decision a day earlier to allow liquor in GIFT City, which partially overturned the state&#8217;s strict prohibition policy. The state government, on Friday, lifted the ban on liquor in the Gujarat International Finance Tec-City with the [&#8230;]
+
+Sat, 23 Dec 2023 10:00:02 +0000
+### [Combination Confusion: Rahul’s keeping, ideal choice between Prasidh and Mukesh](https://theprint.in/sport/combination-confusion-rahuls-keeping-ideal-choice-between-prasidh-and-mukesh-4/1898099/)
+
+Article found but Couldn't summarize 
+Centurion, Dec 23 (PTI) The best combination as per conditions isn&#8217;t always a team&#8217;s best eleven and it will certainly be a struggle for India to find the right blend going into the opening Test against South Africa on ‘Boxing Day’. At least two slots will give head coach Rahul Dravid sleepless nights. The teething [&#8230;]
+
+Sat, 23 Dec 2023 09:58:34 +0000
+### [India closer to new drone power as indigenous solar-powered pseudo-satellite flies for over 21 hrs](https://theprint.in/defence/india-closer-to-new-drone-power-as-indigenous-solar-powered-pseudo-satellite-flies-for-over-21-hrs/1898027/)
+
+Article found but Couldn't summarize 
+Start-up announced that its prototype had completed flight during Winter Solstice trial. Big fillip to India’s plan of having long-endurance drone capable of flying in stratosphere.
+
+Sat, 23 Dec 2023 09:50:58 +0000
+### [Death of civilians ‘in custody’ and Poonch-Rajouri security debacles may result ‘in strict action’](https://theprint.in/defence/death-of-civilians-in-custody-and-poonch-rajouri-security-debacles-may-result-in-strict-action/1898056/)
+
+Article found but Couldn't summarize 
+Mobile internet services suspended Saturday in the twin border districts of J&#38;K over 'widespread resentment' among people following videos purportedly showing torture of civilian suspects.
+
+Sat, 23 Dec 2023 09:47:02 +0000
+### [7 years of ‘Dangal’: Sanya Malhotra celebrates her journey in film industry](https://theprint.in/feature/7-years-of-dangal-sanya-malhotra-celebrates-her-journey-in-film-industry/1898094/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 23 (ANI): Actor Sanya Malhotra, who made her Bollywood debut with &#8216;Dangal, completed seven years in the film industry on Saturday. To mark the occasion, she recollected moments from her journey. Taking to Instagram, Sanya shared clips from her different films in the past seven years. &#160; &#160; &#160; &#160; &#160; [&#8230;]
+
+Sat, 23 Dec 2023 09:45:56 +0000
+### [Catholic priests can bless same sex-couples in Meghalaya: Church](https://theprint.in/india/catholic-priests-can-bless-same-sex-couples-in-meghalaya-church/1898092/)
+
+Article found but Couldn't summarize 
+Shillong, Dec 23 (PTI) The Catholic Church in Meghalaya announced that its priests will be allowed to bless same-sex couples sans any marriage rites, days after Pope Francis approved blessings for such couples. The declaration brought about major changes in the Catholic Church organisation in the northeastern state with over 10 lakh population. &#8220;The Catholic [&#8230;]
+
+Sat, 23 Dec 2023 09:45:46 +0000
+### [Forces scornful towards India’s culture should be retaliated against: Dhankhar](https://theprint.in/india/forces-scornful-towards-indias-culture-should-be-retaliated-against-dhankhar/1898091/)
+
+Article found but Couldn't summarize 
+Dehradun, Dec 23 (PTI) Vice President Jagdeep Dhankhar on Saturday said a small section of people in the country had no respect for its 5,000-year-old cultural legacy and asked those who take pride in it to retaliate against such forces. &#8220;It is a matter of concern that a section of people in the country who [&#8230;]
+
+Sat, 23 Dec 2023 09:45:34 +0000
+### [Govt only contemplating lifting ban on Hijab: Karnataka CM](https://theprint.in/india/govt-only-contemplating-lifting-ban-on-hijab-karnataka-cm/1898090/)
+
+Article found but Couldn't summarize 
+Mysuru, Dec 23 (PTI) Karnataka Chief Minister Siddaramaiah on Saturday clarified that the administration was only contemplating lifting the ban on wearing hijab in educational institutions in the state and a decision will be taken after holding discussions at the government level. Addressing reporters here, he said, &#8220;We haven&#8217;t done it (revoking Hijab ban) yet. [&#8230;]
+
+Sat, 23 Dec 2023 09:45:24 +0000
+### [Sports Minister refuses to get embroiled in Punia controversy](https://theprint.in/sport/sports-minister-refuses-to-get-embroiled-in-punia-controversy/1898089/)
+
+Article found but Couldn't summarize 
+Bengaluru, Dec 23 (PTI) Sports Minister Anurag Thakur on Saturday refused to involve himself in the boiling controversy over wrestler Bajrang Punia returning his Padma Shri in protest against the election of Sanjay Singh, a Brij Bhushan Sharan Singh loyalist, as the president of Wrestling Federation of India (WFI). Olympic medallist Punia had reached the [&#8230;]
+
+Sat, 23 Dec 2023 09:45:13 +0000
+### [Fresh ED summons to Tejashwi in land-for-jobs case, asked to appear on Jan 5](https://theprint.in/india/fresh-ed-summons-to-tejashwi-in-land-for-jobs-case-asked-to-appear-on-jan-5/1898087/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) The Enforcement Directorate has issued a fresh summons to Bihar Deputy Chief Minister and RJD leader Tejashwi Yadav in the railway land-for-jobs scam case, asking him to appear on January 5, official sources said Saturday. He was earlier called to appear on December 22 but the 34-year-old skipped the summons. [&#8230;]
+
+Sat, 23 Dec 2023 09:45:09 +0000
+### [Slumping Senators aim to get right vs. Sidney Crosby, Penguins](https://theprint.in/sport/slumping-senators-aim-to-get-right-vs-sidney-crosby-penguins/1898086/)
+
+Article found but Couldn't summarize 
+A coaching change hasn't provided the intended spark for the Ottawa Senators, who have lost six straight games going into a home game Saturday against the Pittsburgh Penguins. The Senators have lost
+
 Sat, 23 Dec 2023 09:02:59 +0000
 ### [Govt focused on investing in green, clean technologies: Jaishankar](https://theprint.in/world/govt-focused-on-investing-in-green-clean-technologies-jaishankar/1898062/)
 
