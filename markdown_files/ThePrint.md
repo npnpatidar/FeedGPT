@@ -1,3 +1,74 @@
+Sat, 23 Dec 2023 00:47:02 +0000
+### [UNSC passes resolution on Gaza aid as US abstains](https://theprint.in/world/unsc-passes-resolution-on-gaza-aid-as-us-abstains/1897800/)
+
+Article found but Couldn't summarize 
+New York City [US], December 23 (ANI): The United Nations Security Council (UNSC) on Friday approved a resolution that calls for humanitarian pauses between Israel and Hamas, increased aid to Gaza and the creation of conditions that will allow for a sustainable end to fighting, ending days of closed-door negotiations, CNN reported. The UNSC resolution [&#8230;]
+
+Sat, 23 Dec 2023 00:45:04 +0000
+### [UN urges more Gaza aid, UN chief says Israel creating distribution ‘obstacles’](https://theprint.in/world/un-urges-more-gaza-aid-un-chief-says-israel-creating-distribution-obstacles/1897798/)
+
+Article found but Couldn't summarize 
+By Michelle Nichols, Nidal al-Mughrabi and Dan Williams UNITED NATIONS/CAIRO/JERUSALEM (Reuters) -The U.N. Security Council called for boosting humanitarian assistance for Gaza, but the U.N. chief
+
+Sat, 23 Dec 2023 00:45:02 +0000
+### [COVID-19 has possibly peaked in Singapore, says minister but experts cautious](https://theprint.in/world/covid-19-has-possibly-peaked-in-singapore-says-minister-but-experts-cautious/1897797/)
+
+Article found but Couldn't summarize 
+Singapore, Dec 23 (PTI) The latest wave of COVID-19 cases in Singapore has possibly peaked, and there is no need for additional measures, like wearing a face mask mandate, to be implemented, said Minister for Health (MOH) Ong Ye Kung. “We might have a slight surge, but I think more or less, we are seeing [&#8230;]
+
+Sat, 23 Dec 2023 00:02:01 +0000
+### [Gold prices in Pakistan witness surge of PKR 1800 per tola of 24-karat gold](https://theprint.in/world/gold-prices-in-pakistan-witness-surge-of-pkr-1800-per-tola-of-24-karat-gold/1897794/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 23 (ANI): Gold prices in Pakistan have witnessed a surge of Pakistani rupee (PKR) 1800 per tola of 24 karat gold, ARY News reported on Friday. ARY News is a Pakistani news channel. The price of 24-karat gold witnessed an increase of 0.15 per cent in the international market after which the [&#8230;]
+
+Fri, 22 Dec 2023 23:47:01 +0000
+### [Pakistan: Policeman killed as trailer hits motorcycle near Kemari](https://theprint.in/world/pakistan-policeman-killed-as-trailer-hits-motorcycle-near-kemari/1897791/)
+
+Article found but Couldn't summarize 
+Karachi [Pakistan], December 23 (ANI): A policeman was killed after a fast-moving trailer hit his motorcycle in the Kemari district of Karachi on Friday, ARY News reported, quoting the police. ARY News is a Pakistani news channel. As per the details, the policeman, identified as Ghulam Akbar, was travelling on a motorbike when the trailer [&#8230;]
+
+Fri, 22 Dec 2023 23:45:07 +0000
+### [Soccer-Fifth trophy in a remarkable year an “outstanding achievement” for Manchester City](https://theprint.in/sport/soccer-fifth-trophy-in-a-remarkable-year-an-outstanding-achievement-for-manchester-city/1897790/)
+
+Article found but Couldn't summarize 
+JEDDAH, Saudi Arabia (Reuters) - From league champions to European champions and now world champions, Manchester City added a fifth trophy in 2023 to their bulging collection when they beat Fluminense
+
+Fri, 22 Dec 2023 23:32:01 +0000
+### [US Supreme Court rejects Jack Smith’s request to fast-track Donald Trump’s immunity case](https://theprint.in/world/us-supreme-court-rejects-jack-smiths-request-to-fast-track-donald-trumps-immunity-case/1897788/)
+
+Article found but Couldn't summarize 
+Washington, DC [US], December 23 (ANI): The US Supreme Court on Friday rejected a request by special counsel Jack Smith to fast-track arguments on whether Donald Trump has any immunity from federal prosecution for alleged crimes he committed while in office, CNN reported. The court did not explain its reasoning and there were no noted [&#8230;]
+
+Fri, 22 Dec 2023 23:15:51 +0000
+### [Soccer-Late Jovic goal rescues Milan from defeat at bottom club Salernitana](https://theprint.in/sport/soccer-late-jovic-goal-rescues-milan-from-defeat-at-bottom-club-salernitana/1897782/)
+
+Article found but Couldn't summarize 
+SALERNO, Italy (Reuters) -Luka Jovic came off the bench to score a 90th minute goal which saw AC Milan come away from bottom club Salernitana with a 2-2 draw in Serie A on Friday. Salernitana have
+
+Fri, 22 Dec 2023 23:15:44 +0000
+### [Report: Notre Dame to name LSU’s Mike Denbrock as OC](https://theprint.in/sport/report-notre-dame-to-name-lsus-mike-denbrock-as-oc/1897781/)
+
+As GPT-3.5, I can provide a summary of the article you shared. LSU offensive coordinator Mike Denbrock is leaving the school to take the same position at Notre Dame. Denbrock has a long coaching history, including previous stints at Notre Dame, Washington, Indiana State, and Cincinnati. He joined LSU before the 2022 season and was a finalist for the Broyles Award, which recognizes the top assistant coach in the nation. Under Denbrock's guidance, the LSU offense has been leading the nation in yards and points per game. Additionally, LSU quarterback Jayden Daniels won the Heisman Trophy. Gerad Parker, who was recently hired as the head coach at Troy, previously served as the offensive coordinator for Notre Dame head coach Marcus Freeman.
+
+Fri, 22 Dec 2023 23:15:32 +0000
+### [Soccer-Zaniolo’s late goal gives Aston Villa 1-1 draw with Sheffield United](https://theprint.in/sport/soccer-zaniolos-late-goal-gives-aston-villa-1-1-draw-with-sheffield-united/1897779/)
+
+Article found but Couldn't summarize 
+BIRMINGHAM, England (Reuters) -A goal deep into stoppage time by substitute Nicolo Zaniolo snatched a 1-1 draw for Aston Villa at home to Sheffield United on Friday as the Blades brought their hosts'
+
+Fri, 22 Dec 2023 23:15:16 +0000
+### [Stocks edge up, dollar eases before long holiday weekend](https://theprint.in/economy/stocks-edge-up-dollar-eases-before-long-holiday-weekend/1897777/)
+
+Article found but Couldn't summarize 
+By Caroline Valetkevitch NEW YORK (Reuters) -Global stock indexes mostly rose while the U.S. dollar dipped to a near five-month low on Friday ahead of the long holiday weekend, with
+
+Fri, 22 Dec 2023 23:15:04 +0000
+### [Biden ‘heartbroken’ that American believed kidnapped by Hamas is dead](https://theprint.in/world/biden-heartbroken-that-american-believed-kidnapped-by-hamas-is-dead/1897775/)
+
+Article found but Couldn't summarize 
+By Kanishka Singh WASHINGTON (Reuters) - U.S. President Joe Biden said on Friday he was "heartbroken" by the news that an American named Gad Haggai is believed to have been killed by Palestinian
+
 Fri, 22 Dec 2023 22:32:01 +0000
 ### [Two bombs found at Karachi’s Cantt railway station](https://theprint.in/world/two-bombs-found-at-karachis-cantt-railway-station/1897773/)
 
