@@ -1,3 +1,122 @@
+Sat, 23 Dec 2023 08:07:08 +0000
+### [Congress protest march to Kerala DGP office turns violent](https://theprint.in/india/1898007/1898007/)
+
+Article found but Couldn't summarize 
+March was organised by Kerala Pradesh Congress Committee to protest against alleged police atrocities against its workers during their agitation against ongoing 'Nava Kerala Sadas.'
+
+Sat, 23 Dec 2023 08:02:13 +0000
+### [Vibrant Gujarat: Rs 67,000 crore worth investment proposals signed in petrochemicals sector](https://theprint.in/economy/vibrant-gujarat-rs-67000-crore-worth-investment-proposals-signed-in-petrochemicals-sector/1898017/)
+
+Article found but Couldn't summarize 
+Bharuch (Gujarat) [India], December 23 (ANI): As many as 11 Memoranda of Understandings (MoUs) amounting to a total of Rs 67,000 investment potential were signed at a pre-Vibrant Gujarat Global Summit event held in Bharuch. The event, &#8216;FutureChem Gujarat: Shaping tomorrow&#8217;s Chemicals and Petrochemicals Industry&#8217;, brings under one umbrella policymakers, practitioners, and national and international [&#8230;]
+
+Sat, 23 Dec 2023 08:02:02 +0000
+### [Wobble Personal Audio Ropes in Bollywood Star Ayushmann Khurrana as Its Brand Ambassador](https://theprint.in/ani-press-releases/wobble-personal-audio-ropes-in-bollywood-star-ayushmann-khurrana-as-its-brand-ambassador/1898015/)
+
+Article found but Couldn't summarize 
+BusinessWire India Bangalore (Karnataka) [India], December 23: Indkal Technologies has officially announced its partnership with Bollywood star, Ayushmann Khurrana for the launch of their latest True Wireless Stereo (TWS) products. Khurrana will spearhead the campaign named &#8220;#TimeToWobble,&#8221; which not only celebrates an energetic and fast-paced lifestyle but also recognizes the uniqueness of each individual&#8217;s preferred [&#8230;]
+
+Sat, 23 Dec 2023 08:01:24 +0000
+### [Cold weather conditions prevail in most parts of Punjab, Haryana](https://theprint.in/india/cold-weather-conditions-prevail-in-most-parts-of-punjab-haryana-2/1898014/)
+
+Article found but Couldn't summarize 
+Chandigarh, Dec 23 (PTI) Cold weather conditions continued to persist in Punjab and Haryana on Saturday with Bathinda being the coldest place with the minimum temperature of six degrees Celsius. Among other places in Punjab, Ludhiana, Patiala and Amritsar recorded respective minimum temperatures of 9.2, 8.6 and 11 degrees Celsius, according to the Meteorological Department&#8217;s [&#8230;]
+
+Sat, 23 Dec 2023 08:01:13 +0000
+### [ECI to release Bengal’s final voters list next month](https://theprint.in/india/eci-to-release-bengals-final-voters-list-next-month/1898013/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 23 (PTI) The Election Commission of India (ECI) will release West Bengal&#8217;s final voters list in January, 2024 a senior official said on Saturday. After publishing the list, the ECI will be sending its full bench to West Bengal, he said, adding that the state chief secretary and Chief Electoral Officer (CEO) have [&#8230;]
+
+Sat, 23 Dec 2023 08:00:58 +0000
+### [Cong chief pays tributes to PV Narasimha Rao, Chaudhary Charan Singh](https://theprint.in/india/cong-chief-pays-tributes-to-pv-narasimha-rao-chaudhary-charan-singh/1898012/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) Congress president Mallikarjun Kharge on Saturday paid tributes to former prime ministers PV Narasimha Rao and Chaudhary Charan Singh. December 23 is the birth anniversary of Singh and the death anniversary of Rao. Paying tributes to Rao, the Congress chief in a post on X said, &#8220;Our tribute to former [&#8230;]
+
+Sat, 23 Dec 2023 08:00:43 +0000
+### [BJP MLA Ramdular Gond disqualified after 25-year jail in rape case](https://theprint.in/india/bjp-mla-ramdular-gond-disqualified-after-25-year-jail-in-rape-case/1898011/)
+
+Article found but Couldn't summarize 
+Lucknow, Dec 23 (PTI) BJP MLA Ramdular Gond, who was recently sentenced to 25 years of rigorous imprisonment for raping a girl nine years ago, has been disqualified as a member of the Uttar Pradesh assembly, official sources said on Saturday. According to the Representation of the People Act, a lawmaker sentenced to imprisonment for [&#8230;]
+
+Sat, 23 Dec 2023 08:00:21 +0000
+### [Worry about unemployment instead: Sibal slams FM over her criticism of Tamil Nadu CM Stalin](https://theprint.in/india/worry-about-unemployment-instead-sibal-slams-fm-over-her-criticism-of-tamil-nadu-cm-stalin/1898010/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) Rajya Sabha MP Kapil Sibal on Saturday hit out at Finance Minister Nirmala Sitharaman for her criticism of Tamil Nadu Chief Minister M K Stalin over him attending an INDIA bloc meeting despite torrential rains battering his state, and said she should instead worry about issues such as unemployment and [&#8230;]
+
+Sat, 23 Dec 2023 08:00:03 +0000
+### [Kerala CM justifies police against woman journo in shoe hurling incident](https://theprint.in/india/kerala-cm-justifies-police-against-woman-journo-in-shoe-hurling-incident/1898009/)
+
+Article found but Couldn't summarize 
+Thiruvananthapuram, Dec 23 (PTI) Kerala Chief Minister Pinarayi Vijayan on Saturday justified the registration of a case against a woman journalist for hurling shoes at a bus in which he was traveling and said the police action was based on evidences. There won&#8217;t be any hindrance for any journalist to perform their duty but conspiracy [&#8230;]
+
+Sat, 23 Dec 2023 07:47:17 +0000
+### [India’s first wide-body A350 aircraft to arrive today, to join Air India fleet](https://theprint.in/economy/indias-first-wide-body-a350-aircraft-to-arrive-today-to-join-air-india-fleet/1898004/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 23 (ANI): The wait is over, as Air India&#8217;s first wide-body aircraft, A350, with new livery will make its touchdown on Saturday. Air India CEO and MD Campbell Wilson said this in his weekly message to the employees yesterday.&#8221;After many months of planning, the first aircraft, and the first to sport [&#8230;]
+
+Sat, 23 Dec 2023 07:47:02 +0000
+### [Indian diplomacy successful in forging relationships with competing powers: EAM Jaishankar](https://theprint.in/world/indian-diplomacy-successful-in-forging-relationships-with-competing-powers-eam-jaishankar/1898002/)
+
+Article found but Couldn't summarize 
+Gandhinagar (Gujarat) [India], December 23 (ANI): Highlighting the accomplishments of Indian diplomacy, External Affairs Minister S Jaishankar asserted that New Delhi has effectively cultivated relationships with multiple and often competing powers, calling it a &#8220;significant&#8221; milestone. Speaking at the 3rd convocation of Rashtriya Raksha University in Lavad, Gandhinagar, Jaishankar emphasized that geopolitical considerations often revolve [&#8230;]
+
+Sat, 23 Dec 2023 07:46:07 +0000
+### [Bomb found in train at Karachi’s Cantt railway station, defused](https://theprint.in/world/bomb-found-in-train-at-karachis-cantt-railway-station-defused-2/1898001/)
+
+GPT-3.5: The Sindh Counter Terrorism Department foiled a terror attack at the main railway station in Karachi when they discovered a time bomb in a train. The bomb was found in a bag placed under a seat of the Peshawar Express. A vigilant security guard noticed the bag and immediately informed the CTD and Bomb Disposal Squad. The bomb, which contained at least two kilograms of explosive material, was diffused through controlled blasts. It appears that someone left the bag there and disappeared.
+
+Sat, 23 Dec 2023 07:45:56 +0000
+### [Shahid Kapoor, Pooja Hegde’s ‘Deva’ concludes first schedule](https://theprint.in/feature/shahid-kapoor-pooja-hegdes-deva-concludes-first-schedule/1897999/)
+
+Article found but Couldn't summarize 
+Mumbai, Dec 23 (PTI) The first shooting schedule of Shahid Kapoor and Pooja Hegde&#8217;s upcoming movie &#8220;Deva&#8221; has wrapped, the makers said on Saturday. Rosshan Andrrews, known for Malayalam blockbusters such as “Salute” and “Kayamkulam Kochunni”, is directing the action thriller movie. Siddharth Roy Kapur’s Roy Kapur Films shared the news of the schedule wrap. [&#8230;]
+
+Sat, 23 Dec 2023 07:45:47 +0000
+### [Big East ‘beasts’ clash as Providence hosts Butler](https://theprint.in/sport/big-east-beasts-clash-as-providence-hosts-butler/1897997/)
+
+Article found but Couldn't summarize 
+Two teams that got off to a winning start in Big East play meet Saturday afternoon as Providence continues a five-game homestand with a visit from Butler. The schedule won't get any easier for the
+
+Sat, 23 Dec 2023 07:45:39 +0000
+### [Bihar Police to launch ‘Mission Investigation@75 days’ from January 1, 2024](https://theprint.in/india/bihar-police-to-launch-mission-investigation75-days-from-january-1-2024/1897996/)
+
+Article found but Couldn't summarize 
+Patna, Dec 23 (PTI) Bihar Police have decided to make it binding on investigators to complete investigation of cases within 75 days of registration of FIR from January 1 next year, a senior officer said. The performances of all police stations and district police will also be reviewed on a monthly basis from January 1, [&#8230;]
+
+Sat, 23 Dec 2023 07:45:27 +0000
+### [Assam is seeing a volleyball revolution. A local champ is rallying one village after another](https://theprint.in/ground-reports/assam-is-seeing-a-volleyball-revolution-a-local-champ-is-rallying-one-village-after-another/1897597/)
+
+Article found but Couldn't summarize 
+Former India captain Abhijit Bhattacharya's Brahmaputra Volleyball League kicked off its fourth edition this year—with 390 teams from 144 villages in Assam.
+
+Sat, 23 Dec 2023 07:45:04 +0000
+### [Taiwan reports more Chinese military activity as election approaches](https://theprint.in/world/taiwan-reports-more-chinese-military-activity-as-election-approaches/1897994/)
+
+Article found but Couldn't summarize 
+TAIPEI (Reuters) - Taiwan reported Chinese warplanes and warships around the island on Saturday, including aircraft crossing the sensitive median line of the Taiwan Strait, as Beijing continues
+
+Sat, 23 Dec 2023 07:45:03 +0000
+### [Air pollution: Delhi environment minister directs effective implementation of Stage-3 GRAP curbs](https://theprint.in/india/air-pollution-delhi-environment-minister-directs-effective-implementation-of-stage-3-grap-curbs/1897993/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) Delhi Environment Minister Gopal Rai on Saturday asked all departments concerned to reactivate their teams for effective implementation of curbs under Stage-3 of the Centre&#8217;s air pollution control plan. Addressing a press conference here, the minister said that air quality in Delhi deteriorated from very poor to the severe category [&#8230;]
+
+Sat, 23 Dec 2023 07:44:21 +0000
+### [Global debt has hit $307 trillion in 2023. But why does it matter?](https://theprint.in/economy/global-debt-has-hit-307-trillion-in-2023-but-why-does-it-matter/1897989/)
+
+Article found but Couldn't summarize 
+Global debt is borrowing by governments, businesses and people, and it’s at dangerously high levels.
+
+Sat, 23 Dec 2023 07:30:31 +0000
+### [Titanic, Lusitania, Monitor—shipwrecks aren’t just cultural icons but biological treasures too](https://theprint.in/environment/titanic-lusitania-monitor-shipwrecks-arent-just-cultural-icons-but-biological-treasures-too/1897976/)
+
+Article found but Couldn't summarize 
+Shipwrecks conjure tales of human courage and sacrifice, sunken treasure and unsolved mysteries. But there’s another angle to their stories that doesn’t feature humans.
+
 Sat, 23 Dec 2023 07:02:45 +0000
 ### [“136 of our colleagues in Gaza have been killed in 75 days”: UN Chief Guterres](https://theprint.in/world/136-of-our-colleagues-in-gaza-have-been-killed-in-75-days-un-chief-guterres/1897973/)
 
