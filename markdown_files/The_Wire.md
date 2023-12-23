@@ -1,3 +1,9 @@
+2023-12-23T14:24:24+05:30
+### [Opposition's Efforts to Have a 'Meaningful Discussion' in Parliament Were Ignored: Kharge to Dhankar](https://thewire.in/politics/oppositions-efforts-to-have-a-meaningful-discussion-in-parliament-were-ignored-kharge-to-dhankar)
+
+No Article text 
+The Leader of the Opposition's letter to Rajya Sabha chairman came a day after the latter wrote to the former over disruptions and acrimony in the parliament.
+
 2023-12-23T13:30:55+05:30
 ### [Israel Guilty of Seriously Underestimating Hamas; War Could Last For Years: Ex-Mossad Head](https://thewire.in/video/efraim-halevy-says-israel-guilty-of-seriously-underestimating-hamas)
 

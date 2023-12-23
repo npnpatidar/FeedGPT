@@ -1,3 +1,9 @@
+Sat, 23 Dec 2023 14:32:11 +0530
+### [The butterfly effect: How India’s defence indigenisation impacts global geo-political dynamics](https://www.firstpost.com/opinion/the-butterfly-effect-how-indias-defence-indigenisation-impacts-global-geo-political-dynamics-13538762.html)
+
+Article found but Couldn't summarize 
+The butterfly effect: How India’s defence indigenisation impacts global geo-political dynamics
+
 Sat, 23 Dec 2023 13:15:36 +0530
 ### [Vantage | Why members of US-led coalition in Red Sea are hesitating in their participation](https://www.firstpost.com/opinion/vantage-why-members-of-us-led-coalition-in-red-sea-are-hesitating-in-their-participation-13538512.html)
 

@@ -1,3 +1,8 @@
+Sat, 23 Dec 2023 08:45:34 +0000
+### [Bangladesh Elections and extremists: The tragic history and dangers today](https://indianexpress.com/article/opinion/bangladesh-elections-extremists-history-danger-9080145/)
+
+Article found but Couldn't summarize
+
 Sat, 23 Dec 2023 07:00:29 +0000
 ### [After witnessing Sakshi Malik’s fate, a question: Should I speak up against harassment?](https://indianexpress.com/article/opinion/columns/after-witnessing-sakshi-maliks-fate-a-question-9080036/)
 

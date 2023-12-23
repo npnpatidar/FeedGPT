@@ -1,3 +1,123 @@
+Sat, 23 Dec 2023 09:02:59 +0000
+### [Govt focused on investing in green, clean technologies: Jaishankar](https://theprint.in/world/govt-focused-on-investing-in-green-clean-technologies-jaishankar/1898062/)
+
+Article found but Couldn't summarize 
+Gandhinagar (Gujarat) [India], December 23 (ANI): Highlighting the imperative to invest in environmentally friendly technologies, External Affairs Minister S. Jaishankar emphasised that the government is currently directing its efforts towards this crucial area. The minister underscored the necessity of considering the security implications associated with external dependence on renewables or fossil fuels. &#8220;If we invest [&#8230;]
+
+Sat, 23 Dec 2023 09:02:01 +0000
+### [“His voice echoes within me”: Anil misses his father Surinder Kapoor on birth anniversary](https://theprint.in/feature/his-voice-echoes-within-me-anil-misses-his-father-surinder-kapoor-on-birth-anniversary/1898060/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 23 (ANI): Actor Anil Kapoor on Saturday penned an emotional note for his dad and veteran producer Surinder Kapoor on his birth anniversary. Anil took to Instagram and shared throwback pictures of his dad. &#160; &#160; &#160; &#160; &#160; View this post on Instagram &#160; &#160; &#160; &#160; &#160; &#160; &#160; [&#8230;]
+
+Sat, 23 Dec 2023 09:01:11 +0000
+### [Supply of ‘non-standard’ drugs in Delhi govt hospitals: LG recommends CBI inquiry](https://theprint.in/india/supply-of-non-standard-drugs-in-delhi-govt-hospitals-lg-recommends-cbi-inquiry/1898059/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) Delhi Lieutenant Governor V K Saxena has recommended a CBI inquiry into the alleged procurement and supply of &#8220;non-standard&#8221; drugs in Delhi government hospitals, Raj Niwas officials said on Saturday. When asked about the matter, Delhi Environment Minister Gopal Rai told PTI that the government will come out with a [&#8230;]
+
+Sat, 23 Dec 2023 09:00:47 +0000
+### [Extremist, separatist forces outside India should not get space: Jaishankar on US temple vandalism](https://theprint.in/india/extremist-separatist-forces-outside-india-should-not-get-space-jaishankar-on-us-temple-vandalism/1898057/)
+
+Article found but Couldn't summarize 
+Gandhinagar, Dec 23 (PTI) External Affairs Minister S Jaishankar on Saturday expressed concern over the vandalism of a Hindu temple with anti-India graffiti in the US, and said extremists and separatist forces outside India should not get such space. He was speaking to reporters on the sidelines of the third convocation of the Rashtriya Raksha [&#8230;]
+
+Sat, 23 Dec 2023 09:00:22 +0000
+### [Shukla Dutta appointed India U19 women’s football team head coach](https://theprint.in/sport/shukla-dutta-appointed-india-u19-womens-football-team-head-coach/1898055/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) Former India player Shukla Dutta was on Saturday appointed the country&#8217;s U19 women&#8217;s football team coach ahead of the SAFF Championships in February next year. Dutta, a former India U17 women&#8217;s team coach, will be assisted by ex-India international Sradhanjali Samantaray, and goalkeeping coach Lourembam Ronibala Chanu in an all-women [&#8230;]
+
+Sat, 23 Dec 2023 09:00:03 +0000
+### [Congress march to DGP office in Kerala turns violent, Police fire water cannons](https://theprint.in/india/congress-march-to-dgp-office-in-kerala-turns-violent-police-fire-water-cannons/1898054/)
+
+Article found but Couldn't summarize 
+Thiruvananthapuram, Dec 23 (PTI) A protest march by the opposition Congress towards the Kerala DGP office here on Saturday turned violent with agitators hurling stones and sticks at the police following which water cannons were used to disperse the crowd. The march was organised by the Kerala Pradesh Congress Committee (KPCC) alleging police atrocities against [&#8230;]
+
+Sat, 23 Dec 2023 08:57:06 +0000
+### [‘A step ahead’ — industry welcomes Gujarat govt relaxation in liquor prohibition for GIFT City](https://theprint.in/india/governance/a-step-ahead-industry-welcomes-gujarat-govt-relaxation-in-liquor-prohibition-for-gift-city/1897964/)
+
+Article found but Couldn't summarize 
+In a statement Friday, Gujarat govt said 'GIFT City emerged as a global financial and technological hub' and hotels, restaurants and clubs here 'will be given permits for wine and dine facilities'.
+
+Sat, 23 Dec 2023 08:47:02 +0000
+### [TECNO CAMON 20 Premier 5G and PHANTOM v Flip 5G Wins German Design Awards 2024](https://theprint.in/ani-press-releases/tecno-camon-20-premier-5g-and-phantom-v-flip-5g-wins-german-design-awards-2024-3/1898050/)
+
+Article found but Couldn't summarize 
+BusinessWire India New Delhi [India], December 23: TECNO, a leading global smartphone brand renowned for its commitment to accessible yet stylish innovation, is shining in the design world. The brand has been recognized at the German Design Awards 2024 for two of its standout devices CAMON 20 Premier 5G and TECNO PHANTOM V Flip 5G. [&#8230;]
+
+Sat, 23 Dec 2023 08:45:40 +0000
+### [Man, his 3-month-old daughter burnt alive in fire caused by room heater](https://theprint.in/india/man-his-3-month-old-daughter-burnt-alive-in-fire-caused-by-room-heater/1898049/)
+
+Article found but Couldn't summarize 
+Jaipur, Dec 23 (PTI) In a tragic incident, a man and his three-month-old daughter were burnt alive, and his wife sustained injuries in a fire caused by heater in their room in the Khairthal-Tijara district of Rajasthan, police said. The incident occurred under the Shekhpur Police Station area last night. Police said a quilt caught [&#8230;]
+
+Sat, 23 Dec 2023 08:45:29 +0000
+### [Wanted TTP commander killed in Pakistan’s Punjab province: Police](https://theprint.in/world/wanted-ttp-commander-killed-in-pakistans-punjab-province-police/1898048/)
+
+Article found but Couldn't summarize 
+Lahore, Dec 23 (PTI) Pakistani security forces on Saturday killed a key commander of the banned Tehreek-i-Taliban Pakistan (TTP) who was involved in several terror plots, including a deadly attack on an ISI building in Punjab province. The Counter Terrorism Department (CTD) in a statement said that it received a tip-off that some terrorists were [&#8230;]
+
+Sat, 23 Dec 2023 08:45:18 +0000
+### [2 held guilty in 2005 Shramjeevi Express blast case](https://theprint.in/india/2-held-guilty-in-2005-shramjeevi-express-blast-case/1898046/)
+
+Article found but Couldn't summarize 
+Jaunpur (UP), Dec 23 (PTI) A local court here has held two persons guilty in the 2005 Shramjeevi Express blast case in which 14 people were killed. Additional District and Sessions Judge Rajesh Kumar Rai on Friday held Nafikul Vishwas and Hilal guilty in the case, District government advocate Virendra Maurya said. The quantum of [&#8230;]
+
+Sat, 23 Dec 2023 08:45:02 +0000
+### [Courts can’t allow inadequate prison healthcare system to violate inmate’s right: HC](https://theprint.in/india/courts-cant-allow-inadequate-prison-healthcare-system-to-violate-inmates-right-hc/1898045/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) Courts cannot allow an inadequate prison healthcare system to violate an inmate&#8217;s right to timely medical care, the Delhi High Court held while directing the city government to ensure that proper medical infrastructure is maintained in jails here. Observing that the Delhi government is responsible for the management and maintenance [&#8230;]
+
+Sat, 23 Dec 2023 08:32:38 +0000
+### [‘Beta’ reunion: Anupam Kher poses with Aruna Irani, Indra Kumar](https://theprint.in/feature/beta-reunion-anupam-kher-poses-with-aruna-irani-indra-kumar/1898038/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 23 (ANI): Veteran actors Anupam Kher and Aruna Irani, who have worked together in the film &#8216;Beta&#8217;, recently reunited and treated fans with their picture. Not only the star cast but film&#8217;s director Indra Kumar posed with the duo. Taking to Instagram, Kher treated fans with a picture from the &#8216;Beta&#8217; [&#8230;]
+
+Sat, 23 Dec 2023 08:32:25 +0000
+### [TECNO CAMON 20 Premier 5G and PHANTOM v Flip 5G Wins German Design Awards 2024](https://theprint.in/ani-press-releases/tecno-camon-20-premier-5g-and-phantom-v-flip-5g-wins-german-design-awards-2024-2/1898036/)
+
+Article found but Couldn't summarize 
+BusinessWire India New Delhi [India], December 23: TECNO, a leading global smartphone brand renowned for its commitment to accessible yet stylish innovation, is shining in the design world. The brand has been recognized at the German Design Awards 2024 for two of its standout devices CAMON 20 Premier 5G and TECNO PHANTOM V Flip 5G. [&#8230;]
+
+Sat, 23 Dec 2023 08:32:14 +0000
+### [Apply Dubai Visa Online with Leading Visa Provider: EvisaDubai.ae](https://theprint.in/ani-press-releases/apply-dubai-visa-online-with-leading-visa-provider-evisadubai-ae/1898034/)
+
+Article found but Couldn't summarize 
+ATK New Delhi [India], December 23: We all know how difficult it is to have easy access to a visa especially when it comes to applying for places like Dubai which have such harsh protocols and security. Don&#8217;t worry EvisaDubai.ae has converted all your difficulties into ease and pleasure so that you can get access [&#8230;]
+
+Sat, 23 Dec 2023 08:32:02 +0000
+### [“I have seen it…extremists, separatists should not be given space”: Jaishankar after Hindu temple defaced in US](https://theprint.in/world/i-have-seen-it-extremists-separatists-should-not-be-given-space-jaishankar-after-hindu-temple-defaced-in-us/1898032/)
+
+Article found but Couldn't summarize 
+Gandhinagar (Gujarat) [India], December 23 (ANI): Amid the outrage over the defacement of the Swami Narayan temple in Newark, US, External Affairs Minister S Jaishankar on Saturday said he is aware of the incident, adding that such &#8216;extremists&#8217; should not be given space. He underlined that the Indian Consulate in San Francisco has already taken [&#8230;]
+
+Sat, 23 Dec 2023 08:30:16 +0000
+### [Trees being nailed to make Shimla beautiful: Former deputy mayor](https://theprint.in/india/trees-being-nailed-to-make-shimla-beautiful-former-deputy-mayor/1898030/)
+
+Article found but Couldn't summarize 
+Shimla (HP), Dec 23 (PTI) Trees are being nailed to bleed to make Shimla beautiful, alleged former deputy mayor of Shimla Municipal Corporation and CPI (M) leader Takinder Singh Panwar on Saturday. Trees are being nailed to put up artificial lights to lighten the Ridge ground in the heart of Shimla city ahead of Christmas [&#8230;]
+
+Sat, 23 Dec 2023 08:30:02 +0000
+### [Entrepreneurship devpt centres to come up in over 100 govt institutes in NE](https://theprint.in/india/entrepreneurship-devpt-centres-to-come-up-in-over-100-govt-institutes-in-ne/1898029/)
+
+Article found but Couldn't summarize 
+Guwahati, Dec 23 (PTI) Entrepreneurship development centres (EDCs) will be established in over 100 government-run skill training institutes in the Northeast to provide the youth with mentoring and handholding support, and assist them in developing financial linkages, a release said on Saturday. The Indian Institute of Entrepreneurship (IIE) has been assigned the responsibility of establishing [&#8230;]
+
+Sat, 23 Dec 2023 08:15:24 +0000
+### [Cold weather conditions prevail in most parts of Punjab, Haryana](https://theprint.in/india/cold-weather-conditions-prevail-in-most-parts-of-punjab-haryana-3/1898025/)
+
+Article found but Couldn't summarize 
+Chandigarh, Dec 23 (PTI) Cold weather conditions continued to persist in Punjab and Haryana on Saturday with Bathinda being the coldest place with the minimum temperature of six degrees Celsius. Among other places in Punjab, Ludhiana, Patiala and Amritsar recorded respective minimum temperatures of 9.2, 8.6 and 11 degrees Celsius, according to the Meteorological Department&#8217;s [&#8230;]
+
+Sat, 23 Dec 2023 08:15:15 +0000
+### [BJP functionary in MP wears footwear after 6-year gap as his wish of seeing party at helm fulfilled](https://theprint.in/india/bjp-functionary-in-mp-wears-footwear-after-6-year-gap-as-his-wish-of-seeing-party-at-helm-fulfilled/1898024/)
+
+Article found but Couldn't summarize 
+Bhopal, Dec 23 (PTI) The BJP&#8217;s Anuppur district unit chief in Madhya Pradesh, who had vowed in 2017 not to wear footwear till the party forms a government in the state, started wearing it again on Saturday, days after the saffron party registered a resounding victory in the assembly polls. The Bharatiya Janata Party&#8217;s Anuppur [&#8230;]
+
 Sat, 23 Dec 2023 08:07:08 +0000
 ### [Congress protest march to Kerala DGP office turns violent](https://theprint.in/india/1898007/1898007/)
 

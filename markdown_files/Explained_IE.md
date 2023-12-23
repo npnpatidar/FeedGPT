@@ -1,3 +1,8 @@
+Sat, 23 Dec 2023 08:55:58 +0000
+### [The true story of the Jolly Joseph case, now subject of a Netflix documentary](https://indianexpress.com/article/explained/jolly-joseph-murders-koodatha-netflix-9079974/)
+
+Article found but Couldn't summarize
+
 Sat, 23 Dec 2023 06:54:20 +0000
 ### [Is Kim Jong Un grooming his daughter to rule North Korea?](https://indianexpress.com/article/explained/explained-global/kim-jong-un-grooming-his-daughter-to-rule-north-korea-9080018/)
 
