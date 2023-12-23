@@ -1,3 +1,9 @@
+2023-12-23T20:43:08+05:30
+### [J&K: In Poonch, Anger After Videos Emerge Of Three Civilians Found Dead Allegedly After Army Questioning](https://thewire.in/rights/anger-in-poonch-after-videos-show-three-dead-after-alleged-army-questioning)
+
+No Article text 
+After videos showing the alleged torture of detained civilians spread online, their death has triggered massive protests in Srinagar. News agencies say the internet has been shut down in the district.
+
 2023-12-23T18:11:24+05:30
 ### [No Inquiry Report Yet But Silkyara Tunnel Work Resumes; Rat-Hole Miners Refuse Govt Reward: Reports](https://thewire.in/environment/no-inquiry-report-yet-but-silkyara-tunnel-work-resumes-rat-hole-miners-refuse-govt-reward-reports)
 

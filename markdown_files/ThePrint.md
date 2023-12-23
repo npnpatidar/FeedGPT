@@ -1,3 +1,122 @@
+Sat, 23 Dec 2023 15:16:43 +0000
+### [Witnesses record their statements in cipher case](https://theprint.in/world/witnesses-record-their-statements-in-cipher-case/1898451/)
+
+Article found but Couldn't summarize 
+Islamabad, Dec 23 (PTI) Two key witnesses in the cipher case, including former principal secretary to ex-prime minister Imran Khan and former ambassador to the US, on Saturday, recorded their statements in a jail. Special court Judge Abul Hasnat Muhammad Zulqarnain presided over the open-trial hearing at the Adiala Jail in Rawalpindi where 71-year-old Khan [&#8230;]
+
+Sat, 23 Dec 2023 15:16:31 +0000
+### [CM Vijayan targets Centre, Congress on final day of Nava Kerala Sadas](https://theprint.in/india/cm-vijayan-targets-centre-congress-on-final-day-of-nava-kerala-sadas/1898450/)
+
+Article found but Couldn't summarize 
+Thiruvananthapuram, Dec 23 (PTI) Marking the culmination of the one month-long Nava Kerala Sadas, Chief Minister Pinarayi Vijayan here on Saturday hit out at the opposition Congress-led UDF and the BJP-headed Union government, accusing them of causing hurdles in the development of the state. While the Centre is trying to scuttle the progress of Kerala, [&#8230;]
+
+Sat, 23 Dec 2023 15:16:19 +0000
+### [Delhi pollution: Centre puts off implementing stricter curbs for now, to wait and watch](https://theprint.in/india/delhi-pollution-centre-puts-off-implementing-stricter-curbs-for-now-to-wait-and-watch/1898449/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) The Centre on Saturday decided to hold off on implementing stricter measures to curb air pollution in Delhi-NCR, preferring to assess the effectiveness of the current actions. The central government on Friday ordered a ban on non-essential construction work and plying of BS-III petrol and BS-IV diesel four-wheelers in Delhi-NCR [&#8230;]
+
+Sat, 23 Dec 2023 15:16:06 +0000
+### [V-P Dhankhar writes to Kharge again, invites him to residence on Christmas Day](https://theprint.in/india/v-p-dhankhar-writes-to-kharge-again-invites-him-to-residence-on-christmas-day/1898448/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) Vice President Jagdeep Dhankhar on Saturday invited Congress chief Mallikarjun Kharge to his residence on December 25 for an interaction on the issue of disruptions in Parliament and the suspension of opposition MPs, saying despite his repeated requests, such a meeting could not happen during the Winter session. The vice [&#8230;]
+
+Sat, 23 Dec 2023 15:15:52 +0000
+### [Two shot dead, six injured in clash between two families in MP’s Sagar district](https://theprint.in/india/two-shot-dead-six-injured-in-clash-between-two-families-in-mps-sagar-district/1898447/)
+
+Article found but Couldn't summarize 
+Sagar, Dec 23 (PTI) Two persons, including a woman, were shot dead and at least six others were injured after members of two families clashed over past enmity in Madhya Pradesh’s Sagar district, an official said on Saturday. Six persons, including five women, have been arrested in connection with the incident that took place at [&#8230;]
+
+Sat, 23 Dec 2023 15:15:41 +0000
+### [SA coach Conrad confident of “stopping” India as Rabada hits nets](https://theprint.in/sport/sa-coach-conrad-confident-of-stopping-india-as-rabada-hits-nets/1898446/)
+
+Article found but Couldn't summarize 
+Centurion, Dec 23 (PTI) South Africa head coach Shukri Conrad is confident that India won’t be able to breach the ‘Final Frontier’ in their Test history even with his frontline pacers Kagiso Rabada and Lungi Ngidi hitting the nets ahead of the ‘Boxing Day’ Test. Rabada was rested from the white ball leg as he [&#8230;]
+
+Sat, 23 Dec 2023 15:15:30 +0000
+### [Red Sea crisis spilling over? Drone strike on commercial ship off Indian coast](https://theprint.in/defence/red-sea-crisis-spilling-over-drone-strike-on-commercial-ship-off-indian-coast/1898436/)
+
+Article found but Couldn't summarize 
+Attack is believed to be a spillover from Red Sea crisis, where Yemen-based Houthi rebels have been targeting commercial ships they suspect to be heading to or from Israel.
+
+Sat, 23 Dec 2023 15:15:29 +0000
+### [MP govt to prioritise development in Ujjain ahead of 2028 Simhastha Mela: CM](https://theprint.in/india/mp-govt-to-prioritise-development-in-ujjain-ahead-of-2028-simhastha-mela-cm/1898444/)
+
+Article found but Couldn't summarize 
+Bhopal, Dec 23 (PTI) Madhya Pradesh Chief Minister Mohan Yadav on Saturday said the government would undertake development works in the state on priority, particularly in Ujjain ahead of the 2028 Simhastha (Kumbh) Mela. He said devotees visiting Mahakal temple would be allotted time slots on the grounds of Tirupati Balaji temple to ensure that [&#8230;]
+
+Sat, 23 Dec 2023 15:15:16 +0000
+### [ECI to release final voters’ list of Bengal next month](https://theprint.in/india/eci-to-release-final-voters-list-of-bengal-next-month/1898443/)
+
+Article found but Couldn't summarize 
+Kolkata, Dec 23 (PTI) The Election Commission of India (ECI) will release the final voters&#8217; list of West Bengal early next month, a senior official said on Saturday. Once the list is published, the poll panel will send its full bench to the state, he said, adding that communications have been sent to the chief [&#8230;]
+
+Sat, 23 Dec 2023 15:15:02 +0000
+### [Vedas, upanishads, Gita basis of Indian Constitution, says Assam CM](https://theprint.in/india/vedas-upanishads-gita-basis-of-indian-constitution-says-assam-cm/1898442/)
+
+Article found but Couldn't summarize 
+Kurukshetra (Haryana), Dec 23 (PTI) Vedas, upanishads and the Bhagawad Gita are the basis on which the Indian Constitution was written and it is secular because the founding fathers who were Hindus believed in these scriptures, Assam Chief Minister Himanta Biswa Sarma said here on Saturday. Sarma was addressing the ongoing International Gita Mahotsav at [&#8230;]
+
+Sat, 23 Dec 2023 15:02:02 +0000
+### [Year Ender 2023: ‘Jawan’ to ‘Gadar 2’ highest-grossing Bollywood films of this year](https://theprint.in/feature/year-ender-2023-jawan-to-gadar-2-highest-grossing-bollywood-films-of-this-year/1898439/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 23 (ANI): 2023 has proven to be a fantastic year for Bollywood as several long-lasting box office records were shattered this year. Starting from &#8216;Pathaan&#8217; to &#8216;Animal&#8217;, the film industry has delivered several hit films this year. Check out the list of Indian films which made a mark at the box [&#8230;]
+
+Sat, 23 Dec 2023 15:01:03 +0000
+### [Delhi-NCR: Cab driver’s body with bullet injury found in Manesar](https://theprint.in/india/delhi-ncr-cab-drivers-body-with-bullet-injury-found-in-manesar/1898438/)
+
+Article found but Couldn't summarize 
+Gurugram, Dec 23 (PTI) The body of a cab driver with a bullet injury was found in the driver&#8217;s seat of his car outside a dhaba in Manesar here on Saturday morning, police said. The deceased was allegedly shot in the temple on Friday late night, Manesar SHO Virender Kumar said. The registration number of [&#8230;]
+
+Sat, 23 Dec 2023 15:00:51 +0000
+### [Time has come for convergence of intellect experience: V-P Dhankhar](https://theprint.in/india/time-has-come-for-convergence-of-intellect-experience-v-p-dhankhar/1898437/)
+
+Article found but Couldn't summarize 
+Chandigarh, Dec 23 (PTI) Noting that the time has come for &#8220;convergence of intellect experience&#8221;, Vice President Jagdeep Dhankhar Saturday asked alumni of various institutes in the country to come together for formulation of policies which will be &#8220;eye-opener&#8221;. He also said that India is poised to become the world&#8217;s third largest economy by the [&#8230;]
+
+Sat, 23 Dec 2023 15:00:40 +0000
+### [India working with authorities after flight carrying mostly Indians detained in France](https://theprint.in/world/india-working-with-authorities-after-flight-carrying-mostly-indians-detained-in-france/1898435/)
+
+Article found but Couldn't summarize 
+Paris, Dec 23 (PTI) India on Saturday said it was working with the French government for an early resolution of the situation after a Nicaragua-bound flight carrying 303 people, mostly Indians, was detained by French authorities during a technical halt at an airport near Paris over suspected &#8220;human trafficking&#8221;. The plane that took off from [&#8230;]
+
+Sat, 23 Dec 2023 15:00:27 +0000
+### [Flexible airspace use can potentially save Rs 1,000 cr annually for airlines: Govt](https://theprint.in/india/flexible-airspace-use-can-potentially-save-rs-1000-cr-annually-for-airlines-govt/1898434/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) Airlines will have potential savings of Rs 1,000 crore annually with the flexible use of airspace that helps in reducing flight time, fuel usage and carbon emissions, according to the civil aviation ministry. In a review of the aviation sector released on Saturday, the ministry also said that a record [&#8230;]
+
+Sat, 23 Dec 2023 15:00:16 +0000
+### [Lochab violated WFI constitution, demand for nationals’ postponement an attempt to stop wrestling: Drashan Lal](https://theprint.in/sport/lochab-violated-wfi-constitution-demand-for-nationals-postponement-an-attempt-to-stop-wrestling-drashan-lal/1898433/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) Prem Chand Lochab&#8217;s election to secretary general&#8217;s post is in violation of WFI&#8217;s constitution and he is now preventing the growth of wrestling in the country by demanding a postponement of the junior Nationals, said Darshan Lal, who had lost to him in the recent polls, on Saturday. Newly-elected Wrestling [&#8230;]
+
+Sat, 23 Dec 2023 15:00:03 +0000
+### [Assam DGP cautions people against putting up social media posts in favour of terrorist outfits](https://theprint.in/india/assam-dgp-cautions-people-against-putting-up-social-media-posts-in-favour-of-terrorist-outfits/1898431/)
+
+Article found but Couldn't summarize 
+Guwahati, Dec 23 (PTI) Assam Director General of Police (DGP) GP Singh on Saturday cautioned people against putting up social media posts in support of outlawed terrorist organisations. He warned that those taking to social media to lend their support to the banned outfits will be arrested and prosecuted as per the law. &#8220;Anyone willing [&#8230;]
+
+Sat, 23 Dec 2023 14:47:35 +0000
+### [Lindsay Lohan wishes her sister Aliana Lohan on her birthday with a special message](https://theprint.in/feature/lindsay-lohan-wishes-her-sister-aliana-lohan-on-her-birthday-with-a-special-message/1898428/)
+
+Article found but Couldn't summarize 
+Washington [US], December 23 (ANI): American actor Lindsay Lohan shared a special wish for her sister Aliana Lohan. She recently celebrated her birthday. Lohan shared a selfie with her and wrote a sweet message, reported People. She also posted pictures of both of them relaxing in a pool together, Aliana in a bikini on the [&#8230;]
+
+Sat, 23 Dec 2023 14:47:24 +0000
+### [Indian Embassy working with French govt for welfare of Indians currently at Varty Airport](https://theprint.in/world/indian-embassy-working-with-french-govt-for-welfare-of-indians-currently-at-varty-airport/1898426/)
+
+As GPT-3.5, I can provide a summary of the article you shared. The Indian Embassy in France is working with the French government to ensure the welfare of Indians currently at Varty Airport and to resolve the situation promptly. The embassy expressed gratitude to French authorities for their efforts during the holiday weekend. A flight from Dubai to Nicaragua, carrying mostly Indian passengers, was detained on a technical halt at a French airport. The embassy team has reached the passengers and obtained consular access, investigating the situation and ensuring their well-being. Please note that this summary is based on the information provided in the article.
+
+Sat, 23 Dec 2023 14:47:13 +0000
+### [US condemns vandalism of Hindu Temple in California](https://theprint.in/world/us-condemns-vandalism-of-hindu-temple-in-california/1898424/)
+
+Article found but Couldn't summarize 
+Washington DC [US], December 23 (ANI): The US State Department on Saturday condemned the vandalism of the Shri Swaminarayan Temple in California. It welcomed the Newark Police Department&#8217;s efforts to ensure that those responsible are held accountable. In a post shared on X by the official handle of the US State Department for the Bureau [&#8230;]
+
 Sat, 23 Dec 2023 14:16:35 +0000
 ### [HP: Stopped from passing through VIP lane at toll plaza, tourist opens fire; detained](https://theprint.in/india/hp-stopped-from-passing-through-vip-lane-at-toll-plaza-tourist-opens-fire-detained/1898401/)
 
