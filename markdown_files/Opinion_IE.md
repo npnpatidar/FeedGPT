@@ -1,3 +1,8 @@
+Sat, 23 Dec 2023 02:30:43 +0000
+### [Ram Madhav writes: Opposition today needs to learn from Atal Bihari Vajpayee](https://indianexpress.com/article/opinion/columns/atal-bihari-vajpayee-independence-era-leadership-parliamentary-democracy-suspension-of-oppn-mps-9079536/)
+
+Article found but Couldn't summarize
+
 Sat, 23 Dec 2023 02:15:16 +0000
 ### [Menaka Guruswamy writes: In India, what women who run need](https://indianexpress.com/article/opinion/columns/indian-women-wrestlerrs-federation-sakshi-malik-bajranng-punia-brij-bhushan-singh-9079534/)
 

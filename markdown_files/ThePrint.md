@@ -1,8 +1,116 @@
+Sat, 23 Dec 2023 04:17:02 +0000
+### [Priyanka shares pictures with husband Nick from holiday dinner, daughter Malti poses with customised car](https://theprint.in/feature/priyanka-shares-pictures-with-husband-nick-from-holiday-dinner-daughter-malti-poses-with-customised-car/1897853/)
+
+Article found but Couldn't summarize 
+Los Angeles [US], December 23 (ANI): Priyanka Chopra is all set to welcome Christmas. Ahead of the festival, she gave her fans a glimpse of her holiday dinner with her husband Nick Jonas and friends. Taking to Instagram, Priyanka shared a series of pictures featuring herself, Nick Jonas, daughter Malti Marie Chopra Jonas, and friends, [&#8230;]
+
+Sat, 23 Dec 2023 04:15:37 +0000
+### [Sikkim CM thanks PM, FM for release of Rs 283.10 crore to state](https://theprint.in/india/sikkim-cm-thanks-pm-fm-for-release-of-rs-283-10-crore-to-state/1897852/)
+
+Article found but Couldn't summarize 
+Gangtok, Dec 23 (PTI) Sikkim Chief Minister Prem Singh Tamang thanked Prime Minister Narendra Modi and Union Finance minister Nirmala Sitharaman for releasing Rs 283.10 crore to the state as an additional tax devolution instalment. He said the funds will help in the economic development of the Himalayan state. &#8220;#Gratitude to Hon&#8217;ble PM Shri @narendramodi [&#8230;]
+
+Sat, 23 Dec 2023 04:15:23 +0000
+### [Major infiltration bid foiled along IB in Jammu; one terrorist killed](https://theprint.in/india/major-infiltration-bid-foiled-along-ib-in-jammu-one-terrorist-killed/1897850/)
+
+Article found but Couldn't summarize 
+Jammu, Dec 23 (PTI) One terrorist was killed as security forces guarding the International Border (IB) thwarted an infiltration attempt here early Saturday, officials said. The operation happened when a group of four heavily-armed terrorists was noticed attempting to sneak into this side from across the IB in Khour sector of Akhnoor in the early [&#8230;]
+
+Sat, 23 Dec 2023 04:15:07 +0000
+### [Rockets easily dispatch short-handed Mavericks](https://theprint.in/sport/rockets-easily-dispatch-short-handed-mavericks/1897849/)
+
+Article found but Couldn't summarize 
+Alperen Sengun produced his eighth double-double of the season and the host Houston Rockets took full advantage of a short-handed Dallas Mavericks roster, rolling to a 122-96 win on Friday. Sengun
+
+Sat, 23 Dec 2023 04:15:02 +0000
+### [2 civilian workers die in Army camp fire in J-K’s Doda](https://theprint.in/india/2-civilian-workers-die-in-army-camp-fire-in-j-ks-doda-2/1897848/)
+
+Article found but Couldn't summarize 
+Doda/Jammu, Dec 23 (PTI) Two civilian workers were charred to death in a fire inside an Army camp in Jammu and Kashmir’s Doda district on Saturday, police said. Parshotam (55) of Samba and Som Raj (45) of Kathua were running a tailor shop in the Arnoda Gatt Army camp and were caught in the fire [&#8230;]
+
+Sat, 23 Dec 2023 04:11:08 +0000
+### [‘Softness is appeasement & only inflames Russia’s appetite’ — Ukrainian envoy on G20 declaration](https://theprint.in/world/softness-is-appeasement-only-inflames-russias-appetite-ukrainian-envoy-on-g20-declaration/1897144/)
+
+Article found but Couldn't summarize 
+Ambassador Oleksandr Polishchuk says Ukrainian President Volodymyr Zelenskyy was 'deprived' of opportunity to attend New Delhi G20 summit. Part 1 of a three-part interview series.
+
+Sat, 23 Dec 2023 04:02:16 +0000
+### [“Incident hurt sentiments of Indian community”: Consulate in San Francisco condemns defacement of Hindu temple in Newark](https://theprint.in/world/incident-hurt-sentiments-of-indian-community-consulate-in-san-francisco-condemns-defacement-of-hindu-temple-in-newark/1897845/)
+
+Article found but Couldn't summarize 
+San Francisco [US], December 23 (ANI): Condemning the defacement of the Swaminarayan Mandir at Newark, California, with anti-India graffiti, the Indian Consulate in San Francisco on Saturday said the incident has hurt the sentiments of the Indian community. Calling for quick investigation and prompt action into the matter from the US authorities, a post on [&#8230;]
+
+Sat, 23 Dec 2023 04:02:02 +0000
+### [US regulator awards over USD 28 million combined to seven whistleblowers](https://theprint.in/economy/us-regulator-awards-over-usd-28-million-combined-to-seven-whistleblowers/1897843/)
+
+Article found but Couldn't summarize 
+Washington DC [US], December 23 (ANI): The US financial markets regulator announced awards of more than USD 28 million combined to seven individuals whose information and assistance led to a successful enforcement action. Each of the claimants provided information that significantly contributed to an investigation, the Securities and Exchange Commission (SEC) said in a statement. [&#8230;]
+
+Sat, 23 Dec 2023 04:00:03 +0000
+### [2 civilian workers die in Army camp fire in J-K’s Doda](https://theprint.in/india/2-civilian-workers-die-in-army-camp-fire-in-j-ks-doda/1897842/)
+
+Article found but Couldn't summarize 
+Doda/Jammu, Dec 23 (PTI) Two civilian workers were charred to death in a fire inside an Army camp in Jammu and Kashmir’s Doda district on Saturday, police said. Parshotam (55) of Samba and Som Raj (45) of Kathua were running a tailor shop in the Arnoda Gatt Army camp and were caught in the fire [&#8230;]
+
+Sat, 23 Dec 2023 03:45:22 +0000
+### [Cricket-Buttler says committed to learning from errors as England struggle](https://theprint.in/sport/cricket-buttler-says-committed-to-learning-from-errors-as-england-struggle/1897840/)
+
+Article found but Couldn't summarize 
+(Reuters) - England captain Jos Buttler said he is committed to learning from his mistakes and is determined to continue on in his role despite a poor run of form. England crashed out of the 50-over
+
+Sat, 23 Dec 2023 03:45:15 +0000
+### [Mobile Internet suspended in J-K’s Poonch, Rajouri amid massive anti-terrorist op](https://theprint.in/india/mobile-internet-suspended-in-j-ks-poonch-rajouri-amid-massive-anti-terrorist-op/1897838/)
+
+Article found but Couldn't summarize 
+Poonch/Rajouri (J&#38;K), Dec 23 (PTI) Mobile Internet services were suspended in Jammu and Kashmir&#8217;s Poonch and Rajouri districts early Saturday as security forces continued their massive search operation to track down terrorists behind the recent ambush on two Army vehicles that left five soldiers dead, officials said. The suspension of the mobile Internet services in [&#8230;]
+
+Sat, 23 Dec 2023 03:45:08 +0000
+### [Twitter violated contract by failing to pay millions in bonuses, US judge rules](https://theprint.in/tech/twitter-violated-contract-by-failing-to-pay-millions-in-bonuses-us-judge-rules/1897837/)
+
+Article found but Couldn't summarize 
+By Kanishka Singh WASHINGTON (Reuters) - Twitter violated contracts by failing to pay millions of dollars in bonuses that the social media company, now called X Corp, had promised its employees, a
+
+Sat, 23 Dec 2023 03:45:02 +0000
+### [Mining crucial for growth, jobs but way forward in Surguja after weighing pros and cons: CM Sai](https://theprint.in/india/mining-crucial-for-growth-jobs-but-way-forward-in-surguja-after-weighing-pros-and-cons-cm-sai/1897836/)
+
+Article found but Couldn't summarize 
+Raipur, Dec 23 (PTI) Chhattisgarh&#8217;s new Chief Minister Vishnu Deo Sai has said his government does not endorse the view that industrialisation and mining should not take place, insisting these activities are crucial for development and employment generation in the state as he expressed confidence about eliminating Naxalism. Sai, a prominent tribal leader of the [&#8230;]
+
+Sat, 23 Dec 2023 03:32:16 +0000
+### [Number of new Covid cases increased 52% globally in past one month: WHO](https://theprint.in/world/number-of-new-covid-cases-increased-52-globally-in-past-one-month-who/1897827/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 23 (ANI): The number of new COVID cases increased by 52 per cent during the past four-odd weeks, the WHO said, with over 850 000 new cases reported during the period. The number of new deaths decreased by 8 per cent as compared to the previous 28-day period, with over 3,000 [&#8230;]
+
+Sat, 23 Dec 2023 03:32:02 +0000
+### [This is how Aishwarya Rai wished her parents on wedding anniversary](https://theprint.in/feature/this-is-how-aishwarya-rai-wished-her-parents-on-wedding-anniversary/1897825/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 23 (ANI): Actor Aishwarya Rai Bachchan on Friday, shared an emotional wish for her parents on their wedding anniversary. Taking to Instagram, Aishwarya shared a cute throwback pictures of her parents and captioned it, &#8220;Love you eternally, dearest darling Mommy-Doddaaa[?]and Daddy-Ajjaaa[?]Much prayers and Love on your Anniversary God Bless&#8221; https://www.instagram.com/p/C1KaNSrIETI/? As [&#8230;]
+
+Sat, 23 Dec 2023 03:30:03 +0000
+### [TikTok is in trouble in Pakistan again. This time, religious scholars issue a fatwa](https://theprint.in/go-to-pakistan/tiktok-is-in-trouble-in-pakistan-again-this-time-religious-scholars-issue-a-fatwa/1897582/)
+
+Article found but Couldn't summarize 
+Religious scholars from Jamia Uloom-ul-Islamia in Banuri town criticised TikTok for allowing the streaming of 'inappropriate' videos of women who they say 'participate in sin motivated by fame and financial gain'.
+
+Sat, 23 Dec 2023 03:17:02 +0000
+### [US: Hindu temple wall defaced by anti-India graffiti, cops treating it as ‘hate crime’](https://theprint.in/world/us-hindu-temple-wall-defaced-by-anti-india-graffiti-cops-treating-it-as-hate-crime/1897817/)
+
+Article found but Couldn't summarize 
+By Reena Bhardwaj California [US], December 23 (ANI): Suspected pro-Khalistan activists allegedly defaced the Swaminarayan temple in Newark, California, police said, adding that the incident came to light on Friday (local time). The exterior wall of the Hindu temple was defaced with anti-India graffiti. The Newark Police Service has started an investigation into the vandalism. [&#8230;]
+
 Sat, 23 Dec 2023 03:01:27 +0000
 ### [How globalisation in last quarter century has coincided with falling inequality & poverty in India](https://theprint.in/opinion/how-globalisation-in-last-quarter-century-has-coincided-with-falling-inequality-poverty-in-india/1897429/)
 
 Article found but Couldn't summarize 
 3 decades ago, half the people in India had incomes greater than $2.15 a day. Today 7 out of 8 do. Unemployment, though, remains a problem with no easy answer to providing well-paying jobs.
+
+Sat, 23 Dec 2023 03:00:04 +0000
+### [UNSC passes resolution demanding ‘unhindered humanitarian access’ to Gaza after US abstains](https://theprint.in/world/un-security-council-acts-to-boost-aid-to-gaza-after-us-abstains/1897636/)
+
+Article found but Couldn't summarize 
+The resolution 'calls for urgent steps to immediately allow safe, unhindered, and expanded humanitarian access and to create the conditions for a sustainable cessation of hostilities.'
 
 Sat, 23 Dec 2023 02:45:32 +0000
 ### [Cricket-Surgery rules Pakistan’s Ali out of remaining Australia tests](https://theprint.in/sport/cricket-surgery-rules-pakistans-ali-out-of-remaining-australia-tests/1897810/)

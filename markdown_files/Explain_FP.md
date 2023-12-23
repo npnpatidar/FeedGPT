@@ -1,3 +1,15 @@
+Sat, 23 Dec 2023 09:32:39 +0530
+### [Christmas pudding is a famous British food. Here's how it got there](https://www.firstpost.com/explainers/christmas-pudding-is-a-famous-british-food-heres-how-it-got-there-13518492.html)
+
+Article found but Couldn't summarize 
+Christmas pudding is a famous British food. Here's how it got there
+
+Sat, 23 Dec 2023 09:09:44 +0530
+### [This Week in Explainers: Is JN.1 variant becoming the Grinch who will steal Christmas?](https://www.firstpost.com/explainers/this-week-in-explainers-is-jn-1-variant-becoming-the-grinch-who-will-steal-christmas-13536552.html)
+
+Article found but Couldn't summarize 
+This Week in Explainers: Is JN.1 variant becoming the Grinch who will steal Christmas?
+
 Fri, 22 Dec 2023 20:07:06 +0530
 ### [Save your tears: Why Whamageddon is making people stay away from ‘Last Christmas’](https://www.firstpost.com/explainers/whamageddon-last-christmas-wham-song-holiday-season-13536972.html)
 
