@@ -1,3 +1,9 @@
+Sat, 23 Dec 2023 10:33:27 +0530
+### [Vantage | Open myth of Santa Claus: Folklore or triumph of marketing?](https://www.firstpost.com/opinion/vantage-open-myth-of-santa-claus-folklore-or-triumph-of-marketing-13538012.html)
+
+Article found but Couldn't summarize 
+Vantage | Open myth of Santa Claus: Folklore or triumph of marketing?
+
 Fri, 22 Dec 2023 18:34:49 +0530
 ### [Dawood Ibrahim: The man, myth and most wanted in mainstream culture](https://www.firstpost.com/opinion/dawood-ibrahim-the-man-myth-and-most-wanted-in-mainstream-culture-13536642.html)
 

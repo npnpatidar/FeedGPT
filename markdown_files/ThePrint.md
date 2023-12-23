@@ -1,3 +1,80 @@
+Sat, 23 Dec 2023 05:01:25 +0000
+### [‘Poor performance, advanced age’ — why more than 100 BJP MPs are under scanner ahead of 2024 polls](https://theprint.in/politics/poor-performance-advanced-age-why-more-than-100-bjp-mps-are-under-scanner-ahead-of-2024-polls/1896406/)
+
+Article found but Couldn't summarize 
+Party leaders say such MPs are in danger list with BJP looking at new faces to replace them. Varun &#038; Maneka Gandhi, Gautam Gambhir, Kirron Kher, Shripad Yesso Naik said to be on the list.
+
+Sat, 23 Dec 2023 05:00:29 +0000
+### [Tax consultant loses Rs 11 lakh in online task fraud](https://theprint.in/india/tax-consultant-loses-rs-11-lakh-in-online-task-fraud/1897873/)
+
+Article found but Couldn't summarize 
+Thane, Dec 23 (PTI) A 50-year-old tax consultant from Maharashtra&#8217;s Thane district lost more than Rs 11 lakh in a &#8216;task fraud&#8217; wherein three cyber fraudsters, including two women, duped him under the pretext of providing part-time online jobs, police said. Based on the complaint lodged by the victim, a resident of Rambaug area of [&#8230;]
+
+Sat, 23 Dec 2023 05:00:17 +0000
+### [Crackdown on child marriage, proposed law to end polygamy Assam’s major highlights in 2023](https://theprint.in/india/crackdown-on-child-marriage-proposed-law-to-end-polygamy-assams-major-highlights-in-2023/1897872/)
+
+Article found but Couldn't summarize 
+Guwahati, Dec 23 (PTI) A crackdown on child marriage with most arrests made in minority-dominated districts, an initiative to enact a law in the assembly to end the practice of polygamy and a socio-economic survey of five indigenous Muslim communities dominated the headlines in Assam in 2023. Chief Minister Himanta Biswa Sarma&#8217;s initiatives kept him [&#8230;]
+
+Sat, 23 Dec 2023 05:00:03 +0000
+### [Relief activities continues in TN’s Thoothukudi district, NDRF reach marooned](https://theprint.in/india/relief-activities-continues-in-tns-thoothukudi-district-ndrf-reach-marooned-2/1897871/)
+
+Article found but Couldn't summarize 
+Thoothukudi (TN), Dec 23 (PTI) Relief activities continued in the rain ravaged coastal district of Thoothukudi in Tamil Nadu while an NDRF team accompanied by police rescued the people marooned in the SIPCOT industrial area on Saturday. The NDRF team along with the SIPCOT police rescued the flood-affected women and children by boat and provided [&#8230;]
+
+Sat, 23 Dec 2023 04:47:01 +0000
+### [Travis Barker, Kourtney Kardashian drop first picture of son Rocky](https://theprint.in/feature/travis-barker-kourtney-kardashian-drop-first-picture-of-son-rocky/1897867/)
+
+Article found but Couldn't summarize 
+California [US], December 23 (ANI): Travis Barker and Kourtney Kardashian on Saturday shared the first picture of their son Rocky Thirteen. The couple welcomed their first child together on November 1 at a Los Angeles hospital. People confirmed the news of the baby boy&#8217;s birth from sources. Taking to Instagram, Kourtney treated fans with the [&#8230;]
+
+Sat, 23 Dec 2023 04:45:19 +0000
+### [752 new Covid cases, 4 deaths reported in 24 hours](https://theprint.in/india/752-new-covid-cases-4-deaths-reported-in-24-hours/1897864/)
+
+As GPT-3.5, I can provide you with a summary of the article you shared. According to the Union health ministry data, India recorded a single-day rise of 752 coronavirus infections, the highest since May 21, 2023. The active cases have increased to 3,420. The death toll stands at 5,33,332 with four new deaths reported. The country's Covid case tally is 4.50 crore (4,50,07,964). The number of people recovered from the disease is 4,44,71,212, with a national recovery rate of 98.81%. The fatality rate is 1.19%. The health ministry's website also mentioned that 220.67 crore doses of Covid vaccine have been administered in the country so far. Please note that this information is based on the provided article.
+
+Sat, 23 Dec 2023 04:45:08 +0000
+### [Soccer-Villa’s McGinn keeps home form in perspective after Sheffield draw](https://theprint.in/sport/soccer-villas-mcginn-keeps-home-form-in-perspective-after-sheffield-draw/1897863/)
+
+Article found but Couldn't summarize 
+(Reuters) - Aston Villa will be disappointed to have missed their chance to go top of the Premier League after drawing 1-1 with Sheffield United, but midfielder John McGinn said the Midlands club
+
+Sat, 23 Dec 2023 04:45:05 +0000
+### [‘Old Pension Scheme, freebies alone can’t win polls,’ says senior Congress leader Praveen Chakravarty](https://theprint.in/politics/old-pension-scheme-freebies-alone-cant-win-polls-says-senior-congress-leader-praveen-chakravarty/1897402/)
+
+Article found but Couldn't summarize 
+The Congress has made the return of OPS a poll plank in six assembly elections. But Chakravarty says the party ‘can’t engage in competitive promises &#038; hope that's enough to win’.
+
+Sat, 23 Dec 2023 04:45:03 +0000
+### [Relief activities continues in TN’s Thoothukudi district, NDRF reach marooned](https://theprint.in/india/relief-activities-continues-in-tns-thoothukudi-district-ndrf-reach-marooned/1897862/)
+
+Article found but Couldn't summarize 
+Thoothukudi (TN), Dec 23 (PTI) Relief activities continued in the rain ravaged coastal district of Thoothukudi in Tamil Nadu while an NDRF team accompanied by police rescued the people marooned in the SIPCOT industrial area on Saturday. The NDRF team along with the SIPCOT police rescued the flood-affected women and children by boat and provided [&#8230;]
+
+Sat, 23 Dec 2023 04:42:58 +0000
+### [France detains flight from UAE with mostly Indian-origin passengers, probes possible human trafficking](https://theprint.in/world/france-detains-flight-from-uae-with-mostly-indian-origin-passengers-probes-possible-human-trafficking/1897815/)
+
+Article found but Couldn't summarize 
+Chartered flight with 303 passengers on board, operated by Romanian company Legend Airlines, was on its way to Nicaragua. Indian embassy has got consular access &#38; is investigating.
+
+Sat, 23 Dec 2023 04:30:19 +0000
+### [Delhi’s AQI recorded under ‘severe’ category on Saturday morning](https://theprint.in/india/delhis-aqi-recorded-under-severe-category-on-saturday-morning/1897857/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) The air quality index (AQI) in the national capital on Saturday morning was recorded under &#8216;severe&#8217; category, the Central Pollution Control Board (CPCB) said. The AQI in the national capital was recorded at 447, which comes under the ‘severe’ category. An Air Quality Index (AQI) between zero and 50 is [&#8230;]
+
+Sat, 23 Dec 2023 04:30:03 +0000
+### [Seven booked for duping man of Rs 34 lakh](https://theprint.in/india/seven-booked-for-duping-man-of-rs-34-lakh/1897856/)
+
+Article found but Couldn't summarize 
+Thane, Dec 23 (PTI) Police have registered a case against seven persons, including a couple, for allegedly duping a 39-year-old man working as a driver at Dombivli in Maharashtra&#8217;s Thane district of Rs 34.78 lakh on false promises, an official said on Saturday. None of the accused has been arrested yet, he said. &#8220;The accused [&#8230;]
+
+Sat, 23 Dec 2023 04:30:00 +0000
+### [Treasury-Oppn was never a love zone. MPs suspension just made Parliament a hostile House](https://theprint.in/opinion/newsmaker-of-the-week/treasury-oppn-was-never-a-love-zone-mps-suspension-just-made-parliament-a-hostile-house/1897785/)
+
+Article found but Couldn't summarize 
+From cries about ‘murder of democracy’ to bemoaning ‘opposition-mukt Parliament’ to charges of disruption and unruly behaviour, the week of 146 MPs' suspension put ‘democracy slide’ back in public debate.
+
 Sat, 23 Dec 2023 04:17:02 +0000
 ### [Priyanka shares pictures with husband Nick from holiday dinner, daughter Malti poses with customised car](https://theprint.in/feature/priyanka-shares-pictures-with-husband-nick-from-holiday-dinner-daughter-malti-poses-with-customised-car/1897853/)
 
