@@ -1,3 +1,8 @@
+Sat, 23 Dec 2023 02:30:55 +0000
+### [How the United States’ climate response has been lacking](https://indianexpress.com/article/explained/explained-climate/us-slacking-tackling-climate-change-9079572/)
+
+Article found but Couldn't summarize
+
 Sat, 23 Dec 2023 01:37:46 +0000
 ### [Credit ratings: the Govt view](https://indianexpress.com/article/explained/explained-economics/credit-ratings-the-govt-view-9079612/)
 

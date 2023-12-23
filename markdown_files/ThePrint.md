@@ -1,3 +1,39 @@
+Sat, 23 Dec 2023 03:01:27 +0000
+### [How globalisation in last quarter century has coincided with falling inequality & poverty in India](https://theprint.in/opinion/how-globalisation-in-last-quarter-century-has-coincided-with-falling-inequality-poverty-in-india/1897429/)
+
+Article found but Couldn't summarize 
+3 decades ago, half the people in India had incomes greater than $2.15 a day. Today 7 out of 8 do. Unemployment, though, remains a problem with no easy answer to providing well-paying jobs.
+
+Sat, 23 Dec 2023 02:45:32 +0000
+### [Cricket-Surgery rules Pakistan’s Ali out of remaining Australia tests](https://theprint.in/sport/cricket-surgery-rules-pakistans-ali-out-of-remaining-australia-tests/1897810/)
+
+Article found but Couldn't summarize 
+(Reuters) - Noman Ali has been ruled out of Pakistan's remaining two tests of the three-match series against Australia after undergoing surgery for acute appendicitis on Saturday. Ali, who did not
+
+Sat, 23 Dec 2023 02:45:22 +0000
+### [Soccer-Chelsea midfielder Fernandez to miss Wolves match](https://theprint.in/sport/soccer-chelsea-midfielder-fernandez-to-miss-wolves-match/1897808/)
+
+Article found but Couldn't summarize 
+(Reuters) - Chelsea midfielder Enzo Fernandez will miss Sunday's clash at Wolverhampton Wanderers after suffering a hernia, the Premier League club's manager Mauricio Pochettino said. Argentine
+
+Sat, 23 Dec 2023 02:45:03 +0000
+### [Mexico to boost measures aimed at curbing migration to US](https://theprint.in/world/mexico-to-boost-measures-aimed-at-curbing-migration-to-us/1897806/)
+
+Article found but Couldn't summarize 
+MEXICO CITY (Reuters) - Mexican President Andres Manuel Lopez Obrador said on Friday his government will reinforce measures to contain migration as he seeks to help the United States cope with record
+
+Sat, 23 Dec 2023 02:45:03 +0000
+### [Lifting Hijab ban raises concern about the ‘secular nature’ of educational spaces: K’taka BJP](https://theprint.in/india/lifting-hijab-ban-raises-concern-about-the-secular-nature-of-educational-spaces-ktaka-bjp/1897805/)
+
+Article found but Couldn't summarize 
+Bengaluru, Dec 23 (PTI) The BJP has strongly reacted to Chief Minister Siddaramaiah&#8217;s decision to lift the ban on wearing Hijab in classrooms, saying it raises concerns about the &#8220;secular nature&#8221; of educational spaces. Siddaramaiah on Friday said he has ordered withdrawal of the ban, observing that choice of dress and food is personal. BJP [&#8230;]
+
+Sat, 23 Dec 2023 02:32:02 +0000
+### [Anand’s progressive Dairy Farmers await Vibrant Gujarat Summit](https://theprint.in/economy/anands-progressive-dairy-farmers-await-vibrant-gujarat-summit/1897803/)
+
+Article found but Couldn't summarize 
+Anand (Gujarat) [India], December 23 (ANI): Prime Minister Narendra Modi&#8217;s vision of making Gujarat state a leader in the field of milk production has got a new energy under the leadership of state Chief Minister Bhupendra Patel. This sector is growing rapidly through natural farming and advanced technology in agriculture and horticulture as well as [&#8230;]
+
 Sat, 23 Dec 2023 02:15:03 +0000
 ### [Ukraine claims to down three Russian fighter-bomber jets](https://theprint.in/world/ukraine-claims-to-down-three-russian-fighter-bomber-jets/1897802/)
 

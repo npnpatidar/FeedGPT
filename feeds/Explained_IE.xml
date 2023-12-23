@@ -5,6 +5,15 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Explained_IE.xml</link>
 		<description>Explained IE</description>
 		<item>
+			<title>How the United States’ climate response has been lacking</title>
+			<link>https://indianexpress.com/article/explained/explained-climate/us-slacking-tackling-climate-change-9079572/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Sat, 23 Dec 2023 02:30:55 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2023/12/usa-climate-action.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2023/12/usa-climate-action.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Credit ratings: the Govt view</title>
 			<link>https://indianexpress.com/article/explained/explained-economics/credit-ratings-the-govt-view-9079612/</link>
 			<description>Article found but Couldn't summarize</description>

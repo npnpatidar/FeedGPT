@@ -1,3 +1,9 @@
+2023-12-23T08:00:28+05:30
+### [Amit Shah's 'Zero Terror Plan' for J&K Sounds Too Good to Be True. And it Is.](https://thewire.in/security/amit-shahs-zero-terror-plan-for-jk-sounds-too-good-to-be-true-and-it-is)
+
+No Article text 
+The Union government's actions have led to widespread political despair in Kashmir. In the past, that mood has been used by militants to gain currency.
+
 2023-12-22T20:23:50+05:30
 ### [Oil, Tar Balls Removed After North Chennai Oil Spill, but Birds, Mangroves Affected: TN Govt to NGT](https://thewire.in/environment/oil-tar-balls-removed-after-north-chennai-oil-spill-but-birds-mangroves-affected-tn-govt-to-ngt)
 
