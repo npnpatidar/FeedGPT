@@ -1,3 +1,8 @@
+Sat, 23 Dec 2023 01:37:46 +0000
+### [Credit ratings: the Govt view](https://indianexpress.com/article/explained/explained-economics/credit-ratings-the-govt-view-9079612/)
+
+Article found but Couldn't summarize
+
 Fri, 22 Dec 2023 14:08:59 +0000
 ### [‘Dunki’ and immigration: How the first modern passports came to be](https://indianexpress.com/article/explained/everyday-explainers/dunki-immigration-history-passport-visas-travel-9079283/)
 

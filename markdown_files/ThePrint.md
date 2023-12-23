@@ -1,3 +1,15 @@
+Sat, 23 Dec 2023 02:15:03 +0000
+### [Ukraine claims to down three Russian fighter-bomber jets](https://theprint.in/world/ukraine-claims-to-down-three-russian-fighter-bomber-jets/1897802/)
+
+Article found but Couldn't summarize 
+(Reuters) - Ukrainian President Volodymyr Zelenskiy and military officials said the country's forces shot down three Russian Su-34 fighter-bomber aircraft on Friday on the southern front, hailing it
+
+Sat, 23 Dec 2023 02:00:08 +0000
+### [In UP, senior citizens may soon be able to evict their children from their house if ‘unhappy’ with them](https://theprint.in/politics/in-up-senior-citizens-may-soon-be-able-to-evict-their-children-from-their-house-if-unhappy-with-them/1896737/)
+
+Article found but Couldn't summarize 
+Social welfare dept's proposal seeks to amend rules of Maintenance and Welfare of Parents Act which requires children to care for their elderly. Draft to be tabled again in January.
+
 Sat, 23 Dec 2023 00:47:02 +0000
 ### [UNSC passes resolution on Gaza aid as US abstains](https://theprint.in/world/unsc-passes-resolution-on-gaza-aid-as-us-abstains/1897800/)
 
