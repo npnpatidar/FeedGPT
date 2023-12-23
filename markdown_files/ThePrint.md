@@ -1,3 +1,123 @@
+Sat, 23 Dec 2023 17:02:41 +0000
+### [Hamdan bin Zayed issues resolution regarding invasive marine species policy in Abu Dhabi](https://theprint.in/world/hamdan-bin-zayed-issues-resolution-regarding-invasive-marine-species-policy-in-abu-dhabi/1898539/)
+
+Article found but Couldn't summarize 
+Abu Dhabi [UAE], December 23 (ANI/WAM): Sheikh Hamdan bin Zayed Al Nahyan, Ruler&#8217;s Representative in Al Dhafra Region and Chairman of the Board of Directors of the Environment Agency &#8211; Abu Dhabi (EAD), issued Resolution No (8) of 2023 regarding the invasive marine species policy in Abu Dhabi. The policy seeks to enhance knowledge of [&#8230;]
+
+Sat, 23 Dec 2023 17:02:31 +0000
+### [UAE: Dubai Police reviews preparations for New Year’s Eve celebrations with key strategic partners](https://theprint.in/world/uae-dubai-police-reviews-preparations-for-new-years-eve-celebrations-with-key-strategic-partners/1898537/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 23 (ANI/WAM): Dubai Police held a meeting with strategic partners, including shopping malls and management of major residential communities, to discuss preparations for New Year&#8217;s Eve celebrations. The meeting was chaired by Major General Expert Khalil Ibrahim Al Mansouri, Assistant Commander-in-Chief for Criminal Investigation Affairs at Dubai Police. Among those who attended [&#8230;]
+
+Sat, 23 Dec 2023 17:02:22 +0000
+### [Pakistan Tehreek-e-Insaf to approch SC and Peshawar Court against Election Commission’s decision: Gohar Ali Khan](https://theprint.in/world/pakistan-tehreek-e-insaf-to-approch-sc-and-peshawar-court-against-election-commissions-decision-gohar-ali-khan/1898535/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 23 (ANI): Pakistan Tehreek-e-Insaf (PTI) leader Barrister Gohar Ali Khan on Saturday said that his party was &#8220;deeply upset&#8221; over the Election Commission of Pakistan&#8217;s (ECP) decision to nullify the intra-party polls of PTI and taking away the party&#8217;s official symbol, Pakistan-based The Express Tribune reported. He said the PTI will approach [&#8230;]
+
+Sat, 23 Dec 2023 17:02:12 +0000
+### [UAE Vice President Mohammed bin Rashid issues decree regulating farms in Dubai](https://theprint.in/world/uae-vice-president-mohammed-bin-rashid-issues-decree-regulating-farms-in-dubai/1898533/)
+
+Article found but Couldn't summarize 
+Dubai [UAE], December 23 (ANI/WAM): Sheikh Mohammed bin Rashid Al Maktoum, UAE Vice President, Prime Minister and Ruler of Dubai, issued Decree No (61) of 2023 regulating farms in Dubai. The decree is aligned with Dubai&#8217;s food security strategy and its commitment to ensuring the highest public health and safety standards. The decree focuses on [&#8230;]
+
+Sat, 23 Dec 2023 17:02:02 +0000
+### [Christmas 2023: Churches in Puducherry, Karnataka decorated, lit up ahead of festival](https://theprint.in/feature/christmas-2023-churches-in-puducherry-karnataka-decorated-lit-up-ahead-of-festival/1898531/)
+
+Article found but Couldn't summarize 
+Puducherry [India], December 23 (ANI): As Christmas is around the corner, everyone is preparing for the holiday season. Ahead of the festival, churches in Puducherry and Karnataka are all decked up for the much-awaited festivities. Several churches in Puducherry were illuminated with bright colours and looked pretty with Christmas decorative items. The St Mary&#8217;s church [&#8230;]
+
+Sat, 23 Dec 2023 17:00:14 +0000
+### [One killed in road crash in Haryana’s Jind](https://theprint.in/india/one-killed-in-road-crash-in-haryanas-jind/1898529/)
+
+Article found but Couldn't summarize 
+Jind (Haryana), Dec 23 (PTI) A man was killed in a collision with an unidentified vehicle on the Jind-Narwana national highway here on Saturday, police said on Saturday. The deceased has been identified as Naresh of Baroda village here, they added. His cousin Mahtab said Naresh was going with his neighbour Anil on a motorbike [&#8230;]
+
+Sat, 23 Dec 2023 17:00:03 +0000
+### [J-K DGP holds public grievance redressal event; says police committed to addressing people’s issues](https://theprint.in/india/j-k-dgp-holds-public-grievance-redressal-event-says-police-committed-to-addressing-peoples-issues/1898528/)
+
+Article found but Couldn't summarize 
+Jammu, Dec 23 (PTI) The Jammu and Kashmir Police is committed to addressing people’s issues related to police service on a priority basis, Director General of Police R R Swain said on Saturday as he held a public grievance redressal programme here. At the five-hour programme, 237 people, including women and elderly, turned up at [&#8230;]
+
+Sat, 23 Dec 2023 16:45:59 +0000
+### [Student groups protest against new JNU rules](https://theprint.in/india/student-groups-protest-against-new-jnu-rules/1898526/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) Several student groups held a torch march on the Jawaharlal Nehru University campus here on Saturday, demanding the withdrawal of the new rules of conduct. Nearly 100-150 students from outfits including JNUSU, AISA, SFI and NSUI along with hostel presidents participated in the protest against the revised Chief Proctor Office [&#8230;]
+
+Sat, 23 Dec 2023 16:45:48 +0000
+### [HC directs Punjab DGP to register 2 FIRs in gangster Bishnoi interview case](https://theprint.in/india/hc-directs-punjab-dgp-to-register-2-firs-in-gangster-bishnoi-interview-case/1898525/)
+
+Article found but Couldn't summarize 
+Chandigarh, Dec 23 (PTI) The Punjab and Haryana High Court has directed the Punjab police chief to immediately register two FIRs in connection with gangster Lawrence Bishnoi&#8217;s two interviews aired by a private news channel in March. A division bench of justices Anupinder Singh Grewal and Kirti Singh also asked the Punjab Police special investigation [&#8230;]
+
+Sat, 23 Dec 2023 16:45:38 +0000
+### [Woman, aide booked for extortion bid on man in Gurugram](https://theprint.in/india/woman-aide-booked-for-extortion-bid-on-man-in-gurugram/1898524/)
+
+Article found but Couldn't summarize 
+Gurugram, Dec 23 (PTI) A woman and her accomplice have been booked for an alleged extortion bid of Rs 5 lakh on a man by threatening to share his private pictures online, police said on Saturday. According to the complainant, a resident of Yamunanagar district, he befriended the woman through a dating app in October, [&#8230;]
+
+Sat, 23 Dec 2023 16:45:26 +0000
+### [UP boy hangs self at home, watched video on ways to commit suicide: Police](https://theprint.in/india/up-boy-hangs-self-at-home-watched-video-on-ways-to-commit-suicide-police/1898523/)
+
+Article found but Couldn't summarize 
+Hamirpur (UP), Dec 23 (PTI) An 11-year-old boy allegedly ended his life by hanging himself at his house here after watching a video on social media on ways to commit suicide, police said on Saturday. The incident took place in Sumerpur town in the Hamirpur police station area on Thursday. Police said the reason behind [&#8230;]
+
+Sat, 23 Dec 2023 16:45:15 +0000
+### [Noida: Liquor shops to remain open till 11 pm on eve of Christmas, New Year](https://theprint.in/india/noida-liquor-shops-to-remain-open-till-11-pm-on-eve-of-christmas-new-year/1898522/)
+
+Article found but Couldn't summarize 
+Noida, Dec 23 (PTI) Liquor shops will remain open till 11 pm on December 24 and 31 across Noida and Greater Noida on account of Christmas and New Year festivities, officials said on Saturday. The move follows an order of Uttar Pradesh Excise Commissioner Senthil Pandian C, who issued similar directions regarding extending the period [&#8230;]
+
+Sat, 23 Dec 2023 16:45:04 +0000
+### [Turkey says 12 soldiers killed in clashes with Kurdish militants](https://theprint.in/world/turkey-says-12-soldiers-killed-in-clashes-with-kurdish-militants/1898521/)
+
+Article found but Couldn't summarize 
+ANKARA (Reuters) - Twelve Turkish soldiers have been killed in the past two days in clashes with Kurdistan Workers Party (PKK) militants in northern Iraq, the defence ministry said on Saturday. The
+
+Sat, 23 Dec 2023 16:45:03 +0000
+### [One dead, six injured as four two-wheelers get trapped between two buses](https://theprint.in/india/one-dead-six-injured-as-four-two-wheelers-get-trapped-between-two-buses/1898520/)
+
+Article found but Couldn't summarize 
+Surat, Dec 23 (PTI) A 48-year-old man was killed and six others were injured as four two-wheelers got sandwiched between two Bus Rapid Transit System (BRTS) buses here on Saturday evening, police said. The accident took place on a stretch of road open for the general traffic and not on a dedicated BRTS lane. A [&#8230;]
+
+Sat, 23 Dec 2023 16:32:26 +0000
+### [Covid subvariant JN.1: No need for additional dose of vaccine at present, says INSACOG chief](https://theprint.in/india/covid-subvariant-jn-1-no-need-for-additional-dose-of-vaccine-at-present-says-insacog-chief/1898516/)
+
+Article found but Couldn't summarize 
+New Delhi [India], December 23 (ANI): Amid a surge in COVID-19 cases in India and the detection of a subvariant JN.1, India SARS-CoV-2 Genomics Consortium (INSACOG) chief Dr NK Arora said that no additional dose of vaccine is needed against the subvariant at present. Speaking to ANI about the current situation in the country, Dr [&#8230;]
+
+Sat, 23 Dec 2023 16:32:01 +0000
+### [Salman Khan looks stylish in black suit as he arrives at Umang 2023](https://theprint.in/feature/salman-khan-looks-stylish-in-black-suit-as-he-arrives-at-umang-2023/1898514/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 23 (ANI): Superstar Salman Khan on Saturday night attended the Mumbai Police annual event Umang in Mumbai. Several pictures and videos of the &#8216;Dabangg&#8217; actor surfaced on social media. Salman looked dapper as he wore a dark blue suit over a dark blue shirt. He was seen posing in front of [&#8230;]
+
+Sat, 23 Dec 2023 16:30:37 +0000
+### [BJP misleading public by claiming return of normalcy in J-K: Cong’s Vikar Rasool Wani](https://theprint.in/india/bjp-misleading-public-by-claiming-return-of-normalcy-in-j-k-congs-vikar-rasool-wani/1898513/)
+
+Article found but Couldn't summarize 
+Jammu, Dec 23 (PTI) Jammu and Kashmir Congress chief Vikar Rasool Wani Saturday alleged the BJP was misleading the public by claiming that normalcy has returned in the Union Territory even as frequent terrorist attacks continue to kill people and security personnel. He asked the government to take more effective steps to check the rise [&#8230;]
+
+Sat, 23 Dec 2023 16:30:27 +0000
+### [UP man ends life by jumping into Ganga](https://theprint.in/india/up-man-ends-life-by-jumping-into-ganga/1898512/)
+
+Article found but Couldn't summarize 
+Ghaziabad (UP), Dec 23 (PTI) A 47-year-old man allegedly died by jumping into Ganga river here, minutes after speaking with his wife over a video call, police said on Saturday. Divers have been deployed to recover the body, they said. Sanjay Gulti, a resident of Noida, allegedly ended his life by jumping into the Ganga [&#8230;]
+
+Sat, 23 Dec 2023 16:30:16 +0000
+### [UP’s liquor policy shows difference between BJP govt’s ‘words and actions’: AAP’s Sanjeev Jha](https://theprint.in/india/ups-liquor-policy-shows-difference-between-bjp-govts-words-and-actions-aaps-sanjeev-jha/1898511/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) AAP MLA Sanjeev Jha on Saturday said Uttar Pradesh&#8217;s new liquor policy shows the difference between the BJP government&#8217;s &#8220;words and actions&#8221;. &#8220;The Yogi government is preparing to make Uttar Pradesh a hub for alcohol sales, allowing open sales at railway stations, metro stations, and bus stands,&#8221; Jha said at [&#8230;]
+
+Sat, 23 Dec 2023 16:30:04 +0000
+### [Cong march to DGP office in Kerala turns violent, tear gas shell causes uneasiness to MPs, MLAs](https://theprint.in/india/cong-march-to-dgp-office-in-kerala-turns-violent-tear-gas-shell-causes-uneasiness-to-mps-mlas/1898510/)
+
+Article found but Couldn't summarize 
+Thiruvananthapuram, Dec 23 (PTI) A battery of senior Congress leaders in Kerala, including MPs and MLAs, suffered from suffocation, and some were even hospitalised on Saturday after police fired tear gas shells near a stage erected in front of the office of the State Police Chief, following the opposition party&#8217;s protest that turned violent. Leader [&#8230;]
+
 Sat, 23 Dec 2023 16:17:27 +0000
 ### [UAE: Sharjah Ruler opens Kalba Heritage Market](https://theprint.in/world/uae-sharjah-ruler-opens-kalba-heritage-market/1898507/)
 
