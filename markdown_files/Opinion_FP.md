@@ -1,3 +1,9 @@
+Sat, 23 Dec 2023 18:16:47 +0530
+### [How Mallikarjun Kharge targets Narendra Modi in a new book](https://www.firstpost.com/opinion/how-mallikarjun-kharge-targets-narendra-modi-in-a-new-book-13539342.html)
+
+Article found but Couldn't summarize 
+How Mallikarjun Kharge targets Narendra Modi in a new book
+
 Sat, 23 Dec 2023 17:29:36 +0530
 ### [Lessons from Gaza: India cannot ignore security threats in Kashmir](https://www.firstpost.com/opinion/lessons-from-gaza-india-cannot-ignore-security-threats-in-kashmir-13539252.html)
 

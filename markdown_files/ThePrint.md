@@ -1,3 +1,121 @@
+Sat, 23 Dec 2023 13:16:02 +0000
+### [Soccer-O’Neil, Klopp raise concerns over crammed Christmas schedule](https://theprint.in/sport/soccer-oneil-klopp-raise-concerns-over-crammed-christmas-schedule/1898346/)
+
+Article found but Couldn't summarize 
+(Reuters) - Wolverhampton Wanderers manager Gary O'Neil has joined a long list of Premier League managers complaining about the packed football schedule, including three games in six days for his side
+
+Sat, 23 Dec 2023 13:15:52 +0000
+### [Tennis-Britain’s Moore cleared of doping, contaminated meat identified as source](https://theprint.in/sport/tennis-britains-moore-cleared-of-doping-contaminated-meat-identified-as-source/1898344/)
+
+Article found but Couldn't summarize 
+(Reuters) - Britain's former number one-ranked doubles player Tara Moore has been cleared of an anti-doping rule violation after the International Tennis Integrity Agency (ITIA) said on Saturday that
+
+Sat, 23 Dec 2023 13:15:52 +0000
+### [Atishi asks PWD officials to step up repair of footpaths, central verges ahead of R-Day](https://theprint.in/india/atishi-asks-pwd-officials-to-step-up-repair-of-footpaths-central-verges-ahead-of-r-day/1898343/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) Delhi cabinet minister Atishi on Saturday directed the Public Works Department (PWD) to complete the repair and maintenance of the city&#8217;s footpaths and central verges ahead of the Republic Day. Atishi, who holds the PWD portfolio, in an official communication to the department&#8217;s principal secretary, directed that the weekly reports [&#8230;]
+
+Sat, 23 Dec 2023 13:15:41 +0000
+### [Feast of colours: Two-day all-India winter rose show inaugurated in Delhi](https://theprint.in/india/feast-of-colours-two-day-all-india-winter-rose-show-inaugurated-in-delhi/1898341/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) The New Delhi Municipal Council (NDMC) on Saturday inaugurated a two-day all-India winter rose show in Chanakyapuri, according to a statement issued here. Organised in association with the Rose Society of India, 70 varieties of roses are displayed through 85 exhibits under 25 categories, it said. People can visit the [&#8230;]
+
+Sat, 23 Dec 2023 13:15:31 +0000
+### [Polish farmers to suspend protest at Ukraine border, truckers stay on](https://theprint.in/world/polish-farmers-to-suspend-protest-at-ukraine-border-truckers-stay-on/1898340/)
+
+Article found but Couldn't summarize 
+WARSAW (Reuters) - Polish farmers will suspend a protest at the border crossing with Ukraine at Medyka from Sunday, but truckers will continue blockades at three other crossings over Christmas and
+
+Sat, 23 Dec 2023 13:15:28 +0000
+### [Snow in higher reaches of Himachal Pradesh; MeT forecasts dry weather from Dec 2](https://theprint.in/india/snow-in-higher-reaches-of-himachal-pradesh-met-forecasts-dry-weather-from-dec-2/1898338/)
+
+Article found but Couldn't summarize 
+Shimla (HP), Dec 23 (PTI) The higher reaches of Himachal Pradesh witnessed a fresh spell of mild snowfall on Saturday even as the weather department predicted dry weather in the Himalayan state from December 24. Snowfall was witnessed near the Atal Tunnel in Rohtang and its adjoining areas as well as in Keylong of Lahaul [&#8230;]
+
+Sat, 23 Dec 2023 13:15:18 +0000
+### [Congo opposition candidates plan presidential election protest](https://theprint.in/world/congo-opposition-candidates-plan-presidential-election-protest/1898337/)
+
+Article found but Couldn't summarize 
+(Reuters) - A group of Congolese opposition candidates have written to the governor of Kinshasa to say they will hold a protest next week over the country's disputed presidential election. Delays
+
+Sat, 23 Dec 2023 13:15:15 +0000
+### [KPCC chief seeks privilege proceedings against Kerala police; writes to LS Speaker](https://theprint.in/india/kpcc-chief-seeks-privilege-proceedings-against-kerala-police-writes-to-ls-speaker/1898335/)
+
+Article found but Couldn't summarize 
+Thiruvananthapuram, Dec 23 (PTI) Kerala Pradesh Congress Committee chief and Parliamentarian K Sudhakaran on Saturday gave a notice to Lok Sabha Speaker Om Birla seeking permission to move a breach of privilege against Kerala police in connection with a DGP office march violent incident here. In the letter, the Kannur MP alleged breach of privilege [&#8230;]
+
+Sat, 23 Dec 2023 13:15:04 +0000
+### [‘Blasphemous’ same-sex nativity scene angers conservatives in Italy](https://theprint.in/world/blasphemous-same-sex-nativity-scene-angers-conservatives-in-italy/1898334/)
+
+Article found but Couldn't summarize 
+By Ciro De Luca CAPOCASTELLO DI MERCOGLIANO, Italy (Reuters) - A church nativity scene which features two mothers of the Baby Jesus, instead of the conventional Mary and Joseph figurines, has sparked
+
+Sat, 23 Dec 2023 13:15:02 +0000
+### [Saurabh Chaudhary back in winner’s circle, Haryana women sweep air pistol trials](https://theprint.in/sport/saurabh-chaudhary-back-in-winners-circle-haryana-women-sweep-air-pistol-trials/1898333/)
+
+As GPT-3.5, I can provide a summary of the article you shared. In the men's 10m air pistol T1 national selection shooting trials, Saurabh Chaudhary, a former world number one, emerged as the winner with a score of 244.5 in the final. He narrowly defeated Ravinder Singh, the top qualifier from the Army, by a margin of 0.1. This victory marks Saurabh's return to the winner's circle after a considerable period of time. In the women's air pistol T1, Suruchi, representing Haryana, secured first place, surpassing two Olympians, Yashaswini Deswal and Manu Bhaker.
+
+Sat, 23 Dec 2023 13:02:15 +0000
+### [Karnataka: Govt to consider service security for long-serving outsourced employees in KPTCL’s Technical Department](https://theprint.in/economy/karnataka-govt-to-consider-service-security-for-long-serving-outsourced-employees-in-kptcls-technical-department/1898327/)
+
+Article found but Couldn't summarize 
+Bengaluru (Karnataka) [India], December 23 (ANI): Karnataka Energy Minister KJ George on Saturday announced that the government is considering providing service security for outsourced employees who have dedicated 15-20 years of service in the technical departments of Karnataka Power Transmission Corporation Limited (KPTCL) and Electricity Supply Companies (ESCOM) on a contract basis. Legal ways to [&#8230;]
+
+Sat, 23 Dec 2023 13:02:02 +0000
+### [Online Trading Platform for End of Life Vehicle Owners launched in Delhi at MMCM’s Automotive Circularity Event](https://theprint.in/ani-press-releases/online-trading-platform-for-end-of-life-vehicle-owners-launched-in-delhi-at-mmcms-automotive-circularity-event/1898325/)
+
+Article found but Couldn't summarize 
+NewsVoir Mumbai (Maharashtra) [India], December 23: Meta Materials Circular Markets (MMCM) celebrated a momentous occasion with the official launch of DigiELV, a Ministry of Road Transport and Highways (MoRTH) authorized End of Life Vehicle Certificate of Deposit (CD) Trading platform, and Automotive Circularity Orchestrator, in the esteemed presence of Nitin Gadkari, Minister of Road, Transport [&#8230;]
+
+Sat, 23 Dec 2023 13:00:55 +0000
+### [Man, daughter feared drowned in creek; search underway](https://theprint.in/india/man-daughter-feared-drowned-in-creek-search-underway/1898324/)
+
+Article found but Couldn't summarize 
+Thane, Dec 23 (PTI) A man and his two-and-a-half-year-old daughter are feared to have drowned in a creek in Maharashtra’s Thane district, and efforts are on to trace them, a fire official said on Saturday. Anil Surwade (40) and his toddler daughter visited the water body at Raju Nagar in Dombivali, on the outskirts of [&#8230;]
+
+Sat, 23 Dec 2023 13:00:45 +0000
+### [Opinion of Solicitor General to Centre exempted under RTI: Delhi HC](https://theprint.in/india/opinion-of-solicitor-general-to-centre-exempted-under-rti-delhi-hc/1898323/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) The Delhi High Court has set aside a 2011 order of the CIC that directed the disclosure of the opinion given to the Centre by the then Solicitor General of India in 2007 in various cases filed by the Cellular Operators Association of India on the allotment of 2G Spectrums. [&#8230;]
+
+Sat, 23 Dec 2023 13:00:34 +0000
+### [Poonch ambush: Search underway for terrorists; govt announces compensation, jobs to kin of 3 civilians killed](https://theprint.in/india/poonch-ambush-search-underway-for-terrorists-govt-announces-compensation-jobs-to-kin-of-3-civilians-killed/1898322/)
+
+Article found but Couldn't summarize 
+Jammu, Dec 23 (PTI) The Jammu and Kashmir administration on Saturday announced compensation and jobs to the kin of the three civilians who were found dead in Poonch district as a massive search operation was underway to track down terrorists behind the recent ambush on two Army vehicles that left five soldiers dead. The three [&#8230;]
+
+Sat, 23 Dec 2023 13:00:23 +0000
+### [Chhattisgarh CM meets Modi, appraises him of steps being taken to fulfil BJP’s poll promises](https://theprint.in/india/chhattisgarh-cm-meets-modi-appraises-him-of-steps-being-taken-to-fulfil-bjps-poll-promises/1898321/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) Newly elected Chhattisgarh Chief Minister Vishnu Deo Sai called on Prime Minister Narendra Modi on Saturday and apprised him of the steps being taken by his government to fulfil the party&#8217;s poll promises, official sources said. Deputy chief ministers Arun Sao and Vijay Sharma accompanied Sai in the meeting with [&#8230;]
+
+Sat, 23 Dec 2023 13:00:13 +0000
+### [Cong’s new National Alliance Committee holds its first meeting](https://theprint.in/india/congs-new-national-alliance-committee-holds-its-first-meeting/1898320/)
+
+As GPT-3.5, I can provide a summary of the article you shared. The recently formed National Alliance Committee (NAC) of the Congress held its first meeting in New Delhi. The committee, led by convener Mukul Wasnik, will now engage in discussions with state leaders to determine seat sharing arrangements. The Congress has announced a five-member NAC to negotiate seat sharing with INDIA bloc allies for the 2024 parliamentary polls. The committee includes senior leaders such as Ashok Gehlot, Bhupesh Baghel, Salman Khurshid, and Mohan Prakash. Decisions regarding seat sharing will be made soon, as elections are approaching. Please note that this summary is generated by GPT-3.5 and may not include all the details from the article.
+
+Sat, 23 Dec 2023 13:00:03 +0000
+### [Arunachal guv calls for strengthening security apparatus in insurgency-hit eastern districts](https://theprint.in/india/arunachal-guv-calls-for-strengthening-security-apparatus-in-insurgency-hit-eastern-districts/1898319/)
+
+Article found but Couldn't summarize 
+Itanagar, Dec 23 (PTI) Arunachal Pradesh Governor Lieutenant General (Retired) K T Parnaik on Saturday called for strengthening the security apparatus in the state&#8217;s insurgency-hit eastern districts of Tirap, Changlang and Longding. The governor, during a meeting with a senior Assam Rifles officer at Raj Bhavan here, discussed ways and means to strengthen the security [&#8230;]
+
+Sat, 23 Dec 2023 12:52:24 +0000
+### [After Punia, ‘Goonga Pehelwan’ Virender Singh says he’ll return Padma Shri ‘for the sake of my sister’](https://theprint.in/india/after-punia-goonga-pehelwan-virender-singh-says-hell-return-padma-shri-for-the-sake-of-my-sister/1898236/)
+
+Article found but Couldn't summarize 
+Three-time Deaflympics gold medallist Virender Singh announces decision in support of Sakshee Malikkh, who quit wrestling over election of Brij Bhushan aide Sanjay Singh as WFI chief.
+
+Sat, 23 Dec 2023 12:47:20 +0000
+### [Setting Sail to Excellence: Anandi – 14 yr. old triumphs by securing her second ‘Gold’ at ‘Phuket King’s Cup 2023’](https://theprint.in/ani-press-releases/setting-sail-to-excellence-anandi-14-yr-old-triumphs-by-securing-her-second-gold-at-phuket-kings-cup-2023/1898314/)
+
+Article found but Couldn't summarize 
+NewsVoir Mumbai (Maharashtra) [India], December 23: Anandi Chandavarkar, the promising young sailor from Mumbai, has once again secured victory at the 35th Phuket King&#8217;s Cup in Thailand, marking her second consecutive triumph, winning a gold medal in this prestigious regatta. She won an outstanding nine out of ten races and received the winning trophy from [&#8230;]
+
 Sat, 23 Dec 2023 12:17:53 +0000
 ### [Poet Imroz’s departure marks end of literary love saga](https://theprint.in/world/poet-imrozs-departure-marks-end-of-literary-love-saga/1898287/)
 

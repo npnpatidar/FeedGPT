@@ -1,3 +1,9 @@
+2023-12-23T18:11:24+05:30
+### [No Inquiry Report Yet But Silkyara Tunnel Work Resumes; Rat-Hole Miners Refuse Govt Reward: Reports](https://thewire.in/environment/no-inquiry-report-yet-but-silkyara-tunnel-work-resumes-rat-hole-miners-refuse-govt-reward-reports)
+
+No Article text 
+The rat-hole miners, who dug through the last 12 meters when drilling machines failed, say Uttarakhand government’s award of Rs 50,000 each is not commensurate with the risk they took. They call it a 'step-motherly treatment'.
+
 2023-12-23T17:46:54+05:30
 ### [UN Security Council Passes Resolution on War in Gaza; US, Russia Abstain](https://thewire.in/world/un-security-council-passes-resolution-on-war-in-gaza-us-russia-abstain)
 

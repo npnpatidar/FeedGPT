@@ -1,3 +1,9 @@
+Sat, 23 Dec 2023 18:18:14 +0530
+### [‘Percy Jackson and the Olympians’ series review: Finally a show that does Seaweed Brain and friends justice](https://www.thehindu.com/entertainment/movies/percy-jackson-and-the-olympians-review/article67668923.ece)
+
+Article found but Couldn't summarize 
+Hitting the right notes of adventure, magic, myth and monsters, this tale of a demigod coming of age, based on Rick Riordan’s hectically popular books, is a hugely enjoyable treat
+
 Fri, 22 Dec 2023 17:33:45 +0530
 ### [‘Rebel Moon: A Child of Fire’ movie review: Zack Snyder’s space opera riddled with sci-fi déjà vu and outright cliché](https://www.thehindu.com/entertainment/movies/rebel-moon-a-child-of-fire-movie-review-zack-snyders-space-opera-riddled-with-sci-fi-d%C3%A9j%C3%A0-vu-and-outright-clich%C3%A9/article67665761.ece)
 
