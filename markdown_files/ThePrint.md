@@ -1,3 +1,123 @@
+Sat, 23 Dec 2023 16:17:27 +0000
+### [UAE: Sharjah Ruler opens Kalba Heritage Market](https://theprint.in/world/uae-sharjah-ruler-opens-kalba-heritage-market/1898507/)
+
+Article found but Couldn't summarize 
+Sharjah [UAE], December 23 (ANI/WAM): Dr Sheikh Sultan bin Muhammad Al Qasimi, Supreme Council Member and Ruler of Sharjah, opened Saturday morning the Kalba Heritage Market, located in the Qalaa area on both sides of Sheikh Saeed bin Hamad Al Qasimi Road, which was restored and developed along with areas surrounding it. Upon arrival at [&#8230;]
+
+Sat, 23 Dec 2023 16:17:14 +0000
+### [Sheikh Zayed Festival announces programme to celebrate New Year 2024](https://theprint.in/world/sheikh-zayed-festival-announces-programme-to-celebrate-new-year-2024/1898505/)
+
+Article found but Couldn't summarize 
+Abu Dhabi [UAE], December 23 (ANI/WAM): The Higher Organising Committee of the Sheikh Zayed Festival, currently taking place at Abu Dhabi&#8217;s Al Wathba showgrounds, has announced its fun New Year&#8217;s special programme, including events, shows, folkloric performances and international art shows arranged to celebrate the season and New Year&#8217;s Eve, in a cultural and entertaining [&#8230;]
+
+Sat, 23 Dec 2023 16:17:02 +0000
+### [Umang 2023: Alia Bhatt, Ranbir Kapoor to Kartik Aaryan, Bollywood celebs grace the event](https://theprint.in/feature/umang-2023-alia-bhatt-ranbir-kapoor-to-kartik-aaryan-bollywood-celebs-grace-the-event/1898503/)
+
+Article found but Couldn't summarize 
+Mumbai (Maharashtra) [India], December 23 (ANI): Several Bollywood celebs on Saturday evening attended the Mumbai Police annual event Umang in Mumbai. Actor Alia Bhatt exuded boss-lady vibes as she donned a floral suit at the star-studded event. She kept her hair open and was seen flaunting her cute smile. Alia&#8217;s husband and actor Ranbir Kapoor [&#8230;]
+
+Sat, 23 Dec 2023 16:16:00 +0000
+### [Duo arrested in Gurugram after video of man with liquor bottle atop car’s roof emerges online](https://theprint.in/india/duo-arrested-in-gurugram-after-video-of-man-with-liquor-bottle-atop-cars-roof-emerges-online/1898502/)
+
+Article found but Couldn't summarize 
+Gurugram, Dec 23 (PTI) The police here have arrested two men after a video showing a masked man atop a moving car with a liquor bottle in his hand emerged on social media, officials said on Saturday. The man on the car&#8217;s roof and the one driving the car during the act were arrested on [&#8230;]
+
+Sat, 23 Dec 2023 16:15:50 +0000
+### [Will take up with CM Mann affiliation issue of Haryana colleges with PU: VP Dhankhar](https://theprint.in/india/will-take-up-with-cm-mann-affiliation-issue-of-haryana-colleges-with-pu-vp-dhankhar/1898501/)
+
+Article found but Couldn't summarize 
+Chandigarh, Dec 23 (PTI) Vice President Jagdeep Dhankhar on Saturday said he will take up the issue of affiliation of Haryana colleges with Panjab University with Punjab Chief Minister Bhagwant Mann. Dhankhar, who is the chancellor of the PU, was addressing a gathering at the global alumni meet of the university here. Haryana colleges used [&#8230;]
+
+Sat, 23 Dec 2023 16:15:38 +0000
+### [‘In line with Gandhis being unaccountable in Congress’: BJP on Priyanka Gandhi Vadra](https://theprint.in/india/in-line-with-gandhis-being-unaccountable-in-congress-bjp-on-priyanka-gandhi-vadra/1898500/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) Priyanka Gandhi Vadra not being given a &#8220;portfolio&#8221; in the Congress organisation is in line with Gandhis being unaccountable in the party and it should be seen as a shot in the arm for Rahul Gandhi&#8217;s &#8220;rival camp&#8221;, the BJP said on Saturday. The ruling party was reacting after the [&#8230;]
+
+Sat, 23 Dec 2023 16:15:25 +0000
+### [President Murmu witnesses Army’s fire-power exercise in Pokhran](https://theprint.in/india/president-murmu-witnesses-armys-fire-power-exercise-in-pokhran/1898499/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) President Droupadi Murmu witnessed a fire-power exercise involving various weapons platforms in Rajasthan&#8217;s Pokhran, the Army said on Saturday. In an interaction with the soldiers, the President, who is also the Supreme Commander of the three services, commended them for maintaining the highest standards of operational preparedness. She also exhorted [&#8230;]
+
+Sat, 23 Dec 2023 16:15:15 +0000
+### [Odisha CM exhorts tribal students to excel in studies](https://theprint.in/india/odisha-cm-exhorts-tribal-students-to-excel-in-studies/1898497/)
+
+Article found but Couldn't summarize 
+Bhubaneswar, Dec 23 (PTI) Odisha Chief Minister Naveen Patnaik on Saturday exhorted tribal students to excel in studies, pursue their chosen careers and fulfill the aspirations of their parents. Patnaik said this while addressing a gathering of tribal students at the state-level felicitation ceremony of Sargiful-2023 winners here. &#8216;Sargi&#8217; is the local name of Sal [&#8230;]
+
+Sat, 23 Dec 2023 16:15:05 +0000
+### [Yemen’s warring parties commit to ceasefire steps – U.N. special envoy](https://theprint.in/world/yemens-warring-parties-commit-to-ceasefire-steps-u-n-special-envoy/1898496/)
+
+Article found but Couldn't summarize 
+By Mohammed Ghobari ADEN (Reuters) - The Saudi-backed Yemeni government and Iran-aligned Houthis have both committed to steps towards a ceasefire, the U.N. special envoy for Yemen said on Saturday.
+
+Sat, 23 Dec 2023 16:15:02 +0000
+### [Cong’s big reshuffle: Priyanka replaced as in-charge of UP, Sachin Pilot gets Chhattisgarh](https://theprint.in/india/congs-big-reshuffle-priyanka-replaced-as-in-charge-of-up-sachin-pilot-gets-chhattisgarh/1898495/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) In a major organisational rejig ahead of the Lok Sabha polls, the Congress on Saturday appointed Avinash Pande the general secretary in-charge of Uttar Pradesh, replacing Priyanka Gandhi Vadra while Sachin Pilot was made the general secretary in-charge of Chhattisgarh. Priyanka Gandhi will now be a general secretary &#8220;without any [&#8230;]
+
+Sat, 23 Dec 2023 16:00:33 +0000
+### [Will bring back Roshni scheme if voted to power in J-K: Azad](https://theprint.in/india/will-bring-back-roshni-scheme-if-voted-to-power-in-j-k-azad/1898494/)
+
+Article found but Couldn't summarize 
+Jammu, Dec 23 (PTI) Democratic Progressive Azad Party (DPAP) chairman Ghulam Nabi Azad on Saturday said he would restore the Roshni scheme if his party is voted to power in Jammu and Kashmir. Addressing a public rally in R S Pura on the outskirts of Jammu, the former chief minister claimed that the abolition of [&#8230;]
+
+Sat, 23 Dec 2023 16:00:22 +0000
+### [Jarange announces indefinite strike in Mumbai from Jan 20; CM urges restraint, cites petition in SC](https://theprint.in/india/jarange-announces-indefinite-strike-in-mumbai-from-jan-20-cm-urges-restraint-cites-petition-in-sc/1898492/)
+
+Article found but Couldn't summarize 
+Beed/ Mumbai, Dec 23 (PTI) Maratha quota activist Manoj Jarange on Saturday announced he will start an indefinite strike at Azad Maidan in Mumbai from January 20 to intensify his demand for reservation for the community. Addressing a massive rally in Beed district in Maharashtra&#8217;s Marathwada region, Jarange claimed &#8220;crores&#8221; of people from the Maratha [&#8230;]
+
+Sat, 23 Dec 2023 16:00:12 +0000
+### [Prez Murmu stresses on empowerment of every woman for India to be developed nation](https://theprint.in/india/prez-murmu-stresses-on-empowerment-of-every-woman-for-india-to-be-developed-nation/1898491/)
+
+Article found but Couldn't summarize 
+Jaipur, Dec 23 (PTI) Achieving the goal of celebrating India&#8217;s centenary of Independence as a developed nation hinges on the strength, self-reliance and empowerment of every woman in the country, President Droupadi Murmu said Saturday. She also stressed the role of self-help groups in uplifting the marginalised sections, particularly women. Addressing a Lakhpati Didi conference [&#8230;]
+
+Sat, 23 Dec 2023 16:00:03 +0000
+### [Just because I am close to MP does not mean I am a dummy candidate: Sanjay Singh](https://theprint.in/sport/just-because-i-am-close-to-mp-does-not-mean-i-am-a-dummy-candidate-sanjay-singh/1898490/)
+
+Article found but Couldn't summarize 
+New Delhi, Dec 23 (PTI) Newly-appointed Wrestling Federation of India (WFI) president Sanjay Singh on Saturday lashed out at the protesting grapplers for &#8220;engaging in politics&#8221; and asserted that he is not a dummy candidate of Brij Bhushan Sharan Singh. Sanjay Singh, who was elected as the president of the WFI on Thursday, is known [&#8230;]
+
+Sat, 23 Dec 2023 15:47:25 +0000
+### [Human Rights Commission of Pakistan condemns crackdown on Baloch protesters](https://theprint.in/world/human-rights-commission-of-pakistan-condemns-crackdown-on-baloch-protesters/1898485/)
+
+Article found but Couldn't summarize 
+Islamabad [Pakistan], December 23 (ANI): The Human Rights Commission of Pakistan (HRCP) has condemned what it termed as the violent state crackdown on Baloch protesters, Pakistan-based Dawn reported. In a statement, HRCP Commission Chairperson Asad Iqbal Butt said the commission was appalled by the state&#8217;s response to peaceful protesters, with unwarranted force in the form [&#8230;]
+
+Sat, 23 Dec 2023 15:47:13 +0000
+### [Japan raises defence budget to record USD 56 billion amid tensions in Indo-Pacific](https://theprint.in/world/japan-raises-defence-budget-to-record-usd-56-billion-amid-tensions-in-indo-pacific/1898483/)
+
+Article found but Couldn't summarize 
+Tokyo [Japan], December 23 (ANI): Amid the rising tensions and security risks in the Indo-Pacific region, Japan has loosened its arms restrictions to allow it to send domestically produced missiles and artillery to countries that include the United states, Al Jazeera reported on Friday. It reported that the Japanese cabinet approved a record increase in [&#8230;]
+
+Sat, 23 Dec 2023 15:47:02 +0000
+### [Indian Coast Guard ship to escort distressed MV Chem Pluto to Mumbai](https://theprint.in/world/indian-coast-guard-ship-to-escort-distressed-mv-chem-pluto-to-mumbai/1898481/)
+
+Article found but Couldn't summarize 
+By Ajit Dubey New Delhi [India], December 23 (ANI): The merchant ship MV Chem Pluto which was attacked by a drone on Saturday has started moving at a speed of around 11 nautical miles per hour and will be joined by Indian Coast Guard Ship ICGS Vikram at around 10 p.m., Indian Coast Guard officials [&#8230;]
+
+Sat, 23 Dec 2023 15:45:27 +0000
+### [Hoarding above building in Hyderabad catches fire, no casualty](https://theprint.in/india/hoarding-above-building-in-hyderabad-catches-fire-no-casualty/1898479/)
+
+Article found but Couldn't summarize 
+Hyderabad, Dec 23 (PTI) A hoarding above a nine-floor building in Attapur area here caught fire on Saturday and no one was injured, police and fire department officials said. The ground floor of the building houses a children&#8217;s hospital and as a precautionary measure some patients were shifted to nearby hospitals, they said, adding that [&#8230;]
+
+Sat, 23 Dec 2023 15:45:17 +0000
+### [Anti-war challenger Duntsova blocked from running against Russia’s Putin](https://theprint.in/world/anti-war-challenger-duntsova-blocked-from-running-against-russias-putin/1898478/)
+
+Article found but Couldn't summarize 
+By Mark Trevelyan LONDON (Reuters) -Former TV journalist Yekaterina Duntsova was disqualified on Saturday as a candidate for Russia's next presidential election, preventing her from running against
+
+Sat, 23 Dec 2023 15:45:15 +0000
+### [ACB arrests cop for accepting bribe in Jharkhand’s Hazaribag](https://theprint.in/india/acb-arrests-cop-for-accepting-bribe-in-jharkhands-hazaribag/1898476/)
+
+Article found but Couldn't summarize 
+Hazaribag (Jharkhand), Dec 23 (PTI) The Anti-Corruption Bureau (ACB) unit of Hazaribag in Jharkhand on Saturday arrested an assistant sub-inspector of police (ASI) for accepting bribe, SP (ACB Hazaribag) Arif Ekram said. ASI M Kujur of Bishnugarh police station here was investigating a land dispute case at Hetley Bodhra village, police said. The case was [&#8230;]
+
 Sat, 23 Dec 2023 15:16:43 +0000
 ### [Witnesses record their statements in cipher case](https://theprint.in/world/witnesses-record-their-statements-in-cipher-case/1898451/)
 

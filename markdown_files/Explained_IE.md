@@ -1,3 +1,8 @@
+Sat, 23 Dec 2023 16:04:25 +0000
+### [How PV Narasimha Rao became India’s PM from the brink of political retirement](https://indianexpress.com/article/explained/explained-history/how-pv-narasimha-rao-became-prime-minister-9080540/)
+
+PV Narasimha Rao, the former Prime Minister of India, was paid homage by Congress chief Mallikarjun Kharge on his 19th death anniversary. Kharge highlighted Rao's contributions to India's transformative journey through economic reforms, as well as his achievements in the nuclear program and foreign policy, including the 'Look East' policy. Rao's political journey took a turn when he was chosen as the next Congress President after the assassination of Rajiv Gandhi. Despite other aspirants for the position, Rao's experience, support from President R Venkataraman, and the backing of Congress MPs from peninsular India played a significant role in his selection. He went on to become the Prime Minister of India.
+
 Sat, 23 Dec 2023 13:19:24 +0000
 ### [Madhya Pradesh CM’s claim about Ujjain and the Prime Meridian: a short history of measuring time](https://indianexpress.com/article/explained/madhya-pradesh-cm-ujjain-and-the-prime-meridian-9080397/)
 

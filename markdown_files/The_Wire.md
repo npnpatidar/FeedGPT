@@ -1,3 +1,9 @@
+2023-12-23T21:03:01+05:30
+### [Seasoned Humanitarian Workers Say They've Seen Nothing Like Gaza: UN Chief Guterres](https://thewire.in/world/guterres-ceasefire-gaza-press-conference)
+
+No Article text 
+Acknowledging that the recent UN Security Council resolution did not share his call for an immediate ceasefire in Gaza, Guterres said he hoped it would raise awareness around the world of the necessity of a ceasefire for effective aid operations.
+
 2023-12-23T20:43:08+05:30
 ### [J&K: In Poonch, Anger After Videos Emerge Of Three Civilians Found Dead Allegedly After Army Questioning](https://thewire.in/rights/anger-in-poonch-after-videos-show-three-dead-after-alleged-army-questioning)
 
