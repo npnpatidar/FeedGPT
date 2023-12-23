@@ -1,3 +1,9 @@
+Sun, 24 Dec 2023 02:05:00 +0530
+### [How is the U.K. cracking down on immigration? | Explained](https://www.thehindu.com/news/international/how-is-the-uk-cracking-down-on-immigration-explained/article67669799.ece)
+
+Article found but Couldn't summarize 
+What are the new visa regulations? How will it impact students, workers and dependents?
+
 Wed, 20 Dec 2023 10:30:00 +0530
 ### [Was the COP28 climate summit a milestone or a mirage? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/cop28-outcomes-decisions-explained/article67656914.ece)
 
