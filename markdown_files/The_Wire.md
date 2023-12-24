@@ -1,3 +1,9 @@
+2023-12-24T19:50:24+05:30
+### [The Facade of Normalcy Exacts a Heavy Price From the People of Jammu and Kashmir](https://thewire.in/rights/the-facade-of-normalcy-exacts-a-heavy-price-from-the-people-of-jammu-and-kashmir)
+
+No Article text 
+Kashmiri youngsters are packed off to jails in and outside J&amp;K on trivial grounds while the rest pay with their lives and liberty to maintain a sullen silence.
+
 2023-12-24T18:23:57+05:30
 ### [Tanker Hit off Gujarat Coast by Drone Fired From Iran: Report](https://thewire.in/security/tanker-hit-off-gujarat-coast-by-drone-fired-from-iran-report)
 
