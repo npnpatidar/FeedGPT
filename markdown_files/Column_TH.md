@@ -1,3 +1,8 @@
+Mon, 25 Dec 2023 00:40:00 +0530
+### [Krishna Waters Award — From The Hindu’s Archives, 50 years ago, December 25, 1973](https://www.thehindu.com/opinion/op-ed/krishna-waters-award-from-the-hindus-archives-50-years-ago-december-25-1973/article67671442.ece)
+
+Article found but Couldn't summarize
+
 Wed, 20 Dec 2023 00:30:00 +0530
 ### [Sportsmen have a platform — some use it well, others waste it](https://www.thehindu.com/opinion/columns/sportsmen-have-a-platform-some-use-it-well-others-waste-it/article67654738.ece)
 

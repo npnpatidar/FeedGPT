@@ -1,3 +1,15 @@
+Mon, 25 Dec 2023 00:20:00 +0530
+### [Another opportunity: On the Wrestling Federation of India and reforms](https://www.thehindu.com/opinion/editorial/another-opportunity-the-wrestling-federation-of-india-and-reforms/article67671646.ece)
+
+Article found but Couldn't summarize 
+The Wrestling Federation of India needs a complete overhaul
+
+Mon, 25 Dec 2023 00:10:00 +0530
+### [Opportune pause: On an opportunity to consider the relevance of the Indian Science Congress](https://www.thehindu.com/opinion/editorial/opportune-pause-on-an-opportunity-to-consider-the-relevance-of-the-indian-science-congress/article67671426.ece)
+
+Article found but Couldn't summarize 
+Uncertainty over the Science Congress’s schedule is a chance to evaluate it
+
 Sat, 23 Dec 2023 00:20:00 +0530
 ### [Two down: On the conviction of a senior functionary and the DMK](https://www.thehindu.com/opinion/editorial/two-down-on-the-conviction-of-a-senior-functionary-and-the-dmk/article67666527.ece)
 
