@@ -1,3 +1,8 @@
+Sun, 24 Dec 2023 10:54:39 +0000
+### [Why the Orissa HC rapped the state govt over creating new districts](https://indianexpress.com/article/explained/explained-politics/why-the-odisha-hc-rapped-the-govt-over-creating-new-districts-9081140/)
+
+Article found but Couldn't summarize
+
 Sun, 24 Dec 2023 10:17:25 +0000
 ### [The many origins of Santa Claus, from Christian saints to Nordic evil spirits](https://indianexpress.com/article/explained/explained-culture/the-many-origins-of-santa-claus-9081103/)
 

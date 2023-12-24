@@ -1,3 +1,9 @@
+Sun, 24 Dec 2023 16:33:13 +0530
+### [Jaishankar’s upcoming Russia visit: What rupee-ruble trade means for India](https://www.firstpost.com/opinion/jaishankars-upcoming-russia-visit-what-rupee-ruble-trade-means-for-india-13541262.html)
+
+Article found but Couldn't summarize 
+Jaishankar’s upcoming Russia visit: What rupee-ruble trade means for India
+
 Sun, 24 Dec 2023 14:19:37 +0530
 ### [The parallel journeys of Mujibur Rahman and Zulfikar Ali Bhutto: Tragic legacies in South Asian politics](https://www.firstpost.com/opinion/the-parallel-journeys-of-zulfikar-ali-bhutto-and-mujibur-rahman-tragic-legacies-in-south-asian-politics-13540932.html)
 

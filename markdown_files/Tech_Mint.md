@@ -1,3 +1,15 @@
+Sun, 24 Dec 2023 15:56:49 +0530
+### [Nothing Phone (2a) key features revealed ahead of probable February launch. All you need to know](https://www.livemint.com/technology/gadgets/nothing-phone-2a-key-features-revealed-ahead-of-probable-february-launch-all-you-need-to-know-11703409157045.html)
+
+Article found but Couldn't summarize 
+Nothing Phone (2a) could feature a 6.7-inch OLED panel, dual cameras, Dimensity 7200 SoC, 8GB RAM, and 128GB storage. It is expected to run on Nothing OS 2.5 based on Android 14 and may have a transparent back design.
+
+Sun, 24 Dec 2023 15:53:21 +0530
+### [Mint Explainer: How Meta’s Threads could boost the rise of a new social internet](https://www.livemint.com/technology/mint-explainer-how-meta-s-threads-could-boost-the-rise-of-a-new-social-internet-11703413010472.html)
+
+Article found but Couldn't summarize 
+The decision of Meta’s Threads to join Fediverse–a network of social media platforms including Mastodon, Pleroma, Pixelfed, GNU Social and PeerTube–has underscored the need for a decentralised social internet that enables users of different platforms to interact with each other
+
 Sun, 24 Dec 2023 13:56:45 +0530
 ### [Redmi Note 13 series specifications leaked online ahead of Jan 5 India launch. Check full specs sheet here](https://www.livemint.com/technology/gadgets/redmi-note-13-series-specifications-leaked-online-ahead-of-jan-5-india-launch-check-full-specs-sheet-here-11703404702309.html)
 

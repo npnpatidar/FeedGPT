@@ -1,3 +1,15 @@
+2023-12-24T16:42:24+05:30
+### [Rahul Gandhi: 'Trying to Change Caste ‘Apartheid' System in India, Not a Free Democracy Anymore'](https://thewire.in/politics/rahul-gandhi-trying-to-change-caste-apartheid-system-in-india-not-a-free-democracy-anymore)
+
+No Article text 
+Rahul Gandhi also said that economic development is "massively concentrating" in the hands of a few.
+
+2023-12-24T16:16:09+05:30
+### [Christmas Amidst Genocide](https://thewire.in/religion/palestine-genocide-christmas-israel)
+
+No Article text 
+Christmas 2023 is hardly the time to be celebrating when people in the entire Holy Land are suffering severe oppression.
+
 2023-12-24T15:42:32+05:30
 ### [A Recipe for Change: Reshaping Our Food Systems Amid Rising Costs and Climate Change](https://thewire.in/environment/a-recipe-for-change-reshaping-our-food-systems-amid-rising-costs-and-climate-change)
 

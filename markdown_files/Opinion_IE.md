@@ -1,3 +1,13 @@
+Sun, 24 Dec 2023 11:03:03 +0000
+### [View from Pakistan: End of India’s ‘fabled reputation’ as the only South Asian democracy](https://indianexpress.com/article/opinion/columns/pakistan-india-democracy-south-asia-parliament-election-commission-9081131/)
+
+Article found but Couldn't summarize
+
+Sun, 24 Dec 2023 10:36:11 +0000
+### [From Mahua Moitra expulsion, a lesson about the political importance of the vernacular](https://indianexpress.com/article/opinion/columns/mahua-moitra-expulsion-political-importance-vernacular-9081097/)
+
+Article found but Couldn't summarize
+
 Sun, 24 Dec 2023 07:47:28 +0000
 ### [Express View | Heal and hold to account: In government’s ‘Naya Kashmir,’ no one should get away with murder](https://indianexpress.com/article/opinion/editorials/express-view-heal-hold-to-account-naya-kashmir-no-one-get-away-murder-9080966/)
 
