@@ -1,3 +1,9 @@
+2023-12-24T18:23:57+05:30
+### [Tanker Hit off Gujarat Coast by Drone Fired From Iran: Report](https://thewire.in/security/tanker-hit-off-gujarat-coast-by-drone-fired-from-iran-report)
+
+No Article text 
+While the attack caused damages to the Japanese-owned ship, no casualties have been reported
+
 2023-12-24T17:50:41+05:30
 ### [Why Is the IMA Cheering If Doctors Are Still Punishable for Medical Negligence?](https://thewire.in/government/why-is-the-ima-cheering-if-doctors-are-still-punishable-for-medical-negligence)
 

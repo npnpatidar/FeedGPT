@@ -1,3 +1,8 @@
+Sun, 24 Dec 2023 12:45:28 +0000
+### [Wrestlers return Padma honours: Looking back at ‘award wapsi’ during Indira Gandhi regime](https://indianexpress.com/article/explained/explained-politics/padma-award-wapsi-during-indira-gandhi-regime-9081254/)
+
+Article found but Couldn't summarize
+
 Sun, 24 Dec 2023 10:54:39 +0000
 ### [Why the Orissa HC rapped the state govt over creating new districts](https://indianexpress.com/article/explained/explained-politics/why-the-odisha-hc-rapped-the-govt-over-creating-new-districts-9081140/)
 

@@ -1,3 +1,9 @@
+Sun, 24 Dec 2023 18:46:01 +0530
+### [Socotra island: India’s geo-strategic opportunity to check China's overambition in Red Sea](https://www.firstpost.com/opinion/socotra-island-indias-geo-strategic-opportunity-to-check-chinas-overambition-in-red-sea-13541562.html)
+
+Article found but Couldn't summarize 
+Socotra island: India’s geo-strategic opportunity to check China's overambition in Red Sea
+
 Sun, 24 Dec 2023 17:38:08 +0530
 ### [Jokes Apart | It’s India’s biggest shaadi season yet and the wedding economy is through the roof](https://www.firstpost.com/opinion/jokes-apart-its-indias-biggest-shaadi-season-yet-and-the-wedding-economy-is-through-the-roof-13541422.html)
 

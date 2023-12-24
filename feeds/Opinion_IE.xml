@@ -5,6 +5,15 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Opinion_IE.xml</link>
 		<description>Opinion IE</description>
 		<item>
+			<title>Reducing Parliament to an echo chamber</title>
+			<link>https://indianexpress.com/article/opinion/columns/reducing-parliament-echo-chamber-9081244/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Sun, 24 Dec 2023 12:34:52 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2023/12/parliament-winter-session-2.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2023/12/parliament-winter-session-2.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>View from Pakistan: End of India’s ‘fabled reputation’ as the only South Asian democracy</title>
 			<link>https://indianexpress.com/article/opinion/columns/pakistan-india-democracy-south-asia-parliament-election-commission-9081131/</link>
 			<description>Article found but Couldn't summarize</description>

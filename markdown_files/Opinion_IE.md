@@ -1,3 +1,8 @@
+Sun, 24 Dec 2023 12:34:52 +0000
+### [Reducing Parliament to an echo chamber](https://indianexpress.com/article/opinion/columns/reducing-parliament-echo-chamber-9081244/)
+
+Article found but Couldn't summarize
+
 Sun, 24 Dec 2023 11:03:03 +0000
 ### [View from Pakistan: End of India’s ‘fabled reputation’ as the only South Asian democracy](https://indianexpress.com/article/opinion/columns/pakistan-india-democracy-south-asia-parliament-election-commission-9081131/)
 
