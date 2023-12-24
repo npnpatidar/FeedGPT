@@ -1,3 +1,9 @@
+Sun, 24 Dec 2023 14:19:37 +0530
+### [The parallel journeys of Mujibur Rahman and Zulfikar Ali Bhutto: Tragic legacies in South Asian politics](https://www.firstpost.com/opinion/the-parallel-journeys-of-zulfikar-ali-bhutto-and-mujibur-rahman-tragic-legacies-in-south-asian-politics-13540932.html)
+
+Article found but Couldn't summarize 
+The parallel journeys of Mujibur Rahman and Zulfikar Ali Bhutto: Tragic legacies in South Asian politics
+
 Sun, 24 Dec 2023 12:30:32 +0530
 ### [Illegal arms in North East: The Chinese connection](https://www.firstpost.com/opinion/illegal-arms-in-north-east-the-chinese-connection-13540592.html)
 

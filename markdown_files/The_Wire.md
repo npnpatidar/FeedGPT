@@ -1,3 +1,15 @@
+2023-12-24T14:30:44+05:30
+### [Remembering the Magic of Painter and Poet Imroz](https://thewire.in/culture/remembering-painter-and-poet-imroz)
+
+No Article text 
+The world knows and remembers Imroz only as novelist Amrita Pritam's partner, but not many people remember that he was an artist himself.
+
+2023-12-24T14:07:03+05:30
+### [Surveillance Giant on India's 'List of Pegasus Alternatives' Has 4 Subsidiaries in India](https://thewire.in/tech/pegasus-alternative-verint-cognyte-india-subsidiaries)
+
+No Article text 
+Verint or Cognyte had had its stock dumped by Norway’s sovereign wealth fund after an investigation by Meta found widespread abuse.
+
 2023-12-24T13:21:40+05:30
 ### [The Choreographed Misery of the Powerful](https://thewire.in/society/the-choreographed-misery-of-the-powerful)
 

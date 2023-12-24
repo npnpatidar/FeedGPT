@@ -1,3 +1,8 @@
+Sun, 24 Dec 2023 14:04:53 +0530
+### [In Graphics | The best Christmas films of all time](https://www.firstpost.com/explainers/in-graphics-the-best-christmas-films-of-all-time-13536172.html)
+
+This article discusses the upcoming holiday season and the joy of decorating homes and indulging in delicious Christmas cake. It also mentions the popularity of festive movies that give a warm and fuzzy feeling. The article briefly mentions the success of the Bollywood film Animal, despite concerns about toxic masculinity. Additionally, it reflects on notable events and personalities from the past year, including figures like Silvio Berlusconi, Tina Turner, and Yevgeny Prigozhin. The article concludes by mentioning a significant development in Indian sports with the IOC Session held in Mumbai. The article is published on December 24, 2023, on Firstpost.
+
 Sun, 24 Dec 2023 10:05:05 +0530
 ### [Where did Santa Claus come from?](https://www.firstpost.com/explainers/where-did-santa-claus-come-from-13536602.html)
 

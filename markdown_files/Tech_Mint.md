@@ -1,3 +1,9 @@
+Sun, 24 Dec 2023 13:56:45 +0530
+### [Redmi Note 13 series specifications leaked online ahead of Jan 5 India launch. Check full specs sheet here](https://www.livemint.com/technology/gadgets/redmi-note-13-series-specifications-leaked-online-ahead-of-jan-5-india-launch-check-full-specs-sheet-here-11703404702309.html)
+
+Article found but Couldn't summarize 
+Redmi Note 13 5G expected to feature 6.67-inch AMOLED display, MediaTek Dimensity 6080 chipset, and 108MP main camera
+
 Sun, 24 Dec 2023 13:25:53 +0530
 ### [Garena Free Fire Redeem Codes for December 24, 2023: Win exciting weapons and skins](https://www.livemint.com/technology/garena-free-fire-redeem-codes-for-december-24-2023-win-exciting-weapons-and-skins-11703400229380.html)
 
