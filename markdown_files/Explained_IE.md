@@ -1,3 +1,8 @@
+Sun, 24 Dec 2023 10:17:25 +0000
+### [The many origins of Santa Claus, from Christian saints to Nordic evil spirits](https://indianexpress.com/article/explained/explained-culture/the-many-origins-of-santa-claus-9081103/)
+
+Article found but Couldn't summarize
+
 Sun, 24 Dec 2023 07:08:54 +0000
 ### [Why South Korea’s apex court has asked two Japanese firms to compensate Korean wartime forced labourers](https://indianexpress.com/article/explained/explained-global/south-korea-apex-court-has-asked-two-japanese-firms-to-compensate-korean-wartime-forced-labourers-9080869/)
 

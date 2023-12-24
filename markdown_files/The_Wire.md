@@ -1,3 +1,9 @@
+2023-12-24T15:42:32+05:30
+### [A Recipe for Change: Reshaping Our Food Systems Amid Rising Costs and Climate Change](https://thewire.in/environment/a-recipe-for-change-reshaping-our-food-systems-amid-rising-costs-and-climate-change)
+
+No Article text 
+The price of food is not what we pay at the checkout, but what we pay with our environment, our health, and our future.
+
 2023-12-24T14:30:44+05:30
 ### [Remembering the Magic of Painter and Poet Imroz](https://thewire.in/culture/remembering-painter-and-poet-imroz)
 
@@ -45,6 +51,12 @@ Punia's attempt to return his Olympic medal to Prime Minister Narendra Modi at h
 
 No Article text 
 Mohammad Shafi Mir, who had devoted himself to social service after retirement, was a muezzin at a local mosque in his village
+
+2023-12-24T07:00:01+05:30
+### [Watch | A Look Back at the Winter Session of 2023](https://thewire.in/government/watch-a-look-back-at-the-winter-session-of-2023)
+
+No Article text 
+Key legislations, hundreds of suspensions and everything else that defined this session of parliament.
 
 2023-12-23T22:50:58+05:30
 ### [India Has Lodged Complaint with US: Jaishankar on Graffiti Sprayed on Hindu Temple](https://thewire.in/diplomacy/india-has-lodged-complaint-with-us-jaishankar-on-graffiti-sprayed-on-hindu-temple)
