@@ -1,3 +1,14 @@
+Sun, 24 Dec 2023 10:05:05 +0530
+### [Where did Santa Claus come from?](https://www.firstpost.com/explainers/where-did-santa-claus-come-from-13536602.html)
+
+The origins of the beloved gift-giver figure, Santa Claus, can be traced back to St. Nicholas, a man who lived in the fourth century. St. Nicholas was known for his Christian faith and acts of generosity, such as providing dowries for three impoverished sisters. His legacy sparked various traditions across Europe, with December 6th becoming his feast day. Over time, the figure of St. Nicholas evolved into Santa Claus, influenced by cultural and religious shifts. The red Santa suit and related apparel that we are familiar with today are the result of modern-day marketing in the English-speaking world. Despite the transformation, the core values of generosity, compassion, and the joy of giving have remained intact in the figure of Santa Claus.
+
+Sun, 24 Dec 2023 09:54:51 +0530
+### [This Week in Explainers: Why Trump's name was taken off the 2024 ballot in Colorado](https://www.firstpost.com/explainers/this-week-in-explainers-why-donald-trumps-name-was-taken-off-the-2024-ballot-in-colorado-13537242.html)
+
+Article found but Couldn't summarize 
+This Week in Explainers: Why Trump's name was taken off the 2024 ballot in Colorado
+
 Sat, 23 Dec 2023 17:53:50 +0530
 ### [After Canada, is pro-Khalistan sentiment growing in the US?](https://www.firstpost.com/explainers/after-canada-is-pro-khalistan-sentiment-growing-in-the-us-13539172.html)
 
