@@ -1,3 +1,15 @@
+2023-12-24T13:21:40+05:30
+### [The Choreographed Misery of the Powerful](https://thewire.in/society/the-choreographed-misery-of-the-powerful)
+
+No Article text 
+Strange to hear the privileged complain about feeling miserable and persecuted while the silence of those grappling with poverty and unemployment goes unnoticed.
+
+2023-12-24T13:04:07+05:30
+### [Why Macron's Republic Day Visit Could Precipitate the IAF's Long-Deferred Modernisation](https://thewire.in/security/why-macrons-republic-day-visit-could-precipitate-the-iafs-long-deferred-modernisation)
+
+No Article text 
+An assortment of serving and retired IAF officers, security officials and analysts broadly agreed that Macron's visit was a part of ‘discreet signalling’ by India and France with regard to the former's purchase of additional Dassault Rafale aircraft.
+
 2023-12-24T11:51:14+05:30
 ### [Under Pressure After Public Outrage, Modi Govt 'Forced to Suspend' New Wrestling Body](https://thewire.in/government/wrestling-federation-of-india-suspend-sanjay-singh-gonda)
 
