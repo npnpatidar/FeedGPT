@@ -1,3 +1,8 @@
+Mon, 25 Dec 2023 00:48:00 +0530
+### [Empire cruise. — From The Hindu’s Archives, 100 years ago, December 25, 1923](https://www.thehindu.com/opinion/op-ed/empire-cruise-from-the-hindus-archives-100-years-ago-december-25-1923/article67671437.ece)
+
+Article found but Couldn't summarize
+
 Mon, 25 Dec 2023 00:40:00 +0530
 ### [Krishna Waters Award — From The Hindu’s Archives, 50 years ago, December 25, 1973](https://www.thehindu.com/opinion/op-ed/krishna-waters-award-from-the-hindus-archives-50-years-ago-december-25-1973/article67671442.ece)
 
