@@ -1,3 +1,15 @@
+Sun, 24 Dec 2023 06:59:24 +0530
+### [The worst investment ideas of 2023](https://www.livemint.com/opinion/columns/the-worst-investment-ideas-of-2023-11703354301815.html)
+
+Article found but Couldn't summarize 
+Among the market buzzwords of the year were FIRE, smallcaps, midcaps, and SIPs. Could it be that financial advisers and influencers were peddling the wrong ideas?
+
+Sun, 24 Dec 2023 06:59:03 +0530
+### [A primer to navigating global economic crosswinds in the year ahead](https://www.livemint.com/opinion/online-views/a-primer-to-navigating-global-economic-crosswinds-in-the-year-ahead-11703352486675.html)
+
+Article found but Couldn't summarize 
+Given crowded trades across asset classes as investor behaviour is far from what is assumed in traditional finance models, they need to be cautious on the unknowns and tread the market carefully
+
 Sat, 23 Dec 2023 12:12:22 +0530
 ### [In sustainability, a mega opportunity for Indian banks](https://www.livemint.com/opinion/online-views/in-sustainability-a-mega-opportunity-for-indian-banks-11703169265673.html)
 

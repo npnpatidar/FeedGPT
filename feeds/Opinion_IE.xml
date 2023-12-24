@@ -5,6 +5,24 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Opinion_IE.xml</link>
 		<description>Opinion IE</description>
 		<item>
+			<title>Please answer the questions</title>
+			<link>https://indianexpress.com/article/opinion/columns/rahul-gandhi-vice-president-mimicry-oppn-mps-suspension-raga-social-media-trollinhg-9080575/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Sun, 24 Dec 2023 02:15:06 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2023/12/cover-83.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2023/12/cover-83.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Jats in the modern world</title>
+			<link>https://indianexpress.com/article/opinion/columns/jats-in-india-history-lifestyle-statewise-jats-numbers-in-india-9080587/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Sun, 24 Dec 2023 01:30:57 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2023/12/JATS.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2023/12/JATS.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>When democracy fails in its temple: Behind the suspension of 146 MPs</title>
 			<link>https://indianexpress.com/article/opinion/columns/democracy-fails-temple-behind-suspension-146-mp-9080179/</link>
 			<description>Article found but Couldn't summarize</description>
