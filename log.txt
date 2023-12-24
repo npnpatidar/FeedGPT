@@ -3132,3 +3132,10 @@ Started at 2023-12-24 15:17:02
 Finished at 2023-12-24 15:24:16
 Total time taken: 434.28498554229736 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2023-12-24 16:21:56
+1 Feed entries have been written to feeds/Opinion_IE.xml
+20 Feed entries have been written to feeds/ThePrint.xml
+21 new entries have been added
+Finished at 2023-12-24 16:32:39
+Total time taken: 642.9338264465332 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
