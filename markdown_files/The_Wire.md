@@ -1,3 +1,27 @@
+2023-12-24T11:51:14+05:30
+### [Under Pressure After Public Outrage, Modi Govt 'Forced to Suspend' New Wrestling Body](https://thewire.in/government/wrestling-federation-of-india-suspend-sanjay-singh-gonda)
+
+No Article text 
+The decision came after newly elected president Sanjay Singh, a Brij Bhushan loyalist, announced that Under-15 and Under-20 nationals will take place at Uttar Pradesh's Gonda, which is Brij Bhushan's turf.
+
+2023-12-24T11:16:54+05:30
+### [Full Text | Why Justice Lokur Feels the Supreme Court Should Review its Article 370 Judgment](https://thewire.in/law/full-text-why-justice-lokur-feels-the-supreme-court-should-review-its-article-370-judgment)
+
+No Article text 
+'The case wasn't as complicated as the judgment makes it out to be. I think that maybe 200 or 250 pages of the judgment were not necessary...'
+
+2023-12-24T11:10:52+05:30
+### [Watch | What Bajrang Punia Wrote in His Letter to PM Modi](https://thewire.in/rights/watch-what-bajrang-punia-wrote-in-his-letter-to-pm-modi)
+
+No Article text 
+Punia's attempt to return his Olympic medal to Prime Minister Narendra Modi at his residence was interrupted by Delhi Police.
+
+2023-12-24T10:54:40+05:30
+### [Kashmir: Militants Shoot Dead Retired Top Cop Whose Security Detail Was Recently Withdrawn](https://thewire.in/security/kashmir-top-cop-mohammad-shafi-mir-shot-dead)
+
+No Article text 
+Mohammad Shafi Mir, who had devoted himself to social service after retirement, was a muezzin at a local mosque in his village
+
 2023-12-23T22:50:58+05:30
 ### [India Has Lodged Complaint with US: Jaishankar on Graffiti Sprayed on Hindu Temple](https://thewire.in/diplomacy/india-has-lodged-complaint-with-us-jaishankar-on-graffiti-sprayed-on-hindu-temple)
 
