@@ -1,3 +1,18 @@
+Sun, 24 Dec 2023 02:30:07 +0000
+### [How BJP veterans Advani, Joshi steered temple run](https://indianexpress.com/article/opinion/columns/ayodhya-ram-mandir-innauguration-ram-mandir-movement-murli-manohar-joshi-lk-advani-9080592/)
+
+Article found but Couldn't summarize
+
+Sun, 24 Dec 2023 02:25:44 +0000
+### [P Chidambaram writes: How are the four ‘castes’ doing?](https://indianexpress.com/article/opinion/columns/how-are-the-four-castes-doing-9080570/)
+
+Article found but Couldn't summarize
+
+Sun, 24 Dec 2023 02:20:33 +0000
+### [Why Christmas is for everyone](https://indianexpress.com/article/opinion/columns/why-christmas-is-for-everyone-9080589/)
+
+Article found but Couldn't summarize
+
 Sun, 24 Dec 2023 02:15:06 +0000
 ### [Please answer the questions](https://indianexpress.com/article/opinion/columns/rahul-gandhi-vice-president-mimicry-oppn-mps-suspension-raga-social-media-trollinhg-9080575/)
 
