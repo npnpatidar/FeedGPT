@@ -1,3 +1,15 @@
+2023-12-24T17:50:41+05:30
+### [Why Is the IMA Cheering If Doctors Are Still Punishable for Medical Negligence?](https://thewire.in/government/why-is-the-ima-cheering-if-doctors-are-still-punishable-for-medical-negligence)
+
+No Article text 
+The IMA is happy that the new Bharatiya Nyaya Sanhita differentiates medical negligence from criminal offence, and offers a less harsh punishment.
+
+2023-12-24T17:46:30+05:30
+### [Spotting a Real Democracy Amid the Fakes](https://thewire.in/rights/spotting-a-real-democracy-amid-the-fakes)
+
+No Article text 
+Democracies do not die at the hands of governments alone. When public conscience and opinion dies, so do democracies.
+
 2023-12-24T16:42:24+05:30
 ### [Rahul Gandhi: 'Trying to Change Caste ‘Apartheid' System in India, Not a Free Democracy Anymore'](https://thewire.in/politics/rahul-gandhi-trying-to-change-caste-apartheid-system-in-india-not-a-free-democracy-anymore)
 

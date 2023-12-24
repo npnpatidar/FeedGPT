@@ -1,3 +1,9 @@
+Sun, 24 Dec 2023 17:38:08 +0530
+### [Jokes Apart | It’s India’s biggest shaadi season yet and the wedding economy is through the roof](https://www.firstpost.com/opinion/jokes-apart-its-indias-biggest-shaadi-season-yet-and-the-wedding-economy-is-through-the-roof-13541422.html)
+
+Article found but Couldn't summarize 
+Jokes Apart | It’s India’s biggest shaadi season yet and the wedding economy is through the roof
+
 Sun, 24 Dec 2023 16:33:13 +0530
 ### [Jaishankar’s upcoming Russia visit: What rupee-ruble trade means for India](https://www.firstpost.com/opinion/jaishankars-upcoming-russia-visit-what-rupee-ruble-trade-means-for-india-13541262.html)
 
