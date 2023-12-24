@@ -1,3 +1,9 @@
+Sun, 24 Dec 2023 12:01:08 +0530
+### [Weekly Tech recap: From passing of Telecom bill to global X outage; a look at top tech news of the week](https://www.livemint.com/technology/tech-news/weekly-tech-recap-from-passing-of-telecom-bill-to-global-x-outage-a-look-at-top-tech-news-of-the-week-11703395378319.html)
+
+Article found but Couldn't summarize 
+Indian Parliament passed the Telecommunications Bill, 2023 to reform the country's century-old telecom law, X went down for thousands of users around the globe and other top news that shook up the world of technology in the last week.
+
 Sat, 23 Dec 2023 18:58:57 +0530
 ### [Is AppleGPT in the works? Here's what the report suggests...](https://www.livemint.com/technology/is-applegpt-in-the-works-heres-what-the-report-suggests-11703337898381.html)
 

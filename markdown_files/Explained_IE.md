@@ -1,3 +1,8 @@
+Sun, 24 Dec 2023 07:08:54 +0000
+### [Why South Korea’s apex court has asked two Japanese firms to compensate Korean wartime forced labourers](https://indianexpress.com/article/explained/explained-global/south-korea-apex-court-has-asked-two-japanese-firms-to-compensate-korean-wartime-forced-labourers-9080869/)
+
+Article found but Couldn't summarize
+
 Sat, 23 Dec 2023 16:04:25 +0000
 ### [How PV Narasimha Rao became India’s PM from the brink of political retirement](https://indianexpress.com/article/explained/explained-history/how-pv-narasimha-rao-became-prime-minister-9080540/)
 
