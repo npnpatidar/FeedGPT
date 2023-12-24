@@ -1,3 +1,9 @@
+2023-12-24T23:32:13+05:30
+### [Poonch Civilians Killed Are Among the Men Seen in Video Being Tortured By Soldiers, Sarpanch Confirms](https://thewire.in/rights/poonch-civilians-killed-are-among-the-men-seen-in-video-being-tortured-by-soldiers-sarpanch-confirms)
+
+No Article text 
+Allegation of custodial torture and killing comes days after the Supreme Court's 370 judgment, Army says matter is ‘under investigation’ and that it will  extend full support and cooperation to this process.
+
 2023-12-24T19:50:24+05:30
 ### [The Facade of Normalcy Exacts a Heavy Price From the People of Jammu and Kashmir](https://thewire.in/rights/the-facade-of-normalcy-exacts-a-heavy-price-from-the-people-of-jammu-and-kashmir)
 

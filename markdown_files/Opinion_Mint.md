@@ -1,3 +1,15 @@
+Sun, 24 Dec 2023 22:57:50 +0530
+### [Streaming platforms have tough choices in a world of fresh opportunities](https://www.livemint.com/opinion/online-views/streaming-platforms-have-tough-choices-in-a-world-of-fresh-opportunities-11703426469177.html)
+
+Article found but Couldn't summarize 
+The OTT game is difficult to play. Innovative strategies must be deployed when revenues are hard to get and cost cuts can hit quality.
+
+Sun, 24 Dec 2023 22:41:34 +0530
+### [Hatemongers get a free rein despite existence of laws](https://www.livemint.com/opinion/columns/hatemongers-get-a-free-rein-despite-existence-of-laws-11703437154368.html)
+
+Article found but Couldn't summarize 
+Laws designed to prevent the proliferation of hate have proven to be ineffective
+
 Sun, 24 Dec 2023 22:32:10 +0530
 ### [Global equations have a symbiotic role in building a developed India by 2047](https://www.livemint.com/opinion/online-views/global-equations-have-a-symbiotic-role-in-building-a-developed-india-by-2047-11703421382932.html)
 
