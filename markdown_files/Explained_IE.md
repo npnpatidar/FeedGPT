@@ -1,3 +1,13 @@
+Sun, 24 Dec 2023 14:13:10 +0000
+### [Expert Explains | Beyond Santas and holly: how Christmas is celebrated in homes across India](https://indianexpress.com/article/explained/explained-culture/how-christmas-is-celebrated-in-homes-across-india-9081344/)
+
+In India, Christmas celebrations reflect the regional diversity of the country. While urban areas may have decorations like tinsel and fake trees, Indian Christians often adorn their Christmas trees with indigenous decorations such as papier maché stars, bells, and painted wooden ornaments. Traditional decorations like kolams, rangolis, and akashkandeels are also popular. Christmas songs are sung in regional languages, and nativity plays and choral concerts showcase the cultural diversity of India. Feasting is a significant part of Christmas, with regional specialties like roast duck, stew, appams, beef fry, pork vindaloo, sorpotel, biryanis, curries, and sweets being enjoyed. Each region has its own variations of Christmas cakes and sweets, incorporating local ingredients and flavors. The celebrations in India have their own unique traditions and are not solely influenced by Western customs.
+
+Sun, 24 Dec 2023 13:45:21 +0000
+### [Is the climate fight lost? 5 reasons to be hopeful it is not](https://indianexpress.com/article/explained/explained-climate/climate-fight-5-reasons-to-be-hopeful-9081313/)
+
+Hmm, it's great to see that there are reasons to remain hopeful despite the challenges we face in addressing climate change. The study highlights several positive trends, such as the mainstream awareness of climate change and increased discussions among the population. It's encouraging to see young people leading global calls for urgent action and the rise of climate litigation against states and companies. Additionally, the goal of achieving a net-zero economy is gaining traction, with many countries, regions, and cities setting targets for full decarbonization. Businesses and investors are also responding to societal pressure and recognizing the risks posed by climate change. Renewable energy costs have significantly decreased, making them the cheapest source of bulk electricity generation in most parts of the world. The electrification of transport and heating is also playing a crucial role in decarbonization efforts. While there is still much work to be done, these trends provide hope for addressing the climate crisis.
+
 Sun, 24 Dec 2023 12:45:28 +0000
 ### [Wrestlers return Padma honours: Looking back at ‘award wapsi’ during Indira Gandhi regime](https://indianexpress.com/article/explained/explained-politics/padma-award-wapsi-during-indira-gandhi-regime-9081254/)
 
