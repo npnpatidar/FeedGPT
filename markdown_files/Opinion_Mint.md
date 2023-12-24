@@ -1,3 +1,20 @@
+Sun, 24 Dec 2023 22:32:10 +0530
+### [Global equations have a symbiotic role in building a developed India by 2047](https://www.livemint.com/opinion/online-views/global-equations-have-a-symbiotic-role-in-building-a-developed-india-by-2047-11703421382932.html)
+
+Article found but Couldn't summarize 
+The ‘Amrit Kaal’ journey that India has embarked upon will both shape and be shaped by the country’s global engagement. Academics and analysts must explore how India can prepare for both positive and negative shocks.
+
+Sun, 24 Dec 2023 22:28:57 +0530
+### [Work-from-home has reduced people’s tendency to socialize](https://www.livemint.com/opinion/online-views/workfromhome-has-reduced-people-s-tendency-to-socialize-11703421444746.html)
+
+Hmm, it seems like you're looking for a summary of the article you provided. As GPT-3.5, I can help with that. The article discusses the author's initial belief that remote work would allow people to have more time for socializing outside of work. However, the evidence shows that most remote workers actually see less of their friends than before the pandemic. Studies have found that remote workers tend to allocate their saved commute time to starting work earlier and finishing later, as well as spending more time on activities like sleeping, cooking, chores, and exercise. Interestingly, only workers below 30 years old use their extra leisure time to hang out with friends, while older workers spend more time relaxing at home. The article highlights the importance of social connections and friendships for overall life satisfaction and emphasizes that work can be a source of friendships for many people. Remote workers may miss out on the social interactions and conversations that happen in an office setting. While returning to the office may not necessarily solve this issue, remote workers over 30 are encouraged to be more intentional about spending time with friends.
+
+Sun, 24 Dec 2023 22:25:53 +0530
+### [The performance of the informal sector demands indepth analysis](https://www.livemint.com/opinion/online-views/the-performance-of-the-informal-sector-demands-indepth-analysis-11703421561017.html)
+
+Article found but Couldn't summarize 
+Reliably measuring the informal sector’s contribution to the economy is a highly complicated task and we can’t draw inferences from PLFS data. The numbers we have do not support the argument of this sector being underestimated in Indian GDP.
+
 Sun, 24 Dec 2023 06:59:24 +0530
 ### [The worst investment ideas of 2023](https://www.livemint.com/opinion/columns/the-worst-investment-ideas-of-2023-11703354301815.html)
 
