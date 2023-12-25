@@ -1,3 +1,15 @@
+2023-12-25T12:44:46+05:30
+### [Has BJP MP, Ex-WFI Head Brij Bhushan Sharan Singh Been Brought Down a Peg or Two?](https://thewire.in/politics/has-bjp-mp-ex-wfi-head-brij-bhushan-sharan-singh-been-brought-down-a-peg-or-two)
+
+No Article text 
+The short answer: No. The question is, has he in fact been upgraded?
+
+2023-12-25T12:03:45+05:30
+### ['We Have No Joy': As Devastation in Gaza Continues, No Christmas Cheer in Bethlehem This Year](https://thewire.in/world/we-have-no-joy-as-devastation-in-gaza-continues-no-christmas-cheer-in-bethlehem-this-year)
+
+No Article text 
+The city's Manger Square – usually full of visitors and tourists around Christmas time – is desolate this year. No festive lights have been put up.
+
 2023-12-25T11:50:26+05:30
 ### [J&K: Army Orders Court of Inquiry Into Civilians' Custodial Deaths, 3 Senior Officers Shifted](https://thewire.in/security/jk-army-orders-court-of-inquiry-into-civilians-custodial-deaths-3-senior-officers-shifted)
 

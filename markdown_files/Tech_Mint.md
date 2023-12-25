@@ -1,3 +1,9 @@
+Mon, 25 Dec 2023 11:59:26 +0530
+### [Apple engages in talks with leading News outlets for AI advancements: Report](https://www.livemint.com/technology/apple-engages-in-talks-with-leading-news-outlets-for-ai-advancements-report-11703485465814.html)
+
+Article found but Couldn't summarize 
+Apple has been in talks with news and publishing entities to secure licenses for their content for its AI systems, offering multiyear agreements valued at a minimum of $50 million.
+
 Mon, 25 Dec 2023 11:30:41 +0530
 ### [Instagram, Snapchat, X or Threads; which was the most deleted app of 2023?](https://www.livemint.com/technology/tech-news/instagram-snapchat-facebook-x-or-threads-which-was-the-most-deleted-app-of-2023-11703480475206.html)
 
