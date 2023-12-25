@@ -1,3 +1,21 @@
+Mon, 25 Dec 2023 08:00:12 +0530
+### [Why upper-caste Hindus of Kerala became Christians](https://www.livemint.com/opinion/online-views/why-upper-caste-hindus-of-kerala-became-christians-11703426575062.html)
+
+Article found but Couldn't summarize 
+Why did ancient Brahmins give up exquisite privileges and adopt a faith that offered few advantages? Some answers and a theory.
+
+Mon, 25 Dec 2023 08:00:12 +0530
+### [Drone attacks: High alert on the high seas](https://www.livemint.com/opinion/quick-edit/drone-attacks-high-alert-on-the-high-seas-11703428297444.html)
+
+Article found but Couldn't summarize 
+If the recent attacks are loose-cannon hits, we must shield our interests. If there’s something more sinister afoot that has put India in the cross-hairs of adversaries acting in concert, then we must stay on higher alert.
+
+Mon, 25 Dec 2023 08:00:12 +0530
+### [Ratings: India has a valid reason to be aggrieved](https://www.livemint.com/opinion/online-views/ratings-india-has-a-valid-reason-to-be-aggrieved-11703426192784.html)
+
+Article found but Couldn't summarize 
+The CEA’s office has highlighted opaque and subjective inputs for sovereign ratings and the raw deal that India gets. Credit rating agencies, please note: Efficient allocation of global capital calls for a level credit field.
+
 Sun, 24 Dec 2023 22:57:50 +0530
 ### [Streaming platforms have tough choices in a world of fresh opportunities](https://www.livemint.com/opinion/online-views/streaming-platforms-have-tough-choices-in-a-world-of-fresh-opportunities-11703426469177.html)
 

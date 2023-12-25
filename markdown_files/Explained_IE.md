@@ -1,3 +1,13 @@
+Mon, 25 Dec 2023 02:09:47 +0000
+### [In Kerala, BJP rings in Christmas with personal visits to Christian families](https://indianexpress.com/article/explained/explained-politics/kerala-christmas-bjp-christian-families-9081628/)
+
+Article found but Couldn't summarize
+
+Mon, 25 Dec 2023 01:49:11 +0000
+### [A tale of two villages, one in UP, one in Tamil Nadu: Tracking change, over decades](https://indianexpress.com/article/explained/explained-economics/a-tale-of-two-villages-one-in-up-one-in-tamil-nadu-tracking-change-over-decades-9081499/)
+
+Article found but Couldn't summarize
+
 Sun, 24 Dec 2023 14:13:10 +0000
 ### [Expert Explains | Beyond Santas and holly: how Christmas is celebrated in homes across India](https://indianexpress.com/article/explained/explained-culture/how-christmas-is-celebrated-in-homes-across-india-9081344/)
 
