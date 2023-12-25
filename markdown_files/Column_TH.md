@@ -8,6 +8,11 @@ Mon, 25 Dec 2023 00:40:00 +0530
 
 Article found but Couldn't summarize
 
+Sun, 24 Dec 2023 20:31:03 +0530
+### [Political Line | Recasting the caste debate](https://www.thehindu.com/opinion/columns/recasting-the-caste-debate/article67672185.ece)
+
+Article found but Couldn't summarize
+
 Wed, 20 Dec 2023 00:30:00 +0530
 ### [Sportsmen have a platform — some use it well, others waste it](https://www.thehindu.com/opinion/columns/sportsmen-have-a-platform-some-use-it-well-others-waste-it/article67654738.ece)
 

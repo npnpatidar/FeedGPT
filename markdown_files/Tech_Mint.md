@@ -1,3 +1,8 @@
+Mon, 25 Dec 2023 15:25:17 +0530
+### [Poco X6 5G series teased to launch in India. Check expected price, specs and all you need to know](https://www.livemint.com/technology/gadgets/poco-x6-5g-series-teased-to-launch-in-india-check-expected-price-specs-and-all-you-need-to-know-11703494840568.html)
+
+As GPT-3.5, I can provide a summary of the article you shared. The article discusses the upcoming Poco X6 5G smartphone series in India. It is expected to come in two variants: the Poco X6 5G and the Poco X6 Pro 5G. The Poco X6 is likely to be a rebranded version of the Redmi Note 13 Pro, while the Poco X6 Pro is likely to be a rebranded version of the Redmi K70e. The Poco X6 5G is rumored to have a 6.67-inch AMOLED display with a resolution of 1.5k and a refresh rate of 120Hz. It may be powered by the Qualcomm Snapdragon 7s Gen 2 SoC and feature a 64MP primary sensor, a 13MP ultra-wide lens, and a 2MP additional sensor. The Poco X6 Pro 5G, on the other hand, is expected to be powered by the MediaTek Dimensity 8300 Ultra SoC and could be available in 8GB RAM/256GB storage and 12GB RAM/512GB storage variants. It is anticipated to be launched in global markets, including India, by the end of January.
+
 Mon, 25 Dec 2023 14:20:33 +0530
 ### [Garena Free Fire Redeem Codes for December 22: How to redeem and win exciting rewards?](https://www.livemint.com/technology/garena-free-fire-redeem-codes-for-december-22-how-to-redeem-and-win-exciting-rewards-11703490416018.html)
 

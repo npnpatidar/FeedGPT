@@ -1,3 +1,9 @@
+2023-12-25T14:59:47+05:30
+### [Manipur Government Buses Travelling From Imphal Turned Back By Kuki Groups: Reports](https://thewire.in/communalism/manipur-state-transport-buses-turned-back-along-the-way-say-reports)
+
+No Article text 
+The reported incidents come days after the N. Biren Singh government issued a statement saying that the key Imphal-Churachandpur and Imphal-Mao highways were operational.
+
 2023-12-25T14:00:25+05:30
 ### [Christmas in Tihar](https://thewire.in/society/christmas-in-tihar)
 

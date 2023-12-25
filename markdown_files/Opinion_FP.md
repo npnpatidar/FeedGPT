@@ -1,3 +1,9 @@
+Mon, 25 Dec 2023 15:34:48 +0530
+### [Book review | Camouflaged: Forgotten stories from battlefields](https://www.firstpost.com/opinion/book-review-camouflaged-forgotten-stories-from-battlefields-13543332.html)
+
+Article found but Couldn't summarize 
+Book review | Camouflaged: Forgotten stories from battlefields
+
 Mon, 25 Dec 2023 14:12:46 +0530
 ### [Bhashini: How it encourages national integration in an AI-enabled way](https://www.firstpost.com/opinion/bhashini-how-it-encourages-national-integration-in-an-ai-enabled-way-13543032.html)
 
