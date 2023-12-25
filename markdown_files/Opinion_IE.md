@@ -1,3 +1,8 @@
+Sun, 24 Dec 2023 23:30:18 +0000
+### [December 25, 1983, Forty Years Ago: Cong gets nine seats](https://indianexpress.com/article/opinion/40-years-ago/december-25-1983-forty-years-ago-cong-gets-nine-seats-9081470/)
+
+Article found but Couldn't summarize
+
 Sun, 24 Dec 2023 15:47:40 +0000
 ### [On Atal Bihari Vajpayee’s birth anniversary: Let’s remember his commitment to unity and ideology](https://indianexpress.com/article/opinion/atal-bihari-vajpayees-birth-anniversary-bjp-9081436/)
 

@@ -1,3 +1,9 @@
+Sun, 24 Dec 2023 17:41:02 +0530
+### [FirstUp: Dhankhar to meet Kharge and much more… The big news today](https://www.firstpost.com/explainers/firstup-dhankhar-to-meet-kharge-and-much-more-the-big-news-today-13541462.html)
+
+Article found but Couldn't summarize 
+FirstUp: Dhankhar to meet Kharge and much more… The big news today
+
 Sun, 24 Dec 2023 14:04:53 +0530
 ### [In Graphics | The best Christmas films of all time](https://www.firstpost.com/explainers/in-graphics-the-best-christmas-films-of-all-time-13536172.html)
 
