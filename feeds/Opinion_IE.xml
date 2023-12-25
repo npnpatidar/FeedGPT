@@ -5,6 +5,15 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Opinion_IE.xml</link>
 		<description>Opinion IE</description>
 		<item>
+			<title>What Tavleen Singh doesn’t understand about caste and reservation</title>
+			<link>https://indianexpress.com/article/opinion/columns/tavleen-singh-doesnt-understand-caste-reservation-9082314/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Mon, 25 Dec 2023 12:51:46 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2023/12/reservation.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2023/12/reservation.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Drone strike on Indian vessel: A new challenge for the Navy</title>
 			<link>https://indianexpress.com/article/opinion/columns/drone-strike-indian-navy-vessel-challenge-9082128/</link>
 			<description>Article found but Couldn't summarize</description>

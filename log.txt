@@ -3295,3 +3295,11 @@ Started at 2023-12-25 12:33:32
 Finished at 2023-12-25 12:45:09
 Total time taken: 697.2354719638824 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2023-12-25 13:20:27
+1 Feed entries have been written to feeds/Explained_IE.xml
+1 Feed entries have been written to feeds/Opinion_IE.xml
+14 Feed entries have been written to feeds/ThePrint.xml
+16 new entries have been added
+Finished at 2023-12-25 13:27:15
+Total time taken: 408.10780358314514 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

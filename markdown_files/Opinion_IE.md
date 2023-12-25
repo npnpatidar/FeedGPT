@@ -1,3 +1,8 @@
+Mon, 25 Dec 2023 12:51:46 +0000
+### [What Tavleen Singh doesn’t understand about caste and reservation](https://indianexpress.com/article/opinion/columns/tavleen-singh-doesnt-understand-caste-reservation-9082314/)
+
+Article found but Couldn't summarize
+
 Mon, 25 Dec 2023 10:32:51 +0000
 ### [Drone strike on Indian vessel: A new challenge for the Navy](https://indianexpress.com/article/opinion/columns/drone-strike-indian-navy-vessel-challenge-9082128/)
 

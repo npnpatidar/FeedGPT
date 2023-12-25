@@ -1,3 +1,8 @@
+Mon, 25 Dec 2023 12:37:19 +0000
+### [How a cake without plums became ‘plum cake’ and India’s ultimate Christmas treat](https://indianexpress.com/article/explained/explained-culture/plum-cake-history-india-9082307/)
+
+Article found but Couldn't summarize
+
 Mon, 25 Dec 2023 11:58:57 +0000
 ### [The legacy of Atal Bihari Vajpayee: 5 defining aspects](https://indianexpress.com/article/explained/explained-politics/atal-bihari-vajpayee-legacy-9082273/)
 
