@@ -1,3 +1,15 @@
+Mon, 25 Dec 2023 13:40:56 +0530
+### [Google Photos takes holiday memories to the next level with exclusive video enhancements: Here's how](https://www.livemint.com/technology/tech-news/google-photos-takes-holiday-memories-to-the-next-level-with-exclusive-video-enhancements-heres-how-11703491214406.html)
+
+Article found but Couldn't summarize 
+To apply effects to videos in Google Photos, simply select the video, choose an effect from the 12 available options, and save the enhanced video.
+
+Mon, 25 Dec 2023 12:53:36 +0530
+### [Best year end deals: 10 top 10,000mAh power banks with up to 69% off](https://www.livemint.com/technology/gadgets/best-year-end-deals-10-top-10-000mah-power-banks-with-up-to-69-off-11703247188275.html)
+
+Article found but Couldn't summarize 
+Best year end deals: Check out the top 10 options for 10,000mAh power banks. We have curated a list, keeping in mind charging efficiency and size of the product. We bring to you portable and value for money charging options for your devices.
+
 Mon, 25 Dec 2023 11:59:26 +0530
 ### [Apple engages in talks with leading News outlets for AI advancements: Report](https://www.livemint.com/technology/apple-engages-in-talks-with-leading-news-outlets-for-ai-advancements-report-11703485465814.html)
 

@@ -1,3 +1,9 @@
+2023-12-25T13:32:25+05:30
+### [Lull in Highway Construction Expected in FY25, Flagship Highway Projected Faces 6 Year Delay](https://thewire.in/government/lull-in-highway-construction-expected-in-fy25-flagship-highway-projected-faces-6-year-delay)
+
+No Article text 
+The shortfall may worsen with the model code of conduct for Lok Sabha elections in effect during January-March 2024.
+
 2023-12-25T12:44:46+05:30
 ### [Has BJP MP, Ex-WFI Head Brij Bhushan Sharan Singh Been Brought Down a Peg or Two?](https://thewire.in/politics/has-bjp-mp-ex-wfi-head-brij-bhushan-sharan-singh-been-brought-down-a-peg-or-two)
 
