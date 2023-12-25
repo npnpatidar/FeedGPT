@@ -1,3 +1,9 @@
+Mon, 25 Dec 2023 23:38:49 +0530
+### [Human trafficking or a plain case of migration?](https://www.livemint.com/opinion/online-views/human-trafficking-or-a-plain-case-of-migration-11703527506827.html)
+
+Article found but Couldn't summarize 
+The French detention of a plane on suspicion of its passengers being victims of exploitation raises the vital question of their intent: Were they just trying to get around labour barriers?
+
 Mon, 25 Dec 2023 22:22:45 +0530
 ### [Self-driving cars still have a long road ahead of them](https://www.livemint.com/opinion/online-views/selfdriving-cars-still-have-a-long-road-ahead-of-them-11703522877831.html)
 

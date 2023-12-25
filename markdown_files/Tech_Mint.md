@@ -1,3 +1,9 @@
+Mon, 25 Dec 2023 22:56:34 +0530
+### [China softening stance on gaming after $80 billion rout, approves 105 domestic games](https://www.livemint.com/technology/tech-news/china-softening-stance-on-gaming-after-80-billion-rout-approves-105-domestic-games-11703524763931.html)
+
+Article found but Couldn't summarize 
+The titles included those operated by Tencent Holdings and NetEase, China’s two leading game publishers that have been pummeled by Beijing’s new rules
+
 Mon, 25 Dec 2023 19:07:55 +0530
 ### [Apple's 2024 tech vision: From New iPads to Apple GPT - everything expected](https://www.livemint.com/technology/tech-news/apples-2024-tech-vision-from-new-ipads-to-apple-gpt-everything-expected-11703511178502.html)
 

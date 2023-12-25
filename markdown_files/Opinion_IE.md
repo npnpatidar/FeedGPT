@@ -38,6 +38,17 @@ Mon, 25 Dec 2023 01:45:57 +0000
 
 Article found but Couldn't summarize
 
+Mon, 25 Dec 2023 00:39:28 +0000
+### [December 26, Forty Years Ago: UP, Bihar by-elections](https://indianexpress.com/article/opinion/40-years-ago/december-26-forty-years-ago-up-bihar-by-elections-9082622/)
+
+The Janata Party emerged victorious in the Bulandshahr Lok Sabha seat in Uttar Pradesh, while the Congress (I) and CPI candidates were locked in a close contest in the important Bettiah Lok Sabha constituency in Bihar. Former Uttar Pradesh chief minister Banarasi Das of the Janata Party won the Bulandshahr seat by defeating his closest rival, Imtiaz Mohamed Khan of Congress (I), with a margin of 14,000 votes.
+
+In New Delhi, despite the cold weather, there was a high voter turnout for the gram panchayat elections, with an estimated 70 percent of the three lakh-strong rural electorate casting their votes. Village schools saw long queues, and in the urbanized Chattarpur village, the atmosphere resembled a general election with posters, banners, and buntings decorating the area.
+
+Sixteen individuals in Iran were executed at dawn for their involvement in drug trafficking. They had been convicted of supplying and distributing narcotics, particularly heroin, as well as organizing an international drug smuggling gang. The executions took place in Shurabad following their guilty verdict by the anti-narcotics department of the central revolutionary court.
+
+During a Christmas Day message, Pope John Paul II denounced excessive arms spending and called for dialogue to seek fair and honorable solutions to tensions. He highlighted the detrimental impact of allocating vast sums of money to weapons, which deprives starving people of food and further intensifies threats faced by humanity.
+
 Sun, 24 Dec 2023 23:30:18 +0000
 ### [December 25, 1983, Forty Years Ago: Cong gets nine seats](https://indianexpress.com/article/opinion/40-years-ago/december-25-1983-forty-years-ago-cong-gets-nine-seats-9081470/)
 
