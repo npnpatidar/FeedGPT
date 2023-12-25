@@ -1,3 +1,9 @@
+Mon, 25 Dec 2023 10:35:41 +0530
+### [Rewind 2023: The A to Z of the year](https://www.firstpost.com/explainers/rewind-2023-a-for-ai-z-for-zionism-what-defined-the-year-13514662.html)
+
+Article found but Couldn't summarize 
+Rewind 2023: The A to Z of the year
+
 Sun, 24 Dec 2023 17:41:02 +0530
 ### [FirstUp: Dhankhar to meet Kharge and much more… The big news today](https://www.firstpost.com/explainers/firstup-dhankhar-to-meet-kharge-and-much-more-the-big-news-today-13541462.html)
 

@@ -1,3 +1,9 @@
+Mon, 25 Dec 2023 10:22:25 +0530
+### [Fortnite Winterfest to CODMAS 2023; checkout the best winter gaming events of 2023](https://www.livemint.com/technology/tech-news/fortnite-winterfest-to-codmas-2023-checkout-the-best-winter-gaming-events-of-2023-11703471843368.html)
+
+Article found but Couldn't summarize 
+Diablo 4 Midwinter Blight event offers new rewards and cosmetics for players above Seasonal Realm, available until January 2, 2023. Other events like COD's CODMAS 2023, andFortnite's Winterfest 2023 also allow users a chance to get some exciting rewards.
+
 Mon, 25 Dec 2023 09:18:35 +0530
 ### [Where is Santa Claus? Google and NORAD will help you find the answer](https://www.livemint.com/technology/tech-news/where-is-santa-claus-google-and-norad-will-help-you-find-the-answer-santa-tracker-merry-christmas-2023-11703473369376.html)
 

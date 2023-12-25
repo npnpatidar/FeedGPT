@@ -1,3 +1,21 @@
+2023-12-25T10:37:47+05:30
+### [Winter Session Snapshot: Record Number of Lok Sabha MPs Suspended; No Bills Sent to Committees](https://thewire.in/government/winter-session-snapshot-record-number-of-lok-sabha-mps-suspended-no-bills-sent-to-committees)
+
+No Article text 
+Lok Sabha functioned for 74% of its scheduled time, and Rajya Sabha for 81%.
+
+2023-12-25T10:00:32+05:30
+### [A Mood For Murder | Episode 1: Tea](https://thewire.in/fiction/a-mood-for-murder-episode-1-tea)
+
+No Article text 
+The Wire WhoDunIt: This is the first part of a serialised detective story by Shahrukh Alam. It is a work of fiction.
+
+2023-12-25T09:54:30+05:30
+### [Pakistan Author Mohammed Hanif Returns 'Sitara-e-Imtiaz' After Baloch March Crackdown](https://thewire.in/south-asia/mohammed-hanif-balochistan-sitara-e-imtiaz-protest)
+
+No Article text 
+He wrote that the award was given to him "by a state that continues to abduct and torture Baloch citizens."
+
 2023-12-25T08:58:33+05:30
 ### [Jaishankar to Visit Russia to Discuss Economic Ties, Bilateral and International Issues](https://thewire.in/diplomacy/jaishankar-russia-trip-sergey-lavrov-denis-manturov)
 
