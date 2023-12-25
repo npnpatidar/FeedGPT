@@ -1,3 +1,9 @@
+Mon, 25 Dec 2023 15:51:05 +0530
+### [Israel-Hamas war: Is Benjamin Netanyahu’s frustration in Gaza becoming too costly for all stakeholders?](https://www.firstpost.com/opinion/israel-hamas-war-is-benjamin-netanyahus-frustration-in-gaza-becoming-too-costly-for-all-stakeholders-13543162.html)
+
+Article found but Couldn't summarize 
+Israel-Hamas war: Is Benjamin Netanyahu’s frustration in Gaza becoming too costly for all stakeholders?
+
 Mon, 25 Dec 2023 15:34:48 +0530
 ### [Book review | Camouflaged: Forgotten stories from battlefields](https://www.firstpost.com/opinion/book-review-camouflaged-forgotten-stories-from-battlefields-13543332.html)
 

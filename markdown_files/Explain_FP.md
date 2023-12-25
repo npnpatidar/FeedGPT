@@ -1,3 +1,9 @@
+Mon, 25 Dec 2023 15:59:39 +0530
+### [Rewind 2023: The big controversies of the year](https://www.firstpost.com/explainers/rewind-2023-the-big-controversies-and-scandals-of-the-year-13506982.html)
+
+Article found but Couldn't summarize 
+Rewind 2023: The big controversies of the year
+
 Mon, 25 Dec 2023 10:35:41 +0530
 ### [Rewind 2023: The A to Z of the year](https://www.firstpost.com/explainers/rewind-2023-a-for-ai-z-for-zionism-what-defined-the-year-13514662.html)
 

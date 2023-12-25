@@ -1,3 +1,8 @@
+Mon, 25 Dec 2023 10:32:51 +0000
+### [Drone strike on Indian vessel: A new challenge for the Navy](https://indianexpress.com/article/opinion/columns/drone-strike-indian-navy-vessel-challenge-9082128/)
+
+Article found but Couldn't summarize
+
 Mon, 25 Dec 2023 09:05:09 +0000
 ### [Why terrorist activity has shifted from Kashmir to Poonch-Rajouri](https://indianexpress.com/article/opinion/columns/why-terrorist-activity-has-shifted-from-kashmir-to-poonch-rajouri-9082044/)
 

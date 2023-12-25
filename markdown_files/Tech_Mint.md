@@ -1,3 +1,9 @@
+Mon, 25 Dec 2023 16:42:20 +0530
+### [Gmail is making it easier to unsubscribe from bulk messages. Here's how it works](https://www.livemint.com/technology/apps/gmail-is-making-it-easier-to-unsubscribe-to-bulk-messages-heres-how-it-works-11703498563214.html)
+
+Article found but Couldn't summarize 
+Gmail is reportedly making it easier to unsubscribe from bulk emails with a more prominent button on the iOS app. The new unsubscribe button on the Gmail iOS app is located below the subject line and above the email content..
+
 Mon, 25 Dec 2023 15:25:17 +0530
 ### [Poco X6 5G series teased to launch in India. Check expected price, specs and all you need to know](https://www.livemint.com/technology/gadgets/poco-x6-5g-series-teased-to-launch-in-india-check-expected-price-specs-and-all-you-need-to-know-11703494840568.html)
 

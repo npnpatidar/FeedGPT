@@ -1,3 +1,9 @@
+2023-12-25T16:28:22+05:30
+### [How the Israel-Palestine War Is Shifting the Political Dynamics in Britain](https://thewire.in/world/how-the-israel-palestine-war-is-shifting-the-political-dynamics-in-britain)
+
+No Article text 
+In line with the US, the entire British ‘political establishment’ has openly sided with Israel. Conversely, over the last two months, there has been a surge in protests and demonstrations led by diverse groups, with the stance on the conflict causing discontent within political parties.
+
 2023-12-25T14:59:47+05:30
 ### [Manipur Government Buses Travelling From Imphal Turned Back By Kuki Groups: Reports](https://thewire.in/communalism/manipur-state-transport-buses-turned-back-along-the-way-say-reports)
 
