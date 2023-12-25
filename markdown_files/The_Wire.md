@@ -1,3 +1,9 @@
+2023-12-25T08:58:33+05:30
+### [Jaishankar to Visit Russia to Discuss Economic Ties, Bilateral and International Issues](https://thewire.in/diplomacy/jaishankar-russia-trip-sergey-lavrov-denis-manturov)
+
+No Article text 
+The external affairs minister will meet the Russian deputy prime minister and the foreign minister.
+
 2023-12-24T23:32:13+05:30
 ### [Poonch Civilians Killed Are Among the Men Seen in Video Being Tortured By Soldiers, Sarpanch Confirms](https://thewire.in/rights/poonch-civilians-killed-are-among-the-men-seen-in-video-being-tortured-by-soldiers-sarpanch-confirms)
 

@@ -1,3 +1,9 @@
+Mon, 25 Dec 2023 09:18:35 +0530
+### [Where is Santa Claus? Google and NORAD will help you find the answer](https://www.livemint.com/technology/tech-news/where-is-santa-claus-google-and-norad-will-help-you-find-the-answer-santa-tracker-merry-christmas-2023-11703473369376.html)
+
+Article found but Couldn't summarize 
+Christmas enthusiasts can track Santa's location and upcoming trips through the NORAD Santa Tracker app or Google's Santa Tracker website.
+
 Mon, 25 Dec 2023 07:38:47 +0530
 ### [Christmas 2023: Know how to send Christmas stickers on WhatsApp, Instagram](https://www.livemint.com/technology/tech-news/christmas-2023-know-to-send-christmas-stickers-on-whatsapp-instagram-wishes-love-festive-season-christmas-moon-11703467869401.html)
 
