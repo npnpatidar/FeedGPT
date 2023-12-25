@@ -1,3 +1,15 @@
+Mon, 25 Dec 2023 22:22:45 +0530
+### [Self-driving cars still have a long road ahead of them](https://www.livemint.com/opinion/online-views/selfdriving-cars-still-have-a-long-road-ahead-of-them-11703522877831.html)
+
+Article found but Couldn't summarize 
+AI hype must not mislead us: It will be a long while before they are fed sufficient data for road safety
+
+Mon, 25 Dec 2023 22:17:18 +0530
+### [The India-China dynamic seems set to lead an age of meta-reason](https://www.livemint.com/opinion/online-views/the-india-china-dynamic-seems-set-to-lead-an-age-of-metareason-11703520653218.html)
+
+Article found but Couldn't summarize 
+A world led by Western values is yielding to one where the mutual learnings of Asian powerhouses will shape key outcomes
+
 Mon, 25 Dec 2023 16:59:30 +0530
 ### [The case for granting autonomy to state-run listed entities. Starting with LIC](https://www.livemint.com/opinion/online-views/the-case-for-granting-autonomy-to-state-run-listed-entities-starting-with-lic-11703503547205.html)
 
