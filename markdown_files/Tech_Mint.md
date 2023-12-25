@@ -1,3 +1,9 @@
+Mon, 25 Dec 2023 19:07:55 +0530
+### [Apple's 2024 tech vision: From New iPads to Apple GPT - everything expected](https://www.livemint.com/technology/tech-news/apples-2024-tech-vision-from-new-ipads-to-apple-gpt-everything-expected-11703511178502.html)
+
+Article found but Couldn't summarize 
+Apple's upcoming releases include the Vision Pro mixed-reality headset, Apple GPT AI model, Apple Watch Series 10 with MicroLED display and blood pressure monitoring, new iPads with M3 chip, and the AirPods 4 with ANC feature.
+
 Mon, 25 Dec 2023 17:52:30 +0530
 ### [Jio launches Happy New Year 2024 plan at  ₹2999: Details on validity, offers and all you need to know](https://www.livemint.com/technology/tech-news/jio-launches-happy-new-year-2024-plan-rs-2-999-price-point-additional-validity-and-all-you-need-to-know-11703503337525.html)
 

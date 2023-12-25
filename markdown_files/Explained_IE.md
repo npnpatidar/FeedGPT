@@ -1,3 +1,8 @@
+Mon, 25 Dec 2023 14:11:11 +0000
+### [Refusing India PM’s post to planning Kashmir attack: rumours and facts about Jinnah, on his birth anniversary](https://indianexpress.com/article/explained/explained-history/jinnah-rumours-and-facts-on-his-birth-anniversary-9082430/)
+
+Article found but Couldn't summarize
+
 Mon, 25 Dec 2023 12:37:19 +0000
 ### [How a cake without plums became ‘plum cake’ and India’s ultimate Christmas treat](https://indianexpress.com/article/explained/explained-culture/plum-cake-history-india-9082307/)
 
