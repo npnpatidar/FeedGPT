@@ -1,3 +1,8 @@
+Tue, 26 Dec 2023 00:34:00 +0530
+### [Corrections and Clarifications — December 26, 2023](https://www.thehindu.com/opinion/columns/corrections-and-clarifications-december-26-2023/article67674320.ece)
+
+Article found but Couldn't summarize
+
 Mon, 25 Dec 2023 00:48:00 +0530
 ### [Empire cruise. — From The Hindu’s Archives, 100 years ago, December 25, 1923](https://www.thehindu.com/opinion/op-ed/empire-cruise-from-the-hindus-archives-100-years-ago-december-25-1923/article67671437.ece)
 

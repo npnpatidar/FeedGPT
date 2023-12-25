@@ -1,3 +1,15 @@
+Tue, 26 Dec 2023 00:18:12 +0530
+### [The telecom bill is like a curate’s egg: It is good in parts](https://www.livemint.com/opinion/online-views/the-telecom-bill-is-like-a-curate-s-egg-it-is-good-in-parts-11703529684485.html)
+
+Article found but Couldn't summarize 
+It will enhance services in the country but also has significant drawbacks that call for closer scrutiny
+
+Tue, 26 Dec 2023 00:03:38 +0530
+### [Trauma could forge the mettle that a leadership role demands](https://www.livemint.com/opinion/online-views/trauma-could-forge-the-mettle-that-a-leadership-role-demands-11703528926162.html)
+
+Article found but Couldn't summarize 
+Adverse experiences bring out qualities that leaders must have and training modules can do it too.
+
 Mon, 25 Dec 2023 23:38:49 +0530
 ### [Human trafficking or a plain case of migration?](https://www.livemint.com/opinion/online-views/human-trafficking-or-a-plain-case-of-migration-11703527506827.html)
 

@@ -1,3 +1,15 @@
+Tue, 26 Dec 2023 00:30:00 +0530
+### [Debt debate: On the IMF’s latest India consultation details, Finance Ministry’s response](https://www.thehindu.com/opinion/editorial/debt-debate-on-the-imfs-latest-india-consultation-details-finance-ministrys-response/article67673966.ece)
+
+Article found but Couldn't summarize 
+The IMF’s sovereign debt risk assessment for India has spurred a sharp reaction
+
+Tue, 26 Dec 2023 00:15:00 +0530
+### [Carry on, doctor: On the amended Bharatiya Nyaya (Second) Sanhita Bill](https://www.thehindu.com/opinion/editorial/carry-on-doctor-the-hindu-editorial-on-the-amended-bharatiya-nyaya-second-sanhita-bill/article67673977.ece)
+
+Article found but Couldn't summarize 
+Doctors must not fear prosecution unless gross negligence is proven
+
 Mon, 25 Dec 2023 00:20:00 +0530
 ### [Another opportunity: On the Wrestling Federation of India and reforms](https://www.thehindu.com/opinion/editorial/another-opportunity-the-wrestling-federation-of-india-and-reforms/article67671646.ece)
 
