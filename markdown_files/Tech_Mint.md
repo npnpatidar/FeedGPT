@@ -1,3 +1,14 @@
+Mon, 25 Dec 2023 17:52:30 +0530
+### [Jio launches Happy New Year 2024 plan at  ₹2999: Details on validity, offers and all you need to know](https://www.livemint.com/technology/tech-news/jio-launches-happy-new-year-2024-plan-rs-2-999-price-point-additional-validity-and-all-you-need-to-know-11703503337525.html)
+
+Article found but Couldn't summarize 
+Jio's New Year 2024 plan offers 912.5 GB data at 2.5 GB/day, unlimited voice calls, and 100 SMS/day. Complimentary subscriptions to Jio apps included.
+
+Mon, 25 Dec 2023 17:41:59 +0530
+### [China’s quest to become a robot superpower](https://www.livemint.com/technology/chinas-quest-to-become-a-robot-superpower-11703505928092.html)
+
+China's first attempt at building a humanoid robot in 2000 was not successful. The robot, called Xianxingzhe or Forerunner, was mocked for its appearance and was seen as a source of laughter rather than a serious technological advancement. However, China has not given up on robotics and has published a plan to mass-produce humanoids by 2025. The country has shown a strong interest in robots, with half of all industrial robots installed worldwide last year being in China. China aims to become a robot superpower due to its pride and the pressing demographic challenges it faces. The government sees robots as a way to boost productivity and address labor shortages in various industries. The pandemic has further reinforced the importance of robots, as they can continue working without health concerns. China is also exploring the use of robots in agriculture and elderly care. The government hopes to make the robotics industry more self-sufficient and reduce reliance on foreign companies. While self-sufficiency is still a work in progress for most Chinese robotics firms, the government's push for the development of humanoids aims to create a domestic supply chain. Overall, the Chinese government's plans for robotics have received little pushback, as most Chinese people believe that robots will create more jobs than they destroy.
+
 Mon, 25 Dec 2023 16:42:20 +0530
 ### [Gmail is making it easier to unsubscribe from bulk messages. Here's how it works](https://www.livemint.com/technology/apps/gmail-is-making-it-easier-to-unsubscribe-to-bulk-messages-heres-how-it-works-11703498563214.html)
 

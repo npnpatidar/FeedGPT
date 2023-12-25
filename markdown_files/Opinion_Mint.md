@@ -1,3 +1,9 @@
+Mon, 25 Dec 2023 16:59:30 +0530
+### [The case for granting autonomy to state-run listed entities. Starting with LIC](https://www.livemint.com/opinion/online-views/the-case-for-granting-autonomy-to-state-run-listed-entities-starting-with-lic-11703503547205.html)
+
+Article found but Couldn't summarize 
+The government should allow listed large state-owned entities the autonomy to chart their own course. It’s time to abandon the practice of excessive oversight and adopt a more hands-off stance, ceasing the mollycoddling or helicopter parenting of these entities
+
 Mon, 25 Dec 2023 08:00:12 +0530
 ### [Why upper-caste Hindus of Kerala became Christians](https://www.livemint.com/opinion/online-views/why-upper-caste-hindus-of-kerala-became-christians-11703426575062.html)
 

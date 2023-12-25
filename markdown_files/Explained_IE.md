@@ -1,3 +1,13 @@
+Mon, 25 Dec 2023 11:58:57 +0000
+### [The legacy of Atal Bihari Vajpayee: 5 defining aspects](https://indianexpress.com/article/explained/explained-politics/atal-bihari-vajpayee-legacy-9082273/)
+
+Article found but Couldn't summarize
+
+Mon, 25 Dec 2023 11:28:25 +0000
+### [Jinnah’s 147th birth anniversary: Meet the two most defiant women in Quaid-e-Azam’s life](https://indianexpress.com/article/explained/explained-history/jinnah-ruttie-rattanbai-dina-9082232/)
+
+Article found but Couldn't summarize
+
 Mon, 25 Dec 2023 02:09:47 +0000
 ### [In Kerala, BJP rings in Christmas with personal visits to Christian families](https://indianexpress.com/article/explained/explained-politics/kerala-christmas-bjp-christian-families-9081628/)
 
