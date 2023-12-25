@@ -1,3 +1,9 @@
+Mon, 25 Dec 2023 11:30:41 +0530
+### [Instagram, Snapchat, X or Threads; which was the most deleted app of 2023?](https://www.livemint.com/technology/tech-news/instagram-snapchat-facebook-x-or-threads-which-was-the-most-deleted-app-of-2023-11703480475206.html)
+
+Article found but Couldn't summarize 
+TRG Datacentres analyzed the number of searches for 'how to delete (my) ___ account' to determine which social media companies have lost favor with users. Instagram topped the list with over 1 million searches per month for deleting accounts, potentially signaling trouble for the platform.
+
 Mon, 25 Dec 2023 10:22:25 +0530
 ### [Fortnite Winterfest to CODMAS 2023; checkout the best winter gaming events of 2023](https://www.livemint.com/technology/tech-news/fortnite-winterfest-to-codmas-2023-checkout-the-best-winter-gaming-events-of-2023-11703471843368.html)
 

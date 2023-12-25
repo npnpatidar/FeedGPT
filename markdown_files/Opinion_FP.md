@@ -1,3 +1,9 @@
+Mon, 25 Dec 2023 10:54:26 +0530
+### [Weather Report: Christmas Day ushers in a foggy morning in North India as mercury dips across the country](https://www.firstpost.com/opinion/weather-report-christmas-day-ushers-in-a-foggy-morning-in-north-india-as-mercury-dips-across-the-country-13542182.html)
+
+Article found but Couldn't summarize 
+Weather Report: Christmas Day ushers in a foggy morning in North India as mercury dips across the country
+
 Sun, 24 Dec 2023 18:46:01 +0530
 ### [Socotra island: India’s geo-strategic opportunity to check China's overambition in Red Sea](https://www.firstpost.com/opinion/socotra-island-indias-geo-strategic-opportunity-to-check-chinas-overambition-in-red-sea-13541562.html)
 

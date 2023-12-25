@@ -1,3 +1,9 @@
+2023-12-25T11:50:26+05:30
+### [J&K: Army Orders Court of Inquiry Into Civilians' Custodial Deaths, 3 Senior Officers Shifted](https://thewire.in/security/jk-army-orders-court-of-inquiry-into-civilians-custodial-deaths-3-senior-officers-shifted)
+
+No Article text 
+The inquiry is likely to be completed in 72 hours.
+
 2023-12-25T10:37:47+05:30
 ### [Winter Session Snapshot: Record Number of Lok Sabha MPs Suspended; No Bills Sent to Committees](https://thewire.in/government/winter-session-snapshot-record-number-of-lok-sabha-mps-suspended-no-bills-sent-to-committees)
 
