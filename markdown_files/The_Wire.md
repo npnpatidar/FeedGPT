@@ -1,3 +1,9 @@
+2023-12-25T14:00:25+05:30
+### [Christmas in Tihar](https://thewire.in/society/christmas-in-tihar)
+
+No Article text 
+Every December I remember the Tihar Theatre Troupe and give thanks for the memory of Christmas 1994.
+
 2023-12-25T13:32:25+05:30
 ### [Lull in Highway Construction Expected in FY25, Flagship Highway Projected Faces 6 Year Delay](https://thewire.in/government/lull-in-highway-construction-expected-in-fy25-flagship-highway-projected-faces-6-year-delay)
 

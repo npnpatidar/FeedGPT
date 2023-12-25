@@ -1,3 +1,9 @@
+Mon, 25 Dec 2023 14:12:46 +0530
+### [Bhashini: How it encourages national integration in an AI-enabled way](https://www.firstpost.com/opinion/bhashini-how-it-encourages-national-integration-in-an-ai-enabled-way-13543032.html)
+
+Article found but Couldn't summarize 
+Bhashini: How it encourages national integration in an AI-enabled way
+
 Mon, 25 Dec 2023 13:42:22 +0530
 ### [Domestic aviation touching new highs: Time we made airliners in India and handled MRO](https://www.firstpost.com/opinion/domestic-aviation-touching-new-highs-time-we-made-airliners-in-india-and-handled-mro-13543012.html)
 

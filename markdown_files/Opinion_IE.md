@@ -1,3 +1,8 @@
+Mon, 25 Dec 2023 09:05:09 +0000
+### [Why terrorist activity has shifted from Kashmir to Poonch-Rajouri](https://indianexpress.com/article/opinion/columns/why-terrorist-activity-has-shifted-from-kashmir-to-poonch-rajouri-9082044/)
+
+Article found but Couldn't summarize
+
 Mon, 25 Dec 2023 02:30:07 +0000
 ### [India is poised to become ‘viksit Bharat’](https://indianexpress.com/article/opinion/columns/viksit-bharat-sankalp-narendra-modi-bjp-congress-new-india-9081471/)
 
