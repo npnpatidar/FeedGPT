@@ -1,3 +1,15 @@
+Tue, 26 Dec 2023 15:31:07 +0530
+### [Iran deploys Talaeieh and Nasir cruise missiles near Indian Ocean. Here’s what we know](https://www.firstpost.com/explainers/iran-deploys-talaeieh-and-nasir-cruise-missiles-near-indian-ocean-heres-what-we-know-13545852.html)
+
+Article found but Couldn't summarize 
+Iran deploys Talaeieh and Nasir cruise missiles near Indian Ocean. Here’s what we know
+
+Tue, 26 Dec 2023 14:46:31 +0530
+### [Who is Talha Saeed, the son of dreaded terrorist Hafiz Saeed, who will contest Pakistan elections?](https://www.firstpost.com/explainers/who-is-talha-saeed-the-son-of-dreaded-terrorist-hafiz-saeed-who-will-contest-pakistan-elections-13544942.html)
+
+Article found but Couldn't summarize 
+Who is Talha Saeed, the son of dreaded terrorist Hafiz Saeed, who will contest Pakistan elections?
+
 Tue, 26 Dec 2023 14:13:44 +0530
 ### [Who is the Hyderabad man, likely to be mastermind behind Nicaragua-bound flight?](https://www.firstpost.com/explainers/france-plane-grounded-indian-passengers-nicaragua-bound-flight-mumbai-human-trafficking-mastermind-13545532.html)
 

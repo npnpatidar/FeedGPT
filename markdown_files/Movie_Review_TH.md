@@ -1,3 +1,9 @@
+Tue, 26 Dec 2023 15:44:29 +0530
+### [‘Kho Gaye Hum Kahan’ movie review: Bandra blues](https://www.thehindu.com/entertainment/movies/kho-gaye-hum-kahan-movie-review-bandra-blues/article67676233.ece)
+
+Article found but Couldn't summarize 
+Debutant director Arjun Varain Singh and co-writers Zoya Akhtar and Reema Kagti present a half-baked critique of social media and influencer culture in this superficial drama about three best friends in Mumbai
+
 Sat, 23 Dec 2023 18:18:14 +0530
 ### [‘Percy Jackson and the Olympians’ series review: Finally a show that does Seaweed Brain and friends justice](https://www.thehindu.com/entertainment/movies/percy-jackson-and-the-olympians-review/article67668923.ece)
 
