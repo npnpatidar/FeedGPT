@@ -1,3 +1,9 @@
+Mon, 25 Dec 2023 21:40:59 +0530
+### [FirstUp: From Jaishankar in Russia to India vs South Africa, here’s what to expect](https://www.firstpost.com/explainers/firstup-from-jaishankar-in-russia-to-india-vs-south-africa-heres-what-to-expect-13543932.html)
+
+Article found but Couldn't summarize 
+FirstUp: From Jaishankar in Russia to India vs South Africa, here’s what to expect
+
 Mon, 25 Dec 2023 15:59:39 +0530
 ### [Rewind 2023: The big controversies of the year](https://www.firstpost.com/explainers/rewind-2023-the-big-controversies-and-scandals-of-the-year-13506982.html)
 

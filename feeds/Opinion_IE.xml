@@ -5,6 +5,15 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Opinion_IE.xml</link>
 		<description>Opinion IE</description>
 		<item>
+			<title>We want a Digital India. Just not the one we are living in</title>
+			<link>https://indianexpress.com/article/opinion/columns/cyber-security-cyber-frauds-in-india-digital-india-data-protection-bill-9082569/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Mon, 25 Dec 2023 23:35:53 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2023/12/Oped-lead-5.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2023/12/Oped-lead-5.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>What Tavleen Singh doesn’t understand about caste and reservation</title>
 			<link>https://indianexpress.com/article/opinion/columns/tavleen-singh-doesnt-understand-caste-reservation-9082314/</link>
 			<description>Article found but Couldn't summarize</description>
