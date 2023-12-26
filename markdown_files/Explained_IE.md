@@ -1,3 +1,8 @@
+Tue, 26 Dec 2023 14:58:41 +0000
+### [Indians aboard grounded charter flight return to Mumbai: what rules face those who stayed back in France](https://indianexpress.com/article/explained/explained-global/indians-grounded-flight-asylum-rules-in-france-9083784/)
+
+Article found but Couldn't summarize
+
 Tue, 26 Dec 2023 12:25:10 +0000
 ### [Russian opposition leader Navalny found in remote Arctic prison: What are Russia’s penal colonies — and what are the conditions there?](https://indianexpress.com/article/explained/explained-global/russia-alexei-navalny-penal-colony-9083573/)
 

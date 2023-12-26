@@ -1,3 +1,15 @@
+Tue, 26 Dec 2023 20:39:10 +0530
+### [Best year end deals: 10 smartwatches under  ₹20,000 with up to 85% off](https://www.livemint.com/technology/gadgets/best-year-end-deals-10-smartwatches-under-rs-20-000-with-up-to-85-off-11703569174728.html)
+
+Article found but Couldn't summarize 
+Best year end deals: Smartwatches have become an essential fashion and tech gadget for us. Check out the best smartwatches under  ₹20,000 and get the best year-end deals on your purchase.
+
+Tue, 26 Dec 2023 20:37:34 +0530
+### [Best computer monitors for gaming: 10 options for unmatched gaming experience](https://www.livemint.com/technology/gadgets/best-computer-monitors-for-gaming-10-options-for-unmatched-gaming-experience-11703584851771.html)
+
+Article found but Couldn't summarize 
+Best computer monitors for gaming: Gaming monitors are an important part of any gaming setup. We have curated a list of the best computer monitors for gaming that will add value to your gaming experience. Choose from the best models offered by reputed brands.
+
 Tue, 26 Dec 2023 19:16:57 +0530
 ### [IT Ministry tells social media platforms to 'comply with rules' or else...](https://www.livemint.com/technology/tech-news/govt-ministry-deepfake-advisory-content-not-permitted-it-rules-must-be-clearly-communicated-to-users-11703598291391.html)
 

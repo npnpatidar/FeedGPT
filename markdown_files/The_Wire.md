@@ -1,3 +1,9 @@
+2023-12-26T19:56:20+05:30
+### [Haryana, Gujarat Got Rs 15 Lakh Combined Under Organic Farming Scheme in Last 3 Years: Govt](https://thewire.in/agriculture/haryana-gujarat-organic-farming-pkvy-scheme)
+
+No Article text 
+The states' low funding comes even as India has promoted organic and natural farming as part of an effort to support minor farmers and make farming more climate-friendly.
+
 2023-12-26T18:02:07+05:30
 ### [CPI(M) Turns Down Ram Temple Invite, Says ‘Religion Shouldn’t Be Used for Political Gain'](https://thewire.in/politics/cpim-turns-down-ram-temple-invite-says-religion-shouldnt-be-used-for-political-gain)
 

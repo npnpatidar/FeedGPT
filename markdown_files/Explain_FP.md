@@ -1,3 +1,9 @@
+Tue, 26 Dec 2023 19:57:10 +0530
+### [How Red Sea attacks could raise export prices of Indian basmati rice](https://www.firstpost.com/explainers/how-red-sea-attacks-could-raise-export-prices-of-indian-basmati-rice-13547432.html)
+
+Article found but Couldn't summarize 
+How Red Sea attacks could raise export prices of Indian basmati rice
+
 Tue, 26 Dec 2023 19:27:56 +0530
 ### ['Foot fetish' or health issue: Why the internet is obsessing over Donald Trump's 'toe pads'](https://www.firstpost.com/explainers/foot-fetish-or-health-issue-why-the-internet-is-obsessing-over-donald-trumps-toe-pads-13546002.html)
 
