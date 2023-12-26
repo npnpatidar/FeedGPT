@@ -1,3 +1,15 @@
+2023-12-26T18:02:07+05:30
+### [CPI(M) Turns Down Ram Temple Invite, Says ‘Religion Shouldn’t Be Used for Political Gain'](https://thewire.in/politics/cpim-turns-down-ram-temple-invite-says-religion-shouldnt-be-used-for-political-gain)
+
+No Article text 
+A statement issued by the party said, "It is most unfortunate that the BJP and RSS have converted a religious ceremony into a state sponsored event.."
+
+2023-12-26T16:50:20+05:30
+### [UP Govt Asks District Authorities to Organise Ramayana Readings, Bhajans Ahead of Ayodhya Ceremony](https://thewire.in/religion/up-govt-asks-district-authorities-to-organise-ramayana-readings-bhajans-ahead-of-ayodhya-ceremony)
+
+No Article text 
+Experts believe that the BJP government is focusing more on Valmiki temples to engage the Dalit community with Ayodhya’s grand ceremony and its Hindutva agenda.
+
 2023-12-26T14:01:11+05:30
 ### [If the Indian Penal Code Ain't Broke, Break it](https://thewire.in/law/if-the-indian-penal-code-aint-broke-break-it)
 

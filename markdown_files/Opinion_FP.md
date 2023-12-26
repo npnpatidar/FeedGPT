@@ -1,3 +1,9 @@
+Tue, 26 Dec 2023 17:46:04 +0530
+### [Rewind 2023: A year of summits and diplomatic successes](https://www.firstpost.com/opinion/rewind-2023-a-year-of-summits-and-diplomatic-successes-13546142.html)
+
+Article found but Couldn't summarize 
+Rewind 2023: A year of summits and diplomatic successes
+
 Tue, 26 Dec 2023 14:36:56 +0530
 ### [Casting off colonial era baggage, India's criminal justice system ushers in a new era](https://www.firstpost.com/opinion/casting-off-colonial-era-baggage-indias-criminal-justice-system-ushers-in-a-new-era-13545802.html)
 

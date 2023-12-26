@@ -5,6 +5,24 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Explained_IE.xml</link>
 		<description>Explained IE</description>
 		<item>
+			<title>Russian opposition leader Navalny found in remote Arctic prison: What are Russia’s penal colonies — and what are the conditions there?</title>
+			<link>https://indianexpress.com/article/explained/explained-global/russia-alexei-navalny-penal-colony-9083573/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Tue, 26 Dec 2023 12:25:10 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2023/12/Navalny-1.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2023/12/Navalny-1.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Red Sea attacks, Panama Canal drought: How trouble at two shipping choke points could impact global trade</title>
+			<link>https://indianexpress.com/article/explained/explained-economics/red-sea-attacks-shipping-global-trade-panama-canal-9083539/</link>
+			<description>The recent drone attack on the Chemical tanker MV Chem Pluto in the Red Sea has raised tensions among Indian oil importers and exporters of commodities like basmati and tea. These attacks have been carried out by Yemen-based Houthi rebels as a protest against Israel's military offensive in Gaza. The disruption in maritime transport, including the Red Sea route and the Panama Canal, poses a significant concern for global trade. Over 80% of global goods trade is carried by sea, and any blockage or longer alternate routes can push up freight rates and impact prices of agricultural products. The drought conditions at the Panama Canal have led to a drop in shipping, forcing ships to use the longer Suez Canal route. This situation has raised concerns about prolonged canal bottlenecks. While global oil and petroleum product flows through the Red Sea have declined, India has not faced a disruption in its Russian oil imports. The attacks have caused a slight increase in the price of benchmark Brent crude, but it is not expected to significantly impact international oil prices. Shipping firms have imposed war risk surcharges, which could lead to higher freight rates for Indian shipments to Europe and Africa. The European Union, one of India's major export destinations, has experienced slowing demand, affecting sectors like textiles, gems, and jewelry exports. Maersk, a shipping giant, is preparing to resume operations in the Red Sea, but ship traffic may still be diverted depending on safety conditions.</description>
+			<pubDate>Tue, 26 Dec 2023 12:01:16 +0000</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2023/12/2023-12-20T132735Z_560699129_RC22X0ANLDLW_RTRMADP_3_USA-OIL-GASOLINE-EXPORTS.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2023/12/2023-12-20T132735Z_560699129_RC22X0ANLDLW_RTRMADP_3_USA-OIL-GASOLINE-EXPORTS.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>T+0, instant settlement cycle: What is the new SEBI proposal and its potential benefits for investors?</title>
 			<link>https://indianexpress.com/article/explained/explained-economics/t0-instant-settlement-cycle-sebi-markets-explained-9083167/</link>
 			<description>Article found but Couldn't summarize</description>

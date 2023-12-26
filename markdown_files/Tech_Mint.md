@@ -1,3 +1,27 @@
+Tue, 26 Dec 2023 17:23:31 +0530
+### [Best IFB washing machines with dryer vs IFB washing machine: 10 picks to compare](https://www.livemint.com/technology/gadgets/best-ifb-washing-machines-with-dryer-vs-ifb-washing-machine-10-picks-to-compare-11703587078029.html)
+
+Article found but Couldn't summarize 
+Best IFB washing machines: Discover the game-changing features of the top IFB washing machines with dryers compared to standard IFB washing machines. Learn how these advanced models revolutionize laundry days.
+
+Tue, 26 Dec 2023 17:22:40 +0530
+### [Best washing machines under 10000: 10 most affordable picks](https://www.livemint.com/technology/gadgets/best-washing-machines-under-10000-10-most-affordable-picks-11703585265526.html)
+
+Article found but Couldn't summarize 
+Best washing machines under 10000: See the best ten affordable washing machines that don't sacrifice quality for under 10,000. Examine cost-effective models that meet a range of demands and pricing points, guaranteeing dependable performance.
+
+Tue, 26 Dec 2023 17:22:39 +0530
+### [Best 10kg LG washing machine: Comparison guide with other brands](https://www.livemint.com/technology/gadgets/best-10kg-lg-washing-machine-comparison-guide-with-other-brands-11703583519362.html)
+
+Article found but Couldn't summarize 
+Best 10kg LG washing machine: Experience laundry like never before with the 10kg LG washing machine—it outperforms the competition. Efficiency, creativity, and reliability make it the ideal solution for laundering needs.
+
+Tue, 26 Dec 2023 17:19:18 +0530
+### [Samsung 7kg semi automatic washing machines vs other models: Top options to consider](https://www.livemint.com/technology/samsung-7kg-semi-automatic-washing-machines-vs-other-models-top-options-to-consider-11703574284266.html)
+
+Article found but Couldn't summarize 
+Samsung 7kg semi automatic washing machine vs other models: Compare Samsung 7kg semi-automatic washing machines with other models in different weight category to choose one that best suits your needs.
+
 Tue, 26 Dec 2023 15:30:27 +0530
 ### [Top 9 grill microwaves and alternatives you can buy: Efficient and stylish picks](https://www.livemint.com/technology/gadgets/top-9-grill-microwaves-and-alternatives-you-can-buy-efficient-and-stylish-picks-11703567591066.html)
 
