@@ -1,3 +1,8 @@
+Tue, 26 Dec 2023 16:04:25 +0530
+### [In Graphics | PV Sindhu is the 16th highest-paid female athlete. Who ranks first?](https://www.firstpost.com/explainers/in-graphics-pv-sindhu-is-the-16th-highest-paid-female-athlete-who-ranks-first-13546402.html)
+
+Indian badminton player PV Sindhu has achieved the remarkable feat of being the only woman to make it onto Forbes' list of highest-paid female athletes for the year 2023. The list, which showcases the earnings of women athletes and provides insights into the sports industry, revealed that 22-year-old Polish tennis star Iga Świątek topped the rankings with an estimated income of $23.9 million in 2023 (pre-tax and pre-agent fees). Additionally, the analysis showed that out of the top 20 earners, 12 were tennis players, while golf and football each had two representatives. PV Sindhu's appearance on the list at the 16th position brought joy to Indian fans.
+
 Tue, 26 Dec 2023 15:31:07 +0530
 ### [Iran deploys Talaeieh and Nasir cruise missiles near Indian Ocean. Here’s what we know](https://www.firstpost.com/explainers/iran-deploys-talaeieh-and-nasir-cruise-missiles-near-indian-ocean-heres-what-we-know-13545852.html)
 
