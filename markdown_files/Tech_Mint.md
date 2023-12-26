@@ -1,3 +1,9 @@
+Tue, 26 Dec 2023 21:44:47 +0530
+### [Five focus areas for India in tech next year](https://www.livemint.com/technology/tech-news/five-focus-areas-for-india-in-tech-next-year-11703606754929.html)
+
+Article found but Couldn't summarize 
+Gen AI could become a new growth driver for India's IT services sector in FY25, as many service providers are expected to see a business impact from gen AI.
+
 Tue, 26 Dec 2023 20:39:10 +0530
 ### [Best year end deals: 10 smartwatches under  ₹20,000 with up to 85% off](https://www.livemint.com/technology/gadgets/best-year-end-deals-10-smartwatches-under-rs-20-000-with-up-to-85-off-11703569174728.html)
 

@@ -3515,3 +3515,11 @@ Started at 2023-12-26 15:17:58
 Finished at 2023-12-26 15:28:27
 Total time taken: 628.6934671401978 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2023-12-26 16:23:13
+2 Feed entries have been written to feeds/Opinion_Mint.xml
+1 Feed entries have been written to feeds/Tech_Mint.xml
+20 Feed entries have been written to feeds/ThePrint.xml
+23 new entries have been added
+Finished at 2023-12-26 16:31:20
+Total time taken: 486.44780921936035 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

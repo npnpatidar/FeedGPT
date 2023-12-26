@@ -1,3 +1,14 @@
+Tue, 26 Dec 2023 21:34:45 +0530
+### [Indians discover stock market; can private equity market be far behind?](https://www.livemint.com/opinion/columns/indians-discover-stock-market-can-private-equity-market-be-far-behind-11703606407397.html)
+
+GPT-3.5: India has a long and strong history of capital markets, with the Bombay Stock Exchange being founded in 1875. In the last 10 years, there has been a fundamental change in the nature of India's equity markets. The "Mutual Fund Sahi Hai" campaign launched by the Association of Mutual Funds in India (Amfi) in 2017 has been a significant game changer, leading to an increase of more than 5 million retail investors in mutual funds in its first year. This campaign has helped to boost domestic retail investment in the markets, reducing the dependence on foreign capital. Additionally, Indian pension funds have also started investing in equity markets, providing a solid source of long-term institutional capital. This combination of retail and institutional investment has created a stable and consistent flow of funding into the equity markets, which has helped to withstand foreign outflows during global events. The article also highlights the potential for India to discover private equity as an asset class in the next decade, with a focus on creating a strong domestic base of funding for private companies.
+
+Tue, 26 Dec 2023 21:29:15 +0530
+### [Coming-of-age moment for PE as an asset class in India](https://www.livemint.com/opinion/columns/comingofage-moment-for-pe-as-an-asset-class-in-india-11703606051133.html)
+
+Article found but Couldn't summarize 
+India is expected to be a relative bright spot for PE firms, with a strong economy and opportunities for growth.
+
 Tue, 26 Dec 2023 17:37:53 +0530
 ### [How were so many economists so wrong about the recession?](https://www.livemint.com/opinion/online-views/how-were-so-many-economists-so-wrong-about-the-recession-11703591701965.html)
 
