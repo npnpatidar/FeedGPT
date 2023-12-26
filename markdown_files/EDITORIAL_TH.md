@@ -1,3 +1,15 @@
+Wed, 27 Dec 2023 00:20:00 +0530
+### [Law of numbers: on the winter session and a low in India’s parliamentary democracy](https://www.thehindu.com/opinion/editorial/law-of-numbers-on-the-winter-session-and-a-low-in-indias-parliamentary-democracy/article67677048.ece)
+
+Article found but Couldn't summarize 
+The government should not use its majority to rush through legislation
+
+Wed, 27 Dec 2023 00:10:00 +0530
+### [Legitimising revanchism: on the Gyanvapi case and the Allahabad High Court](https://www.thehindu.com/opinion/editorial/legitimising-revanchism-on-the-gyanvapi-case-and-the-allahabad-high-court/article67676954.ece)
+
+Article found but Couldn't summarize 
+Courts should not stray from the constitutional vision of secularism
+
 Tue, 26 Dec 2023 00:30:00 +0530
 ### [Debt debate: On the IMF’s latest India consultation details, Finance Ministry’s response](https://www.thehindu.com/opinion/editorial/debt-debate-on-the-imfs-latest-india-consultation-details-finance-ministrys-response/article67673966.ece)
 

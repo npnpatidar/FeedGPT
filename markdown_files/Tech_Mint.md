@@ -1,3 +1,9 @@
+Wed, 27 Dec 2023 00:24:04 +0530
+### [Centre issues advisory to tech firms for regulating deepfakes](https://www.livemint.com/technology/tech-news/centre-issues-advisory-to-tech-firms-for-regulating-deepfakes-11703616484394.html)
+
+Article found but Couldn't summarize 
+Intermediaries will be under obligation to report violations to law enforcement agencies
+
 Tue, 26 Dec 2023 23:18:22 +0530
 ### [What's next after US Apple Watch import ban?](https://www.livemint.com/technology/tech-news/whats-next-after-us-apple-watch-import-ban-11703612198714.html)
 

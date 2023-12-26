@@ -1,3 +1,15 @@
+2023-12-27T00:39:32+05:30
+### [Israeli Air Strike at Gazan Refugee Camp Killed At Least 70, Hamas's Health Ministry Says](https://thewire.in/world/israel-strike-on-gaza-refugee-camp-kills-dozens)
+
+No Article text 
+A spokesperson for Hamas's health ministry said the death toll would likely rise. The Israel Defense Forces has said it is reviewing the incident.
+
+2023-12-27T00:29:07+05:30
+### [In 2021, Army Dismantled 1962 Rezang La Battle Marker as Part of Disengagement With China](https://thewire.in/security/rezang-la-battle-landmark-removed-as-part-of-disengagement-councillor-says)
+
+No Article text 
+‘Haqeeqat’, the Hindi film released in 1964 to national acclaim, was constructed around the battle of Rezang La in Ladakh and showcased a fictionalised version of the last stand of the ‘C’ Company, 13 Kumaon led by Major Shaitan Singh. Singh was posthumously awarded the Param Vir Chakra.
+
 2023-12-26T23:30:56+05:30
 ### [Project Cheetah: Male Cheetah Agni That Ventured Into Rajasthan Tranquilised and ‘Brought Back’](https://thewire.in/environment/male-cheetah-agni-wandered-into-rajasthan-tranquilised-brought-back)
 

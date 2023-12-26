@@ -1,3 +1,32 @@
+Wed, 27 Dec 2023 00:27:42 +0530
+### [Tech policy in India has had a year packed with action](https://www.livemint.com/opinion/online-views/tech-policy-in-india-has-had-a-year-packed-with-action-11703616768632.html)
+
+Article found but Couldn't summarize 
+Our outreach on digital public infrastructure proved a global winner while AI was debated meaningfully.
+
+Wed, 27 Dec 2023 00:22:08 +0530
+### [The future of cricket’s 50-overs format does not look very bright](https://www.livemint.com/opinion/online-views/the-future-of-cricket-s-50-overs-format-does-not-look-very-bright-11703616454378.html)
+
+Article found but Couldn't summarize 
+It can’t compete now that its advantages have been stolen by even more action-packed T20 matches.
+
+Wed, 27 Dec 2023 00:16:44 +0530
+### [Crowd-in must not start crowding investors out](https://www.livemint.com/opinion/online-views/crowdin-must-not-start-crowding-investors-out-11703616126252.html)
+
+Article found but Couldn't summarize 
+This year saw India’s credit-to-GDP gap turn positive after a long slump. If state capex to ‘crowd in’ private investment has finally begun to fructify, it’s time for a fiscal policy pivot.
+
+Tue, 26 Dec 2023 23:56:44 +0530
+### [Chinese and Russian choices impact India’s approach](https://www.livemint.com/opinion/online-views/chinese-and-russian-choices-impact-india-s-approach-11703614761039.html)
+
+Article found but Couldn't summarize 
+India’s ties with Beijing have frayed even as relations with Moscow lose warmth because of their actions
+
+Tue, 26 Dec 2023 23:48:41 +0530
+### [Why do we work? This question arises again as AI eyes our jobs](https://www.livemint.com/opinion/online-views/why-do-we-work-this-question-arises-again-as-ai-eyes-our-jobs-11703614314273.html)
+
+GPT-3.5: In this article, the author explores the concept of work and its significance in our lives. They discuss different perspectives on why people work, such as earning money for a good life and finding meaning in work. The article also touches upon the emergence of artificial intelligence (AI) tools and the debates surrounding the impact of automation on jobs. The author references the writings of economists John Maynard Keynes and E.F. Schumacher, who had contrasting views on work and its role in a good life. Keynes envisioned a future of abundance and leisure, where the pursuit of the art of life takes precedence over economic concerns. On the other hand, Schumacher emphasized the importance of work in utilizing one's faculties, collaborating with others, and providing for a fulfilling existence. The article raises questions about the potential implications of automation and AI on the nature of work and the pursuit of a good life.
+
 Tue, 26 Dec 2023 21:57:56 +0530
 ### [Enabling small businesses with digital first tools for future growth](https://www.livemint.com/opinion/columns/enabling-small-businesses-with-digital-first-tools-for-future-growth-11703607654113.html)
 
