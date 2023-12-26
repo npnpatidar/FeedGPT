@@ -1,3 +1,8 @@
+Tue, 26 Dec 2023 02:00:30 +0000
+### [Looking At 2024, Politics: On the front burner, in an election year](https://indianexpress.com/article/explained/explained-politics/looking-at-2024-politics-on-the-front-burner-in-an-election-year-9082634/)
+
+Article found but Couldn't summarize
+
 Mon, 25 Dec 2023 14:11:11 +0000
 ### [Refusing India PM’s post to planning Kashmir attack: rumours and facts about Jinnah, on his birth anniversary](https://indianexpress.com/article/explained/explained-history/jinnah-rumours-and-facts-on-his-birth-anniversary-9082430/)
 

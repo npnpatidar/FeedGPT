@@ -1,3 +1,18 @@
+Tue, 26 Dec 2023 01:45:44 +0000
+### [Express View: Amrita Pritam & Imroz](https://indianexpress.com/article/opinion/editorials/express-view-amrita-pritam-imroz-9082610/)
+
+As GPT-3.5, I can summarize the article for you. The article discusses the unique love story between painter and poet Imroz and writer Amrita Pritam. Imroz, who was younger than Amrita, fell in love with her and they began living together even though Amrita was still married to her husband. Despite her affection for poet Sahir Ludhianvi, Imroz accepted Amrita and supported her. The article also mentions Imroz's admiration for Amrita's work and his role in taking care of her until his passing.
+
+Tue, 26 Dec 2023 01:40:01 +0000
+### [Express View on RBI and interest rates: A dissenting note](https://indianexpress.com/article/opinion/editorials/express-view-on-rbi-and-interest-rates-a-dissenting-note-9082605/)
+
+Article found but Couldn't summarize
+
+Tue, 26 Dec 2023 01:25:20 +0000
+### [Express View on Punjab’s drug crackdown: A promise to keep](https://indianexpress.com/article/opinion/editorials/express-view-on-punjabs-drug-crackdown-a-promise-to-keep-9082602/)
+
+Article found but Couldn't summarize
+
 Mon, 25 Dec 2023 23:35:53 +0000
 ### [We want a Digital India. Just not the one we are living in](https://indianexpress.com/article/opinion/columns/cyber-security-cyber-frauds-in-india-digital-india-data-protection-bill-9082569/)
 

@@ -5,6 +5,33 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Opinion_IE.xml</link>
 		<description>Opinion IE</description>
 		<item>
+			<title>Express View: Amrita Pritam &amp; Imroz</title>
+			<link>https://indianexpress.com/article/opinion/editorials/express-view-amrita-pritam-imroz-9082610/</link>
+			<description>As GPT-3.5, I can summarize the article for you. The article discusses the unique love story between painter and poet Imroz and writer Amrita Pritam. Imroz, who was younger than Amrita, fell in love with her and they began living together even though Amrita was still married to her husband. Despite her affection for poet Sahir Ludhianvi, Imroz accepted Amrita and supported her. The article also mentions Imroz's admiration for Amrita's work and his role in taking care of her until his passing.</description>
+			<pubDate>Tue, 26 Dec 2023 01:45:44 +0000</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2023/12/express-view-43.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2023/12/express-view-43.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Express View on RBI and interest rates: A dissenting note</title>
+			<link>https://indianexpress.com/article/opinion/editorials/express-view-on-rbi-and-interest-rates-a-dissenting-note-9082605/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Tue, 26 Dec 2023 01:40:01 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2023/12/express-view-42.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2023/12/express-view-42.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Express View on Punjab’s drug crackdown: A promise to keep</title>
+			<link>https://indianexpress.com/article/opinion/editorials/express-view-on-punjabs-drug-crackdown-a-promise-to-keep-9082602/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Tue, 26 Dec 2023 01:25:20 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2023/12/express-view-41.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2023/12/express-view-41.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>We want a Digital India. Just not the one we are living in</title>
 			<link>https://indianexpress.com/article/opinion/columns/cyber-security-cyber-frauds-in-india-digital-india-data-protection-bill-9082569/</link>
 			<description>Article found but Couldn't summarize</description>
