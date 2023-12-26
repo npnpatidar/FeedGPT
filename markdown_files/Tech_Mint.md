@@ -1,3 +1,9 @@
+Tue, 26 Dec 2023 09:36:00 +0530
+### [Poco M6 5G with Dimensity 6100+ SoC goes on sale today. Is it the most affordable 5G smartphone in India?](https://www.livemint.com/technology/gadgets/poco-m6-5g-with-dimensity-6100-soc-goes-on-sale-today-is-it-the-most-affordable-5g-smartphone-in-india-11703561160600.html)
+
+Article found but Couldn't summarize 
+Poco M6 comes with Mediatek Dimensity 6100+ chipset, 6.74-inch display, up to 8GB RAM, and a 50MP dual rear camera setup. Poco M6 is priced at  ₹10,499 onwards and customers can avail a discount of  ₹1,000 with ICICI Bank cards.
+
 Tue, 26 Dec 2023 08:21:32 +0530
 ### [From Apple GPT to Watch Series 10; 5 Apple products likely to be released in 2024](https://www.livemint.com/technology/tech-news/from-apple-gpt-to-watch-series-10-iphone-16-5-apple-products-likely-to-released-in-2024-11703555187163.html)
 

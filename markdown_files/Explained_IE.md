@@ -1,3 +1,8 @@
+Tue, 26 Dec 2023 03:54:43 +0000
+### [Drone attack on a chemical tanker off Gujarat coast: All you need to know](https://indianexpress.com/article/explained/explained-global/drone-attack-on-a-chemical-tanker-off-gujarat-coast-all-you-need-to-know-9082538/)
+
+Article found but Couldn't summarize
+
 Tue, 26 Dec 2023 02:00:30 +0000
 ### [Looking At 2024, Politics: On the front burner, in an election year](https://indianexpress.com/article/explained/explained-politics/looking-at-2024-politics-on-the-front-burner-in-an-election-year-9082634/)
 

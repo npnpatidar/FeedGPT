@@ -1,3 +1,9 @@
+Tue, 26 Dec 2023 09:39:22 +0530
+### [Chennai techie murder: Was it a case of love gone wrong?](https://www.firstpost.com/explainers/chennai-techie-murder-nandhini-was-it-a-case-of-love-gone-wrong-13544412.html)
+
+Article found but Couldn't summarize 
+Chennai techie murder: Was it a case of love gone wrong?
+
 Mon, 25 Dec 2023 21:40:59 +0530
 ### [FirstUp: From Jaishankar in Russia to India vs South Africa, here’s what to expect](https://www.firstpost.com/explainers/firstup-from-jaishankar-in-russia-to-india-vs-south-africa-heres-what-to-expect-13543932.html)
 

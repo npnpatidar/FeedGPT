@@ -1,3 +1,15 @@
+2023-12-26T09:28:06+05:30
+### [Vacancies, Representation and Toilets: What Ails India's Judiciary?](https://thewire.in/law/india-judiciary-courts-pendency-causes-caste-women)
+
+No Article text 
+The Supreme Court’s Centre for Research and Planning, in a one-of-a-kind report, has looked at some of the most crucial reasons contributing to pendencies.
+
+2023-12-26T09:05:26+05:30
+### [After ED Arrests, China Advises India to Create 'Non-Discriminatory' Business Environment](https://thewire.in/diplomacy/enforcement-directorate-china-vivo-india)
+
+No Article text 
+The ED has, so far, taken into custody seven people, including two Chinese nationals, in connection with charges of money laundering against the Indian subsidiary of the Chinese phone manufacturer, Vivo.
+
 2023-12-25T16:28:22+05:30
 ### [How the Israel-Palestine War Is Shifting the Political Dynamics in Britain](https://thewire.in/world/how-the-israel-palestine-war-is-shifting-the-political-dynamics-in-britain)
 
