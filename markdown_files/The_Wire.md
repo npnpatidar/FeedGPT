@@ -1,3 +1,9 @@
+2023-12-26T12:00:39+05:30
+### [Assam: Adivasi Woman Suspected of Being a ‘Witch’ Burnt Alive](https://thewire.in/women/assam-tribal-woman-killed-witchcraft)
+
+No Article text 
+The woman, identified as Sangita Kapi, belonged to the Adivasi community and is survived by her husband and three children.
+
 2023-12-26T11:50:21+05:30
 ### [There Are Shades of the BCCI in the ICC’s Usman Khawaja Order](https://thewire.in/sport/cricket-usman-khawaja-icc-bcci-order)
 

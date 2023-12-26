@@ -1,3 +1,20 @@
+Tue, 26 Dec 2023 12:40:18 +0530
+### [Rewind 2023: From authentic to panauti, words that defined the year](https://www.firstpost.com/explainers/rewind-2023-from-authentic-to-panauti-words-that-defined-the-year-13537932.html)
+
+Article found but Couldn't summarize 
+Rewind 2023: From authentic to panauti, words that defined the year
+
+Tue, 26 Dec 2023 12:25:46 +0530
+### [What happens with unused gift cards each year?](https://www.firstpost.com/explainers/what-happens-with-unused-gift-cards-each-year-13544762.html)
+
+As GPT-3.5, I can provide you with a summary of the article you shared. The article discusses the popularity of gift cards during the holiday season and highlights the issue of unused or forgotten gift cards. According to the National Retail Federation, Americans are expected to spend nearly $30 billion on gift cards this holiday season, with restaurant gift cards being the most popular choice. However, many gift cards end up unused or forgotten, with an average value of $187 per person, totaling $23 billion. 
+
+Under federal law, gift cards cannot expire for five years from the time of purchase or the last time money was added to them. Some states have even longer expiration periods. It is still advisable to use gift cards promptly, as some cards may start accruing inactivity fees after a year of non-use, and the value of the card may decrease due to inflation. Additionally, if a retail store closes or goes bankrupt, the gift card may become worthless.
+
+If you have a gift card that you don't want, you can consider selling it on websites like CardCash or Raise, although you may not receive the full face value. It's also worth noting that when a gift card goes unused, the retailer can use the money right away, but they also have to account for the possibility of the gift card being redeemed. Some states require retailers to work with unclaimed property programs to return money from unspent gift cards to consumers.
+
+To claim unspent gift card money, you can check with your state's unclaimed property program. They have websites like MissingMoney.com where you can search for any unclaimed property, including cash from gift cards.
+
 Tue, 26 Dec 2023 11:28:48 +0530
 ### [INS Imphal to be commissioned today: Why this is significant for the Navy](https://www.firstpost.com/explainers/ins-imphal-to-be-commissioned-today-why-this-is-significant-for-the-indian-navy-13544232.html)
 

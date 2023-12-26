@@ -1,3 +1,9 @@
+Tue, 26 Dec 2023 12:22:52 +0530
+### [Vantage | Why internationalising the Indian rupee is froth with challenges](https://www.firstpost.com/opinion/vantage-why-internationalising-the-indian-rupee-is-froth-with-challenges-13544882.html)
+
+Article found but Couldn't summarize 
+Vantage | Why internationalising the Indian rupee is froth with challenges
+
 Tue, 26 Dec 2023 11:14:40 +0530
 ### [Vantage | How escalating Red Sea crisis threatens vital Indian trade routes](https://www.firstpost.com/opinion/vantage-how-escalating-red-sea-crisis-threatens-vital-indian-trade-routes-13544732.html)
 
