@@ -1,3 +1,9 @@
+2023-12-26T22:00:40+05:30
+### [‘Are We Traitors, PM Modi?’ Asks Vinesh Phogat As She Returns Khel Ratna, Arjuna Award](https://thewire.in/rights/vinesh-phogat-writes-to-pm-modi-returns-awards)
+
+No Article text 
+In her letter to Prime Minister Narendra Modi, Phogat referred to Sakshi Malik's retirement from wrestling as well as Bajrang Punia's giving up his Padma Shri, and said she now felt revulsed by her own awards.
+
 2023-12-26T19:56:20+05:30
 ### [Haryana, Gujarat Got Rs 15 Lakh Combined Under Organic Farming Scheme in Last 3 Years: Govt](https://thewire.in/agriculture/haryana-gujarat-organic-farming-pkvy-scheme)
 
