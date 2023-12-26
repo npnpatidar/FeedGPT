@@ -1,3 +1,8 @@
+Tue, 26 Dec 2023 08:14:08 +0000
+### [In a new South Asia, Delhi cannot stick to its old ways](https://indianexpress.com/article/opinion/columns/new-south-asia-delhi-cannot-stick-old-ways-9083214/)
+
+Article found but Couldn't summarize
+
 Tue, 26 Dec 2023 02:30:50 +0000
 ### [Reading Joe Sacco’s ‘Palestine’ in 2023: What happens to the war when you look away?](https://indianexpress.com/article/opinion/columns/reading-joe-saccos-palestine-in-2023-this-is-an-era-of-war-and-we-can-do-nothing-about-it-9082590/)
 

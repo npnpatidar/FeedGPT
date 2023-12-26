@@ -1,3 +1,8 @@
+Tue, 26 Dec 2023 07:50:14 +0000
+### [T+0, instant settlement cycle: What is the new SEBI proposal and its potential benefits for investors?](https://indianexpress.com/article/explained/explained-economics/t0-instant-settlement-cycle-sebi-markets-explained-9083167/)
+
+Article found but Couldn't summarize
+
 Tue, 26 Dec 2023 07:04:23 +0000
 ### [Veer Bal Diwas: Recalling the ‘supreme sacrifice’ of Guru Gobind Singh’s sons](https://indianexpress.com/article/explained/explained-culture/veer-bal-diwas-guru-gobind-singh-sons-killing-history-9083107/)
 

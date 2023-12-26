@@ -1,3 +1,9 @@
+2023-12-26T13:13:50+05:30
+### [Tamil Nadu: 60 Dalits End Pre-Independence Era Practice, Walk Street Wearing Slippers](https://thewire.in/caste/tamil-nadu-60-dalits-end-pre-independence-era-practice-walk-street-wearing-slippers)
+
+No Article text 
+The community members walked the ‘Kambala Naicken Street’ in Rajavur village of Tiruppur district donning footwear for the first time in living memory, breaking an unwritten discriminatory practice imposed by upper castes.
+
 2023-12-26T12:00:39+05:30
 ### [Assam: Adivasi Woman Suspected of Being a ‘Witch’ Burnt Alive](https://thewire.in/women/assam-tribal-woman-killed-witchcraft)
 

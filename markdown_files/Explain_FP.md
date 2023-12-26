@@ -1,3 +1,9 @@
+Tue, 26 Dec 2023 13:18:26 +0530
+### [Why Egypt’s peace plan is finding no support from Israel, Hamas](https://www.firstpost.com/explainers/why-egypts-peace-proposal-to-end-the-war-is-finding-no-support-from-israel-and-hamas-13545152.html)
+
+Article found but Couldn't summarize 
+Why Egypt’s peace plan is finding no support from Israel, Hamas
+
 Tue, 26 Dec 2023 12:40:18 +0530
 ### [Rewind 2023: From authentic to panauti, words that defined the year](https://www.firstpost.com/explainers/rewind-2023-from-authentic-to-panauti-words-that-defined-the-year-13537932.html)
 

@@ -1,3 +1,8 @@
+Tue, 26 Dec 2023 13:33:12 +0530
+### [Rewind 2023: Directors became the new superstars while actioners ruled](https://www.firstpost.com/opinion/rewind-2023-directors-became-the-new-superstars-while-actioners-ruled-13545212.html)
+
+Dunki, directed by Rajkumar Hirani, has become the third Shah Rukh Khan-starrer to become a hit in 2023, grossing over Rs 200 crore worldwide in just four days. The film is a comedy-drama inspired by the reality of illegal migration. It received mixed reviews from critics and faced competition from Prashanth Neel's big-budget action drama Salaar: Part 1 - Ceasefire. Dunki's success can be attributed to its relatable theme, good comedy, likable music, and strong performances, particularly by Vicky Kaushal in a special appearance. Despite not being at his best, Hirani understands what his target audience wants. Overall, it has been a good year for Hindi films, with directors gaining pre-release hype along with the stars in their films. Four films, including Pathaan and Animal, grossed over Rs 500 crore globally in 2023. Tiger 3, starring Salman Khan, collected an estimated Rs 466 crore worldwide. While Dunki's ultimate performance is yet to be seen, fans are already anticipating the release of Siddharth Anand's action drama Fighter in 2024. Bollywood has delivered larger-than-life entertainment, and cash-rich producers are likely to continue making escapist action films in the future.
+
 Tue, 26 Dec 2023 12:22:52 +0530
 ### [Vantage | Why internationalising the Indian rupee is froth with challenges](https://www.firstpost.com/opinion/vantage-why-internationalising-the-indian-rupee-is-froth-with-challenges-13544882.html)
 
