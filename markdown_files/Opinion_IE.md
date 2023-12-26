@@ -1,3 +1,18 @@
+Tue, 26 Dec 2023 02:30:50 +0000
+### [Reading Joe Sacco’s ‘Palestine’ in 2023: What happens to the war when you look away?](https://indianexpress.com/article/opinion/columns/reading-joe-saccos-palestine-in-2023-this-is-an-era-of-war-and-we-can-do-nothing-about-it-9082590/)
+
+Article found but Couldn't summarize
+
+Tue, 26 Dec 2023 02:28:04 +0000
+### [How India fast-tracked progress — what Brazil can learn as G20 president](https://indianexpress.com/article/opinion/columns/how-india-fast-tracked-progress-what-brazil-can-learn-as-g20-president-9082771/)
+
+Article found but Couldn't summarize
+
+Tue, 26 Dec 2023 02:25:06 +0000
+### [Despite growth, why Indian workers need to worry](https://indianexpress.com/article/opinion/columns/indian-daily-wage-workers-gdp-growth-employment-nrega-9082576/)
+
+Article found but Couldn't summarize
+
 Tue, 26 Dec 2023 01:45:44 +0000
 ### [Express View: Amrita Pritam & Imroz](https://indianexpress.com/article/opinion/editorials/express-view-amrita-pritam-imroz-9082610/)
 

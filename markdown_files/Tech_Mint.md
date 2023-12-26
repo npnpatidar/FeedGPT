@@ -1,3 +1,9 @@
+Tue, 26 Dec 2023 08:21:32 +0530
+### [From Apple GPT to Watch Series 10; 5 Apple products likely to be released in 2024](https://www.livemint.com/technology/tech-news/from-apple-gpt-to-watch-series-10-iphone-16-5-apple-products-likely-to-released-in-2024-11703555187163.html)
+
+Article found but Couldn't summarize 
+Apple Vision Pro mixed reality headsets expected to launch in early 2024, with software developers already testing their apps for compatibility.
+
 Mon, 25 Dec 2023 22:56:34 +0530
 ### [China softening stance on gaming after $80 billion rout, approves 105 domestic games](https://www.livemint.com/technology/tech-news/china-softening-stance-on-gaming-after-80-billion-rout-approves-105-domestic-games-11703524763931.html)
 
