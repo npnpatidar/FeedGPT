@@ -1,3 +1,9 @@
+Tue, 26 Dec 2023 19:16:57 +0530
+### [IT Ministry tells social media platforms to 'comply with rules' or else...](https://www.livemint.com/technology/tech-news/govt-ministry-deepfake-advisory-content-not-permitted-it-rules-must-be-clearly-communicated-to-users-11703598291391.html)
+
+Article found but Couldn't summarize 
+Deepfake advisory: Content not permitted under IT rules must be clearly communicated to users, says IT Ministry.
+
 Tue, 26 Dec 2023 17:23:31 +0530
 ### [Best IFB washing machines with dryer vs IFB washing machine: 10 picks to compare](https://www.livemint.com/technology/gadgets/best-ifb-washing-machines-with-dryer-vs-ifb-washing-machine-10-picks-to-compare-11703587078029.html)
 

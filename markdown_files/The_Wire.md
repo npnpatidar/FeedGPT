@@ -16,6 +16,12 @@ Experts believe that the BJP government is focusing more on Valmiki temples to e
 No Article text 
 There was no demand in India that the laws be changed. We are not referring to tinkering, meaning removing and adding that which becomes necessary with changing times. We are referring to taking down an edifice fully and dismantling it without reason.
 
+2023-12-26T14:00:47+05:30
+### [Poonch Civilians' Army Custody Death: FIR Invokes Section 302 of IPC, Injured Victim Notes Torture](https://thewire.in/rights/poonch-civilians-army-custody-death-fir-invokes-section-302-of-ipc-injured-victim-notes-torture)
+
+No Article text 
+52-year-old Mohammad Ashraf has told Indian Express that he was one of those seen in the video and noted that chilli powder was rubbed on wounds created by the beatings that they were subjected to.
+
 2023-12-26T13:13:50+05:30
 ### [Tamil Nadu: 60 Dalits End Pre-Independence Era Practice, Walk Street Wearing Slippers](https://thewire.in/caste/tamil-nadu-60-dalits-end-pre-independence-era-practice-walk-street-wearing-slippers)
 

@@ -1,3 +1,9 @@
+Tue, 26 Dec 2023 19:27:56 +0530
+### ['Foot fetish' or health issue: Why the internet is obsessing over Donald Trump's 'toe pads'](https://www.firstpost.com/explainers/foot-fetish-or-health-issue-why-the-internet-is-obsessing-over-donald-trumps-toe-pads-13546002.html)
+
+Article found but Couldn't summarize 
+'Foot fetish' or health issue: Why the internet is obsessing over Donald Trump's 'toe pads'
+
 Tue, 26 Dec 2023 18:00:51 +0530
 ### [Ram temple event: Who has been invited? Who's giving it a miss?](https://www.firstpost.com/explainers/ram-temple-event-who-has-been-invited-whos-giving-it-a-miss-13546682.html)
 
