@@ -1,3 +1,9 @@
+2023-12-26T10:00:32+05:30
+### [A Mood For Murder | Episode 2: Roti](https://thewire.in/fiction/a-mood-for-murder-episode-2-roti)
+
+No Article text 
+The Wire WhoDunnIt: This is the second part of a serialised detective story by Shahrukh Alam. It is a work of fiction.
+
 2023-12-26T09:28:06+05:30
 ### [Vacancies, Representation and Toilets: What Ails India's Judiciary?](https://thewire.in/law/india-judiciary-courts-pendency-causes-caste-women)
 

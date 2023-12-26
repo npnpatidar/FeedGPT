@@ -1,3 +1,13 @@
+Tue, 26 Dec 2023 05:16:38 +0000
+### [What happens under the Bharatiya Nyaya Sanhita if your pet animal attacks someone?](https://indianexpress.com/article/explained/everyday-explainers/bharatiya-nyaya-sanhita-if-your-pet-attacks-9082593/)
+
+Article found but Couldn't summarize
+
+Tue, 26 Dec 2023 05:10:32 +0000
+### [INS Imphal to be commissioned today: Its capabilities, and the strategic significance of Visakhapatnam-class of destroyers ﻿](https://indianexpress.com/article/explained/ins-imphal-commission-indian-navy-explained-significance-9082936/)
+
+Article found but Couldn't summarize
+
 Tue, 26 Dec 2023 03:54:43 +0000
 ### [Drone attack on a chemical tanker off Gujarat coast: All you need to know](https://indianexpress.com/article/explained/explained-global/drone-attack-on-a-chemical-tanker-off-gujarat-coast-all-you-need-to-know-9082538/)
 

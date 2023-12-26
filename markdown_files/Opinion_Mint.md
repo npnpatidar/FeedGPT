@@ -1,3 +1,9 @@
+Tue, 26 Dec 2023 09:54:09 +0530
+### [Economists had a dreadful 2023](https://www.livemint.com/opinion/online-views/economists-had-a-dreadful-2023-11703562841636.html)
+
+Article found but Couldn't summarize 
+Mistaken recession calls were just part of it
+
 Tue, 26 Dec 2023 00:18:12 +0530
 ### [The telecom bill is like a curate’s egg: It is good in parts](https://www.livemint.com/opinion/online-views/the-telecom-bill-is-like-a-curate-s-egg-it-is-good-in-parts-11703529684485.html)
 

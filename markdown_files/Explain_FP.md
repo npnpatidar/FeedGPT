@@ -1,3 +1,9 @@
+Tue, 26 Dec 2023 10:08:08 +0530
+### [Who is Saveera Parkash, first Hindu woman to contest elections in Pakistan?](https://www.firstpost.com/explainers/who-is-saveera-parkash-first-hindu-woman-to-contest-elections-in-pakistan-13544522.html)
+
+Article found but Couldn't summarize 
+Who is Saveera Parkash, first Hindu woman to contest elections in Pakistan?
+
 Tue, 26 Dec 2023 09:39:22 +0530
 ### [Chennai techie murder: Was it a case of love gone wrong?](https://www.firstpost.com/explainers/chennai-techie-murder-nandhini-was-it-a-case-of-love-gone-wrong-13544412.html)
 

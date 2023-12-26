@@ -1,3 +1,9 @@
+Tue, 26 Dec 2023 10:30:00 +0530
+### [What incentives do scientists have to study rare diseases? | Explained](https://www.thehindu.com/sci-tech/science/scientists-incentives-study-rare-diseases-breakthrough-prizes-explained/article67671810.ece)
+
+Article found but Couldn't summarize 
+One of science’s goals is to cure diseases and ease human suffering. Are advances in medical research going in this direction?
+
 Sun, 24 Dec 2023 02:50:00 +0530
 ### [What’s the latest blip in India-Maldives ties? | Explained](https://www.thehindu.com/news/international/whats-the-latest-blip-in-india-maldives-ties-explained/article67669814.ece)
 

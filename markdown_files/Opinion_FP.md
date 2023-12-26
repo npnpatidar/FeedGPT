@@ -1,3 +1,9 @@
+Tue, 26 Dec 2023 10:08:51 +0530
+### [Vantage | Decoding the art of gift-giving](https://www.firstpost.com/opinion/vantage-decoding-the-art-of-gift-giving-13544422.html)
+
+Article found but Couldn't summarize 
+Vantage | Decoding the art of gift-giving
+
 Tue, 26 Dec 2023 08:47:47 +0530
 ### [How Red Sea is centric to past, present and future of West Asian geopolitics](https://www.firstpost.com/opinion/how-red-sea-is-centric-to-past-present-and-future-of-west-asian-geopolitics-13544122.html)
 
