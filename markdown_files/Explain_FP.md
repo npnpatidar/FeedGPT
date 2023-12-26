@@ -1,3 +1,9 @@
+Tue, 26 Dec 2023 18:00:51 +0530
+### [Ram temple event: Who has been invited? Who's giving it a miss?](https://www.firstpost.com/explainers/ram-temple-event-who-has-been-invited-whos-giving-it-a-miss-13546682.html)
+
+Article found but Couldn't summarize 
+Ram temple event: Who has been invited? Who's giving it a miss?
+
 Tue, 26 Dec 2023 17:19:59 +0530
 ### [How Ukraine's hidden Center 73 has shaped the battle away from the frontline](https://www.firstpost.com/explainers/how-ukraines-hidden-center-73-has-shaped-the-battle-away-from-the-frontline-13546962.html)
 
