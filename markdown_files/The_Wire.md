@@ -1,3 +1,33 @@
+2023-12-26T11:50:21+05:30
+### [There Are Shades of the BCCI in the ICC’s Usman Khawaja Order](https://thewire.in/sport/cricket-usman-khawaja-icc-bcci-order)
+
+No Article text 
+It is no surprise then that for the ICC, peace and brotherhood is too much to ask for. That’s not cricket. Neither is it humanity.
+
+2023-12-26T11:34:47+05:30
+### [Russia: Alexei Navalny Located in Siberia Prison, Allies Say](https://thewire.in/world/russia-alexei-navalny-located-in-siberia-prison-allies-say)
+
+No Article text 
+The Russian opposition leader's lawyer was granted access to the politician.
+
+2023-12-26T11:28:53+05:30
+### [Plane Held in France Over 'Trafficking' Suspicions Lands in Mumbai](https://thewire.in/world/plane-held-in-france-over-trafficking-suspicions-lands-in-mumbai)
+
+No Article text 
+French authorities are continuing to investigate the case for violation of immigration laws.
+
+2023-12-26T11:00:09+05:30
+### [Pakistan: Baloch Women Brave Threats to Protest Against Extrajudicial Killings, Forced Disappearances](https://thewire.in/south-asia/pakistan-baloch-women-protest-extrajudicial-killings-forced-disappearances)
+
+No Article text 
+Since 2009, missing persons have been the victims of extrajudicial killings, with an estimated death toll of more than 2,000 Balochs. According to activists, since 2021, over 200 Balochs have been murdered in fake encounters.
+
+2023-12-26T10:58:14+05:30
+### [Tamil Nadu Police Files Case Against ED for Preventing Anti-Corruption Officers From Doing Their Duty](https://thewire.in/government/tamil-nadu-police-files-case-against-ed-for-preventing-anti-corruption-officers-from-doing-their-duty)
+
+No Article text 
+The police have also summoned Brijesh Beniwal, Assistant Director, ED, Madurai sub-zonal office, to appear before the Tallakulam police station.
+
 2023-12-26T10:00:32+05:30
 ### [A Mood For Murder | Episode 2: Roti](https://thewire.in/fiction/a-mood-for-murder-episode-2-roti)
 

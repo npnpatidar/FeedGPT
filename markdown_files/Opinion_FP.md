@@ -1,3 +1,9 @@
+Tue, 26 Dec 2023 11:14:40 +0530
+### [Vantage | How escalating Red Sea crisis threatens vital Indian trade routes](https://www.firstpost.com/opinion/vantage-how-escalating-red-sea-crisis-threatens-vital-indian-trade-routes-13544732.html)
+
+Article found but Couldn't summarize 
+Vantage | How escalating Red Sea crisis threatens vital Indian trade routes
+
 Tue, 26 Dec 2023 10:08:51 +0530
 ### [Vantage | Decoding the art of gift-giving](https://www.firstpost.com/opinion/vantage-decoding-the-art-of-gift-giving-13544422.html)
 
