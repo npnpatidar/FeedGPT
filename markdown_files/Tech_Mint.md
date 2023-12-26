@@ -1,3 +1,9 @@
+Tue, 26 Dec 2023 13:57:29 +0530
+### [Firms are exploring sodium batteries as an alternative to lithium](https://www.livemint.com/technology/firms-are-exploring-sodium-batteries-as-an-alternative-to-lithium-11703578598005.html)
+
+Article found but Couldn't summarize 
+Unlike lithium, sodium is cheap and abundant
+
 Tue, 26 Dec 2023 09:36:00 +0530
 ### [Poco M6 5G with Dimensity 6100+ SoC goes on sale today. Is it the most affordable 5G smartphone in India?](https://www.livemint.com/technology/gadgets/poco-m6-5g-with-dimensity-6100-soc-goes-on-sale-today-is-it-the-most-affordable-5g-smartphone-in-india-11703561160600.html)
 

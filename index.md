@@ -15,6 +15,6 @@
 
 
  ************************************************* 
-Total number of new entries: 26
-Finished at: 2023-12-26 08:33:14
-Total time taken: 10.0 minutes 50.49996781349182 seconds
+Total number of new entries: 25
+Finished at: 2023-12-26 09:28:07
+Total time taken: 10.0 minutes 34.00074791908264 seconds

@@ -1,3 +1,9 @@
+Tue, 26 Dec 2023 14:13:44 +0530
+### [Who is the Hyderabad man, likely to be mastermind behind Nicaragua-bound flight?](https://www.firstpost.com/explainers/france-plane-grounded-indian-passengers-nicaragua-bound-flight-mumbai-human-trafficking-mastermind-13545532.html)
+
+Article found but Couldn't summarize 
+Who is the Hyderabad man, likely to be mastermind behind Nicaragua-bound flight?
+
 Tue, 26 Dec 2023 13:18:26 +0530
 ### [Why Egypt’s peace plan is finding no support from Israel, Hamas](https://www.firstpost.com/explainers/why-egypts-peace-proposal-to-end-the-war-is-finding-no-support-from-israel-and-hamas-13545152.html)
 

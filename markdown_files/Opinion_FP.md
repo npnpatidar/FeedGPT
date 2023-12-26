@@ -1,3 +1,15 @@
+Tue, 26 Dec 2023 14:36:56 +0530
+### [Casting off colonial era baggage, India's criminal justice system ushers in a new era](https://www.firstpost.com/opinion/casting-off-colonial-era-baggage-indias-criminal-justice-system-ushers-in-a-new-era-13545802.html)
+
+Article found but Couldn't summarize 
+Casting off colonial era baggage, India's criminal justice system ushers in a new era
+
+Tue, 26 Dec 2023 13:50:01 +0530
+### [Western media's hypocrisy in reporting on India and the Global South: A call for change](https://www.firstpost.com/opinion/western-medias-hypocrisy-in-reporting-on-india-and-the-global-south-a-call-for-change-13545512.html)
+
+Article found but Couldn't summarize 
+Western media's hypocrisy in reporting on India and the Global South: A call for change
+
 Tue, 26 Dec 2023 13:33:12 +0530
 ### [Rewind 2023: Directors became the new superstars while actioners ruled](https://www.firstpost.com/opinion/rewind-2023-directors-became-the-new-superstars-while-actioners-ruled-13545212.html)
 

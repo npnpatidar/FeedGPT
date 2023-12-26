@@ -1,3 +1,9 @@
+2023-12-26T14:01:11+05:30
+### [If the Indian Penal Code Ain't Broke, Break it](https://thewire.in/law/if-the-indian-penal-code-aint-broke-break-it)
+
+No Article text 
+There was no demand in India that the laws be changed. We are not referring to tinkering, meaning removing and adding that which becomes necessary with changing times. We are referring to taking down an edifice fully and dismantling it without reason.
+
 2023-12-26T13:13:50+05:30
 ### [Tamil Nadu: 60 Dalits End Pre-Independence Era Practice, Walk Street Wearing Slippers](https://thewire.in/caste/tamil-nadu-60-dalits-end-pre-independence-era-practice-walk-street-wearing-slippers)
 
