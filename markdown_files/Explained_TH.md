@@ -1,3 +1,9 @@
+Tue, 26 Dec 2023 22:50:26 +0530
+### [Are graduates facing unemployment?](https://www.thehindu.com/business/Economy/are-graduates-facing-unemployment/article67676487.ece)
+
+Article found but Couldn't summarize 
+What historical patterns or socio-economic changes might have contributed to the consistently higher unemployment rates among highly educated individuals in India since the 1990s? How does the rise in the percentage of graduates in the labour force impact the unemployment rates and the job market?
+
 Tue, 26 Dec 2023 13:21:21 +0530
 ### [India’s loneliness epidemic | Explained](https://www.thehindu.com/sci-tech/health/indias-loneliness-epidemic-explained/article67647264.ece)
 

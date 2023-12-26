@@ -1,3 +1,15 @@
+Tue, 26 Dec 2023 23:18:22 +0530
+### [What's next after US Apple Watch import ban?](https://www.livemint.com/technology/tech-news/whats-next-after-us-apple-watch-import-ban-11703612198714.html)
+
+Article found but Couldn't summarize 
+A ban restricting imports of Apple's popular Apple Watches into the United States has gone into effect. Here is a look at what the ban means for consumers and what is next for Apple
+
+Tue, 26 Dec 2023 23:04:49 +0530
+### [Top 5 consumer tech trends to watch out for in 2024](https://www.livemint.com/technology/tech-news/top-5-consumer-tech-trends-to-watch-out-for-in-2024-11703608142120.html)
+
+Article found but Couldn't summarize 
+India is expected to see an increase in consumer tech production, including the iPhone 15, televisions, Wi-Fi routers, and set-top boxes, for both domestic and global markets.
+
 Tue, 26 Dec 2023 21:44:47 +0530
 ### [Five focus areas for India in tech next year](https://www.livemint.com/technology/tech-news/five-focus-areas-for-india-in-tech-next-year-11703606754929.html)
 

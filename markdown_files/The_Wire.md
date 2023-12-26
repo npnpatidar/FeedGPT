@@ -1,3 +1,15 @@
+2023-12-26T23:30:56+05:30
+### [Project Cheetah: Male Cheetah Agni That Ventured Into Rajasthan Tranquilised and ‘Brought Back’](https://thewire.in/environment/male-cheetah-agni-wandered-into-rajasthan-tranquilised-brought-back)
+
+No Article text 
+Authorities had released four cheetahs, including Agni, back into the wild in Madhya Pradesh’s Kuno National Park starting December 17.
+
+2023-12-26T23:09:36+05:30
+### [Explosion Near Israel's Embassy in Delhi, Letter of ‘Abusive’ Nature Found in Vicinity: Reports](https://thewire.in/security/december-2023-blast-near-israel-embassy-in-new-delhi)
+
+No Article text 
+No one was injured in the incident, the Press Trust of India reported.
+
 2023-12-26T22:00:40+05:30
 ### [‘Are We Traitors, PM Modi?’ Asks Vinesh Phogat As She Returns Khel Ratna, Arjuna Award](https://thewire.in/rights/vinesh-phogat-writes-to-pm-modi-returns-awards)
 
