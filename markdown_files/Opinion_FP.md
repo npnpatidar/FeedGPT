@@ -1,3 +1,9 @@
+Wed, 27 Dec 2023 16:37:28 +0530
+### [Jaishankar in Moscow: Are India’s relations with the US-led West strained?](https://www.firstpost.com/opinion/jaishankar-in-moscow-are-indias-relations-with-the-us-led-west-strained-13550272.html)
+
+Article found but Couldn't summarize 
+Jaishankar in Moscow: Are India’s relations with the US-led West strained?
+
 Wed, 27 Dec 2023 13:17:07 +0530
 ### [Global Watch | Af-Pak relations going down the drain over water sharing dispute](https://www.firstpost.com/opinion/global-watch-af-pak-relations-going-down-the-drain-over-water-sharing-dispute-13549332.html)
 

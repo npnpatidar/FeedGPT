@@ -1,3 +1,9 @@
+2023-12-27T16:08:00+05:30
+### [Are We Headed for an Open Autocracy?](https://thewire.in/politics/are-we-headed-for-an-open-autocracy)
+
+No Article text 
+A failure on the part of the INDIA alliance parties to recognize the magnitude of the historical moment they are navigating is poised to leave each of them isolated. Unitya is, therefore, an existential imperative. Are they aware of this reality?
+
 2023-12-27T15:00:53+05:30
 ### [NDMC Considers Demolition of Delhi's Sunehri Masjid; Jamiat Ulama-i-Hind Objects](https://thewire.in/rights/ndmc-considers-demolition-of-delhis-sunehri-masjid-jamiat-ulama-i-hind-objects)
 
