@@ -1,3 +1,9 @@
+2023-12-27T12:04:52+05:30
+### [‘Kho Gaye Hum Kahan’ Starts Strong, But Settles With the Recall Value of An Insta Reel](https://thewire.in/film/kho-gaye-hum-kahan-starts-strong-but-settles-with-the-recall-value-of-an-insta-reel)
+
+No Article text 
+One more film about the coming of age of three friends, this time in the era of social media
+
 2023-12-27T11:13:03+05:30
 ### [In 9 Charts: India’s Growing Debt Problem Has ‘Crisis-Like Symptoms’](https://thewire.in/economy/in-9-charts-indias-growing-debt-problem-has-crisis-like-symptoms)
 

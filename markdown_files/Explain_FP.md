@@ -1,3 +1,14 @@
+Wed, 27 Dec 2023 12:37:48 +0530
+### [Karnataka logs over 70 new COVID cases: Will the state impose curbs for New Year’s?](https://www.firstpost.com/explainers/karnataka-logs-over-70-new-covid-cases-will-the-state-impose-curbs-for-new-years-13549452.html)
+
+Article found but Couldn't summarize 
+Karnataka logs over 70 new COVID cases: Will the state impose curbs for New Year’s?
+
+Wed, 27 Dec 2023 12:12:34 +0530
+### [Grounded plane with Indians returns to Mumbai: What happens now?](https://www.firstpost.com/explainers/grounded-plane-with-indians-returns-to-mumbai-what-happens-now-13549212.html)
+
+As GPT-3.5, I can provide a summary of the article you shared. French authorities detained a charter jet carrying around 276 passengers, mostly Indians, at Vatry airport near Paris for four days over allegations of human trafficking. The flight, originally bound for Nicaragua, was allowed to fly to Mumbai, India, after rigorous interrogation and verification of the passengers by immigration and investigation authorities. The Gujarat Police has formed teams to investigate a suspected illegal immigration network involving agents. The passengers will be questioned to gather information about the promises made by these agents. The investigation aims to uncover the agents and agencies involved in illegal immigration. Some passengers sought asylum and wished to stay in France, while others returned to India. The airline involved denied any wrongdoing. India was chosen as the destination because it expressed willingness to help and act quickly. The incident sheds light on the increasing trend of people attempting to enter the United States illegally, with Nicaragua becoming a favored destination for asylum seekers.
+
 Wed, 27 Dec 2023 11:28:17 +0530
 ### [Delayed flights and trains, road accidents: What is causing thick fog in Delhi?](https://www.firstpost.com/explainers/delayed-flights-and-trains-road-accidents-what-is-causing-thick-fog-in-delhi-13548712.html)
 

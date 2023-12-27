@@ -1,3 +1,8 @@
+Wed, 27 Dec 2023 12:39:40 +0530
+### [‘A Murder at the End of the World’ series review: Smart, prescient whodunit](https://www.thehindu.com/entertainment/movies/a-murder-at-the-end-of-the-world-series-review-smart-prescient-whodunit/article67676973.ece)
+
+As GPT-3.5, I can provide a summary of the article you shared. "A Murder at the End of the World" is a mini-series created by Brit Marling and Zal Batmanglij. The show follows two timelines, one in the present where author and hacker Darby Hart is invited to a retreat by tech billionaire Andy Ronson, and another in the past where Darby teams up with another hacker, Bill Farrah, to track down a serial killer. The story unfolds with secrets, lies, and a killer on the loose, and Darby must use her hacking skills to uncover the truth. The show also addresses themes such as the impact of AI on society and the inherent misogyny and racism in everyday life. It is currently streaming on Disney+ Hotstar.
+
 Tue, 26 Dec 2023 15:44:29 +0530
 ### [‘Kho Gaye Hum Kahan’ movie review: Bandra blues](https://www.thehindu.com/entertainment/movies/kho-gaye-hum-kahan-movie-review-bandra-blues/article67676233.ece)
 
