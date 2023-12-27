@@ -1,3 +1,9 @@
+Wed, 27 Dec 2023 09:35:26 +0530
+### [Was the blast at the Israel embassy in Delhi an act of ‘revenge’ for the Gaza war?](https://www.firstpost.com/explainers/was-the-blast-at-the-israel-embassy-in-delhi-an-act-of-revenge-for-the-gaza-war-13548752.html)
+
+Article found but Couldn't summarize 
+Was the blast at the Israel embassy in Delhi an act of ‘revenge’ for the Gaza war?
+
 Tue, 26 Dec 2023 22:04:14 +0530
 ### [FirstUp: Rajnath in J&amp;K, NCP calls farmers protest, PPP begins election campaign... today's big news](https://www.firstpost.com/explainers/firstup-rajnath-in-jk-ncp-calls-farmers-protest-ppp-begins-election-campaign-todays-big-news-13547732.html)
 

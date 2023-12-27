@@ -1,3 +1,9 @@
+Wed, 27 Dec 2023 09:32:21 +0530
+### [Vantage | Ahead of Pakistan elections next year a tapestry of diversity, controversy and political drama](https://www.firstpost.com/opinion/vantage-ahead-of-pakistan-elections-next-year-a-tapestry-of-diversity-controversy-and-political-drama-13548732.html)
+
+Article found but Couldn't summarize 
+Vantage | Ahead of Pakistan elections next year a tapestry of diversity, controversy and political drama
+
 Wed, 27 Dec 2023 08:38:28 +0530
 ### [Post-G20 triumphs, how India's diplomatic landscape shifted in 2023 and challenges ahead in 2024](https://www.firstpost.com/opinion/post-g20-triumphs-how-indias-diplomatic-landscape-shifted-in-2023-and-challenges-ahead-in-2024-13548422.html)
 

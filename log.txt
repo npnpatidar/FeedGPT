@@ -3601,3 +3601,11 @@ Started at 2023-12-27 03:19:13
 Finished at 2023-12-27 03:23:23
 Total time taken: 249.97238683700562 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2023-12-27 04:21:42
+1 Feed entries have been written to feeds/Explain_FP.xml
+1 Feed entries have been written to feeds/Opinion_FP.xml
+17 Feed entries have been written to feeds/ThePrint.xml
+19 new entries have been added
+Finished at 2023-12-27 04:30:21
+Total time taken: 518.7602059841156 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
