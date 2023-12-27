@@ -1,3 +1,15 @@
+Wed, 27 Dec 2023 15:04:46 +0530
+### [Pakistan's drones bring drugs, weapons across border. Here's how India is fighting back](https://www.firstpost.com/explainers/pakistans-drones-bring-drugs-weapons-across-border-heres-how-india-is-fighting-back-13549592.html)
+
+Article found but Couldn't summarize 
+Pakistan's drones bring drugs, weapons across border. Here's how India is fighting back
+
+Wed, 27 Dec 2023 14:43:26 +0530
+### [Stone from Rajasthan, granite from Telangana: How Ram Temple in Ayodhya will have features from across the country](https://www.firstpost.com/explainers/stone-from-rajasthan-granite-from-telangana-how-ram-temple-in-ayodhya-will-have-features-from-across-the-country-13550092.html)
+
+Article found but Couldn't summarize 
+Stone from Rajasthan, granite from Telangana: How Ram Temple in Ayodhya will have features from across the country
+
 Wed, 27 Dec 2023 12:37:48 +0530
 ### [Karnataka logs over 70 new COVID cases: Will the state impose curbs for New Year’s?](https://www.firstpost.com/explainers/karnataka-logs-over-70-new-covid-cases-will-the-state-impose-curbs-for-new-years-13549452.html)
 

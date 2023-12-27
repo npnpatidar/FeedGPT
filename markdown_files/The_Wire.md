@@ -1,3 +1,9 @@
+2023-12-27T15:00:53+05:30
+### [NDMC Considers Demolition of Delhi's Sunehri Masjid; Jamiat Ulama-i-Hind Objects](https://thewire.in/rights/ndmc-considers-demolition-of-delhis-sunehri-masjid-jamiat-ulama-i-hind-objects)
+
+No Article text 
+In al letter, Jamiat Ulama-i-Hind's president, Maulana Mahmood, has conveyed his concerns to the prime minister and home minister, highlighting the potential harm to the 'shared cultural heritage'.
+
 2023-12-27T14:41:30+05:30
 ### [In the US's Pannun Murder Plot Indictment, the Devil for the Modi Government Lies In the Dates](https://thewire.in/diplomacy/in-the-uss-pannun-murder-plot-indictment-the-devil-for-the-modi-government-lies-in-the-dates)
 
