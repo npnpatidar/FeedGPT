@@ -1,3 +1,9 @@
+Tue, 26 Dec 2023 22:04:14 +0530
+### [FirstUp: Rajnath in J&amp;K, NCP calls farmers protest, PPP begins election campaign... today's big news](https://www.firstpost.com/explainers/firstup-rajnath-in-jk-ncp-calls-farmers-protest-ppp-begins-election-campaign-todays-big-news-13547732.html)
+
+Article found but Couldn't summarize 
+FirstUp: Rajnath in J&amp;amp;K, NCP calls farmers protest, PPP begins election campaign... today's big news
+
 Tue, 26 Dec 2023 19:57:10 +0530
 ### [How Red Sea attacks could raise export prices of Indian basmati rice](https://www.firstpost.com/explainers/how-red-sea-attacks-could-raise-export-prices-of-indian-basmati-rice-13547432.html)
 
