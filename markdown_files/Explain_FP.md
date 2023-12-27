@@ -1,3 +1,15 @@
+Wed, 27 Dec 2023 17:16:05 +0530
+### [After COVID, is 'zombie deer disease' the new pandemic humans should be wary about?](https://www.firstpost.com/explainers/after-covid-is-zombie-deer-disease-the-new-pandemic-humans-should-be-wary-about-13550152.html)
+
+Article found but Couldn't summarize 
+After COVID, is 'zombie deer disease' the new pandemic humans should be wary about?
+
+Wed, 27 Dec 2023 17:02:23 +0530
+### [Why Israeli soldier’s death from fungus infection in Gaza has experts worried](https://www.firstpost.com/explainers/why-israeli-soldiers-death-from-fungus-infection-in-gaza-has-experts-worried-13550552.html)
+
+Article found but Couldn't summarize 
+Why Israeli soldier’s death from fungus infection in Gaza has experts worried
+
 Wed, 27 Dec 2023 15:04:46 +0530
 ### [Pakistan's drones bring drugs, weapons across border. Here's how India is fighting back](https://www.firstpost.com/explainers/pakistans-drones-bring-drugs-weapons-across-border-heres-how-india-is-fighting-back-13549592.html)
 

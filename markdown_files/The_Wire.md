@@ -1,3 +1,21 @@
+2023-12-27T18:00:33+05:30
+### [Bihar Caste Survey: The Who’s Who in the Data | Dhobi](https://thewire.in/caste/bihar-caste-survey-the-whos-who-in-the-data-dhobi)
+
+No Article text 
+Having a bigger share in the population does not imply power.
+
+2023-12-27T17:38:43+05:30
+### [Congress Leader Rahul Gandhi to Start Bharat Nyay Yatra from Manipur to Mumbai on January 14](https://thewire.in/politics/congress-leader-rahul-gandhi-to-start-bharat-nyay-yatra-on-january-14)
+
+No Article text 
+The yatra, which will cover 85 districts in 14 states, is expected to culminate on March 20.
+
+2023-12-27T17:22:36+05:30
+### [From Babri Masjid Demolition to Ram Temple Inauguration: The Trajectory of Indian Politics](https://thewire.in/politics/from-babri-masjid-demolition-to-the-inauguration-of-ram-temple-the-trajectory-of-indian-politics)
+
+No Article text 
+As the Babri demolition helped sectarian politics come to power, the inauguration of the temple seems to be yet another mechanism to consolidate polarisation and reap electoral dividends. Temple politics has reached its zenith.
+
 2023-12-27T16:08:00+05:30
 ### [Are We Headed for an Open Autocracy?](https://thewire.in/politics/are-we-headed-for-an-open-autocracy)
 

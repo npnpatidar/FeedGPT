@@ -1,3 +1,9 @@
+Wed, 27 Dec 2023 17:21:11 +0530
+### [Why Canada should shed its Khalistan delusion](https://www.firstpost.com/opinion/why-canada-should-shed-its-khalistan-delusion-13550732.html)
+
+Article found but Couldn't summarize 
+Why Canada should shed its Khalistan delusion
+
 Wed, 27 Dec 2023 16:37:28 +0530
 ### [Jaishankar in Moscow: Are India’s relations with the US-led West strained?](https://www.firstpost.com/opinion/jaishankar-in-moscow-are-indias-relations-with-the-us-led-west-strained-13550272.html)
 

@@ -3672,3 +3672,13 @@ Started at 2023-12-27 11:15:19
 Finished at 2023-12-27 11:25:06
 Total time taken: 586.4996857643127 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2023-12-27 12:33:29
+2 Feed entries have been written to feeds/Explain_FP.xml
+2 Feed entries have been written to feeds/Opinion_IE.xml
+1 Feed entries have been written to feeds/Opinion_FP.xml
+3 Feed entries have been written to feeds/The_Wire.xml
+20 Feed entries have been written to feeds/ThePrint.xml
+28 new entries have been added
+Finished at 2023-12-27 12:44:45
+Total time taken: 676.3870069980621 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
