@@ -1,3 +1,15 @@
+Wed, 27 Dec 2023 18:40:14 +0530
+### [Who is Masarat Alam Bhat, whose faction has been banned by the Centre?](https://www.firstpost.com/explainers/who-is-masarat-alam-bhat-whose-faction-has-been-banned-by-the-centre-13551052.html)
+
+Article found but Couldn't summarize 
+Who is Masarat Alam Bhat, whose faction has been banned by the Centre?
+
+Wed, 27 Dec 2023 18:34:58 +0530
+### [From lunar exploration to Martian Moons: The important space missions set to launch in 2024](https://www.firstpost.com/explainers/from-lunar-exploration-to-martian-moons-the-important-space-missions-set-to-launch-in-2024-13550982.html)
+
+Article found but Couldn't summarize 
+From lunar exploration to Martian Moons: The important space missions set to launch in 2024
+
 Wed, 27 Dec 2023 17:16:05 +0530
 ### [After COVID, is 'zombie deer disease' the new pandemic humans should be wary about?](https://www.firstpost.com/explainers/after-covid-is-zombie-deer-disease-the-new-pandemic-humans-should-be-wary-about-13550152.html)
 
