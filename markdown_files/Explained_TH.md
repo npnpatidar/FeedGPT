@@ -1,3 +1,9 @@
+Wed, 27 Dec 2023 08:30:00 +0530
+### [What does China’s 2024 economic policy look like?](https://www.thehindu.com/business/Economy/what-does-chinas-2024-economic-policy-look-like/article67676471.ece)
+
+Article found but Couldn't summarize 
+How does the shift towards a domestic demand-led growth strategy align with China’s long-term economic goals, and what are the anticipated challenges in transitioning away from export-led growth?
+
 Tue, 26 Dec 2023 22:50:26 +0530
 ### [Are graduates facing unemployment?](https://www.thehindu.com/business/Economy/are-graduates-facing-unemployment/article67676487.ece)
 

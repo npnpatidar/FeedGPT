@@ -1,3 +1,9 @@
+2023-12-27T08:00:34+05:30
+### [An Anthology of Essays on Art, Cinema, and Literary Stories of Bangladesh](https://thewire.in/books/an-anthology-of-essays-on-art-cinema-and-literary-stories-of-bangladesh)
+
+No Article text 
+Aspiring readers and writers, certainly those as curious as this author, could do worse than take a leaf out of this superb book.
+
 2023-12-27T07:00:49+05:30
 ### [Reminiscences of Father, Mother and Me](https://thewire.in/society/reminiscences-of-father-mother-and-me)
 

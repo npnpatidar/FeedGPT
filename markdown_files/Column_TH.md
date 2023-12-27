@@ -1,3 +1,9 @@
+Wed, 27 Dec 2023 00:18:32 +0530
+### [Ind vs SA | Moving an event from the rare to the commonplace](https://www.thehindu.com/opinion/columns/moving-an-event-from-the-rare-to-the-commonplace/article67677982.ece)
+
+Article found but Couldn't summarize 
+A win abroad overcomes a mental barrier. The series following the one where India won in Australia for the first time, they won again. That is why it is important for India to win in South Africa.
+
 Tue, 26 Dec 2023 00:34:00 +0530
 ### [Corrections and Clarifications — December 26, 2023](https://www.thehindu.com/opinion/columns/corrections-and-clarifications-december-26-2023/article67674320.ece)
 

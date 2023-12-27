@@ -1,3 +1,8 @@
+Wed, 27 Dec 2023 02:30:32 +0000
+### [Can Indian-origin Nikki Haley beat Donald Trump in the Republican primaries?](https://indianexpress.com/article/explained/explained-global/can-nikki-haley-beat-donald-trump-republican-primaries-9083850/)
+
+Article found but Couldn't summarize
+
 Wed, 27 Dec 2023 02:00:18 +0000
 ### [2024, Economy: Sunny forecast, some clouds of concern](https://indianexpress.com/article/explained/explained-economics/2024-economy-sunny-forecast-some-clouds-of-concern-9083993/)
 

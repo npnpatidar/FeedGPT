@@ -1,3 +1,9 @@
+Wed, 27 Dec 2023 08:38:28 +0530
+### [Post-G20 triumphs, how India's diplomatic landscape shifted in 2023 and challenges ahead in 2024](https://www.firstpost.com/opinion/post-g20-triumphs-how-indias-diplomatic-landscape-shifted-in-2023-and-challenges-ahead-in-2024-13548422.html)
+
+Article found but Couldn't summarize 
+Post-G20 triumphs, how India's diplomatic landscape shifted in 2023 and challenges ahead in 2024
+
 Tue, 26 Dec 2023 17:46:04 +0530
 ### [Rewind 2023: A year of summits and diplomatic successes](https://www.firstpost.com/opinion/rewind-2023-a-year-of-summits-and-diplomatic-successes-13546142.html)
 
