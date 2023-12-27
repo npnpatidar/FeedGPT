@@ -1,3 +1,15 @@
+2023-12-27T11:13:03+05:30
+### [In 9 Charts: India’s Growing Debt Problem Has ‘Crisis-Like Symptoms’](https://thewire.in/economy/in-9-charts-indias-growing-debt-problem-has-crisis-like-symptoms)
+
+No Article text 
+‘Crisis’ needs to be viewed not in terms of present debt volume but in the larger trend and macroeconomic connection observable between rising government debt and other macro aggregates.
+
+2023-12-27T10:49:34+05:30
+### [Gujarat State Police Complaint Authority Accepted 1 Among 839 Complaints for Probe in 2022: Report](https://thewire.in/law/gujarat-state-police-complaint-authority-accepted-1-among-839-complaints-for-probe-in-2022-report)
+
+No Article text 
+A recent report by the Commonwealth Human Rights Initiative, which collated RTI replies from various SPCAs, said that only a small portion of complaints are being accepted for inquiry. This underlines the SPCA’s 'restrictive approach' towards fulfilling its mandate as directed by the Supreme Court.
+
 2023-12-27T08:00:34+05:30
 ### [An Anthology of Essays on Art, Cinema, and Literary Stories of Bangladesh](https://thewire.in/books/an-anthology-of-essays-on-art-cinema-and-literary-stories-of-bangladesh)
 
@@ -129,6 +141,12 @@ The Supreme Court’s Centre for Research and Planning, in a one-of-a-kind repor
 
 No Article text 
 The ED has, so far, taken into custody seven people, including two Chinese nationals, in connection with charges of money laundering against the Indian subsidiary of the Chinese phone manufacturer, Vivo.
+
+2023-12-26T06:00:04+05:30
+### [Project Cheetah: Male Cheetah Agni That Ventured Into Rajasthan Tranquilised and ‘Brought Back’](https://thewire.in/environment/project-cheetah-male-cheetah-agni-brought-back)
+
+No Article text 
+Since December 17, authorities had released four cheetahs, including Agni, back into the wild in Madhya Pradesh’s Kuno National Park.
 
 2023-12-25T16:28:22+05:30
 ### [How the Israel-Palestine War Is Shifting the Political Dynamics in Britain](https://thewire.in/world/how-the-israel-palestine-war-is-shifting-the-political-dynamics-in-britain)

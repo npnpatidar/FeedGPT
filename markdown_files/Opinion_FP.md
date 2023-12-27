@@ -1,3 +1,9 @@
+Wed, 27 Dec 2023 11:02:17 +0530
+### [Vantage | Shifting landscape of global job market](https://www.firstpost.com/opinion/vantage-shifting-landscape-of-global-job-market-13548952.html)
+
+Article found but Couldn't summarize 
+Vantage | Shifting landscape of global job market
+
 Wed, 27 Dec 2023 09:32:21 +0530
 ### [Vantage | Ahead of Pakistan elections next year a tapestry of diversity, controversy and political drama](https://www.firstpost.com/opinion/vantage-ahead-of-pakistan-elections-next-year-a-tapestry-of-diversity-controversy-and-political-drama-13548732.html)
 

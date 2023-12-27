@@ -1,3 +1,9 @@
+Wed, 27 Dec 2023 11:28:17 +0530
+### [Delayed flights and trains, road accidents: What is causing thick fog in Delhi?](https://www.firstpost.com/explainers/delayed-flights-and-trains-road-accidents-what-is-causing-thick-fog-in-delhi-13548712.html)
+
+Article found but Couldn't summarize 
+Delayed flights and trains, road accidents: What is causing thick fog in Delhi?
+
 Wed, 27 Dec 2023 10:15:57 +0530
 ### [Apple watch ban takes effect in the US: How does it impact you? What comes next?](https://www.firstpost.com/explainers/apple-watch-ban-takes-effect-in-the-us-how-does-it-impact-you-what-comes-next-13548922.html)
 

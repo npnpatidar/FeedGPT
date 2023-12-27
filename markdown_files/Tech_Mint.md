@@ -1,3 +1,15 @@
+Wed, 27 Dec 2023 11:11:04 +0530
+### [Best 6 Kg Bosch washing machine vs competitors: 8 compact and efficient picks](https://www.livemint.com/technology/best-6-kg-bosch-washing-machine-vs-competitors-8-compact-and-efficient-picks-11703584623980.html)
+
+Article found but Couldn't summarize 
+Best 6 Kg Bosch washing machine: The efficiency and features of Bosch's 6 kg washing machine are compared with 8 other small competitors. Bosch distinguishes itself with its size and energy-saving technology, although competitors have a range of features that are worth considering.
+
+Wed, 27 Dec 2023 10:50:16 +0530
+### [Best electric rod for heating water: 8 options across budget for buyers](https://www.livemint.com/technology/gadgets/best-electric-rod-for-heating-water-8-options-across-budget-for-buyers-11703594488499.html)
+
+Article found but Couldn't summarize 
+Best electric rods: Electric rods or immersion rods have been a popular means of heating water during the winter season. Check out the top picks for your home and get the one that suits your budget.
+
 Wed, 27 Dec 2023 00:24:04 +0530
 ### [Centre issues advisory to tech firms for regulating deepfakes](https://www.livemint.com/technology/tech-news/centre-issues-advisory-to-tech-firms-for-regulating-deepfakes-11703616484394.html)
 

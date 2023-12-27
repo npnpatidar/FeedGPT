@@ -1,3 +1,9 @@
+Wed, 27 Dec 2023 11:00:09 +0530
+### [Why the EU’s tougher new migration pact is good for Indians](https://www.livemint.com/opinion/online-views/why-the-eu-s-tougher-new-migration-pact-is-good-for-indians-11703598791677.html)
+
+Article found but Couldn't summarize 
+Despite hardening sentiment in the European Union against immigrants, there’s a growing realisation of the need for skilled professionals. This should benefit Indians, considered among the least objectionable kind of immigrants in the region
+
 Wed, 27 Dec 2023 00:27:42 +0530
 ### [Tech policy in India has had a year packed with action](https://www.livemint.com/opinion/online-views/tech-policy-in-india-has-had-a-year-packed-with-action-11703616768632.html)
 
