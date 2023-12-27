@@ -1,3 +1,33 @@
+Wed, 27 Dec 2023 02:15:09 +0000
+### [Express View: A test for Indian women’s cricket team](https://indianexpress.com/article/opinion/editorials/a-test-for-women-9083916/)
+
+The Indian women's cricket team has impressively displayed their skills and composure in Test cricket, despite the lack of experience in the format. Historically, Australia and England have been dominant forces in women's cricket, but India managed to defeat both teams in consecutive matches. Even though Indian players are not accustomed to multi-day cricket, they were able to outplay their opponents. It is worth noting that Test cricket is not extensively played at the domestic level in India. The series against Australia and England took place in Mumbai, with only one Test match being played. The Board of Control for Cricket in India (BCCI) has the financial means to significantly support women's cricket, which could lead to its growth globally. The introduction of the Women's Premier League and the upcoming Women's World Cup in India are positive steps. Encouraging the inclusion of at least one Test match in every tour, both at home and away, would be beneficial for women's Test cricket. It is vital to give Indian women cricketers ample opportunities to showcase their abilities in this format, considering the interest and enthusiasm shown by the audiences.
+
+Wed, 27 Dec 2023 02:00:11 +0000
+### [There is no substitute for an industrial policy](https://indianexpress.com/article/opinion/editorials/make-in-india-campaign-industrial-policy-manufacturing-sector-9083875/)
+
+Article found but Couldn't summarize
+
+Wed, 27 Dec 2023 01:45:37 +0000
+### [Express View on Houthi rebels: Turbulence in the Red Sea](https://indianexpress.com/article/opinion/editorials/west-asia-news-conflict-in-west-asia-worlds-busiest-trade-routes-yemen-red-sea-ships-in-red-sea-iran-solidarity-with-hamas-indian-express-news-9083913/)
+
+Article found but Couldn't summarize
+
+Wed, 27 Dec 2023 01:37:04 +0000
+### [The Bangladesh election outcome is a foregone conclusion](https://indianexpress.com/article/opinion/columns/the-bangladesh-election-outcome-is-a-foregone-conclusion-9083929/)
+
+Article found but Couldn't summarize
+
+Wed, 27 Dec 2023 01:30:46 +0000
+### [December 27, Forty Years Ago: Two extremists held](https://indianexpress.com/article/opinion/editorials/december-27-forty-years-ago-two-extremists-held-9083876/)
+
+Article found but Couldn't summarize
+
+Wed, 27 Dec 2023 01:30:28 +0000
+### [Express View on government and Supreme Court: Justice Sanjay Kishan Kaul is right](https://indianexpress.com/article/opinion/editorials/justice-sanjay-kishan-kaul-retires-supreme-court-famous-cases-9083910/)
+
+Article found but Couldn't summarize
+
 Tue, 26 Dec 2023 12:49:25 +0000
 ### [It’s the season of lists: Are you a list-maker or an avid follower?](https://indianexpress.com/article/opinion/columns/its-the-season-of-lists-are-you-a-list-maker-or-an-avid-follower-9083581/)
 

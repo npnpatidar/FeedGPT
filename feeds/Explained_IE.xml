@@ -5,6 +5,15 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Explained_IE.xml</link>
 		<description>Explained IE</description>
 		<item>
+			<title>2024, Economy: Sunny forecast, some clouds of concern</title>
+			<link>https://indianexpress.com/article/explained/explained-economics/2024-economy-sunny-forecast-some-clouds-of-concern-9083993/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Wed, 27 Dec 2023 02:00:18 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2023/12/explained-eco-1.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2023/12/explained-eco-1.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Indians aboard grounded charter flight return to Mumbai: what rules face those who stayed back in France</title>
 			<link>https://indianexpress.com/article/explained/explained-global/indians-grounded-flight-asylum-rules-in-france-9083784/</link>
 			<description>Article found but Couldn't summarize</description>

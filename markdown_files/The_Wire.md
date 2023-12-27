@@ -1,3 +1,9 @@
+2023-12-27T07:00:49+05:30
+### [Reminiscences of Father, Mother and Me](https://thewire.in/society/reminiscences-of-father-mother-and-me)
+
+No Article text 
+Mehr Afshan Farooqi remembers the life, work and last days of her father, Shamsur Rahman Faruqi.
+
 2023-12-27T00:39:32+05:30
 ### [Israeli Air Strike at Gazan Refugee Camp Killed At Least 70, Hamas's Health Ministry Says](https://thewire.in/world/israel-strike-on-gaza-refugee-camp-kills-dozens)
 
