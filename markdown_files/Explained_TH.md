@@ -1,3 +1,9 @@
+Wed, 27 Dec 2023 10:18:17 +0530
+### [How Japan’s moon-landing attempt in January will affect Chandrayaan 4 | Explained](https://www.thehindu.com/sci-tech/science/slim-pinpoint-lunar-landing-chandrayaan-4-isro-jaxa/article67678970.ece)
+
+Article found but Couldn't summarize 
+After successfully entering lunar orbit on Christmas Day, SLIM will attempt to soft-land on the moon on January 19.
+
 Wed, 27 Dec 2023 08:30:00 +0530
 ### [What does China’s 2024 economic policy look like?](https://www.thehindu.com/business/Economy/what-does-chinas-2024-economic-policy-look-like/article67676471.ece)
 

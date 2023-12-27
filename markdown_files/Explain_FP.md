@@ -1,3 +1,9 @@
+Wed, 27 Dec 2023 10:15:57 +0530
+### [Apple watch ban takes effect in the US: How does it impact you? What comes next?](https://www.firstpost.com/explainers/apple-watch-ban-takes-effect-in-the-us-how-does-it-impact-you-what-comes-next-13548922.html)
+
+Article found but Couldn't summarize 
+Apple watch ban takes effect in the US: How does it impact you? What comes next?
+
 Wed, 27 Dec 2023 09:35:26 +0530
 ### [Was the blast at the Israel embassy in Delhi an act of ‘revenge’ for the Gaza war?](https://www.firstpost.com/explainers/was-the-blast-at-the-israel-embassy-in-delhi-an-act-of-revenge-for-the-gaza-war-13548752.html)
 

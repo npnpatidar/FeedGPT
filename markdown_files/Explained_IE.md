@@ -1,3 +1,8 @@
+Wed, 27 Dec 2023 04:36:17 +0000
+### [ExplainSpeaking | Growth up, unemployment down, inflation contained: Did India score hattrick in 2023?](https://indianexpress.com/article/explained/explained-economics/explainspeaking-india-economy-2023-growth-unemployment-inflation-9084234/)
+
+Article found but Couldn't summarize
+
 Wed, 27 Dec 2023 02:30:32 +0000
 ### [Can Indian-origin Nikki Haley beat Donald Trump in the Republican primaries?](https://indianexpress.com/article/explained/explained-global/can-nikki-haley-beat-donald-trump-republican-primaries-9083850/)
 
