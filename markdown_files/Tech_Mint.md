@@ -1,3 +1,9 @@
+Wed, 27 Dec 2023 14:44:02 +0530
+### [Best electric blanket: 10 options to have comfortable sleep in winters](https://www.livemint.com/technology/gadgets/best-electric-blanket-10-options-to-have-comfortable-sleep-in-winters-11703658973999.html)
+
+Article found but Couldn't summarize 
+Best electric blanket: Bring home a complete comfortable sleeping solution with the electric blankets that are affordable and come with adjustable heating levels. Check out the top options and get home the one that fits your bed and suits your needs.
+
 Wed, 27 Dec 2023 11:11:04 +0530
 ### [Best 6 Kg Bosch washing machine vs competitors: 8 compact and efficient picks](https://www.livemint.com/technology/best-6-kg-bosch-washing-machine-vs-competitors-8-compact-and-efficient-picks-11703584623980.html)
 

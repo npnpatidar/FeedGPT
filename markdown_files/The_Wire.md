@@ -1,3 +1,15 @@
+2023-12-27T14:41:30+05:30
+### [In the US's Pannun Murder Plot Indictment, the Devil for the Modi Government Lies In the Dates](https://thewire.in/diplomacy/in-the-uss-pannun-murder-plot-indictment-the-devil-for-the-modi-government-lies-in-the-dates)
+
+No Article text 
+The fact that Nikhil Gupta's alleged handlers in India told him they had the ‘go-ahead’ to murder Pannun as early as June 21, the date of Modi's arrival in the US, borders on political insanity.
+
+2023-12-27T14:00:47+05:30
+### [The Wire Recommends: Eight Movies We Watched and Liked This Year](https://thewire.in/film/the-wire-recommends-movies)
+
+No Article text 
+As the year comes to a close, The Wire's staff looks back on some of the films they watched they year that have stayed with them.
+
 2023-12-27T12:04:52+05:30
 ### [‘Kho Gaye Hum Kahan’ Starts Strong, But Settles With the Recall Value of An Insta Reel](https://thewire.in/film/kho-gaye-hum-kahan-starts-strong-but-settles-with-the-recall-value-of-an-insta-reel)
 

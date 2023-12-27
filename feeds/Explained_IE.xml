@@ -5,6 +5,15 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Explained_IE.xml</link>
 		<description>Explained IE</description>
 		<item>
+			<title>Why US is willing to relax its weapons ban on Saudi Arabia</title>
+			<link>https://indianexpress.com/article/explained/explained-global/us-to-relax-weapons-ban-saudi-arabia-9084618/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Wed, 27 Dec 2023 09:02:37 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2023/12/Biden-MBS.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2023/12/Biden-MBS.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>ExplainSpeaking | Growth up, unemployment down, inflation contained: Did India score hattrick in 2023?</title>
 			<link>https://indianexpress.com/article/explained/explained-economics/explainspeaking-india-economy-2023-growth-unemployment-inflation-9084234/</link>
 			<description>Article found but Couldn't summarize</description>

@@ -1,3 +1,8 @@
+Wed, 27 Dec 2023 09:02:37 +0000
+### [Why US is willing to relax its weapons ban on Saudi Arabia](https://indianexpress.com/article/explained/explained-global/us-to-relax-weapons-ban-saudi-arabia-9084618/)
+
+Article found but Couldn't summarize
+
 Wed, 27 Dec 2023 04:36:17 +0000
 ### [ExplainSpeaking | Growth up, unemployment down, inflation contained: Did India score hattrick in 2023?](https://indianexpress.com/article/explained/explained-economics/explainspeaking-india-economy-2023-growth-unemployment-inflation-9084234/)
 
