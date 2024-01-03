@@ -3690,3 +3690,42 @@ Started at 2023-12-27 13:20:42
 Finished at 2023-12-27 13:30:23
 Total time taken: 581.1634547710419 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-01-02 18:46:10
+41 Feed entries have been written to feeds/Explained_IE.xml
+25 Feed entries have been written to feeds/Explain_FP.xml
+10 Feed entries have been written to feeds/Explained_TH.xml
+58 Feed entries have been written to feeds/Opinion_IE.xml
+25 Feed entries have been written to feeds/Opinion_FP.xml
+35 Feed entries have been written to feeds/Opinion_Mint.xml
+10 Feed entries have been written to feeds/EDITORIAL_TH.xml
+50 Feed entries have been written to feeds/The_Wire.xml
+22 Feed entries have been written to feeds/Tech_FP.xml
+35 Feed entries have been written to feeds/Tech_Mint.xml
+12 Feed entries have been written to feeds/Movie_Review_TH.xml
+Started at 2024-01-02 22:46:32
+2 Feed entries have been written to feeds/Explained_IE.xml
+3 Feed entries have been written to feeds/Explain_FP.xml
+1 Feed entries have been written to feeds/Opinion_IE.xml
+2 Feed entries have been written to feeds/The_Wire.xml
+Started at 2024-01-03 16:05:00
+5 Feed entries have been written to feeds/Explained_IE.xml
+12 Feed entries have been written to feeds/Explain_FP.xml
+1 Feed entries have been written to feeds/Explained_TH.xml
+9 Feed entries have been written to feeds/Opinion_IE.xml
+6 Feed entries have been written to feeds/Opinion_FP.xml
+6 Feed entries have been written to feeds/Opinion_Mint.xml
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+1 Feed entries have been written to feeds/Column_TH.xml
+Started at 2024-01-03 18:37:57
+2 Feed entries have been written to feeds/Explained_IE.xml
+4 Feed entries have been written to feeds/Explain_FP.xml
+2 Feed entries have been written to feeds/Opinion_IE.xml
+2 Feed entries have been written to feeds/Opinion_FP.xml
+21 Feed entries have been written to feeds/The_Wire.xml
+10 Feed entries have been written to feeds/Tech_FP.xml
+Started at 2024-01-03 19:03:48
+1 Feed entries have been written to feeds/Movie_Review_TH.xml
+1 new entries have been added
+Finished at 2024-01-03 19:05:05
+Total time taken: 76.61964797973633 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

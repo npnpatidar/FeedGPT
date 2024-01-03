@@ -1,3 +1,676 @@
+Wed, 03 Jan 2024 11:12:41 +0000
+### [A brothel ‘customer’ can be charged under ITP Act: What the Kerala HC has said](https://indianexpress.com/article/explained/explained-law/brothel-customer-itp-act-kerala-hc-9093242/)
+
+The Kerala High Court ruled on December 21, 2023, that a customer in a brothel can be charged under the Immoral Traffic (Prevention) Act, 1956. The court observed that a "consumer" falls within the purview of Section 5 of the Act, which punishes those who 'procure', 'induce', or 'take' people for prostitution [[1]](https://www.hrw.org/report/1999/03/01/broken-people).
+
+The Immoral Traffic (Prevention) Act, 1956, was enacted to prevent the commercialization of vices and the trafficking of females. Section 2 of the Act defines a "brothel" as any place used for sexual exploitation or abuse for the gain of another person or for the mutual gain of two or more prostitutes. The Act defines "prostitution" as the sexual exploitation or abuse of persons for commercial purposes [[1]](https://www.hrw.org/report/1999/03/01/broken-people).
+
+Section 5 of the Act penalizes anyone who procures or attempts to procure a person, with or without their consent, for prostitution purposes. It also punishes those who induce persons to go from any place for prostitution purposes or become inmates of a brothel. The offense of causing or inducing persons to engage in prostitution is punishable with rigorous imprisonment for 3-7 years, along with a fine of Rs 2,000. If the offense is committed against a person's will or a child, the maximum sentence can be extended to fourteen years or life [[1]](https://www.hrw.org/report/1999/03/01/broken-people).
+
+In the present case, the petitioner was found as a customer in a brothel and was arrested. The accused filed a plea seeking discharge, arguing that as a customer, he cannot be implicated for any offense under the Immoral Traffic (Prevention) Act. The district court rejected the plea, and the petitioner moved the Kerala High Court against the lower court's order. The High Court upheld the lower court's order, stating that a consumer also falls within the purview of Section 5 of the Act [[1]](https://www.hrw.org/report/1999/03/01/broken-people).
+
+The Kerala High Court ruling has expanded the meaning of the term "procure" in Section 5 of the Immoral Traffic (Prevention) Act, 1956. It now includes holding customers liable in addition to pimps/brothel-keepers who hire persons for prostitution. Previously, different high courts had expressed differing opinions on whether a brothel customer can be held liable under the Act [[1]](https://www.hrw.org/report/1999/03/01/broken-people).
+
+It is important to note that the Kerala High Court ruling has not held the petitioner guilty under Section 5 of the Act; it has simply held that he can be charged under it. The petitioner will now face trial. The High Court discharged the petitioner of offenses under Sections 3, 4, and 7 of the Act [[1]](https://www.hrw.org/report/1999/03/01/broken-people).
+
+Wed, 03 Jan 2024 11:04:01 +0000
+### [What are VVPATs, and why has Jairam Ramesh written to EC about them?](https://indianexpress.com/article/explained/what-are-vvpats-9093505/)
+
+#### Summary:
+
+Congress leader Jairam Ramesh has written to Chief Election Commissioner Rajiv Kumar requesting a meeting to discuss the use of Voter Verifiable Paper Audit Trail (VVPAT) machines. The INDIA alliance, of which Ramesh is a part, passed a resolution calling for 100% verification of VVPAT slips. VVPAT machines were introduced in 2017 to provide an audit trail for voters to verify their choices. The Election Commission (EC) has gradually increased the use of VVPATs in elections, and in 2019, 100% of EVMs were attached to VVPATs. The EC has also consulted with political parties and the Indian Statistical Institute (ISI) to determine the sample size for counting VVPAT slips. The INDIA alliance resolution suggests that VVPAT slips should be handed over to voters and 100% counting should be done. However, the EC argues that 100% verification is time-consuming and prone to human error. The EC has received few complaints about VVPATs since their introduction, and no cases of vote transfer have been detected.
+
+Wed, 03 Jan 2024 08:18:31 +0000
+### [ExplainSpeaking | Nrega, Nyay and PM-Kisan: Why do politicians rush to give direct benefits (cash) to the poor](https://indianexpress.com/article/explained/explained-economics/explain-speaking-nyay-direct-benefits-9093190/)
+
+The article discusses the revival of the "NYAY" (Nyuntam Aay Yojana) scheme by the Indian National Congress party in preparation for the upcoming 2024 general election in India. The NYAY scheme, which was a central component of the party's 2019 manifesto, aims to provide a minimum income of at least Rs 60,000-70,000 annually to women if the party comes to power. The scheme was originally intended to benefit the poorest 20% of Indian families, providing a guaranteed payment of Rs 72,000 to each eligible family. However, the article highlights that the NYAY scheme and similar schemes like PM-KISAN (Pradhan Mantri – Kisan Samman Nidhi) are not Universal Basic Income (UBI) programs. Unlike UBI, these schemes do not involve the removal of existing subsidies, the amount provided is smaller, and they are targeted at specific sections of the population rather than being universal. The article also explores the economic arguments for direct cash transfers and the potential benefits they can bring in terms of poverty alleviation and development. However, it acknowledges that implementing UBI on a large scale is challenging due to affordability and the political implications of reducing existing subsidies. The article concludes by discussing the need for effective implementation and the guiding principles for successful direct benefit transfer programs. [[1]](https://www.theindianpanorama.news/wp-content/uploads/2022/11/TIP-November-4-Dual-Edition.pdf)
+
+Wed, 03 Jan 2024 07:39:23 +0000
+### [Supreme Court gives 3 months to SEBI to wrap up Adani probe. What is SEBI probing in Adani Group?](https://indianexpress.com/article/explained/explained-economics/supreme-court-sebi-adani-probe-explained-9093171/)
+
+The article discusses the ongoing investigations by the Securities and Exchange Board of India (SEBI) into allegations made by Hindenburg Research against the Adani Group. The investigations focus on two aspects: the ownership of 12 foreign portfolio investors (FPIs) who hold stakes in Adani Group companies and the trading patterns or short positions in Adani shares during January 18-31, 2023, around the time of the release of the Hindenburg report. The Supreme Court has refused to hand over the probe to a Special Investigation Team and has instructed SEBI to continue its investigations and complete them within three months [[1]](https://www.reuters.com/business/indias-adani-group-hindenburg-report-intended-create-false-market-2023-01-29/).
+
+SEBI is conducting the investigations to determine if there has been a violation of Section 19A of the Securities Contract (Regulation) Act, which requires a minimum of 25% public shareholding in listed companies. The regulator has faced challenges in establishing the economic interest shareholders of the 12 FPIs due to the entities being located in tax haven jurisdictions. Efforts are still being made to gather details from five foreign jurisdictions [[1]](https://www.reuters.com/business/indias-adani-group-hindenburg-report-intended-create-false-market-2023-01-29/).
+
+In addition to these ongoing investigations, SEBI has completed 22 other investigation reports, which have been approved by the competent authority in the regulatory body. These reports cover various aspects, including failure to disclose transactions with related parties, manipulation of stock prices, and possible violations of insider trading regulations.
+
+The Supreme Court has also set up a six-member expert committee to investigate if there was a regulatory failure in dealing with the alleged contravention of laws pertaining to the securities market in relation to the Adani Group or other companies. SEBI has been asked to probe if there was a violation of minimum public shareholding norms, failure to disclose transactions with related parties, and manipulation of stock prices [[1]](https://www.reuters.com/business/indias-adani-group-hindenburg-report-intended-create-false-market-2023-01-29/).
+
+It is important to note that the Adani Group has denied the allegations made by Hindenburg Research and has provided a detailed rebuttal to the short sellers' claims. The group has emphasized the robust disclosure system in place in India and has highlighted the drop in promoter pledge positions across portfolio companies [[1]](https://www.reuters.com/business/indias-adani-group-hindenburg-report-intended-create-false-market-2023-01-29/).
+
+Overall, the investigations by SEBI into the allegations made by Hindenburg Research against the Adani Group are ongoing, and the Supreme Court has instructed SEBI to complete the probe within three months
+
+Wed, 03 Jan 2024 07:26:17 +0000
+### [Why has the Indian Science Congress been postponed?](https://indianexpress.com/article/explained/explained-sci-tech/why-has-the-indian-science-congress-been-postponed-9093145/)
+
+The Indian Science Congress, the largest gathering of scientists and students of science in India, has been postponed this year. This is an unprecedented move, as the congress has been held every year since 1914, with the exception of the two years following the Covid-19 pandemic. The reason for the postponement is a disagreement between the Indian Science Congress Association (ISCA) and the Department of Science and Technology (DST) over funding and alleged financial irregularities.
+
+The Indian Science Congress is a significant event that brings together scientists, researchers, teachers, and students from premier institutions and laboratories in the country. It provides a platform for interaction and discussion on matters related to science. The congress has a rich history and has been inaugurated by the Prime Minister, who addresses the event and emphasizes the importance of scientific knowledge for societal needs.
+
+However, the Science Congress has been facing challenges in recent years. It has been criticized for controversies and the promotion of pseudoscience by some speakers. Many credible scientists have chosen to avoid the event, and leading scientific institutions have a limited presence. There have been calls for reforms and even discontinuing government support for the congress.
+
+The government's dilemma lies in its association with the Science Congress. While the ISCA is an independent body, the government provides financial support and perceives the event as closely associated with it. The government has been scaling down its involvement in the congress but has been cautious about completely withdrawing support due to concerns about being seen as "anti-science" and the opportunity it provides for students to interact with scientists.
+
+The postponement of this year's Science Congress does not necessarily mean the end of the event. The ISCA remains hopeful that it can be organized before March 31, and discussions for collaboration and funding for future events are ongoing. Scientists have suggested the development of an alternative forum that invites top Indian and global scientists to discuss the latest developments in the scientific world. Such an alternative forum could help make Indian science more competitive and foster collaboration with leading scientific groups and institutions.
+
+Overall, the postponement of the Indian Science Congress is a significant development due to its historical continuity and importance in the scientific community. It highlights the challenges and controversies the event has been facing and the need for reforms to ensure its relevance and credibility in the future.
+
+Wed, 03 Jan 2024 03:51:03 +0000
+### [Why the UK has stopped some postgraduate students from bringing family members](https://indianexpress.com/article/explained/explained-global/uk-govt-immigration-dependants-students-policy-9092516/)
+
+#### Summary of the Article: "UK's New Immigration Policy and Its Impact on Foreign Students and Workers"
+
+The United Kingdom's Prime Minister, Rishi Sunak, announced a new immigration policy on January 1, which restricts the ability of foreign university students to bring family members to the UK. This policy is part of a broader effort to curb legal migration to the UK. Home Secretary James Cleverly emphasized the need to reduce migration to the country, citing recent data from the Office for National Statistics that showed a decrease in net migration from 745,000 in 2022 to 672,000 in 2023.
+
+One significant aspect of the new policy is the prevention of international students from switching from the student route to work routes before completing their studies. This change aims to address the rise in net migration, which has been attributed to the growth in migrant workers in the health and social care sector and the increasing number of international students.
+
+The government's measures also include reducing the number of student visas being issued and removing the right for international students to bring dependents unless they are enrolled in specific postgraduate courses designated as research programs. These actions align with the Conservative Party's goal, led by Rishi Sunak, to lower net migration, a key concern that was also prominent during the Brexit campaign.
+
+The Migration Advisory Committee's 2023 annual report highlighted the significant role of migrant workers in the health and social care sector, which accounts for 63% of all entry Skilled Worker visas granted. While this has been beneficial in addressing shortages in the sector, concerns have been raised about potential exploitation and abuse, as well as the impact on healthcare staff in lower income countries.
+
+The report also noted the fiscal cost to the UK of migrants bringing dependent children, but acknowledged the substantial public value provided by the health and social care sector. Opposition Labour Party MP Yvette Cooper expressed the need for immigration curbs and domestic worker training, emphasizing the importance of a fair, effective, and economically linked immigration system.
+
+Overall, the article discusses the UK's new immigration policy, its impact on foreign students and workers, and the various perspectives and concerns surrounding these measures.
+
+[[Source: The Indian Express]]
+
+Wed, 03 Jan 2024 01:47:05 +0000
+### [Why the Israel embassy in South Korea had to take down ‘imaginary Hamas attack’ video](https://indianexpress.com/article/explained/explained-global/israel-embassy-south-korea-hamas-attack-video-9092555/)
+
+#### Summary:
+
+Israel's embassy in South Korea created a video depicting an imaginary scenario where Seoul was attacked by Hamas. The video showed a young mother witnessing an air raid warning, followed by gunfire and explosions. The mother is then kidnapped, leaving behind her daughter's red mittens. The video aimed to help South Koreans understand the Israeli perspective on the conflict. However, South Korea's Ministry of Foreign Affairs deemed the video inappropriate and asked the embassy to take it down. South Korea's history of colonial violence by Japan has influenced some South Koreans to support Palestine. South Korea has not openly supported Israel in the conflict, as it seeks to maintain its growing economic ties with the Middle East, particularly with Saudi Arabia and the United Arab Emirates.
+
+Tue, 02 Jan 2024 14:08:04 +0000
+### [Why a Bangladesh court has sentenced Nobel prize winner Muhammad Yunus to jail](https://indianexpress.com/article/explained/explained-global/bangladesh-nobel-prize-winner-muhammad-yunus-jail-9092292/)
+
+#### Summary:
+
+Nobel laureate Muhammad Yunus has been sentenced to six months in jail by a court in Bangladesh for violating the country's labor laws. Yunus, known as the "Banker to the Poor," is credited with pioneering the system of microfinance loans to help impoverished people. His supporters claim that the case against him is politically motivated, as he shares a frosty relationship with Bangladesh's Prime Minister Sheikh Hasina. Yunus is also facing other charges involving alleged corruption and fund embezzlement. The Grameen Bank, which Yunus founded, has lifted millions out of poverty by disbursing collateral-free loans. Banks based on this model now operate in more than 100 countries. Yunus and Grameen Bank jointly received the Nobel Prize in Peace in 2006. The mounting litany of cases against Yunus has garnered global concern, with international figures denouncing the "continuous judicial harassment" he faces [[1]](https://www.bbc.co.uk/news/world-67858016).
+
+#### Background:
+Muhammad Yunus was born in 1940 in Chittagong, Bangladesh. He received his PhD in economics from Vanderbilt University in the United States in 1969 and became an assistant professor at Middle Tennessee State University. After Bangladesh was formed in 1972, Yunus returned to his homeland and was appointed head of the economics department at Chittagong University. As Bangladesh struggled to stabilize its economy and tackle poverty in the post-independence years, Yunus came up with the idea of providing small loans to entrepreneurs who wouldn't normally qualify for bank loans. This led to the establishment of the Grameen Bank in 1983, which has since disbursed collateral-free loans of $34.01 billion among 9.55 million people, with a recovery rate of 97.22% [[10]](https://www.indiatoday.in/world/story/muhammad-yunus-bangladeshi-nobel-laureate-sentenced-jail-by-court-2482880-2024-01-01).
+
+#### Legal Troubles:
+Yunus has been facing a wide array of legal troubles in Bangladesh. In 2011, he was removed as the managing director of Grameen Bank for allegedly violating government retirement regulations. He has also been accused of using force and other means to recover loans from poor rural women as the head of Grameen Bank. In 2015, he was summoned by Bangladesh's revenue authorities over non-payment of taxes amounting to $1.51 million. Additionally, he has been put on trial for allegedly receiving money without government permission, including his Nobel Prize award and royalties from a book. Yunus is said to be facing more than 150 cases, which has raised concerns globally. In 2020, 160 international figures, including former US President Barack Obama and ex-UN Secretary-General Ban Ki-moon, signed a joint letter denouncing the "continuous judicial harassment" of Yunus and expressing concern for his safety and freedom [[10]](https://www.indiatoday.in/world/story/muhammad-yunus-bangladeshi-nobel-laureate-sentenced-jail-by-court-2482880-2024-01-01).
+
+#### Recent Sentencing:
+The recent sentencing of Muhammad Yunus to six months in jail is related to labor law violations by Grameen Telecom, a company he founded as a non-profit. The court found that the company did not make 67 employees permanent as required, did not create employees' participation and welfare funds, and did not distribute 5% of the company's dividends to staff as per company policy. Yunus, as the chairman of Grameen Telecom, and three other company directors were convicted and sentenced to six months in jail. Grameen Telecom owns 34% of Bangladesh's largest mobile phone company, Grameenphone, a subsidiary of Norway's telecom giant Telenor. Yunus was present in court and was granted bail pending appeal.
+
+#### Conclusion:
+Muhammad Yunus, the Nobel laureate and founder of Grameen Bank, has been sentenced to six months in jail for labor law violations. His supporters claim that the case against him is politically motivated. Yunus has been instrumental in pioneering microfinance loans to help impoverished people, and his work has had a significant impact on poverty reduction globally. The mounting legal troubles Yunus faces have raised concerns among international figures, who have denounced the "continuous judicial harassment" he is experiencing [[2]](https://www.bloomberg.com/news/articles/2024-01-01/bangladesh-sentences-nobel-winner-yunus-to-6-months-in-prison)
+
+Tue, 02 Jan 2024 13:31:31 +0000
+### [Meet Arun Yogiraj, one of the three sculptors who made Ram Lalla’s idol for Ayodhya temple](https://indianexpress.com/article/explained/explained-culture/arun-yogiraj-sculptors-ram-lallas-ayodhya-9092271/)
+
+#### Summary:
+
+The Ram temple in Ayodhya is set to be inaugurated on January 22, and Arun Yogiraj, one of the three sculptors who made idols of Ram Lalla (Lord Ram in his childhood), has been receiving congratulations from Karnataka BJP leaders. While the Shri Ram Janmabhoomi Teerth Kshetra trust has not yet announced which idol will be placed in the sanctum, many BJP leaders, including former chief minister BS Yedyiurappa and Union Minister of Parliamentary Affairs Pralhad Joshi, have claimed that Yogiraj's work has been selected [[1]](https://indianexpress.com/article/explained/explained-culture/arun-yogiraj-sculptors-ram-lallas-ayodhya-9092271/).
+
+Arun Yogiraj, 38, is a highly sought-after sculptor in India. Despite having an MBA degree and briefly working in a different field, he returned to his family profession of sculpting. He has been assisting his father in sculpting since he was 11 years old. Yogiraj's family has been involved in sculpting for the past five generations, and his grandfather, B Basavanna Shilpi, was patronized by the kings of Mysore. Yogiraj has a team of 15 artisans and volunteers who learn the art from him. He has also trained many students free of cost through the Brahmarshi Kashyapa Shilpakala Shala trust in Mysuru.
+
+Some of Yogiraj's famous works include a 28-feet monolithic black granite stone sculpture of freedom fighter Subhash Chandra Bose for Delhi's India Gate, a 12-feet Adi Shankaracharya idol for Kedarnath, Uttarakhand, and India's largest 10-feet monolithic white marble stone sculpture of Sri Ramakrishna Paramahamsa in Mysuru. He has also created sculptures of various deities installed in temples across India.
+
+For the Ram Lalla idol, Yogiraj and the other two sculptors were given stones from different places, including Nepal
+
+Tue, 02 Jan 2024 08:59:39 +0000
+### [Why truck drivers across states are protesting against new law for hit-and-run cases](https://indianexpress.com/article/explained/truck-drivers-protesting-against-new-law-hit-and-run-9091719/)
+
+#### Summary of Nationwide Transportation Strike
+
+The nationwide transportation strike, which began on January 1, has entered its second day, leading to significant disruptions in various states across India. The strike was initiated by truck, bus, and tanker drivers to protest the stringent jail and fine regulations under the newly implemented Bharatiya Nyay Sanhita (BNS) for hit-and-run cases.
+
+#### New Law on Hit-and-Run Cases
+Under the new law, drivers who cause a serious road accident by negligent driving and flee the scene without informing the authorities can face punishment of up to 10 years in prison or a fine of Rs 7 lakh.
+
+#### Reasons for Protest
+Private transport operators claim that the new law discourages drivers and may lead to unjust punishments. They also express concerns about the potential for drivers to face mob violence when attempting to transport the injured to hospitals. The All India Motor & Goods Transport Association President emphasized the lack of prior consultations with stakeholders and the need for discussions on the issue.
+
+#### Impact of the Strike
+The strike has led to road blockades and disruptions in states like Gujarat, Rajasthan, Maharashtra, and Madhya Pradesh, affecting vehicle movement and fuel supply. Reports indicate lengthy queues at petrol pumps in various states, including Himachal Pradesh and Maharashtra. In Madhya Pradesh, nearly five lakh vehicles were reportedly impacted by the strike [[1]](https://indianexpress.com/article/explained/truck-drivers-protesting-against-new-law-hit-and-run-9091719/).
+
+The strike has caused significant disruptions in the transportation and fuel supply sectors, prompting widespread concern and inconvenience for the public [[1]](https://indianexpress.com/article/explained/truck-drivers-protesting-against-new-law-hit-and-run-9091719/).
+
+For more detailed information, you can refer to the full article from the provided sources.
+
+Tue, 02 Jan 2024 05:58:41 +0000
+### [How China and the US first established diplomatic ties 45 years ago, why Taiwan became a sticking point](https://indianexpress.com/article/explained/explained-global/us-china-diplomatic-ties-history-9091388/)
+
+Chinese President Xi Jinping and US President Joe Biden exchanged greetings on the anniversary of diplomatic ties being established between their countries. The normalization agreement was signed in 1979 after years of attempts at a formal relationship. Efforts from diplomats, leaders, and allies on both sides led to the establishment of Liaison Offices in Beijing and Washington, which functioned as informal diplomatic posts. The 1972 Shanghai Communique acknowledged the desire for closer ties and referred to Taiwan as part of China. Normalization was delayed due to changes in political leadership on both sides, but eventually happened in 1979. The US Congress approved the Taiwan Relations Act, allowing informal relations between the US and Taiwan and for US arms sales to the island. Despite obstacles and disagreements, strong leadership in both countries led to success in ending thirty years of diplomatic estrangement by focusing on mutual interests rather than ideology.
+
+Mon, 01 Jan 2024 13:57:24 +0000
+### [Is 2024 a leap year? Why does a leap year not come every four years?](https://indianexpress.com/article/explained/everyday-explainers/is-2024-a-leap-year-why-does-a-leap-year-not-come-every-four-years-9090829/)
+
+A leap year is a year that has 366 days instead of the usual 365 days. The extra day, February 29, is added to the calendar to account for the fact that the Earth takes approximately 365 days, 5 hours, 48 minutes, and 46 seconds to revolve around the Sun. Without the addition of a leap day every four years, the calendar and the seasons would gradually get out of sync, causing confusion with crop cycles and seasons starting at different times of the year [[1]](https://indianexpress.com/article/explained/everyday-explainers/is-2024-a-leap-year-why-does-a-leap-year-not-come-every-four-years-9090829/) [[2]](https://www.rmg.co.uk/stories/topics/which-years-are-leap-years-can-you-have-leap-seconds) [[3]](https://www.almanac.com/when-next-leap-year).
+
+The concept of a leap year was introduced by scholars engaged by Julius Caesar in 46 BC and was made more precise from 12 AD. The Julian calendar, which was in use at that time, had a year that was usually 365 days long, with a 366th day added once every four years. However, this method was not error-free, as the calculation of six hours for the extra time was slightly different from the actual 5 hours, 48 minutes, and 46 seconds. This discrepancy led to the calendar year being slightly longer than the solar year [[2]](https://www.rmg.co.uk/stories/topics/which-years-are-leap-years-can-you-have-leap-seconds).
+
+In the 16th century, it was realized that the calendar years until then had accumulated 10 extra days. To address this, Pope Gregory XIII ordered a drastic compensation by dropping 10 days from the calendar in 1582. This adjustment, known as the Gregorian calendar reform, also introduced a new leap year system. According to the Gregorian calendar, every year that is exactly divisible by four is a leap year, except for years that are exactly divisible by 100. However, years that are divisible by 400 are still considered leap years. For example, the years 1700, 1800, and 1900 were not leap years, but the years 1600 and 2000 were leap years [[2]](https://www.rmg.co.uk/stories/topics/which-years-are-leap-years-can-you-have-leap-seconds) [[6]](https://en.wikipedia.org/wiki/Leap_year).
+
+The next leap year after 2024 will be in 2028 [[2]](https://www.rmg.co.uk/stories/topics/which-years-are-leap-years-can-you-have-leap-seconds) [[5]](https://www.timeanddate.com/date/leapyear.html).
+
+Mon, 01 Jan 2024 12:45:26 +0000
+### [Gangster Goldy Brar declared designated terrrorist under UAPA: What this means](https://indianexpress.com/article/explained/explained-law/goldy-brar-designated-terrrorist-uapa-sidhu-moosewala-9090652/)
+
+**Title: Gangster Goldy Brar Declared Designated Terrorist Under UAPA**
+
+#### Summary:
+Gangster Goldy Brar, the mastermind behind the murder of Punjabi singer Sidhu Moosewala, has been declared a designated terrorist by the Indian government under the Unlawful Activities (Prevention) Act (UAPA). This designation allows the government to take action against individuals involved in acts of terror. The UAPA defines a "terrorist act" as any act committed with the intent to threaten the unity, integrity, security, economic security, or sovereignty of India, or to strike terror in the people. The 2019 amendments to the UAPA empower the government to designate individuals as terrorists and take necessary measures to combat terrorism. The designation of an individual as a terrorist can lead to sanctions such as travel bans and freezing of assets. The amendment also provides avenues for individuals to challenge the government's order through review committees and the courts.
+
+#### Key Points:
+- Gangster Goldy Brar, responsible for the murder of Punjabi singer Sidhu Moosewala, has been declared a designated terrorist under the UAPA.
+- The UAPA defines a "terrorist act" as any act committed with the intent to threaten the unity, integrity, security, economic security, or sovereignty of India, or to strike terror in the people.
+- The 2019 amendments to the UAPA allow the government to designate individuals as terrorists if they are found involved in acts of terror.
+- The designation of an individual as a terrorist can result in sanctions such as travel bans, freezing of assets, and an embargo on procuring arms.
+- The amendment also provides individuals with the right to challenge the government's order through review committees and the courts.
+
+[[1]]
+
+Mon, 01 Jan 2024 12:02:57 +0000
+### [Japan earthquake triggers tsunami warning: What is a tsunami, why does it keep forming in the island country?](https://indianexpress.com/article/explained/everyday-explainers/japan-tsunami-earthquake-9090621/)
+
+#### Summary of "Tsunami waves hit several parts of Japan’s coastal areas and urgent evacuation warnings were issued after a 7.6-magnitude earthquake shook the country’s north-central region on Monday (January 1)"
+
+On Monday (January 1), Japan experienced a 7.6-magnitude earthquake in its north-central region, leading to tsunami waves hitting several coastal areas. Urgent evacuation warnings were issued, and Japanese Prime Minister Fumio Kishida urged citizens to closely follow evacuation orders and warned of the possibility of more powerful quakes and tsunami waves. Tsunamis are giant ocean waves caused by earthquakes or volcanic eruptions under the ocean. They can reach hundreds of feet in height and travel as fast as jet planes over deep waters, slowing down when reaching shallow waters. Japan is prone to earthquakes and tsunamis due to its location along the 'Pacific Ring of Fire', the most active earthquake tectonic belt in the world. This region experiences frequent earthquakes, volcanic eruptions, and tsunamis due to the constant meshing and colliding of tectonic plates.
+
+The 2011 earthquake and tsunami in Japan resulted in around 18,000 deaths, displaced tens of thousands, and led to a nuclear meltdown at the Fukushima power plant, causing the most severe nuclear accident since the 1986 Chernobyl disaster in the Soviet Union.
+
+**Key Points:**
+- Japan experienced a 7.6-magnitude earthquake in its north-central region on Monday, leading to tsunami waves hitting several coastal areas.
+- Urgent evacuation warnings were issued, and Japanese Prime Minister Fumio Kishida urged citizens to closely follow evacuation orders and warned of the possibility of more powerful quakes and tsunami waves.
+- Tsunamis are giant ocean waves caused by earthquakes or volcanic eruptions under the ocean.
+- Japan is prone to earthquakes and tsunamis due to its location along the 'Pacific Ring of Fire', the most active earthquake tectonic belt in the world.
+
+ 
+[[2]](https://indianexpress.com/article/world/japan-earthquake-tsunami-warning-live-updates-9090178/)
+
+Mon, 01 Jan 2024 09:12:46 +0000
+### [Remembering independent India’s ‘Jallianwala Bagh’: The Kharsawan massacre of 1948](https://indianexpress.com/article/explained/explained-history/kharsawan-massacre-jharkhand-tribal-9090377/)
+
+#### Summary of the Kharsawan Massacre
+
+On January 1, 1948, the town of Kharsawan in present-day Jharkhand experienced a tragic massacre when police opened fire on a crowd gathered for a protest and the weekly market, resulting in the deaths of hundreds, if not thousands, of Adivasis. This event has left a lasting impact, with many in Jharkhand observing New Year’s Day as a day of mourning and remembrance.
+
+**Struggle for an Adivasi State**
+The demand for a separate tribal state in the region dates back to 1912, and it gained momentum over the years. Despite official recognition by the Simon Commission in 1930, the Adivasis' demands remained unheard. The Adivasi Mahasabha, led by Jaipal Singh Munda, continued the struggle for a separate Adivasi state.
+
+**Events Leading to the Massacre**
+At the time of Independence, Kharsawan and neighboring Saraikela decided to accede to the Union of India and join the state of Orissa, despite the majority of Adivasis opposing this merger. In protest, a large gathering was called at Kharsawan on January 1, 1948, the day of the merger and the weekly market. The absence of Jaipal Munda, the leader of the Adivasi movement, and the large and enthusiastic crowd spooked the Orissa military police, leading to a tragic turn of events.
+
+**The Massacre**
+The police opened fire on the crowd, resulting in a significant loss of life. The exact number of casualties remains a point of contention, with the Orissa government confirming only 35 deaths, while other accounts suggest a much higher toll, possibly reaching thousands. The responsible party behind the massacre remains unclear, with no definitive report on the matter.
+
+**Aftermath**
+To this day, there is no consensus on the number of lives lost in the massacre, and the responsible party remains unidentified. A memorial now stands at the marketplace in Kharsawan, serving as a "political pilgrimage" site in the state, with various state leaders visiting it on New Year’s Day over the years.
+
+This tragic event serves as a poignant reminder of the struggles and sacrifices made by the Adivasi community in their quest for recognition and autonomy.
+
+Mon, 01 Jan 2024 09:01:22 +0000
+### [ISRO launches XPoSat: What is the mission and its significance?](https://indianexpress.com/article/explained/explained-sci-tech/isro-launches-xposat-9090416/)
+
+The Indian Space Research Organisation (ISRO) successfully launched the X-ray Polarimeter Satellite (XPoSat) into a precise circular orbit of 650 km. This is the world's second satellite-based mission dedicated to making X-ray polarimetry measurements. XPoSat is India’s first mission dedicated to analyzing the polarization of X-rays emanating from bright celestial sources in the medium frequency band. The spacecraft comprises two payloads, including Indian X-ray Polarimeter (POLIX) and X-ray Spectroscopy and Timing (XSPECT). These payloads will observe sources that emit polarized X-rays, such as magnetars or neutron stars, during the eclipse period. POLIX is designed to operate in the medium X-ray energy band of 8 to 30 kilo electron Volt (keV), while XSPECT will conduct fast timing and high spectroscopic resolution in a soft X-ray energy band of 0.8-15 keV. XPoSat will observe persistent sources and transient sources out in space, which get polarized due to multiple causes such as strong magnetic fields or interactions with material present around black holes. The mission aims to improve understanding of celestial bodies and unravel some unknown mysteries of the Universe by studying polarized X-rays emanating from these sources.
+
+Mon, 01 Jan 2024 08:04:59 +0000
+### [Farm and Food Policy: How Modi government has swung from pro-producer to pro-consumer in the last two years](https://indianexpress.com/article/explained/explained-economics/farm-policy-modi-government-analysis-9090344/)
+
+The article discusses the changes in food inflation and agricultural policies during the first and second terms of the Narendra Modi government. During Modi 1.0, there was low inflation and surplus agricultural commodities, leading to various policy responses such as increased foodgrain allocation and sugar exports. However, during Modi 2.0, food inflation has increased, leading to changes in import duties on edible oils and pulses. The article also mentions the enactment of farm reform laws in June 2020, which were later repealed in November 2021 due to changing supply situations. The government's priority now is to ensure that more cane goes for food (sugar) than for fuel (ethanol). The article concludes by stating that restrictions on exports and stock limits are likely to remain until the Lok Sabha polls scheduled in April-May 2024.
+
+Mon, 01 Jan 2024 02:00:45 +0000
+### [In 2023, Indian science went for the Moon and reached for the Sun. What’s planned for 2024?](https://indianexpress.com/article/explained/explained-sci-tech/indian-science-on-the-moon-reaching-for-the-sun-pushing-new-frontiers-9090037/)
+
+The article discusses the significant developments in India's space program and scientific research in 2023. The Indian Space Research Organisation (ISRO) achieved several milestones, including the successful Chandrayaan-3 and Aditya-L1 missions, marking a shift towards planetary exploration. ISRO also announced ambitious future plans, such as sending an astronaut to the International Space Station, Chandrayaan-4, a sample return mission from the Moon, and a human landing on the Moon by 2040.
+
+**ISRO's Achievements and Partnerships**
+The article highlights the success of Chandrayaan-3, demonstrating ISRO's capabilities and intention for more advanced missions. It also discusses ISRO's partnerships with NASA for joint space missions, including the International Space Station, and its participation in the US-led Artemis Accords for planetary exploration.
+
+**National Research Foundation and Scientific Initiatives**
+The Indian government approved the National Research Foundation (NRF) to fund and promote research activities, aiming to develop research capacities in universities and colleges. Additionally, India launched the National Quantum Mission and approved the LIGO-India project to build a gravitational wave observatory. Furthermore, India announced plans to set up a new research station in Antarctica and send the first winter expedition to the Arctic region.
+
+**Upcoming Launches and Research Challenges**
+The article also mentions the upcoming high-profile launches in 2024, such as the XPoSat and the NASA-ISRO Satellite Aperture Radar (NISAR). It reflects on the challenges faced by India in scientific research, including low research funding as a percentage of GDP, gender disparities in scientific research, and the number of researchers per million population.
+
+The article provides insight into India's significant achievements in space exploration and scientific research in 2023, as well as the ambitious plans and partnerships for the future. It also highlights the challenges and initiatives aimed at advancing scientific research in India.
+
+Sun, 31 Dec 2023 14:20:03 +0000
+### [Red Sea attacks: Why many US allies have not joined its Op Prosperity Guardian](https://indianexpress.com/article/explained/explained-global/red-sea-attacks-arab-us-op-prosperity-guardian-9089791/)
+
+#### Summary:
+
+The United States military, as part of Operation Prosperity Guardian, opened fire on Yemen's Houthi rebels in the Red Sea. The USS Gravely destroyer shot down two anti-ship ballistic missiles fired at a Maersk ship. The recent attacks on ships in the Red Sea have led to a pause in the movement of cargo. The Houthis claimed responsibility for the attacks, which were launched in protest against Israel's military strikes on the Gaza Strip. The joint security initiative, announced by US Secretary of State Lloyd Austin, aims to aid the safe movement of ships. However, some US allies have yet to commit to the operation. The reluctance of other countries to join the mission may be due to concerns about getting involved in a global flashpoint and criticism over their prior stance on the Israel-Hamas conflict. Saudi Arabia, in particular, has played a role in supporting anti-Houthi forces in the Yemen civil war and is pursuing closer ties with Iran, believed to be backing the Houthis. Several countries have joined Operation Prosperity Guardian, but they are not publicly declaring themselves as partners. Australia, for example, is tripling its contribution to the Combined Maritime Forces instead of sending a ship or a plane. The operation will be coordinated by the Combined Task Force 153, which was established to improve maritime security in the Red Sea, Bab el-Mandeb, and the Gulf of Aden.
+
+Sun, 31 Dec 2023 13:07:56 +0000
+### [South Africa files genocide case against Israel at ICJ: Why the African nation supports Gaza so strongly](https://indianexpress.com/article/explained/everyday-explainers/why-south-africa-filed-genocide-case-israel-icj-9089770/)
+
+#### South Africa's Action Against Israel at the International Court of Justice
+
+South Africa has taken the unprecedented step of approaching the International Court of Justice (ICJ) to seek an urgent order declaring that Israel is in breach of its obligations under the 1948 Genocide Convention. This move comes amid international criticism of Israel for its continued bombing of Gaza [[1]](https://indianexpress.com/article/explained/everyday-explainers/why-south-africa-filed-genocide-case-israel-icj-9089770/).
+
+#### Reasons for South Africa's Sympathy to Gaza and the 1948 Genocide Convention
+
+**South Africa's Solidarity with Gaza:** South Africa's solidarity with Gaza can be traced back to its own history of discrimination and disempowerment, which has made the country sensitive to the plight of Palestinians dominated by the Israelis. This solidarity is also rooted in the country's historical experience of colonialism and occupation, similar to that of Palestine [[6]](https://press.un.org/en/2023/gapal1454.doc.htm).
+
+**The 1948 Genocide Convention:** The 1948 Genocide Convention, adopted by the United Nations General Assembly, defines genocide as specific acts committed with the intent to destroy a national, ethnical, racial, or religious group. These acts include killing members of the group, causing serious bodily or mental harm, deliberately inflicting conditions of life calculated to bring about physical destruction, imposing measures to prevent births, and forcibly transferring children of the group to another group [[1]](https://indianexpress.com/article/explained/everyday-explainers/why-south-africa-filed-genocide-case-israel-icj-9089770/).
+
+#### South Africa's Application to the ICJ and Israel's Response
+
+**Application to the ICJ:** South Africa's application to the ICJ urges for a hearing and the issuance of "provisional measures" to prevent the violence in Gaza. The country's presidency stated that it was obliged "to prevent genocide from occurring" [[5]](https://www.cnn.com/2023/12/29/middleeast/south-africa-icj-israel-genocide-intl/index.html).
+
+**Israel's Reaction:** Israel has reacted strongly to South Africa's move, rejecting the allegation with disgust and describing it as "baseless" and a "blood libel" [[2]](https://www.bbc.com/news/world-africa-67844551).
+
+#### South Africa's Historical Position and Current Stance
+
+**Historical Position:** South Africa's historical position was largely the same as many other African countries after the creation of Israel. However, over time, many African nations, including South Africa, softened their stand towards Israel due to various factors such as trade and technological advancements.
+
+**Current Stance:** Despite potential gains from a good relationship with Israel, South Africa has stayed steadfast in its support of Palestine due to its deep links with anti-discrimination activism and its resistance to a worldview governed by the West's stand on important matters.
+
+In summary, South Africa's application to the ICJ against Israel and its accusation of genocide are rooted in historical solidarity with Gaza and a commitment to preventing genocide, as defined by the 1948 Genocide Convention. This move has added to the criticism Israel has been facing from various non-West quarters and reflects South Africa's historical position and current stance on the Israel-Palestine conflict.
+
+Sun, 31 Dec 2023 11:50:00 +0000
+### [Warming up to climate change: Is Earth becoming warmer?](https://indianexpress.com/article/explained/explained-climate/climate-change-explained-is-earth-becoming-warmer-9089638/)
+
+Article found but Couldn't summarize
+
+Sun, 31 Dec 2023 09:02:35 +0000
+### [How Yemen’s peace plan could boost the Houthis’ regional influence](https://indianexpress.com/article/explained/explained-global/yemen-peace-plan-houthis-explained-9089541/)
+
+The article discusses the current situation in war-torn Yemen and the ongoing negotiations between various parties, including Saudi Arabia, the Presidential Leadership Council, and the Houthi militia. The United Nations special envoy for Yemen is optimistic about the potential for peace in 2024, but some observers are less enthusiastic. The article also highlights the changing dynamics in the region, including Saudi Arabia's desire to exit the costly war and improve ties with Israel. Additionally, it discusses the threat posed by the Houthi militia, particularly their ability to disrupt maritime shipping in the Red Sea. Overall, the article paints a complex picture of the situation in Yemen and its broader regional implications.
+
+Sun, 31 Dec 2023 02:30:24 +0000
+### [Security for 2002 Gujarat riots witnesses withdrawn: Everything you need to know about witness protection in India](https://indianexpress.com/article/explained/explained-law/witness-protection-india-9089178/)
+
+#### Summary:
+
+The Supreme Court-appointed special investigation team (SIT) re-investigating nine 2002 Gujarat riots cases has withdrawn police and paramilitary protection to all the witnesses, except for Zakia Jafri, the widow of Congress MP Ehsan Jafri, who filed a complaint against then-CM Narendra Modi. The term "witness" is widely used in criminal law but hasn't been properly defined in the statute books. However, Section 161 of the Criminal Procedure Code (CrPC) allows investigating police officers to examine anyone "supposed to be acquainted" with the case's facts and circumstances. Witness protection schemes have been discussed in various reports and bills, including the Criminal Law (Amendment) Bill, 2003, and the Justice VS Malimath Committee Report (2003). The Supreme Court drew up a nationwide Witness Protection Scheme in December 2018, which operates by categorizing threat perceptions for witnesses and providing protective measures. The scheme was finalized in consultation with the National Legal Services Authority [[1]](https://indianexpress.com/article/explained/explained-law/witness-protection-india-9089178/).
+
+#### Withdrawal of Witness Protection in Gujarat Riots Cases:
+
+The Supreme Court-appointed special investigation team (SIT) re-investigating nine 2002 Gujarat riots cases has withdrawn police and paramilitary protection to all the witnesses, including retired judge Jyotsana Yagnik. The only exception has been made for Zakia Jafri, the widow of Congress MP Ehsan Jafri, who filed a complaint against then-CM Narendra Modi [[1]](https://indianexpress.com/article/explained/explained-law/witness-protection-india-9089178/).
+
+#### Definition of a Witness:
+
+The term "witness" is widely used in criminal law but hasn't been properly defined in the statute books. However, Section 161 of the Criminal Procedure Code (CrPC) allows investigating police officers to examine anyone "supposed to be acquainted" with the case's facts and circumstances. It also states that the witness is bound to answer all questions "truly" but needn't answer questions that expose them to criminal charges, penalties, or forfeiture [[1]](https://indianexpress.com/article/explained/explained-law/witness-protection-india-9089178/).
+
+#### Witness Protection Schemes in India:
+
+Section 398 of the Bharatiya Nagarik Suraksha Sanhita, which has replaced the CrPC, states that every state government shall prepare and notify a Witness Protection Scheme for the state to ensure the protection of witnesses. Various reports and bills have discussed the need for witness protection, including the Fourteenth Report of the Law Commission in 1958, the Criminal Law (Amendment) Bill, 2003, and the Justice VS Malimath Committee Report (2003). The Supreme Court drew up a nationwide Witness Protection Scheme in December 2018, which operates by categorizing threat perceptions for witnesses and providing protective measures [[1]](https://indianexpress.com/article/explained/explained-law/witness-protection-india-9089178/).
+
+#### Efforts to Protect Witnesses:
+
+The Criminal Law (Amendment) Bill, 2003, proposed amendments to sections 161, 162, and 344 of the CrPC to prevent witnesses from turning hostile. However, the bill didn't address the lack of power trial courts have in protecting witnesses. The Justice VS Malimath Committee Report (2003) recommended enacting a law for witness protection similar to laws in the USA and other countries. The Delhi government notified a witness protection scheme in July 2015. The Supreme Court directed the Centre, states, and UTs to enforce the witness protection scheme "in letter and spirit" until a law is enacted on it [[1]](https://indianexpress.com/article/explained/explained-law/witness-protection-india-9089178/).
+
+#### Witness Protection Scheme:
+
+The Witness Protection Scheme, finalized in December 2018, operates by identifying three categories of threat perceptions for witnesses. Category A includes cases where threats extend to witnesses or their families' lives during an investigation, trial, or after. Categories B and C relate to cases where threats extend to the witness's safety, reputation, or property during the investigation or trial, and cases where there is a moderate threat perception, like harassment or intimidation of the witness or their family, respectively. The scheme provides various protective measures, such as ensuring witnesses and accused don't come face-to-face during the probe, protection of identity, relocation of witnesses, confidentiality and preservation of records, and recovery of expenses [[1]](https://indianexpress.com/article/explained/explained-law/witness-protection-india-9089178/).
+
+#### Conclusion:
+
+Efforts have been made in India to protect witnesses, including the establishment of a nationwide Witness Protection Scheme in December 2018. However, the recent withdrawal of witness protection in the 2002 Gujarat riots cases raises concerns about the safety and well-being of witnesses. The need for witness protection has been recognized in various reports and bills, and steps have been taken to address this issue. It is important to ensure the effective implementation of witness protection measures to uphold the integrity of the criminal justice system and provide a safe environment for witnesses to come forward and testify [[1]](https://indianexpress.com/article/explained/explained-law/witness-protection-india-9089178/)
+
+Sat, 30 Dec 2023 11:49:27 +0000
+### [Ayodhya airport named after Valmiki: 5 interesting facts about the poet-sage](https://indianexpress.com/article/explained/explained-culture/ayodhya-airport-valmiki-poet-sage-9088727/)
+
+Prime Minister Narendra Modi inaugurated the Maharishi Valmiki Airport in Ayodhya, which is named after the author of the oldest version of Ramayana. Valmiki is referred to as Adi Kavi, or the “first/original poet” in Sanskrit and is credited with composing the Ramayana. The epic is divided into 7 cantos, and Valmiki himself makes an appearance in the first and last chapters. There are many versions of the Ramayana, but Tulsidas’s Ramcharitmanas is more popular today. There is a debate surrounding Valmiki's caste, with some sources identifying him as a Brahmin and others claiming he was from a lower caste. His popular origin story involves his transformation from a feared dacoit and hunter to a great sage after encountering Sage Narada.
+
+Sat, 30 Dec 2023 07:43:15 +0000
+### [Expert Explains: How the Northeast was ‘invented’, 52 years ago](https://indianexpress.com/article/explained/northeast-invented-52-years-9088425/)
+
+The article discusses the "invention" of Northeast India as an administrative concept and the creation of the North-Eastern Council in 1971. Prior to this, the region was part of colonial Assam, with Manipur and Tripura as princely states. Sikkim, although juridically independent, became part of the Northeast in 2001. The article highlights the region's unique position as a frontier province with distinct governance and security concerns. It also mentions the challenges faced by Northeasterners, including racial stereotypes and misrecognition. The naming and governance structure of the region were ad hoc decisions that aimed to address national security concerns but created new problems as well.
+
+#### Creation of Northeast India
+The North-Eastern Areas (Reorganisation) Act and the North-Eastern Council Act were enacted by Parliament on December 30, 1971, officially establishing Northeast India as an administrative concept. This replaced the previous unit of public imagination, Assam.
+
+#### Composition of Northeast India
+Northeast India comprises eight states: Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, and Tripura. These states are part of the North-Eastern Council, a statutory advisory body involved in development planning and region-level policy making.
+
+#### Historical Background
+Before Independence, five of the present-day states in Northeast India (Arunachal Pradesh, Assam, Meghalaya, Nagaland, Mizoram) were part of colonial Assam. Manipur and Tripura were princely states, while Sikkim was juridically independent but under British paramountcy. Sikkim became part of the Northeast in 2001.
+
+#### Frontier Province and Security Concerns
+Colonial Assam was a "frontier province" in British India, with a different political and legal setup compared to the rest of the country. The region's borders became international after Independence, and national security concerns were heightened in the 1960s due to the border war with China, the Naga independence movement, and conflicts with Pakistan. The creation of the state of Nagaland in 1963 was an attempt to address the rebellion and marked the beginning of a new governance structure.
+
+#### Challenges Faced by Northeasterners
+Northeasterners have often faced racial slurs and misrecognition based on phenotypic stereotypes. The term "Northeasterner" is commonly used outside the region, but self-identification is usually based on specific ethnic or regional identities. This highlights the othering of the region and the hierarchical relation between Northeast India and the rest of the country.
+
+In summary, the article discusses the establishment of Northeast India as an administrative concept in 1971 and the unique historical and governance background of the region. It also highlights the challenges faced by Northeasterners in terms of racial stereotypes and misrecognition
+
+Sat, 30 Dec 2023 07:37:10 +0000
+### [Uttarakhand CM forms panel to examine 2022 land law committee report: What is the issue — and what did the report say](https://indianexpress.com/article/explained/uttarakhand-land-law-9088443/)
+
+The Uttarakhand Chief Minister, Pushkar Singh Dhami, has formed a five-member committee to study a 2022 draft report that recommended amending the state's land laws. This decision came after social organizations in Uttarakhand held a rally demanding stricter land laws to prevent the large-scale sale of land to outsiders. They also called for an increase in the minimum number of years required for non-Uttarakhand residents to obtain domicile certificates.
+
+The issue began in 2003 when the then Chief Minister, ND Tiwari, introduced restrictions on land purchases in hilly areas by non-Uttarakhand residents. However, these restrictions were lifted in 2017 by Chief Minister Trivendra Rawat, triggering discontent among the locals. Responding to the pressure, Chief Minister Pushkar Singh Dhami formed a committee to examine the state's land laws.
+
+The committee, headed by ex-chief secretary Subhash Kumar, submitted a report with 23 recommendations. One key recommendation was the introduction of an 'essentiality certificate' similar to Himachal Pradesh, which would be required for non-agriculturists or non-residents wishing to purchase land in Uttarakhand. The committee also recommended strict action against illegal structures or religious places on rivers, forest areas, pastures, or public land.
+
+While the recommendations have not been implemented yet, the Uttarakhand government has formed a new committee to conduct a detailed study of the report submitted by the previous committee.
+
+Sat, 30 Dec 2023 06:34:33 +0000
+### [Navy unveils new epaulettes for Admirals: What are the changes, what do they signify?](https://indianexpress.com/article/explained/navy-new-epaulettes-shivaji-9088379/)
+
+The Indian Navy has introduced a new design for epaulettes worn by senior officers as part of its efforts to move away from colonial legacies in customs and traditions. The new design is drawn from the naval ensign and inspired by the Rajmudra of Maratha ruler Chhatrapati Shivaji Maharaj, reflecting the rich maritime heritage of the Marathas. Prime Minister Narendra Modi announced the new design during his Navy Day address, and it includes a new golden Navy button carrying the new naval crest, a red octagon backing the national emblem, and symbols representing national power, winning wars, and long-term vision. The change aligns with efforts to discard colonial-era vestiges, customs, and traditions within the Indian Armed Forces, including allowing Indian attire in officers' mess and wardrooms, reviewing British-inherited ranks, and incorporating more indigenous texts in military training. Additionally, last year's Beating Retreat ceremony replaced the Christian hymn Abide With Me with Aye Mere Watan Ke Logon, and there are efforts to restrain the use of foreign names for military exercises and call signs.
+
+Sat, 30 Dec 2023 02:30:43 +0000
+### [Donkey routes: En route Europe, how Indians visit several countries to create ‘travel history’](https://indianexpress.com/article/explained/donkey-routes-europe-9087898/)
+
+According to an article, Serbia changed its visa rules last year under pressure from the European Union. The reason for this change was that Serbia was being used as an illegal transit route to Europe by many, including Indians. The visa-free regime for Indians, along with nationals from Turkey, Tunisia, Cuba, and Burundi, was being exploited to enter bordering countries like Austria, Hungary, and Romania, and ultimately reach Italy and France. To address this issue, Serbia withdrew visa-free arrivals from these countries in October 2022.
+
+The transit phenomenon came to light when European authorities recorded over 130,000 illegal immigrants in the first 10 months of 2022, many of whom were nationals of the countries allowed visa-free arrivals by Serbia. In the case of Indians, migrants were asked to enter Serbia after visiting other destinations such as Nepal, Dubai, and Armenia to show a "considerable travel history" on their passports and appear as genuine travelers to immigration authorities. This pattern of creating a travel history to come across as tourists to immigration authorities has been observed in other cases as well.
+
+In most cases, migrants are connected with people smugglers, known as "donkers," upon arrival in the transit country. These donkers help migrants enter their final destination illegally, often charging exorbitant fees for their services. Many of these migrants are transported in harsh and inhuman conditions, hiding in cramped containers and delivery vehicles, without food, water, or proper ventilation. Tragedies, such as drowning in unsafe vessels or suffocating in overcrowded trucks and ships, have been reported. Those who do reach their destination often find themselves trapped in cycles of exploitation and abuse.
+
+The article also mentions that a significant number of Indians are believed to be stranded in Spain, where they entered illegally, and are now seeking general amnesty. Indian detainees have also been reported in countries like Ukraine, Turkey, Slovakia, Malaysia, Romania, and Poland, presumably on their way to Western European countries. However, reliable data on the number of Indians staying or working illegally in foreign countries is not available.
+
+It is important to note that the information provided is a summary of the article and may not include all the details. For more comprehensive information, it is recommended to refer to the original article.
+
+Sat, 30 Dec 2023 01:45:54 +0000
+### [ULFA peace accord: history of its 44-year-long insurgency, peace talks](https://indianexpress.com/article/explained/explained-politics/ulfa-peace-accord-history-of-its-44-year-long-insurgency-peace-talks-9088017/)
+
+The pro-talks faction of the United Liberation Front of Asom (ULFA) signed a historic tripartite peace deal with the Government of India and the state government of Assam. The article provides a background on the ULFA, which was established in 1979 as a response to the influx of migrants into Assam and the resulting competition for resources. The group sought to establish a sovereign Assamese nation through armed struggle against the Indian state. Over the years, ULFA has been involved in kidnappings, extortion, executions, and bomb blasts, leading to tragic loss of life. The Indian state has responded with operations and arrests, and there have been allegations of support for certain factions of ULFA. The group also has links to other insurgent outfits in the Northeast and Myanmar, as well as Islamic terror outfits like Harkat-ul-Jihad-e-Islami and Al-Qaeda. Despite internal divisions and opposition to peace talks from some members, a pro-talks faction submitted a 12-point charter of demands to the central government in 2012, leading to discussions and ultimately the tripartite peace agreement signed in April. The article concludes with differing opinions on how fruitful the agreement will be and statements from Assam's Chief Minister and Union Home Minister expressing confidence in the potential for peace in Assam.
+
+Sat, 30 Dec 2023 01:37:49 +0000
+### [Sports in 2024: Cricket’s Game of Thrones and India’s Olympic dreams](https://indianexpress.com/article/explained/explained-sports/politics-and-sport-arts-of-the-possible-9088072/)
+
+The article discusses the intertwining of sports and politics, particularly in the context of India's upcoming general elections and the Paris Olympics in 2024. The author highlights the use of sporting metaphors in political discourse and the influence of politics on sports, as well as the reciprocal relationship between the two domains.
+
+### Political Discourse and Sporting Metaphors
+Politicians often use sporting metaphors to convey their messages during elections, and sporting chatter is integrated into the language of politics. The article emphasizes that politics and sports will continue to be significant topics in the national conversation, drawing from each other.
+
+### Intersection of Politics, Sports, and Elections
+The year 2024 marks both the general elections in India and the Paris Olympics, creating a connection between excellence in sports and the government's performance in policy, planning, and execution. The author suggests that there is at least a notional connection between medals in sports and votes in the elections.
+
+### Impact on Indian Cricket
+The article also delves into the impact of politics and power dynamics on Indian cricket, particularly the leadership drama within teams such as the Mumbai Indians and the Chennai Super Kings. It discusses the potential changes in leadership and the federal structure of cricket beyond the national team, drawing parallels to the TV drama "Succession."
+
+### Sporting Achievements and Government Support
+The success of Indian athletes, such as Neeraj Chopra's javelin gold at the Tokyo Olympics, is highlighted as a significant moment, with the government's support through initiatives like the Target Olympics Podium Scheme (TOPS) contributing to the athletes' achievements. The article emphasizes the shift in India's track and field legacy and the positive impact of coaching and planning expertise, supported by government funding.
+
+### Anticipation for the Paris Olympics
+The article looks ahead to the Paris Olympics in 2024, highlighting the hopeful prospects of Indian athletes across various sports, including track and field, boxing, badminton, shooting, golf, wrestling, and hockey. It discusses the potential for India to achieve significant success at the world stage, which would amplify the Modi government's sporting vision.
+
+### Future of Indian Cricket and Dhoni's Role
+The article raises questions about the future of Indian cricket, including the leadership of players like Rohit Sharma and Virat Kohli, as well as the potential roles of players like Hardik Pandya. It also speculates on the future involvement of veteran cricketer MS Dhoni, considering possibilities such as coaching, mentoring, or a larger role in Indian cricket.
+
+### Intersection of Sports and Politics
+The article concludes by highlighting the potential for sports to borrow ideas from politics, hinting at the interplay between these domains.
+
+Overall, the article provides a comprehensive overview of the intertwining of sports and politics in the context of India's upcoming general elections and the Paris Olympics in 2024, covering a wide range of topics from political discourse to the achievements and prospects of Indian athletes.
+
+Fri, 29 Dec 2023 14:21:26 +0000
+### [Donald Trump has been disqualified from two US states’ election ballots. Can he become President again?](https://indianexpress.com/article/explained/explained-global/donald-trump-disqualified-election-ballots-president-9087789/)
+
+#### Summary:
+
+Former US President Donald Trump has been disqualified from appearing on the presidential primary ballot in the state of Maine, making it the second state to remove him from the ballot after Colorado. The disqualification is related to Trump's alleged role in the January 6, 2021 attacks on the US Capitol. Trump has been accused of inciting an insurrection by spreading false claims about voter fraud in the 2020 election and calling for his supporters to march on the Capitol. The disqualifications raise questions about Trump's candidacy for the 2024 Presidential elections. While no law bars convicted candidates from running for office, the disqualifications under the 14th Amendment are unique and have never been invoked against a former President before. The case could potentially reach the Supreme Court, where larger legal questions about the 14th Amendment and the power of courts to order candidates off the ballots would need to be considered. The ruling is expected to go in Trump's favor, given the current majority of conservative judges on the Supreme Court. The removal of Trump from the primary ballot in Maine and Colorado could impact his prospects in the November elections, particularly in Maine where he won one of the state's four Electoral College votes in 2020. However, in traditionally Democratic-leaning Colorado, Trump's removal would not significantly impact the election results.
+
+#### Reasons for Disqualification:
+
+The disqualifications of Trump from the primary ballots in Maine and Colorado are based on his alleged role in inciting the January 6, 2021 attacks on the US Capitol. Trump's spreading of false claims about voter fraud in the 2020 election and his call for his supporters to march on the Capitol are seen as incitement to insurrection. The disqualifications are based on the 14th Amendment to the United States Constitution, which states that any person previously elected to government offices who took part in an insurrection or rebellion cannot hold office again.
+
+#### Legal Differences from Other Cases:
+
+The disqualifications of Trump from the primary ballots are different from other legal cases against him, such as those related to his payments to a former adult film star and not handing over official documents after leaving office. In those cases, the question was whether a conviction would prevent him from running for President, and the general view among legal scholars was that a conviction would not necessarily bar him from running. However, the disqualifications based on the 14th Amendment raise unique legal questions about whether a Presidential candidate can be barred from being elected again and whether courts have the power to order candidates off the ballots.
+
+#### Impact on Trump's Prospects:
+
+The removal of Trump from the primary ballots in Maine and Colorado could impact his prospects in the November elections. In Maine, where Trump won one of the state's four Electoral College votes in 2020, his removal from the ballot could affect his ability to garner a significant number of votes. However, in traditionally Democratic-leaning Colorado, Trump's removal would not ultimately impact the election results. The case is currently on hold as Trump looks to appeal in a trial court in Maine. If the case reaches the Supreme Court, it could have significant political implications, and a ruling that Trump is disqualified from the presidency would be a momentous step.
+
+#### Potential Supreme Court Considerations:
+
+If the case reaches the Supreme Court, several larger legal questions will need to be considered. These include whether the 14th Amendment can bar a Presidential candidate from being elected again and whether courts have the power to order candidates off the ballots. The current majority of conservative judges on the Supreme Court suggests that the ruling is expected to go in Trump's favor. A ruling that Trump is disqualified from the presidency would have seismic political implications.
+
+####
+
+Fri, 29 Dec 2023 10:37:05 +0000
+### [Why are pro-Kannada groups protesting signboards in Bengaluru?](https://indianexpress.com/article/explained/kannada-groups-protest-signboards-bengaluru-9087540/)
+
+A pro-Kannada organization in Bengaluru vandalized hoardings and billboards to protest the use of English in advertisements and signboards. The Karnataka Rakshana Vedike (KRV) took out a march and protests took place in multiple business hubs, leading to 53 arrests. The protests were in response to a BBMP order mandating Kannada in signs across the city by February 28, 2024. The ongoing issue over languages used in signboards has been a long-standing demand of several pro-Kannada organizations. The state government has responded by proposing an ordinance to ensure that 60% of space on signboards is dedicated to Kannada, with the rest left to other languages. This is based on the Kannada Language Comprehensive Development Act of 2022.
+
+Fri, 29 Dec 2023 04:30:07 +0000
+### [Can Southeast Asia afford to retire its coal plants?](https://indianexpress.com/article/explained/explained-climate/southeast-asia-coal-plants-retire-9086706/)
+
+#### Summary:
+
+Indonesia and Vietnam have announced their plans for utilizing funds from the Just Energy Transition Partnership (JETP), a G7-backed investment scheme for sustainable development. Indonesia aims to increase the share of renewable energy in its power generation to 44% by 2030 and has identified 400 priority projects that would require a significant portion of the JETP funds. However, the plan is still in the draft stage, and stakeholder inputs are being collected for the formulation of a final investment plan. Vietnam, on the other hand, plans to cap peak greenhouse gas emissions from the power sector by 2030 and limit the capacity of coal-fired power plants. Both countries have received funding commitments from various international partners and private financial institutions. However, there have been concerns about the proportion of grants versus loans in the funding packages and the exclusion of certain power plants from the targets.
+
+Fri, 29 Dec 2023 03:05:42 +0000
+### [Govt announces steps to revive stuck housing projects in Noida, Greater Noida: Why, who benefits](https://indianexpress.com/article/explained/steps-to-revive-stuck-housing-projects-in-noida-greater-noida-explained-https-indianexpress-com-article-cities-delhi-legacy-stalled-projects-noida-buyers-9083681-9086910/)
+
+The Noida and Greater Noida Industrial Development Authorities have approved the adoption of the Amitabh Kant committee recommendations on legacy stalled projects. These measures aim to help developers complete projects that have been stuck for years. The approved measures include a two-year 'zero-period' relief, a three-year time extension without any fee, provision to bring in a co-developer if the builder is unable to complete the project, relaxation in conditions to mortgage, and payment of land dues in installments over three years [[1]](https://indianexpress.com/article/cities/delhi/legacy-stalled-projects-noida-buyers-9083681/).
+
+The relief to builders includes a waiver of interest and penal interest for a specified period of two years, and the installments will be shifted beyond this period. The builder will have to deposit 25% of the outstanding amount (land dues) within 60 days to begin the registration of flats. The remaining 75% will be deposited with simple interest over three years. The builder will also be allowed to mortgage the land after paying 25% of the dues [[1]](https://indianexpress.com/article/cities/delhi/legacy-stalled-projects-noida-buyers-9083681/).
+
+These measures were announced because many developers have been unable to provide fully constructed flats to buyers in Noida, Greater Noida, and Yamuna Authority due to reasons such as non-availability of funds, increasing dues on builders, litigations, fund diversions, and criminal cases against the realtors. As a result, buyers have been unable to pay due installments to the builder, and banks and financial institutions have been hesitant to provide loans for stalled projects. This has created a deadlock that has not been resolved for years.
+
+The committee set up to resolve the issue was chaired by Amitabh Kant, the ex-CEO of Niti Aayog, and was directed to provide solutions for legacy stalled projects. The committee held five meetings with various stakeholders and submitted its report on July 24. The Uttar Pradesh government deliberated on the report and approved its implementation in a cabinet meeting on December 19. About 50% of the committee's recommendations have been accepted with amendments.
+
+The relief measures are expected to benefit around 2.40 lakh homebuyers in Noida and Greater Noida, which accounts for over 35% of the total delayed housing units in the country. It is estimated that around 67,000 flat buyers in Noida, 147,000 buyers in Greater Noida, and 14,358 buyers in Yamuna Authority will benefit from this scheme. The order states that for flats in which families are staying, the registry, with or without occupancy certificate, should be completed within three months [[2]](https://www.hindustantimes.com/real-estate/uttar-pradesh-govt-approves-recommendations-of-amitabh-kant-committee-real-estate-sector-welcomes-move-101702978810250.html).
+
+In conclusion, the Noida and Greater Noida Industrial Development Authorities have approved the adoption of the Amitabh Kant committee recommendations on legacy stalled projects. These measures aim to provide relief to homebuyers and help developers complete projects that have been stuck for years. The relief includes a two-year 'zero-period' waiver, time extension, provision for co-developers, relaxation in conditions to mortgage, and payment of land dues in installments over three years. These measures are expected to benefit a significant number of homebuyers in the Noida and Greater Noida region [[1]](https://indianexpress.com/article/cities/delhi/legacy-stalled-projects-noida-buyers-9083681/) [[2]](https://www.hindustantimes.com/real-estate/uttar-pradesh-govt-approves-recommendations-of-amitabh-kant-committee-real-estate-sector-welcomes-move-101702978810250.html).
+
+Fri, 29 Dec 2023 02:51:05 +0000
+### [Press and periodicals Bill 2023: Why it was brought in, differences from 1867 Act](https://indianexpress.com/article/explained/explained-law/press-and-periodicals-bill-2023-features-9086946/)
+
+#### Summary:
+
+The Press and Registration of Periodicals Bill, 2023, was passed in the Lok Sabha on December 21, after being passed in the Rajya Sabha on August 3. The bill seeks to repeal the Press and Registration of Books Act, 1867, and introduces several changes to ease the process of publishing periodicals and remove unnecessary procedural obstacles for publishers. It also includes a provision that disallows persons convicted of terrorist acts or unlawful activities, or those who have acted against state security, from publishing periodicals. The bill replaces jail terms with fines for certain violations and establishes an appellate mechanism headed by the Chairman of the Press Council of India. The power to regulate and register periodicals is shifted from the District Magistrate to the Press Registrar General. The bill also simplifies the process of declarations and registration for publishers and printers. The UAPA provision in the bill prohibits persons convicted of terrorist acts or unlawful activities from publishing periodicals.
+
+Fri, 29 Dec 2023 02:00:46 +0000
+### [In 2024, AI could give synthetic superpowers to reality: Here’s how](https://indianexpress.com/article/explained/explained-sci-tech/tech-in-2024-when-real-gets-the-power-of-artificial-intelligence-9086885/)
+
+#### Summary of "The Indian Express’s top tech predictions for 2024"
+
+The article discusses the increasing influence of Artificial Intelligence (AI) and its potential impact on various aspects of technology and society in 2024. It highlights the pervasive nature of AI, its potential to revolutionize devices like smartphones and laptops, and its role in personalizing user experiences. The article also emphasizes the need for responsible regulation of AI to mitigate potential negative consequences, such as the spread of synthetic content and deep fakes. Additionally, it touches on the growth of tech manufacturing in India, the shift towards sustainable and green tech practices, the impending changes in online advertising due to the elimination of cookies, and the emergence of augmented reality (AR) and extended reality (XR) technologies.
+
+#### AI's Influence and Integration
+The article portrays AI as a powerful and all-pervasive technology that is rapidly evolving and influencing various aspects of daily life. It predicts that AI will become an integral part of devices like smartphones and laptops, offering enhanced functionalities and personalized experiences for users. The article also suggests that AI platforms will begin to regulate themselves more and emphasizes the need for responsible AI practices.
+
+#### Tech Manufacturing in India
+The article highlights India's progress in tech manufacturing, particularly in the smartphone industry, and predicts that this trend will extend to other segments such as audio and computers. It anticipates a shift towards local manufacturing and the potential for lower price points for gadgets made in India.
+
+#### Sustainable and Green Tech Practices
+The article discusses the growing emphasis on sustainability in tech products, with major companies incorporating green tech and recycled components into their product design. It suggests that sustainability will become a standard practice in product development, with companies that do not prioritize sustainability becoming the exception.
+
+#### Changes in Online Advertising
+The article predicts a shift away from traditional online advertising methods due to the impending elimination of cookies, leading to a more private browsing experience for users. It suggests that companies will innovate to tailor content and advertisements to users in new ways, potentially triggering significant changes in the tech industry.
+
+#### Augmented Reality and Extended Reality
+The article discusses the emergence of augmented reality (AR) and extended reality (XR) technologies, emphasizing their potential to offer personalized experiences and enhance social media interactions by providing a more immersive and interactive layer to real-world experiences.
+
+In summary, the article provides insights into the evolving landscape of technology in 2024, focusing on the increasing influence of AI, the growth of tech manufacturing in India, the adoption of sustainable practices, changes in online advertising, and the emergence of augmented and extended reality technologies.
+
+Fri, 29 Dec 2023 02:00:07 +0000
+### [Why The New York Times is suing OpenAI and Microsoft, what it could mean for AI and copyright](https://indianexpress.com/article/explained/explained-sci-tech/in-nyt-vs-openai-and-microsoft-a-larger-debate-around-ai-and-copyright-9086964/)
+
+The New York Times has filed a lawsuit against OpenAI and Microsoft, accusing them of unlawfully using copyrighted content to build their AI platforms, including ChatGPT. The lawsuit alleges that the defendants are using NYT's original content without payment to create products that compete with and steal audiences away from the publication. The lawsuit also highlights the potential damage to NYT's brand through AI "hallucination", where chatbots respond with false information attributed to the source. This legal battle could shape the intellectual property rights around generative AI platforms and is part of a larger debate on how these platforms affect creators of original content. The article also discusses similar pushback from the music industry and the need for reimagining copyright laws in the age of AI.
+
+Thu, 28 Dec 2023 22:10:03 +0000
+### [Ex-ambassador Navdeep Suri: ‘India has the ability and leverage to talk to Israel, Palestine but shouldn’t overstate it’](https://indianexpress.com/article/explained/ex-ambassador-navdeep-suri-india-has-the-ability-and-leverage-to-talk-to-israel-palestine-but-shouldnt-overstate-it-9086979/)
+
+Former Ambassador of India to the UAE and Egypt, Navdeep Suri, discussed the Israel-Hamas conflict in an Explained Live session. He shared his reactions to the conflict, including shock at Hamas' ability to penetrate Israel's security barriers and concern about Israel's retaliation. Suri also provided background information on the history of Gaza, the formation of Hamas, and its relationship with the Muslim Brotherhood. He highlighted the challenges of achieving a two-state solution and the role of Israeli Prime Minister Benjamin Netanyahu in opposing such a solution. Suri mentioned India's ability to engage in mediation if there is an appetite for it, but expressed doubt about Israel's willingness to listen. He also discussed the financial support received by both Hamas and Israel, with the US being a major supporter of Israel.
+
+Thu, 28 Dec 2023 14:25:47 +0000
+### [Qatar commutes 8 former Indian Navy men’s death sentence: What has happened, why it matters for India](https://indianexpress.com/article/explained/qatar-commutes-indian-navy-men-death-sentence-significance-9086691/)
+
+#### Summary:
+
+An appellate court in Qatar has commuted the death sentence of eight former Indian Navy officers who were arrested on charges of espionage. The men were working for Al Dahra Global Technologies and Consultancy Services, a defense services provider company in Qatar. The specific charges against them have not been made public, but it has been reported that they were accused of spying for Israel. The Indian government has been exploring all legal options and has filed an appeal against the verdict. The commuting of the death sentence is significant for India as it provides a ray of hope for the release of the former Navy officers. India and Qatar have deep economic, defense, and people-to-people ties, making it crucial for India to secure a breakthrough in this case. The detailed judgment of the court is awaited, and the Indian government is in close touch with the legal team and the family members of the sentenced men to decide on the next steps [[2]](https://www.deccanherald.com/india/death-sentence-to-eight-indians-in-qatar-commuted-2827799) [[3]](https://indianexpress.com/article/india/qatar-court-commutes-death-sentence-of-8-ex-navy-personnel-9086281/) [[4]](https://www.bbc.com/news/world-asia-india-67191248) [[5]](https://www.thehindu.com/news/international/qatar-court-hands-death-sentence-to-eight-former-indian-navy-officials-deeply-shocked-mea-exploring-all-legal-options/article67461365.ece) [[6]](https://www.bbc.com/news/world-asia-india-67373649) [[8]](https://economictimes.indiatimes.com/news/india/the-story-behind-qatar-sentencing-eight-indian-ex-navy-officers-to-death/articleshow/104731250.cms).
+
+#### Background:
+In August 2022, eight former Indian Navy officers were arrested in Qatar on charges of espionage. They were working for Al Dahra Global Technologies and Consultancy Services, a defense services provider company. The specific charges against them have not been made public, but it has been reported that they were accused of spying for Israel. The men were sentenced to death by a Qatari court in October 2022. The Indian government expressed shock at the verdict and announced that it would explore all legal options. The case has been of high importance to India, given the confidential nature of the proceedings and the fact that the accused are former Indian defense personnel. India has been employing both legal and diplomatic channels to secure the release of the men. Qatar is an important partner for India, with deep economic, defense, and people-to-people ties [[4]](https://www.bbc.com/news/world-asia-india-67191248).
+
+#### Commutation of Death Sentence:
+An appellate court in Qatar has commuted the death sentence of the eight former Indian Navy officers. The Ministry of External Affairs (MEA) of India has noted the verdict and stated that the detailed judgment is awaited. The MEA is in close touch with the legal team and the family members of the sentenced men to decide on the next steps. The commuting of the death sentence is a significant development as it provides hope for the release of the former Navy officers. However, the specific details of the commutation and the reduced sentences have not been mentioned in the available sources [[2]](https://www.deccanherald.com/india/death-sentence-to-eight-indians-in-qatar-commuted-2827799) [[3]](https://indianexpress.com/article/india/qatar-court-commutes-death-sentence-of-8-ex-navy-personnel-9086281/).
+
+#### Importance for India:
+The commuting of the death sentence is significant for India for several reasons. Firstly, it provides hope for the release of the eight former Indian Navy officers who have been in custody since August 2022. The Indian government has been exploring all legal options and has filed an appeal against the verdict. The commuting of the death sentence is a positive development in this regard. Secondly, India and Qatar have deep economic, defense, and people-to-people ties. Qatar is an important partner for India, and the two countries enjoy a close relationship. The release of the former Navy officers would help in maintaining and strengthening this relationship. Lastly, Qatar has a significant Indian migrant population, and remittances from Qatar play an important role in India's economy. The commuting of the death sentence would be a relief for the families of the sentenced men and the Indian community in Qatar [[4]](https://www.bbc.com/news/world-asia-india-67191248) [[7]](https://indianexpress.com/article/india/8-ex-indian-navy-officers-get-death-penalty-in-qatar-9000475/).
+
+#### Conclusion:
+The appellate court in Qatar has commuted the death sentence of eight former Indian Navy officers who were arrested on charges of espionage. The specific charges against them have not been made public, but they were accused of spying for Israel. The commuting of the death sentence is significant for India as it provides hope for the release of the former Navy officers. India and Qatar have deep economic, defense, and people-to-people ties, making it crucial for India to secure a breakthrough in this case. The Indian government is exploring all legal options and is in close touch with the legal team and the family members of the sentenced men to decide on the next steps [[2]](https://www.deccanherald.com/india/death-sentence-to-eight-indians-in-qatar-commuted-2827799) [[3]](https://indianexpress.com/article/india/qatar-court-commutes-death-sentence-of-8-ex-navy-personnel-9086281/) [[4]](https://www.bbc.com/news/world-asia-india-67191248) [[5]](https://www.thehindu.com/news/international/qatar-court-hands-death-sentence-to-eight-former-indian-navy-officials-deeply-shocked-mea-exploring-all-legal-options/article67461365.ece) [[6]](https://www.bbc.com/news/world-asia-india-67373649) [[8]](https://economictimes.indiatimes.com/news/india/the-story-behind-qatar-sentencing-eight-indian-ex-navy-officers-to-death/articleshow/104731250.cms)
+
+Thu, 28 Dec 2023 13:01:48 +0000
+### [Qatar court commutes ex-Navy men’s death sentence: How many Indians are in jails abroad, what help they get](https://indianexpress.com/article/explained/qatar-ex-navy-death-sentence-indians-in-jails-abroad-9086599/)
+
+An appellate court in Qatar has commuted the death sentence of eight former Indian Navy personnel who were arrested on charges of espionage. The Ministry of External Affairs has acknowledged the verdict of the Court of Appeal of Qatar, but the detailed judgment is still awaited.
+
+According to data from the Ministry of External Affairs, there are currently over 9,500 Indians in jails abroad, with three out of every five being held in the Middle East. Qatar has the third-largest population of Indian prison inmates in the region, with 752 Indian prisoners.
+
+The highest number of Indian prisoners abroad is in Saudi Arabia, with 2,200 inmates, followed by the United Arab Emirates with 2,143. Other countries with significant numbers of Indian prisoners include Kuwait, Bahrain, and Oman.
+
+Indian Missions and Posts abroad closely monitor incidents of Indian nationals being jailed for alleged violations of local laws. They provide consular assistance, legal aid, and support to ensure the welfare of Indian prisoners. The Indian Community Welfare Fund (ICWF) is set up at Missions and Posts abroad to assist overseas Indian nationals in distress situations, including financial assistance for legal aid and repatriation [[3]](https://www.fbi.gov/stats-services/publications/terrorism-2002-2005).
+
+India has signed agreements on the Transfer of Sentenced Persons (TSP) with 31 countries, including Qatar, Saudi Arabia, the United Arab Emirates, and the United Kingdom. These agreements allow for the transfer of Indian prisoners to serve the remainder of their sentences in India and vice versa.
+
+Since 2014, the Indian government's efforts have resulted in 4,597 Indian nationals receiving pardons or reductions of their sentences by foreign governments. However, some countries do not share data on the grant of pardons or reductions of sentences.
+
+In conclusion, an appellate court in Qatar has commuted the death sentence of eight former Indian Navy personnel accused of espionage. Qatar has a significant population of Indian prisoners, with the highest number of Indian prisoners being held in Saudi Arabia. The Indian government provides consular assistance, legal aid, and support to Indian prisoners abroad, and has signed agreements with several countries for the transfer of sentenced persons. Efforts by the Indian government have resulted in thousands of Indian nationals receiving pardons or reductions of their sentences by foreign governments [[3]](https://www.fbi.gov/stats-services/publications/terrorism-2002-2005)
+
+Thu, 28 Dec 2023 11:06:44 +0000
+### [Qatar commutes death sentence of Indian Navy veterans: A brief timeline of the case](https://indianexpress.com/article/explained/qatar-commutes-death-sentence-indian-navy-veteran-9086293/)
+
+The Court of Appeal of Qatar has commuted the death sentence of eight former Indian Navy personnel who were arrested last year in connection with an alleged case of espionage. The men were working for a private company called Dahra Global in their personal capacity to oversee the induction of Italian U212 stealth submarines in the Qatari Emiri Naval Force. The exact nature of the allegations against them is not publicly known. The Ministry of External Affairs of India has been closely monitoring the situation and has provided support to the arrested sailors. The Indian government has taken up the matter at various diplomatic and political levels, and negotiations for the repatriation of the prisoners to India will be the next step.
+
+Here is a brief timeline of the case and the response of the Indian government:
+- August 30, 2022: The eight men, along with two others, were arrested on undeclared charges and put in solitary confinement.
+- October 1, 2022: India's Ambassador in Doha and Deputy Head of Mission met the eight naval veterans.
+- October 3, 2022: First consular access was granted, and the CEO of Dahra Global, Khamis al-Ajmi, who came to get his officials out, was arrested himself.
+- March 1, 2023: The last of multiple bail pleas filed for the veterans was rejected.
+- March 25, 2023: Charges were filed against the eight men.
+- March 29, 2023: The trial, under Qatari law, began.
+- May 30, 2023: Dahra Global closed its operations in Doha, and all former employees, primarily Indians, have since returned home.
+- August 4, 2023: The arrested men were moved from solitary confinement and put in a jail ward with their colleagues.
+- October 26, 2023: The court awarded the death penalty to all eight men.
+- Late October-Early November 2023: External Affairs Minister S Jaishankar met family members of the sentenced men and assured them that the government would make all efforts to secure their release.
+- November 7, 2023: India gets another round of consular access to the men.
+- November 9, 2023: The Ministry of External Affairs announces that it has filed an appeal and has details of the charges.
+- December 28, 2023: The Qatar court of appeals commutes the death sentence.
+
+The Ministry of External Affairs has stated that it will continue to extend all consular and legal assistance to the arrested sailors and will take up the matter with the Qatari authorities. Efforts will now focus on negotiating the prisoners' repatriation to India. In addition to the Indian government's efforts, the families of the former Navy personnel have also filed a Mercy Plea to the Emir of Qatar, who is known to grant pardons during Ramadan and Eid
+
+Thu, 28 Dec 2023 10:43:16 +0000
+### [Why more Indians seem to be travelling to Nicaragua, what the visa process is like](https://indianexpress.com/article/explained/indians-nicaragua-visa-process-immigration-9086309/)
+
+Interest in traveling to Nicaragua has increased among Indians in recent months, with many approaching travel agents and the Nicaraguan representative office in India for visa-related queries However, there are concerns that some individuals may be using Nicaragua as a springboard to illegally enter the United States and Canada In the case of a recent flight from the UAE to Nicaragua, which was detained in France due to an anonymous tip-off about human trafficking, 25 Indian passengers sought asylum in France.
+
+Obtaining a visa for Nicaragua can be tricky for Indian passport holders due to the lack of clarity in the public domain regarding the country's visa and immigration rules Nicaragua does not have an embassy in India, and the honorary consul general's office in India is not authorized to issue visas or authenticate related documents Indian passport holders are technically eligible for a visa on arrival in Nicaragua, but the process is unclear Indians with valid visas for the US, Canada, and Schengen countries can reach Nicaragua and obtain a visa on arrival after paying the visa fee Those without valid visas to these countries are advised to apply for travel authorization directly with the Nicaraguan Ministry of the Interior.
+
+There are additional challenges for Indian travelers to Nicaragua, including a language barrier as Spanish is the prevalent language and limited understanding of English among the local population [[1]](https://www.state.gov/?post_type=state_briefing&%3Bp=92333). Furthermore, Nicaragua has not traditionally seen a significant influx of Indian travelers, which may result in immigration officials being less familiar with the regulations for Indian citizens.
+
+The honorary consul general's office in India has advised those interested in traveling to Nicaragua to directly approach the Nicaraguan Ministry of the Interior and provide their details, passport copies, itinerary, and hotel bookings via email to seek further information on the visa on arrival process.
+
+In summary, interest in traveling to Nicaragua has increased among Indians, but obtaining a visa can be challenging due to the lack of clarity in the visa and immigration rules. Indian passport holders are advised to apply for travel authorization or contact the Nicaraguan Ministry of the Interior for further information.
+
+Thu, 28 Dec 2023 09:52:51 +0000
+### [Israel Embassy blast: How an investigation into a similar case in 2021 led nowhere](https://indianexpress.com/article/explained/blast-embassy-israel-2021-case-investigation-9085915/)
+
+#### Summary:
+
+On December 26, 2023, a low-intensity explosion occurred near the Israeli Embassy in New Delhi. The incident reminded people of a similar blast that happened in January 2021 near the embassy. The National Investigation Agency (NIA) took over the investigation and found CCTV footage showing two masked men walking near the blast site. The NIA traced the autorickshaw driver who dropped the suspects off in Jamia Nagar but did not find any CCTV cameras in that area. The NIA issued posters and announced a reward for the identification of the suspects. The investigation revealed a possible "Iranian link" and a letter addressed to the Israeli embassy ambassador was found at the blast spot, claiming the attack was in retaliation for the killings of Iranian figures Qasem Soleimani and Dr. Mohsen Fakhrizadeh. Forensic examination determined that the explosive used was Pentaerythritol tetranitrate (PETN), a military-grade explosive. Four students from Kargil were initially detained but were later released due to a lack of evidence.
+
+Thu, 28 Dec 2023 09:41:24 +0000
+### [On Congress Foundation Day, a brief history of the INC](https://indianexpress.com/article/explained/explained-politics/congress-foundation-day-brief-history-inc-9086083/)
+
+#### Summary:
+The Indian National Congress (INC) was founded on December 28, 1885, by Allan Octavian Hume, a retired British civil servant, along with Dadabhai Naoroji and Dinshaw Wacha. Initially, the aim of the INC was to influence British policies in favor of Indians, rather than seeking independence. However, over time, the party's goals evolved, and under the leadership of Mahatma Gandhi, it became the largest mass movement in history, working towards complete independence and addressing social issues such as caste discrimination and poverty. The INC played a significant role in India's struggle for independence and formed most of India's governments after independence. However, its dominance declined over the years, and it faced internal party politics and electoral setbacks. The Bharatiya Janata Party emerged as a national alternative to the Congress, leading to a shift in India's political landscape [[2]](https://byjus.com/free-ias-prep/this-day-in-history-dec28/).
+
+#### Detailed Summary:
+The Indian National Congress (INC) was founded on December 28, 1885, by Allan Octavian Hume, along with Dadabhai Naoroji and Dinshaw Wacha. The first session of the INC was held in Bombay, where 72 social reformers, journalists, and lawyers congregated at the Gokuldas Tejpal Sanskrit College [[1]](https://www.inc.in/brief-history-of-congress).
+
+Initially, the aim of the INC was not to seek independence from British rule but to influence British policies in favor of Indians. It provided a platform for Indians to air their grievances and frustrations. The party consisted mainly of educated, upper-class individuals, many of whom had studied abroad. However, it faced criticism from both the British for upsetting the status quo and Indians for not doing enough.
+
+In 1906, differences within the party emerged, leading to a split between the moderates, led by Gopal Krishna Gokhale and Surendranath Banerjea, and the extremists, led by Bal Gangadhar Tilak. The moderates were willing to engage cordially with the British, while the extremists favored boycotts and demonstrations.
+
+The party reunited in 1915, coinciding with the entry of Mahatma Gandhi into the scene. Gandhi rapidly became the most influential figure in the party and transformed its politics. Under Gandhi's leadership, the INC became a social movement, working towards eradicating caste discrimination, poverty, and ethnic differences. It also declared "Purna Swaraj" (complete independence) as its ultimate goal at the 1929 Lahore session of the Congress.
+
+In 1947, India achieved independence, but it was accompanied by the bitter reality of Partition. The INC played a significant role in the national movement and formed most of India's governments after independence. Under the leadership of Jawaharlal Nehru, the party embraced secularism, socialistic economic practices, and a non-aligned foreign policy. However, internal party politics and power struggles emerged after Nehru's tenure, leading to splits within the party.
+
+The Congress faced its first electoral loss on the national stage in the 1977 general elections, following the period of Emergency (1975-77). It returned to power in subsequent years but experienced setbacks and a decline in dominance. The Bharatiya Janata Party emerged as a national alternative to the Congress, and the political landscape shifted. The Congress has since faced electoral challenges and reduced seat numbers in recent elections [[5]](https://en.wikipedia.org/wiki/Indian_National_Congress).
+
+Overall, the Indian National Congress has a rich history in India's struggle for independence and post-independence politics. While it has faced challenges and changes over the years, it remains one of the major political parties in India [[5]](https://en.wikipedia.org/wiki/Indian_National_Congress).
+
+Thu, 28 Dec 2023 04:13:00 +0000
+### [Who can drink in dry Gujarat: Here are the exemptions allowed](https://indianexpress.com/article/explained/who-can-drink-in-dry-gujarat-exemptions-9085526/)
+
+The recently announced relaxation of the Gujarat Prohibition Act in the limits of GIFT City in Gandhinagar adds to the list of exempted categories of drinkers in Gujarat. The state of Gujarat controls the manufacturing, sale, and consumption of liquor through a system of state-issued licenses and permits. Consumers are required to obtain permits, while manufacturers and sellers must obtain licenses. There are seven different types of permits available for consumers, including health permits and non-health permits. Health permits require the applicant to be over 40 years of age, have a monthly income of over Rs 25,000, and have a medical reason for applying. The cost of a health permit can be up to Rs 4,000, with an annual renewal fee of Rs 2,000. Non-health permits have varying costs and validity periods. The state has also fixed the monthly quantity of liquor that can be availed by health permit holders based on age. Other permits include permits for temporary residents, tourist permits, and visitor permits. Group permits are available for participants in conferences and conventions, while emergency/tatkal permits can be availed by residents of Gujarat for possessing and using brandy, rum, or champagne for their family members. Permits can be issued by designated officials and authorities in different locations, such as GIFT City and licensed liquor shops. The popularity of health permits has increased among Gujarat residents over the age of 40 in recent years. Between 2018 and 2022, a total of 76,135 permits were issued, with health permits accounting for 78% and non-health permits accounting for 22% of the total.
+
+Thu, 28 Dec 2023 02:30:55 +0000
+### [Can retailers charge you for carry bags? Here’s what consumer court orders say](https://indianexpress.com/article/explained/explained-law/can-retailers-charge-for-paper-carry-bags-9085364/)
+
+The Delhi Consumer Dispute Redressal Commission (DCDRC) recently ordered fashion brand Lifestyle to pay a customer Rs 3,000 for charging him Rs 7 for a paper carry bag. This is not an isolated incident, as other retailers have also been fined for similar practices. The issue stems from the Plastic Waste (Management and Handling) Rules of 2011, which initially mandated that no carry bags be provided free of cost by retailers to consumers. However, retailers began charging for paper and cloth bags as well, exploiting a loophole in the rules. Despite amendments to the rules in 2016 and 2018, the issue remains unresolved. Retailers argue that there is no law explicitly stating that carry bags must be supplied for free to customers. However, consumer courts have ruled that charging consumers for bags without informing them beforehand is illegal. In some cases, courts have also ruled that retailers must provide free carry bags with their logo printed on them, but can charge for plain bags with prior consent from customers.
+
+Thu, 28 Dec 2023 02:00:20 +0000
+### [Strategy and foreign affairs for India in 2024: dealing with realities, looking at opportunities](https://indianexpress.com/article/explained/explained-global/strategy-and-foreign-affairs-for-india-in-2024-dealing-with-realities-looking-at-opportunities-9085554/)
+
+The article discusses various conflicts and challenges that India is facing in its foreign policy and international relations. Here are the key points:
+
+1. Middle East Crisis: The article highlights the disruption caused by the Hamas attack in the Israel-Arab reconciliation process. Israel's response has been criticized for its disproportionate use of force, leading to a high number of casualties. The future of Gaza remains uncertain.
+
+2. Stress in India-US Ties: The relationship between India and the US is facing challenges due to allegations of an Indian official's link to an assassination plot against a Khalistani separatist in the US. India has responded differently compared to its response to Canada's suggestion of an Indian government link to another Khalistani's murder. India is committed to the rule of law and is willing to investigate if provided with more information.
+
+3. Russia-Ukraine War Fatigue: The ongoing war between Russia and Ukraine is entering its third year, and the West is facing funding challenges in providing assistance to Ukraine. Putin's re-election as Russia's President is expected, and the proximity between Moscow and Beijing is a concern for the West.
+
+4. India's Maldives Challenge: The Maldivian government, which is considered close to China, has asked India to withdraw its military personnel stationed in the Maldives and has expressed its intention to terminate a water survey pact.
+
+5. China as the Biggest Worry: China remains India's biggest strategic challenge, with the border standoff continuing for the fourth winter. The dependence of India's strategic defense partner, Russia, on China for economic survival, and the growing closeness between the Maldives and China in the Indian Ocean, add to India's concerns.
+
+6. G20 and Global South Positioning: India's success in negotiating a joint declaration at the G20 summit and mobilizing developing and less developed countries under the umbrella of the Global South is seen as a surprise and a continuation of India's Non-Alignment leadership.
+
+7. Engagement in Kabul: India's engagement with Afghanistan is evolving, with a change of guard in the Afghanistan embassy in New Delhi. While India is cautious in its engagement with the Taliban, it is providing passport and visa services to Afghan nationals. China has also posted a full-time envoy in Kabul.
+
+The article also discusses upcoming challenges and issues that India will face in its foreign policy, including its relationships with the US, Canada, Pakistan, Bangladesh, China, and West Asia. The outcomes of these relationships will impact India's strategic and foreign policy posture. The article emphasizes that irrespective of the election mandate, there will be continuity in India's foreign policy choices, with some nuanced changes.
+
+Wed, 27 Dec 2023 15:29:36 +0000
+### [Experts Explain: How the PM JANMAN scheme can help Particularly Vulnerable Tribal Groups](https://indianexpress.com/article/explained/pm-janman-scheme-particularly-vulnerable-tribal-groups-9085355/)
+
+The article discusses the Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan (PM JANMAN), which was approved by the Union Cabinet in India. The initiative aims to provide basic facilities and services to Particularly Vulnerable Tribal Groups (PVTGs) in India, including safe housing, clean drinking water, sanitation, education, healthcare, road and telecom connectivity, and sustainable livelihood opportunities. The article highlights the challenges faced by PVTGs, such as isolation, limited access to services, social discrimination, and loss of traditional livelihoods. It also mentions various schemes and initiatives introduced by the government to support PVTGs, including the PVTG Development Plan, Pradhan Mantri Janjatiya Vikas Mission (PMJVM), and the Pradhan Mantri Adi Adarsh Gram Yojana. The article emphasizes the need for proper identification and recognition of PVTGs, a participatory bottom-up approach, livelihood promotion, health and education initiatives, and infrastructure development tailored to the specific needs of PVTGs.
+
+Wed, 27 Dec 2023 14:08:06 +0000
+### [Why Israel has imprisoned an 18-year-old ‘conscientious objector’, what the term means](https://indianexpress.com/article/explained/conscientious-objector-muhammad-ali-tal-mitnik-9085249/)
+
+The article discusses the case of Tal Mitnik, an 18-year-old who refused to serve in the Israeli military and participate in its assault on Gaza. Mitnik stated in a public statement that he did not want to contribute to the oppression and bloodshed and instead wanted to work towards finding a solution. However, Israeli law mandates that all citizens serve in the military for a certain duration, and those who refuse to do so are socially ostracized and persecuted by the state.
+
+The concept of a conscientious objector is explored in the article. A conscientious objector is an individual who refuses to perform military service based on their conscience, often due to ideological or religious reasons. Throughout history, there have been individuals who have refused to serve in the military, citing their personal beliefs.
+
+The earliest documented conscientious objector was Maximilianus, who refused to serve as a soldier in the Roman army in 295 CE and was later executed for his refusal. The first self-identified conscientious objectors appeared during World War I, when conscription was used by most belligerents. It is estimated that more than 16,000 conscientious objectors refused military service in the UK, and about 4,000 in the US during the war.
+
+Explicit conscientious objection legislation emerged in Western countries during and after World War I. However, countries struggling to meet their manpower requirements either completely forbade conscientious objection or allowed it in very limited circumstances. For example, during World War I, most of the 16,000 British conscientious objectors, who were primarily pacifist Quakers, were refused any exemption and sent to prison if they continued to resist military service.
+
+The right to conscientious objection is enshrined in international law. The Universal Declaration of Human Rights, adopted by the UN General Assembly in 1948, states that everyone has the right to freedom of thought, conscience, and religion. The 1976 International Covenant on Civil and Political Rights further emphasizes this right. In 1995, the United Nations Commission on Human Rights explicitly advocated for conscientious objection as a right.
+
+However, despite the recognition of conscientious objection as a right by the UN and other human rights organizations, it does not have a legal basis in most countries with conscripted militaries. Even in countries where it is legally recognized, it is often highly restricted. For example, in Israel, the right to conscientious objection is only extended to Haredi Jews studying religious scriptures in traditional yeshiva schools.
+
+The article also mentions famous examples of conscientious objectors. Desmond Doss, a conscientious objector during World War II, was awarded the Medal of Honor for his role as a medic despite refusing to touch a weapon due to his religious beliefs. Muhammad Ali, the renowned boxer, refused induction into the military during the Vietnam War, stating that it went against the teachings of the Quran. He was convicted of draft evasion but later had his conviction overturned by the US Supreme Court.
+
+In summary, the article discusses the case of Tal Mitnik, a conscientious objector who refused to serve in the Israeli military. It explores the concept of conscientious objection, its historical context, and the legal and social challenges faced by conscientious objectors. It also highlights famous examples of conscientious objectors, such as Desmond Doss and Muhammad Ali.
+
+Wed, 27 Dec 2023 13:21:11 +0000
+### [‘Robert Vadra stayed at London house bought with proceeds of crime’: What the ED said in court](https://indianexpress.com/article/explained/robert-vadra-ed-case-cc-thampi-explained-9085209/)
+
+#### Summary:
+
+A special court in New Delhi has taken cognizance of a prosecution complaint filed by the Enforcement Directorate (ED) against CC Thampi, an alleged aide of Robert Vadra, in connection with a money laundering probe against fugitive arms dealer Sanjay Bhandari. The ED has alleged that Vadra renovated and stayed in properties bought by Thampi in London, indicating close financial links between the two. The ED has also investigated the alleged role of real estate dealer Harbans Lal Pahwa in the probe. Vadra is also involved in other cases, including the Gurgaon and Bikaner land deal cases. The cases against Vadra pertain to fraudulent and fictitious claims and allotments in relation to land acquired for the Mahajan Field Firing Range Bikaner, which is used by the Army.
+
+#### Allegations against CC Thampi and Robert Vadra:
+
+The Enforcement Directorate (ED) has alleged that CC Thampi, a close associate of Robert Vadra, purchased properties in London that Vadra renovated and stayed in. The ED claims that Vadra and Thampi also purchased a significant amount of land in Faridabad and had financial transactions with each other. The ED has stated that Thampi deposited a large sum of cash to Harbans Lal Pahwa, a real estate dealer, who had financial dealings with Sanjay Bhandari. The ED has concluded that Vadra is a friend of both Thampi and Bhandari.
+
+#### London property matter:
+
+The ED raided premises associated with Skylight Hospitality, a firm linked to Robert Vadra, in connection with a money laundering case registered against Sanjay Bhandari for holding undisclosed assets abroad. The ED claimed that Bhandari bought a property at Bryanston Square in London using money that flowed into a UK-based company named Santech. The ED alleged that a significant amount of money was siphoned off into another company named Vortex and then used by Bhandari to buy the Bryanston Square property. The property is currently held by Skylight FZE, which is promoted by CC Thampi.
+
+#### Faridabad property matter:
+
+The ED has found that Harbans Lal Pahwa, a real estate dealer who was previously a director in a company owned by Robert Vadra, purchased land in Faridabad and sold it to Vadra at almost the same price within months of the purchase. The same parcels of land were subsequently sold back to Pahwa by Vadra at a substantial profit. The ED discovered that around the time of these transactions, Thampi made a large cash payment to Pahwa. The ED has concluded that Thampi, who had financial dealings with Sanjay Bhandari, deposited cash to Pahwa, which was used for several land dealings. Vadra received Rs 15 crore from DLF for the sale of the Faridabad land, but the deal did not go through due to legal issues.
+
+#### Petroleum ministry deal:
+
+The petroleum ministry deal is related to a petrochemical complex being built by the Oil and Natural Gas Corporation (ONGC) in Dahej, Gujarat. Samsung Engineering Ltd, which hired Sanjay Bhandari's firm Santech International FZC for consultancy services, implemented one of the projects in the complex. After the contract was awarded, Samsung paid USD 49.9 lakh to Santech. The Central Bureau of Investigation (CBI) registered a case of corruption against Bhandari, Samsung Engineering Ltd, and unknown officials of ONGC based on information provided by the ED.
+
+#### Other cases against Vadra:
+
+Apart from the Sanjay Bhandari case, Robert Vadra is also involved in the Gurgaon and Bikaner land deal cases. In the Gurgaon case, Vadra, former Haryana CM Bhupinder Singh Hooda, DLF, and Onkareshwar Properties have been booked on charges of criminal conspiracy, cheating, fraud, forgery, and under provisions of the Prevention of Corruption Act. The Bikaner case involves FIRs filed by three different agencies, including the Rajasthan police and the CBI. The cases revolve around fraudulent and fictitious claims and allotments in relation to land acquired for the Mahajan Field Firing Range Bikaner, which is used by the Army.
+
+**Note:** The information provided is based on the article and may not represent the complete picture of the legal proceedings or the individuals involved.
+
 Wed, 27 Dec 2023 09:02:37 +0000
 ### [Why US is willing to relax its weapons ban on Saudi Arabia](https://indianexpress.com/article/explained/explained-global/us-to-relax-weapons-ban-saudi-arabia-9084618/)
 

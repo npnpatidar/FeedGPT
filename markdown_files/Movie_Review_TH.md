@@ -1,3 +1,126 @@
+Tue, 02 Jan 2024 23:52:51 +0530
+### [‘Berlin’ series review: This ‘Money Heist’ spin-off is more about hearts than heists](https://www.thehindu.com/entertainment/movies/berlin-series-review-this-money-heist-spin-off-is-more-about-hearts-than-heists/article67698842.ece)
+
+The article discusses the spin-off series titled "Berlin" based on the popular Netflix show "Money Heist." While the original series focused on a heist and the robbers' personal lives, "Berlin" primarily revolves around the love lives of the main characters. The heist itself, involving the stealing of 44 million in jewels, is completed within the first half of the 8-episode series. The article criticizes the shallow plot, uninteresting heist sequence, and underdeveloped secondary characters in "Berlin." It concludes by stating that the series fails to capitalize on interesting ideas and ultimately wastes the viewer's time.
+
+Tue, 02 Jan 2024 17:07:54 +0530
+### [New forays into abhinaya and nritta at the Dance for Dance Festival](https://www.thehindu.com/entertainment/dance/new-forays-into-abhinaya-and-nritta-at-the-dance-for-dance-festival/article67698181.ece)
+
+The article discusses the performances at the Kalavaahini Festival - Dance for Dance 2023, held at Bharatiya Vidya Bhavan, Mylapore. The festival featured Koodiyattam, Mohiniyattam, and Odissi dances. Nepathya Sreehari Chakyar, the recipient of the Kalavaahini Junior Fellowship, performed 'Gajendra Moksham,' a Koodiyattam production based on three story tracks. The article also highlights Neena Prasad's Mohiniyattam presentation titled 'Swathi Muthyam,' which consisted of compositions by Swati Tirunal. Additionally, Madhavi Mudgal's group choreographies in Odissi were showcased at the festival. The performances were well-received, with the artists displaying their expertise and skill in their respective dance forms. [[1]]
+
+Tue, 02 Jan 2024 15:53:19 +0530
+### [What made Trichur Brothers’ concert experiential?](https://www.thehindu.com/entertainment/music/what-made-trichur-brothers-concert-experiential/article67697965.ece)
+
+The article discusses a concert by the Trichur Brothers at Bharatiya Vidya Bhavan's Margazhi festival. The vocalists employed three strategies to enhance the concert experience. First, they sang a bhajan with introductory sketches using only the notes of Bihag, which the audience intoned back. Second, they performed a detailed niraval along the centrepiece, showcasing their skill in swaraprastara. Third, they included a tani avartanam, where the gathering was encouraged to join in by tapping for the two-kalai Adi tala. The concert also featured the assistance of teenaged violinist V.S.P. Gayathri Sivani and the mridangam player Trichur R. Mohan. The article highlights the brothers' rendition of the ragam-tanam-keertanam in Hemavathi and their performance of the kriti 'Shri kantimatim'. The concert concluded with the songs 'Narayana te' and 'Harivarasanam' [[1]].
+
+Please note that the summary is based on the search results and may not capture all the details of the article.
+
+Tue, 02 Jan 2024 15:14:18 +0530
+### [Ranjani and Gayatri’s concert was high on sowkhyam](https://www.thehindu.com/entertainment/music/ranjani-and-gayatris-concert-was-high-on-sowkhyam/article67697832.ece)
+
+**Summary:**
+
+The article discusses a concert by the renowned Carnatic vocalists Ranjani and Gayathri at the Music Academy's 97th annual conference and concerts in 2023. The sisters have been at the top of their field for a decade and continue to strive for excellence in their classical exploration. The concert showcased their vibrant and scholarly elements, with a focus on skill and variations in delivery. The article highlights specific performances and compositions from the concert, such as the adjustment in tempo and the inclusion of a Thiruarutpa of Ramalinga Adigalar. The concert also gave space and respect to co-artists, such as M. Rajeev on the violin and Manoj Siva on the mridangam. Overall, the concert demonstrated the sisters' ability to strike a balance between vibrancy and contemplation, tradition and innovation, and showcased their musical nuances more profoundly [[1]](https://www.thehindu.com/entertainment/music/ranjani-and-gayatris-concert-was-high-on-sowkhyam/article67697832.ece).
+
+#### Ranjani and Gayathri's Concert at the Music Academy's 97th Annual Conference and Concerts 2023
+
+Ranjani and Gayathri, renowned Carnatic vocalists, performed at the Music Academy's 97th annual conference and concerts in 2023. The concert showcased their vibrant and scholarly elements, with a focus on skill and variations in delivery. The sisters have been at the top of their field for a decade and continue to strive for excellence in their classical exploration [[1]](https://www.thehindu.com/entertainment/music/ranjani-and-gayatris-concert-was-high-on-sowkhyam/article67697832.ece).
+
+#### Notable Performances and Compositions
+
+The concert featured several notable performances and compositions. One noticeable change was the adjustment in tempo, with a focus on skill and variations in delivery. The song 'Ekadantam bhaje ham' (Bilahari, Dikshitar) demonstrated this adjustment, with a teaser quota of swaras. The raga Pantuvarali was given a lift with sensitive phrases from Ranjani, including the liberal use of Panchama varjam, which gave it a Hindustani feel. The concert also included a Thiruarutpa of Ramalinga Adigalar, set to music by their guru, P. S. Narayanaswamy, in Adi, tisra nadai. The composition was enhanced by the niraval at 'Enniru kan maniye' and PSN's laya-laced chittaswara. Other compositions performed included 'Kandu kandu' in Kamboji (Purandaradasa) and 'Vijayambike' (Vijayanagari) of Muthiah Bhagavathar. The concert also featured a classic alapana of Bhairavi and an RTP in Nalinakanti, which included a beautifully rendered thanam, an artistic pallavi in Adi, and a multi-raga swara by Gayatri. The concert showcased the sisters' ability to strike a balance between vibrancy and contemplation, tradition and innovation, and captured their musical nuances more profoundly [[1]](https://www.thehindu.com/entertainment/music/ranjani-and-gayatris-concert-was-high-on-sowkhyam/article67697832.ece).
+
+#### Co-Artistes and Their Contributions
+
+The concert also gave space and respect to co-artists who are competent in their own right. M. Rajeev, the violinist, showcased his musical maturity in all raga alapana segments, especially in Nalinakanti. Manoj Siva, on the mridangam, played a complementary role, and the tani with Chandrasekara Sharma on the ghatam was bright and skillful. The concert also included a virutham in Mohanam and the Papanasam Sivan kriti, 'Nambikketavar evarayya' in Hindolam. Despite the time constraints, an abhang was also performed during the concert. The inclusion of co-artists and their contributions added to the overall richness of the performance [[1]](https://www.thehindu.com/entertainment/music/ranjani-and-gayatris-concert-was-high-on-sowkhyam/article67697832.ece).
+
+#### Conclusion
+
+Ranjani and Gayathri's concert at the Music Academy's 97th annual conference and concerts in 2023 showcased their vibrant and scholarly elements, with a focus on skill and variations in delivery. The concert featured notable performances and compositions, including adjustments in tempo, sensitive phrases, and a multi-raga swara. The inclusion of co-artists and their contributions added further richness to the performance. Overall, the concert demonstrated the sisters' ability to strike a balance between vibrancy and contemplation, tradition and innovation, and captured their musical nuances more profoundly [[1]](https://www.thehindu.com/entertainment/music/ranjani-and-gayatris-concert-was-high-on-sowkhyam/article67697832.ece).
+
+Tue, 02 Jan 2024 14:40:29 +0530
+### [Shertalai Renganatha Sharma’s classic Kalyani](https://www.thehindu.com/entertainment/music/shertalai-renganatha-sharmas-classic-kalyani/article67697879.ece)
+
+Article found but Couldn't summarize 
+Renganatha Sharma’s singing of the raga, complete with gamakas and brigas, stood out for its musicality
+
+Mon, 01 Jan 2024 16:26:28 +0530
+### [How can dancers bring their art alive on stage?](https://www.thehindu.com/entertainment/dance/how-can-dancers-bring-their-art-alive-on-stage/article67695179.ece)
+
+The article discusses the Kalavaahini Dance for Dance festival, which took place on December 22, 2023, at Bharatiya Vidya Bhavan under the auspices of Kartik Fine Arts. The festival aims to provide opportunities for dancers and ensure they are paid professionally for their work. Classical dance forms, such as Bharatanatyam and Kathak, offer a structured framework for creating and connecting with the audience. The performances at the festival drew inspiration from bhakti literature, both old and new. Aditi Mangaldas presented a production called 'Immersed,' exploring the abstractness amidst the lore of Krishna. Lakshmi Parthasarathy Athreya premiered 'The dot that moved,' which used the Shiva Tandava stotram. The performances were accompanied by a team of supporting artists, including musicians and lighting designers. The article also touches on the challenges of creating new productions within the bounds of tradition and the importance of cultural integration in the dance community.
+
+Mon, 01 Jan 2024 15:32:03 +0530
+### [N.J. Nandini showed why song selection matters too](https://www.thehindu.com/entertainment/music/nj-nandini-showed-why-song-selection-matters-too/article67695110.ece)
+
+#### Summary of "Trivandrum N.J. Nandini's Music Academy Recital"
+
+Trivandrum N.J. Nandini recently performed a two-hour recital at The Music Academy, showcasing her impressive vocal abilities and song selection. She began with Ambujam Krishna’s ‘Iniyaagilum ninai’ in Purvikalyani, demonstrating clarity in sangatis and showcasing her vocal range in a Hindolam raga alapana. Nandini also presented lesser-heard Swati Tirunal kritis, adding variety to the concert. Her performance of Ragam Tanam Pallavi in raga Bilahari was notable, and she was accompanied by Sriram Sridhar on the violin, Kishore Ramesh on the mridangam, and Karthik Krishnaswamy on the ghatam. While Sriram faced some challenges, he excelled during the RTP. Overall, Nandini's performance was well-received, and her co-artists provided good support and enhanced the presentation with their contributions.
+
+#### Key Points:
+- Trivandrum N.J. Nandini presented a well-planned two-hour recital at The Music Academy, showcasing her pleasing voice and penchant for song selection.
+- She demonstrated clarity in sangatis and vocal range in a Hindolam raga alapana.
+- Nandini presented lesser-heard Swati Tirunal kritis, adding variety to the concert.
+- Her performance of Ragam Tanam Pallavi in raga Bilahari was notable.
+- She was accompanied by Sriram Sridhar on the violin, Kishore Ramesh on the mridangam, and Karthik Krishnaswamy on the ghatam.
+- Sriram faced challenges but excelled during the RTP, and Nandini's co-artists provided good support.
+
+(https://nlp.biu.ac.il/~ravfogs/resources/embedding...)
+
+Sun, 31 Dec 2023 11:44:19 +0530
+### [‘Devil’ movie review: Nandamuri Kalyan Ram shoulders a half-decent genre bender](https://www.thehindu.com/entertainment/movies/devil-movie-review-nandamuri-kalyan-ram-shoulders-a-half-decent-genre-bender/article67690816.ece)
+
+#### Summary of "Devil - The British Secret Agent" Article
+
+The article discusses the film "Devil - The British Secret Agent," starring Nandamuri Kalyan Ram, and the controversy surrounding the director's credit. The film is described as a serious whodunit investigative thriller set in the pre-Independence era, where the protagonist, Agent Devil, is sent to investigate a murder while also being assigned a mission to intercept a message from freedom fighter Netaji Subhas Chandra Bose. The article praises Kalyan Ram's performance but criticizes the film's overt reliance on dramatic aspects, unnecessary theatrics, and a disappointing climax. Despite some genuine ideas and good twists, the film fails to bring everything together, leaving a poor aftertaste. Overall, the article provides a critical review of "Devil - The British Secret Agent."
+
+[[1]]
+
+Sat, 30 Dec 2023 14:31:10 +0530
+### [K. Gayatri’s concert was steeped in bhakti](https://www.thehindu.com/entertainment/music/k-gayatris-concert-was-high-on-bhakti-rasa/article67689856.ece)
+
+The article titled "K. Gayatri's Concert: A Melodious Evening of Ragas Varali and Bhairavi" describes a concert by K. Gayatri, a renowned musician. The concert showcased the beauty and mellow nature of ragas Varali and Bhairavi. Gayatri's performance was praised for her skillful handling of the raga Kamboji and her presentation of Papavinasa Mudaliar's composition, 'Natamadi thirindha'. The article also highlights the contributions of B. Ananthakishnan on the violin and Vijay Natesan on the mridangam, who added vibrant hues and rhythmic support to the concert, respectively. Gayatri's performance included a variety of compositions, ranging from the Dakshinamurthy stotram to Tyagaraja's kriti in Abhogi. The concert concluded with the tillana 'Gowri nayaka' in Kanada. Overall, the concert was a mesmerizing experience that showcased Gayatri's virtuosity and the synergy between the musicians.
+
+Please note that the information provided is a summary of the article and the actual content may contain more details.
+
+Sat, 30 Dec 2023 12:15:29 +0530
+### [‘Migration’ movie review: Taking flight on jolly wings](https://www.thehindu.com/entertainment/movies/migration-movie-review-taking-flight-on-jolly-wings/article67687076.ece)
+
+The article titled "Migration" is about a movie that features a short film called "Mooned" before the main feature. In "Mooned," the character Vector from "Despicable Me" is marooned on the moon and tries to get off with the help of the Minions. The main feature revolves around a family of mallards who live in a forest in New England. The father, Mack, prefers a quiet life, but his wife, Pam, and their children, Dax and Gwen, are more adventurous. When a family of ducks passing through the pond on their way to Jamaica, Dax becomes infatuated with one of them, Kim. The family decides to embark on an adventure to Jamaica, but they face various challenges along the way, including encounters with other birds and a bejeweled chef. Eventually, they reach Jamaica and see the blue mountains. The movie has excellent voice work, vibrant animation, and the right amount of action. It is currently running in theaters. [[1]](https://www.askamanager.org/2022/01/the-new-hire-who-showed-up-is-not-the-same-person-we-interviewed.html).
+
+#### Key Points:
+- The movie "Migration" features a short film called "Mooned" before the main feature.
+- "Mooned" is about the character Vector from "Despicable Me" trying to get off the moon with the help of the Minions.
+- The main feature revolves around a family of mallards who embark on an adventure to Jamaica.
+- The movie has excellent voice work, vibrant animation, and the right amount of action.
+
+Please note that the summary is based on the information provided in the article and may not capture all the details or nuances of the movie.
+
+Fri, 29 Dec 2023 15:11:52 +0530
+### [‘Bubblegum’ movie review: An imperfect but interesting film about young love and aspirations](https://www.thehindu.com/entertainment/movies/bubblegum-telugu-movie-review-an-imperfect-but-interesting-film-about-young-love-and-aspirations/article67686498.ece)
+
+The article titled "Bubblegum: An Exploration of Young Urban Romance" discusses the Telugu film "Bubblegum" directed by Ravikanth Perepu. The film tells the story of Adi and Jhanvi, two young individuals from different backgrounds in Hyderabad, India, who fall in love. The article highlights the film's portrayal of their love story, the exploration of class differences and insecurities, and the question of whether love alone is enough to bridge the gap between them. The article also praises the performances of the actors and the vibrant visuals and music in the film. Overall, while the article acknowledges that the film has some flaws, it commends its individuality and unique perspective on young urban romance.
+
+Thu, 28 Dec 2023 18:44:30 +0530
+### [Did Malladi Brothers’s experiment pay off?](https://www.thehindu.com/entertainment/music/did-malladi-brotherss-experiment-pay-off/article67676003.ece)
+
+#### Summary of "Malladi Brothers' Performance at Mylapore Fine Arts Club, December 2023"
+
+The Malladi Brothers, Sreeramprasad and Ravikumar, performed at the 72nd year art festival of Mylapore Fine Arts Club in Chennai in December 2023. Their performance was characterized by surprising choices and experimentation, with the use of various ragas and compositions. The concert featured pieces in Kedaram, Sriranjani, Devagandhari, Kantamani, Ananda Bhairavi, Mayamalavagowla, Bilahari, and Pahadi, showcasing a diverse range of musical moods and styles. The brothers demonstrated their traditional repertoire and respect for lyrical expressions, while also allowing for improvisation and creativity within the constraints of certain ragas. The accompanying musicians, including violinist Karthik Nagaraj, Ghatam Suresh, and K.V. Gopalakrishnan, contributed to the overall success of the performance with their skillful and engaging accompaniment.
+
+The concert was noted for its experimentation and the brothers' ability to create various moods through their choice of ragas. The performance was a blend of traditional repertoire and innovative selections, showcasing the Malladi Brothers' musical versatility and skill.
+
+Overall, the Malladi Brothers' performance at the Mylapore Fine Arts Club in December 2023 was characterized by surprising choices, experimentation, and a blend of traditional and innovative musical elements.
+
+[[1]]
+
+Thu, 28 Dec 2023 18:42:57 +0530
+### [The Akkarai Sisters concert: Some leisurely moments would have enhanced the appeal](https://www.thehindu.com/entertainment/music/the-akkarai-sisters-concert-some-leisurely-moments-would-have-enhanced-the-appeal/article67680299.ece)
+
+The article discusses the concert performance of the Akkarai Sisters, S. Subhalakshmi and S. Sornalatha, accompanied by Patri Satish Kumar on the mridangam, Kamalakiran on the violin, and Krishna Sairam on the ghatam. The concert had both positive and negative aspects. While the sisters showcased technical accomplishments and rapid tempos, the performance lacked pleasantness and sensitivity. The article highlights specific songs and their renditions during the concert, such as 'Seethamma mayamma' in Vasantha and 'Karunakari devi kamakshi' in Sumanesa Ranjani. The Akkarai Sisters demonstrated their manodharma skills and musical instinct, but the article suggests that they may need to reflect on their overall style and identity. The concert also featured Kamalakiran's impressive raga alapana and laya skills, while Krishna Sairam added energetic touches on the ghatam. Overall, the article suggests that the concert had its strengths but also room for improvement [[1]](https://www.thehindu.com/entertainment/music/the-akkarai-sisters-concert-some-leisurely-moments-would-have-enhanced-the-appeal/article67680299.ece).
+
+**Source:**
+-
+
 Wed, 27 Dec 2023 16:22:52 +0530
 ### [Abhishek Raghuram and his penchant for unconventionality](https://www.thehindu.com/entertainment/music/abhishek-raghuram-and-his-penchant-for-unconventionality/article67679639.ece)
 

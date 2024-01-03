@@ -14,9 +14,6 @@
     <outline type="rss" title="EDITORIAL TH" xmlUrl="https://www.thehindu.com/opinion/editorial/feeder/default.rss" />
     <outline type="rss" title="Column TH" xmlUrl="https://www.thehindu.com/opinion/columns/feeder/default.rss" />
     <outline type="rss" title="The Wire" xmlUrl="https://thewire.in/rss" />
-    <outline type="rss" title="Tech FP" xmlUrl="https://www.firstpost.com/rss/tech.xml" />
-    <outline type="rss" title="Tech Mint" xmlUrl="https://www.livemint.com/rss/technology" />
     <outline type="rss" title="Movie Review TH" xmlUrl="https://www.thehindu.com/entertainment/reviews/feeder/default.rss" />
-    <outline type="rss" title="ThePrint" xmlUrl="https://theprint.in/feed" />
   </body>
 </opml>

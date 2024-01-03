@@ -1,3 +1,482 @@
+Wed, 03 Jan 2024 18:23:04 +0530
+### [Why India is launching its GSAT-20 on SpaceX’s Falcon 9 rocket](https://www.firstpost.com/explainers/india-is-launching-its-gsat-20-satellite-on-spacexs-falcon-9-rocket-heres-why-13572232.html)
+
+#### Summary of India's GSAT-20 Satellite and SpaceX Falcon 9 Rocket Launch
+
+India is set to launch its new satellite, GSAT-20, on a SpaceX Falcon 9 rocket. The GSAT-20 is a 4,700-kilo communication satellite built by the Indian Space Research Organisation (ISRO) and will be launched by ISRO's commercial arm, NewSpace India Limited (NSIL), using the Falcon 9 rocket in the second quarter of 2024. The satellite is designed to fulfill India’s growing broadband connectivity needs, providing up to 48Gbps of capacity across 32 beams covering all of India, including remote and underserved regions. Additionally, the satellite will facilitate in-flight connectivity for aeromobile services using Ka band [[1]](https://en.wikipedia.org/wiki/GSAT-20).
+
+The Falcon 9 rocket, as per the SpaceX website, is a reusable, two-stage rocket designed and manufactured by SpaceX to put people and payloads into Earth’s orbit and beyond dependably and safely. It is the world’s first orbital-class reusable rocket, standing 70 meters tall and 3.7 meters wide. The Falcon 9 has carried out 285 launches, 243 landings, and 217 reflights, and is powered by Merlin engines using rocket grade kerosene (RP-1) and liquid oxygen as rocket propellants in a gas-generator power cycle. The rocket generates more than 1.7 million pounds of thrust at sea level.
+
+India is using SpaceX for the launch because the GSAT-20 is too heavy for ISRO’s most powerful rocket, the Launch Vehicle Mark 3, which can only put a 4,000-kilo mass into geostationary transfer orbit. The decision to use SpaceX was also influenced by the cost-effectiveness of their services and the unavailability of other rockets in time. ISRO has been advocating for a Next Generation Launch Vehicle (NGLV) capable of putting around 10,000 kilos into orbit, but this won’t be ready for a few years. Meanwhile, ISRO is working on testing its semi-cryogenic engine, which utilizes a propellant combination of Liquid Oxygen (LOX) and Kerosene, to enhance its launch capability [[1]](https://en.wikipedia.org/wiki/GSAT-20).
+
+In conclusion, India's GSAT-20 satellite, to be launched on a SpaceX Falcon 9 rocket, represents a significant step in fulfilling the country's broadband connectivity needs, especially in remote and underserved regions. The collaboration with SpaceX is driven by the satellite's weight exceeding the capacity of ISRO's most powerful rocket and the cost-effectiveness of SpaceX's services. This launch also underscores the ongoing efforts by ISRO to enhance its launch capability, including the development and testing of new technologies such as the semi-cryogenic engine [[1]](https://en.wikipedia.org/wiki/GSAT-20).
+
+Wed, 03 Jan 2024 18:16:11 +0530
+### [What is Free Movement Regime that Centre wants to suspend at Myanmar border?](https://www.firstpost.com/explainers/what-is-free-movement-regime-that-centre-wants-to-suspend-at-myanmar-border-13572132.html)
+
+#### Summary of "Centre to Scrap Free Movement Regime Along Indo-Myanmar Border"
+
+The Centre has decided to scrap the Free Movement Regime (FMR) along the Indo-Myanmar Border (IMB), which was implemented in 2018 as part of India’s Act East policy. The FMR is a mutually agreed pact between India and Myanmar that allows tribes dwelling along the border on either side to travel up to 16 km inside the other country without a visa. The decision to suspend the FMR is aimed at stopping the influx of illegal migrants and addressing the alleged illegal activities, such as drug smuggling, by refugees from Myanmar who have crossed over to India. The move comes in the wake of ethnic conflicts and tensions in the Northeastern states of India, particularly Manipur, where the free movement regime has come under scrutiny. The Centre plans to put fencing along the entire border and issue visas for anyone entering India from Myanmar. However, there are concerns that cancelling the FMR or completely fencing the border may affect livelihoods, education, and essential travel for healthcare. The issue of managing and administering the border areas effectively is crucial for reducing drug trafficking and illegal cross-border movement on unfenced borders. The decision to end the FMR has sparked debates about the potential impact on various aspects of life in the border regions and the effectiveness of alternative approaches to address the challenges posed by the porous border and illegal activities.
+
+Wed, 03 Jan 2024 18:13:45 +0530
+### [The Ex Factor: Did Mahua Moitra snoop on her former boyfriends?](https://www.firstpost.com/explainers/did-mahua-moitra-snoop-on-her-former-boyfriends-jai-anant-dehadrai-13572692.html)
+
+Trinamool Congress leader Mahua Moitra has been accused of snooping on her ex-boyfriends by one of her former partners, Jai Anant Dehadrai. Dehadrai filed a complaint with the home ministry and the Central Bureau of Investigation (CBI), alleging that Moitra carried out "illegal surveillance" on him and another former boyfriend. He claimed that Moitra obtained call records without permission and had access to the complete call detail records (CDR) history of her ex-boyfriend. Dehadrai also mentioned that Moitra justified her actions by claiming certain rights enjoyed by a member of Parliament. He expressed concerns about his safety and alleged that Moitra is using her connections with senior Bengal police officers to conduct illegal surveillance on him. Moitra responded to the allegations, insinuating that Dehadrai is a jilted ex. The two have been in a public spat for months, including a battle over the custody of their pet rottweiler, Henry. Dehadrai is a known name in legal circles, specializing in white-collar crimes. He has fought for various causes and is currently challenging Delhi prison rules in the Supreme Court.
+
+Wed, 03 Jan 2024 17:10:46 +0530
+### [The horrific tale of Indian-origin man murdering wife and daughter in US, before killing self](https://www.firstpost.com/explainers/the-horrific-tale-of-indian-origin-man-murdering-wife-and-daughter-in-us-before-killing-self-13571662.html)
+
+#### Autopsy Results Confirm Homicide by Gunshot
+
+The autopsy results issued by the Office of the Chief Medical Examiner have confirmed that Teena and her daughter Arianna were victims of homicide by gunshot. Rakesh Kamal, on the other hand, died from a "gunshot wound consistent with being self-inflicted" [[1]].
+
+#### Murder-Suicide Declaration and Investigation
+
+The deaths of Rakesh Kamal, Teena Kamal, and their daughter Arianna have been declared as a case of murder-suicide by medical examiners in Massachusetts. Rakesh Kamal is alleged to have shot dead his wife and daughter before turning the gun on himself inside their mansion in Dover, Massachusetts. District Attorney Michael Morrissey described the murders as a "domestic violence situation" and stated that there was no indication of any outside party's involvement, despite the recovery of a gun beside Rakesh's body. The incident remains under investigation by Dover and Massachusetts State Police [[1]].
+
+#### Financial Struggles and Background of the Family
+
+The Kamal family, who resided in a $5.45 million mansion, faced financial struggles as their estate went into foreclosure and was eventually sold for $3 million. Rakesh and Teena Kamal had run a now-defunct education systems company called EduNova, which faced financial problems in recent years. Teena had filed for Chapter 13 bankruptcy in September 2022, listing between $1 million and $10 million in liabilities. Their daughter, Arianna, was a student at Middlebury College, studying neuroscience. The family's financial difficulties and the dissolution of their company shed light on the challenges they were facing [[1]].
+
+#### Conclusion
+
+The tragic incident involving the Kamal family has been declared a murder-suicide, with Rakesh Kamal alleged to have shot his wife and daughter before taking his own life. The family's financial struggles and the dissolution of their company provide context to the challenges they were facing. The investigation into this devastating event remains ongoing [[1]].
+
+Wed, 03 Jan 2024 15:58:21 +0530
+### [What are the new ICU admission guidelines for critical patients?](https://www.firstpost.com/explainers/what-are-the-new-icu-admission-guidelines-for-critical-patients-13570342.html)
+
+The central government of India has released new guidelines for the admission of critically ill patients to the intensive care unit (ICU). These guidelines were produced by 24 leading physicians with expertise in critical care medicine, including doctors from Dubai and Canada, and were developed for the Union Health Ministry. The guidelines aim to improve the decision-making process for ICU admission and provide recommendations for various scenarios. According to the guidelines, critically ill patients cannot be admitted to the ICU if there is a refusal by them and their relatives. The guidelines also address the criteria for ICU admission and discharge, emphasizing the need for organ failure, the need for organ support, or the anticipation of deterioration in the patient's medical condition. The guidelines also mention the qualifications required for specialists in the ICU. The guidelines are aimed at ensuring the judicious use of ICU resources and prioritizing patients who need it the most.
+
+It is important to note that the guidelines are not binding and leave room for the treating doctor's discretion. Dr. Sumit Ray, Secretary of the Indian College of Critical Care Medicine, stated that the guidelines provide broad criteria and rely on the wisdom of the treating doctor.
+
+The release of these guidelines is significant as ICU admissions that are not necessary have been criticized in the past. India has a limited number of ICU beds, with the majority being in private hospitals where the cost of an ICU bed is significantly higher than a regular bed. The guidelines aim to ensure the judicious use of ICU resources and prioritize patients based on their condition.
+
+Overall, the new guidelines for ICU admission in India provide recommendations for determining the necessity of ICU admission, criteria for admission and discharge, and qualifications for ICU specialists. These guidelines aim to improve decision-making and ensure the appropriate use of ICU resources
+
+Wed, 03 Jan 2024 15:18:39 +0530
+### [No Indian Science Congress this year? Why it has missed its annual date](https://www.firstpost.com/explainers/no-indian-science-congress-this-year-why-it-has-missed-its-annual-date-13571652.html)
+
+#### Summary of the Indian Science Congress Controversy
+
+The 109th edition of the Indian Science Congress, which was scheduled to begin today, has been called off. The event, organized by the Indian Science Congress Association (ISCA), has been a lightning rod for controversies in recent years. The reason for the event not being held this year is a financial dispute between the ISCA and the Union Ministry of Science and Technology’s Department of Science (DST) The DST, a key funder of the event, contributed Rs 5 crore to the Indian Science Congress in 2023. However, in September, the DST claimed there were "financial irregularities" and abruptly pulled its backing of the event. This led to a tiff over money between the ISCA and the DST, resulting in the event being put on hold.
+
+The controversies surrounding the event have been significant. In recent years, the event has seen attendees making unscientific and ridiculous claims, which have drawn criticism. These claims include assertions about ancient aviation, surgical instruments, Pythagoras theorem, and even the ability of cows to turn food into gold The event has been criticized for promoting pseudoscience and offering a platform for advancing pseudoscientific claims, which has damaged its reputation.
+
+Experts have noted that the event's best days are behind it and that it has been tapering off for years. Many credible scientists have avoided the event, and leading scientific institutions and laboratories have only had a token presence, if at all. The event has been described as a platform for advancing pseudoscientific claims, particularly those that dovetail with hyper-nationalist narratives in other spheres.
+
+The controversies and decline in credibility have led to calls for a reevaluation of the event's relevance. While it hosts thousands of school and college students every year and features talks by researchers, the event's reputation has been tarnished by the promotion of pseudoscience.
+
+The Indian Science Congress controversy highlights the challenges faced by the event due to financial disputes and the promotion of unscientific claims, leading to questions about its future relevance and credibility
+
+Wed, 03 Jan 2024 15:12:38 +0530
+### [How Japan Airlines crew helped save lives of 367 flyers as jet burst into flames](https://www.firstpost.com/explainers/how-japan-airlines-crew-helped-save-lives-of-367-flyers-as-plane-burst-into-flames-13571012.html)
+
+An article reports that a Japan Airlines Airbus A350 collided with a smaller Japanese Coast Guard aircraft on the runway at Haneda Airport in Tokyo. The collision resulted in a fireball, but all 379 people on board the Japan Airlines flight were able to evacuate safely before the plane erupted in flames. Unfortunately, five of the six crew members on the Coast Guard aircraft died in the accident. The role of the crew and passengers in the safe evacuation has been highlighted, with reports stating that the evacuation began immediately after the flight landed and all passengers were ushered to safety within 20 minutes. Passengers recounted their experiences, with one describing the loud noise during landing and another mentioning the calm instructions given by the cabin crew. Videos showed passengers calmly evacuating the aircraft using emergency slides. Aviation experts praised the crew members for their efforts in ensuring the successful evacuation. The cause of the crash is still under investigation, but initial reports suggest that it was a result of a runway incursion.
+
+Wed, 03 Jan 2024 13:59:51 +0530
+### [Taylor Swift the new Shakespeare? Why singer deserves a place in English literature](https://www.firstpost.com/explainers/taylor-swift-classes-shakespeare-comparison-13568992.html)
+
+The article discusses the growing academic interest in studying Taylor Swift's work as literature. The author shares their experience of starting a podcast and designing a summer school course on Taylor Swift and literature. They highlight how Swift's songs, such as "cardigan," can be analyzed using close reading techniques. The article also mentions that Swift's work has been studied in various academic disciplines, including media studies and fan studies. The author compares the interest in Swift's work to the popularity of classes on Shakespeare, suggesting that the interest lies in Swift being seen as an "author." They emphasize that studying Swift's work as literature is not a challenge to Shakespeare's supremacy but rather a reflection of the flexibility and open-mindedness of the discipline of English literature.
+
+Wed, 03 Jan 2024 13:06:41 +0530
+### [Now a gang-rape in metaverse: How sexual predators roam free in the virtual world](https://www.firstpost.com/explainers/now-a-gang-rape-in-metaverse-how-sexual-predators-roam-free-in-the-virtual-world-13570602.html)
+
+**Summary of the Article:**
+
+The article discusses a disturbing incident in the UK where a teenage girl wearing a virtual reality (VR) headset was allegedly gang-raped by avatars of other men in the metaverse, an immersive digital world. The case is being investigated by the police and has raised concerns about the rise of virtual sexual offenses and the psychological impact on victims. While this case is the first of its kind to be investigated in the UK, instances of virtual rape and sexual harassment in the metaverse have been reported by other individuals, highlighting the need for legal and safety measures in virtual spaces. The article also addresses the challenges in prosecuting virtual sexual offenses under current legislation, and emphasizes the need for updated laws to address the risks of harm in artificial intelligence and virtual platforms. Additionally, it mentions Meta's response to the incident and the need for stronger measures to protect users from virtual predators.
+
+The article underscores the urgent need for legal and safety measures to address virtual sexual offenses and protect individuals in the metaverse, as well as the challenges in prosecuting such cases under current legislation.
+
+Wed, 03 Jan 2024 13:02:52 +0530
+### [Harvard president quits: The controversial term of Claudine Gay](https://www.firstpost.com/explainers/harvard-president-resigns-the-short-but-controversial-tenure-of-claudine-gay-13570502.html)
+
+Claudine Gay, the first person of color and second woman to serve as president of Harvard University, has resigned from her position, making her tenure the shortest in the school's history. Gay's resignation comes after she faced multiple controversies and scandals during her time as president. One controversy involved her handling of pro-Palestinian protests on campus following an attack in Israel, where she was criticized for not denouncing the attack or a letter published in its aftermath. Gay also faced allegations of plagiarism in her doctoral dissertation, which led to an independent review that found inadequate citations but no violation of Harvard's research misconduct standards. Following her resignation, reactions have been mixed, with some expressing shock and others believing it was long overdue.
+
+Wed, 03 Jan 2024 12:52:09 +0530
+### [What comes next for Oscar Pistorius after his release from jail?](https://www.firstpost.com/explainers/what-comes-next-for-blade-runner-oscar-pistorius-after-his-release-from-jail-13570032.html)
+
+Former Paralympic star Oscar Pistorius is set to be released from prison on Friday after being granted parole. Pistorius was accused of killing his girlfriend Reeva Steenkamp in 2013 by shooting her through a bathroom door in their shared home in Pretoria. He became eligible for parole in March 2023 after serving half of his 13-year and five-month sentence for murder. Pistorius will complete the remainder of his sentence in South Africa's community corrections system under the supervision of the Department of Correctional Services. He will be subjected to parole conditions until December 2029, including attending programs on gender-based violence and continuing therapy sessions on anger management. Pistorius participated in the restorative justice program, which aims to bring affected parties together to find closure, prior to his parole.
+
+The reaction to Pistorius' early release has been mixed. The Steenkamp family lawyer stated that they were not surprised by the parole decision and lauded the parole board's efforts in involving the victims. Reeva Steenkamp's mother, June, released a statement expressing her lack of conviction in Pistorius' rehabilitation but stated that she had no objections to his release. Pistorius' lawyer and family did not comment on the matter.
+
+Overall, Pistorius' release marks a significant moment in his life, but it also raises concerns about his future. He will be closely monitored and will have to adhere to parole conditions until his sentence expires in December 2029
+
+Wed, 03 Jan 2024 11:24:37 +0530
+### [Hit-and-run law controversy: How Centre convinced truckers to end nationwide strike and averted a crisis](https://www.firstpost.com/explainers/hit-and-run-law-how-the-centre-convinced-protesting-truckers-to-end-nationwide-strike-13569602.html)
+
+The article discusses the recent nationwide strike by truck drivers and various transport associations in India against the new provisions of the Bharatiya Nyay Sanhita (BNS) Bill, 2023, which relates to hit-and-run cases. The strike was called off after the central government assured the truck drivers that their opinions would be taken into account before implementing the new law. The government stated that it would consult with the All India Motor Transport Congress (AIMTC) before making a decision on the law.
+
+The truck drivers' association confirmed that they have addressed their concerns with the government and that there are no unresolved issues at the moment. The President of All India Motor Transport Congress, Amrit Lal Madan, stated that the punishment and fine imposed by the law have been put on hold, and no new laws will be implemented until further consultations are held.
+
+The controversial law, Section 106(2) of the Bharatiya Nyaya Samhita, imposes severe penalties, including a maximum sentence of 10 years in prison or a fine of Rs 7 lakh, for drivers who cause a serious traffic accident through careless driving and flee the scene without reporting it to the authorities. The law aims to address the high number of hit-and-run cases in India, which resulted in thousands of deaths in recent years.
+
+Driver groups and activists have expressed concerns about the law, including potential unfair penalties and the ability to pay steep fines in case of accidents. They have also highlighted issues with police blaming large vehicles for accidents without conducting thorough investigations and the risk of facing violent mobs at accident scenes. The truckers have called for prior meetings and consultations with stakeholders before implementing such laws.
+
+The strike and protests against the new hit-and-run law were witnessed in several states, including Jammu and Kashmir, Bihar, Punjab, Maharashtra, Madhya Pradesh, Himachal Pradesh, and Chhattisgarh. The protests led to concerns about fuel shortages, with about 2,000 petrol pumps running out of fuel stocks in western and northern India.
+
+In summary, the recent strike by truck drivers and transport associations in India was called off after the government assured them that their opinions would be considered before implementing the new hit-and-run law. The law aims to address the high number of hit-and-run cases in the country, but concerns have been raised about potential unfair penalties and the ability to pay fines. The protests resulted in fuel shortages in some parts of India
+
+Wed, 03 Jan 2024 10:12:39 +0530
+### [Who was Saleh al-Arouri, Hamas’ deputy leader killed in Beirut?](https://www.firstpost.com/explainers/who-was-saleh-al-arouri-hamas-deputy-leader-killed-in-beirut-13569692.html)
+
+#### Summary:
+
+The deputy head of Hamas, Saleh al-Arouri, was killed in a suspected Israeli drone strike in Beirut, Lebanon. The strike targeted an apartment in a Hezbollah-controlled area, killing al-Arouri and six others. Hamas confirmed his death and called it a "cowardly assassination" by Israel. Al-Arouri was a senior Hamas official who played a key role in the organization and had been on Israel's radar for a long time. He was involved in Islamist activism and helped create Hamas' military wing. He was accused by Israel of planning terrorist attacks and was designated as a global terrorist by the US. His death is seen as a significant success for Israel but raises concerns about further escalation in the Israel-Hamas conflict [[1]].
+
+#### Who was Saleh al-Arouri?
+
+Saleh al-Arouri was the deputy chief of Hamas' political bureau and had climbed the ranks within the organization. He was born in the occupied West Bank and became involved in Islamist activism during his time at Hebron University. He joined Hamas soon after its foundation and helped create its military wing, the Izz al-Din al-Qassam brigades. He was jailed by Israel for almost 18 years but was later released. Al-Arouri developed contacts throughout the region and served as a Hamas ambassador to Hezbollah. He was accused by Israel of planning terrorist attacks and was considered a key figure in Hamas [[1]].
+
+#### Significance of al-Arouri's death:
+
+Al-Arouri's death is a significant success for Israel, as he was a senior Hamas official and had been on Israel's radar for a long time. However, there are concerns that his death could lead to further escalation in the Israel-Hamas conflict. Hezbollah leader Hassan Nasrallah called the targeting of al-Arouri a "serious attack on Lebanon" and vowed a response. Lebanese Prime Minister Najib Mikati condemned the attack and called for pressure on Israel to stop its targeting. The situation raises fears of wider conflict and the need to deter Israel's aggression [[1]].
+
+#### Israel's response:
+
+Israel has not officially claimed responsibility for the strike that killed al-Arouri. However, one Israeli and two US officials confirmed to Axios that Israel was behind the strike. Israeli spokesperson Mark Regev stated that whoever carried out the strike had a gripe with Hamas and that it was not an attack on the Lebanese state or Hezbollah. Israel sees the strike as a surgical strike against the Hamas leadership [[1]].
+
+#### Conclusion:
+
+The killing of Saleh al-Arouri, the deputy head of Hamas, in a suspected Israeli drone strike in Beirut, Lebanon, is a significant development in the Israel-Hamas conflict. Al-Arouri was a senior Hamas official who played a key role in the organization. His death raises concerns about further escalation in the conflict and has drawn condemnation from Hezbollah and the Lebanese prime minister. Israel has not officially claimed responsibility for the strike but has been confirmed by Israeli and US officials. The situation highlights the ongoing tensions and the need to deter further aggression [[1]].
+
+Wed, 03 Jan 2024 10:08:56 +0530
+### ['Donkey flight' case: How much did Gujarat passengers pay to enter the US?](https://www.firstpost.com/explainers/donkey-flight-case-how-much-did-gujarat-passengers-pay-to-enter-the-us-13569682.html)
+
+According to an article, more than 60 people from Gujarat, India, who were on board a Nicaragua-bound plane, had agreed to pay immigration agents between Rs 60 lakh and Rs 80 lakh to help them enter the US illegally after reaching Nicaragua via Dubai. The passengers, including some minors, were mainly from Mehsana, Ahmedabad, Gandhinagar, and Anand districts. The state Crime Investigation Department (CID) has acquired the names and contact numbers of nearly 15 agents who promised to assist these individuals in crossing the US-Mexico border illegally. The agents had instructed the passengers to pay the money only after reaching the US, and they had also provided air tickets and cash to deal with any emergency situations. The CID has requested assistance from the Central Bureau of Investigation (CBI) to gather more information about the agents involved in the case.
+
+The Nicaragua-bound aircraft, an Airbus A340, was grounded in France for four days over suspected human trafficking. The passengers had boarded the flight in Dubai, and it carried a total of 303 passengers, including 260 Indians. The French authorities launched a judicial investigation into the conditions and purpose of the trip, focusing on suspected human trafficking. Nicaragua has become a popular destination for those seeking asylum in the US, and many Indians have attempted to enter the US illegally through the Mexican land border.
+
+Please note that the information provided is based on the article summary and may not include all the details.
+
+Wed, 03 Jan 2024 08:51:36 +0530
+### [In Graphics | The science of feeling cold during winter, explained](https://www.firstpost.com/explainers/in-graphics-the-science-of-feeling-cold-during-winter-explained-13567802.html)
+
+Article found but Couldn't summarize 
+In Graphics | The science of feeling cold during winter, explained
+
+Tue, 02 Jan 2024 21:13:29 +0530
+### [FirstUp: PM Modi in Kerala, ED summons Kejriwal, SC hears Moitra plea... big news today](https://www.firstpost.com/explainers/firstup-pm-modi-in-kerala-ed-summons-kejriwal-sc-hears-moitra-plea-big-news-today-13569172.html)
+
+#### Summary of the Article:
+Today's news includes Prime Minister Narendra Modi's address at a mass rally in Kerala to kick off the 2024 general election campaign, the Enforcement Directorate's third summons of Delhi chief minister Arvind Kejriwal, the Supreme Court's hearing of a plea from former Lok Sabha MP Mahua Moitra, India's upcoming second test match against South Africa, and the birth anniversary of social reformer and educationist Savitribai Phule. The rally in Kerala is organized by the BJP to congratulate PM Modi for passing the Women’s Reservation Bill and is seen as the official launch of the party's poll campaign in Kerala. The Enforcement Directorate has summoned Kejriwal for questioning in connection with the Delhi Excise Policy case for the third time. Mahua Moitra has approached the Supreme Court against her expulsion from the Lok Sabha in the cash-for-query row. India's first test against South Africa resulted in a heavy defeat, and the upcoming second test raises questions about India's performance. Today also marks the 193rd birth anniversary of Savitribai Phule, a social reformer and educationist from Maharashtra.
+
+#### Key Points:
+- **PM Modi in Kerala:**
+  - Prime Minister Narendra Modi is addressing a mass gathering of over 2 lakh women in Thrissur, Kerala, to kick off the 2024 general election campaign for the BJP [[1]](https://www.firstpost.com/explainers/firstup-pm-modi-in-kerala-ed-summons-kejriwal-sc-hears-moitra-plea-big-news-today-13569172.html).
+  - The rally, titled ‘Sthree Shakthi Modikk Oppam’ (Empower Women with PM Modi), is organized to congratulate PM Modi for passing the Women’s Reservation Bill and is viewed as the official launch of the BJP's poll campaign in Kerala [[1]](https://www.firstpost.com/explainers/firstup-pm-modi-in-kerala-ed-summons-kejriwal-sc-hears-moitra-plea-big-news-today-13569172.html).
+
+- **ED Summons Kejriwal:**
+  - The Enforcement Directorate has summoned Delhi chief minister Arvind Kejriwal for questioning for the third time in connection with the Delhi Excise Policy case [[1]](https://www.firstpost.com/explainers/firstup-pm-modi-in-kerala-ed-summons-kejriwal-sc-hears-moitra-plea-big-news-today-13569172.html).
+  - This is the third time the agency has summoned Kejriwal, who has previously skipped the appearances, leading to criticism and dismissal of the case by the AAP as ‘fake and bogus’ [[1]](https://www.firstpost.com/explainers/firstup-pm-modi-in-kerala-ed-summons-kejriwal-sc-hears-moitra-plea-big-news-today-13569172.html).
+
+- **Mahua Moitra Plea in SC:**
+  - Former Lok Sabha MP Mahua Moitra has approached the Supreme Court against her expulsion in the cash-for-query row, accusing the Lok Sabha committee of being a ‘Kangaroo court’ and vowing to continue to fight against the BJP – inside and outside of Parliament [[1]](https://www.firstpost.com/explainers/firstup-pm-modi-in-kerala-ed-summons-kejriwal-sc-hears-moitra-plea-big-news-today-13569172.html).
+
+- **India-South Africa Second Test:**
+  - India's first test against South Africa resulted in a heavy defeat, and questions arise about India's performance and potential changes in the bowling attack for the upcoming second test.
+
+- **Birth Anniversary of Savitribai Phule:**
+  - Today marks the 193rd birth anniversary of social reformer and educationist Savitribai Phule, who, along with her husband, opened India’s first school for girls and imparted education to the so-called untouchables.
+
+This summary covers the major developments from the article. If you need more information on any specific topic, feel free to ask!
+
+Tue, 02 Jan 2024 20:09:38 +0530
+### [World Economic Forum at Davos: A guide to high-profile meet and why it matters](https://www.firstpost.com/explainers/world-economic-forum-at-davos-a-guide-to-high-profile-meet-and-why-it-matters-13568862.html)
+
+The World Economic Forum (WEF) is a not-for-profit foundation that fosters global cooperation on political, social, and economic issues. It was founded in 1971 by Klaus Schwab and has since become an annual meeting of the world's rich and powerful in Davos, Switzerland. The WEF aims to provide a platform for resolving international conflicts and includes speeches and sessions on various topics. The 2023 WEF meet saw over 2,700 leaders from 130 countries in attendance. The theme for this year's meeting is 'Rebuilding trust' and will explore four areas. Critics argue that attendees are out-of-touch or profit-hungry, but the WEF has also had some solid accomplishments since its inception.
+
+Tue, 02 Jan 2024 20:02:14 +0530
+### [Miraculous escape: How 379 people fled Japan Airlines plane before flames engulfed it](https://www.firstpost.com/explainers/japan-plane-fire-379-people-evacuated-coast-guard-collision-jal-flames-13568872.html)
+
+#### Summary of the Incident at Haneda International Airport
+
+On January 2, 2024, a tragic incident occurred at Haneda International Airport in Tokyo, Japan, involving a collision between a Japan Airlines Airbus A350 and a smaller Japan Coast Guard aircraft. The collision resulted in a fire that engulfed the Japan Airlines plane, leading to the deaths of five Coast Guard members. Here's a closer look at the details:
+
+**Incident Details:**
+- The collision occurred after the Japan Airlines flight landed on runway C at Haneda airport, leading to a fire that engulfed the aircraft [[2]](https://www.bloomberg.com/news/articles/2024-01-02/japan-airlines-plane-on-fire-on-runway-at-tokyo-s-haneda-airport).
+- All 367 passengers and 12 crew members aboard the Airbus A350 were safely evacuated, while five of the six members of the Coast Guard aircraft tragically lost their lives [[6]](https://www.nytimes.com/2024/01/02/world/asia/tokyo-haneda-plane-fire.html).
+- The Japan Coast Guard plane, identified as an MA-722, a Bombardier Dash-8, was reportedly preparing to fly to Niigata prefecture for earthquake relief efforts when the collision occurred.
+
+**Response and Evacuation:**
+- Videos showed the passengers evacuating the flight through emergency chutes, with eyewitnesses describing the chaotic and frightening experience inside the cabin.
+- At least 70 fire trucks were deployed to extinguish the flames that engulfed the Japan Airlines plane.
+
+**Investigation and Speculation:**
+- The incident is currently under investigation, with initial speculation suggesting that the collision may have been due to a "runway incursion," possibly caused by the Coast Guard aircraft unexpectedly entering the runway.
+- Experts have emphasized the need for a thorough investigation before drawing conclusions about the exact sequence of events that led to the collision and subsequent fire.
+
+This tragic incident has raised concerns and prompted ongoing investigations to determine the precise circumstances that led to the collision and the resulting fire at Haneda International Airport.
+
+For the latest global news updates, you can join our Whatsapp channel.
+
+Published on: January 02, 2024 20:02:14 IST
+
+Tue, 02 Jan 2024 19:02:12 +0530
+### [It’s the time for Dry January: Why giving up alcohol for a month is a good idea](https://www.firstpost.com/explainers/its-the-time-for-dry-january-why-giving-up-alcohol-for-a-month-is-a-good-idea-13567642.html)
+
+Dry January is a public health initiative that encourages people to abstain from alcohol for the entire month of January. It was started in 2013 by Alcohol Change UK, a UK-based charity, with the goal of getting people to think about their drinking habits and potentially reduce their alcohol consumption. The idea behind Dry January is to give people a break from alcohol and allow them to experience the benefits of sobriety, such as improved sleep, increased energy, better mental health and concentration, weight loss, and improved skin health. Studies have shown that participating in Dry January can also lead to sustained changes in drinking habits, with many people reducing their overall alcohol intake or cutting it out completely. While Dry January has its origins in the UK, it has now become a global phenomenon, with people around the world participating in the challenge. The initiative has gained popularity due to increasing awareness of the potential dangers of alcohol and the desire for improved health and well-being. While there may be some drawbacks, such as difficulty sleeping or slight dehydration in the first few days, many people find the experience of Dry January to be rewarding and empowering. Tips for succeeding at Dry January include enlisting the support of a friend, identifying triggers and avoiding them, and considering a "Damp January" approach where alcohol is reduced to a minimum rather than completely eliminated. Overall, Dry January offers a chance for individuals to reevaluate their relationship with alcohol and experience the positive effects of sobriety.
+
+Tue, 02 Jan 2024 18:31:23 +0530
+### [Bill Clinton has been named 50 times in documents linked to Jeffrey Epstein sex abuse case. Here's why](https://www.firstpost.com/explainers/bill-clinton-has-been-named-50-times-in-documents-linked-to-jeffrey-epstein-sex-abuse-case-heres-why-13568452.html)
+
+According to an article, former US President Bill Clinton is set to be named in confidential papers related to the late financier Jeffrey Epstein. The papers are from a 2015 civil lawsuit against Ghislaine Maxwell by Virginia Giuffre, an alleged victim of trafficking. While there are no allegations or evidence of illegal conduct by Clinton, Giuffre claimed in her lawsuit that she met Clinton on Epstein Island. Clinton is identified as "Doe 36" in the papers and his name comes up more than 50 times in entries focused on efforts to subpoena him about his relationship with Epstein. Flight logs also show that Clinton was a frequent flier on Epstein's plane after leaving office [[1]](https://www.politifact.com/article/2020/aug/18/what-we-know-about-recent-claims-linking-bill-clin/)
+
+Tue, 02 Jan 2024 17:17:25 +0530
+### [Razorpay, Groww &amp; more: Why startups want to shift base to India](https://www.firstpost.com/explainers/razorpay-groww-reverse-flipping-why-startups-want-to-shift-base-to-india-13568132.html)
+
+Many Indian startups, including Razorpay and Groww, are considering moving their parent entity back to India from abroad. This process, known as reverse flipping, involves shifting the company's base back to its home country. The move is being considered due to the tightening regulatory environment for fintech firms and the potential benefits of tapping into the domestic market. The Indian government has been encouraging companies to consider Gujarat's GIFT City as an alternative to foreign destinations for setting up their operations. The trend of reverse flipping underscores the belief in India's potential as a global start-up hub and the long-term benefits of strengthening the start-up ecosystem in the country.
+
+Tue, 02 Jan 2024 17:13:18 +0530
+### [Ram Temple Opening: How spiritual tourism is booming in Ayodhya](https://www.firstpost.com/explainers/ram-temple-opening-how-spiritual-tourism-is-booming-in-ayodhya-13567492.html)
+
+#### Summary of "Ayodhya's Spiritual Tourism Boom Ahead of Ram Temple Inauguration"
+
+India is preparing for the consecration ceremony of the under-construction Ram temple in Ayodhya, with the city undergoing significant transformation ahead of the temple's inauguration on 22 January. The initiatives are expected to result in a substantial rise in spiritual tourism, as indicated by a surge in users searching for stays in Ayodhya and the soaring hotel rates and bookings. The city is also witnessing increased investments in hotel development, with five branded hotels totaling 520 rooms in various stages of development. The inauguration is expected to draw around 7,000 people, and the Ayodhya Development Authority anticipates a significant increase in daily visitors after the temple opens. The city has also experienced a remarkable rise in tourism, with the Uttar Pradesh Tourism Department recording a substantial increase in domestic and foreign tourists visiting the Ayodhya district. The improved connectivity, including the inauguration of new Amrit Bharat and Vande Bharat trains and the Maharishi Valmiki International Airport, is expected to further boost tourism. The construction of the Ram temple has already positively impacted Ayodhya's economy, creating new job opportunities and opening up new businesses. The surge in tourism is expected to benefit every business owner in the region. 
+
+The article also highlights the padayatra from Mumbai to Ayodhya by a young Muslim woman named Shabnam Shaikh, who has strong faith in Lord Ram, and the presence of Uttar Pradesh Chief Minister Yogi Adityanath and Civil Aviation Minister Jyotiraditya Scindia at the inauguration of the international airport in Ayodhya. Additionally, the article mentions the idol of 'Ram Lalla' carved by Karnataka's renowned sculptor Arun Yogiraj, which will adorn the grand Ram temple in Ayodhya on 22 January at the much-anticipated consecration ceremony.
+
+The surge in spiritual tourism, investments in hotel development, improved connectivity, and positive impact on the local economy are key highlights of the article.
+
+Tue, 02 Jan 2024 16:28:43 +0530
+### [In Graphics | A guide to long weekends in 2024 to get rid of January blues](https://www.firstpost.com/explainers/in-graphics-a-guide-to-long-weekends-in-2024-to-get-rid-of-january-blues-13567292.html)
+
+Article found but Couldn't summarize 
+In Graphics | A guide to long weekends in 2024 to get rid of January blues
+
+Tue, 02 Jan 2024 15:32:25 +0530
+### [How will UK’s new rules for overseas students affect Indians?](https://www.firstpost.com/explainers/how-will-uks-new-rules-for-overseas-students-affect-indians-13567522.html)
+
+According to an article, the UK has implemented new rules that restrict international students from bringing their families to the country. The changes were announced by Prime Minister Rishi Sunak, who stated that the majority of foreign university students can no longer bring their family members to the UK. The UK government aims to reduce migration and prevent the misuse of the visa system. The new rules will affect Indian students, who have been increasingly choosing the UK as a destination for higher education. Indian students will now face more difficulties in bringing their families to the UK. The changes are expected to prevent around 140,000 people from coming to the UK each year. The article also mentions that Indian students received a significant number of sponsored study visas in the UK in 2023, and the number of Indian students enrolling in UK universities is expected to increase in the upcoming academic year. However, the new rules may impact their decision to study in the UK and their future career prospects. Experts and student groups have expressed concerns about the negative impact of the changes, including increased financial burden, emotional isolation, and potential loss of high-quality students for UK universities. The UK government plans to work with universities to design an alternative approach that allows the brightest and best students to bring their dependants to the country while still reducing net migration.
+
+Tue, 02 Jan 2024 15:05:29 +0530
+### [How Japan is prone to earthquakes and has learnt to be resilient](https://www.firstpost.com/explainers/japan-earthquake-prone-tsunami-preparations-13567032.html)
+
+Japan recently experienced a series of earthquakes that caused significant damage and loss of life. The earthquakes, including a magnitude 7.6 quake, resulted in collapsed buildings, damaged roads, landslides, and power outages. Aftershocks continued to occur, hampering rescue efforts. While major tsunami warnings have been lifted, the Japan Meteorological Agency has warned of the possibility of more earthquakes in the coming days. Japan's susceptibility to earthquakes is due to its geographical location along the "Pacific Ring of Fire," which is the most active earthquake belt globally. The country sits on the joint of four tectonic plates, leading to frequent seismic activity. Japan has a history of devastating earthquakes, including the Great Kanto Earthquake in 1923, the Kobe earthquake in 1995, and the Tohoku earthquake and tsunami in 2011. However, Japan has implemented strict construction regulations, frequent emergency drills, and seismic safety technology to mitigate the impact of earthquakes. The country also invests in infrastructure upgrades and disaster preparedness measures to ensure its resilience to natural disasters [[4]](https://community.openai.com/t/how-to-send-long-articles-for-summarization/205574)
+
+Tue, 02 Jan 2024 14:45:32 +0530
+### [What is India’s new hit-and-run law? Why has it led to nationwide protests?](https://www.firstpost.com/explainers/what-is-indias-new-hit-and-run-law-why-has-it-led-to-nationwide-protests-13567222.html)
+
+#### Summary of the Article:
+The article discusses the nationwide protests by truck drivers in India against the new hit-and-run law, which is part of the Bharatiya Nyaya Sanhita (BNS) Bill, 2023. The new law increases the penalty for hit-and-run accidents to up to 10 years in prison and a fine of ₹ 7 lakh. The protesters demand further clarification on the law and believe it is unfair and discriminatory towards larger vehicles. The protests have led to widespread disruptions, including long queues at petrol pumps due to panic buying. The driver groups and activists are urging the government to address their concerns and engage in constructive dialogue to find a fair resolution.
+
+#### New Hit-and-Run Law:
+The new Bharatiya Nyaya Sanhita Bill, 2023, increases the penalty for hit-and-run accidents to up to 10 years in prison and a fine of ₹ 7 lakh. This law is set to replace the Indian Penal Code (IPC) and is awaiting presidential assent [[1]].
+
+#### Protests and Criticism:
+Truck drivers are protesting the new law, believing it to be unfair and discriminatory towards larger vehicles. The protests have caused widespread disruptions, including blocking major highways and roads throughout the nation. The protests have also led to panic buying at petrol pumps, causing long queues [[1]].
+
+#### Impact of Protests:
+The protests have led to disruptions across various states, including Maharashtra, Chhattisgarh, West Bengal, and Punjab. The disruptions include "rasta roko" protests, blocking of highways, and traffic disruptions. The protests have also caused panic buying at petrol pumps, leading to long queues and supply issues [[1]].
+
+#### Demands of Protesters:
+Driver groups and activists are urging the government to address their concerns and engage in constructive dialogue to find a fair resolution. They are seeking further clarification on the new law and advocating for its continued classification as a crime subject to bail. The All India Motor Transport Congress (AIMTC) has appealed to the government to open channels for dialogue and work towards a solution that addresses concerns of all stakeholders [[1]].
+
+#### Conclusion:
+The protests by truck drivers in India against the new hit-and-run law have caused widespread disruptions and led to panic buying at petrol pumps. The protesters are demanding further clarification on the law and urging the government to engage in constructive dialogue to find a fair resolution. The impact of these protests is being felt across various states, and driver groups and activists are actively advocating for their concerns to be addressed by the government [[1]].
+
+Tue, 02 Jan 2024 13:49:24 +0530
+### [Denmark's Queen Margrethe II to step down: A look back at other royal abdications](https://www.firstpost.com/explainers/denmarks-queen-margrethe-ii-to-step-down-a-look-back-at-other-royal-abdications-13566272.html)
+
+Queen Margrethe II of Denmark has announced her decision to abdicate from the throne after 52 years of reign. She made the announcement during her customary New Year's Eve broadcast on Danish television. The 83-year-old queen cited her health and the increasing number of ailments as the reason for her decision. She expressed her intention to pass the throne to her son, Crown Prince Frederik. The date of transition is set for January 14, 2024, exactly 52 years after she took the throne following the death of King Frederik IX [[1]](https://apnews.com/article/denmark-queen-margrethe-abdicate-throne-92afd336166b4e643caf57289eaf8fbe)
+
+Tue, 02 Jan 2024 13:20:03 +0530
+### [Why is 2024 a leap year? How did the practice of adding an extra day to February begin?](https://www.firstpost.com/explainers/why-is-2024-a-leap-year-how-did-the-practice-of-adding-an-extra-day-to-february-begin-13566892.html)
+
+#### Summary of "2024: Why It's a Leap Year and How It Started"
+
+**2024 is a leap year with 366 days instead of the usual 365, and February will have 29 days instead of the usual 28. Leap years occur almost every four years, with the next one falling in 2028. The practice of adding an extra day every four years began during the time of Roman emperor Julius Caesar.**
+
+The Earth takes approximately 365.24219 days to orbit the Sun, which is why most years have 365 days. To make up for the extra time, one day is added to the calendar every four years, creating a leap year. Without leap years, the calendar would fall out of sync with the seasons, leading to confusion with crop cycles and seasonal occurrences.
+
+The Julian calendar, introduced by Julius Caesar, had 365 days and added the 366th day once every four years. However, this method was not error-free, leading to a discrepancy that was corrected by Pope Gregory XIII in 1582. He ordered 10 days to be dropped from the calendar and introduced the Georgian calendar, coining the term "leap year" and establishing 29 February as the date to add to a leap year.
+
+The leap year is calculated by checking if a year is divisible by four, except for years ending in 00, which must also be divisible by 400 to be considered a leap year. Despite these calculations, the solar year is still 26 seconds shorter than the Georgian year currently.
+
+**The choice of February for the extra day dates back to Caesar's calendar reforms in ancient Rome and has been maintained since the introduction of the Georgian calendar in 1582.**
+
+While there have been proposals to make further corrections, such as removing a leap year once every 4,000 years or once every 3,200 years, the issue is not a pressing problem in 2024.
+
+Source: Firstpost - All Rights Reserved
+
+#### Leap Year Calculation
+A leap year occurs in every year that is divisible by four, except for years ending in 00, which must also be divisible by 400 to be considered a leap year. For example, 800, 1200, and 2000 were leap years, but 1700 and 1900 were not.
+
+Source: Firstpost - All Rights Reserved
+
+Tue, 02 Jan 2024 12:44:51 +0530
+### [Arun Yogiraj: The sculptor whose Ram Lalla idol will be installed at Ayodhya temple](https://www.firstpost.com/explainers/arun-yogiraj-the-master-sculptor-whose-ram-lalla-idol-will-be-installed-at-the-ayodhya-temple-13566592.html)
+
+Renowned sculptor Arun Yogiraj's idol of Ram Lalla has been chosen for the consecration ceremony at the Ram Temple in Ayodhya. The ceremony is scheduled for 22 January and preparations are in full swing. The Shri Ram Janmabhoomi Teerth Kshetra Trust has made its selection of the Ram idol that will be placed inside the premises, with Arun Yogiraj's design being chosen. Yogiraj, hailing from Mysuru, comes from a family of palace artists and has multiple achievements to his name. He has been commissioned for several high-profile projects and his work on the Ram Lalla idol has brought joy to his family. His wife expressed pride in his dedication to his work and devotion to sculpting.
+
+Tue, 02 Jan 2024 11:28:33 +0530
+### [New Year, New Rules: How your UPI transactions have changed in 2024](https://www.firstpost.com/explainers/new-year-new-rules-how-your-upi-transactions-have-changed-in-2024-13565562.html)
+
+**Summary of the Article on UPI Changes and Other Updates**
+
+The Unified Payments Interface (UPI) has rapidly gained popularity in India, surpassing 10 billion transactions in August 2023, with predictions of reaching 100 billion transactions per month. The Reserve Bank of India (RBI) introduced changes effective from January 1, 2024, including the deactivation of inactive UPI IDs and mobile numbers after a year of non-use. Additionally, the NPCI set a new daily payment limit of Rs one lakh, with exceptions for healthcare and educational institutions. The "UPI for Secondary Market" will soon enter its Beta phase, and there will be a four-hour time limit for the first payment over Rs 2,000 between users who haven't transacted previously. Furthermore, UPI ATMs are set to be rolled out across the country, allowing cash withdrawals via QR code scanning. Other updates include the discontinuation of paper-based KYC for SIM card acquisition and price increases for passenger cars by several Indian automakers.
+
+Tue, 02 Jan 2024 10:22:53 +0530
+### [Why has Nobel laureate Muhammad Yunus been sentenced to 6 months in jail in Bangladesh?](https://www.firstpost.com/explainers/why-has-nobel-laureate-muhammad-yunus-been-sentenced-to-6-months-in-jail-in-bangladesh-13565952.html)
+
+#### Summary:
+
+Muhammad Yunus, a Nobel laureate and founder of Grameen Bank, has been sentenced to six months in jail by a Bangladeshi court for alleged labor law violations. Yunus and three colleagues were found guilty of failing to distribute company profits among workers, regularize staff members, and compensate workers for public holidays. The case has been criticized as politically motivated. Yunus, known as the "banker to the poorest of the poor," won the Nobel Peace Prize in 2006 for his work in microfinance. He has faced legal challenges and hostility from the government in Bangladesh, including being forced out of Grameen Bank in 2011.
+
+Tue, 02 Jan 2024 09:42:25 +0530
+### [Houses toppled, roads caved in: How staggering 155 quakes have wreaked havoc in Japan](https://www.firstpost.com/explainers/houses-toppled-roads-caved-in-how-staggering-155-quakes-have-wreaked-havoc-in-japan-13565572.html)
+
+Article found but Couldn't summarize 
+Houses toppled, roads caved in: How staggering 155 quakes have wreaked havoc in Japan
+
+Mon, 01 Jan 2024 17:52:59 +0530
+### [What Ukraine needs to survive the war in 2024](https://www.firstpost.com/explainers/what-ukraine-needs-to-survive-the-war-in-2024-13547122.html)
+
+#### Summary of the Article:
+The article discusses the top priority of the Ukrainian government in 2024, which is to end the war against Russia and regain as much territory as possible, including Crimea. It highlights the need for military, economic, and political support from European partners, particularly the EU and the UK, to achieve this objective. The article also mentions the potential impact of upcoming elections in Russia, the EU, and the US on the aid and support Ukraine receives. It emphasizes the importance of continued support from European nations and the uncertainty surrounding potential policy shifts, particularly in the event of a Trump presidency in 2024.
+
+#### Ukrainian Government's Priority in 2024:
+The top priority of the Ukrainian government in 2024 is to end the war against Russia and regain as much territory as possible, including Crimea. President Volodymyr Zelenskyy claims that Ukraine will only stop fighting when it regains its pre-2014 borders, including Crimea [[1]].
+
+#### Need for Support from European Partners:
+Ukraine requires military, economic, and political support from its European partners, particularly the EU and the UK, to achieve its objectives. The EU has shown strong support to Kyiv, and military aid from European nations is likely to continue at least until the European elections [[1]].
+
+#### Impact of Upcoming Elections:
+The upcoming presidential elections in Russia, EU parliamentary elections, and US presidential elections in 2024 have the potential to determine the aid and support Ukraine receives. The article highlights the uncertainty surrounding potential policy shifts, particularly in the event of a Trump presidency in 2024 [[1]].
+
+#### Conclusion:
+The article emphasizes the importance of continued military, economic, and political support from European partners, particularly the EU and the UK, for Ukraine to reclaim its pre-2014 borders. It also discusses the uncertainty surrounding potential policy shifts, particularly in the event of a Trump presidency in 2024, and the impact of upcoming elections on the aid and support Ukraine receives [[1]].
+
+Mon, 01 Jan 2024 13:19:15 +0530
+### [Modi's third term bid, and Trump-Biden rematch: The polls to watch for in 2024](https://www.firstpost.com/explainers/modis-third-term-bid-and-trump-biden-rematch-the-polls-to-watch-for-in-2024-13521022.html)
+
+#### Summary of "The Political World in 2024"
+
+The year 2024 is set to be a record-breaking year for elections, with more than two billion voters in 50 countries, including the United States, India, Mexico, and South Africa, casting their ballots. Here's a breakdown of the key events and potential changes in the political landscape:
+
+**January: Bangladesh Demands Change**
+- Bangladesh sets off the historic election year with anti-government protests organized by the main Opposition Bangladesh Nationalist Party, which has boycotted the election due to the imprisonment or exile of its top leaders. The party demands the resignation of Prime Minister Sheikh Hasina.
+
+**February: Elections in Pakistan and Indonesia**
+- Pakistan will hold its first general election after the resignation of former Prime Minister Imran Khan on corruption allegations. Despite not running for office, Khan remains influential in his political party. Indonesia will host the world’s largest single-day election with over 200 million voters.
+
+**March: Vladimir Putin Eyes Six More Years**
+- Russian President Vladimir Putin, energized by his troops’ success in Ukraine, is hoping to extend his 24-year rule by another six years in March elections. He announced his candidacy for a fifth term, which would keep him in power until 2030.
+
+**April-May: Modi’s Great Power Play**
+- Nearly one billion Indians will vote in an election where Prime Minister Narendra Modi and the BJP party are seeking a third term. Modi's political career and success have been based on support from India’s Hindu population, and he goes into the vote as the clear favorite.
+
+**June: EU Test for Populists**
+- The European Parliament election in June will see more than 400 million people eligible to vote. The vote will be a test of support for right-wing populists, with Poland's former European Council president, Donald Tusk, returning to power on a pro-EU platform.
+
+**July: Leftist Ex-Mayor and Indigenous Businesswoman Compete for First Female Leader**
+- In Mexico, a leftist former mayor of the capital and a businesswoman with Indigenous roots are vying to become the first woman president of the country. Claudia Sheinbaum is running on behalf of the Morena party, while Xochitl Galvez represents an Opposition coalition, the Broad Front for Mexico.
+
+**November: Trump-Biden Rematch**
+- Tens of millions of Americans will choose a president in a contest which could keep incumbent Joe Biden in power until the age of 86. Polls show that a majority of voters think Biden is too old to be commander-in-chief, despite his likely rival, ex-president Donald Trump, also facing similar concerns about age. Disinformation is expected to be a feature of the campaign, and Trump goes into the Republican party nomination contest as the clear favorite, despite multiple criminal trials hanging over him.
+
+In the United States, Biden's reelection bid faces challenges due to concerns about his age, while Trump is positioned as a strong contender for the Republican nomination. The political landscape in 2024 is marked by significant elections and potential shifts in power across various countries.
+
+#### References
+1. Source [[1]](https://apnews.com/article/biden-president-reelection-2024-incumbents-9050e112e30b482d4eeab74320c8b9d1): 'Can Biden win again? Here's how past incumbents fared | AP News'
+
+Mon, 01 Jan 2024 09:35:59 +0530
+### [From elections to war, here's what 2024 will look like](https://www.firstpost.com/explainers/from-elections-to-war-heres-what-2024-may-look-like-13555172.html)
+
+The article discusses the upcoming general elections in India, the US, and the UK, as well as the continued exploration of outer space by ISRO. It also covers the ongoing conflict between Israel and Hamas, the stalemate in the Ukraine-Russia war, and the battle between workers and management. The article provides insights into the political scenarios in each country and highlights ISRO's plans for space exploration in 2024. It also discusses the potential outcomes of various conflicts and the ongoing struggle between workers and management.
+
+Sun, 31 Dec 2023 11:54:04 +0530
+### [When did we start making New Year’s resolutions? Can we keep them?](https://www.firstpost.com/explainers/when-did-we-start-making-new-years-resolutions-can-we-keep-them-13536702.html)
+
+The article discusses the history and tradition of making New Year's resolutions, tracing it back to ancient Babylonians and Romans. It explains how the tradition has evolved over time, with Julius Caesar introducing January 1 as the start of the New Year and the term "New Year Resolution" first appearing in a Boston newspaper in 1813. The article also highlights common New Year's resolution goals and the difficulty people face in keeping them, with only eight percent of US citizens managing to do so. Overall, it provides a comprehensive overview of the origins and modern-day practice of making New Year's resolutions.
+
+Sun, 31 Dec 2023 10:34:43 +0530
+### [Rewind 2023: The most significant world events, in graphics](https://www.firstpost.com/explainers/rewind-2023-the-most-significant-world-events-in-graphics-13550502.html)
+
+In 2023, the world experienced a challenging year marked by ongoing wars, new conflicts, geopolitical competition, natural disasters, and gun violence in the United States. The year was characterized by a shortage of good news.
+
+One of the major events that shaped the year was the deadly and fierce war between Israel and Hamas. The conflict resulted in thousands of lives lost and many more injured or missing [[1]](https://apnews.com/live/israel-hamas-war-live-updates). The war saw Hamas launching a daring strike on Israel, which stunned the world The toll of the war overshadowed the individual lives affected by the conflict [[1]](https://apnews.com/live/israel-hamas-war-live-updates). Palestinians sought refuge in hospitals, hoping to be spared from bombardment [[2]](https://www.pbs.org/newshour/world/at-least-500-killed-in-israeli-airstrike-on-gaza-city-hospital-health-ministry-says). Families in Gaza even resorted to writing their children's names on their bodies to ensure identification after Israeli raids [[3]](https://www.aljazeera.com/news/2023/10/28/so-world-knows-gaza-parents-mark-childrens-names-on-bodies-amid-bombing). The conflict escalated with Hamas militants firing rockets and sending fighters into Israeli towns near the Gaza Strip [[5]](https://apnews.com/article/israel-palestinians-gaza-hamas-rockets-airstrikes-tel-aviv-11fb98655c256d54ecb5329284fc37d2). The war had a significant impact on the lives of people in the region and drew international attention [[1]](https://apnews.com/live/israel-hamas-war-live-updates).
+
+In addition to the Israel-Hamas conflict, other major events shaped the world in 2023. India achieved significant milestones, becoming the first country to soft land on the southern pole of the Moon and passing the historic Women's Reservation Bill in Parliament [[1]](https://apnews.com/live/israel-hamas-war-live-updates). These achievements highlighted India's progress and contributions in the fields of space exploration and gender equality.
+
+As the year comes to a close, it is important to reflect on the major events that defined 2023. Despite the challenges faced, there is hope for a better year ahead in 2024
+
+Sun, 31 Dec 2023 10:24:37 +0530
+### [This Year in Explainers: Why did Israel's intelligence agencies fail on 7 October?](https://www.firstpost.com/explainers/this-year-in-explainers-why-did-israels-intelligence-agencies-fail-on-7-october-13559522.html)
+
+The article provides a yearly roundup of various news events and topics. Here is a summary of each section:
+
+#### 1. Israel's intelligence failure
+The article discusses the failure of Israel's intelligence agencies, including Mossad and Shin Bet, during the conflict with Hamas. It explores the reasons behind this failure and the questions being raised about it.
+#### 2. Israel's use of SPICE bombs
+The article examines Israel's use of SPICE bombs in response to Hamas' attack. It discusses the criticism surrounding the use of these bombs in densely-populated areas and provides information on how they work and their accuracy.
+#### 3. Osama Bin Laden's 21-year-old letter TikTok
+The article highlights the viral resurfacing of a letter written by Osama Bin Laden a year after the 9/11 attacks. It explores the context of the letter, its resurfacing, and the support it received from some young Americans.
+#### 4. The tragedy of the Titan Five
+The article focuses on the story of the Titanic tourist sub and the five men aboard it. It covers the events from the submersible going missing to the discovery of the wreckage and provides information about the lives of the men involved. 
+
+#### 5. Death of a complicated icon
+The article discusses the passing of Henry Kissinger at the age of 100. It examines Kissinger's legacy, his relationship with India, and the differing views of him held by Washington policy circles and the rest of the world. 
+
+#### 6. High drama in Silicon Valley
+The article highlights the shake-up at Open AI, a leading firm in Silicon Valley. It focuses on the sacking of Sam Altman, known as the world's leading AI evangelist, and the events surrounding it. 
+
+#### 7. Harry-Meghan rumors and royal divorces
+The article discusses the difficulties faced by the Royal Family, particularly Prince Harry and Meghan Markle. It covers topics such as Harry's memoir, racism allegations, and ongoing rumors about their relationship. 
+
+#### 8. Panda come home!
+The article explores the practice of panda diplomacy in China and its historical context. It provides information on why China lends pandas to other countries, how the process works, and the associated costs. 
+
+#### 9. Giant hole in the Sun
+The article discusses a giant hole that appeared in the Sun, which alarmed experts. It provides details about the hole, how it appeared, and its potential impact on Earth. 
+
+Please note that the summaries provided are based on the article's headings and may not capture all the details and nuances of each section.
+
+Sat, 30 Dec 2023 18:11:03 +0530
+### [Rewind 2023: From newsmakers to big moments, all that shaped this year](https://www.firstpost.com/explainers/rewind-2023-from-newsmakers-to-indias-big-moments-all-that-shaped-this-year-13555002.html)
+
+The article summarizes the significant events and milestones of 2023, encompassing achievements, controversies, and newsmakers globally and in India. It highlights India's historic moment with the soft landing of Chandrayaan-3 on the southern pole of the Moon and the passing of the Women’s Reservation Bill in Parliament. Additionally, it mentions the war between Hamas and Israel, the Russia-Ukraine conflict, and various diplomatic rows and disputes involving India, the United States, Canada, and China. Notable personalities such as Virat Kohli, Neeraj Chopra, Taylor Swift, and Elon Musk are also featured. The article also covers the impact of deepfake technology, dating lingos, and climate change, along with statistics on population growth and displacement due to wars and humanitarian crises. The conclusion expresses hope for peace and happiness in the upcoming year.
+
+Sat, 30 Dec 2023 17:55:00 +0530
+### [Save the Date: Why US couples are rushing to say 'I Do' on New Year's Eve](https://www.firstpost.com/explainers/us-couples-rushing-to-las-vegas-new-years-eve-weddings-13560742.html)
+
+According to an article, several couples in the United States have chosen to get married on New Year's Eve. This is because dates like 12/31/2023, which can be written as 1-2-3-1-2-3, are considered "specialty dates" and hold significance in the Las Vegas wedding industry. Las Vegas is known for its popularity as a wedding destination, and New Year's Eve is already a popular holiday for nuptials. This year, it is expected to set a record for the busiest wedding day in Las Vegas. Couples are drawn to these "magic dates" because they are memorable and add a unique element to their anniversary celebrations. The interest in getting married on New Year's Eve has led to the opening of a temporary marriage license bureau at Las Vegas' Harry Reid International Airport. Wedding venues in Las Vegas have reported an increase in inquiries for New Year's Eve weddings, and some are even offering special packages to commemorate the date. However, not all couples are traveling to Las Vegas for their weddings, as some are equally excited to hold their ceremonies in other cities like Chicago. Overall, the combination of a specialty date and the celebratory atmosphere of New Year's Eve has made it an appealing choice for couples to tie the knot.
+
+Sat, 30 Dec 2023 15:16:30 +0530
+### [Why PM Modi inaugurating Abu Dhabi’s first Hindu temple matters](https://www.firstpost.com/explainers/pm-narendra-modi-baps-hindu-mandir-abu-dhabis-first-hindu-temple-inauguration-significance-13560302.html)
+
+#### Summary of the Article: PM Modi to Unveil BAPS Hindu Mandir in Abu Dhabi
+
+**Prime Minister Narendra Modi has accepted an invitation to unveil the BAPS Hindu Mandir in Abu Dhabi on February 14, 2024. This temple is the first traditional hand-carved Hindu temple in Abu Dhabi and is a significant symbol of the strategic relationship between India and the UAE. The temple, constructed over the last three years, is an architectural marvel, featuring 402 white marble pillars carved by 2,000 artisans from Rajasthan and Gujarat. It will accommodate 8,000 to 10,000 people and will be open to all faiths. The temple complex will also include prayer halls, a community center, a library, a children's park, and an amphitheater. The temple's construction was initiated in 2018 after the UAE allocated 5.4 hectares of land for the project during PM Modi's visit in 2015. The consecration ceremony on February 14, 2024, coincides with the auspicious Basant Panchami. PM Modi's acceptance of the invitation has sparked criticism from the opposition, with concerns about the timing of the event in relation to the upcoming general elections in India**
+
+#### Significance of the BAPS Hindu Mandir in Abu Dhabi
+The BAPS Hindu Mandir in Abu Dhabi is the first Hindu temple in the Emirati capital and is a symbol of the close relationship between India and the UAE. The temple's construction was initiated in 2018 after the UAE allocated 5.4 hectares of land for the project during PM Modi's visit in 2015. The temple complex, in addition to the main temple, will include prayer halls, a community center, a library, a children's park, and an amphitheater. The consecration ceremony on February 14, 2024, coincides with the auspicious Basant Panchami. PM Modi's acceptance of the invitation has sparked criticism from the opposition, with concerns about the timing of the event in relation to the upcoming general elections in India.
+
+#### Construction and Features of the Temple
+The BAPS Hindu Mandir in Abu Dhabi is an architectural marvel, featuring 402 white marble pillars carved by 2,000 artisans from Rajasthan and Gujarat over the last three years. The temple, which can accommodate 8,000 to 10,000 people, will be open to all faiths. The temple complex will also include prayer halls, a community center, a library, a children's park, and an amphitheater. The consecration ceremony on February 14, 2024, coincides with the auspicious Basant Panchami. PM Modi's acceptance of the invitation has sparked criticism from the opposition, with concerns about the timing of the event in relation to the upcoming general elections in India.
+
+#### Opposition's Reaction
+PM Modi's acceptance of the invitation to unveil the BAPS Hindu Mandir in Abu Dhabi has drawn criticism from the opposition, with concerns about the timing of the event in relation to the upcoming general elections in India. Senior Congress leader Shashi Tharoor expressed his expectations of elections being called soon after the BAPS event, suggesting a political motive behind the PM's participation in these events.
+
+#### Conclusion
+The BAPS Hindu Mandir in Abu Dhabi is a significant symbol of the strategic relationship between India and the UAE. The temple's construction was initiated in 2018 after the UAE allocated 5.4 hectares of land for the project during PM Modi's visit in 2015. The consecration ceremony on February 14, 2024, coincides with the auspicious Basant Panchami. PM Modi's acceptance of the invitation has sparked criticism from the opposition, with concerns about the timing of the event in relation to the upcoming general elections in India
+
+Sat, 30 Dec 2023 12:11:56 +0530
+### [Who is gangster Lakhbir Singh Landa, designated a ‘terrorist’ by MHA?](https://www.firstpost.com/explainers/lakhbir-singh-landa-designated-terrorist-by-mha-canada-punjab-gangster-13559692.html)
+
+According to an article, Lakhbir Singh Landa, a Canada-based gangster and leader of the Khalistani group Babbar Khalsa International (BKI), has been designated as an "individual terrorist" by the Ministry of Home Affairs (MHA) in India. He is the 55th individual to be identified as a terrorist under the Unlawful Activities Prevention Act (UAPA). Landa has been accused of various crimes, including planning a rocket attack on the Punjab Police Intelligence Headquarters in Mohali in 2022 and involvement in other terrorist activities. He has more than 30 cases registered against him in different districts of Punjab. Landa fled to Canada and is currently based in Edmonton, Alberta. He is believed to have close ties to another gangster based in Pakistan named Harwinder Singh Sandhu alias Rinda. Landa's gang remains active in his hometown of Harike, Punjab, with the gangster running it from Canada. The Ministry of Home Affairs has accused Landa of being involved in the supply of Improvised Explosive Devices (IEDs), arms, sophisticated weapons, and explosives from across the border for carrying out terrorist activities in Punjab. He is also accused of planting an IED below the car of a police sub-inspector in Amritsar. Landa's designation as a terrorist is based on his involvement in terrorism and his role in disrupting peace, law, and order in Punjab and other parts of India [[4]](https://community.openai.com/t/how-to-send-long-articles-for-summarization/205574).
+
+Please note that the summary provided is based on the available information and may not include all the details mentioned in the original article.
+
+Sat, 30 Dec 2023 11:00:15 +0530
+### [In Graphics | From Bharat Yatra to Ekta Yatra, India's rich history of political marches](https://www.firstpost.com/explainers/in-graphics-from-bharat-yatra-to-ekta-yatra-indias-rich-history-of-political-marches-13557942.html)
+
+Congress leader Rahul Gandhi, along with party leaders and supporters, is set to embark on the second phase of the Bharat Jodo Yatra, named the Bharat Nyay Yatra. The yatra will cover a distance of 6,200 kilometers across 14 states and 85 districts, aiming to promote economic, social, and political justice. Congress president Mallikarjun Kharge will flag off the yatra in Manipur, and it will conclude in Mumbai on 20 March. Additionally, at the INDIA bloc meet, Mamata Banerjee and Arvind Kejriwal proposed that Congress' Mallikarjun Kharge be projected as the alliance’s prime ministerial face for the 2024 elections.
+
+Sat, 30 Dec 2023 10:04:34 +0530
+### [This Year in Explainers: Why Sam Manekshaw is India’s ‘Bahadur’](https://www.firstpost.com/explainers/this-year-in-explainers-why-sam-manekshaw-is-indias-bahadur-13558332.html)
+
+The article provides a summary of the significant events that took place in India in 2023. It covers a range of topics, including the cold wave in Delhi, a man urinating on a passenger on an Air India flight, criticism of the Dalai Lama, a heinous crime in Delhi, violence in Manipur, rising rates of hysterectomies in women, Prime Minister Narendra Modi's state visit to the United States, India's lunar mission, cricketer Shikhar Dhawan's divorce, the ban on firecrackers during Diwali, visa-free travel for Indians, and the release of the movie "Sam Bahadur" based on the life of Field Marshal Sam Manekshaw. The article provides links to detailed explanations of each event.
+
 Wed, 27 Dec 2023 18:40:14 +0530
 ### [Who is Masarat Alam Bhat, whose faction has been banned by the Centre?](https://www.firstpost.com/explainers/who-is-masarat-alam-bhat-whose-faction-has-been-banned-by-the-centre-13551052.html)
 

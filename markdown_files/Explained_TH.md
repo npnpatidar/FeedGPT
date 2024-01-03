@@ -1,3 +1,108 @@
+Wed, 03 Jan 2024 10:30:00 +0530
+### [Scientists fuse brain-like tissue with electronics to make computer | Explained](https://www.thehindu.com/sci-tech/science/brain-organoid-computer-brainoware-neuromorphic-explained/article67692933.ece)
+
+Scientists have developed an 'organoid neural network' by fusing brain-like tissue with electronics. This innovation combines neuromorphic computing, which models computers after the human brain, with actual brain tissue. The team of researchers from Indiana University, the University of Cincinnati, Cincinnati Children’s Hospital Medical Centre, and the University of Florida published their findings in December 2023. The system represents a significant advancement in the fields of tissue engineering, electrophysiology, and neural computation. By including brain tissue in a computer, the researchers aim to address the limitations of current neural networks, such as the separation of memory and data processing units. The study demonstrates the potential of using biological neural networks, specifically brain organoids, for computational processes. Brain organoids are three-dimensional aggregates of brain cells created from human pluripotent stem cells. The researchers connected the brain organoid to an array of microelectrodes to form an organoid neural network, which they integrated into a reservoir computer system called 'Brainoware'. The system showed promising results in recognizing speech and solving complex mathematical problems. While Brainoware was slightly less accurate than artificial neural networks with short-term memory units, it required significantly less training. The study provides foundational insights into learning mechanisms, neural development, and the cognitive implications of neurodegenerative diseases. However, the system still has limitations, and further research is needed to optimize methods and tackle more complex computing problems. Ethical concerns surrounding the use of organoids in biocomputing systems are also raised. Overall, this study represents an innovative proof-of-concept for organoid intelligence and highlights the potential of brain organoids in adaptive reservoir computing.
+
+#### Key Points:
+- Scientists have developed an 'organoid neural network' by combining brain-like tissue with electronics.
+- The system represents an advancement in tissue engineering, electrophysiology, and neural computation.
+- Brain organoids, three-dimensional aggregates of brain cells, were used to create the organoid neural network.
+- The system, called 'Brainoware', demonstrated the ability to recognize speech and solve complex mathematical problems.
+- Brainoware achieved comparable accuracy to artificial neural networks with short-term memory units but required significantly less training.
+- The study provides insights into learning mechanisms, neural development, and the cognitive implications of neurodegenerative diseases.
+- Further research is needed to optimize methods and address the limitations of the system.
+- Ethical concerns regarding the use of organoids in biocomputing systems are raised
+
+Tue, 02 Jan 2024 10:30:00 +0530
+### [How a super-energetic particle from outer space could help physics | Explained](https://www.thehindu.com/sci-tech/science/amaterasu-cosmic-ray-physics-explained/article67690711.ece)
+
+According to an article titled "Japanese scientist discovers second-highest-energy cosmic ray, names it 'Amaterasu'" published on January 2, 2024, in The Hindu, Japanese scientist Toshihiro Fujii discovered a very high energy cosmic-ray event in May 2021 and named it 'Amaterasu' after the sun goddess in Japanese mythology. The discovery was made while analyzing data collected between May 2008 and November 2021 by the Telescope Array Project in the U.S. Cosmic rays are streams of energetic particles and clusters of particles from outer space and the sun. The Amaterasu cosmic ray had an energy of 240 exa-electron-volt (EeV), which is about 40 million times higher than the energy imbued in protons by the Large Hadron Collider (LHC). The discovery of the Amaterasu cosmic ray could potentially help in spotting more such events and understanding their properties. The article also mentions that the Amaterasu particle appears to have come from an empty part of the universe, suggesting the possibility of unknown astronomical phenomena and new physical origins beyond the Standard Model. The article proposes three possible explanations for the particle's origin: it could be from an unidentified source, it may have interacted with a stronger magnetic field than currently accounted for, or scientists may need to rethink their understanding of high-energy particle physics.
+
+Tue, 02 Jan 2024 08:30:00 +0530
+### [Why did FIU IND act against virtual asset providers?](https://www.thehindu.com/business/Economy/why-did-fiu-ind-act-against-virtual-asset-providers/article67695217.ece)
+
+Article found but Couldn't summarize
+
+Mon, 01 Jan 2024 22:30:00 +0530
+### [What is radiocarbon dating? | Explained](https://www.thehindu.com/sci-tech/science/radiocarbon-dating-history-science-revolution-politics-explained/article67692713.ece)
+
+Radiocarbon dating is a method that uses the isotope carbon-14 to determine the age of an object. Carbon-14 is created in the Earth's atmosphere when cosmic rays collide with gas atoms and release neutrons. These neutrons can then interact with nitrogen-14 to produce carbon-14. This carbon-14 is constantly being created in the atmosphere and enters the bodies of plants, animals, and other biomass through the carbon cycle. When an organism is alive, it constantly exchanges carbon with its surroundings, maintaining a nearly constant concentration of carbon-14. However, when the organism dies, the concentration of carbon-14 begins to decrease through radioactive decay. By measuring the amount of carbon-14 remaining in an object, scientists can estimate how long ago the organism died [[1]].
+
+Radiocarbon dating was first proposed by the American physical chemist Willard Libby in 1946. Libby's idea was based on the assumption that the concentration of carbon-14 in the Earth's atmosphere remains constant over thousands of years and that carbon-14 can diffuse into the Earth's ecosystems. These assumptions were later proven to be valid. Libby and his colleagues tested the technique by dating objects whose ages were already known and found that it could accurately estimate their ages [[1]].
+
+The technique of radiocarbon dating has since been refined and improved. In the past, the Geiger counter was used to study radioactive decay and measure the amount of carbon-14 in a sample. Today, more sophisticated methods like accelerator mass spectrometry (AMS) are used. AMS can work with very small organic samples and can isolate and examine all the carbon-14 in a sample to estimate its age [[1]].
+
+Radiocarbon dating has had a significant impact on fields such as archaeology and geology. It has allowed researchers to date archaeological sites, compare the ages of objects found at different sites, and gain a clearer understanding of the past. It has provided insights into human migration, the rise and fall of civilizations, the evolution of languages and religions, and the Earth's climate changes [[1]].
+
+In India, radiocarbon dating has also been of political significance, as it has been used to date objects retrieved from temples and mosques. Researchers continue to refine the technique and address any remaining flaws. For example, in 2018, archaeologists reported evidence of the radiocarbon cycle deviating from the expected version between 1610 and 1940, which could affect radiocarbon dating during those periods. In 2020, researchers developed a way to improve the time resolution of radiocarbon dating, allowing for more precise dating within a year [[1]].
+
+Overall, radiocarbon dating has revolutionized our ability to date organic remains and has provided valuable insights into the history of humanity and the Earth [[1]].
+
+Mon, 01 Jan 2024 10:30:00 +0530
+### [Parliament breach accused underwent psychoanalysis – what is it? | Explained](https://www.thehindu.com/sci-tech/science/parliament-breach-accused-psychoanalysis-explained/article67690615.ece)
+
+Article found but Couldn't summarize 
+The prominence of ‘classical psychoanalysis’ has declined over time, while the topic has evolved to become less authoritarian and more practical.
+
+Sun, 31 Dec 2023 10:30:00 +0530
+### [You had your genome sequenced and found something – now what? | Explained](https://www.thehindu.com/sci-tech/science/personal-genome-sequencing-secondary-findings-disclosure-explained/article67692308.ece)
+
+#### Summary of "Genomics and the Utility of Genetic Information in Healthcare"
+
+The article discusses the revolutionary transformation in genomics and the increasing affordability and accessibility of personal genomes. It highlights the democratization of genome sequencing technologies, which has catalyzed large-scale initiatives and population-wide projects to improve healthcare. The convergence of technology and biology has paved the way for more population-scale whole genome sequencing endeavors, promising a deeper understanding of the genetic foundations of diseases and cures. The article also delves into the advancements in genetic testing, the debate surrounding incidental findings, and the prevalence of actionable genetic information in different populations. Furthermore, it mentions the impact of genome-sequencing programs on disease prevention and personalized medicine, citing a study from Iceland that suggests actionable genetic variants could improve lifespan. The article concludes by emphasizing the potential benefits of regular population-scale sequencing programs and newborn sequencing initiatives for both individuals and healthcare systems.
+
+**Key Points:**
+- Genomics and the utility of genetic information in healthcare have undergone a revolutionary transformation in the last two decades.
+- The democratization of genome sequencing technologies has led to large-scale initiatives and population-wide projects to improve healthcare.
+- Advancements in genetic testing, the debate surrounding incidental findings, and the prevalence of actionable genetic information in different populations are discussed.
+- Genome-sequencing programs have the potential to impact disease prevention and personalized medicine, as evidenced by a study from Iceland.
+
+Sun, 31 Dec 2023 02:50:00 +0530
+### [What may 2024 hold for the economy? | Explained](https://www.thehindu.com/business/Economy/what-may-2024-hold-for-the-economy/article67690064.ece)
+
+#### Summary of "The Hindu" Article on India's Economic Outlook for 2024
+
+The Reserve Bank of India has revised its projection for India's real GDP growth in 2023-24 from 6.5% to 7%. Despite concerns about the impact of global conflicts and economic challenges, the Indian economy has shown positive surprises, with record-high stock markets, robust growth in key sectors, and recovery in trade and services. The Finance Ministry and global agencies have also adjusted their growth forecasts for India. However, risks to growth and stability persist due to external factors such as global demand, geopolitical conflicts, and disruptions in shipping. The first half of 2024 may see a lull as the government prepares for the Lok Sabha elections, with no major announcements expected in the interim Budget. The full Budget, likely in July, is anticipated to include policy tweaks and reforms. Private investment, influenced by the election outcomes, will be crucial for the government's fiscal consolidation efforts. The article also highlights the potential impact of global elections on trade deals and economic engagement. Expectations for interest rate cuts and global central bank policies may influence demand for Indian goods and services. Additionally, there is anticipation for changes in petrol and diesel prices, as well as the GST rate framework. Inflation control remains a focus, with concerns about food prices and their impact on household budgets and consumption demand.
+
+[[The Hindu - Source]]
+
+Sun, 31 Dec 2023 02:25:00 +0530
+### [What is the global fallout of two warfronts? | Explained](https://www.thehindu.com/news/international/what-is-the-global-fallout-of-two-warfronts-explained/article67690053.ece)
+
+The article discusses the ongoing conflicts in Ukraine and Gaza and their implications for global security. The Ukraine war, which began in 2022 with Russia's invasion of Ukraine, has continued into 2023 with little change on the frontline. The conflict is fueled by the rivalry between NATO and Russia, with NATO members supporting Ukraine financially and militarily. However, after almost two years of fighting, it is uncertain if the West's objectives of weakening Russia have been met. On the other hand, Israel's war on Gaza has caused significant destruction but has not achieved its declared objectives. Israel's actions have also isolated it on the global stage, and there is growing anger towards the US for its unconditional support of Israel. The article highlights the differing positions of the West, particularly the US, in these conflicts and the support for the Palestinian cause from Russia and China. The Global South, including India, has condemned the wars and called for talks and ceasefires. India, in particular, has been careful not to let these conflicts affect its strategic partnerships while advocating for a multipolar world. Overall, the article suggests that the global order is in flux, with the US appearing less in control of geopolitical developments and rising powers like China and India navigating their interests in this changing landscape.
+
+Sun, 31 Dec 2023 02:05:00 +0530
+### [How is the poll year shaping up for India, the U.S.? | Explained](https://www.thehindu.com/news/international/how-is-the-poll-year-shaping-up-for-india-the-us/article67690068.ece)
+
+The article discusses the upcoming elections in India and the United States in 2024. In India, Prime Minister Narendra Modi is seeking a third term in the 18th Lok Sabha elections, while in the U.S., President Joseph Biden is running for a second term. Both countries are grappling with questions regarding national identity, the role of different branches of government, welfare and redistribution, and relations with the rest of the world. There are also concerns about the integrity of the elections process in both countries, with allegations of unfair means and selective targeting of political opponents. In India, Mr. Modi remains popular, but the opposition parties face challenges in consolidating anti-BJP votes. In the U.S., President Biden is facing low approval ratings and is trailing potential Republican rival Donald Trump in opinion polls. The ruling BJP in India adheres to Hindutva ideology, which is popular in certain regions, while the U.S. sees divergent approaches on various issues between Democrat-controlled and Republican-controlled states. The article also highlights the differences in the tenure and power dynamics of the executive and legislative branches in both countries. The upcoming elections in 2024 could potentially influence the checks and balances in both democratic systems [[1]](https://www.reuters.com/world/us/trump-calls-supporters-guard-vote-democratic-run-us-cities-2023-12-03/)
+
+Sun, 31 Dec 2023 01:51:00 +0530
+### [Masarat Alam Bhat | Voice of secession](https://www.thehindu.com/news/national/masarat-alam-bhat-voice-of-secession/article67690946.ece)
+
+Masarat Alam Bhat is a Kashmiri separatist leader and the chief of the Muslim League Jammu and Kashmir [[1]](https://en.wikipedia.org/wiki/Masarat_Alam_Bhat). He gained prominence in 2008-09 when he played a significant role in the Kashmir stone pelting rallies, which were protests against the Indian Army's actions in the region [[1]](https://en.wikipedia.org/wiki/Masarat_Alam_Bhat). Bhat's party was recently banned under the Unlawful Activities Prevention Act for supporting terrorist activities and inciting people to establish Islamic rule in Jammu and Kashmir Unlike other separatist leaders who gradually emerged on the political scene, Bhat quickly rose to prominence during the 2008 land row protests in Kashmir [[1]](https://en.wikipedia.org/wiki/Masarat_Alam_Bhat). He popularized pro-azadi (freedom) songs, promoted anti-India graffiti, and organized mass protests Bhat has been detained multiple times and has faced numerous criminal cases, but he has been exonerated or bailed out in most of them He took over as the interim chairman of the hardline Hurriyat Conference after the death of Syed Ali Shah Geelani in 2021 [[1]](https://en.wikipedia.org/wiki/Masarat_Alam_Bhat). Bhat seeks the accession of Jammu and Kashmir with Pakistan invoking Islam [[1]](https://en.wikipedia.org/wiki/Masarat_Alam_Bhat). The banning of the Muslim League Jammu-Kashmir, led by Bhat, has brought an end to key pro-Pakistan political parties active in Kashmir since 1990 [[1]](https://en.wikipedia.org/wiki/Masarat_Alam_Bhat).
+
+**Source:**
+- 'Masarat Alam Bhat - Wikipedia'
+
+Sun, 31 Dec 2023 01:31:00 +0530
+### [INS Imphal | Guided missile destroyer](https://www.thehindu.com/news/national/ins-imphal-guided-missile-destroyer/article67690931.ece)
+
+#### Summary:
+
+The Indian Navy has commissioned its third P-15B 'Visakhapatnam' class stealth guided missile destroyer, INS Imphal. It is the first warship to be named after a city in the Northeast and has the shortest construction and trial time for any indigenous destroyer. The ship is considered a symbol of India's growing maritime power and will strengthen its presence in the Indo-Pacific region. INS Imphal has a high level of indigenization, with about 75% of its equipment and systems being indigenous. The construction process has been expedited to meet the Navy's goal of becoming fully self-reliant by 2047. The ship is equipped with BrahMos supersonic cruise missiles and has enhanced stealth features. It measures 163 meters in length, has a displacement of 7,400 tonnes, and is propelled by four gas turbines. The Navy aims to have a fleet of 170-180 ships by 2028, with most of them being built at Indian shipyards [[3]](https://www.hindustantimes.com/india-news/indian-navy-to-get-first-stealth-guided-destroyer-all-about-ins-visakhapatnam-101637401943324.html).
+
+#### Key Points:
+- The Indian Navy has commissioned its third P-15B 'Visakhapatnam' class stealth guided missile destroyer, INS Imphal.
+- INS Imphal is the first warship to be named after a city in the Northeast and has the shortest construction and trial time for any indigenous destroyer.
+- The ship is considered a symbol of India's growing maritime power and will strengthen its presence in the Indo-Pacific region.
+- INS Imphal has a high level of indigenization, with about 75% of its equipment and systems being indigenous.
+- The construction process has been expedited to meet the Navy's goal of becoming fully self-reliant by 2047.
+- The ship is equipped with BrahMos supersonic cruise missiles and has enhanced stealth features.
+- INS Imphal measures 163 meters in length, has a displacement of 7,400 tonnes, and is propelled by four gas turbines.
+- The Navy aims to have a fleet of 170-180 ships by 2028, with most of them being built at Indian shipyards.
+
+**Note:** The information provided is based on the search results and may not include all the details from the article.
+
 Wed, 27 Dec 2023 10:18:17 +0530
 ### [How Japan’s moon-landing attempt in January will affect Chandrayaan 4 | Explained](https://www.thehindu.com/sci-tech/science/slim-pinpoint-lunar-landing-chandrayaan-4-isro-jaxa/article67678970.ece)
 

@@ -7,14 +7,11 @@
 - [EDITORIAL TH](markdown_files/EDITORIAL_TH.md)
 - [Column TH](markdown_files/Column_TH.md)
 - [The Wire](markdown_files/The_Wire.md)
-- [Tech FP](markdown_files/Tech_FP.md)
-- [Tech Mint](markdown_files/Tech_Mint.md)
 - [Movie Review TH](markdown_files/Movie_Review_TH.md)
-- [ThePrint](markdown_files/ThePrint.md)
 
 
 
  ************************************************* 
-Total number of new entries: 23
-Finished at: 2023-12-27 13:30:23
-Total time taken: 9.0 minutes 41.16345477104187 seconds
+Total number of new entries: 1
+Finished at: 2024-01-03 19:05:05
+Total time taken: 1.0 minutes 16.619647979736328 seconds
