@@ -1,3 +1,24 @@
+Wed, 03 Jan 2024 21:16:38 +0530
+### [Blasts near Qasem Soleimani’s grave: Who was Iran’s ‘shadow commander?’](https://www.firstpost.com/explainers/blasts-near-qasem-soleimanis-grave-who-was-irans-shadow-commander-13573582.html)
+
+The article reports on twin explosions in Iran during a ceremony commemorating the death of General Qasem Soleimani, causing over 100 deaths and numerous injuries. It provides background information on Soleimani, who was the head of Iran's Revolutionary Guards' Quds Force and a prominent figure in the country. Soleimani played a significant role in Iran's regional military activities, including supporting armed groups in Iraq, Lebanon, Syria, the Palestinian territories, and Yemen. The United States held him responsible for the deaths of its soldiers in Iraq, and he was targeted and killed in a US drone strike in January 2020. The article also briefly discusses Soleimani's early years, his rise to prominence, and his involvement in various conflicts in the region.
+
+Wed, 03 Jan 2024 20:56:42 +0530
+### [In Graphics | Why Mickey Mouse belongs to all of us](https://www.firstpost.com/explainers/in-graphics-why-mickey-mouse-belongs-to-all-of-us-13573322.html)
+
+The copyright on the earliest versions of Mickey Mouse, specifically the one seen in the 1928 cartoon short film Steamboat Willie, has expired in the United States as of January 1, 2024. This means that anyone in the US can now use this particular version of the character without infringing on Disney's copyright. However, it's important to note that Mickey Mouse is still a registered Disney trademark, so there are still restrictions on how the public can use the character's images. Additionally, modern versions of Mickey Mouse are still protected by Disney's copyright. Other works, such as Virginia Woolf's Orlando and DH Lawrence's Lady Chatterley's Lover, have also had their copyright protections expire in the US.
+
+Wed, 03 Jan 2024 20:09:00 +0530
+### [How a US startup fired its entire workforce over a 2-minute call](https://www.firstpost.com/explainers/mass-layoffs-us-startup-frontdesk-fired-its-entire-workforce-over-a-2-minute-call-13573172.html)
+
+Article found but Couldn't summarize 
+How a US startup fired its entire workforce over a 2-minute call
+
+Wed, 03 Jan 2024 19:15:58 +0530
+### [Ram temple opening: Why is BJP demanding arrest of Congress leader BK Hariprasad?](https://www.firstpost.com/explainers/ram-temple-opening-why-is-bjp-demanding-arrest-of-congress-leader-bk-hariprasad-13573092.html)
+
+Congress leader BK Hariprasad made inflammatory remarks, suggesting the possibility of a "Godhra-like incident" in Karnataka during the upcoming consecration ceremony of the Ram temple in Ayodhya. The BJP has demanded his arrest and an apology. Hariprasad alleged that certain organizations have instigated BJP leaders and warned against untoward incidents. He also stated that the invitation to Congress leaders for the temple ceremony should be seen politically, not religiously. The BJP leaders have criticized Hariprasad's comments and called for immediate action against him. This is not the first time Hariprasad has caused controversy, as he previously referred to the BJP and RSS as "bootlickers of the British" during the freedom struggle.
+
 Wed, 03 Jan 2024 18:23:04 +0530
 ### [Why India is launching its GSAT-20 on SpaceX’s Falcon 9 rocket](https://www.firstpost.com/explainers/india-is-launching-its-gsat-20-satellite-on-spacexs-falcon-9-rocket-heres-why-13572232.html)
 

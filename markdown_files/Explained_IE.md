@@ -1,3 +1,13 @@
+Wed, 03 Jan 2024 14:14:08 +0000
+### [Who was Hamas leader Saleh al-Arouri, killed in a drone strike in Beirut?](https://indianexpress.com/article/explained/explained-global/hamas-leader-saleh-al-arouri-killed-9093929/)
+
+Senior Hamas official Saleh al-Arouri was killed in an Israeli drone strike in Beirut, Lebanon. The attack targeted a Hamas office in the southern suburbs of Dahiyeh, a Hezbollah stronghold, resulting in six deaths. While the Israeli government has not publicly claimed responsibility, Israeli and US officials confirmed Israel's involvement. Al-Arouri, a former Hamas military wing member, played a significant role in the group's operations and had strong connections to both Iran and Hezbollah. He was accused of planning the kidnapping and murder of three Israeli teenagers in 2014. Al-Arouri's death is a major blow to Hamas, but the group claims it won't be deterred. Analysts predict that the fighting between Israel and Hezbollah may escalate, with Hezbollah vowing retaliation. Israel is preparing for potential attacks, including long-range precision-guided missile strikes on major cities, which could escalate into a regional war.
+
+Wed, 03 Jan 2024 13:47:27 +0000
+### [Chinese boy ‘cyber kidnapped’ in Utah found safe: What is cyber kidnapping, how to protect yourself](https://indianexpress.com/article/explained/everyday-explainers/chinese-boy-utah-what-is-cyber-kidnapping-9093917/)
+
+Article found but Couldn't summarize
+
 Wed, 03 Jan 2024 11:12:41 +0000
 ### [A brothel ‘customer’ can be charged under ITP Act: What the Kerala HC has said](https://indianexpress.com/article/explained/explained-law/brothel-customer-itp-act-kerala-hc-9093242/)
 

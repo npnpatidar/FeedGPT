@@ -1,3 +1,14 @@
+Wed, 03 Jan 2024 19:23:39 +0530
+### [Vantage | Why China can't risk a trade war with India](https://www.firstpost.com/opinion/vantage-why-china-cant-risk-a-trade-war-with-india-13573132.html)
+
+Article found but Couldn't summarize 
+Vantage | Why China can't risk a trade war with India
+
+Wed, 03 Jan 2024 19:01:34 +0530
+### [Why Sonia and Rahul’s marmalade may leave some in a pickle](https://www.firstpost.com/opinion/why-sonia-and-rahuls-marmalade-may-leave-some-in-a-pickle-13572732.html)
+
+The article discusses a video featuring Sonia and Rahul Gandhi, where they are seen making marmalade in their kitchen. The video shows 30 bottles of marmalade with handwritten tags "With Love from Sonia & Rahul," sparking curiosity about who the recipients are. The article speculates that only those close to the Gandhis are likely to receive the marmalade. It also provides information about the history and origins of marmalade, as well as its popularity in different regions. The author concludes by suggesting that Lutyens Delhi could become "Marmalade County" if others follow the Gandhis' lead and use their ornamental citrus trees for making marmalade.
+
 Wed, 03 Jan 2024 17:38:10 +0530
 ### [Vantage | How Japan aced disaster preparedness](https://www.firstpost.com/opinion/vantage-how-japan-aced-disaster-preparedness-13572162.html)
 

@@ -5,6 +5,34 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Explained_TH.xml</link>
 		<description>Explained TH</description>
 		<item>
+			<title>Understanding the peace pact with ULFA | Explained</title>
+			<link>https://www.thehindu.com/news/national/understanding-the-peace-pact-with-ulfa-explained/article67703481.ece</link>
+			<description>Article found but Couldn't summarize 
+How did the United Liberation Front of Asom come into being?  What does the peace settlement with the organisation entail?</description>
+			<pubDate>Wed, 03 Jan 2024 22:27:53 +0530</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://th-i.thgim.com/public/incoming/q1djiw/article67703486.ece/alternates/LANDSCAPE_1200/20231231144L.jpg"></media:thumbnail>
+			<media:content url="https://th-i.thgim.com/public/incoming/q1djiw/article67703486.ece/alternates/LANDSCAPE_1200/20231231144L.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Adani-Hindenburg case verdict: Key takeaways</title>
+			<link>https://www.thehindu.com/news/national/adani-hindenburg-case-verdict-key-takeaways/article67701594.ece</link>
+			<description>The article discusses the recent Supreme Court ruling regarding the investigation into Hindenburg Research's allegations against the Adani Group. The court refused to transfer the ongoing probe by SEBI to any other agency, stating that the scope of judicial review in such cases is limited. The court also dismissed concerns of bias in the expert committee appointed to investigate the allegations. Moreover, the court dismissed the findings of the OCCRP about alleged stock manipulation and accounting fraud by the Adani Group, stating that such reports cannot be relied upon as conclusive proof. The court directed SEBI and the investigative agencies to probe whether the loss suffered by Indian investors due to Hindenburg Research's conduct involved any violation of the law. The court also upheld SEBI's amendments to the FPI and LODR regulations, stating that they have been tightened and do not suffer from irregularity or illegality. The article concludes by mentioning the court's directive for SEBI to consider constructing indices to compute the volatility of stocks and ensuring there are periodic reviews for design changes in indices.</description>
+			<pubDate>Wed, 03 Jan 2024 21:26:01 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://th-i.thgim.com/public/todays-paper/tp-national/xcmveb/article67534127.ece/alternates/LANDSCAPE_1200/TH14-JACOB-KOSH%2BGN9C0VQM1.3.jpg.jpg"></media:thumbnail>
+			<media:content url="https://th-i.thgim.com/public/todays-paper/tp-national/xcmveb/article67534127.ece/alternates/LANDSCAPE_1200/TH14-JACOB-KOSH%2BGN9C0VQM1.3.jpg.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>NYT’s copyright lawsuit against OpenAI and Microsoft | Explained</title>
+			<link>https://www.thehindu.com/news/international/nyts-copyright-lawsuit-against-openai-and-microsoft-explained/article67694900.ece</link>
+			<description>The New York Times (NYT) has filed a lawsuit against OpenAI and Microsoft, creators of ChatGPT and other generative AI content, for alleged unlawful use of its copyrighted material. The lawsuit claims that the AI models threaten the publication's business model and compromise its journalism's credibility. The complaint presents examples of ChatGPT producing near-verbatim copies of NYT articles. OpenAI and Microsoft use NYT's content to train their language models and reproduce articles. The lawsuit estimates billions of dollars in damages. It also argues that chatbots present unfair competition under trademark law. The lawsuit highlights concerns about AI-generated misinformation and its impact on journalism. NYT's lawsuit stands out due to the publication's scale, previous copyright battles, and the strong evidence of verbatim outputs. The case could lead to new rules and safeguards for the industry. The outcome may depend on the fair use doctrine and whether OpenAI's use of the content is considered transformative.</description>
+			<pubDate>Wed, 03 Jan 2024 20:42:51 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://th-i.thgim.com/public/incoming/69nyd/article67698013.ece/alternates/LANDSCAPE_1200/2023-12-27T222041Z_777947789_RC2Y55AX0BHN_RTRMADP_3_OPENAI-MICROSOFT-NEW-YORK-TIMES.JPG"></media:thumbnail>
+			<media:content url="https://th-i.thgim.com/public/incoming/69nyd/article67698013.ece/alternates/LANDSCAPE_1200/2023-12-27T222041Z_777947789_RC2Y55AX0BHN_RTRMADP_3_OPENAI-MICROSOFT-NEW-YORK-TIMES.JPG" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Scientists fuse brain-like tissue with electronics to make computer | Explained</title>
 			<link>https://www.thehindu.com/sci-tech/science/brain-organoid-computer-brainoware-neuromorphic-explained/article67692933.ece</link>
 			<description>Scientists have developed an 'organoid neural network' by fusing brain-like tissue with electronics. This innovation combines neuromorphic computing, which models computers after the human brain, with actual brain tissue. The team of researchers from Indiana University, the University of Cincinnati, Cincinnati Children’s Hospital Medical Centre, and the University of Florida published their findings in December 2023. The system represents a significant advancement in the fields of tissue engineering, electrophysiology, and neural computation. By including brain tissue in a computer, the researchers aim to address the limitations of current neural networks, such as the separation of memory and data processing units. The study demonstrates the potential of using biological neural networks, specifically brain organoids, for computational processes. Brain organoids are three-dimensional aggregates of brain cells created from human pluripotent stem cells. The researchers connected the brain organoid to an array of microelectrodes to form an organoid neural network, which they integrated into a reservoir computer system called 'Brainoware'. The system showed promising results in recognizing speech and solving complex mathematical problems. While Brainoware was slightly less accurate than artificial neural networks with short-term memory units, it required significantly less training. The study provides foundational insights into learning mechanisms, neural development, and the cognitive implications of neurodegenerative diseases. However, the system still has limitations, and further research is needed to optimize methods and tackle more complex computing problems. Ethical concerns surrounding the use of organoids in biocomputing systems are also raised. Overall, this study represents an innovative proof-of-concept for organoid intelligence and highlights the potential of brain organoids in adaptive reservoir computing.

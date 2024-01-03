@@ -1,3 +1,19 @@
+Wed, 03 Jan 2024 22:27:53 +0530
+### [Understanding the peace pact with ULFA | Explained](https://www.thehindu.com/news/national/understanding-the-peace-pact-with-ulfa-explained/article67703481.ece)
+
+Article found but Couldn't summarize 
+How did the United Liberation Front of Asom come into being?  What does the peace settlement with the organisation entail?
+
+Wed, 03 Jan 2024 21:26:01 +0530
+### [Adani-Hindenburg case verdict: Key takeaways](https://www.thehindu.com/news/national/adani-hindenburg-case-verdict-key-takeaways/article67701594.ece)
+
+The article discusses the recent Supreme Court ruling regarding the investigation into Hindenburg Research's allegations against the Adani Group. The court refused to transfer the ongoing probe by SEBI to any other agency, stating that the scope of judicial review in such cases is limited. The court also dismissed concerns of bias in the expert committee appointed to investigate the allegations. Moreover, the court dismissed the findings of the OCCRP about alleged stock manipulation and accounting fraud by the Adani Group, stating that such reports cannot be relied upon as conclusive proof. The court directed SEBI and the investigative agencies to probe whether the loss suffered by Indian investors due to Hindenburg Research's conduct involved any violation of the law. The court also upheld SEBI's amendments to the FPI and LODR regulations, stating that they have been tightened and do not suffer from irregularity or illegality. The article concludes by mentioning the court's directive for SEBI to consider constructing indices to compute the volatility of stocks and ensuring there are periodic reviews for design changes in indices.
+
+Wed, 03 Jan 2024 20:42:51 +0530
+### [NYT’s copyright lawsuit against OpenAI and Microsoft | Explained](https://www.thehindu.com/news/international/nyts-copyright-lawsuit-against-openai-and-microsoft-explained/article67694900.ece)
+
+The New York Times (NYT) has filed a lawsuit against OpenAI and Microsoft, creators of ChatGPT and other generative AI content, for alleged unlawful use of its copyrighted material. The lawsuit claims that the AI models threaten the publication's business model and compromise its journalism's credibility. The complaint presents examples of ChatGPT producing near-verbatim copies of NYT articles. OpenAI and Microsoft use NYT's content to train their language models and reproduce articles. The lawsuit estimates billions of dollars in damages. It also argues that chatbots present unfair competition under trademark law. The lawsuit highlights concerns about AI-generated misinformation and its impact on journalism. NYT's lawsuit stands out due to the publication's scale, previous copyright battles, and the strong evidence of verbatim outputs. The case could lead to new rules and safeguards for the industry. The outcome may depend on the fair use doctrine and whether OpenAI's use of the content is considered transformative.
+
 Wed, 03 Jan 2024 10:30:00 +0530
 ### [Scientists fuse brain-like tissue with electronics to make computer | Explained](https://www.thehindu.com/sci-tech/science/brain-organoid-computer-brainoware-neuromorphic-explained/article67692933.ece)
 

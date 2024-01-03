@@ -1,3 +1,27 @@
+2024-01-04T00:13:51+05:30
+### [Manipur Body Issues ‘Clarification’ on Moreh Gunfight, Denies Involvement of Kuki Militant Groups](https://thewire.in/security/manipur-body-issues-clarification-on-moreh-gunfight-denies-involvement-of-kuki-militant-groups)
+
+No Article text 
+Border Security Force (BSF) as well as police personnel were injured on January 2 during a gunfight in Moreh town, which lies at the border between Manipur and Myanmar.
+
+2024-01-03T22:16:23+05:30
+### [After Russian Visit, Jaishankar Speaks With Ukrainian Foreign Minister](https://thewire.in/diplomacy/jaishankar-speaks-with-ukrainian-fm-kuleba)
+
+No Article text 
+Less than a week after Jaishankar's return from Russia, he spoke with his Ukrainian counterpart Dmytro Kuleba about “Russia's recent escalation of terror and mass air attacks, which caused civilian suffering and destruction”.
+
+2024-01-03T20:14:44+05:30
+### [Over 100 Killed in Iran Following Blasts Near Grave of Commander Qassem Soleimani: State TV](https://thewire.in/world/over-100-killed-in-iran-following-blasts-near-grave-of-commander-qassem-soleimani-state-tv)
+
+No Article text 
+Rahman Jalali, the deputy governor of the province where the incident reportedly took place, told Iranian media that the blasts were “a terrorist attack”, though he did not elaborate on possible perpetrators.
+
+2024-01-03T19:38:39+05:30
+### [Supreme Court Issues Notice on PIL Filed By The Wire Reporter on Caste-Based Prison Rules](https://thewire.in/caste/supreme-court-issues-notice-on-prison-caste-discrimination-pil-filed-by-sukanya-shantha)
+
+No Article text 
+Prison manuals in India continue to retain unconstitutional caste-based labour rules. The Wire's series on caste discrimination in prisons, which was the basis of the PIL filed in the apex court, has won awards both in India and abroad.
+
 2024-01-03T18:36:33+05:30
 ### [Three More Cheetah Cubs Born on Indian Soil](https://thewire.in/environment/three-more-cheetah-cubs-born-on-indian-soil)
 
