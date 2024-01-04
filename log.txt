@@ -3741,3 +3741,9 @@ Started at 2024-01-03 23:09:04
 Finished at 2024-01-03 23:10:39
 Total time taken: 94.87272047996521 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-01-04 00:37:47
+1 Feed entries have been written to feeds/Explain_FP.xml
+1 new entries have been added
+Finished at 2024-01-04 00:38:14
+Total time taken: 26.810765504837036 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

@@ -44,6 +44,12 @@ Wed, 03 Jan 2024 18:13:45 +0530
 
 Trinamool Congress leader Mahua Moitra has been accused of snooping on her ex-boyfriends by one of her former partners, Jai Anant Dehadrai. Dehadrai filed a complaint with the home ministry and the Central Bureau of Investigation (CBI), alleging that Moitra carried out "illegal surveillance" on him and another former boyfriend. He claimed that Moitra obtained call records without permission and had access to the complete call detail records (CDR) history of her ex-boyfriend. Dehadrai also mentioned that Moitra justified her actions by claiming certain rights enjoyed by a member of Parliament. He expressed concerns about his safety and alleged that Moitra is using her connections with senior Bengal police officers to conduct illegal surveillance on him. Moitra responded to the allegations, insinuating that Dehadrai is a jilted ex. The two have been in a public spat for months, including a battle over the custody of their pet rottweiler, Henry. Dehadrai is a known name in legal circles, specializing in white-collar crimes. He has fought for various causes and is currently challenging Delhi prison rules in the Supreme Court.
 
+Wed, 03 Jan 2024 17:25:39 +0530
+### [FirstUp: From YS Sharmila joining the Congress to Jaishankar in Nepal, the news for today](https://www.firstpost.com/explainers/firstup-from-ys-sharmila-joining-the-congress-to-jaishankar-in-nepal-the-news-for-today-13572272.html)
+
+Article found but Couldn't summarize 
+FirstUp: From YS Sharmila joining the Congress to Jaishankar in Nepal, the news for today
+
 Wed, 03 Jan 2024 17:10:46 +0530
 ### [The horrific tale of Indian-origin man murdering wife and daughter in US, before killing self](https://www.firstpost.com/explainers/the-horrific-tale-of-indian-origin-man-murdering-wife-and-daughter-in-us-before-killing-self-13571662.html)
 
