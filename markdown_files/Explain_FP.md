@@ -1,3 +1,100 @@
+Thu, 04 Jan 2024 20:22:31 +0530
+### [Why Eknath Shinde wants to ‘liberate’ Maharashtra's centuries-old Haji Malang Dargah](https://www.firstpost.com/explainers/why-eknath-shinde-wants-to-liberate-maharashtras-centuries-old-haji-malang-dargah-13577672.html)
+
+A political dispute has arisen in Maharashtra over Chief Minister Eknath Shinde's commitment to the "liberation" of the Haji Malang Dargah, a centuries-old shrine claimed by both Hindus and Muslims. Shinde's remarks have drawn reactions from various political leaders, with accusations of targeting a religious place of one particular faith. The shrine's history involves a syncretic culture, communal tensions, and claims by Hindu right-wing groups. The issue has garnered support from some BJP members while others criticize Shinde for reigniting the dispute.
+
+Thu, 04 Jan 2024 19:48:55 +0530
+### [The horrific tales of Jeffrey Epstein’s 'paedophile' island](https://www.firstpost.com/explainers/the-horrific-tales-of-jeffrey-epsteins-pedophile-island-13575922.html)
+
+Article found but Couldn't summarize 
+The horrific tales of Jeffrey Epstein’s 'paedophile' island
+
+Thu, 04 Jan 2024 19:02:15 +0530
+### [Pineapple on Pizza: How the fruit has become the world’s most divisive topping](https://www.firstpost.com/explainers/pineapple-on-pizza-how-the-fruit-has-become-the-worlds-most-divisive-topping-13576232.html)
+
+Italian chef Gino Sorbillo has sparked a debate by adding pineapple as a topping to his pizza menu in Naples. He created this controversial dish to challenge food prejudice and make disputed ingredients tasty. The origins of Hawaiian pizza can be traced back to a Greek immigrant in Canada who added canned pineapple to a traditional pizza, and it gained popularity worldwide. However, pineapple on pizza remains a divisive topic, with many people expressing strong opinions against it. Some argue that the sweetness of pineapple clashes with the savory nature of pizza, while others believe the combination of pineapple and cheese is a culinary disaster. However, there are chefs who defend pineapple as a topping when prepared properly, such as roasted and paired with pork. The debate continues: pineapple lovers versus pineapple haters.
+
+Thu, 04 Jan 2024 18:07:19 +0530
+### [Why California now has gender-neutral toy aisles and debate around concept](https://www.firstpost.com/explainers/why-california-now-has-gender-neutral-toy-aisles-and-debate-around-concept-13577102.html)
+
+Article found but Couldn't summarize 
+Why California now has gender-neutral toy aisles and debate around concept
+
+Thu, 04 Jan 2024 17:02:36 +0530
+### [A true ‘icon’ of the seas: Inside the world’s largest cruise ship](https://www.firstpost.com/explainers/icon-of-the-seas-worlds-largest-cruise-ship-features-13576672.html)
+
+As GPT-3.5, I can provide you with a summary of the article about the Icon of the Seas, the largest cruise ship in the world. The ship is set to sail later this month and has been spotted at a port in Puerto Rico for its trial voyage. It is owned by Royal Caribbean and will embark on its maiden commercial voyage on January 27 from Miami, Florida. The ship is 1,198 feet long, costs $2 billion, and can accommodate 7,600 passengers across its 20 decks. It features various amenities such as a food hall, six swimming pools, the largest at-sea water park, and over 40 bars and restaurants. The ship also has eight neighborhoods, a promenade with floor-to-ceiling windows, and offers entertainment options like an ice skating rink, laser tag arena, and full-scale theatre productions. The fares for seven-night Caribbean sailings start at $1,542 per person, and the ship is fully booked for its inaugural voyage. It offers a range of suites, including the three-story Ultimate Family Townhouse.
+
+Thu, 04 Jan 2024 16:33:29 +0530
+### [‘Bill Clinton likes them young’: Inside the Jeffrey Epstein sex scandal files](https://www.firstpost.com/explainers/bill-clinton-likes-them-young-inside-the-jeffrey-epstein-files-sex-scandal-13576242.html)
+
+Article found but Couldn't summarize 
+‘Bill Clinton likes them young’: Inside the Jeffrey Epstein sex scandal files
+
+Thu, 04 Jan 2024 15:58:17 +0530
+### [It's Januhairy: Why women are forgoing waxing, shaving their body hair this month](https://www.firstpost.com/explainers/its-januhairy-why-women-are-forgoing-waxing-shaving-their-body-hair-this-month-13571732.html)
+
+Januhairy is a campaign where women are encouraged to grow out their body hair and refrain from waxing, threading, and laser appointments. It originated from the idea of Laura Jackson, a drama student at the University of Exeter, who grew out her body hair for a performance and realized the taboo surrounding women's body hair. She shared a picture of her unshaven underarms on Instagram and invited women from around the world to join in. Januhairy has now become a worldwide phenomenon with over 42,000 followers on its official Instagram account. The purpose of Januhairy is to promote the liberation of women's bodies and challenge societal beauty norms. It encourages individuals to think about how they treat their bodies and aims for a future where people can freely choose what they want to do with their body hair without judgment.
+
+Thu, 04 Jan 2024 15:29:56 +0530
+### [South Korea introduces ‘workation’ visa. What is it?](https://www.firstpost.com/explainers/south-korea-introduces-workation-visa-what-is-it-which-other-nations-issue-it-13576172.html)
+
+South Korea has introduced a new visa for digital nomads, allowing them to enjoy a working holiday or 'workcation' in the country. The visa is available to foreign nationals who earn double South Korea's per capita gross national income, have medical insurance cover, and meet other eligibility criteria. The visa will be issued for one year and can be extended for another year. South Korea is implementing this visa on a trial basis, and its permanence will be decided later. The article also mentions that nearly half the countries in the world offer visas for digital nomads, and it provides information about some of the top countries for digital nomads, such as Portugal, Dubai, and Croatia.
+
+Thu, 04 Jan 2024 14:29:35 +0530
+### [Nagara-style architecture, no iron: What the historic Ram temple in Ayodhya will look like](https://www.firstpost.com/explainers/nagara-style-architecture-no-iron-what-the-historic-ram-temple-in-ayodhya-will-look-like-13575222.html)
+
+India is preparing for the consecration of the Ram temple in Ayodhya on 22 January. The temple is 161 feet tall, 380 feet long, and 250 feet wide in the traditional Nagara style. It has three floors, 44 doorways, and 392 pillars decorated with sculptures and reliefs. The main sanctum sanctorum houses the idol of Shri Ram Lalla. The temple also includes five Halls, a compound wall, and other smaller temples within the complex. The construction uses traditional and indigenous technology, with no iron used and a focus on environmental-water conservation. The temple complex also features facilities such as sewage treatment, water treatment, and a Pilgrims Facility Centre.
+
+Thu, 04 Jan 2024 14:04:36 +0530
+### [Having trouble sleeping? You might be suffering from COVID](https://www.firstpost.com/explainers/having-trouble-sleeping-suffering-from-anxiety-you-might-be-suffering-from-covid-13574982.html)
+
+Article found but Couldn't summarize 
+Having trouble sleeping? You might be suffering from COVID
+
+Thu, 04 Jan 2024 14:00:08 +0530
+### [Why junior doctors in the UK have gone on the ‘longest-ever’ NHS strike](https://www.firstpost.com/explainers/uk-junior-doctors-longest-ever-nhs-strike-british-government-pay-hike-13575392.html)
+
+Junior doctors in the UK have gone on a six-day strike, marking the longest strike in the history of Britain's National Health Service (NHS). This strike, the ninth by junior doctors, is expected to impact tens of thousands of patients, particularly at a time when respiratory illnesses like COVID-19 and flu are on the rise. The strikes will result in the cancellation or rescheduling of many appointments and procedures, adding to the already significant backlog of patients waiting for care. The junior doctors are protesting low pay and demanding a 35% pay hike. The British Medical Association (BMA) has stated that they are willing to end the strike if the government presents a credible offer. The UK government, on the other hand, has insisted that talks will only resume once the strike is called off.
+
+Thu, 04 Jan 2024 13:31:17 +0530
+### [Who was Jeffrey Epstein and what documents linked to his sex scandal reveal?](https://www.firstpost.com/explainers/who-was-jeffrey-epstein-and-what-documents-linked-to-his-sex-scandal-reveal-13575002.html)
+
+Article found but Couldn't summarize 
+Who was Jeffrey Epstein and what documents linked to his sex scandal reveal?
+
+Thu, 04 Jan 2024 12:37:35 +0530
+### [Who was Divya Pahuja, ex-girlfriend of Gurugram's most-wanted gangster, shot dead in hotel room?](https://www.firstpost.com/explainers/who-was-divya-pahuja-ex-girlfriend-of-gurugrams-most-wanted-gangster-shot-dead-in-hotel-room-13574412.html)
+
+Divya Pahuja, a former model and ex-girlfriend of gangster Sandeep Gadoli, was murdered by a hotel owner and his associates in Gurugram. Pahuja was previously arrested for her alleged involvement in the fake encounter of Gadoli in Mumbai in 2016. The murder has raised suspicions of involvement by Gadoli's aides. Pahuja had filed a plea earlier, taking the blame for informing the police about Gadoli to protect her family. She was released on bail in June 2023 after serving six years in prison. Pahuja was taken to a hotel where she was shot in the head by five people. Three of the accused have been arrested, and the investigation is ongoing. The body has not been located yet.
+
+Thu, 04 Jan 2024 11:52:35 +0530
+### [How did a 13-year-old US boy beat the 'unbeatable' Tetris? Why is it such a big deal?](https://www.firstpost.com/explainers/how-did-a-13-year-old-us-boy-beat-the-unbeatable-tetris-why-is-it-such-a-big-deal-13574512.html)
+
+Willis Gibson, a competitive Tetris player, became the first player to officially "beat" the original Nintendo version of the game by reaching Level 157, where the game becomes unplayable due to code limits. This achievement is significant in the gaming world as Tetris is considered unbeatable. Willis used various techniques, overcoming obstacles such as faster falling blocks and color palette issues at higher levels. A Tetris-playing AI program called StackRabbit helped identify glitches that could trigger a kill screen, leading to Willis' successful attempt.
+
+Thu, 04 Jan 2024 11:40:42 +0530
+### [Will Arvind Kejriwal be arrested today in the Delhi liquor policy case?](https://www.firstpost.com/explainers/will-arvind-kejriwal-be-arrested-today-in-the-delhi-liquor-policy-case-13574422.html)
+
+Delhi Chief Minister Arvind Kejriwal has been summoned by the Enforcement Directorate (ED) three times in connection with the Delhi liquor policy case. There is speculation that he may be arrested after he refused to appear before the ED for questioning. The Aam Aadmi Party (AAP) leaders have expressed concerns about a possible raid and arrest. Kejriwal has skipped the previous summons, considering them illegal, and has asked for their withdrawal. The ED may issue a fourth summon to Kejriwal, and there are links between him and the alleged procedural lapses in the liquor policy case. Other AAP leaders have already been arrested in this case. The AAP and BJP are trading accusations over the situation, with AAP claiming a conspiracy by the BJP to arrest Kejriwal before the upcoming Lok Sabha elections.
+
+Thu, 04 Jan 2024 10:30:20 +0530
+### [Japan plane's miraculous escape and other heroic air evacuations](https://www.firstpost.com/explainers/japan-planes-miraculous-escape-and-other-heroic-air-evacuations-13574212.html)
+
+Article found but Couldn't summarize 
+Japan plane's miraculous escape and other heroic air evacuations
+
+Thu, 04 Jan 2024 09:51:54 +0530
+### [ISIS, Israel or the US? Who is behind the twin blasts in Iran that killed 95?](https://www.firstpost.com/explainers/isis-israel-or-the-us-who-is-behind-the-twin-blasts-in-iran-that-killed-95-13574102.html)
+
+The twin blasts in Kerman, Iran, occurred during a ceremony commemorating the assassination of Qasem Soleimani, the head of Iran's al-Quds force. The first explosion happened near Soleimani's grave, followed by a more deadly blast 20 minutes later when other pilgrims came to help the injured. The blasts resulted in the death of at least 95 people and injured over 200 others. The responsibility for the attack has not been claimed by any specific group or entity, but Iran has labeled it as a terrorist attack and pointed fingers at Israel and the United States. However, the US has denied any involvement, and experts believe that the blasts could be the work of various jihadist or militant groups. The incident has heightened tensions in the region, especially considering the recent killing of senior Hamas leader Saleh al-Arouri in Beirut. It is crucial for calm thinking to prevail among the leadership in the region.
+
+Thu, 04 Jan 2024 08:26:00 +0530
+### [In Graphics | How to stay warm during harsh winters](https://www.firstpost.com/explainers/in-graphics-how-to-stay-warm-during-harsh-winters-13572332.html)
+
+Article found but Couldn't summarize 
+In Graphics | How to stay warm during harsh winters
+
 Wed, 03 Jan 2024 21:16:38 +0530
 ### [Blasts near Qasem Soleimani’s grave: Who was Iran’s ‘shadow commander?’](https://www.firstpost.com/explainers/blasts-near-qasem-soleimanis-grave-who-was-irans-shadow-commander-13573582.html)
 

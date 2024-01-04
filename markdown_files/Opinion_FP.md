@@ -1,3 +1,61 @@
+Thu, 04 Jan 2024 19:18:02 +0530
+### [Modi govt, criminal laws and new India](https://www.firstpost.com/opinion/modi-govt-criminal-laws-and-new-india-13576582.html)
+
+Article found but Couldn't summarize 
+Modi govt, criminal laws and new India
+
+Thu, 04 Jan 2024 18:05:16 +0530
+### [Israel’s Gaza goals need to be more strategic than retaliatory violence](https://www.firstpost.com/opinion/israels-gaza-goals-need-to-be-more-strategic-than-retaliatory-violence-13576932.html)
+
+The article discusses the recent conflict between Israel and Hamas and its implications. It highlights Israel's failure to maintain security and the shift in global attention towards the Palestinian cause. The article explores the war aims of Hamas and Israel's response, emphasizing the destruction of Israel as Hamas's ultimate goal. It also mentions the impact on Israel's national security doctrine and the need to bring back hostages held by Hamas. The article concludes by questioning the effectiveness of Israel's military campaign and the potential for lasting peace in the region.
+
+Thu, 04 Jan 2024 15:47:08 +0530
+### [Global Watch | Balochistan and beyond: Pakistan Army’s state policy of forced disappearances and genocide](https://www.firstpost.com/opinion/global-watch-balochistan-and-beyond-pakistan-armys-state-policy-of-forced-disappearances-and-genocide-13576182.html)
+
+Article found but Couldn't summarize 
+Global Watch | Balochistan and beyond: Pakistan Army’s state policy of forced disappearances and genocide
+
+Thu, 04 Jan 2024 15:10:06 +0530
+### [Vantage | Why Islamic State eyeing Pakistan isn't surprising yet worrisome](https://www.firstpost.com/opinion/vantage-why-islamic-state-eyeing-pakistan-isnt-surprising-yet-worrisome-13575532.html)
+
+The article discusses the growing threat of the Islamic State in Pakistan and its alliance with the Tehreek-e-Taliban Pakistan (TTP). Pakistan's Interior Ministry has released an assessment highlighting the danger posed by these terror groups, particularly targeting Shia Muslims and other minorities. The Pakistani army's lack of action against these groups is attributed to its focus on other matters, such as imprisoning opposition leaders and rigging elections. The Islamic State in Pakistan, known as the Islamic State of Khorasan Province (ISKP), emerged as a breakaway group from the Afghan Taliban and TTP, with ambitions of establishing a regional or international Caliphate. The ISKP is now targeting Pakistan due to Afghanistan becoming a no-go zone for them, with the Taliban hunting their fighters. The article also mentions Pakistan's long-standing policy of differentiating between "good" and "bad" terrorism, which complicates their response to these threats. The rise of ISKP is a concern for the West and neighboring countries due to its global ambitions. The article concludes by stating that Pakistan has the potential to address this threat, but their intentions are uncertain.
+
+Thu, 04 Jan 2024 14:46:42 +0530
+### [Domestic politics, not national interest, guides American foreign policy](https://www.firstpost.com/opinion/domestic-politics-not-national-interest-guides-american-foreign-policy-13575332.html)
+
+The article discusses how ideological positions have historically been used by American governments to gain support for their interventionist policies. It highlights the negative consequences of these policies, such as the Vietnam War and the War on Terrorism, and questions the alignment of these actions with national interest. The article also criticizes the influence of corporate lobbying, the role of media in shaping public opinion, and the confusion in the Biden administration's foreign policy messaging. It suggests that American foreign policy guided by special interests and domestic politics may not serve the best interests of the American people.
+
+Thu, 04 Jan 2024 12:04:17 +0530
+### [Vantage | Why Ethiopia-Somaliland Red Sea port deal is bad news for Africa](https://www.firstpost.com/opinion/vantage-why-ethiopia-somaliland-red-sea-port-deal-is-bad-news-for-africa-13574822.html)
+
+Ethiopian Prime Minister Abiy Ahmed has signed a Memorandum of Understanding with Somaliland, a self-governed territory internationally recognized as part of Somalia. In exchange for recognizing Somaliland's independence, Ethiopia gains access to the port of Berbera. This move has caused tensions as it disrupts the delicate status quo. While Ethiopia sees it as an opportunity to access the Red Sea, Somalia considers it an offensive violation of its sovereignty. The situation could potentially lead to conflict in the Horn of Africa, further destabilizing the region. Abiy Ahmed's actions have raised concerns, especially considering his role as a Nobel Peace laureate.
+
+Thu, 04 Jan 2024 11:44:51 +0530
+### [Vantage | Why ban on families of foreign students may hurt UK more than it helps](https://www.firstpost.com/opinion/vantage-why-ban-on-families-of-foreign-students-may-hurt-uk-more-than-it-helps-13574382.html)
+
+British Prime Minister Rishi Sunak has introduced new immigration rules that prohibit foreign university students from bringing their family members to the UK. Previously, students could apply for visas to bring their dependents, but under the new rules, they are no longer able to do so. The UK government argues that this practice was contributing to unsustainable levels of migration. While the government aims to reduce migration, the decision may have negative consequences for UK colleges if foreign students choose to study in other countries.
+
+Thu, 04 Jan 2024 11:22:57 +0530
+### [Vantage | 3 reasons why Russian ships continue to sail in Red Sea](https://www.firstpost.com/opinion/vantage-3-reasons-why-russian-ships-continue-to-sail-in-red-sea-13573202.html)
+
+Despite heightened tensions and security risks, Russian tankers continue to sail through the Red Sea, maintaining their trade routes. While other shipping companies have rerouted vessels to avoid the region, Russian tankers appear unaffected by the concerns. This is due to strategic alliances with Iran, the use of a "shadow fleet" that lacks direct links to Israel, and economic compulsions, as rerouting would increase shipping time and costs. However, recent attacks on an oil tanker highlight the risks involved in Russia's decision. The outcome of this gamble remains uncertain, but the geopolitical and economic stakes are high.
+
+Thu, 04 Jan 2024 11:07:53 +0530
+### [‘Widespread persecution of Muslims’? Guardian report on Modi reflects everything that’s wrong with western media](https://www.firstpost.com/opinion/widespread-persecution-of-muslims-guardian-report-on-modi-reflects-everything-thats-wrong-with-western-media-13574272.html)
+
+The article discusses how global media outlets, including The Guardian, have a financial interest in running negative narratives on India based on sensationalism, prejudice, and disinformation. It highlights a recent Guardian article that predicts a victory for Narendra Modi's BJP in the upcoming general elections while portraying Indians and their electoral choices in a contemptuous and biased manner. The author argues that the Guardian's coverage is based on hearsay, falsehoods, and a lack of understanding of India's complexities. The article also mentions a survey indicating that British media misrepresents Indians and Hindus, lacking impartiality and balance in their reporting on India. Additionally, it challenges the Guardian's claims of widespread persecution of Muslims in India and highlights the Modi government's efforts to uplift the economically backward sections of the Muslim community. Finally, the article disputes the Guardian's assertion that the BJP may suffer due to economic weaknesses, presenting data that shows India's positive economic growth and declining unemployment rate.
+
+Thu, 04 Jan 2024 09:50:57 +0530
+### [India’s national security strategy in 2023 and the imperative for continuity in 2024](https://www.firstpost.com/opinion/indias-national-security-strategy-in-2023-and-the-imperative-for-continuity-in-2024-13574042.html)
+
+The article discusses India's positive developments in various aspects in the year 2023, including economic growth, foreign policy achievements, and technological advancements. It highlights India's successful space exploration mission, its position in the G20, and its strategic partnership with the US. The article also mentions India's handling of geopolitical challenges, its stance on Jammu and Kashmir and Middle East affairs, and the importance of maintaining relationships with Russia and the US. The author concludes by emphasizing the need for India to reassess the effects of global events on its interests and focus on maintaining relationships with neighboring countries.
+
+Thu, 04 Jan 2024 08:45:14 +0530
+### [Vantage | Did China sabotage Europe's undersea gas pipeline?](https://www.firstpost.com/opinion/vantage-did-china-sabotage-europes-undersea-gas-pipeline-13573242.html)
+
+Article found but Couldn't summarize 
+Vantage | Did China sabotage Europe's undersea gas pipeline?
+
 Wed, 03 Jan 2024 19:23:39 +0530
 ### [Vantage | Why China can't risk a trade war with India](https://www.firstpost.com/opinion/vantage-why-china-cant-risk-a-trade-war-with-india-13573132.html)
 

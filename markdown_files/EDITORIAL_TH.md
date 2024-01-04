@@ -1,3 +1,14 @@
+Fri, 05 Jan 2024 00:20:00 +0530
+### [Shielding SEBI: On Supreme Court’s ruling and SEBI probe](https://www.thehindu.com/opinion/editorial/shielding-sebi-on-supreme-courts-ruling-and-sebi-probe/article67706171.ece)
+
+The Supreme Court of India has ruled on a batch of petitions related to allegations of malfeasance in the Adani group of companies. The court has deferred to the Securities and Exchange Board of India (SEBI) and its investigation, stating that SEBI has conducted a comprehensive investigation and there is no evidence of deliberate inaction or inadequacy. The court did not address concerns about SEBI's handling of the allegations, but directed SEBI to complete the remaining investigations promptly. The ruling has raised questions about the court's reluctance to review SEBI's actions and its impact on the public interest.
+
+Fri, 05 Jan 2024 00:10:00 +0530
+### [Terror in Iran: On the blasts in Iran’s Kerman and the impact](https://www.thehindu.com/opinion/editorial/terror-in-iran-on-the-blasts-in-irans-kerman-and-the-impact/article67706200.ece)
+
+Article found but Couldn't summarize 
+Iran should not walk into the web of provocations set by its rivals
+
 Thu, 04 Jan 2024 00:20:00 +0530
 ### [Striking fear: On hit-and-run accident cases and Section 106 of the Bharatiya Nyaya Sanhita](https://www.thehindu.com/opinion/editorial/striking-fear-on-hit-and-run-accident-cases-and-section-106-of-the-bharatiya-nyaya-sanhita/article67703190.ece)
 

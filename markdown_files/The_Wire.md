@@ -1,3 +1,147 @@
+2024-01-04T23:08:39+05:30
+### [India, Nepal Ink Agreement on Export of 10,000 MW of Electricity](https://thewire.in/south-asia/india-nepal-ink-agreement-on-export-of-10000-mw-of-electricity)
+
+No Article text 
+A group of Nepali civil society activists, including former bureaucrats, has expressed concerns over Kathmandu signing the power trade agreement.
+
+2024-01-04T22:48:46+05:30
+### [Four ‘US Donkey Flights’ Had Left for Nicaragua When French Immigration Intercepted Legend Airlines](https://thewire.in/world/four-us-donkey-flights-had-left-for-nicaragua-when-french-immigration-intercepted-legend-airlines)
+
+No Article text 
+All individuals on board were reportedly enroute to Managua, Nicaragua, a Central American country, with the ultimate destination being the US via the donkey route.
+
+2024-01-04T19:58:38+05:30
+### [‘Pakistan’s Election Could Be a Farce’: Former PM Imran Khan Writes From Prison](https://thewire.in/south-asia/pakistans-election-could-be-a-farce-former-pm-imran-khan-writes-from-prison)
+
+No Article text 
+The former prime minister accused the establishment, including the army and security agencies, of orchestrating his government's removal under pressure from the US.
+
+2024-01-04T19:27:30+05:30
+### [Congress Renames Bharat Nyay Yatra as ‘Bharat Jodo Nyay Yatra'](https://thewire.in/politics/congress-renames-rahul-gandhis-bharat-nyay-yatra-as-bharat-jodo-nyay-yatra)
+
+No Article text 
+The march will kick off on January 14 from Imphal and end in Mumbai in March. It will cover a total distance of 6,713 kms across 110 districts in eastern and western India over 66 days. Members of the INDIA alliance have also been invited to join the yatra.
+
+2024-01-04T18:00:12+05:30
+### [The Truth About Inflation – in India and Around the World](https://thewire.in/economy/the-truth-about-inflation-in-india-and-around-the-world)
+
+No Article text 
+Indian inflation is best tackled by addressing food inflation – which is clearly a government responsibility. The role that monetary policy can play in this context is limited.
+
+2024-01-04T17:15:28+05:30
+### [Pannun 'Murder Plot': SC Junks Plea Against Nikhil Gupta's Arrest, Cites Lack of Jurisdiction](https://thewire.in/law/pannun-murder-plot-sc-junks-plea-against-nikhil-guptas-arrest-cites-lack-of-jurisdiction)
+
+No Article text 
+Referring to the Vienna Convention, the court said Nikhil Gupta is only eligible for consular access, which it said was already granted to him twice.
+
+2024-01-04T16:42:34+05:30
+### [SC Refuses to Quash Criminal Case Against Congress’s Pawan Khera Over ‘Narendra Modi’ Name Remark](https://thewire.in/law/sc-refuses-to-quash-criminal-case-against-congresss-pawan-khera-over-narendra-modi-name-remark)
+
+No Article text 
+In February last year, during a press conference on the Adani-Hindenburg affair, Khera had made a mistake with Modi’s name.
+
+2024-01-04T16:00:06+05:30
+### [There Is No Lack of Judicial Power in India. Just a Refusal to Act on It.](https://thewire.in/law/there-is-no-lack-of-judicial-power-in-india-just-a-refusal-to-act-on-it)
+
+No Article text 
+A long look at 2023 and how the courts let India down.
+
+2024-01-04T15:30:49+05:30
+### [No Talks With State-Owned Oil Retailers On Reducing Fuel Prices: Union Minister](https://thewire.in/energy/no-discussion-with-omcs-on-reducing-fuel-prices)
+
+No Article text 
+Petroleum and natural gas minister Hardeep Singh Puri also denied reports of India facing problems paying for Russian oil.
+
+2024-01-04T14:53:25+05:30
+### [The INDIA Alliance Has a Caste Conundrum](https://thewire.in/caste/the-india-alliance-has-a-caste-conundrum)
+
+No Article text 
+INDIA looks comfortable with the support that it gets from the Dalit, Adivasis and Muslim groups. However, such support is insufficient to win the democratic battle.
+
+2024-01-04T14:30:14+05:30
+### [Amid India's Silent Fiscal Crisis and Fragile Federalism, 16th Finance Commission Has an Uphill Task](https://thewire.in/economy/amid-indias-silent-fiscal-crisis-and-fragile-federalism-16th-finance-commission-has-an-uphill-task)
+
+No Article text 
+At a time when the federal faith in Centre-state relations is at its weakest link and remains deeply politicised, it would be interesting to see how Aravind Panagariya and his team go ahead with the difficult work cut out for them.
+
+2024-01-04T14:00:54+05:30
+### [Recent Developments in Chin State Raise More Questions on New Delhi's Approach Towards Myanmar](https://thewire.in/south-asia/chin-state-operation-1027-myanmar-mizoram)
+
+No Article text 
+The establishment of the Chinland Council, coupled with political changes in Mizoram, demands a cautious diplomatic strategy by India to secure its interests while navigating the complexities of the region.
+
+2024-01-04T13:52:39+05:30
+### [YS Sharmila Joins Congress, Likely to Boost Party's Prospects in Andhra Pradesh](https://thewire.in/politics/ys-sharmila-joins-congress-likely-to-boost-partys-prospects-in-andhra-pradesh)
+
+No Article text 
+Calling it the 'largest secular party, Sharmila said that her decision to join the Congress was spurred by the ongoing ethnic violence in Manipur and that she had 'contributed' to the Congress’ victory in Telangana Assembly elections last year by not contesting the polls.
+
+2024-01-04T13:30:29+05:30
+### [Companies Fail But Promoters Don’t: The NCLT's Continuing Tradition](https://thewire.in/law/companies-fail-but-promoters-dont-the-nclts-continuing-tradition)
+
+No Article text 
+The promoters cannot and should not have a free ride or continue to master control over their company fraudulently.
+
+2024-01-04T13:00:46+05:30
+### [India’s Unending Employment Woes: Over 25,000 Applicants for 15 Government Posts in Karnataka](https://thewire.in/labour/indias-unending-employment-woes-over-25000-applicants-for-15-government-posts-in-karnataka)
+
+No Article text 
+Meanwhile, state departments face substantial staff shortages due to financial constraints, including over 75,000 vacancies in education, 35,000 in health, and 22,000 in the home department.
+
+2024-01-04T12:30:35+05:30
+### [After Row Over PM Selfie Points, Indian Railways Tighten RTI Norms](https://thewire.in/government/after-row-over-pm-selfie-points-railways-tightens-rti-norms)
+
+No Article text 
+As per the changed rules, all RTI replies from Indian Railways must go through general managers of zonal railways or divisional railway managers. So far, public information officers and chief public information officers handled the matter.
+
+2024-01-04T12:00:16+05:30
+### [TDP Scion Nara Lokesh Comes into His Own at a Tricky Time for Telugu Parties](https://thewire.in/politics/interview-telugu-desam-party-nara-lokesh-jaganmohan)
+
+No Article text 
+The Wire followed him on his yatra, and finds the image of the shy son of N. Chandrababu Naidu transformed, keeps all options open about allying with the NDA.
+
+2024-01-04T11:45:17+05:30
+### [A One-Sided Election Risks Bangladesh's Future](https://thewire.in/south-asia/a-one-sided-election-risks-bangladeshs-future)
+
+No Article text 
+With the distinction between the state, government and party obliterated, Bangladesh is heading towards a personalised autocracy.
+
+2024-01-04T11:23:48+05:30
+### [Don't Summon Govt Officials Arbitrarily or Comment on Their Appearance: SC to All Courts](https://thewire.in/law/dont-summon-govt-officials-arbitrarily-or-comment-on-their-appearance-sc-to-all-courts)
+
+No Article text 
+However, the Supreme Court said, the physical presence of government officials may be required in cases where there has been a suppression of evidence.
+
+2024-01-04T10:13:13+05:30
+### [ED to Close Case Against Dalit Farmers After Outrage Over Caste Mention, BJP Leader's Ties: Report](https://thewire.in/caste/enforcement-directorate-dalit-farmer-tamil-nadu-caste)
+
+No Article text 
+The ED's summons came to the two farmers – who didn't know what the case against them was about – in July last year. A BJP leader was allegedly attempting to grab their land.
+
+2024-01-04T10:00:11+05:30
+### [Chart: How Many EVs Are Sold in India?](https://thewire.in/environment/chart-how-many-evs-are-sold-in-india)
+
+No Article text 
+India's shift to e-mobility is mainly focused on two-wheelers like mopeds as well as e-rickshaws and other three-wheelers.
+
+2024-01-04T09:35:07+05:30
+### [What Do We Really Know About India's GDP?](https://thewire.in/economy/what-do-we-really-know-about-indias-gdp)
+
+No Article text 
+There are two inter-related problems with the GDP data. The infirmity in the data and the invalidity of the method to calculate the GDP.
+
+2024-01-04T09:31:13+05:30
+### [Introducing: India Black Boxed](https://thewire.in/government/introducing-india-black-boxed)
+
+No Article text 
+There is an ever-widening gap between rhetoric and reality, as story after fanciful story plays out before the citizens even as institutions of transparency and accountability get upended.
+
+2024-01-04T08:00:01+05:30
+### [Agnipath to Galwan Clash: Ex-Army Chief General Naravane’s Big Revelations in Memoirs Yet to Be Released](https://thewire.in/books/agnipath-to-galwan-clash-ex-army-chief-general-naravanes-big-revelations-in-memoirs-yet-to-be-released)
+
+No Article text 
+Excerpts from General M.M. Naravane’s book titled 'Four Stars of Destiny' were reported by the news agency PTI last month. Sources say the book may be “delayed”, for want of ‘security clearance’. No release date has been announced.
+
 2024-01-04T00:13:51+05:30
 ### [Manipur Body Issues ‘Clarification’ on Moreh Gunfight, Denies Involvement of Kuki Militant Groups](https://thewire.in/security/manipur-body-issues-clarification-on-moreh-gunfight-denies-involvement-of-kuki-militant-groups)
 

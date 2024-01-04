@@ -1,3 +1,9 @@
+Thu, 04 Jan 2024 11:04:59 +0530
+### [Malavika Sarukkai and the art of owning the space](https://www.thehindu.com/entertainment/dance/malavika-sarukkai-and-the-art-of-owning-the-space/article67676418.ece)
+
+Article found but Couldn't summarize 
+When the dancer goes up on stage, she packs enough surprises in her performance
+
 Tue, 02 Jan 2024 23:52:51 +0530
 ### [‘Berlin’ series review: This ‘Money Heist’ spin-off is more about hearts than heists](https://www.thehindu.com/entertainment/movies/berlin-series-review-this-money-heist-spin-off-is-more-about-hearts-than-heists/article67698842.ece)
 

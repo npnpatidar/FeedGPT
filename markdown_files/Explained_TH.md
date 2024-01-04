@@ -1,3 +1,32 @@
+Thu, 04 Jan 2024 20:33:29 +0530
+### [Study revives South Korea superconductivity claim with new data | Explained](https://www.thehindu.com/sci-tech/science/lk-99-room-temperature-superconductor-meissner-effect-explained/article67706300.ece)
+
+Article found but Couldn't summarize 
+On January 2, researchers in Asia reported checking for signs of superconductivity in newly synthesised samples of LK-99
+
+Thu, 04 Jan 2024 15:11:33 +0530
+### [Selection of tableaux for the Republic Day parade | Explained](https://www.thehindu.com/news/national/republic-day-parade-2024-politics-controversy-tableau-aap-punjab-mann-delhi-bengal-explainer/article67701729.ece)
+
+Article found but Couldn't summarize 
+How are tableaux selected for the Republic Day parade? How has the Centre reacted to allegations of bias?
+
+Thu, 04 Jan 2024 10:30:00 +0530
+### [Why is upskilling necessary for the rural youth? | Explained](https://www.thehindu.com/news/national/why-is-upskilling-necessary-for-the-rural-youth-explained/article67703496.ece)
+
+Article found but Couldn't summarize 
+How can youth in rural India be made employment-ready? What are the skills they need to acquire and how can the government and NGOs facilitate this?
+
+Thu, 04 Jan 2024 10:30:00 +0530
+### [IIT Delhi team makes first hi-res landslide risk map for India](https://www.thehindu.com/sci-tech/science/iit-delhi-team-first-hi-res-landslide-risk-map-india/article67701918.ece)
+
+The article discusses the creation of a national landslide susceptibility map in India. The map, developed by researchers at IIT Delhi, uses data on known landslides and factors that make an area susceptible to landslides. Utilizing ensemble machine learning methods, the researchers were able to estimate the susceptibility of areas without existing landslide data. The resulting high-resolution map covers the entire country and will aid policymakers in assessing vulnerability and implementing mitigation measures. The researchers also plan to develop a Landslide Early Warning System and an infrastructure vulnerability map. The map is publicly available for free via a web-based interface.
+
+Thu, 04 Jan 2024 10:03:33 +0530
+### [Why did North India fog so heavily last week? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/north-india-dense-fog-explained/article67704505.ece)
+
+Article found but Couldn't summarize 
+Dense fog covered the better part of north India during the last days of December and the first couple of days of 2024
+
 Wed, 03 Jan 2024 22:27:53 +0530
 ### [Understanding the peace pact with ULFA | Explained](https://www.thehindu.com/news/national/understanding-the-peace-pact-with-ulfa-explained/article67703481.ece)
 

@@ -1,3 +1,28 @@
+Thu, 04 Jan 2024 14:44:54 +0000
+### [Justice Gavai nominated as SC Legal Services Committee Chairman: What law says on free legal aid in India](https://indianexpress.com/article/explained/everyday-explainers/justice-gavai-sc-legal-services-committee-chairman-aid-india-nalsa-9095489/)
+
+Article found but Couldn't summarize
+
+Thu, 04 Jan 2024 13:59:41 +0000
+### [How the Burj Khalifa became the world’s tallest billboard](https://indianexpress.com/article/explained/explained-global/burj-khalifa-billboard-new-year-9095433/)
+
+Dubai's Burj Khalifa, developed by Emaar Properties, celebrated its 14th anniversary. Standing at a height of 829.8 meters, it is the tallest man-made structure and serves as a luxury hotel, residences, restaurants, and observatories. The building's exteriors act as a giant advertising platform, attracting attention from around the world. Placing an advertisement on the Burj Khalifa's facade can cost between $70,000 and $100,000 for a few minutes. The building's LED display, installed in 2014, consists of over 1.2 million pixels, making it the world's largest electronic display. However, running the display at full capacity consumes a significant amount of electricity.
+
+Thu, 04 Jan 2024 11:37:57 +0000
+### [Iran bomb blasts leave 103 dead: How this can impact the Middle East](https://indianexpress.com/article/explained/iran-bomb-blasts-qassem-soleimani-middle-east-9095146/)
+
+Article found but Couldn't summarize
+
+Thu, 04 Jan 2024 10:33:26 +0000
+### [ED arrests Kolkata businessman in Bengal school jobs scam case: How voice samples help in probes](https://indianexpress.com/article/explained/enforcement-directorate-voice-sample-9094883/)
+
+Article found but Couldn't summarize
+
+Thu, 04 Jan 2024 09:13:13 +0000
+### [Arvind Kejriwal, Hemant Soren refuse ED summons: What happens now](https://indianexpress.com/article/explained/kejriwal-soren-refuse-ed-summons-9094910/)
+
+Article found but Couldn't summarize
+
 Wed, 03 Jan 2024 14:14:08 +0000
 ### [Who was Hamas leader Saleh al-Arouri, killed in a drone strike in Beirut?](https://indianexpress.com/article/explained/explained-global/hamas-leader-saleh-al-arouri-killed-9093929/)
 

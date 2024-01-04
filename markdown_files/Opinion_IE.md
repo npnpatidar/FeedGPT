@@ -1,3 +1,51 @@
+Thu, 04 Jan 2024 13:35:04 +0000
+### [Bangladesh elections tug-of-war: Islamic fundamentalism vs democracy](https://indianexpress.com/article/opinion/columns/bangladesh-elections-tug-of-war-islamic-fundamentalism-democracy-9095409/)
+
+The upcoming elections in Bangladesh are significant for consolidating democratic practices, promoting progressive development, and enhancing participation in global affairs. The ruling Grand Alliance, led by Sheikh Hasina, has achieved economic growth and other improvements during its 15-year tenure. However, the government has faced challenges such as criticism from the international community and opposition demands for a caretaker government. Electoral violence and the role of Islamist forces are also key concerns. Bangladesh is sensitive to foreign criticism and seeks to reassure observers about its commitment to free and fair elections. The country's quest for democracy and identity, as well as its balanced foreign policy, contribute to its aspirations for economic growth and global partnerships.
+
+Thu, 04 Jan 2024 11:17:33 +0000
+### [Why the BJP’s strategy with SCs, STs works — and how the Opposition can put a dent in it](https://indianexpress.com/article/opinion/columns/why-bjp-strategy-with-scs-sts-works-9095167/)
+
+The article discusses the BJP's success in mobilizing marginalized communities in recent assembly elections in India. The BJP has employed strategies to engage with the socially marginalized groups, such as offering general welfare measures and emphasizing rapid economic development. They have also supported demands for reservation from dominant agrarian castes. Additionally, the BJP curates emotive narratives about history and caste pride to create social divisions. While these strategies have garnered support from marginalized groups, the article highlights the need for substantive economic justice and inclusion in public institutions for these communities. The opposition can challenge the BJP's dominance by raising issues of economic justice and ensuring equitable participation in the economy.
+
+Thu, 04 Jan 2024 09:07:17 +0000
+### [The politics and geopolitics of AI governance](https://indianexpress.com/article/opinion/columns/the-politics-and-geopolitics-of-ai-governance-9094938/)
+
+The article discusses the need for a single international organization to oversee the governance and legislation of Artificial Intelligence (AI). It highlights the challenges of domestic legislation and the potential for lower regulatory standards in underdeveloped countries. The creation of the International Agency for AI (IAAI) is proposed to establish fundamental principles accepted by all nations. However, geopolitical difficulties and the preference for self-regulation by the private industry hinder the feasibility of such an organization. The article suggests that existing sector-specific institutions, such as standard-setting organizations, should develop AI governing principles to ensure harmonization without disruptions. Incorporating these standards into new organizations can facilitate global AI governance.
+
+Thu, 04 Jan 2024 01:30:16 +0000
+### [Don’t neglect the central armed police forces](https://indianexpress.com/article/opinion/columns/dont-neglect-the-force-9094151/)
+
+Article found but Couldn't summarize
+
+Thu, 04 Jan 2024 01:20:06 +0000
+### [Express View on IIT-BHU incident | A crime on campus](https://indianexpress.com/article/opinion/editorials/a-crime-on-campus-9094181/)
+
+Article found but Couldn't summarize
+
+Thu, 04 Jan 2024 01:15:10 +0000
+### [Express View | Mickey and Minnie characters are now free to use](https://indianexpress.com/article/opinion/editorials/mickeys-and-minnies-9094182/)
+
+The article discusses the recent release of iconic characters into the public domain, allowing for fresh creativity. Characters such as Mickey and Minnie, Tigger, and Peter Pan are now free to be used in different ways. The article suggests potential reimaginations, such as exploring queer relationships between Pooh and Tigger or portraying Peter Pan as a flawed character facing the consequences of his actions in the real world. It references Disney's willingness to subvert expectations by casting a black actor as Ariel and reimagining Ursula in The Little Mermaid reboot. However, the article also highlights the limitation of reimagining copyrighted content, often leading to predictable horror twists. The author emphasizes the need for responsible and engaging storytelling to fully utilize the opportunities presented by the release of these characters.
+
+Thu, 04 Jan 2024 01:11:10 +0000
+### [January 4, 1984, Forty Years Ago: Assailant Arrested](https://indianexpress.com/article/opinion/40-years-ago/january-4-1984-forty-years-ago-assailant-arrested-9094162/)
+
+The article reports on multiple incidents and statements. 
+
+First, it mentions Sukhdev Singh, who was arrested after a robbery and shootout in Connaught Place. It is revealed that Singh is a deserter from the army, having enlisted in 1977 and left in 1981. He apparently informed the police that he received additional training in weaponry and commando methods at the Guru Ram Das Sarai in the Golden Temple complex.
+
+Prime Minister Indira Gandhi's speech at the 71st session of the Indian Science Congress is also discussed. She emphasized the importance of science permeating various aspects of national life and regions to prevent disparities within the country, similar to what has occurred internationally over the past two centuries.
+
+The article then describes an Israeli airstrike on a Palestinian guerrilla base and ammunition depot in Beirut, which drew heavy ground fire from the Syrian-held area. Additionally, it mentions that a lone motorcycle gunman in the capital seriously wounded the French consul's driver. Beirut Radio initially reported the driver's death but later retracted the statement.
+
+Lastly, the Election Commission's decision is mentioned. The commission chose not to pursue its recommendation of imposing President's rule in states before holding assembly elections. This recommendation caused confusion among political parties, and the Chief Election Commissioner, R K Trivedi, expressed regret that it had been interpreted in the context of center-state relations and the recent Jammu and Kashmir assembly elections.
+
+Thu, 04 Jan 2024 01:05:55 +0000
+### [Express View on SC ruling on SEBI’s investigation in Adani matter: An elusive closure](https://indianexpress.com/article/opinion/editorials/an-elusive-closure-9094155/)
+
+Article found but Couldn't summarize
+
 Wed, 03 Jan 2024 11:54:33 +0000
 ### [Adani-Hindenburg verdict: Supreme Court has strengthened institutions, weakened insinuations](https://indianexpress.com/article/opinion/columns/adani-hindenburg-supreme-court-verdict-9093664/)
 
