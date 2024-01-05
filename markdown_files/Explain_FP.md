@@ -1,3 +1,70 @@
+Fri, 05 Jan 2024 19:25:06 +0530
+### [A Resolution You Need: Eat breakfast before 8 am, dinner before 8 pm. Here's why](https://www.firstpost.com/explainers/a-resolution-you-need-eat-breakfast-before-8-am-dinner-before-8-pm-heres-why-13571382.html)
+
+Irregular meal schedules, such as skipping breakfast or eating late, have been linked to cardiovascular and cerebrovascular diseases, according to a study published in the Journal Nature Communications. Delaying the first meal of the day after 9 am is associated with a higher risk of cardiovascular disease, while eating late at night (after 9 pm) increases the risk of cerebrovascular disease, particularly in women. The study suggests that having an earlier first and last meal, along with a longer period of night-time fasting, may help reduce the risk of these diseases. It is recommended to have breakfast by 8 am and the last meal by 8 pm to align with the body's circadian rhythm and promote overall health.
+
+Fri, 05 Jan 2024 19:23:41 +0530
+### [Is the world ready to go passport-free in 2024?](https://www.firstpost.com/explainers/is-the-world-ready-to-go-passport-free-in-2024-13579792.html)
+
+The UK Home Office plans to introduce new e-gates equipped with facial recognition technology at airports, aiming to establish a "frictionless" and intelligent border. The government wants to raise the level of border security to that of other developed countries, such as Dubai. The e-gates will go through trials later this year. Additionally, the UK has already implemented electronic travel authorizations for visitors from abroad who do not require a visa. The Home Office intends to expand this program to include citizens of Europe as well. Biometric passport clearance and facial recognition technology are already being used at various airports worldwide. The trend of using biometrics for airport formalities is expected to continue, with physical passports eventually being phased out in favor of digital versions stored on mobile devices.
+
+Fri, 05 Jan 2024 17:31:52 +0530
+### [MV Lila Norfolk hijacking: How the Navy comes to the rescue of distressed ships in Arabian Sea](https://www.firstpost.com/explainers/mv-lila-norfolk-hijacking-how-the-navy-comes-to-the-rescue-of-distressed-ships-in-arabian-sea-13580222.html)
+
+Article found but Couldn't summarize 
+MV Lila Norfolk hijacking: How the Navy comes to the rescue of distressed ships in Arabian Sea
+
+Fri, 05 Jan 2024 17:03:04 +0530
+### [In Graphics | A guide to understanding ISRO’s Aditya L-1 mission to the Sun](https://www.firstpost.com/explainers/in-graphics-a-guide-to-understanding-isros-aditya-l-1-mission-to-the-sun-13580422.html)
+
+Article found but Couldn't summarize 
+In Graphics | A guide to understanding ISRO’s Aditya L-1 mission to the Sun
+
+Fri, 05 Jan 2024 14:43:55 +0530
+### [Jeffrey Epstein files: How dozens of underage girls were recruited for ‘massages’](https://www.firstpost.com/explainers/jeffrey-epstein-files-how-dozens-of-underage-girls-were-recruited-for-massages-13578942.html)
+
+Article found but Couldn't summarize 
+Jeffrey Epstein files: How dozens of underage girls were recruited for ‘massages’
+
+Fri, 05 Jan 2024 14:30:50 +0530
+### [How a rescue dog found elderly woman trapped in house days after Japan earthquake](https://www.firstpost.com/explainers/how-a-rescue-dog-found-elderly-woman-trapped-in-house-days-after-japan-earthquake-13578842.html)
+
+Japan recently experienced two major disasters—a 7.5 magnitude earthquake and a plane crash resulting in five deaths. The death toll in the Noto peninsula has risen to 92, with 250 people still missing. The search and rescue operation has been intensified, and self-defense forces have rescued 122 people, including an elderly woman found by a search dog named Jennifer. However, hopes for further successful rescues are fading as time passes. The earthquake caused significant damage, with tall buildings and homes destroyed, landslides, and tsunami waves. The affected areas are still facing challenges like power outages, lack of running water, frigid temperatures, heavy rain, and the risk of landslides.
+
+Fri, 05 Jan 2024 13:25:38 +0530
+### [17-year-old behind shooting at Iowa school: Why are more adolescents picking up guns in the US?](https://www.firstpost.com/explainers/perry-iowa-school-shooting-17-year-old-gunman-why-are-more-adolescents-picking-up-guns-in-the-us-13579162.html)
+
+Article found but Couldn't summarize 
+17-year-old behind shooting at Iowa school: Why are more adolescents picking up guns in the US?
+
+Fri, 05 Jan 2024 13:12:33 +0530
+### [How Trump ‘earned’ millions from China, Saudi Arabia while being US president](https://www.firstpost.com/explainers/how-donald-trump-earned-millions-from-china-saudi-arabia-and-others-while-being-us-president-13579062.html)
+
+Article found but Couldn't summarize 
+How Trump ‘earned’ millions from China, Saudi Arabia while being US president
+
+Fri, 05 Jan 2024 11:45:50 +0530
+### [What the Ram Mandir event's invitation card looks like](https://www.firstpost.com/explainers/what-the-ram-mandir-events-invitation-card-looks-like-13578542.html)
+
+Article found but Couldn't summarize 
+What the Ram Mandir event's invitation card looks like
+
+Fri, 05 Jan 2024 11:45:31 +0530
+### [Fake tests and fake patients: What is AAP's 'Mohalla clinics' scam?](https://www.firstpost.com/explainers/fake-tests-and-fake-patients-what-is-aaps-mohalla-clinics-scam-13578192.html)
+
+The Aam Aadmi Party (AAP) is facing allegations of a scam involving fake lab tests at the Mohalla Clinics in Delhi. It has been revealed that the clinics ordered and performed fake radiological and pathology tests on non-existent patients. This comes in addition to previous issues with substandard medicines in state-run hospitals and the ongoing investigation into the excise policy "scam." The alleged fraud amounts to several hundred crores of rupees. The Lieutenant Governor of Delhi has requested a CBI probe into the supply of substandard pharmaceuticals to government-run hospitals. The AAP has defended its welfare program and called for the resignation of the Delhi Health Secretary. The BJP has criticized the AAP government, adding to the tense political atmosphere in Delhi.
+
+Fri, 05 Jan 2024 10:14:34 +0530
+### [Twin blasts in Kerman: How ISIS has unleashed terror in Iran over the years](https://www.firstpost.com/explainers/twin-blasts-in-kerman-how-isis-has-unleashed-terror-in-iran-over-the-years-13578312.html)
+
+Article found but Couldn't summarize 
+Twin blasts in Kerman: How ISIS has unleashed terror in Iran over the years
+
+Fri, 05 Jan 2024 09:49:43 +0530
+### [Ram temple opening: Why has 22 January been picked as consecration date?](https://www.firstpost.com/explainers/ram-temple-opening-why-has-22-january-been-picked-as-consecration-date-13577662.html)
+
+The article discusses the consecration of the Ram Mandir in Ayodhya on 22 January. The chosen date aligns with the auspicious Abhijit Muhurat, which signifies the removal of negative energies and the start of new ventures. The Mrigashira Nakshatra, associated with knowledge and experience, also begins on that day. The ceremony coincides with 'Amrit Siddhi Yoga' and 'Sarvartha Siddhi Yoga,' making it significant. The article highlights the importance of the event, comparing it to India's Independence Day. The construction of the temple has brought a sense of unity among the people of Ayodhya and the entire country. The Sri Ram Janmabhoomi Tirath Kshetra Trust has invited 4,000 saints to the ceremony, and preparations are being made for thousands of devotees. Enhanced security measures and logistical arrangements are being implemented to ensure a smooth experience for all.
+
 Thu, 04 Jan 2024 21:41:52 +0530
 ### [FirstUp: ED summons Tejashwi, Bombay HC verdict on IT rules, first tuna auction of year... today's big news](https://www.firstpost.com/explainers/firstup-ed-summons-tejashwi-bombay-hc-verdict-on-it-rules-first-tuna-auction-of-year-todays-big-news-13577812.html)
 

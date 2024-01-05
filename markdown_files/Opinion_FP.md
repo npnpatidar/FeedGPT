@@ -1,3 +1,51 @@
+Fri, 05 Jan 2024 18:50:03 +0530
+### [Despite stable India-Russia ties, West remains a challenge for New Delhi](https://www.firstpost.com/opinion/jaishankars-russia-visit-despite-stable-india-russia-ties-west-remains-a-challenge-for-new-delhi-13581102.html)
+
+India's External Affairs Minister, S Jaishankar, recently visited Russia for a five-day trip, highlighting the strong and steady relationship between the two countries. During the visit, Jaishankar met with President Putin, signed several agreements, and discussed various areas of cooperation, including trade, defense, energy, and regional developments. The visit also emphasized the importance of India-Russia ties in maintaining peace and stability in international relations, particularly amid global polarization. The article emphasizes the significance of the India-Russia partnership and the challenges India may face in balancing its relations with Russia and the West.
+
+Fri, 05 Jan 2024 17:46:04 +0530
+### [Vantage | South Africa's Palestine connection and why it's suing Israel for genocide](https://www.firstpost.com/opinion/vantage-south-africas-palestine-connection-and-why-its-suing-israel-for-genocide-13580722.html)
+
+Article found but Couldn't summarize 
+Vantage | South Africa's Palestine connection and why it's suing Israel for genocide
+
+Fri, 05 Jan 2024 17:29:01 +0530
+### [Italy assumes G7 presidency amid global challenges: Focus on Ukraine, China and ethical AI](https://www.firstpost.com/opinion/italy-assumes-g7-presidency-amid-global-challenges-focus-on-ukraine-china-and-ethical-ai-13579862.html)
+
+Italy has assumed the presidency of the G7, taking over from Japan. Italy's Prime Minister Giorgia Meloni will lead the group in addressing major global issues such as wars, climate change, Africa, and artificial intelligence. Italy's leadership comes at a critical time, with conflicts in Russia-Ukraine, Israel-Hamas, and challenges in the Red Sea and Bab-al-Mandab. Italy's exit from the Belt and Road Initiative and the need to "de-risk" economies from China are concerns. Additionally, Italy is dealing with an illegal immigration crisis and upcoming elections in the US and the European Union. The US emphasizes the importance of keeping Ukraine a priority. The G7 will focus on themes like China, food security, supply chain resilience, migration, energy security, and AI. Italy aims to prioritize the Global South, engage African nations, and invite the African Union, India, and the Ukrainian President to the G7 summit. The G7 presidency serves as a crisis response center for geopolitical crises and the Italian presidency expects a challenging and eventful year.
+
+Fri, 05 Jan 2024 17:06:44 +0530
+### [Vantage: Three big names still on Israel's Hamas hit list](https://www.firstpost.com/opinion/vantage-three-big-names-still-on-israels-hamas-hit-list-13580632.html)
+
+Article found but Couldn't summarize 
+Vantage: Three big names still on Israel's Hamas hit list
+
+Fri, 05 Jan 2024 14:23:49 +0530
+### [World keeps mum as Sudan’s feared paramilitary force unleashes a reign of terror on non-Arabs in West Darfur](https://www.firstpost.com/opinion/world-keeps-mum-as-sudans-feared-paramilitary-force-unleashes-a-reign-of-terror-on-non-arabs-in-west-darfur-13579462.html)
+
+The article discusses the crisis in Sudan caused by the Rapid Support Forces (RSF), a paramilitary group formerly known as the Janjaweed militia. The RSF has been causing havoc in Sudan, leading to internal displacement and refugees fleeing the country. The RSF recently targeted the non-Arab tribe of Masalit, resulting in the deaths of over 1,000 people. Despite international condemnation, efforts to end the conflict and protect civilians have failed. The article questions why the international community is not as concerned about the situation in Sudan compared to other conflicts. The author highlights the need for immediate action and raises hope for a ceasefire through talks between the RSF and the Sudanese army. However, the outcome for the Masalit people remains uncertain.
+
+Fri, 05 Jan 2024 14:06:06 +0530
+### [Understanding India’s Armenia outreach amid global power-play in South Caucasus](https://www.firstpost.com/opinion/understanding-indias-armenia-outreach-amid-global-power-play-in-south-caucasus-13579412.html)
+
+India's foreign policy is expanding beyond South Asia, leading to increased outreach to Armenia. This includes defense deals and strategic cooperation, as well as efforts to enhance cultural and historical ties. The main driver behind this engagement is India's desire for strategic connectivity and land routes to Eurasia, Central Asia, and Europe. Armenia's inclusion in the International North-South Corridor (INSTC) plays a crucial role in this regard. However, recent events, such as Azerbaijan's aggression and the fall of Nagorno-Karabakh, have raised concerns and may impact India's transit route preferences. Despite challenges, India is keen to pursue its interests in the region and solidify its partnership with Armenia.
+
+Fri, 05 Jan 2024 12:17:06 +0530
+### [Shadow Warrior | From Qatar and Saudi to Russia and US, Indian diplomacy in full swing](https://www.firstpost.com/opinion/shadow-warrior-from-qatar-and-saudi-to-russia-and-us-indian-diplomacy-in-full-swing-13578762.html)
+
+Article found but Couldn't summarize 
+Shadow Warrior | From Qatar and Saudi to Russia and US, Indian diplomacy in full swing
+
+Fri, 05 Jan 2024 11:10:41 +0530
+### [Vantage | Why UK is desperate for a trade deal with India](https://www.firstpost.com/opinion/vantage-why-uk-is-desperate-for-a-trade-deal-with-india-13578612.html)
+
+The UK is seeking a trade deal with India, but negotiations have been challenging, with missed deadlines and shifting goalposts. India, on the other hand, does not feel a sense of urgency for the deal, as it has multiple trade partners and doesn't rely heavily on UK goods. What India is interested in is visa opportunities, but the UK has made it difficult for Indians to stay in the country. Ultimately, India doesn't see the need to cut a deal with the UK, while the UK needs to recognize this reality.
+
+Fri, 05 Jan 2024 09:47:18 +0530
+### [Vantage | How Philippines plans to checkmate China in sea dispute](https://www.firstpost.com/opinion/vantage-how-philippines-plans-to-checkmate-china-in-sea-dispute-13578242.html)
+
+Tensions have been escalating in the South China Sea as China continues to provoke the Philippines. China has targeted Philippine ships, using water cannons and even colliding with Filipino vessels. In response, the Philippines is strategically strengthening its presence in disputed waters, particularly at the Second Thomas Shoal. They are constructing a permanent structure and maintaining a military base on a shipwreck to assert control. China has responded by blocking resupply missions and increasing patrols. The Philippines is mobilizing international allies and conducting joint military drills to confront China. Manila remains committed to safeguarding its territorial integrity. The situation is fluid, and tensions continue to rise in the region.
+
 Thu, 04 Jan 2024 19:18:02 +0530
 ### [Modi govt, criminal laws and new India](https://www.firstpost.com/opinion/modi-govt-criminal-laws-and-new-india-13576582.html)
 

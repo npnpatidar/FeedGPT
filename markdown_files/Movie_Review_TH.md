@@ -1,3 +1,24 @@
+Fri, 05 Jan 2024 18:30:56 +0530
+### [‘Double Engine’ movie review: An unhinged coming-of-age tale from rural Telangana](https://www.thehindu.com/entertainment/movies/double-engine-telugu-movie-review-an-unhinged-coming-of-age-tale-from-rural-telangana/article67709705.ece)
+
+The article discusses the indie Telugu film "Double Engine," which deviates from mainstream cinema and features a mix of amateur and theatre actors. The story follows Danny, a shared auto driver, who embarks on a journey to capture a double-headed snake with the help of his friends. The film portrays the contrast between Hyderabad and the rural village of Tatipalli, showcasing different aspects of life and culture. The article praises the film's visuals, music, and realistic portrayal of characters. It concludes by highlighting the film's progression from a slice-of-life story to an adventure drama and coming-of-age tale.
+
+Fri, 05 Jan 2024 18:08:19 +0530
+### [‘What If...?’ Season 2 review: A downgrade from the first season but a much-needed win for the MCU](https://www.thehindu.com/entertainment/movies/what-if-season-2-review-a-downgrade-from-the-first-season-but-a-much-needed-win-for-the-mcu/article67709548.ece)
+
+Article found but Couldn't summarize 
+At a time when superhero fatigue is much spoken about and the usual charm of Marvel is not working in favour of its feature films and series, ‘What If...?’ is a fantastic deviation
+
+Fri, 05 Jan 2024 15:49:25 +0530
+### [‘Society of the Snow’ movie review: A simple, affecting look at the 1972 Andes flight disaster](https://www.thehindu.com/entertainment/movies/society-of-the-snow-movie-review-a-simple-affecting-look-at-the-1972-andes-flight-disaster/article67709242.ece)
+
+Society of the Snow is a film directed by JA Bayona that tells the story of the 1972 Andes flight disaster. It focuses on the survival and resilience of the rugby team members who were stranded in the freezing Andes mountains after the crash. The film explores their journey over the next two months as they struggle to stay alive and eventually resort to extreme measures. Bayona's approach to the story is refreshing, as it emphasizes the human spirit and avoids sensationalism. The film does a good job of balancing despair and hope, and it stands out from other narratives by raising unanswerable questions about survival and hope in the face of adversity. Society of the Snow is available for streaming on Netflix.
+
+Fri, 05 Jan 2024 12:30:22 +0530
+### [‘The Curse’ series review: Emma Stone is astounding in this ink-black satire](https://www.thehindu.com/entertainment/movies/the-curse-series-review-emma-stone-is-astounding-in-this-ink-black-satire/article67707466.ece)
+
+"The Curse" is a scripted show created by Nathan Fielder and Benny Safdie, starring Emma Stone and Fielder. Whitney and Asher Siegel are a married couple who aim to develop a crime-ridden neighborhood into an inclusive community on a reality show called Fliplanthropy. The show explores Whitney's conflict between doing what's right for the planet and her self-interest, while also delving into the curse affecting the land and its people. The show features a reality TV aesthetic and tackles themes of self-awareness and corporate comedy. "The Curse" is currently streaming on Lionsgate Play.
+
 Thu, 04 Jan 2024 11:04:59 +0530
 ### [Malavika Sarukkai and the art of owning the space](https://www.thehindu.com/entertainment/dance/malavika-sarukkai-and-the-art-of-owning-the-space/article67676418.ece)
 

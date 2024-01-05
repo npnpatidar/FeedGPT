@@ -1,3 +1,57 @@
+Fri, 05 Jan 2024 09:36:35 +0000
+### [The Ayes always have it: Why voice votes in Parliament are bad for democracy](https://indianexpress.com/article/opinion/columns/ayes-voice-votes-parliament-bad-democracy-9096446/)
+
+Article found but Couldn't summarize
+
+Fri, 05 Jan 2024 01:49:58 +0000
+### [In a time where anticolonialism is parochialism, looking at J P S Uberoi’s swaraj](https://indianexpress.com/article/opinion/columns/in-a-time-where-anticolonialism-is-parochialism-looking-at-j-p-s-uberois-swaraj-9095698/)
+
+Article found but Couldn't summarize
+
+Fri, 05 Jan 2024 01:47:26 +0000
+### [The Mirwaiz of Kashmir remembers Ghulam Mohiuddin Wani: My teacher, my guide](https://indianexpress.com/article/opinion/columns/the-mirwaiz-of-kashmir-remembers-ghulam-mohiuddin-wani-my-teacher-my-guide-9095696/)
+
+The article reflects on the impact of Ghulam Mohiuddin Wani, also known as Mahad Sahab, on the author's life as a spiritual mentor and guide. Mahad Sahab played a crucial role in helping the author transition into the position of Mirwaiz (chief cleric) after the author's father's passing. Despite belonging to the orthodox Salafi school of thought, Mahad Sahab possessed a Sufi temperament and emphasized understanding Islam with humility and gratitude. He introduced the author to the unique learning system of Wa'az-o-Tableegh, which combines oral traditions, listening, repetition, and absorption. Mahad Sahab's knowledge of ancient manuscripts and his guidance in maintaining moderation and balance in religious teachings left a lasting impression on the author. Unfortunately, since the author's house arrest in August 2019, they were unable to meet Mahad Sahab. With his recent passing, the author mourns the loss of their guiding light.
+
+Fri, 05 Jan 2024 01:37:53 +0000
+### [Derek O’Brien writes: How BJP has made a mockery of democracy](https://indianexpress.com/article/opinion/columns/derek-obrien-writes-passage-of-criminal-law-bills-a-mockery-of-democracy-9095697/)
+
+Article found but Couldn't summarize
+
+Fri, 05 Jan 2024 01:37:19 +0000
+### [No, Karnataka isn’t a safe state for women](https://indianexpress.com/article/opinion/columns/the-myth-of-progressive-karnataka-9095703/)
+
+Article found but Couldn't summarize
+
+Fri, 05 Jan 2024 01:30:13 +0000
+### [How AI is changing what sovereignty means](https://indianexpress.com/article/opinion/columns/ai-is-changing-what-sovereignty-means-9095702/)
+
+Article found but Couldn't summarize
+
+Fri, 05 Jan 2024 01:15:47 +0000
+### [Express View on pineapple pizza: Why not?](https://indianexpress.com/article/opinion/editorials/express-view-on-pineapple-pizza-why-not-9095706/)
+
+The article discusses a controversy in Naples, Italy, where a popular pizzaiolo named Gino Sorbillo has created a pizza topped with pineapples. This unconventional topping has sparked outrage among traditionalists who see it as a violation of pizza-making norms. Sorbillo defends his creation by highlighting the flavor contrast between the sweet fruit and the smoked cheeses he uses. The debate raises the question of how much a dish can deviate from its authentic form before it becomes something entirely different. Italians generally associate pizza with traditional toppings such as tomatoes, Italian cheeses, vegetables, and certain meats, while considering pineapple to be unacceptable. However, the article suggests that pizza's worldwide popularity stems from its adaptability, as seen in various unconventional toppings like reindeer meat in Finland and haggis in Scotland. It suggests that it may be time to accept that pizza has become a global dish.
+
+Fri, 05 Jan 2024 01:15:41 +0000
+### [Express View on Indian Science Congress: Dispiriting no-show](https://indianexpress.com/article/opinion/editorials/express-view-on-indian-science-congress-dispiriting-no-show-9095708/)
+
+Article found but Couldn't summarize
+
+Fri, 05 Jan 2024 01:01:14 +0000
+### [January 5, 1984, Forty Years Ago: PM-Akali tussle](https://indianexpress.com/article/opinion/40-years-ago/january-5-1984-forty-years-ago-pm-akali-tussle-9095710/)
+
+Article found but Couldn't summarize
+
+Fri, 05 Jan 2024 00:59:28 +0000
+### [Express View on India’s MSP policy: The right support](https://indianexpress.com/article/opinion/editorials/express-view-on-indias-msp-policy-the-right-support-9095704/)
+
+This article highlights two forms of policy discrimination faced by oilseeds and pulses farmers. Firstly, the minimum support prices (MSP) for these crops are often not effectively implemented, unlike for rice, wheat, and sugarcane. This results in lower selling prices for crops like mustard and chickpeas compared to their MSPs. Secondly, there is a bias in favor of imports, with zero import duty on edible oils like palm, soybean, and sunflower, as well as most pulses. This has led to a significant increase in edible oil imports, negatively impacting domestic production.
+
+The article also points out the lack of research and development attention given to oilseeds and pulses compared to crops like wheat, rice, and sugarcane. Furthermore, the denial of approval for genetically-modified hybrid mustard and herbicide-resistant soybean technologies reflects the government's indifference towards these crops.
+
+Various government departments have raised concerns about the existing MSP and procurement policies, which only benefit a few crops. The article suggests that MSPs should complement market forces rather than replace them. It proposes replacing price-based supports, such as MSPs and input subsidies, with per-acre income transfers as a more effective solution.
+
 Thu, 04 Jan 2024 13:35:04 +0000
 ### [Bangladesh elections tug-of-war: Islamic fundamentalism vs democracy](https://indianexpress.com/article/opinion/columns/bangladesh-elections-tug-of-war-islamic-fundamentalism-democracy-9095409/)
 
@@ -241,6 +295,11 @@ Tue, 02 Jan 2024 02:05:51 +0000
 ### [Meet ISRO’s new X-ray eye in the sky](https://indianexpress.com/article/opinion/editorials/meet-isros-new-x-ray-eye-in-the-sky-9090997/)
 
 GPT-3.5: The article discusses the successful launch of ISRO's X-ray Polarimeter Satellite (XPoSat) for astronomical research. The payload includes the main instrument called POLIX (Indian X-ray Polarimeter), which was built at the Raman Research Institute (RRI) in Bangalore. POLIX aims to study the polarization of X-rays in space, which can provide valuable information about magnetic fields in celestial objects like pulsars and regions around black holes. The article also mentions that measuring X-ray polarization is challenging due to the high energy of X-rays and the Earth's atmosphere absorbing most of it. POLIX, with its unique design using a beryllium disc, will complement NASA's instrument and help astronomers decipher the nature of these cosmic objects.
+
+Tue, 02 Jan 2024 02:05:51 +0000
+### [Meet ISRO’s new X-ray eye in the sky](https://indianexpress.com/article/opinion/meet-isros-new-x-ray-eye-in-the-sky-9090997/)
+
+Indian astronomers celebrated the New Year with the successful launch of the X-ray Polarimeter Satellite (XPoSat) by ISRO's launch vehicle. The satellite carries the indigenous instrument POLIX (Indian X-ray Polarimeter), which was built at the Raman Research Institute in Bangalore. POLIX aims to study the polarization of X-rays in space, which can provide valuable insights into the magnetic fields of celestial objects such as pulsars and regions around black holes. XPoSat's mission will complement NASA's X-ray instrument and contribute to a better understanding of these cosmic phenomena.
 
 Tue, 02 Jan 2024 02:05:26 +0000
 ### [Want toehold in the south? BJP needs to listen to some Chennai music](https://indianexpress.com/article/opinion/columns/want-toehold-in-the-south-bjp-needs-to-listen-to-some-chennai-music-9091011/)

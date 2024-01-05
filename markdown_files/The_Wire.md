@@ -1,3 +1,135 @@
+2024-01-05T21:40:40+05:30
+### [Following Speculation, MEA Denies India Sent Artillery Shells to Ukraine](https://thewire.in/diplomacy/india-did-not-shells-to-ukraine-mea)
+
+No Article text 
+According to sources contacted by the Economic Times, a Western country may have procured the artillery shells in question from India and transported it to Ukraine via a third party.
+
+2024-01-05T19:49:06+05:30
+### ['Maestro': Bradley Cooper's Biopic of Leonard Bernstein Examines the Man Trapped Under the Phenomenon](https://thewire.in/film/maestro-bradley-coopers-biopic-of-leonard-bernstein-examines-the-man-trapped-under-phenomenon)
+
+No Article text 
+The actor-director makes the film equally about his wife and their troubled marriage.
+
+2024-01-05T19:30:03+05:30
+### [Reasons For CERT-IN's Exemption From RTI Provisions Are ‘Secret’, DoPT Says](https://thewire.in/government/info-on-cert-in-inclusion-rti-exempt-orgs-is-secret)
+
+No Article text 
+Activist Venkatesh Nayak had sought to know through an RTI filed in November about the deliberations behind the inclusion of the CERT-IN in the list of organisations that are exempt from the RTI Act's ambit.
+
+2024-01-05T19:26:56+05:30
+### [At Rs 259 Crore, BJP Received 70% of Donations by Electoral Trusts in 2022-23: ECI Data](https://thewire.in/politics/at-rs-259-crore-bjp-received-70-of-donations-by-electoral-trusts-in-2022-23-eci-data)
+
+No Article text 
+Out of the total donations, Prudent Electoral Trust alone received Rs 360.46 crore. The lion's share of its contributions, Rs 256.25 crore, went to the BJP.
+
+2024-01-05T18:40:58+05:30
+### [SC Refuses to Order Removal of Senthil Balaji from TN Cabinet, Upholds Madras HC Verdict](https://thewire.in/law/sc-refuses-to-order-removal-of-senthil-balaji-from-tn-cabinet-upholds-madras-hc-verdict)
+
+No Article text 
+The Madras high court had said that it is for the chief minister to take a call on the minister's continuance or removal despite him being in jail and stripped of a portfolio.
+
+2024-01-05T18:00:19+05:30
+### [Jaws Turns 50: Here’s How the Novel Differed From Its Film Adaptation](https://thewire.in/books/jaws-turns-50-heres-how-the-novel-differed-from-its-film-adaptation)
+
+No Article text 
+In the film, the main characters are likeable and heroic, whereas in the novel they’re petty, broken and bitter, wading through the messes their personal lives have become.
+
+2024-01-05T16:00:24+05:30
+### [Nearly 7,000 Companies Waiting in Queue for NCLT to Admit Cases for Bankruptcy Resolution: Report](https://thewire.in/law/nearly-7000-companies-waiting-in-queue-for-nclt-to-admit-cases-for-bankruptcy-resolution-report)
+
+No Article text 
+Besides staff crunch, a Supreme Court's ruling of July 2022 is also making it difficult for the creditors for a bankruptcy rescue.
+
+2024-01-05T15:30:15+05:30
+### [Funding for Indian Startups Hit a Seven-Year Low in the December Quarter of 2023: Report](https://thewire.in/business/funding-for-indian-startups-hit-a-seven-year-low-in-the-december-quarter-of-2023-report)
+
+No Article text 
+Indian startups witnessed a nearly 73% decline in fundraising in 2023, raising $7 billion as compared to $25 billion in the previous year – a significant drop from the funding recorded in 2022.
+
+2024-01-05T15:28:20+05:30
+### [CBI to Probe Delhi Mohalla Clinics Over 'Fake' Medical Tests, Corruption Allegations](https://thewire.in/government/cbi-to-probe-delhi-mohalla-clinics-over-fake-medical-tests-corruption-allegations)
+
+No Article text 
+The Union home ministry ordered the probe a day after Delhi LG recommended an investigation into the matter, accusing authorities of using disingenuous methods to get 'lakhs of tests conducted on dummy patients'.
+
+2024-01-05T15:00:18+05:30
+### [What We Know About India's Post-Covid Economy Recovery and Rising Inequality](https://thewire.in/economy/what-we-know-about-indias-post-covid-economy-recovery-and-rising-inequality)
+
+No Article text 
+While the upper and upper middle classes saved money during the pandemic that they are spending on luxury goods, the vast majority of the population has been seriously impacted by joblessness, stagnant wages and consistently high inflation.
+
+2024-01-05T14:30:57+05:30
+### [A New Year’s Prayer for Jimmy Lai](https://thewire.in/media/a-new-years-prayer-for-jimmy-lai)
+
+No Article text 
+As any honest individual knows, it is not Jimmy Lai but those who do the bidding of the Chinese Communist Party in Beijing that are the true threats to Hong Kongers’ “national security” and way of life.
+
+2024-01-05T14:00:26+05:30
+### [Toll Up to 5, Manipur Government Forms SIT to Investigate January 1 Killings](https://thewire.in/government/toll-up-to-5-manipur-government-forms-sit-to-investigate-january-1-killings)
+
+No Article text 
+Over 12 people have been injured in the violence.
+
+2024-01-05T13:30:22+05:30
+### [‘Islamic State’ Claims Responsibility for Bombings in Iran](https://thewire.in/world/islamic-state-claims-responsibility-for-bombings-in-iran)
+
+No Article text 
+More than 80 people were killed and scores more injured in the blast at a ceremony marking the death of Iranian General Qassem Soleiman.
+
+2024-01-05T12:54:55+05:30
+### [Education Ministry Launches Portal for Students' Tour of PM Modi’s School in Gujarat](https://thewire.in/education/education-ministry-launches-portal-for-students-tour-of-pm-modis-school-in-gujarat)
+
+No Article text 
+Applicants will go through a three-stage selection process which will involve activities like recording a short video, writing essays/poems/stories and other forms of creative expression.
+
+2024-01-05T12:40:58+05:30
+### [India 5th Among 20 Countries that Gave Trump Businesses of $7.8M During Presidency: Report](https://thewire.in/political-economy/donald-trump-businesses-india-presidency)
+
+No Article text 
+India spent a total of $282,764 at Trump World Tower in New York and Trump International Hotel in the US capital of Washington D.C. from 2017 to 2020.
+
+2024-01-05T12:00:13+05:30
+### [Will the SC Rule in Trump's Favour to Keep His Presidential Ambitions Alive?](https://thewire.in/world/will-the-sc-rule-in-trumps-favour-to-keep-his-presidential-ambitions-alive)
+
+No Article text 
+The former president has already sought to convey that if he stands a chance to contest again and returns to power, he would oversee a totalitarian fracturing of American democracy, with grave consequences for the rest of the world.
+
+2024-01-05T11:40:31+05:30
+### ['Unacceptable': Mizoram CM to PM, External Affairs Minister on Fencing Indo-Myanmar Border](https://thewire.in/politics/unacceptable-mizoram-cm-to-pm-external-affairs-minister-on-fencing-indo-myanmar-border)
+
+No Article text 
+Such a fencing, Lalduhoma said, would divide ethnic Mizos and approve the British-created border.
+
+2024-01-05T11:11:25+05:30
+### ['Not in Our Name': Over 3,000 Christians Dissociate From PM Modi's Christmas Lunch](https://thewire.in/communalism/not-in-our-name-over-3000-christians-dissociate-from-pm-modis-christmas-lunch)
+
+No Article text 
+"When these Christian representatives spoke at the reception, they were giving a tacit approval to the omission and commission of this government," the statement reads. "Hence, their acceptance of this invite was not in our name!"
+
+2024-01-05T10:45:00+05:30
+### [As Sheikh Hasina Hangs on to Power, Bangladesh's Economy Nears Collapse](https://thewire.in/south-asia/as-sheikh-hasina-hangs-on-to-power-bangladeshs-economy-nears-collapse)
+
+No Article text 
+With the enduring absence of a credible opposition party, a free press and an independent judiciary, prospects of economic recovery from further shocks look grim.
+
+2024-01-05T08:58:58+05:30
+### [Gold Glitters in an Uncertain World](https://thewire.in/economy/gold-glitters-in-an-uncertain-world)
+
+No Article text 
+Geopolitical uncertainties have caused a big rush to buy gold, even as global economic weakness and persistent world inflation make the yellow metal ever so attractive in the medium term.
+
+2024-01-05T08:44:24+05:30
+### [Eight Navy Officers Have 60 Days to Appeal Qatar Court Order: External Affairs Ministry](https://thewire.in/diplomacy/eight-navy-officers-have-60-days-to-appeal-qatar-c-order-external-affairs-ministry)
+
+No Article text 
+Last month, the Court of Appeal in Qatar removed the death penalty handed down to Indians and sentenced them to prison for varying durations ranging from three to 25 years.
+
+2024-01-05T08:34:49+05:30
+### [Y.S. Sharmila’s Entry Into Congress Would Chill Jagan Reddy as it Renews Fight for YSR’s Legacy](https://thewire.in/politics/y-s-sharmilas-entry-into-congress-confirms-fissures-in-the-reddy-family)
+
+No Article text 
+She is tipped to be either the president of Andhra Pradesh unit of Congress or made general secretary of the All India Congress Committee to look after Telangana and Andhra Pradesh.
+
 2024-01-04T23:08:39+05:30
 ### [India, Nepal Ink Agreement on Export of 10,000 MW of Electricity](https://thewire.in/south-asia/india-nepal-ink-agreement-on-export-of-10000-mw-of-electricity)
 

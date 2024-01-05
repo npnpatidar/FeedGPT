@@ -1,3 +1,30 @@
+Fri, 05 Jan 2024 10:00:14 +0530
+### [This is how you should spend your stock market gains](https://www.livemint.com/opinion/columns/this-is-how-you-should-spend-your-stock-market-gains-11704361802470.html)
+
+Article found but Couldn't summarize 
+What do you do with all these extraordinary stock market gains? Reinvest in stocks or keep some cash? Here are some ideas to consider
+
+Fri, 05 Jan 2024 09:00:13 +0530
+### [The significance of guarding the Red Sea](https://www.livemint.com/opinion/the-significance-of-guarding-the-red-sea-11704392994626.html)
+
+Article found but Couldn't summarize 
+If the Houthi actions against shipping cannot be stopped, there will be disruptions to global energy supplies apart from high costs
+
+Fri, 05 Jan 2024 08:00:10 +0530
+### [The regulation of AI is too important to be left only to technologists](https://www.livemint.com/opinion/columns/the-regulation-of-ai-is-too-important-to-be-left-only-to-technologists-11704382168787.html)
+
+The article discusses the importance of deciding who should have the authority to make decisions about AI. As AI technology continues to advance, debates about its ethics and safety become more intense. The author argues that the debate goes beyond regulation and delves into the kind of future humanity wants. They question whether AI will replace human creativity and expression and emphasize the need for a diverse group of thinkers, including historians, philosophers, and musicians, to shape the future of AI.
+
+Fri, 05 Jan 2024 08:00:10 +0530
+### [UPI versus e-rupee?](https://www.livemint.com/opinion/online-views/upi-versus-erupee-11704382980214.html)
+
+India's Unified Payments Interface (UPI) has seen significant growth, with 118 billion transactions worth ₹182 trillion in 2023, marking a 60% increase in volume and a 44% increase in value compared to the previous year. The UPI's popularity can be attributed to its outreach, as more people across the country are adopting it for small payments. The rise in usage is also due to improved telecom connectivity, particularly in remote areas, where the benefits of the JAM trinity (Jan Dhan bank accounts, Aadhaar identity numbers, and mobile phones) are evident. The success of the UPI raises questions about its impact on India's e-rupee project, which requires further debate.
+
+Fri, 05 Jan 2024 08:00:10 +0530
+### [Harvard's top-level exit: Politics has trumped academic principle](https://www.livemint.com/opinion/online-views/harvards-top-level-exit-politics-has-trumped-academic-principle-11704382107289.html)
+
+Professor Claudine Gay has resigned as president of Harvard University amid controversy over her alleged plagiarism and her response to a question about calling for the genocide of Jews on campus. While Harvard's board supported her, her departure was met with right-wing criticism of "diversity gone wrong" at Ivy League institutions. Gay's statement emphasized her commitment to confronting hate while preserving free expression. The article contrasts her resignation with a past controversy involving former Harvard president Lawrence Summers, who faced protests over his comments on women in math and science disciplines. The article suggests that Gay's departure is a loss for academic freedom and highlights the importance of open dialogue in higher education.
+
 Fri, 05 Jan 2024 00:54:38 +0530
 ### [Adani-Hindenburg: The apex court has endorsed regulatory independence](https://www.livemint.com/opinion/online-views/adanihindenburg-the-apex-court-has-endorsed-regulatory-independence-11704382255002.html)
 

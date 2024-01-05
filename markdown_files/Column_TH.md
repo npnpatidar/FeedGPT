@@ -1,3 +1,9 @@
+Fri, 05 Jan 2024 13:32:19 +0530
+### [Column | Inside the coastal Muslim kitchen](https://www.thehindu.com/food/features/inside-the-coastal-muslim-kitchen-sarmaya-coromandel-coast/article67695151.ece)
+
+Article found but Couldn't summarize 
+From kuzhi paniyarams with Dutch ties to the local cousin of the East African injera, Tamil Nadu’s coastal food shows us that history is preserved not just in our museums but also in our kitchens
+
 Wed, 03 Jan 2024 00:30:00 +0530
 ### [SA Test team controversy | This might be an inflexion point in the game, but we need to care](https://www.thehindu.com/opinion/columns/this-might-be-an-inflexion-point-in-the-game-but-we-need-to-care/article67698540.ece)
 

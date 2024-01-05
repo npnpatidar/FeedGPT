@@ -1,3 +1,21 @@
+Fri, 05 Jan 2024 14:54:22 +0530
+### [Why did the Islamic State attack the Islamic Republic? | Explained](https://www.thehindu.com/news/international/why-did-the-islamic-state-attack-the-islamic-republic-explained/article67709225.ece)
+
+Article found but Couldn't summarize 
+The Islamic State terror group claimed responsibility for Wednesday’s bomb attacks at a memorial event in Kerman for Qassem Soleimani.
+
+Fri, 05 Jan 2024 14:14:30 +0530
+### [Watch | What is the Kannada signboards controversy all about?](https://www.thehindu.com/news/national/karnataka/watch-what-is-the-kannada-signboard-controversy-all-about/article67709148.ece)
+
+Article found but Couldn't summarize 
+A video on the history of the linguistic debate in Karnataka and the ordinance announced by the government on rules regarding signboards
+
+Fri, 05 Jan 2024 10:30:00 +0530
+### [The physics that lets you forget your glasses are on your face | Explained](https://www.thehindu.com/sci-tech/science/glass-transparency-physics-explained/article67701897.ece)
+
+Article found but Couldn't summarize 
+Glass is one of the more magical materials around us: it gives us the illusion of being in an open space even when we are not
+
 Thu, 04 Jan 2024 20:33:29 +0530
 ### [Study revives South Korea superconductivity claim with new data | Explained](https://www.thehindu.com/sci-tech/science/lk-99-room-temperature-superconductor-meissner-effect-explained/article67706300.ece)
 
