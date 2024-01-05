@@ -1,3 +1,9 @@
+Thu, 04 Jan 2024 21:41:52 +0530
+### [FirstUp: ED summons Tejashwi, Bombay HC verdict on IT rules, first tuna auction of year... today's big news](https://www.firstpost.com/explainers/firstup-ed-summons-tejashwi-bombay-hc-verdict-on-it-rules-first-tuna-auction-of-year-todays-big-news-13577812.html)
+
+Article found but Couldn't summarize 
+FirstUp: ED summons Tejashwi, Bombay HC verdict on IT rules, first tuna auction of year... today's big news
+
 Thu, 04 Jan 2024 20:22:31 +0530
 ### [Why Eknath Shinde wants to ‘liberate’ Maharashtra's centuries-old Haji Malang Dargah](https://www.firstpost.com/explainers/why-eknath-shinde-wants-to-liberate-maharashtras-centuries-old-haji-malang-dargah-13577672.html)
 
