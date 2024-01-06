@@ -1,3 +1,33 @@
+Sun, 07 Jan 2024 01:17:00 +0530
+### [Claudine Gay | Forced exit](https://www.thehindu.com/sci-tech/science/claudine-gay-forced-exit/article67713963.ece)
+
+Article found but Couldn't summarize 
+Harvard University’s first Black president, who was attacked by Republicans for allegedly failing to stem anti-Semitism on the campus, resigned after plagiarism allegations surfaced
+
+Sun, 07 Jan 2024 00:58:00 +0530
+### [How has Red Sea trouble impacted India? | Explained](https://www.thehindu.com/news/national/how-has-red-sea-trouble-impacted-india-explained/article67713887.ece)
+
+Article found but Couldn't summarize 
+Why are cargo ships taking a longer route around the Cape of Good Hope? Will imports and exports be affected?
+
+Sun, 07 Jan 2024 00:52:48 +0530
+### [Bezalel Smotrich | A settler on a holy mission](https://www.thehindu.com/news/international/bezalel-smotrich-a-settler-on-a-holy-mission/article67712282.ece)
+
+Article found but Couldn't summarize 
+Israel’s Finance Minister, leader of the far-right Religious Zionist Party, wants Palestinians to be ‘encouraged’ to leave Gaza and fellow Jewish settlers to return to the enclave
+
+Sun, 07 Jan 2024 00:52:25 +0530
+### [ULFA | Autumn of the militants](https://www.thehindu.com/news/national/ulfa-autumn-of-the-militants/article67713949.ece)
+
+Article found but Couldn't summarize 
+The pro-talks faction of the militant group has signed a peace accord with the Union government which Assam Chief Minister Himanta Biswa Sarma has termed ‘historic’, but peace is still afar with another faction vowing to continue the ‘armed struggle
+
+Sun, 07 Jan 2024 00:32:00 +0530
+### [Why have truck drivers called for a strike? | Explained](https://www.thehindu.com/news/national/why-have-truck-drivers-called-for-a-strike-explained/article67713913.ece)
+
+Article found but Couldn't summarize 
+What are the sections on hit-and-run in Bharatiya Nyaya Sanhita that have irked the sector? What are drivers and transporters demanding? What has been the government’s stand on the protests? Are hit-and-run cases causing many fatalities?
+
 Fri, 05 Jan 2024 14:54:22 +0530
 ### [Why did the Islamic State attack the Islamic Republic? | Explained](https://www.thehindu.com/news/international/why-did-the-islamic-state-attack-the-islamic-republic-explained/article67709225.ece)
 

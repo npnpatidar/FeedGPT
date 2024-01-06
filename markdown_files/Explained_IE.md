@@ -1,3 +1,43 @@
+Sat, 06 Jan 2024 13:29:32 +0000
+### [ED, CRPF attacked in West Bengal: What is the PDS scam they are investigating?](https://indianexpress.com/article/explained/ed-crpf-attacked-west-bengal-pds-scam-9098098/)
+
+Article found but Couldn't summarize
+
+Sat, 06 Jan 2024 13:01:45 +0000
+### [A plane crash, cannibalism, and a harrowing 10-day trek: The true story behind Netflix’s Society of the Snow](https://indianexpress.com/article/explained/explained-global/true-story-behind-netflix-society-of-the-snow-9098074/)
+
+Article found but Couldn't summarize
+
+Sat, 06 Jan 2024 11:19:53 +0000
+### [How AI can help detect cancer](https://indianexpress.com/article/explained/explained-health/how-ai-can-help-detect-cancer-9097955/)
+
+Article found but Couldn't summarize
+
+Sat, 06 Jan 2024 09:42:18 +0000
+### [Experts Explain: Why is Aditya at L1?](https://indianexpress.com/article/explained/explained-sci-tech/experts-explain-why-is-aditya-at-l1-9097705/)
+
+Aditya-L1, launched by ISRO, is a mission to observe and understand the Sun. It is placed at the L1 point, which is the first Sun-Earth Lagrangian point. The mission aims to study the Sun's energy production, the corona, solar wind, solar flares, and coronal mass ejections. Aditya-L1 has seven instruments to observe radiation and charged particles. Its location at L1 allows uninterrupted observations. L1 is a stable point between the Earth and the Sun, where the gravitational forces cancel each other out. Aditya-L1 will remain in orbit around L1, providing a continuous view of the Sun. Placing the spacecraft at L1 ensures an uninterrupted view of the Sun, which is crucial for its mission.
+
+Sat, 06 Jan 2024 07:38:04 +0000
+### [Pakistan’s Senate passes resolution seeking to delay national elections: Here is why](https://indianexpress.com/article/explained/explained-global/pakistans-senate-passes-resolution-seeking-delay-national-elections-9097716/)
+
+Article found but Couldn't summarize
+
+Sat, 06 Jan 2024 01:37:11 +0000
+### [Bangladesh elections and India](https://indianexpress.com/article/explained/bangladesh-elections-india-9097172/)
+
+As GPT-3.5, I can provide a summary of the article you shared. The article discusses the close relationship between India and Bangladesh, highlighting the importance of a stable and friendly Bangladesh for India's national security and economic interests. The incumbent Prime Minister Sheikh Hasina is seen as a close friend and ally of India, having improved security cooperation and cracked down on anti-India elements during her tenure. Bangladesh's economic rise has also strengthened ties with India, with Bangladesh becoming the second-largest economy in South Asia and a significant export destination for Indian goods. India also sees Bangladesh as a potential hub for regional cooperation in the Bay of Bengal, connecting South and Southeast Asia. While there have been concerns about democratic backsliding in Bangladesh, Hasina's leadership is considered crucial for maintaining stability and peace in the region. The article also mentions the complex relationships between Bangladesh, the US, and the UK, with the US showing some signs of toning down its criticism of Hasina's government. Overall, India hopes for a fair and non-violent election process in Bangladesh to further strengthen bilateral relations.
+
+Sat, 06 Jan 2024 01:35:07 +0000
+### [Elections in Bangladesh: Everything you need to know](https://indianexpress.com/article/explained/elections-in-bangladesh-everything-you-need-to-know-9097213/)
+
+Article found but Couldn't summarize
+
+Sat, 06 Jan 2024 01:30:30 +0000
+### [Markets in 2024: Will it be another good year for investors?](https://indianexpress.com/article/explained/markets-in-2024-will-it-be-another-good-year-for-investors-9097194/)
+
+Article found but Couldn't summarize
+
 Fri, 05 Jan 2024 14:11:37 +0000
 ### [More than 100 years ago today, why Henry Ford doubled employees’ wages and how it helped him](https://indianexpress.com/article/explained/everyday-explainers/henry-ford-1914-wages-on-this-day-history-9096927/)
 

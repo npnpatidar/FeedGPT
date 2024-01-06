@@ -1,3 +1,15 @@
+Sat, 06 Jan 2024 15:34:42 +0530
+### [A little more spark would have added appeal to Venkatanagarajan’s renditions](https://www.thehindu.com/entertainment/music/a-little-more-spark-would-have-added-appeal-to-venkatanagarajans-renditions/article67695033.ece)
+
+Article found but Couldn't summarize 
+Venkatanagarajan’s voice has strength and tone but he needs to find the finesse
+
+Sat, 06 Jan 2024 12:37:51 +0530
+### [‘Dream Scenario’ movie review: A fantastic Nicolas Cage leads Kristoffer Borgli’s surreal satire](https://www.thehindu.com/entertainment/movies/dream-scenario-movie-review-a-fantastic-nicolas-cage-leads-kristoffer-borglis-surreal-satire/article67712487.ece)
+
+Article found but Couldn't summarize 
+The unbearably talented Nicolas Cage makes us smile and squirm in equal measure in this uncomfortable but necessary watch
+
 Fri, 05 Jan 2024 18:30:56 +0530
 ### [‘Double Engine’ movie review: An unhinged coming-of-age tale from rural Telangana](https://www.thehindu.com/entertainment/movies/double-engine-telugu-movie-review-an-unhinged-coming-of-age-tale-from-rural-telangana/article67709705.ece)
 

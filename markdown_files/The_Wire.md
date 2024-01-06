@@ -1,3 +1,87 @@
+2024-01-06T18:49:40+05:30
+### [Cong. Internal Discussions to Lay Way Forward For Seat-Sharing Talks With INDIA Alliance: Kharge](https://thewire.in/politics/cong-internal-discussions-to-lay-way-forward-for-seat-sharing-talks-with-india-alliance-kharge)
+
+No Article text 
+In response to a question by The Wire on the sidelines of a press conference in New Delhi on Saturday, Kharge said that preliminary talks are being held with Congress members.
+
+2024-01-06T17:57:46+05:30
+### [Manipur: 2 Editors Arrested in 8 Days Over Reports on Law and Order in Moreh](https://thewire.in/media/manipur-2-editors-arrested-in-8-days-over-reports-on-law-and-order-in-moreh)
+
+No Article text 
+Dhanabir Maibam, editor of Imphal's Hueiyen Lanpao paper, is the latest to be accused of criminal conspiracy and promoting enmity.
+
+2024-01-06T17:30:55+05:30
+### [Indians: A Brief History of a Civilisation and Why We Need to Know it](https://thewire.in/history/indians-a-history-web-series-namit-arora)
+
+No Article text 
+Taking on such charged and sensitive topics in this series also means that almost everyone will find something to dislike in it. Informed disagreement is of course fine and necessary for better scholarship.
+
+2024-01-06T15:51:04+05:30
+### [There's Nothing 'Inevitable' About Narendra Modi's Return in 2024](https://thewire.in/politics/narendra-modi-india-alliance-rahul-gandhi-2024)
+
+No Article text 
+The Lok Sabha elections this year are about sab ka INDIA versus Narendra Modi’s coalition of vested interests and bigotry.
+
+2024-01-06T15:10:50+05:30
+### [Supreme Court Seeks Responses From Delhi Police, CBI, ED on Device Seizures Petition](https://thewire.in/rights/supreme-court-notice-investigative-agencies-purkayastha-petition)
+
+No Article text 
+Online news portal NewsClick and its jailed editor Prabir Purkayastha, who are the petitioners, had sought guidelines on the search and seizure of digital devices by law enforcement.
+
+2024-01-06T14:42:32+05:30
+### ['Gaza Is a Place of Death': UN Says Public Health Disaster Afoot as Israel Attack Continues](https://thewire.in/world/gaza-strip-un-martin-griffiths)
+
+No Article text 
+'Gaza has simply become uninhabitable. Its people are witnessing daily threats to their very existence – while the world watches on.'
+
+2024-01-06T13:55:55+05:30
+### [A Mood For Murder | Episode 5: Tetrapak Lassi (Cast the Net Wide, When Doing Tafteesh)](https://thewire.in/fiction/a-mood-for-murder-episode-5)
+
+No Article text 
+The Wire WhoDunnIt: This is the fifth part of a serialised detective story by Shahrukh Alam. It is a work of fiction.
+
+2024-01-06T13:34:27+05:30
+### [Mallikarjun Kharge Lays Down 'Bharat Jodo Nyay Yatra' Agenda, Takes on 'BJP's Dry Clean Factory'](https://thewire.in/politics/mallikarjun-kharge-bharat-jodo-nyay-yatra-bjp)
+
+No Article text 
+The Congress's Yatra’s main motivation is to unite the weaker sections of the society, he said, while releasing the Yatra’s slogan, 'Bharat Jodo Nyay Yatra, Nyay Ka Haq Milne Taq.'
+
+2024-01-06T13:13:51+05:30
+### ['That Infernal Infidel Wajid Ali Shah': Sour Notes on the Confluence of Cultures](https://thewire.in/communalism/wajid-ali-shah-confluence-hindu-muslim)
+
+No Article text 
+Indians have often wholeheartedly greeted the spirit and practice related to the confluence of cultures. And yet, a recent experience tells me we have managed to stray far enough.
+
+2024-01-06T13:03:23+05:30
+### [Kerala Priest Removed From Church Post After Joining BJP, Had Led 47 Families to Formally Join Too](https://thewire.in/politics/kerala-priest-removed-from-church-post-after-joining-bjp-had-led-47-families-to-formally-join-too)
+
+No Article text 
+The Malankara Orthodox Syrian Church said Ferdinand Shaiju Kurian was removed from all official responsibilities after the church received 'some complaints from the diocese members.'
+
+2024-01-06T11:29:56+05:30
+### [The CJI Chandrachud Phenomenon: Creativity in the Courtroom, Stirring Rhetoric Outside it](https://thewire.in/law/chandrachud-orator-courtroom-judgments-babri-ayodhya)
+
+No Article text 
+Justice Chandrachud is a skilled orator. He is always politically correct in his out of court orations. But he has not been appointed the chief orator of this country. His job is to do justice.
+
+2024-01-06T10:45:39+05:30
+### [From the Certainty of the Constitution Towards Amorphous Culture and Customs](https://thewire.in/law/marriage-equality-narasimha-supreme-court-cji-chandrachud)
+
+No Article text 
+'Custom' and 'culture' impacted the judiciary as one saw an increasing trend to use those to justify imposing restrictions on fundamental rights or writing them out of existence.
+
+2024-01-06T09:00:54+05:30
+### [Bangladesh’s Crumbling Democracy No Roadblock for Superpowers](https://thewire.in/south-asia/bangladeshs-crumbling-democracy-no-roadblock-for-superpowers)
+
+No Article text 
+Bangladesh’s longest-serving female Prime Minister, Sheikh Hasina, will extend her reign because her main opposition Bangladeshi Nationalist Party has boycotted the election.
+
+2024-01-06T08:30:43+05:30
+### [Is Savarkar a Gujarati Writer?](https://thewire.in/the-arts/is-savarkar-a-gujarati-writer)
+
+No Article text 
+The 51st Adhiveshan of the 119-year-old Gujarati Sahitya Parishad is underway in Bhopal from January 5 to 7. However, confusion arose among many in Gujarat due to their advertisement in the January 5 print edition of the Adhiveshan.
+
 2024-01-05T21:40:40+05:30
 ### [Following Speculation, MEA Denies India Sent Artillery Shells to Ukraine](https://thewire.in/diplomacy/india-did-not-shells-to-ukraine-mea)
 

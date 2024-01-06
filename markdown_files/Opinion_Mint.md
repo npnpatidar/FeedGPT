@@ -1,3 +1,21 @@
+Sat, 06 Jan 2024 17:02:40 +0530
+### [AAI-Delhi airport feud risks stalling India growth story with air train impasse](https://www.livemint.com/opinion/online-views/aaidelhi-airport-feud-risks-stalling-india-growth-story-with-air-train-impasse-11704537453740.html)
+
+Article found but Couldn't summarize 
+Balancing economic practicality with strategic development goals is crucial for the growth of India's aviation sector and its standing as a global travel hub
+
+Sat, 06 Jan 2024 13:52:31 +0530
+### [Top 10 sustainability trends to watch out for in 2024](https://www.livemint.com/opinion/first-person/top-10-sustainability-trends-to-watch-out-for-in-2024-11704524612122.html)
+
+Article found but Couldn't summarize 
+2024 promises to be a year of significant advancement in sustainability
+
+Sat, 06 Jan 2024 09:00:04 +0530
+### [Adani verdict: Onus now on Sebi to reinforce investor confidence](https://www.livemint.com/opinion/online-views/adani-verdict-onus-now-on-sebi-to-reinforce-investor-confidence-11704465703541.html)
+
+Article found but Couldn't summarize 
+The Supreme Court’s decision puts the onus on Sebi to demonstrate that its regulatory and investigative processes are above reproach
+
 Fri, 05 Jan 2024 10:00:14 +0530
 ### [This is how you should spend your stock market gains](https://www.livemint.com/opinion/columns/this-is-how-you-should-spend-your-stock-market-gains-11704361802470.html)
 

@@ -1,3 +1,58 @@
+Sat, 06 Jan 2024 10:21:19 +0000
+### [Why as a young woman, I don’t feel safe in my university anymore](https://indianexpress.com/article/opinion/columns/universities-women-safety-9097925/)
+
+Article found but Couldn't summarize
+
+Sat, 06 Jan 2024 07:53:12 +0000
+### [Once upon a time, a Ram idol that turned the course of India’s history](https://indianexpress.com/article/opinion/columns/once-upon-a-time-a-ram-idol-that-turned-the-course-of-indias-history-9097739/)
+
+Article found but Couldn't summarize
+
+Sat, 06 Jan 2024 05:58:08 +0000
+### [Truckers’ protest against hit-and-run law: Why this reform is much needed](https://indianexpress.com/article/opinion/columns/truckers-protest-against-hit-and-run-law-why-this-reform-is-much-needed-9097627/)
+
+Article found but Couldn't summarize
+
+Sat, 06 Jan 2024 02:30:12 +0000
+### [Ram Madhav writes: In 2024, India is going to lead the democratic world](https://indianexpress.com/article/opinion/columns/countries-to-hold-elections-in-2024-narendra-modi-joe-bide-2024-important-events-9097157/)
+
+Article found but Couldn't summarize
+
+Sat, 06 Jan 2024 02:29:58 +0000
+### [Express View on India’s Test triumph: A special victory](https://indianexpress.com/article/opinion/editorials/a-special-victory-9097198/)
+
+Article found but Couldn't summarize
+
+Sat, 06 Jan 2024 02:25:08 +0000
+### [Revival of the tiger: A joint effort, a cultural renaissance](https://indianexpress.com/article/opinion/columns/tiger-reserves-management-tiger-conservation-plan-corbett-tiger-reserve-9097144/)
+
+Article found but Couldn't summarize
+
+Sat, 06 Jan 2024 02:00:55 +0000
+### [Happy Birthday Kapil Dev: Leader in cricket, leader in life](https://indianexpress.com/article/opinion/columns/kapil-dev-birthday-1983-world-cup-winning-captain-kapil-dev-chievements-9097178/)
+
+Article found but Couldn't summarize
+
+Sat, 06 Jan 2024 01:45:04 +0000
+### [Express View: INDIA in Punjab](https://indianexpress.com/article/opinion/editorials/india-in-punjab-9097196/)
+
+Article found but Couldn't summarize
+
+Sat, 06 Jan 2024 01:40:26 +0000
+### [In the age of hypermasculinity, women of the Ramayana as moral compass](https://indianexpress.com/article/opinion/columns/ayodhya-ram-mandir-consecration-ceremony-januray-22-lord-ram-idols-ramayana-hindu-goddess-9097179/)
+
+Article found but Couldn't summarize
+
+Sat, 06 Jan 2024 01:30:25 +0000
+### [Express View on NSO’s GDP estimates: On the upside](https://indianexpress.com/article/opinion/editorials/indian-economy-india-gdp-growth-nso-growth-estimate-9097192/)
+
+Article found but Couldn't summarize
+
+Sat, 06 Jan 2024 01:25:33 +0000
+### [January 06, Forty Years Ago: Boycott of Governor](https://indianexpress.com/article/opinion/editorials/january-06-forty-years-ago-boycott-of-governor-9097183/)
+
+The Left Front in West Bengal has decided to boycott functions attended by state Governor A P Sharma, except for Chief Minister Jyoti Basu. This move comes as a protest against the governor's actions. Meanwhile, the Bharatiya Janata Party has expressed its continued support for the Hegde government in Karnataka. The party's national executive discussed the political situation in Karnataka and backed the current government. In another development, Union Education Minister Sheila Kaul's letter to the Director of IIT Madras, P V Indiresan, expressing dissatisfaction with his observations on reservation policies for SCs and STs in IITs has sparked a debate in academic circles. The main focus of the debate is on restrictions faced by academicians as well as the reservation policy itself. Furthermore, legal proceedings are underway in response to Thailand’s request for the extradition of Charles Sobhraj, a notorious underworld figure in Asia. The Indian magistrate will determine whether there is a valid case for extradition under the Indian Extradition Act, even though there is no bilateral extradition treaty between the two countries.
+
 Fri, 05 Jan 2024 09:36:35 +0000
 ### [The Ayes always have it: Why voice votes in Parliament are bad for democracy](https://indianexpress.com/article/opinion/columns/ayes-voice-votes-parliament-bad-democracy-9096446/)
 
