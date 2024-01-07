@@ -1,3 +1,123 @@
+2024-01-07T20:00:59+05:30
+### [A Mood For Murder | Episode 6: Milk Cake With Tetrapak Lassi (Cast the Net Wide, When Doing Tafteesh)](https://thewire.in/fiction/a-mood-for-murder-episode-6-tetrapak-lassi)
+
+No Article text 
+The Wire WhoDunnIt: This is the sixth part of a serialised detective story by Shahrukh Alam. It is a work of fiction.
+
+2024-01-07T19:56:55+05:30
+### [Situation on China Border in Ladakh 'Stable But Sensitive, Not Normal': Northern Army Commander](https://thewire.in/security/situation-on-china-border-in-ladakh-stable-but-sensitive-not-normal-northern-army-commander)
+
+No Article text 
+Lt Gen Upendra Dwivedi confirmed that two of the seven areas on the LAC which saw Chinese ingress, branded by him as “friction issues which are there” remain unresolved so far.
+
+2024-01-07T19:39:23+05:30
+### [Little Known About Mughal-Era 'Mosque' in UP Where Muslim Youth Was Booked for Offering Azaan](https://thewire.in/politics/little-known-about-mughal-era-mosque-in-up-where-muslim-youth-was-booked-for-offering-azaan)
+
+No Article text 
+While local Muslims believe the structure was a mosque, some Hindus say it used to be a fort belonging to Hindu rulers before the conquest by Mughals and Afghans.
+
+2024-01-07T19:12:47+05:30
+### [After Social Media Controversy, Maldives 'Suspends' 3 Ministers for Derogatory Tweets on Indian PM](https://thewire.in/diplomacy/after-social-media-controversy-maldives-suspends-3-ministers-for-derogatory-tweets-on-indian-pm)
+
+No Article text 
+The controversy – triggered by posts criticising Modi's visit to Lakshadweep – erupted on the same day that Maldivian President Mohamed Muizzu embarked on a five-day visit to China.
+
+2024-01-07T18:30:30+05:30
+### [Why Does Claudine Gay Still Work at Harvard After Being Forced to Resign as Its President?](https://thewire.in/world/why-does-claudine-gay-still-work-at-harvard-after-being-forced-to-resign-as-its-president)
+
+No Article text 
+Gay's got tenure. It's 'an indefinite appointment' that protects academic jobs.
+
+2024-01-07T18:00:08+05:30
+### [Ukraine War Seen as 'Fought by the Poor' as Zelensky Raises Taxes, Proposes Strict Laws](https://thewire.in/world/ukraine-war-seen-as-fought-by-the-poor-as-zelensky-raises-taxes-proposes-strict-laws)
+
+No Article text 
+To justify the undoubted sacrifice that Zelensky is asking of Ukrainian society, he needs to articulate a clearer purpose and direction.
+
+2024-01-07T17:30:27+05:30
+### [How Princes, Prime Ministers, and Premiers Paid off President Trump – The India Chapter](https://thewire.in/world/how-princes-prime-ministers-and-premiers-paid-off-president-trump-the-india-chapter)
+
+No Article text 
+'India secured the fifth position, having spent a total of $282,764 at Trump World Tower in New York and Trump International Hotel in the US capital of Washington D.C. from 2017 to 2020,' said a report released by Democrat members of the US House Oversight Committee.
+
+2024-01-07T17:00:07+05:30
+### [Jammu to Poonch: A Bus Journey](https://thewire.in/fiction/jammu-to-poonch-a-bus-journey)
+
+No Article text 
+This is a work of historical fiction.
+
+2024-01-07T16:30:43+05:30
+### [The Christmas ‘Party’ That Turned Sour](https://thewire.in/rights/the-christmas-party-that-turned-sour)
+
+No Article text 
+As evident from the 'Not in Our Name' campaign, which has drawn over 3,200 signatures, a vast majority of Christians are hurt by the display of cult-sycophancy.
+
+2024-01-07T15:30:12+05:30
+### [An Antim Ardas for Professor Jit Pal Singh Uberoi (1934-2024)](https://thewire.in/society/an-antim-ardas-for-professor-jit-pal-singh-uberoi-1934-2024)
+
+No Article text 
+I have met many brilliant people over the years but you have been the most important and most original of them all.
+
+2024-01-07T15:00:27+05:30
+### [NHIDCL Hasn't Filed FIR Against Contractor Responsible for Collapsed Silkyara Tunnel: RTI Response](https://thewire.in/government/nhidcl-hasnt-filed-fir-against-contractor-responsible-for-collapsed-silkyara-tunnel-rti-response)
+
+No Article text 
+Navayuga Engineering Company Limited was also the primary contractor for the Nagpur-Mumbai Samruddhi Expressway, where 20 workers and engineers lost their lives.
+
+2024-01-07T14:30:34+05:30
+### [‘Excludable Aliens’: The Complex Landscape of Modern Migrations](https://thewire.in/world/the-excludable-aliens-the-complex-landscape-of-modern-migrations)
+
+No Article text 
+Migrations today may be due to poverty and natural calamities but they are more of a demographic bulimia eroding overpopulated lands. Once upon a time, there was great anxiety about ‘brain drain’. One scarcely hears the word today.
+
+2024-01-07T14:02:00+05:30
+### [500+ Academics Express Solidarity With Jindal University Professor Facing Trolling, FIR](https://thewire.in/education/500-academics-express-solidarity-with-jindal-university-professor-facing-trolling-fir)
+
+No Article text 
+"We believe [Sameena Dalwai] is being persecuted for her Muslim identity and her political beliefs, by people who define India with a narrow, ignorant lens."
+
+2024-01-07T14:00:43+05:30
+### [In Bengal's Sandeshkhali, Controversial TMC Leader Sheikh Shahjahan's Hold Is Powerful](https://thewire.in/politics/in-bengals-sandeshkhali-controversial-tmc-leader-sheikh-shahjahans-hold-is-powerful)
+
+No Article text 
+A team of Enforcement Directorate officials who were attempting to raid the politician's house in connection with an alleged ration scam were met with an angry mob on Friday.
+
+2024-01-07T13:45:41+05:30
+### [Myanmar's Brotherhood Alliance Takes Control of Entire Kokang Region From the Military Junta](https://thewire.in/south-asia/myanmars-brotherhood-alliance-takes-control-of-entire-kokang-region-from-the-military-junta)
+
+No Article text 
+According to reports, this has been termed as “the largest single defeat of the Junta since the 2021 coup”.
+
+2024-01-07T12:55:04+05:30
+### ['Bound to Outrage Society': Allahabad HC Dismisses Plea of 2 Arrested for Burning Ramcharitmanas](https://thewire.in/law/bound-to-outrage-society-allahabad-hc-dismisses-plea-of-2-arrested-for-burning-ramcharitmanas)
+
+No Article text 
+The accused persons, who are linked to the All India OBC Mahasabha, contended that they were booked in the case on the complaint of a Bharatiya Janata Party office-bearer due to political reasons.
+
+2024-01-07T12:10:15+05:30
+### [Questionable: ‘Amar Akbar Anthony’ Edition](https://thewire.in/quiz/questionable-january-7-2024-edition)
+
+No Article text 
+We don’t know why, but it feels like the perfect way to start 2024’s quiz season.
+
+2024-01-07T11:18:57+05:30
+### [Think Tank CPR: SC Dismisses Income Tax Dept Appeal Against HC Stay on Proceedings Under FCRA](https://thewire.in/law/think-tank-cpr-sc-dismisses-income-tax-dept-appeal-against-hc-stay-on-proceedings-under-fcra)
+
+No Article text 
+In a setback to tax authorities, a division bench has said that they ‘are not inclined to interfere with the impugned judgment passed by the high court.’
+
+2024-01-07T10:52:02+05:30
+### [FAA Grounds Some Boeing 737 Max 9 Planes After Mid-Air Scare](https://thewire.in/world/faa-grounds-some-boeing-737-max-9-planes-after-mid-air-scare)
+
+No Article text 
+The US air safety regulator ordered immediate inspections of the Boeing planes after a part of an Alaska Airlines 737 Max 9 fuselage blew out.
+
+2024-01-07T10:39:42+05:30
+### [Remembering Prof. JPS Uberoi as a Scholar, Mentor, and Teacher](https://thewire.in/the-arts/remembering-prof-jps-uberoi-as-a-scholar-mentor-and-teacher)
+
+No Article text 
+Uberoi held one of the longest professorships at the Delhi School of Economics and, as a result, nurtured several generations of students with equal doses of love and severity.
+
 2024-01-07T06:00:15+05:30
 ### [As Bangladesh Goes to Polls Today, How Fair Will the Election Be?](https://thewire.in/south-asia/bangladesh-election-today-sheikh-hasina)
 

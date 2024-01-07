@@ -1,3 +1,33 @@
+Mon, 08 Jan 2024 00:48:14 +0530
+### [A comprehensive assessment of deprivation must consider non-monetary metrics too](https://www.livemint.com/opinion/online-views/a-comprehensive-assessment-of-deprivation-must-consider-non-monetary-metrics-too-11704632189911.html)
+
+Article found but Couldn't summarize 
+Informed policy decision-making requires a grasp of how the hard-up are faring on multiple counts. Economists need reliable measures of multidimensional poverty for global comparisons.
+
+Mon, 08 Jan 2024 00:40:30 +0530
+### [What happened at Harvard was bad news for DEI in America](https://www.livemint.com/opinion/online-views/what-happened-at-harvard-was-bad-news-for-dei-in-america-11704632064048.html)
+
+Article found but Couldn't summarize 
+Diversity, equity and inclusion is not just about social justice, it is a long-term investment by organizations to attract and retain top talent, set them up to succeed and foster a sufficiently diverse workforce and leadership team.
+
+Mon, 08 Jan 2024 00:37:47 +0530
+### [The empowerment of women is set to strengthen our democracy](https://www.livemint.com/opinion/online-views/the-empowerment-of-women-is-set-to-strengthen-our-democracy-11704631987358.html)
+
+Article found but Couldn't summarize 
+The participation of women in electoral exercises has risen impressively and could outstrip that of men within this decade.
+
+Mon, 08 Jan 2024 00:26:58 +0530
+### [Why disgrace is unlikely to erode the allure of Harvard](https://www.livemint.com/opinion/online-views/why-disgrace-is-unlikely-to-erode-the-allure-of-harvard-11704631735523.html)
+
+Article found but Couldn't summarize 
+A failure of top leadership is not something that deters people aspiring to join an exclusive club—and that’s what an Ivy League university ultimately is.
+
+Sun, 07 Jan 2024 21:57:01 +0530
+### [Budget 2024 hopes: Stay steadfast on capex-led growth](https://www.livemint.com/opinion/columns/budget-2024-hopes-stay-steadfast-on-capex-led-growth-11704644588973.html)
+
+Article found but Couldn't summarize 
+The Union Budget 2023-24 must reflect a concerted effort to reinvigorate the Keynesian “animal spirit”
+
 Sat, 06 Jan 2024 17:02:40 +0530
 ### [AAI-Delhi airport feud risks stalling India growth story with air train impasse](https://www.livemint.com/opinion/online-views/aaidelhi-airport-feud-risks-stalling-india-growth-story-with-air-train-impasse-11704537453740.html)
 

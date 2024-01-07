@@ -1,3 +1,15 @@
+Mon, 08 Jan 2024 00:30:00 +0530
+### [A new high: On the Aditya-L1 mission and ISRO outreach](https://www.thehindu.com/opinion/editorial/a-new-high-the-hindu-editorial-on-the-aditya-l1-mission-and-isro-outreach/article67716113.ece)
+
+Article found but Couldn't summarize 
+ISRO should help everyone enjoy the fruits of its new science missions
+
+Mon, 08 Jan 2024 00:15:00 +0530
+### [Turmoil in Jharkhand: On Jharkhand Chief Minister’s troubles](https://www.thehindu.com/opinion/editorial/turmoil-in-jharkhand-the-hindu-editorial-on-jharkhand-chief-ministers-troubles/article67716091.ece)
+
+Article found but Couldn't summarize 
+Chief Minister Hemant Soren’s troubles are legal and political in almost equal measure
+
 Sat, 06 Jan 2024 00:20:00 +0530
 ### [Drug war: On use of antibiotics and antimicrobial resistance](https://www.thehindu.com/opinion/editorial/drug-war-on-use-of-antibiotics-and-antimicrobial-resistance/article67710044.ece)
 

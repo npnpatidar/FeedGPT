@@ -1,3 +1,43 @@
+Sun, 07 Jan 2024 14:18:34 +0000
+### [Vandita Mishra writes: A consecration in Ayodhya](https://indianexpress.com/article/opinion/columns/ayodhya-ram-tem-temple-consecration-9099115/)
+
+Article found but Couldn't summarize
+
+Sun, 07 Jan 2024 12:53:53 +0000
+### [A Murder at the End of the World: Lesson on how to talk about violence against women without showing it](https://indianexpress.com/article/opinion/columns/a-murder-at-the-end-of-the-world-lesson-9098988/)
+
+Article found but Couldn't summarize
+
+Sun, 07 Jan 2024 12:10:24 +0000
+### [View from Pakistan: Bangladesh polls and the state of democracy in South Asia](https://indianexpress.com/article/opinion/columns/view-from-pakistan-bangladesh-polls-state-of-democracy-in-south-asia-9098952/)
+
+Article found but Couldn't summarize
+
+Sun, 07 Jan 2024 07:27:13 +0000
+### [Sunehri Masjid is evidence of India’s pluralistic ethos — don’t demolish it](https://indianexpress.com/article/opinion/columns/delhi-sunehri-masjid-demolition-india-pluralistic-ethos-9098710/)
+
+Article found but Couldn't summarize
+
+Sun, 07 Jan 2024 02:30:51 +0000
+### [Worli riots: How violence killed a Dalit movement](https://indianexpress.com/article/opinion/columns/worli-riots-1974-dalit-panthers-caste-discrimination-dalit-movement-9098264/)
+
+Article found but Couldn't summarize
+
+Sun, 07 Jan 2024 02:25:13 +0000
+### [Tavleen Singh writes on Ayodhya temple consecration: Mixing religion with politics has ruined countries like Iran and Pakistan](https://indianexpress.com/article/opinion/columns/ayodhya-ram-mandir-hindutva-consecration-ceremony-on-jan-22-9098254/)
+
+Article found but Couldn't summarize
+
+Sun, 07 Jan 2024 02:20:14 +0000
+### [Sindoor, mangalsutra or feminism?](https://indianexpress.com/article/opinion/columns/indian-weddings-feminism-sindoor-mangalsutra-inter-caste-marriages-9098266/)
+
+Article found but Couldn't summarize
+
+Sun, 07 Jan 2024 02:04:39 +0000
+### [P Chidambaram writes: It’s Happy New Year for some](https://indianexpress.com/article/opinion/columns/happiness-in-india-narendra-modi-happy-new-year-economic-growth-9098250/)
+
+Article found but Couldn't summarize
+
 Sat, 06 Jan 2024 10:21:19 +0000
 ### [Why as a young woman, I don’t feel safe in my university anymore](https://indianexpress.com/article/opinion/columns/universities-women-safety-9097925/)
 

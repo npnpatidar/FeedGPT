@@ -5,6 +5,26 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Explain_FP.xml</link>
 		<description>Explain FP</description>
 		<item>
+			<title>Green Flag: Can golf courses help save the environment?</title>
+			<link>https://www.firstpost.com/explainers/green-flag-can-golf-courses-help-save-the-environment-13567662.html</link>
+			<description>Article found but Couldn't summarize 
+Green Flag: Can golf courses help save the environment?</description>
+			<pubDate>Sun, 07 Jan 2024 10:33:07 +0530</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2024/01/golf-course.jpg"></media:thumbnail>
+			<media:content url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2024/01/golf-course.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>This Week in Explainers: Can women be raped in the metaverse?</title>
+			<link>https://www.firstpost.com/explainers/this-week-in-explainers-can-women-be-raped-in-the-metaverse-13582312.html</link>
+			<description>Article found but Couldn't summarize 
+This Week in Explainers: Can women be raped in the metaverse?</description>
+			<pubDate>Sun, 07 Jan 2024 10:29:57 +0530</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2024/01/thisweek1.jpg"></media:thumbnail>
+			<media:content url="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2024/01/thisweek1.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Aditya-L1 success: Who is Nigar Shaji, the woman behind ISRO's Sun mission?</title>
 			<link>https://www.firstpost.com/explainers/aditya-l1-reaches-its-destination-who-is-nigar-shaji-the-woman-behind-isros-historic-solar-mission-13584652.html</link>
 			<description>Article found but Couldn't summarize 

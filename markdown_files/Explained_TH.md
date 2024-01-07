@@ -1,3 +1,9 @@
+Sun, 07 Jan 2024 22:10:47 +0530
+### [Why is child marriage still high in West Bengal? | Explained](https://www.thehindu.com/news/national/why-is-child-marriage-still-high-in-west-bengal-explained/article67716959.ece)
+
+Article found but Couldn't summarize 
+Why are girls getting married early despite receiving an education? Have the cash incentives for girls to study not been effective? What is the link between child marriage and poor maternal health?
+
 Sun, 07 Jan 2024 01:17:00 +0530
 ### [Claudine Gay | Forced exit](https://www.thehindu.com/sci-tech/science/claudine-gay-forced-exit/article67713963.ece)
 

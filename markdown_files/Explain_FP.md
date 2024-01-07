@@ -1,3 +1,15 @@
+Sun, 07 Jan 2024 10:33:07 +0530
+### [Green Flag: Can golf courses help save the environment?](https://www.firstpost.com/explainers/green-flag-can-golf-courses-help-save-the-environment-13567662.html)
+
+Article found but Couldn't summarize 
+Green Flag: Can golf courses help save the environment?
+
+Sun, 07 Jan 2024 10:29:57 +0530
+### [This Week in Explainers: Can women be raped in the metaverse?](https://www.firstpost.com/explainers/this-week-in-explainers-can-women-be-raped-in-the-metaverse-13582312.html)
+
+Article found but Couldn't summarize 
+This Week in Explainers: Can women be raped in the metaverse?
+
 Sat, 06 Jan 2024 18:32:10 +0530
 ### [Aditya-L1 success: Who is Nigar Shaji, the woman behind ISRO's Sun mission?](https://www.firstpost.com/explainers/aditya-l1-reaches-its-destination-who-is-nigar-shaji-the-woman-behind-isros-historic-solar-mission-13584652.html)
 

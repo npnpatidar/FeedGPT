@@ -1,3 +1,33 @@
+Sun, 07 Jan 2024 21:05:13 +0530
+### [Book review | ‘My Name Is Barbra’ is most candid, honest, and unputdownable of all memoirs](https://www.firstpost.com/opinion/book-review-my-name-is-barbra-is-candid-honest-and-unputdownable-among-all-memoirs-13586542.html)
+
+Article found but Couldn't summarize 
+Book review | ‘My Name Is Barbra’ is most candid, honest, and unputdownable of all memoirs
+
+Sun, 07 Jan 2024 18:27:39 +0530
+### [Madhvi Chittoor: A Colorado schoolgirl with eco-ethics mindset](https://www.firstpost.com/opinion/madhvi-chittoor-a-colorado-schoolgirl-with-eco-ethics-mindset-13586442.html)
+
+Article found but Couldn't summarize 
+Madhvi Chittoor: A Colorado schoolgirl with eco-ethics mindset
+
+Sun, 07 Jan 2024 17:46:05 +0530
+### [Greater Khajuraho region: Heritage of Vyas Bhadora should be better appreciated](https://www.firstpost.com/opinion/greater-khajuraho-region-heritage-of-vyas-bhadora-should-be-better-appreciated-13586222.html)
+
+Article found but Couldn't summarize 
+Greater Khajuraho region: Heritage of Vyas Bhadora should be better appreciated
+
+Sun, 07 Jan 2024 14:39:34 +0530
+### [Bangladesh polls: Foreign policy as an election issue in South Asia](https://www.firstpost.com/opinion/bangladesh-polls-foreign-policy-as-an-election-issue-in-south-asia-13585772.html)
+
+Article found but Couldn't summarize 
+Bangladesh polls: Foreign policy as an election issue in South Asia
+
+Sun, 07 Jan 2024 12:16:43 +0530
+### [How India’s vote in UN on Palestine reflects continuity, not a shift in policy](https://www.firstpost.com/opinion/how-indias-vote-in-un-on-palestine-reflects-continuity-not-a-shift-in-policy-13585512.html)
+
+Article found but Couldn't summarize 
+How India’s vote in UN on Palestine reflects continuity, not a shift in policy
+
 Sat, 06 Jan 2024 19:55:32 +0530
 ### [Book review | Sakina's Kiss: An engrossing tale of love and betrayal](https://www.firstpost.com/opinion/book-review-sakinas-kiss-an-engrossing-tale-of-love-and-betrayal-13584782.html)
 

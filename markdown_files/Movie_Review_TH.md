@@ -1,3 +1,15 @@
+Sun, 07 Jan 2024 21:24:04 +0530
+### [‘The Brothers Sun’ series review: Michelle Yeoh leads an action-filled crime-family drama with hilarious performances](https://www.thehindu.com/entertainment/movies/the-brothers-sun-series-review-michelle-yeoh-leads-an-action-filled-crime-family-drama-with-hilarious-performances/article67715710.ece)
+
+Article found but Couldn't summarize 
+With slick visuals, ‘The Brothers Sun’ maintains a good balance between its opposing emotions of thrill and comedy
+
+Sun, 07 Jan 2024 17:18:51 +0530
+### [‘Foe’ movie review: A portrait of a marriage through a sci-fi-looking glass](https://www.thehindu.com/entertainment/movies/foe-movie-review-a-portrait-of-a-marriage-through-a-sci-fi-looking-glass/article67714280.ece)
+
+Article found but Couldn't summarize 
+Stunning performances by Saoirse Ronan and Paul Mescal add an extra patina to this psychological chiller
+
 Sat, 06 Jan 2024 15:34:42 +0530
 ### [A little more spark would have added appeal to Venkatanagarajan’s renditions](https://www.thehindu.com/entertainment/music/a-little-more-spark-would-have-added-appeal-to-venkatanagarajans-renditions/article67695033.ece)
 
