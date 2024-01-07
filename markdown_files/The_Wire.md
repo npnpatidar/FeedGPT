@@ -1,3 +1,9 @@
+2024-01-07T06:00:15+05:30
+### [As Bangladesh Goes to Polls Today, How Fair Will the Election Be?](https://thewire.in/south-asia/bangladesh-election-today-sheikh-hasina)
+
+No Article text 
+It is now widely known that the exercise will undermine the country's democratic future.
+
 2024-01-06T18:49:40+05:30
 ### [Cong. Internal Discussions to Lay Way Forward For Seat-Sharing Talks With INDIA Alliance: Kharge](https://thewire.in/politics/cong-internal-discussions-to-lay-way-forward-for-seat-sharing-talks-with-india-alliance-kharge)
 
