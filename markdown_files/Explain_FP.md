@@ -1,3 +1,9 @@
+Sun, 07 Jan 2024 15:45:01 +0530
+### [FirstUp: Rajnath Singh in UK, Bilkis Bano case in SC… The big news today](https://www.firstpost.com/explainers/firstup-rajnath-singh-in-uk-bilkis-bano-case-in-sc-the-big-news-today-13586112.html)
+
+Article found but Couldn't summarize 
+FirstUp: Rajnath Singh in UK, Bilkis Bano case in SC… The big news today
+
 Sun, 07 Jan 2024 10:33:07 +0530
 ### [Green Flag: Can golf courses help save the environment?](https://www.firstpost.com/explainers/green-flag-can-golf-courses-help-save-the-environment-13567662.html)
 
