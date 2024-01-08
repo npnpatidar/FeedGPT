@@ -1,3 +1,28 @@
+Mon, 08 Jan 2024 13:52:45 +0000
+### [Global warming, sea level rise, ageing flood defence systems: Why European countries have been flooded](https://indianexpress.com/article/explained/explained-climate/why-european-countries-have-been-flooded-9100544/)
+
+Article found but Couldn't summarize
+
+Mon, 08 Jan 2024 13:42:03 +0000
+### [The question of MSP: Is income support for farmers better than pricing that is delinked from market demand?](https://indianexpress.com/article/explained/explained-economics/msp-income-support-pricing-delinked-from-market-demand-9100476/)
+
+Article found but Couldn't summarize
+
+Mon, 08 Jan 2024 12:37:07 +0000
+### [How Lakshadweep’s unique cultural landscape developed](https://indianexpress.com/article/explained/explained-culture/lakshadweep-cultural-landscape-islam-9100400/)
+
+Article found but Couldn't summarize
+
+Mon, 08 Jan 2024 08:34:37 +0000
+### [Warming up to climate change: How do we know humans are causing global warming?](https://indianexpress.com/article/explained/explained-climate/are-humans-causing-global-warming-climate-change-9099898/)
+
+Article found but Couldn't summarize
+
+Mon, 08 Jan 2024 06:53:33 +0000
+### [SC overturns remission given to Bilkis Bano’s rapists: What happened, and what has the court ruled?](https://indianexpress.com/article/explained/sc-overturns-remission-bilkis-bano-rapists-9099776/)
+
+Article found but Couldn't summarize
+
 Sun, 07 Jan 2024 14:22:13 +0000
 ### [First Advance Estimates of India’s GDP out: What are they, and what do the data show?](https://indianexpress.com/article/explained/explained-economics/gdp-data-advance-estimates-9099092/)
 

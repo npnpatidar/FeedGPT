@@ -1,3 +1,15 @@
+Tue, 09 Jan 2024 00:30:00 +0530
+### [Unlawful remission: On the Bilkis Bano case](https://www.thehindu.com/opinion/editorial/unlawful-remission-the-hindu-editorial-on-the-bilkis-bano-case/article67719957.ece)
+
+Article found but Couldn't summarize 
+The Supreme Court ruling is a searing indictment of Gujarat for aiding convicts’ release
+
+Tue, 09 Jan 2024 00:15:00 +0530
+### [Sibling rivalry: On Y.S. Sharmila emerging from Y.S. Jagan Mohan Reddy’s shadow](https://www.thehindu.com/opinion/editorial/sibling-rivalry-the-hindu-editorial-on-ys-sharmila-emerging-from-ys-jagan-mohan-reddys-shadow/article67719667.ece)
+
+Article found but Couldn't summarize 
+Sharmila’s entry should give some boost to the Congress’s chances in A.P.
+
 Mon, 08 Jan 2024 00:30:00 +0530
 ### [A new high: On the Aditya-L1 mission and ISRO outreach](https://www.thehindu.com/opinion/editorial/a-new-high-the-hindu-editorial-on-the-aditya-l1-mission-and-isro-outreach/article67716113.ece)
 

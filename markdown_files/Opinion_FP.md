@@ -1,3 +1,33 @@
+Mon, 08 Jan 2024 16:38:27 +0530
+### [Japan aircraft runway collision: Aviation is safe, but we need to learn lessons](https://www.firstpost.com/opinion/japan-aircraft-runway-collision-aviation-is-safe-but-we-need-to-learn-lessons-13589672.html)
+
+Article found but Couldn't summarize 
+Japan aircraft runway collision: Aviation is safe, but we need to learn lessons
+
+Mon, 08 Jan 2024 14:24:22 +0530
+### [Weather report: Amid snow-starved Himalayas, north India to witness peak winter next week](https://www.firstpost.com/opinion/weather-report-amid-snow-starved-himalayas-north-india-will-witness-peak-winters-next-week-13588552.html)
+
+Article found but Couldn't summarize 
+Weather report: Amid snow-starved Himalayas, north India to witness peak winter next week
+
+Mon, 08 Jan 2024 13:41:07 +0530
+### [Head-on | Great power politics: India’s year of reckoning](https://www.firstpost.com/opinion/head-on-great-power-politics-indias-year-of-reckoning-13588792.html)
+
+Article found but Couldn't summarize 
+Head-on | Great power politics: India’s year of reckoning
+
+Mon, 08 Jan 2024 12:53:40 +0530
+### [Spiritual resonance of slogans: A journey through Ram Janambhoomi movement in India](https://www.firstpost.com/opinion/spiritual-resonance-of-slogans-a-journey-through-ram-janambhoomi-movement-in-india-13587602.html)
+
+Article found but Couldn't summarize 
+Spiritual resonance of slogans: A journey through Ram Janambhoomi movement in India
+
+Mon, 08 Jan 2024 09:21:13 +0530
+### [How the invisible hand of Modi’s diplomacy dealt with anti-India Maldives regime](https://www.firstpost.com/opinion/how-the-invisible-hand-of-modis-diplomacy-dealt-with-anti-india-maldives-regime-13587282.html)
+
+Article found but Couldn't summarize 
+How the invisible hand of Modi’s diplomacy dealt with anti-India Maldives regime
+
 Sun, 07 Jan 2024 21:05:13 +0530
 ### [Book review | ‘My Name Is Barbra’ is most candid, honest, and unputdownable of all memoirs](https://www.firstpost.com/opinion/book-review-my-name-is-barbra-is-candid-honest-and-unputdownable-among-all-memoirs-13586542.html)
 

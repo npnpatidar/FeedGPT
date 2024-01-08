@@ -1,3 +1,63 @@
+Tue, 09 Jan 2024 01:58:32 +0530
+### [The UAE-India partnership has a new catalyst in play](https://www.livemint.com/opinion/online-views/the-uae-india-partnership-has-a-new-catalyst-in-play-11704730262783.html)
+
+Article found but Couldn't summarize 
+A dedicated council could help activate and consolidate mutual gains envisioned by the Comprehensive Economic Partnership Agreement recently signed by the two countries.
+
+Tue, 09 Jan 2024 01:44:42 +0530
+### [Data debate: Does India need to worry about a decline in its male workforce?](https://www.livemint.com/opinion/online-views/data-debate-does-india-need-to-worry-about-a-decline-in-its-male-workforce-11704721257950.html)
+
+Article found but Couldn't summarize 
+While an increased female workforce participation is welcome, the reason behind the trend of a slump in the male worker population ratio needs to be ascertained as it could have significant implications for the Indian economy.
+
+Tue, 09 Jan 2024 01:10:49 +0530
+### [Taylor Swift could help boost Singapore's image as a cool place](https://www.livemint.com/opinion/online-views/taylor-swift-could-help-boost-singapores-image-as-a-cool-place-11704721320174.html)
+
+Article found but Couldn't summarize 
+This city-state earned its uncool label for denying rock stars entry unless they got haircuts back in the day. Today, it’s ready to pack a stadium with Taylor Swift fans and wants an image makeover.
+
+Tue, 09 Jan 2024 01:06:09 +0530
+### [Indian IT service providers won’t have a breezy 2024](https://www.livemint.com/opinion/online-views/indian-it-service-providers-won-t-have-a-breezy-2024-11704721443395.html)
+
+Article found but Couldn't summarize 
+They should ponder if they have adapted sufficiently to a fast-shifting technology landscape. The success of Accenture's Song unit has lessons for them.
+
+Mon, 08 Jan 2024 14:38:17 +0530
+### [America is short on certified public accountants. India should bridge the gap](https://www.livemint.com/opinion/online-views/america-is-short-on-certified-public-accountants-india-should-bridge-the-gap-11704704405220.html)
+
+Article found but Couldn't summarize 
+India’s chartered accountants are not automatically eligible for accreditation as CPAs in the US and must be certified first. But this is no big hurdle, as they undergo a gruelling course to qualify as CAs in the first place.
+
+Mon, 08 Jan 2024 13:30:01 +0530
+### [Are bad banks a bad idea?](https://www.livemint.com/opinion/are-bad-banks-a-bad-idea-11704700470078.html)
+
+Article found but Couldn't summarize 
+Apart from the resignations of two senior executives at NARCL, the bad bank has fallen short of expectations so far
+
+Mon, 08 Jan 2024 12:02:30 +0530
+### [Canadians are starting to sour on migration](https://www.livemint.com/opinion/online-views/canadians-are-starting-to-sour-on-migration-11704695275214.html)
+
+Article found but Couldn't summarize 
+So far, it has not led to a populist right-wing surge
+
+Mon, 08 Jan 2024 08:00:17 +0530
+### [Social opinion remains a barrier for entrepreneurship in India](https://www.livemint.com/opinion/online-views/social-opinion-remains-a-barrier-for-entrepreneurship-in-india-11704631685970.html)
+
+Article found but Couldn't summarize 
+Education, awareness and an increased appetite for risk have made it easier for entrepreneurs, but it may take some time before the idea starting a business enjoys wide approval.
+
+Mon, 08 Jan 2024 08:00:17 +0530
+### [India’s fast emerging economy can surely do better](https://www.livemint.com/opinion/online-views/indias-fast-emerging-economy-can-surely-do-better-11704631630253.html)
+
+Article found but Couldn't summarize 
+The government’s 7.3% growth estimate for 2023-24 speaks of an impressive performance. But we still need structural reforms, more evenly growing consumption and a pick-up in private investment for better expansion.
+
+Mon, 08 Jan 2024 08:00:17 +0530
+### [Aditya L1 is a big inspiration](https://www.livemint.com/opinion/quick-edit/aditya-l1-is-a-big-inspiration-11704631598370.html)
+
+Article found but Couldn't summarize 
+A solar observatory placed at a Lagrange Point in space inspires metaphors of balance and evokes the tale of Icarus. Maybe studying the Sun will give us a good sun-shield against climate change.
+
 Mon, 08 Jan 2024 00:48:14 +0530
 ### [A comprehensive assessment of deprivation must consider non-monetary metrics too](https://www.livemint.com/opinion/online-views/a-comprehensive-assessment-of-deprivation-must-consider-non-monetary-metrics-too-11704632189911.html)
 

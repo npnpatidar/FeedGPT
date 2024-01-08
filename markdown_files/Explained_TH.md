@@ -1,3 +1,21 @@
+Mon, 08 Jan 2024 22:36:34 +0530
+### [Debating India’s new hit-and-run law | Explained](https://www.thehindu.com/news/national/debating-indias-new-hit-and-run-law-explained/article67720776.ece)
+
+Article found but Couldn't summarize 
+Transporters and commercial drivers are demanding the withdrawal or amendment of Section 106 (2) of the Bharatiya Nyaya Sanhita, 2023. They argue that while strict action in hit-and-run cases is necessary, the new law has several flaws that need reconsideration
+
+Mon, 08 Jan 2024 10:30:00 +0530
+### [Could sisal leaves make sanitary napkins more sustainable in India?](https://www.thehindu.com/sci-tech/science/sisal-leaves-sanitary-napkins-sustainable-manu-prakash-explained/article67715759.ece)
+
+Article found but Couldn't summarize 
+A team led by Manu Prakash at Stanford University has found the absorption capacity of a sisal-based material to be higher than those in commercial menstrual pads
+
+Mon, 08 Jan 2024 08:30:00 +0530
+### [How voice cloning through artificial intelligence is being used for scams | Explained](https://www.thehindu.com/sci-tech/technology/how-voice-cloning-through-artificial-intelligence-is-being-used-for-scams-explained/article67716940.ece)
+
+Article found but Couldn't summarize 
+Voice clone fraud has been on the rise in India. A report published in May last year revealed that 47% of surveyed Indians have either been a victim or knew someone who had fallen prey to an AI generated voice scam.
+
 Sun, 07 Jan 2024 22:10:47 +0530
 ### [Why is child marriage still high in West Bengal? | Explained](https://www.thehindu.com/news/national/why-is-child-marriage-still-high-in-west-bengal-explained/article67716959.ece)
 

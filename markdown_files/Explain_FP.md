@@ -1,3 +1,92 @@
+Mon, 08 Jan 2024 20:49:04 +0530
+### [No more nightcaps: How even a glass of alcohol affects our sleep](https://www.firstpost.com/explainers/how-even-a-glass-of-alcohol-affects-our-sleep-13590632.html)
+
+Article found but Couldn't summarize 
+No more nightcaps: How even a glass of alcohol affects our sleep
+
+Mon, 08 Jan 2024 19:26:37 +0530
+### [51-inch-tall, carved from dark stone: All about the Ram Lalla idol chosen for the Ram temple](https://www.firstpost.com/explainers/51-inch-tall-carved-from-dark-stone-all-about-the-ram-lalla-idol-chosen-for-the-ram-temple-13590592.html)
+
+Article found but Couldn't summarize 
+51-inch-tall, carved from dark stone: All about the Ram Lalla idol chosen for the Ram temple
+
+Mon, 08 Jan 2024 18:29:22 +0530
+### [India-Maldives row: How President Mohamed Muizzu’s politics may hurt the island nation beyond tourism](https://www.firstpost.com/explainers/india-maldives-row-how-president-mohamed-muizzus-politics-may-hurt-the-island-nation-beyond-tourism-13590192.html)
+
+Article found but Couldn't summarize 
+India-Maldives row: How President Mohamed Muizzu’s politics may hurt the island nation beyond tourism
+
+Mon, 08 Jan 2024 18:21:57 +0530
+### [How Manoj Kumar Sharma, who inspired Vikrant Massey's ‘12th Fail’, went from driving a tempo to an IPS officer](https://www.firstpost.com/explainers/how-manoj-kumar-jha-who-inspired-vikrant-masseys-12th-fail-went-from-driving-a-tempo-to-an-ips-officer-13589842.html)
+
+Article found but Couldn't summarize 
+How Manoj Kumar Sharma, who inspired Vikrant Massey's ‘12th Fail’, went from driving a tempo to an IPS officer
+
+Mon, 08 Jan 2024 17:42:04 +0530
+### [All about world’s second private Moon mission and its India connection](https://www.firstpost.com/explainers/all-about-worlds-second-private-moon-mission-and-its-india-connection-13590242.html)
+
+Article found but Couldn't summarize 
+All about world’s second private Moon mission and its India connection
+
+Mon, 08 Jan 2024 17:22:51 +0530
+### [All’s not well: The story of US defence secretary Lloyd Austin’s secret hospitalisation](https://www.firstpost.com/explainers/alls-not-well-the-story-of-us-defence-secretary-lloyd-austins-secret-hospitalisation-13589922.html)
+
+Article found but Couldn't summarize 
+All’s not well: The story of US defence secretary Lloyd Austin’s secret hospitalisation
+
+Mon, 08 Jan 2024 17:14:10 +0530
+### [How China's balloons are contributing to Taiwan's election fears](https://www.firstpost.com/explainers/how-chinas-balloons-are-contributing-to-taiwans-election-fears-13590002.html)
+
+Article found but Couldn't summarize 
+How China's balloons are contributing to Taiwan's election fears
+
+Mon, 08 Jan 2024 17:13:50 +0530
+### [Bilkis Bano's rapists to return to jail: What is the 2002 case? Why were the convicts freed?](https://www.firstpost.com/explainers/bilkis-banos-rapists-to-return-to-jail-what-is-the-2002-case-why-were-the-11-convicts-released-13589202.html)
+
+Article found but Couldn't summarize 
+Bilkis Bano's rapists to return to jail: What is the 2002 case? Why were the convicts freed?
+
+Mon, 08 Jan 2024 15:14:35 +0530
+### [Boeing 737’s emergency door blows off: Are its planes safe? Should flyers worry?](https://www.firstpost.com/explainers/boeing-737s-emergency-door-blows-off-are-its-planes-safe-should-flyers-worry-13589452.html)
+
+Article found but Couldn't summarize 
+Boeing 737’s emergency door blows off: Are its planes safe? Should flyers worry?
+
+Mon, 08 Jan 2024 13:56:34 +0530
+### [Why Indian Air Force plane C-130J’s night landing at Kargil airstrip is a big feat](https://www.firstpost.com/explainers/why-indian-air-force-c-130js-night-landing-at-kargil-airstrip-is-a-big-feat-13588832.html)
+
+Article found but Couldn't summarize 
+Why Indian Air Force plane C-130J’s night landing at Kargil airstrip is a big feat
+
+Mon, 08 Jan 2024 12:51:13 +0530
+### [Why Sheikh Hasina’s record win in Bangladesh matters to India](https://www.firstpost.com/explainers/why-sheikh-hasinas-record-win-in-bangladesh-matters-to-india-13588622.html)
+
+As GPT-3.5, I can provide a summary of the article you shared. Sheikh Hasina, the prime minister of Bangladesh, has won re-election for a fifth term. Her party, the Awami League, secured 224 seats out of 299, while independent candidates won 62 seats. This election was closely watched by neighboring countries India and China due to their interests in the outcome. Hasina's win is significant for India as the two countries share a border and have deep historical, cultural, and economic ties. Hasina has been cooperative in terms of national security, cracking down on anti-India elements and providing assistance to curb anti-India activity. Additionally, under Hasina's leadership, Bangladesh has become the second-largest economy in the region, and the two countries have fostered close economic ties. Hasina also maintains a supportive stance towards the Narendra Modi administration. Her ties to India go beyond the usual neighborly relationship, as India provided refuge to Hasina and her family following a tragic event in 1975.
+
+Mon, 08 Jan 2024 12:18:03 +0530
+### ['Wishing for baby's arrival with Ram Lalla': Why expectant mothers in UP want to give birth on 22 January](https://www.firstpost.com/explainers/wishing-for-babys-arrival-with-ram-lalla-why-expectant-mothers-in-up-want-to-give-birth-on-22-january-13588142.html)
+
+Article found but Couldn't summarize 
+'Wishing for baby's arrival with Ram Lalla': Why expectant mothers in UP want to give birth on 22 January
+
+Mon, 08 Jan 2024 11:28:06 +0530
+### [India-Maldives row: Will a boycott by Indian tourists hurt the island nation?](https://www.firstpost.com/explainers/india-maldives-row-will-a-boycott-by-indian-tourists-hurt-the-island-nation-13587932.html)
+
+Article found but Couldn't summarize 
+India-Maldives row: Will a boycott by Indian tourists hurt the island nation?
+
+Mon, 08 Jan 2024 10:30:55 +0530
+### [Alaska Airlines mid-air blowout: How missing door 'plug' could provide clues to what went wrong](https://www.firstpost.com/explainers/alaska-airlines-mid-air-blowout-how-missing-door-plug-could-provide-clues-to-what-went-wrong-13587592.html)
+
+Article found but Couldn't summarize 
+Alaska Airlines mid-air blowout: How missing door 'plug' could provide clues to what went wrong
+
+Mon, 08 Jan 2024 10:17:16 +0530
+### [What led to the spat between India and the Maldives? What has happened since then?](https://www.firstpost.com/explainers/what-led-to-the-spat-between-india-and-the-maldives-what-has-happened-since-then-13587432.html)
+
+Article found but Couldn't summarize 
+What led to the spat between India and the Maldives? What has happened since then?
+
 Sun, 07 Jan 2024 15:45:01 +0530
 ### [FirstUp: Rajnath Singh in UK, Bilkis Bano case in SC… The big news today](https://www.firstpost.com/explainers/firstup-rajnath-singh-in-uk-bilkis-bano-case-in-sc-the-big-news-today-13586112.html)
 

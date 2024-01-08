@@ -1,3 +1,165 @@
+2024-01-08T23:48:14+05:30
+### [Sitting State Minister Loses Rajasthan Election In Big Setback for BJP](https://thewire.in/politics/bjp-rajasthan-minister-surender-pal-singh-tt-loses-bypoll)
+
+No Article text 
+The BJP had appointed Surender Pal Singh T.T. controversially as a minister in Bhajan Lal Sharma’s cabinet while he was still a candidate for the polls. He lost to the Congress by over 11,000 votes.
+
+2024-01-08T23:05:12+05:30
+### [Today, I Can Breathe Again, Says Bilkis Bano After Landmark Supreme Court Judgement](https://thewire.in/rights/today-i-can-breathe-again-says-bilkis-bano-after-landmark-supreme-court-judgement)
+
+No Article text 
+In a letter issued through her lawyer, Bano thanked the Supreme Court, her family, friends and lawyer as well as the thousands of people who extended their solidarity to her.
+
+2024-01-08T21:48:15+05:30
+### [India-Maldives: Ambassadors Hold Meetings at Foreign Ministries But No Details Made Public](https://thewire.in/diplomacy/india-maldives-ambassadors-hold-meetings-at-foreign-ministries-but-no-details-made-public)
+
+No Article text 
+The developments follow a growing controversy on social media regarding remarks made by Maldivian officials regarding the Indian prime minister.
+
+2024-01-08T20:02:58+05:30
+### [No Final Decision on Seat Sharing As Congress, AAP Hold Talks, Decide to Meet Again](https://thewire.in/politics/congress-aap-meet-no-final-decision-on-seat-sharing)
+
+No Article text 
+The Congress’s national alliance committee convenor Mukul Wasnik said that a final decision will be taken in the coming days.
+
+2024-01-08T18:00:21+05:30
+### [Four Decades of Milking a Deity in Ayodhya](https://thewire.in/communalism/ayodhya-rss-bjp-vhp-ram-temple)
+
+No Article text 
+Ideas birthed in the course of this agitation have completely reconfigured India. But people will one day see through it.
+
+2024-01-08T17:30:54+05:30
+### [DigiYatra: The Promise and Perils of India’s New Airport Biometric System](https://thewire.in/tech/digiyatra-the-promise-and-perils-of-indias-new-airport-biometric-system)
+
+No Article text 
+The biometric face scanning system has sparked concerns and confusion among travellers. Many were uninformed about why their faces were being scanned or why participation was compulsory. This system, already operational in 13 airports, is set to expand nationwide
+
+2024-01-08T17:20:39+05:30
+### [Sony May Call Off Merger Pact with Zee Entertainment Enterprises for Its India Unit: Report](https://thewire.in/business/sony-may-call-off-merger-pact-with-zee-entertainment-enterprises-for-its-india-unit-report)
+
+No Article text 
+Sony is wary of Punit Goenka's appointment given a regulatory probe against him, 'Bloomberg' reported.
+
+2024-01-08T17:00:48+05:30
+### [After Three Devastating Months in Israel-Palestine, Is Anyone 'Winning'?](https://thewire.in/world/after-three-devastating-months-in-israel-palestine-is-anyone-winning)
+
+No Article text 
+Israel has seen limited success in its primary war aims, while Hamas can claim a partial victory because it is still standing. But is the conflict headed towards a stalemate?
+
+2024-01-08T16:00:50+05:30
+### [The Alarming Provisions of India's New Telecommunications Act](https://thewire.in/government/the-alarming-provisions-of-indias-new-telecommunications-act)
+
+No Article text 
+By defining telecommunication services as “any service for telecommunication”, the government may have just opened up the Pandora’s box.
+
+2024-01-08T15:45:19+05:30
+### [Watch | Could Elections Be Postponed in Pakistan And Will They Be Free And Fair?](https://thewire.in/south-asia/karan-thapar-najam-sethi-pakistan-election)
+
+No Article text 
+How should we view Thursday’s resolution passed by the Pakistan Senate calling for elections to be postponed both for security reasons and the cold weather?
+
+2024-01-08T15:30:07+05:30
+### [What Does BJP's Outreach to Minority Communities Mean for the Opposition?](https://thewire.in/politics/what-does-bjps-outreach-to-minority-communities-mean-for-the-opposition)
+
+No Article text 
+The BJP may or may not get a sizeable winning vote bank from this outreach, but it may help it prevent the wholesale transfer of these votes en bloc to the opposition.
+
+2024-01-08T15:00:55+05:30
+### [What Unites the Air of Asia's Cities? An Invisible Killer](https://thewire.in/environment/what-unites-the-air-of-asias-cities-an-invisible-killer)
+
+No Article text 
+The accessibility of emission control technologies has become more affordable and easier than ever. It is crucial to learn from past mistakes and take action now to prevent an imminent health crisis in these rapidly growing cities.
+
+2024-01-08T14:30:06+05:30
+### [Cousins Allegedly Assaulted in Karnataka After Mob Assumes They Are an Interfaith Couple](https://thewire.in/communalism/cousins-allegedly-assaulted-in-karnataka-after-mob-assumes-they-are-an-interfaith-couple)
+
+No Article text 
+Nine of the 17 accused – including two minors – are now reportedly in police custody.
+
+2024-01-08T14:00:40+05:30
+### [Atal Bihari Vajpayee in 1992: ‘What Happened on December 6 at Ayodhya Should Not Have Happened at All'](https://thewire.in/communalism/atal-bihari-vajpayee-interview-ayodhya-1992)
+
+No Article text 
+In a video interview in December 1992, the very month when the Babri Masjid was demolished, Vajpayee, then a BJP MP, had explained why he disagreed with his party on Ayodhya issues and wanted to resign. Also, he said that Kashi and Mathura were decidedly not on the ‘agenda’.
+
+2024-01-08T14:00:01+05:30
+### [INDIA Bloc Is ‘Running Out of Time and Ideas’: JD(U) Leader on No Decision on Convenor Appointment](https://thewire.in/politics/india-bloc-is-running-out-of-time-and-ideas-jdu-leader-on-no-decision-on-convenor-appointment)
+
+No Article text 
+JD(U) chief national spokesperson K.C. Tyagi said that the Congress has to show urgency to see a vibrant INDIA bloc.
+
+2024-01-08T13:30:02+05:30
+### ['Celebrity Engagements': Film and Sports Personalities Endorse Lakshadweep in Unison](https://thewire.in/government/lakshadweep-hardik-pandya-salman-khan-tweets-maldvies-rijiju)
+
+No Article text 
+Amidst controversy with Maldives, the hashtag #ExploreIndianIslands was made to trend and celebrities began tweeting what appeared to be raging endorsements of the Indian UT.
+
+2024-01-08T13:00:56+05:30
+### [Another Gunfight Reported in Manipur’s Moreh, Locals Accuse State Police of Bias](https://thewire.in/security/another-gunfight-reported-in-manipurs-moreh-locals-accuse-state-police-of-bias)
+
+No Article text 
+The gunfight on Sunday is said to have begun at 9 pm and no casualties have been reported so far.
+
+2024-01-08T12:30:14+05:30
+### [Nehru-Patel Treated China as Equal, Modi Has Conceded a Power Differential](https://thewire.in/diplomacy/nehru-patel-treated-china-as-equal-modi-has-conceded-a-power-differential)
+
+No Article text 
+By not allowing the border issue, with China occupying newly acquired territory along the so-called "Line of Actual Control", to further mar the relationship, Prime Minister Modi has yielded space and conceded ground.
+
+2024-01-08T12:00:44+05:30
+### [Southern States Should Retain ‘Slightly Larger Portion’ of Funds From Centre: Arvind Subramanian](https://thewire.in/government/southern-states-should-retain-slightly-larger-portion-of-funds-from-centre-arvind-subramanian)
+
+No Article text 
+The former CEA's remarks come amid concerns among southern states that their allocation from the Union government has diminished over the years.
+
+2024-01-08T11:49:05+05:30
+### [India May Have Missed Its Passenger Vehicle Fuel Efficiency Targets for FY23](https://thewire.in/environment/india-may-have-missed-its-passenger-vehicle-fuel-efficiency-targets-for-fy23)
+
+No Article text 
+The public disclosure of last year’s corporate average fuel economy or CAFE score has been delayed.
+
+2024-01-08T11:07:54+05:30
+### [CJI Invokes 'Dhwaja' on Temples to Serve as Inspiration for Courts, Draws Attention](https://thewire.in/law/cji-invokes-dhwaja-on-temples-to-serve-as-inspiration-for-courts-draws-attention)
+
+No Article text 
+PM Narendra Modi shared Chief Justice D.Y. Chandrachud’s speech as an example of understanding Rajkot “very well!” Public intellectuals have raised serious questions over the implications of such statements.
+
+2024-01-08T10:59:58+05:30
+### [SC Quashes Gujarat Govt's Release of Bilkis Bano Convicts, Orders Their Return to Prison](https://thewire.in/law/bilkis-bano-supreme-court-gujarat-not-competent-remission)
+
+No Article text 
+The SC said the state of Gujarat 'acted in complicity with the convicts' and noted that 'it was this very apprehension which led this court to transfer the trial out of the state' to Maharashtra.
+
+2024-01-08T10:48:30+05:30
+### [In a Winter of Extreme Power Shortage, Plan to Lease Electricity to Rajasthan Causes Outrage in J&K](https://thewire.in/politics/in-a-winter-of-extreme-power-shortage-plan-to-lease-electricity-to-rajasthan-causes-outrage-in-jk)
+
+No Article text 
+The Ratle Hydro Electric Power Corporation Limited, a joint venture between NHPC Limited and the J&amp;K State Power Development Corporation, entered into a 40-year power purchase agreement with the Rajasthan Urja Vikas and IT Services Limited.
+
+2024-01-08T09:37:35+05:30
+### [All of What an Obliging Media Has Avoided Mentioning About Narendra Modi's Thrissur Rally](https://thewire.in/politics/modi-thrissur-shiv-temple-security)
+
+No Article text 
+From felling trees for security, to locking up elephants, to paralysing the city, to missing the mark with his address, Modi's visit was an interesting one.
+
+2024-01-08T09:06:52+05:30
+### [A Reality Check on 'Hindu India', Filled With Despair But With a Flicker of Hope](https://thewire.in/books/review-being-muslim-in-hindu-india)
+
+No Article text 
+Ziya Us Salam's 'Being Muslim in Hindu India' paints a clear, searing picture of a community increasingly under siege from Hindutva forces that have overrun large parts of the country.
+
+2024-01-08T08:32:44+05:30
+### [With Opposition Boycott and 40% Turnout, Sheikh Hasina Wins Bangladesh Election](https://thewire.in/south-asia/with-opposition-boycott-and-40-turnout-sheikh-hasina-wins-bangladesh-election)
+
+No Article text 
+Prime Minister Sheikh Hasina's party won the most seats in the country's general election, which was boycotted by the main opposition party and their allies.
+
+2024-01-08T07:00:57+05:30
+### [Truckers' Strike Exposed How Hollow a Law Passed Without Consultation Is](https://thewire.in/government/truckers-strike-exposes-how-hollow-a-law-passed-without-consultation-is)
+
+No Article text 
+This lesson should already have been learnt from the contentious farm laws and their repeal.
+
 2024-01-07T20:00:59+05:30
 ### [A Mood For Murder | Episode 6: Milk Cake With Tetrapak Lassi (Cast the Net Wide, When Doing Tafteesh)](https://thewire.in/fiction/a-mood-for-murder-episode-6-tetrapak-lassi)
 
