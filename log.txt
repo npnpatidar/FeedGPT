@@ -3839,3 +3839,10 @@ Started at 2024-01-08 23:08:50
 Finished at 2024-01-08 23:10:59
 Total time taken: 129.26790642738342 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-01-09 00:38:28
+1 Feed entries have been written to feeds/Explained_IE.xml
+1 Feed entries have been written to feeds/Explain_FP.xml
+2 new entries have been added
+Finished at 2024-01-09 00:38:59
+Total time taken: 30.80132007598877 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
