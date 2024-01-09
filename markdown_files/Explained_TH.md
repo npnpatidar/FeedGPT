@@ -1,3 +1,9 @@
+Tue, 09 Jan 2024 10:30:00 +0530
+### [The government has trapped Project Tiger, now 50, in a tough spot | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/project-tiger-50-years-forest-rights-act-legal-crossfire-conflict-explained/article67715863.ece)
+
+Article found but Couldn't summarize 
+Violations of the Wildlife (Protection) Act and the Forest Rights Act have exacerbated conflicts in Tiger Reserves between the forest bureaucracy and forest-dwellers
+
 Mon, 08 Jan 2024 22:36:34 +0530
 ### [Debating India’s new hit-and-run law | Explained](https://www.thehindu.com/news/national/debating-indias-new-hit-and-run-law-explained/article67720776.ece)
 

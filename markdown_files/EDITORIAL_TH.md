@@ -1,3 +1,15 @@
+Wed, 10 Jan 2024 00:30:00 +0530
+### [Good growth, low demand: On the NSO projection](https://www.thehindu.com/opinion/editorial/good-growth-low-demand-the-hindu-editorial-on-the-nso-projection/article67722676.ece)
+
+Article found but Couldn't summarize 
+Government spending seems to be propping up growth
+
+Wed, 10 Jan 2024 00:15:00 +0530
+### [Investor confidence: On the two-day Tamil Nadu Global Investors Meet, GIM 2024](https://www.thehindu.com/opinion/editorial/investor-confidence-the-hindu-editorial-on-the-two-day-tamil-nadu-global-investors-meet-gim-2024/article67723529.ece)
+
+Article found but Couldn't summarize 
+Tamil Nadu must match its growth aspirations with action on the ground
+
 Tue, 09 Jan 2024 00:30:00 +0530
 ### [Unlawful remission: On the Bilkis Bano case](https://www.thehindu.com/opinion/editorial/unlawful-remission-the-hindu-editorial-on-the-bilkis-bano-case/article67719957.ece)
 

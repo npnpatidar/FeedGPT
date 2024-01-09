@@ -1,3 +1,38 @@
+Tue, 09 Jan 2024 17:25:34 +0000
+### [Why 2023 was the warmest year ever, and what happens now](https://indianexpress.com/article/explained/explained-climate/why-2023-was-the-warmest-year-ever-9102355/)
+
+According to the article, 2023 was the warmest year on record since 1850, surpassing the previous record set in 2016. Temperatures in 2023 likely exceeded those of any year-long period in at least the last 100,000 years. Rising temperatures in 2023 led to numerous extreme weather events worldwide, including heatwaves, floods, droughts, and wildfires. The main driver behind this extreme warming is the increasing concentration of greenhouse gases in the atmosphere, primarily caused by human activities such as burning fossil fuels. It is suggested that 2024 could be even hotter than 2023, and there is a possibility of surpassing the 1.5 degree Celsius warming threshold for the entire calendar year.
+
+Tue, 09 Jan 2024 15:17:15 +0000
+### [Gabriel Attal: Who is the new PM of France, what changes with his appointment](https://indianexpress.com/article/explained/explained-global/gabriel-attal-new-pm-france-what-changes-9102260/)
+
+As GPT-3.5, I can summarize the article for you. France's President Emmanuel Macron has appointed Gabriel Attal as the new Prime Minister, making him the youngest person to hold the post at the age of 34. This decision comes after the resignation of the previous Prime Minister, Elisabeth Borne. Macron's appointment of Attal is seen as an effort to rejuvenate his government ahead of the European Union Parliament elections, where his ratings have been trailing. Attal, who previously served as the Minister of Education, is a popular figure both within the ruling coalition and in opposition circles. He is also France's first openly gay Prime Minister. While the President holds greater powers in France's political system, Attal's personal popularity and energy may help the Macron government overcome recent challenges and move forward. It is worth noting that there are other serving gay Prime Ministers in the world, such as Ana Brnabić of Serbia, Leo Varadkar of Ireland, and Xavier Bettel, the former Prime Minister of Luxembourg.
+
+Tue, 09 Jan 2024 13:42:21 +0000
+### [Politics and piracy: How Houthi attacks in Red Sea are different from the earlier Somali hijackings](https://indianexpress.com/article/explained/everyday-explainers/houthi-attacks-red-sea-somali-piracy-hijacking-comparison-9102168/)
+
+The article discusses the ongoing attacks by Yemen's Houthi militia on merchant ships in the Red Sea. These attacks have raised concerns about potential disruptions to global supply chains, as shipping firms face the choice between higher insurance premiums for the risky Red Sea route or taking the longer and costlier route around the Cape of Good Hope. A US-led force has been deployed in the Red Sea to counter these attacks, but the dangers to shipping persist. The Houthis have targeted certain types of ships, particularly automobile carriers, while generally leaving oil tankers alone. The article also mentions the Houthis' support for Hamas and their links to Iran. It highlights the decline in piracy in the Gulf of Aden since 2016 due to international efforts in military cooperation and intelligence-sharing.
+
+Tue, 09 Jan 2024 11:31:58 +0000
+### [Alaska Airlines flight’s mid-air door blowout: Other cases of ‘explosive decompression’](https://indianexpress.com/article/explained/alaska-airlines-flight-door-blowout-other-cases-9101827/)
+
+Article found but Couldn't summarize
+
+Tue, 09 Jan 2024 06:41:21 +0000
+### [Why Bilkis rapists have been sent back to jail: 5 key questions the SC considered and answered](https://indianexpress.com/article/explained/explained-law/bilkis-bano-rapists-jail-supreme-court-remission-explained-9101311/)
+
+Article found but Couldn't summarize
+
+Tue, 09 Jan 2024 02:30:35 +0000
+### [First US lunar lander since 1972 launched: The mission, significance](https://indianexpress.com/article/explained/explained-sci-tech/private-us-spacecraft-land-moon-9100677/)
+
+As GPT-3.5, I can summarize the article for you. A private US company has launched a spacecraft carrying scientific instruments from NASA with the goal of becoming the first US spacecraft to land on the Moon in over 50 years. The mission is part of NASA's Commercial Lunar Payload Services (CLPS) initiative, which involves private space companies in the Artemis program for lunar exploration. The spacecraft, called Peregrine, developed technical problems after launch, but the company is working to rectify them. The mission aims to reach the Moon on February 23 and will carry out various exploratory activities, including detecting water. The payloads will remain active for ten days after landing. This mission marks a significant step in the US's return to the Moon and its plans for longer stays and establishing a permanent base camp. NASA is collaborating with the private sector through the CLPS initiative to leverage American companies for lunar exploration. This launch is the first under the CLPS initiative and is seen as a giant leap for humanity.
+
+Tue, 09 Jan 2024 02:00:41 +0000
+### [Bilkis Bano Case Updates: Remission quashed, what now for the convicts?](https://indianexpress.com/article/explained/explained-law/bilkis-bano-case-supreme-court-verdict-gujarat-government-convicts-remission-9100819/)
+
+Article found but Couldn't summarize
+
 Mon, 08 Jan 2024 22:40:52 +0000
 ### [Bilkis Bano case: What next? Ball in BJP-led Maharashtra Govt’s court](https://indianexpress.com/article/explained/bilkis-bano-case-what-next-ball-in-bjp-led-maharashtra-govts-court-9100842/)
 

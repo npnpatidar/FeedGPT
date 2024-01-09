@@ -1,3 +1,27 @@
+Tue, 09 Jan 2024 18:58:19 +0530
+### [Beyond the Lines | Chronicle of a Year Foretold: Chinese Checkers, Global Economy and Elections in 2024](https://www.firstpost.com/opinion/beyond-the-lines-chronicle-of-a-year-foretold-chinese-checkers-global-economy-and-elections-in-2024-13594102.html)
+
+Article found but Couldn't summarize 
+Beyond the Lines | Chronicle of a Year Foretold: Chinese Checkers, Global Economy and Elections in 2024
+
+Tue, 09 Jan 2024 17:15:38 +0530
+### [Diplomatic tightrope: Decoding India-US ties in the shadow of Khalistan issue and Jaishankar's Moscow visit](https://www.firstpost.com/opinion/diplomatic-tightrope-decoding-india-us-ties-in-the-shadow-of-khalistan-issue-and-jaishankars-moscow-visit-13592912.html)
+
+Article found but Couldn't summarize 
+Diplomatic tightrope: Decoding India-US ties in the shadow of Khalistan issue and Jaishankar's Moscow visit
+
+Tue, 09 Jan 2024 12:37:12 +0530
+### [Social media turmoil underscores India's importance for Maldives; Muizzu’s 'India Out' campaign must take a backseat](https://www.firstpost.com/opinion/social-media-turmoil-underscores-indias-importance-for-maldives-muizzus-india-out-campaign-must-take-a-backseat-13591982.html)
+
+Article found but Couldn't summarize 
+Social media turmoil underscores India's importance for Maldives; Muizzu’s 'India Out' campaign must take a backseat
+
+Tue, 09 Jan 2024 10:38:20 +0530
+### [New legal system for Bharat: By India, for India and of India](https://www.firstpost.com/opinion/new-legal-system-for-bharat-by-india-for-india-and-of-india-13591702.html)
+
+Article found but Couldn't summarize 
+New legal system for Bharat: By India, for India and of India
+
 Mon, 08 Jan 2024 16:38:27 +0530
 ### [Japan aircraft runway collision: Aviation is safe, but we need to learn lessons](https://www.firstpost.com/opinion/japan-aircraft-runway-collision-aviation-is-safe-but-we-need-to-learn-lessons-13589672.html)
 

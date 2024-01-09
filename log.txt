@@ -3846,3 +3846,18 @@ Started at 2024-01-09 00:38:28
 Finished at 2024-01-09 00:38:59
 Total time taken: 30.80132007598877 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-01-09 23:08:03
+7 Feed entries have been written to feeds/Explained_IE.xml
+13 Feed entries have been written to feeds/Explain_FP.xml
+1 Feed entries have been written to feeds/Explained_TH.xml
+8 Feed entries have been written to feeds/Opinion_IE.xml
+4 Feed entries have been written to feeds/Opinion_FP.xml
+11 Feed entries have been written to feeds/Opinion_Mint.xml
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+1 Feed entries have been written to feeds/Column_TH.xml
+24 Feed entries have been written to feeds/The_Wire.xml
+2 Feed entries have been written to feeds/Movie_Review_TH.xml
+73 new entries have been added
+Finished at 2024-01-09 23:11:35
+Total time taken: 212.34996247291565 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

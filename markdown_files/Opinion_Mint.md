@@ -1,3 +1,72 @@
+Wed, 10 Jan 2024 00:23:43 +0530
+### [Medical micro-robots would require carefully crafted regulatory oversight](https://www.livemint.com/opinion/online-views/medical-micro-robots-would-require-carefully-crafted-regulatory-oversight-11704807149714.html)
+
+Article found but Couldn't summarize 
+Tiny new health devices that can be inserted in our bodies are on their way and will need wise regulation.
+
+Wed, 10 Jan 2024 00:12:51 +0530
+### [Governments should nudge us towards sustainable lifestyles](https://www.livemint.com/opinion/online-views/governments-should-nudge-us-towards-sustainable-lifestyles-11704807095949.html)
+
+Article found but Couldn't summarize 
+Policymakers should not shy away from pushing us the right way. Good policy will not unfairly burden those who can least afford it, but will make green options a no-brainer.
+
+Tue, 09 Jan 2024 23:50:59 +0530
+### [India's fiscal policy over the past five years has much to commend it](https://www.livemint.com/opinion/online-views/indias-fiscal-policy-over-the-past-five-years-has-much-to-commend-it-11704807057984.html)
+
+Article found but Couldn't summarize 
+More transparent accounting, a calibrated policy approach and relatively realistic assumptions have resulted in credible Union budgets. These have done a worthy job under tough circumstances, although our public debt burden now requires reduction.
+
+Tue, 09 Jan 2024 23:46:34 +0530
+### [China aims for a quality boost as its economy recovers](https://www.livemint.com/opinion/online-views/china-aims-for-a-quality-boost-as-its-economy-recovers-11704813534179.html)
+
+Article found but Couldn't summarize 
+Its aim has shifted from high speed to high-quality development and is ready for renewed growth.
+
+Tue, 09 Jan 2024 14:00:14 +0530
+### [The secret sauce of India’s climate march](https://www.livemint.com/opinion/first-person/the-secret-sauce-of-india-s-climate-march-11704780244691.html)
+
+Article found but Couldn't summarize 
+India has been quick to recognize that the complexity of climate actions demand a synchronised orchestration of the will and might of government and business
+
+Tue, 09 Jan 2024 12:57:25 +0530
+### [Are politicians brave enough for daredevil economics?](https://www.livemint.com/opinion/online-views/are-politicians-brave-enough-for-daredevil-economics-11704784483438.html)
+
+Article found but Couldn't summarize 
+New research shows rapid liberalisation offers growth, along with initial pain
+
+Tue, 09 Jan 2024 12:33:31 +0530
+### [Not all corporate marriages are made in heaven](https://www.livemint.com/opinion/online-views/not-all-corporate-marriages-are-made-in-heaven-11704779323185.html)
+
+Article found but Couldn't summarize 
+Sony and Zee's troubled alliance reveals the complexities and mismatched objectives in high-stakes business deals, underscoring the importance of strategic partner-selection
+
+Tue, 09 Jan 2024 11:19:58 +0530
+### [Sebi has only taken baby steps towards full-fledged short selling](https://www.livemint.com/opinion/online-views/sebi-has-only-taken-baby-steps-towards-full-fledged-short-selling-11704778870207.html)
+
+Article found but Couldn't summarize 
+The regulator’s recent circular gave institutions permission to short stocks and proposed a borrowing &amp;amp; lending scheme to facilitate this. But requiring institutions to disclose their short trades upfront will leave them vulnerable to short squeezes.
+
+Tue, 09 Jan 2024 08:00:06 +0530
+### [Mutual funds have held strong](https://www.livemint.com/opinion/quick-edit/mutual-funds-have-held-strong-11704730545944.html)
+
+The article discusses the increasing participation of retail investors in the Indian markets, despite concerns from big investors due to high valuations. In December, investments through systematic investment plans (SIPs) reached ₹17,610 crore, surpassing the previous month's ₹17,073 crore. The total assets under management of India's mutual fund industry also surpassed ₹50 trillion, with the last ₹10 trillion added in just over a year compared to several decades for the first ₹10 trillion.
+
+The rising involvement of retail investors contributes to the depth of India's financial markets and provides a buffer against volatile foreign inflows. However, the true test for these investors will be their response during a significant market downturn, as the stock indices have been consistently rising for a long time.
+
+Although the country's economic fundamentals are strong, stretched valuations in certain areas could lead to profit-taking. Additionally, there is a surge in foreign investors buying Indian shares, possibly due to expectations of a pre-budget or pre-election rally, which could also involve speculation.
+
+Tue, 09 Jan 2024 08:00:05 +0530
+### [India's neighbours have a democracy deficit](https://www.livemint.com/opinion/indias-neighbours-have-a-democracy-deficit-11704729913901.html)
+
+Article found but Couldn't summarize 
+Sheikh Hasina’s win in Bangladesh was hollow as it was opposition-free while Pakistan’s polls may be headed for a farce with Imran Khan’s party in fetters. This isn’t good for India.
+
+Tue, 09 Jan 2024 08:00:05 +0530
+### [Here are five essential skills that can make a business leader stand out](https://www.livemint.com/opinion/online-views/here-are-five-essential-skills-that-can-make-a-business-leader-stand-out-11704730173665.html)
+
+Article found but Couldn't summarize 
+Leaders who inspire and transform are usually set apart by their mastery of not-so-obvious traits. They read voraciously, perfect the art of writing, learn new languages, make quick calculations and make it a point to remember names.
+
 Tue, 09 Jan 2024 01:58:32 +0530
 ### [The UAE-India partnership has a new catalyst in play](https://www.livemint.com/opinion/online-views/the-uae-india-partnership-has-a-new-catalyst-in-play-11704730262783.html)
 

@@ -1,3 +1,15 @@
+Tue, 09 Jan 2024 14:47:58 +0530
+### [Sanjay Subrahmanyan’s concert was an experience that stayed with the listeners](https://www.thehindu.com/entertainment/music/sanjay-subrahmanyans-concert-was-an-experience-that-remained-with-the-rasikas/article67722645.ece)
+
+Article found but Couldn't summarize 
+Sanjay Subrahmanyan embellished his concert with lesser-heard ragas and kritis
+
+Tue, 09 Jan 2024 12:35:15 +0530
+### [‘Good Grief’ movie review: Daniel Levy’s directorial debut is a mellow meditation of grief and healing](https://www.thehindu.com/entertainment/movies/good-grief-movie-review-daniel-levys-directorial-debut-is-a-mellow-meditation-of-grief-and-healing/article67720056.ece)
+
+Article found but Couldn't summarize 
+While not an exercise in laceration, the lovely looking, well-acted film is a gentle dissertation on love and friendship
+
 Sun, 07 Jan 2024 21:24:04 +0530
 ### [‘The Brothers Sun’ series review: Michelle Yeoh leads an action-filled crime-family drama with hilarious performances](https://www.thehindu.com/entertainment/movies/the-brothers-sun-series-review-michelle-yeoh-leads-an-action-filled-crime-family-drama-with-hilarious-performances/article67715710.ece)
 

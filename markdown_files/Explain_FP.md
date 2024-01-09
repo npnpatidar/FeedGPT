@@ -1,3 +1,81 @@
+Tue, 09 Jan 2024 20:17:36 +0530
+### [He banned abayas in schools, is openly gay: Meet Gabriel Attal, France’s youngest PM](https://www.firstpost.com/explainers/gabriel-attal-frances-youngest-pm-openly-gay-banned-abayas-in-schools-13594452.html)
+
+Article found but Couldn't summarize 
+He banned abayas in schools, is openly gay: Meet Gabriel Attal, France’s youngest PM
+
+Tue, 09 Jan 2024 19:40:07 +0530
+### [Say No to Plastic: How safe is bottled water?](https://www.firstpost.com/explainers/every-drop-matters-how-safe-is-bottled-water-13593852.html)
+
+Article found but Couldn't summarize 
+Say No to Plastic: How safe is bottled water?
+
+Tue, 09 Jan 2024 19:09:43 +0530
+### [CCTV footage, bloodstains, clever cabbie: How cops nabbed CEO who killed son](https://www.firstpost.com/explainers/cctv-footage-bloodstains-clever-cabbie-how-cops-nabbed-ceo-who-killed-son-13594342.html)
+
+Article found but Couldn't summarize 
+CCTV footage, bloodstains, clever cabbie: How cops nabbed CEO who killed son
+
+Tue, 09 Jan 2024 17:34:17 +0530
+### [Disappearing Act: Why Kashmir’s Gulmarg is snowless this winter](https://www.firstpost.com/explainers/why-kashmirs-gulmarg-is-snowless-this-winter-13593862.html)
+
+Article found but Couldn't summarize 
+Disappearing Act: Why Kashmir’s Gulmarg is snowless this winter
+
+Tue, 09 Jan 2024 17:31:24 +0530
+### [How Indian Navy’s warships are battling pirates, drones in the Arabian Sea](https://www.firstpost.com/explainers/how-indian-navys-warships-are-battling-pirates-drones-in-the-arabian-sea-13593402.html)
+
+Article found but Couldn't summarize 
+How Indian Navy’s warships are battling pirates, drones in the Arabian Sea
+
+Tue, 09 Jan 2024 16:57:34 +0530
+### [In Graphics  | Ahead of Ram Mandir opening, retracing the journey of Ram and Sita](https://www.firstpost.com/explainers/in-graphics-ahead-of-ram-mandir-opening-retracing-the-journey-of-ram-and-sita-13593772.html)
+
+Article found but Couldn't summarize 
+In Graphics  | Ahead of Ram Mandir opening, retracing the journey of Ram and Sita
+
+Tue, 09 Jan 2024 16:34:26 +0530
+### [What is Israel's 'new phase' of war against Hamas?](https://www.firstpost.com/explainers/what-is-israels-new-phase-of-war-against-hamas-13593682.html)
+
+Article found but Couldn't summarize 
+What is Israel's 'new phase' of war against Hamas?
+
+Tue, 09 Jan 2024 16:09:09 +0530
+### [Who is Suchana Seth, the Bengaluru CEO who allegedly killed 4-year-old son?](https://www.firstpost.com/explainers/goa-shocker-how-bengaluru-ceo-killed-her-4-year-old-son-and-carried-his-body-in-a-bag-13592342.html)
+
+Article found but Couldn't summarize 
+Who is Suchana Seth, the Bengaluru CEO who allegedly killed 4-year-old son?
+
+Tue, 09 Jan 2024 14:40:36 +0530
+### [Want to visit Lakshadweep? Here’s why even Indians need permission](https://www.firstpost.com/explainers/want-to-visit-lakshadweep-heres-why-even-indians-need-permission-13592892.html)
+
+Article found but Couldn't summarize 
+Want to visit Lakshadweep? Here’s why even Indians need permission
+
+Tue, 09 Jan 2024 14:37:09 +0530
+### [An Ally in Need: How India has always been the ‘first responder’ to Maldives](https://www.firstpost.com/explainers/india-maldives-row-new-delhi-male-ties-first-responder-13592712.html)
+
+Article found but Couldn't summarize 
+An Ally in Need: How India has always been the ‘first responder’ to Maldives
+
+Tue, 09 Jan 2024 12:53:25 +0530
+### [Bilkis Bano’s rapists ordered to return to prison: Why this isn’t the end of the matter](https://www.firstpost.com/explainers/bilkis-banos-rapists-ordered-to-return-to-prison-why-this-isnt-the-end-of-the-matter-13592212.html)
+
+Article found but Couldn't summarize 
+Bilkis Bano’s rapists ordered to return to prison: Why this isn’t the end of the matter
+
+Tue, 09 Jan 2024 11:11:12 +0530
+### [Haryana Horror: How 500 women students at a university were sexually harassed by a professor for months](https://www.firstpost.com/explainers/haryana-horror-how-500-women-students-at-a-university-were-sexually-harassed-by-a-professor-for-months-13591402.html)
+
+Article found but Couldn't summarize 
+Haryana Horror: How 500 women students at a university were sexually harassed by a professor for months
+
+Tue, 09 Jan 2024 09:46:41 +0530
+### [How PM Modi’s visit has been a blessing to Lakshadweep](https://www.firstpost.com/explainers/how-pm-narendra-modis-visit-has-been-a-blessing-to-lakshadweep-13591352.html)
+
+Article found but Couldn't summarize 
+How PM Modi’s visit has been a blessing to Lakshadweep
+
 Mon, 08 Jan 2024 21:32:16 +0530
 ### [FirstUp: PM Modi roadshow, SC to hear Shahi Idgah plea, CES 2024 begins in Vegas... today's top stories](https://www.firstpost.com/explainers/firstup-pm-modi-roadshow-sc-to-hear-shahi-idgah-plea-ces-2024-begins-in-vegas-todays-top-stories-13590752.html)
 

@@ -1,3 +1,43 @@
+Tue, 09 Jan 2024 12:07:10 +0000
+### [Oppenheimer sweeps Golden Globes: The atomic bomb and two verses from the Bhagavad Gita](https://indianexpress.com/article/opinion/columns/oppenheimer-golden-globes-atomic-bomb-two-verses-bhagavad-gita-9101986/)
+
+Article found but Couldn't summarize
+
+Tue, 09 Jan 2024 10:42:06 +0000
+### [C Raja Mohan writes: Four guidelines for Indians to understand Trump vs Biden](https://indianexpress.com/article/opinion/columns/four-guidelines-for-indians-to-understand-trump-vs-biden-9101816/)
+
+Article found but Couldn't summarize
+
+Tue, 09 Jan 2024 08:32:20 +0000
+### [In 2024, the international order is changing — economically and strategically](https://indianexpress.com/article/opinion/columns/in-2024-the-international-order-is-changing-economically-and-strategically-9101504/)
+
+Article found but Couldn't summarize
+
+Tue, 09 Jan 2024 02:30:03 +0000
+### [January 09, Forty Years Ago: Election action plan](https://indianexpress.com/article/opinion/40-years-ago/january-09-forty-years-ago-election-action-plan-9100786/)
+
+Article found but Couldn't summarize
+
+Tue, 09 Jan 2024 02:30:01 +0000
+### [JPS Uberoi: His writings are history, his conversations heritage](https://indianexpress.com/article/opinion/columns/professor-j-p-s-uberoi-aphorism-abrahamic-religions-sociology-discipline-in-india-9100753/)
+
+Article found but Couldn't summarize
+
+Tue, 09 Jan 2024 02:25:16 +0000
+### [Express View on Golden Globes: Roll up the red carpet](https://indianexpress.com/article/opinion/editorials/express-view-on-golden-globes-roll-up-the-red-carpet-9100779/)
+
+The 2024 Golden Globe awards had a few standout moments, such as Lily Gladstone becoming the first indigenous person to win Best Actress in a Motion Picture (Drama) for her role in Killers of the Flower Moon. Ali Wong also made history as the first woman of Asian descent to win Best Actress for the limited series Beef. However, the overall ceremony lacked surprises and was overshadowed by an awkward opening monologue by host Jo Koy. This has led to discussions about whether the traditional glamorous award ceremony is losing its appeal, especially considering the declining viewership ratings in recent years. One major issue is the predictability of the winners, with films like Oppenheimer and shows like Succession racking up awards as expected. The excitement of discovering hidden gems has been taken over by social media and streaming service recommendation algorithms. The difficulty in securing a host, as demonstrated by the last-minute selection, further suggests a need to reevaluate the event. Perhaps it's time to reconsider the significance of red carpet events.
+
+Tue, 09 Jan 2024 02:15:59 +0000
+### [Jean Drèze and Christian Oldiges write: India’s great grain mystery](https://indianexpress.com/article/opinion/columns/grain-foodgrains-consumptions-cereal-production-cereal-consumption-requirements-per-capita-cereal-consumption-9100752/)
+
+Article found but Couldn't summarize
+
+Tue, 09 Jan 2024 02:14:54 +0000
+### [Express View on Bangladesh elections: Sheikh Hasina, again](https://indianexpress.com/article/opinion/editorials/express-view-on-bangladesh-elections-sheikh-hasina-again-9100774/)
+
+Article found but Couldn't summarize
+
 Mon, 08 Jan 2024 14:41:38 +0000
 ### [Express View on India-Maldives row: Dangers of hypernationalism on both sides](https://indianexpress.com/article/opinion/editorials/india-maldives-row-hypernationalism-9100566/)
 

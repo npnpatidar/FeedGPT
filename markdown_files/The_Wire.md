@@ -1,3 +1,147 @@
+2024-01-09T21:08:22+05:30
+### [In Her Own Words: What Bilkis Bano Went Through in 2002](https://thewire.in/rights/in-her-own-words-what-bilkis-bano-went-through-in-2002)
+
+No Article text 
+Given the rather glaring trajectory of the case, it is crucial that we re-visit and read Bilkis's tale in her words.
+
+2024-01-09T20:00:54+05:30
+### [BJP Govt in UP Told 'Whole World' They'd Protect Babri Masjid: PM Narasimha Rao in 1992](https://thewire.in/communalism/pm-narasimha-rao-babri-masjid)
+
+No Article text 
+P.V. Narasimha Rao, who was at the helm of affairs when the Babri Masjid was demolished in 1992 – an act termed 'egregious' by the Supreme Court in November 2019 – gave his first interview after the demolition to Karan Thapar.
+
+2024-01-09T19:40:20+05:30
+### [‘Temple Belongs to Ramanand Sect, Not to Sanyasis, Shaiva or Shakta’: Champat Rai’s Remarks Draw Ire](https://thewire.in/politics/its-a-ram-mandir-ramanand-tradition-to-be-followed-temple-trusts-secy-remarks-draw-criticism)
+
+No Article text 
+Shankaracharya Nishchalananda Saraswati, who had confirmed that he would not be going to Ayodhya for the January 22 event, criticised general secretary of the Ram temple trust Champat Rai's remarks, advising him not to diminish his stature while holding a position of power.
+
+2024-01-09T19:30:14+05:30
+### [Rising Thali Cost, Muted FMCG Growth, Booming Luxury Sales: Why the K-Shaped Recovery Still Stands](https://thewire.in/economy/rising-thali-cost-muted-fmcg-growth-booming-luxury-sales-why-the-k-shaped-recovery-still-stands)
+
+No Article text 
+A vegetarian thali was costlier yearly by 12% in December. Luxury housing sales are booming, but in contrast, the affordable and low-cost housing segment has witnessed a decline in volume in 2023. In addition, FMCG sales growth remain subdued.
+
+2024-01-09T18:45:46+05:30
+### [Vijayakanth's Political Journey Was a Blend of Aspiration, Courage, Mistakes and Harsh Realities](https://thewire.in/politics/vijayakanth-an-apparent-enigma-in-tamil-nadus-politics)
+
+No Article text 
+The recently passed film star-turned-politician's efforts illuminate the electoral arena's receptiveness to charismatic leaders while also underscoring the importance of building robust party structures.
+
+2024-01-09T18:15:20+05:30
+### [Why the Defence Minister’s Visit to the UK Could Be Pivotal](https://thewire.in/diplomacy/why-the-defence-ministers-visit-to-the-uk-could-be-pivotal)
+
+No Article text 
+No significant India-UK collaboration regarding defence capabilities has occurred as yet.
+
+2024-01-09T17:45:17+05:30
+### [Andhra Pradesh Is a Political Pesarattu in the Making](https://thewire.in/politics/andhra-pradesh-in-flux-political-pesarattu-in-the-making)
+
+No Article text 
+Amidst all the political churn, the BJP, too, has remained unsuccessful in making inroads in the state.
+
+2024-01-09T17:35:21+05:30
+### [Ustad Rashid Khan Passes Away at 55](https://thewire.in/the-arts/ustad-rashid-khan-passes-away-at-55)
+
+No Article text 
+The musician was on ventilation support. His health condition deteriorated following a cerebral attack last month.
+
+2024-01-09T16:00:58+05:30
+### [This Isn't Time for Confusion, Opposition Should Use Their January 22 Ayodhya Invitations Well](https://thewire.in/communalism/ayodhya-january-22-modi-opposition)
+
+No Article text 
+They will be rewarded for courage and ability to call out the BJP’s aim of politicising religion. Lining up behind as Modi as he behaves as 'yajman' won’t win them votes, but will be a mockery of the country as a whole.
+
+2024-01-09T16:00:29+05:30
+### [Germany’s World Cup-Winning Player, Coach Franz Beckenbauer Passes Away](https://thewire.in/sport/germanys-world-cup-winning-player-coach-franz-beckenbauer-passes-away)
+
+No Article text 
+After leading Germany to the 1986 World Cup final against all expectations, Beckenbauer became only the second man to win the World Cup both as a player and a coach.
+
+2024-01-09T15:30:31+05:30
+### [Bilkis Bano Convicts: Who Is Accountable for the 'Fraud' by Gujarat Government?](https://thewire.in/law/bilkis-bano-convicts-fraud-gujarat-government)
+
+No Article text 
+There has to be a cost for being held guilty of fraud and complicity by learned judges. Who will pay this price? This is a blot on our famed 'Gujarat Model' of governance.
+
+2024-01-09T15:09:47+05:30
+### [Sanatan Strikes Back: 'How Dare Modi Perform the Consecration Ceremony,' Asks a Priest](https://thewire.in/religion/sanatan-strikes-back-how-dare-modi-perform-the-consecration-ceremony-asks-a-priest)
+
+No Article text 
+Nothing that any opposition leader may have said with respect to the canny political use of Ram done by the ruling party will carry the devastating import that the denigration by the shankaracharyas inevitably does.
+
+2024-01-09T14:33:05+05:30
+### [Watch: What the Supreme Court Said in the 'Bilkis Bano' Judgment](https://thewire.in/video/watch-supreme-court-judgement-bilkis-bano-convicts-back-to-prison)
+
+No Article text 
+The court said on Monday that Gujarat's government “acted in complicity with the convicts” and noted that if the convicts can “circumvent the consequences of their conviction”, peace and tranquillity in society would be endangered.
+
+2024-01-09T13:31:31+05:30
+### [‘Restores Faith in Judiciary’: National Dailies Unite in Praise of SC Verdict on Bilkis Bano Case](https://thewire.in/media/restores-faith-in-judiciary-national-dailies-unite-in-praise-of-sc-verdict-on-bilkis-bano-case)
+
+No Article text 
+The ruling 'asserts the tenets of humanity and equality at a time these are becoming rare', said one of the editorials.
+
+2024-01-09T11:47:30+05:30
+### [Gunfight Continues in Manipur’s Moreh, Over 200 Villagers Forced to Leave Their Homes](https://thewire.in/security/gunfight-continues-in-manipurs-moreh-over-200-villagers-forced-to-leave-their-homes)
+
+No Article text 
+Moreh, situated along the Myanmar border, had been on high alert following a series of attacks by militants on security forces, particularly targeting Manipur police commandos.
+
+2024-01-09T11:02:38+05:30
+### [Bhutan's Elections Are a Time to Recognise the Glory of Democracy](https://thewire.in/south-asia/bhutan-election-monarchy-happiness)
+
+No Article text 
+Despite the severe challenges that Bhutan faces – from its economy to its security – its stable and deepening democracy is one of the few bright spots in South Asian and global politics.
+
+2024-01-09T10:53:50+05:30
+### [Six Things: Bilkis Bano Convicts Being Sent Back to Prison Is a Verdict on Much More](https://thewire.in/rights/bilkis-bano-order-meaning-womens-rights-modi)
+
+No Article text 
+The order draws into focus the centre’s complicity, Modi’s silence on this and reminds India of why cases were shifted out of Gujarat. BJP MLA’s 'sanskari Brahmin' remarks for convicts meets reality and shows that women need to push for justice, the state won’t.
+
+2024-01-09T09:38:20+05:30
+### [French Prime Minister Elisabeth Borne Resigns](https://thewire.in/world/elisabeth-borne-france-prime-minister)
+
+No Article text 
+Her resignation coincides with recent political tensions over contentious immigration legislation backed by Macron to enhance the government's ability to deport some foreigners.
+
+2024-01-09T09:28:36+05:30
+### [Why We Can't Forget What the Modi Government Did to the Tablighi Jamaat](https://thewire.in/communalism/tablighi-jamaat-modi-lav-agarwal-covid-19)
+
+No Article text 
+That such a vicious falsehood was allowed to be spread deliberately should tell us much of what we need to understand about where we are today.
+
+2024-01-09T09:00:14+05:30
+### [New Research Raises Fresh Doubts About India’s River Linking Plans](https://thewire.in/environment/new-research-raises-fresh-doubts-about-indias-river-linking-plans)
+
+No Article text 
+A long-standing plan to shift water between rivers in north-central India powers on, despite new science that casts doubt on its efficacy, and concerns over major ecological impacts.
+
+2024-01-09T08:30:58+05:30
+### [Prashant Kishor’s Campaign in Bihar May Stand to Benefit the BJP](https://thewire.in/politics/prashant-kishor-jan-suraaj-campaign-damage-opposition)
+
+No Article text 
+In his ‘jan suraaj’ campaign, Kishor has launched a trenchant attack on Bihar’s ruling leaders. But achieving success as a behind-the-scenes strategist and as a political leader of the people are two different ball games.
+
+2024-01-09T08:30:54+05:30
+### [As US, West Remain Silent, PM Modi Congratulates Bangladesh's Sheikh Hasina on Poll Win](https://thewire.in/uncategorised/modi-sheikh-hasina-bangladesh-election-us-silent)
+
+No Article text 
+In the Bangladeshi media, there was large amounts of pessimism over the extremely low turnout, which indicated that most of the electorate felt that they had no choice.
+
+2024-01-09T08:18:22+05:30
+### ['Der Kaiser': Tributes Pour in After Family Announces Football Legend Franz Beckenbauer's Death](https://thewire.in/sport/franz-beckenbauer-passes-away)
+
+No Article text 
+The German player was one of just three people ever to win the World Cup both as a player and a coach.
+
+2024-01-09T08:00:21+05:30
+### [The Strength of India’s Religious Traditions Are Spaces Where People From Different Religions Intermix](https://thewire.in/communalism/the-strength-of-indias-religious-traditions-are-spaces-where-people-from-different-religions-intermix)
+
+No Article text 
+The interesting story about the pilgrims of Sabarimala temple, who first visit St. Sebastian Church and then go to the Mosque of Wavar, speaks as a point of syncretism in India. But, in the current climate of sectarian nationalism, even the Sunehri Bagh Mosque is being targeted in the name of traffic issues.
+
 2024-01-08T23:48:14+05:30
 ### [Sitting State Minister Loses Rajasthan Election In Big Setback for BJP](https://thewire.in/politics/bjp-rajasthan-minister-surender-pal-singh-tt-loses-bypoll)
 

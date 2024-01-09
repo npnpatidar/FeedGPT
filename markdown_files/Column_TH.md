@@ -1,3 +1,9 @@
+Wed, 10 Jan 2024 02:35:00 +0530
+### [Cape Town Test | Sport, like art, need not make sense; it can be enjoyed still](https://www.thehindu.com/opinion/columns/cape-town-test-sport-like-art-need-not-make-sense-it-can-be-enjoyed-still-suresh-menon/article67723749.ece)
+
+Article found but Couldn't summarize 
+You can put down the below-par performances in the Cape Town Test to technical deficiencies in batting, yet you come to the philosophical question: Can we really know anything for certain? Also, does everything have to make sense?
+
 Fri, 05 Jan 2024 13:32:19 +0530
 ### [Column | Inside the coastal Muslim kitchen](https://www.thehindu.com/food/features/inside-the-coastal-muslim-kitchen-sarmaya-coromandel-coast/article67695151.ece)
 
