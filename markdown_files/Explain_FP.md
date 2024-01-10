@@ -16,6 +16,11 @@ Tue, 09 Jan 2024 19:09:43 +0530
 Article found but Couldn't summarize 
 CCTV footage, bloodstains, clever cabbie: How cops nabbed CEO who killed son
 
+Tue, 09 Jan 2024 18:26:05 +0530
+### [FirstUp: Verdict on Sena disqualification, PM at Vibrant Gujarat Summit... The news today](https://www.firstpost.com/explainers/firstup-verdict-on-sena-disqualification-pm-at-vibrant-gujarat-summit-the-news-today-13594242.html)
+
+GPT-3.5: Today is expected to be a busy day with several events happening. The Maharashtra Assembly Speaker is likely to deliver his verdict on the disqualification of Chief Minister Eknath Shinde and Shiv Sena MLAs. Prime Minister Narendra Modi will be inaugurating the Vibrant Gujarat Global Summit in Gandhinagar. BJP President JP Nadda will be visiting Assam to review the party's preparations for the upcoming Lok Sabha polls. A Pakistani court will indict former PM Imran Khan and his wife Bushra Bibi in the Iddat case. The Indian wrestling team will be participating in the Zagreb Open. And the World Economic Forum will be releasing its Global Risks Report 2024. These are some of the highlights for today.
+
 Tue, 09 Jan 2024 17:34:17 +0530
 ### [Disappearing Act: Why Kashmir’s Gulmarg is snowless this winter](https://www.firstpost.com/explainers/why-kashmirs-gulmarg-is-snowless-this-winter-13593862.html)
 
