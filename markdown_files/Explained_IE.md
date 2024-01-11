@@ -1,3 +1,83 @@
+Thu, 11 Jan 2024 13:54:25 +0000
+### [Taiwan votes on January 13: Amid tensions with China, why these polls are significant](https://indianexpress.com/article/explained/explained-global/taiwan-january-13-elections-primer-china-9105601/)
+
+Article found but Couldn't summarize
+
+Thu, 11 Jan 2024 12:18:06 +0000
+### [How Indore came to be ranked India’s cleanest city, year after year](https://indianexpress.com/article/explained/indore-india-cleanest-city-reason-9105288/)
+
+As GPT-3.5, I can summarize the article for you. Indore has been ranked as the cleanest city in India for the seventh consecutive year in the Swachh Survekshan Awards 2023. The ranking is based on citizen feedback and field assessment. Indore achieved this by implementing a sustainable system of garbage collection, processing, and disposal. They made changes to the sanitation and waste collection system, popularized initiatives among citizens, and focused on segregation and disposal of waste. The city also cleared and treated legacy waste and constructed transfer stations. Efforts were made to install new toilets and dustbins, and citizens were encouraged to build better habits around cleanliness. The city also imposed fines for littering and other offenses to deter habitual offenders.
+
+Thu, 11 Jan 2024 12:05:51 +0000
+### [Shinde faction ‘real Shiv Sena’: How the Maharashtra Speaker came to this decision](https://indianexpress.com/article/explained/explained-politics/real-shiv-sena-how-the-maharashtra-speaker-decided-9105362/)
+
+Article found but Couldn't summarize
+
+Thu, 11 Jan 2024 10:29:37 +0000
+### [How a TV show exposed Britain’s Post Office Scandal](https://indianexpress.com/article/explained/explained-global/britain-post-office-scandal-rishi-sunak-9105139/)
+
+Article found but Couldn't summarize
+
+Thu, 11 Jan 2024 05:23:11 +0000
+### [Australian Open 2024: How organisers hope adding extra day to slam will curb late night slugfests](https://indianexpress.com/article/explained/explained-sports/australian-open-2024-dates-extra-day-explained-9104533/)
+
+Article found but Couldn't summarize
+
+Thu, 11 Jan 2024 02:07:13 +0000
+### [Israel withdraws some troops from Gaza: Why, what it means for Hamas conflict](https://indianexpress.com/article/explained/explained-global/israel-withdraws-troops-from-gaza-9103920/)
+
+Article found but Couldn't summarize
+
+Thu, 11 Jan 2024 02:00:42 +0000
+### [India-Maldives ties: Amid row, why the two countries need each other and what is at stake](https://indianexpress.com/article/explained/india-and-maldives-old-ties-new-tensions-9104123/)
+
+Article found but Couldn't summarize
+
+Wed, 10 Jan 2024 15:01:50 +0000
+### [Maharashtra Speaker gives verdict on Shiv Sena split: what was the case before him](https://indianexpress.com/article/explained/explained-politics/maharastra-shiv-sena-split-speaker-disqualification-9103871/)
+
+Article found but Couldn't summarize
+
+Wed, 10 Jan 2024 13:09:56 +0000
+### [Why has South Africa taken Israel to the International Court of Justice?](https://indianexpress.com/article/explained/explained-global/why-south-africa-israel-international-court-of-justice-9103758/)
+
+As GPT-3.5, I can provide a summary of the article you shared. The International Court of Justice (ICJ) is holding a hearing to decide whether to order "provisional measures" in a case filed by South Africa against Israel for alleged violations of the Genocide Convention in relation to Palestinians in Gaza. The ICJ is the principal judicial organ of the United Nations and settles legal disputes between states. The Genocide Convention is an international human rights treaty that defines genocide and codifies the crime for the first time. South Africa is asking for urgent relief to protect the rights of the Palestinian people and prevent further harm. The court will make a provisional measures order within weeks, which will be binding on all states. Israel has called the case "baseless," while Palestine and several other countries have welcomed it. This is not the first case the ICJ has heard under the Genocide Convention.
+
+Wed, 10 Jan 2024 11:41:13 +0000
+### [Centre and Opposition spar over rejection of R-Day tableaux: How tableaux are chosen for the Republic Day parade](https://indianexpress.com/article/explained/centre-opposition-spar-over-rejection-of-r-day-tableaux-9103468/)
+
+Article found but Couldn't summarize
+
+Wed, 10 Jan 2024 11:39:15 +0000
+### [Complete organ transplant process in 6-8 weeks, says Delhi HC. What was the case?](https://indianexpress.com/article/explained/explained-law/transplant-process-6-8-weeks-delhi-hc-explained-9103516/)
+
+Article found but Couldn't summarize
+
+Wed, 10 Jan 2024 10:41:40 +0000
+### [ExplainSpeaking: Did your salary beat the inflation rate in Modi years?](https://indianexpress.com/article/explained/explained-economics/explainspeaking-salary-inflation-rate-modi-years-9103297/)
+
+Article found but Couldn't summarize
+
+Wed, 10 Jan 2024 07:26:02 +0000
+### [Why 2023 was a difficult year for Indian start-ups, and why 2024 too looks challenging](https://indianexpress.com/article/explained/explained-economics/indian-start-ups-2023-9103043/)
+
+Article found but Couldn't summarize
+
+Wed, 10 Jan 2024 01:49:52 +0000
+### [What is the Square Kilometer Array project, significance of India joining it](https://indianexpress.com/article/explained/explained-sci-tech/what-is-the-square-kilometer-array-project-significance-of-india-joining-it-9102401/)
+
+As GPT-3.5, I can summarize the article for you. India has officially joined the Square Kilometer Array (SKA) project, which aims to build the world's largest radio telescope. India has been contributing to the project for several years and has now become a full member by signing an international treaty and making a financial commitment. The SKA will consist of thousands of dish antennas operating as a single unit, providing a large effective area for collecting radio waves. The project is being implemented in South Africa and Australia, and once completed, it will be significantly more powerful than existing radio telescopes. Although the SKA facilities are not located in India, the country's participation as a full member offers scientific and technological benefits, including preferential access to the facilities and opportunities for research and capacity building. The project also involves advanced technologies and intellectual property that will be accessible to all member countries. Indian scientists have identified various research areas, including the evolution of the early universe, galaxy formation, neutron star physics, and solar sciences, to utilize the SKA telescopes.
+
+Wed, 10 Jan 2024 01:37:50 +0000
+### [What is the long-running legal dispute over Aligarh Muslim University’s minority character?](https://indianexpress.com/article/explained/what-is-the-long-running-legal-dispute-over-amus-minority-character-9102400/)
+
+Article found but Couldn't summarize
+
+Wed, 10 Jan 2024 00:32:53 +0000
+### [Pran pratishtha at Ayodhya Ram temple draws near: What is this ceremony, how it is performed](https://indianexpress.com/article/explained/explained-culture/pran-pratishtha-ayodhya-ram-temple-what-exactly-is-this-9102398/)
+
+Article found but Couldn't summarize
+
 Tue, 09 Jan 2024 17:25:34 +0000
 ### [Why 2023 was the warmest year ever, and what happens now](https://indianexpress.com/article/explained/explained-climate/why-2023-was-the-warmest-year-ever-9102355/)
 

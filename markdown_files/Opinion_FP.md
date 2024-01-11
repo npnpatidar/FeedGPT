@@ -1,3 +1,129 @@
+Thu, 11 Jan 2024 19:29:13 +0530
+### [Vantage | Why toys shouldn't be about 'pink for girls, blue for boys'](https://www.firstpost.com/opinion/vantage-why-toys-shouldnt-be-about-pink-for-girls-blue-for-boys-13603292.html)
+
+Article found but Couldn't summarize 
+Vantage | Why toys shouldn't be about 'pink for girls, blue for boys'
+
+Thu, 11 Jan 2024 18:37:47 +0530
+### [Vantage | Two controversies that may decide how Taiwan votes](https://www.firstpost.com/opinion/vantage-two-controversies-that-may-decide-how-taiwan-votes-13602372.html)
+
+Article found but Couldn't summarize 
+Vantage | Two controversies that may decide how Taiwan votes
+
+Thu, 11 Jan 2024 17:54:00 +0530
+### [Opinion | Maldives, Lakshadweep and India’s poor tourism record](https://www.firstpost.com/opinion/opinion-maldives-lakshadweep-and-indias-poor-tourism-record-13601232.html)
+
+Article found but Couldn't summarize 
+Opinion | Maldives, Lakshadweep and India’s poor tourism record
+
+Thu, 11 Jan 2024 17:38:19 +0530
+### [Vantage | Why Chinese army isn't what China wants the world to believe](https://www.firstpost.com/opinion/vantage-i-why-chinese-army-isnt-what-china-wants-the-world-to-believe-13602182.html)
+
+Article found but Couldn't summarize 
+Vantage | Why Chinese army isn't what China wants the world to believe
+
+Thu, 11 Jan 2024 17:32:23 +0530
+### [Why India should use Maldivian self-goal to push tourism in Lakshadweep](https://www.firstpost.com/opinion/why-india-should-use-maldivian-self-goal-to-push-tourism-in-lakshadweep-13602762.html)
+
+Article found but Couldn't summarize 
+Why India should use Maldivian self-goal to push tourism in Lakshadweep
+
+Thu, 11 Jan 2024 16:50:07 +0530
+### [Opinion | Fast Forward 2024: Challenges and opportunities for Indian diplomacy](https://www.firstpost.com/opinion/opinion-fast-forward-2024-challenges-and-opportunities-for-indian-diplomacy-13602542.html)
+
+Article found but Couldn't summarize 
+Opinion | Fast Forward 2024: Challenges and opportunities for Indian diplomacy
+
+Thu, 11 Jan 2024 15:56:22 +0530
+### [Vantage | How crime lords came to dominate Ecuador and why it matters](https://www.firstpost.com/opinion/vantage-how-crime-lords-came-to-dominate-ecuador-and-why-it-matters-13602122.html)
+
+Article found but Couldn't summarize 
+Vantage | How crime lords came to dominate Ecuador and why it matters
+
+Thu, 11 Jan 2024 14:55:19 +0530
+### [Vantage | How Poland is caught in the clash of two power centres](https://www.firstpost.com/opinion/vantage-how-poland-is-caught-in-the-clash-of-two-power-centres-13601702.html)
+
+Article found but Couldn't summarize 
+Vantage | How Poland is caught in the clash of two power centres
+
+Thu, 11 Jan 2024 13:32:56 +0530
+### [Vantage | Why PM Modi has invested so much in India-UAE ties](https://www.firstpost.com/opinion/vantage-why-pm-modi-has-invested-so-much-in-india-uae-ties-13601082.html)
+
+Article found but Couldn't summarize 
+Vantage | Why PM Modi has invested so much in India-UAE ties
+
+Thu, 11 Jan 2024 12:17:34 +0530
+### [Vantage | Why Germany's farmers have taken over its roads](https://www.firstpost.com/opinion/vantage-why-germanys-farmers-have-taken-over-its-roads-13600602.html)
+
+Article found but Couldn't summarize 
+Vantage | Why Germany's farmers have taken over its roads
+
+Thu, 11 Jan 2024 10:27:59 +0530
+### [China’s rare earth strategy and India’s future](https://www.firstpost.com/opinion/chinas-rare-earth-strategy-and-indias-future-13599592.html)
+
+Article found but Couldn't summarize 
+China’s rare earth strategy and India’s future
+
+Wed, 10 Jan 2024 18:47:12 +0530
+### [Vantage | The crisis behind Macron's cabinet shakeup and France's new PM](https://www.firstpost.com/opinion/vantage-the-crisis-behind-macrons-cabinet-shakeup-and-frances-new-pm-13597892.html)
+
+Article found but Couldn't summarize 
+Vantage | The crisis behind Macron's cabinet shakeup and France's new PM
+
+Wed, 10 Jan 2024 18:42:16 +0530
+### [How India could leapfrog economically with general AI](https://www.firstpost.com/opinion/how-india-could-leapfrog-economically-with-general-ai-13598682.html)
+
+Article found but Couldn't summarize 
+How India could leapfrog economically with general AI
+
+Wed, 10 Jan 2024 18:03:09 +0530
+### [Vikrant Massey’s 12th Fail: How it became a surprise hit of 2023 | Explained](https://www.firstpost.com/entertainment/vikrant-masseys-12th-fail-how-it-became-a-surprise-hit-of-2023-explained-13595042.html)
+
+Article found but Couldn't summarize 
+Vikrant Massey’s 12th Fail: How it became a surprise hit of 2023 | Explained
+
+Wed, 10 Jan 2024 17:43:47 +0530
+### [Navy emerges as India’s go-to diplomatic tool](https://www.firstpost.com/opinion/navy-emerges-as-indias-go-to-diplomatic-tool-13598402.html)
+
+Article found but Couldn't summarize 
+Navy emerges as India’s go-to diplomatic tool
+
+Wed, 10 Jan 2024 16:06:50 +0530
+### [Vantage | Why India has most warships sailing in the Arabian Sea](https://www.firstpost.com/opinion/vantage-why-india-has-most-warships-sailing-in-the-arabian-sea-13597112.html)
+
+Article found but Couldn't summarize 
+Vantage | Why India has most warships sailing in the Arabian Sea
+
+Wed, 10 Jan 2024 14:35:54 +0530
+### [Why Muslims made a profound mistake over the Ayodhya dispute](https://www.firstpost.com/opinion/why-muslims-made-a-profound-mistake-over-the-ayodhya-dispute-13597502.html)
+
+Article found but Couldn't summarize 
+Why Muslims made a profound mistake over the Ayodhya dispute
+
+Wed, 10 Jan 2024 13:30:41 +0530
+### [Vantage | Taiwan's election will be the answer to China's balloons and rockets](https://www.firstpost.com/opinion/vantage-taiwans-election-will-be-the-answer-to-chinas-balloons-and-rockets-13596872.html)
+
+Article found but Couldn't summarize 
+Vantage | Taiwan's election will be the answer to China's balloons and rockets
+
+Wed, 10 Jan 2024 10:56:21 +0530
+### [NYT Hamas rapes report exposes hypocrisy of UN, radical Left, rights group](https://www.firstpost.com/opinion/nyt-hamas-rapes-report-exposes-hypocrisy-of-un-radical-left-rights-group-13595842.html)
+
+Article found but Couldn't summarize 
+NYT Hamas rapes report exposes hypocrisy of UN, radical Left, rights group
+
+Wed, 10 Jan 2024 10:21:51 +0530
+### [Vantage | Why private security is doing in South Africa what police should](https://www.firstpost.com/opinion/vantage-why-private-security-is-doing-in-south-africa-what-police-should-13595302.html)
+
+Article found but Couldn't summarize 
+Vantage | Why private security is doing in South Africa what police should
+
+Wed, 10 Jan 2024 09:12:48 +0530
+### [Vantage | Why Boeing plane's door accident has spooked flyers](https://www.firstpost.com/opinion/vantage-why-boeing-planes-door-accident-has-spooked-flyers-13595232.html)
+
+Article found but Couldn't summarize 
+Vantage | Why Boeing plane's door accident has spooked flyers
+
 Tue, 09 Jan 2024 18:58:19 +0530
 ### [Beyond the Lines | Chronicle of a Year Foretold: Chinese Checkers, Global Economy and Elections in 2024](https://www.firstpost.com/opinion/beyond-the-lines-chronicle-of-a-year-foretold-chinese-checkers-global-economy-and-elections-in-2024-13594102.html)
 

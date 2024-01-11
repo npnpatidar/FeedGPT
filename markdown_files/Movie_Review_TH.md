@@ -1,3 +1,27 @@
+Thu, 11 Jan 2024 17:52:52 +0530
+### [‘Abraham Ozler’ movie review: A serial killer pursuit that fizzles out soon](https://www.thehindu.com/entertainment/movies/abraham-ozler-movie-review-a-serial-killer-pursuit-that-fizzles-out-soon/article67730146.ece)
+
+Article found but Couldn't summarize 
+The Jayaram-starrer is marred by generic treatment to the serial killer genre, with a cameo from superstar Mammootty offering only a temporary relief
+
+Thu, 11 Jan 2024 17:31:51 +0530
+### [‘Andalin Arangan’ brought alive Andal’s devotion to Ranganatha](https://www.thehindu.com/entertainment/dance/andalin-arangan-brought-alive-andals-devotion-to-ranganatha/article67730275.ece)
+
+Article found but Couldn't summarize 
+The students of Lasya Nrithyalayam presented this oft-told Margazhi story with elan
+
+Wed, 10 Jan 2024 19:00:54 +0530
+### [Urmila Satyanarayanan’s Thadathagai  takes audience on a trip to Madurai](https://www.thehindu.com/entertainment/dance/urmila-satyanarayanans-thadathagai-takes-audience-on-a-trip-madurai/article67726613.ece)
+
+Article found but Couldn't summarize 
+The dance production narrated the story of Meenakshi and Sundareswarar but with no additional nuance
+
+Wed, 10 Jan 2024 17:38:29 +0530
+### [Sikkil Gurucharan’s concert picked up pace after a rough start](https://www.thehindu.com/entertainment/music/sikkil-gurucharans-concert-picked-up-pace-after-a-rough-start/article67726871.ece)
+
+Article found but Couldn't summarize 
+The Kalyani alapana brightened up the proceedings at Sikkil Gurucharan’s concert at The Music Academy
+
 Tue, 09 Jan 2024 14:47:58 +0530
 ### [Sanjay Subrahmanyan’s concert was an experience that stayed with the listeners](https://www.thehindu.com/entertainment/music/sanjay-subrahmanyans-concert-was-an-experience-that-remained-with-the-rasikas/article67722645.ece)
 

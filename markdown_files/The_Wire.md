@@ -1,3 +1,297 @@
+2024-01-11T22:30:09+05:30
+### [In 2023, BJP's Policies Sparked Violence and Rights Abuses in India, Says Human Rights Watch](https://thewire.in/rights/in-2023-bjps-policies-sparked-violence-and-rights-abuses-in-india-says-human-rights-watch)
+
+No Article text 
+'Instead of holding those responsible for abuses to account, the authorities chose to punish the victims, and persecuted anyone who questioned these actions,' said Meenakshi Ganguly, deputy Asia director at Human Rights Watch.
+
+2024-01-11T20:49:40+05:30
+### [ICJ Adjourns After First Day of Hearing South Africa's Genocide Case Against Israel](https://thewire.in/world/icj-adjourns-after-first-day-of-hearing-south-africas-genocide-case-against-israel)
+
+No Article text 
+The court will hear Israel's response to the allegations on Friday.
+
+2024-01-11T19:05:16+05:30
+### [‘Killer Soup’ Review: A Delicious, Slow-Cooked Broth of Desperation, Lies, and Foolishness](https://thewire.in/film/killer-soup-review-a-delicious-slow-cooked-broth-of-desperation-lies-and-foolishness)
+
+No Article text 
+Every actor whatever the role shines in the film, Konkona Sen Sharma and Manoj Bajpayee most of all.
+
+2024-01-11T19:04:04+05:30
+### [Srinagar's Air Quality: How Vehicle Pollution and Power Shortages Have Been Worsening the Issue](https://thewire.in/environment/srinagars-air-quality-how-vehicle-pollution-and-power-shortages-have-been-worsening-the-issue)
+
+No Article text 
+The prolonged poor air quality in Srinagar during the winter months, spanning November to February, has been a consistent concern for the past decade. Studies attribute the issue to a combination of human-related and natural factors, including biomass fuel burning.
+
+2024-01-11T17:40:20+05:30
+### [Ayodhya: BJP Says Congress ‘Anti-Ram’, Ducks Mention of Shankaracharyas Critical of Politicisation](https://thewire.in/politics/anti-ram-bjp-invokes-nehru-slams-congress-over-declining-invite-of-ayodhya-temple-event)
+
+No Article text 
+'This is Nehru's Congress, this is not Gandhi's Congress... Today that Ram Rajya is being started with Pran Pratishtha and Congress is not attending. This makes it very clear the difference between Nehru's Congress and Gandhi's Congress,' said the BJP.
+
+2024-01-11T16:43:15+05:30
+### [SC Issues Contempt Notices to Gujarat Officials Over Police Custody of a Businessman](https://thewire.in/law/sc-issues-contempt-notices-to-gujarat-officials-over-police-custody-of-a-businessman)
+
+No Article text 
+The apex court issued notices to chief secretary (home), police officials, and an additional chief magistrate over sending a businessman to police custody despite the top court granting him anticipatory bail.
+
+2024-01-11T15:35:56+05:30
+### [Netflix Pulls 'Annapoorani' After Hindutva Outrage Over 'Ram Eats Meat' Dialogue](https://thewire.in/rights/annapoorani-netflix-zee5-hindutva)
+
+No Article text 
+The studio that produced the film, Zee5, issued an apology to the Vishwa Hindu Parishad.
+
+2024-01-11T15:14:34+05:30
+### ['Biren Singh Opening a New Front': Manipur Govt's Possible Rethink on ST Status to Kukis Draws Ire](https://thewire.in/rights/biren-singh-opening-a-new-front-manipur-govts-possible-rethink-on-st-status-to-kukis-draws-ire)
+
+No Article text 
+The Manipur chief minister said his government is considering setting up an all-tribe committee to decide if Kukis remain under Scheduled Tribes. Kuki outfits say the move would further escalate the ongoing conflict.
+
+2024-01-11T14:30:01+05:30
+### [As the US Enters Election Year, Will There Be a Peaceful Transfer of Power?](https://thewire.in/world/as-the-us-enters-election-year-will-there-be-a-peaceful-transfer-of-power)
+
+No Article text 
+There is a deep sense of foreboding in the US as the implications for President Biden's re-election bid are increasingly bleak as national polls show Trump leading the incumbent.
+
+2024-01-11T14:20:57+05:30
+### ['Rs 10,000 Crores': In a Poll Year, a PDS Scam Once Again Poses Corruption Hurdle for TMC](https://thewire.in/politics/rs-10000-crores-in-a-poll-year-a-pds-scam-once-again-poses-corruption-hurdle-for-tmc)
+
+No Article text 
+As the critical general election approaches, the situation, involving thousands of crores, adds to the embarrassment for chief minister Mamata Banerjee and senior TMC leaders.
+
+2024-01-11T14:00:52+05:30
+### [As a Classical Musician, Rashid Khan Showed His Brilliance at a Very Young Age](https://thewire.in/the-arts/classical-musician-rashid-khan-obituary)
+
+No Article text 
+A warm tribute to the singer who died at the young age of 55.
+
+2024-01-11T13:07:19+05:30
+### [Why Israel and Hezbollah Are Eager to Avoid a Full-Blown Regional War](https://thewire.in/world/why-israel-and-hezbollah-are-eager-to-avoid-a-full-blown-regional-war)
+
+No Article text 
+The Lebanese government has said it welcomes U.S. efforts to resolve the disputes. On the Israeli side, too, they are going along with U.S. attempts to keep U.N. Resolution 1701 on the table.
+
+2024-01-11T12:45:45+05:30
+### [Delirium Over Ram Mandir: A Nation Consecrated or Desecrated?](https://thewire.in/politics/delirium-over-ram-mandir-a-nation-consecrated-or-desecrated)
+
+No Article text 
+The collective hullaballoo over the consecration of the Ram temple under the aegis of the Modi government represents the triumph of religious fundamentalism over secularism.
+
+2024-01-11T12:07:00+05:30
+### ['I Have Accompanied Ustad Rashid Khan on Stage for 26 Years...A Man Like Him Is Rare'](https://thewire.in/the-arts/ustad-rashid-khan-murad-ali-tribute)
+
+No Article text 
+Allah had not only blessed him with spiritual and musical beauty but also a calm heart and cheerful countenance. I always found him helping others.
+
+2024-01-11T11:38:15+05:30
+### [India Endorses Call for Humanitarian Ceasefire in Gaza in Joint Statement with UAE](https://thewire.in/diplomacy/india-endorses-call-for-humanitarian-ceasefire-in-gaza-in-joint-statement-with-uae)
+
+No Article text 
+'Both leaders reiterated the need to unite efforts to immediately reach a humanitarian ceasefire in Gaza to allow safe, unhindered, and expanded humanitarian access at scale.'
+
+2024-01-11T11:17:42+05:30
+### [Why an Exploitative Labour Regime Doesn't Deter Rising Undocumented Migrants in the US](https://thewire.in/labour/why-an-exploitative-labour-regime-doesnt-deter-rising-undocumented-migrants-in-the-us)
+
+No Article text 
+About 10.5 million illegal migrants, who made perilous journeys to reach the US, help run the American economy even working at an hourly rate as low as $5.
+
+2024-01-11T11:03:58+05:30
+### [Is ‘Let’s Seek Peace on the Border’ Narrative About Modi Government’s Intent to Appease China?](https://thewire.in/security/is-lets-seek-peace-on-the-border-narrative-about-modi-governments-intent-to-appease-china)
+
+No Article text 
+The optics are being built for creating an environment in which India accepts an unfavourable negotiated solution that reinforces and rewards China’s aggression on the Ladakh border.
+
+2024-01-11T10:50:57+05:30
+### ['Historic Opportunity' in 'New Circumstances': Amidst Strife with India, China-Maldives Upgrade Ties](https://thewire.in/diplomacy/maldives-mohamed-muizu-xi-jinping-china)
+
+No Article text 
+Mohamed Muizzu's visit takes place in the backdrop of the new Maldivian president choosing to go to China for his first state visit after assuming office in November.
+
+2024-01-11T09:34:29+05:30
+### ['Why 4 Highest Gurus of Sanatan Hindu Dharma Won't Participate in Ram Temple Pranpratistha,' Explains Pro-Hindutva Portal](https://thewire.in/religion/sanatan-hindu-dharma-highest-guru-ram-temple)
+
+No Article text 
+A prominent pro-Hindutva portal, describing itself as adding 'a new dimension to create a solidarity in Global Hindus' quotes Shankaracharyas critical of politicisation, not getting due respect and ceremony being done before time.
+
+2024-01-11T09:20:25+05:30
+### ['Where Will We Go?': Murdered UP Leader's Family After SC Turns Down Intervention in Ajay Mishra's Acquittal](https://thewire.in/law/uttar-pradesh-ajay-mishra-teni-supreme-court)
+
+No Article text 
+Teni, the member of parliament from Lakhimpur Kheri in Uttar Pradesh, holds the Union minister of state for home affairs portfolio in the Narendra Modi government.
+
+2024-01-11T08:00:16+05:30
+### [Uttar Pradesh Police Arrests 9 Muslim Youth in Two Months in Crackdown Against 'ISIS Module of AMU'](https://thewire.in/government/uttar-pradesh-police-aligarh-isis)
+
+No Article text 
+The arrests were based on an FIR the UP Anti-Terrorism Squad lodged in Lucknow on November 3, 2023.
+
+2024-01-10T23:50:59+05:30
+### [Loss of Civilian Lives ‘Unacceptable’, Conflict ‘Triggered’ By Oct. 7 Attack: India at the UNGA](https://thewire.in/diplomacy/civilian-deaths-unacceptable-conflict-triggered-by-october-7-attack-india-at-unga)
+
+No Article text 
+India's permanent representative to the UN, Ruchira Kamboj, also reiterated that India believed that only a two-state solution would bring an enduring peace to the people of Israel and Palestine.
+
+2024-01-10T23:19:00+05:30
+### [Eknath Shinde's Faction is the ‘Real’ Shiv Sena, Declares Maharashtra Speaker Narwekar](https://thewire.in/politics/narwekar-says-shindes-faction-real-shiv-sena)
+
+No Article text 
+Narwekar’s decision today comes as the second jolt to Thackeray, who faces the challenge of keeping his party (of 16 MLAs) together before the 2024 general elections.
+
+2024-01-10T20:19:49+05:30
+### [Armed Intruders Take Over Ecuador TV Studio During Live Show](https://thewire.in/world/armed-intruders-take-over-ecuador-tv-studio-during-live-show)
+
+No Article text 
+The attack comes just after the new president's emergency declaration, highlighting the country's escalating violence.
+
+2024-01-10T20:00:46+05:30
+### [Jawaharlal Nehru: A Guiding Force in Our Past, Present, and Future](https://thewire.in/politics/jawaharlal-nehru-in-our-past-present-and-future)
+
+No Article text 
+Nehru’s fantastic effort to raise India from what Tagore called the ‘mud and filth’ left behind by the British has now been replaced with the Indian people being pushed back into that same ‘mud and filth’ of ignorance, obscurantism, dis-empowerment, unfreedom and above all communal hatred.
+
+2024-01-10T19:54:44+05:30
+### [Supreme Court Judgement on Bilkis Bano Convicts ‘Victory For All Women’, Says Vinesh Phogat](https://thewire.in/rights/9-out-11-convicts-in-bilkis-bano-case-go-missing-report-says)
+
+No Article text 
+Meanwhile, the Indian Express has reported that nine out of the 11 convicts whose remission the apex court undid on Monday have gone “missing” from their villages in Gujarat's Dahod.
+
+2024-01-10T19:10:38+05:30
+### [The January 22 Ram Temple Inauguration Is a Political Event. It’s a Crucial Test for Indian Politics](https://thewire.in/politics/the-january-22-ram-temple-inauguration-is-a-political-event-its-a-crucial-test-for-indian-politics)
+
+No Article text 
+If Rabindranath Tagore had been alive today, he would have written a harsher poem on the BJP's Ram temple in Ayodhya. Mahatma Gandhi would have led a movement or sat on a fast to atone this crime.
+
+2024-01-10T19:02:14+05:30
+### [Why Congress Clearly Saying January 22 Is Part of RSS/BJP’s ‘Political Project’ Matters](https://thewire.in/politics/why-congress-clearly-saying-january-22-is-part-of-rss-bjps-political-project-matters)
+
+No Article text 
+The Congress needs to own its politics unapologetically, display an ethical strength to oppose BJP’s majoritarianism, and give voice to the voiceless of Modi’s Naya Bharat. Who else but the biggest opposition party can counter a narrow, polarising narrative of the BJP?
+
+2024-01-10T18:05:09+05:30
+### [Knowledge Production in Neo-Liberal Times](https://thewire.in/books/knowledge-production-in-neo-liberal-times)
+
+No Article text 
+The output of scientific research no longer comprises research papers in journals that increase the boundaries of knowledge, but patents which can be turned into money.
+
+2024-01-10T17:58:11+05:30
+### [Boeing CEO Admits ‘Mistake’, Vows ‘Complete Transparency’](https://thewire.in/world/boeing-ceo-admits-mistake-vows-complete-transparency)
+
+No Article text 
+In the first public acknowledgment of error since the mid-air flight blowout on Alaska Airlines, Boeing's CEO Dave Calhoun said the company is working with regulators to ensure it "can never happen again."
+
+2024-01-10T17:51:58+05:30
+### [605 New COVID-19 Cases in India in 24 Hours: Government Data](https://thewire.in/health/605-new-covid-cases-india-january-10-2024)
+
+No Article text 
+Last week, the US's Center for Disease Control and Prevention said that the JN.1 subvariant of the COVID-19 virus had become the most prevalent globally.
+
+2024-01-10T17:36:15+05:30
+### ['Clearly an RSS/BJP Event': Congress Declines Invitation to Ram Temple Inauguration](https://thewire.in/politics/breaking-congress-declines-invitation-to-ram-temple-inauguration-calls-its-clearly-an-rss-bjp-event)
+
+No Article text 
+'Religion is a personal matter. But the RSS/BJP have long made a political project of the temple in Ayodhya. The inauguration of the incomplete temple by the leaders of the BJP and the RSS has been obviously brought forward for electoral gain,' read a statement from senior party leader Jairam Ramesh.
+
+2024-01-10T16:30:53+05:30
+### [Gandhi, Vivekananda, Tagore, and Temple Consecration](https://thewire.in/politics/gandhi-vivekananda-tagore-and-temple-consecration)
+
+No Article text 
+Swami Vivekananda, Rabindranath Tagore and – above all – Mahatma Gandhi would have been deeply anguished and ashamed to see the lofty ideals they advocated now being contravened through the consecration of a temple.
+
+2024-01-10T16:00:55+05:30
+### [The 'Illegal' Ways of Law-Making by India's Parliament](https://thewire.in/law/the-illegal-ways-of-law-making-by-indias-parliament)
+
+No Article text 
+With government tightly controlling agenda setting, parliament is virtually powerless to enforce rules of procedures. Internal checks having failed, it is either the court of people or the court of law which can deter the government from making laws in 'illegal' ways.
+
+2024-01-10T15:41:47+05:30
+### [As Panchayat Terms End, J&K's Only Elected Institution is the District Development Council](https://thewire.in/government/jammu-and-kashmir-elected-representatives-panchayat)
+
+No Article text 
+The election to Panchayats and other local bodies are unlikely to be held in Jammu and Kashmir anytime soon given that the poll machinery will remain busy with the preparations for holding the Lok Sabha elections in the union territory.
+
+2024-01-10T15:39:49+05:30
+### ['Constant Attempt to Erode Medieval Architecture, Heritage': Historians Org on Sunehri Bagh Mosque](https://thewire.in/rights/constant-attempt-to-erode-medieval-architecture-heritage-historians-org-on-sunehri-bagh-mosque)
+
+No Article text 
+Calling NDMC's decision "unacceptable and unwise", the IHC strongly urged NDMC to not go ahead with its proposal to remove this important historical structure.
+
+2024-01-10T14:15:37+05:30
+### [‘Aligarh Muslim University Can’t Be Minority Institution Due to Its National Importance': Govt to SC](https://thewire.in/education/aligarh-muslim-university-cant-be-minority-institution-due-to-its-national-importance-govt-to-sc)
+
+No Article text 
+The declaration of AMU as a 'minority institution' would exempt it from implementing the reservation policy. Solicitor General Tushar Mehta claimed that this could have drastic consequences, especially for an institution of AMU's scale and history.
+
+2024-01-10T13:45:25+05:30
+### [UK: Ethnic Minority Staff, Students Face Pay Gaps, Lower Odds of Top Degrees in Universities](https://thewire.in/world/uk-ethnic-minority-staff-students-face-pay-gaps-lower-odds-of-top-degrees-in-universities)
+
+No Article text 
+Improving the representation of staff across all academic and executive levels will need a concerted effort to take it beyond the current ethnic profile of the population.
+
+2024-01-10T13:22:36+05:30
+### [The Future of Water: For Ustad Rashid Khan](https://thewire.in/culture/the-future-of-water-for-ustad-rashid-khan)
+
+No Article text 
+'You held the note in your palm, just below the waistcoat of your throat.'
+
+2024-01-10T13:00:30+05:30
+### [Exploring Cow Politics, Violence, and the Roots of Non-Violence in India](https://thewire.in/books/exploring-cow-politics-violence-and-the-roots-of-non-violence-in-india)
+
+No Article text 
+The book 'Who will bell the cow?' by Shruti Ganapatye is an audacious contribution to the recent history of violence over cow slaughter in various states of India.
+
+2024-01-10T12:41:42+05:30
+### [Youth Unemployment on Rise, Attributed Largely to Rural Joblessness: CMIE](https://thewire.in/labour/youth-unemployment-on-rise-attributed-largely-to-rural-joblessness-cmie)
+
+No Article text 
+In the October-December 2023 quarter, joblessness among those in the age group of 20 to 24 grew to 44.49%, and it stood at 14.33% for the age group of 25-29, Centre for Monitoring Indian Economy report said.
+
+2024-01-10T11:51:48+05:30
+### [At the Heart of the Soundtrack of Hindutva, that Spreads Hateful Anti-Minority Messages](https://thewire.in/communalism/soundtrack-hindutva-minority-messages-kunal-purohit-h-pop)
+
+No Article text 
+Kunal Purohit's book delves into Hindutva pop culture that populates social media.
+
+2024-01-10T11:30:01+05:30
+### [Social Harmony Awards Given Away in Memory of Hate Crimes Victims Hafiz Junaid, Ankit Saxena](https://thewire.in/rights/social-harmony-awards-given-away-in-memory-of-hate-crimes-victims-hafiz-junaid-ankit-saxena)
+
+No Article text 
+Junaid was killed brutally on a moving train two days before Eid in June 2017 while Ankit was lynched in full public view in Delhi for loving a girl from a different faith in February 2018.
+
+2024-01-10T11:11:56+05:30
+### [Watch | 'Is the CJI Wrong About Mahatma Gandhi and to Visit Hindu Temples in Saffron Robes?'](https://thewire.in/law/karan-thapar-cji-dy-chandrachud-ramachandra-guha)
+
+No Article text 
+'What would (Gandhi) have thought of a serving Chief Justice making public visits to temples and getting himself photographed and giving interviews about it in the process?' asks Ramachandra Guha.
+
+2024-01-10T10:57:44+05:30
+### ['Extreme Disappointment': USCIRF on US State Dept Not Labelling India 'Country of Particular Concern'](https://thewire.in/world/uscirf-india-country-of-particular-concern)
+
+No Article text 
+The United States Commission on International Religious Freedom has often tracked relevant violations and has this time highlighted 'transnational repression activities targeting religious minorities' by the Indian government.
+
+2024-01-10T10:30:52+05:30
+### [Union Govt Suspends Licence of Marathi Channel Which Ran Kirit Somaiya Sex Tape Story](https://thewire.in/media/lokshahi-marathi-licence-suspended-30-days-kirit-somaiya)
+
+No Article text 
+"This is the first time in the history of Maharashtra that the channel has been ordered to be shut down," Lokshahi Marathi said in response to the second such suspension order against it in the last six months.
+
+2024-01-10T09:41:33+05:30
+### [On the Front Foot, Congress Must Embrace the Idea of Rahul Gandhi as PM Candidate](https://thewire.in/politics/rahul-gandhi-congress-prime-minister-candidate)
+
+No Article text 
+The Congress should stop making the distinction between a vote getter and office holder, in order to deliver who its voters want. And alliance partners need to recognise that right now no one in the Opposition space takes the fight to Modi better than the Congress leader.
+
+2024-01-10T08:38:11+05:30
+### [Maldives Had Begun Talks of Visit to India Soon After President Mohamed Muizzu's Inauguration](https://thewire.in/south-asia/maldives-mohamed-muizzu-india-china-turkey-visit)
+
+No Article text 
+Possibilities of a visit by the new president look increasingly unlikely in the near future.
+
+2024-01-10T08:03:18+05:30
+### [The Women Who Fought for Justice for Bilkis Bano](https://thewire.in/law/the-women-who-fought-for-justice-for-bilkis-bano)
+
+No Article text 
+Behind the Supreme Court's judgment against the Gujarat government's premature release of the 11 convicts charged with gang-rape and mass murder are a group of women who came together for a cause they believed in.
+
 2024-01-09T21:08:22+05:30
 ### [In Her Own Words: What Bilkis Bano Went Through in 2002](https://thewire.in/rights/in-her-own-words-what-bilkis-bano-went-through-in-2002)
 

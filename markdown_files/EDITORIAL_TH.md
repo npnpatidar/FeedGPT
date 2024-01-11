@@ -1,3 +1,27 @@
+Fri, 12 Jan 2024 00:20:00 +0530
+### [The Speaker’s court: On the Maharashtra Assembly Speaker’s ruling](https://www.thehindu.com/opinion/editorial/the-speakers-court-on-the-maharashtra-assembly-speakers-ruling/article67731204.ece)
+
+Article found but Couldn't summarize 
+Maharashtra example shows why power to disqualify should be in independent hands
+
+Fri, 12 Jan 2024 00:10:00 +0530
+### [Show of fairness: On the formula for selection of Republic Day tableaux](https://www.thehindu.com/opinion/editorial/show-of-fairness-on-the-formula-for-selection-of-republic-day-tableaux/article67731438.ece)
+
+Article found but Couldn't summarize 
+Tableau rotational plan  for States and Union Territories is an equitable one
+
+Thu, 11 Jan 2024 00:20:00 +0530
+### [A change for the worse: On the rapid decline in India-Maldives ties](https://www.thehindu.com/opinion/editorial/a-change-for-the-worse-on-the-rapid-decline-in-india-maldives-ties/article67727010.ece)
+
+Article found but Couldn't summarize 
+India and the Maldives should see the benefits of closer ties
+
+Thu, 11 Jan 2024 00:10:00 +0530
+### [Predictably comfortable: On Sheikh Hasina’s electoral win in Bangladesh](https://www.thehindu.com/opinion/editorial/predictably-comfortable-on-sheikh-hasinas-electoral-win-in-bangladesh/article67727058.ece)
+
+Article found but Couldn't summarize 
+Sheikh Hasina enjoys popular support, but she must be more accommodative
+
 Wed, 10 Jan 2024 00:30:00 +0530
 ### [Good growth, low demand: On the NSO projection](https://www.thehindu.com/opinion/editorial/good-growth-low-demand-the-hindu-editorial-on-the-nso-projection/article67722676.ece)
 

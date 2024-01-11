@@ -1,3 +1,126 @@
+Thu, 11 Jan 2024 23:05:47 +0530
+### [The US has become too unstable a beacon of democracy](https://www.livemint.com/opinion/online-views/the-us-has-become-too-unstable-a-beacon-of-democracy-11704989026682.html)
+
+Article found but Couldn't summarize 
+America’s post-Trump political crisis does not augur well for democracies elsewhere. Orderly transfers of power in the US are of utmost importance for a liberal world order.
+
+Thu, 11 Jan 2024 23:01:11 +0530
+### [Scenario analysis: How will the global economy land this year?](https://www.livemint.com/opinion/online-views/scenario-analysis-how-will-the-global-economy-land-this-year-11704975045817.html)
+
+Article found but Couldn't summarize 
+A soft landing is widely expected for advanced economies. But a no-landing would be good for their real economy and bad for assets, as it may delay rate cuts. A bumpy landing would be bad for stocks and good for bond prices as policy easing may start sooner. Don’t rule out worse scenarios.
+
+Thu, 11 Jan 2024 22:57:18 +0530
+### [Boeing’s teary CEO pulled off a delicate balance in his contrition](https://www.livemint.com/opinion/online-views/boeings-teary-ceo-pulled-off-a-delicate-balance-in-his-contrition-11704975440008.html)
+
+Article found but Couldn't summarize 
+Corporate apologies are harder to make than one may think. Research says that emotional displays can be risky if they seem put-on but helpful if done earnestly and backed by a credible commitment to make amends.
+
+Thu, 11 Jan 2024 22:56:45 +0530
+### [The India-Singapore economic corridor is looking up](https://www.livemint.com/opinion/online-views/the-india-singapore-economic-corridor-is-looking-up-11704975774477.html)
+
+Article found but Couldn't summarize 
+Bilateral trade more than quadrupled after the two nations signed their Comprehensive Economic Cooperation Agreement in 2005. It’s more than just an economic collaboration as the vast scope for mutual gains can be instrumental in shaping global dynamics as the Asia-Pacific region emerges.
+
+Thu, 11 Jan 2024 16:21:46 +0530
+### [The point where Aditya stays put, almost](https://www.livemint.com/opinion/columns/the-point-where-aditya-stays-put-almost-11704969237649.html)
+
+Article found but Couldn't summarize 
+Is there a point where the gravitational attraction from the sun and the earth on a spacecraft such as Aditya-L1 act to keep it there? Turns out, there is. Not just one, but five such points called Lagrangian points.
+
+Thu, 11 Jan 2024 14:36:12 +0530
+### [Does Maruti need a Sanjeevani revival?](https://www.livemint.com/opinion/online-views/does-maruti-need-a-sanjeevani-revival-11704963577693.html)
+
+Article found but Couldn't summarize 
+Maruti Suzuki must contemplate a strategic reimagination, aiming to establish itself as a global auto major with an Indian origin
+
+Thu, 11 Jan 2024 12:03:34 +0530
+### [Xi Jinping is obsessed with political loyalty in the PLA](https://www.livemint.com/opinion/online-views/xi-jinping-is-obsessed-with-political-loyalty-in-the-pla-11704954410169.html)
+
+Article found but Couldn't summarize 
+Ideology is undermining China’s drive to prepare forces for combat
+
+Thu, 11 Jan 2024 08:00:03 +0530
+### [Should India worry about retail loans growing furiously?](https://www.livemint.com/opinion/online-views/should-india-worry-about-retail-loans-growing-furiously-11704899420224.html)
+
+As GPT-3.5, I can summarize the article for you. The article discusses a consumer offer that challenges the concept of present-value of money. It explains how opting for a no-cost six-month equated monthly installment (EMI) plan for purchasing a refrigerator can result in a discount, while making the full payment instantly does not offer the same discount. The article suggests that this discount is funded by the appliance manufacturer and the lender providing the EMI option. The lender benefits from customers who delay payments and can charge higher interest rates, which subsidizes customers who pay on time. The article also mentions the increase in household debt-to-GDP ratio in India and the implications of borrowing from future earnings to consume goods and services today. It highlights the importance of strong income growth for this trend to continue and raises concerns about the end use of personal loans and potential asset quality problems for lenders. The article concludes by mentioning the efforts of the Reserve Bank of India (RBI) to address risks in unsecured consumer lending.
+
+Thu, 11 Jan 2024 08:00:02 +0530
+### [Congress stance on faith: personal matter](https://www.livemint.com/opinion/online-views/congress-stance-on-faith-personal-matter-11704900325632.html)
+
+Article found but Couldn't summarize 
+The party’s rejection of an invitation for its leaders to the Ram temple inauguration in Ayodhya might be based on a calculation of what it can gain versus what it may lose.
+
+Thu, 11 Jan 2024 08:00:02 +0530
+### [India must rationalize its import duty regime](https://www.livemint.com/opinion/online-views/india-must-rationalize-its-import-duty-regime-11704899184836.html)
+
+Article found but Couldn't summarize 
+The budget is an opportunity to rectify inversions. We need generally lower tariffs and not just item-wise fixes for better trade performance and integration with global value chains.
+
+Thu, 11 Jan 2024 00:18:43 +0530
+### [A prudential approach to risk management must not hold back credit availability for the needy](https://www.livemint.com/opinion/online-views/a-prudential-approach-to-risk-management-must-not-hold-back-credit-availability-for-the-needy-11704899595956.html)
+
+Article found but Couldn't summarize 
+Unsecured retail loans are not necessarily unproductive even if lending practices need to change. Easy financing options have given people access to smartphones, for example.
+
+Thu, 11 Jan 2024 00:14:24 +0530
+### [India’s burden of public debt has stayed within reasonable limits](https://www.livemint.com/opinion/online-views/indias-burden-of-public-debt-has-stayed-within-reasonable-limits-11704892427766.html)
+
+Article found but Couldn't summarize 
+The Centre has spent heavily on its developmental priorities without borrowing more than what our GDP growth can handle.
+
+Thu, 11 Jan 2024 00:01:26 +0530
+### [Boeing seems unable to keep up with its rival Airbus](https://www.livemint.com/opinion/online-views/boeing-seems-unable-to-keep-up-with-its-rival-airbus-11704892500125.html)
+
+Article found but Couldn't summarize 
+An Alaska Airlines Boeing 737 Max mishap has revived safety concerns. It would be ironic if Airbus were to adopt Boeing’s focus on shareholder returns.
+
+Wed, 10 Jan 2024 23:57:42 +0530
+### [Rice farming can inspire a collaborative work culture](https://www.livemint.com/opinion/online-views/rice-farming-can-inspire-a-collaborative-work-culture-11704892627405.html)
+
+Article found but Couldn't summarize 
+The armed forces offer lessons too. The key is to remember that work at its best is a social endeavour.
+
+Wed, 10 Jan 2024 14:51:56 +0530
+### [Titan glitters in Q3, beating all the odds](https://www.livemint.com/opinion/online-views/titan-glitters-in-q3-beating-all-the-odds-11704878077401.html)
+
+Article found but Couldn't summarize 
+The stock remains a darling of investors after the company's strong performance in the third quarter, with positive perceptions of its business model boosted by the “Jhunjhunwala effect”.
+
+Wed, 10 Jan 2024 12:00:04 +0530
+### [Why nutrition, not hunger alleviation, needs to be India’s primary focus](https://www.livemint.com/opinion/why-nutrition-not-hunger-alleviation-needs-to-be-india-s-primary-focus-11704794538570.html)
+
+As GPT-3.5, I can provide a summary of the article you shared. The article discusses the Indian government's efforts to eliminate hunger and improve nutrition in the country. The Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY) scheme, which provides free foodgrains to the poor, has been extended for another five years. The government will spend ₹11.8 lakh crore to provide 5 kg of free foodgrains every month to approximately 810 million people. Despite these efforts, the article highlights that India still faces challenges in achieving a nutritious diet for its population. The Poshan Abhiyan scheme, aimed at eradicating malnutrition, has not met its objectives. The article emphasizes the need to focus on balancing the diet and improving the quality of intake, including higher protein consumption, particularly among children and women. This can have positive outcomes in terms of better learning outcomes, work quality, and productivity.
+
+Wed, 10 Jan 2024 11:00:02 +0530
+### [Is Narayana Health Insurance model a gamechanger for India’s healthcare system?](https://www.livemint.com/opinion/is-narayana-health-insurance-model-a-gamechanger-for-india-s-healthcare-system-11704792532051.html)
+
+Article found but Couldn't summarize 
+Devi Shetty-owned healthcare company’s insurance product holds out promise for India’s medical insurance woes
+
+Wed, 10 Jan 2024 09:00:18 +0530
+### [Should you stay invested in small caps?](https://www.livemint.com/opinion/columns/should-you-stay-invested-in-small-caps-11704798130493.html)
+
+Article found but Couldn't summarize 
+Historical data shows that small caps outperform large caps when you invest at the bottom of the market, but under-perform them when you invest at the top.
+
+Wed, 10 Jan 2024 08:00:15 +0530
+### [Bank retail credit at  ₹50 trillion is not an economic achievement](https://www.livemint.com/opinion/online-views/bank-retail-credit-at-50-trillion-is-not-an-economic-achievement-11704813407985.html)
+
+Hmm, based on the provided text, it seems that retail lending by banks in India has crossed ₹50 trillion for the first time. Retail lending includes housing and vehicle loans, credit card receivables, loans against gold jewelry, and personal loans. Retail lending now constitutes around 32.5% of the non-food credit given by banks. This shift towards retail lending has been influenced by factors such as the merger of HDFC with HDFC Bank, the default on loans by corporates, and the cleaning up of balance sheets by banks. It is worth noting that the growth in retail lending has led to a decrease in household financial savings and a contraction in lending to micro, small, and medium enterprises.
+
+Wed, 10 Jan 2024 08:00:15 +0530
+### [Flight safety: 737 Max testing is vital](https://www.livemint.com/opinion/quick-edit/flight-safety-737-max-testing-is-vital-11704815464969.html)
+
+Article found but Couldn't summarize 
+Safety checks on 39 of the 40 Boeing 737 Max aircraft being flown in India have revealed a missing washer in one of them. An eye for detail is critical in checking air-worthiness. In aircraft design, everything has a purpose.
+
+Wed, 10 Jan 2024 08:00:15 +0530
+### [India's K-shaped recovery is not so easily debunked](https://www.livemint.com/opinion/indias-k-shaped-recovery-is-not-so-easily-debunked-11704813243035.html)
+
+Article found but Couldn't summarize 
+A report by SBI Research aims to debunk the notion of a rich-versus-poor divergence in how we have fared but the overall weight of evidence doesn’t justify rejecting the K hypothesis.
+
 Wed, 10 Jan 2024 00:23:43 +0530
 ### [Medical micro-robots would require carefully crafted regulatory oversight](https://www.livemint.com/opinion/online-views/medical-micro-robots-would-require-carefully-crafted-regulatory-oversight-11704807149714.html)
 

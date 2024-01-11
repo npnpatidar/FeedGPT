@@ -1,3 +1,152 @@
+Thu, 11 Jan 2024 22:01:10 +0530
+### [How Indore manages to top India's cleanest city list year after year](https://www.firstpost.com/explainers/how-indore-manages-to-top-indias-cleanest-city-list-year-after-year-13603902.html)
+
+Article found but Couldn't summarize 
+How Indore manages to top India's cleanest city list year after year
+
+Thu, 11 Jan 2024 20:40:58 +0530
+### [Rotten eggs, urine and more: How smelly is space?](https://www.firstpost.com/explainers/rotten-eggs-urine-and-more-how-smelly-is-space-13603722.html)
+
+In space, astronauts can encounter various smells. During the Apollo moon landings, astronauts reported a gunpowder-like smell when they returned to the lunar spacecraft and removed their helmets. Similarly, astronauts returning to the International Space Station after spacewalking have described odors such as gunpowder, ozone, and burnt steak. When the European Space Agency's Rosetta spacecraft encountered comet 67P/Churyumov-Gerasimenko, it detected compounds that emitted the stench of rotten eggs, bitter almonds, and cat urine. Astronauts often compare the smell of space to hot metal, burnt meat, burnt cakes, spent gunpowder, and welding of metal. Uranus is known to have a smell of flatulence due to the presence of hydrogen sulfide. Titan, one of Saturn's moons, has an odor of gasoline or petrol due to its oil-covered surface. Sagittarius B2, a molecular gas cloud in the Milky Way, contains alcohol and chemicals responsible for the sweet fragrances of raspberries and rum. The specific reasons behind these smells vary, from the presence of oxygen and ozone to the presence of certain compounds like polycyclic aromatic hydrocarbons (PAHs) found in burnt toast and barbecued meat.
+
+Thu, 11 Jan 2024 19:56:16 +0530
+### [What is UK Post Office Scandal? How did a TV show bring it back into spotlight?](https://www.firstpost.com/explainers/what-is-uk-post-office-scandal-how-did-a-tv-show-bring-it-back-into-spotlight-13603632.html)
+
+Article found but Couldn't summarize 
+What is UK Post Office Scandal? How did a TV show bring it back into spotlight?
+
+Thu, 11 Jan 2024 18:16:58 +0530
+### [How Mumbai Trans Harbour Link, India’s longest sea bridge, will ease travel in the megacity](https://www.firstpost.com/explainers/mumbai-trans-harbour-link-pm-narendra-modi-indias-longest-sea-bridge-inauguration-travel-time-13602562.html)
+
+Article found but Couldn't summarize 
+How Mumbai Trans Harbour Link, India’s longest sea bridge, will ease travel in the megacity
+
+Thu, 11 Jan 2024 17:52:39 +0530
+### [Mark Zuckerberg’s cows have beer and most expensive nuts. The beef over it](https://www.firstpost.com/explainers/mark-zuckerberg-cows-have-beer-and-most-expensive-nuts-the-beef-over-it-13602712.html)
+
+Article found but Couldn't summarize 
+Mark Zuckerberg’s cows have beer and most expensive nuts. The beef over it
+
+Thu, 11 Jan 2024 16:49:09 +0530
+### [Why Taiwan’s election has the world on edge](https://www.firstpost.com/explainers/why-taiwans-election-has-the-world-on-edge-13602682.html)
+
+Article found but Couldn't summarize 
+Why Taiwan’s election has the world on edge
+
+Thu, 11 Jan 2024 16:46:23 +0530
+### [Citizens go offline, shut banks and more: How Taiwan prepares for possible China invasion](https://www.firstpost.com/explainers/citizens-go-offline-shut-banks-and-more-how-taiwan-prepares-for-possible-china-invasion-13602092.html)
+
+Article found but Couldn't summarize 
+Citizens go offline, shut banks and more: How Taiwan prepares for possible China invasion
+
+Thu, 11 Jan 2024 16:44:25 +0530
+### [Australian Open 2024 has added an extra day. Here's why everyone's talking about it](https://www.firstpost.com/explainers/australian-open-2024-has-added-an-extra-day-heres-why-everyones-talking-about-it-13602362.html)
+
+Article found but Couldn't summarize 
+Australian Open 2024 has added an extra day. Here's why everyone's talking about it
+
+Thu, 11 Jan 2024 16:06:56 +0530
+### [From Australian ad executive to Denmark's future Queen: The fairytale life of Princess Mary](https://www.firstpost.com/explainers/from-australian-ad-executive-to-denmarks-future-queen-the-fairytale-life-of-princess-mary-13600852.html)
+
+Article found but Couldn't summarize 
+From Australian ad executive to Denmark's future Queen: The fairytale life of Princess Mary
+
+Thu, 11 Jan 2024 14:52:30 +0530
+### [In Graphics | Why 2023 was the hottest year on record](https://www.firstpost.com/explainers/in-graphics-why-2023-was-the-hottest-year-on-record-13601822.html)
+
+Article found but Couldn't summarize 
+In Graphics | Why 2023 was the hottest year on record
+
+Thu, 11 Jan 2024 14:32:21 +0530
+### [Why America's first nitrogen gas execution has experts up in arms](https://www.firstpost.com/explainers/why-americas-first-nitrogen-gas-execution-has-experts-up-in-arms-13601542.html)
+
+Article found but Couldn't summarize 
+Why America's first nitrogen gas execution has experts up in arms
+
+Thu, 11 Jan 2024 14:16:23 +0530
+### [Which are the 6 countries with the most powerful passports? Where does India stand?](https://www.firstpost.com/explainers/which-are-the-6-countries-with-the-worlds-most-powerful-passports-where-does-india-stand-13600582.html)
+
+Article found but Couldn't summarize 
+Which are the 6 countries with the most powerful passports? Where does India stand?
+
+Thu, 11 Jan 2024 14:08:32 +0530
+### [Big row over Republic Day tableaux: How are they chosen for 26 January parade?](https://www.firstpost.com/explainers/republic-day-tableaux-selection-row-how-are-they-chosen-for-26-january-parade-13601412.html)
+
+Article found but Couldn't summarize 
+Big row over Republic Day tableaux: How are they chosen for 26 January parade?
+
+Thu, 11 Jan 2024 13:14:10 +0530
+### [Why did the Congress turn down Ram Mandir invite? Will it hurt the party in 2024 polls?](https://www.firstpost.com/explainers/why-did-the-congress-turn-down-ram-mandir-invite-will-it-hurt-the-party-in-2024-polls-13601152.html)
+
+Article found but Couldn't summarize 
+Why did the Congress turn down Ram Mandir invite? Will it hurt the party in 2024 polls?
+
+Thu, 11 Jan 2024 12:27:33 +0530
+### [How cabbie, ferrying Bengaluru CEO who killed son, played big role in her arrest](https://www.firstpost.com/explainers/how-cab-driver-ferrying-bengaluru-ceo-who-killed-son-played-a-big-role-in-catching-her-13600662.html)
+
+Article found but Couldn't summarize 
+How cabbie, ferrying Bengaluru CEO who killed son, played big role in her arrest
+
+Thu, 11 Jan 2024 12:26:56 +0530
+### [108-ft-long incense stick, necklace made from 5,000 American diamonds: The precious gifts for Ayodhya's Ram Mandir](https://www.firstpost.com/explainers/108-ft-long-incense-stick-necklace-made-from-5000-american-diamonds-the-precious-gifts-for-ayodhyas-ram-mandir-13600252.html)
+
+Article found but Couldn't summarize 
+108-ft-long incense stick, necklace made from 5,000 American diamonds: The precious gifts for Ayodhya's Ram Mandir
+
+Thu, 11 Jan 2024 11:33:16 +0530
+### [Who is 'Buddha Boy', the Nepalese spiritual guru arrested on charges of raping a minor?](https://www.firstpost.com/explainers/who-is-buddha-boy-the-nepalese-spiritual-guru-arrested-on-charges-of-raping-a-minor-13599842.html)
+
+Article found but Couldn't summarize 
+Who is 'Buddha Boy', the Nepalese spiritual guru arrested on charges of raping a minor?
+
+Thu, 11 Jan 2024 11:02:32 +0530
+### [How a busy election year in 2024 could affect global markets](https://www.firstpost.com/explainers/how-a-busy-election-year-in-2024-could-affect-global-markets-13598502.html)
+
+Article found but Couldn't summarize 
+How a busy election year in 2024 could affect global markets
+
+Thu, 11 Jan 2024 10:14:26 +0530
+### [British lawyer, a Holocaust survivor: Israel’s legal team to battle genocide claim at ICJ](https://www.firstpost.com/explainers/british-lawyer-a-holocaust-survivor-israels-legal-team-to-battle-genocide-claim-at-icj-13599882.html)
+
+Article found but Couldn't summarize 
+British lawyer, a Holocaust survivor: Israel’s legal team to battle genocide claim at ICJ
+
+Thu, 11 Jan 2024 10:10:04 +0530
+### [Sena vs Sena: What comes next for Uddhav Thackeray after Maharashtra Speaker’s order?](https://www.firstpost.com/explainers/sena-vs-sena-what-comes-next-for-uddhav-thackeray-after-maharashtra-speakers-order-13599892.html)
+
+Article found but Couldn't summarize 
+Sena vs Sena: What comes next for Uddhav Thackeray after Maharashtra Speaker’s order?
+
+Thu, 11 Jan 2024 08:26:18 +0530
+### [No Country for Pets: Why are Americans ditching their furry friends?](https://www.firstpost.com/explainers/no-country-for-pets-why-are-americans-ditching-their-furry-friends-13594622.html)
+
+Article found but Couldn't summarize 
+No Country for Pets: Why are Americans ditching their furry friends?
+
+Thu, 11 Jan 2024 07:35:36 +0530
+### [FirstUp: Bangladesh's Cabinet to be sworn in, Israel genocide case in ICJ... today's big stories](https://www.firstpost.com/explainers/firstup-sc-hears-satyendar-jain-plea-bangladesh-cabinet-sworn-in-israel-genocide-case-in-icj-todays-big-stories-13599272.html)
+
+Article found but Couldn't summarize 
+FirstUp: Bangladesh's Cabinet to be sworn in, Israel genocide case in ICJ... today's big stories
+
+Wed, 10 Jan 2024 20:58:28 +0530
+### [The 'Real' Shiv Sena: How Maharashtra Speaker’s verdict is a big win for Eknath Shinde](https://www.firstpost.com/explainers/shiv-sena-mlas-disqualification-verdict-maharashtra-speaker-eknath-shinde-uddhav-thackeray-13599022.html)
+
+Article found but Couldn't summarize 
+The 'Real' Shiv Sena: How Maharashtra Speaker’s verdict is a big win for Eknath Shinde
+
+Wed, 10 Jan 2024 19:05:18 +0530
+### [How US and UK foiled ‘largest Houthi attack’ in Red Sea](https://www.firstpost.com/explainers/how-us-and-uk-foiled-largest-houthi-attack-in-red-sea-13598872.html)
+
+Article found but Couldn't summarize 
+How US and UK foiled ‘largest Houthi attack’ in Red Sea
+
+Wed, 10 Jan 2024 18:59:18 +0530
+### [Why spat with India only hurts common Maldivians](https://www.firstpost.com/explainers/why-spat-with-india-only-hurts-common-maldivians-13598312.html)
+
+Article found but Couldn't summarize 
+Why spat with India only hurts common Maldivians
+
 Tue, 09 Jan 2024 20:17:36 +0530
 ### [He banned abayas in schools, is openly gay: Meet Gabriel Attal, France’s youngest PM](https://www.firstpost.com/explainers/gabriel-attal-frances-youngest-pm-openly-gay-banned-abayas-in-schools-13594452.html)
 
