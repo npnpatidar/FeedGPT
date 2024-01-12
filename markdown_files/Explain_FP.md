@@ -21,6 +21,12 @@ Thu, 11 Jan 2024 18:16:58 +0530
 Article found but Couldn't summarize 
 How Mumbai Trans Harbour Link, India’s longest sea bridge, will ease travel in the megacity
 
+Thu, 11 Jan 2024 18:14:28 +0530
+### [FirstUp: Mumbai Trans Harbour Link opening, Congress-AAP meeting on seat-sharing: The big news today](https://www.firstpost.com/explainers/firstup-mumbai-trans-harbour-link-opening-congress-aap-meeting-on-seat-sharing-the-big-news-today-13602782.html)
+
+Article found but Couldn't summarize 
+FirstUp: Mumbai Trans Harbour Link opening, Congress-AAP meeting on seat-sharing: The big news today
+
 Thu, 11 Jan 2024 17:52:39 +0530
 ### [Mark Zuckerberg’s cows have beer and most expensive nuts. The beef over it](https://www.firstpost.com/explainers/mark-zuckerberg-cows-have-beer-and-most-expensive-nuts-the-beef-over-it-13602712.html)
 
