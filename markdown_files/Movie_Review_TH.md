@@ -1,3 +1,42 @@
+Fri, 12 Jan 2024 18:08:08 +0530
+### [‘Captain Miller’ movie review: A fantastic Dhanush spearheads Arun Matheswaran’s mostly-engaging actioner](https://www.thehindu.com/entertainment/movies/captain-miller-movie-review-a-fantastic-dhanush-spearheads-arun-matheswarans-mostly-engaging-actioner/article67734316.ece)
+
+Article found but Couldn't summarize 
+Despite a few shortcomings, ‘Captain Miller’ is a huge step up for Arun Matheswaran — whose style and socio-political takes need more praise — and is yet another feather to Dhanush’s much-adorned cap
+
+Fri, 12 Jan 2024 17:44:13 +0530
+### [‘Ayalaan’ movie review: Sivakarthikeyan strikes a fun chemistry with an alien in an uneven film](https://www.thehindu.com/entertainment/movies/ayalaan-movie-review-sivakarthikeyan-strikes-a-fun-chemistry-with-an-alien-in-an-uneven-film/article67734268.ece)
+
+Article found but Couldn't summarize 
+R Ravikumar’s sophomore film, ‘Ayalaan’, is light-hearted and has an expressive alien to entertain, but it doesn’t push the boundaries enough to offer a gripping sci-fi experience
+
+Fri, 12 Jan 2024 15:32:19 +0530
+### [‘Guntur Kaaram’ movie review: Mahesh Babu delivers the same old dish, served with an extra dose of chillies](https://www.thehindu.com/entertainment/movies/guntur-kaaram-movie-review-director-trivikram-srinivas-and-mahesh-babus-telugu-film-is-a-stale-rehash-of-old-stories/article67733708.ece)
+
+The article discusses the Telugu film 'Guntur Kaaram' directed by Trivikram Srinivas and starring Mahesh Babu. The film aims to be an emotional family entertainer and a mass/masala film but falls short in delivering an engaging narrative. While Mahesh Babu gives a commendable performance, the supporting actors are given uninteresting characters. The two leading women have forgettable roles, and the clash between Mahesh Babu and Prakash Raj's characters lacks entertainment value. The film also faces criticism for its visuals and lack of innovation in action sequences. Overall, 'Guntur Kaaram' is considered an improvement compared to Trivikram's previous film, but it still lacks reasons for celebration.
+
+Fri, 12 Jan 2024 13:09:57 +0530
+### [‘Merry Christmas’ movie review: Sriram Raghavan delivers a sumptuous slice of crime thanks to a fabulous Vijay Sethupathi](https://www.thehindu.com/entertainment/movies/merry-christmas-movie-review-sriram-raghavan-delivers-a-sumptuous-slice-of-crime-thanks-to-a-fabulous-vijay-sethupathi/article67733569.ece)
+
+Article found but Couldn't summarize 
+The unlikely pair of Katrina Kaif and Vijay Sethupathi shine in this noirish tale of a long night where the crux is more engaging than the climax
+
+Fri, 12 Jan 2024 12:35:05 +0530
+### [‘HanuMan’ movie review: This homegrown superhero film is largely a fun ride](https://www.thehindu.com/entertainment/movies/hanuman-telugu-movie-review-prasanth-varma-and-teja-sajjas-superhero-film-is-largely-a-fun-ride/article67733097.ece)
+
+The article discusses the film "HanuMan," directed by Prasanth Varma, which follows the familiar superhero story arc. The protagonist, Hanumanthu, gains superpowers and faces off against a villain, Michael. The film incorporates elements from the Ramayana and features pop culture references and entertaining segments typical of Telugu cinema. While the visual effects are not consistently impressive, the narrative keeps the audience engaged. The article praises Teja Sajja's performance as Hanumanthu and highlights the portrayal of strong female characters. The film combines faith and mainstream cinema tropes while delivering moments that resonate with the audience. Overall, "HanuMan" is an enjoyable homegrown superhero story that doesn't exploit religious sentiments.
+
+Fri, 12 Jan 2024 12:14:46 +0530
+### [‘Killer Soup’ series review: Manoj Bajpayee and Konkona Sensharma are good fun in safe caper](https://www.thehindu.com/entertainment/movies/killer-soup-series-review-manoj-bajpayee-and-konkona-sensharma-are-good-fun-in-safe-caper/article67733392.ece)
+
+Article found but Couldn't summarize 
+Abhishek Chaubey’s black comedy series is stocked with ancillary pleasures and quirky performances; choice ingredients, however, do not a wholesome broth make
+
+Fri, 12 Jan 2024 10:11:13 +0530
+### [Nikon Z f camera review | Retro-styled, built for low-light captures](https://www.thehindu.com/sci-tech/technology/nikon-z-f-camera-review-retro-styled-built-for-low-light-captures/article67729744.ece)
+
+The article discusses the Nikon Z f, a new mirrorless camera that draws inspiration from the Nikon FM2 film camera. It features a vintage design with a magnesium alloy body and a leather-textured finish. The camera has a wide ISO range, allowing for low-light photography, and utilizes deep learning technology for autofocus. While it performs well in street photography and portrait shots, it may not be ideal for capturing fast-moving objects. The camera also offers features like monochrome picture controls and connectivity to the Snapbridge app for easy image transfer. Overall, the Nikon Z f is a well-designed camera suitable for low-light and everyday photography.
+
 Thu, 11 Jan 2024 17:52:52 +0530
 ### [‘Abraham Ozler’ movie review: A serial killer pursuit that fizzles out soon](https://www.thehindu.com/entertainment/movies/abraham-ozler-movie-review-a-serial-killer-pursuit-that-fizzles-out-soon/article67730146.ece)
 

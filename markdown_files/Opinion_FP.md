@@ -1,3 +1,59 @@
+Fri, 12 Jan 2024 19:13:34 +0530
+### [Vantage | Should Pakistan's plan to buy Chinese stealth jets worry India?](https://www.firstpost.com/opinion/vantage-should-pakistans-plan-to-buy-chinese-stealth-jets-worry-india-13607172.html)
+
+Article found but Couldn't summarize 
+Vantage | Should Pakistan's plan to buy Chinese stealth jets worry India?
+
+Fri, 12 Jan 2024 18:53:56 +0530
+### [Vantage | How a divided world allows Houthis to hold global trade hostage](https://www.firstpost.com/opinion/vantage-how-a-divided-world-allows-houthis-to-hold-global-trade-hostage-13607402.html)
+
+The article discusses the role of Yemen's Houthi rebels in holding global trade hostage in the Red Sea. While most countries agree that the attacks should stop, they are reluctant to take action or condemn the Houthis due to various concerns. Arab countries like Jordan and Egypt, who heavily rely on the Red Sea for trade, remain silent, fearing backlash. Despite the presence of warships from countries like India, the US, and the UK, the attacks by the Houthis continue. The article suggests that diplomatic pressure on Iran, who supports the Houthis, may be a logical solution, but it requires global cooperation. The author emphasizes that the Red Sea issue is not just regional but a global problem, as a significant portion of global trade passes through it.
+
+Fri, 12 Jan 2024 18:08:09 +0530
+### [Islamist radicalization is driving Muizzu’s anti-India stance, but cost for this myopic policy will be high for Maldives](https://www.firstpost.com/opinion/islamist-radicalization-is-driving-muizzus-anti-india-stance-but-cost-for-this-myopic-policy-will-be-high-for-maldives-13604562.html)
+
+The article discusses the diplomatic spat between India and the Maldives that arose from Indian Prime Minister Narendra Modi's promotion of Lakshadweep as a tourism destination. The article highlights the strong ties between the two countries, with India being the top source of foreign tourists for the Maldives and contributing significantly to its tourism sector. The controversy led to public backlash in India, with calls to boycott Maldives and explore Indian islands instead. The article also explores the deeper issues behind the Maldivian government's overreaction, including the growing power of radical Islamism and an anti-India sentiment fueled by religious and nationalist factors.
+
+Fri, 12 Jan 2024 17:50:58 +0530
+### [BJP vs Others: How saffron party’s organisational structure with Modi hallmark makes a difference](https://www.firstpost.com/opinion/bjp-vs-others-how-saffron-partys-organisational-structure-with-modi-hallmark-makes-a-difference-13607142.html)
+
+Article found but Couldn't summarize 
+BJP vs Others: How saffron party’s organisational structure with Modi hallmark makes a difference
+
+Fri, 12 Jan 2024 17:23:36 +0530
+### [Vantage | Why Nikki Haley's one win could change the US Presidential race](https://www.firstpost.com/opinion/vantage-why-nikki-haleys-one-win-could-change-the-us-presidential-race-13606562.html)
+
+Article found but Couldn't summarize 
+Vantage | Why Nikki Haley's one win could change the US Presidential race
+
+Fri, 12 Jan 2024 16:12:21 +0530
+### [Vantage | Is Muizzu leading Maldives into a Chinese debt trap?](https://www.firstpost.com/opinion/vantage-is-muizzu-leading-maldives-into-a-chinese-debt-trap-13606492.html)
+
+Article found but Couldn't summarize 
+Vantage | Is Muizzu leading Maldives into a Chinese debt trap?
+
+Fri, 12 Jan 2024 15:49:22 +0530
+### [Vantage | Why rest is not about how much you sleep](https://www.firstpost.com/opinion/vantage-why-rest-is-not-about-how-much-you-sleep-13606352.html)
+
+Article found but Couldn't summarize 
+Vantage | Why rest is not about how much you sleep
+
+Fri, 12 Jan 2024 15:25:09 +0530
+### [Congress disowns Ram again, takes another step towards political marginalisation ahead of 2024 polls](https://www.firstpost.com/opinion/congress-disowns-ram-again-takes-another-step-toward-political-marginalisation-ahead-of-2024-polls-13605122.html)
+
+The Congress leadership has decided to boycott the 'Pran Pratishtha' ceremony of the Ram Mandir in Ayodhya on January 22. They believe it is a "BJP-RSS event" and that religion is a personal matter. The article highlights the Congress party's opportunistic history regarding matters of religion and its control over Hindu temples. It also discusses the Nehruvian mindset against temples, particularly the Ram Mandir. The author suggests that the Congress missed an opportunity to align itself with the country's civilizational core by boycotting the ceremony.
+
+Fri, 12 Jan 2024 09:06:22 +0530
+### [Gaza to Smriti: Islam at war with itself as Arabs reform, neo-covert Muslims regress](https://www.firstpost.com/opinion/gaza-to-smriti-islam-at-war-with-itself-as-arabs-reform-neo-covert-muslims-regress-13604592.html)
+
+Article found but Couldn't summarize 
+Gaza to Smriti: Islam at war with itself as Arabs reform, neo-covert Muslims regress
+
+Fri, 12 Jan 2024 08:09:31 +0530
+### [Global Watch | China’s war on journalism: Largest prison for journalists in the world](https://www.firstpost.com/opinion/global-watch-chinas-war-on-journalism-largest-prison-for-journalists-in-the-world-13600332.html)
+
+China has been ranked as the largest prison for journalists in the world, with 121 journalists currently facing detention. Media freedom in China is classified as a "very serious situation" and is ranked 179th out of 180 countries. The Chinese Communist Party controls and funds most of the media, using it as a mouthpiece to spread propaganda. Journalists face censorship, harassment, and intimidation for reporting on sensitive information. The situation has worsened since Xi Jinping took leadership in 2012, with a culture of fear and restrictions on access to information. Hong Kong's press freedom has also declined since its handover to China in 1997, with media outlets coming under Chinese government control. The imposition of the National Security Law in 2020 further eroded media freedom and led to the closure of independent news outlets. Journalists have faced arrests, imprisonment, and attacks, resulting in a growing exodus of journalists from Hong Kong. Beijing's actions violate international norms and aim to control media narratives. The fate of journalism and democracy in Hong Kong is being closely watched.
+
 Thu, 11 Jan 2024 19:29:13 +0530
 ### [Vantage | Why toys shouldn't be about 'pink for girls, blue for boys'](https://www.firstpost.com/opinion/vantage-why-toys-shouldnt-be-about-pink-for-girls-blue-for-boys-13603292.html)
 

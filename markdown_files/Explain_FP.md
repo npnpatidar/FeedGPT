@@ -1,3 +1,91 @@
+Fri, 12 Jan 2024 20:44:04 +0530
+### [Houthis vow revenge after US, UK strikes. What we know about their arsenal](https://www.firstpost.com/explainers/houthis-vow-revenge-after-us-uk-strikes-what-we-know-about-their-arsenal-13607742.html)
+
+Article found but Couldn't summarize 
+Houthis vow revenge after US, UK strikes. What we know about their arsenal
+
+Fri, 12 Jan 2024 20:10:28 +0530
+### [From Brunei with Love: The royal romance of Prince Abdul Mateen and his commoner bride](https://www.firstpost.com/explainers/brunei-royal-wedding-romance-prince-abdul-mateen-commoner-bride-yang-mulia-anisha-rosnah-13606832.html)
+
+Prince Abdul Mateen, the fourth son of Brunei Sultan Hassanal Bolkiah, married his non-royal fiancée, Anisha Rosnah Isa-Kalebic, in a grandiose 10-day wedding celebration. The 32-year-old prince, known as one of Asia's most eligible bachelors, is a social media sensation with 2.5 million Instagram followers. He is sixth in line to the throne but unlikely to ascend. Rosnah is the granddaughter of one of the Sultan's special advisors and runs a fashion brand. The couple's love story has been kept private, but they have reportedly been dating for years. The wedding ceremony took place in the Omar Ali Saifuddien Mosque, and the celebrations will culminate with a grand ceremony in the palace. International royalty and political leaders are expected to attend.
+
+Fri, 12 Jan 2024 19:17:16 +0530
+### [‘Bridge of Possibilities’: What the man behind the Mumbai Trans Harbour Link says](https://www.firstpost.com/explainers/bridge-of-possibilities-what-the-man-behind-the-mumbai-trans-harbour-link-says-13607452.html)
+
+Indian Prime Minister Narendra Modi inaugurated the Mumbai Trans Harbour Link (MTHL), officially named the Atal Bihari Vajpayee Sewri-Nhava Sheva Atal Setu Sea link. The 21.8-kilometer-long sea-link connects Mumbai to Navi Mumbai, reducing travel time between the two cities from two hours to around 20 minutes. The bridge, costing Rs 17,840 crore, is expected to improve Mumbai's traffic issues and provide faster access to airports and ports. It is projected to have a daily usage of 70,000 vehicles and boost the property market in Navi Mumbai.
+
+Fri, 12 Jan 2024 18:49:36 +0530
+### [Why Mamata cited bizarre 'alphabetical order' to rename West Bengal as Bangla](https://www.firstpost.com/explainers/why-mamata-cited-bizarre-alphabetical-order-to-rename-west-bengal-as-bangla-13607392.html)
+
+Article found but Couldn't summarize 
+Why Mamata cited bizarre 'alphabetical order' to rename West Bengal as Bangla
+
+Fri, 12 Jan 2024 17:59:30 +0530
+### [Why is the Pakistan judiciary in crisis mode?](https://www.firstpost.com/explainers/why-is-the-pakistan-judiciary-in-crisis-mode-13606772.html)
+
+Article found but Couldn't summarize 
+Why is the Pakistan judiciary in crisis mode?
+
+Fri, 12 Jan 2024 17:00:15 +0530
+### [Life in plastic isn't fantastic: Why Mattel is facing flak for its new ‘Women in Film’ Barbie collection](https://www.firstpost.com/explainers/life-in-plastic-isnt-fantastic-why-mattel-is-facing-flak-for-its-new-women-in-film-barbie-collection-13606122.html)
+
+Article found but Couldn't summarize 
+Life in plastic isn't fantastic: Why Mattel is facing flak for its new ‘Women in Film’ Barbie collection
+
+Fri, 12 Jan 2024 16:17:49 +0530
+### [PM inaugurates Mumbai Trans Harbour Link: Who can use it, who can't?](https://www.firstpost.com/explainers/pm-inaugurates-indias-longest-sea-bridge-mumbai-trans-harbour-link-who-can-use-it-who-cant-13606332.html)
+
+The Mumbai Trans Harbour Link (MTHL), officially known as Atal Setu Nhava Sheva Sea Link, is India's longest sea bridge. It has been inaugurated by Prime Minister Narendra Modi and will significantly reduce travel time between Mumbai and Navi Mumbai. The bridge spans 21.8 kilometers and has six lanes. It was constructed at a cost of Rs 17,840 crore. The MTHL is named after former Prime Minister Atal Bihari Vajpayee and is expected to shorten travel time to Pune, Goa, and South India. Four-wheelers, including cars, taxis, light motor vehicles, minibuses, and two-axle buses, are allowed on the bridge. However, motorcycles, mopeds, three-wheeler tempos, auto rickshaws, tractors, animal-drawn vehicles, and slow-moving vehicles are not permitted. The maximum speed limit for four-wheelers on the bridge is 100 kmph, which reduces to 40 kmph during ascent and descent. The toll for the MTHL ranges from Rs 200 to Rs 300, depending on the stretch. The MTHL is a remarkable engineering feat, with 16.50 kilometers constructed over the sea and 5.5 kilometers on land. It is made of structural steel that is 17 times the weight of the Eiffel Tower and equivalent to the weight of 500 Boeing airplanes. The concrete used is six times that of the Statue of Liberty. The MTHL is expected to bring about speedy development and attract new projects and corporations to the area. It will greatly improve connectivity and reduce traffic congestion.
+
+Fri, 12 Jan 2024 16:06:15 +0530
+### [What are the big concerns of Taiwan's voters? It is NOT China](https://www.firstpost.com/explainers/what-are-the-big-concerns-of-taiwans-voters-it-is-not-china-13605992.html)
+
+Taiwan's upcoming election is expected to bring about significant changes. While China remains a concern, many voters, especially the younger generation, prioritize other issues. The struggling economy is a major concern, with low-wage workers, housing affordability, and unemployment being key issues. The cost of childcare, corruption, judicial reform, education, and minority rights are also important to voters. The ruling Democratic Progressive Party (DPP) and Kuomintang (KMT) are the leading parties, but the Taiwan People's Party (TPP) is gaining support, particularly among the youth. The threat from China is not overlooked, but young voters are also focused on a range of other issues.
+
+Fri, 12 Jan 2024 15:16:33 +0530
+### [Why PM chose Nashik's Panchvati to begin rituals for Ram Mandir opening](https://www.firstpost.com/explainers/pm-narendra-modi-nashik-panchvati-special-11-day-rituals-ayodhya-ram-mandir-opening-13605792.html)
+
+Prime Minister Narendra Modi announced that he will observe a special ritual called "Yama Niyama" for 11 days prior to the consecration ceremony of the Ram temple in Ayodhya. He will start the rituals from Panchvati in Maharashtra's Nashik. Panchvati holds significance in the Ramayana as Lord Ram, Goddess Sita, and Lord Lakshman spent part of their exile there. PM Modi will visit Panchvati and follow the rituals, including fasting, as part of his anushthan. He also offered prayers at the Kalaram temple in Nashik.
+
+Fri, 12 Jan 2024 15:15:00 +0530
+### [Ram Temple opening: Why all four Shankaracharyas are skipping the Ayodhya event](https://www.firstpost.com/explainers/ram-temple-opening-why-all-four-shankaracharyas-are-skipping-the-ayodhya-event-13605962.html)
+
+Article found but Couldn't summarize 
+Ram Temple opening: Why all four Shankaracharyas are skipping the Ayodhya event
+
+Fri, 12 Jan 2024 13:41:18 +0530
+### [Why have UK, US attacked Iran-backed Houthis in Yemen? Will this lead to wider conflict in West Asia?](https://www.firstpost.com/explainers/why-have-uk-us-attacked-iran-backed-houthis-in-yemen-will-this-lead-to-wider-conflict-in-west-asia-13605622.html)
+
+Article found but Couldn't summarize 
+Why have UK, US attacked Iran-backed Houthis in Yemen? Will this lead to wider conflict in West Asia?
+
+Fri, 12 Jan 2024 13:04:29 +0530
+### [How a note by Bengaluru CEO who 'murdered' son could serve as a vital piece of evidence](https://www.firstpost.com/explainers/how-a-note-by-bengaluru-ceo-who-murdered-son-could-serve-as-a-vital-piece-of-evidence-13605542.html)
+
+Suchana Seth, CEO of The Mindful AI Lab in Bengaluru, has been arrested for the alleged murder of her four-year-old son. New details have emerged, including the discovery of a crumpled note written with eyeliner, which reveals Seth's mental state and her desire to prevent her estranged husband from having custody of their son. The note has been sent for examination along with samples of Seth's handwriting. Investigators believe the note could provide crucial evidence regarding Seth's motivations. Additionally, Seth had expressed that her son reminded her of her troubled relationship with her husband. Authorities are recreating the crime scene and gathering information from the cab driver who transported Seth from Goa to Karnataka. The four-year-old has been laid to rest, and people who know Seth have expressed shock over the allegations against her.
+
+Fri, 12 Jan 2024 11:41:45 +0530
+### [OpenAI CEO Sam Altman marries longtime boyfriend: Who is Oliver Mulherin?](https://www.firstpost.com/explainers/openai-ceo-sam-altman-marries-longtime-boyfriend-who-is-oliver-mulherin-13605082.html)
+
+OpenAI CEO Sam Altman married his longtime partner, Oliver Mulherin, in a low-key wedding ceremony in Hawaii. The couple's marriage was confirmed after pictures of the wedding were shared on social media. Mulherin is an Australian software engineer who has worked on various AI projects and specializes in the Internet of Things. Altman and Mulherin have been together for several years and expressed their desire to start a family. Altman is known for his role as CEO of OpenAI, and the company recently launched the GPT Store.
+
+Fri, 12 Jan 2024 10:26:16 +0530
+### [South Africa's genocide case against Israel: Can the UN do anything about it?](https://www.firstpost.com/explainers/south-africas-genocide-case-against-israel-can-the-un-do-anything-about-it-13604772.html)
+
+Article found but Couldn't summarize 
+South Africa's genocide case against Israel: Can the UN do anything about it?
+
+Fri, 12 Jan 2024 10:19:20 +0530
+### [Why did Iran seize an oil tanker off the coast of Oman? Will this lead to a bigger conflict?](https://www.firstpost.com/explainers/why-did-iran-seize-an-oil-tanker-off-the-coast-of-oman-will-this-lead-to-a-bigger-conflict-13604852.html)
+
+Article found but Couldn't summarize 
+Why did Iran seize an oil tanker off the coast of Oman? Will this lead to a bigger conflict?
+
+Fri, 12 Jan 2024 08:19:21 +0530
+### [Ram Mandir: What is the ‘pran pratishtha’ ceremony? Why is it important?](https://www.firstpost.com/explainers/ram-mandir-what-is-the-pran-pratishtha-ceremony-why-is-it-important-13597882.html)
+
+The pran pratishtha ceremony at the Ayodhya Ram temple will take place on January 22nd. This sacred Hindu ritual is performed to invoke the deity into an idol, making it sacred and capable of accepting prayers. The ceremony will be preceded by seven days of rituals, including bathing the idol in milk and applying fragrances. The idol will be placed in the temple's sanctum sanctorum facing east, and priests will sing hymns and perform rituals. The ceremony concludes with the opening of the statue's eyes. Once completed, the pran pratishtha is considered eternal. The Ram Mandir launch is expected to be a historic event, with Prime Minister Narendra Modi and many VVIPs in attendance.
+
 Thu, 11 Jan 2024 22:01:10 +0530
 ### [How Indore manages to top India's cleanest city list year after year](https://www.firstpost.com/explainers/how-indore-manages-to-top-indias-cleanest-city-list-year-after-year-13603902.html)
 

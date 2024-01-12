@@ -1,3 +1,48 @@
+Fri, 12 Jan 2024 12:26:45 +0000
+### [Who are the Shia Houthis, and why are they aligned with the Sunni Palestinian Hamas?](https://indianexpress.com/article/explained/explained-global/us-uk-strike-houthi-yemen-middle-east-9106645/)
+
+As GPT-3.5, I can provide a summary of the article you shared. The United States and the United Kingdom conducted strikes against Houthi groups in Yemen on January 11. These strikes were in response to the Houthi attacks on ships in the Red Sea, a vital maritime trade route. The Houthis have been attacking ships in protest of the Israeli military's actions in Gaza. The strikes targeted multiple Houthi locations and were supported by several countries. The Red Sea attacks have raised concerns about the conflict involving other countries and groups. The peace negotiations in Yemen may also be affected by these recent developments.
+
+Fri, 12 Jan 2024 10:17:55 +0000
+### [The story of Nashik’s Kalaram temple, visited by Modi — and by Ambedkar many decades ago](https://indianexpress.com/article/explained/explained-history/nashik-kala-ram-temple-modi-ambedkar-9106708/)
+
+Article found but Couldn't summarize
+
+Fri, 12 Jan 2024 10:03:04 +0000
+### [Hafiz Abdul Salam Bhuttavi dead: Who was the 26/11 attacks conspirator and LeT leader?](https://indianexpress.com/article/explained/explained-global/hafiz-abdul-salam-bhuttavi-let-9106693/)
+
+Hafiz Abdul Salam Bhuttavi, a founding member of Lashkar-e-Tayyiba (LeT) and a key conspirator in the 2008 Mumbai terror attack, has been confirmed dead by the United Nations Security Council. He passed away due to cardiac arrest on May 29, 2023, while in the custody of the Pakistani government. Bhuttavi, who was born in 1946, played a significant role in establishing LeT's base in Lahore and served as the acting chief on multiple occasions when Hafiz Saeed, the chief and mastermind behind the Mumbai attack, was detained. He was also involved in issuing fatwas and preparing terrorists for the Mumbai attacks. Bhuttavi had been serving a 16-year sentence in a terror financing case and was in prison since 2019.
+
+Fri, 12 Jan 2024 08:34:09 +0000
+### [What happened in Bhutan’s elections — and are the results a win for India?](https://indianexpress.com/article/explained/explained-global/bhutans-elections-india-china-9106431/)
+
+The People's Democratic Party (PDP) and its leader Tshering Tobgay emerged victorious in the runoff election in Bhutan, defeating the Bhutan Tendrel Party (BTP). The PDP secured 30 seats in the national legislature, with a significant voter turnout. Bhutan's elections have been relatively fair and peaceful, despite the recent transition to a parliamentary democracy. However, there are concerns about media censorship, discrimination against minorities, and lack of accountability in the political system. The election took place amidst economic challenges, including a struggling tourism industry and high youth unemployment. Tobgay focused his campaign on addressing these issues and attracting investment to boost the economy. India, Bhutan's largest donor and ally, plays an important role in Bhutan's economic recovery, while China's influence in the region remains a point of contention. Tobgay is considered pro-India, strengthening India's strategic interests in the area. Indian Prime Minister Narendra Modi congratulated Tobgay on his victory and expressed a desire to strengthen the friendly cooperation between the two countries.
+
+Fri, 12 Jan 2024 04:03:53 +0000
+### [Gunmen hold journalists hostage during TV programme: What is happening in Ecuador?](https://indianexpress.com/article/explained/explained-global/what-is-happening-in-ecuador-9105826/)
+
+Article found but Couldn't summarize
+
+Fri, 12 Jan 2024 02:33:26 +0000
+### [Genocide case against Israel: Who were the Amalek, whose mention by Netanyahu came up at the ICJ](https://indianexpress.com/article/explained/explained-global/who-were-the-amalek-netanyahu-gaza-israel-icj-9105643/)
+
+The Amalekites were an ancient biblical nation mentioned in the Hebrew Bible. According to the biblical accounts, they were the first to attack the Jewish people after their escape from Egypt. The story of the Amalekites has been used by Israeli politicians to justify violence against Palestinians. The invocation of Amalek evokes collective memories of historical persecution and serves as a justification for brutal reprisals. For example, in 1994, an Israeli extremist named Bharuch Goldstein gunned down unarmed Palestinians, believing them to be the Amalekites. It is concerning that the identification of Palestinians with Amalekites has had deadly consequences.
+
+Fri, 12 Jan 2024 02:30:14 +0000
+### [India-US trade policy meeting starts today: GSP, laptop import monitoring system on table](https://indianexpress.com/article/explained/explained-sci-tech/india-us-trade-policy-meeting-starts-today-gsp-laptop-import-monitoring-system-on-table-9105997/)
+
+India and the US will address various trade issues in their trade policy forum meeting. These include India's request for the restoration of the Generalised System of Preferences (GSP) revoked by former US President Donald Trump and the US's objection to India's laptop import monitoring system. The meeting is crucial as the US is India's largest trade partner, and India relies on US demand for export earnings. Closer trade ties could attract more foreign direct investment (FDI) and help resolve trade tensions. The US is concerned about India's monitoring system for laptop imports, questioning its purpose as a non-tariff measure. India also seeks a liberal visa regime and a totalisation agreement for social security benefits for Indian professionals working in the US.
+
+Fri, 12 Jan 2024 02:00:49 +0000
+### [Mumbai Trans Harbour Link inaugurated: How the country’s longest sea bridge will cut travel time](https://indianexpress.com/article/explained/mumbai-trans-harbour-link-across-the-sea-in-20-minutes-9105812/)
+
+Prime Minister Narendra Modi inaugurated the Mumbai Trans Harbour Link, a 22 km bridge over the sea that connects Sewri and Chirle. The bridge, also known as Atal Setu Nhava Sheva Sea Link, will reduce travel time between the two locations to under 20 minutes. The project, which was conceptualized six decades ago, aims to improve connectivity in the Mumbai Metropolitan Region and promote economic development. The bridge is expected to benefit commuters and facilitate greater integration of Navi Mumbai with other areas, including the under-construction Navi Mumbai International Airport. However, concerns remain regarding the toll fees and the lack of public transport facilities on the bridge.
+
+Fri, 12 Jan 2024 00:30:28 +0000
+### [ICJ genocide case against Israel: What South Africa argued on Day 1](https://indianexpress.com/article/explained/explained-global/icj-genocide-case-israel-south-africa-9105662/)
+
+Article found but Couldn't summarize
+
 Thu, 11 Jan 2024 13:54:25 +0000
 ### [Taiwan votes on January 13: Amid tensions with China, why these polls are significant](https://indianexpress.com/article/explained/explained-global/taiwan-january-13-elections-primer-china-9105601/)
 

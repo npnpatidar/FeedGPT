@@ -1,3 +1,21 @@
+Fri, 12 Jan 2024 17:18:41 +0530
+### [What were the allegations against PVR for abuse of dominant position? | Explained](https://www.thehindu.com/business/Industry/what-were-the-allegations-against-pvr-for-abuse-of-dominant-position-explained/article67730175.ece)
+
+Article found but Couldn't summarize 
+The Competition Commission of India (CCI) in an order on January 3 rejected allegations that multiplex chain operator PVR engaged in abuse of its dominant market position.
+
+Fri, 12 Jan 2024 17:17:23 +0530
+### [The Israeli Supreme Court’s historic verdict against Netanyahu’s judicial overhaul law | Explained](https://www.thehindu.com/news/international/israeli-supreme-courts-historic-verdict-against-netanyahus-judicial-overhaul-law-explained/article67712563.ece)
+
+Article found but Couldn't summarize 
+The decision marks the first time that Israel’s highest court struck down a quasi-constitutional Basic Law. What does the ruling say and what happens next?
+
+Fri, 12 Jan 2024 10:30:00 +0530
+### [What is Humboldt’s enigma and what does it mean for India? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/humboldts-enigma-shola-sky-islands-explained/article67730052.ece)
+
+Article found but Couldn't summarize 
+The earth’s tropical areas receive more sunlight, so they should be the most biodiverse places. Mountains defy this rule.
+
 Thu, 11 Jan 2024 22:43:36 +0530
 ### [Unravelling the shift in India-Maldives relations | Explained](https://www.thehindu.com/news/national/india-maldives-diplomatic-tensions-controversies-recent-explainer-muizzu-modi/article67722833.ece)
 

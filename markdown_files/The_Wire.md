@@ -1,3 +1,195 @@
+2024-01-12T20:12:35+05:30
+### [Israel's Response to South Africa's Gaza Genocide Case at ICJ](https://thewire.in/world/israels-response-to-south-africas-gaza-genocide-case-at-icj)
+
+No Article text 
+Israel told the ICJ that it was acting in self-defence, emphasising that it was fighting Hamas, not the Palestinian population. It urged the court to dismiss the case as groundless and reject South Africa's request to order a halt to the offensive.
+
+2024-01-12T20:00:02+05:30
+### [If Congress is ‘Anti-Hindu’, Are Shankaracharyas Also ‘Anti-Hindu’?](https://thewire.in/politics/if-congress-is-anti-hindu-are-shankaracharyas-also-anti-hindu)
+
+No Article text 
+The grand inauguration ceremony with Prime Minister Narendra Modi presiding over it himself, is the biggest instance of how the BJP has succeeded in merging religious matters with State policy.
+
+2024-01-12T19:09:53+05:30
+### [Who Represents the Sanatan – The Seer of Puri or Shri Modi?](https://thewire.in/religion/who-represents-the-sanatan-the-seer-of-puri-or-shri-modi)
+
+No Article text 
+Would it be apposite for media houses to foreground the historic nature of the schism between the Shankaracharya and the forces of political Hinduism?
+
+2024-01-12T19:00:21+05:30
+### [Merry Christmas: Just Sriram Raghavan Showing off His Skills and Beguiling His Audience](https://thewire.in/film/merry-christmas-sriram-raghavan-katrina-kaif-vijay-sethupathi)
+
+No Article text 
+Vijay Sethupathi shines in this suspense film. Katrina Kaif adds to the intrigue in a unique way.
+
+2024-01-12T18:48:29+05:30
+### [PDP Alleges ‘Serious Security Lapses’ Responsible for Mehbooba Mufti’s Road Accident in Kashmir](https://thewire.in/security/pdp-alleges-serious-security-lapses-responsible-for-mehbooba-muftis-road-accident-in-kashmir)
+
+No Article text 
+'The accident points towards the lack of detailed drill for a Z+ protected person travelling on a highway which remains busy and has a history of targeted attacks,' said PDP general secretary Mehboob Beg.
+
+2024-01-12T18:32:48+05:30
+### [Like it Or Not, Ram Did Eat Meat in the 'Ramayan'](https://thewire.in/religion/like-it-or-not-ram-did-eat-meat-in-the-ramayan)
+
+No Article text 
+The needless controversy surrounding the Tamil film Annapoorani, which was removed by Netflix, could have been avoided had the 'upper' caste people outraged over a dialogue actually read the very text they were seeking to defend.
+
+2024-01-12T18:30:25+05:30
+### [Does the CAG Live Up to the NDA's Election Promise of a Clean Government?](https://thewire.in/government/comptroller-auditor-general-review-2014-2023-india-black-boxed)
+
+No Article text 
+Some drawbacks of the CAG's performance during the last decade are an opaque selection process, slowed audits and unusual redactions.
+
+2024-01-12T18:30:11+05:30
+### [Concerned About ED, CBI Actions Ahead of Ayodhya, but Won’t Be Cowed Down: RJD’s Manoj Jha](https://thewire.in/politics/unnerved-by-ed-cbi-action-ahead-of-ayodhya-but-wont-be-cowed-down-rjds-manoj-jha)
+
+No Article text 
+While investigative agencies continue to issue summons to leaders opposed to Hindutva, the BJP, RSS and the Hindi media remain focused on the Ram Temple’s January 22 consecration.
+
+2024-01-12T18:00:25+05:30
+### [Maldives Row Fact Check: Ministers, Celebrities Share Foreign Beach Photos as Destinations in India](https://thewire.in/politics/maldives-row-fact-check-ministers-celebrities-share-foreign-beach-photos-as-destinations-in-india)
+
+No Article text 
+These pictures shared by well-known personalities including politicians as being from India do not, in fact, depict Lakshadweep or any destination in India.
+
+2024-01-12T17:48:32+05:30
+### [Israel Could Perpetrate More Genocidal Acts: Lawyer for South Africa at ICJ Hearings](https://thewire.in/world/israel-genocidal-south-africa-gaza-irish-lawyer)
+
+No Article text 
+'The international community continues to fail the Palestinian people, despite the overt dehumanizing genocidal rhetoric by Israeli governmental and military officials, matched by the Israeli army’s actions on the ground...'
+
+2024-01-12T17:30:32+05:30
+### [Assam Congress Unit Writes to EC Over Withholding 'Important Data' on 2021 Assembly Polls](https://thewire.in/politics/assam-congress-unit-writes-to-ec-over-withholding-important-data-on-2021-assembly-polls)
+
+No Article text 
+The Congress sought to know why changes were carried out in Form 20, or the final result sheet, of the last assembly elections, by withholding the names of polling booths and the names of political parties to whom the candidates in the fray belonged.
+
+2024-01-12T17:15:13+05:30
+### [India’s Outward Foreign Direct Investment Sharply Declines to $2.25 Billion in December: RBI Data](https://thewire.in/business/indias-outward-foreign-direct-investment-sharply-declines-to-2-25-billion-in-december-rbi-data)
+
+No Article text 
+OFDI is a business strategy in which a domestic firm expands its operations to a foreign country. According to 'Business Standard', they were also down from $4 billion in November 2023.
+
+2024-01-12T17:00:32+05:30
+### [A Short History of the Australian Open](https://thewire.in/sport/a-short-history-of-the-australian-open)
+
+No Article text 
+The modern Australian Open is a major contributor to the Australian economy, as well as a mammoth operational undertaking.
+
+2024-01-12T16:49:05+05:30
+### [Watch | As the ICJ Case Starts is Israel Guilty of Genocide in Gaza?](https://thewire.in/world/watch-as-the-icj-case-starts-is-israel-guilty-of-genocide-in-gaza)
+
+No Article text 
+Danny Ayalon, Israel’s former Deputy Foreign Minister and former Ambassador to USA, discusses the case brought against his country by South Africa.
+
+2024-01-12T16:07:12+05:30
+### [South Africa Is Taking Israel to Court for Genocide in Palestine. What Does It Mean for the War In Gaza?](https://thewire.in/world/south-africa-is-taking-israel-to-court-for-genocide-in-palestine-what-does-it-mean-for-the-war-in-gaza)
+
+No Article text 
+At this stage, South Africa does not need to conclusively prove genocide has taken place. That comes at the later phase. South Africa does, however, need to demonstrate that Palestinians face irreparable harm and that, on the facts, Israel’s conduct could be considered to be acts of genocide.
+
+2024-01-12T15:45:07+05:30
+### [UP Government Ends Honorarium to Madrasa Teachers, Move to Adversely Affect 1 Million Students](https://thewire.in/education/up-government-ends-honorarium-to-madrasa-teachers-move-to-adversely-affect-1-million-students)
+
+No Article text 
+The Yogi Adityanath government's decision, based on a Union government's order, will rob the livelihood of nearly 21,000 teachers who teach modern subjects in 7,742 madrasas across the state.
+
+2024-01-12T15:39:05+05:30
+### ['Repetition Says a Lot About Israel's Genocidal Intent in Gaza': South Africa at ICJ](https://thewire.in/world/israel-south-africa-genocidal-intent-gaza-icj)
+
+No Article text 
+'The articulated intent is the destruction of Palestinian life in all its manifestations,' advocate Tembeka Ngcukaitobi said at the ICJ.
+
+2024-01-12T15:16:11+05:30
+### [Rahul Gandhi’s Yatra Must Talk About Social Justice But Also Spiritual Justice for Shudras, Dalits](https://thewire.in/caste/rahul-gandhis-yatra-must-talk-about-social-justice-but-also-spiritual-justice-for-shudras-dalits)
+
+No Article text 
+The BJP will never talk about priesthood for anyone but Brahmins.
+
+2024-01-12T15:13:59+05:30
+### [Re-Examining the Idea of ‘Hindu Pride'](https://thewire.in/religion/why-its-crucial-to-understand-that-hindu-pride-goes-beyond-the-modi-factor)
+
+No Article text 
+The association of Hindu identity with the BJP and Modi's policies has led to concerns about majoritarianism and the marginalisation of other religious groups. Furthermore, attributing India's success solely to its Hindu heritage risks erasing the contributions of other communities.
+
+2024-01-12T15:06:41+05:30
+### [Harm, Calculation, Reproductive Violence: Why South Africa Feels Israel's Conduct in Gaza Is Genocide](https://thewire.in/world/israel-south-africa-genocidal-acts-icj)
+
+No Article text 
+'Israel is blocking the delivery of life-saving aid, including essential medical kits for delivering babies, in circumstances where an estimated 180 women are giving birth in Gaza each day.'
+
+2024-01-12T14:00:24+05:30
+### ['Political Propaganda': UGC Directive to Universities to Use 'Beti Bachao' Logo Draws Flak](https://thewire.in/education/political-propaganda-ugc-directive-to-universities-to-use-beti-bachao-logo-draws-flak)
+
+No Article text 
+The University Grants Commission directed higher education institutions in the country to use Beti Bachao Beti Padhao logo on their website, portals, stationery items, events, and prominent places in their premises.
+
+2024-01-12T13:36:49+05:30
+### [Baloch Women Continue Protest Despite Police Action, Government Indifference](https://thewire.in/rights/baloch-women-continue-protest-despite-police-action-government-indifference)
+
+No Article text 
+“When the government tells us where our relatives are, then, we will leave your Islamabad," a protestor said.
+
+2024-01-12T13:16:26+05:30
+### [SBI Has ‘Long Avoided’ Processing Payments for Russian Oil to Stay Clear of US Sanctions: Report](https://thewire.in/energy/sbi-long-avoided-payment-transactions-russian-oil-g7-price-cap)
+
+No Article text 
+'It is because SBI has such a major presence in the US. This, despite the fact that bank transfer within the price cap can be made,' Mint reported.
+
+2024-01-12T12:49:53+05:30
+### [South Africa's Case Against Israel Divides Opinion in Africa](https://thewire.in/world/south-africas-case-against-israel-divides-opinion-in-africa)
+
+No Article text 
+Proceedings have opened at the International Court of Justice (ICJ), where South Africa accuses Israel of 'genocidal acts' in Gaza. Analysts say the case could drag on for years.
+
+2024-01-12T12:26:25+05:30
+### [TCS, Infosys Employee Headcount Continues to Dip, Record a Fall of Over 11,000](https://thewire.in/labour/tcs-infosys-employee-headcount-continues-to-dip-record-a-fall-of-over-11000)
+
+No Article text 
+While TCS employee count came down by 5,680 in the third quarter (October–December) of the current financial year, Infosys workforce figure reduced by 6,101 in the same period.
+
+2024-01-12T12:00:46+05:30
+### [Uddhav Thackeray to Skip January 22 Ayodhya Event](https://thewire.in/politics/uddhav-thackeray-to-skip-january-22-ayodhya-event)
+
+No Article text 
+Thackeray said that he will pray at the Kalaram temple in Maharashtra's Nashik district.
+
+2024-01-12T11:03:03+05:30
+### [US, UK Strike Iran-Backed Houthi Targets Across Yemen After Red Sea Attacks](https://thewire.in/world/us-uk-strike-iran-backed-houthi-targets-across-yemen-after-red-sea-attacks)
+
+No Article text 
+According to US President Joe Biden, the US and UK launched 'united and resolute' response against Houthis together with the support from Australia, Bahrain, Canada, and the Netherlands.
+
+2024-01-12T11:00:16+05:30
+### [Minakshi Mukherjee Is Testament to the Left's Youth-Ward Shift. But Is it Enough?](https://thewire.in/politics/minakshi-mukherjee-cpim-left-bengal-youth)
+
+No Article text 
+The symbolic passing of the baton to the next generation was evident at Kolkata's Brigade ground where the 'Insaaf Rally' was held recently.
+
+2024-01-12T10:27:51+05:30
+### [Situation on LAC 'Stable but Sensitive'; 'Closely Monitoring' Bhutan-China Talks: Army Chief](https://thewire.in/security/situation-on-lac-stable-but-sensitive-closely-monitoring-bhutan-china-talks-army-chief)
+
+No Article text 
+General Manoj Pande also added that the Army had already sent more troops to the Rajouri-Poonch sector in the wake of resurgence of terror, while reorienting its units operating in the area.
+
+2024-01-12T09:27:34+05:30
+### [Electoral Manipulation and Ennui Permeate Pakistan’s Poll Process](https://thewire.in/south-asia/electoral-manipulation-and-ennui-permeate-pakistans-poll-process)
+
+No Article text 
+Being championed by the ‘establishment’ brings its own set of challenges, primarily the problem of legitimacy.
+
+2024-01-12T08:20:50+05:30
+### [Why Andhra Pradesh Politics Just Got Interesting](https://thewire.in/politics/jagan-sharmila-chandrababu-naidu-tdp-ysr-congress-andhra)
+
+No Article text 
+As the battle for the South heats up, the BJP which has very little presence in Andhra Pradesh wants to use Jagan’s party.
+
+2024-01-12T07:00:36+05:30
+### [The Fall of Laukkaing: Understanding Myanmar Rebels’ Takeover of Kokang Region](https://thewire.in/south-asia/the-fall-of-laukkaing-understanding-myanmar-rebels-takeover-of-kokang-region)
+
+No Article text 
+Over the years, Laukkaing has proved to be a curse for a large number of people from China as well as for many from other South and East Asian nations. The fall of the city may also result in the return of hundreds of Indians trapped in that township.
+
 2024-01-11T22:30:09+05:30
 ### [In 2023, BJP's Policies Sparked Violence and Rights Abuses in India, Says Human Rights Watch](https://thewire.in/rights/in-2023-bjps-policies-sparked-violence-and-rights-abuses-in-india-says-human-rights-watch)
 
