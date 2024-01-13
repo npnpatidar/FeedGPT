@@ -1,3 +1,8 @@
+Sat, 13 Jan 2024 10:00:06 +0530
+### [India could be the third-largest economy soon, but what about GDP per head?](https://www.livemint.com/opinion/online-views/india-could-be-the-third-largest-economy-soon-but-what-about-gdp-per-head-11705052273827.html)
+
+India's finance minister, Nirmala Sitharaman, predicts that India will become the third largest economy by FY28, which is supported by the International Monetary Fund's view. However, this alone will not significantly improve the average Indian's quality of life. To raise GDP per capita, India needs to achieve double-digit growth for a decade or more, as its current GDP per capita is much lower compared to larger economies and middle-income countries. While India has the potential for fast growth as a low-income country, sustained high growth is necessary to raise incomes like China did during its high-growth years.
+
 Fri, 12 Jan 2024 13:49:50 +0530
 ### [China: A great case study for Indian investors](https://www.livemint.com/opinion/online-views/china-a-great-case-study-for-indian-investors-11705046924814.html)
 

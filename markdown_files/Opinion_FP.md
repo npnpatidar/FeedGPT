@@ -1,3 +1,36 @@
+Sat, 13 Jan 2024 18:43:38 +0530
+### [India and the opaque credit rating metrics](https://www.firstpost.com/opinion/india-and-the-opaque-credit-rating-metrics-13610162.html)
+
+Article found but Couldn't summarize 
+India and the opaque credit rating metrics
+
+Sat, 13 Jan 2024 18:27:25 +0530
+### [How false beliefs, terrorism have endangered lives of polio vaccinators in Pakistan](https://www.firstpost.com/opinion/how-false-beliefs-terrorism-have-endangered-lives-of-polio-vaccinators-in-pakistan-13609432.html)
+
+Article found but Couldn't summarize 
+How false beliefs, terrorism have endangered lives of polio vaccinators in Pakistan
+
+Sat, 13 Jan 2024 18:05:00 +0530
+### [The mother of all crimes: Analysing the psyche of a woman who kills her child](https://www.firstpost.com/opinion/the-mother-of-all-crimes-analysing-the-psyche-of-a-woman-who-kills-her-child-13609802.html)
+
+The article discusses the shocking incident of Suchana Seth allegedly suffocating her 4-year-old son to death in a hotel room in Goa. Suchana Seth, a prominent figure in high society and CEO of the Mindful AI lab, is now accused of maternal filicide. The motive behind the crime is speculated to be her estranged husband being granted visitation rights. The article also explores the prevalence of filicidal cases and the various motives behind them, including mental illness and domestic violence. Understanding the psychopathology behind maternal filicide can help identify at-risk individuals and prevent such tragic situations.
+
+Sat, 13 Jan 2024 14:40:42 +0530
+### [How 2024 will be a decisive year for democracy](https://www.firstpost.com/opinion/how-2024-will-be-a-decisive-year-for-democracy-13609062.html)
+
+Article found but Couldn't summarize 
+How 2024 will be a decisive year for democracy
+
+Sat, 13 Jan 2024 11:36:51 +0530
+### [After l’affaire Lakshadweep, can Chinese embrace help Muizzu wade through domestic waters?](https://www.firstpost.com/opinion/after-laffaire-lakshadweep-can-chinese-embrace-help-muizzu-wade-through-domestic-waters-13608672.html)
+
+During his state visit to China, Maldivian President Mohamed Muizzu faced domestic challenges such as upcoming mayoral elections and threats of impeachment from the opposition party. There is concern over the potential alliance between the opposition party and breakaway Democrats, which could pose a risk to Muizzu's majority in the Majlis. The article also highlights the public's lack of understanding regarding the bilateral agreements signed between China and the Maldives, with fears of debt-trap and white elephant projects. The joint statement emphasized China's support for Maldives' exploration of a development path that suits its national conditions, raising questions about the implications for India and other neighboring countries. The author also mentions agreements related to a tourism development project, social housing units, and the funding provided by China. The article further discusses the potential impact of these agreements on India-Maldives relations and the concerns of the Indian strategic community. The author concludes by highlighting the importance of India as a source of daily essentials for Maldives and the mixed reaction among Maldivians to the Indian social media calls for boycotting the country.
+
+Sat, 13 Jan 2024 10:31:50 +0530
+### [Vantage | What SRK's stunning comeback tells us about the 'Indian for all ages'](https://www.firstpost.com/opinion/vantage-what-srks-stunning-comeback-tells-us-about-the-indian-for-all-ages-13608242.html)
+
+Shah Rukh Khan, the Bollywood actor, has been honored with the CNN News18 Indian of the Year 2023 award. Despite facing challenges and criticism in recent years, he has made a remarkable comeback with three successful movies that have grossed around 2,500 crore rupees at the box office. Khan's acceptance speech reflected his classic style, and he referred to himself as "Indian for all ages." His ability to stay relevant and on top of his game for over three decades is commendable. Despite personal and professional difficulties, Khan has shown quiet perseverance, confidence in his skills, and the importance of surrounding oneself with good people. He continues to work hard and be honest with himself, which has contributed to his success.
+
 Fri, 12 Jan 2024 19:13:34 +0530
 ### [Vantage | Should Pakistan's plan to buy Chinese stealth jets worry India?](https://www.firstpost.com/opinion/vantage-should-pakistans-plan-to-buy-chinese-stealth-jets-worry-india-13607172.html)
 

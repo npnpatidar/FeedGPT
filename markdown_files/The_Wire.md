@@ -1,3 +1,105 @@
+2024-01-13T21:39:29+05:30
+### [India Lodges ‘Strong’ Protest Over UK Envoy’s Visit to Pakistan-Occupied Kashmir](https://thewire.in/south-asia/uk-high-commissioners-visit-to-mirpur-in-pok-sparks-controversy)
+
+No Article text 
+Justifying her visit to Mirpur, an area claimed by India, Marriott said that since '70% of British Pakistani roots are from Mirpur', it was crucial for her to work together with the interests of the diaspora.
+
+2024-01-13T20:03:36+05:30
+### [Over Time, Discrimination May Have Come to Explain More of the Indian Gender Wage Gap](https://thewire.in/labour/discrimination-gender-wage-gap-casi-sas)
+
+No Article text 
+The same period that saw a rapid rise in regular wage work among women also saw an increase in the ‘unexplained’ part of the gender wage gap, which is usually attributed to discrimination.
+
+2024-01-13T19:00:49+05:30
+### [Kashmir Is Hotter Than New Delhi This Winter. Here's What This Means for Its Tourism](https://thewire.in/travel/kashmir-is-hotter-than-new-delhi-this-winter-heres-what-this-means-for-its-tourism)
+
+No Article text 
+The dry spell has led to cancellation of hotel bookings, especially in Gulmarg which used to be thronged by tourists in winter.
+
+2024-01-13T18:37:55+05:30
+### [Uddhav Thackeray Invites President to Ram Function in Nashik on Same Day as Ayodhya Consecration](https://thewire.in/religion/uddhav-thackeray-invites-president-murmu-to-nashik-ram-function-january-22)
+
+No Article text 
+The Shiv Sena (UBT) leader said that by coming to the Nashik function, President Droupadi Murmu would “continue the tradition established” by former President Rajendra Prasad when he visited the consecration of the Somnath Temple in 1951.
+
+2024-01-13T17:00:22+05:30
+### [US Court Declines Nikhil Gupta's Motion on Producing Case Materials: Report](https://thewire.in/world/us-court-denies-nikhil-gupta-motion-discovery)
+
+No Article text 
+US prosecutors argued that Gupta was not entitled to the case materials and evidence he requested unless he appeared in the concerned court, which a federal judge accepted.
+
+2024-01-13T16:42:33+05:30
+### [Food Inflation Up at 9.53% in December, Industrial Output Hits Eight-Month Low of 2.4% in November](https://thewire.in/economy/food-inflation-up-at-9-53-in-december-industrial-output-hits-eight-month-low-of-2-4-in-november)
+
+No Article text 
+The annual food inflation for December 2022 stood at 4.19%.
+
+2024-01-13T16:16:06+05:30
+### [The Legacy of Sheikh Abdullah Amidst Shifting Narratives in Kashmir](https://thewire.in/books/the-legacy-of-sheikh-abdullah-amidst-shifting-narratives-in-kashmir)
+
+No Article text 
+The second biography in the 'Indian Lives' series, 'Sheikh Abdullah: The Caged Lion of Kashmir' by Chitralekha Zutshi, edited by Ramachandra Guha, successfully captures the essence of its subject and presents a much needed exploration of a man who was both deeply admired and often derided.
+
+2024-01-13T15:05:48+05:30
+### [Mallikarjun Kharge Named Chairperson, Nitish Kumar as Convenor of INDIA Bloc: Report](https://thewire.in/politics/mallikarjun-kharge-named-chairperson-nitish-kumar-as-convenor-of-india-bloc-report)
+
+No Article text 
+However, Nitish Kumar said that he would accept the role only if all parties reached a consensus, the 'Indian Express' reported.
+
+2024-01-13T14:30:54+05:30
+### [J&K Assembly Opens Not for Political Leaders, But for a TV Shoot](https://thewire.in/politics/jk-assembly-opens-not-for-political-leaders-but-for-a-tv-shoot)
+
+No Article text 
+The J&amp;K Assembly has not functioned since former governor Satya Pal Malik dissolved the House on December 20, 2018, six months after BJP withdrew its support to the Mehbooba Mufti government.
+
+2024-01-13T14:02:30+05:30
+### [Manipur: More Than Five Dead, Dozens Injured Over the Last Two Weeks Amid Ongoing Ethnic Unrest](https://thewire.in/security/manipur-more-than-five-dead-dozens-injured-over-the-last-two-weeks-amid-ongoing-ethnic-unrest)
+
+No Article text 
+This follows the 255 days of violence that began in the state on May 3, 2023.
+
+2024-01-13T13:10:48+05:30
+### [Selfies, Trains, School, Exhibition, Coin, Lotus: Taking Stock of the Modi Cult](https://thewire.in/politics/taking-stock-of-the-modi-cult)
+
+No Article text 
+What is especially disturbing is the rapid spread of the Modi cult and of saffron symbols into the hitherto apolitical military establishments.
+
+2024-01-13T12:00:02+05:30
+### [A Mood For Murder | Episode 7: Chashni](https://thewire.in/fiction/a-mood-for-murder-episode-7-chashni)
+
+No Article text 
+The Wire WhoDunnIt: This is the seventh part of a serialised detective story by Shahrukh Alam. It is a work of fiction.
+
+2024-01-13T10:47:15+05:30
+### [Ex-Army Chief Gen Naravane’s Memoirs Delayed: Amazon Cancels January Orders, Not Before May](https://thewire.in/books/ex-army-chief-gen-naravanes-memoirs-delayed-amazon-cancels-january-orders-not-before-may)
+
+No Article text 
+'The Wire' has learnt that chapters of the book, containing revelations such as how the Agnipath scheme was a ‘bolt from the blue’, is being reviewed by both the external affairs and the defence ministry.
+
+2024-01-13T10:00:24+05:30
+### [It’s Normal for Your Mind to Wander. Here’s How to Maximise The Benefits](https://thewire.in/health/its-normal-for-your-mind-to-wander-heres-how-to-maximise-the-benefits)
+
+No Article text 
+Research suggests 'mind wandering' can account for up to 50% of our waking cognition (our mental processes when awake) in both western and non-western societies.
+
+2024-01-13T09:00:10+05:30
+### [NYT’s Lawsuit Against OpenAI Could Have Major Implications for Development of Machine Intelligence](https://thewire.in/tech/nyts-lawsuit-against-openai-could-have-major-implications-for-development-of-machine-intelligence)
+
+No Article text 
+At the crux of this issue is the question of data use. What data do companies like OpenAI have a right to use, and what do concepts like “transform” really mean in these contexts?
+
+2024-01-13T08:30:57+05:30
+### [Notes from a Conference: A Critical Appraisal on Tamil Nadu as Land of Social Justice](https://thewire.in/caste/notes-from-a-conference-a-critical-appraisal-on-tamil-nadu-as-land-of-social-justice)
+
+No Article text 
+Speakers at the 'Violence against Dalits: Interrogating social justice in Tamil Nadu' conference organised by Dalit Intellectual Collective spoke extensively about the steps required to tackle rising caste atrocities in Tamil Nadu.
+
+2024-01-13T08:00:52+05:30
+### [I Refuse to Give Readers Everything on a Platter: Vivek Shanbhag](https://thewire.in/books/i-refuse-to-give-readers-everything-on-a-platter-vivek-shanbhag)
+
+No Article text 
+On the sidelines of the Kerala Literature Festival, Shanbhag spoke to The Wire about his books, their context and more.
+
 2024-01-12T20:12:35+05:30
 ### [Israel's Response to South Africa's Gaza Genocide Case at ICJ](https://thewire.in/world/israels-response-to-south-africas-gaza-genocide-case-at-icj)
 

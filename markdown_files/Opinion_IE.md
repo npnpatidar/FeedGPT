@@ -1,3 +1,53 @@
+Sat, 13 Jan 2024 11:29:08 +0000
+### [Why I will light a diya for Sita](https://indianexpress.com/article/opinion/columns/light-diya-sita-ram-mandir-religion-9108033/)
+
+The article emphasizes the importance of science in fostering a spirit of inquiry and the ability to question established norms and traditions. It criticizes the education system for not encouraging critical pedagogy and limiting discussions on diverse religious and philosophical traditions. The author expresses concern about increasing superstition and religious dogmatism, while highlighting the need for a deeper understanding of different spiritual paths. The upcoming inauguration of the Ram Mandir in Ayodhya is seen as a majoritarian political project, but the author emphasizes the importance of developing a scientific and questioning mindset inspired by figures like Meghnad Saha, Rabindranath Tagore, and Ishwar Chandra Vidyasagar. The article concludes with a tribute to Sita, symbolizing an independent spirit and the refusal to conform.
+
+Sat, 13 Jan 2024 08:30:03 +0000
+### [Tapping into the janta’s pulse: How BJP’s welfare model has undone the faults of Nehruvian socialism](https://indianexpress.com/article/opinion/columns/bjp-welfare-model-faults-nehruvian-socialism-9107790/)
+
+The article discusses the shifting economic ideology in India from Nehruvian socialism to competitive welfarism and its impact on the country's political landscape. Nehruvian socialism, implemented by India's first Prime Minister Jawaharlal Nehru, focused on state-led industrialization and central planning but resulted in slow economic growth and societal challenges. The article highlights the transition to economic liberalization in the late 20th century and the current emphasis on competitive welfarism, which combines market-friendly policies with welfare programs to stimulate economic growth and uplift underprivileged communities. This shift has influenced electoral outcomes, with the Bharatiya Janata Party (BJP) gaining success through its welfare-oriented policies. The article concludes by emphasizing the dynamic nature of Indian politics and the continuous reshaping of ideologies to align with the needs and aspirations of the population.
+
+Sat, 13 Jan 2024 06:30:02 +0000
+### [Why can’t doctors with disabilities pursue specialisation?](https://indianexpress.com/article/opinion/columns/persons-with-disabilities-mbbs-nmc-supreme-court-intervene-9107603/)
+
+The article discusses the case of a girl who was denied admission to the MBBS course due to a language and speech disability. The Supreme Court intervened and granted her admission. However, new guidelines issued by the National Medical Commission (NMC) for postgraduate admission now bar candidates with a 40% or higher speech disability. These guidelines have been criticized by doctors with disabilities and the NMC's own panel of experts. The NMC's position on mental illness and disabilities contradicts previous court rulings and lacks an objective method of assessment. The article argues that the guidelines violate the Constitution and deny equal opportunities to individuals with disabilities. The burden of fighting for their rights falls on individuals with disabilities, and the article calls for the courts to uphold principles of equality and non-discrimination.
+
+Sat, 13 Jan 2024 02:30:08 +0000
+### [To combat climate challenges, the Finance Commission needs to step up](https://indianexpress.com/article/opinion/columns/climate-change-global-warming-indian-finance-commission-climate-challenges-9107312/)
+
+India has been actively involved in global efforts to improve forest cover and combat climate change. These initiatives have helped build resilience in communities and ecosystems while reducing carbon emissions. Fiscal federalism, specifically through the Finance Commission (FC), has incentivized states to conserve forests. The 15th FC allocated a significant portion of the central tax pool, based on forest cover, to the forestry sector. The 16th FC, currently appointed, has the opportunity to prioritize climate action by incorporating climate vulnerability and emission intensity into tax devolution formulas. Performance-based grants can be provided for sectors that contribute to emissions reduction and sustainable land and forest management. The FC can also address ecological challenges such as crop burning, mangrove restoration, and forest fires. By considering scientific data and designing a performance-based funding system, the 16th FC can play a crucial role in India's climate readiness and harmonize economic growth with environmental imperatives.
+
+Sat, 13 Jan 2024 02:25:20 +0000
+### [From America to India, the free speech challenge on campus](https://indianexpress.com/article/opinion/columns/free-speech-university-campuses-freedom-of-speech-free-speech-speech-challenges-9107311/)
+
+Article found but Couldn't summarize
+
+Sat, 13 Jan 2024 02:15:01 +0000
+### [Ram Madhav writes: Sheikh Hasina’s challenge – dealing with democratic deficit in Bangladesh](https://indianexpress.com/article/opinion/columns/ram-madhav-writes-sheikh-hasinas-challenge-dealing-with-democratic-deficit-in-bangladesh-9107332/)
+
+The article discusses the history of Bangladesh, particularly the role of Sheikh Mujibur Rehman in liberating the country and establishing democratic values. It highlights Pakistan's struggle with democracy and the discrimination faced by East Pakistan. It also mentions the assassination of Sheikh Mujibur Rehman and the subsequent military dictatorship. The article praises Sheikh Hasina's leadership and her efforts in combating terrorism and promoting economic growth. However, it acknowledges the challenges to Bangladesh's democracy, including recent elections marred by violence and opposition boycotts. The author concludes by emphasizing the importance of Sheikh Hasina's role in realizing her father's dream of a democratic and secular Bangladesh.
+
+Sat, 13 Jan 2024 02:00:01 +0000
+### [January 13, Forty Years Ago: Opposition Meet](https://indianexpress.com/article/opinion/editorials/january-13-forty-years-ago-opposition-meet-9107320/)
+
+The fourth opposition conclave aims to formulate a common economic program, highlighting the economic challenges faced by different opposition governments due to insufficient cooperation from the Centre. The draft economic resolution emphasizes the need for a planned country-wide movement. The Soviet Union has requested Bangladesh to postpone the departure of its official trade delegation scheduled to sign a new annual barter protocol in Moscow. The pradesh Congress (I) has resumed its agitation in the state after failed talks between Chief Minister Farooq Abdullah and Prime Minister Mrs Gandhi, with January 14 designated as a protest day. Opposition leader M Veerappa Moily accused ministers H D Gowda and S R Bommai of implementing coercive measures and imposing a "mini emergency" in Karnataka, restricting the functioning of other ministers and legislators.
+
+Sat, 13 Jan 2024 01:58:00 +0000
+### [Express View on Ranji Trophy and Andhra team: The field experiment](https://indianexpress.com/article/opinion/editorials/express-view-on-ranji-trophy-and-andhra-team-the-field-experiment-9107335/)
+
+The Andhra cricket team in the Ranji Trophy season has chosen not to celebrate individual achievements in order to prioritize teamwork. In their matches, they remained silent when their batsmen reached a hundred, only cheering when the team took the lead. This approach is unusual in a cricket ecosystem known for celebrating individual players. However, some argue that denying domestic performers the acknowledgment of their teammates is harsh. The respect and applause from the dressing room are seen as the ultimate acknowledgment of a player's skills. While Andhra's experiment continues, there is a need for Indian cricket's stakeholders to reconsider promoting team games as individual face-offs, focusing more on the overall experience and personal storylines for fans.
+
+Sat, 13 Jan 2024 01:40:37 +0000
+### [Express View on cervical cancer vaccine drive: A healthy new year](https://indianexpress.com/article/opinion/editorials/express-view-on-cervical-cancer-vaccine-drive-a-healthy-new-year-9107333/)
+
+Article found but Couldn't summarize
+
+Sat, 13 Jan 2024 01:30:51 +0000
+### [Express View on inflation: A matter of interest](https://indianexpress.com/article/opinion/editorials/express-view-on-inflation-a-matter-of-interest-9107323/)
+
+Retail inflation in India increased slightly to 5.69% in December, driven primarily by higher food inflation, according to data released by the National Statistical Office. The consumer food price index rose to 9.53% in December, with elevated inflation in cereals, vegetables, pulses, sugar, and spices. However, core inflation, which excludes food and fuel, has moderated. The index of industrial production slowed down to 2.4% in November. The monetary policy committee (MPC) of the Reserve Bank of India will meet for the last time this financial year, and Finance Minister Nirmala Sitharaman will present the interim Union budget soon. The MPC had previously voted to maintain the status quo on rates and stance, focusing on aligning inflation with the target. However, there is a growing argument among MPC members for an interest rate cut to prevent excessive real interest rates. The RBI has projected inflation to moderate in the coming quarters. The MPC should provide forward guidance on the trajectory of interest rates, especially considering the possibility of rate cuts by the US Federal Reserve.
+
 Fri, 12 Jan 2024 09:31:11 +0000
 ### [I say this as a Bharatiya Muslim: Congress rejection of Ram Mandir invite is hypocritical](https://indianexpress.com/article/opinion/columns/bharatiya-muslim-congress-rejection-ram-temple-invite-hypocritical-9106633/)
 

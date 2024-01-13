@@ -1,3 +1,44 @@
+Sat, 13 Jan 2024 18:25:59 +0530
+### [In Graphics | Who are the Houthis, the militia group attacking ships in the Red Sea?](https://www.firstpost.com/explainers/in-graphics-who-are-the-houthis-the-militia-group-attacking-ships-in-the-red-sea-13609982.html)
+
+Article found but Couldn't summarize 
+In Graphics | Who are the Houthis, the militia group attacking ships in the Red Sea?
+
+Sat, 13 Jan 2024 17:45:36 +0530
+### [From New York to Baltimore, the US East Coast cities are sinking. Here’s why](https://www.firstpost.com/explainers/from-new-york-to-baltimore-the-us-east-coast-cities-are-sinking-heres-why-13609502.html)
+
+Article found but Couldn't summarize 
+From New York to Baltimore, the US East Coast cities are sinking. Here’s why
+
+Sat, 13 Jan 2024 16:22:26 +0530
+### [How Atal Setu bridge will boost Mumbai's property market](https://www.firstpost.com/explainers/how-the-atal-setu-sea-bridge-will-boost-mumbais-property-market-13608562.html)
+
+Article found but Couldn't summarize 
+How Atal Setu bridge will boost Mumbai's property market
+
+Sat, 13 Jan 2024 15:52:36 +0530
+### [Who are the two Indian-origin candidates running for the post of London mayor?](https://www.firstpost.com/explainers/who-are-the-two-indian-origin-candidates-running-for-the-post-of-london-mayor-13609092.html)
+
+Article found but Couldn't summarize 
+Who are the two Indian-origin candidates running for the post of London mayor?
+
+Sat, 13 Jan 2024 10:36:42 +0530
+### [Who are the three men in the race to become Taiwan president?](https://www.firstpost.com/explainers/who-are-the-three-men-in-the-race-to-become-taiwan-president-13608402.html)
+
+The Taiwanese election is significant due to the potential for increased military tensions between China and the United States. Beijing views the election as a choice between war and peace, as it considers Taiwan a breakaway province. The three candidates are Lai Ching-te, who supports Taiwan's independence; Hou Yu-ih, from the opposition party Kuomintang, who advocates for dialogue with China; and Ko Wen-je, who seeks a middle ground in relations with Beijing. The economy and housing costs are major concerns for Taiwanese voters. China has not publicly declared its favored candidate but has urged voters to make the "right choice" for cross-Strait harmony.
+
+Sat, 13 Jan 2024 10:28:36 +0530
+### [This Week in Explainers: What happens if Indians cancel the Maldives](https://www.firstpost.com/explainers/this-week-in-explainers-what-happens-if-indians-cancel-the-maldives-13607212.html)
+
+Article found but Couldn't summarize 
+This Week in Explainers: What happens if Indians cancel the Maldives
+
+Sat, 13 Jan 2024 09:02:24 +0530
+### [Parties, candidates, and voters: A guide to high-stake elections in Taiwan](https://www.firstpost.com/explainers/parties-candidates-and-voters-a-guide-to-high-stake-elections-in-taiwan-13605032.html)
+
+Article found but Couldn't summarize 
+Parties, candidates, and voters: A guide to high-stake elections in Taiwan
+
 Fri, 12 Jan 2024 20:44:04 +0530
 ### [Houthis vow revenge after US, UK strikes. What we know about their arsenal](https://www.firstpost.com/explainers/houthis-vow-revenge-after-us-uk-strikes-what-we-know-about-their-arsenal-13607742.html)
 

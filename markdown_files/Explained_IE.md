@@ -1,3 +1,38 @@
+Sat, 13 Jan 2024 14:38:20 +0000
+### [Who is William Lai, the new president of Taiwan?](https://indianexpress.com/article/explained/explained-global/who-is-william-lai-ching-te-new-president-taiwan-9108203/)
+
+William Lai, also known as Lai Ching-te, from Taiwan's ruling Democratic Progressive Party (DPP), won the presidential election despite China's warnings. Lai, the current vice president, secured around 40% of the vote share. He grew up in a poor coal-mining village and pursued medicine before entering politics. China considers him a "separatist" due to his views on Taiwan's sovereignty. Lai aims to protect Taiwan from China's interference and maintain peace while strengthening ties with the United States and other democracies. The reaction from China and potential tensions remain uncertain.
+
+Sat, 13 Jan 2024 10:51:19 +0000
+### [How GM mustard was developed, why the question of its approval has now reached Supreme Court](https://indianexpress.com/article/explained/gm-mustard-supreme-court-9107917/)
+
+Article found but Couldn't summarize
+
+Sat, 13 Jan 2024 09:11:03 +0000
+### [South Korea passes Bill to ban production and sale of dog meat: Why now, what the Bill says](https://indianexpress.com/article/explained/explained-law/south-korea-passes-bill-ban-dog-meat-9107858/)
+
+Article found but Couldn't summarize
+
+Sat, 13 Jan 2024 07:30:33 +0000
+### [Voluntary freezing of trading accounts: How will SEBI’s new norms safeguard investors?](https://indianexpress.com/article/explained/explained-economics/voluntary-freezing-of-trading-sebi-investors-9107735/)
+
+Starting July this year, investors in India will have the ability to freeze or block their trading accounts if they suspect any suspicious activity. The Securities and Exchange Board of India (SEBI) has instructed stock brokerages to establish a framework for this by April 1 and implement it from July 1, 2024. Currently, investors can only voluntarily block or freeze their demat accounts (which hold financial instruments electronically), not their trading accounts (which execute trades in the stock market). SEBI has recognized the need for a facility to block trading accounts, similar to blocking ATM or credit cards, to protect investors from potential fraud. The guidelines will be developed by the Brokers' Industry Standards Forum in consultation with SEBI and stock exchanges. The guidelines will include processes for clients to request the blocking of their trading accounts and the actions trading members need to take upon receiving such requests. Stock exchanges must ensure compliance by trading members and submit a compliance report to SEBI by August 31, 2024.
+
+Sat, 13 Jan 2024 06:46:39 +0000
+### [ICJ genocide case: What Israel argued on Day 2](https://indianexpress.com/article/explained/explained-global/icj-genocide-case-israel-south-africa-gaza-9107252/)
+
+Article found but Couldn't summarize
+
+Sat, 13 Jan 2024 03:30:31 +0000
+### [How China wants to sway Taiwan’s election](https://indianexpress.com/article/explained/explained-global/how-china-wants-to-sway-taiwan-election-9107294/)
+
+Article found but Couldn't summarize
+
+Sat, 13 Jan 2024 02:30:30 +0000
+### [What are Iowa caucuses and why are they significant?](https://indianexpress.com/article/explained/explained-global/iowa-caucuses-significance-9107183/)
+
+Article found but Couldn't summarize
+
 Fri, 12 Jan 2024 12:26:45 +0000
 ### [Who are the Shia Houthis, and why are they aligned with the Sunni Palestinian Hamas?](https://indianexpress.com/article/explained/explained-global/us-uk-strike-houthi-yemen-middle-east-9106645/)
 

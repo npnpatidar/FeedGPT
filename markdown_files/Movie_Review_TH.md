@@ -1,3 +1,14 @@
+Sat, 13 Jan 2024 15:06:25 +0530
+### [‘Saindhav’ movie review: The emotional drama is fine, if only the thriller had been smarter](https://www.thehindu.com/entertainment/movies/saindhav-movie-review-the-emotional-drama-is-fine-if-only-the-thriller-had-been-smarter/article67737228.ece)
+
+The Telugu film "Saindhav," written and directed by Sailesh Kolanu, revolves around the character SaiKo, portrayed by Venkatesh Daggubati. The film follows SaiKo's mission to save his daughter while dealing with sinister happenings in the port city. While the film has its brighter aspects, such as interesting characters and some captivating moments, it falls short of being a truly riveting emotional action drama. Nonetheless, Venkatesh delivers a strong performance, and Nawazuddin Siddiqui's character adds authenticity to the story. The cinematography and portrayal of the fictional city are noteworthy. However, overall, the film could have been more engaging and smarter in its execution.
+
+Sat, 13 Jan 2024 14:03:39 +0530
+### [‘Lift’ movie review: Kevin Hart’s heist outing is grounded on the runway](https://www.thehindu.com/entertainment/movies/lift-movie-review-kevin-harts-heist-outing-is-grounded-on-the-runway/article67737181.ece)
+
+Article found but Couldn't summarize 
+The sparkling cast and audacious pace notwithstanding, this multi-starrer has no humour and zero zing
+
 Fri, 12 Jan 2024 18:08:08 +0530
 ### [‘Captain Miller’ movie review: A fantastic Dhanush spearheads Arun Matheswaran’s mostly-engaging actioner](https://www.thehindu.com/entertainment/movies/captain-miller-movie-review-a-fantastic-dhanush-spearheads-arun-matheswarans-mostly-engaging-actioner/article67734316.ece)
 

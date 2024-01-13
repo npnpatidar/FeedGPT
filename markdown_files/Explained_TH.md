@@ -1,3 +1,29 @@
+Sun, 14 Jan 2024 03:35:00 +0530
+### [Why is aviation safety under scrutiny? | Explained](https://www.thehindu.com/business/Industry/why-is-aviation-safety-under-scrutiny-explained/article67738593.ece)
+
+The article discusses two recent aviation incidents that have raised concerns about air safety. One incident involved a Japan Airlines plane colliding with another aircraft, resulting in fatalities. The other incident involved an Alaska Airlines plane experiencing depressurization due to a blown-out window panel. These incidents have prompted investigations into the safety of Boeing 737 MAX planes and raised questions about quality control and manufacturing processes. The Federal Aviation Administration (FAA) is conducting a thorough review and may implement additional oversight on Boeing. The article also highlights the importance of crew training, emergency response time, and advancements in aircraft manufacturing technology for ensuring passenger safety.
+
+Sun, 14 Jan 2024 02:32:00 +0530
+### [What are the complaints about Digi Yatra? | Explained](https://www.thehindu.com/news/national/what-are-the-complaints-about-digi-yatra-explained/article67738580.ece)
+
+The article discusses the concerns raised by passengers regarding the enrollment process for the Digi Yatra app at airports in India. Passengers reported that their facial biometrics were being collected without their consent or knowledge by security personnel and private staff. The CEO of Digi Yatra Foundation stated that the enrollment drive was intensified in December to allow passengers to experience the benefits of the app. Digi Yatra aims to streamline passenger movement at airports through digital processing. The app is owned by the Digi Yatra Foundation, which includes the Airports Authority of India and five private airports. Passengers need to download the app, register with their personal information and Aadhaar document, and upload a selfie. The app allows for facial recognition at e-gates, eliminating the need for physical boarding passes. The government claims that passenger data is not centrally stored and is purged within 24 hours. However, concerns have been raised about data protection and the Digital Personal Data Protection Act, which is yet to be fully implemented.
+
+Sun, 14 Jan 2024 01:51:00 +0530
+### [Gabriel Attal | Heir of Macronism](https://www.thehindu.com/news/international/gabriel-attal-heir-of-macronism/article67738763.ece)
+
+Article found but Couldn't summarize 
+France’s youngest and first openly gay Prime Minister is assuming the leadership of a troubled government besieged by political and economic challenges
+
+Sun, 14 Jan 2024 01:29:00 +0530
+### [Tshering Tobgay | Second coming](https://www.thehindu.com/news/international/tshering-tobgay-second-coming/article67738748.ece)
+
+This article discusses the newly elected Prime Minister of Bhutan, Tshering Tobgay, and his focus on sustainable development and Gross National Happiness (GNH) rather than GDP. He emphasizes Bhutan's small but green and sustainable economy, offering free healthcare and education. The article also mentions Tobgay's educational background and political career. It highlights the challenges he faces, such as post-pandemic impacts, high inflation, unemployment, and low currency reserves. The announcement of plans for a carbon-negative Smart City is seen as an effort to reverse these trends. Tobgay's role in resolving boundary issues with China and maintaining ties with India is crucial. Despite the challenges, his experience and the support of his party give hope for the future.
+
+Sun, 14 Jan 2024 01:07:00 +0530
+### [International Court of Justice | Justice without power](https://www.thehindu.com/news/international/international-court-of-justice-justice-without-power/article67738733.ece)
+
+The International Court of Justice (ICJ), the highest judicial body of the United Nations, recently held hearings regarding South Africa's accusation of Israel committing genocide in Gaza. The ICJ has dual jurisdictional powers, advisory and contentious, and was established in 1945 after the Permanent Court of International Justice became ineffective. The court's decisions are legally binding but often lack an enforcement mechanism. The participation of powerful member states and the court's slow procedures have also been criticized. However, the ICJ has played a role in expanding international law and has had major rulings adhered to by concerned parties. Its advisory role has also contributed to peaceful solutions and diplomatic efforts. The ongoing proceedings by South Africa will provide evidence for an advisory opinion on Israel's illegal occupation of Palestinian territories. Despite its impact, the ICJ's effectiveness is hindered by political biases and the potential fragmentation of international law.
+
 Fri, 12 Jan 2024 17:18:41 +0530
 ### [What were the allegations against PVR for abuse of dominant position? | Explained](https://www.thehindu.com/business/Industry/what-were-the-allegations-against-pvr-for-abuse-of-dominant-position-explained/article67730175.ece)
 
