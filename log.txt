@@ -3919,3 +3919,9 @@ Started at 2024-01-13 23:08:30
 Finished at 2024-01-13 23:11:20
 Total time taken: 169.40457367897034 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-01-14 00:41:41
+1 Feed entries have been written to feeds/Explained_TH.xml
+1 new entries have been added
+Finished at 2024-01-14 00:42:29
+Total time taken: 48.36428260803223 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
