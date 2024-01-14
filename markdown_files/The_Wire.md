@@ -1,3 +1,123 @@
+2024-01-14T20:18:40+05:30
+### [Maldives Sets March 15 Deadline for Indian Troop Withdrawal at First Core Group Meeting](https://thewire.in/diplomacy/maldives-sets-march-15-deadline-for-indian-troop-withdrawal-at-first-core-group-meeting)
+
+No Article text 
+The deadline was announced by the Maldivian government as senior officials of both countries met in Malé on Sunday to discuss the demand.
+
+2024-01-14T19:50:12+05:30
+### [‘Promise to Bring Peace’ Says Rahul Gandhi as He Kicks off Bharat Jodo Nyay Yatra From Manipur](https://thewire.in/politics/promise-to-bring-peace-says-rahul-gandhi-as-he-kicks-off-bharat-jodo-nyay-yatra-from-manipur)
+
+No Article text 
+The yatra will cover 6,700 km from Thoubal, Manipur to Mumbai and touch 110 districts, 100 Lok Sabha seats, and 337 assembly constituencies in what is the biggest mass outreach ahead of the 2024 Lok Sabha elections.
+
+2024-01-14T19:31:46+05:30
+### ['We the People': A Call to Remember What the Indian Constitution Stands For](https://thewire.in/rights/we-the-people-a-call-to-remember-what-the-indian-constitution-stands-for)
+
+No Article text 
+The constitution that the people of India gave to themselves was a product of mass struggle, political compromises, idealism and commitment to every citizen.
+
+2024-01-14T19:19:38+05:30
+### [Not My Temple: A Personal Note on God, Places of Worship and the Law Governing These](https://thewire.in/communalism/not-my-temple-a-personal-note-on-god-places-of-worship-and-the-law-governing-these)
+
+No Article text 
+The Ayodhya decision was unjust, and the imminent inauguration of the temple is morally objectionable.
+
+2024-01-14T18:24:07+05:30
+### [Controversial BJP MP Says 'Hindus Won't Rest Till More Mosques Reclaimed'](https://thewire.in/communalism/anantkumar-hegde-karnataka-mosques-reclaimed-hindu)
+
+No Article text 
+Anantkumar Hedge is not new to controversy. Earlier, he had claimed that he would change the country’s constitution.
+
+2024-01-14T17:58:13+05:30
+### [End of a 'Significant Chapter' as Milind Deora Joins Shiv Sena's Shinde Faction](https://thewire.in/politics/end-of-a-significant-chapter-as-milind-deora-joins-shiv-senas-shinde-faction)
+
+No Article text 
+'Deora’s exit has not come as a surprise to both the Congress or the media. But just look at the day he chose to leave the party,' a Congress leader said.
+
+2024-01-14T17:37:59+05:30
+### ['This Is a Poem that Shouldn’t Be Written...'](https://thewire.in/books/this-is-a-poem-that-shouldnt-be-written)
+
+No Article text 
+Three poems from poet and fiction write K. Srilata's book 'Three Women in a Single-Room House' (2023).
+
+2024-01-14T17:06:31+05:30
+### [What Do the 'Grand Old Parties' of India and Sri Lanka Have in Common?](https://thewire.in/politics/what-do-the-grand-old-parties-of-india-and-sri-lanka-have-in-common)
+
+No Article text 
+They have been epitomes of the composite culture and inclusive pluralism in their respective countries. In the past and present, the two parties have been living a parallel life.
+
+2024-01-14T15:18:18+05:30
+### [Pakistan: Imran Khan's Party Must Drop Cricket Bat Symbol](https://thewire.in/world/pakistan-imran-khans-party-must-drop-cricket-bat-symbol)
+
+No Article text 
+The symbol ties in with former Prime Minister Imran Khan's image as a former cricket star. His Tehreek-e-Insaf party believes a court ruling forcing them to lose the cricket bat will cost them during next month's vote.
+
+2024-01-14T14:55:19+05:30
+### [Taiwan: Anti-China Leader Wins Presidential Election, US Delegation to Visit](https://thewire.in/world/taiwan-anti-china-leader-wins-presidential-election-us-delegation-to-visit)
+
+No Article text 
+The move is likely to irritate Beijing, which sees the island as part of China and has vowed to take back control of the self-governing island, with force if necessary.
+
+2024-01-14T14:49:25+05:30
+### [UN Rights Experts Welcome Start of ICJ Genocide Hearings, Reiterate Call for Ceasefire](https://thewire.in/rights/south-africa-icj-un-human-rights-experts)
+
+No Article text 
+'South Africa’s case has broader implications for all States – not only those that have ratified the Convention – as all are obligated both to refrain from committing genocide, and to prevent and punish it wherever it occurs.'
+
+2024-01-14T13:45:21+05:30
+### [From Besting Tetris AI to Epic Speedruns – Inside Gaming’s Most Thrilling Feats](https://thewire.in/culture/from-besting-tetris-ai-to-epic-speedruns-inside-gamings-most-thrilling-feats)
+
+No Article text 
+“Speedrunning” is a popular gaming subculture in which players meticulously optimize routes and exploit glitches to complete, in a matter of minutes, games that normally take hours,
+
+2024-01-14T13:30:18+05:30
+### [Mosque on Govt's Demolition Radar Has Ties to India's Constituent Assembly](https://thewire.in/rights/mosque-on-govts-demolition-radar-has-ties-to-indias-constituent-assembly)
+
+No Article text 
+This small mosque at Sunehri Bagh, whose history reveals its survival even against Edwin Lutyens' plan for New Delhi, has found itself in the eye of the storm over a century later.
+
+2024-01-14T12:44:46+05:30
+### [Indians: The Aryans and the Vedic Age](https://thewire.in/history/indians-the-aryans-and-the-vedic-age)
+
+No Article text 
+More than a thousand years after the Harappans, the next cities arose in the Gangetic Plain in mid-first millennium BCE. Episode two of the series focuses on them.
+
+2024-01-14T12:38:26+05:30
+### [Coalition Politics in a World of Israel and Ayodhya](https://thewire.in/politics/coalition-politics-in-a-world-of-israel-and-ayodhya)
+
+No Article text 
+We cannot claim that democratisation is an easy process or that there are easy answers to current problems, but these, for heaven’s sake, are some of the darkest times we have known.
+
+2024-01-14T12:07:26+05:30
+### [Tributes Pour in For Legendary Classical Singer Prabha Atre](https://thewire.in/the-arts/prabha-atre-passes-away)
+
+No Article text 
+Atre had received several awards including top national honours like the Padma Shri, Padma Bhushan and Sangeet Natak Akademi awards.
+
+2024-01-14T12:00:59+05:30
+### [Ayodhya, Mathura, Varanasi: Why the Coming Week Is Crucial for the Hindutva Project](https://thewire.in/communalism/ayodhya-mathura-varanasi-why-the-coming-week-is-crucial-for-the-hindutva-project)
+
+No Article text 
+Legal developments are also expected to have a bearing on the fate of the other two mosques claimed by the Sangh Parivar-led Hindutva parties.
+
+2024-01-14T10:36:43+05:30
+### [After China Visit, Muizzu Says Maldives 'Not in Backyard' of Any Country](https://thewire.in/diplomacy/maldives-muizzu-china-india-backyard-bully)
+
+No Article text 
+Muizzu also asserted that he will diversify sources for essential commodities for rice-sugar and flour. So far Maldives has primarily relied on India as its main supplier.
+
+2024-01-14T08:00:31+05:30
+### [Hold on to Your Beliefs, or the World Will Convince You You're the Crazy One: Anuja Chauhan](https://thewire.in/books/hold-on-to-your-beliefs-or-the-world-will-convince-you-youre-the-crazy-one-anuja-chauhan)
+
+No Article text 
+Anuja Chauhan spoke to The Wire about her detective fiction, censorship in today's India and more.
+
+2024-01-14T08:00:23+05:30
+### [Three Charts: What the Modi Government Wants us to Forget Before the 2024 Lok Sabha Polls](https://thewire.in/economy/three-charts-what-really-matters-to-india-versus-what-parties-jockey-for-in-emotional-tug-to-voters-hearts)
+
+No Article text 
+The most important issues affecting the nation’s electorate are rising inequality and no jobs. Both go missing in the noise around BJP’s 'Pran Pratishtha' in Ayodhya and Congress’s Bharat Jodo Nyay Yatra
+
 2024-01-13T21:39:29+05:30
 ### [India Lodges ‘Strong’ Protest Over UK Envoy’s Visit to Pakistan-Occupied Kashmir](https://thewire.in/south-asia/uk-high-commissioners-visit-to-mirpur-in-pok-sparks-controversy)
 

@@ -1,3 +1,38 @@
+Sun, 14 Jan 2024 15:39:01 +0000
+### [Why Mumbai is sweltering this January: Three reasons](https://indianexpress.com/article/explained/explained-climate/why-mumbai-is-sweltering-this-winter-three-reasons-9109305/)
+
+Article found but Couldn't summarize
+
+Sun, 14 Jan 2024 14:54:01 +0000
+### [Muizzu asks India to withdraw troops by March 15: Why are Indian soldiers in Maldives?](https://indianexpress.com/article/explained/explained-global/why-are-indian-soldiers-in-maldives-9109278/)
+
+Article found but Couldn't summarize
+
+Sun, 14 Jan 2024 12:03:02 +0000
+### [Makar Sankranti, Pongal, Lohri and more: Significance of these festivals, celebrated across India](https://indianexpress.com/article/explained/everyday-explainers/makar-sankranti-pongal-lohri-significance-rituals-9109065/)
+
+Makar Sankranti, Pongal, and Magh Bihu are cultural celebrations held in different states of India on January 14. These festivals mark the transition from winter to warmer months and the beginning of longer days. Makar Sankranti follows the solar cycle and is celebrated almost on the same day every year. On this day, worshippers take a bath in sacred rivers, offer prayers to Lord Surya (Sun god), perform rituals, and break their fast during Punya Kaal. Regional variations exist in the way these festivals are celebrated. For example, in Tamil Nadu, the Pongal festival includes cleaning the house, making decorative kolam, and honoring the toil of bulls. In Karnataka, there is a tradition of eating a mixture of sesame seeds and jaggery and speaking good words. In northern India, sesame and jaggery ladoos or chikkis are distributed, and bonfires are organized. Kite-flying and sky lanterns are also part of the celebrations in certain regions.
+
+Sun, 14 Jan 2024 11:17:15 +0000
+### [What December inflation data tells us, what it means for budget, monetary policy](https://indianexpress.com/article/explained/explained-economics/what-december-inflation-data-tell-us-9109022/)
+
+Article found but Couldn't summarize
+
+Sun, 14 Jan 2024 09:13:19 +0000
+### [Hydroxychloroquine: How a new study links the COVID ‘cure’ to 17,000 deaths](https://indianexpress.com/article/explained/explained-health/hydroxychloroquine-covid-medicine-new-study-9108866/)
+
+Hmm, based on the provided text, I can summarize that hydroxychloroquine, an antimalarial drug, was briefly promoted as a potential treatment for COVID-19. However, researchers have linked it to an increased mortality rate of up to 11%. The World Health Organization conducted trials but found no clinical improvements in patients. It is important to note that repurposing drugs in a panic, without sufficient evidence, can be hazardous. While hydroxychloroquine is generally safe, its effects need to be evaluated differently when given preventively to a large number of healthy people. The drug was hailed as a "miracle cure" by some, including former US President Donald Trump, but its use was cautioned against by the US Food and Drug Administration and the WHO. Small-scale studies reported side effects, but larger studies are needed to determine the precise cause. A recent systematic review linked hydroxychloroquine to 17,000 deaths, but there is no consensus yet as different studies may have used conflicting methods. Hydroxychloroquine is commonly used to treat malaria and autoimmune disorders like lupus. It is important to consult healthcare professionals for accurate and up-to-date information on the use of hydroxychloroquine.
+
+Sun, 14 Jan 2024 02:30:39 +0000
+### [Darjeeling zoo’s success with snow leopards: Why wild cats are fussy breeders](https://indianexpress.com/article/explained/snow-leopards-darjeeling-zoo-wild-cats-fussy-breeders-9108416/)
+
+Article found but Couldn't summarize
+
+Sun, 14 Jan 2024 01:30:20 +0000
+### [Congress and Ram Mandir: Brief history of the party’s flip-flops on Ayodhya temple](https://indianexpress.com/article/explained/explained-politics/congress-ram-mandir-ayodhya-flip-flop-9108154/)
+
+Article found but Couldn't summarize
+
 Sat, 13 Jan 2024 14:38:20 +0000
 ### [Who is William Lai, the new president of Taiwan?](https://indianexpress.com/article/explained/explained-global/who-is-william-lai-ching-te-new-president-taiwan-9108203/)
 

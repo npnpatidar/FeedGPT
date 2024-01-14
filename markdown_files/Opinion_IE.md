@@ -1,3 +1,54 @@
+Sun, 14 Jan 2024 13:29:23 +0000
+### [Express View on attacks on interfaith couples: The moral police again](https://indianexpress.com/article/opinion/editorials/express-view-attacks-on-interfaith-couples-moral-police-9109229/)
+
+Article found but Couldn't summarize
+
+Sun, 14 Jan 2024 12:11:28 +0000
+### [From the Opinions Editor | Bilkis Bano case: SC shows hallmark of enlightened judiciary is in correcting itself](https://indianexpress.com/article/opinion/columns/from-the-opinions-editor-bilkis-bano-case-sc-enlightened-judiciary-9109110/)
+
+Article found but Couldn't summarize
+
+Sun, 14 Jan 2024 11:32:51 +0000
+### [View from Pakistan: Why is India not on the US’s list of countries ‘of particular concern’?](https://indianexpress.com/article/opinion/columns/view-from-pakistan-why-is-india-not-on-the-uss-list-of-countries-of-particular-concern-9109030/)
+
+Article found but Couldn't summarize
+
+Sun, 14 Jan 2024 08:55:26 +0000
+### [To combat climate change, citizens and government must join hands](https://indianexpress.com/article/opinion/columns/to-combat-climate-change-citizens-and-government-must-join-hands-9108903/)
+
+Article found but Couldn't summarize
+
+Sun, 14 Jan 2024 02:40:51 +0000
+### [Maldives, India, China: history shapes the present](https://indianexpress.com/article/opinion/columns/india-maldives-diplomatic-row-mohamed-muizzu-narendra-modi-9108315/)
+
+The Maldives is a fascinating study in contradictions. It managed to maintain relative independence from European colonization despite being an archipelago of nearly 1,200 islands. While it is now a constitutionally Muslim nation, its culture was originally rooted in Buddhism. The Maldives attracted the attention of European explorers and came under British influence before gaining independence in 1965. The country has developed ties with India, Pakistan, and Sri Lanka, with India being the first to establish a resident mission in Male. China has also played a significant role in the Maldives' infrastructural development. The challenges facing Indo-Maldivian relations include the increasing Islamization of Maldivian society and concerns about the economic impact of foreign influences.
+
+Sun, 14 Jan 2024 02:30:11 +0000
+### [Tavleen Singh writes: Is the Congress party suicidal?](https://indianexpress.com/article/opinion/columns/congress-boycott-ram-mandir-event-ram-temple-consecration-ceremony-january-22-9108311/)
+
+Article found but Couldn't summarize
+
+Sun, 14 Jan 2024 02:25:03 +0000
+### [Inside Track by Coomi Kapoor: Keep them guessing](https://indianexpress.com/article/opinion/columns/ram-mandir-consecration-ceremony-l-k-advani-murli-manohar-joshi-ram-mandir-movement-9108321/)
+
+Article found but Couldn't summarize
+
+Sun, 14 Jan 2024 02:15:16 +0000
+### [P Chidambaram writes: A Daniel come to judgement](https://indianexpress.com/article/opinion/columns/bilkis-bano-case-supreme-court-verdict-2002-gujarat-riots-9108302/)
+
+In the article, the author discusses the story of Bilkis Bano, a woman who experienced a heinous crime during the violence in Gujarat in 2002. Bilkis Bano was attacked, her family members were killed, and she was gang-raped. The perpetrators were later convicted and sentenced to life imprisonment. However, on August 15, 2022, the government of Gujarat remitted the remainder of their sentence and set them free. The released convicts were welcomed and celebrated, which caused outrage.
+
+The article also highlights the legal proceedings related to the case. The Supreme Court intervened and directed the convicts to report to jail authorities to serve their sentence. The Court emphasized the importance of respecting women, regardless of their social status. It also criticized the actions of the Gujarat government and the Gujarat High Court for granting remission without proper jurisdiction and in violation of established precedents.
+
+The author concludes by emphasizing the lessons learned from the Bilkis Bano case. While violations of dignity, liberty, privacy, and human rights occur, there are police officers and judges who strive to punish the guilty. The rule of law prevails, and public outrage can lead to corrective actions. Bilkis Bano's words, "I can breathe again," symbolize hope and resilience in the face of despair and darkness.
+
+Please let me know if there's anything specific you would like me to focus on or if you have any further questions.
+
+Sun, 14 Jan 2024 01:44:30 +0000
+### [Our great Indian rush & scramble](https://indianexpress.com/article/opinion/columns/our-great-indian-rush-scramble-9108372/)
+
+Article found but Couldn't summarize
+
 Sat, 13 Jan 2024 11:29:08 +0000
 ### [Why I will light a diya for Sita](https://indianexpress.com/article/opinion/columns/light-diya-sita-ram-mandir-religion-9108033/)
 

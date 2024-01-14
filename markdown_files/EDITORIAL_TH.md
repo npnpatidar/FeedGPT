@@ -1,3 +1,15 @@
+Mon, 15 Jan 2024 00:20:00 +0530
+### [Prohibitive price gains: On the Consumer Food Price Index](https://www.thehindu.com/opinion/editorial/prohibitive-price-gains-on-the-consumer-food-price-index/article67741039.ece)
+
+Article found but Couldn't summarize 
+Rising food prices may affect already weak consumption of goods
+
+Mon, 15 Jan 2024 00:20:00 +0530
+### [Closer to closure: On the Savad arrest and Professor T.J. Joseph case in Kerala](https://www.thehindu.com/opinion/editorial/closer-to-closure-on-the-savad-arrest-and-professor-tj-joseph-case-in-kerala/article67740784.ece)
+
+Article found but Couldn't summarize 
+Terror networks can be dismantled only by disabling those at their top
+
 Sat, 13 Jan 2024 00:20:00 +0530
 ### [Robust revenues: On direct tax collection target and fiscal consolidation](https://www.thehindu.com/opinion/editorial/robust-revenues-on-direct-tax-collection-target-and-fiscal-consolidation/article67734595.ece)
 

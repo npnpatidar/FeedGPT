@@ -1,3 +1,9 @@
+Sun, 14 Jan 2024 18:22:57 +0530
+### [‘Naa Saami Ranga’ movie review: Nagarjuna’s village drama is a remake undone by templated approach](https://www.thehindu.com/entertainment/movies/naa-saami-ranga-movie-review-nagarjunas-village-drama-is-a-remake-undone-by-templated-approach/article67740628.ece)
+
+Article found but Couldn't summarize 
+A remake of ‘Porinju Mariam Jose’, Vijay Binni’s ‘Naa Saami Ranga’, starring Nagarjuna and Ashika Ranganath, is a ‘masala’ affair that plays it safe and misses the point of the original
+
 Sat, 13 Jan 2024 15:06:25 +0530
 ### [‘Saindhav’ movie review: The emotional drama is fine, if only the thriller had been smarter](https://www.thehindu.com/entertainment/movies/saindhav-movie-review-the-emotional-drama-is-fine-if-only-the-thriller-had-been-smarter/article67737228.ece)
 

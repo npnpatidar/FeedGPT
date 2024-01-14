@@ -1,3 +1,9 @@
+Sun, 14 Jan 2024 17:00:00 +0530
+### [Medical care on India’s trains is running late, with passengers at risk | Explained](https://www.thehindu.com/sci-tech/health/indian-railways-medical-emergency-standards-outdated-explained/article67740490.ece)
+
+Article found but Couldn't summarize 
+During a medical emergency on a moving train, a doctor found the train’s medical kit was following standards set in 1995
+
 Sun, 14 Jan 2024 04:28:00 +0530
 ### [Why has South Africa dragged Israel to the ICJ? | Explained](https://www.thehindu.com/news/international/why-has-south-africa-dragged-israel-to-the-icj-explained/article67738570.ece)
 
