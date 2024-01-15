@@ -1,3 +1,153 @@
+2024-01-15T22:29:45+05:30
+### [Modi Speaks to Putin, to Chalk Out a Roadmap for India-Russia Future Initiatives](https://thewire.in/diplomacy/modi-speaks-to-putin-to-chalk-out-a-roadmap-for-india-russia-future-initiatives)
+
+No Article text 
+Modi told Putin in a phone conversation that India and Russia share a 'special and privileged strategic partnership', extending full support for Russia's presidency of BRICS in 2024.
+
+2024-01-15T21:14:34+05:30
+### ['Vague and Excessively Intrusive': Editors Guild of India to Centre on Broadcast Services Bill](https://thewire.in/media/vague-and-excessively-intrusive-editors-guild-of-india-to-centre-on-broadcast-services-bill)
+
+No Article text 
+In a letter to Union minister Anurag Thakur, the EGI said the draft Broadcast Services (Regulation) Bill, 2023 would lay the ground for the creation of an 'overarching censorship framework' through the establishment of a broadcast advisory council.
+
+2024-01-15T20:33:13+05:30
+### [In Photos | 'We Want to Go Back Home': Inside a Relief Camp in Manipur's Imphal West](https://thewire.in/rights/in-photos-we-want-to-go-back-home-inside-a-relief-camp-in-manipurs-imphal-west)
+
+No Article text 
+Residents of the camp said they were trying their best to make the most of what they have, but their most common demand remained that they would like to go back to their homes.
+
+2024-01-15T19:32:37+05:30
+### [In Search of Answers for the Manipur Violence, a New Book Takes a Deep Dive into the Conflict](https://thewire.in/books/in-search-of-answers-for-the-manipur-violence-a-new-book-takes-a-deep-dive-into-the-conflict)
+
+No Article text 
+Nandita Haksar's latest book 'Shooting the Sun' goes into a multitude of issues with meticulous research to explain the conflict and the government's response to it.
+
+2024-01-15T18:58:19+05:30
+### [10 Things the BJP Wants You to Overlook While It Misdirects Focus On the Ram Temple](https://thewire.in/politics/10-things-the-bjp-wants-you-to-overlook-while-it-misdirects-focus-on-the-ram-temple)
+
+No Article text 
+It is clear that Ram temple in Ayodhya is not going to bring Ram Rajya in UP or the rest of the country.
+
+2024-01-15T18:50:17+05:30
+### [Of Poems, Pandemics and Death](https://thewire.in/books/of-poems-pandemics-and-death)
+
+No Article text 
+Sanket Mhatre’s collection of poems reflects on a city in the grip of Covid-19, but also celebrates surviving it.
+
+2024-01-15T18:40:13+05:30
+### [Across the World, Monarchs Continue to Reign](https://thewire.in/world/across-the-world-monarchs-continue-to-reign)
+
+No Article text 
+Denmark is getting a new king. Despite transitions toward democracy, royalty abounds worldwide, and some monarchs enjoy absolute rule.
+
+2024-01-15T18:30:31+05:30
+### [The World May Have Its First Trillionaire in 10 Years, but Eradicating Poverty Will Take 230: Oxfam](https://thewire.in/rights/may-have-first-trillionaire-in-ten-years-oxfam)
+
+No Article text 
+The opening statistic of Oxfam's latest report is that since 2020, five billion people – 60% of the global population – grew poorer but the world's five richest men doubled their wealth.
+
+2024-01-15T17:53:38+05:30
+### [Watch | 'It's Divided, Not United India': Shankaracharya of Jyotish Peeth on Ayodhya Ram Temple](https://thewire.in/video/watch-its-divided-not-united-india-shankaracharya-of-jyotish-peeth-on-ayodhya-ram-temple)
+
+No Article text 
+Swami Avimukteshwaranand Saraswati tells Karan Thapar in an interview that he wasn't invited for the consecration, but even if he had been invited, he would not have attended the event.
+
+2024-01-15T16:52:22+05:30
+### [Africa’s Crises Fall Out of Focus as Global Attention Drifts](https://thewire.in/world/africas-crises-fall-out-of-focus-as-global-attention-drifts)
+
+No Article text 
+Care International has listed the ten forgotten humanitarian crises of last year — all of them in Africa. Climate change plays a huge role, the aid organisation says, and more media attention is needed.
+
+2024-01-15T16:40:57+05:30
+### [How SC's Latest Verdict Involving ED Eases Arrests, Bypassing Binding Law](https://thewire.in/law/how-scs-latest-verdict-involving-ed-eases-arrests-bypassing-binding-law)
+
+No Article text 
+The top court’s verdict is unjustified in the sense that it offers highly lacklustre reasoning in departing from the previous ‘immediate-furnishing-rule’, where the person about to get arrested was given in writing the grounds for their arrest.
+
+2024-01-15T16:09:06+05:30
+### [In Photos: The Road to the Ganga Sagar Mela](https://thewire.in/religion/makar-sankranti-ganga-sagar-mela-photos)
+
+No Article text 
+Millions of pilgrims and tourists throng to the Mela at the time of the Makar Sankranti each year.
+
+2024-01-15T15:44:40+05:30
+### [A Reprint of a Muslim Social Activist's Old Writings Fits Right Into Present Day Hindutva Thinking](https://thewire.in/books/a-reprint-of-a-muslim-social-activists-old-writings-fits-right-into-present-day-hindutva-thinking)
+
+No Article text 
+It is mystifying why Penguin has chosen to republish these ill-informed fulminations of the long forgotten Hamid Dalwai.
+
+2024-01-15T15:28:09+05:30
+### [Tributes Pour in as Urdu Poet Munawwar Rana Passes Away](https://thewire.in/books/munawwar-rana-no-more-urdu-poet)
+
+No Article text 
+'I invite any Indian who claims to be a nationalist to the core to have a conversation with me,' Rana wrote for The Wire in 2017.
+
+2024-01-15T15:07:06+05:30
+### [Anganwadi Workers Are Fighting Against Unusable Tech – Just to Be Able to Do Their Work](https://thewire.in/labour/anganwadi-worker-protest-maharashtra-poshan-tracker)
+
+No Article text 
+While the amount of work for them is being increased with every new module added into unwieldy apps, the workers' wages have stagnated.
+
+2024-01-15T14:30:49+05:30
+### [Agri Ministry Didn’t Utilise Its Increased Budget, Surrendered Rs 1 Trillion in Last 5 Years: Report](https://thewire.in/government/agri-ministry-didnt-utilise-its-increased-budget-surrendered-rs-1-trillion-in-last-5-years-report)
+
+No Article text 
+In the last financial year, the Department of Agriculture and Farmers’ Welfare surrendered around Rs 21,000 crore out of its annual allocation of Rs 1.24 trillion, 'The Indian Express' reported.
+
+2024-01-15T14:00:18+05:30
+### ['The Book Makes the Call': Jerry Pinto on the Importance of Translations and Experimental Reading](https://thewire.in/books/the-book-makes-the-call-jerry-pinto-on-the-importance-of-translations-and-experimental-reading)
+
+No Article text 
+"When you're translating someone you enter into a relationship with that work that is so intense, that it's almost like a love affair. But for me I think it's kind of like cheating – it's a wild affair that I'm having while I'm married to my own writing."
+
+2024-01-15T13:30:58+05:30
+### [Taiwan Has Re-Elected Its Government, but the Victory Hides a Transformed Political Landscape](https://thewire.in/world/taiwan-has-re-elected-its-government-but-the-victory-hides-a-transformed-political-landscape)
+
+No Article text 
+Taiwan's long-standing two-party system appears to be transitioning into a messy three-party dynamic.
+
+2024-01-15T13:06:18+05:30
+### [Billionaires at Davos and Their Dreams](https://thewire.in/economy/billionaires-at-davos-and-their-dreams)
+
+No Article text 
+In its glory days in the 1990s, the Davos forum was the driving force promoting the idea of stakeholder capitalism. Back then, as communism collapsed, everything seemed possible. What's become of those possibilities?
+
+2024-01-15T12:30:56+05:30
+### ['Want Ram Lala Worship According to Ramanandi Traditions but Trust Ignored Plea': Nirmohi Akhada](https://thewire.in/religion/ram-lala-ramanandi-nirmohi-akhali-temple)
+
+No Article text 
+Reports say the Nirmohi Akhada, a key player in this context and an original litigant in the Ram Janmabhoomi-Babri Masjid title dispute is feeling sidelined and saying the 'tilak' and other symbols in the Ramanandi traditions were different from other sects.
+
+2024-01-15T12:00:59+05:30
+### [Jobs in Israel: Labour Activists, Trade Unions Raise Concerns Over No Protections for Indian Workers](https://thewire.in/government/jobs-in-israel-labour-activists-trade-unions-raise-concerns-over-no-protections-for-indian-workers)
+
+No Article text 
+At present, all workers going to conflict zones or places without sufficient labour protections are required to register with the MEA's 'e-migrate' portal. However, Israel is not part of the 'e-migrate' system for conflict zones, the 'Hindu' reported.
+
+2024-01-15T11:30:56+05:30
+### [Hate Speech FIR Against Karnataka BJP MP Over 'Mosque Will Be Destroyed' Comment](https://thewire.in/communalism/anantkumar-hegde-mosque-babri-fir-karnataka-bjp)
+
+No Article text 
+'Like Babri Masjid was demolished, Chinnada Palli mosque will be demolished in Bhatkal,' the MP had said.
+
+2024-01-15T11:13:43+05:30
+### ['Strict Adherence to Secular Approach', Apolitical Character Makes Indian Army Stand Out: Top Commander](https://thewire.in/security/manoj-kumar-katiyar-secular-army-day-apolitical)
+
+No Article text 
+Lt Gen Manoj Kumar Katiyar, while addressing soldiers over the weekend, outlined core strengths and principles without which he said, the army would be harmed.
+
+2024-01-15T09:31:58+05:30
+### ['Inability to Draw Lessons From Its History': What Namibia Said on Germany's Support to Israel](https://thewire.in/world/namibia-germany-israel-south-africa-gaza)
+
+No Article text 
+Germany has said that it rejects the accusation of genocide against Israel and would intervene as a third party at the ICJ, where South Africa is leading a case against Tel Aviv.
+
+2024-01-15T08:42:27+05:30
+### [A Lesson on Temples from Swami Vivekananda](https://thewire.in/history/a-lesson-on-temples-from-swami-vivekananda)
+
+No Article text 
+Swami Vivekananda was not allowed to visit Odisha temples after his return to India following his triumphant visit to the USA in 1893 to address several lectures including in the famous event organised by World Parliament of Religions in Chicago.
+
 2024-01-14T20:18:40+05:30
 ### [Maldives Sets March 15 Deadline for Indian Troop Withdrawal at First Core Group Meeting](https://thewire.in/diplomacy/maldives-sets-march-15-deadline-for-indian-troop-withdrawal-at-first-core-group-meeting)
 

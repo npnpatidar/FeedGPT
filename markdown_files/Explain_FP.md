@@ -1,3 +1,75 @@
+Mon, 15 Jan 2024 21:14:26 +0530
+### [Luxury hotels, revamped roads... How Ram Mandir event is transforming Ayodhya](https://www.firstpost.com/explainers/luxury-hotels-revamped-roads-how-ram-mandir-opening-transforming-ayodhya-13617292.html)
+
+Article found but Couldn't summarize 
+Luxury hotels, revamped roads... How Ram Mandir event is transforming Ayodhya
+
+Mon, 15 Jan 2024 20:34:27 +0530
+### [Why India is facing massive flight delays and what flyers can do](https://www.firstpost.com/explainers/why-india-is-facing-massive-flight-delays-and-what-flyers-can-do-13617282.html)
+
+Article found but Couldn't summarize 
+Why India is facing massive flight delays and what flyers can do
+
+Mon, 15 Jan 2024 17:50:15 +0530
+### [Iowa caucus: The definitive guide to the first contest of 2024 US election](https://www.firstpost.com/explainers/iowa-caucus-the-definitive-guide-to-the-first-contest-of-2024-us-election-13616912.html)
+
+The Iowa caucus is an important event in the US presidential race. It is a gathering of registered party members who discuss candidates and issues before voting on a piece of paper. The winner of the caucus receives a publicity boost and can gain momentum for future contests. This year, the Republican caucus will have a binding impact on the race, while the Democratic caucus will only conduct administrative business. Iowa's importance as the first caucus state has been reinforced over the years, although its lack of diversity has been criticized. Donald Trump is favored to win the Republican caucus, while the race for second place is competitive.
+
+Mon, 15 Jan 2024 17:33:00 +0530
+### [Fraud alert: Why govt does not want you to dial *401#](https://www.firstpost.com/explainers/dot-401-call-forwarding-scam-warning-fraud-13616182.html)
+
+Article found but Couldn't summarize 
+Fraud alert: Why govt does not want you to dial *401#
+
+Mon, 15 Jan 2024 17:06:00 +0530
+### [North Korea tests hypersonic missile: What is this warhead, how does it work?](https://www.firstpost.com/explainers/north-korea-tests-hypersonic-missile-what-is-this-warhead-how-does-it-work-13615582.html)
+
+Article found but Couldn't summarize 
+North Korea tests hypersonic missile: What is this warhead, how does it work?
+
+Mon, 15 Jan 2024 16:08:56 +0530
+### [Man hits IndiGo pilot: What happened on the plane? Will he be put on no-fly list?](https://www.firstpost.com/explainers/man-hits-indigo-pilot-what-happened-on-the-plane-will-he-be-put-on-no-fly-list-13615912.html)
+
+A passenger on an IndiGo flight from Delhi to Goa physically assaulted the pilot while he was making an announcement about delays. The incident was caught on video and has since gone viral. The passenger has been identified as Sahil Kataria and has been arrested by the Delhi Police. IndiGo Airlines has formed an internal committee to address the matter and is considering putting the passenger on the No-Fly list. Passengers have certain rights in case of delays, including free meals, refreshments, and accommodation depending on the length of the delay.
+
+Mon, 15 Jan 2024 16:06:18 +0530
+### [PM Modi feeds Punganur cows on Makar Sankranti: Why this breed is special](https://www.firstpost.com/explainers/pm-narendra-modi-feeds-punganur-cows-on-makar-sankranti-why-this-breed-is-special-13615112.html)
+
+Article found but Couldn't summarize 
+PM Modi feeds Punganur cows on Makar Sankranti: Why this breed is special
+
+Mon, 15 Jan 2024 15:41:56 +0530
+### [Who is Marwan Barghouti, ‘Palestinian Mandela’ who could bring peace to Gaza?](https://www.firstpost.com/explainers/who-is-marwan-barghouti-palestinian-mandela-who-could-bring-peace-to-gaza-13615512.html)
+
+Marwan Barghouti, also known as the 'Palestinian Mandela', has been in jail since 2002. He is considered Palestine's most senior leader in prison and has played a significant role in Palestinian resistance and politics. Barghouti has been involved in the Fatah organization since his youth and has been imprisoned multiple times for his activism. Despite his incarceration, Barghouti has continued to be active and was instrumental in the signing of the Prisoner's Document in 2006. He is seen as a potential leader who could unite rival Palestinian political groups, but the chances of him assuming a leadership role after the current Israel-Hamas war are uncertain.
+
+Mon, 15 Jan 2024 14:02:58 +0530
+### [How world’s five richest men doubled their wealth since 2020 and the poor suffered](https://www.firstpost.com/explainers/how-worlds-five-richest-men-doubled-their-wealth-since-2020-and-the-poor-suffered-13615162.html)
+
+Article found but Couldn't summarize 
+How world’s five richest men doubled their wealth since 2020 and the poor suffered
+
+Mon, 15 Jan 2024 13:20:51 +0530
+### [What are Indian troops doing in the Maldives? Why will they withdraw by 15 March?](https://www.firstpost.com/explainers/what-are-indian-troops-doing-in-the-maldives-why-will-they-withdraw-by-15-march-13614892.html)
+
+Article found but Couldn't summarize 
+What are Indian troops doing in the Maldives? Why will they withdraw by 15 March?
+
+Mon, 15 Jan 2024 13:01:18 +0530
+### [Davos 2024: What is the World Economic Forum meet and does it matter today?](https://www.firstpost.com/explainers/davos-2024-what-is-the-world-economic-forum-meet-and-does-it-matter-today-13614802.html)
+
+Davos is the location for the World Economic Forum's (WEF) annual meeting, where global political and business leaders gather to address global, political, and economic issues. The WEF was founded in 1971 to promote global cooperation on pressing problems. This year's Davos summit will see the attendance of business leaders, CEOs, world leaders, and even A-list celebrities. The theme for Davos 2024 is "Rebuilding Trust," focusing on transparency, consistency, and accountability. The summit will also address risks such as extreme weather and misinformation. Additionally, AI House Davos will be created to lead discussions on the rapid development and applications of AI. Davos serves as an important platform for networking and knowledge accumulation.
+
+Mon, 15 Jan 2024 10:28:48 +0530
+### [Lai Ching-te wins Taiwan elections. What comes next?](https://www.firstpost.com/explainers/lai-ching-te-wins-taiwan-elections-what-comes-next-13614002.html)
+
+Taiwan's 2024 presidential election saw Vice President Lai Ching-te, also known as William Lai, win comfortably with over 40% of the vote. Despite warnings from China that his victory would bring conflict, Lai emphasized Taiwan's commitment to democracy. Experts predict that China may increase military pressure and employ "grey zone" tactics to escalate tensions with Taiwan. There may also be economic squeezes as China leans on Taiwanese semiconductor imports. Although Lai won the presidency, his party lost its majority in the legislature. However, there is consensus among the Taiwanese public on issues like national defense. Lai's win signifies the majority of Taiwanese standing behind the values of preserving democracy and a distinct Taiwanese identity.
+
+Mon, 15 Jan 2024 09:57:12 +0530
+### [Why did Milind Deora end ties with the Congress? Will it hurt the party?](https://www.firstpost.com/explainers/why-did-milind-deora-end-his-familys-55-year-ties-with-congress-will-it-hurt-the-party-13613752.html)
+
+Milind Deora, a former Congress leader, has quit the party and joined the Shiv Sena. His decision comes as other young leaders have also left the Congress. Deora cited several reasons for his exit, including the party's deviation from its ideological roots and its focus on opposing Prime Minister Narendra Modi. His departure will impact the Congress, as he was considered a strong candidate for the Mumbai South Lok Sabha seat. It is also feared that his exit may prompt other party members to switch sides.
+
 Sun, 14 Jan 2024 16:39:41 +0530
 ### [FirstUp: S Jaishankar to travel to Iran, WEF Davos meet begins… The headlines today](https://www.firstpost.com/explainers/firstup-s-jaishankar-to-travel-to-iran-wef-davos-meet-begins-the-headlines-today-13612402.html)
 

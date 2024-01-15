@@ -1,3 +1,9 @@
+Mon, 15 Jan 2024 16:20:17 +0530
+### [‘Echo’ series review: Marvel returns to its roots with this decent, low-stakes addition](https://www.thehindu.com/entertainment/movies/echo-series-review-marvel-returns-to-its-roots-with-this-decent-low-stakes-addition/article67742881.ece)
+
+Article found but Couldn't summarize 
+Despite suffering from a painfully simple plot, MCU’s latest series majorly works because of some endearing moments and fantastic action sequences
+
 Sun, 14 Jan 2024 18:22:57 +0530
 ### [‘Naa Saami Ranga’ movie review: Nagarjuna’s village drama is a remake undone by templated approach](https://www.thehindu.com/entertainment/movies/naa-saami-ranga-movie-review-nagarjunas-village-drama-is-a-remake-undone-by-templated-approach/article67740628.ece)
 

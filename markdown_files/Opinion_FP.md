@@ -1,3 +1,53 @@
+Mon, 15 Jan 2024 18:22:10 +0530
+### [How India and France are shaping a dynamic partnership in the changing global landscape](https://www.firstpost.com/opinion/how-india-and-france-are-shaping-a-dynamic-partnership-in-the-changing-global-landscape-13616202.html)
+
+Article found but Couldn't summarize 
+How India and France are shaping a dynamic partnership in the changing global landscape
+
+Mon, 15 Jan 2024 18:03:45 +0530
+### [Book review | 'Agnikaal': Different shades of mediaeval commander Malik Kafur](https://www.firstpost.com/opinion/book-review-agnikaal-story-of-mediaeval-commander-malik-kafur-in-various-shades-outpouring-human-emotions-13616752.html)
+
+Article found but Couldn't summarize 
+Book review | 'Agnikaal': Different shades of mediaeval commander Malik Kafur
+
+Mon, 15 Jan 2024 17:45:15 +0530
+### [Equitable responsibility sharing: A crucial shift in global refugee strategy](https://www.firstpost.com/opinion/equitable-responsibility-sharing-a-crucial-shift-in-global-refugee-strategy-13616812.html)
+
+Article found but Couldn't summarize 
+Equitable responsibility sharing: A crucial shift in global refugee strategy
+
+Mon, 15 Jan 2024 16:58:01 +0530
+### [The sordid Jeffrey Epstein saga: Tangled noose of sexual abuse, celeb sleaze, mysterious death](https://www.firstpost.com/opinion/the-sordid-jeffrey-epstein-saga-tangled-noose-of-sexual-abuse-celeb-sleaze-mysterious-death-13616092.html)
+
+Article found but Couldn't summarize 
+The sordid Jeffrey Epstein saga: Tangled noose of sexual abuse, celeb sleaze, mysterious death
+
+Mon, 15 Jan 2024 16:08:02 +0530
+### [Vikrant Massey’s 12th Fail: Scene stealer of hope &amp; honesty from the Vidhu Vinod Chopra’s masterpiece](https://www.firstpost.com/entertainment/vikrant-massey-vidhu-vinod-chopras-12th-fail-is-a-movie-of-hope-and-honesty-explained-13613542.html)
+
+Vikrant Massey's film "12th Fail" is based on the true story of IPS officer Manoj Kumar Sharma. The last scene, where his girlfriend reveals that he has passed the exam, is emotional and captivating. The film is a story of hope for both the character and the audience, showcasing the struggles and determination required to achieve dreams. It emphasizes the importance of perseverance and hard work in pursuing goals. The movie also highlights the challenges of the UPSC exam and the need to keep trying until success is achieved. "12th Fail" teaches the audience to keep their dreams alive and have faith in themselves and those who believe in them.
+
+Mon, 15 Jan 2024 14:38:14 +0530
+### [India, Indian Ocean Region and the unfolding geopolitical landscape](https://www.firstpost.com/opinion/india-indian-ocean-region-and-the-unfolding-geopolitical-landscape-13614312.html)
+
+Article found but Couldn't summarize 
+India, Indian Ocean Region and the unfolding geopolitical landscape
+
+Mon, 15 Jan 2024 13:21:03 +0530
+### [Weather report: As Himalayas experience record-breaking temperatures, the northern plains shiver in cold](https://www.firstpost.com/opinion/weather-report-as-himalayas-experience-record-breaking-temperatures-the-northern-plains-shiver-in-cold-13614942.html)
+
+The Himalayas are experiencing an unusually dry winter, with no significant precipitation since October 31, 2023. This has led to snow-free peaks and record-breaking high temperatures in regions like Kashmir, Himachal Pradesh, and Uttarakhand. On January 13, Srinagar recorded its warmest January day in 14 years, with a minimum temperature of 15.0°C. Other areas in the Himalayas have also seen high temperatures, breaking previous records. Meanwhile, the northern plains, including Punjab, are experiencing extreme cold with temperatures falling below freezing. The article also provides information on rainfall patterns and weather forecasts for different regions in India.
+
+Mon, 15 Jan 2024 11:19:01 +0530
+### [Ram temple inauguration: How the grand old party is reaping what it sowed](https://www.firstpost.com/opinion/ram-temple-inauguration-how-the-grand-old-party-is-reaping-what-it-sowed-13614222.html)
+
+The article discusses the Congress party's response to the Prana-Pratishta ceremony of Sri Rama in Ayodhya. It highlights the Congress party's historical opposition to Sri Rama and the political consequences of that stance. The article also mentions the Congress party's attempts to distance itself from the event and its struggle to maintain relevance. It criticizes the party's handling of the situation and questions its commitment to Hinduism. Overall, the article suggests that the Congress party's opposition to the Sri Rama Mandir is driven by a fear of losing Muslim votes.
+
+Mon, 15 Jan 2024 10:24:59 +0530
+### [Why Maldivian ministers actually helped Narendra Modi](https://www.firstpost.com/opinion/why-maldivian-ministers-actually-helped-narendra-modi-13613912.html)
+
+Prime Minister Narendra Modi's recent endorsement of Lakshadweep has brought attention to the archipelago. However, it is important to note that Lakshadweep is not made up of 100,000 islands as its name suggests, but rather 36 atolls. In comparison, the Maldives has 1,194 islands. The lack of tourist facilities in Lakshadweep has hindered its popularity, while the Maldives has seen significant growth in tourism. There may be a deeper purpose behind Prime Minister Modi's support for Lakshadweep, potentially related to boosting tourism and infrastructure in the region. The Taj group's announcement of two luxury projects in Lakshadweep is a positive step, but India needs to further develop the infrastructure to compete with the Maldives and also for strategic reasons. Developing Lakshadweep's tourism industry could also serve as a counterpoint to China's influence in the region.
+
 Sun, 14 Jan 2024 18:37:08 +0530
 ### [Book Review | Ram Vilas Paswan: The Weathervane of Indian Politics](https://www.firstpost.com/opinion/book-review-ram-vilas-paswan-the-weathervane-of-indian-politics-13612762.html)
 
