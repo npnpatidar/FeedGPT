@@ -1,3 +1,9 @@
+Mon, 15 Jan 2024 22:32:09 +0530
+### [FirstUp: Pran Pratishta pre-consecrations in Ayodhya, Uddhav press conference, 75th Emmy Awards... today's big stories](https://www.firstpost.com/explainers/firstup-pran-pratishta-pre-consecrations-in-ayodhya-uddhav-press-conference-75th-emmy-awards-todays-big-stories-13617492.html)
+
+Article found but Couldn't summarize 
+FirstUp: Pran Pratishta pre-consecrations in Ayodhya, Uddhav press conference, 75th Emmy Awards... today's big stories
+
 Mon, 15 Jan 2024 21:14:26 +0530
 ### [Luxury hotels, revamped roads... How Ram Mandir event is transforming Ayodhya](https://www.firstpost.com/explainers/luxury-hotels-revamped-roads-how-ram-mandir-opening-transforming-ayodhya-13617292.html)
 
