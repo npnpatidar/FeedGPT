@@ -1,3 +1,39 @@
+Tue, 16 Jan 2024 20:06:01 +0530
+### [Ram temple in Ayodhya: Narendra Modi’s tryst with history](https://www.firstpost.com/opinion/ram-temple-in-ayodhya-narendra-modis-tryst-with-history-13621352.html)
+
+Article found but Couldn't summarize 
+Ram temple in Ayodhya: Narendra Modi’s tryst with history
+
+Tue, 16 Jan 2024 18:56:43 +0530
+### [Why India faces a strategic dilemma in the unfolding Myanmar crisis](https://www.firstpost.com/opinion/why-india-faces-a-strategic-dilemma-in-the-unfolding-myanmar-crisis-13620312.html)
+
+Article found but Couldn't summarize 
+Why India faces a strategic dilemma in the unfolding Myanmar crisis
+
+Tue, 16 Jan 2024 15:55:06 +0530
+### [Vantage | What's behind the chaos at Indian airports?](https://www.firstpost.com/opinion/vantage-whats-behind-the-chaos-at-indian-airports-13620142.html)
+
+Article found but Couldn't summarize 
+Vantage | What's behind the chaos at Indian airports?
+
+Tue, 16 Jan 2024 15:27:58 +0530
+### [Vantage | Inside story of the made-up world and real money riding on red carpets](https://www.firstpost.com/opinion/vantage-inside-story-of-the-made-up-world-and-real-money-riding-on-red-carpets-13619812.html)
+
+Article found but Couldn't summarize 
+Vantage | Inside story of the made-up world and real money riding on red carpets
+
+Tue, 16 Jan 2024 14:39:55 +0530
+### [Lakshadweep, Maldives and PM Modi's diplomatic playbook](https://www.firstpost.com/opinion/lakshadweep-maldives-and-pm-modis-diplomatic-playbook-13618812.html)
+
+Article found but Couldn't summarize 
+Lakshadweep, Maldives and PM Modi's diplomatic playbook
+
+Tue, 16 Jan 2024 10:53:31 +0530
+### [US has shown why longhand must not be written off](https://www.firstpost.com/opinion/us-has-shown-why-longhand-must-not-be-written-off-13618172.html)
+
+Article found but Couldn't summarize 
+US has shown why longhand must not be written off
+
 Mon, 15 Jan 2024 18:22:10 +0530
 ### [How India and France are shaping a dynamic partnership in the changing global landscape](https://www.firstpost.com/opinion/how-india-and-france-are-shaping-a-dynamic-partnership-in-the-changing-global-landscape-13616202.html)
 

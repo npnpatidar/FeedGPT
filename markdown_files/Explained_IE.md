@@ -1,3 +1,38 @@
+Tue, 16 Jan 2024 14:01:18 +0000
+### [A passenger attacked a pilot. How are airlines expected to respond?](https://indianexpress.com/article/explained/passenger-attacked-pilot-indigo-airlines-response-9112072/)
+
+Article found but Couldn't summarize
+
+Tue, 16 Jan 2024 12:38:46 +0000
+### [HC asks Centre to reconsider ITBP cop’s dismissal: Rules about govt jobs to those acquitted in serious cases](https://indianexpress.com/article/explained/explained-law/rules-about-govt-jobs-to-those-acquitted-in-serious-cases-9111984/)
+
+Article found but Couldn't summarize
+
+Tue, 16 Jan 2024 12:22:10 +0000
+### [Why the Tamil Nadu CM and Governor’s posts on Thiruvalluvar Day sparked a row, again](https://indianexpress.com/article/explained/explained-culture/tamil-nadu-cm-governor-thiruvalluvar-saffron-9111878/)
+
+The article discusses the controversy surrounding the depiction of Thiruvalluvar, a philosopher-poet in Tamil Nadu, during the celebration of Thiruvalluvar Day. The Governor's office shared an image of Thiruvalluvar in saffron-colored clothes, which drew criticism from the ruling DMK party, accusing the governor of "saffronisation." The Chief Minister, on the other hand, shared an image of Thiruvalluvar in white robes. Thiruvalluvar is a revered figure in Tamil Nadu, and his teachings are considered essential by Tamilians, regardless of their religion. The article also mentions the historical ambiguity surrounding Thiruvalluvar's life and the various political groups that have shaped his depictions over time. The controversy is taking place in the context of recent archaeological findings that support the ancient history of Tamil Nadu.
+
+Tue, 16 Jan 2024 10:21:16 +0000
+### [Meet the Punganur, dwarf cows that PM Modi fed on Makar Sankranti](https://indianexpress.com/article/explained/punganur-cows-modi-9111523/)
+
+Article found but Couldn't summarize
+
+Tue, 16 Jan 2024 06:36:19 +0000
+### [Is North Korea preparing for war in 2024?](https://indianexpress.com/article/explained/explained-global/north-korea-war-kim-jong-un-analysis-9111272/)
+
+Article found but Couldn't summarize
+
+Tue, 16 Jan 2024 03:56:57 +0000
+### [Why Kashmir and Ladakh are without snow this winter, its implications](https://indianexpress.com/article/explained/explained-climate/kashmir-ladakh-without-snow-why-implications-9110841/)
+
+Article found but Couldn't summarize
+
+Tue, 16 Jan 2024 02:20:11 +0000
+### [What is the AP skill development scam — and how did the case reach the Supreme Court?](https://indianexpress.com/article/explained/explained-law/ap-skill-development-scam-sc-9110727/)
+
+Article found but Couldn't summarize
+
 Mon, 15 Jan 2024 14:44:30 +0000
 ### [Warming up to climate change: As greenhouse gases occur naturally, why do emissions from human activities matter?](https://indianexpress.com/article/explained/explained-climate/as-greenhouse-gases-occur-naturally-why-do-emissions-from-human-activities-matter-9110645/)
 

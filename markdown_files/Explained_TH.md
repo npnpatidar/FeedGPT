@@ -1,3 +1,15 @@
+Tue, 16 Jan 2024 22:26:25 +0530
+### [Understanding the Tenth Schedule | Explained](https://www.thehindu.com/news/national/understanding-the-tenth-schedule-explained/article67746169.ece)
+
+Article found but Couldn't summarize 
+On what basis has the Speaker of the Maharashtra Assembly refused to disqualify the MLAs? What is the history behind the anti-defection law? How can anti-defection laws be made more stronger and impartial?
+
+Tue, 16 Jan 2024 10:30:00 +0530
+### [What are light-emitting diodes and why are they prized as light sources? | Explained](https://www.thehindu.com/sci-tech/science/light-emitting-diode-physics-haitz-law-explained/article67743616.ece)
+
+Article found but Couldn't summarize 
+Even before Haitz’s law, researchers prized LEDs because they were more efficient than incandescent bulbs and fluorescent lamps
+
 Sun, 14 Jan 2024 17:00:00 +0530
 ### [Medical care on India’s trains is running late, with passengers at risk | Explained](https://www.thehindu.com/sci-tech/health/indian-railways-medical-emergency-standards-outdated-explained/article67740490.ece)
 

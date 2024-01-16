@@ -1,3 +1,147 @@
+2024-01-16T22:07:26+05:30
+### [Another African Cheetah Dies, 10 Deaths So Far at Kuno National Park](https://thewire.in/environment/another-african-cheetah-dies-10-deaths-so-far-at-kuno-national-park)
+
+No Article text 
+Shaurya, a male from Namibia, died inside its enclosure in Kuno on January 16 despite being treated for 'weakness'.
+
+2024-01-16T20:25:04+05:30
+### [YS Sharmila Elevated to Be Congress Chief in Andhra, to Take On Her Brother Jagan's Party](https://thewire.in/politics/ys-sharmila-elevated-to-be-congress-chief-in-andhra-to-take-on-her-brother-jagans-party)
+
+No Article text 
+The development is along the expected lines since Sharmila merged her YSR Telangana Party with the Congress. The grand old party hopes that Sharmila could revive its fortunes, where the party even forfeited its deposits virtually in every election held since 2014.
+
+2024-01-16T19:19:07+05:30
+### [Will the International Court Enforce 'Provisional Measures' to Stop the War in Gaza?](https://thewire.in/world/will-the-international-court-enforce-provisional-measures-to-stop-the-war-in-gaza)
+
+No Article text 
+What Israel now fears above all is that the court may go the 'provisional measures' route requiring Israel to stop the military operation in the Gaza Strip. This 'to protect the rights of the parties' while the South Africa's case is heard at the International Court of Justice.
+
+2024-01-16T18:30:39+05:30
+### [Why CJI Chandrachud’s Statement on the 'Saffron Dhwaja as a Unifying Symbol' Raises Red Flags](https://thewire.in/religion/why-cji-chandrachuds-statement-on-the-saffron-dhwaja-as-a-unifying-symbol-raises-red-flags)
+
+No Article text 
+The endorsement of the saffron ‘dhwajas’ fluttering atop Gujarat’s temples relay a worrying message from the Chief Justice of India D.Y. Chandrachud. There is context here which must be flagged.
+
+2024-01-16T18:00:45+05:30
+### [Why Punjab's Farmers Have Opted for Paddy Over Kinnow Despite a Bumper Crop Harvest](https://thewire.in/agriculture/why-punjabs-farmers-have-opted-for-paddy-over-kinnow-despite-a-bumper-crop-harvest)
+
+No Article text 
+High operational costs, market uncertainties, and ineffective institutional support make kinnow farming a risky venture, pushing farmers to choose paddy cultivation, which is considered a stable option for them, despite the environmental challenges associated with it.
+
+2024-01-16T17:40:59+05:30
+### [Supreme Court Puts Mathura Mosque Survey Proceedings on Hold for Now](https://thewire.in/law/supreme-court-puts-mathura-gyanvapi-mosque-survey-proceedings-on-hold-for-now)
+
+No Article text 
+The Supreme Court put a temporary hold on the proceedings in the high court a day before the latter was scheduled to hear arguments on the composition and modalities of the advocate commission survey at the Mughal-era mosque.
+
+2024-01-16T17:30:15+05:30
+### [India’s Share of Global VC Funding Falls to 2.9% in CY23, the Lowest in Five Years: Data](https://thewire.in/business/indias-share-of-global-vc-funding-falls-to-2-9-in-cy23-the-lowest-in-five-years-data)
+
+No Article text 
+The number of new unicorns in India also decreased, contributing only two out of the 71 globally, down from 22 in CY22.
+
+2024-01-16T17:00:13+05:30
+### [Everything Wrong With NITI Aayog's Claim of 24.8 Crore Emerging Out of Poverty in 9 Years](https://thewire.in/political-economy/niti-aayong-national-poverty-indicator)
+
+No Article text 
+The whole purpose of making the NMPI the poverty indicator for India, while consumption expenditure surveys were not done for eight years from 2014 to 2022, is part of a political strategy.
+
+2024-01-16T16:50:18+05:30
+### [Indian History Congress Opposes Demolition of National Museum Building](https://thewire.in/history/indian-history-congress-opposes-demolition-of-national-museum-building)
+
+No Article text 
+"The shifting of the National Museum from its current location to incorporate the Central Vista project is a symbol of the government’s attempt to change the basic ethos and fabric of the Indian political system."
+
+2024-01-16T16:10:50+05:30
+### [Bilkis Bano's Long Struggle for Justice](https://thewire.in/rights/bilkis-banos-long-struggle-for-justice)
+
+No Article text 
+Feminist solidarities came to the forefront in Bilkis Bano's struggle for justice, through legal petitions, street protests, vigils and signature campaigns. These solidarities were particularly evident after the remission.
+
+2024-01-16T15:33:31+05:30
+### [In Photos: Here's What Ayodhya Looks Like Now](https://thewire.in/urban/in-photos-heres-what-ayodhya-looks-like-now)
+
+No Article text 
+A glimpse into what the city is doing to prepare for the much-publicised consecration ceremony.
+
+2024-01-16T15:30:34+05:30
+### [New Book Debunks Myths About Love Jihad, Muslim Appeasement and Other Falsehoods About Minorities](https://thewire.in/books/new-book-debunks-myths-about-love-jihad-muslim-appeasement-and-other-falsehoods-about-minorities)
+
+No Article text 
+With its clear-eyed, scrupulously argued and researched approach, Love Jihad and Other Fictions is an indispensable antidote to the viral falsehoods threatening to tear India apart.
+
+2024-01-16T15:28:19+05:30
+### [Ram Temple Inauguration a ‘Political Narendra Modi Function’, Says Rahul Gandhi](https://thewire.in/politics/ram-temple-inauguration-a-political-narendra-modi-function-says-rahul-gandhi)
+
+No Article text 
+Gandhi did not answer whether he would visit the Ram Temple during the Bharat Jodo Nyay Yatra.
+
+2024-01-16T15:12:35+05:30
+### [A Complete List of Things Narendra Modi Can Do](https://thewire.in/politics/a-complete-list-of-things-narendra-modi-can-do)
+
+No Article text 
+Seriously, I am embarrassed. How, and when, did we become this country?
+
+2024-01-16T14:56:09+05:30
+### [A Mood for Murder | Episode 8: With Spice](https://thewire.in/fiction/a-mood-for-murder-episode-8-with-spice)
+
+No Article text 
+The Wire WhoDunnIt: This is the eighth part of a serialised detective story by Shahrukh Alam. It is a work of fiction.
+
+2024-01-16T14:05:57+05:30
+### [Is India’s North-South Divide a Challenge to Hindutva?](https://thewire.in/politics/is-indias-north-south-divide-a-challenge-to-hindutva)
+
+No Article text 
+It is no mystery that social justice and Hindutva are hurtling towards a definitive show down. A battle with no middle ground and the taking of prisoners, most unlikely.
+
+2024-01-16T13:05:58+05:30
+### [Watch | Has South Africa Persuaded the ICJ to Halt Israel’s War on Gaza?](https://thewire.in/world/watch-has-south-africa-persuaded-the-icj-to-halt-israels-war-on-gaza)
+
+No Article text 
+Nasreen Rajab-Budlender, a senior counsel at the Pan African Bar Association, speaks on the goals of South Africa's historic move at the ICJ.
+
+2024-01-16T12:38:19+05:30
+### [As Congress March Leaves Manipur, Churachandpur Battles Power Blackout and Moreh Fresh Tensions](https://thewire.in/government/manipur-churachandpur-congress-moreh-nyay-yatra)
+
+No Article text 
+Members of the Kuki Women's Organisation for Human Rights, walked along with Rahul Gandhi as part of the party's Bharat Jodo Nyay Yatra, and apprised him of the current situation in Manipur.
+
+2024-01-16T12:00:52+05:30
+### [Will TMC’s Hard Bargain With the Congress in Bengal Help the Opposition's Cause?](https://thewire.in/politics/west-bengal-tmc-congress-opposition-alliance)
+
+No Article text 
+Whether the Congress allies with the TMC or the Left may impact the election in different ways.
+
+2024-01-16T11:43:33+05:30
+### [High Food Prices Drive Wholesale Inflation to a Nine-Month High of 0.73% in December](https://thewire.in/economy/high-food-prices-drive-wholesale-inflation-to-a-nine-month-high-of-0-73-in-december)
+
+No Article text 
+A rise in WPI can affect input costs, which may lead to reduced profit margins unless businesses can pass these higher costs on to consumers by raising retail prices. India's retail inflation also rose to a four-month high in December.
+
+2024-01-16T10:56:55+05:30
+### [Economists Say NITI Aayog Claims on Poverty Reduction Distort the Truth](https://thewire.in/government/economists-say-niti-aayog-claims-on-poverty-reduction-distort-the-truth)
+
+No Article text 
+The government think-tank claimed that 24.8 crore people have been lifted out of multidimensional poverty in the nine years leading up to 2022-23
+
+2024-01-16T09:26:30+05:30
+### ['Manipur United in Affection for Rahul Gandhi': K.C. Venugopal on Day 2 of Congress Yatra](https://thewire.in/politics/manipur-united-in-affection-for-rahul-gandhi-k-c-venugopal-on-day-2-of-congress-yatra)
+
+No Article text 
+Civil society groups, meanwhile, urged Rahul Gandhi to speak on their behalf in parliament in calling for PM Modi to visit Manipur before the Lok Sabha elections.
+
+2024-01-16T09:13:08+05:30
+### ['Situation Doesn’t Benefit Anyone': India, Iran Talk Red Sea Shipping Disruption](https://thewire.in/trade/india-iran-trade-red-sea-chabahar-gaza)
+
+No Article text 
+In Tehran, external affairs minister Jaishankar held a series of meetings with the Iranian leadership, with a primary focus on the Chabahar port draft agreement and the broader tense regional situation.
+
+2024-01-16T08:28:21+05:30
+### [How WhatsApp Forwards Are Using Israel's War to Push Anti-Muslim Narratives in India](https://thewire.in/tech/whatsapp-israel-gaza-anti-muslim)
+
+No Article text 
+Hate messages have mostly gone viral in the Hindi belt where the saffron party has a vocal support base.
+
 2024-01-15T22:29:45+05:30
 ### [Modi Speaks to Putin, to Chalk Out a Roadmap for India-Russia Future Initiatives](https://thewire.in/diplomacy/modi-speaks-to-putin-to-chalk-out-a-roadmap-for-india-russia-future-initiatives)
 

@@ -1,3 +1,15 @@
+Wed, 17 Jan 2024 00:20:00 +0530
+### [Historic hearing: On the preliminary hearing at the Hague on Israel](https://www.thehindu.com/opinion/editorial/historic-hearing-on-the-preliminary-hearing-at-the-hague-on-israel/article67744871.ece)
+
+Article found but Couldn't summarize 
+A provisional order by ICJ on Israel will cast shadow on legitimacy of its war
+
+Wed, 17 Jan 2024 00:10:00 +0530
+### [Vote for continuity: On Taiwan’s presidential elections](https://www.thehindu.com/opinion/editorial/vote-for-continuity-on-taiwans-presidential-elections/article67744903.ece)
+
+Article found but Couldn't summarize 
+Status quo seems to suit Taiwan best in its relationship with China
+
 Mon, 15 Jan 2024 00:20:00 +0530
 ### [Prohibitive price gains: On the Consumer Food Price Index](https://www.thehindu.com/opinion/editorial/prohibitive-price-gains-on-the-consumer-food-price-index/article67741039.ece)
 

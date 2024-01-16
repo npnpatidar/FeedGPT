@@ -1,3 +1,57 @@
+Wed, 17 Jan 2024 01:23:27 +0530
+### [Hard-coded law enforcement is possible but it needs some latitude too](https://www.livemint.com/opinion/online-views/hardcoded-law-enforcement-is-possible-but-it-needs-some-latitude-too-11705416873547.html)
+
+Article found but Couldn't summarize 
+Law adherence can technically be encoded in software but there’s a reason it must not be over-strict. Leeway within the law has value.
+
+Wed, 17 Jan 2024 00:51:06 +0530
+### [Robert Solow: Nobel laureate and an exemplary human being](https://www.livemint.com/opinion/online-views/robert-solow-nobel-laureate-and-an-exemplary-human-being-11705409499343.html)
+
+Article found but Couldn't summarize 
+Although he was a towering figure in the field of economics, he will be remembered by those who know him for his modesty, integrity, lack of pretence and natural human warmth.
+
+Wed, 17 Jan 2024 00:48:28 +0530
+### [Genetic studies: Let’s cast a wider DNA net](https://www.livemint.com/opinion/online-views/genetic-studies-let-s-cast-a-wider-dna-net-11705409555268.html)
+
+Article found but Couldn't summarize 
+Elevated genetic risk of multiple sclerosis among northern Europeans has been traced to ancient animal farming by their ancestors. As DNA research advances, human remains can reveal much that could help fight illnesses, but these studies are too narrow.
+
+Tue, 16 Jan 2024 23:51:51 +0530
+### [Sitharaman’s budget speeches have mostly been positive in tone despite covid](https://www.livemint.com/opinion/online-views/sitharamans-budget-speeches-have-mostly-been-positive-in-tone-despite-covid-11705409637753.html)
+
+Article found but Couldn't summarize 
+A quantitative study of budget speeches reveals differences of complexity and sentiment in the FM’s speeches from those made by her predecessors.
+
+Tue, 16 Jan 2024 13:00:09 +0530
+### [Leverage Affluent India narrative to blend Indian luxury traditions with global fashion](https://www.livemint.com/opinion/online-views/leverage-affluent-india-narrative-to-blend-indian-luxury-traditions-with-global-fashion-11705380246248.html)
+
+Article found but Couldn't summarize 
+The potential for scaling up the collaboration between the European luxury industry and Indian suppliers is immense. This could be achieved through partnerships between Indian and European design schools or by introducing Indian craftsmanship to the global fashion scene
+
+Tue, 16 Jan 2024 11:43:37 +0530
+### [Davos 2024: Navigating global challenges amidst changing priorities](https://www.livemint.com/opinion/davos-2024-navigating-global-challenges-amidst-changing-priorities-11705384820315.html)
+
+Article found but Couldn't summarize 
+The WEF’s recent report on the ‘10 Global Risks’ provides a guide for the conversations that will take place at Davos this year
+
+Tue, 16 Jan 2024 08:00:20 +0530
+### [Aircraft confinement: There must be a way out](https://www.livemint.com/opinion/quick-edit/aircraft-confinement-there-must-be-a-way-out-11705331574686.html)
+
+Article found but Couldn't summarize 
+A flight passenger was arrested after he assaulted the pilot in anger over a delay in taking off due to heavy fog. The assaulter was clearly in violation of the law, but spare a thought for passengers trapped by inordinate delays.
+
+Tue, 16 Jan 2024 08:00:20 +0530
+### [Luxury car brands must lead the thrust to electrify our streets](https://www.livemint.com/opinion/online-views/luxury-car-brands-must-lead-the-thrust-to-electrify-our-streets-11705330333123.html)
+
+Article found but Couldn't summarize 
+Demand in this segment has been impressively strong and relatively price inelastic. An EV charge led by luxury cars could reset broad aspirations and hasten mass-market adoption.
+
+Tue, 16 Jan 2024 08:00:20 +0530
+### [Global AI governance should be anchored by five key principles](https://www.livemint.com/opinion/online-views/global-ai-governance-should-be-anchored-by-five-key-principles-11705330397233.html)
+
+Article found but Couldn't summarize 
+It must serve the public interest, uphold privacy and the UN Charter, and be global as well as local.
+
 Tue, 16 Jan 2024 00:21:37 +0530
 ### [Chip-maker Taiwan’s electorate has rebuffed Beijing](https://www.livemint.com/opinion/online-views/chipmaker-taiwan-s-electorate-has-rebuffed-beijing-11705330507318.html)
 

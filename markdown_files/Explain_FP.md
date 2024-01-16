@@ -1,3 +1,98 @@
+Tue, 16 Jan 2024 21:15:42 +0530
+### [The US grew nearly twice the size of Spain. Here's how](https://www.firstpost.com/explainers/the-us-grew-nearly-twice-the-size-of-spain-heres-how-13621792.html)
+
+The United States has experienced an expansion of its continental shelf, growing by 386,000 square miles last month. The growth was determined through the analysis of data collected by the National Oceanic and Atmospheric Administration and the United States Geological Survey since 2003. The extended continental shelf (ECS) includes vital habitats for marine life and resources such as corals and crabs. This development impacts the US's efforts to secure territorial rights in the Arctic. The US now has the largest exclusive economic zone on the planet. Territorial rights with Russia do not require future negotiations due to a 1990 agreement. Canada may have overlapping claims that can be resolved in the future.
+
+Tue, 16 Jan 2024 20:13:49 +0530
+### [Ram Mandir inauguration: How AI will help secure Ayodhya for 22 January event](https://www.firstpost.com/explainers/ram-mandir-inauguration-how-ai-will-help-secure-ayodhya-for-22-january-event-13621392.html)
+
+Article found but Couldn't summarize 
+Ram Mandir inauguration: How AI will help secure Ayodhya for 22 January event
+
+Tue, 16 Jan 2024 19:08:17 +0530
+### [What is avalanching, the pre-Valentine's Day dating trend experts are warning about?](https://www.firstpost.com/explainers/what-is-avalanching-the-pre-valentines-day-dating-trend-experts-are-warning-about-13620062.html)
+
+Article found but Couldn't summarize 
+What is avalanching, the pre-Valentine's Day dating trend experts are warning about?
+
+Tue, 16 Jan 2024 18:23:48 +0530
+### [Why has Imran Khan’s party lost its bat symbol? Will it have an impact in the Pakistan polls?](https://www.firstpost.com/explainers/why-has-imran-khans-party-lost-its-bat-symbol-will-it-have-an-impact-in-the-pakistan-polls-13620182.html)
+
+Article found but Couldn't summarize 
+Why has Imran Khan’s party lost its bat symbol? Will it have an impact in the Pakistan polls?
+
+Tue, 16 Jan 2024 17:22:15 +0530
+### [Why IndiGo is in trouble over viral video of flyers eating on Mumbai airport tarmac](https://www.firstpost.com/explainers/indigo-flight-viral-video-of-flyers-eating-on-mumbai-airport-tarmac-13620582.html)
+
+IndiGo Airlines and Mumbai Airport are facing criticism after a video of passengers eating on the tarmac went viral. The flight, which was diverted to Mumbai due to poor visibility, experienced delays and passengers refused to enter the terminal building. The Civil Aviation ministry has issued a show-cause notice to both IndiGo Airlines and Mumbai Airport, stating that they were not proactive in anticipating the situation and making appropriate arrangements for passengers. The notice warns of potential enforcement action, including financial penalties, if comprehensive responses are not received. IndiGo Airlines is also accused of breaching security rules by allowing passengers to board without proper checks.
+
+Tue, 16 Jan 2024 17:01:52 +0530
+### [Why Disease X is being discussed at Davos 2024](https://www.firstpost.com/explainers/why-disease-x-is-being-discussed-at-davos-2024-13620682.html)
+
+Article found but Couldn't summarize 
+Why Disease X is being discussed at Davos 2024
+
+Tue, 16 Jan 2024 16:48:37 +0530
+### [Forget snow, there is a water shortage in Kashmir. What is going on?](https://www.firstpost.com/explainers/forget-snow-there-is-a-water-shortage-in-kashmir-what-is-going-on-13619642.html)
+
+Kashmir is experiencing a water shortage due to a prolonged dry spell and lack of snow and rain. The Jhelum River and other water bodies are drying up, causing concerns for agriculture and water supply. Glaciers are also shrinking, which will have long-term implications for groundwater recharge and power production. The dry weather is attributed to El Nino and the absence of a strong western disturbance. The tourism industry in Kashmir, particularly ski resorts, has been severely impacted. Relief may come with a possible rain or snowfall after January 25th.
+
+Tue, 16 Jan 2024 16:00:33 +0530
+### [New Zealand MP quits over shoplifting allegations: Can stress lead to kleptomania?](https://www.firstpost.com/explainers/new-zealand-mp-quits-over-shoplifting-allegations-can-stress-lead-to-kleptomania-13620162.html)
+
+Article found but Couldn't summarize 
+New Zealand MP quits over shoplifting allegations: Can stress lead to kleptomania?
+
+Tue, 16 Jan 2024 14:41:42 +0530
+### [What is Seoul’s new law to protect upcoming K-pop stars?](https://www.firstpost.com/explainers/seoul-new-law-to-protect-k-pop-trainees-mental-health-13619332.html)
+
+Seoul has passed a law to protect the physical and mental health of young trainees in the K-pop industry. The law aims to address issues such as forced weight loss and cosmetic procedures. It includes psychological exams, counseling, and career counseling for trainees who do not debut or whose contracts end. Trainees often undergo rigorous auditions and sign contracts that can span seven years. Strict rules for trainees include weekly weight checks, strict diets, no dating, limited phone access, and limited interaction between male and female trainees.
+
+Tue, 16 Jan 2024 14:23:04 +0530
+### [Trump wins Iowa: Does this increase his chances of becoming US president?](https://www.firstpost.com/explainers/donald-trump-wins-iowa-does-this-increase-his-chances-of-becoming-the-next-us-president-13619362.html)
+
+Former President Donald Trump won the Iowa caucuses, solidifying his frontrunner status in the Republican primary. He secured almost three-quarters of the early vote, marking a historic victory and demonstrating his dominance among Republican voters. However, winning in Iowa does not guarantee success in the remaining race or the general election, as past winners have not always become the party's nominee or won the presidency. Iowa's caucuses are considered crucial for winnowing the field and giving candidates a springboard for the rest of the race, but they do not necessarily reflect the mood of the nation.
+
+Tue, 16 Jan 2024 14:08:00 +0530
+### [Why ships in Red Sea are displaying links to China](https://www.firstpost.com/explainers/all-chinese-crew-why-ships-in-red-sea-are-displaying-affiliations-with-beijing-13619422.html)
+
+Article found but Couldn't summarize 
+Why ships in Red Sea are displaying links to China
+
+Tue, 16 Jan 2024 12:46:57 +0530
+### [How Donald Trump's race to the White House overlaps with his legal calendar](https://www.firstpost.com/explainers/how-donald-trumps-race-to-the-white-house-overlaps-with-his-legal-calendar-13618362.html)
+
+Article found but Couldn't summarize 
+How Donald Trump's race to the White House overlaps with his legal calendar
+
+Tue, 16 Jan 2024 12:24:08 +0530
+### [Ram Mandir’s pran pratishtha begins. A look at the rituals over the next seven days](https://www.firstpost.com/explainers/ram-mandirs-pran-pratishtha-begins-a-look-at-the-rituals-over-the-next-seven-days-13618742.html)
+
+Preparations are underway for the consecration ceremony of the Ram Mandir in Ayodhya on January 22. Various rituals and ceremonies will take place from January 16 until the big day. The idol of Ram Lalla will be brought to the temple, followed by sacred ceremonies and the lighting of a holy fire. The pran pratishtha ceremony, where the idol becomes a deity, will take place on January 22. After the ceremony, the temple will be closed to devotees on January 21 and 22 and will open to the public on January 23. The event will be celebrated globally, including car rallies in the United States and a Ram Rath Yatra in Paris.
+
+Tue, 16 Jan 2024 11:36:30 +0530
+### [Car rallies in the US, rath yatras in France: How the world is celebrating opening of Ram Mandir](https://www.firstpost.com/explainers/car-rallies-in-the-us-rath-yatras-in-france-how-the-world-is-celebrating-opening-of-ram-mandir-13617792.html)
+
+Article found but Couldn't summarize 
+Car rallies in the US, rath yatras in France: How the world is celebrating opening of Ram Mandir
+
+Tue, 16 Jan 2024 10:44:01 +0530
+### [Meet Preesha Chakraborty, the Indian-American schoolgirl named as the ‘world’s brightest student’](https://www.firstpost.com/explainers/meet-preesha-chakraborty-the-indian-american-schoolgirl-named-as-the-worlds-brightest-student-13618072.html)
+
+Nine-year-old Indian-American schoolgirl, Preesha Chakraborty, has been named one of the "world's brightest" students by the prestigious Johns Hopkins Centre for Talented Youth. Preesha, a Grade 3 student at Warm Spring Elementary school in California, was selected from a pool of over 16,000 students from around the world. She achieved exceptional scores on above-grade-level tests, qualifying her for the Grand Honors. Preesha's achievement allows her to participate in over 250 advanced programs in subjects such as mathematics, computer programming, and writing. She is also a member of the Mensa Foundation, a high-IQ society. Preesha's parents describe her as passionate about learning, and the recognition from Johns Hopkins is a testament to her curiosity and capacity for learning. This is not the first time an Indian-American student has been recognized as one of the "world's brightest." In 2023, Natasha Perianayagam, a 13-year-old prodigy, was also named on the list.
+
+Tue, 16 Jan 2024 10:01:19 +0530
+### [Flight delayed owing to fog? Here are the new guidelines that airlines have to follow](https://www.firstpost.com/explainers/flight-delayed-owing-to-fog-here-are-the-new-guidelines-that-airlines-have-to-follow-13617942.html)
+
+Article found but Couldn't summarize 
+Flight delayed owing to fog? Here are the new guidelines that airlines have to follow
+
+Tue, 16 Jan 2024 09:03:59 +0530
+### [Dying dollar? How the role of the US currency is becoming more limited](https://www.firstpost.com/explainers/dying-dollar-how-the-role-of-the-us-currency-is-becoming-more-limited-13615592.html)
+
+Article found but Couldn't summarize 
+Dying dollar? How the role of the US currency is becoming more limited
+
 Mon, 15 Jan 2024 22:32:09 +0530
 ### [FirstUp: Pran Pratishta pre-consecrations in Ayodhya, Uddhav press conference, 75th Emmy Awards... today's big stories](https://www.firstpost.com/explainers/firstup-pran-pratishta-pre-consecrations-in-ayodhya-uddhav-press-conference-75th-emmy-awards-todays-big-stories-13617492.html)
 
