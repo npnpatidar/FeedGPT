@@ -15,6 +15,11 @@ Tue, 16 Jan 2024 19:08:17 +0530
 Article found but Couldn't summarize 
 What is avalanching, the pre-Valentine's Day dating trend experts are warning about?
 
+Tue, 16 Jan 2024 18:29:44 +0530
+### [FirstUp: Puri Jagannath Corridor to open to public, and more... The headlines of today](https://www.firstpost.com/explainers/firstup-puri-jagannath-corridor-to-open-to-public-and-more-the-headlines-of-today-13620932.html)
+
+The Puri Jagannath Parikrama project in Odisha, which encircles the Jagannath Temple, is set to be inaugurated today. RBI Governor Shaktikanta Das will address the World Economic Forum, and the Global Forum for Food and Agriculture will begin in Germany. The Ram Lalla procession will reach Ayodhya, and the Thackeray faction has launched the Stree Shakti Saamvad Yatra. Republic Day parade rehearsals have started in Delhi, and the Global Forum for Food and Agriculture is taking place in Berlin. Hailstorms are expected in several districts of Assam. China will release its official population figures for 2023.
+
 Tue, 16 Jan 2024 18:23:48 +0530
 ### [Why has Imran Khan’s party lost its bat symbol? Will it have an impact in the Pakistan polls?](https://www.firstpost.com/explainers/why-has-imran-khans-party-lost-its-bat-symbol-will-it-have-an-impact-in-the-pakistan-polls-13620182.html)
 
