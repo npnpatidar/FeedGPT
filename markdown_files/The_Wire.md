@@ -1,3 +1,129 @@
+2024-01-18T00:16:43+05:30
+### [We ‘Understand’ Actions Taken In ‘Self-Defence’: India Justifies Iran’s Missile Strike In Pakistan](https://thewire.in/world/india-seemingly-justifies-iran-missile-attack-in-pakistan)
+
+No Article text 
+India's backing of the Iranian action was expected, given that New Delhi had publicly undertaken cross-border operations at least twice, purportedly targeting terrorist camps, in the last ten years.
+
+2024-01-17T23:39:32+05:30
+### [Mahua Gets Fresh Eviction Notice Even As She Challenges Prior Ones in Court](https://thewire.in/government/mahua-moitra-fresh-evicton-notice-doe)
+
+No Article text 
+The Trinamool Congress leader has been served several notices by Directorate of Estates to vacate her official bungalow in Delhi since her expulsion from parliament on December 8.
+
+2024-01-17T23:14:17+05:30
+### [Key Manipur Official Confirms Militant Presence Amid Moreh Violence](https://thewire.in/security/three-security-personnel-killed-moreh-gunfight)
+
+No Article text 
+A gunfight between militant groups on Wednesday (January 17) killed two Indian Reserve Battalion jawans and one Manipur Rifles jawan.
+
+2024-01-17T20:50:44+05:30
+### [As Ayodhya Looms, Must Underline Yogi's Erosion of Goraknath's Syncretic Legacy: Lalu](https://thewire.in/religion/lalu-yadav-ayodhya-gorakhnath)
+
+No Article text 
+This was especially important as this is a time “when the lines between faith and politics are more blurred than ever”, the former Bihar chief minister said, referring to the hyper-politicisation of the Ayodhya Ram Temple's consecration.
+
+2024-01-17T20:30:21+05:30
+### [Before Deciding on Next Steps for the Kaleshwaram Project, a Detailed Review Is in Order](https://thewire.in/government/before-deciding-on-next-steps-for-the-kaleshwaram-project-a-detailed-review-is-in-order)
+
+No Article text 
+The new Congress government in Telangana has inherited the massive Kaleshwaram Lift Irrigation Project in bad shape. But any hasty decision to close the entire project or to rush to alternative locations will lead to a further waste of money.
+
+2024-01-17T18:24:05+05:30
+### [Charting the Rise and Fall of Byju's, a New Book Explores India's Educational Ecosystem](https://thewire.in/books/charting-the-rise-and-fall-of-byjus-and-educational-ecosystem-in-india)
+
+No Article text 
+Pradip Saha's latest book 'The Learning Trap – How Byju’s Took Indian Edtech for a Ride' is an uncommon investigative treatise into India's education system.
+
+2024-01-17T17:49:42+05:30
+### [Iranian Airstrikes: Pakistan Recalls Ambassador, Tells Tehran's Envoy Not to Return](https://thewire.in/south-asia/pakistan-says-iran-airstrikes-killed-two-children-iran-claims-it-struck-militant-base)
+
+No Article text 
+Islamabad has condemned the "unprovoked violation" of its airspace after an Iranian attack killed two children and injured three people. Iran says it struck a Sunni militant group.
+
+2024-01-17T16:45:59+05:30
+### ['Everything Is Dictated By the Times That We're Living in': Resul Pookutty](https://thewire.in/film/everything-is-dictated-by-the-time-that-were-living-in-resul-pookutty)
+
+No Article text 
+Oscar-winning sound designer Pookutty spoke to The Wire about his directorial debut, the times we live in and his plans for the future.
+
+2024-01-17T16:13:51+05:30
+### ['If Ram Temple Has Been Established...': Ex-CJI Ranjan Gogoi to Get Assam's Highest Civilian Award](https://thewire.in/law/cji-ranjan-gogoi-assam-highest-civilian-award-ram-temple)
+
+No Article text 
+Gogoi became a nominated Rajya Sabha MP shortly after retiring as Chief Justice.
+
+2024-01-17T15:53:54+05:30
+### [Security Bug in MCA Portal Leaked Aadhaar-Based KYC Details of India’s Top Industrialists](https://thewire.in/tech/security-bug-in-mca-portal-leaked-aadhaar-based-kyc-details-of-indias-top-industrialists)
+
+No Article text 
+Security researcher Sai Krishna Kothapalli of Hackcrew published a report revealing details of the security issue.
+
+2024-01-17T15:47:17+05:30
+### [Reading the National Education Policy Against Practices in Delhi University](https://thewire.in/education/reading-the-national-education-policy-against-practices-in-delhi-university)
+
+No Article text 
+The implementation of the NEP is in contrast with its stated projects.
+
+2024-01-17T15:14:31+05:30
+### [Flight Delays: Maintenance Setback at Delhi Airport Runway Over 'G20, Pollution Curbs'](https://thewire.in/government/flight-delays-maintenance-setback-at-delhi-airport-runway-over-g20-pollution-curbs)
+
+No Article text 
+A compressed timeline post-G20 Summit in September and pollution-related curbs imposed by the Delhi government posed challenges to completing the project within the stipulated time, the airport operator said.
+
+2024-01-17T15:04:03+05:30
+### [Full Text | 'Only Political Hindus Are Happy': Shankaracharya on Ayodhya Ram Temple Consecration](https://thewire.in/religion/full-text-only-political-hindus-are-happy-shankaracharya-on-ayodhya-ram-temple-consecration)
+
+No Article text 
+Shankaracharya of Jyotish Peeth, Swami Avimukteshwaranand Saraswati, tells Karan Thapar in an interview that religious Hindus who care about Hindu Shastras are unhappy over consecrating a place which is not fully built.
+
+2024-01-17T14:32:04+05:30
+### [Martin Luther King Jr.’s Stance Against Vietnam War Offers Lessons for Peace in the Middle East](https://thewire.in/world/martin-luther-king-jr-s-stance-against-vietnam-war-offers-lessons-for-peace-in-the-middle-east)
+
+No Article text 
+Nearly 60 years later, the fight for King’s “radical revolution of values,” where human life and dignity were the most valued, still rages. But as the life of King reminds us, speaking out for justice can be costly. Yet he would also say that the cost of remaining silent is far greater.
+
+2024-01-17T13:57:32+05:30
+### [Kerala, Karnataka, Tamil Nadu, Himachal, Gujarat Are Best Performing States for Startup Development](https://thewire.in/business/kerala-karnataka-tamil-nadu-himachal-gujarat-are-best-performing-states-for-startup-development)
+
+No Article text 
+Telangana, Maharashtra, Odisha, Punjab, and Rajasthan have been classified as the top-performing states.
+
+2024-01-17T13:35:14+05:30
+### [Movements and Yatras Sustain Democratic Spirit](https://thewire.in/politics/movements-and-yatras-sustain-democratic-spirit)
+
+No Article text 
+The Bharat Jodo Nyay Yatra is an attempt to retrieve and expand democratic space from the jaws of communal polarisation.
+
+2024-01-17T13:34:04+05:30
+### [Centre for Policy Research Calls MHA's Decision to Cancel FCRA Registration 'Incomprehensible'](https://thewire.in/rights/home-ministry-cancels-centre-for-policy-researchs-fcra-registration)
+
+No Article text 
+"CPR firmly reiterates that it is in complete compliance with the law, and has been cooperating fully and exhaustively at every step of the process."
+
+2024-01-17T13:05:07+05:30
+### ['Easier to Get Darshan After January 22': Sharad Pawar to Skip Ram Temple Consecration Event](https://thewire.in/politics/easier-to-get-darshan-after-january-22-sharad-pawar-to-skip-ram-temple-consecration-event)
+
+No Article text 
+The Nationalist Congress Party chief wrote to Champat Rai, general secretary of Ram Janmabhoomi Teerth Kshetra Trust, conveying his inability to attend the ceremony, without referring to the politicisation of the event by BJP-RSS.
+
+2024-01-17T12:36:35+05:30
+### [SC Stays Defamation Proceedings Against Kejriwal, Sanjay Singh Over Comments on PM Modi’s Degree](https://thewire.in/law/sc-stays-defamation-proceedings-against-kejriwal-sanjay-singh-over-comments-on-pm-modis-degree)
+
+No Article text 
+A bench comprising Justices B.R. Gavai and Sandeep Mehta issued the stay and directed the Gujarat high court to promptly dispose of a plea for interim relief filed by Kejriwal and Singh.
+
+2024-01-17T09:12:32+05:30
+### [Indian Government Has X Account of 'Hindutva Watch' Withheld](https://thewire.in/rights/indian-government-has-x-account-of-hindutva-watch-withheld)
+
+No Article text 
+Raqib Hameed Naik, the founder, told the media that he received an email about the development on Tuesday, saying that the Government of India had said the account violated sections of the IT Act.
+
+2024-01-17T07:00:55+05:30
+### ['Independence' on January 22? The Noise Generated Around It Bears More Resemblance to Force a Divide](https://thewire.in/communalism/independence-on-january-22-the-noise-generated-around-it-bears-more-resemblance-to-force-a-divide)
+
+No Article text 
+An apocalyptic part of the August 15 story, that independent India thought it was on its way to heal, is the Partition of the sub-continent that followed. The divides being sought to be recreated resemble that side of the coin more than the unifying message of modern India in 1950.
+
 2024-01-16T22:07:26+05:30
 ### [Another African Cheetah Dies, 10 Deaths So Far at Kuno National Park](https://thewire.in/environment/another-african-cheetah-dies-10-deaths-so-far-at-kuno-national-park)
 

@@ -1,3 +1,57 @@
+Wed, 17 Jan 2024 23:32:49 +0530
+### [Multidimensional poverty data reopens a great debate](https://www.livemint.com/opinion/online-views/multidimensional-poverty-data-reopens-a-great-debate-11705508888981.html)
+
+Article found but Couldn't summarize 
+Let’s identify and focus on a single variable that captures most of what India needs to track deprivation.
+
+Wed, 17 Jan 2024 23:29:35 +0530
+### [Indian employment data generates both misconceptions and puzzles](https://www.livemint.com/opinion/online-views/indian-employment-data-generates-both-misconceptions-and-puzzles-11705499234793.html)
+
+Article found but Couldn't summarize 
+Data shows that the youth has seen the largest addition to the number of workers relative to its population, which counters a narrative of dwindling jobs for them. Trends like rising female work participation need study, though.
+
+Wed, 17 Jan 2024 23:25:45 +0530
+### [Freedom of speech at American universities is falling prey to doublespeak](https://www.livemint.com/opinion/online-views/freedom-of-speech-at-american-universities-is-falling-prey-to-doublespeak-11705499280876.html)
+
+Article found but Couldn't summarize 
+Institutions need divergent voices, inclusive policies and collaborative learning. Their programmes should not be used as a cudgel to promote ideological conformity.
+
+Wed, 17 Jan 2024 23:20:56 +0530
+### [Sebi's dilemma: There exists a fine line between finfluencing and free speech](https://www.livemint.com/opinion/online-views/sebis-dilemma-there-exists-a-fine-line-between-finfluencing-and-free-speech-11705499327653.html)
+
+Article found but Couldn't summarize 
+It is lawful to offer a public opinion on investing, just as it’s okay for a brand endorser to hawk products on TV. Recipients of advice must exercise judgement.
+
+Wed, 17 Jan 2024 21:24:31 +0530
+### [Davos 2024: Leaders watch global economy with a cautious optimism](https://www.livemint.com/opinion/first-person/davos-2024-leaders-watch-global-economy-with-a-cautious-optimism-11705504820598.html)
+
+Article found but Couldn't summarize 
+The optimism is tempered by worries about geopolitics and its effect on global supply chains.
+
+Wed, 17 Jan 2024 13:00:08 +0530
+### [China’s strongarm tactics in Taiwan will only redouble after historic election](https://www.livemint.com/opinion/chinas-strongarm-tactics-in-taiwan-will-only-redouble-after-historic-election-11705474950325.html)
+
+Article found but Couldn't summarize 
+Taiwan’s political dynamics are important to India, especially because of the boundary dispute with China. There's also growing interest in India-Taiwan economic cooperation, particularly in high-tech manufacturing sectors
+
+Wed, 17 Jan 2024 08:00:17 +0530
+### [Davos: The IMF tries to temper rate-cut expectations](https://www.livemint.com/opinion/quick-edit/davos-the-imf-tries-to-temper-rate-cut-expectations-11705423747635.html)
+
+Article found but Couldn't summarize 
+Inflation is yet to be quelled in the West and labour markets remain tight. A weakened trade-off between joblessness and price instability adds complexity to the challenge central banks face.
+
+Wed, 17 Jan 2024 08:00:17 +0530
+### [We must make lasting moves against the mis-selling of financial products](https://www.livemint.com/opinion/online-views/we-must-make-lasting-moves-against-the-mis-selling-of-financial-products-11705416772639.html)
+
+Article found but Couldn't summarize 
+Supervision of sales pitches won’t tackle this problem quite as well as focused consumer courts can. We need long-term solutions.
+
+Wed, 17 Jan 2024 08:00:17 +0530
+### [Multidimensional poverty: Can we eliminate it within a decade?](https://www.livemint.com/opinion/online-views/multidimensional-poverty-can-we-eliminate-it-within-a-decade-11705416698134.html)
+
+Article found but Couldn't summarize 
+A Niti Aayog report suggests India’s deprived will soon drop below a tenth of its population. As welfare schemes play a role in this progress, it can in theory be achieved with current tools. But we must track single-dimension poverty too.
+
 Wed, 17 Jan 2024 01:23:27 +0530
 ### [Hard-coded law enforcement is possible but it needs some latitude too](https://www.livemint.com/opinion/online-views/hardcoded-law-enforcement-is-possible-but-it-needs-some-latitude-too-11705416873547.html)
 

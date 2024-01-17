@@ -1,3 +1,103 @@
+Wed, 17 Jan 2024 21:17:45 +0530
+### [Why Germans are protesting against a political party and comparing it to Nazis](https://www.firstpost.com/explainers/why-germans-are-protesting-against-a-political-party-and-comparing-it-to-nazis-13626412.html)
+
+Article found but Couldn't summarize 
+Why Germans are protesting against a political party and comparing it to Nazis
+
+Wed, 17 Jan 2024 19:06:35 +0530
+### [How Houthi attacks in Red Sea are affecting India’s exports](https://www.firstpost.com/explainers/how-houthi-attacks-in-red-sea-are-affecting-indias-exports-13626002.html)
+
+Article found but Couldn't summarize 
+How Houthi attacks in Red Sea are affecting India’s exports
+
+Wed, 17 Jan 2024 19:02:15 +0530
+### [From VIP entry to free prasad: Beware of these scams ahead of Ayodhya's Ram Temple inauguration](https://www.firstpost.com/explainers/from-vip-entry-to-free-prasad-beware-of-these-scams-ahead-of-ayodhyas-ram-temple-inauguration-13623272.html)
+
+Cybercriminals are targeting devotees of the Ram Temple in Ayodhya by promising them free VIP entry and free prasad through a malicious app. The scam involves tricking people into downloading an APK file and sharing it with others. Additionally, fraudsters are seeking funds for the temple's construction through fake social media pages and offering free prasad that is not authorized. It is important for devotees to exercise caution and rely on verified sources for information and services related to the temple.
+
+Wed, 17 Jan 2024 18:32:40 +0530
+### [How much does women’s health gap cost the world?](https://www.firstpost.com/explainers/how-much-does-womens-health-gap-cost-the-world-13623752.html)
+
+Article found but Couldn't summarize 
+How much does women’s health gap cost the world?
+
+Wed, 17 Jan 2024 18:09:53 +0530
+### [In Graphics | Long delays and few refunds: A look at India's soaring aviation sector &amp; turbulent consumer experience](https://www.firstpost.com/explainers/in-graphics-long-delays-and-few-refunds-a-look-at-indias-soaring-aviation-sector-turbulent-consumer-experience-13625212.html)
+
+Indian airlines carried a record-breaking 152 million passengers in 2023, marking a significant increase in air traffic. This number was 23% higher than the previous year and over 5% more than pre-pandemic levels in 2019. In December alone, the industry reached a milestone with 13.8 million passengers, surpassing the previous record set in May. However, along with the rise in travelers, there has been an increase in passenger complaints regarding facilities, delays, and other issues. The report highlights that 712 passenger-related complaints were received in December 2023, with flight problems and refunds being the main reasons. The majority of complaints have been addressed by the airlines, with SpiceJet receiving the highest number of complaints followed by Air India and IndiGo.
+
+Wed, 17 Jan 2024 17:36:15 +0530
+### [France, China among countries seeing fewer births: Is world population declining?](https://www.firstpost.com/explainers/france-china-among-countries-seeing-fewer-births-is-world-population-declining-13625272.html)
+
+France's birth rates reached a record low in 2023, with only 678,000 babies born, the lowest number since 1946. This decline in births has been ongoing since 2010, and last year saw a drop of 6.6%. Despite the decline in births, France's population has grown due to factors such as migration and increased life expectancy. Other European countries, as well as China, South Korea, and Japan, are also facing population decline. However, globally, the world population is projected to continue rising, reaching 10.9 billion by 2100.
+
+Wed, 17 Jan 2024 17:31:21 +0530
+### [Scientists clone first healthy rhesus monkey. Why is this significant?](https://www.firstpost.com/explainers/scientists-clone-first-healthy-rhesus-monkey-why-is-this-significant-13625152.html)
+
+Scientists in China have successfully cloned a healthy rhesus monkey named Retro using a modified version of somatic cell nuclear transfer (SCNT). This breakthrough is significant because previous attempts to clone primates had been largely unsuccessful. The researchers replaced the cells that become the placenta with those from a healthy, non-cloned embryo, leading to the birth of Retro. The hope is that this technique can be used to create genetically uniform monkeys for medical research and disease modeling. However, the success rate of the new method is still low, and ethical concerns surrounding cloning remain.
+
+Wed, 17 Jan 2024 16:43:33 +0530
+### [Delhi’s Maladies: How harsh winters, high pollution are making people sick](https://www.firstpost.com/explainers/delhis-maladies-how-harsh-winters-high-pollution-are-making-people-sick-13624212.html)
+
+Cases of H1N1 flu, also known as swine flu, are increasing in Delhi due to a combination of harsh winter weather and high pollution levels. The elderly and those with underlying health conditions are particularly affected, with respiratory and heart-related problems on the rise. The flu is highly contagious and spreads through coughing, sneezing, and touching contaminated surfaces. Symptoms include runny nose, coughing, breathlessness, sore throat, and fever with rash. Longer hospital stays are attributed to the interaction between the flu and bacterial infections. Experts recommend getting the annual flu vaccination as the best defense against H1N1.
+
+Wed, 17 Jan 2024 15:48:35 +0530
+### [Why a SpiceJet passenger flew from Mumbai to Bengaluru on a toilet seat](https://www.firstpost.com/explainers/why-a-spicejet-passenger-flew-from-mumbai-to-bengaluru-on-a-toilet-seat-13624542.html)
+
+Article found but Couldn't summarize 
+Why a SpiceJet passenger flew from Mumbai to Bengaluru on a toilet seat
+
+Wed, 17 Jan 2024 14:43:16 +0530
+### [What is Jaish al-Adl, the Pakistan-based militant group targeted by Iran?](https://www.firstpost.com/explainers/jaish-al-adl-pakistan-based-militant-group-iran-strikes-13624012.html)
+
+Article found but Couldn't summarize 
+What is Jaish al-Adl, the Pakistan-based militant group targeted by Iran?
+
+Wed, 17 Jan 2024 14:01:18 +0530
+### [What are ‘pajama injunctions’ that are giving Rishi Sunak sleepless nights?](https://www.firstpost.com/explainers/what-are-pajama-injunctions-that-are-giving-rishi-sunak-sleepless-nights-13624072.html)
+
+UK Prime Minister Rishi Sunak is facing opposition from the right-wing of the Conservative Party regarding his Rwanda deportation plan and his efforts to stop illegal immigration. One issue he is encountering is the issuance of "pajama injunctions" by the European Court of Human Rights, which have halted several deportation flights to Rwanda. Sunak has introduced the "Safety of Rwanda Bill" to counter these injunctions, but some members of the Conservative Party believe the proposed law doesn't go far enough and want the UK to leave the European Convention on Human Rights. Sunak recently won a vote on the legislation, but there is ongoing dissatisfaction within the party.
+
+Wed, 17 Jan 2024 13:26:05 +0530
+### [India ranks among five most powerful militaries in the world. Who is at No 1?](https://www.firstpost.com/explainers/india-ranks-among-five-most-powerful-militaries-in-the-world-who-is-at-no-1-13623832.html)
+
+Article found but Couldn't summarize 
+India ranks among five most powerful militaries in the world. Who is at No 1?
+
+Wed, 17 Jan 2024 13:00:00 +0530
+### [How AI can now copy handwriting. Is it a reason to worry?](https://www.firstpost.com/explainers/how-ai-can-now-copy-handwriting-is-it-a-reason-to-worry-13621292.html)
+
+Researchers at Abu Dhabi's Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) have developed a technology that can mimic someone's handwriting. They employed a transformer model, a neural network designed to study context and meaning in sequential data, which is able to replicate handwriting with just a few paragraphs of sample material. The technology could benefit people with disabilities or injuries that prevent them from writing and could also be used to improve how other AI models process handwriting. The creators are mindful of the potential for misuse and are considering public awareness and tools to combat forgery. The technology is yet to be released, and the team has had success in replicating handwriting in English and French, but not in Arabic. The university, which is described as the world's first AI university, opened in 2020 after being announced in 2019.
+
+Wed, 17 Jan 2024 12:11:57 +0530
+### [Iraq, Syria and now Pakistan: How Iran is at the centre of escalating tensions in West Asia](https://www.firstpost.com/explainers/iraq-syria-and-now-pakistan-how-iran-is-at-the-centre-of-escalating-tensions-in-west-asia-13623222.html)
+
+Article found but Couldn't summarize 
+Iraq, Syria and now Pakistan: How Iran is at the centre of escalating tensions in West Asia
+
+Wed, 17 Jan 2024 11:25:28 +0530
+### [Dogged by Controversy: Why Portuguese pooch Bobi lost the title of 'world's oldest dog'](https://www.firstpost.com/explainers/dogged-by-controversy-why-portuguese-pooch-bobi-lost-the-title-of-worlds-oldest-dog-13622312.html)
+
+Article found but Couldn't summarize 
+Dogged by Controversy: Why Portuguese pooch Bobi lost the title of 'world's oldest dog'
+
+Wed, 17 Jan 2024 10:59:58 +0530
+### [How security is being beefed up in Ayodhya ahead of Ram Mandir event](https://www.firstpost.com/explainers/how-security-is-being-beefed-up-in-ayodhya-ahead-of-ram-mandir-event-13622742.html)
+
+Article found but Couldn't summarize 
+How security is being beefed up in Ayodhya ahead of Ram Mandir event
+
+Wed, 17 Jan 2024 10:14:46 +0530
+### [What is the Jagannath Temple Project to be inaugurated before Ram Mandir event?](https://www.firstpost.com/explainers/what-is-odishas-jagannath-temple-project-to-be-inaugurated-before-ram-mandir-event-13622492.html)
+
+The Jagannath Heritage Corridor Project, also known as the Shreemandira Parikrama Project, is a 75-meter-long corridor surrounding the Jagannath temple complex in Puri, Odisha. The project aims to provide security to the temple, enhance the visual appeal, and offer facilities to visitors. It has faced challenges such as land acquisition and opposition from various parties. The inauguration of the project is happening today, with representatives from religious institutions attending. The project holds significance in the political landscape of Odisha, with some viewing it as a counter to the BJP's Hindutva push.
+
+Wed, 17 Jan 2024 08:51:06 +0530
+### [In Graphics | Why 2024 could be democracy’s biggest test](https://www.firstpost.com/explainers/in-graphics-why-2024-could-be-democracys-biggest-test-13620402.html)
+
+Article found but Couldn't summarize 
+In Graphics | Why 2024 could be democracy’s biggest test
+
 Tue, 16 Jan 2024 21:15:42 +0530
 ### [The US grew nearly twice the size of Spain. Here's how](https://www.firstpost.com/explainers/the-us-grew-nearly-twice-the-size-of-spain-heres-how-13621792.html)
 

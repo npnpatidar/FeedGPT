@@ -1,3 +1,15 @@
+Thu, 18 Jan 2024 00:20:00 +0530
+### [Regional turmoil: On the West Asia situation](https://www.thehindu.com/opinion/editorial/regional-turmoil-on-the-west-asia-situation/article67748615.ece)
+
+Article found but Couldn't summarize 
+West Asia needs a new security equilibrium with the Palestine issue at the centre
+
+Thu, 18 Jan 2024 00:20:00 +0530
+### [Early lead: on Donald Trump’s big win in Iowa caucuses](https://www.thehindu.com/opinion/editorial/early-lead-on-donald-trumps-big-win-in-iowa-caucuses/article67748596.ece)
+
+Article found but Couldn't summarize 
+Trump seems the favourite to win the Republican nomination
+
 Wed, 17 Jan 2024 00:20:00 +0530
 ### [Historic hearing: On the preliminary hearing at the Hague on Israel](https://www.thehindu.com/opinion/editorial/historic-hearing-on-the-preliminary-hearing-at-the-hague-on-israel/article67744871.ece)
 

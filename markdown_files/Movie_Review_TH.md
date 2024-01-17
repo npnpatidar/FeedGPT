@@ -1,3 +1,15 @@
+Wed, 17 Jan 2024 12:11:33 +0530
+### [‘Ted’ series review: Seth MacFarlane’s prequel about the foul-mouthed teddy bear is a charming throwback](https://www.thehindu.com/entertainment/movies/ted-series-review-seth-macfarlanes-prequel-about-the-foul-mouthed-teddy-bear-is-a-charming-throwback/article67747517.ece)
+
+Article found but Couldn't summarize 
+With gentle laughs and all that delightful ‘90s nostalgia, ‘Ted’ is a heartwarming and fun look at uncomfortable facts of life
+
+Wed, 17 Jan 2024 11:13:02 +0530
+### [‘Avatar: Frontiers of Pandora’ game review: A striking blend of action and visual splendour](https://www.thehindu.com/entertainment/reviews/avatar-frontiers-of-pandora-game-review/article67744024.ece)
+
+Article found but Couldn't summarize 
+Ubisoft’s latest Avatar game excels visually, immersing players in the lush Na’vi world. While the story has flaws, gameplay thrives with battles and exploration
+
 Mon, 15 Jan 2024 16:20:17 +0530
 ### [‘Echo’ series review: Marvel returns to its roots with this decent, low-stakes addition](https://www.thehindu.com/entertainment/movies/echo-series-review-marvel-returns-to-its-roots-with-this-decent-low-stakes-addition/article67742881.ece)
 

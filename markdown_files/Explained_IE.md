@@ -1,3 +1,33 @@
+Wed, 17 Jan 2024 13:15:57 +0000
+### [Expert Explains | China’s ties with Maldives: History, changing dynamics in the present](https://indianexpress.com/article/explained/explained-global/maldives-china-history-present-ties-9113991/)
+
+The article discusses the historical and contemporary relations between China and the Maldives, as well as the implications for India and the United States. It highlights China's growing economic and diplomatic ties with the Maldives, including the country's participation in the Belt and Road Initiative. The article also mentions the Maldivian president's visit to China and the perceived shift in foreign policy towards strengthening cooperation with China. It notes India's concerns about China's increasing influence in the region and the United States' growing engagement with the Maldives due to its strategic location in the Indian Ocean.
+
+Wed, 17 Jan 2024 09:14:13 +0000
+### [What led to Sensex and Nifty falling over 1.7%?](https://indianexpress.com/article/explained/explained-economics/sensex-nifty-fall-9113307/)
+
+Article found but Couldn't summarize
+
+Wed, 17 Jan 2024 08:09:11 +0000
+### [Who are the Jaish al-Adl terrorist group, whose bases Iran has destroyed in Pakistan?](https://indianexpress.com/article/explained/explained-global/jaish-al-adl-bases-iran-destroyed-pakistan-9113093/)
+
+Article found but Couldn't summarize
+
+Wed, 17 Jan 2024 05:01:28 +0000
+### [ExplainSpeaking: 3 main concerns global investors have about Indian economy](https://indianexpress.com/article/explained/explained-economics/global-investors-concerns-indian-economy-9112774/)
+
+Article found but Couldn't summarize
+
+Wed, 17 Jan 2024 04:51:16 +0000
+### [Expert Explains: Did we know 2023 was going to be the warmest year? Why climate warnings need to improve](https://indianexpress.com/article/explained/explained-climate/2023-warmest-year-why-climate-warnings-need-to-improve-9112389/)
+
+The year 2023 was the warmest on record, with each day being more than 1℃ above average. The future is uncertain, and the information provided by the climate community is not actionable at local levels. The warming trend is expected to continue in 2024, but the location and intensity of climate-related events may vary. Factors like reduced sulphate aerosols, volcanic eruptions, and wildfires likely contributed to the record warming. El Niño is forecasted to dissipate, and a La Niña may emerge in 2024, which could absorb heat from the atmosphere. It is challenging to predict the impact of global warming on the Cold Tongue region. Early warnings are crucial for crisis management, especially for food, water, energy, and transportation. Location-specific outlooks are necessary to plan for events like erratic monsoons, heatwaves, and fog episodes.
+
+Wed, 17 Jan 2024 01:37:49 +0000
+### [What is ‘prior approval’, and why is it needed before investigating public officials accused of corruption?](https://indianexpress.com/article/explained/explained-law/what-is-prior-approval-and-why-is-it-needed-before-investigating-public-officials-accused-of-corruption-9112409/)
+
+Article found but Couldn't summarize
+
 Tue, 16 Jan 2024 14:01:18 +0000
 ### [A passenger attacked a pilot. How are airlines expected to respond?](https://indianexpress.com/article/explained/passenger-attacked-pilot-indigo-airlines-response-9112072/)
 

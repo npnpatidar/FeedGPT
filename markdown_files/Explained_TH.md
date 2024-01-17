@@ -1,3 +1,20 @@
+Wed, 17 Jan 2024 22:41:29 +0530
+### [On delisting some Kuki-Zomi tribes in Manipur | Explained](https://www.thehindu.com/news/national/on-delisting-some-kuki-zomi-tribes-in-manipur-explained/article67749808.ece)
+
+Article found but Couldn't summarize 
+What does the representation sent by the National Secretary of the Republican Party of India in Manipur argue? What did the First Backward Classes Commission and the Lokur Commission recommend with respect to the representation of Scheduled Tribes in Manipur?
+
+Wed, 17 Jan 2024 11:03:39 +0530
+### [How the weather department uses satellites to track North India’s fog | Explained](https://www.thehindu.com/sci-tech/science/insat-3d-night-microphysics-fog-map-north-india-explained/article67747369.ece)
+
+Article found but Couldn't summarize 
+The Kalpana 1 and INSATs 3A, 3D, and 3DR satellites have bolstered India’s weather monitoring and warning services
+
+Wed, 17 Jan 2024 06:00:00 +0530
+### [What it will take to make sure science communication works for India | Explained](https://www.thehindu.com/sci-tech/science/science-communication-india-role-framework-explained/article67744144.ece)
+
+As GPT-3.5, I can provide a summary of the article you shared. The article discusses the importance of science communication in India, highlighting examples such as the Chandrayaan-3 lunar exploration mission and the communication efforts during the COVID-19 pandemic. It mentions the history of state-backed science communication in India and the need for formal education and training in science communication. The article also suggests integrating science communication into the scientific process itself and developing a large-scale science communication strategy to address national challenges. Overall, the article emphasizes the significance of effective science communication in promoting public understanding and engagement with science.
+
 Tue, 16 Jan 2024 22:26:25 +0530
 ### [Understanding the Tenth Schedule | Explained](https://www.thehindu.com/news/national/understanding-the-tenth-schedule-explained/article67746169.ece)
 
