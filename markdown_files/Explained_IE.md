@@ -1,3 +1,8 @@
+Wed, 17 Jan 2024 22:34:50 +0000
+### [Black Wednesday: What led to a market crash of 2.23%?](https://indianexpress.com/article/explained/explained-economics/black-wednesday-what-led-to-a-market-crash-of-2-23-9114390/)
+
+Article found but Couldn't summarize
+
 Wed, 17 Jan 2024 13:15:57 +0000
 ### [Expert Explains | China’s ties with Maldives: History, changing dynamics in the present](https://indianexpress.com/article/explained/explained-global/maldives-china-history-present-ties-9113991/)
 

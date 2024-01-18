@@ -4,6 +4,11 @@ Wed, 17 Jan 2024 21:17:45 +0530
 Article found but Couldn't summarize 
 Why Germans are protesting against a political party and comparing it to Nazis
 
+Wed, 17 Jan 2024 20:14:59 +0530
+### [FirstUp: Arvind Kejriwal summoned by ED, Chandigarh mayoral polls… The big news today](https://www.firstpost.com/explainers/firstup-arvind-kejriwal-summoned-by-ed-chandigarh-mayoral-polls-the-big-news-today-13626082.html)
+
+Delhi Chief Minister Arvind Kejriwal has been summoned by the Enforcement Directorate (ED) for the fourth time in the liquor policy case. The idol of Ram Lalla will be placed in the sanctum sanctorum today in Ayodhya. The mayoral polls are being held in Chandigarh today, with the AAP-Congress alliance expected to have an advantage. Kejriwal will also be visiting Goa for a three-day trip. Indian cricketer MS Dhoni is facing a defamation suit filed by his ex-business partners. Water supply in several areas of Delhi will be affected due to maintenance work at the Sonia Vihar Water Treatment Plant.
+
 Wed, 17 Jan 2024 19:06:35 +0530
 ### [How Houthi attacks in Red Sea are affecting India’s exports](https://www.firstpost.com/explainers/how-houthi-attacks-in-red-sea-are-affecting-indias-exports-13626002.html)
 
