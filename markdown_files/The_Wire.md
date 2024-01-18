@@ -1,3 +1,147 @@
+2024-01-18T22:40:31+05:30
+### [Indian Navy Rescues Crew of US-Owned Vessel After Houthi Attack in Gulf of Aden](https://thewire.in/world/indian-navy-rescues-crew-of-us-owned-vessel-after-houthi-attack-in-gulf-of-aden)
+
+No Article text 
+The drone strike on the US-owned vessel Genco Picardy is the second such attack in recent days. It follows US-led strikes against the Houthis in response to their targeting of merchant ships in the Red Sea.
+
+2024-01-18T22:25:22+05:30
+### [Fact Check: Ram Mandir Is Being Built at the Same Site Where Babri Masjid Once Stood, Not 3 Km Away](https://thewire.in/politics/fact-check-ram-mandir-is-being-built-at-the-same-site-where-babri-masjid-once-stood-not-3-km-away)
+
+No Article text 
+Several social media users, including Shiv Sena leader Sanjay Raut, have falsely claimed that the Ram Mandir is being built 3 kilometres away from the site of the now-demolished Babri Masjid.
+
+2024-01-18T20:51:30+05:30
+### ['Disappointed That 'Ram Ke Naam' is Still Relevant': Anand Patwardhan on Janmabhoomi Politics](https://thewire.in/video/ram-ke-naam-movie-anand-patwardhan-on-janmabhoomi-politics)
+
+No Article text 
+In his 1992 film 'Ram Ke Naam', Patwardhan meticulously traces the Ram Janmabhoomi movement of the 1990s and its culmination in the demolition of the Babri Masjid.
+
+2024-01-18T20:27:30+05:30
+### [In Photos: A Gallery Dedicated to Prime Minister Narendra Modi at the Pradhan Mantri Museum](https://thewire.in/politics/in-photos-a-gallery-dedicated-to-prime-minister-narendra-modi-at-the-pradhan-mantri-museum)
+
+No Article text 
+Several galleries dedicated to former prime ministers exist in the new building.  However, Jawaharlal Nehru's contributions towards the nation's progress can only be seen in the old building.
+
+2024-01-18T20:00:02+05:30
+### [Gaza War Offers the Ultimate Marketing Tool for Israeli Arms Companies](https://thewire.in/world/gaza-war-offers-the-ultimate-marketing-tool-for-israeli-arms-companies)
+
+No Article text 
+As investors worldwide drop cash on Israeli start-ups for 'battle-tested' weapons, defence tech CEOs are poised to be the war’s only victors.
+
+2024-01-18T19:52:58+05:30
+### ['Not in Agreement' With Ram Temple Built After Mosque Demolition: DMK's Udhayanidhi Stalin](https://thewire.in/politics/not-in-agreement-with-ram-temple-construction-after-demolishing-a-mosque-dmks-udhayanidhi-stalin)
+
+No Article text 
+'We don’t have a problem with a temple coming up there. We are not in agreement with the construction of a temple after demolishing a mosque,' the DMK leader said.
+
+2024-01-18T18:47:59+05:30
+### [Shankaracharya Raises Concerns Over New Ram Lalla Idol Placement and Unfinished Temple Construction](https://thewire.in/religion/shankaracharya-raises-concerns-over-new-ram-lalla-idol-placement-and-unfinished-temple-construction)
+
+No Article text 
+'The question is, if this new idol will be placed, what happens to Ram Lalla virajman?' Swami Avimukteshwaranand Saraswati said in a letter to Nritya Gopal Das, head of Ayodhya's largest temple.
+
+2024-01-18T17:24:46+05:30
+### [Big Media Does Its Best To Boost the BJP, But the Political Landscape is No Longer One-Sided](https://thewire.in/politics/political-landscape-no-longer-one-sided)
+
+No Article text 
+If anything, differences within the BJP camp appear more searing than differences on seat-sharing within the INDIA coalition.
+
+2024-01-18T16:52:13+05:30
+### [Faces of the Bharat Jodo Nyay Yatra: Lawyer From Mumbai, 90-Year-Old From MP](https://thewire.in/politics/faces-of-the-bharat-jodo-nyay-yatra-lawyer-from-mumbai-90-year-old-from-mp)
+
+No Article text 
+Rahul Gandhi’s east to west Bharat Jodo Nyay Yatra, the largest mass outreach programme ahead of the 2024 Lok Sabha elections, will cover 6,700 km from Manipur to Maharashtra.
+
+2024-01-18T16:42:46+05:30
+### [Rising Concerns About India's Judiciary](https://thewire.in/law/rising-concerns-about-indias-judiciary)
+
+No Article text 
+The immediate cause of concern arises from the recent public utterances by two of the seniormost members of the highest judiciary in the land.
+
+2024-01-18T16:35:29+05:30
+### [Pakistan Carries out Airstrikes in Iran; Nine People Reportedly Killed](https://thewire.in/world/pakistan-carries-out-airstrikes-on-targets-in-iran)
+
+No Article text 
+Iran has summoned Pakistan's charge d'affaires to protest the latest attack. On Tuesday, Iran said that it struck bases belonging to Jaish al-Adl, a Sunni militant group, in Pakistan.
+
+2024-01-18T15:40:10+05:30
+### [In Ram’s Name: A Half-Built Temple and a Poem](https://thewire.in/communalism/in-rams-name-a-half-built-temple-and-a-poem)
+
+No Article text 
+Salil Tripathi's poem 'My Children's Questions' captures the absurdity of building a temple on the ruins of a mosque and the collective delirium over the half-built structure's consecration.
+
+2024-01-18T15:17:53+05:30
+### [Watch | 'Will Not Tolerate Insult of Dharmacharyas, Champat Rai Must Apologise': Ayodhya Seer](https://thewire.in/religion/watch-will-not-tolerate-insult-of-dharmacharyas-champat-rai-must-apologise-ayodhya-seer)
+
+No Article text 
+In this special conversation on The Wire, author and journalist Valay Singh speaks to Achyut Ramanujacharya a young seer from the Ramanuji sect.
+
+2024-01-18T15:00:06+05:30
+### [Top Marketing Trends to Look Out for in 2024](https://thewire.in/business/top-marketing-trends-to-look-out-for-in-2024)
+
+No Article text 
+It is that time of the year when predictions are made for marketing in the new year in order to prioritise action plans.
+
+2024-01-18T14:28:39+05:30
+### [BJP's 'Asli Azaadi' Claim Over Ram Temple Undermines Freedom Struggle: CPI(M)'s Sitaram Yechury](https://thewire.in/politics/bjps-asli-azaadi-claim-over-ram-temple-undermines-freedom-struggle-cpims-sitaram-yechury)
+
+No Article text 
+The CPI(M) also labelled Mamata Banerjee's decision on her activities on January 22 as a case of 'competitive communalism.'
+
+2024-01-18T14:13:43+05:30
+### [Any Plans to Make Lakshadweep a Tourist Hub That Rivals the Maldives Could Prove Costly](https://thewire.in/environment/any-plans-to-make-lakshadweep-a-tourist-hub-that-rivals-the-maldives-could-prove-costly)
+
+No Article text 
+India cannot just open the floodgates to tourism. It must be scientifically paced. There is an obligation to protect the Islands' fragile ecology and limited assets. It's no shame to say we have insufficient space.
+
+2024-01-18T13:05:10+05:30
+### [At 163.5 Lakh Tonnes, Wheat Stocks Decline to Seven-Year Lowest in Government Godowns](https://thewire.in/agriculture/at-163-5-lakh-tonnes-wheat-stocks-decline-to-seven-year-lowest-in-government-godowns)
+
+No Article text 
+The current levels are, however, higher than the minimum buffer level of 138 lakh tonnes, required to cover three months of operational requirement of 108 lakh tonnes as well an additional 30 lakh tonnes required in case of any procurement shortfall.
+
+2024-01-18T12:34:38+05:30
+### [SC Refuses to Cancel Rally of BJP Leader Infamous for Hate Speech, Stoking Violence](https://thewire.in/communalism/sc-refuses-to-cancel-rally-of-bjp-leader-infamous-for-hate-speech-stoking-violence)
+
+No Article text 
+While the court declined to halt the rallies, it suggested the installation of CCTV cameras at the locations to identify perpetrators in case of any “untoward incidents”.
+
+2024-01-18T12:13:13+05:30
+### [Modi Tried to Surreptitiously Cut States' Share of Central Taxes in 2014: Report](https://thewire.in/government/modi-tried-to-surreptitiously-cut-states-share-of-central-taxes-in-2014-report)
+
+No Article text 
+The prime minister reportedly had to back off because the then head of the Finance Commission, Y.V. Reddy, resisted.
+
+2024-01-18T11:43:19+05:30
+### [Decoding the Indus Script: My Findings and What They Challenge](https://thewire.in/history/decoding-the-indus-script-my-findings-and-what-they-challenge)
+
+No Article text 
+Have I decoded the Indus script yet? Partly. Does it reveal all that it was touted to reveal? We shall find out.
+
+2024-01-18T11:40:12+05:30
+### [Rajasthan: Jats of Bharatpur, Dholpur Launch Stir Seeking OBC Quota at the Central Level](https://thewire.in/rights/rajasthan-jats-of-bharatpur-dholpur-launch-stir-seeking-obc-quota-at-the-central-level)
+
+No Article text 
+Hundreds of Jats began their protest on Wednesday at Jaicholi village in Bharatpur district and vowed to continue it indefinitely if their demands are not met by January 22.
+
+2024-01-18T10:15:09+05:30
+### [IIM Calcutta Removes Director Sahadeb Sarkar Over Sexual Harassment Complaint](https://thewire.in/education/iim-calcutta-removes-director-sahadeb-sarkar-over-sexual-harassment-complaint)
+
+No Article text 
+The next senior-most faculty member, professor Saibal Chattopadhyay, has been appointed as director-in-charge.
+
+2024-01-18T09:00:37+05:30
+### [NiTi Aayog ‘Poverty’ Stats: Serious Theoretical, Methodological, Empirical Questions](https://thewire.in/economy/niti-aayog-poverty-covid)
+
+No Article text 
+The debilitating impact of COVID on poverty is mischievously missing in NITI Aayog’s controversial MPI findings.
+
+2024-01-18T08:00:49+05:30
+### [Trump Breaks the Ice in Iowa Even as American Politics Remains Frozen in the Past](https://thewire.in/world/trump-breaks-the-ice-in-iowa)
+
+No Article text 
+Trump seems set to be the Republican candidate for a third successive presidential election, while Biden will be part of the Democratic ticket for the fourth time in five elections. America’s democracy seems to have lost the ability to renew itself.
+
 2024-01-18T00:16:43+05:30
 ### [We ‘Understand’ Actions Taken In ‘Self-Defence’: India Justifies Iran’s Missile Strike In Pakistan](https://thewire.in/world/india-seemingly-justifies-iran-missile-attack-in-pakistan)
 

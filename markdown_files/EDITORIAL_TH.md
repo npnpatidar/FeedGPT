@@ -1,3 +1,15 @@
+Fri, 19 Jan 2024 00:47:43 +0530
+### [Smaller citizens: On the gaps in India’s education system](https://www.thehindu.com/opinion/editorial/smaller-citizens-on-the-gaps-in-indias-education-system/article67752220.ece)
+
+Article found but Couldn't summarize 
+Despite rising enrolment, gaps in India’s education system are not closing quickly
+
+Fri, 19 Jan 2024 00:38:31 +0530
+### [Motivated litigation: On a Supreme Court stay in the Krishna Janmabhoomi-Shahi Idgah dispute case](https://www.thehindu.com/opinion/editorial/motivated-litigation-on-a-supreme-court-stay-in-the-krishna-janmabhoomi-shahi-idgah-dispute/article67752689.ece)
+
+Article found but Couldn't summarize 
+Courts should not allow suits that seek to convert places of worship
+
 Thu, 18 Jan 2024 00:20:00 +0530
 ### [Regional turmoil: On the West Asia situation](https://www.thehindu.com/opinion/editorial/regional-turmoil-on-the-west-asia-situation/article67748615.ece)
 

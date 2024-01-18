@@ -1,3 +1,87 @@
+Thu, 18 Jan 2024 20:48:51 +0530
+### [Vantage | Why Shell is ending its troubled relationship with Nigeria](https://www.firstpost.com/opinion/vantage-why-shell-is-ending-its-troubled-relationship-with-nigeria-13630662.html)
+
+Article found but Couldn't summarize 
+Vantage | Why Shell is ending its troubled relationship with Nigeria
+
+Thu, 18 Jan 2024 20:01:27 +0530
+### [From Ram Mandir to Ram Rajya: Convergence of never-ending faith and good governance](https://www.firstpost.com/opinion/from-ram-mandir-to-ram-rajya-convergence-of-never-ending-faith-and-good-governance-13630832.html)
+
+Article found but Couldn't summarize 
+From Ram Mandir to Ram Rajya: Convergence of never-ending faith and good governance
+
+Thu, 18 Jan 2024 19:51:33 +0530
+### [Vantage | You can force people to have fewer kids not more](https://www.firstpost.com/opinion/vantage-you-can-force-people-to-have-fewer-kids-not-more-13630312.html)
+
+Article found but Couldn't summarize 
+Vantage | You can force people to have fewer kids not more
+
+Thu, 18 Jan 2024 18:55:00 +0530
+### [Vantage | Why India needs to tell more about its successes on China border](https://www.firstpost.com/opinion/vantage-why-india-needs-to-tell-more-about-its-successes-on-china-border-13630522.html)
+
+Article found but Couldn't summarize 
+Vantage | Why India needs to tell more about its successes on China border
+
+Thu, 18 Jan 2024 18:34:33 +0530
+### [Internationalisation of Indian rupees is possible despite challenges](https://www.firstpost.com/opinion/internationalisation-of-indian-rupees-is-possible-despite-challenges-2-13630252.html)
+
+Article found but Couldn't summarize 
+Internationalisation of Indian rupees is possible despite challenges
+
+Thu, 18 Jan 2024 17:44:31 +0530
+### [Why an article on Diwali in January?](https://www.firstpost.com/opinion/why-an-article-on-diwali-in-january-13629902.html)
+
+Article found but Couldn't summarize 
+Why an article on Diwali in January?
+
+Thu, 18 Jan 2024 17:17:50 +0530
+### [Iranian surgical strikes prove Pakistan is officially a banana republic](https://www.firstpost.com/opinion/iranian-surgical-strikes-prove-pakistan-is-officially-a-banana-republic-13629072.html)
+
+Article found but Couldn't summarize 
+Iranian surgical strikes prove Pakistan is officially a banana republic
+
+Thu, 18 Jan 2024 17:03:38 +0530
+### [Vantage | Is Israel risking a new war in Lebanon?](https://www.firstpost.com/opinion/vantage-is-israel-risking-a-new-war-in-lebanon-13628992.html)
+
+Article found but Couldn't summarize 
+Vantage | Is Israel risking a new war in Lebanon?
+
+Thu, 18 Jan 2024 15:37:11 +0530
+### [Vantage | Why sibling rivalry is good for your children](https://www.firstpost.com/opinion/vantage-why-sibling-rivalry-is-good-for-your-children-13628682.html)
+
+Article found but Couldn't summarize 
+Vantage | Why sibling rivalry is good for your children
+
+Thu, 18 Jan 2024 14:49:12 +0530
+### [Vantage | Why Europe plans to send its own warships to Red Sea](https://www.firstpost.com/opinion/vantage-why-europe-plans-to-send-its-own-warships-to-red-sea-13628542.html)
+
+Article found but Couldn't summarize 
+Vantage | Why Europe plans to send its own warships to Red Sea
+
+Thu, 18 Jan 2024 13:19:49 +0530
+### [How Iran’s 'surgical strike' on Pakistan-based terror groups shows Tehran’s confidence](https://www.firstpost.com/opinion/how-irans-surgical-strike-on-pakistan-based-terror-groups-shows-tehrans-confidence-13627772.html)
+
+Article found but Couldn't summarize 
+How Iran’s 'surgical strike' on Pakistan-based terror groups shows Tehran’s confidence
+
+Thu, 18 Jan 2024 12:49:17 +0530
+### [Vantage | Why Iran's 'surgical strike' inside Pakistan is no surprise](https://www.firstpost.com/opinion/vantage-why-irans-surgical-strike-inside-pakistan-is-no-surprise-13627622.html)
+
+Article found but Couldn't summarize 
+Vantage | Why Iran's 'surgical strike' inside Pakistan is no surprise
+
+Thu, 18 Jan 2024 10:35:49 +0530
+### [Vantage | Two big issues that will show the way on India-Iran ties](https://www.firstpost.com/opinion/vantage-two-big-issues-that-will-show-the-way-on-india-iran-ties-13627252.html)
+
+Article found but Couldn't summarize 
+Vantage | Two big issues that will show the way on India-Iran ties
+
+Thu, 18 Jan 2024 07:58:02 +0530
+### [Vantage | How Turkiye is 'secretly' winning the race in Africa](https://www.firstpost.com/opinion/vantage-how-turkiye-is-secretly-winning-the-race-in-africa-13625932.html)
+
+Article found but Couldn't summarize 
+Vantage | How Turkiye is 'secretly' winning the race in Africa
+
 Wed, 17 Jan 2024 19:20:51 +0530
 ### [Hostile shift in Maldives’ relations with India](https://www.firstpost.com/opinion/hostile-shift-in-maldives-relations-with-india-13625982.html)
 

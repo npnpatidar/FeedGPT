@@ -1,3 +1,63 @@
+Thu, 18 Jan 2024 15:36:00 +0000
+### [Kashmiri Pandit exodus anniversary: It’s time for us to return](https://indianexpress.com/article/opinion/columns/kashmiri-pandit-anniversary-return-9116074/)
+
+Article found but Couldn't summarize
+
+Thu, 18 Jan 2024 12:32:03 +0000
+### [At daughter’s wedding, why down-to-earth Aamir Khan is the star](https://indianexpress.com/article/opinion/daughter-wedding-down-to-earth-aamir-khan-star-9115830/)
+
+Article found but Couldn't summarize
+
+Thu, 18 Jan 2024 12:30:36 +0000
+### [Viksit Bharat Sankalp Yatra is about fulfilling Modi Ki Guarantee](https://indianexpress.com/article/opinion/columns/viksit-bharat-sankalp-yatra-is-about-fulfilling-modi-ki-guarantee-9115787/)
+
+Article found but Couldn't summarize
+
+Thu, 18 Jan 2024 01:49:59 +0000
+### [Upendra Baxi writes: ICJ’s patchy history — why South Africa’s case against Israel may linger on](https://indianexpress.com/article/opinion/columns/upendra-baxi-writes-icjs-patchy-history-why-south-africas-case-against-israel-may-linger-on-9114356/)
+
+Article found but Couldn't summarize
+
+Thu, 18 Jan 2024 01:45:11 +0000
+### [Karnataka hijab ban row raises a question: Why is education not the priority for Muslim girls?](https://indianexpress.com/article/opinion/columns/karnataka-hijab-ban-row-raises-a-question-why-is-education-not-the-priority-for-muslim-girls-9114392/)
+
+Article found but Couldn't summarize
+
+Thu, 18 Jan 2024 01:37:48 +0000
+### [How smartphones can make education inclusive](https://indianexpress.com/article/opinion/columns/how-smartphones-can-make-education-inclusive-9114361/)
+
+Article found but Couldn't summarize
+
+Thu, 18 Jan 2024 01:37:37 +0000
+### [Ram temple and the new Independence day – freedom from colonial mindset for Bharat](https://indianexpress.com/article/opinion/columns/ram-temple-and-the-new-independence-day-freedom-from-colonial-mindset-for-bharat-9114387/)
+
+Article found but Couldn't summarize
+
+Thu, 18 Jan 2024 01:37:30 +0000
+### [Ram Mandir consecration: Will it get sacred status for Hindus or remain a political project?](https://indianexpress.com/article/opinion/columns/ram-mandir-consecration-will-it-get-sacred-status-for-hindus-or-remain-a-political-project-9114386/)
+
+Article found but Couldn't summarize
+
+Thu, 18 Jan 2024 01:25:51 +0000
+### [Express View on ASER report: Cues for reform](https://indianexpress.com/article/opinion/editorials/express-view-on-aser-report-cues-for-reform-9114362/)
+
+Article found but Couldn't summarize
+
+Thu, 18 Jan 2024 01:20:55 +0000
+### [Express View on export data: Trade ups and downs](https://indianexpress.com/article/opinion/editorials/express-view-on-export-data-trade-ups-and-downs-9114363/)
+
+Article found but Couldn't summarize
+
+Thu, 18 Jan 2024 01:15:59 +0000
+### [Express View on crossdressing for love: The lover’s test](https://indianexpress.com/article/opinion/editorials/express-view-on-crossdressing-for-love-the-lovers-test-9114364/)
+
+This article discusses the story of Angrez Singh, a man from Punjab's Fazilka, who impersonated his girlfriend to take a health workers exam on her behalf. Singh cross-dressed as his girlfriend, even obtaining fake identification cards, but was caught and handed over to the police. Despite the society's bias against cross-dressing and effeminate expressions in men, Singh has received overwhelming support and admiration on the internet for his loyalty to his girlfriend. While he may have failed to help her pass the exam, he has passed the test of love.
+
+Thu, 18 Jan 2024 01:00:09 +0000
+### [January 18, 1984, Forty Years Ago: Calcutta Violence](https://indianexpress.com/article/opinion/40-years-ago/january-18-1984-forty-years-ago-calcutta-violence-9114365/)
+
+Article found but Couldn't summarize
+
 Wed, 17 Jan 2024 08:07:38 +0000
 ### [Netflix ‘Annapoorani’ take-down: Why OTT platforms bent the knee to moral police](https://indianexpress.com/article/opinion/columns/netflix-annapoorani-take-down-moral-police-9113120/)
 

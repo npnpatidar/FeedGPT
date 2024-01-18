@@ -4003,3 +4003,16 @@ Started at 2024-01-18 00:38:01
 Finished at 2024-01-18 00:38:34
 Total time taken: 33.605979442596436 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-01-18 23:08:39
+8 Feed entries have been written to feeds/Explained_IE.xml
+14 Feed entries have been written to feeds/Explain_FP.xml
+2 Feed entries have been written to feeds/Explained_TH.xml
+12 Feed entries have been written to feeds/Opinion_IE.xml
+14 Feed entries have been written to feeds/Opinion_FP.xml
+12 Feed entries have been written to feeds/Opinion_Mint.xml
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+24 Feed entries have been written to feeds/The_Wire.xml
+88 new entries have been added
+Finished at 2024-01-18 23:11:22
+Total time taken: 163.12407875061035 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

@@ -1,3 +1,85 @@
+Thu, 18 Jan 2024 21:06:01 +0530
+### [In Graphics | China’s population policies throughout the years](https://www.firstpost.com/explainers/in-graphics-chinas-population-policies-throughout-the-years-13630982.html)
+
+Article found but Couldn't summarize 
+In Graphics | China’s population policies throughout the years
+
+Thu, 18 Jan 2024 20:00:24 +0530
+### [Why is PM Modi sleeping on floor and drinking only coconut water?](https://www.firstpost.com/explainers/ram-temple-opening-pm-narendra-modi-sleeping-on-floor-drinking-only-coconut-water-13630802.html)
+
+Article found but Couldn't summarize 
+Why is PM Modi sleeping on floor and drinking only coconut water?
+
+Thu, 18 Jan 2024 19:12:05 +0530
+### [Killer drones and rockets: How Pakistan military carried out strikes inside Iran](https://www.firstpost.com/explainers/killer-drones-and-rockets-how-pakistan-military-carried-out-strikes-inside-iran-13630412.html)
+
+Article found but Couldn't summarize 
+Killer drones and rockets: How Pakistan military carried out strikes inside Iran
+
+Thu, 18 Jan 2024 17:29:40 +0530
+### [Pakistan-Iran tensions: Where do India, the US, China stand?](https://www.firstpost.com/explainers/pakistan-iran-tensions-where-do-india-the-us-china-stand-13629202.html)
+
+Article found but Couldn't summarize 
+Pakistan-Iran tensions: Where do India, the US, China stand?
+
+Thu, 18 Jan 2024 16:54:02 +0530
+### [How Indian Navy warship rescued merchant vessel hit by drone in Gulf of Aden](https://www.firstpost.com/explainers/how-indian-navy-warship-rescued-merchant-vessel-hit-by-drone-in-gulf-of-aden-13628652.html)
+
+Article found but Couldn't summarize 
+How Indian Navy warship rescued merchant vessel hit by drone in Gulf of Aden
+
+Thu, 18 Jan 2024 16:48:55 +0530
+### [India cracking down on antibiotics overuse. Here’s why it matters](https://www.firstpost.com/explainers/india-cracking-down-on-antibiotics-overuse-heres-why-it-matters-13629132.html)
+
+Article found but Couldn't summarize 
+India cracking down on antibiotics overuse. Here’s why it matters
+
+Thu, 18 Jan 2024 16:28:37 +0530
+### [Pakistan strikes back at Iran: Who has the stronger military?](https://www.firstpost.com/explainers/pakistan-strikes-back-against-iran-who-has-the-stronger-military-13628032.html)
+
+Article found but Couldn't summarize 
+Pakistan strikes back at Iran: Who has the stronger military?
+
+Thu, 18 Jan 2024 16:26:02 +0530
+### [Gen Z teens are covering their nose in family photos. Here’s why](https://www.firstpost.com/explainers/gen-z-teens-are-covering-their-nose-in-family-photos-heres-why-13624762.html)
+
+Hmm, it seems you're asking about a trend called the 'nose cover' that is popular among Generation Z on social media. The trend involves covering the middle of their faces with their hands in photos. It allows camera-shy teens to keep their face out of the picture and avoid potential embarrassment or cyberbullying. Some parents have questioned the trend, while others understand the concerns of online bullying and support their children's decision to participate. It's an interesting phenomenon that has gained traction on platforms like Instagram, Facebook, and TikTok.
+
+Thu, 18 Jan 2024 14:26:21 +0530
+### [Singapore minister charged in rare graft case: Why city-state takes corruption seriously](https://www.firstpost.com/explainers/singapore-minister-charged-in-rare-graft-case-why-singapore-takes-corruption-so-seriously-13628472.html)
+
+Article found but Couldn't summarize 
+Singapore minister charged in rare graft case: Why city-state takes corruption seriously
+
+Thu, 18 Jan 2024 14:08:06 +0530
+### [Which country has the most gold reserves? What’s India’s rank?](https://www.firstpost.com/explainers/which-country-has-the-most-gold-reserves-whats-indias-rank-13628192.html)
+
+As GPT-3.5, I can provide you with a summary of the article you shared. The World Gold Council (WGC) released estimates of gold reserves held by countries as of the third quarter of 2023. The United States has the largest gold reserves, followed by Germany, Italy, and France. India stands at the ninth rank with 800.78 tonnes of gold in its official reserves. The Reserve Bank of India has been increasing its gold holdings since 2017. Gold serves as a safe-haven asset and a hedge against inflation for central banks. It helps diversify their total reserves and can increase a country's creditworthiness. Gold's value typically rises during economic turmoil or geopolitical tensions.
+
+Thu, 18 Jan 2024 13:52:19 +0530
+### [Who are the Baloch separatists that Pakistan targeted in Iran?](https://www.firstpost.com/explainers/pakistan-iran-who-are-the-baloch-separatists-that-pakistan-targeted-in-iran-marg-bar-sarmachar-13628152.html)
+
+Article found but Couldn't summarize 
+Who are the Baloch separatists that Pakistan targeted in Iran?
+
+Thu, 18 Jan 2024 11:51:56 +0530
+### [Why hundreds of Indian students are protesting at a Canada university in freezing temperatures](https://www.firstpost.com/explainers/why-hundreds-of-indian-students-are-protesting-at-a-canada-university-in-freezing-temperatures-13626952.html)
+
+Article found but Couldn't summarize 
+Why hundreds of Indian students are protesting at a Canada university in freezing temperatures
+
+Thu, 18 Jan 2024 10:35:23 +0530
+### [Iran’s airstrikes in Pakistan: Where does India stand and why?](https://www.firstpost.com/explainers/irans-airstrikes-in-pakistan-where-does-india-stand-and-why-13627142.html)
+
+Article found but Couldn't summarize 
+Iran’s airstrikes in Pakistan: Where does India stand and why?
+
+Thu, 18 Jan 2024 10:05:21 +0530
+### [How harsh winter weather has halted travel across Europe](https://www.firstpost.com/explainers/how-harsh-winter-weather-has-halted-travel-across-europe-13627072.html)
+
+Article found but Couldn't summarize 
+How harsh winter weather has halted travel across Europe
+
 Wed, 17 Jan 2024 21:17:45 +0530
 ### [Why Germans are protesting against a political party and comparing it to Nazis](https://www.firstpost.com/explainers/why-germans-are-protesting-against-a-political-party-and-comparing-it-to-nazis-13626412.html)
 

@@ -1,3 +1,75 @@
+Fri, 19 Jan 2024 02:33:40 +0530
+### [We must focus on public transportation to improve productivity](https://www.livemint.com/opinion/online-views/we-must-focus-on-public-transportation-to-improve-productivity-11705595773530.html)
+
+Article found but Couldn't summarize 
+Smooth public transportation has various social and economic benefits. We need to disincentivize private vehicles by levying more taxes on their use and ending their hidden subsidies.
+
+Fri, 19 Jan 2024 02:27:02 +0530
+### [The world confronts four major economic challenges right now](https://www.livemint.com/opinion/online-views/the-world-confronts-four-major-economic-challenges-right-now-11705595841028.html)
+
+Article found but Couldn't summarize 
+We face a climate transition, good-jobs problem, an economic-development crisis and the search for a better form of globalization. Conventional economics needn’t be dumped but economists must apply their tools to the objectives and constraints of the day.
+
+Fri, 19 Jan 2024 02:22:44 +0530
+### [Beware: OpenAI is going after the global engagement-economy](https://www.livemint.com/opinion/online-views/beware-openai-is-going-after-the-global-engagementeconomy-11705595905813.html)
+
+Article found but Couldn't summarize 
+Bots based on its AI model will make money by engaging people. But business models that grab and rivet eyeballs have already had adverse effects.
+
+Fri, 19 Jan 2024 02:18:09 +0530
+### [Tee-off or not to tee-off: The dilemma of Delhi’s smog](https://www.livemint.com/opinion/online-views/teeoff-or-not-to-tee-off-the-dilemma-of-delhi-s-smog-11705596229425.html)
+
+Article found but Couldn't summarize 
+Visibility is so low that caddies run ahead and call from the next golf hole on their phones to say players ahead have moved on. At the other end of the city’s spectrum are people who install air purifiers and then monitor their indoor air quality as if their lives depend on it.
+
+Thu, 18 Jan 2024 22:20:39 +0530
+### [Davos 2024: It is AI everywhere](https://www.livemint.com/opinion/first-person/davos-2024-it-is-ai-everywhere-11705595385664.html)
+
+Article found but Couldn't summarize 
+Artificial intelligence in fact is the flavour of WEF – there is no conversation that does not feature it in some way or the other and everybody is an AI expert.
+
+Thu, 18 Jan 2024 21:25:51 +0530
+### [When signals in space get a response](https://www.livemint.com/opinion/columns/when-signals-in-space-get-a-response-11705592842306.html)
+
+Article found but Couldn't summarize 
+Spacecraft such as Voyager, Pioneer, and New Horizons, launched decades ago to explore outer space, are now in interstellar space, and Pioneer 10 will have the earliest chance of encountering a star in 2029.
+
+Thu, 18 Jan 2024 15:00:08 +0530
+### [Regardless of jumpy market reactions, HDFC Bank remains compelling for investors](https://www.livemint.com/opinion/regardless-of-jumpy-market-reactions-hdfc-bank-remains-compelling-for-investors-11705569466319.html)
+
+Article found but Couldn't summarize 
+The huge valuation premium HDFC Bank had enjoyed for long has moderated. But patient investors with a long-term view and staying power could perhaps reap rewards
+
+Thu, 18 Jan 2024 14:00:07 +0530
+### [Should you move your fixed deposit money into stocks?](https://www.livemint.com/opinion/should-you-move-your-fixed-deposit-money-into-stocks-11705564392635.html)
+
+Article found but Couldn't summarize 
+Many individuals fail to generate wealth because of poor investment choices. Or they make the right choices but allocate poorly. Here’s looking at making the right decisions on FD and stock allocations
+
+Thu, 18 Jan 2024 12:19:51 +0530
+### [HCL Tech is being overcautious; will likely deliver positive surprises going ahead](https://www.livemint.com/opinion/online-views/hcl-tech-is-being-overcautious-will-likely-deliver-positive-surprises-going-ahead-11705558022858.html)
+
+Article found but Couldn't summarize 
+This cautious stance might be due to macroeconomic factors, but signs of a global economic revival, such as the recent strong US growth, could mean better prospects for IT services
+
+Thu, 18 Jan 2024 08:00:09 +0530
+### [Vivek Ramaswamy’s best shot at power is as Trump’s campaign partner](https://www.livemint.com/opinion/online-views/vivek-ramaswamy-s-best-shot-at-power-is-as-trump-s-campaign-partner-11705508835333.html)
+
+Article found but Couldn't summarize 
+His outlandish tactics may have led him out of the US presidential race more than racial rejection.
+
+Thu, 18 Jan 2024 08:00:09 +0530
+### [Chinese shudders: Fewer people is bad news](https://www.livemint.com/opinion/quick-edit/chinese-shudders-fewer-people-is-bad-news-11705502530000.html)
+
+Article found but Couldn't summarize 
+Another covid year has meant another headcount decline. China is faced with an adverse demographic turn in any case, even as its economic rejig remain a question mark.
+
+Thu, 18 Jan 2024 08:00:09 +0530
+### [Davos is little more than a global talk show](https://www.livemint.com/opinion/online-views/davos-is-little-more-than-a-global-talk-show-11705508754334.html)
+
+Article found but Couldn't summarize 
+The World Economic Forum’s annual gathering has been losing both weight and appeal in a sharply divided world. Today, its lofty aims represent the triumph of hope over experience.
+
 Wed, 17 Jan 2024 23:32:49 +0530
 ### [Multidimensional poverty data reopens a great debate](https://www.livemint.com/opinion/online-views/multidimensional-poverty-data-reopens-a-great-debate-11705508888981.html)
 

@@ -1,3 +1,43 @@
+Thu, 18 Jan 2024 16:04:04 +0000
+### [Iran-Pakistan strikes: 5 reasons why India’s stakes deepen in the new Great Game](https://indianexpress.com/article/explained/explained-global/iran-pakistan-strikes-why-indias-stakes-deepen-9116100/)
+
+As GPT-3.5, I can provide a summary of the article you shared. The article discusses the recent missile strikes between Iran and Pakistan, as well as the attacks on Indian shipping in the Red Sea, highlighting the interconnected insecurities of the Subcontinent and the Gulf. It mentions five key trends in security interdependence that have emerged. These include the fragility of Pakistan's western borderlands, regional power politics involving dissident groups, Balochistan's geopolitical significance in the Gulf, Afghanistan's potential involvement in the Gulf, and India's growing economic and security stakes in the Middle East. The article suggests that these developments will require India to reassess its assumptions about security in the region.
+
+Thu, 18 Jan 2024 15:37:31 +0000
+### [Markets crash: Causes, what retail investors should do](https://indianexpress.com/article/explained/explained-economics/markets-crash-causes-what-retail-investors-should-do-9116077/)
+
+The stock market in 2023 showed resilience, with benchmark indices Sensex and Nifty gaining around 20%. This was driven by strong macroeconomic fundamentals, improved corporate sector performance, the expectation of rate cuts by the US Federal Reserve in 2024, and higher inflows from foreign portfolio investors. However, the rally did not last long, as domestic equity indices plummeted in January due to factors such as fears of rate cut delay by the Fed, weaker quarterly results from HDFC Bank, a rise in US bond yields, profit booking, and foreign portfolio investor outflows. Experts suggest that short-term volatility should not worry retail investors. It is important for investors to have a long-term vision and not try to time the market.
+
+Thu, 18 Jan 2024 14:51:43 +0000
+### [Why big animals got smaller, even before climate change](https://indianexpress.com/article/explained/explained-climate/why-big-animals-got-smaller-even-before-climate-change-9116023/)
+
+Article found but Couldn't summarize
+
+Thu, 18 Jan 2024 14:24:37 +0000
+### [China’s population fell for the second year in a row in 2023. But why?](https://indianexpress.com/article/explained/explained-global/china-population-fall-explained-reasons-significance-9115917/)
+
+Article found but Couldn't summarize
+
+Thu, 18 Jan 2024 14:20:47 +0000
+### [What is Boeing’s India Engineering and Technology Center, which PM Modi will inaugurate in Bengaluru?](https://indianexpress.com/article/explained/pm-modi-boeing-bietc-bengaluru-9115940/)
+
+Article found but Couldn't summarize
+
+Thu, 18 Jan 2024 13:59:53 +0000
+### [Somnath: A brief history of the temple, and why Nehru opposed the President inaugurating it](https://indianexpress.com/article/explained/explained-history/somnath-history-nehru-opposed-rajendra-prasad-9115946/)
+
+Article found but Couldn't summarize
+
+Thu, 18 Jan 2024 01:37:35 +0000
+### [Abhijit Banerjee and Esther Duflo interview: ‘India’s policy frame is not focused on inequality’](https://indianexpress.com/article/explained/abhijit-banerjee-and-esther-duflo-interview-indias-policy-frame-is-not-focused-on-inequality-9114522/)
+
+Article found but Couldn't summarize
+
+Thu, 18 Jan 2024 01:30:27 +0000
+### [Expert Explains: ASER’s 2023 survey results show gaps in learning; tech access is an avenue beyond schools](https://indianexpress.com/article/explained/expert-explains-gaps-in-learning-persist-but-access-to-tech-offers-avenues-beyond-physical-school-9114524/)
+
+Article found but Couldn't summarize
+
 Wed, 17 Jan 2024 22:34:50 +0000
 ### [Black Wednesday: What led to a market crash of 2.23%?](https://indianexpress.com/article/explained/explained-economics/black-wednesday-what-led-to-a-market-crash-of-2-23-9114390/)
 
