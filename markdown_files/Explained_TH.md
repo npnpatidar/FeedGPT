@@ -1,3 +1,9 @@
+Fri, 19 Jan 2024 10:30:00 +0530
+### [The fungi that can freeze water better than bacteria | Explained](https://www.thehindu.com/sci-tech/science/fusarium-acuminatum-biological-ice-nucleation-study/article67751963.ece)
+
+Article found but Couldn't summarize 
+Pure water struggles to freeze, posing dangers to species adapted to living in cold environs – but life has found a way
+
 Thu, 18 Jan 2024 17:33:27 +0530
 ### [Sheikh Hasina’s re-election and the growth of India-Bangladesh relations | Explained](https://www.thehindu.com/news/national/sheikh-hasina-election-india-bangladesh-modi-victory-explain-bilateral-new-delhi-dhaka/article67738278.ece)
 

@@ -1,3 +1,33 @@
+Fri, 19 Jan 2024 14:28:19 +0530
+### [Will Zee’s Goenka go along with Sony, or simply go away?](https://www.livemint.com/opinion/will-zee-s-goenka-go-along-with-sony-or-simply-go-away-11705653641554.html)
+
+Article found but Couldn't summarize 
+Any resolution in the Zee-Sony merger drama would hinge on which party will blink first
+
+Fri, 19 Jan 2024 11:04:21 +0530
+### [India needs a new passenger-handling manual for hopelessly delayed  flights](https://www.livemint.com/opinion/india-needs-a-new-passenger-handling-manual-for-hopelessly-delayed-flights-11705641901592.html)
+
+Article found but Couldn't summarize 
+If the Met department could forecast the onset of fog and the lifting of fog better, airlines could tailor their schedules around that. Planes too need to be equipped with technology to fly in poor visibility.
+
+Fri, 19 Jan 2024 08:00:12 +0530
+### [ASER math gap: Can AI make up?](https://www.livemint.com/opinion/quick-edit/aser-math-gap-can-ai-make-up-11705595433181.html)
+
+Article found but Couldn't summarize 
+That more than half of rural India’s 14-18-year-olds can’t do a three-digit arithmetic division raises the worry of an underskilled youth bulge. AI may help with basic math, but it won't help develop reasoning as a skill.
+
+Fri, 19 Jan 2024 08:00:12 +0530
+### [AI could herald a new digital era as apps give way to voice agents](https://www.livemint.com/opinion/columns/ai-could-herald-a-new-digital-era-as-apps-give-way-to-voice-agents-11705595726893.html)
+
+Article found but Couldn't summarize 
+AI assistants acting on verbal commands can transform our lives just as apps on digital devices did. Early AI agents could fail but the concept has much going for it.
+
+Fri, 19 Jan 2024 08:00:12 +0530
+### [Skiers might be staring at snowless slopes for years as the world warms](https://www.livemint.com/opinion/online-views/skiers-might-be-staring-at-snowless-slopes-for-years-as-the-world-warms-11705595662680.html)
+
+Article found but Couldn't summarize 
+A snow scarcity at Gulmarg and Auli has disappointed skiing buffs. Since global warming, unlike El Niño, isn’t about to reverse, this problem may persist. They’ll need innovative lures.
+
 Fri, 19 Jan 2024 02:33:40 +0530
 ### [We must focus on public transportation to improve productivity](https://www.livemint.com/opinion/online-views/we-must-focus-on-public-transportation-to-improve-productivity-11705595773530.html)
 

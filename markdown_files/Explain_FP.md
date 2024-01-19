@@ -1,3 +1,90 @@
+Fri, 19 Jan 2024 22:06:07 +0530
+### [How Ram Lalla idol was placed inside the sanctum sanctorum of grand temple in Ayodhya](https://www.firstpost.com/explainers/how-ram-lalla-idol-was-placed-inside-the-sanctum-sanctorum-of-grand-temple-in-ayodhya-13632082.html)
+
+Article found but Couldn't summarize 
+How Ram Lalla idol was placed inside the sanctum sanctorum of grand temple in Ayodhya
+
+Fri, 19 Jan 2024 19:59:49 +0530
+### [Rs 4000-crore palace, 700 cars and more: The fabulous life of the world's richest family](https://www.firstpost.com/explainers/rs-4000-crore-palace-700-cars-and-more-the-fabulous-life-of-the-worlds-richest-family-13634202.html)
+
+As GPT-3.5, I can provide a summary of the article you shared. The Al Nahyan royal family of Abu Dhabi is currently the richest family in the world, with a net worth of $305 billion. Led by UAE President Sheikh Mohamed bin Zayed Al Nahyan, the family enjoys an opulent lifestyle with assets including a presidential residence, private jets, a football club, and a collection of over 700 cars. Their wealth primarily comes from controlling nearly six percent of the world's oil reserves. They also have investments in businesses like SpaceX and Fenty beauty brand. The family's economic influence extends globally, and they have made significant contributions to the sports world through their ownership of Manchester City football team.
+
+Fri, 19 Jan 2024 19:22:35 +0530
+### [What are the new rules for coaching centres? Will it curb student suicides?](https://www.firstpost.com/explainers/what-are-the-new-rules-for-coaching-centres-will-it-curb-student-suicides-13634922.html)
+
+Article found but Couldn't summarize 
+What are the new rules for coaching centres? Will it curb student suicides?
+
+Fri, 19 Jan 2024 16:53:16 +0530
+### [Does cold weather make Teslas, other EVs go kaput?](https://www.firstpost.com/explainers/does-cold-weather-make-teslas-other-evs-go-kaput-13634552.html)
+
+In extreme cold weather, Electric Vehicles (EVs) can face challenges due to their batteries, which are made from Lithium Ion. These batteries tend to fare poorly in cold temperatures, causing a decrease in driving range. Additionally, the low-voltage battery in EVs can lose its charge in extremely cold weather, similar to vehicles with combustion engines. This can result in longer charging times and reduced power. The design of EVs, which increases battery temperatures in cold weather, also contributes to these issues. It is important for EV owners to precondition the battery before charging and keep the car plugged in to maintain a 20% charge. Parking indoors, using a car cover, checking tire air pressure, and driving with ECO-mode on can also help improve EV performance in cold weather.
+
+Fri, 19 Jan 2024 16:36:56 +0530
+### [Syphilis or rashes? Why red spots on Donald Trump’s hands have sparked wild speculations](https://www.firstpost.com/explainers/us-donald-trump-hands-red-spots-syphilis-rashes-13634282.html)
+
+Article found but Couldn't summarize 
+Syphilis or rashes? Why red spots on Donald Trump’s hands have sparked wild speculations
+
+Fri, 19 Jan 2024 15:48:41 +0530
+### [The story of Ram: What is the connection between Ayodhya and Thailand's Ayutthaya?](https://www.firstpost.com/explainers/the-story-of-ram-what-is-the-connection-between-between-ayodhya-and-thailands-ayutthaya-13633902.html)
+
+Article found but Couldn't summarize 
+The story of Ram: What is the connection between Ayodhya and Thailand's Ayutthaya?
+
+Fri, 19 Jan 2024 15:31:46 +0530
+### [Is North Korea’s Kim Jong Un planning a war against South Korea?](https://www.firstpost.com/explainers/is-north-koreas-kim-jong-un-planning-a-war-against-south-korea-13632982.html)
+
+Article found but Couldn't summarize 
+Is North Korea’s Kim Jong Un planning a war against South Korea?
+
+Fri, 19 Jan 2024 14:14:36 +0530
+### [Who is Rashid Al Haddad, the 'hot Houthi pirate' being compared to Timothée Chalamet?](https://www.firstpost.com/explainers/who-is-rashid-al-haddad-the-viral-yemeni-influencer-celebrating-houthi-raids-on-cargo-ships-13632632.html)
+
+Article found but Couldn't summarize 
+Who is Rashid Al Haddad, the 'hot Houthi pirate' being compared to Timothée Chalamet?
+
+Fri, 19 Jan 2024 14:13:50 +0530
+### [What could happen next between Iran, Pakistan? Should India be concerned?](https://www.firstpost.com/explainers/iran-pakistan-strikes-should-india-be-concerned-west-asia-conflict-13633082.html)
+
+Article found but Couldn't summarize 
+What could happen next between Iran, Pakistan? Should India be concerned?
+
+Fri, 19 Jan 2024 14:05:53 +0530
+### [100,000 children sexually harassed on Meta every day. Here’s what you need to know](https://www.firstpost.com/explainers/100000-children-sexually-harassed-on-meta-every-day-heres-what-you-need-to-know-13633402.html)
+
+Article found but Couldn't summarize 
+100,000 children sexually harassed on Meta every day. Here’s what you need to know
+
+Fri, 19 Jan 2024 13:09:24 +0530
+### [Let it snow: Why winters are becoming shorter and drier in Kashmir](https://www.firstpost.com/explainers/let-it-snow-why-winters-are-becoming-shorter-and-drier-in-kashmir-13632712.html)
+
+Article found but Couldn't summarize 
+Let it snow: Why winters are becoming shorter and drier in Kashmir
+
+Fri, 19 Jan 2024 12:17:13 +0530
+### [Are Myanmar militants behind attack on police commandos in Manipur?](https://www.firstpost.com/explainers/are-myanmar-militants-behind-attack-on-police-commandos-in-manipur-13632672.html)
+
+Article found but Couldn't summarize 
+Are Myanmar militants behind attack on police commandos in Manipur?
+
+Fri, 19 Jan 2024 11:24:18 +0530
+### [What is BIETC, Boeing's largest facility outside the US in Bengaluru?](https://www.firstpost.com/explainers/what-is-bietc-boeings-largest-facility-outside-the-us-in-bengaluru-13631792.html)
+
+The new Boeing India Engineering and Technology Centre (BIETC) campus in Bengaluru is set to be inaugurated by Prime Minister Narendra Modi. This state-of-the-art facility, built at a cost of ₹1,600 crore, will serve as a cornerstone for partnership with the startup, private, and government ecosystem in India. It will focus on developing next-generation products and services for the global aerospace and defense industry. Additionally, the campus will create new opportunities for women in STEM fields through the "Boeing Sukanya Programme," which aims to support their entry into the aviation sector. The facility will also collaborate with the Indian armed forces to support Aatmanirbhar Bharat and increase the demand for aircraft in the defense industry.
+
+Fri, 19 Jan 2024 10:46:04 +0530
+### [Iran vs Pakistan: Could the tensions escalate into a full-blown conflict?](https://www.firstpost.com/explainers/iran-vs-pakistan-could-the-tensions-escalate-into-a-full-blown-conflict-13632352.html)
+
+Article found but Couldn't summarize 
+Iran vs Pakistan: Could the tensions escalate into a full-blown conflict?
+
+Fri, 19 Jan 2024 10:00:24 +0530
+### [Why new drug for kids with cancer is raising hope](https://www.firstpost.com/explainers/kinder-than-chemo-why-new-drug-for-kids-with-cancer-is-raising-hope-13631192.html)
+
+Article found but Couldn't summarize 
+Why new drug for kids with cancer is raising hope
+
 Thu, 18 Jan 2024 21:06:01 +0530
 ### [In Graphics | China’s population policies throughout the years](https://www.firstpost.com/explainers/in-graphics-chinas-population-policies-throughout-the-years-13630982.html)
 

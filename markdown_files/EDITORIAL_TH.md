@@ -1,3 +1,15 @@
+Sat, 20 Jan 2024 00:20:00 +0530
+### [Gearing up for change: On IMD and weather analyses having  contemporary relevance](https://www.thehindu.com/opinion/editorial/gearing-up-for-change-imd-and-weather-analyses-having-contemporary-relevance/article67756343.ece)
+
+Article found but Couldn't summarize 
+India needs region-specific plans to improve climate resilience
+
+Sat, 20 Jan 2024 00:10:00 +0530
+### [Distant goal: on Rahul Gandhi and the Bharat Jodo Nyay Yatra](https://www.thehindu.com/opinion/editorial/distant-goal-on-rahul-gandhi-and-the-bharat-jodo-nyay-yatra/article67756371.ece)
+
+Article found but Couldn't summarize 
+Rahul Gandhi needs to do more than project himself as Prime Minsiter Modi’s challenger
+
 Fri, 19 Jan 2024 00:47:43 +0530
 ### [Smaller citizens: On the gaps in India’s education system](https://www.thehindu.com/opinion/editorial/smaller-citizens-on-the-gaps-in-indias-education-system/article67752220.ece)
 

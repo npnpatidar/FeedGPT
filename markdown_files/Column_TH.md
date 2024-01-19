@@ -1,3 +1,9 @@
+Wed, 17 Jan 2024 00:30:00 +0530
+### [Ranji Trophy | A golden jubilee, and time to name the stands after the greats](https://www.thehindu.com/opinion/columns/a-golden-jubilee-and-time-to-name-the-stands-after-the-greats/article67744839.ece)
+
+Article found but Couldn't summarize 
+Fifty years on, since Karnataka famously won the Ranji Trophy at the Chinnaswamy Stadium, we should ask ourselves, wouldn’t it be wonderful to sit in the Viswanath stand or cheer from the Prasanna enclosure?
+
 Wed, 10 Jan 2024 02:35:00 +0530
 ### [Cape Town Test | Sport, like art, need not make sense; it can be enjoyed still](https://www.thehindu.com/opinion/columns/cape-town-test-sport-like-art-need-not-make-sense-it-can-be-enjoyed-still-suresh-menon/article67723749.ece)
 

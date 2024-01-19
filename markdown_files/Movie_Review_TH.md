@@ -1,3 +1,27 @@
+Fri, 19 Jan 2024 18:05:47 +0530
+### [‘Anyone But You’ movie review: A designer diversion with Sydney Sweeney and Glen Powell](https://www.thehindu.com/entertainment/movies/anyone-but-you-film-review/article67756042.ece)
+
+Article found but Couldn't summarize 
+This Will Gluck-directed rom-com is predictable fun shored up by good-looking leads and locations
+
+Fri, 19 Jan 2024 17:45:06 +0530
+### [‘Vivekanandan Viralaanu’ movie review: A loud, overdramatic take on an issue that the film fails to grasp](https://www.thehindu.com/entertainment/movies/vivekanandan-viralaanu-movie-review-a-loud-overdramatic-take-on-an-issue-that-the-film-fails-to-grasp/article67755971.ece)
+
+Article found but Couldn't summarize 
+Director Kamal wastes the opportunity to present a hard-hitting take on a serious issue, drowning it all in an excessively loud drama that spells out everything a million times
+
+Fri, 19 Jan 2024 16:59:34 +0530
+### [‘Fallen Leaves’ movie review: Aki Kaurismäki creates a timeless Finnish romance](https://www.thehindu.com/entertainment/movies/fallen-leaves-movie-review-aki-kaurism%C3%A4ki-creates-a-timeless-finnish-romance/article67755893.ece)
+
+Article found but Couldn't summarize 
+Though dealing with some heightened emotions, ‘Fallen Leaves’ comes through as a gentle but deep reminder of mutual kindness
+
+Fri, 19 Jan 2024 12:37:02 +0530
+### [‘Indian Police Force’ series review: More cops from Rohit Shetty](https://www.thehindu.com/entertainment/movies/indian-police-force-series-review-more-cops-from-rohit-shetty/article67755261.ece)
+
+Article found but Couldn't summarize 
+Though less bombastic than his action features, ‘Indian Police Force’ registers little forward momentum in Shetty’s cinematic style; the cop universe has reached maximum entropy
+
 Wed, 17 Jan 2024 12:11:33 +0530
 ### [‘Ted’ series review: Seth MacFarlane’s prequel about the foul-mouthed teddy bear is a charming throwback](https://www.thehindu.com/entertainment/movies/ted-series-review-seth-macfarlanes-prequel-about-the-foul-mouthed-teddy-bear-is-a-charming-throwback/article67747517.ece)
 

@@ -1,3 +1,80 @@
+Fri, 19 Jan 2024 20:48:15 +0530
+### [Pakistani politics hits a new low as Imran Khan is caught in another row](https://www.firstpost.com/opinion/pakistani-politics-hits-a-new-low-as-imran-khan-is-caught-in-another-row-13633732.html)
+
+Article found but Couldn't summarize 
+Pakistani politics hits a new low as Imran Khan is caught in another row
+
+Fri, 19 Jan 2024 19:15:40 +0530
+### [Off-centre | Taiwanese poser: Challenges ahead for President-elect Lai Ching-te](https://www.firstpost.com/opinion/off-centre-taiwanese-poser-challenges-ahead-for-president-elect-lai-ching-te-13634952.html)
+
+Article found but Couldn't summarize 
+Off-centre | Taiwanese poser: Challenges ahead for President-elect Lai Ching-te
+
+Fri, 19 Jan 2024 18:48:23 +0530
+### [Vantage | Why a corruption scandal is big deal for Singapore's image](https://www.firstpost.com/opinion/vantage-why-a-corruption-scandal-is-big-deal-for-singapores-image-13634742.html)
+
+Article found but Couldn't summarize 
+Vantage | Why a corruption scandal is big deal for Singapore's image
+
+Fri, 19 Jan 2024 18:35:14 +0530
+### [Main Atal Hoon Movie Review: Pankaj Tripathi shines as Atal Bihari Vajpayee](https://www.firstpost.com/entertainment/main-atal-hoon-movie-review-pankaj-tripathi-shines-as-atal-bihari-vajpayee-13632862.html)
+
+Article found but Couldn't summarize 
+Main Atal Hoon Movie Review: Pankaj Tripathi shines as Atal Bihari Vajpayee
+
+Fri, 19 Jan 2024 18:32:09 +0530
+### [Vantage | India's real aviation story isn't about flight delays but the takeoffs](https://www.firstpost.com/opinion/vantage-indias-real-aviation-story-isnt-about-flight-delays-but-the-takeoffs-13634882.html)
+
+As GPT-3.5, I can provide a summary of the article you shared. The article discusses the recent challenges faced by the Indian aviation industry due to fog and low temperatures, resulting in flight delays and unusual incidents. However, it also highlights the growth of India's aviation sector, with an increase in the number of airports and domestic passengers. The article mentions that the middle class in India has grown consistently, contributing to the rise in air travel. Indian carriers have placed significant orders for planes, indicating their belief in the potential of the market. The article also mentions the goal set by Prime Minister Narendra Modi to make flying accessible to all Indians, not just the wealthy. To achieve this, factors such as affordability, competition, and profitability need to be addressed. The article emphasizes the need for more players in the market to drive down prices and increase accessibility. It also mentions the importance of maintaining high standards in terms of technology, innovation, and investments in airports. Overall, while the Indian aviation sector has made significant progress, there are still challenges to overcome to make it more accessible and profitable.
+
+Fri, 19 Jan 2024 17:29:14 +0530
+### [Vantage | 'Baby Botox' to 'Sephora Kids', our skincare obsession is turning scary](https://www.firstpost.com/opinion/vantage-baby-botox-to-sephora-kids-our-skincare-obsession-is-turning-scary-13634622.html)
+
+Article found but Couldn't summarize 
+Vantage | 'Baby Botox' to 'Sephora Kids', our skincare obsession is turning scary
+
+Fri, 19 Jan 2024 16:32:30 +0530
+### [Vantage | Why Bangladesh opposition's 'India Out' campaign won't take it far](https://www.firstpost.com/opinion/vantage-why-bangladesh-oppositions-india-out-campaign-wont-take-it-far-13633992.html)
+
+Article found but Couldn't summarize 
+Vantage | Why Bangladesh opposition's 'India Out' campaign won't take it far
+
+Fri, 19 Jan 2024 16:11:16 +0530
+### [How 'Financial Times' latest hitjob on Ram Mandir shows new selling point of Western media](https://www.firstpost.com/opinion/how-financial-times-latest-hit-piece-on-ram-mandir-shows-new-selling-point-of-western-media-13632952.html)
+
+Article found but Couldn't summarize 
+How 'Financial Times' latest hitjob on Ram Mandir shows new selling point of Western media
+
+Fri, 19 Jan 2024 15:16:47 +0530
+### [Vantage | The economic reality that forced China's Davos charm offensive](https://www.firstpost.com/opinion/vantage-the-economic-reality-that-forced-chinas-davos-charm-offensive-13633772.html)
+
+Article found but Couldn't summarize 
+Vantage | The economic reality that forced China's Davos charm offensive
+
+Fri, 19 Jan 2024 13:51:36 +0530
+### [Vantage | Why escalation of Iran-Pak aggression will be bad news for India too](https://www.firstpost.com/opinion/vantage-why-escalation-of-iran-pak-aggression-will-be-bad-news-for-india-too-13633062.html)
+
+Article found but Couldn't summarize 
+Vantage | Why escalation of Iran-Pak aggression will be bad news for India too
+
+Fri, 19 Jan 2024 12:28:32 +0530
+### [Rama's enduring legacy: Exploring the timeless appeal of Ramayana across cultures and generations](https://www.firstpost.com/opinion/ramas-enduring-legacy-exploring-the-timeless-appeal-of-ramayana-across-cultures-and-generations-13632582.html)
+
+Article found but Couldn't summarize 
+Rama's enduring legacy: Exploring the timeless appeal of Ramayana across cultures and generations
+
+Fri, 19 Jan 2024 10:19:02 +0530
+### [Sadhguru | Ram Rajya: An ideal for the nation](https://www.firstpost.com/opinion/sadhguru-ram-rajya-an-ideal-for-the-nation-13632362.html)
+
+Article found but Couldn't summarize 
+Sadhguru | Ram Rajya: An ideal for the nation
+
+Fri, 19 Jan 2024 09:57:50 +0530
+### [Taiwan just inflicted a crushing ideological defeat on China; future of Xi Jinping’s ‘unification’ plan looks bleak](https://www.firstpost.com/opinion/taiwan-just-inflicted-a-crushing-ideological-defeat-on-china-future-of-xi-jinpings-unification-plan-looks-bleak-13631712.html)
+
+Article found but Couldn't summarize 
+Taiwan just inflicted a crushing ideological defeat on China; future of Xi Jinping’s ‘unification’ plan looks bleak
+
 Thu, 18 Jan 2024 20:48:51 +0530
 ### [Vantage | Why Shell is ending its troubled relationship with Nigeria](https://www.firstpost.com/opinion/vantage-why-shell-is-ending-its-troubled-relationship-with-nigeria-13630662.html)
 

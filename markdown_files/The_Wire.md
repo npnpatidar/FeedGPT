@@ -1,3 +1,153 @@
+2024-01-20T00:45:01+05:30
+### [Czech High Court Allows Nikhil Gupta's Extradition to the US](https://thewire.in/world/czech-high-court-allows-nikhil-gupta-extradition)
+
+No Article text 
+If Nikhil Gupta appeals the High Court's decision, the matter will go to the country's Supreme Court. The first ruling allowing the Czech government to extradite him was made by a lower court in Prague in November.
+
+2024-01-19T22:41:48+05:30
+### [Doubts Raised Over Airstrikes as 'Iran, Pakistan Share a Long History of Eliminating Balochs'](https://thewire.in/world/doubts-raised-over-airstrikes-as-iran-pakistan-share-a-long-history-of-eliminating-balochs)
+
+No Article text 
+Pictures emerged in the aftermath of airstrikes show that innocent civilians on both sides living in mud houses killed, with the majority of victims being women and children.
+
+2024-01-19T21:16:45+05:30
+### ['Indian Police Force': Rohit Shetty's Diatribe Against Muslims, Tempered With the 'Good Muslim' Cliche](https://thewire.in/film/indian-police-force-rohit-shettys-diatribe-against-muslims-tempered-with-the-good-muslim-cliche)
+
+No Article text 
+The director, known for his violent, high-decibel cop films can’t seem to come to grips with the idea of a web-series.
+
+2024-01-19T19:06:25+05:30
+### [In the Modi Era, Truth Was the Biggest Casualty: Arfa Khanum Sherwani](https://thewire.in/rights/modi-era-democracy-truth-journalism-media-arfa-khanum-sherwani)
+
+No Article text 
+'Many media houses have become part of the majoritarian agenda. Some of them play it safe by not questioning the regime and its policies,' said The Wire's senior editor.
+
+2024-01-19T18:30:14+05:30
+### [Should the State Celebrate the Ram Mandir Ceremony?](https://thewire.in/religion/should-the-state-celebrate-the-ram-mandir-ceremony)
+
+No Article text 
+India’s greatest strength lies in the idea that no single religious, linguistic, ethnic or social identity forms the basis of our nation, which requires vigilance on our part to avoid the problematic fusion of religion and the state.
+
+2024-01-19T18:03:35+05:30
+### [In a Small Village in Bengal, a Celebration that Combines Various Religious Traditions](https://thewire.in/religion/bengal-joydev-gita-govinda-religion)
+
+No Article text 
+The Joydev Mela is a mix of traditions, religious practices, mysticism and music.
+
+2024-01-19T18:00:52+05:30
+### [How Important are Social Media Influencers in Indian Elections?](https://thewire.in/politics/how-important-are-social-media-influencers-in-indian-elections)
+
+No Article text 
+Social media influencers contribute to parties' image building through endorsements and also shape public opinions during election times.
+
+2024-01-19T17:34:33+05:30
+### [Expelled TMC MP Mahua Moitra Forced to Vacate House While Recuperating From Major Surgery](https://thewire.in/politics/expelled-tmc-mp-mahua-moitra-forced-to-vacate-house-while-recuperating-from-major-surgery)
+
+No Article text 
+Moitra vacated her government allotted accommodation after incessant notices from the Directorate of Estates following her expulsion from the Lok Sabha.
+
+2024-01-19T17:30:12+05:30
+### [South Africa’s ANC Marks Its 112th Year With Eye on National Elections But Its Future is Uncertain](https://thewire.in/world/south-africas-anc-marks-its-112th-year-with-eye-on-national-elections-but-its-future-is-uncertain)
+
+No Article text 
+The ANC put on a show of bravado. However, it would be foolhardy of it to ignore the fact that the political terrain has shifted.
+
+2024-01-19T17:00:09+05:30
+### [Fresh Details of India-China Skirmishes on Ladakh Border Emerge](https://thewire.in/security/fresh-details-of-india-china-skirmishes-on-ladakh-border-emerge)
+
+No Article text 
+Announcements over gallantry awards at an investiture ceremony revealed at least two incidents and one ‘Operation Dorji’. The Modi government has volunteered no information about the status of fraught ties between the two nuclear neighbours.
+
+2024-01-19T16:30:00+05:30
+### ['No Merit': SC Junks Convicts' Pleas Seeking More Time to Surrender in the Bilkis Bano Case](https://thewire.in/law/health-family-reasons-and-more-convicts-in-the-bilkis-bano-case-move-sc-for-more-time-to-surrender)
+
+No Article text 
+The Supreme Court on January 8 had scrapped the remission granted to the 11 convicts and asked them to surrender in two weeks. The deadline for the same expires on Sunday, January 21.
+
+2024-01-19T15:37:53+05:30
+### [Flight Delays: Congress’s Shashi Tharoor Questions Civil Aviation Minister Scindia](https://thewire.in/politics/flight-delays-congresss-shashi-tharoor-and-civil-aviation-minister-scindia-spar-on-x)
+
+No Article text 
+Tharoor accused Scindia of adopting the “Modi government’s uncaring attitude to the public” after switching to the BJP from the Congress, following which the minister responded to a series of tweets put out by the Congress MP on January 16.
+
+2024-01-19T15:30:34+05:30
+### [Internet Cut Off for 7 Days, Gaza Strip Faces Longest Blackout Since October](https://thewire.in/world/internet-cut-off-for-7-days-gaza-strip-faces-longest-blackout-since-october)
+
+No Article text 
+'It is unconscionable to toy with connectivity amidst unprecedented violence and unfathomable human suffering,' the digital rights non-profit Access Now has said.
+
+2024-01-19T15:04:42+05:30
+### [‘Now, the State Fears Our Protest’: Pakistan's Baloch Continue to Withstand Pressure](https://thewire.in/south-asia/now-the-state-fears-our-protest-pakistan-baloch-women)
+
+No Article text 
+Locals in various areas of Pakistan have initiated their own protests against alleged forced disappearances in Balochistan. The main protest led by Baloch women continues in the capital city of Islamabad.
+
+2024-01-19T14:37:41+05:30
+### [After New Import Rule, Laptop and Tablet Shipments Fall to a 9-Month Low in November: Report](https://thewire.in/trade/after-new-import-rule-laptop-and-tablet-shipments-fall-to-a-9-month-low-in-november-report)
+
+No Article text 
+Since the initiation of the import management system on November 1, importers need to register themselves and share how many laptops and computers are being imported, and from which sources.
+
+2024-01-19T13:45:25+05:30
+### [Aadhaar Card No Longer Acceptable as Proof of Date of Birth: EPFO](https://thewire.in/government/aadhaar-card-epfo-date-of-birth)
+
+No Article text 
+Aadhaar is primarily an identity verification tool and not a proof of birth, EPFO said in a circular.
+
+2024-01-19T13:30:32+05:30
+### [Case in Apex Court, Union Govt Forms Panel For Equitable Distribution of Benefits Among SC Groups](https://thewire.in/caste/case-in-apex-court-union-govt-forms-panel-for-equitable-distribution-of-benefits-among-sc-groups)
+
+No Article text 
+A seven-judge constitution bench of the Supreme Court will simultaneously consider whether sub-categorisation of Scheduled Caste and Scheduled Tribe communities is permissible.
+
+2024-01-19T13:00:52+05:30
+### [More Than Half 14–18 Year Olds in Rural India Cannot Do Simple Division: ASER Report](https://thewire.in/education/more-that-half-14-18-year-olds-in-rural-india-cannot-do-simple-division-aser-report)
+
+No Article text 
+About 25% of 14–18-year-olds still cannot read a Class II level text fluently in their regional language.
+
+2024-01-19T12:30:22+05:30
+### [Branding Over Welfare: Union Withholds Funds From Bengal for Not Displaying PM Photo at Ration Shops](https://thewire.in/government/branding-over-welfare-union-withholds-funds-from-bengal-for-not-displaying-pm-photo-at-ration-shops)
+
+No Article text 
+This is not the first time the Narendra Modi government has withheld funds from West Bengal over branding issues.
+
+2024-01-19T11:34:07+05:30
+### [Watch: Is it True That the Modi Govt Has Lifted 24.8 Crore People Out of Poverty?](https://thewire.in/economy/watch-is-it-true-that-the-modi-govt-has-lifted-24-8-crore-people-out-of-poverty)
+
+No Article text 
+In conversation with economist Santosh Mehrotra.
+
+2024-01-19T10:25:37+05:30
+### [After Rahul Gandhi Calls Assam Govt 'Most Corrupt', FIR Against Yatra for 'Deviating From Route'](https://thewire.in/politics/after-rahul-gandhi-calls-assam-govt-most-corrupt-fir-against-yatra-for-deviating-from-route)
+
+No Article text 
+The FIR states that the yatra did not follow the district administration’s norms and violated road safety rules.
+
+2024-01-19T10:01:59+05:30
+### [With 7 Killed in 48 Hours, Opposition Again Calls on Modi to Address the Violence in Manipur](https://thewire.in/security/with-7-killed-in-48-hours-opposition-again-calls-on-modi-to-address-the-violence-in-manipur)
+
+No Article text 
+Rahul Gandhi began his second cross-county yatra, the Bharat Jodo Nyay Yatra, from Manipur.
+
+2024-01-19T08:55:07+05:30
+### [Chart: 2023 Was the Warmest Year on Record – by a Record Margin](https://thewire.in/environment/chart-2023-was-the-warmest-year-on-record-by-a-record-margin)
+
+No Article text 
+There's a one-in-three chance that 2024 will be warmer than 2023 and a 99% chance that 2024 will be among the five warmest years.
+
+2024-01-19T08:26:59+05:30
+### [Jaishankar Meets Maldivian FM, Discusses Indian Military Withdrawal Request](https://thewire.in/diplomacy/jaishankar-meets-maldivian-fm-discusses-indian-military-withdrawal-request)
+
+No Article text 
+The Maldivian minister noted that that they “exchanged views on the ongoing high-level discussions on the withdrawal of Indian military personnel”.
+
+2024-01-19T07:00:11+05:30
+### ['Hunger, Undernutrition Stalking India; Placed Worse Than Least Developed Nations': Prabhat Patnaik](https://thewire.in/economy/hunger-undernutrition-stalking-india-placed-worse-than-least-developed-nations-prabhat-patnaik)
+
+No Article text 
+In a discussion with Subhoranjan Dasgupta, Professor Patnaik, a distinguished economist from JNU, explores the widening wealth disparity and how a focus on GDP can be used to legitimise transfers to crony capitalists.
+
 2024-01-18T22:40:31+05:30
 ### [Indian Navy Rescues Crew of US-Owned Vessel After Houthi Attack in Gulf of Aden](https://thewire.in/world/indian-navy-rescues-crew-of-us-owned-vessel-after-houthi-attack-in-gulf-of-aden)
 

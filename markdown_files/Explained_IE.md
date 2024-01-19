@@ -1,3 +1,28 @@
+Fri, 19 Jan 2024 14:15:10 +0000
+### [The history of Iran’s Chabahar port, and its imperative for India](https://indianexpress.com/article/explained/explained-global/history-of-iran-chabahar-port-india-9117732/)
+
+Article found but Couldn't summarize
+
+Fri, 19 Jan 2024 13:40:44 +0000
+### [How the legal debate over sub-categorisation among SCs has evolved over the years](https://indianexpress.com/article/explained/explained-law/legal-debate-sub-categorisation-among-scheduled-castes-9117612/)
+
+Article found but Couldn't summarize
+
+Fri, 19 Jan 2024 10:34:12 +0000
+### [Explained: Iran and its proxies and widening violence in the Middle East](https://indianexpress.com/article/explained/explained-global/iran-proxies-middle-east-pakistan-hamas-9117325/)
+
+Article found but Couldn't summarize
+
+Fri, 19 Jan 2024 02:00:03 +0000
+### [JAA, BLF, BLA: Who are the militant groups Iran, Pakistan have hit in cross-border strikes](https://indianexpress.com/article/explained/explained-global/jaa-blf-bla-who-are-the-militant-groups-iran-pakistan-have-hit-in-cross-border-strikes-9116282/)
+
+Article found but Couldn't summarize
+
+Fri, 19 Jan 2024 01:46:25 +0000
+### [Explained: Iran, Pakistan, and the Baloch militancy](https://indianexpress.com/article/explained/iran-pakistan-and-the-baloch-militancy-9116284/)
+
+Article found but Couldn't summarize
+
 Thu, 18 Jan 2024 16:04:04 +0000
 ### [Iran-Pakistan strikes: 5 reasons why India’s stakes deepen in the new Great Game](https://indianexpress.com/article/explained/explained-global/iran-pakistan-strikes-why-indias-stakes-deepen-9116100/)
 
