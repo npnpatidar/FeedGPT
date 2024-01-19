@@ -34,6 +34,12 @@ Thu, 18 Jan 2024 16:48:55 +0530
 Article found but Couldn't summarize 
 India cracking down on antibiotics overuse. Here’s why it matters
 
+Thu, 18 Jan 2024 16:39:45 +0530
+### [FirstUp: Modi’s 3-state visit, elections to 4 Rajya Sabha seats… The headlines of the day](https://www.firstpost.com/explainers/firstup-modis-3-state-visit-elections-to-4-rajya-sabha-seats-the-headlines-of-the-day-13629012.html)
+
+Article found but Couldn't summarize 
+FirstUp: Modi’s 3-state visit, elections to 4 Rajya Sabha seats… The headlines of the day
+
 Thu, 18 Jan 2024 16:28:37 +0530
 ### [Pakistan strikes back at Iran: Who has the stronger military?](https://www.firstpost.com/explainers/pakistan-strikes-back-against-iran-who-has-the-stronger-military-13628032.html)
 
