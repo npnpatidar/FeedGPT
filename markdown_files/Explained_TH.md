@@ -1,3 +1,39 @@
+Sun, 21 Jan 2024 04:20:00 +0530
+### [What are labour rules for workers abroad? | Explained](https://www.thehindu.com/news/national/what-are-labour-rules-for-workers-abroad-explained/article67760523.ece)
+
+Article found but Couldn't summarize 
+Why are the U.P. and Haryana governments recruiting workers to go and work in Israel? Why are trade unions upset about this? What is the government’s stand? What are the international labour standards, especially in a war zone?
+
+Sun, 21 Jan 2024 03:15:00 +0530
+### [Why are conflicts spreading in West Asia? | Explained](https://www.thehindu.com/news/international/why-are-conflicts-spreading-in-west-asia-explained/article67760511.ece)
+
+Article found but Couldn't summarize 
+How has a confrontation between Israel and Hamas snowballed into a regional security crisis? Who are the key players in operation and why are they pulling in different directions? What are the apprehensions of a prolonged war for the region and the world?
+
+Sun, 21 Jan 2024 02:30:00 +0530
+### [How will the Iowa caucuses impact elections? | Explained](https://www.thehindu.com/news/international/how-will-the-iowa-caucuses-impact-elections-explained/article67760516.ece)
+
+Article found but Couldn't summarize 
+Is former President Donald Trump the favourite to win the Republican nomination for 2024 presidential polls?
+
+Sun, 21 Jan 2024 00:58:00 +0530
+### [Jaish al-Adl | Militants in the mountains](https://www.thehindu.com/news/national/jaish-al-adl-militants-in-the-mountains/article67760498.ece)
+
+Article found but Couldn't summarize 
+The anti-Iran Baloch separatist group, which is operating largely from the Pakistani side of the border, has brought the two countries to the brink of a war
+
+Sun, 21 Jan 2024 00:29:00 +0530
+### [Centre for Policy Research | Wrath of the state](https://www.thehindu.com/news/national/centre-for-policy-research-wrath-of-the-state/article67760485.ece)
+
+Article found but Couldn't summarize 
+The cancellation of the CPR’s FCRA registration marks the culmination of a series of actions by the government against the think tank that began in September 2022
+
+Sun, 21 Jan 2024 00:18:00 +0530
+### [William Lai | Taiwan’s wild card](https://www.thehindu.com/news/international/william-lai-taiwans-wild-card/article67760472.ece)
+
+Article found but Couldn't summarize 
+The DPP leader, who won Taiwan’s January 13 presidential election, takes office at a time when the self-ruled island is facing deep economic troubles and challenges in cross-Strait relations while the U.S.-China competition is heating up globally
+
 Fri, 19 Jan 2024 10:30:00 +0530
 ### [The fungi that can freeze water better than bacteria | Explained](https://www.thehindu.com/sci-tech/science/fusarium-acuminatum-biological-ice-nucleation-study/article67751963.ece)
 

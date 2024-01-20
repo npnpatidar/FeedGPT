@@ -1,3 +1,38 @@
+Sat, 20 Jan 2024 22:30:12 +0000
+### [Autonomous driving: India, an unlikely market, packs a surprise for ADAS gear makers](https://indianexpress.com/article/explained/explained-economics/autonomous-driving-india-an-unlikely-market-packs-a-surprise-for-adas-gear-makers-9119553/)
+
+Article found but Couldn't summarize
+
+Sat, 20 Jan 2024 14:53:58 +0000
+### [When China ceded Hong Kong to the British in 1841 — and how its impact is felt till date](https://indianexpress.com/article/explained/explained-history/china-hong-kong-british-ceded-opium-war-9119319/)
+
+Article found but Couldn't summarize
+
+Sat, 20 Jan 2024 12:26:33 +0000
+### [How ARM-based chips can revolutionise Windows laptops this year](https://indianexpress.com/article/explained/explained-sci-tech/arm-based-chips-windows-apple-9119127/)
+
+Article found but Couldn't summarize
+
+Sat, 20 Jan 2024 11:05:35 +0000
+### [How India’s monsoon rain pattern has been changing amid climate change](https://indianexpress.com/article/explained/explained-climate/india-monsoon-rain-pattern-changing-9119020/)
+
+Hmm, based on the provided text, the study conducted by the Council on Energy, Environment and Water (CEEW) found that rainfall during the southwest monsoon has increased in 55% of India's tehsils in the past 10 years. However, 11% of tehsils have experienced a decrease in rainfall. The study also highlighted that monsoon patterns in India have been shifting and erratic, mainly due to the accelerating rate of climate change. These changes in rainfall patterns can have implications for agriculture output and ecosystems. Additionally, the study mentioned that there has been an increase in heavy rainfall events, which can lead to flash floods.
+
+Sat, 20 Jan 2024 08:54:01 +0000
+### [How school teachers are faring in India: 5 broad takeaways](https://indianexpress.com/article/explained/sottter-tiss-teacher-report-9118698/)
+
+Article found but Couldn't summarize
+
+Sat, 20 Jan 2024 01:25:40 +0000
+### [Maldives and Lakshadweep: How do the two groups of islands compare as tourism destinations?](https://indianexpress.com/article/explained/explained-global/maldives-and-lakshadweep-9118096/)
+
+Article found but Couldn't summarize
+
+Sat, 20 Jan 2024 00:30:58 +0000
+### [What is the Nagara style, in which Ayodhya’s Ram temple is being built](https://indianexpress.com/article/explained/explained-culture/nagara-style-ayodhya-ram-temple-9118010/)
+
+Article found but Couldn't summarize
+
 Fri, 19 Jan 2024 14:15:10 +0000
 ### [The history of Iran’s Chabahar port, and its imperative for India](https://indianexpress.com/article/explained/explained-global/history-of-iran-chabahar-port-india-9117732/)
 

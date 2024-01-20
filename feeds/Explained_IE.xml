@@ -5,6 +5,69 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Explained_IE.xml</link>
 		<description>Explained IE</description>
 		<item>
+			<title>Autonomous driving: India, an unlikely market, packs a surprise for ADAS gear makers</title>
+			<link>https://indianexpress.com/article/explained/explained-economics/autonomous-driving-india-an-unlikely-market-packs-a-surprise-for-adas-gear-makers-9119553/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Sat, 20 Jan 2024 22:30:12 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/01/electric-vehiclese.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/01/electric-vehiclese.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>When China ceded Hong Kong to the British in 1841 — and how its impact is felt till date</title>
+			<link>https://indianexpress.com/article/explained/explained-history/china-hong-kong-british-ceded-opium-war-9119319/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Sat, 20 Jan 2024 14:53:58 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/01/HongKong.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/01/HongKong.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>How ARM-based chips can revolutionise Windows laptops this year</title>
+			<link>https://indianexpress.com/article/explained/explained-sci-tech/arm-based-chips-windows-apple-9119127/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Sat, 20 Jan 2024 12:26:33 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/01/Processor.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/01/Processor.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>How India’s monsoon rain pattern has been changing amid climate change</title>
+			<link>https://indianexpress.com/article/explained/explained-climate/india-monsoon-rain-pattern-changing-9119020/</link>
+			<description>Hmm, based on the provided text, the study conducted by the Council on Energy, Environment and Water (CEEW) found that rainfall during the southwest monsoon has increased in 55% of India's tehsils in the past 10 years. However, 11% of tehsils have experienced a decrease in rainfall. The study also highlighted that monsoon patterns in India have been shifting and erratic, mainly due to the accelerating rate of climate change. These changes in rainfall patterns can have implications for agriculture output and ecosystems. Additionally, the study mentioned that there has been an increase in heavy rainfall events, which can lead to flash floods.</description>
+			<pubDate>Sat, 20 Jan 2024 11:05:35 +0000</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/01/monsoon.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/01/monsoon.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>How school teachers are faring in India: 5 broad takeaways</title>
+			<link>https://indianexpress.com/article/explained/sottter-tiss-teacher-report-9118698/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Sat, 20 Jan 2024 08:54:01 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/01/TEACHER.jpeg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/01/TEACHER.jpeg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Maldives and Lakshadweep: How do the two groups of islands compare as tourism destinations?</title>
+			<link>https://indianexpress.com/article/explained/explained-global/maldives-and-lakshadweep-9118096/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Sat, 20 Jan 2024 01:25:40 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/01/Modi-in-Maldives.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/01/Modi-in-Maldives.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>What is the Nagara style, in which Ayodhya’s Ram temple is being built</title>
+			<link>https://indianexpress.com/article/explained/explained-culture/nagara-style-ayodhya-ram-temple-9118010/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Sat, 20 Jan 2024 00:30:58 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/01/RamTemple.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/01/RamTemple.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>The history of Iran’s Chabahar port, and its imperative for India</title>
 			<link>https://indianexpress.com/article/explained/explained-global/history-of-iran-chabahar-port-india-9117732/</link>
 			<description>Article found but Couldn't summarize</description>

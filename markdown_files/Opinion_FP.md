@@ -1,3 +1,27 @@
+Sat, 20 Jan 2024 16:13:07 +0530
+### [Emerging situations in Myanmar require proactive responses from India](https://www.firstpost.com/opinion/emerging-situations-in-myanmar-require-proactive-responses-from-india-13637122.html)
+
+Article found but Couldn't summarize 
+Emerging situations in Myanmar require proactive responses from India
+
+Sat, 20 Jan 2024 13:39:34 +0530
+### [India’s civilisational discourse resonates across the Indian Ocean Region](https://www.firstpost.com/opinion/indias-civilisational-discourse-resonates-across-the-indian-ocean-region-13636602.html)
+
+Article found but Couldn't summarize 
+India’s civilisational discourse resonates across the Indian Ocean Region
+
+Sat, 20 Jan 2024 10:56:57 +0530
+### [What does Iran’s rocking of the status quo mean for West Asia and the world?](https://www.firstpost.com/opinion/what-does-irans-rocking-of-the-status-quo-mean-for-west-asia-and-the-world-13636082.html)
+
+Article found but Couldn't summarize 
+What does Iran’s rocking of the status quo mean for West Asia and the world?
+
+Sat, 20 Jan 2024 10:09:41 +0530
+### [Why BJP deserves credit for Ram Mandir in Ayodhya](https://www.firstpost.com/opinion/why-bjp-deserves-credit-for-ram-mandir-in-ayodhya-13635892.html)
+
+Article found but Couldn't summarize 
+Why BJP deserves credit for Ram Mandir in Ayodhya
+
 Fri, 19 Jan 2024 20:48:15 +0530
 ### [Pakistani politics hits a new low as Imran Khan is caught in another row](https://www.firstpost.com/opinion/pakistani-politics-hits-a-new-low-as-imran-khan-is-caught-in-another-row-13633732.html)
 

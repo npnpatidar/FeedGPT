@@ -1,3 +1,74 @@
+Sat, 20 Jan 2024 23:02:46 +0000
+### [The break of new dawn in Ayodhya](https://indianexpress.com/article/opinion/columns/the-break-of-new-dawn-in-ayodhya-9119614/)
+
+Article found but Couldn't summarize
+
+Sat, 20 Jan 2024 12:08:53 +0000
+### [My Instagram detox: Turns out social media isn’t all bad](https://indianexpress.com/article/opinion/columns/instagram-detox-doom-scrolling-online-connections-9119135/)
+
+Article found but Couldn't summarize
+
+Sat, 20 Jan 2024 08:29:23 +0000
+### [Houthi attacks on the Red Sea: India needs to take a stand](https://indianexpress.com/article/opinion/columns/houthi-attacks-on-the-red-sea-india-needs-to-take-a-stand-9118806/)
+
+Article found but Couldn't summarize
+
+Sat, 20 Jan 2024 06:38:16 +0000
+### [Ram mandir or beneficiaries — what will be the BJP’s poll plank in the Lok Sabha elections?](https://indianexpress.com/article/opinion/columns/ram-mandir-beneficiaries-bjps-poll-plank-lok-sabha-elections-9118547/)
+
+Article found but Couldn't summarize
+
+Sat, 20 Jan 2024 03:39:36 +0000
+### [Express View on Annapoorani takedown: Costs of cave-in](https://indianexpress.com/article/opinion/editorials/express-view-annapoorani-takedown-costs-of-cave-in-9118424/)
+
+Article found but Couldn't summarize
+
+Sat, 20 Jan 2024 02:15:58 +0000
+### [Iran-Pakistan strikes: The deep terror links emerging amidst rising conflict in West Asia](https://indianexpress.com/article/opinion/columns/iran-pakistan-militancy-iran-pakistan-diplomatic-retaliations-baloch-militancy-jaa-9118030/)
+
+Article found but Couldn't summarize
+
+Sat, 20 Jan 2024 02:15:29 +0000
+### [Ram Madhav writes: On Modi at Ram temple, Opposition stir is pot calling the kettle black](https://indianexpress.com/article/opinion/columns/ayodhya-ram-mandir-pran-pratishta-ceremony-narendra-modi-lord-ram-ram-mandir-movement-rss-vhp-9118008/)
+
+Article found but Couldn't summarize
+
+Sat, 20 Jan 2024 02:00:10 +0000
+### [States are spending. The economy is waiting](https://indianexpress.com/article/opinion/columns/fiscal-deficit-gross-domestic-product-gdp-government-expenditure-9118040/)
+
+Article found but Couldn't summarize
+
+Sat, 20 Jan 2024 01:55:17 +0000
+### [Express View on South Korea’s dog-meat ban: Something about dogs](https://indianexpress.com/article/opinion/editorials/something-about-dogs-9118084/)
+
+This article discusses the difference between the consumption of dogs and other animals bred for food. It highlights the recent ban on the breeding, slaughter, and sale of dog meat in South Korea, which has been met with international criticism. The decline in the culinary tradition of consuming dogs is mainly attributed to older generations with nostalgia for the traditional meal. Activists have raised concerns about the cruelty faced by dogs bred for meat, including unhygienic living conditions, confinement in cages, and disease. The article questions whether there is a relevant distinction between the treatment of dogs and other animals bred for food. It emphasizes the importance of considering this difference, particularly in the context of policing dietary choices as a means of exploiting the vulnerable. The key distinction mentioned is that dogs were not widely domesticated for food, and there is research suggesting that humans evolved and developed emotions through their connection with dogs. However, it also acknowledges that this may be a narrative people tell themselves while enjoying meat from other animals.
+
+Sat, 20 Jan 2024 01:45:57 +0000
+### [Javed Anand writes | Why Muslims should have gifted away the Babri Masjid: The mandir that could have been](https://indianexpress.com/article/opinion/columns/ayodhya-ram-mandir-babri-masjid-demolition-babri-masjid-ram-mandir-title-dispute-9118033/)
+
+Article found but Couldn't summarize
+
+Sat, 20 Jan 2024 01:36:32 +0000
+### [Why pollution control needs localised data, grounded in science](https://indianexpress.com/article/opinion/columns/a-green-blueprint-9118001/)
+
+Article found but Couldn't summarize
+
+Sat, 20 Jan 2024 01:35:07 +0000
+### [Express View on low wheat stocks: The test](https://indianexpress.com/article/opinion/editorials/the-wheat-test-9118067/)
+
+Article found but Couldn't summarize
+
+Sat, 20 Jan 2024 01:30:50 +0000
+### [Januray 20, Forty Years Ago: NDA Agitation](https://indianexpress.com/article/opinion/40-years-ago/januray-20-forty-years-ago-nda-agitation-9118055/)
+
+The National Democratic Alliance (NDA), consisting of the Bharatiya Janata Party (BJP) and Lok Dal, has decided to launch a nationwide agitation to draw attention to what they perceive as the Congress party's failure in addressing the country's economic issues. Demonstrations are planned to be held in February, and the NDA intends to prepare a charge sheet highlighting the supposed wrongdoings of the Congress.
+
+Meanwhile, the Akali Dal has instructed its "do or die" squad volunteers to be prepared for some form of revolutionary action by January 26. The party has previously set this date as a deadline for the government to meet its demands. The Akali Dal has formed a force of 1.25 lakh volunteers as part of its preparations.
+
+In a separate incident, during preparations for the Republic Day parade, an elephant at the Delhi zoo got loose, causing chaos and resulting in the death of a zebra. The mahout eventually regained control of the elephant after two hours of frenzied searching in the dark.
+
+Additionally, the Islamic Conference Organisation (ICO) summit meeting in Casablanca has adopted a resolution on West Asia, which some perceive as a new peace plan. The resolution is based on a 1982 Fez peace project that implicitly recognized Israel's right to exist. There are also ongoing efforts to seek a new United Nations resolution on Palestinian rights.
+
 Fri, 19 Jan 2024 12:15:46 +0000
 ### [Ram temple, hardening Hinduism and the strength of diversity](https://indianexpress.com/article/opinion/columns/ram-temple-hardening-hinduism-and-the-strength-of-diversity-9117519/)
 

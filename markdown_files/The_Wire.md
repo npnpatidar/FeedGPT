@@ -1,3 +1,93 @@
+2024-01-20T21:07:04+05:30
+### [Jaishankar Meets Palestinian Foreign Minister, Reaffirms India's Support for Two-State Solution](https://thewire.in/diplomacy/jaishankar-meets-palestinian-foreign-minister-reaffirms-indias-support-for-two-state-solution)
+
+No Article text 
+The two ministers met for the first time since the start of Gaza war, on the sidelines of attending the summit of the Non-Aligned Movement in Kampala, Uganda.
+
+2024-01-20T19:14:45+05:30
+### [Backstory: The Temple Template and How the Indian Media Has Learnt to Conform to It](https://thewire.in/media/backstory-the-temple-template-and-how-the-indian-media-has-learnt-to-conform-to-it)
+
+No Article text 
+A fortnightly column from The Wire's ombudsperson.
+
+2024-01-20T18:50:13+05:30
+### [Of Narcissism and Submissive Masochism](https://thewire.in/politics/of-narcissism-and-submissive-masochism)
+
+No Article text 
+What we are witnessing today is no ordinary case of a leader in an exalted state of self-love or self-absorption. Equally unhinged is the ignoble servitude of the millions of devotees in the country who have come under the spell of this consummate artist.
+
+2024-01-20T18:10:21+05:30
+### [In Ayodhya, Firm Linked to BJP Leaders Sold Ecologically Sensitive Land to Adani at a Profit: Report](https://thewire.in/business/in-ayodhya-firm-linked-to-bjp-leaders-sold-ecologically-sensitive-land-to-adani-at-a-profit-report)
+
+No Article text 
+The land in Majha Jamthara that was sold to the Adani group is part of the environmentally sensitive wetland near Saryu, a habitat of the Sarus crane, grey heron, and the Indian fox. In this deal, it was the farmers who sold the land for a cheap throwaway price, 'Scroll.in' reported.
+
+2024-01-20T18:00:19+05:30
+### [Issues Around State Intervention, Parental Consent in Marriages, and Bans on Live-in Relationships](https://thewire.in/rights/issues-around-state-intervention-parental-consent-in-marriages-and-bans-on-live-in-relationships)
+
+No Article text 
+The justification by the State that it is acting as a guardian of the moral fabric of the society fails, because the individual has full right to take a decision governing his personal life.
+
+2024-01-20T17:20:07+05:30
+### [Gaza: Doctors Perform C-Sections Without Anaesthesia, Newborns Desperate for Aid Supplies](https://thewire.in/world/__gaza-doctors-newborns)
+
+No Article text 
+Approximately 135,000 children under two years old are believed to be at risk of severe malnutrition today amid 'inhumane' conditions characterised by makeshift shelters, poor nutrition and unsafe water.
+
+2024-01-20T16:48:35+05:30
+### [Watch | ‘We Have Narratives but No Proof of Balakot’s Success’: Former High Commissioner to Pakistan](https://thewire.in/diplomacy/watch-we-have-narratives-but-no-proof-of-balakots-success-former-high-commissioner-to-pakistan)
+
+No Article text 
+“You’ll perhaps never know for sure” of how successful the strike was, Ajay Bisaria told Karan Thapar.
+
+2024-01-20T16:10:00+05:30
+### [Ayodhya Ram Temple: A Stage for the Visible Display of BJP's Extremely Backward Class Politics](https://thewire.in/caste/ayodhyas-ram-temple-a-stage-for-the-visible-display-of-bjps-extremely-backward-class-politics)
+
+No Article text 
+For over three decades, the Sangh parivar has used epics, such as the Ramayana, to mobilise marginalised castes.
+
+2024-01-20T15:45:43+05:30
+### [Rajasthan Youth Protest Against BJP Govt's Move to Discontinue Rajiv Yuva Mitra Scheme](https://thewire.in/rights/rajasthan-youth-protest-against-bjp-govts-move-to-discontinue-rajiv-yuva-mitra-scheme)
+
+No Article text 
+The previous Ashok Gehlot government had paid Rs 17,500 per month to around 4,200 youth who were selected under the internship programme. Protestors say the BJP can change the name but not stop the scheme.
+
+2024-01-20T13:35:48+05:30
+### [Delhi HC Issues Guidelines for Couples Converting Religion for the Sake of Marriages](https://thewire.in/law/delhi-hc-issues-guidelines-for-couples-converting-religion-for-the-sake-of-marriages)
+
+No Article text 
+Justice Swarana Kanta Sharma said the facilitators must provide a detailed understanding of the religion that a person is converting to, its associated ramifications, and make the person aware of the potential shifts in legal standing, post-conversion.
+
+2024-01-20T13:05:07+05:30
+### [Two Mothers Killed Each Hour in Gaza Conflict: UN Women](https://thewire.in/rights/two-mothers-killed-each-hour-in-gaza-conflict-un-women)
+
+No Article text 
+Women and children account for roughly 70% of people killed in the war in Gaza, with two mothers killed every hour since hostilities erupted more than 100 days ago, according to a UN Women report published on Friday.
+
+2024-01-20T12:16:18+05:30
+### [Germany Celebrates 250 Years of Caspar David Friedrich](https://thewire.in/the-arts/germany-celebrates-250-years-of-caspar-david-friedrich)
+
+No Article text 
+Romantic painter Caspar David Friedrich is one of Germany's most famous painters. As the 250th anniversary year of his birth starts, DW takes a look at his life and work.
+
+2024-01-20T11:39:37+05:30
+### [Need to Study if Any ‘Enemy' Involved in Rise of Natural Disasters in Border Areas: Rajnath Singh](https://thewire.in/government/rajnath-singh-enemy-country-border-areas-natural-disasters)
+
+No Article text 
+'Many experts believe that these natural disasters are an outcome of climate change. Climate change in the country is not just a weather-related phenomenon; the matter is related to national security,' said the defence minister.
+
+2024-01-20T10:41:26+05:30
+### [During Macron’s Visit, Defence and Trade Likely to Be In Focus](https://thewire.in/world/during-macrons-visit-defence-and-trade-likely-to-be-in-focus)
+
+No Article text 
+Macron is expected to be the chief guest at the Republic Day celebrations in the national capital.
+
+2024-01-20T07:00:45+05:30
+### [Rohingya Refugees File PIL Against Facebook in Delhi High Court](https://thewire.in/law/rohingya-refugees-file-pil-against-facebook-in-delhi-high-court)
+
+No Article text 
+The petition records how several Facebook users in India often used the terms such as – ‘illegal migrants’, ‘enemies of the country’ and ‘Bangladeshis’ to target the Rohingya who are predominantly Muslim.
+
 2024-01-20T00:45:01+05:30
 ### [Czech High Court Allows Nikhil Gupta's Extradition to the US](https://thewire.in/world/czech-high-court-allows-nikhil-gupta-extradition)
 

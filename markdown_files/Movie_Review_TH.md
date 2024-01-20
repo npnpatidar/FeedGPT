@@ -1,3 +1,9 @@
+Sat, 20 Jan 2024 17:02:04 +0530
+### [‘The Beekeeper’ movie review: A satisfying, pulpy action thriller from the ever-reliable Jason Statham](https://www.thehindu.com/entertainment/movies/the-beekeeper-film-review/article67759276.ece)
+
+Article found but Couldn't summarize 
+A mysterious organisation, a lone operative with an amazing skill set, some very nasty people to take down and corruption at high places equals a blast at the movies
+
 Fri, 19 Jan 2024 18:05:47 +0530
 ### [‘Anyone But You’ movie review: A designer diversion with Sydney Sweeney and Glen Powell](https://www.thehindu.com/entertainment/movies/anyone-but-you-film-review/article67756042.ece)
 
