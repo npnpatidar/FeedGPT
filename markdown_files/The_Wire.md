@@ -1,3 +1,165 @@
+2024-01-21T20:00:45+05:30
+### [PM Modi in Ram Temple Pran Prathishtha: End of Secularism as ‘Distance’ Between State and Religion?](https://thewire.in/politics/pm-modi-in-ram-temple-pran-prathishtha-end-of-secularism-as-distance-between-state-and-religion)
+
+No Article text 
+On January 12, Modi announced that he will undertake 11-day rituals to prepare for the consecration ceremony and said that God had “made him the representative of the people of India” to be present at the ceremony.
+
+2024-01-21T19:23:52+05:30
+### [Final Touches in Progress Ahead of the Big Show in Ayodhya Tomorrow](https://thewire.in/politics/final-touches-in-progress-ahead-of-the-big-show-in-ayodhya-tomorrow)
+
+No Article text 
+A heavy security blanket is in place, and all entry points into the city have been sealed.
+
+2024-01-21T19:00:46+05:30
+### [Would Rather Stay Here But There Are No Jobs, Say Those at Israel Recruitment Drive in Haryana](https://thewire.in/labour/would-rather-stay-here-but-there-are-no-jobs-say-those-at-israel-recruitment-drive-in-haryana)
+
+No Article text 
+Exposing the extent of unemployment in India, young people from Haryana, Rajasthan, UP, Bihar and Punjab rushed to Rohtak to clear skill tests to work in Israel.
+
+2024-01-21T18:58:07+05:30
+### [Bharat Jodo Nyay Yatra: Rahul Gandhi Meets Protestors, Blows Kisses to BJP Supporters Raising Slogans](https://thewire.in/politics/bharat-jodo-nyay-yatra-rahul-gandhi-meets-protestors-blows-kisses-to-bjp-supporters-raising-slogans)
+
+No Article text 
+Congress says BJP and Assam CM rattled by the Yatra. Congress president Kharge called Sarma a “converted CM”, endorsing Rahul Gandhi’s sobriquet of “the most corrupt state goveenment”, invoking “the wonder of Modi ji and Amit Shah ji’s washing machine”.
+
+2024-01-21T18:43:06+05:30
+### [Russian Plane Crashes in Northeastern Afghanistan Mountains](https://thewire.in/world/russian-plane-crashes-in-northeastern-afghanistan-mountains)
+
+No Article text 
+A Russian airplane carrying six people, which went off the radar over Afghanistan on Saturday evening, is said to have crashed in the mountains.
+
+2024-01-21T18:25:11+05:30
+### [The Babri Masjid Demolition Went Unpunished – and the Fight for Justice Died](https://thewire.in/communalism/the-babri-masjid-demolition-went-unpunished-and-the-fight-for-justice-died)
+
+No Article text 
+The 2022 decision to acquit all the accused in the Babri Masjid demolition conspiracy case – including senior BJP and VHP leaders – was never appealed in the Supreme Court.
+
+2024-01-21T17:35:15+05:30
+### [Ayodhya: The Sordid Timeline Leading to the Ram Temple Consecration](https://thewire.in/communalism/ayodhya-the-sordid-timeline-leading-to-the-ram-temple-consecration)
+
+No Article text 
+The Ram-Janaki rath yatra had originally begun in October 1984, but was called off following the assassination of then Prime Minister Indira Gandhi. The second attempt was thwarted by a large number of Ayodhya residents, hailing from all communities – Hindu, Muslim, Sikh and Jain.
+
+2024-01-21T17:09:34+05:30
+### [The Story of a City in Turmoil and a Message of Communal Harmony Relevant 76 Years Later](https://thewire.in/books/the-story-of-a-city-in-turmoil-and-a-message-of-communal-harmony-relevant-76-years-later)
+
+No Article text 
+Nanak Singh's A Game of Fire is the sequel to his novel Hymns of Blood originally published in Punjabi and translated by his grandson Navdeep Suri.
+
+2024-01-21T16:15:10+05:30
+### [Theologically Determined Politics Weakens Representative Government](https://thewire.in/government/theologically-determined-politics-weakens-representative-government)
+
+No Article text 
+The active involvement of the state and of the ruling leaders occupying constitutional positions is an unmistakable assault on India's secular values.
+
+2024-01-21T15:45:48+05:30
+### [Girish Karnad and The Mahabharata](https://thewire.in/culture/girish-karnad-and-the-mahabharata)
+
+No Article text 
+Karnad had an abiding, overarching interest in the central story of the Mahabharata war — and its potency in Indian history and society, even in the present day.
+
+2024-01-21T15:15:57+05:30
+### [Israel Now Ranks Among the World’s Leading Jailers of Journalists: Report](https://thewire.in/media/israel-now-ranks-among-the-worlds-leading-jailers-of-journalists-report)
+
+No Article text 
+At the top of the list sits China with 44 in detention, followed by Myanmar (43), Belarus (28), Russia (22), and Vietnam (19). Israel and Iran share sixth place with 17 each.
+
+2024-01-21T14:45:19+05:30
+### [Only One of 5 SC Judges Who Passed Ayodhya Verdict to Attend Ram Temple Ceremony](https://thewire.in/law/only-one-of-5-sc-judges-who-passed-ayodhya-verdict-to-attend-ram-temple-ceremony)
+
+No Article text 
+Justice Bhushan, who is currently the chairman of the National Company Law Appellate Tribunal, has said that he will be going to Ayodhya on Sunday to attend the “historic event”.
+
+2024-01-21T14:15:48+05:30
+### [Looking Into Ayodhya's Ongoing Statue Politics](https://thewire.in/politics/looking-into-ayodhyas-ongoing-statue-politics)
+
+No Article text 
+After coming to power in Uttar Pradesh in 2017, the Adityanath government had announced the installation of ambitious statues in Ayodhya. Contradictions and different interests, however, have left these plans at a standstill.
+
+2024-01-21T13:45:39+05:30
+### [Indian Civilisation Is Being Disrobed in the City of Ram](https://thewire.in/religion/indian-civilisation-is-being-disrobed-in-the-city-of-ram)
+
+No Article text 
+The Ayodhya assembly is founded on untruth and adharma. What its courtiers term as the triumph of truth has emerged from deceit and brute force.
+
+2024-01-21T13:15:20+05:30
+### ['Akhand Bharat' Will Be Formed Again, Says MP's BJP CM Mohan Yadav](https://thewire.in/politics/akhand-bharat-will-be-formed-again-says-mps-bjp-cm-mohan-yadav)
+
+No Article text 
+He said the Ram Mandir is the first step towards a “Ram Rajya (ideal state)” and a possible recovery from the losses made by India after the partition in 1947 when “India lost Sindh, Punjab was divided, and Pakistan was formed”.
+
+2024-01-21T12:45:17+05:30
+### [What Happens in Ayodhya Doesn’t Stay in Ayodhya](https://thewire.in/gender/what-happens-in-ayodhya-doesnt-stay-in-ayodhya)
+
+No Article text 
+Traditional gendered hierarchies remain firmly in place both on the streets and in the temple in Ayodhya.
+
+2024-01-21T12:20:08+05:30
+### [AIIMS Revokes Decision on Ram Mandir Event Holiday, 3 Other Centre-Run Hospitals Yet to Do So](https://thewire.in/government/hospitals-january-22-ram-temple-holiday-surgeries-opd)
+
+No Article text 
+The Indian Medical Association president said that 'January 22 is a pious day' and the organisation neither supports nor opposes this decision.
+
+2024-01-21T12:15:25+05:30
+### [Watch | Indians, Episode 3: The Mauryans and Megasthenes](https://thewire.in/history/watch-indians-episode-3-the-mauryans-and-megasthenes)
+
+No Article text 
+From the Mauryan period, we get monumental stone art and stunning sculpture, such as of Sanchi and Bharhut stupas, some with clear continuities with pre-Aryan forms and aesthetics.
+
+2024-01-21T11:45:12+05:30
+### [Netflix's Quick Capitulation in Pulling Down 'Annapoorani' Sets a Grim Precedent](https://thewire.in/film/netflix-annapoorani-grim-precedent)
+
+No Article text 
+The film was even certified by the CBFC, which has been made compulsory for OTT platforms. Yet complaints from Hindutva groups were enough to make Netflix take the movie down.
+
+2024-01-21T11:22:54+05:30
+### ['Fencing Border with Myanmar, Ending Free Movement Regime Soon': Amit Shah](https://thewire.in/government/fencing-border-with-myanmar-ending-free-movement-regime-soon-amit-shah)
+
+No Article text 
+What the Union home minister has said amounts to a reversal of the policy agreed upon in 2018 as part of India’s Look East Policy.
+
+2024-01-21T10:59:29+05:30
+### [The Likes of Champat Rai Never Worked for India's Harmony – But Now They Can't Even Unite Hindus](https://thewire.in/religion/champat-rai-ayodhya-ram-temple-shaiva)
+
+No Article text 
+Champat Rai's attitude towards Sanyasis, Shaivites and Shaktas goes against Hindu traditions.
+
+2024-01-21T10:14:44+05:30
+### [Must Justice Have a Colour?](https://thewire.in/law/must-justice-have-a-colour)
+
+No Article text 
+The law must arbiter between our mutual prejudices. It must be above what limits us.
+
+2024-01-21T09:00:29+05:30
+### [Hospital Holidays to Shutting Down Meat Shops, a List of Govt Action Surrounding Ram Temple Event](https://thewire.in/government/ram-temple-ayodhya-government-modi-action-meat-hospital-half-day)
+
+No Article text 
+The Modi-led Union and BJP governments in states have taken on the responsibility of generating a brouhaha with official sanction over what is perceptibly a function for a section of a single religion.
+
+2024-01-21T08:29:59+05:30
+### [Exclusive | Secrecy, Political Rivalry, Egos Problems for Project Cheetah: South African Expert](https://thewire.in/environment/exclusive-secrecy-political-rivalry-egos-problems-for-project-cheetah-south-african-expert)
+
+No Article text 
+Adrian Tordiffe spoke to The Wire about why he has said at least two of the cheetah deaths were avoidable, why he is no longer associated with the project and more.
+
+2024-01-21T08:13:53+05:30
+### [Information Blackout on Cheetahs' Health and Status Hurts Them, Some Experts Say Not in Loop](https://thewire.in/environment/cheetah-experts-not-in-loop-information-deaths)
+
+No Article text 
+Namibian and South African cheetah experts told 'The Wire' that they are not getting information about the animals and their health status from Indian authorities, and know about developments only from media reports.
+
+2024-01-21T07:00:52+05:30
+### [As Ram Temple Consecration Inches Closer, Fear Lurks in Minds of 4 Lakh Muslims in Ayodhya District](https://thewire.in/security/as-ram-temple-event-inches-closer-fear-lurks-in-the-minds-of-4-lakh-muslims-in-ayodhya-district)
+
+No Article text 
+With gun-toting policemen walking down the streets and Hindus from across the country camping in Ayodhya, Muslims despite being assured by the authorities are in a state of fear, recalling the horror of 1992 and its aftermath.
+
+2024-01-21T07:00:28+05:30
+### ['A Lok Sabha Election Is a Luxury Bharat Can Do Without'](https://thewire.in/humour/a-lok-sabha-election-is-a-luxury-bharat-can-do-without)
+
+No Article text 
+From the Vishwaguru Archives: The following communication, addressed to the Honourable President of India, reportedly landed in her office and is now being examined by the Competent Authority.
+
 2024-01-20T21:07:04+05:30
 ### [Jaishankar Meets Palestinian Foreign Minister, Reaffirms India's Support for Two-State Solution](https://thewire.in/diplomacy/jaishankar-meets-palestinian-foreign-minister-reaffirms-indias-support-for-two-state-solution)
 

@@ -1,3 +1,53 @@
+Sun, 21 Jan 2024 14:47:33 +0000
+### [Vandita Mishra writes: Once upon a temple](https://indianexpress.com/article/opinion/columns/ayodhya-ram-temple-consecration-babri-masjid-9120697/)
+
+Article found but Couldn't summarize
+
+Sun, 21 Jan 2024 12:30:42 +0000
+### [12th Fail distorts UPSC’s recruitment process](https://indianexpress.com/article/opinion/12th-fail-distorts-upscs-recruitment-process-9120289/)
+
+Article found but Couldn't summarize
+
+Sun, 21 Jan 2024 10:30:21 +0000
+### [Ram temple & a quest for resolutions](https://indianexpress.com/article/opinion/columns/ram-temple-ayodhya-quest-resolutions-9120304/)
+
+Article found but Couldn't summarize
+
+Sun, 21 Jan 2024 09:30:41 +0000
+### [Brand Orry: The ‘human startup’, mastering the art of relevance](https://indianexpress.com/article/opinion/columns/orry-internet-bollywood-kwk-human-startup-9120257/)
+
+Article found but Couldn't summarize
+
+Sun, 21 Jan 2024 08:58:46 +0000
+### [Pratap Bhanu Mehta writes: What January 22 is, what it isn’t](https://indianexpress.com/article/opinion/columns/pratap-bhanu-mehta-january-22-ayodhya-ram-temple-9120210/)
+
+Article found but Couldn't summarize
+
+Sun, 21 Jan 2024 02:16:39 +0000
+### [Tavleen Singh writes on Ram Temple consecration: Renaissance, not revenge](https://indianexpress.com/article/opinion/columns/ram-temple-consecration-ceremony-ram-mandir-inauguration-january-22-event-9119475/)
+
+Article found but Couldn't summarize
+
+Sun, 21 Jan 2024 02:15:20 +0000
+### [Anand Teltumbde: Of a frank and fearless mind](https://indianexpress.com/article/opinion/columns/anand-teltumbde-of-a-frank-and-fearless-mind-9119494/)
+
+Article found but Couldn't summarize
+
+Sun, 21 Jan 2024 02:00:46 +0000
+### [The Ram we need](https://indianexpress.com/article/opinion/columns/the-ram-we-need-9119508/)
+
+Article found but Couldn't summarize
+
+Sun, 21 Jan 2024 02:00:11 +0000
+### [The Congress MLA who defied Nehru on Ram Lalla idol](https://indianexpress.com/article/opinion/columns/congress-mla-who-defied-nehru-on-ram-lalla-idol-9119505/)
+
+Article found but Couldn't summarize
+
+Sun, 21 Jan 2024 01:45:25 +0000
+### [P Chidambaram writes: The dazzle of affluent India](https://indianexpress.com/article/opinion/columns/the-dazzle-of-affluent-india-9119480/)
+
+Article found but Couldn't summarize
+
 Sat, 20 Jan 2024 23:02:46 +0000
 ### [The break of new dawn in Ayodhya](https://indianexpress.com/article/opinion/columns/the-break-of-new-dawn-in-ayodhya-9119614/)
 

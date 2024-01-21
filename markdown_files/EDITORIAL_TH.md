@@ -1,3 +1,15 @@
+Mon, 22 Jan 2024 00:30:00 +0530
+### [Democratic backsliding: On the state wielding the FCRA as a weapon](https://www.thehindu.com/opinion/editorial/democratic-backsliding-the-hindu-editorial-on-the-state-wielding-the-fcra-as-a-weapon/article67762270.ece)
+
+Article found but Couldn't summarize 
+Curbs on financing of civil society bodies denote eroding civil liberties
+
+Mon, 22 Jan 2024 00:15:00 +0530
+### [Asia ascendant: On the new Space Race](https://www.thehindu.com/opinion/editorial/asia-ascendant-the-hindu-editorial-on-the-new-space-race/article67762258.ece)
+
+Article found but Couldn't summarize 
+After Japan’s partially successful moon-landing, the new Space Race has Asian countries in the lead
+
 Sat, 20 Jan 2024 00:20:00 +0530
 ### [Gearing up for change: On IMD and weather analyses having  contemporary relevance](https://www.thehindu.com/opinion/editorial/gearing-up-for-change-imd-and-weather-analyses-having-contemporary-relevance/article67756343.ece)
 

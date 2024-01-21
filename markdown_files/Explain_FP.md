@@ -1,3 +1,14 @@
+Sun, 21 Jan 2024 10:17:17 +0530
+### [Can your liver heal itself once you stop drinking alcohol?](https://www.firstpost.com/explainers/can-your-liver-heal-itself-once-you-stop-drinking-alcohol-13625682.html)
+
+As GPT-3.5, I can provide a summary of the article you shared. The article discusses the effects of long-term and heavy alcohol use on the liver. It explains that the liver is the largest internal organ and is responsible for breaking down toxins, including alcohol. Alcohol can cause the liver to become fatty and inflamed, leading to the production of scar tissue. If left unchecked, this can result in cirrhosis, a condition where the liver is extensively scarred. In the late stages of cirrhosis, liver failure can occur, which is a serious and potentially fatal condition. However, there is good news. If someone with a fatty liver stops drinking alcohol for two to three weeks, the liver can heal and return to normal. Even in cases of liver inflammation or mild scarring, noticeable improvements can be seen within seven days of alcohol cessation. For heavy drinkers with more severe scarring or liver failure, giving up alcohol for several years can reduce the risk of worsening liver failure and death. It's important to note that abruptly stopping alcohol consumption can cause alcohol withdrawal, so medical advice should be sought. In addition to liver health, giving up alcohol also has positive effects on sleep, brain function, blood pressure, and reduces the risk of certain types of cancer, heart disease, and stroke. However, it's essential to maintain a balanced lifestyle that includes a healthy diet and regular exercise. So, while the liver has the ability to repair itself to some extent, severe scarring cannot be completely reversed.
+
+Sun, 21 Jan 2024 10:03:30 +0530
+### [In Explainers: Who designed Ayodhya’s Ram temple? Who sculpted the idol?](https://www.firstpost.com/explainers/in-explainers-who-designed-ayodhyas-ram-temple-who-sculpted-the-idol-13634962.html)
+
+Article found but Couldn't summarize 
+In Explainers: Who designed Ayodhya’s Ram temple? Who sculpted the idol?
+
 Sat, 20 Jan 2024 18:09:22 +0530
 ### [In Graphics | The history of the temple town Ayodhya](https://www.firstpost.com/explainers/in-graphics-the-history-of-the-temple-town-ayodhya-13637452.html)
 

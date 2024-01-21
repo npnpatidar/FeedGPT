@@ -1,3 +1,45 @@
+Sun, 21 Jan 2024 23:37:52 +0530
+### [No, Joe Biden’s political career is not going the same way as Jimmy Carter’s did](https://www.livemint.com/opinion/online-views/no-joe-biden-s-political-career-is-not-going-the-same-way-as-jimmy-carter-s-did-11705841563425.html)
+
+Article found but Couldn't summarize 
+History suggests that American voters prefer optimism and that’s clearly what Biden is betting on, while Trump claims that America is suffering from a deep-seated malaise and rages about retribution.
+
+Sun, 21 Jan 2024 23:34:51 +0530
+### [Let’s expand social security: Provident fund reforms are vital for India](https://www.livemint.com/opinion/online-views/lets-expand-social-security-provident-fund-reforms-are-vital-for-india-11705839754187.html)
+
+Article found but Couldn't summarize 
+A five-point agenda to fix the country’s PF scheme could shift 50 million people from informal to formal work. Let’s blend idealism with pragmatism.
+
+Sun, 21 Jan 2024 23:32:02 +0530
+### [Nikki Haley can’t beat Trump in the game of identity politics](https://www.livemint.com/opinion/online-views/nikki-haley-can-t-beat-trump-in-the-game-of-identity-politics-11705839804546.html)
+
+Article found but Couldn't summarize 
+Haley has had no response to Trump’s signalling on her lineage and her campaign seems somewhat ill-equipped to contest her rival’s race plank.
+
+Sun, 21 Jan 2024 23:30:22 +0530
+### [A tale of India’s two big export industries: And a lesson on incentives](https://www.livemint.com/opinion/online-views/a-tale-of-india-s-two-big-export-industries-and-a-lesson-on-incentives-11705839853176.html)
+
+Article found but Couldn't summarize 
+We’re talking about petroleum and IT service exports. Policymakers must not distort incentives too much in favour of industries, but aim to create a level playing field.
+
+Sun, 21 Jan 2024 22:33:57 +0530
+### [Ayodhya will be a shining example of uniting faiths](https://www.livemint.com/opinion/columns/ayodhya-will-be-a-shining-example-of-uniting-faiths-11705856348657.html)
+
+Article found but Couldn't summarize 
+This Ramlala temple represents a fresh but very healthy tradition
+
+Sun, 21 Jan 2024 13:30:05 +0530
+### [Charging Israel with genocide makes a mockery of the ICJ](https://www.livemint.com/opinion/charging-israel-with-genocide-makes-a-mockery-of-the-icj-11705823647458.html)
+
+Article found but Couldn't summarize 
+South Africa’s claim before the ICJ that Israel is committing genocide against the Palestinians obscures the real worry that Israel’s destructive campaign is breaking the laws of war
+
+Sun, 21 Jan 2024 11:56:55 +0530
+### [Maldives hits refresh in ties with China but that’s not all why India must tread carefully](https://www.livemint.com/opinion/maldives-hits-refresh-in-ties-with-china-but-that-s-not-all-why-india-must-tread-carefully-11705816782773.html)
+
+Article found but Couldn't summarize 
+The new administration in Malé seems intent on breaking the Maldives’ identity as a small island state dependent on its larger neighbour for security, and asserting the country’s ability to choose its own path without external pressure or interference
+
 Sat, 20 Jan 2024 13:59:45 +0530
 ### [Interim Budget 2024: Navigating the crossroads](https://www.livemint.com/opinion/first-person/interim-budget-2024-navigating-the-crossroads-11705736216018.html)
 
