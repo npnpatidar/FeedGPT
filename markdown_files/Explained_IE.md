@@ -1,3 +1,33 @@
+Mon, 22 Jan 2024 16:00:51 +0000
+### [PM Modi launches new rooftop solar power scheme: What it is, why it is needed](https://indianexpress.com/article/explained/modi-launches-new-rooftop-solar-scheme-pradhan-mantri-suryodaya-yojana-9122514/)
+
+Article found but Couldn't summarize
+
+Mon, 22 Jan 2024 14:33:10 +0000
+### [Rahul Gandhi prevented from visiting Batadrava Than: Significance of this Assam shrine](https://indianexpress.com/article/explained/explained-politics/rahul-gandhi-prevented-batadrava-than-significance-9122417/)
+
+Article found but Couldn't summarize
+
+Mon, 22 Jan 2024 14:14:15 +0000
+### [Sri Lankan Catholic church moves to declare Easter attack victims as ‘saints’: What this means](https://indianexpress.com/article/explained/sri-lankan-church-easter-attack-saints-meaning-9122350/)
+
+As GPT-3.5, I can provide a summary of the article you shared. The Catholic church in Sri Lanka is planning to declare the 273 people who were killed in the 2019 Easter Sunday suicide bombings as "saints." The process of declaring saints in the Catholic Church involves verifying their virtuous lives, any miracles they may have performed, and their ascension to heaven after death. The bishop of their diocese initiates the process, and it is then reviewed by the Congregation for the Causes of Saints at the Vatican. If approved, the person is recognized as a "Servant of God" and later as "Venerable" by the Pope. Beatification and canonization require the confirmation of miracles attributed to the person. Martyrs, on the other hand, can be beatified without a verified miracle but still require canonization to be declared saints. In the case of the Easter Sunday victims, the Catholic church plans to declare them as saints on April 21, 2024, five years after their sacrifice.
+
+Mon, 22 Jan 2024 12:48:29 +0000
+### [Warming up to climate change: What is the 1.5 degree Celsius threshold, and what happens when we breach it?](https://indianexpress.com/article/explained/explained-climate/what-is-the-1-5-degree-celsius-threshold-9122204/)
+
+Article found but Couldn't summarize
+
+Mon, 22 Jan 2024 06:00:05 +0000
+### [How food inflation in India has been de-globalised, what factors can drive prices now](https://indianexpress.com/article/explained/explained-economics/food-inflation-india-factors-reasons-9121289/)
+
+Article found but Couldn't summarize
+
+Mon, 22 Jan 2024 01:38:04 +0000
+### [Ram temple at Ayodhya: A 200-year journey, with many milestones](https://indianexpress.com/article/explained/ram-temple-at-ayodhya-a-200-year-journey-with-many-milestones-9120892/)
+
+Article found but Couldn't summarize
+
 Sun, 21 Jan 2024 14:17:51 +0000
 ### [What we know about multivitamins and memory](https://indianexpress.com/article/explained/explained-health/multivitamins-memory-impact-health-9120654/)
 

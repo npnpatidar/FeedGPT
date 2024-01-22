@@ -1,3 +1,9 @@
+Mon, 22 Jan 2024 11:44:41 +0530
+### [Quietude enhances Priyadarsini Govind’s performance](https://www.thehindu.com/entertainment/dance/quietude-enhances-priyadarsini-govinds-performance/article67747846.ece)
+
+Article found but Couldn't summarize 
+The senior Bharatanatyam dancer seems to have internalised every nuance of her craft
+
 Sat, 20 Jan 2024 17:02:04 +0530
 ### [‘The Beekeeper’ movie review: A satisfying, pulpy action thriller from the ever-reliable Jason Statham](https://www.thehindu.com/entertainment/movies/the-beekeeper-film-review/article67759276.ece)
 

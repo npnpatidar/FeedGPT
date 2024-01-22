@@ -1,3 +1,33 @@
+Mon, 22 Jan 2024 18:24:22 +0530
+### [Weather report: North India will continue to shiver, South experiences short, mild winters](https://www.firstpost.com/opinion/weather-report-north-india-will-continue-to-shiver-south-experiences-short-mild-winters-13643292.html)
+
+Article found but Couldn't summarize 
+Weather report: North India will continue to shiver, South experiences short, mild winters
+
+Mon, 22 Jan 2024 16:25:26 +0530
+### [Politics turns populist, takes right turn as world goes for elections](https://www.firstpost.com/opinion/politics-turns-populist-takes-right-turn-as-world-goes-for-elections-13642912.html)
+
+Article found but Couldn't summarize 
+Politics turns populist, takes right turn as world goes for elections
+
+Mon, 22 Jan 2024 15:05:34 +0530
+### [No more #BoycottBollywood | Pathaan, Jawan, Gadar, Animal, Dunki: How Bollywood came back to life in 2023](https://www.firstpost.com/entertainment/no-more-boycottbollywood-pathaan-jawan-gadar-animal-dunki-how-bollywood-came-back-to-life-in-2023-13642432.html)
+
+Article found but Couldn't summarize 
+No more #BoycottBollywood | Pathaan, Jawan, Gadar, Animal, Dunki: How Bollywood came back to life in 2023
+
+Mon, 22 Jan 2024 10:37:50 +0530
+### [Beyond Ayodhya Ram Mandir: 5 things Bharat must change as a Hindu rashtra](https://www.firstpost.com/opinion/beyond-ayodhya-ram-mandir-5-things-bharat-must-change-as-a-hindu-rashtra-13640862.html)
+
+Article found but Couldn't summarize 
+Beyond Ayodhya Ram Mandir: 5 things Bharat must change as a Hindu rashtra
+
+Mon, 22 Jan 2024 08:27:06 +0530
+### [January 22 is the true discovery of India as Bharat reconnects with its sanatan past](https://www.firstpost.com/opinion/january-22-is-the-true-discovery-of-india-as-bharat-reconnects-with-its-sanatan-past-13640362.html)
+
+Article found but Couldn't summarize 
+January 22 is the true discovery of India as Bharat reconnects with its sanatan past
+
 Sun, 21 Jan 2024 20:13:28 +0530
 ### [Hindu Kush: The epicentre of terror, drugs and weapons demands India’s vigilant gaze](https://www.firstpost.com/opinion/hindu-kush-the-epicentre-of-terrorism-drugs-weapons-and-invaders-demands-new-delhis-vigilant-gaze-13639782.html)
 

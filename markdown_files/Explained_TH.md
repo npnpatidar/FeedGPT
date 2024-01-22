@@ -1,3 +1,15 @@
+Mon, 22 Jan 2024 22:25:11 +0530
+### [On equal access to benefits for all Scheduled Caste communities | Explained](https://www.thehindu.com/news/national/on-equal-access-to-benefits-for-all-scheduled-caste-communities-explained/article67766686.ece)
+
+Article found but Couldn't summarize 
+Why has a high-level committee been formed post Prime Minister Narendra Modi’s promise to the Madiga community in Telangana? What has the community been demanding since 1994? Can Parliament sub-categorise castes within the Scheduled Castes?
+
+Mon, 22 Jan 2024 10:30:00 +0530
+### [What is the disagreement between Hindustan Unilever and its distributors over margins?](https://www.thehindu.com/business/Industry/what-is-the-disagreement-between-hindustan-unilever-and-its-distributors-over-margins/article67743938.ece)
+
+Article found but Couldn't summarize 
+Distributors are planning a phased boycott of Hindustan Unilever products due to a change in margins given to them.
+
 Sun, 21 Jan 2024 04:20:00 +0530
 ### [What are labour rules for workers abroad? | Explained](https://www.thehindu.com/news/national/what-are-labour-rules-for-workers-abroad-explained/article67760523.ece)
 

@@ -1,3 +1,38 @@
+Mon, 22 Jan 2024 08:43:40 +0000
+### [Devdutt Pattanaik writes: The many Rams outside Ayodhya we haven’t heard of](https://indianexpress.com/article/opinion/columns/devdutt-pattanaik-ram-beyond-the-hindi-belt-9121753/)
+
+Article found but Couldn't summarize
+
+Mon, 22 Jan 2024 07:18:58 +0000
+### [Ahead of Ayodhya temple consecration, Amish writes: India’s fascination with Ram stems from its faith in him as the ideal ruler](https://indianexpress.com/article/opinion/ahead-of-the-ayodhya-temple-consecration-amish-writes-indias-fascination-with-ram-stems-from-its-faith-in-him-as-the-ideal-ruler-9121553/)
+
+Article found but Couldn't summarize
+
+Mon, 22 Jan 2024 02:25:05 +0000
+### [January 22, Forty Years Ago: PM on Akali demands](https://indianexpress.com/article/opinion/columns/january-22-forty-years-ago-pm-on-akali-demands-9120823/)
+
+Article found but Couldn't summarize
+
+Mon, 22 Jan 2024 02:05:25 +0000
+### [In Viksit Bharat, rural real wages are in decline](https://indianexpress.com/article/opinion/columns/in-viksit-bharat-rural-real-wages-are-in-decline-9120808/)
+
+Article found but Couldn't summarize
+
+Mon, 22 Jan 2024 02:00:50 +0000
+### [No, smartphones cannot replace classrooms. Here’s why](https://indianexpress.com/article/opinion/columns/aser-2023-report-smartphone-usage-in-classroom-interner-usage-in-classroom-multimedia-classroom-skill-development-9120801/)
+
+Article found but Couldn't summarize
+
+Mon, 22 Jan 2024 01:25:40 +0000
+### [Express View on stock markets: Up and down](https://indianexpress.com/article/opinion/editorials/express-view-on-stock-markets-up-and-down-9120825/)
+
+Article found but Couldn't summarize
+
+Mon, 22 Jan 2024 01:15:45 +0000
+### [Express View on antibiotics: The right treatment](https://indianexpress.com/article/opinion/editorials/express-view-on-antibiotics-the-right-treatment-9120832/)
+
+Article found but Couldn't summarize
+
 Sun, 21 Jan 2024 14:47:33 +0000
 ### [Vandita Mishra writes: Once upon a temple](https://indianexpress.com/article/opinion/columns/ayodhya-ram-temple-consecration-babri-masjid-9120697/)
 
