@@ -1,3 +1,9 @@
+Mon, 22 Jan 2024 06:00:04 +0530
+### [Can Ayodhya be India's biggest tourist hotspot?](https://www.livemint.com/opinion/online-views/can-ayodhya-be-indias-biggest-tourist-hotspot-11705841527790.html)
+
+Article found but Couldn't summarize 
+Religious tourism holds high market potential and a town that blends Modi’s vision in key ways is now set for a commercial boom. Think of Say’s Law: Supply spells its own demand.
+
 Sun, 21 Jan 2024 23:37:52 +0530
 ### [No, Joe Biden’s political career is not going the same way as Jimmy Carter’s did](https://www.livemint.com/opinion/online-views/no-joe-biden-s-political-career-is-not-going-the-same-way-as-jimmy-carter-s-did-11705841563425.html)
 

@@ -1,3 +1,9 @@
+Sun, 21 Jan 2024 17:30:38 +0530
+### [FirstUp: Ram Mandir consecration ceremony and much more… What to expect today](https://www.firstpost.com/explainers/firstup-ram-mandir-consecration-ceremony-and-much-more-what-to-expect-today-13639902.html)
+
+Article found but Couldn't summarize 
+FirstUp: Ram Mandir consecration ceremony and much more… What to expect today
+
 Sun, 21 Jan 2024 10:17:17 +0530
 ### [Can your liver heal itself once you stop drinking alcohol?](https://www.firstpost.com/explainers/can-your-liver-heal-itself-once-you-stop-drinking-alcohol-13625682.html)
 
