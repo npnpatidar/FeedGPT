@@ -1,3 +1,9 @@
+Mon, 22 Jan 2024 21:46:18 +0530
+### [FirstUp: Ram temple opens to public, PM at Red Fort, Trump vs Haley in New Hampshire... today's big stories](https://www.firstpost.com/explainers/firstup-ram-temple-opens-to-public-pm-at-red-fort-trump-vs-haley-in-new-hampshire-todays-big-stories-13644312.html)
+
+Article found but Couldn't summarize 
+FirstUp: Ram temple opens to public, PM at Red Fort, Trump vs Haley in New Hampshire... today's big stories
+
 Mon, 22 Jan 2024 20:39:30 +0530
 ### [Shabari, Jatayu &amp; more: The Ramayana characters mentioned by PM Modi in Ayodhya speech](https://www.firstpost.com/explainers/shabari-jatayu-more-the-ramayana-characters-mentioned-by-pm-modi-in-ayodhya-speech-13644122.html)
 
