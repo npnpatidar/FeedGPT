@@ -1,3 +1,9 @@
+Tue, 23 Jan 2024 18:47:51 +0530
+### [‘True Detective: Night Country’ Episodes 1 and 2 review: Jodie Foster leads a chilling, twisted mystery](https://www.thehindu.com/entertainment/movies/true-detective-night-country-episodes-1-and-2-review-jodie-foster-leads-a-chilling-twisted-mystery/article67768821.ece)
+
+Article found but Couldn't summarize 
+A sunless Alaska, corpsicles, and an annoyed Jodie Foster indicate immense potential for a successful fourth instalment of the ‘True Detective’ series
+
 Mon, 22 Jan 2024 11:44:41 +0530
 ### [Quietude enhances Priyadarsini Govind’s performance](https://www.thehindu.com/entertainment/dance/quietude-enhances-priyadarsini-govinds-performance/article67747846.ece)
 

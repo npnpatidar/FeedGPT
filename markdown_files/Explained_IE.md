@@ -1,3 +1,33 @@
+Tue, 23 Jan 2024 16:28:32 +0000
+### [Bharat Ratna to Karpoori Thakur: Why the Jannayak’s politics and policies still resonate](https://indianexpress.com/article/explained/explained-politics/bharat-ratna-to-karpoori-thakur-his-politics-policies-9124428/)
+
+Article found but Couldn't summarize
+
+Tue, 23 Jan 2024 14:17:09 +0000
+### [US Presidential elections 2024: What is the New Hampshire primary — and why is it significant?](https://indianexpress.com/article/explained/explained-global/us-presidential-elections-2024-what-is-the-new-hampshire-primary-and-why-is-it-significant-9124201/)
+
+Article found but Couldn't summarize
+
+Tue, 23 Jan 2024 14:15:38 +0000
+### [From Calcutta to Berlin via Kabul: How Subhas Bose outwitted the British to escape to Germany](https://indianexpress.com/article/explained/explained-history/how-subhas-bose-outwitted-the-british-to-escape-to-germany-9124203/)
+
+Netaji Subhas Chandra Bose, a prominent figure in India's fight for independence, had a remarkable escape from house arrest in Calcutta during World War II. He traveled from Calcutta to Gomoh to Peshawar to Kabul to Russia, changing his identity three times along the way. Bose's escape involved careful planning and the assistance of individuals like Mian Akbar Khan. Eventually, he reached Berlin with the help of the German embassy and the support of Italy and Russia. It was a daring and resourceful journey that allowed Bose to continue his efforts for India's freedom.
+
+Tue, 23 Jan 2024 13:21:48 +0000
+### [Looking for ‘dragon babies’: Could China see more births in 2024?](https://indianexpress.com/article/explained/explained-global/dragon-babies-china-births-deaths-population-9124091/)
+
+Article found but Couldn't summarize
+
+Tue, 23 Jan 2024 09:46:13 +0000
+### [How Bose’s INA helped India win independence — but not on the battlefield](https://indianexpress.com/article/explained/explained-history/subhas-chandra-bose-ina-helped-win-india-independence-not-battlefield-9123486/)
+
+Article found but Couldn't summarize
+
+Tue, 23 Jan 2024 05:26:53 +0000
+### [What led to the collapse of mega Sony-Zee merger plan?](https://indianexpress.com/article/explained/explained-economics/sony-zee-merger-plan-collapse-reasons-9123020/)
+
+Article found but Couldn't summarize
+
 Mon, 22 Jan 2024 16:00:51 +0000
 ### [PM Modi launches new rooftop solar power scheme: What it is, why it is needed](https://indianexpress.com/article/explained/modi-launches-new-rooftop-solar-scheme-pradhan-mantri-suryodaya-yojana-9122514/)
 

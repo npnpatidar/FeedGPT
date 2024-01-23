@@ -1,3 +1,51 @@
+Tue, 23 Jan 2024 22:15:36 +0530
+### [Vantage | Why RonDeSantis chose to drop out of the US Presidential race](https://www.firstpost.com/opinion/vantage-why-rondesantis-chose-to-drop-out-of-the-us-presidential-race-13648392.html)
+
+Article found but Couldn't summarize 
+Vantage | Why RonDeSantis chose to drop out of the US Presidential race
+
+Tue, 23 Jan 2024 21:20:47 +0530
+### [Vantage | Why investors are pulling money out of China's stock markets](https://www.firstpost.com/opinion/vantage-why-investors-are-pulling-money-out-of-chinas-stock-markets-13648372.html)
+
+Article found but Couldn't summarize 
+Vantage | Why investors are pulling money out of China's stock markets
+
+Tue, 23 Jan 2024 18:40:40 +0530
+### [A ‘minimalist’ version of India’s independence  is no tribute to Subhas Chandra Bose](https://www.firstpost.com/opinion/a-minimalist-version-of-indias-independence-is-no-tribute-to-subhas-chandra-bose-13648012.html)
+
+Article found but Couldn't summarize 
+A ‘minimalist’ version of India’s independence  is no tribute to Subhas Chandra Bose
+
+Tue, 23 Jan 2024 17:35:39 +0530
+### [Right Word | From cultural to spiritual nationalism: PM Modi’s Ayodhya speech marks paradigm shift](https://www.firstpost.com/opinion/right-word-from-cultural-to-spiritual-nationalism-pm-modis-ayodhya-speech-marks-paradigm-shift-13647582.html)
+
+Article found but Couldn't summarize 
+Right Word | From cultural to spiritual nationalism: PM Modi’s Ayodhya speech marks paradigm shift
+
+Tue, 23 Jan 2024 16:22:15 +0530
+### [Vantage | Six ways new Ram Temple will leave its impact on Ayodhya, India and the world](https://www.firstpost.com/opinion/vantage-six-ways-new-ram-temple-will-leave-its-impact-on-ayodhya-india-and-the-world-13646632.html)
+
+Article found but Couldn't summarize 
+Vantage | Six ways new Ram Temple will leave its impact on Ayodhya, India and the world
+
+Tue, 23 Jan 2024 14:53:02 +0530
+### [Vantage | Who gets access to your digital presence after you die?](https://www.firstpost.com/opinion/vantage-who-gets-access-to-your-digital-presence-after-you-die-13646162.html)
+
+Article found but Couldn't summarize 
+Vantage | Who gets access to your digital presence after you die?
+
+Tue, 23 Jan 2024 14:38:47 +0530
+### [Vantage | Why Ram Temple in Ayodhya is about emotions but also big numbers](https://www.firstpost.com/opinion/vantage-why-ram-temple-in-ayodhya-is-about-emotions-but-also-big-numbers-13646132.html)
+
+Article found but Couldn't summarize 
+Vantage | Why Ram Temple in Ayodhya is about emotions but also big numbers
+
+Tue, 23 Jan 2024 11:08:02 +0530
+### [PM Modi is right Ram belongs to everyone, look at Indonesia](https://www.firstpost.com/opinion/pm-modi-is-right-ram-belongs-to-everyone-look-at-indonesia-13644962.html)
+
+Article found but Couldn't summarize 
+PM Modi is right Ram belongs to everyone, look at Indonesia
+
 Mon, 22 Jan 2024 18:24:22 +0530
 ### [Weather report: North India will continue to shiver, South experiences short, mild winters](https://www.firstpost.com/opinion/weather-report-north-india-will-continue-to-shiver-south-experiences-short-mild-winters-13643292.html)
 

@@ -1,3 +1,165 @@
+2024-01-24T00:44:09+05:30
+### [Socialist Icon and Former Bihar CM Karpoori Thakur Posthumously Awarded Bharat Ratna](https://thewire.in/politics/karpoori-thakur-bharat-ratna)
+
+No Article text 
+It remains to be seen how the Lalu-Nitish duo will respond to the move politically ahead of the Lok Sabha elections, as the decision is likely to unsettle the INDIA parties, which have foregrounded the demand for a caste census in recent months.
+
+2024-01-23T23:53:30+05:30
+### [Maldives Confirms Port Call By Chinese Research Vessel](https://thewire.in/south-asia/maldives-confirms-port-call-by-chinese-research-vessel)
+
+No Article text 
+There is still no indication whether India has registered any concern with the Maldives over the scheduled port call.
+
+2024-01-23T21:55:15+05:30
+### [MHA Issues Notice For Cancelling French Journalist's OCI Card; She Denies All Charges](https://thewire.in/media/mha-issues-notice-for-cancelling-french-journalist-oci-card)
+
+No Article text 
+Government sources have claimed that the case against Vanessa Dougnac for violating visa rules is strong.
+
+2024-01-23T20:43:24+05:30
+### [Watch | Bharat Jodo Nyay Yatra Stands for Endangered Constitutional Values: Yogendra Yadav](https://thewire.in/video/watch-bharat-jodo-nyay-yatra-yogendra-yadav-assam)
+
+No Article text 
+The political scientist also said that Assam chief minister Himanta Biswa Sarma had gone out of his way to provoke the yatra in his state.
+
+2024-01-23T18:10:54+05:30
+### [Bharat Jodo Nyay Yatra: Rahul Gandhi Says Will Not be ‘Intimidated’ by Assam CM’s ‘Disruptions’](https://thewire.in/politics/bharat-jodo-nyay-yatra-rahul-gandhi-says-will-not-be-intimidated-by-assam-cms-disruptions)
+
+No Article text 
+Himanta Biswa Sarma directed the Assam police to lodge an FIR against Gandhi for ‘provoking the crowd’ on Tuesday after Congress workers clashed with the police near Guwahati and removed barricades that had been placed to stopping the yatra
+
+2024-01-23T17:30:57+05:30
+### [UK Government’s Plans to Deport Refugees to Rwanda Hits a Blockage](https://thewire.in/world/uk-governments-plans-to-deport-refugees-to-rwanda-hits-a-blockage)
+
+No Article text 
+While non-binding, the vote on the new UK-Rwanda treaty gives an indication of the level of opposition Rishi Sunak is likely to face when the Bill is debated in the Lords.
+
+2024-01-23T17:00:16+05:30
+### [Violent Clashes, Crackdown on Documentary Screening on Day of Ram Temple Event](https://thewire.in/communalism/violent-clashes-crackdown-on-documentary-screening-on-day-of-ram-temple-event)
+
+No Article text 
+Violence broke out in parts of Maharashtra, Gujarat and Madhya Pradesh.
+
+2024-01-23T17:00:10+05:30
+### [A Letter to the Nation: May We Choose Sanity Over Madness](https://thewire.in/politics/a-letter-to-the-nation-may-we-choose-sanity-over-madness)
+
+No Article text 
+Will our children grow up in an India where religion subsumes all our identities, conversations, rules of life – relegating others to a sub-human, sub-standard existence?
+
+2024-01-23T16:30:04+05:30
+### [April 16 'Poll Date'? Delhi Chief Electoral Officer Says 'Tentative', Only for Officials to 'Plan Activity'](https://thewire.in/government/april-16-poll-date-delhi-chief-electoral-officer-says-tentative-only-for-officials-to-plan-activity)
+
+No Article text 
+A circular referring to a “poll date” to Delhi’s 11 district election officers has generated ripples.
+
+2024-01-23T16:11:37+05:30
+### [Bihar Caste Survey: The Who’s Who in the Data | Bhishti](https://thewire.in/caste/bihar-caste-survey-the-whos-who-in-the-data-bhishti)
+
+No Article text 
+The group is not counted in the Bihar caste survey.
+
+2024-01-23T16:00:46+05:30
+### [FCRA Should Be an Instrument of Financial Accountability Not of Security](https://thewire.in/law/fcra-should-be-an-instrument-of-financial-accountability-not-of-security)
+
+No Article text 
+Amending the Foreign Exchange Management Act (FEMA) with some relevant clauses for the social sector could maintain financial accountability without bringing in security considerations for organisations. However, this did not find favour with the government.
+
+2024-01-23T15:39:40+05:30
+### [To Be a Minority in a Majority: A Missive from 1993](https://thewire.in/religion/1993-babri-masjid-ram-temple-religion)
+
+No Article text 
+Scholar and activist K. Saradamoni wrote the following essay on religion and religious identity in 1993, after the demolition of the Babri Masjid.
+
+2024-01-23T15:30:10+05:30
+### [Three Factors Indicate Sluggish Consumption in Rural Areas in Contrast With Urban Growth](https://thewire.in/economy/indian-economy-consumption-in-rural-areas-in-contrast-with-urban-growth)
+
+No Article text 
+Several factors, such as a decline in two-wheeler sales, the growing demand for jobs under MGNREGA and the FMCG sector grappling with persistent low demand in rural markets, suggest a widening gap.
+
+2024-01-23T15:00:00+05:30
+### [A Time of Contempt](https://thewire.in/communalism/a-time-of-contempt)
+
+No Article text 
+Ruled by liars and cowards, India has been reduced to being a country where we go to bed praying that our government does not embarrass us further, and yet, inevitably, it does.
+
+2024-01-23T14:30:51+05:30
+### [Gujarat Lifts Its Alcohol Ban for Some: A Sign of What Lies Ahead](https://thewire.in/government/gujarat-lifts-its-alcohol-ban-for-some-a-sign-of-what-lies-ahead)
+
+No Article text 
+As a news report put it, this was done to 'attract global financial institutions,' and to that end 'alcohol would be allowed at hotels/restaurants/clubs offering ‘wine and dine’ in Gujarat International Finance Tec-City (or GIFT City) near the state capital of Gandhinagar.’
+
+2024-01-23T13:55:31+05:30
+### [Manipur: CM Biren Singh Confirms Imposition of Article 355, Draws Flak Over Secrecy](https://thewire.in/government/manipur-cm-biren-singh-confirms-imposition-of-article-355-draws-flak-over-secrecy)
+
+No Article text 
+Home ministry officials arrived in the state on Monday to hold consultations with the state government, community leaders, and other stakeholders to compile a comprehensive list of demands put forth by each side.
+
+2024-01-23T13:43:24+05:30
+### [In the UK, a TV Drama Has Led to a Reckoning](https://thewire.in/film/mr-bates-vs-the-post-office)
+
+No Article text 
+That a drama addressing a serious miscarriage of justice has rallied public and political attention is testament to the political power of art.
+
+2024-01-23T13:35:00+05:30
+### [BJP-RSS's Structural Assault on Hinduism and the Advent of Hindu-Vatican](https://thewire.in/religion/reading-into-bjp-rsss-structural-assault-on-hinduism-and-the-advent-of-hindu-vatican)
+
+No Article text 
+The BJP has successfully leveraged Ram Mandir to effect a fundamental restructuring of Hinduism, which has no ecclesiastical order, absolutist establishment, governing organisation, or binding holy book. All of this could change.
+
+2024-01-23T13:09:28+05:30
+### [As Mamata Hints at Going it Alone, Bengal Braces for Likely Triangular Contest in 2024](https://thewire.in/politics/as-mamata-hints-at-going-it-alone-bengal-braces-for-likely-triangular-contest-in-2024)
+
+No Article text 
+The BJP is expected to take the Hindu polarisation campaign to higher pitches.
+
+2024-01-23T12:55:38+05:30
+### [How the Union Govt Is Slowly but Surely Blurring India's Federal Structure](https://thewire.in/government/how-the-union-govt-is-slowly-but-surely-blurring-indias-federal-structure)
+
+No Article text 
+Responsibilities of the state governments are being slowly overtaken by the Centre, keen as it is to take credit for all welfare programmes. Meanwhile, state coffers are not getting the assistance they need from the Union government.
+
+2024-01-23T12:25:05+05:30
+### [Three More Cheetah Cubs Born in Kuno National Park](https://thewire.in/environment/three-more-cheetah-cubs-born-in-kuno-national-park)
+
+No Article text 
+The new litter of cubs born to cheetah Jwala brings the tally of cheetah cubs in Kuno to seven.
+
+2024-01-23T11:56:41+05:30
+### [Dharmic SEZ and 'Hindu Renaissance': Ram Rajya for the Rich](https://thewire.in/communalism/ayodhya-land-wealth-babri-masjid-ram-temple)
+
+No Article text 
+It is common knowledge that land has been usurped by the VHP-RSS combine and that wealth has gone to the rich in the name of development.
+
+2024-01-23T11:10:07+05:30
+### ['Beaten Up By Same People Who Attended Ram Temple Rallies,' Alleges Chhattisgarh Christian Group](https://thewire.in/communalism/chhattisgarh-communal-christian-hindutva-crime)
+
+No Article text 
+'They beat us and then dragged the women who tried to stop them onto the road,' said an alleged victim, who added that the pastor had to undergo treatment at a hospital after the beating.
+
+2024-01-23T10:41:45+05:30
+### ['Is This Their Independence Day?': Mamata Banerjee Takes Potshots at Ram Temple Event](https://thewire.in/politics/ram-temple-mamata-banerjee-modi)
+
+No Article text 
+The TMC chief claimed her's was the only party to hit the streets against NRC and also against the Ram Temple inauguration.
+
+2024-01-23T10:10:21+05:30
+### [Marathwada: 1,088 Farmers Died by Suicide in 2023, 65 More Than 2022](https://thewire.in/agriculture/marathwada-1088-farmers-died-by-suicide-in-2023-65-more-than-2022)
+
+No Article text 
+Since the Narendra Modi government came to power in the Centre in 2014, an average of 30 farmers have died by suicide per day across the country.
+
+2024-01-23T08:53:24+05:30
+### [In Grand Narendra Modi Show, BJP's Temple Movement Stalwarts Get the Snub](https://thewire.in/communalism/narendra-modi-ayodhya-event-january-22-advani-jodhi-rss-kar-sevak)
+
+No Article text 
+Prime Minister Narendra Modi stole the show right from the time of his landing in Ayodhya. He thanked the judiciary in a long speech but missed the names of a few key people.
+
+2024-01-23T07:59:14+05:30
+### [To Combat Communal Hysteria, the Idea of Inclusive India Must Be Reinforced](https://thewire.in/communalism/to-combat-hysteria-around-ram-mandir-an-inclusive-idea-of-india-must-be-reinforced)
+
+No Article text 
+The 'idea of India', which stands for equality, liberty, and fraternity, is under threat today. It is time for political forces which support such idea of India must bring together Dalits, Adivasis, minorities, and women to safeguard this nation from the onslaught of communal forces.
+
 2024-01-22T23:16:40+05:30
 ### [Amid Strained Ties With India, Chinese Research Vessel En Route to Maldives](https://thewire.in/diplomacy/amid-strained-ties-with-india-chinese-research-vessel-en-route-to-maldives)
 

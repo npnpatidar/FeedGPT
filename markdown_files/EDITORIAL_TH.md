@@ -1,3 +1,27 @@
+Wed, 24 Jan 2024 01:11:00 +0530
+### [Narrowing field: On 2024 U.S. presidential election’s Republican primaries race](https://www.thehindu.com/opinion/editorial/narrowing-field-on-2024-us-presidential-elections-republican-primaries-race/article67769092.ece)
+
+Article found but Couldn't summarize 
+Trump’s ad hoc policymaking has many takers among Republicans
+
+Wed, 24 Jan 2024 01:06:00 +0530
+### [Limits and borders: On the territorial jurisdiction of the Border Security Force](https://www.thehindu.com/opinion/editorial/limits-and-borders-on-the-territorial-jurisdiction-of-the-border-security-force/article67769125.ece)
+
+Article found but Couldn't summarize 
+Centre must consult States before making decisions that impinge on their powers
+
+Tue, 23 Jan 2024 00:15:00 +0530
+### [From fear to hope: On Ram temple consecration](https://www.thehindu.com/opinion/editorial/ram-temple-inauguration-from-fear-to-hope/article67766427.ece)
+
+Article found but Couldn't summarize 
+The Ram temple must help in healing wounds and creating harmony
+
+Tue, 23 Jan 2024 00:15:00 +0530
+### [Spiking tensions: On peace in Korean Peninsula](https://www.thehindu.com/opinion/editorial/north-korea-and-south-korea-spiking-tensions/article67766445.ece)
+
+Article found but Couldn't summarize 
+Dialling down aggressive rhetoric is crucial for peace in Korean Peninsula
+
 Mon, 22 Jan 2024 00:30:00 +0530
 ### [Democratic backsliding: On the state wielding the FCRA as a weapon](https://www.thehindu.com/opinion/editorial/democratic-backsliding-the-hindu-editorial-on-the-state-wielding-the-fcra-as-a-weapon/article67762270.ece)
 

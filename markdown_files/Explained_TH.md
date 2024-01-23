@@ -1,3 +1,15 @@
+Tue, 23 Jan 2024 10:30:00 +0530
+### [What is end-to-end encryption? How does it secure information? | Explained](https://www.thehindu.com/sci-tech/science/end-to-end-encryption-messaging-apps-explained/article67765395.ece)
+
+Article found but Couldn't summarize 
+There are several ways to encrypt information depending on the level of secrecy and protection required
+
+Tue, 23 Jan 2024 08:30:00 +0530
+### [Why was FCRA registration for several NGOs cancelled? | Explained](https://www.thehindu.com/news/national/why-was-fcra-registration-for-several-ngos-cancelled-explained/article67766734.ece)
+
+Article found but Couldn't summarize 
+Who oversees the Foreign Contribution Regulation Act? How many NGOs have been affected?
+
 Mon, 22 Jan 2024 22:25:11 +0530
 ### [On equal access to benefits for all Scheduled Caste communities | Explained](https://www.thehindu.com/news/national/on-equal-access-to-benefits-for-all-scheduled-caste-communities-explained/article67766686.ece)
 
