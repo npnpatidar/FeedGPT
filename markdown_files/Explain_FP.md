@@ -1,3 +1,87 @@
+Wed, 24 Jan 2024 22:11:54 +0530
+### [Arun Govil &amp; the Ramayan legacy: Why he remains TV’s most favourite Ram](https://www.firstpost.com/explainers/why-arun-govils-ram-has-stayed-with-us-13652332.html)
+
+Article found but Couldn't summarize 
+Arun Govil &amp;amp; the Ramayan legacy: Why he remains TV’s most favourite Ram
+
+Wed, 24 Jan 2024 20:03:57 +0530
+### [Who are the six Indians marching in the French Army contingent at the Republic Day parade?](https://www.firstpost.com/explainers/who-are-the-six-indians-marching-in-the-french-army-contingent-at-the-republic-day-parade-13651882.html)
+
+Article found but Couldn't summarize 
+Who are the six Indians marching in the French Army contingent at the Republic Day parade?
+
+Wed, 24 Jan 2024 19:06:51 +0530
+### [What is South Korea’s Dior bag scandal? Will it cost the president the election?](https://www.firstpost.com/explainers/what-is-south-koreas-dior-bag-scandal-will-it-cost-the-president-the-election-13651932.html)
+
+Article found but Couldn't summarize 
+What is South Korea’s Dior bag scandal? Will it cost the president the election?
+
+Wed, 24 Jan 2024 17:21:13 +0530
+### [Quit INDIA: Why Mamata Banerjee, Bhagwant Mann have decided to go solo in LS polls](https://www.firstpost.com/explainers/india-congress-tmc-mamata-banerjee-bengal-bhagwant-mann-aap-punjab-2024-lok-sabha-elections-13651532.html)
+
+Article found but Couldn't summarize 
+Quit INDIA: Why Mamata Banerjee, Bhagwant Mann have decided to go solo in LS polls
+
+Wed, 24 Jan 2024 16:51:25 +0530
+### [Why does Israel want to send Palestinian taxes to Norway?](https://www.firstpost.com/explainers/why-does-israel-want-to-send-palestinian-taxes-to-norway-13651492.html)
+
+Article found but Couldn't summarize 
+Why does Israel want to send Palestinian taxes to Norway?
+
+Wed, 24 Jan 2024 16:43:49 +0530
+### [How former Bihar CM Karpoori Thakur, now awarded Bharat Ratna, is still relevant](https://www.firstpost.com/explainers/how-former-bihar-cm-karpoori-thakur-now-awarded-bharat-ratna-is-still-relevant-13648812.html)
+
+Article found but Couldn't summarize 
+How former Bihar CM Karpoori Thakur, now awarded Bharat Ratna, is still relevant
+
+Wed, 24 Jan 2024 16:21:36 +0530
+### [How Fukushima waste water release is hurting Japanese beauty brands](https://www.firstpost.com/explainers/how-fukushima-waste-water-release-is-hurting-japanese-beauty-brands-13651262.html)
+
+Article found but Couldn't summarize 
+How Fukushima waste water release is hurting Japanese beauty brands
+
+Wed, 24 Jan 2024 14:29:46 +0530
+### [Trump vs Biden in 2024? How is US heading for a re-match voters didn’t want?](https://www.firstpost.com/explainers/trump-vs-biden-in-2024-how-is-us-heading-for-a-re-match-voters-didnt-want-13649932.html)
+
+Article found but Couldn't summarize 
+Trump vs Biden in 2024? How is US heading for a re-match voters didn’t want?
+
+Wed, 24 Jan 2024 14:15:33 +0530
+### [Ram mandir inauguration: How communal tensions gripped Mumbai's Mira Road, Pune’s FTII](https://www.firstpost.com/explainers/ram-mandir-inauguration-how-communal-tensions-gripped-mumbais-mira-road-punes-ftii-13650202.html)
+
+Article found but Couldn't summarize 
+Ram mandir inauguration: How communal tensions gripped Mumbai's Mira Road, Pune’s FTII
+
+Wed, 24 Jan 2024 14:06:59 +0530
+### [Why have Chinese stocks lost $6 trillion in three years?](https://www.firstpost.com/explainers/why-have-chinese-stocks-lost-6-trillion-in-three-years-13650442.html)
+
+Article found but Couldn't summarize 
+Why have Chinese stocks lost $6 trillion in three years?
+
+Wed, 24 Jan 2024 12:23:50 +0530
+### [90 seconds to destruction: What is the Doomsday clock and what it says for 2024?](https://www.firstpost.com/explainers/90-seconds-to-destruction-what-is-the-doomsday-clock-and-what-it-says-for-2024-13649672.html)
+
+Article found but Couldn't summarize 
+90 seconds to destruction: What is the Doomsday clock and what it says for 2024?
+
+Wed, 24 Jan 2024 11:39:04 +0530
+### [Why did Turkey delay Sweden's NATO bid for so long? What did it gain from doing so?](https://www.firstpost.com/explainers/why-did-turkey-delay-swedens-nato-bid-for-so-long-what-did-it-gain-from-doing-so-13649442.html)
+
+Article found but Couldn't summarize 
+Why did Turkey delay Sweden's NATO bid for so long? What did it gain from doing so?
+
+Wed, 24 Jan 2024 10:29:46 +0530
+### [Ram mandir in Ayodhya: How many people visited on Day 1?](https://www.firstpost.com/explainers/ram-mandir-in-ayodhya-how-many-people-visited-on-day-1-13649022.html)
+
+Article found but Couldn't summarize 
+Ram mandir in Ayodhya: How many people visited on Day 1?
+
+Wed, 24 Jan 2024 08:53:43 +0530
+### [Turn off the alarm: Why we may need more sleep during winters](https://www.firstpost.com/explainers/why-we-may-need-more-sleep-during-winters-13648232.html)
+
+Article found but Couldn't summarize 
+Turn off the alarm: Why we may need more sleep during winters
+
 Tue, 23 Jan 2024 21:05:25 +0530
 ### [FirstUp: PM addresses voters' conference, Khalid bail plea in SC, women's hockey team begins campaign... big news today](https://www.firstpost.com/explainers/firstup-pm-addresses-voters-conference-khalid-bail-plea-in-sc-womens-hockey-team-begins-campaign-big-news-today-13648322.html)
 

@@ -1,3 +1,159 @@
+2024-01-24T23:11:02+05:30
+### [British Cricketer Shoaib Bashir Gets Indian Visa Finally After UK Govt Intervened: Report](https://thewire.in/sport/british-cricketer-shoaib-bashir-gets-indian-visa-finally-after-uk-govt-intervened-report)
+
+No Article text 
+Persons of Pakistani heritage appear to have different rules for them, commentators alluded, with Bashir following just months after Australian cricketer Usman Khwaja too had to face delays.
+
+2024-01-24T22:55:56+05:30
+### [Canada's Probe Panel to Examine India's Alleged Role in the Last Two Federal Elections](https://thewire.in/world/canadas-probe-panel-to-examine-indias-alleged-role-in-the-last-two-federal-elections)
+
+No Article text 
+The Public Inquiry into Foreign Interference in Federal Electoral Processes and Democratic Institutions announced that it has requested the Canadian government to provide information related to the Indian government.
+
+2024-01-24T22:34:03+05:30
+### ['Appalling Humanitarian Situation': UN Chief on Israel-Palestine Crisis](https://thewire.in/video/appalling-humanitarian-situation-un-chief-on-israel-palestine-crisis)
+
+No Article text 
+'Let’s face it. Despite all the efforts I described, no effective humanitarian aid operation can function under the conditions that have been forced on Palestinians in Gaza and those doing everything possible to help them," said António Guterres.
+
+2024-01-24T22:30:36+05:30
+### [RN Ravi 'Not Fit to Be Governor in Any State or Union Territory': N Ram](https://thewire.in/politics/n-ram-tamil-nadu-governor-r-n-ravi)
+
+No Article text 
+The former newspaper editor said that Tamil Nadu governor's statement on Gandhi was 'shameful'. Ravi had said, 'India’s national freedom movement led by Mahatma Gandhi became a non-event after 1942.'
+
+2024-01-24T21:54:05+05:30
+### ['Important Pillar of the INDIA Bloc': Congress After TMC Reiterates Solo Act for Bengal](https://thewire.in/politics/important-pillar-of-the-india-bloc-congress-after-tmc-reiterates-solo-act-for-bengal)
+
+No Article text 
+Congress MP Jairam Ramesh said that 'speed breakers don’t end the journey' after the West Bengal chief minister told reporters earlier on Wednesday that the INDIA alliance will be for the rest of the country.
+
+2024-01-24T21:06:46+05:30
+### ['Police Didn't Stop the Mob': Shopkeepers, Injured Recount Hindutva Violence at Mumbai's Mira Road](https://thewire.in/communalism/police-didnt-stop-the-mob-shopkeepers-injured-recount-hindutva-violence-at-mumbais-mira-road)
+
+No Article text 
+Coinciding with the consecration of Ram Temple in Ayodhya, around 300 young men descended on the Mumbai's neighbourhood and attacked shops that had a seemingly Muslim name and even others that did not hoist a saffron flag outside their establishments.
+
+2024-01-24T19:46:18+05:30
+### [Blow to Foreign Dreams of Punjabis As Canada Puts Two-Year Cap on Student Visas](https://thewire.in/education/blow-to-foreign-dreams-of-punjabis-as-canada-puts-two-year-cap-on-student-visas)
+
+No Article text 
+The changed immigration policies of Canada not only affect lakhs of students but also an entire gamut of professionals offering consulting services in the education and overseas immigration spaces.
+
+2024-01-24T19:31:58+05:30
+### [Why US Strikes Will Only Embolden the Houthis, Not Stop Their Attacks on Ships in the Red Sea](https://thewire.in/world/why-us-strikes-will-only-embolden-the-houthis-not-stop-their-attacks-on-ships-in-the-red-sea)
+
+No Article text 
+The hope is these strikes will pressure the Iran-aligned Houthis to back down. It won’t, however.
+
+2024-01-24T18:21:25+05:30
+### [Watch: ‘Possibility of West Asia Sleepwalking Into a Larger Conflict,’ Says Talmiz Ahmad](https://thewire.in/video/watch-possibility-of-west-asia-sleepwalking-into-a-larger-conflict-says-talmiz-ahmad)
+
+No Article text 
+In an interview to Karan Thapar, Ahmad, one of India's senior diplomat, accused “American cowardice” of being “directly responsible for thousands of Palestinian deaths in Gaza”.
+
+2024-01-24T17:53:57+05:30
+### [K-Shape Widens: In 5 Years, Govt Tax Collection From Individuals up by 76%, From Corporates Only by 24%](https://thewire.in/government/k-shape-widens-govt-personal-income-tax-collection-corporate-tax)
+
+No Article text 
+This only comes over a series of tax and other policy measures which have unduly squeezed individuals and benefitted the corporate sector, big borrowers
+
+2024-01-24T17:19:43+05:30
+### [Ram Redoubled: Forget BCE and CE, Eras Will Now Divided Into PM and PM](https://thewire.in/humour/ram-redoubled-forget-bce-and-ce-eras-will-now-divided-into-pm-and-pm)
+
+No Article text 
+Thanks to the politics of religion, the Prince of Ayodhya stars in a dual role.
+
+2024-01-24T17:19:35+05:30
+### [Watch: 'Judges Fault CJIs on Assignment & Selection of Cases, Judicial Appointments'](https://thewire.in/law/central-hall-kapil-sibal-judges-supreme-court-benches)
+
+No Article text 
+Justice A.K. Patnaik, Justice Madan B. Lokur and Justice Deepak Gupta – all former judges of the Supreme Court – discuss benches and the uniformity of India's apex court.
+
+2024-01-24T16:35:01+05:30
+### [The Multidimensional Poverty Index Is Not All-Encompassing](https://thewire.in/economy/the-multidimensional-poverty-index-is-not-all-encompassing)
+
+No Article text 
+Improvements in toilet access and bank accounts are easier to link to direct government schemes, but the first step towards an honest analysis of what worked and what didn’t would be reviving India’s data ecosystem through conducting the Census and consumption expenditure survey.
+
+2024-01-24T15:30:43+05:30
+### [Rajasthan: Under Hindutva Face as Education Minister, Schools to Attempt Surya Namaskar Record](https://thewire.in/communalism/rajasthan-under-hindutva-face-as-education-minister-schools-to-attempt-surya-namaskar-record)
+
+No Article text 
+Madan Dilwar claimed he has taken a vow to eat only one meal everyday till the consecration of a Krishna Temple in the claimed birthplace of Lord Krishna in Mathura – where the Shahi Idgah mosque now stands.
+
+2024-01-24T15:00:46+05:30
+### [Ayodhya: How Would Tulsidas Take Stock of the Day After?](https://thewire.in/politics/ayodhya-how-would-tulsidas-take-stock-of-the-day-after)
+
+No Article text 
+There is a stark difference between the Ram of Tulsi and the Ram of Modi and his RSS cohorts who invite an assembly of some of the wealthiest Indians to witness the inauguration of the temple of Lord Ram in Ayodhya.
+
+2024-01-24T14:35:27+05:30
+### [When Karpoori Thakur’s Government Fell and He Faced Sangh Abuse](https://thewire.in/politics/karpoori-thakur-bharat-ratna-bjp-rjd-modi-lalu)
+
+No Article text 
+Thakur, awarded the Bharat Ratna is seen as among the pioneers of social justice in North India.
+
+2024-01-24T14:30:26+05:30
+### [Byju's Incurs Over Rs 8,000 Crore in Losses in FY22, Driven by Whitehat Jr. and OSMO](https://thewire.in/business/byjus-incurs-over-rs-8000-crore-in-losses-in-fy22-driven-by-whitehat-jr-and-osmo)
+
+No Article text 
+The filing comes as Byju's missed multiple deadlines for submitting its financial statements for FY22, amid various challenges, including the resignation of three board members and its auditor Deloitte.
+
+2024-01-24T14:13:14+05:30
+### [Manipur: Assam Rifles Jawan Shoots Six Colleagues, Dies by Suicide](https://thewire.in/security/manipur-assam-rifles-jawan-shoots-six-colleagues-dies-by-suicide)
+
+No Article text 
+In a statement, the Assam Rifles have said that this shooting incident had nothing to do with the ethnic violence in the state.
+
+2024-01-24T13:25:03+05:30
+### ['So You Have Authority?': What the SC Said to Gujarat Cops Who Flogged Muslim Men](https://thewire.in/law/gujarat-police-flogged-muslim-men-contempt-supreme-court)
+
+No Article text 
+The apex court stayed 'contempt of court' proceedings against the four policemen who were convicted for publicly flogging Muslim men in Gujarat but was scathing in criticism.
+
+2024-01-24T12:30:14+05:30
+### [The (False) Alarm in India About a Japanese Invasion During World War II](https://thewire.in/books/the-false-alarm-in-india-about-a-japanese-invasion-during-world-war-ii)
+
+No Article text 
+In an amalgam of scholarly history and popular narrative for the layperson, Mukund Padmanabhan delivers a succinct new dimension to a period of many facets: war and defence, imperialism and nationalism, rumour and fact, courage and cowardice.
+
+2024-01-24T12:00:30+05:30
+### [Bharat Jodo Nyay Yatra at Right Time, to Keep Idea of India Alive: Congress MP Gaurav Gogoi](https://thewire.in/politics/bharat-jodo-nyay-yatra-at-right-time-to-keep-idea-of-india-alive-congress-mp-gaurav-gogoi)
+
+No Article text 
+The Kaliabor MP and deputy leader in Lok Sabha said to The Wire that the sequence of events during the yatra’s leg in Assam shows a  “deliberate attempt to escalate misconduct around the yatra” at chief minister Himanta Biswa Sarma’s behest who is being used as “pawn by the powers in Delhi”.
+
+2024-01-24T11:58:34+05:30
+### [Day After Rahul Gandhi Says Seat Talks Still On, Mamata Banerjee Says TMC to Go it Alone in WB](https://thewire.in/politics/as-bengal-congress-and-tmc-spar-rahul-gandhi-insists-seat-sharing-talks-still-on)
+
+No Article text 
+Yesterday, West Bengal state Congress president Adhir Ranjan Chowdhury had called Banerjee an “opportunist”.
+
+2024-01-24T11:30:45+05:30
+### [Australia's High Commissioner to India Remembers Graham Staines' 'Selfless Work' in India](https://thewire.in/diplomacy/australias-high-commissioner-to-india-remembers-graham-staines-selfless-work-in-india)
+
+No Article text 
+"This week marks the 25th anniversary of the deaths of Australian missionary Graham Staines and his sons in east India in 1999. We remember Graham’s selfless work with leprosy patients there," Green said.
+
+2024-01-24T09:30:11+05:30
+### [In Illustrations: People Take to the Streets of Kolkata in 'Anti-Fascist' Rally](https://thewire.in/the-arts/in-illustrations-people-take-to-the-streets-of-kolkata-in-anti-fascist-rally)
+
+No Article text 
+On January 22, thousands of people from different parts of the country walked together on the streets of Kolkata under the banner of the 'Anti-Fascist Grand Conference’.
+
+2024-01-24T09:00:33+05:30
+### [Saffron Flags Hoisted, Slogans Raised in Agra Mosque on Ram Mandir Ceremony Day](https://thewire.in/communalism/saffron-flags-hoisted-slogans-raised-in-agra-mosque-on-ram-mandir-ceremony-day)
+
+No Article text 
+The police have filed an FIR and arrested 11 people so far.
+
+2024-01-24T08:00:43+05:30
+### [Four Issues SEBI Raised (Or It Couldn’t) in the Adani-Hindenburg Matter](https://thewire.in/business/sebi-adani-group-hindenburg-vinod-adani)
+
+No Article text 
+SEBI's probe delves into the complexities surrounding foreign portfolio investors' ownership, concerns related to corporate governance, such as related party transactions, and auditors' roles.
+
 2024-01-24T00:44:09+05:30
 ### [Socialist Icon and Former Bihar CM Karpoori Thakur Posthumously Awarded Bharat Ratna](https://thewire.in/politics/karpoori-thakur-bharat-ratna)
 

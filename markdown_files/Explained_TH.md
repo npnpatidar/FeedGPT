@@ -1,3 +1,21 @@
+Wed, 24 Jan 2024 22:36:44 +0530
+### [Reconsidering the free movement regime | Explained](https://www.thehindu.com/news/national/reconsidering-the-free-movement-regime-explained/article67773825.ece)
+
+Article found but Couldn't summarize 
+Why did Home Minister Amit Shah promise to fence the 1,643 km India-Myanmar border? Are there historical ties between people on either side of the border? Why was the FMR initially introduced? Why is the Manipur government opposed to the FMR?
+
+Wed, 24 Jan 2024 17:15:08 +0530
+### [Watch | Explained: India’s new Telecommunications Bill, 2023](https://www.thehindu.com/business/Industry/watch-explained-indias-new-telecommunications-bill-2023/article67772351.ece)
+
+Article found but Couldn't summarize 
+Exploring the new law that has replaced the archaic Telegraph Act of 1885 that governs India’s internet and mobile connections
+
+Wed, 24 Jan 2024 10:30:00 +0530
+### [As our universe grows old, how will it change? | Explained](https://www.thehindu.com/sci-tech/science/universe-origins-distant-future-gravity-black-holes-explained/article67762027.ece)
+
+Article found but Couldn't summarize 
+From a raucous infancy to a black-hole-dominated aeon of darkness, a physicist traces the universe’s past and future
+
 Tue, 23 Jan 2024 10:30:00 +0530
 ### [What is end-to-end encryption? How does it secure information? | Explained](https://www.thehindu.com/sci-tech/science/end-to-end-encryption-messaging-apps-explained/article67765395.ece)
 

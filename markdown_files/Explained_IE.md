@@ -1,3 +1,38 @@
+Wed, 24 Jan 2024 14:53:05 +0000
+### [Turkey finally backs Sweden’s NATO bid: Why the opposition, why it changed its stance](https://indianexpress.com/article/explained/everyday-explainers/turkey-swedens-nato-why-it-changed-its-stance-9126127/)
+
+Article found but Couldn't summarize
+
+Wed, 24 Jan 2024 14:11:25 +0000
+### [Manipur ministers and MLAs meet Arambai Tenggol members: Who are the radical Meitei group?](https://indianexpress.com/article/explained/manipur-arambai-tenggol-radical-meitei-group-9126080/)
+
+Article found but Couldn't summarize
+
+Wed, 24 Jan 2024 13:39:56 +0000
+### [Who will be Donald Trump’s running mate?](https://indianexpress.com/article/explained/explained-global/who-will-be-donald-trumps-running-mate-9125979/)
+
+Article found but Couldn't summarize
+
+Wed, 24 Jan 2024 04:24:33 +0000
+### [Why Punjab moved SC against the expansion of BSF jurisdiction](https://indianexpress.com/article/explained/explained-law/why-punjab-moved-sc-against-the-expansion-of-bsf-jurisdiction-9124717/)
+
+Article found but Couldn't summarize
+
+Wed, 24 Jan 2024 02:35:28 +0000
+### [ExplainSpeaking | From (interim) Budget to IMF’s World Economic Outlook to US Fed and RBI meetings: A preview](https://indianexpress.com/article/explained/explain-speaking-interim-budget-imf-economic-outlook-us-fed-rbi-9124850/)
+
+Article found but Couldn't summarize
+
+Wed, 24 Jan 2024 01:50:38 +0000
+### [The rooftop solar plan: India’s solar power capacity, target, and the way forward](https://indianexpress.com/article/explained/explained-sci-tech/the-rooftop-solar-plan-indias-solar-power-capacity-target-and-the-way-forward-9124675/)
+
+The Prime Minister of India, Narendra Modi, recently announced the launch of the Pradhan Mantri Suryodaya Yojana, a program aimed at installing rooftop solar systems on 1 crore (10 million) houses. The objective of this initiative is to reduce electricity bills for the poor and middle classes while making India self-reliant in the energy sector. The target for rooftop solar installations had been set at 40 GW by 2022, but it has been missed. The new program focuses on individual households, which have great untapped potential for solar energy. The details of the program have not been released yet, but it aims to accelerate the adoption of decentralized solar power in the country.
+
+Wed, 24 Jan 2024 01:45:57 +0000
+### [Why Canada has put curbs on foreign students, and how Indians are impacted](https://indianexpress.com/article/explained/why-canada-has-put-curbs-on-foreign-students-and-how-indians-are-impacted-9124633/)
+
+Article found but Couldn't summarize
+
 Tue, 23 Jan 2024 16:28:32 +0000
 ### [Bharat Ratna to Karpoori Thakur: Why the Jannayak’s politics and policies still resonate](https://indianexpress.com/article/explained/explained-politics/bharat-ratna-to-karpoori-thakur-his-politics-policies-9124428/)
 

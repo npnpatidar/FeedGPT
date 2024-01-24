@@ -1,3 +1,15 @@
+Thu, 25 Jan 2024 00:20:00 +0530
+### [Dangerous status quo: On continuing hostilities in Manipur](https://www.thehindu.com/opinion/editorial/dangerous-status-quo-on-continuing-hostilities-in-manipur/article67772983.ece)
+
+Article found but Couldn't summarize 
+Unless non-state actors are demilitarised in Manipur, hostilities in the State will persist
+
+Thu, 25 Jan 2024 00:10:00 +0530
+### [Choppy waters: On India-Maldives ties](https://www.thehindu.com/opinion/editorial/choppy-waters-on-india-maldives-ties/article67773018.ece)
+
+Article found but Couldn't summarize 
+India and the Maldives must persist with quiet diplomacy to reset ties
+
 Wed, 24 Jan 2024 01:11:00 +0530
 ### [Narrowing field: On 2024 U.S. presidential election’s Republican primaries race](https://www.thehindu.com/opinion/editorial/narrowing-field-on-2024-us-presidential-elections-republican-primaries-race/article67769092.ece)
 

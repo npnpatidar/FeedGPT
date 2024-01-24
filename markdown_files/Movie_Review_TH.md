@@ -1,3 +1,9 @@
+Wed, 24 Jan 2024 18:24:46 +0530
+### [Ranjani and Gayatri sing songs in praise of Rama](https://www.thehindu.com/entertainment/music/ranjani-and-gayatri-sing-songs-in-praise-of-rama/article67772473.ece)
+
+Article found but Couldn't summarize 
+Ranjani and Gayatri presented a special ‘Ramabhajana’ concert to mark the Pran Prathishta in Ayodhya and Sri Parthasarathy Sabha’s 124th anniversary
+
 Tue, 23 Jan 2024 18:47:51 +0530
 ### [‘True Detective: Night Country’ Episodes 1 and 2 review: Jodie Foster leads a chilling, twisted mystery](https://www.thehindu.com/entertainment/movies/true-detective-night-country-episodes-1-and-2-review-jodie-foster-leads-a-chilling-twisted-mystery/article67768821.ece)
 

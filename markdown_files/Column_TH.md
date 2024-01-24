@@ -1,3 +1,9 @@
+Wed, 24 Jan 2024 00:30:00 +0530
+### [Ind vs Eng Tests | India’s home record is formidable; Bazball is England’s best chance](https://www.thehindu.com/opinion/columns/indias-home-record-is-formidable-bazball-is-englands-best-chance/article67769365.ece)
+
+Article found but Couldn't summarize 
+Will Bazball work in India? Theoretically, there is no reason why it shouldn’t, but in practical terms, there are two reasons. One of them is Ravichandran Ashwin and the other Ravindra Jadeja.
+
 Wed, 17 Jan 2024 00:30:00 +0530
 ### [Ranji Trophy | A golden jubilee, and time to name the stands after the greats](https://www.thehindu.com/opinion/columns/a-golden-jubilee-and-time-to-name-the-stands-after-the-greats/article67744839.ece)
 
@@ -59,6 +65,11 @@ Article found but Couldn't summarize
 
 Sun, 24 Dec 2023 20:31:03 +0530
 ### [Political Line | Recasting the caste debate](https://www.thehindu.com/opinion/columns/recasting-the-caste-debate/article67672185.ece)
+
+Article found but Couldn't summarize
+
+Sun, 24 Dec 2023 20:31:03 +0530
+### [Political Line | The point of the temple](https://www.thehindu.com/news/national/recasting-the-caste-debate/article67672185.ece)
 
 Article found but Couldn't summarize
 

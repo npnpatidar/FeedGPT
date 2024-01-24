@@ -1,3 +1,69 @@
+Thu, 25 Jan 2024 01:42:11 +0530
+### [Eight years of Startup India: Is it really a runaway success?](https://www.livemint.com/opinion/online-views/eight-years-of-startup-india-is-it-really-a-runaway-success-11706110779998.html)
+
+Article found but Couldn't summarize 
+We should adopt a more comprehensive set of measures to track how well this vital scheme is doing. A good dashboard will allow global comparison and help us reshape policy if need be.
+
+Thu, 25 Jan 2024 01:38:49 +0530
+### [In an age of AI geopolitics, India’s DPI can help build a trusted tech ecosystem](https://www.livemint.com/opinion/online-views/in-an-age-of-ai-geopolitics-india-s-dpi-can-help-build-a-trusted-tech-ecosystem-11706110905577.html)
+
+Article found but Couldn't summarize 
+Its design mitigates risks from a tech cold war, a hard reality already, and enables democracies to harness the gains of technological advancement.
+
+Thu, 25 Jan 2024 00:53:25 +0530
+### [Luxury behemoth LVMH may be worth more if it’s carved up](https://www.livemint.com/opinion/online-views/luxury-behemoth-lvmh-may-be-worth-more-if-it-s-carved-up-11706111018235.html)
+
+Article found but Couldn't summarize 
+Bernard Arnault has been taking steps to tighten family control over the empire he spent 40 years building. He may not be inclined to split the LVMH empire into its constituent businesses, but this can unlock value.
+
+Thu, 25 Jan 2024 00:50:18 +0530
+### [Alas: Behavioural science should never have become a catch-all term](https://www.livemint.com/opinion/online-views/alas-behavioural-science-should-never-have-become-a-catch-all-term-11706111118628.html)
+
+Article found but Couldn't summarize 
+An umbrella term blurs what the field of studying human behaviour is about, makes space for theory mix-ups and holds back the process of revising our knowledge as it makes advances.
+
+Wed, 24 Jan 2024 16:00:16 +0530
+### [Maharashtra government’s so-called land development plans are unfair to Mumbai people](https://www.livemint.com/opinion/online-views/maharashra-government-s-so-called-land-development-plans-are-unfair-to-mumbai-people-11706086354528.html)
+
+Article found but Couldn't summarize 
+Post-pandemic economic needs and coalition politics have led the Maharashtra government to be generous with construction permits
+
+Wed, 24 Jan 2024 13:45:26 +0530
+### [Nirmala Sitharaman has the fiscal space to increase capex again. She should](https://www.livemint.com/opinion/nirmala-sitharaman-has-the-fiscal-space-to-increase-capex-again-she-should-11706082710738.html)
+
+Article found but Couldn't summarize 
+The upcoming budget speech on 1 February will send out a clear signal about the government sticking with the commitment to reduce the fiscal deficit to 4.5% of GDP by FY26.
+
+Wed, 24 Jan 2024 13:01:18 +0530
+### [Remembering Jan Nayak Karpoori Thakur: A centenary tribute to a champion of social justice](https://www.livemint.com/opinion/online-views/remembering-jan-nayak-karpoori-thakur-a-centenary-tribute-to-a-champion-of-social-justice-11706080124973.html)
+
+Article found but Couldn't summarize 
+Social justice was a cornerstone in Jan Nayak Karpoori Thakur Ji's life. He tirelessly worked to establish a society where resources were equitably distributed and opportunities accessible to all, regardless of social standing
+
+Wed, 24 Jan 2024 12:48:24 +0530
+### [Global Minimum Tax: Reshaping the tax landscape](https://www.livemint.com/opinion/global-minimum-tax-reshaping-the-tax-landscape-11706078895216.html)
+
+Article found but Couldn't summarize 
+The Pillar Two design of OECD comprises numerous interlocking rules that will ensure that covered multi-national enterprises pay a minimum tax while avoiding double taxation where there is no economic profit.
+
+Wed, 24 Jan 2024 08:00:20 +0530
+### [Selfie habits have gone beyond casual pictures taken for social media](https://www.livemint.com/opinion/online-views/selfie-habits-have-gone-beyond-casual-pictures-taken-for-social-media-11706020773271.html)
+
+Article found but Couldn't summarize 
+Online self-projections in every possible way, no matter how inauthentic, seem to be the new order. This is unfortunate.
+
+Wed, 24 Jan 2024 08:00:20 +0530
+### [Zee-Sony: A deal that was doomed from the start](https://www.livemint.com/opinion/online-views/zeesony-a-deal-that-was-doomed-from-the-start-11706020707990.html)
+
+Article found but Couldn't summarize 
+The proposed merger was odd, to say the least, with its majority owner not assuming executive control. An ‘agency problem’ risk of leadership and ownership interests going out of whack was averted. Don’t tune out, there’s more action to come.
+
+Wed, 24 Jan 2024 08:00:20 +0530
+### [Blue chips slide: Valuation worries](https://www.livemint.com/opinion/quick-edit/blue-chips-slide-valuation-worries-11706020875469.html)
+
+Article found but Couldn't summarize 
+Broad external factors are often pointed out as gloom-casters but that doesn’t eclipse the worry that equities in general have exceeded levels justifiable by likely future earnings.
+
 Tue, 23 Jan 2024 23:08:31 +0530
 ### [Women's political empowerment will enhance governance and boost the economy](https://www.livemint.com/opinion/online-views/womens-political-empowerment-will-enhance-governance-and-boost-the-economy-11706011557096.html)
 

@@ -1,3 +1,68 @@
+Wed, 24 Jan 2024 14:21:28 +0000
+### [With Bharat Ratna recognition, a look at Karpoori Thakur’s fraught relationship with the Sangh Parivar](https://indianexpress.com/article/opinion/columns/bharat-ratna-recognition-karpoori-thakur-fraught-relationship-sangh-parivar-9126091/)
+
+Article found but Couldn't summarize
+
+Wed, 24 Jan 2024 12:47:25 +0000
+### [On his birth centenary, why Bharat Ratna Karpoori Thakur’s politics remains relevant](https://indianexpress.com/article/opinion/birth-centenary-bharat-ratna-karpoori-thakur-politics-relevant-9125923/)
+
+Article found but Couldn't summarize
+
+Wed, 24 Jan 2024 11:11:02 +0000
+### [Taiwan’s new president has his task cut out](https://indianexpress.com/article/opinion/columns/taiwans-new-president-has-his-task-cut-out-9125757/)
+
+Article found but Couldn't summarize
+
+Wed, 24 Jan 2024 09:43:57 +0000
+### [Bharat Ratna for Karpoori Thakur: How the BJP is creating a narrative of empowerment and inclusion](https://indianexpress.com/article/opinion/columns/bharat-ratna-for-karpoori-thakur-bjp-9125554/)
+
+Article found but Couldn't summarize
+
+Wed, 24 Jan 2024 07:26:35 +0000
+### [From ‘May December’ to ‘Killers of the Flower Moon’: In praise of ‘slow’ movies in 2024 Oscars](https://indianexpress.com/article/opinion/columns/may-december-to-killers-of-the-flower-moon-movies-2024-oscars-9125277/)
+
+Article found but Couldn't summarize
+
+Wed, 24 Jan 2024 02:30:57 +0000
+### [Express View on latest RBI reports: A limited growth](https://indianexpress.com/article/opinion/editorials/a-limited-growth-9124547/)
+
+Article found but Couldn't summarize
+
+Wed, 24 Jan 2024 02:30:33 +0000
+### [‘Our govt has walked on the path of Karpoori Thakur Ji …implemented his vision as effective governance model’](https://indianexpress.com/article/opinion/columns/our-govt-has-walked-on-the-path-of-karpoori-thakur-ji-implemented-his-vision-as-effective-governance-model-9124713/)
+
+Article found but Couldn't summarize
+
+Wed, 24 Jan 2024 02:25:15 +0000
+### [With Imran Khan clone rally and Modi deepfakes, AI has entered the election race](https://indianexpress.com/article/opinion/columns/deepfake-online-disinformation-campaigns-misinformation-cool-dude-frank-9124464/)
+
+Article found but Couldn't summarize
+
+Wed, 24 Jan 2024 02:10:57 +0000
+### [Express View on India-Myanmar border: Keep it porous](https://indianexpress.com/article/opinion/editorials/keep-it-porous-9124536/)
+
+Article found but Couldn't summarize
+
+Wed, 24 Jan 2024 01:40:56 +0000
+### [Express View on Norman Jewison: Finding grace](https://indianexpress.com/article/opinion/editorials/finding-grace-9124543/)
+
+Article found but Couldn't summarize
+
+Wed, 24 Jan 2024 01:35:55 +0000
+### [How Basic Structure doctrine became one of the strongest safeguards for Indian democracy](https://indianexpress.com/article/opinion/columns/the-most-powerful-safeguard-9124526/)
+
+Article found but Couldn't summarize
+
+Wed, 24 Jan 2024 01:35:46 +0000
+### [Why Mayawati walks alone](https://indianexpress.com/article/opinion/columns/why-mayawati-walks-alone-9124521/)
+
+Article found but Couldn't summarize
+
+Wed, 24 Jan 2024 01:30:27 +0000
+### [January 23, Forty Years Ago: Centre’s Intervention](https://indianexpress.com/article/opinion/40-years-ago/january-23-forty-years-ago-centres-intervention-9124493/)
+
+Article found but Couldn't summarize
+
 Tue, 23 Jan 2024 13:03:40 +0000
 ### [The 2024 flight chaos was no act of god](https://indianexpress.com/article/opinion/columns/the-2024-flight-chaos-was-no-act-of-god-9123853/)
 
