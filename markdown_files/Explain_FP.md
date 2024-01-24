@@ -1,3 +1,9 @@
+Tue, 23 Jan 2024 21:05:25 +0530
+### [FirstUp: PM addresses voters' conference, Khalid bail plea in SC, women's hockey team begins campaign... big news today](https://www.firstpost.com/explainers/firstup-pm-addresses-voters-conference-khalid-bail-plea-in-sc-womens-hockey-team-begins-campaign-big-news-today-13648322.html)
+
+Article found but Couldn't summarize 
+FirstUp: PM addresses voters' conference, Khalid bail plea in SC, women's hockey team begins campaign... big news today
+
 Tue, 23 Jan 2024 18:57:35 +0530
 ### [Why did Russia sell Alaska to US in 1867? Has Putin declared the decree illegal?](https://www.firstpost.com/explainers/why-did-russia-sell-alaska-to-us-in-1867-has-putin-declared-the-decree-illegal-13648092.html)
 
