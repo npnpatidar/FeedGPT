@@ -1,3 +1,21 @@
+Thu, 25 Jan 2024 15:44:30 +0530
+### [Watch | Why is the Ukraine conflict still going on? What is happening in Gaza?](https://www.thehindu.com/news/international/watch-why-is-the-ukraine-conflict-still-going-on-what-is-happening-in-gaza/article67775861.ece)
+
+Article found but Couldn't summarize 
+With no end in sight in the two conflicts between Israel and Hamas and Russia and Ukraine, a look at the global impact and responses by other world powers
+
+Thu, 25 Jan 2024 10:30:00 +0530
+### [An overview of the fourth national elections of Bhutan | Explained](https://www.thehindu.com/news/international/an-overview-of-the-fourth-national-elections-of-bhutan-explained/article67773829.ece)
+
+Article found but Couldn't summarize 
+How does the electoral and political system work in Bhutan? What were the party campaigns about? What were the key issues?
+
+Thu, 25 Jan 2024 09:45:55 +0530
+### [Why Himachal Pradesh had its most rainless January since 1901 | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/himachal-pradesh-lowest-snow-cover-since-1901-explained/article67775173.ece)
+
+Article found but Couldn't summarize 
+Before this, the record for the driest January was 1996, which reported a 99.6% shortfall
+
 Wed, 24 Jan 2024 22:36:44 +0530
 ### [Reconsidering the free movement regime | Explained](https://www.thehindu.com/news/national/reconsidering-the-free-movement-regime-explained/article67773825.ece)
 

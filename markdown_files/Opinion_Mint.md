@@ -1,3 +1,81 @@
+Fri, 26 Jan 2024 00:42:04 +0530
+### [The geopolitical risks we face today stem from solutions to earlier excesses](https://www.livemint.com/opinion/online-views/the-geopolitical-risks-we-face-today-stem-from-solutions-to-earlier-excesses-11706193999714.html)
+
+Article found but Couldn't summarize 
+Addressing the ‘polycrisis’ faced by today’s world demands acknowledgement that our problems have deep historical roots and have been in the making for over seven decades.
+
+Fri, 26 Jan 2024 00:26:52 +0530
+### [ASER and India’s demographic dividend: Is a new generation ready for the future?](https://www.livemint.com/opinion/online-views/aser-and-india-s-demographic-dividend-is-a-new-generation-ready-for-the-future-11706188343491.html)
+
+Article found but Couldn't summarize 
+ASER findings reveal a worrying deficit of basic skills but telecom connectivity and digital enablers offer cause for hope as it might yet be possible for online education to play a complementary role in getting left-behinds up to speed.
+
+Fri, 26 Jan 2024 00:18:35 +0530
+### [AI has made it way too easy to clone President Biden's voice](https://www.livemint.com/opinion/online-views/ai-has-made-it-way-too-easy-to-clone-president-bidens-voice-11706188438875.html)
+
+Article found but Couldn't summarize 
+A fake 'robocall' by Joe Biden has revived anxiety over AI misuse. Voice cloning represents a significant threat to democracies worldwide.
+
+Fri, 26 Jan 2024 00:16:49 +0530
+### [Journey to the certainty of death](https://www.livemint.com/opinion/columns/journey-to-the-certainty-of-death-11706206542146.html)
+
+Article found but Couldn't summarize 
+Nobody has tried drilling a hole through the Earth and crawling all the way through to the other side, and for good reason, too
+
+Fri, 26 Jan 2024 00:01:53 +0530
+### [Season 2 of Indian TV’s soap opera: All it needs is some background music](https://www.livemint.com/opinion/online-views/season-2-of-indian-tv-s-soap-opera-all-it-needs-is-some-background-music-11706188544448.html)
+
+Article found but Couldn't summarize 
+Plot twists reign as Reliance and Disney work out an alliance even as the drama of the Zee-Sony split threatens a fallout that could potentially upset negotiations between the first two.
+
+Thu, 25 Jan 2024 22:59:21 +0530
+### [Navigating Growth: Maharashtra’s Ascent at the world economic forum](https://www.livemint.com/opinion/columns/navigating-growth-maharashtra-s-ascent-at-the-world-economic-forum-11706203554158.html)
+
+Article found but Couldn't summarize 
+Maharashtra's chief minister, Eknath Shinde, reflects on the World Economic Forum (WEF) in Davos, highlighting the importance of trust and collaboration in rebuilding and shaping a prosperous future.
+
+Thu, 25 Jan 2024 16:33:05 +0530
+### [Why the stock market is showing more love for ICICI Bank than HDFC Bank](https://www.livemint.com/opinion/online-views/why-the-stock-market-is-showing-more-love-for-icici-bank-than-hdfc-bank-11706174633798.html)
+
+Article found but Couldn't summarize 
+In the short term, while ICICI Bank seems poised to outshine HDFC Bank, a proper comparison of actual operational strength will be possible only after it increases its retail branches.
+
+Thu, 25 Jan 2024 14:55:21 +0530
+### [How to keep tabs on your personal fiscal deficit, and more](https://www.livemint.com/opinion/how-to-keep-tabs-on-your-personal-fiscal-deficit-and-more-11706173999263.html)
+
+Article found but Couldn't summarize 
+While you focus on the Union Budget, here’s a primer on keeping track of your household budget
+
+Thu, 25 Jan 2024 14:00:05 +0530
+### [America’s crumbling trade initiative in Asia](https://www.livemint.com/opinion/online-views/americas-crumbling-trade-initiative-in-asia-11706160938501.html)
+
+Article found but Couldn't summarize 
+Joe Biden’s limp trade strategy has just got even weaker
+
+Thu, 25 Jan 2024 11:08:29 +0530
+### [Govt's zeal for AI is great but it must complement not replicate private efforts](https://www.livemint.com/opinion/online-views/govts-zeal-for-ai-is-great-but-it-must-complement-not-replicate-private-efforts-11706157375110.html)
+
+Article found but Couldn't summarize 
+The real need for state intervention lies in setting up indigenous chipmaking capabilities and transforming India's education system to nurture innovative and critical thinking
+
+Thu, 25 Jan 2024 08:00:12 +0530
+### [Opposition alliance: Too wobbly](https://www.livemint.com/opinion/quick-edit/opposition-alliance-too-wobbly-11706110442323.html)
+
+Article found but Couldn't summarize 
+A divided opposition means that its candidates will be fighting not only the BJP, but also their own alliance partners. Unless forces converge soon, its prospects of unseating the BJP this year will get dimmer.
+
+Thu, 25 Jan 2024 08:00:12 +0530
+### [PMO review: Statistical clarity is a must for successful governance](https://www.livemint.com/opinion/online-views/pmo-review-statistical-clarity-is-a-must-for-successful-governance-11706110524564.html)
+
+Article found but Couldn't summarize 
+India’s statistical system is under the PMO’s lens. Given recent data dissonance, it clearly needs a relook. The country’s view of itself is too hazy in these digital times of sharp resolution. For reforms, autonomy is key.
+
+Thu, 25 Jan 2024 08:00:11 +0530
+### [The Hindenburg orchestra on Adani: Will doomsayers finally face the music?](https://www.livemint.com/opinion/online-views/the-hindenburg-orchestra-on-adani-will-doomsayers-finally-face-the-music-11706110626246.html)
+
+Article found but Couldn't summarize 
+The fallout on citizens of this report’s scandalous treatment as gospel truth should make us think hard about what’s in the public interest.
+
 Thu, 25 Jan 2024 01:42:11 +0530
 ### [Eight years of Startup India: Is it really a runaway success?](https://www.livemint.com/opinion/online-views/eight-years-of-startup-india-is-it-really-a-runaway-success-11706110779998.html)
 

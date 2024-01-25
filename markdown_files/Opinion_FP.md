@@ -1,3 +1,63 @@
+Thu, 25 Jan 2024 19:21:34 +0530
+### [Vantage | Is the Oscar snub for Barbie about women or money?](https://www.firstpost.com/opinion/vantage-is-the-oscar-snub-for-barbie-about-women-or-money-13656112.html)
+
+Article found but Couldn't summarize 
+Vantage | Is the Oscar snub for Barbie about women or money?
+
+Thu, 25 Jan 2024 19:12:13 +0530
+### [Vantage | Can Bilawal Bhutto best Pakistan's army to win elections?](https://www.firstpost.com/opinion/vantage-can-bilawal-bhutto-best-pakistans-army-to-win-elections-13654132.html)
+
+Article found but Couldn't summarize 
+Vantage | Can Bilawal Bhutto best Pakistan's army to win elections?
+
+Thu, 25 Jan 2024 17:54:10 +0530
+### [Analysing a persistent and dangerous Chinese presence in Indian Ocean Region](https://www.firstpost.com/opinion/analysing-a-persistent-and-dangerous-chinese-presence-in-indian-ocean-region-13655452.html)
+
+Article found but Couldn't summarize 
+Analysing a persistent and dangerous Chinese presence in Indian Ocean Region
+
+Thu, 25 Jan 2024 17:42:53 +0530
+### [Time-tested friendship: How military aviation is closest connection between India and France](https://www.firstpost.com/opinion/time-tested-friendship-how-military-aviation-is-closest-connection-between-india-and-france-13655392.html)
+
+Article found but Couldn't summarize 
+Time-tested friendship: How military aviation is closest connection between India and France
+
+Thu, 25 Jan 2024 17:33:21 +0530
+### [Vantage | How multiple protests in Germany and France may worsen European economic crisis](https://www.firstpost.com/opinion/vantage-how-multiple-protests-in-germany-and-france-may-worsen-european-economic-crisis-13654682.html)
+
+Article found but Couldn't summarize 
+Vantage | How multiple protests in Germany and France may worsen European economic crisis
+
+Thu, 25 Jan 2024 15:27:18 +0530
+### [Driven by pursuit of strategic autonomy, Modi, Macron take India-France ties to new heights](https://www.firstpost.com/opinion/driven-by-pursuit-of-strategic-autonomy-modi-macron-take-india-france-ties-to-new-heights-13654522.html)
+
+Article found but Couldn't summarize 
+Driven by pursuit of strategic autonomy, Modi, Macron take India-France ties to new heights
+
+Thu, 25 Jan 2024 15:26:00 +0530
+### [Vantage | What Jack Ma's big bet on Alibaba says about Beijing](https://www.firstpost.com/opinion/vantage-what-jack-mas-big-bet-on-alibaba-says-about-beijing-13654632.html)
+
+Article found but Couldn't summarize 
+Vantage | What Jack Ma's big bet on Alibaba says about Beijing
+
+Thu, 25 Jan 2024 14:18:07 +0530
+### [Vantage | Why Trump still dominates American politics](https://www.firstpost.com/opinion/vantage-why-trump-still-dominates-american-politics-13654582.html)
+
+Article found but Couldn't summarize 
+Vantage | Why Trump still dominates American politics
+
+Thu, 25 Jan 2024 13:11:23 +0530
+### [Vantage | How to prepare yourself for the mass layoff wave of 2024](https://www.firstpost.com/opinion/vantage-how-to-prepare-yourself-for-the-mass-layoff-wave-of-2024-13653872.html)
+
+Article found but Couldn't summarize 
+Vantage | How to prepare yourself for the mass layoff wave of 2024
+
+Thu, 25 Jan 2024 09:01:29 +0530
+### [Ayodhya Ram Mandir coverage shows why Western media can’t decode Modi](https://www.firstpost.com/opinion/ayodhya-ram-mandir-coverage-shows-why-western-media-cant-decode-modi-13652722.html)
+
+Article found but Couldn't summarize 
+Ayodhya Ram Mandir coverage shows why Western media can’t decode Modi
+
 Wed, 24 Jan 2024 19:08:58 +0530
 ### [How PM Modi’s Ayodhya speech paves the way for civilisational resurgence](https://www.firstpost.com/opinion/how-pm-modis-ayodhya-speech-paves-the-way-for-civilisational-resurgence-13652142.html)
 

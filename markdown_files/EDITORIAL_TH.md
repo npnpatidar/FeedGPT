@@ -1,3 +1,15 @@
+Fri, 26 Jan 2024 00:20:00 +0530
+### [Exchange of opportunity: On science, the Vaibhav and VAJRA programmes](https://www.thehindu.com/opinion/editorial/exchange-of-opportunity-on-science-the-vaibhav-and-vajra-programmes/article67776362.ece)
+
+Article found but Couldn't summarize 
+India’s research institutes need collaboration across the world at the highest levels
+
+Fri, 26 Jan 2024 00:10:00 +0530
+### [The last mile: On the Anganwadi workers’ strike in Andhra Pradesh](https://www.thehindu.com/opinion/editorial/the-last-mile-on-the-anganwadi-workers-strike-in-andhra-pradesh/article67776378.ece)
+
+Article found but Couldn't summarize 
+Governments must offer fair wages to those at the end of the services delivery line
+
 Thu, 25 Jan 2024 00:20:00 +0530
 ### [Dangerous status quo: On continuing hostilities in Manipur](https://www.thehindu.com/opinion/editorial/dangerous-status-quo-on-continuing-hostilities-in-manipur/article67772983.ece)
 

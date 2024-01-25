@@ -1,3 +1,129 @@
+2024-01-25T22:55:28+05:30
+### [Sam Pitroda, Civil Society to Put in Place an Independent Expert Panel to Monitor 2024 Polls](https://thewire.in/rights/sam-pitroda-civil-society-to-put-in-place-an-independent-expert-panel-to-monitor-2024-polls)
+
+No Article text 
+Noting that the citizens have lost faith in the present system of conducting elections using EVMs, Citizens' Commission on Elections said a seven-member committee will 'keep a watch on elections'.
+
+2024-01-25T22:38:12+05:30
+### ['Malicious Propaganda': India Refutes Pakistan's Accusations of Involvement in Targeted Killings](https://thewire.in/south-asia/malicious-propaganda-india-refutes-pakistans-accusations-of-involvement-in-targeted-killings)
+
+No Article text 
+India's reaction was in response to Pakistan's allegation that India was running a campaign of 'extra-territorial and extra-judicial killings' and had set up a 'sophisticated international set-up spread over multiple jurisdictions'.
+
+2024-01-25T22:13:17+05:30
+### [Kerala Governor Wades into Another Controversy After Personal Attack on Jurist Fali Nariman, Faces Pushback](https://thewire.in/politics/kerala-guvs-conflict-of-interest-charge-at-justice-rohinton-after-latter-pulled-him-up-over-bills)
+
+No Article text 
+'The father (Fali Nariman) is receiving money and the son (Justice Rohinton Nariman) is giving opinions blasting the governor. This is not following the principle of natural justice,' said Arif Mohammed Khan.
+
+2024-01-25T20:17:34+05:30
+### [Saffron Flags Atop Mosques and Insulting Posts: Communal Incidents from UP Around Ram Temple Event](https://thewire.in/communalism/saffron-flags-atop-mosques-and-insulting-posts-communal-incidents-from-up-around-ram-temple-event)
+
+No Article text 
+According to the police, at least 10 communal incidents were reported from across the state, including inflammatory posts and offensive sloganeering, in and around the day of consecration of the Ram Temple in Ayodhya.
+
+2024-01-25T19:05:10+05:30
+### [In Karnataka's Bijapur, Christian Couple Allegedly Beaten Up for Practising Faith](https://thewire.in/rights/in-karnatakas-bijapur-christian-couple-beaten-up-for-allegedly-practising-faith)
+
+No Article text 
+The group of men who were behind the attack warned the woman, who works as an ASHA worker, of getting her fired from her job as well getting her food security card canceled.
+
+2024-01-25T19:02:19+05:30
+### [In 2013-2022, Over 800 Died Every Year On Average Due to Exposure to Cold](https://thewire.in/environment/over-800-died-every-year-average-exposure-to-the-cold)
+
+No Article text 
+Meanwhile, the India Meteorological Department said that cold wave conditions would prevail over northern India for the next two days.
+
+2024-01-25T18:34:36+05:30
+### [Defying Repressive Taliban Regime, Afghan Women Run Digital Magazine with Critical Reporting](https://thewire.in/world/defying-repressive-taliban-regime-afghan-women-run-digital-magazine-with-critical-reporting)
+
+No Article text 
+Afghan women are advocating for their rights under the rule of the radical Taliban through an online magazine, Zan Times, published by a group of female Afghan journalists.
+
+2024-01-25T18:00:36+05:30
+### [The Vishwaguru That We Lack Today](https://thewire.in/politics/the-vishwaguru-that-we-lack-today)
+
+No Article text 
+In 2024, as the people of Gaza are getting pummelled in a genocidal onslaught, we would love to have a Vishwaguru that would speak up against the global west on behalf of the global south that has thrown its weight in favour of Gaza.
+
+2024-01-25T17:16:39+05:30
+### [Whither Assam Muslims? The Story of Group's Exclusion from Political, Public Spheres](https://thewire.in/rights/whither-assam-muslims-the-story-of-groups-exclusion-from-political-public-spheres)
+
+No Article text 
+Muslims, who constitute 35% of the state population, are abysmally represented in the positions of power. Their share, however, among the undertrials in the state in 52.54%.
+
+2024-01-25T16:39:49+05:30
+### [Ladakh: Renaming Govt Health Centres 'Ayushman Arogya Mandirs' Invites Backlash](https://thewire.in/government/ladakh-renaming-govt-health-centres-ayushman-arogya-mandirs-invites-backlash)
+
+No Article text 
+The region's most influential Buddhist organisation and elected representatives have called it an affront to locals' sentiments.
+
+2024-01-25T16:30:45+05:30
+### [Take Nothing for Granted, Not Even the Constitution](https://thewire.in/politics/take-nothing-for-granted-not-even-the-constitution)
+
+No Article text 
+Democracy cannot reside in the oracular voice of any one man, great or not.
+
+2024-01-25T16:26:24+05:30
+### [Watch: Meitei MLAs Taking Oaths, CM Signing On to Push Arambai Tenggol's Goals ‘Shouldn’t Have Happened’](https://thewire.in/politics/watch-meitei-mlas-taking-oaths-cm-signing-on-to-push-arambai-tenggols-goals-shouldnt-have-happened)
+
+No Article text 
+Thirty-seven of the state’s Meitei MLAs and two of its Meitei MPs publicly taking an oath and the chief minister and deputy chief minister signing on to promote and pursue Arambai Tenggol’s objectives with the Centre is “unfortunate in many ways”, Pradip Phanjoubam said.
+
+2024-01-25T16:00:13+05:30
+### [Bastar: Children Caught in the Crossfire Between Maoists and Security Forces](https://thewire.in/rights/bastar-children-caught-in-the-crossfire-between-maoists-and-security-forces)
+
+No Article text 
+The failure to address these grievances of the native Adivasis of these regions has eroded the trust between the villagers and security forces.
+
+2024-01-25T15:37:14+05:30
+### [Umar Khalid's Bail Plea Adjourned Yet Again, SC Says Will Hear Matter on Jan 31](https://thewire.in/law/umar-khalids-bail-plea-adjourned-yet-again-sc-says-will-hear-matter-on-jan-31)
+
+No Article text 
+The hearing was reportedly adjourned on Wednesday because Justice Trivedi had to be in a different special bench combination to hear another matter.
+
+2024-01-25T14:04:26+05:30
+### [What Pakistan's Forthcoming Elections Will Mean for Political Instability and Military Control](https://thewire.in/south-asia/what-pakistans-forthcoming-elections-will-mean-for-political-instability-and-military-control)
+
+No Article text 
+The February 8 elections are unlikely to bring stability or reduce political confrontation in Pakistan in the foreseeable future.
+
+2024-01-25T13:22:05+05:30
+### [Justice in India Requires Inspiration from the Tricolour, Not Temple Dhwajas](https://thewire.in/law/justice-in-india-requires-inspiration-from-the-tricolour-not-temple-dhwajas)
+
+No Article text 
+How could a pure Hindu Icon, a dhwaja at a temple, be an icon of universality and of the binding nature of tradition, as the CJI suggested it was?
+
+2024-01-25T13:06:55+05:30
+### [India's Banking System Liquidity Deficit Hits Record High](https://thewire.in/banking/indias-banking-system-liquidity-deficit-hits-record-high)
+
+No Article text 
+The deficit widened to Rs 3.34 trillion on January 23.
+
+2024-01-25T12:14:12+05:30
+### [One Dose of HPV Vaccine Helps Prevent Cervical Cancer: Indian Study](https://thewire.in/health/one-dose-of-hpv-vaccine-helps-prevent-cervical-cancer-indian-study)
+
+No Article text 
+The Union government has denied reports that the HPV vaccine has been made a part of the government's routine immunisation programme.
+
+2024-01-25T11:49:41+05:30
+### [Admin, Infrastructure, Operational Woes Mount as JU Completes Month 8 Without a Permanent V-C](https://thewire.in/education/jadavpur-university-vice-chancellor-governor-cv-ananda-bose)
+
+No Article text 
+'The future of students is in question due to the ongoing conflict between the state and the governor.'
+
+2024-01-25T10:04:11+05:30
+### [Chart: Ahead of India’s Election, What Do People Care About?](https://thewire.in/politics/chart-ahead-of-indias-election-what-do-people-care-about)
+
+No Article text 
+Unemployment was the answer most frequently selected, chosen by just over half of respondents. This was followed by education, poverty and the environment.
+
+2024-01-25T08:54:46+05:30
+### [Survey Finds False Information Risk Highest in India](https://thewire.in/media/survey-finds-false-information-risk-highest-in-india)
+
+No Article text 
+Out of all risks, misinformation and disinformation was most frequently selected as the number one risk for India by experts, coming before infectious diseases, illicit economic activity, inequality and labour shortages.
+
 2024-01-24T23:11:02+05:30
 ### [British Cricketer Shoaib Bashir Gets Indian Visa Finally After UK Govt Intervened: Report](https://thewire.in/sport/british-cricketer-shoaib-bashir-gets-indian-visa-finally-after-uk-govt-intervened-report)
 

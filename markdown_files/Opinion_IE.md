@@ -1,3 +1,58 @@
+Thu, 25 Jan 2024 10:41:13 +0000
+### [Bharat Ratna: Was Karpoori Thakur’s contribution to nation building greater than that of Narasimha Rao?](https://indianexpress.com/article/opinion/columns/bharat-ratna-karpoori-thakur-contribution-nation-building-greater-narasimha-rao-9127460/)
+
+Article found but Couldn't summarize
+
+Thu, 25 Jan 2024 09:51:32 +0000
+### [A fitting tribute to Karpoori Thakur — rethink the politics of social justice](https://indianexpress.com/article/opinion/columns/karpoori-thakur-bharat-ratna-politics-social-justice-9127369/)
+
+Article found but Couldn't summarize
+
+Thu, 25 Jan 2024 09:00:37 +0000
+### [Macron in India: For Delhi and Paris, a common Indo-Pacific vision](https://indianexpress.com/article/opinion/columns/macron-in-india-delhi-indo-pacific-vision-9127168/)
+
+Article found but Couldn't summarize
+
+Thu, 25 Jan 2024 01:41:23 +0000
+### [Sushil Kumar Modi on Karpoori Thakur: The common man’s man](https://indianexpress.com/article/opinion/columns/sushil-kumar-modi-on-karpoori-thakur-the-common-mans-man-9126345/)
+
+Article found but Couldn't summarize
+
+Thu, 25 Jan 2024 01:37:33 +0000
+### [France’s early bet on India is paying off](https://indianexpress.com/article/opinion/columns/frances-early-bet-on-india-is-paying-off-9126346/)
+
+Article found but Couldn't summarize
+
+Thu, 25 Jan 2024 01:37:25 +0000
+### [How the Telecom Act undermines personal liberties](https://indianexpress.com/article/opinion/columns/how-the-telecom-act-undermines-personal-liberties-9126314/)
+
+Article found but Couldn't summarize
+
+Thu, 25 Jan 2024 01:30:39 +0000
+### [How to make GST less taxing](https://indianexpress.com/article/opinion/columns/how-to-make-gst-less-taxing-9126334/)
+
+Article found but Couldn't summarize
+
+Thu, 25 Jan 2024 01:20:33 +0000
+### [Express View: Bharat Ratna Karpoori Thakur](https://indianexpress.com/article/opinion/editorials/express-view-bharat-ratna-karpoori-thakur-9126340/)
+
+Article found but Couldn't summarize
+
+Thu, 25 Jan 2024 01:20:25 +0000
+### [Express View on Oscars nominations: Twist in the tale](https://indianexpress.com/article/opinion/editorials/express-view-on-oscars-nominations-twist-in-the-tale-9126339/)
+
+Article found but Couldn't summarize
+
+Thu, 25 Jan 2024 01:15:27 +0000
+### [Express View on food prices: Dal, roti, cheeni](https://indianexpress.com/article/opinion/editorials/express-view-on-food-prices-dal-roti-cheeni-9126315/)
+
+Article found but Couldn't summarize
+
+Thu, 25 Jan 2024 00:43:40 +0000
+### [January 25, 1984, Forty Years Ago: Public Sector Issues](https://indianexpress.com/article/opinion/40-years-ago/january-25-1984-forty-years-ago-public-sector-issues-9126349/)
+
+Article found but Couldn't summarize
+
 Wed, 24 Jan 2024 14:21:28 +0000
 ### [With Bharat Ratna recognition, a look at Karpoori Thakur’s fraught relationship with the Sangh Parivar](https://indianexpress.com/article/opinion/columns/bharat-ratna-recognition-karpoori-thakur-fraught-relationship-sangh-parivar-9126091/)
 

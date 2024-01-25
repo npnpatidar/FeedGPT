@@ -1,3 +1,93 @@
+Thu, 25 Jan 2024 19:31:34 +0530
+### [‘Paltu Ram’ strikes again? Why Nitish Kumar could leave INDIA alliance](https://www.firstpost.com/explainers/paltu-ram-strikes-again-why-nitish-kumar-could-leave-india-alliance-13656222.html)
+
+Article found but Couldn't summarize 
+‘Paltu Ram’ strikes again? Why Nitish Kumar could leave INDIA alliance
+
+Thu, 25 Jan 2024 17:49:10 +0530
+### [Will Israeli hostages impregnated by Hamas be able to opt for abortion?](https://www.firstpost.com/explainers/will-israeli-hostages-impregnated-by-hamas-terrorists-be-able-to-opt-for-an-abortion-13655262.html)
+
+Article found but Couldn't summarize 
+Will Israeli hostages impregnated by Hamas be able to opt for abortion?
+
+Thu, 25 Jan 2024 17:20:34 +0530
+### [Now, avail ‘cashless’ treatment at any hospital in India. Here’s how](https://www.firstpost.com/explainers/health-insurance-cashless-treatment-at-any-hospital-in-india-heres-how-13655282.html)
+
+Article found but Couldn't summarize 
+Now, avail ‘cashless’ treatment at any hospital in India. Here’s how
+
+Thu, 25 Jan 2024 16:30:57 +0530
+### [Why and when did Saudi Arabia ban alcohol? Why is its first liquor store a big deal?](https://www.firstpost.com/explainers/saudi-arabia-alcohol-store-why-and-when-did-saudi-arabia-ban-alcohol-islam-13653792.html)
+
+Article found but Couldn't summarize 
+Why and when did Saudi Arabia ban alcohol? Why is its first liquor store a big deal?
+
+Thu, 25 Jan 2024 16:29:01 +0530
+### [How a military parade became India’s R-Day tradition](https://www.firstpost.com/explainers/republic-day-2024-military-parade-india-r-day-tradition-kartavya-path-history-significance-13654972.html)
+
+Article found but Couldn't summarize 
+How a military parade became India’s R-Day tradition
+
+Thu, 25 Jan 2024 15:19:26 +0530
+### [Emmanuel Macron’s India visit: How New Delhi’s ties with Paris have stood the test of time](https://www.firstpost.com/explainers/france-emmanuel-macron-india-visit-how-new-delhis-ties-with-paris-have-stood-the-test-of-time-13654472.html)
+
+Article found but Couldn't summarize 
+Emmanuel Macron’s India visit: How New Delhi’s ties with Paris have stood the test of time
+
+Thu, 25 Jan 2024 14:56:25 +0530
+### [Why California woman who stabbed partner 100 times won’t go to jail](https://www.firstpost.com/explainers/why-california-woman-who-stabbed-partner-100-times-wont-go-to-jail-13654672.html)
+
+Article found but Couldn't summarize 
+Why California woman who stabbed partner 100 times won’t go to jail
+
+Thu, 25 Jan 2024 13:47:47 +0530
+### [Now anonymous, parody accounts a crime in Sri Lanka: Look at controversial social media law](https://www.firstpost.com/explainers/now-anonymous-parody-accounts-a-crime-in-sri-lanka-look-at-controversial-social-media-law-13654202.html)
+
+Article found but Couldn't summarize 
+Now anonymous, parody accounts a crime in Sri Lanka: Look at controversial social media law
+
+Thu, 25 Jan 2024 13:13:43 +0530
+### [The Vatican has new rules for whistleblowers. Will it help Pope Francis combat corruption?](https://www.firstpost.com/explainers/the-vatican-has-new-rules-for-whistleblowers-will-it-help-pope-francis-combat-corruption-13653472.html)
+
+Article found but Couldn't summarize 
+The Vatican has new rules for whistleblowers. Will it help Pope Francis combat corruption?
+
+Thu, 25 Jan 2024 12:42:18 +0530
+### [US to see its first nitrogen gas execution: Why is this method controversial?](https://www.firstpost.com/explainers/us-alabama-first-nitrogen-gas-execution-method-controversial-kenneth-smith-13653712.html)
+
+Article found but Couldn't summarize 
+US to see its first nitrogen gas execution: Why is this method controversial?
+
+Thu, 25 Jan 2024 11:53:04 +0530
+### [A storm in a teacup: The US-UK fight over making perfect tea](https://www.firstpost.com/explainers/a-storm-in-a-teacup-the-us-uk-fight-over-making-perfect-tea-13653412.html)
+
+Article found but Couldn't summarize 
+A storm in a teacup: The US-UK fight over making perfect tea
+
+Thu, 25 Jan 2024 10:39:46 +0530
+### [Saudi Arabia to open first alcohol store: How Crown Prince Mohammed bin Salman is reforming the Kingdom](https://www.firstpost.com/explainers/saudi-arabia-to-open-first-alcohol-store-how-crown-prince-mohammed-bin-salman-is-reforming-the-kingdom-13653062.html)
+
+Article found but Couldn't summarize 
+Saudi Arabia to open first alcohol store: How Crown Prince Mohammed bin Salman is reforming the Kingdom
+
+Thu, 25 Jan 2024 10:04:10 +0530
+### [Russian plane crashes near Ukraine: The unanswered questions around the incident](https://www.firstpost.com/explainers/russian-plane-crashes-near-ukraine-the-many-unanswered-questions-around-the-incident-13652832.html)
+
+Article found but Couldn't summarize 
+Russian plane crashes near Ukraine: The unanswered questions around the incident
+
+Thu, 25 Jan 2024 10:04:02 +0530
+### [Roadshow, fort tour and more: R-Day chief guest Macron's plans in India](https://www.firstpost.com/explainers/emmanuel-macron-is-visiting-india-for-r-day-heres-what-to-expect-13652202.html)
+
+Article found but Couldn't summarize 
+Roadshow, fort tour and more: R-Day chief guest Macron's plans in India
+
+Thu, 25 Jan 2024 09:58:59 +0530
+### [Emmanuel Macron is India's Republic Day guest: A look back at Puducherry's French connection](https://www.firstpost.com/explainers/emmanuel-macron-is-indias-republic-day-guest-a-look-back-at-puducherrys-french-connection-13647152.html)
+
+Article found but Couldn't summarize 
+Emmanuel Macron is India's Republic Day guest: A look back at Puducherry's French connection
+
 Wed, 24 Jan 2024 22:11:54 +0530
 ### [Arun Govil &amp; the Ramayan legacy: Why he remains TV’s most favourite Ram](https://www.firstpost.com/explainers/why-arun-govils-ram-has-stayed-with-us-13652332.html)
 

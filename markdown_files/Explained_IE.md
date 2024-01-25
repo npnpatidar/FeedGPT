@@ -1,3 +1,71 @@
+Thu, 25 Jan 2024 13:55:02 +0000
+### [Why a Chemistry professor suggested adding salt to tea for the perfect cup](https://indianexpress.com/article/explained/everyday-explainers/salt-in-tea-bitter-taste-effect-science-9127798/)
+
+A new book called "Steeped: The Chemistry of Tea" by Michelle Francl has caused a debate between Americans and the British regarding the best way to prepare tea. Francl suggests adding a pinch of salt to tea to reduce its bitterness, which sparked disagreement. The US Embassy in the UK clarified that adding salt to tea is not official US policy. The UK's Cabinet Office responded with humor, stating that tea can only be made using a kettle. 
+
+Tea is beloved in Britain since it arrived from China during the colonial era, while the US is primarily a nation of coffee drinkers. Both tea and coffee have a slight bitterness due to caffeine and tannin compounds. The salt tip seems to work because taste receptors on the tongue prevent the brain from confusing bitter and sweet flavors. Mixing salt with bitter compounds can mask the bitterness. However, the exact mechanism behind this is not well-known.
+
+Francl's book explores over 100 chemical compounds in tea and provides brewing advice. She recommends using short and stout tea cups to retain heat, heating the cup separately for more aromatic compounds, and preferring loose tea over teabags for better circulation of tea leaves. Microwaves are discouraged for tea preparation. When using tea bags, large ones should be used and steeped quickly with dunking and squeezing to reduce sour-tasting tannins.
+
+To avoid curdling, warmed milk should be added after pouring the tea. Francl also suggests adding a small amount of lemon juice to remove floating scum formed from chemical elements in the tea and water. The book connects the chemistry of tea with fundamental scientific discoveries, such as Emil Fischer's Nobel Prize-winning work on caffeine and George de Hevesy's isotopic tracing research.
+
+In unrelated news, an IAS officer in Chandigarh ordered the sealing of establishments and suspension of liquor licenses for ten major vendors. As a result, the Home department transferred him out of the Excise department.
+
+Thu, 25 Jan 2024 13:38:50 +0000
+### [January 26, 1950: How India observed its first Republic Day](https://indianexpress.com/article/explained/explained-history/january-26-1950-when-india-became-republic-9127785/)
+
+On January 26, 1950, India became a sovereign and democratic republic, marking the end of British rule in the country. After two years of independence, the newly drafted Constitution of India came into effect, replacing the British-era Government of India Act of 1935. Dr Rajendra Prasad became the President of India, and the Constituent Assembly became the Parliament until the first general elections took place in 1951-52. To showcase state authority and prestige, India continued the tradition of military parades started during the British Raj. The Republic Day celebrations included a grand military parade in New Delhi, with participation from the armed forces and the Delhi Police. The parade featured a 31-gun salute, celebratory gunfire, and aerial displays by Indian Air Force planes. The President's horse-drawn carriage was flanked by the President's Bodyguard, and after the event, the President returned to Government House. Despite the celebrations, leaders recognized the challenges ahead, as inequality persisted in social and economic life. In a speech, Dr B R Ambedkar emphasized the need to address this contradiction for the success of political democracy.
+
+Thu, 25 Jan 2024 13:05:44 +0000
+### [US signals cooperation with China on AI safety: what could happen, and what could it mean?](https://indianexpress.com/article/explained/explained-sci-tech/us-cooperation-china-ai-safety-significance-9127739/)
+
+Article found but Couldn't summarize
+
+Thu, 25 Jan 2024 10:54:18 +0000
+### [What are Odisha’s famous black tigers, and why is the state planning a safari around them?](https://indianexpress.com/article/explained/odisha-black-tigers-safari-naveen-patnaik-9127455/)
+
+Odisha's Chief Minister, Naveen Patnaik, has announced the development of a melanistic tiger safari near the Similipal Tiger Reserve (STR), which will be the first of its kind in the world. This new safari aims to showcase the rare and majestic melanistic tiger species found exclusively in Odisha. The plan has received approval from the technical committee of the National Tiger Conservation Authority (NTCA) and is expected to be ready for visitors by October this year.
+
+The STR, located in Odisha's Mayurbhanj district, is Asia's second-largest biosphere and the only habitat for melanistic royal Bengal tigers in India. These tigers have black and yellow interspersed stripes due to a unique lineage with higher-than-normal levels of melanin. However, they are more accurately described as being pseudo-melanistic since they are not entirely black.
+
+Research conducted by the National Centre for Biological Sciences (NBCS) suggests that a single mutation in the Transmembrane Aminopeptidase Q (Taqpep) gene results in the broadened or spread stripes seen in the Similipal black tigers. Genetic analyses indicate that these tigers may have originated from a small founding population and are inbred due to their isolation from other tiger populations.
+
+The proposed melanistic tiger safari will encompass around 200 hectares of land near the Dhanbad-Balasore National Highway-18, approximately 15 km away from the STR. It will feature an open enclosure housing three melanistic tigers from the Nandankanan zoo and other rescued tigers unsuitable for the wild but suitable for display. The park will also include veterinary care facilities, a rescue center, staff infrastructure, and visitor amenities.
+
+The safari's objective is to enable wildlife conservationists, researchers, and enthusiasts to observe these rare big cats up close and raise awareness about the need for their conservation. As the sighting of tigers is challenging in the expansive STR, the safari will enhance the attraction for visitors to Similipal.
+
+The project requires further feasibility studies by an NTCA committee and other statutory clearances, including approval from the Central Zoo Authority. The state government's ongoing tiger survey suggests a higher number of royal Bengal tigers in the STR than reported by the NTCA, with their findings soon to be released.
+
+Thu, 25 Jan 2024 09:36:42 +0000
+### [Moti Mahal vs Daryaganj: Who invented butter chicken? Delhi HC to decide](https://indianexpress.com/article/explained/explained-law/moti-mahal-daryaganj-who-invented-butter-chicken-9126175/)
+
+The Delhi High Court is currently handling a dispute between two restaurant chains, Moti Mahal and Daryaganj, over the claim of who invented butter chicken and dal makhani. Moti Mahal asserts that its founder, Kundal Lal Gujral, brought these dishes to India after Partition from Peshawar's Moti Mahal restaurant. However, Daryaganj, known for its appearance on Shark Tank India, also started advertising itself as the inventor of these dishes, attributing it to their forefather, Kundan Lal Jaggi. Moti Mahal filed a lawsuit against Daryaganj, alleging trademark infringement and passing off.
+
+Moti Mahal's suit seeks a temporary injunction against Daryaganj, which would require them to refrain from certain actions until the court makes a decision. Moti Mahal claims that Daryaganj is misleading the public by falsely claiming to have invented butter chicken and dal makhani and by using a manipulated photograph of the Peshawar restaurant on its website. They want Daryaganj to stop claiming any association with Moti Mahal and using their trademarked tagline.
+
+In response, Daryaganj argues that the photograph in question was jointly used by both parties' predecessors and that Moti Mahal has no exclusive rights to it. They claim that they cropped the picture to exclude the term "Moti Mahal" and avoid trademark infringement. While they agreed to remove the disputed photograph, Daryaganj is yet to file its complete response to the lawsuit.
+
+The article explains that a trademark provides exclusive rights to its owner and its unauthorized use can be considered infringement. A trademark can be violated even if the infringing mark is not identical but is deceptively similar. Passing off is another form of infringement where one party tries to benefit from the reputation established by another in a trade or business. Moti Mahal argues that Daryaganj's claims and use of the manipulated photograph amount to passing off their trademark as their own.
+
+In cases of trademark infringement, the owner can initiate legal action, seeking remedies like injunctions, damages, and accounts. An injunction is an official court order to prevent someone from doing something. The Delhi High Court has asked Daryaganj to file its response within 30 days, and the matter is scheduled for a hearing on May 29.
+
+The article concludes with unrelated information about filmmaker Rohit Shetty, stating that he made a film called Cirkus during the pandemic to provide jobs for his associated workers but would not make the same film given a choice today.
+
+Thu, 25 Jan 2024 07:45:23 +0000
+### [Health insurance companies to offer 100% ‘cashless’ treatment in hospitals from today: All you need to know](https://indianexpress.com/article/explained/explained-economics/health-insurance-cashless-hospitals-treatment-9127009/)
+
+Article found but Couldn't summarize
+
+Thu, 25 Jan 2024 06:10:07 +0000
+### [Why Thailand seeks an ambitious trade deal with EU, what the hurdles are](https://indianexpress.com/article/explained/explained-global/eu-thailand-trade-deal-significance-9126857/)
+
+The European Union (EU) and Thailand are set to hold a second round of talks on a free trade agreement. Bangkok aims to finalize the negotiations by early 2025, hoping to revive its sluggish economy. The deal would solidify the EU's focus on Southeast Asia, as it has already secured trade agreements with Vietnam and Singapore, while negotiating with Indonesia and the Philippines. However, discussions between the EU and Thailand may face challenges, particularly regarding the protection of their respective fishery industries. The EU is seeking a more comprehensive deal than Thailand's previous trade pacts, and both sides are expected to address concerns related to market access, intellectual property, government contracts, environmental standards, and agricultural and fishery imports. Thailand considers the EU trade agreement a top priority and hopes to conclude the deal within the specified timeframe.
+
+Thu, 25 Jan 2024 01:30:27 +0000
+### [As Army launches Op Sarvashakti, recalling Sarpvinash of 2003, that crushed terror base in Pir Panjal](https://indianexpress.com/article/explained/as-army-launches-op-sarvashakti-recalling-sarpvinash-of-2003-that-crushed-terror-base-in-pir-panjal-9126363/)
+
+Operation Sarvashakti is a military operation launched by the Indian Army in the Rajouri-Poonch sector of Jammu and Kashmir. The objective of the operation is to target terrorists who have been carrying out attacks on security forces in the area. The operation involves deploying additional troops to increase the density of forces and enhance the chances of contact with terrorists. This operation is reminiscent of a previous operation called Operation Sarpvinash, which took place in the same forests over two decades ago. During that operation, Indian forces successfully flushed out terrorists who had infiltrated from across the border and had set up camps in the region. The current operation aims to eliminate the threat posed by terrorists in the area and restore peace.
+
 Wed, 24 Jan 2024 14:53:05 +0000
 ### [Turkey finally backs Sweden’s NATO bid: Why the opposition, why it changed its stance](https://indianexpress.com/article/explained/everyday-explainers/turkey-swedens-nato-why-it-changed-its-stance-9126127/)
 
