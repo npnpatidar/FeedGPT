@@ -4,6 +4,12 @@ Wed, 24 Jan 2024 22:11:54 +0530
 Article found but Couldn't summarize 
 Arun Govil &amp;amp; the Ramayan legacy: Why he remains TV’s most favourite Ram
 
+Wed, 24 Jan 2024 22:07:48 +0530
+### [FirstUp: PM Modi and Macron roadshow, MVA leaders meet, Team India takes on England.... today's top stories](https://www.firstpost.com/explainers/firstup-pm-modi-and-macron-roadshow-mva-leaders-meet-team-india-takes-on-england-todays-top-stories-13652402.html)
+
+Article found but Couldn't summarize 
+FirstUp: PM Modi and Macron roadshow, MVA leaders meet, Team India takes on England.... today's top stories
+
 Wed, 24 Jan 2024 20:03:57 +0530
 ### [Who are the six Indians marching in the French Army contingent at the Republic Day parade?](https://www.firstpost.com/explainers/who-are-the-six-indians-marching-in-the-french-army-contingent-at-the-republic-day-parade-13651882.html)
 
