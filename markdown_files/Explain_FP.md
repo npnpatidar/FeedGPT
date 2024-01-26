@@ -4,6 +4,11 @@ Thu, 25 Jan 2024 19:31:34 +0530
 Article found but Couldn't summarize 
 ‘Paltu Ram’ strikes again? Why Nitish Kumar could leave INDIA alliance
 
+Thu, 25 Jan 2024 18:33:28 +0530
+### [FirstUp: Republic Day parade in New Delhi, Maratha quota protests in Mumbai... Big news today](https://www.firstpost.com/explainers/firstup-republic-day-parade-in-new-delhi-maratha-quota-protests-in-mumbai-big-news-today-13655622.html)
+
+The Republic Day 2024 parade in New Delhi is set to begin at 10.30 am from Vijay Chowk to Kartavya Path. With the occasion falling on a Friday, it provides Indians with a long weekend as it is the only national holiday when banks will be closed. Alongside the parade, other notable events include Karnataka's "Constitution Awareness" program, Maratha quota protests in Mumbai, and a six-hour water cut in Bengaluru. The parade's twin themes this year are "Viksit Bharat" and "Bharat – Loktantra ki Matruka," with French President Emmanuel Macron serving as the chief guest. Additionally, Maharashtra's Republic Day parade will feature UN General Assembly President Dennis Francis as a state guest. In Mumbai, quota activist Manoj Jarange plans to go on an indefinite hunger strike, demanding reservation for Marathas in the state. Lastly, the Karnataka government has organized a state-wide "Constitution Awareness Jatha" from today until February 23 to commemorate the 75th anniversary of the Indian constitution's adoption.
+
 Thu, 25 Jan 2024 17:49:10 +0530
 ### [Will Israeli hostages impregnated by Hamas be able to opt for abortion?](https://www.firstpost.com/explainers/will-israeli-hostages-impregnated-by-hamas-terrorists-be-able-to-opt-for-an-abortion-13655262.html)
 
