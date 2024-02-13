@@ -1,3 +1,62 @@
+Mon, 12 Feb 2024 18:20:34 +0530
+### [The Centre’s big push for residential rooftop solar plans | Explained](https://www.thehindu.com/news/national/residential-rooftop-solar-programme-scheme-india-modi-explains-energy-electricity/article67813080.ece)
+
+Article found but Couldn't summarize 
+What is the rooftop solar power programme unveiled by PM Modi? How critical is rooftop solar power to India’s climate pledge of 50% energy capacity from non-fossil fuels by 2030?
+
+Sun, 11 Feb 2024 03:46:00 +0530
+### [Valerii Zaluzhnyi | Fall of the ‘Iron General’](https://www.thehindu.com/news/international/valerii-zaluzhnyi-fall-of-the-iron-general/article67833297.ece)
+
+Article found but Couldn't summarize 
+The man who led Ukraine’s resistance against Russia’s invasion has been sacked by President Zelenskyy after the failed counteroffensive and growing rift between the two
+
+Sun, 11 Feb 2024 03:24:00 +0530
+### [Michelle O’Neill | A Balancing Act](https://www.thehindu.com/news/international/michelle-oneill-a-balancing-act/article67833352.ece)
+
+Article found but Couldn't summarize
+
+Sun, 11 Feb 2024 03:10:00 +0530
+### [Shakti | The moment of rhythm](https://www.thehindu.com/entertainment/music/shakti-the-moment-of-rhythm/article67833348.ece)
+
+Article found but Couldn't summarize 
+The 50-year-old music band has won the Best Global Music Album award at the 66th Grammy for their pandemic creation This Moment
+
+Sat, 10 Feb 2024 10:30:00 +0530
+### [Global warming’s patterns are more important than its levels | Explained](https://www.thehindu.com/sci-tech/science/global-warming-15-degrees-threshold-warming-pattern-more-important/article67828916.ece)
+
+Article found but Couldn't summarize 
+Fixating on whether the planet’s surface has warmed by more than 1.5 degrees C can lead us astray, Prof. Raghu Murtugudde writes
+
+Fri, 09 Feb 2024 16:26:18 +0530
+### [Is climate change an election issue in India?](https://www.thehindu.com/sci-tech/energy-and-environment/is-climate-change-an-election-issue-in-india/article67726742.ece)
+
+Article found but Couldn't summarize 
+The Hindu looks at how Indian voters perceive climate change, what climate agenda is centred in political campaigns and if this could be India’s year of voting for ‘green’ policies.
+
+Fri, 09 Feb 2024 13:35:56 +0530
+### [‘Censorship’ or ‘right to authentic information’?: The Bombay HC’s split verdict on Centre’s Fact-Check Unit | Explained](https://www.thehindu.com/news/national/the-bombay-hcs-split-verdict-on-centres-fact-check-unit-explained/article67813687.ece)
+
+Article found but Couldn't summarize 
+Why were the amended IT Rules challenged? On what grounds have the two judges differed? Will the verdict have an impact on similar units proposed to be established in Tamil Nadu and Karnataka?
+
+Fri, 09 Feb 2024 08:30:00 +0530
+### [What are the regulations with respect to rice prices? | Explained](https://www.thehindu.com/business/agri-business/what-are-the-regulations-with-respect-to-rice-prices-explained/article67826711.ece)
+
+Article found but Couldn't summarize 
+What are the measures the government is taking to bring down the increasing price of rice?
+
+Thu, 08 Feb 2024 22:45:54 +0530
+### [The Paytm Payments Bank debacle | Explained](https://www.thehindu.com/business/Economy/the-paytm-payments-bank-debacle-explained/article67826703.ece)
+
+Article found but Couldn't summarize 
+Why has the apex banking regulator penalised Paytm Payments Bank Ltd? How is it going to affect the services of the fintech company? What are the concerns regarding money laundering?
+
+Thu, 08 Feb 2024 10:30:00 +0530
+### [IPCC work on seventh climate assessment threatened by shorter timelines | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/ipcc-bureau-ar7-climate-assessment-stocktake-timelines-explained/article67823986.ece)
+
+Article found but Couldn't summarize 
+The IPCC Bureau, which prepares climate assessment reports, is under pressure to publish them in time for the next global stocktake
+
 Thu, 25 Jan 2024 15:44:30 +0530
 ### [Watch | Why is the Ukraine conflict still going on? What is happening in Gaza?](https://www.thehindu.com/news/international/watch-why-is-the-ukraine-conflict-still-going-on-what-is-happening-in-gaza/article67775861.ece)
 

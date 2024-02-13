@@ -1,3 +1,211 @@
+Tue, 13 Feb 2024 23:19:56 +0530
+### [A good way to regulate AI is to think of it as a complex adaptive system](https://www.livemint.com/opinion/online-views/a-good-way-to-regulate-ai-is-to-think-of-it-as-a-complex-adaptive-system-11707837055204.html)
+
+Article found but Couldn't summarize 
+The PM-EAC’s proposal of this novel approach has merit, but some aspects like accountability, transparency and ensuring human oversight are hard to implement.
+
+Tue, 13 Feb 2024 23:17:13 +0530
+### [There’s both the will and a way to unleash India’s digital potential](https://www.livemint.com/opinion/online-views/theres-both-the-will-and-a-way-to-unleash-india-s-digital-potential-11707824792894.html)
+
+Article found but Couldn't summarize 
+India is not yet a digital star but it’s certainly rising as one and a well-focused action plan could accelerate this trajectory.
+
+Tue, 13 Feb 2024 23:11:03 +0530
+### [The Paytm crisis: Can an advisory panel make a difference?](https://www.livemint.com/opinion/online-views/the-paytm-crisis-can-an-advisory-panel-make-a-difference-11707824971914.html)
+
+Article found but Couldn't summarize 
+Whether it can help Paytm beyond the optical front is doubtful for various reasons drawn from well-established norms of governance.
+
+Tue, 13 Feb 2024 10:57:16 +0530
+### [A silver lining for India in Pakistan's political drama replay](https://www.livemint.com/opinion/online-views/a-silver-lining-for-india-in-pakistans-political-drama-replay-11707798851629.html)
+
+Article found but Couldn't summarize 
+Over the past decade, even as Pakistan's diplomatic capital and global relevance have shrunk, New Delhi’s have only increased
+
+Tue, 13 Feb 2024 08:00:15 +0530
+### [Has the investment cycle of our economy finally turned up?](https://www.livemint.com/opinion/online-views/has-the-investment-cycle-of-our-economy-finally-turned-up-11707754915652.html)
+
+Article found but Couldn't summarize 
+There are some signs of private investment picking up and next year’s momentum will be crucial.
+
+Tue, 13 Feb 2024 08:00:14 +0530
+### [January’s inflation cool-off: Not too sharp](https://www.livemint.com/opinion/quick-edit/januarys-inflation-cool-off-not-too-sharp-11707751443791.html)
+
+Article found but Couldn't summarize 
+India’s official inflation rate declined to 5.1% year-on-year in January from 5.7% in December. It’s unlikely to alter RBI’s view of general price levels.
+
+Tue, 13 Feb 2024 08:00:14 +0530
+### [Trade winds in RBI sails: A receding El Niño may ease food inflation](https://www.livemint.com/opinion/online-views/trade-winds-in-rbi-sails-a-receding-el-ni-o-may-ease-food-inflation-11707754851894.html)
+
+Article found but Couldn't summarize 
+strapline: The likelihood of El Niño easing by monsoon time has risen. With luck, rainfall will relieve inflationary pressures and help our central bank achieve the price stability it’s aiming for.
+
+Tue, 13 Feb 2024 00:25:19 +0530
+### [The white paper we got wasn’t the one needed urgently today](https://www.livemint.com/opinion/online-views/the-white-paper-we-got-wasn-t-the-one-needed-urgently-today-11707755098202.html)
+
+Article found but Couldn't summarize 
+The economic failures of UPA-2 are well known and a lens on current worries might have served us better.
+
+Tue, 13 Feb 2024 00:17:44 +0530
+### [Amnesia over America’s banking crisis of 2023 may prove perilous](https://www.livemint.com/opinion/online-views/amnesia-over-america-s-banking-crisis-of-2023-may-prove-perilous-11707749714824.html)
+
+Article found but Couldn't summarize 
+It is not good for capitalism when bankers and others who knowingly take risks pay no price when such a risk materializes.
+
+Mon, 12 Feb 2024 23:43:36 +0530
+### [India’s rival is Vietnam in the game of attracting global manufacturers](https://www.livemint.com/opinion/online-views/indias-rival-is-vietnam-in-the-game-of-attracting-global-manufacturers-11707749808503.html)
+
+Article found but Couldn't summarize 
+New Delhi has been urged to lower its import tariffs as that would help the country join global value chains. It can’t expect investment focused only on its domestic market.
+
+Mon, 12 Feb 2024 23:32:07 +0530
+### [It’s time for a broad transition from quantity to quality](https://www.livemint.com/opinion/online-views/its-time-for-a-broad-transition-from-quantity-to-quality-11707749884613.html)
+
+Article found but Couldn't summarize 
+India's achievement of developed-country status will crucially hinge on improved basic services—especially healthcare and education—and on innovation.
+
+Mon, 12 Feb 2024 16:28:49 +0530
+### [Fighting digital financial fraud: India needs new laws to reach global standards](https://www.livemint.com/opinion/online-views/fighting-digital-financial-fraud-india-needs-new-laws-to-reach-global-standards-11707730251143.html)
+
+Article found but Couldn't summarize 
+Despite recent efforts, challenges in dispute resolution and recovery processes underscore the urgency for legislative action to meet global safety standards
+
+Mon, 12 Feb 2024 12:45:50 +0530
+### [Zomato lands in a sweet spot after remarkable recovery](https://www.livemint.com/opinion/zomato-lands-in-a-sweet-spot-after-remarkable-recovery-11707721736100.html)
+
+Article found but Couldn't summarize 
+The company’s stellar third-quarter results confirm anecdotal evidence about a consumption rebound in certain segments of the economy.
+
+Mon, 12 Feb 2024 09:19:22 +0530
+### [The true meaning of ‘misanthrope’ can be found in a comedy series](https://www.livemint.com/opinion/online-views/the-true-meaning-of-misanthrope-can-be-found-in-a-comedy-series-11707653277017.html)
+
+Article found but Couldn't summarize 
+Misanthropy, as a general frustration with society, is more common than it appears at first glance.
+
+Mon, 12 Feb 2024 09:18:28 +0530
+### [Doom spending is not the same as caring for yourself](https://www.livemint.com/opinion/online-views/doom-spending-is-not-the-same-as-caring-for-yourself-11707653195410.html)
+
+Article found but Couldn't summarize 
+‘Doom spending’ is expenditure motivated by a need to cope with stress and it is a nihilistic coping mechanism that can strip us of our savings.
+
+Mon, 12 Feb 2024 09:17:43 +0530
+### [The strategy behind the budget is embedded in its fine details](https://www.livemint.com/opinion/online-views/the-strategy-behind-the-budget-is-embedded-in-its-fine-details-11707653125021.html)
+
+Article found but Couldn't summarize 
+India’s deficit targets have won praise but the deft re-ordering of spending needed to achieve that has escaped public scrutiny.
+
+Mon, 12 Feb 2024 09:17:01 +0530
+### [India could help shape a whole new global consensus](https://www.livemint.com/opinion/online-views/india-could-help-shape-a-whole-new-global-consensus-11707660110204.html)
+
+Article found but Couldn't summarize 
+The Davos model of globalization needs a successor that New Delhi has the potential to be.
+
+Mon, 12 Feb 2024 09:16:21 +0530
+### [Science fiction must escape its dystopic trap and foster hope](https://www.livemint.com/opinion/online-views/science-fiction-must-escape-its-dystopic-trap-and-foster-hope-11707659976764.html)
+
+Article found but Couldn't summarize 
+Books are increasingly filled with dread of the future at a time we need literature investing in hope.
+
+Mon, 12 Feb 2024 09:15:41 +0530
+### [White paper: Politics gets the better of economic fidelity](https://www.livemint.com/opinion/online-views/white-paper-politics-gets-the-better-of-economic-fidelity-11707659896537.html)
+
+Article found but Couldn't summarize 
+Even as political tools, such documents perform better by aiming for broad credibility. Its archival value would’ve been notable had it taken a more even-handed look at the UPA decade.
+
+Mon, 12 Feb 2024 09:14:44 +0530
+### [Farmer protests: Deja vu?](https://www.livemint.com/opinion/online-views/farmer-protests-deja-vu-11707653514999.html)
+
+Article found but Couldn't summarize 
+Over the weekend, Haryana shut internet services and put up roadblocks on its border with Punjab to block off farm groups from reaching Delhi. The sector needs reforms but talks must lead.
+
+Sun, 11 Feb 2024 22:01:05 +0530
+### [Election mode on, consensus to be a rare thing to find](https://www.livemint.com/opinion/columns/election-mode-on-consensus-to-be-a-rare-thing-to-find-11707668726394.html)
+
+Article found but Couldn't summarize 
+In a democracy, consensus is just as crucial as the desire to fulfil one’s agenda
+
+Sat, 10 Feb 2024 11:33:51 +0530
+### [Investors start to shun small and midcaps, but then fall for another poor idea](https://www.livemint.com/opinion/columns/investors-start-to-shun-small-and-midcaps-but-then-fall-for-another-poor-idea-11707543416406.html)
+
+Article found but Couldn't summarize 
+The amount of money pouring into equity funds (all equity funds), is growing rapidly. It’s up 2.5x between June 2023 and January 2024.
+
+Fri, 09 Feb 2024 17:43:18 +0530
+### [India’s AI boom could exceed Satya Nadella’s expectations](https://www.livemint.com/opinion/online-views/indias-ai-boom-could-exceed-satya-nadella-s-expectations-11707480290603.html)
+
+Article found but Couldn't summarize 
+The Microsoft CEO said recently that AI could contribute at least 10% of India’s GDP by the time it hits $5 trillion, but the country has several advantages that, if harnessed correctly, could leave this projection in the dust.
+
+Fri, 09 Feb 2024 08:00:24 +0530
+### [RBI Governor Shaktikanta Das does an encore after the budget](https://www.livemint.com/opinion/online-views/rbi-governor-shaktikanta-das-does-an-encore-after-the-budget-11707408895411.html)
+
+Article found but Couldn't summarize 
+An interim budget devoid of fireworks was followed by a no-nonsense status-quo monetary policy. RBI stuck to its core aim of curbing inflation.
+
+Fri, 09 Feb 2024 08:00:23 +0530
+### [Inflight pitch: Brevity is the soul of a win](https://www.livemint.com/opinion/quick-edit/inflight-pitch-brevity-is-the-soul-of-a-win-11707409209196.html)
+
+Article found but Couldn't summarize 
+An entrepreneur made a napkin pitch to a minister on a flight and got a hearing for a business proposal. Can it join the napkin hall of fame?
+
+Fri, 09 Feb 2024 08:00:23 +0530
+### [RBI review: A policy pivot is not on the central bank’s cards](https://www.livemint.com/opinion/online-views/rbi-review-a-policy-pivot-is-not-on-the-central-bank-s-cards-11707408811422.html)
+
+As GPT-3.5, I can summarize the article for you. The Reserve Bank of India (RBI) recently announced the outcome of its policy review, and it has decided to keep its key rates steady. The RBI's stance remains focused on controlling inflation, with expectations of a repo rate cut in the next fiscal year. Despite a decrease in average inflation, the RBI wants to ensure price stability and complete transmission of its past actions. The central bank is cautious due to uncertainties in food prices and external geopolitical factors. While the economy is performing well, the RBI will continue to use various tools to manage liquidity. Overall, the RBI aims to achieve low and stable inflation before making any changes.
+
+Fri, 09 Feb 2024 06:00:20 +0530
+### [The little helicopter that could](https://www.livemint.com/opinion/columns/the-little-helicopter-that-could-11707404785089.html)
+
+Article found but Couldn't summarize 
+Despite setbacks, Ingenuity, the tiny helicopter sent to Mars by Nasa, has successfully demonstrated the feasibility of powered flight on Mars and has paved the way for future flying machines on the planet.
+
+Fri, 09 Feb 2024 00:00:54 +0530
+### [How have Indians at large fared under this government?](https://www.livemint.com/opinion/online-views/how-have-indians-at-large-fared-under-this-government-11707408963836.html)
+
+Hmm, based on the provided text, it seems that the Finance Minister made claims about the performance of the incumbent government in terms of poverty reduction and per capita income increase. However, the article questions the realism of these claims. It mentions that the claim of poverty reduction is based on extrapolated estimates using the Multi-Dimensional Poverty measure, but the conventional measure of poverty based on consumption expenditure is not available after 2011-12. As for per capita income, while it has increased by more than 50% over the past decade, there is a trend of deceleration in recent years. The article also discusses the income earned by workers, with moderate increases in rural areas but negligible rises in urban areas. It highlights a decline in real wages for regular workers and a decline in rural wages, which is the longest spell of declining wages since independence. The article also mentions a decline in cultivation income for farmers. Overall, the article suggests a decline or deceleration in the income earned by working Indians in the last five years.
+
+Thu, 08 Feb 2024 23:56:29 +0530
+### [A services-led export strategy holds appeal but only up to a certain point](https://www.livemint.com/opinion/online-views/a-services-led-export-strategy-holds-appeal-but-only-up-to-a-certain-point-11707396112583.html)
+
+Article found but Couldn't summarize 
+Indian policy can’t afford to focus on service exports at the cost of our current employment-oriented manufacturing thrust. Recent arguments for focusing on high-value services seem far-fetched in their expectation that such exports would act as a growth engine.
+
+Thu, 08 Feb 2024 23:47:41 +0530
+### [India could look to China as it works on an energy transition](https://www.livemint.com/opinion/online-views/india-could-look-to-china-as-it-works-on-an-energy-transition-11707396209183.html)
+
+Article found but Couldn't summarize 
+The Niti Aayog’s carbon capture plans seem over-ambitious. Carbon capture can’t achieve much while emission reduction can.
+
+Thu, 08 Feb 2024 23:45:29 +0530
+### [Data in the Age of AI: From abundance to sudden scarcity](https://www.livemint.com/opinion/online-views/data-in-the-age-of-ai-from-abundance-to-sudden-scarcity-11707396368968.html)
+
+Article found but Couldn't summarize 
+As large language AI models are voracious consumers of data and also ease software creation, we now find that computation is abundant and data is the relatively scarce resource.
+
+Thu, 08 Feb 2024 19:23:49 +0530
+### [RBI maintains status quo: A year without rate changes](https://www.livemint.com/opinion/rbi-maintains-status-quo-a-year-without-rate-changes-11707400093376.html)
+
+Article found but Couldn't summarize 
+RBI now expects growth at 7% for FY25. Inflation has softened and is broadly expected to remain close to 4.5% next year
+
+Thu, 08 Feb 2024 11:08:10 +0530
+### [PM Modi must forget the past, revive farm reforms; it’s the only way to repair rural economy](https://www.livemint.com/opinion/online-views/pm-modi-must-forget-the-past-revive-farm-reforms-it-s-the-only-way-to-repair-rural-economy-11707366334136.html)
+
+Article found but Couldn't summarize 
+People can’t spend money they don’t have. For consumption in rural India to pick up, wages and incomes will have to improve, if not double
+
+Thu, 08 Feb 2024 08:00:11 +0530
+### [Maximize the Innovation Fund’s impact by focusing on key national goals](https://www.livemint.com/opinion/online-views/maximize-the-innovation-fund-s-impact-by-focusing-on-key-national-goals-11707321383148.html)
+
+Article found but Couldn't summarize 
+The  ₹1 trillion fund must focus on high-tech manufacturing, industrial decarbonization and export competitiveness.
+
+Thu, 08 Feb 2024 08:00:11 +0530
+### [Is a truly uniform civil code possible in India?](https://www.livemint.com/opinion/online-views/is-a-truly-uniform-civil-code-possible-in-india-11707321216239.html)
+
+Article found but Couldn't summarize 
+Uttarakhand’s UCC proposal does aim at gender justice in family matters, but falls short on uniformity. The worry is that its live-in rules intrude in conjugal relations, its prism is heteronormative and it bears too political an imprint.
+
 Fri, 26 Jan 2024 00:42:04 +0530
 ### [The geopolitical risks we face today stem from solutions to earlier excesses](https://www.livemint.com/opinion/online-views/the-geopolitical-risks-we-face-today-stem-from-solutions-to-earlier-excesses-11706193999714.html)
 

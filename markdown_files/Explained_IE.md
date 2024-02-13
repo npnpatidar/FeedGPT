@@ -1,3 +1,698 @@
+Tue, 13 Feb 2024 14:17:54 +0000
+### [PM Modi to inaugurate BAPS temple in UAE: Its special features, architecture, significance](https://indianexpress.com/article/explained/explained-global/pm-modi-inaugurate-baps-temple-in-uae-features-9159741/)
+
+Prime Minister Narendra Modi is set to inaugurate the BAPS Swaminarayan temple in Abu Dhabi, which is the first Hindu temple in the United Arab Emirates (UAE). The temple, built by the Bochasanwasi Akshar Purushottam Swaminarayan Sanstha (BAPS), holds significance for the Hindu community in the UAE and strengthens bilateral ties between the two nations. The temple features traditional architecture, including seven shikhars and intricate carvings representing universal values and different cultures. It sits on a 27-acre complex and was gifted 13.5 acres of land by Sheikh Mohammed Bin Zayed Al Nahyan, the President of the UAE. The temple is open to all visitors and boasts various amenities, including an assembly hall, community center, exhibitions, and classrooms. The construction of the temple involved the use of pink sandstone from Rajasthan and Italian marble, with over 20,000 tonnes shipped in for the project. The temple's inauguration underscores the unity and collaboration of people from diverse religious and cultural backgrounds, as exemplified by the Muslim king's donation of the land, the involvement of architects and designers from different faiths, and the support from various communities.
+
+Tue, 13 Feb 2024 13:57:00 +0000
+### [As Congress backs farmers’ MSP demand, what has the govt committee set up in 2022 done so far?](https://indianexpress.com/article/explained/congress-farmers-msp-demand-sanjay-agrawal-committee-9159694/)
+
+Article found but Couldn't summarize
+
+Tue, 13 Feb 2024 12:22:54 +0000
+### [No calls or mails after office hours: What’s in Australia’s ‘right to disconnect’ Bill?](https://indianexpress.com/article/explained/australia-right-to-disconnect-bill-work-life-balance-office-wfh-9159440/)
+
+The Australian government is considering a Bill that would establish a "right to disconnect" for workers, regulating whether employers can contact them outside of working hours. The aim is to address the blurring boundaries between work and personal life due to technology and remote work. The Bill has passed the Senate and will now go to the House of Representatives. Similar laws exist in countries like France, Italy, and Belgium. Critics argue that it may hinder business owners and impact women's participation in the workforce. In India, a similar Bill was proposed but not discussed in the House. The implementation and mechanisms for resolving disputes differ in each case.
+
+Tue, 13 Feb 2024 06:11:57 +0000
+### [Why India wants to develop high-altitude pseudo-satellite vehicles, powered by the Sun](https://indianexpress.com/article/explained/explained-sci-tech/haps-high-altitude-pseudo-satellite-vehicles-9158726/)
+
+The National Aerospace Laboratories (NAL) in Bengaluru successfully tested a prototype of a new-generation unmanned aerial vehicle (UAV) known as a high-altitude pseudo-satellite vehicle (HAPS). This UAV runs on solar power, can fly at heights of 20 km, and has the potential to remain in the air for months. HAPS vehicles are primarily used for surveillance and monitoring purposes and can be valuable in disaster management. While several countries and companies have developed similar vehicles, none have mastered the technology yet. NAL's prototype flew for eight and a half hours and aims to achieve a 24-hour flight next month. The goal is to develop a full-scale machine that can stay airborne for 90 days continuously by 2027. HAPS vehicles address the limitations of current UAVs and satellites, providing longer flight durations, better surveillance capabilities, and the ability to observe larger areas. They can be redeployed and reequipped with ease, unlike geostationary satellites. The development of HAPS faces technological challenges related to generating enough solar power, operating payloads, and charging batteries. Design considerations include creating a lightweight and stable aircraft suitable for the stratosphere, where wind speeds are low and observation is ideal. HAPS technology is a significant engineering challenge, and India's involvement places them in the race alongside other countries. The country's expertise in tropical areas could provide an advantage due to the presence of jet streams in the upper atmosphere.
+
+Tue, 13 Feb 2024 02:00:18 +0000
+### [Wayanad elephant kills man: Behind escalating human-animal conflict in Kerala](https://indianexpress.com/article/explained/wayanad-elephant-kills-man-behind-escalating-human-animal-conflict-in-kerala-9158201/)
+
+The article highlights the escalating human-animal conflict in Wayanad, Kerala, particularly with wild elephants and tigers attacking humans. The data shows a significant number of wild animal attacks, leading to deaths and crop losses. Wayanad, located near various tiger reserves and forests, has been severely affected by such conflicts. The study identifies two major factors contributing to the conflict: the decline in forest habitat quality due to the cultivation of alien plants and changing agricultural practices that lure animals to farmland. The article discusses the steps taken by Kerala, such as constructing elephant-proof trenches and solar-powered fencing, eco-restoration programs, and land acquisition for forest conversion. However, the measures are not enough to address the crisis, and the state requested assistance from the central government, which was denied. The situation has caused protests and unrest in the affected communities.
+
+Mon, 12 Feb 2024 14:55:16 +0000
+### [Farmers back on road to Delhi: How the current protest differs from the 2020-21 edition](https://indianexpress.com/article/explained/explained-politics/farmers-how-current-protest-differs-from-2020-21-9157982/)
+
+Farmers in India are once again protesting in Delhi, demanding the government guarantee a minimum support price for all crops. The protest, organized by the Kisan Mazdoor Morcha and Samyukta Kisan Morcha, involves over 250 farmers' unions. The current protest differs from the 2020-21 agitation, with different leaders and demands. The government has held talks with farmer union leaders but failed to reach a resolution. The protest has faced opposition from the police, with tear gas being used to disperse protestors. The situation remains tense as farmers continue their march towards Delhi.
+
+Mon, 12 Feb 2024 14:03:27 +0000
+### [RLD ditches INDIA for NDA: What this means for the party, the two alliances](https://indianexpress.com/article/explained/explained-politics/rld-ditches-india-for-nda-what-this-means-9157927/)
+
+The Rashtriya Lok Dal (RLD) in Uttar Pradesh has switched sides to join the BJP-led National Democratic Alliance (NDA), further fragmenting the INDIA bloc. The RLD, a farmers' party with support from the Jat community, brings perception benefits to the NDA rather than a significant number of votes. The party has seen a decline in its influence, losing seats in previous elections. The alliance with RLD may help the BJP consolidate Jat support and improve its chances in west UP. The RLD's departure is a blow to INDIA's unity and could prompt the Congress-SP alliance to focus on wooing Muslim voters. Some critics argue that the RLD has compromised on its ideology by joining the BJP, but the party has a history of switching sides.
+
+Mon, 12 Feb 2024 13:09:28 +0000
+### [Kurt Campbell, Biden’s Asia czar, moves to State Department: What it means in Washington and New Delhi](https://indianexpress.com/article/explained/explained-global/kurt-campbell-us-asia-czar-state-department-move-9157780/)
+
+Article found but Couldn't summarize
+
+Mon, 12 Feb 2024 10:53:19 +0000
+### [Protesting farmers want MSP law: How would such a guarantee work?](https://indianexpress.com/article/explained/explained-economics/farmers-protest-msp-guarantee-law-9157499/)
+
+Article found but Couldn't summarize
+
+Mon, 12 Feb 2024 09:26:21 +0000
+### [What is a floor test, which Nitish Kumar won in the Bihar Legislative Assembly?](https://indianexpress.com/article/explained/everyday-explainers/floor-test-bihar-assembly-meaning-process-9157395/)
+
+The article discusses the recent floor test held in the Bihar Legislative Assembly. Bihar Chief Minister Nitish Kumar won the vote, demonstrating the confidence of the MLAs in his new government. It explains that a floor test is conducted to determine if a government, suspected of losing its majority, still retains the confidence of the House. The leader of the party claiming majority moves a vote of confidence, and if the majority votes in favor, the government survives. Different methods of voting, such as voice voting and electronic voting, are explained. The article also mentions the Composite Floor Test, which is conducted when multiple parties claim to form the government. It concludes with an unrelated mention of Abdul Malik, a leader involved in a property dispute that caused protests in Haldwani.
+
+Mon, 12 Feb 2024 08:08:12 +0000
+### [Warming up to climate change: What are climate tipping points?](https://indianexpress.com/article/explained/explained-climate/warming-up-to-climate-change-climate-tipping-points-9156991/)
+
+Article found but Couldn't summarize
+
+Mon, 12 Feb 2024 03:50:08 +0000
+### [This Quote Means: ‘The Internet is becoming the town square for the global village of tomorrow’](https://indianexpress.com/article/explained/this-quote-means-town-square-internet-global-village-9156294/)
+
+The article discusses the concept of the Internet as a "town square" where ideas are shared and debates take place. It highlights how the term "town square" refers to a common space for gathering, discussing ideas, and holding debates. The ancient Greek practice of discussing ideas in public view is mentioned, with philosophers like Plato and Aristotle critiquing the fallacious arguments used by professional rhetoricians. The article also draws parallels between social media platforms like Twitter and the concept of a town square, noting the role they played during events like the Arab Spring. However, it raises concerns about the lack of regulation and common rules on these platforms, which hinders genuine and fair debate. The idea of a "global village" and the need for a free space for debate in an interconnected world are also discussed, along with the challenges and subjective nature of defining interesting and substantial debate. The article concludes with suggestions for setting standards and potentially exploring new platforms that foster meaningful discussion.
+
+Mon, 12 Feb 2024 02:00:38 +0000
+### [Bharat Ratna: Why Charan Singh was a messiah for farmers](https://indianexpress.com/article/explained/explained-economics/why-charan-singh-was-a-messiah-for-farmers-9156566/)
+
+The article discusses the views and proposals of Chaudhary Charan Singh, a former Union Home Minister of India, regarding reservations for farmers in government jobs and educational institutions. Singh believed that representation should be provided to the "sons or dependents of the actual tillers of the soil" to rectify the privileges enjoyed by city-dwellers. He argued that reservations would not only provide opportunities to farmers but also improve efficiency in government departments. Singh's proposal faced criticism for only including the "sons of cultivators" and excluding landless laborers. He emphasized that his focus was on providing representation to tillers of the soil, regardless of their caste. The article also highlights Singh's contribution to land reform laws in Uttar Pradesh, which empowered the middle peasantry. However, the current challenges faced by agriculture, such as decreasing yields, rising production costs, and climate change, make the need for reservations for farmers' children more relevant today.
+
+Sun, 11 Feb 2024 15:34:42 +0000
+### [Pakistan polls: With Imran Khan’s team of independents in the lead, what happens now?](https://indianexpress.com/article/explained/explained-global/pakistan-imrans-independents-what-happens-now-9156222/)
+
+Article found but Couldn't summarize
+
+Sun, 11 Feb 2024 14:13:26 +0000
+### [Experts Explain | Darwin Day: How theories of evolution helped our knowledge of life on Earth](https://indianexpress.com/article/explained/explained-sci-tech/darwin-day-theories-evolution-life-knowledge-earth-science-9156108/)
+
+Article found but Couldn't summarize
+
+Sun, 11 Feb 2024 13:35:53 +0000
+### [In Pakistan poll outcome, key question for India: Whom does New Delhi talk to with no civilian political power centre?](https://indianexpress.com/article/explained/explained-global/in-pakistan-poll-outcome-key-question-for-india-9156118/)
+
+The Pakistan Tehreek-e-Insaf (PTI) party, led by Imran Khan, emerged as the winner in Pakistan's parliamentary elections. Independent candidates backed by PTI secured the most seats, surpassing the two main established parties, Pakistan Muslim League (N) and Pakistan Peoples Party (PPP). The PTI-backed candidates won a majority of the 101 independent seats. However, none of the three parties alone can achieve a simple majority in the National Assembly. The outcome raises questions about whom New Delhi should engage with in Pakistan, with the suggestion being to communicate with Pakistan Army chief General Asim Munir. The final tally of the elections, released after a delay, led to concerns about the process and allegations of the Army rigging the polls. The article highlights key takeaways, including the Army's ability to manipulate the outcome in favor of established parties, PTI's success in various provinces, and the lack of a strong political power center in the civilian structure, giving the Army control over political actors.
+
+Sun, 11 Feb 2024 12:48:40 +0000
+### [Explained: Israel’s plans to invade Rafah, and why US, others have criticised it](https://indianexpress.com/article/explained/explained-global/israel-invasion-south-gaza-rafah-9156043/)
+
+The Israeli government plans to expand its military actions in the south of Gaza to combat the Palestinian militant organization Hamas. The conflict began when Hamas launched an attack on Israel, resulting in many casualties. Israel aims to eliminate Hamas and has called for the evacuation of civilians in the city of Rafah. The decision has received criticism from Palestinians, Israel's allies, and international organizations. There are concerns that the military action could lead to more Israeli settlements in the Gaza Strip, and there is a lack of safety and basic amenities for Palestinians. Egypt has expressed concerns about the potential consequences of an Israeli ground offensive in Rafah and has threatened to suspend its peace treaty with Israel. The United States has also expressed criticism, with President Joe Biden stating that Israel's response is "over the top."
+
+Sun, 11 Feb 2024 03:30:40 +0000
+### [What is Nazool land, behind recent dispute and violence in Haldwani?](https://indianexpress.com/article/explained/explained-law/nazool-land-behind-dispute-violence-haldwani-uttarakhand-9155345/)
+
+Violence broke out in Haldwani, Uttarakhand's Nainital district, during a demolition drive at a mosque and madrasa located on Nazool land, resulting in five deaths and numerous injuries. Nazool land refers to government-owned land that is leased to entities for a fixed period. After India gained independence from British rule, lands confiscated from opposing kings and kingdoms were categorized as Nazool land. These lands are typically used for public purposes like schools, hospitals, and government buildings. The property where the demolition took place was registered as Nazool land under the Municipal Council. The administration claims that a notice was issued, requiring the removal of encroachments or submission of ownership documents within three days. Locals had requested the administration to wait until the next hearing in the High Court on February 14, but the demolition proceeded after receiving court approval.
+
+Sun, 11 Feb 2024 01:30:39 +0000
+### [What can the EU learn from Asia about AI regulations?](https://indianexpress.com/article/explained/explained-global/what-can-the-eu-learn-from-asia-about-ai-regulations-9154977/)
+
+Article found but Couldn't summarize
+
+Sat, 10 Feb 2024 14:36:13 +0000
+### [SC says jail, not bail, is the rule under the UAPA: How courts have been granting bail in UAPA cases](https://indianexpress.com/article/explained/explained-law/uapa-bail-supreme-court-9154999/)
+
+Article found but Couldn't summarize
+
+Sat, 10 Feb 2024 13:51:44 +0000
+### [How ‘Chinese’ is gobi manchurian, and why did a Goan fair ban it?](https://indianexpress.com/article/explained/explained-culture/chinese-gobi-manchurian-goa-ban-9154651/)
+
+Article found but Couldn't summarize
+
+Sat, 10 Feb 2024 12:28:36 +0000
+### [PPP and PML-N in talks for forming coalition govt in Pakistan: What is the parties’ relationship like?](https://indianexpress.com/article/explained/explained-global/ppp-pml-nawaz-sharif-bhutto-coalition-pakistan-election-9154844/)
+
+Article found but Couldn't summarize
+
+Sat, 10 Feb 2024 09:45:57 +0000
+### [Confusion in Pakistan: What happens now?](https://indianexpress.com/article/explained/explained-global/pakistan-elections-results-pti-imran-khan-nawaz-sharif-9154605/)
+
+The article discusses the uncertainty and unrest following Pakistan's recent elections. Both Imran Khan and Nawaz Sharif claim victory, but allegations of election manipulation and rigging are prevalent. The establishment initially backed Nawaz Sharif, while Imran Khan faced multiple obstacles, including imprisonment and persecution of his party members. Surprisingly, Imran Khan's popularity resulted in a strong showing for his loyalists. However, there were reports of manipulated results, leading to protests and clashes. International observers, including the US, expressed concern over electoral violence and interference. With no party holding a majority, a coalition government is likely, with Nawaz Sharif and Bilawal Bhutto potentially leading it. Imran Khan's response to this outcome is yet to be seen, and the establishment may try to manipulate the situation further. International pressure, particularly from the US, may also play a role in shaping events.
+
+Sat, 10 Feb 2024 05:14:32 +0000
+### [The message in the Bharat Ratnas: How the politics of the honour works](https://indianexpress.com/article/explained/explained-politics/the-message-in-the-bharat-ratnas-how-the-politics-of-honour-works-9154262/)
+
+Prime Minister Narendra Modi has announced that former Prime Ministers P V Narasimha Rao and Chaudhary Charan Singh, as well as Dr M S Swaminathan, will be awarded the Bharat Ratna, India's highest civilian honor. This announcement is significant as it comes just before the upcoming Lok Sabha elections, with the award for Dr Swaminathan and Charan Singh signaling the government's focus on farmers and agriculture. The recognition for Narasimha Rao highlights the Congress party's neglect of his accomplishments due to differences with Sonia Gandhi. The previous recipients of the Bharat Ratna under the Modi government have also been strategic choices, emphasizing political messaging and highlighting certain individuals' contributions.
+
+Sat, 10 Feb 2024 01:37:16 +0000
+### [Uttarakhand Uniform Civil Code bans polygamy: Is the practice more prevalent among Muslims?](https://indianexpress.com/article/explained/ucc-bans-polygamy-is-the-practice-more-prevalent-among-muslims-9153803/)
+
+The Uttarakhand Legislative Assembly has passed the Uniform Civil Code (UCC) Bill, 2024, which aims to bring uniformity in personal laws regarding marriage, divorce, and inheritance across communities in the state, excluding tribals. The bill extends the rule of monogamy to the Muslim community, disallowing men from having more than one wife. Data on polygamy in India is obtained from sources like the census and the National Family Health Survey (NFHS), but both have limitations. The census infers polygamy based on the difference in the number of married men and women, while the NFHS directly asks women if their husbands have other wives. The most recent census was conducted in 2011, and the NFHS-5 surveyed less than 1% of households in India. A 1974 study found that Buddhists, Jains, and Hindus had higher rates of polygamy than Muslims. Overall, the prevalence of polygamy has decreased in recent years. According to the NFHS-5, Christians reported the highest incidence of polygamy, followed by Muslims and Hindus. A study by the International Institute of Population Sciences showed a decline in polygynous marriages among the whole population from 1.9% in 2005-06 to 1.4% in 2019-21.
+
+Fri, 09 Feb 2024 15:28:11 +0000
+### [Bharat Ratna P V Narasimha Rao: 4 things you did not know about the man who changed India’s economy](https://indianexpress.com/article/explained/explained-history/things-to-know-bharat-ratna-p-v-narasimha-rao-9153578/)
+
+Former Prime Minister P V Narasimha Rao has been posthumously awarded the Bharat Ratna, India's highest civilian award. He is recognized for his extensive service to India and his visionary leadership in advancing the country's economy. Here are four key points about Narasimha Rao:
+
+1. After his passing, Narasimha Rao's body was not allowed inside the Congress headquarters for ordinary workers to pay their respects, causing controversy. His funeral in Hyderabad also made headlines as his half-burnt body was shown abandoned with stray dogs nearby.
+
+2. Narasimha Rao had a strained relationship with Sonia Gandhi, attributed to personal, political, and ideological differences. Their disagreements included the distribution of a Rajya Sabha ticket, progress in the investigation of Rajiv Gandhi's assassination, and the Congress party's defeat in the 1996 Lok Sabha election.
+
+3. Narasimha Rao considered converting Ayodhya into a Union Territory with a Vatican-like status. He even contemplated building a temple at the site of the demolished Babri Masjid but later decided to wait until after the 1996 elections.
+
+4. Atal Bihari Vajpayee referred to Narasimha Rao as the "true father" of India's nuclear program. Narasimha Rao was actively involved in the program and, despite international speculation, he considered conducting nuclear tests in Pokhran but ultimately postponed them due to various factors, including the 1996 elections.
+
+In summary, P V Narasimha Rao's contributions to India as a leader, his complicated relationship with Sonia Gandhi, his thoughts on Ayodhya, and his involvement in the nuclear program shaped his legacy.
+
+Fri, 09 Feb 2024 10:01:40 +0000
+### [Bharat Ratna for Chaudhary Charan Singh: Why this is significant](https://indianexpress.com/article/explained/explained-history/bharat-ratna-chaudhary-charan-singh-9152952/)
+
+The article announces that former Prime Minister Chaudhary Charan Singh has been awarded India's highest civilian honor, the Bharat Ratna. Charan Singh was recognized for his significant contributions to the country, particularly his dedication to farmers and commitment to democracy during the Emergency. The article provides an overview of Charan Singh's life and political career, highlighting his fight against the exploitation of peasants and his popularity among various communities in North India. It also mentions his terms as Chief Minister of Uttar Pradesh and his subsequent role as Deputy Prime Minister. Charan Singh's influence on the farming community and his establishment of a new political class in North India are noted. The article concludes by mentioning the formation of his son's political party, the Rashtriya Lok Dal, and its current leadership.
+
+Fri, 09 Feb 2024 08:09:09 +0000
+### [Bharat Ratna for PV Narasimha Rao: How he almost quit politics, then became Prime Minister](https://indianexpress.com/article/explained/explained-history/pv-narasimha-rao-bharat-ratna-significance-9152749/)
+
+Article found but Couldn't summarize
+
+Fri, 09 Feb 2024 07:43:09 +0000
+### [MS Swaminathan conferred Bharat Ratna: How the agricultural scientist helped India achieve food security](https://indianexpress.com/article/explained/bharat-ratna-ms-swaminathan-significance-profile-9152692/)
+
+Article found but Couldn't summarize
+
+Fri, 09 Feb 2024 01:37:09 +0000
+### [What the white paper on economy says — and doesn’t](https://indianexpress.com/article/explained/explained-economics/what-the-white-paper-on-economy-says-and-doesnt-9151991/)
+
+Article found but Couldn't summarize
+
+Fri, 09 Feb 2024 00:30:31 +0000
+### [Why consumers from Gujarat are shelling out more for their electricity bills](https://indianexpress.com/article/explained/why-consumers-from-gujarat-are-shelling-out-more-for-their-electricity-bills-9152000/)
+
+Article found but Couldn't summarize
+
+Thu, 08 Feb 2024 22:40:47 +0000
+### [White Paper red-flags NPAs, scams and policy freeze, skips growth years credit](https://indianexpress.com/article/explained/explained-economics/white-paper-red-flags-npas-scams-and-policy-freeze-skips-growth-years-credit-9152046/)
+
+Article found but Couldn't summarize
+
+Thu, 08 Feb 2024 14:58:46 +0000
+### [Why Pakistan’s military is the biggest player in the country’s politics](https://indianexpress.com/article/explained/explained-global/pakistan-elections-military-army-dominance-influence-9151188/)
+
+Article found but Couldn't summarize
+
+Thu, 08 Feb 2024 14:48:17 +0000
+### [White Paper flags inflation, bad debt, but silent on boom growth years, safety during 2008 crisis](https://indianexpress.com/article/explained/explained-economics/white-paper-silent-on-india-grew-fastest-2004-09-upa-9151603/)
+
+Article found but Couldn't summarize
+
+Thu, 08 Feb 2024 14:02:52 +0000
+### [Should some SCs get more quota benefits than others: What is the debate, in which apex court has reserved verdict](https://indianexpress.com/article/explained/explained-law/debate-over-subcategorisation-among-scs-for-reservation-9151568/)
+
+Article found but Couldn't summarize
+
+Thu, 08 Feb 2024 13:31:10 +0000
+### [Why Taylor Swift’s private air travel is a problem for the planet](https://indianexpress.com/article/explained/explained-climate/taylor-swift-private-air-jet-carbon-emmissions-9151438/)
+
+Article found but Couldn't summarize
+
+Thu, 08 Feb 2024 11:48:47 +0000
+### [Rahul’s statement on PM Modi: All you need to know about Teli caste](https://indianexpress.com/article/explained/explained-politics/rahul-gandhi-narendra-modi-obc-teli-caste-9150791/)
+
+Article found but Couldn't summarize
+
+Thu, 08 Feb 2024 10:32:16 +0000
+### [No change in EMIs: Why has RBI kept the repo rate unchanged again?](https://indianexpress.com/article/explained/explained-economics/no-change-rbi-repo-rate-emi-impact-9150980/)
+
+Article found but Couldn't summarize
+
+Thu, 08 Feb 2024 02:30:07 +0000
+### [Pakistan elections 2024: A short history of the country’s fraught experiments with democracy](https://indianexpress.com/article/explained/explained-global/short-history-pakistan-elections-democracy-9149758/)
+
+Article found but Couldn't summarize
+
+Thu, 08 Feb 2024 02:00:10 +0000
+### [Explained: The new process for picking Election Commissioners, why it was brought in](https://indianexpress.com/article/explained/picking-election-commissioners-9149779/)
+
+Article found but Couldn't summarize
+
+Thu, 08 Feb 2024 01:37:59 +0000
+### [Why the Union Budget’s plans for deep tech and research funding are significant](https://indianexpress.com/article/explained/explained-sci-tech/why-budget-plans-for-deep-tech-and-research-funding-matter-9149783/)
+
+Article found but Couldn't summarize
+
+Wed, 07 Feb 2024 22:30:48 +0000
+### [Keeping Congress in crosshairs, Modi holds out Modi 3.0 promise](https://indianexpress.com/article/explained/keeping-congress-in-crosshairs-modi-holds-out-modi-3-0-promise-9149904/)
+
+Article found but Couldn't summarize
+
+Wed, 07 Feb 2024 15:33:58 +0000
+### [What is the three-stage Hamas ceasefire plan that Netanyahu rejected](https://indianexpress.com/article/explained/explained-global/hamas-ceasefire-plan-details-9149500/)
+
+Article found but Couldn't summarize
+
+Wed, 07 Feb 2024 14:14:21 +0000
+### [Uttarakhand UCC Bill: What changes in marriage, divorce, guardianship, and adoption?](https://indianexpress.com/article/explained/explained-law/uttarakhand-ucc-bill-what-changes-in-marriage-divorce-guardianship-and-adoption-9149384/)
+
+Article found but Couldn't summarize
+
+Wed, 07 Feb 2024 13:08:22 +0000
+### [Kerala govt to protest against Centre at Jantar Mantar: What are its grievances over money allocation?](https://indianexpress.com/article/explained/explained-politics/kerala-protest-against-centre-why-9149213/)
+
+Article found but Couldn't summarize
+
+Wed, 07 Feb 2024 12:19:29 +0000
+### [Inheritance in Uttarakhand UCC: What do Hindus, Muslims, and Christians gain or lose?](https://indianexpress.com/article/explained/explained-law/inheritance-in-uttarakhand-ucc-hindus-muslims-and-christians-9149092/)
+
+Article found but Couldn't summarize
+
+Wed, 07 Feb 2024 12:04:07 +0000
+### [Why is Karnataka Chief Minister Siddaramaiah’s government protesting in Delhi?](https://indianexpress.com/article/explained/explained-politics/siddaramaiah-karnataka-government-protesting-delhi-jantar-mantar-9149053/)
+
+Article found but Couldn't summarize
+
+Wed, 07 Feb 2024 08:41:51 +0000
+### [How the govt wants to make movie theatres accessible for persons with visual and hearing disabilities](https://indianexpress.com/article/explained/explained-law/govt-cbfc-cinema-accessible-hearing-visual-impaired-9148441/)
+
+Article found but Couldn't summarize
+
+Wed, 07 Feb 2024 03:46:33 +0000
+### [ExplainSpeaking | Stagnant sales but soaring profits: Making sense of quarterly corporate earnings](https://indianexpress.com/article/explained/explained-economics/explainspeaking-corporate-earnings-9147977/)
+
+Article found but Couldn't summarize
+
+Wed, 07 Feb 2024 01:37:11 +0000
+### [Pakistan elections: The view from New Delhi as Army appears set to install Nawaz Sharif in power again](https://indianexpress.com/article/explained/elections-in-pakistan-the-view-from-new-delhi-as-army-appears-set-to-install-nawaz-sharif-in-power-again-9147579/)
+
+Article found but Couldn't summarize
+
+Wed, 07 Feb 2024 01:30:52 +0000
+### [Uttarakhand civil code: The key changes for Hindus and Muslims in marriage, inheritance](https://indianexpress.com/article/explained/explained-law/uttarakhand-civil-code-the-key-changes-for-hindus-and-muslims-in-marriage-inheritance-9147624/)
+
+Article found but Couldn't summarize
+
+Wed, 07 Feb 2024 01:25:18 +0000
+### [How the Uniform Civil Code came to be included in the Indian Constitution](https://indianexpress.com/article/explained/how-the-uniform-civil-code-came-to-be-included-in-the-indian-constitution-9147625/)
+
+Article found but Couldn't summarize
+
+Tue, 06 Feb 2024 22:40:53 +0000
+### [Uttarakhand Uniform Civil Code: Registration of live-ins, jail term raise questions of privacy & liberty](https://indianexpress.com/article/explained/explained-law/uttarakhand-uniform-civil-code-registration-of-live-ins-jail-term-raise-questions-of-privacy-liberty-9147711/)
+
+Article found but Couldn't summarize
+
+Tue, 06 Feb 2024 15:46:28 +0000
+### [Hits and misses of Uttarakhand Uniform Civil Code: What the Bill does, and does not do](https://indianexpress.com/article/explained/explained-law/uttarakhand-uniform-civil-code-takeaways-9147379/)
+
+Article found but Couldn't summarize
+
+Tue, 06 Feb 2024 14:57:49 +0000
+### [Indians can travel to Iran without a visa: All you need to know](https://indianexpress.com/article/explained/everyday-explainers/indians-can-travel-to-iran-without-a-visa-all-you-need-to-know-9147327/)
+
+Article found but Couldn't summarize
+
+Tue, 06 Feb 2024 14:11:25 +0000
+### [What is the 8.5-acre land case in which Hemant Soren was arrested, what is he accused of](https://indianexpress.com/article/explained/explained-politics/why-was-hemant-soren-arrested-explained-9147266/)
+
+Article found but Couldn't summarize
+
+Tue, 06 Feb 2024 12:34:33 +0000
+### [How to stay safe from Skype scams, in which scammers impersonate police officers](https://indianexpress.com/article/explained/explained-sci-tech/how-to-stay-safe-from-skype-scams-impersonate-police-9146872/)
+
+Article found but Couldn't summarize
+
+Tue, 06 Feb 2024 08:51:36 +0000
+### [How Uber, OLA, BluSmart, inDrive charge you  — and how Karnataka govt’s order can change it](https://indianexpress.com/article/explained/explained-economics/karnataka-government-order-cab-fares-9146669/)
+
+Article found but Couldn't summarize
+
+Tue, 06 Feb 2024 08:23:26 +0000
+### [4 takeaways from Uttarakhand’s Uniform Civil Code Bill: on live-in relationships, bigamy and more](https://indianexpress.com/article/explained/explained-law/uttarakhand-uniform-civil-code-bill-polygamy-marriage-9146632/)
+
+Article found but Couldn't summarize
+
+Tue, 06 Feb 2024 01:38:02 +0000
+### [Explained: What’s in the new Public Examinations Bill, aimed at stopping cheating in exams?](https://indianexpress.com/article/explained/explained-law/new-bill-to-stop-cheating-in-exams-explained-9145994/)
+
+Article found but Couldn't summarize
+
+Mon, 05 Feb 2024 14:42:57 +0000
+### [Explained: China’s ‘suspended’ death sentence to Australian citizen, its likely impact on ties](https://indianexpress.com/article/explained/explained-global/china-suspended-death-sentence-australia-writer-ties-9145557/)
+
+Article found but Couldn't summarize
+
+Mon, 05 Feb 2024 14:12:09 +0000
+### [PM Modi says Nehru, Indira had a low opinion of Indians: Which speeches was he referring to, what did the former PMs say?](https://indianexpress.com/article/explained/explained-history/pm-modi-nehru-indira-indians-lazy-9145553/)
+
+Article found but Couldn't summarize
+
+Mon, 05 Feb 2024 14:11:23 +0000
+### [Warming up to climate change: Is the Sun behind the rising global temperatures?](https://indianexpress.com/article/explained/explained-climate/is-sun-behind-rising-global-temperatures-climate-change-9145524/)
+
+Article found but Couldn't summarize
+
+Mon, 05 Feb 2024 13:36:49 +0000
+### [Polls in Pakistan: 10 data points to explain the elections](https://indianexpress.com/article/explained/explained-global/pakistan-polls-10-data-points-9145480/)
+
+Article found but Couldn't summarize
+
+Mon, 05 Feb 2024 10:30:56 +0000
+### [How SZA, the reigning queen of R&B who won 3 Grammy awards, came into the spotlight](https://indianexpress.com/article/explained/explained-culture/grammys-2024-sza-rb-music-story-9145166/)
+
+Article found but Couldn't summarize
+
+Mon, 05 Feb 2024 05:27:48 +0000
+### [RBI monetary policy: Why repo rate is likely to remain unchanged for the sixth time](https://indianexpress.com/article/explained/explained-economics/rbi-monetary-policy-repo-rate-change-mpc-9144616/)
+
+Article found but Couldn't summarize
+
+Mon, 05 Feb 2024 02:00:42 +0000
+### [Three ways to deal with the high govt debt](https://indianexpress.com/article/explained/explained-economics/three-ways-to-deal-with-the-high-govt-debt-9144329/)
+
+Article found but Couldn't summarize
+
+Sun, 04 Feb 2024 15:50:13 +0000
+### [This Quote Means: From India’s first Budget, ‘If the… State is not built on durable foundations, it will be futile’](https://indianexpress.com/article/explained/this-quote-means-india-first-budget-9144071/)
+
+Article found but Couldn't summarize
+
+Sun, 04 Feb 2024 15:36:55 +0000
+### [Northern Ireland gets a govt after two years: Why the long standoff, what has changed now](https://indianexpress.com/article/explained/explained-global/northern-ireland-govt-standoff-explained-9144070/)
+
+Article found but Couldn't summarize
+
+Sun, 04 Feb 2024 13:43:47 +0000
+### [Seven cheetahs born in Kuno: Challenges, survival chances, and the wild-vs-protected debate](https://indianexpress.com/article/explained/cheetahs-born-in-kuno-challenges-survival-9143959/)
+
+Article found but Couldn't summarize
+
+Sun, 04 Feb 2024 11:50:44 +0000
+### [‘Thalapathy’ Vijay launches political party: A history of film stars’ entry into Tamil Nadu politics](https://indianexpress.com/article/explained/explained-culture/vijay-politics-party-tamil-nadu-films-history-politicians-9143820/)
+
+Article found but Couldn't summarize
+
+Sun, 04 Feb 2024 11:21:48 +0000
+### [More subjects, credit system: What changes CBSE has proposed for Class 10 and 12, why](https://indianexpress.com/article/explained/changes-cbse-has-proposed-for-class-10-and-12-why-9143822/)
+
+Article found but Couldn't summarize
+
+Sun, 04 Feb 2024 08:19:50 +0000
+### [Explained: The four issues that CJI DY Chandrachud highlighted within the legal profession](https://indianexpress.com/article/explained/explained-law/issues-cji-dy-chandrachud-legal-profession-9143599/)
+
+Article found but Couldn't summarize
+
+Sat, 03 Feb 2024 14:30:10 +0000
+### [Pigeon suspected of being Chinese spy released: A short history of animal spies](https://indianexpress.com/article/explained/everyday-explainers/short-history-of-animal-spies-9142708/)
+
+Article found but Couldn't summarize
+
+Sat, 03 Feb 2024 12:38:44 +0000
+### [Why PETA wants to ban two age-old Assamese traditions](https://indianexpress.com/article/explained/explained-culture/peta-assam-buffalo-bulbul-fighting-9142486/)
+
+Article found but Couldn't summarize
+
+Sat, 03 Feb 2024 10:54:21 +0000
+### [Bharat Ratna for L K Advani: How his Rath Yatra contributed to the rise of the BJP](https://indianexpress.com/article/explained/explained-history/bharat-ratna-l-k-advani-rath-yatra-bjp-9142401/)
+
+Article found but Couldn't summarize
+
+Sat, 03 Feb 2024 02:30:55 +0000
+### [Will ‘Thalapathy’ Vijay disrupt Tamil Nadu politics?](https://indianexpress.com/article/explained/explained-politics/thalapathy-vijay-tamil-nadu-politics-9141593/)
+
+Article found but Couldn't summarize
+
+Sat, 03 Feb 2024 02:30:39 +0000
+### [Will Europe ever return ‘looted’ Asian artifacts?](https://indianexpress.com/article/explained/explained-global/will-europe-ever-return-looted-asian-artifacts-9141359/)
+
+Article found but Couldn't summarize
+
+Sat, 03 Feb 2024 01:37:02 +0000
+### [Multidimensional poverty: meaning, numbers](https://indianexpress.com/article/explained/explained-economics/multidimensional-poverty-meaning-numbers-9141495/)
+
+Article found but Couldn't summarize
+
+Fri, 02 Feb 2024 14:47:16 +0000
+### [How a heavy metal drummer stripped Elon Musk of a $56 billion pay package](https://indianexpress.com/article/explained/explained-global/elon-musk-pay-package-drummer-9141259/)
+
+Article found but Couldn't summarize
+
+Fri, 02 Feb 2024 14:16:18 +0000
+### [Expert Explains: The crime of piracy, and how maritime forces respond to it](https://indianexpress.com/article/explained/expert-explains-piracy-somalia-indian-navy-9141173/)
+
+Article found but Couldn't summarize
+
+Fri, 02 Feb 2024 13:19:09 +0000
+### [How immigration has become the top issue in the 2024 US Presidential elections](https://indianexpress.com/article/explained/explained-global/immigration-us-presidential-election-border-9140994/)
+
+Article found but Couldn't summarize
+
+Fri, 02 Feb 2024 13:04:06 +0000
+### [India’s snow leopard count: Why this Himalayan feat is only the first step to securing the cat](https://indianexpress.com/article/explained/india-first-snow-leopard-count-wildlife-conservation-threats-9141070/)
+
+Article found but Couldn't summarize
+
+Fri, 02 Feb 2024 12:19:18 +0000
+### [Why Mark Zuckerberg apologised to the parents of young social media users](https://indianexpress.com/article/explained/explained-global/mark-zuckerberg-apology-parents-social-media-senate-9140925/)
+
+Article found but Couldn't summarize
+
+Thu, 01 Feb 2024 22:34:20 +0000
+### [Budget 2024: Why India Inc isn’t taking the investment baton from FM](https://indianexpress.com/article/explained/budget-2024-why-india-inc-isnt-taking-the-investment-baton-from-fm-9139860/)
+
+Article found but Couldn't summarize
+
+Thu, 01 Feb 2024 13:14:04 +0000
+### [Aligarh Muslim University minority status case: 3 key legal issues argued before the Supreme Court](https://indianexpress.com/article/explained/explained-law/aligarh-university-minority-status-sc-9139270/)
+
+Article found but Couldn't summarize
+
+Thu, 01 Feb 2024 13:06:09 +0000
+### [Interim budget mentions blue economy 2.0: What this means](https://indianexpress.com/article/explained/everyday-explainers/interim-budget-blue-economy-2-0-what-this-means-9139321/)
+
+Article found but Couldn't summarize
+
+Thu, 01 Feb 2024 11:12:32 +0000
+### [In Interim Budget 2024, Sitharaman says use of Nano DAP to be expanded: What is this made-in-India fertiliser?](https://indianexpress.com/article/explained/everyday-explainers/sitharaman-nano-dap-fertiliser-budget-9138989/)
+
+Article found but Couldn't summarize
+
+Thu, 01 Feb 2024 09:28:30 +0000
+### [Why two Bombay HC judges have differed on Centre’s ‘fake news’ fact check rule](https://indianexpress.com/article/explained/explained-law/bombay-hc-centre-fake-news-fact-check-rule-9138742/)
+
+Article found but Couldn't summarize
+
+Thu, 01 Feb 2024 08:47:07 +0000
+### [Interim Budget 2024: What Sitharaman said about withdrawing old tax demands, who will benefit](https://indianexpress.com/article/explained/explained-economics/interim-budget-2024-withdrawing-old-tax-demands-9138738/)
+
+Article found but Couldn't summarize
+
+Thu, 01 Feb 2024 07:45:15 +0000
+### [Interim Budget 2024: Concerns over GDP, spending cuts; fiscal deficit is bright spot](https://indianexpress.com/article/explained/explained-economics/interim-budget-2024-six-key-takeaways-9138579/)
+
+Article found but Couldn't summarize
+
+Thu, 01 Feb 2024 04:32:33 +0000
+### [Budget 2024 Speech Highlights, Explained: On Fiscal Deficit, no changes to indirect or direct taxes](https://indianexpress.com/article/explained/explained-economics/india-budget-2024-explained-live-announcements-9138132/)
+
+Article found but Couldn't summarize
+
+Thu, 01 Feb 2024 03:46:44 +0000
+### [India Budget 2024 Live Updates, explained: Making sense of the numbers, new announcements](https://indianexpress.com/article/explained/explained-economics/india-budget-2024-explained-live-making-sense-of-the-announcements-9137714/)
+
+Article found but Couldn't summarize
+
+Wed, 31 Jan 2024 15:48:09 +0000
+### [RBI action against Paytm: probable causes, effects, and what happens to your money](https://indianexpress.com/article/explained/explained-economics/rbi-paytm-causes-effects-9137548/)
+
+Article found but Couldn't summarize
+
+Wed, 31 Jan 2024 14:57:41 +0000
+### [Biden says will respond to Jordan attack: Options US has, risks it must weigh](https://indianexpress.com/article/explained/explained-global/biden-respond-jordan-attack-options-9137464/)
+
+Article found but Couldn't summarize
+
+Wed, 31 Jan 2024 14:20:34 +0000
+### [What is ‘Vyasji ka tehkhana’ inside the Gyanvapi mosque complex, where a Varanasi court has allowed puja](https://indianexpress.com/article/explained/explained-history/what-is-vyasji-ka-tehkhana-gyanvapi-mosque-9137431/)
+
+Article found but Couldn't summarize
+
+Wed, 31 Jan 2024 13:02:09 +0000
+### [How the post of deputy CM emerged, what powers it comes with](https://indianexpress.com/article/explained/explained-politics/post-of-deputy-cm-history-powers-9137250/)
+
+Article found but Couldn't summarize
+
+Wed, 31 Jan 2024 10:53:24 +0000
+### [Delhi’s property geo-tagging deadline extended: All you need to know about the MCD excercise](https://indianexpress.com/article/explained/delhi-property-geo-tagging-deadline-extended-mcd-9136796/)
+
+Article found but Couldn't summarize
+
+Wed, 31 Jan 2024 04:30:11 +0000
+### [ExplainSpeaking: 4 aspects of govt finances that the Budget speech won’t tell you](https://indianexpress.com/article/explained/explained-economics/interim-budget-speech-government-finances-explained-9135995/)
+
+Article found but Couldn't summarize
+
+Wed, 31 Jan 2024 02:00:09 +0000
+### [Test tube rhinos: Why rebuilding doomed species is a desperate race against time](https://indianexpress.com/article/explained/test-tube-rhinos-why-rebuilding-doomed-species-is-a-desperate-race-against-time-9135853/)
+
+The article discusses the efforts of scientists to rebuild the northern white rhino population through in vitro fertilization (IVF). They have achieved the first-ever rhino pregnancy by transferring a lab-made rhino embryo into a surrogate mother. The process of preparing a surrogate mother, particularly a southern white rhino, is complex and requires careful monitoring of the fertile window for implanting the embryo. However, even with successful IVF and surrogacy, the genetic viability of the northern white rhino population remains a challenge. One potential solution is to create sperm and eggs from stem cells extracted from preserved tissue samples. The article also highlights the importance of raising the first batch of IVF northern white calves with northern white adults to learn the social and behavioral skills of the species. The project is funded by the German government and other donors, but there have been questions raised about whether resources should be allocated to other endangered species. The article emphasizes the urgency of conservation efforts, as the northern white rhino was declared extinct in the wild in 2008.
+
+Tue, 30 Jan 2024 16:24:10 +0000
+### [US-China rivalry: Where does Thailand stand?](https://indianexpress.com/article/explained/explained-global/us-china-rivalry-thailand-stand-9135518/)
+
+Article found but Couldn't summarize
+
+Tue, 30 Jan 2024 13:18:06 +0000
+### [Explained: The 2021 murder case of Kerala BJP leader, in which 15 got death sentence](https://indianexpress.com/article/explained/murder-case-kerala-bjp-leader-15-death-sentence-9135189/)
+
+Article found but Couldn't summarize
+
+Tue, 30 Jan 2024 11:55:25 +0000
+### [Why Centre plans to replace the Indian Stamp Act, 1899 with a new law](https://indianexpress.com/article/explained/explained-law/indian-stamp-act-1899-repeal-9134931/)
+
+Article found but Couldn't summarize
+
+Tue, 30 Jan 2024 11:03:34 +0000
+### [How – and why – the Archaeological Survey of India surveyed the Gyanvapi mosque](https://indianexpress.com/article/explained/everyday-explainers/gyanvapi-mosque-kashi-vishwanath-asi-survey-9134755/)
+
+Article found but Couldn't summarize
+
+Tue, 30 Jan 2024 09:43:54 +0000
+### [Why Meghalaya’s new state anthem has led to a controversy over the state’s Jaintia tribe](https://indianexpress.com/article/explained/explained-culture/meghalaya-new-state-anthem-controversy-jaintia-9134637/)
+
+Article found but Couldn't summarize
+
+Tue, 30 Jan 2024 09:00:48 +0000
+### [What is the cipher case, in which former Pak PM Imran Khan has been sentenced to 10 years in jail?](https://indianexpress.com/article/explained/explained-global/what-cipher-case-imran-khan-9134481/)
+
+Article found but Couldn't summarize
+
+Tue, 30 Jan 2024 07:33:09 +0000
+### [Why hybrid vehicles could be a cleaner solution for India than EVs, at least for the next 7-10 years](https://indianexpress.com/article/explained/explained-economics/hybrid-vehicles-cleaner-evs-india-automobiles-9134306/)
+
+Article found but Couldn't summarize
+
+Tue, 30 Jan 2024 05:38:05 +0000
+### [What happened at the trial of Nathuram Godse, the man who killed Gandhi?](https://indianexpress.com/article/explained/explained-history/nathuram-godse-trial-gandhi-death-9134078/)
+
+Article found but Couldn't summarize
+
+Tue, 30 Jan 2024 02:00:24 +0000
+### [How to grow seafood outside the sea — and why a Govt lab in Kochi has taken up this project](https://indianexpress.com/article/explained/explained-sci-tech/how-to-grow-seafood-outside-the-sea-and-why-a-govt-lab-in-kochi-has-taken-up-this-project-9133764/)
+
+Article found but Couldn't summarize
+
+Mon, 29 Jan 2024 15:28:20 +0000
+### [The river-linking project Rajasthan, Madhya Pradesh and Centre have signed MoU for, who it helps](https://indianexpress.com/article/explained/the-river-linking-project-rajasthan-mp-centre-have-signed-mou-for-who-it-helps-9133446/)
+
+Article found but Couldn't summarize
+
+Mon, 29 Jan 2024 14:53:17 +0000
+### [What is UNRWA, and why have Western countries paused its funding amid Gaza war?](https://indianexpress.com/article/explained/explained-global/countries-pause-funding-unrwa-9133389/)
+
+Article found but Couldn't summarize
+
+Mon, 29 Jan 2024 14:38:16 +0000
+### [Explained: The origins of ‘Aaya Ram, gaya Ram’, which Kharge used after Nitish U-turn](https://indianexpress.com/article/explained/everyday-explainers/aaya-ram-gaya-ram-defection-meaning-history-9133319/)
+
+Article found but Couldn't summarize
+
+Mon, 29 Jan 2024 12:51:52 +0000
+### [Why UGC’s draft guidelines sparked outrage over ‘dereservation’ in faculty recruitment](https://indianexpress.com/article/explained/why-ugcs-draft-guidelines-sparked-outrage-over-dereservation-in-faculty-recruitment-9133224/)
+
+Article found but Couldn't summarize
+
+Mon, 29 Jan 2024 11:21:27 +0000
+### [Latest All India Survey of Higher Education (AISHE): What it says on female enrolment, takers for Arts and Science](https://indianexpress.com/article/explained/five-takeaways-aishe-report-education-9132625/)
+
+Article found but Couldn't summarize
+
+Mon, 29 Jan 2024 10:40:41 +0000
+### [What is the Islamic Resistance of Iraq, which has claimed responsibility for killing 3 US soldiers in Jordan?](https://indianexpress.com/article/explained/explained-global/us-troops-killed-jordan-attack-islamic-resistance-iraq-9132968/)
+
+Article found but Couldn't summarize
+
+Mon, 29 Jan 2024 02:00:01 +0000
+### [Why the subsidy bill for Modi govt’s second term is much higher than the first](https://indianexpress.com/article/explained/explained-economics/subsidies-under-modi-2-0-lok-sabha-elections-9132095/)
+
+Article found but Couldn't summarize
+
+Sun, 28 Jan 2024 22:30:56 +0000
+### [Why Nitish Kumar’s exit undermines Opposition’s 2024 caste pitch, sharpens anti-Congress plank](https://indianexpress.com/article/explained/nitish-kumar-exit-undermines-opps-2024-caste-pitch-sharpens-anti-congress-plank-9132074/)
+
+Article found but Couldn't summarize
+
+Sun, 28 Jan 2024 15:30:16 +0000
+### [Nitish sworn in as CM for 9th time: Seven things to know about the Bihar leader](https://indianexpress.com/article/explained/everyday-explainers/seven-things-to-know-about-nitish-kumar-9131822/)
+
+Article found but Couldn't summarize
+
+Sun, 28 Jan 2024 14:55:02 +0000
+### [Why soup was thrown at the Mona Lisa and how it relates to the ongoing farmers’ protests in France](https://indianexpress.com/article/explained/explained-global/soup-mona-lisa-farmers-protests-france-9131777/)
+
+Article found but Couldn't summarize
+
+Sun, 28 Jan 2024 13:01:35 +0000
+### [Around 28% of Americans have no religious affiliation: What their reasons are, who this group is](https://indianexpress.com/article/explained/explained-global/americans-religious-affiliation-data-atheism-pew-9131654/)
+
+Article found but Couldn't summarize
+
+Sun, 28 Jan 2024 07:17:06 +0000
+### [Uttarakhand Uniform Civil Code to be passed in February: How did it come about and what can be expected?](https://indianexpress.com/article/explained/explained-law/uttarakhand-uniform-civil-code-bill-9131222/)
+
+Article found but Couldn't summarize
+
+Sat, 27 Jan 2024 23:00:25 +0000
+### [As Maharashtra CM assures quota to Marathas, why OBCs are planning to take to streets and courts](https://indianexpress.com/article/explained/explained-politics/obcs-fear-shrinking-of-quota-pie-ready-to-take-battle-to-street-court-9130797/)
+
+Article found but Couldn't summarize
+
+Sat, 27 Jan 2024 14:42:42 +0000
+### [Death by nitrogen: Why this Alabama execution is polarising](https://indianexpress.com/article/explained/explained-global/death-by-nitrogen-why-this-alabama-execution-is-polarising-9130539/)
+
+Article found but Couldn't summarize
+
+Sat, 27 Jan 2024 11:07:29 +0000
+### [Inclusion of ‘sage-soyare’ makes Maratha activist Jarange-Patil call off quota protest: What this means, what its impact will be](https://indianexpress.com/article/explained/explained-politics/sage-soyare-makes-maratha-activist-jarange-patil-call-off-quota-protest-what-does-this-mean-what-will-be-its-impact-9130273/)
+
+Article found but Couldn't summarize
+
+Sat, 27 Jan 2024 08:52:14 +0000
+### [Explained: The ICJ ruling on the genocide case against Israel for its actions in Gaza](https://indianexpress.com/article/explained/explained-global/icj-israel-genocide-emergency-measures-southa-africa-9130178/)
+
+Article found but Couldn't summarize
+
+Sat, 27 Jan 2024 05:11:21 +0000
+### [Why European Union is shifting from being the global tech regulator to AI innovation advocate](https://indianexpress.com/article/explained/european-union-shifting-global-tech-regulator-ai-innovation-advocate-9129957/)
+
+Article found but Couldn't summarize
+
+Sat, 27 Jan 2024 01:40:28 +0000
+### [From 2021 civil suit to 2024 ASI survey report: A timeline of recent issues in Gyanvapi dispute](https://indianexpress.com/article/explained/from-2021-civil-suit-to-2024-asi-survey-report-a-timeline-9129722/)
+
+Article found but Couldn't summarize
+
+Sat, 27 Jan 2024 01:35:57 +0000
+### [The temple that Aurangzeb razed: Evidence from history on Gyanvapi and Kashi Vishwanath](https://indianexpress.com/article/explained/explained-history/the-temple-that-aurangzeb-razed-evidence-from-history-9129714/)
+
+Article found but Couldn't summarize
+
+Sat, 27 Jan 2024 01:35:34 +0000
+### [ASI opinion on Gyanvapi mosque: How the court is likely to view the report](https://indianexpress.com/article/explained/explained-law/asi-opinion-on-kashi-mosque-legal-questions-9129720/)
+
+Article found but Couldn't summarize
+
+Sat, 27 Jan 2024 00:30:37 +0000
+### [Judge vs judge: How a spat between two Calcutta HC judges reached the Supreme Court](https://indianexpress.com/article/explained/explained-law/calcutta-high-court-judges-spat-supreme-court-9129507/)
+
+Article found but Couldn't summarize
+
+Fri, 26 Jan 2024 12:36:15 +0000
+### [What are incestuous ‘sapinda’ marriages, and why has Delhi High Court reaffirmed the ban on them?](https://indianexpress.com/article/explained/explained-law/incestuous-sapinda-marriages-9129281/)
+
+Article found but Couldn't summarize
+
+Fri, 26 Jan 2024 11:15:52 +0000
+### [ASI report says temple existed at the site of Gyanvapi mosque: 5 key takeaways](https://indianexpress.com/article/explained/asi-report-temple-gyanvapi-mosque-9129224/)
+
+Article found but Couldn't summarize
+
+Fri, 26 Jan 2024 09:49:03 +0000
+### [ASI hands over Gyanvapi mosque report, says ‘prior Hindu temple existed’: Tracing the RSS view on the dispute](https://indianexpress.com/article/explained/asi-gyanvapi-mosque-report-hindu-temple-rss-9129015/)
+
+Article found but Couldn't summarize
+
+Fri, 26 Jan 2024 06:49:45 +0000
+### [FPI disclosure norms deadline extended: Why is SEBI seeking investor data?](https://indianexpress.com/article/explained/explained-economics/fpi-disclosure-norms-sebi-investors-9128649/)
+
+Article found but Couldn't summarize
+
+Fri, 26 Jan 2024 03:57:07 +0000
+### [Why was January 26 chosen to be India’s Republic Day?](https://indianexpress.com/article/explained/everyday-explainers/january-26-india-republic-day-history-reason-date-9128464/)
+
+Article found but Couldn't summarize
+
+Fri, 26 Jan 2024 01:31:26 +0000
+### [From Ram to Akbar to Gandhi: Artwork on the Constitution, who painted them](https://indianexpress.com/article/explained/explained-culture/illustrations-constitution-who-painted-9127795/)
+
+Article found but Couldn't summarize
+
+Fri, 26 Jan 2024 01:30:29 +0000
+### [Emmanuel Macron is Republic Day chief guest: The bright arc of India-France ties](https://indianexpress.com/article/explained/macron-is-republic-day-chief-guest-the-bright-arc-of-india-france-ties-9128134/)
+
+Article found but Couldn't summarize
+
 Thu, 25 Jan 2024 22:40:34 +0000
 ### [Gyanvapi case | The test ahead: Law on places of worship, and the challenge it faces](https://indianexpress.com/article/explained/gyanvapi-case-the-test-ahead-law-on-places-of-worship-and-the-challenge-it-faces-9128231/)
 

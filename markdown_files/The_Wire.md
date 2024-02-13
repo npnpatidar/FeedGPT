@@ -1,3 +1,303 @@
+2024-02-14T01:57:02+05:30
+### [Don’t Treat Our Annadatas as Criminals: MS Swaminathan’s Daughter on Govt Handling of Farmers’ Protest](https://thewire.in/politics/dont-treat-our-farmers-as-criminals-madhura-swaminathan)
+
+No Article text 
+Madhura Swaminathan, an economist, was speaking at a function held by the Indian Council of Agricultural Research to celebrate the late agricultural scientist’s Bharat Ratna award.
+
+2024-02-14T00:38:40+05:30
+### [India, UAE Sign Bilateral Investment Treaty](https://thewire.in/diplomacy/india-uae-sign-bilateral-investment-treaty)
+
+No Article text 
+India's fourth-largest foreign investor is the UAE and discussions regarding the investment treaty between the two countries have been ongoing since 2016.
+
+2024-02-14T00:00:55+05:30
+### [Farmers' Movement Will Resist Excessive Use of State Power: Samyukta Kisan Morcha Tells PM Modi](https://thewire.in/politics/samyukta-kisan-morcha-february-2024-letter-prime-minister-narendra-modi)
+
+No Article text 
+The influential umbrella body has also accused the Modi government of not fulfilling promises it made after the 2020-21 farmers' protests and of repressing peaceful protests by farmers.
+
+2024-02-13T21:23:35+05:30
+### [As AAP Throws Down Gauntlet With One-Seat Offer in Delhi, Congress ‘Energised’ to Fight All 7 Seats](https://thewire.in/politics/aap-throws-down-gauntlet-to-congress-seat-sharing-delay)
+
+No Article text 
+Congress MP Jairam Ramesh admitted to a delay in seat-sharing arrangements and said that a final decision will be taken soon.
+
+2024-02-13T19:20:00+05:30
+### [Israeli Attacks on Rafah Have Killed Dozens of Palestinians So Far](https://thewire.in/world/as-israel-attacks-rafah-hundreds-of-palestinian-children-and-women-killed)
+
+No Article text 
+The spokesman for the Gaza Health Ministry said at least 67 people died in the strikes in Rafah, as per an AP report. There are conflicting reports on the death toll.
+
+2024-02-13T19:16:00+05:30
+### [When It Comes to the Wall Street Game, India and China Are Not Even in the Same League](https://thewire.in/world/when-it-comes-to-the-wall-street-game-india-and-china-are-not-even-in-the-same-league)
+
+No Article text 
+China is not competing with India for the attentions of Western hedge funds. And though FDI to China has fallen off a cliff, given the vast stock of foreign capital already committed to China, it will take years before the total foreign commitment to India matches that already committed to China.
+
+2024-02-13T19:00:18+05:30
+### [In Telangana's Nagoba Jatara, Hint of Change and Political Overtones](https://thewire.in/culture/in-telanganas-nagoba-jatara-hint-of-change-and-political-overtones)
+
+No Article text 
+This time while rituals and other religious practices connected with the event remained the same, what was clearly visible was the character of the gathering and the shift to enhance its sanctity with holy methods of worship.
+
+2024-02-13T18:39:14+05:30
+### [Farmers: Congress Promises Right to MSP If INDIA Bloc Comes to Power; AAP, TMC Slam BJP](https://thewire.in/politics/farmers-congress-promises-right-to-msp-if-india-bloc-comes-to-power-aap-tmc-slam-bjp)
+
+No Article text 
+The ruling party's claim that it is with 'annadatas' comes amidst reports that the Haryana Police is testing tear gas drones in anticipation of the march.
+
+2024-02-13T18:10:43+05:30
+### [What Electoral Choices Do Indian Muslims Have?](https://thewire.in/communalism/what-electoral-choices-do-indian-muslims-have)
+
+No Article text 
+Already, Muslims have been losing representation in political institutions. Everywhere, they are discriminated against. Should they really be embracing the BJP?
+
+2024-02-13T18:00:12+05:30
+### [Union Govt's Decision to End Free Movement With Myanmar Raises Concerns in Nagaland](https://thewire.in/government/union-govts-decision-to-end-free-movement-with-myanmar-raises-concerns-in-nagaland)
+
+No Article text 
+A powerful students' body has shot off an appeal to the United Nations seeking its “immediate intervention”.
+
+2024-02-13T17:29:06+05:30
+### [Ashok Chavan: BJP Makes Peace With Another Scam As Congress Battles Series of Exits](https://thewire.in/politics/ashok-chavan-adarsh-scam-congress-bjp)
+
+No Article text 
+In the decade and half since the former Congress leader was named in the scam, the BJP has raked this issue up from time to time. It even found mention in its government's recent 'white paper'.
+
+2024-02-13T16:00:36+05:30
+### [Why the Uniform Civil Code Falls Short in Advancing Gender Justice](https://thewire.in/rights/why-the-uniform-civil-code-falls-short-in-advancing-gender-justice)
+
+No Article text 
+Critics argue that while the UCC aims to standardise laws across different communities, it fails to address key issues such as women's rights to marital property, live-in relationships, and inheritance.
+
+2024-02-13T15:30:47+05:30
+### [Visa Row: British Cricketer Rehan Ahmed's Entry into India Delayed](https://thewire.in/sport/visa-row-british-cricketer-rehan-ahmeds-entry-into-india-delayed)
+
+No Article text 
+It is noteworthy that in a similar incident another cricketer of the England team, Shoaib Bashir faced delayed arrival due to visa issue and missed the initial Test at Hyderabad.
+
+2024-02-13T15:00:19+05:30
+### [Govt to Appoint Consultant for Enhancing Operational Capabilities of ITBP, BSF and Assam Rifles](https://thewire.in/government/govt-to-appoint-consultant-for-enhancing-operational-capabilities-of-itbp-bsf-and-assam-rifles)
+
+No Article text 
+Officials told the 'New Indian Express' that the government is looking for a retired defence officer to be inducted on contractual basis at the 'Level 14'.
+
+2024-02-13T14:40:58+05:30
+### [Why the Tucker Carlson Interview Was Classic Putin Powerplay](https://thewire.in/media/tucker-carlsons-vladimir-putin-kremlin-interview-donald-trump)
+
+No Article text 
+The talk will not change the minds of committed partisans on either side. But for those who for the first time heard an extended argument in the Russian leader’s own words, it has probably humanised Putin.
+
+2024-02-13T14:30:06+05:30
+### [‘America Is the Mother of Terrorism’: Why the Houthis’ New Slogan Matters](https://thewire.in/world/america-is-the-mother-of-terrorism-why-the-houthis-new-slogan-matters)
+
+No Article text 
+This slogan reflects the complexity of Yemeni views about US counterterrorism interventions and the widespread belief that these have provided terrorist groups with the oxygen they need to survive.
+
+2024-02-13T14:26:15+05:30
+### [Police Use Tear Gas on Protesting Farmers at Punjab-Haryana Border](https://thewire.in/agriculture/police-use-tear-gas-on-protesting-farmers-at-punjab-haryana-border)
+
+No Article text 
+Farmers were breaking and removing barricades at the border when the police fired tear gas at them.
+
+2024-02-13T14:00:22+05:30
+### [Watch: 'Aurangzeb and Tipu Sultan Gave Many Grants to Temples and Sants'](https://thewire.in/history/watch-aurangzeb-and-tipu-sultan-gave-many-grants-to-temples-and-sants)
+
+No Article text 
+In conversation with Dr Ruchika Sharma, who uses Youtube and X to counter misleading historical narratives.
+
+2024-02-13T13:44:32+05:30
+### [SC Extends Lakhimpur-Accused Ashish Mishra's Interim Bail](https://thewire.in/law/sc-extends-lakhimpur-accused-ashish-mishras-interim-bail)
+
+No Article text 
+Ashish is the son of Union minister and Bharatiya Janata Party strongman Ajay Mishra.
+
+2024-02-13T13:30:51+05:30
+### [Watch | Haldwani Unrest: Violence, Arrests and Unanswered Questions](https://thewire.in/communalism/watch-haldwani-unrest-violence-arrests-and-unanswered-questions)
+
+No Article text 
+Residents of Gafoor Basti continue to live under conditions of a curfew, with homes barricaded and people relocating to safer areas. Basic necessities such as ration supplies have been scarce for the past four days.
+
+2024-02-13T13:20:37+05:30
+### [Young Indonesian Voters Care About Climate Change. Politicians Don't](https://thewire.in/world/young-indonesian-voters-care-about-climate-change-politicians-dont)
+
+No Article text 
+Young people want action on climate change but research shows Indonesia’s political class isn’t listening.
+
+2024-02-13T13:00:26+05:30
+### [Sunny Deol Among 6 BJP MPs Who Never Spoke in 17th Lok Sabha, List Has TMC’s Shatrughan Sinha](https://thewire.in/government/sunny-deol-among-6-bjp-mps-who-never-spoke-in-17th-lok-sabha-list-has-tmcs-shatrughan-sinha)
+
+No Article text 
+While six of the nine MPs made written contributions, Sinha, Atul Singh and Ramesh Chandappa had no participation in either written or oral forms.
+
+2024-02-13T12:30:48+05:30
+### [January Retail Inflation Hits Three-Month Low at 5.1% as Food Prices Rise Slowly: Govt Data](https://thewire.in/economy/january-retail-inflation-hits-three-month-low-at-5-1-as-food-prices-rise-slowly-govt-data)
+
+No Article text 
+However, this time as well rural inflation remained higher than urban areas. In 2022-23, rural inflation was higher than urban inflation for the entire year.
+
+2024-02-13T12:14:43+05:30
+### [Indonesia Elections: What You Need To Know](https://thewire.in/world/indonesia-elections-what-you-need-to-know)
+
+No Article text 
+Voters in the world's most populous Muslim-majority country will elect a new president and parliament on February 14. It will mark the first change of leadership in a decade.
+
+2024-02-13T12:05:38+05:30
+### [The Case for Bringing Paper Ballots Back](https://thewire.in/rights/the-case-for-bringing-paper-ballots-back)
+
+No Article text 
+Public trust in electronic voting machines has never been lower than it is today and there's a good reason why.
+
+2024-02-13T12:00:24+05:30
+### [Systemic Sexual Assault, an Oppressive TMC and Not Much Recourse: What Sandeshkhali Villagers Say](https://thewire.in/government/sandeshkhali-bengal-tmc-sexual-assault-rape-police)
+
+No Article text 
+Allegations of horrific abuse and a system where total control is exercised by local TMC leaders have put this Bengal village on the national news radar.
+
+2024-02-13T11:30:39+05:30
+### [Kerala Refuses to Put up Modi Selfie Points at Ration Shops](https://thewire.in/politics/kerala-refuses-to-put-up-modi-selfie-points-at-ration-shops)
+
+No Article text 
+“It’s certainly part of the campaign for the Lok Sabha polls. We will inform the Centre that it is not right and it’ll be difficult to implement here,” chief minister Pinarayi Vijayan said.
+
+2024-02-13T11:08:38+05:30
+### [Read: The Caravan's Article on Army Torture the Union Government Wants Taken Down](https://thewire.in/rights/read-the-caravans-article-on-army-torture-the-union-government-wants-taken-down)
+
+No Article text 
+"For the affected families, the bundles of cash they received—Rs 10 lakh for the dead and lesser for the injured—were expected to replace their loved ones."
+
+2024-02-13T10:16:50+05:30
+### [Union Govt Uses IT Act to Attack Press Freedom, Asks The Caravan to Take Down Report](https://thewire.in/media/union-govt-uses-it-act-to-attack-press-freedom-asks-caravan-to-take-down-report)
+
+No Article text 
+The magazine was told that if it fails to take down an article on the Poonch killings from its website within 24 hours, the entire website would be taken down. The Caravan has said it will be challenging the order.
+
+2024-02-13T08:20:22+05:30
+### [Talks With Union Ministers Inconclusive, Farmers Stick With Plan to March to Delhi](https://thewire.in/agriculture/talks-with-union-ministers-inconclusive-farmers-stick-with-plan-to-march-to-delhi)
+
+No Article text 
+Farmers' leaders said the Union government was unwilling to commit to an MSP law and a farm loan waiver.
+
+2024-02-13T06:59:34+05:30
+### [For 'Bharat Ratna' Chaudhary Charan Singh, Politics Meant the Art of the Possible](https://thewire.in/politics/for-bharat-ratna-chaudhary-charan-singh-politics-meant-the-art-of-possible)
+
+No Article text 
+The Bharat Ratna to Charan Singh, now, indeed comes with a host of ironies. But then it seems consistent with what he set in motion in the political discourse where ideals shall wait for another day or time backstage.
+
+2024-02-12T22:18:28+05:30
+### [Pakistan Elections: In the Face of a Hegemonic Establishment, People Have Shown the Way](https://thewire.in/south-asia/pakistan-elections-in-the-face-of-a-hegemonic-establishment-people-have-shown-the-way)
+
+No Article text 
+Today’s situation shares a worrying parallel with the period that led to East Pakistan’s secession, given the resentment in Balochistan and Khyber Pakhtunkhwa against the establishment for exploiting their resources.
+
+2024-02-12T20:29:38+05:30
+### [Nitish Wins Trust Vote, But Tejashwi Wins Hearts](https://thewire.in/politics/nitish-kumar-may-have-won-trust-vote-but-tejashwi-yadav-emerges-as-real-victor)
+
+No Article text 
+Unlike Nitish Kumar who was bitter and unimpressive during his no-confidence motion speech, Tejashwi Yadav's composure with no inkling of ill-will won many hearts.
+
+2024-02-12T19:10:33+05:30
+### [Mosque, Temple and the 'Neutrality' of Indian Institutions: Reflections of an Ordinary Muslim](https://thewire.in/communalism/mosque-temple-and-the-neutrality-of-indian-institutions-reflections-of-an-ordinary-muslim)
+
+No Article text 
+At a time when India is witnessing brute Hindutva majoritarianism, the rhetoric of the ‘neutrality’ of institutions stands exposed. It is for everyone to see how putative ‘democratic’ and ‘neutral’ institutions have given way to power.
+
+2024-02-12T18:29:17+05:30
+### [Trump’s NATO Remarks Met With Biden, EU Backlash](https://thewire.in/world/trumps-nato-remarks-met-with-biden-eu-backlash)
+
+No Article text 
+Former President Trump threatened to encourage Russia to attack NATO members who do not meet their financial obligations. The White House has called the remarks "appalling and unhinged."
+
+2024-02-12T18:00:59+05:30
+### [TN Governor Abruptly Ends Customary Address to Assembly, Leaves House in a Huff](https://thewire.in/politics/tn-governor-abruptly-ends-customary-address-to-assembly-leaves-house-in-a-huff)
+
+No Article text 
+R.N. Ravi ended his speech abruptly, saying there are passages presented to him by the DMK government which he 'convincingly disagree on factual and moral grounds'. He left the House without waiting for the National Anthem to be played.
+
+2024-02-12T17:30:36+05:30
+### ['Uttarakhand UCC a Bad Law, Arbitrary, Will Lead to Huge Harassment, Likely to be Scrapped'](https://thewire.in/video/uttarakhand-ucc-a-bad-law-arbitrary-will-lead-to-huge-harassment-likely-to-be-scrapped)
+
+No Article text 
+In an interview to Karan Thapar, former Supreme Court judge Justice Madan Lokur said that at least four or five of the Uniform Civil Code's stipulations regarding live-in relationships will cause 'huge harassment of innocent people'.
+
+2024-02-12T17:15:32+05:30
+### [Who Decides Which Prisoners Deserve an Early Release?](https://thewire.in/law/who-decides-which-prisoners-deserve-an-early-release)
+
+No Article text 
+The rejection of Devender Pal Singh Bhullar's plea for early release show the arbitrary – and often unfair – way these decisions are made.
+
+2024-02-12T17:05:32+05:30
+### [As Farmers Head to Delhi for Protest, Haryana Govt Creates Hurdles on Their Path](https://thewire.in/uncategorised/as-farmers-head-to-delhi-for-protest-haryana-govt-creates-hurdles-on-their-path)
+
+No Article text 
+The Haryana government has taken large scale measures like digging nails into the road to ensure farmers cannot travel.
+
+2024-02-12T16:45:00+05:30
+### ['Ladakh Stand Off Led India to Call Out China as No. 1 Threat': General Naravane](https://thewire.in/security/ladakh-stand-off-led-india-to-call-out-china-as-no-1-threat-general-naravane)
+
+No Article text 
+The former Army chief has been vocal about his opinions on China. Meanwhile, his memoir – purportedly with revelations on the 2020 stand off – is 'awaiting clearance' from the Union ministries of defence and external affairs.
+
+2024-02-12T16:30:11+05:30
+### [Democracy’s Odyssey in Pakistan: A Tale of Triumph, Tragedy and Turmoil](https://thewire.in/south-asia/democracys-odyssey-in-pakistan-a-tale-of-triumph-tragedy-and-turmoil)
+
+No Article text 
+Pakistan needs dynamic young leaders who can bring renewed energy, innovation, and a contemporary perspective to address the evolving challenges.
+
+2024-02-12T16:08:33+05:30
+### [PM Modi to Visit Qatar After Release of 8 Navy Veterans](https://thewire.in/diplomacy/navy-veterans-release-narendra-modi-qatar)
+
+No Article text 
+On being asked by reporters as to whether Modi is visiting Qatar to acknowledge the release of the veterans, foreign secretary Vinay Kwatra said that the prime minister's visits are scheduled for months in advance.
+
+2024-02-12T16:04:17+05:30
+### [As Opposition Walks Out of Assembly, Nitish Kumar Wins Trust Vote in Bihar](https://thewire.in/politics/as-opposition-walks-out-of-assembly-nitish-kumar-wins-trust-vote-in-bihar)
+
+No Article text 
+MLAs from the RJD, Congress and Left Front all walked out of the assembly.
+
+2024-02-12T14:56:04+05:30
+### [Adani JV Just Exported Lethal Drones to Israel, Same Model Being Used in Genocide-Tainted Gaza War](https://thewire.in/business/adani-jv-just-exported-lethal-drones-to-israel-same-model-being-used-in-genocide-tainted-gaza-war)
+
+No Article text 
+The role of an Indian conglomerate in supplying drones – which are being used by the IDF for attacks in densely populated urban areas in Gaza – appears to fly in the face of the Modi government’s official position seeking a quick resolution to the conflict.
+
+2024-02-12T14:20:24+05:30
+### [‘Fashionable to Demolish Houses Without Due Procedure, Should Be Last Recourse’: MP High Court](https://thewire.in/law/fashionable-to-demolish-houses-without-due-procedure-should-be-last-recourse-mp-high-court)
+
+No Article text 
+"[Demolition] should only be carried out after providing the house owner with a fair chance to rectify the situation by obtaining regularisation," the court remarked.
+
+2024-02-12T14:00:54+05:30
+### [What Do Trinamool Congress's Rajya Sabha Nominations Say?](https://thewire.in/politics/tmc-rajya-sabha-sagarika-ghose-mamata-sushmita-dev)
+
+No Article text 
+While the BJP named a Bengal unit veteran in an apparent move to assure old-timers, the choices made by Mamata Banerjee's party were interesting.
+
+2024-02-12T13:50:28+05:30
+### [The ‘Hindu Atheist’ Who Cracked the Glass Ceiling in UK Politics](https://thewire.in/world/the-hindu-atheist-who-cracked-the-glass-ceiling-in-uk-politics)
+
+No Article text 
+Shreela Flather was unquestionably a pioneer, with the strength of character to succeed in areas which were not then welcoming to Asians, and certainly not to Asian women.
+
+2024-02-12T13:13:24+05:30
+### [Former Maharashtra CM Ashok Chavan Quits Congress, MLA's Post](https://thewire.in/politics/ashok-chavan-maharashtra-quits-congress-bjp)
+
+No Article text 
+Chavan's resignation letter to the Congress state committee chief Nana Patole says, simply, "I am resigning from the Congress party."
+
+2024-02-12T12:14:59+05:30
+### [Over 100 Defenders of Civil Liberties, Human Rights Raise Concerns Over Totalitarian Shift in India](https://thewire.in/rights/over-100-defenders-of-civil-liberties-human-rights-raise-concerns-over-totalitarian-shift-in-india)
+
+No Article text 
+The convention was addressed by former J&amp;K chief minister Omar Abdullah, senior Congress leaders Salman Khurshid and Manish Tewari, CPI(M) general secretary Sitaram Yechury and MP Kapil Sibal, among others.
+
+2024-02-12T11:31:31+05:30
+### ['Secret Angels', Horse Trading and a Bad EC: What Urdu Editorials in Pakistan Said on the Country's Election](https://thewire.in/media/urdu-media-pakistan-imran-khan-independents-nawaz-sharif)
+
+No Article text 
+According to Urdu media, the coalition government’s task ahead is riddled with challenges. The biggest one, after the formation of the government, will be to ensure the government's stability.
+
 2024-01-25T22:55:28+05:30
 ### [Sam Pitroda, Civil Society to Put in Place an Independent Expert Panel to Monitor 2024 Polls](https://thewire.in/rights/sam-pitroda-civil-society-to-put-in-place-an-independent-expert-panel-to-monitor-2024-polls)
 

@@ -1,3 +1,42 @@
+Wed, 07 Feb 2024 00:33:00 +0530
+### [IND vs ENG Tests | This could finish as the finest series ever played in India](https://www.thehindu.com/opinion/columns/ind-vs-eng-tests-this-could-finish-as-the-finest-series-ever-played-in-india/article67819365.ece)
+
+GPT-3.5: This article discusses the ongoing England series in India and highlights the importance of understanding the different styles of play between the teams. It mentions the need for a balanced approach, with a focus on both defense and attack. The article also praises the performances of individual players, such as Joe Root, Ben Stokes, and Jasprit Bumrah. It draws parallels to past series and emphasizes the significance of a five-Test series in showcasing the possibilities of the format. Overall, the article suggests that this series has the potential to be a thrilling and closely contested one.
+
+Fri, 02 Feb 2024 05:03:00 +0530
+### [Budget 2024 | The pace of fiscal consolidation took everyone by surprise](https://www.thehindu.com/business/budget/budget-2024-the-pace-of-fiscal-consolidation-took-everyone-by-surprise/article67801087.ece)
+
+Article found but Couldn't summarize 
+‘The underlying theme was clearly fiscal consolidation with an ability to maintain the infrastructure spends at the existing run rate’
+
+Fri, 02 Feb 2024 02:49:00 +0530
+### [Budget 2024 | An action-oriented Budget, with the mantra of reforming, performing and transforming India](https://www.thehindu.com/business/budget/budget-2024-an-action-oriented-budget-with-the-mantra-of-reforming-performing-and-transforming-india/article67801266.ece)
+
+Article found but Couldn't summarize 
+The continued focus on increased capital investments will result in generation of employment opportunities while MSME-centric initiatives will help them compete globally; the Budget also promotes sustainable growth
+
+Fri, 02 Feb 2024 02:01:00 +0530
+### [Budget 2024: Prudent as expected with promise of bigger things](https://www.thehindu.com/business/budget/budget-2024-prudent-as-expected-with-promise-of-bigger-things/article67800880.ece)
+
+Article found but Couldn't summarize 
+The government stuck to the theme as it raised the capex outlay for the coming financial year to Rs.11.11 lakh crore, an increase of 11%
+
+Wed, 31 Jan 2024 00:30:00 +0530
+### [Test cricket | West Indies give us a peep into the past, England into the future](https://www.thehindu.com/opinion/columns/west-indies-give-us-a-peep-into-the-past-england-into-the-future/article67793102.ece)
+
+Article found but Couldn't summarize 
+If fortune favours the brave, it also tends to desert the timid, which is what India were in the Hyderabad Test
+
+Tue, 30 Jan 2024 00:32:00 +0530
+### [Corrections and Clarifications — January 30, 2024](https://www.thehindu.com/opinion/columns/corrections-and-clarifications-january-30-2024/article67790103.ece)
+
+Article found but Couldn't summarize
+
+Sun, 28 Jan 2024 21:00:42 +0530
+### [Political Line | Faith and the nation](https://www.thehindu.com/opinion/columns/political-line-faith-and-the-nation/article67786740.ece)
+
+Article found but Couldn't summarize
+
 Wed, 24 Jan 2024 00:30:00 +0530
 ### [Ind vs Eng Tests | India’s home record is formidable; Bazball is England’s best chance](https://www.thehindu.com/opinion/columns/indias-home-record-is-formidable-bazball-is-englands-best-chance/article67769365.ece)
 

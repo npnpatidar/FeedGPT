@@ -1,3 +1,928 @@
+Tue, 13 Feb 2024 12:42:29 +0000
+### [BJP imports leaders, exports confidence? What Ashok Chavan’s move says about the saffron party’s insecurities](https://indianexpress.com/article/opinion/columns/imports-leaders-confidence-ashok-chavan-move-bjp-insecurities-9159502/)
+
+Article found but Couldn't summarize
+
+Tue, 13 Feb 2024 12:38:06 +0000
+### [Law, motherhood and the single woman: Discrimination and surrogacy in India](https://indianexpress.com/article/opinion/columns/law-motherhood-and-the-single-woman-discrimination-and-surrogacy-in-india-9159444/)
+
+Article found but Couldn't summarize
+
+Tue, 13 Feb 2024 12:27:21 +0000
+### [Yash Raj’s ‘nostalgia film festival’ and the uncomfortable, enduring charm of the theatre](https://indianexpress.com/article/opinion/yash-raj-nostalgia-film-festival-uncomfortable-enduring-charm-theatre-9159472/)
+
+Article found but Couldn't summarize
+
+Tue, 13 Feb 2024 10:53:03 +0000
+### [From extreme poverty to social media: What makes children vulnerable to trafficking](https://indianexpress.com/article/opinion/columns/extreme-poverty-to-social-media-what-makes-children-vulnerable-to-trafficking-9159293/)
+
+Article found but Couldn't summarize
+
+Tue, 13 Feb 2024 09:30:18 +0000
+### [C Raja Mohan writes: In closer ties with the Gulf, a significant win for Indian diplomacy](https://indianexpress.com/article/opinion/columns/indian-diplomacy-closer-ties-with-gulf-significant-win-9159128/)
+
+Article found but Couldn't summarize
+
+Tue, 13 Feb 2024 02:30:10 +0000
+### [Why India is fencing its border with Myanmar — and why that could be a problem](https://indianexpress.com/article/opinion/columns/why-india-is-fencing-its-border-with-myanmar-and-why-that-could-be-a-problem-9158141/)
+
+Article found but Couldn't summarize
+
+Tue, 13 Feb 2024 02:25:26 +0000
+### [India-UAE, a decade of successful engagement](https://indianexpress.com/article/opinion/columns/india-uae-bilateral-relations-indian-traders-in-persian-gulf-pearl-fishery-operations-lingah-iranian-port-9158149/)
+
+Article found but Couldn't summarize
+
+Tue, 13 Feb 2024 02:15:07 +0000
+### [Artist A Ramachandran was a modernist, who explored the possibilities of tradition](https://indianexpress.com/article/opinion/columns/artist-a-ramachandran-was-a-modernist-who-explored-the-possibilities-of-tradition-9158167/)
+
+Article found but Couldn't summarize
+
+Tue, 13 Feb 2024 01:40:56 +0000
+### [Express View | Unlike several modernists of his generation, Ramachandran’s artistic vocabulary was rooted in India](https://indianexpress.com/article/opinion/editorials/unlike-several-modernists-of-his-generation-ramachandrans-artistic-vocabulary-was-rooted-in-india-9158170/)
+
+Article found but Couldn't summarize
+
+Tue, 13 Feb 2024 01:00:38 +0000
+### [February 13, Forty Years Ago: Dal To Join Talks](https://indianexpress.com/article/opinion/40-years-ago/february-13-forty-years-ago-dal-to-join-talks-9158362/)
+
+Article found but Couldn't summarize
+
+Mon, 12 Feb 2024 14:41:13 +0000
+### [Express View on Indian Navy veterans’ return from Qatar: Breakthrough moment](https://indianexpress.com/article/opinion/editorials/express-view-on-indian-navy-veterans-return-from-qatar-9157976/)
+
+Article found but Couldn't summarize
+
+Mon, 12 Feb 2024 02:30:51 +0000
+### [Budget 2024: It reflects political confidence to address challenges](https://indianexpress.com/article/opinion/columns/indias-economic-challenges-narendra-modi-nirmala-sitharaman-interim-budget-9156319/)
+
+Article found but Couldn't summarize
+
+Mon, 12 Feb 2024 02:25:15 +0000
+### [How the Indian Navy can secure its sea lanes](https://indianexpress.com/article/opinion/columns/securing-the-sea-lanes-9156327/)
+
+Article found but Couldn't summarize
+
+Mon, 12 Feb 2024 01:15:14 +0000
+### [February 12, Forty Years Ago: February Andropov’s funeral](https://indianexpress.com/article/opinion/editorials/february-andropovs-funeral-9156353/)
+
+Article found but Couldn't summarize
+
+Sun, 11 Feb 2024 15:08:22 +0000
+### [Express View on government’s white paper: A political document](https://indianexpress.com/article/opinion/editorials/express-view-government-white-paper-political-document-9156187/)
+
+Article found but Couldn't summarize
+
+Sun, 11 Feb 2024 14:37:30 +0000
+### [In Pakistan 2024 polls, round one goes to Imran Khan and PTI](https://indianexpress.com/article/opinion/columns/pakistan-elections-2024-imran-khan-pti-9156129/)
+
+Article found but Couldn't summarize
+
+Sun, 11 Feb 2024 14:36:19 +0000
+### [Express View: Three Ratnas](https://indianexpress.com/article/opinion/editorials/express-view-three-ratnas-9156177/)
+
+Article found but Couldn't summarize
+
+Sun, 11 Feb 2024 14:17:11 +0000
+### [Vandita Mishra writes | Spot the difference: Cabinet and Parliament on Ayodhya](https://indianexpress.com/article/opinion/columns/ayodhya-ram-mandir-parliament-9156144/)
+
+Article found but Couldn't summarize
+
+Sun, 11 Feb 2024 12:57:07 +0000
+### [View from Pakistan: In the 2024 elections, the people have spoken, but government formation remains a challenge](https://indianexpress.com/article/opinion/columns/view-from-pakistan-2024-elections-government-formation-challenge-9156089/)
+
+Article found but Couldn't summarize
+
+Sun, 11 Feb 2024 08:05:04 +0000
+### [How coaching culture lets children down](https://indianexpress.com/article/opinion/how-coaching-culture-lets-children-down-9155711/)
+
+Article found but Couldn't summarize
+
+Sun, 11 Feb 2024 02:30:01 +0000
+### [Bullhorn Economics](https://indianexpress.com/article/columns/bullhorn-economics-9155087/)
+
+Article found but Couldn't summarize
+
+Sun, 11 Feb 2024 02:29:31 +0000
+### [66 years ago, an idea for a House session in South](https://indianexpress.com/article/opinion/columns/66-years-ago-an-idea-for-a-house-session-in-south-9155108/)
+
+Article found but Couldn't summarize
+
+Sun, 11 Feb 2024 02:20:29 +0000
+### [Inside Track by Coomi Kapoor: Belated Announcement](https://indianexpress.com/article/columns/belated-announcement-9155125/)
+
+Article found but Couldn't summarize
+
+Sun, 11 Feb 2024 02:15:08 +0000
+### [Tavleen Singh writes: For Congress to promise a caste census instead of a new economic idea is almost suicidal](https://indianexpress.com/article/opinion/columns/a-caste-census-seriously-9155088/)
+
+Article found but Couldn't summarize
+
+Sun, 11 Feb 2024 02:00:40 +0000
+### [Queen bees versus the wannabes](https://indianexpress.com/article/opinion/columns/queen-bees-versus-the-wannabes-9155137/)
+
+Article found but Couldn't summarize
+
+Sat, 10 Feb 2024 13:30:55 +0000
+### [Express View on Pakistan election: A bigger farce](https://indianexpress.com/article/opinion/editorials/pakistan-election-a-bigger-farce-9154871/)
+
+Article found but Couldn't summarize
+
+Sat, 10 Feb 2024 09:38:57 +0000
+### [Uttarakhand UCC makes women more, not less, vulnerable](https://indianexpress.com/article/opinion/columns/uttarakhand-uniform-civil-code-women-more-vulnerable-9154608/)
+
+Article found but Couldn't summarize
+
+Sat, 10 Feb 2024 07:58:04 +0000
+### [Vivek Katju writes: With Pakistan poll results, Imran Khan vs General Asim Munir will continue](https://indianexpress.com/article/opinion/columns/vivek-katju-writes-with-pakistan-poll-results-imran-khan-vs-general-asim-munir-will-continue-9154476/)
+
+Article found but Couldn't summarize
+
+Sat, 10 Feb 2024 07:10:38 +0000
+### [Launched on International Day For Girls and Women in Science, will SWATI break old habits?](https://indianexpress.com/article/opinion/launched-on-international-day-for-girls-and-women-in-science-will-swati-break-old-habits-9154415/)
+
+Article found but Couldn't summarize
+
+Sat, 10 Feb 2024 02:30:40 +0000
+### [Ram Madhav writes: India, making waves in the Indian Ocean](https://indianexpress.com/article/opinion/columns/indian-economy-global-economy-arthashastra-performance-of-indian-economy-india-population-size-9153735/)
+
+Article found but Couldn't summarize
+
+Sat, 10 Feb 2024 02:14:11 +0000
+### [Renewable power, when it isn’t sunny or windy](https://indianexpress.com/article/columns/renewable-energy-goals-solar-energy-paris-pact-power-purchase-agreements-9153740/)
+
+Article found but Couldn't summarize
+
+Sat, 10 Feb 2024 02:05:49 +0000
+### [Express View on Lionel Messi getting booed in Hong Kong](https://indianexpress.com/article/opinion/editorials/express-view-on-lionel-messi-getting-booed-in-hong-kong-9153802/)
+
+Article found but Couldn't summarize
+
+Sat, 10 Feb 2024 02:00:59 +0000
+### [Express View on Uttarakhand UCC: Let them live in](https://indianexpress.com/article/opinion/editorials/uttarakhands-ucc-more-confusion-few-solutions-9153795/)
+
+Article found but Couldn't summarize
+
+Sat, 10 Feb 2024 01:49:28 +0000
+### [Why India needs a forward-looking approach to Bilateral Investment Treaties](https://indianexpress.com/article/opinion/columns/why-india-needs-a-forward-looking-approach-to-bilateral-investment-treaties-9153783/)
+
+Article found but Couldn't summarize
+
+Sat, 10 Feb 2024 01:47:54 +0000
+### [Uttarakhand’s UCC: More confusion, few solutions](https://indianexpress.com/article/opinion/columns/uniform-civil-code-confusion-solutions-pushkar-singh-dhami-uttarakhand-ucc-bill-9153781/)
+
+Article found but Couldn't summarize
+
+Sat, 10 Feb 2024 01:40:47 +0000
+### [February 10, Forty Years Ago: Terrorism threat](https://indianexpress.com/article/opinion/40-years-ago/february-10-forty-years-ago-terrorism-threat-9153794/)
+
+Article found but Couldn't summarize
+
+Sat, 10 Feb 2024 01:35:19 +0000
+### [Express View on disability access: Everyone in movie halls](https://indianexpress.com/article/opinion/editorials/express-view-on-disability-access-everyone-in-movie-halls-9153801/)
+
+Article found but Couldn't summarize
+
+Fri, 09 Feb 2024 12:50:38 +0000
+### [Sanjaya Baru writes: Why Narasimha Rao had to wait for 33 years after 1991 for the Bharat Ratna](https://indianexpress.com/article/opinion/columns/bharat-ratna-narasimha-rao-narendra-modi-9153316/)
+
+Article found but Couldn't summarize
+
+Fri, 09 Feb 2024 09:42:03 +0000
+### [What Uttarakhand UCC does not get about love and lovers](https://indianexpress.com/article/opinion/columns/what-uttarakhand-ucc-does-not-get-about-love-lovers-9152919/)
+
+Article found but Couldn't summarize
+
+Fri, 09 Feb 2024 07:34:40 +0000
+### [Modi government’s anti-UPA white paper: Nirmala Sitharaman’s political, polemical document can’t hide economic failures](https://indianexpress.com/article/opinion/columns/modi-anti-upa-white-paper-nirmala-sitharaman-economic-failures-9152674/)
+
+Article found but Couldn't summarize
+
+Fri, 09 Feb 2024 01:37:22 +0000
+### [Ram’s bell of justice](https://indianexpress.com/article/opinion/columns/rams-bell-of-justice-lessons-from-tribal-communities-how-to-hold-our-gods-to-account-9151872/)
+
+Article found but Couldn't summarize
+
+Fri, 09 Feb 2024 01:37:11 +0000
+### [India is well on its way to becoming Viksit Bharat](https://indianexpress.com/article/opinion/columns/india-is-well-on-its-way-to-becoming-viksit-bharat-9151868/)
+
+Article found but Couldn't summarize
+
+Fri, 09 Feb 2024 01:21:22 +0000
+### [February 9, 1984, Forty Years Ago: Punjab Bandh](https://indianexpress.com/article/opinion/40-years-ago/february-9-1984-forty-years-ago-punjab-bandh-9151885/)
+
+Article found but Couldn't summarize
+
+Fri, 09 Feb 2024 01:12:19 +0000
+### [Express View on hustle culture: Connect, disconnect](https://indianexpress.com/article/opinion/editorials/express-view-on-hustle-culture-connect-disconnect-9151871/)
+
+Article found but Couldn't summarize
+
+Fri, 09 Feb 2024 01:12:17 +0000
+### [Express View on RBI interest rates: Holding the line](https://indianexpress.com/article/opinion/editorials/express-view-on-rbi-interest-rates-holding-the-line-9151870/)
+
+Article found but Couldn't summarize
+
+Fri, 09 Feb 2024 01:12:14 +0000
+### [Express View on protests by Karnataka and Kerala: Grand bargain 2.0](https://indianexpress.com/article/opinion/editorials/express-view-on-protests-by-karnataka-and-kerala-grand-bargain-2-0-9151869/)
+
+Article found but Couldn't summarize
+
+Thu, 08 Feb 2024 11:57:22 +0000
+### [Uttarakhand UCC is an attempt to control young people’s sexuality](https://indianexpress.com/article/opinion/columns/uttarakhand-uniform-civil-code-young-people-sexuality-9151154/)
+
+Article found but Couldn't summarize
+
+Thu, 08 Feb 2024 11:51:19 +0000
+### [Why Uttarakhand Uniform Civil Code is a step towards equality and progress](https://indianexpress.com/article/opinion/columns/uttarakhand-uniform-civil-code-step-equality-progress-9151101/)
+
+Article found but Couldn't summarize
+
+Thu, 08 Feb 2024 10:15:44 +0000
+### [Ayesha Jalal writes | Pakistan votes: Here’s what’s at stake in the elections](https://indianexpress.com/article/opinion/columns/pakistan-votes-what-is-at-stake-in-elections-9150677/)
+
+Article found but Couldn't summarize
+
+Thu, 08 Feb 2024 02:22:13 +0000
+### [For Uttarakhand’s live-in couples, the State could become an unwelcome third wheel](https://indianexpress.com/article/opinion/state-is-in-the-room-uttarakhand-ucc-live-in-relationships-9150029/)
+
+Article found but Couldn't summarize
+
+Thu, 08 Feb 2024 01:37:49 +0000
+### [How will we know that Bharat is Viksit?](https://indianexpress.com/article/opinion/columns/how-will-we-know-that-bharat-is-viksit-9149672/)
+
+Article found but Couldn't summarize
+
+Thu, 08 Feb 2024 01:37:47 +0000
+### [Pratap Bhanu Mehta on Donald Trump’s trial: When the court needs to do the saving, democracy is lost](https://indianexpress.com/article/opinion/columns/pratap-bhanu-mehta-on-donald-trumps-trial-when-the-court-needs-to-do-the-saving-democracy-is-lost-9149696/)
+
+Article found but Couldn't summarize
+
+Thu, 08 Feb 2024 01:37:10 +0000
+### [Express View on India’s CAR T-cell therapy: Taking cancer on](https://indianexpress.com/article/opinion/editorials/express-view-on-indias-car-t-cell-therapy-taking-cancer-on-9149692/)
+
+Article found but Couldn't summarize
+
+Thu, 08 Feb 2024 01:37:08 +0000
+### [Express View on Modi’s speeches in Parliament: The gloves are off](https://indianexpress.com/article/opinion/editorials/express-view-on-modis-speeches-in-parliament-the-gloves-are-off-9149691/)
+
+Article found but Couldn't summarize
+
+Thu, 08 Feb 2024 01:37:06 +0000
+### [Grammy for Shakti: For 50 years, the band brought the world together, one note at a time](https://indianexpress.com/article/opinion/columns/grammy-for-shakti-for-50-years-the-band-brought-the-world-together-one-note-at-a-time-9149690/)
+
+Article found but Couldn't summarize
+
+Thu, 08 Feb 2024 01:18:15 +0000
+### [February 8, 1984, Forty Years Ago: Tripartite Akali Talks](https://indianexpress.com/article/opinion/40-years-ago/february-8-1984-forty-years-ago-tripartite-akali-talks-9149694/)
+
+Article found but Couldn't summarize
+
+Thu, 08 Feb 2024 01:18:13 +0000
+### [Express View: Jasprit Bumrah days](https://indianexpress.com/article/opinion/editorials/express-view-jasprit-bumrah-days-9149693/)
+
+Article found but Couldn't summarize
+
+Wed, 07 Feb 2024 14:06:06 +0000
+### [In Pakistan, revolution or the same-old seem to be the two choices. What if neither happens?](https://indianexpress.com/article/opinion/columns/pakistan-elections-nawaz-sharif-imran-khan-revolution-old-9149386/)
+
+Article found but Couldn't summarize
+
+Wed, 07 Feb 2024 10:02:41 +0000
+### [How India’s courts should talk about persons with disabilities](https://indianexpress.com/article/opinion/columns/how-indias-courts-should-talk-about-persons-with-disabilities-9148625/)
+
+Article found but Couldn't summarize
+
+Wed, 07 Feb 2024 09:06:32 +0000
+### [Mandir politics, Palestine and Israel: When did religion lose its compassion?](https://indianexpress.com/article/opinion/columns/mandir-politics-palestine-and-israel-when-did-religion-lose-its-compassion-9148498/)
+
+Article found but Couldn't summarize
+
+Wed, 07 Feb 2024 02:10:46 +0000
+### [Express View | Target: Gobi Manchurian](https://indianexpress.com/article/opinion/editorials/target-gobi-manchurian-9147586/)
+
+Article found but Couldn't summarize
+
+Wed, 07 Feb 2024 02:04:34 +0000
+### [Wages of inequality: The income-growth gap](https://indianexpress.com/article/opinion/columns/wages-of-inequality-the-income-growth-gap-9147543/)
+
+Article found but Couldn't summarize
+
+Wed, 07 Feb 2024 02:04:26 +0000
+### [Why does our education system keep punishing children?](https://indianexpress.com/article/opinion/columns/why-does-our-education-system-keep-punishing-children-9147540/)
+
+Hmm, it is indeed concerning to hear about the high number of suicides among students, especially those from lower castes. The socio-economic conditions and caste discrimination seem to play a significant role in these tragic incidents. It raises the question of what factors in our educational spaces contribute to such despair. One aspect is the suppression of discussions on socio-economic conditions and the perpetuation of caste-based judgments. The other aspect is the perversion of modern norms of equality and justice, which often oppose provisions for equality, including reservation. These issues create a complex and oppressive social reality for individuals, leading to psychological distress. It is crucial for society, including academics, the media, judiciary, intellectuals, and politicians, to take responsibility and work towards creating a more inclusive and supportive educational environment. Education should aim to cultivate autonomous individuals who can navigate their rights and duties, promote justice and equality, and adapt to various ends.
+
+Wed, 07 Feb 2024 01:37:28 +0000
+### [In Ayodhya, a history forgotten](https://indianexpress.com/article/opinion/columns/in-ayodhya-a-history-forgotten-9147541/)
+
+Article found but Couldn't summarize
+
+Wed, 07 Feb 2024 01:30:59 +0000
+### [February 07, Forty Years Ago: Diplomat Shot Dead](https://indianexpress.com/article/editorials/february-07-forty-years-ago-diplomat-shot-dead-9147562/)
+
+Article found but Couldn't summarize
+
+Wed, 07 Feb 2024 01:25:15 +0000
+### [Express View: Anti-cheating law – Youth needs an enabling environment](https://indianexpress.com/article/opinion/editorials/express-view-anti-cheating-law-youth-needs-an-enabling-environment-9147814/)
+
+Article found but Couldn't summarize
+
+Tue, 06 Feb 2024 14:05:33 +0000
+### [Elon Musk’s Neuralink is a minefield of scientific and ethical concerns](https://indianexpress.com/article/opinion/columns/elon-musk-neuralink-scientific-ethical-concerns-9147250/)
+
+Article found but Couldn't summarize
+
+Tue, 06 Feb 2024 11:40:37 +0000
+### [C Raja Mohan writes: Whoever wins Pak election, General Asim Munir will wear a crown of thorns](https://indianexpress.com/article/opinion/columns/pakistan-election-asim-munir-imran-khan-9146953/)
+
+Article found but Couldn't summarize
+
+Tue, 06 Feb 2024 11:03:47 +0000
+### [The fall of the Davos Man: Globalisation as virtue is over – and India is playing its part in the fractured new order](https://indianexpress.com/article/opinion/columns/davos-man-fall-globalisation-virtue-over-india-new-world-order-9146816/)
+
+Article found but Couldn't summarize
+
+Tue, 06 Feb 2024 02:30:49 +0000
+### [Population growth committee: Move beyond Emergency-era fears](https://indianexpress.com/article/opinion/columns/india-population-growth-nirmala-sitharaman-committee-on-population-growth-union-budget-2024-viksit-bharat-goal-9145815/)
+
+Article found but Couldn't summarize
+
+Tue, 06 Feb 2024 02:15:25 +0000
+### [Why there can’t be a classroom at a click](https://indianexpress.com/article/opinion/columns/digital-learning-aser-report-2023-digital-classrooms-skill-based-learnig-9145828/)
+
+Article found but Couldn't summarize
+
+Tue, 06 Feb 2024 02:00:51 +0000
+### [Express View on the Grammys: Music to the ears](https://indianexpress.com/article/opinion/editorials/express-view-on-the-grammys-music-to-the-ears-9145847/)
+
+Article found but Couldn't summarize
+
+Tue, 06 Feb 2024 01:50:27 +0000
+### [Signal from industry](https://indianexpress.com/article/opinion/editorials/signal-from-industry-9147577/)
+
+Article found but Couldn't summarize
+
+Tue, 06 Feb 2024 01:50:09 +0000
+### [Express View on demolition of Akhoondji Masjid: A collective loss](https://indianexpress.com/article/opinion/editorials/express-view-on-demolition-of-akhoondji-masjid-a-collective-loss-9145844/)
+
+Article found but Couldn't summarize
+
+Tue, 06 Feb 2024 01:40:06 +0000
+### [Express View on RBI action against Paytm: Payment blocked](https://indianexpress.com/article/opinion/editorials/express-view-on-rbi-action-against-paytm-payment-blocked-9145840/)
+
+Article found but Couldn't summarize
+
+Tue, 06 Feb 2024 01:30:04 +0000
+### [January 06, Forty Years Ago: BJP’s Chargesheet](https://indianexpress.com/article/opinion/40-years-ago/january-06-forty-years-ago-bjps-chargesheet-9145837/)
+
+Article found but Couldn't summarize
+
+Mon, 05 Feb 2024 14:13:52 +0000
+### [Sadhguru Jaggi Vasudev writes: Why Ram and the temple at Ayodhya can inspire a nation](https://indianexpress.com/article/opinion/columns/sadhguru-jaggi-vasudev-why-ram-temple-ayodhya-inspire-a-nation-9145532/)
+
+Article found but Couldn't summarize
+
+Mon, 05 Feb 2024 12:20:03 +0000
+### [The weather report: Why getting it right is important for India](https://indianexpress.com/article/opinion/columns/weather-report-why-getting-it-right-important-for-india-9145273/)
+
+Article found but Couldn't summarize
+
+Mon, 05 Feb 2024 09:59:21 +0000
+### [On abortion, Supreme Court and government have failed women](https://indianexpress.com/article/opinion/columns/abortion-supreme-court-government-have-failed-women-9145065/)
+
+Article found but Couldn't summarize
+
+Mon, 05 Feb 2024 02:30:19 +0000
+### [Ukraine war, Gaza conflict and Middle East strikes: It’s time businesses prepare for political risk](https://indianexpress.com/article/opinion/columns/ukraine-war-gaza-conflict-middle-east-strikes-risk-management-political-risk-9144168/)
+
+Article found but Couldn't summarize
+
+Mon, 05 Feb 2024 02:25:49 +0000
+### [Express View on US strikes in Middle East: Exercise in futility](https://indianexpress.com/article/opinion/editorials/express-view-on-us-strikes-in-middle-east-exercise-in-futility-9144208/)
+
+Article found but Couldn't summarize
+
+Mon, 05 Feb 2024 02:15:13 +0000
+### [Bringing Ram Rajya to rural India](https://indianexpress.com/article/opinion/columns/ram-rajya-rural-india-lok-sabha-elections-2024-narendra-modi-viksit-bharat-sankalp-9144202/)
+
+Article found but Couldn't summarize
+
+Mon, 05 Feb 2024 02:05:17 +0000
+### [How to restore WTO’s authority](https://indianexpress.com/article/opinion/columns/how-to-restore-wtos-authority-9144209/)
+
+Article found but Couldn't summarize
+
+Sun, 04 Feb 2024 11:54:51 +0000
+### [View from Pakistan: Imran Khan’s ‘politically motivated’ convictions ahead of elections](https://indianexpress.com/article/opinion/columns/pakistan-imran-khan-politically-motivated-convictions-elections-9143829/)
+
+Article found but Couldn't summarize
+
+Sun, 04 Feb 2024 10:58:39 +0000
+### [Interim Budget and challenges of sustaining growth](https://indianexpress.com/article/opinion/columns/interim-budget-2024-growth-challenges-9143782/)
+
+Article found but Couldn't summarize
+
+Sun, 04 Feb 2024 10:30:25 +0000
+### [M Venkaiah Naidu writes: L K Advani, a leader who never craved power](https://indianexpress.com/article/opinion/columns/m-venkaiah-naidu-writes-l-k-advani-never-craved-power-9143717/)
+
+Article found but Couldn't summarize
+
+Sun, 04 Feb 2024 10:22:18 +0000
+### [Express view on Bharat Ratna Advani: His arc shows a rare capacity to reflect and reinvent](https://indianexpress.com/article/opinion/editorials/express-view-on-bharat-ratna-advani-9143740/)
+
+Article found but Couldn't summarize
+
+Sun, 04 Feb 2024 08:14:36 +0000
+### [Sudheendra Kulkarni writes: Bharat Ratna L K Advani’s greatest achievement is that he helped end Congress’s monopoly over power in India](https://indianexpress.com/article/opinion/columns/sudheendra-kulkarni-l-k-advani-bharat-ratna-9143611/)
+
+Article found but Couldn't summarize
+
+Sun, 04 Feb 2024 06:02:27 +0000
+### [For-profit models such as Neuralink can lead to creation of mature and vibrant accessibility market](https://indianexpress.com/article/opinion/columns/for-profit-models-such-as-neuralink-can-lead-to-creation-of-mature-and-vibrant-accessibility-market-9143452/)
+
+Article found but Couldn't summarize
+
+Sun, 04 Feb 2024 02:30:17 +0000
+### [P Chidambaram writes: Rules of war, love and politics](https://indianexpress.com/article/opinion/columns/rule-of-law-rule-by-law-international-humanitarian-law-geneva-conventions-9142888/)
+
+GPT-3.5: The article discusses the difference between Rule of Law and Rule by Law. Under Rule of Law, the law is supreme and all rulers must abide by it, while under Rule by Law, the rulers are supreme and the law serves them. The article also mentions the rules of war, which include protecting the sick, wounded, and civilians, as well as treating prisoners of war with humanity. However, these rules have been violated in conflicts such as Vietnam, Iraq, Libya, Russia-Ukraine, and Israel-Hamas. Violations of the rules of war can lead to prosecution in UN Courts. The article also briefly touches on the rules of love, with quotes from William Shakespeare, Oscar Wilde, George Bernard Shaw, and Albert Einstein. Lastly, it mentions the distinction between the law on politics and the rules of politics, highlighting how the game of politics is often played according to unstated rules.
+
+Sun, 04 Feb 2024 02:25:10 +0000
+### [Bylines, deadlines and a modern love story](https://indianexpress.com/article/opinion/columns/bylines-deadlines-a-modern-love-story-9142947/)
+
+Article found but Couldn't summarize
+
+Sun, 04 Feb 2024 02:15:48 +0000
+### [The Designated Dalit in a corporate workplace](https://indianexpress.com/article/opinion/columns/the-designated-dalit-in-a-corporate-workplace-9142932/)
+
+Article found but Couldn't summarize
+
+Sun, 04 Feb 2024 01:40:09 +0000
+### [Tavleen Singh writes: Things more important than the Budget](https://indianexpress.com/article/opinion/columns/things-more-important-than-the-budget-9142892/)
+
+Article found but Couldn't summarize
+
+Sat, 03 Feb 2024 18:19:10 +0000
+### [Places of Worship Act – a crucible for the idea of India](https://indianexpress.com/article/opinion/columns/places-of-worship-act-a-crucible-for-the-idea-of-india-9142962/)
+
+Article found but Couldn't summarize
+
+Sat, 03 Feb 2024 09:37:35 +0000
+### [Vinay Sitapati writes: Bharat Ratna for Advani shows why BJP wins — and Congress loses](https://indianexpress.com/article/opinion/vinay-sitapati-bharat-ratna-advani-why-bjp-wins-9142349/)
+
+Article found but Couldn't summarize
+
+Sat, 03 Feb 2024 07:37:48 +0000
+### [Those who oppose Ram temple suffer from colonised Stockholm Syndrome](https://indianexpress.com/article/opinion/columns/those-who-oppose-ram-temple-suffer-from-colonised-stockholm-syndrome-9142108/)
+
+Article found but Couldn't summarize
+
+Sat, 03 Feb 2024 02:45:53 +0000
+### [Express View on Mark Zuckerberg’s apology to parents: Sorry is not enough](https://indianexpress.com/article/opinion/editorials/in-the-dock-9-9141499/)
+
+Article found but Couldn't summarize
+
+Sat, 03 Feb 2024 02:30:45 +0000
+### [Menaka Guruswamy writes: Can water be privatised?](https://indianexpress.com/article/opinion/columns/water-crisis-water-market-in-california-water-supply-and-demand-9141457/)
+
+Article found but Couldn't summarize
+
+Sat, 03 Feb 2024 02:25:58 +0000
+### [What the Budget doesn’t tell you](https://indianexpress.com/article/opinion/columns/union-budget-budget-in-pre-election-year-nirmala-sitharaman-rural-economy-9141481/)
+
+Article found but Couldn't summarize
+
+Sat, 03 Feb 2024 02:00:23 +0000
+### [Shubhra Gupta writes: ‘Girls will be Girls’, exploring sexuality with honesty](https://indianexpress.com/article/opinion/columns/sketched-from-the-inside-9141483/)
+
+Article found but Couldn't summarize
+
+Sat, 03 Feb 2024 01:58:54 +0000
+### [February 03, Forty Years Ago: Assam’s Tribunal Act](https://indianexpress.com/article/opinion/40-years-ago/february-03-forty-years-ago-assams-tribunal-act-9141497/)
+
+Article found but Couldn't summarize
+
+Sat, 03 Feb 2024 01:45:07 +0000
+### [Express View on India Art Fair: Art of Reaching Out](https://indianexpress.com/article/opinion/editorials/art-of-reaching-out-9141505/)
+
+Article found but Couldn't summarize
+
+Sat, 03 Feb 2024 01:40:23 +0000
+### [Ram Madhav writes: Foreign policy, realistic and in national interest](https://indianexpress.com/article/opinion/columns/framing-india-in-the-world-9141462/)
+
+Article found but Couldn't summarize
+
+Sat, 03 Feb 2024 01:30:04 +0000
+### [Express View on CBSE’s language plan: Learning and faultlines](https://indianexpress.com/article/opinion/editorials/language-learning-9141504/)
+
+Article found but Couldn't summarize
+
+Fri, 02 Feb 2024 01:37:07 +0000
+### [After Interim Budget 2024, hand the baton over to the private sector](https://indianexpress.com/article/opinion/columns/after-interim-budget-2024-hand-the-baton-over-to-the-private-sector-9139717/)
+
+Article found but Couldn't summarize
+
+Fri, 02 Feb 2024 01:37:00 +0000
+### [Ashok Gulati and Purvi Thangaraj write: The Interim Budget 2024 neglects the farm sector](https://indianexpress.com/article/opinion/columns/ashok-gulati-and-purvi-thangaraj-write-the-interim-budget-2024-neglects-the-farm-sector-9139714/)
+
+Article found but Couldn't summarize
+
+Fri, 02 Feb 2024 01:28:20 +0000
+### [Interim budget: Fiscal discipline at the expense of growth](https://indianexpress.com/article/opinion/columns/interim-budget-fiscal-discipline-at-the-expense-of-growth-9139719/)
+
+Article found but Couldn't summarize
+
+Fri, 02 Feb 2024 01:26:09 +0000
+### [Derek O’Brien on President Address to Parliament: Basket of empty promises](https://indianexpress.com/article/opinion/columns/derek-obrien-on-president-address-to-parliament-basket-of-empty-promises-9139718/)
+
+Article found but Couldn't summarize
+
+Fri, 02 Feb 2024 01:26:02 +0000
+### [Express View on India-England match:  A defining Test](https://indianexpress.com/article/opinion/editorials/express-view-on-india-england-match-a-defining-test-9139715/)
+
+Article found but Couldn't summarize
+
+Fri, 02 Feb 2024 01:25:18 +0000
+### [In a pre-election budget, stability – not political gestures](https://indianexpress.com/article/opinion/columns/in-a-pre-election-budget-stability-not-political-gestures-9139712/)
+
+Article found but Couldn't summarize
+
+Fri, 02 Feb 2024 01:05:04 +0000
+### [February 2, 1984, Forty Years Ago: US military budget](https://indianexpress.com/article/opinion/40-years-ago/february-2-1984-forty-years-ago-us-military-budget-9139716/)
+
+Article found but Couldn't summarize
+
+Thu, 01 Feb 2024 13:34:17 +0000
+### [Interim Budget 2024: Are the poor, women, youth and farmers, highlighted by the FM in her speech, really doing well?](https://indianexpress.com/article/opinion/columns/interim-budget-2024-nirmala-sitharaman-speech-9139361/)
+
+Article found but Couldn't summarize
+
+Thu, 01 Feb 2024 13:25:47 +0000
+### [Interim budget makes no leaps, keeps a calm head](https://indianexpress.com/article/opinion/editorials/interim-budget-makes-no-leaps-keeps-a-calm-head-9139289/)
+
+Article found but Couldn't summarize
+
+Thu, 01 Feb 2024 12:00:57 +0000
+### [Interim Budget 2024: A fine balance between expenditure and fiscal discipline](https://indianexpress.com/article/opinion/columns/interim-budget-2024-fine-balance-expenditure-fiscal-discipline-9139154/)
+
+Article found but Couldn't summarize
+
+Thu, 01 Feb 2024 11:54:10 +0000
+### [Budget has stayed away from populist measures, focused on sustaining capex](https://indianexpress.com/article/opinion/columns/budget-has-stayed-away-from-populist-measures-focused-on-sustaining-capex-9139029/)
+
+Article found but Couldn't summarize
+
+Thu, 01 Feb 2024 11:16:20 +0000
+### [Imran Khan arrested in 2024, Nawaz Sharif in 2018: Pakistan’s game of thrones](https://indianexpress.com/article/opinion/columns/pakistan-imran-khan-nawaz-sharif-arrests-9138999/)
+
+Article found but Couldn't summarize
+
+Thu, 01 Feb 2024 09:44:49 +0000
+### [Interim Budget 2024: On expected lines, and it bodes well for markets](https://indianexpress.com/article/opinion/columns/interim-budget-2024-expected-lines-bodes-well-markets-9138795/)
+
+Article found but Couldn't summarize
+
+Thu, 01 Feb 2024 01:37:21 +0000
+### [J Sai Deepak writes: Why ‘caste’ is a Western construct](https://indianexpress.com/article/opinion/columns/j-sai-deepak-writes-why-caste-is-a-western-construct-9137707/)
+
+Article found but Couldn't summarize
+
+Thu, 01 Feb 2024 01:36:27 +0000
+### [Express View on Neuralink human trials: Mind and matter](https://indianexpress.com/article/opinion/editorials/express-view-on-neuralink-human-trials-mind-and-matter-9137722/)
+
+Neuralink, a venture by Elon Musk, recently announced that the first human received an implant from Neuralink and is recovering well. This marks an important milestone in the development of human-computer interfaces that can potentially address physical and cognitive limitations. The implant contains a chip and electrodes that register thoughts related to movement, with the goal of enabling people with disabilities to control devices through their thoughts. However, it is important to consider privacy concerns and ensure that data extracted from brains is not exploited. Regulation, public funding for research, and ethical considerations are crucial as this technology progresses. The potential impact of brain-computer interfaces is significant, but careful navigation of its challenges is necessary.
+
+Thu, 01 Feb 2024 01:33:36 +0000
+### [Express View: Afterlife of Fräulein Lieser](https://indianexpress.com/article/opinion/editorials/express-view-afterlife-of-fraulein-lieser-9137719/)
+
+Article found but Couldn't summarize
+
+Thu, 01 Feb 2024 01:29:52 +0000
+### [Why I should be allowed to not celebrate the Ram temple consecration in Ayodhya](https://indianexpress.com/article/opinion/columns/why-i-should-be-allowed-to-not-celebrate-the-ram-temple-consecration-in-ayodhya-9137713/)
+
+Article found but Couldn't summarize
+
+Thu, 01 Feb 2024 01:15:47 +0000
+### [Express View on Chandigarh mayoral polls: A tainted victory](https://indianexpress.com/article/opinion/editorials/express-view-on-chandigarh-mayoral-polls-a-tainted-victory-9137723/)
+
+Article found but Couldn't summarize
+
+Thu, 01 Feb 2024 00:55:46 +0000
+### [February 1, 1984, Forty Years Ago: Centre-Akali talks](https://indianexpress.com/article/opinion/40-years-ago/february-1-1984-forty-years-ago-centre-akali-talks-9137682/)
+
+Article found but Couldn't summarize
+
+Wed, 31 Jan 2024 14:13:25 +0000
+### [Six reasons why Muslims should look again at Modi in 2024 polls](https://indianexpress.com/article/opinion/columns/six-reasons-muslims-look-again-modi-2024-polls-9137422/)
+
+Article found but Couldn't summarize
+
+Wed, 31 Jan 2024 11:00:55 +0000
+### [Interim budget 2024: Historically, growth spurts in India have resembled sprints, not marathons. It needs to change](https://indianexpress.com/article/opinion/columns/interim-budget-2024-historically-growth-spurts-india-sprints-not-marathons-needs-change-9136836/)
+
+Article found but Couldn't summarize
+
+Wed, 31 Jan 2024 09:04:19 +0000
+### [Imran Khan’s antics and Army’s reputation: Why Pakistan retaliated to Iran strikes](https://indianexpress.com/article/opinion/columns/imran-khan-antics-pakistan-army-reputation-iran-strikes-9136629/)
+
+Article found but Couldn't summarize
+
+Wed, 31 Jan 2024 08:56:28 +0000
+### [Indian women are working more. Here’s why](https://indianexpress.com/article/opinion/columns/indian-women-are-working-more-heres-why-9136549/)
+
+Article found but Couldn't summarize
+
+Wed, 31 Jan 2024 02:40:52 +0000
+### [Union budget 2024: Things that matter](https://indianexpress.com/article/opinion/columns/union-budget-2024-nirmala-sitharaman-budget-speech-rural-india-women-welfare-msmes-9135618/)
+
+Article found but Couldn't summarize
+
+Wed, 31 Jan 2024 02:25:27 +0000
+### [Upendra Baxi writes: What the dissenting judges at ICJ do not get](https://indianexpress.com/article/opinion/columns/upendra-baxi-writes-what-the-dissenting-judges-at-icj-do-not-get-9135580/)
+
+Article found but Couldn't summarize
+
+Wed, 31 Jan 2024 02:14:48 +0000
+### [January 31, Forty Years Ago: Ex-Manipur CM Shot](https://indianexpress.com/article/opinion/40-years-ago/january-31-forty-years-ago-ex-manipur-cm-shot-9135628/)
+
+Article found but Couldn't summarize
+
+Wed, 31 Jan 2024 01:40:06 +0000
+### [At World Economic Forum, how India made a mark](https://indianexpress.com/article/opinion/columns/at-world-economic-forum-how-india-made-a-mark-9135588/)
+
+Article found but Couldn't summarize
+
+Wed, 31 Jan 2024 01:37:19 +0000
+### [Express View on protest, soup, art: Mona Lisa still smiles](https://indianexpress.com/article/opinion/editorials/express-view-on-protest-soup-art-mona-lisa-still-smiles-9135636/)
+
+Article found but Couldn't summarize
+
+Wed, 31 Jan 2024 01:35:46 +0000
+### [Express View on government and non-urea fertilisers: Price of price distortion](https://indianexpress.com/article/opinion/editorials/one-nation-one-fertiliser-scheme-fertiliser-subsidy-bill-subsidised-fertilisers-in-india-dap-urea-9135631/)
+
+Article found but Couldn't summarize
+
+Wed, 31 Jan 2024 00:30:18 +0000
+### [Express View on student suicides: After Niharika](https://indianexpress.com/article/opinion/editorials/niharika-solanki-death-kota-jee-aspirant-suicide-jee-aspirant-suicide-note-ncrb-annual-report-2022-9135633/)
+
+Article found but Couldn't summarize
+
+Tue, 30 Jan 2024 13:34:51 +0000
+### [The ‘Amar Chitra Katha’ of a Muslim millennial](https://indianexpress.com/article/opinion/columns/muslim-millenial-amar-chitra-katha-ramayana-ram-mandir-9135184/)
+
+Article found but Couldn't summarize
+
+Tue, 30 Jan 2024 11:59:34 +0000
+### [C Raja Mohan writes: India’s new possibilities amid China’s relative economic decline](https://indianexpress.com/article/opinion/columns/how-china-declining-gdp-share-can-benefit-india-9134879/)
+
+Article found but Couldn't summarize
+
+Tue, 30 Jan 2024 06:00:06 +0000
+### [Mothers who love, mothers who kill](https://indianexpress.com/article/opinion/columns/mothers-who-love-mothers-who-kill-9134129/)
+
+Article found but Couldn't summarize
+
+Tue, 30 Jan 2024 02:40:09 +0000
+### [Express View: Interim Budget takeaways](https://indianexpress.com/article/opinion/editorials/express-view-interim-budget-takeaways-9133619/)
+
+Article found but Couldn't summarize
+
+Tue, 30 Jan 2024 02:30:54 +0000
+### [Gandhi, my father and Ram: A devotion without hate](https://indianexpress.com/article/opinion/columns/ayodhya-ram-mandir-lord-rams-return-to-ayodhya-maryada-purushottam-shri-ram-hindutva-hindu-mythology-hinduism-9133588/)
+
+Article found but Couldn't summarize
+
+Tue, 30 Jan 2024 02:25:01 +0000
+### [Express View on ICJ ruling against Israel: No looking away](https://indianexpress.com/article/opinion/editorials/express-view-on-icj-ruling-against-israel-no-looking-away-9133611/)
+
+Article found but Couldn't summarize
+
+Tue, 30 Jan 2024 02:15:49 +0000
+### [Sri M writes: Consecration of Ram temple — a promise fulfilled](https://indianexpress.com/article/opinion/columns/a-promise-fulfilled-2-9133584/)
+
+Article found but Couldn't summarize
+
+Tue, 30 Jan 2024 02:05:23 +0000
+### [Express View on Jannik Sinner: The new champions](https://indianexpress.com/article/opinion/editorials/jannik-sinners-comeback-daniil-medvedev-australian-open-tittle-9133610/)
+
+Article found but Couldn't summarize
+
+Tue, 30 Jan 2024 01:45:50 +0000
+### [January 30, Forty Years Ago: Akali Dal’s warning](https://indianexpress.com/article/opinion/40-years-ago/january-30-forty-years-ago-akali-dals-warning-9133609/)
+
+Article found but Couldn't summarize
+
+Tue, 30 Jan 2024 01:40:00 +0000
+### [Girish Kuber writes | OBC reservation for Marathas: Did BJP underestimate Eknath Shinde?](https://indianexpress.com/article/opinion/columns/girish-kuber-writes-obc-reservation-for-marathas-did-bjp-underestimate-eknath-shinde-9133602/)
+
+Article found but Couldn't summarize
+
+Mon, 29 Jan 2024 13:33:56 +0000
+### [Can hunting save the Great Indian Bustard?](https://indianexpress.com/article/opinion/columns/great-indian-bustard-hunting-supreme-court-9133277/)
+
+Article found but Couldn't summarize
+
+Mon, 29 Jan 2024 07:27:20 +0000
+### [Arif Mohammed Khan’s latest tantrum: It is time the Kerala Governor considered the legacy he is leaving behind](https://indianexpress.com/article/opinion/columns/kerala-governor-arif-mohammed-khan-latest-tantrum-9132561/)
+
+Article found but Couldn't summarize
+
+Mon, 29 Jan 2024 02:30:53 +0000
+### [The modern monuments of Ahmedabad](https://indianexpress.com/article/opinion/columns/ahmedabad-monuments-gujarat-heritage-sanskar-kendra-city-museum-sardar-patel-heritage-walk-statue-of-unity-9131824/)
+
+Article found but Couldn't summarize
+
+Mon, 29 Jan 2024 02:25:28 +0000
+### [On the economy, how UPA and NDA governments have been remarkably similar](https://indianexpress.com/article/opinion/columns/narendra-modi-nda-vs-upa-bjp-congress-india-alliance-rahul-gandhi-9131825/)
+
+Article found but Couldn't summarize
+
+Mon, 29 Jan 2024 02:10:17 +0000
+### [How to tackle malnutrition effectively](https://indianexpress.com/article/opinion/columns/how-to-tackle-malnutrition-effectively-9131956/)
+
+Article found but Couldn't summarize
+
+Mon, 29 Jan 2024 01:55:38 +0000
+### [January 29, Forty Years Ago: Violence In Punjab](https://indianexpress.com/article/opinion/40-years-ago/january-29-forty-years-ago-violence-in-punjab-9131973/)
+
+Article found but Couldn't summarize
+
+Mon, 29 Jan 2024 01:45:33 +0000
+### [In today’s tech-savvy times, the importance of combining shaastra (knowledge) with shastra (weapons)](https://indianexpress.com/article/opinion/columns/in-todays-tech-savvy-times-the-importance-of-combining-shaastra-knowledge-with-shastra-weapons-9131952/)
+
+Article found but Couldn't summarize
+
+Mon, 29 Jan 2024 01:30:43 +0000
+### [India’s worrying take on growth](https://indianexpress.com/article/opinion/editorials/indias-worrying-take-of-growth-9131963/)
+
+Article found but Couldn't summarize
+
+Sun, 28 Jan 2024 15:51:12 +0000
+### [Ahead of 2024 Lok Sabha elections, Nitish Kumar’s U-turn will have implications not just for Bihar but for national politics](https://indianexpress.com/article/opinion/columns/lok-sabha-elections-nitish-kumar-bihar-national-politics-9131812/)
+
+Article found but Couldn't summarize
+
+Sun, 28 Jan 2024 13:48:42 +0000
+### [Express View on Nitish Kumar’s latest switch: His political promiscuity points to limitations of Mandal in face of Mandir plus Mandal](https://indianexpress.com/article/opinion/editorials/nitish-kumar-latest-switch-express-view-9131726/)
+
+Article found but Couldn't summarize
+
+Sun, 28 Jan 2024 12:35:16 +0000
+### [Republic Day, a moment to pause and reflect](https://indianexpress.com/article/opinion/columns/republic-day-2024-election-year-9131657/)
+
+Article found but Couldn't summarize
+
+Sun, 28 Jan 2024 11:26:48 +0000
+### [View from Pakistan: Ram mandir’s ‘worrying vision’ and a coalition to safeguard press freedom](https://indianexpress.com/article/opinion/columns/pakistan-ayodhya-ram-mandir-free-press-t20-cricket-elections-9131570/)
+
+Article found but Couldn't summarize
+
+Sun, 28 Jan 2024 08:25:53 +0000
+### [Ayodhya temple consecration: Missed opportunity to emphasise that accessibility matters](https://indianexpress.com/article/opinion/columns/ayodhya-temple-consecration-missed-opportunity-9131376/)
+
+Article found but Couldn't summarize
+
+Sun, 28 Jan 2024 07:00:42 +0000
+### [DU’s advisory on college fests casts onus of ‘safety’ and ‘protection’ on victims](https://indianexpress.com/article/opinion/columns/dus-advisory-on-college-fests-smacks-of-patriarchal-hypocrisy-9131213/)
+
+Article found but Couldn't summarize
+
+Sun, 28 Jan 2024 02:30:43 +0000
+### [Tavleen Singh writes: Important to never forget that Ram Rajya was an embodiment of justice for all](https://indianexpress.com/article/opinion/columns/ayodhya-ram-mandir-inauguration-ram-rajya-narendra-modi-yogi-adityanath-vhp-rss-9130502/)
+
+Article found but Couldn't summarize
+
+Sun, 28 Jan 2024 02:25:44 +0000
+### [P Chidambaram writes: Reducing states to municipalities](https://indianexpress.com/article/opinion/columns/federalism-union-of-states-jammu-kashmir-constitution-of-india-9130503/)
+
+Article found but Couldn't summarize
+
+Sun, 28 Jan 2024 02:25:29 +0000
+### [Inside Track by Coomi Kapoor: Modi-centric show](https://indianexpress.com/article/opinion/columns/ram-mandir-inauguration-consecration-ceremony-of-balak-ram-idol-in-ayodhya-l-k-advani-murali-manohar-joshi-ram-mandir-movement-9130723/)
+
+Article found but Couldn't summarize
+
+Sun, 28 Jan 2024 01:55:44 +0000
+### [The politics of heroism](https://indianexpress.com/article/opinion/columns/the-politics-of-heroism-9130726/)
+
+Article found but Couldn't summarize
+
+Sat, 27 Jan 2024 11:23:43 +0000
+### [What ‘Fighter’, released on R-Day, says about its audience](https://indianexpress.com/article/opinion/columns/fighter-released-on-r-day-its-audience-9130326/)
+
+Article found but Couldn't summarize
+
+Sat, 27 Jan 2024 08:36:53 +0000
+### [History Headline | On the long journey to freedom: Gandhi, Bose and many others](https://indianexpress.com/article/opinion/columns/history-headline-long-journey-to-freedom-gandhi-bose-9130169/)
+
+Article found but Couldn't summarize
+
+Sat, 27 Jan 2024 08:30:33 +0000
+### [Imminent disintegration of INDIA coalition is a squandered opportunity](https://indianexpress.com/article/opinion/columns/disintegration-india-coalition-congress-nitish-kumar-9130085/)
+
+Article found but Couldn't summarize
+
+Sat, 27 Jan 2024 06:24:20 +0000
+### [Making sense of India at 75, and myself at 25](https://indianexpress.com/article/opinion/columns/india-at-75-republic-day-youth-9130040/)
+
+Article found but Couldn't summarize
+
+Sat, 27 Jan 2024 02:30:38 +0000
+### [Ram Madhav writes: A temple to progress](https://indianexpress.com/article/opinion/columns/ayodhya-ram-mandir-inauguration-consecration-ceremony-viksit-bharat-rebirth-of-nation-9129668/)
+
+Article found but Couldn't summarize
+
+Sat, 27 Jan 2024 02:15:22 +0000
+### [What to look out for in budget 2024](https://indianexpress.com/article/opinion/columns/union-budget-2024-expectations-focus-area-economic-survey-nirmala-sitharaman-narendra-modi-9129678/)
+
+Article found but Couldn't summarize
+
+Sat, 27 Jan 2024 02:00:00 +0000
+### [With Bharat Ratna to Karpoori Thakur, the BJP is co-opting social justice agenda](https://indianexpress.com/article/opinion/columns/with-bharat-ratna-to-karpoori-thakur-the-bjp-is-co-opting-social-justice-agenda-9129671/)
+
+Article found but Couldn't summarize
+
+Sat, 27 Jan 2024 01:55:35 +0000
+### [Express View on butter chicken battle: Tender at the bone](https://indianexpress.com/article/opinion/editorials/express-view-on-butter-chicken-battle-tender-at-the-bone-9129690/)
+
+Article found but Couldn't summarize
+
+Sat, 27 Jan 2024 01:45:27 +0000
+### [Express View on Macron in India: Building on trust](https://indianexpress.com/article/opinion/editorials/president-emmanuel-macron-attends-republic-day-event-r-day-celebration-narendra-modi-9129679/)
+
+Article found but Couldn't summarize
+
+Sat, 27 Jan 2024 01:40:47 +0000
+### [Express View on Governor Arif Mohammed Khan: Stooping low](https://indianexpress.com/article/opinion/editorials/kerala-governor-arif-mohammed-khan-justice-rf-nariman-supreme-court-9129680/)
+
+Article found but Couldn't summarize
+
+Sat, 27 Jan 2024 01:35:56 +0000
+### [January 27, Forty Years Ago: Republic Day parade](https://indianexpress.com/article/opinion/40-years-ago/january-27-forty-years-ago-republic-day-parade-9129696/)
+
+Article found but Couldn't summarize
+
+Sat, 27 Jan 2024 01:30:50 +0000
+### [With Ram temple consecration, how BJP has undone Nehru, Ambedkar’s legacy — and damaged the Constitution](https://indianexpress.com/article/opinion/columns/with-ram-temple-consecration-how-bjp-has-undone-nehru-ambedkars-legacy-and-damaged-the-constitution-9129685/)
+
+Article found but Couldn't summarize
+
+Fri, 26 Jan 2024 14:01:34 +0000
+### [The Middle East needs the UN. Will Israel listen?](https://indianexpress.com/article/opinion/columns/middle-east-un-israel-9129429/)
+
+Article found but Couldn't summarize
+
+Fri, 26 Jan 2024 08:54:36 +0000
+### [Ayodhya marks an inauguration, not closure](https://indianexpress.com/article/opinion/columns/ayodhya-inauguration-not-closure-9128944/)
+
+Article found but Couldn't summarize
+
+Fri, 26 Jan 2024 08:01:10 +0000
+### [On Maldives’ ties with China, India must send out a clear message](https://indianexpress.com/article/opinion/columns/india-maldives-relationship-opinion-9128810/)
+
+Article found but Couldn't summarize
+
+Fri, 26 Jan 2024 01:37:45 +0000
+### [75th Republic Day of India: The women who fought for our rights](https://indianexpress.com/article/opinion/columns/republic-day-the-women-who-fought-for-our-rights-9128070/)
+
+Article found but Couldn't summarize
+
+Fri, 26 Jan 2024 01:37:24 +0000
+### [As Lord Rama returns to Ayodhya we will see a stronger, more confident India](https://indianexpress.com/article/opinion/columns/as-lord-rama-returns-to-ayodhya-we-will-see-a-stronger-more-confident-india-9128078/)
+
+Article found but Couldn't summarize
+
+Fri, 26 Jan 2024 01:35:42 +0000
+### [After Ram Mandir, before Republic Day, the two futures of India](https://indianexpress.com/article/opinion/columns/after-ram-mandir-before-republic-day-the-two-futures-of-india-9128069/)
+
+Article found but Couldn't summarize
+
+Fri, 26 Jan 2024 01:35:22 +0000
+### [The Republic of India, after January 22](https://indianexpress.com/article/opinion/columns/the-republic-of-india-after-january-22-9128077/)
+
+Article found but Couldn't summarize
+
+Fri, 26 Jan 2024 01:13:55 +0000
+### [January 26, 1984, Forty Years Ago: PM’s J&K Crisis](https://indianexpress.com/article/opinion/40-years-ago/january-26-1984-forty-years-ago-pms-jk-crisis-9128074/)
+
+Article found but Couldn't summarize
+
+Fri, 26 Jan 2024 01:13:53 +0000
+### [Express View on Rohan Bopanna: World No 1](https://indianexpress.com/article/opinion/editorials/express-view-on-rohan-bopanna-world-no-1-9128073/)
+
+Article found but Couldn't summarize
+
+Fri, 26 Jan 2024 01:13:50 +0000
+### [Express View on India’s energy future: Going solar](https://indianexpress.com/article/opinion/editorials/express-view-on-indias-energy-future-going-solar-9128072/)
+
+Article found but Couldn't summarize
+
+Fri, 26 Jan 2024 01:13:47 +0000
+### [Express View on January 26: Restating the Republic](https://indianexpress.com/article/opinion/editorials/express-view-on-january-26-restating-the-republic-9128071/)
+
+Article found but Couldn't summarize
+
 Thu, 25 Jan 2024 10:41:13 +0000
 ### [Bharat Ratna: Was Karpoori Thakur’s contribution to nation building greater than that of Narasimha Rao?](https://indianexpress.com/article/opinion/columns/bharat-ratna-karpoori-thakur-contribution-nation-building-greater-narasimha-rao-9127460/)
 

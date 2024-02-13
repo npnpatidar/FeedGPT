@@ -1,3 +1,183 @@
+Sun, 11 Feb 2024 11:51:48 +0530
+### [‘One Day’ Netflix series review: A grand, saccharine, predictable love affair](https://www.thehindu.com/entertainment/one-day-netflix-series-review-a-grand-saccharine-predictable-love-affair/article67834666.ece)
+
+Article found but Couldn't summarize 
+A temporally grand, but ultimately sweet affair, ‘One Day’ is a rather predictable watch, but that doesn’t entirely work against it
+
+Sat, 10 Feb 2024 17:55:25 +0530
+### [‘Upgraded’ movie review: A low-stakes rom-com that trundles smoothly along well-worn lines](https://www.thehindu.com/entertainment/movies/upgraded-movie-review-a-low-stakes-rom-com-that-trundles-smoothly-along-well-worn-lines/article67832201.ece)
+
+Article found but Couldn't summarize 
+This mildly engaging ‘The Devil Wears Prada’ clone offers exactly what it promises — no more or less
+
+Sat, 10 Feb 2024 10:22:12 +0530
+### [‘Prince of Persia: The Lost Crown’ game review: Metroidvania meets mythological epic](https://www.thehindu.com/entertainment/reviews/prince-of-persia-the-lost-crown-game-review/article67829248.ece)
+
+Article found but Couldn't summarize 
+Prince of Persia: The Lost Crown’s new direction pays off with stunning visuals, deep gameplay, and a captivating story
+
+Fri, 09 Feb 2024 18:54:31 +0530
+### [‘Lal Salaam’ movie review: Rajinikanth adds vigour but struggles to save Aishwarya Rajinikanth’s sermon on secularism](https://www.thehindu.com/entertainment/movies/lal-salaam-movie-review-rajinikanth-adds-vigour-but-struggles-to-save-aishwarya-rajinikanths-sermon-on-secularism/article67829230.ece)
+
+Article found but Couldn't summarize 
+Aishwarya Rajinikanth, in telling a story about how hatred is seeded between Hindus and Muslims, ends up making a superficial social drama that is all over the place
+
+Fri, 09 Feb 2024 18:50:46 +0530
+### [‘Lover’ movie review: Manikandan and Sri Gouri Priya shoulder an intense yet intriguing relationship drama](https://www.thehindu.com/entertainment/movies/lover-movie-review-manikandan-and-sri-gouri-priya-shoulder-an-intense-yet-intriguing-relationship-drama/article67829211.ece)
+
+Article found but Couldn't summarize 
+Thanks to an array of factors, including the splendid performances of Manikandan and Sri Gouri Priya, ‘Lover’ has a lot going for it which overpowers its minute flaws with ease
+
+Fri, 09 Feb 2024 17:56:29 +0530
+### [‘The Iron Claw’ movie review: Zac Efron and Jeremy Allen White are riveting in grimly glorious sports biopic](https://www.thehindu.com/entertainment/movies/the-iron-claw-movie-review-zac-efron-and-jeremy-allen-white-are-riveting-in-grimly-glorious-sports-biopic/article67828986.ece)
+
+Article found but Couldn't summarize 
+This uneven retelling of the triumphs and tragedies of the Von Erich wrestling family is rendered gripping by the fights and performances
+
+Fri, 09 Feb 2024 17:46:37 +0530
+### [‘Bhakshak’ movie review: Bhumi Pednekar powers a well-intentioned drama that is caught between text and subtext](https://www.thehindu.com/entertainment/movies/bhakshak-movie-review-bhumi-pednekar-powers-a-well-intentioned-drama-that-is-caught-between-text-and-subtext/article67828969.ece)
+
+Article found but Couldn't summarize 
+‘Bhashak’ is yet another addition to the list of well-meaning exposes of what is wrong with the system; it shuns sensationalism but suffers from an outsider’s gaze
+
+Fri, 09 Feb 2024 17:33:36 +0530
+### [‘Premalu’ movie review: Girish AD’s youthful drama is a winner with its fresh, humorous treatment of a run-of-the-mill story](https://www.thehindu.com/entertainment/movies/premalu-movie-review-girish-ads-youthful-drama-is-a-winner-with-its-fresh-humorous-treatment-of-a-run-of-the-mill-story/article67828852.ece)
+
+Article found but Couldn't summarize 
+Starring the likes of Naslen K. Gafoor, Mamitha Baiju and Sangeetha Prathap, ‘Premalu’ is an enjoyable watch on the lives of young adults easing into their first jobs and discovering the recently-attained independence of being away from home
+
+Fri, 09 Feb 2024 16:48:16 +0530
+### [‘Anveshippin Kandethum’ movie review: Tovino Thomas headlines a gripping investigative thriller that is slow in parts](https://www.thehindu.com/entertainment/movies/anveshippin-kandethum-movie-review-tovino-thomas-headlines-a-gripping-investigative-thriller-that-is-slow-in-parts/article67828764.ece)
+
+Article found but Couldn't summarize 
+Tovino Thomas shines in director Darwin Kuriakose’ film ‘Anveshippin Kandethum,’ an engaging investigative thriller that tends to be sluggish in parts
+
+Fri, 09 Feb 2024 14:56:26 +0530
+### [‘Eagle’ movie review: The action is fine, the writing needed to be smarter](https://www.thehindu.com/entertainment/movies/eagle-movie-review-the-ravi-teja-starrer-has-engaging-action-but-the-writing-needed-to-be-smarter/article67828253.ece)
+
+Article found but Couldn't summarize 
+Director Karthik Gattamneni’s ‘Eagle’, headlined by Ravi Teja, has a bunch of interesting ideas and fun action segments but needs sharper writing
+
+Fri, 09 Feb 2024 14:08:11 +0530
+### [‘Ondu Sarala Prema Kathe’ movie review: A sluggish return to form for Suni](https://www.thehindu.com/entertainment/movies/ondu-sarala-prema-kathe-movie-review-a-sluggish-return-to-form-for-suni/article67828454.ece)
+
+Article found but Couldn't summarize 
+The Kannada film, starring Vinay Rajkumar, Swathishta Krishnan and Mallika Singh, chugs along nicely as a simple romantic drama until it resorts to hard-to-believe coincidences
+
+Fri, 09 Feb 2024 12:31:11 +0530
+### [‘Teri Baaton Mein Aisa Uljha Jiya’ movie review: A social experiment with the heart of a sitcom](https://www.thehindu.com/entertainment/movies/teri-baaton-mein-aisa-uljha-jiya-movie-review-a-social-experiment-with-the-heart-of-a-sitcom/article67828306.ece)
+
+Article found but Couldn't summarize 
+Shahid Kapoor and Kriti Sanon submit themselves to a fantastic idea that doesn’t quite reach its potential, but provides moments of harmless fun as it probes the state of affairs in modern-day romance
+
+Thu, 08 Feb 2024 18:53:27 +0530
+### [‘Juni’ movie review: A decent film on dissociative personality disorder that needed better execution](https://www.thehindu.com/entertainment/movies/juni-movie-review-a-decent-film-on-dissociative-personality-disorder-that-needed-better-execution/article67825203.ece)
+
+Article found but Couldn't summarize 
+Actors Pruthvi Ambaar and Rishika Naik shoulder this unconventional Kannada romantic drama that loses grip in its final act
+
+Thu, 08 Feb 2024 15:40:19 +0530
+### [‘Yatra 2’ movie review: The emotional drama works better than the politics](https://www.thehindu.com/entertainment/movies/yatra-2-movie-review-jiiva-and-mammootty-liven-up-the-proceedings-as-ysr-and-ys-jagan-in-a-one-sided-political-drama/article67824579.ece)
+
+Article found but Couldn't summarize 
+Mammootty and Jiiva liven up the father-son dynamics in the Telugu political drama ‘Yatra 2’, which eventually gets skewed and tiresome
+
+Wed, 07 Feb 2024 12:38:29 +0530
+### [Bhavajan Kumar’s performance was backed by good music](https://www.thehindu.com/entertainment/dance/bhavajan-kumars-performance-was-backed-by-good-music/article67813643.ece)
+
+Article found but Couldn't summarize 
+The young Bharatanatyam dancer gave a different treatment to traditional pieces
+
+Sun, 04 Feb 2024 17:33:20 +0530
+### [‘Orion and the Dark’ movie review: A simple, dreamy animated adventure deepened by Charlie Kauffman’s writing](https://www.thehindu.com/entertainment/movies/orion-and-the-dark-movie-review-a-simple-dreamy-animated-adventure-deepened-by-charlie-kauffmans-writing/article67810699.ece)
+
+Article found but Couldn't summarize 
+The considered writing, understated direction, and excellent voice acting of ‘Orion and the Dark’ elevate a rather simple plot and provide a cozy watch
+
+Sat, 03 Feb 2024 16:13:59 +0530
+### [‘Mr. & Mrs. Smith’ series review: Spying on a marriage story is fun, but there’s room for improvement](https://www.thehindu.com/entertainment/movies/mr-mrs-smith-series-review-spying-on-a-marriage-story-is-fun-but-theres-room-for-improvement/article67807532.ece)
+
+Article found but Couldn't summarize 
+‘Mr. & Mrs. Smith’ is a grimmer, more sensitive, spy-infused take on the flashpoints and hurdles in a contemporary relationship
+
+Sat, 03 Feb 2024 14:59:35 +0530
+### [‘Devil’ movie review: A couple’s marriage and our patience get tested in this genre-bending mess](https://www.thehindu.com/entertainment/movies/devil-movie-review-a-couples-marriage-and-our-patience-get-tested-in-this-genre-bending-mess/article67807391.ece)
+
+Article found but Couldn't summarize 
+‘Devil’ suffers from an identity crisis as it fails to build upon the multiple tropes it touches and in the end, gets reduced to a thriller that offers no thrills
+
+Sat, 03 Feb 2024 13:05:23 +0530
+### [‘Miss Perfect’ web series review: A cheerful slice-of-life drama that rides on a wafer thin storyline](https://www.thehindu.com/entertainment/movies/miss-perfect-web-series-review-a-cheerful-slice-of-life-drama-that-rides-on-a-wafer-thin-storyline/article67807191.ece)
+
+Article found but Couldn't summarize 
+Lavanya Tripathi and Abijeet Duddala’s Telugu rom-com ‘Miss Perfect’ has moments of fun, but struggles to shine above its superficial storyline
+
+Fri, 02 Feb 2024 18:37:24 +0530
+### [‘Argylle’ movie review: A star-studded cast can’t save this partly funny, mostly tedious spy caper](https://www.thehindu.com/entertainment/movies/argylle-movie-review-a-star-studded-cast-cant-save-this-partly-funny-mostly-tedious-spy-caper/article67804625.ece)
+
+Article found but Couldn't summarize 
+With some jokes not landing as effectively as they had to, unconvincing CGI, spy-film cliches, an unnecessarily complicated plot and a hideously long runtime, ‘Argylle’ has very little going for it
+
+Fri, 02 Feb 2024 17:09:23 +0530
+### [‘Masters of the Air’ series review: Steven Spielberg, Tom Hanks’ WWII epic is a long-format masterpiece](https://www.thehindu.com/entertainment/movies/masters-of-the-air-series-review-steven-spielberg-tom-hanks-world-war-ii-epic-is-a-long-format-masterpiece/article67803937.ece)
+
+Article found but Couldn't summarize 
+It’s long, sobering, brutal and unrestrained; Apple TV+’s 9-episode World War II saga, ‘Masters of the Air,’ is a visual spectacle unlike anything put to screen before
+
+Fri, 02 Feb 2024 15:57:45 +0530
+### [‘Ambajipeta Marriage Band’ movie review: Dushyanth Katikaneni makes an assured directorial debut with an absorbing drama](https://www.thehindu.com/entertainment/movies/ambajipeta-marriage-band-telugu-movie-review-dushyanth-katikaneni-makes-an-assured-directorial-debut-with-an-absorbing-drama/article67803303.ece)
+
+Article found but Couldn't summarize 
+Debut director Dushyanth Katikaneni’s ‘Ambajipeta Marriage Band’ is a hard-hitting story of a fight for dignity, anchored by Suhas and Sharanya Pradeep’s terrific performances
+
+Thu, 01 Feb 2024 11:28:01 +0530
+### [Veteran dancer Vyjayantimala showed how nuanced expressions enhance the appeal of a  performance](https://www.thehindu.com/entertainment/dance/veteran-dancer-vyjayantimala-showed-how-nuanced-expressions-enhance-the-appeal-of-a-performance/article67796545.ece)
+
+Article found but Couldn't summarize 
+The 90-year-old veteran’s performance at Bharat Kalachar showed how abhinaya is the core of her dance  at Bharat Kalachar  demonstrated how her nuanced expressions add beauty to the lyrics
+
+Tue, 30 Jan 2024 18:18:52 +0530
+### [Mozart’s last work was as mysterious as it was moving](https://www.thehindu.com/entertainment/music/mozarts-last-work-was-as-mysterious-as-it-was-moving/article67792811.ece)
+
+Article found but Couldn't summarize 
+Mozart’s Requiem, a choral masterpiece, was performed recently at the Chowdiah Memorial Hall by Swedish and Indian musicians
+
+Tue, 30 Jan 2024 18:04:04 +0530
+### [Rama Vaidyanathan’s ‘Sringara Rasamanjari’ was a wholesome experience](https://www.thehindu.com/entertainment/dance/rama-vaidyanathans-sringara-rasamanjari-was-a-wholesome-experience/article67792616.ece)
+
+Article found but Couldn't summarize 
+The senior dancer’s performance was a colorful bouquet with all elements of dance coming together seamlessly
+
+Tue, 30 Jan 2024 15:10:50 +0530
+### [Three women write letters of protest from prison](https://www.thehindu.com/entertainment/theatre/three-women-write-letters-of-protest-from-prison/article67789007.ece)
+
+Article found but Couldn't summarize 
+The interactive play Firefly Women explores the idea of using theatre as a protest tool
+
+Sun, 28 Jan 2024 12:50:20 +0530
+### [‘Griselda’ series review: Sofía Vergara is masterful in this gritty drama](https://www.thehindu.com/entertainment/movies/griselda-series-review-sof%C3%ADa-vergara-is-masterful-in-this-gritty-drama/article67784262.ece)
+
+Article found but Couldn't summarize 
+The choices made in the script, and the ones that Sofía Vergara makes in her portrayal of Griselda, are what elevate the show to be an efficient and entertaining watch
+
+Sat, 27 Jan 2024 17:59:46 +0530
+### [‘Expats’ series review: Lulu Wang’s exquisite drama is sometimes lost in translation](https://www.thehindu.com/entertainment/movies/expats-series-review-lulu-wangs-exquisite-drama-is-sometimes-lost-in-translation/article67783003.ece)
+
+Article found but Couldn't summarize 
+Wang’s direction is intimate and striking, but Nicole Kidman’s presence as a privileged woman at the centre of a mystery evokes a stirring sense of déjà vu
+
+Fri, 26 Jan 2024 18:05:16 +0530
+### [‘Upadhyaksha’ movie review: An ‘Adhyaksha’ rehash with Chikkanna’s signature brand of comedy](https://www.thehindu.com/entertainment/movies/upadhyaksha-movie-review-an-adhyaksha-rehash-with-chikkannas-signature-brand-of-comedy/article67779978.ece)
+
+Article found but Couldn't summarize 
+Anil Kumar’s rural comedy-drama plays to the strength of its hero, but for those looking for something beyond a series of silly gags, ‘Upadhyaksha’ offers nothing much
+
+Fri, 26 Jan 2024 15:52:19 +0530
+### [‘Case of Kondana’ movie review: Vijay Raghavendra anchors a gripping thriller](https://www.thehindu.com/entertainment/movies/case-of-kondana-movie-review-vijay-raghavendra-anchors-a-gripping-thriller/article67779013.ece)
+
+Article found but Couldn't summarize 
+Devi Prasad Shetty’s ‘Case of Kondana’ has a distinct mood for a thriller and a screenplay that moves at breakneck speed; it may not become a classic, but the pluses do outweigh the minuses
+
 Thu, 25 Jan 2024 18:04:01 +0530
 ### [‘Hadinelentu’ movie review: A gripping reflection of society’s unfair power structures](https://www.thehindu.com/entertainment/movies/hadinelentu-movie-review-a-gripping-reflection-of-societys-unfair-power-structures/article67776178.ece)
 

@@ -1,3 +1,153 @@
+Tue, 13 Feb 2024 18:43:45 +0530
+### [‘Delhi Chalo’: Why farmer protest smells more of politics than agrarian distress](https://www.firstpost.com/opinion/delhi-chalo-why-farmer-protest-smells-more-of-politics-than-agrarian-distress-13722632.html)
+
+Article found but Couldn't summarize 
+‘Delhi Chalo’: Why farmer protest smells more of politics than agrarian distress
+
+Tue, 13 Feb 2024 18:30:42 +0530
+### [Vantage | Why Chinese firms are wrong about their scrutiny by India](https://www.firstpost.com/opinion/vantage-why-chinese-firms-are-wrong-about-their-scrutiny-by-india-13722932.html)
+
+Article found but Couldn't summarize 
+Vantage | Why Chinese firms are wrong about their scrutiny by India
+
+Tue, 13 Feb 2024 18:15:24 +0530
+### [Vantage | Why world's biggest election day matters for Indonesia and Asia](https://www.firstpost.com/opinion/vantage-why-worlds-biggest-election-day-matters-for-indonesia-and-asia-13721452.html)
+
+Article found but Couldn't summarize 
+Vantage | Why world's biggest election day matters for Indonesia and Asia
+
+Tue, 13 Feb 2024 17:19:21 +0530
+### [Vantage | How to turn your workplace blues into everyday motivation](https://www.firstpost.com/opinion/vantage-how-to-turn-your-workplace-blues-into-everyday-motivation-13721732.html)
+
+Article found but Couldn't summarize 
+Vantage | How to turn your workplace blues into everyday motivation
+
+Tue, 13 Feb 2024 17:11:01 +0530
+### [India should take cue from FBI warning on China cyberattacks](https://www.firstpost.com/opinion/india-should-take-cue-from-fbi-warning-on-china-cyberattacks-13722022.html)
+
+Article found but Couldn't summarize 
+India should take cue from FBI warning on China cyberattacks
+
+Tue, 13 Feb 2024 16:15:15 +0530
+### [Vantage | Why Qatar freeing sailors is a big diplomatic win for India](https://www.firstpost.com/opinion/vantage-why-qatar-freeing-sailors-is-a-big-diplomatic-win-for-india-13721272.html)
+
+Article found but Couldn't summarize 
+Vantage | Why Qatar freeing sailors is a big diplomatic win for India
+
+Tue, 13 Feb 2024 14:46:21 +0530
+### [Vantage | Why Senegal's reputation as West Africa's bastion of democracy is under threat](https://www.firstpost.com/opinion/vantage-why-senegals-reputation-as-west-africas-bastion-of-democracy-is-under-threat-13720622.html)
+
+Article found but Couldn't summarize 
+Vantage | Why Senegal's reputation as West Africa's bastion of democracy is under threat
+
+Tue, 13 Feb 2024 14:37:22 +0530
+### [Vantage | What Pakistan's bits-and-pieces govt will mean for its army and people](https://www.firstpost.com/opinion/vantage-what-pakistans-bits-and-pieces-govt-will-mean-for-its-army-and-people-13721312.html)
+
+Article found but Couldn't summarize 
+Vantage | What Pakistan's bits-and-pieces govt will mean for its army and people
+
+Tue, 13 Feb 2024 14:15:00 +0530
+### [50 years of F-16s: Still flying high, soaring higher](https://www.firstpost.com/opinion/50-years-of-f-16s-still-flying-high-soaring-higher-13720252.html)
+
+Article found but Couldn't summarize 
+50 years of F-16s: Still flying high, soaring higher
+
+Tue, 13 Feb 2024 12:09:13 +0530
+### [Why a legal guarantee of MSP is fraught with challenges](https://www.firstpost.com/opinion/why-a-legal-guarantee-of-msp-is-fraught-with-challenges-13720132.html)
+
+Article found but Couldn't summarize 
+Why a legal guarantee of MSP is fraught with challenges
+
+Tue, 13 Feb 2024 10:15:13 +0530
+### [Seven unthinkables: How Modi makes Qatar rescue and other feats ‘mumkin’](https://www.firstpost.com/opinion/seven-unthinkables-how-modi-makes-qatar-rescue-and-other-feats-mumkin-13719542.html)
+
+Article found but Couldn't summarize 
+Seven unthinkables: How Modi makes Qatar rescue and other feats ‘mumkin’
+
+Mon, 12 Feb 2024 17:50:13 +0530
+### [PM Modi UAE visit: How BAPS Hindu temple is a masterwork of two embracing civilisations](https://www.firstpost.com/opinion/pm-modi-uae-visit-how-baps-hindu-temple-is-a-masterwork-of-two-embracing-civilisations-13716742.html)
+
+Article found but Couldn't summarize 
+PM Modi UAE visit: How BAPS Hindu temple is a masterwork of two embracing civilisations
+
+Mon, 12 Feb 2024 15:19:38 +0530
+### [Weather report | Cold waves to abate in North, South will continue to have dry days](https://www.firstpost.com/opinion/weather-report-cold-waves-to-abate-in-north-south-will-continue-to-have-dry-days-13717342.html)
+
+Article found but Couldn't summarize 
+Weather report | Cold waves to abate in North, South will continue to have dry days
+
+Mon, 12 Feb 2024 13:55:33 +0530
+### [How election results in Pakistan’s Punjab serve impending threat to Sharif family](https://www.firstpost.com/opinion/how-election-results-in-pakistans-punjab-serve-impending-threat-to-sharif-family-13716332.html)
+
+Article found but Couldn't summarize 
+How election results in Pakistan’s Punjab serve impending threat to Sharif family
+
+Mon, 12 Feb 2024 12:56:26 +0530
+### [Stuck in conflict: Pathways to end Gaza war and ensure sustainable peace](https://www.firstpost.com/opinion/stuck-in-conflict-pathways-to-end-gaza-war-and-ensure-sustainable-peace-13716372.html)
+
+Article found but Couldn't summarize 
+Stuck in conflict: Pathways to end Gaza war and ensure sustainable peace
+
+Mon, 12 Feb 2024 10:49:35 +0530
+### [Head-on | Navigating India’s choppy geopolitical waters](https://www.firstpost.com/opinion/head-on-navigating-indias-choppy-geopolitical-waters-13715612.html)
+
+Article found but Couldn't summarize 
+Head-on | Navigating India’s choppy geopolitical waters
+
+Mon, 12 Feb 2024 10:40:54 +0530
+### [What did Tucker Carlson’s interview with Vladimir Putin tell us? The Russian president is not a deranged warmonger](https://www.firstpost.com/opinion/what-did-tucker-carlsons-interview-with-vladimir-putin-tell-us-the-russian-president-is-not-a-deranged-warmonger-13715122.html)
+
+Article found but Couldn't summarize 
+What did Tucker Carlson’s interview with Vladimir Putin tell us? The Russian president is not a deranged warmonger
+
+Sun, 11 Feb 2024 18:11:11 +0530
+### [Uttarakhand: Unsolved mystery of 28 snow leopard skins from Imperial Cadet Corps](https://www.firstpost.com/opinion/uttarakhand-unsolved-mystery-of-28-snow-leopard-skins-from-imperial-cadet-corps-13714402.html)
+
+Article found but Couldn't summarize 
+Uttarakhand: Unsolved mystery of 28 snow leopard skins from Imperial Cadet Corps
+
+Sun, 11 Feb 2024 17:43:45 +0530
+### [Russia-Ukraine war: How Zelenskyy's sacking of his General shows brewing conflict in the Kyiv regime](https://www.firstpost.com/opinion/russia-ukraine-war-how-zelenskyys-sacking-of-his-general-shows-brewing-conflict-in-the-kivy-regime-13714202.html)
+
+Article found but Couldn't summarize 
+Russia-Ukraine war: How Zelenskyy's sacking of his General shows brewing conflict in the Kyiv regime
+
+Sun, 11 Feb 2024 14:03:49 +0530
+### [Common Civil Code respects constitutional ethos, protects women and children](https://www.firstpost.com/opinion/common-civil-code-respects-constitutional-ethos-protects-women-and-children-13713882.html)
+
+Article found but Couldn't summarize 
+Common Civil Code respects constitutional ethos, protects women and children
+
+Sun, 11 Feb 2024 12:16:57 +0530
+### [Pakistan polls: How another weak coalition in Islamabad will open a floodgate of issues for India](https://www.firstpost.com/opinion/pakistan-polls-how-another-weak-coalition-in-islamabad-will-open-a-floodgate-of-issues-for-india-13713562.html)
+
+Article found but Couldn't summarize 
+Pakistan polls: How another weak coalition in Islamabad will open a floodgate of issues for India
+
+Sun, 11 Feb 2024 11:19:18 +0530
+### [Vantage | Why the world loves to hate Taylor Swift](https://www.firstpost.com/opinion/vantage-why-the-world-loves-to-hate-taylor-swift-13713592.html)
+
+Article found but Couldn't summarize 
+Vantage | Why the world loves to hate Taylor Swift
+
+Sun, 11 Feb 2024 09:29:15 +0530
+### [White paper on the Indian economy: From fragility to stability](https://www.firstpost.com/opinion/white-paper-on-the-indian-economy-from-fragility-to-stability-13713392.html)
+
+Article found but Couldn't summarize 
+White paper on the Indian economy: From fragility to stability
+
+Sat, 10 Feb 2024 18:28:09 +0530
+### [Vantage | Is Joe Biden 'unfit' to be US President?](https://www.firstpost.com/opinion/vantage-is-joe-biden-unfit-to-be-us-president-13712662.html)
+
+Article found but Couldn't summarize 
+Vantage | Is Joe Biden 'unfit' to be US President?
+
+Sat, 10 Feb 2024 18:17:46 +0530
+### [Vantage | What rebels' takeover of key towns means for Indian projects in Myanmar](https://www.firstpost.com/opinion/vantage-what-rebels-takeover-of-key-towns-means-for-indian-projects-in-myanmar-13712552.html)
+
+Article found but Couldn't summarize 
+Vantage | What rebels' takeover of key towns means for Indian projects in Myanmar
+
 Thu, 25 Jan 2024 19:21:34 +0530
 ### [Vantage | Is the Oscar snub for Barbie about women or money?](https://www.firstpost.com/opinion/vantage-is-the-oscar-snub-for-barbie-about-women-or-money-13656112.html)
 

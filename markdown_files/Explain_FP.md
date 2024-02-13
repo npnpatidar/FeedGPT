@@ -1,3 +1,153 @@
+Tue, 13 Feb 2024 19:46:20 +0530
+### [Sweet Love: Will Valentine's Day chocolates get expensive?](https://www.firstpost.com/explainers/sweet-love-will-valentines-day-chocolates-get-expensive-13722202.html)
+
+Article found but Couldn't summarize 
+Sweet Love: Will Valentine's Day chocolates get expensive?
+
+Tue, 13 Feb 2024 19:44:36 +0530
+### [Is Britain's The Body Shop shutting down?](https://www.firstpost.com/explainers/is-the-body-shop-shutting-down-whats-gone-wrong-for-britains-popular-beauty-brand-13721952.html)
+
+Article found but Couldn't summarize 
+Is Britain's The Body Shop shutting down?
+
+Tue, 13 Feb 2024 19:34:18 +0530
+### [Why have Paris balconies become a big concern ahead of the Olympics?](https://www.firstpost.com/explainers/why-have-paris-balconies-become-a-big-concern-ahead-of-the-olympics-13723052.html)
+
+Article found but Couldn't summarize 
+Why have Paris balconies become a big concern ahead of the Olympics?
+
+Tue, 13 Feb 2024 18:27:15 +0530
+### [Indonesian footballer dies after being hit by lightning: How it can be fatal](https://www.firstpost.com/explainers/indonesian-footballer-dies-after-being-hit-by-lightning-how-it-can-be-fatal-13722952.html)
+
+Article found but Couldn't summarize 
+Indonesian footballer dies after being hit by lightning: How it can be fatal
+
+Tue, 13 Feb 2024 17:59:14 +0530
+### [Tear gas, traffic snarls: What happened when farmers marched to Delhi](https://www.firstpost.com/explainers/tear-gas-water-cannons-traffic-snarls-what-happened-at-the-borders-as-farmers-marched-to-delhi-13722222.html)
+
+Article found but Couldn't summarize 
+Tear gas, traffic snarls: What happened when farmers marched to Delhi
+
+Tue, 13 Feb 2024 17:07:48 +0530
+### [How 10,000 children are fighting alongside armed groups in Central African Republic](https://www.firstpost.com/explainers/how-10000-children-are-fighting-alongside-armed-groups-in-central-african-republic-13721922.html)
+
+Article found but Couldn't summarize 
+How 10,000 children are fighting alongside armed groups in Central African Republic
+
+Tue, 13 Feb 2024 17:03:08 +0530
+### [6-month ration, hideouts identified: How farmers are preparing for long stay in Delhi](https://www.firstpost.com/explainers/ration-for-6-months-hideouts-identified-how-farmers-are-preparing-for-a-long-delhi-chalo-march-13721432.html)
+
+Article found but Couldn't summarize 
+6-month ration, hideouts identified: How farmers are preparing for long stay in Delhi
+
+Tue, 13 Feb 2024 15:30:34 +0530
+### [From US to Pakistan, how TikTok takes centre stage for 2024 political campaigns](https://www.firstpost.com/explainers/from-us-to-pakistan-how-tiktok-takes-centre-stage-for-2024-political-campaigns-13721192.html)
+
+Article found but Couldn't summarize 
+From US to Pakistan, how TikTok takes centre stage for 2024 political campaigns
+
+Tue, 13 Feb 2024 14:33:49 +0530
+### ['Delhi Chalo': How the ongoing farmers' protest is different from the 2020-21 stir](https://www.firstpost.com/explainers/delhi-chalo-how-the-ongoing-farmers-protest-is-different-from-the-2020-21-stir-13720912.html)
+
+Article found but Couldn't summarize 
+'Delhi Chalo': How the ongoing farmers' protest is different from the 2020-21 stir
+
+Tue, 13 Feb 2024 13:45:29 +0530
+### [Bilaterals, Hindu temple opening and more: Why Modi's visit to UAE is crucial](https://www.firstpost.com/explainers/bilaterals-hindu-temple-opening-and-more-why-pm-modis-visit-to-the-uae-is-crucial-13719082.html)
+
+Article found but Couldn't summarize 
+Bilaterals, Hindu temple opening and more: Why Modi's visit to UAE is crucial
+
+Tue, 13 Feb 2024 13:35:50 +0530
+### [‘Delhi Chalo’ march: What are the big demands of farmers? Who is leading the protest?](https://www.firstpost.com/explainers/delhi-chalo-march-what-are-the-big-demands-of-farmers-who-is-leading-the-protest-13720672.html)
+
+Article found but Couldn't summarize 
+‘Delhi Chalo’ march: What are the big demands of farmers? Who is leading the protest?
+
+Tue, 13 Feb 2024 13:00:01 +0530
+### [Will Pakistan have a rotational prime minister? Who’s in the race for the top post?](https://www.firstpost.com/explainers/will-pakistan-have-a-rotational-prime-minister-whos-in-the-race-for-the-top-post-13720442.html)
+
+Article found but Couldn't summarize 
+Will Pakistan have a rotational prime minister? Who’s in the race for the top post?
+
+Tue, 13 Feb 2024 12:18:01 +0530
+### [Why Indonesia's elections are important for the world](https://www.firstpost.com/explainers/why-indonesias-elections-are-important-for-the-world-13719982.html)
+
+Article found but Couldn't summarize 
+Why Indonesia's elections are important for the world
+
+Tue, 13 Feb 2024 09:59:01 +0530
+### [Why is Egypt threatening to suspend a key peace treaty with Israel? What happens if the agreement is voided?](https://www.firstpost.com/explainers/why-is-egypt-threatening-to-suspend-a-key-peace-treaty-with-israel-what-happens-if-the-agreement-is-voided-13719402.html)
+
+Article found but Couldn't summarize 
+Why is Egypt threatening to suspend a key peace treaty with Israel? What happens if the agreement is voided?
+
+Tue, 13 Feb 2024 09:53:22 +0530
+### [Drones, barriers &amp; more: How Delhi-NCR has turned into a fortress to stop farmers’ march](https://www.firstpost.com/explainers/drones-barricades-and-more-how-delhi-ncr-has-turned-into-a-fortress-to-stop-farmers-march-13719232.html)
+
+Article found but Couldn't summarize 
+Drones, barriers &amp;amp; more: How Delhi-NCR has turned into a fortress to stop farmers’ march
+
+Tue, 13 Feb 2024 09:09:47 +0530
+### [Modi in Abu Dhabi: How India-UAE ties have gone from strength to strength under the PM](https://www.firstpost.com/explainers/modi-in-abu-dhabi-how-india-uae-ties-have-gone-from-strength-to-strength-under-the-pm-13718812.html)
+
+Article found but Couldn't summarize 
+Modi in Abu Dhabi: How India-UAE ties have gone from strength to strength under the PM
+
+Mon, 12 Feb 2024 20:32:24 +0530
+### [Pakistan election results: How the military is still man of the match despite Imran Khan’s victory](https://www.firstpost.com/explainers/pakistan-election-results-how-the-military-is-still-man-of-the-match-despite-imran-khans-victory-13718192.html)
+
+Article found but Couldn't summarize 
+Pakistan election results: How the military is still man of the match despite Imran Khan’s victory
+
+Mon, 12 Feb 2024 20:02:17 +0530
+### [In Graphics | The rise of India's Unified Payment Interface (UPI)](https://www.firstpost.com/explainers/in-graphics-the-rise-of-indias-unified-payment-interface-upi-13718522.html)
+
+Article found but Couldn't summarize 
+In Graphics | The rise of India's Unified Payment Interface (UPI)
+
+Mon, 12 Feb 2024 19:28:11 +0530
+### [Inside BAPS mandir, the first Hindu temple in UAE, to be inaugurated by PM Modi](https://www.firstpost.com/explainers/inside-baps-mandir-the-first-hindu-temple-in-uae-to-be-inaugurated-by-pm-modi-13717312.html)
+
+Article found but Couldn't summarize 
+Inside BAPS mandir, the first Hindu temple in UAE, to be inaugurated by PM Modi
+
+Mon, 12 Feb 2024 19:21:27 +0530
+### [Alaskapox claims its first victim. Should we worry?](https://www.firstpost.com/explainers/alaskapox-claims-its-first-victim-should-we-worry-13718422.html)
+
+Article found but Couldn't summarize 
+Alaskapox claims its first victim. Should we worry?
+
+Mon, 12 Feb 2024 18:31:00 +0530
+### [FirstUp: PM in UAE, Farmers' 'Delhi Chalo' March, &amp; more... Big developments today](https://www.firstpost.com/explainers/firstup-pm-in-uae-farmers-delhi-chalo-march-more-big-developments-today-13718252.html)
+
+Article found but Couldn't summarize 
+FirstUp: PM in UAE, Farmers' 'Delhi Chalo' March, &amp;amp; more... Big developments today
+
+Mon, 12 Feb 2024 17:21:19 +0530
+### [Can Paytm survive the crisis facing Paytm Payments Bank?](https://www.firstpost.com/explainers/can-paytm-survive-the-crisis-facing-paytm-payments-bank-13718152.html)
+
+Article found but Couldn't summarize 
+Can Paytm survive the crisis facing Paytm Payments Bank?
+
+Mon, 12 Feb 2024 16:47:31 +0530
+### [Is Australia banning G-string bikinis on beaches? The debate explained](https://www.firstpost.com/explainers/is-australia-banning-g-string-bikinis-on-beaches-the-debate-explained-13717852.html)
+
+Article found but Couldn't summarize 
+Is Australia banning G-string bikinis on beaches? The debate explained
+
+Mon, 12 Feb 2024 16:42:50 +0530
+### [Section 144 imposed ahead of farmers’ Delhi Chalo protest: What’s allowed, what’s not?](https://www.firstpost.com/explainers/section-144-imposed-ahead-of-farmers-delhi-chalo-protest-whats-allowed-whats-not-13717772.html)
+
+Article found but Couldn't summarize 
+Section 144 imposed ahead of farmers’ Delhi Chalo protest: What’s allowed, what’s not?
+
+Mon, 12 Feb 2024 15:53:20 +0530
+### [In Graphics | Nitish Kumar sails through floor test in Bihar. Here’s how it works](https://www.firstpost.com/explainers/in-graphics-nitish-kumar-has-called-for-a-floor-test-in-bihar-heres-how-it-works-13716932.html)
+
+Article found but Couldn't summarize 
+In Graphics | Nitish Kumar sails through floor test in Bihar. Here’s how it works
+
 Thu, 25 Jan 2024 19:31:34 +0530
 ### [‘Paltu Ram’ strikes again? Why Nitish Kumar could leave INDIA alliance](https://www.firstpost.com/explainers/paltu-ram-strikes-again-why-nitish-kumar-could-leave-india-alliance-13656222.html)
 

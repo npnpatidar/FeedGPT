@@ -1,3 +1,195 @@
+Wed, 14 Feb 2024 00:20:00 +0530
+### [Homeward bound: On the release of the eight former Indian naval personnel from Qatar](https://www.thehindu.com/opinion/editorial/homeward-bound-on-the-release-of-the-eight-former-indian-naval-personnel-from-qatar/article67841983.ece)
+
+Article found but Couldn't summarize 
+Quiet diplomacy without brinkmanship helped India’s case in Qatar
+
+Wed, 14 Feb 2024 00:10:00 +0530
+### [Salutary reminder: On Retail inflation data for January](https://www.thehindu.com/opinion/editorial/salutary-reminder-on-retail-inflation-data-for-january/article67842001.ece)
+
+Article found but Couldn't summarize 
+Inflation should not undermine overall macroeconomic stability
+
+Tue, 13 Feb 2024 00:30:00 +0530
+### [Pakistan in turmoil: On the Pakistan elections and results](https://www.thehindu.com/opinion/editorial/pakistan-in-turmoil-the-hindu-editorial-on-the-pakistan-elections-and-results/article67838552.ece)
+
+Article found but Couldn't summarize 
+Instability will follow any attempt to subvert the mandate for Imran Khan
+
+Tue, 13 Feb 2024 00:15:00 +0530
+### [The real travesty: On the Governor of Tamil Nadu and the Governor’s address](https://www.thehindu.com/opinion/editorial/the-real-travesty-the-hindu-editorial-on-the-governor-of-tamil-nadu-and-the-governors-address/article67838996.ece)
+
+Article found but Couldn't summarize 
+A Governor who profoundly disagrees with the State government should not stay in office
+
+Mon, 12 Feb 2024 00:30:00 +0530
+### [Parliamentary affairs: On the last session of the 17th Lok Sabha](https://www.thehindu.com/opinion/editorial/parliamentary-affairs-the-hindu-editorial-on-the-last-session-of-the-17th-lok-sabha/article67835464.ece)
+
+Article found but Couldn't summarize 
+The last 17th Lok Sabha session served as a preparatory forum for the polls
+
+Mon, 12 Feb 2024 00:15:00 +0530
+### [Conjuring a catharsis: On the government’s White Paper on the economy](https://www.thehindu.com/opinion/editorial/conjuring-a-catharsis-the-hindu-editorial-on-the-governments-white-paper-on-the-economy/article67835416.ece)
+
+Article found but Couldn't summarize 
+The White Paper on the economy is a political diversion
+
+Sat, 10 Feb 2024 00:20:00 +0530
+### [Prudence prevails: On keeping monetary policy disinflationary](https://www.thehindu.com/opinion/editorial/prudence-prevails-on-keeping-monetary-policy-disinflationary/article67828996.ece)
+
+Article found but Couldn't summarize 
+Policymakers must continue to keep the focus on slowing price gains
+
+Sat, 10 Feb 2024 00:10:00 +0530
+### [A failed coup: On Bolsonaro and Brazil’s politics](https://www.thehindu.com/opinion/editorial/a-failed-coup-on-bolsonaro-and-brazils-politics/article67829532.ece)
+
+Article found but Couldn't summarize 
+Lula should not allow the case against Bolsonaro to fracture Brazil’s polity
+
+Fri, 09 Feb 2024 00:20:00 +0530
+### [Towards uniformity: On the UCC adopted by the Uttarakhand Assembly](https://www.thehindu.com/opinion/editorial/towards-uniformity-on-the-ucc-adopted-by-the-uttarakhand-assembly/article67825238.ece)
+
+Article found but Couldn't summarize 
+The concept of justice is paramount; uniformity is an offshoot of equality
+
+Fri, 09 Feb 2024 00:10:00 +0530
+### [Prosecuting Trump: On the ruling by the U.S. Court of Appeals for the District of Columbia Circuit](https://www.thehindu.com/opinion/editorial/prosecuting-trump-on-the-ruling-by-the-us-court-of-appeals-for-the-district-of-columbia-circuit/article67825456.ece)
+
+Article found but Couldn't summarize 
+Whether he wins or loses, his politics will shape the U.S.
+
+Thu, 08 Feb 2024 00:20:00 +0530
+### [Winning trust: On Jharkhand’s political storm](https://www.thehindu.com/opinion/editorial/winning-trust-on-jharkhands-political-storm/article67821944.ece)
+
+Article found but Couldn't summarize 
+JMM and its allies found a viable way out of the Hemant Soren arrest ordeal
+
+Thu, 08 Feb 2024 00:10:00 +0530
+### [Music without borders: On the Grammys](https://www.thehindu.com/opinion/editorial/music-without-borders-on-the-grammys/article67821661.ece)
+
+Article found but Couldn't summarize 
+The Grammys were a celebration of women singers, past and present
+
+Wed, 07 Feb 2024 00:20:00 +0530
+### [Travesty in Chandigarh: On mayoral election and the Supreme Court of India’s remarks](https://www.thehindu.com/opinion/editorial/travesty-in-chandigarh-on-mayoral-election-and-the-supreme-court-of-indias-remarks/article67817950.ece)
+
+Article found but Couldn't summarize 
+Manner in which mayor poll was manipulated has grave implications for democracy
+
+Wed, 07 Feb 2024 00:10:00 +0530
+### [Mint Street musings: On the interim Budget and the RBI](https://www.thehindu.com/opinion/editorial/mint-street-musings-on-the-interim-budget-and-the-rbi/article67817982.ece)
+
+Article found but Couldn't summarize 
+The interim Budget gives the central bank some more room to manoeuvre
+
+Tue, 06 Feb 2024 00:30:00 +0530
+### [Honour and exception: On the Bharat Ratna and its recipients](https://www.thehindu.com/opinion/editorial/honour-and-exception-the-hindu-editoria-on-the-bharat-ratna-and-its-recipients/article67813525.ece)
+
+Article found but Couldn't summarize 
+The choice of past leaders for Bharat Ratnas is in tune with politics of the present
+
+Tue, 06 Feb 2024 00:15:00 +0530
+### [First among firsts: On the Sinn Fein and Irish politics](https://www.thehindu.com/opinion/editorial/first-among-firsts-the-hindu-editorial-on-the-sinn-fein-and-irish-politics/article67814262.ece)
+
+Article found but Couldn't summarize 
+The growth of Sinn Fein in Northern Ireland is significant in itself
+
+Mon, 05 Feb 2024 00:30:00 +0530
+### [A sunshine initiative: On the government’s rooftop solar panel plan](https://www.thehindu.com/opinion/editorial/a-sunshine-initiative-the-hindu-editorial-on-the-governments-rooftop-solar-panel-plan/article67810556.ece)
+
+Article found but Couldn't summarize 
+Centre’s solar initiative should be accommodative to States
+
+Mon, 05 Feb 2024 00:15:00 +0530
+### [Unending woes: On bottom trawling and the arrests of Indian fishermen by Sri Lanka](https://www.thehindu.com/opinion/editorial/unending-woes-the-hindu-editorial-on-bottom-trawling-and-the-arrests-of-indian-fishermen-by-sri-lanka/article67811108.ece)
+
+Article found but Couldn't summarize 
+India must incentivise fishers to give up bottom trawling
+
+Sat, 03 Feb 2024 00:20:00 +0530
+### [Population priorities: On Interim Budget statement and the Census](https://www.thehindu.com/opinion/editorial/population-priorities-on-interim-budget-statement-and-the-census/article67805120.ece)
+
+Article found but Couldn't summarize 
+No survey can substitute the Census, which is yet to be conducted for this decade
+
+Sat, 03 Feb 2024 00:10:00 +0530
+### [Two states: On the Palestine question and the U.K.](https://www.thehindu.com/opinion/editorial/two-states-on-the-palestine-question-and-the-uk/article67804947.ece)
+
+Article found but Couldn't summarize 
+Britain has the historical responsibility to recognise a Palestine state
+
+Fri, 02 Feb 2024 00:20:00 +0530
+### [Poll posture: On the 2024 Interim Budget](https://www.thehindu.com/opinion/editorial/poll-posture-on-the-interim-budget/article67801010.ece)
+
+Article found but Couldn't summarize 
+Slowing growth and rising inequality must both be tackled head-on
+
+Fri, 02 Feb 2024 00:10:00 +0530
+### [Change in Jharkhand: On political leaders under the ED’s scanner](https://www.thehindu.com/opinion/editorial/change-in-jharkhand-on-political-leaders-under-the-eds-scanner/article67800685.ece)
+
+Article found but Couldn't summarize 
+Central agencies must be allowed to function freely
+
+Thu, 01 Feb 2024 00:20:00 +0530
+### [Winners and losers: On Pakistan democracy, Imran Khan and Nawaz Sharif](https://www.thehindu.com/opinion/editorial/winners-and-losers-on-pakistan-democracy-imran-khan-and-nawaz-sharif/article67796910.ece)
+
+Article found but Couldn't summarize 
+Elections in Pakistan go according to the script written by the Army
+
+Thu, 01 Feb 2024 00:10:00 +0530
+### [Three generations: On the Australian Open 2024](https://www.thehindu.com/opinion/editorial/three-generations-at-the-australian-open-2024/article67796974.ece)
+
+Article found but Couldn't summarize 
+The Australian Open gave space to players from different eras
+
+Wed, 31 Jan 2024 00:20:00 +0530
+### [Economic encomium: On the Finance Ministry’s 10-year review of the economy](https://www.thehindu.com/opinion/editorial/economic-encomium-on-the-finance-ministrys-10-year-review-of-the-economy/article67793033.ece)
+
+Article found but Couldn't summarize 
+A glowing 10-year report card must not stoke complacency on what remains undone
+
+Wed, 31 Jan 2024 00:10:00 +0530
+### [Vetting for vendetta: On Supreme Court’s suggestion](https://www.thehindu.com/opinion/editorial/vetting-for-vendetta-on-supreme-courts-suggestion/article67793115.ece)
+
+Article found but Couldn't summarize 
+Mechanism to scan cases for political motive cannot address issue of cover-up
+
+Tue, 30 Jan 2024 00:30:00 +0530
+### [Changing partners: On Bihar Chief Minister Nitish Kumar and his recurrent political somersaults](https://www.thehindu.com/opinion/editorial/changing-partners-the-hindu-editorial-on-bihar-chief-minister-nitish-kumar-and-his-recurrent-political-somersaults/article67789410.ece)
+
+Article found but Couldn't summarize 
+Nitish Kumar’s unedifying volte-faces are an insult to voters of Bihar
+
+Tue, 30 Jan 2024 00:15:00 +0530
+### [The best of Tests: On Hyderabad, Brisbane and some cricketing magic](https://www.thehindu.com/opinion/editorial/the-best-of-tests-the-hindu-editorial-on-hyderabad-brisbane-and-some-cricketing-magic/article67789359.ece)
+
+Article found but Couldn't summarize 
+Test cricket showcases skill better, but is not short of excitement
+
+Mon, 29 Jan 2024 00:20:00 +0530
+### [Ceremony and substance: On the Macron visit, India-France ties](https://www.thehindu.com/opinion/editorial/ceremony-and-substance-on-the-macron-visit-india-france-ties/article67786248.ece)
+
+Article found but Couldn't summarize 
+India and France built on past agreements in a show of symbolism
+
+Mon, 29 Jan 2024 00:10:00 +0530
+### [Momentous ruling: On Israel and the International Court of Justice order](https://www.thehindu.com/opinion/editorial/momentous-ruling-on-israel-and-the-international-court-of-justice-order/article67786288.ece)
+
+Article found but Couldn't summarize 
+Israel must comply with ICJ’s order to prevent genocide, step up aid in Gaza
+
+Sat, 27 Jan 2024 00:20:00 +0530
+### [Opposition block: On the INDIA bloc staring at a crisis](https://www.thehindu.com/opinion/editorial/opposition-block-on-the-india-bloc-staring-at-a-crisis/article67780134.ece)
+
+Article found but Couldn't summarize 
+Only a post-poll agreement seems possible among Opposition parties
+
+Sat, 27 Jan 2024 00:10:00 +0530
+### [Endless war: On the Russia-Ukraine war](https://www.thehindu.com/opinion/editorial/endless-war-on-the-russia-ukraine-war/article67780465.ece)
+
+Article found but Couldn't summarize 
+Russia, and Ukraine and NATO, should make a practical assessment of the war
+
 Fri, 26 Jan 2024 00:20:00 +0530
 ### [Exchange of opportunity: On science, the Vaibhav and VAJRA programmes](https://www.thehindu.com/opinion/editorial/exchange-of-opportunity-on-science-the-vaibhav-and-vajra-programmes/article67776362.ece)
 
