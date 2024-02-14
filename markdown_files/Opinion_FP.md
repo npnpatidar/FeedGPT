@@ -1,3 +1,51 @@
+Wed, 14 Feb 2024 18:10:04 +0530
+### [Election results further divide Pakistan, expose deep rot and fissures](https://www.firstpost.com/opinion/election-results-further-divide-pakistan-expose-deep-rot-and-fissures-13727882.html)
+
+Article found but Couldn't summarize 
+Election results further divide Pakistan, expose deep rot and fissures
+
+Wed, 14 Feb 2024 18:04:00 +0530
+### [PM Modi’s deft engagement with West Asia exposes elitist, prejudiced mindset of Left-'liberals’](https://www.firstpost.com/opinion/pm-modis-deft-engagement-with-west-asia-exposes-elitist-prejudiced-mindset-of-left-liberals-13727802.html)
+
+Article found but Couldn't summarize 
+PM Modi’s deft engagement with West Asia exposes elitist, prejudiced mindset of Left-'liberals’
+
+Wed, 14 Feb 2024 16:54:09 +0530
+### [MILAN 2024: India showcases naval diplomacy, promotes collaboration and maritime security](https://www.firstpost.com/opinion/milan-2024-india-showcases-naval-diplomacy-promotes-collaboration-and-maritime-security-13724692.html)
+
+Article found but Couldn't summarize 
+MILAN 2024: India showcases naval diplomacy, promotes collaboration and maritime security
+
+Wed, 14 Feb 2024 15:04:00 +0530
+### [Vantage | What Trump gained and lost from his shock treatment to Europe](https://www.firstpost.com/opinion/vantage-what-trump-gained-and-lost-from-his-shock-treatment-to-europe-13726262.html)
+
+Article found but Couldn't summarize 
+Vantage | What Trump gained and lost from his shock treatment to Europe
+
+Wed, 14 Feb 2024 14:45:20 +0530
+### [Vantage | Kamala Harris may be ready to lead, but is Biden ready to step aside?](https://www.firstpost.com/opinion/vantage-kamala-harris-may-be-ready-to-lead-but-is-biden-ready-to-step-aside-13725412.html)
+
+Article found but Couldn't summarize 
+Vantage | Kamala Harris may be ready to lead, but is Biden ready to step aside?
+
+Wed, 14 Feb 2024 13:38:30 +0530
+### [Vantage | Will Pakistan's army switch sides and strike a deal with Imran?](https://www.firstpost.com/opinion/vantage-will-pakistans-army-switch-sides-and-strike-a-deal-with-imran-13725752.html)
+
+Article found but Couldn't summarize 
+Vantage | Will Pakistan's army switch sides and strike a deal with Imran?
+
+Wed, 14 Feb 2024 13:20:22 +0530
+### [How PM Modi's West Asia outreach is paying multiple dividends](https://www.firstpost.com/opinion/how-pm-modis-west-asia-outreach-is-paying-multiple-dividends-13725052.html)
+
+Article found but Couldn't summarize 
+How PM Modi's West Asia outreach is paying multiple dividends
+
+Wed, 14 Feb 2024 10:33:47 +0530
+### [14 February: Valentine’s Day or Vasant Panchami](https://www.firstpost.com/opinion/shiva-maa-saraswati-and-valentines-day-13723952.html)
+
+Article found but Couldn't summarize 
+14 February: Valentine’s Day or Vasant Panchami
+
 Tue, 13 Feb 2024 18:43:45 +0530
 ### [‘Delhi Chalo’: Why farmer protest smells more of politics than agrarian distress](https://www.firstpost.com/opinion/delhi-chalo-why-farmer-protest-smells-more-of-politics-than-agrarian-distress-13722632.html)
 

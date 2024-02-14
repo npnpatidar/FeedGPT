@@ -1,3 +1,9 @@
+Wed, 14 Feb 2024 13:30:55 +0530
+### [‘Suicide Squad: Kill the Justice League’ game review: A crisis of identity](https://www.thehindu.com/entertainment/suicide-squad-kill-the-justice-league-game-review/article67841619.ece)
+
+Article found but Couldn't summarize 
+Everyone’s favorite anti-hero team is back together in Suicide Squad: Kill the Justice League, a game that really did not need another looter shooter
+
 Sun, 11 Feb 2024 11:51:48 +0530
 ### [‘One Day’ Netflix series review: A grand, saccharine, predictable love affair](https://www.thehindu.com/entertainment/one-day-netflix-series-review-a-grand-saccharine-predictable-love-affair/article67834666.ece)
 

@@ -1,3 +1,15 @@
+Thu, 15 Feb 2024 00:20:00 +0530
+### [Farming consensus: On the government and the farmers on protest](https://www.thehindu.com/opinion/editorial/farming-consensus-on-the-government-and-the-farmers-on-protest/article67846219.ece)
+
+Article found but Couldn't summarize 
+The Centre must address grievances of farmers through talks
+
+Thu, 15 Feb 2024 00:10:00 +0530
+### [Pension concerns: on the EPFO recommendation](https://www.thehindu.com/opinion/editorial/pension-concerns-on-the-epfo-recommendation/article67845880.ece)
+
+Article found but Couldn't summarize 
+A hike in minimum pension will help the lower strata among the retired
+
 Wed, 14 Feb 2024 00:20:00 +0530
 ### [Homeward bound: On the release of the eight former Indian naval personnel from Qatar](https://www.thehindu.com/opinion/editorial/homeward-bound-on-the-release-of-the-eight-former-indian-naval-personnel-from-qatar/article67841983.ece)
 

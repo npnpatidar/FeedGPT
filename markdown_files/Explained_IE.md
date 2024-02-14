@@ -1,3 +1,38 @@
+Wed, 14 Feb 2024 14:31:48 +0000
+### [Do high levels of ‘good’ cholesterol mean lower risk of heart disease? How HDL-C is actually linked to cardiovascular health](https://indianexpress.com/article/explained/explained-health/how-hdl-c-is-actually-linked-to-cardiovascular-health-9160272/)
+
+The article discusses the difference between correlation and causation in diagnostic tests for health improvement. It explains that while correlations can predict risk, they do not identify the underlying cause of a disease. The example of ice cream sales and shark attacks is used to illustrate this point. The article also highlights the confusion caused by media headlines linking certain factors to health benefits without establishing causation. It specifically mentions HDL-Cholesterol (good cholesterol) and its correlation with low cardiovascular disease risk. However, clinical trials have failed to prove a causal link between HDL-Cholesterol and reduced risk. The article emphasizes the importance of understanding the intricacies of markers like HDL-C and considering other factors such as LDL-C, Apolipoprotein-B, exercise, and overall health interventions in reducing cardiovascular risk. It concludes by cautioning readers to enjoy coffee for its taste rather than its potential health benefits.
+
+Wed, 14 Feb 2024 13:00:19 +0000
+### [Recalling the Pulwama terrorist attack: what happened on Feb 14, 2019?](https://indianexpress.com/article/explained/five-years-pulwama-terror-attack-recall-9161523/)
+
+Article found but Couldn't summarize
+
+Wed, 14 Feb 2024 12:39:21 +0000
+### [Why Forms 45 and 47 are at the heart of Pakistan’s election rigging controversy](https://indianexpress.com/article/explained/explained-global/form-45-pakistan-elections-controversy-9161589/)
+
+Pakistan's February 8 election results have been marred by allegations of rigging and result manipulation. The controversy revolves around Forms 45 and 47, which are crucial for documenting and compiling election results. Form 45, also known as the 'Result of Count' form, records votes polled at a polling station and includes important information like the number of registered voters, votes cast, and candidate-wise breakdown of votes. It must be publicly displayed for transparency. After completion, Form 45 is submitted to the Returning Officer, who gathers results from all Form 45s to determine the final outcome. Form 47 documents the unconfirmed results in a constituency before official confirmation. Concerns arose when candidates were denied Form 45s, and discrepancies were found between the data in Form 45s and Form 47s. The Pakistan Tehreek-e-Insaf (PTI) party claimed that the results were falsely changed and challenged them in court.
+
+Wed, 14 Feb 2024 04:41:25 +0000
+### [ExplainSpeaking: Consumer sentiments improving but still stuck in pessimism](https://indianexpress.com/article/explained/explained-economics/explainspeaking-consumer-sentiments-improving-but-still-stuck-in-pessimism-9160505/)
+
+The article discusses the contrasting views of the government and opposition parties regarding the state of the Indian economy in the lead-up to the general election. It also explores the issue of farmer protests demanding Minimum Support Prices (MSP) as a legal right and analyzes the trend of MSP announcements. The article further examines consumer sentiments in rural India, which experienced a significant decline in January 2024, attributed to stagnation in commodity prices and reduced profits. Additionally, the article presents data from the Reserve Bank of India's consumer confidence survey, indicating negative consumer sentiment throughout Prime Minister Modi's second term. It concludes by questioning whether consumer sentiments can recover before the upcoming elections.
+
+Wed, 14 Feb 2024 03:45:20 +0000
+### [On Valentine’s Day, the language of love: Seven dating terms you should know, three reasons why such words are coined](https://indianexpress.com/article/explained/explained-culture/valentines-day-seven-dating-terms-why-they-are-coined-9160424/)
+
+Article found but Couldn't summarize
+
+Wed, 14 Feb 2024 02:30:22 +0000
+### [What did Trump say about NATO funding and what is Article 5?](https://indianexpress.com/article/explained/explained-global/trump-nato-funding-article-5-9159886/)
+
+Article found but Couldn't summarize
+
+Wed, 14 Feb 2024 01:37:43 +0000
+### [IIT Madras Zanzibar: what does it mean to be an IIT outside India?](https://indianexpress.com/article/explained/iit-madras-zanzibar-what-does-it-mean-to-be-an-iit-outside-india-9160055/)
+
+As GPT-3.5, I can provide a summary of the article you shared. The article discusses the establishment of the first overseas campus of an Indian Institute of Technology (IIT) in Zanzibar, which is part of IIT Madras. It explores the significance of having an IIT outside of India and how it aligns with the Indian character of the IITs. The article also highlights the aspirations of IIT Madras and India as a nation to share their success story and contribute to the development of Zanzibar and the African region. While there may be some concerns about infrastructure and the expansion of IITs beyond India, the article emphasizes the importance of collaboration and mutual support between India and Zanzibar.
+
 Tue, 13 Feb 2024 14:17:54 +0000
 ### [PM Modi to inaugurate BAPS temple in UAE: Its special features, architecture, significance](https://indianexpress.com/article/explained/explained-global/pm-modi-inaugurate-baps-temple-in-uae-features-9159741/)
 

@@ -1,3 +1,57 @@
+Thu, 15 Feb 2024 01:12:21 +0530
+### [An ISI okay for luxury labels: What’ll we think of next?](https://www.livemint.com/opinion/online-views/an-isi-okay-for-luxury-labels-what-ll-we-think-of-next-11707921877064.html)
+
+Article found but Couldn't summarize 
+Arbitrary mandates of quality and other diktats constrain India’s economic prospects
+
+Thu, 15 Feb 2024 01:03:44 +0530
+### [There's plenty that ails India’s index of industrial production](https://www.livemint.com/opinion/online-views/theres-plenty-that-ails-india-s-index-of-industrial-production-11707916942675.html)
+
+Article found but Couldn't summarize 
+The IIP is old and rusty but GST data can be used to formulate an indicator that offers a better picture of economic change.
+
+Thu, 15 Feb 2024 00:53:03 +0530
+### [Money dysmorphia is haunting millennials and Gen Zers](https://www.livemint.com/opinion/online-views/money-dysmorphia-is-haunting-millennials-and-gen-zers-11707917116390.html)
+
+Article found but Couldn't summarize 
+These generations must resist needless anxiety over their finances. Constant access to information in the news and on social media may be a reason.
+
+Thu, 15 Feb 2024 00:49:31 +0530
+### [The digital subversion of classical capitalism won’t last](https://www.livemint.com/opinion/online-views/the-digital-subversion-of-classical-capitalism-won-t-last-11707917224160.html)
+
+Article found but Couldn't summarize 
+Sustainable digitalization calls for a return to principles of capitalism under which profits matter.
+
+Wed, 14 Feb 2024 11:42:47 +0530
+### [How ITC and BAT’s divergent diversification strategies flipped the narrative](https://www.livemint.com/opinion/online-views/how-itc-and-bat-s-divergent-diversification-strategies-flipped-the-narrative-11707887706374.html)
+
+Article found but Couldn't summarize 
+BAT, burdened by debt, is looking to sell its stake in ITC Ltd, which has prospered by diversifying beyond tobacco, showcasing a dramatic shift in strategy and fortunes
+
+Wed, 14 Feb 2024 11:19:36 +0530
+### [How to fight the “artificial” intelligence menace](https://www.livemint.com/opinion/columns/how-to-fight-the-artificial-intelligence-menace-11707886250937.html)
+
+Article found but Couldn't summarize 
+Artificially intelligent advisers or mahaguru finfluencers peddle views that are aimed more at grabbing eyeballs than genuinely trying to empower their readers or viewers with solid opinions
+
+Wed, 14 Feb 2024 08:00:03 +0530
+### [January auto sales signal a smooth start to 2024](https://www.livemint.com/opinion/quick-edit/january-auto-sales-signal-a-smooth-start-to-2024-11707838024042.html)
+
+Article found but Couldn't summarize 
+Double-digit sales of two-wheelers, three-wheelers and passenger vehicles categories bode well for the manufacturing sector and send a broadly positive signal on demand, but small cars and commercial vehicles need to catch up.
+
+Wed, 14 Feb 2024 08:00:02 +0530
+### [Market-oriented farm reforms remain a challenge yet to be met](https://www.livemint.com/opinion/online-views/marketoriented-farm-reforms-remain-a-challenge-yet-to-be-met-11707836997702.html)
+
+Article found but Couldn't summarize 
+The demands of protestors are largely untenable but a paradigm that treats our farmers as captive suppliers to the state must be shifted and farms given freedom to maximize earnings.
+
+Wed, 14 Feb 2024 08:00:02 +0530
+### [Stock front-running has moved along with the changing times](https://www.livemint.com/opinion/online-views/stock-front-running-has-moved-along-with-the-changing-times-11707837026079.html)
+
+Article found but Couldn't summarize 
+What was done via TV is happening online and this makes it even harder to squash the practice.
+
 Tue, 13 Feb 2024 23:19:56 +0530
 ### [A good way to regulate AI is to think of it as a complex adaptive system](https://www.livemint.com/opinion/online-views/a-good-way-to-regulate-ai-is-to-think-of-it-as-a-complex-adaptive-system-11707837055204.html)
 

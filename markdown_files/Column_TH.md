@@ -1,3 +1,9 @@
+Wed, 14 Feb 2024 00:30:00 +0530
+### [Ind vs Eng Tests | The way things fit together is the essence of good selection](https://www.thehindu.com/opinion/columns/the-way-things-fit-together-is-the-essence-of-good-selection/article67841833.ece)
+
+Article found but Couldn't summarize 
+Selection cannot be an exact science; there are too many variables from differing match conditions to untested mental abilities of the players. And luck, of course.
+
 Wed, 07 Feb 2024 00:33:00 +0530
 ### [IND vs ENG Tests | This could finish as the finest series ever played in India](https://www.thehindu.com/opinion/columns/ind-vs-eng-tests-this-could-finish-as-the-finest-series-ever-played-in-india/article67819365.ece)
 

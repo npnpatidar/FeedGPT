@@ -1,3 +1,116 @@
+Wed, 14 Feb 2024 20:51:17 +0530
+### [Abu Dhabi's first Hindu temple opening: A look at the largest shrines outside India](https://www.firstpost.com/explainers/abu-dhabis-first-hindu-temple-opening-a-look-at-the-largest-shrines-outside-india-13723322.html)
+
+Article found but Couldn't summarize 
+Abu Dhabi's first Hindu temple opening: A look at the largest shrines outside India
+
+Wed, 14 Feb 2024 20:44:28 +0530
+### [BAPS Mandir in Abu Dhabi: The idols inside the temple revealed](https://www.firstpost.com/explainers/baps-mandir-in-abu-dhabi-the-idols-inside-the-temple-revealed-13728322.html)
+
+Article found but Couldn't summarize 
+BAPS Mandir in Abu Dhabi: The idols inside the temple revealed
+
+Wed, 14 Feb 2024 19:33:10 +0530
+### [PM Modi inaugurates BAPS temple in Abu Dhabi: What the Hindu mandir in UAE signals](https://www.firstpost.com/explainers/pm-narendra-modi-abu-dhabi-baps-temple-inauguration-what-the-hindu-mandir-in-uae-signals-13727332.html)
+
+Article found but Couldn't summarize 
+PM Modi inaugurates BAPS temple in Abu Dhabi: What the Hindu mandir in UAE signals
+
+Wed, 14 Feb 2024 19:14:25 +0530
+### [Why Sonia Gandhi filed nomination for RS and what this means for 2024 polls](https://www.firstpost.com/explainers/why-sonia-gandhi-filed-nomination-for-rs-and-what-this-means-for-2024-polls-13728002.html)
+
+Sonia Gandhi, senior Congress leader and former party chief, has filed her nomination papers for the Rajya Sabha polls in Rajasthan. This move comes ahead of the 2024 Lok Sabha polls. Sonia has previously served five terms as a Lok Sabha MP and her victory in the Rajya Sabha election is assured as the Congress has enough MLAs to secure the required votes. This will be Sonia's first term in the Upper House. The seat she is contesting will fall vacant in April after former prime minister Manmohan Singh completes his term. Sonia's shift to the Rajya Sabha signifies a change in her political role and the Congress party's strategy.
+
+Wed, 14 Feb 2024 18:51:44 +0530
+### [Farmers' protest: What is the Swaminathan Commission? What did it recommend?](https://www.firstpost.com/explainers/farmers-protest-what-is-the-swaminathan-commission-what-did-it-recommend-13726532.html)
+
+Article found but Couldn't summarize 
+Farmers' protest: What is the Swaminathan Commission? What did it recommend?
+
+Wed, 14 Feb 2024 17:42:51 +0530
+### [‘Survived only because of our training’: How Navy veterans spent months in Qatar prison](https://www.firstpost.com/explainers/survived-only-because-of-our-training-how-navy-veterans-spent-months-in-qatar-prison-13727342.html)
+
+Eight retired Indian Navy veterans who were released from a Qatar jail have returned home to India. Their release came as a surprise, with Qatari officials asking them to pack their belongings and wait for 9 am the next day. They were then taken to the embassy and transported to the airport, flying on an IndiGo flight to Delhi. The veterans expressed joy and gratitude upon their return, attributing their survival in jail to their defense training. One veteran is still expected to return after completing some paperwork. The release of the veterans was made possible through the efforts of the Indian government, including Prime Minister Narendra Modi's personal intervention.
+
+Wed, 14 Feb 2024 17:09:36 +0530
+### [Indian-origin IT couple, twins found dead in California home. What happened?](https://www.firstpost.com/explainers/indian-origin-it-couple-twins-found-dead-in-california-home-what-happened-13726612.html)
+
+An Indian-origin family from Kerala has been found dead at their home in California. The family consists of Anand Sujith Henry, his wife Alice Priyanka, and their four-year-old twin children Noah and Neithan. The police are investigating the case as a murder-suicide. The couple was found dead with gunshot wounds in the bathroom, along with a pistol and loaded magazine. The cause of death for the children is still under investigation, as there were no signs of trauma on their bodies. The police believe they may have been smothered, strangled, or given a lethal overdose. The incident is being treated as an isolated incident, and no suicide note was found at the scene. The family had been living in the United States for the past nine years, and they were well-liked by their coworkers and neighbors. The investigation is ongoing, and the family's relatives in India have received consular assistance.
+
+Wed, 14 Feb 2024 16:53:40 +0530
+### [Modi in UAE: What is Bharat Mart, the mega facility inaugurated by PM in Dubai?](https://www.firstpost.com/explainers/modi-in-uae-what-is-bharat-mart-the-mega-facility-inaugurated-by-pm-in-dubai-13727202.html)
+
+Bharat Mart is a warehousing facility in Dubai that aims to showcase Indian products under one roof. It will have retail showrooms, warehouses, offices, and other facilities to accommodate various categories of goods. The project is expected to be operational by 2025. Bharat Mart will benefit India by providing a one-stop shop for Indian exports and helping Indian firms expand their operations into regions like Africa, Europe, and the United States. It will also contribute to strengthening trade ties between India and the UAE.
+
+Wed, 14 Feb 2024 15:54:11 +0530
+### [What does farmers' protest mean for India ahead of 2024 polls?](https://www.firstpost.com/explainers/what-does-farmers-protest-mean-for-india-ahead-of-2024-polls-13725922.html)
+
+Article found but Couldn't summarize 
+What does farmers' protest mean for India ahead of 2024 polls?
+
+Wed, 14 Feb 2024 14:44:37 +0530
+### [Valentine’s Day: When did humans start kissing?](https://www.firstpost.com/explainers/valentines-day-when-did-humans-start-kissing-13725242.html)
+
+Article found but Couldn't summarize 
+Valentine’s Day: When did humans start kissing?
+
+Wed, 14 Feb 2024 13:46:35 +0530
+### [How the Indian Navy is going desi by bringing kurta-pyjama in naval messes](https://www.firstpost.com/explainers/how-the-indian-navy-is-going-desi-by-bringing-kurta-pyjama-in-naval-messes-13725952.html)
+
+The Indian Navy has recently allowed officers and sailors to wear kurta-pyjamas in naval messes as part of their efforts to move away from colonial practices. The new dress code permits the ethnic attire of kurta-pyjamas, sleeveless jackets, closed formal shoes or sandals, and matching or contrast tone narrow pyjamas. Female officers can wear kurta-churidaar or kurta-palazzo. This move aims to promote inclusivity, respect for culture, and shed the colonial mindset. The Indian Navy has been taking steps to remove colonial customs, such as introducing a new design for Admirals’ epaulettes and Indianizing rank names.
+
+Wed, 14 Feb 2024 13:22:50 +0530
+### [Why Shehbaz Sharif and not Nawaz Sharif is likely to be the next Pakistan PM](https://www.firstpost.com/explainers/why-shehbaz-sharif-and-not-nawaz-sharif-is-likely-to-be-the-next-pakistan-pm-13725702.html)
+
+In Pakistan's recent elections, the results revealed a hung parliament with no majority party. Pakistan Muslim League (Nawaz) and Pakistan Peoples Party agreed to form a coalition government comprising six parties. Although Nawaz Sharif was expected to become the next prime minister, he instead nominated his brother Shehbaz for the position. Shehbaz Sharif secured the blessing of his elder brother to lead the country. The coalition government consists of parties that together have a majority in parliament. The decision to nominate Shehbaz was driven by the desire for political stability and the support of the Pakistan Peoples Party.
+
+Wed, 14 Feb 2024 13:22:03 +0530
+### [In a first, woman set to marry hologram: Why people are turning to AI for love](https://www.firstpost.com/explainers/in-a-first-woman-set-to-marry-hologram-why-people-are-turning-to-ai-for-love-13725762.html)
+
+Article found but Couldn't summarize 
+In a first, woman set to marry hologram: Why people are turning to AI for love
+
+Wed, 14 Feb 2024 11:48:44 +0530
+### [Bubonic plague in US: What's the illness that killed million in the 14th Century?](https://www.firstpost.com/explainers/bubonic-plague-in-us-whats-the-illness-that-killed-million-in-the-14th-century-13725002.html)
+
+The first case of bubonic plague since 2015 has been confirmed in Oregon, with the infected individual likely contracting the disease from a sick pet cat. The infected person and their close contacts have received medication, and the community is not believed to be at risk. Plague is caused by the bacterium Yersinia pestis, carried by rodents and fleas. It can manifest as bubonic plague, septicemic plague, or pneumonic plague, with symptoms including fever, weakness, and swollen lymph nodes. Plague is treatable with antibiotics, and early treatment improves chances of recovery. The risk of plague can be reduced by keeping homes and outdoor areas less attractive to rodents, using repellent when outdoors, and controlling fleas on pets. Plague, although historically associated with the Middle Ages, can still occur today but is now a treatable illness.
+
+Wed, 14 Feb 2024 11:46:35 +0530
+### [Who will get free electricity under PM Surya Ghar: Muft Bijli Yojana?](https://www.firstpost.com/explainers/who-will-get-free-electricity-under-pm-surya-ghar-muft-bijli-yojana-13724042.html)
+
+Indian Prime Minister Narendra Modi has announced the launch of the "PM Surya Ghar: Muft Bijli Yojana," a new rooftop solar scheme aimed at providing up to 300 units of free electricity per month to one crore households. The government plans to bear the cost of setting up solar panels for households consuming less than 300 units of electricity monthly. The scheme aims to increase income, reduce power bills, and create employment opportunities. The capital subsidy for the scheme is expected to reach Rs 75,000 crore over the next three to five years, with central government companies responsible for supplying electricity to households instead of individual power distribution companies. Residential homes installing solar panels are eligible for subsidies. The application process involves registration, installation, and approval from the Electricity Distribution Company.
+
+Wed, 14 Feb 2024 11:11:48 +0530
+### [Vyomorozka is known as one of the toughest jobs in the world: What is it?](https://www.firstpost.com/explainers/vyomorozka-is-known-as-one-of-the-toughest-jobs-in-the-world-what-is-it-13724632.html)
+
+This article discusses the challenging job of maintaining ships in freezing conditions in Yakutsk, Russia. Workers laboriously chip away at the ice to find areas that need repair, facing temperatures as low as -50 degrees Celsius. The job, known as vymorozka, is considered one of the toughest in the world. The shipyard is located in Yakutsk, near the Lena River, which is Siberia's economic center during the summer. Some workers find the job manageable by dressing appropriately and appreciating the cold. It requires strength, precision, and the ability to handle extreme temperatures.
+
+Wed, 14 Feb 2024 10:03:59 +0530
+### [US House impeaches Joe Biden’s homeland security secretary: What comes next?](https://www.firstpost.com/explainers/us-house-impeaches-joe-bidens-homeland-security-secretary-what-comes-next-13724292.html)
+
+The US House of Representatives has voted to impeach Secretary of Homeland Security Alejandro Mayorkas, making it the first time in nearly 150 years that a Cabinet secretary has been impeached. House Republicans have been investigating Mayorkas' handling of the US-Mexico border, aiming to make it a major election issue. The Biden administration and its supporters argue that the impeachment is based on policy disputes rather than high crimes and misdemeanors. Mayorkas will keep his job unless the Senate, where Democrats hold the majority, votes to convict him. However, conviction requires a two-thirds majority, making it unlikely.
+
+Wed, 14 Feb 2024 10:03:57 +0530
+### [‘Delhi Chalo’: How drones air-dropped tear gas on protesting farmers at Shambhu border](https://www.firstpost.com/explainers/delhi-chalo-how-drones-air-dropped-tear-gas-on-protesting-farmers-at-shambhu-border-13724302.html)
+
+Article found but Couldn't summarize 
+‘Delhi Chalo’: How drones air-dropped tear gas on protesting farmers at Shambhu border
+
+Wed, 14 Feb 2024 07:36:35 +0530
+### [Prabowo Subianto: The 'cute grandpa' with a bloody past, who is likely to win Indonesia's elections](https://www.firstpost.com/explainers/prabowo-subianto-the-cute-grandpa-with-a-bloody-past-who-is-likely-to-win-indonesias-elections-13722512.html)
+
+Former army general Prabowo Subianto, an ambitious and controversial figure in Indonesian politics, is now leading in the latest polls ahead of the election, positioning himself to potentially become president. Prabowo has a history of involvement in covert operations and human rights abuses during the authoritarian regime of former president Soeharto. Despite his dark past, Prabowo has made several attempts at running for higher office, including two presidential bids in 2009 and 2014, both of which he lost. In a surprising move, Prabowo later joined forces with his rival, Joko Widodo (Jokowi), and served as defense minister in Jokowi's cabinet. Now, with Jokowi's support, Prabowo has a significant lead in the polls for the presidential election. However, if elected, Prabowo's past comments suggest he may seek to dismantle key democratic institutions and revert to a more authoritarian model of governance.
+
+Wed, 14 Feb 2024 07:34:48 +0530
+### [Voting with nails, mascots, doppelgangers: Fun facts about Indonesia polls](https://www.firstpost.com/explainers/voting-with-nails-mascots-doppelgangers-fun-facts-about-indonesia-polls-13723312.html)
+
+Today, Indonesia, one of the world's largest democracies, is holding a complex election with over 200 million eligible voters. The election will determine the president, vice president, and various parliamentary and local legislature positions. Unique aspects of the Indonesian election include using a nail to punch ballot slips and counting votes in public. The logistical challenges include a six-hour voting period, potential rainy season downpours, cyber-attacks, and fraud. The election involves over seven million election officials overseeing the largest one-day election in the world. Communal voting and the use of animals like elephants, horses, and cows to transport ballots in remote areas add to the complexity. The risk of flooding and the destruction of ballots due to heavy rain are concerns. The election is notable for its high stakes and intricate nature.
+
+Wed, 14 Feb 2024 07:32:44 +0530
+### [FirstUp: Indonesia goes to polls, PM to inaugurate Abu Dhabi mandir... Today's news](https://www.firstpost.com/explainers/firstup-indonesia-goes-to-polls-pm-to-inaugurate-abu-dhabi-mandir-todays-big-stories-13723032.html)
+
+The BAPS Hindu Mandir, the first traditional Hindu stone temple in the UAE, is opening in Abu Dhabi on February 14. Prime Minister Narendra Modi will be inaugurating the temple during his visit to Abu Dhabi. The temple, made of pink sandstone, is located on a 27-acre plot in Abu Dhabi's Abu Mureikhah district. It aims to promote harmony among different cultures, religions, communities, and countries. This visit is significant for the India-UAE relationship and is expected to deepen the strategic partnership between the two nations. After the inauguration, Prime Minister Modi will travel to Qatar to meet the Emir and strengthen bilateral ties.
+
 Tue, 13 Feb 2024 19:46:20 +0530
 ### [Sweet Love: Will Valentine's Day chocolates get expensive?](https://www.firstpost.com/explainers/sweet-love-will-valentines-day-chocolates-get-expensive-13722202.html)
 

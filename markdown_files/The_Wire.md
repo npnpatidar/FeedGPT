@@ -1,3 +1,225 @@
+2024-02-15T00:15:48+05:30
+### [Modi Inaugurates Hindu Temple in Abu Dhabi](https://thewire.in/diplomacy/modi-inaugurates-baps-temple-in-uae)
+
+No Article text 
+Speaking at the temple's inauguration, Modi sought to make parallels to the opening of the Ram temple in Ayodhya, which has been a major part of the ruling BJP’s re-election strategy.
+
+2024-02-14T21:47:17+05:30
+### [Indonesia Election: Ex-Commander Prabowo Subianto Claims Victory](https://thewire.in/world/prabowo-subianto-claims-victory-indonesia-election)
+
+No Article text 
+Independent pollster Litbang Kompas said that Subianto was leading with nearly 60% of the vote, based on over half of the votes counted at a sample of polling stations across the country.
+
+2024-02-14T20:30:33+05:30
+### [More Than 59,000 Indians Became US Citizens in 2023: Report](https://thewire.in/world/more-than-59000-indians-became-us-citizens-in-2023-report)
+
+No Article text 
+According to the report, Indians ranked second in terms of the largest group, by country of birth, to be naturalised in the US in 2023. Mexico held the top position with 12.7% of all naturalisations, while India followed closely behind at 6.7%.
+
+2024-02-14T20:00:30+05:30
+### [The Defeat of a BJP Minister, Appointed Without an Election, Revives Constituent Assembly Debates](https://thewire.in/politics/the-defeat-of-surender-pal-bjp-minister-without-winning-a-poll-revives-constituent-assembly-debates)
+
+No Article text 
+Surendra Pal Singh TT's loss in the Karanpur seat of Rajasthan has brought to mind crucial questions posed during the Indian Constituent Assembly 76 years ago: Shouldn't MLAs and MPs, upon their inclusion in the cabinet, promptly engage with the public once more?
+
+2024-02-14T19:30:18+05:30
+### [Demolitions as Extra-Judicial Punishment Have Left India in a Perpetual State of Violence](https://thewire.in/rights/demolitions-as-extra-judicial-punishment-have-left-india-in-a-perpetual-state-of-violence)
+
+No Article text 
+Under international human rights law, states must ensure that evictions only occur in exceptional circumstances, require full justification and the provision of adequate legal safeguards. None of that here in New India, of course.
+
+2024-02-14T19:00:10+05:30
+### [Sangolli Rayanna: The Forgotten Martyrdom of Karnataka’s Brave Peasant Leader](https://thewire.in/history/sangolli-rayanna-the-forgotten-martyrdom-of-karnatakas-brave-peasant-leader)
+
+No Article text 
+The accolades that opportunistic politicians of the current times shower on Rayanna and the manner is which they choose to honour this great leader is appalling.
+
+2024-02-14T18:58:03+05:30
+### [WTO’s E-commerce Moratorium: Will India Betray the Interests of the Global South Again?](https://thewire.in/trade/wtos-ecommerce-moratorium-india-us)
+
+No Article text 
+So far, the track record of the Narendra Modi government in standing firm against the Global North, particularly Washington, on e-commerce moratorium has been anything but beneficial for the country’s nascent digital industry.
+
+2024-02-14T18:15:43+05:30
+### [BJP Ensures Ashok Chavan Will Be in Rajya Sabha From Maharashtra, Leaves Out Many of Its Own](https://thewire.in/politics/bjp-ashok-chavan-rajya-sabha-milind-deora-shiv-sena-shinde)
+
+No Article text 
+Another defector, Milind Deora, has been nominated by the Shiv Sena (Shinde). The BJP’s president, J.P. Nadda, is set to be a Gujarat MP in the Rajya Sabha.
+
+2024-02-14T18:00:20+05:30
+### [200 Million Voters and 820,000 Polling Stations: Indonesia’s Massive Election in Numbers](https://thewire.in/world/200-million-voters-and-820000-polling-stations-indonesias-massive-election-in-numbers)
+
+No Article text 
+Indonesia is holding five separate polls on one day which is touted as the largest and most complex single-day election in the world.
+
+2024-02-14T17:45:20+05:30
+### [Govt’s Action to Take down The Caravan’s Story ‘Gravely Infringes the Freedom of Press’: Press Club](https://thewire.in/media/govts-action-to-take-down-the-caravans-story-gravely-infringes-the-freedom-of-press-press-club)
+
+No Article text 
+'We request the MIB to withdraw its order directing the magazine to pull down the story. The Caravan reported on an important story and the people of the country have the right to know,' read the statement.
+
+2024-02-14T17:20:31+05:30
+### [Sonia Gandhi Moves to Rajya Sabha as Congress Names 10 Candidates for Upper House Polls](https://thewire.in/politics/sonia-gandhi-moves-to-rajya-sabha-as-congress-names-8-candidates-for-upper-house-polls)
+
+No Article text 
+Gandhi has become the second member of the Nehru-Gandhi family to move to the Upper House following her mother-in-law and former prime minister Indira Gandhi, who was an RS member from 1964 to 1967.
+
+2024-02-14T17:15:52+05:30
+### [Jokowi Anointed His Son and Social Media Reacted as You’d Expect](https://thewire.in/world/jokowi-anointed-his-son-and-social-media-reacted-as-youd-expect)
+
+No Article text 
+Every election, social media is ablaze with polarising content. This year it’s President Joko Widodo who’s stoked the flames.
+
+2024-02-14T17:00:41+05:30
+### [Journalists Hurt in Police Action While Covering Farmers' Protests: DUJ Expresses Deep Concern](https://thewire.in/media/journalists-hurt-in-police-action-while-covering-farmers-protests-duj-expresses-deep-concern)
+
+No Article text 
+Two journalists, Satender Chauhan and Niel Bhalinder Singh, suffered injuries while covering the protests at the Shambhu border on February 13, the journalists' body has noted in a press release.
+
+2024-02-14T16:45:11+05:30
+### [Manipur: Mob Attacks Imphal's Fifth Indian Reserve Battalion, Kills One, Loots Arms](https://thewire.in/government/manipur-imphal-mob-attack-fifth-indian-reserve-battalion)
+
+No Article text 
+Sources in local police said among arms looted by the mob were six AK-47 guns, four carbines, three knot rifles and two light machine guns, besides a large cache of ammunition.
+
+2024-02-14T16:30:59+05:30
+### [Watch | Ramachandra Guha On the Man Who Made Him an Author, Rukun Advani](https://thewire.in/books/watch-ramachandra-guha-on-the-man-who-made-him-an-author-rukun-advani)
+
+No Article text 
+From Guha’s account, Advani emerges as an extremely perceptive and insightful observer of human nature and character.
+
+2024-02-14T16:04:55+05:30
+### [How to Cut Through the Fog in Election Surveys](https://thewire.in/media/how-to-cut-through-the-fog-in-election-surveys)
+
+No Article text 
+Dig deep when you see a survey this election season. The recent India Today survey was based on computer assisted telephone interviews. 71% are despondent about the economy and think the situation may not improve. The margin of error can overturn the ‘results’ being projected.
+
+2024-02-14T15:22:51+05:30
+### [A Bharat Ratna for the Blotted Legacy of Narasimha Rao](https://thewire.in/politics/a-bharat-ratna-for-the-blotted-legacy-of-narasimha-rao)
+
+No Article text 
+Three events depict a politician that went to any length to retain power, threw the constitutional principles to wind and took ideological scruples for a ride.
+
+2024-02-14T14:41:26+05:30
+### [Umar Khalid Withdraws Bail Plea in Supreme Court, Citing ‘Change of Circumstances’](https://thewire.in/law/umar-khalid-withdraws-bail-plea-in-supreme-court-citing-change-of-circumstances)
+
+No Article text 
+Khalid, who has been in jail since September 2020, through his lawyer Kapil Sibal, said that he will ‘try his luck’ in a lower court.
+
+2024-02-14T14:40:10+05:30
+### ['Agenda Is to Silence Us': Key Social Media Accounts Withheld, Farmers Vow to Boycott Centre's Meetings](https://thewire.in/rights/farmers-social-media-accounts-withheld-protest)
+
+No Article text 
+Bhavjit Singh, who is now running the @Tractor2Twitr_i page on X said that these accounts were withheld as farmer leaders were sitting at a meeting with union ministers on February 12.
+
+2024-02-14T13:40:15+05:30
+### [400 Smart Cities Mission Projects Worth Rs 22,814 Crore Miss Deadline: Parliamentary Committee](https://thewire.in/urban/smart-cities-mission-22814-crore-miss-deadline)
+
+No Article text 
+Madurai in Tamil Nadu only city amongst 100 to have met the deadline. Severe problems, including its definition continue to haunt the Modi campaign promise of "100 Smart Cities” with projects set to even miss the new deadline of June 2024, as per officials.
+
+2024-02-14T13:13:02+05:30
+### [Pakistan's Anti-Army Vote May Deliver an Unstable Government Into the Military's Hands](https://thewire.in/south-asia/pakistans-anti-army-vote)
+
+No Article text 
+The result suggests that old tactics to intimidate and suppress voters largely didn’t work. But Pakistan's malaise is likely to continue.
+
+2024-02-14T13:12:02+05:30
+### [Names of ‘Indira’ and ‘Nargis’ Dropped From National Film Awards](https://thewire.in/government/names-of-indira-and-nargis-dropped-from-national-film-awards)
+
+No Article text 
+The ‘Indira Gandhi Award for Best Debut Film of a Director’ has been renamed as the ‘Best Debut Film of a Director'. Similarly, the ‘Nargis Dutt Award for Best Feature Film on National Integration’ will now be called the ‘Best Feature Film Promoting National, Social and Environmental Values’.
+
+2024-02-14T12:40:17+05:30
+### [Bilkis Bano Case: Gujarat Government Moves SC, Wants 'Adverse' Comments Dropped](https://thewire.in/law/bilkis-bano-case-gujarat-government-moves-sc-wants-adverse-comments-dropped)
+
+No Article text 
+In its appeal, the Gujarat government stated that the comments in the judgement related to the case were “not only highly unwarranted and against the record of the case, but has caused serious prejudice to the State”.
+
+2024-02-14T12:26:49+05:30
+### [SC Refuses to Stay Section of Law Allowing PM-Led Panel to Appoint Election Commissioners](https://thewire.in/law/supreme-court-chief-election-commissioner-act)
+
+No Article text 
+A section in the law goes against a judgment by a five-judge bench of the apex court in March 2022 which disapproved of the system brought in by the Union government.
+
+2024-02-14T12:20:07+05:30
+### ['PM Told Me to Keep Quiet' After Pulwama: What Satya Pal Malik Said About What Happened On This Day 5 Years Ago](https://thewire.in/politics/satya-pal-malik-full-interview-pulwama-modi)
+
+No Article text 
+Malik, who was governor during the Pulwama terrorist attack of February 2019 and the scrapping of Article 370 in August that year, says the prime minister is “ill-informed” and “ignorant” about Kashmir.
+
+2024-02-14T11:41:43+05:30
+### [India's Agricultural Exports on Path of Continuing Decline: Report](https://thewire.in/trade/indias-agricultural-exports-on-path-of-continuing-decline-report)
+
+No Article text 
+According to a report on The New Indian Express, India’s agri-export growth rate was 6% in 2022-2023. But it was 17% in 2020-2021.
+
+2024-02-14T11:15:27+05:30
+### [Farmers' Protest: Internet Shutdown to Continue in 7 Haryana Districts, Key X Accounts Withheld](https://thewire.in/rights/farmers-internet-haryana-twitter-accounts)
+
+No Article text 
+The Punjab and Haryana high court has asked why farmers should not be allowed to move through a National Highway seeing that they had the right to movement and assembly.
+
+2024-02-14T11:00:37+05:30
+### [South Africa Makes Urgent Request at ICJ Over Israel's Strikes in Rafah](https://thewire.in/world/south-africa-makes-urgent-request-at-icj-over-israels-strikes-in-rafah)
+
+No Article text 
+Even Israel's allies have raised questions on the strikes on Rafah and the toll they are taking on the civilian population.
+
+2024-02-14T10:35:28+05:30
+### [Gujarat: Dalit Groom Allegedly Forced Off Horse, Abused With Slurs](https://thewire.in/caste/gujarat-dalit-groom-allegedly-forced-off-horse-abused-with-slurs)
+
+No Article text 
+Four people have been arrested in the case.
+
+2024-02-14T10:06:41+05:30
+### [In Photos: Delhi's Singhu Border Is a Maze of Barricades as Govt Works to Keep Farmers Away](https://thewire.in/rights/in-photos-delhis-singhu-border-is-a-maze-of-barricades-as-govt-works-to-keep-farmers-away)
+
+No Article text 
+Over a hundred barricades and concrete boulders, fortified with barbed wire, have been erected along the roads, creating a formidable obstacle for the protesters.
+
+2024-02-14T09:45:05+05:30
+### [The Iron Claw Shows the Dark Side of American Individualism](https://thewire.in/film/the-iron-claw-shows-the-dark-side-of-american-individualism)
+
+No Article text 
+Director Sean Durkin uses the metaphor of American wrestling to show how a family becomes a cult.
+
+2024-02-14T09:14:35+05:30
+### [Honouring Adversaries Who Cannot Speak Is Realpolitik at its Canniest](https://thewire.in/politics/honouring-adversaries-who-cannot-speak-is-realpolitik-at-its-canniest)
+
+No Article text 
+At the touch of a finger tip, four dead and gone former adversaries have been elevated to totems of the highest national order.
+
+2024-02-14T09:03:21+05:30
+### [Investment of $2 Trillion Per Year Needed to Meet Global 2030 Renewable Energy Target](https://thewire.in/energy/investment-of-2-trillion-per-year-needed-to-meet-global-2030-renewable-energy-target)
+
+No Article text 
+In India, Prime Minister Narendra Modi has just announced a free solar electricity scheme which will provide ~one crore households up to 300 units of free solar energy.
+
+2024-02-14T08:32:10+05:30
+### [Manipur: Two More Men Killed on Tuesday; 4-Day Power Outage in Saikul District](https://thewire.in/security/manipur-two-more-men-killed-on-tuesday-4-day-power-outage-in-saikul-district)
+
+No Article text 
+Manipur has been facing ethnic violence and intense social divisions since May 3 last year.
+
+2024-02-14T08:30:38+05:30
+### [The Dangerous Drift: Last Chance To Thwart One-Party, One-Boss System](https://thewire.in/politics/dangerous-drift-narendra-modi-one-nation-one-election-2024-lok-sabha-polls)
+
+No Article text 
+The poll panel is already enslaved, simultaneous polls, changes in statutes for a one-leader system, and the establishment of a Hindu Rashtra: everything is moving as per the script.
+
+2024-02-14T08:19:50+05:30
+### [US NSA’s Visit to India This Month Postponed](https://thewire.in/diplomacy/us-nsas-visit-to-india-this-month-postponed)
+
+No Article text 
+Jake Sullivan was expected to visit New Delhi to coincide with the Raisina Dialogue, for a scheduled review of the bilateral Initiative on Critical and Emerging Technology.
+
+2024-02-14T08:00:39+05:30
+### [Was There Anything Truly Historic About Pakistan’s 2024 Elections?](https://thewire.in/south-asia/was-there-anything-truly-historic-about-pakistans-2024-elections)
+
+No Article text 
+Despite the fact that Pakistan has now completed three parliamentary terms of five years each, democracy has not progressed in the country.
+
 2024-02-14T01:57:02+05:30
 ### [Don’t Treat Our Annadatas as Criminals: MS Swaminathan’s Daughter on Govt Handling of Farmers’ Protest](https://thewire.in/politics/dont-treat-our-farmers-as-criminals-madhura-swaminathan)
 

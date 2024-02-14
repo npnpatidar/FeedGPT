@@ -1,3 +1,20 @@
+Wed, 14 Feb 2024 15:22:15 +0530
+### [Why Ladakh has turned to mass protests in freezing temperatures  | Explained](https://www.thehindu.com/news/national/ladakh-protests-meeting-cold-statehood-sixth-schedule-explainer-kargil-demands-shutdown/article67824047.ece)
+
+Article found but Couldn't summarize 
+What has triggered the current wave of protests in Leh and Kargil? What are Ladakhis demanding? What lies ahead?
+
+Wed, 14 Feb 2024 14:59:04 +0530
+### [Why 2024 could be the ‘make-or-break’ year for democracy | Explained](https://www.thehindu.com/news/international/world-democracy-elections-us-biden-trump-explained-india-mexico-pakistan-europe/article67744886.ece)
+
+Article found but Couldn't summarize 
+An analysis of key electoral battles and looming questions over democracy as 60 countries head to the polls in 2024.
+
+Wed, 14 Feb 2024 10:30:00 +0530
+### [Does frequently updating COVID-19 vaccines have any benefits? | Explained](https://www.thehindu.com/sci-tech/science/does-frequently-updating-covid-19-vaccines-have-any-benefits-explained/article67844070.ece)
+
+This article discusses the challenges faced in matching influenza and COVID-19 vaccines to the circulating strains of the viruses. Due to the long gestation period of vaccine development, strains may have drifted by the time vaccines reach the market. The effectiveness of the vaccines is influenced by the match between the strains included in the vaccine and those in circulation. The article highlights the decline in protection over time and the emergence of highly mutated variants, such as Omicron. Researchers emphasize the importance of updating vaccines to match new variants. A study suggests that updating vaccines can significantly improve neutralizing antibody titres and increase efficacy against future variants. However, there are factors to consider, including the distance between antigens in the updated vaccine and future variants. The study primarily focuses on humoral immunity conferred by antibodies and doesn't consider cellular immunity conferred by T-cells. The article also discusses the need for updated vaccines in India, taking into account the objective of preventing severe disease and the challenges of updating traditional influenza vaccines versus mRNA-based vaccines.
+
 Mon, 12 Feb 2024 18:20:34 +0530
 ### [The Centre’s big push for residential rooftop solar plans | Explained](https://www.thehindu.com/news/national/residential-rooftop-solar-programme-scheme-india-modi-explains-energy-electricity/article67813080.ece)
 
