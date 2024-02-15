@@ -1,3 +1,15 @@
+Fri, 16 Feb 2024 00:20:00 +0530
+### [Unbonded: On the striking down of the Electoral Bond Scheme by the Supreme Court](https://www.thehindu.com/opinion/editorial/unbonded-on-the-striking-down-of-the-electoral-bond-scheme-by-the-supreme-court/article67849827.ece)
+
+Article found but Couldn't summarize 
+The electoral bonds verdict is a blow for freedom of expression
+
+Fri, 16 Feb 2024 00:10:00 +0530
+### [A strongman at the helm: on Indonesia’s presidential election](https://www.thehindu.com/opinion/editorial/a-strongman-at-the-helm-on-indonesias-presidential-election/article67849801.ece)
+
+Article found but Couldn't summarize 
+Indonesia must avoid the trap of populist nativism of authoritarian rulers
+
 Thu, 15 Feb 2024 00:20:00 +0530
 ### [Farming consensus: On the government and the farmers on protest](https://www.thehindu.com/opinion/editorial/farming-consensus-on-the-government-and-the-farmers-on-protest/article67846219.ece)
 

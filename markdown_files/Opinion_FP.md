@@ -1,3 +1,45 @@
+Thu, 15 Feb 2024 19:34:42 +0530
+### [Vantage | What Zuckerberg's takedown of Apple's headset says about brand rivalries](https://www.firstpost.com/opinion/vantage-what-zuckerbergs-takedown-of-apples-headset-says-about-brand-rivalries-13732912.html)
+
+Article found but Couldn't summarize 
+Vantage | What Zuckerberg's takedown of Apple's headset says about brand rivalries
+
+Thu, 15 Feb 2024 18:45:34 +0530
+### [Why India should make hay while the sun shines](https://www.firstpost.com/opinion/why-india-should-make-hay-while-the-sun-shines-13732692.html)
+
+Article found but Couldn't summarize 
+Why India should make hay while the sun shines
+
+Thu, 15 Feb 2024 16:56:33 +0530
+### [The trade target story: How UPA government helped China grow at India’s expense](https://www.firstpost.com/opinion/the-trade-target-story-how-upa-government-helped-china-grow-at-indias-expense-13732062.html)
+
+Article found but Couldn't summarize 
+The trade target story: How UPA government helped China grow at India’s expense
+
+Thu, 15 Feb 2024 16:56:21 +0530
+### [Vantage | Why impeachment of Biden's cabinet secretary is a big deal](https://www.firstpost.com/opinion/vantage-why-impeachment-of-bidens-cabinet-secretary-is-a-big-deal-13731892.html)
+
+Article found but Couldn't summarize 
+Vantage | Why impeachment of Biden's cabinet secretary is a big deal
+
+Thu, 15 Feb 2024 15:17:27 +0530
+### [Vantage | Why Europe's charge of Indian firms 'helping' Russia doesn't quite add up](https://www.firstpost.com/opinion/vantage-why-europes-charge-of-indian-firms-helping-russia-doesnt-quite-add-up-13731402.html)
+
+Article found but Couldn't summarize 
+Vantage | Why Europe's charge of Indian firms 'helping' Russia doesn't quite add up
+
+Thu, 15 Feb 2024 12:58:09 +0530
+### [Why agriculture sector across the world needs to break socialist trap](https://www.firstpost.com/opinion/why-agriculture-sector-across-the-world-needs-to-break-socialist-trap-13730652.html)
+
+Article found but Couldn't summarize 
+Why agriculture sector across the world needs to break socialist trap
+
+Thu, 15 Feb 2024 10:45:19 +0530
+### [Why Indian Navy is a preferred partner in Indo-Pacific](https://www.firstpost.com/opinion/why-indian-navy-is-a-preferred-partner-in-indo-pacific-13729782.html)
+
+Article found but Couldn't summarize 
+Why Indian Navy is a preferred partner in Indo-Pacific
+
 Wed, 14 Feb 2024 18:10:04 +0530
 ### [Election results further divide Pakistan, expose deep rot and fissures](https://www.firstpost.com/opinion/election-results-further-divide-pakistan-expose-deep-rot-and-fissures-13727882.html)
 

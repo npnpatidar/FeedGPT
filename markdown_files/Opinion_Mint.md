@@ -1,3 +1,63 @@
+Fri, 16 Feb 2024 00:31:19 +0530
+### [We mustn't spread India’s social sector spending too thin](https://www.livemint.com/opinion/online-views/we-mustnt-spread-india-s-social-sector-spending-too-thin-11708010776338.html)
+
+Article found but Couldn't summarize 
+The political rhetoric on tackling poverty and ensuring social justice isn’t adequately reflected in our budget allocations, as many welfare programmes remain under-funded. We’d be better off focusing on a handful of initiatives.
+
+Fri, 16 Feb 2024 00:26:00 +0530
+### [India’s stock market stands apart as an enabler of mass prosperity](https://www.livemint.com/opinion/online-views/indias-stock-market-stands-apart-as-an-enabler-of-mass-prosperity-11708002933335.html)
+
+Article found but Couldn't summarize 
+The stock market plays a largely under-appreciated role in channelling funds to deserving enterprises that generate jobs at scale and we can expect India’s market to outperform its emerging peers.
+
+Fri, 16 Feb 2024 00:18:31 +0530
+### [The threat of US debt inflated away haunts the country’s fiscal outlook](https://www.livemint.com/opinion/online-views/the-threat-of-us-debt-inflated-away-haunts-the-country-s-fiscal-outlook-11708003014317.html)
+
+Article found but Couldn't summarize 
+A consensus on fiscal irresponsibility has lent this risk plausibility. Will the US Fed eventually be forced to let inflation rip in America?
+
+Fri, 16 Feb 2024 00:08:58 +0530
+### [We must find a congruence between living, learning and livelihood](https://www.livemint.com/opinion/online-views/we-must-find-a-congruence-between-living-learning-and-livelihood-11708003158392.html)
+
+Article found but Couldn't summarize 
+Our living is mostly insular, learning happens elsewhere and livelihood spaces are far removed from the other two spheres, while what we need is harmony among all three.
+
+Thu, 15 Feb 2024 18:59:29 +0530
+### [Rhetoric or reality: Focus on per capita](https://www.livemint.com/opinion/columns/rhetoric-or-reality-focus-on-per-capita-11708003227193.html)
+
+Article found but Couldn't summarize 
+If intellectual content matters, pay attention to the per capita, because becoming collectively heavier than a numerically smaller family is a pretty lightweight achievement.
+
+Thu, 15 Feb 2024 11:23:47 +0530
+### [Capital inflows: Balancing market gains with economic risks](https://www.livemint.com/opinion/online-views/capital-inflows-balancing-market-gains-with-economic-risks-11707972220649.html)
+
+Article found but Couldn't summarize 
+The influx of foreign capital can boost investment and wealth but may also lead to a stronger national currency, undermining export competitiveness
+
+Thu, 15 Feb 2024 09:28:55 +0530
+### [Our youth don’t favour all elections held in sync](https://www.livemint.com/opinion/online-views/our-youth-don-t-favour-all-elections-held-in-sync-11707921678584.html)
+
+Article found but Couldn't summarize 
+A sizeable demographic chunk of India is largely unconvinced of ‘one nation, one poll,’ as the latest YouGov-Mint-CPR Millennial Survey reveals, and it’s easy to understand why.
+
+Thu, 15 Feb 2024 08:00:21 +0530
+### [Pakistan's new government may be a compromise deal](https://www.livemint.com/opinion/quick-edit/pakistans-new-government-may-be-a-compromise-deal-11707922222331.html)
+
+Article found but Couldn't summarize 
+Could Shehbaz Sharif be its next PM? Perhaps it could keep internal squabbles down and give the army a grip on Pakistani public affairs.
+
+Thu, 15 Feb 2024 08:00:20 +0530
+### [There is no discord over India’s growth and employment trends](https://www.livemint.com/opinion/online-views/there-is-no-discord-over-india-s-growth-and-employment-trends-11707921811708.html)
+
+Article found but Couldn't summarize 
+Barring a covid-induced aberration, employment has been growing in line with the economy’s rise.
+
+Thu, 15 Feb 2024 08:00:19 +0530
+### [India’s most valuable conglomerate is an odd one. It’s run by a professional](https://www.livemint.com/opinion/indias-most-valuable-conglomerate-is-an-odd-one-it-s-run-by-a-professional-11707924286213.html)
+
+Article found but Couldn't summarize 
+In an ecosystem where most large business houses are run by founding families, an executive rising up the ranks has led one of the country’s oldest conglomerates to become its largest and most-valued
+
 Thu, 15 Feb 2024 01:12:21 +0530
 ### [An ISI okay for luxury labels: What’ll we think of next?](https://www.livemint.com/opinion/online-views/an-isi-okay-for-luxury-labels-what-ll-we-think-of-next-11707921877064.html)
 

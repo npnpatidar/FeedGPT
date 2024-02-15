@@ -1,3 +1,9 @@
+Thu, 15 Feb 2024 08:43:46 +0530
+### [Column | Gulkhand and a clouded mind](https://www.thehindu.com/opinion/columns/saba-mahjoor-bipolar-disorder-phuphee-mental-health-gulkhand-clouded-mind/article67841539.ece)
+
+Article found but Couldn't summarize 
+Not all ‘curses’ should be ignored, as Phuphee proves — this time with medical help and a bowl of ice cream
+
 Wed, 14 Feb 2024 00:30:00 +0530
 ### [Ind vs Eng Tests | The way things fit together is the essence of good selection](https://www.thehindu.com/opinion/columns/the-way-things-fit-together-is-the-essence-of-good-selection/article67841833.ece)
 

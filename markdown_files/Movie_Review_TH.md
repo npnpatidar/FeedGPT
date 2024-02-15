@@ -1,3 +1,27 @@
+Thu, 15 Feb 2024 17:06:09 +0530
+### [Geeta Chandran’s ‘Samagati’ introduced the  philosophical idea of  purushartha](https://www.thehindu.com/entertainment/dance/geeta-chandrans-samagati-introduced-the-philosophical-idea-of-purushartha/article67841381.ece)
+
+Article found but Couldn't summarize 
+The senior dancer explored various permutations and combinations of movements and formations to convey the essence of the theme
+
+Thu, 15 Feb 2024 17:02:46 +0530
+### [From Vrindavan to Delhi, the journey of a music festival](https://www.thehindu.com/entertainment/dance/from-vrindavan-to-delhi-the-journey-of-a-music-festival/article67845240.ece)
+
+Article found but Couldn't summarize 
+At the 25th edition of the Swami Haridas Tansen Sangeet Nritya Samaroh held recently, veteran Kathak dancer and curator Uma Sharma talks about how the festival has evolved
+
+Thu, 15 Feb 2024 16:48:59 +0530
+### [‘Bramayugam’ movie review: Mammootty’s performance elevates this middling film on the evils of unrestricted power](https://www.thehindu.com/entertainment/movies/bramayugam-movie-review-mammoottys-performance-elevates-this-middling-film-on-the-evils-of-unrestricted-power/article67848964.ece)
+
+Article found but Couldn't summarize 
+Director Rahul Sadasivan’s thriller elevates itself when it slowly transforms into a meditation on the nature of unquestioned power, and the way it brings out the worst in people, sometimes even the well-intentioned ones
+
+Thu, 15 Feb 2024 15:01:02 +0530
+### [‘Helldivers II’ game review: A Starship Troopers-inspired bug-stomping blast](https://www.thehindu.com/entertainment/reviews/helldivers-ii-game-review-a-starship-troopers-inspired-bug-stomping-blast/article67848461.ece)
+
+Article found but Couldn't summarize 
+Giant bugs, brutal gameplay, and absurd humor: Helldivers II is 2024’s must-play co-op game
+
 Wed, 14 Feb 2024 13:30:55 +0530
 ### [‘Suicide Squad: Kill the Justice League’ game review: A crisis of identity](https://www.thehindu.com/entertainment/suicide-squad-kill-the-justice-league-game-review/article67841619.ece)
 

@@ -1,3 +1,183 @@
+2024-02-15T22:36:27+05:30
+### [Green Fields, Red Flags: Far-Right Authoritarian Tactics, Propaganda, and Alternative Reality](https://thewire.in/world/green-fields-red-flags-far-right-authoritarian-tactics-propaganda-and-alternative-reality)
+
+No Article text 
+In both Europe and India, far-right parties exhibit a common pattern of lacking a concrete plan to address the fundamental issues confronting farmers. Instead, they resort to a propaganda-driven approach to manipulate public opinion and perpetuate their hold on power.
+
+2024-02-15T21:49:28+05:30
+### [What Needs to Be Disclosed by March 31: 5 Charts to Gauge the Cash Flow Through Electoral Bonds](https://thewire.in/government/charts-electoral-bonds-supreme-court-quashed)
+
+No Article text 
+Numbers reflect the BJP's significant and towering gains from a scheme now deemed in violation of the right to information.
+
+2024-02-15T21:06:36+05:30
+### [Electoral Bonds Scheme Violative of Voter’s Right to Information: Top Quotes From the Supreme Court](https://thewire.in/law/electoral-bonds-top-supreme-court-quotes)
+
+No Article text 
+'Information about political funding would enable a voter to assess if there is a correlation between policymaking and financial contributions,' said the top court.
+
+2024-02-15T20:34:08+05:30
+### [Farmers at Shambhu Barrier Vow Not to Return Until Centre Enacts a Law on MSP](https://thewire.in/rights/farmers-at-shambhu-barrier-vow-not-to-return-until-centre-enacts-a-law-on-msp)
+
+No Article text 
+The Centre sets a minimum support price (MSP) for 23 crops, yet there is no provision to ensure that crops other than wheat and paddy are procured at the government-announced MSP.
+
+2024-02-15T19:30:44+05:30
+### [Electoral Bonds: Opposition Hails Supreme Court Order Striking Down ‘Medium of Taking Bribes’](https://thewire.in/politics/opposition-hails-supreme-court-order-striking-down-electoral-bonds)
+
+No Article text 
+The BJP on the other hand has said that while it respects the Supreme Court’s order, the scheme was brought in to bring “transparency” in electoral funding.
+
+2024-02-15T19:30:15+05:30
+### [At Doha Meeting, PM Modi Expresses 'Deep Appreciation' to Qatar Emir for Release of 8 Indians](https://thewire.in/diplomacy/modi-qatar-emir-indians-pardon-appreciation)
+
+No Article text 
+India avoided explicitly using the term 'pardon' in its public statements, yet the premature release of the men before their legal proceedings concluded spoke volumes about the situation.
+
+2024-02-15T19:03:01+05:30
+### [Gandhi’s ‘Doctrine of Frightfulness’ Charge Against the British is Just as Relevant for India Today](https://thewire.in/government/gandhis-doctrine-of-frightfulness-british-modi-india)
+
+No Article text 
+Those sections of the media which question the Modi regime are under attack and opposition parties are being split.
+
+2024-02-15T19:00:44+05:30
+### [‘We Need a Politics Which Is Inclusive, Rather Than Exclusive’: What Manmohan Singh Said in 1999](https://thewire.in/politics/we-need-a-politics-which-is-inclusive-rather-than-exclusive-what-manmohan-singh-said-in-1999)
+
+No Article text 
+'We need a deep change in the mindsets of our people, in their thinking, at all levels. And more so in the mindsets of those who constitute our leaders,' the former prime minister had told Karan Thapar in an interview.
+
+2024-02-15T18:58:57+05:30
+### ['Being Treated as If We Are From Pakistan and Shambhu Barrier Is India-Pak Border'](https://thewire.in/agriculture/pakistan-india-farmer-shambhu-medical-cost)
+
+No Article text 
+Most farmers admitted at the Rajpura government hospital have lacerated wounds which take a long time to heal. These were sustained after Haryana police and security forces fired pellets and tear gas on them.
+
+2024-02-15T18:00:18+05:30
+### [How Karnataka Is Delivering Rations to People Aged 90 and Above](https://thewire.in/government/how-karnataka-is-delivering-rations-to-people-aged-90-and-above)
+
+No Article text 
+Through Anna Suvidha, launched in October 2023, the government is delivering rations to the doorstep of nonagenarians and centenarians living alone.
+
+2024-02-15T17:21:38+05:30
+### [Cloud Over INDIA Bloc as Farooq Abdullah Says National Conference Will Go it Alone in LS Polls](https://thewire.in/politics/cloud-over-india-bloc-as-farooq-abdullah-says-national-conference-will-go-it-alone)
+
+No Article text 
+Significantly, the veteran Kashmir leader who had been one of the main votaries of a united anti-NDA force, did not rule out returning to the NDA in the future.
+
+2024-02-15T17:00:34+05:30
+### [A Planetary Perspective](https://thewire.in/environment/a-planetary-perspective)
+
+No Article text 
+Earth was born about four and a half billion years ago, alongside several sibling planets, all of them formed from fragments of material left over after the birth of the Sun.
+
+2024-02-15T16:15:17+05:30
+### ['Part of Secret Ballot': How the Modi Govt Backed Electoral Bonds in the Supreme Court](https://thewire.in/government/part-of-secret-ballot-how-the-modi-govt-backed-electoral-bonds-in-the-supreme-court)
+
+No Article text 
+The government had claimed that “donating money to one’s preferred party is a form of political self-expression that lies at the heart of privacy”.
+
+2024-02-15T16:00:11+05:30
+### [Survey Finds Deep Economic Discontent, Job Pessimism; 52% Say Modi's Policies Favour 'Big Business'](https://thewire.in/economy/survey-finds-deep-economic-discontent-job-pessimism-52-say-modis-policies-favour-big-business)
+
+No Article text 
+The first ‘Mood of the Nation’ poll of 2024 rings alarm bells on deep economic anxiety. This is borne out by the latest RBI consumer confidence survey.
+
+2024-02-15T15:50:03+05:30
+### [How CAA and Welfare Schemes Have Divided the Matuas in Bengal](https://thewire.in/caste/how-caa-and-welfare-schemes-have-divided-the-matuas-in-bengal)
+
+No Article text 
+Within the Matua community, in spite of the politics at play, there is a growing concern over prioritising Hindutva over social reform.
+
+2024-02-15T15:20:10+05:30
+### [Delhi Police Orders 30,000 Tear Gas Shells Ahead of Farmers’ Protest March Towards the Capital](https://thewire.in/government/delhi-police-orders-30000-tear-gas-shells-ahead-of-farmers-protest-march-towards-the-capital)
+
+No Article text 
+According to reports, Delhi Police “has made all logistical arrangements to stop the farmers at the Singhu (Sonipat side), Tikri (Bahadurgarh side) and Ghazipur (Ghaziabad side) borders”.
+
+2024-02-15T15:00:31+05:30
+### [After RLD Exit, Now SP Faces a New Crisis in UP Over Commitment Towards OBCs](https://thewire.in/politics/after-rld-exit-now-sp-faces-a-new-crisis-in-up-over-commitment-towards-obcs)
+
+No Article text 
+Maurya's resignation not only coincides with the nomination for the RS polls but also closely follows the SP declaring its Lok Sabha candidate in Budaun – where his daughter is currently the sitting BJP MP.
+
+2024-02-15T14:50:00+05:30
+### [Farmers Protest: Barricades, Concertina Wire, and Spikes on the Road. So, What’s New?](https://thewire.in/rights/farmers-protest-barricades-concertina-wire-and-spikes-on-the-road-so-whats-new)
+
+No Article text 
+Whatever the outcome of this protest and attempted march to Delhi is, one thing is clear – the government of the day now stands completely exposed in its unwillingness and inability to keep any of its promises to India’s farmers.
+
+2024-02-15T14:19:47+05:30
+### [IT Ministry Decides to Block Proton Mail After Fake Bomb Threats in Tamil Nadu: Report](https://thewire.in/government/it-ministry-decides-to-block-proton-mail-after-fake-bomb-threats-in-tamil-nadu-report)
+
+No Article text 
+An officer representing the Tamil Nadu police said during a content blocking committee meeting that they were unable to trace the perpetrators behind fake bomb threats sent to schools using Proton Mail.
+
+2024-02-15T13:41:04+05:30
+### [Farmers' Protest: Modi Government Used British-Era Law to Give Itself Powers to Suspend Internet](https://thewire.in/agriculture/farmers-protest-modi-government-used-british-era-law-to-give-itself-powers-to-suspend-internet)
+
+No Article text 
+This time the Union government suspended internet within the jurisdiction of 20 police stations in Patiala, SAS Nagar, Bathinda, Sri Mukhtsar Sahib, Mansa, Sangrur and Fatehgarh Sahib.
+
+2024-02-15T13:02:19+05:30
+### [Electoral Bonds Are Illegal Now. But Who Benefitted for the 6+ Years They Lasted?](https://thewire.in/politics/electoral-bonds-are-illegal-now-but-who-benefited-for-the-6-years-they-lasted)
+
+No Article text 
+Money that exchanged hands through electoral bonds has already funded two general election cycles and multiple state elections.
+
+2024-02-15T12:47:23+05:30
+### [Jammu: Gunfight at International Border After Pakistan Violates Ceasefire](https://thewire.in/security/jammu-gunfight-at-international-border-after-pakistan-violates-ceasefire)
+
+No Article text 
+Firing began at 5.50 pm, the BSF said, and continued for around 25 minutes, stopping at around 6.15 pm.
+
+2024-02-15T12:30:40+05:30
+### [BJP Received Almost 90% of All Corporate Donations to Political Parties in 2022-23](https://thewire.in/politics/bjp-received-almost-90-of-all-corporate-donations-to-political-parties-in-2022-23)
+
+No Article text 
+According to the election watchdog’s report, the total donations declared by the national parties for 2022-23 was Rs 850.438 crore of which Rs 719.858 crore went to the BJP alone.
+
+2024-02-15T11:58:48+05:30
+### [Rajasthan: Muslim Groups Urge Citizens Not to Take Part in Govt Schools' Surya Namaskar Programmes](https://thewire.in/education/rajasthan-muslim-groups-urge-citizens-not-to-take-part-in-govt-schools-surya-namaskar-programmes)
+
+No Article text 
+The Rajasthan high court on Wednesday dismissed a petition challenging the order issued by the Rajasthan Secondary Education Department, Bikaner last month.
+
+2024-02-15T11:25:17+05:30
+### [Gujarat: Only 32 of 2 Lakh+ Educated Unemployed Got Government Jobs in Two Years](https://thewire.in/labour/gujarat-only-32-of-2-lakh-educated-unemployed-got-government-jobs-in-two-years)
+
+No Article text 
+Of the 32 people who got government jobs, 22 were in Ahmedabad, nine in Bhavnagar and one in Gandhinagar.
+
+2024-02-15T11:08:28+05:30
+### ['Unconstitutional': SC Strikes Down Electoral Bonds Scheme, Orders Disclosure of Donation Details](https://thewire.in/law/supreme-court-electoral-bonds-quash-anonymous)
+
+No Article text 
+The electoral bond scheme was brought by the Narendra Modi government early in 2018. The SC has now asked the State Bank of India to furnish the details of donations through electoral bonds and of political parties which received the contributions.
+
+2024-02-15T10:37:53+05:30
+### [Watch | Modi's 10 Years Have Created Fragile 82 Crore Indians on Free Rations: Parakala Prabhakar](https://thewire.in/economy/watch-modis-10-years-have-created-fragile-82-crore-indians-on-free-rations-parakala-prabhakar)
+
+No Article text 
+Prabhakar systematically demolishes the Modi government's claim that it has helped the poor, farmers, youth and women by delivering welfare at scale over 10 years.
+
+2024-02-15T09:26:27+05:30
+### [As Over 100 Injured, Samyukt Kisan Morcha to Protest Against Attacks on Farmers](https://thewire.in/rights/skm-to-protest-in-punjab-on-thursday-against-attacks-on-farmers-in-haryana)
+
+No Article text 
+The SKM has also announced a 'Gramin Bharat Bandh' on February 16.
+
+2024-02-15T08:00:19+05:30
+### [Seminar on SC's Judicial Trends and Civil Liberties to Be Held in New Delhi on February 24](https://thewire.in/law/seminar-on-scs-judicial-trends-and-civil-liberties-to-be-held-in-new-delhi-on-february-24)
+
+No Article text 
+Among the issues expected to be covered are selective listing or non-listing of cases, the shift from an open-court system to a closed-door email-based system, and non-compliance with rules and procedures.
+
+2024-02-15T07:30:26+05:30
+### [Indonesia Elections: Jokowi Leaves, But Lives](https://thewire.in/world/jokowi-leaves-but-lives)
+
+No Article text 
+Jokowi’s transformation from a rank outsider to a consummate insider has reached its final lap. With his son Gibran Raka as the new vice president-elect, we can expect the Jokowi legacy to live on.
+
 2024-02-15T00:15:48+05:30
 ### [Modi Inaugurates Hindu Temple in Abu Dhabi](https://thewire.in/diplomacy/modi-inaugurates-baps-temple-in-uae)
 

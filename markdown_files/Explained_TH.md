@@ -1,3 +1,15 @@
+Thu, 15 Feb 2024 18:38:24 +0530
+### [Prabowo Subianto | From Indonesia’s ‘strongman’ General to ‘cute-and-cuddly’ presidential candidate](https://www.thehindu.com/news/international/prabowo-subianto-from-indonesias-strongman-general-to-cute-and-cuddly-presidential-candidate/article67844801.ece)
+
+Article found but Couldn't summarize 
+From a soldier to a statesman, Prabowo Subianto’s campaign has been popular yet polarising, an ideological fissure representing the complex idea of democracy within Indonesia
+
+Thu, 15 Feb 2024 17:30:08 +0530
+### [Why did the Supreme Court strike down the electoral bonds scheme? | Explained](https://www.thehindu.com/news/national/why-did-the-supreme-court-strike-down-the-electoral-bonds-scheme-explained/article67848657.ece)
+
+Article found but Couldn't summarize 
+Key takeaways from the verdict on electoral bonds, ranging from donor privacy to the scope of the right to information
+
 Wed, 14 Feb 2024 15:22:15 +0530
 ### [Why Ladakh has turned to mass protests in freezing temperatures  | Explained](https://www.thehindu.com/news/national/ladakh-protests-meeting-cold-statehood-sixth-schedule-explainer-kargil-demands-shutdown/article67824047.ece)
 
