@@ -1,3 +1,8 @@
+Thu, 15 Feb 2024 00:30:35 +0000
+### [Can parties receive anonymous donations? Arguments before the Supreme Court in electoral bonds petitions](https://indianexpress.com/article/explained/explained-law/supreme-cour-electoral-bond-verdict-anonymous-donations-9162164/)
+
+The Supreme Court is deciding whether to strike down the central government's electoral bonds scheme, which allows anonymous donations to political parties through purchasing bonds from the State Bank of India. The petitioners argue that the scheme prevents citizens from knowing the source of donations and favors the ruling government. They also highlight gaps in the scheme, such as the lack of requirement for the donation to be connected to elections. The central government justifies the scheme by emphasizing confidentiality rather than anonymity and explaining their efforts to curb black money in politics. BCCI secretary Jay Shah emphasizes that centrally contracted players must participate in domestic red ball tournaments, considering guidance from the national cricket academy for players with physical limitations.
+
 Wed, 14 Feb 2024 14:31:48 +0000
 ### [Do high levels of ‘good’ cholesterol mean lower risk of heart disease? How HDL-C is actually linked to cardiovascular health](https://indianexpress.com/article/explained/explained-health/how-hdl-c-is-actually-linked-to-cardiovascular-health-9160272/)
 

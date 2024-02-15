@@ -10,6 +10,12 @@ Wed, 14 Feb 2024 20:44:28 +0530
 Article found but Couldn't summarize 
 BAPS Mandir in Abu Dhabi: The idols inside the temple revealed
 
+Wed, 14 Feb 2024 20:44:15 +0530
+### [FirstUp: Farmers meet with Union ministers, India Vs England in Rajkot … The big news today](https://www.firstpost.com/explainers/firstup-farmers-meet-with-union-ministers-india-vs-england-in-rajkot-the-big-news-today-13728372.html)
+
+Article found but Couldn't summarize 
+FirstUp: Farmers meet with Union ministers, India Vs England in Rajkot … The big news today
+
 Wed, 14 Feb 2024 19:33:10 +0530
 ### [PM Modi inaugurates BAPS temple in Abu Dhabi: What the Hindu mandir in UAE signals](https://www.firstpost.com/explainers/pm-narendra-modi-abu-dhabi-baps-temple-inauguration-what-the-hindu-mandir-in-uae-signals-13727332.html)
 
