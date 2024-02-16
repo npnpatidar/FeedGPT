@@ -1,3 +1,8 @@
+Thu, 15 Feb 2024 20:57:41 +0530
+### [FirstUp: Gramin Bharat Bandh, Nyay Jodo Yatra in UP... today's big stories](https://www.firstpost.com/explainers/firstup-gramin-bharat-bandh-nyay-jodo-yatra-in-up-todays-big-stories-13733022.html)
+
+On Friday, the Samyukt Kisan Morcha (SKM) called for a Gramin Bharat Bandh, urging farmer organizations to participate. The protest started at 6 am and ended at 4 pm, with a chakka jam (road blockade) from 12 pm to 4 pm. Transportation, rural industrial, private, and service sector businesses remained closed, while emergency services continued unaffected. The SKM demanded Minimum Support Price for crops and criticized the government for its handling of the farmers' protests. Prime Minister Narendra Modi laid the foundation stone for the Gurugram metro rail project and AIIMS Rewari. Rahul Gandhi's Bharat Jodo Nyay Yatra entered Uttar Pradesh, and a court heard an arrest warrant for Louise Khurshid in a case involving alleged misuse of government funds. India and England faced off in the third test match in Rajkot, and tennis legend John McEnroe celebrated his 65th birthday.
+
 Thu, 15 Feb 2024 19:58:34 +0530
 ### [Elon Musk's SpaceX has left Delaware for Texas. Here's what happened](https://www.firstpost.com/explainers/elon-musks-spacex-has-left-delaware-for-texas-heres-what-happened-13732722.html)
 
