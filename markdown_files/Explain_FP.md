@@ -1,3 +1,105 @@
+Fri, 16 Feb 2024 21:01:55 +0530
+### [What Alexei Navalny did a day before his death](https://www.firstpost.com/sports/what-alexei-navalny-did-a-day-before-his-death-13736542.html)
+
+Russian opposition leader Alexei Navalny died at the age of 47 on Friday. The day before his death, Navalny appeared in good spirits during a court appearance via video conference from the penal colony where he was being held. In the video, Navalny made jokes about his finances and even the judge's salary, with officials in the court smiling along. Navalny had been sentenced to solitary confinement multiple times since his imprisonment. On Friday, it was announced that Navalny collapsed and died at the prison colony, with the cause of death still being determined. World leaders and activists quickly blamed Putin for Navalny's death, with Ukrainian president Volodymyr Zelenskyy stating that Putin must be held responsible. The news of Navalny's death brought renewed criticism and outrage towards the Kremlin leader, but it is unclear if large protests will follow.
+
+Fri, 16 Feb 2024 20:21:10 +0530
+### [Say No to Partying: Why Gen Z in the UK is ditching nightclubs](https://www.firstpost.com/explainers/why-gen-z-in-the-uk-is-ditching-nightclubs-13736422.html)
+
+The COVID-19 pandemic has led to the closure of many nightclubs in the UK, with 31% of them shutting down since March 2020. Major nightclub chain Rekom announced the closure of 17 venues, resulting in 500 job losses. The cost of living crisis and changing habits of younger generations, such as drinking less alcohol and seeking alternative nighttime entertainment, have contributed to the decline in club attendance. The Night Time Industries Association (NTIA) has called for government intervention and financial relief for struggling nightclubs.
+
+Fri, 16 Feb 2024 19:40:42 +0530
+### [Alexei Navalny dead at 47: Remembering Putin critic who remained defiant to the end](https://www.firstpost.com/explainers/alexei-navalny-dead-at-47-remembering-putin-critic-who-remained-defiant-to-the-end-13736402.html)
+
+Article found but Couldn't summarize 
+Alexei Navalny dead at 47: Remembering Putin critic who remained defiant to the end
+
+Fri, 16 Feb 2024 18:10:47 +0530
+### [Family Planning: How many children are too many?](https://www.firstpost.com/explainers/family-planning-how-many-children-are-too-many-13735682.html)
+
+This article explores the ethical considerations surrounding procreation and the impact of having children on the environment. It argues that while having a child is often seen as a personal choice, it can have significant consequences for the planet. The article discusses various viewpoints on the matter, including the environmental impact of having a large family and the moral responsibility to reduce one's contribution to overpopulation. The author suggests that balancing these moral considerations may involve limiting family size or considering alternative options such as adoption. Overall, the article encourages prospective parents to reflect on the moral dimensions of procreation and its significance to their life plans.
+
+Fri, 16 Feb 2024 17:57:44 +0530
+### [Greece legalises same-sex marriages: Will other Orthodox nations follow suit?](https://www.firstpost.com/explainers/greece-legalises-same-sex-marriages-will-other-orthodox-nations-follow-suit-13735712.html)
+
+Article found but Couldn't summarize 
+Greece legalises same-sex marriages: Will other Orthodox nations follow suit?
+
+Fri, 16 Feb 2024 17:22:34 +0530
+### [Were Rs 115 crore of Congress frozen? The bank accounts row, explained](https://www.firstpost.com/explainers/congress-bank-accounts-row-income-tax-department-rs-115-crore-frozen-13735692.html)
+
+The Income Tax department froze four bank accounts belonging to the Indian National Congress, prompting the party to criticize the move as an "assault on democracy." The freeze was reportedly due to the party's delayed filing of income tax returns. Congress leaders expressed their outrage, with Congress President Mallikarjun Kharge calling it a "deep assault on India's Democracy." However, the Income Tax Appellate Tribunal later allowed the party to operate its accounts until the next hearing on February 21. The tribunal also instructed the party to keep Rs 115 crore in the accounts as collateral.
+
+Fri, 16 Feb 2024 16:59:59 +0530
+### [Why has Iran claimed Antarctica? Should the world worry?](https://www.firstpost.com/explainers/why-has-iran-claimed-antarctica-should-the-world-worry-13735262.html)
+
+Iran has claimed ownership of Antarctica and announced plans to raise its flag and carry out military and scientific work there. The country's naval chief, Rear Admiral Shahram Irani, stated that Iran has "property rights" in the South Pole. The Antarctic Treaty, signed by multiple nations in 1959, did not address claims of territorial sovereignty but prohibited military bases, weapons testing, and radioactive waste disposal. Iran's aspirations to expand its naval presence and extend its reach as far as Antarctica have raised concerns among experts who view it as a continuation of the regime's aggression. The US State Department clarified that Iranian funds held in Qatar cannot be used for activities in Antarctica.
+
+Fri, 16 Feb 2024 16:28:12 +0530
+### [SC verdict on electoral bonds: What next for SBI? Will we know the names of donors soon?](https://www.firstpost.com/explainers/supreme-court-electoral-bonds-scheme-verdict-what-next-for-sbi-donors-names-eci-13734862.html)
+
+The Supreme Court of India has declared the country's electoral bonds scheme unconstitutional, ruling that it violated citizens' right to information and freedom of speech. The court also directed the State Bank of India (SBI) to stop issuing electoral bonds immediately. Electoral bonds are instruments that allow citizens or entities to donate funds to political parties anonymously. The court's decision comes ahead of the upcoming Lok Sabha elections. The SBI has been instructed to provide details of electoral bonds purchased since April 12, 2019, to the Election Commission of India by March 6, 2024, for public disclosure.
+
+Fri, 16 Feb 2024 16:11:31 +0530
+### [Daddy Issues: The case of UK man who mixed his sperm with his father’s to get wife pregnant](https://www.firstpost.com/explainers/daddy-issues-the-case-of-uk-man-who-mixed-his-sperm-with-his-fathers-to-get-wife-pregnant-13735002.html)
+
+A man from Barnsley, England, mixed his sperm with his father's to help his partner get pregnant due to their inability to afford IVF treatment. The couple had a son through this arrangement. Barnsley Council took the man to court to determine the child's parentage, but a High Court judge ruled that he would not be forced to take a paternity test. The judge acknowledged the unique circumstances and potential emotional harm to the child but stated that it was up to the family to manage the welfare risks. The article also mentions other cases of sperm mix-ups in fertility clinics.
+
+Fri, 16 Feb 2024 15:01:00 +0530
+### [What is Munich Security Conference, called the Davos of Defence?](https://www.firstpost.com/explainers/what-is-munich-security-conference-called-the-davos-of-defence-13734852.html)
+
+The Munich Global Security Conference, also known as the MSC, is commencing with the participation of top world leaders such as German Chancellor Olaf Scholz, US Vice President Kamala Harris, Ukraine's President Volodymyr Zelenskyy, Israel's President Isaac Herzog, and Palestinian Prime Minister Mohammad Shtayyeh. The conference, now in its 60th edition, serves as a forum for discussing international security policy and brings together over 450 people including heads of state, ministers, business representatives, and thought leaders. This year's conference is taking place against the backdrop of the Russia-Ukraine war and the Israel-Hamas conflict. Key topics of discussion will include regional spillover concerns, global rules and regulations, and strategic autonomy for European countries.
+
+Fri, 16 Feb 2024 13:39:11 +0530
+### [Pet groomers punch dog in Maharashtra: Do India's animal cruelty laws need a relook?](https://www.firstpost.com/explainers/pet-groomers-punch-dog-in-maharashtra-do-indias-animal-cruelty-laws-need-a-relook-13734712.html)
+
+Article found but Couldn't summarize 
+Pet groomers punch dog in Maharashtra: Do India's animal cruelty laws need a relook?
+
+Fri, 16 Feb 2024 13:24:20 +0530
+### [Did Indian-origin techie kill his wife, twins before shooting himself in California home?](https://www.firstpost.com/explainers/did-indian-origin-techie-kill-his-wife-twins-before-shooting-himself-in-california-home-13734662.html)
+
+An Indian-origin family in California, consisting of Anand Henry, 37, his wife Alice Benziger, 36, and their four-year-old twin sons, was found dead in their home. The police suspect that Anand Henry killed his wife and children before committing suicide. The investigation is ongoing, and the motive is yet to be determined. There was no history of violence at the home, and no suicide note was found. Anand Henry had been living in the US for nine years and was a former software engineer. He founded his own artificial intelligence company after leaving his previous job. The police urge the community to seek domestic violence and mental health resources to prevent incidents like this in the future.
+
+Fri, 16 Feb 2024 12:59:45 +0530
+### [BrahMos, ammo &amp; more: A look at weapons India exports](https://www.firstpost.com/explainers/brahmos-missiles-ammunition-more-a-look-at-india-defence-exports-13733092.html)
+
+Article found but Couldn't summarize 
+BrahMos, ammo &amp;amp; more: A look at weapons India exports
+
+Fri, 16 Feb 2024 12:35:10 +0530
+### [Is Russia developing a space-based nuclear weapon? Why is the US so concerned?](https://www.firstpost.com/explainers/is-russia-developing-a-space-based-nuclear-weapon-why-is-the-us-so-concerned-13734382.html)
+
+The White House has announced that Russia is developing a space-based anti-satellite weapon, causing concerns for the United States. While the exact nature of the weapon remains unclear, it could potentially compromise communication systems, surveillance capabilities, intelligence gathering, and command and control operations globally. The United States does not have the ability to counter such a weapon. The threat does not pose an immediate danger to people on Earth, according to the National Security Council. Russia has denied these claims, labeling them as unfounded and suggesting they are a tactic to push through a Ukrainian war aid package. The weapon would violate the 1967 Outer Space Treaty, which prohibits the deployment of nuclear weapons in space. US President Joe Biden has been informed and officials have been directed to contact Moscow regarding the weapon.
+
+Fri, 16 Feb 2024 12:29:38 +0530
+### [A cop’s selfie is at the centre of the latest unrest in Manipur. Here’s what happened](https://www.firstpost.com/explainers/a-cops-selfie-is-at-the-centre-of-the-latest-unrest-in-manipur-heres-what-happened-13734472.html)
+
+Tension erupted in Manipur's Churachandpur town as a mob turned violent, setting police vehicles and part of the district collector's office on fire. The protests began after a head constable, belonging to the Kuki tribe, was suspended for taking a selfie with "armed miscreants." The mob clashed with security forces, resulting in two deaths and several injuries. The situation remains tense with internet services suspended in the area. The conflict in Manipur has been ongoing between the Meiteis and the Kuki-Zo tribes, resulting in numerous casualties and displacements.
+
+Fri, 16 Feb 2024 11:32:26 +0530
+### [Digital twin created of Hyderabad's 16th-Century Quli Qutb Shah Tombs: What is it?](https://www.firstpost.com/explainers/digital-twin-created-of-hyderabads-16th-century-quli-qutb-shah-tombs-what-is-it-13733602.html)
+
+A reality tech firm has created a digital twin of the Mohammed Quli Qutb Shah Tombs in Hyderabad, India. The digital twin is a detailed replica of the historical tombs from the 16th century, created using reality capture, geospatial mapping, and 3D scanning technologies. The goal is to improve the visitor experience and preserve the landmark, with hopes of obtaining a UNESCO World Heritage tag. The digital twin allows people to view the tomb from various perspectives and enables real-time analytics, data-driven decision-making, visualizations, and simulations. This digital preservation initiative is part of a larger effort to protect cultural heritage sites and advance smart cities.
+
+Fri, 16 Feb 2024 10:57:30 +0530
+### [Sahil Omar: The 44-year-old man who is ‘linked’ to the Super Bowl parade shooting](https://www.firstpost.com/explainers/sahil-omar-the-44-year-old-man-who-is-linked-to-the-super-bowl-parade-shooting-13734032.html)
+
+Article found but Couldn't summarize 
+Sahil Omar: The 44-year-old man who is ‘linked’ to the Super Bowl parade shooting
+
+Fri, 16 Feb 2024 09:44:09 +0530
+### [Donald Trump to go on trial in hush money case from 25 March: What’s it all about?](https://www.firstpost.com/explainers/donald-trump-to-go-on-trial-in-hush-money-case-from-25-march-whats-it-all-about-13733642.html)
+
+Article found but Couldn't summarize 
+Donald Trump to go on trial in hush money case from 25 March: What’s it all about?
+
+Fri, 16 Feb 2024 08:03:24 +0530
+### [Gramin Bharat Bandh today. What will be open, what will be shut?](https://www.firstpost.com/explainers/gramin-bharat-bandh-today-what-will-be-open-what-will-be-shut-13732252.html)
+
+Article found but Couldn't summarize 
+Gramin Bharat Bandh today. What will be open, what will be shut?
+
 Thu, 15 Feb 2024 20:57:41 +0530
 ### [FirstUp: Gramin Bharat Bandh, Nyay Jodo Yatra in UP... today's big stories](https://www.firstpost.com/explainers/firstup-gramin-bharat-bandh-nyay-jodo-yatra-in-up-todays-big-stories-13733022.html)
 

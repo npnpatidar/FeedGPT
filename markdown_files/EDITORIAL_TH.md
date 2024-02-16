@@ -1,3 +1,15 @@
+Sat, 17 Feb 2024 00:20:00 +0530
+### [Brave new world: On the India-European Free Trade Association  agreement and IPR](https://www.thehindu.com/opinion/editorial/brave-new-world-on-the-india-european-free-trade-association-agreement-and-ipr/article67853988.ece)
+
+Article found but Couldn't summarize 
+India must invest in fundamental research to be able to develop reliable drugs
+
+Sat, 17 Feb 2024 00:10:00 +0530
+### [Scuttling opposition: On Income-Tax department action against the Congress](https://www.thehindu.com/opinion/editorial/scuttling-opposition-on-income-tax-department-action-against-the-congress/article67854023.ece)
+
+Article found but Couldn't summarize 
+Income-Tax department’s freezing of Congress accounts seems political
+
 Fri, 16 Feb 2024 00:20:00 +0530
 ### [Unbonded: On the striking down of the Electoral Bond Scheme by the Supreme Court](https://www.thehindu.com/opinion/editorial/unbonded-on-the-striking-down-of-the-electoral-bond-scheme-by-the-supreme-court/article67849827.ece)
 

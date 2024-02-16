@@ -1,3 +1,27 @@
+Fri, 16 Feb 2024 13:41:01 +0530
+### [What explains the market-analyst divide on Hindalco?](https://www.livemint.com/opinion/online-views/what-explains-the-market-analyst-divide-on-hindalco-11708067381355.html)
+
+Article found but Couldn't summarize 
+Prospects look promising for Hindalco. The market may have over-reacted to bad news
+
+Fri, 16 Feb 2024 08:00:12 +0530
+### [It’s time for the right to log off](https://www.livemint.com/opinion/quick-edit/its-time-for-the-right-to-log-off-11708010915985.html)
+
+Article found but Couldn't summarize 
+Lawmakers in Australia are discussing a bill that will give workers legal backing not to be contacted by bosses after work. In India, a similar attempt was made by Supriya Sule, but her private member’s bill was never taken up. Maybe it’s time to bring it back.
+
+Fri, 16 Feb 2024 08:00:11 +0530
+### [Geopolitics: Is the US opioid crisis a theatre of Cold War II?](https://www.livemint.com/opinion/online-views/geopolitics-is-the-us-opioid-crisis-a-theatre-of-cold-war-ii-11708010290972.html)
+
+Article found but Couldn't summarize 
+It featured in Xi-Biden talks late last year, with the US trying to thwart fentanyl inflows in an eerie echo of the Opium Wars. In Cold War II, drug control matters as much as missile control.
+
+Fri, 16 Feb 2024 08:00:11 +0530
+### [GenAI’s ability to hallucinate may turn out helpful if we use these tools well](https://www.livemint.com/opinion/online-views/genais-ability-to-hallucinate-may-turn-out-helpful-if-we-use-these-tools-well-11708010348605.html)
+
+Article found but Couldn't summarize 
+What Generative AI often throws up may lack factual inaccuracy and this has got many people worried. But we should start viewing hallucinations as an aid for human creativity.
+
 Fri, 16 Feb 2024 00:31:19 +0530
 ### [We mustn't spread India’s social sector spending too thin](https://www.livemint.com/opinion/online-views/we-mustnt-spread-india-s-social-sector-spending-too-thin-11708010776338.html)
 

@@ -1,3 +1,27 @@
+Fri, 16 Feb 2024 18:55:57 +0530
+### [West’s glaring double standards on terrorism](https://www.firstpost.com/opinion/wests-glaring-double-standards-on-terrorism-13736332.html)
+
+Article found but Couldn't summarize 
+West’s glaring double standards on terrorism
+
+Fri, 16 Feb 2024 16:37:57 +0530
+### [Vladimir Putin unplugged: Deconstructing Russian president’s interview to Tucker Carlson](https://www.firstpost.com/opinion/vladimir-putin-unplugged-deconstructing-russian-presidents-interview-to-tucker-carlson-13735092.html)
+
+Article found but Couldn't summarize 
+Vladimir Putin unplugged: Deconstructing Russian president’s interview to Tucker Carlson
+
+Fri, 16 Feb 2024 13:37:59 +0530
+### [Ramification | Farmer protests, contours of anarchy and an NCR under siege](https://www.firstpost.com/opinion/ramification-farmer-protests-contours-of-anarchy-and-an-ncr-under-siege-13734312.html)
+
+Article found but Couldn't summarize 
+Ramification | Farmer protests, contours of anarchy and an NCR under siege
+
+Fri, 16 Feb 2024 10:40:04 +0530
+### [India and the UAE: A confluence of cultures and commerce](https://www.firstpost.com/opinion/india-and-the-uae-a-confluence-of-cultures-and-commerce-13733902.html)
+
+Article found but Couldn't summarize 
+India and the UAE: A confluence of cultures and commerce
+
 Thu, 15 Feb 2024 19:34:42 +0530
 ### [Vantage | What Zuckerberg's takedown of Apple's headset says about brand rivalries](https://www.firstpost.com/opinion/vantage-what-zuckerbergs-takedown-of-apples-headset-says-about-brand-rivalries-13732912.html)
 

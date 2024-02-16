@@ -6,12 +6,10 @@
 - [Opinion Mint](markdown_files/Opinion_Mint.md)
 - [EDITORIAL TH](markdown_files/EDITORIAL_TH.md)
 - [Column TH](markdown_files/Column_TH.md)
-- [The Wire](markdown_files/The_Wire.md)
-- [Movie Review TH](markdown_files/Movie_Review_TH.md)
 
 
 
  ************************************************* 
-Total number of new entries: 1
-Finished at: 2024-02-16 00:35:38
-Total time taken: 0.0 minutes 31.508119106292725 seconds
+Total number of new entries: 47
+Finished at: 2024-02-16 23:09:44
+Total time taken: 2.0 minutes 4.671889543533325 seconds

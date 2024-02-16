@@ -1,3 +1,15 @@
+Fri, 16 Feb 2024 10:30:00 +0530
+### [What our ancestors’ genomes can tell us about modern health | Explained](https://www.thehindu.com/sci-tech/science/what-our-ancestors-genomes-can-tell-us-about-modern-health-explained/article67852177.ece)
+
+Article found but Couldn't summarize 
+In a flurry of new studies, researchers have reported insights into human ancestors’ diets, lifestyle conditions, and diseases using fragments of their DNA
+
+Fri, 16 Feb 2024 08:30:00 +0530
+### [Why did Kosovo face delays in Schengen approval? | Explained](https://www.thehindu.com/news/international/why-did-kosovo-face-delays-in-schengen-approval-explained/article67849010.ece)
+
+Article found but Couldn't summarize 
+What factors contributed to the landmark development of Kosovo gaining visa-free access to the Schengen zone? What complexities arise in Schengen entry?
+
 Thu, 15 Feb 2024 18:38:24 +0530
 ### [Prabowo Subianto | From Indonesia’s ‘strongman’ General to ‘cute-and-cuddly’ presidential candidate](https://www.thehindu.com/news/international/prabowo-subianto-from-indonesias-strongman-general-to-cute-and-cuddly-presidential-candidate/article67844801.ece)
 
