@@ -1,3 +1,9 @@
+Sat, 17 Feb 2024 16:24:39 +0530
+### [Reversal of pricing reforms for oil PSUs is capping their stocks’ upside](https://www.livemint.com/opinion/online-views/reversal-of-pricing-reforms-for-oil-psus-is-capping-their-stocks-upside-11708166773775.html)
+
+Article found but Couldn't summarize 
+The current rally in their stock prices could have been far bigger and longer-lasting if the UPA government’s reforms in energy-product prices had been made real and not reversed in practice by the BJP government.
+
 Fri, 16 Feb 2024 13:41:01 +0530
 ### [What explains the market-analyst divide on Hindalco?](https://www.livemint.com/opinion/online-views/what-explains-the-market-analyst-divide-on-hindalco-11708067381355.html)
 

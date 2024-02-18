@@ -1,3 +1,33 @@
+Sun, 18 Feb 2024 03:47:00 +0530
+### [Starlink | Ukraine’s star-crossed partner](https://www.thehindu.com/news/international/starlink-ukraines-star-crossed-partner/article67858288.ece)
+
+Article found but Couldn't summarize 
+The Elon Musk-owned broadband Internet service has had a rocky relationship with Kyiv over the lengths to which it will aid the country in its war against Russia
+
+Sun, 18 Feb 2024 03:06:00 +0530
+### [Ashok Chavan | Chequered Congressman](https://www.thehindu.com/news/national/other-states/ashok-chavan-chequered-congressman/article67856899.ece)
+
+Article found but Couldn't summarize 
+The former Maharashtra CM’s legacy is tainted by the Adarsh Housing scam, but his switch from the Congress to the BJP is a victory for the alliance party against the erstwhile MVA
+
+Sun, 18 Feb 2024 02:28:00 +0530
+### [Can rheumatoid arthritis be prevented? | Explained](https://www.thehindu.com/sci-tech/health/can-rheumatoid-arthritis-be-prevented-explained/article67858354.ece)
+
+Article found but Couldn't summarize 
+Can the disease be delayed by repurposing an existing drug? Can it act as a signalling pathway to start the appropriate immune response? What are the concerns? Where does India stand on treating this autoimmune disease?
+
+Sun, 18 Feb 2024 02:03:00 +0530
+### [Is Russia testing a new anti-satellite weapon? | Explained](https://www.thehindu.com/news/international/is-russia-testing-a-new-anti-satellite-weapon-explained/article67858315.ece)
+
+Article found but Couldn't summarize 
+What would be its use? Won’t it violate the provisions of the Outer Space Treaty? What kind of damage can it cause? Do Russia and the U.S. have ASAT capabilities? Why do theories about it also include the nuclear question?
+
+Sun, 18 Feb 2024 01:45:00 +0530
+### [Why did the Supreme Court invalidate electoral bonds? | Explained](https://www.thehindu.com/news/national/why-did-the-supreme-court-invalidate-electoral-bonds-explained/article67858304.ece)
+
+Article found but Couldn't summarize 
+What were the changes made in existing laws to allow the donor to maintain anonymity?
+
 Fri, 16 Feb 2024 10:30:00 +0530
 ### [What our ancestors’ genomes can tell us about modern health | Explained](https://www.thehindu.com/sci-tech/science/what-our-ancestors-genomes-can-tell-us-about-modern-health-explained/article67852177.ece)
 

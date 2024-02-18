@@ -1,3 +1,38 @@
+Sun, 18 Feb 2024 02:30:26 +0000
+### [The bubonic plague is back. Should you be worried?](https://indianexpress.com/article/explained/explained-health/bubonic-plague-black-death-us-oregon-9167239/)
+
+The article discusses the re-emergence of the bubonic plague in Oregon, US, with the first confirmed case since 2005. The disease, caused by Yersinia pestis, can spread from animals to humans. Various forms of the plague exist, including bubonic, septicemic, and pneumonic, each with distinct symptoms and severity levels. The historical impact of the Black Death is highlighted, along with the genetic legacy it left behind. Despite concerns about the recent case, experts do not expect the disease to spread or cause significant fatalities. Modern antibiotics have made all forms of plague treatable, significantly reducing the threat of widespread outbreaks.
+
+Sat, 17 Feb 2024 14:43:42 +0000
+### [Why is the GSLV rocket nicknamed ‘naughty boy’?](https://indianexpress.com/article/explained/explained-sci-tech/gslv-rocket-naughty-boy-why-9166963/)
+
+Article found but Couldn't summarize
+
+Sat, 17 Feb 2024 11:51:52 +0000
+### [Court orders Trump to pay over $350 million: What is the case — and can the former president afford the penalty?](https://indianexpress.com/article/explained/explained-global/trump-pay-350-million-civil-fraud-9166736/)
+
+Former US President Donald Trump has been ordered to pay over $350 million plus potential interest charges of $100 million for fraudulently inflating his net worth to deceive lenders. The ruling by a New York court judge also includes a ban on Trump and his adult sons from holding top positions in New York companies for several years. The judge criticized the defendants for their lack of remorse and ordered Trump to pay the penalty, potentially affecting his significant net worth, estimated to be around $2.6 billion. Trump faces additional financial challenges, including legal fees and damages to pay in other cases, which might compel him to liquidate assets to cover the penalties.
+
+Sat, 17 Feb 2024 09:54:12 +0000
+### [Jim Ratcliffe’s INEOS set to own 25% of Manchester United: What this means for the football club](https://indianexpress.com/article/explained/explained-sports/jim-ratcliffe-ineos-25-manchester-united-glazers-stake-9166559/)
+
+British billionaire Sir Jim Ratcliffe has received approval to purchase a 25% stake in Manchester United. The £1.3 billion deal with the Glazer family includes a $300 million investment for stadium renovations. While Ratcliffe's INEOS will oversee football operations, the Glazers will retain control over commercial decisions. Ratcliffe's Class B shares will keep their full voting power. Notably, the deal will bring Dave Brailsford and Jean-Claude Blanc from INEOS to the Manchester United board. Ratcliffe, with a net worth of approximately £29.6 billion, owns INEOS, a major chemical company involved in various sports ventures.
+
+Sat, 17 Feb 2024 08:05:22 +0000
+### [Gemini Pro 1.5 with 1 million tokens surpasses GPT-4 Turbo: What does that mean?](https://indianexpress.com/article/explained/explained-sci-tech/google-gemini-pro-1-5-1-million-tokens-9166398/)
+
+Google has unveiled its latest next-generation AI model, the Gemini 1.5 Pro, built on MoE architecture, claiming to be more advanced than its predecessors. It boasts a long-context understanding across modalities, processing up to one million tokens consistently—far surpassing existing models. Currently in preview mode, Gemini 1.5 Pro is open for early testing by developers and enterprise customers. The model, with a standard 128,000-token context window, allows limited testing with up to one million tokens. Google emphasizes refining and enhancing capabilities, with the new MoE architecture making the model more efficient to train and serve. Gemini 1.5 Pro can handle significantly larger amounts of data, like 700,000 words or 30,000 lines of code, and process hours of audio and video in various languages. The model showcases impressive demonstrations with extended context understanding and intricate responses to multimodal prompts.
+
+Sat, 17 Feb 2024 07:29:30 +0000
+### [No top-up or transfer of money to Paytm Payments Bank accounts after March 15: What RBI’s new FAQs say](https://indianexpress.com/article/explained/explained-economics/paytm-banks-faq-march-15-rbi-9166271/)
+
+The Reserve Bank of India (RBI) extended the deadline for restrictions on Paytm Payments Bank (PPBL) until March 15. The RBI released a list of FAQs for PPBL customers, outlining various limitations post-March 15, 2024. After this date, wallet users can't top-up or receive credits, but can still transfer or use existing funds. Customers can close their wallets and transfer balances to other banks. FastTag users should switch to another bank's tag before the deadline. PPBL account holders can continue using their accounts but won't be able to deposit money after March 15. Other regulations detail the handling of customer funds, mandates, and merchant payments. Additionally, PPBL is still restricted from onboarding new customers since March 11, 2022.
+
+Sat, 17 Feb 2024 01:37:01 +0000
+### [What Swaminathan panel said](https://indianexpress.com/article/explained/explained-economics/what-swaminathan-panel-said-9165707/)
+
+The article discusses the demands of Punjab farmers, highlighting their call for a law ensuring crop procurement at Minimum Support Price (MSP) following Dr. Swaminathan Commission recommendations. It details inconclusive talks and the role of M.S. Swaminathan in agricultural development. The article delves into the National Commission on Farmers' reports and recommendations, including women empowerment in agriculture, contract farming, MSP improvements, and market reforms. It contrasts the Commission's suggestions with the demands of protesting farmers regarding MSP calculation based on C2 cost. The piece also outlines the tragic passing of actress Suhani Bhatnagar due to an autoimmune disorder at 19.
+
 Fri, 16 Feb 2024 13:13:59 +0000
 ### [Why the Right wing in America dislikes Taylor Swift](https://indianexpress.com/article/explained/explained-culture/why-right-wing-america-dislikes-taylor-swift-9165323/)
 

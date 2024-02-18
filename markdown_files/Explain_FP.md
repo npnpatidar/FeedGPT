@@ -1,12 +1,55 @@
+Sat, 17 Feb 2024 17:55:13 +0530
+### [Another jolt for Congress? Are Kamal Nath and his son, Nakul, leaving the party?](http://www.firstpost.com/politics/congress-kamal-nath-son-nakul-leaving-bjp-lok-sabha-polls-13738522.html)
+
+Former Madhya Pradesh CM Kamal Nath and his son, Nakul, are rumored to potentially leave the Congress, sparking speculation about their political future. While both have not confirmed reports, recent events hint at a possible departure. The BJP has been suggested as a potential destination. However, the Congress has dismissed these rumors, emphasizing Nath's longstanding association with the party. Speculations intensified after Nath's son, Nakul, made statements seemingly distancing himself from the Congress. This comes amidst a trend of high-profile exits from the Congress in recent years. The situation remains fluid as Kamal Nath is expected to meet with BJP leadership, but his final decision remains unknown.
+
+Sat, 17 Feb 2024 15:18:10 +0530
+### [Alexei Navalny & more: Long list of Putin’s critics meeting a mysterious end](http://www.firstpost.com/world/alexei-navalny-death-long-list-of-vladimir-putins-critics-meeting-a-mysterious-end-13738102.html)
+
+The article discusses the shocking death of Russian opposition leader Alexei Navalny in an Arctic Circle jail, raising concerns about threats to his life since returning to Russia in 2021. Various world leaders and activists have blamed President Vladimir Putin for Navalny's reported demise, shedding light on the unsolved deaths of several Putin critics and rivals like Yevgeny Prigozhin, Boris Berezovsky, Boris Nemtsov, Anna Politkovskaya, Alexander Litvinenko, Sergei Magnitsky, and others under mysterious circumstances. Putin has consistently denied involvement in these deaths despite widespread suspicion and criticism.
+
+Sat, 17 Feb 2024 13:53:51 +0530
+### [The Fall of Influencers: Why you might hate internet celebs you once adored](https://www.firstpost.com/explainers/the-fall-of-influencers-why-you-might-hate-internet-celebs-you-once-adored-13718272.html)
+
+The article discusses how parasocial relationships with influencers can turn sour, leading to feelings of hostility and hatred. Gossip forums like Tattle Life facilitate critique of influencers, often by former fans. Users seek intimacy and acknowledgment through forums when they feel excluded by influencers who establish boundaries. Followers may feel ignored when influencers become less responsive as their audience grows. Forums also critique sponsored content, with users feeling exploited. Despite being labeled as trolls, forum users seek to maintain relationships and intimacy with influencers. The article advises allowing parasocial relationships to naturally fade over time rather than turning to unhealthy temptations like gossip forums.
+
+Sat, 17 Feb 2024 12:05:31 +0530
+### [What’s GSLV, ISRO’s ‘naughty boy’ rocket that will launch the INSAT-3DS weather satellite today?](http://www.firstpost.com/explainers/whats-gslv-isros-naughty-boy-rocket-that-will-launch-the-insat-3ds-weather-satellite-today-13737342.html)
+
+The Geosynchronous Satellite Launch Vehicle (GSLV), also known as the 'naughty boy' due to its inconsistent past performance, is set to launch the INSAT-3DS meteorological satellite by ISRO. The GSLV-F14 mission aims to place the satellite in Geosynchronous Transfer Orbit (GTO). This launch is significant as the INSAT-3DS satellite will enhance meteorological observations, disaster warnings, and aid in short-range weather predictions. The GSLV has faced failures in the past but is crucial for upcoming missions, including deploying the Earth observation satellite NISAR. NISAR, a joint venture between NASA and ISRO, is designed to provide crucial data for studying Earth's ecosystems, ice mass, sea levels, and natural hazards.
+
+Sat, 17 Feb 2024 10:29:50 +0530
+### [This Week in Explainers: How political parties benefited from ‘unconstitutional’ electoral bonds](http://www.firstpost.com/india/this-week-in-explainers-how-political-parties-benefited-from-unconstitutional-electoral-bonds-13736302.html)
+
+Article found but Couldn't summarize 
+In a landmark verdict, the Supreme Court struck down electoral bonds, declaring them unconstitutional. Since 2018, political parties received donations worth Rs 16,518 crore from them. Who benefited the most? We tell you in our weekly roundup
+
+Sat, 17 Feb 2024 10:13:37 +0530
+### [Cracking jokes, a V-Day message for wife: How Navalny spent final days in prison](http://www.firstpost.com/explainers/cracking-jokes-a-v-day-message-for-his-wife-how-alexei-navalny-spent-his-final-days-in-prison-13736742.html)
+
+Article found but Couldn't summarize 
+Alexei Navalny, Russia’s most prominent opposition leader, spent his final few weeks in a penal colony above the Arctic Circle. In his last appearance, a day before his death, he was seen laughing and cracking jokes as he testified via video conference
+
 Fri, 16 Feb 2024 21:01:55 +0530
 ### [What Alexei Navalny did a day before his death](https://www.firstpost.com/sports/what-alexei-navalny-did-a-day-before-his-death-13736542.html)
 
 Russian opposition leader Alexei Navalny died at the age of 47 on Friday. The day before his death, Navalny appeared in good spirits during a court appearance via video conference from the penal colony where he was being held. In the video, Navalny made jokes about his finances and even the judge's salary, with officials in the court smiling along. Navalny had been sentenced to solitary confinement multiple times since his imprisonment. On Friday, it was announced that Navalny collapsed and died at the prison colony, with the cause of death still being determined. World leaders and activists quickly blamed Putin for Navalny's death, with Ukrainian president Volodymyr Zelenskyy stating that Putin must be held responsible. The news of Navalny's death brought renewed criticism and outrage towards the Kremlin leader, but it is unclear if large protests will follow.
 
+Fri, 16 Feb 2024 20:58:15 +0530
+### [What Alexei Navalny did a day before his death](http://www.firstpost.com/sports/what-alexei-navalny-did-a-day-before-his-death-13736542.html)
+
+Article found but Couldn't summarize 
+Alexi Navalny, in his last appearance from the 'Polar Wolf' penal colony in which he was housed, was seen laughing and cracking jokes as he testified via video conference. His final message on social media was that he had been sentenced to solitary confinement
+
 Fri, 16 Feb 2024 20:21:10 +0530
 ### [Say No to Partying: Why Gen Z in the UK is ditching nightclubs](https://www.firstpost.com/explainers/why-gen-z-in-the-uk-is-ditching-nightclubs-13736422.html)
 
 The COVID-19 pandemic has led to the closure of many nightclubs in the UK, with 31% of them shutting down since March 2020. Major nightclub chain Rekom announced the closure of 17 venues, resulting in 500 job losses. The cost of living crisis and changing habits of younger generations, such as drinking less alcohol and seeking alternative nighttime entertainment, have contributed to the decline in club attendance. The Night Time Industries Association (NTIA) has called for government intervention and financial relief for struggling nightclubs.
+
+Fri, 16 Feb 2024 20:21:10 +0530
+### [Say No to Partying: Why Gen Z in the UK is ditching nightclubs](http://www.firstpost.com/world/why-gen-z-in-the-uk-is-ditching-nightclubs-13736422.html)
+
+The pandemic has led to the closure of nearly 400 nightclubs in the United Kingdom, with younger generations like Gen Z and millennials cutting back on clubbing due to the cost of living crisis. Factors such as decreased alcohol consumption, a shift towards health consciousness, and a variety of entertainment options have further contributed to the decline in nightlife participation. The call for government intervention to provide financial relief to struggling nightclubs has emerged as a response to this cultural crisis jeopardizing the vibrancy and diversity of the nightlife scene in the UK.
 
 Fri, 16 Feb 2024 19:40:42 +0530
 ### [Alexei Navalny dead at 47: Remembering Putin critic who remained defiant to the end](https://www.firstpost.com/explainers/alexei-navalny-dead-at-47-remembering-putin-critic-who-remained-defiant-to-the-end-13736402.html)
@@ -14,10 +57,20 @@ Fri, 16 Feb 2024 19:40:42 +0530
 Article found but Couldn't summarize 
 Alexei Navalny dead at 47: Remembering Putin critic who remained defiant to the end
 
+Fri, 16 Feb 2024 19:35:30 +0530
+### [Alexei Navalny dead at 47: Remembering Putin critic who remained defiant to the end](http://www.firstpost.com/explainers/alexei-navalny-dead-at-47-remembering-putin-critic-who-remained-defiant-to-the-end-13736402.html)
+
+Alexei Navalny, a prominent Russian Opposition leader and critic of Vladimir Putin, rose to fame as a blogger and later became a key figure in anti-corruption efforts in Russia. He faced severe persecution, including jail time, court battles, and poisonings linked to the Russian state. Navalny's activism extended to rallying against Putin's actions in Ukraine and challenging the Russian political system. Despite facing constant threats and imprisonment, Navalny remained defiant and vocal in his opposition. Navalny tragically passed away at the age of 47 while serving a prison sentence in Russia.
+
 Fri, 16 Feb 2024 18:10:47 +0530
 ### [Family Planning: How many children are too many?](https://www.firstpost.com/explainers/family-planning-how-many-children-are-too-many-13735682.html)
 
 This article explores the ethical considerations surrounding procreation and the impact of having children on the environment. It argues that while having a child is often seen as a personal choice, it can have significant consequences for the planet. The article discusses various viewpoints on the matter, including the environmental impact of having a large family and the moral responsibility to reduce one's contribution to overpopulation. The author suggests that balancing these moral considerations may involve limiting family size or considering alternative options such as adoption. Overall, the article encourages prospective parents to reflect on the moral dimensions of procreation and its significance to their life plans.
+
+Fri, 16 Feb 2024 18:10:47 +0530
+### [Family Planning: How many children are too many?](http://www.firstpost.com/explainers/family-planning-how-many-children-are-too-many-13735682.html)
+
+The article delves into the ethical considerations around having children in the face of environmental challenges. It discusses the impact of procreation on the planet, including carbon emissions, and questions whether it is morally justifiable to bring a child into a world facing ecological crises. The author explores various arguments concerning family size, individual impact on the environment, and collective responsibility. Philosophical perspectives on balancing reproductive freedom with environmental ethics are also discussed, suggesting limits on family size as a way to address these moral dilemmas.
 
 Fri, 16 Feb 2024 17:57:44 +0530
 ### [Greece legalises same-sex marriages: Will other Orthodox nations follow suit?](https://www.firstpost.com/explainers/greece-legalises-same-sex-marriages-will-other-orthodox-nations-follow-suit-13735712.html)
@@ -25,15 +78,32 @@ Fri, 16 Feb 2024 17:57:44 +0530
 Article found but Couldn't summarize 
 Greece legalises same-sex marriages: Will other Orthodox nations follow suit?
 
+Fri, 16 Feb 2024 17:57:44 +0530
+### [Greece legalises same-sex marriages: Will other Orthodox nations follow suit?](http://www.firstpost.com/explainers/greece-legalises-same-sex-marriages-will-other-orthodox-nations-follow-suit-13735712.html)
+
+Article found but Couldn't summarize 
+Civil unions may become more common among Orthodox countries gravitating toward the European Union. They remain off the table in Russia, which has cracked down on LGBTQ+ expression, and countries in its orbit
+
 Fri, 16 Feb 2024 17:22:34 +0530
 ### [Were Rs 115 crore of Congress frozen? The bank accounts row, explained](https://www.firstpost.com/explainers/congress-bank-accounts-row-income-tax-department-rs-115-crore-frozen-13735692.html)
 
 The Income Tax department froze four bank accounts belonging to the Indian National Congress, prompting the party to criticize the move as an "assault on democracy." The freeze was reportedly due to the party's delayed filing of income tax returns. Congress leaders expressed their outrage, with Congress President Mallikarjun Kharge calling it a "deep assault on India's Democracy." However, the Income Tax Appellate Tribunal later allowed the party to operate its accounts until the next hearing on February 21. The tribunal also instructed the party to keep Rs 115 crore in the accounts as collateral.
 
+Fri, 16 Feb 2024 17:05:33 +0530
+### [Were Rs 115 crore of Congress frozen? The bank accounts row, explained](http://www.firstpost.com/explainers/congress-bank-accounts-row-income-tax-department-rs-115-crore-frozen-13735692.html)
+
+The Income Tax Appellate Tribunal allowed the Congress party to operate its bank accounts mere hours after the party alleged that its accounts were frozen by the Income Tax department. The IT tribunal granted the party relief until the next hearing on 21 February. Congress Treasurer Ajay Maken claimed that the freezing of the accounts was due to a delay in filing IT returns, and Congress leaders criticized the move as an assault on democracy. Following a press conference by Maken, Congress was permitted to use its bank accounts, but with a condition to maintain Rs 115 crore in lien in the accounts.
+
 Fri, 16 Feb 2024 16:59:59 +0530
 ### [Why has Iran claimed Antarctica? Should the world worry?](https://www.firstpost.com/explainers/why-has-iran-claimed-antarctica-should-the-world-worry-13735262.html)
 
 Iran has claimed ownership of Antarctica and announced plans to raise its flag and carry out military and scientific work there. The country's naval chief, Rear Admiral Shahram Irani, stated that Iran has "property rights" in the South Pole. The Antarctic Treaty, signed by multiple nations in 1959, did not address claims of territorial sovereignty but prohibited military bases, weapons testing, and radioactive waste disposal. Iran's aspirations to expand its naval presence and extend its reach as far as Antarctica have raised concerns among experts who view it as a continuation of the regime's aggression. The US State Department clarified that Iranian funds held in Qatar cannot be used for activities in Antarctica.
+
+Fri, 16 Feb 2024 16:59:59 +0530
+### [Why has Iran claimed Antarctica? Should the world worry?](http://www.firstpost.com/explainers/why-has-iran-claimed-antarctica-should-the-world-worry-13735262.html)
+
+Article found but Couldn't summarize 
+Navy Chief Rear Commander Admiral Shahram Irani said Tehran has 'property rights' in the South Pole where it is planning to build a naval base. The Antarctic Treaty, signed in 1959, prohibits nations from constructing military bases, testing weapons and disposing radioactive waste in the region
 
 Fri, 16 Feb 2024 16:28:12 +0530
 ### [SC verdict on electoral bonds: What next for SBI? Will we know the names of donors soon?](https://www.firstpost.com/explainers/supreme-court-electoral-bonds-scheme-verdict-what-next-for-sbi-donors-names-eci-13734862.html)
@@ -45,10 +115,28 @@ Fri, 16 Feb 2024 16:11:31 +0530
 
 A man from Barnsley, England, mixed his sperm with his father's to help his partner get pregnant due to their inability to afford IVF treatment. The couple had a son through this arrangement. Barnsley Council took the man to court to determine the child's parentage, but a High Court judge ruled that he would not be forced to take a paternity test. The judge acknowledged the unique circumstances and potential emotional harm to the child but stated that it was up to the family to manage the welfare risks. The article also mentions other cases of sperm mix-ups in fertility clinics.
 
+Fri, 16 Feb 2024 16:11:31 +0530
+### [Daddy Issues: The case of UK man who mixed his sperm with his father’s to get wife pregnant](http://www.firstpost.com/explainers/daddy-issues-the-case-of-uk-man-who-mixed-his-sperm-with-his-fathers-to-get-wife-pregnant-13735002.html)
+
+Article found but Couldn't summarize 
+A man in England reportedly mixed his sperm with his father’s to help his partner get pregnant. The couple was struggling with infertility and could not afford IVF treatment. Dismissing a petition, a judge has ruled that the man will not face a paternity test
+
 Fri, 16 Feb 2024 15:01:00 +0530
 ### [What is Munich Security Conference, called the Davos of Defence?](https://www.firstpost.com/explainers/what-is-munich-security-conference-called-the-davos-of-defence-13734852.html)
 
 The Munich Global Security Conference, also known as the MSC, is commencing with the participation of top world leaders such as German Chancellor Olaf Scholz, US Vice President Kamala Harris, Ukraine's President Volodymyr Zelenskyy, Israel's President Isaac Herzog, and Palestinian Prime Minister Mohammad Shtayyeh. The conference, now in its 60th edition, serves as a forum for discussing international security policy and brings together over 450 people including heads of state, ministers, business representatives, and thought leaders. This year's conference is taking place against the backdrop of the Russia-Ukraine war and the Israel-Hamas conflict. Key topics of discussion will include regional spillover concerns, global rules and regulations, and strategic autonomy for European countries.
+
+Fri, 16 Feb 2024 15:01:00 +0530
+### [What is Munich Security Conference, called the Davos of Defence?](http://www.firstpost.com/explainers/what-is-munich-security-conference-called-the-davos-of-defence-13734852.html)
+
+Article found but Couldn't summarize 
+The Munich Security Conference (MSC) was founded in 1963 by Ewald von Kleist, a prolific author, jurist, and publisher, at the height of the Cold War. The summit, which kicks off today, is being held in the backdrop of the Russia-Ukraine war and the Israel-Hamas conflict
+
+Fri, 16 Feb 2024 13:55:11 +0530
+### [SC verdict on electoral bonds: What next for SBI? Will we know the names of donors soon?](http://www.firstpost.com/india/supreme-court-electoral-bonds-scheme-verdict-what-next-for-sbi-donors-names-eci-13734862.html)
+
+Article found but Couldn't summarize 
+Striking down the ‘unconstitutional’ electoral bonds scheme, the Supreme Court directed the State Bank of India to furnish details of the electoral bonds purchased since 12 April 2019 to the Election Commission of India. Here’s what the poll body would do with the information
 
 Fri, 16 Feb 2024 13:39:11 +0530
 ### [Pet groomers punch dog in Maharashtra: Do India's animal cruelty laws need a relook?](https://www.firstpost.com/explainers/pet-groomers-punch-dog-in-maharashtra-do-indias-animal-cruelty-laws-need-a-relook-13734712.html)
@@ -56,10 +144,22 @@ Fri, 16 Feb 2024 13:39:11 +0530
 Article found but Couldn't summarize 
 Pet groomers punch dog in Maharashtra: Do India's animal cruelty laws need a relook?
 
+Fri, 16 Feb 2024 13:39:11 +0530
+### [Pet groomers punch dog in Maharashtra: Do India's animal cruelty laws need a relook?](http://www.firstpost.com/india/pet-groomers-punch-dog-in-maharashtra-do-indias-animal-cruelty-laws-need-a-relook-13734712.html)
+
+Article found but Couldn't summarize 
+Two staff attendants at a pet grooming clinic in Maharashtra’s Thane have been arrested for raining down punches on a dog. The incident has put the focus on India’s laws on animal cruelty, which many argue is too lenient and without any bite. But what do the existing laws state?
+
 Fri, 16 Feb 2024 13:24:20 +0530
 ### [Did Indian-origin techie kill his wife, twins before shooting himself in California home?](https://www.firstpost.com/explainers/did-indian-origin-techie-kill-his-wife-twins-before-shooting-himself-in-california-home-13734662.html)
 
 An Indian-origin family in California, consisting of Anand Henry, 37, his wife Alice Benziger, 36, and their four-year-old twin sons, was found dead in their home. The police suspect that Anand Henry killed his wife and children before committing suicide. The investigation is ongoing, and the motive is yet to be determined. There was no history of violence at the home, and no suicide note was found. Anand Henry had been living in the US for nine years and was a former software engineer. He founded his own artificial intelligence company after leaving his previous job. The police urge the community to seek domestic violence and mental health resources to prevent incidents like this in the future.
+
+Fri, 16 Feb 2024 13:24:20 +0530
+### [Did Indian-origin techie kill his wife, twins before shooting himself in California home?](http://www.firstpost.com/explainers/did-indian-origin-techie-kill-his-wife-twins-before-shooting-himself-in-california-home-13734662.html)
+
+Article found but Couldn't summarize 
+Shocking details have emerged as the investigation continues in the suspected murder-suicide case of the Indian-origin family in California. The police allege that former Meta software engineer, Anand Henry, was responsible for killing his wife and four-year-old twin sons before turning a gun on him
 
 Fri, 16 Feb 2024 12:59:45 +0530
 ### [BrahMos, ammo &amp; more: A look at weapons India exports](https://www.firstpost.com/explainers/brahmos-missiles-ammunition-more-a-look-at-india-defence-exports-13733092.html)
@@ -72,15 +172,39 @@ Fri, 16 Feb 2024 12:35:10 +0530
 
 The White House has announced that Russia is developing a space-based anti-satellite weapon, causing concerns for the United States. While the exact nature of the weapon remains unclear, it could potentially compromise communication systems, surveillance capabilities, intelligence gathering, and command and control operations globally. The United States does not have the ability to counter such a weapon. The threat does not pose an immediate danger to people on Earth, according to the National Security Council. Russia has denied these claims, labeling them as unfounded and suggesting they are a tactic to push through a Ukrainian war aid package. The weapon would violate the 1967 Outer Space Treaty, which prohibits the deployment of nuclear weapons in space. US President Joe Biden has been informed and officials have been directed to contact Moscow regarding the weapon.
 
+Fri, 16 Feb 2024 12:35:10 +0530
+### [Is Russia developing a space-based nuclear weapon? Why is the US so concerned?](http://www.firstpost.com/explainers/is-russia-developing-a-space-based-nuclear-weapon-why-is-the-us-so-concerned-13734382.html)
+
+Article found but Couldn't summarize 
+The United States has informed Congress and its European allies about new intelligence on Russian nuclear capabilities that could pose an international threat. The exact nature of the weapon remains uncertain, but its threat to satellites could lead to various disruptions
+
 Fri, 16 Feb 2024 12:29:38 +0530
 ### [A cop’s selfie is at the centre of the latest unrest in Manipur. Here’s what happened](https://www.firstpost.com/explainers/a-cops-selfie-is-at-the-centre-of-the-latest-unrest-in-manipur-heres-what-happened-13734472.html)
 
 Tension erupted in Manipur's Churachandpur town as a mob turned violent, setting police vehicles and part of the district collector's office on fire. The protests began after a head constable, belonging to the Kuki tribe, was suspended for taking a selfie with "armed miscreants." The mob clashed with security forces, resulting in two deaths and several injuries. The situation remains tense with internet services suspended in the area. The conflict in Manipur has been ongoing between the Meiteis and the Kuki-Zo tribes, resulting in numerous casualties and displacements.
 
+Fri, 16 Feb 2024 12:29:38 +0530
+### [A cop’s selfie is at the centre of the latest unrest in Manipur. Here’s what happened](http://www.firstpost.com/india/a-cops-selfie-is-at-the-centre-of-the-latest-unrest-in-manipur-heres-what-happened-13734472.html)
+
+Article found but Couldn't summarize 
+Manipur’s Kuki-Zo tribes-dominated Churachandpur district remains tense after a mob went on a rampage, vandalising property and pelting stones. At least two were killed and 25 injured in the protest against the suspension of a constable for taking a selfie with ‘armed miscreants’
+
 Fri, 16 Feb 2024 11:32:26 +0530
 ### [Digital twin created of Hyderabad's 16th-Century Quli Qutb Shah Tombs: What is it?](https://www.firstpost.com/explainers/digital-twin-created-of-hyderabads-16th-century-quli-qutb-shah-tombs-what-is-it-13733602.html)
 
 A reality tech firm has created a digital twin of the Mohammed Quli Qutb Shah Tombs in Hyderabad, India. The digital twin is a detailed replica of the historical tombs from the 16th century, created using reality capture, geospatial mapping, and 3D scanning technologies. The goal is to improve the visitor experience and preserve the landmark, with hopes of obtaining a UNESCO World Heritage tag. The digital twin allows people to view the tomb from various perspectives and enables real-time analytics, data-driven decision-making, visualizations, and simulations. This digital preservation initiative is part of a larger effort to protect cultural heritage sites and advance smart cities.
+
+Fri, 16 Feb 2024 11:32:26 +0530
+### [Digital twin created of Hyderabad's 16th-Century Quli Qutb Shah Tombs: What is it?](http://www.firstpost.com/explainers/digital-twin-created-of-hyderabads-16th-century-quli-qutb-shah-tombs-what-is-it-13733602.html)
+
+Article found but Couldn't summarize 
+In a bid to preserve cultural heritage, a reality tech firm has developed a digital twin of Hyderabad’s iconic Mohammed Quli Qutb Shah Tombs. The digital twin is a collection of pixels on a screen that mimics the surface and texture of a physical object, whereas the actual tomb is a tangible object
+
+Fri, 16 Feb 2024 11:31:28 +0530
+### [BrahMos, ammo & more: A look at weapons India exports](http://www.firstpost.com/explainers/brahmos-missiles-ammunition-more-a-look-at-india-defence-exports-13733092.html)
+
+Article found but Couldn't summarize 
+India’s defence exports saw a 23-fold jump between 2013-14 and 2022-23 – from Rs 686 crore to Rs 15,918 crore. As the country aims to become ‘self-reliant, here’s the defence equipment and systems it supplies to the world
 
 Fri, 16 Feb 2024 10:57:30 +0530
 ### [Sahil Omar: The 44-year-old man who is ‘linked’ to the Super Bowl parade shooting](https://www.firstpost.com/explainers/sahil-omar-the-44-year-old-man-who-is-linked-to-the-super-bowl-parade-shooting-13734032.html)
@@ -88,17 +212,41 @@ Fri, 16 Feb 2024 10:57:30 +0530
 Article found but Couldn't summarize 
 Sahil Omar: The 44-year-old man who is ‘linked’ to the Super Bowl parade shooting
 
+Fri, 16 Feb 2024 10:57:30 +0530
+### [Sahil Omar: The 44-year-old man who is ‘linked’ to the Super Bowl parade shooting](http://www.firstpost.com/explainers/sahil-omar-the-44-year-old-man-who-is-linked-to-the-super-bowl-parade-shooting-13734032.html)
+
+Article found but Couldn't summarize 
+Several social media users claimed that Sahil Omar was one of the suspects who opened fire at Union Station following the Chiefs' Super Bowl parade in Kansas City in the US. But who is he and why does his name consistently emerge in connection with these tragic events?
+
 Fri, 16 Feb 2024 09:44:09 +0530
 ### [Donald Trump to go on trial in hush money case from 25 March: What’s it all about?](https://www.firstpost.com/explainers/donald-trump-to-go-on-trial-in-hush-money-case-from-25-march-whats-it-all-about-13733642.html)
 
 Article found but Couldn't summarize 
 Donald Trump to go on trial in hush money case from 25 March: What’s it all about?
 
+Fri, 16 Feb 2024 09:44:09 +0530
+### [Donald Trump to go on trial in hush money case from 25 March: What’s it all about?](http://www.firstpost.com/world/donald-trump-to-go-on-trial-in-hush-money-case-from-25-march-whats-it-all-about-13733642.html)
+
+Article found but Couldn't summarize 
+Donald Trump will go to trial on criminal charges for the first time from 25 March in the hush-money criminal case. The matter pertains to payments made by the former US president to adult film star Stormy Daniels and Playboy model Karen McDougal to buy their silence about his extramarital affairs
+
 Fri, 16 Feb 2024 08:03:24 +0530
 ### [Gramin Bharat Bandh today. What will be open, what will be shut?](https://www.firstpost.com/explainers/gramin-bharat-bandh-today-what-will-be-open-what-will-be-shut-13732252.html)
 
 Article found but Couldn't summarize 
 Gramin Bharat Bandh today. What will be open, what will be shut?
+
+Fri, 16 Feb 2024 08:03:24 +0530
+### [Gramin Bharat Bandh today. What will be open, what will be shut?](http://www.firstpost.com/explainers/gramin-bharat-bandh-today-what-will-be-open-what-will-be-shut-13732252.html)
+
+Article found but Couldn't summarize 
+The Samyukta Kisan Morcha (SKM) has called for a Gramin Bharat Bandh or nationwide strike today. While transportation, rural industrial, private and service sector businesses will remain closed, emergency services will not be impacted
+
+Fri, 16 Feb 2024 05:00:07 +0530
+### [FirstUp: Gramin Bharat Bandh, Nyay Jodo Yatra in UP... today's big stories](http://www.firstpost.com/explainers/firstup-gramin-bharat-bandh-nyay-jodo-yatra-in-up-todays-big-stories-13733022.html)
+
+Article found but Couldn't summarize 
+The Samyukta Kisan Morcha (SKM) and central trade unions have called for a Gramin Bharat Bandh today. Rahul Gandhi’s Bharat Jodo Nyay Yatra is set to enter Uttar Pradesh. India and England will lock horns on the second day of the third test match in Rajkot. A look at today's big stories
 
 Thu, 15 Feb 2024 20:57:41 +0530
 ### [FirstUp: Gramin Bharat Bandh, Nyay Jodo Yatra in UP... today's big stories](https://www.firstpost.com/explainers/firstup-gramin-bharat-bandh-nyay-jodo-yatra-in-up-todays-big-stories-13733022.html)
@@ -110,30 +258,66 @@ Thu, 15 Feb 2024 19:58:34 +0530
 
 Elon Musk has shifted SpaceX's state of incorporation from Delaware to Texas. The move comes after a Delaware judge voided Musk's $56 billion pay package for Tesla, ruling it unfair to shareholders. Musk conducted a poll on Twitter and announced that the public vote was in favor of Texas. Tesla had earlier moved its corporate headquarters to Texas in August 2021. Musk and the shareholder challenging the pay plan have asked the judge to pause her ruling until an appeal is resolved. It is likely that Musk will appeal the decision to the Delaware Supreme Court. The ruling poses challenges for Tesla's compensation negotiations with Musk and highlights the need for independent board members.
 
+Thu, 15 Feb 2024 19:58:34 +0530
+### [Elon Musk's SpaceX has left Delaware for Texas. Here's what happened](http://www.firstpost.com/explainers/elon-musks-spacex-has-left-delaware-for-texas-heres-what-happened-13732722.html)
+
+Article found but Couldn't summarize 
+Elon Musk made the move after a Delaware judge in January voided his $56 billion pay package for Tesla — the largest salary in corporate America — when a shareholder sued calling it unfair. Experts say the verdict shines a light on the problems with Tesla's governance structure
+
 Thu, 15 Feb 2024 19:00:11 +0530
 ### [Australia to criminalise doxxing: What is it and why is it dangerous?](https://www.firstpost.com/explainers/australia-to-criminalise-doxxing-what-is-it-and-why-is-it-dangerous-13732372.html)
 
 The Australian government plans to criminalize doxxing, the intentional online exposure of personal information without consent, following the release of personal details of hundreds of Jewish individuals by pro-Palestinian activists. The proposed legislation would involve issuing take-down notices to social media platforms and imposing fines. Doxxing has been a practice since the 1990s and was initially used by hackers. Australia's move comes after the leaked information of 600 Jewish Australians discussing Gaza in a private group chat. The new law is part of a review of the Privacy Act and is expected to pass with bipartisan support. Several other countries, such as the United States, United Kingdom, Singapore, Hong Kong, and India, have also implemented laws against doxxing.
+
+Thu, 15 Feb 2024 19:00:11 +0530
+### [Australia to criminalise doxxing: What is it and why is it dangerous?](http://www.firstpost.com/world/australia-to-criminalise-doxxing-what-is-it-and-why-is-it-dangerous-13732372.html)
+
+Article found but Couldn't summarize 
+The Australian government has said that it will outlaw doxxing, the malicious release of personal information online without consent. The move comes after details of hundreds of Jews from a group chat discussing Gaza were published by pro-Palestine activists
 
 Thu, 15 Feb 2024 18:18:39 +0530
 ### [‘Delhi Chalo’ march: Who are the two farmer leaders leading the protest?](https://www.firstpost.com/explainers/delhi-chalo-march-who-are-the-two-farmer-leaders-leading-the-protest-13732162.html)
 
 Protesting farmers from Punjab and Haryana are marching to Delhi to hold talks with Union ministers about their demands, including a legal guarantee of minimum support price for all crops. The current protests are led by different farmer unions than those involved in the 2020-21 agitation. Sarwan Singh Pandher is the coordinator of the Kisan Mazdoor Sangharsh Committee (KMSC), and Jagjit Singh Dallewal leads the Samyukta Kisan Morcha (non-political). The farmers are demanding higher crop prices, debt waivers, and the implementation of the Dr. MS Swaminathan Commission's recommendations. The Delhi Police have imposed Section 144, prohibiting rallies and processions in the capital. There have been clashes between protesters and police at the Shambhu border crossing.
 
+Thu, 15 Feb 2024 18:18:39 +0530
+### [‘Delhi Chalo’ march: Who are the two farmer leaders leading the protest?](http://www.firstpost.com/india/delhi-chalo-march-who-are-the-two-farmer-leaders-leading-the-protest-13732162.html)
+
+Article found but Couldn't summarize 
+Representatives of the protesting farmers are holding talks with Union ministers in Chandigarh on Thursday. Jagjit Singh Dallewal of the Samyukta Kisan Morcha (non-political) and Sarwan Singh Pandher, the coordinator of the Kisan Mazdoor Morcha, are at the forefront of the Delhi Chalo march
+
 Thu, 15 Feb 2024 17:00:32 +0530
 ### [SC verdict on electoral bonds: How much did the BJP earn? What about Congress, others?](https://www.firstpost.com/explainers/sc-verdict-electoral-bonds-bjp-earn-congress-others-13731912.html)
 
 The Supreme Court has declared India's electoral bond scheme unconstitutional and a violation of the right to information and Article 19(1)(a). The scheme, introduced by the Narendra Modi government in 2018, allowed donors to anonymously buy bonds from the State Bank of India and donate to political parties. A report by the Association of Democratic Reforms (ADR) revealed that between 2016-17 and 2021-22, political parties received a total donation of Rs 9,188.35 crore from electoral bonds. The Bharatiya Janata Party (BJP) received the highest amount of electoral bond donations, totaling nearly Rs 1,300 crore in 2022-23. Other parties, including the Congress, Trinamool Congress, Biju Janata Dal, and Aam Aadmi Party, also received significant funds through this scheme. The Communist Party of India-Marxist (CPI-M) did not accept any donations through electoral bonds and was one of the petitioners in the case before the Supreme Court.
+
+Thu, 15 Feb 2024 17:00:32 +0530
+### [SC verdict on electoral bonds: How much did the BJP earn? What about Congress, others?](http://www.firstpost.com/india/sc-verdict-electoral-bonds-bjp-earn-congress-others-13731912.html)
+
+Article found but Couldn't summarize 
+The Supreme Court has termed electoral bonds as unconstitutional. However, since being introduced in 2018, political parties have received donations worth Rs 16,518 crore. Of this, how much did the BJP earn? What about the Congress, and other political parties?
 
 Thu, 15 Feb 2024 16:57:09 +0530
 ### [In Graphics | Why no former Pakistan PM has completed a full term](https://www.firstpost.com/explainers/in-graphics-why-no-former-pakistan-pm-has-completed-a-full-term-13731122.html)
 
 Shehbaz Sharif, the younger brother of former Prime Minister Nawaz Sharif, is expected to become the next Prime Minister of Pakistan. A post-poll alliance of political parties has formed a coalition government after the recent elections, sidelining the party of jailed former Prime Minister Imran Khan. Shehbaz, aged 72, was nominated for the position instead of Nawaz Sharif, who was seeking a fourth term. It is worth noting that no previous Prime Minister in Pakistan has completed a full five-year term in the country's history.
 
+Thu, 15 Feb 2024 16:57:09 +0530
+### [In Graphics | Why no former Pakistan PM has completed a full term](http://www.firstpost.com/explainers/in-graphics-why-no-former-pakistan-pm-has-completed-a-full-term-13731122.html)
+
+Article found but Couldn't summarize 
+Following the election, a coalition of major political parties is poised to form a government in Pakistan, with Shehbaz Sharif set to take over as prime minister. Notably, in Pakistan's 77-year history, no premier has ever served out a full five-year term. Here's a look at how they were ousted
+
 Thu, 15 Feb 2024 16:56:14 +0530
 ### [Japan, UK enter recession: How it could affect everyday life](https://www.firstpost.com/explainers/japan-uk-enter-recession-how-it-could-affect-everyday-life-13732142.html)
 
 Japan's nominal GDP has fallen below Germany's, causing Japan to lose its position as the world's fourth-largest economy. Japan unexpectedly slipped into a recession, with its GDP falling 0.4% in the October-December period. The sluggishness in consumption and capital expenditure were key factors contributing to this decline. The weak data may cast doubt on the Bank of Japan's forecast of rising wages and inflation. In a separate development, the UK's GDP declined by 0.3% in the fourth quarter, indicating a short-lived and shallow recession. The common man may feel the impacts of a recession through increased unemployment and difficulties in finding employment or getting promotions and pay raises.
+
+Thu, 15 Feb 2024 16:56:14 +0530
+### [Japan, UK enter recession: How it could affect everyday life](http://www.firstpost.com/explainers/japan-uk-enter-recession-how-it-could-affect-everyday-life-13732142.html)
+
+Article found but Couldn't summarize 
+While there is no legal definition for recession, it is generally understood to have begun after two straight quarters of contraction. Experts say unemployment could rise in a recession as companies lay off workers and governments could pare back on public spending
 
 Thu, 15 Feb 2024 16:27:12 +0530
 ### [No Match: Why Tinder and Hinge have been sued in the US](https://www.firstpost.com/explainers/no-match-why-tinder-and-hinge-have-been-sued-in-the-us-13730022.html)
@@ -141,10 +325,22 @@ Thu, 15 Feb 2024 16:27:12 +0530
 Article found but Couldn't summarize 
 No Match: Why Tinder and Hinge have been sued in the US
 
+Thu, 15 Feb 2024 16:27:12 +0530
+### [No Match: Why Tinder and Hinge have been sued in the US](http://www.firstpost.com/explainers/no-match-why-tinder-and-hinge-have-been-sued-in-the-us-13730022.html)
+
+Article found but Couldn't summarize 
+A lawsuit has been filed in federal court in the Northern District of California on Valentine’s Day against Match, the parent company of dating apps like Tinder and Hinge, claiming that these dating apps contain addictive features that encourage 'compulsive' use
+
 Thu, 15 Feb 2024 16:18:37 +0530
 ### [What is South Korea’s lab-grown ‘beef rice’, touted as ‘food of the future’?](https://www.firstpost.com/explainers/what-is-south-koreas-lab-grown-beef-rice-touted-as-food-of-the-future-13730242.html)
 
 South Korean researchers have successfully grown rice grains using cow muscle and fat cells, creating a hybrid food known as beef rice. The rice was coated with fish gelatine and food enzymes to allow the beef cells to adhere to it, and then it was allowed to grow in a petri dish. The resulting hybrid rice was found to be firmer and more brittle than ordinary rice and had a nutty and slightly sweet flavor. The researchers believe that lab-cultured beef rice could be a cost-effective protein source with a lower carbon footprint compared to traditional beef production. It contains 7% more fat and 8% more protein than regular rice and could potentially serve as food relief in times of famine or military rations. Lab-grown meat is seen as a way to reduce the environmental impact of cattle farming, which contributes to greenhouse gas emissions. The cost of hybrid rice is estimated to be around $2.23 per kilogram, significantly less than the cost of beef.
+
+Thu, 15 Feb 2024 16:18:37 +0530
+### [What is South Korea’s lab-grown ‘beef rice’, touted as ‘food of the future’?](http://www.firstpost.com/world/what-is-south-koreas-lab-grown-beef-rice-touted-as-food-of-the-future-13730242.html)
+
+Article found but Couldn't summarize 
+South Korean scientists have developed a new hybrid food, beef rice, which could offer an affordable and eco-friendly source of protein. It tastes a bit ‘nutty and a little sweet and carries a blend of aromas’
 
 Thu, 15 Feb 2024 15:09:44 +0530
 ### [Did TMC men sexually harass women at late-night meets in Bengal’s Sandeshkhali?](https://www.firstpost.com/explainers/did-trinamool-men-call-women-for-late-night-meets-sexually-harass-them-in-bengals-sandeshkhali-13730882.html)
@@ -162,10 +358,34 @@ Thu, 15 Feb 2024 14:23:26 +0530
 
 A new poll reveals that one in five Americans believe in a conspiracy theory claiming that pop superstar Taylor Swift is part of a psychological operation (psy-op) to help Joe Biden win the presidential election. The theory suggests that Biden orchestrated Swift's romance with American football player Travis Kelce, rigged the Super Bowl in favor of Kelce's team, and planned for Swift to endorse Biden's reelection during the halftime show. However, none of these events actually occurred. The conspiracy theory has gained traction among Trump supporters, with 81% of those who believe in it supporting the Republican party.
 
+Thu, 15 Feb 2024 14:23:26 +0530
+### [Is Taylor Swift helping Joe Biden to win the election? 1 in 5 US voters thinks so](http://www.firstpost.com/explainers/is-taylor-swift-helping-joe-biden-to-win-the-election-1-in-5-us-voters-thinks-so-13730732.html)
+
+Article found but Couldn't summarize 
+A new poll shows one in five US voters believe that Taylor Swift is part of a covert operation to help President Joe Biden get re-elected in November. Eighty-one per cent of those who believe this baseless conspiracy are Donald Trump supporters
+
+Thu, 15 Feb 2024 14:16:59 +0530
+### [Did TMC men sexually harass women at late-night meets in Bengal’s Sandeshkhali?](http://www.firstpost.com/india/did-trinamool-men-call-women-for-late-night-meets-sexually-harass-them-in-bengals-sandeshkhali-13730882.html)
+
+Article found but Couldn't summarize 
+Several local women in Sandeshkhali village have levelled allegations of sexual harassment against TMC leader Sheikh Shahjahan and his two aides Uttam Sardar and Shibaparasd Hazra. A political row has erupted in West Bengal since the incident came to light recently
+
 Thu, 15 Feb 2024 13:43:52 +0530
 ### [How Indian embassy employee arrested for spying was honey-trapped by woman](https://www.firstpost.com/explainers/how-indian-embassy-employee-arrested-for-spying-was-honey-trapped-by-woman-13730542.html)
 
 Satendra Siwal, an Indian embassy employee in Moscow, was allegedly honey-trapped and paid Rs 25 lakh by the Pakistani spy organization Inter-Services Intelligence (ISI) to participate in an espionage scheme. Siwal confessed to leaking information about Indian military installations and issues related to the country's foreign offices. He had been tricked by a woman posing as an ISI agent on social media, who enticed him to share sensitive documents. Siwal shared secret documents on weapon systems of the Indian Air Force and Navy, including warplanes and submarines. He is currently in ATS remand and his family has relocated. The Ministry of External Affairs is collaborating with investigative authorities in the case.
+
+Thu, 15 Feb 2024 13:43:52 +0530
+### [How Indian embassy employee arrested for spying was honey-trapped by woman](http://www.firstpost.com/explainers/how-indian-embassy-employee-arrested-for-spying-was-honey-trapped-by-woman-13730542.html)
+
+Article found but Couldn't summarize 
+Satendra Siwal, the Indian embassy worker who is now arrested, came in touch with the woman last year online, according to the UP ATS. She honey-trapped him and enticed him to share secret documents with her for money
+
+Thu, 15 Feb 2024 13:29:04 +0530
+### [‘Quid pro quo...’: What SC said while declaring electoral bonds ‘unconstitutional’](http://www.firstpost.com/india/why-supreme-court-has-declared-electoral-bonds-unconstitutional-in-landmark-verdict-13730772.html)
+
+Article found but Couldn't summarize 
+A five-judge Constitution bench, headed by Chief Justice DY Chandrachud, in a unanimous decision held that the electoral bond scheme is unconstitutional. In its verdict, the court stated that it violates the Right to Information. It has also ordered the details of these contributions be made public
 
 Thu, 15 Feb 2024 12:50:45 +0530
 ### [How fans took on a gunman at Kansas City Chiefs Super Bowl parade in the US](https://www.firstpost.com/explainers/how-fans-took-on-a-gunman-at-kansas-city-chiefs-super-bowl-parade-in-the-us-13730392.html)
@@ -173,11 +393,23 @@ Thu, 15 Feb 2024 12:50:45 +0530
 Article found but Couldn't summarize 
 How fans took on a gunman at Kansas City Chiefs Super Bowl parade in the US
 
+Thu, 15 Feb 2024 12:50:45 +0530
+### [How fans took on a gunman at Kansas City Chiefs Super Bowl parade in the US](http://www.firstpost.com/world/how-fans-took-on-a-gunman-at-kansas-city-chiefs-super-bowl-parade-in-the-us-13730392.html)
+
+Article found but Couldn't summarize 
+A victory parade of the American football team Kansas City Chiefs after their Super Bowl victory turned tragic after gunmen went on a shooting spree. One person died and more than 20 were injured. A couple of fans at the rally turned heroes as they stopped a suspect with a weapon
+
 Thu, 15 Feb 2024 11:45:15 +0530
 ### [How Donald Trump used a Valentine's Day love letter to raise funds for his poll campaign](https://www.firstpost.com/explainers/how-donald-trump-used-a-valentines-day-love-letter-to-raise-funds-for-his-poll-campaign-13729142.html)
 
 Article found but Couldn't summarize 
 How Donald Trump used a Valentine's Day love letter to raise funds for his poll campaign
+
+Thu, 15 Feb 2024 11:45:15 +0530
+### [How Donald Trump used a Valentine's Day love letter to raise funds for his poll campaign](http://www.firstpost.com/explainers/how-donald-trump-used-a-valentines-day-love-letter-to-raise-funds-for-his-poll-campaign-13729142.html)
+
+Article found but Couldn't summarize 
+Former US president Donald Trump sought donations from ‘loving’ fans via email fund-raising, using a Valentine's Day letter to his third wife, Melania Trump. He pledged his devotion to her by referring to his indictments as he pitched for donation from supporters
 
 Thu, 15 Feb 2024 11:24:17 +0530
 ### [Supreme Court delivers verdict on electoral bonds: Why are they contentious?](https://www.firstpost.com/explainers/supreme-court-electoral-bonds-centre-political-parties-funding-black-money-controversy-13321482.html)
@@ -191,17 +423,47 @@ Thu, 15 Feb 2024 10:25:18 +0530
 Article found but Couldn't summarize 
 The security deals Ukraine is negotiating with its Western allies
 
+Thu, 15 Feb 2024 10:25:18 +0530
+### [The security deals Ukraine is negotiating with its Western allies](http://www.firstpost.com/explainers/the-security-deals-ukraine-is-negotiating-with-its-western-allies-13729372.html)
+
+Article found but Couldn't summarize 
+Ukraine has been in talks with an expanding group of countries to agree bilateral agreements on security commitments while it strives to reach its strategic goal of NATO membership and presses to secure foreign assistance to fight Russia's invasion
+
+Thu, 15 Feb 2024 10:15:30 +0530
+### [Supreme Court delivers verdict on electoral bonds: Why are they contentious?](http://www.firstpost.com/india/supreme-court-electoral-bonds-centre-political-parties-funding-black-money-controversy-13321482.html)
+
+Article found but Couldn't summarize 
+A five-judge Constitution bench headed by Chief Justice DY Chandrachud has unanimously struck down the Centre's electoral bond scheme, stating it is unconstitutional and arbitrary. But what exactly are electoral bonds and why have they been so controversial?
+
 Thu, 15 Feb 2024 10:06:26 +0530
 ### [Trade, energy &amp; friendship: What PM Modi and Qatar counterpart discussed](https://www.firstpost.com/explainers/trade-energy-and-friendship-what-pm-modi-and-qatar-counterpart-discussed-during-talks-13729342.html)
 
 Article found but Couldn't summarize 
 Trade, energy &amp;amp; friendship: What PM Modi and Qatar counterpart discussed
 
+Thu, 15 Feb 2024 10:03:47 +0530
+### [Trade, energy & friendship: What PM Modi and Qatar counterpart discussed](http://www.firstpost.com/explainers/trade-energy-and-friendship-what-pm-modi-and-qatar-counterpart-discussed-during-talks-13729342.html)
+
+Article found but Couldn't summarize 
+PM Modi arrived in Doha on Wednesday and met with his Qatari counterpart, Sheikh Mohammed bin Abdulrahman Al Thani. The two had talks — from ways to boost ties between the two nations to upholding peace in the region. It is not yet clear if the released Navy veterans figured in their discussions
+
 Thu, 15 Feb 2024 08:11:25 +0530
 ### [What’s the Atlantic diet, the cousin of the famous Mediterranean diet? How healthy is it?](https://www.firstpost.com/explainers/whats-the-atlantic-diet-the-cousin-of-the-famous-mediterranean-diet-how-healthy-is-it-13728252.html)
 
 Article found but Couldn't summarize 
 What’s the Atlantic diet, the cousin of the famous Mediterranean diet? How healthy is it?
+
+Thu, 15 Feb 2024 08:11:25 +0530
+### [What’s the Atlantic diet, the cousin of the famous Mediterranean diet? How healthy is it?](http://www.firstpost.com/health/whats-the-atlantic-diet-the-cousin-of-the-famous-mediterranean-diet-how-healthy-is-it-13728252.html)
+
+Article found but Couldn't summarize 
+The award-winning Mediterranean diet is passé. The Atlantic diet is catching on. It helps in reducing belly fat and cholesterol but at the same time allows you to enjoy bread and pasta. It benefits the people and the planet
+
+Thu, 15 Feb 2024 05:00:53 +0530
+### [FirstUp: Farmers meet with ministers, India Vs England in Rajkot … The big news today](http://www.firstpost.com/explainers/firstup-farmers-meet-with-union-ministers-india-vs-england-in-rajkot-the-big-news-today-13728372.html)
+
+Article found but Couldn't summarize 
+Farmer leaders will meet Union ministers to discuss their several demands, including a legal guarantee of minimum support price for all crops. This comes a day after both parties held virtual talks amid the ongoing protest. Here’s this and other major developments that you can expect during the day
 
 Wed, 14 Feb 2024 20:51:17 +0530
 ### [Abu Dhabi's first Hindu temple opening: A look at the largest shrines outside India](https://www.firstpost.com/explainers/abu-dhabis-first-hindu-temple-opening-a-look-at-the-largest-shrines-outside-india-13723322.html)
@@ -214,6 +476,12 @@ Wed, 14 Feb 2024 20:44:28 +0530
 
 Article found but Couldn't summarize 
 BAPS Mandir in Abu Dhabi: The idols inside the temple revealed
+
+Wed, 14 Feb 2024 20:44:28 +0530
+### [BAPS Mandir in Abu Dhabi: The idols inside the temple revealed](http://www.firstpost.com/explainers/baps-mandir-in-abu-dhabi-the-idols-inside-the-temple-revealed-13728322.html)
+
+Article found but Couldn't summarize 
+The idols of deities include Lord Ram and Sita, Lord Shiva and Parvati, Lord Jagannath, Lord Krishna, Lord Swaminarayan, Tirupati Balaji and Lord Ayappa. The BAPS mandir is the first Hindu temple in Abu Dhabi and the largest in the Gulf
 
 Wed, 14 Feb 2024 20:44:15 +0530
 ### [FirstUp: Farmers meet with Union ministers, India Vs England in Rajkot … The big news today](https://www.firstpost.com/explainers/firstup-farmers-meet-with-union-ministers-india-vs-england-in-rajkot-the-big-news-today-13728372.html)
@@ -232,6 +500,18 @@ Wed, 14 Feb 2024 19:14:25 +0530
 
 Sonia Gandhi, senior Congress leader and former party chief, has filed her nomination papers for the Rajya Sabha polls in Rajasthan. This move comes ahead of the 2024 Lok Sabha polls. Sonia has previously served five terms as a Lok Sabha MP and her victory in the Rajya Sabha election is assured as the Congress has enough MLAs to secure the required votes. This will be Sonia's first term in the Upper House. The seat she is contesting will fall vacant in April after former prime minister Manmohan Singh completes his term. Sonia's shift to the Rajya Sabha signifies a change in her political role and the Congress party's strategy.
 
+Wed, 14 Feb 2024 19:14:25 +0530
+### [Why Sonia Gandhi filed nomination for RS and what this means for 2024 polls](http://www.firstpost.com/explainers/why-sonia-gandhi-filed-nomination-for-rs-and-what-this-means-for-2024-polls-13728002.html)
+
+Article found but Couldn't summarize 
+Sonia Gandhi, the former Congress chief and five-time Lok Sabha MP, on Wednesday filed her nomination papers for the Rajya Sabha polls from Rajasthan. Experts say this could signify a shift in Congress leadership
+
+Wed, 14 Feb 2024 19:04:06 +0530
+### [PM Modi inaugurates BAPS temple in Abu Dhabi: What the Hindu mandir in UAE signals](http://www.firstpost.com/explainers/pm-narendra-modi-abu-dhabi-baps-temple-inauguration-what-the-hindu-mandir-in-uae-signals-13727332.html)
+
+Article found but Couldn't summarize 
+Abu Dhabi’s first Hindu temple was inaugurated by PM Narendra Modi on Wednesday during his two-day visit to the UAE. His trip just months ahead of the general elections in India signifies the close ties between the two countries. The shrine also connects the cultures of both nations
+
 Wed, 14 Feb 2024 18:51:44 +0530
 ### [Farmers' protest: What is the Swaminathan Commission? What did it recommend?](https://www.firstpost.com/explainers/farmers-protest-what-is-the-swaminathan-commission-what-did-it-recommend-13726532.html)
 
@@ -243,15 +523,39 @@ Wed, 14 Feb 2024 17:42:51 +0530
 
 Eight retired Indian Navy veterans who were released from a Qatar jail have returned home to India. Their release came as a surprise, with Qatari officials asking them to pack their belongings and wait for 9 am the next day. They were then taken to the embassy and transported to the airport, flying on an IndiGo flight to Delhi. The veterans expressed joy and gratitude upon their return, attributing their survival in jail to their defense training. One veteran is still expected to return after completing some paperwork. The release of the veterans was made possible through the efforts of the Indian government, including Prime Minister Narendra Modi's personal intervention.
 
+Wed, 14 Feb 2024 17:42:51 +0530
+### [‘Survived only because of our training’: How Navy veterans spent months in Qatar prison](http://www.firstpost.com/explainers/survived-only-because-of-our-training-how-navy-veterans-spent-months-in-qatar-prison-13727342.html)
+
+Article found but Couldn't summarize 
+After spending months in captivity in a Qatar prison, Navy veterans have returned home much to their relief. Now, comfortable at home, they recount their life behind bars and what the future holds for them
+
+Wed, 14 Feb 2024 17:15:59 +0530
+### [Farmers' protest: What is the Swaminathan Commission? What did it recommend?](http://www.firstpost.com/explainers/farmers-protest-what-is-the-swaminathan-commission-what-did-it-recommend-13726532.html)
+
+Article found but Couldn't summarize 
+A fresh spotlight is being shone on the Swaminathan Commission in the backdrop of the farmers' protests. Established in 2004 by the erstwhile UPA regime, the commission headed by Professor MS Swaminathan made several recommendations including bringing a law on MSP, which is the key demand of farmers
+
 Wed, 14 Feb 2024 17:09:36 +0530
 ### [Indian-origin IT couple, twins found dead in California home. What happened?](https://www.firstpost.com/explainers/indian-origin-it-couple-twins-found-dead-in-california-home-what-happened-13726612.html)
 
 An Indian-origin family from Kerala has been found dead at their home in California. The family consists of Anand Sujith Henry, his wife Alice Priyanka, and their four-year-old twin children Noah and Neithan. The police are investigating the case as a murder-suicide. The couple was found dead with gunshot wounds in the bathroom, along with a pistol and loaded magazine. The cause of death for the children is still under investigation, as there were no signs of trauma on their bodies. The police believe they may have been smothered, strangled, or given a lethal overdose. The incident is being treated as an isolated incident, and no suicide note was found at the scene. The family had been living in the United States for the past nine years, and they were well-liked by their coworkers and neighbors. The investigation is ongoing, and the family's relatives in India have received consular assistance.
 
+Wed, 14 Feb 2024 17:09:36 +0530
+### [Indian-origin IT couple, twins found dead in California home. What happened?](http://www.firstpost.com/explainers/indian-origin-it-couple-twins-found-dead-in-california-home-what-happened-13726612.html)
+
+Article found but Couldn't summarize 
+An Indian-origin family from Kerala was found dead at their residence in California’s San Mateo, on 13 February. While the probe is still underway, investigators believe it to be a possible murder-suicide case
+
 Wed, 14 Feb 2024 16:53:40 +0530
 ### [Modi in UAE: What is Bharat Mart, the mega facility inaugurated by PM in Dubai?](https://www.firstpost.com/explainers/modi-in-uae-what-is-bharat-mart-the-mega-facility-inaugurated-by-pm-in-dubai-13727202.html)
 
 Bharat Mart is a warehousing facility in Dubai that aims to showcase Indian products under one roof. It will have retail showrooms, warehouses, offices, and other facilities to accommodate various categories of goods. The project is expected to be operational by 2025. Bharat Mart will benefit India by providing a one-stop shop for Indian exports and helping Indian firms expand their operations into regions like Africa, Europe, and the United States. It will also contribute to strengthening trade ties between India and the UAE.
+
+Wed, 14 Feb 2024 16:53:40 +0530
+### [Modi in UAE: What is Bharat Mart, the mega facility inaugurated by PM in Dubai?](http://www.firstpost.com/explainers/modi-in-uae-what-is-bharat-mart-the-mega-facility-inaugurated-by-pm-in-dubai-13727202.html)
+
+Article found but Couldn't summarize 
+Prime Minister Modi has inaugurated Bharat Mart, a warehousing facility, in Dubai on Day 2 of his UAE visit. This space, similar to China’s Dragon Mart, will provide Indian exporters a common platform to display and sell their products, ranging from machinery to perishable items
 
 Wed, 14 Feb 2024 15:54:11 +0530
 ### [What does farmers' protest mean for India ahead of 2024 polls?](https://www.firstpost.com/explainers/what-does-farmers-protest-mean-for-india-ahead-of-2024-polls-13725922.html)
@@ -259,21 +563,51 @@ Wed, 14 Feb 2024 15:54:11 +0530
 Article found but Couldn't summarize 
 What does farmers' protest mean for India ahead of 2024 polls?
 
+Wed, 14 Feb 2024 15:23:27 +0530
+### [What does farmers' protest mean for India ahead of 2024 polls?](http://www.firstpost.com/explainers/what-does-farmers-protest-mean-for-india-ahead-of-2024-polls-13725922.html)
+
+Article found but Couldn't summarize 
+The farmers' protest comes just months ahead of the 2024 Lok Sabha polls in which Prime Minister Narendra Modi is eyeing his third straight term. Experts say while it could have an impact on the BJP's chances in the Hindi heartland, things aren't looking too good for the INDIA bloc either
+
+Wed, 14 Feb 2024 15:11:07 +0530
+### [Abu Dhabi's first Hindu temple opening: A look at the largest shrines outside India](http://www.firstpost.com/explainers/abu-dhabis-first-hindu-temple-opening-a-look-at-the-largest-shrines-outside-india-13723322.html)
+
+Article found but Couldn't summarize 
+Built in the 12th Century, the Angkor Wat in Cambodia is the largest temple complex in the world. As PM Narendra Modi unveiled Abu Dhabi’s first Hindu temple, here are other majestic places of worship for devotees abroad
+
 Wed, 14 Feb 2024 14:44:37 +0530
 ### [Valentine’s Day: When did humans start kissing?](https://www.firstpost.com/explainers/valentines-day-when-did-humans-start-kissing-13725242.html)
 
 Article found but Couldn't summarize 
 Valentine’s Day: When did humans start kissing?
 
+Wed, 14 Feb 2024 14:44:37 +0530
+### [Valentine’s Day: When did humans start kissing?](http://www.firstpost.com/explainers/valentines-day-when-did-humans-start-kissing-13725242.html)
+
+Article found but Couldn't summarize 
+The exact moment when humans discovered the sensual pleasure of kissing is unknown, but scientists believe the first recorded instances of kissing were found on 2,400 BC clay tablets from Mesopotamia
+
 Wed, 14 Feb 2024 13:46:35 +0530
 ### [How the Indian Navy is going desi by bringing kurta-pyjama in naval messes](https://www.firstpost.com/explainers/how-the-indian-navy-is-going-desi-by-bringing-kurta-pyjama-in-naval-messes-13725952.html)
 
 The Indian Navy has recently allowed officers and sailors to wear kurta-pyjamas in naval messes as part of their efforts to move away from colonial practices. The new dress code permits the ethnic attire of kurta-pyjamas, sleeveless jackets, closed formal shoes or sandals, and matching or contrast tone narrow pyjamas. Female officers can wear kurta-churidaar or kurta-palazzo. This move aims to promote inclusivity, respect for culture, and shed the colonial mindset. The Indian Navy has been taking steps to remove colonial customs, such as introducing a new design for Admirals’ epaulettes and Indianizing rank names.
 
+Wed, 14 Feb 2024 13:46:35 +0530
+### [How the Indian Navy is going desi by bringing kurta-pyjama in naval messes](http://www.firstpost.com/explainers/how-the-indian-navy-is-going-desi-by-bringing-kurta-pyjama-in-naval-messes-13725952.html)
+
+Article found but Couldn't summarize 
+The Indian Navy has reportedly issued orders to its commands and establishments to allow officers and sailors to wear kurta-pyjamas in naval messes with some caveats. The move comes as the armed force is on the path to end ‘ghulami ki maansikta’ or colonial mindset
+
 Wed, 14 Feb 2024 13:22:50 +0530
 ### [Why Shehbaz Sharif and not Nawaz Sharif is likely to be the next Pakistan PM](https://www.firstpost.com/explainers/why-shehbaz-sharif-and-not-nawaz-sharif-is-likely-to-be-the-next-pakistan-pm-13725702.html)
 
 In Pakistan's recent elections, the results revealed a hung parliament with no majority party. Pakistan Muslim League (Nawaz) and Pakistan Peoples Party agreed to form a coalition government comprising six parties. Although Nawaz Sharif was expected to become the next prime minister, he instead nominated his brother Shehbaz for the position. Shehbaz Sharif secured the blessing of his elder brother to lead the country. The coalition government consists of parties that together have a majority in parliament. The decision to nominate Shehbaz was driven by the desire for political stability and the support of the Pakistan Peoples Party.
+
+Wed, 14 Feb 2024 13:22:50 +0530
+### [Why Shehbaz Sharif and not Nawaz Sharif is likely to be the next Pakistan PM](http://www.firstpost.com/world/why-shehbaz-sharif-and-not-nawaz-sharif-is-likely-to-be-the-next-pakistan-pm-13725702.html)
+
+Article found but Couldn't summarize 
+In a surprising move, the Pakistan Muslim League (Nawaz) [PML-N] has nominated Shehbaz Sharif as its official candidate for the prime minister’s post. This comes after speculation was rife that Nawaz Sharif would return as Pakistan’s PM for the record fourth time. So what changed?
 
 Wed, 14 Feb 2024 13:22:03 +0530
 ### [In a first, woman set to marry hologram: Why people are turning to AI for love](https://www.firstpost.com/explainers/in-a-first-woman-set-to-marry-hologram-why-people-are-turning-to-ai-for-love-13725762.html)
@@ -281,25 +615,55 @@ Wed, 14 Feb 2024 13:22:03 +0530
 Article found but Couldn't summarize 
 In a first, woman set to marry hologram: Why people are turning to AI for love
 
+Wed, 14 Feb 2024 13:17:22 +0530
+### [In a first, woman set to marry hologram: Why people are turning to AI for love](http://www.firstpost.com/explainers/in-a-first-woman-set-to-marry-hologram-why-people-are-turning-to-ai-for-love-13725762.html)
+
+Article found but Couldn't summarize 
+Spain’s Alicia Framis, is all set to become the first woman to tie the knot with an AI-generated hologram, named AILex. The 57-year-old notes that it is an experiment to test relationships between humans and AI. The surprising news comes as a rising number of people are turning to chatbots as lovers
+
 Wed, 14 Feb 2024 11:48:44 +0530
 ### [Bubonic plague in US: What's the illness that killed million in the 14th Century?](https://www.firstpost.com/explainers/bubonic-plague-in-us-whats-the-illness-that-killed-million-in-the-14th-century-13725002.html)
 
 The first case of bubonic plague since 2015 has been confirmed in Oregon, with the infected individual likely contracting the disease from a sick pet cat. The infected person and their close contacts have received medication, and the community is not believed to be at risk. Plague is caused by the bacterium Yersinia pestis, carried by rodents and fleas. It can manifest as bubonic plague, septicemic plague, or pneumonic plague, with symptoms including fever, weakness, and swollen lymph nodes. Plague is treatable with antibiotics, and early treatment improves chances of recovery. The risk of plague can be reduced by keeping homes and outdoor areas less attractive to rodents, using repellent when outdoors, and controlling fleas on pets. Plague, although historically associated with the Middle Ages, can still occur today but is now a treatable illness.
+
+Wed, 14 Feb 2024 11:48:44 +0530
+### [Bubonic plague in US: What's the illness that killed million in the 14th Century?](http://www.firstpost.com/explainers/bubonic-plague-in-us-whats-the-illness-that-killed-million-in-the-14th-century-13725002.html)
+
+Article found but Couldn't summarize 
+Officials in central Oregon this week reported a case of bubonic plague in a resident who likely got the disease from a sick pet cat. Is the discovery of the disease, which is known for killing millions of people in Europe during the Middle Ages, a cause of big concern in the modern day?
 
 Wed, 14 Feb 2024 11:46:35 +0530
 ### [Who will get free electricity under PM Surya Ghar: Muft Bijli Yojana?](https://www.firstpost.com/explainers/who-will-get-free-electricity-under-pm-surya-ghar-muft-bijli-yojana-13724042.html)
 
 Indian Prime Minister Narendra Modi has announced the launch of the "PM Surya Ghar: Muft Bijli Yojana," a new rooftop solar scheme aimed at providing up to 300 units of free electricity per month to one crore households. The government plans to bear the cost of setting up solar panels for households consuming less than 300 units of electricity monthly. The scheme aims to increase income, reduce power bills, and create employment opportunities. The capital subsidy for the scheme is expected to reach Rs 75,000 crore over the next three to five years, with central government companies responsible for supplying electricity to households instead of individual power distribution companies. Residential homes installing solar panels are eligible for subsidies. The application process involves registration, installation, and approval from the Electricity Distribution Company.
 
+Wed, 14 Feb 2024 11:42:09 +0530
+### [Who will get free electricity under PM Surya Ghar: Muft Bijli Yojana?](http://www.firstpost.com/explainers/who-will-get-free-electricity-under-pm-surya-ghar-muft-bijli-yojana-13724042.html)
+
+Article found but Couldn't summarize 
+In a bid to boost solar power and sustainable progress, Prime Minister Narendra Modi on Tuesday announced that his government is launching the ‘PM Surya Ghar: Muft Bijli Yojana’. The rooftop solar scheme will benefit about one crore households with free electricity
+
 Wed, 14 Feb 2024 11:11:48 +0530
 ### [Vyomorozka is known as one of the toughest jobs in the world: What is it?](https://www.firstpost.com/explainers/vyomorozka-is-known-as-one-of-the-toughest-jobs-in-the-world-what-is-it-13724632.html)
 
 This article discusses the challenging job of maintaining ships in freezing conditions in Yakutsk, Russia. Workers laboriously chip away at the ice to find areas that need repair, facing temperatures as low as -50 degrees Celsius. The job, known as vymorozka, is considered one of the toughest in the world. The shipyard is located in Yakutsk, near the Lena River, which is Siberia's economic center during the summer. Some workers find the job manageable by dressing appropriately and appreciating the cold. It requires strength, precision, and the ability to handle extreme temperatures.
 
+Wed, 14 Feb 2024 11:11:48 +0530
+### [Vyomorozka is known as one of the toughest jobs in the world: What is it?](http://www.firstpost.com/explainers/vyomorozka-is-known-as-one-of-the-toughest-jobs-in-the-world-what-is-it-13724632.html)
+
+Article found but Couldn't summarize 
+The process of 'vymorozka,' which roughly translates as 'freezing out,' is backbreaking and tedious work that takes weeks in some of the world's harshest conditions, with temperatures dropping to minus 50 degrees Celsius (-58 F)
+
 Wed, 14 Feb 2024 10:03:59 +0530
 ### [US House impeaches Joe Biden’s homeland security secretary: What comes next?](https://www.firstpost.com/explainers/us-house-impeaches-joe-bidens-homeland-security-secretary-what-comes-next-13724292.html)
 
 The US House of Representatives has voted to impeach Secretary of Homeland Security Alejandro Mayorkas, making it the first time in nearly 150 years that a Cabinet secretary has been impeached. House Republicans have been investigating Mayorkas' handling of the US-Mexico border, aiming to make it a major election issue. The Biden administration and its supporters argue that the impeachment is based on policy disputes rather than high crimes and misdemeanors. Mayorkas will keep his job unless the Senate, where Democrats hold the majority, votes to convict him. However, conviction requires a two-thirds majority, making it unlikely.
+
+Wed, 14 Feb 2024 10:03:59 +0530
+### [US House impeaches Joe Biden’s homeland security secretary: What comes next?](http://www.firstpost.com/explainers/us-house-impeaches-joe-bidens-homeland-security-secretary-what-comes-next-13724292.html)
+
+Article found but Couldn't summarize 
+House Republicans have spent months investigating Alejandro Mayorkas’ actions as they’ve aimed to make immigration and border security a key election issue. Here’s a look at how the House arrived at the impeachment vote and what could happen next
 
 Wed, 14 Feb 2024 10:03:57 +0530
 ### [‘Delhi Chalo’: How drones air-dropped tear gas on protesting farmers at Shambhu border](https://www.firstpost.com/explainers/delhi-chalo-how-drones-air-dropped-tear-gas-on-protesting-farmers-at-shambhu-border-13724302.html)
@@ -307,20 +671,44 @@ Wed, 14 Feb 2024 10:03:57 +0530
 Article found but Couldn't summarize 
 ‘Delhi Chalo’: How drones air-dropped tear gas on protesting farmers at Shambhu border
 
+Wed, 14 Feb 2024 10:03:57 +0530
+### [‘Delhi Chalo’: How drones air-dropped tear gas on protesting farmers at Shambhu border](http://www.firstpost.com/india/delhi-chalo-how-drones-air-dropped-tear-gas-on-protesting-farmers-at-shambhu-border-13724302.html)
+
+Article found but Couldn't summarize 
+In a first, Haryana Police, on Tuesday, used drones to lob tear gas on protesting farmers at the Shambhu border. These unmanned vehicles used by the authorities were designed by the Border Security Force in 2022 and have an extended range, making them more effective than conventional guns
+
 Wed, 14 Feb 2024 07:36:35 +0530
 ### [Prabowo Subianto: The 'cute grandpa' with a bloody past, who is likely to win Indonesia's elections](https://www.firstpost.com/explainers/prabowo-subianto-the-cute-grandpa-with-a-bloody-past-who-is-likely-to-win-indonesias-elections-13722512.html)
 
 Former army general Prabowo Subianto, an ambitious and controversial figure in Indonesian politics, is now leading in the latest polls ahead of the election, positioning himself to potentially become president. Prabowo has a history of involvement in covert operations and human rights abuses during the authoritarian regime of former president Soeharto. Despite his dark past, Prabowo has made several attempts at running for higher office, including two presidential bids in 2009 and 2014, both of which he lost. In a surprising move, Prabowo later joined forces with his rival, Joko Widodo (Jokowi), and served as defense minister in Jokowi's cabinet. Now, with Jokowi's support, Prabowo has a significant lead in the polls for the presidential election. However, if elected, Prabowo's past comments suggest he may seek to dismantle key democratic institutions and revert to a more authoritarian model of governance.
+
+Wed, 14 Feb 2024 07:36:35 +0530
+### [Prabowo Subianto: The 'cute grandpa' with a bloody past, who is likely to win Indonesia's elections](http://www.firstpost.com/world/prabowo-subianto-the-cute-grandpa-with-a-bloody-past-who-is-likely-to-win-indonesias-elections-13722512.html)
+
+Article found but Couldn't summarize 
+Prabowo Subianto, the ex-military general, has campaigned for the elections in Indonesia as a baby-faced 'gemoy' (cute) grandpa. However, he is far from that. The 72-year-old wishes the country return to its original 1945 constitution, which means that most of the reforms undertaken would unravel
 
 Wed, 14 Feb 2024 07:34:48 +0530
 ### [Voting with nails, mascots, doppelgangers: Fun facts about Indonesia polls](https://www.firstpost.com/explainers/voting-with-nails-mascots-doppelgangers-fun-facts-about-indonesia-polls-13723312.html)
 
 Today, Indonesia, one of the world's largest democracies, is holding a complex election with over 200 million eligible voters. The election will determine the president, vice president, and various parliamentary and local legislature positions. Unique aspects of the Indonesian election include using a nail to punch ballot slips and counting votes in public. The logistical challenges include a six-hour voting period, potential rainy season downpours, cyber-attacks, and fraud. The election involves over seven million election officials overseeing the largest one-day election in the world. Communal voting and the use of animals like elephants, horses, and cows to transport ballots in remote areas add to the complexity. The risk of flooding and the destruction of ballots due to heavy rain are concerns. The election is notable for its high stakes and intricate nature.
 
+Wed, 14 Feb 2024 07:34:48 +0530
+### [Voting with nails, mascots, doppelgangers: Fun facts about Indonesia polls](http://www.firstpost.com/explainers/voting-with-nails-mascots-doppelgangers-fun-facts-about-indonesia-polls-13723312.html)
+
+Article found but Couldn't summarize 
+Over 200 million people are eligible to vote in the Muslim-majority nation of Indonesia with the posts of president and vice president and a number of parliamentary and local legislatures up for grabs. Let's take a look at some interesting facts about the Indonesia polls
+
 Wed, 14 Feb 2024 07:32:44 +0530
 ### [FirstUp: Indonesia goes to polls, PM to inaugurate Abu Dhabi mandir... Today's news](https://www.firstpost.com/explainers/firstup-indonesia-goes-to-polls-pm-to-inaugurate-abu-dhabi-mandir-todays-big-stories-13723032.html)
 
 The BAPS Hindu Mandir, the first traditional Hindu stone temple in the UAE, is opening in Abu Dhabi on February 14. Prime Minister Narendra Modi will be inaugurating the temple during his visit to Abu Dhabi. The temple, made of pink sandstone, is located on a 27-acre plot in Abu Dhabi's Abu Mureikhah district. It aims to promote harmony among different cultures, religions, communities, and countries. This visit is significant for the India-UAE relationship and is expected to deepen the strategic partnership between the two nations. After the inauguration, Prime Minister Modi will travel to Qatar to meet the Emir and strengthen bilateral ties.
+
+Wed, 14 Feb 2024 07:00:46 +0530
+### [FirstUp: Indonesia goes to polls, PM to inaugurate Abu Dhabi mandir... Today's news](http://www.firstpost.com/explainers/firstup-indonesia-goes-to-polls-pm-to-inaugurate-abu-dhabi-mandir-todays-big-stories-13723032.html)
+
+Article found but Couldn't summarize 
+Indonesia is going to the polls today to pick a successor to president President Joko Widodo. Prime Minister Narendra Modi is set to make history by inaugurating the first Hindu temple in Abu Dhabi. Ashok Chavan, the ex-Congress stalwart, will file his Rajya Sabha nomination for the BJP
 
 Tue, 13 Feb 2024 19:46:20 +0530
 ### [Sweet Love: Will Valentine's Day chocolates get expensive?](https://www.firstpost.com/explainers/sweet-love-will-valentines-day-chocolates-get-expensive-13722202.html)
@@ -334,11 +722,23 @@ Tue, 13 Feb 2024 19:44:36 +0530
 Article found but Couldn't summarize 
 Is Britain's The Body Shop shutting down?
 
+Tue, 13 Feb 2024 19:38:38 +0530
+### [Is Britain's The Body Shop shutting down?](http://www.firstpost.com/world/is-the-body-shop-shutting-down-whats-gone-wrong-for-britains-popular-beauty-brand-13721952.html)
+
+Article found but Couldn't summarize 
+Britain’s famous beauty brand The Body Shop is on the brink of administration — a UK process whereby experts are drafted in to try and save it. How did the nearly 50-year-old company that made sustainability and cruelty-free products ‘cool’ reach here?
+
 Tue, 13 Feb 2024 19:34:18 +0530
 ### [Why have Paris balconies become a big concern ahead of the Olympics?](https://www.firstpost.com/explainers/why-have-paris-balconies-become-a-big-concern-ahead-of-the-olympics-13723052.html)
 
 Article found but Couldn't summarize 
 Why have Paris balconies become a big concern ahead of the Olympics?
+
+Tue, 13 Feb 2024 19:34:18 +0530
+### [Why have Paris balconies become a big concern ahead of the Olympics?](http://www.firstpost.com/explainers/why-have-paris-balconies-become-a-big-concern-ahead-of-the-olympics-13723052.html)
+
+Article found but Couldn't summarize 
+Real estate experts in Paris have warned about the danger of people cramming onto balconies around the city to catch a glimpse of the Olympics in July and August this year. Here’s why
 
 Tue, 13 Feb 2024 18:27:15 +0530
 ### [Indonesian footballer dies after being hit by lightning: How it can be fatal](https://www.firstpost.com/explainers/indonesian-footballer-dies-after-being-hit-by-lightning-how-it-can-be-fatal-13722952.html)
@@ -346,11 +746,29 @@ Tue, 13 Feb 2024 18:27:15 +0530
 Article found but Couldn't summarize 
 Indonesian footballer dies after being hit by lightning: How it can be fatal
 
+Tue, 13 Feb 2024 18:27:15 +0530
+### [Indonesian footballer dies after being hit by lightning: How it can be fatal](http://www.firstpost.com/explainers/indonesian-footballer-dies-after-being-hit-by-lightning-how-it-can-be-fatal-13722952.html)
+
+Article found but Couldn't summarize 
+A football player died after being struck by lightning during a match in Indonesia. Lightning can be a deadly force of nature because it carries a tremendous energy. Here’s how it affects the body
+
 Tue, 13 Feb 2024 17:59:14 +0530
 ### [Tear gas, traffic snarls: What happened when farmers marched to Delhi](https://www.firstpost.com/explainers/tear-gas-water-cannons-traffic-snarls-what-happened-at-the-borders-as-farmers-marched-to-delhi-13722222.html)
 
 Article found but Couldn't summarize 
 Tear gas, traffic snarls: What happened when farmers marched to Delhi
+
+Tue, 13 Feb 2024 17:47:01 +0530
+### [Tear gas, traffic snarls: What happened when farmers marched to Delhi](http://www.firstpost.com/explainers/tear-gas-water-cannons-traffic-snarls-what-happened-at-the-borders-as-farmers-marched-to-delhi-13722222.html)
+
+Article found but Couldn't summarize 
+Police fired multiple tear gas rounds to disperse marchers at the Shambhu border crossing between Punjab and Haryana. Meanwhile, authorities have put concrete blocks and nails on vital roads to stop tractor-trollies from entering Delhi and commuters faced chaos amid closures
+
+Tue, 13 Feb 2024 17:18:57 +0530
+### [Sweet Love: Will Valentine's Day chocolates get expensive?](http://www.firstpost.com/explainers/sweet-love-will-valentines-day-chocolates-get-expensive-13722202.html)
+
+Article found but Couldn't summarize 
+The price of cocoa increased to a record high ahead of Valentine's Day last week, triggering concerns among chocolate makers. But why is cocoa cost on the rise and does this mean you need to pay more for the confectionery?
 
 Tue, 13 Feb 2024 17:07:48 +0530
 ### [How 10,000 children are fighting alongside armed groups in Central African Republic](https://www.firstpost.com/explainers/how-10000-children-are-fighting-alongside-armed-groups-in-central-african-republic-13721922.html)
@@ -358,11 +776,23 @@ Tue, 13 Feb 2024 17:07:48 +0530
 Article found but Couldn't summarize 
 How 10,000 children are fighting alongside armed groups in Central African Republic
 
+Tue, 13 Feb 2024 17:07:48 +0530
+### [How 10,000 children are fighting alongside armed groups in Central African Republic](http://www.firstpost.com/explainers/how-10000-children-are-fighting-alongside-armed-groups-in-central-african-republic-13721922.html)
+
+Article found but Couldn't summarize 
+About 10,000 children are still fighting alongside armed groups in the Central African Republic more than a decade after a civil war broke out. Here’s what is known about their recruitment and exploitation
+
 Tue, 13 Feb 2024 17:03:08 +0530
 ### [6-month ration, hideouts identified: How farmers are preparing for long stay in Delhi](https://www.firstpost.com/explainers/ration-for-6-months-hideouts-identified-how-farmers-are-preparing-for-a-long-delhi-chalo-march-13721432.html)
 
 Article found but Couldn't summarize 
 6-month ration, hideouts identified: How farmers are preparing for long stay in Delhi
+
+Tue, 13 Feb 2024 15:54:56 +0530
+### [6-month ration, hideouts identified: How farmers are preparing for long stay in Delhi](http://www.firstpost.com/explainers/ration-for-6-months-hideouts-identified-how-farmers-are-preparing-for-a-long-delhi-chalo-march-13721432.html)
+
+Article found but Couldn't summarize 
+Farmers from 200 unions are marching towards Delhi, demanding a law on MSP and more. They are preparing for a long haul in the Capital. Their tractors are loaded with ration and trolleys are filled with diesel. They have identified gurudwaras and ashrams where they can seek refuge
 
 Tue, 13 Feb 2024 15:30:34 +0530
 ### [From US to Pakistan, how TikTok takes centre stage for 2024 political campaigns](https://www.firstpost.com/explainers/from-us-to-pakistan-how-tiktok-takes-centre-stage-for-2024-political-campaigns-13721192.html)
@@ -370,11 +800,23 @@ Tue, 13 Feb 2024 15:30:34 +0530
 Article found but Couldn't summarize 
 From US to Pakistan, how TikTok takes centre stage for 2024 political campaigns
 
+Tue, 13 Feb 2024 15:25:55 +0530
+### [From US to Pakistan, how TikTok takes centre stage for 2024 political campaigns](http://www.firstpost.com/explainers/from-us-to-pakistan-how-tiktok-takes-centre-stage-for-2024-political-campaigns-13721192.html)
+
+Article found but Couldn't summarize 
+Joe Biden's 2024 campaign has joined TikTok despite the US president raising national security concerns around the app and several high-profile lawmakers calling for a ban on it. Let's take a look at why TikTok has emerged as a vital tool for candidates around the world
+
 Tue, 13 Feb 2024 14:33:49 +0530
 ### ['Delhi Chalo': How the ongoing farmers' protest is different from the 2020-21 stir](https://www.firstpost.com/explainers/delhi-chalo-how-the-ongoing-farmers-protest-is-different-from-the-2020-21-stir-13720912.html)
 
 Article found but Couldn't summarize 
 'Delhi Chalo': How the ongoing farmers' protest is different from the 2020-21 stir
+
+Tue, 13 Feb 2024 14:33:49 +0530
+### ['Delhi Chalo': How the ongoing farmers' protest is different from the 2020-21 stir](http://www.firstpost.com/explainers/delhi-chalo-how-the-ongoing-farmers-protest-is-different-from-the-2020-21-stir-13720912.html)
+
+Article found but Couldn't summarize 
+Over 200 farmers' unions from some northern states have started their ‘Delhi Chalo’ march to press the Centre for several demands, including a legal guarantee of MSP for all crops. The current protests are a reminder of the yearlong agitation in 2020-21. But here's what has changed since
 
 Tue, 13 Feb 2024 13:45:29 +0530
 ### [Bilaterals, Hindu temple opening and more: Why Modi's visit to UAE is crucial](https://www.firstpost.com/explainers/bilaterals-hindu-temple-opening-and-more-why-pm-modis-visit-to-the-uae-is-crucial-13719082.html)
@@ -388,11 +830,23 @@ Tue, 13 Feb 2024 13:35:50 +0530
 Article found but Couldn't summarize 
 ‘Delhi Chalo’ march: What are the big demands of farmers? Who is leading the protest?
 
+Tue, 13 Feb 2024 13:35:50 +0530
+### [‘Delhi Chalo’ march: What are the big demands of farmers? Who is leading the protest?](http://www.firstpost.com/india/delhi-chalo-march-what-are-the-big-demands-of-farmers-who-is-leading-the-protest-13720672.html)
+
+Article found but Couldn't summarize 
+Hundreds of farmers from Punjab are marching towards Delhi after talks with Union ministers failed. Their key demand is a law that guarantees minimum support price (MSP) for all crops. While the Narendra Modi-led government has asked for time, farmer leaders say no more
+
 Tue, 13 Feb 2024 13:00:01 +0530
 ### [Will Pakistan have a rotational prime minister? Who’s in the race for the top post?](https://www.firstpost.com/explainers/will-pakistan-have-a-rotational-prime-minister-whos-in-the-race-for-the-top-post-13720442.html)
 
 Article found but Couldn't summarize 
 Will Pakistan have a rotational prime minister? Who’s in the race for the top post?
+
+Tue, 13 Feb 2024 13:00:01 +0530
+### [Will Pakistan have a rotational prime minister? Who’s in the race for the top post?](http://www.firstpost.com/world/will-pakistan-have-a-rotational-prime-minister-whos-in-the-race-for-the-top-post-13720442.html)
+
+Article found but Couldn't summarize 
+The Nawaz Sharif-led PML-N and Bilawal Bhutto Zardari’s PPP are in talks to form a government in Pakistan. However, they are unable to decide on the post of prime minister. Amid this delay, now the two parties are deliberating if the top job should be held on a rotational basis
 
 Tue, 13 Feb 2024 12:18:01 +0530
 ### [Why Indonesia's elections are important for the world](https://www.firstpost.com/explainers/why-indonesias-elections-are-important-for-the-world-13719982.html)
@@ -400,11 +854,29 @@ Tue, 13 Feb 2024 12:18:01 +0530
 Article found but Couldn't summarize 
 Why Indonesia's elections are important for the world
 
+Tue, 13 Feb 2024 12:18:01 +0530
+### [Why Indonesia's elections are important for the world](http://www.firstpost.com/explainers/why-indonesias-elections-are-important-for-the-world-13719982.html)
+
+Article found but Couldn't summarize 
+Alongside choosing a new president, Indonesians will on 14 February also vote for new lawmakers at the national and sub-national levels, in what will be the world's biggest single-day election. Here's why the elections are significant
+
+Tue, 13 Feb 2024 11:44:25 +0530
+### [Bilaterals, Hindu temple opening and more: Why Modi's visit to UAE is crucial](http://www.firstpost.com/explainers/bilaterals-hindu-temple-opening-and-more-why-pm-modis-visit-to-the-uae-is-crucial-13719082.html)
+
+Article found but Couldn't summarize 
+PM Narendra Modi is visiting the UAE today for two days and will hold bilaterals with President Al Nahyan, inaugurate the grand BAPS mandir in Abu Dhabi, and meet the diaspora. The visit will also focus on boosting cooperation in energy, fintech, digital domain, railways and investment flows
+
 Tue, 13 Feb 2024 09:59:01 +0530
 ### [Why is Egypt threatening to suspend a key peace treaty with Israel? What happens if the agreement is voided?](https://www.firstpost.com/explainers/why-is-egypt-threatening-to-suspend-a-key-peace-treaty-with-israel-what-happens-if-the-agreement-is-voided-13719402.html)
 
 Article found but Couldn't summarize 
 Why is Egypt threatening to suspend a key peace treaty with Israel? What happens if the agreement is voided?
+
+Tue, 13 Feb 2024 09:59:01 +0530
+### [Why is Egypt threatening to suspend a key peace treaty with Israel? What happens if the agreement is voided?](http://www.firstpost.com/explainers/why-is-egypt-threatening-to-suspend-a-key-peace-treaty-with-israel-what-happens-if-the-agreement-is-voided-13719402.html)
+
+Article found but Couldn't summarize 
+As Israel's prime minister Benjamin Netanyahu vows to send troops into Rafah, a city in Gaza, the Egyptian government is threatening to void the Camp David Accords. Here’s a look at what could happen if it is nullified
 
 Tue, 13 Feb 2024 09:53:22 +0530
 ### [Drones, barriers &amp; more: How Delhi-NCR has turned into a fortress to stop farmers’ march](https://www.firstpost.com/explainers/drones-barricades-and-more-how-delhi-ncr-has-turned-into-a-fortress-to-stop-farmers-march-13719232.html)
@@ -412,11 +884,29 @@ Tue, 13 Feb 2024 09:53:22 +0530
 Article found but Couldn't summarize 
 Drones, barriers &amp;amp; more: How Delhi-NCR has turned into a fortress to stop farmers’ march
 
+Tue, 13 Feb 2024 09:46:00 +0530
+### [Drones, barriers & more: How Delhi-NCR has turned into a fortress to stop farmers’ march](http://www.firstpost.com/india/drones-barricades-and-more-how-delhi-ncr-has-turned-into-a-fortress-to-stop-farmers-march-13719232.html)
+
+Article found but Couldn't summarize 
+As farmers prepare for their ‘Delhi Chalo’ march to press the Centre for their demands, security at the Delhi-NCR borders has been stepped up. Nails have been laid out on roads, concrete barriers and barricades have been set up, and traffic diversions are in effect. Section 144 has also been imposed
+
 Tue, 13 Feb 2024 09:09:47 +0530
 ### [Modi in Abu Dhabi: How India-UAE ties have gone from strength to strength under the PM](https://www.firstpost.com/explainers/modi-in-abu-dhabi-how-india-uae-ties-have-gone-from-strength-to-strength-under-the-pm-13718812.html)
 
 Article found but Couldn't summarize 
 Modi in Abu Dhabi: How India-UAE ties have gone from strength to strength under the PM
+
+Tue, 13 Feb 2024 09:09:47 +0530
+### [Modi in Abu Dhabi: How India-UAE ties have gone from strength to strength under the PM](http://www.firstpost.com/explainers/modi-in-abu-dhabi-how-india-uae-ties-have-gone-from-strength-to-strength-under-the-pm-13718812.html)
+
+Article found but Couldn't summarize 
+Prime Minister Narendra Modi made his first trip to the UAE in August 2015 — the first by an Indian prime minister in over three decades. Now, the two countries have a bilateral trade of about $85 billion and the UAE is also among the top four investors in India in terms of FDI
+
+Tue, 13 Feb 2024 05:00:43 +0530
+### [FirstUp: PM in UAE, Farmers' 'Delhi Chalo' March, & more... Big developments today](http://www.firstpost.com/explainers/firstup-pm-in-uae-farmers-delhi-chalo-march-more-big-developments-today-13718252.html)
+
+Article found but Couldn't summarize 
+It's going to be a busy Tuesday. Prime Minister Narendra Modi is on a two-day visit to the UAE. Back home, all eyes are on Delhi as farmers are expected to march to the Capital and a Patna court has summoned TN minister Udhyanidhi Stalin in the Sanatan Dharma case
 
 Mon, 12 Feb 2024 20:32:24 +0530
 ### [Pakistan election results: How the military is still man of the match despite Imran Khan’s victory](https://www.firstpost.com/explainers/pakistan-election-results-how-the-military-is-still-man-of-the-match-despite-imran-khans-victory-13718192.html)
@@ -424,11 +914,23 @@ Mon, 12 Feb 2024 20:32:24 +0530
 Article found but Couldn't summarize 
 Pakistan election results: How the military is still man of the match despite Imran Khan’s victory
 
+Mon, 12 Feb 2024 20:32:24 +0530
+### [Pakistan election results: How the military is still man of the match despite Imran Khan’s victory](http://www.firstpost.com/explainers/pakistan-election-results-how-the-military-is-still-man-of-the-match-despite-imran-khans-victory-13718192.html)
+
+Article found but Couldn't summarize 
+The Pakistan elections have concluded with no clear winner and a divided mandate. Should the PML-N, headed by Nawaz Sharif, enter a coalition with other parties, it will be in a position of relative weakness and will need the army’s support
+
 Mon, 12 Feb 2024 20:02:17 +0530
 ### [In Graphics | The rise of India's Unified Payment Interface (UPI)](https://www.firstpost.com/explainers/in-graphics-the-rise-of-indias-unified-payment-interface-upi-13718522.html)
 
 Article found but Couldn't summarize 
 In Graphics | The rise of India's Unified Payment Interface (UPI)
+
+Mon, 12 Feb 2024 20:02:17 +0530
+### [In Graphics | The rise of India's Unified Payment Interface (UPI)](http://www.firstpost.com/explainers/in-graphics-the-rise-of-indias-unified-payment-interface-upi-13718522.html)
+
+Article found but Couldn't summarize 
+India has launched its Unified Payment Interface (UPI) in Sri Lanka and Mauritius. The UPI is an instant payment system that allows users to instantly transfer money to any bank account
 
 Mon, 12 Feb 2024 19:28:11 +0530
 ### [Inside BAPS mandir, the first Hindu temple in UAE, to be inaugurated by PM Modi](https://www.firstpost.com/explainers/inside-baps-mandir-the-first-hindu-temple-in-uae-to-be-inaugurated-by-pm-modi-13717312.html)
@@ -436,11 +938,23 @@ Mon, 12 Feb 2024 19:28:11 +0530
 Article found but Couldn't summarize 
 Inside BAPS mandir, the first Hindu temple in UAE, to be inaugurated by PM Modi
 
+Mon, 12 Feb 2024 19:28:11 +0530
+### [Inside BAPS mandir, the first Hindu temple in UAE, to be inaugurated by PM Modi](http://www.firstpost.com/explainers/inside-baps-mandir-the-first-hindu-temple-in-uae-to-be-inaugurated-by-pm-modi-13717312.html)
+
+Article found but Couldn't summarize 
+Prime Minister Narendra Modi is all set to inaugurate the BAPS Hindu temple in Abu Dhabi on 14 February. The temple's facade features exquisite marble carvings set against a sandstone backdrop, crafted from more than 25,000 pieces of stone by artisans from Rajasthan
+
 Mon, 12 Feb 2024 19:21:27 +0530
 ### [Alaskapox claims its first victim. Should we worry?](https://www.firstpost.com/explainers/alaskapox-claims-its-first-victim-should-we-worry-13718422.html)
 
 Article found but Couldn't summarize 
 Alaskapox claims its first victim. Should we worry?
+
+Mon, 12 Feb 2024 19:17:13 +0530
+### [Alaskapox claims its first victim. Should we worry?](http://www.firstpost.com/explainers/alaskapox-claims-its-first-victim-should-we-worry-13718422.html)
+
+Article found but Couldn't summarize 
+Alaskapox is a double-stranded DNA virus that primarily occurs in small mammals such as red-backed voles and shrews Just seven cases of the disease have been reported since 2015 — all of them in Alaska
 
 Mon, 12 Feb 2024 18:31:00 +0530
 ### [FirstUp: PM in UAE, Farmers' 'Delhi Chalo' March, &amp; more... Big developments today](https://www.firstpost.com/explainers/firstup-pm-in-uae-farmers-delhi-chalo-march-more-big-developments-today-13718252.html)
@@ -454,11 +968,23 @@ Mon, 12 Feb 2024 17:21:19 +0530
 Article found but Couldn't summarize 
 Can Paytm survive the crisis facing Paytm Payments Bank?
 
+Mon, 12 Feb 2024 17:19:43 +0530
+### [Can Paytm survive the crisis facing Paytm Payments Bank?](http://www.firstpost.com/explainers/can-paytm-survive-the-crisis-facing-paytm-payments-bank-13718152.html)
+
+Article found but Couldn't summarize 
+Paytm Payments Bank has been forbidden to take any more deposits from customers, carry out credit business or top up any accounts of customers, prepaid instruments, wallets, cards for paying road tolls from 29 February. Experts say the RBI's move could have a 'significant impact' on Paytm
+
 Mon, 12 Feb 2024 16:47:31 +0530
 ### [Is Australia banning G-string bikinis on beaches? The debate explained](https://www.firstpost.com/explainers/is-australia-banning-g-string-bikinis-on-beaches-the-debate-explained-13717852.html)
 
 Article found but Couldn't summarize 
 Is Australia banning G-string bikinis on beaches? The debate explained
+
+Mon, 12 Feb 2024 16:47:31 +0530
+### [Is Australia banning G-string bikinis on beaches? The debate explained](http://www.firstpost.com/world/is-australia-banning-g-string-bikinis-on-beaches-the-debate-explained-13717852.html)
+
+Article found but Couldn't summarize 
+Locals in Australia’s Gold Coast are thronging beaches wearing skimpy swimwear. They are protesting against a proposed ban on G-string bikinis by a businessman who wrote to the mayor saying that he wanted women to 'cover-up'. His ‘sexist’ remarks have triggered a debate on the right to wear what you
 
 Mon, 12 Feb 2024 16:42:50 +0530
 ### [Section 144 imposed ahead of farmers’ Delhi Chalo protest: What’s allowed, what’s not?](https://www.firstpost.com/explainers/section-144-imposed-ahead-of-farmers-delhi-chalo-protest-whats-allowed-whats-not-13717772.html)
@@ -466,11 +992,677 @@ Mon, 12 Feb 2024 16:42:50 +0530
 Article found but Couldn't summarize 
 Section 144 imposed ahead of farmers’ Delhi Chalo protest: What’s allowed, what’s not?
 
+Mon, 12 Feb 2024 16:31:57 +0530
+### [Section 144 imposed ahead of farmers’ Delhi Chalo protest: What’s allowed, what’s not?](http://www.firstpost.com/india/section-144-imposed-ahead-of-farmers-delhi-chalo-protest-whats-allowed-whats-not-13717772.html)
+
+Article found but Couldn't summarize 
+A day before farmers undertake the ‘Delhi Chalo’ march, pressing for its multiple demands, the Delhi Police has imposed Section 144 in the Capital for a month — until 12 March. The order prohibits rallies, processions, and also states that weddings and funerals can be held only with prior permission
+
 Mon, 12 Feb 2024 15:53:20 +0530
 ### [In Graphics | Nitish Kumar sails through floor test in Bihar. Here’s how it works](https://www.firstpost.com/explainers/in-graphics-nitish-kumar-has-called-for-a-floor-test-in-bihar-heres-how-it-works-13716932.html)
 
 Article found but Couldn't summarize 
 In Graphics | Nitish Kumar sails through floor test in Bihar. Here’s how it works
+
+Mon, 12 Feb 2024 15:30:54 +0530
+### [In Graphics | Nitish Kumar sails through floor test in Bihar. Here’s how it works](http://www.firstpost.com/india/in-graphics-nitish-kumar-has-called-for-a-floor-test-in-bihar-heres-how-it-works-13716932.html)
+
+Article found but Couldn't summarize 
+Nitish Kumar has sailed through the floor test along with the BJP and its allies after the Opposition -- the RJD, Congress and the Left Front -- staged a walkout of the Bihar Assembly. But what exactly is this procedure and how is it conducted?
+
+Mon, 12 Feb 2024 15:29:49 +0530
+### [Indonesia polls: From top candidates to major issues, what you need to know](http://www.firstpost.com/explainers/indonesia-polls-from-top-candidates-to-major-issues-what-you-need-to-know-13717142.html)
+
+Article found but Couldn't summarize 
+Defence minister Prabowo Subianto is the front-runner, while ex-governors Anies Baswedan and Ganjar Pranowo are also in the race. Experts say cost of living, unemployment and human rights are major issues for the youth — who comprise half of active voters
+
+Mon, 12 Feb 2024 14:29:08 +0530
+### [How Indian Navy veterans, their families learnt about release from Qatar jail](http://www.firstpost.com/india/how-indian-navy-veterans-their-families-learned-about-release-from-qatar-jail-13716312.html)
+
+Article found but Couldn't summarize 
+Qatar has released eight jailed Indian Navy veterans nearly three-and-a-half months after they were handed down death sentences in a case of suspected espionage. Family members were not aware of their release until the Indian government notified them after they boarded their flights late Sunday
+
+Mon, 12 Feb 2024 13:07:26 +0530
+### [Why is Israel planning a ground invasion of Rafah? Why is this concerning?](http://www.firstpost.com/world/why-is-israel-planning-a-ground-invasion-of-rafah-why-is-this-concerning-13716362.html)
+
+Article found but Couldn't summarize 
+Israel has announced its military will soon launch a ground offensive in Rafah in Gaza. The town currently houses more than one million Palestinians, who have nowhere else to go. The plan has come under fire from countries, with the US and Egypt saying it will have ‘disastrous consequences’
+
+Mon, 12 Feb 2024 12:16:16 +0530
+### ['Delhi Chalo': Why farmers from Haryana, Punjab, Uttar Pradesh are protesting again](http://www.firstpost.com/explainers/delhi-chalo-why-farmers-from-haryana-punjab-uttar-pradesh-are-protesting-again-13716102.html)
+
+Article found but Couldn't summarize 
+About 200 farmer unions, mostly from Punjab, Haryana, and Uttar Pradesh, have called for a march on 13 February in New Delhi. They are demanding a law guaranteeing the Minimum Support Price for their produce, one of the conditions they had set when they agreed to withdraw their agitation in 2021
+
+Mon, 12 Feb 2024 12:01:17 +0530
+### [Imran Khan-backed independents come first in Pakistan. What happens next?](http://www.firstpost.com/world/imran-khan-backed-independents-came-first-in-pakistan-heres-why-they-might-not-come-to-power-13715942.html)
+
+Article found but Couldn't summarize 
+The results in Pakistan’s disputed elections show that no political party has won a majority. Imran Khan-backed independents came first, but it is unlikely that they will form a government. What happens next? Will Nawaz Sharif return as prime minister?
+
+Mon, 12 Feb 2024 09:53:27 +0530
+### [Qatar frees eight jailed Navy veterans: How India pulled off this move](http://www.firstpost.com/explainers/qatar-frees-eight-jailed-navy-veterans-how-india-pulled-off-this-move-13715052.html)
+
+Article found but Couldn't summarize 
+The nightmare for the eight jailed Navy veterans in Qatar has finally come to an end after India secured their release. This is a huge diplomatic win for New Delh. It is said that PM Modi’s meeting with the Qatar ruler last December helped make further progress in the case
+
+Mon, 12 Feb 2024 05:00:56 +0530
+### [FirstUp: Nitish Kumar to seek trust vote, RLD to formally join NDA… The big stories today](http://www.firstpost.com/explainers/firstup-nitish-kumar-to-seek-trust-vote-rld-to-formally-join-nda-the-big-stories-today-13713602.html)
+
+Article found but Couldn't summarize 
+It’s going to be a manic Monday. From Nitish Kumar seeking a trust vote in the Bihar Assembly to the Jayant Chaudhary-led RLD formally joining the NDA, here’s a guide of the big events today and what to expect
+
+Sun, 11 Feb 2024 11:07:42 +0530
+### [Can you lose weight by eating kimchi each day?](http://www.firstpost.com/explainers/can-you-lose-weight-by-eating-kimchi-each-day-13705202.html)
+
+Article found but Couldn't summarize 
+A recent study has provided some preliminary evidence that eating kimchi – the popular Korean fermented food – is associated with a lower risk of obesity. But is it really true?
+
+Sun, 11 Feb 2024 10:27:25 +0530
+### [Drinking Responsibly: Why youth drinking is declining](http://www.firstpost.com/explainers/drinking-responsibly-why-youth-drinking-is-declining-13701432.html)
+
+Article found but Couldn't summarize 
+Adolescents’ attitudes toward drinking have generally become more negative, while their attitudes toward non-drinking have become accepting. Researchers argue that this stems from a longer, more protracted transition into young adulthood, concerns about the future and a pressure to succeed in life
+
+Sun, 11 Feb 2024 10:11:06 +0530
+### [This Week in Explainers: Will Pakistan see a PML-PPP coalition government?](http://www.firstpost.com/world/this-week-in-explainers-will-pakistan-see-a-pml-ppp-coalition-government-13710112.html)
+
+Article found but Couldn't summarize 
+Uncertainty has taken over Pakistan as no political party has reached the majority mark, opening the possibility of a coalition government. Nawaz Sharif’s PML-N and Bilawal Bhutto Zardari’s PPP have gone in a huddle. We bring you this and much more from across the globe in our weekly roundup
+
+Sat, 10 Feb 2024 18:40:48 +0530
+### [Pakistan poll results: How the country elected a parliament of ‘Independents’ in 1985](http://www.firstpost.com/explainers/pakistan-poll-results-how-the-country-elected-a-parliament-of-independents-in-1985-13712622.html)
+
+Article found but Couldn't summarize 
+Imran Khan’s PTI-backed Independent candidates have won the most seats in the Pakistan general elections. However, such a scenario is not new for the country. In 1985, the nation held non-party national polls in which every contender had fought in their individual capacity
+
+Sat, 10 Feb 2024 17:44:27 +0530
+### [Big elections in Indonesia on 14 February: Here’s a snapshot of key figures](http://www.firstpost.com/explainers/big-elections-in-indonesia-on-14-february-heres-a-snapshot-of-key-figures-13706042.html)
+
+Article found but Couldn't summarize 
+Indonesia holds what will be the world's biggest single-day election on 14 February, which will also decide who will become president of the world's third-biggest democracy and the fourth most populous nation. Here are some key figures on the election
+
+Sat, 10 Feb 2024 14:56:27 +0530
+### [Pakistan election results: Why young voters continue to support Imran Khan’s PTI](http://www.firstpost.com/world/pakistan-election-results-why-young-voters-continue-to-support-imran-khans-pti-13711912.html)
+
+Article found but Couldn't summarize 
+Independents backed by ex-PM Imran Khan’s Pakistan Tehreek-e-Insaf are leading the Pakistan election race. Analysts say the former cricket hero’s multiple sentences, the country’s soaring inflation and anger with the military’s influence in politics could have driven PTI's young voters to ballots
+
+Sat, 10 Feb 2024 12:24:08 +0530
+### [Pakistan election results 2024: What’s next for PML-N, PPP and PTI?](http://www.firstpost.com/world/pakistan-election-results-2024-whats-next-for-pml-n-ppp-and-pti-13711422.html)
+
+Article found but Couldn't summarize 
+Pakistan is likely to see a coalition government again as no party has touched the majority mark of 133. Nawaz Sharif’s PML-N has begun talks with his rival Bilawal Bhutto Zardari’s PPP to forge an alliance. Here’s what Independents backed by jailed former PM Imran Khan’s PTI party could do
+
+Sat, 10 Feb 2024 09:49:31 +0530
+### [This Week in Explainers: What Uttarakhand’s Uniform Civil Code means for live-in couples](http://www.firstpost.com/india/this-week-in-explainers-what-uttarakhands-uniform-civil-code-means-for-those-in-live-in-relationships-13709392.html)
+
+Article found but Couldn't summarize 
+Uttarakhand has become the first state in the country to adopt the Uniform Civil Code. What are the provisions for live-in relationships in this new legislation? We get you the answers on this and much more in our weekly roundup of explainers
+
+Sat, 10 Feb 2024 09:45:39 +0530
+### [Nawaz Sharif, Bilawal Bhutto Zardari & more: The winners and losers of Pakistan polls](http://www.firstpost.com/explainers/pakistan-election-results-2024-big-winners-and-losers-nawaz-sharif-bilawal-bhutto-zardari-maryam-nawaz-others-13707752.html)
+
+Article found but Couldn't summarize 
+The electoral race is still on in Pakistan. While Imran Khan’s PTI-backed Independents are still in the lead, here’s how prominent candidates — from Nawaz Sharif to Bilawal Bhutto Zardari — are faring at the polls
+
+Sat, 10 Feb 2024 09:20:19 +0530
+### [What is Lunar New Year? How is it celebrated?](http://www.firstpost.com/explainers/what-is-lunar-new-year-how-is-it-celebrated-13707092.html)
+
+Article found but Couldn't summarize 
+In many Asian cultures, the Lunar New Year is a celebration marking the arrival of spring and the start of a new year on the lunisolar calendar. It's the most important holiday in China where it's observed as the Spring Festival
+
+Sat, 10 Feb 2024 09:07:04 +0530
+### [In Graphics | Before Imran Khan, these Pakistan prime ministers were put in jail](http://www.firstpost.com/explainers/in-graphics-before-imran-khan-these-pakistan-prime-ministers-were-put-in-jail-13710192.html)
+
+Article found but Couldn't summarize 
+From Hussain Shaheed Suhrawardy to Imran Khan, Pakistan has a long history of putting its prime ministers behind bars. Let's take a look at a few examples
+
+Fri, 9 Feb 2024 22:01:17 +0530
+### [Pakistan election results: When PML-N joined hands with PPP](http://www.firstpost.com/explainers/pakistan-election-results-when-pml-n-joined-hands-with-ppp-13710002.html)
+
+Article found but Couldn't summarize 
+While the PMN-L and PPP have traded power in Pakistan for most of its history in between periods of military rule, the two parties have also come together in coalition governments in 2022 and 2008. But is an alliance between Sharif and Bhutto on the cards again?
+
+Fri, 9 Feb 2024 19:32:15 +0530
+### [Why has California recalled 60 cheese products? Is it linked to the listeria outbreak?](http://www.firstpost.com/explainers/why-has-california-recalled-60-cheese-products-is-it-linked-to-the-listeria-outbreak-13708462.html)
+
+Article found but Couldn't summarize 
+New lab and inspection evidence by US' CDC linked soft cheeses and other dairy products made by Rizo-Lopez Foods of Modesto, California, to the listeria food poisoning outbreak, which was first detected in June 2014. Since then, the outbreak has affected at least 26 individuals in 11 states
+
+Fri, 9 Feb 2024 19:30:42 +0530
+### [Pakistan election results 2024: Will Imran Khan’s PTI sweep Khyber Pakhtunkhwa again?](http://www.firstpost.com/world/pakistan-election-results-2024-will-imran-khans-pti-sweep-khyber-pakhtunkhwa-again-13709682.html)
+
+Article found but Couldn't summarize 
+Imran Khan’s Pakistan Tehreek-e-Insaf formed a government in the northwestern Khyber Pakhtunkhwa province twice — in 2013 and 2018. The party is expected to clinch a resounding victory once again as Independents backed by PTI are leading here in the National Assembly and provincial results
+
+Fri, 9 Feb 2024 19:10:16 +0530
+### [Will California's new proposed ban on plastic bags work?](http://www.firstpost.com/explainers/will-californias-new-proposed-ban-on-plastic-bags-work-13709552.html)
+
+Article found but Couldn't summarize 
+Senate Bill 1053 would halt the sale of plastic film bags that are currently sold at checkout to consumers by most California stores. It would raise standards for reusable bags and mandate consumers be given 100 per cent recycled paper bags. But experts say nothing short of a complete ban will work
+
+Fri, 9 Feb 2024 18:09:53 +0530
+### [In Graphics | All about India’s Bharat Ratna and its five recipients in 2024](http://www.firstpost.com/explainers/in-graphics-all-about-indias-bharat-ratna-and-its-five-recipients-in-2024-13709252.html)
+
+Article found but Couldn't summarize 
+Former PMs PV Narasimha Rao, Chaudhary Charan Singh and Green Revolution pioneer MS Swaminathan will be awarded the Bharat Ratna. This comes after it was annouced that veteran BJP leader LK Advani and ex-Bihar CM Karpoori Thakur would also receive the honour
+
+Fri, 9 Feb 2024 17:18:24 +0530
+### [Pakistan polls: How PTI-backed 'Independents' could be a gamechanger](http://www.firstpost.com/explainers/pakistan-elections-2024-how-pti-backed-independent-candidates-could-be-a-gamechanger-13708552.html)
+
+Article found but Couldn't summarize 
+PTI-backed ‘Independent’ candidates are ahead of PML-N and PPP in the elections thus far. Experts say they could form their own government if they get a two-thirds majority or join hands with another party to form a government — which would give Imran Khan a new political life
+
+Fri, 9 Feb 2024 16:19:48 +0530
+### [Why US president Joe Biden won’t be charged with mishandling classified documents](http://www.firstpost.com/explainers/why-us-president-joe-biden-wont-be-charged-with-mishandling-classified-documents-13708372.html)
+
+Article found but Couldn't summarize 
+A report by Special Counsel Robert Hur has criticised US president Joe Biden for the way he handled classified documents, but said that criminal charges weren’t warranted. The over 300-page document also raised questions about the 81-year-old American leader’s memory
+
+Fri, 9 Feb 2024 15:32:46 +0530
+### [Pakistan election results 2024: How no PM has ever completed a full term](http://www.firstpost.com/world/pakistan-election-results-2024-how-no-pm-has-ever-completed-a-full-term-13708232.html)
+
+Article found but Couldn't summarize 
+Pakistan will get a new prime minister soon. As votes are being counted, let’s take a look at how no premier in the country’s history has ever been able to complete a full tenure. Will it be different this time?
+
+Fri, 9 Feb 2024 14:46:31 +0530
+### [Why Mount Everest climbers will have to carry their poop to base camp](http://www.firstpost.com/explainers/why-mount-everest-climbers-will-have-to-carry-their-poop-to-base-camp-13707582.html)
+
+Article found but Couldn't summarize 
+Climbers will now need to bring their own poop bag back to the base of the mountain to dispose of their faeces. The decision comes as part of a larger effort to protect the environment of the mountain because 'they have begun to stink'
+
+Fri, 9 Feb 2024 14:30:12 +0530
+### [PV Narasimha Rao, Charan Singh, MS Swaminathan: Why they deserve Bharat Ratna](http://www.firstpost.com/explainers/pv-narasimha-rao-charan-singh-ms-swaminathan-why-they-wholly-deserve-the-bharat-ratna-13708032.html)
+
+Article found but Couldn't summarize 
+PV Narasimha Rao was a transformative PM who pioneered India's liberalisation process in the early 90s, while Chaudhary Charan Singh — who also served as PM — was known as 'King of the Jats.' MS Swaminathan was an agricultural icon and the 'Father of the Green Revolution'
+
+Fri, 9 Feb 2024 12:01:52 +0530
+### [Why Uddhav-led Sena leader Abhishek Ghosalkar was shot dead during Facebook live session](http://www.firstpost.com/explainers/why-uddhav-led-sena-leader-abhishek-ghosalkar-was-shot-dead-during-facebook-live-session-13706592.html)
+
+Article found but Couldn't summarize 
+Shiv Sena (UBT) leader Abhishek Ghosalkar was shot dead in Mumbai's suburban area of Borivali on Thursday during a Facebook live, allegedly by his rival Mauris Noronha, who later shot himself fatally. The duo had personal enmity but the live session was to clarify that they ended their bitterness
+
+Fri, 9 Feb 2024 10:16:15 +0530
+### [Hostage situation on Swiss train ends, suspect killed: What we know](http://www.firstpost.com/explainers/hostage-situation-on-swiss-train-ends-suspect-killed-what-we-know-13706922.html)
+
+Article found but Couldn't summarize 
+Armed with an axe and a knife, a lone individual held 15 people captives in western Switzerland on Thursday, including passengers and the conductor. The standoff ended dramatically with a police raid, leaving the suspect dead and the hostages unharmed
+
+Fri, 9 Feb 2024 09:49:19 +0530
+### [4 dead, curfew imposed: What caused mass violence in Uttarakhand’s Haldwani?](http://www.firstpost.com/india/4-dead-250-hurt-curfew-imposed-what-caused-mass-violence-in-uttarakhands-haldwani-13706672.html)
+
+Article found but Couldn't summarize 
+Four people have died and another 250 have been hurt in Uttarakhand’s Haldwani after a mob went on a rampage following the demolition of an illegal madrasa and adjoining mosque in the area. The violence has prompted the administration to impose a curfew and issue shoot-at-sight orders for rioters
+
+Fri, 9 Feb 2024 05:00:05 +0530
+### [FirstUp: Biden to host Germany's Scholz, Pakistan poll results... Top news today](http://www.firstpost.com/explainers/firstup-biden-to-host-germanys-scholz-pakistan-elections-results-top-news-today-13705682.html)
+
+Article found but Couldn't summarize 
+A few things to watch out for today are US president Joe Biden and German chancellor Olaf Scholz's one-on-one meeting in Washington. Results from the Pakistan elections are also expected
+
+Thu, 8 Feb 2024 22:16:42 +0530
+### [Could Viagra reduce the risk of Alzheimer’s?](http://www.firstpost.com/explainers/could-viagra-reduce-the-risk-of-alzheimers-13706322.html)
+
+Article found but Couldn't summarize 
+A study conducted at University College London found men taking drugs like Viagra were 18 per cent less likely to develop Alzheimer's. It further revealed that en taking the most erectile dysfunction drug witnessed the most benefits
+
+Thu, 8 Feb 2024 21:04:12 +0530
+### [Pakistan Election 2024: How violence, rigging allegations marred polling](http://www.firstpost.com/world/pakistan-election-2024-how-violence-rigging-allegations-marred-polling-13706212.html)
+
+Article found but Couldn't summarize 
+Pakistan election results will be out in a few hours. Voting on Thursday was tainted by allegations of vote rigging and sporadic incidents of violence that killed at least nine people. The suspension of mobile services also prompted Opposition's criticism, who questioned the fairness of the polling
+
+Thu, 8 Feb 2024 20:27:04 +0530
+### ['Crisis situation': The biggest takeaways from Centre's White Paper on UPA rule](http://www.firstpost.com/explainers/crisis-situation-the-biggest-takeaways-from-centres-white-paper-on-upa-rule-13705832.html)
+
+Article found but Couldn't summarize 
+Finance Minister Nirmala Sitharaman had in her Budget speech said the Centre would unveil a White Paper highlighting a decade of economic mismanagement by the UPA. The paper said the Centre has overcome the crisis of those years, and the economy has been put firmly on the right path
+
+Thu, 8 Feb 2024 18:34:11 +0530
+### [Meet Pearl Kapur, the 27-year-old who is India's youngest billionaire](http://www.firstpost.com/explainers/meet-pearl-kapur-the-27-year-old-who-is-indias-youngest-billionaire-13704882.html)
+
+Article found but Couldn't summarize 
+Pearl Kapur, the founder and CEO of web cybersecurity startup Zyber 365, has etched his name as India's youngest billionaire. He boasts of an impressive net worth of $1.1 billion, due to his 90 per cent shareholding in the company
+
+Thu, 8 Feb 2024 18:15:28 +0530
+### [Who is Boris Nadezhdin, Putin challenger barred from Russia's presidential polls?](http://www.firstpost.com/explainers/who-is-boris-nadezhdin-putin-challenger-barred-from-russias-presidential-polls-13704872.html)
+
+Article found but Couldn't summarize 
+Boris Nadezhdin is a veteran politician who served as an adviser to former deputy prime minister Boris Nemtsov and aide to Sergei Kiriyenko — who is currently helming domestic policy at the Kremlin. The 60-year-old's website describes him as a 'physicist, entrepreneur, lawyer and politician'
+
+Thu, 8 Feb 2024 17:29:12 +0530
+### [Tuning Out: What Australia’s ‘right to disconnect’ law means for workers and employers](http://www.firstpost.com/world/australia-right-to-disconnect-law-means-for-workers-and-employers-13705602.html)
+
+Article found but Couldn't summarize 
+Australia will soon introduce a law allowing employees to ignore unreasonable work calls and messages from their bosses after office hours. While the employers can still reach out, the legislation protects workers from being punished for not responding
+
+Thu, 8 Feb 2024 16:01:13 +0530
+### [What is e-rupee? How does RBI plan to use it in offline mode?](http://www.firstpost.com/explainers/what-is-e-rupee-how-does-rbi-plan-to-use-it-in-offline-mode-13704432.html)
+
+Article found but Couldn't summarize 
+The e-rupee  is officially called the Central Bank Digital Currency (CBDC). The Reserve Bank defines it as legal tender issued by it in a digital form. The RBI plans to introduce the e-rupee in offline mode as part of the pilot program it launched in December 2022
+
+Thu, 8 Feb 2024 15:59:57 +0530
+### [The 'cursed' legacy of the Kohinoor and its link to King Charles](http://www.firstpost.com/explainers/the-cursed-legacy-of-the-kohinoor-and-its-link-to-king-charles-13703902.html)
+
+Article found but Couldn't summarize 
+Shortly after the announcement of King Charles' cancer diagnosis, many spoke of the Kohinoor diamond curse. Legend has it that any male monarch or prince who claims ownership of the precious gem either loses power or dies
+
+Thu, 8 Feb 2024 14:20:59 +0530
+### [Pakistan election 2024: What is Nawaz Sharif, Bilawal Bhutto Zardari’s stance on India?](http://www.firstpost.com/explainers/pakistan-election-2024-what-is-nawaz-sharif-bilawal-bhutto-zardaris-stance-on-india-13704362.html)
+
+Article found but Couldn't summarize 
+Pakistan is voting today to elect a new government. With Nawaz Sharif and Bilawal Bhutto Zardari vying for the post of PM, here’s a look at their positions on India. How does New Delhi view the polls?
+
+Thu, 8 Feb 2024 14:00:11 +0530
+### [What is Free Movement Regime that Centre has scrapped at Myanmar border?](http://www.firstpost.com/india/what-is-free-movement-regime-that-centre-wants-to-suspend-at-myanmar-border-13572132.html)
+
+Article found but Couldn't summarize 
+Home Minister Amit Shah has announced the end of the Free Movement Regime (FMR), which allowed tribes along the Indo-Myanmar Border to travel up to 16 km inside the other country without a visa. Implemented in 2018, the pact was a part of India's Act East policy
+
+Thu, 8 Feb 2024 13:25:21 +0530
+### [Is Chandrababu Naidu’s TDP looking to tie-up with the BJP again? How will this impact 2024 Lok Sabha elections?](http://www.firstpost.com/politics/is-chandrababu-naidus-tdp-looking-to-tie-up-with-the-bjp-again-how-will-this-impact-2024-lok-sabha-elections-13704212.html)
+
+Article found but Couldn't summarize 
+Former Andhra Pradesh CM Chandrababu Naidu is expected to hold talks with Home Minister Amit Shah and BJP president JP Nadda, igniting murmurs of TDP rejoining the NDA. Many believe that such a move would be a win-win for both parties ahead of the 2024 Lok Sabha elections
+
+Thu, 8 Feb 2024 11:54:46 +0530
+### [What is White Paper that Modi government is likely to table in Parliament?](http://www.firstpost.com/explainers/what-is-white-paper-that-modi-government-is-likely-to-table-in-parliament-13703512.html)
+
+Article found but Couldn't summarize 
+The Budget session of Parliament has been extended by a day until 10 February. This is because the Modi government is likely to table a 'White Paper'. This document will compare the state of the Indian economy before and after 2014, when it came to power following its defeat of the Congress
+
+Thu, 8 Feb 2024 11:22:08 +0530
+### [Timeline | The key moments leading up to Pakistan's elections](http://www.firstpost.com/explainers/timeline-the-key-moments-leading-up-to-pakistans-elections-13703302.html)
+
+Article found but Couldn't summarize 
+From Imran Khan's win in 2018 to his troubles with corruption charges, and other events like tensions with India and the rise of the Taliban in Afghanistan, Pakistan has been through a lot. As voters prepare to go to the polls, here are some key events leading up to Pakistan's parliamentary election
+
+Thu, 8 Feb 2024 10:37:28 +0530
+### [Pakistan elections: How Imran Khan supporters will cast their votes secretly](http://www.firstpost.com/explainers/pakistan-elections-how-imran-khan-supporters-will-cast-their-votes-secretly-13702682.html)
+
+Article found but Couldn't summarize 
+Supporters of Imran Khan say they anticipate polling-day interference and will deploy tactics to blend in with supporters of other parties, backing the jailed politician in Pakistan's Thursday election after a major crackdown against his party
+
+Thu, 8 Feb 2024 10:27:43 +0530
+### [Pakistan elections 2024: The country’s turbulent history of ‘rigged’ elections](http://www.firstpost.com/world/pakistan-elections-2024-the-countrys-turbulent-history-of-rigged-elections-13702752.html)
+
+Article found but Couldn't summarize 
+Pakistan is voting today (8 February) in its 12th general election amid claims of it being rigged and unfair. However, such allegations aren’t new. The country has seen a long history of polls being manipulated in favour of one candidate over the other
+
+Thu, 8 Feb 2024 08:34:23 +0530
+### [Pakistan’s 'Parivarvad': How dynastic politics dominates the country](http://www.firstpost.com/world/pakistan-elections-2024-how-dynastic-politics-dominates-the-country-13701882.html)
+
+Article found but Couldn't summarize 
+Pakistan is voting today (8 February) to elect its next government. Once again, the rival Sharif and Bhutto families are vying to come to power. As the South Asian country goes to polls, a look at its dynastic politics
+
+Thu, 8 Feb 2024 07:37:08 +0530
+### [How the electoral system works in Pakistan](http://www.firstpost.com/explainers/how-the-electoral-system-in-pakistan-works-13701622.html)
+
+Article found but Couldn't summarize 
+Pakistan goes to the polls today in a widely watched national election that will lead to the formation of a new government to lead the crisis-ridden South Asian nation for the next five years. Here’s a quick guide to how the elections in the country works
+
+Thu, 8 Feb 2024 05:00:14 +0530
+### [FirstUp: Pakistan holds polls, RBI concludes MPC meet... Today's big stories](http://www.firstpost.com/explainers/firstup-rbi-concludes-mpc-meet-pakistan-holds-polls-us-sc-hears-trump-ban-plea-todays-big-stories-13701872.html)
+
+Article found but Couldn't summarize 
+The RBI will conclude its three-day Monetary Policy Committee meet in Mumbai. Across the border, Pakistan is set to hold its general elections today. The United States Supreme Court will have former president Donald Trump's political future in its hands. Here's a guide to today's big stories
+
+Wed, 7 Feb 2024 20:28:16 +0530
+### [Uttarakhand passes Uniform Civil Code Bill: How succession laws will change](http://www.firstpost.com/explainers/uttarakhand-passes-uniform-civil-code-bill-how-succession-laws-will-change-13701792.html)
+
+Article found but Couldn't summarize 
+The Uniform Civil Code Bill, passed by Uttarakhand, mandates equal property rights for sons and daughters and treats legitimate and illegitimate children as equals. It also makes no distinction between self-acquired and ancestral property
+
+Wed, 7 Feb 2024 20:13:55 +0530
+### [How rising dengue cases could play party pooper at Rio Carnival](http://www.firstpost.com/world/how-rising-dengue-cases-could-play-party-pooper-at-rio-carnival-13700702.html)
+
+Article found but Couldn't summarize 
+After recording 10,000 dengue cases, health officials in the Brazilian city of Rio de Janeiro have declared a public health emergency. This comes just days before the ‘world’s largest party’ — the Carnival — is set to begin, raising concerns among the public
+
+Wed, 7 Feb 2024 18:47:35 +0530
+### [Why Russia's economy is doing well despite Ukraine war and Western sanctions](http://www.firstpost.com/explainers/why-russias-economy-is-doing-well-despite-ukraine-war-and-western-sanctions-13701692.html)
+
+Article found but Couldn't summarize 
+The IMF has noted that Russia's economy grew an estimated 3 per cent in 2023 compared to 2.5 per cent for the United States and an anaemic 0.5 per cent for the Eurozone. Experts say consumer spending remains robust and that an exodus of companies hasn't materialised but that there are warning signs
+
+Wed, 7 Feb 2024 17:51:32 +0530
+### [Singapore's DBS bank cuts CEO's pay by $3 million. Why this is significant](http://www.firstpost.com/explainers/singapores-dbs-bank-cuts-ceo-piyush-gupta-pay-by-3-million-why-this-is-significant-13701152.html)
+
+Article found but Couldn't summarize 
+DBS Group slashed its CEO Piyush Gupta's pay by S$4.1 million ($3.05 million) citing digital banking disruptions last year. This matters as the 30 per cent reduction in his annual variable compensation comes even as Singapore's largest lender saw a record profit in 2023
+
+Wed, 7 Feb 2024 17:48:30 +0530
+### [Are flight details private? Why is Taylor Swift threatening legal action against a student?](http://www.firstpost.com/explainers/are-flight-details-private-why-is-taylor-swift-threatening-legal-action-against-a-student-13700492.html)
+
+Article found but Couldn't summarize 
+Singer Taylor Swift's legal team have threatened Jack Sweeney with legal action for sharing her flight details online. The Florida student is known for tracking and sharing details of flights taken by celebrities, an action that got him in trouble with Elon Musk as well
+
+Wed, 7 Feb 2024 17:23:14 +0530
+### [In Graphics | Who will take over the British throne after King Charles?](http://www.firstpost.com/world/in-graphics-who-will-take-over-the-british-throne-after-king-charles-13701032.html)
+
+Article found but Couldn't summarize 
+King Charles III has announced he will step back from public appearances while being treated for cancer. This has prompted many to think aloud about the British royal line of succession and who will inherit the throne
+
+Wed, 7 Feb 2024 15:51:49 +0530
+### [Election or Selection? How Pakistan army continues to wield influence over politics](http://www.firstpost.com/explainers/election-or-selection-how-pakistan-army-continues-to-wield-influence-over-politics-13699842.html)
+
+Article found but Couldn't summarize 
+The Pakistan army, which has been the dominant force in the country since its inception, continues to have an outsized influence over elections. Experts say that the public remains sceptical no matter which party takes power and that free and fair elections aren't really possible
+
+Wed, 7 Feb 2024 15:14:48 +0530
+### [Fake meeting, cloned CFO: How a Hong Kong company lost millions in 'biggest deepfake' scam](http://www.firstpost.com/explainers/fake-meeting-cloned-cfo-how-a-hong-kong-company-lost-millions-in-biggest-deepfraud-scam-13699172.html)
+
+Article found but Couldn't summarize 
+A Hong Kong-based multinational company fell victim to a staggering $25 million scam involving deepfake technology. The company's finance worker was tricked during a video conference in which chief financial officer and other participants — except for the victim — were produced using AI
+
+Wed, 7 Feb 2024 13:51:45 +0530
+### [What comes next for Sharad Pawar after losing NCP's name, symbol to Ajit Pawar?](http://www.firstpost.com/politics/ncp-name-symbol-maharashtra-what-next-for-sharad-pawar-eci-ruling-ajit-pawar-13699572.html)
+
+Article found but Couldn't summarize 
+The Election Commission has recognised Ajit Pawar-led faction as the real Nationalist Congress Party, allotting it the party’s ‘clock’ symbol. The Sharad Pawar camp has to now decide a new name and symbol for their party
+
+Wed, 7 Feb 2024 13:10:15 +0530
+### [Donald Trump denied presidential immunity in 2020 election case: Does this hurt his 2024 chances?](http://www.firstpost.com/explainers/donald-trump-denied-presidential-immunity-in-2020-election-case-does-this-hurt-his-2024-chances-13699292.html)
+
+Article found but Couldn't summarize 
+An appeals court has rejected Donald Trump’s claim that he is immune from prosecution on charges of trying to overturn the 2020 election results as he was president at the time. The Republican frontrunner is expected to appeal this, which will further delay a trial, benefiting the former president
+
+Wed, 7 Feb 2024 12:22:58 +0530
+### [Pakistan elections: How two trans candidates are hoping to change politics](http://www.firstpost.com/world/pakistan-elections-how-two-trans-candidates-are-hoping-to-change-politics-13695822.html)
+
+Article found but Couldn't summarize 
+In the 8 February elections in Pakistan, two transgender candidates are in the fray. Sobia Khan and Nayab Ali are contesting as independents and they have one goal – to ensure that the community gets its due. They want representation of transpeople in government jobs and politics
+
+Wed, 7 Feb 2024 11:52:23 +0530
+### [Iran grants visa-free travel to Indians. But conditions apply](http://www.firstpost.com/explainers/iran-grants-visa-free-travel-to-indians-but-conditions-apply-13698162.html)
+
+Article found but Couldn't summarize 
+Iran has announced visa-free travel for Indian tourists for a maximum stay of 15 days. The programme, which has been rolled out from 4 February, however, has conditions applied to it
+
+Wed, 7 Feb 2024 11:31:40 +0530
+### [Why Tucker Carlson’s interview with Vladimir Putin matters](http://www.firstpost.com/explainers/why-tucker-carlsons-interview-with-vladimir-putin-matters-13698732.html)
+
+Article found but Couldn't summarize 
+Tucker Carlson — an avowed sceptic of American military support for war-torn Ukraine — announced Tuesday he was in Moscow to interview Russian president Vladimir Putin. Here’s why it is a big deal
+
+Wed, 7 Feb 2024 10:52:59 +0530
+### [Pakistan elections: The key players who will shape the country's political landscape](http://www.firstpost.com/explainers/pakistan-elections-the-key-players-who-will-shape-the-countrys-political-landscape-13698392.html)
+
+Article found but Couldn't summarize 
+Pakistan is holding elections for a new parliament tomorrow (8 February). But in a country where civilian governments have been upended by military takeovers and where the army has ruled the nation for half of its 76 years of independence, it's often the traditional elites that have called the shots
+
+Wed, 7 Feb 2024 09:36:36 +0530
+### [Can Bilawal Bhutto Zardari revive his family's legacy?](http://www.firstpost.com/explainers/pakistan-elections-can-bilawal-bhutto-zardari-revive-his-familys-legacy-13695962.html)
+
+Article found but Couldn't summarize 
+Bilawal Bhutto Zardari was long-criticised for lack of experience and paling in comparison to his parents. But he enters Thursday's election with his first experience of statesmanship, having served as foreign minister in a broad coalition that ousted Imran Khan in 2022
+
+Wed, 7 Feb 2024 09:33:39 +0530
+### [How an Indian student was brutally beaten in yet another attack in the US](http://www.firstpost.com/explainers/how-an-indian-student-hyderabad-syed-mazahir-ali-was-brutally-beaten-in-yet-another-attack-in-the-us-13698202.html)
+
+Article found but Couldn't summarize 
+Syed Mazahir Ali, a Master’s student who hails from Hyderabad, was viciously beaten and robbed by four armed men near his apartment in Chicago. The incident comes at a time when attacks against Indian-origin students in the US are on the rise, raising concerns about their safety
+
+Wed, 7 Feb 2024 08:43:25 +0530
+### [In Graphics | Where are the last of The Holocaust survivors?](http://www.firstpost.com/explainers/in-graphics-where-are-the-last-of-the-holocaust-survivors-13697382.html)
+
+Article found but Couldn't summarize 
+Nearly 80 years after the end of The Holocaust, around 245,000 Jewish survivors remain alive in over 90 nations. Twenty percent of survivors are older than 90, and more women (61 per cent) than men (39 per cent) are still alive. Let's look at where they live
+
+Wed, 7 Feb 2024 05:00:20 +0530
+### [FirstUp: Azerbaijani elections, protests in India: The big news today](http://www.firstpost.com/explainers/firstup-azerbaijani-elections-protests-in-india-the-big-news-today-13696722.html)
+
+Article found but Couldn't summarize 
+Today, more than 6.5 million Azerbaijanis are expected to cast votes to choose the country's next president. Meanwhile, in India, the Karnataka Congress will be staging a protest against the Centre in New Delhi and AAP will 'gherao' Haryana CM Manohar Lal Khattar’s residence over unemployment issue
+
+Tue, 6 Feb 2024 20:49:12 +0530
+### [ChatGPT helps Russian man match with over 5,000 women on Tinder: Can AI help us find love?](http://www.firstpost.com/explainers/chatgpt-helps-russian-man-match-with-over-5000-women-on-tinder-can-ai-help-us-find-love-13697392.html)
+
+Article found but Couldn't summarize 
+A Russian man, identified as Alexander Zhadan, has claimed he used a Tinder bot, powered by ChatGPT, to help him find the love of his life. The use of AI in dating apps is not new, with hopeful daters using it to enhance their profiles and even message their matches
+
+Tue, 6 Feb 2024 20:09:36 +0530
+### [How the Israel-Hamas war took a bite out of McDonald's](http://www.firstpost.com/explainers/how-the-israel-hamas-war-took-a-bite-out-of-mcdonalds-13697312.html)
+
+Article found but Couldn't summarize 
+McDonald's found itself in hot water in West Asia after an Israeli franchisee in October declared it would give Israeli soldiers free meals. This led to a boycott and now the company has recorded its first sales miss in years. CEO Chris Kempczinski has blamed the 'war and associated misinformation'
+
+Tue, 6 Feb 2024 19:32:50 +0530
+### [What are ‘obelisks’, the new virus-like entity discovered inside the mouth and gut?](http://www.firstpost.com/world/what-are-obelisks-the-new-virus-like-entity-discovered-inside-the-mouth-and-gut-13696292.html)
+
+Article found but Couldn't summarize 
+A team at Stanford University has found a large number of microscopic biological entities hiding inside the human mouth and gut. Nothing is known about the broader evolutionary and ecological significance of obelisks. They may be parasitic and harm host cells, or they may be beneficial
+
+Tue, 6 Feb 2024 18:03:01 +0530
+### [A Hindu, and a YouTuber: The women who stand apart in Pakistan’s elections](http://www.firstpost.com/world/a-hindu-and-a-youtuber-the-women-who-stand-apart-in-pakistans-elections-13696272.html)
+
+Article found but Couldn't summarize 
+Of the thousands of candidates in the 8 February Pakistan polls, only 839 are women, an abysmal 4.7 per cent. Meet Dr Saveera Prakash, Samar Haroon Bilour and Zeba Waqar, who are contesting the elections, and hoping to bring about change
+
+Tue, 6 Feb 2024 17:20:43 +0530
+### [Why Senegal's election is delayed and what it means](http://www.firstpost.com/explainers/why-senegals-election-is-delayed-and-what-this-means-for-west-african-nation-13696402.html)
+
+Article found but Couldn't summarize 
+Senegal, which won its freedom from France in 1960, has for the first time delayed its presidential election. Experts say the West African nation is in unchartered waters and its reputation as a beacon of democracy for the region is at risk
+
+Tue, 6 Feb 2024 17:07:10 +0530
+### [What does the Uttarakhand UCC Bill say about live-in relationships, marriages?](http://www.firstpost.com/india/uttarakhand-uniform-civil-code-ucc-bill-live-in-relationships-marriages-13696382.html)
+
+Article found but Couldn't summarize 
+The Uttarakhand Uniform Civil Code Bill mandates the registration of live-in relationships for residents and lays down punishment – jail term, fine, or both – for failure to do so. The code also states the marriageable age for women and men
+
+Tue, 6 Feb 2024 17:00:58 +0530
+### [Monkey fever deaths in Karnataka: What is this disease?](http://www.firstpost.com/explainers/monkey-fever-deaths-in-karnataka-what-is-this-disease-and-how-is-it-spreading-13696472.html)
+
+Article found but Couldn't summarize 
+Two individuals have succumbed to the deadly Kyasanur Forest Disease (KFD), also known as monkey fever, in Karnataka this year. The viral illness is primarily transmitted through tick bites. Rodents, shrews, and monkeys are common hosts for KFDV after being bitten by an infected tick
+
+Tue, 6 Feb 2024 15:57:41 +0530
+### [What is ‘atmospheric river’ which has put millions at risk in California?](http://www.firstpost.com/explainers/what-is-atmospheric-river-which-has-put-millions-at-risk-in-california-13695012.html)
+
+Article found but Couldn't summarize 
+Parts of Los Angeles received a record downpour on Monday and over 700,000 have been left in the dark after a storm powered by an atmospheric river hit the state. Known as a ‘river in the sky’, the weather phenomenon can produce torrential amounts of rain
+
+Tue, 6 Feb 2024 14:41:43 +0530
+### [Miss Japan was forced to give up the crown. The reason is bizarre](http://www.firstpost.com/explainers/miss-japan-was-forced-to-give-up-the-crown-the-reason-is-bizarre-13694362.html)
+
+Article found but Couldn't summarize 
+Karolina Shiino, the Ukraine-born winner of last month's Miss Japan, has renounced her crown after a local magazine exposed her affair with a married man. She had earlier caused controversy by becoming the first naturalised Japanese citizen to win the title
+
+Tue, 6 Feb 2024 14:31:57 +0530
+### [Pakistan elections 2024: How the military has bowled a bouncer to Imran Khan](http://www.firstpost.com/world/pakistan-elections-2024-how-the-military-has-bowled-a-bouncer-to-imran-khan-13695042.html)
+
+Article found but Couldn't summarize 
+Imran Khan has been pushed to the sidelines during the ongoing Pakistan election campaign. The former prime minister has been sentenced to three jail terms in one week, an indication that the military will stop at nothing to keep him away from the general election. And that’s not all
+
+Tue, 6 Feb 2024 14:24:56 +0530
+### [Uniform Civil Code Bill tabled in Uttarakhand Assembly: How was the draft prepared?](http://www.firstpost.com/india/uniform-civil-code-bill-tabled-in-uttarakhand-assembly-how-was-the-draft-prepared-13694822.html)
+
+Article found but Couldn't summarize 
+Uttarakhand CM Pushkar Singh Dhami presented the Uniform Civil Code Bill in the state Assembly today. The code which proposes uniform civil laws for all communities was prepared by a five-member panel headed by former Supreme Court Judge Ranjana Prakash Desai
+
+Tue, 6 Feb 2024 11:34:29 +0530
+### [Why Supreme Court has called Chandigarh mayoral polls a 'murder of democracy'](http://www.firstpost.com/explainers/why-supreme-court-has-called-chandigarh-mayoral-polls-a-murder-of-democracy-13693292.html)
+
+Article found but Couldn't summarize 
+The Supreme Court on Monday rapped the returning officer who conducted the recent Chandigarh mayoral polls, observing that he defaced the ballot papers and that he should be prosecuted. The bench, led by CJI DY Chandrachud, added that the action amounted to the 'murder and mockery' of democracy
+
+Tue, 6 Feb 2024 11:25:40 +0530
+### [How Australian writer Yang Hengjun's suspended death sentence in China adds to their strained relations](http://www.firstpost.com/explainers/how-australian-writer-yang-hengjuns-suspended-death-sentence-in-china-adds-to-their-strained-relations-13693892.html)
+
+Article found but Couldn't summarize 
+A Beijing court on Monday handed Australian writer Yang Hengjun a suspended death sentence, threatening a recent rebound in bilateral ties that followed several years of strained relations between Beijing and Canberra
+
+Tue, 6 Feb 2024 10:25:27 +0530
+### [What does King Charles’ cancer diagnosis mean for Britain’s monarchy?](http://www.firstpost.com/world/what-does-king-charles-cancer-diagnosis-mean-for-the-britains-monarchy-13693592.html)
+
+Article found but Couldn't summarize 
+King Charles has been diagnosed with cancer and will step away from public duties while he is treated, said Buckingham Palace on Monday. It is now expected that Prince William will shoulder additional responsibilities. The news also casts doubt on the future of the crown
+
+Tue, 6 Feb 2024 09:58:02 +0530
+### [Pakistan elections: How Nawaz Sharif is preparing for a comeback](http://www.firstpost.com/explainers/how-nawaz-sharif-is-preparing-for-a-fourth-term-as-prime-minister-of-pakistan-13693492.html)
+
+Article found but Couldn't summarize 
+Nawaz Sharif, the ‘Lion of Punjab’, as he is known to his fanatical supporters, is hotly favoured to lead his Pakistan Muslim League-Nawaz (PML-N) party to victory and once again take charge of the nuclear-armed nation of 240 million people
+
+Tue, 6 Feb 2024 08:00:05 +0530
+### [Ban on polygamy and more: What Uttarakhand’s Uniform Civil Code bill will enforce](http://www.firstpost.com/india/ban-on-polygamy-fixed-marriage-age-what-uttarakhands-uniform-civil-code-ucc-bill-will-enforce-pushkar-singh-dhami-13691632.html)
+
+Article found but Couldn't summarize 
+The Uniform Civil Code bill will be tabled in the Uttarakhand Assembly today (6 February). The draft submitted to CM Pushkar Singh Dhami recommends a ban on practices like polygamy and iddat. It also suggests a fixed age for marriage for men and women, and seeks to legalise live-in relationships
+
+Tue, 6 Feb 2024 05:00:56 +0530
+### [FirstUp: PM Modi in Goa, Nawaz Sharif to hold rally... Today's big stories](http://www.firstpost.com/explainers/firstup-pm-modi-in-goa-rbi-mpc-meet-nawaz-sharif-to-hold-rally-todays-big-stories-13692842.html)
+
+Article found but Couldn't summarize 
+Prime Minister Narendra Modi is set to visit Goa to inaugurate several developmental projects. The Reserve Bank of India’s three-day monetary policy committee meet begins today. Nawaz Sharif will hold a PMLN rally on the final day of election campaigning. Here's a guide to today's big stories
+
+Mon, 5 Feb 2024 20:04:26 +0530
+### [What Centre's new bill on exam paper leaks entails](http://www.firstpost.com/explainers/what-centres-new-bill-on-exam-paper-leaks-entails-13692702.html)
+
+Article found but Couldn't summarize 
+The Public Examinations (Prevention of Unfair Means) Bill, 2024 mandates a maximum jail term of 10 years and a fine of up to Rs 1 crore. The proposed law, which does not target students, takes aim at organised gangs, mafia and those indulging in malpractices including government officials
+
+Mon, 5 Feb 2024 19:45:28 +0530
+### [Imran Khan’s spiritual leader and now ‘illegal’ wife: Who is Bushra Bibi?](http://www.firstpost.com/world/imran-khans-spiritual-leader-and-now-illegal-wife-who-is-bushra-bibi-13691832.html)
+
+Article found but Couldn't summarize 
+Imran Khan’s wife Bushra Bibi is a faith healer. It is said that she saw in her dream that Khan would become prime minister only if he married her. They secretly wedded in 2018, Khan won the elections in Pakistan but now their fortunes have changed
+
+Mon, 5 Feb 2024 19:09:01 +0530
+### [Why some Pakistan women are barred from voting by their husbands](http://www.firstpost.com/explainers/why-some-pakistan-women-are-barred-from-voting-by-their-husbands-13692202.html)
+
+Article found but Couldn't summarize 
+Pakistani women are reportedly barred from voting in certain regions, even though the country has the fifth-highest number of registered voters globally—behind only India, the US, and Brazil. This is because some rural sections are still governed by a patriarchal system which has a great influence
+
+Mon, 5 Feb 2024 17:16:31 +0530
+### [Can an adopted child be 'returned?' Here's what rules say](http://www.firstpost.com/explainers/can-an-adopted-child-be-returned-heres-what-rules-say-13691542.html)
+
+Article found but Couldn't summarize 
+Two cases of couples from Uttar Pradesh and Kerala wanting to return their adopted children have hit the headlines recently. Let's look at the rules, what the courts said and why experts say 'returned children' are seemingly becoming a bigger problem
+
+Mon, 5 Feb 2024 17:10:52 +0530
+### [Why Telangana will be abbreviated as 'TG' and not 'TS'](http://www.firstpost.com/explainers/why-telangana-will-be-abbreviated-as-tg-and-not-ts-13691962.html)
+
+Article found but Couldn't summarize 
+The Telangana government has decided to change the state’s code from 'TS' to 'TG' in a Cabinet meeting. CM A Revanth Reddy said the previous government chose 'TS' as per its whim, and no other state has a 'state' in its code. The latest change will reflect on all vehicle registration plates
+
+Mon, 5 Feb 2024 16:45:27 +0530
+### [In Graphics | How Taylor Swift has made Grammys history](http://www.firstpost.com/explainers/in-graphics-how-taylor-swift-has-made-grammys-history-13691692.html)
+
+Article found but Couldn't summarize 
+It was Taylor Swift’s night at the Grammys. The American pop princess has made history by winning her fourth Album of the Year statue, surpassing other greats such as Frank Sinatra, Stevie Wonder, and Paul Simon, who are all tied with three awards
+
+Mon, 5 Feb 2024 16:01:53 +0530
+### [Ban on polygamy, fixed marriage age: What Uttarakhand’s Uniform Civil Code bill will enforce](http://www.firstpost.com/explainers/ban-on-polygamy-fixed-marriage-age-uttarakhands-uniform-civil-code-bill-pushkar-singh-dhama-will-enforce-13691202.html)
+
+Article found but Couldn't summarize 
+The Uniform Civil Code bill will be tabled in the Uttarakhand Assembly tomorrow (6 February). The report submitted to CM Pushkar Singh Dhami recommends a ban on practices like polygamy and iddat. It also suggests a fixed age for marriage for men and women, and seeks to legalise live-in relationships
+
+Mon, 5 Feb 2024 15:30:28 +0530
+### [Who is Nayib Bukele, the world's 'coolest dictator', who has claimed a win in El Salvador's presidential polls?](http://www.firstpost.com/explainers/who-is-nayib-bukele-the-worlds-coolest-dictator-who-has-claimed-a-win-in-el-salvadors-presidential-polls-13691022.html)
+
+Article found but Couldn't summarize 
+Riding a wave of support at home for his no-limit ‘war’ on gangs, Nayib Bukele polls as the most popular president in Latin America, and possibly the world. Here’s what we know about him
+
+Mon, 5 Feb 2024 14:34:56 +0530
+### [Carrier, destroyers, jets: Weapons used in fight against Houthis](http://www.firstpost.com/explainers/us-carrier-destroyers-fighter-jets-the-weapons-used-in-fight-against-houthis-13690182.html)
+
+Article found but Couldn't summarize 
+The US-led coalition is using the FA18 Super Hornet, the USS Dwight D. Eisenhower carrier USS Carney, USS Gravely and USS Laboon destroyers in the battle against the Houthis in the Red Sea. Let's take a closer look
+
+Mon, 5 Feb 2024 14:24:26 +0530
+### [What’s wrong with Gobi Manchurian? Why has a town in Goa banned the dish?](http://www.firstpost.com/explainers/whats-wrong-with-gobi-manchurian-why-has-a-town-in-goa-banned-the-dish-13689942.html)
+
+Article found but Couldn't summarize 
+Goa's Mapusa has banned Gobi Manchurian from street food stalls. Authorities have questioned hygiene and the use of synthetic colours, and even powdered laundry detergent while cooking the dish. Some say the sauces are a problem
+
+Mon, 5 Feb 2024 13:10:00 +0530
+### [Pakistan elections 2024: Can Imran Khan, Prisoner No 804, win the elections from jail?](http://www.firstpost.com/world/pakistan-elections-2024-can-imran-khan-prisoner-no-804-win-the-elections-from-jail-13690142.html)
+
+Article found but Couldn't summarize 
+Former Pakistan PM Imran Khan is jailed (Prisoner Number 804) and barred from contesting the 8 February polls. But that has not stopped the 71-year-old leader of the PTI party from campaigning. He’s using chatbots, AI and social media to energise his supporters and vote for his candidates
+
+Mon, 5 Feb 2024 12:05:50 +0530
+### [What info did Satendra Siwal, Indian embassy staff held for ‘spying’, share with Pakistan?](http://www.firstpost.com/explainers/what-info-did-satendra-siwal-indian-embassy-worker-arrested-for-spying-share-with-pakistan-13689912.html)
+
+Article found but Couldn't summarize 
+Satendra Siwal, an Indian embassy worker in Moscow, was arrested for allegedly spying for Pakistan’s ISI. The 26-year-old has reportedly shared confidential information on India’s defence and foreign ministries and the military establishment
+
+Mon, 5 Feb 2024 11:31:06 +0530
+### [Paytm in Peril? What led to RBI's crackdown on Paytm Payments Bank?](http://www.firstpost.com/explainers/paytm-in-peril-what-led-to-rbis-crackdown-on-paytm-payments-bank-13688902.html)
+
+Article found but Couldn't summarize 
+Questionable dealings of hundreds of crores, lakhs of non-KYC (Know Your Customer) compliant accounts, the usage of single PAN cards for multiple accounts, and a history of non-compliance by the company, were some of the reasons that led the Reserve Bank of India to crack down on Paytm Payments Bank
+
+Mon, 5 Feb 2024 11:23:19 +0530
+### [How foreigners are investing in India's share market](http://www.firstpost.com/explainers/how-foreigners-are-investing-in-indias-share-market-13689602.html)
+
+Article found but Couldn't summarize 
+As India heads for elections this year, it continues to attract foreign investors, who have a number of ways to invest in the country
+
+Mon, 5 Feb 2024 10:19:56 +0530
+### [Namibia president Hage Geingob passes away: How the 82-year-old pushed for Africa on the world stage](http://www.firstpost.com/explainers/namibia-president-hage-geingob-passes-away-how-the-82-year-old-pushed-for-africa-on-the-world-stage-13689332.html)
+
+Article found but Couldn't summarize 
+Hage Geingob, who passed away while receiving treatment for cancer, was Namibia's third president since it gained independence in 1990 following more than a century of German and then apartheid South African rule
+
+Mon, 5 Feb 2024 09:31:32 +0530
+### [Jharkhand’s Champai Soren to face trust vote: Are the numbers in his favour?](http://www.firstpost.com/politics/jharkhand-cm-champai-soren-to-face-trust-vote-are-the-numbers-in-his-favour-13688922.html)
+
+Article found but Couldn't summarize 
+All eyes are on the floor test in the Jharkhand Assembly today, as newly sworn-in Chief Minister Champai Soren will try to prove his majority. The MLAs from the JMM-led ruling coalition have exuded confidence before the big vote. However, do they have the numbers?
+
+Mon, 5 Feb 2024 05:00:33 +0530
+### [FirstUp: Uniform Civil Code bill to be tabled in Uttarakhand and more... Today’s big news](http://www.firstpost.com/explainers/firstup-uniform-civil-code-bill-to-be-tabled-in-uttarakhand-and-more-todays-big-news-13688162.html)
+
+Article found but Couldn't summarize 
+After much work, the draft Uniform Civil Code for Uttarakhand will be tabled in the Assembly today. In Jharkhand, the newly-appointed Chief Minister Champai Soren will have to prove his government’s majority. Here’s the guide to the headline-making news today
+
+Sun, 4 Feb 2024 09:50:38 +0530
+### [This Week in Explainers: Can humans ‘catch’ Alzheimer’s disease from one another?](http://www.firstpost.com/world/this-week-in-explainers-can-humans-catch-alzheimers-disease-from-one-another-13683352.html)
+
+Article found but Couldn't summarize 
+Alzheimer’s disease isn’t transmissible, or is it? A recent study reveals how in the rarest of medical accidents, the brain disorder can spread. But doctors have advised not to panic. All this and more in our roundup of explainers from across the globe
+
+Sun, 4 Feb 2024 09:48:13 +0530
+### [World Cancer Day: How the global cancer burden is rising rapidly](http://www.firstpost.com/explainers/world-cancer-day-how-the-global-cancer-burden-is-rising-rapidly-13681372.html)
+
+Article found but Couldn't summarize 
+With nearly 10 million deaths and nearly 20 million new cases in 2022, cancer remains one of the world's biggest killers, according to a report by the World Health Organisation. Here are five key facts about the disease
+
+Sat, 3 Feb 2024 18:46:45 +0530
+### [Pakistan elections: Who are the key players? What’s at stake?](http://www.firstpost.com/world/pakistan-elections-who-are-the-key-players-whats-at-stake-13686122.html)
+
+Article found but Couldn't summarize 
+Pakistan is slated to vote on 8 February to elect the national government. While Nawaz Sharif is widely expected to return to power for a fourth term, his main rival Imran Khan is out of the race
+
+Sat, 3 Feb 2024 15:57:34 +0530
+### [Why Canada has named India as ‘foreign threat’ in elections](http://www.firstpost.com/explainers/why-canada-has-named-india-as-foreign-threat-in-elections-13685592.html)
+
+Article found but Couldn't summarize 
+As per an intelligence report, Canada’s national security agency named India as having potentially interfered in the North American country’s elections. It also identified China as ‘by far the most significant threat’
+
+Sat, 3 Feb 2024 14:48:19 +0530
+### [Baingan, bottle, bed: How Pakistan's Opposition struggles to fight with unusual election symbols](http://www.firstpost.com/explainers/baingan-bottle-bed-how-pakistans-opposition-struggles-to-fight-with-unusual-election-symbols-13682772.html)
+
+Article found but Couldn't summarize 
+The Election Commission of Pakistan (ECP) has designated 150 different symbols for registered political parties and 174 for independent candidates in Pakistan. The Opposition claims that authorities are attempting to hinder their campaigns by assigning derogatory or bizarre symbols
+
+Sat, 3 Feb 2024 12:21:41 +0530
+### [What did US bomb in Iraq, Syria? What happens next?](http://www.firstpost.com/world/us-strikes-iraq-syria-iran-west-asia-conflict-13684882.html)
+
+Article found but Couldn't summarize 
+The US military carried out strikes at seven locations in Iraq and Syria on Friday, hitting targets used by Iran-backed militias. The expected attack comes nearly a week after a drone strike in Jordan killed three American soldiers. Will this further fan tensions in West Asia?
+
+Sat, 3 Feb 2024 09:53:05 +0530
+### [This Week in Explainers: What happens to your wallet, FASTag if you are a Paytm user?](http://www.firstpost.com/india/this-week-in-explainers-what-happens-to-your-wallet-fastag-if-you-are-a-paytm-user-13683882.html)
+
+Article found but Couldn't summarize 
+India’s news was dominated by the Budget and the Paytm issue. The Reserve Bank of India has barred Paytm Payments Bank from offering its services including accounts and wallet after 29 February. What does this mean for its customers? This and much more in our roundup of the weekly news
 
 Thu, 25 Jan 2024 19:31:34 +0530
 ### [‘Paltu Ram’ strikes again? Why Nitish Kumar could leave INDIA alliance](https://www.firstpost.com/explainers/paltu-ram-strikes-again-why-nitish-kumar-could-leave-india-alliance-13656222.html)
