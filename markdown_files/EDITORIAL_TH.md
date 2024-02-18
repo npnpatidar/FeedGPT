@@ -1,3 +1,15 @@
+Mon, 19 Feb 2024 00:30:00 +0530
+### [Misplaced priorities: On the scrapping of the Free Movement Regime between India and Myanmar](https://www.thehindu.com/opinion/editorial/misplaced-priorities-the-hindu-editorial-on-the-scrapping-of-the-free-movement-regime-between-india-and-myanmar/article67861036.ece)
+
+Article found but Couldn't summarize 
+The free movement regime between India and Myanmar had more benefits than costs
+
+Mon, 19 Feb 2024 00:15:00 +0530
+### [Ties across the sea: On the India-UAE close relationship](https://www.thehindu.com/opinion/editorial/ties-across-the-sea-the-hindu-editorial-on-the-india-uae-close-relationship/article67860741.ece)
+
+Article found but Couldn't summarize 
+Tolerance and pluralism are values that India shares with the UAE
+
 Sat, 17 Feb 2024 00:20:00 +0530
 ### [Brave new world: On the India-European Free Trade Association  agreement and IPR](https://www.thehindu.com/opinion/editorial/brave-new-world-on-the-india-european-free-trade-association-agreement-and-ipr/article67853988.ece)
 

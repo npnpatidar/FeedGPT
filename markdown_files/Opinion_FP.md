@@ -1,3 +1,33 @@
+Sun, 18 Feb 2024 17:04:29 +0530
+### [Book Review | 'Modi's North East Story': Mainstreaming India's rising sun](https://www.firstpost.com/opinion/book-review-modis-north-east-story-mainstreaming-indias-rising-sun-13739023.html)
+
+Article found but Couldn't summarize 
+The book stands as a testament to the transformative changes and positive developments brought about by the leadership of Prime Minister Narendra Modi in the region
+
+Sun, 18 Feb 2024 15:15:53 +0530
+### [Emerging history of Barnawa mound: The Mahabharata connect](https://www.firstpost.com/opinion/emerging-history-of-barnawa-mound-the-mahabharata-connect-13738974.html)
+
+Article found but Couldn't summarize 
+The excavation done in 2018 apparently threw up some elements bearing a strong cultural resemblance to objects found at excavated sites in Hastinapur, Indraprastha (inside the Purana Qila in Delhi) and Kurukshetra
+
+Sun, 18 Feb 2024 13:57:43 +0530
+### [Pakistan’s destiny: Democracy, autocracy and military interventionism](https://www.firstpost.com/opinion/pakistans-destiny-democracy-autocracy-and-military-interventionism-13738942.html)
+
+Article found but Couldn't summarize 
+It is unsurprising that the invincible position of the military has often created an 'almost dangerous' competition among Pakistan’s politicians, ready to play music that is dear to the military just to stay in power
+
+Sun, 18 Feb 2024 13:23:05 +0530
+### [India and Greece in strategic orbit: As one era ends, a new one begins](https://www.firstpost.com/opinion/india-and-greece-in-strategic-orbit-as-one-era-ends-a-new-one-begins-13738928.html)
+
+Article found but Couldn't summarize 
+The visit by the Greek prime minister will complete the latest phase in Indo-Greek relations, which began with the Indian prime minister's visit to Greece last August
+
+Sun, 18 Feb 2024 11:03:49 +0530
+### [Chef Imtiaz Qureshi: A culinary maestro remembered for his timeless craftsmanship](https://www.firstpost.com/opinion/chef-imtiaz-qureshi-a-culinary-maestro-remembered-for-his-timeless-craftsmanship-13738892.html)
+
+Article found but Couldn't summarize 
+Qureshi represented an age-old culinary tradition and spent his life perfecting it and innovating within its broad parameters much like a great Indian poet or musician creates magic within the meters and scales of his art
+
 Sat, 17 Feb 2024 17:40:48 +0530
 ### [84 Grandmasters and counting: The chess revolution in India](http://www.firstpost.com/opinion/84-grandmasters-and-counting-the-chess-revolution-in-india-13738542.html)
 

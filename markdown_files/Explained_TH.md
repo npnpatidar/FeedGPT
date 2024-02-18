@@ -22,6 +22,11 @@ Sun, 18 Feb 2024 02:03:00 +0530
 Article found but Couldn't summarize 
 What would be its use? Won’t it violate the provisions of the Outer Space Treaty? What kind of damage can it cause? Do Russia and the U.S. have ASAT capabilities? Why do theories about it also include the nuclear question?
 
+Sun, 18 Feb 2024 02:03:00 +0530
+### [Is Russia testing a new anti-satellite weapon? | Explained](https://www.thehindu.com/sci-tech/science/is-russia-testing-a-new-anti-satellite-weapon-explained/article67858315.ece)
+
+The article discusses Chairman Mike Turner's remarks regarding a potential national security threat posed by a new Russian space-based anti-satellite weapon. The weapon could violate the Outer Space Treaty, which bans placing weapons of mass destruction in Earth's orbit. The historical context of ASAT weapons, including nuclear tests conducted in space, is highlighted. The article also delves into the potential impacts of a space-based nuclear weapon, such as EMP and debris generation, on satellites and space operations. The debate surrounding the nature and implications of the Russian capability is explored, with some experts suggesting it may be a weapon of last resort or primarily powered by nuclear energy for electronic warfare purposes. Sharp reactions and accusations from U.S. political circles and the Kremlin's dismissal of the claims are also mentioned.
+
 Sun, 18 Feb 2024 01:45:00 +0530
 ### [Why did the Supreme Court invalidate electoral bonds? | Explained](https://www.thehindu.com/news/national/why-did-the-supreme-court-invalidate-electoral-bonds-explained/article67858304.ece)
 

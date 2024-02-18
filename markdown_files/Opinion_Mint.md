@@ -1,3 +1,33 @@
+Mon, 19 Feb 2024 00:51:00 +0530
+### [Is there a meaningful issue that could anger Indians?](https://www.livemint.com/opinion/online-views/is-there-a-meaningful-issue-that-could-anger-indians-11708257607960.html)
+
+Article found but Couldn't summarize 
+When it comes to issues that affect people’s quality of life, public rage in India is negligible.
+
+Mon, 19 Feb 2024 00:45:27 +0530
+### [India’s 16th Finance Commission should prioritize urbanization](https://www.livemint.com/opinion/online-views/indias-16th-finance-commission-should-prioritize-urbanization-11708257743347.html)
+
+Article found but Couldn't summarize 
+It should demystify its work, widen public participation and address the need for significantly better funded towns and cities.
+
+Mon, 19 Feb 2024 00:37:59 +0530
+### [Be wary of chatbots that know and remember you intimately](https://www.livemint.com/opinion/online-views/be-wary-of-chatbots-that-know-and-remember-you-intimately-11708257921734.html)
+
+Article found but Couldn't summarize 
+Chatbots equipped with expanded memory can reinforce the bubbles people are trapped in. Think of social media’s pathologies multiplied.
+
+Mon, 19 Feb 2024 00:32:04 +0530
+### [We must break the silence on the silent killer that cervical cancer is](https://www.livemint.com/opinion/online-views/we-must-break-the-silence-on-the-silent-killer-that-cervical-cancer-is-11708258078338.html)
+
+Article found but Couldn't summarize 
+We must talk about this menace openly and vaccinate people to limit the harm it can inflict.
+
+Sun, 18 Feb 2024 15:40:42 +0530
+### [Where does the modern state come from?](https://www.livemint.com/opinion/online-views/where-does-the-modern-state-come-from-11708250238496.html)
+
+Article found but Couldn't summarize 
+Economists attempt to answer a profound political question
+
 Sat, 17 Feb 2024 16:24:39 +0530
 ### [Reversal of pricing reforms for oil PSUs is capping their stocks’ upside](https://www.livemint.com/opinion/online-views/reversal-of-pricing-reforms-for-oil-psus-is-capping-their-stocks-upside-11708166773775.html)
 

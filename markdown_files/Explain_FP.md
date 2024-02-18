@@ -1,3 +1,29 @@
+Sun, 18 Feb 2024 11:32:11 +0530
+### [US presidential polls: What happens if Joe Biden or Donald Trump leave the race](https://www.firstpost.com/explainers/us-presidential-polls-what-happens-if-joe-biden-or-donald-trump-leave-the-race-13738903.html)
+
+The article discusses the potential scenarios and consequences if either Joe Biden or Donald Trump were to drop out of the US presidential race. It explores reasons such as age or unexpected events that could lead to a candidate exiting the race. The article details the process of nominating replacements and how it would impact the political landscape, including the role of delegates at nominating conventions. It also considers potential successors like Kamala Harris for Biden and various Democratic politicians for Trump. Additionally, it touches upon the unlikelihood of a strong third-party candidate affecting the election outcome.
+
+Sun, 18 Feb 2024 10:46:35 +0530
+### [How Alexei Navalny’s death puts an end to politics in Russia](https://www.firstpost.com/explainers/how-alexei-navalnys-death-puts-an-end-to-politics-in-russia-13738860.html)
+
+The death of Russian opposition leader Alexei Navalny in a prison camp marks the end of the era where political challenges existed in Russia. Navalny, known for his anti-corruption stance and mass protests, tried to challenge Putin's regime but faced limitations. Despite his charisma, Navalny's approach didn't significantly impact Russian politics. His efforts intensified authorities' actions against him, culminating in his imprisonment and subsequent demise. Navalny's death signifies the dominance of Putin's authoritarian rule, overshadowing any remaining political opposition in Russia.
+
+Sun, 18 Feb 2024 10:32:53 +0530
+### [In the Mood for Love: Why feminists have great sex lives](https://www.firstpost.com/explainers/in-the-mood-for-love-why-feminists-have-great-sex-lives-13721662.html)
+
+Article found but Couldn't summarize 
+Yes, feminists have better sex than non-feminists. Many women see feminism as a source of self-actualisation and empowerment. Feminists know what they want in bed and are more likely to feel empowered to ask for it
+
+Sun, 18 Feb 2024 10:20:38 +0530
+### [Is forgetting a normal function of memory? When should you worry?](https://www.firstpost.com/explainers/is-forgetting-a-normal-function-of-memory-when-should-you-worry-13732382.html)
+
+Forgetting is a normal aspect of memory that allows us to make space for new information. Our brain processes and retains information through encoding, storing, and retrieving it. Regular rehearsal and structure aid memory retention. German psychologist Ebbinghaus demonstrated that without rehearsal, memory fades quickly. Aging can lead to increased forgetfulness due to the accumulation of similar experiences, making it harder to differentiate memories. While forgetting is common and may increase with age, it doesn't necessarily impair decision-making. However, persistent memories, such as in PTSD, grief, or depression, can disrupt daily life. Extreme forgetfulness may indicate underlying issues and should prompt a visit to a doctor. Ultimately, forgetting is a natural process and not always a cause for concern.
+
+Sun, 18 Feb 2024 09:48:40 +0530
+### [This Week in Explainers: Will recession in UK, Japan hit daily living?](https://www.firstpost.com/explainers/this-week-in-explainers-will-the-recession-in-uk-japan-hit-daily-living-13736022.html)
+
+Japan has lost its position as the world's third strongest economy to Germany due to slipping into a recession. The UK also recorded a shallow recession. This economic shift can impact the daily lives of people in these countries. Other significant events from the week include Indonesia's election, the inauguration of the first Hindu temple in the UAE attended by PM Modi, the death of Russian dissident Alexei Navalny, and political developments in Pakistan. Additionally, tragic incidents, such as the deaths of an Indian-origin family in California and the financial struggles of The Body Shop, were reported. The article also touches on a unique love story where a woman in Spain married an AI-generated hologram, raising questions about human-robot relationships.
+
 Sat, 17 Feb 2024 17:55:13 +0530
 ### [Another jolt for Congress? Are Kamal Nath and his son, Nakul, leaving the party?](http://www.firstpost.com/politics/congress-kamal-nath-son-nakul-leaving-bjp-lok-sabha-polls-13738522.html)
 
@@ -20,6 +46,12 @@ The Geosynchronous Satellite Launch Vehicle (GSLV), also known as the 'naughty b
 
 Sat, 17 Feb 2024 10:29:50 +0530
 ### [This Week in Explainers: How political parties benefited from ‘unconstitutional’ electoral bonds](http://www.firstpost.com/india/this-week-in-explainers-how-political-parties-benefited-from-unconstitutional-electoral-bonds-13736302.html)
+
+Article found but Couldn't summarize 
+In a landmark verdict, the Supreme Court struck down electoral bonds, declaring them unconstitutional. Since 2018, political parties received donations worth Rs 16,518 crore from them. Who benefited the most? We tell you in our weekly roundup
+
+Sat, 17 Feb 2024 10:29:50 +0530
+### [This Week in Explainers: How political parties benefited from ‘unconstitutional’ electoral bonds](https://www.firstpost.com/explainers/this-week-in-explainers-how-political-parties-benefited-from-unconstitutional-electoral-bonds-13736302.html)
 
 Article found but Couldn't summarize 
 In a landmark verdict, the Supreme Court struck down electoral bonds, declaring them unconstitutional. Since 2018, political parties received donations worth Rs 16,518 crore from them. Who benefited the most? We tell you in our weekly roundup
@@ -1100,6 +1132,12 @@ Sat, 10 Feb 2024 09:49:31 +0530
 Article found but Couldn't summarize 
 Uttarakhand has become the first state in the country to adopt the Uniform Civil Code. What are the provisions for live-in relationships in this new legislation? We get you the answers on this and much more in our weekly roundup of explainers
 
+Sat, 10 Feb 2024 09:49:31 +0530
+### [This Week in Explainers: What Uttarakhand’s Uniform Civil Code means for live-in couples](https://www.firstpost.com/explainers/this-week-in-explainers-what-uttarakhands-uniform-civil-code-means-for-those-in-live-in-relationships-13709392.html)
+
+Article found but Couldn't summarize 
+Uttarakhand has become the first state in the country to adopt the Uniform Civil Code. What are the provisions for live-in relationships in this new legislation? We get you the answers on this and much more in our weekly roundup of explainers
+
 Sat, 10 Feb 2024 09:45:39 +0530
 ### [Nawaz Sharif, Bilawal Bhutto Zardari & more: The winners and losers of Pakistan polls](http://www.firstpost.com/explainers/pakistan-election-results-2024-big-winners-and-losers-nawaz-sharif-bilawal-bhutto-zardari-maryam-nawaz-others-13707752.html)
 
@@ -1135,6 +1173,11 @@ Fri, 9 Feb 2024 19:30:42 +0530
 
 Article found but Couldn't summarize 
 Imran Khan’s Pakistan Tehreek-e-Insaf formed a government in the northwestern Khyber Pakhtunkhwa province twice — in 2013 and 2018. The party is expected to clinch a resounding victory once again as Independents backed by PTI are leading here in the National Assembly and provincial results
+
+Fri, 9 Feb 2024 19:30:42 +0530
+### [Pakistan election results 2024: Will Imran Khan’s PTI sweep Khyber Pakhtunkhwa again?](https://www.firstpost.com/explainers/pakistan-election-results-2024-will-imran-khans-pti-sweep-khyber-pakhtunkhwa-again-13709682.html)
+
+Imran Khan's Pakistan Tehreek-e-Insaf (PTI) is poised to secure a significant victory in the Khyber Pakhtunkhwa province for the third time, as Independents backed by PTI lead in both the National Assembly and provincial results. The ECP reported that PTI-supported independent candidates have won a majority of seats in the province. The article highlights Khan's party's electoral successes in KPK in 2013 and 2018, emphasizing the province's strategic and economic significance. Despite Khan's current incarceration on corruption charges, PTI is expected to potentially form a government in KPK for a third consecutive term, pending final results.
 
 Fri, 9 Feb 2024 19:10:16 +0530
 ### [Will California's new proposed ban on plastic bags work?](http://www.firstpost.com/explainers/will-californias-new-proposed-ban-on-plastic-bags-work-13709552.html)
@@ -1238,6 +1281,11 @@ Thu, 8 Feb 2024 17:29:12 +0530
 Article found but Couldn't summarize 
 Australia will soon introduce a law allowing employees to ignore unreasonable work calls and messages from their bosses after office hours. While the employers can still reach out, the legislation protects workers from being punished for not responding
 
+Thu, 8 Feb 2024 17:29:12 +0530
+### [Tuning Out: What Australia’s ‘right to disconnect’ law means for workers and employers](https://www.firstpost.com/explainers/australia-right-to-disconnect-law-means-for-workers-and-employers-13705602.html)
+
+Australia is set to introduce a "right to disconnect" law allowing employees to ignore unreasonable work calls and messages outside office hours without facing penalties. The legislation aims to restore a healthy work-life balance by preventing unpaid overtime and protecting workers from burnout. While employers can still contact employees after hours, workers have the right to refuse if the contact is deemed unreasonable. The legislation also includes provisions for resolving disputes through the Fair Work Commission. Proponents argue that the law will protect employees, while critics raise concerns about potential job losses and workplace disputes. Several other countries, including France, Italy, Spain, Ireland, and Portugal, already have similar laws in place to safeguard workers from excessive work demands.
+
 Thu, 8 Feb 2024 16:01:13 +0530
 ### [What is e-rupee? How does RBI plan to use it in offline mode?](http://www.firstpost.com/explainers/what-is-e-rupee-how-does-rbi-plan-to-use-it-in-offline-mode-13704432.html)
 
@@ -1268,6 +1316,11 @@ Thu, 8 Feb 2024 13:25:21 +0530
 Article found but Couldn't summarize 
 Former Andhra Pradesh CM Chandrababu Naidu is expected to hold talks with Home Minister Amit Shah and BJP president JP Nadda, igniting murmurs of TDP rejoining the NDA. Many believe that such a move would be a win-win for both parties ahead of the 2024 Lok Sabha elections
 
+Thu, 8 Feb 2024 13:25:21 +0530
+### [Is Chandrababu Naidu’s TDP looking to tie-up with the BJP again? How will this impact 2024 Lok Sabha elections?](https://www.firstpost.com/explainers/is-chandrababu-naidus-tdp-looking-to-tie-up-with-the-bjp-again-how-will-this-impact-2024-lok-sabha-elections-13704212.html)
+
+Former Andhra Pradesh CM Chandrababu Naidu is in talks with Home Minister Amit Shah and BJP president JP Nadda, sparking rumors of the TDP rejoining the NDA. This potential reunion is seen as advantageous for both parties ahead of the 2024 Lok Sabha elections. Discussions center around seat-sharing and a possible alliance, marking a shift from Naidu's exit from the NDA in 2018. Analysts view this move as strategically beneficial for both the TDP and BJP, potentially impacting the electoral landscape in Andhra Pradesh and beyond.
+
 Thu, 8 Feb 2024 11:54:46 +0530
 ### [What is White Paper that Modi government is likely to table in Parliament?](http://www.firstpost.com/explainers/what-is-white-paper-that-modi-government-is-likely-to-table-in-parliament-13703512.html)
 
@@ -1292,8 +1345,19 @@ Thu, 8 Feb 2024 10:27:43 +0530
 Article found but Couldn't summarize 
 Pakistan is voting today (8 February) in its 12th general election amid claims of it being rigged and unfair. However, such allegations aren’t new. The country has seen a long history of polls being manipulated in favour of one candidate over the other
 
+Thu, 8 Feb 2024 10:27:43 +0530
+### [Pakistan elections 2024: The country’s turbulent history of ‘rigged’ elections](https://www.firstpost.com/explainers/pakistan-elections-2024-the-countrys-turbulent-history-of-rigged-elections-13702752.html)
+
+Pakistan is holding its 12th general election amid concerns of rigging and unfair practices, which have been a recurring issue in the country. The election involves over 5,000 candidates vying for seats in the National Assembly. The choice primarily lies between Nawaz Sharif's Pakistan Muslim League, Bilawal Bhutto Zardari's Pakistan People's Party, and Imran Khan's Pakistan Tehreek-e-Insaf. Recent polls indicate that a majority of citizens lack trust in the electoral process. Historically, Pakistan has faced allegations of election manipulation, with instances dating back to the 1980s, including the influence of the powerful Pakistan military. Past elections, such as those in 2018, were marred by accusations of unfairness and lack of transparency.
+
 Thu, 8 Feb 2024 08:34:23 +0530
 ### [Pakistan’s 'Parivarvad': How dynastic politics dominates the country](http://www.firstpost.com/world/pakistan-elections-2024-how-dynastic-politics-dominates-the-country-13701882.html)
+
+Article found but Couldn't summarize 
+Pakistan is voting today (8 February) to elect its next government. Once again, the rival Sharif and Bhutto families are vying to come to power. As the South Asian country goes to polls, a look at its dynastic politics
+
+Thu, 8 Feb 2024 08:34:23 +0530
+### [Pakistan’s 'Parivarvad': How dynastic politics dominates the country](https://www.firstpost.com/explainers/pakistan-elections-2024-how-dynastic-politics-dominates-the-country-13701882.html)
 
 Article found but Couldn't summarize 
 Pakistan is voting today (8 February) to elect its next government. Once again, the rival Sharif and Bhutto families are vying to come to power. As the South Asian country goes to polls, a look at its dynastic politics
@@ -1432,6 +1496,12 @@ McDonald's found itself in hot water in West Asia after an Israeli franchisee in
 
 Tue, 6 Feb 2024 19:32:50 +0530
 ### [What are ‘obelisks’, the new virus-like entity discovered inside the mouth and gut?](http://www.firstpost.com/world/what-are-obelisks-the-new-virus-like-entity-discovered-inside-the-mouth-and-gut-13696292.html)
+
+Article found but Couldn't summarize 
+A team at Stanford University has found a large number of microscopic biological entities hiding inside the human mouth and gut. Nothing is known about the broader evolutionary and ecological significance of obelisks. They may be parasitic and harm host cells, or they may be beneficial
+
+Tue, 6 Feb 2024 19:32:50 +0530
+### [What are ‘obelisks’, the new virus-like entity discovered inside the mouth and gut?](https://www.firstpost.com/explainers/what-are-obelisks-the-new-virus-like-entity-discovered-inside-the-mouth-and-gut-13696292.html)
 
 Article found but Couldn't summarize 
 A team at Stanford University has found a large number of microscopic biological entities hiding inside the human mouth and gut. Nothing is known about the broader evolutionary and ecological significance of obelisks. They may be parasitic and harm host cells, or they may be beneficial
@@ -1585,6 +1655,11 @@ Mon, 5 Feb 2024 13:10:00 +0530
 
 Article found but Couldn't summarize 
 Former Pakistan PM Imran Khan is jailed (Prisoner Number 804) and barred from contesting the 8 February polls. But that has not stopped the 71-year-old leader of the PTI party from campaigning. He’s using chatbots, AI and social media to energise his supporters and vote for his candidates
+
+Mon, 5 Feb 2024 13:10:00 +0530
+### [Pakistan elections 2024: Can Imran Khan, Prisoner No 804, win the elections from jail?](https://www.firstpost.com/explainers/pakistan-elections-2024-can-imran-khan-prisoner-no-804-win-the-elections-from-jail-13690142.html)
+
+Former Pakistan PM Imran Khan, currently jailed and barred from contesting elections, is defying the odds by using chatbots, AI, and social media to energize his supporters for the 8 February polls. Despite facing multiple convictions, including a 7-year prison sentence for an unlawful marriage, Imran Khan's PTI party is actively campaigning online with innovative strategies like TikTok rallies and AI-generated speeches. However, challenges like limited social media reach and candidates' allegiance post-elections may impact the party's success. The outcome of the elections on 8 February remains uncertain.
 
 Mon, 5 Feb 2024 12:05:50 +0530
 ### [What info did Satendra Siwal, Indian embassy staff held for ‘spying’, share with Pakistan?](http://www.firstpost.com/explainers/what-info-did-satendra-siwal-indian-embassy-worker-arrested-for-spying-share-with-pakistan-13689912.html)

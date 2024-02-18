@@ -1,3 +1,23 @@
+Sun, 18 Feb 2024 15:44:38 +0000
+### [Vandita Mishra writes: As Sonia Gandhi moves House](https://indianexpress.com/article/opinion/columns/vandita-mishra-writes-sonia-gandhi-moves-house-9168212/)
+
+Sonia Gandhi bids farewell to her constituency in Rae Bareli through a heartfelt letter, expressing gratitude and mentioning her health constraints. However, her move to transition from Lok Sabha to Rajya Sabha at a crucial political juncture for Congress is viewed as a sign of defeatism. The letter hints at making space for the next Gandhi family generation, potentially Priyanka Gandhi Vadra. This shift raises concerns about Congress's strategy and the need for a more proactive approach in the upcoming elections. Additionally, the article contrasts Sonia's subdued departure with the BJP's active narrative-building strategies, exemplified by PM Modi's recent statements.
+
+Sun, 18 Feb 2024 12:30:14 +0000
+### [Not just Kakori Kebab: The immortal legacy of Chef Imtiaz Qureshi](https://indianexpress.com/article/opinion/columns/the-immortal-legacy-of-chef-imtiaz-qureshi-9168047/)
+
+Article found but Couldn't summarize
+
+Sun, 18 Feb 2024 07:31:36 +0000
+### [View from Pakistan: From ‘hybrid’ to ‘authoritarian’ regime, Pakistan’s demotion in democracy ranking is not unexpected](https://indianexpress.com/article/opinion/columns/view-from-pakistan-from-hybrid-to-authoritarian-regime-pakistans-demotion-in-democracy-ranking-9167683/)
+
+Article found but Couldn't summarize
+
+Sun, 18 Feb 2024 06:38:08 +0000
+### [With elections in at least 83 countries, will 2024 be the year of AI freak-out?](https://indianexpress.com/article/opinion/columns/elections-83-countries-2024-ai-freak-out-9167479/)
+
+Article found but Couldn't summarize
+
 Sun, 18 Feb 2024 02:30:32 +0000
 ### [P Chidambaram writes: All black or white](https://indianexpress.com/article/opinion/columns/budget-2024-lok-sabha-polls-2024-nirmala-sitharaman-black-paper-white-paper-9167100/)
 

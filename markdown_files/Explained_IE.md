@@ -1,3 +1,18 @@
+Sun, 18 Feb 2024 15:28:49 +0000
+### [This Quote Means: ‘Mathematics is the music of reason’](https://indianexpress.com/article/explained/this-quote-means-mathematics-is-the-music-of-reason-9168222/)
+
+The article discusses the beauty and interconnectedness between mathematics and music, illustrated through various examples. The quote "mathematics is the music of reason" is attributed to mathematician James Joseph Sylvester and has been a recurring theme in mathematical discourse. It explores how mathematics underpins aspects of music, architecture, and even famous musical compositions like Bach's "The Art of Fugue" and Queen's "We Will Rock You." While some argue that music is best enjoyed without analysis, the article highlights the intriguing relationship between mathematics and music, emphasizing their shared patterns and structures.
+
+Sun, 18 Feb 2024 12:16:44 +0000
+### [Avdiivka falls: Five places Russia is fighting to break through Ukrainian lines](https://indianexpress.com/article/explained/explained-global/avdiivka-four-places-russia-is-fighting-ukraine-9168043/)
+
+Article found but Couldn't summarize
+
+Sun, 18 Feb 2024 11:38:38 +0000
+### [Kamal Nath to join BJP? The 1984 Sikh riots allegations that have dogged the Congress veteran](https://indianexpress.com/article/explained/explained-politics/kamal-nath-bjp-his-role-in-1984-sikh-riots-9167998/)
+
+Article found but Couldn't summarize
+
 Sun, 18 Feb 2024 02:30:26 +0000
 ### [The bubonic plague is back. Should you be worried?](https://indianexpress.com/article/explained/explained-health/bubonic-plague-black-death-us-oregon-9167239/)
 
