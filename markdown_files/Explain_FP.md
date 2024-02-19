@@ -1,3 +1,75 @@
+Mon, 19 Feb 2024 19:52:14 +0530
+### [Ashwin Ramaswami: Meet the Gen Z running for Georgia senate](https://www.firstpost.com/explainers/ashwin-ramaswami-meet-the-gen-z-running-for-georgia-senate-13739530.html)
+
+Article found but Couldn't summarize 
+Ashwin Ramaswami is the first Gen Z Indian-American to run for a state or federal legislature in the US. The 24-year-old, who has his roots in Tamil Nadu, is focusing on education, jobs healthcare and reproductive rights during his campaign. A Democrat, he is running for the state senate in District 48 of Georgia
+
+Mon, 19 Feb 2024 19:19:39 +0530
+### [Why Sydney’s growing asbestos problem has put schools in danger](https://www.firstpost.com/explainers/why-sydneys-growing-asbestos-problem-has-put-schools-in-danger-13739515.html)
+
+Asbestos has been found at nearly three dozen sites in Sydney, including schools, raising concerns about health risks. Asbestos, a mineral fiber used in construction for reinforcement and fire-proofing, has been linked to lung inflammation and cancer. Despite being banned in many countries, it was widely used in Australia until the 1990s. In Sydney, recent contamination led to the discovery of asbestos in parks, schools, and public areas. Authorities are actively investigating and working to remove the toxic material, with experts cautioning about the dangers of asbestos exposure, which can take 15 to 30 years to develop into diseases like lung cancer and mesothelioma.
+
+Mon, 19 Feb 2024 19:13:46 +0530
+### [How India has become part of elite club of countries capable of building aircraft carriers](https://www.firstpost.com/explainers/how-india-has-become-part-of-elite-club-of-countries-capable-of-building-aircraft-carriers-13739511.html)
+
+India's maritime history has seen four aircraft carriers, with the INS Vikrant being the first designed and built in India. Commissioned in September 2022, this marked a crucial moment in India's journey towards self-reliance. The INS Vikrant played a pivotal role in the 1971 Bangladesh Liberation War. In contrast, the INS Viraat, decommissioned in 2017 after years of service, was known for its significant contributions during various operations. The INS Vikramaditya, formerly Russia's Admiral Gorshkov, joined the Indian Navy in 2013 with sophisticated features and capabilities. The rebirth of the INS Vikrant in 2022 showcased India's enhanced defense manufacturing capabilities, leading to plans for a potential third indigenous aircraft carrier.
+
+Mon, 19 Feb 2024 17:14:55 +0530
+### [How Iran’s iPhone ban led to a multimillion-dollar scam](https://www.firstpost.com/explainers/how-irans-iphone-ban-led-to-a-multimillion-dollar-scam-13739398.html)
+
+Article found but Couldn't summarize 
+Despite Iran banning the iPhone for an 'indefinite period,' the handset remains available in shops across the country and in high demand from the public — for a hefty price. The Kourosh Company, which promised to deliver iPhones cheaply and within weeks, scammed people out of $35 million in just a few months
+
+Mon, 19 Feb 2024 16:23:13 +0530
+### [Your bag at Indian airports might arrive in 10 mins. Here’s how](https://www.firstpost.com/explainers/your-bag-at-indian-airports-might-arrive-in-10-mins-heres-how-13739253.html)
+
+The Bureau of Civil Aviation Security has instructed top airlines in India to deliver passengers' baggage within 10 to 30 minutes to reduce congestion at airports. Failure to comply may result in strict action. The move follows a study of baggage delivery times at major airports in India. Other airports worldwide, such as Dubai International and US airports, have varying wait times for baggage handling. Various initiatives globally, like biometric technology and automated immigration clearance, aim to enhance the travel experience.
+
+Mon, 19 Feb 2024 15:14:22 +0530
+### [Why are South Korea's trainee doctors resigning en masse?](https://www.firstpost.com/explainers/why-are-south-koreas-trainee-doctors-resigning-en-masse-13739301.html)
+
+South Korea faces a looming shortage of doctors, prompting the government to consider increasing medical school admissions from 3,000 to 5,000 per year by 2025. However, the proposal has sparked opposition from doctors who cite pressing issues like raising medical fees and reducing teaching hospital burdens. Trainee doctors in South Korea have begun resigning in large numbers, leading to surgeries being delayed at major hospitals. The government aims to address the shortage of doctors and improve healthcare access, but doctors' groups fear negative consequences such as increased competition, unnecessary treatments, and lack of incentives in essential healthcare sectors. Despite government orders for doctors to continue working, the situation remains tense with warnings of arrests for instigators of the strike. The public seems to support the government's plan, although there are concerns about its impact on the healthcare system.
+
+Mon, 19 Feb 2024 14:31:54 +0530
+### [Can Thailand’s Thaksin Shinawatra regain his former political glory?](https://www.firstpost.com/explainers/can-thailands-thaksin-shinawatra-regain-his-former-political-glory-13739291.html)
+
+Article found but Couldn't summarize 
+Thailand’s former prime minister Thaksin Shinawatra, the Southeast Asian nation’s most controversial politician for more than two decades, was released on parole early Sunday. How will this change the country's political landscape?
+
+Mon, 19 Feb 2024 14:08:25 +0530
+### [Sheikh Shahjahan: The man at the centre of Sandeshkhali row](https://www.firstpost.com/explainers/sandeshkhali-violence-who-is-tmcs-sheikh-shahjahan-the-man-at-the-middle-of-the-row-13739365.html)
+
+The article focuses on TMC leader Sheikh Shahjahan from Sandeshkhali, West Bengal, who rose from a humble background to become a powerful figure in the area. His journey is marked by allegations of extortion, land grabbing, and involvement in criminal activities. Shahjahan's rise to power, amassed wealth, and ability to resolve disputes in the region are highlighted. The recent controversy surrounding him involves allegations of a ration scam, leading to protests and arrests in the area. The situation has drawn national attention, with conflicting narratives from political leaders and ongoing investigations into the allegations.
+
+Mon, 19 Feb 2024 13:13:19 +0530
+### [Where is Alexei Navalny’s body? 3 days after death, the mystery continues](https://www.firstpost.com/explainers/where-is-alexei-navalnys-body-3-days-after-death-the-mystery-continues-13739290.html)
+
+Article found but Couldn't summarize 
+Three days after his death, the body of Alexei Navalny has not been handed over to his family. A report in Novaya Gazeta Europe, an independent news outlet, says that the corpse is at a morgue of a hospital in the city of Salekhard, which is an hour away from the prison where the Putin critic died. The body had bruises on it
+
+Mon, 19 Feb 2024 11:58:55 +0530
+### [Nigeria’s currency falls to a record low: What went wrong](https://www.firstpost.com/explainers/nigerias-currency-falls-to-a-record-low-how-did-the-situation-get-so-bad-13739242.html)
+
+Nigeria is in the grips of a severe economic crisis due to a surging inflation rate, causing the naira to hit a record low against the dollar. The inflation rate in January rose to 29.9%, the highest since 1996, primarily driven by food prices. The plummeting currency has exacerbated hardships for Nigerians, compounded by government reforms and removal of subsidies. Nigeria's economy heavily relies on crude oil, but the drop in oil prices and lack of foreign exchange stability have worsened the situation. President Bola Tinubu's reform efforts, including ending gas subsidies and unifying exchange rates, have further devalued the currency. Authorities are trying to address the crisis by clearing foreign exchange backlogs, releasing food reserves, and planning to regulate prices. Nigerians, especially in conflict zones, are facing dire circumstances with rising prices and decreased access to essentials.
+
+Mon, 19 Feb 2024 11:12:38 +0530
+### [Explained: What is the Centre’s five-year plan for farmers?](https://www.firstpost.com/explainers/explained-what-is-the-centres-five-year-plan-for-farmers-13739143.html)
+
+The Centre's fourth round of talks with protesting farmers resulted in positive outcomes as the government proposed purchasing pulses, maize, and cotton crops at minimum support prices for five years. The farmers have temporarily halted their march and will deliberate on the proposal for the next two days. The discussions included ideas to save Punjab's farming, improve groundwater levels, and prevent land degradation. The farmers are also demanding legal guarantees for MSPs, loan waivers, and other agricultural reforms.
+The talks between the government and farmers aim to address various demands, with further discussions pending. Earlier meetings have yielded some agreements but key issues like MSP guarantees and loan waivers remain unresolved. The farmers are camping at the Punjab-Haryana border, emphasizing their demands through the "Delhi Chalo" march. The internet suspension in certain areas and ongoing protests signify the intensity of the situation. Another meeting may be on the horizon as both parties navigate through the complexities of the farmers' demands and government policies.
+
+Mon, 19 Feb 2024 10:46:23 +0530
+### [The power and influence of Yulia Navalnaya, Alexei Navalny's wife](https://www.firstpost.com/explainers/the-power-and-influence-of-yulia-navalnaya-alexei-navalnys-wife-13739172.html)
+
+Article found but Couldn't summarize 
+Yulia Navalnaya, Alexei Navalny's wife, stood by his side as he challenged President Vladimir Putin's rule for more than a decade
+
+Mon, 19 Feb 2024 10:00:59 +0530
+### [Russia takes control of the Ukrainian city Avdiivka. What this means for the war](https://www.firstpost.com/explainers/russia-ukraine-avdiivka-ongoing-war-putin-zelenskyy-13739145.html)
+
+Article found but Couldn't summarize 
+Russia’s flag has been raised in the eastern Ukrainian city of Avdiivka after Ukrainian forces made a hasty retreat. The capture of the city is significant for Vladimir Putin’s men whose last biggest gain was the fall of Bakhmut in May 2023
+
 Mon, 19 Feb 2024 05:00:39 +0530
 ### [FirstUp: PM Modi in UP, naval exercise MILAN-2024 to begin… The big news today](https://www.firstpost.com/explainers/firstup-pm-modi-in-up-naval-exercise-milan-2024-to-begin-the-big-news-today-13739033.html)
 
@@ -39,6 +111,12 @@ Sat, 17 Feb 2024 15:18:10 +0530
 ### [Alexei Navalny & more: Long list of Putin’s critics meeting a mysterious end](http://www.firstpost.com/world/alexei-navalny-death-long-list-of-vladimir-putins-critics-meeting-a-mysterious-end-13738102.html)
 
 The article discusses the shocking death of Russian opposition leader Alexei Navalny in an Arctic Circle jail, raising concerns about threats to his life since returning to Russia in 2021. Various world leaders and activists have blamed President Vladimir Putin for Navalny's reported demise, shedding light on the unsolved deaths of several Putin critics and rivals like Yevgeny Prigozhin, Boris Berezovsky, Boris Nemtsov, Anna Politkovskaya, Alexander Litvinenko, Sergei Magnitsky, and others under mysterious circumstances. Putin has consistently denied involvement in these deaths despite widespread suspicion and criticism.
+
+Sat, 17 Feb 2024 15:18:10 +0530
+### [Alexei Navalny & more: Long list of Putin’s critics meeting a mysterious end](https://www.firstpost.com/explainers/alexei-navalny-death-long-list-of-vladimir-putins-critics-meeting-a-mysterious-end-13738102.html)
+
+Article found but Couldn't summarize 
+Russian Opposition leader Alexei Navalny died in an Arctic Circle jail on Friday. While his demise shocked the world, there were concerns about the threat to his life since he returned to Russia in 2021. Many of Vladimir Putin’s rivals and critics have faced similar fates earlier
 
 Sat, 17 Feb 2024 13:53:51 +0530
 ### [The Fall of Influencers: Why you might hate internet celebs you once adored](https://www.firstpost.com/explainers/the-fall-of-influencers-why-you-might-hate-internet-celebs-you-once-adored-13718272.html)
@@ -1446,6 +1524,12 @@ Wed, 7 Feb 2024 12:22:58 +0530
 Article found but Couldn't summarize 
 In the 8 February elections in Pakistan, two transgender candidates are in the fray. Sobia Khan and Nayab Ali are contesting as independents and they have one goal – to ensure that the community gets its due. They want representation of transpeople in government jobs and politics
 
+Wed, 7 Feb 2024 12:22:58 +0530
+### [Pakistan elections: How two trans candidates are hoping to change politics](https://www.firstpost.com/explainers/pakistan-elections-how-two-trans-candidates-are-hoping-to-change-politics-13695822.html)
+
+Article found but Couldn't summarize 
+In the 8 February elections in Pakistan, two transgender candidates are in the fray. Sobia Khan and Nayab Ali are contesting as independents and they have one goal – to ensure that the community gets its due. They want representation of transpeople in government jobs and politics
+
 Wed, 7 Feb 2024 11:52:23 +0530
 ### [Iran grants visa-free travel to Indians. But conditions apply](http://www.firstpost.com/explainers/iran-grants-visa-free-travel-to-indians-but-conditions-apply-13698162.html)
 
@@ -1530,6 +1614,12 @@ Tue, 6 Feb 2024 17:07:10 +0530
 Article found but Couldn't summarize 
 The Uttarakhand Uniform Civil Code Bill mandates the registration of live-in relationships for residents and lays down punishment – jail term, fine, or both – for failure to do so. The code also states the marriageable age for women and men
 
+Tue, 6 Feb 2024 17:07:10 +0530
+### [What does the Uttarakhand UCC Bill say about live-in relationships, marriages?](https://www.firstpost.com/explainers/uttarakhand-uniform-civil-code-ucc-bill-live-in-relationships-marriages-13696382.html)
+
+Article found but Couldn't summarize 
+The Uttarakhand Uniform Civil Code Bill mandates the registration of live-in relationships for residents and lays down punishment – jail term, fine, or both – for failure to do so. The code also states the marriageable age for women and men
+
 Tue, 6 Feb 2024 17:00:58 +0530
 ### [Monkey fever deaths in Karnataka: What is this disease?](http://www.firstpost.com/explainers/monkey-fever-deaths-in-karnataka-what-is-this-disease-and-how-is-it-spreading-13696472.html)
 
@@ -1550,6 +1640,12 @@ Karolina Shiino, the Ukraine-born winner of last month's Miss Japan, has renounc
 
 Tue, 6 Feb 2024 14:31:57 +0530
 ### [Pakistan elections 2024: How the military has bowled a bouncer to Imran Khan](http://www.firstpost.com/world/pakistan-elections-2024-how-the-military-has-bowled-a-bouncer-to-imran-khan-13695042.html)
+
+Article found but Couldn't summarize 
+Imran Khan has been pushed to the sidelines during the ongoing Pakistan election campaign. The former prime minister has been sentenced to three jail terms in one week, an indication that the military will stop at nothing to keep him away from the general election. And that’s not all
+
+Tue, 6 Feb 2024 14:31:57 +0530
+### [Pakistan elections 2024: How the military has bowled a bouncer to Imran Khan](https://www.firstpost.com/explainers/pakistan-elections-2024-how-the-military-has-bowled-a-bouncer-to-imran-khan-13695042.html)
 
 Article found but Couldn't summarize 
 Imran Khan has been pushed to the sidelines during the ongoing Pakistan election campaign. The former prime minister has been sentenced to three jail terms in one week, an indication that the military will stop at nothing to keep him away from the general election. And that’s not all
@@ -1590,6 +1686,12 @@ Tue, 6 Feb 2024 08:00:05 +0530
 Article found but Couldn't summarize 
 The Uniform Civil Code bill will be tabled in the Uttarakhand Assembly today (6 February). The draft submitted to CM Pushkar Singh Dhami recommends a ban on practices like polygamy and iddat. It also suggests a fixed age for marriage for men and women, and seeks to legalise live-in relationships
 
+Tue, 6 Feb 2024 08:00:05 +0530
+### [Ban on polygamy and more: What Uttarakhand’s Uniform Civil Code bill will enforce](https://www.firstpost.com/explainers/ban-on-polygamy-fixed-marriage-age-what-uttarakhands-uniform-civil-code-ucc-bill-will-enforce-pushkar-singh-dhami-13691632.html)
+
+Article found but Couldn't summarize 
+The Uniform Civil Code bill will be tabled in the Uttarakhand Assembly today (6 February). The draft submitted to CM Pushkar Singh Dhami recommends a ban on practices like polygamy and iddat. It also suggests a fixed age for marriage for men and women, and seeks to legalise live-in relationships
+
 Tue, 6 Feb 2024 05:00:56 +0530
 ### [FirstUp: PM Modi in Goa, Nawaz Sharif to hold rally... Today's big stories](http://www.firstpost.com/explainers/firstup-pm-modi-in-goa-rbi-mpc-meet-nawaz-sharif-to-hold-rally-todays-big-stories-13692842.html)
 
@@ -1604,6 +1706,12 @@ The Public Examinations (Prevention of Unfair Means) Bill, 2024 mandates a maxim
 
 Mon, 5 Feb 2024 19:45:28 +0530
 ### [Imran Khan’s spiritual leader and now ‘illegal’ wife: Who is Bushra Bibi?](http://www.firstpost.com/world/imran-khans-spiritual-leader-and-now-illegal-wife-who-is-bushra-bibi-13691832.html)
+
+Article found but Couldn't summarize 
+Imran Khan’s wife Bushra Bibi is a faith healer. It is said that she saw in her dream that Khan would become prime minister only if he married her. They secretly wedded in 2018, Khan won the elections in Pakistan but now their fortunes have changed
+
+Mon, 5 Feb 2024 19:45:28 +0530
+### [Imran Khan’s spiritual leader and now ‘illegal’ wife: Who is Bushra Bibi?](https://www.firstpost.com/explainers/imran-khans-spiritual-leader-and-now-illegal-wife-who-is-bushra-bibi-13691832.html)
 
 Article found but Couldn't summarize 
 Imran Khan’s wife Bushra Bibi is a faith healer. It is said that she saw in her dream that Khan would become prime minister only if he married her. They secretly wedded in 2018, Khan won the elections in Pakistan but now their fortunes have changed

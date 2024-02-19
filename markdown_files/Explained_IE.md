@@ -1,3 +1,47 @@
+Mon, 19 Feb 2024 15:15:15 +0000
+### [Why Bombay HC termed arrest of Chanda Kochhar and husband ‘abuse of power’](https://indianexpress.com/article/explained/explained-law/why-hc-termed-arrest-of-chanda-kochhar-and-husband-abuse-of-power-9169816/)
+
+The Bombay High Court criticized the CBI for what it termed as an "abuse of power" in the arrests of former ICICI Bank CEO Chanda Kochhar and her husband Deepak Kochhar. The arrests were related to a case involving loans granted by ICICI Bank to the Videocon Group. The court highlighted that the arrests violated Section 41A of the Criminal Procedure Code, which aims to prevent unnecessary detentions. The HC stated that the couple had complied with CBI notices and had not been interrogated for over three years since the FIR was filed. It emphasized that the arrests lacked proper justification and condemned them as a misuse of authority.
+
+Mon, 19 Feb 2024 14:28:39 +0000
+### [Round 4 of talks: What has the Govt offered protesting farmers from Punjab?](https://indianexpress.com/article/explained/round-4-government-punjab-farmers-protest-talks-9169756/)
+
+During recent talks, the government proposed diversification into pulses, cotton, and maize to address farmers' concerns. They assured minimum support prices (MSP) for these crops without quantity limitations. The proposal includes procurement by cooperative agencies and legal contracts for farmers. Punjab Chief Minister and farm unions support the idea, citing benefits such as reduced water dependency and increased income. The proposal aims to address water scarcity issues and could aid in crop diversification. However, uncertainties remain, as farmers are reviewing the proposal before making a final decision. The move is crucial for Punjab, facing water scarcity and desertification issues due to paddy cultivation.
+
+Mon, 19 Feb 2024 13:46:36 +0000
+### [SC orders fresh counting of votes: What exactly happened during the Chandigarh mayor elections](https://indianexpress.com/article/explained/explained-politics/what-happened-during-the-chandigarh-mayor-elections-9169696/)
+
+The Supreme Court declared that the Chandigarh mayoral election results would be based on existing ballot papers following allegations of misconduct. BJP Mayor Manoj Sonkar resigned after adverse observations were made. The election was significant as it marked an alliance between Congress and AAP. BJP won with 16 votes, while the alliance got 12; opposition alleged unfair invalidation of votes. The BJP gained three AAP councillors post-election, increasing their votes to 17. Initial observations by the SC criticized the conduct of presiding officer Anil Masih, emphasizing the need to uphold democracy.
+
+Mon, 19 Feb 2024 13:23:53 +0000
+### [Murder that changed Kerala politics: What happened in 2012, when CPM-linked killers hacked a rebel communist to death?](https://indianexpress.com/article/explained/explained-politics/kerala-cpm-tp-chandrasekharan-murder-life-imprisonment-9169593/)
+
+The Kerala High Court upheld the life imprisonment of 10 individuals, including three CPI(M) leaders, in the T P Chandrasekharan murder case, a highly sensational crime from 12 years ago. Chandrasekharan, a former CPM member turned RMP leader, was brutally murdered by assailants in a calculated attack. The killing was allegedly orchestrated by local CPM leaders who hired a group with a history of violent crimes. The murder case led to arrests of high-ranking CPM leaders, highlighting a decline in political violence in Kerala. Chandrasekharan's widow, K K Rama, took charge of RMP, advocating against political violence. The murder significantly impacted local politics, leading to electoral shifts in the Vadakara region.
+
+Mon, 19 Feb 2024 13:13:40 +0000
+### [Warming up to climate change: How does climate change impact extreme weather events?](https://indianexpress.com/article/explained/explained-climate/climate-change-impact-extreme-weather-events-9169603/)
+
+The article discusses the impact of climate change on extreme weather events due to the increase in global temperatures. It notes that rising temperatures have led to more frequent and intense events like heatwaves, droughts, floods, hurricanes, and wildfires. While it's challenging to attribute specific events solely to climate change, studies can indicate how warming climate exacerbates these events. For instance, heatwaves and droughts are becoming more severe due to global warming, leading to dire consequences like famine and displacement of populations. The article also mentions how warmer temperatures amplify hurricanes, with oceans absorbing much of the excess heat, causing marine heat waves and intensifying storms. Additionally, it highlights how higher temperatures contribute to more evaporation, heavier rainfall, and increased flooding.
+
+Mon, 19 Feb 2024 10:29:59 +0000
+### [CJI Chandrachud speaks of criticism against court vacations: The debate, explained](https://indianexpress.com/article/explained/explained-law/cji-chandrachud-court-vacations-judges-criticism-debate-9169237/)
+
+Chief Justice of India DY Chandrachud addressed criticisms regarding the vacation days allotted to Indian judges, highlighting the misconception that judges have excessive holidays. He emphasized that judges work tirelessly every day, including weekends, with district judges engaged in legal aid camps and administrative tasks. The Supreme Court operates for 193 days annually, while High Courts and trial courts function for approximately 210 and 245 days, respectively. Despite scheduled breaks, judges are available in "vacation benches" to address urgent cases. The debate around vacation days stems from concerns about case backlogs and slow legal processes. Various recommendations have been made to reduce vacation periods and enhance court efficiency. Comparisons with apex courts in the US and the UK show differing workloads and vacation structures.
+
+Mon, 19 Feb 2024 10:08:31 +0000
+### [Government drops names of Indira Gandhi, Nargis Dutt from National Film Awards: What has changed?](https://indianexpress.com/article/explained/explained-culture/government-drop-indira-gandhi-nargis-dutt-national-film-awards-9169227/)
+
+Article found but Couldn't summarize
+
+Mon, 19 Feb 2024 02:00:51 +0000
+### [Pakistan elections: The General, the rebel, and India](https://indianexpress.com/article/explained/explained-global/pakistan-elections-the-general-the-rebel-and-india-9168495/)
+
+The article discusses the recent political scenario in Pakistan following the country's election results. The victory of Imran Khan's PTI-backed independents over the military's favored Sharif-Bhutto-Zardari coalition has led to significant political shifts. The polarized environment in Pakistan reflects changing public sentiments, challenging the traditional power structures including the military's influence.
+
+The article delves into the power struggle between Gen Asim Munir and Imran Khan, highlighting past events that have shaped their rivalry. It also discusses the consequences of the recent election results on India and other countries, emphasizing the implications for bilateral relations and regional stability.
+
+The PTI's reliance on social media and its anti-establishment stance are highlighted, along with the challenges of governing in a politically volatile landscape. It also touches upon potential future engagements with India and China, addressing the economic and geopolitical complexities facing Pakistan's new government.
+
 Sun, 18 Feb 2024 15:28:49 +0000
 ### [This Quote Means: ‘Mathematics is the music of reason’](https://indianexpress.com/article/explained/this-quote-means-mathematics-is-the-music-of-reason-9168222/)
 

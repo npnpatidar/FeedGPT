@@ -1,3 +1,15 @@
+Tue, 20 Feb 2024 00:30:00 +0530
+### [Combat mode: On the BJP and the general election 2024 campaign](https://www.thehindu.com/opinion/editorial/combat-mode-the-hindu-editorial-on-the-bjp-and-the-general-election-2024-campaign/article67864145.ece)
+
+Article found but Couldn't summarize 
+The BJP hides its failings by adopting an aggressive strategy
+
+Tue, 20 Feb 2024 00:15:00 +0530
+### [Red Sea blues: On India’s goods exports](https://www.thehindu.com/opinion/editorial/red-sea-blues-the-hindu-editorial-on-indias-goods-exports/article67863882.ece)
+
+Article found but Couldn't summarize 
+January’s export numbers suggest global shipping woes are yet to fully hit home
+
 Mon, 19 Feb 2024 00:30:00 +0530
 ### [Misplaced priorities: On the scrapping of the Free Movement Regime between India and Myanmar](https://www.thehindu.com/opinion/editorial/misplaced-priorities-the-hindu-editorial-on-the-scrapping-of-the-free-movement-regime-between-india-and-myanmar/article67861036.ece)
 

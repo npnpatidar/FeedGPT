@@ -1,3 +1,57 @@
+Tue, 20 Feb 2024 00:33:28 +0530
+### [Farm anxiety: An MSP law is neither unthinkable nor a magic bullet](https://www.livemint.com/opinion/online-views/farm-anxiety-an-msp-law-is-neither-unthinkable-nor-a-magic-bullet-11708358106526.html)
+
+Article found but Couldn't summarize 
+The cost of making it a legal guarantee isn't as large as made out to be, but it won't unshackle farmers either.
+
+Tue, 20 Feb 2024 00:29:49 +0530
+### [Cold War II: America’s emulation of Chinese policy could reset their relations](https://www.livemint.com/opinion/online-views/cold-war-ii-america-s-emulation-of-chinese-policy-could-reset-their-relations-11708347433949.html)
+
+Article found but Couldn't summarize 
+True, tensions prevail. Yet, cooperation may be easier if both countries realize that their policies are neither too different nor necessarily harmful to each other.
+
+Tue, 20 Feb 2024 00:26:31 +0530
+### [OpenAI is being too secretive about its hot new video generator](https://www.livemint.com/opinion/online-views/openai-is-being-too-secretive-about-its-hot-new-video-generator-11708347529474.html)
+
+Article found but Couldn't summarize 
+It has disclosed too little about a tool that can wreak political havoc with more than half the world going to polls this year. It should not not release it for public use until after this year’s elections.
+
+Tue, 20 Feb 2024 00:18:24 +0530
+### [Sovereign credit ratings: Give local rating agencies a chance](https://www.livemint.com/opinion/online-views/sovereign-credit-ratings-give-local-rating-agencies-a-chance-11708347596285.html)
+
+Article found but Couldn't summarize 
+Even a decade-and-a-half after the global financial crisis, little has changed in the credit rating space. Domestic agencies can offer an alternative to ratings by a global oligopoly whose actions often defy justification.
+
+Mon, 19 Feb 2024 17:46:03 +0530
+### [Beyond the flight: The critical gap in India's aviation accessibility and rights](https://www.livemint.com/opinion/online-views/beyond-the-flight-the-critical-gap-in-indias-aviation-accessibility-and-rights-11708339094586.html)
+
+Article found but Couldn't summarize 
+A wheelchair shortage as a potential cause of a chain of events leading to a lost life is hard to accept in one of the fastest growing aviation markets in the world.
+
+Mon, 19 Feb 2024 08:54:52 +0530
+### [Monetary policy had a relevant role in the US inflation episode](https://www.livemint.com/opinion/online-views/monetary-policy-had-a-relevant-role-in-the-us-inflation-episode-11708257505143.html)
+
+Article found but Couldn't summarize 
+The Federal Reserve’s actions alone don’t explain the rise and fall of inflation but they were far from irrelevant.
+
+Mon, 19 Feb 2024 08:52:37 +0530
+### [It was an important judicial test that doomed electoral bonds](https://www.livemint.com/opinion/online-views/it-was-an-important-judicial-test-that-doomed-electoral-bonds-11708257434751.html)
+
+Article found but Couldn't summarize 
+The right of voters to know outweighs other considerations. While the apex court’s ruling won’t solve our campaign-funding puzzle, the doctrine used has momentous implications.
+
+Mon, 19 Feb 2024 08:46:13 +0530
+### [SC ruling on electoral bonds: Sunshine in politics](https://www.livemint.com/opinion/quick-edit/sc-ruling-on-electoral-bonds-sunshine-in-politics-11708257282592.html)
+
+Article found but Couldn't summarize 
+A dubious way to fund poll campaigns was blocked for the benefit of voters. It’s a win for the light of truth shone on shadowy spaces. And the truth counts.
+
+Mon, 19 Feb 2024 08:00:09 +0530
+### [Farmers’ worries real, but they are not solely in pain](https://www.livemint.com/opinion/farmers-worries-real-but-they-are-not-solely-in-pain-11708258307758.html)
+
+Article found but Couldn't summarize 
+Agriculture has shaped our society and culture for centuries But farmers have always faced problems
+
 Mon, 19 Feb 2024 00:51:00 +0530
 ### [Is there a meaningful issue that could anger Indians?](https://www.livemint.com/opinion/online-views/is-there-a-meaningful-issue-that-could-anger-indians-11708257607960.html)
 

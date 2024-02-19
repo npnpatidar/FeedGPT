@@ -1,3 +1,27 @@
+Mon, 19 Feb 2024 22:23:04 +0530
+### [What did the Parliamentary Committee recommend with respect to local fintech players ? | Explained](https://www.thehindu.com/business/Industry/what-did-the-parliamentary-committee-recommend-with-respect-to-local-fintech-players-explained/article67864664.ece)
+
+Article found but Couldn't summarize 
+What were the concerns listed by the Parliamentary Standing Committee on Communications and Information Technology on the rise of digital payments in India?
+
+Mon, 19 Feb 2024 18:07:09 +0530
+### [SC examines divorced Muslim women’s right to maintenance under Section 125 of the CrPC | Explained](https://www.thehindu.com/news/national/sc-examines-divorced-muslim-womens-right-to-maintenance-section-125-of-the-crpc-explained/article67841765.ece)
+
+Article found but Couldn't summarize 
+The Supreme Court has decided to examine if existing personal laws debar divorced Muslim women from availing maintenance under Section 125 CrPC — what is the case and what do judcial precedents stipulate?
+
+Mon, 19 Feb 2024 10:30:00 +0530
+### [Why have fresh protests erupted in Senegal? | Explained](https://www.thehindu.com/news/international/why-have-fresh-protests-erupted-in-senegal-explained/article67861530.ece)
+
+Article found but Couldn't summarize 
+Why were opposition leaders dragged out of the National Assembly by riot police? Is Senegal’s legacy as the only coup-free West African nation hanging by a thread?
+
+Mon, 19 Feb 2024 10:30:00 +0530
+### [Why OpenAI’s new video generator, Sora, is making a splash | Explained](https://www.thehindu.com/sci-tech/technology/why-openais-new-video-generator-sora-is-making-a-splash-explained/article67861550.ece)
+
+Article found but Couldn't summarize 
+Sora in Japanese means sky, an imagery that evokes ‘limitless creative potential’. The video clips produced by the AI-based image generator are so photorealistic that they will stun anyone who looks at them for the first time
+
 Sun, 18 Feb 2024 03:47:00 +0530
 ### [Starlink | Ukraine’s star-crossed partner](https://www.thehindu.com/news/international/starlink-ukraines-star-crossed-partner/article67858288.ece)
 

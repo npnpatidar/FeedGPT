@@ -1,3 +1,39 @@
+Mon, 19 Feb 2024 18:19:43 +0530
+### [Why Western media loves painting India dark](https://www.firstpost.com/opinion/why-western-media-loves-painting-india-dark-13739494.html)
+
+Article found but Couldn't summarize 
+India’s efforts to invoke its civilisational and cultural identity, hitherto buried under the debris of colonialism, have been projected as an aggressive and hyper-national attempt to suppress minorities and create a fascist state
+
+Mon, 19 Feb 2024 18:16:47 +0530
+### [Embracing Hindu studies: Nurturing wisdom in the 21st century](https://www.firstpost.com/opinion/embracing-hindu-studies-nurturing-wisdom-in-the-21st-century-13739485.html)
+
+Article found but Couldn't summarize 
+The study of Hinduism serves as a gateway to appreciating Bharat's rich cultural and historical tapestry
+
+Mon, 19 Feb 2024 14:28:15 +0530
+### [Bengal's wake-up call: Seizing the moment or surrendering to fate](https://www.firstpost.com/opinion/bengals-wake-up-call-seizing-the-moment-or-surrendering-to-fate-13739202.html)
+
+Article found but Couldn't summarize 
+When West Bengal got the opportunity to welcome the BJP in 2021, they let it pass, just as an inefficient defender allows the football ball to score a home goal
+
+Mon, 19 Feb 2024 11:27:12 +0530
+### [Why is India correct in seeking ‘permanent solution’ for food security at WTO](https://www.firstpost.com/opinion/why-is-india-correct-in-seeking-permanent-solution-for-food-security-at-wto-13739189.html)
+
+Article found but Couldn't summarize 
+New Delhi has rightly pushed for measures to amend the formula calculating the food subsidy cap and to include programmes implemented after 2013 under the ‘Peace Clause'
+
+Mon, 19 Feb 2024 10:22:23 +0530
+### [Prowess in S&T is a sine qua non if India wants a seat at the international high table](https://www.firstpost.com/opinion/opinion-prowess-in-st-is-a-sine-qua-non-if-india-wants-a-seat-at-the-international-high-table-13739168.html)
+
+Article found but Couldn't summarize 
+Despite approving a bill to set up a National Research Foundation to overhaul and boost scientific advancement in the country several months ago, the government has so far been quiet on allocation for the institution or progress made
+
+Mon, 19 Feb 2024 09:58:11 +0530
+### [How Narendra Modi is transforming Indian Navy, step by step, and bringing about a change in mindset](https://www.firstpost.com/opinion/how-narendra-modi-is-transforming-indian-navy-step-by-step-and-bringing-about-a-change-in-mindset-13739121.html)
+
+Article found but Couldn't summarize 
+From protecting the global commons to throwing its weight around to push away ‘outsiders’, a more capable Navy is throwing the gauntlet at China
+
 Sun, 18 Feb 2024 17:04:29 +0530
 ### [Book Review | 'Modi's North East Story': Mainstreaming India's rising sun](https://www.firstpost.com/opinion/book-review-modis-north-east-story-mainstreaming-indias-rising-sun-13739023.html)
 
