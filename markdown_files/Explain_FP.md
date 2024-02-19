@@ -1,3 +1,9 @@
+Mon, 19 Feb 2024 05:00:39 +0530
+### [FirstUp: PM Modi in UP, naval exercise MILAN-2024 to begin… The big news today](https://www.firstpost.com/explainers/firstup-pm-modi-in-up-naval-exercise-milan-2024-to-begin-the-big-news-today-13739033.html)
+
+Article found but Couldn't summarize 
+From PM Narendra Modi’s hectic schedule in Uttar Pradesh to the largest multilateral naval exercise called ‘MILAN-2024’, here’s what you should expect from the world of news
+
 Sun, 18 Feb 2024 11:32:11 +0530
 ### [US presidential polls: What happens if Joe Biden or Donald Trump leave the race](https://www.firstpost.com/explainers/us-presidential-polls-what-happens-if-joe-biden-or-donald-trump-leave-the-race-13738903.html)
 
