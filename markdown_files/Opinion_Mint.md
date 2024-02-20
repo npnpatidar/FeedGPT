@@ -1,3 +1,51 @@
+Wed, 21 Feb 2024 00:29:27 +0530
+### [Electoral bonds have been scrapped but not corporate funding](https://www.livemint.com/opinion/online-views/electoral-bonds-have-been-scrapped-but-not-corporate-funding-11708444245974.html)
+
+Article found but Couldn't summarize 
+The Supreme Court axed those bonds in the interest of Indian voters. A suitable mechanism is now needed that prioritizes transparency in efforts to curb corruption.
+
+Wed, 21 Feb 2024 00:26:24 +0530
+### [Climate action: Our energy transition need not follow preset pathways](https://www.livemint.com/opinion/online-views/climate-action-our-energy-transition-need-not-follow-preset-pathways-11708436657032.html)
+
+Article found but Couldn't summarize 
+If developing nations are not careful in their climate policy choices, the economic development, energy security and fiscal costs of a rushed transition to renewable energy could prove detrimental to economic growth.
+
+Wed, 21 Feb 2024 00:24:20 +0530
+### [Detroit may be making the same mistake on EVs that it made with Japane](https://www.livemint.com/opinion/online-views/detroit-may-be-making-the-same-mistake-on-evs-that-it-made-with-japane-11708436809523.html)
+
+Article found but Couldn't summarize 
+US carmakers must fend off Chinese EV-makers by developing products that can compete with them, and not rely on trade barriers for protection.
+
+Wed, 21 Feb 2024 00:20:26 +0530
+### [Virtual power plants could help lead our energy transition](https://www.livemint.com/opinion/online-views/virtual-power-plants-could-help-lead-our-energy-transition-11708436885909.html)
+
+Article found but Couldn't summarize 
+Let technology bridge India’s gaps between variable energy demand and intermittent clean supply. Network software can do exactly what we need.
+
+Tue, 20 Feb 2024 13:00:14 +0530
+### [How to benefit from the conversations you have at work](https://www.livemint.com/opinion/how-to-benefit-from-the-conversations-you-have-at-work-11708405754248.html)
+
+Article found but Couldn't summarize 
+Stop thinking about your next point and listen to the one being made
+
+Tue, 20 Feb 2024 08:00:04 +0530
+### [A tale of two sectors: Aviation soars while railways crawl](https://www.livemint.com/opinion/online-views/a-tale-of-two-sectors-aviation-soars-while-railways-crawl-11708357949901.html)
+
+Article found but Couldn't summarize 
+There’s a boom in aviation fuelled by holiday demand amid a post-pandemic roar back to the skies. But this should not overshadow India’s lumbering recovery in railway traffic.
+
+Tue, 20 Feb 2024 08:00:04 +0530
+### [Leaders must let go of industrial era paradigms to succeed](https://www.livemint.com/opinion/online-views/leaders-must-let-go-of-industrial-era-paradigms-to-succeed-11708358019067.html)
+
+Article found but Couldn't summarize 
+Today’s age of value generation requires corporations to follow a model that openly outmodes the old factory-bred HR orientation. Taylor’s words on productivity are decreasing relevant.
+
+Tue, 20 Feb 2024 08:00:04 +0530
+### [Freebies in the electoral fray: Millennial Survey results](https://www.livemint.com/opinion/quick-edit/freebies-in-the-electoral-fray-millennial-survey-results-11708358198647.html)
+
+Article found but Couldn't summarize 
+According to the latest round of the YouGov-Mint-CPR Millennial Survey, a majority of its sample took a dim view of fiscal handouts, but also revealed a partisan split over which party’s are good or bad.
+
 Tue, 20 Feb 2024 00:33:28 +0530
 ### [Farm anxiety: An MSP law is neither unthinkable nor a magic bullet](https://www.livemint.com/opinion/online-views/farm-anxiety-an-msp-law-is-neither-unthinkable-nor-a-magic-bullet-11708358106526.html)
 

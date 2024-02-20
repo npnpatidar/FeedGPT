@@ -1,3 +1,57 @@
+Tue, 20 Feb 2024 20:21:23 +0530
+### [Uniform Civil Code: Assam going Uttarakhand way?](https://www.firstpost.com/opinion/uniform-civil-code-assam-going-uttarakhand-way-13739855.html)
+
+Article found but Couldn't summarize 
+The UCC despite having contrastive interests clashing over the attributes of pluralism, will successfully balance out things by reinforcing social justice in the form of equality, human dignity, gender justice, equal treatment of law etc
+
+Tue, 20 Feb 2024 18:46:25 +0530
+### [How long will US hegemony last amidst mounting geopolitical challenges?](https://www.firstpost.com/opinion/how-long-us-hegemony-will-last-amidst-mounting-geopolitical-challenges-13739951.html)
+
+Article found but Couldn't summarize 
+Politically dysfunctional America is economically vibrant, but the question is: Can the Titan hold up the world order it established after World War II?
+
+Tue, 20 Feb 2024 18:31:17 +0530
+### [Vantage | Will 2024 be a year of layoffs too?](https://www.firstpost.com/opinion/vantage-will-2024-be-a-year-of-layoffs-too-13739940.html)
+
+Article found but Couldn't summarize 
+The year has begun with another series of layoffs that aren't as bad as last year, but companies are still cutting jobs
+
+Tue, 20 Feb 2024 16:27:58 +0530
+### [Vantage | How Big Oil won big from war and why we should be worried](https://www.firstpost.com/opinion/vantage-how-big-oil-won-big-from-war-and-why-we-should-be-worried-13739851.html)
+
+Article found but Couldn't summarize 
+Big Oil is going back on its promise of sustainability
+
+Tue, 20 Feb 2024 15:44:46 +0530
+### [Vantage | Will investment bankers make your chocolate unaffordable?](https://www.firstpost.com/opinion/vantage-will-investment-bankers-make-your-chocolate-unaffordable-13739803.html)
+
+Article found but Couldn't summarize 
+The convergence of natural disasters and financial speculation has propelled the cocoa market into uncharted territory, posing challenges for both consumers and producers
+
+Tue, 20 Feb 2024 14:15:22 +0530
+### [Vladimir Putin having the last laugh on Ukraine](https://www.firstpost.com/opinion/vladimir-putin-having-the-last-laugh-on-ukraine-13739771.html)
+
+Article found but Couldn't summarize 
+Russia is winning and has skirted sanctions. Increased military production has boosted the economy, while future Western military aid to Ukraine is uncertain
+
+Tue, 20 Feb 2024 14:13:14 +0530
+### [Vantage | Meet Generation Alpha that is all set take over the world](https://www.firstpost.com/opinion/vantage-meet-generation-alpha-that-is-all-set-take-over-the-world-13739759.html)
+
+Article found but Couldn't summarize 
+Generation Alpha represents not only a continuation but also a culmination of the societal shifts that have characterised the 21st century thus far
+
+Tue, 20 Feb 2024 13:39:42 +0530
+### [Vantage | How to rig an election Pakistan way](https://www.firstpost.com/opinion/vantage-how-to-rig-an-election-pakistan-way-13739753.html)
+
+Article found but Couldn't summarize 
+Pakistan's mandate was tampered with, the execution was shoddy, and the results were disastrous, but the military is being allowed to get away with it
+
+Tue, 20 Feb 2024 11:51:14 +0530
+### [Alexei Navalny's last walk and the haunting legacy of Russia's Arctic Circle Prison](https://www.firstpost.com/opinion/alexei-navalnys-last-walk-and-the-haunting-legacy-of-russias-arctic-circle-prison-13739653.html)
+
+Article found but Couldn't summarize 
+The “Arctic Circle Prison”, or the “Polar Wolf” was officially named FKU IK-3 and is a men’s maximum security corrective colony located in the town of Kharp located in the Priuralsky district in the Yamalo-Nenets Autonomous Okrug
+
 Mon, 19 Feb 2024 18:19:43 +0530
 ### [Why Western media loves painting India dark](https://www.firstpost.com/opinion/why-western-media-loves-painting-india-dark-13739494.html)
 

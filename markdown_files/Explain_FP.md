@@ -1,3 +1,109 @@
+Tue, 20 Feb 2024 20:42:30 +0530
+### [What the Vatican's secret keeper wants you to know before he retires](https://www.firstpost.com/explainers/what-the-vaticans-secret-keeper-wants-you-to-know-before-he-retires-13739939.html)
+
+Archbishop Sergio Pagano, the longtime prefect of the Vatican Apostolic Archive, reveals secrets from the Vatican's archive in his book "Secretum." He shares insights into historical events, including World War II secrets and significant moments in Church history. This includes details on Pope Pius XII's controversial wartime actions and the Vatican's financial ties with the US church, dating back to a 1922 conclave. Pagano also critiques the incomplete research behind Pius XII's sainthood cause. The Vatican Apostolic Archive, formerly known as the "secret archives," houses a wealth of historical documents and prized possessions, such as a 1530 letter from British nobles to Pope Clement VII.
+
+Tue, 20 Feb 2024 19:01:09 +0530
+### [How women gain more health benefits from regular exercise than men](https://www.firstpost.com/explainers/how-women-gain-more-health-benefits-from-regular-exercise-than-men-13739919.html)
+
+A recent study revealed that women gain more health benefits from regular exercise compared to men. Conducted by researchers in the U.S. and China, the study observed over 400,000 participants and found that women who exercise regularly have a significantly lower risk of early death, especially from cardiovascular events. The study reported that women who engage in physical activity experience a 24% decrease in mortality risk, whereas men see a 15% decrease. Men generally perform more physical activities compared to women and need around 300 minutes of exercise weekly, while women require only 140 minutes to achieve similar benefits. The study emphasizes the importance of even small amounts of exercise for women and suggests that regular physical activity, even in short durations, can lead to substantial health gains.
+
+Tue, 20 Feb 2024 18:47:45 +0530
+### [You are not alone: How spam calls are a serious problem in India](https://www.firstpost.com/explainers/you-are-not-alone-how-spam-calls-are-a-serious-problem-in-india-13739871.html)
+
+Article found but Couldn't summarize 
+A new survey shows that 60 per cent of respondents received three or more spam calls every day this past year. Experts say blacklisting callers and holding brands accountable for the behaviour of marketers in the need of the hour
+
+Tue, 20 Feb 2024 18:26:56 +0530
+### [How Julian Assange, the Wikileaks co-founder, has spent last 13 years since arrest](https://www.firstpost.com/explainers/how-julian-assange-the-wikileaks-co-founder-has-spent-last-13-years-since-arrest-13739907.html)
+
+Article found but Couldn't summarize 
+WikiLeaks founder Julian Assange begins what could be his last chance to stop his extradition from Britain to the US on Tuesday after years of battling the authorities in the English courts. US prosecutors are seeking to put him on trial on 18 charges, including the one in the Espionage Act
+
+Tue, 20 Feb 2024 18:13:24 +0530
+### [Hyderabad man dies during 'smile designing' surgery. What went wrong?](https://www.firstpost.com/explainers/hyderabad-man-dies-during-smile-designing-surgery-what-went-wrong-13739775.html)
+
+Laxmi Narayana Vinjam, 28, passed away during a smile enhancement surgery before his wedding in Hyderabad. He was given anaesthesia, fell unconscious, and later died. A case of culpable homicide not amounting to murder has been filed against the clinic based on a complaint by the victim's father, alleging an anaesthesia overdose. The surgery was part of a smile-designing procedure, a form of cosmetic dentistry. The dangers of anaesthesia include overdose risks impacting the body, such as blood pressure drops and potential fatalities. Another similar incident in Indore resulted in a 17-year-old passing away due to anaesthesia complications.
+
+Tue, 20 Feb 2024 17:45:22 +0530
+### [What’s the brightest object in the universe? A black hole that eats a Sun a day](https://www.firstpost.com/explainers/whats-the-brightest-object-in-the-universe-a-black-hole-that-eats-a-sun-a-day-13739887.html)
+
+The article in Nature Astronomy details the discovery of a black hole named J0529-4351, surrounded by the brightest accretion disc of captive matter ever found. This object emits light 500 trillion times more intense than the Sun. The immense energy suggests the black hole consumes material equivalent to a Sun's mass daily and is 15 to 20 billion times the mass of our Sun. Despite its ferocity, the light from this black hole, situated over 12 billion light-years away, indicates it stopped growing long ago. The era of active black hole feeding frenzies seemingly ended as galaxies matured, with black holes now largely dormant. Accretion discs surrounding black holes can reach extreme temperatures and speeds, resembling chaotic storm cells. The discovery of J0529-4351 was possible through dedicated observational efforts and avoiding reliance on standard machine-learning algorithms.
+
+Tue, 20 Feb 2024 16:20:50 +0530
+### [Was Alexei Navalny poisoned? Russia’s dubious history of chemical attacks](https://www.firstpost.com/explainers/alexei-navalny-death-wife-poison-claim-russia-dubious-history-of-chemical-attacks-on-dissidents-13739776.html)
+
+Yulia Navalnaya, Alexei Navalny's widow, accuses the Kremlin of poisoning her husband with Novichok nerve agent. Russia has a history of using poisons against critics, dissidents, and defectors for at least a century. Various instances of poisoning, such as the cases of Litvinenko and Skripal, have targeted prominent figures critical of the regime. Poisons like Novichok have been allegedly used by Russian security services to eliminate enemies. Experts suggest that poisoning serves as a tool for easy deniability and creating a chilling message. The latest incident involves Roman Abramovich, who displayed poisoning symptoms during peace talks.
+
+Tue, 20 Feb 2024 16:17:51 +0530
+### [Why is Australia building its biggest navy since WWII? Is China the reason?](https://www.firstpost.com/explainers/why-is-australia-building-its-biggest-navy-since-wwii-is-china-the-reason-13739777.html)
+
+Australia is ramping up its naval capabilities by increasing its surface combatant ships from 11 to 26 within a decade, marking its largest fleet since the Second World War. The plan involves acquiring new Hunter class frigates, constructing general-purpose frigates, and developing large optionally crewed surface vessels. The initiative aims to enhance Australia's anti-submarine operations, trade route security, and long-range strike capacity. The move is in response to increased geopolitical tensions and concerns about China's influence in the Pacific region. However, challenges such as inadequate manpower, cost overruns, and government policy changes persist, raising concerns about the project's success and timely implementation.
+
+Tue, 20 Feb 2024 14:57:26 +0530
+### [Why a Japanese savings account may prove a boon for Indian stock market](https://www.firstpost.com/explainers/why-a-japanese-savings-account-may-prove-a-boon-for-indian-stock-market-13739719.html)
+
+The article discusses the Nippon Individual Savings Account (NISA), a tax-free stock investment scheme in Japan. Prime Minister Fumio Kishida promotes NISA to enhance household wealth by encouraging investment in stocks. NISA offers two types of accounts: general and tsumitate, with different investment options and tax exemptions. Kishida aims to boost investments and reduce reliance on public pension funds. The scheme has gained popularity, with 19.4 million accounts and significant investments in financial products. Japanese investors are increasingly looking at India for investment opportunities due to its strong stock market performance and shifting global supply chains away from China.
+
+Tue, 20 Feb 2024 14:33:42 +0530
+### [Why Taylor Swift is causing tensions between Singapore and Thailand](https://www.firstpost.com/explainers/why-taylor-swift-is-causing-tensions-between-singapore-and-thailand-13739764.html)
+
+Taylor Swift's Eras Tour is set to hit Singapore in March, with a notable exclusivity agreement preventing her from performing in other Association of Southeast Asian Nations (ASEAN) countries. This move has led to a dispute involving Thailand's Prime Minister who claims Singapore offered substantial subsidies to secure this exclusivity. The tour, famous for its economic impact, has generated over $1 billion in revenue globally. Dubbed the 'TSwift Lift,' her concerts have been credited with boosting local economies, prompting world leaders to invite her to perform in their countries. Ahead of her Singapore shows, the city-state is witnessing a surge in flight bookings and hotel reservations, highlighting the popularity of concert-driven tourism.
+
+Tue, 20 Feb 2024 14:18:53 +0530
+### [Chenab bridge: Why world’s highest railway bridge is a game-changer for J&K](https://www.firstpost.com/explainers/chenab-bridge-why-worlds-highest-railway-bridge-is-a-game-changer-for-jk-13739762.html)
+
+Article found but Couldn't summarize 
+Prime Minister Narendra Modi is in Jammu to inaugurate the Chenab bridge, which is taller than the Eiffel Tower. The arch bridge runs between Bakkal and Kauri in the Reasi district, forming a crucial link from Katra to Banihal. It will make commuting and transport of goods easier, boost tourism, and bring economic development to the region
+
+Tue, 20 Feb 2024 13:41:37 +0530
+### [Explained: The case of Russian pilot, who defected to Ukraine, found dead in Spain](https://www.firstpost.com/explainers/explained-the-case-of-russian-pilot-who-defected-to-ukraine-found-dead-in-spain-13739725.html)
+
+Article found but Couldn't summarize 
+A Russian pilot, who defected to Ukraine in his helicopter last year, has been discovered dead in an underground garage in Spain. His body is reportedly riddled with bullets, raising questions as to who is responsible for the murder
+
+Tue, 20 Feb 2024 13:33:05 +0530
+### [World’s most powerful passports: Who ranks 1? What about India?](https://www.firstpost.com/explainers/worlds-most-powerful-passports-who-ranks-1-where-does-india-stand-13739735.html)
+
+Article found but Couldn't summarize 
+France has topped the list of the world’s most powerful passports in 2024, with visa-free access to 194 nations. The other top-ranked nations are Germany, Italy, Japan, Spain, and Singapore. India's ranking has dropped from 84th to 85th place from the previous year. Here's why
+
+Tue, 20 Feb 2024 11:59:04 +0530
+### [Why is fighting flaring in eastern Congo?](https://www.firstpost.com/explainers/why-is-fighting-flaring-in-eastern-congo-could-it-threaten-regional-stability-13739657.html)
+
+Article found but Couldn't summarize 
+Violent clashes have escalated between Democratic Republic of Congo (DRC)'s army and Rwandan-backed M23 Tutsi-led rebels in eastern Congo. Here’s what’s going on there
+
+Tue, 20 Feb 2024 11:09:58 +0530
+### [Chenab bridge, AIIMS, expressways: The mega projects PM is inaugurating in Jammu](https://www.firstpost.com/explainers/chenab-bridge-aiims-expressways-the-mega-projects-pm-will-inaugurate-in-jammu-13739619.html)
+
+Article found but Couldn't summarize 
+Prime Minister Narendra Modi is visiting Jammu on Tuesday. He will inaugurate and lay the foundation stone of multiple development projects worth over Rs 30,500 crore. This includes the Chenab Bridge, which is touted as the world’s highest single-arch railway bridge, AIIMS Jammu, and a new terminal building at Jammu airport
+
+Tue, 20 Feb 2024 11:04:37 +0530
+### [How is India ramping up use of AI in the military?](https://www.firstpost.com/explainers/how-is-india-ramping-up-use-of-ai-in-the-military-13739544.html)
+
+Article found but Couldn't summarize 
+India in 2023 deployed AI systems to keep an eye on its borders with Pakistan and China. The Indian Army has procured a slew of hi-tech weapons and its developing military grade AI along with the MeiTy. Experts say that while India has made some good strides, it still has a long way to go to catch up to China, Japan, Europe and America
+
+Tue, 20 Feb 2024 10:41:24 +0530
+### [Joe Biden and Abraham Lincoln have a 160-year-old connection. Here’s what it is](https://www.firstpost.com/explainers/joe-biden-and-abraham-lincoln-have-a-160-year-old-connection-heres-what-it-is-13739630.html)
+
+Article found but Couldn't summarize 
+According to newly released documents, Abraham Lincoln, the 16th president of the United States, pardoned Joe Biden's great-great-grandfather following a late-night brawl during the Civil War era. Here’s what we know about it
+
+Tue, 20 Feb 2024 10:25:33 +0530
+### [Chandigarh mayor row: Why is the Supreme Court reviewing ballot papers?](https://www.firstpost.com/explainers/chandigarh-mayor-row-why-is-the-supreme-court-reviewing-ballot-papers-13739632.html)
+
+Article found but Couldn't summarize 
+The Supreme Court will be reviewing the ballot papers and the video of the counting process in the Chandigarh mayoral polls, in which the BJP was declared the winner. This comes after the apex court came down heavily on the conduct of the Returning Officer Anil Masih
+
+Tue, 20 Feb 2024 09:18:01 +0530
+### [Why Alexei Navalny terrified Vladimir Putin to the core](https://www.firstpost.com/explainers/why-alexei-navalny-terrified-vladimir-putin-to-the-core-13739512.html)
+
+Article found but Couldn't summarize 
+Alexei Navalny was a giant figure in Russian politics. What made Navalny so important was his decision to become an anti-corruption crusader in 2008
+
 Tue, 20 Feb 2024 05:00:41 +0530
 ### [FirstUp: Kashmir's first electric train, UNSC vote on Gaza ceasefire & more](https://www.firstpost.com/explainers/firstup-kashmirs-first-electric-train-unsc-vote-on-gaza-ceasefire-more-13739456.html)
 

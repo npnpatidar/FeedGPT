@@ -1,3 +1,15 @@
+Wed, 21 Feb 2024 00:20:00 +0530
+### [Calm assessment: On the extent of ‘deemed forest’](https://www.thehindu.com/opinion/editorial/calm-assessment-on-the-extent-of-deemed-forest/article67867565.ece)
+
+Article found but Couldn't summarize 
+Clarity on the nature and extent of ‘deemed forest’ is essential
+
+Wed, 21 Feb 2024 00:10:00 +0530
+### [Keep it wholesome: On shaping a national cervical cancer control programme](https://www.thehindu.com/opinion/editorial/keep-it-wholesome-on-shaping-a-national-cervical-cancer-control-programme/article67867594.ece)
+
+Article found but Couldn't summarize 
+A national cervical cancer control programme should be made accessible to all
+
 Tue, 20 Feb 2024 00:30:00 +0530
 ### [Combat mode: On the BJP and the general election 2024 campaign](https://www.thehindu.com/opinion/editorial/combat-mode-the-hindu-editorial-on-the-bjp-and-the-general-election-2024-campaign/article67864145.ece)
 

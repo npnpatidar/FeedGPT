@@ -1,3 +1,48 @@
+Tue, 20 Feb 2024 14:09:29 +0000
+### [Russia captures Avdiivka: What this means for Ukraine, the war, and Europe](https://indianexpress.com/article/explained/explained-global/russia-captures-avdiivka-what-this-means-for-ukraine-the-war-and-europe-9171658/)
+
+Summary: Russia celebrates a significant victory by capturing the strategic town of Avdiivka in Ukraine, a major resistance stronghold near Donetsk. This victory opens doors for further Russian advancement and poses challenges for Ukrainian forces. The fall of Avdiivka exposes Ukraine's shortage of arms and ammunition, affecting their ability to defend against the overpowering Russian military. Western aid delays, specifically a stalled $60 billion package in the US House of Representatives, exacerbate Ukraine's vulnerabilities. The fall of Avdiivka raises concerns in Europe about increasing defense spending amid Russia's assertiveness, emphasizing the shifting security landscape and the need for greater self-reliance.
+
+Tue, 20 Feb 2024 13:52:10 +0000
+### [What is Article 142, invoked by SC to overturn Chandigarh mayoral poll results?](https://indianexpress.com/article/explained/explained-law/what-is-article-142-chandigarh-mayoral-poll-results-9171621/)
+
+The Supreme Court recently overturned the results of the Chandigarh Municipal Corporation's mayoral elections using its extraordinary powers under Article 142 of the Constitution. This article delves into the history and scope of Article 142, highlighting its unique ability to deliver complete justice even in situations where existing laws may not provide a remedy. The court's rulings in various cases, such as the Bhopal gas tragedy case, have shaped the understanding and application of Article 142. Criticism surrounding the broad and potentially arbitrary nature of these powers is addressed, emphasizing the need for self-regulation to prevent misuse. The article also discusses the judiciary's accountability and the importance of the separation of powers. Despite these criticisms, the Drafting Committee of the Indian Constitution limited the use of Article 142 to exceptional circumstances where existing laws fall short. Additionally, the Supreme Court has set limits on its own exercise of power under Article 142 to ensure justice according to law rather than sympathy or illegality.
+
+Tue, 20 Feb 2024 13:21:47 +0000
+### [SC directs govts to follow ‘broad’ definiton of forests: How they are defined, what law says on conservation](https://indianexpress.com/article/explained/supreme-court-forests-definition-conservation-9171444/)
+
+The Supreme Court has instructed governments to adhere to the expansive definition of forests from its 1996 T N Godavarman case until a consolidated record of all types of forests in India is compiled. The court recently ruled that the 2023 amendments to the Forest (Conservation) Act, 1980, had weakened the Act by narrowing its scope. The government's amendments aimed to specifically identify forests as per government records, which was a response to perceived expansion of the Act's applicability. The court emphasized that the Act would apply to all lands identified as forests or resembling the dictionary meaning of forests. Future decisions will be based on the progress of expert committees identifying protected forest areas. The matter is set for final hearing in July.
+
+Tue, 20 Feb 2024 10:42:06 +0000
+### [What are Money Bills and why are they the subject of a constitutional challenge?](https://indianexpress.com/article/explained/explained-law/money-bills-supreme-court-criteria-electoral-bonds-9171044/)
+
+The article discusses the ongoing legal debate before the Supreme Court regarding what constitutes a money Bill. This debate is crucial as money Bills offer a faster route for enacting laws by Parliament and involve specific conditions related to financial matters. Recent challenges have questioned the validity of passing certain Acts, like the Aadhaar Act and the Finance Act, through the money Bill route. Justices have expressed differing opinions on the constitutionality of these Acts as money Bills, highlighting the importance of clarifying this issue. The pending decision by a seven-judge bench will likely impact future legal challenges against Acts passed through the money Bill route, such as the Prevention of Money Laundering Act and the Aadhaar Act.
+
+Tue, 20 Feb 2024 08:54:31 +0000
+### [Tatas, Tower apply to set up chip foundries in India: Will the country finally get a semiconductor manufacturing plant?](https://indianexpress.com/article/explained/explained-economics/tatas-tower-chip-foundries-india-semiconductor-9170790/)
+
+Fresh proposals from the Tata Group and Tower Semiconductor have reignited hopes for the establishment of a semiconductor fabrication plant in India. If approved, these initiatives could mark a significant milestone in India's efforts to enter the semiconductor manufacturing space. The country's incentive scheme aims to attract chipmakers, offering subsidies and support for foundries, packaging plants, and assembly/testing projects. Various proposals are on the table, including investments totaling $22 billion. India's focus on semiconductor manufacturing aligns with Prime Minister Narendra Modi's vision to bolster domestic electronics production and reduce dependence on imports, particularly from China.
+
+Tue, 20 Feb 2024 07:32:34 +0000
+### [Why Canada’s Opposition leader demanded to know ‘WTF!’ in the country’s Parliament](https://indianexpress.com/article/explained/explained-global/canada-poilievre-justin-trudeau-arrivecan-wtf-9170678/)
+
+Canada's Leader of Opposition, Pierre Poilievre, highlighted in Parliament that the Canadian government paid $258 million over several years to a small company involved in creating an app for safe travel during the Covid-19 pandemic. The company, GC Strategies, received numerous contracts without competitive bidding, leading to concerns of financial mismanagement. The Auditor General's report revealed that the Canada Border Services Agency and other government bodies failed to follow good management practices in the app's development and contracting process. Prime Minister Justin Trudeau's government has responded by suspending contracts with GC Strategies and pledging cooperation with investigations. The scandal has compounded Trudeau's political challenges leading up to the 2025 general elections, with the Opposition linking the financial irregularities to the country's growing cost of living crisis and declining support for liberal immigration policies.
+
+Tue, 20 Feb 2024 07:05:45 +0000
+### [Yale apologises for role in slavery: How the slave trade in India helped establish the University](https://indianexpress.com/article/explained/explained-history/yale-university-apology-slavery-founder-india-9170590/)
+
+Yale University recently issued a formal apology for its historical association with slavery, as detailed in the book "Yale and Slavery: A History." The book sheds light on Elihu Yale, the university's namesake, who accumulated wealth in India through activities including the slave trade. During Elihu Yale's time in India, he engaged in the sale and purchase of enslaved individuals, contributing to his fortune. Additionally, the article discusses Yale's return to England, where he became a prominent benefactor to what would later become Yale College.
+
+Tue, 20 Feb 2024 01:55:08 +0000
+### [Situation report in pulses, cotton: The crops in Centre’s MSP proposal to protesting farmers](https://indianexpress.com/article/explained/explained-economics/situation-report-in-pulses-cotton-crops-in-centres-msp-proposal-to-farmers-9170063/)
+
+During recent talks, the Indian government proposed crop diversification in Punjab, suggesting cooperatives to procure five crops at MSP. The farmers demand guaranteed MSP for all crops nationwide and rejected the proposal. Punjab's heavy focus on water-intensive paddy cultivation has led to groundwater depletion. Despite efforts to diversify crops, cotton and maize cultivation areas have decreased, while pulses' area has risen. India aims for self-sufficiency in pulses by 2027 through MSP incentives and procurement schemes. Punjab contributes minimally to CCI's cotton procurement. NAFED procured significant quantities of pulses under PSS and PSF, but concerns exist regarding their disposal below MSP.
+
+Tue, 20 Feb 2024 01:34:06 +0000
+### [La Nina impacted air quality in India in the winter of 2022: What a new study says](https://indianexpress.com/article/explained/explained-climate/la-nina-impacted-air-quality-in-india-what-a-new-study-says-9170062/)
+
+A recent study by Indian researchers from the National Institute of Advanced Studies and the Indian Institute of Tropical Meteorology has linked air quality in Indian cities to La Nina events. In the winter of 2022, northern cities like Delhi experienced cleaner air due to a deviation from normal wind patterns, while western and southern cities like Mumbai, Bengaluru, and Chennai saw worse air quality. The change in wind direction transported pollutants from agricultural waste burning in Punjab and Haryana to southern regions, impacting cities like Mumbai. The study suggests that the extended La Nina event lasting three years influenced these anomalous wind patterns, highlighting the potential impact of La Nina on air quality trends in India.
+
 Mon, 19 Feb 2024 15:15:15 +0000
 ### [Why Bombay HC termed arrest of Chanda Kochhar and husband ‘abuse of power’](https://indianexpress.com/article/explained/explained-law/why-hc-termed-arrest-of-chanda-kochhar-and-husband-abuse-of-power-9169816/)
 

@@ -1,3 +1,21 @@
+Tue, 20 Feb 2024 22:28:14 +0530
+### [Why are farmers protesting again? | Explained](https://www.thehindu.com/news/national/why-are-farmers-protesting-again-explained/article67868515.ece)
+
+Article found but Couldn't summarize 
+What is the primary demand of the farmers who are currently camped out near different locations on the Haryana border? Why have meetings with the Union government failed? What is the government’s stance with respect to purchasing crops at Minimum Support Price?
+
+Tue, 20 Feb 2024 16:38:18 +0530
+### [Crisis for Hungary’s Viktor Orban as President and Minister resign | Explained](https://www.thehindu.com/news/international/crisis-for-hungarys-viktor-orban-as-president-and-minister-resign-explained/article67854930.ece)
+
+Article found but Couldn't summarize 
+Ahead of the European Parliamentary elections, Hungarian Prime Minister Viktor Orban faces his toughest political crisis following the resignation of President Katalin Novak and former Justice Minister Judit Varga. Here’s a look at why these happened and their implications
+
+Tue, 20 Feb 2024 10:30:00 +0530
+### [Why was there a political deadlock in Northern Ireland? | Explained](https://www.thehindu.com/news/international/why-was-there-a-political-deadlock-in-northern-ireland-explained/article67864692.ece)
+
+Article found but Couldn't summarize 
+What made the Democratic Unionist Party rejoin the Stormont Assembly?
+
 Mon, 19 Feb 2024 22:23:04 +0530
 ### [What did the Parliamentary Committee recommend with respect to local fintech players ? | Explained](https://www.thehindu.com/business/Industry/what-did-the-parliamentary-committee-recommend-with-respect-to-local-fintech-players-explained/article67864664.ece)
 

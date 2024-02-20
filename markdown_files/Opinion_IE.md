@@ -1,3 +1,48 @@
+Tue, 20 Feb 2024 14:15:11 +0000
+### [Supreme Court’s message on Chandigarh mayoral polls: You can’t game democracy](https://indianexpress.com/article/opinion/columns/supreme-courts-chandigarh-mayoral-polls-democracy-9171657/)
+
+Article found but Couldn't summarize
+
+Tue, 20 Feb 2024 13:09:01 +0000
+### [Why are Indians falling ill so frequently?](https://indianexpress.com/article/opinion/columns/why-are-indians-falling-ill-so-frequently-9171543/)
+
+Article found but Couldn't summarize
+
+Tue, 20 Feb 2024 08:43:07 +0000
+### [The colonial hangover in India’s judiciary: How to make the most of the trial courts and their judges](https://indianexpress.com/article/opinion/columns/the-colonial-hangover-in-indian-judiciary-9170830/)
+
+Article found but Couldn't summarize
+
+Tue, 20 Feb 2024 02:30:12 +0000
+### [Next step for farmers: Fruits and vegetables can be a gamechanger](https://indianexpress.com/article/opinion/columns/farmers-protest-msp-gaurantee-vegetable-production-fv-per-capita-consumption-9169955/)
+
+Article found but Couldn't summarize
+
+Tue, 20 Feb 2024 02:15:34 +0000
+### [Inflation is under control. What’s next?](https://indianexpress.com/article/opinion/columns/rbi-monetary-policy-inflation-cpi-wpi-russia-ukraine-war-9169962/)
+
+Article found but Couldn't summarize
+
+Tue, 20 Feb 2024 01:50:54 +0000
+### [Express View on Israel’s war in Gaza: Cease fire](https://indianexpress.com/article/opinion/editorials/express-view-on-israels-war-in-gaza-cease-fire-9170004/)
+
+Article found but Couldn't summarize
+
+Tue, 20 Feb 2024 01:45:00 +0000
+### [Express View on farmers-Centre talks: Keep the door open](https://indianexpress.com/article/opinion/editorials/msp-crop-cultivation-water-consuming-crops-paddy-wheat-sugarcane-9169988/)
+
+Article found but Couldn't summarize
+
+Tue, 20 Feb 2024 01:35:55 +0000
+### [Express View on Alexei Navalny: A Russian tragedy](https://indianexpress.com/article/opinion/editorials/2022-oscar-winning-documentary-alexei-navalnys-death-putin-russian-tragedy-9169991/)
+
+Article found but Couldn't summarize
+
+Tue, 20 Feb 2024 01:30:45 +0000
+### [February 20, Forty Years Ago: Punjab Protest](https://indianexpress.com/article/opinion/40-years-ago/february-20-forty-years-ago-punjab-protest-9169964/)
+
+Article found but Couldn't summarize
+
 Mon, 19 Feb 2024 12:22:11 +0000
 ### [C Raja Mohan writes: The rise of ‘intelligence diplomacy’ in a time of global security challenges](https://indianexpress.com/article/opinion/columns/intelligence-diplomacy-india-global-security-maritime-raisina-dialogue-9169519/)
 
@@ -390,6 +435,11 @@ Article found but Couldn't summarize
 
 Sun, 11 Feb 2024 08:05:04 +0000
 ### [How coaching culture lets children down](https://indianexpress.com/article/opinion/how-coaching-culture-lets-children-down-9155711/)
+
+Article found but Couldn't summarize
+
+Sun, 11 Feb 2024 08:04:47 +0000
+### [Uttarakhand UCC pits vulnerable young couples against the might of the state](https://indianexpress.com/article/opinion/columns/uttarakhand-ucc-vulnerable-young-couples-state-9155651/)
 
 Article found but Couldn't summarize
 
