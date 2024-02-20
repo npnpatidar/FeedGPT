@@ -1,3 +1,9 @@
+Tue, 20 Feb 2024 05:00:41 +0530
+### [FirstUp: Kashmir's first electric train, UNSC vote on Gaza ceasefire & more](https://www.firstpost.com/explainers/firstup-kashmirs-first-electric-train-unsc-vote-on-gaza-ceasefire-more-13739456.html)
+
+Article found but Couldn't summarize 
+PM Modi will launch Kashmir’s first electric train in J&amp;K. Home Minister Amit Shah will attend an election management meeting in Rajasthan. Then there is a special Maharashtra legislature session on the Maratha reservation. On the international front, the UNSC will likely vote on a resolution demanding an immediate ceasefire in Gaza
+
 Mon, 19 Feb 2024 19:52:14 +0530
 ### [Ashwin Ramaswami: Meet the Gen Z running for Georgia senate](https://www.firstpost.com/explainers/ashwin-ramaswami-meet-the-gen-z-running-for-georgia-senate-13739530.html)
 
