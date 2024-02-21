@@ -1,3 +1,9 @@
+Wed, 21 Feb 2024 05:00:10 +0530
+### [FirstUp: Delhi Chalo march resumes, Greek PM in India... today's big stories](https://www.firstpost.com/explainers/firstup-delhi-chalo-march-resumes-greek-pm-in-india-todays-big-stories-13739974.html)
+
+Article found but Couldn't summarize 
+The Delhi Chalo march is set to resume today after farmers’ groups rejected the government’s proposal on Monday. Greek’s prime minister Kyriakos Mitsotakis will begin his two-day visit to India where he will be the keynote speaker at the 9th Raisina Dialogue. Here's a round-up of today's big news
+
 Tue, 20 Feb 2024 20:42:30 +0530
 ### [What the Vatican's secret keeper wants you to know before he retires](https://www.firstpost.com/explainers/what-the-vaticans-secret-keeper-wants-you-to-know-before-he-retires-13739939.html)
 
@@ -218,6 +224,11 @@ Sat, 17 Feb 2024 17:55:13 +0530
 ### [Another jolt for Congress? Are Kamal Nath and his son, Nakul, leaving the party?](http://www.firstpost.com/politics/congress-kamal-nath-son-nakul-leaving-bjp-lok-sabha-polls-13738522.html)
 
 Former Madhya Pradesh CM Kamal Nath and his son, Nakul, are rumored to potentially leave the Congress, sparking speculation about their political future. While both have not confirmed reports, recent events hint at a possible departure. The BJP has been suggested as a potential destination. However, the Congress has dismissed these rumors, emphasizing Nath's longstanding association with the party. Speculations intensified after Nath's son, Nakul, made statements seemingly distancing himself from the Congress. This comes amidst a trend of high-profile exits from the Congress in recent years. The situation remains fluid as Kamal Nath is expected to meet with BJP leadership, but his final decision remains unknown.
+
+Sat, 17 Feb 2024 17:55:13 +0530
+### [Another jolt for Congress? Are Kamal Nath and his son, Nakul, leaving the party?](https://www.firstpost.com/explainers/congress-kamal-nath-son-nakul-leaving-bjp-lok-sabha-polls-13738522.html)
+
+Rumors abound that former Madhya Pradesh CM Kamal Nath and his son Nakul may exit the Congress, potentially joining the BJP. Speculations heightened as senior leaders reportedly hinted at dissatisfaction within the party. Although neither Nath nor his son have officially confirmed their departure, recent political movements suggest a significant setback for the Congress just months prior to the Lok Sabha elections. Despite Congress dismissing these rumors, reports indicate possible discussions with the BJP's leadership. Numerous high-profile leaders have recently parted ways with the Congress, hinting at a changing political landscape.
 
 Sat, 17 Feb 2024 15:18:10 +0530
 ### [Alexei Navalny & more: Long list of Putin’s critics meeting a mysterious end](http://www.firstpost.com/world/alexei-navalny-death-long-list-of-vladimir-putins-critics-meeting-a-mysterious-end-13738102.html)
@@ -1250,11 +1261,21 @@ Mon, 12 Feb 2024 14:29:08 +0530
 Article found but Couldn't summarize 
 Qatar has released eight jailed Indian Navy veterans nearly three-and-a-half months after they were handed down death sentences in a case of suspected espionage. Family members were not aware of their release until the Indian government notified them after they boarded their flights late Sunday
 
+Mon, 12 Feb 2024 14:29:08 +0530
+### [How Indian Navy veterans, their families learnt about release from Qatar jail](https://www.firstpost.com/explainers/how-indian-navy-veterans-their-families-learned-about-release-from-qatar-jail-13716312.html)
+
+Qatar has released eight jailed Indian Navy veterans after they were given death sentences for suspected espionage. The Ministry of External Affairs confirmed seven have returned to India, appreciating Emir Sheikh Tamim bin Hamad Al Thani's decision. Family members were unaware until the Indian government notified them after the veterans boarded late Sunday flights. The veterans, working for Dahra Global, can now live freely in India. One veteran is completing paperwork and will return soon. The veterans' release came as a surprise to them, with jailors telling them to pack before moving them to the airport. The Indian nationals faced accusations of spying for Israel. The MEA pledged diplomatic support, leading to the commutation of their death sentences. Upon their return to Delhi, the veterans expressed gratitude to PM Modi for his intervention in securing their release.
+
 Mon, 12 Feb 2024 13:07:26 +0530
 ### [Why is Israel planning a ground invasion of Rafah? Why is this concerning?](http://www.firstpost.com/world/why-is-israel-planning-a-ground-invasion-of-rafah-why-is-this-concerning-13716362.html)
 
 Article found but Couldn't summarize 
 Israel has announced its military will soon launch a ground offensive in Rafah in Gaza. The town currently houses more than one million Palestinians, who have nowhere else to go. The plan has come under fire from countries, with the US and Egypt saying it will have ‘disastrous consequences’
+
+Mon, 12 Feb 2024 13:07:26 +0530
+### [Why is Israel planning a ground invasion of Rafah? Why is this concerning?](https://www.firstpost.com/explainers/why-is-israel-planning-a-ground-invasion-of-rafah-why-is-this-concerning-13716362.html)
+
+Israel plans to launch a ground offensive in Rafah, Gaza, amid the ongoing Israel-Hamas conflict. Rafah, housing over a million Palestinians, is considered the "last bastion" of Hamas. Concerns over the dire humanitarian situation in Rafah have been raised by countries like the US and Egypt, warning of disastrous consequences. Israel's move to invade Rafah has received criticism from allies and other nations, with concerns about civilian safety and exacerbating the already dire conditions. Despite opposition, Israel is proceeding with its plan, with airstrikes already causing casualties. The future of Rafah remains uncertain as tensions escalate.
 
 Mon, 12 Feb 2024 12:16:16 +0530
 ### ['Delhi Chalo': Why farmers from Haryana, Punjab, Uttar Pradesh are protesting again](http://www.firstpost.com/explainers/delhi-chalo-why-farmers-from-haryana-punjab-uttar-pradesh-are-protesting-again-13716102.html)
@@ -1267,6 +1288,11 @@ Mon, 12 Feb 2024 12:01:17 +0530
 
 Article found but Couldn't summarize 
 The results in Pakistan’s disputed elections show that no political party has won a majority. Imran Khan-backed independents came first, but it is unlikely that they will form a government. What happens next? Will Nawaz Sharif return as prime minister?
+
+Mon, 12 Feb 2024 12:01:17 +0530
+### [Imran Khan-backed independents come first in Pakistan. What happens next?](https://www.firstpost.com/explainers/imran-khan-backed-independents-came-first-in-pakistan-heres-why-they-might-not-come-to-power-13715942.html)
+
+Following Pakistan's recent elections, no political party has secured a majority. Imran Khan-supported independents gained the most seats, but forming a government seems unlikely. Former prime ministers Nawaz Sharif and Imran Khan both declared victory, but the path to power remains uncertain. Independent candidates, backed by Khan's PTI, secured the most seats, complicating the situation. Speculation suggests that a coalition between Nawaz Sharif's PML-N and Bhutto's PPP may emerge, potentially returning Nawaz Sharif to the prime minister's seat. However, with no clear majority, alliances are crucial. The military's stance and potential involvement add an additional layer of complexity to the political landscape.
 
 Mon, 12 Feb 2024 09:53:27 +0530
 ### [Qatar frees eight jailed Navy veterans: How India pulled off this move](http://www.firstpost.com/explainers/qatar-frees-eight-jailed-navy-veterans-how-india-pulled-off-this-move-13715052.html)
@@ -1298,6 +1324,11 @@ Sun, 11 Feb 2024 10:11:06 +0530
 Article found but Couldn't summarize 
 Uncertainty has taken over Pakistan as no political party has reached the majority mark, opening the possibility of a coalition government. Nawaz Sharif’s PML-N and Bilawal Bhutto Zardari’s PPP have gone in a huddle. We bring you this and much more from across the globe in our weekly roundup
 
+Sun, 11 Feb 2024 10:11:06 +0530
+### [This Week in Explainers: Will Pakistan see a PML-PPP coalition government?](https://www.firstpost.com/explainers/this-week-in-explainers-will-pakistan-see-a-pml-ppp-coalition-government-13710112.html)
+
+The article discusses recent events globally from Pakistan's uncertain political landscape to King Charles's cancer diagnosis to developments in Australia, Singapore, and El Salvador. In Pakistan, no party secured a majority, potentially leading to a coalition government. King Charles's health issue raised concerns, while Australia passed a "right to disconnect" bill, and Singapore's DBS Group reduced its CEO's pay. Additionally, Nayib Bukele claimed victory in El Salvador's elections, and Miss Japan faced controversy. The article provides insights into these significant events.
+
 Sat, 10 Feb 2024 18:40:48 +0530
 ### [Pakistan poll results: How the country elected a parliament of ‘Independents’ in 1985](http://www.firstpost.com/explainers/pakistan-poll-results-how-the-country-elected-a-parliament-of-independents-in-1985-13712622.html)
 
@@ -1316,11 +1347,21 @@ Sat, 10 Feb 2024 14:56:27 +0530
 Article found but Couldn't summarize 
 Independents backed by ex-PM Imran Khan’s Pakistan Tehreek-e-Insaf are leading the Pakistan election race. Analysts say the former cricket hero’s multiple sentences, the country’s soaring inflation and anger with the military’s influence in politics could have driven PTI's young voters to ballots
 
+Sat, 10 Feb 2024 14:56:27 +0530
+### [Pakistan election results: Why young voters continue to support Imran Khan’s PTI](https://www.firstpost.com/explainers/pakistan-election-results-why-young-voters-continue-to-support-imran-khans-pti-13711912.html)
+
+Independent candidates supported by former Prime Minister Imran Khan's Pakistan Tehreek-e-Insaf (PTI) have taken the lead in the Pakistan election race. These individuals have secured 92 out of 253 counted National Assembly seats, with the majority mark set at 133 seats. Imran Khan's popularity, especially among the youth, has been a critical factor in this surprising election outcome. Despite facing challenges like being barred from using the party symbol, PTI-backed candidates have resonated with voters, with young people viewing Khan as a symbol of change and a departure from traditional ruling elites. Analysts suggest that factors like frustration with inflation, prison sentences against PTI leaders, and concerns about military involvement in politics influenced Khan's supporters to turn out in large numbers for the elections.
+
 Sat, 10 Feb 2024 12:24:08 +0530
 ### [Pakistan election results 2024: What’s next for PML-N, PPP and PTI?](http://www.firstpost.com/world/pakistan-election-results-2024-whats-next-for-pml-n-ppp-and-pti-13711422.html)
 
 Article found but Couldn't summarize 
 Pakistan is likely to see a coalition government again as no party has touched the majority mark of 133. Nawaz Sharif’s PML-N has begun talks with his rival Bilawal Bhutto Zardari’s PPP to forge an alliance. Here’s what Independents backed by jailed former PM Imran Khan’s PTI party could do
+
+Sat, 10 Feb 2024 12:24:08 +0530
+### [Pakistan election results 2024: What’s next for PML-N, PPP and PTI?](https://www.firstpost.com/explainers/pakistan-election-results-2024-whats-next-for-pml-n-ppp-and-pti-13711422.html)
+
+Pakistan is likely to have a coalition government as no party secured a majority in the recent general elections. Talks have begun between various parties, with Nawaz Sharif's PML-N initiating discussions with Bilawal Bhutto Zardari's PPP. Imran Khan's PTI-backed independents hold a significant number of seats, but forming a government may require merging with a party due to election regulations. The political landscape remains divided, and potential alliances are being explored to achieve political and economic stability. The outcome of these negotiations will determine the shape of the future government in Pakistan.
 
 Sat, 10 Feb 2024 09:49:31 +0530
 ### [This Week in Explainers: What Uttarakhand’s Uniform Civil Code means for live-in couples](http://www.firstpost.com/india/this-week-in-explainers-what-uttarakhands-uniform-civil-code-means-for-those-in-live-in-relationships-13709392.html)
@@ -1405,6 +1446,11 @@ Fri, 9 Feb 2024 15:32:46 +0530
 Article found but Couldn't summarize 
 Pakistan will get a new prime minister soon. As votes are being counted, let’s take a look at how no premier in the country’s history has ever been able to complete a full tenure. Will it be different this time?
 
+Fri, 9 Feb 2024 15:32:46 +0530
+### [Pakistan election results 2024: How no PM has ever completed a full term](https://www.firstpost.com/explainers/pakistan-election-results-2024-how-no-pm-has-ever-completed-a-full-term-13708232.html)
+
+Pakistan is on the brink of having a new prime minister following the counting of votes in the recent elections. Historically, no premier in the country has managed to complete a full term. As the results are awaited, notable past prime ministers and their relatively short tenures are highlighted, shedding light on the challenges faced by leaders in Pakistan. The article provides an overview of the political landscape in Pakistan and the struggles faced by past prime ministers, raising the question of whether the incoming prime minister will be able to break the cycle of truncated terms.
+
 Fri, 9 Feb 2024 14:46:31 +0530
 ### [Why Mount Everest climbers will have to carry their poop to base camp](http://www.firstpost.com/explainers/why-mount-everest-climbers-will-have-to-carry-their-poop-to-base-camp-13707582.html)
 
@@ -1435,6 +1481,11 @@ Fri, 9 Feb 2024 09:49:19 +0530
 Article found but Couldn't summarize 
 Four people have died and another 250 have been hurt in Uttarakhand’s Haldwani after a mob went on a rampage following the demolition of an illegal madrasa and adjoining mosque in the area. The violence has prompted the administration to impose a curfew and issue shoot-at-sight orders for rioters
 
+Fri, 9 Feb 2024 09:49:19 +0530
+### [4 dead, curfew imposed: What caused mass violence in Uttarakhand’s Haldwani?](https://www.firstpost.com/explainers/4-dead-250-hurt-curfew-imposed-what-caused-mass-violence-in-uttarakhands-haldwani-13706672.html)
+
+In Uttarakhand's Haldwani, a violent incident occurred after the demolition of an illegal madrasa and mosque. Four people died, and over 250 were injured, prompting a curfew, shoot-at-sight orders, and internet shutdown. The violence erupted during the demolition, with locals resisting and later attacking authorities. Officials stated the demolitions were per court orders. Extensive damage occurred, leading to a curfew and heightened security measures in the area. The administration aims to identify culprits with videographic evidence and ensure compensation for losses incurred.
+
 Fri, 9 Feb 2024 05:00:05 +0530
 ### [FirstUp: Biden to host Germany's Scholz, Pakistan poll results... Top news today](http://www.firstpost.com/explainers/firstup-biden-to-host-germanys-scholz-pakistan-elections-results-top-news-today-13705682.html)
 
@@ -1452,6 +1503,11 @@ Thu, 8 Feb 2024 21:04:12 +0530
 
 Article found but Couldn't summarize 
 Pakistan election results will be out in a few hours. Voting on Thursday was tainted by allegations of vote rigging and sporadic incidents of violence that killed at least nine people. The suspension of mobile services also prompted Opposition's criticism, who questioned the fairness of the polling
+
+Thu, 8 Feb 2024 21:04:12 +0530
+### [Pakistan Election 2024: How violence, rigging allegations marred polling](https://www.firstpost.com/explainers/pakistan-election-2024-how-violence-rigging-allegations-marred-polling-13706212.html)
+
+The article discusses the Pakistan election, where voting was marred by allegations of rigging and violence, resulting in at least nine deaths. Mobile services were suspended, prompting criticism from the Opposition. The elections took place for the National Assembly and provincial legislatures, with results expected by early Friday. Various incidents of violence, including grenade attacks and killings, were reported. There were complaints of rigging, with concerns raised about the fairness of the polling process. Notably, pre-poll rigging allegations were made, and issues with mobile service shutdown raised concerns about election transparency. Political parties accused each other of rigging, further complicating the electoral process.
 
 Thu, 8 Feb 2024 20:27:04 +0530
 ### ['Crisis situation': The biggest takeaways from Centre's White Paper on UPA rule](http://www.firstpost.com/explainers/crisis-situation-the-biggest-takeaways-from-centres-white-paper-on-upa-rule-13705832.html)
@@ -1582,6 +1638,11 @@ Wed, 7 Feb 2024 20:13:55 +0530
 Article found but Couldn't summarize 
 After recording 10,000 dengue cases, health officials in the Brazilian city of Rio de Janeiro have declared a public health emergency. This comes just days before the ‘world’s largest party’ — the Carnival — is set to begin, raising concerns among the public
 
+Wed, 7 Feb 2024 20:13:55 +0530
+### [How rising dengue cases could play party pooper at Rio Carnival](https://www.firstpost.com/explainers/how-rising-dengue-cases-could-play-party-pooper-at-rio-carnival-13700702.html)
+
+Health officials in Rio de Janeiro have declared a public health emergency due to a surge in dengue fever cases, with 10,000 cases recorded. This announcement precedes the upcoming Rio Carnival, prompting concerns as the event draws international tourists. Authorities are implementing measures such as opening treatment centers and distributing repellents to control the situation. The rise in dengue cases poses a threat to Brazil's economy, as the Carnival plays a significant role in boosting tourism and creating temporary jobs. The country as a whole is grappling with a rapid increase in dengue cases, with other states also declaring public health emergencies.
+
 Wed, 7 Feb 2024 18:47:35 +0530
 ### [Why Russia's economy is doing well despite Ukraine war and Western sanctions](http://www.firstpost.com/explainers/why-russias-economy-is-doing-well-despite-ukraine-war-and-western-sanctions-13701692.html)
 
@@ -1606,6 +1667,12 @@ Wed, 7 Feb 2024 17:23:14 +0530
 Article found but Couldn't summarize 
 King Charles III has announced he will step back from public appearances while being treated for cancer. This has prompted many to think aloud about the British royal line of succession and who will inherit the throne
 
+Wed, 7 Feb 2024 17:23:14 +0530
+### [In Graphics | Who will take over the British throne after King Charles?](https://www.firstpost.com/explainers/in-graphics-who-will-take-over-the-british-throne-after-king-charles-13701032.html)
+
+Article found but Couldn't summarize 
+King Charles III has announced he will step back from public appearances while being treated for cancer. This has prompted many to think aloud about the British royal line of succession and who will inherit the throne
+
 Wed, 7 Feb 2024 15:51:49 +0530
 ### [Election or Selection? How Pakistan army continues to wield influence over politics](http://www.firstpost.com/explainers/election-or-selection-how-pakistan-army-continues-to-wield-influence-over-politics-13699842.html)
 
@@ -1623,6 +1690,11 @@ Wed, 7 Feb 2024 13:51:45 +0530
 
 Article found but Couldn't summarize 
 The Election Commission has recognised Ajit Pawar-led faction as the real Nationalist Congress Party, allotting it the party’s ‘clock’ symbol. The Sharad Pawar camp has to now decide a new name and symbol for their party
+
+Wed, 7 Feb 2024 13:51:45 +0530
+### [What comes next for Sharad Pawar after losing NCP's name, symbol to Ajit Pawar?](https://www.firstpost.com/explainers/ncp-name-symbol-maharashtra-what-next-for-sharad-pawar-eci-ruling-ajit-pawar-13699572.html)
+
+The Election Commission recognized the Ajit Pawar-led faction as the official Nationalist Congress Party, granting them the party's 'clock' symbol. The Sharad Pawar camp now needs to choose a new name and symbol for their party before the upcoming Rajya Sabha elections. Sharad Pawar's camp plans to challenge the decision in the Supreme Court. They also need to submit new party name choices by a specific deadline. The Ajit Pawar camp welcomed the decision, emphasizing the importance of democratic majority. The Sharad Pawar faction views the ruling as an attack on democracy and plans to fight back.
 
 Wed, 7 Feb 2024 13:10:15 +0530
 ### [Donald Trump denied presidential immunity in 2020 election case: Does this hurt his 2024 chances?](http://www.firstpost.com/explainers/donald-trump-denied-presidential-immunity-in-2020-election-case-does-this-hurt-his-2024-chances-13699292.html)
