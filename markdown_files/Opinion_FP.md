@@ -1,3 +1,63 @@
+Wed, 21 Feb 2024 19:54:16 +0530
+### [Vantage | Has Russia changed the tide of its war with Ukraine?](https://www.firstpost.com/opinion/russia-ukraine-war-avdiivka-donetsk-volodymyr-zelensky-vladimir-putin-13740413.html)
+
+Article found but Couldn't summarize 
+The prolonged siege on Avdiivka culminated in its fall, underscoring the grim realities of war – a shortage of manpower and ammunition leading to a strategic retreat
+
+Wed, 21 Feb 2024 18:41:11 +0530
+### [Subnational diplomacy: India must borrow from Western playbook to fulfil its strategic goals](https://www.firstpost.com/opinion/scott-moe-saskatchewan-justin-trudeau-khalistan-hardeep-singh-nijjar-greg-abbott-gurpatwant-singh-pannun-13740395.html)
+
+Article found but Couldn't summarize 
+The meetings between Western provincial chiefs and Indian ministers are a good start
+
+Wed, 21 Feb 2024 18:09:23 +0530
+### [Vantage | Why war is hurting Israel's economy but helping Russia's](https://www.firstpost.com/opinion/vantage-why-war-is-hurting-israels-economy-but-helping-russias-13740370.html)
+
+Article found but Couldn't summarize 
+Despite the challenges, there is optimism for Israel's economic recovery
+
+Wed, 21 Feb 2024 17:01:00 +0530
+### [Vantage | Why China's patrolling in Taiwan waters has got more aggressive](https://www.firstpost.com/opinion/vantage-why-chinas-patrolling-in-taiwan-waters-has-got-more-aggressive-13740319.html)
+
+Article found but Couldn't summarize 
+As tensions continue to simmer, it is crucial for both sides to exercise restraint and seek diplomatic solutions to avoid a potentially disastrous conflict
+
+Wed, 21 Feb 2024 15:53:11 +0530
+### [Vantage | What Indian Army's move to 'combatise' its Central Command means](https://www.firstpost.com/opinion/vantage-what-indian-armys-move-to-combatise-its-central-command-means-13740302.html)
+
+Article found but Couldn't summarize 
+Despite efforts to maintain stability, the situation along the LAC remains sensitive, as evidenced by the recent deployment of significant military assets by both India and China
+
+Wed, 21 Feb 2024 14:32:45 +0530
+### [Can conservatist movements across continents synergise? BYJM-KAS India Dialogue strives to find an answer](https://www.firstpost.com/opinion/byjm-kas-india-dialogue-konrad-adenauer-foundation-indo-pacific-13740287.html)
+
+Article found but Couldn't summarize 
+There might be a pushback against globalisation but there’s no escaping the fact that we live in a globalised world
+
+Wed, 21 Feb 2024 14:12:21 +0530
+### [The Weather Report: Snowfall in India's Himalayan ridges; South India experiences summer](https://www.firstpost.com/opinion/synoptic-weather-update-and-all-india-forecast-20-25-february-2024-13740152.html)
+
+Article found but Couldn't summarize 
+Most parts of Tamil Nadu, Kerala, Karnataka, Telangana, Andhra Pradesh, Goa and Maharashtra, as well as Gujarat, will continue to experience rain-free weather for this week
+
+Wed, 21 Feb 2024 11:04:47 +0530
+### [Vantage | How Nigeria's 'extravagant' President and his family are hurting its economy](https://www.firstpost.com/opinion/vantage-how-nigerias-extravagant-president-and-his-family-are-hurting-its-economy-13740149.html)
+
+Article found but Couldn't summarize 
+From allegations of nepotism to personal enrichment scandals, his presidency has been marred by one controversy after another
+
+Wed, 21 Feb 2024 10:42:32 +0530
+### [MSP: A double-edged sword in Indian agriculture](https://www.firstpost.com/opinion/msp-a-double-edged-sword-in-indian-agriculture-13740139.html)
+
+Article found but Couldn't summarize 
+The favourite problem of the economist is food inflation, if the farmers are given a fair price then the food economy will experience hyperinflation
+
+Wed, 21 Feb 2024 09:57:20 +0530
+### [Sandeshkhali could be for Mamata Banerjee what Singur-Nandigram was for Left](https://www.firstpost.com/opinion/sandeshkhali-could-be-for-mamata-banerjee-what-singur-nandigram-was-for-left-13740076.html)
+
+Article found but Couldn't summarize 
+Mamata Banerjee will have to summon her best political instincts to salvage the situation
+
 Tue, 20 Feb 2024 20:21:23 +0530
 ### [Uniform Civil Code: Assam going Uttarakhand way?](https://www.firstpost.com/opinion/uniform-civil-code-assam-going-uttarakhand-way-13739855.html)
 
@@ -1270,6 +1330,12 @@ Tue, 30 Jan 2024 15:53:15 +0530
 Article found but Couldn't summarize 
 Continued support for the growth of digital credit products aimed at micro and small businesses is required
 
+Tue, 30 Jan 2024 15:53:15 +0530
+### [Union Budget: Empowering rural women and MSMEs for financial inclusion](https://www.firstpost.com/opinion/union-budget-empowering-rural-women-and-msmes-for-financial-inclusion-13670262.html)
+
+Article found but Couldn't summarize 
+Continued support for the growth of digital credit products aimed at micro and small businesses is required
+
 Tue, 30 Jan 2024 15:08:19 +0530
 ### [Union Budget: India needs to spend on Graphics Processing Units to compete in the AI world](http://www.firstpost.com/opinion/union-budget-why-india-needs-to-spend-on-graphics-processing-units-to-compete-in-the-ai-world-13669842.html)
 
@@ -1332,6 +1398,12 @@ The current relief from severe cold is temporary, as next week the weather condi
 
 Mon, 29 Jan 2024 12:30:21 +0530
 ### [Union Budget: Rural vs urban development considerations must for balanced growth](http://www.firstpost.com/business/union-budget-rural-vs-urban-development-considerations-must-for-balanced-growth-13664802.html)
+
+Article found but Couldn't summarize 
+Achieving balanced growth between rural and urban regions is vital for economic development
+
+Mon, 29 Jan 2024 12:30:21 +0530
+### [Union Budget: Rural vs urban development considerations must for balanced growth](https://www.firstpost.com/opinion/union-budget-rural-vs-urban-development-considerations-must-for-balanced-growth-13664802.html)
 
 Article found but Couldn't summarize 
 Achieving balanced growth between rural and urban regions is vital for economic development

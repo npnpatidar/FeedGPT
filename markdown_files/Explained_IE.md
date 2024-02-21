@@ -1,3 +1,28 @@
+Wed, 21 Feb 2024 16:04:41 +0000
+### [To bypass Red Sea, new trade route to Israel involving Mundra port: How this will work](https://indianexpress.com/article/explained/everyday-explainers/red-sea-new-trade-route-to-israel-via-mundra-9173917/)
+
+Article found but Couldn't summarize
+
+Wed, 21 Feb 2024 08:03:36 +0000
+### [Fali S Nariman passes away: 9 notable cases of the jurist](https://indianexpress.com/article/explained/explained-law/fali-s-nariman-passes-away-notable-cases-9172865/)
+
+Article found but Couldn't summarize
+
+Wed, 21 Feb 2024 04:27:42 +0000
+### [ExplainSpeaking: Beyond MSPs and protests, some basic facts about Indian farmers](https://indianexpress.com/article/explained/explained-economics/farmers-protest-msp-indian-agriculture-economics-explained-9172435/)
+
+Article found but Couldn't summarize
+
+Wed, 21 Feb 2024 02:30:07 +0000
+### [Raisina Dialogue begins today: Everything you need to know about the conference](https://indianexpress.com/article/explained/what-is-raisina-dialogue-9171750/)
+
+Article found but Couldn't summarize
+
+Wed, 21 Feb 2024 01:20:17 +0000
+### [Art 142, why SC quashed Chandigarh mayor’s election, and why it matters](https://indianexpress.com/article/explained/explained-law/art-142-why-sc-quashed-chandigarh-mayors-election-and-why-it-matters-9171963/)
+
+Article found but Couldn't summarize
+
 Tue, 20 Feb 2024 14:09:29 +0000
 ### [Russia captures Avdiivka: What this means for Ukraine, the war, and Europe](https://indianexpress.com/article/explained/explained-global/russia-captures-avdiivka-what-this-means-for-ukraine-the-war-and-europe-9171658/)
 

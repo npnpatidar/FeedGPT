@@ -1,3 +1,68 @@
+Wed, 21 Feb 2024 22:42:09 +0000
+### [Fali Nariman (1929-2024): Jurist & humanist secured many a verdict shaping modern India](https://indianexpress.com/article/opinion/fali-nariman-dies-1929-2024-jurist-humanist-secured-many-a-verdict-shaping-modern-india-9174223/)
+
+Article found but Couldn't summarize
+
+Wed, 21 Feb 2024 14:34:51 +0000
+### [Fali S Nariman beyond the courts — a parliamentarian par excellence](https://indianexpress.com/article/opinion/columns/fali-s-nariman-beyond-courts-parliamentarian-par-excellence-9173773/)
+
+Article found but Couldn't summarize
+
+Wed, 21 Feb 2024 13:09:50 +0000
+### [How to make MSP work](https://indianexpress.com/article/opinion/columns/how-to-make-msp-work-9173542/)
+
+Article found but Couldn't summarize
+
+Wed, 21 Feb 2024 13:00:03 +0000
+### [Fali S Nariman: From prime ministers to peons, everyone looked up to him](https://indianexpress.com/article/opinion/columns/fali-s-nariman-prime-ministers-to-peons-looked-up-to-him-9173371/)
+
+Article found but Couldn't summarize
+
+Wed, 21 Feb 2024 12:58:41 +0000
+### [What India can expect from Indonesia’s new government](https://indianexpress.com/article/opinion/columns/india-expectations-indonesia-new-government-9173437/)
+
+Article found but Couldn't summarize
+
+Wed, 21 Feb 2024 12:20:20 +0000
+### [Fali S Nariman: A champion of liberal democracy](https://indianexpress.com/article/opinion/columns/fali-s-nariman-champion-liberal-democracy-9173466/)
+
+Article found but Couldn't summarize
+
+Wed, 21 Feb 2024 02:40:31 +0000
+### [PM Narendra Modi writes on Sant Shiromani Acharya Vidhyasagar Maharaj: Loss of a guiding light](https://indianexpress.com/article/opinion/columns/pm-narendra-modi-writes-on-sant-shiromani-acharya-vidhyasagar-maharaj-loss-of-a-guiding-light-9171952/)
+
+Article found but Couldn't summarize
+
+Wed, 21 Feb 2024 02:30:35 +0000
+### [MSP is the minimum support farmers need to stay in business](https://indianexpress.com/article/opinion/columns/minimum-support-price-msp-crops-cost-of-production-9171935/)
+
+Article found but Couldn't summarize
+
+Wed, 21 Feb 2024 02:25:01 +0000
+### [The real reason middle class Indians can’t afford to buy homes — and how to make sure they can](https://indianexpress.com/article/opinion/columns/affordable-housing-pmay-middle-class-indians-budget-speech-housing-subsidies-9171973/)
+
+Article found but Couldn't summarize
+
+Wed, 21 Feb 2024 01:46:00 +0000
+### [Express View on the balance between environment and industry: Greening growth](https://indianexpress.com/article/opinion/editorials/express-view-on-the-balance-between-environment-and-industry-greening-growth-9171992/)
+
+Article found but Couldn't summarize
+
+Wed, 21 Feb 2024 01:35:24 +0000
+### [Express View on R Ashwin: The magician from Chennai](https://indianexpress.com/article/opinion/editorials/express-view-on-r-ashwin-the-magician-from-chennai-9172003/)
+
+Article found but Couldn't summarize
+
+Wed, 21 Feb 2024 01:30:41 +0000
+### [February 21, Forty Years Ago: PM Visits Nellie](https://indianexpress.com/article/opinion/40-years-ago/february-21-forty-years-ago-pm-visits-nellie-9171988/)
+
+Article found but Couldn't summarize
+
+Wed, 21 Feb 2024 01:25:37 +0000
+### [Express View on air pollution: El Nino, La Nina](https://indianexpress.com/article/opinion/editorials/express-view-on-air-pollution-el-nino-la-nina-9171993/)
+
+Article found but Couldn't summarize
+
 Tue, 20 Feb 2024 14:15:11 +0000
 ### [Supreme Court’s message on Chandigarh mayoral polls: You can’t game democracy](https://indianexpress.com/article/opinion/columns/supreme-courts-chandigarh-mayoral-polls-democracy-9171657/)
 

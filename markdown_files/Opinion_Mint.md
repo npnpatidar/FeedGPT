@@ -1,3 +1,57 @@
+Thu, 22 Feb 2024 00:55:34 +0530
+### [Children learn best when they’re taught in their mother tongue](https://www.livemint.com/opinion/online-views/children-learn-best-when-they-re-taught-in-their-mother-tongue-11708526616892.html)
+
+Article found but Couldn't summarize 
+For early stage learning, linguistic familiarity is key. Embracing the country’s rich tapestry of languages for schooling will help ensure that no child gets left behind.
+
+Thu, 22 Feb 2024 00:50:10 +0530
+### [Our school infrastructure needs to be revamped to flatten its pyramid](https://www.livemint.com/opinion/online-views/our-school-infrastructure-needs-to-be-revamped-to-flatten-its-pyramid-11708515838514.html)
+
+Article found but Couldn't summarize 
+The base of primary education has widened in India but we still lack capacity for higher-level schooling. This results in a squeeze, with enrollment showing pyramidal attrition as children turn into teenagers. This challenge must be met.
+
+Thu, 22 Feb 2024 00:47:17 +0530
+### [The lonesome death of Alexei Navalny: Russia is back to its old ways](https://www.livemint.com/opinion/online-views/the-lonesome-death-of-alexei-navalny-russia-is-back-to-its-old-ways-11708515906154.html)
+
+Article found but Couldn't summarize 
+The eyebrow-raising death of a prominent Putin critic reveals the Kremlin's return to form. Like dough regaining its shape.
+
+Thu, 22 Feb 2024 00:44:54 +0530
+### [Questions have a hot new role in the age of AI: Stirring human minds](https://www.livemint.com/opinion/online-views/questions-have-a-hot-new-role-in-the-age-of-ai-stirring-human-minds-11708515988820.html)
+
+Article found but Couldn't summarize 
+Curiosity is what sets humans apart from machines, as only we know what to ask that really matters. And the questions we ask will determine our future.
+
+Wed, 21 Feb 2024 16:05:08 +0530
+### [Why the circular on withholding tax for online retailers needs more clarity](https://www.livemint.com/opinion/first-person/why-the-circular-on-withholding-tax-for-online-retailers-needs-more-clarity-11708418240213.html)
+
+Article found but Couldn't summarize 
+Services provided by an e-commerce operator's group entities, although integral to a transaction, are not covered under the current guidelines
+
+Wed, 21 Feb 2024 08:00:21 +0530
+### [McKinsey advice: India Inc must get more competitive on growth](https://www.livemint.com/opinion/online-views/mckinsey-advice-india-inc-must-get-more-competitive-on-growth-11708444118166.html)
+
+Article found but Couldn't summarize 
+A McKinsey study spotlights the corporate growth imperative: businesses must compete on this score within their industry, not just aim to outpace GDP. It’s what competitive markets demand.
+
+Wed, 21 Feb 2024 08:00:21 +0530
+### [Indus-X: An India-US conclave of equals](https://www.livemint.com/opinion/quick-edit/indusx-an-india-us-conclave-of-equals-11708444349841.html)
+
+Article found but Couldn't summarize 
+Tuesday’s summit of Indus-X, the India-US Defence Acceleration Ecosystem launched last June, got defence officials from both sides to confer. The idea holds geo-strategic potential, but the question is how close the two want their ties to be.
+
+Wed, 21 Feb 2024 08:00:21 +0530
+### [WhatsApp has changed political messaging on economic matters](https://www.livemint.com/opinion/online-views/whatsapp-has-changed-political-messaging-on-economic-matters-11708444169673.html)
+
+Article found but Couldn't summarize 
+Whether it’s for the better is doubtful, as this social media phenomenon tends to indulge echo chambers and fan confirmation biases.
+
+Wed, 21 Feb 2024 07:00:14 +0530
+### [A saint who was committed to nation building](https://www.livemint.com/opinion/a-saint-who-was-committed-to-nation-building-11708441688714.html)
+
+Article found but Couldn't summarize 
+Prime Minister Narendra Modi pays tribute to Sant Shiromani Acharya Shri 108 Vidhyasagar Ji Maharaj Ji who attained Samadhi recently
+
 Wed, 21 Feb 2024 00:29:27 +0530
 ### [Electoral bonds have been scrapped but not corporate funding](https://www.livemint.com/opinion/online-views/electoral-bonds-have-been-scrapped-but-not-corporate-funding-11708444245974.html)
 

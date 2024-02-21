@@ -1,3 +1,117 @@
+Wed, 21 Feb 2024 21:33:05 +0530
+### [26-foot-long, 500 kilos: World's biggest snake discovered in Amazon](https://www.firstpost.com/explainers/26-foot-long-500-kilos-worlds-biggest-snake-discovered-in-amazon-13740422.html)
+
+Article found but Couldn't summarize 
+The species, which has been labelled Eunectes akayima, was discovered in Ecuadorian Amazon’s Baihuaeri Waorani Territory in the Bameno region during filming of National Geographic’s Disney+ series Pole to Pole with Will Smith. The northern green anaconda diverged from the southern green anaconda around 10 million years ago and is 5.5 per cent different genetically
+
+Wed, 21 Feb 2024 20:00:32 +0530
+### [Death and injuries: How farmers' protests devolved into violence yet again](https://www.firstpost.com/explainers/death-and-injuries-how-farmers-protests-devolved-into-violence-yet-again-13740394.html)
+
+Article found but Couldn't summarize 
+One protester died on Wednesday and several farmers were injured after police fired tear gas and rubber bullets. Dramatic visuals earlier in the day showed around 10,000 cultivators with 1,200 tractor-trolleys facing off against the police and security personnel in riot gear
+
+Wed, 21 Feb 2024 19:58:57 +0530
+### [Why does India want to contain China in the South China Sea?](https://www.firstpost.com/explainers/why-does-india-want-to-contain-china-in-the-south-china-sea-13740009.html)
+
+Article found but Couldn't summarize 
+The South China Sea is of crucial importance not only because it is rich in resources but also because it is one of the most important trade routes. In recent times, India has been establishing its presence around the waters as a way to counterbalance China’s assertive and muscle power
+
+Wed, 21 Feb 2024 19:25:57 +0530
+### [Japanese are calling for change of 'married surnames' law: What is it?](https://www.firstpost.com/explainers/japanese-are-calling-for-change-of-married-surnames-law-what-is-it-13740334.html)
+
+Article found but Couldn't summarize 
+Japan is the only country in the world with a law that requires spouses to use the same surname because of its century-old civil code. Even men can take women's names, but gendered norms hinder an equal distribution
+
+Wed, 21 Feb 2024 18:30:12 +0530
+### [How India sending Buddha relics to Thailand boosts PM Modi's 'soft power'](https://www.firstpost.com/explainers/india-buddha-relics-thailand-pm-modi-foreign-policy13740316-13740316.html)
+
+Article found but Couldn't summarize 
+The relics of Lord Buddha and his disciples Arahata Sariputra and Arahata Maudgalayana are known as the ‘Kapilvastu Relics.’ Dating back to around the 4th or 5th Century BC, the relics were discovered by a team of ASI officials in Bihar's Piprahwa — a site that is believed to be the ancient city of Kapilvastu — in the 1970s. They were earlier sent to Mongolia and Sri Lanka where they were put on display
+
+Wed, 21 Feb 2024 17:11:06 +0530
+### [What’s the ‘Khalistani’ remark row haunting Bengal’s Sandeshkhali now?](https://www.firstpost.com/explainers/khalistani-remark-row-west-bengal-sikh-cop-sandeshkhali-bjp-tmc-13740325.html)
+
+Article found but Couldn't summarize 
+Bengal’s Sandeshkhali has been in the limelight since several women accused Trinamool Congress strongmen of sexual harassment and land grab earlier this month. Now, a new controversy has erupted after a Sikh cop accused BJP MLA Suvendu Adhikari, who was on his way to the restive village, of calling him ‘Khalistani’
+
+Wed, 21 Feb 2024 16:55:14 +0530
+### [The shocking story of Ruby Franke, ‘momfluencer’ sentenced for child abuse](https://www.firstpost.com/explainers/the-shocking-story-of-ruby-franke-momfluencer-sentenced-for-child-abuse-13740341.html)
+
+Article found but Couldn't summarize 
+Ruby Franke garnered millions of followers as she documented the life of her six children in their home in Utah, US. Now the YouTube mom vlogger has been sentenced to prison for child abuse. She was arrested after her malnourished son escaped, looking for food
+
+Wed, 21 Feb 2024 16:46:51 +0530
+### [In Graphics | The life of legendary legal figure Fali S Nariman](https://www.firstpost.com/explainers/in-graphics-the-life-of-legendary-legal-figure-fali-s-nariman-13740330.html)
+
+Article found but Couldn't summarize 
+Fali S Nariman, an eminent jurist and senior advocate, passed away today at the age of 95. His legal career, spanning nearly 75 years, earned him the moniker of 'Bhishma Pitamah' of the lawyer community
+
+Wed, 21 Feb 2024 16:31:30 +0530
+### [Did KGB-style punch to the heart kill Alexei Navalny?](https://www.firstpost.com/explainers/kgb-punch-heart-russia-alexei-navalny-cause-of-death-13740307.html)
+
+Article found but Couldn't summarize 
+It’s been five days since Alexei Navalny died in an Arctic penal colony, where he was serving a 19-year prison sentence. However, the cause of his death still remains unknown. Now, a human rights activist claims that a single blow to the heart, a technique used by KGB operatives, is the likely reason for the dissident’s demise
+
+Wed, 21 Feb 2024 15:28:48 +0530
+### [How big is the dead European satellite hurtling towards Earth?](https://www.firstpost.com/explainers/esa-dead-ers-2-satellite-hurtling-to-earth-13740183.html)
+
+Article found but Couldn't summarize 
+After being launched in 1995, the dead European Remote Sensing 2 (ERS-2) has been slowly returning to Earth. The ESA says the satellite will break into pieces above the Earth’s surface, and the vast majority will burn up in the atmosphere. If any pieces make it to Earth, they will probably fall into the ocean
+
+Wed, 21 Feb 2024 14:12:31 +0530
+### [How PML(N), PPP reached a deal to form Pakistan govt at midnight](https://www.firstpost.com/explainers/how-pmln-ppp-alliance-pakistan-govt-13740203.html)
+
+Article found but Couldn't summarize 
+The agreement between Bilawal Bhutto-Zardari's Pakistan Peoples Party (PPP) and the Pakistan Muslim League-Nawaz (PML-N) of three-time PM Nawaz Sharif ends days of uncertainty and negotiations after the 8 February elections produced a hung National Assembly. Here's how the drama unfolded
+
+Wed, 21 Feb 2024 14:02:56 +0530
+### ['Meow Meow' worth Rs 3,000 crore seized in Pune, Delhi: What is this drug?](https://www.firstpost.com/explainers/meow-meow-drug-pune-police-delhi-13740246.html)
+
+Article found but Couldn't summarize 
+Police have recovered about 1,700 kg of Mephedrone at several locations in Pune and New Delhi. Popular by its street name Meow Meow, the synthetically manufactured drug produces effects similar to those of MDMA and cocaine
+
+Wed, 21 Feb 2024 13:28:01 +0530
+### [Why Indian port workers won’t handle Israel-bound military cargo](https://www.firstpost.com/explainers/port-workers-military-cargo-israel-hamas-war-13740237.html)
+
+Article found but Couldn't summarize 
+The Water Transport Workers Federation of India, whose members are employed at 11 of India’s 12 major ports, have decided not to handle military shipments for Israel amid the ongoing war. The trade union has said that they ‘stand against the killing of innocent people like women and children’
+
+Wed, 21 Feb 2024 12:49:15 +0530
+### [What’s behind Germany’s regular transport strikes that have hit travellers?](https://www.firstpost.com/explainers/whats-behind-germanys-regular-transport-strikes-that-have-hit-travellers-13740151.html)
+
+Article found but Couldn't summarize 
+Germany has been gripped by a series of strikes by transportation workers that have left air, rail and bus travellers stranded. Unions are demanding higher wages and better working conditions
+
+Wed, 21 Feb 2024 12:12:14 +0530
+### [History repeats? Why Chinese companies are establishing private armies](https://www.firstpost.com/explainers/history-repeats-why-chinese-companies-are-establishing-private-armies-13740171.html)
+
+Article found but Couldn't summarize 
+China seems to be reviving a legacy of the Mao Zedong era – it is bringing back militias. Several state-owned firms have been setting up private armies known as the People’s Armed Forces, which fall under the management of the Chinese military. But what is their mission?
+
+Wed, 21 Feb 2024 11:44:12 +0530
+### [How popular painkiller paracetamol may be injurious to your liver](https://www.firstpost.com/explainers/how-popular-painkiller-paracetamol-may-be-injurious-to-your-liver-13740087.html)
+
+Article found but Couldn't summarize 
+Researchers at the University of Edinburgh found that paracetamol can damage the liver by interfering with the structural junctions that are essential for the proper functioning of neighbouring cells in the liver. Notably, this is the first study to connect liver damage from paracetamol toxicity to illnesses like cancer, cirrhosis, and hepatitis
+
+Wed, 21 Feb 2024 10:22:43 +0530
+### [Why has the UN food agency stopped delivering aid to northern Gaza?](https://www.firstpost.com/explainers/why-has-the-un-food-agency-stopped-delivering-aid-to-northern-gaza-13740110.html)
+
+Article found but Couldn't summarize 
+The United Nations World Food Programme (WFP) announced that aid deliveries to northern Gaza have been suspended. The reason: an inability to ensure the safety and security of its employees following a convoy of trucks encountering gunfire and looting
+
+Wed, 21 Feb 2024 10:22:10 +0530
+### [Greek PM meets Modi: How Indo-Greek ties have changed in 10 years](https://www.firstpost.com/explainers/greek-pm-kyriakos-mitsotakis-india-visit-narendra-modi-new-delhi-athens-ties-13739988.html)
+
+Article found but Couldn't summarize 
+Greek PM Kyriakos Mitsotakis is in New Delhi for a two-day state visit. He will hold bilateral talks with his Indian counterpart Narendra Modi. The economic and cultural exchanges between the two nations date back thousands of years. Here’s how the relations have fared recently
+
+Wed, 21 Feb 2024 10:08:58 +0530
+### [Delhi Chalo protest: How farmers plan to cross Haryana border, march to Capital](https://www.firstpost.com/explainers/delhi-chalo-protest-how-farmers-plan-to-cross-haryana-border-march-to-capital-13740104.html)
+
+Article found but Couldn't summarize 
+Farmers are resuming their ‘Delhi Chalo’ agitation after talks with the Centre didn’t yield positive results. According to estimates, around 14,000 farmers are part of the march and they come in 1,200 tractor-trolleys. The authorities are on high alert and have beefed up security arrangements at the Shambhu border in Haryana
+
 Wed, 21 Feb 2024 05:00:10 +0530
 ### [FirstUp: Delhi Chalo march resumes, Greek PM in India... today's big stories](https://www.firstpost.com/explainers/firstup-delhi-chalo-march-resumes-greek-pm-in-india-todays-big-stories-13739974.html)
 

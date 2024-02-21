@@ -1,3 +1,15 @@
+Thu, 22 Feb 2024 00:20:00 +0530
+### [Flagrant fraud: On the Chandigarh mayoral election](https://www.thehindu.com/opinion/editorial/flagrant-fraud-on-the-chandigarh-mayoral-election/article67871179.ece)
+
+Article found but Couldn't summarize 
+Stratagem to defeat Opposition alliance backfired on BJP in Chandigarh
+
+Thu, 22 Feb 2024 00:10:00 +0530
+### [Ending discrimination: On the Union of India and Others vs Ex. Lt. Selina John case](https://www.thehindu.com/opinion/editorial/ending-discrimination-on-the-union-of-india-and-others-vs-ex-lt-selina-john-case/article67871066.ece)
+
+Article found but Couldn't summarize 
+Workplaces must ensure fair treatment of woman employees
+
 Wed, 21 Feb 2024 00:20:00 +0530
 ### [Calm assessment: On the extent of ‘deemed forest’](https://www.thehindu.com/opinion/editorial/calm-assessment-on-the-extent-of-deemed-forest/article67867565.ece)
 

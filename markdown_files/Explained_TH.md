@@ -1,3 +1,21 @@
+Wed, 21 Feb 2024 22:35:44 +0530
+### [On financial devolution among States | Explained](https://www.thehindu.com/news/national/on-financial-devolution-among-states-explained/article67872209.ece)
+
+Article found but Couldn't summarize 
+What is the role of the Finance Commission? What is the basis for allocation of tax revenue to various States? Has the percentage share of the divisible pool of taxes been reducing for southern States? What are the potential solutions?
+
+Wed, 21 Feb 2024 19:24:04 +0530
+### [What’s next in Julian Assange’s extradition appeal? | Explained](https://www.thehindu.com/news/international/julian-assange-extradition-appeal-explainer-us-britain-wikileaks/article67870298.ece)
+
+Article found but Couldn't summarize 
+Why has the hearing been termed the ‘beginning of the end’ for Julian Assange’s extradition saga? What are the legal options that remain for the WikiLeaks founder?
+
+Wed, 21 Feb 2024 17:03:52 +0530
+### [What is Australia’s ‘right to disconnect,’ and what it means for workers | Explained](https://www.thehindu.com/news/international/australia-right-disconnect-law-policy-anthony-albanese-controversy-debate-explainer-hybrid-work-employer/article67849021.ece)
+
+Article found but Couldn't summarize 
+Can Australian companies penalise employees for failing to reply to messages or calls after work?
+
 Tue, 20 Feb 2024 22:28:14 +0530
 ### [Why are farmers protesting again? | Explained](https://www.thehindu.com/news/national/why-are-farmers-protesting-again-explained/article67868515.ece)
 
