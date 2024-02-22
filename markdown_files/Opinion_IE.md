@@ -1,3 +1,53 @@
+Thu, 22 Feb 2024 12:57:25 +0000
+### [Upendra Baxi writes: Adieu, Fali, my friend](https://indianexpress.com/article/opinion/columns/fali-nariman-indian-bar-jurist-law-9175713/)
+
+Article found but Couldn't summarize
+
+Thu, 22 Feb 2024 08:58:43 +0000
+### [Former Election Commissioner Ashok Lavasa writes: With SC judgment on electoral bonds, truth will be out](https://indianexpress.com/article/opinion/columns/sc-electoral-bonds-judgment-9175075/)
+
+Article found but Couldn't summarize
+
+Thu, 22 Feb 2024 03:01:57 +0000
+### [Fali S Nariman: An example, and inspiration](https://indianexpress.com/article/opinion/columns/fali-s-nariman-an-example-and-inspiration-9174407/)
+
+Article found but Couldn't summarize
+
+Thu, 22 Feb 2024 01:37:59 +0000
+### [The words of Fali Nariman: Excerpts of his writings](https://indianexpress.com/article/opinion/columns/the-words-of-fali-nariman-excerpts-of-his-writings-9174060/)
+
+Article found but Couldn't summarize
+
+Thu, 22 Feb 2024 01:37:57 +0000
+### [Indira Jaising writes: Indian law, after Fali S Nariman](https://indianexpress.com/article/opinion/columns/indira-jaising-writes-indian-law-after-fali-s-nariman-9174050/)
+
+Article found but Couldn't summarize
+
+Thu, 22 Feb 2024 01:37:02 +0000
+### [Fali S Nariman — a life in defence of the Constitution](https://indianexpress.com/article/opinion/columns/fali-s-nariman-a-life-in-defence-of-the-constitution-9174061/)
+
+Article found but Couldn't summarize
+
+Thu, 22 Feb 2024 01:25:44 +0000
+### [Express View on Ameen Sayani: Voice of a nation](https://indianexpress.com/article/opinion/editorials/express-view-on-ameen-sayani-voice-of-a-nation-9174054/)
+
+Article found but Couldn't summarize
+
+Thu, 22 Feb 2024 01:25:41 +0000
+### [Express View on Jindal university and free speech: Stain on campus](https://indianexpress.com/article/opinion/editorials/express-view-on-jindal-university-and-free-speech-stain-on-campus-9174053/)
+
+Article found but Couldn't summarize
+
+Thu, 22 Feb 2024 01:25:27 +0000
+### [Express View on Fali Sam Nariman](https://indianexpress.com/article/opinion/editorials/express-view-on-fali-sam-nariman-9174052/)
+
+Article found but Couldn't summarize
+
+Thu, 22 Feb 2024 01:15:46 +0000
+### [February 22, 1984, Forty Years Ago: Three shootout incidents in Punjab](https://indianexpress.com/article/opinion/40-years-ago/february-22-1984-forty-years-ago-shootouts-in-punjab-9174056/)
+
+Article found but Couldn't summarize
+
 Wed, 21 Feb 2024 22:42:09 +0000
 ### [Fali Nariman (1929-2024): Jurist & humanist secured many a verdict shaping modern India](https://indianexpress.com/article/opinion/fali-nariman-dies-1929-2024-jurist-humanist-secured-many-a-verdict-shaping-modern-india-9174223/)
 

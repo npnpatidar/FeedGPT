@@ -1,3 +1,15 @@
+Fri, 23 Feb 2024 00:20:00 +0530
+### [The next frontier: On India’s space sector](https://www.thehindu.com/opinion/editorial/the-next-frontier-on-indias-space-sector/article67874992.ece)
+
+Article found but Couldn't summarize 
+The government must keep the regulatory environment of space sector clear
+
+Fri, 23 Feb 2024 00:10:00 +0530
+### [Death of dissent: On Putin’s Russia today](https://www.thehindu.com/opinion/editorial/death-of-dissent-on-putins-russia-today/article67874968.ece)
+
+Article found but Couldn't summarize 
+Putin’s is not a sustainable style of governance
+
 Thu, 22 Feb 2024 00:20:00 +0530
 ### [Flagrant fraud: On the Chandigarh mayoral election](https://www.thehindu.com/opinion/editorial/flagrant-fraud-on-the-chandigarh-mayoral-election/article67871179.ece)
 

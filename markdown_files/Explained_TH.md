@@ -1,3 +1,9 @@
+Thu, 22 Feb 2024 08:30:00 +0530
+### [EU mulls sweeping forced labour | EXPLAINED](https://www.thehindu.com/news/international/eu-mulls-sweeping-forced-labour-explained/article67874251.ece)
+
+Article found but Couldn't summarize 
+How do multinational corporations typically respond to allegations of human rights violations in their Chinese supply chains? What specific actions have German companies taken in response to accusations of forced labour? How stringent are the provisions of the Uyghur Forced Labour Prevention Act?
+
 Wed, 21 Feb 2024 22:35:44 +0530
 ### [On financial devolution among States | Explained](https://www.thehindu.com/news/national/on-financial-devolution-among-states-explained/article67872209.ece)
 

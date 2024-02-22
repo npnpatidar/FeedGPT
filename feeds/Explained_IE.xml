@@ -5,6 +5,42 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Explained_IE.xml</link>
 		<description>Explained IE</description>
 		<item>
+			<title>Explained: The massive data leak from a Chinese cybersecurity agency, whose targets include India</title>
+			<link>https://indianexpress.com/article/explained/china-data-leak-surveillance-india-github-9175313/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Thu, 22 Feb 2024 10:51:19 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/02/Untitled-design-1-9.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/02/Untitled-design-1-9.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Google introduces Gemma open source AI models: What does it mean for responsible AI?</title>
+			<link>https://indianexpress.com/article/explained/explained-sci-tech/google-gemma-open-source-ai-responsible-ai-9175182/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Thu, 22 Feb 2024 10:33:51 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/02/Gemma.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/02/Gemma.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>TMC vs BJP in Bengal: What is happening in Sandeshkhali?</title>
+			<link>https://indianexpress.com/article/explained/explained-politics/tmc-vs-bjp-in-bengal-what-is-happening-in-sandeshkhali-9174161/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Thu, 22 Feb 2024 02:00:59 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/02/TMC-vs-BJP.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/02/TMC-vs-BJP.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>New offer from Air India Express: how do ‘hand baggage-only’ fares work?</title>
+			<link>https://indianexpress.com/article/explained/new-offer-from-air-india-express-how-do-hand-baggage-only-fares-work-9174151/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Thu, 22 Feb 2024 02:00:12 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/02/air-india-express.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/02/air-india-express.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>To bypass Red Sea, new trade route to Israel involving Mundra port: How this will work</title>
 			<link>https://indianexpress.com/article/explained/everyday-explainers/red-sea-new-trade-route-to-israel-via-mundra-9173917/</link>
 			<description>Article found but Couldn't summarize</description>
@@ -34,6 +70,15 @@
 		<item>
 			<title>Raisina Dialogue begins today: Everything you need to know about the conference</title>
 			<link>https://indianexpress.com/article/explained/what-is-raisina-dialogue-9171750/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Wed, 21 Feb 2024 02:30:07 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/02/Raisina.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/02/Raisina.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Raisina Dialogue begins: Everything you need to know about the conference</title>
+			<link>https://indianexpress.com/article/explained/everyday-explainers/what-is-raisina-dialogue-9171750/</link>
 			<description>Article found but Couldn't summarize</description>
 			<pubDate>Wed, 21 Feb 2024 02:30:07 +0000</pubDate>
 			<ai_summary>False</ai_summary>

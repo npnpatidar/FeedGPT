@@ -1,3 +1,63 @@
+Thu, 22 Feb 2024 23:53:35 +0530
+### [Vision ‘100 Cube’ could turn Odisha into a startup hub](https://www.livemint.com/opinion/online-views/vision-100-cube-could-turn-odisha-into-a-startup-hub-11708616058534.html)
+
+Article found but Couldn't summarize 
+The project’s incubatory aim of having 100 Odisha-based large startups by 2036 when the state marks 100 years of statehood could deliver a Viksit Odisha in support of our drive towards a Viksit Bharat.
+
+Thu, 22 Feb 2024 23:50:03 +0530
+### [Capitalism varies across as well as within individual countries](https://www.livemint.com/opinion/online-views/capitalism-varies-across-as-well-as-within-individual-countries-11708608345914.html)
+
+Article found but Couldn't summarize 
+A useful way to sub-classify a capitalist economy is to map its enterprises by nested dualisms that assess their size, degree of formality, political linkages and exposure to market competition.
+
+Thu, 22 Feb 2024 23:39:46 +0530
+### [OpenAI's video generator Sora could take advertising places—and quick](https://www.livemint.com/opinion/online-views/openais-video-generator-sora-could-take-advertising-places-and-quick-11708608416957.html)
+
+Article found but Couldn't summarize 
+Sora’s output is reputedly hard to tell apart from real life captured on camera. The ad industry is among the first that could make good use of it.
+
+Thu, 22 Feb 2024 23:37:05 +0530
+### [Beauty and the Bias: India Inc needs more sensitivity](https://www.livemint.com/opinion/online-views/beauty-and-the-bias-india-inc-needs-more-sensitivity-11708608509714.html)
+
+Article found but Couldn't summarize 
+The bias of ‘lookism’ is arguably getting accentuated as we get used to and mistakenly accept modifications of our physical appearance online as mere adjustments of reality. While it can’t be tackled head on, we must acknowledge the bias and hope heightened sensitivity plays social self-regulator.
+
+Thu, 22 Feb 2024 23:06:29 +0530
+### [A spectacular bridge that few use](https://www.livemint.com/opinion/columns/a-spectacular-bridge-that-few-use-11708622879344.html)
+
+Article found but Couldn't summarize 
+MTHL, a new addition to Mumbai's landscape, had over 30,000 vehicles daily in its first 10 days, with toll revenue of  ₹61.5 million. However, actual usage in the first month was less than 40% of its projected capacity of 70,000 vehicles daily.
+
+Thu, 22 Feb 2024 18:05:00 +0530
+### [JSW Steel is a long-term bet that needs many pieces to fall in place](https://www.livemint.com/opinion/online-views/jsw-steel-is-a-long-term-bet-that-needs-many-pieces-to-fall-in-place-11708601053388.html)
+
+Article found but Couldn't summarize 
+Fulfilling capex plans will require at least  ₹1 trillion, with the company reportedly seeking loans exceeding $750 million. There is a lot at stake over the next five years as the company looks to scale up
+
+Thu, 22 Feb 2024 12:59:34 +0530
+### [Novelis could be a good bet if valuations top $10 bn](https://www.livemint.com/opinion/online-views/novelis-could-be-a-good-bet-if-valuations-top-10-bn-11708582974394.html)
+
+Article found but Couldn't summarize 
+What Hindalco intends to do with the proceeds is still unknown. There are no details beyond the fact that the IPO proceeds will benefit AV, with no direct financial impact on Novelis's balance sheet
+
+Thu, 22 Feb 2024 08:00:04 +0530
+### [Gen-AI vs opponents: Keep polls free of fraud](https://www.livemint.com/opinion/quick-edit/genai-vs-opponents-keep-polls-free-of-fraud-11708526764935.html)
+
+Article found but Couldn't summarize 
+Did he say that? Deepfakes made their debut in Pakistan, Bangladesh and Indonesia. Voter beware!
+
+Thu, 22 Feb 2024 08:00:04 +0530
+### [Animal spirits revival: When will private capex roar again?](https://www.livemint.com/opinion/online-views/animal-spirits-revival-when-will-private-capex-roar-again-11708526472999.html)
+
+Article found but Couldn't summarize 
+An RBI report on the state of India’s economy points to conditions being in place for a private capex revival. But we have seen many stirrings that flattered only to deceive. This time, let’s hope it plays out. As a Keynesian policy push winds down, animal spirits are what we need.
+
+Thu, 22 Feb 2024 08:00:04 +0530
+### [Thank the productivity paradox: AI isn’t the job killer it’s feared to be](https://www.livemint.com/opinion/online-views/thank-the-productivity-paradox-ai-isn-t-the-job-killer-it-s-feared-to-be-11708526529556.html)
+
+Article found but Couldn't summarize 
+AI doomsayers should accept how technology tends to generate more jobs than it threatens. It’s happened before and will likely happen again.
+
 Thu, 22 Feb 2024 00:55:34 +0530
 ### [Children learn best when they’re taught in their mother tongue](https://www.livemint.com/opinion/online-views/children-learn-best-when-they-re-taught-in-their-mother-tongue-11708526616892.html)
 

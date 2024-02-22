@@ -1,3 +1,57 @@
+Thu, 22 Feb 2024 18:52:57 +0530
+### [Game on: Modi government’s move to regulate and elevate online gaming](https://www.firstpost.com/opinion/game-on-modi-governments-move-to-regulate-and-elevate-online-gaming-13740827.html)
+
+Article found but Couldn't summarize 
+While establishing such a framework may seem daunting, the current government has shown the resolve to undertake this critical task, underscoring its commitment to shaping a thriving digital economy
+
+Thu, 22 Feb 2024 18:22:37 +0530
+### [India and the problems with Chinese manufacturing overcapacity](https://www.firstpost.com/opinion/india-and-the-problems-with-chinese-manufacturing-overcapacity-13740805.html)
+
+Article found but Couldn't summarize 
+The US has recently warned Beijing against dumping goods on global markets as it fears China would be easing domestic overcapacity with cheap exports
+
+Thu, 22 Feb 2024 17:21:53 +0530
+### [Ramification | The horror of Sandeshkhali and demographic takeover of Bengal](https://www.firstpost.com/opinion/ramification-the-horror-of-sandeshkhali-and-demographic-takeover-of-bengal-13740765.html)
+
+Article found but Couldn't summarize 
+In addition to the trafficked, sexually abused, and missing Hindu women and children, Sandeshkhali has the distinction of a suspicious demographic change where Hindus have become a minority
+
+Thu, 22 Feb 2024 16:35:04 +0530
+### [Vantage | Is Guinea's return to democracy in danger?](https://www.firstpost.com/opinion/vantage-is-guineas-return-to-democracy-in-danger-13740721.html)
+
+Article found but Couldn't summarize 
+As Guinea grapples with the aftermath of the government's dissolution and the looming deadline for the restoration of democracy, the implications for stability in West Africa remain uncertain
+
+Thu, 22 Feb 2024 15:00:57 +0530
+### [Vantage | AI is all set to change the battlefield. Is India prepared?](https://www.firstpost.com/opinion/vantage-ai-is-all-set-to-change-the-battlefield-is-india-prepared-13740696.html)
+
+Article found but Couldn't summarize 
+This is a race you cannot fall behind in, because once you do, it takes ages to level the playing field
+
+Thu, 22 Feb 2024 12:58:00 +0530
+### [India’s security and the fencing of the Myanmar border](https://www.firstpost.com/opinion/indias-security-and-the-fencing-of-the-myanmar-border-13740601.html)
+
+Article found but Couldn't summarize 
+India’s decision to build a fence along the entire 1,643-km-long Myanmar border will facilitate better surveillance and prevent illegal migration and ingress of Valley-Based-Insurgent Groups
+
+Thu, 22 Feb 2024 12:19:43 +0530
+### [CDU's renomination of Ursula Von der Leyen: Insights into EU leadership dynamics](https://www.firstpost.com/opinion/cdus-renomination-of-ursula-von-der-leyen-insights-into-eu-leadership-dynamics-13740544.html)
+
+Article found but Couldn't summarize 
+Von der Leyen is seen as a steady hand to deal with the continuing crisis in West Asia and keep up the EU role and personality in international fora
+
+Thu, 22 Feb 2024 11:07:54 +0530
+### [How Minimum Support Prices have outlived their relevance](https://www.firstpost.com/opinion/how-minimum-support-prices-have-outlived-their-relevance-13740516.html)
+
+Article found but Couldn't summarize 
+If implemented, the new MSP regime would shoot up retail food prices by an estimated 30 per cent
+
+Thu, 22 Feb 2024 08:45:39 +0530
+### [India a great ally, and a cornerstone of Greece’s foreign policy, says Greek PM Mitsotakis](https://www.firstpost.com/opinion/india-a-great-ally-and-a-cornerstone-of-greeces-foreign-policy-says-greek-pm-mitsotakis-13740473.html)
+
+Article found but Couldn't summarize 
+The Greek prime minister presented his nation as “an interlocutor between India and the Europe, and Global North and Global South”
+
 Wed, 21 Feb 2024 19:54:16 +0530
 ### [Vantage | Has Russia changed the tide of its war with Ukraine?](https://www.firstpost.com/opinion/russia-ukraine-war-avdiivka-donetsk-volodymyr-zelensky-vladimir-putin-13740413.html)
 

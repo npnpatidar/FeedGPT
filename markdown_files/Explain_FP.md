@@ -1,3 +1,99 @@
+Thu, 22 Feb 2024 21:29:39 +0530
+### [Why Calcutta HC wants names of lions 'Akbar' and 'Sita' changed](https://www.firstpost.com/explainers/why-calcutta-hc-wants-names-of-lions-akbar-and-sita-changed-13740882.html)
+
+Article found but Couldn't summarize 
+The VHP filed a case against the Bengal Zoo Authority's decision to keep a lion and lioness named ‘Akbar’ and ‘Sita’ in the same enclosure. The two lions, which were born in Tripura, were brought from the Sepahijala Zoological Park to Bengal's Safari Park in Siliguri on 12 February. The court said animals should not be named after any deity or figure belonging to any religion
+
+Thu, 22 Feb 2024 19:50:31 +0530
+### [How India’s BrahMos missile is alluring the world](https://www.firstpost.com/explainers/india-brahmos-missile-world-interest-defence-exports-13740429.html)
+
+Article found but Couldn't summarize 
+India is all set to deliver BrahMos supersonic cruise missiles to the Philippines. Other countries, including in West Asia and Africa, have reportedly shown interest in the projectiles. Let’s trace the journey of these weapons and what makes them stand out
+
+Thu, 22 Feb 2024 19:19:13 +0530
+### [Why BYJU’S founder Raveendran cannot leave the country](https://www.firstpost.com/explainers/why-byjus-founder-raveendran-cannot-leave-the-country-13740747.html)
+
+Article found but Couldn't summarize 
+The Enforcement Directorate has upgraded its Lookout Circular (LOC) against Byju Raveendran — the 43-year-old CEO of the edtech firm bearing his name. Raveendran and his company have faced a string of setbacks including lay-offs, the valuation being slashed by 95 per cent, legal cases by lenders abroad and the BCCI
+
+Thu, 22 Feb 2024 17:58:56 +0530
+### [How Myanmar’s conscription law could trigger mass exodus of youth](https://www.firstpost.com/explainers/myanmar-conscription-law-youth-mass-exodus-military-junta-13740772.html)
+
+Article found but Couldn't summarize 
+Myanmar’s military junta has said it will go ahead with mandatory military service. While women have been exempted from conscription for now, the law has led to concerns among young people with many seeking ways to escape the war-torn country
+
+Thu, 22 Feb 2024 17:56:21 +0530
+### [Do you wake up for many loo breaks at night? Blame binge-watching](https://www.firstpost.com/explainers/do-you-wake-up-for-many-loo-breaks-at-night-blame-binge-watching-13740687.html)
+
+Article found but Couldn't summarize 
+A team of Chinese researchers has found that watching at least five hours of TV a day is linked with a higher risk of nocturia. It is a medical term for excessive urination at night, where people wake up two times or more
+
+Thu, 22 Feb 2024 16:30:13 +0530
+### [How Christopher Saunders, former Aus bishop, committed a string of sex crimes](https://www.firstpost.com/explainers/how-christopher-saunders-former-aus-bishop-committed-a-string-of-sex-crimes-13740726.html)
+
+Article found but Couldn't summarize 
+Ordained as a priest in 1976,  Christopher Saunders spent decades as bishop of Broome diocese — a sparsely-populated territory region around the size of Turkiye and home to several Aboriginal communities — in which he was a towering figure. The 74-year-old has been charged with 19 offences including rape, child abuse, indecent assault and indecently dealing with a child
+
+Thu, 22 Feb 2024 14:41:07 +0530
+### [In Graphics | Why does February have an extra day?](https://www.firstpost.com/explainers/in-graphics-why-does-february-have-an-extra-day-13740662.html)
+
+Article found but Couldn't summarize 
+Known as ‘leap day’, nearly every four years, February gets an additional day as part of the Gregorian calendar system. This year is no different. However, there’s a scientific reason why leap days and years exist. Take a look
+
+Thu, 22 Feb 2024 14:34:38 +0530
+### [Were Indians duped by agents to fight for Russia in Ukraine war?](https://www.firstpost.com/explainers/indians-duped-agents-russia-army-ukraine-war-jobs-13740643.html)
+
+Article found but Couldn't summarize 
+Several Indians have alleged they were deceived by agents who promised them jobs as ‘army security helpers’ in Russia but were later forced to fight on the battlefield against Ukraine. The name of an agent, Faisal Khan – who runs a YouTube channel titled Baba Vlogs, has cropped up
+
+Thu, 22 Feb 2024 14:34:23 +0530
+### [What is Baal Aaadhar, the ID card for children?](https://www.firstpost.com/explainers/what-is-baal-aaadhar-the-id-card-for-children-13740577.html)
+
+Article found but Couldn't summarize 
+Introduced in 2018, the ‘Baal Aadhaar’ or blue Aadhaar is specifically tailored for children under the age of five. This document is blue, unlike the regular white Aadhaar cards for adults. The biometric data of the child is not required for the Baal Aadhaar card
+
+Thu, 22 Feb 2024 14:29:52 +0530
+### [US father charged after 2-yr-old shoots self: Michigan's new gun law explained](https://www.firstpost.com/explainers/us-father-charged-after-2-yr-old-shoots-self-michigans-new-gun-law-explained-13740638.html)
+
+Article found but Couldn't summarize 
+A Michigan man whose two-year-old daughter shot herself in the head with his revolver is the first person charged under the state’s new law requiring safe storage of guns. The law requires guns to be kept unloaded and locked – either in a device or a box or container – if a minor is present on the premises
+
+Thu, 22 Feb 2024 13:51:13 +0530
+### [Book yourself a stay at London's iconic BT Tower. It will soon be a hotel](https://www.firstpost.com/explainers/book-yourself-a-stay-at-londons-iconic-bt-tower-it-will-soon-be-a-hotel-13740602.html)
+
+Article found but Couldn't summarize 
+British telecom giant BT Group announced the sale of its famous BT Tower. It will be transformed into a hotel. Here’s what we know about the landmark, at one time the tallest in London
+
+Thu, 22 Feb 2024 13:38:26 +0530
+### [How $50 support to Ukraine led to US dancer being arrested in Russia](https://www.firstpost.com/explainers/ksenia-karelina-khavana-donation-ukraine-us-dancer-arrested-treason-russia-13740606.html)
+
+Article found but Couldn't summarize 
+Ksenia Karelina, a US-Russian citizen, has been arrested and charged with treason in Russia. Moscow alleges that the 33-year-old amateur ballerina was raising funds for a Ukrainian organisation that bought weapons. If convicted, she faces a 20-year-old jail term
+
+Thu, 22 Feb 2024 12:56:34 +0530
+### [How Japan’s first-ever wooden satellite will be a game-changer](https://www.firstpost.com/explainers/how-japans-first-ever-wooden-satellite-will-be-a-game-changer-13740486.html)
+
+Article found but Couldn't summarize 
+In a bid to make spaceflight operations sustainable, NASA and the Japan Aerospace Exploration Agency are considering launching the LignoSat probe, the world’s first wooden satellite into space. The successful probe launch and its satisfactory performance in orbit could pave the way for the use of wood in satellite construction
+
+Thu, 22 Feb 2024 12:53:43 +0530
+### [Alabama says frozen embryos are children: How this affects IVF](https://www.firstpost.com/explainers/alabama-supreme-court-frozen-embryos-are-children-ivf-fertility-13740591.html)
+
+Article found but Couldn't summarize 
+In a recent decision, the Alabama supreme court said that frozen embryos created through IVF are considered children. This means that people could be sued for destroying an embryo. Now a major hospital has paused the procedure. What’s going on?
+
+Thu, 22 Feb 2024 11:13:41 +0530
+### [Why US cop won't face criminal charges for running over Indian](https://www.firstpost.com/explainers/jaahnavi-kandula-case-seattle-police-officer-criminal-charges-13740541.html)
+
+Article found but Couldn't summarize 
+The King County prosecutor's office stated that there was insufficient evidence to prove beyond a reasonable doubt that officer Kevin Dave consciously disregarded safety when he ran over Jaahnavi Kandula, a 23-year-old Indian student in Seattle
+
+Thu, 22 Feb 2024 10:00:47 +0530
+### [Who was Shubkaran Singh, the 22-year-old who died at farmers’ stir?](https://www.firstpost.com/explainers/shubkaran-singh-22-year-old-died-farmers-protest-haryana-border-delhi-chalo-march-13740497.html)
+
+Article found but Couldn't summarize 
+Twenty-two-year-old Shubkaran Singh, a resident of Baloh village in Punjab’s Bhatinda district, died on Wednesday as farmers clashed with the police at Khanauri on the Punjab-Haryana border. Friends described Singh as ‘hardworking’; he believed it was the responsibility of farmers to secure their rights
+
 Thu, 22 Feb 2024 05:00:39 +0530
 ### [FirstUp: PM in Gujarat, no-trust motion in Haryana…Top news today](https://www.firstpost.com/explainers/firstup-pm-in-gujarat-no-trust-motion-in-haryanatop-news-today-13740376.html)
 
