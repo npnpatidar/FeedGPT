@@ -1,3 +1,9 @@
+Thu, 22 Feb 2024 05:00:39 +0530
+### [FirstUp: PM in Gujarat, no-trust motion in Haryana…Top news today](https://www.firstpost.com/explainers/firstup-pm-in-gujarat-no-trust-motion-in-haryanatop-news-today-13740376.html)
+
+Article found but Couldn't summarize 
+PM Narendra Modi is visiting Gujarat to participate in the Golden Jubilee celebration of the Gujarat Milk Federation. The debate on the no-trust motion against the Haryana government will take place today. The US will also be the centre of attention as the Odysseus moon lander prepares for a smooth landing
+
 Wed, 21 Feb 2024 21:33:05 +0530
 ### [26-foot-long, 500 kilos: World's biggest snake discovered in Amazon](https://www.firstpost.com/explainers/26-foot-long-500-kilos-worlds-biggest-snake-discovered-in-amazon-13740422.html)
 
