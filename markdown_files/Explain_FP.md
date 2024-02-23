@@ -1,3 +1,9 @@
+Fri, 23 Feb 2024 05:00:39 +0530
+### [FirstUp: PM in Varanasi, India Vs England in Ranchi... The big news today](https://www.firstpost.com/explainers/firstup-pm-narendra-modi-in-varanasi-india-vs-england-ranchi-big-news-today-13740889.html)
+
+Article found but Couldn't summarize 
+PM Narendra Modi will inaugurate and lay the foundation stone for various development projects worth over Rs 13,000 crore in Varanasi. India and England will face off in the fourth Test in Ranchi. Here's what else to expect today
+
 Thu, 22 Feb 2024 21:29:39 +0530
 ### [Why Calcutta HC wants names of lions 'Akbar' and 'Sita' changed](https://www.firstpost.com/explainers/why-calcutta-hc-wants-names-of-lions-akbar-and-sita-changed-13740882.html)
 
