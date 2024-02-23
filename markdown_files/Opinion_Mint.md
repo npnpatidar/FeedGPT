@@ -1,3 +1,27 @@
+Fri, 23 Feb 2024 12:30:49 +0530
+### [Can Perplexity do to Google what Microsoft did to IBM back in the day?](https://www.livemint.com/opinion/online-views/can-perplexity-do-to-google-what-microsoft-had-done-to-ibm-back-in-the-day-11708668951872.html)
+
+Article found but Couldn't summarize 
+Srinivas is optimistic that Perplexity could capture the most valuable segment of the Search &amp;amp; ChatGPT user base, potentially leading to increased advertising revenue and new opportunities
+
+Fri, 23 Feb 2024 08:00:18 +0530
+### [Yes, there exists an economic case for a regime of MSPs backed by law](https://www.livemint.com/opinion/online-views/yes-there-exists-an-economic-case-for-a-regime-of-msps-backed-by-law-11708615994268.html)
+
+Article found but Couldn't summarize 
+It must not be viewed merely as a subsidy to farmers but also as a tool to aid in price management. A well-designed MSP system can provide income support to farmers and also serve as a complementary tool to control food inflation.
+
+Fri, 23 Feb 2024 08:00:17 +0530
+### [An MSP hike for sugarcane: Calculated sweetening](https://www.livemint.com/opinion/quick-edit/an-msp-hike-for-sugarcane-calculated-sweetening-11708615345014.html)
+
+Article found but Couldn't summarize 
+The government has hiked the centrally set price to be paid to sugarcane farmers for their produce. Damage control? Our farm sector needs a hearty debate.
+
+Fri, 23 Feb 2024 08:00:17 +0530
+### [Is an onion sweetener a bright bulb idea to combat diabetes?](https://www.livemint.com/opinion/online-views/is-an-onion-sweetener-a-bright-bulb-idea-to-combat-diabetes-11708615927575.html)
+
+Article found but Couldn't summarize 
+A novel onion waste-based sweetener is an incubated-startup idea picked by the Centre for national scaling up. In a country of carb-heavy diets, could it ease our diabetes burden?
+
 Thu, 22 Feb 2024 23:53:35 +0530
 ### [Vision ‘100 Cube’ could turn Odisha into a startup hub](https://www.livemint.com/opinion/online-views/vision-100-cube-could-turn-odisha-into-a-startup-hub-11708616058534.html)
 

@@ -1,3 +1,53 @@
+Fri, 23 Feb 2024 13:15:02 +0000
+### [As Russia-Ukraine conflict reaches two year mark, it is advantage Putin](https://indianexpress.com/article/opinion/columns/russia-ukraine-conflict-reaches-two-year-mark-it-is-advantage-putin-9177451/)
+
+Article found but Couldn't summarize
+
+Fri, 23 Feb 2024 04:30:57 +0000
+### [CBSE’s open book exam experiment: How to make exams about critical thought, not surveillance and anxiety](https://indianexpress.com/article/opinion/columns/cbses-open-book-exam-experiment-three-things-need-change-9176399/)
+
+Article found but Couldn't summarize
+
+Fri, 23 Feb 2024 01:38:18 +0000
+### [Remembering Ameen Sayani, the man with the golden voice](https://indianexpress.com/article/opinion/columns/remembering-ameen-sayani-the-man-with-the-golden-voice-9176081/)
+
+Article found but Couldn't summarize
+
+Fri, 23 Feb 2024 01:37:08 +0000
+### [Best of Both Sides | Pratinav Anil writes: A mosque in India vs a temple in Pakistan](https://indianexpress.com/article/opinion/columns/best-of-both-sides-pratinav-anil-writes-a-mosque-in-india-vs-a-temple-in-pakistan-9176093/)
+
+Article found but Couldn't summarize
+
+Fri, 23 Feb 2024 01:37:06 +0000
+### [Best of both sides | Shazia Ilmi writes: On Kashi and Mathura, Indian Muslims have the chance to script a change](https://indianexpress.com/article/opinion/columns/best-of-both-sides-shazia-ilmi-writes-on-kashi-and-mathura-indian-muslims-have-the-chance-to-script-a-change-9176092/)
+
+Article found but Couldn't summarize
+
+Fri, 23 Feb 2024 01:36:15 +0000
+### [Pratap Bhanu Mehta writes: On recent Supreme Court verdicts, hold the celebrations](https://indianexpress.com/article/opinion/columns/pratap-bhanu-mehta-writes-on-recent-supreme-court-verdicts-hold-the-celebrations-9176080/)
+
+Article found but Couldn't summarize
+
+Fri, 23 Feb 2024 01:20:19 +0000
+### [February 23, 1984, Forty Years Ago: Israel doesn’t have a pact](https://indianexpress.com/article/opinion/40-years-ago/february-23-1984-forty-years-ago-extremist-violence-9176090/)
+
+Article found but Couldn't summarize
+
+Fri, 23 Feb 2024 01:20:15 +0000
+### [Express View on lawsuit against Tinder, Hinge: Love’s no game](https://indianexpress.com/article/opinion/editorials/express-view-on-lawsuit-against-tinder-hinge-loves-no-game-9176089/)
+
+Article found but Couldn't summarize
+
+Fri, 23 Feb 2024 01:12:40 +0000
+### [Express View: No bail for Manish Sisodia](https://indianexpress.com/article/opinion/editorials/express-view-no-bail-for-manish-sisodia-9176083/)
+
+Article found but Couldn't summarize
+
+Fri, 23 Feb 2024 01:12:36 +0000
+### [Express View on Pakistan elections: Crown of thorns](https://indianexpress.com/article/opinion/editorials/express-view-on-pakistan-elections-crown-of-thorns-9176082/)
+
+Article found but Couldn't summarize
+
 Thu, 22 Feb 2024 12:57:25 +0000
 ### [Upendra Baxi writes: Adieu, Fali, my friend](https://indianexpress.com/article/opinion/columns/fali-nariman-indian-bar-jurist-law-9175713/)
 

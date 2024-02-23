@@ -1,3 +1,15 @@
+Sat, 24 Feb 2024 00:24:00 +0530
+### [X factor: On the X appeal in the Karnataka High Court](https://www.thehindu.com/opinion/editorial/x-factor-on-the-x-appeal-in-the-karnataka-high-court/article67878754.ece)
+
+Article found but Couldn't summarize 
+Courts must act against governments issuing blocking orders on social media content
+
+Sat, 24 Feb 2024 00:10:00 +0530
+### [On the long road: On the INDIA bloc](https://www.thehindu.com/opinion/editorial/on-the-long-road-on-the-india-bloc/article67878792.ece)
+
+Article found but Couldn't summarize 
+Current ground realities, and not past glory, will shape seat adjustments
+
 Fri, 23 Feb 2024 00:20:00 +0530
 ### [The next frontier: On India’s space sector](https://www.thehindu.com/opinion/editorial/the-next-frontier-on-indias-space-sector/article67874992.ece)
 

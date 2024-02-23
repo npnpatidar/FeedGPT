@@ -1,3 +1,38 @@
+Fri, 23 Feb 2024 10:30:35 +0000
+### [Why release of Netflix’s Indrani Mukerjea-Sheena Bora docuseries has been paused](https://indianexpress.com/article/explained/explained-law/indrani-mukerjea-sheena-bora-docuseries-9177137/)
+
+Article found but Couldn't summarize
+
+Fri, 23 Feb 2024 09:37:19 +0000
+### [Sita & Akbar: How names of two lions became the reason for a plea in Calcutta High Court](https://indianexpress.com/article/explained/explained-law/sita-akbar-lions-plea-calcutta-high-court-9177020/)
+
+Article found but Couldn't summarize
+
+Fri, 23 Feb 2024 08:02:08 +0000
+### [First moon-landing by private company: What it means for lunar exploration](https://indianexpress.com/article/explained/explained-sci-tech/odysseus-private-company-moon-landing-9176916/)
+
+Article found but Couldn't summarize
+
+Fri, 23 Feb 2024 06:22:06 +0000
+### [What is the turha, the new election symbol of Sharad Pawar’s NCP?](https://indianexpress.com/article/explained/everyday-explainers/turha-new-election-symbol-sharad-pawar-ncp-9176721/)
+
+Article found but Couldn't summarize
+
+Fri, 23 Feb 2024 05:53:04 +0000
+### [‘The world’s most valuable chipmaker’: How Nvidia saw a 250% surge in revenues amid AI stock rally](https://indianexpress.com/article/explained/explained-sci-tech/nvidia-stocks-most-valuable-chipmaker-ai-rally-9176651/)
+
+Article found but Couldn't summarize
+
+Fri, 23 Feb 2024 02:00:25 +0000
+### [CBSE’s open book exam plan: What is it, why now, how it can impact students](https://indianexpress.com/article/explained/cbses-open-book-exam-plan-what-is-it-why-now-how-it-can-impact-students-9176166/)
+
+Article found but Couldn't summarize
+
+Fri, 23 Feb 2024 01:37:51 +0000
+### [CBI raids places linked to Satya Pal Malik: What is the Kiru Hydel Project, focus of corruption allegations?](https://indianexpress.com/article/explained/cbi-raids-places-linked-to-satya-pal-malik-what-is-the-kiru-hydel-project-focus-of-corruption-allegations-9176159/)
+
+Article found but Couldn't summarize
+
 Thu, 22 Feb 2024 10:51:19 +0000
 ### [Explained: The massive data leak from a Chinese cybersecurity agency, whose targets include India](https://indianexpress.com/article/explained/china-data-leak-surveillance-india-github-9175313/)
 

@@ -1,3 +1,9 @@
+Fri, 23 Feb 2024 08:30:00 +0530
+### [Are Interpol’s notices being politically exploited? | Explained](https://www.thehindu.com/news/international/are-interpols-notices-being-politically-exploited-explained/article67874603.ece)
+
+Article found but Couldn't summarize 
+Are Interpol’s protocols being weaponised to target political dissidents? What steps has it taken to address criticism and enhance oversight of its notice system?
+
 Thu, 22 Feb 2024 08:30:00 +0530
 ### [EU mulls sweeping forced labour | EXPLAINED](https://www.thehindu.com/news/international/eu-mulls-sweeping-forced-labour-explained/article67874251.ece)
 

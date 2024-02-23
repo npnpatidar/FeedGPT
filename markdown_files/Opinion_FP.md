@@ -1,3 +1,63 @@
+Fri, 23 Feb 2024 20:26:21 +0530
+### [Vantage | Why Somalia asked Turkey to defend its territorial waters](https://www.firstpost.com/opinion/vantage-why-somalia-asked-turkey-to-defend-its-territorial-waters-13741325.html)
+
+Article found but Couldn't summarize 
+The deal could "convince" Ethiopia to back down. As Turkey is a NATO member, an attack on one member is an attack on all of NATO
+
+Fri, 23 Feb 2024 19:26:05 +0530
+### [Vantage | What panda-talk says about US-China relations](https://www.firstpost.com/opinion/vantage-what-panda-talk-says-about-us-china-relations-13741310.html)
+
+Article found but Couldn't summarize 
+Panda diplomacy is about the next best thing—laying ground rules of engagement—competing but not fighting—but to do that, you need political maturity. That is not the strong suit of China or the US
+
+Fri, 23 Feb 2024 18:29:57 +0530
+### [Why cementing Election Commission’s credibility is the need of the hour](https://www.firstpost.com/opinion/why-cementing-election-commissions-credibility-is-the-need-of-the-hour-13741274.html)
+
+Article found but Couldn't summarize 
+A strong and independent EC is imperative for preserving the credentials of the world’s largest democracy
+
+Fri, 23 Feb 2024 17:25:13 +0530
+### [Maldives: Joint sea-exercises with India amidst economic crisis, political uncertainty](https://www.firstpost.com/opinion/maldives-joint-sea-exercises-with-india-amidst-economic-crisis-political-uncertainty-13741246.html)
+
+Article found but Couldn't summarize 
+With Male’s participation in Milan, a beginning may have been made for India and Maldives to patch up recent differences
+
+Fri, 23 Feb 2024 16:45:31 +0530
+### [How Kibithoo, India’s first village, shows a shift in geostrategic perception of border space](https://www.firstpost.com/opinion/how-kibithoo-indias-first-village-shows-a-shift-in-geostrategic-perception-of-border-space-13741227.html)
+
+Article found but Couldn't summarize 
+India’s competitiveness in response to China’s infrastructural power along the McMahon Line has unsettled the latter and its expansionist proclivities
+
+Fri, 23 Feb 2024 16:18:41 +0530
+### [Rushing into FTAs in the past without due diligence didn’t serve India well, says Piyush Goyal](https://www.firstpost.com/opinion/rushing-into-ftas-in-the-past-without-due-diligence-didnt-serve-india-well-says-piyush-goyal-13741185.html)
+
+Article found but Couldn't summarize 
+Speaking to Ashok Malik, former policy advisor, ministry of external affairs, who asked the minister why trade negotiations with the UK and the EU are proving more complicated, Goyal said, “we should never rush trade negotiations. These are going to impact the country for years and years to come.”
+
+Fri, 23 Feb 2024 15:45:43 +0530
+### [Vantage | How Nvidia became 'envy' of the world](https://www.firstpost.com/opinion/vantage-how-nvidia-became-envy-of-the-world-13741164.html)
+
+Article found but Couldn't summarize 
+Nvidia is already a Wall Street darling. Its stocks have tripled in value since last year
+
+Fri, 23 Feb 2024 14:31:06 +0530
+### [Radical reform of UN is a necessity but you are only going to get incremental change for now: Jaishankar](https://www.firstpost.com/opinion/radical-reform-of-un-is-a-necessity-but-you-are-only-going-to-get-incremental-change-for-now-jaishankar-13741138.html)
+
+Article found but Couldn't summarize 
+This was by far the most profound observation made by the external affairs minister at a session on whether the Global South and the West may collaborate to rebuild trust in the institutional system
+
+Fri, 23 Feb 2024 12:23:34 +0530
+### [India and Greece: Millennia-old dialogue between two civilisations](https://www.firstpost.com/opinion/india-and-greece-millennia-old-dialogue-between-two-civilisations-13741055.html)
+
+Article found but Couldn't summarize 
+Greek Prime Minister Kyriakos Mitsotakis came to New Delhi along with the business delegation for the two-day visit starting February 21. This was the first head-of-state visit from Greece to India in 15 years
+
+Fri, 23 Feb 2024 11:13:27 +0530
+### [Head-on | From West to India, reversing the brain drain](https://www.firstpost.com/opinion/head-on-from-west-to-india-reversing-the-brain-drain-13741006.html)
+
+Article found but Couldn't summarize 
+The reverse brain drain is set in an India bursting with entrepreneurial energy. The grass is no longer greener on the other side
+
 Thu, 22 Feb 2024 18:52:57 +0530
 ### [Game on: Modi government’s move to regulate and elevate online gaming](https://www.firstpost.com/opinion/game-on-modi-governments-move-to-regulate-and-elevate-online-gaming-13740827.html)
 

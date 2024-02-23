@@ -1,3 +1,99 @@
+Fri, 23 Feb 2024 20:22:59 +0530
+### [How does India's military measure up against China and Pakistan?](https://www.firstpost.com/explainers/how-does-indias-military-measure-up-against-china-and-pakistan-13741268.html)
+
+Article found but Couldn't summarize 
+Global Firepower in its 2024 index put India's military in fourth place and China's at third on its top ten list. Pakistan, meanwhile, was at number 9.  Indian Army chief Manoj Pande has said the army is ready and capable of dealing with 'any situation' along the border
+
+Fri, 23 Feb 2024 19:27:57 +0530
+### [In Graphics | The events that led to the Russia-Ukraine war](https://www.firstpost.com/explainers/in-graphics-the-events-that-led-to-the-russia-ukraine-war-13741296.html)
+
+Article found but Couldn't summarize 
+Russia invaded Ukraine on 24 February 2022. However, the genesis of this war dates back to a long-standing conflict between the two countries. Here's how the two countries, which were once part of the Soviet Union, became enemies
+
+Fri, 23 Feb 2024 18:35:53 +0530
+### [Is the US trying to lure immigrants to join military by offering citizenship?](https://www.firstpost.com/explainers/us-immigrants-join-military-army-american-citizenship-13741234.html)
+
+Article found but Couldn't summarize 
+Two US Congressmen have introduced bipartisan legislation that would provide a quick route to citizenship for immigrants who serve in the military. This comes as the Army, Air Force and Navy failed to meet their recruitment goals last year and amid a surge in immigrants seeking work
+
+Fri, 23 Feb 2024 18:13:49 +0530
+### [World’s largest 4-day workweek trial is complete. Here’s what results say](https://www.firstpost.com/explainers/worlds-largest-4-day-workweek-trial-is-complete-heres-what-the-results-say-13741237.html)
+
+Article found but Couldn't summarize 
+A vast majority of UK companies that participated in allowing their workers to work shorter weeks have made the policy permanent. After the trial, employees reported improved physical and mental health, reduced fatigue, a better work-life balance, and increased overall life satisfaction
+
+Fri, 23 Feb 2024 16:45:47 +0530
+### [How Alabama IVF ruling puts women seeking fertility treatment at risk](https://www.firstpost.com/explainers/alabama-ivf-ruling-fertility-treatment-risk-13741220.html)
+
+Article found but Couldn't summarize 
+Women relying on IVF treatment in Alabama have been left shell-shocked and doctors sent scrambling after three state Supreme Court justices ruled that embryos are children. Experts have come down heavily on the decision while Democrats have attacked Republicans for ‘eliminating a path for people to become parents’
+
+Fri, 23 Feb 2024 16:39:02 +0530
+### [Can cotton candy lead to cancer? Why have some states banned it?](https://www.firstpost.com/explainers/can-cotton-candy-lead-to-cancer-why-have-some-states-banned-it-13741150.html)
+
+Article found but Couldn't summarize 
+Tamil Nadu banned the sale of the popular sugary treat cotton candy last week after lab tests revealed it contains Rhodamine-B, a cancer-causing substance. Taking a cue, Puducherry has also imposed the ban, while other states like Andhra Pradesh and Delhi are mulling over it
+
+Fri, 23 Feb 2024 16:21:58 +0530
+### [Death, Destruction, Despair: Ukraine’s two years of trauma and suffering](https://www.firstpost.com/explainers/russia-ukraine-war-two-years-death-destruction-trauma-suffering-13741175.html)
+
+Article found but Couldn't summarize 
+It has been two years since Russia began its war against Ukraine. Countless lives have been lost while millions of others have had to flee their houses. No one has been spared and the impact of this fighting will be felt for generations to come
+
+Fri, 23 Feb 2024 15:36:15 +0530
+### [Are Britain's beloved 'fish and chips' under threat from Vladimir Putin?](https://www.firstpost.com/explainers/are-britains-beloved-fish-and-chips-under-threat-from-vladimir-putin-13741061.html)
+
+Article found but Couldn't summarize 
+Russia has told the UK to go fish elsewhere after tearing up a 70-year-old agreement that let UK boats access the Barents Sea. The move comes in response to the UK levying sanctions on six individuals who run the Arctic penal colony where Vladimir Putin critic Alexei Navalny died. But are the UK's 'chippies' really in danger?
+
+Fri, 23 Feb 2024 14:33:37 +0530
+### [Insider Trading: How BP employee's husband made millions by snooping on her remote work calls](https://www.firstpost.com/explainers/insider-trading-how-bp-employees-husband-made-millions-by-snooping-on-her-remote-work-calls-13741088.html)
+
+Article found but Couldn't summarize 
+Tyler Loudon, 42, allegedly purchased a total of 46,450 shares in TravelCenters of America Inc. after overhearing his wife’s several remote work calls. When BP officially announced the acquisition, he made a profit of $1.76 million (Rs 14.95 crore). The woman was fired and has filed for divorce
+
+Fri, 23 Feb 2024 13:41:31 +0530
+### [Odysseus touchdown: Why it took 50 years for the US to return to the Moon](https://www.firstpost.com/explainers/odysseus-touchdown-us-50-years-lunar-missions-tough-challenges-13741102.html)
+
+Article found but Couldn't summarize 
+US private company Intuitive Machines has scripted history by becoming the first commercial outfit to place its spacecraft, Odysseus, on the Moon. With this accomplishment, America also returns to the lunar surface after 50 years. But why has it taken so long? What makes Moon missions so challenging?
+
+Fri, 23 Feb 2024 13:40:25 +0530
+### [What are new changes to India's surrogacy law? Whom will it benefit?](https://www.firstpost.com/explainers/india-surrogacy-law-changes-married-couples-benefit-13741101.html)
+
+Article found but Couldn't summarize 
+The Centre has modified the surrogacy rules allowing the use of the egg or the sperm of a donor if the ‘intending couple’ has a medical condition that necessitates it. This comes after the government banned the use of donor gametes last year, leading to dozens of women approaching the Supreme Court against the move
+
+Fri, 23 Feb 2024 12:31:10 +0530
+### [How Ukraine's fate in the third year of war depends largely on the West](https://www.firstpost.com/explainers/russia-ukraine-war-third-year-western-support-13741042.html)
+
+Article found but Couldn't summarize 
+With Ukrainian forces on the back foot, short of ammunition and forced to retreat in some areas, Kyiv's ability to repel Russia's invasion depends heavily on Western military, financial and political backing
+
+Fri, 23 Feb 2024 11:52:06 +0530
+### [How Indian-origin student Akul Dhawan froze to death in US after nightclub denied entry](https://www.firstpost.com/explainers/how-indian-origin-student-akul-dhawan-froze-to-death-in-us-after-nightclub-denied-entry-13740960.html)
+
+Article found but Couldn't summarize 
+An 18-year-old Indian-origin student at Illinois University in the US, died last month on West Nevada Street near a club that refused him re-entry. About 10 hours after he was reported missing, his body was found near the university building. The police say he died of ‘acute alcohol intoxication and prolonged exposure to freezing temperatures’
+
+Fri, 23 Feb 2024 10:52:37 +0530
+### [Why farmers across India are observing ‘Black Day’ today](https://www.firstpost.com/explainers/farmers-black-day-protest-delhi-chalo-march-13741001.html)
+
+Article found but Couldn't summarize 
+Farmers are observing a 'Black Day' today to mourn the death of a protesting farmer on the Punjab-Haryana border. They are also demanding a murder case against Haryana's chief minister Manohar Lal Khattar
+
+Fri, 23 Feb 2024 10:15:27 +0530
+### [Will Byju’s investors fire founder Byju Raveendran from the ed-tech firm today?](https://www.firstpost.com/explainers/byjus-investors-fire-founder-byju-raveendran-ed-tech-firm-troubles-13740975.html)
+
+Article found but Couldn't summarize 
+The fate of Byju Raveendran, founder and CEO of ed-tech giant Byju’s, hangs by a thread. This comes as key shareholders, having a collective stake of over 30 per cent in the company, have called for an extraordinary general meeting today reportedly to oust the founder over allegations of financial mismanagement. But the question is: Will he step down?
+
+Fri, 23 Feb 2024 08:58:18 +0530
+### [Why Asian countries are a big hit among digital nomads](https://www.firstpost.com/explainers/from-japan-to-south-korea-why-asian-countries-are-a-big-hit-among-digital-nomads-13740879.html)
+
+Article found but Couldn't summarize 
+After South Korea, Japan will soon start offering ‘digital nomad’ visas to foreign travellers. Last year, nine of the fastest-growing destinations for such professionals were from Asia. Why is the region becoming a favourite and how do countries benefit?
+
 Fri, 23 Feb 2024 05:00:39 +0530
 ### [FirstUp: PM in Varanasi, India Vs England in Ranchi... The big news today](https://www.firstpost.com/explainers/firstup-pm-narendra-modi-in-varanasi-india-vs-england-ranchi-big-news-today-13740889.html)
 
