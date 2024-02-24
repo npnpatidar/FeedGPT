@@ -1,3 +1,38 @@
+Sat, 24 Feb 2024 11:28:50 +0000
+### [BharatGPT group unveils ‘Hanooman’: Everything you need to know about the Indic AI model](https://indianexpress.com/article/explained/everyday-explainers/bharatgpt-hanooman-ai-model-9178762/)
+
+Article found but Couldn't summarize
+
+Sat, 24 Feb 2024 10:13:14 +0000
+### [Why Maharashtra is exempting private schools from RTE quota admissions](https://indianexpress.com/article/explained/explained-law/maharashtra-exempting-private-schools-rte-quota-9178656/)
+
+Article found but Couldn't summarize
+
+Sat, 24 Feb 2024 07:45:21 +0000
+### [RBI to NPCI: Consider Paytm’s request for TPAP. What is it, how will it benefit users?](https://indianexpress.com/article/explained/explained-economics/rbi-asks-npci-to-consider-paytms-request-for-tpap-9178418/)
+
+Article found but Couldn't summarize
+
+Sat, 24 Feb 2024 07:40:23 +0000
+### [Govt announced Fair and Remunerative Price for sugarcane: How FRP differs from MSP](https://indianexpress.com/article/explained/everyday-explainers/frp-msp-difference-9178410/)
+
+Article found but Couldn't summarize
+
+Sat, 24 Feb 2024 01:38:16 +0000
+### [Russian advance, Ukrainian counteroffensives, and stalemate](https://indianexpress.com/article/explained/explained-global/russian-advance-ukrainian-counteroffensives-stalemate-9177794/)
+
+Article found but Couldn't summarize
+
+Sat, 24 Feb 2024 01:37:13 +0000
+### [An Expert Explains: Russia-Ukraine war, two years on](https://indianexpress.com/article/explained/explained-global/an-expert-explains-russia-ukraine-war-two-years-on-9177793/)
+
+Article found but Couldn't summarize
+
+Sat, 24 Feb 2024 01:35:19 +0000
+### [Donor gametes are allowed: what the new rule on surrogacy says](https://indianexpress.com/article/explained/explained-law/donor-gametes-are-allowed-what-the-new-rule-on-surrogacy-says-9177795/)
+
+Article found but Couldn't summarize
+
 Fri, 23 Feb 2024 10:30:35 +0000
 ### [Why release of Netflix’s Indrani Mukerjea-Sheena Bora docuseries has been paused](https://indianexpress.com/article/explained/explained-law/indrani-mukerjea-sheena-bora-docuseries-9177137/)
 

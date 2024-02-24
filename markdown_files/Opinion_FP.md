@@ -1,3 +1,33 @@
+Sat, 24 Feb 2024 19:16:40 +0530
+### [Telangana Martyrs' Memorial: World's largest stainless steel structure](https://www.firstpost.com/opinion/telangana-martyrs-memorial-worlds-largest-stainless-steel-structure-13741538.html)
+
+Article found but Couldn't summarize 
+The memorial has been built as a tribute to those brave people who gave up their lives over the past five decades for the statehood of Telangana
+
+Sat, 24 Feb 2024 18:26:04 +0530
+### [How rehabilitation of two villages along India-China border is Sardar Patel’s dream fulfilled](https://www.firstpost.com/opinion/how-rehabilitation-of-two-villages-along-india-china-border-is-sardar-patels-dream-fulfilled-13741521.html)
+
+Article found but Couldn't summarize 
+During a visit to the central sector of the Indo-Tibet boundary in Uttarakhand, CDS General Anil Chauhan directed Army formations to work for the rehabilitation of the border villages of Nelang and Jadung, near the Line of Actual Control in Chamoli district
+
+Sat, 24 Feb 2024 15:59:51 +0530
+### [UPI in UAE: The changing face of cross-border payments](https://www.firstpost.com/opinion/upi-in-uae-the-changing-face-of-cross-border-payments-13741488.html)
+
+Article found but Couldn't summarize 
+The need of the hour is to take steps to ensure the security of such banking transactions as threats may arise that need a cooperative and collaborative security model
+
+Sat, 24 Feb 2024 12:43:44 +0530
+### [Vantage | How Afghans are losing their rich heritage and culture to looters](https://www.firstpost.com/opinion/vantage-how-afghans-are-losing-their-rich-heritage-and-culture-to-looters-13741404.html)
+
+Article found but Couldn't summarize 
+Afghanistan's economy has tanked since the Taliban took over, people are looking for ways to make ends meet, and there is a lucrative black market for looted artifacts
+
+Sat, 24 Feb 2024 11:38:33 +0530
+### [Russia-Ukraine war enters third year: Bloody stalemate, no signs of breakthrough](https://www.firstpost.com/opinion/russia-ukraine-war-enters-third-year-bloody-stalemate-no-signs-of-breakthrough-13741393.html)
+
+Article found but Couldn't summarize 
+Kyiv will fight on as long as the US and West continue to support it militarily and financially
+
 Fri, 23 Feb 2024 20:26:21 +0530
 ### [Vantage | Why Somalia asked Turkey to defend its territorial waters](https://www.firstpost.com/opinion/vantage-why-somalia-asked-turkey-to-defend-its-territorial-waters-13741325.html)
 

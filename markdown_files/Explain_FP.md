@@ -1,3 +1,51 @@
+Sat, 24 Feb 2024 18:32:56 +0530
+### [What is chronoworking that could boost employee productivity?](https://www.firstpost.com/explainers/chronoworking-work-trend-boost-employee-productivity-13741534.html)
+
+Article found but Couldn't summarize 
+Chronoworking allows people to adapt their work hours according to their circadian rhythms or body clocks. Coined by writer Ellen Scott, the work health trend ensures the well-being of employees and enhances their performance
+
+Sat, 24 Feb 2024 18:11:56 +0530
+### [How did India join list of top 25 arms exporters?](https://www.firstpost.com/explainers/how-did-india-join-list-of-top-25-arms-exporters-13741532.html)
+
+Article found but Couldn't summarize 
+Rajnath Singh, the chief guest and keynote speaker at the inaugural Firstpost Defence Summit in New Delhi, said India had to step out of its comfort zone to achieve this and Prime Minister Narendra Modi was focusing on long-term gains. India has exported Dornier-228s, 155 mm Advanced Towed Artillery Guns, Brahmos Missiles and Akash Missile System, while six countries are in talks to buy HAL's indigenously manufactured light combat aircraft Tejas
+
+Sat, 24 Feb 2024 15:39:36 +0530
+### [How India is working toward justice for student killed by US cop](https://www.firstpost.com/explainers/jaahnavi-kandula-death-us-cop-kevin-dave-felony-charges-india-next-move-13741463.html)
+
+Article found but Couldn't summarize 
+Prosecutors in Washington let Seattle police officer Kevin Dave, who struck and killed Indian student Jaahnavi Kandula last year, off the hook citing a lack of ‘sufficient’ evidence. The Consulate General of India in Seattle said it will extend all ‘possible support in ensuring justice’ for the 23-year-old and her family
+
+Sat, 24 Feb 2024 13:04:20 +0530
+### [Two years on, the cost of Russia’s war in Ukraine](https://www.firstpost.com/explainers/russia-ukraine-war-two-years-cost-of-invasion-military-casualties-13741326.html)
+
+Article found but Couldn't summarize 
+Russia invaded Ukraine on 24 February 2022. Since then, both sides faced thousands of casualties. Billions have been spent by the US and other allies on aid packages for Kyiv. Two years later, there’s still no end in sight to the conflict
+
+Sat, 24 Feb 2024 12:15:42 +0530
+### [Trump to pay $454 million in NY civil fraud case: What happens if he doesn’t?](https://www.firstpost.com/explainers/donald-trump-pay-454-million-new-york-civil-fraud-case-what-if-he-doesnt-13741398.html)
+
+Article found but Couldn't summarize 
+A New York judge formally ordered Donald Trump on Friday to cough up a penalty of $454 million, including interest, in the civil fraud case. The former US president has 30 days to appeal the verdict. However, he would still need to pay the amount or secure a bond. But what if he can’t?
+
+Sat, 24 Feb 2024 11:06:25 +0530
+### [How India has become 4th largest defence spender in the world](https://www.firstpost.com/explainers/india-fourth-largest-defence-spender-13740911.html)
+
+Article found but Couldn't summarize 
+India is now the fourth largest military spender across the globe. The only countries that rank ahead are the US, China and Russia. Each year, New Delhi has been increasing its defence budget in the wake of rising threats, especially from Pakistan and China
+
+Sat, 24 Feb 2024 10:26:28 +0530
+### [This Week in Explainers: How India joined elite aircraft carrier club](https://www.firstpost.com/explainers/this-week-in-explainers-how-india-joined-elite-aircraft-carrier-club-13741329.html)
+
+Article found but Couldn't summarize 
+Perhaps no other project has been a better example of Prime Minister Narendra Modi's 'Aatmanirbhar' push than the INS VIkrant. But how did India join the elite club comprising the US, the Uk, Italy, France, China and Russia of countries that can make their own carriers? All this and much, much more in our weekly roundup
+
+Sat, 24 Feb 2024 09:06:35 +0530
+### [2 years of Russia-Ukraine war: From fall of Avdiivka to firing of Zaluzhnyi](https://www.firstpost.com/explainers/two-years-of-russia-ukraine-recap-vladimir-putin-zelenskyy-13741273.html)
+
+Article found but Couldn't summarize 
+It’s been two years since Russia invaded Ukraine. As the conflict continues to rage on, we look back at how it has taken shape – the city of Avdiivka was captured by Russians, President Zelenskyy fired his top general and Ukraine awaits military aid from the US
+
 Fri, 23 Feb 2024 20:22:59 +0530
 ### [How does India's military measure up against China and Pakistan?](https://www.firstpost.com/explainers/how-does-indias-military-measure-up-against-china-and-pakistan-13741268.html)
 

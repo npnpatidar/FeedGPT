@@ -1,3 +1,33 @@
+Sun, 25 Feb 2024 03:47:00 +0530
+### [The Global South’s stand on Israel’s war in Gaza | Explained](https://www.thehindu.com/news/international/the-global-south-stand-on-israel-war-in-gaza/article67882845.ece)
+
+Article found but Couldn't summarize 
+What is the International Court of Justice hearing? Why has it divided the West and other countries? Are Brazil and South Africa taking the lead in the Global South in seeking judicial accountability for Israel’s actions? What is India’s stand?
+
+Sun, 25 Feb 2024 03:23:00 +0530
+### [What is the Supreme Court’s interim order on the Forest Act? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/what-is-the-supreme-courts-interim-order-on-the-forest-act-explained/article67882851.ece)
+
+Article found but Couldn't summarize 
+How are forests protected under the Act? What were the changes proposed by the Union government?
+
+Sun, 25 Feb 2024 03:08:00 +0530
+### [Is the Ukraine war changing world order? | Explained](https://www.thehindu.com/news/international/russia-ukraine-war-change-in-global-power-dynamics/article67882861.ece)
+
+Article found but Couldn't summarize 
+Why has the war dragged on for so long? Why is Russia tilting towards Asia and the Global South? Is there a shift in the balance of power? How has Russia worked around sanctions? Has its economy been hit? What about Ukraine? Has its counteroffensives failed?
+
+Sat, 24 Feb 2024 17:31:48 +0530
+### [Google’s pause on Gemini’s ability to generate AI images of people | Explained](https://www.thehindu.com/sci-tech/technology/googles-pause-on-geminis-ability-to-generate-ai-images-of-people-explained/article67881936.ece)
+
+Article found but Couldn't summarize 
+Google announced a pause on Gemini’s ability to generate images. The company further acknowledged that the tool in some cases “overcompensated” when representing a diverse range of people, even when it did not make sense
+
+Sat, 24 Feb 2024 11:32:16 +0530
+### [What is Bitcoin Halving and what it means to the crypto community? | Explained](https://www.thehindu.com/sci-tech/technology/what-is-bitcoin-halving-and-what-it-means-to-the-crypto-community-explainer/article67881278.ece)
+
+Article found but Couldn't summarize 
+The next Bitcoin Halving is due to take place around April this year. What is the significance of this event and why does it matter to cryptocurrency investors?
+
 Fri, 23 Feb 2024 08:30:00 +0530
 ### [Are Interpol’s notices being politically exploited? | Explained](https://www.thehindu.com/news/international/are-interpols-notices-being-politically-exploited-explained/article67874603.ece)
 

@@ -1,3 +1,15 @@
+Sat, 24 Feb 2024 14:56:43 +0530
+### [How mutual funds are tapping into the bull market](https://www.livemint.com/opinion/columns/how-mutual-funds-are-tapping-into-the-bull-market-11708684459917.html)
+
+Article found but Couldn't summarize 
+The promise of a theme to continue delivering stupendous returns is just too great to be diluted by historical facts. To an investor, it’s always different this time around. Unfortunately, the results are often the same i.e., underperformance.
+
+Sat, 24 Feb 2024 10:00:08 +0530
+### [Don’t give AI free access to work denied to humans, argues a legal scholar](https://www.livemint.com/opinion/dont-give-ai-free-access-to-work-denied-to-humans-argues-a-legal-scholar-11708746957037.html)
+
+Article found but Couldn't summarize 
+Ben Sobel thinks lawsuits from rights-holders could reshape copyright law for the better
+
 Fri, 23 Feb 2024 12:30:49 +0530
 ### [Can Perplexity do to Google what Microsoft did to IBM back in the day?](https://www.livemint.com/opinion/online-views/can-perplexity-do-to-google-what-microsoft-had-done-to-ibm-back-in-the-day-11708668951872.html)
 
