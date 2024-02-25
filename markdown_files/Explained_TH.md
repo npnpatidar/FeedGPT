@@ -1,3 +1,15 @@
+Sun, 25 Feb 2024 22:14:44 +0530
+### [Why were the surrogacy rules modified? | Explained](https://www.thehindu.com/news/national/why-were-the-surrogacy-rules-modified-explained/article67885927.ece)
+
+Article found but Couldn't summarize 
+Why was the Surrogacy (Regulation) Rules, 2022 challenged? What does the new amendment stipulate? Why were the modifications deemed necessary by the Supreme Court? Can single unmarried women also avail of the same relief?
+
+Sun, 25 Feb 2024 17:21:47 +0530
+### [How hike in Fair and Remunerative Price for sugarcane will affect farmers and sugar mills | Explained](https://www.thehindu.com/news/national/sugarcane-fair-and-remunerative-price-frp-hike-how-does-it-affect-msp-farmers/article67879394.ece)
+
+Article found but Couldn't summarize 
+As Centre hikes of sugarcane FRP amid farmers protest, problems plaguing sugar industry remain unsolved. Here’s a look at what FRP is, how it affects MSP and the ongoing protests
+
 Sun, 25 Feb 2024 03:47:00 +0530
 ### [The Global South’s stand on Israel’s war in Gaza | Explained](https://www.thehindu.com/news/international/the-global-south-stand-on-israel-war-in-gaza/article67882845.ece)
 

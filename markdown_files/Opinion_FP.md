@@ -1,3 +1,27 @@
+Sun, 25 Feb 2024 18:16:19 +0530
+### [From Bombay to Berlin: How Devika Rani was influenced by Marlene Dietrich](https://www.firstpost.com/opinion/from-bombay-to-berlin-how-devika-rani-was-influenced-by-marlene-dietrich-13741728.html)
+
+Article found but Couldn't summarize 
+Exploring the profound connection between India and Germany, united by shared love for cinema and culture
+
+Sun, 25 Feb 2024 17:04:47 +0530
+### [Book Review | Diverse shades of Assamese Identity through its history, cuisine and culture](https://www.firstpost.com/opinion/book-review-diverse-shades-of-assamese-identity-through-its-history-cuisine-and-culture-13741690.html)
+
+Article found but Couldn't summarize 
+With a mix of journalistic and academic approaches, the author creates a readable and enjoyable work that goes beyond the well-known facets of Assam, presenting a nuanced and inclusive portrayal of the Assamese people
+
+Sun, 25 Feb 2024 16:59:34 +0530
+### [China’s Uyghur forced labour practice dents global industries invested in Xinjiang](https://www.firstpost.com/opinion/chinas-uyghur-forced-labour-practice-dents-global-industries-invested-in-xinjiang-13741701.html)
+
+Article found but Couldn't summarize 
+Even though China continues to deny these allegations to be ‘absurd’ and justifies its modern slavery in the name of its ‘counterterrorism’ measures, the international community has taken due note of this discriminatory practice the global capitalist system is unknowingly affiliated with
+
+Sun, 25 Feb 2024 14:46:35 +0530
+### [The world is losing interest in Ukraine](https://www.firstpost.com/opinion/the-world-is-losing-interest-in-ukraine-13741681.html)
+
+Article found but Couldn't summarize 
+Pictures of the destroyed town, Avdiivka, captured by Russian forces recently, are missing from social media sites, while damages to hospitals of Gaza are prominent
+
 Sat, 24 Feb 2024 19:16:40 +0530
 ### [Telangana Martyrs' Memorial: World's largest stainless steel structure](https://www.firstpost.com/opinion/telangana-martyrs-memorial-worlds-largest-stainless-steel-structure-13741538.html)
 

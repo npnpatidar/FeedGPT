@@ -1,3 +1,28 @@
+Sun, 25 Feb 2024 10:22:34 +0000
+### [3 ways in which the newly amended Electricity Rules boost rooftop solar power; empower consumers & EV owners](https://indianexpress.com/article/explained/explained-economics/new-amended-electricity-rules-rooftop-solar-consumers-ev-9180002/)
+
+Article found but Couldn't summarize
+
+Sun, 25 Feb 2024 09:09:22 +0000
+### [Congress alleges I-T Dept withdrew 65cr from its accounts: Do political parties have to pay Income tax?](https://indianexpress.com/article/explained/explained-politics/political-parties-congress-exempt-income-tax-9179802/)
+
+Article found but Couldn't summarize
+
+Sun, 25 Feb 2024 06:07:11 +0000
+### [Five questions the Household Consumption Expenditure Survey 2022-23 answers](https://indianexpress.com/article/explained/explained-economics/household-consumption-expenditure-survey-2022-23-9179539/)
+
+Article found but Couldn't summarize
+
+Sun, 25 Feb 2024 01:07:28 +0000
+### [Why has the Assam government decided to repeal the state’s Muslim Marriage Act?](https://indianexpress.com/article/explained/explained-politics/assam-government-repeal-muslim-marriage-act-9179070/)
+
+Article found but Couldn't summarize
+
+Sun, 25 Feb 2024 00:31:40 +0000
+### [PM inaugurates Signature Bridge in Gujarat: All about India’s longest cable-stayed bridge](https://indianexpress.com/article/explained/narendra-modi-inaugurate-gujarat-sudarshan-setu-signature-bridge-9179281/)
+
+Article found but Couldn't summarize
+
 Sat, 24 Feb 2024 11:28:50 +0000
 ### [BharatGPT group unveils ‘Hanooman’: Everything you need to know about the Indic AI model](https://indianexpress.com/article/explained/everyday-explainers/bharatgpt-hanooman-ai-model-9178762/)
 

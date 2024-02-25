@@ -1,3 +1,15 @@
+Sun, 25 Feb 2024 10:19:36 +0530
+### [Your smartwatch can keep track of health but it isn’t a medical device. Here’s why](https://www.firstpost.com/explainers/your-smartwatch-can-keep-track-of-health-but-it-isnt-a-medical-device-heres-why-13741387.html)
+
+Article found but Couldn't summarize 
+Your smartwatch can log calories. And as you doze off, they might pick up instances of apnoea. But don’t confuse health tips with medical advice. Device and app developers have made it clear that their products cannot replace a professional medical doctor’s advice or treatment
+
+Sun, 25 Feb 2024 10:15:12 +0530
+### [This Week in Explainers: Can paracetamol cause liver damage?](https://www.firstpost.com/explainers/this-week-in-explainers-can-paracetamol-cause-liver-damage-13741271.html)
+
+Article found but Couldn't summarize 
+When sick, we most often resort to taking paracetamol. However, a new study has revealed that the popular painkiller could cause damage to our livers. We explain this and more in our weekly roundup
+
 Sat, 24 Feb 2024 18:32:56 +0530
 ### [What is chronoworking that could boost employee productivity?](https://www.firstpost.com/explainers/chronoworking-work-trend-boost-employee-productivity-13741534.html)
 

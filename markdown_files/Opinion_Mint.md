@@ -1,3 +1,33 @@
+Mon, 26 Feb 2024 01:14:58 +0530
+### [Semaglutide and the wild democratization of thinness](https://www.livemint.com/opinion/online-views/semaglutide-and-the-wild-democratization-of-thinness-11708857077499.html)
+
+Article found but Couldn't summarize 
+What is the consequence of simplification? Of something that used to be very difficult becoming easy?
+
+Mon, 26 Feb 2024 01:07:44 +0530
+### [We can’t hope to attain Keynes’ equitable society without policy intervention](https://www.livemint.com/opinion/online-views/we-can-t-hope-to-attain-keynes-equitable-society-without-policy-intervention-11708856768787.html)
+
+Article found but Couldn't summarize 
+Greed and competitiveness have led to enormous disparities but fiscal policy-led redistribution could yet play a corrective role.
+
+Mon, 26 Feb 2024 01:02:25 +0530
+### [Beware of political deepfakes: Don't let them take over our minds](https://www.livemint.com/opinion/online-views/beware-of-political-deepfakes-dont-let-them-take-over-our-minds-11708856802133.html)
+
+Article found but Couldn't summarize 
+Thorough research, fact-checking and unbiased analysis must guide our political choices. In the age of AI, people should exercise what Kahneman calls slow thinking.
+
+Mon, 26 Feb 2024 00:59:58 +0530
+### [We the People versus They the State: Our rights matter](https://www.livemint.com/opinion/online-views/we-the-people-versus-they-the-state-our-rights-matter-11708856858763.html)
+
+Article found but Couldn't summarize 
+A systematic overhaul is needed to place individual rights over those of the state or corporates.
+
+Sun, 25 Feb 2024 16:02:24 +0530
+### [How the nod to critical pesticides will bolster India's agricultural progress](https://www.livemint.com/opinion/first-person/how-the-nod-to-critical-pesticides-will-bolster-indias-agricultural-progress-11708334693392.html)
+
+Article found but Couldn't summarize 
+The use of these 24 pesticides could boost yield, enhance farmer incomes, guarantee food security, and vastly expand the scope of its farm sector’s export potential
+
 Sat, 24 Feb 2024 14:56:43 +0530
 ### [How mutual funds are tapping into the bull market](https://www.livemint.com/opinion/columns/how-mutual-funds-are-tapping-into-the-bull-market-11708684459917.html)
 
