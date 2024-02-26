@@ -5,6 +5,15 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Opinion_IE.xml</link>
 		<description>Opinion IE</description>
 		<item>
+			<title>Protecting people’s privacy is essential to maintaining democracy</title>
+			<link>https://indianexpress.com/article/opinion/columns/protecting-peoples-privacy-is-essential-to-maintaining-democracy-9180630/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Sun, 25 Feb 2024 23:25:10 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/02/oiped.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/02/oiped.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Vandita Mishra writes: A good week for the Opposition</title>
 			<link>https://indianexpress.com/article/opinion/columns/bjp-opposition-lok-sabha-elections-2024-9180414/</link>
 			<description>Article found but Couldn't summarize</description>

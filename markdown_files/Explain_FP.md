@@ -1,3 +1,9 @@
+Mon, 26 Feb 2024 05:00:16 +0530
+### [FirstUp: SKM to hold tractor march, Rahul Gandhi to speak at Cambridge… The news today](https://www.firstpost.com/explainers/firstup-skm-to-hold-tractor-march-rahul-gandhi-to-speak-at-cambridge-the-news-today-13741724.html)
+
+Article found but Couldn't summarize 
+The Samyukta Kisan Morcha (SKM) will undertake a tractor rally across the country today, in support of farmers and their demands. Congress leader Rahul Gandhi will be travelling to the UK to deliver special lectures at Cambridge University. Here’s what else to expect today
+
 Sun, 25 Feb 2024 10:19:36 +0530
 ### [Your smartwatch can keep track of health but it isn’t a medical device. Here’s why](https://www.firstpost.com/explainers/your-smartwatch-can-keep-track-of-health-but-it-isnt-a-medical-device-heres-why-13741387.html)
 

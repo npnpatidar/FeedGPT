@@ -1,3 +1,8 @@
+Sun, 25 Feb 2024 23:25:10 +0000
+### [Protecting people’s privacy is essential to maintaining democracy](https://indianexpress.com/article/opinion/columns/protecting-peoples-privacy-is-essential-to-maintaining-democracy-9180630/)
+
+Article found but Couldn't summarize
+
 Sun, 25 Feb 2024 14:27:20 +0000
 ### [Vandita Mishra writes: A good week for the Opposition](https://indianexpress.com/article/opinion/columns/bjp-opposition-lok-sabha-elections-2024-9180414/)
 
