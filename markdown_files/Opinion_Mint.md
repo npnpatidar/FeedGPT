@@ -1,3 +1,57 @@
+Mon, 26 Feb 2024 23:46:37 +0530
+### [Climate action: Delhi may have ideas worthy of wide emulation](https://www.livemint.com/opinion/online-views/climate-action-delhi-may-have-ideas-worthy-of-wide-emulation-11708958449607.html)
+
+Article found but Couldn't summarize 
+The city-state's climate action policies have attracted attention for ideas that favour an equitable transition to clean energy.
+
+Mon, 26 Feb 2024 23:45:31 +0530
+### [The ‘gamification’ of Indian equities poses macro and market threats](https://www.livemint.com/opinion/online-views/the-gamification-of-indian-equities-poses-macro-and-market-threats-11708948128202.html)
+
+Article found but Couldn't summarize 
+India’s staggeringly large retail participation in high-risk derivatives trading calls for the use of risk-curbing disincentives. Here is what should be done.
+
+Mon, 26 Feb 2024 23:43:25 +0530
+### [Missing in action: America ought to help revive and reinvent the WTO](https://www.livemint.com/opinion/online-views/missing-in-action-america-ought-to-help-revive-and-reinvent-the-wto-11708948171618.html)
+
+Article found but Couldn't summarize 
+The Trump and Biden administrations have neglected world trade, but an international trade body is vital for the cooperation needed to address the collective challenges we all face.
+
+Mon, 26 Feb 2024 23:42:08 +0530
+### [Deflation: China’s latest export has gathered strength](https://www.livemint.com/opinion/online-views/deflation-china-s-latest-export-has-gathered-strength-11708948220752.html)
+
+Article found but Couldn't summarize 
+Goods prices are softening while those of services harden in a global situation that’s unprecedented.
+
+Mon, 26 Feb 2024 16:09:38 +0530
+### [An investing mistake I made, which I do not plan on repeating](https://www.livemint.com/opinion/columns/an-investing-mistake-i-made-which-i-do-not-plan-on-repeating-11708941972680.html)
+
+Article found but Couldn't summarize 
+Tax loss harvesting can significantly boost your returns. Embrace this strategy to optimize your tax outgo and enhance your portfolio's performance.
+
+Mon, 26 Feb 2024 11:25:11 +0530
+### [Grasim’s big-ticket paints entry adds new colour to the stock](https://www.livemint.com/opinion/online-views/grasims-big-ticket-paints-entry-adds-new-colour-to-the-stock-11708923948547.html)
+
+Article found but Couldn't summarize 
+The move into the paints sector is seen as a strategic gamble by Grasim to capture significant market share in a competitive industry, likely leading to a rerating of the Grasim stock
+
+Mon, 26 Feb 2024 08:00:12 +0530
+### [Lessons on hyper-diversity from the people of Papua New Guinea](https://www.livemint.com/opinion/online-views/lessons-on-hyper-diversity-from-the-people-of-papua-new-guinea-11708857026860.html)
+
+Article found but Couldn't summarize 
+Its challenge is to leapfrog its hundreds of small societies into one big Papua New Guinean one.
+
+Mon, 26 Feb 2024 08:00:11 +0530
+### [Abu Dhabi conclave: The WTO must double down on climate talks](https://www.livemint.com/opinion/online-views/abu-dhabi-conclave-the-wto-must-double-down-on-climate-talks-11708856965869.html)
+
+Article found but Couldn't summarize 
+Trade cannot be kept apart from climate action anymore. The WTO must work on fixing its dispute resolution mechanism, but mustn’t lose time on working out a deal that ensures fair trade and climate action aren’t at odds. It’s time to talk about carbon markets.
+
+Mon, 26 Feb 2024 08:00:11 +0530
+### [Byju's: Battle for control](https://www.livemint.com/opinion/quick-edit/byjus-battle-for-control-11708857175255.html)
+
+Article found but Couldn't summarize 
+Investors called an extraordinary general meeting to oust founder CEO Byju Raveendran and edtech firm’s board, but it hasn’t happened. The EGM’s validity was taken to court.
+
 Mon, 26 Feb 2024 01:14:58 +0530
 ### [Semaglutide and the wild democratization of thinness](https://www.livemint.com/opinion/online-views/semaglutide-and-the-wild-democratization-of-thinness-11708857077499.html)
 

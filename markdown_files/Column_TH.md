@@ -1,3 +1,8 @@
+Sun, 25 Feb 2024 21:06:27 +0530
+### [Political Line | Glories of our past — two notions that shape our present](https://www.thehindu.com/opinion/columns/glories-of-our-past-two-notions-that-shape-our-present/article67885719.ece)
+
+Article found but Couldn't summarize
+
 Thu, 15 Feb 2024 08:43:46 +0530
 ### [Column | Gulkhand and a clouded mind](https://www.thehindu.com/opinion/columns/saba-mahjoor-bipolar-disorder-phuphee-mental-health-gulkhand-clouded-mind/article67841539.ece)
 

@@ -1,3 +1,27 @@
+Tue, 27 Feb 2024 04:00:00 +0530
+### [Are ‘colour molecules’ the key to a room-temperature quantum computer?](https://www.thehindu.com/sci-tech/science/room-temperature-qubits-chromophores/article67887637.ece)
+
+Article found but Couldn't summarize 
+Many different physical systems are suitable for use as qubits in a quantum computer, but most of them do so only at a very low temperature. Researchers are working on alternative, simpler technologies to reduce costs. Less expensive technologies will allow more participation in this research frontier
+
+Mon, 26 Feb 2024 22:29:21 +0530
+### [What is the latest row between Trump and NATO? | Explained](https://www.thehindu.com/news/international/what-is-the-latest-row-between-trump-and-nato-explained/article67889557.ece)
+
+Article found but Couldn't summarize 
+Is this the first time the former U.S. President is raising questions about NATO’s defence spending?
+
+Mon, 26 Feb 2024 11:11:48 +0530
+### [Why green activists and visitors to Cubbon Park are worried about the health of this Bengaluru lung space](https://www.thehindu.com/news/cities/bangalore/why-green-activists-and-visitors-to-cubbon-park-are-worried-about-the-health-of-this-bengaluru-lung-space/article67857505.ece)
+
+Article found but Couldn't summarize 
+Bengaluru Traffic Police have, on a trial basis, allowed vehicular movement inside Cubbon Park on second and fourth Saturdays, which was earlier banned. Walkers and regular users of the park are opposed to it, while traffic police argue that it is unavoidable. This is only one of the several issues related to Cubbon Park that have been raised by green activists
+
+Mon, 26 Feb 2024 08:30:00 +0530
+### [Can the IMEC address the Red Sea crisis? | Explained](https://www.thehindu.com/news/international/can-the-imec-address-the-red-sea-crisis-explained/article67885961.ece)
+
+Article found but Couldn't summarize 
+How important is the Red Sea trading route to India? Has China offered an alternative route?
+
 Sun, 25 Feb 2024 22:14:44 +0530
 ### [Why were the surrogacy rules modified? | Explained](https://www.thehindu.com/news/national/why-were-the-surrogacy-rules-modified-explained/article67885927.ece)
 

@@ -1,3 +1,15 @@
+Tue, 27 Feb 2024 00:30:00 +0530
+### [Old beginning: On Pakistan politics](https://www.thehindu.com/opinion/editorial/old-beginning-the-hindu-editorial-on-pakistan-politics/article67888291.ece)
+
+Article found but Couldn't summarize 
+Shehbaz Sharif’s political difficulties are compounded by the economic crisis
+
+Tue, 27 Feb 2024 00:15:00 +0530
+### [Home run: On the Indian Test win](https://www.thehindu.com/opinion/editorial/home-run-the-hindu-editorial-on-the-indian-test-win/article67888314.ece)
+
+Article found but Couldn't summarize 
+England’s Bazball challenged India at home, but it was clearly the better team
+
 Mon, 26 Feb 2024 00:20:00 +0530
 ### [At the high table: On the Raisina Dialogue](https://www.thehindu.com/opinion/editorial/at-high-table-on-the-raisina-dialogue/article67885118.ece)
 

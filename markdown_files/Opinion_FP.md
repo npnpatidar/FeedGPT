@@ -1,3 +1,33 @@
+Mon, 26 Feb 2024 19:18:58 +0530
+### [India only buys Russian oil, West helps make weapons that kill Ukrainians](https://www.firstpost.com/opinion/india-only-buys-russian-oil-west-helps-make-weapons-that-kill-ukrainians-13742071.html)
+
+Article found but Couldn't summarize 
+America has questioned India’s imports of Russian crude but hasn’t stopped its companies from supplying critical weapons components to third countries that export them to Russia
+
+Mon, 26 Feb 2024 19:12:46 +0530
+### [Weather report: Cyclone in early March may damage crops in north India](https://www.firstpost.com/opinion/weather-report-cyclone-in-early-march-to-damage-crops-in-north-india-13742136.html)
+
+Article found but Couldn't summarize 
+Widespread rains and hailstorms will occur in Punjab, Haryana, Chandigarh, Rajasthan, and Uttar Pradesh between the night of March 1 and the early morning hours of March 3
+
+Mon, 26 Feb 2024 17:36:34 +0530
+### [Civilisational partners: Strategic affinities strengthen India and Greece ties](https://www.firstpost.com/opinion/civilisational-partners-strategic-affinities-strengthen-india-and-greece-ties-13742111.html)
+
+Article found but Couldn't summarize 
+Active participation by Greece in the IMEC corridor, defence and security cooperation, and the Migration and Mobility Partnership Agreement have the potential to take New Delhi-Athens bilateral ties to new heights
+
+Mon, 26 Feb 2024 14:29:22 +0530
+### [Third year of Russia-Ukraine war: Can NATO prevent tides turning in Moscow’s favour?](https://www.firstpost.com/opinion/third-year-of-russia-ukraine-war-can-nato-prevent-tides-turning-in-moscows-favour-13741971.html)
+
+Article found but Couldn't summarize 
+NATO doesn’t want to lose face by stopping the war at a point where it looks embarrassed and defeated by Putin, so it will find the hopeless continuation of the war a better face-saver
+
+Mon, 26 Feb 2024 08:38:16 +0530
+### [Exclusive | President Muizzu is immature but even he can’t harm India-Maldives bond: Mariya Didi](https://www.firstpost.com/opinion/exclusive-president-muizzu-is-immature-but-even-he-cant-harm-india-maldives-bond-mariya-didi-13741764.html)
+
+Article found but Couldn't summarize 
+The beleaguered president is slowly coming back to his senses, says the former defence minister in an interview
+
 Sun, 25 Feb 2024 18:16:19 +0530
 ### [From Bombay to Berlin: How Devika Rani was influenced by Marlene Dietrich](https://www.firstpost.com/opinion/from-bombay-to-berlin-how-devika-rani-was-influenced-by-marlene-dietrich-13741728.html)
 

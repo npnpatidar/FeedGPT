@@ -1,3 +1,81 @@
+Mon, 26 Feb 2024 21:28:29 +0530
+### [The Heir Apparent Rises: How Maryam Nawaz became the first woman CM of a Pakistan province](https://www.firstpost.com/explainers/the-heir-apparent-rises-how-maryam-nawaz-became-the-first-woman-cm-of-a-pakistan-province-13742179.html)
+
+Article found but Couldn't summarize 
+Maryam Nawaz, 50, has been elected the first woman chief minister of Punjab province — the post previously held by her father Nawaz and uncle Shehbaz which has long been a stepping stone to the prime minister's office. Experts say that Maryam's rise may not be a win for women empowerment, but it certainly is a landmark event in the country's history
+
+Mon, 26 Feb 2024 19:28:45 +0530
+### [How are Indians spending their money and why it matters](https://www.firstpost.com/explainers/how-are-indians-spending-their-money-and-why-it-matters-13742164.html)
+
+Article found but Couldn't summarize 
+The Household Consumption Expenditure Survey (HCES) was conducted by the National Sample Survey Office from August 2022 to July 2023. It shows Indians are spending less on staples such as rice and wheat and spending more on processed food and durables such as televisions and fridges
+
+Mon, 26 Feb 2024 18:27:47 +0530
+### [Explained: Why Bangladesh court halted adoption of endangered wild elephants](https://www.firstpost.com/explainers/explained-why-bangladesh-court-halted-adoption-of-endangered-wild-elephants-13742134.html)
+
+Article found but Couldn't summarize 
+The Bangladesh High Court  on Sunday granted legal protection to Bangladesh's endangered wild elephants. Poaching and habitat loss has seen Bangladesh's Asian elephant population dwindle due to around 200 — nearly half of whom are in captivity
+
+Mon, 26 Feb 2024 17:09:18 +0530
+### [Explained: Why India has stopped flow of Ravi water to Pakistan](https://www.firstpost.com/explainers/explained-why-india-has-stopped-flow-of-ravi-water-to-pakistan-13742068.html)
+
+Article found but Couldn't summarize 
+Work on the Shahpurkandi dam on the Ravi river in Punjab is completed after a delay of several years. This construction, which was first ideated in 1979, will help in halting the water being diverted to Pakistan and provide more to Jammu & Kashmir for irrigation purposes
+
+Mon, 26 Feb 2024 17:01:05 +0530
+### [Big Boss is Watching: How US companies are using AI to snoop on employees](https://www.firstpost.com/explainers/big-boss-is-watching-how-us-companies-are-using-ai-to-snoop-on-employees-13742097.html)
+
+Article found but Couldn't summarize 
+Walmart, Delta, T-Mobile, Chevron and Starbucks are among US firms using software from start-up company Aware to monitor employees’ conversations on Slack and Microsoft Teams. Experts say this is a troubling development that raises questions about privacy and workers' rights
+
+Mon, 26 Feb 2024 16:17:26 +0530
+### [Who is ‘Dirty Harry’, desi man accused of smuggling Indian families to US?](https://www.firstpost.com/explainers/dirty-harry-indian-origin-man-accused-of-smuggling-indian-families-to-the-us-13741874.html)
+
+Article found but Couldn't summarize 
+Harshkumar Patel, who goes by the moniker ‘Dirty Harry’, is a Florida resident charged for human trafficking. He is linked to a case of an Indian family from Gujarat, which froze to death on the Canadian side of the border with the US
+
+Mon, 26 Feb 2024 15:10:01 +0530
+### [What is India’s agenda at the WTO ministerial conference in Doha?](https://www.firstpost.com/explainers/india-agenda-wto-minister-conference-doha-13741967.html)
+
+Article found but Couldn't summarize 
+The 13th Ministerial Conference (MC13),  the highest decision-making body of the World Trade Organisation, will see 164 trade ministers gather in Doha. From concessions on farm subsidies to special fishing rights for developed nations here's what India is likely to push. Experts say that while negotiators remain hopeful, international cooperation is 'in bad shape'
+
+Mon, 26 Feb 2024 14:06:12 +0530
+### [Ship in quarantine off Mauritius coast: Why cruise liners are hotbeds for infections](https://www.firstpost.com/explainers/ship-quarantine-mauritius-coast-cruise-liners-hotbeds-infection-norovirus-13741911.html)
+
+Article found but Couldn't summarize 
+Norwegian Dawn, a cruise ship, with over 3,000 people on board is stranded off the coast of Mauritius as authorities refused to let it dock after a mystery illness on board. This is not the first time such an incident has happened — in the first six months of 2023, there were at least 13 infectious outbreaks recorded on vessels
+
+Mon, 26 Feb 2024 12:37:30 +0530
+### [How an Indian woman lost her savings to fraudster on dating app](https://www.firstpost.com/explainers/indian-woman-us-lost-rs-4-crore-dating-app-hinge-pig-butchering-13741872.html)
+
+Article found but Couldn't summarize 
+Charmed by his flirtatious banter and promises of financial prosperity, Shreya Datta, an Indian software professional in the US, was scammed by a man on Hinge. It cost her $450,000 (Rs 3.73 crore) and left her traumatised. Here’s her story
+
+Mon, 26 Feb 2024 11:52:02 +0530
+### [How a 23-year-old from Gujarat landed in the Russia war zone and was killed](https://www.firstpost.com/explainers/how-a-23-year-old-from-gujarat-landed-in-the-russia-war-zone-and-was-killed-13741865.html)
+
+Article found but Couldn't summarize 
+Hemil Ashvinbhai Mangukiya, a 23-year-old who worked as a ‘helper’ in the Russian army, was killed in a Ukrainian airstrike in the Donetsk region on 21 February. The family is now requesting the Indian government to talk to Russian authorities to return the body
+
+Mon, 26 Feb 2024 11:24:01 +0530
+### [How a single clue led to the arrest of a SIMI terrorist after 22-year manhunt](https://www.firstpost.com/explainers/clue-arrest-simi-terrorist-hanif-sheikh-22-year-manhunt-13741808.html)
+
+Article found but Couldn't summarize 
+Hanif Sheikh, an elusive member of the Students’ Islamic Movement of India (SIMI), was arrested from Bhusawal in Maharashtra’s Jalgaon district by the Delhi Police on 22 February. On the run from the cops since 2001, he was working as a teacher in an Urdu school under a different identity
+
+Mon, 26 Feb 2024 10:02:51 +0530
+### [How Donald Trump scored a win over Nikki Haley in her home state of South Carolina](https://www.firstpost.com/explainers/donald-trump-win-nikki-haley-south-carolina-primaries-us-presidential-election-13741817.html)
+
+Article found but Couldn't summarize 
+Despite having already secured a string of primary victories, it was crucial for Donald Trump to win South Carolina. Here's how the former US president defeated his rival Nikki Haley on her home turf
+
+Mon, 26 Feb 2024 09:48:11 +0530
+### [Who was Nafe Singh Rathee, the INLD Haryana chief, who was gunned down in Jhajjar?](https://www.firstpost.com/explainers/nafe-singh-rathee-inld-haryana-chief-gunned-down-jhajjar-13741809.html)
+
+Article found but Couldn't summarize 
+Nafe Singh Rathee and one of his private security team members were killed on Sunday when unidentified assailants opened fire at the car in which he was travelling in Haryana’s Jhajjar district. A two-time MLA of the Indian National Lok Dal, he was receiving death threats in the past, with the party claiming that he had been given no police protection
+
 Mon, 26 Feb 2024 05:00:16 +0530
 ### [FirstUp: SKM to hold tractor march, Rahul Gandhi to speak at Cambridge… The news today](https://www.firstpost.com/explainers/firstup-skm-to-hold-tractor-march-rahul-gandhi-to-speak-at-cambridge-the-news-today-13741724.html)
 

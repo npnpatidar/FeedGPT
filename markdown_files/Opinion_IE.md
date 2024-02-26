@@ -1,3 +1,48 @@
+Mon, 26 Feb 2024 11:09:38 +0000
+### [Indian politics is increasingly run by muscle and money — data proves it](https://indianexpress.com/article/opinion/columns/indian-politics-muscle-money-data-9181751/)
+
+Article found but Couldn't summarize
+
+Mon, 26 Feb 2024 10:22:02 +0000
+### [Sanjay Srivastava writes: Byju’s fall and the failure of fast-food education](https://indianexpress.com/article/opinion/columns/byjus-fall-fast-food-education-failure-9181664/)
+
+Article found but Couldn't summarize
+
+Mon, 26 Feb 2024 09:44:19 +0000
+### [What those offended by divine names for animals don’t understand about Hinduism](https://indianexpress.com/article/opinion/columns/offended-by-divine-names-for-animals-dont-understand-hinduism-9181532/)
+
+Article found but Couldn't summarize
+
+Mon, 26 Feb 2024 02:30:53 +0000
+### [Why the Opposition is in a corner of its own making](https://indianexpress.com/article/opinion/columns/why-the-opposition-is-in-a-corner-of-its-own-making-9180625/)
+
+Article found but Couldn't summarize
+
+Mon, 26 Feb 2024 02:00:40 +0000
+### [How to bridge the North-South divide](https://indianexpress.com/article/opinion/columns/how-to-bridge-the-north-south-divide-9180650/)
+
+Article found but Couldn't summarize
+
+Mon, 26 Feb 2024 01:58:34 +0000
+### [Express View: CBSE’s decision to experiment with open book format is welcome](https://indianexpress.com/article/opinion/editorials/express-view-cbses-decision-to-experiment-with-open-book-format-is-welcome-9180706/)
+
+Article found but Couldn't summarize
+
+Mon, 26 Feb 2024 01:40:56 +0000
+### [Political parties cannot be a family business](https://indianexpress.com/article/opinion/columns/political-parties-cannot-be-a-family-business-9180663/)
+
+Article found but Couldn't summarize
+
+Mon, 26 Feb 2024 01:34:21 +0000
+### [Express View: Consumption expenditure survey is necessary to fill data vacuum in India](https://indianexpress.com/article/opinion/editorials/express-view-consumption-expenditure-survey-is-necessary-to-fill-data-vacuum-in-india-9180686/)
+
+Article found but Couldn't summarize
+
+Mon, 26 Feb 2024 01:30:39 +0000
+### [February 26, Forty Years Ago: President’s request](https://indianexpress.com/article/opinion/40-years-ago/february-26-forty-years-ago-presidents-request-9180685/)
+
+Article found but Couldn't summarize
+
 Sun, 25 Feb 2024 23:25:10 +0000
 ### [Protecting people’s privacy is essential to maintaining democracy](https://indianexpress.com/article/opinion/columns/protecting-peoples-privacy-is-essential-to-maintaining-democracy-9180630/)
 
