@@ -1,3 +1,166 @@
+Tue, 27 Feb 2024 21:10:31 +0530
+### [Why the Supreme Court has temporarily banned Patanjali ads](https://www.firstpost.com/explainers/supreme-court-patanjali-medicine-ads-ban-baba-ramdev-13742970.html)
+
+- The Supreme Court imposed a temporary ban on Patanjali's alleged misleading advertisements claiming to cure diseases.
+
+
+- The court criticized Patanjali for violating its previous order to stop making false claims.
+
+
+- Patanjali Ayurved and its founders, Baba Ramdev and Acharya Balkrishna, received a contempt-of-court notice for violating the order.
+
+
+- Patanjali has a history of controversies, including claims of curing COVID-19 with Coronil, using non-vegetarian ingredients in its dental product, and selling infertility treatment promising a male child.
+
+
+- The court pulled up the Central Government for inaction against Patanjali's false advertisements.
+
+
+- The court issued a show-cause notice to Baba Ramdev and Acharya Balkrishna to explain why contempt proceedings should not be initiated against them.
+
+Tue, 27 Feb 2024 19:44:09 +0530
+### [Real cheese or substitutes? Why McDonald's outlet are under the scanner](https://www.firstpost.com/explainers/real-cheese-or-substitutes-why-mcdonalds-outlet-are-under-the-scanner-13742882.html)
+
+McDonald's in India has been accused of using cheese substitutes instead of real cheese in its burgers and nuggets. The Maharashtra FDA suspended a McDonald's franchisee's license in Ahmednagar due to this issue. Authorities plan to inspect all McDonald's outlets and other global fast-food brands to ensure compliance with food safety regulations. Westlife Foodworld, the largest franchisee of McDonald's in India, maintains that it uses real cheese and welcomes any inspections. The company has removed the term "cheese" from several items on its menu in Maharashtra. The allegations have raised concerns among consumers, and the company has responded by stating its commitment to using real, quality cheese in all products containing cheese.
+
+Tue, 27 Feb 2024 19:04:06 +0530
+### [Another man killed by elephant in Kerala: How the human-animal conflict is rising in the state](https://www.firstpost.com/explainers/kerala-elephant-attacks-man-killed-wayanad-human-animal-conflict-reasons-13742887.html)
+
+Sure, here's a summary of the article:
+
+* A 44-year-old auto driver named Suresh Kumar, also known as Mani, was killed in an attack by a wild elephant in the Kannimala estate near Munnar, Idukki district, Kerala.
+* This is the third death in Kerala this month due to elephant attacks.
+* The state is facing an increasing human-animal conflict, with elephants, tigers, bison, and wild boars being the main perpetrators.
+* Deforestation is the primary reason for the rising conflict, as elephants are forced out of their natural habitats in search of food and water.
+* The government of Kerala has implemented various measures to address the issue, including deploying a Rapid Response Team (RRT), installing advanced cameras, and constructing elephant-proof barriers.
+* Eco-restoration programs are also underway to restore natural habitats and encourage animals to remain in the forests.
+* Environmental activists urge for a more long-term and sustainable solution that prioritizes the well-being of both humans and animals.
+
+Tue, 27 Feb 2024 17:55:56 +0530
+### [Shocking: Why UK's cancer survival rates are 15 years behind other major countries](https://www.firstpost.com/explainers/shocking-why-uks-cancer-survival-rates-are-15-years-behind-other-major-countries-13742817.html)
+
+Article found but Couldn't summarize 
+Cancer survival rates in the United Kingdom are lagging 15 years behind those in other nations like Australia, Canada, and Norway. British patients experience the longest waits for receiving cancer treatments like chemotherapy and radiotherapy
+
+Tue, 27 Feb 2024 17:36:06 +0530
+### [What is Krutrim AI, India’s ChatGPT alternative?](https://www.firstpost.com/explainers/krutrim-ai-indias-chatgpt-alternative-13742876.html)
+
+Krutrim AI, a large language model (LLM) similar to ChatGPT or Gemini, was launched by Ola CEO Bhavish Aggarwal. It can generate responses in 10 languages, including English and Hindi, and outperforms OpenAI's GPT-4 in Indic languages performance. 
+
+Trained on over 2 trillion tokens, Krutrim aims to cater to India's diverse linguistic landscape and cultural sensibilities. The basic model, Krutrim Base, is available now, while the more advanced Krutrim Pro, capable of multimodal interactions and enhanced problem-solving, will be released in Q4 2023. 
+
+Krutrim raised $50 million in funding, making it India's first AI unicorn, and plans to open its APIs to developers by February 2024. It's expected to disrupt the AI landscape by driving innovation and expanding globally, though it doesn't leverage data from Ola's other businesses for training its models.
+
+Tue, 27 Feb 2024 16:32:59 +0530
+### [In Graphics | How Rajya Sabha MPs are elected](https://www.firstpost.com/explainers/in-graphics-how-rajya-sabha-mps-are-elected-13742824.html)
+
+* Rajya Sabha elections are underway in India to fill 56 vacant seats.
+* The terms of 56 members from 15 states will end in April.
+* 41 of the 56 candidates have already secured their seats unopposed.
+* 10 seats are in Uttar Pradesh, four are in Karnataka, and one seat is in Himachal Pradesh.
+* The voting process for Rajya Sabha elections is different from that of Lok Sabha elections.
+* Members of Rajya Sabha are elected by state legislators, while members of Lok Sabha are elected by the general public.
+
+Tue, 27 Feb 2024 15:46:20 +0530
+### [PM Modi picks four astronauts for Gaganyaan mission: Who are they?](https://www.firstpost.com/explainers/pm-modi-four-astronauts-gaganyaan-mission-prasanth-nair-ajit-krishnan-angad-pratap-shubhanshu-shukla-13742799.html)
+
+Prime Minister Narendra Modi revealed the names of the four astronauts chosen for India's Gaganyaan mission: Group Captain Prasanth Balakrishnan Nair, Group Captain Ajit Krishnan, Group Captain Angad Pratap, and Wing Commander Shubhanshu Shukla.
+
+These astronauts are Indian Air Force test pilots with extensive experience and are undergoing intensive training in Bengaluru and Russia. The Gaganyaan mission aims to send a human crew to a Low-Earth Orbit and return them safely. Initially planned for 2022, the mission was delayed due to the COVID-19 pandemic and is now targeting a 2025 launch. If successful, India will become the fourth nation to carry out manned spaceflights.
+
+As part of the Gaganyaan mission, India conducted a crucial test flight in 2022 to demonstrate the crew's safe escape from the rocket in case of malfunction. Before astronauts are sent into space in 2025, a test flight will take a robot into space in 2024. India has made significant strides in the space sector, including landing near the Moon's south pole, launching its first observation mission to the Sun, and planning to set up a space station and send an astronaut to the Moon in the coming years.
+
+Tue, 27 Feb 2024 15:45:57 +0530
+### [Actor Amy Schumer says she has Cushing’s syndrome: What is this disorder?](https://www.firstpost.com/explainers/actor-amy-schumer-says-she-has-cushings-syndrome-what-is-this-disorder-13742305.html)
+
+Amy Schumer has been diagnosed with Cushing's syndrome, a hormonal disorder caused by elevated levels of the hormone cortisol in the body. The condition can be triggered by steroid medications and is characterized by symptoms such as a puffy face, fatigue, muscle weakness, and upper body obesity. Cushing's syndrome is a rare disorder that affects mostly adults aged between 20 and 50 years, with women being more commonly affected than men. It can lead to complications such as bone loss, high blood pressure, and type two diabetes if left untreated. Treatment involves lowering cortisol levels through medication or, in cases of tumors, surgical intervention.
+
+Tue, 27 Feb 2024 14:59:44 +0530
+### [Why Japan wants more men to take paternity leave](https://www.firstpost.com/explainers/why-japan-wants-more-men-to-take-paternity-leave-13742693.html)
+
+In an effort to address Japan's declining birth rate and aging population, the country is implementing new measures to encourage paternity leave for fathers. Companies with more than 100 employees will be required to set and disclose paternity leave targets. This initiative aims to increase the involvement of fathers in childcare and promote gender balance.
+
+The low birth rate in Japan is a significant concern, with the population declining at a record rate. In 2023, the population shrank by 831,872, and the number of newborns fell to a record low of 758,631. This is largely due to the country's low birth rate of 1.3 children per woman, which is well below the replacement level of 2.1 children.
+
+To address this issue, the government is aiming to increase paternity leave usage among men. In 2022, only 17.1% of men took paternity leave, compared to 80.2% of women who took maternity leave. The government hopes to raise the percentage of men taking paternity leave to at least 50% by 2025.
+
+Companies will be required to submit their paternity leave plans to the Ministry of Health, Labour and Welfare, and these plans will be made public. The ministry can issue recommendations for companies that do not disclose their targets.
+
+Japan already has generous provisions for childcare leave, with men allowed four weeks of paternity leave within eight weeks of their child's birth and childcare leave until the infant turns one. However, men are hesitant to take leave due to concerns about their career and work environment.
+
+The government believes that increasing paternity leave will help to promote gender balance in work and care provision, which could potentially solve the country's population crisis. Men who have taken paternity leave have reported positive experiences, saying that it has strengthened their family relationships and helped them to be more involved in their children's lives.
+
+While things are slowly changing, Japan still has a long way to go in addressing its declining birth rate and aging population. Experts believe that the government needs to do more to raise salaries, improve working conditions, and make society more inclusive for minorities and those with non-Japanese roots in order to attract foreign workers to move to Japan and stay.
+
+Tue, 27 Feb 2024 13:58:43 +0530
+### [Australia double murder: How ex-TV presenter, partner were killed by jilted police lover](https://www.firstpost.com/explainers/australia-double-murder-ex-tv-presenter-jesse-baird-luke-davies-killings-sydney-police-officer-13742727.html)
+
+In Sydney, a former TV presenter, Jesse Baird (26), and his partner, Luke Davies (29), a flight attendant, were allegedly shot dead by Beau Lamarre-Condon, a jilted ex-boyfriend and police officer. Gunshots were heard at Baird's home on February 19, and the police found their bodies near a rural property in Bungonia on February 27.
+
+Lamarre-Condon, who used his service pistol, is suspected of committing the murders. The investigation revealed that he had utilized a key to enter Baird's premises and deleted contacts from his phone.
+
+The discovery of the bodies prompted a review of police officers' out-of-hours access to firearms. Additionally, the Sydney Gay and Lesbian Mardi Gras organizers requested that the NSW police refrain from marching in the annual parade due to community distress.
+
+Despite outrage from domestic violence advocates, Police Commissioner Webb expressed disappointment in the decision and emphasized the importance of inclusion and diversity.
+
+The incident has sparked discussions about domestic violence and the involvement of law enforcement officers in such crimes.
+
+Tue, 27 Feb 2024 13:15:36 +0530
+### [Paytm Crisis: Why Vijay Shekhar Sharma has resigned as Paytm Payments Board chairman](https://www.firstpost.com/explainers/paytm-crisis-vijay-shekhar-sharma-paytm-payments-board-chairman-rbi-13742708.html)
+
+Vijay Shekhar Sharma, founder of Paytm, has resigned as the non-executive chairman and board member of Paytm Payments Bank. This decision comes after the RBI imposed measures on Paytm, including winding down operations by March 15. Sharma's resignation is seen as an attempt to resolve the situation.
+
+Sharma's journey includes humble beginnings in Uttar Pradesh, starting indiasite.net and Xs! Corporation. Paytm, launched in 2009, saw immense success, particularly after demonetization in 2016. Paytm Payments Bank was established in 2017 to expand financial services.
+
+However, Paytm faced challenges, including controversy over its China connection and a significant decline in market cap. The RBI also imposed penalties on Paytm Payments Bank for non-compliances. The latest action by the RBI restricts the bank's operations and raises concerns about its viability.
+
+Paytm is collaborating with banks like Axis Bank, HDFC Bank, and SBI to process transactions via UPI. The board of Paytm Payments Bank has been restructured with the appointment of new members to demonstrate compliance with regulations and salvage the situation.
+
+Tue, 27 Feb 2024 12:54:18 +0530
+### [Why has a medical school in New York waived tuition fees for students?](https://www.firstpost.com/explainers/why-has-a-medical-school-in-new-york-waived-tuition-fees-for-students-13742321.html)
+
+Albert Einstein College of Medicine has received a $1 billion donation from Dr. Ruth Gottesman, making tuition free for all students. Dr. Gottesman, a 93-year-old former professor at the school, donated the funds to attract a diverse pool of applicants and eliminate the burden of medical school debt. The donation, the largest ever made to a medical school, will allow students to graduate debt-free, empowering them to focus on their studies and pursue careers in medicine and science. Einstein is the second tuition-free medical school in New York, after NYU School of Medicine.
+
+Tue, 27 Feb 2024 10:56:46 +0530
+### [Why 'live-in sons-in-law' are up for grabs in China](https://www.firstpost.com/explainers/why-live-in-sons-in-law-are-up-for-grabs-in-china-13742238.html)
+
+A matchmaking agency in Hangzhou, China, is offering a unique service: live-in sons-in-law. Under this arrangement, the husband moves into the wife's home, and their children take her surname. This service has gained popularity among Chinese men who want to break away from traditional customs and avoid the burden of being a traditional husband.
+
+Xiaoshan district, where the agency is located, has a high GDP, and many parents are reluctant to give away their wealth by having their grandchildren take another family's surname. Additionally, adding the husband's name to the woman's household can result in additional compensation for relocation.
+
+To be eligible for the service, men must meet strict criteria, including earning over 100,000 yuan annually, being taller than 170 centimeters, having a credit score of at least 560, and not having any criminal records or tattoos. The agency founder, Li Jiyan, emphasizes that they do not welcome men who only want to engage in "lying flat," a phrase referring to doing the bare minimum to get by.
+
+The competition for becoming a live-in son-in-law is fierce, with the agency receiving numerous applications daily. Men with steady jobs at state-owned companies are highly sought after, even more so than those with high incomes but demanding work schedules.
+
+While some people view this service as a way to achieve success without hard work, others hope for a future where gender roles in marriage are eliminated, and marriage is simply a union between two individuals.
+
+Tue, 27 Feb 2024 10:26:25 +0530
+### [Why an Indian has been sentenced in Uzbekistan for cough syrup deaths](https://www.firstpost.com/explainers/indian-sentenced-uzbekistan-cough-syrup-deaths-13742260.html)
+
+Uzbekistan has sentenced 21 people to prison for the deaths of 68 children caused by contaminated cough syrup from India. Singh Raghvendra Pratap, an Indian citizen and the director of the company that imported the syrup, received the longest sentence of 20 years. The defendants were found guilty of tax evasion, selling substandard medicines, abuse of office, negligence, forgery, and bribery. The victims' families will receive compensation up to $80,000 per family. The cough syrup was found to contain diethylene glycol or ethylene glycol, which are toxic chemicals. Similar incidents have occurred in The Gambia and Indonesia, resulting in the deaths of children.
+
+Tue, 27 Feb 2024 09:35:58 +0530
+### [Explained: How Sweden joining NATO is a win-win for both sides](https://www.firstpost.com/explainers/sweden-nato-member-win-win-baltic-region-russia-13742231.html)
+
+Sweden's accession to NATO is a significant development that will strengthen the defense alliance and enhance regional security. Hungary's parliamentary vote approving Sweden's membership marks the end of a lengthy process that faced delays due to objections from Turkey and Hungary.
+
+Sweden's entry into NATO brings several benefits to both the alliance and the country itself. For Sweden, membership provides crucial security guarantees under NATO's Article 5, which considers an attack on one member as an attack on all. It also affords Sweden equal rights in the NATO Council, allowing it to influence decision-making within the alliance.
+
+NATO, on the other hand, gains from Sweden's modern and well-equipped military, which includes a formidable air force and a capable navy. Sweden's defense industry is also a valuable asset, contributing to the alliance's military-industrial capacity. The country's geographical position along the Baltic coastline further enhances NATO's defense capabilities in the region.
+
+Russia has expressed discontent over Sweden's decision to join NATO and warned of countermeasures, citing concerns about the security situation in Northern Europe. However, Sweden's accession to NATO is viewed as a positive step for regional stability and a boost to the alliance's strength.
+
+Tue, 27 Feb 2024 07:32:46 +0530
+### [What happens if we don't have a leap year?](https://www.firstpost.com/explainers/what-happens-if-we-dont-have-a-leap-year-13742119.html)
+
+The article explains the significance and history of leap years, which are used to keep the calendar months in sync with annual events such as equinoxes and solstices. The existence of leap years is necessary because Earth's orbit around the sun is not precisely 365 days, but takes about six hours longer.
+
+The idea of leap years originated from ancient civilizations that used calendars based on the moon or sun, or both. Julius Caesar introduced the Julian calendar in 46 BCE, which added an extra day every four years to account for the extra hours in Earth's orbit. However, this calendar still had some drift, leading to further adjustments.
+
+In the late 16th century, Pope Gregory XIII introduced the Gregorian calendar, which is still used today. It reduced the frequency of leap years by eliminating extra days accumulated on the Julian calendar and refining the rules for leap day. The Gregorian calendar improved accuracy by reducing drift to mere seconds.
+
+The tradition of women proposing marriage on leap day has folkloric origins, but it was often seen as a tongue-in-cheek way to reinforce gender roles. Being born on a leap day can be unique and memorable, but it can also cause some paperwork difficulties due to the rarity of the date.
+
 Tue, 27 Feb 2024 05:00:11 +0530
 ### [FirstUp: PM to review Ganganyaan mission, Bengaluru water cut… Top news today](https://www.firstpost.com/explainers/firstup-pm-to-review-ganganyaan-mission-bengaluru-water-cut-top-news-today-13742067.html)
 

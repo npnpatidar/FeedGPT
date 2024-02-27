@@ -1,3 +1,81 @@
+Tue, 27 Feb 2024 18:33:48 +0530
+### [Make in India in defence is a decisive shift; Modi 3.0 could see it becoming transformative](https://www.firstpost.com/opinion/make-in-india-in-defence-is-a-decisive-shift-modi-3-0-could-see-it-becoming-transformative-13742913.html)
+
+1.	India has been heavily reliant on imported military equipment, leading to supply chain vulnerabilities and compromising strategic autonomy.
+2.	The Indian government launched the “Make in India” initiative in 2014 to promote indigenous manufacturing in defense and reduce dependence on imports.
+3.	Measures taken include introducing negative lists for exclusive domestic procurement and a phased import ban list of 925 items.
+4.	Indian defense sector has responded positively, with shares of private and public firms experiencing significant growth.
+5.	India has made progress in indigenous platforms, such as the INS Vikrant aircraft carrier with over 70% indigenous content, and production of Tejas fighters.
+6.	The government aims to address challenges in the defense sector, including cost overruns, technology lags, and project timelines.
+7.	Restructuring efforts are underway, with the Vijay Raghavan report recommending that the DRDO focus on top priority projects and share the rest with the public and private sectors.
+8.	A new defense technology council will be formed, with the PMO at the apex and the Ministry of Defense as the nodal point.
+The Department of Defense Science, Technology, and Innovation will report directly to the Prime Minister.
+9.	The number of DRDO labs may be reduced from 40 to 10, giving the private sector a larger share of projects.
+10.	India’s procurement sources for defense equipment extend beyond its borders, including countries like France, the United States, and others.
+11.	Significant efforts are required in the next term to navigate bureaucracy, secure funding for technology transfer, manage industrial espionage, and foster the innovative spirit of Indian private enterprises to facilitate the growth of numerous defense projects.
+
+Tue, 27 Feb 2024 16:01:07 +0530
+### [India maintains a fine balance in the Global North-South equation](https://www.firstpost.com/opinion/india-maintains-a-fine-balance-in-the-global-north-south-equation-13742813.html)
+
+Article found but Couldn't summarize 
+The North may not be happy with India’s ‘leadership’ of the Global South, but it sees India as a safer partner in the power transition that is taking place than China which has made deep inroads into the Global South
+
+Tue, 27 Feb 2024 13:52:48 +0530
+### [How Russia-Ukraine war has no winners but only losers](https://www.firstpost.com/opinion/how-russia-ukraine-war-has-no-winners-but-only-losers-13742736.html)
+
+Despite early predictions of a quick Ukrainian surrender, the war has entered its third year with no clear victor. Russia's initial military advantage has diminished, and Ukraine has launched successful counteroffensives. However, Ukraine faces challenges in manpower, ammunition, and resources, while Russia has a significant advantage in population and economic size.
+
+The war has resulted in heavy casualties, a humanitarian crisis, and substantial infrastructure damage. Ukraine has lost 18% of its territory to Russian control and continues to suffer from missile attacks and drone strikes. Despite the heavy toll, Ukraine remains determined to resist Russian aggression.
+
+The most likely scenario is a prolonged stalemate or a Ukrainian defeat. The path to peace is uncertain, as both sides have differing objectives. Negotiations may offer a way forward, but compromises must be made. Accepting a smaller, independent Ukraine may be the only way to end the war, though this would be a difficult decision for Ukraine.
+
+Tue, 27 Feb 2024 13:51:15 +0530
+### [How Netanyahu's Gaza plan is flawed and may further push violence](https://www.firstpost.com/opinion/israel-hamas-war-gaza-benjamin-netanyahu-13742324.html)
+
+Sure, here is a summary of the article:
+
+- Prime Minister Netanyahu has presented his proposal to the security cabinet for post-war Gaza, aiming to rid the territory of Hamas.
+
+- The proposal involves Israel exercising security control over Gaza similar to the West Bank.
+
+- The medium-term goal is demilitarization and de-radicalization of Gaza, followed by the rehabilitation of the Strip.
+
+- Israel would have a presence on the Southern border with Egypt to prevent smuggling, and Gaza would be administered by a civil government.
+
+- Netanyahu recommends shutting down UNRWA and replacing it with other international aid organizations.
+
+- The proposal has drawn criticism, with the Abbas administration rejecting it and concerns that it undermines the two-nation solution.
+
+- The international community and UN should oppose Israel's plan to dissolve UNRWA.
+
+- The final resolution of the conflict lies in a two-nation solution or equal rights for Palestinians in a single state of Israel.
+
+- The author emphasizes the need for a change in government in Israel and a more inclusive approach to achieve lasting peace.
+
+Tue, 27 Feb 2024 09:54:50 +0530
+### [Pankaj Udhas’ passing: The end of an era](https://www.firstpost.com/opinion/pankaj-udhas-passing-the-end-of-an-era-13742247.html)
+
+Pankaj Udhas, a renowned ghazal singer, passed away, leaving a void in the world of Indian popular music. In the 1980s, Udhas emerged as a rising star, captivating audiences with his soulful renditions of ghazals and popular songs. He gained immense popularity and performed in concerts around the country. 
+
+During that time, ghazals experienced a surge in popularity, with Mehdi Hassan, Ghulam Ali, and Jagjit Singh gaining widespread recognition. Udhas's debut album, "Aahat," was released in 1980 and featured hit songs like "Yeh Alag Baat Hai Saqi" and "Tum Aaye Zindagi Main." He had a unique ability to combine a beautiful voice with accessible lyrics, effortlessly connecting with the masses. 
+
+Udhas's talent extended to film songs as well. He sang memorable tracks like "Chithhi Aayi Hai" from the movie "Naam," "Aaj Phir Tum Pe" from "Dayavan," and "Na Kajre Ki Dhaar" from "Mohra." 
+
+Pankaj Udhas's journey through the world of music was marked by his dedication to ghazal singing. He leaves behind a legacy of timeless melodies that will continue to be cherished by his fans. His death marks the end of an era in Indian popular music.
+
+Tue, 27 Feb 2024 09:14:12 +0530
+### [Independents in focus: A new frontier in South African politics](https://www.firstpost.com/opinion/independents-in-focus-a-new-frontier-in-south-african-politics-13741913.html)
+
+The Electoral Amendment Bill extended electoral inclusivity, allowing independent candidates in national and provincial elections. Independent candidates may impact the next election, potentially challenging established political parties. They may have strong local support and address issues often overlooked by mainstream parties. However, they face challenges such as high signature requirements for candidacy and steep financial deposits.
+
+The Constitutional Court had previously ruled the existing electoral system unconstitutional for focusing exclusively on political parties. The new act aims to uphold rights of association, dignity, and political freedoms.
+
+The ANC, the ruling party since 1994, faces criticism due to issues like corruption, poor service delivery, and internal divisions. President Ramaphosa must address these challenges, as well as the rise of new political entities and internal fractures.
+
+The DA is the main opposition party, focusing on a market-driven economy and social justice. With the ANC facing difficulties, the DA sees an opportunity to shape South Africa's future. The EFF, led by Julius Malema, is another significant party that advocates for Marxist-Leninist and black nationalist principles.
+
+Independent candidates may play a crucial role in the outcome of the upcoming election, potentially acting as kingmakers in the formation of the new government. Indipendent candidates could influence races, particularly in closely contested areas. However, they face challenges such as high signature requirements and financial requirements to run for election. Regardless, they represent a wildcard in the upcoming national election in South Africa.
+
 Mon, 26 Feb 2024 19:18:58 +0530
 ### [India only buys Russian oil, West helps make weapons that kill Ukrainians](https://www.firstpost.com/opinion/india-only-buys-russian-oil-west-helps-make-weapons-that-kill-ukrainians-13742071.html)
 
@@ -21,6 +99,15 @@ Mon, 26 Feb 2024 14:29:22 +0530
 
 Article found but Couldn't summarize 
 NATO doesn’t want to lose face by stopping the war at a point where it looks embarrassed and defeated by Putin, so it will find the hopeless continuation of the war a better face-saver
+
+Mon, 26 Feb 2024 13:50:36 +0530
+### [Yami Gautam and Priyamani’s Article 370 movie: How it is a film of many firsts](https://www.firstpost.com/entertainment/yami-gautam-and-priyamanis-article-370-movie-how-it-is-a-film-of-many-firsts-13741948.html)
+
+- Article 370 is a new action-political drama film directed by Aditya Suhas Jambhale.
+- The film stars Yami Gautam and Priyamani and addresses contentious political issues.
+- Article 370 has been praised for its innovative approach, gripping narrative, and strong female characters.
+- The film has sparked conversations and broken records with its opening weekend collection of Rs 34.71 cr at the worldwide box office.
+- With its thought-provoking story and powerful performances, Article 370 is considered a cultural phenomenon that heralds a new era for the genre.
 
 Mon, 26 Feb 2024 08:38:16 +0530
 ### [Exclusive | President Muizzu is immature but even he can’t harm India-Maldives bond: Mariya Didi](https://www.firstpost.com/opinion/exclusive-president-muizzu-is-immature-but-even-he-cant-harm-india-maldives-bond-mariya-didi-13741764.html)

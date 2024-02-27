@@ -1,3 +1,8 @@
+Wed, 28 Feb 2024 00:10:00 +0530
+### [Burden of power:  India’s astronauts and the Indian space policy](https://www.thehindu.com/opinion/editorial/burden-of-power-indias-astronauts-and-the-indian-space-policy/article67892163.ece)
+
+India's human spaceflight mission, Gaganyaan, has finalized its candidate list, with Prasanth Balakrishnan Nair, Ajit Krishnan, Angad Pratap, and Shubhanshu Shukla as potential astronauts. With this announcement, India aims to send an Indian crew to low-earth orbit using an Indian rocket. The Indian Space Research Organisation (ISRO) plans to conduct test flights of the Launch Vehicle Mark-3 rocket in 2024 and 2025, followed by a crewed launch in 2025. While Gaganyaan has faced delays due to the COVID-19 pandemic and ISRO's commercial commitments, it is now nearing its final stages. The article emphasizes the importance of balancing political involvement with scientific exploration and democratic values in space missions. It also highlights the need for India to focus on scientific exploration and societal value rather than geopolitical aspirations and achieving superpower status. Finally, the article acknowledges that India's space program has lagged behind countries like China but emphasizes the importance of maintaining a focus on scientific exploration and expanding human horizons.
+
 Tue, 27 Feb 2024 00:30:00 +0530
 ### [Old beginning: On Pakistan politics](https://www.thehindu.com/opinion/editorial/old-beginning-the-hindu-editorial-on-pakistan-politics/article67888291.ece)
 

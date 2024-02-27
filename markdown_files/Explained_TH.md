@@ -1,3 +1,19 @@
+Tue, 27 Feb 2024 12:47:28 +0530
+### [Why is NATO’s Steadfast Defender 2024 military exercise significant? | Explained](https://www.thehindu.com/news/national/why-is-natos-steadfast-defender-2024-military-exercise-significant-explained/article67873511.ece)
+
+NATO started its largest military exercise, Steadfast Defender 2024, in response to Russia's ongoing invasion of Ukraine. The exercise aims to demonstrate NATO's collective military strength and commitment to its members' security. It includes land, air, sea, cyber, and space operations, involving over 90,000 troops from 31 allies and Sweden. The first phase focuses on maritime reinforcement, while the second phase involves multi-domain exercises across Europe. Experts believe the exercise serves as a deterrent to Russia and a warning to the Kremlin. NATO allies, including the US, France, and Germany, have pledged significant financial and military support to Ukraine. The exercise is strategically located in European countries, particularly those near the Baltic Sea, due to Russia's presence in Kaliningrad. The inclusion of cyber and space operations makes the exercise relevant to modern warfare. NATO member states aim to strengthen their collaboration in real-world operations through this exercise.
+
+Tue, 27 Feb 2024 12:43:09 +0530
+### [What is China’s panda diplomacy? | Explained](https://www.thehindu.com/news/international/what-is-chinas-panda-diplomacy-explained/article67881253.ece)
+
+China plans to loan a pair of giant pandas to the San Diego Zoo as part of its panda diplomacy efforts. Panda diplomacy, which dates back to the Tang Dynasty, involves gifting or loaning pandas as a symbol of friendship. China stopped gifting pandas in the 1980s but now loans them for a fee, with conditions typically including proper facilities and an agreement to return offspring. While experts believe panda diplomacy has environmental implications, China has hinted at resuming panda loans to the U.S. following a meeting between President Xi and President Biden.
+
+Tue, 27 Feb 2024 12:39:52 +0530
+### [The Competition Regulator’s latest addition to the ‘whisteblower’ mechanism to trace cartels | Explained](https://www.thehindu.com/business/Industry/the-competition-regulators-latest-addition-to-the-whisteblower-mechanism-to-trace-cartels-explained/article67887269.ece)
+
+Article found but Couldn't summarize 
+The MCA notified the ‘Lesser Penalty’ Regulations, 2024, introducing a ‘Lesser Penalty Plus’ regime, which incentivises existing industry participant(s) turned ‘whistleblowers’ to present “full, true and vital disclosures” about another cartel in the ecosystem.
+
 Tue, 27 Feb 2024 04:00:00 +0530
 ### [Are ‘colour molecules’ the key to a room-temperature quantum computer?](https://www.thehindu.com/sci-tech/science/room-temperature-qubits-chromophores/article67887637.ece)
 
