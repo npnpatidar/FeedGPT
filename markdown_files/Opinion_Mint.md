@@ -1,3 +1,61 @@
+Wed, 28 Feb 2024 03:30:52 +0530
+### [India’s household consumption survey captures predictable changes](https://www.livemint.com/opinion/online-views/indias-household-consumption-survey-captures-predictable-changes-11709046735551.html)
+
+A fact sheet highlighting the Household Consumption Expenditure Survey (HCES) for 2022-23 was released. This survey covered approximately 100,000 urban and 150,000 rural households, indicating that the urban population comprises two-fifths of the total. The data demonstrates a transition in consumption patterns, moving from cereals to non-cereals, carbohydrates to proteins, home-cooked meals to packaged food, and food to non-food items. However, the consumption spending growth pace in urban India is higher than in rural areas, leading to a divergence in spending and partly explaining the north-south divide. The survey also reveals a slowdown in consumption spending across surveys conducted from 2004-05 to 2022-23, raising questions about the alignment of consumption spending with national income growth. This comprehensive data is vital for assessing household well-being, establishing poverty measures, and updating the consumption basket used to calculate the Consumer Price Index, which plays a crucial role in guiding monetary policy.
+
+Wed, 28 Feb 2024 03:26:59 +0530
+### [The budget paved a path for DPI to propel deep-tech innovation](https://www.livemint.com/opinion/online-views/the-budget-paved-a-path-for-dpi-to-propel-deep-tech-innovation-11709044573125.html)
+
+- Digital public infrastructure (DPI) in India has evolved from a government service delivery mechanism to a factor of production and a tool for societal transformation.
+
+
+- DPI has enabled cost savings, trust in open architecture, and a culture of innovation, attracting startups and private businesses.
+
+
+- DPI's advancement and state innovation funding are intertwined, facilitating access to cutting-edge technologies, frugal innovation, and startup participation in deep tech.
+
+
+- India's R&D expenditure is expected to increase, and DPI will be expanded to critical tech fields to help startups compete globally.
+
+
+- The draft National Deep Tech Startup Policy (NDTSP) 2023 outlines a comprehensive vision for deep tech development.
+
+
+- Strategic technology partnerships with reliable allies provide access to resources, capabilities, and joint research opportunities for Indian startups.
+
+
+- DPI as a modern factor of production democratizes technology access and empowers startups to leverage deep-tech solutions.
+
+
+- AI computing power as DPI enables startups to scale operations, ensure data privacy, and innovate in various sectors.
+
+
+- Government funding, private sector participation, and global partnerships create an attractive investment environment in India.
+
+
+- India's commitment to R&D funding, NDSTP, private sector participation, and global partnerships position it as a potential leader in deep technology innovation.
+
+Wed, 28 Feb 2024 03:22:48 +0530
+### [AI's ability to predict death may not be as scary as it sounds](https://www.livemint.com/opinion/online-views/ais-ability-to-predict-death-may-not-be-as-scary-as-it-sounds-11709044831270.html)
+
+- Researchers used AI to predict when people would die with 78% accuracy using data on thousands of people in Denmark, but the results were misrepresented and AI cannot predict the exact day of death.
+
+- AI-based systems could have both positive and negative impacts, such as improving lifespan calculations or being used for discrimination.
+
+- The AI technology has limitations: it cannot predict freak accidents or deaths far in advance since predicting the future becomes increasingly difficult the further ahead you go.
+
+- There's a risk of humans trusting AI's predictions blindly due to authority bias, and AI can be influenced by bad studies and flawed data.
+
+- The article emphasizes that our actions can change the future, and these forecasts do not seal our fate as certain events are still subject to change based on our choices.
+
+- Income and job type can affect life expectancy, a correlation recognized even before AI.
+
+Wed, 28 Feb 2024 02:43:59 +0530
+### [An AI failure database can help foster innovation safety](https://www.livemint.com/opinion/online-views/an-ai-failure-database-can-help-foster-innovation-safety-11709044940618.html)
+
+Article found but Couldn't summarize 
+Experimental technologies thrive on a 'culture of failure' as that’s how we learn from mistakes. We can mitigate AI risks by recording and analyzing mishaps. This is how aviation grew safer.
+
 Tue, 27 Feb 2024 17:40:39 +0530
 ### [A wake-up call for banks, regulators and you](https://www.livemint.com/opinion/a-wake-up-call-for-banks-regulators-and-you-11709035223447.html)
 

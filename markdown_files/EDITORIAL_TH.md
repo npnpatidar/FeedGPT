@@ -1,3 +1,8 @@
+Wed, 28 Feb 2024 00:20:00 +0530
+### [Decoding consumption: On the Household Consumption Expenditure Survey](https://www.thehindu.com/opinion/editorial/decoding-consumption-on-the-household-consumption-expenditure-survey/article67892144.ece)
+
+The Statistics Ministry released preliminary findings on February 28th, 2024, from the Household Consumption Expenditure Survey. Although these results provide insights into household-level changes, they should be cautiously interpreted. Conducted every five years, the last survey in 2017-18 was scrapped due to data quality issues. The 2022-23 survey includes data gathered post-pandemic and during a time of high inflation. Urban households' monthly per capita expenditure increased by 33.5% since 2011-12, reaching ₹3,510, while in rural areas, it rose by 40.4% to ₹2,008. Including imputed values from welfare schemes, these figures still remain below the average growth rate. Changes in food spending, with a decrease in the proportion spent on cereals, may influence inflation trends. However, the results may not fully reflect the current state of the economy due to the effects of pent-up demand and inflation. Therefore, recalculations of poverty, inflation, or GDP should wait for the complete findings of the new survey, which concludes in July 2024.
+
 Wed, 28 Feb 2024 00:10:00 +0530
 ### [Burden of power:  India’s astronauts and the Indian space policy](https://www.thehindu.com/opinion/editorial/burden-of-power-indias-astronauts-and-the-indian-space-policy/article67892163.ece)
 
