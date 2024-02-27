@@ -1,3 +1,9 @@
+Tue, 27 Feb 2024 05:00:11 +0530
+### [FirstUp: PM to review Ganganyaan mission, Bengaluru water cut… Top news today](https://www.firstpost.com/explainers/firstup-pm-to-review-ganganyaan-mission-bengaluru-water-cut-top-news-today-13742067.html)
+
+Article found but Couldn't summarize 
+PM Modi will review the progress on the Gaganyaan mission and inaugurate three ISRO facilities in Kerala. The biennial Rajya Sabha polls for 56 seats across 15 states will also be held today. Bengaluru will face a 24-hour water supply cut today. Here’s a look at what is expected today
+
 Mon, 26 Feb 2024 21:28:29 +0530
 ### [The Heir Apparent Rises: How Maryam Nawaz became the first woman CM of a Pakistan province](https://www.firstpost.com/explainers/the-heir-apparent-rises-how-maryam-nawaz-became-the-first-woman-cm-of-a-pakistan-province-13742179.html)
 
