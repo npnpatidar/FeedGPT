@@ -1,3 +1,29 @@
+Wed, 28 Feb 2024 06:00:00 +0530
+### [Why sustainable funding matters for India’s ‘science power’ ambition | Explained](https://www.thehindu.com/sci-tech/science/sustainable-funding-science-power-ambition-india/article67884760.ece)
+
+- India's R&D spending has declined from 0.8% of GDP in 2008 to 0.64% currently, despite calls to double this spending.
+
+
+- India needs to spend at least 3% of GDP on R&D annually until 2047 to achieve developed nation status.
+
+
+- While the private sector contributes significantly to R&D in developed countries, in India, it accounts for only 36.4% of GERD.
+
+
+- The Anusandhan National Research Foundation was meant to address funding issues, but its implementation has been delayed and funding remains unclear.
+
+
+- Under-utilization of allocated funds is a recurring problem, with ministries like DBT, DST, and DSIR consistently falling short of budget execution.
+
+
+- To effectively utilize R&D funds, the government needs to prioritize R&D spending, streamline bureaucratic processes, and build capacity within agencies.
+
+
+- Encouraging private investment through incentives and clear regulatory roadmaps is crucial to boost R&D funding.
+
+
+- India needs to develop the bureaucratic capacity to evaluate science projects and monitor fund utilization to become a science power by 2047.
+
 Tue, 27 Feb 2024 12:47:28 +0530
 ### [Why is NATO’s Steadfast Defender 2024 military exercise significant? | Explained](https://www.thehindu.com/news/national/why-is-natos-steadfast-defender-2024-military-exercise-significant-explained/article67873511.ece)
 

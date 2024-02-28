@@ -1,3 +1,20 @@
+Wed, 28 Feb 2024 05:00:08 +0530
+### [FirstUp: PM Modi to unveil Deendayal statue, Nobel nominations out... today's big stories](https://www.firstpost.com/explainers/firstup-pm-modi-to-unveil-deendayal-statue-nobel-nominations-out-todays-big-stories-13742963.html)
+
+- PM Narendra Modi will unveil a statue of Deendayal Upadhyaya, release PM KISAN benefits, and disburse Maharashtra farmers' funds.
+
+
+- Rahul Gandhi will give lectures at Cambridge University during his Bharat Jodo Nyay Yatra break.
+
+
+- The Nobel Peace Prize nominations will be announced today, with various individuals and organizations eligible to nominate candidates.
+
+
+- Taiwan marks the 77th anniversary of the '228 Incident,' an uprising against Nationalist troops, remembering the period of suppression and promoting Taiwan's democracy.
+
+
+- On February 28, 1929, Sir CV Raman discovered the Raman Effect, leading to the establishment of National Science Day in India as a tribute to him.
+
 Tue, 27 Feb 2024 21:10:31 +0530
 ### [Why the Supreme Court has temporarily banned Patanjali ads](https://www.firstpost.com/explainers/supreme-court-patanjali-medicine-ads-ban-baba-ramdev-13742970.html)
 
