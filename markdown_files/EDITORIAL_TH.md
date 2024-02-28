@@ -1,3 +1,15 @@
+Thu, 29 Feb 2024 00:20:00 +0530
+### [Lives and livelihoods: On perils and the Indian emigrant](https://www.thehindu.com/opinion/editorial/lives-and-livelihoods-on-perils-and-the-indian-emigrant/article67896295.ece)
+
+Article found but Couldn't summarize 
+India must have protocols in place to protect emigrants from conflicts
+
+Thu, 29 Feb 2024 00:10:00 +0530
+### [Strength vs reason: On legislation and reservation to certain social groups](https://www.thehindu.com/opinion/editorial/strength-vs-reason-on-legislation-and-reservation-to-certain-social-groups/article67896349.ece)
+
+Article found but Couldn't summarize 
+The Bill to grant reservations for Marathas may not pass judicial muster
+
 Wed, 28 Feb 2024 00:20:00 +0530
 ### [Decoding consumption: On the Household Consumption Expenditure Survey](https://www.thehindu.com/opinion/editorial/decoding-consumption-on-the-household-consumption-expenditure-survey/article67892144.ece)
 

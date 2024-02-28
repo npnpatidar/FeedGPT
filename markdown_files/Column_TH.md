@@ -1,3 +1,8 @@
+Wed, 28 Feb 2024 00:30:00 +0530
+### [Ind vs Eng Tests | Dreams come true when you hold on to them against the odds](https://www.thehindu.com/opinion/columns/dreams-come-true-when-you-hold-on-to-them-against-the-odds/article67891818.ece)
+
+Four Indian cricketers (Jurel, Deep, Jaiswal, Khan) played key roles in India's victory against England. Their journeys are marked by challenges and hardships, from family sacrifices to economic struggles. Despite obstacles, their determination, talent, and support from coaches and relatives led them to success. The emergence of players from non-traditional cricket centers reflects India's growing cricketing talent pool. While their home records are impressive, the team faces a significant test in the SANE countries (South Africa, Australia, New Zealand, England). The success of the new generation, despite technical imperfections, highlights the importance of resilience and heart in cricket.
+
 Sun, 25 Feb 2024 21:06:27 +0530
 ### [Political Line | Glories of our past — two notions that shape our present](https://www.thehindu.com/opinion/columns/glories-of-our-past-two-notions-that-shape-our-present/article67885719.ece)
 

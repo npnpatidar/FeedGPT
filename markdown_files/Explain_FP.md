@@ -1,3 +1,129 @@
+Wed, 28 Feb 2024 21:19:32 +0530
+### [Explained: The row over 'Whites-only' party in Sri Lanka](https://www.firstpost.com/explainers/explained-the-row-over-whites-only-party-in-sri-lanka-13743357.html)
+
+In Sri Lanka, a "White-only" party attempt in Unawatuna, dubbed "Little Moscow" due to the large Russian population, sparked outrage. The event was canceled after backlash on social media. The Russian organizer claimed no racist intent, stating they intended to connect with expats who love Sri Lanka. The Sarayka Lounge, owned by Russians, apologized and severed ties with the organizers. The incident comes amid Sri Lanka's decision to cancel long-term tourist visa extensions for Russians and Ukrainians, who have flocked to the country since the Ukraine war.
+
+Wed, 28 Feb 2024 20:00:36 +0530
+### [Calls for Texit: Why some in Texas want the state to leave the US](https://www.firstpost.com/explainers/texit-texas-country-secession-calls-leave-the-us-13743308.html)
+
+In Texas, a separatist movement inspired by Brexit is gaining traction, calling for secession and a separate nation known as "Texit." Proponents cite dissatisfaction with the federal government and the immigration crisis at the Mexico border. They argue that an independent Texas could better address these issues. However, the secession movement faces significant hurdles. Texas cannot secede unilaterally, as per the U.S. Constitution. Additionally, polls show that the majority of Texans favor remaining part of the U.S., with only 26% identifying as Texans first and Americans second. The secession movement is driven by fears of a changing American culture and the belief that the federal government cannot resolve Texas's issues. However, experts believe that secession is unlikely to occur peacefully, as the U.S. government would not negotiate favorable terms.
+
+Wed, 28 Feb 2024 19:58:22 +0530
+### [Why is US Army slashing 24,000 jobs? Will it hurt the military?](https://www.firstpost.com/explainers/why-is-us-army-slashing-24000-jobs-will-it-hurt-the-military-13743329.html)
+
+The US Army is downsizing its force by 24,000 (5%) to focus on future large-scale combat against advanced adversaries like China and Russia. The cuts will mainly affect vacant counterinsurgency positions and will not result in soldier layoffs. The army plans to increase troops in critical areas like air defense and cyber operations. The move reflects a shift away from counterterrorism operations and towards preparing for potential conflicts with peer nations. Despite the downsizing, the army aims to reach a force size of 470,000 over the next five years. This restructuring is part of the US defense strategy, recognizing the threat from adversaries and the army's difficulty in meeting recruitment goals.
+
+Wed, 28 Feb 2024 18:29:51 +0530
+### [Sensex, Nifty crash wipes out Rs 6 lakh crore investor wealth: Why are markets suddenly falling?](https://www.firstpost.com/explainers/sensex-nifty-crash-wipes-out-rs-6-lakh-crore-investor-wealth-why-are-markets-suddenly-falling-13743247.html)
+
+**Indian Stock Market Crash**
+
+The BSE Sensex and Nifty50 plummeted due to profit-booking, F&O expiry, FII selling, and anticipation of key economic data. Heavyweights like Reliance, HDFC Bank, and Maruti experienced significant losses, while HUL, Infosys, and TCS gained.
+
+Other factors contributing to the fall include:
+
+* Valuation concerns as the market cap-to-GDP ratio crossed 120%.
+* SEBI's order for mutual funds to be more transparent about liquidity risks.
+* Potential US government shutdown on March 1st.
+
+Experts predict the market may remain range-bound in the near term, with some potential for recovery if Nifty50 trades above 21,950.
+
+Wed, 28 Feb 2024 18:01:33 +0530
+### [From Clinton scandal to modelling stint: The reinvention of Monica Lewinsky](https://www.firstpost.com/explainers/monica-lewinsky-modelling-stint-reinvention-us-presidential-election-bill-clinton-scandal-13743269.html)
+
+Monica Lewinsky, known for her past relationship with Bill Clinton, now fronts a campaign by Reformation, urging people to vote in the upcoming US presidential election. Lewinsky has taken charge of her narrative since the scandal, becoming an anti-bullying activist and advocate for women.
+
+Despite being publicly shamed for her involvement with Clinton, Lewinsky has reinvented herself through her TED talk on public shaming, her activism against cyberbullying, and her writings. She criticizes Clinton for his abuse of power in their relationship and expresses hope that such behavior would be unacceptable today.
+
+As the face of Reformation's "You've Got the Power" campaign, Lewinsky aims to combat voter frustration and apathy by emphasizing the importance of voting. Reformation's chief creative officer praised Lewinsky's appeal to younger generations and her ability to inspire activism.
+
+Wed, 28 Feb 2024 17:57:29 +0530
+### [3300 kg of charas, meth: Inside India’s largest drug haul](https://www.firstpost.com/explainers/3300-kg-of-charas-meth-inside-indias-largest-drug-gujarat-coasthaul-13743285.html)
+
+In a joint operation, the Narcotics Control Bureau, Indian Navy, and Gujarat Anti-Terrorism Squad seized 3,300 kilograms of various drugs, including cannabis, methamphetamine, and morphine, off the coast of Gujarat. The operation marks the largest drug seizure in the Indian subcontinent. Five individuals suspected of Pakistani or Iranian origin were arrested. Investigations are ongoing to determine the origin and destination of the drugs. The seizure highlights India's recent increase in drug busts, with Gujarat emerging as a major hotspot for confiscated drugs.
+
+Wed, 28 Feb 2024 17:10:40 +0530
+### [Why the US, the UK are losing their measles-free status](https://www.firstpost.com/explainers/why-the-us-the-uk-are-losing-their-measles-free-status-13743266.html)
+
+Measles has resurfaced in the US and UK due to declining vaccination rates. In the US, the outbreaks are centered in Florida and Philadelphia, with cases linked to unvaccinated children and the state's resistance to CDC guidelines. In the UK, over 580 cases have been reported since October, primarily among children. Both countries have experienced a sharp rise in cases after achieving measles-free status. The increase is attributed to the impact of COVID-19 on routine vaccinations and the spread of vaccine misinformation. Measles, a highly contagious virus, can cause severe complications, especially in children. It is preventable through two doses of the vaccine, which has averted millions of deaths since 2000.
+
+Wed, 28 Feb 2024 15:49:43 +0530
+### [Why South Korea, Japan and China can't convince citizens to have children](https://www.firstpost.com/explainers/why-south-korea-japan-and-china-cant-convince-citizens-to-have-children-13743146.html)
+
+In South Korea, Japan, and China, declining birth rates are a persistent concern despite government initiatives and incentives. High living expenses, stagnant wages, cultural attitudes, and pressure on parents, particularly women, contribute to the reluctance to have children.
+
+South Korea has the lowest fertility rate worldwide, with efforts to reverse the trend proving ineffective despite significant financial investments. Cultural norms prioritizing marriage for childbearing, combined with expensive housing, childcare costs, and a competitive work environment that discourages parental involvement, deter many couples from starting families.
+
+Japan also faces a declining birth rate, exacerbated by long working hours, societal expectations around childcare, and high childcare costs. Government measures, including generous childcare leave and increased subsidies, have had limited success in addressing the underlying factors discouraging parenthood.
+
+China's population has declined for the second consecutive year, with a record low birth rate and increased COVID-19 deaths. While incentives such as cash rewards and subsidies are offered, the high cost of living, education, and youth unemployment hinder the desire for larger families.
+
+Experts acknowledge the challenges in reversing fertility decline and suggest that nations may need to consider alternative approaches, such as increasing immigration or adjusting policies to better support working parents and families.
+
+Wed, 28 Feb 2024 15:18:07 +0530
+### [Did ex-Brazilian president Jair Bolsonaro harass a whale?](https://www.firstpost.com/explainers/former-brazil-president-jair-bolsonaro-whale-sao-paulo-13743217.html)
+
+Former Brazilian President Jair Bolsonaro faces investigation after allegedly harassing a humpback whale while on a personal watercraft off Sao Paulo's coast last year. The incident, captured on video and circulated on social media, appears to show a man resembling Bolsonaro riding close to the whale, violating Brazilian laws that require a 100-meter distance from whales. If found guilty, Bolsonaro faces a possible fine of up to $500 or imprisonment for up to five years. The case adds to Bolsonaro's legal troubles, including allegations of plotting a coup and abuse of power.
+
+Wed, 28 Feb 2024 14:30:00 +0530
+### [Are penguins at risk after deadly bird flu hits Antarctica for first time?](https://www.firstpost.com/explainers/are-penguins-at-risk-after-deadly-bird-flu-hits-antarctica-for-first-time-13743122.html)
+
+Article found but Couldn't summarize 
+A deadly type of bird flu has been confirmed on the mainland of Antarctica for the first time. There are heightened concerns about a potential risk for the southern region’s hundreds of thousands of penguin colonies because of their low immunity
+
+Wed, 28 Feb 2024 14:11:26 +0530
+### [Rajya Sabha election: Where do parties stand after cross-voting?](https://www.firstpost.com/explainers/rajya-sabha-election-cross-voting-bjp-congress-strength-upper-house-13743180.html)
+
+The ruling BJP-led NDA now holds 117 seats in the Rajya Sabha, thanks to its strong performance in the recent elections. Despite cross-voting in Uttar Pradesh, Himachal Pradesh, and Karnataka, the BJP secured 10 of the 15 contested seats, adding to the 20 unopposed seats it won earlier.
+
+The Congress secured 29 seats, while the TMC has 13, and the DMK and AAP have 10 each. Other parties, including BJD, YSRCP, BRS, RJD, and CPM, also won seats.
+
+The BJP's victory gives it a significant advantage in the Rajya Sabha, just four seats shy of the majority mark of 121. This strength could prove crucial in the upcoming Lok Sabha elections.
+
+Wed, 28 Feb 2024 13:37:46 +0530
+### [US wants Michelle Obama as president. What makes her so popular?](https://www.firstpost.com/explainers/michelle-obama-president-popular-joe-biden-us-elections-13743143.html)
+
+Article found but Couldn't summarize 
+A recent poll reveals Michelle Obama to be the leading choice to replace US president Joe Biden as the Democratic party’s candidate for the November presidential elections. The former first lady enjoys remarkable support from the masses, with many wanting her to be the next commander-in-chief. But why does she not run for office?
+
+Wed, 28 Feb 2024 11:33:29 +0530
+### [Flake News: Why Kellogg’s CEO is facing flak for ‘cereal for dinner’ remark](https://www.firstpost.com/explainers/flake-news-why-kelloggs-ceo-is-facing-flak-for-cereal-for-dinner-remark-13743027.html)
+
+WK Kellogg's CEO Gary Pilnick sparked controversy by suggesting people eat "cereal for dinner" to save money on groceries. Pilnick made these remarks while discussing high grocery prices. Critics have called his comments "tone-deaf" as he earned over $4 million last year. Pilnick defended the suggestion by claiming that cereal is an affordable option for families under financial pressure. However, critics argue that Pilnick's salary is vastly higher than his employees and that cereal is not a nutritious dinner option. The backlash has led to accusations that Pilnick is out of touch with the struggles faced by many Americans.
+
+Wed, 28 Feb 2024 11:15:23 +0530
+### [Macron suggests sending troops to Ukraine: Why NATO allies bluntly rejected it](https://www.firstpost.com/explainers/macron-suggests-sending-troops-to-ukraine-why-nato-allies-bluntly-rejected-it-13743070.html)
+
+French President Macron suggests the possibility of deploying Western troops in Ukraine in the future, despite NATO leaders rejecting it. While Macron emphasizes the need to prevent Russia from winning, the United States, the United Kingdom, Germany, and others dismiss the idea. Macron's comments have drawn criticism from NATO allies, the Kremlin, and opposition politicians in France. Russia warns of direct conflict if NATO troops are deployed, raising concerns about escalation and the potential for a wider conflict between NATO and Russia. Experts suggest that while Macron's remarks may align with his desire to send a strong message to Russia, they may also undermine Western unity and complicate discussions on aid for Ukraine. NATO's limited stockpile and manufacturing capacity raise questions about its readiness for a protracted war.
+
+Wed, 28 Feb 2024 10:35:58 +0530
+### ['Famine eats away at our flesh': How hunger has gripped the people of Gaza](https://www.firstpost.com/explainers/hunger-gaza-food-crisis-israel-hamas-war-13743056.html)
+
+The ongoing Israel-Hamas conflict has worsened the hunger crisis in Gaza. Residents of the Jabalia refugee camp have resorted to slaughtering horses to feed their families, amid dwindling food supplies and aid blockages by Israeli forces. The United Nations warns of impending famine, with over 2.2 million people facing starvation. Malnutrition and disease are escalating, threatening a surge in child deaths. Despite protests and pleas for help, the food crisis persists, leaving Gazans struggling with empty stomachs, soaring prices, and limited aid.
+
+Wed, 28 Feb 2024 09:59:19 +0530
+### [Rajya Sabha poll brings turmoil to Himachal: Will CM Sukhu survive storm?](https://www.firstpost.com/explainers/rajya-sabha-poll-harsh-mahajan-abhishek-manu-singhvi-himachal-pradesh-congress-cm-sukhvinder-singh-sukhu-no-confidence-13743037.html)
+
+In a stunning upset, the BJP defeated Congress candidate Abhishek Manu Singhvi in Himachal Pradesh's Rajya Sabha elections due to cross-voting by six Congress MLAs. This has triggered a government crisis, with the BJP demanding Chief Minister Sukhvinder Singh Sukhu's resignation and considering a no-confidence motion. The Congress has been accused of abducting MLAs to Haryana, but the MLAs claim to have gone there voluntarily. The BJP alleges that the Congress has lost its majority, while the Congress attempts to pacify disgruntled MLAs. The loss is a blow to the Congress ahead of the Lok Sabha elections and weakens the INDIA bloc. Home Minister Amit Shah has stated that the Congress and INDIA are disintegrating due to internal divisions.
+
+Wed, 28 Feb 2024 07:41:37 +0530
+### [Have a sweet tooth? What are the reasons behind food cravings?](https://www.firstpost.com/explainers/in-a-mood-for-fries-what-are-the-reasons-behind-food-cravings-13742893.html)
+
+Cravings for sugary, salty, or carb-heavy foods can be caused by:
+
+* **Low blood sugar:** The body craves energy sources like sugar and carbs.
+* **Neurotransmitter imbalances:** Dopamine (reward) and serotonin (suppresses appetite) can influence cravings.
+* **Fluid and salt loss:** Low-carb diets can lead to dehydration and salt cravings.
+* **Stress:** Stress hormones like cortisol trigger cravings for comfort foods.
+
+To manage cravings, consider the following:
+
+* Include sufficient protein and fiber in meals.
+* Opt for complex carbs instead of refined ones.
+* Manage stress through meditation or mindful eating.
+* Aim for adequate sleep to regulate hunger hormones.
+* Control portion sizes when indulging in treats.
+
 Wed, 28 Feb 2024 05:00:08 +0530
 ### [FirstUp: PM Modi to unveil Deendayal statue, Nobel nominations out... today's big stories](https://www.firstpost.com/explainers/firstup-pm-modi-to-unveil-deendayal-statue-nobel-nominations-out-todays-big-stories-13742963.html)
 

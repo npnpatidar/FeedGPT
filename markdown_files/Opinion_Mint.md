@@ -1,3 +1,79 @@
+Thu, 29 Feb 2024 00:27:59 +0530
+### [Sri Lanka may be back on the tourism map but its recovery is fragile](https://www.livemint.com/opinion/online-views/sri-lanka-may-be-back-on-the-tourism-map-but-its-recovery-is-fragile-11709131361873.html)
+
+Sri Lanka's Colombo airport is experiencing a surge in tourism, contributing significantly to the economy. The country's dependence on tourism, alongside textiles and tea, is highlighted as an example of oceanic countries' reliance on the industry.
+
+However, Sri Lanka's economic recovery faces challenges. Despite currency devaluation, Western buyers prefer countries like Bangladesh for garment production due to efficient supply chains. The withdrawal of visa extensions for Russians and Ukrainians has raised concerns, but may be rescinded.
+
+While there are positive indicators such as GDP growth and lower inflation, concerns remain about backsliding, arbitrary decision-making, and interest payment costs. Increased borrowing worsens the situation.
+
+Sri Lanka faces difficulties in negotiating with private Western creditors and addressing allegations of corruption in Chinese-funded projects. The government must balance selling off public assets and cutting spending with the upcoming election. If it fails to do so, it may increase taxes, leading to comparisons with colonial-era taxation.
+
+Thu, 29 Feb 2024 00:25:16 +0530
+### [Household survey: Fresh light on India’s consumption conundrum](https://www.livemint.com/opinion/online-views/household-survey-fresh-light-on-india-s-consumption-conundrum-11709122358703.html)
+
+Article found but Couldn't summarize 
+The broad picture indicates that consumption is recovering but will continue to play second fiddle to capex in 2024-25 too.
+
+Thu, 29 Feb 2024 00:21:51 +0530
+### [Revaluation call: Don’t write off businesses challenged by sunrise rivalry](https://www.livemint.com/opinion/online-views/revaluation-call-don-t-write-off-businesses-challenged-by-sunrise-rivalry-11709123217427.html)
+
+Despite the perception that certain sectors (newspapers, thermal power, combustion engines) are dying out, they remain prevalent in reality. Investors overly focus on the potential decline of these sectors, leading to undervalued stocks.
+
+Using a "zero-terminal-value discounted cash flow analysis" can help assess these undervalued stocks, assuming the company will eventually cease operations. However, this approach ignores potential upside scenarios, such as demand revival.
+
+Factors contributing to the resurgence of undervalued stocks include tempered excitement for new technologies, strategic shifts by incumbent companies, and increased cash returns to shareholders. As interest rates rise, the value of steady cash flows increases.
+
+Unexpected demand revivals can lead to significant price increases for incumbents in these sectors. Investors should consider evaluating these "forgotten stars" for potential value, recognizing that market perceptions can be overblown.
+
+Thu, 29 Feb 2024 00:19:46 +0530
+### [The EU is planning clear emission-capture norms for its carbon market](https://www.livemint.com/opinion/online-views/the-eu-is-planning-clear-emission-capture-norms-for-its-carbon-market-11709122921660.html)
+
+The European Union (EU) is establishing a Carbon Removal Certification Framework (CRCF) and Green Claims Directive to regulate the carbon market.
+
+The CRCF defines "carbon removal" as capturing and storing CO2 from the atmosphere. The Green Claims Directive requires companies to obtain approval for green marketing claims, which must include certified carbon removal offsets.
+
+Companies can only claim to offset emissions that cannot be reduced further. Carbon credits must be certified under the CRCF, which excludes fossil-fuel emissions and temporary removals like tree planting.
+
+The regulations set standards for certifying carbon removal credits, creating trust and distinguishing them from existing poor-quality products. Companies can still purchase non-certified credits, but they cannot make environmental claims associated with them.
+
+Despite potential limitations, the regulations aim to prevent greenwashing and establish clear standards for carbon removal and offsetting.
+
+Wed, 28 Feb 2024 17:45:01 +0530
+### [Why Apple’s switch of focus from self-driving cars to AI makes sense](https://www.livemint.com/opinion/online-views/why-apple-s-switch-of-focus-from-self-driving-cars-to-ai-makes-sense-11709115694594.html)
+
+Article found but Couldn't summarize 
+Apple could introduce iAI or whatever it chooses to call its own version of an LLM to market quickly. It has a dedicated user base that will be happy to give any new product or service from Apple a fair trial
+
+Wed, 28 Feb 2024 11:55:20 +0530
+### [Saregama: A new tune one more time?](https://www.livemint.com/opinion/online-views/saregama-stock-a-new-tune-one-more-time-11709095273088.html)
+
+Saregama, India's oldest music label, has experienced a resurgence with its Carvaan portable music player that taps into nostalgia. The stock has multiplied 100x in 20 years and delivered 5x returns in five years. Saregama's revenue has grown 22% CAGR and profit before tax has increased 58% since 2016-17. The Carvaan brand has expanded, and the company has captured advertising, transaction, and subscription revenue. Saregama owns IP rights to over 150,000 songs, and is converting older songs into Dolby Atmos. It has also expanded its licensing revenue, with 48% coming from 21st-century tracks. The company aims to double its music licensing revenue and grow its films and video vertical at 25% CAGR. HDFC Securities sees a boost to profits with a move to a subscription model and sets a fair value target of ₹447-477, indicating a potential 13% upside.
+
+Wed, 28 Feb 2024 08:00:24 +0530
+### [Roll back the Big Indian State and relieve the middle-class](https://www.livemint.com/opinion/online-views/roll-back-the-big-indian-state-and-relieve-the-middleclass-11709046546394.html)
+
+Prime Minister Modi has emphasized reducing government interference in citizens' lives, particularly for the middle class. He aims to create a society with minimal state intervention, offering support only to the poor for basic needs. This reflects Rajiv Gandhi's concerns about welfare leakages. Specific areas of reform include streamlining taxation, reducing harassment of taxpayers, simplifying compliance protocols for retirement funds, and improving the efficiency of online sarkari interfaces. Additionally, Modi advocates protecting privacy by preventing government overreach into personal lives and limiting the misuse of laws like sedition to stifle dissent.
+
+Wed, 28 Feb 2024 08:00:23 +0530
+### [Economic reforms may be the capex nudge India Inc needs](https://www.livemint.com/opinion/quick-edit/economic-reforms-may-be-the-capex-nudge-india-inc-needs-11709046989162.html)
+
+Article found but Couldn't summarize 
+Finance Minister Nirmala Sitharaman has urged the corporate sector to increase private capital expenditure and participate in India's economic growth. Animal spirits have been missing too long.
+
+Wed, 28 Feb 2024 08:00:23 +0530
+### [Indian households are investing more in stocks than it may seem](https://www.livemint.com/opinion/online-views/indian-households-are-investing-more-in-stocks-than-it-may-seem-11709046613931.html)
+
+Nilesh Shah's tweet suggests that Indian households invest little in stocks. However, this is an incomplete analysis.
+
+From 2020 to 2023, 94% of household savings went to fixed-income investments like fixed deposits and life insurance, while only 6% went to mutual funds (MFs) and stocks.
+
+However, some insurance premiums and EPFO contributions are invested in stocks indirectly, indicating that households invest more in stocks than the data suggests.
+
+Despite this, the majority of household savings still go to low-risk fixed-income investments. Factors such as risk aversion, tax benefits of insurance, and effective MF advertising have contributed to this trend.
+
+However, the share of household savings held in MFs has increased significantly in recent years, indicating a gradual shift towards equity investments.
+
 Wed, 28 Feb 2024 03:30:52 +0530
 ### [India’s household consumption survey captures predictable changes](https://www.livemint.com/opinion/online-views/indias-household-consumption-survey-captures-predictable-changes-11709046735551.html)
 

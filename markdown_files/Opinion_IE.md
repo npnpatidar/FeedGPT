@@ -1,3 +1,107 @@
+Wed, 28 Feb 2024 15:55:30 +0000
+### [Express View on Rajya Sabha polls: Opposition breaking and BJP winning](https://indianexpress.com/article/opinion/editorials/express-view-rajya-sabha-polls-opposition-breaking-bjp-winning-9186858/)
+
+The Rajya Sabha elections saw cross-voting by Congress and SP MLAs, resulting in BJP victories and setbacks for the opposition. BJP's aggressive "Operation Lotus" strategy includes floor-crossing and splits in rival parties. While the BJP has gained ground in the Upper House, Congress faces further disorganization. Himachal Pradesh's Congress government faces instability due to internal turmoil and BJP opportunism. In Uttar Pradesh, SP's lack of leadership has contributed to its loss. The BJP's "winner-takes-all" approach, which involves using tactics like fear and favoritism, has raised concerns. While it may yield short-term results, it comes with long-term consequences that the ruling party should consider.
+
+Wed, 28 Feb 2024 12:30:55 +0000
+### [From Munich to Raisina: The West’s fall, the East’s rise](https://indianexpress.com/article/opinion/columns/from-munich-to-raisina-the-wests-fall-the-easts-rise-9186042/)
+
+The Munich Security Conference and the Raisina Dialogue reflect the global community's fragmentation into distinct blocs. The Munich Conference focuses on European anxieties, while the Raisina Dialogue represents diverse perspectives, including those of Russia and Iran.
+
+The Munich Conference emphasizes support for Ukraine and Western concerns about Russia's potential ambitions. In contrast, the Raisina Dialogue questions the rules-based order and highlights India's growing influence and the rise of Eastern powers.
+
+Both conferences expose the widening intellectual divide between the West and the Rest, prompting questions about fostering global cooperation. Platforms like the Raisina Dialogue empower different voices, reflecting the evolving global landscape where Eastern powers are gaining prominence.
+
+Wed, 28 Feb 2024 10:13:09 +0000
+### [Tinder, Hinge and Netflix’s ‘One Day’ – the truth and lies of modern love](https://indianexpress.com/article/opinion/columns/tinder-hinge-netflix-one-day-truth-lies-of-modern-love-9185917/)
+
+In modern times, finding love is challenging. Despite dating apps promising connections, people often feel lonely. Screen romances portray love as grand, but real-life relationships are often more complex. "One Day," based on David Nicholls' novel, explores Emma and Dexter's attraction that spans 20 years, navigating the complexities of love. It emphasizes that love can be both grand and mundane, requiring vulnerability, time, and effort. Relationships can face challenges, such as timing and growth, leading to both joy and heartbreak. The show highlights the realities of love, that it's not always straightforward and doesn't always end in happily ever afters.
+
+Wed, 28 Feb 2024 07:42:00 +0000
+### [Could Supreme Court have done justice in Chandigarh if EVMs were used?](https://indianexpress.com/article/opinion/columns/could-supreme-court-have-done-justice-in-chandigarh-if-evms-were-used-9185620/)
+
+An editorial discusses the small-scale election for the Chandigarh Municipal Corporation, which highlights a concerning issue with India's electoral system. Despite known party affiliations, 8 votes for the opposition candidate were declared invalid, prompting a legal challenge that reached the Supreme Court. The editorial raises concerns that similar irregularities could occur in more significant elections for governing states or the country.
+
+The author suggests adopting a simpler voting system that retains EVMs but eliminates VVPATs and Control Units. Instead, a printer would produce a slip with the candidate and party symbol and a barcode for machine counting. Voters would deposit these slips directly into a ballot box for counting.
+
+The author believes this proposed solution addresses the transparency issues in the current EVS and deserves consideration. They question what the Supreme Court would have examined if the Chandigarh election had used EVMs, VVPATs, and Control Units, emphasizing the urgent need for addressing these concerns now.
+
+Wed, 28 Feb 2024 02:10:12 +0000
+### [February 28, Forty Years Ago: Akali Dal leaders arrested for burning part of Section 25 of Constitution](https://indianexpress.com/article/opinion/40-years-ago/february-28-forty-years-ago-akali-leaders-arrest-9184870/)
+
+**Arrests in Punjab**
+Nine Akali Dal leaders, including Parkash Singh Badal and SGPC president Gurcharan Singh Tohra, were arrested for insulting national honor by burning or defacing Article 25 of the Constitution, which mentions Sikhs.
+
+**Economic Survey**
+The Economic Survey reported mixed economic trends in 1983-84, with a high GNP growth rate but continued inflationary pressure and lower-than-expected tax revenues.
+
+**Bandh in Delhi**
+A general strike organized to protest violence in Punjab and Haryana was successful, with most markets and businesses closed. Essential services were exempted.
+
+**Pakistan Frees Opposition Leaders**
+Pakistan released six opposition leaders from detention, including Sardar Sherbaz Khan Mazari, the head of the banned National Democratic Party.
+
+**BCCI Player Retainership**
+The BCCI announced the annual player retainership list for 2023-24, which excluded Ishan Kishan and Shreyas Iyer. Despite being available for the Ranji Trophy semi-final, Iyer skipped the quarter-final due to back pain. Rohit Sharma, Virat Kohli, Jasprit Bumrah, and Ravindra Jadeja are in Grade A+.
+
+Wed, 28 Feb 2024 02:05:12 +0000
+### [Express View on Paul McCartney, break up anthems and mothers: Yesterday, once more](https://indianexpress.com/article/opinion/editorials/express-view-on-paul-mccartney-break-up-anthems-and-mothers-yesterday-once-more-9184860/)
+
+"Yesterday," originally titled "Scrambled Eggs," was inspired by a dream melody Paul McCartney claimed to have had. The lyrics, now attributed to McCartney and John Lennon, may have been a subconscious apology to McCartney's mother, who he lost to cancer when he was young. McCartney's admission of this personal connection adds depth to the song's meaning. Despite its original inspiration, "Yesterday" has taken on new associations over time, including a misinterpretation as a reference to LSD. McCartney's revelation is expected to enhance its legacy.
+
+Wed, 28 Feb 2024 02:04:18 +0000
+### [Remembering Pankaj Udhas: His art — of loss, longing and a letter](https://indianexpress.com/article/opinion/columns/remembering-pankaj-udhas-his-art-of-loss-longing-and-a-letter-9184874/)
+
+Pankaj Udhas, a ghazal singer known for his uncomplicated voice, passed away at 72 from pancreatic cancer. Despite initial skepticism, Udhas's song "Chitthi Aayi Hai," with its evocative lyrics and his emotional delivery, resonated deeply with audiences, evoking feelings of loss and longing.
+
+Udhas's transition to ghazals in the 1980s gained him popularity among those who appreciated the clarity and simplicity of his music, which lacked the virtuosity of some established singers. His accessible style appealed to a wide audience, including those with limited Urdu proficiency.
+
+Udhas's music also found success in the pop genre, with soft-pop ghazals like "Ahista" and "Chandi Jaisa Rang." His ability to connect with listeners on an emotional level, as exemplified by "Chitthi Aayi Hai," remains a testament to his talent and the enduring power of his music.
+
+Wed, 28 Feb 2024 01:40:10 +0000
+### [Why culture was recognised as a goal for the first time under India’s G20 presidency](https://indianexpress.com/article/opinion/columns/why-culture-was-recognised-as-a-goal-for-the-first-time-under-indias-g20-presidency-9184873/)
+
+Under India's G20 presidency, members unanimously agreed to advance culture as a standalone goal, acknowledging its significance for inclusive and sustainable development. Despite its impact on society, culture lacks a specific SDG, overlooking its role in rights-based and inclusive models.
+
+Culture serves as a facilitator for various developmental goals, aligning with the cross-cutting nature of the 2030 Agenda for Sustainable Development. It plays a role in achieving all 17 SDGs, from poverty reduction to environmental preservation.
+
+Recognizing culture as a standalone goal in the post-2030 development agenda is crucial for its transformative impact. This would galvanize global action, empower marginalized communities, and safeguard vulnerable heritage.
+
+India's support for culture is grounded in its rich heritage and commitment to sustainability. Traditional wisdom and cultural practices offer innovative solutions to contemporary challenges, demonstrated by India's low-waste economy and emphasis on responsible resource utilization through its "Lifestyle for Environment" initiative.
+
+Wed, 28 Feb 2024 01:37:51 +0000
+### [Open book exams — a step towards ‘learning without burden’ for students](https://indianexpress.com/article/opinion/columns/open-book-exams-a-step-towards-learning-without-burden-for-students-9184811/)
+
+The open-book examination, aimed at reducing stress on students, is not a novel concept in education. Despite government efforts, the issue of student stress persists and has worsened.
+
+The Yash Pal committee in the 1990s attributed the problem to a false notion of knowledge, poor curriculum design, and competitive societal pressures. However, a recent report highlights that stress has evolved into pervasive anxiety due to dwindling economic opportunities.
+
+Coaching institutes have capitalized on this pressure, promoting MCQ-based testing that undermines students' understanding. The popularity of technology in education has exacerbated the issue, although its impact remains largely unexplored.
+
+Despite the gains made in curriculum and teacher education reforms, the COVID-19 pandemic has nullified some progress, creating new challenges such as shortened and more difficult textbooks and teacher shortages.
+
+While open-book exams may alleviate stress, the underlying problem of intrinsic motivation remains unaddressed. The author suggests that another RK Narayan is needed to draw attention to this societal madness that robs children of their curiosity and interest.
+
+Wed, 28 Feb 2024 01:30:39 +0000
+### [Express View on India’s Test win: The young ones](https://indianexpress.com/article/opinion/editorials/express-view-on-indias-test-win-the-young-ones-9184853/)
+
+India's Test series win against England holds special significance despite a shaky start for England. The visitors' aggressive "Bazball" approach initially challenged India's dominance, but injuries to key players (Rahul, Jadeja) and the absence of Kohli put pressure on India's batting.
+
+Despite setbacks, young players like Gill and Jaiswal stepped up with crucial performances. Pitch changes to counter England's spinners helped India regain control. The series showcased the growth of India's young guns and the resilience of Ashwin and Kuldeep.
+
+In contrast, Himachal Pradesh MLA Vikramaditya Singh resigned from his cabinet position due to alleged humiliation by the Sukhvinder Singh Sukhu government. The move has raised concerns about the future of the Congress party in the state, especially after six Congress MLAs voted for the BJP in the Rajya Sabha polls.
+
+Wed, 28 Feb 2024 01:15:46 +0000
+### [Express View on India’s tariff regime: Costs of a barrier](https://indianexpress.com/article/opinion/editorials/express-view-on-indias-tariff-regime-costs-of-a-barrier-9184852/)
+
+Since 1990, India has lowered tariffs significantly. However, since 2014, there have been substantial tariff increases, raising the average tariff to 18%, placing India among the highest in the world.
+
+High tariffs harm domestic manufacturers, exports, and consumers, as well as have adverse effects on sectors like electronics and pharmaceuticals due to India's reliance on Chinese imports.
+
+Amidst growing protectionism, some government officials are advocating for a more nuanced approach. The Ministry of Electronics and Information Technology has urged tariff reductions on mobile phone components.
+
+The government has reduced import duties on components used in mobile phone manufacturing. it should also pursue trade agreements, as it has recently done with the UAE and Australia.
+
 Tue, 27 Feb 2024 12:38:47 +0000
 ### [Our classrooms showed us the world. They must be protected from politics of division](https://indianexpress.com/article/opinion/columns/classrooms-politics-of-division-9184080/)
 

@@ -1,3 +1,43 @@
+Wed, 28 Feb 2024 12:48:06 +0000
+### [Why $60 mn Google-Reddit AI deal foretells future of content licensing for LLMs](https://indianexpress.com/article/explained/explained-sci-tech/google-reddit-60-million-ai-deal-9186430/)
+
+Article found but Couldn't summarize
+
+Wed, 28 Feb 2024 12:47:43 +0000
+### [Who was Santhan, Rajiv Gandhi assassination convict who died less than 2 years after his release?](https://indianexpress.com/article/explained/who-was-santhan-rajiv-gandhi-assassination-convict-who-died-9186481/)
+
+Santhan, also known as T Suthenthiraraja, was a member of the LTTE, accused of involvement in Rajiv Gandhi's assassination. He came to India in 1991 and joined the conspiracy.
+
+Santhan spent over 32 years in prison, including 22 years on death row. He was released in 2022 but was ordered for repatriation to Sri Lanka. He died in Chennai on Wednesday, while undergoing treatment for liver disease.
+
+His family lives in Udupiddy, Sri Lanka. His mother, Maheshwari, remembers him leaving home in 1990 to study in London. His brother, Sudhakaran, confirmed that Santhan planned to fly to London three days after his arrest.
+
+Wed, 28 Feb 2024 11:09:24 +0000
+### [Why did the Supreme Court ban Patanjali from advertising its products?](https://indianexpress.com/article/explained/explained-law/supreme-court-patanjali-advertising-ban-9186029/)
+
+The Supreme Court has banned Patanjali Ayurved from advertising its products due to misleading claims. The Indian Medical Association (IMA) filed a petition after Patanjali published ads attacking allopathic medicine, claiming it was "stupid" and responsible for COVID-19 deaths. Despite assurances from Patanjali to the court that such claims would cease, the company continued to publish misleading ads claiming "permanent relief" for diseases and superiority over conventional medicines. The court deemed Patanjali's actions "unacceptable" and imposed a blanket ban on all advertising of its medicinal products until further orders. The case will be heard again on March 19.
+
+Wed, 28 Feb 2024 09:22:53 +0000
+### [Is Lord Krishna’s Dwarka under water? The many legends, traces of a lost city](https://indianexpress.com/article/explained/explained-history/lord-krishna-dwarka-under-water-9185774/)
+
+Article found but Couldn't summarize
+
+Wed, 28 Feb 2024 07:53:12 +0000
+### [National Science Day: The Raman Effect, which CV Raman won the Nobel for](https://indianexpress.com/article/explained/explained-sci-tech/national-science-day-cv-raman-9185655/)
+
+In 1986, India instituted National Science Day to commemorate Sir CV Raman's discovery of the "Raman Effect" in 1930, earning him a Nobel Prize. The Raman Effect occurs when light passing through a liquid scatters, resulting in a different color due to changes in wavelength.
+
+CV Raman, born in 1888, published his first research paper at 18 and began his breakthrough experiments on light scattering after becoming an assistant accountant general in Calcutta. His observations on the Mediterranean Sea's blue color led to the discovery.
+
+Raman's discovery revolutionized quantum theory and gave birth to Raman spectroscopy, a tool for chemical analysis. Today, it has diverse applications, including studying art, detecting drugs, and conducting non-invasive examinations.
+
+Wed, 28 Feb 2024 01:30:35 +0000
+### [Row over Karnataka temple Bill: What changes it proposed, how other states manage temple revenues](https://indianexpress.com/article/explained/explained-law/what-is-the-karnataka-temple-bill-controversry-9184880/)
+
+The Karnataka government's proposal to increase Hindu temple taxation by diverting a portion of their gross income to a common pool failed in the Legislative Council due to opposition from the BJP. The Bill aimed to redistribute temple income to support lower-income temples and provide benefits to priests. However, the BJP criticized the government for targeting Hindu temples alone and claimed that the funds would not be used for religious purposes.
+
+Other states have different approaches to temple revenue management. Telangana has a Common Good Fund where religious institutions contribute a percentage of their income for temple maintenance and religious education. Kerala has Devaswom Boards that manage temples and receive state funding, but revenue figures are not publicly disclosed.
+
 Tue, 27 Feb 2024 15:42:01 +0000
 ### [Palestinian Authority govt resigns: Why, and can it help shorten the war in Gaza?](https://indianexpress.com/article/explained/explained-global/palestinian-authority-govt-resigns-why-war-in-gaza-9184640/)
 
