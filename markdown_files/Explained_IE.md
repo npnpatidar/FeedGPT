@@ -1,3 +1,70 @@
+Thu, 29 Feb 2024 23:00:10 +0000
+### [First semiconductor fabrication plant can help plug in to global value chain](https://indianexpress.com/article/explained/first-semiconductor-fabrication-plant-can-help-plug-in-to-global-value-chain-9189172/)
+
+The Union Cabinet has approved semiconductor projects worth ₹1.26 lakh crore, with the key highlight being Tata Group's partnership with TSMC to establish a semiconductor fabrication plant in India. This plant will produce semiconductor wafers for various industries, including high-performance computing and microcontrollers. The plant's construction is expected to begin in three months.
+
+The plant is significant for India's semiconductor ambitions, as domestic manufacturing of these wafers is crucial for meeting national needs. The plant is part of a government-funded initiative to boost the domestic semiconductor industry, including a ₹76,000 crore chip incentive scheme.
+
+Semiconductors are complex products requiring specialized facilities (fabs) for manufacturing. India aims to develop its semiconductor ecosystem by attracting foreign companies and promoting domestic research. Challenges include attracting highly skilled talent and fostering original semiconductor design research, but the government is investing in R&D to address these issues.
+
+Thu, 29 Feb 2024 15:58:51 +0000
+### [Explained: Red Bull team principal Christian Horner cleared in mysterious probe, but fate in F1 uncertain](https://indianexpress.com/article/explained/explained-sports/red-bull-christian-horner-cleared-in-mysterious-probe-9188913/)
+
+Formula One has been embroiled in controversy before the start of its 2024 season. Rumors abound about Lewis Hamilton's possible move to Ferrari, while Christian Horner, Red Bull team principal, has been cleared by an internal investigation into allegations of inappropriate behavior.
+
+Despite the clearance, Horner's future in F1 remains uncertain as details of the allegations against him remain undisclosed. This lack of transparency has led to speculation and placed Red Bull, F1, and stakeholders like sponsors and drivers in a precarious position.
+
+Mercedes team principal Toto Wolff and driver Lewis Hamilton have called for greater clarity, while Verstappen has expressed trust in the process. Red Bull's dominance in recent years is at stake, with Horner's departure potentially leaving the team in uncharted territory.
+
+Thu, 29 Feb 2024 15:09:50 +0000
+### [PM Modi launches hydrogen-powered ferry: features, significance](https://indianexpress.com/article/explained/pm-modi-launches-hydrogen-powered-ferry-features-significance-9188830/)
+
+India has launched its first domestically built hydrogen fuel cell ferry, named "Harit Nauka." Built by Cochin Shipyard Limited, the ferry has a 24-meter catamaran design and can accommodate 50 passengers. It is eco-friendly, with zero emissions, noise, and energy efficiency due to its hydrogen fuel cell technology, which generates electricity using hydrogen and releases only water. The ferry uses a 50-kW PEM fuel cell with Lithium-Ion Phosphate batteries, developed by KPIT Technologies and the Council of Scientific and Industrial Research Labs. India has now indigenously developed hydrogen fuel cell systems, giving it an advantage in the marine sector. The "Harit Nauka" initiative aims to transition inland vessels to green fuels, with the ferry as a pilot project.
+
+Thu, 29 Feb 2024 14:09:07 +0000
+### [How does a chatbot remember the prompts you gave it? Understanding context windows](https://indianexpress.com/article/explained/explained-sci-tech/what-are-context-windows-in-ai-9188742/)
+
+ChatGPT is a chatbot powered by GPT 3.5 or GPT-4, a large language model (LLM). The chatbot interacts with users through a chat interface, similar to messengers.
+
+Context windows are crucial for AI models to recall information during a conversation. The size of the context window determines the amount of information the model can consider at once to generate responses. Larger context windows provide more information but require more computational power and can lead to irrelevant information being included.
+
+GPT-4 Turbo has a massive context window of 128K tokens, while Google Gemini 1.5 Pro has a context window of up to 1 million tokens. While larger windows can enhance accuracy, they come with challenges such as increased computational power, memory bandwidth, and storage requirements. Additionally, large context windows can result in repetitive or contradictory responses and a higher carbon footprint.
+
+Thu, 29 Feb 2024 13:37:42 +0000
+### [Why homesexuality is ‘natural’ in the animal kingdom](https://indianexpress.com/article/explained/explained-sci-tech/homesexuality-in-animal-kingdom-9188557/)
+
+Researchers observed male humpback whales engaging in sexual activity for the first time in 2022. Homosexuality is prevalent in many animal species, attributed to both biological and environmental factors. Despite reproductive implications, homosexuality persists due to hypotheses such as "indiscriminate mating," where individuals indiscriminately mate without recognizing sex. Other hypotheses suggest adaptive functions, such as fostering social bonds and reducing intrasexual aggression. Studies have found a correlation between same-sex sexual behavior and sociality, and evidence indicates it may mitigate adulticide in males. Same-sex sexual behavior is considered a convergent adaptation in mammals, providing survival benefits.
+
+Thu, 29 Feb 2024 12:33:10 +0000
+### [Who is Abdul Karim ‘Tunda’, linked to 40 terrorist bombings, and now acquitted in one case?](https://indianexpress.com/article/explained/who-is-abdul-karim-tunda-acquitted-bomb-blasts-9188408/)
+
+Abdul Karim "Tunda," an alleged bomb expert and Lashkar-e-Taiba (LeT) operative, has been acquitted in a 1993 train blasts case. The acquittal comes despite being linked to numerous terrorist attacks over the years.
+
+Tunda, born in 1943, joined the neo-fundamentalist sect after witnessing communal violence during the Ram Janmabhoomi movement. He later traveled to Pakistan and received training in explosives from the ISI.
+
+After the Babri Masjid demolition in 1992, Tunda is suspected of being involved in several bombings, including the December 6, 1993, train blasts. He was also accused of raising funds and scouting recruits for LeT.
+
+Apprehended in 2013, Tunda faced multiple cases, but was acquitted in most. Despite being convicted in a 1996 blast case, the Punjab and Haryana High Court later commuted his sentence.
+
+Thu, 29 Feb 2024 12:24:07 +0000
+### [Why Apple has shelved its car project: Vehicles are now more about software than hardware](https://indianexpress.com/article/explained/explained-sci-tech/apple-shelve-car-project-ai-significance-9188455/)
+
+Apple has ended its 10-year electric self-driving car project, Project Titan, to focus on generative AI and mixed-reality headsets. The shift from mechanical to software-driven vehicles has made car manufacturing more software-centric, giving Apple an advantage due to its expertise in this area.
+
+Apple's CarPlay smartphone integration platform, supported by most new US cars, has allowed it to dominate the car software experience. CarPlay has fostered customer loyalty and given Apple control over driver data, which is expected to become increasingly valuable in the future.
+
+The growing demand for connectivity and digital offerings in cars is driving a shift towards software integration, creating opportunities for companies like Apple. Legacy automakers are facing software challenges and are actively hiring software engineers to address this gap.
+
+Thu, 29 Feb 2024 07:23:49 +0000
+### [Did Morarji Desai really drink his own urine?](https://indianexpress.com/article/explained/everyday-explainers/morarji-desai-drink-urine-birthday-leap-day-9187741/)
+
+Article found but Couldn't summarize
+
+Thu, 29 Feb 2024 02:00:31 +0000
+### [Explained: The Genome India project, aimed at creating a genetic map of the country](https://indianexpress.com/article/explained/explained-health/creating-indias-genetic-map-9187160/)
+
+The Genome India initiative has sequenced 10,000 genomes from Indian individuals, creating a genetic map of the population. The 8 petabyte dataset is a "digital public good" available to researchers for developing diagnostics, therapies, and studying rare diseases. The project aims to map the genetic diversity of India's distinct population groups. Researchers have identified 135 million genetic variants found in India, including mutations associated with cardiac arrest and skin conditions. The database enables targeted treatments, identifies resistance-indicating variants, and helps prevent adverse reactions to anesthesia. The sequencing process takes five days per genome and involved collecting samples from 99 population groups. The completed map provides a baseline for understanding the genetic makeup of India's population.
+
 Wed, 28 Feb 2024 12:48:06 +0000
 ### [Why $60 mn Google-Reddit AI deal foretells future of content licensing for LLMs](https://indianexpress.com/article/explained/explained-sci-tech/google-reddit-60-million-ai-deal-9186430/)
 

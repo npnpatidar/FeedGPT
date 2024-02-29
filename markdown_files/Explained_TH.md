@@ -1,3 +1,8 @@
+Thu, 29 Feb 2024 22:44:51 +0530
+### [On cross-voting in Rajya Sabha elections | Explained](https://www.thehindu.com/news/national/on-cross-voting-in-rajya-sabha-elections-explained/article67901293.ece)
+
+The Rajya Sabha elections have been marred by cross-voting from MLAs in Himachal Pradesh, Uttar Pradesh, and Karnataka. To curb this practice, the Representation of the People Act was amended in 2003 to mandate open ballot voting and the 'anti-defection' law was introduced in 1985. Despite these measures, cross-voting continues, undermining the sanctity of the election process. The Supreme Court has upheld open ballot voting for Rajya Sabha elections, but ruled that cross-voting does not warrant disqualification under the 'anti-defection' law. However, it has also held that a member's conduct within and outside the House can be considered when determining voluntary abandonment of party membership. To combat cross-voting effectively, the Supreme Court may consider reviewing its ruling in light of its judgment in the Ravi Naik case, potentially leading to disqualification for MLAs who defy party whips in Rajya Sabha elections.
+
 Wed, 28 Feb 2024 06:00:00 +0530
 ### [Why sustainable funding matters for India’s ‘science power’ ambition | Explained](https://www.thehindu.com/sci-tech/science/sustainable-funding-science-power-ambition-india/article67884760.ece)
 

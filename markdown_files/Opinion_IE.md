@@ -1,3 +1,102 @@
+Thu, 29 Feb 2024 12:45:42 +0000
+### [Pakistan’s new government has internal turmoil, India must wait and watch](https://indianexpress.com/article/opinion/columns/pakistan-elections-govt-india-9188530/)
+
+Pakistan's recent election has resulted in political uncertainty due to widespread poll rigging and flawed mandates. The new government, led by PML(N) and supported by PPP, faces challenges due to an unwieldy coalition, economic woes (deficits, inflation, IMF deadline), and a precarious security situation (terrorism, regional tensions).
+
+Despite the army's setback, it remains influential in governance. Nawaz Sharif has invested in Punjab to revive his party's fortunes. The government's weakness and instability are likely to exacerbate these challenges.
+
+Expanding the thaw with India is appealing internally but constrained by the government's preoccupation, political polarization, and the army's influence. India should adopt a wait-and-watch approach to the new government's move and respond positively to any constructive initiatives.
+
+Thu, 29 Feb 2024 11:43:10 +0000
+### [Making sense of Aaron Bushnell’s self-immolation for Gaza: Can suicide be a moral act?](https://indianexpress.com/article/opinion/columns/making-sense-of-aaron-bushnells-self-immolation-can-suicide-be-a-moral-act-9188316/)
+
+Aaron Bushnell's self-immolation during a protest against Israel's treatment of Palestinians has sparked controversy. While some view such acts as symptoms of mental health issues, others believe they are a form of political solidarity and agency. Emile Durkheim's theory of social facts suggests that suicide can be influenced by external societal forces, but Bushnell's act does not fit neatly into his categories. David Hume argues that suicide is not inherently immoral and may be a result of profound suffering. Bushnell's protest was a response to the suffering he witnessed in Gaza and his refusal to be complicit in mass killing. While his death is a tragedy, his act holds the hope that others will open their eyes to injustice and prioritize empathy over complacency.
+
+Thu, 29 Feb 2024 07:01:47 +0000
+### [A five-year report card for PM-Kisan](https://indianexpress.com/article/opinion/columns/pradhan-mantri-kisan-samman-nidhi-five-year-report-card-9187702/)
+
+**Pradhan Mantri Kisan Samman Nidhi (PM-Kisan)**
+
+Launched in 2019, PM-Kisan provides supplementary income support to eligible farmer families in India. Under the scheme, farmers receive Rs 6000 annually in three installments through direct bank transfers.
+
+**Key Features:**
+
+* Supports productive and sustainable agriculture
+* Reached over 11 crore farmer families in the past five years
+* Provides financial assistance to a majority of farmers without leakages
+* Benefits 85% of small and marginal farmers and at least 25% are women farmers
+* Integrates with various digital platforms for efficiency and transparency
+
+**Technological Advancements:**
+
+* Web portal and mobile app for farmers to track their status
+* E-KYC and grievance redressal systems
+* Multilingual voice-based chatbot for real-time assistance
+* Collaboration with Common Service Centres for doorstep services
+* Nodal officers in villages and outreach campaigns to reach eligible farmers
+
+**Impact:**
+
+* Direct cash transfers have enabled farmers to invest in agricultural inputs and equipment
+* Improved financial resilience during the COVID-19 pandemic
+* Contributed to a positive impact on the lives of farmers in India
+
+Thu, 29 Feb 2024 01:37:31 +0000
+### [What consumption expenditure survey leaves unanswered](https://indianexpress.com/article/opinion/columns/what-consumption-expenditure-survey-leaves-unanswered-9187003/)
+
+While the Household Consumption Expenditure Survey (HCES) 2022-23 provides a glimpse into current household consumption patterns, certain caveats limit its comparability with previous surveys.
+
+The HCES's revised survey design, including multiple household visits and separate questionnaires, likely introduces an upward bias in consumption expenditure estimates. The absence of a subset of households surveyed with the older methodology hinders accurate comparison.
+
+Imputed values for free-of-cost social welfare items may also affect validity, calling for the release of unit-level price and quantity data.
+
+Despite these limitations, within-survey indicators reveal a decline in rural-urban inequality and a narrowing of inter-caste gaps in urban MPCE. Rural inter-caste gaps have remained largely unchanged, while food expenditure has declined across regions.
+
+The survey raises concerns about the potential impact of survey instrument changes on the measurement of change over time. Longitudinal panel surveys in other countries demonstrate the feasibility of balancing the need for survey adaptation with the maintenance of comparability.
+
+Thu, 29 Feb 2024 01:36:01 +0000
+### [On surrogacy, Indian law goes a step further — but not far enough](https://indianexpress.com/article/opinion/columns/on-surrogacy-indian-law-goes-a-step-further-but-not-far-enough-9187014/)
+
+India's Surrogacy (Regulation) Act and Rules have undergone amendments, including clarifying the use of donor gametes and tightening eligibility criteria. Only married couples and single women who are widowed or divorced can seek surrogacy, with a focus on using their own gametes. This move highlights societal norms, with alternative family structures facing exclusion. The amendment allowing donor gametes for couples with medical conditions does not extend to single women. The regulations prioritize biological relatedness and potential hierarchies between different family-making methods. However, a previous parliamentary report emphasized the importance of equal choice between surrogacy and adoption, without implied disparities in status.
+
+Thu, 29 Feb 2024 01:33:32 +0000
+### [AI, sovereignty and Isaac Asimov’s warning](https://indianexpress.com/article/opinion/columns/ai-sovereignty-and-isaac-asimovs-warning-9187012/)
+
+Isaac Asimov's "I, Robot" explores ethical concerns surrounding AI and robotics, emphasizing the importance of safety and alignment with human values. It highlights the limitations of the Three Laws of Robotics and the potential dangers of AI becoming autonomous.
+
+The article emphasizes the risks AI poses to national security and sovereignty:
+
+1. **Reshaping Sovereignty:** AI creates new digital spaces which can challenge traditional state control, shifting power dynamics between nations, corporations, and individuals.
+2. **Influence on Democracy:** AI can be used by foreign powers to manipulate information and influence public opinion, potentially undermining democratic processes.
+3. **Lethal Autonomous Weapons Systems:** LAWS raise ethical and technical concerns, posing risks of unintended escalation and discrimination in military conflicts.
+4. **Cybersecurity Threats:** AI-enhanced cybersecurity methods can penetrate critical infrastructure, threatening national stability and well-being.
+
+To address these challenges, the article calls for a robust global AI governance body and national-level regulations tailored to mitigate threats to sovereignty posed by AI.
+
+Thu, 29 Feb 2024 01:33:19 +0000
+### [Why India’s youth is chasing the sarkari naukri](https://indianexpress.com/article/opinion/columns/why-indias-youth-chasing-the-sarkari-naukri-9187008/)
+
+Postgraduate students primarily aspire for government employment due to its perceived job security, benefits (healthcare, housing), and power. However, income data from the Periodic Labour Force Survey shows that only 9% of earners are in government service.
+
+Among salaried employees, income is higher for government service compared to self-employment in lower income groups (below Rs 25,000 per month). However, self-employed individuals earn more in higher income groups.
+
+The attractiveness of government jobs stems from access to affordable facilities like healthcare and housing. If the government provided equal access to these facilities for all, self-employment would become more appealing.
+
+Thu, 29 Feb 2024 01:31:26 +0000
+### [Express View: AI beauty revives old anxieties](https://indianexpress.com/article/opinion/editorials/express-view-ai-beauty-revives-old-anxieties-9187010/)
+
+Article found but Couldn't summarize
+
+Thu, 29 Feb 2024 01:20:23 +0000
+### [Express View on Gaganyaan: Sky’s not the limit](https://indianexpress.com/article/opinion/editorials/express-view-on-gaganyaan-skys-not-the-limit-9187009/)
+
+Four Indian air force officers (Prasanth Nair, Ajit Krishnan, Angad Pratap, and Shubhanshu Shukla) have been selected for India's first human space flight mission, Gaganyaan. They received their astronaut wings from Prime Minister Modi. Gaganyaan aims to send humans to low Earth orbit by 2024, demonstrating India's indigenous spaceflight capabilities and putting it on par with other spacefaring nations. The mission's success will boost India's space program, which has seen recent achievements with missions like Mangalyaan and Chandrayaan. India aims to create an ecosystem that can compete globally in scientific research, with initiatives such as opening up the space sector and increasing foreign investment. The selection of these astronauts symbolizes a significant step in India's ambition to establish a competitive and thriving scientific and technological landscape.
+
+Thu, 29 Feb 2024 01:15:29 +0000
+### [February 29, 1984, Forty Years Ago: A Peace Offering](https://indianexpress.com/article/opinion/40-years-ago/february-29-1984-forty-years-ago-a-peace-offering-9187011/)
+
+Article found but Couldn't summarize
+
 Wed, 28 Feb 2024 15:55:30 +0000
 ### [Express View on Rajya Sabha polls: Opposition breaking and BJP winning](https://indianexpress.com/article/opinion/editorials/express-view-rajya-sabha-polls-opposition-breaking-bjp-winning-9186858/)
 

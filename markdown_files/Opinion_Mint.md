@@ -1,3 +1,71 @@
+Fri, 01 Mar 2024 02:38:25 +0530
+### [India-EU trade mustn’t stumble on digital sovereignty](https://www.livemint.com/opinion/online-views/indiaeu-trade-mustn-t-stumble-on-digital-sovereignty-11709219303430.html)
+
+The EU's recent digital policy initiatives, including the Digital Services Act (DSA) and a white-paper on infrastructure, aim to increase digital sovereignty and regulatory control. However, these initiatives conflict with the EU's goal of accelerating digital trade, particularly with India, as they impose complex compliance obligations for Indian internet companies.
+
+The EU's strict regulatory approach, guided by legal sovereignty, limits exceptions for FTAs and creates uncertainty for trade. Additionally, the EU's ex-ante regulation approach for digital markets, echoed in India's plans, complicates negotiations due to different forecasts of future risks.
+
+Despite these challenges, both the EU and India acknowledge the potential of digital technology for economic growth. India can leverage its software and services capabilities to support Europe's digital transformation, while Europe must find ways to reduce its reliance on foreign digital infrastructure.
+
+To foster collaboration, India should focus on innovation-friendly regulations and advocate for liberalization of EU digital markets. The EU, in turn, should collaborate with India to decrease its dependence on foreign technology. Both parties need flexible policy strategies to remain relevant in the evolving digital landscape.
+
+Fri, 01 Mar 2024 02:35:47 +0530
+### [State-level rumbles in the Indian federation: Can the 16th FC help?](https://www.livemint.com/opinion/online-views/statelevel-rumbles-in-the-indian-federation-can-the-16th-fc-help-11709207501212.html)
+
+Amidst farmer unrest, there is concern about unfair fiscal treatment of states by the Union government. States receive a percentage of gross taxes collected by the Centre, as prescribed by Finance Commissions every five years. However, states allege that Central cesses and surcharges, which are excluded from the shareable revenue base, are used to reduce their statutory payments.
+
+In 2022-23, states received 31.1% of the reported gross tax revenue, significantly below the adjusted target of 40.8%. This shortfall is attributed to the exclusion of cesses. Including statutory grants and non-statutory flows, states received a total of 57.8% of gross Central tax revenue (excluding GST cess).
+
+The dissatisfaction arises from the statutory tax share being 8.3% below the target. The upcoming 16th Finance Commission is encouraged to incentivize the Centre to merge cesses into the basic tax structure in exchange for a lower aggregate share for states. The lesson is that the states' effective tax share can languish near its pre-ramp-up level if cesses and surcharges are excluded from the shareable revenue base.
+
+Fri, 01 Mar 2024 02:28:32 +0530
+### [Google's Gemini opens our eyes to who we really are: Guinea pigs for gen AI](https://www.livemint.com/opinion/online-views/googles-gemini-opens-our-eyes-to-who-we-really-are-guinea-pigs-for-gen-ai-11709207534655.html)
+
+Google is facing accusations of biased AI due to its new chatbot Gemini generating images with excessive diversity, including non-Caucasian historical figures. This highlights the company's prioritization of growth over ethical considerations, as it has previously faced criticism for its photo-tagging tool labeling African-American individuals as apes. Google's focus on speed and market dominance has led to the release of faulty AI tools like Bard, despite warnings from employees. While Google claims responsible AI is a priority, its investment in AI ethics teams has been minimal, with safety testers significantly outnumbered by developers. Google's CEO advocates for regulation but acknowledges the lack of food inspectors in the AI industry. This allows the company to continue releasing problematic AI systems without immediate consequences, highlighting the need for a shift towards prioritizing safety and fairness.
+
+Fri, 01 Mar 2024 02:26:17 +0530
+### [There’s a lesson for India in the wars going on overseas](https://www.livemint.com/opinion/online-views/theres-a-lesson-for-india-in-the-wars-going-on-overseas-11709207573380.html)
+
+War is complex and often difficult to understand, especially for those not directly involved. The ongoing wars in Ukraine and the Middle East highlight this challenge.
+
+Europe struggles to respond to Russian aggression against Ukraine, with no consensus on sending troops and concerns about rising costs. Despite US military aid, Putin aims to outlast Western support.
+
+The conflict in the Middle East continues, with Israel facing pressure to avoid escalating violence in Gaza. Both Ukraine and Israel rely on external support, but waning international support and challenges in formulating coherent strategies make achieving their goals difficult. The article emphasizes the need for Indian policymakers to learn from these conflicts and prepare for such challenges.
+
+Thu, 29 Feb 2024 15:58:55 +0530
+### [The finite that hints at the infinite](https://www.livemint.com/opinion/columns/the-finite-that-hints-at-the-infinite-11709201135481.html)
+
+Visiting his college campus after many years, the author reflects on the passage of time and the difficulty in quantifying certain aspects of the campus and life in general. While some things, like student enrollment, can be easily counted, others, such as the number of trees, leaves, or bubbles in a cup of coffee, are much more challenging. Despite the apparent finiteness of these quantities, the act of counting them can be infinite due to the constant addition of new elements. The author suggests that this endlessness leads to the concept of "infinity" being applicable to seemingly finite numbers, such as grains of sand, stars, or cells in the body.
+
+Thu, 29 Feb 2024 10:07:13 +0530
+### [The Reliance-Disney merger is great for them. But will it be for consumers?](https://www.livemint.com/opinion/online-views/the-reliance-disney-merger-is-great-for-them-but-will-it-be-for-consumers-11709179410853.html)
+
+Reliance Industries and Walt Disney have merged their Indian TV and streaming businesses, creating an $8.5 billion joint venture that gives Reliance a 63.16% stake and Disney a 36.84% stake. The venture, valued at $8.5 billion, combines Viacom18's and Star India's assets, making it the largest media empire in India, capturing 40% of the market. The merger is expected to strengthen Disney's position in India's streaming market and provide access to over 750 million viewers. While the merger is likely to attract advertisers initially, concerns remain about its potential impact on consumer welfare. The Competition Commission of India will review the merger, raising questions about whether it may lead to reduced competition, higher costs, or potential data exploitation.
+
+Thu, 29 Feb 2024 08:00:09 +0530
+### [Power tilt ahead: The NDA’s looking at a Rajya Sabha majority](https://www.livemint.com/opinion/quick-edit/power-tilt-ahead-the-nda-s-looking-at-a-rajya-sabha-majority-11709136491991.html)
+
+The BJP won 10 out of 15 Rajya Sabha seats in Uttar Pradesh, Himachal Pradesh, and Karnataka. Notably, six Congress and three independent legislators in Himachal voted for the BJP's Harsh Mahajan, leading to a tie with Congress's Abhishek Manu Singhvi. A draw of lots resulted in Mahajan's victory. This raises questions about the Congress government's majority in Shimla. The BJP's total strength in Rajya Sabha will increase to 117, potentially giving it a majority (121) and strengthening its legislative hold and policy agenda.
+
+Thu, 29 Feb 2024 08:00:09 +0530
+### [Patanjali pulled up by the SC: Truth matters in advertising](https://www.livemint.com/opinion/online-views/patanjali-pulled-up-by-the-sc-truth-matters-in-advertising-11709131186366.html)
+
+The Supreme Court of India has reprimanded Patanjali Ayurved for making false claims about its products curing diseases. The court found that Patanjali had violated its orders to refrain from such advertisements. The court also criticized the government for failing to act against the company. Patanjali's products have not been scientifically validated for their claimed benefits, and the court has barred the company from making these claims. The court emphasized the importance of scientific testing and evidence-based medicine, and the dangers of quackery.
+
+Thu, 29 Feb 2024 08:00:09 +0530
+### [Fakeness and flakiness are not hard to spot in the social sector](https://www.livemint.com/opinion/online-views/fakeness-and-flakiness-are-not-hard-to-spot-in-the-social-sector-11709131249193.html)
+
+The author criticizes the use of the term "partner" for NGOs receiving funding, arguing that it misrepresents the relationship as equal. They observe that donors often profess virtues like treating grantees as equals but may act differently, a form of "fakeness" in the social sector.
+
+The author introduces a "fake-flake" matrix to categorize organizations:
+
+* **Fake-fake:** Intellectual and relational fakeness, without operational or ethical rigor
+* **Authentic-flake:** Intellectual and relational authenticity, but operational and ethical flakiness
+* **Fake-rigorous:** Intellectual and operational rigor, but relational and ethical fakeness
+* **Authentic-rigorous:** Intellectual, operational, relational, and ethical authenticity and rigor
+
+The author believes that "fake-flakes" are easily noticed, while "fake-rigorous" are subtle and insidious, but that "authentic-rigorous" organizations are effective and common. They acknowledge that some degree of fakeness and flakiness is inevitable but emphasize the importance of authenticity and rigor in the social sector.
+
 Thu, 29 Feb 2024 00:27:59 +0530
 ### [Sri Lanka may be back on the tourism map but its recovery is fragile](https://www.livemint.com/opinion/online-views/sri-lanka-may-be-back-on-the-tourism-map-but-its-recovery-is-fragile-11709131361873.html)
 

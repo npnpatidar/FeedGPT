@@ -1,3 +1,119 @@
+Thu, 29 Feb 2024 21:04:02 +0530
+### [Why Belgian Malinois dog breed is a favourite of special forces around the world](https://www.firstpost.com/explainers/belgian-malinois-dog-breed-special-forces-nsg-squad-labrador-13743784.html)
+
+The Belgian Malinois breed has gained prominence in military and police forces due to its versatility, loyalty, and agility. India's National Security Guard (NSG) plans to replace Labradors with Belgian Malinois for future operations due to the breed's keen sense of smell, courage, and ability to work in diverse environments.
+
+The Belgian Malinois's strengths include its high trainability, strength, stamina, and ability to parachute and ropel out of aircraft. It has proven effective in missions such as sniffing out explosives, tracking and attacking terrorists, and providing security. Past high-profile missions involving Belgian Malinois include the raid on Osama bin Laden's compound in Pakistan and the pursuit of ISIS leader AbÅ« Bakr al-Baghdadi in Syria.
+
+To strengthen its canine unit, NSG is training Belgian Malinois to sniff, track, and attack to aid in counter-terrorism operations. The breed's loyalty and professionalism make it a more reliable choice compared to Labradors, which can be easily distracted and less suited for demanding operations.
+
+Thu, 29 Feb 2024 19:58:18 +0530
+### [Explained: Why don’t humans have tails?](https://www.firstpost.com/explainers/explained-why-humans-dont-have-tails-mutation-discovery-broad-institute-13743765.html)
+
+Scientists have discovered that a small change in the TBXT gene, specifically the insertion of a DNA snippet called AluY, is likely responsible for the loss of tails in apes and humans. This discovery was made after comparing the DNA of tail-less apes and humans to tailed monkeys. The insertion in the TBXT gene has been shown to influence tail length in mice, with some being born without tails. While the exact reason for the evolutionary advantage of being tailless is unknown, it is hypothesized that it may have facilitated the development of upright posture and ground dwelling in apes.
+
+Thu, 29 Feb 2024 18:45:27 +0530
+### [MIA! Why hasn't Kate Middleton been seen in public for 2 months?](https://www.firstpost.com/explainers/mia-why-hasnt-kate-middleton-been-seen-in-public-for-2-months-13743588.html)
+
+Kate Middleton has been absent from the public eye since late December due to a "planned abdominal surgery" in January. Despite official Palace statements, rumors have circulated about her health and personal life, including claims of a coma and marital strife.
+
+Buckingham Palace has dismissed these rumors, stating that Middleton is recovering well at home. However, concerns have been raised due to the lack of official updates on her condition and Prince William's recent absence from public events.
+
+Meanwhile, King Charles has been diagnosed with an undisclosed form of cancer and has undergone surgery for an enlarged prostate. Prince William has resumed his royal duties and thanked the public for their support during his family's recent medical challenges.
+
+Thu, 29 Feb 2024 17:24:37 +0530
+### [What is Transnistria, Moldova’s breakaway region that has asked Russia for help?](https://www.firstpost.com/explainers/transnistria-moldova-breakaway-region-russia-help-ukraine-war-13743693.html)
+
+Transnistria, a breakaway region in Moldova, has appealed to Moscow for protection amid increased pressure from Moldova. Transnistria, established in 1992 with Russian support, has remained unrecognized and controlled by pro-Russia separatists despite not being officially annexed by Russia. The appeal, mentioning the presence of over 220,000 Russian citizens in Transnistria, has raised concerns about possible annexation. The region, with a population of 470,000 and its own currency and flag, has been impacted by the Russia-Ukraine war, with Ukraine closing its border and considering Russian troops there a threat. While Transnistria has maintained close ties with Russia and relies on it economically, Moscow has not taken steps towards annexation. However, the resolution seeking Russian support and the possibility of a referendum on annexation have raised concerns, prompting the United States to closely monitor the situation.
+
+Thu, 29 Feb 2024 16:28:49 +0530
+### [Reliance, Disney merger: What this means for India’s media-entertainment industry](https://www.firstpost.com/explainers/reliance-disney-merger-india-media-entertainment-industry-13743630.html)
+
+Disney and Reliance have joined forces to create a media behemoth with a valuation of $8.5 billion. The merger involves Viacom18 (owned by Reliance Industries) and Star India (owned by Disney).
+
+**Key Details:**
+
+* Nita Ambani will be the chairperson of the new entity.
+* Reliance will own 16.3%, Viacom18 will own 46.8%, and Disney will own 36.8% of the merged entity.
+* Reliance will invest $1.4 billion in the venture.
+* The merger combines over 100 TV channels, including popular brands like Colors, StarPlus, and Star Sports.
+* It will also merge Disney+ Hotstar and JioCinema, creating a dominant streaming platform with over 750 million viewers.
+* Disney will grant the merged entity exclusive rights to distribute its content in India.
+
+**Implications:**
+
+* The merger will reshape India's media landscape, giving the new entity a significant market share (49% in broadcasting and 85% in OTT).
+* It is expected to reduce content costs and drive profitability for the streaming platforms.
+* Experts view the merger as a win-win for both parties, solidifying their position against competitors.
+
+Thu, 29 Feb 2024 14:36:24 +0530
+### [Joe Biden is ‘fit for duty’: Have US presidents been honest about health?](https://www.firstpost.com/explainers/joe-biden-fit-for-duty-medical-examination-trump-us-presidents-health-13743585.html)
+
+President Joe Biden, 81, underwent an annual medical exam that declared him "fit for duty." Despite concerns about his age and occasional memory lapses, Biden did not take a cognitive test. The White House doctor's report indicates he is healthy and stable, with no significant changes from last year.
+
+However, speculation about Biden's memory continues, as he has made public fumbles and been described as forgetful in a special counsel report. Critics question if he is too old for a second term.
+
+Biden's rival, Donald Trump, 77, has also faced criticism over his mental fitness due to memory lapses. However, he took a cognitive test in 2018 and scored 30/30.
+
+Historically, the honesty of White House medical reports has been questioned. Some presidents, such as Woodrow Wilson and Ronald Reagan, have had serious health conditions that were concealed from the public.
+
+Despite a common practice, US law does not mandate presidents to disclose their health records. The information released is often limited to what the president chooses to share, leaving concerns about the completeness and accuracy of these reports.
+
+Thu, 29 Feb 2024 14:04:59 +0530
+### [What’s the row between India-Thailand at WTO talks over rice exports?](https://www.firstpost.com/explainers/india-thailand-row-rice-exports-wto-talks-13743570.html)
+
+Tensions have arisen between India and Thailand at the World Trade Organization (WTO). Thailand accused India of dominating the global rice market through subsidized rice exports. India refuted these claims, stating that only 40% of its rice is acquired for food security and the rest is exported at market price. This dispute highlights the complex issues of public stockholding and agricultural subsidies in global trade. The row brings to attention the perceived manipulation of trade by India and the Western nations' resistance to reducing import duties. The outcome of this dispute could impact negotiations on agricultural subsidies and global trade relations.
+
+Thu, 29 Feb 2024 13:52:10 +0530
+### [Is charging phones using public ports safe? The RBI warns about juice jacking](https://www.firstpost.com/explainers/is-charging-phones-using-public-ports-safe-the-rbi-warns-about-juice-jacking-13743518.html)
+
+The Reserve Bank of India (RBI) cautions against charging mobile devices using public USB chargers due to "juice jacking." In this attack, hackers manipulate public charging stations to steal data from connected devices via malware or hardware alteration. While juice jacking incidents are not widespread, officials advise against using public chargers. The RBI recommends using personal chargers and trusted power sources and suggests additional safety measures:
+- Use USB data blockers to prevent data transfer while charging
+- Disable automatic connection to charging sources
+- Use secure Wi-Fi networks
+- Avoid using the device while charging at public stations
+
+Thu, 29 Feb 2024 12:56:20 +0530
+### [Spy vs Spy: The row over ex-politician who sold out Australia to foreign secret agents](https://www.firstpost.com/explainers/ex-politician-sold-out-australia-a-team-asio-australia-espionage-13743524.html)
+
+Australia's ASIO intelligence agency has revealed the existence of an "A-Team" foreign espionage network that recruited a former politician. The politician, who was not named, "sold out" the country and attempted to involve a prime minister's family member. ASIO's director-general declined to identify the origin country of the spies but stated they aggressively targeted academics, politicians, and businesspeople for privileged information. The A-Team operated through professional networking sites, offering lucrative consulting opportunities in exchange for reports on sensitive topics like trade and defense. ASIO has since disrupted the group's operations, but calls are growing to unmask the former politician involved to prevent a broader "cloud hanging over everybody else." However, ASIO has cited various reasons for not naming the individual, while Australia's defense minister emphasizes the broader threat of foreign interference in the country's affairs.
+
+Thu, 29 Feb 2024 11:40:49 +0530
+### [BJP, Congress, and other parties declare income. Who made the most?](https://www.firstpost.com/explainers/bjp-congress-and-other-parties-declare-income-who-made-the-most-13743421.html)
+
+In fiscal year 2022-23, the BJP recorded the highest income among six national parties, at Rs 2,361 crore. The Congress came second with Rs 452.375 crore, while the AAP saw a 91.23% income increase to Rs 85.17 crore.
+
+Almost half of the BJP and AAP's income came from electoral bonds, which were banned by the Supreme Court for being unconstitutional and violating citizens' right to information. The BJP received Rs 1,294.15 crore from electoral bonds, accounting for over 55% of the total bonds redeemed by parties that year.
+
+The BJP declared an income of Rs 2,360.84 crore but spent only 57.68% of it, around Rs 1,361.684 crore. The Congress and AAP spent more than their income, with the Congress spending 3.26% more than it earned.
+
+Thu, 29 Feb 2024 11:31:40 +0530
+### [Is the famous weight-loss drug coming to India soon? What we know so far](https://www.firstpost.com/explainers/weight-loss-drug-zepbound-eli-lilly-india-13743484.html)
+
+Eli Lilly plans to launch Zepbound (Mounjaro), a weight-loss drug, in India next year. The drug is effective in managing diabetes and reducing weight, and has gained popularity worldwide. The market opportunity in India is significant due to its high obesity rates and diabetes prevalence. Indian drugmakers are also working on their own weight-loss drugs, and illegal versions are available online. Lilly is open to partnerships to distribute the drug in India. Global demand for GLP-1 receptor agonists, like Mounjaro and Wegovy, is rising, with the market expected to reach $100 billion by the end of the decade. India should strengthen patent protection and simplify regulatory processes to attract investment from global pharmaceutical companies, according to Lilly's CEO.
+
+Thu, 29 Feb 2024 10:14:36 +0530
+### [Why the Texas wildfire spread so quickly, becoming the state's second-largest ever](https://www.firstpost.com/explainers/texas-panhandle-smokehouse-creek-wildfire-spread-quickly-13743446.html)
+
+The Smokehouse Creek Fire in the Texas Panhandle has rapidly grown to over 1,300 square miles, forcing evacuations and road closures. Governor Greg Abbott has declared a disaster, as the fire threatens a nuclear facility. The blaze has already destroyed nearly 900,000 acres, making it the second-largest fire in Texas history. Strong winds and dry conditions have fueled the fire's spread, with flames reaching the height of a one-story building and burning the length of a football field in a minute. While firefighters made some progress due to cooler weather, winds are expected to return over the weekend. The Smokehouse Creek Fire is about 3% contained, with containment involving surrounding the fire with a fuel break to prevent its spread.
+
+Thu, 29 Feb 2024 09:40:08 +0530
+### [Sandeshkhali case: How cops arrested TMC’s Sheikh Shahjahan after 55 days](https://www.firstpost.com/explainers/sandeshkhali-case-cops-arrest-tmc-sheikh-shahjahan-13743430.html)
+
+TMC leader Sheikh Shahjahan, accused of land-grabbing and sexual atrocities in Sandeshkhali, has been arrested after a 55-day manhunt. The arrest comes after the Calcutta High Court criticized the police for inaction. Shahjahan was arrested from a house in North 24 Parganas district.
+
+Locals have accused Shahjahan, known as "Betaj Badshah," of summoning women to resorts or party offices for sexual abuse. Women have recounted being touched inappropriately, leading to allegations that TMC men have been exploiting them.
+
+Governor C.V. Ananda Bose described the situation in Sandeshkhali as "ghastly" and called for a judicial inquiry. Chief Minister Mamata Banerjee rejected claims of lawlessness, accusing the BJP of instigating violence.
+
+TMC hailed the arrest as proof of their commitment to "rajdharma," while the BJP called it "scripted" and accused Shahjahan of being in police custody since Tuesday.
+
+Thu, 29 Feb 2024 07:40:20 +0530
+### [Proposals & tech bugs: How does the world observe a Leap Year?](https://www.firstpost.com/explainers/wedding-proposals-and-tech-glitches-how-does-the-world-observe-a-leap-year-13743310.html)
+
+Article found but Couldn't summarize 
+Every four years, we get a bonus day on our calendars — 29 February. However, it is more than just a Gregorian calendar quirk; it is a fascinating phenomenon that has spawned rituals, superstitions, and even computer glitches
+
 Thu, 29 Feb 2024 05:00:57 +0530
 ### [FirstUp: Farmers to decide next step, BJP central election panel meet … Today’s news](https://www.firstpost.com/explainers/firstup-farmers-protest-next-step-bjp-central-election-panel-meet-29-february-news-13743359.html)
 

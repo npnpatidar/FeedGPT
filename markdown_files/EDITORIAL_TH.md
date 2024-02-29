@@ -1,3 +1,13 @@
+Fri, 01 Mar 2024 00:20:00 +0530
+### [An extra berth: On the Rajya Sabha election results](https://www.thehindu.com/opinion/editorial/an-extra-berth-on-the-rajya-sabha-election-results/article67900295.ece)
+
+In Rajya Sabha elections, the BJP won 30 of 56 contested seats, surpassing expectations through alleged cross-voting by opposition members in Uttar Pradesh and Himachal Pradesh. Himachal Pradesh's Congress government faces instability after BJP gains from MLAs lost to disqualification. The BJP now has 97 members in the Rajya Sabha, closer to the majority mark. Despite successive state election victories, the party has engaged in controversial tactics to strengthen its position. The gap between the BJP and other opposition parties, including Congress with 29 members, remains significant. Past parliamentary sessions have been marked by opposition suspensions and government unilateralism.
+
+Fri, 01 Mar 2024 00:10:00 +0530
+### [A respite: On the Trump case](https://www.thehindu.com/opinion/editorial/a-respite-on-the-trump-case/article67900199.ece)
+
+The US Supreme Court has agreed to hear arguments in April regarding former President Donald Trump's immunity from federal criminal prosecution for alleged election subversion. The decision delays a trial, likely pushing a ruling until late June. This halts Special Counsel Jack Smith's plans for earlier prosecution. Trump faces other legal challenges, including indictments, which will be affected by the Supreme Court's immunity decision. The prosecution battle highlights political divisions, as the lack of viable alternative leaders makes the 2024 election advantageous for Trump. This situation reflects the current lack of a unifying vision in American politics.
+
 Thu, 29 Feb 2024 00:20:00 +0530
 ### [Lives and livelihoods: On perils and the Indian emigrant](https://www.thehindu.com/opinion/editorial/lives-and-livelihoods-on-perils-and-the-indian-emigrant/article67896295.ece)
 
