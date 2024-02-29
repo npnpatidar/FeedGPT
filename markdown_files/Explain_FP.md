@@ -1,3 +1,20 @@
+Thu, 29 Feb 2024 05:00:57 +0530
+### [FirstUp: Farmers to decide next step, BJP central election panel meet … Today’s news](https://www.firstpost.com/explainers/firstup-farmers-protest-next-step-bjp-central-election-panel-meet-29-february-news-13743359.html)
+
+**February 29, 2024 News**
+
+* Protesting farmers will decide their next move after briefly suspending their "Delhi Chalo" march. They demand minimum support price, loan forgiveness, and Swaminathan Commission recommendations implementation.
+
+* BJP's central election committee will convene its first meeting to discuss Lok Sabha candidates and strategies.
+
+* Prime Minister Modi will inaugurate two coal connectivity projects in Madhya Pradesh, aiming to enhance coal supply and reduce transportation costs.
+
+* Russian President Putin will deliver his annual address to the Federal Assembly, outlining Russia's current status and future goals.
+
+* The Allahabad High Court will continue hearing a plea challenging the Shahi Idgah mosque's existence in Mathura, with arguments centered around a 1968 compromise and a 1974 court order.
+
+* The 15th Bengaluru International Film Festival (BIFFes) will commence, showcasing 180 films across various categories.
+
 Wed, 28 Feb 2024 21:19:32 +0530
 ### [Explained: The row over 'Whites-only' party in Sri Lanka](https://www.firstpost.com/explainers/explained-the-row-over-whites-only-party-in-sri-lanka-13743357.html)
 
