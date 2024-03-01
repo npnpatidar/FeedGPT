@@ -1,3 +1,9 @@
+Fri, 1 Mar 2024 05:00:54 +0530
+### [FirstUp: Alexei Navalny’s funeral, Iran elections… Today’s big stories](https://www.firstpost.com/explainers/firstup-alexei-navalnys-funeral-iran-elections-todays-big-stories-13743730.html)
+
+Article found but Couldn't summarize 
+Today, Russia will see the burial of Opposition leader Alexei Navalny. Iran will hold parliamentary and legislative elections. In India, Modi will launch BJP’s poll campaign in West Bengal and the three-day pre-wedding festivities of Anant Ambani and Radhika Merchant will begin in Jamnagar
+
 Thu, 29 Feb 2024 21:04:02 +0530
 ### [Why Belgian Malinois dog breed is a favourite of special forces around the world](https://www.firstpost.com/explainers/belgian-malinois-dog-breed-special-forces-nsg-squad-labrador-13743784.html)
 
