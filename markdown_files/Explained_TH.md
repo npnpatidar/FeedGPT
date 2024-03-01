@@ -1,3 +1,18 @@
+Fri, 01 Mar 2024 12:55:59 +0530
+### [Maharashtra’s latest Maratha quota law and its challenges | Explained](https://www.thehindu.com/news/national/maharashtra-latest-maratha-quota-law-and-its-challenges-explained/article67891042.ece)
+
+The Maharashtra Assembly has passed a Bill granting 10% reservation in education and government jobs to the Maratha community. The new law is based on a survey that claims 84% of Marathas qualify as backward. However, activists are demanding a quota carved out from the existing OBC category, while OBC leaders are concerned about their share being reduced. The Bill does not affect the existing OBC quota or the issuance of Kunbi caste certificates to Marathas. Those within the "creamy layer" bracket are not eligible for the benefits. The law has been formulated based on the report of the Justice Sunil B Shukre-led Maharashtra State Backward Class Commission. It argues that exceptional circumstances justify granting reservation to the community beyond the Supreme Court-approved 50% limit. The law is unlikely to pass judicial scrutiny as the Supreme Court has previously struck down a similar law in Jaishri Laxmanrao Patil, holding that the Marathas are a "dominant forward class."
+
+Fri, 01 Mar 2024 12:46:42 +0530
+### [The Italian court ruling against returning sea migrants to Libya | Explained](https://www.thehindu.com/news/international/the-italian-court-ruling-against-returning-sea-migrants-to-libya/article67894696.ece)
+
+In a landmark ruling, Italy's highest court declared Libya an unsafe harbor for migrants. The verdict prohibits the return of migrants rescued at sea to Libya, where they face human rights abuses in detention centers controlled by coastguards and militias. The ruling upholds the conviction of a ship captain for returning migrants to Libya in 2018, considering it a violation of international maritime and humanitarian laws. Despite the ruling, Italy and the EU continue to support Libyan authorities in intercepting migrants, allowing for the "push-back" of people to Libya's unsafe conditions. This practice is supported by right-wing parties capitalizing on anti-immigration policies, but has been met with criticism from human rights organizations.
+
+Fri, 01 Mar 2024 08:30:00 +0530
+### [Is NATO membership in the cards for Ukraine? | Explained](https://www.thehindu.com/news/international/is-nato-membership-in-the-cards-for-ukraine-explained/article67901298.ece)
+
+NATO Secretary General Jens Stoltenberg believes Ukraine's eventual membership in NATO is inevitable, despite concerns among member states. Russia opposes NATO expansion, viewing it as a provocation. Ukraine faces a shortage of artillery ammunition, leading to heavy casualties. Russia has suffered significant losses, but has made recent gains. The US faces Congressional resistance to aid for Ukraine from Republicans. The EU is struggling to finance its support for Ukraine's war effort. NATO is seeking to address Ukraine's concerns through increased cooperation, but full membership is not yet on the table. Ukraine's future is uncertain with potential Russian victories and the possibility of Trump's return to power.
+
 Thu, 29 Feb 2024 22:44:51 +0530
 ### [On cross-voting in Rajya Sabha elections | Explained](https://www.thehindu.com/news/national/on-cross-voting-in-rajya-sabha-elections-explained/article67901293.ece)
 

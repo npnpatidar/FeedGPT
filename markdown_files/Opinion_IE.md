@@ -1,3 +1,94 @@
+Fri, 01 Mar 2024 12:34:19 +0000
+### [Bharat Jodo Nyay Yatra: Is Rahul Gandhi’s image-making exercise matching up to PM Modi’s?](https://indianexpress.com/article/opinion/columns/rahul-gandhi-bharat-jodo-nyay-yatra-pm-modi-image-making-exercise-9190426/)
+
+Politicians' images evolve through public perception, formed by conversations, media representations, and imagination. In the digital age, images and narratives around politicians are significant. Rahul Gandhi's image is associated with the INDIA grouping, and his recent Bharat Jodo Yatras aim to enhance and reshape it as trustworthy. The yatras provide opportunities for viral social media content and media coverage. However, contradictions between Gandhi's projected image and his actions, such as controversial statements, have emerged. Gandhi's lineage, once an asset, is now seen as a liability, and his image faces competition from Prime Minister Modi, who has successfully connected with the public. Gandhi's yatras have reduced negativity but failed to provide a coherent message, leaving him with an incomplete image as a political leader.
+
+Fri, 01 Mar 2024 12:30:59 +0000
+### [How the Supreme Court has helped make elections free, fair and transparent](https://indianexpress.com/article/opinion/columns/supreme-court-elections-free-fair-transparent-9190450/)
+
+The Supreme Court's recent decision on electoral bonds (EBs) has been hailed as historic. The Court declared the 2018 EB scheme unconstitutional, holding that it violated voters' right to information under Article 19(1)(a) and compromised democratic principles of transparency and accountability.
+
+This ruling expands the scope of Article 19(1)(a) to include information about political funding, recognizing its importance in allowing citizens to make informed voting decisions. The Court rejected the government's argument that EBs were necessary to curb black money, stating that they impinged on fundamental rights without adopting the least restrictive measures.
+
+The judgment affirms the evolving nature of India's Constitution and the increasing judicial oversight over free and fair elections. It follows earlier rulings that recognized the disclosure of candidates' financial status and criminal antecedents as essential for informed voting.
+
+The Court highlights the need for transparency in political funding, not only during elections but throughout. It emphasizes the importance of regulating not only donations but also expenditure by political parties to prevent illicit practices.
+
+This landmark decision is seen as a defense of constitutional ideals of participative democracy and a restoration of public faith in the electoral process.
+
+Fri, 01 Mar 2024 02:30:59 +0000
+### [Leaked papers and cheating scandals: How to fix India’s exams](https://indianexpress.com/article/opinion/columns/anti-cheating-bill-paper-leaks-exam-loopholes-national-testing-agency-9189092/)
+
+Despite the recent enactment of the Public Examinations Prevention of Unfair Means Act, another question paper leak has occurred in Uttar Pradesh. This act criminalizes cheating with severe penalties, but no convictions have been made under similar laws in other states.
+
+The author argues that increased punishments alone are not a solution and that a comprehensive approach is needed. The examination system must be made more reliable, valid, objective, clear, and comprehensive through advanced IT systems and professional exam-conducting bodies like the NTA.
+
+Online exams have introduced new challenges, such as outsourcing to untested service providers and vulnerability to hackers. To disincentivize cheating, the importance of exams should be reduced by making them qualifying exams rather than the sole basis for selection.
+
+A special investigation agency is needed to investigate cheating offenses effectively. Rather than fear, the key to fair and reliable exams is a robust, foolproof, and innovative system.
+
+Fri, 01 Mar 2024 02:25:17 +0000
+### [The nari shakti jumla: Six times BJP failed women](https://indianexpress.com/article/opinion/columns/nari-shakti-women-empowerment-female-farmers-ncrb-data-on-women-manipur-womenasha-workers-9189100/)
+
+Despite flagship schemes aimed at empowering women, the patriarchal mindset of the ruling BJP government led by Prime Minister Modi has hindered their effectiveness. Examples highlight government negligence and denigration of women:
+
+* Female farmers faced marginalization and suicide due to exploitative policies, leading to protests ignored by the government.
+* Women in Shaheen Bagh protested unconstitutional citizenship laws, facing violence but remaining defiant.
+* Champion sportsperson Brij Bhushan Singh's misconduct towards female wrestlers demonstrates the hypocrisy of passing the Women's Reservation Bill.
+* Community healthcare workers (ASHA) received global recognition but faced exploitation and delayed payments.
+* The government failed to address the stripping of women in Manipur, despite nationwide protests.
+* Wages of MGNREGA workers in West Bengal, predominantly women, were withheld, jeopardizing their livelihoods and breaking a parliamentary promise.
+
+Fri, 01 Mar 2024 02:15:34 +0000
+### [Chipping away at the Bench: The dangers of undermining the judiciary](https://indianexpress.com/article/opinion/columns/indian-democracy-judiciary-indias-legal-fraternity-conspiracy-against-judiciary-victim-card-9189112/)
+
+The Indian judiciary, entrusted with impartial justice, faces unprecedented attacks from a cabal of lawyers and retired judges with political agendas. They politicize proceedings and vilify the judiciary when their efforts fail. The judiciary's role as guardian of the Constitution is undermined by selective outrage, manipulation of public sentiment, and attacks on its independence. Despite its swift response to protect opposition leaders, the judiciary has faced criticism for its involvement in politically sensitive matters, which has been weaponized to undermine its authority. Retired judges have also played a role in this conspiracy, damaging the judiciary's reputation. To safeguard democracy, it's crucial to defend the judiciary's independence and integrity against these orchestrated attacks.
+
+Fri, 01 Mar 2024 02:01:40 +0000
+### [Patanjali controversy and the lure of a magic cure: Safety standards dangerously fail consumers](https://indianexpress.com/article/opinion/columns/patanjali-controversy-sc-bans-patanjali-products-patanjali-ayurveda-consumer-protection-act-9189099/)
+
+The article criticizes the misleading marketing of Ayurveda, Siddha, and Unani (ASU) drugs in India. Despite legal prohibitions, companies like Patanjali continue to advertise illegal claims, prompting the Supreme Court to intervene.
+
+The Drugs and Cosmetics Act differentiates between classical ASU medicine, based on ancient texts, and patent and proprietary (P&P) medicine, which combines traditional recipes with new ingredients. P&P medicine requires efficacy and safety testing, but many products make unverified claims.
+
+The Drugs and Magic Remedies Act prohibits advertising for specific medical conditions, but enforcement is weak, and public awareness is low. The Ayush Ministry has mandated clinical trial registration, but compliance is unclear.
+
+The article highlights the dangers of self-medication with ASU drugs, which are often sold without proper regulation or knowledge. It calls for a unified structure to regulate and administer ASU drugs, ensuring safety and quality control.
+
+Fri, 01 Mar 2024 01:50:49 +0000
+### [Express View on Bollywood pregnancies: Twinkle twinkle, mum’s a star](https://indianexpress.com/article/opinion/editorials/twinkle-on-mom-9189121/)
+
+In Bollywood, female actors have traditionally faced limited career longevity due to perceptions of marriage and motherhood impacting their success. However, actresses like Alia Bhatt, Deepika Padukone, and Kareena Kapoor Khan are challenging this stereotype by openly embracing pregnancy and motherhood while maintaining their careers. These women have achieved significant professional recognition and are using their platforms to normalize the experiences of pregnancy and childbirth, shifting the industry's focus from appearances to the female perspective. Their actions reflect a growing confidence in the maturity of the audience, who are more willing to embrace diversity and challenge traditional perceptions.
+
+Fri, 01 Mar 2024 01:44:10 +0000
+### [Express View on India’s GDP: Reading the spike](https://indianexpress.com/article/opinion/editorials/reading-the-spike-9189135/)
+
+India's GDP is projected to grow at 7.6% in 2023-24, higher than the earlier estimate of 7.3%. However, net taxes on products may account for some of this difference. GVA growth remains at 6.9%.
+
+The agricultural sector faces challenges and is estimated to grow only 0.7%. In contrast, the industrial sector (mining, manufacturing, electricity, etc.) is robust, with manufacturing growing at 8.5% and construction at 10.7%.
+
+The services sector has decelerated slightly compared to last year, with consumption growth at 3% for the full year. Despite this, investment activity remains strong at 10.2%.
+
+The NSO estimates suggest the economy will grow at 5.9% in the fourth quarter.
+
+Fri, 01 Mar 2024 01:25:23 +0000
+### [Express View on Gujarat National Law University: Campus in the dock](https://indianexpress.com/article/opinion/editorials/campus-in-the-dock-9189120/)
+
+The Gujarat High Court criticized Gujarat National Law University (GNLU) authorities for suppressing allegations of assault, harassment, and discrimination on campus. A fact-finding committee's report revealed institutional failures in student safety and the mandated investigative process. The independent body initially assigned included a potential conflict of interest, leading to its disbandment. The court condemned the university's apparent cover-up attempts and emphasized the importance of student safety and access to the Internal Complaints Committee (ICC). The incident highlights the lack of adequate safety measures in institutions and the onus placed on them under the POSH Act to create a safe environment. The court's stern response serves as a warning to all campuses that student safety should not be sacrificed for institutional reputation.
+
+Fri, 01 Mar 2024 00:38:57 +0000
+### [March 01, Forty Years Ago: Budget 1984-85](https://indianexpress.com/article/opinion/40-years-ago/march-01-forty-years-ago-budget-1984-85-9189115/)
+
+The 1984-85 Union Budget by Pranab Mukherjee featured a marginal income tax rate reduction and significant excise duty reductions on consumer items. Despite relying on customs duties for additional revenue, it left an uncovered gap of Rs 1,763 crore.
+
+Opposition criticized the budget as an "election budget" offering no employee relief or measures to address unemployment and inflation.
+
+In Amritsar, a hand grenade explosion at a Shivratri festival killed three and injured 35, leading to police firing and further injuries.
+
+Andhra Pradesh Chief Secretary G V Ramakrishna resigned amidst differences with Chief Minister N T Rama Rao, becoming the second to depart in 14 months.
+
+The news also includes movie reviews, a career networking article, an interview with Arjun Rampal, and an art honor at the Dior show. Additionally, there were two incidents of explosions in Hussainpura and Bengaluru, resulting in injuries and investigations.
+
 Thu, 29 Feb 2024 12:45:42 +0000
 ### [Pakistan’s new government has internal turmoil, India must wait and watch](https://indianexpress.com/article/opinion/columns/pakistan-elections-govt-india-9188530/)
 

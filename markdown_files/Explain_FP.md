@@ -1,3 +1,143 @@
+Fri, 1 Mar 2024 19:30:38 +0530
+### [Anant Ambani, Radhika Merchant pre-wedding: Why Jamnagar was chosen as venue](https://www.firstpost.com/explainers/anant-ambani-radhika-merchant-pre-wedding-why-jamnagar-was-chosen-as-venue-13744108.html)
+
+Article found but Couldn't summarize 
+The Ambani family has a deep and meaningful connection to Jamnagar. Not only is this the place where Anant's grandmother Kokilaben was born, but this is also where Dhirubhai Ambani founded Reliance Industries. Anant also said he was inspired by Prime Minister Narendra Modi's call for couples to 'Wed in India'
+
+Fri, 1 Mar 2024 18:19:54 +0530
+### [The Cost of Being Rich: Is a global tax for billionaires coming?](https://www.firstpost.com/explainers/the-cost-of-being-rich-is-a-global-tax-for-billionaires-coming-13744032.html)
+
+Brazil's G20 presidency is seeking support for a global minimum tax on billionaires, proposed as a two percent levy on their wealth. The tax aims to generate $250 billion annually from 2,756 billionaires and address tax evasion. Critics argue that current tax systems allow the wealthy to avoid paying their fair share, exacerbating inequality. Countries are at varying stages of implementing tax reforms, but some advocate for a third pillar focusing on a minimum tax for individuals. The proposal has received support from France and Brazil, but faces skepticism from the US and UK. Despite challenges, experts believe international cooperation could make this a reality, similar to the successful efforts in combating bank secrecy and tax evasion by corporations.
+
+Fri, 1 Mar 2024 18:07:59 +0530
+### [Mexico election campaign begins: Will the country elect its first woman president?](https://www.firstpost.com/explainers/mexico-election-woman-president-13744112.html)
+
+Mexico is preparing for its biggest-ever election on June 2nd, where its first female president is likely to be elected. Voters will choose a president, 628 Congress seats, and local positions. Leading candidate Claudia Sheinbaum is favored, continuing the legacy of President López Obrador. However, security concerns arise due to increased cartel violence, with candidates being murdered. Critics raise democratic concerns, but Obrador remains popular among the working class. The election marks a potential shift in Mexico's "macho" culture, as it has high rates of gender-based violence and a history of male chauvinism.
+
+Fri, 1 Mar 2024 17:28:45 +0530
+### [Now, every 1 in 8 people in the world has obesity: How did we get here?](https://www.firstpost.com/explainers/now-obesity-one-billion-people-worldwide-how-did-we-get-here-13744039.html)
+
+Obesity rates worldwide have surged alarmingly, with over a billion people now classified as obese, surpassing the estimated 2030 projection. This surge is attributed to unhealthy diets, lack of exercise, and environmental factors.
+
+Both adult and childhood obesity rates have skyrocketed, with significant increases among women and children. Several countries, including the US, UK, and India, have also seen substantial rises in obesity prevalence.
+
+Obesity poses significant health risks, including increased risk of chronic diseases, mental health issues, and cancer. It also has economic implications, with an estimated cost of $4.32 trillion annually by 2035.
+
+To address this epidemic, governments, communities, and the private sector must collaborate to implement evidence-based policies and promote healthy food systems and environments. While obesity medications may provide temporary relief, they are not a substitute for transformative changes in society and the environment.
+
+Fri, 1 Mar 2024 17:11:11 +0530
+### [What's cooking? Why did Sharad Pawar invite Maha CM, deputies for lunch?](https://www.firstpost.com/explainers/sharad-pawar-lunch-invite-maharashtra-cm-eknath-shinde-ajit-pawar-devendra-fadnavis-baramati-13744075.html)
+
+Veteran politician Sharad Pawar invited Maharashtra CM Eknath Shinde and his deputies for lunch at his Baramati residence, surprising both allies and opponents. The invitation was extended as the trio plans to unveil a job scheme in the city. Pawar cited a tradition of welcoming guests and the CM's first visit after taking office as his reasons. However, this move raised speculation about Pawar's motives, especially since it follows accusations from the BJP and Prime Minister Modi's criticism of him. Pawar's daughter, Sule, defended the invitation as a gesture of courtesy, while a leader from Ajit Pawar's NCP faction expressed concern about its potential political implications. The event has also drawn attention to the ongoing rivalry between Sharad Pawar's and Ajit Pawar's factions within the NCP, particularly over the crucial Baramati constituency.
+
+Fri, 1 Mar 2024 15:58:29 +0530
+### [Wild Wild Best: How India is emerging as the Big Daddy of big cats](https://www.firstpost.com/explainers/international-big-cat-alliance-india-success-conservation-lions-tigers-cheetah-leopard-13744005.html)
+
+India has established the International Big Cat Alliance (IBCA) to conserve seven big cat species: lion, tiger, leopard, cheetah, snow leopard, jaguar, and puma. Five of these cats reside in India, where their conservation efforts have been highly successful.
+
+The Union Cabinet allocated a one-time budget of Rs 150 crore until 2028, with India serving as the secretariat for IBCA.
+
+India's conservation efforts include:
+
+- Protecting the endangered Asiatic lion, with its population rising to 674 in 2020.
+- Increasing India's tiger population to 3,682, the highest in the world, through Project Tiger since 1973.
+- Reintroducing the cheetah in 2022, with 13 cheetahs currently surviving in Kuno National Park.
+- Seeing a significant rise in leopard population, with Madhya Pradesh having the highest number in the country.
+- Estimating the snow leopard population in India at 718, an important species in the Himalayan ecosystem.
+
+IBCA aims to foster international cooperation to ensure the conservation of these majestic big cats.
+
+Fri, 1 Mar 2024 15:14:36 +0530
+### [Why India getting a semiconductor foundry is a big deal](https://www.firstpost.com/explainers/why-india-getting-a-semiconductor-foundry-is-a-big-deal-13743975.html)
+
+India's plans to become a semiconductor powerhouse received a boost as the Union Cabinet approved three chip-making plants worth Rs 1.26 lakh crore. The move aims to reduce India's reliance on imports and establish the country as a global chipmaker.
+
+The three projects will be set up under the 'Development of Semiconductors and Display Manufacturing Ecosystem' scheme with government funding of up to Rs 76,000 crore.
+
+Tata Electronics and Powerchip Semiconductor will build a plant in Gujarat, producing 50,000 wafers per month at a cost of Rs 91,000 crore. Tata Semiconductor Assembly and Test will establish a facility in Assam for Rs 27,000 crore, producing 48 million chips daily. CG Power, Renesas Electronics, and Stars Microelectronics will invest Rs 7,600 crore in a plant in Gujarat, manufacturing 15 million chips for various applications.
+
+These plants are expected to create over 20,000 advanced technology jobs and 60,000 indirect jobs, promoting employment in downstream industries. The government's ambitious goal to become a major semiconductor player by 2029 forms part of its efforts to enhance the country's technological self-reliance.
+
+Fri, 1 Mar 2024 14:11:11 +0530
+### [Is India losing out to Pakistan in basmati rice war?](https://www.firstpost.com/explainers/india-basmati-rice-exports-pakistan-production-13743963.html)
+
+India's basmati rice exports are predicted to decline due to lower prices offered by Pakistan, which has increased its production.
+
+**Causes of India's Export Decline:**
+
+* Pakistan's lower export prices due to increased production
+* Reduced rainfall leading to a potential drop in India's rice output
+
+**Significance of Basmati Rice Exports:**
+
+* India is the largest exporter of basmati rice, generating revenue of $5.4 billion in 2023.
+* Exports account for the majority of India's basmati rice production.
+
+**Pakistan's Competitive Advantage:**
+
+* Pakistan now offers lower basmati rice prices than India.
+* Pakistan's rice shipments are expected to increase to 5 million tons in the 2023-24 financial year.
+
+**Historical Basmati Rice Competition:**
+
+* India and Pakistan are the only global suppliers of basmati rice.
+* India has been protecting the "Basmati" name since the 1990s and has applied for a PGI tag in the EU.
+* Pakistan has opposed India's PGI application due to its own basmati rice industry.
+* Despite competition, both countries have exported and competed in various markets for decades.
+
+Fri, 1 Mar 2024 14:05:44 +0530
+### [Canines at War: Watch out for China's robotic dogs equipped with arms](https://www.firstpost.com/explainers/canines-at-war-watch-out-for-chinas-robotic-dogs-equipped-with-arms-13743967.html)
+
+Chinese researchers have developed robotic dogs equipped with machine guns that possess shooting accuracy comparable to skilled soldiers. The technology is based on a quadruped platform that mimics the agility and mobility of dogs, making it suitable for urban warfare scenarios. These robotic dogs represent an advancement in military technology, but raise ethical concerns regarding the autonomy of robots in making life-or-death decisions. The international community and robotics companies are advocating for strict regulations to govern the use of autonomous weaponry.
+
+Fri, 1 Mar 2024 13:22:46 +0530
+### [How Mumbai has broken into world’s top 10 luxury real estate markets](https://www.firstpost.com/explainers/mumbai-world-top-10-luxury-real-estate-markets-knight-frank-report-13743933.html)
+
+Mumbai has risen to eighth place among the top luxury residential markets globally, according to Knight Frank's The Wealth Report. This significant climb from its 37th position in 2022 is driven by:
+
+* **Increasing ultra-high-net-worth individuals (UHNWIs):** Mumbai has a large concentration of UHNWIs who invest heavily in real estate.
+
+* **India's economic growth and stability:** The nation's strong economy provides a stable environment for luxury property investments.
+
+* **Infrastructure developments:** Projects like the Mumbai Coastal Road and Mumbai Trans Harbour Link are expected to enhance connectivity and boost real estate demand.
+
+* **Mumbai's status as India's financial and entertainment hub:** The city remains a major business and entertainment center, attracting wealthy individuals to maintain their base there.
+
+Mumbai's luxury real estate market is witnessing a surge in high-value property sales, with notable purchases by individuals like Niraj Bajaj and B K Goenka. The share of property registrations valued at Rs 1 crore and above has also increased, indicating a trend towards premiumization.
+
+Fri, 1 Mar 2024 11:12:42 +0530
+### [What's the Vedic clock that PM inaugurated in Ujjain? How does it tell time?](https://www.firstpost.com/explainers/whats-the-vedic-clock-that-pm-inaugurated-in-ujjain-how-does-it-tell-time-13743825.html)
+
+Prime Minister Narendra Modi unveiled the "Vikramaditya Vedic Clock" in Ujjain, Madhya Pradesh. This unique clock calculates time based on the Vedic Hindu Panchang system, considering planetary positions, astrological events, eclipses, and other factors. It displays various time units, including Muhurats, tithi, and lunar phases. Located at Jantar Mantar in Ujjain, it is the first clock to showcase Indian time calculation. The city has historical significance as it was once considered the center of time calculation, with the Tropic of Cancer passing through it. The clock also displays Indian Standard Time (IST) and Greenwich Mean Time (GMT) and will have a dedicated mobile application for public access.
+
+Fri, 1 Mar 2024 10:29:52 +0530
+### [How Russian church hosting Navalny's funeral is deeply rooted in war he opposed](https://www.firstpost.com/explainers/russian-church-alexei-navalny-funeral-ukraine-war-13743852.html)
+
+Article found but Couldn't summarize 
+Alexei Navalny was a Christian, who condemned the invasion of Ukraine as a crazy enterprise built on lies. But the church that is designated to host his funeral has donated to the Russian army and enthusiastically advertised its backing for the war
+
+Fri, 1 Mar 2024 10:13:53 +0530
+### [Shooting civilians or stampede? What led to deaths of 100 at aid point in Gaza?](https://www.firstpost.com/explainers/israel-hamas-war-aid-convoy-gaza-civilian-deaths-stampede-13743849.html)
+
+Over 100 civilians were killed and 700 injured in Gaza when civilians rushed towards aid trucks. While Palestinian officials allege Israeli forces opened fire, Israel claims a stampede occurred. Witnesses claim Israeli soldiers fired on civilians, leading to the trucks fleeing and accidentally harming people.
+
+The tragedy has drawn international condemnation, with the US, France, and the UN calling for an investigation. Israel maintains that a stampede caused the deaths, releasing drone footage showing people fleeing and bodies on the ground. The IDF claims it fired only when Palestinians approached them threateningly.
+
+The incident has raised concerns about its impact on Israel-Hamas negotiations for a ceasefire and humanitarian aid delivery. Hamas has threatened to suspend negotiations due to the killings, and U.S. President Joe Biden acknowledged that the tragedy may complicate the process.
+
+Fri, 1 Mar 2024 07:30:39 +0530
+### [Iran elections: Why the big worry is that voters won't turn up](https://www.firstpost.com/explainers/iran-elections-why-the-big-worry-is-that-voters-wont-turn-up-13743714.html)
+
+Iran's parliamentary and Assembly of Experts elections are being held today, but voter turnout is expected to be low due to a boycott called by activists following the Mahsa Amini protests.
+
+Polling stations have been set up across Iran, with around 61 million eligible voters. The parliament has limited power, while the Assembly of Experts selects and supervises the Supreme Leader.
+
+Women make up a significant portion of the electorate, but it remains to be seen how they will vote in light of the protests and the limited role of the parliament.
+
+Conservatives are expected to dominate the new parliament, which will largely consist of candidates approved by the Guardian Council.
+
+The Assembly of Experts, which elects the Supreme Leader, is also being contested by 144 vetted candidates, with ultra-conservative Ahmad Jannati as its current head.
+
 Fri, 1 Mar 2024 05:00:54 +0530
 ### [FirstUp: Alexei Navalny’s funeral, Iran elections… Today’s big stories](https://www.firstpost.com/explainers/firstup-alexei-navalnys-funeral-iran-elections-todays-big-stories-13743730.html)
 

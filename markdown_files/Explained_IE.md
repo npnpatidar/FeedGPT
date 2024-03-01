@@ -1,3 +1,53 @@
+Fri, 01 Mar 2024 14:08:12 +0000
+### [Bengaluru bomb blast: What are improvised explosive devices, or IEDs?](https://indianexpress.com/article/explained/bengaluru-bomb-blast-ied-9190684/)
+
+Article found but Couldn't summarize
+
+Fri, 01 Mar 2024 11:37:34 +0000
+### [Can you be sued for defamation if you retweet defamatory content?](https://indianexpress.com/article/explained/explained-law/can-you-be-sued-for-defamation-if-you-retweet-defamatory-content-9190215/)
+
+The Supreme Court has stayed a trial against Delhi Chief Minister Arvind Kejriwal for retweeting an allegedly defamatory YouTube video. Retweeting may not always imply endorsement, according to the court. Kejriwal's counsel admitted the post was a mistake.
+
+In Indian law, defamation can be civil (libel/slander) or criminal (IPC Section 499). Criminal defamation requires proof beyond reasonable doubt and carries up to two years' imprisonment. The Supreme Court has upheld the constitutionality of criminal defamation laws, but reasonable restrictions can be imposed under Article 19(2).
+
+The Delhi High Court had ruled that retweeting defamatory content prima facie attracts liability. However, the Supreme Court has observed that retweeting may simply be sharing information and not an endorsement. The case will proceed with further hearings.
+
+Fri, 01 Mar 2024 10:45:47 +0000
+### [How climate change has fuelled farmers’ protests in Europe](https://indianexpress.com/article/explained/explained-climate/climate-change-farmer-protests-europe-9190128/)
+
+European farmers are protesting due to rising costs, cheap imports, and the impact of climate change on agriculture. The EU's environmental regulations, aimed at reducing GHG emissions, have further exacerbated the situation. Farmers argue that these regulations are too strict, unfair, and economically unviable, especially with the added burden of energy costs and competition from Ukraine's neighbors. The backlash has led to a rollback of some regulations, but the EU still needs to curtail emissions from the sector to meet its Green Deal targets without further igniting farmer unrest.
+
+Fri, 01 Mar 2024 06:46:10 +0000
+### [Sensex, Nifty jump above 1 per cent: What has led to this gain?](https://indianexpress.com/article/explained/everyday-explainers/sensex-nifty-jump-1-per-cent-factors-gdp-9189716/)
+
+Benchmark indices Sensex and Nifty surged over 1% following the release of better-than-expected GDP growth of 8.4% for Q3 FY24. Key contributors include strong growth in manufacturing, construction, and capital formation.
+
+Experts attribute the market rally to the solid GDP numbers and highlight the potential for large caps like Reliance Industries, Bharti Airtel, and ICICI Bank to lead the surge. However, tepid private consumption might impact consumer staples stocks.
+
+While fixed investment remains a key driver of growth, consumption lags behind. The services sector shows resilience, but agriculture underperforms.
+
+Despite the positive GDP data, Nomura projects a more moderate growth of 6.1% in 2024 and 6.2% in FY25 due to factors such as the impact of elections on public spending and weak consumption.
+
+Fri, 01 Mar 2024 06:27:39 +0000
+### [Why the Supreme Court overturned its 2018 decision, which set a time limit on courts’ stay orders](https://indianexpress.com/article/explained/explained-law/supreme-court-decision-2018-stay-interim-orders-9189641/)
+
+In 2018, the Supreme Court (SC) aimed to address delayed trials by automatically vacating stay orders by High Courts after six months. However, in 2023, a five-judge SC bench has overturned this ruling, citing concerns about "doing injustice" by nullifying lawful stay orders.
+
+The bench held that constitutional courts should avoid setting precise timelines for case decisions, leaving discretion to lower courts familiar with local issues. They emphasized that High Courts should prioritize applications to vacate stay orders to ensure faster disposal of cases.
+
+The ruling was based on arguments that automatic vacation of stay orders without due process violates principles of judicial fairness and that setting timelines is within Parliament's legislative powers, not the court's.
+
+Fri, 01 Mar 2024 01:37:42 +0000
+### [India-built airstrip inaugurated in Agaléga, Mauritius: Its strategic significance vis-a-vis Maldives and China](https://indianexpress.com/article/explained/agalega-airstrip-inagurated-mauritius-maldives-and-india-9189103/)
+
+Indian technical personnel have replaced Indian military personnel on one of three aviation platforms in the Maldives. India also inaugurated an airstrip and jetty on Mauritius' Agaléga Island, strategically located in the Indian Ocean.
+
+Mauritius and the Maldives are crucial outposts for India due to their maritime and strategic significance. China's increasing presence in the region has heightened India's concerns. India's withdrawal of military personnel from the Maldives follows pro-China President Mohamed Muizzu's request.
+
+After an MoU signed in 2015, India upgraded the airstrip on Agaléga Island to enhance Mauritius' capabilities in safeguarding its interests and monitoring its Exclusive Economic Zone. Despite domestic criticism, Mauritius has managed the situation better than the Maldives, where former Foreign Minister Abdulla Shahid disputes claims of foreign military presence.
+
+India's presence in the Indian Ocean supports its maritime security interests and strengthens its relationships with island nations. However, domestic politics in these nations can influence their policies and India must navigate its diplomatic efforts carefully.
+
 Thu, 29 Feb 2024 23:00:10 +0000
 ### [First semiconductor fabrication plant can help plug in to global value chain](https://indianexpress.com/article/explained/first-semiconductor-fabrication-plant-can-help-plug-in-to-global-value-chain-9189172/)
 

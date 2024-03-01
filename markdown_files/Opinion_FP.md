@@ -1,3 +1,60 @@
+Fri, 1 Mar 2024 21:01:41 +0530
+### [Sachin's Kashmir sojourn unveils tourist surge, highlights stark contrast with Pakistan](https://www.firstpost.com/opinion/sachin-tendulkar-kashmir-pakistan-13744133.html)
+
+Article found but Couldn't summarize 
+Sachin Tendulkar's Kashmir visit highlighted not just the tourism surge but also the cultural bridges being built underscoring a narrative of peace amid geopolitical tensions
+
+Fri, 1 Mar 2024 18:25:38 +0530
+### [Black diamond: Why there is an urgent need to increase India’s investment in R&D in coal technologies](https://www.firstpost.com/opinion/black-diamond-why-there-is-an-urgent-need-to-increase-indias-investment-in-rd-in-coal-technologies-13744142.html)
+
+India's future energy supply is expected to remain heavily dependent on fossil fuels, particularly coal. A McKinsey study predicts that coal will account for 60% of India's energy demand by 2030, while liquid fuels will contribute around 25% and gas 7.5%. This reliance on fossil fuels, including large coal reserves, is due to their affordability, reliability, and abundance. Despite efforts to develop alternative energy sources, India's significant economic growth and rising prosperity have led to an increase in energy demand, which continues to be met primarily by fossil fuels. The country's lack of sufficient domestic fossil fuel production and the low quality of its coal necessitate significant imports, increasing its import dependence to 51% by 2030. The author emphasizes the need for increased investment in coal technologies and R&D to ensure the continued availability of this crucial energy source for India's economic development.
+
+Fri, 1 Mar 2024 18:06:19 +0530
+### [Vantage | Why is UN or EU silent on political violence in Chad?](https://www.firstpost.com/opinion/vantage-why-is-un-or-eu-silent-on-political-violence-in-chad-13744114.html)
+
+Chad faces political turmoil after the assassination of opposition leader Yaya Dillo Djerou during election preparations. Military junta leader Mahamat Deby has tightened his grip on power, raising concerns about the future of democracy and human rights. Despite evidence of authoritarianism, Western powers have remained silent, possibly due to Deby's ties to France, Chad's former colonizer. The article questions whether democracy and human rights will prevail or if Chad will become another victim of political expediency, leaving the fate of the country uncertain.
+
+Fri, 1 Mar 2024 17:17:49 +0530
+### [Vantage | Is this French startup Europe's answer to OpenAI?](https://www.firstpost.com/opinion/vantage-is-this-french-startup-europes-answer-to-openai-13744077.html)
+
+Amidst the AI revolution, French startup MISTRAL AI emerges as a European challenger to industry giants like OpenAI. Leveraging groundbreaking advancements in large language models, including MISTRAL LARGE, the startup offers comparable performance to OpenAI's GPT-4 at a more cost-efficient rate. With strategic advantages like being based outside Silicon Valley and offering open-source models, MISTRAL AI has garnered support from tech giants and investors. Despite challenges ahead, its entry into the arena sets the stage for a dynamic and transformative era in AI, alongside industry leaders like OpenAI, who also face their own obstacles.
+
+Fri, 1 Mar 2024 16:32:25 +0530
+### [Vantage | Will Israel invade Lebanon?](https://www.firstpost.com/opinion/vantage-will-israel-invade-lebanon-13744056.html)
+
+Amidst the ongoing conflict in Gaza, Israel and Hezbollah are escalating tensions with cross-border shelling and airstrikes. Israeli Defense Minister Gallant warns that Israel is prepared to expand military operations beyond Gaza, targeting Hezbollah in Lebanon. This has raised concerns in the US, which fears a broader incursion into Lebanon. Hezbollah poses a significant threat to Israel, but such a move carries grave risks of higher casualties and regional instability. Suspicions arise regarding political motivations behind Israel's actions, with some speculating it aims to bolster the leadership of Netanyahu amidst criticism. International stakeholders scramble to prevent further escalation as the balance between security concerns and peaceful resolution hangs precariously.
+
+Fri, 1 Mar 2024 16:08:57 +0530
+### [Vantage | Why India has a tough choice on its Myanmar border](https://www.firstpost.com/opinion/vantage-why-india-has-a-tough-choice-on-its-myanmar-border-13744017.html)
+
+The India-Myanmar border fence controversy highlights the complex interplay between security concerns, ethnic ties, and regional dynamics. India's decision to fence the border to address security concerns from Myanmar's civil war has drawn opposition from Mizoram and Nagaland, who value the open border for historical and ethnic ties. Manipur and Arunachal Pradesh support the fence, citing security threats. This situation presents India with a dilemma in balancing security needs with community cohesion and regional relations. Effective engagement and collaboration are crucial in addressing the multifaceted challenges of the evolving India-Myanmar border situation.
+
+Fri, 1 Mar 2024 15:31:19 +0530
+### [Vantage | Why West's talk about frozen Russian assets shows its hypocrisy](https://www.firstpost.com/opinion/vantage-why-wests-talk-about-frozen-russian-assets-shows-its-hypocrisy-13743998.html)
+
+The proposal to use frozen Russian assets to aid Ukraine's military and reconstruction efforts raises complex legal, political, and moral dilemmas. Proponents argue for redirecting these funds, citing past precedents and the urgent need to support Ukraine. Opponents, however, highlight legal ambiguities, concerns about diplomatic repercussions, and the potential impact on innocent Russian citizens. The proposal forces policymakers to balance the need to assist Ukraine with the consequences of such actions, highlighting the multifaceted nature of the conflict and testing Europe's principles and values on the global stage.
+
+Fri, 1 Mar 2024 14:41:56 +0530
+### [Vantage | Why Global South must be wary of Xi Jinping's bid to be its 'champion'](https://www.firstpost.com/opinion/vantage-why-global-south-must-be-wary-of-xi-jinpings-bid-to-be-its-champion-13743937.html)
+
+Xi Jinping's aspiration to be the "Champion of the Global South" is primarily driven by China's strategic pivot towards this region. Jinping's approach focuses on challenging Western hegemony and establishing alternative systems controlled by China. While China's rhetoric aligns with India's advocacy for developing nations, critics raise concerns about potential power imbalances and threats to democratic values. Jinping's campaign presents both opportunities and risks for the Global South, requiring vigilance from both the Global North and South to ensure a balanced global future.
+
+Fri, 1 Mar 2024 13:41:42 +0530
+### [India and Mauritius: Gateways to Africa, investment and development](https://www.firstpost.com/opinion/india-mauritius-africa-narendra-modi-pravind-jugnauth-13743870.html)
+
+Prime Ministers Modi and Jugnauth inaugurated infrastructure projects in Mauritius, strengthening the bond between the two countries. India supports Mauritius' developmental goals, providing billions in Lines of Credit and grants. Mauritius plays a crucial role as a gateway to Africa, and India has invited it to the G20 Summit to promote African integration. The countries collaborate in maritime security, with India opposing foreign claims on Mauritian territory. They inaugurated projects for the Agalega island, improving connectivity and addressing challenges in the Indian Ocean region. The partnership aims to ensure security, prosperity, and stability in the region amidst increasing contestation and threats.
+
+Fri, 1 Mar 2024 10:13:41 +0530
+### [No shortage of jobs in India but a shortage of ‘right jobs’ due to a big gap between degrees and skill: Shamika Ravi](https://www.firstpost.com/opinion/no-shortage-of-jobs-in-india-but-a-shortage-of-right-jobs-due-to-a-big-gap-between-degrees-and-skill-shamika-ravi-13743814.html)
+
+According to EAC member Shamika Ravi, the debate between manufacturing and services in India is a false narrative. She argues that the demand for simple manufactured goods will continue to grow globally, and India has the workforce and potential to capture this market while addressing domestic demand. Ravi emphasizes the importance of manufacturing not only for exports but also for job creation and livelihoods.
+
+The government's industrial policies, including PLI schemes, are seen as steps to boost manufacturing. However, evaluations are needed to assess their impact on growth, import substitution, and job creation.
+
+Ravi acknowledges a "crisis of well-paying jobs" in India, particularly among the educated youth. She highlights the gap between degrees and skills, emphasizing the need for reskilling and collaboration between academia and industry. The growth in startups and the shift toward risk-taking are positive signs.
+
+Ravi also discusses the government's role in expanding public sector employment, while noting the importance of keeping the size of the government in check and aligning incentives with economic growth. She cautions against a large proportion of the population being employed in government, citing Sri Lanka as an example of how this can hinder reforms.
+
 Thu, 29 Feb 2024 20:12:30 +0530
 ### [Diversity, diplomacy and dynamic growth: How India wields its 'smart power'](https://www.firstpost.com/opinion/diversity-diplomacy-and-dynamic-growth-how-india-wields-its-smart-power-13743734.html)
 

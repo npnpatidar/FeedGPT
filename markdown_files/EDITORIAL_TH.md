@@ -1,3 +1,13 @@
+Sat, 02 Mar 2024 00:20:00 +0530
+### [Decoding the script: On the Genome India Project and its sequencing 10,000 Indian genomes](https://www.thehindu.com/opinion/editorial/decoding-the-script-on-the-genome-india-project-and-its-sequencing-10000-indian-genomes/article67899979.ece)
+
+The Genome India Project has sequenced 10,000 Indian genomes, creating a reference human genome for India. This will aid in disease prevention and treatment, particularly for inherited genetic disorders, including heart failure, which is more prevalent in Indians due to a genetic variant in the MYBPC3 protein. While genome sequencing unveils genetic complexity, it also highlights challenges in developing affordable and accessible treatments. The project aims to be inclusive, involving collaborations with scientists, students, and others to enhance understanding and make advancements in the field.
+
+Sat, 02 Mar 2024 00:10:00 +0530
+### [Vulnerable to criticism: On the ED and a possible violation of federal principles](https://www.thehindu.com/opinion/editorial/vulnerable-to-criticism-on-the-ed-and-a-possible-violation-of-federal-principles/article67903153.ece)
+
+The Enforcement Directorate (ED) has raised questions about potential money laundering related to illegal sand mining in Tamil Nadu. While the Supreme Court has ruled that District Collectors must cooperate with ED investigations, it's unclear if the ED has jurisdiction to assess the losses from uncontrolled mining. The Court acknowledged the ED's authority to summon individuals under PMLA, but the Madras High Court had previously stayed the summonses due to concerns that the investigation was a "fishing expedition." Despite the Supreme Court's assertion that the High Court's reasoning was flawed, some argue that the ED's credibility and possible political bias warrant caution in its actions.
+
 Fri, 01 Mar 2024 00:20:00 +0530
 ### [An extra berth: On the Rajya Sabha election results](https://www.thehindu.com/opinion/editorial/an-extra-berth-on-the-rajya-sabha-election-results/article67900295.ece)
 
