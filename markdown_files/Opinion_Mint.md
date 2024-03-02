@@ -1,3 +1,27 @@
+Sat, 02 Mar 2024 16:15:37 +0530
+### [Revitalizing India's cotton saga: A blueprint for growth](https://www.livemint.com/opinion/first-person/revitalizing-indias-cotton-saga-a-blueprint-for-growth-11709371029223.html)
+
+India, the world's second-largest cotton producer, faces dwindling cotton yields due to pest resistance and unpredictable weather patterns. The decline in yield has prompted farmers to switch to other crops, threatening India's cotton production and self-sufficiency.
+
+Revitalizing Bt Cotton: The initial success of genetically modified Bt cotton, designed to resist bollworms, has led to over-reliance. This dependency has resulted in stagnant and declining yields. To address this, the development and deployment of new Bt cotton varieties and more effective pesticides and insecticides is crucial.
+
+Precision Agriculture: Cotton is water-intensive. Adopting precision agriculture techniques like drip irrigation can reduce water and fertilizer consumption while increasing yields. Targeted delivery of nutrients through precision agriculture is also seen as critical for yield improvement.
+
+Embracing Digitization: Digitization holds immense potential for transforming cotton farming. Drones can scan large areas for pest infestations, while satellites can monitor weather patterns and provide farmers with essential information. AI and IoT can assist farmers in making informed decisions on crop protection and nutritional interventions.
+
+Tried and Tested Practices: Pairing new technologies with tried and tested agricultural practices is essential. Weed infestation significantly affects yields. Implementing early-stage weed management, crop rotation, compost application, and green manuring can help minimize weed impact and support soil health.
+
+Collective Action: Revitalizing India's cotton sector requires collective action, collaboration, and a shared commitment among stakeholders, including agricultural scientists, regulatory bodies, and the agrochemical industry. Technological advancements and sustainable farming practices are key to restoring India's position as a leading cotton producer and ensuring self-sufficiency.
+
+Sat, 02 Mar 2024 12:22:39 +0530
+### [How Isro’s ‘naughty boy’ cryogenic engine became a ‘smart boy’](https://www.livemint.com/opinion/how-isro-s-naughty-boy-cryogenic-engine-became-a-smart-boy-11709355686013.html)
+
+On March 30th, NASA and ISRO will launch the NISAR satellite to gather data on Earth's ecosystems, ice masses, and sea level rise. The launch will utilize ISRO's GSLVF14 rocket, now nicknamed the "smart boy" after its successful launch.
+
+The GSLVF14's cryogenic engine was developed by ISRO after US sanctions prevented technology transfers. Despite initial failures, the engine has been perfected and will significantly enhance India's aerospace industry. Its higher thrust-to-weight ratio allows for heavier payloads, paving the way for future Moon, Mars, and space station missions.
+
+Cryogenic engines also play a role in the global satellite market and in military applications. India's mastery of this technology positions it as a major player in the aerospace sector and provides strategic comfort in a tense geopolitical climate.
+
 Fri, 01 Mar 2024 18:22:53 +0530
 ### [DreamFolks: Is the upswing in air travel the wind beneath its wings?](https://www.livemint.com/opinion/online-views/dreamfolks-is-the-upswing-in-air-travel-the-wind-beneath-its-wings-11709270959397.html)
 

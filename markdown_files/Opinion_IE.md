@@ -1,3 +1,91 @@
+Sat, 02 Mar 2024 14:04:56 +0000
+### [How we can avoid human-animal conflicts](https://indianexpress.com/article/opinion/columns/avoid-human-animal-conflicts-9192292/)
+
+Human-wildlife conflicts in India present challenges due to high biodiversity and human population density. Co-adaptation practices, such as elevated buildings in elephant habitats, have been historically successful. However, dependency on these practices declined after hunting nearly exterminated species like elephants and leopards. Renewed co-adaptation efforts are needed, including monitoring individual animals' behavior and identifying vulnerable areas and populations. The media plays a crucial role in shaping public perception and promoting safety measures. Local stakeholders and cross-sectoral collaboration are also important for managing conflicts and finding equitable solutions that balance human safety and biodiversity conservation.
+
+Sat, 02 Mar 2024 12:44:14 +0000
+### [A young woman mobbed for blasphemy and political fallout of a failing economy: View from Pakistan](https://indianexpress.com/article/opinion/columns/pakistan-young-woman-mobbed-blasphemy-9192215/)
+
+**Blasphemy Allegation in Lahore:**
+A girl wearing a dress with Arabic calligraphy was falsely accused of blasphemy and surrounded by a mob. The situation was defused by police intervention.
+
+**Editorials on the Incident:**
+- News International criticizes the incident and the lack of safety for women in Pakistan.
+- Express Tribune highlights the impact of illiteracy and ignorance on such misconceptions.
+
+**Motorway Project Setback:**
+The Hyderabad-Sukkur segment of the Peshawar-Karachi motorway faces financial issues, leading to termination of the contract. The project's economic significance is emphasized.
+
+**Gwadar Flooding Crisis:**
+Torrential rainfall in Gwadar has caused flooding and disruption. Media questions the preparedness of disaster relief forces and infrastructure deficiencies.
+
+**Economic Challenges and IMF Loan:**
+Pakistan is seeking a $6 billion loan from the IMF to stabilize its economy. The government faces the challenge of implementing reforms and reducing political instability.
+
+**Katrina Kaif's Bollywood Journey:**
+Katrina Kaif began her acting career in 2003. Despite initial criticism for her Hindi-speaking ability, she worked hard to overcome the challenge.
+
+Sat, 02 Mar 2024 08:30:23 +0000
+### [Love in the age of algorithms: Are we lonelier than ever before?](https://indianexpress.com/article/opinion/columns/love-algorithms-lonelier-than-ever-before-9191745/)
+
+Article found but Couldn't summarize
+
+Sat, 02 Mar 2024 07:44:34 +0000
+### [What Sheikh Shahjahan episode says about strongmen who bend the law](https://indianexpress.com/article/opinion/columns/sheikh-shahjahan-sandeshkhali-episode-tmc-9191769/)
+
+Sandeshkhali, a West Bengal island, has become embroiled in controversy after alleged irregularities in the public distribution system and land grabbing by ruling party member Sheikh Shahjahan. Local women accuse Shahjahan and his associates of sexual abuse. Despite the Enforcement Directorate's raid in January, Shahjahan managed to escape and remained at large for 55 days due to alleged court delays and police inaction. The incident prompted outrage from various authorities, including the Governor, the National Commission for Women, the National Commission for Scheduled Castes, the Calcutta High Court, and the NHRC. They criticized the state government's negligence and the police's failure to apprehend Shahjahan. The author argues that such incidents reflect a deeper malaise in the police system, pointing to a lack of independence and political interference. They emphasize the need for police reforms and the implementation of the Supreme Court's directions to insulate the police from external pressures.
+
+Sat, 02 Mar 2024 02:30:34 +0000
+### [How AI overtook oil in the global market](https://indianexpress.com/article/opinion/columns/artificial-intelligence-semiconductor-chips-oil-market-nvidia-9191088/)
+
+Human innovation has led to transformative developments, including Einstein's theories, penicillin, and now artificial intelligence (AI). AI is revolutionizing concepts of work and intelligence, with companies like Nvidia leading the charge. Nvidia, a major producer of GPUs for AI, has seen rapid growth in market capitalization, reflecting the increasing value of technology companies. Despite challenges like biases in AI systems, the AI revolution shows great promise. In the future, AI will challenge human dominance in intelligence and wealth generation, with GPUs potentially becoming a valuable resource like oil.
+
+Sat, 02 Mar 2024 02:25:32 +0000
+### [Ram Madhav writes: With Mauritius joining project, India’s rising power in the Indian Ocean](https://indianexpress.com/article/opinion/columns/ram-madhav-writes-with-mauritius-joining-project-indias-rising-power-in-the-indian-ocean-9191087/)
+
+Agalega, a remote atoll in the Indian Ocean, has gained strategic importance with the development of its airstrip and harbor by India and Mauritius. Despite initial skepticism, the project aims to improve connectivity and living conditions for the atoll's inhabitants. However, critics have raised concerns about the potential for a military presence, which Mauritius has refuted. The improved infrastructure is seen as a part of India's "necklace of diamonds" strategy to secure the Indian Ocean, countering China's "string of pearls" ports. The project also aligns with India's ambition to play a greater role in global security and maintain the Indian Ocean as a "zone of peace."
+
+Sat, 02 Mar 2024 02:20:54 +0000
+### [Express View on semiconductors: Betting big](https://indianexpress.com/article/opinion/editorials/express-view-on-semiconductors-betting-big-9191098/)
+
+The Indian government has approved three semiconductor projects worth Rs 1.26 lakh crore, including a semiconductor fabrication plant in Gujarat by the Tata Group and PSMC. These projects aim to develop a semiconductor ecosystem in India, supported by a Rs 76,000 crore incentive scheme. The Tata-PSMC plant will serve industries such as high-performance computing and defense, while the government is also establishing an R&D lab to foster innovation. India aims to reduce its reliance on foreign chip manufacturing and meet the growing domestic demand for semiconductors.
+
+Sat, 02 Mar 2024 02:15:58 +0000
+### [March 02, Forty Years Ago: Solution For Punjab](https://indianexpress.com/article/opinion/40-years-ago/february-02-forty-years-ago-solution-for-punjab-9191095/)
+
+Prime Minister Indira Gandhi condemned communal violence in Punjab, emphasizing that negotiations are crucial for resolution. She recognized the need for dialogue between herself and opposition leader Harchand Singh Longowal.
+
+Tensions arose in Punjab between the Punjab police and Central Reserve Police Force following an attack on officials. Governor Pande visited the site of the incident.
+
+A general strike in Bangladesh resulted in violence, with police firing on demonstrators and killing five people.
+
+The Finance Ministry urged industries to negotiate with consumers to pass on the benefits of recent excise duty concessions announced in the budget.
+
+Pop star Rihanna performed at the pre-wedding festivities of Anant Ambani and Radhika Merchant, alongside Bollywood celebrities.
+
+Sat, 02 Mar 2024 01:40:08 +0000
+### [DK Joshi writes: India’s growth surprise](https://indianexpress.com/article/opinion/columns/dk-joshi-writes-indias-growth-surprise-9191094/)
+
+India's GDP has grown surprisingly high, with an estimated 7.6% growth as per the National Statistical Office's latest estimates, exceeding previous predictions. This surge was driven by rising net taxes and gains from economic momentum in Q3.
+
+Despite the impressive growth, it's important to note that real GDP is still below pre-pandemic levels. However, the government's focus on infrastructure and policy has aided the economy's recovery. While the RBI projects a 7% GDP growth for next year, experts anticipate a moderation due to factors like high interest rates and reduced fiscal impulse.
+
+Consumption growth, especially in rural areas, has trailed overall GDP growth due to high food inflation. However, there has been a shift in consumption expenditure towards non-food items over time, and within food, from cereals to processed items.
+
+Household savings make up around 61% of total national savings, but net financial savings have fallen sharply, while physical savings have increased. This suggests households are using borrowings to acquire physical assets like houses.
+
+The data also provides insights into investment trends, with public and household investments growing faster than private corporate investments in FY22-23. While corporate investments have shown signs of recovery in the current fiscal, a broad-based revival is crucial for sustained high growth rates.
+
+Sat, 02 Mar 2024 01:30:29 +0000
+### [Express View on ‘love jihad’ in Kota: Leave the kids alone](https://indianexpress.com/article/opinion/editorials/express-view-on-love-jihad-in-kota-leave-the-kids-alone-9191106/)
+
+In Rajasthan's Kota school, a play and registration error sparked fear-mongering about "love jihad" and conversion. The school suspended three Muslim teachers, showing the dangers of divisive politics in education. The suspension was based on claims that clips from the play held on Republic Day showed the school's alleged nefarious intent. The state education minister has made controversial statements on Akbar and promised stricter action if charges are proven. This heavy-handed response demonstrates the system's complicity in conspiracy theories, jeopardizing the classroom's sanctity. Similar incidents in Madhya Pradesh have occurred, with a minority-run school facing derecognition and a teacher's arrest. Such actions allow bigotry to flourish. Classrooms should be sacrosanct spaces that foster inclusivity and soften political schisms. Students at the Kota school have protested the suspensions, demanding the reinstatement of their teachers. The school administration and local officials refute the accusations, and civil society and political leadership must push back against prejudice in education.
+
+Sat, 02 Mar 2024 01:30:14 +0000
+### [Express View on food and climate change: Risotto, like silphium](https://indianexpress.com/article/opinion/editorials/express-view-on-food-and-climate-change-risotto-like-silphium-9191107/)
+
+Climate change poses threats to various crops, including rice, cocoa, and coffee. Silphium, once a prized herb, became extinct due to overharvesting. Today, the Po Valley in Italy faces the potential loss of unique rice varieties due to reduced snowmelt and erratic rainfall. Similar concerns exist in West Africa for cocoa production and in growing regions for coffee beans. Despite agriculture's contribution to climate change, efforts are underway to develop resilient crops through gene editing to ensure future generations can enjoy culinary delicacies like risotto and coffee.
+
 Fri, 01 Mar 2024 12:34:19 +0000
 ### [Bharat Jodo Nyay Yatra: Is Rahul Gandhi’s image-making exercise matching up to PM Modi’s?](https://indianexpress.com/article/opinion/columns/rahul-gandhi-bharat-jodo-nyay-yatra-pm-modi-image-making-exercise-9190426/)
 

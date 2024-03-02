@@ -1,3 +1,44 @@
+Sun, 03 Mar 2024 04:17:00 +0530
+### [The resolutions against Centre’s border plan](https://www.thehindu.com/news/national/the-resolutions-against-centres-border-plan/article67908288.ece)
+
+Mizoram and Nagaland have opposed the Centre's decision to fence the India-Myanmar border and scrap the Free Movement Regime (FMR) agreement. The FMR allows cross-border movement up to 16 km without travel documents. The Centre claims the decision is to prevent illegal migration, drug smuggling, and extremist activity. However, Mizoram and Nagaland argue that it will divide communities and disrupt age-old ties. The Supreme Court has ruled that State Assembly resolutions against central laws are merely opinions with no legal force.
+
+Sun, 03 Mar 2024 03:04:00 +0530
+### [What will Gaganyaan change for India? | Explained](https://www.thehindu.com/sci-tech/science/what-will-gaganyaan-change-for-india-explained/article67908278.ece)
+
+**India's Gaganyaan Mission**
+
+India's Gaganyaan Mission aims to send astronauts to low-earth orbit with a launch scheduled for 2025. The mission includes:
+
+* **Launch Vehicle Mark-3 (LVM-3):** Three-stage rocket to launch the orbital module.
+* **Orbital Module:** Crew module (for three astronauts) with parachutes and life support systems, and service module for propulsion.
+* **Crew:** Four shortlisted astronaut candidates from the Indian Air Force.
+
+The mission has been approved and several technologies have been tested, including:
+
+* Space Capsule Recovery Experiment (SRE, 2007)
+* Crew-Module Atmospheric Re-entry Experiment (CARE, 2014)
+* Testing of CE-20 engines and other components
+
+The crew module and life support systems will be procured externally due to a lack of domestic manufacturing capability.
+
+The mission is part of India's space reforms, including the establishment of NSIL and IN-SPACe, and aims to establish India's self-sufficiency in sending humans to space.
+
+Sun, 03 Mar 2024 01:57:00 +0530
+### [A.M. Khanwilkar | From SC to Lokpal](https://www.thehindu.com/news/national/am-khanwilkar-from-sc-to-lokpal/article67908336.ece)
+
+Justice Ajay Manikrao Khanwilkar, known for strengthening state powers during his Supreme Court tenure, has been appointed as the Lokpal Chairperson. As a first-generation judge, he has upheld laws expanding the powers of the state, including the Foreign Contribution Regulation Act and the Prevention of Money Laundering Act. Khanwilkar has defended the Sabarimala temple ban and questioned the allegations of a conspiracy in the 2002 Gujarat riots. Critics have expressed concern that his interpretation of the law may favor the state in corruption cases.
+
+Sun, 03 Mar 2024 01:28:00 +0530
+### [Vijay Shekhar Sharma | Embattled entrepreneur](https://www.thehindu.com/sci-tech/technology/vijay-shekhar-sharma-embattled-entrepreneur/article67908316.ece)
+
+Vijay Shekhar Sharma, the founder of Paytm, was emotional at the company's listing in 2021, seeing it as a realization of the company's goal of empowering India through digital payments. Despite its initial success, Paytm has faced regulatory hurdles and shaken investor confidence. Sharma's journey as an entrepreneur began in college, where he faced challenges with the English medium of instruction. He started XS, a content management system, and later founded One97 Communications in 2000. Paytm was launched in 2010, focusing on removing cash and promoting financial inclusion. The company's entry into lending and its ambition for a small finance bank license have been hindered by regulatory issues. Sharma's intuitive and opinionated approach to decision-making has also impacted the company's performance. As Paytm struggles with its stock price below its debut price, Sharma remains determined to preserve its profitability and fight regulatory challenges.
+
+Sun, 03 Mar 2024 01:04:00 +0530
+### [Gaganyaan astronauts | The chosen four](https://www.thehindu.com/sci-tech/science/gaganyaan-astronauts-the-chosen-four/article67908298.ece)
+
+Prime Minister Narendra Modi has revealed the four astronaut candidates for the Indian Space Research Organisation's (ISRO) Gaganyaan mission: Group Captains Prasanth Balakrishnan Nair, Ajit Krishnan, Angad Pratap, and Wing Commander Shubanshu Shukla. These highly trained Air Force test pilots will undergo rigorous training at various facilities in India and Russia. Gaganyaan aims to demonstrate human spaceflight in low-earth orbit using an Indian launch vehicle. The mission has two uncrewed test flights planned before the first crewed flight, tentatively scheduled for 2025. The crew module can accommodate up to three astronauts, but ISRO may only send one on the maiden mission, highlighting the importance of both physical and mental fitness.
+
 Fri, 01 Mar 2024 12:55:59 +0530
 ### [Maharashtra’s latest Maratha quota law and its challenges | Explained](https://www.thehindu.com/news/national/maharashtra-latest-maratha-quota-law-and-its-challenges-explained/article67891042.ece)
 

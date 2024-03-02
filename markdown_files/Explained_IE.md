@@ -1,3 +1,58 @@
+Sat, 02 Mar 2024 11:01:56 +0000
+### [Why did stock exchanges conduct special trading sessions today?](https://indianexpress.com/article/explained/explained-economics/stock-exchanges-special-trading-sessions-9192075/)
+
+The Bombay Stock Exchange (BSE) and National Stock Exchange (NSE) conducted live trading sessions on Saturday as part of the SEBI's plan for disaster recovery sites (DRS).
+
+These sessions tested the stock exchanges' ability to switch their trading systems to DRS locations in case of disruptions. The exchanges conducted the sessions in two phases, ensuring a smooth transition of trading activities and preserving data integrity.
+
+The DRS framework aims to ensure that trading continues without interruptions in the event of an outage. Stock exchanges conducted the special trading sessions based on discussions with SEBI to ensure the effectiveness of these DRS sites.
+
+Sat, 02 Mar 2024 10:33:15 +0000
+### [What India’s latest leopard population estimates suggest](https://indianexpress.com/article/explained/india-leopard-population-estimates-9192015/)
+
+According to the 'Status of Leopards in India, 2022' report, India's leopard population has increased to 13,874 from 12,852 in 2018. Central India and Eastern Ghats have the highest population of leopards. Madhya Pradesh has the largest population, followed by Maharashtra, Karnataka, and Tamil Nadu. While tiger populations have positively impacted leopard populations in some areas, they have also negatively impacted them in others. Poaching, habitat loss, and road accidents remain significant threats to leopards. Leopard-human conflict is also a growing issue due to leopards' adaptability and presence outside protected areas. States like Maharashtra, Karnataka, and Kerala have reported numerous fatal attacks and human-leopard encounters.
+
+Sat, 02 Mar 2024 08:34:58 +0000
+### [Is the President immune from prosecution? US Supreme Court to decide on Trump case](https://indianexpress.com/article/explained/explained-global/presidential-immunity-trump-us-supreme-court-9191776/)
+
+The Supreme Court (SCOTUS) is considering whether former President Donald Trump has immunity from criminal charges for attempting to overturn the 2020 election. Trump faces conspiracy charges related to the January 6th Capitol attack.
+
+The Constitution does not specify presidential immunity, but SCOTUS ruled in United States v Nixon (1974) that the President can be required to testify and produce evidence in criminal cases. However, the question of whether a President can be prosecuted while in office remains unanswered.
+
+Trump argues that the "absolute immunity" granted to former President Nixon in Nixon v Fitzgerald (1982) should extend to criminal liability for actions taken during office.
+
+In contrast to the US, India's President and Governors have absolute immunity from criminal prosecution during their terms. However, the Prime Minister and Chief Ministers have no such protection and can be treated like ordinary citizens in court.
+
+Sat, 02 Mar 2024 07:37:59 +0000
+### [Obesity on the rise, high levels of undernutrition persist in India: What a new study says](https://indianexpress.com/article/explained/explained-health/obesity-undernutrition-persist-india-new-study-9191754/)
+
+India faces a double burden of obesity and undernutrition. Over the past 32 years, obesity has surged, particularly in women with a 9.8% prevalence in 2022. Childhood obesity has also increased significantly. Despite declining, undernutrition remains high, with India having the highest prevalence of thinness in girls and the second highest in boys globally.
+
+Socioeconomic factors play a role, with junk food being more accessible and affordable than nutritious options. Obesity is more prevalent in urban areas and among the better-off, while undernutrition persists in remote and poor regions.
+
+Obesity contributes to non-communicable diseases, while undernutrition increases susceptibility to these conditions later in life. The study recommends addressing both issues through programs that promote healthy nutrition and weight loss support.
+
+Sat, 02 Mar 2024 03:30:56 +0000
+### [Decoding China: National People’s Congress meets at bad time](https://indianexpress.com/article/explained/explained-global/china-national-peoples-congress-economy-9190909/)
+
+Chinese Prime Minister Li Qiang, despite economic headwinds, remains optimistic, using weather metaphors to predict a brighter future. Despite a global downturn, reduced demand, and a struggling real estate industry, Li aims to revitalize China's economy. The key challenge is reaching the 5% growth threshold in 2024. Li's upcoming report to Parliament will outline his plan to boost internal consumption and attract foreign investment. Germany plays a significant role in this growth strategy, with record levels of FDI. Visa liberalization measures have been implemented to encourage investment from Germany and other EU nations, demonstrating China's eagerness for international business collaboration.
+
+Sat, 02 Mar 2024 01:36:55 +0000
+### [Why have GDP and GVA growth rates diverged in Q3?](https://indianexpress.com/article/explained/explained-economics/why-have-gdp-and-gva-growth-rates-diverged-in-q3-9191086/)
+
+India's GDP grew by an unexpected 8.4% in Q3 of 2023-24, surpassing RBI estimates of 6.5%. This helped raise the full-year estimate to 7.6%. Growth was driven by manufacturing, mining, construction, and services, while agriculture contracted.
+
+However, there is a discrepancy between GDP and GVA growth, with GDP growing at 8.4% and GVA at 6.5%. This is due to lower-than-expected annual GDP deflator and a sharp rise in net taxes.
+
+Investment growth supported GDP, while private consumption growth remained subdued. The government attributed the GVA-GDP divergence to a fall in subsidies.
+
+Economists believe GDP deflator growth could lead to lower real GDP growth in the future. They emphasize monitoring consumption growth and private investments for sustained growth.
+
+Sat, 02 Mar 2024 01:36:45 +0000
+### [Expert Explains: How the development of Agaléga figures in India’s vision for its maritime neighbourhood](https://indianexpress.com/article/explained/expert-explains-how-the-development-of-agalega-figures-in-indias-vision-for-its-maritime-neighbourhood-9191082/)
+
+Prime Minister Modi and Prime Minister Jugnauth inaugurated an airstrip and jetty on Agaléga Island, which belongs to Mauritius. The development aims to enhance socio-economic security for Mauritius and aligns with India's maritime vision. These facilities will improve the well-being of the island's inhabitants and create employment opportunities. They will also strengthen Mauritius' government presence and enable better monitoring of their Exclusive Economic Zone. India and Mauritius have close historical and cultural ties, with 70% of Mauritians having Indian origin. India's commitment to the SAGAR vision and willingness to assist maritime nations are underscored by this joint development. India respects sovereignty and has a track record of providing material support, information exchange, and joint exercises with Mauritius, but only upon request and in accordance with established mechanisms. India's development aid is not intended to create debt traps or violate sovereignty.
+
 Fri, 01 Mar 2024 14:08:12 +0000
 ### [Bengaluru bomb blast: What are improvised explosive devices, or IEDs?](https://indianexpress.com/article/explained/bengaluru-bomb-blast-ied-9190684/)
 

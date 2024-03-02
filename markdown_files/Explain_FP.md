@@ -1,3 +1,46 @@
+Sat, 2 Mar 2024 17:50:12 +0530
+### [US to drop food aid into Gaza: Why the task is complicated](https://www.firstpost.com/explainers/us-to-drop-food-aid-into-gaza-why-the-task-is-complicated-13744366.html)
+
+The US plans to conduct airdrops of food and supplies into Gaza, joining Jordan and France in aid efforts. However, executing airdrops in Gaza poses difficulties due to its densely populated nature, unpredictable wind patterns, and the risk of aid falling into the wrong hands given the absence of a US military presence on the ground. Despite these challenges, the military believes they can effectively carry out the task. Additionally, the US is exploring the possibility of a maritime corridor for aid delivery to Gaza. Currently, one-quarter of Gaza's population faces near-famine conditions, with the UN citing obstacles in aid distribution and the need for safe conditions to resume food aid deliveries.
+
+Sat, 2 Mar 2024 16:12:35 +0530
+### [Killer whale eats great white shark: Why scientists are worried](https://www.firstpost.com/explainers/killer-whale-eats-great-white-shark-why-scientists-are-worried-13744333.html)
+
+Scientists have captured footage of a killer whale, known as Starboard, attacking and consuming a juvenile great white shark off the coast of South Africa. This behavior, where orcas target sharks solely for their livers, is concerning as it has been observed more frequently in recent years. Researchers speculate that human activities, such as climate change and industrial fishing, may be driving this behavior. They also express concerns about the potential impact on coastal marine ecosystems, including the reduction of great white shark populations and increased predation on other species.
+
+Sat, 2 Mar 2024 14:05:55 +0530
+### [Who was Amarnath Ghosh, the Indian classical dancer shot dead in the US?](https://www.firstpost.com/explainers/who-was-amarnath-ghosh-the-indian-classical-dancer-shot-dead-in-the-us-13744282.html)
+
+Amarnath Ghosh, a professional Bharatnatyam and Kuchipudi dancer from Kolkata, was shot and killed in St. Louis, Missouri. The incident has drawn attention from Indian officials and sparked concerns about the increasing violence against Indians in the US.
+
+Ghosh was pursuing an MFA in dance at Washington University. He was the only child in his family, and his death has left them devastated. The motive behind the killing remains unknown.
+
+The Indian Consulate General in Chicago is providing support to Ghosh's family and is working with local authorities in the investigation. The Consulate has expressed concern about the string of recent attacks on Indians in the US.
+
+In the past few months, several Indian-origin individuals have been killed in the US, including Akul Dhawan, Sameer Kamath, and Neel Acharya. These incidents have highlighted the need for addressing hate crimes and providing safety for Indian students and immigrants.
+
+White House officials have condemned the attacks and pledged to hold perpetrators accountable.
+
+Sat, 2 Mar 2024 11:40:18 +0530
+### [He ate rava idli, left 'bag with IED': What suspect did before Bengaluru café blast](https://www.firstpost.com/explainers/he-ate-rava-idli-left-bag-with-ied-what-suspect-did-before-bengaluru-cafe-blast-13744269.html)
+
+On Friday, an explosion at Bengaluru's Rameshwaram Café injured nine people. CCTV footage shows a masked man planting a bag of explosives and leaving around an hour before the blast.
+
+Investigators suspect the man is in his 20s and are using facial recognition software to identify him. A second person has been detained for questioning.
+
+Police have filed an FIR under anti-terror laws and discovered a sophisticated electronic timer and possible RDX explosives. The investigation is ongoing, with multiple teams searching for the suspect.
+
+Witnesses reported the roof partially collapsing as panicked customers fled. The injured, including those with ruptured eardrums, are receiving medical treatment. Authorities are investigating potential terror connections and other angles in the case.
+
+Sat, 2 Mar 2024 09:14:11 +0530
+### [This Week in Explainers: How India has taken a big leap to meet its semiconductor goals](https://www.firstpost.com/explainers/this-week-in-explainers-how-india-has-taken-a-big-leap-to-meet-its-semiconductor-goals-13744176.html)
+
+India aims to become a global semiconductor manufacturing hub. The Union Cabinet approved three semiconductor plants worth Rs 1.26 lakh crore under the 'Development of Semiconductors and Display Manufacturing Ecosystem' scheme. This move aims to make India self-reliant in semiconductors and reduce its dependence on imports.
+
+Additionally, India announced the names of four astronauts chosen for the Gaganyaan mission, its first crewed space mission. The country also established the International Big Cat Alliance (IBCA), focusing on big cat conservation.
+
+Other key events included the Ambanis' pre-wedding festivities in Jamnagar, Gujarat, and the arrest of TMC strongman Sheikh Shahjahan after 55 days on the run. Mumbai's luxury real estate market is also thriving, ranking among the top 10 in the world.
+
 Fri, 1 Mar 2024 19:30:38 +0530
 ### [Anant Ambani, Radhika Merchant pre-wedding: Why Jamnagar was chosen as venue](https://www.firstpost.com/explainers/anant-ambani-radhika-merchant-pre-wedding-why-jamnagar-was-chosen-as-venue-13744108.html)
 
