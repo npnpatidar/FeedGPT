@@ -1,3 +1,94 @@
+Sun, 03 Mar 2024 14:31:00 +0000
+### [Vandita Mishra writes: The Rajya Sabha cross-voting scandal that wasn’t](https://indianexpress.com/article/opinion/columns/rajya-sabha-cross-voting-9193734/)
+
+The Rajya Sabha elections revealed the BJP's success in winning seats beyond its MLA tally, while the Congress faced a setback. Cross-voting and MLAs switching from non-BJP parties to the BJP were seen, without significant scandal, partly due to a lack of public outrage and political polarization at higher levels contrasting with routine party switches at the ground level. The author suggests reasons for this include weakened party structures and personalized politics, as well as a narrow political field with high barriers to entry.
+
+The apparent impunity with which politicians switch sides, coupled with euphemisms like "Operation Lotus," masks the underlying political maneuvering and corruption that involves buying MLAs and splitting opposition parties. The Congress's weakness, as well as the SP's loss of seven MLAs who cross-voted in favor of the BJP, highlights larger issues within these parties.
+
+The SP faces challenges under Akhilesh Yadav's leadership, including internal divisions, a less engaged leadership style, and the formidable reputation of the ruling Yogi Adityanath government in UP, which criminalizes public protest. Additionally, the SP struggles to counter Hindutva politics effectively. The cross-voting by SP MLAs in the Rajya Sabha elections reflects these broader predicaments.
+
+Sun, 03 Mar 2024 13:09:42 +0000
+### [With Shehbaz Sharif at its head, a vulnerable new government forms in Pakistan](https://indianexpress.com/article/opinion/columns/shehbaz-sharif-at-its-head-a-vulnerable-new-government-forms-in-pakistan-9193628/)
+
+**Post-Election Political Landscape in Pakistan:**
+
+* A coalition of PML-N and PPP has formed the government at the center, with Shehbaz Sharif as Prime Minister.
+* PPP will have Asaf Ali Zardari as the President, and the PML-N has Maryam Nawaz Sharif as Chief Minister of Punjab.
+* PTI, led by Imran Khan, has formed a government in Khyber Pakhtunkhwa.
+
+**Key Differences from Previous Coalition:**
+
+* Military backing remains, but there are changes in high constitutional posts.
+* Asaf Ali Zardari replaces an Imran Khan ally as President, and the former Supreme Court Chief Justice has retired.
+* Imran Khan has emerged as a significant independent political force, challenging the military.
+* Nawaz Sharif's political influence has diminished, with his brother assuming the role of Prime Minister.
+
+**Challenges for the New Government:**
+
+* Anti-military sentiment remains strong, with Imran Khan leading the charge.
+* The PML-N and PPP coalition lacks a clear mandate and faces internal distrust.
+* The economy, internal security threats, and troubled neighborhood relations pose significant challenges.
+* India-Pakistan relations are unlikely to see significant progress in the near future.
+
+Sun, 03 Mar 2024 10:12:26 +0000
+### [‘Anatomy of a Fall’ refuses to make monsters out of ambitious women](https://indianexpress.com/article/opinion/columns/anatomy-of-a-fall-ambitious-women-monsters-9193362/)
+
+A popular comic by Emma exposed the "mental load" carried by women in heterosexual relationships, where they are expected to manage household chores and caregiving responsibilities, regardless of their own careers.
+
+Justine Triet's film "Anatomy of a Fall" inverts this concept by presenting Sandra, a successful novelist on trial for her husband's murder. Recordings of their arguments highlight her refusal to conform to traditional gender roles, leaving her husband burdened and unable to pursue his writing.
+
+Triet explores the double standard faced by ambitious women, who are often vilified for not prioritizing family responsibilities. Films like "Black Swan" and "The Devil Wears Prada" portray these women as distorted and cautionary figures.
+
+However, "Anatomy of a Fall" refuses to demonize Sandra. By giving her the role traditionally played by men, it humanizes her ambition and challenges the societal expectations that punish women for deviating from traditional gender norms.
+
+Sun, 03 Mar 2024 09:22:32 +0000
+### [Donald Trump vs the Democrats: In 2024, the US will fight for a definition of reality](https://indianexpress.com/article/opinion/columns/donald-trump-democrats-2024-us-elections-9193319/)
+
+The article argues that Donald Trump embodies the "new rainbow coalition" in America, appealing to diverse voters with a message of hope and common-sense morality. His opponents, on the other hand, are seen as having alienated middle Americans by prioritizing politically expedient rhetoric over addressing their concerns. The 2024 election is presented as a referendum on the Democrats' failed message of peace and truth and Trump's warning that America needs to address its decline in basic values like law and order and free speech. The Democrats' attempts to discredit Trump as a racist have backfired, while Trump has welcomed independent voices like Tulsi Gabbard and Vivek Ramaswamy. The election is ultimately seen as a symbolic battle for the soul of America, with Trump representing shared human values and his opponents promoting divisive dogmas that undermine common sense.
+
+Sun, 03 Mar 2024 02:15:43 +0000
+### [P Chidambaram writes: There are no poor in India](https://indianexpress.com/article/opinion/columns/poverty-nsso-poverty-report-hces-niti-aayog-9192461/)
+
+The NITI Aayog claims that poverty in India has been reduced to 5%, basing their statement on the Household Consumption Expenditure Survey (HCES). However, the author argues that this claim is misleading.
+
+The HCES data shows that the bottom 20% of earners in rural areas spend only Rs 2,112 per month, while those in urban areas spend Rs 3,157 per month. The author argues that these individuals are clearly living in poverty and that the NITI Aayog is ignoring these realities.
+
+The author also points to other indicators of poverty, such as high rates of anemia, stunting, and wasting among children, as well as the large number of homeless people and those dependent on government welfare programs.
+
+The author concludes that the NITI Aayog's claim is a way of justifying the government's focus on the rich at the expense of the poor.
+
+Sun, 03 Mar 2024 02:05:53 +0000
+### [Tavleen Singh writes: Misplaced priorities or wrong priorities](https://indianexpress.com/article/opinion/columns/misplaced-priorities-or-wrong-priorities-9192468/)
+
+Despite India's economic progress, only 46 of 485 Indian cities provide clean water, leading to thousands of daily deaths from diarrhea. Despite Prime Minister Modi's efforts in sanitation, rivers and water sources remain polluted. While Sri Lanka achieves a 92% literacy rate, India stands at 72%, with concerns that even this is inflated. Economic growth must prioritize basic needs, and the media should focus on issues beyond political disputes. India must address discrepancies in sanitation, cleanliness, and literacy to truly become a developed nation.
+
+Sun, 03 Mar 2024 01:58:51 +0000
+### [Legacy of Poykayil Appachan is still a beacon of hope](https://indianexpress.com/article/opinion/columns/poykayil-appachan-legacy-prds-religious-movement-kerala-9192724/)
+
+On February 17th, thousands celebrated the birth anniversary of Poykayil Appachan, founder of the Prathyaksha Raksha Daiva Sabha (PRDS) movement. Appachan aimed for spiritual emancipation and social upliftment of oppressed castes in Kerala. His movement used songs, speeches, and strategies to mobilize for social change.
+
+Appachan rejected colonial roots but embraced modernity's benefits. He emphasized economic progress and cultural politics over religious reform. He encouraged understanding of ancestral heritage over reliance on foreign religious figures.
+
+Appachan reinterpreted Travancore's history, portraying upper castes as Aryan invaders and lower castes as indigenous Dravidians. This empowered the latter by celebrating their culture. He was seen as a prophet with divine powers, inspiring hope and land acquisition among Dalits.
+
+In the movement's second phase, Appachan focused on developing social resources. He established schools, industries, and religious centers. He promoted education, inter-caste marriages, and engagement with the broader world. As a Legislative Council member, he introduced policies supporting the marginalized, such as midday meals, land distribution, and free education.
+
+Appachan's legacy continues to inspire equality and spiritual autonomy among marginalized communities in Kerala, serving as a beacon of resilience and hope.
+
+Sun, 03 Mar 2024 01:32:15 +0000
+### [History Headline: 60 years ago, when a Rajya Sabha election was declared void](https://indianexpress.com/article/opinion/columns/rajya-sabha-elections-history-first-void-9192427/)
+
+India's Rajya Sabha elections are typically uneventful, as MLAs are the voters and there are often no contests. However, occasional surprises occur when political figures lose elections due to cross-voting. In the recent round, 41 of 56 seats were uncontested.
+
+Cross-voting controversies have plagued Rajya Sabha elections for decades. In 1964, a Congress candidate lost due to cross-voting, leading to a legal challenge that established the precedent of annulling an election for corrupt practices.
+
+Concerns over money and muscle power in these elections have been raised since 1970, with MPs calling for strict party discipline to prevent cross-voting.
+
+Sun, 03 Mar 2024 01:30:41 +0000
+### [Shades of greys and browns](https://indianexpress.com/article/opinion/columns/shades-of-greys-and-browns-9192491/)
+
+Three women from diverse backgrounds share experiences of bullying that damaged their self-esteem. One, from a small town, faced criticism for her skin color and appearance, leading her to limit her clothing choices and avoid certain colors. The second, raised in a city, also struggled with body image issues. Both women experienced self-doubt and withdrew from social situations. However, both eventually gained confidence and self-acceptance through anonymity and self-discovery. The article highlights the widespread impact of bullying on women's self-image and the need for societal change to foster self-respect and challenge unrealistic beauty standards.
+
 Sat, 02 Mar 2024 14:04:56 +0000
 ### [How we can avoid human-animal conflicts](https://indianexpress.com/article/opinion/columns/avoid-human-animal-conflicts-9192292/)
 

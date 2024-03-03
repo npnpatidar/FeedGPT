@@ -1,3 +1,51 @@
+Sun, 03 Mar 2024 14:04:32 +0000
+### [Pakistan National Day to be celebrated in Delhi: What was the Lahore Resolution, which it marks](https://indianexpress.com/article/explained/explained-history/pakistan-national-day-lahore-resolution-explained-9193702/)
+
+Pakistan is attempting discreet diplomatic outreach to India after a period of estrangement. To facilitate this, Pakistan will host its National Day celebrations in New Delhi, honoring the 1940 Lahore Resolution that called for an independent Muslim state in India. The resolution outlined the creation of two separate autonomous units for Muslim-majority regions, which later became the basis for Pakistan's independence. National Day is observed at the Pakistani embassy in New Delhi with speeches, music, and the presence of Indian dignitaries.
+
+Sun, 03 Mar 2024 12:44:25 +0000
+### [Why Thailand’s now-replaced WTO Ambassador questioned India’s agriculture subsidies, what India argued](https://indianexpress.com/article/explained/explained-economics/wto-india-food-subsidy-farmers-thailand-9193340/)
+
+Thailand replaced its Ambassador to the World Trade Organization (WTO) after India protested her comments regarding India's Public Stockholding (PSH) program.
+
+Thailand, as part of the Cairns Group, criticized India's PSH program, claiming it is subsidized and distorts global food prices. India, with rice exports exceeding the WTO's de minimis limit of 10% for developing countries, has argued for a change in the subsidy calculation method.
+
+The Cairns Group, supported by the EU and US, seeks to reduce India's farm support, while India demands a permanent solution for public stockholding.
+
+During the 13th WTO Ministerial Conference, tensions escalated between India and Thailand, leading to Indian negotiators boycotting discussions where the Thai representative was present.
+
+Indian farmers have expressed concerns about WTO restrictions on farm support and have requested its removal from the WTO agreement.
+
+Sun, 03 Mar 2024 11:49:34 +0000
+### [This Quote Means: ‘Jai Jawan, Jai Kisan’, said by former Prime Minister Lal Bahadur Shastri](https://indianexpress.com/article/explained/this-quote-means-jai-jawan-jai-kisan-shastri-9193486/)
+
+Lal Bahadur Shastri, India's former Prime Minister, coined the iconic slogan "Jai Jawan, Jai Kisan" ("hail the soldier, hail the farmer") in 1965 amidst numerous challenges, including the Indo-Pak conflict and agricultural crisis. The slogan emphasizes the vital role of both soldiers and farmers in India's well-being and security.
+
+Shastri's tenure as Prime Minister was marked by his swift actions during the conflict, which resulted in a ceasefire on Pakistan's terms. He also prioritized agriculture, allocating funds and reforms to lay the foundation for the Green Revolution and empowered key figures in the sector.
+
+Over the years, the slogan has evolved, with subsequent leaders adding "Jai Vigyan" (hail science) and "Jai Anusandhan" (hail research) to highlight the importance of scientific advancement and research.
+
+Sun, 03 Mar 2024 08:38:07 +0000
+### [What is grey zone warfare, mentioned by India’s Chief of Defence Staff recently?](https://indianexpress.com/article/explained/everyday-explainers/grey-zone-warfare-meaning-examples-china-taiwan-9193251/)
+
+In the 2024 Raisina Dialogue, General Anil Chauhan introduced "grey zone warfare" as the latest form of informal warfare, citing examples from the South China Sea and China's actions around Taiwan. Grey zone warfare involves actions that fall between direct conflict and peace, such as economic operations, influence campaigns, and cyberattacks.
+
+Experts believe grey zone warfare has emerged due to factors like nuclear weapons and technological advancements, making direct conflicts too costly. It allows countries to pursue objectives covertly or with obfuscated attribution.
+
+Grey zone warfare methods include economic sanctions, disinformation campaigns, and proxy wars. Russia and China have been associated with such tactics. For instance, China's presence in the South China Sea and Taiwan's complaints about increased Chinese military activity are examples of grey zone warfare.
+
+While grey zone warfare poses challenges different from open conflicts, experts warn that it can escalate in multiple dimensions and become difficult to manage. It can also be used to bait adversaries into escalation, normalize disputed claims, and project strength.
+
+Sun, 03 Mar 2024 08:14:37 +0000
+### [Bribes for votes: Why SC will decide if MLAs and MPs immune from criminal prosecution](https://indianexpress.com/article/explained/explained-law/sc-mla-mp-immune-criminal-prosecution-corruption-9193229/)
+
+The Supreme Court is considering overturning a 1998 ruling that granted legislators immunity from bribery charges in Parliament and Legislative Assemblies. Articles 105(2) and 194(2) of the Constitution provide this protection, which was interpreted literally in the P.V. Narasimha Rao case. However, a seven-judge bench led by Chief Justice D.Y. Chandrachud is examining the issue, focusing on whether the purpose of these articles was to protect legislators from criminal prosecution, the definition of "in respect of," and when the offense of bribery is complete. Senior advocates Raju Ramachandran and P.S. Patwalia argue for a narrow interpretation of the immunity, while Attorney General R. Vankataramani and Solicitor General Tushar Mehta advocate for reconsideration. The court will ultimately decide whether to maintain or overrule the P.V. Narasimha judgement.
+
+Sun, 03 Mar 2024 01:30:17 +0000
+### [What is the military significance of the airstrip that India has developed for Mauritius?](https://indianexpress.com/article/explained/explained-global/military-significance-airstrip-india-developed-mauritius-9192454/)
+
+Prime Minister Modi and Mauritian Prime Minister Jugnauth inaugurated an airstrip and jetty built by India on Agaléga Islands. Despite denials, reports suggest the airstrip could be developed into a military base. The project aims to enhance India's reach in the Indian Ocean, especially amidst China's growing influence. The initiative is part of India's 'Neighbourhood First Policy' with Mauritius and involves Indian Navy detachments and the supply of defense equipment. India is also strengthening ties with neighboring countries such as Seychelles, Madagascar, and certain African nations, while its relationship with the Maldives has been affected by political changes.
+
 Sat, 02 Mar 2024 11:01:56 +0000
 ### [Why did stock exchanges conduct special trading sessions today?](https://indianexpress.com/article/explained/explained-economics/stock-exchanges-special-trading-sessions-9192075/)
 

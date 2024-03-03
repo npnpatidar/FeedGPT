@@ -1,3 +1,13 @@
+Sun, 03 Mar 2024 22:00:44 +0530
+### [What purposes do university rankings serve? | Explained](https://www.thehindu.com/education/what-purposes-do-university-rankings-serve-explained/article67910252.ece)
+
+Global university rankings have gained significant influence in higher education, leading some institutions to allocate resources to improve their rankings. However, concerns have been raised about the systems' incentives and the companies behind them. Issues include conflicts of interest, as companies that create rankings sometimes consult with universities to help them improve their positions. Additionally, universities provide these companies with access to their data without permission. Critics argue that rankings oversimplify complex university roles and prioritize research excellence based on factors like citations, which can be manipulated. In response, several prominent universities have withdrawn from traditional rankings, recognizing their potential to promote harmful behaviors and negative long-term effects.
+
+Sun, 03 Mar 2024 08:32:49 +0530
+### [Supreme Court’s ban on Patanjali ads | Explained](https://www.thehindu.com/news/national/supreme-courts-ban-on-patanjali-ads-explained/article67899090.ece)
+
+The Supreme Court has prohibited Patanjali Ayurved from discrediting allopathy and advertising products that claim to cure chronic conditions. This is because Patanjali's ads present their products as a 'permanent relief,' which is "misleading" and violates the Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954. The court also issued a contempt notice against Patanjali and its Managing Director Acharya Balkrishna for failing to adhere to directions passed in November last year. The case was filed by the Indian Medical Association (IMA) in response to Patanjali ads that allegedly denigrated allopathy and made exaggerated claims about its drugs. Patanjali has been previously found to have sold substandard products and failed to comply with drug manufacturing standards. Despite being warned by the court in November 2023, Patanjali continued to make misleading claims in its advertisements. The court has now temporarily banned all forms of advertisements for Patanjali's medicinal products. The case will be heard next on March 19.
+
 Sun, 03 Mar 2024 04:17:00 +0530
 ### [The resolutions against Centre’s border plan](https://www.thehindu.com/news/national/the-resolutions-against-centres-border-plan/article67908288.ece)
 

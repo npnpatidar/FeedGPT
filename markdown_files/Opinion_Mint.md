@@ -1,3 +1,36 @@
+Mon, 04 Mar 2024 01:52:59 +0530
+### [Do we really have any field of work that is lucrative?](https://www.livemint.com/opinion/online-views/do-we-really-have-any-field-of-work-that-is-lucrative-11709483002287.html)
+
+Despite the notion that farming is "unremunerative," many other professions also face financial challenges. From entrepreneurship to entertainment, most individuals struggle for success. Even among salaried employees, few earn substantial incomes. Entrepreneurship carries inherent risk, as profits cannot be guaranteed due to competition. However, entrepreneurs who achieve success create an illusion of prosperity, motivating others to pursue similar paths that often lead to disappointment. The struggles of land-holding farmers, who are entrepreneurs seeking growth, stem from their high standards for remuneration. Moreover, some professions can become more lucrative through the creation of superstars, such as in entertainment and sports.
+
+Mon, 04 Mar 2024 01:47:41 +0530
+### [India’s consumption numbers fit into our big picture of progress](https://www.livemint.com/opinion/online-views/indias-consumption-numbers-fit-into-our-big-picture-of-progress-11709483131073.html)
+
+The Household Consumption Expenditure Survey (HCES) for 2022-23 reveals promising trends in India's economic growth. Over the past decade, monthly per capita expenditure increased significantly, with a 40% rise in rural areas and 33.5% in urban areas. Notably, the rural-urban divide has narrowed, dropping from an 83.9% gap in 2011-12 to 71.2% in 2022-23.
+
+The survey also indicates a decline in economic inequality, with the bottom 5% of the population experiencing faster consumption growth (9.2% rural and 10% urban) than the top 5% (8% rural and 6.6% urban). This inclusive growth is further evidenced by rising MPCE/GNI ratios for lower-income groups.
+
+The HCES attributes these positive developments to investments in infrastructure and empowerment programs, such as rural road expansion, women's collectives, and the Mahatma Gandhi National Rural Employment Guarantee Scheme. The survey highlights the impact of government-provided free-of-cost items, underscoring the improvement in living standards beyond what consumption data suggests.
+
+While the survey provides valuable insights, the authors note that future iterations could enhance coverage of government support and update consumer baskets and poverty lines in line with evolving aspirations. Overall, the HCES 2022-23 results support the government's approach of growth through infrastructure and inclusion through empowerment.
+
+Mon, 04 Mar 2024 01:42:52 +0530
+### [Starbucks is finally past its Howard Schultz era](https://www.livemint.com/opinion/online-views/starbucks-is-finally-past-its-howard-schultz-era-11709483247617.html)
+
+Howard Schultz, former CEO of Starbucks, has finally relinquished his grip on the company with the announcement of collective bargaining agreement discussions between the company and employee unions. Schultz's previous opposition to unions, compounded by labor law violations allegations during his tenure, led to sharp criticism. Despite Starbucks' progressive values, Schultz's anti-union stance alienated a younger generation prioritizing ethical consumption. Current CEO Laxman Narasimhan faces financial pressures and the risk of losing Gen-Z customers due to the union dispute. These factors suggest that Schultz's era at Starbucks is truly over, and the company is embracing a more progressive stance on labor relations.
+
+Sun, 03 Mar 2024 16:31:09 +0530
+### [Google’s googly has confounded digital companies and the government](https://www.livemint.com/opinion/first-person/googles-googly-has-confounded-digital-companies-and-the-government-11709462448609.html)
+
+Article found but Couldn't summarize 
+The company backtracked on its removal of Indian apps from its store after the government intervened. But in the absence of any visible competition to the Play Store, this is not the end of the battle.
+
+Sun, 03 Mar 2024 10:52:37 +0530
+### [Global digital gateway Google has policy lessons for us](https://www.livemint.com/opinion/online-views/global-digital-gateway-google-has-policy-lessons-for-us-11709443043390.html)
+
+Article found but Couldn't summarize 
+A real escape from Big Tech’s clutches would demand that India innovate its way to digital autonomy.
+
 Sat, 02 Mar 2024 16:15:37 +0530
 ### [Revitalizing India's cotton saga: A blueprint for growth](https://www.livemint.com/opinion/first-person/revitalizing-indias-cotton-saga-a-blueprint-for-growth-11709371029223.html)
 

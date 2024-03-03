@@ -1,3 +1,56 @@
+Sun, 3 Mar 2024 17:01:14 +0530
+### [Do you pick your skin? It is more harmful than you think](https://www.firstpost.com/explainers/do-you-pick-your-skin-it-is-more-harmful-than-you-think-13744109.html)
+
+**Dermatillomania: A Serious Skin Picking Disorder**
+
+Dermatillomania, also known as excoriation disorder, is a disorder characterized by compulsive skin picking. Unlike occasional skin picking, dermatillomania becomes a habitual and potentially harmful behavior.
+
+It can cause serious consequences, including:
+
+* Permanent scarring
+* Infection
+* Mental health issues (e.g., anxiety, depression)
+
+Dermatillomania is often associated with other related disorders, such as hair pulling (trichotillomania) and hair eating (tricophagia).
+
+**Causes and Triggers**
+
+The causes of dermatillomania are complex, but triggers may include:
+
+* Boredom
+* Anxiety
+* Depression
+* Obsessive-compulsive disorder (OCD)
+
+**Control Techniques and Treatment**
+
+Individuals with dermatillomania can try self-management techniques, such as:
+
+* Using stress balls or fidget toys
+* Wearing gloves or hats to create barriers
+* Seeking distraction and avoiding triggers
+
+In severe cases, clinical intervention may be necessary. This may include:
+
+* Medication for underlying skin or mental health conditions
+* Cognitive-behavioral therapy (CBT) to address negative thoughts and behaviors
+
+Treatment aims to disconnect the negative thoughts and behaviors that drive the compulsive skin picking, promoting better mental health and skin health.
+
+Sun, 3 Mar 2024 12:17:34 +0530
+### [Is slouching really as harmful as you think?](https://www.firstpost.com/explainers/is-slouching-really-as-harmful-as-you-think-13741933.html)
+
+Historically, slouching has been stigmatized as a sign of negativity and interpreted as affecting spinal health. However, recent research refutes these beliefs. There is no evidence linking slouching to spinal pain or damage.
+
+Instead, the emphasis shifts towards maintaining comfortable positions, varying postures, and incorporating regular breaks. Slouching may impact memory, mood, and information recall, but it does not harm the spine.
+
+Posture varies naturally and is not inherently related to pain. The human spine is designed for movement, so changing postures throughout the day is crucial to reduce fatigue and discomfort. Prolonged slouching may cause discomfort but does not damage the spine.
+
+Sun, 3 Mar 2024 10:32:46 +0530
+### [This Week in Explainers: Why South Korea's incentives to women to have babies isn't working](https://www.firstpost.com/explainers/this-week-in-explainers-why-south-koreas-incentives-to-women-to-have-babies-isnt-working-13744157.html)
+
+South Korea's fertility rate has declined further to 0.72, despite government efforts since 2006 to increase it with billions in funding. The article also discusses other global news stories, including the election of Maryam Nawaz as chief minister of Pakistan's Punjab province, the double murder of a same-sex couple in Australia, the potential candidacy of Michelle Obama as a Democratic presidential contender in the US, and the unusual service in China where husbands move into their wives' homes and take their surname. Additionally, the article explores the significance of leap years and the use of AI by multinational companies to monitor employee communications.
+
 Sat, 2 Mar 2024 17:50:12 +0530
 ### [US to drop food aid into Gaza: Why the task is complicated](https://www.firstpost.com/explainers/us-to-drop-food-aid-into-gaza-why-the-task-is-complicated-13744366.html)
 

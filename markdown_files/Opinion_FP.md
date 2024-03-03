@@ -1,3 +1,47 @@
+Sun, 3 Mar 2024 18:07:06 +0530
+### [Global elite wants control by cuckolding democracies, finishing free speech](https://www.firstpost.com/opinion/global-elite-wants-control-by-cuckolding-democracies-finishing-free-speech-13744659.html)
+
+Powerful, hidden networks are aiming to control global events by subtly influencing organizations and media through funding, publicity, and social engineering. These networks, often referred to as the "Deep State," are inverting democratic principles by using terms like "secular" and "liberal" to silence opposing views.
+
+They aim to weaken and manipulate governments by funding protests, pushing gender surgeries, and opposing narcotics control. The author believes that these networks are colluding with a globalist elite that desires a single world government.
+
+In India, the Narendra Modi government has cracked down on NGOs involved in such activities. The author argues that India's critics, such as The Economist, use the term "flawed democracy" to undermine nations that resist globalist control. They use tactics like "fact-checking" and "combating misinformation" to censor dissent.
+
+The author concludes that the true agenda is to erode democracy by employing seemingly benign terms and attacking nationalistic movements that seek to preserve sovereignty and cultural identity. Nations must remain vigilant and resist these attempts at manipulation by recognizing true enemies who come disguised as advocates for democracy.
+
+Sun, 3 Mar 2024 14:03:07 +0530
+### [Traditional solutions to Karnataka’s modern water crisis](https://www.firstpost.com/opinion/traditional-solutions-to-karnatakas-modern-water-crisis-13744601.html)
+
+Bangalore faces a severe water crisis, highlighting the urgent need for water conservation. The city's traditional water bodies have dwindled due to urbanization, with Karnataka losing over 13,000 water bodies in just 2021-2022.
+
+Traditional water bodies, such as the massive tanks in Chitradurga Fort and the stepped tank in Santhebennur, demonstrate sustainable water management techniques. These structures use natural gradients to capture and distribute water effectively.
+
+Temple tanks, like the Panchkuta Kalyani in Melukote, emphasize the cultural and religious significance of water bodies. By reviving these traditional water bodies and creating new spaces for water, modern city dwellers can address water scarcity.
+
+Potential homebuyers should consider the history of their property to ensure they are not contributing to the loss of water bodies. The future of cities depends on the sustainable management of water resources, learning from traditional techniques and prioritizing water conservation.
+
+Sun, 3 Mar 2024 12:50:49 +0530
+### [How far ‘doves’ can fly: Lesson from Japanese economy](https://www.firstpost.com/opinion/how-far-doves-can-fly-lesson-from-japanese-economy-13744582.html)
+
+Japan's economy, despite its previous prosperity, is currently facing challenges. While low interest rates and expansionary fiscal policies have been implemented to stimulate growth, these policies have also led to a record level of public debt and declining economic indicators. Japan's economy has slipped into recession and is now the world's fourth largest economy, behind Germany. The government's plans to increase military spending and address aging population needs may further burden the budget and hinder economic recovery. Ultimately, each economy has its limits to expansionary policies, and populist schemes can only be implemented to a certain extent. Japan's situation serves as a reminder that countries need to carefully consider the implications of long-term fiscal and monetary policies.
+
+Sun, 3 Mar 2024 11:58:32 +0530
+### [How Uzbek premier’s Kashgar visit legitimises Chinese repression of Uyghurs in Xinjiang](https://www.firstpost.com/opinion/how-uzbek-premiers-kashgar-visit-legitimises-chinese-repression-of-uyghurs-in-xinjiang-13744567.html)
+
+Uzbekistan has historically prioritized its relationship with China over the Uyghur issue. Uzbek Prime Minister Aripov's recent visit to Kashgar, the Uyghur heartland, cemented this bond, despite concerns over China's treatment of Uyghurs. Uzbekistan has largely ignored the Uyghur issue for decades to preserve its bilateral ties with China. This indifference stems from fears of separatism and terrorism, particularly due to the perceived link between Uyghur organizations and the Islamic Movement of Uzbekistan. As a result, Uyghurs in Uzbekistan conceal their identity, and the government has remained silent on the issue, refusing to criticize China's actions in Xinjiang.
+
+Sun, 3 Mar 2024 10:58:46 +0530
+### [Why political leaders like Truman, Bush never choke before taking tragic decisions](https://www.firstpost.com/opinion/book-review-famed-cognitive-scientist-sian-beilock-explains-how-human-mind-takes-decisions-13744544.html)
+
+The article explores the concept of "choking" under pressure and its impact on decision-making. It argues that highly skilled individuals can experience performance failures when the stakes are high due to overactivity in the prefrontal cortex, which inhibits automatic skills. The author cites examples of historical events, such as the Iraq invasion and Hiroshima bombing, where choking could have had devastating consequences.
+
+Cognitive scientist Sian Beilock proposes strategies to combat choking, including focusing on the task, developing routines, rehearsing success, and using meditation or mantras. The article also discusses the concept of stereotype threat, where negative stereotypes can impair performance. The author questions why some individuals, like former President Donald Trump, seem immune to choking under pressure, suggesting that future research may shed light on how politicians navigate high-stress situations.
+
+Sun, 3 Mar 2024 09:34:58 +0530
+### [Pakistan: With Shehbaz Sharif set to become PM, army will use every means to weaken Imran Khan](https://www.firstpost.com/opinion/pakistan-with-shehbaz-sharif-set-to-become-pm-army-will-use-every-means-to-weaken-imran-khan-13744511.html)
+
+Pakistani Army Chief General Munir aims to weaken former Prime Minister Imran Khan, who has evoked the sentiment of pride among the public. Despite the army's efforts to prevent PTI independents from winning in elections, they succeeded in forming the government in Khyber-Pakhtunkhwa. The army's preferred choice, PML(N), formed governments in Punjab and Sindh with the support of PPP. However, the issue of family rivalry within PML(N) and Imran Khan's continued popularity pose challenges to Munir's plans. Moreover, the new government faces economic challenges due to Pakistan's animosity towards India.
+
 Sat, 2 Mar 2024 21:56:25 +0530
 ### [Opinion | Anant Ambani: New-age industrialist or an old-school biz icon?](https://www.firstpost.com/opinion/anant-ambani-reliance-industries-mukesh-ambani-13744462.html)
 

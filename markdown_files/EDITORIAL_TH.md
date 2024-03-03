@@ -1,3 +1,15 @@
+Mon, 04 Mar 2024 00:30:00 +0530
+### [Facts and statistics: On the national income data released by the National Statistical Office](https://www.thehindu.com/opinion/editorial/facts-and-statistics-the-hindu-editorial-on-the-national-income-data-released-by-the-national-statistical-office/article67910496.ece)
+
+Article found but Couldn't summarize 
+GDP numbers bring cheer in election year, and merit more scrutiny
+
+Mon, 04 Mar 2024 00:15:00 +0530
+### [Bloody Thursday: On Israel’s war and the situation in Gaza](https://www.thehindu.com/opinion/editorial/bloody-thursday-the-hindu-editorial-on-israels-war-and-the-situation-in-gaza/article67910486.ece)
+
+Article found but Couldn't summarize 
+Israel’s allies cannot avoid blame for the situation in Gaza
+
 Sat, 02 Mar 2024 00:20:00 +0530
 ### [Decoding the script: On the Genome India Project and its sequencing 10,000 Indian genomes](https://www.thehindu.com/opinion/editorial/decoding-the-script-on-the-genome-india-project-and-its-sequencing-10000-indian-genomes/article67899979.ece)
 
