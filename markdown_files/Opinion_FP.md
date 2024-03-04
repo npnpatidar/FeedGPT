@@ -1,3 +1,39 @@
+Mon, 4 Mar 2024 18:14:40 +0530
+### [A hundred years since the last Caliph left Constantinople](https://www.firstpost.com/opinion/a-hundred-years-since-the-last-caliph-left-constantinople-13745019.html)
+
+Article found but Couldn't summarize 
+Exactly a century ago the last Caliph of the Muslim world lost his job, estates and country. Whereas India witnessed a mass movement in the early 1920s for retention of the Caliphate, the nascent Turkish republic decided the matter purely on nationalist ground
+
+Mon, 4 Mar 2024 17:29:22 +0530
+### [India rebooting into a middle-income economy](https://www.firstpost.com/opinion/india-rebooting-into-a-middle-income-economy-13745045.html)
+
+Article found but Couldn't summarize 
+Barring impactful Black Swan events in a volatile geopolitical scenario, India is poised to make its Amrit Kaal period to its centenary in 2047 a truly transformative one
+
+Mon, 4 Mar 2024 16:27:58 +0530
+### [How failure of Nehru-Liaquat pact served as a starter for Citizenship Amendment Act](https://www.firstpost.com/opinion/how-failure-of-nehru-liaquat-pact-served-as-a-starter-for-citizenship-amendment-act-13744983.html)
+
+Article found but Couldn't summarize 
+CAA does not classify or differentiate on the grounds of religion, claims the ministry of home affairs document, pointing out that it merely classifies religious persecution in countries with a state religion
+
+Mon, 4 Mar 2024 14:14:17 +0530
+### [India’s thrust into Indo-Pacific islands goes far beyond](https://www.firstpost.com/opinion/indias-thrust-into-indo-pacific-islands-goes-far-beyond-13744914.html)
+
+Article found but Couldn't summarize 
+India’s islands strategy is aimed at securing the country’s maritime interests, countering growing Chinese influence, and ultimately projecting Delhi as a leading regional power
+
+Mon, 4 Mar 2024 12:43:13 +0530
+### [Weather report: After a wet week, India is expected to have dry, warm days ahead; temperatures to increase in central, eastern parts](https://www.firstpost.com/opinion/weather-report-after-a-wet-week-india-is-expected-to-have-dry-warm-days-ahead-temperatures-to-increase-in-central-eastern-parts-13744853.html)
+
+Article found but Couldn't summarize 
+The upcoming week until March 10 will be significantly dry across the country, as no significant western disturbance or pre-monsoon rains are forecasted to occur
+
+Mon, 4 Mar 2024 10:59:50 +0530
+### [How is Russia-Ukraine war becoming a frozen conflict forever](https://www.firstpost.com/opinion/how-is-russia-ukraine-war-becoming-a-frozen-conflict-forever-13744786.html)
+
+Article found but Couldn't summarize 
+The war in Ukraine is an example of a fight that grinds on not because of strategic dilemmas alone but because both sides find the idea of terminating the conflict impossible
+
 Sun, 3 Mar 2024 18:07:06 +0530
 ### [Global elite wants control by cuckolding democracies, finishing free speech](https://www.firstpost.com/opinion/global-elite-wants-control-by-cuckolding-democracies-finishing-free-speech-13744659.html)
 

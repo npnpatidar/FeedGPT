@@ -1,3 +1,99 @@
+Mon, 4 Mar 2024 21:14:33 +0530
+### [How UPI transactions can help save billions every year for developing countries](https://www.firstpost.com/explainers/india-upi-transactions-wto-cross-border-remittance-costs-13745137.html)
+
+Article found but Couldn't summarize 
+India’s proposal to lower the cost of cross-border remittances and promote ‘interoperability and interlinkages of digital payment infrastructure’ did not make it to the declaration of the World Trade Organisation’s 13th ministerial conference. According to Union minister Piyush Goyal, these plans would have helped save $30-40 billion for Least developed countries and developing nations
+
+Mon, 4 Mar 2024 20:14:56 +0530
+### [How Houthi attacks in Red Sea could disrupt internet across the world](https://www.firstpost.com/explainers/how-houthi-attacks-in-red-sea-could-disrupt-internet-across-the-world-13745098.html)
+
+Article found but Couldn't summarize 
+Four cables in the Red Sea which account for 17 per cent of the world’s internet traffic have been ‘cut.’ The Houthis have previously denied they have any intention of targeting sea cables. So what's really going on?
+
+Mon, 4 Mar 2024 19:00:18 +0530
+### [Can mental health days for students bring down suicide rates? Taiwan thinks so](https://www.firstpost.com/explainers/can-mental-health-days-for-students-bring-down-suicide-rates-taiwan-thinks-so-13745073.html)
+
+Article found but Couldn't summarize 
+High schools in Taiwan will soon be offering mental health leave to students. It’s part of a trial run by the government to address the rising suicide rates, depression, and high stress levels among its youths
+
+Mon, 4 Mar 2024 18:09:46 +0530
+### [Joe Biden, Donald Trump’s verbal gaffes: How age affects our memory](https://www.firstpost.com/explainers/joe-biden-donald-trumps-verbal-gaffes-how-age-affects-our-memory-13745041.html)
+
+Article found but Couldn't summarize 
+US president Joe Biden and his Republican rival Donald Trump’s many public stumbles have triggered questions about their cognitive abilities. Experts say memory lapses can happen at any age and they do not signal a mental decline for many people
+
+Mon, 4 Mar 2024 17:00:22 +0530
+### [No immunity for MPs, MLAs taking bribes: How SC overturned 1998 verdict](https://www.firstpost.com/explainers/no-immunity-for-mps-mlas-taking-bribes-how-sc-overturned-1998-verdict-13745017.html)
+
+Article found but Couldn't summarize 
+A seven-judge bench constitution bench led by Chief Justice DY Chandrachud said MPs and MLAs who take bribes to vote or make a speech do not enjoy immunity from prosecution under Articles 105(2) and 194 of the Constitution while reconsidering its own 1998 verdict in the JMM bribery case. Here's everything you need to know
+
+Mon, 4 Mar 2024 16:51:07 +0530
+### [Toll, Truce and Talks: Where does the Israel-Hamas war stand today?](https://www.firstpost.com/explainers/death-toll-ceasefire-truce-israel-hamas-war-gaza-strip-13744984.html)
+
+Article found but Couldn't summarize 
+Death and destruction pervades in the Gaza Strip as Israel continues to pound the area in its attempt to destroy Hamas. As per an official count, over 30,000 people have died while millions of others have been left homeless and susceptible to disease. But amid these hostilities, there’s hope for peace as ceasefire talks are underway
+
+Mon, 4 Mar 2024 16:04:58 +0530
+### [Joe Biden's State of the Union address: How the speech is crafted](https://www.firstpost.com/explainers/joe-bidens-state-of-the-union-address-how-the-presidents-speech-is-crafted-13744891.html)
+
+Article found but Couldn't summarize 
+US president Joe Biden will deliver the annual address at a joint session of Congress on Thursday. This speech takes months to prepare and speechwriters face the difficult task of combining dozens of ideas into a coherent narrative of a president's vision for the year
+
+Mon, 4 Mar 2024 14:28:04 +0530
+### [Is Indian-origin life coach Jay Shetty's self-help empire built on lies?](https://www.firstpost.com/explainers/jay-shetty-self-help-empire-backstory-plagiarism-controversies-13744903.html)
+
+Article found but Couldn't summarize 
+A report in ‘The Guardian’ has revealed glaring inaccuracies in the backstory of popular self-help podcaster Jay Shetty during his time as a monk. The piece also points out that the ‘8 Rules of Love’ author was previously accused of plagiarising content
+
+Mon, 4 Mar 2024 14:10:50 +0530
+### [Who is Jimmy ‘Barbecue’ Chérizier, gang leader at centre of Haiti violence?](https://www.firstpost.com/explainers/who-is-jimmy-barbecue-cherizier-gang-leader-at-centre-of-haiti-violence-13744900.html)
+
+Article found but Couldn't summarize 
+Jimmy Chérizier is a former officer of the Haitian National Police (HNP) who leads a group of Haitian gangs collectively called the 'G9 Family and Allies.' Chérizier has vowed to oust Prime Minister Ariel Henry, who travelled abroad last week to try to salvage support for bringing in a United Nations-backed security force to help stabilise Haiti in its conflict with armed gangs
+
+Mon, 4 Mar 2024 13:16:49 +0530
+### [The shocking case of the Spanish tourist gang-raped in Jharkhand](https://www.firstpost.com/explainers/spanish-tourist-gang-raped-jharkhand-dumka-anger-womens-safety-13744871.html)
+
+Article found but Couldn't summarize 
+A Spanish woman has alleged that she was gang-raped by seven men in Jharkhand’s Dumka during her bike trip across the country. She detailed her assault on Instagram, prompting authorities to arrest three accused and continue their hunt for the others
+
+Mon, 4 Mar 2024 12:36:14 +0530
+### [8 days on, no trace of Indian Navy sailor who disappeared from ship: What happened?](https://www.firstpost.com/explainers/indian-navy-sailor-sahil-verma-missing-family-cbi-probe-13744852.html)
+
+Article found but Couldn't summarize 
+Indian Navy sailor Sahil Verma was deployed on a ship and went missing while on duty. The Navy has launched a massive search operation but has been unable to trace him. The seaman’s parents want Prime Minister Narendra Modi to intervene and are demanding a CBI probe
+
+Mon, 4 Mar 2024 12:00:19 +0530
+### [World Obesity Day: Why 'budget Ozempic' is raising concerns among doctors](https://www.firstpost.com/explainers/budget-ozempic-method-lose-weight-tiktok-laxatives-obesity-day-13743250.html)
+
+Article found but Couldn't summarize 
+On World Obesity Day, here’s a closer look at ‘budget Ozempic’, a new technique being promoted on social media to lose weight. Proponents of this trend promote taking laxatives to lose weight. However, experts urge people to steer clear of this experiment, as it can severely affect one’s health
+
+Mon, 4 Mar 2024 10:59:19 +0530
+### [Is Vladimir Putin behind Germany's military leak?](https://www.firstpost.com/explainers/is-vladimir-putin-behind-germanys-military-leak-13744790.html)
+
+Article found but Couldn't summarize 
+In a 38-minute recording leaked by Russian state media, German military officers can be heard discussing support for Ukraine, including the potential use of Taurus missiles
+
+Mon, 4 Mar 2024 10:08:06 +0530
+### [The challenges before Shehbaz Sharif as he becomes Pakistan PM for second time](https://www.firstpost.com/explainers/challenges-shehbaz-sharif-pakistan-pm-second-time-13744756.html)
+
+Article found but Couldn't summarize 
+Shehbaz Sharif has become Pakistan’s prime minister for a second time following a month of political turmoil. But the 72-year-old leader's true test starts now. He has to contend with a shaky coalition, rising anger from Imran Khan’s supporters and a country staring at an economic crisis
+
+Mon, 4 Mar 2024 08:49:43 +0530
+### [What is China's 'Two Sessions'? What can we expect this year?](https://www.firstpost.com/explainers/what-is-two-sessions-chinas-parliamentary-session-what-can-we-expect-this-year-13744137.html)
+
+Article found but Couldn't summarize 
+Thousands of delegates from across China will convene in Beijing today for the start of the country's annual legislative meetings known as the ‘Two Sessions’. But what is it, and why is it so significant?
+
+Mon, 4 Mar 2024 05:00:36 +0530
+### [FirstUp: PM Modi in Telangana, Delhi Budget… The big stories today](https://www.firstpost.com/explainers/firstup-pm-modi-in-telangana-delhi-budget-the-big-stories-today-13744645.html)
+
+Article found but Couldn't summarize 
+It’s a busy Monday. Prime Minister Modi will be in Telangana where he will be inaugurating and laying foundation for various development works worth around Rs 15,718 crore. In Delhi, the AAP sarkar will present the budget. Here’s what else to expect today
+
 Sun, 3 Mar 2024 17:01:14 +0530
 ### [Do you pick your skin? It is more harmful than you think](https://www.firstpost.com/explainers/do-you-pick-your-skin-it-is-more-harmful-than-you-think-13744109.html)
 

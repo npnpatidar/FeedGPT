@@ -1,3 +1,15 @@
+Mon, 04 Mar 2024 18:00:00 +0530
+### [Is India finally entering stage II of its nuclear programme? | Explained](https://www.thehindu.com/sci-tech/science/prototype-fast-breeder-reactor-stage-2-nuclear-programme-thorium/article67912583.ece)
+
+Article found but Couldn't summarize 
+The PFBR, with a history of cost overruns and broken promises, may be in its endgame
+
+Mon, 04 Mar 2024 17:46:42 +0530
+### [Supreme Court’s ruling on immunity for legislators facing bribery charges | Explained](https://www.thehindu.com/news/national/supreme-courts-ruling-on-immunity-for-legislators-facing-bribery-charges-explained/article67912483.ece)
+
+Article found but Couldn't summarize 
+Key takeaways from the verdict that overrules a 25-year-old precedent and deals with the ambit of parliamentary privileges in relation to the freedom of speech and expression
+
 Sun, 03 Mar 2024 22:00:44 +0530
 ### [What purposes do university rankings serve? | Explained](https://www.thehindu.com/education/what-purposes-do-university-rankings-serve-explained/article67910252.ece)
 
