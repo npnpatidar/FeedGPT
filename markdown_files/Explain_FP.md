@@ -1,3 +1,9 @@
+Tue, 5 Mar 2024 05:00:17 +0530
+### [FirstUp: Will Donald Trump seal Nikki Haley's fate on Super Tuesday?](https://www.firstpost.com/explainers/firstup-will-donald-trump-seal-nikki-haleys-fate-on-super-tuesday-13745131.html)
+
+Article found but Couldn't summarize 
+The United States is set to hold one of the biggest days on its election calendar with delegates in 16 states across the nation up for grabs. The Ministry of Defence will sign a deal to acquire over 200 BrahMos missiles for the Indian Navy. Here’s are today's big stories
+
 Mon, 4 Mar 2024 21:14:33 +0530
 ### [How UPI transactions can help save billions every year for developing countries](https://www.firstpost.com/explainers/india-upi-transactions-wto-cross-border-remittance-costs-13745137.html)
 
