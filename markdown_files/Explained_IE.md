@@ -1,3 +1,53 @@
+Tue, 05 Mar 2024 12:58:46 +0000
+### [Meet MethaneSAT, a satellite which will ‘name and shame’ methane emitters](https://indianexpress.com/article/explained/explained-climate/methanesat-satellite-methane-emmissions-9197297/)
+
+Article found but Couldn't summarize
+
+Tue, 05 Mar 2024 12:54:02 +0000
+### [A new report card, where students, their friends, parents get a say: What has NCERT changed, why](https://indianexpress.com/article/explained/holistic-progress-card-ncert-explained-9197296/)
+
+Article found but Couldn't summarize
+
+Tue, 05 Mar 2024 12:12:04 +0000
+### [Kerala man killed on Israel farm: What are Indians doing there?](https://indianexpress.com/article/explained/explained-global/kerala-man-israel-farm-hezbollah-indian-workers-9197115/)
+
+Article found but Couldn't summarize
+
+Tue, 05 Mar 2024 11:45:46 +0000
+### [Why Anthropic calls the new Claude 3 its ‘most intelligent’ AI model yet](https://indianexpress.com/article/explained/explained-sci-tech/anthropic-new-claude-3-ai-model-comparison-gpt-9197032/)
+
+Article found but Couldn't summarize
+
+Tue, 05 Mar 2024 08:14:03 +0000
+### [Govt clarifies its AI advisory on elections: How to understand the concerns and criticism around the issue](https://indianexpress.com/article/explained/explained-sci-tech/govt-ai-advisory-elections-concerns-criticism-9196506/)
+
+Article found but Couldn't summarize
+
+Tue, 05 Mar 2024 07:45:40 +0000
+### [Former DU professor GN Saibaba acquitted over alleged Maoist links: What was the case against him?](https://indianexpress.com/article/explained/du-prof-gn-saibaba-acquitted-maoist-case-bombay-hc-9196411/)
+
+Article found but Couldn't summarize
+
+Tue, 05 Mar 2024 06:47:51 +0000
+### [Tata Motors demerger: What does it signal, what’s in it for shareholders?](https://indianexpress.com/article/explained/explained-economics/tata-motors-demerger-9196331/)
+
+Article found but Couldn't summarize
+
+Tue, 05 Mar 2024 05:11:12 +0000
+### [SC upholds Rajasthan rule barring those with more than 2 kids from police force: What is the case](https://indianexpress.com/article/explained/explained-law/rajasthan-2-kids-police-force-criterion-sc-9195700/)
+
+Article found but Couldn't summarize
+
+Tue, 05 Mar 2024 02:30:32 +0000
+### [What is India’s disability law; how accessible are govt buildings to PwD?](https://indianexpress.com/article/explained/explained-law/india-disability-law-accessible-government-buildings-pwd-9195391/)
+
+Article found but Couldn't summarize
+
+Tue, 05 Mar 2024 01:44:34 +0000
+### [JMM bribes for votes ruling: How Supreme Court interpreted privilege for lawmakers](https://indianexpress.com/article/explained/explained-law/jmm-bribery-case-supreme-court-verdict-criminal-prosecution-9195750/)
+
+Article found but Couldn't summarize
+
 Mon, 04 Mar 2024 22:30:14 +0000
 ### [Bribes for votes: Supreme Court draws a red line, pushes the envelope on House privileges](https://indianexpress.com/article/explained/explained-law/bribes-for-votes-supreme-court-draws-a-red-line-pushes-the-envelope-on-house-privileges-9195758/)
 

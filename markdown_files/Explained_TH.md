@@ -1,3 +1,15 @@
+Tue, 05 Mar 2024 21:28:15 +0530
+### [What is the historic amendment that enshrined abortion access in France’s Constitution? | Explained](https://www.thehindu.com/news/international/what-is-the-historic-amendment-that-enshrined-abortion-access-in-frances-constitution-explained/article67916217.ece)
+
+Article found but Couldn't summarize 
+In a global first, legislators passed an amendment giving women the “guaranteed freedom” to terminate their pregnancies — what does the reform entail and what is its significance?
+
+Tue, 05 Mar 2024 17:49:01 +0530
+### [Indian Navy’s new BrahMos deal and missile indigenisation | Explained](https://www.thehindu.com/news/national/indian-navys-new-brahmos-deal-missile-indigenisation-explained/article67904372.ece)
+
+Article found but Couldn't summarize 
+What is the new Rs 19,000 crore deal cleared by the Centre to procure 200 BrahMos missiles for the Navy? How will this bolster India’s maritime defences? Does it accelerate India’s defence indigenisation plan?
+
 Mon, 04 Mar 2024 18:00:00 +0530
 ### [Is India finally entering stage II of its nuclear programme? | Explained](https://www.thehindu.com/sci-tech/science/prototype-fast-breeder-reactor-stage-2-nuclear-programme-thorium/article67912583.ece)
 

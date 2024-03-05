@@ -1,3 +1,111 @@
+Tue, 5 Mar 2024 21:18:49 +0530
+### [Polluters Beware! How new satellite will monitor global methane leaks](https://www.firstpost.com/explainers/polluters-beware-how-new-satellite-will-monitor-global-methane-leaks-13745551.html)
+
+Article found but Couldn't summarize 
+The satellite known as MethaneSAT was launched from California on Monday via a SpaceX rocket. Built at a cost of $88 million, the washing machine-sized satellite will orbit the earth 15 times a day at an altitude of 590 kilometres and will be able to detect changes as small as three parts per billion
+
+Tue, 5 Mar 2024 20:24:26 +0530
+### [Justice Abhijit Gangopadhyay says will ‘join BJP’: Can judges enter politics?](https://www.firstpost.com/explainers/calcutta-high-court-justice-abhijit-gangopadhyay-says-will-join-bjp-can-judges-enter-politics-13745553.html)
+
+Article found but Couldn't summarize 
+Former Calcutta High Court judge Abhijit Gangopadhyay said on Tuesday he will join the BJP, hours after leaving the judiciary. India’s history is rife with judges who entered the political arena and some who undertook the reverse journey
+
+Tue, 5 Mar 2024 20:09:35 +0530
+### [No true equality in even wealthiest nations: What new World Bank report on women reveals](https://www.firstpost.com/explainers/no-true-equality-in-even-wealthiest-nations-what-new-world-bank-report-on-women-reveals-13745537.html)
+
+Article found but Couldn't summarize 
+The World Bank's 10th annual Women, Business and the Law report has shone a spotlight on several issues faced by women across 190 nations including legal protections, the gender wage gap and transparency. But how did India fare?
+
+Tue, 5 Mar 2024 19:00:41 +0530
+### [Dreaming of the expat life in Singapore? Why getting a job there will be tougher](https://www.firstpost.com/explainers/dreaming-of-the-expat-life-in-singapore-why-getting-a-job-there-will-be-tougher-13745489.html)
+
+Article found but Couldn't summarize 
+Yes, it is the most liveable place for expats in Asia. But getting a job in Singapore just got more difficult. The government has tightened rules for hiring foreign professionals and it’s likely to affect how global businesses recruit in the city-state
+
+Tue, 5 Mar 2024 18:31:17 +0530
+### [US woman claims she's allergic to water: What is aquagenic urticaria?](https://www.firstpost.com/explainers/us-woman-claims-shes-allergic-to-water-what-is-aquagenic-urticaria-13745411.html)
+
+Article found but Couldn't summarize 
+Loren Montefusco claims that she is allergic to water and is unable to shower as it causes her severe itching. The condition that the 22-year-old is suffering from is called aquagenic urticaria, a kind of hive that manifests as a rash upon contact with water
+
+Tue, 5 Mar 2024 18:06:17 +0530
+### [How did Haiti become the land of gang violence?](https://www.firstpost.com/explainers/how-did-haiti-become-the-land-of-gang-violence-13745424.html)
+
+Article found but Couldn't summarize 
+Haiti has witnessed an explosion of violence since the assassination of then-president Jovenel Moïse in 2021. Now, armed gangs are battling police and soldiers for control of the streets, prisoners are breaking out en masse and authorities are scrambling in vain to restore order. Experts say armed groups, which have been used by politicians for decades, are now a power unto themselves
+
+Tue, 5 Mar 2024 16:49:41 +0530
+### [‘Chaiwala’, ‘Chowkidar’, ‘Parivar’: How jibes at PM gave BJP 3 poll campaigns](https://www.firstpost.com/explainers/pm-narendra-modi-opposition-jibes-chaiwala-chowkidar-parivar-bjp-poll-campaigns-2024-lok-sabha-elections-13745457.html)
+
+Article found but Couldn't summarize 
+The BJP has launched a ‘Modi ka Parivar’ campaign ahead of the Lok Sabha polls after RJD supremo Lalu Prasad said the PM has ‘no family’ at a rally recently. This is not the first time that the saffron party has capitalised on the Opposition’s barbs at Narendra Modi
+
+Tue, 5 Mar 2024 16:21:55 +0530
+### [What is Chakshu, India's new SMS and call fraud reporting portal?](https://www.firstpost.com/explainers/what-is-chakshu-indias-new-sms-and-call-fraud-reporting-portal-13745337.html)
+
+Article found but Couldn't summarize 
+The government has rolled out the Chakshu platform to curb the menace of phone call fraud. A part of the citizen-centric facilities available on the Sanchar Saathi portal, the new platform makes it easier to report such calls and messages and enables real-time intelligence-sharing among several stakeholders
+
+Tue, 5 Mar 2024 16:04:50 +0530
+### [Why is India’s first indigenous Fast Breeder Reactor significant?](https://www.firstpost.com/explainers/why-is-indias-first-indigenous-fast-breeder-reactor-significant-13745361.html)
+
+Article found but Couldn't summarize 
+Prime Minister Narendra Modi on Monday witnessed history — the commencement of the ‘core loading’ in India’s indigenous Prototype Fast Breeder Reactor (PFBR). This is a stepping stone to the third stage of India's programme designed by Homi J Bhabha through which the country will achieve 'aatma nirbharta' in nuclear energy by using its abundant thorium reserves
+
+Tue, 5 Mar 2024 15:24:58 +0530
+### [What is the ADITI scheme to fund India's defence start-ups?](https://www.firstpost.com/explainers/what-is-the-aditi-scheme-to-fund-indias-defence-start-ups-13745383.html)
+
+Article found but Couldn't summarize 
+Under the Centre's ADITI scheme, start-ups are eligible to receive grant-in-aid of up to Rs 25 crore for their research development and innovation endeavours in defence technology
+
+Tue, 5 Mar 2024 14:10:00 +0530
+### [Why France has made abortion a constitutional right](https://www.firstpost.com/explainers/france-abortion-constitutional-right-us-supreme-court-2022-ruling-13745291.html)
+
+Article found but Couldn't summarize 
+France has enshrined the right to abortion in its Constitution, the first country in the world to do so. While terminating a pregnancy has been legal here since 1975, what prompted the lawmakers to usher in the big change?
+
+Tue, 5 Mar 2024 14:05:00 +0530
+### [13 governments in 16 yrs: How Nepal continues to see political churn](https://www.firstpost.com/explainers/pushpa-kamal-daha-new-alliance-13-governments-16-years-nepal-political-churn-13745366.html)
+
+Article found but Couldn't summarize 
+Nepal prime minister Pushpa Kamal Dahal ‘Prachanda’ has forged a new alliance with previous rival KP Oli’s Communist Party of Nepal-Unified Marxist Leninist (CPN-UML). This marks a new chapter in the country’s power struggles. There have been 13 governments since 2008, when monarchy was abolished
+
+Tue, 5 Mar 2024 13:17:54 +0530
+### [Are four-day work weeks really the answer to increase productivity?](https://www.firstpost.com/explainers/four-day-work-weeks-increase-productivity-13745112.html)
+
+Article found but Couldn't summarize 
+While Belgium and some Nordic countries are trying to compress the work week into four days, Spain and Portugal are trying to boost productivity by shortening working hours. But experts say managers need to look beyond simply reorganising working hours if they want to reenergise the workforce
+
+Tue, 5 Mar 2024 11:56:51 +0530
+### [Taurus missiles: The weapon at the heart of the German military leak](https://www.firstpost.com/explainers/taurus-missiles-weapon-german-military-leak-russia-13745268.html)
+
+Article found but Couldn't summarize 
+A leaked audio recording of German military officers discussing the possible use of Taurus long-range missiles in Ukraine has raised concerns about the security of their communications. But what do we know about the missiles that is at the root of the tensions?
+
+Tue, 5 Mar 2024 11:30:59 +0530
+### [Dry ice as ‘mouth freshener’: How a mix-up by Gurugram eatery left 5 hospitalised](https://www.firstpost.com/explainers/dry-ice-as-mouth-freshener-how-a-mix-up-by-gurugram-eatery-left-5-hospitalised-13745225.html)
+
+Article found but Couldn't summarize 
+Five people were hospitalised after ingesting what they were told was mouth freshener at a restaurant in Gurugram. According to the police, it appears that the waiter served them dry ice, which is solid carbon dioxide, by mistake. Why is it so dangerous?
+
+Tue, 5 Mar 2024 10:23:07 +0530
+### [One Indian dead, two injured in Israel. What we know so far](https://www.firstpost.com/explainers/israel-hamas-war-indian-dead-two-injured-what-we-know-so-far-13745244.html)
+
+Article found but Couldn't summarize 
+Patnibin Maxwell of Kollam in Kerala died after an anti-tank missile, which was fired from Lebanon, struck an orchard near Israel's northern border. Two other Indians,  Bush Joseph George and Paul Melvin, have also been injured and are receiving treatment in hospital
+
+Tue, 5 Mar 2024 10:09:17 +0530
+### [US SC keeps Trump on the ballot: What this means for 2024 race](https://www.firstpost.com/explainers/us-supreme-court-donald-trump-colorado-ballot-2024-presidential-race-joe-biden-13745251.html)
+
+Article found but Couldn't summarize 
+In a huge boost to Donald Trump, the US supreme court reversed the Colorado ruling on removing the former president from the ballot. This effectively clears the way for the Republican frontrunner to appear on the primary ballot in all states, and possibly even win the election
+
+Tue, 5 Mar 2024 08:34:51 +0530
+### [What is Super Tuesday? Why is it important for US presidential elections?](https://www.firstpost.com/explainers/super-tuesday-important-us-presidential-elections-joe-biden-donald-trump-13745106.html)
+
+Article found but Couldn't summarize 
+Super Tuesday will be a crucial moment for President Joe Biden and his opponent Donald Trump. As the day with the most delegates up for stake, here's what to look out for
+
 Tue, 5 Mar 2024 05:00:17 +0530
 ### [FirstUp: Will Donald Trump seal Nikki Haley's fate on Super Tuesday?](https://www.firstpost.com/explainers/firstup-will-donald-trump-seal-nikki-haleys-fate-on-super-tuesday-13745131.html)
 

@@ -1,3 +1,63 @@
+Wed, 06 Mar 2024 01:49:36 +0530
+### [The state must find new ways to assert its authority online](https://www.livemint.com/opinion/online-views/the-state-must-find-new-ways-to-assert-its-authority-online-11709650153013.html)
+
+Article found but Couldn't summarize 
+Its influence over the digital sphere is reliant on execution by private firms but this isn’t an ideal scenario.
+
+Wed, 06 Mar 2024 01:46:19 +0530
+### [Updating urban definitions could optimize our resource allocation](https://www.livemint.com/opinion/online-views/updating-urban-definitions-could-optimize-our-resource-allocation-11709649247581.html)
+
+Article found but Couldn't summarize 
+The 16th Finance Commission should redefine cities and rework the formula for urban fund devolutions.
+
+Wed, 06 Mar 2024 01:42:28 +0530
+### [Apple’s $2 billion fine marks a new dawn for antitrust regulation](https://www.livemint.com/opinion/online-views/apples-2-billion-fine-marks-a-new-dawn-for-antitrust-regulation-11709649283490.html)
+
+Article found but Couldn't summarize 
+The EU has taken a welcome lead in taking on digital dominance. Spotify’s row with Apple over its App Store led to the penalty.
+
+Wed, 06 Mar 2024 01:34:26 +0530
+### [Flagging FDI: India must find ways to attract more of it before it's too late](https://www.livemint.com/opinion/online-views/flagging-fdi-india-must-find-ways-to-attract-more-of-it-before-its-too-late-11709649340802.html)
+
+Article found but Couldn't summarize 
+An emerging economy short of savings must make good use of foreign direct investment as a strategic pivot to prosperity.
+
+Tue, 05 Mar 2024 17:54:07 +0530
+### [Sensex at 73,000: Time to stop your SIPs?](https://www.livemint.com/opinion/sensex-at-73-000-time-to-stop-your-sips-11709638812524.html)
+
+Article found but Couldn't summarize 
+Systematic investment plans many a times end up being poor investment avenues. Now that the equity markets are at all-time highs is it time to stop your SIPs?
+
+Tue, 05 Mar 2024 15:56:12 +0530
+### [Merger or demerger—what's the better route to unlock value?](https://www.livemint.com/opinion/merger-or-demerger-whats-the-better-route-to-unlock-value-11709632599131.html)
+
+Article found but Couldn't summarize 
+Tata Motors has announced that it will split its passenger vehicle and commercial vehicle divisions into two separate entities. Reliance and Disney, on the other hand, have chosen to try and unlock value through a mega merger. Which route is better?
+
+Tue, 05 Mar 2024 15:18:49 +0530
+### [Fear of AI surfaces government’s controlling tendencies in its latest policy](https://www.livemint.com/opinion/online-views/fears-of-ai-bring-out-government-s-controlling-tendencies-in-its-latest-policy-11709622874762.html)
+
+Article found but Couldn't summarize 
+Recent developments, including the EU’s Artificial Intelligence Act and the Global Partnership on AI, provide models for oversight and regulation
+
+Tue, 05 Mar 2024 08:00:14 +0530
+### [Inflation has played a starring role in India's 2023-24 growth](https://www.livemint.com/opinion/online-views/inflation-has-played-a-starring-role-in-indias-2023-24-growth-11709564986738.html)
+
+Article found but Couldn't summarize 
+This fiscal year’s GDP deflator of 1.5% marks a drop from 7.2% in 2022-23 and contrasts with high CPI inflation. We may need to revise our price gauges—but for truth reflection, not bias confirmation.
+
+Tue, 05 Mar 2024 08:00:14 +0530
+### [Corporate boards should foster a culture of data privacy in organizations](https://www.livemint.com/opinion/online-views/corporate-boards-should-foster-a-culture-of-data-privacy-in-organizations-11709565522318.html)
+
+Article found but Couldn't summarize 
+They should go beyond law compliance to integrate privacy objectives with their business strategy.
+
+Tue, 05 Mar 2024 08:00:14 +0530
+### [Bribery shield taken away by SC: Just as well](https://www.livemint.com/opinion/quick-edit/bribery-shield-taken-away-by-sc-just-as-well-11709564885839.html)
+
+Article found but Couldn't summarize 
+The Supreme Court has held that lawmakers are not immune from prosecution in cases of bribery for making a speech or voting a certain way in Parliament or state legislatures. Lawmakers, as our representatives, should welcome the verdict.
+
 Tue, 05 Mar 2024 01:12:18 +0530
 ### [State-level litigation policies present a dismal picture](https://www.livemint.com/opinion/online-views/statelevel-litigation-policies-present-a-dismal-picture-11709565738014.html)
 

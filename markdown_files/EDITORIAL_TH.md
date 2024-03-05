@@ -1,3 +1,15 @@
+Wed, 06 Mar 2024 00:20:00 +0530
+### [Deprivileging bribe: On overruling the majority verdict in P.V. Narasimha Rao vs State](https://www.thehindu.com/opinion/editorial/deprivileging-bribe-on-overruling-the-majority-verdict-in-pv-narasimha-rao-vs-state-cbispe-1998/article67917031.ece)
+
+Article found but Couldn't summarize 
+Voters should know that MPs do not act under monetary inducement
+
+Wed, 06 Mar 2024 00:10:00 +0530
+### [Law and disorder: On Manipur, its ethnic polarisation and its law and order](https://www.thehindu.com/opinion/editorial/law-and-disorder-on-manipur-its-ethnic-polarisation-and-its-law-and-order/article67917929.ece)
+
+Article found but Couldn't summarize 
+The continued radicalisation of Manipuri society is a cause of concern
+
 Tue, 05 Mar 2024 00:30:00 +0530
 ### [Tepid trade-offs: On the WTO 13th Ministerial Conference (MC13) in Abu Dhabi](https://www.thehindu.com/opinion/editorial/tepid-trade-offs-the-hindu-editorial-on-the-wto-13th-ministerial-conference-mc13-in-abu-dhabi/article67913727.ece)
 
