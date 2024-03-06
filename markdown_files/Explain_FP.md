@@ -1,3 +1,9 @@
+Wed, 6 Mar 2024 05:00:57 +0530
+### [FirstUp: India's 1st underwater metro tunnel, farmers protest... The headlines today](https://www.firstpost.com/explainers/firstup-indias-1st-underwater-metro-tunnel-farmers-protest-the-headlines-today-13745486.html)
+
+Article found but Couldn't summarize 
+PM Narendra Modi will inaugurate India’s first underwater metro tunnel in Kolkata. Farmers will resume their march to Delhi to press the Centre over their various demands. In international news, the UK finance minister Jeremy Hunt will present a spring budget in Parliament
+
 Tue, 5 Mar 2024 21:18:49 +0530
 ### [Polluters Beware! How new satellite will monitor global methane leaks](https://www.firstpost.com/explainers/polluters-beware-how-new-satellite-will-monitor-global-methane-leaks-13745551.html)
 
