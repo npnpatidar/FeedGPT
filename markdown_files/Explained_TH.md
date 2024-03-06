@@ -1,3 +1,15 @@
+Wed, 06 Mar 2024 15:30:00 +0530
+### [Why ASML’s new chip-making machine is a scientific marvel | Explained](https://www.thehindu.com/sci-tech/science/asml-high-na-euv-machine-science/article67920274.ece)
+
+Article found but Couldn't summarize 
+The ‘High NA EUV’ machine costs Rs 2,900 crore apiece, is as big as a double decker bus, and is a pinnacle of precision technology
+
+Wed, 06 Mar 2024 10:30:00 +0530
+### [Why did Google delist some Indian apps from Play Store? | Explained](https://www.thehindu.com/sci-tech/technology/why-did-google-delist-some-indian-apps-from-play-store-explained/article67918368.ece)
+
+Article found but Couldn't summarize 
+What is the platform fee issue that has brought Indian tech firms and the tech giant at crossroads?
+
 Tue, 05 Mar 2024 21:28:15 +0530
 ### [What is the historic amendment that enshrined abortion access in France’s Constitution? | Explained](https://www.thehindu.com/news/international/what-is-the-historic-amendment-that-enshrined-abortion-access-in-frances-constitution-explained/article67916217.ece)
 

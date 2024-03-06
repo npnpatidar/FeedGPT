@@ -1,3 +1,51 @@
+Thu, 07 Mar 2024 01:10:53 +0530
+### [Towards a Viksit Bharat: The farm sector must play a bigger role in our economy](https://www.livemint.com/opinion/online-views/towards-a-viksit-bharat-the-farm-sector-must-play-a-bigger-role-in-our-economy-11709733880796.html)
+
+Article found but Couldn't summarize 
+Prioritizing infrastructure and logistics capacity in the agriculture sector may help revive primary sector growth. For an inclusive journey towards developed country status, agriculture mustn’t get left behind.
+
+Thu, 07 Mar 2024 01:08:19 +0530
+### [A Trump victory in the US will shake up the global economic risk scenario](https://www.livemint.com/opinion/online-views/a-trump-victory-in-the-us-will-shake-up-the-global-economic-risk-scenario-11709725218446.html)
+
+Article found but Couldn't summarize 
+While Trump and Biden share some foreign-policy priorities, the former's protectionist economic policies could spark a trade war and impact markets.
+
+Thu, 07 Mar 2024 01:04:32 +0530
+### [Going ‘California sober’ could be bad for one’s heart](https://www.livemint.com/opinion/online-views/going-california-sober-could-be-bad-for-one-s-heart-11709725281862.html)
+
+Article found but Couldn't summarize 
+That pot is a healthy alternative to alcohol is turning out to be just another marketing myth. A study shows cannabis users are at heightened cardiovascular risk.
+
+Thu, 07 Mar 2024 00:58:47 +0530
+### [Economic basics suggest RBI’s 6.5% policy rate is apt](https://www.livemint.com/opinion/online-views/economic-basics-suggest-rbi-s-6-5-policy-rate-is-apt-11709725339168.html)
+
+Article found but Couldn't summarize 
+A good look at the impact of monetary policy on credit and GDP growth would argue against easing. One need not be a monetarist to agree that price stability should remain the central bank’s priority.
+
+Wed, 06 Mar 2024 16:31:41 +0530
+### [Why Sebi is worried about small-cap mutual fund schemes](https://www.livemint.com/opinion/online-views/why-sebi-is-worried-about-small-cap-mutual-fund-schemes-11709717897720.html)
+
+Article found but Couldn't summarize 
+Given limited buying interest from foreign investors, small-caps represent a relatively illiquid asset class. As such, the exuberance appears both unwarranted and unsustainable, especially in light of an inevitable market correction
+
+Wed, 06 Mar 2024 08:00:10 +0530
+### [Robust PMI figures signal a strong economic momentum](https://www.livemint.com/opinion/quick-edit/robust-pmi-figures-signal-a-strong-economic-momentum-11709650323165.html)
+
+Article found but Couldn't summarize 
+The HSBC India Services PMI clocked a robust 60.6 in February. Together with the manufacturing PMI climbing to a five-month high, there’s cause for optimism.
+
+Wed, 06 Mar 2024 08:00:10 +0530
+### [Tata Motors’ demerger is backed by a dual-lane strategy](https://www.livemint.com/opinion/online-views/tata-motors-demerger-is-backed-by-a-dual-lane-strategy-11709650040812.html)
+
+Article found but Couldn't summarize 
+It’ll unlock value by letting trucks take the slow lane while cars bet on fast-lane leadership at a key inflexion point of technology. It also proves conglomerate-sceptics wrong again.
+
+Wed, 06 Mar 2024 08:00:10 +0530
+### [It’s time for Ulips to stop masquerading as mutual funds](https://www.livemint.com/opinion/online-views/its-time-for-ulips-to-stop-masquerading-as-mutual-funds-11709650080724.html)
+
+Article found but Couldn't summarize 
+Such misselling must end to protect consumers and life insurance should be promoted for what it actually is.
+
 Wed, 06 Mar 2024 01:49:36 +0530
 ### [The state must find new ways to assert its authority online](https://www.livemint.com/opinion/online-views/the-state-must-find-new-ways-to-assert-its-authority-online-11709650153013.html)
 

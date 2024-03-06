@@ -1,3 +1,9 @@
+Wed, 06 Mar 2024 00:44:00 +0530
+### [Ashwin, a modern master with a positive mindset](https://www.thehindu.com/opinion/columns/ashwin-a-modern-master-with-a-positive-mindset/article67918489.ece)
+
+Article found but Couldn't summarize 
+In many ways, Ashwin stands alone. He is constantly experimenting, constantly pushing himself, and always fighting two battles every time he steps onto the field.
+
 Fri, 01 Mar 2024 00:32:00 +0530
 ### [Corrections and Clarifications — March 1, 2024](https://www.thehindu.com/opinion/columns/corrections-and-clarifications-march-1-2024/article67900971.ece)
 

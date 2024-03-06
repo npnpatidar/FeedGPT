@@ -1,3 +1,93 @@
+Wed, 6 Mar 2024 21:12:02 +0530
+### [Who was Mohammed Afsan, Indian duped into joining Russian war, who has died?](https://www.firstpost.com/explainers/who-was-mohammed-afsan-indian-duped-into-joining-russian-war-who-has-died-13746033.html)
+
+Article found but Couldn't summarize 
+Hyderabad's Mohammed Afsan, 30, was duped into joining the Russian Army after falling prey to a job scam. His death comes a week after another Indian who worked as a ‘helper’ in the Russian Army died in a Ukrainian air strike. It also comes as nearly a dozen Indians say they too were forced to join the military after falling victim to a con
+
+Wed, 6 Mar 2024 18:44:46 +0530
+### [No more tiger safaris in core areas of Jim Corbett National Park. Here's why](https://www.firstpost.com/explainers/supreme-court-tiger-safaris-ban-core-areas-jim-corbett-national-park-13745990.html)
+
+Article found but Couldn't summarize 
+The Supreme Court has banned tiger safaris from being conducted in the core areas of Uttarakhand's Jim Corbett National Park. However, it has allowed for tours in the buffer zones, citing the employment it generates
+
+Wed, 6 Mar 2024 18:09:28 +0530
+### [What is Article 371 of Constitution? Will Ladakh get its special provisions?](https://www.firstpost.com/explainers/what-is-article-371-of-constitution-will-ladakh-get-its-special-provisions-13745921.html)
+
+Article found but Couldn't summarize 
+Civil society groups in Ladakh have insisted that they want statehood for Ladakh as well as full implementation of the Sixth Schedule. But the Centre is instead considering giving the Union Territory special protections under Article 371. But what is it?
+
+Wed, 6 Mar 2024 17:58:42 +0530
+### [What is parrot fever, the infection that has claimed 5 lives in Europe?](https://www.firstpost.com/explainers/what-is-parrot-fever-the-infection-that-has-claimed-5-lives-in-europe-13745812.html)
+
+Article found but Couldn't summarize 
+Parrot fever, also called psittacosis, has spread across European countries, killing five people. The infection is an acute respiratory illness brought on by the bacteria Chlamydophila psittaci. Humans typically contract it by breathing in dust from an infected bird's secretions
+
+Wed, 6 Mar 2024 16:57:39 +0530
+### [Why Japan will now charge people to climb Mount Fiji](https://www.firstpost.com/explainers/why-japan-will-now-charge-people-to-climb-mount-fiji-13745760.html)
+
+Article found but Couldn't summarize 
+Hikers using the most popular route to climb Japan's Mount Fuji will be charged $13 each from July. The reason: to ease congestion and improve safety at the country's highest mountain, which is covered in snow most of the year and draws more than 220,000 visitors each July-September climbing period
+
+Wed, 6 Mar 2024 16:16:35 +0530
+### [Parched: Why Bengaluru is reeling from a severe water scarcity](https://www.firstpost.com/explainers/bengaluru-water-scarcity-why-summer-tankers-karnataka-government-13745853.html)
+
+Article found but Couldn't summarize 
+Bengaluru is bracing for a grim summer as water levels in Cauvery River have dipped significantly and many borewells have run dry. The cost of private water tankers have skyrocketed in Karnataka's capital and residents are being urged to use the resource judiciously
+
+Wed, 6 Mar 2024 15:30:32 +0530
+### [A For Effort: How new report card for Indian students will differ from the old](https://www.firstpost.com/explainers/a-for-effort-how-new-report-card-for-indian-students-will-differ-from-the-old-13745728.html)
+
+Article found but Couldn't summarize 
+The National Council for Educational and Research Training (NCERT) has introduced a ‘holistic progress card’ for school students. This new system of evaluation will also allow parents and classmates to assess them
+
+Wed, 6 Mar 2024 14:05:47 +0530
+### [Super Tuesday takeaways: Biden, Trump dominate and end looks nigh for Haley](https://www.firstpost.com/explainers/super-tuesday-takeaways-biden-trump-dominate-and-end-looks-nigh-for-haley-13745749.html)
+
+Article found but Couldn't summarize 
+President Joe Biden and his presumptive Republican opponent Donald Trump all but confirmed their upcoming rematch in November after Super Tuesday. But both candidates have shown some glaring weaknesses. Though Nikki Haley managed to stop Trump from a clean sweep, it looks like it's just a matter of time before she calls it quits
+
+Wed, 6 Mar 2024 13:28:00 +0530
+### [Are Russia and China planning to build a nuclear power plant on the Moon?](https://www.firstpost.com/explainers/is-russia-and-china-planning-to-build-a-nuclear-power-plant-on-the-moon-13745709.html)
+
+Article found but Couldn't summarize 
+Yuri Borisov, head of Russia's space agency Roscosmos, has said that the two countries plan to install the unit by 2035
+
+Wed, 6 Mar 2024 13:02:48 +0530
+### [Facebook, Instagram down: How much did Mark Zuckerberg lose?](https://www.firstpost.com/explainers/meta-facebook-instagram-outage-mark-zuckerberg-lose-millions-13745756.html)
+
+Article found but Couldn't summarize 
+Meta’s Facebook, Instagram, Messenger and Threads witnessed a nearly two-hour-long outage on Tuesday, affecting millions of global users. While it is not confirmed how much this cost the social media giant, it is speculated that founder and CEO Mark Zuckerberg lost over $100 million (Rs 832 crore)
+
+Wed, 6 Mar 2024 11:37:28 +0530
+### [PM unveils India's first underwater metro in Kolkata: All you need to know](https://www.firstpost.com/explainers/pm-modi-unveils-indias-first-underwater-metro-in-kolkata-all-you-need-to-know-13745617.html)
+
+Article found but Couldn't summarize 
+PM Modi has inaugurated the Howrah Maidan-Esplanade section of Kolkata Metro’s East-West corridor — India’s first-ever underwater metro route. The 16.6-kilometre-long corridor will connect Howrah and Salt Lake, Kolkata's twin cities
+
+Wed, 6 Mar 2024 11:25:21 +0530
+### [Taiwan wanted to hire Indians from the Northeast: Why has it sparked a row?](https://www.firstpost.com/explainers/taiwan-labour-minister-hsu-ming-chun-remarks-northeast-indians-controversy-13745669.html)
+
+Article found but Couldn't summarize 
+Taiwan is looking to hire Indian workers as it faces a labour shortage. But its minister’s remarks on recruiting northeastern Indians because they have ‘similar skin colour and diets like us’ has triggered a controversy
+
+Wed, 6 Mar 2024 10:27:58 +0530
+### [Explained: Bitcoin's history and biggest controversies](https://www.firstpost.com/explainers/explained-bitcoins-history-and-biggest-controversies-13745648.html)
+
+Article found but Couldn't summarize 
+On Tuesday, Bitcoin’s prices rose above $69,000, surpassing the all-time high of $68,999 set in November 2021, after plummeting in 2022 due to a market meltdown. The cryptocurrency is now worth approximately $1.3 trillion
+
+Wed, 6 Mar 2024 09:49:13 +0530
+### [How 7 men from India have been ‘duped’ into fighting Russia’s war in Ukraine](https://www.firstpost.com/explainers/seven-men-punjab-haryana-india-duped-fighting-russia-war-ukraine-13745625.html)
+
+Article found but Couldn't summarize 
+Seven men from Punjab and Haryana allege they are the victims of a con that landed them in the Russian military. They claim they were arrested by the authorities and were told to join the army or face imprisonment. The group of men are now appealing to the Centre for help
+
+Wed, 6 Mar 2024 08:56:10 +0530
+### [Is Hollywood snubbing White men? A new lawsuit claims so](https://www.firstpost.com/explainers/hollywood-white-writer-lawsuit-cbs-studio-diversity-quota-seal-team-13745467.html)
+
+Article found but Couldn't summarize 
+Brian Beneker, a script coordinator, has sued CBS Studios and parent company Paramount for discriminating against him because of being a straight, White man. He claims that he was overlooked for a permanent staff writer’s job in favour of members from the Black and LGBTQ community. But do the allegations hold ground?
+
 Wed, 6 Mar 2024 05:00:57 +0530
 ### [FirstUp: India's 1st underwater metro tunnel, farmers protest... The headlines today](https://www.firstpost.com/explainers/firstup-indias-1st-underwater-metro-tunnel-farmers-protest-the-headlines-today-13745486.html)
 

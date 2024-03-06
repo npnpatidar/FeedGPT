@@ -1,3 +1,39 @@
+Wed, 6 Mar 2024 18:52:31 +0530
+### [The role of state fiscal capacities in national growth](https://www.firstpost.com/opinion/the-role-of-state-fiscal-capacities-in-national-growth-13746015.html)
+
+Article found but Couldn't summarize 
+For the nation to achieve holistic growth, it is imperative for all states to experience economic advancement
+
+Wed, 6 Mar 2024 18:01:31 +0530
+### [Bharat and Armenia: A tale of resilience and diplomatic imperatives](https://www.firstpost.com/opinion/bharat-and-armenia-a-tale-of-resilience-and-diplomatic-imperatives-13745935.html)
+
+Article found but Couldn't summarize 
+It is now imperative for both Hindus and Armenians to awaken the West from its state of indifference and compel it to acknowledge the genocides perpetrated against their respective communities
+
+Wed, 6 Mar 2024 16:36:06 +0530
+### [India-Japan-South Korea trilateral: Time to chart new paths in the Indo-Pacific](https://www.firstpost.com/opinion/india-japan-south-korea-trilateral-time-to-chart-new-paths-in-the-indo-pacific-13745814.html)
+
+Article found but Couldn't summarize 
+The three nations must take the opportunity to fortify their partnership to safeguard their interests and uphold the international rules-based order in the Indo-Pacific
+
+Wed, 6 Mar 2024 16:03:37 +0530
+### [Vantage | Is China preparing for war over Taiwan?](https://www.firstpost.com/opinion/vantage-is-china-preparing-for-war-over-taiwan-13745864.html)
+
+Article found but Couldn't summarize 
+As China shifts its focus towards militarisation, the prospect of conflict looms large
+
+Wed, 6 Mar 2024 13:50:24 +0530
+### [Ten years of PM Modi’s foreign policy: An era of great challenges and greater achievements](https://www.firstpost.com/opinion/ten-years-of-pm-modis-foreign-policy-an-era-of-great-challenges-and-greater-achievements-13745772.html)
+
+Article found but Couldn't summarize 
+Prime Minister Modi and his foreign policy team have handled with aplomb some of the wide-ranging challenges that have arisen over the last 10 years
+
+Wed, 6 Mar 2024 10:39:05 +0530
+### [US Sutra | Passage to America: Society divided, polity fragmented](https://www.firstpost.com/opinion/us-sutra-passage-to-america-society-divided-polity-fragmented-13745630.html)
+
+Article found but Couldn't summarize 
+The entire nation is in the throes of an unprecedented crisis. Republicans and Democrats, presidential candidates not excepted, are attacking each other in ways and words inconceivable in earlier times
+
 Tue, 5 Mar 2024 17:47:46 +0530
 ### [2047 sets the tone for 2024 Lok Sabha elections](https://www.firstpost.com/opinion/2047-sets-the-tone-for-2024-lok-sabha-elections-13745364.html)
 
