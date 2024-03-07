@@ -1,3 +1,9 @@
+Thu, 7 Mar 2024 05:00:22 +0530
+### [FirstUp: PM Modi in Srinagar, Joe Biden’s State of the Union speech… News today](https://www.firstpost.com/explainers/firstup-pm-modi-in-srinagar-joe-bidens-state-of-the-union-speech-news-today-13746031.html)
+
+Article found but Couldn't summarize 
+PM Narendra Modi will be in Srinagar to unveil development projects and address a gathering, marking his first visit to Kashmir after Article 370 abrogation in 2019. US president Joe Biden is set for his crucial State of the Union speech. Here’s what else you can expect as the day unfolds
+
 Wed, 6 Mar 2024 21:12:02 +0530
 ### [Who was Mohammed Afsan, Indian duped into joining Russian war, who has died?](https://www.firstpost.com/explainers/who-was-mohammed-afsan-indian-duped-into-joining-russian-war-who-has-died-13746033.html)
 
