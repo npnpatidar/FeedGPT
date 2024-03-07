@@ -1,3 +1,15 @@
+Fri, 08 Mar 2024 00:20:00 +0530
+### [A slippery slope: On the Jim Corbett National Park case, tourism and conservation](https://www.thehindu.com/opinion/editorial/a-slippery-slope-on-the-jim-corbett-national-park-case-tourism-and-conservation/article67925045.ece)
+
+Article found but Couldn't summarize 
+Tourism in wildlife parks should not be at odds with conservation efforts
+
+Fri, 08 Mar 2024 00:10:00 +0530
+### [Troubled waters: On the tensions between China and the Philippines](https://www.thehindu.com/opinion/editorial/troubled-waters-on-the-tensions-between-china-and-the-philippines/article67925061.ece)
+
+Article found but Couldn't summarize 
+China should adopt dialogue to resolve disputes with neighbours
+
 Thu, 07 Mar 2024 00:20:00 +0530
 ### [Free of guilt: On the exoneration of former Delhi University professor G.N. Saibaba and five others](https://www.thehindu.com/opinion/editorial/free-of-guilt-on-the-exoneration-of-former-delhi-university-professor-gn-saibaba-and-five-others/article67920749.ece)
 

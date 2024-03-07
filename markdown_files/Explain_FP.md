@@ -1,3 +1,87 @@
+Thu, 7 Mar 2024 21:10:16 +0530
+### [Joe Biden's 2024 State of the Union address: Key things to keep an eye on](https://www.firstpost.com/explainers/joe-biden-state-of-the-union-address-key-things-to-keep-an-eye-on-13746432.html)
+
+Article found but Couldn't summarize 
+US president Joe Biden will deliver his third and final State of the Union address before the November presidential election on Thursday (7 March). Here's where you can watch the event, and what should you expect?
+
+Thu, 7 Mar 2024 20:02:44 +0530
+### [Can your favourite acne cream cause cancer?](https://www.firstpost.com/explainers/acne-products-cancer-causing-chemical-benzene-us-fda-valisure-findings-13746466.html)
+
+Article found but Couldn't summarize 
+An independent US testing laboratory said it has found high levels of cancer-causing chemical benzene in several acne treatments from brands including Proactiv, Clearasil and Estee Lauder's Clinique
+
+Thu, 7 Mar 2024 19:01:38 +0530
+### [Why life insurance for Indian workers in UAE matters](https://www.firstpost.com/explainers/indian-workers-in-uae-life-insurance-plan-significance-13746365.html)
+
+Article found but Couldn't summarize 
+The Indian Consulate in Dubai has announced a new insurance scheme — Life Protection Plan — for blue-collar workers in the UAE which will ensure compensation for their families in the event of their death due to accidents or natural causes. Here’s why it is a big deal
+
+Thu, 7 Mar 2024 18:32:19 +0530
+### [State of the Union: What’s the history behind the US president’s speech?](https://www.firstpost.com/explainers/state-of-the-union-whats-the-history-behind-the-us-presidents-speech-13746366.html)
+
+Article found but Couldn't summarize 
+US president Joe Biden will command all the attention as he delivers the State of the Union address in Washington, DC. The annual address has a long, interesting history that dates back to George Washington. Over the years, different presidents have put their own spin to it
+
+Thu, 7 Mar 2024 17:18:58 +0530
+### [Rameshwaram café blast: What CCTV footage has revealed](https://www.firstpost.com/explainers/rameshwaram-cafe-blast-what-cctv-footage-has-revealed-about-the-suspect-13746296.html)
+
+Article found but Couldn't summarize 
+A week after a blast took place at the Rameshwaram cafe in Bengaluru, CCTV footage has provided some key leads. According to the authorities, the suspect entered the eatery wearing a mask, sunglasses and a baseball cap. He spent nine minutes at the eatery before leaving
+
+Thu, 7 Mar 2024 16:31:43 +0530
+### [How Garry Kasparov went from being chess champion to ‘terrorist’ in Russia](https://www.firstpost.com/explainers/garry-kasparov-chess-champion-vladimir-putin-critic-terrorist-russia-13746334.html)
+
+Article found but Couldn't summarize 
+He is perhaps one of the greatest chess players, but Garry Kasparov has a new ‘honour’ to add to his list of achievements. He’s been added to Russia’s list of ‘extremists and terrorists’, without any valid reason. However, his constant and vocal criticism of Vladimir Putin may have something to do with it
+
+Thu, 7 Mar 2024 15:23:05 +0530
+### [India records a rise in COVID cases: Should we be worried?](https://www.firstpost.com/explainers/india-records-a-rise-in-covid-cases-should-we-be-worried-13746193.html)
+
+Article found but Couldn't summarize 
+Delhi, Uttar Pradesh, Rajasthan and Bihar are reporting a rise in COVID-19 cases. The last time the country witnessed an upsurge in infections was in March last year, peaking in mid-April when it reported about 12,500 cases
+
+Thu, 7 Mar 2024 14:32:26 +0530
+### [Is Naveen Patnaik’s BJD set to return to the BJP-led NDA fold after 15 years?](https://www.firstpost.com/explainers/odisha-cm-naveen-patnaik-bjd-bjp-alliance-nda-15-years-pm-narendra-modi-13746252.html)
+
+Article found but Couldn't summarize 
+Intense speculations of a likely alliance between Odisha’s ruling Biju Janata Dal and the BJP-led NDA are doing the rounds. CM Naveen Patnaik’s party was a part of the NDA 15 years ago and rekindling the tie-up now is a ‘win-win’ for both parties. Here’s why
+
+Thu, 7 Mar 2024 13:15:11 +0530
+### [Why INS Jatayu, Navy's second base in Lakshadweep, is a big deal for India](https://www.firstpost.com/explainers/ins-jatayu-navy-second-base-lakshadweep-big-deal-india-13746218.html)
+
+Article found but Couldn't summarize 
+The Indian Navy has commissioned its second base in Lakshadweep, the INS Jatayu, on Minicoy Islands. This base will serve as the ‘eyes and ears’ of the maritime force in the Indian Ocean, at a time when China is growing closer to the Maldives and exerting more muscle power in the waters
+
+Thu, 7 Mar 2024 12:35:33 +0530
+### [Is Gaza facing a famine? Who will decide, and what happens next?](https://www.firstpost.com/explainers/gaza-famine-extreme-hunger-un-israel-hamas-war-13746202.html)
+
+Article found but Couldn't summarize 
+The United Nations has warned that widespread famine in the Gaza Strip is ‘almost inevitable’ without action. A formal conclusion that famine has arrived in the coastal enclave of 2.3 million people could come next week
+
+Thu, 7 Mar 2024 11:30:23 +0530
+### [Who is Sardar Ramesh Singh Arora, Pakistani Punjab's first Sikh minister?](https://www.firstpost.com/explainers/who-is-sardar-ramesh-singh-arora-pakistani-punjabs-first-sikh-minister-13746085.html)
+
+Article found but Couldn't summarize 
+Sardar Ramesh Singh Arora has scripted history after becoming the first member of the Sikh community to take the oath as a minister in Pakistan's Punjab province. The 48-year-old is a legislator from Narowal district
+
+Thu, 7 Mar 2024 10:08:11 +0530
+### [The twists and turns in Nikki Haley's failed US presidential campaign](https://www.firstpost.com/explainers/the-twists-and-turns-in-nikki-haleys-failed-us-presidential-campaign-13746122.html)
+
+Article found but Couldn't summarize 
+Nikki Haley's evolution from a Donald Trump acolyte to arch rival in the late days of the Republican nominating race left her as the standard-bearer for the party's dwindling anti-Trump faction
+
+Thu, 7 Mar 2024 09:52:12 +0530
+### [Why PM Modi’s first visit to Srinagar in five years is significant](https://www.firstpost.com/explainers/jammu-kashmir-pm-modi-first-visit-srinagar-five-years-significance-article-370-abrogated-13746103.html)
+
+Article found but Couldn't summarize 
+PM Modi is in Srinagar for a day’s visit during which he will address thousands at the Bakshi Stadium and inaugurate a slew of development projects worth more than Rs 6,400 crores. This will be the PM’s first visit to Kashmir since Article 370 was abrogated in 2019. To prevent any threats, multi-layer security cover has been deployed in the area
+
+Thu, 7 Mar 2024 08:00:00 +0530
+### [Ram Mandir inauguration: How India tackled cyberthreats from China and Pakistan](https://www.firstpost.com/explainers/ram-mandir-inauguration-india-cyberthreats-china-pakistan-13745956.html)
+
+Article found but Couldn't summarize 
+Hackers from Pakistan and China attempted to take down websites of the Ram Mandir, Prasar Bharati and some Uttar Pradesh infrastructure websites during the inauguration of the Ram Mandir in January. India, which blocked over 1,200 IP addresses, also used indigenous artificial intelligence (AI) and machine learning technologies to pre-empt attacks
+
 Thu, 7 Mar 2024 05:00:22 +0530
 ### [FirstUp: PM Modi in Srinagar, Joe Biden’s State of the Union speech… News today](https://www.firstpost.com/explainers/firstup-pm-modi-in-srinagar-joe-bidens-state-of-the-union-speech-news-today-13746031.html)
 

@@ -1,3 +1,43 @@
+Thu, 07 Mar 2024 13:43:28 +0000
+### [Kerala declares man-animal conflict a state-specific disaster: what changes with this](https://indianexpress.com/article/explained/kerala-man-animal-conflict-state-specific-disaster-explained-9201527/)
+
+Article found but Couldn't summarize
+
+Thu, 07 Mar 2024 12:59:05 +0000
+### [Why scientists voted down proposal to declare start of the Anthropocene — and what it means](https://indianexpress.com/article/explained/explained-sci-tech/scientists-voted-down-proposal-anthropocene-9201316/)
+
+Article found but Couldn't summarize
+
+Thu, 07 Mar 2024 10:50:37 +0000
+### [Bengaluru’s first driverless metro train, aided by AI: All you need to know](https://indianexpress.com/article/explained/bengaluru-first-driverless-metro-yellow-line-ai-9201108/)
+
+Article found but Couldn't summarize
+
+Thu, 07 Mar 2024 09:54:22 +0000
+### [What is Haiper, the text-to-video model created by Google DeepMind, TikTok alumni?](https://indianexpress.com/article/explained/explained-sci-tech/haiper-text-to-video-model-9200839/)
+
+Article found but Couldn't summarize
+
+Thu, 07 Mar 2024 06:28:44 +0000
+### [How RBI’s new directions on credit cards could benefit customers](https://indianexpress.com/article/explained/explained-economics/credit-card-networks-options-rbi-customers-9200530/)
+
+Article found but Couldn't summarize
+
+Thu, 07 Mar 2024 05:48:04 +0000
+### [SC sets up panel to look into tiger safaris, ecological damage at Jim Corbett: What was the case](https://indianexpress.com/article/explained/sc-panel-tiger-safaris-jim-corbett-what-was-the-case-9199887/)
+
+Article found but Couldn't summarize
+
+Thu, 07 Mar 2024 02:48:33 +0000
+### [India to restart Penicillin G manufacture: why was it stopped, what changed now](https://indianexpress.com/article/explained/explained-health/india-to-restart-penicillin-g-manufacture-why-it-stopped-9199850/)
+
+Article found but Couldn't summarize
+
+Thu, 07 Mar 2024 01:37:28 +0000
+### [Explained: Ladakh, Article 371, and the Sixth Schedule of the Constitution](https://indianexpress.com/article/explained/explained-politics/ladakh-article-371-and-the-sixth-schedule-of-the-constitution-9199902/)
+
+Article found but Couldn't summarize
+
 Wed, 06 Mar 2024 15:22:44 +0000
 ### [Explained: The rise and fall of Byju’s](https://indianexpress.com/article/explained/explained-economics/rise-and-fall-byjus-9199597/)
 

@@ -1,3 +1,45 @@
+Fri, 08 Mar 2024 03:16:18 +0530
+### [End pink-washing: Companies should be earnest about gender equality](https://www.livemint.com/opinion/online-views/end-pink-washing-companies-should-be-earnest-about-gender-equality-11709815898545.html)
+
+Article found but Couldn't summarize 
+Regressive advertising campaigns reveal what goes on. As a broad project, we must tackle a major problem of pink-washing the ‘diversity, equality and inclusion’ agenda that corporates are under scrutiny for.
+
+Fri, 08 Mar 2024 03:10:29 +0530
+### [Invest in women for a gender dividend to transform India](https://www.livemint.com/opinion/online-views/invest-in-women-for-a-gender-dividend-to-transform-india-11709815457519.html)
+
+Article found but Couldn't summarize 
+South Korea’s policy dedication to gender parity in the 1990s serves as an example for India to emulate. Increased women’s labour force participation gave its economy a new dynamism.
+
+Fri, 08 Mar 2024 03:08:37 +0530
+### [The world will win only when women win](https://www.livemint.com/opinion/online-views/the-world-will-win-only-when-women-win-11709815515866.html)
+
+Article found but Couldn't summarize 
+Right now, no country grants women the same legal rights as men, but we must remember that gender equality is a fundamental human right and a powerful driver of economic development.
+
+Fri, 08 Mar 2024 03:06:03 +0530
+### [Womenomics should take centre stage in today's digital age](https://www.livemint.com/opinion/online-views/womenomics-should-take-centre-stage-in-todays-digital-age-11709815574811.html)
+
+Article found but Couldn't summarize 
+Even though internet access has been declared a basic human right, a wide digital gender gap exists. The full and equal participation of women in all economic spheres is a must for sustainable, equitable and inclusive growth.
+
+Thu, 07 Mar 2024 08:00:19 +0530
+### [Let’s enrol the private sector in a new three-way social contract](https://www.livemint.com/opinion/online-views/lets-enrol-the-private-sector-in-a-new-three-way-social-contract-11709733729717.html)
+
+Article found but Couldn't summarize 
+Private businesses joining hands with the government and society could help the world stare down challenges. The classic social contract needs an update.
+
+Thu, 07 Mar 2024 08:00:19 +0530
+### [White House race: Biden versus Trump again](https://www.livemint.com/opinion/quick-edit/white-house-race-biden-versus-trump-again-11709741110204.html)
+
+Article found but Couldn't summarize 
+The stage is set for a Joe Biden-Donald Trump rematch in the US presidential election due in November. Trump’s polling lead over Biden means the world stands warned: Free trade may be in for a shake-up.
+
+Thu, 07 Mar 2024 08:00:19 +0530
+### [Bubble alert: India’s small-cap stock rush needs risk reduction](https://www.livemint.com/opinion/online-views/bubble-alert-india-s-small-cap-stock-rush-needs-risk-reduction-11709733653304.html)
+
+Article found but Couldn't summarize 
+Sebi recently asked India’s mutual fund industry to take precautions. Investment caps for high-risk stocks may help but we also need far greater public awareness of asset inflation.
+
 Thu, 07 Mar 2024 01:10:53 +0530
 ### [Towards a Viksit Bharat: The farm sector must play a bigger role in our economy](https://www.livemint.com/opinion/online-views/towards-a-viksit-bharat-the-farm-sector-must-play-a-bigger-role-in-our-economy-11709733880796.html)
 

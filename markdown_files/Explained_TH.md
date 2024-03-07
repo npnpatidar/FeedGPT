@@ -1,3 +1,15 @@
+Thu, 07 Mar 2024 22:51:24 +0530
+### [On the Janatha Vimukthi Peramuna | Explained](https://www.thehindu.com/news/international/on-the-janatha-vimukthi-peramuna-explained/article67926353.ece)
+
+Article found but Couldn't summarize 
+The JVP, one of the major opposition parties of Sri Lanka, has historically viewed India as an expansionist power seeking to colonise Sri Lanka. However, of late, the party is of the view that the reality of India as Sri Lanka’s closest neighbour and a ‘major political and economic centre’ cannot be ignored
+
+Thu, 07 Mar 2024 11:54:04 +0530
+### [What factors are pushing Bitcoin to a new all-time high? | Explained](https://www.thehindu.com/sci-tech/technology/what-factors-pushing-bitcoin-to-new-all-time-high-explained/article67920313.ece)
+
+Article found but Couldn't summarize 
+Bitcoin on March 5 hit a new all-time high. What was behind the crypto asset’s sudden surge in price? Is it a good idea to invest in Bitcoin?
+
 Wed, 06 Mar 2024 15:30:00 +0530
 ### [Why ASML’s new chip-making machine is a scientific marvel | Explained](https://www.thehindu.com/sci-tech/science/asml-high-na-euv-machine-science/article67920274.ece)
 
