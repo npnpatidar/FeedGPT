@@ -1,3 +1,9 @@
+Fri, 8 Mar 2024 05:00:18 +0530
+### [FirstUp: Modi in Assam, US govt funding expires... Big news today](https://www.firstpost.com/explainers/firstup-modi-in-assam-us-govt-funding-expires-big-news-today-13746376.html)
+
+Article found but Couldn't summarize 
+PM Modi will embark on a two-day visit to Assam. On the global front, funding for the US government expires today
+
 Thu, 7 Mar 2024 21:10:16 +0530
 ### [Joe Biden's 2024 State of the Union address: Key things to keep an eye on](https://www.firstpost.com/explainers/joe-biden-state-of-the-union-address-key-things-to-keep-an-eye-on-13746432.html)
 
