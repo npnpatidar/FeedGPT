@@ -1,3 +1,87 @@
+Fri, 8 Mar 2024 20:33:44 +0530
+### [Why France's Camembert cheese could soon disappear from kitchens](https://www.firstpost.com/explainers/why-frances-camembert-cheese-could-soon-disappear-from-kitchens-13746825.html)
+
+Article found but Couldn't summarize 
+France’s favourite Camembert cheese is under threat of extinction due to a lack of microbial diversity. This is because P. camemberti fungi, a species of white mould that makes it into the cheese it is, is having difficulties reproducing, partly due to the pressures of industrial manufacturing
+
+Fri, 8 Mar 2024 19:18:50 +0530
+### [How agents lured Indians with fake jobs to go to Russia, fight Ukraine war](https://www.firstpost.com/explainers/what-cbi-raids-uncovered-about-indians-duped-into-fighting-russia-ukraine-war-13746891.html)
+
+Article found but Couldn't summarize 
+The Central Bureau of Investigation, which conducted raids in over a dozen places across India on Thursday, said at least 180 people were sent to Russia under false pretenses – mainly on student visas. The MEA said the matter has been taken up with Russia and urged the public not to fall prey to such schemes
+
+Fri, 8 Mar 2024 19:00:54 +0530
+### [Half-bucket baths, school shuts: How Bengaluru’s water crisis is turning graver](https://www.firstpost.com/explainers/bengaluru-water-crisis-turning-graver-school-shut-groundwater-shortage-13746842.html)
+
+Article found but Couldn't summarize 
+A private home school on Bannerghatta Road has been closed till 10 March amid the ongoing water shortage in Bengaluru. Residents are issuing orders to use only half a bucket of water for bathing and not use the precious resource for cleaning purposes. Authorities have also come up with their own restrictions on the use of potable water
+
+Fri, 8 Mar 2024 18:00:11 +0530
+### [Why US saw worst February for layoffs since 2009](https://www.firstpost.com/explainers/why-us-saw-worst-february-for-layoffs-since-2009-13746788.html)
+
+Article found but Couldn't summarize 
+A report by outplacement firm Challenger, Gray & Christmas showed layoffs reached 84,638 in February – an eleven month high and the worst for that month since 2009. While companies cited 'restructuring' as the major reason for the job losses, experts say firms appear to be cutting jobs due to AI and automation
+
+Fri, 8 Mar 2024 17:23:24 +0530
+### [Delhi gym owner murder: Why man stabbed son 15 times, prior to wedding](https://www.firstpost.com/explainers/delhi-gym-owner-murder-why-man-stabbed-son-15-times-prior-to-wedding-13746717.html)
+
+Article found but Couldn't summarize 
+Gaurav Singhal, a Delhi gym owner, was allegedly stabbed 15 times over by his father at their residence in South Delhi. The murder took place shortly before the 29-year-old was to tie the knot. The father has been arrested in Jaipur after he fled the scene of the crime
+
+Fri, 8 Mar 2024 16:12:05 +0530
+### [What are 5th generation fighter jets? Why does India need them?](https://www.firstpost.com/explainers/what-are-5th-generation-fighter-jets-why-does-india-need-them-13746730.html)
+
+Article found but Couldn't summarize 
+Fifth-generation fighter jets  have stealth capabilities and can cruise at supersonic speeds without engaging afterburners. Possessed by just Russia, China and the US, these fighters are the apex predators of the sky. The Cabinet Committee on Security (CCS) gave the go-ahead to indigenously design and develop these planes to boost the Air Force's prowess
+
+Fri, 8 Mar 2024 15:24:14 +0530
+### [German officer used insecure Singapore line for military call. Then Russia hacked it](https://www.firstpost.com/explainers/germany-military-call-leak-insecure-singapore-hotel-line-for-military-call-russia-ukraine-war-13746700.html)
+
+Article found but Couldn't summarize 
+Germany is left red-faced after a highly sensitive discussion among its senior military officials was leaked by Russian state media last week. The country’s defence minister has now revealed that one of the participants had used an insecure line from a hotel room in Singapore to join the call
+
+Fri, 8 Mar 2024 14:33:18 +0530
+### [Who is Elena Zhukova, Rupert Murdoch’s new fiancée?](https://www.firstpost.com/explainers/who-is-elena-zhukova-rupert-murdochs-new-fiancee-13746634.html)
+
+Article found but Couldn't summarize 
+Rupert Murdoch, 92, is all set to tie the knot a fifth time after getting engaged to his girlfriend, Elena Zhukova. A 67-year-old Russian born retired molecular biologist, she met the media mogul through a large family gathering hosted by his third ex-wife, Wendi Deng
+
+Fri, 8 Mar 2024 13:27:58 +0530
+### [International Women’s Day 2024: Which country has the most women in parliament?](https://www.firstpost.com/explainers/international-womens-day-countries-women-representation-parliament-ipu-13746662.html)
+
+Article found but Couldn't summarize 
+Women’s parliamentary representation is growing slowly; as per a new report, the proportion of women in voting chambers now stands at 26.9 per cent. Of all the countries surveyed, Rwanda ranks first with a whopping 61.3 per cent. But what about India?
+
+Fri, 8 Mar 2024 12:30:16 +0530
+### [Age, Abortion and more: Takeaways from Joe Biden’s State of the Union address](https://www.firstpost.com/explainers/age-abortion-takeaways-joe-biden-state-of-the-union-2024-address-13746640.html)
+
+Article found but Couldn't summarize 
+US president Joe Biden’s State of the Union address laid out the clear contours of the his campaign ahead, criticising former President Donald Trump over the 6 January insurrection and going after the Supreme Court over its ruling that overturned Roe v Wade
+
+Fri, 8 Mar 2024 11:52:51 +0530
+### [Bengaluru driverless Metro trials begin: How AI will help steer this train](https://www.firstpost.com/explainers/bengaluru-driverless-metro-trials-begin-how-ai-will-help-steer-this-train-13746522.html)
+
+Article found but Couldn't summarize 
+Bengaluru Metro Rail Corporation has started slow trial runs of its driverless trains on the newly-constructed yellow line. The trains equipped with Communication-Based Train Control system will run on the 18.8 kilometre route linking Bommasandra and RV Road
+
+Fri, 8 Mar 2024 10:41:57 +0530
+### [How did International Women's Day come into existence? How is it celebrated?](https://www.firstpost.com/explainers/how-did-international-womens-day-come-into-existence-how-is-it-celebrated-13746551.html)
+
+Article found but Couldn't summarize 
+Officially recognised by the United Nations in 1977, International Women’s Day is commemorated in different ways and to varying degrees around the world. With this year's global theme being ‘Inspire Inclusion,’ demonstrations are planned from Tokyo to Mexico City
+
+Fri, 8 Mar 2024 10:00:14 +0530
+### [State of the Union 2024: Who were the notable guests? What was their significance?](https://www.firstpost.com/explainers/joe-biden-state-of-the-union-2024-notable-guests-reproductive-rights-ivf-israel-hamas-war-13746534.html)
+
+Article found but Couldn't summarize 
+US president Joe Biden was the centre of attention when he delivered his final State of the Union address. However, there were others who grabbed eyeball — the special guests invited from all walks of life. Some of the notable ones were the families of the hostages being held in Gaza. There were also women who were denied abortion and IVF treatments
+
+Fri, 8 Mar 2024 08:41:46 +0530
+### [10 years of MH370's disappearance: Can we still find the plane?](https://www.firstpost.com/explainers/10-years-of-mh370s-disappearance-can-we-still-find-the-plane-13745932.html)
+
+Article found but Couldn't summarize 
+It's been 10 years since Malaysia Airlines flight, MH370, went missing while flying from Kuala Lumpur to Beijing. It is still unknown what caused the plane's change of course and disappearance
+
 Fri, 8 Mar 2024 05:00:18 +0530
 ### [FirstUp: Modi in Assam, US govt funding expires... Big news today](https://www.firstpost.com/explainers/firstup-modi-in-assam-us-govt-funding-expires-big-news-today-13746376.html)
 

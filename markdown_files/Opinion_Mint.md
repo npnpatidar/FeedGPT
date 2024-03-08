@@ -1,3 +1,33 @@
+Fri, 08 Mar 2024 13:14:24 +0530
+### [Searching for an invisible Ninth](https://www.livemint.com/opinion/columns/searching-for-an-invisible-ninth-11709883326510.html)
+
+Article found but Couldn't summarize 
+The search for a ninth planet in the Solar System continues, with astronomers using mathematical predictions to narrow down possible locations, highlighting the role of mathematics in understanding celestial bodies beyond the known eight planets.
+
+Fri, 08 Mar 2024 12:31:49 +0530
+### [Bridging the gap: How women can lead the charge on corporate boards](https://www.livemint.com/opinion/online-views/bridging-the-gap-how-women-can-lead-the-charge-on-corporate-boards-11709618851247.html)
+
+Article found but Couldn't summarize 
+Women approach problems and opportunities from diverse angles and can challenge conventional wisdom, stimulate innovative thinking, and uncover new solutions to complex issues
+
+Fri, 08 Mar 2024 08:00:13 +0530
+### [Financial literacy will empower women: Beti bachao, Vitt sikhao](https://www.livemint.com/opinion/online-views/financial-literacy-will-empower-women-beti-bachao-vitt-sikhao-11709815701639.html)
+
+Article found but Couldn't summarize 
+Indian women will be truly empowered only once they become both financially literate and capable across every socio-economic group. Financial or ‘vitt’ education needs to be stepped up. There’s a very long way to go.
+
+Fri, 08 Mar 2024 08:00:13 +0530
+### [We need a bridge consumption survey to accurately analyse Indian pover](https://www.livemint.com/opinion/online-views/we-need-a-bridge-consumption-survey-to-accurately-analyse-indian-pover-11709815759161.html)
+
+Article found but Couldn't summarize 
+Now that we have an official CES after a gap of a decade-plus, we can use it to update macro indicators. Ideally, a bridge survey should be conducted for comparability with past data.
+
+Fri, 08 Mar 2024 08:00:13 +0530
+### [PF claim rejection rate of 34%: Why?](https://www.livemint.com/opinion/quick-edit/pf-claim-rejection-rate-of-34-why-11709816038730.html)
+
+Article found but Couldn't summarize 
+The rejection rate of final provident fund claims rose to nearly 34% in 2022-23. In the age of Aadhaar, this is inexplicable.
+
 Fri, 08 Mar 2024 03:16:18 +0530
 ### [End pink-washing: Companies should be earnest about gender equality](https://www.livemint.com/opinion/online-views/end-pink-washing-companies-should-be-earnest-about-gender-equality-11709815898545.html)
 

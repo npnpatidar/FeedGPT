@@ -1,3 +1,87 @@
+Fri, 8 Mar 2024 16:38:47 +0530
+### [US Sutra | Super Tuesday: Trump as the Republican presidential candidate](https://www.firstpost.com/opinion/us-sutra-super-tuesday-trump-as-the-republican-presidential-candidate-13746807.html)
+
+Article found but Couldn't summarize 
+The old Republicans considered Trump the maverick outsider whose multiple and compulsive indiscretions made him a liability. But today, the Grand Old Party is undoubtedly Trump’s demesne
+
+Fri, 8 Mar 2024 16:13:01 +0530
+### [How women are navigating challenges and taking centre stage in the AI-powered technology landscape](https://www.firstpost.com/opinion/how-women-are-navigating-challenges-and-taking-centre-stage-in-the-ai-powered-technology-landscape-13746795.html)
+
+Article found but Couldn't summarize 
+By working together, we can move towards the common goal of shaping a progressive future of AI that has diverse perspectives, equal representation and an inclusive landscape
+
+Fri, 8 Mar 2024 15:59:21 +0530
+### [10 chic spots for marking International Women’s Day with your tribe](https://www.firstpost.com/opinion/10-chic-spots-for-marking-international-womens-day-with-your-tribe-13746783.html)
+
+Article found but Couldn't summarize 
+Be it desi flavours, global fusion, royal charm, or wellness, these places in Delhi-NCR have it all to make it a special one
+
+Fri, 8 Mar 2024 15:35:50 +0530
+### [Vantage | Why is OpenAI battling out with Elon Musk?](https://www.firstpost.com/opinion/vantage-why-is-openai-battling-out-with-elon-musk-13746775.html)
+
+Article found but Couldn't summarize 
+Musk could be hoping his lawsuit helps his new company. If OpenAI is forced to become open-source, he can use its technology to boost his own, for-profit company
+
+Fri, 8 Mar 2024 15:33:19 +0530
+### [Sadhguru | Why you should not sleep on Mahashivratri](https://www.firstpost.com/opinion/sadhguru-why-you-should-not-sleep-on-mahashivratri-13746772.html)
+
+Article found but Couldn't summarize 
+There is a little bit of a tsunami happening within you on Mahashivratri
+
+Fri, 8 Mar 2024 15:21:25 +0530
+### [Vantage: How Vietnam's flexible 'bamboo diplomacy' is paying off](https://www.firstpost.com/opinion/vantage-how-vietnams-flexible-bamboo-diplomacy-is-paying-off-13746720.html)
+
+Article found but Couldn't summarize 
+As Vietnam emerges as a key player on the world stage, its bamboo diplomacy serves as a blueprint for navigating the complexities of modern geopolitics
+
+Fri, 8 Mar 2024 14:20:07 +0530
+### [Vantage | Does surge in Bitcoin prices make crypto a good investment?](https://www.firstpost.com/opinion/vantage-does-surge-in-bitcoin-prices-make-crypto-a-good-investment-13746710.html)
+
+Article found but Couldn't summarize 
+Bitcoin's recent surge may signal a new era of institutional acceptance, investing in cryptocurrencies requires careful consideration
+
+Fri, 8 Mar 2024 14:09:18 +0530
+### [Vantage | How South Korea became a cultural superpower](https://www.firstpost.com/opinion/vantage-how-south-korea-became-a-cultural-superpower-13746721.html)
+
+Article found but Couldn't summarize 
+Today, culture is one of South Korea's largest exports. It has helped the nation become Asia's fourth-biggest economy, cementing its credentials as a cultural superpower
+
+Fri, 8 Mar 2024 13:34:22 +0530
+### [Vantage | How the war in Ukraine reached Sudan](https://www.firstpost.com/opinion/vantage-how-the-war-in-ukraine-reached-sudan-13746695.html)
+
+Article found but Couldn't summarize 
+The war in Ukraine has expanded beyond its borders, reaching Africa and entangling Kyiv in Sudanese affairs
+
+Fri, 8 Mar 2024 13:16:17 +0530
+### [Vantage | How do microplastics end up in the arteries of people?](https://www.firstpost.com/opinion/vantage-how-do-microplastics-end-up-in-the-arteries-of-people-13746661.html)
+
+Article found but Couldn't summarize 
+Microplastics are so small that they can invade our cells and enter human blood vessels as well
+
+Fri, 8 Mar 2024 10:43:42 +0530
+### [Why India’s relations with its neighbours do not fit inside the definition of a ‘bully’](https://www.firstpost.com/opinion/why-indias-relations-with-its-neighbours-do-not-fit-inside-the-definition-of-a-bully-13746521.html)
+
+Article found but Couldn't summarize 
+India is carefully and pragmatically playing its cards and asserting its position in South Asia as well as the world, and providing aid and assistance to weaker neighbouring countries
+
+Fri, 8 Mar 2024 10:25:55 +0530
+### [How INS Jatayu serves as India’s ‘gate-post’ to Arabian Sea](https://www.firstpost.com/opinion/how-ins-jatayu-serves-as-indias-gate-post-to-arabian-sea-13746549.html)
+
+Article found but Couldn't summarize 
+With an impending larger Chinese presence in the Maldives after the Muizzu era defence agreement with China, a counter-strategy needs to be put in place rather soon
+
+Fri, 8 Mar 2024 09:11:22 +0530
+### [How Maha Shivratri is an opportunity for inner transformation](https://www.firstpost.com/opinion/how-maha-shivratri-is-an-opportunity-for-inner-transformation-13746519.html)
+
+Article found but Couldn't summarize 
+The quest for immortality in our subconscious creates all kinds of fear in us
+
+Fri, 8 Mar 2024 08:45:51 +0530
+### [RAND report: Threat of China occupying Taiwan by force is real](https://www.firstpost.com/opinion/rand-report-threat-of-china-occupying-taiwan-by-force-is-real-13746511.html)
+
+Article found but Couldn't summarize 
+If Donald Trump is re-elected, China could attack Taiwan considering his non-interventionist policy. If Biden returns, the danger remains as the US will be reluctant to open a third front in Taiwan after the Ukraine and Israel-Hamas wars
+
 Thu, 7 Mar 2024 19:03:07 +0530
 ### [Vantage | The insurgency that has displaced thousands in Mozambique](https://www.firstpost.com/opinion/vantage-the-insurgency-that-has-displaced-thousands-in-mozambique-13746435.html)
 

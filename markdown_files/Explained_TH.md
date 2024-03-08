@@ -1,3 +1,9 @@
+Fri, 08 Mar 2024 16:09:28 +0530
+### [A married woman’s right to her maiden surname | Explained](https://www.thehindu.com/news/national/a-married-womans-right-to-her-maiden-surname-explained/article67920005.ece)
+
+Article found but Couldn't summarize 
+A government notification requiring a husband’s NOC for married women to revert to their maiden surnames has been challenged in the Delhi High Court. Experts argue that such a requirement is violative of fundamental rights.
+
 Thu, 07 Mar 2024 22:51:24 +0530
 ### [On the Janatha Vimukthi Peramuna | Explained](https://www.thehindu.com/news/international/on-the-janatha-vimukthi-peramuna-explained/article67926353.ece)
 

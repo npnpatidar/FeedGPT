@@ -1,3 +1,15 @@
+Sat, 09 Mar 2024 00:20:00 +0530
+### [Dubious response: On the State Bank of India and the Electoral Bond scheme](https://www.thehindu.com/opinion/editorial/dubious-response-on-the-state-bank-of-india-and-the-electoral-bond-scheme/article67929807.ece)
+
+Article found but Couldn't summarize 
+The SBI’s reasons to delay publication of details of electoral bonds defy belief
+
+Sat, 09 Mar 2024 00:10:00 +0530
+### [Heart of the matter: on the Prime Minister’s visit to Kashmir and after](https://www.thehindu.com/opinion/editorial/heart-of-the-matter-on-the-prime-ministers-visit-to-kashmir/article67929261.ece)
+
+Article found but Couldn't summarize 
+Development of Kashmir must happen alongside restoration of political rights
+
 Fri, 08 Mar 2024 00:20:00 +0530
 ### [A slippery slope: On the Jim Corbett National Park case, tourism and conservation](https://www.thehindu.com/opinion/editorial/a-slippery-slope-on-the-jim-corbett-national-park-case-tourism-and-conservation/article67925045.ece)
 
