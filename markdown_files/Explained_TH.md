@@ -1,3 +1,33 @@
+Sun, 10 Mar 2024 03:15:00 +0530
+### [Why has the government issued an AI advisory? | Explained](https://www.thehindu.com/sci-tech/technology/why-has-the-government-issued-an-ai-advisory-explained/article67933240.ece)
+
+Article found but Couldn't summarize 
+What does the March 1 notification signal to tech firms? Will they need to seek government permission before putting out ‘under-tested’ Artificial Intelligence models? Why do some in the industry feel this move will hinder innovation?
+
+Sun, 10 Mar 2024 02:30:00 +0530
+### [What are the hurdles to fair global trade? | Explained](https://www.thehindu.com/business/Economy/what-are-the-hurdles-to-fair-global-trade-explained/article67933249.ece)
+
+Article found but Couldn't summarize 
+What did the latest WTO ministerial meeting at Abu Dhabi broadly achieve? What were India’s objectives?
+
+Sun, 10 Mar 2024 01:58:00 +0530
+### [Second Thomas Shoal | A symbol of defiance](https://www.thehindu.com/news/international/second-thomas-shoal-a-symbol-of-defiance/article67933279.ece)
+
+Article found but Couldn't summarize 
+Tensions are rising in the South China Sea after Chinese vessels attempted to block a Philippine mission to resupply their troops on the contested reef
+
+Sun, 10 Mar 2024 01:37:00 +0530
+### [G.N. Saibaba | Wheeling into freedom](https://www.thehindu.com/news/national/gn-saibaba-wheeling-into-freedom/article67933252.ece)
+
+Article found but Couldn't summarize 
+The wheelchair-bound former Delhi University professor, who spent years in jail, was released after he was acquitted of charges under UAPA by the Bombay High Court
+
+Sun, 10 Mar 2024 01:04:00 +0530
+### [Nepal’s Communist bloc | New coalition, old politics](https://www.thehindu.com/news/international/nepals-communist-bloc-new-coalition-old-politics/article67933227.ece)
+
+Article found but Couldn't summarize 
+Prime Minister Prachanda forges an alliance with the UML, promising a new beginning, but past experiments of Communist alliances and personality clashes between left leaders suggest there is still a long way to go for unity
+
 Fri, 08 Mar 2024 16:09:28 +0530
 ### [A married woman’s right to her maiden surname | Explained](https://www.thehindu.com/news/national/a-married-womans-right-to-her-maiden-surname-explained/article67920005.ece)
 

@@ -1,3 +1,9 @@
+Sat, 09 Mar 2024 18:26:07 +0530
+### [The cost of ex-ante regulation of India’s digital markets](https://www.livemint.com/opinion/online-views/the-cost-of-ex-ante-regulation-of-india-s-digital-markets-11709969007481.html)
+
+Article found but Couldn't summarize 
+India’s existing ex-post competition regulation regime works; can be made even more effective by improving its capacity
+
 Fri, 08 Mar 2024 13:14:24 +0530
 ### [Searching for an invisible Ninth](https://www.livemint.com/opinion/columns/searching-for-an-invisible-ninth-11709883326510.html)
 

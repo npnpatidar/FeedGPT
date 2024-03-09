@@ -1,3 +1,39 @@
+Sat, 9 Mar 2024 17:06:56 +0530
+### [Post-Cold War era and Great Power competition: Implications and options for India](https://www.firstpost.com/opinion/post-cold-war-era-and-great-power-competition-implications-and-options-for-india-13747029.html)
+
+Article found but Couldn't summarize 
+As the world prepares for an emerging three-power strategic situation, India needs to tread carefully to secure its well-deserved place on the global high table without any knee-jerk actions
+
+Sat, 9 Mar 2024 16:18:57 +0530
+### [India presses on land borders amid Chinese expansionism in Indian Ocean](https://www.firstpost.com/opinion/india-presses-on-land-borders-amid-chinese-expansionism-in-indian-ocean-13746985.html)
+
+Article found but Couldn't summarize 
+India’s policies at countering China have been deliberate, with the country starting to respond to Chinese aggression swiftly, especially given the upcoming general election
+
+Sat, 9 Mar 2024 12:05:27 +0530
+### [India and the Greater Indo-Pacific: Balancing geopolitical equations](https://www.firstpost.com/opinion/india-and-the-greater-indo-pacific-balancing-geopolitical-equations-13746962.html)
+
+Article found but Couldn't summarize 
+The future of Indo-Pacific peace and stability hinges on the tranquility of the Greater Indo-Pacific, where India's pivotal role as a voice of the Global South and global power can effectively recalibrate regional geopolitics
+
+Sat, 9 Mar 2024 11:41:42 +0530
+### [How India’s South-South cooperation in Africa’s agricultural sector is a win-win game](https://www.firstpost.com/opinion/how-indias-south-south-cooperation-in-africas-agricultural-sector-is-a-win-win-game-13747000.html)
+
+Article found but Couldn't summarize 
+The demand for engaging India through its agriculture-related experience, capacity building, investment, and partnership is high among smaller organisations and enterprises in Africa
+
+Sat, 9 Mar 2024 10:02:51 +0530
+### [How private sector can propel a new wave of space revolution in India](https://www.firstpost.com/opinion/how-private-sector-can-propel-a-new-wave-of-space-revolution-in-india-13746934.html)
+
+Article found but Couldn't summarize 
+The government can sign long-term purchase agreements with the Indian industry. This will create a consistent and assured demand for space-based services in the Indian market
+
+Sat, 9 Mar 2024 08:34:21 +0530
+### [Book review | Not just Rupa’s story: It’s the saga of India’s evolution too](https://www.firstpost.com/opinion/book-review-not-just-rupas-story-its-the-saga-of-indias-evolution-too-13746930.html)
+
+Article found but Couldn't summarize 
+Daudayal Mehra, Rajen Mehra’s granduncle, established Rupa in Kolkata in 1936
+
 Fri, 8 Mar 2024 16:38:47 +0530
 ### [US Sutra | Super Tuesday: Trump as the Republican presidential candidate](https://www.firstpost.com/opinion/us-sutra-super-tuesday-trump-as-the-republican-presidential-candidate-13746807.html)
 

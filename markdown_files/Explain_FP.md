@@ -1,3 +1,39 @@
+Sat, 9 Mar 2024 18:02:03 +0530
+### [How Elon Musk lost $40 billion of his fortune in three months this year](https://www.firstpost.com/explainers/how-elon-musk-lost-40-billion-of-his-fortune-in-three-months-this-year-13747113.html)
+
+Article found but Couldn't summarize 
+With a net worth of $189 billion, Elon Musk currently holds the third position on the Bloomberg Billionaires Index. Musk lost his lead position to Bernard Arnault. The reason for his declining fortune is the share price of Tesla, which has dropped by 29 per cent so far this year
+
+Sat, 9 Mar 2024 16:20:04 +0530
+### [Who is Faisal Khan, the YouTuber who duped Indians to work for Russian army?](https://www.firstpost.com/explainers/who-is-faisal-khan-the-youtuber-who-duped-indians-to-work-for-russian-army-13747063.html)
+
+Article found but Couldn't summarize 
+Faisal Khan, the man behind the YouTube channel Baba Vlogs, runs a manpower consulting firm that promises people jobs in countries like Russia, Singapore, and Serbia, among others. He allegedly lured several Indian men with the promise of lucrative opportunities in the Russian army
+
+Sat, 9 Mar 2024 13:44:29 +0530
+### [Why hundreds of school children in northern Nigeria are being abducted](https://www.firstpost.com/explainers/why-hundreds-of-school-children-in-northern-nigeria-are-being-abducted-13747017.html)
+
+Article found but Couldn't summarize 
+About 287 grade school students were kidnapped in northwestern region of Nigeria this week. There has been no claim of responsibility in the latest attack, but it happened in an area where bandits are active and have attacked communities in the past
+
+Sat, 9 Mar 2024 11:24:30 +0530
+### [Why Arunachal's Sela Tunnel is significant](https://www.firstpost.com/explainers/pm-inaugurates-sela-tunnel-in-arunachal-pradesh-why-the-bi-lane-tunnel-is-so-crucial-13746939.html)
+
+Article found but Couldn't summarize 
+PM Narendra Modi on Saturday inaugurated the strategically important Sela Tunnel in Arunachal Pradesh. Touted as the world’s longest bi-lane tunnel, it is expected to bolster all-weather connectivity and speedy military deployments to Tawang and Kameng
+
+Sat, 9 Mar 2024 09:37:23 +0530
+### [What happens to coins thrown into Rome's Trevi Fountain?](https://www.firstpost.com/explainers/what-happens-to-coins-thrown-into-romes-trevi-fountain-13746877.html)
+
+Article found but Couldn't summarize 
+The coins that visitors splash into Rome’s majestic Trevi Fountain, carrying wishes for love, good health, or a return to the Eternal City, don’t remain there. They are fished out and collected to provide practical help to people the tourists will never meet
+
+Sat, 9 Mar 2024 09:19:16 +0530
+### [This Week in Explainers: How dangerous is it to consume dry ice?](https://www.firstpost.com/explainers/this-week-in-explainers-how-dangerous-is-it-to-consume-dry-ice-13746792.html)
+
+Article found but Couldn't summarize 
+Five people in Gurugram began coughing up blood after eating a ‘mouth freshener’. They later realised that they had been served dry ice instead of the palate cleanser. What happened? Find out in our weekly roundup
+
 Fri, 8 Mar 2024 20:33:44 +0530
 ### [Why France's Camembert cheese could soon disappear from kitchens](https://www.firstpost.com/explainers/why-frances-camembert-cheese-could-soon-disappear-from-kitchens-13746825.html)
 

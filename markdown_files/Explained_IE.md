@@ -1,3 +1,33 @@
+Sat, 09 Mar 2024 10:38:30 +0000
+### [All about India’s indigenous fifth-gen fighter jet AMCA, and why it is important](https://indianexpress.com/article/explained/india-indigenous-fifth-gen-fighter-jet-amca-9204814/)
+
+Article found but Couldn't summarize
+
+Sat, 09 Mar 2024 10:02:01 +0000
+### [SC quashes FIR over Art 370 protest: How the court relied on the 1947 Justice Vivian Bose ruling](https://indianexpress.com/article/explained/explained-law/sc-fir-whatsapp-1947-ruling-justice-vivian-bose-9204747/)
+
+Article found but Couldn't summarize
+
+Sat, 09 Mar 2024 07:00:19 +0000
+### [Why the Singapore government struck a ‘deal’ to host Taylor Swift’s Eras Tour](https://indianexpress.com/article/explained/explained-global/singapore-deal-taylor-swift-eras-tour-9203760/)
+
+Article found but Couldn't summarize
+
+Sat, 09 Mar 2024 02:58:40 +0000
+### [Caught smuggling greenhouse gases: A first-of-its kind prosecution in the US](https://indianexpress.com/article/explained/explained-global/smuggling-greenhouse-gases-case-us-9203459/)
+
+Article found but Couldn't summarize
+
+Sat, 09 Mar 2024 02:15:04 +0000
+### [The nature of ‘royalty’ case: How an alleged typographical error led to 9-judge SC case](https://indianexpress.com/article/explained/explained-law/royalty-nine-judge-supreme-court-case-9203353/)
+
+Article found but Couldn't summarize
+
+Sat, 09 Mar 2024 01:37:40 +0000
+### [What is the ED case against Louise, wife of Congress leader Salman Khurshid?](https://indianexpress.com/article/explained/what-is-the-ed-case-against-louise-wife-of-congress-leader-salman-khurshid-9203914/)
+
+Article found but Couldn't summarize
+
 Fri, 08 Mar 2024 12:10:37 +0000
 ### [Is ghee a ‘livestock product’? Here’s what the Supreme Court said](https://indianexpress.com/article/explained/explained-law/ghee-livestock-product-supreme-court-andhra-9203363/)
 
