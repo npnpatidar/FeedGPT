@@ -1,3 +1,27 @@
+Mon, 11 Mar 2024 00:29:15 +0530
+### [We need to make freedom of speech low-brow in India](https://www.livemint.com/opinion/online-views/we-need-to-make-freedom-of-speech-low-brow-in-india-11710071107607.html)
+
+Article found but Couldn't summarize 
+Free speech has the potential to become a mass right, like food and water, if rescued from intellectuals.
+
+Mon, 11 Mar 2024 00:19:18 +0530
+### [Don’t let hybrids muddle our path to net-zero: EVs must prevail](https://www.livemint.com/opinion/online-views/dont-let-hybrids-muddle-our-path-to-net-zero-evs-must-prevail-11710071227036.html)
+
+Article found but Couldn't summarize 
+Hybrid advocacy seems aimed at prolonging the ICE age of unclean vehicles while we urgently need pollution-free transport.
+
+Mon, 11 Mar 2024 00:14:17 +0530
+### [China needs to look beyond its domestic troubles](https://www.livemint.com/opinion/online-views/china-needs-to-look-beyond-its-domestic-troubles-11710071273817.html)
+
+Article found but Couldn't summarize 
+While a home focus is important, Beijing should take care not to get isolated globally. A new foreign minister would go a long way to help explain China's global viewpoint.
+
+Mon, 11 Mar 2024 00:09:31 +0530
+### [Election fever grips Bollywood and India’s financial sector](https://www.livemint.com/opinion/online-views/election-fever-grips-bollywood-and-india-s-financial-sector-11710071414136.html)
+
+Article found but Couldn't summarize 
+Impending polls are palpably influencing cinema content and regulatory action in the finance sector.
+
 Sat, 09 Mar 2024 18:26:07 +0530
 ### [The cost of ex-ante regulation of India’s digital markets](https://www.livemint.com/opinion/online-views/the-cost-of-ex-ante-regulation-of-india-s-digital-markets-11709969007481.html)
 

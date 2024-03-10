@@ -1,3 +1,21 @@
+Sun, 10 Mar 2024 16:37:54 +0530
+### [Who are death doulas, those who assist at the end of people's lives?](https://www.firstpost.com/explainers/who-are-death-doulas-those-who-assist-at-the-end-of-peoples-lives-13745940.html)
+
+Article found but Couldn't summarize 
+Also referred to as death coaches and dying guides, death doulas are people who assist at the other end of the lifespan. They tend to provide support to people with life-limiting or terminal illnesses, help with funeral plans, and sometimes just provide company to the dying individual
+
+Sun, 10 Mar 2024 13:14:29 +0530
+### [Why you should think twice before letting your dog lick your face](https://www.firstpost.com/explainers/why-you-should-think-twice-before-letting-your-dog-lick-your-face-13746849.html)
+
+Article found but Couldn't summarize 
+The affection that pet dogs show owners through licking their face can do wonders for their well-being and mental health. However, canine saliva can do more harm than good
+
+Sun, 10 Mar 2024 10:32:22 +0530
+### [This Week in Explainers: Did self-help guru Jay Shetty lie about his past?](https://www.firstpost.com/explainers/this-week-in-explainers-did-self-help-guru-jay-shetty-lie-about-his-past-13746900.html)
+
+Article found but Couldn't summarize 
+He built a self-help empire based on motivational talks. But turns out that life coach Jay Shetty might not have been honest. We take a look at the case against the Indian-origin author and podcast host and other stories that grabbed headlines in our weekly roundup
+
 Sat, 9 Mar 2024 18:02:03 +0530
 ### [How Elon Musk lost $40 billion of his fortune in three months this year](https://www.firstpost.com/explainers/how-elon-musk-lost-40-billion-of-his-fortune-in-three-months-this-year-13747113.html)
 

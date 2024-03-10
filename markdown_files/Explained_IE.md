@@ -1,3 +1,33 @@
+Sun, 10 Mar 2024 22:45:42 +0000
+### [Trade agreement with EFTA: Why it marks a shift, could be a template for bigger deals](https://indianexpress.com/article/explained/explained-economics/trade-agreement-with-efta-why-it-marks-a-shift-could-be-a-template-for-bigger-deals-9207019/)
+
+Article found but Couldn't summarize
+
+Sun, 10 Mar 2024 16:03:10 +0000
+### [This Quote Means: ‘A woman without education is like a banyan tree without roots or leaves’, by Savitribai Phule](https://indianexpress.com/article/explained/woman-without-education-is-like-a-banyan-savitribai-phule-9206783/)
+
+Article found but Couldn't summarize
+
+Sun, 10 Mar 2024 13:44:23 +0000
+### [Centre signs pact with Tripura govt, TIPRA Motha: The demands, significance of the agreement](https://indianexpress.com/article/explained/explained-politics/centre-pact-with-tripura-govt-tipra-motha-significance-9206628/)
+
+Article found but Couldn't summarize
+
+Sun, 10 Mar 2024 08:52:09 +0000
+### [When Gandhi first met Tagore: The story of their friendship, despite disagreements](https://indianexpress.com/article/explained/explained-history/mahatma-gandhi-rabindranath-tagore-friendship-santiniketan-9206038/)
+
+Article found but Couldn't summarize
+
+Sun, 10 Mar 2024 03:20:00 +0000
+### [Explained: Scientists release findings on possibly the second biggest man-made methane leak, ever](https://indianexpress.com/article/explained/explained-climate/second-biggest-methane-kazakhstan-9205277/)
+
+Article found but Couldn't summarize
+
+Sun, 10 Mar 2024 01:32:06 +0000
+### [Meet Pi, the world’s ‘friendliest’ chatbot powered by the new Inflection-2.5 LLM](https://indianexpress.com/article/explained/explained-sci-tech/pi-chatbot-powered-inflection-llm-9205004/)
+
+Article found but Couldn't summarize
+
 Sat, 09 Mar 2024 23:00:42 +0000
 ### [India to sign trade agreement with EFTA today: What is the significance of the deal?](https://indianexpress.com/article/explained/explained-economics/india-to-sign-trade-agreement-with-efta-today-what-is-the-significance-of-the-deal-9205526/)
 

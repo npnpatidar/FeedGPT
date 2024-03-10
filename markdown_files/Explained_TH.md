@@ -1,3 +1,9 @@
+Sun, 10 Mar 2024 22:27:08 +0530
+### [Is the government going to introduce a new toll collection system? | Explained](https://www.thehindu.com/news/national/is-the-government-going-to-introduce-a-new-toll-collection-system-explained/article67936644.ece)
+
+Article found but Couldn't summarize 
+How will the recently proposed highway tolling system work? Will it be based on the U.S.’s Global Positioning System? Will it be mandatory for all vehicles to fit an on-board unit device? What about the FASTags collection system?
+
 Sun, 10 Mar 2024 03:15:00 +0530
 ### [Why has the government issued an AI advisory? | Explained](https://www.thehindu.com/sci-tech/technology/why-has-the-government-issued-an-ai-advisory-explained/article67933240.ece)
 

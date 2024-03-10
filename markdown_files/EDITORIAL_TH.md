@@ -1,3 +1,15 @@
+Mon, 11 Mar 2024 00:20:00 +0530
+### [Not law, nor duty: On ‘safe military jobs’ and Indians in war zones](https://www.thehindu.com/opinion/editorial/not-law-nor-duty-on-safe-military-jobs-and-indians-in-war-zones/article67935641.ece)
+
+Article found but Couldn't summarize 
+Indians are being lured into fighting another country’s war
+
+Mon, 11 Mar 2024 00:10:00 +0530
+### [Crisis of time: On parched Karnataka and its water woes](https://www.thehindu.com/opinion/editorial/crisis-of-time-on-parched-karnataka-and-its-water-woes/article67935630.ece)
+
+Article found but Couldn't summarize 
+Rapid growth, such as Bengaluru’s this century, and short-termism cannot coexist.
+
 Sat, 09 Mar 2024 00:20:00 +0530
 ### [Dubious response: On the State Bank of India and the Electoral Bond scheme](https://www.thehindu.com/opinion/editorial/dubious-response-on-the-state-bank-of-india-and-the-electoral-bond-scheme/article67929807.ece)
 
