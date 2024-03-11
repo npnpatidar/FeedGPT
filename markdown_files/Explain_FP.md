@@ -1,3 +1,9 @@
+Mon, 11 Mar 2024 05:00:20 +0530
+### [FirstUp: SC to hear SBI plea on electoral bonds and more… The big news today](https://www.firstpost.com/explainers/firstup-sc-to-hear-sbi-plea-on-electoral-bonds-and-more-the-big-news-today-13747334.html)
+
+Article found but Couldn't summarize 
+It’s a busy Monday. The Supreme Court will be hearing the State Bank of India’s plea, seeking an extension of time to provide details on electoral bonds to the Election Commission. Here’s what else is expected to happen
+
 Sun, 10 Mar 2024 16:37:54 +0530
 ### [Who are death doulas, those who assist at the end of people's lives?](https://www.firstpost.com/explainers/who-are-death-doulas-those-who-assist-at-the-end-of-peoples-lives-13745940.html)
 
