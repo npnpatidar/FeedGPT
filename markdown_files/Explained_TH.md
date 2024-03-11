@@ -1,3 +1,15 @@
+Mon, 11 Mar 2024 22:42:18 +0530
+### [Why did the Supreme Court reject SBI’s plea seeking extension of time to disclose electoral bonds data? | Explained](https://www.thehindu.com/news/national/why-did-the-supreme-court-reject-sbis-plea-seeking-extension-of-time-to-disclose-electoral-bonds-data-explained/article67928015.ece)
+
+Article found but Couldn't summarize 
+The top court dismissed a plea moved by the SBI seeking time till June 30 to make public details of electoral bonds purchased anonymously by political parties. Why did the public sector bank seek more time and why do experts contest its claims?
+
+Mon, 11 Mar 2024 12:56:00 +0530
+### [The flaring conflict in eastern Congo | Explained](https://www.thehindu.com/news/international/eastern-congo-conflict-fighting-rwanda-explains-m23/article67912364.ece)
+
+Article found but Couldn't summarize 
+Who are the M23 rebels at the centre of the conflict? How does it threaten regional stability?
+
 Sun, 10 Mar 2024 22:27:08 +0530
 ### [Is the government going to introduce a new toll collection system? | Explained](https://www.thehindu.com/news/national/is-the-government-going-to-introduce-a-new-toll-collection-system-explained/article67936644.ece)
 

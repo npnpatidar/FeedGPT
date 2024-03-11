@@ -1,3 +1,39 @@
+Tue, 12 Mar 2024 00:05:55 +0530
+### [Mutual funds versus bank deposits? Dispel that myth.](https://www.livemint.com/opinion/online-views/mutual-funds-versus-bank-deposits-dispel-that-myth-11710167530548.html)
+
+Article found but Couldn't summarize 
+The success of India’s mutual fund industry has not been at the cost of bank deposit growth in the country. Take a good hard look at what the data reveals.
+
+Tue, 12 Mar 2024 00:00:03 +0530
+### [The India-EFTA trade deal: A win-win](https://www.livemint.com/opinion/online-views/the-india-efta-trade-deal-a-winwin-11710164068653.html)
+
+Article found but Couldn't summarize 
+Indian negotiators did well to revive stalled talks and forge an agreement that offers a wide range of benefits to all involved.
+
+Mon, 11 Mar 2024 23:55:47 +0530
+### [Leash laws for dogs tell us a lot about humans](https://www.livemint.com/opinion/online-views/leash-laws-for-dogs-tell-us-a-lot-about-humans-11710164183342.html)
+
+Article found but Couldn't summarize 
+America’s current trend favours tighter canine control. But these laws vary, suggesting a case of the tail wagging the dog.
+
+Mon, 11 Mar 2024 23:50:36 +0530
+### [Chinese EV dominance is clear but should we be worried?](https://www.livemint.com/opinion/online-views/chinese-ev-dominance-is-clear-but-should-we-be-worried-11710164231574.html)
+
+Article found but Couldn't summarize 
+Western auto makers seem rattled but the Indian market is still in play for domestic EV manufacturers.
+
+Mon, 11 Mar 2024 16:57:59 +0530
+### [Rooftop solar scheme is a great initiative. Let’s secure its implementation](https://www.livemint.com/opinion/first-person/rooftop-solar-scheme-is-a-great-initiative-let-s-secure-its-implementation-11710141897317.html)
+
+Article found but Couldn't summarize 
+A major obstacle in the scheme is the complexity faced by households in installing rooftop solar systems
+
+Mon, 11 Mar 2024 14:17:24 +0530
+### [Debunking myths about women and the workplace](https://www.livemint.com/opinion/first-person/debunking-myths-about-women-and-the-workplace-11710135362606.html)
+
+Article found but Couldn't summarize 
+While women might be able to enter the workforce at the same footing as men, the probability of them lasting longer in the workforce is lower
+
 Mon, 11 Mar 2024 00:29:15 +0530
 ### [We need to make freedom of speech low-brow in India](https://www.livemint.com/opinion/online-views/we-need-to-make-freedom-of-speech-low-brow-in-india-11710071107607.html)
 

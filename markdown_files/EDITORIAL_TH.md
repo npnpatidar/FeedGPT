@@ -1,3 +1,15 @@
+Tue, 12 Mar 2024 00:30:00 +0530
+### [Names and bonds: On electoral bonds scheme, the Supreme Court, and the State Bank of India](https://www.thehindu.com/opinion/editorial/names-and-bonds-the-hindu-editorial-electoral-bonds-scheme-the-supreme-court-and-the-state-bank-of-india/article67939460.ece)
+
+Article found but Couldn't summarize 
+The Court did well to thwart SBI’s attempt to delay details of electoral bonds
+
+Tue, 12 Mar 2024 00:15:00 +0530
+### [Politics and pass-overs: On the 96th Academy Awards](https://www.thehindu.com/opinion/editorial/politics-and-pass-overs-the-hindu-editorial-on-the-96th-academy-awards/article67939208.ece)
+
+Article found but Couldn't summarize 
+Geopolitics outdid the politics in the choice of Oscar winners
+
 Mon, 11 Mar 2024 00:20:00 +0530
 ### [Not law, nor duty: On ‘safe military jobs’ and Indians in war zones](https://www.thehindu.com/opinion/editorial/not-law-nor-duty-on-safe-military-jobs-and-indians-in-war-zones/article67935641.ece)
 

@@ -1,3 +1,48 @@
+Mon, 11 Mar 2024 23:03:11 +0000
+### [Electoral bonds: ‘Matching’ code may be missing, but petitioners hope for ‘quid pro quo’ trends](https://indianexpress.com/article/explained/electoral-bonds-matching-code-may-be-missing-but-petitioners-hope-for-quid-pro-quo-trends-9208829/)
+
+Article found but Couldn't summarize
+
+Mon, 11 Mar 2024 13:20:16 +0000
+### [Warming up to climate change: Why do global sea surface temperatures matter?](https://indianexpress.com/article/explained/explained-climate/why-global-sea-surface-temperatures-matter-9208281/)
+
+Article found but Couldn't summarize
+
+Mon, 11 Mar 2024 13:12:29 +0000
+### [PM Modi announces Mission Divyastra success: What is the Agni-5 missile with MIRV technology](https://indianexpress.com/article/explained/explained-sci-tech/pm-modi-mission-divyastra-agni-5-mirv-9208303/)
+
+Article found but Couldn't summarize
+
+Mon, 11 Mar 2024 12:02:32 +0000
+### [Meet Raj Kapoor, today’s Oscars showman](https://indianexpress.com/article/explained/explained-culture/meet-raj-kapoor-todays-oscars-showman-9208170/)
+
+Article found but Couldn't summarize
+
+Mon, 11 Mar 2024 09:57:51 +0000
+### [Why are the Academy Awards called Oscars – from a librarian to an actress, the claims behind the name](https://indianexpress.com/article/explained/explained-culture/oscars-academy-awards-name-reason-9207844/)
+
+Article found but Couldn't summarize
+
+Mon, 11 Mar 2024 09:41:48 +0000
+### [Why did SC reject SBI’s application for extension of time to submit details on electoral bonds?](https://indianexpress.com/article/explained/explained-law/sc-sbis-application-extension-electoral-bonds-9207859/)
+
+Article found but Couldn't summarize
+
+Mon, 11 Mar 2024 02:45:33 +0000
+### [In Gujarat, harnessing the value of dung to boost farmers’ income](https://indianexpress.com/article/explained/explained-economics/in-gujarat-harnessing-the-value-of-dung-to-boost-farmers-income-9206961/)
+
+Article found but Couldn't summarize
+
+Mon, 11 Mar 2024 02:35:09 +0000
+### [Meant to reduce stress on big cats, why safari parks may be a double-edged sword](https://indianexpress.com/article/explained/tiger-safari-corbett-tiger-reserve-uttarakhand-hc-supreme-court-nahargarh-biological-park-9206962/)
+
+Article found but Couldn't summarize
+
+Mon, 11 Mar 2024 01:37:18 +0000
+### [How the Oscars became the biggest film awards on Earth](https://indianexpress.com/article/explained/explained-culture/how-the-oscars-came-to-be-the-biggest-film-awards-on-earth-9206982/)
+
+Article found but Couldn't summarize
+
 Sun, 10 Mar 2024 22:45:42 +0000
 ### [Trade agreement with EFTA: Why it marks a shift, could be a template for bigger deals](https://indianexpress.com/article/explained/explained-economics/trade-agreement-with-efta-why-it-marks-a-shift-could-be-a-template-for-bigger-deals-9207019/)
 

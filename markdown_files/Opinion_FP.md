@@ -1,3 +1,33 @@
+Mon, 11 Mar 2024 19:36:33 +0530
+### [With Taliban vying for legitimacy, Modi’s India is ensuring it doesn’t end up on the losing side this time](https://www.firstpost.com/opinion/with-taliban-vying-for-legitimacy-modis-india-is-ensuring-it-doesnt-end-up-on-the-losing-side-this-time-13747765.html)
+
+Article found but Couldn't summarize 
+This time, India’s decision-making matrix vis-à-vis Taliban’s return to power in Afghanistan is completely different
+
+Mon, 11 Mar 2024 16:50:09 +0530
+### [Tripura: Alliance with TIPRA Motha may strengthen NDA, but BJP has lessons to learn](https://www.firstpost.com/opinion/tripura-alliance-with-tipra-motha-may-strengthen-nda-but-bjp-has-lessons-to-learn-13747620.html)
+
+Article found but Couldn't summarize 
+Apart from striking alliances with the regional tribal parties, the BJP also needs to cultivate mass leaders from the tribal community simultaneously
+
+Mon, 11 Mar 2024 16:21:56 +0530
+### [Ramification | When Manipuri women taught Victorian West real feminism](https://www.firstpost.com/opinion/ramification-when-manipuri-women-taught-victorian-west-real-feminism-13747668.html)
+
+Article found but Couldn't summarize 
+The story of the Nupi Lan movements has been lost in the annals of history simply because Indians never made themselves the parameter to follow; instead, we followed the world
+
+Mon, 11 Mar 2024 11:53:05 +0530
+### [Weather report: Delhi experiences colder March, but summer to set in at end of month](https://www.firstpost.com/opinion/weather-report-delhi-experiences-a-colder-march-summer-will-set-in-at-end-of-month-13747511.html)
+
+Article found but Couldn't summarize 
+The national capital, Delhi, experienced the coldest streak, reporting minimum temperatures in single digits after 1990
+
+Mon, 11 Mar 2024 10:14:17 +0530
+### [Sela Tunnel: A strategic landmark in India’s northeastern border space](https://www.firstpost.com/opinion/sela-tunnel-a-strategic-landmark-in-indias-northeastern-border-space-13747465.html)
+
+Article found but Couldn't summarize 
+Equitable development is the new mantra, and North East is gradually gaining equal footing with the rest of India
+
 Sun, 10 Mar 2024 18:19:05 +0530
 ### [How Gaganyaan marks a new chapter in India’s space odyssey](https://www.firstpost.com/opinion/how-gaganyaan-marks-a-new-chapter-in-indias-space-odyssey-13747346.html)
 

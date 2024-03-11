@@ -1,3 +1,75 @@
+Mon, 11 Mar 2024 20:26:24 +0530
+### [Mission Divyastra: What is the MIRV technology used by Agni-5 missile?](https://www.firstpost.com/explainers/pm-narendra-modi-mission-divyastra-what-is-mirv-technology-used-by-agni-5-missile-13747772.html)
+
+Article found but Couldn't summarize 
+PM Narendra Modi announced that India’s Agni-5 missile’s maiden test flight using the Multiple Independently-targetable Reentry Vehicle (MIRV) was a success. This technology that allows a single missile carrying multiple warheads to strike different targets simultaneously is not easy to develop and is only deployed by a select few nations currently
+
+Mon, 11 Mar 2024 19:37:32 +0530
+### [No takers for wine? Why farmers in Australia, France are destroying vineyards](https://www.firstpost.com/explainers/wine-overproduction-why-farmers-in-australia-france-are-destroying-vineyards-13747725.html)
+
+Article found but Couldn't summarize 
+The world has too much wine. Overproduction has forced farmers across some of the world’s largest producers like Australia and France to destroy tens of millions of grape vines. It is the cheaper reds that are taking a hit. Here’s why
+
+Mon, 11 Mar 2024 17:22:51 +0530
+### [Techies leave city, hospitals struggle: How Bengaluru’s water woes have upended lives](https://www.firstpost.com/explainers/bengaluru-water-shortage-impact-techies-leave-city-hospitals-struggle-13747695.html)
+
+Article found but Couldn't summarize 
+The water scarcity in Bengaluru is forcing techies to leave for their hometowns. Hospitals are using recycled water for toilets and drilling borewells to tackle the crisis. A posh apartment complex in the city has asked its residents to use disposable cutlery and wet wipes to save the resource
+
+Mon, 11 Mar 2024 17:19:15 +0530
+### [Tensions run high at Jerusalem’s al-Aqsa mosque every Ramzan. Here’s why](https://www.firstpost.com/explainers/tensions-high-jerusalem-al-aqsa-mosque-ramzan-israel-hamas-war-13747696.html)
+
+Article found but Couldn't summarize 
+Videos on social media show Israeli security forces clashing with Muslim worshippers at Jerusalem’s al-Aqsa mosque on Sunday on the first night of Ramzan. The religious site has been the centre of numerous clashes, dating all the way back to 1969
+
+Mon, 11 Mar 2024 16:28:06 +0530
+### [No dissent, only despotism: How Russia has changed under Vladimir Putin](https://www.firstpost.com/explainers/no-dissent-despotism-russia-vladimir-putin-regime-13747662.html)
+
+Article found but Couldn't summarize 
+Over the last decade, Vladimir Putin's Russia gone from a country that tolerates at least some dissent to one that ruthlessly suppresses it. Arrests, trials and long prison terms — once rare — are commonplace
+
+Mon, 11 Mar 2024 14:46:12 +0530
+### [After Netherlands, now Portugal: The surge of far-right across Europe](https://www.firstpost.com/explainers/portugal-elections-surge-of-far-right-across-europe-13747592.html)
+
+Article found but Couldn't summarize 
+The centre-right Democratic Alliance has claimed victory in the Portugal elections despite failing to secure a majority. The Socialist Party, which ruled the country for the last eight years, has conceded defeat. However, it is the gains of the far-right Chega party that have grabbed headlines
+
+Mon, 11 Mar 2024 14:02:12 +0530
+### [How much does it cost to host the Oscars, the biggest night in Hollywood?](https://www.firstpost.com/explainers/cost-oscars-biggest-night-in-hollywood-13747578.html)
+
+Article found but Couldn't summarize 
+The Oscars are known as Hollywood’s biggest night, honouring the best in the movies. The award ceremony is a lavish affair and hosting it costs a staggering $56.9 million (Rs 470 crore). This includes the gold-plated statuettes, the extravagant gift bags to nominees and laying down a red carpet at the Dolby Theatre
+
+Mon, 11 Mar 2024 12:41:36 +0530
+### [What’s going on with Kate? The royal mess over a ‘manipulated’ picture](https://www.firstpost.com/explainers/kate-middleton-children-photograph-manipulated-mothers-day-kensington-palace-prince-william-13747540.html)
+
+Article found but Couldn't summarize 
+Kate Middleton’s prolonged absence after surgery has fuelled speculation about her health and whereabouts. Following this, Kensington Palace issued a photograph of the Princess of Wales with her children. Now news agencies have retracted the ‘manipulated’ image. Is all well with the future queen?
+
+Mon, 11 Mar 2024 12:22:14 +0530
+### [How gangs in Haiti have exploded and put the capital 'under siege'](https://www.firstpost.com/explainers/gang-violence-haiti-exploded-capital-under-siege-jimmy-barbecue-cherizier-13747532.html)
+
+Article found but Couldn't summarize 
+The gangs sowing terror in the impoverished Caribbean Island have morphed into de facto overlords. Now they are demanding the ouster of Prime Minister Ariel Henry, whose successor would have been sworn in on February 7 if elections scheduled for 2023 had taken place
+
+Mon, 11 Mar 2024 10:51:42 +0530
+### [Hyderabad woman found dead in Australia: What we know so far](https://www.firstpost.com/explainers/hyderabad-woman-chaithanya-swetha-madhagani-dead-australia-husband-suspect-13747481.html)
+
+Article found but Couldn't summarize 
+Chaithanya Swetha Madhagani, a 36-year-old woman from Hyderabad, was found dead in a waste bin along the side of the road 84 kilometres from her Point Cook home in Australia. Authorities suspect her husband may have been behind the murder
+
+Mon, 11 Mar 2024 10:07:25 +0530
+### [India, European bloc EFTA ink free trade pact: Who benefits and how?](https://www.firstpost.com/explainers/india-european-bloc-efta-free-trade-pact-benefits-concessions-13747449.html)
+
+Article found but Couldn't summarize 
+India has signed a free trade agreement with the four-nation European Free Trade Association (EFTA) — comprising Iceland, Liechtenstein, Norway and Switzerland — opening up their markets to each other. The deal will phase out custom duties on many imported products, giving Indian customers access to high-quality Swiss products at lower prices
+
+Mon, 11 Mar 2024 08:29:35 +0530
+### [‘Everyone Wins’: What’s in this year’s Oscars goodie bags?](https://www.firstpost.com/explainers/oscars-2024-academy-awards-goodie-bags-13746907.html)
+
+Article found but Couldn't summarize 
+The Oscars, Hollywood’s most coveted awards, have been announced. While everyone doesn't win, both winners and losers will take back home the infamous ‘Everyone Wins’ gift bag. Here’s all the luxury items in this year’s swag packages
+
 Mon, 11 Mar 2024 05:00:20 +0530
 ### [FirstUp: SC to hear SBI plea on electoral bonds and more… The big news today](https://www.firstpost.com/explainers/firstup-sc-to-hear-sbi-plea-on-electoral-bonds-and-more-the-big-news-today-13747334.html)
 
