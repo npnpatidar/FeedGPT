@@ -1,3 +1,8 @@
+Tue, 12 Mar 2024 06:00:00 +0530
+### [A (very) basic guide to artificial intelligence](https://www.thehindu.com/sci-tech/science/artificial-intelligence-machine-learning-explainer/article67938899.ece)
+
+Article found but Couldn't summarize
+
 Mon, 11 Mar 2024 22:42:18 +0530
 ### [Why did the Supreme Court reject SBI’s plea seeking extension of time to disclose electoral bonds data? | Explained](https://www.thehindu.com/news/national/why-did-the-supreme-court-reject-sbis-plea-seeking-extension-of-time-to-disclose-electoral-bonds-data-explained/article67928015.ece)
 

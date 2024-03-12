@@ -1,3 +1,9 @@
+Tue, 12 Mar 2024 05:00:35 +0530
+### [FirstUp: SBI to furnish electoral bond details & more… The big headlines](https://www.firstpost.com/explainers/firstup-sbi-to-furnish-electoral-bond-details-more-the-big-headlines-13747748.html)
+
+Article found but Couldn't summarize 
+The State Bank of India (SBI) will furnish all details related to electoral bonds to the Election Commission today, based on an order by the Supreme Court. Prime Minister Modi will see India’s atmanirbharta come alive at the tri-service military exercise, ‘Bharat Shakti’ in Pokhran. Here’s what else is expected to happen
+
 Mon, 11 Mar 2024 20:26:24 +0530
 ### [Mission Divyastra: What is the MIRV technology used by Agni-5 missile?](https://www.firstpost.com/explainers/pm-narendra-modi-mission-divyastra-what-is-mirv-technology-used-by-agni-5-missile-13747772.html)
 

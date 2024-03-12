@@ -5,6 +5,15 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Explained_TH.xml</link>
 		<description>Explained TH</description>
 		<item>
+			<title>A (very) basic guide to artificial intelligence</title>
+			<link>https://www.thehindu.com/sci-tech/science/artificial-intelligence-machine-learning-explainer/article67938899.ece</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Tue, 12 Mar 2024 06:00:00 +0530</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url=""></media:thumbnail>
+			<media:content url="" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Why did the Supreme Court reject SBI’s plea seeking extension of time to disclose electoral bonds data? | Explained</title>
 			<link>https://www.thehindu.com/news/national/why-did-the-supreme-court-reject-sbis-plea-seeking-extension-of-time-to-disclose-electoral-bonds-data-explained/article67928015.ece</link>
 			<description>Article found but Couldn't summarize 
