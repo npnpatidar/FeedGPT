@@ -1,3 +1,93 @@
+Tue, 12 Mar 2024 20:43:41 +0530
+### [The Taylor Swift effect: How vinyl records returned to UK inflation basket after 32 years](https://www.firstpost.com/explainers/vinyl-records-uk-inflation-basket-taylor-swift-13748221.html)
+
+Article found but Couldn't summarize 
+Vinyl records will be added to the UK’s basket of goods used to calculate the rate of inflation for the first time since 1992. The surging success of Taylor Swift drove the sales of the item last year, contributing to the physical format’s growth in the country
+
+Tue, 12 Mar 2024 19:33:47 +0530
+### [How more and more Chinese are illegally entering the US through the southern border](https://www.firstpost.com/explainers/how-more-and-more-chinese-are-illegally-entering-the-us-through-the-southern-border-13748198.html)
+
+Article found but Couldn't summarize 
+Nearly 10 times as many Chinese migrants crossed America’s southern border in 2023 compared to 2022. The dramatic uptick is the result of a slowing Chinese economy, tightening political control by President Xi Jinping and easy access to online information on Chinese social media about how to make the trip
+
+Tue, 12 Mar 2024 19:32:27 +0530
+### [Climate change can drive up banana prices: Will India be affected?](https://www.firstpost.com/explainers/climate-change-impact-banana-price-increase-will-india-be-affected-13748124.html)
+
+Article found but Couldn't summarize 
+An expert has warned that bananas are under threat from climate change and crop disease, which could likely increase their prices. India, which is the world’s largest producer and consumer of the fruit, might also be affected in the future
+
+Tue, 12 Mar 2024 19:01:06 +0530
+### [Why bosses in China could be penalised for ‘invisible overtime’](https://www.firstpost.com/explainers/why-bosses-in-china-could-be-penalised-for-invisible-overtime-13748035.html)
+
+Article found but Couldn't summarize 
+To protect workers, China is considering offering legal protection to employees forced to stay online even after work hours. The development comes after a political advisor last week recommended that guidelines and a legal framework be made for ‘working overtime online’
+
+Tue, 12 Mar 2024 16:45:22 +0530
+### [Manohar Lal Khattar out, Nayab Singh Saini in: What’s happening in Haryana?](https://www.firstpost.com/explainers/manohar-lal-khattar-resigns-nayab-singh-saini-in-haryana-politics-bjp-jjp-alliance-13748103.html)
+
+Article found but Couldn't summarize 
+It’s been a day of twists and turn in Haryana politics. It all began with the resignation of Chief Minister Manohar Lal Khattar, signalling an end of the BJP’s alliance with Dushyant Singh Chautala’s JJP. Hours later, the ruling party chose Kurukshetra MP Nayab Singh Saini to take charge of the state’s affairs
+
+Tue, 12 Mar 2024 16:33:31 +0530
+### [In a first, a daughter to become Pakistan’s first lady: Who is Aseefa Bhutto Zardari?](https://www.firstpost.com/explainers/aseefa-bhutto-zardari-pakistan-first-lady-president-asif-ali-zardari-13748094.html)
+
+Article found but Couldn't summarize 
+Aseefa BhuttoZardari is the youngest daughter of Pakistan president Asif Ali Zardari and the country’s first woman prime minister Benazir Bhutto. The 31-year-old, who has worked on polio eradication, campaigned for her brother Bilawal and is often seen alongside her father, is likely to be named the first lady
+
+Tue, 12 Mar 2024 15:51:20 +0530
+### [Why is Airbnb banning the use of indoor security cameras?](https://www.firstpost.com/explainers/airbnb-ban-use-of-indoor-security-cameras-13747979.html)
+
+Article found but Couldn't summarize 
+The new policy, which includes stricter regulations for both indoor and outdoor security cameras at Airbnb properties, will take effect on 30 April. Here’s everything you need to know
+
+Tue, 12 Mar 2024 15:04:21 +0530
+### [Matuas in Bengal hail CAA implementation: Who are they? How will they gain from the law?](https://www.firstpost.com/explainers/matuas-west-bengal-caa-implementation-bjp-lok-sabha-elections-13747996.html)
+
+Article found but Couldn't summarize 
+The Matuas are Hindus who migrated, first during the Partition and later after the 1971 Bangladesh Liberation War, to India. The community members have long been demanding the implementation of the 2019 Citizenship Amendment Act (CAA), which seeks to grant Indian nationality to non-Muslims from Bangladesh, Pakistan and Afghanistan
+
+Tue, 12 Mar 2024 14:07:15 +0530
+### [Can you go to jail for not filing your income tax returns?](https://www.firstpost.com/explainers/can-you-go-to-jail-for-not-filing-your-income-tax-returns-13747951.html)
+
+Article found but Couldn't summarize 
+A Delhi Court convicted and sentenced a woman to six months in jail for not filing a return on income of Rs 2 crore. Every law-abiding citizen must file their ITR annually as per the income tax regulations. Taxpayers are given several chances to file their ITR. However, they may be jailed if there are violations
+
+Tue, 12 Mar 2024 13:21:24 +0530
+### [Amid gang violence, Haiti PM Henry Ariel resigns: What happens next?](https://www.firstpost.com/explainers/gang-violence-haiti-pm-henry-ariel-resigns-what-next-13747968.html)
+
+Article found but Couldn't summarize 
+As gangs storm prisons and torch shops, leading to chaos, Haiti prime minister Henry Ariel has announced his resignation. Now an interim successor will be selected by the presidential council, which will have seven voting members. But will it bring peace to the violence-hit nation?
+
+Tue, 12 Mar 2024 11:45:14 +0530
+### [Mumbai coastal road now open: How it will benefit the city](https://www.firstpost.com/explainers/mumbai-coastal-road-now-open-how-it-will-benefit-the-city-13747854.html)
+
+Article found but Couldn't summarize 
+Maharastra CM Eknath Shinde inaugurated the south-bound section of the much-awaited Mumbai Coastal Road Project (MCRP) on Monday. The new route will benefit commuters, reduce congestion and air pollution. It will also boost the city's real estate industry
+
+Tue, 12 Mar 2024 11:42:03 +0530
+### [Will France legalise assisted dying? Which other European countries allow it?](https://www.firstpost.com/explainers/will-france-legalise-assisted-dying-which-other-european-countries-allow-it-13747899.html)
+
+Article found but Couldn't summarize 
+French president Emmanuel Macron has announced new legislation to legalise ‘aid in dying’. He stated that the new bill would only apply to adults suffering from an incurable illness who are expected to die in the ‘short or middle-term’ and are in ‘intractable’ physical or psychological pain
+
+Tue, 12 Mar 2024 10:10:53 +0530
+### [After four years, CAA implemented: What changes and what doesn’t?](https://www.firstpost.com/explainers/centre-citizenship-amendment-act-caa-implemented-rules-procedure-changes-13747867.html)
+
+Article found but Couldn't summarize 
+Four years after it was passed in Parliament, the Citizenship Amendment Act, 2019 (CAA) has been notified. The legislation eases the citizenship process for persecuted non-Muslim migrants from Pakistan, Bangladesh and Afghanistan. The Centre has clarified that the CAA doesn’t change anything for existing Indian citizens
+
+Tue, 12 Mar 2024 09:44:23 +0530
+### [Explained: How Haiti turned into a failed state](https://www.firstpost.com/explainers/explained-how-haiti-turned-into-a-failed-state-13747851.html)
+
+Article found but Couldn't summarize 
+Haiti’s gangs have carried out a series of coordinated attacks and also laid siege to the country’s port and airport. To bring this crisis to an end, the nation needs an elected government. But holding elections in this climate won’t be an easy task
+
+Tue, 12 Mar 2024 08:45:11 +0530
+### [Russia elections 2024: Key moments that define Vladimir Putin's presidency](https://www.firstpost.com/explainers/russia-elections-moments-define-vladimir-putin-presidency-13747749.html)
+
+Article found but Couldn't summarize 
+As Russian president Vladimir Putin looks set to clinch an unprecedented fifth term in office at elections this March, here are five key moments that help define his time in the Kremlin
+
 Tue, 12 Mar 2024 05:00:35 +0530
 ### [FirstUp: SBI to furnish electoral bond details & more… The big headlines](https://www.firstpost.com/explainers/firstup-sbi-to-furnish-electoral-bond-details-more-the-big-headlines-13747748.html)
 

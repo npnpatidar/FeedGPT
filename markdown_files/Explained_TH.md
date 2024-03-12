@@ -1,3 +1,15 @@
+Tue, 12 Mar 2024 14:10:00 +0530
+### [What is nuclear waste and what are the challenges of handling it? | Explained](https://www.thehindu.com/sci-tech/science/nuclear-waste-storage-reprocessing-explained/article67941766.ece)
+
+Article found but Couldn't summarize 
+A bird’s eye view of the production, handling, and storage of this difficult substance and their effects on policy and tariffs
+
+Tue, 12 Mar 2024 12:15:51 +0530
+### [RBI’s proposal for a disclosure framework to ascertain climate-related financial risks | Explained](https://www.thehindu.com/business/Economy/rbis-proposal-for-a-disclosure-framework-to-ascertain-climate-related-financial-risks-explained/article67938041.ece)
+
+Article found but Couldn't summarize 
+The Statement on Developmental and Regulatory Policies in February 2023 had recognised that climate change events and phenomena can translate into climate-related financial risks for regulated entities.
+
 Tue, 12 Mar 2024 06:00:00 +0530
 ### [A (very) basic guide to artificial intelligence](https://www.thehindu.com/sci-tech/science/artificial-intelligence-machine-learning-explainer/article67938899.ece)
 

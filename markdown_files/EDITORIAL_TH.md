@@ -1,3 +1,15 @@
+Wed, 13 Mar 2024 00:20:00 +0530
+### [A tale of two: On alliance-building by BJP and Congress](https://www.thehindu.com/opinion/editorial/a-tale-of-two-on-alliance-building-by-the-bjp-and-the-congress/article67943164.ece)
+
+Article found but Couldn't summarize 
+The BJP and the Congress have taken contrasting approaches to building alliances
+
+Wed, 13 Mar 2024 00:10:00 +0530
+### [Closed and insular: On Portugal’s parliamentary election results](https://www.thehindu.com/opinion/editorial/closed-and-insular-on-portugals-parliamentary-election-results/article67943216.ece)
+
+Article found but Couldn't summarize 
+Portugal is not immune to the rise of the far-right in Europe
+
 Tue, 12 Mar 2024 00:30:00 +0530
 ### [Names and bonds: On electoral bonds scheme, the Supreme Court, and the State Bank of India](https://www.thehindu.com/opinion/editorial/names-and-bonds-the-hindu-editorial-electoral-bonds-scheme-the-supreme-court-and-the-state-bank-of-india/article67939460.ece)
 

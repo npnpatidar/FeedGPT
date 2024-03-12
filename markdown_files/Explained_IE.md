@@ -1,3 +1,33 @@
+Tue, 12 Mar 2024 14:36:22 +0000
+### [CAA rules out: How Constituent Assembly debated the questions of citizenship, tying it to religion](https://indianexpress.com/article/explained/explained-history/caa-how-constituent-assembly-debated-citizenship-9210481/)
+
+Article found but Couldn't summarize
+
+Tue, 12 Mar 2024 14:04:58 +0000
+### [The CAA Rules, unpacked](https://indianexpress.com/article/explained/explained-law/caa-rules-eligibility-minorities-refugees-9210464/)
+
+Article found but Couldn't summarize
+
+Tue, 12 Mar 2024 11:42:31 +0000
+### [Explained: The Laken Riley murder case, which triggered a Trump-Biden war of words](https://indianexpress.com/article/explained/explained-global/laken-riley-murder-trump-biden-immigration-speech-9210046/)
+
+Article found but Couldn't summarize
+
+Tue, 12 Mar 2024 06:03:33 +0000
+### [Simplicity and modernisation: What the redeveloped Sabarmati Ashram seeks to achieve](https://indianexpress.com/article/explained/redeveloped-sabarmati-ashram-plan-modi-ahmedabad-9209231/)
+
+Article found but Couldn't summarize
+
+Tue, 12 Mar 2024 02:05:22 +0000
+### [One missile, many weapons: What makes the latest Agni-5 special](https://indianexpress.com/article/explained/one-missile-many-weapons-what-makes-the-latest-agni-v-special-9208831/)
+
+Article found but Couldn't summarize
+
+Tue, 12 Mar 2024 01:58:40 +0000
+### [CAA: Issues in the legal challenge to the law](https://indianexpress.com/article/explained/explained-law/caa-issues-in-the-legal-challenge-to-the-law-9208839/)
+
+Article found but Couldn't summarize
+
 Mon, 11 Mar 2024 23:03:11 +0000
 ### [Electoral bonds: ‘Matching’ code may be missing, but petitioners hope for ‘quid pro quo’ trends](https://indianexpress.com/article/explained/electoral-bonds-matching-code-may-be-missing-but-petitioners-hope-for-quid-pro-quo-trends-9208829/)
 

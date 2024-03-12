@@ -1,3 +1,57 @@
+Tue, 12 Mar 2024 19:11:37 +0530
+### [Why India is right to exclude Muslims from the Citizenship Amendment Act](https://www.firstpost.com/opinion/why-india-is-right-to-exclude-muslims-from-the-citizenship-amendment-act-13748203.html)
+
+Article found but Couldn't summarize 
+CAA is absolutely fine and effective as it stands. It is the first step to making Bharat the natural home for the persecuted people of all Indic religions
+
+Tue, 12 Mar 2024 18:19:48 +0530
+### [Vantage | What led to the state of anarchy in Haiti?](https://www.firstpost.com/opinion/vantage-what-led-to-the-state-of-anarchy-in-haiti-13748166.html)
+
+Article found but Couldn't summarize 
+The crisis engulfing Haiti serves as a stark reminder of the enduring legacy of colonialism and the perils of foreign intervention
+
+Tue, 12 Mar 2024 17:37:54 +0530
+### [Vantage | Why the Airbus CEO is issuing dire warnings about Trump and Russia](https://www.firstpost.com/opinion/vantage-why-the-airbus-ceo-is-issuing-dire-warnings-about-trump-and-russia-13748152.html)
+
+Article found but Couldn't summarize 
+While Guillaume Faury's comments may seem unconventional for a corporate leader, they underscore the complex intersection of business and geopolitics in today's interconnected world
+
+Tue, 12 Mar 2024 17:23:42 +0530
+### [Vantage | How unsuspecting job seekers are getting trapped in Ukraine war](https://www.firstpost.com/opinion/vantage-how-unsuspecting-job-seekers-are-getting-trapped-in-ukraine-war-13748131.html)
+
+Article found but Couldn't summarize 
+The situation in Ukraine continues to escalate, drawing in foreign fighters from across the globe
+
+Tue, 12 Mar 2024 16:23:54 +0530
+### [Why The Economist's analysis of North-South economic schism is frivolous rather than factual](https://www.firstpost.com/opinion/the-economist-analysis-of-north-south-india-narendra-modi-13748100.html)
+
+Article found but Couldn't summarize 
+The North-South divide in India's economic and political landscape is a complex issue that needs nuance and understanding rather than oversimplification and stereotypes
+
+Tue, 12 Mar 2024 15:49:21 +0530
+### [Vantage | Why Muizzu's moves aren't about strategic autonomy but poking India](https://www.firstpost.com/opinion/vantage-why-muizzus-moves-arent-about-strategic-autonomy-but-poking-india-13748087.html)
+
+Article found but Couldn't summarize 
+Despite claims of pursuing strategic autonomy, Muizzu's actions appear driven by a desire to challenge India rather than diversify alliances
+
+Tue, 12 Mar 2024 14:47:49 +0530
+### [What that flubbed photo reveals about the royals](https://www.firstpost.com/opinion/what-that-flubbed-photo-reveals-about-the-royals-13748042.html)
+
+Article found but Couldn't summarize 
+Actually, the Waleses, palace aides and their social media followers all appear to be suffering from VIPitis
+
+Tue, 12 Mar 2024 13:03:11 +0530
+### [Oscars 2024: Why Killers of the Flower Moon’s Lily Gladstone was more deserving than Emma Stone for best actress award](https://www.firstpost.com/entertainment/oscars-2024-why-killers-of-the-flower-moons-lily-gladstone-was-more-deserving-than-emma-stone-for-best-actress-award-13747974.html)
+
+Article found but Couldn't summarize 
+Oscars 2024: Decoding the performance of Lily Gladstone in Killers of the Flower Moon and why she was more deserving.
+
+Tue, 12 Mar 2024 11:41:14 +0530
+### [Agni V with MIRV gets India into global deterrence league](https://www.firstpost.com/opinion/agni-v-with-mirv-gets-india-into-global-deterrence-league-13747918.html)
+
+Article found but Couldn't summarize 
+The rise of new powers with advanced missile technology necessitates a continuous evolution of India's deterrence strategy
+
 Mon, 11 Mar 2024 19:36:33 +0530
 ### [With Taliban vying for legitimacy, Modi’s India is ensuring it doesn’t end up on the losing side this time](https://www.firstpost.com/opinion/with-taliban-vying-for-legitimacy-modis-india-is-ensuring-it-doesnt-end-up-on-the-losing-side-this-time-13747765.html)
 

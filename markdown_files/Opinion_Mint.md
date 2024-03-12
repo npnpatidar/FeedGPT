@@ -1,3 +1,57 @@
+Wed, 13 Mar 2024 00:20:21 +0530
+### [Policy coordination can boost e-commerce across the Asia Pacific region](https://www.livemint.com/opinion/online-views/policy-coordination-can-boost-e-commerce-across-the-asia-pacific-region-11710251217552.html)
+
+Article found but Couldn't summarize 
+Supported by a growing middle class, widespread internet-and-mobile adoption and a digital payments revolution, e-com is booming in the region. What we need now is an APAC forum led by India for regional cooperation and policy harmonization that would work to the benefit of sellers and buyers alike.
+
+Wed, 13 Mar 2024 00:15:16 +0530
+### [Generative AI could give advertising its worst ever crisis of credibility](https://www.livemint.com/opinion/online-views/generative-ai-could-give-advertising-its-worst-ever-crisis-of-credibility-11710251258237.html)
+
+Article found but Couldn't summarize 
+Deepfakes cloning real people are the latest in identity theft for ads. If this goes on, people may soon start rejecting all that they see as fake.
+
+Wed, 13 Mar 2024 00:11:11 +0530
+### [The Indian film industry needs to up its movie marketing game](https://www.livemint.com/opinion/online-views/the-indian-film-industry-needs-to-up-its-movie-marketing-game-11710251297208.html)
+
+Article found but Couldn't summarize 
+The casual approach in evidence is at odds with the film industry’s real business challenge. Until the industry addresses the leakage of marketing expenditure and embraces transparency, we’ll see good movies being let down by sloppy marketing.
+
+Tue, 12 Mar 2024 21:13:16 +0530
+### [Bitcoin’s bounce holds a lesson for central banks](https://www.livemint.com/opinion/online-views/bitcoins-bounce-holds-a-lesson-for-central-banks-11710257297144.html)
+
+Article found but Couldn't summarize 
+As its fresh peak defies crypto doomsayers, Bitcoin’s value as an artefact of the digital age lies in the mirror it has held up to the way monetary policy is usually conducted everywhere.
+
+Tue, 12 Mar 2024 15:23:20 +0530
+### [Farmers protest: Navigating MSP and food security dilemma](https://www.livemint.com/opinion/first-person/farmers-protest-navigating-msp-and-food-security-dilemma-11710160554532.html)
+
+Article found but Couldn't summarize 
+India should strive to lead the negotiations to raise trade and agriculture-related concerns of the global south at various WTO platforms
+
+Tue, 12 Mar 2024 12:02:32 +0530
+### [Spectrum auction prices are still too steep](https://www.livemint.com/opinion/online-views/spectrum-auction-prices-are-still-too-steep-11710224590083.html)
+
+Article found but Couldn't summarize 
+The DoT is refusing to align prices of 5G spectrum with market conditions and is instead trying to maximise revenue. This is no doubt a consequence of the so-called ‘2G scam’ campaign the BJP ran when it was in opposition.
+
+Tue, 12 Mar 2024 08:00:11 +0530
+### [Gender equality is an even bigger driver of economic progress than we thought](https://www.livemint.com/opinion/online-views/gender-equality-is-an-even-bigger-driver-of-economic-progress-than-we-thought-11710167437553.html)
+
+Article found but Couldn't summarize 
+Several studies confirm that it holds a vital key to prosperity. Failing to achieve it would represent a massive opportunity loss.
+
+Tue, 12 Mar 2024 08:00:09 +0530
+### [SC's rebuke: SBI is in hot water](https://www.livemint.com/opinion/online-views/scs-rebuke-sbi-is-in-hot-water-11710174115710.html)
+
+Article found but Couldn't summarize 
+The Supreme Court pulled up State Bank of India for its delay in disclosing details of electoral bonds. Will the scheme’s promised secrecy survive?
+
+Tue, 12 Mar 2024 08:00:09 +0530
+### [An election without opposition unity will be a no-contest](https://www.livemint.com/opinion/online-views/an-election-without-opposition-unity-will-be-a-nocontest-11710167384342.html)
+
+Article found but Couldn't summarize 
+The Trinamool decision to fight Lok Sabha elections solo in West Bengal reflects disunity within the INDIA bloc. For the opposition to put up a credible fight against the BJP, it must try a whole lot harder.
+
 Tue, 12 Mar 2024 00:05:55 +0530
 ### [Mutual funds versus bank deposits? Dispel that myth.](https://www.livemint.com/opinion/online-views/mutual-funds-versus-bank-deposits-dispel-that-myth-11710167530548.html)
 
