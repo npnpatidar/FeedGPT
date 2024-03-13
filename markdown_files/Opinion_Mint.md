@@ -1,3 +1,45 @@
+Wed, 13 Mar 2024 23:24:06 +0530
+### [Bengaluru’s water crisis may reflect an even larger one](https://www.livemint.com/opinion/online-views/bengalurus-water-crisis-may-reflect-an-even-larger-one-11710336758681.html)
+
+Article found but Couldn't summarize 
+What India’s technology hub seems to lack is the collective will to act in favour of the larger good.
+
+Wed, 13 Mar 2024 23:20:04 +0530
+### [India should prepare itself for a dynamic employment scenario](https://www.livemint.com/opinion/online-views/india-should-prepare-itself-for-a-dynamic-employment-scenario-11710334814272.html)
+
+Article found but Couldn't summarize 
+Our policy emphasis must go beyond job creation to encompass job preparedness for a demographic dividend to be realized.
+
+Wed, 13 Mar 2024 23:17:33 +0530
+### [Success in solar energy may be a curse for Chinese panel manufacturers](https://www.livemint.com/opinion/online-views/success-in-solar-energy-may-be-a-curse-for-chinese-panel-manufacturers-11710334933425.html)
+
+Article found but Couldn't summarize 
+A tidal wave of investment in solar panels has led to a market glut, with prices sliding. Manufacturers are stricken but it’ll speed up the race for clean energy.
+
+Wed, 13 Mar 2024 23:14:36 +0530
+### [13th Ministerial Conference of the WTO: Multiple narratives need not perplex us](https://www.livemint.com/opinion/online-views/13th-ministerial-conference-of-the-wto-multiple-narratives-need-not-perplex-us-11710334977149.html)
+
+Article found but Couldn't summarize 
+What may seem like overwrought negotiations on world trade may yet yield clarity. We need progress on e-commerce, food security, fisheries and dispute settlement, among other issues.
+
+Wed, 13 Mar 2024 08:00:13 +0530
+### [The CAA perplexity: Religion as a citizenship criterion](https://www.livemint.com/opinion/online-views/the-caa-perplexity-religion-as-a-citizenship-criterion-11710257014432.html)
+
+Article found but Couldn't summarize 
+The Indian government issued rules on Monday for CAA applications, but the judiciary is still to look into whether this controversial policy passes Constitutional muster
+
+Wed, 13 Mar 2024 08:00:12 +0530
+### [Much more private credit will be needed to feed India’s rapid economic expansion](https://www.livemint.com/opinion/online-views/much-more-private-credit-will-be-needed-to-feed-india-s-rapid-economic-expansion-11710257348682.html)
+
+Article found but Couldn't summarize 
+We must develop these sources because banks alone can’t satisfy India’s fast-growing appetite for credit.
+
+Wed, 13 Mar 2024 08:00:12 +0530
+### [Fears of technological change are vastly exaggerated](https://www.livemint.com/opinion/online-views/fears-of-technological-change-are-vastly-exaggerated-11710257386158.html)
+
+Article found but Couldn't summarize 
+A look at the past two centuries shows that we’ve always swung from technophobia to acceptance—and we will probably do likewise with AI.
+
 Wed, 13 Mar 2024 00:20:21 +0530
 ### [Policy coordination can boost e-commerce across the Asia Pacific region](https://www.livemint.com/opinion/online-views/policy-coordination-can-boost-e-commerce-across-the-asia-pacific-region-11710251217552.html)
 
@@ -87,6 +129,12 @@ Mon, 11 Mar 2024 14:17:24 +0530
 
 Article found but Couldn't summarize 
 While women might be able to enter the workforce at the same footing as men, the probability of them lasting longer in the workforce is lower
+
+Mon, 11 Mar 2024 08:00:04 +0530
+### [Geopolitical power is now seen to flow from the pins of microchips](https://www.livemint.com/opinion/online-views/geopolitical-power-is-now-seen-to-flow-from-the-pins-of-microchips-11710071057515.html)
+
+Article found but Couldn't summarize 
+The China-US wrangle over semiconductors highlights a world in which India is not badly placed.
 
 Mon, 11 Mar 2024 00:29:15 +0530
 ### [We need to make freedom of speech low-brow in India](https://www.livemint.com/opinion/online-views/we-need-to-make-freedom-of-speech-low-brow-in-india-11710071107607.html)

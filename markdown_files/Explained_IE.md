@@ -1,3 +1,43 @@
+Wed, 13 Mar 2024 23:00:48 +0000
+### [Financial implications of Congress Nari Nyay promises](https://indianexpress.com/article/explained/financial-implications-of-congress-nari-nyay-promises-9213129/)
+
+Article found but Couldn't summarize
+
+Wed, 13 Mar 2024 13:58:28 +0000
+### [Meet Devin AI, the world’s ‘first fully autonomous’ AI software engineer](https://indianexpress.com/article/explained/explained-sci-tech/meet-devin-ai-first-autonomous-ai-software-engineer-9212537/)
+
+Article found but Couldn't summarize
+
+Wed, 13 Mar 2024 13:55:04 +0000
+### [What makes Ludwig Göransson, the Oscar winner for ‘Oppenheimer’, a distinctive composer of our time](https://indianexpress.com/article/explained/explained-culture/ludwig-goransson-oscars-oppenheimer-music-style-9212290/)
+
+Article found but Couldn't summarize
+
+Wed, 13 Mar 2024 13:40:49 +0000
+### [Explained: India’s first indigenous Fast Breeder Reactor begins ‘core loading’, why it matters](https://indianexpress.com/article/explained/india-first-indigenous-fast-breeder-reactor-kalpakkam-nuclear-9212492/)
+
+Article found but Couldn't summarize
+
+Wed, 13 Mar 2024 10:06:50 +0000
+### [Why Karnataka has banned food colouring used in gobhi manchurian and cotton candy](https://indianexpress.com/article/explained/karnataka-banned-food-colouring-gobhi-manchurian-cotton-candy-9212010/)
+
+Article found but Couldn't summarize
+
+Wed, 13 Mar 2024 08:35:18 +0000
+### [Tejas pilot ejects before crash: How ejection seats in military aircraft work](https://indianexpress.com/article/explained/explained-sci-tech/tejas-pilot-eject-crash-ejection-seats-military-aircraft-work-9211841/)
+
+Article found but Couldn't summarize
+
+Wed, 13 Mar 2024 06:54:30 +0000
+### [Is there a bubble in small stocks? What should investors do?](https://indianexpress.com/article/explained/explained-economics/small-stocks-mid-caps-bubble-investors-markets-9211542/)
+
+Article found but Couldn't summarize
+
+Wed, 13 Mar 2024 01:24:20 +0000
+### [Meet Hyodol, an AI social robot to help senior citizens beat loneliness](https://indianexpress.com/article/explained/explained-sci-tech/hyodol-an-ai-robot-to-help-senior-citizens-beat-loneliness-9210716/)
+
+Article found but Couldn't summarize
+
 Tue, 12 Mar 2024 14:36:22 +0000
 ### [CAA rules out: How Constituent Assembly debated the questions of citizenship, tying it to religion](https://indianexpress.com/article/explained/explained-history/caa-how-constituent-assembly-debated-citizenship-9210481/)
 

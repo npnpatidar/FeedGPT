@@ -1,3 +1,69 @@
+Wed, 13 Mar 2024 20:23:41 +0530
+### [‘Sephora kids’: Why obsession of tweens with skincare is concerning](https://www.firstpost.com/explainers/sephora-kids-why-obsession-of-tweens-with-skincare-is-concerning-13748500.html)
+
+Article found but Couldn't summarize 
+A new fad ‘Sephora kids’ has gained traction on social media. It shows children as young as 10 swarming expensive beauty stores like Sephora and sharing videos showing off their long skin-care routines. Experts are concerned since such products aren’t designed for kids and can be harmful to them
+
+Wed, 13 Mar 2024 19:44:43 +0530
+### [Opinion Poll: How Modi, jobs and inflation will be the key factors for 2024](https://www.firstpost.com/explainers/news18-mega-opinion-poll-modi-jobs-inflation-key-factors-2024-lok-sabha-elections-13748504.html)
+
+Article found but Couldn't summarize 
+Ahead of the Lok Sabha elections, News18 has conducted a mega opinion poll and the results are in. The survey reveals that a whopping 80 per cent of respondents are ‘somewhat to very satisfied’ with the ruling government and PM Modi. What else does the poll reveal?
+
+Wed, 13 Mar 2024 17:54:14 +0530
+### [Files in pen drive, password in envelope: How SBI submitted data on electoral bonds to EC](https://www.firstpost.com/explainers/supreme-court-electoral-bonds-case-sbi-submits-data-to-ec-pen-drive-password-13748486.html)
+
+Article found but Couldn't summarize 
+Sticking to the Supreme Court deadline, the State Bank of India shared data on electoral bonds on Tuesday. The information collated in two password-protected PDF files was stored in a pen drive. An envelope containing the passwords was handed over to the Election Commission
+
+Wed, 13 Mar 2024 17:22:46 +0530
+### [Meet Hyodol, the AI doll that helps old adults beat loneliness in South Korea](https://www.firstpost.com/explainers/meet-hyodol-the-ai-doll-that-helps-old-adults-beat-loneliness-in-south-korea-13748442.html)
+
+Article found but Couldn't summarize 
+To beat loneliness, a South Korean company has created a robot that uses Artificial Intelligence (AI) to interact with elders suffering from dementia. The doll’s sophisticated language-processing skills, emotional recognition, talking, and music-playing capabilities help in providing lonely people with a sense of companionship
+
+Wed, 13 Mar 2024 16:24:01 +0530
+### [India wants to ban Pit bulls, Rottweilers: How dangerous are these dog breeds?](https://www.firstpost.com/explainers/india-wants-to-ban-pit-bulls-rottweilers-how-dangerous-are-these-dog-breeds-13748329.html)
+
+Article found but Couldn't summarize 
+There has been a rise in attacks on people by pet dogs in India. Now the Centre has sought a ban on the import, breeding and sale of ‘ferocious’ canine breeds – the Pit bull, Rottweiler, Terrier, Wolf Dog and Mastiff. These, it says, cannot be kept as pets or for other uses because they represent a ‘danger to human life’
+
+Wed, 13 Mar 2024 15:15:05 +0530
+### [Is China falling out of love with Apple and Tesla?](https://www.firstpost.com/explainers/china-iphone-apple-tesla-sales-drop-huawei-byd-domestic-brands-grow-13748391.html)
+
+Article found but Couldn't summarize 
+China is Apple and Tesla’s largest market outside the US. But the American giants have reasons to worry, as the Communist nation shifts to local brands. Chinese consumers are ditching the iPhone for homegrown options like Huawei and the EV maker is seeing a drop in sales
+
+Wed, 13 Mar 2024 14:11:21 +0530
+### [Nepal got rid of monarchy 16 years ago. Why do they want it back now?](https://www.firstpost.com/explainers/nepal-monarchy-16-years-want-it-back-now-13748351.html)
+
+Article found but Couldn't summarize 
+Thousands of Nepalese are protesting in Kathmandu, calling for the republic to be abolished. Royalist groups accuse the country's major political parties of corruption and failed governance and say people are frustrated with politicians
+
+Wed, 13 Mar 2024 13:24:33 +0530
+### [California Girls: Inside the women's gang that stole $8 million in cosmetics across US](https://www.firstpost.com/explainers/michelle-mack-california-girls-women-gang-8-million-in-cosmetics-us-13748378.html)
+
+Article found but Couldn't summarize 
+Michelle Mack, a 53-year-old mother of three, has been arrested in the US for masterminding a gang known as California Girls. Investigations reveal that Mack would recruit women to steal from different stores across the US and then sell the products online through Amazon, earning $8 million since 2012
+
+Wed, 13 Mar 2024 11:57:23 +0530
+### [Biden classified documents case: 6 key takeaways from Robert Hur's testimony](https://www.firstpost.com/explainers/joe-biden-classified-documents-takeaways-robert-hur-testimony-13748319.html)
+
+Article found but Couldn't summarize 
+The hearing with special counsel Robert Hur, who investigated President Joe Biden's handling of classified information, broke little legal or political ground. But it delivered plenty of talk about the president's memory, about the laws surrounding classified material and, lots of discussion about Donald Trump
+
+Wed, 13 Mar 2024 10:55:26 +0530
+### [US will not ban TikTok if it finds a new owner: Why is that easier said than done?](https://www.firstpost.com/explainers/us-tiktok-ban-new-owner-challenges-13748293.html)
+
+Article found but Couldn't summarize 
+House Republicans are moving ahead with a bill that would require Chinese company ByteDance to sell TikTok or face a ban in the United States even as former President Donald Trump is voicing opposition to the effort
+
+Wed, 13 Mar 2024 10:05:27 +0530
+### [How Canada’s charge of India’s role in Nijjar killing has fallen flat](https://www.firstpost.com/explainers/how-canadas-charge-of-indias-role-in-nijjar-killing-has-fallen-flat-13748283.html)
+
+Article found but Couldn't summarize 
+Nearly six months after Canada’s prime minister Justin Trudeau alleged that India had a role in the killing of Hardeep Singh Nijjar, a ‘Five Eyes’ partner is raising doubts about the claim. Winston Peters, the deputy prime minister of New Zealand, has questioned the lack of evidence of New Delhi’s involvement in the matter
+
 Wed, 13 Mar 2024 05:00:37 +0530
 ### [FirstUp: Modi to lay foundation stone of chip plants in Gujarat, Nepal PM seeks 3rd vote of confidence... Big news today](https://www.firstpost.com/explainers/firstup-modi-to-lay-foundation-stone-of-chip-plants-in-gujarat-nepal-pm-seeks-3rd-vote-of-confidence-big-news-today-13748135.html)
 

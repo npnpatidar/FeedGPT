@@ -1,3 +1,9 @@
+Wed, 13 Mar 2024 00:30:00 +0530
+### [A mature Kuldeep Yadav was the quiet success of the India-England Test series](https://www.thehindu.com/opinion/columns/a-mature-kuldeep-yadav-has-been-the-quiet-success-of-the-series/article67944430.ece)
+
+Article found but Couldn't summarize 
+Kuldeep Yadav made his mark over a decade ago and now, as he says, he has begun to understand his bowling. Wrist spin is a difficult art, one of the toughest in the game.
+
 Wed, 06 Mar 2024 00:44:00 +0530
 ### [Ashwin, a modern master with a positive mindset](https://www.thehindu.com/opinion/columns/ashwin-a-modern-master-with-a-positive-mindset/article67918489.ece)
 

@@ -1,3 +1,63 @@
+Wed, 13 Mar 2024 18:25:22 +0530
+### [Vantage | Why Nepal doesn't need to replace its democracy with monarchy](https://www.firstpost.com/opinion/vantage-why-nepal-doesnt-need-to-replace-its-democracy-with-monarchy-13748473.html)
+
+Article found but Couldn't summarize 
+As Nepal grapples with this existential question, the imperative remains clear: to address the root causes of dissatisfaction within the democratic framework rather than resort to a regressive solution
+
+Wed, 13 Mar 2024 17:27:20 +0530
+### [Double Income No Kids: A cause for alarm rather than a sign of liberal feminism](https://www.firstpost.com/opinion/double-income-no-kids-a-cause-for-alarm-rather-than-a-sign-of-liberal-feminism-13748466.html)
+
+Article found but Couldn't summarize 
+The rising prevalence of the DINK phenomenon, while seemingly indicative of liberal feminist ideals, is in fact a cause for concern due to its potential implications for societal structures and economic stability
+
+Wed, 13 Mar 2024 17:09:47 +0530
+### [Head-on | CAA is anti-persecution, not anti-Muslim](https://www.firstpost.com/opinion/head-on-caa-is-anti-persecution-not-anti-muslim-13748472.html)
+
+Article found but Couldn't summarize 
+IUML is also wrong to say that the CAA discriminates against Indian Muslims. It does not. In fact, the CAA has no bearing at all on Indian Muslims
+
+Wed, 13 Mar 2024 16:16:26 +0530
+### [Vantage | What America's $7.3 tn budget says about Biden's politics](https://www.firstpost.com/opinion/vantage-what-americas-7-3-tn-budget-says-about-bidens-politics-13748430.html)
+
+Article found but Couldn't summarize 
+As Biden seeks re-election, he confronts a challenging political landscape
+
+Wed, 13 Mar 2024 15:46:18 +0530
+### [Crime and cupid: Intriguing romance of criminals](https://www.firstpost.com/opinion/crime-and-cupid-intriguing-romance-of-criminals-13748459.html)
+
+Article found but Couldn't summarize 
+As distasteful as this phenomenon might be, there are many such couples in history, their infatuation and intimacy ignited by a common passion for criminal behaviour
+
+Wed, 13 Mar 2024 15:09:29 +0530
+### [Vantage | What Boeing's troubles mean for India's aviation sector](https://www.firstpost.com/opinion/vantage-what-boeings-troubles-mean-for-indias-aviation-sector-13748423.html)
+
+Article found but Couldn't summarize 
+As Boeing grapples with its myriad challenges, the implications extend far beyond its own walls, underscoring the fragility of an industry built on trust and reliability
+
+Wed, 13 Mar 2024 13:56:02 +0530
+### [Vantage | Was China snooping on India's missile test?](https://www.firstpost.com/opinion/vantage-was-china-snooping-on-indias-missile-test-13748402.html)
+
+Article found but Couldn't summarize 
+India's response to China's espionage activities remains vigilant as evidenced by its withdrawal and reissuance of no-fly zone notices to safeguard its missile tests
+
+Wed, 13 Mar 2024 13:25:47 +0530
+### [3 things to watch for in Russia’s presidential election – other than Putin’s win that is](https://www.firstpost.com/opinion/3-things-to-watch-for-in-russias-presidential-election-other-than-putins-win-that-is-13748350.html)
+
+Article found but Couldn't summarize 
+The 2024 election is taking place during the largest interstate conflict to take place this century
+
+Wed, 13 Mar 2024 12:46:50 +0530
+### [CAA is not against Indian Muslims, but its opposition clearly smacks of anti-Dalit prejudice](https://www.firstpost.com/opinion/caa-is-not-against-indian-muslims-but-its-opposition-clearly-smacks-of-anti-dalit-prejudice-13748365.html)
+
+Article found but Couldn't summarize 
+Anti-CAA-ism is against the promises of Gandhi and Nehru. It is against the ideals of Ambedkar and is inherently anti-Dalit in orientation
+
+Wed, 13 Mar 2024 08:52:15 +0530
+### [Why has Ashoka lost out to Ayan and Ahaan?](https://www.firstpost.com/opinion/why-has-ashoka-lost-out-to-ayan-and-ahaan-13748253.html)
+
+Article found but Couldn't summarize 
+Going by William Dalrymple's thumbs-up to him in a recent podcast, Ashoka should have transitioned easily into the 21st century’s A-list but he is fading out just as he did 2,300 years ago
+
 Tue, 12 Mar 2024 19:11:37 +0530
 ### [Why India is right to exclude Muslims from the Citizenship Amendment Act](https://www.firstpost.com/opinion/why-india-is-right-to-exclude-muslims-from-the-citizenship-amendment-act-13748203.html)
 

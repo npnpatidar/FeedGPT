@@ -1,3 +1,15 @@
+Wed, 13 Mar 2024 22:39:39 +0530
+### [On judges and bureaucrats joining politics | Explained](https://www.thehindu.com/news/national/on-judges-and-bureaucrats-joining-politics-explained/article67948185.ece)
+
+Article found but Couldn't summarize 
+What are the restrictions on judges and senior government officials with respect to their employment when it comes to other posts within the government or in the private sphere? Can a former judge join a political party and contest elections?
+
+Wed, 13 Mar 2024 15:30:00 +0530
+### [AlphaGeometry and the threat of AI’s takeover of mathematics | Explained](https://www.thehindu.com/sci-tech/science/alphageometry-threat-artificial-intelligence-takeover-mathematics/article67946253.ece)
+
+Article found but Couldn't summarize 
+The Google DeepMind program can produce auxiliary constructions for geometry problems with no prior human demonstration
+
 Tue, 12 Mar 2024 14:10:00 +0530
 ### [What is nuclear waste and what are the challenges of handling it? | Explained](https://www.thehindu.com/sci-tech/science/nuclear-waste-storage-reprocessing-explained/article67941766.ece)
 

@@ -1,3 +1,15 @@
+Thu, 14 Mar 2024 00:20:00 +0530
+### [Wrong messaging: On the Citizenship (Amendment) Act, 2019](https://www.thehindu.com/opinion/editorial/wrong-messaging-on-the-citizenship-amendment-act-2019/article67947078.ece)
+
+Article found but Couldn't summarize 
+The underpinning of religion in the implementation of CAA is problematic
+
+Thu, 14 Mar 2024 00:10:00 +0530
+### [A fresh stance: On India and the European Free Trade Association deal](https://www.thehindu.com/opinion/editorial/a-fresh-stance-on-india-and-the-european-free-trade-association-deal/article67947102.ece)
+
+Article found but Couldn't summarize 
+India’s free trade pact with four EU nations matters even if gains are limited
+
 Wed, 13 Mar 2024 00:20:00 +0530
 ### [A tale of two: On alliance-building by BJP and Congress](https://www.thehindu.com/opinion/editorial/a-tale-of-two-on-alliance-building-by-the-bjp-and-the-congress/article67943164.ece)
 
