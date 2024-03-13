@@ -1,3 +1,9 @@
+Wed, 13 Mar 2024 05:00:37 +0530
+### [FirstUp: Modi to lay foundation stone of chip plants in Gujarat, Nepal PM seeks 3rd vote of confidence... Big news today](https://www.firstpost.com/explainers/firstup-modi-to-lay-foundation-stone-of-chip-plants-in-gujarat-nepal-pm-seeks-3rd-vote-of-confidence-big-news-today-13748135.html)
+
+Article found but Couldn't summarize 
+PM Narendra Modi will lay the foundation stone of three semiconductor projects worth  Rs 1.25 lakh crore in Gujarat via video conferencing. Nepal's PM Pushpa Kamal Dahal 'Prachanda' is seeking to hold his third vote of confidence in Parliament by today. Here’s what is expected today
+
 Tue, 12 Mar 2024 20:43:41 +0530
 ### [The Taylor Swift effect: How vinyl records returned to UK inflation basket after 32 years](https://www.firstpost.com/explainers/vinyl-records-uk-inflation-basket-taylor-swift-13748221.html)
 
