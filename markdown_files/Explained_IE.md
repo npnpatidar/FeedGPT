@@ -1,3 +1,33 @@
+Thu, 14 Mar 2024 14:07:37 +0000
+### [Mumbai Central station could be named after Nana Jagannath Shankarseth: who was this social reformer celebrated as ‘architect’ of Mumbai?](https://indianexpress.com/article/explained/mumbai-central-named-after-nana-jagannath-shankarseth-who-was-he-9214447/)
+
+Article found but Couldn't summarize
+
+Thu, 14 Mar 2024 14:00:43 +0000
+### [Is One Nation, One Election unconstitutional? How Kovind report addresses concerns](https://indianexpress.com/article/explained/one-nation-one-election-kovind-report-concerns-9214446/)
+
+Article found but Couldn't summarize
+
+Thu, 14 Mar 2024 13:00:20 +0000
+### [Einstein’s birth anniversary: When the scientist wrote to Nehru for support on Israel, and he refused](https://indianexpress.com/article/explained/explained-history/when-einstein-wrote-to-nehru-israel-9214388/)
+
+Article found but Couldn't summarize
+
+Thu, 14 Mar 2024 09:35:15 +0000
+### [BJP and simultaneous elections: An idea the party first proposed in 1984](https://indianexpress.com/article/explained/bjp-and-simultaneous-elections-an-idea-the-party-first-proposed-in-1984-9213970/)
+
+Article found but Couldn't summarize
+
+Thu, 14 Mar 2024 08:09:14 +0000
+### [One Nation, One Election: Highlights of the Kovind panel’s recommendations](https://indianexpress.com/article/explained/one-nation-one-election-kovind-panel-faq-9213797/)
+
+Article found but Couldn't summarize
+
+Thu, 14 Mar 2024 01:00:32 +0000
+### [Pi Day: Behind the world’s most famous mathematical constant](https://indianexpress.com/article/explained/pi-day-mathematical-constant-9212751/)
+
+Article found but Couldn't summarize
+
 Wed, 13 Mar 2024 23:00:48 +0000
 ### [Financial implications of Congress Nari Nyay promises](https://indianexpress.com/article/explained/financial-implications-of-congress-nari-nyay-promises-9213129/)
 

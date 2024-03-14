@@ -1,3 +1,57 @@
+Fri, 15 Mar 2024 00:40:21 +0530
+### [The proliferation of EVs could make decarbonization harder to achieve](https://www.livemint.com/opinion/online-views/the-proliferation-of-evs-could-make-decarbonization-harder-to-achieve-11710430010346.html)
+
+Article found but Couldn't summarize 
+EVs look set to use more power than the country can clean. To solve this problem, electric cars will require solar roofs so that they can charge while parked in the sun, even as we push for a cleaner electricity grid, use battery swapping to minimize surge charging and encourage public transport.
+
+Fri, 15 Mar 2024 00:36:53 +0530
+### [Free trade has two faces and the one offering harmony must prevail](https://www.livemint.com/opinion/online-views/free-trade-has-two-faces-and-the-one-offering-harmony-must-prevail-11710416186596.html)
+
+Article found but Couldn't summarize 
+It’s a force for good if we make proper use of it for common prosperity. There’s still hope. We must democratize trade and not let narrow interests dictate its patterns.
+
+Fri, 15 Mar 2024 00:32:02 +0530
+### [OpenAI can win back the trust it lost by being more transparent](https://www.livemint.com/opinion/online-views/openai-can-win-back-the-trust-it-lost-by-being-more-transparent-11710416248945.html)
+
+Article found but Couldn't summarize 
+A company making powerful AI tools needs to be more open about their design and innards. We need to know more about their training data sets, creator consent policies and much else.
+
+Fri, 15 Mar 2024 00:29:16 +0530
+### [The fallacy of crypto as an alternative to fiat currency](https://www.livemint.com/opinion/online-views/the-fallacy-of-crypto-as-an-alternative-to-fiat-currency-11710416306055.html)
+
+Article found but Couldn't summarize 
+The notion of cryptocurrency offering a solution to currency debasement is misplaced. As its volatility has shown, it is neither a useful store of value nor a reliable medium of exchange.
+
+Thu, 14 Mar 2024 21:43:37 +0530
+### [The things a few calculations tell us](https://www.livemint.com/opinion/columns/the-things-a-few-calculations-tell-us-11710405723046.html)
+
+Article found but Couldn't summarize 
+State Bank of India and Brihanmumbai Municipal Corporation face criticism for delays in tasks, like submitting records and building a bridge, due to seemingly manageable challenges.
+
+Thu, 14 Mar 2024 16:35:00 +0530
+### [March 2024 treating your portfolio badly? Read this…](https://www.livemint.com/opinion/columns/march-2024-treating-your-portfolio-badly-read-this-11710410955780.html)
+
+Article found but Couldn't summarize 
+A well-allocated basket of assets ensures that you are not riding a roller coaster and instead you are gradually moving up in life, as steadily as possible
+
+Thu, 14 Mar 2024 08:00:15 +0530
+### [The Agni-5 trial has strengthened India’s strategic deterrence](https://www.livemint.com/opinion/online-views/the-agni-5-trial-has-strengthened-india-s-strategic-deterrence-11710336583589.html)
+
+Article found but Couldn't summarize 
+Its success places India in the league of a few countries with this special missile technology and pushes up the cost that an adversary would have to bear for a military misadventure.
+
+Thu, 14 Mar 2024 08:00:14 +0530
+### [We could make up for the covid disruption of schooling if we try](https://www.livemint.com/opinion/online-views/we-could-make-up-for-the-covid-disruption-of-schooling-if-we-try-11710336682627.html)
+
+Article found but Couldn't summarize 
+India needn’t have an educationally lost generation but it requires us to acknowledge the problem. Some states get it, others don’t.
+
+Thu, 14 Mar 2024 08:00:14 +0530
+### [Stock deflation: Sebi’s role](https://www.livemint.com/opinion/quick-edit/stock-deflation-sebi-s-role-11710346561142.html)
+
+Article found but Couldn't summarize 
+The Indian stock market is undergoing some turbulence with mid- and small-cap stocks falling sharply amid talk of a bubble. It’s earnings that must drive prices, not how much money there is in pursuit.
+
 Wed, 13 Mar 2024 23:24:06 +0530
 ### [Bengaluru’s water crisis may reflect an even larger one](https://www.livemint.com/opinion/online-views/bengalurus-water-crisis-may-reflect-an-even-larger-one-11710336758681.html)
 

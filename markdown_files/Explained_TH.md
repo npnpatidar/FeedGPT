@@ -1,3 +1,15 @@
+Thu, 14 Mar 2024 22:52:56 +0530
+### [Citizenship Amendment Act: Legal issues and status of judicial proceedings | Explained](https://www.thehindu.com/incoming/caa-legal-issues-and-status-of-judicial-proceedings-explained/article67941750.ece)
+
+Article found but Couldn't summarize 
+With the Centre notifying the rules for the implementation of the CAA four years after its enactment, The Hindu revisits the challenge to the law, the status of proceedings before the Supreme Court and the expected changes.
+
+Thu, 14 Mar 2024 16:06:31 +0530
+### [Who gets to host a COP, and does it matter? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/who-gets-to-host-a-cop-and-does-it-matter-explained/article67788243.ece)
+
+Article found but Couldn't summarize 
+How are COP hosts decided? Do hosts substantially shape agenda? What do previous COPs show about location impacting negotiations/outcomes?
+
 Wed, 13 Mar 2024 22:39:39 +0530
 ### [On judges and bureaucrats joining politics | Explained](https://www.thehindu.com/news/national/on-judges-and-bureaucrats-joining-politics-explained/article67948185.ece)
 

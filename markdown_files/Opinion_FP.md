@@ -1,3 +1,81 @@
+Thu, 14 Mar 2024 20:25:29 +0530
+### [A deepfake of Firstpost's Vantage doing rounds on social media](https://www.firstpost.com/opinion/a-deepfake-of-firstposts-vantage-doing-rounds-on-social-media-13748896.html)
+
+Article found but Couldn't summarize 
+In the absence of a panacea for the deepfake dilemma, individual vigilance remains paramount
+
+Thu, 14 Mar 2024 19:26:51 +0530
+### [Vantage | Why Pakistan's 'Mr 10%' giving up his salary doesn't matter](https://www.firstpost.com/opinion/vantage-why-pakistans-mr-10-giving-up-his-salary-doesnt-matter-13748915.html)
+
+Article found but Couldn't summarize 
+Pakistan’s new president, Asif Ali Zardari, is one of the richest men in Pakistan. He’s worth around 1.8 billion dollars, and a lot of that wealth is from corruption
+
+Thu, 14 Mar 2024 18:46:13 +0530
+### [Vantage | Why becoming a chip power is India's strategic necessity](https://www.firstpost.com/opinion/vantage-why-becoming-a-chip-power-is-indias-strategic-necessity-13748909.html)
+
+Article found but Couldn't summarize 
+India missed the bus during the previous industrial revolutions and a repeat must be avoided
+
+Thu, 14 Mar 2024 18:19:53 +0530
+### [Vantage | Who is gang leader 'Barbecue' who wants to rule Haiti](https://www.firstpost.com/opinion/vantage-who-is-gang-leader-barbecue-who-wants-to-rule-haiti-13748891.html)
+
+Article found but Couldn't summarize 
+As Haiti braces for what comes next, the fate of Barbecue's ambitions remains uncertain
+
+Thu, 14 Mar 2024 17:49:34 +0530
+### [Vantage | Why loan sharks like China are Africa's new colonisers](https://www.firstpost.com/opinion/vantage-why-loan-sharks-like-china-are-africas-new-colonisers-13748883.html)
+
+Article found but Couldn't summarize 
+African nations must remain vigilant and assertive in safeguarding their interests against predatory lending practices
+
+Thu, 14 Mar 2024 17:45:31 +0530
+### [Gaza on the brink as the war enters attrition phase](https://www.firstpost.com/opinion/gaza-on-the-brink-as-the-war-enters-attrition-phase-13748879.html)
+
+Article found but Couldn't summarize 
+As the war progresses in the sixth month, there are fears of hardening positions, prolonged conflict, and continued death and destruction
+
+Thu, 14 Mar 2024 17:10:03 +0530
+### [Electoral bonds: Why SC order to SBI to disclose details could have been probing](https://www.firstpost.com/opinion/electoral-bonds-why-sc-order-to-sbi-to-disclose-details-could-have-been-probing-13748796.html)
+
+Article found but Couldn't summarize 
+While the beneficiary political parties are happy, the original purchaser would be happy that the anonymity promised by the scheme at the end of the day is still in tact
+
+Thu, 14 Mar 2024 15:45:29 +0530
+### [Maldives: Muizzu can learn from Pakistan about hazards of China ties](https://www.firstpost.com/opinion/maldives-muizzu-can-learn-from-pakistan-about-hazards-of-china-ties-13748793.html)
+
+Article found but Couldn't summarize 
+If Muizzu were to learn from the experience of Pakistan especially, its anti-India rhetoric and pro-China policies has not taken the nation anywhere, other than to the economic mess that the nation is now
+
+Thu, 14 Mar 2024 15:20:46 +0530
+### [Vantage | Should you be worried about India's stock market crash?](https://www.firstpost.com/opinion/vantage-should-you-be-worried-about-indias-stock-market-crash-13748722.html)
+
+Article found but Couldn't summarize 
+There is no major cause for concern; market fluctuations do not impact India's growth story
+
+Thu, 14 Mar 2024 14:48:38 +0530
+### [Shri Ram belongs to one and all](https://www.firstpost.com/opinion/shri-ram-belongs-to-one-and-all-13748762.html)
+
+Article found but Couldn't summarize 
+Shri Ram, who stands for cosmic order, decorum and right conduct, would never like his revered name to be used to create violent fissures in society
+
+Thu, 14 Mar 2024 13:26:44 +0530
+### [Future of free speech in India: However great the pressures may be, it will survive](https://www.firstpost.com/opinion/future-of-free-speech-in-india-however-great-the-pressures-may-be-it-will-survive-13748703.html)
+
+Article found but Couldn't summarize 
+Free speech will survive ultimately, but it is in jeopardy today because of the intrusive all-pervasive surveillance machinery of a ubiquitous state, and the legally sanctioned invasion of an individual’s privacy
+
+Thu, 14 Mar 2024 11:49:45 +0530
+### [Agni-5 missile test and Indian position of 'minimum deterrence'](https://www.firstpost.com/opinion/the-agni-5-missile-test-and-the-indian-position-of-minimum-deterrence-13748652.html)
+
+Article found but Couldn't summarize 
+New Delhi needs to carefully adhere to its 'minimum' principle, while pursuing every technological leap forward
+
+Thu, 14 Mar 2024 08:39:10 +0530
+### [Indian Navy is sending an implied signal, if not a direct message to China and Beijing gets it: Abhijit Singh](https://www.firstpost.com/opinion/indian-navy-is-sending-an-implied-signal-if-not-a-direct-message-to-china-and-beijing-gets-it-abhijit-singh-13748582.html)
+
+Article found but Couldn't summarize 
+Navy’s Indigenisation is a long game that can adversely impact short-term asset acquisition, says senior fellow and head of Maritime Policy Initiative at Observer Research Foundation Abhijit Singh
+
 Wed, 13 Mar 2024 18:25:22 +0530
 ### [Vantage | Why Nepal doesn't need to replace its democracy with monarchy](https://www.firstpost.com/opinion/vantage-why-nepal-doesnt-need-to-replace-its-democracy-with-monarchy-13748473.html)
 

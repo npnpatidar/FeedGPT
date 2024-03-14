@@ -1,3 +1,93 @@
+Thu, 14 Mar 2024 21:12:58 +0530
+### [Why Russia is banking on $1.7 billion railway plan in Iran to come closer to Mumbai](https://www.firstpost.com/explainers/russia-iran-rasht-astara-railway-line-mumbai-international-north-south-transport-corridor-13748935.html)
+
+Article found but Couldn't summarize 
+Russia is helping Iran to finance and build a 164-km Rasht-Astara railway that costs $1.7 billion (about Rs 14,000 crore). This rail line is part of the International North–South Transport Corridor that will reduce the time to haul cargo from St. Petersburg to Mumbai to only 10 days
+
+Thu, 14 Mar 2024 19:02:52 +0530
+### [Russia elections 2024: Why Vladimir Putin has never lost a poll race](https://www.firstpost.com/explainers/russia-elections-2024-president-vladimir-putin-winner-13748838.html)
+
+Article found but Couldn't summarize 
+Russia goes to the polls on Friday (15 March) until Sunday (17 March) and the result is already known. Vladimir Putin will win a fifth term as president and cement his grip on power until at least 2030. But how is it that the 71-year-old is guaranteed a victory?
+
+Thu, 14 Mar 2024 17:19:19 +0530
+### [How Gyanesh Kumar, Sukhbir Singh Sandhu were selected as election commissioners](https://www.firstpost.com/explainers/election-commissioners-gyanesh-kumar-sukhbir-singh-sandhu-selection-lok-sabha-polls-13748848.html)
+
+Article found but Couldn't summarize 
+Former bureaucrats Sukhbir Singh Sandhu and Gyanesh Kumar have been picked as the new election commissioners, Congress leader Adhir Ranjan Chowdhury said on Thursday. There are two committees involved in the selection process, with the majority of the members from the government or employed by the Centre
+
+Thu, 14 Mar 2024 16:59:20 +0530
+### [In Graphics | The 23 dog breeds that Centre has asked states to ban in India](https://www.firstpost.com/explainers/in-graphics-dog-breeds-centre-states-ban-india-13748817.html)
+
+Article found but Couldn't summarize 
+Amid rising instances of pet dog attacks, the Centre has directed states to ban the sale and breeding of 23 canine breeds such as Pit Bulls, Rottweilers, and Wolf Dogs. Here's everything you need to know
+
+Thu, 14 Mar 2024 16:24:37 +0530
+### [Titanic 2.0: A look at the big plans to recreate the ill-fated ship](https://www.firstpost.com/explainers/titanic-2-0-a-look-at-the-big-plans-to-recreate-the-ill-fated-ship-13748804.html)
+
+Article found but Couldn't summarize 
+Australian billionaire Clive Palmer has been preparing to build Titanic II, a replica of the tragic ship that sank in 1912 with over 2,200 people on board. He said the interior design and layout of the new vessel would be identical to those of the original. When will it set sail?
+
+Thu, 14 Mar 2024 15:09:54 +0530
+### [Why do we celebrate Pi Day?](https://www.firstpost.com/explainers/why-do-we-celebrate-pi-day-13748749.html)
+
+Article found but Couldn't summarize 
+Starting in 1988, a scientist named Larry Shaw began celebrating Pi Day at a science museum in San Francisco. It took a while for it to become well-known, but in 2009, the US Congress officially made 14 March Pi Day. Here's a little more about the day
+
+Thu, 14 Mar 2024 14:08:40 +0530
+### [Will India have simultaneous polls in 2029? What ‘one nation, one election’ panel recommends](https://www.firstpost.com/explainers/one-nation-one-election-report-ram-nath-kovind-panel-simultaneous-polls-recommendations-13748724.html)
+
+Article found but Couldn't summarize 
+The high-level committee on ‘One Nation, One Election’ headed by Ram Nath Kovind has recommended in its report to hold simultaneous elections for Lok Sabha and state Assemblies by 2029. It also calls for the synchronisation of the municipal corporation and panchayat polls
+
+Thu, 14 Mar 2024 13:59:07 +0530
+### [Lok Sabha elections 2024: BJP has dropped 21% of sitting MPs. Here’s why](https://www.firstpost.com/explainers/lok-sabha-elections-2024-bjp-sitting-mps-dropped-retained-list-of-candidates-13748705.html)
+
+Article found but Couldn't summarize 
+The BJP has declared 267 candidates for the upcoming 2024 polls in two lists. However, it has dropped 21 per cent of its existing MPs, making way for new names and faces. Analysts believe the decisions are being made keeping the party’s ‘400 mission’ in mind
+
+Thu, 14 Mar 2024 13:38:13 +0530
+### [US is moving closer to banning TikTok: Which countries have already blocked the Chinese app?](https://www.firstpost.com/explainers/us-is-moving-closer-to-ban-tiktok-which-countries-have-already-blocked-the-chinese-app-13748654.html)
+
+Article found but Couldn't summarize 
+On Wednesday, the US House of Representatives overwhelmingly passed a landmark bill that would give TikTok's Chinese owner ByteDance about six months to sell its controlling stake or face a nationwide ban. This comes after a growing number of countries banned TikTok over privacy and cybersecurity concerns
+
+Thu, 14 Mar 2024 13:24:21 +0530
+### [Troubled Waters: Why boycott of China’s richest man is bad news for the country](https://www.firstpost.com/explainers/china-richest-man-zhong-shanshan-nongfu-spring-nationalist-boycott-economy-13748698.html)
+
+Article found but Couldn't summarize 
+Zhong Shanshan and his bottled water empire Nongfu Spring are being targeted by nationalists online. Many are boycotting the brand – its shares have dropped five per cent and the businessman has lost $2 billion of his wealth. But why is the billionaire receiving hate?
+
+Thu, 14 Mar 2024 12:24:40 +0530
+### [ByteDance: TikTok’s parent company, which is under fire in the US](https://www.firstpost.com/explainers/bytedance-tiktok-company-us-ban-13748632.html)
+
+Article found but Couldn't summarize 
+ByteDance, best known in most countries as the creator of TikTok, grew from its humble beginnings in a Beijing apartment 12 years ago to become one of the world's largest technology companies. However, now the company faces a furious campaign in Washington
+
+Thu, 14 Mar 2024 11:13:29 +0530
+### [Paytm Payments Bank to shut tomorrow: What services will work, what won't?](https://www.firstpost.com/explainers/paytm-payments-bank-to-shut-tomorrow-what-services-will-work-what-wont-13748597.html)
+
+Article found but Couldn't summarize 
+Paytm Payments Bank will shut down its operations after 15 March, as directed by the Reserve Bank of India. Customers can withdraw or transfer money from their Paytm Payments Bank accounts, but they won't be able to credit money into them. Paytm FASTag users have also been recommended to obtain a new one
+
+Thu, 14 Mar 2024 10:21:57 +0530
+### [Explained: The European Union's new law to regulate AI](https://www.firstpost.com/explainers/european-union-new-law-regulate-ai-13748611.html)
+
+Article found but Couldn't summarize 
+The law, known as the ‘AI Act’, was first proposed in April 2021 by the European Commission. The first-of-its-kind law is now set to reshape how European businesses and organisations use artificial intelligence for everything from health care to policing
+
+Thu, 14 Mar 2024 10:10:38 +0530
+### [How close is the US to banning TikTok? What next for the app, its users?](https://www.firstpost.com/explainers/us-house-ban-tiktok-future-app-users-bytedance-13748612.html)
+
+Article found but Couldn't summarize 
+The US House of Representatives passed a bill requiring TikTok owner ByteDance to sell or face a ban in the country. This is the biggest existential threat to the platform, which has over 170 million users in America. If passed into law, thousands of small businesses and millions of content creators would be hit
+
+Thu, 14 Mar 2024 08:45:55 +0530
+### [All work, no play: Why fewer Chinese students are taking sport, music lessons](https://www.firstpost.com/explainers/chinese-students-sport-music-lessons-economy-financial-future-13748505.html)
+
+Article found but Couldn't summarize 
+Spending on after-school activities was once normal for middle-class Chinese families who usually have just one child. However, due to concerns about their financial security, parents are reluctant to pay for extracurriculars like music, dance and sport
+
 Thu, 14 Mar 2024 05:00:02 +0530
 ### [FirstUp: Bhutan's PM in India, Farmers' mahapanchayat in Delhi.... Top news today](https://www.firstpost.com/explainers/firstup-bhutans-pm-in-india-farmers-mahapanchayat-in-delhi-top-news-today-13748544.html)
 

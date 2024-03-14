@@ -1,3 +1,15 @@
+Fri, 15 Mar 2024 00:20:00 +0530
+### [Inevitable collapse: On the BJP-JJP coalition in Haryana](https://www.thehindu.com/opinion/editorial/inevitable-collapse-on-the-bharatiya-janata-party-and-jannayak-janta-party-coalition-in-haryana/article67950966.ece)
+
+Article found but Couldn't summarize 
+By calling off their alliance, BJP and JJP have sought to appease their base
+
+Fri, 15 Mar 2024 00:10:00 +0530
+### [Square one: On the 2024 U.S. Presidential election as a Biden-Trump rematch](https://www.thehindu.com/opinion/editorial/square-one-on-the-us-presidential-election-2024-as-a-biden-trump-rematch/article67951014.ece)
+
+Article found but Couldn't summarize 
+Both Republicans and Democrats need alternative voices to articulate their vision
+
 Thu, 14 Mar 2024 00:20:00 +0530
 ### [Wrong messaging: On the Citizenship (Amendment) Act, 2019](https://www.thehindu.com/opinion/editorial/wrong-messaging-on-the-citizenship-amendment-act-2019/article67947078.ece)
 
