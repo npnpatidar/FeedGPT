@@ -1,3 +1,9 @@
+Fri, 15 Mar 2024 05:00:43 +0530
+### [FirstUp: Russian elections, Modi's roadshow in Hyderabad... Headlines today](https://www.firstpost.com/explainers/firstup-russian-elections-modis-roadshow-in-hyderabad-headlines-today-13748837.html)
+
+Article found but Couldn't summarize 
+The world will be closely watching the Russian presidential elections held today in the backdrop of the Ukraine invasion. PM Modi will hold a roadshow in Hyderabad ahead of the Lok Sabha polls. Paytm Payments Bank will stop offering services starting today
+
 Thu, 14 Mar 2024 21:12:58 +0530
 ### [Why Russia is banking on $1.7 billion railway plan in Iran to come closer to Mumbai](https://www.firstpost.com/explainers/russia-iran-rasht-astara-railway-line-mumbai-international-north-south-transport-corridor-13748935.html)
 
