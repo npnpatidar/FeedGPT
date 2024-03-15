@@ -1,3 +1,15 @@
+Sat, 16 Mar 2024 00:20:00 +0530
+### [Food factor: On the latest retail inflation data](https://www.thehindu.com/opinion/editorial/food-factor-on-the-latest-retail-inflation-data/article67954999.ece)
+
+Article found but Couldn't summarize 
+Inflation is impacting personal consumption and hurting growth
+
+Sat, 16 Mar 2024 00:10:00 +0530
+### [Homecoming: on the TDP’s return to the NDA](https://www.thehindu.com/opinion/editorial/homecoming-on-the-tdps-return-to-the-nda/article67955035.ece)
+
+Article found but Couldn't summarize 
+A.P. is set for a three-cornered contest after TDP’s return to the NDA
+
 Fri, 15 Mar 2024 00:20:00 +0530
 ### [Inevitable collapse: On the BJP-JJP coalition in Haryana](https://www.thehindu.com/opinion/editorial/inevitable-collapse-on-the-bharatiya-janata-party-and-jannayak-janta-party-coalition-in-haryana/article67950966.ece)
 

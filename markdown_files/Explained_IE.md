@@ -1,3 +1,28 @@
+Fri, 15 Mar 2024 10:25:49 +0000
+### [What is SIMA, Google Deepmind’s new AI that can play video games with you](https://indianexpress.com/article/explained/explained-sci-tech/sima-google-deepmind-new-ai-video-games-9215895/)
+
+Article found but Couldn't summarize
+
+Fri, 15 Mar 2024 09:08:11 +0000
+### [Why has India developed an atmospheric testbed near Bhopal?](https://indianexpress.com/article/explained/explained-climate/india-atmospheric-testbed-bhopal-significance-9215690/)
+
+Article found but Couldn't summarize
+
+Fri, 15 Mar 2024 07:04:12 +0000
+### [Why self-censorship of political speech could be the future normal for AI platforms](https://indianexpress.com/article/explained/explained-sci-tech/censorship-political-speech-ai-platforms-elections-9215504/)
+
+Article found but Couldn't summarize
+
+Fri, 15 Mar 2024 02:41:06 +0000
+### [What it will take to have simultaneous elections in India: Unpacking the Kovind committee report](https://indianexpress.com/article/explained/explained-law/kovind-committee-report-simultaneous-elections-details-9215013/)
+
+Article found but Couldn't summarize
+
+Fri, 15 Mar 2024 02:18:55 +0000
+### [Ratification by states: What it will take to make One Nation One Election panel’s view legally tenable](https://indianexpress.com/article/explained/explained-law/ratification-states-panel-view-legally-tenable-9215031/)
+
+Article found but Couldn't summarize
+
 Thu, 14 Mar 2024 14:07:37 +0000
 ### [Mumbai Central station could be named after Nana Jagannath Shankarseth: who was this social reformer celebrated as ‘architect’ of Mumbai?](https://indianexpress.com/article/explained/mumbai-central-named-after-nana-jagannath-shankarseth-who-was-he-9214447/)
 

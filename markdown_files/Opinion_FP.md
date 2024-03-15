@@ -1,3 +1,87 @@
+Fri, 15 Mar 2024 20:17:35 +0530
+### [Vantage | Why no one wants to host the Commonwealth Games](https://www.firstpost.com/opinion/vantage-why-no-one-wants-to-host-the-commonwealth-games-13749345.html)
+
+Article found but Couldn't summarize 
+The games have historical stigma; there's little competition, no big names, and not much money to be made
+
+Fri, 15 Mar 2024 19:56:02 +0530
+### [India-EFTA trade pact shows New Delhi can bargain hard and is up for global competition](https://www.firstpost.com/opinion/india-efta-trade-pact-shows-new-delhi-can-bargain-hard-and-is-up-for-global-competition-13749342.html)
+
+Article found but Couldn't summarize 
+By learning from past experiences, India has secured a balanced agreement that prioritises both market access and domestic industry protection
+
+Fri, 15 Mar 2024 19:17:54 +0530
+### [Vantage | Why China cannot afford the collapse of this big developer](https://www.firstpost.com/opinion/vantage-why-china-cannot-afford-the-collapse-of-this-big-developer-13749308.html)
+
+Article found but Couldn't summarize 
+Van-kee, a behemoth in the real estate industry, finds itself drowning in debt, owing a staggering 34 billion yuan, equivalent to nearly $5 billion
+
+Fri, 15 Mar 2024 18:45:09 +0530
+### [When Darwin converted Europe to Hinduism: Why Sanjay Dixit’s book is a must-read](https://www.firstpost.com/opinion/when-darwin-converted-europe-to-hinduism-why-sanjay-dixits-book-is-a-must-read-13749289.html)
+
+Article found but Couldn't summarize 
+Europe needed a Darwin to become modern, scientific. The Arabic world is still in need of its own Darwin. The Sanatana Dharma was inherently Darwinian — and more
+
+Fri, 15 Mar 2024 18:43:46 +0530
+### [Vantage | What is CAA and why it is controversial](https://www.firstpost.com/opinion/vantage-what-is-caa-and-why-it-is-controversial-13749297.html)
+
+Article found but Couldn't summarize 
+The Citizenship Amendment Act stands at the intersection of politics, law and societal values in India
+
+Fri, 15 Mar 2024 18:12:55 +0530
+### [Vantage | After Maldives, is China's military eyeing Sri Lanka and Nepal?](https://www.firstpost.com/opinion/vantage-after-maldives-is-chinas-military-eyeing-sri-lanka-and-nepal-13749250.html)
+
+Article found but Couldn't summarize 
+As China expands its influence in South Asia through divide and rule tactics, India must find effective ways to counter these manoeuvers
+
+Fri, 15 Mar 2024 18:06:15 +0530
+### [When will DMK’s Raja condemn Tamil icons celebrating Sanatana Dharma?](https://www.firstpost.com/opinion/when-will-dmks-raja-condemn-tamil-icons-celebrating-sanatana-dharma-13749278.html)
+
+Article found but Couldn't summarize 
+In his ‘Tiruvaymoli’, Nammalwar sings praise to Lord Krishna. Will A Raja condemn him too?
+
+Fri, 15 Mar 2024 17:57:53 +0530
+### [Vantage | What US was secretly talking to Iran about](https://www.firstpost.com/opinion/vantage-what-us-was-secretly-talking-to-iran-about-13749274.html)
+
+Article found but Couldn't summarize 
+It's a catch 22 situation that America is facing in West Asia
+
+Fri, 15 Mar 2024 16:58:35 +0530
+### [Vantage | Why Poland has fired 50 of its ambassadors from across the world](https://www.firstpost.com/opinion/vantage-why-poland-has-fired-50-of-its-ambassadors-from-across-the-world-13749237.html)
+
+Article found but Couldn't summarize 
+In essence, Poland's recall of ambassadors serves as a microcosm of broader geopolitical challenges stemming from political transitions
+
+Fri, 15 Mar 2024 16:49:57 +0530
+### [Vantage | What world's first law on Artificial Intelligence says](https://www.firstpost.com/opinion/vantage-what-worlds-first-law-on-artificial-intelligence-says-13749240.html)
+
+Article found but Couldn't summarize 
+The EU's idea is to regulate AI based on its capacity to harm society. The higher the risk, the stricter the rules
+
+Fri, 15 Mar 2024 16:07:01 +0530
+### [Vantage | How Malaysia is winning the US-China chip war](https://www.firstpost.com/opinion/vantage-how-malaysia-is-winning-the-us-china-chip-war-13749198.html)
+
+Article found but Couldn't summarize 
+In the ever-evolving landscape of technology and geopolitics, Malaysia's ascent as a key player in the global chip war serves as a testament to the intricate interplay between innovation, diplomacy and strategic foresight
+
+Fri, 15 Mar 2024 15:32:44 +0530
+### [Continuity and change in India’s foreign policy: Decoding a decade of PM Modi’s diplomacy](https://www.firstpost.com/opinion/continuity-and-change-in-indias-foreign-policy-decoding-a-decade-of-pm-modis-diplomacy-13749189.html)
+
+Article found but Couldn't summarize 
+A major change is the intensity with which the Modi government is dealing with the Indian diaspora. Modi has electrified the Indian diaspora with his stirring addresses and given them a sense of pride in the country
+
+Fri, 15 Mar 2024 15:10:45 +0530
+### [How PM Modi fulfilled CAA dream of Gandhi, Nehru and Congress](https://www.firstpost.com/opinion/how-pm-modi-fulfilled-caa-dream-of-gandhi-nehru-and-congress-13749004.html)
+
+Article found but Couldn't summarize 
+The timing of the rules' notification indicates a proactive approach by the government, possibly influenced by considerations of potential law and order issues and the impending general elections
+
+Fri, 15 Mar 2024 10:00:21 +0530
+### [Breaking the poverty cycle: Charting India’s path to prosperity](https://www.firstpost.com/opinion/breaking-the-poverty-cycle-charting-indias-path-to-prosperity-13748990.html)
+
+Article found but Couldn't summarize 
+Amid global efforts to combat poverty, India's significant progress in surpassing poverty reduction targets through escalating escape rates presents a promising outlook for its anti-poverty initiative
+
 Thu, 14 Mar 2024 20:25:29 +0530
 ### [A deepfake of Firstpost's Vantage doing rounds on social media](https://www.firstpost.com/opinion/a-deepfake-of-firstposts-vantage-doing-rounds-on-social-media-13748896.html)
 

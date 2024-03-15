@@ -1,3 +1,93 @@
+Fri, 15 Mar 2024 21:11:12 +0530
+### [How do pilots beat fatigue, stay awake? They pop this pill](https://www.firstpost.com/explainers/indonesian-pilots-fall-asleep-mid-flight-fatigue-pill-to-stay-awake-13749349.html)
+
+Article found but Couldn't summarize 
+Pilot fatigue came to the limelight again after reports of two pilots falling asleep mid-flight on an Indonesian airline surfaced. While fatigue is a major safety concern, there is a widely available pill approved by air forces in several countries, including India, for its fighter pilots to boost alertness and fight off sleep
+
+Fri, 15 Mar 2024 20:20:54 +0530
+### [Russia elections: What Putin might do after securing another six-year term](https://www.firstpost.com/explainers/russia-elections-what-putin-might-do-after-securing-another-six-year-term-13749266.html)
+
+Article found but Couldn't summarize 
+Vladimir Putin will once again be picked as Russia's president. What he does after he crosses the finish line is what's provoking anxiety among observers. He might order a second military mobilisation to fight in Ukraine or test NATO’s resolve to support Kyiv
+
+Fri, 15 Mar 2024 19:13:04 +0530
+### [Lok Sabha Elections: How did the Model Code of Conduct originate?](https://www.firstpost.com/explainers/lok-sabha-elections-model-code-of-conduct-originate-13749307.html)
+
+Article found but Couldn't summarize 
+The Model Code of Conduct finds its origin during Assembly elections in Kerala in 1960, when the administration attempted to evolve a code of conduct for political parties. According to the Election Commission of India, the code has evolved over the last 60 years to assume its present form
+
+Fri, 15 Mar 2024 17:12:42 +0530
+### [What is the unique code on electoral bonds that Supreme Court has told SBI to disclose?](https://www.firstpost.com/explainers/electoral-bonds-numbers-supreme-court-sbi-details-eci-13749238.html)
+
+Article found but Couldn't summarize 
+The Supreme Court has issued notice to the State Bank of India (SBI) for not disclosing the unique alphanumeric code on electoral bonds to the Election Commission of India. This number is present on each bond which is only visible in specific light
+
+Fri, 15 Mar 2024 17:09:22 +0530
+### [Why rumours of Prince William’s affair with Rose Hanbury have resurfaced amid Kate’s absence](https://www.firstpost.com/explainers/why-rumours-of-prince-williams-affair-with-rose-hanbury-have-resurfaced-amid-kates-absence-13749185.html)
+
+Article found but Couldn't summarize 
+Online detectives speculate that Kate Middleton’s absence may be connected to an alleged relationship between her husband, Prince William, and Rose Hanbury. A neighbour of the Prince and Princess of Wales, the former model has been spotted during royal occasions including the coronation of King Charles III
+
+Fri, 15 Mar 2024 15:55:48 +0530
+### [Election Commission to declare poll dates on 16 March: How are they finalised?](https://www.firstpost.com/explainers/election-commission-lok-sabha-poll-dates-finalised-13749193.html)
+
+Article found but Couldn't summarize 
+The Election Commission of India will announce the dates for the upcoming Lok Sabha polls on 16 March. The poll agency is bound by rules when announcing the election dates. But what are they?
+
+Fri, 15 Mar 2024 14:40:47 +0530
+### [One nation, one election: Which parties are in favour? Who has said no?](https://www.firstpost.com/explainers/one-nation-one-election-parties-in-favour-who-opposed-it-13749141.html)
+
+Article found but Couldn't summarize 
+As per the report by the high-level panel on simultaneous elections, 32 parties including the BJP and its allies, support the proposal, while 15 parties, of which 10 are from the INDIA bloc, oppose it. The proponents argue the exercise would save costs, while the critics say it would ‘undermine’ democracy
+
+Fri, 15 Mar 2024 14:34:33 +0530
+### [Looking for next James Bond: The puzzle UK spy agency is using to recruit new people](https://www.firstpost.com/explainers/looking-for-the-next-james-bond-the-puzzle-uk-spy-agency-is-using-to-recruit-new-people-13749088.html)
+
+Article found but Couldn't summarize 
+A new puzzle has been uploaded to the UK intelligence organisation GCHQ’s LinkedIn handle to identify and recruit the upcoming generation of its intelligence staff. The agency is seeking lateral thinkers who had ‘never thought of working’ with the UK Signals Intelligence Service, which secures communications
+
+Fri, 15 Mar 2024 14:05:47 +0530
+### [UK to ban foreign ownership of newspapers. Who owns what?](https://www.firstpost.com/explainers/uk-to-ban-foreign-ownership-of-newspapers-who-owns-what-13749045.html)
+
+Article found but Couldn't summarize 
+The UK announced Wednesday that it intends to prohibit foreign governments from owning British newspapers, a move that could derail the contentious Abu Dhabi-led takeover of the Telegraph Media Group. Here’s who will be affected, and who owns what?
+
+Fri, 15 Mar 2024 13:20:18 +0530
+### [SpaceX’s Starship third trial: What happened to world's biggest rocket?](https://www.firstpost.com/explainers/elon-musk-spacex-starship-biggest-rocket-third-trial-launch-milestones-13749095.html)
+
+Article found but Couldn't summarize 
+SpaceX carried out the third trial of its biggest and most powerful rocket, the Starship. It flew for nearly an hour in space, though it didn’t survive re-entry into Earth’s atmosphere. Despite the loss, the Elon Musk company has hailed it a ‘big step forward’, as the spacecraft achieved several milestones
+
+Fri, 15 Mar 2024 12:46:10 +0530
+### [Electoral bonds: When top donors were pulled up by ED, tax authorities, CBI](https://www.firstpost.com/explainers/electoral-bonds-data-top-donors-future-gaming-megha-engineering-vedanta-dlf-ed-it-cbi-13749068.html)
+
+Article found but Couldn't summarize 
+Some of the top electoral bond donors have had run-ins with law enforcement agencies. Future Gaming, which is No. 1 on the list, has been under the scanner of the Enforcement Directorate. The other firms, which have faced probes or tax raids, include infrastructure company Megha Engineering, mining giant Vedanta, and realty firm DLF, among others
+
+Fri, 15 Mar 2024 12:25:51 +0530
+### [Modi’s South push ahead of Lok Sabha polls: Why Kerala, Tamil Nadu, Telangana matter to the BJP](https://www.firstpost.com/explainers/modis-south-push-ahead-of-lok-sabha-polls-why-kerala-tamil-nadu-telangana-matter-to-the-bjp-13748986.html)
+
+Article found but Couldn't summarize 
+Prime Minister Narendra Modi is campaigning in Kerala, Tamil Nadu and Telangana, holding roadshows and public meetings. As the Lok Sabha election approaches, the BJP is increasing its outreach in the southern states, where the party is hoping to make major inroads
+
+Fri, 15 Mar 2024 10:43:34 +0530
+### [Why is Kerala holding polls for the Russian elections?](https://www.firstpost.com/explainers/russia-presidential-elections-kerala-voting-vladimir-putin-13749012.html)
+
+Article found but Couldn't summarize 
+This is the third time the Consulate of the Russian Federation is hosting a vote for the Russian presidential elections in the state of Kerala. The completed ballots will be sent back to Moscow via diplomatic channels from Chennai and counted after Russia's final phase of polling ends on 17 March
+
+Fri, 15 Mar 2024 10:13:08 +0530
+### [With Rs 1,368 crore, ‘Lottery King’ Santiago Martin is biggest electoral bonds donor. Who is he?](https://www.firstpost.com/explainers/electoral-bonds-donor-santiago-martin-lottery-king-future-gaming-hotel-services-ed-cbi-13748999.html)
+
+Article found but Couldn't summarize 
+As per the Election Commission data, Future Gaming and Hotel Services Pvt Ltd is the top buyer of electoral bonds, worth Rs 1,368 crore. The man behind this firm is Santiago Martin, also known as Lottery King. He began his career as a worker in Myanmar and returned to India in 1988, slowly climbing to the top
+
+Fri, 15 Mar 2024 08:36:01 +0530
+### [Explained: How the election in Russia works](https://www.firstpost.com/explainers/election-russia-vladimir-putin-13748185.html)
+
+Article found but Couldn't summarize 
+Russia is holding its presidential election from 15-17 March, only to re-elect President Vladimir Putin for another six-year term. Here's how the election will unfold
+
 Fri, 15 Mar 2024 05:00:43 +0530
 ### [FirstUp: Russian elections, Modi's roadshow in Hyderabad... Headlines today](https://www.firstpost.com/explainers/firstup-russian-elections-modis-roadshow-in-hyderabad-headlines-today-13748837.html)
 

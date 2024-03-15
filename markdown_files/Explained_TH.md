@@ -1,3 +1,33 @@
+Fri, 15 Mar 2024 21:26:02 +0530
+### [The fallout from the Russian leak of a German military phone call | Explained](https://www.thehindu.com/news/international/russian-leak-of-german-military-phone-call-explained-details-fallout-effect-on-relations-explained/article67928222.ece)
+
+Article found but Couldn't summarize 
+Amid the Russia-Ukraine war, a hacked phone call between German officers debating eeewhether to provide Taurus missiles to Ukraine has created chaos
+
+Fri, 15 Mar 2024 21:17:27 +0530
+### [Haiti’s latest gang violence crisis, and how it forced PM Ariel Henry to resign | Explained](https://www.thehindu.com/news/international/haiti-crisis-gang-violence-ariel-henry-resignation-explainer-humanitarian-disaster-kenya/article67949405.ece)
+
+Article found but Couldn't summarize 
+Why did Haitian Prime Minister Ariel Henry resign? What will the role of the transitional council be? What happens next?
+
+Fri, 15 Mar 2024 17:03:44 +0530
+### [One Nation, One Election: the Kovind panel’s recommendations | Explained](https://www.thehindu.com/news/national/one-nation-one-election-the-kovind-panels-recommendations-explained/article67950654.ece)
+
+Article found but Couldn't summarize 
+In its report submitted to President Droupadi Murmu, a panel headed by former President Ram Nath Kovind has backed simultaneous polls for the Lok Sabha and State Assemblies. What arguments has it made in its favour and how will such a proposal be implemented?
+
+Fri, 15 Mar 2024 13:31:19 +0530
+### [Watch | Paytm Payments Bank’s debacle: a reckoning for India’s fintech sector](https://www.thehindu.com/business/watch-paytm-payment-banks-debacle-a-reckoning-for-indias-fintech-sector/article67953921.ece)
+
+Article found but Couldn't summarize 
+On the rise and fall of Paytm, the Reserve Bank of India’s concerns, and more
+
+Fri, 15 Mar 2024 10:30:00 +0530
+### [What is the HbA1C test and why is it used to check for diabetes? | Explained](https://www.thehindu.com/sci-tech/science/hba1c-test-blood-sugar-levels-india-diabetes-explained/article67949552.ece)
+
+Article found but Couldn't summarize 
+According to 2018 ICMR guidelines, everyone older than 30 years should be screened for diabetes
+
 Thu, 14 Mar 2024 22:52:56 +0530
 ### [Citizenship Amendment Act: Legal issues and status of judicial proceedings | Explained](https://www.thehindu.com/incoming/caa-legal-issues-and-status-of-judicial-proceedings-explained/article67941750.ece)
 

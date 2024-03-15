@@ -1,3 +1,33 @@
+Fri, 15 Mar 2024 18:07:57 +0530
+### [In Europe, green policies rule while green politicians struggle](https://www.livemint.com/opinion/online-views/in-europe-green-policies-rule-while-green-politicians-struggle-11710505789977.html)
+
+Article found but Couldn't summarize 
+Reshaping the continent’s economy is easier than winning votes
+
+Fri, 15 Mar 2024 10:30:09 +0530
+### [Better use of data could help small caps and their investors flourish](https://www.livemint.com/opinion/online-views/better-use-of-data-could-help-small-caps-and-their-investors-flourish-11710425332132.html)
+
+Article found but Couldn't summarize 
+Rather than condemn an entire class of stocks as inherently risky, Sebi should harness the account aggregator network to give analysts the data they need to find the winners of tomorrow.
+
+Fri, 15 Mar 2024 08:00:03 +0530
+### [Election synchrony: Convenient or costly?](https://www.livemint.com/opinion/quick-edit/election-synchrony-convenient-or-costly-11710430088122.html)
+
+Article found but Couldn't summarize 
+A panel headed by former president Ram Nath Kovind submitted a report on simultaneous national and state elections to President Droupadi Murmu. It explains how it can be achieved, but will it result in many more elections?
+
+Fri, 15 Mar 2024 08:00:03 +0530
+### [Happiness: A scarcity that’ll take long to eliminate](https://www.livemint.com/opinion/online-views/happiness-a-scarcity-that-ll-take-long-to-eliminate-11710429862196.html)
+
+Article found but Couldn't summarize 
+That the UN deemed happiness worthy of celebration tells us how elusive it is for most of the world. After all, economic well-being is a necessary but not sufficient condition for it.
+
+Fri, 15 Mar 2024 08:00:02 +0530
+### [We must learn to be more human in the age of artificial intelligence](https://www.livemint.com/opinion/columns/we-must-learn-to-be-more-human-in-the-age-of-artificial-intelligence-11710429916126.html)
+
+Article found but Couldn't summarize 
+Classic human attributes like empathy and language felicity will gain in value as these enable us to make the best use of AI tools. Trying to be more like computers won’t get humans anywhere.
+
 Fri, 15 Mar 2024 00:40:21 +0530
 ### [The proliferation of EVs could make decarbonization harder to achieve](https://www.livemint.com/opinion/online-views/the-proliferation-of-evs-could-make-decarbonization-harder-to-achieve-11710430010346.html)
 
