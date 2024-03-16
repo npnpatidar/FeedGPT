@@ -1,3 +1,33 @@
+Sun, 17 Mar 2024 04:18:00 +0530
+### [With Agni V test, India makes the MIRV leap](https://www.thehindu.com/news/national/with-agni-v-test-india-makes-the-mirv-leap/article67958035.ece)
+
+Article found but Couldn't summarize 
+What is the significance of India testing a missile with multiple nuclear warheads that can each hit different targets? Which are the other countries which have MIRV technology?
+
+Sun, 17 Mar 2024 04:02:00 +0530
+### [Who will benefit from the new CAA Rules? | Explained](https://www.thehindu.com/news/national/who-will-benefit-from-the-new-caa-rules-explained/article67957924.ece)
+
+Article found but Couldn't summarize 
+Why are several communities in States like West Bengal and Assam conflicted about the process?
+
+Sun, 17 Mar 2024 02:03:00 +0530
+### [Christopher Nolan | A layered traditionalist](https://www.thehindu.com/entertainment/christopher-nolan-a-layered-traditionalist/article67959200.ece)
+
+Article found but Couldn't summarize 
+The winner of the Best Director at Academy Awards wants to give his audience the same feel and quality of the traditional cinema that he experienced while growing up
+
+Sun, 17 Mar 2024 01:47:00 +0530
+### [Rajiv Kumar | A bureaucrat for all seasons](https://www.thehindu.com/news/national/rajiv-kumar-a-bureaucrat-for-all-seasons/article67959172.ece)
+
+Article found but Couldn't summarize 
+The Chief Election Commissioner, who has always stayed on the right side of different governments, has a rich experience of working in various departments in States and the Centre
+
+Sun, 17 Mar 2024 01:12:00 +0530
+### [ByteDance | Dancing on a tightrope](https://www.thehindu.com/sci-tech/technology/bytedance-dancing-on-a-tightrope/article67959153.ece)
+
+Article found but Couldn't summarize 
+The Chinese tech giant has been caught in the cross-hairs of the U.S.-China tech cold war after American lawmakers passed a Bill in the House asking the company to divest its stake in TikTok in the U.S. within six months or risk a ban
+
 Fri, 15 Mar 2024 21:26:02 +0530
 ### [The fallout from the Russian leak of a German military phone call | Explained](https://www.thehindu.com/news/international/russian-leak-of-german-military-phone-call-explained-details-fallout-effect-on-relations-explained/article67928222.ece)
 

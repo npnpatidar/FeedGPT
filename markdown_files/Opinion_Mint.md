@@ -1,3 +1,9 @@
+Sat, 16 Mar 2024 11:06:22 +0530
+### [My crypto journey: A high, and two lows](https://www.livemint.com/opinion/columns/my-crypto-journey-a-high-and-two-lows-11710517068623.html)
+
+Article found but Couldn't summarize 
+Punting on Bitcoin, even with play money, proved to be a roller-coaster ride for this investor.
+
 Fri, 15 Mar 2024 18:07:57 +0530
 ### [In Europe, green policies rule while green politicians struggle](https://www.livemint.com/opinion/online-views/in-europe-green-policies-rule-while-green-politicians-struggle-11710505789977.html)
 

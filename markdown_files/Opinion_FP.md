@@ -1,3 +1,33 @@
+Sat, 16 Mar 2024 18:40:09 +0530
+### [Why implementing Citizenship Amendment Act is India's historical and humanitarian responsibility](https://www.firstpost.com/opinion/why-implementing-citizenship-amendment-act-is-indias-historical-and-humanitarian-responsibility-13749589.html)
+
+Article found but Couldn't summarize 
+The citizenship of any Indian minority, especially the Muslim community, is not being affected in any way. This amendment is not abrogating anyone's citizenship, but it is giving legal rights to the deprived
+
+Sat, 16 Mar 2024 15:28:13 +0530
+### [China’s 'Two Sessions': A display of Xi Jinping's dominance and weakening State institutions](https://www.firstpost.com/opinion/chinas-two-sessions-a-display-of-xi-jinpings-dominance-and-weakening-state-institutions-13749415.html)
+
+Article found but Couldn't summarize 
+From the just concluded conclave, the key takeaway is a further shift of power from the government institutions to the Communist Party, additionally, its Secretary General Xi Jinping’s overarching shadow looming large
+
+Sat, 16 Mar 2024 15:26:23 +0530
+### [Adam’s ale: Why Bengaluru water crisis reflects hydrological destiny of peninsular India](https://www.firstpost.com/opinion/adams-ale-why-bengaluru-water-crisis-reflects-hydrological-destiny-of-peninsular-india-13749441.html)
+
+Article found but Couldn't summarize 
+Today in Bengaluru, 1.4 crore people peer downwards into deeper and deeper borewells for sustenance
+
+Sat, 16 Mar 2024 10:48:21 +0530
+### [From Khrushchev to Putin, Russian’s Reflexive Control theory has alarmed NATO](https://www.firstpost.com/opinion/from-khrushchev-to-putin-russians-reflexive-control-theory-has-alarmed-nato-13749420.html)
+
+Article found but Couldn't summarize 
+The Russian President’s repeated threats of using a tactical nuke in the Ukraine war have achieved their objectives to an extent by dissuading NATO from a direct confrontation
+
+Sat, 16 Mar 2024 10:40:44 +0530
+### [From Hamas horror to Sandeshkhali saga: The Muslim penchant for denial](https://www.firstpost.com/opinion/from-hamas-horror-to-sandeshkhali-saga-the-muslim-penchant-for-denial-13749411.html)
+
+Article found but Couldn't summarize 
+Goons like Sheikh Shahjahan need to be condemned as should the October 7 atrocities by the Hamas terrorists
+
 Fri, 15 Mar 2024 20:17:35 +0530
 ### [Vantage | Why no one wants to host the Commonwealth Games](https://www.firstpost.com/opinion/vantage-why-no-one-wants-to-host-the-commonwealth-games-13749345.html)
 

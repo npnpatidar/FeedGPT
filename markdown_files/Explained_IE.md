@@ -1,3 +1,33 @@
+Sat, 16 Mar 2024 14:27:54 +0000
+### [Is it illegal to watch child pornography? SC hears petition](https://indianexpress.com/article/explained/explained-law/illegal-watch-child-pornography-9218160/)
+
+Article found but Couldn't summarize
+
+Sat, 16 Mar 2024 10:28:07 +0000
+### [Model Code of Conduct comes into force: What does it mean?](https://indianexpress.com/article/explained/model-code-of-conduct-meaning-9217638/)
+
+Article found but Couldn't summarize
+
+Sat, 16 Mar 2024 09:21:15 +0000
+### [Are pulse oximeters biased? Behind racial bias in health technology](https://indianexpress.com/article/explained/explained-health/pulse-oximeter-biased-health-technology-risk-racial-9217433/)
+
+Article found but Couldn't summarize
+
+Sat, 16 Mar 2024 02:37:13 +0000
+### [7 takeaways from Election Commission’s announcement of Lok Sabha polls](https://indianexpress.com/article/explained/explained-politics/election-commission-lok-sabha-polls-7-things-9216854/)
+
+Article found but Couldn't summarize
+
+Sat, 16 Mar 2024 01:45:22 +0000
+### [How AI can accelerate production and dissemination of election disinformation](https://indianexpress.com/article/explained/ai-elections-disinformation-9216941/)
+
+Article found but Couldn't summarize
+
+Sat, 16 Mar 2024 01:00:04 +0000
+### [What the success of Gaganyaan could mean for Indian science](https://indianexpress.com/article/explained/explained-sci-tech/gaganyaan-astronauts-spaceflight-mission-objectives-impact-science-9216665/)
+
+Article found but Couldn't summarize
+
 Fri, 15 Mar 2024 10:25:49 +0000
 ### [What is SIMA, Google Deepmind’s new AI that can play video games with you](https://indianexpress.com/article/explained/explained-sci-tech/sima-google-deepmind-new-ai-video-games-9215895/)
 

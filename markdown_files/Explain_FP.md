@@ -1,3 +1,33 @@
+Sat, 16 Mar 2024 18:15:44 +0530
+### [97.8 crore voters, 1.5 crore polling officials: The big numbers to know ahead of Lok Sabha election](https://www.firstpost.com/explainers/97-8-crore-voters-1-5-crore-polling-officials-the-big-numbers-to-know-ahead-of-lok-sabha-election-13749561.html)
+
+Article found but Couldn't summarize 
+Ahead of announcing the 2024 Lok Sabha election dates, Chief Election Commissioner Rajiv Kumar listed several important numbers related to the polls. He said there are 97.8 crore eligible voters of which 49.72 crore were male voters and 47.1 crore were female. The EC will set up 10.5 lakh polling stations across India and over 1.5 crore polling officials will be deployed
+
+Sat, 16 Mar 2024 16:19:01 +0530
+### [2024 Lok Sabha election dates are here: How India is likely to vote](https://www.firstpost.com/explainers/2024-lok-sabha-election-dates-are-here-how-india-is-likely-to-vote-13749495.html)
+
+Article found but Couldn't summarize 
+The Lok Sabha polls will take place in seven phases between 19 April and 1 June. The counting will be on 4 June. Ahead of the election, opinion polls tried to tap into public sentiment. Here’s what they predict
+
+Sat, 16 Mar 2024 11:43:02 +0530
+### [KCR’s daughter K Kavitha arrested in Delhi liquor scam: Her link to the case](https://www.firstpost.com/explainers/kcrs-daughter-k-kavitha-arrested-in-delhi-liquor-scam-how-is-she-linked-to-the-case-13749396.html)
+
+Article found but Couldn't summarize 
+BRS leader K Kavitha, arrested from Hyderabad on Friday in the Delhi liquor policy case, was taken to the ED headquarters in the national capital around midnight. The law agency has alleged her involvement with a 'South Group' lobby of liquor traders seeking influence over the now-scrapped excise policy
+
+Sat, 16 Mar 2024 10:50:21 +0530
+### [Russia election: Why Putin will never announce a successor](https://www.firstpost.com/explainers/russia-election-vladimir-putin-poll-fraud-successor-13749320.html)
+
+Article found but Couldn't summarize 
+Vladimir Putin is a prisoner of the political system he has built around himself for the past 24 years. Like many dictators, he cannot walk away from power and enjoy a quiet retirement even if he wants to. He is too attached to the mind-boggling wealth and power he has accumulated
+
+Sat, 16 Mar 2024 09:36:09 +0530
+### [This Week in Explainers: Why is India banning Pit bulls, Rottweilers and other dogs?](https://www.firstpost.com/explainers/this-week-in-explainers-india-banning-pit-bulls-rottweilers-and-23-dog-breeds-13749279.html)
+
+Article found but Couldn't summarize 
+After rising incidents of pet attacks, the Centre has asked states to ban 23 ‘ferocious’ dog breeds – Pit bulls, Rottweilers, and Wolf dogs, among others. But are they dangerous? We explain the dog ban and other big news that grabbed headlines like electoral bonds, CAA, and the Bengaluru water crisis in our weekly roundup
+
 Fri, 15 Mar 2024 21:11:12 +0530
 ### [How do pilots beat fatigue, stay awake? They pop this pill](https://www.firstpost.com/explainers/indonesian-pilots-fall-asleep-mid-flight-fatigue-pill-to-stay-awake-13749349.html)
 
