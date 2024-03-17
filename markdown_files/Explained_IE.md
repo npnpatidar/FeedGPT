@@ -1,3 +1,33 @@
+Sun, 17 Mar 2024 15:46:29 +0000
+### [Why the US wants to ban TikTok, what the idea’s critics say](https://indianexpress.com/article/explained/explained-global/us-ban-tiktok-reason-criticism-china-9219577/)
+
+Article found but Couldn't summarize
+
+Sun, 17 Mar 2024 15:17:53 +0000
+### [K Kavitha in ED custody: Why a Telangana MLC was arrested in the Delhi excise policy case](https://indianexpress.com/article/explained/k-kavitha-why-arrested-delhi-excise-policy-case-9219596/)
+
+Article found but Couldn't summarize
+
+Sun, 17 Mar 2024 12:15:49 +0000
+### [Why Kerala and the Centre are in a dispute over state borrowing limits at the SC](https://indianexpress.com/article/explained/explained-law/kerala-centre-borrowing-limits-sc-9219386/)
+
+Article found but Couldn't summarize
+
+Sun, 17 Mar 2024 10:22:10 +0000
+### [Why Delhi’s Dolma Aunty Momos challenged the use of her trade mark, what the law says](https://indianexpress.com/article/explained/explained-law/delhi-dolma-aunty-momos-trademark-passing-off-9219191/)
+
+Article found but Couldn't summarize
+
+Sun, 17 Mar 2024 06:10:38 +0000
+### [Amid Nepal’s continuing political turmoil, confidence vote win for PM Prachanda, the task for India](https://indianexpress.com/article/explained/explained-global/nepal-politics-prachanda-india-relations-9218873/)
+
+Article found but Couldn't summarize
+
+Sun, 17 Mar 2024 01:35:47 +0000
+### [How the Karnataka government has justified its hookah ban](https://indianexpress.com/article/explained/explained-law/karnataka-government-hookah-ban-9218153/)
+
+Article found but Couldn't summarize
+
 Sat, 16 Mar 2024 14:27:54 +0000
 ### [Is it illegal to watch child pornography? SC hears petition](https://indianexpress.com/article/explained/explained-law/illegal-watch-child-pornography-9218160/)
 

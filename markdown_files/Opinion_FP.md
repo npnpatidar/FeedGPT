@@ -1,3 +1,33 @@
+Sun, 17 Mar 2024 19:06:20 +0530
+### [Interview | Long-term thinking and self-confidence have made Rupa publication stand out: Rajen Mehra](https://www.firstpost.com/opinion/interview-long-term-thinking-and-self-confidence-have-made-rupa-publication-stand-out-rajen-mehra-13749786.html)
+
+Article found but Couldn't summarize 
+Rajen Mehra’s book ‘Never Out Of Print: The Rupa Story: The Journey Of An Independent Indian Publisher’ provides a social history of India through the lens of publishing
+
+Sun, 17 Mar 2024 18:12:24 +0530
+### [Rahul Sankrityayan’s Tibet connect debunks false Chinese narrative](https://www.firstpost.com/opinion/rahul-sankrityayans-tibet-connect-debunks-false-chinese-narrative-13749779.html)
+
+Article found but Couldn't summarize 
+Sankrityayan’s four visits to Tibet are fascinating as they are a vibrant proof of the century-old linkages between India and Tibet—a fact denied by Communist China today—and a proof that Tibet is truly a child of Indian civilisation
+
+Sun, 17 Mar 2024 16:43:16 +0530
+### [Delhi and Haryana: Two states, intertwined destinies](https://www.firstpost.com/opinion/delhi-and-haryana-two-states-intertwined-destinies-13749759.html)
+
+Article found but Couldn't summarize 
+The next time you travel in Haryana, through any part ranging from Panipat to Hisar to Narnaul, just recall that the place you are passing through may be linked to Delhi in more ways than you can imagine
+
+Sun, 17 Mar 2024 14:24:37 +0530
+### [End of Swedish ‘neutrality’: NATO’s eastward expansion further antagonises Putin’s Russia](https://www.firstpost.com/opinion/end-of-swedish-neutrality-natos-eastward-expansion-further-antagonises-putins-russia-13749729.html)
+
+Article found but Couldn't summarize 
+Sweden's pivot to NATO underscores a shift in Europe's security dynamics. The eastward NATO expansion towards the Russian border will enrage and unsettle the Kremlin
+
+Sun, 17 Mar 2024 12:38:22 +0530
+### [Dragon in the room: Congruence, convergence and conflicts in Indo-Pacific](https://www.firstpost.com/opinion/dragon-in-the-room-congruence-convergence-and-conflicts-in-indo-pacific-13749708.html)
+
+Article found but Couldn't summarize 
+The Indo-Pacific region comprises 65 per cent of the world’s oceans, and countries throughout the region depend on the free movement of goods and people for their livelihoods
+
 Sat, 16 Mar 2024 18:40:09 +0530
 ### [Why implementing Citizenship Amendment Act is India's historical and humanitarian responsibility](https://www.firstpost.com/opinion/why-implementing-citizenship-amendment-act-is-indias-historical-and-humanitarian-responsibility-13749589.html)
 

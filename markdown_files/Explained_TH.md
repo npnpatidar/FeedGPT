@@ -1,3 +1,9 @@
+Sun, 17 Mar 2024 22:18:44 +0530
+### [The problem of equity in IPCC reports | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/the-problem-of-equity-in-ipcc-reports-explained/article67962175.ece)
+
+Article found but Couldn't summarize 
+What underpins mitigation action in assessment reports by the UN Intergovernmental Panel on Climate Change? What are Integrated Assessment Models? Do these models follow the principle of equity?
+
 Sun, 17 Mar 2024 04:18:00 +0530
 ### [With Agni V test, India makes the MIRV leap](https://www.thehindu.com/news/national/with-agni-v-test-india-makes-the-mirv-leap/article67958035.ece)
 

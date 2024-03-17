@@ -1,3 +1,21 @@
+Sun, 17 Mar 2024 16:11:26 +0530
+### [Do you sit for seven to 11 hours a day? Here’s why you need to get off the chair](https://www.firstpost.com/explainers/do-you-sit-for-seven-to-11-hours-a-day-heres-why-you-need-to-get-off-the-chair-13748214.html)
+
+Article found but Couldn't summarize 
+How much sitting is too much sitting? A new study from the University of California, San Diego says 11 hours per day. Other research says seven hours each day could be a lot. You shouldn’t sit for longer than 30 minutes in one go as this can increase your blood sugar levels and blood pressure
+
+Sun, 17 Mar 2024 12:02:45 +0530
+### [Do you compare finances to others, feel inadequate? It may be ‘money dysmorphia’](https://www.firstpost.com/explainers/money-dysmorphia-financial-anxiety-social-media-13748916.html)
+
+Article found but Couldn't summarize 
+There’s a new problem plaguing young adults. It’s called money dysmorphia. Nearly half of the millennials and Gen Zers in the US feel they are financially behind, which might not be fact-based. Social media is partly to be blamed
+
+Sun, 17 Mar 2024 09:16:35 +0530
+### [This Week in Explainers: Why Vladimir Putin wins election after election in Russia](https://www.firstpost.com/explainers/this-week-in-explainers-why-vladimir-putin-wins-election-after-election-in-russia-13749275.html)
+
+Article found but Couldn't summarize 
+Russia is holding its presidential elections and it’s almost certain that Vladimir Putin will extend his reign by another six years. How has Russia’s ‘macho man’ won each poll he has contested? We explore this and more in our weekly roundup of big global news
+
 Sat, 16 Mar 2024 18:15:44 +0530
 ### [97.8 crore voters, 1.5 crore polling officials: The big numbers to know ahead of Lok Sabha election](https://www.firstpost.com/explainers/97-8-crore-voters-1-5-crore-polling-officials-the-big-numbers-to-know-ahead-of-lok-sabha-election-13749561.html)
 

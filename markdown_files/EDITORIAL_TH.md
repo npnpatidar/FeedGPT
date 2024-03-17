@@ -1,3 +1,15 @@
+Mon, 18 Mar 2024 00:30:00 +0530
+### [On the ballot: On the general election to the 18th Lok Sabha](https://www.thehindu.com/opinion/editorial/on-the-ballot-the-hindu-editorial-on-the-general-election-to-the-18th-lok-sabha/article67961517.ece)
+
+Article found but Couldn't summarize 
+The Election Commission must ensure a free and fair democratic process
+
+Mon, 18 Mar 2024 00:15:00 +0530
+### [Bonded favours: On the electoral bond scheme, sordid revelations](https://www.thehindu.com/opinion/editorial/bonded-favours-the-hindu-editorial-on-the-electoral-bond-scheme-sordid-revelations/article67961545.ece)
+
+Article found but Couldn't summarize 
+Disclosures confirm fears of sceptics about electoral bonds
+
 Sat, 16 Mar 2024 00:20:00 +0530
 ### [Food factor: On the latest retail inflation data](https://www.thehindu.com/opinion/editorial/food-factor-on-the-latest-retail-inflation-data/article67954999.ece)
 
