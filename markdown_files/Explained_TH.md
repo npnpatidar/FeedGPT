@@ -1,3 +1,21 @@
+Mon, 18 Mar 2024 23:26:11 +0530
+### [Anthropocene epoch declaration unlikely soon, but the idea lives on | Explained](https://www.thehindu.com/sci-tech/science/anthropocene-epoch-declaration-unlikely-soon-but-the-idea-lives-on-explained/article67964371.ece)
+
+Article found but Couldn't summarize 
+An expert commission rejected a proposal to mark the start of the Anthropocene at a particular date, but the rejection was neither victory nor defeat
+
+Mon, 18 Mar 2024 22:18:41 +0530
+### [What do FTAs with European countries signal? | Explained](https://www.thehindu.com/news/national/what-do-ftas-with-european-countries-signal-explained/article67964270.ece)
+
+Article found but Couldn't summarize 
+What are the key components? For trading partners, is a Free Trade Agreement with India attractive because they can surpass India’s high tariff walls to access a large market? What are the other challenges at a time of rising protectionism across both developed and developing countries?
+
+Mon, 18 Mar 2024 08:30:00 +0530
+### [How were the new Election Commissioners selected? | Explained](https://www.thehindu.com/news/national/how-were-the-new-election-commissioners-selected-explained/article67962200.ece)
+
+Article found but Couldn't summarize 
+What does the law say on the appointment process? Why has the new Act been challenged?
+
 Sun, 17 Mar 2024 22:18:44 +0530
 ### [The problem of equity in IPCC reports | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/the-problem-of-equity-in-ipcc-reports-explained/article67962175.ece)
 

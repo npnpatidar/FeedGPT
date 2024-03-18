@@ -1,3 +1,28 @@
+Mon, 18 Mar 2024 15:59:08 +0000
+### [Vladimir Putin won the Russian elections with 87% of the vote. Who were his opponents?](https://indianexpress.com/article/explained/everyday-explainers/vladimir-putin-russia-elections-candidates-opposition-9221272/)
+
+Article found but Couldn't summarize
+
+Mon, 18 Mar 2024 15:48:08 +0000
+### [Pakistan carries out strikes inside Afghanistan: What is happening, and why](https://indianexpress.com/article/explained/explained-global/pakistan-strikes-inside-afghanistan-why-9221302/)
+
+Article found but Couldn't summarize
+
+Mon, 18 Mar 2024 02:00:45 +0000
+### [Floating pier off Gaza coast: How US plans to deliver humanitarian aid](https://indianexpress.com/article/explained/explained-global/how-us-plans-to-deliver-gaza-aid-9219881/)
+
+Article found but Couldn't summarize
+
+Mon, 18 Mar 2024 02:00:14 +0000
+### [Analysing datasets: How predictive AI models are gaining traction](https://indianexpress.com/article/explained/analysing-datasets-how-predictive-ai-models-are-gaining-traction-9219953/)
+
+Article found but Couldn't summarize
+
+Mon, 18 Mar 2024 01:43:29 +0000
+### [A billionaire CEO died after her Tesla reversed into a pond: Questions this has raised about car safety](https://indianexpress.com/article/explained/explained-global/angela-chao-dead-tesla-car-safety-9219921/)
+
+Article found but Couldn't summarize
+
 Sun, 17 Mar 2024 15:46:29 +0000
 ### [Why the US wants to ban TikTok, what the idea’s critics say](https://indianexpress.com/article/explained/explained-global/us-ban-tiktok-reason-criticism-china-9219577/)
 

@@ -1,3 +1,15 @@
+Tue, 19 Mar 2024 00:30:00 +0530
+### [Trade puzzle: On exports and global trade](https://www.thehindu.com/opinion/editorial/trade-puzzle-the-hindu-editorial-on-exports-and-global-trade/article67965009.ece)
+
+Article found but Couldn't summarize 
+The uptick in goods exports is heartening, but difficult to sustain
+
+Tue, 19 Mar 2024 00:15:00 +0530
+### [Hollow victory: On the Russian election, Putin’s win](https://www.thehindu.com/opinion/editorial/hollow-victory-the-hindu-editorial-on-the-russian-election-putins-win/article67965095.ece)
+
+Article found but Couldn't summarize 
+The manner of Putin’s win exposes the underlying weakness of the regime
+
 Mon, 18 Mar 2024 00:30:00 +0530
 ### [On the ballot: On the general election to the 18th Lok Sabha](https://www.thehindu.com/opinion/editorial/on-the-ballot-the-hindu-editorial-on-the-general-election-to-the-18th-lok-sabha/article67961517.ece)
 

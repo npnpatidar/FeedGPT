@@ -1,3 +1,33 @@
+Mon, 18 Mar 2024 20:31:42 +0530
+### [SC judgement on electoral bond brings transparency, but unqualified brouhaha is meaningless](https://www.firstpost.com/opinion/sc-judgement-on-electoral-bond-brings-transparency-but-unqualified-brouhaha-is-meaningless-13750261.html)
+
+Article found but Couldn't summarize 
+We, as a democracy, have managed to cross the hurdles and provide full transparency to our citizens with regards to political financial contributions. This should be celebrated and not just used as a weapon for political mudslinging
+
+Mon, 18 Mar 2024 17:21:36 +0530
+### [Why America needs a nuanced understanding of Indian diplomacy](https://www.firstpost.com/opinion/why-america-needs-a-nuanced-understanding-of-indian-diplomacy-13750185.html)
+
+Article found but Couldn't summarize 
+A hegemon exercising an overarching influence over the weaker states based on sheer brute power is not a characteristic feature of Indian strategic thought
+
+Mon, 18 Mar 2024 14:42:41 +0530
+### [The Gemini effect: Artificial intelligence and the delicate balance between modern values and historical fidelity](https://www.firstpost.com/opinion/the-gemini-effect-artificial-intelligence-and-the-delicate-balance-between-modern-values-and-historical-fidelity-13750081.html)
+
+Article found but Couldn't summarize 
+As Google’s AI-driven image generator, Gemini, sought to infuse a spirit of inclusivity and diversity into its renditions of historical figures, it led to the creation of images that were not only anachronistic but also historically inaccurate
+
+Mon, 18 Mar 2024 12:33:25 +0530
+### [Weather Report: Summer to set in north India from next week; southern states experiencing above-average heat](https://www.firstpost.com/opinion/weather-report-summer-to-set-in-north-india-from-next-week-southern-states-experiencing-above-average-heat-13749992.html)
+
+Article found but Couldn't summarize 
+Widespread moderate to heavy rain, hailstorms, lightning strikes, and thunder are expected across West Bengal, Jharkhand, Odisha, Chhattisgarh, Telangana, Andhra Pradesh, Vidarbha, east Madhya Pradesh, and south Bihar for the next four to five days
+
+Mon, 18 Mar 2024 10:06:17 +0530
+### [How anti-India obsession will never allow Pakistan to fix its economy](https://www.firstpost.com/opinion/how-anti-india-obsession-will-never-allow-pakistan-to-fix-its-economy-13749900.html)
+
+Article found but Couldn't summarize 
+New Finance Minister Muhammad Aurangzeb is not the first banker Pakistani politicians have chosen to improve their economy. His predecessors could do really nothing because Pakistan has to change its ideology
+
 Sun, 17 Mar 2024 19:06:20 +0530
 ### [Interview | Long-term thinking and self-confidence have made Rupa publication stand out: Rajen Mehra](https://www.firstpost.com/opinion/interview-long-term-thinking-and-self-confidence-have-made-rupa-publication-stand-out-rajen-mehra-13749786.html)
 

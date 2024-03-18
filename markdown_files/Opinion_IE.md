@@ -1,3 +1,43 @@
+Mon, 18 Mar 2024 13:55:02 +0000
+### [Attack on foreign students for offering namaz at Gujarat University: Bigotry’s new normal](https://indianexpress.com/article/opinion/columns/gujarat-university-students-namaz-attack-bigotry-9221127/)
+
+Article found but Couldn't summarize
+
+Mon, 18 Mar 2024 09:59:22 +0000
+### [Ashok Lavasa on electoral bonds disclosure: How to connect the dots and ask the right questions](https://indianexpress.com/article/opinion/columns/electoral-bonds-disclosure-questions-9220686/)
+
+Article found but Couldn't summarize
+
+Mon, 18 Mar 2024 02:45:24 +0000
+### [Why it is necessary to diversify the farming basket](https://indianexpress.com/article/opinion/columns/minimum-support-price-punjab-rice-productivity-agri-gdp-bengal-tamil-nadu-9219692/)
+
+Article found but Couldn't summarize
+
+Mon, 18 Mar 2024 02:45:09 +0000
+### [Express View on Eu’s AI law: Strive for an intelligent balance](https://indianexpress.com/article/opinion/editorials/an-intelligent-balance-9219714/)
+
+Article found but Couldn't summarize
+
+Mon, 18 Mar 2024 02:30:00 +0000
+### [The Ambani pre-wedding involved us all](https://indianexpress.com/article/opinion/columns/anant-ambani-jamnagar-show-ambanis-invited-every-indian-celebririties-at-ambani-pre-wedding-9219690/)
+
+Article found but Couldn't summarize
+
+Mon, 18 Mar 2024 02:25:45 +0000
+### [March 18, Forty Years Ago: Justice Khatri’s case](https://indianexpress.com/article/opinion/40-years-ago/march-18-forty-years-ago-justice-khatris-case-9219697/)
+
+Article found but Couldn't summarize
+
+Mon, 18 Mar 2024 02:11:38 +0000
+### [Express View on 2024 general elections: Lok in Lok Sabha](https://indianexpress.com/article/opinion/editorials/lok-in-lok-sabha-9219709/)
+
+Article found but Couldn't summarize
+
+Mon, 18 Mar 2024 02:00:24 +0000
+### [The open book challenge: Knowledge matters, not rote learning](https://indianexpress.com/article/opinion/columns/open-book-exam-implementation-obe-challenges-national-education-policy-2020-9219708/)
+
+Article found but Couldn't summarize
+
 Sun, 17 Mar 2024 14:26:06 +0000
 ### [Lok Sabha elections 2024: Busy season for politicians, media — and astrologers](https://indianexpress.com/article/opinion/columns/lok-sabha-elections-2024-astrologers-9219489/)
 

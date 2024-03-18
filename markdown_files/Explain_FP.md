@@ -1,3 +1,81 @@
+Mon, 18 Mar 2024 20:18:34 +0530
+### [Vegetable prices surge, rentals may drop: How Bengaluru’s water scarcity is worsening](https://www.firstpost.com/explainers/bengaluru-water-shortage-vegetable-prices-surge-rentals-may-drop-13750265.html)
+
+Article found but Couldn't summarize 
+Amid acute water scarcity, Bengaluru residents are stung by a surge in vegetable prices as supplies have taken a hit. The IT hub's water woes can also affect its real estate market, with potential investors reconsidering their decision
+
+Mon, 18 Mar 2024 19:56:30 +0530
+### [Fasten Your Seat Belt: Is it safe to fly on Boeing planes?](https://www.firstpost.com/explainers/boeing-controversies-737-max-787-whistleblower-death-plane-safety-13750183.html)
+
+Article found but Couldn't summarize 
+Boeing has been in the news for all the wrong reasons. An emergency door plug blew off a Boeing 737 MAX mid-flight in January. More recently, a plane dropped in flight, injuring passengers, and a Boeing whistleblower died. What is going on at the company and should flyers be concerned?
+
+Mon, 18 Mar 2024 19:08:36 +0530
+### [Gold bars are passé in China; the young are buying gold beans: What are they?](https://www.firstpost.com/explainers/gold-beans-china-young-genz-economic-condition-investments-13750184.html)
+
+Article found but Couldn't summarize 
+China’s Gen-Z are buying gold, one bean at a time in an attempt to secure their financial future. These beans, which are pill-sized, cost between 450 to 600 yuan (Rs 5,300-Rs 7,077), making them easily affordable to the young
+
+Mon, 18 Mar 2024 19:01:38 +0530
+### [In Graphics | Lok Sabha Elections 2024: When will your state go to the polls?](https://www.firstpost.com/explainers/lok-sabha-elections-2024-when-will-your-state-go-to-the-polls-maps-13750226.html)
+
+Article found but Couldn't summarize 
+It is the world’s biggest election. The 2024 Lok Sabha polls will be held in seven phases from 19 April to 1 June, stretching over 44 days. These maps explain it all
+
+Mon, 18 Mar 2024 17:14:40 +0530
+### [Why is Uber paying $178 million to Australian taxi drivers?](https://www.firstpost.com/explainers/uber-178-million-payout-australian-taxi-drivers-us-ride-hailing-app-lawsuits-13750188.html)
+
+Article found but Couldn't summarize 
+Uber has agreed to cough up A$271.8 million (about Rs 1,480 crore) to thousands of taxi drivers and operators in Australia in a world-first class action payout. The settlement comes after five ‘gruelling’ years of the legal battle against the US company
+
+Mon, 18 Mar 2024 16:58:30 +0530
+### [Will Vladimir Putin’s victory in Russia result in a new global order?](https://www.firstpost.com/explainers/russia-elections-vladimir-putin-victory-new-global-order-13749998.html)
+
+Article found but Couldn't summarize 
+Vladimir Putin is all set to begins his fifth term as president with results stating that he won more than 87 per cent of the vote. His priorities now include consolidating control over Russian politics and continuing the war in Ukraine
+
+Mon, 18 Mar 2024 15:15:34 +0530
+### [How safe is Tesla? How a US billionaire’s death has raised concerns about car](https://www.firstpost.com/explainers/us-billionaire-angela-chao-death-tesla-safety-concerns-13750036.html)
+
+Article found but Couldn't summarize 
+The tragic death of Angela Chao, CEO of shipping company Foremost Group, last month after her Tesla fell into a pond in Texas has put the spotlight on the car’s safety. The 50-year-old had accidentally put the car in reverse instead of in drive – a mistake experienced by other Tesla owners as well
+
+Mon, 18 Mar 2024 14:32:50 +0530
+### [Russia election: What Putin’s win means for the war and the world](https://www.firstpost.com/explainers/russia-election-what-vladimir-putin-win-means-for-ukraine-war-world-china-india-13750047.html)
+
+Article found but Couldn't summarize 
+Russian president Vladimir Putin has claimed a landslide victory in Russia. Soon after the win, he said he would prioritise the Ukraine offensive and warned of World War III. What will he do next?
+
+Mon, 18 Mar 2024 13:06:34 +0530
+### [India’s 2024 Lok Sabha election will be second-longest in the country. Here’s why](https://www.firstpost.com/explainers/india-2024-lok-sabha-election-second-longest-in-country-reasons-13750006.html)
+
+Article found but Couldn't summarize 
+The schedule for the 2024 Lok Sabha elections is out. The first phase of voting will begin on 19 April and the last phase, the seventh, will be held on 1 June, with results to be declared on 4 June. At 44 days, this makes it the longest poll season since the first election in 1951-52
+
+Mon, 18 Mar 2024 12:02:48 +0530
+### [Why will ballot boxes for the Maldives elections be kept in India?](https://www.firstpost.com/explainers/maldives-elections-ballot-boxes-india-13749936.html)
+
+Article found but Couldn't summarize 
+The secretary general of the Maldivian poll body, Hassan Zakariyya, stated that sufficient voters had re-registered for ballot boxes in three foreign countries — India, Sri Lanka, and Malaysia
+
+Mon, 18 Mar 2024 10:32:44 +0530
+### [Electoral bonds: How 'Lottery King' Santiago Martin emerged as DMK's biggest donor](https://www.firstpost.com/explainers/electoral-bonds-lottery-king-santiago-martin-dmk-biggest-donor-13749897.html)
+
+Article found but Couldn't summarize 
+'Lottery King' Santiago Martin's Future Gaming and Hotel Services, the top purchaser of electoral bonds, donated a whopping Rs 509 crore to Tamil Nadu's ruling party DMK, accounting for more than 77 per cent of the total received funds
+
+Mon, 18 Mar 2024 09:56:51 +0530
+### [Russia election: Why ‘Noon against Putin’ protests are significant despite his win](https://www.firstpost.com/explainers/russia-election-noon-against-putin-protests-significance-13749880.html)
+
+Article found but Couldn't summarize 
+On the final day of polling for the Russian presidential elections, several turned up at precisely 12 pm outside polling booths in the country and outside Russian embassies across the world as part of the ‘Noon against Putin’ protests. These protesters spoiled their ballot or simply voted against the strongman — in a move to express their solidarity with Alexei Navalny and to express their dissent
+
+Mon, 18 Mar 2024 09:04:57 +0530
+### [Explained: How intermittent fasting benefits our brains](https://www.firstpost.com/explainers/explained-how-intermittent-fasting-benefits-our-brains-13748889.html)
+
+Article found but Couldn't summarize 
+Some research suggests intermittent fasting may offer a different way for the brain to access energy and provide protection against neurodegenerative diseases like Alzheimer’s disease
+
 Mon, 18 Mar 2024 05:00:00 +0530
 ### [FirstUp: FLY91 takes to the skies, PM in Coimbatore: The headlines today](https://www.firstpost.com/explainers/firstup-fly91-takes-to-the-skies-pm-in-coimbatore-the-headlines-today-13749747.html)
 

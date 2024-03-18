@@ -1,3 +1,39 @@
+Mon, 18 Mar 2024 19:17:50 +0530
+### [Bengaluru should transform itself into Kongjian Yu's sponge city](https://www.livemint.com/opinion/online-views/bengaluru-should-transform-itself-into-kongjian-yus-sponge-city-11710764276128.html)
+
+Article found but Couldn't summarize 
+The city should use this urban planner's idea of absorbing, cleaning and using rainwater efficiently and sustainably. His concept is not just about managing water, but harmonizing urban development with nature’s cycles.
+
+Mon, 18 Mar 2024 19:17:11 +0530
+### [Plato's observation holds true even today: Those who tell stories rule the world](https://www.livemint.com/opinion/online-views/platos-observation-holds-true-even-today-those-who-tell-stories-rule-the-world-11710767459491.html)
+
+Article found but Couldn't summarize 
+Apart from being a cognitive skill, public speaking is a character skill too, making it perhaps the most powerful force multiplier a leader could deploy.
+
+Mon, 18 Mar 2024 19:14:01 +0530
+### [Not even far-flung Antarctica could escape the covid virus](https://www.livemint.com/opinion/online-views/not-even-far-flung-antarctica-could-escape-the-covid-virus-11710764192113.html)
+
+Article found but Couldn't summarize 
+How the Sars-CoV-2 reached there is a lesson in humility for humanity at large. We exert far less control over pathogens and public health than we’d like to think.
+
+Mon, 18 Mar 2024 08:00:15 +0530
+### [Let’s reform India’s bankruptcy code but without getting in the way of commerce](https://www.livemint.com/opinion/online-views/lets-reform-india-s-bankruptcy-code-but-without-getting-in-the-way-of-commerce-11710675074004.html)
+
+Article found but Couldn't summarize 
+There’s a case to tweak the IBC. But India should take care to oil the wheels of business and not throw in a spanner.
+
+Mon, 18 Mar 2024 08:00:15 +0530
+### [Indian democracy is at a significant crossroads](https://www.livemint.com/opinion/online-views/indian-democracy-is-at-a-significant-crossroads-11710674984774.html)
+
+Article found but Couldn't summarize 
+As the schedule for this year’s Lok Sabha polls is announced, the country’s debate over the future of our democracy features legitimate misgivings over campaign finance and synchronized elections.
+
+Mon, 18 Mar 2024 08:00:15 +0530
+### [Tesla: Red carpet welcome in India?](https://www.livemint.com/opinion/quick-edit/tesla-red-carpet-welcome-in-india-11710674901981.html)
+
+Article found but Couldn't summarize 
+Not quite. India has lowered import barriers for EVs made by big automakers, but with significant conditions. While we may finally see Tesla cars on Indian streets, what we need is a plan that ensures it’s renewable power than runs EVs as they proliferate in the country.
+
 Sun, 17 Mar 2024 22:39:00 +0530
 ### [Indian sophistication on stray dogs can be confusing](https://www.livemint.com/opinion/online-views/indian-sophistication-on-stray-dogs-can-be-confusing-11710675151847.html)
 
