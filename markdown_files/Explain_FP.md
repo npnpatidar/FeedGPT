@@ -1,3 +1,9 @@
+Mon, 18 Mar 2024 05:00:00 +0530
+### [FirstUp: FLY91 takes to the skies, PM in Coimbatore: The headlines today](https://www.firstpost.com/explainers/firstup-fly91-takes-to-the-skies-pm-in-coimbatore-the-headlines-today-13749747.html)
+
+Article found but Couldn't summarize 
+It’s another manic Monday. Regional airline, FLY91, will start commercial services today from Goa. PM Narendra Modi will also hold a four-km-long roadshow in Coimbatore ahead of the 2024 Lok Sabha elections. Here’s what else to expect today
+
 Sun, 17 Mar 2024 16:11:26 +0530
 ### [Do you sit for seven to 11 hours a day? Here’s why you need to get off the chair](https://www.firstpost.com/explainers/do-you-sit-for-seven-to-11-hours-a-day-heres-why-you-need-to-get-off-the-chair-13748214.html)
 
