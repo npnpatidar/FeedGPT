@@ -1,3 +1,43 @@
+Tue, 19 Mar 2024 14:03:03 +0000
+### [What has caused the water crisis in Bengaluru, neighbouring areas](https://indianexpress.com/article/explained/explained-climate/what-caused-the-water-crisis-in-bengaluru-9223131/)
+
+Article found but Couldn't summarize
+
+Tue, 19 Mar 2024 13:20:36 +0000
+### [WMO report out: 6 charts that tell you everything about the health of our planet](https://indianexpress.com/article/explained/explained-climate/wmo-state-of-climate-report-9223032/)
+
+Article found but Couldn't summarize
+
+Tue, 19 Mar 2024 11:58:21 +0000
+### [World Bank report says women earn 77 cents for every dollar a man earns: what is the gender pay gap?](https://indianexpress.com/article/explained/explained-economics/world-bank-report-what-is-the-gender-pay-gap-9222848/)
+
+Article found but Couldn't summarize
+
+Tue, 19 Mar 2024 08:22:40 +0000
+### [Why the B200 Blackwell chip will consolidate Nvidia’s stranglehold over the AI market](https://indianexpress.com/article/explained/explained-sci-tech/b200-blackwell-chip-nvidia-ai-9222412/)
+
+Article found but Couldn't summarize
+
+Tue, 19 Mar 2024 08:16:17 +0000
+### [Why have Sensex and Nifty tanked 1% each?](https://indianexpress.com/article/explained/explained-economics/markets-sensex-nifty-tanked-1-percent-9222385/)
+
+Article found but Couldn't summarize
+
+Tue, 19 Mar 2024 04:28:04 +0000
+### [The big promise of small-scale LNG as fuel for India, with first SSLNG plant commissioned](https://indianexpress.com/article/explained/explained-economics/small-scale-lng-vijaipur-fuel-energy-9221867/)
+
+Article found but Couldn't summarize
+
+Tue, 19 Mar 2024 02:25:00 +0000
+### [Heat, aridity, clear skies: why forests are already ablaze in the Nilgiris](https://indianexpress.com/article/explained/heat-aridity-clear-skies-why-forests-are-already-ablaze-in-the-nilgiris-9221517/)
+
+Article found but Couldn't summarize
+
+Tue, 19 Mar 2024 01:38:13 +0000
+### [Fresh tussle with Governor: Why Tamil Nadu has moved SC to have a minister reinstated](https://indianexpress.com/article/explained/explained-law/disqualification-over-graft-ravi-vs-tn-govt-again-9221516/)
+
+Article found but Couldn't summarize
+
 Mon, 18 Mar 2024 15:59:08 +0000
 ### [Vladimir Putin won the Russian elections with 87% of the vote. Who were his opponents?](https://indianexpress.com/article/explained/everyday-explainers/vladimir-putin-russia-elections-candidates-opposition-9221272/)
 

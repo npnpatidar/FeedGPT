@@ -1,3 +1,93 @@
+Tue, 19 Mar 2024 21:16:11 +0530
+### [For a ‘stable president’: Why is everyone talking about Joe Biden’s new pair of sneakers?](https://www.firstpost.com/explainers/us-president-joe-biden-hoka-sneakers-stability-13750564.html)
+
+Article found but Couldn't summarize 
+US president Joe Biden has grabbed headlines for tripping during public appearances. Now the 81-year-old has been spotted wearing thick-soled all-black sneakers. The shoes, manufactured by Hoka and ‘designed for maximum comfort and support while walking or hiking’, are raising eyebrows
+
+Tue, 19 Mar 2024 20:17:20 +0530
+### [Battle for Maharashtra: Will Raj Thackeray's MNS join hands with BJP ahead of Lok Sabha polls?](https://www.firstpost.com/explainers/maharashtra-raj-thackeray-mns-bjp-nda-alliance-lok-sabha-elections-13750722.html)
+
+Article found but Couldn't summarize 
+MNS founder Raj Thackeray’s meeting with Union home minister Amit Shah in Delhi on Tuesday has set off speculations about the BJP getting a new ally in Maharashtra. With its 48 seats, the western state, which sends most MPs to Lok Sabha after Uttar Pradesh, is important for the BJP’s ‘over 400’ target for its alliance NDA
+
+Tue, 19 Mar 2024 19:31:25 +0530
+### [Star Wars: Why are Sri Lankan astrologers fighting over dates for new year rituals?](https://www.firstpost.com/explainers/star-wars-sri-lankan-astrologers-dates-new-year-rituals-13750556.html)
+
+Article found but Couldn't summarize 
+Sri Lanka's government-backed traditional astrologers have failed to unanimously agree on dates for new year rituals, with squabbling seers warning of ‘disaster’ and accusing rivals of misinterpreting the position of stars
+
+Tue, 19 Mar 2024 19:31:14 +0530
+### [Starvation, malnutrition and death: How Gaza is heading towards a famine](https://www.firstpost.com/explainers/gaza-famine-hunger-starvation-un-ipc-report-13750692.html)
+
+Article found but Couldn't summarize 
+People, including babies, are dying from starvation and dehydration in north Gaza. Many are scavenging and eating animal feed and grass. Now a UN-backed report says that a famine is imminent as 70 per cent of the population is suffering from catastrophic levels of hunger
+
+Tue, 19 Mar 2024 18:18:24 +0530
+### [From Kategate to Megxit: The many controversies of British royal family bahus](https://www.firstpost.com/explainers/kategate-megxit-tampongate-controversies-british-royal-family-bahus-kate-meghan-diana-camilla-13750614.html)
+
+Article found but Couldn't summarize 
+Kate, the Princess of Wales, finds herself embroiled in ‘Kategate’, with people speculating about her health, whereabouts, and even her marriage with Prince William. However, this isn’t the first time that the women in the British royal family have found themselves in the eye of the storm. From Meghan Markle to Princess Diana, they've all had their share of controversies
+
+Tue, 19 Mar 2024 17:22:07 +0530
+### [What is female genital mutilation that Gambia wants to decriminalise? Which countries allow it?](https://www.firstpost.com/explainers/gambia-female-genital-mutilation-ban-which-countries-allow-fgm-13750656.html)
+
+Article found but Couldn't summarize 
+Female genital mutilation, a centuries-old ritual practised in some communities, includes the deliberate cutting or changing of a young girl or woman’s external genitalia. Gambia, which banned it in 2015, is seeking to remove those legal protections for girls
+
+Tue, 19 Mar 2024 16:18:05 +0530
+### [What is STEAG, Indian Army's new elite unit for future warfare?](https://www.firstpost.com/explainers/what-is-steag-indian-armys-new-elite-unit-for-future-warfare-13750504.html)
+
+Article found but Couldn't summarize 
+The Signals Technology Evaluation and Adaptation Group (STEAG) is the first of its kind unit that will undertake research and evaluation of futuristic communication technologies, like AI, machine learning, software-defined radios, electronic warfare systems, 6G networks, and more. It is part of the Indian Army's efforts to develop technologies
+
+Tue, 19 Mar 2024 15:19:41 +0530
+### [Bank of Japan ends negative interest rates: What does this mean? How does it affect Japan’s economy?](https://www.firstpost.com/explainers/bank-of-japan-negative-interest-rates-meaning-economy-impact-significance-13750527.html)
+
+Article found but Couldn't summarize 
+The Bank of Japan has raised its key interest rates, stepping away from the country’s negative interest rate policy. This is the first time in 17 years that such a step has been taken after the country witnessed inflation as well as wages rising
+
+Tue, 19 Mar 2024 14:09:31 +0530
+### [Pashupati Paras leaves NDA over BJP’s deal with nephew, Chirag Paswan? What does it mean for Bihar Lok Sabha polls?](https://www.firstpost.com/explainers/pashupati-kumar-paras-resigns-union-minister-bjp-deal-chirag-paswan-bihar-lok-sabha-elections-13750551.html)
+
+Article found but Couldn't summarize 
+RLJP chief Pashupati Kumar Paras resigned as Union minister after his party got no place in the BJP-led NDA’s seat-sharing pact in Bihar for the upcoming Lok Sabha elections. Now, a direct contest between him and his nephew, Chirag Paswan, is likely on some seats in the state
+
+Tue, 19 Mar 2024 13:38:30 +0530
+### [Musk says his ketamine use is good for investors: What is this drug and how safe is it?](https://www.firstpost.com/explainers/elon-musk-ketamine-use-depression-drug-linked-matthew-perry-death-13750529.html)
+
+Article found but Couldn't summarize 
+Elon Musk has opened up about the use of ketamine, claiming he has a prescription from a ‘real’ doctor. The mind-bending drug has been used to treat depression, anxiety and other psychological illnesses. It is also linked to the death of F.R.I.E.N.D.S star Matthew Perry, raising questions about its safety
+
+Tue, 19 Mar 2024 12:40:24 +0530
+### [How Delhi retained title of being world's most polluted capital city](https://www.firstpost.com/explainers/delhi-world-most-polluted-capital-city-13750435.html)
+
+Article found but Couldn't summarize 
+The World Air Quality Report 2023 published by the Swiss organisation IQAir has deemed Delhi as the world’s most polluted capital city. As per the study, PM2.5 levels in the capital worsened from 89.1 micrograms per cubic metre in 2022 to 92.7 micrograms per cubic metre in 2023
+
+Tue, 19 Mar 2024 11:29:57 +0530
+### [Narayana Murthy gifts 4-month-old grandson Rs 240 crore Infosys stake: How toddlers become 'promoters'](https://www.firstpost.com/explainers/narayana-murthy-gifts-4-month-old-grandson-rs-240-crore-infosys-stake-how-toddlers-become-promoters-13750466.html)
+
+Article found but Couldn't summarize 
+With the gift of 15 lakh shares, Infosys co-founder Narayana Murthy made his four-month-old grandson Ekagrah perhaps the youngest millionaire in the nation. Currently, the baby owns 0.04 per cent of the second-largest information technology company in India
+
+Tue, 19 Mar 2024 10:29:35 +0530
+### [Pakistan carries out airstrikes in Afghanistan: How Islamabad-Taliban ties have deteriorated](https://www.firstpost.com/explainers/pakistan-airstrikes-afghanistan-islamabad-taliban-ties-deteriorated-13750422.html)
+
+Article found but Couldn't summarize 
+Pakistan launched two airstrikes on Monday in Afghanistan’s Paktika and Khost provinces, killing eight people. Later, Islamabad said it was part of their ‘intelligence-based anti-terrorist operations’. In retaliation, the Taliban carried out firing across the border, which is likely to increase tensions between the two. Why have the two neighbours fallen apart?
+
+Tue, 19 Mar 2024 09:28:23 +0530
+### [Ninth death of Indian student in US in 2024: Was Abhijeeth Paruchuru murdered?](https://www.firstpost.com/explainers/ninth-indian-student-death-us-abhijeeth-paruchuru-13750361.html)
+
+Article found but Couldn't summarize 
+Abhijeeth Paruchuru, hailing from Guntur in Andhra Pradesh, was found dead in Boston on 11 March, with his body discovered in a car deep within a forest. However, authorities have ruled out any foul play
+
+Tue, 19 Mar 2024 08:44:55 +0530
+### [Is TikTok parent company ByteDance a Chinese agent?](https://www.firstpost.com/explainers/us-tiktok-ban-is-bytedance-chinese-agent-communist-party-13750271.html)
+
+Article found but Couldn't summarize 
+TikTok’s argument that American users’ data is safe because it’s stored outside China is not convincing. Regardless of whether ByteDance has formal ties with the Chinese Communist Party, there will be the tacit understanding that the management is working for two bosses: the investors and their political overseers who represent the party
+
 Tue, 19 Mar 2024 05:00:54 +0530
 ### [FirstUp: SC to hear CAA plea, Congress to finalise manifesto… The news today](https://www.firstpost.com/explainers/firstup-sc-to-hear-caa-plea-congress-to-finalise-manifesto-the-news-today-13750269.html)
 

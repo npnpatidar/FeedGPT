@@ -1,3 +1,57 @@
+Tue, 19 Mar 2024 23:44:39 +0530
+### [Vantage | Why do schools sell junk food while asking children to avoid them?](https://www.firstpost.com/opinion/vantage-why-do-schools-sell-junk-food-while-asking-children-to-avoid-them-13750760.html)
+
+Article found but Couldn't summarize 
+The battle against junk food in school canteens is not just about food—it's about safeguarding the health of future generations
+
+Tue, 19 Mar 2024 23:31:01 +0530
+### [Vantage | What China's dominance in the battle of batteries means](https://www.firstpost.com/opinion/vantage-what-chinas-dominance-in-the-battle-of-batteries-means-13750759.html)
+
+Article found but Couldn't summarize 
+The battle for EV batteries symbolises a larger struggle for energy independence and geopolitical leverage
+
+Tue, 19 Mar 2024 23:20:22 +0530
+### [Vantage | How Europe lectures on democracy but showers money on autocrats](https://www.firstpost.com/opinion/vantage-how-europe-lectures-on-democracy-but-showers-money-on-autocrats-13750756.html)
+
+Article found but Couldn't summarize 
+The EU's embrace of authoritarian regimes exposes the gaping chasm between its rhetoric and reality
+
+Tue, 19 Mar 2024 22:56:10 +0530
+### [Vantage | Where is the new Pakistan vs Afghanistan conflict headed?](https://www.firstpost.com/opinion/vantage-where-is-the-new-pakistan-vs-afghanistan-conflict-headed-13750738.html)
+
+Article found but Couldn't summarize 
+As the ball now lies in the Taliban's court, they have various options at their disposal, including proxy attacks through groups like the TTP
+
+Tue, 19 Mar 2024 19:41:42 +0530
+### [Maldives: How armed drones from Turkey may replace Indian aerial watch](https://www.firstpost.com/opinion/maldives-how-armed-drones-from-turkey-may-replace-indian-aerial-watch-13750677.html)
+
+Article found but Couldn't summarize 
+In what looks like a coordinated effort to make the drone work meaningful, the Maldivian Cabinet has since decided to make it mandatory for all sea-bound vessels to install tracking devices, for easy identification
+
+Tue, 19 Mar 2024 14:36:20 +0530
+### [Russia shows resilience despite western propaganda, bouncing back strong](https://www.firstpost.com/opinion/russia-shows-resilience-despite-western-propaganda-bouncing-back-strong-13750581.html)
+
+Article found but Couldn't summarize 
+Russia has successfully survived the shock of Western sanctions and has been able to reorient its economy towards other export markets as well as develop import substitution through local production
+
+Tue, 19 Mar 2024 13:14:40 +0530
+### [Post-election Pakistan: Shehbaz Sharif government slowly gritting its teeth to tackle economic crisis](https://www.firstpost.com/opinion/shehbaz-sharif-pakistan-economic-crisis-13750467.html)
+
+Article found but Couldn't summarize 
+Former prime minister Nawaz Sharif may have had a say in constituting the cabinet, but with daughter Maryam ensconced as Punjab Chief Minister, he is perforce having to gradually move into the shadows
+
+Tue, 19 Mar 2024 10:55:21 +0530
+### [Why is Mamata going after CAA? Recent EPW paper on India’s district-wise religious composition gives the best answer](https://www.firstpost.com/opinion/why-is-mamata-going-after-caa-recent-epw-paper-on-indias-district-wise-religious-composition-gives-the-best-answer-13750392.html)
+
+Article found but Couldn't summarize 
+New study points to rapid demographic shifts in India by scrutinizing district-level census data from 2001 to 2011
+
+Tue, 19 Mar 2024 10:27:59 +0530
+### ['A Keralian is worth 1.8 Rajasthanis': Delimitation is the final barrier to real democracy in India](https://www.firstpost.com/opinion/a-keralian-is-worth-1-8-rajasthanis-delimitation-is-the-final-barrier-to-real-democracy-in-india-13750354.html)
+
+Article found but Couldn't summarize 
+Nearly two centuries after England's Great Reform, India still has not returned to the principle of one person, one vote
+
 Mon, 18 Mar 2024 20:31:42 +0530
 ### [SC judgement on electoral bond brings transparency, but unqualified brouhaha is meaningless](https://www.firstpost.com/opinion/sc-judgement-on-electoral-bond-brings-transparency-but-unqualified-brouhaha-is-meaningless-13750261.html)
 

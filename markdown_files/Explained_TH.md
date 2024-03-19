@@ -1,3 +1,9 @@
+Tue, 19 Mar 2024 22:40:24 +0530
+### [Decoding electoral bonds data](https://www.thehindu.com/news/national/decoding-electoral-bonds-data/article67969866.ece)
+
+Article found but Couldn't summarize 
+The SBI has submitted the data on purchases and encashments of electoral bonds. The details disclosed so far includes the date and amount of each transaction alongside the names of each purchaser and encasher. However, in the absence of the unique alphanumeric numbers, it is impossible to establish who has paid whom and when
+
 Mon, 18 Mar 2024 23:26:11 +0530
 ### [Anthropocene epoch declaration unlikely soon, but the idea lives on | Explained](https://www.thehindu.com/sci-tech/science/anthropocene-epoch-declaration-unlikely-soon-but-the-idea-lives-on-explained/article67964371.ece)
 

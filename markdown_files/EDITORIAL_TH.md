@@ -1,3 +1,15 @@
+Wed, 20 Mar 2024 00:20:00 +0530
+### [Selection and election: On the appointment of Election Commissioners](https://www.thehindu.com/opinion/editorial/selection-and-election-the-election-commission-of-india-appointment-process/article67968670.ece)
+
+Article found but Couldn't summarize 
+The Election Commission needs a selection panel free of executive bias
+
+Wed, 20 Mar 2024 00:10:00 +0530
+### [Length and breadth: on Rahul Gandhi, the Bharat Jodo Yatra and the Bharat Jodo Nyay Yatra](https://www.thehindu.com/opinion/editorial/length-and-breadth-on-rahul-gandhi-the-bharat-jodo-yatra-and-the-bharat-jodo-nyay-yatra/article67968925.ece)
+
+Article found but Couldn't summarize 
+Rahul Gandhi’s yatras have energised the Congress, but unsettled some allies
+
 Tue, 19 Mar 2024 00:30:00 +0530
 ### [Trade puzzle: On exports and global trade](https://www.thehindu.com/opinion/editorial/trade-puzzle-the-hindu-editorial-on-exports-and-global-trade/article67965009.ece)
 

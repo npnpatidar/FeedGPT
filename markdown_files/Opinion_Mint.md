@@ -1,3 +1,69 @@
+Tue, 19 Mar 2024 23:07:56 +0530
+### [What tells us more about prosperity: Consumption or GDP per head?](https://www.livemint.com/opinion/online-views/what-tells-us-more-about-prosperity-consumption-or-gdp-per-head-11710858053989.html)
+
+Article found but Couldn't summarize 
+As a state-wise comparison shows, output data could offer a misleading picture of the standard of living among people at large.
+
+Tue, 19 Mar 2024 23:05:16 +0530
+### [Reform the UPI system: We need sustainable digital payments infrastructure](https://www.livemint.com/opinion/online-views/reform-the-upi-system-we-need-sustainable-digital-payments-infrastructure-11710849680834.html)
+
+Article found but Couldn't summarize 
+India should mitigate the risks of an online-transfer monopoly while enabling the UPI system to pay for itself and innovate.
+
+Tue, 19 Mar 2024 23:01:36 +0530
+### [A ‘GeminiPhone’ could boost Apple’s and Google’s AI game](https://www.livemint.com/opinion/online-views/a-geminiphone-could-boost-apple-s-and-google-s-ai-game-11710849754258.html)
+
+Article found but Couldn't summarize 
+The two mobile platform rivals need each other's support. By bringing Google's Gemini to Apple's iPhone, the former hopes to leap ahead of OpenAI, while the latter gets to offer its customers access to AI tools.
+
+Tue, 19 Mar 2024 22:59:43 +0530
+### [Blockchains can solve the problem of Big Tech’s power](https://www.livemint.com/opinion/online-views/blockchains-can-solve-the-problem-of-big-tech-s-power-11710849833323.html)
+
+Article found but Couldn't summarize 
+We should look beyond the crypto ‘casino’ and focus on the benefits of decentralized computing.
+
+Tue, 19 Mar 2024 16:22:00 +0530
+### [Despite limitations, Sebi-mandated stress tests on small, midcaps serve a purpose](https://www.livemint.com/opinion/online-views/despite-limitations-sebi-mandated-stress-tests-on-small-midcaps-serve-a-purpose-11710838400994.html)
+
+Article found but Couldn't summarize 
+The stress tests underscore the regulator's commitment to ensuring liquidity and protecting retail investments in fluctuating market conditions
+
+Tue, 19 Mar 2024 15:01:42 +0530
+### [Murthy's gift spurs pride in wealth creation, may reshape Indian ethos](https://www.livemint.com/opinion/murthys-grand-gift-to-grandson-is-a-nudge-for-mainstreaming-capitalism-in-indian-ethos-11710839896178.html)
+
+Article found but Couldn't summarize 
+Even after India's economic reforms in 1991, thriving crony capitalism and deepening inequalities in the country have not allowed for wealth-generation to be seen as honourable pursuit
+
+Tue, 19 Mar 2024 14:57:43 +0530
+### [How India's conglomerates are embracing the ‘power of one’](https://www.livemint.com/opinion/online-views/how-indias-conglomerates-are-embracing-the-power-of-one-11710829671617.html)
+
+Article found but Couldn't summarize 
+Can a group be a diversified conglomerate and also have a unified ‘one’ concept? Is there an inherent contradiction? Experts say this apparent contradiction is positive
+
+Tue, 19 Mar 2024 10:42:55 +0530
+### [What ICICI Securities delisting amid a growing retail investor market says about the financial sector](https://www.livemint.com/opinion/online-views/what-icici-securities-delisting-amid-a-growing-retail-investor-market-says-about-the-financial-sector-11710821179382.html)
+
+Article found but Couldn't summarize 
+It reflects a nuanced strategy to harness synergies and adapt to an evolving investment climate dominated by tech-savvy consumers and competitive digital platforms
+
+Tue, 19 Mar 2024 08:00:06 +0530
+### [Clean charging must lead India’s EV thrust](https://www.livemint.com/opinion/online-views/clean-charging-must-lead-india-s-ev-thrust-11710767405143.html)
+
+Article found but Couldn't summarize 
+Our policies aim to enable the proliferation of electric vehicles, as they should, but we also need innovative plans to ensure that we rely mostly on clean energy sources to charge them.
+
+Tue, 19 Mar 2024 08:00:06 +0530
+### [A cap on capitalism: Is it time for India to debate one?](https://www.livemint.com/opinion/online-views/a-cap-on-capitalism-is-it-time-for-india-to-debate-one-11710767538718.html)
+
+Article found but Couldn't summarize 
+The idea of a wealth ceiling might seem unworkable and outdated, a relic of socialist thinking, but it still needs to join our policy discourse.
+
+Tue, 19 Mar 2024 08:00:05 +0530
+### [Putin's mega win comes as no surprise](https://www.livemint.com/opinion/quick-edit/putins-mega-win-comes-as-no-surprise-11710768522080.html)
+
+Article found but Couldn't summarize 
+Vladimir Putin has been re-elected Russia’s president with a record mandate—about 87% of the vote, the highest in Russia’s post-Soviet history—in an election that paves the way for his fifth term in office. His geopolitical gamble against Nato may yet work, it seems.
+
 Mon, 18 Mar 2024 19:17:50 +0530
 ### [Bengaluru should transform itself into Kongjian Yu's sponge city](https://www.livemint.com/opinion/online-views/bengaluru-should-transform-itself-into-kongjian-yus-sponge-city-11710764276128.html)
 
@@ -9,6 +75,12 @@ Mon, 18 Mar 2024 19:17:11 +0530
 
 Article found but Couldn't summarize 
 Apart from being a cognitive skill, public speaking is a character skill too, making it perhaps the most powerful force multiplier a leader could deploy.
+
+Mon, 18 Mar 2024 19:14:04 +0530
+### [It is time to put a figure on India’s exposure to global value chains](https://www.livemint.com/opinion/online-views/it-is-time-to-put-a-figure-on-india-s-exposure-to-global-value-chains-11710764122322.html)
+
+Article found but Couldn't summarize 
+The intricacy of global value chains has resulted in complex dependency patterns whose risks we should track and mitigate.
 
 Mon, 18 Mar 2024 19:14:01 +0530
 ### [Not even far-flung Antarctica could escape the covid virus](https://www.livemint.com/opinion/online-views/not-even-far-flung-antarctica-could-escape-the-covid-virus-11710764192113.html)
