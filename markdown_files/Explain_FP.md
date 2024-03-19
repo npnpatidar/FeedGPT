@@ -1,3 +1,9 @@
+Tue, 19 Mar 2024 05:00:54 +0530
+### [FirstUp: SC to hear CAA plea, Congress to finalise manifesto… The news today](https://www.firstpost.com/explainers/firstup-sc-to-hear-caa-plea-congress-to-finalise-manifesto-the-news-today-13750269.html)
+
+Article found but Couldn't summarize 
+The Supreme Court will hear a clutch of pleas against the notified Citizenship Amendment Act (CAA) today. The Congress will also finalise its manifesto for the upcoming Lok Sabha polls. Here’s what else is expected to happen today
+
 Mon, 18 Mar 2024 20:18:34 +0530
 ### [Vegetable prices surge, rentals may drop: How Bengaluru’s water scarcity is worsening](https://www.firstpost.com/explainers/bengaluru-water-shortage-vegetable-prices-surge-rentals-may-drop-13750265.html)
 
