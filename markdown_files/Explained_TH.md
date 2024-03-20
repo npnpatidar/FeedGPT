@@ -1,3 +1,15 @@
+Wed, 20 Mar 2024 22:16:09 +0530
+### [The resurgence of mass kidnappings in Nigeria | Explained](https://www.thehindu.com/news/international/nigeria-mass-kidnappings-bandits-violence-conflict-explainer-africa-crisis/article67964680.ece)
+
+Article found but Couldn't summarize 
+Who is behind the mass abductions in Nigeria and what do they want? What has caused the recent surge in kidnappings? What is the government doing to improve the security situation?
+
+Wed, 20 Mar 2024 19:24:14 +0530
+### [China’s Two Sessions and the priorities at this year’s event | Explained](https://www.thehindu.com/news/international/chinas-two-sessions-what-is-it-and-key-highlights-of-this-years-event/article67957848.ece)
+
+Article found but Couldn't summarize 
+Beijing’s annual ‘Two Sessions’ event saw the Parliament set China’s priorities – economy, technology and cutting down the State Council’s role in Xi Jinping’s government.
+
 Wed, 20 Mar 2024 05:30:00 +0530
 ### [The way we name cancers could affect access to treatment, researchers say](https://www.thehindu.com/sci-tech/science/precision-oncology-cancer-naming-scheme-revamp/article67968096.ece)
 

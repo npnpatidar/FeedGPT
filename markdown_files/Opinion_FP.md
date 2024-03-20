@@ -1,3 +1,45 @@
+Wed, 20 Mar 2024 15:56:28 +0530
+### [Debunking Orientalism: India’s economic resilience in the face of global scrutiny](https://www.firstpost.com/opinion/debunking-orientalism-indias-economic-resilience-in-the-face-of-global-scrutiny-13751009.html)
+
+Article found but Couldn't summarize 
+The malice brought forth in this particular piece by Ashoka Mody’s piece in Project Syndicate makes the rapid eradication of poverty in India seem like a personal blow to its author
+
+Wed, 20 Mar 2024 13:57:47 +0530
+### [India shows the world how to deal with hegemonistic China](https://www.firstpost.com/opinion/india-shows-the-world-how-to-deal-with-hegemonistic-china-13750968.html)
+
+Article found but Couldn't summarize 
+India has reiterated that it remains unconcerned about China’s objections, protests and criticism. It will not normalise ties till the situation reverts to pre-April 2020
+
+Wed, 20 Mar 2024 11:51:21 +0530
+### [Asia: A tinderbox armed to the teeth](https://www.firstpost.com/opinion/asia-a-tinderbox-armed-to-the-teeth-13750827.html)
+
+Article found but Couldn't summarize 
+The Asian arms race is driven by a complex interplay of factors, including regional power dynamics with aggressive arms built by China, and territorial disputes
+
+Wed, 20 Mar 2024 11:05:36 +0530
+### [Vantage | How America wrote the failure of its own policy in Niger](https://www.firstpost.com/opinion/vantage-how-america-wrote-the-failure-of-its-own-policy-in-niger-13750861.html)
+
+Article found but Couldn't summarize 
+America's heavy-handed tactics in Niger have backfired, jeopardising not only its military interests but also its standing in the international community
+
+Wed, 20 Mar 2024 09:37:15 +0530
+### [Vantage | Will Indian doctors bail out UK's NHS?](https://www.firstpost.com/opinion/vantage-will-indian-doctors-bail-out-uks-nhs-13750801.html)
+
+Article found but Couldn't summarize 
+In 2016, doctors were flown in from India to fill gaps in GP services, highlighting a longstanding reliance on international recruitment to address domestic shortages
+
+Wed, 20 Mar 2024 09:02:07 +0530
+### [Vantage | Why India's defence deals with the Global South matter](https://www.firstpost.com/opinion/vantage-why-indias-defence-deals-with-the-global-south-matter-13750785.html)
+
+Article found but Couldn't summarize 
+India's quest to become a key player in the defence export arena represents a pivotal shift in its foreign policy and economic strategy
+
+Wed, 20 Mar 2024 08:16:26 +0530
+### [Vantage | Why Trump is running out of money to take on Biden](https://www.firstpost.com/opinion/vantage-why-trump-is-running-out-of-money-to-take-on-biden-13750778.html)
+
+Article found but Couldn't summarize 
+In essence, the story of Trump's financial challenges underscores a broader truth about modern politics – money matters
+
 Tue, 19 Mar 2024 23:44:39 +0530
 ### [Vantage | Why do schools sell junk food while asking children to avoid them?](https://www.firstpost.com/opinion/vantage-why-do-schools-sell-junk-food-while-asking-children-to-avoid-them-13750760.html)
 

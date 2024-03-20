@@ -1,3 +1,28 @@
+Wed, 20 Mar 2024 15:52:17 +0000
+### [Gaza and Haiti on the brink of famine: How this is assessed, what exactly it means](https://indianexpress.com/article/explained/explained-global/gaza-haiti-famine-how-this-is-assessed-9225283/)
+
+Article found but Couldn't summarize
+
+Wed, 20 Mar 2024 15:01:56 +0000
+### [Documentary Frida out: Five things you should know about Frida Kahlo, revolutionary artist and feminist](https://indianexpress.com/article/explained/explained-culture/documentary-frida-five-things-to-know-about-frida-kahlo-9225225/)
+
+Article found but Couldn't summarize
+
+Wed, 20 Mar 2024 14:25:59 +0000
+### [India to generate 600 kilotonnes of solar waste by 2030: What a new study says](https://indianexpress.com/article/explained/explained-sci-tech/india-solar-waste-new-study-9225154/)
+
+Article found but Couldn't summarize
+
+Wed, 20 Mar 2024 13:31:30 +0000
+### [What is Nvidia’s Project GR00T, designed to create AI-powered humanoid robots](https://indianexpress.com/article/explained/explained-sci-tech/what-is-nvidias-project-gr00t-impact-robotics-9225089/)
+
+Article found but Couldn't summarize
+
+Wed, 20 Mar 2024 01:37:16 +0000
+### [How House terms and poll schedules are decided](https://indianexpress.com/article/explained/how-house-terms-and-poll-schedules-are-decided-9223451/)
+
+Article found but Couldn't summarize
+
 Tue, 19 Mar 2024 14:03:03 +0000
 ### [What has caused the water crisis in Bengaluru, neighbouring areas](https://indianexpress.com/article/explained/explained-climate/what-caused-the-water-crisis-in-bengaluru-9223131/)
 

@@ -1,3 +1,75 @@
+Wed, 20 Mar 2024 20:20:58 +0530
+### [Bad for heart, good for brain: Should you go for intermittent fasting?](https://www.firstpost.com/explainers/intermittent-fasting-heart-disease-study-brain-health-effects-13751129.html)
+
+Article found but Couldn't summarize 
+Intermittent fasting, a trendy way to lose weight, has been linked to a higher risk of dying from heart disease, according to a recent study. However, previous research has shown its positive effects on brain health. Is the method for you?
+
+Wed, 20 Mar 2024 19:59:44 +0530
+### [How Kate’s medical records were breached](https://www.firstpost.com/explainers/kate-princess-of-wales-medical-records-breach-abdominal-surgery-13751107.html)
+
+Article found but Couldn't summarize 
+What’s keeping Kate away from the public? Amid wild speculation, a hospital staff attempted to access the princess’s medical files at The London Clinic, where she underwent surgery. The UK data watchdog has now stepped in
+
+Wed, 20 Mar 2024 18:32:34 +0530
+### [Zomato’s ‘pure veg’ fleet: Is India a predominantly vegetarian nation?](https://www.firstpost.com/explainers/zomato-pure-veg-fleet-deepinder-goyal-controversy-vegetarian-non-veg-india-13751055.html)
+
+Article found but Couldn't summarize 
+After the outrage over Zomato’s ‘pure veg’ fleet, catering to vegetarians in the country, the food delivery app has rolled back its decision to have green uniforms for the new service. The move has put the spotlight on the ‘veg vs non-veg’ divide in the country
+
+Wed, 20 Mar 2024 17:00:00 +0530
+### [Did Sidhu Moose Wala’s parents violate IVF rules when having a baby?](https://www.firstpost.com/explainers/sidhu-moose-wala-parents-india-ivf-rules-baby-13751042.html)
+
+Article found but Couldn't summarize 
+Two years after Sidhu Moose Wala was shot dead, his parents welcomed a baby boy through IVF on Sunday. However, the singer’s father, Balkaur Singh, alleges that he is now being harassed by the Punjab government over their newborn’s legal status. Were rules flouted by the couple to have their second child? What do they say?
+
+Wed, 20 Mar 2024 16:30:06 +0530
+### [After deaths, now an Indian student missing in US: What's going on?](https://www.firstpost.com/explainers/after-deaths-now-an-indian-student-missing-in-us-whats-going-on-13750997.html)
+
+Article found but Couldn't summarize 
+Indian-origin student Mohammed Abdul Arfath, 25, has been reported missing from Cleveland since 7 March. His family, who lives in Hyderabad, claims to have received a ransom demand. This year has been ominous for desi students in the US – nine have died so far
+
+Wed, 20 Mar 2024 15:29:01 +0530
+### [How a glitch at an Ethiopian bank led customers to withdraw millions](https://www.firstpost.com/explainers/glitch-ethiopian-bank-customers-withdraw-millions-13750962.html)
+
+Article found but Couldn't summarize 
+Long lines formed at cash machines across Ethiopia after the problem was discovered at the Commercial Bank of Ethiopia, which allowed customers to withdraw millions. According to the reports, at least $42 million was lost
+
+Wed, 20 Mar 2024 13:48:57 +0530
+### [Who is Pradeep Sharma, ex-Mumbai cop, who got life term in 2006 fake encounter case?](https://www.firstpost.com/explainers/pradeep-sharma-life-term-2006-fake-encounter-case-mumbai-police-13750950.html)
+
+Article found but Couldn't summarize 
+Pradeep Sharma, former ‘encounter specialist’ of Mumbai Police, was on Tuesday awarded a life term by the Bombay High Court in the 2006 fake encounter of Ramnarayan Gupta, alias Lakhan Bhaiya, an alleged member of the Chhota Rajan gang. The ex-cop is claimed to have killed 112 criminals, including gangsters and underworld dons
+
+Wed, 20 Mar 2024 13:35:11 +0530
+### [World Happiness Report: Why Gen Z is the unhappiest generation today](https://www.firstpost.com/explainers/world-happiness-report-finland-gen-z-unhappiest-generation-13750931.html)
+
+Article found but Couldn't summarize 
+The World Happiness Report is out and Finland has once again been declared the happiest country in the world. However, the report reveals that Gen Z (aged 15-24) are unhappy. Young Americans are the most discontent with many experiencing ‘mid-life crises’. But what’s making them sad?
+
+Wed, 20 Mar 2024 11:57:20 +0530
+### [The controversial Texas immigration law allowing state officials to expel migrants](https://www.firstpost.com/explainers/texas-immigration-law-sb4-us-supreme-court-illegal-migrants-us-mexico-border-13750876.html)
+
+Article found but Couldn't summarize 
+Hours after the US supreme court allowed Texas to start imposing the Texas immigration law, Senate Bill 4 (SB4), a federal appeals court froze it. The controversial legislation allows officials in the state to detain and prosecute illegal migrants. The Biden administration has challenged the law, calling it unconstitutional
+
+Wed, 20 Mar 2024 11:31:58 +0530
+### [Another Kategate: Did the Princess of Wales alter Queen Elizabeth's image?](https://www.firstpost.com/explainers/another-kategate-did-the-princess-of-wales-alter-queen-elizabeths-image-13750795.html)
+
+Article found but Couldn't summarize 
+A second photo taken by Kate of Queen Elizabeth II surrounded by her grandchildren and great-grandchildren was the subject of an editorial advisory posted by Getty Images on Monday. It stated that the photograph had been altered before its distribution by the palace. This comes days after a controversy erupted over the princess's photo with her children
+
+Wed, 20 Mar 2024 10:54:40 +0530
+### [Lok Sabha elections 2024: Why business is booming for detectives](https://www.firstpost.com/explainers/lok-sabha-elections-2024-business-detectives-13750841.html)
+
+Article found but Couldn't summarize 
+Amid defections and switching of camps, detectives are being tasked by political parties to keep a tab on those who are likely to pass on important information to rivals or even switch allegiance in the coming days
+
+Wed, 20 Mar 2024 09:55:43 +0530
+### [Article 23: How Hong Kong’s new draconian security law will hurt people, businesses](https://www.firstpost.com/explainers/article-23-hong-kong-new-security-law-people-businesses-freedoms-13750815.html)
+
+Article found but Couldn't summarize 
+Hong Kong has passed a new national security law, commonly referred to as Article 23, which gives legislators sweeping powers to crack down on all forms of dissent. While officials have called the legislation necessary, critics argue that it will erode freedoms and civil liberties
+
 Wed, 20 Mar 2024 05:00:54 +0530
 ### [EC notification for Lok Sabha polls’ 1st phase, Ladakh protest… Headlines today](https://www.firstpost.com/explainers/ec-notification-for-lok-sabha-polls-1st-phase-ladakh-protest-headlines-today-13750634.html)
 

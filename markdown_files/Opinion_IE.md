@@ -1,3 +1,43 @@
+Wed, 20 Mar 2024 11:39:48 +0000
+### [Zomato’s ‘pure veg food’ scheme is pure casteism. Here’s why many people don’t get that](https://indianexpress.com/article/opinion/columns/zomatos-pure-veg-food-casteism-heres-why-9224719/)
+
+Article found but Couldn't summarize
+
+Wed, 20 Mar 2024 03:45:14 +0000
+### [Why One Nation One Election is a test – for basic structure doctrine and Supreme Court](https://indianexpress.com/article/opinion/columns/one-nation-one-election-basic-structure-doctrine-supreme-court-9223794/)
+
+Article found but Couldn't summarize
+
+Wed, 20 Mar 2024 03:00:24 +0000
+### [Express View on BSP: Shrinking of Mayawati](https://indianexpress.com/article/opinion/editorials/shrinking-of-mayawati-9223444/)
+
+Article found but Couldn't summarize
+
+Wed, 20 Mar 2024 02:35:16 +0000
+### [This election season, why parties need tech manifestos](https://indianexpress.com/article/opinion/columns/poll-manifestos-lok-sabha-elections-2024-technology-congress-bjp-aap-tmc-9223455/)
+
+Article found but Couldn't summarize
+
+Wed, 20 Mar 2024 02:20:51 +0000
+### [How to avoid the ‘Cobra Effect’ while incentivising judges to perform better](https://indianexpress.com/article/opinion/columns/chief-justice-of-india-super-performing-trial-court-judges-courtroom-atmosphere-indian-judiciray-9223458/)
+
+Article found but Couldn't summarize
+
+Wed, 20 Mar 2024 02:15:42 +0000
+### [Express View on Russia’s elections: Putin, again](https://indianexpress.com/article/opinion/editorials/putin-again-9223437/)
+
+Article found but Couldn't summarize
+
+Wed, 20 Mar 2024 01:45:56 +0000
+### [March 20, Forty Years Ago: Workers-police Clash](https://indianexpress.com/article/opinion/40-years-ago/march-20-forty-years-ago-workers-police-clash-9223433/)
+
+Article found but Couldn't summarize
+
+Wed, 20 Mar 2024 01:30:57 +0000
+### [Express View: Women’s Premier League has arrived](https://indianexpress.com/article/opinion/editorials/wpl-is-here-9223442/)
+
+Article found but Couldn't summarize
+
 Tue, 19 Mar 2024 09:54:53 +0000
 ### [C Raja Mohan writes: Why are Congress, Rahul Gandhi not debating the government on foreign policy?](https://indianexpress.com/article/opinion/columns/c-raja-mohan-writes-why-are-congress-rahul-gandhi-not-debating-the-government-on-foreign-policy-9222459/)
 

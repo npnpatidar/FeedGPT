@@ -1,3 +1,51 @@
+Wed, 20 Mar 2024 23:38:18 +0530
+### [Neutral rate: There’s no need for a ‘pole star’ to guide RBI’s policy](https://www.livemint.com/opinion/online-views/neutral-rate-there-s-no-need-for-a-pole-star-to-guide-rbi-s-policy-11710947231405.html)
+
+Article found but Couldn't summarize 
+A hypothetical and error-prone interest rate can’t really claim to ensure a perfect economic balance.
+
+Wed, 20 Mar 2024 23:29:48 +0530
+### [Let’s do all we can to engage young men on inequality](https://www.livemint.com/opinion/online-views/lets-do-all-we-can-to-engage-young-men-on-inequality-11710947471834.html)
+
+Article found but Couldn't summarize 
+A widening gap in gender attitudes among the youth needs to be bridged before it wreaks more damage. We need to catch them young, initiate dialogues on social issues and foster respect for individual autonomy.
+
+Wed, 20 Mar 2024 23:26:36 +0530
+### [It’s possible to address the divergence in data on Indian consumption](https://www.livemint.com/opinion/online-views/its-possible-to-address-the-divergence-in-data-on-indian-consumption-11710937168421.html)
+
+Article found but Couldn't summarize 
+A package of statistical studies could help close an old gap between what household surveys and national accounts reveal.
+
+Wed, 20 Mar 2024 23:24:26 +0530
+### [Indian regulators are getting tough to shore up their credibility](https://www.livemint.com/opinion/online-views/indian-regulators-are-getting-tough-to-shore-up-their-credibility-11710937280939.html)
+
+Article found but Couldn't summarize 
+Scrutiny of Indian regulators is seen to have increased globally. Trends suggest that Sebi and RBI might act even tougher as we go along.
+
+Wed, 20 Mar 2024 23:23:07 +0530
+### [Machines and models versus humans: Not a no-contest](https://www.livemint.com/opinion/online-views/machines-and-models-versus-humans-not-a-nocontest-11710937359333.html)
+
+Article found but Couldn't summarize 
+Downplaying the human mind’s value could doom us while using neuroscience for AI will help.
+
+Wed, 20 Mar 2024 08:00:10 +0530
+### [Tata’s money spinner TCS needs to show its AI cards](https://www.livemint.com/opinion/online-views/tatas-money-spinner-tcs-needs-to-show-its-ai-cards-11710857910012.html)
+
+Article found but Couldn't summarize 
+Keeping Tata Sons private by retiring debt with money raised from a TCS stake sale is the easy part. Group stakeholders need to know how TCS will fare in an AI-driven tech world.
+
+Wed, 20 Mar 2024 08:00:10 +0530
+### [Ordinary business decisions can yield extraordinary success](https://www.livemint.com/opinion/online-views/ordinary-business-decisions-can-yield-extraordinary-success-11710857960197.html)
+
+Article found but Couldn't summarize 
+A company’s culture is not about grand vision statements and corporate discussions, but about day-to-day decisions that determine how work gets done by people.
+
+Wed, 20 Mar 2024 08:00:09 +0530
+### [The Bank of Japan has reversed its negative policy rate](https://www.livemint.com/opinion/online-views/the-bank-of-japan-has-reversed-its-negative-policy-rate-11710864440584.html)
+
+Article found but Couldn't summarize 
+The BoJ has finally ended its 17-year-long negative rate policy. Its easy-money excesses didn’t do any good and Japan’s economy stayed sluggish.
+
 Tue, 19 Mar 2024 23:07:56 +0530
 ### [What tells us more about prosperity: Consumption or GDP per head?](https://www.livemint.com/opinion/online-views/what-tells-us-more-about-prosperity-consumption-or-gdp-per-head-11710858053989.html)
 

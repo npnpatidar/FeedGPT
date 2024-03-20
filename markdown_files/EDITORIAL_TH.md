@@ -1,3 +1,15 @@
+Thu, 21 Mar 2024 00:20:00 +0530
+### [Ferocious friends: On certain breeds of dogs and public safety](https://www.thehindu.com/opinion/editorial/ferocious-friends-on-certain-breeds-of-dogs-and-public-safety/article67972581.ece)
+
+Article found but Couldn't summarize 
+While allowing for a choice of pets, raising them should not be unbridled right
+
+Thu, 21 Mar 2024 00:10:00 +0530
+### [The lure of lucre: on the 17th edition of the IPL and beyond](https://www.thehindu.com/opinion/editorial/the-lure-of-lucre-on-the-17th-edition-of-the-ipl-and-beyond/article67972603.ece)
+
+Article found but Couldn't summarize 
+The IPL is becoming more attractive than Tests for some players
+
 Wed, 20 Mar 2024 00:20:00 +0530
 ### [Selection and election: On the appointment of Election Commissioners](https://www.thehindu.com/opinion/editorial/selection-and-election-the-election-commission-of-india-appointment-process/article67968670.ece)
 
