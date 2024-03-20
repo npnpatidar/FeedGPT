@@ -1,3 +1,9 @@
+Wed, 20 Mar 2024 05:30:00 +0530
+### [The way we name cancers could affect access to treatment, researchers say](https://www.thehindu.com/sci-tech/science/precision-oncology-cancer-naming-scheme-revamp/article67968096.ece)
+
+Article found but Couldn't summarize 
+Developments in precision oncology require cancers to be classified based on their genetic characteristics rather than the organ in which they originate
+
 Tue, 19 Mar 2024 22:40:24 +0530
 ### [Decoding electoral bonds data](https://www.thehindu.com/news/national/decoding-electoral-bonds-data/article67969866.ece)
 

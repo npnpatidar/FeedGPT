@@ -4806,3 +4806,10 @@ Started at 2024-03-19 23:08:36
 Finished at 2024-03-19 23:09:24
 Total time taken: 48.306583404541016 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-03-20 00:35:56
+1 Feed entries have been written to feeds/Explain_FP.xml
+1 Feed entries have been written to feeds/Explained_TH.xml
+2 new entries have been added
+Finished at 2024-03-20 00:36:04
+Total time taken: 8.599741697311401 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

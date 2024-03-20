@@ -1,3 +1,9 @@
+Wed, 20 Mar 2024 05:00:54 +0530
+### [EC notification for Lok Sabha polls’ 1st phase, Ladakh protest… Headlines today](https://www.firstpost.com/explainers/ec-notification-for-lok-sabha-polls-1st-phase-ladakh-protest-headlines-today-13750634.html)
+
+Article found but Couldn't summarize 
+The Election Commission of India will issue the notification for the first phase of the much-awaited Lok Sabha elections. The Kargil Democratic Alliance will hold a half-day strike in solidarity with Sonam Wangchuk's climate fest. It's also the second day of Bharat Rising, the fourth edition of the CNN-News18 marquee leadership conclave, which will be attended by PM Modi
+
 Tue, 19 Mar 2024 21:16:11 +0530
 ### [For a ‘stable president’: Why is everyone talking about Joe Biden’s new pair of sneakers?](https://www.firstpost.com/explainers/us-president-joe-biden-hoka-sneakers-stability-13750564.html)
 
