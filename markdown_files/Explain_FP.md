@@ -1,3 +1,81 @@
+Thu, 21 Mar 2024 20:04:14 +0530
+### [Family Matters: How levels of incest are on the rise in the US](https://www.firstpost.com/explainers/incest-cases-on-rise-in-the-us-dna-testing-family-13751377.html)
+
+Article found but Couldn't summarize 
+Research using popular genealogical tests has revealed that the prevalence of incest in America is significantly higher than previously believed, with a rate of one in 7,000. The numbers are shocking since the 1975 estimate was one in a million
+
+Thu, 21 Mar 2024 19:02:42 +0530
+### [‘Real warrior’: Are Emmanuel Macron’s boxing photos a message for Russia’s Putin?](https://www.firstpost.com/explainers/france-president-emmanuel-macron-boxing-photos-message-for-russia-vladimir-putin-ukraine-war-13751465.html)
+
+Article found but Couldn't summarize 
+Emmanuel Macron’s pictures showing him hitting a punching bag with gritted teeth and bulging biceps have tongues wagging on social media. Some are comparing the French president with Sylvester Stallone’s Rocky Balboa, while others joke that he is getting ready to take on Russian leader Vladimir Putin
+
+Thu, 21 Mar 2024 18:10:50 +0530
+### [Lok Sabha elections: Why did a candidate in Madhya Pradesh pay deposit for polls in coins?](https://www.firstpost.com/explainers/lok-sabha-elections-2024-candidate-madhya-pradesh-deposit-coins-13751262.html)
+
+Article found but Couldn't summarize 
+Vinay Chakraborty said there was no facility at the collector's office to pay through digital or online modes. Therefore, he paid the amount, Rs 25,000, in coins that were available to him
+
+Thu, 21 Mar 2024 17:07:07 +0530
+### [Wardrobe Wars: Why is France going after ultrafast fashion giants Shein, Temu?](https://www.firstpost.com/explainers/france-fast-fashion-bill-shein-temu-13751464.html)
+
+Article found but Couldn't summarize 
+France is targeting the influx of low-cost clothes produced predominantly by China. The country’s lower house of parliament has okayed a bill seeking penalties on ultrafast fashion goods to offset their environmental impact. What could this mean for the industry?
+
+Thu, 21 Mar 2024 16:28:29 +0530
+### [Mutual funds turn 100: How a door-to-door salesman invented this investment instrument](https://www.firstpost.com/explainers/mutual-funds-door-to-door-salesman-investment-instrument-13751433.html)
+
+Article found but Couldn't summarize 
+On 21 March 1924, Edward Leffler, a former salesman of aluminium pots and pans invented the mutual fund, allowing retail customers to buy into a diversified portfolio of stocks. Today, mutual funds continue to be a popular choice of investment in the US with 116 million residents holding shares in at least one such investment instrument
+
+Thu, 21 Mar 2024 15:52:29 +0530
+### [Why Israel is hell-bent on its offensive in Gaza's Rafah](https://www.firstpost.com/explainers/israel-benjamin-netanyahu-offensive-gaza-rafah-13751434.html)
+
+Article found but Couldn't summarize 
+Israel is determined to launch a ground offensive in Rafah, the southernmost town in Gaza. Prime Minister Benjamin Netanyahu says Israel can’t achieve its goal of ‘total victory’ against Hamas without going into the area
+
+Thu, 21 Mar 2024 14:39:58 +0530
+### [Ingrown hair can be fatal: How a US man went into coma, giving him 4% survival chance](https://www.firstpost.com/explainers/texas-man-ingrown-hair-coma-sepsis-4-survival-chance-13751306.html)
+
+Article found but Couldn't summarize 
+A Texas man developed a blood infection called sepsis after trying to remove an ingrown hair from his leg. There was only a four per cent chance of his survival. However, after years of treatment, he is making a miraculous recovery
+
+Thu, 21 Mar 2024 13:53:09 +0530
+### [Lok Sabha elections 2024: Is Varun Gandhi planning to contest Pilibhit as an independent?](https://www.firstpost.com/explainers/lok-sabha-elections-2024-varun-gandhi-pilibhit-seat-independent-bjp-candidate-13751349.html)
+
+Article found but Couldn't summarize 
+The BJP’s delay in announcing the nominee for its Pilibhit Lok Sabha seat in Uttar Pradesh has fuelled buzz that it might not field sitting MP Varun Gandhi again. Speculations are rife that the Gandhi scion, who has been critical of the Centre and Yogi Adityanath government in recent years, may feel the heat this time
+
+Thu, 21 Mar 2024 12:42:03 +0530
+### [Why did Leo Varadkar step down as Ireland’s PM? Who can replace him as Taoiseach?](https://www.firstpost.com/explainers/leo-varadkar-ireland-pm-resigns-next-taoiseach-13751309.html)
+
+Article found but Couldn't summarize 
+Ireland’s Leo Varadkar surprised one and all when he announced that he was stepping down as prime minister, saying he didn’t feel he was the best person for the job anymore. Now, his party, the Fine Gael, will seek a successor with names of four leaders — Simon Harris, Simon Coveney, Paschal Donohoe and Helen McEntee — doing the round as top contenders
+
+Thu, 21 Mar 2024 11:56:25 +0530
+### [Who was Usha Mehta, the inspiration behind Sara Ali Khan’s 'Ae Watan Mere Watan'?](https://www.firstpost.com/explainers/who-was-usha-mehta-the-inspiration-behind-sara-ali-khans-ae-watan-mere-watan-13751214.html)
+
+Article found but Couldn't summarize 
+Sara Ali Khan’s ‘Ae Watan Mere Watan’ follows the life of Usha Mehta and Congress Radio, an underground radio that operated during the Quit India Movement in 1942. The freedom fighter was an integral part of India’s independence struggle and helped amplify Mahatma Gandhi’s message for rebellion against the British Raj
+
+Thu, 21 Mar 2024 11:14:49 +0530
+### [Indonesia elections: Why Prabowo Subianto's win is being challenged](https://www.firstpost.com/explainers/indonesia-elections-why-prabowo-subiantos-win-is-being-challenged-13751237.html)
+
+Article found but Couldn't summarize 
+Indonesia’s electoral commission has announced that Defence Minister Prabowo Subianto has been elected as  president. However, the results immediately drew allegations of fraud from Subianto’s political rivals
+
+Thu, 21 Mar 2024 09:56:57 +0530
+### [Pannun plot: Did former RAW agent go rogue, mastermind the attempted murder?](https://www.firstpost.com/explainers/gurpatwant-singh-pannun-plot-former-raw-agent-rogue-mastermind-murder-13751221.html)
+
+Article found but Couldn't summarize 
+Indian authorities have submitted their findings in the Gurpatwant Singh Pannun ‘murder plot’ to the US. As per a Bloomberg report, New Delhi has stated that a rogue operative, who previously worked in the Research and Analysis Wing (RAW), was involved in the assassination attempt on the Khalistani on American soil
+
+Thu, 21 Mar 2024 09:48:28 +0530
+### [Bengaluru water crisis: Can use of aerators stop water wastage?](https://www.firstpost.com/explainers/bengaluru-water-crisis-can-mandatory-use-of-aerators-stop-water-wastage-13750909.html)
+
+Article found but Couldn't summarize 
+The Banglore Water Supply and Sewerage Board has instructed households and businesses to install aerators in taps by 31 March. These are small attachments that fit at the end of taps to regulate the flow of water to prevent wastage amid scarcity
+
 Thu, 21 Mar 2024 05:00:18 +0530
 ### [FirstUp: Ninth ED summons to Kejriwal and more... Big news today](https://www.firstpost.com/explainers/firstup-ed-summons-kejriwal-big-news-today-13751052.html)
 

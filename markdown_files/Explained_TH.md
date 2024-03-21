@@ -1,3 +1,15 @@
+Thu, 21 Mar 2024 22:25:33 +0530
+### [Nuclear energy: fixing the finance | Explained](https://www.thehindu.com/business/Industry/nuclear-energy-fixing-the-finance-explained/article67977684.ece)
+
+Article found but Couldn't summarize 
+Why is there an urgent need to reassess nuclear financing policies in Multilateral Development Banks to accommodate private capital or blended financing models for the generation of nuclear energy? Why is the state of nuclear infrastructure development and finance mobilisation not proportional? Where does India stand?
+
+Thu, 21 Mar 2024 10:30:00 +0530
+### [Why has Karnataka banned certain colouring agents? | Explained](https://www.thehindu.com/news/national/other-states/why-has-karnataka-banned-certain-colouring-agents-explained/article67973700.ece)
+
+Article found but Couldn't summarize 
+Where were these harmful agents found? Which are the colouring agents rendered as harmful? What are the stipulated penalties if manufacturers are found using these chemicals?
+
 Wed, 20 Mar 2024 22:16:09 +0530
 ### [The resurgence of mass kidnappings in Nigeria | Explained](https://www.thehindu.com/news/international/nigeria-mass-kidnappings-bandits-violence-conflict-explainer-africa-crisis/article67964680.ece)
 

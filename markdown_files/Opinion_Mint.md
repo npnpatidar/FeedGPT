@@ -1,3 +1,57 @@
+Thu, 21 Mar 2024 22:35:48 +0530
+### [Regulating AI in finance looks like a wild goose chase](https://www.livemint.com/opinion/online-views/regulating-ai-in-finance-looks-like-a-wild-goose-chase-11711031780513.html)
+
+Article found but Couldn't summarize 
+The intricacies of AI systems make it nearly impossible for regulators to keep abreast of every development. Yet, admitting this is difficult while banning AI may stifle innovation.
+
+Thu, 21 Mar 2024 22:27:28 +0530
+### [The economic consequences of legal behaviour: Letter or spirit?](https://www.livemint.com/opinion/online-views/the-economic-consequences-of-legal-behaviour-letter-or-spirit-11711024218880.html)
+
+Article found but Couldn't summarize 
+Moving from following the letter of the law to its spirit can foster innovation by making space for judgement and creativity. The New York model of crossing streets, for example, where individuals have leeway to interpret the law, facilitates Pareto improvements.
+
+Thu, 21 Mar 2024 22:23:37 +0530
+### [Microsoft’s Inflection point: Acquire what you can’t create](https://www.livemint.com/opinion/online-views/microsofts-inflection-point-acquire-what-you-can-t-create-11711024267769.html)
+
+Article found but Couldn't summarize 
+First OpenAI and then Inflection. Microsoft is on a roll. But it’s not the only Big Tech firm keen to snap up every AI innovator in sight.
+
+Thu, 21 Mar 2024 22:22:53 +0530
+### [Climate action: We must aim for leadership of a race to the top](https://www.livemint.com/opinion/online-views/climate-action-we-must-aim-for-leadership-of-a-race-to-the-top-11711024371226.html)
+
+Article found but Couldn't summarize 
+The realization of a strategic and economic opportunity in sustainability has sparked a green race that has early-mover China in the lead right now, but India is placed well to innovate and leap forth.
+
+Thu, 21 Mar 2024 21:51:39 +0530
+### [Don’t take tension, but the universe expands](https://www.livemint.com/opinion/columns/dont-take-tension-but-the-universe-expands-11711037262132.html)
+
+Article found but Couldn't summarize 
+The world of science is full of important constants such as pi and the Hubble Constant, which reveals the universe's expansion. Edwin Hubble linked red shift to distance, estimating the Hubble Constant at 500km/s/mpc, now revised to 65km/s/mpc.
+
+Thu, 21 Mar 2024 09:14:32 +0530
+### [Can anything stop Nvidia’s Jensen Huang?](https://www.livemint.com/opinion/online-views/can-anything-stop-nvidia-s-jensen-huang-11710991724271.html)
+
+Article found but Couldn't summarize 
+He has become the generative-AI showman of our time
+
+Thu, 21 Mar 2024 09:00:07 +0530
+### [Why Indians are key to reviving Japan's troubled economy](https://www.livemint.com/opinion/online-views/why-indians-are-key-to-reviving-japans-troubled-economy-11710934605876.html)
+
+Article found but Couldn't summarize 
+Japan could address its demographic hurdles and fuel economic growth by embracing immigration from labour-rich countries like India
+
+Thu, 21 Mar 2024 08:00:04 +0530
+### [Happiness: India has a long way to go](https://www.livemint.com/opinion/online-views/happiness-india-has-a-long-way-to-go-11710947799757.html)
+
+Article found but Couldn't summarize 
+The World Happiness Report for 2024 ranks Finns the happiest, with India at No. 126. Perhaps we need a more people-centric approach that results in a more even distribution of economic gains.
+
+Thu, 21 Mar 2024 08:00:04 +0530
+### [Central banks are powerful but not omnipotent](https://www.livemint.com/opinion/online-views/central-banks-are-powerful-but-not-omnipotent-11710947155840.html)
+
+Article found but Couldn't summarize 
+Even monetary authorities can’t defy elementary economic logic. To grasp why the Bank of Japan’s negative rate policy was flawed all along, recall Keynes’ warning of a liquidity trap.
+
 Wed, 20 Mar 2024 23:38:18 +0530
 ### [Neutral rate: There’s no need for a ‘pole star’ to guide RBI’s policy](https://www.livemint.com/opinion/online-views/neutral-rate-there-s-no-need-for-a-pole-star-to-guide-rbi-s-policy-11710947231405.html)
 

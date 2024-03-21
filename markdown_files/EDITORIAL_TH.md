@@ -1,3 +1,15 @@
+Fri, 22 Mar 2024 00:20:00 +0530
+### [New capabilities: India and the Agni-V with MIRV](https://www.thehindu.com/opinion/editorial/new-capabilities-india-and-the-agni-v-with-mirv/article67976702.ece)
+
+Article found but Couldn't summarize 
+The choice of MIRV on Agni-V gives it range and ability to defeat defences
+
+Fri, 22 Mar 2024 00:10:00 +0530
+### [Three is a crowd: On Tamil Nadu political scene and the general election 2024](https://www.thehindu.com/opinion/editorial/three-is-a-crowd-on-tamil-nadu-political-scene-and-the-general-election-2024/article67976731.ece)
+
+Article found but Couldn't summarize 
+The DMK alliance has gained strength, but the opposition is split in T.N.
+
 Thu, 21 Mar 2024 00:20:00 +0530
 ### [Ferocious friends: On certain breeds of dogs and public safety](https://www.thehindu.com/opinion/editorial/ferocious-friends-on-certain-breeds-of-dogs-and-public-safety/article67972581.ece)
 

@@ -1,3 +1,51 @@
+Thu, 21 Mar 2024 18:05:28 +0530
+### [Amid Cold War 2.0, Putin’s fifth term will consolidate Russia’s position](https://www.firstpost.com/opinion/amid-cold-war-2-0-putins-fifth-term-will-consolidate-russias-position-13751430.html)
+
+Article found but Couldn't summarize 
+The ongoing Russia-Ukraine war is being perceived, at a popular level, as the war by the West against Russia as the Grey Zone warfare and one-sided narratives predominate their respective global spaces
+
+Thu, 21 Mar 2024 16:14:09 +0530
+### [Vantage | Why immigration could be Biden's Achilles heel](https://www.firstpost.com/opinion/vantage-why-immigration-could-be-bidens-achilles-heel-13751425.html)
+
+Article found but Couldn't summarize 
+As Biden seeks a second term to remedy this crisis, his path to re-election grows increasingly arduous
+
+Thu, 21 Mar 2024 15:10:50 +0530
+### [India's Bhutan policy: Balancing regional allies in the Dragon's shadow](https://www.firstpost.com/opinion/indias-bhutan-policy-balancing-regional-allies-in-the-dragons-shadow-13751198.html)
+
+Article found but Couldn't summarize 
+The importance of Bhutan for India can be immediately gauged from the manner in which China is seeking to woo its southern neighbour and away from the ambit of Indian influence
+
+Thu, 21 Mar 2024 14:58:00 +0530
+### [Vantage | What does Saudi Arabia joining the AI race mean for India?](https://www.firstpost.com/opinion/vantage-what-does-saudi-arabia-joining-the-ai-race-mean-for-india-13751368.html)
+
+Article found but Couldn't summarize 
+Saudi Arabia's mammoth investment in AI signals a significant escalation in the global AI race
+
+Thu, 21 Mar 2024 14:25:25 +0530
+### [Vantage | Why Hong Kong's new security law is bad news for businesses](https://www.firstpost.com/opinion/vantage-why-hong-kongs-new-security-law-is-bad-news-for-businesses-13751388.html)
+
+Article found but Couldn't summarize 
+The new law will allow China to exert its influence on businesses in Hong Kong. It empowers the police to detain suspects for up to 16 days without charge
+
+Thu, 21 Mar 2024 12:07:38 +0530
+### [Nepal: PM Prachanda on a slippery wicket as newly-formed Left alliance’s future remains uncertain](https://www.firstpost.com/opinion/nepal-pm-prachanda-on-a-slippery-wicket-as-newly-formed-left-alliances-future-remains-uncertain-13751270.html)
+
+Article found but Couldn't summarize 
+Despite KP Oli’s claim that China had nothing to do with regime change—forging the Left alliance—the Chinese Communist Party is delighted about the reincarnation of the Nepal Communist Party 2.0
+
+Thu, 21 Mar 2024 09:55:24 +0530
+### [Electoral bonds: Amit Shah is right about return of black money; judicial activism has made perfect the enemy of good](https://www.firstpost.com/opinion/electoral-bonds-amit-shah-is-right-about-return-of-black-money-judicial-activism-has-made-perfect-the-enemy-of-good-13751208.html)
+
+Article found but Couldn't summarize 
+From a dominant system of no transparency when donations were made and received entirely in the form of hard cash, the electoral bond system introduced in 2018 by the Narendra Modi government brought a modicum of transparency
+
+Thu, 21 Mar 2024 08:55:33 +0530
+### [How global indices miss India’s chuckle](https://www.firstpost.com/opinion/how-global-indices-miss-indias-chuckle-13751196.html)
+
+Article found but Couldn't summarize 
+It’s high time we recognised these indices for what they are: Not definitive markers of joy or despair but rather limited snapshots tainted by methodological biases and cultural myopia
+
 Wed, 20 Mar 2024 15:56:28 +0530
 ### [Debunking Orientalism: India’s economic resilience in the face of global scrutiny](https://www.firstpost.com/opinion/debunking-orientalism-indias-economic-resilience-in-the-face-of-global-scrutiny-13751009.html)
 
