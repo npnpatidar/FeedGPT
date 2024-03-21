@@ -1,3 +1,9 @@
+Thu, 21 Mar 2024 05:00:18 +0530
+### [FirstUp: Ninth ED summons to Kejriwal and more... Big news today](https://www.firstpost.com/explainers/firstup-ed-summons-kejriwal-big-news-today-13751052.html)
+
+Article found but Couldn't summarize 
+The ED has issued ninth summons to Delhi CM Arvind Kejriwal, asking him to appear for questioning today in the excise policy case. The SC has directed SBI to provide comprehensive disclosure of all electoral bond details
+
 Wed, 20 Mar 2024 20:20:58 +0530
 ### [Bad for heart, good for brain: Should you go for intermittent fasting?](https://www.firstpost.com/explainers/intermittent-fasting-heart-disease-study-brain-health-effects-13751129.html)
 
