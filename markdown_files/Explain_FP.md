@@ -1,3 +1,9 @@
+Fri, 22 Mar 2024 05:00:56 +0530
+### [FirstUp: IPL 2024 begins, K Kavitha case in Supreme Court](https://www.firstpost.com/explainers/firstup-ipl-2024-begins-k-kavitha-case-in-supreme-court-13751510.html)
+
+Article found but Couldn't summarize 
+The much-awaited Indian Premier League 2024 commences today in Chennai, with the Chennai Super Kings and Royal Challengers Bengaluru competing against each other. The Supreme Court will hear BRS leader K Kavitha's plea challenging her arrest by ED in a money laundering case relating to the Delhi liquor scam
+
 Thu, 21 Mar 2024 20:04:14 +0530
 ### [Family Matters: How levels of incest are on the rise in the US](https://www.firstpost.com/explainers/incest-cases-on-rise-in-the-us-dna-testing-family-13751377.html)
 
