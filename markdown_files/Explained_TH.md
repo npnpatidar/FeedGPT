@@ -1,3 +1,15 @@
+Fri, 22 Mar 2024 14:50:37 +0530
+### [Watch | What is the Model Code of Conduct? | Explained](https://www.thehindu.com/elections/lok-sabha/watch-what-is-the-model-code-of-conduct-explained/article67979789.ece)
+
+Article found but Couldn't summarize 
+What are the guidelines for political parties, candidates and ruling governments? How is it enforced?
+
+Fri, 22 Mar 2024 10:28:23 +0530
+### [Why did Pakistan carry out airstrikes in Afghanistan? | Explained](https://www.thehindu.com/news/international/pakistan-airstrikes-afghanistan-taliban-islamabad-terrorism-explainer/article67979105.ece)
+
+Article found but Couldn't summarize 
+Who was the target? What is the current status of the relationship between the two countries?
+
 Thu, 21 Mar 2024 22:25:33 +0530
 ### [Nuclear energy: fixing the finance | Explained](https://www.thehindu.com/business/Industry/nuclear-energy-fixing-the-finance-explained/article67977684.ece)
 

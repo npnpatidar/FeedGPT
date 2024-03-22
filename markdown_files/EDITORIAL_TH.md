@@ -1,3 +1,15 @@
+Sat, 23 Mar 2024 00:20:00 +0530
+### [AAP trap: On Arvind Kejriwal’s arrest](https://www.thehindu.com/opinion/editorial/aap-trap-on-arvind-kejriwals-arrest-and-democracy/article67981526.ece)
+
+Article found but Couldn't summarize 
+Arvind Kejriwal’s arrest is a reminder of the dangers of misusing enforcement agencies
+
+Sat, 23 Mar 2024 00:10:00 +0530
+### [Blowback: On Pakistan, Afghanistan and insurgency](https://www.thehindu.com/opinion/editorial/blowback-on-pakistan-afghanistan-and-insurgency/article67980867.ece)
+
+Article found but Couldn't summarize 
+Pakistan is paying for its role in supporting Islamists in Afghanistan
+
 Fri, 22 Mar 2024 00:20:00 +0530
 ### [New capabilities: India and the Agni-V with MIRV](https://www.thehindu.com/opinion/editorial/new-capabilities-india-and-the-agni-v-with-mirv/article67976702.ece)
 

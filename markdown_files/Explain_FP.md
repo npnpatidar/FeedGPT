@@ -1,3 +1,87 @@
+Fri, 22 Mar 2024 19:32:25 +0530
+### [How Donald Trump could make billions from Truth Social’s merger](https://www.firstpost.com/explainers/us-donald-trump-wealth-increase-truth-social-merger-13751866.html)
+
+Article found but Couldn't summarize 
+Former US president Donald Trump’s wealth could rise by about $3.4 billion if Trump Media & Technology Group,  Truth Social's parent company, merges with Digital World Acquisition Corporation. But can the Republican tap the money to reduce his financial pressures?
+
+Fri, 22 Mar 2024 18:59:55 +0530
+### [Why America's love for French Bulldogs is causing an uproar](https://www.firstpost.com/explainers/america-french-bulldogs-uproar-13751395.html)
+
+Article found but Couldn't summarize 
+Frenchies, or French Bulldogs, are the United States' most commonly registered purebred dogs, but many fans aren't happy about it. Here’s why
+
+Fri, 22 Mar 2024 17:34:14 +0530
+### [Is it the end of Apple's dominance? From US lawsuit to China slowdown, there are problems galore](https://www.firstpost.com/explainers/apple-us-lawsuit-china-slowdown-problems-tech-giant-tim-cook-13751793.html)
+
+Article found but Couldn't summarize 
+Apple, the tech giant, is facing trouble on many fronts. The latest challenge for the Tim Cook-led company is the lawsuit filed by the US, accusing it of illegally maintaining a monopoly. But that's not all. There's a barrage of litigations from across the world and sales in China, its largest market outside the US, are seeing a drop
+
+Fri, 22 Mar 2024 16:19:12 +0530
+### [Who is Grecia Munoz, Zomato CEO Deepinder Goyal's second wife?](https://www.firstpost.com/explainers/mexican-model-grecia-munoz-zomato-ceo-deepinder-goyal-second-wife-13751782.html)
+
+Article found but Couldn't summarize 
+Zomato CEO Deepinder Goyal tied the knot with Grecia Munoz in a private ceremony a few months ago. The couple reportedly returned from their honeymoon in February. The former model is now managing her luxury products startup in addition to hosting television shows
+
+Fri, 22 Mar 2024 15:30:46 +0530
+### [From anti-corruption crusader to facing graft charges: How Arvind Kejriwal’s life has come full circle](https://www.firstpost.com/explainers/delhi-cm-arvind-kejriwal-arrest-aap-anti-corruption-crusader-liquor-policy-scam-13751759.html)
+
+Article found but Couldn't summarize 
+A decade back, Arvind Kejriwal rode to power in Delhi on the heels of his India Against Corruption (IAC) movement. Now, the Aam Aadmi Party leader, who cultivated a ‘common man’ image in politics, has been arrested in a money laundering probe related to the scrapped excise policy of his government
+
+Fri, 22 Mar 2024 14:21:31 +0530
+### [How Canada’s restriction on temporary work permits will affect Indians](https://www.firstpost.com/explainers/how-canadas-restriction-on-temporary-work-permits-will-affect-indians-13751704.html)
+
+Article found but Couldn't summarize 
+Canada plans to reduce its temporary residents and set a cap on temporary immigration for the first time ever. The move comes as the country seeks to address a housing shortage and stretched essential services. It is likely to impact Indians who want to settle or work there
+
+Fri, 22 Mar 2024 13:47:27 +0530
+### [Arvind Kejriwal arrested: Can he continue as Delhi chief minister from jail?](https://www.firstpost.com/explainers/arvind-kejriwal-arrest-delhi-chief-minister-jail-law-13751719.html)
+
+Article found but Couldn't summarize 
+Aam Aadmi Party has insisted that Arvind Kejriwal will continue as Delhi chief minister from jail despite his arrest. AAP leaders say that there is no law that states otherwise. Is that correct? What will be the challenges if he chooses to govern from behind bars?
+
+Fri, 22 Mar 2024 13:27:40 +0530
+### [Electoral bonds: How much did Santiago Martin, India's top donor, give to TMC?](https://www.firstpost.com/explainers/electoral-bonds-how-much-did-santiago-martin-indias-top-donor-give-to-tmc-13751670.html)
+
+Article found but Couldn't summarize 
+Trinamool Congress got at least Rs 540 crore worth electoral bonds from 'lottery king' Santiago Martin's Future Gaming. He also donated to DMK, YSR Congress, BJP and Congress
+
+Fri, 22 Mar 2024 11:42:26 +0530
+### [Delhi liquor case: Arvind Kejriwal and other big leaders arrested](https://www.firstpost.com/explainers/delhi-liquor-policy-scam-case-arvind-kejriwal-other-big-leaders-arrested-13751611.html)
+
+Article found but Couldn't summarize 
+The ED has arrested Delhi chief minister Arvind Kejriwal, bringing the number of top leaders arrested in the Delhi liquor policy scam to six. Last week, BRS leader K Kavitha was held. AAP's Manish Sisodia and Sanjay Singh have been jailed in the case
+
+Fri, 22 Mar 2024 11:32:47 +0530
+### [Arvind Kejriwal arrest: Will AAP survive the crisis? Will it hurt party’s chances in Lok Sabha polls?](https://www.firstpost.com/explainers/arvind-kejriwal-arrest-delhi-liquor-policy-case-aap-lok-sabha-elections-13751667.html)
+
+Article found but Couldn't summarize 
+With Arvind Kejriwal’s arrest in the Delhi liquor policy case, the Aam Aadmi Party faces its biggest challenge ever. There is a leadership crisis with the party’s other political minds – Manish Sisodia, Satyendar Jain and Sanjay Singh – already in jail. As Lok Sabha elections near, what can we expect from AAP?
+
+Fri, 22 Mar 2024 10:45:19 +0530
+### [Explained: The many legal cases taking a bite out of Apple](https://www.firstpost.com/explainers/explained-the-many-legal-cases-taking-a-bite-out-of-apple-13751626.html)
+
+Article found but Couldn't summarize 
+The US government on Thursday sued Apple claiming the tech behemoth illegally maintained a monopoly for its iPhone by stifling competition and imposing high costs on consumers. This, however, is not the only legal dispute confronting the firm
+
+Fri, 22 Mar 2024 09:52:19 +0530
+### [What led to Arvind Kejriwal's arrest? What is his link to Delhi liquor policy case?](https://www.firstpost.com/explainers/arvind-kejriwal-arrest-delhi-liquor-excise-policy-case-ed-cbi-13751612.html)
+
+Article found but Couldn't summarize 
+After skipping nine summons, the Enforcement Directorate arrested Delhi chief minister Arvind Kejriwal on Thursday in the Delhi excise policy case. The investigating officials have alleged that the AAP leader conspired with others to frame the liquor policy that would benefit one lobby of traders through which the party earned kickbacks
+
+Fri, 22 Mar 2024 08:43:20 +0530
+### [How Arvind Kejriwal's arrest intensifies the AAP-BJP tussle](https://www.firstpost.com/explainers/arvind-kejriwal-arrest-aap-bjp-tussle-13751595.html)
+
+Article found but Couldn't summarize 
+The ED arrested Delhi chief minister Arvind Kejriwal on Thursday in an excise policy-related money laundering case, escalating the AAP-BJP rivalry that has on for a decade
+
+Fri, 22 Mar 2024 07:45:48 +0530
+### [PM Modi in Bhutan: Why the visit matters amid growing China threat](https://www.firstpost.com/explainers/pm-narendra-modi-bhutan-visit-significance-growing-china-threat-13751053.html)
+
+Article found but Couldn't summarize 
+PM Narendra Modi is on a two-day state visit to Bhutan from today. The trip assumes significance as it comes just weeks before India heads to general elections. China’s increasing presence in the Himalayan kingdom is also worrying for New Delhi
+
 Fri, 22 Mar 2024 05:00:56 +0530
 ### [FirstUp: IPL 2024 begins, K Kavitha case in Supreme Court](https://www.firstpost.com/explainers/firstup-ipl-2024-begins-k-kavitha-case-in-supreme-court-13751510.html)
 

@@ -1,3 +1,33 @@
+Fri, 22 Mar 2024 09:45:05 +0530
+### [Why America is a “flawed democracy”](https://www.livemint.com/opinion/why-america-is-a-flawed-democracy-11711079996571.html)
+
+Article found but Couldn't summarize 
+EIU’s index plots the country’s democratic decline since 2006
+
+Fri, 22 Mar 2024 09:00:02 +0530
+### [Zomato’s ‘pure veg’ spin is a genius idea, nevermind the veg-shaming](https://www.livemint.com/opinion/zomatos-pure-veg-spin-is-a-genius-idea-nevermind-the-vegshaming-11711030202621.html)
+
+Article found but Couldn't summarize 
+The ‘pure veg’ option could strengthen Zomato’s position in the food-delivery market, even potentially bolstering its profits
+
+Fri, 22 Mar 2024 08:00:16 +0530
+### [Fact check: Excessive oversight won't do any good](https://www.livemint.com/opinion/quick-edit/fact-check-excessive-oversight-wont-do-any-good-11711032847829.html)
+
+Article found but Couldn't summarize 
+India’s Supreme Court has stayed the government’s notification on setting up a fact-checking unit with the power to flag what it deems as false information related to the central government and its agencies on social media. The idea flew in the face of free speech.
+
+Fri, 22 Mar 2024 08:00:16 +0530
+### [A red-green Zomato crew split could’ve driven a wedge in society](https://www.livemint.com/opinion/online-views/a-red-green-zomato-crew-split-could-ve-driven-a-wedge-in-society-11711031659492.html)
+
+Article found but Couldn't summarize 
+Zomato has thankfully rolled back its plan to have a distinct attire for delivery partners carrying ‘pure veg’ food. Colour profiling could have deepened an unfortunate social division in India.
+
+Fri, 22 Mar 2024 08:00:15 +0530
+### [The household consumption survey results raise some important question](https://www.livemint.com/opinion/online-views/the-household-consumption-survey-results-raise-some-important-question-11711031712486.html)
+
+Article found but Couldn't summarize 
+A shrunken share of Indian spending on cereals may be explained by stepped-up grain distribution by the government but a decline in the share of pulses may be a cause for worry. Food subsidy leakage is another probable problem.
+
 Thu, 21 Mar 2024 22:35:48 +0530
 ### [Regulating AI in finance looks like a wild goose chase](https://www.livemint.com/opinion/online-views/regulating-ai-in-finance-looks-like-a-wild-goose-chase-11711031780513.html)
 
