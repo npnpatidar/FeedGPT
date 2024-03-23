@@ -1,3 +1,51 @@
+Sun, 24 Mar 2024 04:17:00 +0530
+### [How bad is the humanitarian crisis in Gaza? | Explained](https://www.thehindu.com/news/international/how-bad-is-the-humanitarian-crisis-in-gaza-explained/article67985221.ece)
+
+Article found but Couldn't summarize 
+Why are several U.N. agencies warning about a severe food shortage and famine in the war-torn Palestinian enclave? What is the state of Gaza’s economy? Why is more aid not being allowed? What is Israel’s stand? What lies ahead?
+
+Sun, 24 Mar 2024 03:23:00 +0530
+### [Why is the DGCA firm on new rest rules for pilots? | Explained](https://www.thehindu.com/business/Industry/why-is-the-dgca-firm-on-new-rest-rules-for-pilots-explained/article67985262.ece)
+
+Article found but Couldn't summarize 
+What are the changes to pilots’ rest norms introduced by the Directorate General of Civil Aviation? Why were they brought about? When is the deadline for implementation? Why are the airlines unhappy? What are the pilots saying?
+
+Sun, 24 Mar 2024 01:57:00 +0530
+### [K. Ponmudy | Stalin’s man](https://www.thehindu.com/news/national/tamil-nadu/k-ponmudy-stalins-man/article67985324.ece)
+
+Article found but Couldn't summarize 
+The DMK leader’s re-induction into the Tamil Nadu Cabinet after the SC stayed his conviction in a disproportionate assets case saw tensions rise between the government and the Governor
+
+Sun, 24 Mar 2024 01:27:00 +0530
+### [Mustafa Suleyman | Microsoft’s new bet](https://www.thehindu.com/sci-tech/technology/mustafa-suleyman-microsofts-new-bet/article67985300.ece)
+
+Article found but Couldn't summarize 
+The co-founder of Inflection AI, a company building generative artificial intelligence, will now lead the software giant’s AI operations
+
+Sun, 24 Mar 2024 01:03:00 +0530
+### [Arvind Kejriwal | The prophet of probity](https://www.thehindu.com/news/national/arvind-kejriwal-the-prophet-of-probity/article67985252.ece)
+
+Article found but Couldn't summarize 
+The Delhi Chief Minister, who rose to power riding anti-corruption sentiments in the country, faces the biggest challenge of his career after he was arrested by the ED in a money laundering case
+
+Sat, 23 Mar 2024 16:13:43 +0530
+### [A brief history of starvation as a ‘war crime’ | Explained](https://www.thehindu.com/news/international/a-brief-history-of-starvation-as-a-war-crime-explained/article67906491.ece)
+
+Article found but Couldn't summarize 
+When and how was starvation recognised as a criminal act? What does the International Criminal Court say? Have countries been prosecuted for blockade-induced starvation?
+
+Sat, 23 Mar 2024 12:55:18 +0530
+### [Electoral bonds vs Electoral Trusts | What are they and how do they differ?](https://www.thehindu.com/news/national/electoral-bonds-vs-electoral-trusts-what-are-they-and-how-do-they-differ/article67975344.ece)
+
+Article found but Couldn't summarize 
+Ahead of the 2024 Lok Sabha elections, political contributions are under the scanner, with questions arising on who funds India’s top political parties and how.
+
+Sat, 23 Mar 2024 12:05:18 +0530
+### [All about the vote-from-home facility in the Lok Sabha elections | Explained](https://www.thehindu.com/elections/all-about-the-vote-from-home-facility-in-the-lok-sabha-elections-explained/article67971618.ece)
+
+Article found but Couldn't summarize 
+Who is eligible to vote from home in the 2024 Lok Sabha elections? What is the procedure?
+
 Fri, 22 Mar 2024 14:50:37 +0530
 ### [Watch | What is the Model Code of Conduct? | Explained](https://www.thehindu.com/elections/lok-sabha/watch-what-is-the-model-code-of-conduct-explained/article67979789.ece)
 

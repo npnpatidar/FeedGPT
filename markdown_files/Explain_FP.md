@@ -1,3 +1,39 @@
+Sat, 23 Mar 2024 17:55:01 +0530
+### [Why is leaving emails in your inbox problematic? How can they be managed?](https://www.firstpost.com/explainers/why-is-leaving-emails-in-your-inbox-problematic-how-can-they-be-managed-13751115.html)
+
+Article found but Couldn't summarize 
+There are three main problems with leaving unread emails in your inbox. First, users can lose track of the tasks that need to be done. Second, relying on search to re-find emails means you need to know exactly what you’re looking for. Third, many bills and statements are not sent as attachments to emails, but rather as hyperlinks
+
+Sat, 23 Mar 2024 16:44:12 +0530
+### [After Delhi, is it Punjab? Why state’s excise policy is under the scanner](https://www.firstpost.com/explainers/arvind-kejriwal-delhi-excise-scam-ed-probe-punjab-excise-policy-under-scanner-13752113.html)
+
+Article found but Couldn't summarize 
+Punjab BJP president Sunil Jakhar has said that a party delegation will approach the Election Commission of India and seek an ED probe into the state’s excise policy. The party alleges that Punjab’s excise policy in 2022 was tailored in line with the one in Delhi
+
+Sat, 23 Mar 2024 13:48:56 +0530
+### [Kate Middleton cancer diagnosis: What is preventive chemotherapy?](https://www.firstpost.com/explainers/kate-middleton-cancer-diagnosis-what-is-preventative-chemotherapy-13752066.html)
+
+Article found but Couldn't summarize 
+In a video, Kate Middleton revealed that she has been diagnosed with cancer and is currently receiving treatment in the ‘early stages’. The Princess of Wales said that she was undergoing ‘preventative’ chemotherapy, which refers to a wide range of medicines or treatments for different types of cancer
+
+Sat, 23 Mar 2024 11:41:07 +0530
+### [What is hangxiety, the unwanted guest who comes knocking after heavy drinking?](https://www.firstpost.com/explainers/hangxiety-holi-the-morning-effect-alcohol-consumption-13751831.html)
+
+Article found but Couldn't summarize 
+The Holi weekend is there and drinking and smoking could be part of those plans. What could come next is a hangover accompanied by anxiety – hangxiety. It is an unpleasant emotional and neurotic repercussion of using alcohol or any other cannabis-based product
+
+Sat, 23 Mar 2024 11:39:19 +0530
+### [What is ISIS-K, the militant group that claimed responsibility for the Moscow concert hall attack?](https://www.firstpost.com/explainers/russia-moscow-concert-hall-attack-isis-k-militant-group-claimed-responsibility-13752013.html)
+
+Article found but Couldn't summarize 
+At least 60 people were killed when gunmen attacked a packed Crocus City Hall on the outskirts of Moscow on Friday. Islamic State Khorasan (ISIS-K) has claimed responsibility for the attack. The militant group emerged in eastern Afghanistan in late 2014 and has a history of attacks inside and outside the country
+
+Sat, 23 Mar 2024 09:17:16 +0530
+### [This Week in Explainers: Will AAP survive the arrest of Arvind Kejriwal?](https://www.firstpost.com/explainers/this-is-week-in-explainers-arivind-kejriwal-arrest-will-aap-survive-13751823.html)
+
+Article found but Couldn't summarize 
+Arvind Kejriwal’s arrest in the Delhi liquor policy case has raised questions about the Aam Aadmi Party’s future. Who will be its new face? Is it the end of the road? We analyse this in our weekly roundup of explainers and talk about other big stories like the IVF controversy surrounding Sidhu Moose Wala’s parents and Zomato’s ‘pure veg’ fleet
+
 Fri, 22 Mar 2024 19:32:25 +0530
 ### [How Donald Trump could make billions from Truth Social’s merger](https://www.firstpost.com/explainers/us-donald-trump-wealth-increase-truth-social-merger-13751866.html)
 

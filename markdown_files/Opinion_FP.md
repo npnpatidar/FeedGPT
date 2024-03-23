@@ -1,3 +1,39 @@
+Sat, 23 Mar 2024 19:23:33 +0530
+### [How the US stance on India’s CAA is misplaced, misinformed, and unwarranted](https://www.firstpost.com/opinion/how-the-us-stance-on-indias-caa-is-misplaced-misinformed-and-unwarranted-13752191.html)
+
+Article found but Couldn't summarize 
+India is neither a banana republic that would follow the US diktat without questions, nor is it a junior alliance partner that would replicate Washington's policies in all dimensions
+
+Sat, 23 Mar 2024 17:01:37 +0530
+### [Rallying Point with Rupha | The demystification of MS](https://www.firstpost.com/opinion/rallying-point-with-rupha-the-demystification-of-ms-13752169.html)
+
+Article found but Couldn't summarize 
+MS resides in the small moments yes, but his sight is always on the bigger picture
+
+Sat, 23 Mar 2024 16:48:05 +0530
+### [How Kenya is strategically leveraging African Union in its pursuit of international influence](https://www.firstpost.com/opinion/how-kenya-is-strategically-leveraging-african-union-in-its-pursuit-of-international-influence-13752101.html)
+
+Article found but Couldn't summarize 
+The African Union plays a crucial role in shaping Africa's global influence and diplomatic efforts
+
+Sat, 23 Mar 2024 13:51:39 +0530
+### [Attack on Gwadar: Crucial lessons for Pakistan](https://www.firstpost.com/opinion/attack-on-gwadar-crucial-lessons-for-pakistan-13752091.html)
+
+Article found but Couldn't summarize 
+It is not the first time Gwadar and its environs have been targeted by insurgents. Separatism and geopolitics combine in a lethal cocktail as militants target Chinese interests in what is supposed to be the ‘jewel in the CPEC crown’
+
+Sat, 23 Mar 2024 10:53:13 +0530
+### [Badaun: This Sultanate city of culture and creativity is forgotten today](https://www.firstpost.com/opinion/badaun-forgotten-capital-of-a-sultanate-city-of-creativity-is-lacklustre-today-13752040.html)
+
+Article found but Couldn't summarize 
+Apparently, it was the cultural environment of Badaun that inspired the creative arts. Sadly, there is little sign of such an environment in the birthplace of Nizamuddin Auliya and Abdul Qadir Badayuni today
+
+Sat, 23 Mar 2024 10:18:06 +0530
+### [Book review | Ram Vilas Paswan: The weathervane of Indian politics](https://www.firstpost.com/opinion/book-review-ram-vilas-paswan-the-weathervane-of-indian-politics-2-13752027.html)
+
+Article found but Couldn't summarize 
+Paswan’s role in Indian politics for over five decades as a nine-term Lok Sabha MP and a two-term MP in the Rajya Sabha, as well as a stint in the Bihar Assembly, and a member of the Central cabinet with six successive prime ministers of different parties
+
 Fri, 22 Mar 2024 21:21:11 +0530
 ### [Vantage | How Senegal's people ensured democracy won before they vote](https://www.firstpost.com/opinion/vantage-how-senegals-people-ensured-democracy-won-before-they-vote-13751950.html)
 
