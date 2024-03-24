@@ -1,3 +1,9 @@
+Sun, 24 Mar 2024 22:50:16 +0530
+### [On the resurgence of mumps in Kerala | Explained](https://www.thehindu.com/sci-tech/health/on-the-resurgence-of-mumps-in-kerala-explained/article67988633.ece)
+
+Article found but Couldn't summarize 
+Is Kerala the only State witnessing an alarming increase in the number of mumps cases in children and adolescents? Why have there been many school-based outbreaks in the State? Why has the mumps vaccine been excluded from the Universal Immunisation Programme?
+
 Sun, 24 Mar 2024 04:17:00 +0530
 ### [How bad is the humanitarian crisis in Gaza? | Explained](https://www.thehindu.com/news/international/how-bad-is-the-humanitarian-crisis-in-gaza-explained/article67985221.ece)
 

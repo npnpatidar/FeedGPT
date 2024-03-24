@@ -1,3 +1,33 @@
+Sun, 24 Mar 2024 22:46:56 +0530
+### [Why the arrest of Kejriwal may have big consequences](https://www.livemint.com/opinion/online-views/why-the-arrest-of-kejriwal-may-have-big-consequences-11711283051976.html)
+
+Article found but Couldn't summarize 
+The high-profile nature of the case could draw popular attention to the importance of fairness.
+
+Sun, 24 Mar 2024 22:42:14 +0530
+### [Minimally disrupted schooling can reduce high drop-out rates](https://www.livemint.com/opinion/online-views/minimally-disrupted-schooling-can-reduce-high-drop-out-rates-11711283233019.html)
+
+Article found but Couldn't summarize 
+States must promote schools that go from the primary to higher secondary level to minimize transition ordeals in education.
+
+Sun, 24 Mar 2024 22:33:21 +0530
+### [We should listen to the Global South’s outcry on the Gaza war](https://www.livemint.com/opinion/online-views/we-should-listen-to-the-global-south-s-outcry-on-the-gaza-war-11711283412932.html)
+
+Article found but Couldn't summarize 
+Calls for a ceasefire and increase in aid need to be taken up urgently. It’s emerging as the world’s conscience in a war that’s gone too far.
+
+Sun, 24 Mar 2024 22:32:41 +0530
+### [Trust could be the cornerstone for this election season](https://www.livemint.com/opinion/online-views/trust-could-be-the-cornerstone-for-this-election-season-11711283540286.html)
+
+Article found but Couldn't summarize 
+Courts have been chiding authorities repeatedly for overlooking the rights of Indian citizens.
+
+Sun, 24 Mar 2024 13:01:50 +0530
+### [Worries about the EFTA’s $100 bn investment commitment are misplaced. Here’s why](https://www.livemint.com/opinion/first-person/worries-about-the-efta-s-100-bn-investment-commitment-are-misplaced-here-s-why-11711023115521.html)
+
+Article found but Couldn't summarize 
+Some experts have argued that since the FDI will come from the private sectors of the four-nation bloc and not their governments, there could be, in effect, no binding commitment.
+
 Fri, 22 Mar 2024 09:45:05 +0530
 ### [Why America is a “flawed democracy”](https://www.livemint.com/opinion/why-america-is-a-flawed-democracy-11711079996571.html)
 

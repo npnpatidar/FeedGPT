@@ -1,3 +1,28 @@
+Sun, 24 Mar 2024 16:11:48 +0000
+### [Pakistan may ‘seriously examine’ resuming trade with India: Why it paused, what it constituted](https://indianexpress.com/article/explained/everyday-explainers/pakistan-india-trade-pause-reasons-9232107/)
+
+Article found but Couldn't summarize
+
+Sun, 24 Mar 2024 13:08:08 +0000
+### [Why the Karnataka govt has moved the Supreme Court against the Centre over drought relief](https://indianexpress.com/article/explained/karnataka-govt-sc-ndrf-drought-water-crisis-9231843/)
+
+Article found but Couldn't summarize
+
+Sun, 24 Mar 2024 10:02:47 +0000
+### [Why November-December, not March temperatures may decide this year’s rabi crop production](https://indianexpress.com/article/explained/explained-economics/march-winter-temperatures-rabi-crop-production-9231534/)
+
+Article found but Couldn't summarize
+
+Sun, 24 Mar 2024 02:30:49 +0000
+### [What is Ola’s Krutrim AI, dubbed as India’s indigenous AI?](https://indianexpress.com/article/explained/explained-sci-tech/ola-krutrim-ai-9230622/)
+
+Article found but Couldn't summarize
+
+Sun, 24 Mar 2024 01:30:13 +0000
+### [Why Pakistan’s ‘piracy’ of Indian basmati rice varieties is concerning](https://indianexpress.com/article/explained/explained-economics/pakistan-piracy-indian-basmati-rice-9230794/)
+
+Article found but Couldn't summarize
+
 Sat, 23 Mar 2024 14:29:27 +0000
 ### [Who are ISIS-K, allegedly behind the Moscow attack](https://indianexpress.com/article/explained/explained-global/isis-k-moscow-attack-9230589/)
 
@@ -30,6 +55,11 @@ Article found but Couldn't summarize
 
 Sat, 23 Mar 2024 01:32:07 +0000
 ### [Kejriwal not named in excise case, can he be booked for money laundering?](https://indianexpress.com/article/explained/kejriwal-not-named-in-excise-case-can-he-be-booked-for-money-laundering-9229326/)
+
+Article found but Couldn't summarize
+
+Sat, 23 Mar 2024 01:32:07 +0000
+### [Can Arvind Kejriwal be booked for money laundering, even if he is not named in Delhi excise policy case?](https://indianexpress.com/article/explained/explained-law/kejriwal-not-named-in-excise-case-can-he-be-booked-for-money-laundering-9229326/)
 
 Article found but Couldn't summarize
 

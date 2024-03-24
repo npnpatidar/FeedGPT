@@ -1,3 +1,21 @@
+Sun, 24 Mar 2024 17:00:52 +0530
+### [Holi Hai! From Punjab's Hola Mohalla to West Bengal's Basant Utsav, the celebrations vary](https://www.firstpost.com/explainers/holi-hai-from-punjabs-hola-mohalla-to-west-bengals-basant-utsav-the-celebrations-vary-13751834.html)
+
+Article found but Couldn't summarize 
+There is music, there’s colour and a lot of masti. While that is common, there are different Holi traditions in different states. In Kerala, some communities play with water and turmeric; in Uttarakhand’s Kumaon, it is a musical gathering
+
+Sun, 24 Mar 2024 12:56:21 +0530
+### [Is Donald Trump rich enough to pay $454 million bond in New York civil fraud case?](https://www.firstpost.com/explainers/us-donald-trump-wealth-new-york-civil-fraud-case-454-million-bond-13751540.html)
+
+Article found but Couldn't summarize 
+Former US president Donald Trump has to arrange a $454 million (about Rs 3,758 crore) bond to appeal his civil fraud case in New York before the 25 March deadline. Here’s a look at the Republican's fortunes
+
+Sun, 24 Mar 2024 09:42:28 +0530
+### [This Week in Explainers: Are we nearing the end of Apple’s smartphone dominance?](https://www.firstpost.com/explainers/this-week-in-explainers-apple-iphone-monopoly-us-13751939.html)
+
+Article found but Couldn't summarize 
+Apple’s legal woes escalated after the US Justice Department sued the tech giant accusing it of a monopoly in the smartphone market, stamping out competition and keeping prices artificially high. Here’s all this and more in our weekly roundup of stories from around the world
+
 Sat, 23 Mar 2024 17:55:01 +0530
 ### [Why is leaving emails in your inbox problematic? How can they be managed?](https://www.firstpost.com/explainers/why-is-leaving-emails-in-your-inbox-problematic-how-can-they-be-managed-13751115.html)
 
