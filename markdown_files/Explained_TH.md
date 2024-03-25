@@ -1,3 +1,21 @@
+Mon, 25 Mar 2024 22:40:14 +0530
+### [On campaigning in the name of religion | Explained](https://www.thehindu.com/news/national/on-campaigning-in-the-name-of-religion-explained/article67992053.ece)
+
+Article found but Couldn't summarize 
+What does Section 123(3) of the Representation of the People Act, 1951 stipulate? What about the Model Code of Conduct laid down by the Election Commission of India?
+
+Mon, 25 Mar 2024 19:18:56 +0530
+### [What is Hong Kong’s new Article 23 security legislation | Explained](https://www.thehindu.com/news/international/hong-kong-security-law-article-23-offences-penalty-china-explainer/article67983485.ece)
+
+Article found but Couldn't summarize 
+Hong Kong lawmakers fast-tracked the “Safeguarding National Security Bill,” unanimously passing it on March 19, within a fortnight of it first being tabled in the Legislative Council on March 8. Article 23 of the Basic Law mandates that the Hong Kong government must independently enact laws to prohibit national security offences.
+
+Mon, 25 Mar 2024 08:30:00 +0530
+### [What are the new rules for elephant transfers? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/what-are-the-new-rules-for-elephant-transfers-explained/article67988618.ece)
+
+Article found but Couldn't summarize 
+What were the provisions regarding the ownership and transfer of elephants earlier? Why do experts and activists say that the law with respect to protecting elephants from trafficking has become lax?
+
 Sun, 24 Mar 2024 22:50:16 +0530
 ### [On the resurgence of mumps in Kerala | Explained](https://www.thehindu.com/sci-tech/health/on-the-resurgence-of-mumps-in-kerala-explained/article67988633.ece)
 

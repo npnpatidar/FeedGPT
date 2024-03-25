@@ -1,3 +1,21 @@
+Mon, 25 Mar 2024 08:00:05 +0530
+### [The West’s disregard for global norms is endangering the world](https://www.livemint.com/opinion/online-views/the-west-s-disregard-for-global-norms-is-endangering-the-world-11711282971839.html)
+
+Article found but Couldn't summarize 
+Its blatant retreat from multilateralism will have grave consequences for everybody on the planet.
+
+Mon, 25 Mar 2024 08:00:05 +0530
+### [Terror vs error: Finger pointing does not bode well for peace](https://www.livemint.com/opinion/online-views/terror-vs-error-finger-pointing-does-not-bode-well-for-peace-11711282734425.html)
+
+Article found but Couldn't summarize 
+ISIS claimed responsibility for the terror attack in Moscow, so why does Russia seem keen to pin it at least partly on Ukraine?
+
+Mon, 25 Mar 2024 08:00:05 +0530
+### [Has Apple become a victim of its own success?](https://www.livemint.com/opinion/online-views/has-apple-become-a-victim-of-its-own-success-11711282849947.html)
+
+Article found but Couldn't summarize 
+It once led a digital revolution but now stands accused of monopoly abuse by the US Justice Department. Has Apple’s dream of empowering ‘the rest of us’ gone against our interests?
+
 Sun, 24 Mar 2024 22:46:56 +0530
 ### [Why the arrest of Kejriwal may have big consequences](https://www.livemint.com/opinion/online-views/why-the-arrest-of-kejriwal-may-have-big-consequences-11711283051976.html)
 

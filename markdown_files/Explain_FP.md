@@ -1,3 +1,33 @@
+Mon, 25 Mar 2024 17:09:24 +0530
+### [Flying Colours! How US, Japan and other embassies celebrated Holi](https://www.firstpost.com/explainers/holi-2024-how-us-japan-other-embassies-celebrated-13752575.html)
+
+Article found but Couldn't summarize 
+US Ambassador to India, Eric Garcetti, celebrated the festival of colours with gujias, adding an American twist to the sweet pastry. Japan’s envoy was seen playing Holi with his wife. Here’s what others did
+
+Mon, 25 Mar 2024 15:02:01 +0530
+### [Moscow concert hall shooting: Why would Islamic State target Russia?](https://www.firstpost.com/explainers/moscow-concert-hall-shooting-islamic-state-target-russia-13752552.html)
+
+Article found but Couldn't summarize 
+The ISIS-K, the Islamic State's Afghan branch, has claimed responsibility for the deadly shooting at the Crocus City Hall in Moscow last week that killed and wounded hundreds. The militant group has long declared its intent to target Russia
+
+Mon, 25 Mar 2024 12:12:48 +0530
+### [Lok Sabha polls: Why Kangana Ranaut’s poll debut on BJP ticket is unsurprising](https://www.firstpost.com/explainers/lok-sabha-elections-2024-kangana-ranaut-poll-debut-bjp-candidates-list-13752520.html)
+
+Article found but Couldn't summarize 
+Kangana Ranaut is the BJP candidate from the Mandi Lok Sabha seat in Himachal Pradesh. The Bollywood actor, a self-proclaimed fan of PM Narendra Modi, has been backing the saffron party on critical issues like the Ram temple and CAA
+
+Mon, 25 Mar 2024 11:19:46 +0530
+### [What’s marriage for? Why no-fault divorce is under fire in the US](https://www.firstpost.com/explainers/us-marriage-purpose-no-fault-divorce-republicans-13751902.html)
+
+Article found but Couldn't summarize 
+Republicans are targeting no-fault divorce, arguing that not being in love alone cannot be the premise to leave your spouse. This has raised an interesting question – what is marriage for, anyway?
+
+Mon, 25 Mar 2024 09:09:01 +0530
+### [What can China do if the US bans TikTok?](https://www.firstpost.com/explainers/us-tiktok-ban-bytedance-china-13751467.html)
+
+Article found but Couldn't summarize 
+The US is one step closer to banning TikTok, the popular video-sharing app. If this happens, China could retaliate against America with trade restrictions. Beijing could also impose sanctions as it has in the past against data firms, officials and researchers
+
 Sun, 24 Mar 2024 17:00:52 +0530
 ### [Holi Hai! From Punjab's Hola Mohalla to West Bengal's Basant Utsav, the celebrations vary](https://www.firstpost.com/explainers/holi-hai-from-punjabs-hola-mohalla-to-west-bengals-basant-utsav-the-celebrations-vary-13751834.html)
 

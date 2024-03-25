@@ -1,3 +1,27 @@
+Mon, 25 Mar 2024 17:43:09 +0530
+### [Sadhguru | Why Holi is a time for a fresh start](https://www.firstpost.com/opinion/sadhguru-why-holi-is-a-time-for-a-fresh-start-13752580.html)
+
+Article found but Couldn't summarize 
+Holi means burning up all the unnecessary things in our lives. On the streets across the country, people burn Holika – an embodiment of all sorts of negativity. Burning up the things which impede the possibility of our fullness is what Holi is about
+
+Mon, 25 Mar 2024 16:01:59 +0530
+### [How EU-India FTA, IMEC are fundamental to saving Europe from Chinese dominance](https://www.firstpost.com/opinion/how-eu-india-fta-imec-are-fundamental-to-saving-europe-from-chinese-dominance-13752563.html)
+
+Article found but Couldn't summarize 
+India-Middle East-Europe Economic Corridor will reduce the time and cost of transporting goods and increase connectivity (cables and pipelines) between Europe, the Middle East, and India. It will make India the hub for supplying South and Southeast Asia, insulating them from China’s trade aggression
+
+Mon, 25 Mar 2024 13:28:23 +0530
+### [Holi: Festival of joy in an otherwise monotonous material life](https://www.firstpost.com/opinion/holi-festival-of-joy-in-an-otherwise-monotonous-material-life-13752536.html)
+
+Article found but Couldn't summarize 
+Nature continuously shows us abundant diversity and eternal unity. Let us be inspired by it
+
+Mon, 25 Mar 2024 10:02:50 +0530
+### [Nehru’s China blunder scales new heights: Decoding Vijay Gokhale’s latest book](https://www.firstpost.com/opinion/nehrus-china-blunder-scales-new-heights-decoding-vijay-gokhales-latest-book-13752484.html)
+
+Article found but Couldn't summarize 
+Britain played a sinister role in not just encouraging India to officially recognise Mao’s China in a haste, but also created a deep wedge between New Delhi and Washington DC
+
 Sun, 24 Mar 2024 18:09:35 +0530
 ### [How Nvidia’s Blackwell is a revolutionary technology](https://www.firstpost.com/opinion/how-nvidias-blackwell-is-a-revolutionary-technology-13752397.html)
 
