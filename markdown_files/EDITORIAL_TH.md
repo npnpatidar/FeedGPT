@@ -1,3 +1,15 @@
+Wed, 27 Mar 2024 00:20:00 +0530
+### [Stop the war: On the U.N. Security Council’s call for a Gaza ceasefire](https://www.thehindu.com/opinion/editorial/stop-the-war-on-the-un-security-council-call-for-a-gaza-ceasefire/article67994664.ece)
+
+Article found but Couldn't summarize 
+Israel must heed the UNSC resolution for a ceasefire
+
+Wed, 27 Mar 2024 00:10:00 +0530
+### [Open season: On Odisha politics](https://www.thehindu.com/opinion/editorial/open-season-on-odisha-politics/article67994678.ece)
+
+Article found but Couldn't summarize 
+BJP’s push for alliance with BJD was an attempt to maximise gains
+
 Tue, 26 Mar 2024 00:30:00 +0530
 ### [Sordid scheme: On the electoral bond scheme, electoral financing](https://www.thehindu.com/opinion/editorial/sordid-scheme-the-hindu-editorial-on-the-electoral-bond-scheme-electoral-financing/article67991023.ece)
 

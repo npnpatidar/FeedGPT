@@ -1,3 +1,75 @@
+Tue, 26 Mar 2024 19:56:08 +0530
+### [Baltimore bridge collapse: Are there any casualties? What caused the accident?](https://www.firstpost.com/explainers/baltimore-francis-scott-key-bridge-collapse-ship-collision-13752991.html)
+
+Article found but Couldn't summarize 
+A major bridge in Baltimore collapsed into the Patapsco River after a container ship crashed into it. Two people have been saved so far and reports say that at least 20 people could have fallen into the water
+
+Tue, 26 Mar 2024 19:53:34 +0530
+### [How Karnataka man's Rs 1 crore losses in IPL betting drove his wife to suicide](https://www.firstpost.com/explainers/karnataka-man-rs-1-crore-losses-ipl-betting-wife-suicide-13752970.html)
+
+Article found but Couldn't summarize 
+Darshan, an engineer in his late 20s, got into betting on Indian Premier League matches in 2021. When IPL ended last year, he was in a debt of over Rs 1 crore. The saga took a tragic turn when his wife died by suicide last week
+
+Tue, 26 Mar 2024 18:51:03 +0530
+### [India may replace minimum wage with living wage: What does it mean?](https://www.firstpost.com/explainers/india-minimum-wage-what-is-living-wage-ilo-13752877.html)
+
+Article found but Couldn't summarize 
+India is reportedly considering shifting from the minimum wage to the living wage by 2025. The living wage is a level of remuneration given to workers to help them afford a ‘decent standard of living’. Here’s how the two compare
+
+Tue, 26 Mar 2024 17:54:14 +0530
+### [Why is Sonam Wangchuk, who inspired ‘3 Idiots’, on a hunger strike in freezing Ladakh?](https://www.firstpost.com/explainers/sonam-wangchuk-ladakh-protest-statehood-sixth-schedule-of-constitution-climate-13752911.html)
+
+Article found but Couldn't summarize 
+Today is Day 21 of the hunger strike by Sonam Wangchuk, the engineer and education reformist who inspired Aamir Khan’s Phunsukh Wangdu in '3 Idiots'. Over the last three weeks, thousands joined the agitation in sub-zero temperatures in Ladakh. From statehood to the region’s fragile ecology, there’s a lot at stake
+
+Tue, 26 Mar 2024 16:55:13 +0530
+### [Kate’s cancer diagnosis: Are more young people being diagnosed with cancer?](https://www.firstpost.com/explainers/kate-princess-of-wales-cancer-diagnosis-young-people-cancer-cases-rise-world-13752868.html)
+
+Article found but Couldn't summarize 
+Kate, the Princess of Wales, at the age of 42 has announced that she has been diagnosed with cancer and is undergoing treatment for it. She’s not alone, as research reveals that a growing number of young people are being detected with the disease. One study showed that early-onset cancer has shot up a striking 79 per cent in the past three decades
+
+Tue, 26 Mar 2024 15:28:05 +0530
+### [Moscow concert hall shooting: How Tajikistan emerged as a key Islamic State recruitment hub](https://www.firstpost.com/explainers/moscow-concert-hall-shooting-how-tajikistan-emerged-as-a-key-islamic-state-recruitment-hub-13752761.html)
+
+Article found but Couldn't summarize 
+The four men charged with the massacre at a Moscow theatre have been identified by authorities as citizens of Tajikistan, some of the thousands who migrate to Russia each year from the poorest of the former Soviet republics to scrape out marginal existences
+
+Tue, 26 Mar 2024 14:30:30 +0530
+### [Kerala CM says a Muslim coined ‘Bharat Mata Ki Jai’ slogan: Who was Azimullah Khan?](https://www.firstpost.com/explainers/kerala-cm-pinarayi-vijayan-muslim-coined-bharat-mata-ki-jai-slogan-azimullah-khan-1857-revolt-13752808.html)
+
+Article found but Couldn't summarize 
+Kerala CM Pinarayi Vijayan asked at a rally against the CAA whether Sangh Parivar would abandon ‘Bharat Mata Ki Jai’ as Azimullah Khan, a Muslim, first used the slogan. Khan, a close aide of Marathi leader Nana Saheb, was a strategist in the Revolt of 1857
+
+Tue, 26 Mar 2024 13:39:11 +0530
+### [How Donald Trump’s net worth has risen to $6.5 billion, making him one of the world's richest people](https://www.firstpost.com/explainers/donald-trump-net-worth-billions-richest-people-trump-media-and-technology-truth-social-13752787.html)
+
+Article found but Couldn't summarize 
+Donald Trump is now on the list of Bloomberg billionaires after his net worth rose by $4 billion (Rs 33,339 crore). This windfall came after the former US president’s social media company known as Trump Media & Technology Group completed a merger with a company known as DWAC. Moreover, a court lowered his bond payment in a New York civil fraud lawsuit
+
+Tue, 26 Mar 2024 12:28:48 +0530
+### [Will Japan export lethal arms soon? Why is this decision controversial?](https://www.firstpost.com/explainers/japan-export-lethal-arms-changes-controversial-13752714.html)
+
+Article found but Couldn't summarize 
+Japan’s Cabinet has approved a plan to sell future next-generation fighter jets that it’s developing with Britain and Italy to other countries on Tuesday. Why is Japan changing its stance on arms exports?
+
+Tue, 26 Mar 2024 11:45:55 +0530
+### [The political row over derogatory comments against Kangana Ranaut: Who said what?](https://www.firstpost.com/explainers/kangana-ranaut-supriya-shrinate-comments-controversy-bjp-congress-himachal-pradesh-mandi-13752712.html)
+
+Article found but Couldn't summarize 
+Days after Kangana Ranaut was handed the BJP ticket from Himachal Pradesh’s Mandi, she finds herself battling sexism. Derogatory remarks purportedly by Congress’ social media head Supriya Shrinate have triggered a row with the BJP demanding her sacking
+
+Tue, 26 Mar 2024 10:24:25 +0530
+### [The men behind the Moscow concert hall attack that killed at least 137 people](https://www.firstpost.com/explainers/moscow-concert-hall-attack-arrested-four-suspects-13752674.html)
+
+Article found but Couldn't summarize 
+Russia has arrested four suspected gunmen for their involvement in the concert shooting at the Crocus City concert hall near Moscow. They have been identified by media as citizens of Tajikistan. All of them have been charged with terrorism and could face life imprisonment
+
+Tue, 26 Mar 2024 09:59:20 +0530
+### [Is UN Security Council’s Gaza ceasefire resolution enforceable?](https://www.firstpost.com/explainers/un-security-council-gaza-ceasefire-resolution-enforceable-law-meaning-israel-hamas-war-13752663.html)
+
+Article found but Couldn't summarize 
+The United Nations Security Council voted 14-0 in favour of a resolution demanding a ceasefire in Gaza for the rest of Ramzan after the United States abstained from the vote. While other countries welcomed the decision, Israel has expressed its anger, saying ‘it is not morally obligated to end the war’. What does this mean for the ongoing conflict?
+
 Tue, 26 Mar 2024 05:00:30 +0530
 ### [FirstUp: AAP to ‘gherao’ PM Modi’s home, US SC hearing on abortion pills … News today](https://www.firstpost.com/explainers/firstup-aap-gherao-pm-narendra-modis-home-us-sc-hearing-on-abortion-pills-news-today-13752583.html)
 

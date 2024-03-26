@@ -1,3 +1,13 @@
+Tue, 26 Mar 2024 10:03:33 +0000
+### [C Raja Mohan writes | From strategic autonomy to Vishwamitra: New Delhi’s new vocabulary](https://indianexpress.com/article/opinion/columns/strategic-autonomy-vishwamitra-new-delhi-vocabulary-9234270/)
+
+Article found but Couldn't summarize
+
+Tue, 26 Mar 2024 09:15:50 +0000
+### [Why the Indian public does not seem to care about Arvind Kejriwal’s arrest](https://indianexpress.com/article/opinion/columns/indian-public-does-not-care-about-arvind-kejriwal-arrest-9234201/)
+
+Article found but Couldn't summarize
+
 Mon, 25 Mar 2024 09:16:23 +0000
 ### [If democracy is to survive the age of AI, it must be updated](https://indianexpress.com/article/opinion/columns/india-democracy-ai-update-governance-9232961/)
 

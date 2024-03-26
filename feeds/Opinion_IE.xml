@@ -5,6 +5,24 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Opinion_IE.xml</link>
 		<description>Opinion IE</description>
 		<item>
+			<title>C Raja Mohan writes | From strategic autonomy to Vishwamitra: New Delhi’s new vocabulary</title>
+			<link>https://indianexpress.com/article/opinion/columns/strategic-autonomy-vishwamitra-new-delhi-vocabulary-9234270/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Tue, 26 Mar 2024 10:03:33 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/03/jaishankar-1600-1.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/03/jaishankar-1600-1.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Why the Indian public does not seem to care about Arvind Kejriwal’s arrest</title>
+			<link>https://indianexpress.com/article/opinion/columns/indian-public-does-not-care-about-arvind-kejriwal-arrest-9234201/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Tue, 26 Mar 2024 09:15:50 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/03/arvind-kejriwal-arrest-5.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/03/arvind-kejriwal-arrest-5.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>If democracy is to survive the age of AI, it must be updated</title>
 			<link>https://indianexpress.com/article/opinion/columns/india-democracy-ai-update-governance-9232961/</link>
 			<description>Article found but Couldn't summarize</description>

@@ -1,3 +1,39 @@
+Tue, 26 Mar 2024 23:01:14 +0530
+### [Food and fertilizer subsidies should be climate-adapted and aimed better](https://www.livemint.com/opinion/online-views/food-and-fertilizer-subsidies-should-be-climate-adapted-and-aimed-better-11711465140279.html)
+
+Article found but Couldn't summarize 
+Retain the budget outlay on these subsidies but redirect them towards organic fertilizers and millets. That will favour the planet and our people.
+
+Tue, 26 Mar 2024 22:57:10 +0530
+### [Ten reasons why Piketty’s paper goes wrong on Indian inequality](https://www.livemint.com/opinion/online-views/ten-reasons-why-piketty-s-paper-goes-wrong-on-indian-inequality-11711461285947.html)
+
+Article found but Couldn't summarize 
+His latest paper with three co-authors falls short on the data-driven rigour needed to make claims of increasing inequality.
+
+Tue, 26 Mar 2024 22:53:36 +0530
+### [China’s clean-tech success isn’t entirely because of statist policy](https://www.livemint.com/opinion/online-views/chinas-clean-tech-success-isn-t-entirely-because-of-statist-policy-11711461441751.html)
+
+Article found but Couldn't summarize 
+It’s not a story of easy money and state subsidies as much as a tale of capitalism working well to direct resources. Unlike real estate, clean-tech in China isn’t overleveraged.
+
+Tue, 26 Mar 2024 22:52:28 +0530
+### [Arguments against deploying DPI don’t really hold up](https://www.livemint.com/opinion/online-views/arguments-against-deploying-dpi-don-t-really-hold-up-11711461364073.html)
+
+Article found but Couldn't summarize 
+Critics have opposed it on semantic and techo-solutionist grounds but the idea is modular by design, with democratic principles embedded in the stack’s foundational layers. It’s better than its alternatives.
+
+Tue, 26 Mar 2024 10:16:01 +0530
+### [How increasing M&amp;A activity is boosting India's healthcare](https://www.livemint.com/opinion/online-views/how-increasing-m-a-activity-is-boosting-indias-healthcare-11711092661424.html)
+
+Article found but Couldn't summarize 
+With increased spending on private and public healthcare, India is emerging as the preferred choice and leader for M&amp;amp;A activity in the Asia Pacific region
+
+Tue, 26 Mar 2024 08:47:03 +0530
+### [Global value chains the missing link in India’s growth story](https://www.livemint.com/opinion/first-person/global-value-chains-the-missing-link-in-india-s-growth-story-11711030999627.html)
+
+Article found but Couldn't summarize 
+The world’s fastest growing economy India contributes only about 2% to global merchandise exports. This is because the full potential of India’s manufacturing sector still remains untapped.
+
 Mon, 25 Mar 2024 08:00:05 +0530
 ### [The West’s disregard for global norms is endangering the world](https://www.livemint.com/opinion/online-views/the-west-s-disregard-for-global-norms-is-endangering-the-world-11711282971839.html)
 

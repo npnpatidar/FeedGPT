@@ -1,3 +1,15 @@
+Tue, 26 Mar 2024 22:41:50 +0530
+### [The need to curb black carbon emissions | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/the-need-to-curb-black-carbon-emissions-explained/article67995735.ece)
+
+Article found but Couldn't summarize 
+What is black carbon and why is it harmful for the environment? Which sector in India is the biggest contributor of black carbon? How has the Pradhan Mantri Ujjwala Yojana helped in reducing the use of traditional cooking fuels?
+
+Tue, 26 Mar 2024 08:30:00 +0530
+### [What is the district election management plan? | Explained](https://www.thehindu.com/news/national/what-is-the-district-election-management-plan-explained/article67992065.ece)
+
+Article found but Couldn't summarize 
+What goes into a smooth and efficient electoral process? How are electoral booths prepared before polling?
+
 Tue, 26 Mar 2024 05:30:00 +0530
 ### [Why do so many contemporary vaccines have low durability? | Explained](https://www.thehindu.com/sci-tech/science/why-do-so-many-contemporary-vaccines-have-low-durability-explained/article67990455.ece)
 
