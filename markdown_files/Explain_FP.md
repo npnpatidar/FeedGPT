@@ -1,3 +1,9 @@
+Tue, 26 Mar 2024 05:00:30 +0530
+### [FirstUp: AAP to ‘gherao’ PM Modi’s home, US SC hearing on abortion pills … News today](https://www.firstpost.com/explainers/firstup-aap-gherao-pm-narendra-modis-home-us-sc-hearing-on-abortion-pills-news-today-13752583.html)
+
+Article found but Couldn't summarize 
+The AAP plans to ‘gherao’ PM Narendra Modi’s residence to protest against the arrest of their leader and Delhi CM Arvind Kejriwal. The US Supreme Court will hear an important case on the availability of abortion pills which will have wide implications. Here’s what else is likely to unfold during the day
+
 Mon, 25 Mar 2024 17:09:24 +0530
 ### [Flying Colours! How US, Japan and other embassies celebrated Holi](https://www.firstpost.com/explainers/holi-2024-how-us-japan-other-embassies-celebrated-13752575.html)
 

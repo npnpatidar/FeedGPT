@@ -1,3 +1,9 @@
+Tue, 26 Mar 2024 05:30:00 +0530
+### [Why do so many contemporary vaccines have low durability? | Explained](https://www.thehindu.com/sci-tech/science/why-do-so-many-contemporary-vaccines-have-low-durability-explained/article67990455.ece)
+
+Article found but Couldn't summarize 
+Barring a very few, most new-generation vaccines have a short duration of protection
+
 Mon, 25 Mar 2024 22:40:14 +0530
 ### [On campaigning in the name of religion | Explained](https://www.thehindu.com/news/national/on-campaigning-in-the-name-of-religion-explained/article67992053.ece)
 
