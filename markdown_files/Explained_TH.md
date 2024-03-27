@@ -1,3 +1,9 @@
+Wed, 27 Mar 2024 23:10:23 +0530
+### [On sustainable building materials | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/on-sustainable-building-materials-explained/article67999691.ece)
+
+Article found but Couldn't summarize 
+Why is addressing energy inefficiency in residential buildings important? What is Residential Envelope Transmittance Value? Why are Autoclaved Aerated Concrete (AAC) blocks the optimal building material with respect to embodied energy and construction time?
+
 Wed, 27 Mar 2024 05:30:00 +0530
 ### [How subpar treatment options allow sickle cell disease to persist | Explained](https://www.thehindu.com/sci-tech/science/sickle-cell-disease-crispr-hydroxyurea-healthcare-amenities/article67994033.ece)
 

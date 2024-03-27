@@ -1,3 +1,87 @@
+Wed, 27 Mar 2024 20:37:40 +0530
+### [Over 78 crore people face chronic hunger. Here’s how much food the world is still wasting](https://www.firstpost.com/explainers/un-report-78-crore-people-chronic-hunger-food-waste-climate-change-13753414.html)
+
+Article found but Couldn't summarize 
+A new UN report revealed that over one billion (100 crore) meals were wasted every day across the world in 2022. The findings gain significance as it comes at a time when 783 million (78.3 crore) people go hungry globally
+
+Wed, 27 Mar 2024 20:06:00 +0530
+### [‘Ozempic babies’ are on the rise: Are these weight-loss drugs boosting fertility?](https://www.firstpost.com/explainers/ozempic-babies-weight-loss-drugs-fertility-women-pregnancies-13753315.html)
+
+Article found but Couldn't summarize 
+Ozempic and Wegovy have been found to have an unexpected side-effect: surprise pregnancies. Women have taken to social media to laud how using these weight-loss drugs has boosted their fertility, despite having issues such as PCOS or taking birth control pills. But is it really safe to do so?
+
+Wed, 27 Mar 2024 18:49:00 +0530
+### [Why has India’s aviation regulator put new rules on pilots’ rest, duty time on hold?](https://www.firstpost.com/explainers/dgca-new-rules-pilot-rest-put-on-hold-13753300.html)
+
+Article found but Couldn't summarize 
+New guidelines on pilot rest and duty periods have been suspended by DGCA. The new rules provided enhanced weekly rest for pilots from 26 hours to 48 hours. Under the present guidelines, a pilot can now make six landings during night flights. These would drop to two under the new regulations put on hold
+
+Wed, 27 Mar 2024 17:43:20 +0530
+### [How Arvind Kejriwal’s wife Sunita is stepping up amid his absence](https://www.firstpost.com/explainers/arvind-kejriwal-wife-sunita-kejriwal-delhi-cm-excise-policy-case-aap-13753377.html)
+
+Article found but Couldn't summarize 
+Sunita Kejriwal has maintained a low profile since the inception of AAP more than a decade ago. But recently, after her husband's arrest, she has stepped into the limelight, relaying Arvind Kejriwal's message to his supporters. The BJP has claimed she is ‘in the race’ to succeed the Delhi chief minister
+
+Wed, 27 Mar 2024 16:12:33 +0530
+### [How Baltimore bridge collapse has spawned various conspiracy theories](https://www.firstpost.com/explainers/how-baltimore-bridge-collapse-has-spawned-various-conspiracy-theories-13753111.html)
+
+Article found but Couldn't summarize 
+Various theories have emerged attributing blame for the collapse of Baltimore's Francis Scott Key Bridge, which was struck by a container ship, ranging from criticisms of the Biden administration and COVID lockdowns to references to World War and Israeli intervention. Here’s a closer look
+
+Wed, 27 Mar 2024 15:31:28 +0530
+### [Saudi Arabia’s Miss Universe debut: Have women’s lives changed for the better in the kingdom?](https://www.firstpost.com/explainers/saudi-arabia-miss-universe-debut-rumy-alqahtani-women-rights-in-kingdom-13753281.html)
+
+Article found but Couldn't summarize 
+In a historic first, Saudi Arabia will enter the Miss Universe pageant this year, with model Rumy Alqahtani being its candidate. The conservative kingdom has given more rights to its women in recent years, including lifting the ban on driving. But are they enough?
+
+Wed, 27 Mar 2024 14:41:33 +0530
+### [Who is Pavan Davuluri, the Indian-origin executive to lead Microsoft Windows and Surface teams?](https://www.firstpost.com/explainers/iit-alumni-pavan-davuluri-microsoft-windows-surface-teams-13753201.html)
+
+Article found but Couldn't summarize 
+Microsoft has named IIT Madras alumnus Pavan Davuluri to spearhead development on both – Windows and Surface teams, making him the most recent Indian to assume a senior position at a major tech firm. He has been associated with the tech giant for over 23 years and has been credited for efforts to optimise Windows for Arm-based devices
+
+Wed, 27 Mar 2024 13:34:39 +0530
+### [Kate conspiracy theories: Are Russia and China spreading wild rumours?](https://www.firstpost.com/explainers/kate-conspiracy-theories-cancer-annoucement-russia-china-rumours-13753230.html)
+
+Article found but Couldn't summarize 
+Despite Kate, the Princess of Wales, making her cancer diagnosis public, conspiracy theories surrounding her have not stopped. The UK government is concerned that rogue actors with links to Russia or China could be behind the rumour mills. But what do they gain?
+
+Wed, 27 Mar 2024 12:37:40 +0530
+### [Explained: The row over Raghav Chadha’s meet with pro-Khalistan British MP Preet Kaur Gill](https://www.firstpost.com/explainers/aap-raghav-chadha-meet-pro-khalistan-british-mp-preet-kaur-gill-london-13753199.html)
+
+Article found but Couldn't summarize 
+AAP’s Raghav Chadha is involved in controversy over his ‘meeting’ with British MP Preet Kaur Gill. The Labour Party’s leader has advocated for Khalistan in the past, drawing scrutiny from India
+
+Wed, 27 Mar 2024 12:00:08 +0530
+### [Baltimore bridge collapse: All about Dali, the cargo ship that brought down the Francis Scott Key Bridge](https://www.firstpost.com/explainers/baltimore-bridge-collapse-dali-cargo-ship-francis-scott-key-bridge-13753093.html)
+
+Article found but Couldn't summarize 
+Cargo ship Dali lost power and rammed into Baltimore's iconic Francis Scott Key bridge on Tuesday. The vessel belongs to Singapore-based Grace Ocean Pvt Ltd and was carrying containers for the Danish shipping giant Maersk. It was also involved in an accident in the port of Antwerp, Belgium, in 2016
+
+Wed, 27 Mar 2024 11:36:07 +0530
+### [Robert F Kennedy Jr chooses Nicole Shanahan as running mate: Who is she?](https://www.firstpost.com/explainers/robert-f-kennedy-jr-nicole-shanahan-running-mate-white-house-bid-us-presidential-elections-13753154.html)
+
+Article found but Couldn't summarize 
+Nicole Shanahan, Robert F Kennedy Jr 's pick to be his running mate in his independent bid for US president, brings youth and considerable wealth to Kennedy’s long-shot campaign but is little known outside Silicon Valley
+
+Wed, 27 Mar 2024 10:06:39 +0530
+### [Baltimore bridge collapse: How the ship's Indian crew helped avert a bigger disaster](https://www.firstpost.com/explainers/baltimore-bridge-collapse-francis-scott-key-bridge-dali-ship-indian-crew-disaster-13753109.html)
+
+Article found but Couldn't summarize 
+On Tuesday, a cargo ship, identified as the Dali, crashed into the Francis Scott Key Bridge in Baltimore, US, causing it to collapse like a pack of cards. Six people are presumably dead following the tragedy. However, if it wasn’t for the Indian crew on board the vessel, who issued a mayday, alerting transport officials, more lives could have been lost
+
+Wed, 27 Mar 2024 08:47:31 +0530
+### [Explained: The long list of US bridge collapses caused by ships and barges](https://www.firstpost.com/explainers/francis-scott-key-bridge-long-list-of-us-bridge-collapses-caused-by-ships-and-barges-13753079.html)
+
+Article found but Couldn't summarize 
+The iconic Francis Scott Key Bridge in Baltimore collapsed into the Patapsco River on Tuesday, one of several notable disasters in the United States involving ships or barges colliding with bridges. From 1960 to 2015, there were 18 major bridge collapses that took place in the country
+
+Wed, 27 Mar 2024 08:35:04 +0530
+### [What Bassirou Diomaye Faye, Senegal's new president, aims to change in the country](https://www.firstpost.com/explainers/bassirou-diomaye-faye-senegal-new-president-changes-13752923.html)
+
+Article found but Couldn't summarize 
+Bassirou Diomaye Faye, 44, is all set to become Senegal's fifth and youngest president after main rival Amadou Ba conceded defeat following Sunday's first round vote. Here’s what does he proposes to do once he takes office
+
 Wed, 27 Mar 2024 05:00:29 +0530
 ### [FirstUp: Delhi High Court to hear Kejriwal’s plea against arrest & more... The news today](https://www.firstpost.com/explainers/firstup-delhi-high-court-to-hear-kejriwals-plea-against-arrest-more-the-news-today-13752964.html)
 

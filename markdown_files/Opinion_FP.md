@@ -1,3 +1,27 @@
+Wed, 27 Mar 2024 18:36:35 +0530
+### [Moscow Concert Hall attack: ISIS-K's provocation, Putin's response and the global fight against terrorism](https://www.firstpost.com/opinion/moscow-concert-hall-attack-isis-ks-provocation-putins-response-and-the-global-fight-against-terrorism-13753365.html)
+
+Article found but Couldn't summarize 
+With the Moscow attack, the terrorist group seems to be expanding its geographical scope
+
+Wed, 27 Mar 2024 15:33:13 +0530
+### [World Happiness Report: A tale of inaccuracies, delusions, and assumptions](https://www.firstpost.com/opinion/world-happiness-report-a-tale-of-inaccuracies-delusions-and-assumptions-13753295.html)
+
+Article found but Couldn't summarize 
+As happiness surveys often rely on self-reported data, they may be influenced by cultural factors, personal biases, and momentary emotions. This makes them highly subjective for any assessment
+
+Wed, 27 Mar 2024 13:50:45 +0530
+### [Japan is in rare political conundrum as ruling party is rocked by financial scandals](https://www.firstpost.com/opinion/japan-is-in-rare-political-conundrum-as-ruling-party-is-rocked-by-financial-scandals-13753260.html)
+
+Article found but Couldn't summarize 
+Tokyo is at a strange crossroads. The Kishida government is struggling to maintain popularity, while opposition parties are making efforts but are unable to break through in any significant manner
+
+Wed, 27 Mar 2024 10:21:59 +0530
+### [Putin’s fifth term as Russian president: Continuity with control](https://www.firstpost.com/opinion/putins-fifth-term-as-russian-president-continuity-with-control-13753087.html)
+
+Article found but Couldn't summarize 
+Russian President Vladimir Putin's leadership is seen as a defiance against NATO's encroachment and the destabilising efforts of Western powers. This support is often framed within the context of the strategic challenges faced by Moscow
+
 Tue, 26 Mar 2024 17:47:09 +0530
 ### [Democratic Taiwan: An ideological and political challenge for China](https://www.firstpost.com/opinion/democratic-taiwan-an-ideological-and-political-challenge-for-china-13752934.html)
 

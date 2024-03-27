@@ -1,3 +1,15 @@
+Thu, 28 Mar 2024 00:20:00 +0530
+### [Timely restatement: On pre-trial injunctions against the media and Court order](https://www.thehindu.com/opinion/editorial/timely-restatement-on-pre-trial-injunctions-against-the-media-and-court-order/article67998564.ece)
+
+Article found but Couldn't summarize 
+Supreme Court makes a case against pre-trial restraint on journalistic content
+
+Thu, 28 Mar 2024 00:10:00 +0530
+### [Toxic words: On the discourse in politics and women politicians](https://www.thehindu.com/opinion/editorial/toxic-words-on-the-discourse-in-politics-and-women-politicians/article67998361.ece)
+
+Article found but Couldn't summarize 
+Women should bring down barriers to their own advancement
+
 Wed, 27 Mar 2024 00:20:00 +0530
 ### [Stop the war: On the U.N. Security Council’s call for a Gaza ceasefire](https://www.thehindu.com/opinion/editorial/stop-the-war-on-the-un-security-council-call-for-a-gaza-ceasefire/article67994664.ece)
 

@@ -1,3 +1,51 @@
+Wed, 27 Mar 2024 22:45:43 +0530
+### [Transparency in poll funding could lead to a national clean-up](https://www.livemint.com/opinion/online-views/transparency-in-poll-funding-could-lead-to-a-national-cleanup-11711552801220.html)
+
+Article found but Couldn't summarize 
+Let’s aim for transparent funding trails and reduced influence of money on poll outcomes.
+
+Wed, 27 Mar 2024 22:43:46 +0530
+### [We must not let poverty of thought stop India from tracking deprivation](https://www.livemint.com/opinion/online-views/we-must-not-let-poverty-of-thought-stop-india-from-tracking-deprivation-11711542595629.html)
+
+Article found but Couldn't summarize 
+So long as we can define a cut-off for poverty, we can measure it, and its validity does not require data trackers to be kept frozen.
+
+Wed, 27 Mar 2024 22:39:24 +0530
+### [March Madness: America’s sports gambling boom is a worry](https://www.livemint.com/opinion/online-views/march-madness-america-s-sports-gambling-boom-is-a-worry-11711542654217.html)
+
+Article found but Couldn't summarize 
+Oddly, it’s easier to bet on a sports game than a stock in America. Tech enablers have whet the US appetite for irrational risk-taking.
+
+Wed, 27 Mar 2024 22:38:18 +0530
+### [AI-augmented web search is at our fingertips already](https://www.livemint.com/opinion/online-views/aiaugmented-web-search-is-at-our-fingertips-already-11711542823331.html)
+
+Article found but Couldn't summarize 
+Don’t just search, but seek. Despite the apparent lead taken by some AI search tools, this is a race that’s still wide open.
+
+Wed, 27 Mar 2024 09:00:01 +0530
+### [Vedanta’s wriggle room narrows as creditors fret over demerger](https://www.livemint.com/opinion/vedantas-wriggle-room-narrows-as-creditors-fret-over-demerger-11711448315527.html)
+
+Article found but Couldn't summarize 
+A decade ago, Anil Agarwal had merged all his businesses into Vedanta with plans to take it private. The argument for the merger then was exactly the same as it is for the demerger now: unlocking value
+
+Wed, 27 Mar 2024 08:00:18 +0530
+### [End the Gaza war](https://www.livemint.com/opinion/quick-edit/end-the-gaza-war-11711467283078.html)
+
+Article found but Couldn't summarize 
+On Monday, the UN Security Council passed a resolution calling for an immediate ceasefire, the instant and unconditional release of hostages, and expanded flow of aid. The US abstained, letting the vote go through, but Israel may be correctly betting it won’t enforce the UN’s will.
+
+Wed, 27 Mar 2024 08:00:18 +0530
+### [India needs EV success even if it increases exposure to Chinese value chains](https://www.livemint.com/opinion/online-views/india-needs-ev-success-even-if-it-increases-exposure-to-chinese-value-chains-11711464962135.html)
+
+Article found but Couldn't summarize 
+Greater reliance on Chinese input suppliers might be inescapable, but then the prospect of India emerging as an EV-making hub would outweigh the potential downside of that.
+
+Wed, 27 Mar 2024 08:00:18 +0530
+### [Financial regulation in India is far better than it gets credit for](https://www.livemint.com/opinion/online-views/financial-regulation-in-india-is-far-better-than-it-gets-credit-for-11711465028380.html)
+
+Article found but Couldn't summarize 
+Ensuring the system holds up under market stress is better than moderating investor risk appetites.
+
 Tue, 26 Mar 2024 23:01:14 +0530
 ### [Food and fertilizer subsidies should be climate-adapted and aimed better](https://www.livemint.com/opinion/online-views/food-and-fertilizer-subsidies-should-be-climate-adapted-and-aimed-better-11711465140279.html)
 
@@ -6,6 +54,12 @@ Retain the budget outlay on these subsidies but redirect them towards organic fe
 
 Tue, 26 Mar 2024 22:57:10 +0530
 ### [Ten reasons why Piketty’s paper goes wrong on Indian inequality](https://www.livemint.com/opinion/online-views/ten-reasons-why-piketty-s-paper-goes-wrong-on-indian-inequality-11711461285947.html)
+
+Article found but Couldn't summarize 
+His latest paper with three co-authors falls short on the data-driven rigour needed to make claims of increasing inequality.
+
+Tue, 26 Mar 2024 22:57:10 +0530
+### [Ten reasons why Piketty’s paper gets it wrong on inequality in India](https://www.livemint.com/opinion/online-views/ten-reasons-why-piketty-s-paper-gets-it-wrong-on-inequality-in-india-11711461285947.html)
 
 Article found but Couldn't summarize 
 His latest paper with three co-authors falls short on the data-driven rigour needed to make claims of increasing inequality.

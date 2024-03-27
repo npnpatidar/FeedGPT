@@ -1,3 +1,9 @@
+Wed, 27 Mar 2024 00:30:00 +0530
+### [Kohli and Rohit know the formula to earn one final hurrah](https://www.thehindu.com/opinion/columns/kohli-and-rohit-both-know-the-formula-to-earn-one-final-hurrah/article67994516.ece)
+
+Article found but Couldn't summarize 
+Ahead of the T20 World Cup, the progress made by India’s two best batters will be followed even more keenly as the IPL unfolds
+
 Wed, 13 Mar 2024 00:30:00 +0530
 ### [A mature Kuldeep Yadav was the quiet success of the India-England Test series](https://www.thehindu.com/opinion/columns/a-mature-kuldeep-yadav-has-been-the-quiet-success-of-the-series/article67944430.ece)
 
