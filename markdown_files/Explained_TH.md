@@ -1,3 +1,9 @@
+Wed, 27 Mar 2024 05:30:00 +0530
+### [How subpar treatment options allow sickle cell disease to persist | Explained](https://www.thehindu.com/sci-tech/science/sickle-cell-disease-crispr-hydroxyurea-healthcare-amenities/article67994033.ece)
+
+Article found but Couldn't summarize 
+Genetic therapies have created a lot of hope for treating SCD, yet they require the same amenities still out of reach of those most affected by the disease
+
 Tue, 26 Mar 2024 22:41:50 +0530
 ### [The need to curb black carbon emissions | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/the-need-to-curb-black-carbon-emissions-explained/article67995735.ece)
 

@@ -4929,3 +4929,10 @@ Started at 2024-03-26 23:09:15
 Finished at 2024-03-26 23:09:39
 Total time taken: 23.85819125175476 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-03-27 00:36:05
+1 Feed entries have been written to feeds/Explain_FP.xml
+1 Feed entries have been written to feeds/Explained_TH.xml
+2 new entries have been added
+Finished at 2024-03-27 00:36:17
+Total time taken: 11.995305299758911 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

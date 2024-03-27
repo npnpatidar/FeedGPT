@@ -1,3 +1,9 @@
+Wed, 27 Mar 2024 05:00:29 +0530
+### [FirstUp: Delhi High Court to hear Kejriwal’s plea against arrest & more... The news today](https://www.firstpost.com/explainers/firstup-delhi-high-court-to-hear-kejriwals-plea-against-arrest-more-the-news-today-13752964.html)
+
+Article found but Couldn't summarize 
+There’s much waiting to happen today as the Delhi High Court will hear a petition by Chief Minister Arvind Kejriwal, challenging his arrest by the Enforcement Directorate in the liquor policy case. The Indian Navy will also hold an exercise with the US along the Kakinada coast
+
 Tue, 26 Mar 2024 19:56:08 +0530
 ### [Baltimore bridge collapse: Are there any casualties? What caused the accident?](https://www.firstpost.com/explainers/baltimore-francis-scott-key-bridge-collapse-ship-collision-13752991.html)
 
