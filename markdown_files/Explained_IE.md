@@ -1,3 +1,8 @@
+Wed, 27 Mar 2024 20:52:43 +0000
+### [Sanjiv Bhatt guilty in 1996 drug case: What happened](https://indianexpress.com/article/explained/sanjiv-bhatt-guilty-in-1996-drug-case-what-happened-9237103/)
+
+Article found but Couldn't summarize
+
 Wed, 27 Mar 2024 14:10:19 +0000
 ### [Why Supreme Court allowed Bloomberg’s article against ZEE to remain online](https://indianexpress.com/article/explained/explained-law/supreme-court-bloomberg-article-zee-slapp-9236658/)
 

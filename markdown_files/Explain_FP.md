@@ -1,3 +1,9 @@
+Thu, 28 Mar 2024 05:00:55 +0530
+### [FirstUp: Kejriwal’s ‘big exposé’, Poland-Ukraine's talk in Warsaw... Top news today](https://www.firstpost.com/explainers/firstup-arvind-kejriwal-delhi-excise-policy-scam-poland-ukraine-talk-warsaw-13753383.html)
+
+Article found but Couldn't summarize 
+Delhi CM Arvind Kejriwal is expected to make a ‘big exposé’ on the alleged excise policy scam in court. TMC leader Mahua Moitra is likely to appear before the ED in a FEMA violation case. On the international front, the Polish and Ukrainian governments will meet in Warsaw to defuse protests by farmers
+
 Wed, 27 Mar 2024 20:37:40 +0530
 ### [Over 78 crore people face chronic hunger. Here’s how much food the world is still wasting](https://www.firstpost.com/explainers/un-report-78-crore-people-chronic-hunger-food-waste-climate-change-13753414.html)
 
