@@ -44,7 +44,7 @@ def summarise(article_text):
     for _ in range(max_attempts):
         try:
             response = g4f.ChatCompletion.create(
-                model="gemini-pro",
+                model="gpt-4-turbo",
                 messages=conversation,
                 max_tokens=1000,
                 stream=False,
