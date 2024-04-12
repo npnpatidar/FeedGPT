@@ -10,6 +10,9 @@ from datetime import datetime
 import time
 import xmltodict
 import lxml
+import random
+from g4f.client import Client
+from g4f.Provider import RetryProvider, Bing , ChatgptAi , Liaobots , OpenaiChat , Raycast , Theb , You , AItianhuSpace , ChatForAi , Chatgpt4Online , ChatgptNext , ChatgptX , FlowGpt , FreeGpt , GptTalkRu , Koala , MyShell , PerplexityAi , Poe , TalkAi , Vercel , AItianhu , Bestim , ChatBase , ChatgptDemo , ChatgptDemoAi , ChatgptFree , ChatgptLogin , Chatxyz , Gpt6 , GptChatly , GptForLove , GptGo , GptGod , OnlineGpt , Aura , Bard , DeepInfra , FreeChatgpt , Gemini , GeminiPro , GeminiProChat , HuggingChat , HuggingFace , Llama2 , PerplexityLabs , Pi , ThebApi , OpenAssistant
 
 
 def fetch_article_text(url):
@@ -29,21 +32,38 @@ def fetch_article_text(url):
         return None
 
 def summarise(article_text):
-    model_array = [  "gpt-3.5-turbo" , "gpt-4" , "gpt-4-turbo" , "Llama-2-7b-chat-hf" , "Llama-2-13b-chat-hf" , "Llama-2-70b-chat-hf" , "CodeLlama-34b-Instruct-hf" , "CodeLlama-70b-Instruct-hf" , "Mixtral-8x7B-Instruct-v0.1" , "Mistral-7B-Instruct-v0.1" , "dolphin-2.6-mixtral-8x7b" , "lzlv_70b_fp16_hf" , "airoboros-70b" , "airoboros-l2-70b-gpt4-1.4.1" , "openchat_3.5" , "gemini" , "gemini-pro" , "claude-v2" , "claude-3-opus" , "claude-3-sonnet" , "pi"]
+
     summary = ""
     
     # Define your conversation with the model
     conversation = [
         {
-            "role": "system",
-            "content": "You are a helpful assistant that summarizes articles. Now summarize this article:" + article_text
+            "role": "user",
+            "content": "Summarise this article in around 100 to 120 words. There can be an adverstisement or unrelated content in between. Don't include that in the summary and no need to mention that it has been omitted.  \n\n" + article_text
         },
     ]
 
+    provider = [Bing , ChatgptAi  , OpenaiChat , Raycast , Theb , You , AItianhuSpace , ChatForAi , Chatgpt4Online , ChatgptNext , ChatgptX  , FreeGpt , GptTalkRu , Koala , MyShell , PerplexityAi , Poe , TalkAi , Vercel , AItianhu , Bestim , ChatBase , ChatgptDemo , ChatgptDemoAi , ChatgptFree , ChatgptLogin , Chatxyz , Gpt6 , GptChatly , GptForLove , GptGo , GptGod , OnlineGpt , Aura , Bard , DeepInfra , FreeChatgpt , Gemini , GeminiPro , GeminiProChat , HuggingChat , HuggingFace , Llama2 , PerplexityLabs , Pi , ThebApi , OpenAssistant, Liaobots, FlowGpt]
+    client = Client(provider=RetryProvider(provider, shuffle=False))
+    response = client.chat.completions.create(
+        model="",
+        messages=conversation,
+    )
+    summary =str( response.choices[0].message.content)
+    words = summary.split()
+    if len(words) > 80:
+        return summary
+    else:
+        summary = ""
+
+
+    model_array = [  "gpt-4", "gpt-3.5-turbo" ,   "gpt-4-turbo" , "Llama-2-7b-chat-hf" , "Llama-2-13b-chat-hf" , "Llama-2-70b-chat-hf" , "CodeLlama-34b-Instruct-hf" , "CodeLlama-70b-Instruct-hf" , "Mixtral-8x7B-Instruct-v0.1" , "Mistral-7B-Instruct-v0.1" , "dolphin-2.6-mixtral-8x7b" , "lzlv_70b_fp16_hf" , "airoboros-70b" , "airoboros-l2-70b-gpt4-1.4.1" , "openchat_3.5" , "gemini" , "gemini-pro" , "claude-v2" , "claude-3-opus" , "claude-3-sonnet" , "pi"]
+
     for model in model_array:
+        print(f"Summarizing using model {model}")
         try:
             response = g4f.ChatCompletion.create(
-                model=model,
+                model="",
                 messages=conversation,
                 max_tokens=1000,
                 stream=False,
@@ -309,6 +329,7 @@ def fetch_and_write_feed_to_markdown_using_json(feed):
             else:
                 ai_summary = "True"
                 summary = got_summary
+                print(summary)
 
         item_data = {
             "title": title,
