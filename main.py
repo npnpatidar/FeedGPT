@@ -84,7 +84,9 @@ def get_feeds():
         os.makedirs(feed_dir)
 
     with open(opml_file, 'r') as file:
-        soup = BeautifulSoup(file, 'xml')
+        # Parse the OPML file
+        xml_data = file.read()
+        soup = BeautifulSoup(xml_data, 'xml')
         outlines = soup.find_all('outline')
 
         for outline in outlines:
