@@ -9,6 +9,7 @@ from xml.dom.minidom import parseString
 from datetime import datetime
 import time
 import xmltodict
+import lxml
 
 
 def fetch_article_text(url):
@@ -27,24 +28,22 @@ def fetch_article_text(url):
         print(f"Couldn't fetch article text: {str(e)}")
         return None
 
-
 def summarise(article_text):
-    max_attempts = 1
+    model_array = [  "gpt-3.5-turbo" , "gpt-4" , "gpt-4-turbo" , "Llama-2-7b-chat-hf" , "Llama-2-13b-chat-hf" , "Llama-2-70b-chat-hf" , "CodeLlama-34b-Instruct-hf" , "CodeLlama-70b-Instruct-hf" , "Mixtral-8x7B-Instruct-v0.1" , "Mistral-7B-Instruct-v0.1" , "dolphin-2.6-mixtral-8x7b" , "lzlv_70b_fp16_hf" , "airoboros-70b" , "airoboros-l2-70b-gpt4-1.4.1" , "openchat_3.5" , "gemini" , "gemini-pro" , "claude-v2" , "claude-3-opus" , "claude-3-sonnet" , "pi"]
     summary = ""
+    
     # Define your conversation with the model
     conversation = [
         {
-            "role":
-            "system",
-            "content":
-            "You are a helpful assistant that summarizes articles. Now summarize this article:" + article_text
+            "role": "system",
+            "content": "You are a helpful assistant that summarizes articles. Now summarize this article:" + article_text
         },
     ]
 
-    for _ in range(max_attempts):
+    for model in model_array:
         try:
             response = g4f.ChatCompletion.create(
-                model="gpt-4-turbo",
+                model=model,
                 messages=conversation,
                 max_tokens=1000,
                 stream=False,
@@ -53,17 +52,17 @@ def summarise(article_text):
             for message in response:
                 summary += message
 
-            # Split the response into words and check if it has more than 5 words
+            # Split the response into words and check if it has more than 80 words
             words = summary.split()
             if len(words) > 80:
                 return summary
 
         except Exception as e:
-            # Log the error (you can use a logging library for this)
-            # print(f"Error while summarizing article text: {str(e)}")
-            print(f"error in summarising  ")
-
-    # If after 10 attempts there's no valid response, return an error message or handle as needed
+            # Log the error or handle as needed
+            print(f"Error while summarizing article text using model {model}: {str(e)}")
+    
+    # If none of the models provide a summary, return None or handle as needed
+    print("None of the models could provide a summary.")
     return None
 
 
@@ -86,7 +85,7 @@ def get_feeds():
     with open(opml_file, 'r') as file:
         # Parse the OPML file
         xml_data = file.read()
-        soup = BeautifulSoup(xml_data, 'xml')
+        soup = BeautifulSoup(xml_data, features="xml")
         outlines = soup.find_all('outline')
 
         for outline in outlines:
