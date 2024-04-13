@@ -1,3 +1,38 @@
+Sat, 13 Apr 2024 18:12:39 +0530
+### [Think yourself: Why we should not let AI make decisions for us](https://www.firstpost.com/explainers/artificial-intelligence-ai-decisions-humans-critical-thinking-13759265.html)
+
+As AI becomes more integrated into daily life, concerns about its influence on decision-making grow. The fear of AI going rogue is less pressing than the social issues it may exacerbate, such as privacy invasion, bias, and lack of transparency. A psychologist's research suggests that AI's most significant threat is its potential to undermine human decision-making skills. Thoughtful decision-making involves understanding the problem, considering multiple options, and delaying closure to weigh all information. AI, however, often provides context-free answers, depriving individuals of the chance to practice making informed choices. This reliance on AI could perpetuate biases and hinder critical reasoning. While AI has benefits in data-heavy fields, its pervasive role in personal decision-making is concerning. The article advocates for maintaining human autonomy in thinking and decision-making to preserve human dignity and improve societal outcomes.
+
+Sat, 13 Apr 2024 17:30:51 +0530
+### [Is Bournvita not a ‘health drink’? What the Centre has said](https://www.firstpost.com/explainers/bournvita-health-drink-category-centre-e-commerce-sites-13759246.html)
+
+The Ministry of Commerce and Industry in India has mandated the removal of Bournvita and similar beverages from the 'health drinks' category on e-commerce platforms. This follows the National Commission for Protection of Child Rights' (NCPCR) finding that 'health drink' is not a legally defined term under Indian food laws. The Food Safety and Standards Authority of India (FSSAI) also advised against categorizing dairy, cereal, or malt-based beverages as 'health' or 'energy' drinks, which are essentially flavored water-based drinks. The move aims to prevent misleading information and ensure consumers make informed choices. The spotlight on Bournvita began when an influencer highlighted its high sugar content, leading to legal notices and a subsequent reduction in sugar by the manufacturer, Mondelez India Food Pvt Ltd.
+
+Sat, 13 Apr 2024 15:10:16 +0530
+### [Too young to use WhatsApp at 13? Meta under fire for lowering minimum age in Europe](https://www.firstpost.com/explainers/whatsapp-minimum-age-limit-13-europe-meta-criticism-13759216.html)
+
+Meta is facing backlash for lowering WhatsApp's minimum user age in Europe from 16 to 13. This decision, implemented in the UK and EU, aligns with EU online safety laws but contradicts the global standard of 13. Critics, including UK's Smartphone Free Childhood, argue it endangers children, ignoring warnings from various experts about social media's risks. Despite Meta's defense of its privacy settings, the move has intensified debates over children's smartphone use and social media exposure. Other platforms also have a 13-year minimum, but the focus is on WhatsApp due to recent concerns about child safety online. The UK government is considering banning smartphone sales to under-16s, reflecting the growing scrutiny of tech giants' policies on youth access.
+
+Sat, 13 Apr 2024 12:24:25 +0530
+### [Threat of Iran’s attack on Israel grows: How capable is Tehran’s military?](https://www.firstpost.com/explainers/iran-attack-on-israel-tehran-military-capability-west-asia-13759183.html)
+
+Tensions between Iran and Israel are escalating following a strike on an Iranian consulate in Damascus, attributed to Israel, which killed seven Iranian military personnel. US President Joe Biden has warned Iran against retaliating, while US intelligence suggests Iran may use ballistic missiles or drones for precision strikes on Israeli targets. Iran's military, one of the largest in West Asia, includes the Islamic Revolutionary Guard Corps and a vast network of proxies. Despite possessing a significant arsenal of missiles and drones capable of reaching Israel, Iran's conventional military hardware, such as tanks and fighter planes, is outdated due to sanctions. Meanwhile, Israel vows to respond to any attacks, with Prime Minister Netanyahu emphasizing readiness for both defensive and offensive measures. The possibility of a direct conflict remains uncertain, with both nations facing internal and external pressures.
+
+Sat, 13 Apr 2024 12:04:53 +0530
+### [Beetroot has been called vegetable Viagra: Is this true?](https://www.firstpost.com/explainers/beetroot-has-been-called-vegetable-viagra-is-this-true-13758960.html)
+
+Beetroot, often hailed as a superfood, is rich in vitamins, minerals, fiber, and antioxidants. It's been suggested that beetroot can modestly enhance sexual health by improving circulation, thanks to its ability to transform nitrates into nitric oxide, which dilates blood vessels. While there's no solid evidence to confirm beetroot as a 'vegetable Viagra,' it may support sexual readiness. Beyond potential sexual health benefits, beetroot could lower blood pressure, improve athletic performance, and aid in managing oxidative stress and inflammation-related conditions. It's versatile in the diet, available in whole, juice, and supplement forms, and can be incorporated into various dishes. Despite its many benefits, don't expect beetroot to dramatically change your sex life or overall health. For personalized advice, consult a healthcare professional.
+
+Sat, 13 Apr 2024 09:29:06 +0530
+### [‘Gendu’, ‘Baghu’ & more: How West Bengal’s animals are drawing voters to polling booths](https://www.firstpost.com/explainers/lok-sabha-elections-2024-west-bengal-animal-mascots-13758989.html)
+
+West Bengal's district administration is creatively using mascots like 'Gendu' (rhino) and 'Baghu' (tiger) to encourage voter turnout in the upcoming elections. Each district has its unique mascot, from 'Mohanbao' the turtle in Coochbehar to 'Teesta' in Jalpaiguri, representing the region's cultural and natural heritage. The initiative aims to raise awareness about voting rights and increase participation, employing characters familiar to the locals. Similar campaigns have been seen in Punjab and Assam, targeting specific demographics to improve voter turnout. These efforts reflect a growing trend of using mascots to engage and educate voters across India.
+
+Sat, 13 Apr 2024 09:08:04 +0530
+### [This Week in Explainers: Why is India sending defence attachés to African nations, Poland, Philippines?](https://www.firstpost.com/explainers/this-week-in-explainers-why-is-india-sending-defence-attaches-to-african-nations-poland-philippines-13759086.html)
+
+India is on the brink of the world's largest election, with key states like Uttar Pradesh and Maharashtra being focal points. The nation is also appointing defense attachés to several countries, marking a strategic expansion, particularly in Africa. Domestically, the controversial film "The Kerala Story" has reignited political debates, while the Allahabad High Court has questioned the necessity of the "Kanyadan" ritual in Hindu marriages. Bengaluru faces a severe water crisis coupled with unusual heatwaves, and the safety of Indian students in the US is under scrutiny after multiple tragedies. Meanwhile, Vistara airline is reducing flights, potentially affecting summer travel plans. This roundup captures the diverse and pressing issues India confronts.
+
 Fri, 12 Apr 2024 20:33:38 +0530
 ### [Are H&M and Zara responsible for deforestation in Brazil?](https://www.firstpost.com/explainers/hm-zara-deforestation-brazil-13758890.html)
 

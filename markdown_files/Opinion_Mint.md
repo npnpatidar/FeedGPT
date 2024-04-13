@@ -1,3 +1,8 @@
+Sat, 13 Apr 2024 12:16:20 +0530
+### [Vi’s chances of staying afloat brighten. Graduating India’s remaining voice-only users to 4G+ data use is its best hope](https://www.livemint.com/opinion/vodafoneideas-survival-odds-brighten-but-it-needs-to-do-more-to-escape-the-quagmire-11712989226250.html)
+
+Vodafone-Idea (VIL), India's third-largest telecom, is poised for a potential turnaround, planning to raise ₹45,000 crore. The immediate strategy includes a ₹20,000 crore raise through a follow-on public offer (FPO) and rights issue, with the FPO aiming for ₹18,000 crore at a discounted share price. The Aditya Birla Group will also invest ₹2,075 crore. These funds will boost VIL's 4G and 5G network expansion. Despite a subscriber base of 220 million, VIL trails behind Jio and Airtel, who lead with extensive 5G networks and higher average revenues per user (Arpu). VIL's growth could hinge on converting its 2G users to 4G/5G, potentially increasing its Arpu significantly. However, with a net debt of over ₹2.15 trillion, analysts suggest VIL needs to raise an additional ₹65,000 crore within two years to sustain competition. The upcoming fund infusion offers a chance for revival and to maintain a competitive market against the prevailing duopoly.
+
 Fri, 12 Apr 2024 11:47:01 +0530
 ### [Supreme Court’s Delhi Metro verdict opens a Pandora’s box for public-private infra projects](https://www.livemint.com/opinion/online-views/supreme-court-s-delhi-metro-verdict-opens-a-pandora-s-box-for-public-private-infra-projects-11712901981886.html)
 
