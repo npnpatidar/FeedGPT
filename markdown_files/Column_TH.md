@@ -1,3 +1,13 @@
+Wed, 03 Apr 2024 00:30:00 +0530
+### [IPL-17 | What the heck – more humour, less uniformity, please!](https://www.thehindu.com/opinion/columns/what-the-heck-more-humour-less-uniformity-please/article68020437.ece)
+
+The article discusses the recent trend of heckling in the IPL, particularly focusing on Hardik Pandya being targeted by fans. It compares this to past instances of players like Ravi Shastri facing similar treatment and how they handled it with maturity. The article emphasizes that heckling is a part of sporting culture as long as it remains within respectful boundaries. It also highlights the role of humor in heckling and its contribution to the enjoyment of the game. Additionally, it mentions anecdotes from cricketing personalities like Sharmila Tagore, adding to the discussion on different expressions of passion for the game.
+
+Thu, 28 Mar 2024 11:47:08 +0530
+### [Column | When Phuphee became a ‘village’](https://www.thehindu.com/opinion/columns/phuphee-became-a-village-birth-postpartum-depression-sisterhood/article67996974.ece)
+
+The article discusses the author's experience with postpartum depression after the birth of her second child. She describes feeling overwhelmed, anxious, and hopeless, struggling to find joy in motherhood and experiencing guilt and rage instead. With the support of her husband and a maternal figure called Phuphee, she seeks help, starts medication, and begins to recover. Phuphee's presence and care, reminiscent of a traditional village support system, provide solace and assistance. The author reflects on the lack of such support in modern society and realizes the importance of passing on support to future generations.
+
 Wed, 27 Mar 2024 00:30:00 +0530
 ### [Kohli and Rohit know the formula to earn one final hurrah](https://www.thehindu.com/opinion/columns/kohli-and-rohit-both-know-the-formula-to-earn-one-final-hurrah/article67994516.ece)
 

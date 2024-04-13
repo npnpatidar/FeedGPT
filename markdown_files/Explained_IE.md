@@ -1,3 +1,689 @@
+Fri, 12 Apr 2024 14:34:52 +0000
+### [Explained: Vietnam’s $12 billion financial fraud, for which a businesswoman has been sentenced to death](https://indianexpress.com/article/explained/explained-global/vietnam-scam-truong-my-lan-death-penalty-9266548/)
+
+Truong My Lan, a prominent businesswoman in Vietnam, has been sentenced to death for her involvement in a massive financial fraud case, considered the country's largest on record, amounting to $12.5 billion, about 3% of Vietnam's 2022 GDP. Lan, who rose from selling cosmetics on the streets to chairing a major real estate company, allegedly diverted a large sum of money from the Saigon Joint Stock Commercial Bank (SCB) through shell companies, following a 2011 bank merger.
+
+The court found Lan guilty of bribery, violating banking regulations, and embezzlement, along with her accomplices, including family members. Despite efforts to fight the case, the verdict was upheld. Notably, Lan's death sentence for financial crimes, particularly as a woman, is uncommon in Vietnam.
+
+This trial reflects the government's crackdown on corruption within the private sector, possibly to reinforce the Communist Party's control amid the sector's rapid growth and recent scandals involving high-ranking officials. The verdict is also part of broader political maneuvers, as seen in the government's "Blazing Furnace" campaign targeting corruption among influential figures, including former presidents.
+
+Fri, 12 Apr 2024 14:00:28 +0000
+### [Apple says ‘mercenary software’ like Pegasus may be attacking certain iPhones. What is this threat, and should you worry?](https://indianexpress.com/article/explained/explained-sci-tech/apple-mercenary-software-pegasus-iphones-9266466/)
+
+Apple has issued warnings to users in India and 91 other countries about potential spyware attacks, including the notorious Pegasus malware developed by NSO Group. Some users in India received emails alerting them to targeted attacks on their iPhones. These attacks, considered exceptionally rare and sophisticated, are individually targeted against specific individuals. Apple has been sending out these threat notifications since late 2021, offering advice on protecting devices and privacy. Recommendations include updating software, using strong passwords, enabling two-factor authentication, and activating Lockdown Mode, which restricts device functions to prevent access by attackers.
+
+Fri, 12 Apr 2024 13:59:57 +0000
+### [Why Trump has refused to endorse a national abortion ban in US](https://indianexpress.com/article/explained/explained-global/trump-abortion-ban-us-9266472/)
+
+Donald Trump recently stated that he believes abortion laws should be determined by individual states, distancing himself from endorsing a national ban. This disappointed some of his conservative supporters who advocate for a nationwide abortion ban. Trump's stance contrasts with the growing demand among conservative Republicans for such a ban, especially after the Supreme Court overturned Roe v. Wade. Critics argue that the issue should focus on protecting unborn children rather than state jurisdiction. Trump's position is seen as a political move ahead of the presidential elections, recognizing the complexity of the abortion issue and its impact on independent voters. Meanwhile, Democrats are using Trump's statement to rally support, emphasizing the importance of abortion rights in the upcoming election. Trump's stance on abortion has been inconsistent over the years, and while some view his recent statement as a moderation, it's uncertain whether he will maintain this position in the long run.
+
+Fri, 12 Apr 2024 13:15:10 +0000
+### [Swiss women win landmark climate change case: Why is it significant?](https://indianexpress.com/article/explained/explained-climate/swiss-women-climate-change-case-9266398/)
+
+Europe’s highest human rights court recently ruled in favor of 2,000 Swiss women over 64, who sued the Swiss government for not doing enough to combat climate change. The court found that the government violated the women's right to life by failing to enact adequate climate policies and meet greenhouse gas emission goals. This landmark ruling could set a precedent for similar cases across Europe and beyond. It follows a recent decision by India's Supreme Court recognizing the right to be free from the adverse effects of climate change. The rise of climate litigation globally reflects a growing trend of holding governments and companies accountable for their contributions to climate change and insufficient mitigation efforts.
+
+Fri, 12 Apr 2024 11:38:24 +0000
+### [How can students improve their chances of getting a Canadian visa?](https://indianexpress.com/article/explained/canada-international-student-study-permit-allocatio-enhance-their-visa-success-rate-9266204/)
+
+Canada has adjusted its allocation of attestation letters for international students, which are necessary for study permit issuance. While there's a cap on visas, choosing provinces with more letters can improve chances. The allocation model aims for zero net growth, replacing each departing student with a new one. Overall, there's a 28% decrease in study permit approvals compared to last year. Certain student categories are exempt, but there's a focus on provinces with increased allocations like Alberta, Quebec, Saskatchewan, Newfoundland, Nunavut, and Northwest Territories. Traditional favorites like Ontario and British Columbia have seen decreases in allocations. Experts advise considering less popular provinces for better visa success rates.
+
+Fri, 12 Apr 2024 10:16:51 +0000
+### [Explained: Karnataka HC quashes Centre’s circular on banning ‘dangerous’ dog breeds](https://indianexpress.com/article/explained/explained-law/karnataka-hc-quash-circular-dog-breeds-9266050/)
+
+The Karnataka High Court has struck down a circular issued by the Centre that aimed to prohibit the sale, breeding, or keeping of 23 "dangerous" dog breeds. The court ruled that the ban could not be imposed without appropriate recommendation from a properly constituted committee. This decision came after the Karnataka HC had previously stayed the circular on March 19, with the Calcutta HC also ordering a partial stay and the Delhi HC seeking the Centre's response to a plea challenging the circular. The Karnataka HC emphasized the need for consultation with stakeholders and criticized the lack of representation from certified breeding organizations in the decision-making process. Additionally, the court noted that a blanket ban on the specified breeds would violate rules under the Prevention of Cruelty to Animals Act. The Calcutta HC partially stayed the circular, particularly objecting to the directive mandating the sterilization of dog breeds, which it deemed potentially fatal, especially for young puppies. In Delhi, a plea challenged the circular's sterilization mandate, arguing against its scientific credibility and legitimacy. The court there sought a response from the Centre on the matter.
+
+Fri, 12 Apr 2024 07:29:52 +0000
+### [A Sicilian volcano is blowing smoke rings in the sky. What are volcanic vortex rings?](https://indianexpress.com/article/explained/explained-sci-tech/mount-etna-volcano-smoke-rings-vortex-9265785/)
+
+Mount Etna, Europe's largest and one of the most active volcanoes, has been producing rare volcanic vortex rings since April 2, 2024. These rings are circular smoke formations caused by the rapid release of gas, primarily water vapor, through a nearly perfect circular vent in the crater. This phenomenon, first observed in 1724, has been documented at other volcanoes worldwide. However, Etna is particularly known for its prolific production of these rings, with dozens observed daily. While the recent activity from Etna's new vent has generated hundreds, if not thousands, of smoke rings, experts clarify that it does not necessarily indicate an impending spectacular eruption. The activity from the vent may slow down due to changes in the conduit's properties.
+
+Fri, 12 Apr 2024 01:10:38 +0000
+### [How India pulled off its first general election](https://indianexpress.com/article/explained/explained-history/india-first-general-election-nehru-9265134/)
+
+India's first Lok Sabha election in 1951-52 marked a historic moment in the country's democratic journey. It involved over 176 million electors, with the majority being unlettered, showcasing a significant act of faith in the democratic process. Led by Jawaharlal Nehru's Indian National Congress, other parties in the race included the Socialist Party, Communist Party of India, and others. The Election Commission faced unprecedented challenges in organizing the elections, including logistical issues and ensuring the participation of women voters. Despite the hurdles, the elections were a success, with a voter turnout of 45% women. The results saw the Congress winning a majority of seats, solidifying Nehru's position. The election process involved innovative measures such as colored ballot boxes and papers to accommodate the illiterate population. This election laid the foundation for India's democratic principles and remains a significant milestone in its history.
+
+Thu, 11 Apr 2024 15:24:52 +0000
+### [Explained: The planned summit for ‘lasting peace’ in Ukraine, why Russia’s participation is uncertain](https://indianexpress.com/article/explained/everyday-explainers/summit-swiss-ukraine-russia-war-9264801/)
+
+The Swiss government has announced plans to host a summit on June 15-16 aimed at initiating lasting peace in Ukraine following Russia's invasion in February 2022. More than 100 countries may participate, with India among the invitees, though Russia's attendance remains uncertain. The summit is a follow-up to a plan proposed by Ukrainian President Zelenskyy and Swiss Foreign Minister Cassis. However, it's cautioned that the conference won't lead to an immediate peace deal. Talks have been complicated by differing conditions, with Ukraine insisting on an end to hostilities and Russian withdrawal from occupied territories, while Russia emphasizes "denazification" and "demilitarization" of Ukraine. Previous peace proposals, including a 10-point plan by Ukraine and a 12-point plan backed by China, have failed to gain traction. Swiss Foreign Minister Cassis stressed the importance of Russian involvement in the peace process, even if they're not present at the first meeting. Talks leading up to the summit have involved the EU and representatives from various countries, including India
+
+Thu, 11 Apr 2024 13:33:42 +0000
+### [The path Ambedkar showed: Why lower castes embrace Buddhism](https://indianexpress.com/article/explained/explained-history/the-path-ambedkar-showed-why-lower-castes-embrace-buddhism-9264683/)
+
+The Gujarat government has stated that conversions from Hinduism to Buddhism in the state require prior approval from the district magistrate under the Gujarat Freedom of Religion Act, 2003. Thousands of Dalits, especially in Gujarat, convert to Buddhism annually, with approximately 2,000 conversions reported in 2023. This practice has historical roots dating back to Dr. B R Ambedkar's conversion in 1956 and beyond, as Buddhism emerged as a response to the orthodox Vedic religion, offering an alternative to the caste system. Ambedkar saw Buddhism as a revolutionary path to challenge caste-based discrimination. The conversion to Buddhism by lower castes continues to be significant across India, symbolizing not only emancipation but also following in Ambedkar's footsteps.
+
+Thu, 11 Apr 2024 13:00:01 +0000
+### [History of Sulthan Bathery, which Kerala BJP chief wants renamed as Ganapathyvattam](https://indianexpress.com/article/explained/everyday-explainers/kerala-bjp-wayanad-sulthan-bathery-ganapathyvattam-tipu-sultan-9264627/)
+
+The article discusses the controversy surrounding the renaming of Sulthan Bathery, a town in Kerala's Wayanad district. K Surendran, the state BJP president and candidate for the Wayanad Lok Sabha seat, argues that renaming the town is inevitable due to its association with Tipu Sultan, whom he characterizes as a historical figure responsible for massacres of Hindus and Christians.
+
+Surendran proposes renaming Sulthan Bathery to Ganapathyvattam, reflecting its historical connection to a stone temple built by Jains from Tamil Nadu and Karnataka in the 13th century. The temple, originally known as Ganapathyvattam, was partially destroyed during Tipu Sultan's invasions in the 18th century.
+
+Tipu Sultan used the Maha Ganapathy temple as a battery or store for weapons, leading the British to refer to it as "[Tipu] Sultan's Battery," which eventually evolved into the name Sulthan Bathery.
+
+The controversy over renaming the town is part of the broader political landscape in Wayanad, where Surendran is contesting against sitting MP Rahul Gandhi (Congress) and Annie Raja (CPI). The article also mentions the historical context of Tipu Sultan's invasions in the region, including the destruction of temples and churches and forced religious conversions.
+
+In addition to the discussion on Sulthan Bathery, the article briefly mentions the upcoming announcement of exam results by the Andhra Pradesh Board of Intermediate Education.
+
+Thu, 11 Apr 2024 11:50:08 +0000
+### [What is the ‘Adjudicating Authority’ that has confirmed ED’s attachment of Rahul-Sonia-promoted company’s assets?](https://indianexpress.com/article/explained/explained-law/adjudicating-authority-ed-attachment-rahul-sonia-company-assets-9264546/)
+
+The Adjudicating Authority under the Prevention of Money Laundering Act (PMLA) has confirmed the attachment of assets worth Rs 751.9 crore belonging to the National Herald newspaper, which is promoted by the Congress party. The Enforcement Directorate (ED) provisionally attached these properties in November 2023 in a PMLA case against Associated Journals Ltd (AJL) and Young Indian (YI), the companies behind the newspaper. YI, controlled by Sonia Gandhi and Rahul Gandhi, is being investigated for allegedly acquiring AJL and its assets for a low price with Congress's involvement.
+
+The PMLA allows attachment of properties suspected to be acquired from criminal proceeds, and this order must be confirmed within 180 days by the Adjudicating Authority. The accused can still use the property until confirmation, but once confirmed, the ED can take possession. Challenging this confirmation is possible through appeals.
+
+Confiscated properties can remain inaccessible until the trial's conclusion, potentially deteriorating over time. Vehicles may also deteriorate while in storage, with the ED paying for parking and potentially losing more than the vehicle's value in rent.
+
+Thu, 11 Apr 2024 10:46:00 +0000
+### [New FDTL rules: Why DGCA has asked airlines to indicate their implementation timelines](https://indianexpress.com/article/explained/explained-economics/pilot-fatigue-new-fdtl-rules-aviation-9264258/)
+
+The Directorate General of Civil Aviation (DGCA) has deferred the implementation of new Flight Duty Time Limitation (FDTL) rules, which include measures for managing stress and fatigue among pilots. Originally planned for June 1, the rules were postponed due to resistance from airlines. The DGCA has asked airlines to indicate when they can implement the new rules, with a tentative date expected by May 8. The new regulations aim to improve fatigue management through longer weekly rest periods and fewer night landings. However, airlines argue that implementing these rules would require hiring more pilots and could impact operations. Fatigue and stress among pilots have raised concerns about flight safety, prompting the need for better regulations. The International Civil Aviation Organization (ICAO) mandates countries to establish fatigue management regulations. The DGCA's current regulations require airlines to establish limitations on flight duty time within its framework. The regulations also prohibit flight crew from accepting assignments that exceed prescribed limitations and require carriers to maintain a system for managing fatigue reports.
+
+Thu, 11 Apr 2024 06:37:32 +0000
+### [An Expert Explains: The evolution and essentials of India’s climate policy](https://indianexpress.com/article/explained/explained-climate/an-expert-explains-the-evolution-and-essentials-of-indias-climate-policy-9263839/)
+
+The article discusses India's climate policy and its commitment to addressing climate change amidst global challenges. It highlights India's geographical, population, and environmental impacts, emphasizing the need for sustainable development. India's climate policy is based on inclusive growth, adherence to international principles like the UNFCCC, and evidence-based actions. Despite historical emissions being low, India is taking ambitious steps towards renewable energy and reducing emissions intensity. The article stresses India's leadership in climate action, with initiatives like the International Solar Alliance and commitments to achieve net zero emissions by 2070. It concludes by urging a global perspective on climate change, emphasizing India's ethos of unity and sustainability as essential for addressing this collective challenge.
+
+Thu, 11 Apr 2024 02:30:35 +0000
+### [What is OpenAI’s GPT-4 Vision and how can it help you interpret images, charts?](https://indianexpress.com/article/explained/explained-sci-tech/gpt-4-vision-9263119/)
+
+OpenAI's ChatGPT has advanced significantly since its launch, now integrating image generation capabilities thanks to DALL-E. GPT-4 Vision, introduced in September 2023, enhances interaction with GPT-4, enabling image analysis and speech input. GPT-4V, as it's known, can process various visual content, including identifying objects, interpreting data in graphs, and analyzing text within images. It aids researchers, developers, and content creators in tasks like interpreting historical documents, writing website code from visual designs, and unlocking insights from visuals. However, it's not flawless, and users should verify its output. It also perpetuates social biases and isn't suitable for precise scientific or medical analysis.
+
+Thu, 11 Apr 2024 02:18:50 +0000
+### [Why revival of 1864 abortion law could resonate in US politics beyond Arizona](https://indianexpress.com/article/explained/explained-global/why-revival-of-1864-abortion-law-could-resonate-beyond-arizona-9263251/)
+
+The Supreme Court of Arizona recently made a significant decision, resurrecting a law from 1864 that practically bans most abortions in the state. Under this law, doctors who perform abortions could face 2-5 years in prison. The law, dating back to the Civil War era, prohibits abortion unless it's necessary to save the mother's life, without exceptions for rape or incest. Although initially blocked by a court after Roe v Wade in 1973, recent legal developments have paved the way for its enforcement. The ruling has reignited the polarizing abortion debate, particularly as it may influence the upcoming presidential election in Arizona, a crucial swing state. Notably, even some Republicans have criticized the ruling, expressing concerns about its implications. This decision adds to a growing trend of states imposing stricter abortion laws, with implications for national politics.
+
+Thu, 11 Apr 2024 02:00:18 +0000
+### [Why Supreme Court’s curative petition relief for Delhi Metro is significant](https://indianexpress.com/article/explained/explained-law/why-supreme-courts-curative-petition-relief-for-delhi-metro-is-significant-9263211/)
+
+The Supreme Court ruled that the Delhi Metro Rail Corporation (DMRC) doesn't have to pay nearly Rs 8,000 crore to Delhi Airport Metro Express Private Limited (DAMEPL), a Reliance Infrastructure company. This overturns a 2021 judgment upholding the arbitral award in favor of DAMEPL. The dispute arose from a public-private partnership between DMRC and DAMEPL for the Delhi Airport Metro Express. Despite operational issues and termination of the agreement, DMRC won the case after multiple court battles. The SC exercised its "extraordinary powers" in a curative writ petition to correct a "fundamental error" in its judgment, restoring the 2019 position and relieving DMRC of the payment obligation. This rare use of curative jurisdiction, initiated by the government, raises questions about judicial restraint and investor confidence.
+
+Wed, 10 Apr 2024 22:44:35 +0000
+### [In allowing curative plea in DMRC case, how Supreme Court pushes the envelope](https://indianexpress.com/article/explained/explained-law/allowing-curative-plea-how-supreme-court-pushes-the-envelope-9263351/)
+
+The Supreme Court has set aside a 2017 arbitral award that required the Delhi Metro Rail Corporation (DMRC) to pay almost Rs 8000 crore to Reliance Infrastructure, owned by Anil Ambani. This move expands the scope of the court's intervention powers beyond constitutionally prescribed processes. The court invoked a sparingly used judicial innovation called a curative writ petition to revive a 2019 Delhi High Court judgment that partially set aside the Delhi Metro arbitration award. This innovation is used to correct a "grave miscarriage of justice." However, using this jurisdiction in a commercial case raises concerns about the finality of the court's ruling. The court's intervention also contradicts the principle of minimum judicial interference, which it has promoted since 2015. The prolonged timelines of court interference in commercial matters also raise questions about the enforcement of arbitral awards in India. Even the Supreme Court, in its curative writ, acknowledges the risks of its intervention and cautions against its routine use.
+
+Wed, 10 Apr 2024 14:17:31 +0000
+### [How invasive species threaten natural ecosystems](https://indianexpress.com/article/explained/invasive-species-natural-ecosystems-threaten-9262836/)
+
+The Andaman and Nicobar Islands administration sought assistance from the Wildlife Institute of India to manage the growing population of chital (spotted deer) in Ross Island. Chital were introduced to the island by the British and have since spread rapidly, impacting the native flora and fauna. This highlights the issue of invasive species, which can threaten biodiversity and ecosystems. In India, the legal definition of invasive species is narrower, focusing on non-native species that threaten wildlife or habitats. Examples include certain fish and turtle species, like the red-eared slider, which are often abandoned by exotic pet owners and pose threats to local species. Invasive species disrupt ecosystems by dominating food chains and outcompeting native species. The proliferation of chital in the Andamans has affected native vegetation regeneration. Globally, invasive species have significant economic costs, with billions of dollars lost annually due to damage to ecosystems. For instance, the cotton mealy bug has severely impacted cotton crops in India.
+
+Wed, 10 Apr 2024 14:08:38 +0000
+### [What is CDP-SURAKSHA, govt’s new digital platform to disburse subsidies to horticulture farmers?](https://indianexpress.com/article/explained/cdp-suraksha-horticulture-9262824/)
+
+The BJP-led government in India has introduced a new platform called CDP-SURAKSHA to distribute subsidies to horticulture farmers as part of the Cluster Development Programme (CDP). This initiative aims to boost the horticulture sector, which contributes significantly to India's agricultural gross value addition. The CDP-SURAKSHA platform is digital and allows for instant subsidy disbursal to farmers' bank accounts using e-RUPI vouchers. It integrates various databases and allows farmers to order planting material online. Once the material is delivered, farmers verify it, and the subsidy is released. The platform streamlines the subsidy process, ensuring farmers receive support upfront. Currently, the platform is being piloted in selected clusters, with plans for further expansion.
+
+Wed, 10 Apr 2024 13:49:29 +0000
+### [When is a moveable asset ‘sizable’ enough to declare? It depends, says Supreme Court](https://indianexpress.com/article/explained/explained-law/when-is-a-moveable-asset-sizable-enough-to-declare-it-depends-says-the-supreme-court-9262793/)
+
+The Supreme Court recently ruled on a case concerning the disclosure of a candidate's private information in election papers. The court emphasized a candidate's right to privacy, stating that voters do not have an absolute right to know every detail of a candidate's private life. It was clarified that candidates are not required to disclose every movable property they own unless it constitutes a "sizable asset" or reflects upon the candidate's lifestyle relevant to their candidacy.
+
+The case involved Karikho Kri, whose election to the Arunachal Pradesh Assembly was challenged for alleged non-disclosure of certain assets in his nomination papers. The High Court had declared Kri's victory void, citing non-disclosure of a vehicle as constituting "undue influence." However, the Supreme Court overturned this decision, stating that not every non-disclosure automatically amounts to a defect of substantial nature.
+
+The Supreme Court emphasized that each case must be judged on its own facts, with no strict rule regarding the non-disclosure of movable assets. Factors such as the value of the assets and their reflection on the candidate's lifestyle are considered. For instance, the non-disclosure of high-priced assets reflecting a lavish lifestyle may constitute undue influence, whereas the non-disclosure of simple, low-value assets may not.
+
+In summary, the Supreme Court's ruling highlights the importance of considering the relevance and impact of non-disclosed assets on a candidate's candidacy, rather than applying a blanket rule to all cases of non-disclosure.
+
+Wed, 10 Apr 2024 11:16:58 +0000
+### [Physicist Peter Higgs passes away: What is the ‘God particle’, which he theorised in 1960s?](https://indianexpress.com/article/explained/explained-sci-tech/peter-higgs-god-particle-9262142/)
+
+The article discusses the significance of the Higgs boson, a fundamental particle discovered in 2012 after nearly 50 years of theoretical prediction and experimental search. The Higgs boson, responsible for imparting mass to other particles, completed the Standard Model of Particle Physics. Peter Higgs, the physicist after whom the particle is named, passed away recently at the age of 94. Despite his significant contribution, Higgs remained a reclusive figure, shying away from the limelight. The article also touches upon the controversy surrounding the term "God particle," which some scientists detest due to its religious connotations. It explains the importance of the Higgs boson in understanding the origin of mass and its role in the Standard Model. Additionally, it highlights the extensive efforts made to detect the elusive particle, culminating in its discovery at the Large Hadron Collider.
+
+Tue, 09 Apr 2024 14:36:44 +0000
+### [What a new 3-D map of universe hints about the nature of dark energy](https://indianexpress.com/article/explained/explained-sci-tech/new-3-d-map-universe-nature-dark-energy-9260670/)
+
+The universe's expansion, known since Edwin Hubble's observations in 1929, was found to be accelerating in the late 1990s, leading to the hypothesis of "dark energy." This mysterious force comprises about 70% of the universe. Recently, the Dark Energy Spectroscopic Instrument (DESI) provided promising data. Operating for three years, DESI captured light from 6 million galaxies, creating a detailed 3D map of the universe's evolution. It revealed an increasing expansion rate, challenging established theoretical models. Initial hints suggest fluctuations in dark energy density, which could revolutionize our understanding of the universe, potentially leading to new physics. Further analysis of DESI data is underway, offering hope for deeper insights into dark energy's nature.
+
+Tue, 09 Apr 2024 13:30:54 +0000
+### [Why a Brazil Supreme Court judge wants to investigate Elon Musk and X](https://indianexpress.com/article/explained/explained-global/brazil-supreme-court-judge-elon-musk-9260553/)
+
+The Brazil Supreme Court has been investigating the spread of fake news, implicating Elon Musk and his social media platform, X. Musk has accused the judge of betraying Brazil's constitution and people, calling for his removal. The dispute arose when the court ordered certain X accounts to be blocked, which Musk refused to comply with, citing concerns about free speech. The judge, Alexandre de Moraes, accused Musk of obstructing justice and inciting crime, leading to an investigation into Musk's alleged misuse of X. This isn't the first time the court has clashed with social media giants; similar conflicts have arisen with former Brazilian President Jair Bolsonaro and others. While Musk claims to support free speech, X has complied with some government requests in the past, despite disagreement. The Indian government, for example, has issued orders affecting X, leading to compliance despite objections. However, Musk has also faced criticism for allegedly silencing critics on his platform.
+
+Tue, 09 Apr 2024 11:58:23 +0000
+### [How and why US wants to establish a time standard for the Moon](https://indianexpress.com/article/explained/explained-sci-tech/lunar-time-standard-moon-9260264/)
+
+The White House has directed NASA to establish a time standard for the Moon, called Coordinated Lunar Time (LTC), by the end of 2026. This standard will help coordinate activities on the lunar surface for international bodies and private companies. While most timekeeping on Earth is based on Coordinated Universal Time (UTC), lunar time is different due to factors like gravity affecting the passage of time. A unified time standard is crucial as more countries plan lunar missions in the coming years. To create LTC, atomic clocks may be deployed on the Moon to account for its unique time flow. These clocks will need to be strategically placed to accommodate variations caused by factors like the Moon's rotation and local mass concentrations. Just as atomic clocks on Earth vary in rate from the Equator to the poles, lunar atomic clocks will provide a precise time standard for lunar activities.
+
+Tue, 09 Apr 2024 02:05:59 +0000
+### [What is a citizen’s ‘right to be free from the adverse effects of climate change’, underlined by Supreme Court?](https://indianexpress.com/article/explained/explained-law/the-citizens-climate-rights-9258997/)
+
+The Supreme Court recently ruled that people have a "right to be free from the adverse effects of climate change," citing Articles 14 and 21 of the Constitution. This decision emerged from a case concerning the conservation of the critically endangered Great Indian Bustard (GIB). The Court's judgment, delivered on March 21 by a three-judge Bench, emphasized the intersection of climate change and human rights, urging states to address climate impacts through a rights-based approach.
+
+The case originated from a petition filed by conservationist M K Ranjitsinh, seeking protection for the GIB and the Lesser Florican, both facing extinction. The Court modified its previous order regarding overhead transmission lines in the GIB habitat, directing experts to assess the feasibility of undergrounding power lines in specific areas.
+
+In its ruling, the Court highlighted India's obligations to combat climate change and emphasized the importance of integrating environmental principles into constitutional rights. While recognizing the absence of specific legislation on climate change, the Court affirmed the existence of a "right against adverse effects of climate change" for Indians.
+
+Legal experts view the judgment as significant for environmental jurisprudence, expanding Article 14 to include environmental and climate justice issues. They anticipate its influence on public discourse and future government policies, setting a precedent for recognizing broader public interests where existing laws fall short.
+
+Tue, 09 Apr 2024 02:00:56 +0000
+### [Zaporizhzhia attacked again amid Ukraine-Russia war: The nuclear risks from reckless military action](https://indianexpress.com/article/explained/explained-global/zaporizhzhia-attacked-again-the-nuclear-risks-from-reckless-military-action-9258996/)
+
+The Zaporizhzhia nuclear power plant faced a crisis following a drone strike, prompting concerns about nuclear safety amid the ongoing conflict between Russia and Ukraine. Russia blamed Ukraine for the attack, but responsibility remains unclear. The International Atomic Energy Agency (IAEA) confirmed damage to one reactor but stated nuclear safety hadn't been compromised. However, the incident raised fears about the integrity of the containment system. The plant's reliance on external power sources poses a risk, with previous outages highlighting vulnerabilities. While nuclear reactors are designed to withstand certain impacts, deliberate attacks could pose unprecedented threats. The situation underscores the avoidable nature of the crisis, with the IAEA unable to prevent military actions near nuclear facilities. Director General Grossi urged restraint to avoid future attacks, emphasizing the inherent danger of targeting nuclear sites.
+
+Tue, 09 Apr 2024 01:41:53 +0000
+### [Why VVPAT was brought in, why Opposition wants all slips verified](https://indianexpress.com/article/explained/why-vvpat-was-brought-in-why-oppn-wants-all-slips-verified-9258995/)
+
+The article discusses the upcoming phase of voting on April 19 and the Supreme Court's consideration of petitions advocating for 100% verification of Voter Verified Paper Audit Trail (VVPAT) slips. It traces the history of VVPAT implementation since its inception in 2010, detailing the evolution of the technology and the legal battles surrounding its usage, including cases brought before the Supreme Court. Opposition parties have called for increased transparency in the voting process, advocating for higher percentages of VVPAT verification. However, the Election Commission has cited logistical challenges and potential delays in results as reasons for its reluctance to implement widespread verification. The article also reports on a recent arrest in connection with a financial fraud case involving Yes Bank.
+
+Mon, 08 Apr 2024 12:41:45 +0000
+### [When Muslim League and Hindu Mahasabha formed coalition governments — what history says](https://indianexpress.com/article/explained/explained-history/hindu-mahasabha-muslim-league-coalition-9258342/)
+
+The article discusses a recent exchange between Prime Minister Narendra Modi and Congress president Mallikarjun Kharge regarding historical associations of political parties in India. Modi suggested that the Congress manifesto had similarities to the Muslim League's agenda, prompting Kharge to accuse the BJP's ancestors of supporting the British and the Muslim League during India's freedom struggle.
+
+Kharge's claims were then examined for historical accuracy. It's noted that during the 1937 provincial elections, Congress performed well, forming ministries in various provinces. However, non-Congress governments were formed in Punjab, Sindh, and Bengal. In Bengal, the Muslim League formed a coalition government with Fazlul Huq's Krishak Praja Party (KPP), despite Congress being the single largest party.
+
+The article highlights that both the Muslim League and Hindu Mahasabha entered alliances with the British during the Quit India Movement of 1942. While Congress leaders were imprisoned for their involvement in the movement, the League and Mahasabha continued supporting the British war effort, aiming to maintain their political power. 
+
+Additionally, the article mentions ideological similarities between the League and the Mahasabha, as noted by scholars and leaders like Dr. B. R. Ambedkar. This ideological convergence translated into political alliances, such as the League-Mahasabha coalition governments in Sindh and NWFP during the Quit India Movement.
+
+Overall, the article provides historical context to the claims made by Modi and Kharge, highlighting the complex political landscape during India's freedom struggle and the alliances formed by various parties at that time.
+
+Mon, 08 Apr 2024 10:54:12 +0000
+### [How solar eclipse will help study Sun, why Aditya L1’s view will not be blocked](https://indianexpress.com/article/explained/everyday-explainers/solar-eclipse-study-sun-aditya-l1-view-india-9258200/)
+
+A team of Indian solar physicists is gearing up to closely observe the Sun during Monday's total solar eclipse to gain insights into the solar atmosphere. Led by Dipankar Banerjee from the Aryabhatta Research Institute of Observational Sciences (ARIES), the team will be stationed in Dallas, Texas, to conduct experiments and observations during the eclipse. They aim to study the solar corona using ground-based telescopes and the coronagraph onboard the Aditya L1 spacecraft, which is stationed 1.5 million km from Earth. The eclipse provides a unique opportunity to study the Sun's corona, particularly its inner regions, which are normally difficult to observe due to scattered light. By employing narrowband imaging and conducting on-band and off-band observations, the team hopes to investigate high-frequency oscillations and variable phenomena in the solar atmosphere. These observations will also aid in calibrating instruments on the Aditya L1 spacecraft and provide insights into the Sun's activity during the current solar cycle.
+
+Mon, 08 Apr 2024 02:34:02 +0000
+### [K Kavitha’s bail plea rejected: What court said on PMLA’s bail concession for women](https://indianexpress.com/article/explained/explained-law/pmla-bail-concession-women-k-kavitha-plea-9257301/)
+
+The Delhi trial court denied interim bail to Bharat Rashtra Samithi (BRS) leader K Kavitha in the Delhi excise scam case. The court cited the Prevention of Money Laundering Act (PMLA), which allows bail for women but is not mandatory for the court to follow. Section 45 of the PMLA sets strict bail standards, placing the burden of proof on the accused. While there's an exception for women, it's not automatic and depends on specific conditions, such as not being a flight risk or tampering with evidence or witnesses. Kavitha's lawyer argued she should be granted bail based on a Delhi High Court ruling, but the trial judge disagreed. The judge found Kavitha not only engaged in evidence destruction but also influenced witnesses, making her ineligible for bail under the PMLA.
+
+Mon, 08 Apr 2024 02:23:19 +0000
+### [How anti-money laundering law came to have a vast scope, granting police powers to ED](https://indianexpress.com/article/explained/explained-law/anti-money-laundering-law-pmla-evolution-9257298/)
+
+The Congress party's manifesto, titled "Nyay Patra," for the Lok Sabha election, vows to end the weaponization of laws, arbitrary searches, and indiscriminate arrests if elected. It promises to enact a law on bail emphasizing "bail is the rule, jail is the exception" across all criminal laws. This proposal appears to be a critique of the Enforcement Directorate (ED) and the Prevention of Money Laundering Act (PMLA), which have been criticized for their stringent provisions leading to prolonged incarceration without trial. The PMLA, enacted to combat money laundering and terror financing, was upheld by the Supreme Court in 2021, despite criticism. The law grants the ED sweeping powers, including stringent standards for bail, which have been controversial. Amendments made in 2009 and 2012 expanded the ED's powers, allowing coercive action against politicians accused of corruption. These amendments, particularly those in 2012, have been criticized for leading to prolonged pre-trial incarcerations. Critics argue that such extended detentions before trial effectively amount to serving a sentence even before conviction.
+
+Mon, 08 Apr 2024 00:30:47 +0000
+### [Remembering Mangal Pandey, and the legacy of the revolt he inspired](https://indianexpress.com/article/explained/explained-history/mangal-pandey-legacy-revolt-1857-9256891/)
+
+The article discusses the significance of Mangal Pandey's actions in triggering the Revolt of 1857, also known as the Sepoy Mutiny or the First War of Indian Independence. It highlights how the annexation of Awadh by the British and the introduction of new rifles with controversial cartridges sparked discontent among Indian soldiers like Pandey, leading to his mutiny and subsequent execution. The revolt spread across India, involving various groups opposed to British rule. Despite their bravery, the rebels were ultimately defeated by the superior British forces. The article also mentions the subsequent changes in British governance in India, including the transfer of power from the East India Company to the British Crown and the Queen's Proclamation aimed at improving relations with Indian subjects. It concludes by calling for greater recognition of Mangal Pandey's sacrifice and the significance of the Revolt of 1857 in Indian history.
+
+Sun, 07 Apr 2024 15:32:07 +0000
+### [This Quote Means: ‘An unexamined life is not worth living’, by Socrates](https://indianexpress.com/article/explained/this-quote-means-unexamined-life-worth-socrates-9256767/)
+
+The article delves into the famous quote attributed to Socrates, "An unexamined life is not worth living," and its implications. It discusses how Socrates, through his student Plato, criticized the Athenian democracy for its susceptibility to manipulation and blind faith in the Greek gods, which ultimately led to his trial and execution. The quote emphasizes the importance of introspection, ethical evaluation, and questioning one's beliefs and actions.
+
+The article explores both the merits and critiques of Socrates' assertion. On one hand, self-reflection can lead to personal growth, moral clarity, and societal critique. On the other hand, critics argue that the examined life may not always lead to happiness or fulfillment, as it can be arduous and may not be accessible to everyone. Moreover, excessive self-analysis could lead to cynicism or narcissism.
+
+In conclusion, while Socrates' notion of self-examination holds relevance in a world inundated with information and conflicting perspectives, its practicality and potential pitfalls warrant consideration.
+
+Sun, 07 Apr 2024 12:15:16 +0000
+### [Two reasons why food inflation may soften in the months ahead](https://indianexpress.com/article/explained/explained-economics/food-inflation-lower-reasons-9256361/)
+
+The Reserve Bank of India's Monetary Policy Committee (MPC) noted the challenge posed by food price pressures to reaching the inflation target of 4%. Despite overall inflation standing at 4.85% in March, retail food inflation was at 8.52%, persistently high for nine consecutive months. However, there's optimism for a decrease in food inflation in the coming months, potentially allowing the MPC to consider cutting interest rates. This optimism stems from a global decrease in food prices, driven by bumper harvests and restored supply lines post disruptions from Covid and the Ukraine War. Specifically, the prices of vegetable oils have risen, but cereal prices continue to decline. Importing wheat is becoming more feasible due to lower global prices, potentially easing pressure on domestic production. Similarly, pulses imports have surged due to dry weather in major growing states, but the weakening El Niño weather pattern brings hope for improved rainfall and agricultural output. This could mitigate food inflation and benefit the government post the upcoming elections.
+
+Sun, 07 Apr 2024 11:31:49 +0000
+### [Why Mexico suspended diplomatic ties with Ecuador after dramatic embassy raids](https://indianexpress.com/article/explained/explained-global/mexico-suspends-ties-ecuador-embassy-raids-9256265/)
+
+Mexico has severed diplomatic ties with Ecuador after Ecuadorian police raided Mexico's embassy in Quito to arrest former Vice President Jorge Glas, who had been granted asylum there. President Andrés Manuel Lopez Obrador condemned Ecuador's actions as a violation of international law. Glas, convicted twice for corruption, has been at the embassy since December 2023. Despite Mexico's complaints, armed police entered the embassy and took Glas into custody. Glas alleges political persecution by Ecuador's center-right government. Mexico's progressive President Obrador's criticism of Ecuador's political violence strained relations even before this incident. The expulsion of Mexico's ambassador from Ecuador exacerbated tensions. Ecuador's justification for the embassy raid was Glas's "imminent flight risk" and the inability to diplomatically resolve the situation. The situation has drawn criticism from Latin American governments and the US State Department. Mexico plans to file a complaint with the International Court of
+
+Sun, 07 Apr 2024 02:30:51 +0000
+### [What makes a total solar eclipse so rare?](https://indianexpress.com/article/explained/explained-sci-tech/total-solar-eclipse-rare-9255264/)
+
+On Monday, April 8, a rare event will occur: a total solar eclipse crossing North America, passing over Mexico, the United States, and Canada. Total solar eclipses are infrequent for any specific location, with about 400 years passing between occurrences. Solar eclipses happen when the Moon moves between Earth and the Sun, casting a shadow. There are four types: total, annular, partial, and hybrid. Total eclipses occur when the Moon fully blocks the Sun, allowing observers to see the Sun's corona. Annular eclipses happen when the Moon is at its farthest point from Earth, leaving a ring of sunlight visible. Partial eclipses occur when the Moon blocks only part of the Sun. Hybrid eclipses shift between total and annular as the Moon's shadow moves. Solar eclipses occur during a new moon, but not every month due to the Moon's tilted orbit. Solar eclipses are relatively rare events, with total eclipses occurring about once every 18 months. The umbral shadow during a total eclipse covers less than one percent of the Earth's surface, making it rare for many people to witness it.
+
+Sun, 07 Apr 2024 01:30:25 +0000
+### [Why Botswana threatened to send 20,000 elephants to Germany](https://indianexpress.com/article/explained/botswana-elephant-population-germany-9255371/)
+
+Botswana's President Mokgweetsi Masisi recently warned of sending 20,000 elephants to Germany in response to Germany's proposed stricter limits on importing hunting trophies. Botswana, home to a significant elephant population, has been a sanctuary for these animals due to stable governance and conservation efforts. However, the increasing elephant population has led to conflicts with humans, damaging property and crops, and posing risks to livelihoods. Botswana has attempted to mitigate this by donating elephants to other countries, but with limited success. In 2019, Botswana lifted its ban on trophy hunting, arguing it helps control elephant numbers and benefits the local economy. Critics, including animal rights advocates, argue against trophy hunting, citing ethical concerns and disputing its economic benefits. Despite differing opinions, experts stress the need for nuanced approaches to conservation, considering the complex dynamics involved.
+
+Sat, 06 Apr 2024 11:08:39 +0000
+### [Nehru, Bose, or… Maulana Barkatullah? Who was India’s ‘first prime minister’?](https://indianexpress.com/article/explained/explained-history/nehru-bose-maulana-barkatullah-indias-first-prime-minister-kangana-ranaut-9254798/)
+
+Kangana Ranaut recently asserted in an interview that Subhas Chandra Bose, not Jawaharlal Nehru, was India's first prime minister. She referenced the Provisional Government of Azad Hind (Free India) formed by Bose in 1943 as evidence. This government, established in Singapore, claimed authority over Indian civilians and military personnel in British Southeast Asian colonies and was recognized by Axis powers during World War II. Similarly, a Provisional Government of India was formed in Kabul in 1915 by the Indian Independence Committee. These provisional governments aimed to legitimize resistance against British rule but lacked widespread international recognition and control over Indian territory. Despite their symbolic significance, they cannot be considered the legitimate government of India due to these factors.
+
+Sat, 06 Apr 2024 09:04:24 +0000
+### [SC stays order against Uttar Pradesh madrasa law: A look at madrasa education in the state](https://indianexpress.com/article/explained/uttar-pradesh-madrasa-law-education-9254643/)
+
+The Supreme Court recently halted an Allahabad High Court decision that deemed the Uttar Pradesh Board of Madrasa Education Act, 2004 unconstitutional. The High Court had ruled the Act violated secularism and fundamental rights by focusing on Islamic studies over modern subjects. There are around 16,513 recognized and 8,449 unrecognized madrasas in Uttar Pradesh, serving approximately 27 lakh students. The Act, enacted in 2004, has faced scrutiny, especially since 2017, with allegations of irregularities, foreign funding, and potential terror links. Concerns also arose over the payment of salaries to modern subject teachers in these madrasas. The discontinuation of a modernization scheme further fueled protests by teachers demanding overdue salaries.
+
+Sat, 06 Apr 2024 01:37:03 +0000
+### [Why green hydrogen presents both major opportunities and significant challenges](https://indianexpress.com/article/explained/explained-economics/why-green-hydrogen-presents-both-major-opportunities-significant-challenges-9253910/)
+
+The Ministry of New and Renewable Energy (MNRE) in India has introduced a scheme worth Rs 496 crore to support pilot projects focusing on green hydrogen as a vehicle fuel and developing infrastructure like refuelling stations. Major Indian commercial vehicle manufacturers such as Tata Motors, Volvo Eicher, and Ashok Leyland are intensifying efforts to develop hydrogen-powered trucks and buses. Indian energy companies are also scaling up green hydrogen production to reduce costs and compete with other fuels. Green hydrogen, produced from water electrolysis using renewable energy, offers emission-free production and has significant potential for reducing carbon emissions in transportation. The MNRE scheme aims to validate the technical feasibility and economic viability of green hydrogen-powered vehicles and refuelling stations. Hydrogen fuel cell electric vehicles (FCEVs) offer a promising alternative to battery electric vehicles (BEVs) for heavy-duty trucks due to their lighter weight and increased payload capacity. However, challenges such as high production costs, storage, and transportation constraints need to be addressed for widespread adoption. Specialized cylinders for storing green hydrogen and robust safety standards are essential for handling and retailing the fuel. While advancements in battery technology may affect the long-term viability of green hydrogen-powered vehicles, efforts to develop infrastructure and reduce costs continue.
+
+Sat, 06 Apr 2024 01:15:40 +0000
+### [Bengaluru and Cape Town: A tale of two cities hit by water scarcity](https://indianexpress.com/article/explained/explained-climate/bengaluru-and-cape-town-a-tale-of-two-cities-hit-by-water-scarcity-9253919/)
+
+The article discusses the severe water shortage crisis faced by Bengaluru, comparing it to Cape Town's water scarcity situation in 2015-18. Dr. T V Ramachandra from the Indian Institute of Science highlights that if Bengaluru continues to mismanage its water supply, it could face a situation worse than Cape Town's. Both cities experienced critically low reservoir levels due to below-average rainfall, rapid urbanization, and inefficient water use practices. Measures such as water rationing and restrictions on water usage have been implemented in both cities. Bengaluru's BWSSB has imposed penalties for violators of water usage rules. The crisis disproportionately affects the poor, increasing health risks due to the lack of water for sanitation. However, BWSSB officials believe the situation will improve soon.
+
+Sat, 06 Apr 2024 00:30:25 +0000
+### [NATO at 75: Why the alliance was formed, where it stands today](https://indianexpress.com/article/explained/explained-global/nato-at-75-purpose-members-challenges-9253642/)
+
+The article discusses the North Atlantic Treaty Organisation (NATO) on its 75th anniversary. Secretary General Jens Stoltenberg stated that NATO is bigger, stronger, and more united than ever with 32 member-states, but it also faces challenges, notably from Russia. NATO was founded in 1949 with 12 members, based on the concept of collective security, where an attack on one member is considered an attack on all. Its purpose was to counter Soviet influence during the Cold War. NATO has expanded over the years, including former Eastern Bloc countries. Despite concerns about its relevance post-Cold War, NATO has adapted and continues to serve various functions, including stabilizing Europe. Tensions have arisen within NATO, particularly regarding military spending and strategic coordination. Disagreements over funding and future commitments persist, especially regarding the Ukraine-Russia conflict. The article also briefly mentions the announcement of exam results by the Andhra Pradesh Board of Intermediate Education.
+
+Fri, 05 Apr 2024 17:12:28 +0000
+### [4.8 magnitude earthquake hits New York City: why it is a rare event in the region](https://indianexpress.com/article/explained/explained-sci-tech/why-earthquakes-are-rare-in-new-york-9253858/)
+
+An earthquake with a preliminary magnitude of 4.8 struck near New York City, surprising residents in an area that rarely experiences significant seismic activity. The quake's epicenter was located in New Jersey, and tremors were felt from Pennsylvania to Massachusetts. While there were no reports of damages, the event raised questions about why earthquakes are uncommon in the region. Unlike the West Coast, where tectonic plates meet, the East Coast, including New York, is not situated near plate boundaries. However, there are fault lines in the area, such as the Ramapo Fault in New Jersey and smaller ones under Manhattan. These faults result from geological processes millions of years ago, and while they have become less active over time, they can still release stress, causing occasional earthquakes. The exact fault line responsible for the recent quake is unclear, as studying the region is challenging due to the lack of nearby plate boundaries.
+
+Fri, 05 Apr 2024 14:06:27 +0000
+### [As Shoma Sen gets bail, what is the status of other accused in Elgaar Parishad case?](https://indianexpress.com/article/explained/shoma-sen-bail-elgaar-parishad-case-9253584/)
+
+The Supreme Court recently granted bail to former Nagpur University professor Shoma Sen, who had been arrested six years ago by the Pune Police for alleged Maoist links in the Elgaar Parishad case. This decision was influenced by Sen's prolonged detention and the fact that her trial has not yet commenced. The National Investigation Agency (NIA) did not oppose her bail, signaling a shift in their stance.
+
+The Elgaar Parishad case stems from the Koregaon Bhima violence of January 1, 2018, where Maoist groups allegedly organized a gathering the day before the violence erupted. Sixteen arrests were made in connection with the case, with accusations against lawyers, activists, and academics for alleged Maoist affiliations.
+
+Among the accused, eight have been granted bail, including prominent figures like poet P Varavara Rao, lawyer-activist Sudha Bharadwaj, and former IIT professor Anand Teltumbde. However, some remain incarcerated pending appeal hearings or ongoing legal processes.
+
+The courts have been considering the extended detention of the accused without a trial, with several directives issued to expedite legal proceedings. Despite the bail granted to some, others, including journalist-activist Sudhir Dhawale and lawyer Surendra Gadling, remain behind bars as their cases are still pending.
+
+The judicial process is ongoing, with the courts emphasizing the need for timely trials and addressing concerns regarding lengthy incarcerations without convictions.
+
+Fri, 05 Apr 2024 07:35:58 +0000
+### [Why are more German firms moving from China to Japan?](https://indianexpress.com/article/explained/explained-global/german-firms-moving-china-japan-9252780/)
+
+The German Chamber of Commerce and Industry in Japan, along with KPMG in Germany, conducted a survey revealing that 38% of German companies are moving production facilities from China to Japan, with 23% also relocating regional management functions. This shift is primarily motivated by economic, political, and social stability concerns. Factors such as rising costs in China, geopolitical tensions, and uncertainty about future trade relations with the US are prompting these changes. Japan is seen as a stable choice, offering a qualified workforce, advanced infrastructure, and legal protection of intellectual property. Additionally, lower wages compared to Germany and a more appealing living environment contribute to Japan's attractiveness for businesses. These findings highlight the growing trend of German companies favoring Japan as a destination for their operations.
+
+Fri, 05 Apr 2024 06:32:35 +0000
+### [Why you need not rush to file your ITR immediately](https://indianexpress.com/article/explained/everyday-explainers/income-tax-return-filing-it-income-tax-department-huf-9252713/)
+
+The Income-tax Department opened return filing utilities on its portal from April 1, 2024, marking the beginning of Assessment Year 2024-25. Around 23,000 taxpayers filed their income tax returns within the first three days. This early availability contrasts with the previous year when filing functionalities were delayed until May. The Department has operationalized filing functionalities for commonly used segments like ITR-1, ITR-2, and ITR-4, with ITR-6 for companies also available from April 1. However, some experts advise waiting for the Annual Information Statement (AIS) and Form 26AS, typically updated by the end of the financial year, to ensure accurate filings. These documents contain crucial details regarding TDS/TCS, interest, dividend, and other financial transactions. The delay in updating these documents is due to processes involving reporting entities like banks and financial institutions. The Andhra Pradesh Board of Intermediate Education also announced the results for the first and second year intermediate public exams (IPE) today, with over 10 lakh students appearing for the exams held from March 1 to April 20.
+
+Fri, 05 Apr 2024 05:27:30 +0000
+### [Why RBI has kept policy rates unchanged](https://indianexpress.com/article/explained/explained-economics/rbi-policy-rates-unchanged-9252604/)
+
+The Reserve Bank of India's Monetary Policy Committee (MPC) recently convened and decided to maintain the repo rate at 6.5%, with a policy stance of 'withdrawal of accommodation'. This decision, reached with a 5:1 majority, reflects confidence in the economy's overall outlook, despite challenges in certain sectors. The RBI projects GDP growth at 7% and retail inflation at 4.5% for fiscal 2024-25. While inflation has moderated broadly, elevated food inflation persists, although core inflation remains benign. The RBI aims to anchor inflation to the target sustainably. It anticipates headline inflation to ease in the coming months due to favorable factors like harvests and expectations of a normal monsoon. The RBI will likely maintain a cautious approach, prioritizing inflation alignment while supporting growth. GDP growth for FY25 is forecasted at 7%, with geopolitical tensions and trade disruptions posing risks. Despite challenges, the economy shows resilience, supported by robust manufacturing and steady investment. Inflation is projected at 4.5% for FY25, with concerns over climate-related risks and potential price pressures in nonperishable food categories. Supply-side interventions have helped temper prices, particularly in cereals. Global commodity price upticks and pressures on deposit growth may influence lending and deposit rates, with external benchmark lending rates expected to remain stable. Overall, the RBI's stance reflects a balanced approach to managing inflation and supporting economic growth.
+
+Fri, 05 Apr 2024 01:42:24 +0000
+### [Before SC’s 9-judge bench, question of whether states can levy excise duty on industrial alcohol](https://indianexpress.com/article/explained/explained-law/before-sc-can-states-levy-excise-duty-on-industrial-alcohol-9252199/)
+
+The Supreme Court is currently deliberating on whether states have the authority to regulate and tax industrial alcohol. The case involves a complex interplay between state and central powers, with arguments focusing on constitutional provisions and past judicial decisions.
+
+The central question revolves around whether states can control industrial alcohol, which is used in manufacturing processes and not for human consumption, or if this power rests exclusively with the central government.
+
+Historical legal interpretations have played a significant role in shaping the arguments. For instance, a previous Supreme Court ruling in 1989 restricted states' authority to regulate only those alcoholic beverages intended for human consumption.
+
+However, there are precedents, such as the Tika Ramji case in 1956, which suggest that states may have broader powers in certain industries under the Concurrent List.
+
+Senior Advocate Dinesh Dwivedi, representing the State of Uttar Pradesh, contends that states should retain authority over industrial alcohol unless the central government explicitly asserts control through relevant legislation.
+
+The outcome of this case could have significant implications for both state revenues and the regulatory framework governing industrial alcohol.
+
+The next hearing is scheduled for April 9. In unrelated news, the Andhra Pradesh Board of Intermediate Education will release the results of the Intermediate exams on April 12, accessible through the official website using roll number and date of birth.
+
+Fri, 05 Apr 2024 01:20:12 +0000
+### [Katchatheevu controversy: Why international agreements are best left alone in domestic politics](https://indianexpress.com/article/explained/katchatheevu-controversy-why-international-agreements-are-best-left-alone-in-domestic-politics-9252195/)
+
+The article discusses the recent controversy stirred by Prime Minister Narendra Modi's amplification of an RTI reply regarding the Katchatheevu issue, accusing the former government of "callously giving away" the island to Sri Lanka. While External Affairs Minister S Jaishankar reiterated the government's stance on the issue, he did not suggest reopening the 1974 bilateral pact on Katchatheevu, citing that it's "sub judice." The BJP's actions are seen as a political move in Tamil Nadu, but they have raised concerns both in India and Sri Lanka, especially regarding India's international credibility and diplomatic image. The article emphasizes the importance of upholding agreements and warns against unilateral actions that could harm India's reputation and relations with neighboring countries. Sri Lanka has responded maturely to the statements, emphasizing that the issue was settled long ago. The article concludes by urging caution against actions that could be exploited by external powers and damage India's diplomatic standing.
+
+Thu, 04 Apr 2024 13:54:49 +0000
+### [Why Tamil Nadu is claiming disaster relief funds from the Centre](https://indianexpress.com/article/explained/explained-law/tamil-nadu-karnataka-disaster-relief-funds-centre-9251548/)
+
+Tamil Nadu has filed a suit at the Supreme Court, alleging that the Centre is withholding national disaster relief funds following Cyclone Michaung and subsequent floods in December 2023. Similarly, Karnataka has also filed a plea claiming denial of disaster relief funds for drought-affected areas. Both states seek additional funds from the National Disaster Relief Fund (NDRF), arguing that the Centre's inaction violates the Disaster Management Act of 2005.
+
+The NDRF, established after the 2004 tsunami, provides funds for calamities such as cyclones, droughts, and floods. States facing calamities beyond their coping capacity can request funds from the NDRF. The process involves assessments by Inter Ministerial Central Teams (IMCTs) and committees, culminating in a decision by a high-level committee chaired by the Home Minister.
+
+Tamil Nadu seeks Rs 37,902 crores for Cyclone Michaung damage and Rs 2,000 crore for relief operations. Karnataka seeks Rs 18,171 crores for drought relief. Both states allege delays in fund release violate citizens' rights to equality and dignity. The legal battle follows similar disputes between opposition-ruled states and the Centre, including Kerala's recent claim regarding bill assents and borrowing powers.
+
+Thu, 04 Apr 2024 12:53:49 +0000
+### [How to check your name in the voters’ list, and what to do if it’s not there](https://indianexpress.com/article/explained/everyday-explainers/name-voters-list-check-missing-solution-9251430/)
+
+The article discusses the upcoming Lok Sabha elections in India, particularly focusing on voter registration and checking one's name in the electoral roll. It emphasizes the importance of enrolling to vote for those who have turned 18 since the last elections, as well as updating one's address if they have moved. It provides information on how to check voter registration status using various methods, such as Voter ID, mobile number, or personal details. Additionally, it highlights the process for those who cannot find their names in the electoral rolls to apply for inclusion before the upcoming phases of the elections. The article also mentions the deadlines for nomination and provides links to relevant forms on the Election Commission of India's website.
+
+Thu, 04 Apr 2024 10:50:57 +0000
+### [OpenAI’s new Voice Engine clones human speech: How this poses a danger, what the company claims](https://indianexpress.com/article/explained/explained-sci-tech/openai-new-voice-engine-uses-dangers-9251151/)
+
+OpenAI recently unveiled Voice Engine, a groundbreaking AI model capable of replicating any voice in any language using just a short audio sample. While the technology presents promising applications, such as aiding reading comprehension, enabling multilingual translations, and assisting non-verbal individuals, concerns about potential misuse have led OpenAI to delay its public release. They're actively engaging with stakeholders to address these risks, implementing usage policies, safety measures, and advocating for responsible deployment. However, apprehensions persist, echoing broader concerns about AI's societal impact. Meanwhile, the Andhra Pradesh Board of Intermediate Education is set to release results for the first and second year intermediate public exams.
+
+Thu, 04 Apr 2024 07:00:18 +0000
+### [Why has Israel killed Iranian generals in Syria and who are the Quds Force?](https://indianexpress.com/article/explained/explained-global/quds-force-israel-killed-iranian-generals-syria-attack-9250654/)
+
+Israeli warplanes conducted an airstrike on an Iranian consulate building in Damascus, Syria, resulting in at least 13 deaths, including General Mohammad Reza Zahedi, a senior leader of the Iranian Quds Force. Israel confirmed its involvement in the strike but denied that the building had diplomatic status. Iran has vowed revenge, with Supreme Leader Ayatollah Ali Khamenei stating they will make Israel regret the attack. The Quds Force is the paramilitary and intelligence wing of the Iranian Revolutionary Guard Corps (IRCG), established in 1979 after the Islamic Revolution. The IRCG operates alongside Iran's regular armed forces and is known for its military actions, espionage, and cybersecurity attacks. Tensions between Iran and Israel stem from geopolitical rivalries, with Iran viewing Israel's alliance with the US as a threat to its security and interests. The Quds Force supports militant groups like Hezbollah and has been active in Syria's civil war, aiding the Syrian government and opposing US interests. General Zahedi, killed in the strike, was a close associate of Qasem Soleimani, who was assassinated by the US in 2020. The strike raises concerns about escalating violence in the region, as both sides have engaged in proxy conflicts and covert operations against each other.
+
+Thu, 04 Apr 2024 01:37:45 +0000
+### [Why Uttarakhand govt wants to evaluate the risk of Glacial Lake Outburst Floods](https://indianexpress.com/article/explained/explained-climate/risk-from-glacial-lake-floods-9249967/)
+
+The Uttarakhand government has formed expert teams to assess the risk posed by five glacial lakes prone to Glacial Lake Outburst Floods (GLOFs) in the region. These events have caused disasters in recent years, necessitating efforts to minimize their occurrence. The National Disaster Management Authority has identified 13 such lakes in Uttarakhand out of 188 in the Himalayan states. GLOFs occur due to sudden water discharge from glacial lakes, often triggered by factors like glacial calving or landslides. Studies show rising global temperatures increase the risk of GLOFs, threatening millions of people and infrastructure. Uttarakhand has experienced major GLOF incidents, prompting the categorization of sensitive lakes into risk levels. The state's increasing temperatures further exacerbate the risk.
+
+Wed, 03 Apr 2024 12:44:46 +0000
+### [Massive earthquake hits Taiwan: What is the Ring of Fire?](https://indianexpress.com/article/explained/explained-sci-tech/earthquake-taiwan-ring-of-fire-9249383/)
+
+The article discusses a recent earthquake in Taiwan, the largest in at least 25 years, which resulted in nine deaths and over 1,000 injuries. Taiwan sits along the Pacific "Ring of Fire," known for frequent seismic activity due to tectonic plate interactions. The Ring of Fire encompasses numerous tectonic plates, causing earthquakes and volcanic eruptions. Taiwan specifically experiences earthquakes from the Philippine Sea Plate interacting with the Eurasian Plate. The article also explains how volcanoes form in the Ring of Fire through subduction, where one tectonic plate is forced beneath another. This geological phenomenon results in the high concentration of earthquakes and volcanoes in the region.
+
+Wed, 03 Apr 2024 09:58:35 +0000
+### [Why Vistara pilots are unhappy before the Air India merger](https://indianexpress.com/article/explained/explained-economics/vistara-flight-disruptions-9248889/)
+
+Vistara, a Tata group-owned airline, has experienced over 150 flight cancellations and numerous delays due to pilots going on mass sick leave, resulting from dissatisfaction with a new compensation structure. This structure reduces guaranteed pay for pilots, leading to fears of lower salaries. The situation worsened after an ultimatum from management, causing more pilots to call in sick. Additionally, concerns about career progression and rostering practices have contributed to the unrest. Vistara's CEO held a meeting with pilots, promising improvements in rostering and addressing merger concerns. Flight disruptions are expected to ease soon. The incident highlights potential challenges for the Tata group as it merges airlines, including people integration and HR issues. Meanwhile, the Andhra Pradesh Board of Intermediate Education is set to announce intermediate exam results today, affecting over 10 lakh students.
+
+Wed, 03 Apr 2024 08:56:01 +0000
+### [The US and the UK sign agreement on AI safety testing: What is the deal?](https://indianexpress.com/article/explained/explained-sci-tech/us-uk-agreement-ai-safety-testing-9248773/)
+
+The United States and the United Kingdom have signed an agreement to collaborate on developing tests for advanced AI models, following commitments made at the Bletchley Park AI Safety Summit. This partnership aims to share information about AI capabilities and risks, align scientific approaches, and accelerate the development of AI safety testing. Both countries plan to perform joint testing exercises and exchange expertise. Additionally, they intend to form similar partnerships with other nations to promote AI safety globally.
+
+In the US, the National Telecommunications and Information Administration (NTIA) has initiated consultations on the risks and benefits of widely available AI model weights, following an executive order on AI system deployment. Private industry players like Meta and OpenAI have shared their perspectives on open-source AI models. Meanwhile, lawmakers worldwide are grappling with AI regulation, with examples including India's advisory to generative AI companies and the EU's AI Act. The US has also issued an Executive Order and a blueprint for an AI Bill of Rights, serving as a potential model for other countries.
+
+In unrelated news, the Andhra Pradesh Board of Intermediate Education will announce the results for the first and second year intermediate public exams today. Over 10 lakh students took the exams, held from March 1 to April 20, and results can be checked on official websites.
+
+Wed, 03 Apr 2024 01:50:53 +0000
+### [Katchatheevu and Wadge Bank: The story of two India-Sri Lanka agreements from a half century ago](https://indianexpress.com/article/explained/explained-politics/katchatheevu-and-wadge-bank-the-story-of-two-india-sri-lanka-agreements-from-a-half-century-ago-9247710/)
+
+The article discusses the resurgence of the Katchatheevu issue by the BJP in Tamil Nadu ahead of the Lok Sabha election. The Katchatheevu island, located between India and Sri Lanka, has been a point of contention since the 1970s. In 1974, under Prime Minister Indira Gandhi, India signed an agreement ceding the island to Sri Lanka but allowing Indian fishermen access for certain purposes. The article explores the historical background of the dispute, including the ownership claims by both countries and subsequent agreements.
+
+It also highlights political maneuvering around the issue, including the role of former Tamil Nadu Chief Minister M Karunanidhi and current Chief Minister J Jayalalithaa in attempting to address the matter. Despite demands from various political parties in Tamil Nadu to retrieve Katchatheevu, Sri Lanka has refused to link its status to the fishing rights issue.
+
+The BJP has criticized the Congress and DMK for allegedly surrendering the island to Sri Lanka, but concrete steps towards reclaiming it have not been taken. The matter remains pending in the Supreme Court, with the Indian government citing it as sub judice. Sri Lankan officials have stated that there has been no official communication from India regarding the issue.
+
+Wed, 03 Apr 2024 01:35:07 +0000
+### [Why the Supreme Court gave bail to AAP’s Sanjay Singh](https://indianexpress.com/article/explained/explained-law/why-the-supreme-court-gave-bail-to-aaps-sanjay-singh-9247688/)
+
+AAP leader and Rajya Sabha MP Sanjay Singh was granted bail by the Supreme Court after the Enforcement Directorate (ED) didn't argue its case on merits. Singh was arrested in October 2023 on money laundering charges related to the alleged Delhi excise scam. While Singh isn't accused of corruption, the ED accused him of laundering proceeds from the scam. The case largely relies on statements from businessman Dinesh Arora, who allegedly implicated Singh. Singh's lawyer argued that Arora's statements lacked consistency and evidence. The ED didn't oppose bail, opting for a concession instead of arguing on merits.
+
+Wed, 03 Apr 2024 01:34:32 +0000
+### [What is Kallakkadal, which has flooded houses in Kerala’s coastal areas?](https://indianexpress.com/article/explained/what-is-kallakkadal-which-has-flooded-houses-in-keralas-coastal-areas-9247767/)
+
+High sea waves, known as swell waves, have flooded hundreds of houses in coastal areas of Kerala, particularly in Alappuzha, Kollam, and Thiruvananthapuram districts since March 31. Relief camps have been set up for affected communities. This phenomenon, called Kallakkadal in Malayalam, is coastal flooding during the pre-monsoon season caused by swell waves on the southwest coast of India. Unlike tsunamis, which result from underwater disturbances like earthquakes, swell surges are formed by distant storms generating high waves that travel thousands of kilometers. The recent flooding was triggered by a low atmospheric pressure system in the South Atlantic Ocean. Kallakkadal often lacks precursors or local wind activity, making advance warning challenging, although systems like the Swell Surge Forecast System provide some early alerts. Despite being mistaken for tsunamis, Kallakkadal is distinct and is expected to impact Kerala and other western coast regions for the next few days. INCOIS has issued alerts for coastal areas prone to sea erosion to take precautionary measures.
+
+Tue, 02 Apr 2024 12:23:25 +0000
+### [Turkey’s opposition scores ‘historic victory’ against President Erdogan’s party in local elections: What happened?](https://indianexpress.com/article/explained/everyday-explainers/turkey-opposition-victory-erdogan-elections-9247193/)
+
+Turkish President Recep Tayyip Erdogan's ruling Justice and Development Party (AK Party) suffered a significant defeat in nationwide local elections, marking its largest electoral setback since Erdogan came to power. The main opposition Republican People’s Party (CHP) won municipalities in 36 of Turkey’s 81 provinces, including the five largest cities: Istanbul, Ankara, Izmir, Bursa, and Antalya. These elections were widely viewed as a referendum on Erdogan and his party, with the AK Party losing the popular vote for the first time. 
+
+The AK Party's defeat was largely attributed to Turkey's struggling economy, marked by high inflation rates that have led to a cost of living crisis for many citizens. The opposition's victory is expected to bolster their morale and strengthen their position as they were previously divided after their defeat in the 2023 presidential and parliamentary elections. 
+
+The decisive win of Ekrem Imamoglu in Istanbul solidifies his role as a prominent opposition figure and potential future presidential contender. This defeat could also signal a turning point in Erdogan's political career, potentially thwarting his plans to extend his rule beyond 2028.
+
+Tue, 02 Apr 2024 11:09:42 +0000
+### [Sanjay Singh gets bail: What are the ED’s allegations against the senior AAP leader and MP?](https://indianexpress.com/article/explained/sanjay-singh-bail-ed-allegations-aap-delhi-excise-9247016/)
+
+The Supreme Court granted bail to Sanjay Singh, a senior AAP leader, in a case related to the alleged Delhi excise scam. This decision came after the Enforcement Directorate did not oppose it. Singh was arrested in October 2023 and accused of being a "key conspirator" in the scam, where private entities allegedly received wholesale liquor business in exchange for kickbacks. The ED claimed the scam's proceeds amounted to over Rs 292 crore, some of which allegedly funded AAP's election campaign in Goa. Singh's alleged involvement included forming a special purpose vehicle to launder money generated from the scam. Previously, lower courts had denied Singh bail, stating there was prima facie evidence of his involvement in money laundering.
+
+Tue, 02 Apr 2024 08:32:43 +0000
+### [Amidst Lok Sabha elections, why fake news, disinformation and fact-checking matter](https://indianexpress.com/article/explained/everyday-explainers/lok-sabha-polls-fake-news-fact-checking-9246488/)
+
+April 2 is International Fact-checking Day, established by the International Fact-checking Network in 2016 to recognize the importance of accurate information. In the midst of elections in India, various threats like misinformation, generative AI images, and deepfakes are prevalent. Fact-checking has never been more crucial, but what exactly is it? Fake news, defined as fabricated stories lacking verifiable facts, sources, or quotes, has a long history, notably with "yellow journalism" in the US in the 1890s. Although Donald Trump popularized the term "fake news," its documented use dates back to the 1890s. Misinformation is false information shared unknowingly, while disinformation is knowingly spread falsehoods. Fact-checking involves verifying facts, essential to combatting false and misleading information. With the democratization of mass communication tools, misinformation thrives, particularly in regional languages in India. Here are some tips to safeguard against fake news: check the source, verify news stories on credible outlets, verify images, and rely on fact-checking websites.
+
+Tue, 02 Apr 2024 02:00:22 +0000
+### [Why Supreme Court barred unregulated soil extraction for linear projects](https://indianexpress.com/article/explained/explained-law/why-supreme-court-barred-unregulated-soil-extraction-for-linear-projects-9245830/)
+
+The Supreme Court recently overturned a 2020 notification from the Environment Ministry exempting extraction of ordinary earth for linear projects, like road and railway construction, from needing Environmental Clearance. The exemption was challenged for being arbitrary and bypassing legal procedures. The NGT instructed the Ministry to review the exemption, but it was only acted upon after the matter reached the Supreme Court. The Court found the exemption to be arbitrary and lacking in necessary safeguards. This isn't the first time such exemptions have faced legal scrutiny. Similar instances in the past have led to judicial intervention. In other news, the Andhra Pradesh Board of Intermediate Education is set to announce the results of the first and second year intermediate public exams today.
+
+Tue, 02 Apr 2024 01:40:31 +0000
+### [90 years of the Reserve Bank of India (RBI): Its history, how it navigated times of crisis](https://indianexpress.com/article/explained/explained-economics/rbi90-snapshots-from-history-9245835/)
+
+The article discusses the history and key events surrounding the Reserve Bank of India (RBI) over the last 90 years. Established in 1935, the RBI has played a crucial role in monetary stability, currency management, and banking regulation in India. The article highlights significant moments, such as the reforms of 1991, where the RBI took measures to stabilize the economy amidst a crisis. It also touches on key figures like former governors Manmohan Singh and D Subbarao, who navigated challenges and disagreements with the government. The article also covers events like demonetization in 2016 and the RBI's response to the COVID-19 pandemic, where it implemented accommodative monetary policies. Additionally, it mentions the RBI's efforts in addressing issues like asset quality and promoting digitization of payments.
+
+Mon, 01 Apr 2024 15:19:23 +0000
+### [Utkala Dibasa or Odisha Day: Story of the state’s formation](https://indianexpress.com/article/explained/explained-history/utkala-dibasa-odisha-day-state-formation-9245492/)
+
+April 1 is celebrated as Odisha Day, marking the formation of the state of Odisha in 1936. It was carved out from Bihar and Orissa Province, with the addition of Koraput and Ganjam districts from the Madras Presidency. Odisha is one of the two Indian states with a formation date predating Independence, the other being Bihar, and it was the first state to be consciously created on linguistic basis.
+
+The region now known as Odisha has a history dating back 3,000 years, with various local dynasties ruling over it. In 1568, it lost its independence to the Bengal Sultanate, later coming under Maratha and British rule. Despite movements for linguistic states emerging in the late 19th century, it remained part of the Bengal Presidency until 1936.
+
+The movement for Odisha's creation gained momentum in the late 19th century, focusing on cultural revival and harking back to its ancient past. The Utkal Sabha, formed in 1882, and the Utkal Sammilani, formed in 1903 under Madhusudan Das's leadership, played significant roles. With the Indian National Congress adopting linguistic reorganization of provinces as a key agenda, Odisha Province was created in 1936 after extensive inquiries by three committees.
+
+The new province was carved from Bihar and Orissa Province, Madras Province, and Central Provinces. However, 26 princely states within the Eastern States Agency remained until Independence. Today, Odisha celebrates its history and cultural heritage on April 1.
+
+Mon, 01 Apr 2024 15:03:00 +0000
+### [What is ‘Havana syndrome’, linked to a Russian intelligence unit?](https://indianexpress.com/article/explained/explained-global/havana-syndrome-russian-intelligence-unit-9245485/)
+
+The Kremlin has dismissed a joint media investigation suggesting Russian military intelligence might be behind the 'Havana syndrome', a mysterious health condition affecting US diplomats and spies worldwide. The investigation implicates a Russian unit in using "directed energy" weapons to target US officials' brains. The syndrome, characterized by symptoms like hearing sounds, nausea, and memory loss, originated in Cuba in 2016, spreading to other countries including China and India. While initially suspected to be a "sonic attack," further research suggests high-powered microwaves may be involved, possibly causing permanent brain damage. The syndrome's occurrence in India has been limited, with suspicion of foreign involvement.
+
+Mon, 01 Apr 2024 14:57:13 +0000
+### [On road to Viksit Bharat, India should target per capita, not aggregate, GDP. Here’s why](https://indianexpress.com/article/explained/explained-economics/viksit-bharat-india-gdp-per-capita-china-comparison-economy-growth-9245440/)
+
+The article discusses the economic growth trajectories of China and India since 1990. At the start of the period, China's per capita GDP was lower than India's, but over the next few decades, China experienced rapid growth, becoming the world's second-largest economy by 2010. In contrast, India's growth was slower, and while its nominal GDP increased, its relative position in the global economy improved only marginally.
+
+The article emphasizes the importance of per capita GDP alongside aggregate GDP, particularly for countries like India with large populations. It discusses the significance of sustained economic growth rates over time and highlights China's remarkable transformation, both in terms of aggregate and per capita GDP.
+
+India aims to achieve developed status by 2047, and improving per capita GDP is crucial for this goal. While India is currently classified as a lower-middle-income country and China as an upper-middle-income country, both nations aspire to reach higher income brackets in the future.
+
+Overall, the article underscores the importance of sustained economic growth, particularly in terms of per capita income, for achieving developmental goals and enhancing global stature.
+
+Mon, 01 Apr 2024 10:14:06 +0000
+### [125 years of Kodaikanal Solar Observatory: How the Great Drought of 1876 led to its establishment](https://indianexpress.com/article/explained/explained-sci-tech/great-drought-1876-solar-observatory-kodaikanal-9244941/)
+
+The article explores the historical significance and development of solar observation in India, particularly focusing on the establishment of the Madras Observatory and later the Kodaikanal Solar Observatory (KoSO). It highlights the role of astronomers and physicists in studying the Sun's activities and their impact on Earth's weather patterns, particularly during events like the Great Drought of 1876-1878. 
+
+The article details the efforts to establish the KoSO, including the selection of an ideal location in Kodaikanal, Tamil Nadu, and the subsequent construction and operation of the observatory. It discusses the instruments and observations conducted at KoSO, including the discovery of the Evershed Effect and the expansion of its research areas beyond solar physics.
+
+Furthermore, it mentions the digitization of solar images at KoSO, creating a vast repository of data for research purposes. The article concludes by highlighting KoSO's current capabilities, including advanced instruments for solar observation.
+
+In addition to the discussion on solar observation, the article briefly mentions the announcement of exam results by the Andhra Pradesh Board of Intermediate Education.
+
+Sun, 31 Mar 2024 14:11:31 +0000
+### [Why are decorative eggs, chocolate and rabbits associated with Easter celebrations?](https://indianexpress.com/article/explained/everyday-explainers/easter-eggs-chocolate-rabbits-history-9243687/)
+
+The article discusses the traditions and symbolism surrounding Easter Sunday. It begins by highlighting the transition from the solemnity of Good Friday to the celebration of Jesus Christ's resurrection. Various customs associated with Easter are mentioned, including church services, hymns, parades, and feasts. The incorporation of Easter eggs and the Easter bunny into the holiday is explored, with historical roots traced back to Pagan traditions and medieval Christian practices.
+
+Additionally, the article discusses the significance of Holy Week and Lent leading up to Easter, as well as the determination of the Easter date based on the full Moon. It delves into the history of decorating eggs, the introduction of chocolate to Europe, and the tradition of hunting for Easter eggs.
+
+The origins of the Easter bunny tradition, believed to have originated in Germany and popularized by Queen Victoria in England, are also explained. Finally, the article briefly mentions the announcement of exam results by the Andhra Pradesh Board of Intermediate Education.
+
+Sun, 31 Mar 2024 10:36:19 +0000
+### [What is the ‘Click here’ trend on X, and why has it been criticised?](https://indianexpress.com/article/explained/explained-sci-tech/click-here-trend-meme-alt-text-criticism-9243358/)
+
+The "Click here" trend on social media platform X (formerly Twitter) has gained traction among major accounts like BJP, Congress, AAP, Barcelona, and PSG. It involves posting rectangular photos with white backgrounds and black text saying "Click here," accompanied by an ALT box that opens to display additional text when clicked. This trend has been used for jokes, marketing, and spreading slogans.
+
+X promotes this as a way to improve accessibility for visually impaired users, as screen readers can read the alt text accompanying images. Alt text also aids in SEO by helping Google understand webpage content. However, some have criticized the trend for misusing accessibility features, such as when major brands like McDonald’s and Red Bull used it for memes instead of its intended purpose.
+
+Critics argue that using alt text for jokes or unrelated information undermines its accessibility purpose. This controversy highlights the importance of content creators understanding and using alt text appropriately. Studies have shown a significant lack of alt text usage across websites and social media, indicating a need for better awareness and implementation of accessibility features.
+
+Sun, 31 Mar 2024 06:41:46 +0000
+### [Did Congress ‘give away’ Katchatheevu island to Sri Lanka?](https://indianexpress.com/article/explained/explained-politics/katchatheevu-island-modi-nehru-congress-dmk-9242985/)
+
+Prime Minister Narendra Modi recently criticized the Congress for its decision to relinquish the island of Katchatheevu, calling it "eye-opening and startling." This criticism stems from documents suggesting that the Congress, under Indira Gandhi's leadership, did not prioritize the island's importance and even considered giving up claims to it. Katchatheevu, a small uninhabited island between India and Sri Lanka, holds significant political resonance in Tamil Nadu, where it is a hot-button issue. 
+
+Historically, Katchatheevu was controlled by various entities, including the Jaffna kingdom of Sri Lanka and the Ramnad zamindari of India. However, in 1974, as part of the Indo-Sri Lankan Maritime agreement, Indira Gandhi ceded Katchatheevu to Sri Lanka, believing it held little strategic value and to strengthen ties with Sri Lanka. This decision sparked protests, particularly in Tamil Nadu, where concerns about fishing rights and livelihoods persist.
+
+Since then, there have been ongoing demands, particularly from Tamil Nadu politicians, to retrieve Katchatheevu. Efforts have included legal petitions and appeals to the central government. However, the Union government's stance remains largely unchanged, asserting that no Indian territory was ceded, and sovereignty was not relinquished. The issue continues to be contentious, with little action taken by the government due to the complexities involved, as stated by the former Attorney General.
+
+In Tamil Nadu, this issue remains politically charged, with leaders like MK Stalin of the DMK urging Prime Minister Modi to address the matter. However, concrete steps towards reclaiming Katchatheevu have yet to be taken.
+
+Sun, 31 Mar 2024 06:15:35 +0000
+### [Crashes, blowout, leadership shake-up: What explains the Boeing MAX’s issues?](https://indianexpress.com/article/explained/boeing-crashes-blowout-leadership-resign-safety-troubles-9242971/)
+
+Boeing is facing significant challenges with its 737 MAX aircraft, leading to a top-tier management shake-up. CEO David Calhoun will step down at the end of the year, while Stan Deal, head of commercial airplanes, has been replaced by Stephanie Pope. The company's chairman will also be replaced. These changes come after a series of safety concerns, including a recent midair door plug blowout on an Alaska Airlines 737 MAX 9.
+
+The incident, which caused an emergency landing, highlighted ongoing issues with the aircraft's safety. Critics argue that Boeing's focus on profits over quality may be at the root of these problems. The company's philosophy shifted after its merger with McDonnell Douglas in 1997, prioritizing cost optimization and efficiency. Boeing has also faced challenges with the quality of parts, including those manufactured by suppliers like Spirit AeroSystems.
+
+Despite these challenges, Indian carriers have ordered a significant number of 737 MAX aircraft. The Indian aviation regulator is closely monitoring the situation, conducting inspections and staying in touch with Boeing and airlines operating the aircraft.
+
+In other news, the Andhra Pradesh Board of Intermediate Education will announce the results of the Intermediate exams on April 12, accessible through the official website using roll number and date of birth. Last year, the pass percentages were 61% for first year and 72% for second year.
+
+Sat, 30 Mar 2024 09:48:46 +0000
+### [Meet EVI, the world’s first conversational AI with emotional intelligence from Hume](https://indianexpress.com/article/explained/explained-sci-tech/ai-hume-emotional-intelligence-9241823/)
+
+Hume, a New York-based research lab and technology company, has developed what they claim to be the first conversational AI with emotional intelligence. This new technology, named Empathic Voice Interface (EVI), aims to revolutionize human-AI interactions by understanding users' emotions and providing empathic responses. Powered by an empathic large language model (eLLM), EVI can interpret emotional expressions and emulate tones of voices, enhancing the quality of conversations. Hume believes that AI should serve human well-being, guided by emotions, according to the philosophy of the company's namesake, David Hume.
+
+The technology has potential applications in various fields, including AI assistants, customer support, and therapy. It integrates seamlessly into existing applications and offers a humanlike conversational experience. Users can interact with the demo on Hume's website, where the AI responds to their prompts while visually indicating their emotional state. Although not flawless, the AI impressively gauges emotional states accurately most of the time, delivering a voice quality nearly indistinguishable from a real human.
+
+Hume's mission is to ensure that AI serves human goals and emotional well-being, guided by the understanding that emotions drive choice and well-being. The company's empathic AI technology represents a significant advancement in human-AI interaction, with potential implications for various industries.
+
+Sat, 30 Mar 2024 09:24:58 +0000
+### [Remembering Vaikom satyagraha, a 100 years later](https://indianexpress.com/article/explained/explained-history/remembering-vaikom-satyagraha-a-100-years-later-9241758/)
+
+The article recounts the Vaikom Satyagraha, a significant non-violent protest that began on March 30, 1924, in the temple town of Vaikom, Travancore. This movement was part of a larger struggle against caste discrimination and for temple entry rights for lower castes, employing Gandhian methods of civil disobedience.
+
+In the early 20th century, despite educational advancements among lower castes like the Ezhavas, societal and ritual discrimination persisted, with upper castes dominating government jobs. The agitation for temple entry was initiated by Ezhava leader T.K. Madhavan in 1917, gaining momentum with the involvement of the Indian National Congress and Mahatma Gandhi's support.
+
+The satyagraha focused on gaining access to roads around the Vaikom temple rather than the temple itself. Despite arrests and counter-agitations, the protesters remained steadfast. The death of the Maharaja of Travancore in 1924 and subsequent negotiations led by Gandhi resulted in a compromise in 1925, opening three of the four roads to all castes.
+
+The movement, which lasted over 600 days, demonstrated unity across caste lines and highlighted the issue of untouchability in India. Although the final compromise was seen as inadequate by some, including Periyar, the 1936 Temple Entry Proclamation by the Maharaja of Travancore was a landmark victory, abolishing the ban on temple entry for marginalized castes.
+
+The article also mentions that the Andhra Pradesh Board of Intermediate Education will announce Intermediate exam results on April 12, 2024, with the exams having taken place from March 1 to April 20, 2024. Last year's pass percentages were 61% for the first year and 72% for the second year, with girls outperforming boys. The results will be available on the official website.
+
+This summary captures the essence of the article, highlighting the historical context, key events, and outcomes of the Vaikom Satyagraha, as well as providing a brief update on an unrelated educational announcement.
+
+Sat, 30 Mar 2024 06:37:44 +0000
+### [Jacob Zuma banned from running in South Africa elections: All you need to know](https://indianexpress.com/article/explained/explained-global/jacob-zuma-banned-south-africa-elections-9241472/)
+
+South Africa's Election Commission has disqualified former President Jacob Zuma from running in the country's upcoming elections in May due to his 2021 conviction and imprisonment for over a year, which under the constitution bars him from holding public office. Zuma, who has until April 2 to appeal the decision, leads the new uMkhonto weSizwe (MK) party, which is showing potential to challenge the African National Congress's (ANC) dominance in polls. Despite the disqualification, Zuma is expected to continue his campaign against the ANC. His political career includes serving as president from 2009 to 2018, and his tenure was marked by controversies including corruption allegations and a significant relationship with the Gupta family, leading to accusations of state capture. Zuma resigned in 2017 amidst political pressure and was later imprisoned in 2021 for refusing to appear at a corruption inquiry, although he was released on medical parole after a few months.
+
+Sat, 30 Mar 2024 01:36:03 +0000
+### [An Expert Explains: Why US allowed UNSC resolution on Gaza ceasefire to pass](https://indianexpress.com/article/explained/an-expert-explains-why-us-allowed-unsc-resolution-on-gaza-ceasefire-to-pass-9240986/)
+
+The article discusses a significant development in the UN Security Council (UNSC), where the US abstained from vetoing a resolution demanding an immediate ceasefire between Israel and Hamas, and the release of all hostages. This move is notable because historically, the US has used its veto power to support Israel. The abstention reflects a shift in US domestic politics, where there is a growing division over the country's stance on Israel, particularly in light of the upcoming presidential election. President Biden's administration is considering the Arab and Muslim vote, as well as the left wing of the Democratic party, which have been critical of Israel's actions.
+
+The abstention also signals a change in the US's approach to Israel at the international level. Despite the US's long-standing support for Israel, there have been instances, such as during the Obama administration, where the US has distanced itself from Israeli policies. The UNSC resolution, while prescriptive, faces limitations in enforcement if the targeted country does not comply, as is the case with Israel.
+
+The article also touches on the broader US-Israel relationship, suggesting that despite the current political messaging, the fundamental partnership between the two countries, including aid and defense cooperation, is unlikely to deteriorate. The US's commitment to Israel remains strong, exemplified by a 10-year, $38 billion aid program and joint projects like the Iron Dome.
+
+The situation is further complicated by the internal politics of both countries, with the US Republicans seeking to capitalize on the situation and the Democrats distancing themselves from Israeli Prime Minister Netanyahu while maintaining support for Israel itself.
+
+In summary, the US's abstention in the UNSC is a significant political message that reflects changing dynamics within US domestic politics and its international relations with Israel. However, it is not expected to fundamentally alter the longstanding US-Israel alliance or resolve the ongoing conflict. The article concludes with insights from Arun K Singh, a former Indian Ambassador to Washington DC and Tel Aviv.
+
+Fri, 29 Mar 2024 15:02:27 +0000
+### [Why Good Friday is observed, and why its date changes every year](https://indianexpress.com/article/explained/explained-culture/good-friday-jesus-christ-significance-origin-9240703/)
+
+Good Friday is a significant day for Christians, marking Jesus Christ's crucifixion. Despite its somber origins, it's called "Good" because it represents the day Jesus made a sacrifice for humanity's sins. The term "Good" historically signifies a day of religious observance. The date of Good Friday varies annually, aligning with the first Sunday after the full Moon following the spring equinox. This variability is due to the method used to calculate Easter, which is independent of the Earth's actual motion around the Sun and time zones. Different Christian denominations may observe Easter on varying dates, with the Eastern Orthodox Church typically celebrating it later due to the Julian calendar. Good Friday is observed with various traditions worldwide, including re-enactments and church services, to honor Jesus's sacrifice and teachings. The Holy Week leading to Easter also includes Palm Sunday, commemorating Jesus's entry into Jerusalem.
+
+Fri, 29 Mar 2024 13:14:58 +0000
+### [With less than 150 Great Indian Bustards remaining in the wild, what’s driving their extinction?](https://indianexpress.com/article/explained/great-indian-bustard-threats-conservation-power-9240502/)
+
+The Supreme Court of India has decided to revisit its April 2021 directive that mandated burying all power lines in habitats of the Great Indian Bustard (GIB), a critically endangered bird, due to the central government's argument that the order is "practically impossible to implement" over extensive distances. The court has set up a seven-member committee to suggest measures to conserve the GIB and determine crucial areas where power lines might need to be buried.
+
+The GIB, with fewer than 150 remaining in the wild, faces severe threats from power lines that criss-cross its habitats in the Kutch and Thar deserts. These regions are also key to India's renewable energy expansion due to their solar and wind energy potential. In 2020, a Wildlife Institute of India study estimated that power lines in the area kill about 84,000 birds annually, with the GIB being particularly vulnerable due to its size and frontal vision limitations.
+
+Initially, the Supreme Court ordered that power lines in critical GIB habitats be buried to mitigate this threat, disregarding the associated costs. However, the central government has since raised concerns about the feasibility of this approach, citing high costs, technical challenges, and safety issues. They argued that underground cables are impractical for long-distance high-voltage power transmission and emphasized the importance of these areas for renewable energy, vital for meeting India's energy demands and international climate commitments.
+
+In light of these challenges, the Supreme Court has indicated it may narrow the scope of its order from covering 88,636 sq km to prioritizing 13,696 sq km of the most critical habitat areas for the GIB in Rajasthan and Gujarat. The expert committee is expected to submit its recommendations by July 31. This case highlights the complex balance between developmental goals and wildlife conservation.
+
+Fri, 29 Mar 2024 10:49:59 +0000
+### [What explains the frequent disagreements between state governments and Governors?](https://indianexpress.com/article/explained/state-government-governors-powers-disagreements-9240141/)
+
+The article discusses the ongoing conflict between the Kerala state government and the Governor, reflecting a broader issue of friction between state governments and Governors across India. Here's a summary:
+
+- **Kerala's Conflict**: The Kerala government has approached the Supreme Court, challenging the withholding of assent to several Bills by the President and the Governor. The state alleges that the Governor referred seven Bills to the President without any stated reason, some pending for up to two years. The Left Democratic Front-led government contends that this act is unconstitutional and lacks good faith.
+
+- **Governor's Role**: The Governor, though intended to be an apolitical figure acting on the council of ministers' advice, holds constitutional powers like assenting to state Bills and determining majority deadlines. However, there's no clear protocol for public engagement between the Governor and the state when opinions differ, traditionally managed by mutual respect.
+
+- **Historical Friction**: Instances of conflict have included decisions on government formation, majority deadlines, Bill approvals, and public criticism of state administrations. Notable events include the dissolution of the J&K Assembly in 2018, the short-lived Maharashtra government in 2019, and various comments and actions by Governors in West Bengal, Nagaland, and Kerala.
+
+- **Allegations of Central Influence**: Since the 1950s, there have been accusations that the Centre uses the Governor's position to destabilize state governments. Dismissals of state governments have occurred frequently, especially between 1971 and 1990, but have decreased with the rise of coalition governments and regional parties.
+
+- **Experts' Views**: Constitutional experts argue that Governors have become political appointees, leading to a fundamental flaw in the Constitution. The Governor is answerable only to the Centre, not the people, which creates a conflict of interest.
+
+- **Lack of Reforms**: Despite various commissions recommending reforms to the Governor's selection and tenure, including impeachment provisions, no government has implemented these suggestions.
+
+- **Unrelated Case**: The article also mentions the arrest of Ajit P Menon, a close aide of the Cox and Kings owner, in connection with a Rs 400 crore Yes Bank fraud case.
+
+This summary captures the essence of the article, highlighting the tension between state governments and the role of Governors in India's political landscape. If you need more details on any specific part, feel free to ask!
+
+Fri, 29 Mar 2024 10:48:22 +0000
+### [Museum files lawsuits to ‘protect’ dignity of Michelangelo’s David: A look at Italy’s cultural heritage code](https://indianexpress.com/article/explained/explained-law/lawsuits-michelangelo-david-italy-cultural-heritage-code-9240185/)
+
+Michelangelo's David, completed in 1504 and housed at the Galleria dell’Accademia in Florence, is a seminal piece of Italian Renaissance art. Recently, concerns have emerged about the statue's religious and political significance being undermined by the proliferation of souvenirs in Florence that inappropriately focus on David's genitalia. In response, Cecilie Hollberg, the gallery's director, has initiated legal actions under Italy's cultural heritage code, which protects national treasures from disparaging and unauthorized commercial use. This code allows cultural institutions to demand a concession fee for reproductions and ensures that uses align with the artwork's cultural purposes.
+
+Recent legal precedents include a 2023 ruling against GQ Italia for an unauthorized magazine cover featuring David, and a 2022 decision that prohibited a German company from selling a puzzle of Leonardo Da Vinci’s Vitruvian Man. These cases illustrate a shift towards enforcing longer-term protections for artworks beyond the typical copyright terms specified by the Berne Convention, which protects artworks for the artist’s lifetime plus 70 years. Once copyright expires, artworks usually enter the public domain, although Italy's approach under its cultural heritage code might challenge this standard, as it extends protections indefinitely. This ongoing legal framework development is testing the balance between public domain rights and cultural preservation.
+
+Fri, 29 Mar 2024 09:43:38 +0000
+### [PM Modi speaks of returning Rs 3,000 crore attached by ED to West Bengal’s poor: How ED attaches cash](https://indianexpress.com/article/explained/pm-modi-ed-west-bengal-cash-attach-procedure-9240001/)
+
+Prime Minister Narendra Modi is considering legal avenues to return approximately Rs 3,000 crore seized by the Enforcement Directorate (ED) in West Bengal to the state's impoverished citizens. This statement was made during a conversation with Amrita Roy, a BJP candidate, and was later criticized by the TMC for allegedly breaching the Model Code of Conduct.
+
+The article explains how the ED handles seized assets under the Prevention of Money Laundering Act (PMLA). The ED conducts searches with a warrant, seizing assets with independent witnesses present. Previously, seized cash was held in fixed deposit accounts until case resolution, with the funds being returned with interest if the accused was acquitted, or deposited into the government treasury upon conviction. Valuables like gold were stored in lockers.
+
+In 2018, the process was streamlined, and now seized funds are deposited directly into the treasury via personal deposit accounts, without accruing interest. The attachment aims to prevent the accused from benefiting from the assets until the trial concludes.
+
+The ED has 180 days post-attachment to secure confirmation from the Adjudicating Authority. Confirmed attachments allow the ED to take possession, even issuing eviction notices for immovable property. However, these orders can be contested in the PMLA Appellate Tribunal and higher courts.
+
+The article also details how the ED manages properties of no immediate use, such as appointing a custodian or auctioning post-trial. It outlines the ED's rights to claim profits from businesses and rent from residences attached during trials. Changes to the handling of attached vehicles are also mentioned, allowing the accused to use them while paying rent set by the transport department.
+
+Lastly, the article briefly touches on a viral video of cricketer Virat Kohli patting Rohit Sharma during a match, unrelated to the main content. 
+
+Please note that this summary is based on the information provided and my last update in 2021; for the most current details, it's best to refer to the latest reports or official statements.
+
+Fri, 29 Mar 2024 01:09:41 +0000
+### [Kerala govt goes to SC over Governor withholding assent to Bills: The issues and the law](https://indianexpress.com/article/explained/explained-law/governors-assent-to-state-laws-9239214/)
+
+The Kerala government has approached the Supreme Court challenging the actions of Governor Arif Mohammed Khan and President Droupadi Murmu regarding the withholding of assent to several state bills. The Governor withheld assent to seven bills, some for up to two years, and referred them to the President, who withheld assent to four bills without providing reasons. Kerala argues that this practice is unconstitutional and lacks good faith, asserting that it subverts the functioning of the state legislature and undermines its legislative authority as outlined in Articles 200 and 201 of the Indian Constitution.
+
+Article 200 allows the Governor three options after a bill is passed by the state legislature: assent, withhold assent, or reserve it for the President's consideration. There is no specified timeline for these actions, which has led to prolonged periods of inaction. The President, under Article 201, can withhold assent but must return the bill with recommended amendments for reconsideration by the state legislature.
+
+This legal struggle highlights the ongoing conflict between state governments led by opposition parties and Governors appointed by the central government. Similar issues have arisen in Tamil Nadu, Telangana, and Punjab, with state governments challenging the Governors' refusals to assent to legislation, suggesting a pattern of political rivalry and interference that potentially disrupts state governance.
+
+The Supreme Court previously indicated that the term "as soon as possible" implies a constitutional obligation for timely decisions on bills, yet it has not set a definitive timeline. This issue remains central to the Kerala government's petition, as it seeks a resolution to ensure that state legislatures can function effectively without undue delay or obstruction from the Governor or the President.
+
+Thu, 28 Mar 2024 14:18:01 +0000
+### [Why thousands of doctors are protesting in South Korea](https://indianexpress.com/article/explained/explained-global/doctors-south-korea-protests-reason-9238739/)
+
+In South Korea, thousands of junior doctors have been on strike for approximately six weeks, protesting a government proposal to significantly increase medical school admissions and the number of physicians. This action has led to disruptions in hospital operations nationwide, with cancellations of surgical procedures and emergency rooms turning away patients.
+
+The junior doctors are protesting poor working conditions and inadequate pay, insisting these issues be resolved before increasing the physician count. They argue that the plan to increase the number of junior doctors, rather than hiring more senior staff, will exacerbate the problem due to their longer working hours and lower labor costs. Reports suggest that junior doctors typically work 80 to 100 hours per week.
+
+The government contends that more doctors are needed to address healthcare demands, particularly in rural areas, and to avoid an expected shortage of 15,000 doctors by 2035. Following the protests, the government initially took a firm stance, issuing back-to-work orders and threatening prosecution for non-compliance. However, they have recently expressed willingness to dialogue and consider suggestions to improve the plan.
+
+Senior doctors at major hospitals have now joined the protest, further pressuring the government by submitting their resignations, although they continue to work. They demand that the government first abandon the plan to increase medical school admissions before any negotiations can proceed.
+
+The medical community in South Korea, which is considered among the best in the world, generally believes that the number of doctors is sufficient and argues that the government’s proposed figures for increased admissions are arbitrary and lack transparency. They emphasize that without addressing the issues of pay and overwork among junior doctors, the plan to increase the number of physicians will not be effective in improving the healthcare system.
+
+Thu, 28 Mar 2024 08:43:55 +0000
+### [Explained: The push for nuclear energy as climate solution](https://indianexpress.com/article/explained/explained-climate/nuclear-energy-climate-solution-problems-india-9237794/)
+
+The article discusses a significant Nuclear Energy Summit held in Brussels, attended by representatives from 30 countries. The summit, organized by the International Atomic Energy Agency (IAEA), aimed to promote nuclear energy as a key component in addressing climate change and enhancing energy security, despite lingering concerns from incidents like Fukushima and the ongoing crisis at Ukraine's Zaporizhzhya nuclear plant.
+
+The IAEA has been actively promoting nuclear power through initiatives like 'Atoms4Climate' and engaging with climate conferences (COPs) to integrate nuclear solutions into global climate strategies. Despite its benefits of low emissions and constant availability for electricity generation, nuclear energy faces challenges such as high costs, lengthy construction times, and stringent regulations, which have hindered its rapid adoption compared to renewable sources like solar and wind.
+
+Globally, the number of nuclear reactors has slightly decreased over the past two decades, and nuclear energy's share in global electricity production has been declining. However, recent climate goals have reignited interest in expanding nuclear capacity, with ambitious targets like tripling nuclear energy capacity by 2050 discussed at recent COP meetings.
+
+India, with its modest but growing nuclear capacity, is planning significant expansions, though it has not committed to the tripling target. Key figures in India's nuclear sector argue for a more aggressive expansion to meet increasing clean energy demands.
+
+Overall, while nuclear energy is recognized as a clean and reliable energy source, its growth is impeded by technological and financial challenges, demanding greater innovation and investment to realize its potential in the global energy mix.
+
+Thu, 28 Mar 2024 03:45:59 +0000
+### [How will T+0 settlement cycle benefit investors, which securities are eligible?](https://indianexpress.com/article/explained/explained-economics/t0-settlement-cycle-9236796/)
+
+The article discusses the introduction of the T+0 settlement cycle in the Indian stock market. Here's a summary:
+
+- **BSE and NSE** have introduced **T+0 settlement**, a same-day settlement cycle, on an optional basis for a select group of 25 securities.
+- This follows operational guidelines issued by **SEBI** last week for a shorter settlement cycle.
+- The T+0 cycle allows for the settlement of trades on the same day, providing immediate credit of funds and securities to sellers and buyers, respectively.
+- It aims to increase cost and time efficiency, transparency, and strengthen risk management in the securities market ecosystem.
+- The T+0 cycle is expected to free up capital, enhance market efficiency, and improve risk management by ensuring trades are backed by upfront funds and securities.
+- The 25 securities include companies like **Ambuja Cements, Ashok Leyland, Bajaj Auto**, and others.
+- All investors meeting the prescribed requirements by Market Infrastructure Institutions (MIIs) can participate in T+0 trading.
+- The T+0 trading session runs from **09:15 AM to 1:30 PM**, with settlement completed by **4:30 PM** on the same day.
+- A price band of **+100 basis points** is set for the T+0 segment, adjustable after every 50 basis points movement in the T+1 market.
+
+The article also mentions various unrelated topics, including cultural articles and a legal matter concerning the family of late Major Anuj Sood. However, the primary focus is on the financial market development.
+
+Thu, 28 Mar 2024 02:30:51 +0000
+### [How the H5N1 bird flu threatens the very existence of birds and mammals](https://indianexpress.com/article/explained/explained-global/h5n1-bird-flu-mammals-9236846/)
+
+Article found but Couldn't summarize
+
+Thu, 28 Mar 2024 02:00:31 +0000
+### [State of employment in India: What a new report says about youths and women, concerns and caution](https://indianexpress.com/article/explained/explained-economics/state-of-employment-in-india-what-a-new-report-says-about-youths-women-concerns-caution-9237158/)
+
+The **India Employment Report 2024** highlights several key trends in the Indian labor market:
+
+- **Labor Market Indicators**: There have been improvements in labor force participation rate, workforce participation rate, and unemployment rate after a long-term decline from 2000-2019. These improvements occurred during economic distress, including the Covid-19 pandemic.
+
+- **Employment Conditions**: The report expresses concerns over poor employment conditions, such as the reversal of the transition to non-farm employment, an increase in self-employment and unpaid family work (particularly among women), lower quality of youth employment compared to adults, and stagnant or declining wages.
+
+- **Employment Condition Index**: The index improved from 2004-05 to 2021-22, but disparities exist among states, with some consistently performing poorly and others well.
+
+- **Informal Employment**: Informal employment has risen, with about half of the formal sector jobs being informal. Self-employment and unpaid family work have increased, especially for women, with 82% of the workforce in the informal sector and nearly 90% informally employed.
+
+- **Self-Employment**: Remains the primary source of employment at 55.8% in 2022, with casual and regular employment at 22.7% and 21.5%, respectively. There was a shift from regular employment to self-employment from 2019 to 2022.
+
+- **Gender Gap**: The female labor force participation rate is one of the world's lowest and has seen a significant decline from 2000 to 2019, followed by an increase from 2019 to 2022. However, it remains much lower than the global average.
+
+- **Youth Employment**: There has been an increase in youth employment, but the quality is a concern. Unemployment among educated youths has intensified, with a higher rate among young women, especially graduates.
+
+- **Non-Farm Employment**: The transition towards non-farm employment reversed after 2018-19, with an increase in agricultural employment.
+
+The report suggests that while there are signs of improvement in some labor market indicators, significant challenges remain, particularly in terms of employment quality, gender disparities, and the informal sector's dominance.
+
+Additionally, the article mentions **Aanchal Magazine**, a Senior Assistant Editor with The Indian Express, who specializes in macroeconomy and fiscal policy reporting.
+
+In a separate note, Apple has issued threat notifications to users in India and 91 other countries about potential attacks, advising caution with links and attachments from unknown senders. The company has updated its support page with safety tips for users.
+
+Thu, 28 Mar 2024 01:25:22 +0000
+### [An expert explains: What will it take to resume India-Pakistan trade?](https://indianexpress.com/article/explained/india-pakistan-trade-explained-9237172/)
+
+The article discusses the complex relationship between India and Pakistan, particularly focusing on the potential resumption of trade. Pakistan's Foreign Minister, Muhammad Ishaq Dar, indicated a possible reconsideration of trade with India, which had ceased following constitutional changes in Jammu and Kashmir in 2019. The economic crisis in Pakistan and pressure from the business community due to high energy prices are influencing factors.
+
+Trade indirectly occurs through third countries like Dubai, which is inefficient and costly. Despite the economic logic for direct trade, political challenges persist. Past attempts at trade, such as the short-lived decision to trade sugar and cotton in 2021, highlight the internal political struggle in Pakistan. The military's influence, especially the Army Chief's stance, remains a critical factor.
+
+India's position is that trade cannot resume without Pakistan addressing terrorism. Historical context shows fluctuating trade relations, with significant military interventions from Pakistan. The article suggests that economic sense and regional stability may eventually lead to a softening of positions, but domestic politics in Pakistan and India's firm stance on Kashmir and terrorism make the path forward uncertain.
+
+The article concludes that while economic partnership between the two nations is sensible, political inertia and strategic considerations dominate the discourse. Quiet diplomacy might offer a way forward, with the UAE playing a role in facilitating dialogue. The author, Dr. C Raja Mohan, emphasizes the need for both countries to be prepared to negotiate when the political climate allows. The article is by Dr. C Raja Mohan, an expert on international affairs, and was reported by Rishika Singh. The piece also briefly mentions other topics such as cultural affairs and honors awarded to military personnel. 
+
+Please note that this summary is based on the information provided and my knowledge up to 2021. For the most current details and developments, consulting the latest sources would be advisable. If you have any more questions or need further assistance, feel free to ask!
+
 Wed, 27 Mar 2024 20:52:43 +0000
 ### [Sanjiv Bhatt guilty in 1996 drug case: What happened](https://indianexpress.com/article/explained/sanjiv-bhatt-guilty-in-1996-drug-case-what-happened-9237103/)
 
