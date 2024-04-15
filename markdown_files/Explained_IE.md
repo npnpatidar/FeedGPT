@@ -1,3 +1,13 @@
+Mon, 15 Apr 2024 02:40:17 +0000
+### [India’s hepatitis headache](https://indianexpress.com/article/explained/explained-health/global-hepatitis-report-2024-world-health-organisation-hepatitis-b-tuberculosis-covid-19-tb-deaths-globally-9270443/)
+
+The WHO's Global Hepatitis Report 2024 highlights India's significant viral hepatitis burden, comparable to tuberculosis as a leading infectious killer. In 2022, deaths from viral hepatitis reached 1.3 million globally, with a slight decrease in new cases. The report focuses on hepatitis B and C, blood-borne viruses that can cause chronic disease, liver cirrhosis, and cancer. Hepatitis B is preventable through vaccination, while hepatitis C is curable with medication. India accounts for over 11% of the global hepatitis burden, with low diagnosis rates despite free national diagnosis and treatment programs. Mother-to-child transmission drives hepatitis B cases, while hepatitis C is prevalent among injection drug users. The report emphasizes the need for widespread vaccination, improved diagnosis, and a 'treat all' approach for hepatitis B, akin to HIV treatment strategies. Despite India's low-cost diagnostics and treatments, the disparity in treatment coverage compared to tuberculosis remains significant, with minimal hep B treatment and only 21% of hep C cases receiving therapy.
+
+Mon, 15 Apr 2024 02:30:44 +0000
+### [Lamp to Lotus, Two Bullocks to Hand: a story of symbols](https://indianexpress.com/article/explained/explained-politics/lamp-to-lotus-two-bullocks-to-hand-a-story-of-symbols-9270434/)
+
+Election symbols, integral to Indian politics, help voters identify parties, especially in a country with low literacy rates. Recognized parties choose from approved symbols, while independents and unrecognized parties get 'free symbols'. The Congress initially had 'Two Bulls with Yoke on' but post-1969 splits, the 'Hand' became its symbol. The BJP, originating from the Bharatiya Jana Sangh with 'Lamp', was allotted 'Lotus' after the Janata Party's dissolution. Symbol disputes often follow party splits, reflecting their significance in political identity and legacy. The Election Commission of India (ECI) plays a pivotal role in symbol allotment, ensuring symbols are secular and non-sentimental, with historical shifts marking changes in party dynamics.
+
 Sun, 14 Apr 2024 17:06:43 +0000
 ### [Explained: A short history of Iran-Israel ties and why they soured after 1979](https://indianexpress.com/article/explained/everyday-explainers/history-israel-iran-relations-middle-east-9270079/)
 

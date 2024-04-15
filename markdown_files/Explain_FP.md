@@ -1,3 +1,13 @@
+Mon, 15 Apr 2024 08:26:18 +0530
+### [Iran vs Israel: How the two countries went from friends to foes](https://www.firstpost.com/explainers/iran-israel-ties-friends-foes-history-13759492.html)
+
+The recent attack by Iran on Israel with over 300 missiles and drones marks a significant escalation in the longstanding conflict between the two nations. This retaliation follows an Israeli airstrike on Iran's consulate in Syria. Historically, Iran and Israel shared positive relations, with Iran being the second Muslim-majority country to recognize Israel post-1948. However, the 1979 Islamic Revolution led to a severe deterioration in ties, with Iran's new regime labeling Israel as "Little Satan." Despite this, some informal commercial connections persisted. Over time, Iran supported various anti-Israeli militias and movements, including Hezbollah, which has been involved in attacks against Israeli targets. Tensions intensified with Mahmoud Ahmadinejad's presidency in Iran, who was openly hostile towards Israel. The contentious Iran nuclear deal and subsequent military engagements in Syria have further complicated relations. Recently, the U.S. has shown "ironclad" support for Israel amidst threats of significant attacks from Iran.
+
+Mon, 15 Apr 2024 06:00:31 +0530
+### [FirstUp: SC to hear Kejriwal’s arrest plea, Trump’s hush money trial to begin… The news today](https://www.firstpost.com/explainers/firstup-sc-to-hear-kejriwals-arrest-plea-trumps-hush-money-trial-to-begin-the-news-today-13759502.html)
+
+On April 15, the Supreme Court will address Delhi Chief Minister Arvind Kejriwal's challenge to his arrest in the excise policy case. Concurrently, Prime Minister Narendra Modi and Congress leader Rahul Gandhi are campaigning in Tamil Nadu and Kerala, respectively. The IMD warns of a heatwave in coastal Andhra Pradesh, while internationally, former US President Donald Trump faces trial over a hush money case. Tensions rise between Iran and Israel following Iran's missile attack. Kejriwal remains in custody, and Trump's trial marks a historic first for a former US president.
+
 Sun, 14 Apr 2024 17:22:27 +0530
 ### [How US, UK, France and Jordan came to Israel’s rescue as Iran attacked](https://www.firstpost.com/explainers/iran-attacks-israel-how-us-uk-france-jordan-shot-down-drones-13759499.html)
 

@@ -10,6 +10,6 @@
 
 
  ************************************************* 
-Total number of new entries: 32
-Finished at: 2024-04-15 00:17:06
-Total time taken: 20.0 minutes 41.99825644493103 seconds
+Total number of new entries: 16
+Finished at: 2024-04-15 03:21:35
+Total time taken: 11.0 minutes 26.968603134155273 seconds
