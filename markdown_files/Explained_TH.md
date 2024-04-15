@@ -1,3 +1,8 @@
+Mon, 15 Apr 2024 17:30:00 +0530
+### [How are hydrocarbons extracted from under the ground? | Explained](https://www.thehindu.com/sci-tech/science/hydrocarbon-extraction-drilling/article68067808.ece)
+
+The article delves into the intricate processes of petroleum extraction, beginning with the geological formation of hydrocarbons like natural gas, coal, crude oil, and petroleum. It details how these resources are trapped in subterranean reservoirs and the role of petroleum geology in identifying and assessing these deposits. The focus then shifts to the drilling process, describing the creation of production wells, the use of drilling machines, and the importance of controlling the pressure of drilling fluids to prevent blowouts. The completion stage involves preparing the well for hydrocarbon drainage, while the production stage manages the outflow. The article also outlines the three phases of production—primary, secondary, and tertiary—each employing different methods to extract hydrocarbons. It concludes by discussing the economic considerations of extraction and the environmental implications of improperly abandoned wells, which can lead to significant methane emissions.
+
 Sun, 14 Apr 2024 10:10:00 +0530
 ### [Péter Magyar | The Orbán challenger](https://www.thehindu.com/news/international/p%C3%A9ter-magyar-the-orb%C3%A1n-challenger/article68062718.ece)
 

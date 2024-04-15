@@ -1,3 +1,13 @@
+Tue, 16 Apr 2024 00:30:00 +0530
+### [Pitch for continuity: On the BJP manifesto for the General election 2024](https://www.thehindu.com/opinion/editorial/pitch-for-continuity-the-hindu-editorial-on-the-bjp-manifesto-for-the-general-election-2024/article68068529.ece)
+
+The Bharatiya Janata Party (BJP) has released its manifesto for the 2024 general election, seeking a third term under Prime Minister Narendra Modi. The manifesto highlights the party's achievements, including the revocation of Jammu and Kashmir's special status and the inauguration of the Ram temple in Ayodhya. It promises the implementation of a Uniform Civil Code, continuation of welfare schemes like free grain distribution, and claims to have lifted 25 crore people out of poverty. The BJP emphasizes the need for a stable government amidst global instability and pledges to implement the Citizenship (Amendment) Act and women's reservation laws. Notably, it avoids the topic of a caste census but mentions a new health-care guarantee for senior citizens. The manifesto, titled 'Modi’s Guarantee', targets the GYANM demographic—rural, youth, farmers, women, and the middle class—and focuses on continuity of India's trajectory over the last decade. Voters are expected to consider these promises against the party's track record.
+
+Tue, 16 Apr 2024 00:15:00 +0530
+### [Two-horse race: On the contest in Karnataka and General election 2024](https://www.thehindu.com/opinion/editorial/two-horse-race-the-hindu-editorial-on-the-contest-in-karnataka-and-general-election-2024/article68068178.ece)
+
+In Karnataka, the Congress, led by Siddaramaiah, is leveraging its successful implementation of the 'five guarantees' to challenge the BJP-JD(S) alliance in the upcoming general election. Despite the Rameshwaram Cafe blast in Bengaluru, the BJP is cautious in its response, avoiding communal narratives. The Congress has seen a rise in vote share since the 2018 Assembly elections, while the BJP's share remains unchanged. The BJP's previous success in Lok Sabha elections and the JD(S)'s declining influence suggest a direct contest between the BJP and Congress. However, the BJP's ability to repeat its 2019 performance as the principal opposition is uncertain. The Congress's focus on tangible benefits from its guarantees contrasts with its less impactful stance on Karnataka's central funds allocation.
+
 Mon, 15 Apr 2024 00:20:00 +0530
 ### [Fleeting relief: On slide in retail inflation](https://www.thehindu.com/opinion/editorial/fleeting-relief-on-slide-in-retail-inflation/article68065278.ece)
 

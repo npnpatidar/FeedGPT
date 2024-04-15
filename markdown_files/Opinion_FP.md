@@ -1,3 +1,29 @@
+Mon, 15 Apr 2024 19:05:38 +0530
+### [Why Israel should not retaliate Iranian attack](https://www.firstpost.com/opinion/why-israel-should-not-retaliate-iranian-attack-13759918.html)
+
+In a significant escalation, Iran directly attacked Israel for the first time on April 13, 2024, launching hundreds of missiles and drones in response to an Israeli raid on its consulate in Damascus. Israel, claiming a 99% interception rate with international assistance, downplayed the impact, reporting minor damage and no casualties. Iran, having declared its retaliation complete, warned against further Israeli aggression. The attack, amidst Israel's war on Gaza, has heightened regional tensions, with airspace closures and rerouted flights. Global powers urge de-escalation to prevent a larger conflict, highlighting the complex geopolitical dynamics, including Iran's support for anti-Israel groups and concerns over its nuclear ambitions. The incident underscores the delicate balance of power and the potential for broader implications in West Asia.
+
+Mon, 15 Apr 2024 16:17:24 +0530
+### [Shadow Warrior | Why Thiruvananthapuram Lok Sabha seat matters: It’s a classic clash of metaphors](https://www.firstpost.com/opinion/shadow-warrior-why-thiruvananthapuram-lok-sabha-seat-matters-its-a-classic-clash-of-metaphors-13759841.html)
+
+The article discusses the Lok Sabha election in Thiruvananthapuram, presenting it as a significant indicator of India's political future. It contrasts the two main candidates, Shashi Tharoor and Rajeev Chandrasekhar, who symbolize different visions for India. The Congress-Left coalition is criticized for its internationalist stance and reliance on vote bank politics, with promises like nationalizing assets and offering financial handouts, which the author argues have led to economic stagnation and social division. The BJP's campaign focuses on development, with plans for infrastructure and technology growth in Thiruvananthapuram, drawing parallels to Silicon Valley and Bangalore. The article suggests that the BJP's practical approach to development is more sustainable than the Congress's redistributive policies, which are likened to failed socialist states. The author, a conservative columnist, emphasizes the importance of this election as a reflection of the broader national sentiment.
+
+Mon, 15 Apr 2024 14:22:06 +0530
+### [Bear and Dragon: Consequences of Chinese-Russian ‘Eurasian’ approach for India, Indo-Pacific](https://www.firstpost.com/opinion/bear-and-dragon-consequences-of-chinese-russian-eurasian-approach-for-india-indo-pacific-13759796.html)
+
+The article discusses the evolving partnership between Russia and China, highlighting their mutual economic and strategic interests. Despite the growing trade and military cooperation, there are underlying tensions and imbalances in the relationship, with China holding significant economic leverage over Russia. This partnership poses challenges for India, given its historical ties with Russia and ongoing border disputes with China. The author suggests that while the Russia-China alliance presents a formidable Eurasian front, Russia may ultimately find itself at odds with China's ambitions, viewing it more as a competitor and long-term threat than a reliable partner.
+
+Mon, 15 Apr 2024 11:53:11 +0530
+### [Israel’s Iron Dome and Indian AKASH SAM: Rising importance of missile defence systems](https://www.firstpost.com/opinion/israels-iron-dome-and-indian-akash-sam-rising-importance-of-missile-defence-systems-13759712.html)
+
+In the face of frequent missile threats in various regions, the article highlights the critical role of missile defense systems like Israel's Iron Dome and India's Akash SAM. The Iron Dome, operational since 2011 and developed with US support, has a 90% interception rate and is credited with keeping Israeli casualties low amidst conflicts with Hamas. It consists of radar, a trajectory calculation computer, and interceptors, costing around $100 million per system. India's Akash SAM, largely domestically produced, can engage multiple targets and is gaining international interest, marking a new era in India's defense exports. The article underscores the importance of such systems in maintaining security and saving lives, despite the hope for a future where they are no longer necessary.
+
+Mon, 15 Apr 2024 10:07:35 +0530
+### [Iran attacks Israel: Tehran could not afford a paper tiger image, but international community must stop escalation](https://www.firstpost.com/opinion/iran-attacks-israel-tehran-could-not-afford-a-paper-tiger-image-but-international-community-must-stop-escalation-13759641.html)
+
+Article found but Couldn't summarize 
+Israel is quite stretched, and opening new fronts would further compromise its security, whatever the dictates of bravado and political expediency
+
 Sun, 14 Apr 2024 18:29:27 +0530
 ### [Book review | Tim Gurung’s ‘The Gorkha Grief’ presents a sympathetic outlook towards the warrior community](https://www.firstpost.com/opinion/book-review-tim-gurungs-the-gorkha-grief-presents-a-sympathetic-outlook-towards-the-warrior-community-13759532.html)
 

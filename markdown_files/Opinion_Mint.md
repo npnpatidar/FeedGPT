@@ -1,3 +1,8 @@
+Mon, 15 Apr 2024 09:00:16 +0530
+### [Retail investors and the art of burning hard earned money](https://www.livemint.com/opinion/columns/retail-investors-and-the-art-of-burning-hard-earned-money-11713010385068.html)
+
+The article discusses a shift in investment trends, highlighting the first outflow from small-cap funds in 2.5 years, amounting to ₹94 crores. However, this figure is minuscule compared to the total assets under management of ₹2,43,368 crores. The author suggests that the real concern is the surge in investments into sectoral/thematic funds, which saw an inflow of ₹7,918 crores in March 2024. This trend indicates a shift in retail investor interest from small caps to other market segments. Despite a decrease in the proportion of investments in 'racy' funds, the author criticizes the continued focus on these volatile market segments and advocates for a more flexible investment approach that allows fund managers to allocate resources across opportunities. The article concludes with skepticism about the long-term success of this investment strategy, as historical data shows minimal long-term differences in returns among various market segments. The author, Rahul Goel, advises consulting a personal investment advisor before making decisions.
+
 Mon, 15 Apr 2024 08:00:14 +0530
 ### [Raise funds off intellectual property: Opportunity knocks](https://www.livemint.com/opinion/online-views/raise-funds-off-intellectual-property-opportunity-knocks-11713109984797.html)
 

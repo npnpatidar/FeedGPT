@@ -1,3 +1,38 @@
+Mon, 15 Apr 2024 15:04:45 +0000
+### [A year after fighting broke out in Sudan, what is the state of the conflict?](https://indianexpress.com/article/explained/everyday-explainers/sudan-war-conflict-status-one-year-9272042/)
+
+Sudan, after the fall of Omar al-Bashir's regime in 2019, has been embroiled in conflict, with a military coup in 2021 further destabilizing the nation. The power struggle between civilian groups and the military, particularly the Rapid Support Forces (RSF), has led to violence and an attempted transition from autocracy. Amidst this turmoil, Sudan faces a humanitarian crisis, with half its population requiring aid and the threat of famine looming. International efforts to mediate have been unsuccessful, and the United Nations has called for $2.7 billion to assist nearly half of Sudan's 51 million people, with only a fraction of the funds raised so far. The conflict has resulted in over 14,700 deaths and displaced nearly 9 million people.
+
+Mon, 15 Apr 2024 14:11:25 +0000
+### [Which nine-judge bench cases will the Supreme Court hear next?](https://indianexpress.com/article/explained/explained-law/nine-judge-bench-supreme-court-9271932/)
+
+The Supreme Court has taken up significant cases, including one addressing states' authority to tax mining leaseholders beyond royalties. Currently, a nine-judge bench is deliberating on whether states or the Centre have jurisdiction over regulating and taxing industrial alcohol. Additionally, two cases, pending for over 20 years, involve interpreting Article 39(b) of the Indian Constitution regarding the distribution of community resources and defining 'industry' under the Industrial Disputes Act, 1947. The latter case has seen various benches, signaling the need for legislative clarity. Meanwhile, MP Tejasvi Surya faces criticism over a banking scandal involving misappropriation of funds.
+
+Mon, 15 Apr 2024 13:58:14 +0000
+### [Trump becomes first former US President to face criminal trial: What is the hush money payment case?](https://indianexpress.com/article/explained/explained-global/trump-hush-money-payment-trial-9271912/)
+
+Former US President Donald Trump faces a criminal trial for paying hush money to adult film actress Stormy Daniels, marking the first trial of its kind for a former president. The case involves a $130,000 payment made in 2016 to keep Daniels silent about an alleged affair with Trump. Trump's ex-lawyer, Michael Cohen, facilitated the payment, which Trump later reimbursed. Prosecutors allege falsification of business records and potential violations of election law. If convicted, Trump could face up to four years in prison for each of the 34 counts, though sentencing could vary, possibly resulting in probation.
+
+Mon, 15 Apr 2024 12:21:10 +0000
+### [Pakistan man accused in Sarabjit Singh killing shot dead: What was the case?](https://indianexpress.com/article/explained/pakistan-sarabjit-singh-killing-case-9271679/)
+
+A Pakistani man, accused of killing Indian prisoner Sarabjit Singh, was shot in Lahore. Singh's 1990 arrest and 2013 death sparked India-Pakistan tensions. Alleged to be an Indian spy, Singh was sentenced to death in Pakistan, but concerns of torture and unfair trial were raised. His 2013 jail attack led to his death. The assailants, acquitted in 2018 due to witness hostility, are linked to a banned terror group. Singh's case drew significant reactions; India's PM called him a "brave son of India," and Pakistan's Human Rights Commission demanded accountability for the jail assault. The incident remains a poignant symbol of the fraught relations between the two nations.
+
+Mon, 15 Apr 2024 12:00:04 +0000
+### [Gopi Thotakura to be the first Indian space tourist: What is space tourism?](https://indianexpress.com/article/explained/gopi-thotakura-space-tourism-indian-9271691/)
+
+Gopi Thotakura is poised to be the first Indian space tourist aboard Blue Origin's NS-25 mission. A commercial pilot and Embry-Riddle alumnus, Thotakura will join the crew for a yet-to-be-scheduled sub-orbital flight. If successful, he'll follow Wing Commander Rakesh Sharma's 1984 space journey. Space tourism, valued at $848.28 million in 2023, faces growth challenges like costs and environmental impact. Sub-orbital flights offer brief space experiences, while orbital flights allow for extended stays. However, space travel's million-dollar cost and potential environmental harm from rocket emissions are concerns. Safety remains paramount, with a 3% fatality rate among astronauts. Thotakura, also a co-founder of Preserve Life Corp, has diverse piloting experience, including a recent Kilimanjaro summit trek.
+
+Mon, 15 Apr 2024 11:55:21 +0000
+### [Who was Thiruvalluvar, and why has the BJP invoked him in its election manifesto?](https://indianexpress.com/article/explained/explained-history/thiruvalluvar-bjp-manifesto-tamil-nadu-9271690/)
+
+The BJP's election manifesto promises to establish Thiruvalluvar Cultural Centres globally to promote Indian culture and democracy. Thiruvalluvar, a revered Tamil icon, is at the center of political contention in Tamil Nadu. His life details are debated, with claims of him being a Hindu or Jain sage, but Dravidian groups view him as a secular figure. The 'Thirukkural', his attributed work, is a moral guide in Tamil households. Controversies arose when the BJP depicted him in saffron, countering the DMK's and Left's view of his secular legacy. Scholars like S Swaminathan suggest he was likely a Jain, and his portrayal has been politicized over time. The BJP and RSS have used Tamil icons to strengthen their foothold in Tamil Nadu.
+
+Mon, 15 Apr 2024 08:25:22 +0000
+### [Sensex down 930 points, Nifty down 0.65%: What triggered the fall?](https://indianexpress.com/article/explained/explained-economics/sensex-nifty-fall-9271258/)
+
+On April 15, India's Sensex and Nifty indices fell due to geopolitical tensions between Iran and Israel and concerns over US interest rate cuts. The Sensex opened at 73,315.16, down by 930 points, while Nifty opened at 22,339.05, down by 180.35 points. Despite initial losses, both indices recovered slightly by midday. The conflict's escalation after Iran's drone and missile attacks on Israel, changes in the India-Mauritius tax treaty, and unexpected US inflation have negatively impacted investor sentiment. Foreign Portfolio Investors sold over Rs 8,027 crore in equities, and analysts expect outflows to continue until there's clarity on the tax treaty's applicability. Market uncertainty persists, with potential for further impact depending on the Middle East situation's evolution.
+
 Mon, 15 Apr 2024 02:40:17 +0000
 ### [India’s hepatitis headache](https://indianexpress.com/article/explained/explained-health/global-hepatitis-report-2024-world-health-organisation-hepatitis-b-tuberculosis-covid-19-tb-deaths-globally-9270443/)
 

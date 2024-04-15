@@ -1,3 +1,23 @@
+Mon, 15 Apr 2024 14:17:47 +0000
+### [Express View on agriculture in BJP, Congress manifesto: Lacking a larger vision](https://indianexpress.com/article/opinion/editorials/express-view-agriculture-bjp-congress-manifesto-vision-9271962/)
+
+The BJP's 2024 election manifesto avoids populist promises for farmers, maintaining the status quo on minimum support prices and financial support without specific enhancements. It reflects on past challenges, like the repealed farm laws, and reiterates existing government programs, emphasizing self-reliance and natural farming. Conversely, the Congress manifesto promises a legal guarantee for MSP, though its feasibility is questioned by economists. Both parties propose beneficial measures, like increased R&D funding and technological advancements in crop insurance, but lack a comprehensive vision for agriculture's future. The article also mentions MP Tejasvi Surya's encounter with disgruntled investors over a bank scam, highlighting the political and financial challenges ahead.
+
+Mon, 15 Apr 2024 13:18:12 +0000
+### [To fulfil Ambedkar’s vision of inclusivity, every child must have access to a library](https://indianexpress.com/article/opinion/columns/ambedkar-vision-inclusivity-every-child-library-9271735/)
+
+Julie, an 8-year-old from Uttar Pradesh, found joy and education in her village's first community library. This sanctuary offered free access to books and learning, igniting her curiosity. However, her father's migration post-lockdown left her without this resource, highlighting a broader issue in India: the scarcity of free public libraries. Despite a rich history and some successes, India's library system is underdeveloped and underfunded, with no national policy to ensure equitable access. Libraries have historically fostered resistance, empowerment, and cultural assertion, but today's disparities hinder democratic participation and learning, especially for marginalized communities. A comprehensive national library policy is urgently needed to provide inclusive access to knowledge, supporting digital inclusion and empowering every citizen to contribute to India's democratic future.
+
+Mon, 15 Apr 2024 08:07:02 +0000
+### [Gujarat’s shift to e-autos: It can clean air, increase incomes](https://indianexpress.com/article/opinion/columns/gujarat-e-autos-clean-air-income-increase-9271168/)
+
+Auto-rickshaws are a staple of urban transport in India, and their electrification could significantly reduce emissions. In Gujarat, a 23% increase in auto registrations since 2019 has led to significant carbon monoxide and nitrogen oxide emissions. Transitioning to electric auto-rickshaws (e-autos) could mitigate these emissions and offer economic benefits. E-autos have a lower total cost of ownership compared to conventional autos and can cover the daily range needed by drivers. Despite these advantages, adoption is hindered by a lack of awareness and charging infrastructure. The Gujarat Electric Vehicle Policy 2021 aims to address these issues by providing incentives and improving infrastructure, with a goal of 70,000 e-autos by July 2025. This shift is seen as crucial for improving air quality and public health. The authors, affiliated with WRI India, emphasize the personal nature of their views.
+
+Mon, 15 Apr 2024 06:28:14 +0000
+### [How domestic politics in Israel, Iran and America could determine scale of conflict after the Saturday bombing](https://indianexpress.com/article/opinion/columns/israel-iran-bombings-us-domestic-politics-impact-9270958/)
+
+Tensions in West Asia escalated after Iran's consulate in Damascus was attacked, allegedly by Israel. Iran retaliated with a drone and missile strike on April 13, claiming it as punishment for the April 1 attack that killed seven of its officers. While Israel has not claimed responsibility, the incident continues the region's history of proxy warfare. Iran's response, involving over 200 drones and missiles, was met with Israel's air defenses, with some Iranian projectiles reportedly hitting targets. The US's stance will influence Israel's further response. The situation remains delicate, with potential non-state actors' involvement threatening wider conflict. Domestic politics in both countries complicate matters, as leaders face pressure to act decisively. The global community hopes for de-escalation, but uncertainty persists.
+
 Mon, 15 Apr 2024 02:40:33 +0000
 ### [April 15, Forty years Ago: Three killed in Punjab, including an extremist and Nirankari leader](https://indianexpress.com/article/opinion/40-years-ago/april-15-forty-years-ago-three-killed-in-punjab-including-an-extremist-and-nirankari-leader-9270226/)
 

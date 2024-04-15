@@ -1,3 +1,64 @@
+Mon, 15 Apr 2024 20:34:56 +0530
+### [Explained: How fairness creams can increase the risk of kidney damage](https://www.firstpost.com/explainers/fairness-creams-increase-risk-of-kidney-damage-13759895.html)
+
+A study published in the Kidney International Journal links the use of mercury-containing fairness creams to Membranous Nephropathy (MN), a kidney disorder causing protein leakage. The study observed 22 MN cases, with 68% testing positive for NELL-1, a protein linked to cancer. Most patients used fairness creams, which are prevalent in India's unregulated market. Mercury absorption through the skin damages kidney filters, leading to nephrotic syndrome. Cessation of cream use resolved most cases. The World Health Organization warns against mercury in skincare, and the FDA advises checking product labels for mercury content. Public awareness and regulation are urged to address this health crisis.
+
+Mon, 15 Apr 2024 19:03:16 +0530
+### [Iran-Israel tensions: Brace for longer, more expensive flights to Europe. Here’s why](https://www.firstpost.com/explainers/iran-israel-tensions-air-travel-airspace-india-europe-flights-13759901.html)
+
+Article found but Couldn't summarize 
+The escalating tensions in West Asia after Iran’s attack on Israel could affect your travel plans. Several international airlines including Air India are avoiding the Iranian airspace, a route frequently used to travel between Europe and India or Southeast Asia. As flight time increases, so does the cost of fuel and this could lead to a surge in airfare
+
+Mon, 15 Apr 2024 18:38:12 +0530
+### [Why Australians are replacing fruits, veggies with chips, candy in their meals](https://www.firstpost.com/explainers/australians-replacing-fruits-veggies-in-their-meals-13759776.html)
+
+Recent Australian data indicates a decline in fresh produce consumption, with milk, fruits, and vegetables purchases dropping significantly in 2022–23. The average daily vegetable intake fell by 14 grams, while fruit consumption decreased by 12 grams per day. This shift is attributed to the cost-of-living crisis and food inflation, leading households to opt for cheaper, less healthy snacks. Sales of dairy and meat alternatives rose by 30%, and snack foods by 10% over five years. The trend reflects a broader move towards affordability at the expense of nutrition, raising concerns about food insecurity and its health implications. Amidst this, major supermarkets face government scrutiny over their pricing and promotional strategies, particularly for fresh produce.
+
+Mon, 15 Apr 2024 16:56:08 +0530
+### [Iran vs Israel: Which country has the better, bigger military?](https://www.firstpost.com/explainers/iran-israel-better-bigger-military-capabilities-conflict-all-out-war-proxy-13759845.html)
+
+The recent drone attack by Iran on Israel has escalated tensions, sparking concerns of a potential war in West Asia. Iran's military, significantly larger in manpower, boasts 580,000 active personnel and a substantial reserve force, drawing from a population ten times that of Israel. Despite this, Israel surpasses Iran in defense spending with a $24 billion budget and possesses advanced weaponry, including modern aircraft and a robust missile defense system. Iran counters with a formidable missile and drone arsenal, capable of striking distant targets, and a network of proxy militias across the region. While both nations have limited naval capabilities, Israel holds an advantage with its nuclear arsenal. The situation remains volatile, with the international community watching closely as the possibility of conflict looms.
+
+Mon, 15 Apr 2024 16:48:46 +0530
+### [Quicksplained: Did Jordan's Princess Salma shoot down Iranian jets headed for Israel?](https://www.firstpost.com/explainers/quicksplained-jordans-princess-salma-shoot-down-iranian-jets-headed-for-israel-13759853.html)
+
+Amid heightened tensions between Iran and Israel, viral social media posts claimed Princess Salma bint Abdullah of Jordan downed Iranian drones headed for Israel. These posts coincided with Iran's unprecedented direct missile and drone assault on Israel, following an Israeli strike in Syria. An Israeli spokesperson reported a 99% interception rate of the attacks. The claims about Princess Salma, a pilot and first female lieutenant in the Royal Jordanian Air Force, were debunked as false by D-Intent Data, a fact-checking organization. They clarified that the viral image was digitally altered, and no government source confirmed her involvement in downing drones. Princess Salma is recognized for her historic role as Jordan's first female pilot and for humanitarian efforts in Gaza.
+
+Mon, 15 Apr 2024 15:47:37 +0530
+### [In Graphics | What is the Iron Dome, Israel's air defence system that blocked Iran's attack?](https://www.firstpost.com/explainers/in-graphics-what-is-the-iron-dome-israels-air-defence-system-that-blocked-irans-attack-13759819.html)
+
+Israel's Iron Dome, a sophisticated air defense system, successfully intercepted over 300 drones and ballistic missiles from Iran, marking Iran's first direct military strike on Israel. This escalation follows a six-month conflict with Hamas and attacks from various Middle Eastern countries. The Iron Dome, operational since 2011, uses radar to track and intercept rockets likely to hit populated areas, with batteries across Israel capable of launching interceptor missiles. Developed with US support after the 2006 Lebanon War, it has been pivotal in protecting Israeli cities for over a decade, preventing significant damage and casualties.
+
+Mon, 15 Apr 2024 14:31:31 +0530
+### [How Iran’s attack on Israel could affect trade, oil prices and daily life](https://www.firstpost.com/explainers/iran-attack-israel-affect-trade-oil-prices-daily-life-stock-market-gold-travel-trade-13759750.html)
+
+Iran's recent attack on Israel with over 300 missiles and drones has caused minimal physical damage but raises concerns of a broader impact on global economies and politics. The world is now watching for Israel's response, which could range from retaliation to restraint. A potential war could significantly affect oil and gas prices, with experts predicting a rise in crude oil prices that could lead to higher inflation. The Strait of Hormuz, a key oil shipping route, is a focal point of concern. Additionally, trade and travel disruptions are anticipated, with several countries temporarily closing airspaces and airlines rerouting flights, leading to increased costs and potential impacts on India's exports, particularly basmati rice and tea. Gold prices have surged as investors seek safe-haven assets, and stock markets face volatility amid the tensions. The USA's stance is considered crucial in the unfolding scenario.
+
+Mon, 15 Apr 2024 14:09:17 +0530
+### [Donald Trump’s hush money trial begins today: The key players in the case](https://www.firstpost.com/explainers/donald-trump-hush-money-trial-key-players-in-the-case-13759705.html)
+
+The trial against former US president Donald Trump, marking the first criminal trial of a former president, commences today. Trump faces 34 felony charges for allegedly falsifying records to hide a $130,000 payment to Stormy Daniels before the 2016 election, aimed at silencing her claims of an affair. Despite Trump's denial of the affair and not guilty plea, the prosecution asserts he reimbursed his lawyer, Michael Cohen, with falsified checks, breaching federal election laws. Key figures include Trump, Daniels, Cohen, prosecutor Alvin Bragg, and Judge Juan Merchan. The jury selection begins, with the trial's outcome potentially influencing the upcoming presidential election.
+
+Mon, 15 Apr 2024 12:35:47 +0530
+### [Quicksplained: Who are Anmol Bishnoi, Rohit Godara, the gangsters behind firing at Salman Khan’s home?](https://www.firstpost.com/explainers/quicksplained-anmol-bishnoi-rohit-godara-gangsters-firing-salman-khan-home-13759688.html)
+
+In a shocking incident, two individuals fired at Bollywood actor Salman Khan's residence in Bandra, Mumbai. The attack was claimed by Anmol Bishnoi, brother of the incarcerated gangster Lawrence Bishnoi, through a Facebook post. Anmol is accused in the murder of singer Sidhu Moose Wala and has been evading capture using a fake passport. Rohit Godara, who leads the Bishnoi gang's operations, is believed to have orchestrated the attack. Godara, currently residing in Canada, is involved in over 35 criminal cases and has also claimed responsibility for the murder of Karni Sena chief Sukhdev Singh Gogamedi. The shooter, Vishal, is linked to multiple crimes, including the recent murder of a bookie in Gurgaon. The authorities are investigating the incident, which has raised serious security concerns.
+
+Mon, 15 Apr 2024 12:08:33 +0530
+### [Iran-Israel tensions: What’s at stake for India?](https://www.firstpost.com/explainers/iran-israel-tensions-impact-on-india-west-asia-conflict-13759698.html)
+
+India has expressed serious concern over the escalating hostilities between Iran and Israel, urging for immediate de-escalation and a return to diplomacy. The tension follows Iran's retaliatory attack on Israel in response to a suspected Israeli strike on an Iranian consulate in Syria. India, having strategic ties with both nations, is particularly worried about the safety of its citizens, including the 17 Indian crew members aboard a vessel seized by Iran near the Strait of Hormuz. External Affairs Minister S Jaishankar has engaged in talks with both Iranian and Israeli counterparts to discuss the situation and emphasize restraint. With a significant diaspora in both countries and substantial trade and defense relations, India is advocating for stability in the region. The potential impact of a wider conflict on India's economy, particularly its oil imports, underscores the need for a peaceful resolution. India's balanced approach reflects its intricate diplomatic relations and broader interests in West Asia.
+
+Mon, 15 Apr 2024 10:37:04 +0530
+### [Explained: America’s big role in countering Iran's attack on Israel](https://www.firstpost.com/explainers/iran-israel-attack-america-big-role-counter-13759661.html)
+
+In a significant escalation of tensions, Iran launched a direct military attack on Israel, involving over 300 drones, cruise missiles, and ballistic missiles. This was in retaliation to an Israeli strike on Iran's consulate in Damascus earlier in the month. The US military responded by destroying several Iranian missiles and drones, with President Joe Biden overseeing the situation. The US had been preparing for such an event, maintaining close contact with Israel and other West Asian countries. The US communicated with Iran through Swiss channels and deployed additional military assets to the region. The overarching US strategy is to prevent the conflict from widening and to de-escalate tensions in the region.
+
+Mon, 15 Apr 2024 10:08:47 +0530
+### [How will Israel respond to Iran’s attacks? Will it lead to an all-out war in West Asia?](https://www.firstpost.com/explainers/israel-response-iran-attack-war-west-asia-benjamin-netanyahu-western-allies-13759646.html)
+
+Tensions between Iran and Israel escalated as Iran launched a significant drone and missile attack on Israel in retaliation for an Israeli airstrike that killed Iranian officers in Syria. Despite the interception of nearly all projectiles by Israel's defense systems, concerns of further conflict in West Asia have risen. Israel is contemplating its response, with international allies advocating for restraint. Experts suggest that while Iran's strike was largely symbolic, it challenges Israeli deterrence and could inspire other adversaries. Israel's next steps remain uncertain, with options ranging from direct retaliation to strategic non-action, as the world watches for potential escalation into broader conflict.
+
 Mon, 15 Apr 2024 08:26:18 +0530
 ### [Iran vs Israel: How the two countries went from friends to foes](https://www.firstpost.com/explainers/iran-israel-ties-friends-foes-history-13759492.html)
 

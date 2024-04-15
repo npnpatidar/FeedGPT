@@ -1,3 +1,8 @@
+Sun, 14 Apr 2024 18:47:53 +0530
+### [Political Line | Unity and divisiveness: in the eye of the beholder](https://www.thehindu.com/news/national/unity-and-divisiveness-in-the-eye-of-the-beholder/article68065004.ece)
+
+The article discusses the divisive rhetoric in Indian politics, focusing on the BJP and Congress. The BJP criticizes Congress for demanding a caste census and accuses it of threatening state autonomy, while Congress counters by accusing the BJP of excluding minorities and undermining democracy. The BJP claims to unify Hindus, which it equates with national unity, but faces challenges from upper castes unhappy with its subaltern focus. The article also touches on the complex identity politics of Hinduism, historical attempts to define 'Hindu,' and the political life of Sheikh Abdullah in Kashmir. Additionally, it mentions the plight of Meitei Muslims in Manipur and Muria tribals in Andhra Pradesh, and states petitioning the Supreme Court over financial disputes with the Centre.
+
 Wed, 03 Apr 2024 00:30:00 +0530
 ### [IPL-17 | What the heck – more humour, less uniformity, please!](https://www.thehindu.com/opinion/columns/what-the-heck-more-humour-less-uniformity-please/article68020437.ece)
 
