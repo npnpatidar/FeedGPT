@@ -1,3 +1,8 @@
+Sun, 14 Apr 2024 10:10:00 +0530
+### [Péter Magyar | The Orbán challenger](https://www.thehindu.com/news/international/p%C3%A9ter-magyar-the-orb%C3%A1n-challenger/article68062718.ece)
+
+Péter Magyar, once an insider in the Hungarian government, has emerged as a new opposition figure challenging Viktor Orbán's Fidesz Party. Leading massive rallies in Budapest, Magyar announced his candidacy for local and EU elections under the TISZA party, which unites left and right factions. Known for his marriage to Orbán's ex-Justice Minister, Magyar gained attention after denouncing the government's corruption and control over the justice system. Despite government dismissal, Magyar's centrist politics and promise of a civil foreign policy have garnered significant public interest. His call for a three-way debate with Orbán and the opposition leader highlights his distinct stance in Hungary's political arena. Skeptics question his potential as a "messiah" figure, but his growing popularity suggests a shift in the public's sentiment.
+
 Sun, 14 Apr 2024 01:31:00 +0530
 ### [Kalvakuntla Kavitha | Under the shadow](https://www.thehindu.com/news/national/kalvakuntla-kavitha-under-the-shadow/article68062702.ece)
 

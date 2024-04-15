@@ -1,3 +1,13 @@
+Mon, 15 Apr 2024 00:20:00 +0530
+### [Fleeting relief: On slide in retail inflation](https://www.thehindu.com/opinion/editorial/fleeting-relief-on-slide-in-retail-inflation/article68065278.ece)
+
+India's retail inflation dipped to **4.85%** in March, marking the first time in five months it fell below 5%. This slight decrease from February's **5.1%** is the lowest since May 2023. The final quarter of 2023-24 saw an average inflation of 5%, aligning with RBI's projections and representing the slowest rate in three years. The annual consumer price rise averaged at **5.4%**, a four-year low. Core inflation, excluding food and energy, remained below 4% for four consecutive months. Fuel inflation reached a four-year low at **-2.7%** in March. Despite reductions in fuel and gas prices, high food costs and rising inflation for rural consumers due to a weak monsoon are concerns. Food inflation averaged **8%** in 2023-24, with entrenched inflation in vegetables, pulses, and spices. Urban inflation was **4.14%** in March, but rural inflation increased to **5.45%**. The RBI aims for a 4% inflation rate, but external factors like oil price surges and global economic conditions present challenges ahead.
+
+Mon, 15 Apr 2024 00:10:00 +0530
+### [Breach of convention: On the Ecuador-Mexico tensions](https://www.thehindu.com/opinion/editorial/breach-of-convention-on-the-ecuador-mexico-tensions/article68065022.ece)
+
+Ecuador's recent raid on the Mexican embassy in Quito to arrest former Vice-President Jorge Glas for corruption charges has sparked a significant diplomatic dispute, violating the Vienna Convention. Glas, along with ex-President Rafael Correa, claims political persecution, but current President Daniel Noboa views it as a stand against corruption. The incident escalated after Mexico granted asylum to Glas and Ecuador responded by declaring Mexico's ambassador persona non grata. This action led to Mexico seeking Ecuador's expulsion from the UN through the International Court of Justice. Domestically, Noboa faces criticism over rampant gang violence and a plummeting approval rating. Critics argue that Noboa is leveraging the diplomatic row to bolster his political position amidst a referendum on increasing government powers to combat gang violence, while failing to address the underlying issues within legal boundaries.
+
 Sat, 13 Apr 2024 00:20:00 +0530
 ### [Risky premise: On Asian Development Bank forecast, India’s GDP growth](https://www.thehindu.com/opinion/editorial/risky-premise-on-asian-development-bank-forecast-indias-gdp-growth/article68058544.ece)
 

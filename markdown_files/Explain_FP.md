@@ -1,3 +1,28 @@
+Sun, 14 Apr 2024 17:22:27 +0530
+### [How US, UK, France and Jordan came to Israel’s rescue as Iran attacked](https://www.firstpost.com/explainers/iran-attacks-israel-how-us-uk-france-jordan-shot-down-drones-13759499.html)
+
+In a coordinated defense against an Iranian attack, Israel successfully intercepted 99% of over 300 drones and missiles with the aid of its allies. The U.S. played a pivotal role, deploying forces and missile defense systems to the region, intercepting numerous threats. The UK's Royal Air Force also contributed by downing Iranian drones, while France assisted in airspace patrol. Even Jordan, despite past criticisms of Israel, engaged in the defense, shooting down drones that breached its airspace. This international effort underscored the strategic alliances and defense capabilities mobilized to protect Israel from the significant assault.
+
+Sun, 14 Apr 2024 15:00:36 +0530
+### [What is the Islamic Revolutionary Guard Corps, the group believed to be behind Iran’s attack on Israel?](https://www.firstpost.com/explainers/iran-islamic-revolutionary-guard-corps-iran-attack-israel-ayatollah-khamenei-islamic-revolution-13759456.html)
+
+In retaliation for an Israeli airstrike on its consulate in Damascus, Iran's Islamic Revolutionary Guard Corps (IRGC) launched a significant attack from Iranian soil against Israel, claiming to have achieved all its objectives. The IRGC, established after the 1979 Islamic Revolution, is a parallel military force to Iran's traditional armed forces, reporting directly to the Supreme Leader. With 190,000 personnel and influence over Iran's politics and economy, the IRGC also operates the Quds Force, impacting militias across the Middle East. The U.S. has designated the IRGC as a terrorist organization, citing its involvement in various regional conflicts and support for other designated terrorist groups. The IRGC's role extends to Iran's politics, with many former officers holding governmental positions, and it controls significant economic sectors within the country.
+
+Sun, 14 Apr 2024 12:52:40 +0530
+### [Arrow defence system: Israel’s weapon against Iran’s rain of drones and missiles](https://www.firstpost.com/explainers/iran-attack-israel-arrow-aerial-defence-system-explained-iron-dome-13759433.html)
+
+In a significant escalation, Iran directly targeted Israel with drones and missiles from its territory for the first time on April 13. The attack aimed at Tel Aviv, Jerusalem, and Dimona, where Israel's nuclear facility is located. Israel's military confirmed the attack, stating that their Arrow aerial defense system successfully intercepted 99% of the incoming threats. Iran's Revolutionary Guards claimed the attack was retaliation for a strike in Damascus that killed seven of their members. The Arrow system, developed with the US, is part of Israel's multi-layered defense, designed to neutralize long-range missiles outside the atmosphere. It complements other systems like Iron Dome, David's Sling, and Patriot, providing Israel with a comprehensive aerial defense capability. The Arrow system has been operational since the 1990s, with continuous advancements such as the Arrow 3, enhancing Israel's defense against ballistic missiles and weapons of mass destruction.
+
+Sun, 14 Apr 2024 12:19:00 +0530
+### [How Israel shielded itself from more than 300 Iranian drones, missiles](https://www.firstpost.com/explainers/iran-attacks-israel-missles-drones-shot-down-13759422.html)
+
+Tensions in West Asia intensified as Iran launched a direct military assault on Israel, firing hundreds of drones and missiles. This aggressive move was in retaliation for an Israeli attack on an Iranian consulate in Damascus, which resulted in the deaths of Iranian officials. The majority of the Iranian projectiles were intercepted by Israel's defense systems, with assistance from the US, UK, and France. Despite the extensive aerial attack, only minor structural damage was reported at the Nevatim Airbase in southern Israel, and there were no casualties from the strikes. The UN Security Council convened an emergency meeting in response to the attacks, which have escalated the ongoing covert war between the two nations. World leaders have condemned Iran's actions, emphasizing solidarity with Israel and calling for an immediate cessation of hostilities.
+
+Sun, 14 Apr 2024 10:57:08 +0530
+### [This Week in Explainers: Why Iran launched an attack against Israel](https://www.firstpost.com/explainers/this-week-in-explainers-why-iran-launched-an-attack-against-israel-13759032.html)
+
+This week's global news includes Iran's attack on Israel with over 200 missiles and drones, escalating tensions in West Asia. The assault was a response to an airstrike on Iran's consulate in Syria. In Asia, South Korea's elections dealt a significant blow to President Yoon Suk Yeol, while Vietnam sentenced a businesswoman to death for a major financial fraud. Saudi Arabia is downsizing its ambitious megacity project, The Line, and British PM Rishi Sunak's footwear choice has unexpectedly impacted Adidas' Samba shoes' reputation. Additionally, Sierra Leone faces a national emergency due to widespread drug use, leading to grave robberies linked to kush consumption.
+
 Sat, 13 Apr 2024 18:12:39 +0530
 ### [Think yourself: Why we should not let AI make decisions for us](https://www.firstpost.com/explainers/artificial-intelligence-ai-decisions-humans-critical-thinking-13759265.html)
 

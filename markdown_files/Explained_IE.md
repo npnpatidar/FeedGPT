@@ -1,3 +1,43 @@
+Sun, 14 Apr 2024 17:06:43 +0000
+### [Explained: A short history of Iran-Israel ties and why they soured after 1979](https://indianexpress.com/article/explained/everyday-explainers/history-israel-iran-relations-middle-east-9270079/)
+
+Iran has retaliated against Israel for an earlier attack on its consulate in Syria, which resulted in the death of Iranian commanders. The Iranian Revolutionary Guard's response involved limited strikes, claiming damage to an Israeli military site, but no significant casualties. This escalation follows a series of regional tensions, including attacks by Hamas and Yemen's Houthis. Historically, Iran recognized Israel in 1948, but relations soured post-1979. Iran's Islamic Revolution marked a shift, with Israel viewed as an occupier and Iran challenging regional powers. Despite no direct military confrontations, both nations have engaged in proxy conflicts and strategic attacks, with the US's stance adding to the complexity amid its presidential elections.
+
+Sun, 14 Apr 2024 16:36:51 +0000
+### [Contrast with Oct 7: Delhi’s call for de-escalation marks four key shifts in its Middle East diplomacy](https://indianexpress.com/article/explained/iran-attack-israel-india-strategy-diplomacy-9269223/)
+
+India's diplomacy in the Middle East, a region marked by complex politics and conflicts, has undergone significant transitions. The recent call for de-escalation after Iran's strike against Israel contrasts with India's earlier solidarity with Tel Aviv, reflecting a balanced approach to the region's state actors. India's policy now acknowledges the internal dynamics of the Middle East, moving beyond the historical West vs Middle East perspective. The emphasis is on strategic engagement with diverse regional powers, irrespective of religious considerations, aligning with India's broader interests like the India Middle East Europe Corridor. This nuanced diplomacy is crucial as India navigates the intricate and ongoing conflicts in the Middle East.
+
+Sun, 14 Apr 2024 13:34:16 +0000
+### [A brief look at Iran’s military capabilities, amid its attacks on Israel](https://indianexpress.com/article/explained/explained-global/iran-military-capability-israel-attacks-9269588/)
+
+On April 14, Iran launched an attack on Israel with drones and missiles in retaliation for Israeli strikes in Syria. This escalation has heightened concerns of a broader conflict in the Middle East, especially since the Palestinian group Hamas' attack on Israel in October 2023. Iran, accused by Israel of backing Hamas and other militant groups, has criticized Israeli actions in Gaza, which have resulted in over 32,000 deaths. Iran's military capabilities include over 500,000 active personnel and 200,000 reserves, with the Islamic Revolutionary Guards Corps (IRGC) playing a significant role. The IRGC, designated as a terrorist organization by the US in 2019, controls the Basij militia and the elite Quds Force. Iran's arsenal, one of the largest in the Middle East, features ballistic missiles and drones capable of striking any target in the region, including Israel. Recent attacks saw 170 drones and 30 cruise missiles launched, though none entered Israeli territory, and a small number of 110 ballistic missiles reached Israel. Iran also continues to advance its drone technology, with the recent development of the Mohajer-10 drone.
+
+Sun, 14 Apr 2024 08:56:29 +0000
+### [India’s stakes in Iran-Israel conflict — and why it does not want tensions to escalate](https://indianexpress.com/article/explained/india-stake-iran-israel-conflict-tensions-9269260/)
+
+Article found but Couldn't summarize
+
+Sun, 14 Apr 2024 05:39:14 +0000
+### [As Iran attacks Israel, four key questions on what is happening, why it matters](https://indianexpress.com/article/explained/everyday-explainers/iran-attacks-israel-reason-9268984/)
+
+Iran initiated a direct aerial assault on Israel with over 300 threats, including missiles and drones, in retaliation for an Israeli airstrike in Damascus that killed 13, including an Iranian general. The IDF, with allied support, intercepted most threats, preventing significant damage. Launched from multiple countries, this unprecedented attack marks a new escalation in the Iran-Israel conflict. Iran deems the matter closed post-attack, but Israel's response is pending. President Biden condemned the attack, pledging US support for Israel and calling for a G7 meeting to address the situation, adding complexity to his Middle East policy amid re-election efforts.
+
+Sun, 14 Apr 2024 03:30:47 +0000
+### [On Ambedkar Jayanti, a look at the significance of the Mahad Satyagraha](https://indianexpress.com/article/explained/explained-history/ambedkar-mahad-satyagraha-9268251/)
+
+Bhimrao Ramji Ambedkar, a pivotal figure in India's struggle against caste discrimination, is remembered for his leadership in the Mahad Satyagraha of 1927, a landmark event in Dalit emancipation. Despite the Bombay Legislative Council's 1923 resolution for Dalit access to public water sources, ground realities remained unchanged due to upper-caste resistance. Ambedkar's Bahishkrit Hitkarini Sabha, founded in 1924, aimed to combat untouchability. The Mahad conference, initially a platform for awakening among Dalits, unexpectedly turned into a Satyagraha when Ambedkar led a procession to drink water from the previously forbidden Chavadar tank. This act of defiance, coupled with the subsequent burning of the Manusmriti, symbolized the rejection of caste oppression and ignited the Dalit movement, establishing Ambedkar as a leader of the oppressed. The Mahad Satyagraha set a precedent for organized resistance against caste-based discrimination.
+
+Sun, 14 Apr 2024 02:30:51 +0000
+### [Here’s what to know about the hunger crisis in Gaza](https://indianexpress.com/article/explained/explained-global/hunger-crisis-gaza-9268216/)
+
+The Gaza Strip is on the brink of famine six months into the Israel-Hamas war, with a crisis exacerbated by Israel's siege and military operations. The blockade, in place even before the war, severely restricted humanitarian aid and commercial imports. Following a Hamas attack on Israel, Israel tightened controls, blocking food imports and targeting Gaza's port, farms, and infrastructure, displacing the population and destroying businesses. The U.N.'s IPC warns that famine is imminent, defined by severe food scarcity, acute malnutrition in children, and related deaths. Past famines in Somalia and South Sudan were also human-made, compounded by drought and conflict. Despite the availability of aid outside Gaza, access issues and disagreements between the U.N. and Israel over aid delivery persist, with critics accusing Israel of using aid restrictions as punishment. Global pressure mounts on Israel to ensure adequate aid and civilian protection.
+
+Sun, 14 Apr 2024 01:30:40 +0000
+### [Iran launches attacks on Israel: Who are the Iran-backed regional groups of concern?](https://indianexpress.com/article/explained/explained-global/iran-israel-axis-of-resistance-9268156/)
+
+In a significant escalation of regional tensions, Iran launched a barrage of drones and missiles at Israel on April 14. This aggressive move was in retaliation for an Israeli assault on Iran's consulate in Damascus, which resulted in the death of several Iranian generals. The attack is the latest in a series of hostilities between the two nations, with Iran accusing Israel of previous attacks and Israel condemning Iran's support for militant groups like Hezbollah, the Houthis, and Hamas. These groups, backed by Iran, have been central to the country's strategy of regional influence and resistance against Western interests. The recent violence has raised fears of a broader conflict in a region already fraught with religious and ethnic strife, compounded by the actions of these militant organizations.
+
 Sat, 13 Apr 2024 13:55:35 +0000
 ### [Remembering Operation Meghdoot: How Indian Army took Siachen, forty years ago](https://indianexpress.com/article/explained/explained-history/operation-meghdoot-siachen-army-9268157/)
 

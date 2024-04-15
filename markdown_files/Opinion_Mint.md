@@ -1,3 +1,13 @@
+Sun, 14 Apr 2024 17:04:27 +0530
+### [Tesla needs India more than India needs Tesla](https://www.livemint.com/opinion/online-views/tesla-needs-india-more-than-india-needs-tesla-11713094013386.html)
+
+Elon Musk is likely to meet Prime Minister Narendra Modi in New Delhi on April 22, possibly leading to Tesla announcing a manufacturing plant in India. Despite being overtaken briefly by China's BYD Auto as the world's largest electric carmaker, Tesla faces challenges including lower growth in sales and reduced car deliveries. India's evolving EV market presents an opportunity for Tesla, especially with the government's reduced import tariffs on EVs. With Tesla's market value decreasing and competition rising, the Indian market could be crucial for its future success.
+
+Sun, 14 Apr 2024 15:43:58 +0530
+### [Has ECI taken the colour off India’s poll campaigns?](https://www.livemint.com/opinion/columns/has-eci-taken-the-colour-off-india-s-poll-campaigns-11713087020113.html)
+
+The article reflects on the contrast between the vibrant election atmosphere in Turkey and the lack of excitement in India's upcoming general elections. It delves into the influence of money and muscle power in Indian politics, citing historical campaigns like "One note; one vote" and the rise of wealthy politicians. It highlights the prevalence of criminality among elected officials and the increasing expenditure in elections, despite attempts to regulate spending. The piece questions the motives behind election donations and the apprehension surrounding addressing this issue in the world's largest democracy.
+
 Sat, 13 Apr 2024 12:16:20 +0530
 ### [Vi’s chances of staying afloat brighten. Graduating India’s remaining voice-only users to 4G+ data use is its best hope](https://www.livemint.com/opinion/vodafoneideas-survival-odds-brighten-but-it-needs-to-do-more-to-escape-the-quagmire-11712989226250.html)
 
