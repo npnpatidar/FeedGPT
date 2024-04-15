@@ -56,6 +56,7 @@ def summarise(article_text):
     else:
         summary = ""
 
+    print("failed to provide summary using providers")
 
     model_array = [  "gpt-4", "gpt-3.5-turbo" ,   "gpt-4-turbo" , "Llama-2-7b-chat-hf" , "Llama-2-13b-chat-hf" , "Llama-2-70b-chat-hf" , "CodeLlama-34b-Instruct-hf" , "CodeLlama-70b-Instruct-hf" , "Mixtral-8x7B-Instruct-v0.1" , "Mistral-7B-Instruct-v0.1" , "dolphin-2.6-mixtral-8x7b" , "lzlv_70b_fp16_hf" , "airoboros-70b" , "airoboros-l2-70b-gpt4-1.4.1" , "openchat_3.5" , "gemini" , "gemini-pro" , "claude-v2" , "claude-3-opus" , "claude-3-sonnet" , "pi"]
 
