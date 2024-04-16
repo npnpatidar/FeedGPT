@@ -1,3 +1,99 @@
+Tue, 16 Apr 2024 21:48:51 +0530
+### [Tamil Nadu Lok Sabha elections 2024: Who are the key faces in the fray? Which issues could the electorate vote on?](https://www.firstpost.com/explainers/tamil-nadu-lok-sabha-elections-2024-key-candidates-poll-issues-dmk-bjp-13760367.html)
+
+Tamil Nadu's 39 Lok Sabha seats are set for elections on 19 April 2024. The DMK, leading the previous polls with 24 seats, contests from 21, while its ally Congress from nine. The AIADMK aligns with DMDK, PT, and SDPI, contesting 32 seats. The BJP, seeking gains in Tamil Nadu, contests 23 seats with PMK, TMC-M, and AMMK. High-profile candidates include DMK's Kanimozhi and BJP's K Annamalai. With 950 candidates, 15% report criminal cases. Key issues include unemployment, land acquisition for development, and NEET exemption. Opinion polls suggest the DMK-Congress alliance may lead, with the BJP and AIADMK trailing. Results will be declared on 4 June.
+
+Tue, 16 Apr 2024 20:35:00 +0530
+### [Is gossiping in office a way to make friends or enemies?](https://www.firstpost.com/explainers/is-gossiping-in-office-a-way-to-make-friends-or-enemies-13757485.html)
+
+Workplace gossip, often seen as idle chatter, significantly impacts relationships more than we realize. It can either foster friendships or damage trust, depending on how the listener perceives the gossiper's intentions. If intentions are viewed as genuine, gossip can strengthen bonds, especially with negative gossip, which surprisingly tends to forge stronger connections than positive gossip. However, if the gossiper is seen as self-serving, it diminishes trust and friendship potential. This complex social dynamic suggests that gossip is not just casual talk but a potent social tool that should be wielded cautiously, as misinterpretation of motives can have unintended consequences on workplace harmony.
+
+Tue, 16 Apr 2024 19:42:54 +0530
+### [Take a Step Back: How walking backwards is beneficial for health](https://www.firstpost.com/explainers/how-walking-backwards-is-beneficial-for-health-13760235.html)
+
+The article discusses a TikTok trend of retro walking, or walking backward, which is gaining attention for its health benefits. This exercise is said to alleviate knee and back pain, strengthen gluteal muscles, and enhance cognitive functions. Originating from ancient China, backward walking has been recommended by experts for decades and is now recognized for aiding in rehabilitation, improving athletes' performance, and building muscle strength. It involves a different biomechanical process than forward walking, leading to reduced impact on the knees and increased activation of the quadriceps. The practice not only helps with joint flexibility and posture but also burns more calories. With the rise in joint problems, especially knee issues, retro walking is becoming increasingly relevant as a preventive health measure.
+
+Tue, 16 Apr 2024 19:31:29 +0530
+### [Rupee drops to record low, other Asian currencies tank against US dollar. Here's why](https://www.firstpost.com/explainers/rupee-drops-to-record-low-other-asian-currencies-tank-against-us-dollar-heres-why-13760324.html)
+
+Asian currencies have weakened significantly against the US dollar, which has seen a stark rise in value. The Indian rupee and Japanese yen have hit record lows, with the rupee closing at 83.535 and the yen at 154.28 against the dollar. The Malaysian ringgit and Indonesian rupiah also fell sharply, with the rupiah crossing the 16,000 mark for the first time since 2020. The South Korean won reached 1,400, a level last seen during the pandemic. The Chinese yuan experienced a less severe drop, reaching a five-month low. Factors contributing to this trend include geopolitical tensions, particularly between Iran and Israel, strong US retail sales data, and higher-than-expected US inflation, which reduced the likelihood of an interest rate cut by the Federal Reserve. Regionally, China's uneven economic recovery and the anticipation of currency devaluation have led businesses to hold onto dollars, further affecting the yuan. Indonesia's rupiah decline was influenced by a week-long market closure for Eid al-Fitr and subsequent reactions to global developments. The weakening of China's yuan also impacts neighboring countries' currencies, given China's significant trade relationships.
+
+Tue, 16 Apr 2024 18:45:19 +0530
+### [Quicksplained: How much do top CEOs of Indian IT companies earn?](https://www.firstpost.com/explainers/quicksplained-how-much-do-top-ceos-of-indian-it-companies-earn-13760303.html)
+
+The IT industry continues to top the list for the highest CEO salaries. Cognizant CEO Ravi Kumar Singisetti leads as the highest-paid Indian executive in the sector, with a total compensation of $22.56 million, largely due to a one-time stock incentive. The average CEO remuneration in India has risen to Rs 13.8 crore, a 40% increase since pre-COVID times, with incentives forming a significant part of this pay. Other notable CEOs include Thierry Delaporte of Wipro with $10.1 million, C Vijayakumar of HCL with $10.65 million, Julie Sweet of Accenture with $31.55 million, and Salil Parekh of Infosys with $6.8 million. The report highlights the stark contrast between CEO pay and the median employee income, with ratios ranging from 253 to 916 times greater.
+
+Tue, 16 Apr 2024 18:01:32 +0530
+### [Explained: Is sleep a fundamental right in India?](https://www.firstpost.com/explainers/sleep-fundamental-right-india-bombay-high-court-supreme-court-13760287.html)
+
+The Bombay High Court criticized the Enforcement Directorate (ED) for questioning a 64-year-old man, Ram Issrani, after midnight, highlighting the right to sleep as a fundamental human requirement. Issrani was detained and questioned overnight in an alleged money laundering case, which his advocate argued violated his constitutional right to sleep. The court disapproved of the practice of recording statements at late hours, emphasizing the negative impact on health and cognitive skills. The Supreme Court had previously ruled sleep as a fundamental right under Article 21 of the Constitution. The High Court directed the ED to establish appropriate timings for questioning, reinforcing sleep's importance for health and well-being, as recognized by various courts and health experts.
+
+Tue, 16 Apr 2024 17:20:50 +0530
+### [Take your breath away: Can a sports bra affect your breathing?](https://www.firstpost.com/explainers/sports-bra-breathing-performance-studies-support-13760290.html)
+
+A study by the University of British Columbia, funded by Lululemon Athletica, found that tight sports bras can impede breathing and running performance in women. Examining elite runners, the research indicated that a too-tight sports bra led to fewer breaths and a higher breath rate, potentially compromising respiratory function. Conversely, a less constrictive bra decreased the work of breathing and improved running economy by reducing oxygen uptake. The transition from a tighter to a looser bra improved running performance by 1.3%, a significant margin for professional athletes. Past research corroborates these findings, suggesting that correct sports bra fit can enhance performance and reduce injury risk. Olympians like Kara Goucher and Kim Conley expressed surprise and interest in the study's implications for competitive standards. The study emphasizes the importance of proper sports bra fitting, not only for comfort but also for optimal athletic performance and health.
+
+Tue, 16 Apr 2024 17:00:13 +0530
+### [From the Himalayas to Tokyo: How Nepal is helping Japan print its currency notes](https://www.firstpost.com/explainers/from-the-himalayas-to-tokyo-how-nepal-is-helping-japan-print-its-currency-notes-13760165.html)
+
+Japan's yen banknotes are undergoing a transformation, thanks to Nepal's argeli bark. The traditional Japanese paper, mitsumata, is scarce due to rural depopulation and climate change. In search of an alternative, Japan turned to Nepal, where the argeli shrub thrives in the Himalayas. Nepali farmers, trained by Japanese specialists post-2015 earthquake, now expertly cultivate argeli for Japan's currency production. This has significantly improved the farmers' livelihoods, with one farmer, Pasang Sherpa, expecting to earn 8 million Nepali rupees this year. The argeli industry has revitalized local economies and is seen as a symbol of prosperity and resilience. Japan will introduce new banknotes featuring advanced anti-counterfeiting technologies and cultural portraits on July 3, 2024, with the current notes remaining legal tender. This partnership highlights the power of international collaboration and innovation.
+
+Tue, 16 Apr 2024 16:06:37 +0530
+### [How breast cancer deaths are likely to increase by 50% by 2040](https://www.firstpost.com/explainers/how-breast-cancer-deaths-are-likely-to-increase-by-50-by-2040-13760200.html)
+
+Breast cancer has become the most prevalent cancer globally, with a Lancet report predicting a 50% increase in deaths by 2040, reaching one million annually. Despite medical advances, the disease's impact is growing, especially in low- and middle-income countries. The report highlights a rise in diagnoses, with 2.3 million new cases in 2020 and an expected surge to three million yearly by 2040. It emphasizes the need for better communication between patients and health professionals, early detection, and research to improve survival rates and quality of life. The report also calls for addressing the inequities and hidden burdens of breast cancer, advocating for patient involvement in care decisions and rights, and training healthcare workers in communication skills to manage the disease more effectively.
+
+Tue, 16 Apr 2024 16:05:12 +0530
+### [Two stabbing incidents in Australia in 3 days: How common is such violence?](https://www.firstpost.com/explainers/australia-church-stabbing-sydney-mall-attack-how-common-is-violence-13760171.html)
+
+Australia has been shaken by two stabbing incidents in Sydney within three days. A 16-year-old boy was arrested for attacking a bishop and a priest at a church service, following a mall attack that left six dead. The church assault, deemed a terrorist act with religious motives, resulted in non-life-threatening injuries to the clergy and two others. The teen suspect, previously convicted for related offenses, was on a good behavior bond. The incident led to clashes between the bishop's followers and police, resulting in hospitalizations and property damage. These events mark a rare surge in violence for Australia, known for its strict gun laws and low incidence of such attacks.
+
+Tue, 16 Apr 2024 15:16:38 +0530
+### [The unhappy leave: What’s the new policy introduced by a Chinese firm?](https://www.firstpost.com/explainers/unhappy-leave-new-policy-chinese-firm-13760133.html)
+
+In an innovative move to address workplace anxiety, the Chinese supermarket chain Pang Dong Lai is offering employees up to 10 days of 'unhappy leave' annually, without requiring managerial approval. This policy is part of a broader approach to empower employees with more control over their work-life balance, including a seven-hour workday, weekends off, and substantial annual leave. The initiative stands in stark contrast to China's notorious '996' work culture and aims to combat the negative emotions and unpaid overtime that plague many Chinese workers. While the policy has been praised for its potential to improve focus and productivity, concerns about misuse and the need for robust management strategies have been raised. The move reflects a global shift towards flexible work arrangements and the protection of workers' rights, with countries like Belgium leading the way in granting employees the 'right to disconnect' from work outside of office hours.
+
+Tue, 16 Apr 2024 14:55:01 +0530
+### [Tehran’s miscalculation? How Iran’s attack has helped garner sympathy for Israel](https://www.firstpost.com/explainers/iran-attack-tehran-miscalculation-sympathy-israel-benjamin-netanyahu-support-13760160.html)
+
+Iran's unprecedented attack on Israel, launching over 300 drones and missiles, has been largely deemed a failure, with 99% intercepted by Israel's defense systems. Despite causing minimal damage, the strike has inadvertently strengthened Israel's international relations, particularly with the US, UK, and France, who rallied in support and actively participated in defense efforts. The attack also bolstered Prime Minister Netanyahu's position, providing him with political leverage and international military backing. While Iran claims victory, global analysts view the attack as a miscalculation that may lead to regret, having lost control of the narrative and unintentionally aiding Israel's diplomatic and strategic standing.
+
+Tue, 16 Apr 2024 13:31:51 +0530
+### [Quicksplained: Why has Chinese influencer Thurman Maoyibei been kicked off social media?](https://www.firstpost.com/explainers/quicksplained-why-has-chinese-influencer-thurman-maoyibei-been-kicked-off-social-media-13760086.html)
+
+Thurman Maoyibei, a Chinese influencer with a 30 million following, faced a crackdown by authorities for spreading a fabricated story about a boy's lost homework books. The narrative, which led to a nationwide search, was exposed as a hoax, resulting in the shutdown of her social media accounts. Hangzhou police revealed that Maoyibei, whose real surname is Xu, and a colleague bought the books and concocted the story for online engagement. This incident highlights China's stringent campaign against misinformation, with over 1,500 arrests and 10,700 administrative punishments since December. Xu apologized for her actions, urging influencers to avoid spreading falsehoods and maintain a clean online environment. Public reaction was mixed, with some criticizing the severity of the punishment.
+
+Tue, 16 Apr 2024 12:43:26 +0530
+### [How Arab nations ‘helped’ Israel fend off Iran’s attack and why it is a big deal](https://www.firstpost.com/explainers/iran-attacks-israel-role-of-arab-nations-jordan-saudi-arabia-uae-13760032.html)
+
+In a surprising turn of events, Arab nations, traditionally critical of Israel, have assisted in intercepting an Iranian aerial assault. Jordan shot down Iranian drones and allowed Israeli jets to use its airspace, while Saudi Arabia and the UAE provided intelligence on Iran's plans. This marks a significant shift in regional dynamics, as Arab states prioritize their own security and stability over political differences. The cooperation between Israel and Arab nations, particularly Jordan, suggests a potential for future collaboration despite ongoing tensions. The incident reflects the complex interplay of alliances and interests in West Asia, with countries navigating between self-preservation and political affiliations amidst a backdrop of religious-sectarian conflicts.
+
+Tue, 16 Apr 2024 12:33:52 +0530
+### [Quicksplained: Who are the two shooters who opened fire outside Salman Khan's residence?](https://www.firstpost.com/explainers/quicksplained-shooters-salman-khan-firing-case-13760087.html)
+
+Vicky Gupta (24) and Sagar Pal (21) were arrested for firing outside Salman Khan's Mumbai residence. They were apprehended in Gujarat's Bhuj and brought to Mumbai. Gupta, associated with the Lawrence Bishnoi gang, had prior criminal records and was linked to gang operations handled from the UK. Pal, hired for the shooting, hailed from Bihar. The duo abandoned their motorcycle and fled to Bhuj after the incident. Anmol Bishnoi claimed responsibility for the act on Facebook. Both accused will face court proceedings in Mumbai.
+
+Tue, 16 Apr 2024 11:17:58 +0530
+### [Why are the elections in the Solomon Islands important to China?](https://www.firstpost.com/explainers/elections-solomon-islands-china-manasseh-sogavare-13760070.html)
+
+The Solomon Islands are gearing up for pivotal elections on April 17, with Prime Minister Manasseh Sogavare seeking a historic second term. His shift of the nation's allegiance from Taiwan to Beijing has raised the stakes, as both China and the US vie for influence in the South Pacific. The outcome could affect regional power dynamics, with concerns over China potentially establishing a naval base. The electoral process, involving over 700,000 voters across 900 islands, is marred by vote-buying and political horse trading, reflecting deep-seated issues like ethnic tensions and economic disparities. Sogavare's tenure has been transformative yet controversial, marked by a security pact with Beijing and accusations of foreign interference in domestic politics.
+
+Tue, 16 Apr 2024 10:11:06 +0530
+### [Trump dozes off and more… Takeaways from Day 1 of Donald Trump’s hush money trial](https://www.firstpost.com/explainers/donald-trum-hush-money-trial-big-takeaways-day-1-napping-justice-merchan-13760026.html)
+
+Article found but Couldn't summarize 
+Day 1 of Donald Trump’s hush money trial is completed. This is a historic moment in US history as he becomes the first president, past or present, to face a criminal trial. But what happened on the first day? Here are the big moments
+
+Tue, 16 Apr 2024 08:34:26 +0530
+### [How a failed attack on Israel may be a strategic success for Iran](https://www.firstpost.com/explainers/iran-attack-israel-strategic-success-13759936.html)
+
+Iran's first direct assault on Israel, involving over 300 weapons, was largely intercepted by Israel's Iron Dome, with support from the UK, US, and Jordan. While deemed a tactical failure, it may prove strategically successful, highlighting divisions within Israel and between Israel and the US. Domestically, Israeli PM Netanyahu faces protests demanding his removal and criticism for not negotiating with Hamas for hostage releases. Internationally, US-Israel relations are strained, evidenced by the US abstaining from a UN resolution calling for a Gaza ceasefire, signaling a shift in its unconditional support for Israel. The situation challenges Netanyahu's coalition and Israel's deterrence strategy, with potential implications for its alliances and sovereignty.
+
+Tue, 16 Apr 2024 06:00:32 +0530
+### [FirstUp: SC to hear EVM-VVPAT plea, Salman Rushdie’s memoir to release… The headlines today](https://www.firstpost.com/explainers/firstup-sc-to-hear-evm-vvpat-plea-salman-rushdies-memoir-to-release-the-headlines-today-13759896.html)
+
+The Supreme Court of India is set to hear significant cases, including the cross-verification of EVMs with VVPATs, and the ongoing case against Patanjali's misleading ads. In politics, PM Narendra Modi will address a rally in Bihar, while Priyanka Gandhi Vadra will hold a roadshow in Tripura. The JNU Students' Union has called for a strike over the administration's handling of a sexual harassment complaint. Dimple Yadav will file her nomination for the Lok Sabha elections in Mainpuri. Additionally, Salman Rushdie's memoir 'Knife,' recounting his 2022 attack, will be released, marking a poignant moment as he turns his harrowing experience into art.
+
 Mon, 15 Apr 2024 20:34:56 +0530
 ### [Explained: How fairness creams can increase the risk of kidney damage](https://www.firstpost.com/explainers/fairness-creams-increase-risk-of-kidney-damage-13759895.html)
 

@@ -1,3 +1,53 @@
+Tue, 16 Apr 2024 15:30:10 +0000
+### [S Y Quraishi on life after electoral bonds: The next steps](https://indianexpress.com/article/opinion/columns/electoral-bonds-next-steps-sy-quraishi-9274120/)
+
+The article discusses the Supreme Court's decision to declare electoral bonds unconstitutional, highlighting the Prime Minister's concerns about the ruling's impact on black money in elections. The PM and Home Minister Amit Shah agree that the pre-2018 situation, where 70% of political donations were in cash, was problematic. The author, a former Chief Election Commissioner, suggests a National Election Fund (NEF) as a transparent alternative, allowing donations with tax benefits and distributing funds based on parties' electoral performance. The NEF would eliminate the need for private donations, ensuring honesty and accountability in political funding. The article concludes with an appeal to the Prime Minister to consider various electoral finance reforms proposed by the Election Commission to combat corruption.
+
+Tue, 16 Apr 2024 14:02:00 +0000
+### [Express View: Salman Rushdie writes back](https://indianexpress.com/article/opinion/editorials/express-view-salman-rushdie-writes-back-9273915/)
+
+In "Knife: Meditations after an Attempted Murder," Salman Rushdie reflects on the attack he survived in 2022, advocating for artistic freedom and resilience. He connects his experience to historical and contemporary artists who faced persecution for their work, emphasizing the essential nature of art to humanity. Rushdie's memoir is a testament to the power of stories against autocracy and a call to uphold the right to free expression. Despite the personal risks, he champions the artist's role in speaking truth to power and the importance of creative freedom in a democratic society. The book is a narrative of overcoming hatred with love and reaffirming life through artistic rebirth.
+
+Tue, 16 Apr 2024 10:20:26 +0000
+### [C Raja Mohan writes: What Opposition manifestos say about changing domestic views on India’s foreign policy](https://indianexpress.com/article/opinion/columns/opposition-manifestos-india-foreign-policy-9273440/)
+
+The article discusses the divergent views of the Congress and the Communist Party of India (Marxist) on the BJP government's foreign policy. The Congress criticizes the Modi government for straying from traditional foreign policy, particularly regarding the Gaza conflict, while the CPM condemns India's military ties with Israel and demands UN sanctions. The Left's influence, though diminished in Parliament, persists intellectually, especially in its critique of U.S. relations. The CPM accuses the BJP of aligning too closely with the U.S., abandoning non-alignment principles. Conversely, Congress avoids discussing the U.S., focusing instead on "strategic autonomy." The article also highlights Congress's strong stance on China, promising to counter Chinese intrusions and adjust policies accordingly. The absence of Russia in both parties' foreign policy discussions is noted as a significant shift, reflecting changes in India's great power relations over the past decade. The author is an international affairs editor and professor at the National University of Singapore.
+
+Tue, 16 Apr 2024 09:16:35 +0000
+### [Influencer as aspirational: The Delhi Vada Pav girl in all of us](https://indianexpress.com/article/opinion/columns/influencer-as-aspirational-the-delhi-vada-pav-girl-in-all-of-us-9273354/)
+
+The article reflects on the performance aspect of our lives, drawing parallels between Tones and I's song 'Dance Monkey' and the story of Chandrika Gera Dixit, the Delhi Vada Pav Girl. It discusses how, like the artist who felt pressured to entertain as a busker, Dixit's viral distress video led to internet fame and a persona that thrives on performance. The piece critiques the modern workplace's emphasis on visibility and performance over actual work, suggesting that in today's world, being seen working is as important as the work itself. It cites Charles Horton Cooley's "looking-glass self" theory, which posits that our self-identity is shaped by how we believe others perceive us. The article concludes by emphasizing the importance of self-awareness and acknowledging the performative nature of our social and professional lives.
+
+Tue, 16 Apr 2024 06:53:17 +0000
+### [From Sidhu Moosewala to Salman Khan: The tryst between stars and the Bishnoi gang](https://indianexpress.com/article/opinion/columns/salman-khan-chamkila-moosewala-the-long-tryst-between-stars-and-the-bishnoi-gang-9273053/)
+
+Netflix's biopic "Amar Singh Chamkila" directed by Imtiaz Ali and starring Diljit Dosanjh, has garnered praise for its portrayal of the Dalit Sikh performer's rise and mysterious assassination, likened to the "Elvis of Punjab." The film parallels the recent murder of Sidhu Moosewala, with the Lawrence Bishnoi gang claiming responsibility. The gang, notorious for threatening celebrities, also attacked Salman Khan's residence, intensifying the ongoing threats against him since the 1998 blackbuck case. Khan's transformation from a '90s romantic hero to a philanthropic action star is highlighted, alongside his legal battles and the persistent threats that challenge his reformed public image. The article underscores the vulnerability of celebrities to gang threats, particularly in Punjab, and the serious nature of the risks they face.
+
+Tue, 16 Apr 2024 02:30:48 +0000
+### [Express View on BJP and Congress manifestos: Lacking a larger vision for agriculture](https://indianexpress.com/article/opinion/editorials/express-view-on-bjp-and-congress-manifestos-lacking-a-larger-vision-for-agriculture-9272298/)
+
+The BJP's 2024 election manifesto avoids populist promises for farmers, instead reiterating ongoing government programs like incremental MSP increases and financial support through the Pradhan Mantri Kisan Samman Nidhi. It reflects a confidence in the party's policies and a reluctance to commit to unfeasible promises, particularly remaining silent on the contentious farm laws it had to repeal. Conversely, the Congress manifesto offers a "legal guarantee" to MSP, a promise viewed skeptically by economists for its fiscal impracticality. Both parties propose beneficial programs, with Congress aiming to double agricultural R&D funding and BJP focusing on technological solutions for crop insurance. However, a comprehensive vision for sustainable Indian agriculture is notably absent from both manifestos.
+
+Tue, 16 Apr 2024 02:30:46 +0000
+### [Naseeruddin Shah and Ashok Lal write: Why religion must only be for adults](https://indianexpress.com/article/opinion/columns/naseeruddin-shah-and-ashok-lal-write-why-religion-must-only-be-for-adults-9272296/)
+
+The article critiques the Registration of Births and Deaths (Amendment) Act, 2023, which requires recording the religion of parents on a child's birth certificate. The authors argue that assigning a religion at birth is regressive and infringes on human rights, as it may hinder the child's freedom and growth. They draw parallels with historical figures like Gautama Buddha and Galileo, who challenged prevailing beliefs, to emphasize the importance of allowing children to develop their own moral and spiritual beliefs. The article suggests that early environmental influences have a lasting impact on a child's development and that the law could perpetuate communalism and majoritarianism, thus stifling individual potential and intellectual freedom.
+
+Tue, 16 Apr 2024 01:58:32 +0000
+### [Express View on Israel-Iran conflict: Step back now](https://indianexpress.com/article/opinion/editorials/express-view-on-israel-iran-conflict-step-back-now-9272297/)
+
+Iran's missile and drone attack on Israel, a retaliation for an alleged Israeli airstrike on a consulate in Damascus, has escalated tensions. While Israel's defense systems neutralized the assault, causing minimal damage and no casualties, the incident has breached previous boundaries of conflict, which had been limited to proxy wars and foreign soil skirmishes. The US and G7 nations have warned against further escalation, urging restraint. Despite this, Israel's government, led by Netanyahu, faces internal pressure and international isolation, risking unpredictable actions. The global community, including India, calls for de-escalation and diplomacy to restore regional peace and security.
+
+Tue, 16 Apr 2024 01:35:08 +0000
+### [April 16, Forty Years Ago: Arson In Punjab](https://indianexpress.com/article/opinion/40-years-ago/april-16-forty-years-ago-arson-in-punjab-9272320/)
+
+In a coordinated attack, terrorists set ablaze 31 railway stations across nine districts of Punjab, with reports suggesting up to 37 stations affected. The Punjab police described the incident as a well-planned operation, with groups of terrorists burning records, looting cash, and fleeing. In a separate development, a conspiracy within the Shiromani Akali Dal aimed at assassinating Jarnail Singh Bhindranwale and his top aides was revealed, linked to the recent murder of Surinder Singh Sodhi. Meanwhile, Sri Lanka's President Junius Jayewardene voiced his displeasure over India's perceived interference in his nation's affairs. Additionally, Pakistan's President Zia ul Haq proposed a referendum to decide between Western democracy and an Islamic government, affirming his commitment to establishing the latter.
+
+Tue, 16 Apr 2024 01:30:18 +0000
+### [Bonobos are not so nice — just like humans](https://indianexpress.com/article/opinion/editorials/bonobos-are-not-so-nice-just-like-humans-9272299/)
+
+Recent research challenges the long-held view that bonobos are predominantly peaceful and cooperative. The study, led by Maud Mouginot from the University of Boston, found that bonobos exhibit nearly three times more violence than previously observed in chimpanzees, contradicting their "hippie ape" reputation. This aggression is mostly male-on-male, differing from chimpanzee group attacks. The findings suggest that bonobo females play a role in mitigating male aggression, particularly in mating contexts, preferring assertive but not coercive partners. These insights add complexity to the understanding of primate behavior and its evolutionary implications for human societies, indicating that shared genetics with bonobos doesn't fully explain human empathy and cooperation. The study underscores the nuanced nature of both human and ape societies, beyond mere ancestral connections.
+
 Mon, 15 Apr 2024 14:17:47 +0000
 ### [Express View on agriculture in BJP, Congress manifesto: Lacking a larger vision](https://indianexpress.com/article/opinion/editorials/express-view-agriculture-bjp-congress-manifesto-vision-9271962/)
 

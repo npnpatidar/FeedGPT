@@ -1,3 +1,13 @@
+Wed, 17 Apr 2024 00:20:00 +0530
+### [In the fray: On the  CSDS-Lokniti pre-poll survey 2024 findings](https://www.thehindu.com/opinion/editorial/in-the-fray-on-the-csds-lokniti-pre-poll-survey-2024-findings/article68071956.ece)
+
+The CSDS-Lokniti pre-poll survey for India's 2024 General Elections highlights unemployment and price rise as the primary concerns among voters, reflecting the challenges faced by a country with a large youth demographic and modest per capita income. Over half of the surveyed individuals believe corruption has worsened in the past five years. The BJP government, led by Narendra Modi, is criticized for its lackluster economic performance and policies favoring the elite. Despite this, the BJP maintains a 12-point lead over the opposition, with voters prioritizing leadership and socio-cultural issues. The survey indicates a potential north-south political divide and suggests that nearly 58% of respondents have lost trust in the Election Commission of India, underscoring the need for the institution to restore confidence in the electoral process.
+
+Wed, 17 Apr 2024 00:10:00 +0530
+### [Step back: on Iran-Israel tensions](https://www.thehindu.com/opinion/editorial/step-back-on-iran-israel-tensions/article68072172.ece)
+
+Tensions in West Asia have escalated following Iran's drone and missile attack on Israel, a retaliation for the bombing of its embassy in Damascus. The attack, which resulted in the loss of Iranian military officials, marks a significant escalation from Tehran's usual proxy engagements. Israel, with support from the U.S., U.K., France, and Jordan, successfully intercepted most of the projectiles. While Iran claims the matter is settled, Israel has promised a response. The situation underscores the fragile geopolitical landscape of West Asia, further strained by Israel's actions in Gaza and the failure of the U.S. to contain its ally. With both nations on the brink of war, Prime Minister Netanyahu is urged to de-escalate to prevent a regional conflict that could disrupt the world's energy supply.
+
 Tue, 16 Apr 2024 00:30:00 +0530
 ### [Pitch for continuity: On the BJP manifesto for the General election 2024](https://www.thehindu.com/opinion/editorial/pitch-for-continuity-the-hindu-editorial-on-the-bjp-manifesto-for-the-general-election-2024/article68068529.ece)
 

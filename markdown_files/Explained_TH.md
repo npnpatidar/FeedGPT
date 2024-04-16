@@ -1,3 +1,8 @@
+Tue, 16 Apr 2024 22:45:34 +0530
+### [Reforms needed in the voting process | Explained](https://www.thehindu.com/news/national/reforms-needed-in-the-voting-process-explained/article68073269.ece)
+
+The Supreme Court of India is set to hear petitions for complete verification of VVPAT slips with EVM counts. The evolution of voting in India from separate boxes for each candidate to the introduction of EVMs in 1982 is highlighted. EVMs have been validated by the Supreme Court and were used across all constituencies in the 2004 Lok Sabha elections. Despite their benefits, such as preventing booth capturing and eliminating invalid votes, EVMs face skepticism over their susceptibility to hacking. The current practice of matching EVM counts with VVPAT slips in five random booths per constituency lacks a scientific basis and could miss errors. The article suggests a more robust verification process, including scientific sampling and the use of 'totaliser' machines to maintain voter anonymity at the booth level. The author, Rangarajan. R, emphasizes the need for transparency and verifiability in the electoral process without requiring special technical knowledge from citizens.
+
 Mon, 15 Apr 2024 17:30:00 +0530
 ### [How are hydrocarbons extracted from under the ground? | Explained](https://www.thehindu.com/sci-tech/science/hydrocarbon-extraction-drilling/article68067808.ece)
 
