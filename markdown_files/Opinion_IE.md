@@ -1,3 +1,53 @@
+Wed, 17 Apr 2024 13:53:46 +0000
+### [Banning transgender persons from begging is cruel and illegal](https://indianexpress.com/article/opinion/columns/transgender-persons-ban-begging-is-cruel-and-illegal-9276074/)
+
+Pune police commissioner Amitesh Kumar issued an order banning transgender persons from begging in various public spaces, continuing a trend from his previous posting in Nagpur. However, such bans are constitutionally questionable and perpetuate stigma. Legal precedents challenge laws criminalizing begging, emphasizing its roots in poverty. Justice Gita Mittal underscores that begging is a symptom of societal failure. Policing of transgender individuals exacerbates marginalization and discrimination. The state must prioritize economic and social rights, providing support rather than punitive measures. Emancipation schemes and data-driven policies are vital to address poverty and inequality effectively. The article calls for a shift towards progressive, rights-based approaches to social issues.
+
+Wed, 17 Apr 2024 12:23:38 +0000
+### [Roberto Cavalli: The man who gave us distressed denims and skinny jeans](https://indianexpress.com/article/opinion/columns/roberto-cavalli-distressed-denims-skinny-jeans-9275599/)
+
+Roberto Cavalli, the fashion icon known for his boho chic and maximalist designs, passed away at 83. His work, characterized by animal prints and vibrant colors, was a departure from high fashion's minimalism. Cavalli's legacy includes the popularization of distressed and skinny jeans, which he first introduced in 1972 using repurposed prison jeans. He was a pioneer in making fashion eclectic, encouraging mix-and-match styles. Beyond his flamboyant image, Cavalli was a visionary who understood market needs, introducing stretch jeans with lycra for comfort. His affordable Cavalli Jeans line democratized fashion, embodying his belief that self-made success was more impactful than heritage. Cavalli's influence extended beyond design; he challenged societal norms and championed inclusivity in fashion.
+
+Wed, 17 Apr 2024 09:56:37 +0000
+### [On the campaign trail, Ambedkar is being disrespected](https://indianexpress.com/article/opinion/columns/campaign-trail-ambedkar-disrespected-9275479/)
+
+Article found but Couldn't summarize
+
+Wed, 17 Apr 2024 08:30:34 +0000
+### [In BJP and Congress manifestos, new ideas about the Indian state](https://indianexpress.com/article/opinion/columns/bjp-congress-manifesto-2024-lok-sabha-elections-9275276/)
+
+The BJP and Congress manifestos for India's future state offer contrasting visions. The BJP's 'Sankalp Patra' emphasizes a 'charitable state' model, promising welfare schemes for the poor and infrastructure for the middle class, while ensuring social justice representation. It avoids discussing religious minorities, focusing instead on temple-centric schemes and tribal heritage. The Congress's 'Nyay Patra' challenges this model, focusing on economic inequality and proposing a mixed economy with a strong public sector to counter monopolies. It advocates for a socio-economic census and increased reservation caps, emphasizing pluralism and social justice. Both documents sidestep contentious issues like the CAA, signaling a battle of political ideologies shaping India's democracy. The unrelated content regarding UAE's weather has been omitted from this summary.
+
+Wed, 17 Apr 2024 02:40:45 +0000
+### [Climate change is driving food prices up. This can no longer be ignored](https://indianexpress.com/article/opinion/columns/climate-change-is-driving-food-prices-up-this-can-no-longer-be-ignored-9274581/)
+
+Prime Minister Narendra Modi touts lower inflation as a success, but it had begun declining pre-2014, with a notable deceleration post-2019. High food inflation, a significant factor, led to government intervention mandating stock reporting. However, blaming traders for inflation overlooks perishable nature and weather-driven pricing of agricultural goods. Unlike the US, India's retail sector, dominated by small stores, likely has minimal impact on inflation. Recent government measures targeting grain traders are superficial, not addressing deeper issues like climate change's impact on agriculture. Globally, rising food prices due to climate change are anticipated. India's anti-inflation policy, focusing on output reduction, fails to address the supply-demand gap in agriculture.
+
+Wed, 17 Apr 2024 02:37:23 +0000
+### [Lessons from India’s alternate development plan](https://indianexpress.com/article/opinion/columns/lessons-from-indias-alternate-development-plan-9274584/)
+
+India's recent economic growth of 7.5% is a beacon of hope in a subdued global economy, driven by public investment and private sector dynamism. The World Bank's Managing Director Operations highlights India's development as a model for innovation and resilience, with significant strides in renewable energy, digital public infrastructure (DPI), and female empowerment. Renewable sources now constitute 42% of India's power capacity, positioning it as a major player in the global renewables market. The DPI initiative has revolutionized access to government services, fostering financial inclusion and business expansion, especially for women. Despite lower female labor force participation, India shows promise in bridging the gender gap, with the World Bank-supported National Rural Livelihoods Mission empowering rural women. These developments offer valuable lessons for global development, with India poised to play a pivotal role in shaping the future.
+
+Wed, 17 Apr 2024 02:30:34 +0000
+### [This Ram Navami, reflecting on the Vibhishan moment](https://indianexpress.com/article/opinion/columns/this-ram-navami-reflecting-on-the-vibhishan-moment-9274538/)
+
+The article reflects on the intersection of politics and spirituality during Ram Navami, highlighting the festival as a respite from political debates over Lord Ram's legacy. It draws from Goswami Tulsidas' *Ramcharitmanas*, emphasizing the divine paradox of Lord Ram's humble yet powerful presence against Ravan. The narrative uses the allegory of Ram's chariot—symbolizing virtues like bravery, patience, and wisdom—to inspire personal righteousness. The "Vibhishan moment," choosing truth over loyalty, is presented as a pivotal choice for individuals facing moral dilemmas. The piece concludes by likening our pursuit of love and courage to the boatman's role in Tulsidas' work, urging us to maintain faith and resist injustice despite imperfections. The author, Bakshi, connects these themes to the broader human condition and the quest for spiritual and moral integrity.
+
+Wed, 17 Apr 2024 01:52:50 +0000
+### [April 17, Forty Years Ago: Opposition parties resolve to fight use of separatist forces by Congress leaders](https://indianexpress.com/article/opinion/40-years-ago/april-17-forty-years-ago-opposition-parties-resolve-to-fight-use-of-separatist-forces-by-congress-leaders-9274357/)
+
+In a significant crackdown, Indian police detained over 150 members of the banned All-India Sikh Students Federation following the arson of railway stations. This action came after four individuals, including the alleged assassin of Surinder Singh Sodhi, were killed. India also protested Pakistan's appointment of representatives to the Majlis-e-Shoora from areas claimed by India, citing a breach of the Simla agreement. Additionally, a revamp of Punjab's intelligence system is underway, with central experts deployed to counter an organized terrorist communication network evidenced by the coordinated burning of 37 railway stations. Meanwhile, a convention of 17 opposition parties criticized the ruling Congress (I) for hypocritically exploiting separatist forces despite their proclaimed commitment to national unity. Separately, the UAE faced unprecedented heavy rains, causing a fatality, property damage, and flight disruptions, with climate change and cloud seeding as suspected contributors.
+
+Wed, 17 Apr 2024 01:40:39 +0000
+### [Express View: A good augury](https://indianexpress.com/article/opinion/editorials/express-view-imd-weather-prediction-rainfall-unseasonal-rain-9274337/)
+
+The India Meteorological Department (IMD) predicts an above-normal southwest monsoon for India, with expected rainfall at 106% of the long-term average. This forecast is supported by the anticipated transition from El Niño to La Niña conditions, which typically increases rainfall in India. Additionally, positive Indian Ocean Dipole conditions are expected to develop, further supporting a strong monsoon. A robust monsoon is crucial for India's agricultural sector, which has seen a decline in growth and employs a significant portion of the workforce. It also affects water availability and power generation. However, concerns over retail food inflation, which remains high due to low wheat stocks and poor rabi crop production, may limit the government's response options. The upcoming monsoon and kharif harvest are pivotal for economic and policy outcomes.
+
+Wed, 17 Apr 2024 01:30:15 +0000
+### [Express View on Derek Underwood: The Deadly spinner](https://indianexpress.com/article/opinion/editorials/express-view-on-derek-underwood-the-deadly-spinner-9274350/)
+
+Derek Underwood, England's celebrated Test left-arm spinner known as "Deadly," passed away on April 15 at the age of 78. Renowned for his skill on damp English pitches, Underwood was a versatile bowler who held the record for the most wickets by an overseas spinner in India, with 54 dismissals. Sunil Gavaskar, whom Underwood dismissed 12 times, praised him as one of the toughest bowlers he faced. Underwood's unique bowling style involved a quick release and a focus on drop rather than loop, challenging batsmen with his cut and spin. Despite his success, only 24 of his 297 wickets were lbw, attributed to conservative umpiring in the pre-DRS era. His career faced interruptions due to his participation in Kerry Packer's rebel league and a ban for joining a rebel tour to Apartheid South Africa, after which he never played for England again.
+
 Tue, 16 Apr 2024 15:30:10 +0000
 ### [S Y Quraishi on life after electoral bonds: The next steps](https://indianexpress.com/article/opinion/columns/electoral-bonds-next-steps-sy-quraishi-9274120/)
 

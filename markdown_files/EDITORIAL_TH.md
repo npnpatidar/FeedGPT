@@ -1,3 +1,13 @@
+Thu, 18 Apr 2024 00:20:00 +0530
+### [Rain shocks: On the monsoon in 2024](https://www.thehindu.com/opinion/editorial/rain-shocks-on-the-monsoon-in-2024/article68071987.ece)
+
+The India Meteorological Department (IMD) predicts a monsoon with 6% more rainfall than the average 87 cm typically received from June to September. This optimistic forecast comes despite soaring temperatures and heatwaves in southern states. However, there's a risk of "excess" rains, with a 30% chance of exceeding the norm by more than 10%. The forecast, influenced by the expected development of La Niña and a positive Indian Ocean Dipole, suggests heavy rains later in the season, potentially leading to severe floods and damage. The IMD advises readiness for extreme weather, urging states to prepare disaster management plans and farmers to adjust sowing for a potentially stronger second half of the monsoon.
+
+Thu, 18 Apr 2024 00:10:00 +0530
+### [Missing medical colleges: On the case of the Madurai AIIMS](https://www.thehindu.com/opinion/editorial/missing-medical-colleges-on-the-case-of-the-madurai-aiims/article68076248.ece)
+
+The Madurai AIIMS project, part of India's Pradhan Mantri Swasthya Suraksha Yojana (PMSSY) to address the doctor-patient ratio, has faced significant implementation challenges. Despite the goal to expand affordable medical education, AIIMS Madurai has been criticized for inadequate infrastructure and facilities. Construction delays have led to protests from students, who have been temporarily housed in Ramanathapuram's Government Medical College. The project's slow progress was highlighted during Tamil Nadu's 2021 Assembly elections, with promises of completion yet unfulfilled. This has affected 150 students and underscores the need for effective collaboration between the Centre and State to ensure the institution's success and address the broader healthcare gap.
+
 Wed, 17 Apr 2024 00:20:00 +0530
 ### [In the fray: On the  CSDS-Lokniti pre-poll survey 2024 findings](https://www.thehindu.com/opinion/editorial/in-the-fray-on-the-csds-lokniti-pre-poll-survey-2024-findings/article68071956.ece)
 

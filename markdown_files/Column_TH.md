@@ -1,3 +1,8 @@
+Wed, 17 Apr 2024 00:30:00 +0530
+### [IPL | When players go beyond cliches and illuminate the format](https://www.thehindu.com/opinion/columns/when-players-go-beyond-cliches-and-illuminate-the-format/article68071847.ece)
+
+The article reflects on the rarity of memorable quotes in IPL amidst the usual clichés. It highlights Suryakumar Yadav's candid admission about avoiding batting against Jasprit Bumrah in nets due to Bumrah's intimidating bowling. Bumrah, known for his versatility and lack of ego in the game, is contrasted with the two types of ego in sports: the positive, which drives self-improvement, and the negative, which hinders growth. The piece also touches on the old-school cricket mentality that dismisses data analysis, as voiced by legends like Bishan Bedi and Erapalli Prasanna. However, it acknowledges the overwhelming nature of data, citing Sunil Narine's approach of simplicity and focus on his role. The article concludes with insights from top players, suggesting a blend of tradition and modernity in cricket's evolution.
+
 Sun, 14 Apr 2024 18:47:53 +0530
 ### [Political Line | Unity and divisiveness: in the eye of the beholder](https://www.thehindu.com/news/national/unity-and-divisiveness-in-the-eye-of-the-beholder/article68065004.ece)
 

@@ -1,3 +1,39 @@
+Wed, 17 Apr 2024 21:18:03 +0530
+### [Why Israel should desist from attacking Iran](https://www.firstpost.com/opinion/why-israel-should-desist-from-attacking-iran-13760820.html)
+
+Article found but Couldn't summarize 
+While Israel did plan to target Iran’s commander of the Quds force in its Damascus strike, Tehran had no intent of causing casualties in its counterstrike
+
+Wed, 17 Apr 2024 18:27:01 +0530
+### [How US-Japan-Philippines trilateral summit went beyond South China Sea issue](https://www.firstpost.com/opinion/how-us-japan-philippines-trilateral-summit-went-beyond-south-china-sea-issue-13760785.html)
+
+The US, Japan, and the Philippines held a trilateral summit in Washington DC on April 11, 2024, to bolster economic and security ties amid tensions in the South China Sea, particularly around the Second Thomas Shoal. The summit followed a recent incident where Chinese vessels attacked a Filipino resupply ship. The three nations condemned China's actions and pledged to oppose any forceful changes in the region by the PRC. They agreed on defense and economic initiatives, including joint naval patrols and infrastructure projects like the PGI Luzon Economic Corridor. The US emphasized its commitment to being a trusted partner in Southeast Asia, not just in security but also in economic and infrastructure development. The summit aimed to integrate Japan and the Philippines into the US' Free and Open Indo-Pacific strategy, highlighting the need for multifaceted cooperation beyond just security concerns.
+
+Wed, 17 Apr 2024 18:04:49 +0530
+### [Vantage | How will Iran respond to Israeli retaliation?](https://www.firstpost.com/opinion/vantage-how-will-iran-respond-to-israeli-retaliation-13760774.html)
+
+In the face of potential Israeli strikes, Iran is contemplating its response, with the Iranian government seemingly content with the current tit-for-tat situation. However, if Israel escalates, Iran has hinted at a swift retaliation. Iran's Plan A involves deterring Israeli action through warnings, but Plan B includes three options: utilizing proxies like Hezbollah or Houthis, a mix of direct and proxy attacks, or a direct, unrestrained strike on Israeli military sites. The choice hinges on Israel's actions. Domestically, Iran's security is managed by two forces: the traditional army and the more influential Islamic Revolutionary Guard Corps (IRGC), which is deeply integrated within the country and abroad, reporting directly to Ayatollah Ali Khamenei. The IRGC's readiness for a conventional conflict is uncertain, given its history with shadow warfare. Iran's ballistic missile capabilities are formidable, but willingness to engage in conflict remains to be seen. Amidst internal challenges, the Ayatollah's decision will reflect his authoritative role within Iran's political system. The article's views are the author's own and not necessarily shared by Firstpost.
+
+Wed, 17 Apr 2024 16:00:14 +0530
+### [Vantage | Will Netanyahu attack Iran? Does he have the political support for it?](https://www.firstpost.com/opinion/vantage-will-netanyahu-attack-iran-does-he-have-the-political-support-for-it-13760635.html)
+
+Tensions escalate in West Asia as Israel contemplates retaliation against Iran's nuclear facilities, following an Iranian strike. The International Atomic Energy Agency urges Israel to show restraint, but Israel is focused on potential targets, including Iran's main nuclear site at Natanz, now heavily fortified. Despite ramped-up uranium production by Iran, which brings it closer to weapons-grade capability, a direct Israeli strike faces operational challenges due to the defenses around Iranian sites. With the U.S. declining participation in any retaliatory action, Israel's attempts to form a coalition seem uncertain. Israeli Prime Minister Netanyahu's rhetoric remains firm against Iran's backing of militant groups, while Iran warns Western powers against support for Israel. The situation remains tense, with Iran preparing for an Israeli response and Israel under pressure from allies, marking a risky juncture for Netanyahu's known brinkmanship.
+
+Wed, 17 Apr 2024 15:43:23 +0530
+### [Rethinking green transportation: Converting ICE vehicles into electric ones](https://www.firstpost.com/opinion/rethinking-green-transportation-converting-ice-vehicles-into-electric-ones-13760637.html)
+
+India's Union Minister Nitin Gadkari has announced a plan to phase out over 36 crore petrol and diesel vehicles to foster a green economy. The transition to Electric Vehicles (EVs) is seen as a key step in combating climate change and promoting sustainable transportation. However, this shift presents challenges, including the fate of existing Internal Combustion Engine (ICE) vehicles. A proposed solution is converting ICE vehicles to EVs, which could reduce emissions and waste. This conversion is cost-effective for vehicle owners and aligns with environmental goals. India, with its manufacturing capabilities, could become a hub for EV conversion, creating jobs and reducing import dependency. The article emphasizes the need for policy support, infrastructure development, and sustainable battery production to realize the full potential of EVs. The authors, Atul K Thakur and Deepak Rauniar, advocate for a collaborative approach to support the adoption of EVs and highlight the economic and environmental benefits of vehicle conversion.
+
+Wed, 17 Apr 2024 13:40:58 +0530
+### [Mercury rising: How to protect crops from extreme heatwave](https://www.firstpost.com/opinion/mercury-rising-how-to-protect-crops-from-extreme-heatwave-13760574.html)
+
+India is facing an imminent heatwave, with early signs already affecting various states, leading to concerns about its impact on agriculture. The Indian Meteorological Department has issued alerts for extreme temperatures until June, prompting a high-level meeting chaired by the prime minister. The south is experiencing temperatures up to 44.5°C, while the north faces storm and rain warnings, which could damage wheat crops. High heat and humidity are conducive to plant diseases and pests, potentially causing significant post-harvest losses. For instance, Himachal's apple crops have suffered due to a warmer winter, and central India has reported substantial losses in wheat yields. The article suggests that a shift to ecologically resilient, nutrition-based agriculture, along with heatwave insurance coverage for farmers, could mitigate the risks. It advocates for organic farming techniques to combat climate threats, emphasizing the need for a comprehensive adaptation strategy to safeguard Indian agriculture.
+
+Wed, 17 Apr 2024 12:09:59 +0530
+### [Iran vs Israel: As red lines are crossed, lessons to be learnt](https://www.firstpost.com/opinion/iran-vs-israel-as-red-lines-are-crossed-lessons-to-be-learnt-13760527.html)
+
+Iran's first missile and drone attack on Israel marked a significant escalation, prompting a global reaction. The attack was defended by a coalition led by the US and Israel, showcasing the effectiveness of defense systems like the Iron Dome. Iran's use of drones suggested a demonstration of strength rather than full-scale warfare. Internationally, reactions were split, with the G7 supporting Israel and the Global South urging restraint. The incident highlighted the complexities of proxy warfare and the need for diplomatic dialogue. It also underscored the growing divide between the West and other nations regarding conflict response and economic implications, signaling a pressing need for peace initiatives. The article reflects the author's personal views.
+
 Tue, 16 Apr 2024 18:28:03 +0530
 ### [Beyond the Lines | Being Ladakh: The importance of ecology as strategic vision](https://www.firstpost.com/opinion/beyond-the-lines-being-ladakh-the-importance-of-ecology-as-strategic-vision-13760320.html)
 

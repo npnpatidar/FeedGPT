@@ -1,3 +1,43 @@
+Wed, 17 Apr 2024 14:40:48 +0000
+### [Why has Sonam Wangchuk suspended his Pashmina March again?](https://indianexpress.com/article/explained/sonam-wangchuk-pashmina-march-9276088/)
+
+Climate activist Sonam Wangchuk has suspended the "Pashmina March" in Ladakh, initially planned to protest the loss of grazing pastures and spotlight ecological concerns. Wangchuk, known for his 21-day protest fast and environmental advocacy, demands Ladakh's inclusion in the Sixth Schedule of the Constitution to protect its fragile environment and culture. The march aimed to demonstrate the land loss faced by Pashmina goat shepherds, attributed to corporate land acquisition and Chinese military activities along the Line of Actual Control. Despite initial support for Ladakh's UT status post-August 2019, local disquiet grew over lost autonomy and job shortages. Wangchuk's efforts reflect broader regional demands for land, job protection, and democratic restoration, with the High Powered Committee's inconclusive talks prompting his continued activism.
+
+Wed, 17 Apr 2024 14:24:47 +0000
+### [How a beam of sunlight was directed on Lord Ram’s forehead in Ayodhya temple](https://indianexpress.com/article/explained/explained-sci-tech/beam-sunlight-lord-ram-ayodhya-surya-tilak-9276021/)
+
+A three-minute Surya Tilak ceremony illuminated Lord Ram’s idol at Ayodhya’s new Ram temple during Ram Navami. Astronomers from the Indian Institute of Astrophysics devised a mirror-lens system to focus sunlight on the idol's forehead, aligning with the Hindu lunar calendar. The apparatus, resembling a periscope, features a 19-gear system to adjust for the Sun’s changing position annually. With meticulous care, the setup extends from the temple's third floor to its sanctum sanctorum. Although the final installation awaits temple completion, a modified system was deployed for the first Ram Navami. The innovative design ensures cleanliness and maintenance, vital for its operation.
+
+Wed, 17 Apr 2024 13:42:04 +0000
+### [What is the dress code for advocates and when can it be relaxed?](https://indianexpress.com/article/explained/explained-law/dress-code-advocates-9276050/)
+
+The Karnataka High Court has issued a circular allowing advocates in district and trial courts to forego the black coat during court proceedings for the remainder of April and May, providing relief from the summer heat. This relaxation is part of a trend where subordinate judiciary dress codes are eased during summer, though higher courts maintain strict dress codes. The Advocates Act, 1961, and Bar Council of India Rules, 1975, dictate the formal dress code for advocates, which includes black gowns and coats, with some variations for men and women. However, the black coat is not mandatory during summer except in the Supreme Court and High Courts. Various High Courts have issued similar relaxations, and the Supreme Court allowed gown-less appearances via video conferencing since May 2020. A plea to amend the dress code rules for summer was dismissed by the apex court in July 2022.
+
+Wed, 17 Apr 2024 13:00:06 +0000
+### [Why ‘application of mind’ (by the DM) is crucial for preventive detention under the J&K Public Safety Act](https://indianexpress.com/article/explained/explained-law/application-of-mind-dm-preventive-detention-psa-jammu-and-kashmir-9275971/)
+
+The Jammu and Kashmir High Court ordered the release of Jaffar Ahmad Parray, detained under the Public Safety Act (PSA), ruling his detention illegal. Parray was accused of aiding terrorist groups, but Justice Rahul Bharti found the detention order, a verbatim copy of the police dossier, lacked concrete evidence of criminal activity. The judgement criticized the non-application of mind by the District Magistrate (DM) and the police's coercive interrogation without registering a case. This case echoes past judgements where courts quashed PSA detentions for lack of compelling reasons and evidence of non-application of mind by authorities, underscoring the need for judicial scrutiny in preventive detentions.
+
+Wed, 17 Apr 2024 11:30:11 +0000
+### [What’s behind heavy rainfall in Dubai](https://indianexpress.com/article/explained/explained-climate/floods-dubai-uae-9275782/)
+
+The UAE faced unprecedented rainfall, surpassing records since 1949, causing widespread disruption. A severe thunderstorm led to the heaviest rains ever in the arid nation, with Dubai receiving over 142mm, typically a year and a half's worth. The downpour halted flights, flooded homes, and roads, and forced government work-from-home extensions. Neighboring Oman also suffered, with fatalities including school children. Experts suggest climate change, with increased atmospheric moisture due to higher temperatures, may intensify such events. However, attributing this specific event to climate change is complex due to various contributing factors.
+
+Wed, 17 Apr 2024 10:26:55 +0000
+### [US university cancels pro-Palestine valedictorian’s speech: How Israel’s Gaza assault has polarised American campuses](https://indianexpress.com/article/explained/explained-global/us-university-israel-palestine-tabassum-9275516/)
+
+Article found but Couldn't summarize
+
+Wed, 17 Apr 2024 10:02:18 +0000
+### [Anti-Maoist operations status report: What is the significance of Apr 16 encounter, and what happens now?](https://indianexpress.com/article/explained/anti-maoist-operations-9275484/)
+
+In a significant operation in Chhattisgarh's Kanker district, security forces killed 29 Maoists, marking a substantial blow to the insurgents' stronghold in Abujhmad forest. This area, larger than Goa and largely unsurveyed due to its inaccessibility and rebel presence, has been a Maoist bastion for over three decades. The operation's success is seen as a turning point, with the BJP-led state government establishing new police camps and intensifying efforts to combat Left Wing Extremism (LWE). Despite this, the Maoists maintain control over large areas and continue to pose threats through IEDs and small-scale attacks. Allegations of fake encounters by security forces have surfaced, highlighting the ongoing conflict's complexity. The government remains open to dialogue if the Maoists surrender, while the Maoists demand a halt to security operations as a precondition for talks.
+
+Wed, 17 Apr 2024 03:41:23 +0000
+### [When Election Commission overcame ‘impossible’ challenge, held second Lok Sabha election on time](https://indianexpress.com/article/explained/explained-history/lok-sabha-elections-1957-history-nehru-9274746/)
+
+The 1957 Indian Lok Sabha elections, conducted amidst the reorganization of states and redrawing of constituencies, were a testament to the Election Commission's resolve. Despite challenges, including a potential constitutional amendment to delay the elections, the EC successfully held the elections within a tight deadline. The Congress party emerged stronger, with Nehru winning his last full term as Prime Minister. The introduction of 'modern' ballot papers marked a significant change from the previous election. Voter turnout slightly decreased from the first election, with Congress increasing its vote share and seat count. The CPI was the second-largest party, and the Bharatiya Jana Sangh was still establishing itself. Prominent leaders like Mookerjee and Ambedkar had passed away, and new parties made little impact. The election was a milestone in India's democratic journey, showcasing administrative capability and voter participation despite the odds.
+
 Tue, 16 Apr 2024 14:34:56 +0000
 ### [‘Embryos same as children’: How a US court judgment impacts IVF, poses a problem for Republicans](https://indianexpress.com/article/explained/explained-global/alabama-ivf-republicans-abortion-9273693/)
 
