@@ -1,3 +1,8 @@
+Wed, 17 Apr 2024 05:00:37 +0530
+### [FirstUp: PM to rally in Assam, Rahul Gandhi in Karnataka... Top news today](https://www.firstpost.com/explainers/firstup-pm-modi-to-rally-in-assam-rahul-gandhi-in-karnataka-top-news-today-13760328.html)
+
+Today marks the last day of electioneering before the first phase of Lok Sabha polls on Friday. PM Modi will rally in Assam for NDA, while Rahul Gandhi will address meetings in Karnataka. Strict regulations under Section 126 of the Representation of the People Act will begin at 6 pm today until polls close. Modi's rally in Assam prompts traffic restrictions, and Gandhi's visit to Karnataka is his first since the poll schedule announcement. Additionally, former Tamil Nadu minister Senthil Balaji's remand ends today. The Leh Apex Body plans a five-day march, and the US Senate Commerce Committee will hold a hearing on Boeing safety amid the company's ongoing crisis. Today also marks Ram Navami celebrations and World Haemophilia Day.
+
 Tue, 16 Apr 2024 21:48:51 +0530
 ### [Tamil Nadu Lok Sabha elections 2024: Who are the key faces in the fray? Which issues could the electorate vote on?](https://www.firstpost.com/explainers/tamil-nadu-lok-sabha-elections-2024-key-candidates-poll-issues-dmk-bjp-13760367.html)
 

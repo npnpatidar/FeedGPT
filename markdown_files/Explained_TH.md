@@ -1,3 +1,8 @@
+Wed, 17 Apr 2024 05:30:00 +0530
+### [Three new fish species spotted using tools in the Laccadive Sea](https://www.thehindu.com/sci-tech/science/three-new-wrasse-species-spotted-using-tools-laccadive-sea/article68071175.ece)
+
+A recent study published in the journal Coral Reefs has documented three fish species in the Laccadive Sea using coral structures as tools to break open sea urchins, a behavior not previously reported for two of these species. This discovery contributes to the evidence of tool use among animals, challenging the notion that fish lack the intelligence for complex tasks. The accidental observation was made while researching sea urchin burrowing, which affects reef stability. The wrasses demonstrated skill in handling their prey, using the reef as an anvil to remove spines and crack open the urchin's hard shell. This behavior, mostly observed in the Labridae family, prompts questions about the development of animal intelligence and the necessity for more extensive natural observations.
+
 Tue, 16 Apr 2024 22:45:34 +0530
 ### [Reforms needed in the voting process | Explained](https://www.thehindu.com/news/national/reforms-needed-in-the-voting-process-explained/article68073269.ece)
 
