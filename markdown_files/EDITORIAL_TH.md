@@ -1,3 +1,8 @@
+Fri, 19 Apr 2024 00:20:00 +0530
+### [​War of attrition: On the fight against Maoist insurgency](https://www.thehindu.com/opinion/editorial/%E2%80%8Bwar-of-attrition-on-the-fight-against-maoist-insurgency/article68080609.ece)
+
+The conflict with Maoists in India, which escalated in the early 2000s, has entered a patterned phase. The Maoists, now confined to central India's jungles and sparse tribal areas, have faced significant setbacks from security forces, including recent casualties in Chhattisgarh's Bastar region. Despite these losses and a diminished ideological following, the Maoists continue to launch targeted attacks on security personnel. The Indian government's strategy combines military action with welfare initiatives to win over the tribal population, moving away from earlier failed tactics like arming tribals. Expansion of welfare services has undermined Maoist influence, leading to desertions. However, in Chhattisgarh, ongoing conflict enables Maoist recruitment from among the discontented tribals. Peace efforts and calls for democratic engagement by civil society have been rejected by the Maoists, who persist with their outdated ideology, prolonging the conflict despite the tribals' desire for peaceful welfare engagement.
+
 Thu, 18 Apr 2024 00:20:00 +0530
 ### [Rain shocks: On the monsoon in 2024](https://www.thehindu.com/opinion/editorial/rain-shocks-on-the-monsoon-in-2024/article68071987.ece)
 

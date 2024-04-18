@@ -1,3 +1,13 @@
+Thu, 18 Apr 2024 22:46:28 +0530
+### [Why have private investments dropped? | Explained](https://www.thehindu.com/business/Economy/why-have-private-investments-dropped-explained/article68081011.ece)
+
+India's private investment, crucial for economic growth, has been declining since 2011-12, despite government efforts like tax cuts to spur it. Gross Fixed Capital Formation (GFCF), indicating investment in fixed capital like buildings and machinery, is a key growth determinant. Post-economic liberalization, private investment overtook public investment, peaking before the 2007-08 financial crisis. However, it fell to 19.6% of GDP by 2020-21. Economists argue that low private consumption expenditure undermines investment confidence, suggesting increased government spending to boost consumption. Yet, historical data shows an inverse relationship; higher consumption often coincides with lower investment. Some attribute the investment decline to structural issues, policy uncertainty, and a slowdown in economic reforms. Low private investment hampers economic growth, and while government investment could fill the gap, private investors are deemed more efficient capital allocators.
+
+Thu, 18 Apr 2024 14:55:33 +0530
+### [Legal reforms promised in BJP, Congress and CPI(M) manifestos | Explained](https://www.thehindu.com/incoming/legal-reforms-promised-in-bjp-congress-and-cpim-manifestos-explained/article68071393.ece)
+
+The article discusses the manifestos of major Indian political parties ahead of the 2024 Lok Sabha elections. The BJP vows to implement a Uniform Civil Code, streamline simultaneous elections, enact new criminal laws, and establish a National Litigation Policy. The Congress pledges reforms including judicial accountability, reservation increases, and LGBTQIA+ rights recognition. Additionally, it plans to revoke "draconian" laws and ensure electoral transparency. The CPI(M) opposes discriminatory laws like the Citizenship Amendment Act, advocating for judicial reforms and minority rights. Both parties aim to restore J&K's autonomy. Lastly, privacy protection and Election Commission independence are highlighted.
+
 Thu, 18 Apr 2024 05:30:00 +0530
 ### [How can small-scale farmers benefit from trees on farms?](https://www.thehindu.com/sci-tech/energy-and-environment/how-can-small-scale-farmers-benefit-from-trees-on-farms/article68075721.ece)
 

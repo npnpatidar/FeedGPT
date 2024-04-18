@@ -1,3 +1,38 @@
+Thu, 18 Apr 2024 18:49:35 +0530
+### [Why China is blocking Dalai Lama's Sri Lanka visit](https://www.firstpost.com/opinion/why-china-is-blocking-dalai-lamas-sri-lanka-visit-13761169.html)
+
+The article discusses the ongoing tension between China and the Dalai Lama's influence in Tibet and abroad. It highlights the desire of Sri Lankan Buddhists to invite the Dalai Lama, despite Chinese pressure on the Sri Lankan government to prevent his visit. The Dalai Lama, seen as a symbol of resistance against Chinese rule in Tibet, remains a figure of hope for Tibetans seeking autonomy. China's opposition to his international presence and visits is noted, alongside their efforts to control the narrative in Tibet and the selection of his successor. The piece reflects on the historical context of the Dalai Lama's asylum in India and the impact of Tibetan culture and resistance on Chinese policies. The author's views are personal and not necessarily aligned with the publication's stance.
+
+Thu, 18 Apr 2024 17:45:23 +0530
+### [Unravelling West Asia’s Geopolitical Chessboard: Iran, Israel, and Saudi Arabia](https://www.firstpost.com/opinion/unravelling-the-west-asias-geopolitical-chessboard-iran-israel-and-saudi-arabia-13761140.html)
+
+The article discusses the deep-rooted conflict between Iran and Saudi Arabia, which has escalated with Iran's missile attack on Israel. The 1979 Iranian Revolution marked a shift in Middle Eastern power dynamics, challenging Saudi Arabia's Sunni leadership. Iran's support for Shiite groups and its "axis of resistance" against Saudi influence and American hegemony has intensified the rivalry. The sectarian divide widened with the 1979 Mecca siege and the fall of Saddam Hussein, leading to fears of a "Shiite crescent." Iran's strategy includes backing Shiite militias to counter Saudi-led Sunni monarchies, positioning itself as a defender of Islam against American and Zionist policies. This has put Iran at odds with Israel, which seeks to prevent a single regional superpower. The article suggests that Iran's anti-Israel stance and support for Hamas are part of its broader regional ambitions, challenging the existing order and diminishing Arab support for Palestine. The authors' views are personal and not reflective of Firstpost's stance.
+
+Thu, 18 Apr 2024 17:11:38 +0530
+### [Vantage | What Vietnam's biggest scam ever is all about](https://www.firstpost.com/opinion/vantage-what-vietnams-biggest-scam-ever-is-all-about-13761108.html)
+
+Truong My Lan, a real-estate mogul in Vietnam, has been sentenced to death for embezzling $12.5 billion in a historic financial fraud case. As the chair of VTP Holdings, Lan developed luxury properties and controlled Saigon Joint Stock Commercial Bank (SCB) through proxies. She issued loans to shadow companies that funneled funds into her accounts and misled depositors into buying her company's bonds. Her arrest in October 2022 triggered a bank run, prompting the government to intervene and inject nearly $24 billion into SCB to safeguard depositors. This silent bailout equates to a significant portion of Vietnam's economic output and foreign reserves. Lan's trial, resulting in the death penalty, marks a high-profile fight against corruption in Vietnam.
+
+Thu, 18 Apr 2024 15:46:14 +0530
+### [Deep resonance on Global South: A fulcrum to India’s global reach](https://www.firstpost.com/opinion/deep-resonance-on-global-south-a-fulcrum-to-indias-global-reach-13761064.html)
+
+In 2023, India reinforced its role as a key advocate for the Global South, pushing for inclusive global governance and technological advancements. It has strengthened ties with Africa, with trade growing to $98 billion and significant investments in development projects. India's strategic relationship with Africa spans various sectors, aligning with sustainable development goals. Domestically, India focuses on maritime partnerships and regional development, including the Andaman and Nicobar Islands. India's foreign policy aims to bridge the Global South and North, promoting multilateralism and strategic autonomy. The Indo-Pacific region's importance is acknowledged, with India advocating for ASEAN centrality and countering predatory tactics. India's engagement with its neighbors reflects a balance of sensitivity and strategic interests, emphasizing cooperation and regional stability.
+
+Thu, 18 Apr 2024 13:02:43 +0530
+### [Vantage | Why NATO is talking about Russia planning an undersea attack](https://www.firstpost.com/opinion/vantage-why-nato-is-talking-about-russia-planning-an-undersea-attack-13760990.html)
+
+Vice Admiral Didier Maleterre, NATO's Deputy Commander, warns of potential Russian hybrid warfare targeting underwater cables, vital for over 95% of global data transmission. While acknowledging the threat, doubts exist about its magnitude, with options like satellite internet offering alternatives. Redundancies in cable connections mitigate risks, but NATO emphasizes the need for security enhancements, citing vulnerabilities highlighted by past incidents like the Nord Stream blasts. Despite concerns, the article cautions against alarmism, urging NATO to balance preparedness with avoiding unnecessary fear-mongering amidst rising global tensions.
+
+Thu, 18 Apr 2024 12:03:16 +0530
+### [Vantage | After Tesla, will Elon Musk's Starlink be launched in India?](https://www.firstpost.com/opinion/vantage-after-tesla-will-elon-musks-starlink-be-launched-in-india-13760964.html)
+
+Elon Musk's ventures, Tesla and Starlink, are set to expand into India, with the government granting preliminary approval. Amidst financial pressures in the US, including Tesla's workforce reduction, India's market could be a crucial opportunity for Musk. Starlink aims to provide high-speed internet globally, even in remote areas, and has been pivotal in Ukraine's military communications. In India, Starlink must comply with data localization and may need to partner with an Indian firm, facing stiff competition from established telecom giants like Bharti Airtel's OneWeb and Jio. Despite claims of profitability, Starlink is reportedly struggling financially, making the price-sensitive Indian market a significant challenge for Musk's success.
+
+Thu, 18 Apr 2024 11:29:44 +0530
+### [Understanding Iran’s strategic patience and why it is over now](https://www.firstpost.com/opinion/understanding-irans-strategic-patience-and-why-it-is-over-now-13760939.html)
+
+In a significant shift from its usual proxy engagements, Iran directly attacked Israel with over 300 drones and missiles on April 13, 2024. This unprecedented move was in retaliation to an Israeli strike on the Iranian Consulate in Damascus earlier that month, which killed seven IRGC members. Marking Iran's first direct conflict with Israel and its first military engagement since the 1988 Iraq war, the attack targeted only military sites, signaling a cautious approach. The article suggests this act reflects Iran's growing impatience and readiness to assert itself more openly, amidst a backdrop of historical provocations and recent geopolitical shifts. Iran's strengthened regional influence, strategic partnerships, and continued nuclear development are highlighted as factors contributing to this assertive stance. The author, an Assistant Director at MP-IDSA, clarifies that these views are personal and not reflective of Firstpost's stance.
+
 Wed, 17 Apr 2024 21:18:03 +0530
 ### [Why Israel should desist from attacking Iran](https://www.firstpost.com/opinion/why-israel-should-desist-from-attacking-iran-13760820.html)
 

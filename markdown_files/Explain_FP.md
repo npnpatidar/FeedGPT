@@ -1,3 +1,94 @@
+Thu, 18 Apr 2024 21:35:33 +0530
+### [Lok Sabha elections 2024: FAQs for voters before the polls](https://www.firstpost.com/explainers/lok-sabha-elections-2024-faqs-for-voters-polling-election-commission-13761195.html)
+
+India is set to conduct the first phase of its Lok Sabha elections on April 19, with 21 states and Union Territories participating. A total of 102 constituencies will vote, including all seats in Tamil Nadu and six Northeastern states. Nearly 97 crore voters, including over 1.8 crore first-time voters, are eligible to cast their ballots across 1.87 lakh polling stations. The elections, organized in seven phases, will conclude on June 1, with vote counting on June 4. The electoral process also includes the NOTA option and provisions for voters to check their details and polling booth information online. The 2024 general elections are anticipated to be the most expensive in India's history, with an estimated expenditure of Rs 1.2 lakh crore.
+
+Thu, 18 Apr 2024 20:15:29 +0530
+### [What’s behind the deadly cholera outbreak in Southern Africa?](https://www.firstpost.com/explainers/whats-behind-the-deadly-cholera-outbreak-in-southern-africa-13761074.html)
+
+Southern African nations, including Zambia, Ethiopia, and others, are facing their worst cholera outbreak, resulting in over 1,000 deaths and tens of thousands infected. Lack of vaccines exacerbates the crisis, with demand surpassing supply. Factors such as inequality, conflict, poverty, and climate change contribute to the outbreaks. Cholera spreads through contaminated water and food, particularly in impoverished communities lacking sanitation infrastructure. Vaccine availability remains limited, emphasizing the importance of hygiene promotion and water quality monitoring alongside vaccination efforts. Initiatives to enhance vaccine manufacturing in affected regions offer hope for better outbreak response.
+
+Thu, 18 Apr 2024 17:47:20 +0530
+### [Lok Sabha elections 2024: Major battles to watch out for in Phase 1](https://www.firstpost.com/explainers/lok-sabha-elections-2024-major-battles-phase-1-key-candidates-key-seats-13761121.html)
+
+The first phase of Lok Sabha elections on April 19 covers 102 constituencies across 21 states and Union Territories. Notable contests include Nitin Gadkari vs. Vikas Thakre in Maharashtra's Nagpur, Chandrashekhar Azad's bid in Uttar Pradesh's Nagina, and Kiren Rijiju facing Nabam Tuki in Arunachal Pradesh's Arunachal West. In Madhya Pradesh's Chhindwara, Nakul Nath seeks re-election, while in Tamil Nadu's Thoothukudi, Kanimozhi defends her seat. Pilibhit, traditionally held by the Gandhi family, sees Jitin Prasada challenging. Coimbatore hosts a three-way battle, and Gaurav Gogoi contests against Topon Kumar Gogoi in Assam's Jorhat. Rajasthan's Bikaner features Arjun Ram Meghwal seeking another term. Other key contests include Saharanpur in Uttar Pradesh, Chennai South in Tamil Nadu, Sivaganga in Tamil Nadu, and Udhampur in Jammu and Kashmir.
+
+Thu, 18 Apr 2024 17:45:29 +0530
+### [In Graphics | The history of purple ink used in elections](https://www.firstpost.com/explainers/lok-sabha-elections-2024-history-of-the-indelible-ink-used-in-polls-voters-13761114.html)
+
+As election season arrives, the iconic indelible ink marks on voters' fingers become a common sight. This mark not only serves as proof of voting but also upholds the integrity of each vote. The ink is produced exclusively by **Mysore Paints and Varnish Ltd**, established in 1937 by Maharaja Krishnaraja Wadiyar IV, in partnership with India's National Physical Laboratory. Introduced in the 1962 Lok Sabha elections, the ink's formulation includes **silver nitrate**, which reacts to light, ensuring its permanence for weeks, thus preventing repeat voting. This article delves into the lesser-known aspects of the indelible purple mark that plays a crucial role in India's electoral process.
+
+Thu, 18 Apr 2024 16:36:35 +0530
+### [The 'once-in-200-year' heatwave in West Africa: How it wreaked havoc](https://www.firstpost.com/explainers/heatwave-west-africa-havoc-sahel-13761080.html)
+
+A severe heatwave struck Mali and Burkina Faso in early April, with temperatures exceeding 45 degrees Celsius, causing numerous deaths. Climate change, fueled by fossil fuels, intensified the heat, reaching 48 degrees Celsius, leading to over 100 deaths in Bamako alone. The World Weather Attribution group highlighted that without human-induced warming, such extreme temperatures wouldn't occur. The situation underscores the vulnerability of older populations, lacking access to cooling methods. The Sahel region faces increased risks due to climate change, exacerbating existing challenges like drought and conflict. The heatwave's toll highlights the urgent need for climate action to prevent further tragedies.
+
+Thu, 18 Apr 2024 16:16:53 +0530
+### [Quicksplained: Soon the world will get its first ‘Miss AI’. All about the beauty contest](https://www.firstpost.com/explainers/quicksplained-all-about-the-worlds-first-miss-ai-competition-13761027.html)
+
+The World AI Creator Awards (WAICA) and Fanvue are hosting the world's first AI beauty pageant, "Miss AI," where AI-generated models compete for the crown. The contest evaluates beauty, technological skill, and social media influence. Celebrating nearly two centuries since the first real-life beauty pageant, this event marks a significant advancement in the creator economy. With a prize pool over $20,000, the winners will be announced on May 10. Entries must be entirely AI-generated, with no restrictions on tools used. The event underscores the growing impact of AI in various sectors and the potential of AI creators to shape the future of content creation and fan engagement.
+
+Thu, 18 Apr 2024 15:29:23 +0530
+### [Why advocates in Karnataka, Kerala have been exempted from wearing black coats](https://www.firstpost.com/explainers/why-advocates-in-karnataka-kerala-have-been-exempted-from-wearing-black-coats-13760995.html)
+
+In response to the intense summer heat, courts in Karnataka and Kerala have relaxed the dress code for advocates. The Karnataka High Court issued a circular allowing advocates in district and trial courts to wear plain white shirts, salwar-kameez, or sarees with a white neckband instead of black coats. The Kerala High Court also passed a resolution permitting advocates to forgo gowns until 31 May 2024. These changes aim to alleviate the discomfort caused by high temperatures. The Bar Council of India (BCI) sets the dress code for advocates, which typically includes a black gown and coat. However, during summer, the BCI allows for flexibility, and various High Courts have issued exemptions for gown-wearing, recognizing the practical challenges of the season.
+
+Thu, 18 Apr 2024 14:07:27 +0530
+### [Silence period before polling: What happens during these 48 hours?](https://www.firstpost.com/explainers/lok-sabha-elections-2024-first-phase-polling-silence-period-13761018.html)
+
+India's Lok Sabha elections have entered the 'silence period,' a 48-hour non-campaign phase mandated by Section 126 of the Representation of the People Act, 1951, before the first phase of polling on 19 April. This period prohibits all forms of election campaigning, including public meetings, use of loudspeakers, and political advertisements on electronic and social media. Door-to-door canvassing is permitted, but any activity potentially influencing voter decisions is banned. Violations can lead to fines or imprisonment. The silence period aims to prevent undue influence on voters and ensure fair elections. Polling will occur in 102 constituencies across 17 states and Union Territories, with strict regulations on electioneering near polling stations. Post-voting, EVMs are securely stored until the seven-phase election concludes on 1 June, with vote counting scheduled for 4 June.
+
+Thu, 18 Apr 2024 13:59:41 +0530
+### [Switzerland votes to ban swastika: How Hitler corrupted the symbol and made it a sign of hate](https://www.firstpost.com/explainers/switzerland-swastika-ban-hitler-corrupt-symbol-hate-13760987.html)
+
+Switzerland's lawmakers have voted to ban Nazi symbols, including the swastika, a move following similar bans in Germany and parts of Australia. The swastika, often associated with Nazism in the West, has ancient roots as a symbol of good fortune in Hinduism, Buddhism, and Jainism. Its transformation from a positive emblem to a symbol of hate began when Adolf Hitler appropriated it for the Nazi Party, altering its orientation and removing the four dots. Despite its dark period under Nazi use, the swastika remains a sacred sign in many Eastern religions. The Swiss ban aims to combat rising anti-Semitism and prevent the public display of symbols linked to racial discrimination and violence. However, the ban is controversial, with some arguing that the swastika's historical and cultural significance should not be overshadowed by its misuse by the Nazis.
+
+Thu, 18 Apr 2024 13:45:21 +0530
+### [Quicksplained: Should you get an off on polling day?](https://www.firstpost.com/explainers/quicksplained-paid-leave-on-polling-day-lok-sabha-election-2024-13761012.html)
+
+A complaint has been filed against Flipkart and BigBasket for not granting leave to workers on April 19, the first phase of Lok Sabha Elections 2024 voting, despite the law mandating a holiday. The complaint demands an investigation into guaranteed delivery promises on voting day. The Representation of People Act ensures employees' right to a paid holiday on voting day, with exceptions for certain professions. Several governments and companies have declared paid holidays or time-off on polling days to encourage voter participation, including major corporations like TCS, Infosys, and Adani Electricity.
+
+Thu, 18 Apr 2024 13:19:04 +0530
+### [Explained: The $95 billion US House package that aims to aid Ukraine, Israel](https://www.firstpost.com/explainers/95-billion-us-house-package-ukraine-israel-aid-mike-johnson-13760973.html)
+
+US House Speaker Mike Johnson has introduced a $95.3 billion aid package to support Ukraine, Israel, and the Indo-Pacific region. The package includes $61 billion for Ukraine, with over a third for US military replenishment and $9 billion as "forgivable loans." Differences from the Senate's version include the loan terms and a requirement for a Biden administration strategy report on Ukraine. Israel and Gaza will receive over $26 billion, focusing on missile defense and humanitarian aid. The package also allocates $8 billion to counter China's influence in the Indo-Pacific, with funds for Taiwan's defense. The House seeks GOP support, noting Trump's endorsement of the loan concept. The bill requires a multiyear plan with specific objectives and national security implications if unmet.
+
+Thu, 18 Apr 2024 12:13:39 +0530
+### [How Elon Musk’s foray into India was 9 years in the making](https://www.firstpost.com/explainers/how-elon-musks-foray-into-india-meeting-modi-was-9-years-in-the-making-13760896.html)
+
+Elon Musk's long-standing interest in India is culminating in a visit on April 21, 2024, with a scheduled meeting with Prime Minister Narendra Modi. This visit is expected to mark Tesla's entry into the Indian market and advance Starlink's operations. Musk has been a vocal advocate for India's inclusion in the UNSC and has recently seen the US support UN reforms. His company SpaceX is collaborating with ISRO to launch a communication satellite, while Starlink is close to obtaining an Indian license. Past interactions with Modi and Tesla's strategic moves, including a proposed Giga factory, highlight the deepening ties between Musk's ventures and India's economic landscape. Regulatory challenges have been a hurdle, but Tesla's official entry in 2021 and approval to launch electric models signal a significant commitment to the Indian market. Musk's engagement with India dates back to Modi's 2015 visit to Tesla in California, setting the stage for future collaborations.
+
+Thu, 18 Apr 2024 11:53:38 +0530
+### [Stranded families, no food, water: How Dubai airport descended into chaos after floods](https://www.firstpost.com/explainers/dubai-airport-descended-into-chaos-after-floods-13760869.html)
+
+Dubai has experienced unprecedented rainfall, leading to severe flooding and disruption. The city's airport, the world's busiest for international travel, has seen flights delayed, diverted, or canceled, with over 500 flights affected. Emirates Airlines has halted passenger check-ins until further notice. Stranded passengers at the airport report chaos, with a lack of food, water, and accommodations. Roads are inundated, leaving luxury vehicles stranded, and the metro system is disrupted. The rainfall is the highest on record since 1949, with more storms predicted. Authorities are responding to the crisis, and there's a call for infrastructure evaluation to mitigate damage. Climate change is suggested as a contributing factor to such extreme weather events.
+
+Thu, 18 Apr 2024 10:49:30 +0530
+### [Dubai Deluge: Cloud seeding did not cause floods, say experts. Then what did?](https://www.firstpost.com/explainers/dubai-deluge-cloud-seeding-floods-experts-storm-13760901.html)
+
+The recent floods in Dubai, which saw a year's worth of rain in a day, were initially suspected to be caused by cloud seeding. However, meteorologists have dismissed this, stating that the weather modification technique cannot produce such heavy rainfall. Instead, the extreme weather is attributed to climate change, with forecasts predicting the event days in advance. Cloud seeding involves injecting particles into clouds to encourage precipitation and has been used for decades, particularly in arid regions like the UAE. While its effectiveness is debated, it's generally considered too minor to cause significant weather changes. The actual cause of the deluge is linked to atmospheric patterns typical for the region, exacerbated by global warming, which makes rainfall events more intense.
+
+Thu, 18 Apr 2024 10:21:35 +0530
+### [From corruption claims to ‘India bully’ remark, the many controversies of Maldives’ Mohamed Muizzu](https://www.firstpost.com/explainers/maldives-mohamed-muizzu-corruption-claims-india-bully-controversies-13760893.html)
+
+Maldivian President Mohamed Muizzu is embroiled in controversy following a leaked report alleging corruption dating back to 2018. The opposition demands an investigation and his impeachment, especially significant as legislative elections approach. Muizzu denies the charges, attributing his wealth to legitimate sources. Politically, he has shown a pro-China stance, straining relations with India. This tension was evident when he made a 'bully' comment towards India, which was met with a sharp response from India's External Affairs Minister. The situation escalated when Muizzu's ministers insulted the Indian Prime Minister, leading to diplomatic strains and calls for a tourism boycott. Muizzu also faces criticism for demanding the withdrawal of Indian troops and scrutinizing agreements with India. Additionally, allowing a Chinese vessel to dock in the Maldives has raised concerns, with India monitoring its activities closely.
+
+Thu, 18 Apr 2024 10:17:14 +0530
+### [In Graphics | How India’s elections got bigger and better over the years](https://www.firstpost.com/explainers/graphics-india-lok-sabha-elections-from-1951-to-2024-13760718.html)
+
+India's electoral process has seen a significant evolution since its first election in 1951. From 17.3 crore voters then, the number has swelled to 96.8 crore in the upcoming elections, which are set to be the largest democratic exercise in the world. Spanning from 19 April to 4 June, these elections will see the participation of over 2,600 political parties, with the electorate choosing 543 members for the Lok Sabha. The Election Commission of India, established just a year before the inaugural polls, overcame challenges like illiteracy and inadequate infrastructure to conduct what was considered a monumental experiment in democracy. Symbols and indelible ink, introduced in the first elections, remain essential features of the process, which has only grown in scale and efficiency over the years.
+
+Thu, 18 Apr 2024 09:10:07 +0530
+### [No insurance, no vacations: How China is punishing people who can’t repay debts](https://www.firstpost.com/explainers/no-insurance-no-vacations-how-china-is-punishing-people-who-cant-repay-debts-13760636.html)
+
+China's economy showed unexpected growth in early 2024, but personal debt remains a concern. The government's blacklist for debtors has grown by nearly 50% since 2019, now including 8.3 million people. These individuals face severe restrictions, unable to use toll roads, buy online tickets, or access electronic payment apps. They're also barred from high-speed rail, air travel, and certain jobs. Household debt has risen by 50% in five years, reaching $11 trillion, exacerbated by the housing market downturn. Experts suggest a personal bankruptcy system to alleviate the crisis, but implementation remains challenging. The debt issue has dampened consumer spending, affecting sales for Western companies in China.
+
+Thu, 18 Apr 2024 08:41:38 +0530
+### [How international conflicts could impact the Paris Olympics](https://www.firstpost.com/explainers/how-international-conflicts-could-impact-the-paris-olympics-13760641.html)
+
+Article found but Couldn't summarize 
+The Paris Games will be held under the shadow of international conflict. Here’s how the fighting in Ukraine and West Asia, as well as tensions with countries like Afghanistan, may cause issues for the Games
+
 Thu, 18 Apr 2024 06:00:20 +0530
 ### [FirstUp: Supriya Sule to file her nominations for Lok Sabha polls and more... The news today](https://www.firstpost.com/explainers/firstup-ncps-supriya-sule-to-file-her-nomination-and-more-the-news-today-13760764.html)
 

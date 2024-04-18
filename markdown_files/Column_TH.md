@@ -1,3 +1,8 @@
+Thu, 18 Apr 2024 16:59:10 +0530
+### [Column | Legacy of India’s courtesans](https://www.thehindu.com/opinion/columns/courtesans-tawaifs-courting-hindustan-heeramandi-sarmaya-arts-foundation/article68071442.ece)
+
+The article delves into the rich cultural history of Indian courtesans, known as tawaifs, highlighting their significant influence on the arts, fashion, and society from 500 BCE to the 20th century. It explores their role as style icons and patrons of the finest Indian textiles and jewelry, showcasing their wealth and status through elaborate garments and accessories. The narrative includes anecdotes of notable figures like Begum Samru and Begum Akhtar, illustrating their impact on design and traditional crafts. The courtesans' legacy is recognized for its continued inspiration in modern arts and media, with references to upcoming works that pay homage to their enduring cultural significance. The piece is part of a series by Sarmaya.in, celebrating India's artistic traditions.
+
 Wed, 17 Apr 2024 00:30:00 +0530
 ### [IPL | When players go beyond cliches and illuminate the format](https://www.thehindu.com/opinion/columns/when-players-go-beyond-cliches-and-illuminate-the-format/article68071847.ece)
 
