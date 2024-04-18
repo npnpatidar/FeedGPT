@@ -5066,3 +5066,10 @@ Started at 2024-04-17 23:08:28
 Finished at 2024-04-17 23:49:37
 Total time taken: 2468.905953168869 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-04-18 00:36:07
+1 Feed entries have been written to feeds/Explain_FP.xml
+1 Feed entries have been written to feeds/Explained_TH.xml
+2 new entries have been added
+Finished at 2024-04-18 00:38:23
+Total time taken: 135.44267439842224 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

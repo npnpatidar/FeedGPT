@@ -1,3 +1,8 @@
+Thu, 18 Apr 2024 05:30:00 +0530
+### [How can small-scale farmers benefit from trees on farms?](https://www.thehindu.com/sci-tech/energy-and-environment/how-can-small-scale-farmers-benefit-from-trees-on-farms/article68075721.ece)
+
+The article discusses the potential of agroforestry in India, highlighting its benefits for farmer livelihoods and the environment. Despite historical monocropping practices, efforts like the National Agroforestry Policy have promoted agroforestry, especially for medium and large landholders. Challenges like water availability and finance persist, but tools like 'Jaltol' aid in selecting suitable tree-crop combinations. Encouraging native species and aligning policies with smallholder needs are crucial for sustainable implementation. Initiatives such as ecosystem credits can incentivize agroforestry, essential for healthy ecosystems and resilient livelihoods. The TOFI initiative by Ashoka Trust for Research in Ecology and Environment aims to increase tree cover on farms, emphasizing the importance of including smallholders for widespread adoption.
+
 Wed, 17 Apr 2024 23:37:48 +0530
 ### [On India’s ‘heat action plans’ | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/on-indias-heat-action-plans-explained/article68077221.ece)
 

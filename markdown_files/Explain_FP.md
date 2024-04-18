@@ -1,3 +1,8 @@
+Thu, 18 Apr 2024 06:00:20 +0530
+### [FirstUp: Supriya Sule to file her nominations for Lok Sabha polls and more... The news today](https://www.firstpost.com/explainers/firstup-ncps-supriya-sule-to-file-her-nomination-and-more-the-news-today-13760764.html)
+
+Today marks a significant day with several key events: MP Supriya Sule is set to file her nomination for the Lok Sabha elections. The UN Security Council will hold a ministerial-level meeting to discuss Middle Eastern affairs, including the Palestinian question. In India, AAP leader Manish Sisodia's judicial custody may conclude. In Baramati, political figures Sunetra Pawar and Supriya Sule will submit their nominations for the Lok Sabha seat, with prominent leaders expected to attend related public rallies. Internationally, the World Press Photo winners will be announced in Amsterdam. Meanwhile, Dubai International Airport advises against non-essential visits due to severe weather, affecting flights and operations. Additionally, cricket icon Sachin Tendulkar celebrates his birthday, honoring his legacy in the sport.
+
 Wed, 17 Apr 2024 19:58:41 +0530
 ### [How India held its first Lok Sabha election in 68 phases](https://www.firstpost.com/explainers/lok-sabha-election-india-first-68-phases-sukumar-sen-jawaharlal-nehru-13760561.html)
 
