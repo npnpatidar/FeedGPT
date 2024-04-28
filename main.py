@@ -13,6 +13,8 @@ import lxml
 import random
 from g4f.client import Client
 from g4f.Provider import RetryProvider, Bing , ChatgptAi , Liaobots , OpenaiChat , Raycast , Theb , You , AItianhuSpace , ChatForAi , Chatgpt4Online , ChatgptNext , ChatgptX , FlowGpt , FreeGpt , GptTalkRu , Koala , MyShell , PerplexityAi , Poe , TalkAi , Vercel , AItianhu , Bestim , ChatBase , ChatgptDemo , ChatgptDemoAi , ChatgptFree , ChatgptLogin , Chatxyz , Gpt6 , GptChatly , GptForLove , GptGo , GptGod , OnlineGpt , Aura , Bard , DeepInfra , FreeChatgpt , Gemini , GeminiPro , GeminiProChat , HuggingChat , HuggingFace , Llama2 , PerplexityLabs , Pi , ThebApi , OpenAssistant
+from openai import OpenAI
+from dotenv import load_dotenv
 
 
 def fetch_article_text(url):
@@ -31,60 +33,84 @@ def fetch_article_text(url):
         print(f"Couldn't fetch article text: {str(e)}")
         return None
 
-def summarise(article_text):
+# def summarise(article_text):
 
-    summary = ""
+#     summary = ""
     
-    # Define your conversation with the model
-    conversation = [
-        {
-            "role": "user",
-            "content": "Summarise this article in around 100 to 120 words. There can be an adverstisement or unrelated content in between. Don't include that in the summary and no need to mention that it has been omitted.  \n\n" + article_text
-        },
-    ]
+#     # Define your conversation with the model
+#     conversation = [
+#         {
+#             "role": "user",
+#             "content": "Summarise this article in around 100 to 120 words. There can be an adverstisement or unrelated content in between. Don't include that in the summary and no need to mention that it has been omitted.  \n\n" + article_text
+#         },
+#     ]
 
-    provider = [Bing , ChatgptAi  , OpenaiChat , Raycast , Theb , You , AItianhuSpace , ChatForAi , Chatgpt4Online , ChatgptNext , ChatgptX  , FreeGpt , GptTalkRu , Koala , MyShell , PerplexityAi , Poe , TalkAi , Vercel , AItianhu , Bestim , ChatBase , ChatgptDemo , ChatgptDemoAi , ChatgptFree , ChatgptLogin , Chatxyz , Gpt6 , GptChatly , GptForLove , GptGo , GptGod , OnlineGpt , Aura , Bard , DeepInfra , FreeChatgpt , Gemini , GeminiPro , GeminiProChat , HuggingChat , HuggingFace , Llama2 , PerplexityLabs , Pi , ThebApi , OpenAssistant, Liaobots, FlowGpt]
-    client = Client(provider=RetryProvider(provider, shuffle=False))
-    response = client.chat.completions.create(
-        model="",
-        messages=conversation,
+#     provider = [Bing , ChatgptAi  , OpenaiChat , Raycast , Theb , You , AItianhuSpace , ChatForAi , Chatgpt4Online , ChatgptNext , ChatgptX  , FreeGpt , GptTalkRu , Koala , MyShell , PerplexityAi , Poe , TalkAi , Vercel , AItianhu , Bestim , ChatBase , ChatgptDemo , ChatgptDemoAi , ChatgptFree , ChatgptLogin , Chatxyz , Gpt6 , GptChatly , GptForLove , GptGo , GptGod , OnlineGpt , Aura , Bard , DeepInfra , FreeChatgpt , Gemini , GeminiPro , GeminiProChat , HuggingChat , HuggingFace , Llama2 , PerplexityLabs , Pi , ThebApi , OpenAssistant, Liaobots, FlowGpt]
+#     client = Client(provider=RetryProvider(provider, shuffle=False))
+#     response = client.chat.completions.create(
+#         model="",
+#         messages=conversation,
+#     )
+#     summary =str( response.choices[0].message.content)
+#     words = summary.split()
+#     if len(words) > 80:
+#         return summary
+#     else:
+#         summary = ""
+
+#     print("failed to provide summary using providers")
+
+#     model_array = [  "gpt-4", "gpt-3.5-turbo" ,   "gpt-4-turbo" , "Llama-2-7b-chat-hf" , "Llama-2-13b-chat-hf" , "Llama-2-70b-chat-hf" , "CodeLlama-34b-Instruct-hf" , "CodeLlama-70b-Instruct-hf" , "Mixtral-8x7B-Instruct-v0.1" , "Mistral-7B-Instruct-v0.1" , "dolphin-2.6-mixtral-8x7b" , "lzlv_70b_fp16_hf" , "airoboros-70b" , "airoboros-l2-70b-gpt4-1.4.1" , "openchat_3.5" , "gemini" , "gemini-pro" , "claude-v2" , "claude-3-opus" , "claude-3-sonnet" , "pi"]
+
+#     for model in model_array:
+#         print(f"Summarizing using model {model}")
+#         try:
+#             response = g4f.ChatCompletion.create(
+#                 model="",
+#                 messages=conversation,
+#                 max_tokens=1000,
+#                 stream=False,
+#             )
+
+#             for message in response:
+#                 summary += message
+
+#             # Split the response into words and check if it has more than 80 words
+#             words = summary.split()
+#             if len(words) > 80:
+#                 return summary
+
+#         except Exception as e:
+#             # Log the error or handle as needed
+#             print(f"Error while summarizing article text using model {model}: {str(e)}")
+    
+#     # If none of the models provide a summary, return None or handle as needed
+#     print("None of the models could provide a summary.")
+#     return None
+
+
+def summarize_article(article_text):
+    load_dotenv()
+    API_KEY = os.getenv("API_KEY")
+    BASE_URL = os.getenv("BASE_URL")
+    MODEL = os.getenv("MODEL") 
+    client = OpenAI(
+        base_url=BASE_URL,
+        api_key=API_KEY,
     )
-    summary =str( response.choices[0].message.content)
-    words = summary.split()
-    if len(words) > 80:
-        return summary
-    else:
-        summary = ""
 
-    print("failed to provide summary using providers")
+    chat_completion = client.chat.completions.create(
+        messages=[
+            {"role": "system", "content": "You are an expert who summarises article in 150 words. Since the articles are taken from sites, there can be advertisements or some unrelated news in between, you need to remove them. No need to mention that it has been omitted."},
+            {
+                'role': 'user',
+                'content': article_text,
+            }
+        ],
+        model=MODEL,
+    )
+    return chat_completion.choices[0].message.content
 
-    model_array = [  "gpt-4", "gpt-3.5-turbo" ,   "gpt-4-turbo" , "Llama-2-7b-chat-hf" , "Llama-2-13b-chat-hf" , "Llama-2-70b-chat-hf" , "CodeLlama-34b-Instruct-hf" , "CodeLlama-70b-Instruct-hf" , "Mixtral-8x7B-Instruct-v0.1" , "Mistral-7B-Instruct-v0.1" , "dolphin-2.6-mixtral-8x7b" , "lzlv_70b_fp16_hf" , "airoboros-70b" , "airoboros-l2-70b-gpt4-1.4.1" , "openchat_3.5" , "gemini" , "gemini-pro" , "claude-v2" , "claude-3-opus" , "claude-3-sonnet" , "pi"]
-
-    for model in model_array:
-        print(f"Summarizing using model {model}")
-        try:
-            response = g4f.ChatCompletion.create(
-                model="",
-                messages=conversation,
-                max_tokens=1000,
-                stream=False,
-            )
-
-            for message in response:
-                summary += message
-
-            # Split the response into words and check if it has more than 80 words
-            words = summary.split()
-            if len(words) > 80:
-                return summary
-
-        except Exception as e:
-            # Log the error or handle as needed
-            print(f"Error while summarizing article text using model {model}: {str(e)}")
-    
-    # If none of the models provide a summary, return None or handle as needed
-    print("None of the models could provide a summary.")
-    return None
 
 
 def get_feeds():
@@ -322,7 +348,7 @@ def fetch_and_write_feed_to_markdown_using_json(feed):
             summary = "No Article text \n" + entry.summary
         else:
             print(f"Summarizing")
-            got_summary = summarise(article_text)
+            got_summary = summarize_article(article_text)
 
             if got_summary is None:
                 print("Got Article Text but No Summary ")
