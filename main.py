@@ -12,7 +12,9 @@ import xmltodict
 import lxml
 import random
 from g4f.client import Client
-from g4f.Provider import RetryProvider, Bing , ChatgptAi , Liaobots , OpenaiChat , Raycast , Theb , You , AItianhuSpace , ChatForAi , Chatgpt4Online , ChatgptNext , ChatgptX , FlowGpt , FreeGpt , GptTalkRu , Koala , MyShell , PerplexityAi , Poe , TalkAi , Vercel , AItianhu , Bestim , ChatBase , ChatgptDemo , ChatgptDemoAi , ChatgptFree , ChatgptLogin , Chatxyz , Gpt6 , GptChatly , GptForLove , GptGo , GptGod , OnlineGpt , Aura , Bard , DeepInfra , FreeChatgpt , Gemini , GeminiPro , GeminiProChat , HuggingChat , HuggingFace  , PerplexityLabs , Pi , ThebApi , OpenAssistant
+from g4f.Provider import RetryProvider, Bing , ChatgptAi , Liaobots , OpenaiChat , Raycast , Theb , You , AItianhuSpace , ChatForAi , Chatgpt4Online , ChatgptNext , ChatgptX , FlowGpt , FreeGpt , GptTalkRu , Koala , MyShell , PerplexityAi , Poe , TalkAi , Vercel , AItianhu , Bestim , ChatBase , ChatgptDemo , ChatgptDemoAi , ChatgptFree , ChatgptLogin , Chatxyz , Gpt6 , GptChatly , GptForLove , GptGo , GptGod , OnlineGpt , Aura , Bard , DeepInfra , FreeChatgpt , Gemini , GeminiPro , GeminiProChat , HuggingChat , HuggingFace , Llama2 , PerplexityLabs , Pi , ThebApi , OpenAssistant
+from openai import OpenAI
+from dotenv import load_dotenv
 
 
 def fetch_article_text(url):
@@ -43,7 +45,7 @@ def fetch_article_text(url):
 #         },
 #     ]
 
-#     provider = [Bing , ChatgptAi  , OpenaiChat , Raycast , Theb , You , AItianhuSpace , ChatForAi , Chatgpt4Online , ChatgptNext , ChatgptX  , FreeGpt , GptTalkRu , Koala , MyShell , PerplexityAi , Poe , TalkAi , Vercel , AItianhu , Bestim , ChatBase , ChatgptDemo , ChatgptDemoAi , ChatgptFree , ChatgptLogin , Chatxyz , Gpt6 , GptChatly , GptForLove , GptGo , GptGod , OnlineGpt , Aura , Bard , DeepInfra , FreeChatgpt , Gemini , GeminiPro , GeminiProChat , HuggingChat , HuggingFace , PerplexityLabs , Pi , ThebApi , OpenAssistant, Liaobots, FlowGpt]
+#     provider = [Bing , ChatgptAi  , OpenaiChat , Raycast , Theb , You , AItianhuSpace , ChatForAi , Chatgpt4Online , ChatgptNext , ChatgptX  , FreeGpt , GptTalkRu , Koala , MyShell , PerplexityAi , Poe , TalkAi , Vercel , AItianhu , Bestim , ChatBase , ChatgptDemo , ChatgptDemoAi , ChatgptFree , ChatgptLogin , Chatxyz , Gpt6 , GptChatly , GptForLove , GptGo , GptGod , OnlineGpt , Aura , Bard , DeepInfra , FreeChatgpt , Gemini , GeminiPro , GeminiProChat , HuggingChat , HuggingFace , Llama2 , PerplexityLabs , Pi , ThebApi , OpenAssistant, Liaobots, FlowGpt]
 #     client = Client(provider=RetryProvider(provider, shuffle=False))
 #     response = client.chat.completions.create(
 #         model="",
