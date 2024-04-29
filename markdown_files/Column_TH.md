@@ -1,3 +1,18 @@
+Thu, 18 Apr 2024 16:59:10 +0530
+### [Column | Legacy of India’s courtesans](https://www.thehindu.com/opinion/columns/courtesans-tawaifs-courting-hindustan-heeramandi-sarmaya-arts-foundation/article68071442.ece)
+
+The article delves into the rich cultural history of Indian courtesans, known as tawaifs, highlighting their significant influence on the arts, fashion, and society from 500 BCE to the 20th century. It explores their role as style icons and patrons of the finest Indian textiles and jewelry, showcasing their wealth and status through elaborate garments and accessories. The narrative includes anecdotes of notable figures like Begum Samru and Begum Akhtar, illustrating their impact on design and traditional crafts. The courtesans' legacy is recognized for its continued inspiration in modern arts and media, with references to upcoming works that pay homage to their enduring cultural significance. The piece is part of a series by Sarmaya.in, celebrating India's artistic traditions.
+
+Wed, 17 Apr 2024 00:30:00 +0530
+### [IPL | When players go beyond cliches and illuminate the format](https://www.thehindu.com/opinion/columns/when-players-go-beyond-cliches-and-illuminate-the-format/article68071847.ece)
+
+The article reflects on the rarity of memorable quotes in IPL amidst the usual clichés. It highlights Suryakumar Yadav's candid admission about avoiding batting against Jasprit Bumrah in nets due to Bumrah's intimidating bowling. Bumrah, known for his versatility and lack of ego in the game, is contrasted with the two types of ego in sports: the positive, which drives self-improvement, and the negative, which hinders growth. The piece also touches on the old-school cricket mentality that dismisses data analysis, as voiced by legends like Bishan Bedi and Erapalli Prasanna. However, it acknowledges the overwhelming nature of data, citing Sunil Narine's approach of simplicity and focus on his role. The article concludes with insights from top players, suggesting a blend of tradition and modernity in cricket's evolution.
+
+Sun, 14 Apr 2024 18:47:53 +0530
+### [Political Line | Unity and divisiveness: in the eye of the beholder](https://www.thehindu.com/news/national/unity-and-divisiveness-in-the-eye-of-the-beholder/article68065004.ece)
+
+The article discusses the divisive rhetoric in Indian politics, focusing on the BJP and Congress. The BJP criticizes Congress for demanding a caste census and accuses it of threatening state autonomy, while Congress counters by accusing the BJP of excluding minorities and undermining democracy. The BJP claims to unify Hindus, which it equates with national unity, but faces challenges from upper castes unhappy with its subaltern focus. The article also touches on the complex identity politics of Hinduism, historical attempts to define 'Hindu,' and the political life of Sheikh Abdullah in Kashmir. Additionally, it mentions the plight of Meitei Muslims in Manipur and Muria tribals in Andhra Pradesh, and states petitioning the Supreme Court over financial disputes with the Centre.
+
 Wed, 03 Apr 2024 00:30:00 +0530
 ### [IPL-17 | What the heck – more humour, less uniformity, please!](https://www.thehindu.com/opinion/columns/what-the-heck-more-humour-less-uniformity-please/article68020437.ece)
 
