@@ -58,32 +58,32 @@ def summarise(article_text):
 
     print("failed to provide summary using providers")
 
-    model_array = [  "gpt-4", "gpt-3.5-turbo" ,   "gpt-4-turbo" , "Llama-2-7b-chat-hf" , "Llama-2-13b-chat-hf" , "Llama-2-70b-chat-hf" , "CodeLlama-34b-Instruct-hf" , "CodeLlama-70b-Instruct-hf" , "Mixtral-8x7B-Instruct-v0.1" , "Mistral-7B-Instruct-v0.1" , "dolphin-2.6-mixtral-8x7b" , "lzlv_70b_fp16_hf" , "airoboros-70b" , "airoboros-l2-70b-gpt4-1.4.1" , "openchat_3.5" , "gemini" , "gemini-pro" , "claude-v2" , "claude-3-opus" , "claude-3-sonnet" , "pi"]
+    # model_array = [  "gpt-4", "gpt-3.5-turbo" ,   "gpt-4-turbo" , "Llama-2-7b-chat-hf" , "Llama-2-13b-chat-hf" , "Llama-2-70b-chat-hf" , "CodeLlama-34b-Instruct-hf" , "CodeLlama-70b-Instruct-hf" , "Mixtral-8x7B-Instruct-v0.1" , "Mistral-7B-Instruct-v0.1" , "dolphin-2.6-mixtral-8x7b" , "lzlv_70b_fp16_hf" , "airoboros-70b" , "airoboros-l2-70b-gpt4-1.4.1" , "openchat_3.5" , "gemini" , "gemini-pro" , "claude-v2" , "claude-3-opus" , "claude-3-sonnet" , "pi"]
 
-    for model in model_array:
-        print(f"Summarizing using model {model}")
-        try:
-            response = g4f.ChatCompletion.create(
-                model="",
-                messages=conversation,
-                max_tokens=1000,
-                stream=False,
-            )
+    # for model in model_array:
+    #     print(f"Summarizing using model {model}")
+    #     try:
+    #         response = g4f.ChatCompletion.create(
+    #             model="",
+    #             messages=conversation,
+    #             max_tokens=1000,
+    #             stream=False,
+    #         )
 
-            for message in response:
-                summary += message
+    #         for message in response:
+    #             summary += message
 
-            # Split the response into words and check if it has more than 80 words
-            words = summary.split()
-            if len(words) > 80:
-                return summary
+    #         # Split the response into words and check if it has more than 80 words
+    #         words = summary.split()
+    #         if len(words) > 80:
+    #             return summary
 
-        except Exception as e:
-            # Log the error or handle as needed
-            print(f"Error while summarizing article text using model {model}: {str(e)}")
+    #     except Exception as e:
+    #         # Log the error or handle as needed
+    #         print(f"Error while summarizing article text using model {model}: {str(e)}")
     
-    # If none of the models provide a summary, return None or handle as needed
-    print("None of the models could provide a summary.")
+    # # If none of the models provide a summary, return None or handle as needed
+    # print("None of the models could provide a summary.")
     return None
 
 
@@ -503,7 +503,7 @@ def main():
         sorting_xml_files_by_date_json(feed)
         write_markdown_files_json(feed)
         # update_media_url_in_feed(feed)
-        # delete_entries_older_than_input_date(feed , '10/10/2022')
+        delete_entries_older_than_input_date(feed , '10/10/2022')
    
 
     end_time = time.time()

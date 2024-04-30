@@ -10,7 +10,8 @@ import json
 import xml.etree.ElementTree as ET
 from xml.dom.minidom import parseString
 from datetime import datetime
-
+from main import get_feeds
+from main import delete_entries_older_than_input_date
 
 def replace_and_delete(file_path):
     with open(file_path, 'r+') as file:
@@ -126,3 +127,8 @@ def convert_json_data_to_xml(json_file_path):
 
 
 # replace_and_delete_in_feeds()
+
+
+feeds = get_feeds()
+for feed in feeds:
+    delete_entries_older_than_input_date  (feed , '01/04/2024')

@@ -6,7 +6,7 @@
   </head>
   <body>
     <outline type="rss" title="Explained IE" xmlUrl="http://indianexpress.com/section/explained/feed" />
-    <outline type="rss" title="Explain FP" xmlUrl="https://www.firstpost.com/commonfeeds/v1/mfp/rss/explainers.xml" />
+    <!-- <outline type="rss" title="Explain FP" xmlUrl="https://www.firstpost.com/commonfeeds/v1/mfp/rss/explainers.xml" /> -->
     <!-- <outline type="rss" title="Explained TH" xmlUrl="https://www.thehindu.com/topic/The_Hindu_Explains/feeder/default.rss" /> -->
     <!-- <outline type="rss" title="Opinion IE" xmlUrl="http://indianexpress.com/section/opinion/feed" /> -->
     <!-- <outline type="rss" title="Opinion FP" xmlUrl="https://www.firstpost.com/commonfeeds/v1/mfp/rss/opinion.xml" /> -->
