@@ -1,3 +1,35 @@
+Fri, 03 May 2024 06:55:48 +0000
+### [Why is a Reliance Capital Ltd investor challenging its resolution plan?](https://indianexpress.com/article/explained/explained-economics/reliance-capital-ltd-challenge-resolution-plan-9305148/)
+
+An investor, Harsh Mehta, has filed a writ petition challenging SEBI's delisting regulations and the NCLT's approval of a resolution plan for Reliance Capital Ltd (RCL), which is undergoing insolvency proceedings. The challenged regulation exempts delisting as per an IBC-approved resolution plan from the standard delisting norms. Mehta, who holds a small percentage of RCL shares, argues that this exemption fails to protect investors' interests, as it allows for the delisting of shares without prior intimation or approval from public shareholders. The resolution plan approved by NCLT, submitted by IndusInd International Holdings Ltd (IIHL), proposes to cancel and extinguish the entire share capital of RCL for nil consideration, effectively reducing the liquidation value of equity shareholders to zero and impacting 98.49% of public shareholders. The petitioner contends that this process undermines the interests of equity shareholders and violates the SEBI Act, 1992. The trading of RCL shares is currently suspended following the NCLT order.
+
+Fri, 03 May 2024 03:10:15 +0000
+### [Why Congo’s latest Mpox outbreak is concerning](https://indianexpress.com/article/explained/explained-health/why-congos-latest-mpox-outbreak-is-concerning-9304630/)
+
+The Democratic Republic of the Congo is facing a significant Mpox outbreak, with over 4,500 suspected cases and nearly 300 deaths reported since January. This marks a substantial increase from the previous year. The outbreak has been declared a health emergency, and cases have also been reported in the neighboring Republic of Congo.
+
+A new form of Mpox, detected in the mining town of Kamituga in eastern Congo, is believed to be more transmissible among humans. This is attributed to genetic mutations resulting from sustained human transmission, in a population with limited contact with the wild animals that are natural carriers of the disease.
+
+Dr. Placide Mbala-Kingebeni, who leads a lab at Congo's National Institute of Biomedical Research, notes that the new form of the disease presents milder lesions primarily on the genitals, making diagnosis more challenging. The disease's transmission through sexual contact has been confirmed, with a significant number of cases found in sex workers.
+
+The World Health Organization (WHO) has indicated that the mutations may necessitate a revised testing strategy. There are concerns about silent transmission if patients do not seek medical attention. Two clades of Mpox exist, with Clade 1 being more severe. A new form of Clade 1 has been identified, potentially linked to over 240 cases and at least three deaths in Kamituga.
+
+Despite the urgent situation, Congo has had limited access to Mpox vaccines and treatments. The health minister has authorized vaccine use in high-risk areas, and discussions are underway with countries like Japan to secure funding for vaccines. However, WHO's emergencies chief, Dr. Michael Ryan, highlighted the lack of financial investment from donors to address the Mpox spread in Africa and beyond.
+
+Fri, 03 May 2024 03:00:04 +0000
+### [The flight of Prajwal Revanna: How diplomatic passports, visa regimes work](https://indianexpress.com/article/explained/explained-law/flight-of-prajwal-revanna-how-diplomatic-passports-visa-regimes-work-9304621/)
+
+Janata Dal (Secular) MP Prajwal Revanna, after being accused of sexual abuse, fled to Germany using a diplomatic passport. The Ministry of External Affairs (MEA) clarified that Revanna did not require a visa note for Germany due to a visa exemption agreement between India and Germany. Diplomatic passports, which are maroon and have a shorter validity than normal passports, grant the holder certain international law privileges, including immunity from arrest and legal proceedings in the host country.
+
+Diplomatic passports are issued to a range of individuals, including those with diplomatic status, government officials on official business, certain ranks of the Indian Foreign Service, and their families, as well as MPs and union ministers representing the government abroad. The validity of these passports is tied to the term of the MP. Despite the visa exemption, Prajwal was still required to seek political clearance for his travel, which he did not.
+
+Karnataka Chief Minister Siddaramaiah has requested the cancellation of Prajwal's diplomatic passport and his return to India to face legal action. However, the government can only revoke the passport following a court order, as per the Passport Act 1967, which allows revocation for wrongful possession, suppression of material information, or if deemed necessary by the passport authority in the interest of India's sovereignty, integrity, or international relations. A diplomatic passport can also be revoked if the holder is convicted by a court in India or upon court orders during criminal proceedings.
+
+Fri, 03 May 2024 01:00:12 +0000
+### [Australian media reports Indian spies ‘kicked out’: In the world of spycraft, why national interest trumps all](https://indianexpress.com/article/explained/explained-global/in-the-world-of-spycraft-why-national-interest-trumps-all-9304549/)
+
+The article discusses a series of allegations against India regarding espionage and covert operations abroad. Reports from Australia, the US, the UK, and Canada have accused Indian operatives of various acts, including attempting to steal sensitive information and being involved in assassination plots. India has denied these allegations, with varying responses that reflect its strategic positions. The incidents have raised concerns among the Five Eyes intelligence-sharing network countries, which include the accusers and have strategic ties with India. The article suggests that while espionage is a common practice among nations, the public outing of Indian operatives by these countries indicates a pushback against India's covert activities. The narrative also touches upon India's foreign policy, its reliance on ancient statecraft principles from the Arthashastra, and the importance of intelligence in national security. It concludes with the perspective that intelligence operations should remain consistent regardless of diplomatic relations, as per the insights of a former R&AW chief. The article also briefly mentions unrelated domestic political developments in India.
+
 Thu, 02 May 2024 22:40:23 +0000
 ### [Article 361: Immunity shield until Governor in office](https://indianexpress.com/article/explained/explained-law/article-361-immunity-shield-until-governor-in-office-9304516/)
 

@@ -5064,3 +5064,12 @@ Started at 2024-05-02 23:12:19
 Finished at 2024-05-03 02:41:02
 Total time taken: 12522.391541957855 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-05-03 08:21:19
+4 Feed entries have been written to feeds/Explained_IE.xml
+4 new entries have been added
+0 summaries have been updated
+0 entries have been deleted from feeds/Explained_IE.xml 
+
+Finished at 2024-05-03 08:23:08
+Total time taken: 108.3262791633606 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
