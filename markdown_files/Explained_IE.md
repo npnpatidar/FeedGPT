@@ -1,3 +1,46 @@
+Fri, 03 May 2024 15:51:28 +0000
+### [Explained: The Eta Aquariid meteor shower and how it can be spotted](https://indianexpress.com/article/explained/everyday-explainers/eta-aquariid-meteor-shower-visible-9306317/)
+
+The **Eta Aquariid meteor shower**, associated with **Halley's Comet**, is expected to be visible on May 6 and 7. These showers, consisting of space debris entering Earth's atmosphere at high speeds, are an annual occurrence in May. While best viewed from the Southern Hemisphere, they can also be observed in the Northern Hemisphere.
+
+Meteor showers originate from comets, which are icy bodies that release gas and dust when near the Sun, creating a visible tail. The Eta Aquariids are particularly fast, with about 30 to 40 meteors per hour visible from the Southern Hemisphere at their peak. This rate decreases in the Northern Hemisphere due to the position of the radiant in the Aquarius constellation.
+
+For optimal viewing, a clear, dark sky with minimal light pollution is recommended. The Eta Aquariids are visible to the naked eye and can be traced back to their point of origin near the Aquarius constellation. Halley's Comet, the source of these meteors, orbits the Sun every 76 years and was last seen in 1986. It will next appear in 2061. The Orionids in October are another meteor shower caused by this comet.
+
+Fri, 03 May 2024 15:10:05 +0000
+### [What led to Latin America’s record dengue surge](https://indianexpress.com/article/explained/explained-global/latin-america-caribbean-record-dengue-surge-9306244/)
+
+Dengue cases in Latin America and the Caribbean have surged to over 5.9 million from January to April 2024, surpassing the total for 2023. The spike is attributed to rising temperatures, fostering ideal conditions for mosquito proliferation. Brazil is the hardest hit, with 4.2 million cases and over 2,000 deaths, leading to states declaring emergencies and setting up field hospitals. Peru, Puerto Rico, and Argentina are also experiencing significant outbreaks, with Central American countries and Mexico reporting early rises in cases.
+
+Climate change, particularly a 0.2°C average temperature increase per decade over 30 years, has expanded mosquito habitats and extended their active season. The 2023 El Niño event and extreme weather, such as untimely rainfall and droughts, have exacerbated the situation, creating more breeding grounds for mosquitoes. Urbanization, especially in shantytowns with standing water and inadequate refuse collection, has also contributed to the spread.
+
+Efforts to develop a dengue vaccine face challenges due to the virus's four strains and the risk of increased susceptibility to other strains after vaccination against one. Current vaccines, like Qdenga and Dengvaxia, are either costly or have limitations. Partnerships and new clinical trials aim to produce more affordable and effective vaccines, but widespread availability is still years away. The Serum Institute of India is also testing a single-shot vaccine, with hopes for future success.
+
+Fri, 03 May 2024 14:33:02 +0000
+### [From Feroze to Rahul: Brief history of Rae Bareli, bastion of Gandhi-Nehru family](https://indianexpress.com/article/explained/explained-history/feroze-rahul-gandhi-rae-bareli-congress-bastion-9306141/)
+
+Rahul Gandhi has filed his nomination for the Rae Bareli Lok Sabha seat, continuing the Gandhi-Nehru family's long-standing association with the constituency. The family's connection began with Feroze Gandhi in 1952. Over the years, the seat has seen significant events, including Indira Gandhi's election and the controversy that led to the Emergency. Post-Emergency, the constituency witnessed a non-Congress victory but returned to Congress control in subsequent elections. Sonia Gandhi has maintained the seat since 1998, despite strong challenges from BJP candidates. The current contest is between Rahul Gandhi and Dinesh Singh, reflecting the ongoing political dynamics in Rae Bareli.
+
+Fri, 03 May 2024 13:11:30 +0000
+### [On World Press Freedom Day, the story of India’s first newspaper – ‘Hicky’s Bengal Gazette’](https://indianexpress.com/article/explained/explained-history/world-press-freedom-day-india-first-newspaper-9306034/)
+
+World Press Freedom Day, celebrated on May 3, highlights the pivotal role of journalism. The first newspaper in India, Hicky's Bengal Gazette, was launched on January 29, 1780, by James Augustus Hicky. Initially catering to the British in Calcutta and filled with gossip, the Gazette also exposed government corruption and criticized the British East India Company, leading to its shutdown due to libel suits.
+
+Andrew Otis, in his book "Hicky's Bengal Gazette: The Untold Story of India’s First Newspaper," delves into Hicky's life, from his arrival in India to his imprisonment, where he started his printing business. The Gazette, Asia's first newspaper, covered local issues, civic problems, and even Calcutta's frequent fires, influencing policy changes like the ban on thatch houses.
+
+Despite avoiding political issues initially, Hicky's Gazette became a platform for social commentary and criticism, leading to legal troubles and Hicky's financial ruin. Otis credits Hicky with contributing to the growth of Indian journalism, which persisted despite British repression. The legacy of the Gazette and its influence on Indian-owned presses and the spread of anti-colonial sentiment is a testament to the enduring power of the press.
+
+Fri, 03 May 2024 09:51:06 +0000
+### [Can Yulia Navalnaya unite the Russian opposition?](https://indianexpress.com/article/explained/explained-global/yulia-navalnaya-russian-opposition-9305595/)
+
+Following the death of her husband Alexei Navalny, Yulia Navalnaya has decided to take over his Anti-Corruption Foundation and continue his work. She has accused Russian President Vladimir Putin of being responsible for her husband's death and has stated that an investigation is in progress. Alexei Navalny, who died at 47, was known for his political activism against corruption in Russia, which led to severe repercussions from the authorities.
+
+Yulia Navalnaya, who met Alexei in 1998 and married him in 2000, has been a supportive partner throughout his political journey, even though she never aspired to be a politician herself. Despite her own academic and professional background, she chose to assist her husband with his work. Her role became increasingly significant as Alexei Navalny's political influence grew.
+
+The article recounts various challenges the couple faced, including Alexei's arrest and conviction on embezzlement charges, which was widely seen as politically motivated. Yulia's support was crucial during these times, and she earned the nickname "First Lady" of the opposition when Alexei ran for mayor of Moscow.
+
+Observers now see Yulia Navalnaya as a potential unifying symbol for the Russian opposition, with some suggesting she could become a moral symbol of resistance. Her determination and involvement in her husband's political career have been highlighted as key factors in her rise as a prominent figure in the opposition movement. She has expressed a commitment to fight for a new Russia, one that aligns with the vision of dignity, justice, and love that Alexei Navalny had championed. Her message is one of resilience and encouragement to continue the struggle without fear.
+
 Fri, 03 May 2024 06:55:48 +0000
 ### [Why is a Reliance Capital Ltd investor challenging its resolution plan?](https://indianexpress.com/article/explained/explained-economics/reliance-capital-ltd-challenge-resolution-plan-9305148/)
 
