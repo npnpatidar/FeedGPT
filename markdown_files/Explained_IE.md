@@ -1,3 +1,29 @@
+Sat, 04 May 2024 12:39:10 +0000
+### [What is Artificial General Intelligence (AGI), and why are people worried about it?](https://indianexpress.com/article/explained/explained-sci-tech/artificial-general-intelligence-agi-9307895/)
+
+Sam Altman, CEO of OpenAI, has pledged significant investment in the development of Artificial General Intelligence (AGI), which aims to create machines capable of performing any intellectual task a human can. AGI represents a leap from narrow AI, which is limited to specific tasks, to a more generalized intelligence. The concept, dating back to Alan Turing's 1950 paper, holds potential for transformative impacts across healthcare, finance, business, and education. However, it also raises concerns about environmental impact, job loss, socio-economic disparity, and the potential for AGI to become uncontrollable. Prominent figures like Stephen Hawking and AI pioneers have called for strict regulations to align AGI development with human values and safety.
+
+Sat, 04 May 2024 12:31:18 +0000
+### [Why has China sent a mission to the far side of the Moon?](https://indianexpress.com/article/explained/explained-sci-tech/china-mission-far-side-moon-9307878/)
+
+China's Chang'e-6 mission, launched on May 3, aims to be the first to retrieve samples from the Moon's far side, unseen from Earth. The mission began at the Wenchang Space Launch Center and will take five days to reach lunar orbit. The far side of the Moon, often called the dark side, is of interest due to its unique features such as a thicker crust and more craters compared to the near side. Scientists believe that analyzing far-side samples could reveal the Moon's origins and why its two sides are different.
+
+The 53-day mission will see the orbiter circle the Moon while the lander targets the South Pole-Aitken basin, a large impact site that may contain material from the lunar mantle. After sample collection, an ascent vehicle will rendezvous with the orbiter to return the samples to Earth. This follows China's successful Chang'e-4 mission in 2019, which achieved a soft landing on the far side and explored with a rover. The Chang'e-6 mission continues China's exclusive achievements in far-side lunar exploration.
+
+Sat, 04 May 2024 10:28:12 +0000
+### [What a Blue Corner notice will mean for Prajwal Revanna](https://indianexpress.com/article/explained/blue-corner-notice-prajwal-revanna-9307699/)
+
+The article discusses the likelihood of the Central Bureau of Investigation (CBI) issuing a Blue Corner notice for Janata Dal (Secular) MP Prajwal Revanna, who is accused of sexual abuse and has fled to Germany. A Blue Corner notice is one of Interpol's color-coded alerts used to share information on crimes and criminals internationally. It is specifically aimed at gathering additional information about a person's identity, location, or activities in relation to a criminal investigation. The article explains that while Interpol notices are discretionary and cannot compel action, cooperation between countries can lead to effective responses. The article also mentions that India's good relations with Germany may aid in the cooperation between law enforcement agencies to address the case. In the past, Interpol issued a Blue Notice to locate fugitive Godman Nithyananda. The article concludes by mentioning the release of Sanjay Leela Bhansali's web-series "Heeramandi" on Netflix.
+
+Sat, 04 May 2024 09:10:19 +0000
+### [How international students can (legally) get around Canada’s fixed work hours](https://indianexpress.com/article/explained/explained-global/international-students-legally-bypass-canada-fixed-work-hours-9307530/)
+
+Canada has recently updated its student work regulations, limiting off-campus work for international students to 20 hours per week, which has caused financial difficulties for many. This limit is expected to increase to 24 hours in September, but students are still struggling with high tuition and living costs. The Immigration, Refugees and Citizenship Canada (IRCC) is considering increasing the limit to 30 hours, but concerns about academic performance have been raised.
+
+International students, particularly from developing countries, are pushing for more work hours to achieve financial independence. With parents typically funding only the first year, students must work to afford their education. New study permit requirements mandate proof of at least $20,635 in savings, plus tuition and travel costs. The high cost of living, including rent and daily necessities, adds to the financial burden.
+
+Students can legally work more than 20 hours by taking on-campus jobs, which offer unlimited work hours. These positions include teaching or research assistants and jobs with on-campus businesses. However, competition for these roles is fierce due to limited availability. Off-campus work restrictions are lifted during summer and winter breaks, allowing full-time employment. On-campus work provides a potential solution for students to support themselves financially while studying in Canada.
+
 Sat, 04 May 2024 08:03:30 +0000
 ### [Swell waves likely to hit several coastal areas over the weekend, says INCOIS: What are these waves?](https://indianexpress.com/article/explained/swell-waves-likely-to-hit-several-coastal-areas-over-the-weekend-says-incois-what-are-these-waves-9307429/)
 
