@@ -1,3 +1,8 @@
+Sat, 04 May 2024 01:00:57 +0000
+### [Emergency, first non-Congress Govt, and a promise belied](https://indianexpress.com/article/explained/explained-history/emergency-first-non-congress-govt-and-a-promise-belied-9306583/)
+
+The article provides a detailed account of the political events in India surrounding the 1977 Lok Sabha elections. It highlights the rise of the Janata Party and the fall of Indira Gandhi's Congress post-Emergency. The Emergency period saw widespread arrests and censorship, with Indira Gandhi's election being invalidated due to electoral malpractice. The Janata Party, formed from a merger of four parties, won the election with Morarji Desai becoming the Prime Minister. The Congress suffered a major defeat but retained some strength in the southern states. Internal conflicts within the Janata Party led to instability, and by 1979, Charan Singh briefly became Prime Minister with Congress support, which was soon withdrawn, leading to another election. The article concludes with the notion that this period was a significant experiment in Indian democracy.
+
 Fri, 03 May 2024 15:51:28 +0000
 ### [Explained: The Eta Aquariid meteor shower and how it can be spotted](https://indianexpress.com/article/explained/everyday-explainers/eta-aquariid-meteor-shower-visible-9306317/)
 
