@@ -15,6 +15,9 @@ from g4f.client import Client
 from g4f.Provider import RetryProvider, Bing , ChatgptAi , Liaobots , OpenaiChat , Raycast , Theb , You , AItianhuSpace , ChatForAi , Chatgpt4Online , ChatgptNext , ChatgptX , FlowGpt , FreeGpt , GptTalkRu , Koala , MyShell , PerplexityAi , Poe , TalkAi , Vercel , AItianhu , Bestim , ChatBase , ChatgptDemo , ChatgptDemoAi , ChatgptFree , ChatgptLogin , Chatxyz , Gpt6 , GptChatly , GptForLove , GptGo , GptGod , OnlineGpt , Aura , Bard , DeepInfra , FreeChatgpt , Gemini , GeminiPro , GeminiProChat , HuggingChat , HuggingFace , PerplexityLabs , Pi , ThebApi , OpenAssistant
 
 
+start_time_of_the_program = time.time()
+max_run_time_assigned =  5 * 60 * 60 + 50 * 60
+
 def fetch_article_text(url):
     try:
         response = requests.get(url)
@@ -296,6 +299,10 @@ def fetch_and_write_feed_to_markdown_using_json(feed):
 
     new_entry = 0
     for entry in feed_response.entries:
+
+        if time.time () - start_time_of_the_program >  max_run_time_assigned:
+            break
+
         title = entry.title
         link = entry.link
         pub_date = entry.published
@@ -357,7 +364,8 @@ def fetch_and_write_feed_to_markdown_using_json(feed):
             json_data['rss']['channel']['item'] = [item_data]
 
         existing_links.add(link)
-    write_json_data_to_xml(json_data, feed_file)
+        write_json_data_to_xml(json_data, feed_file)
+
     print(f"{new_entry} Feed entries have been written to {feed_file}")
     if new_entry > 0:
         log_details(
@@ -378,6 +386,9 @@ def update_summary_if_ai_summary_is_false(feed):
     new_summary = 0
 
     for item in json_data['rss']['channel']['item']:
+        
+        if time.time () - start_time_of_the_program >  300:
+            break
         if 'ai_summary' in item and item['ai_summary'].lower() == 'false':
             title = item['title']
             link = item['link']
@@ -401,7 +412,7 @@ def update_summary_if_ai_summary_is_false(feed):
                     item['ai_summary'] = 'True'
             item['description'] = summary
 
-    write_json_data_to_xml(json_data, feed_file)
+        write_json_data_to_xml(json_data, feed_file)
     print(f"{new_summary} summaries have been updated to {feed_file}")
     if new_summary > 0:
         log_details(
@@ -477,6 +488,7 @@ def log_details(details):
 
 
 def main():
+    
     start_time = time.time()
 
     log_details("Started at " + datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
@@ -486,14 +498,20 @@ def main():
     write_index_log_files(feeds)
 
     new_entries_added = 0
+
     for feed in feeds:
+        if time.time () - start_time_of_the_program >  max_run_time_assigned:
+            break
         new = fetch_and_write_feed_to_markdown_using_json(feed)
         new_entries_added = new_entries_added + new
 
     log_details(f"{new_entries_added} new entries have been added")
 
     new_entries_updated = 0
+
     for feed in feeds:
+        if time.time () - start_time_of_the_program >  max_run_time_assigned:
+            break
         new_summary = update_summary_if_ai_summary_is_false(feed)
         new_entries_updated = new_entries_updated + new_summary
 
@@ -503,7 +521,7 @@ def main():
         sorting_xml_files_by_date_json(feed)
         write_markdown_files_json(feed)
         # update_media_url_in_feed(feed)
-        delete_entries_older_than_input_date(feed , '10/10/2022')
+        # delete_entries_older_than_input_date(feed , '10/10/2022')
    
 
     end_time = time.time()
