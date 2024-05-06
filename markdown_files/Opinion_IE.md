@@ -1,3 +1,31 @@
+Mon, 06 May 2024 13:49:33 +0000
+### [In Gujarat, an unpredictable campaign before a predictable outcome](https://indianexpress.com/article/opinion/columns/gujarat-lok-sabha-polls-unpredictable-campaign-predictable-outcome-9311846/)
+
+The parliamentary election in Gujarat in 2024 has defied expectations of being dull, with various opposition movements challenging the dominance of the BJP. These movements include statewide agitations by the Kshatriya community, mobilization of tribal youth, and intensive campaigning by opposition candidates like Geniben Thakor. The discourse reveals tensions between caste and development, highlighting social cleavages despite the BJP's focus on development. The co-option of youth leaders by the BJP has created space for emerging opposition figures like Chaitar Vasava, though regional marginalization limits their impact. The BJP's success lies in integrating diverse communities into regional political economy structures, as seen in candidate choices like Rekha Choudhary in Banaskantha. Despite spirited opposition campaigns, the BJP's resources and organization often determine outcomes.
+
+Mon, 06 May 2024 12:09:22 +0000
+### [Viswanathan Anand writes: ‘This is the golden generation for Indian chess’](https://indianexpress.com/article/opinion/columns/viswanathan-anand-writes-golden-generation-for-indian-chess-9311721/)
+
+Viswanathan Anand reflects on the factors contributing to India's success in chess, particularly at the Candidates tournament. He highlights the sacrifices of parents, the necessity of coaching, and the advancements in training methods. Anand notes the development of India's chess ecosystem, with successful players establishing coaching centers and academies, providing a strong foundation for the current generation. The popularity of chess has grown, partly due to its portrayal in streaming and e-sports, leading to increased sponsorship and public engagement. Anand mentions the achievements of young grandmasters and the potential of the current generation, while also acknowledging the persistent gender disparity in chess. Efforts are being made to address this through equal prize money and support for women's tournaments. Anand hopes for the further national spread of chess, overcoming regional disparities in its popularity. The article concludes with a mention of a legal notice received by a tea startup from Sony Pictures Networks India, unrelated to the main content.
+
+Mon, 06 May 2024 10:30:00 +0000
+### [Some academics are getting it wrong: New PhD guidelines will make life easier for scholars](https://indianexpress.com/article/opinion/columns/new-phd-guidelines-scholars-9311307/)
+
+The article discusses the University Grants Commission (UGC) of India's new policy that allows four-year Bachelor’s degree holders to directly pursue PhD programmes. This move taps into the larger pool of undergraduate students, aligning with the goals of the National Education Policy (NEP) 2020. The policy is designed to prepare students with rigorous training in research methods and analytical skills, and it breaks down barriers that previously restricted PhD eligibility to postgraduate students only.
+
+The UGC-NET, an entrance test for PhD eligibility and Assistant Professor appointments, will now include an "admission to PhD only" category from June 2024, allowing universities to use UGC-NET scores instead of conducting their own entrance tests. This change is part of a continuing policy to recognize the academic achievements of diverse educational backgrounds.
+
+The article emphasizes that objections to this policy, based on concerns about the dilution of quality, are unfounded since students must have a minimum of 75% marks to be eligible. It also clarifies that qualifying in the UGC-NET based on a four-year degree does not grant eligibility to teach as an Assistant Professor unless the candidate completes a PhD.
+
+The UGC's request for universities to use UGC-NET scores aims to reduce the financial burden and stress on students from multiple entrance exams and to streamline administrative processes for universities. The policy is seen as a step towards fostering innovation, excellence, and inclusivity in doctoral research, positioning India at the forefront of global research and innovation.
+
+The article concludes with the personal views of the Chairman of the UGC, who advocates for diverse doctoral research opportunities for students without the need for multiple entrance tests. The unrelated content regarding a woman's abduction is not included in the summary as per the request.
+
+Mon, 06 May 2024 08:30:13 +0000
+### [Big question in West Bengal: Will BJP’s charges of corruption trump Mamata’s charisma, welfare programmes?](https://indianexpress.com/article/opinion/columns/big-question-in-west-bengal-will-bjps-charges-of-corruption-trump-mamatas-charisma-welfare-programmes-9311072/)
+
+The article discusses the political climate and voter turnout in West Bengal during the 2024 Lok Sabha elections. It highlights a lower voter enthusiasm compared to the 2014 and 2019 elections, attributing it to factors such as the BJP's weakened booth-level organization post-2021 assembly elections and the absence of migrant workers due to post-Covid job uncertainties. The BJP's ambitious seat target faces challenges due to a decline in vote share and internal party rivalry. The Trinamool Congress (TMC) benefits from welfare schemes and the charisma of Mamata Banerjee, while the Left has seen some organizational strengthening. The article concludes by questioning how voters will respond to the opposition's campaign against the TMC, noting that West Bengal has historically voted against national parties. The views expressed are personal to the writer, a political scientist. The unrelated content regarding a separate legal case has been omitted from the summary.
+
 Mon, 06 May 2024 07:17:31 +0000
 ### [BJP’s Karnataka push is a reaction to its weaknesses](https://indianexpress.com/article/opinion/columns/bjp-karnataka-push-reaction-weaknesses-9310978/)
 

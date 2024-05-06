@@ -1,3 +1,26 @@
+Mon, 6 May 2024 18:37:33 +0530
+### [Trudeau’s anti-Indianism is guided by sheer political opportunism](https://www.firstpost.com/opinion/trudeaus-anti-indianism-is-guided-by-sheer-political-opportunism-13767767.html)
+
+The article discusses the strained relations between Canada and India, focusing on Canadian Prime Minister Justin Trudeau's political stance and actions that are perceived as anti-India. It highlights Trudeau's reluctance to condemn pro-Khalistan slogans at a Khalsa Day event, suggesting his political strategy may be to secure votes from certain Sikh communities in Canada, despite the potential cost of alienating other Sikh voters who do not support separatism.
+
+The article criticizes Trudeau for using the arrest of three Indian nationals and an interim intelligence report alleging foreign interference in Canadian elections as political tools. It suggests that these actions, along with Trudeau's previous support for protesting farmers in India, indicate a pattern of behavior that undermines the cooperative relationship between the two democracies.
+
+Furthermore, the article points out inconsistencies and potential repercussions of the intelligence report, which accuses India, Pakistan, and China of attempting to influence Canadian elections, yet provides no concrete evidence against India. It also mentions a Human Rights Watch report listing human rights violations by the Canadian government, contrasting Trudeau's lack of compassion for Indigenous peoples in Canada with his support for freedom of expression related to separatism.
+
+The author, associated with the Kalinga Institute Indo-Pacific Studies, argues that Trudeau should prioritize the constructive ties between Canada and India over his personal political ambitions, especially given the global challenges that could benefit from cooperation between the two nations. The views expressed are personal and do not reflect those of the publishing platform.
+
+Mon, 6 May 2024 18:11:51 +0530
+### ['Res Judicata': End of EVM debate](https://www.firstpost.com/opinion/res-judicata-end-of-evm-debate-13767757.html)
+
+Article found but Couldn't summarize 
+From invalid voting to booth capturing, and logistic issues to environmental degradation, the paper ballot comes with risks, onus, and costs. It was the advent of the EVMs that eliminated these problems
+
+Mon, 6 May 2024 16:36:59 +0530
+### [Israel-Hamas war: Despite Cairo talks, no end to conflict in sight yet](https://www.firstpost.com/opinion/israel-hamas-war-despite-cairo-talks-no-end-to-conflict-in-sight-yet-13767672.html)
+
+Article found but Couldn't summarize 
+Most observers felt that perhaps the only positive outcome of the ongoing war would be a real sincere effort to achieve the ‘two state solution’, but the consistent denial by Netanyahu to even consider it and the US vetoing the Palestine state’s recognition at the UNSC last week don't augur well for this prospect in the near future
+
 Mon, 6 May 2024 13:40:56 +0530
 ### [With Taiwanese President Lai Ching-te set to assume office, China's woes will only exacerbate](https://www.firstpost.com/opinion/with-taiwanese-president-lai-ching-te-set-to-assume-office-chinas-woes-will-only-exacerbate-13767589.html)
 

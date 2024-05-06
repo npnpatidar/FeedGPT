@@ -1,3 +1,31 @@
+Mon, 06 May 2024 19:45:52 +0530
+### [Why did the CBI request an Interpol ‘Blue Corner’ notice against Prajwal Revanna? | Explained](https://www.thehindu.com/news/national/interpol-revanna-prajwal-sexual-assault-blue-corner-notice-probe-explainer/article68145488.ece)
+
+Interpol has issued a Blue Corner notice against Prajwal Revanna, an MP from Karnataka, who is facing serious allegations of sexual abuse. The notice aims to gather additional information about Revanna's whereabouts and criminal record. He has been on the run since explicit video clips allegedly showing him abusing multiple women surfaced. The Karnataka Police have charged him with rape, sexual harassment, and criminal intimidation. Interpol's notice system aids in international cooperation in criminal investigations, and the issuance of the Blue Corner notice highlights the seriousness of the allegations against Revanna.
+
+Mon, 06 May 2024 18:16:22 +0530
+### [Is the West Bengal Governor immune from criminal prosecution amid sexual harassment allegations? | Explained](https://www.thehindu.com/news/national/is-the-west-bengal-governor-immune-from-criminal-prosecution-amid-sexual-harassment-allegations-explained/article68144687.ece)
+
+West Bengal Governor C.V. Ananda Bose has instructed Raj Bhavan staff to disregard any communication from Kolkata Police regarding a sexual harassment complaint against him. He also prohibited the entry of police and a state minister into Raj Bhavan. This action followed the establishment of an inquiry team by Kolkata Police to investigate the allegations. Governor Bose cited constitutional immunity for governors against criminal proceedings during their tenure. The move has sparked criticism from political circles, with Chief Minister Mamata Banerjee condemning the governor's actions. The article delves into the constitutional provisions and past cases related to gubernatorial immunity and judicial review.
+
+Mon, 06 May 2024 17:21:47 +0530
+### [Explained | Why has densely populated Rwanda agreed to the U.K.’s plan to deport migrants?](https://www.thehindu.com/news/international/uk-rwanda-asylum-deport-migrants-explainer-policy-volunteer-scheme/article68141949.ece)
+
+The article discusses the U.K.'s controversial immigration policy involving the deportation of asylum seekers to Rwanda. The U.K. government has been deporting asylum seekers under a voluntary returns scheme and is preparing for more deportations as part of a new law. Despite legal challenges and the Supreme Court declaring the policy unlawful, the government has finalized a new agreement with Rwanda, introducing a bill to declare it a "safe third country" for processing asylum claims.
+
+The policy has been criticized for the risks it poses to asylum seekers due to Rwanda's dense population, poor human rights record, and inadequate asylum system. Critics argue that the policy may not effectively address human trafficking and dangerous crossings. However, Rwanda asserts its capability to accommodate migrants sent by Britain.
+
+The article also details the history of the Voluntary Returns Scheme, financial assistance offered to migrants, and the eligibility criteria for the service. It highlights Rwanda's development after the 1994 genocide but also points out ongoing human rights concerns, including the treatment of refugees and dissenters.
+
+Rwanda has agreed to accept more refugees, and the U.K. has promised development funding and to cover processing and integration costs. Rwandan President Paul Kagame emphasizes that the partnership with the U.K. is not economically motivated but aims to offer refugees a better life. The article concludes with perspectives on Rwanda's role as an ally to the West in addressing migration issues.
+
+Mon, 06 May 2024 16:15:00 +0530
+### [What is magnetic resonance imaging? | Explained](https://www.thehindu.com/sci-tech/science/what-is-magnetic-resonance-imaging-explained/article68145357.ece)
+
+Magnetic Resonance Imaging (MRI) is a non-invasive diagnostic tool that has been indispensable since its development in the 1970s. It uses strong magnetic fields to produce images of soft tissues within the body, aiding in the diagnosis and treatment of various conditions, including cancer and neurological diseases. The MRI machine consists of a superconducting magnet, a radiofrequency pulse emitter, and a detector that works together to align hydrogen atoms in the body and capture their emitted signals to create detailed images.
+
+The technique is safe, with no long-term effects on the body, but it cannot be used on individuals with metallic implants or objects. MRI scans are costly due to the high price of the machines and the energy-intensive process of maintaining them. Patients often bear these costs, which can be significant, especially for those without insurance. The procedure requires patients to remain still for an extended period, which can be uncomfortable, particularly for claustrophobic individuals. Despite these challenges, MRI remains a critical component of modern medical diagnostics.
+
 Sun, 05 May 2024 05:00:00 +0530
 ### [Will R&AW’s overseas operations affect ties? | Explained](https://www.thehindu.com/news/national/will-raws-overseas-operations-affect-ties-explained/article68140349.ece)
 

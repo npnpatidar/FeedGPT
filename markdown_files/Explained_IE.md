@@ -1,3 +1,37 @@
+Mon, 06 May 2024 15:19:24 +0000
+### [Why is the launch of Boeing’s Starliner significant?](https://indianexpress.com/article/explained/explained-sci-tech/boeings-starliner-9312029/)
+
+Boeing's Starliner spacecraft is set for its first crewed test flight to the International Space Station (ISS) on May 7, launched from Kennedy Space Center. This mission is significant for Boeing as it could make them the second private firm, after SpaceX, to transport NASA crew to and from the ISS. The Starliner, a partially reusable crew capsule, will carry astronauts Barry "Butch" Wilmore and Sunita Williams, who will test manual flight control and onboard systems. The mission aims to dock with the ISS for about 10 days and will be closely monitored, especially during the return journey for its heat shield and parachute performance. Success in this mission is crucial for Boeing, which has faced delays and technical issues, and for NASA, which seeks to diversify its commercial spaceflight partners. A successful mission would also challenge SpaceX's current dominance in the commercial space sector.
+
+Mon, 06 May 2024 14:28:41 +0000
+### [Why are cancer cases soaring in India?](https://indianexpress.com/article/explained/explained-health/cancer-cases-india-9311917/)
+
+The article discusses the rising cancer cases in India, highlighting individual stories and broader health trends. Praful Reddy, an IT professional with lung cancer, and 12-year-old Dipti with Wilms tumor, represent the growing number of cancer diagnoses, particularly among children. An Apollo Hospitals report calls India the "cancer capital of the world," with a sharp increase in non-communicable diseases. It notes that one in three Indians is pre-diabetic, two in three are pre-hypertensive, and one in ten suffers from depression. The report projects cancer cases to rise from 1.4 million in 2020 to 1.57 million by 2025.
+
+The most common cancers in India are breast, cervix, and ovarian for women, and lung, mouth, and prostate for men. Contributing factors include aging, unhealthy diets, pollution, and climate change. The median age for lung cancer in India is 59, younger than in Western countries. There's a shortage of pediatric oncology facilities, especially in public hospitals, and financial and social barriers hinder treatment access.
+
+Low health screening rates present a challenge, with less than 1% of Indians screened for common cancers, despite WHO recommendations. Experts call for prioritized action, including government incentives for screening and policies for financial protection and expanded services. Without intervention, cancer cases could double by 2040, with many preventable through individual, societal, and governmental efforts. The article concludes with a separate mention of a legal notice sent to a tea startup by Sony Pictures Networks India, unrelated to the main topic.
+
+Mon, 06 May 2024 13:11:24 +0000
+### [How Indians became Germany’s largest community of international students](https://indianexpress.com/article/explained/explained-global/indians-germany-largest-community-international-students-9311803/)
+
+Indian students have become the largest international student group in Germany, surpassing Chinese students. The number of Indian students in German universities has doubled over the past five years to 43,000 and is projected to reach 45,000-50,000 by the end of 2024. The low cost of education, as higher education in Germany is mostly publicly funded, and the introduction of English-taught courses have contributed to this growth. Over 2,000 degree courses are now offered in English, particularly at the master's level.
+
+Germany has become the third most popular destination for international students globally and the top non-English speaking country. In 2023, Germany issued 16,850 visas to Indian students. Engineering remains the most popular field of study for Indian students in Germany, followed by law, management, social sciences, and mathematics.
+
+The article also notes that Indian students are the largest international student community in the US and are expected to reach one million by 2030. However, Canada has seen an 86% decline in study permits issued to Indian students due to diplomatic issues and a cap on international student permits.
+
+Germany's new Skilled Immigration Act offers a smoother pathway for international students into the German labor market, allowing them to work up to 20 hours per week. This change is expected to further attract Indian students to Germany.
+
+Mon, 06 May 2024 11:09:26 +0000
+### [Why are Lakshadweep coral reefs undergoing severe bleaching?](https://indianexpress.com/article/explained/explained-climate/lakshadweep-coral-reefs-undergoing-severe-bleaching-9311488/)
+
+The article discusses the severe coral bleaching in the Lakshadweep Sea, identified by the ICAR-Central Marine Fisheries Research Institute (CMFRI). The phenomenon, caused by prolonged marine heatwaves since October 2023, poses a threat to the region's diverse marine ecosystems. Coral bleaching occurs when corals expel the algae living in their tissues due to warm water, leading to a transparent appearance and exposing their white skeleton. Although not immediately fatal, bleached corals risk starvation and disease.
+
+The Lakshadweep Sea has experienced significant coral bleaching events before, but the current scale is unprecedented. Scientists measure the accumulated heat stress using the Degree Heating Week (DHW) indicator, and Lakshadweep has crossed the critical threshold, indicating severe bleaching. The increase in marine heatwaves is attributed to global warming and strong El Niño events, with a notable rise in the Indian Ocean region.
+
+These heatwaves not only threaten coral reefs but also affect seagrass meadows and kelp forests, impacting photosynthesis, growth, and reproduction. The health of coral reefs is crucial for Lakshadweep's structure, and their death could prevent future coral formation. The article also briefly mentions a legal notice sent to Dorje Teas by Sony Pictures Networks India, unrelated to the main topic.
+
 Mon, 06 May 2024 02:15:44 +0000
 ### [GOLDENE: A sheet of gold that  is only one atom thick](https://indianexpress.com/article/explained/explained-sci-tech/goldene-a-sheet-of-gold-that-is-only-one-atom-thick-9310360/)
 

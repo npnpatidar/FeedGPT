@@ -1,3 +1,36 @@
+Mon, 06 May 2024 16:30:16 +0530
+### [Artificial intelligence holds the key to urban resilience](https://www.livemint.com/opinion/online-views/artificial-intelligence-holds-the-key-to-urban-resilience-11714930800164.html)
+
+The article discusses the increasing risk of climate-driven events in cities, where 4.4 billion people live. It highlights the threats of rising sea levels, flooding, and extreme heat waves, particularly in coastal megacities and regions like South Asia and the Middle East. Urban areas, which are significant contributors to global carbon dioxide emissions and energy consumption, are expected to house 68% of the population by 2050.
+
+The piece emphasizes the potential of artificial intelligence (AI) to support cities in building resilience against climate change. AI could accelerate urban climate solutions, enable sustainable development, and innovate at a rapid pace. It could also assist in disaster response, make city operations more sustainable, and optimize public transportation and traffic planning.
+
+However, the article notes that while many cities are exploring AI, few have implemented it due to challenges in technology access and skill requirements. It calls for greater access to AI tools and training, especially for vulnerable communities disproportionately affected by climate threats. The author urges all stakeholders, including governments, companies, and communities, to embrace AI to make cities safer and more adaptable to climate change. The private sector is encouraged to partner with public agencies and support marginalized urban populations. The article concludes that the technology to combat climate-driven events exists, but collective action is needed to utilize it effectively. ©2024/project syndicate
+
+Mon, 06 May 2024 16:00:16 +0530
+### [Pushback power: GenAI can’t beat us on a key aspect of human creativity](https://www.livemint.com/opinion/online-views/pushback-power-genai-can-t-beat-us-on-a-key-aspect-of-human-creativity-11714930733191.html)
+
+The article discusses the impact of artificial intelligence (AI) on the creative industry, particularly animation. Yael Biran, an animator with 25 years of experience, has seen a significant decline in her work due to clients and agencies using AI tools for animation, which they previously outsourced to professionals like her. The AI-generated content can rival human-created work, saving time and money, as evidenced by its use in high-profile projects for Madonna and Stephen Colbert's show.
+
+However, there is concern that reliance on AI will lead to a lack of originality and meaningful impact, as AI often replicates existing art styles. Biran warns that without the critical input of visual thinkers, companies may produce ineffective visual communications, such as animations that misrepresent intended messages. The article highlights the importance of human creativity and understanding in visual storytelling, suggesting that businesses should not fully replace human creatives with AI. Despite the advancements in AI, the need for human judgment and skill in challenging ideas and creating impactful visuals remains crucial.
+
+Mon, 06 May 2024 14:30:15 +0530
+### [Startups have a lot to learn from long established organizations](https://www.livemint.com/opinion/online-views/startups-have-a-lot-to-learn-from-long-established-organizations-11714930645490.html)
+
+The article discusses the lessons startups can learn from established companies. Here's a summary:
+
+**1. Seek Trusted Advisors:** Startups should have advisors or challengers to provide balance and prevent blind spots that could lead to failure.
+
+**2. Build a Team of Owners:** As startups grow, it's crucial to have a senior team with complementary skills to scale the business effectively.
+
+**3. Focus on Reality Metrics:** Startups should concentrate on operating and financial metrics that matter in the long term, rather than vanity metrics.
+
+**4. Develop 'Good Bureaucracy':** Implementing fit-for-purpose systems and processes can help startups manage growth without losing agility.
+
+**5. Prioritize Governance:** Good governance should be part of a startup's DNA from the beginning to avoid future disputes and ensure long-term success.
+
+The article concludes by emphasizing that while startups can teach large companies about innovation and agility, they can also learn about sustainability and governance from the experience of established firms. These insights are presented as the authors' personal views.
+
 Mon, 06 May 2024 12:30:11 +0530
 ### [University campus dissent: The kids are (not) alright](https://www.livemint.com/opinion/online-views/university-campus-dissent-the-kids-are-not-alright-11714930571660.html)
 

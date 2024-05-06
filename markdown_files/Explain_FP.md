@@ -1,3 +1,68 @@
+Mon, 6 May 2024 21:37:13 +0530
+### [Rs 30 crore recovered, counting machines breaking down: Inside ED's huge cash haul in Ranchi](https://www.firstpost.com/explainers/rs-30-crore-eds-cash-haul-ranchi-13767811.html)
+
+The Enforcement Directorate (ED) conducted raids in Ranchi, recovering over Rs 30 crore from the residence of a household help employed by Sanjiv Lal, the personal secretary to Jharkhand Rural Development Minister Alamgir Alam. The raids are linked to a case against Virendra K Ram, a former chief engineer in the Jharkhand Rural Development Department, arrested for alleged irregularities in government scheme implementations. The ED also seized Rs 2.93 crore and Rs 10 lakh from two other locations, along with some jewelry and 'incriminating documents.' The investigation is ongoing, with several cash counting machines deployed to tally the seized money. Political reactions have varied, with the BJP criticizing the Congress and suggesting political motives behind the timing of the raids. Minister Alam has denied any connection to the seized cash, and the ED's probe continues.
+
+Mon, 6 May 2024 20:45:38 +0530
+### [Did Arvind Kejriwal get political funding from pro-Khalistan group?](https://www.firstpost.com/explainers/delhi-cm-arvind-kejriwal-aap-funding-pro-khalistan-group-lg-vk-saxena-13767807.html)
+
+Delhi's Lieutenant Governor, VK Saxena, has recommended a National Investigation Agency (NIA) probe against jailed Chief Minister Arvind Kejriwal of the Aam Aadmi Party (AAP), alleging political funding from the banned organization Sikhs for Justice (SFJ). The complaint suggests Kejriwal received $16 million from Khalistani groups to facilitate the release of a convict involved in a 1993 bomb blast. The AAP has dismissed the allegations as a BJP-led conspiracy, while the BJP calls for strict action. Kejriwal's incarceration in a separate case adds complexity to the situation, and the Supreme Court's forthcoming decision could further impact his situation.
+
+Mon, 6 May 2024 20:00:31 +0530
+### [Supriya Sule vs Sunetra Pawar, Amit Shah vs...: The big fights in Phase 3 of Lok Sabha elections](https://www.firstpost.com/explainers/lok-sabha-elections-2024-supriya-sule-sunetra-pawar-amit-shah-phase-3-big-fights-13767758.html)
+
+The third phase of Lok Sabha elections in India is underway, covering 93 constituencies across 12 states and Union Territories. Key contests include Amit Shah's bid for re-election from Gujarat's Gandhinagar, Supriya Sule facing her sister-in-law Sunetra Pawar in Maharashtra's Baramati, and Jyotiraditya Scindia contesting from Madhya Pradesh's Guna. Other notable battles include Dimple Yadav in Uttar Pradesh's Mainpuri, Shivraj Singh Chouhan in Madhya Pradesh's Vidisha, Badruddin Ajmal in Assam's Dhubri, and BY Raghavendra in Karnataka's Shivamogga. Additionally, prominent figures like Digvijay Singh and Basavaraj Bommai are also in the fray from their respective constituencies.
+
+Mon, 6 May 2024 19:45:28 +0530
+### [Why is Lakshadweep facing widespread coral bleaching?](https://www.firstpost.com/explainers/lakshadweep-widespread-coral-bleaching-13767792.html)
+
+The article discusses the severe coral bleaching in Lakshadweep, India, due to prolonged marine heatwaves since October 2023. The Central Marine Fisheries Research Institute (CMFRI) survey found that a significant percentage of hard coral species are experiencing bleaching, with temperatures consistently over one degree Celsius above normal. Corals expel symbiotic algae under heat stress, leading to bleaching and potential death within two weeks. About 80% of corals show bleaching signs, some turning white or fluorescent as a stress response. The phenomenon is part of the fourth global mass coral bleaching event, with at least 53 countries affected. The Great Barrier Reef had its worst summer on record, and scientists warn that if global temperatures don't change, 99% of coral reefs could go extinct by 2050. The CMFRI is conducting studies and has initiated a national project to investigate coral resilience and develop management actions for their sustainability. The article emphasizes the critical state of coral reefs worldwide and the urgent need for climate action.
+
+Mon, 6 May 2024 19:21:41 +0530
+### [How America's AI-controlled fighter jets could change the future of war](https://www.firstpost.com/explainers/us-air-force-ai-controlled-fighter-jets-f16s-war-13767743.html)
+
+The article discusses a significant advancement in military aviation technology, highlighting the test flight of an experimental AI-controlled F-16 fighter jet named Vista. The flight, which took place at Edwards Air Force Base, had US Air Force Secretary Frank Kendall onboard and demonstrated the jet's capabilities, including high-speed maneuvers and air-to-air combat simulations.
+
+The US Air Force plans to deploy over 1,000 AI-enabled unmanned warplanes by 2028, aiming to enhance operational efficiency and reduce risks to human pilots. Despite the technological progress, there are ethical concerns regarding autonomous weapons systems, with calls for international political action to address potential risks.
+
+The shift towards AI-driven warfare is motivated by security considerations, cost-effectiveness, and strategic advantages. The article also notes that while the US is advancing in this field, there is no indication that other countries, such as China, have tested AI outside of simulators.
+
+The AI jet Vista is unique in its learning process, which involves simulating millions of data points before applying the knowledge in real flights. This approach has led to AI systems that can outperform human pilots in simulations. The article concludes with a sense of urgency for the US to continue developing AI capabilities to maintain a competitive edge.
+
+Mon, 6 May 2024 18:55:12 +0530
+### [In Graphics l Prajwal Revanna case: How is Interpol’s blue corner notice different from the red?](https://www.firstpost.com/explainers/graphics-prajwal-revanna-sex-scandal-interpol-blue-corner-notice-13767650.html)
+
+The article discusses how Janata Dal (Secular) MP Prajwal Revanna from Karnataka is facing a blue corner Interpol notice due to his involvement in a sex scandal and subsequent fleeing from the country. Karnataka's home minister has indicated that Indian authorities have sought Interpol's help to bring him back. Interpol's color-coded notices serve as global alerts to aid law enforcement in locating individuals wanted for serious crimes, though they are not arrest warrants. The article also delves into how Interpol's color-coded notices function.
+
+Mon, 6 May 2024 17:16:55 +0530
+### [Why Xi Jinping’s trip to Europe is riddled with challenges](https://www.firstpost.com/explainers/xi-jinping-in-europe-13767714.html)
+
+I can summarize that Xi Jinping is embarking on a European tour amidst various challenges, including tensions over Ukraine and trade issues with the EU. Macron will likely urge Xi to influence Russia regarding the Ukraine conflict, while also discussing trade disputes and EU concerns over Chinese subsidies and protections. Additionally, Hungary and Serbia are strengthening economic ties with China, attracting investments despite concerns from some quarters. Human rights issues in China are expected to be raised during Xi's visit to France.
+
+Mon, 6 May 2024 16:46:59 +0530
+### [Oh S**t! Why are Trump’s supporters wearing nappies to rallies?](https://www.firstpost.com/explainers/donald-trump-supporters-are-wearing-nappies-to-rallies-13767578.html)
+
+The article discusses a peculiar trend among Donald Trump's supporters, who have started wearing diapers to his rallies. This began after Trump's former lawyer, Michael Cohen, nicknamed him "Von ShitzInPantz" in a social media post. The nickname was a response to Trump's alleged desperation and violation of a gag order in a hush money trial case. Cohen's tweets were read in court, and Trump was fined for violating the gag order.
+
+Supporters have embraced the taunt, turning up at rallies with slogans like "Real Men Wear Diapers" and "Diapers over Dems." The trend has been met with ridicule from opponents, with some social media users mocking the situation. The Lincoln Project, a pro-democracy group, released an ad satirizing Trump, suggesting he needs diapers for court appearances. The ad implies that Trump's stress causes incontinence, and the diapers are marketed as a way to "own Libs on the go while you go."
+
+The article concludes by reflecting on the unusual nature of the current election season in the U.S., hinting that such oddities may continue. The summary omits unrelated content and focuses on the key points of the article. Please note that the content involves political figures and should be approached with sensitivity to different perspectives.
+
+Mon, 6 May 2024 15:32:09 +0530
+### [How different time zones may have allowed cheating in IB exams](https://www.firstpost.com/explainers/different-time-zones-cheating-in-ib-exams-13767556.html)
+
+Students taking the International Baccalaureate Diploma Programme (IBDP) reportedly shared exam questions on social media, potentially aiding students in different time zones. The leaked questions included Math and other subjects and were widely circulated on platforms like Reddit and Telegram. Over 45,000 downloads were recorded, marking the first instance of a paper leak in the IB's history. Despite the IB's assurance that the issue was limited, criticism arose, with demands for exam cancellation or justice for unaware students. The IB, founded in 1968, offers globally recognized programs for students aged 3 to 19, with exams taken by nearly 180,000 students worldwide.
+
+Mon, 6 May 2024 14:34:21 +0530
+### [‘Ghar ki bitiya’: How Akhilesh and Dimple Yadav’s daughter, Aditi, is grabbing limelight during Lok Sabha polls](https://www.firstpost.com/explainers/lok-sabha-elections-2024-akhilesh-yadav-dimple-yadav-daughter-aditi-yadav-mainpuri-13767623.html)
+
+Aditi Yadav, the 21-year-old granddaughter of late SP patriarch Mulayam Singh Yadav, has joined the campaign trail in Mainpuri, seeking votes for her mother Dimple Yadav, the sitting MP. Aditi, a student at University College London, has been praised for her simplicity and grassroots approach, drawing comparisons to her grandfather. She has been actively engaging with locals, holding nukkad sabhas and promising to address key issues. Aditi's involvement has sparked speculation about her political future, but her mother states it's her decision to make. The BJP has criticized the SP's dynastic politics, but Aditi's campaign has gained attention nonetheless.
+
+Mon, 6 May 2024 14:18:42 +0530
+### [Why is China on a gold-buying spree? How is it affecting prices of the yellow metal?](https://www.firstpost.com/explainers/china-gold-buying-spree-13767608.html)
+
+Gold prices have remained high, with the metal trading over Rs 72,000 per 10 grams in India and $2,315 per ounce internationally. The surge in prices is attributed to increased domestic consumption in China, where confidence in real estate and stocks has been shaken by scandals. Young Chinese investors are buying gold in small quantities, contributing to a 6% rise in gold buying in the first quarter of 2024 compared to the previous year. The People's Bank of China (PBC) is also increasing its gold reserves, having added 22 tons in January and February of 2024 alone. This move is part of China's strategy to diversify its reserves and reduce its reliance on US debt, amidst concerns over potential Western sanctions and geopolitical tensions. Experts anticipate a possible short-term correction in gold prices, but demand may increase during the upcoming Akshaya Tritiya festival in India. In China, gold premiums have decreased slightly due to a shorter trading week and the Labour Day holiday.
+
 Mon, 6 May 2024 13:27:46 +0530
 ### [What historic loss in UK local elections means for Rishi Sunak and his Conservative Party](https://www.firstpost.com/explainers/uk-local-elections-loss-rishi-sunak-conservative-party-labour-13767577.html)
 
