@@ -1,3 +1,10 @@
+Mon, 6 May 2024 13:40:56 +0530
+### [With Taiwanese President Lai Ching-te set to assume office, China's woes will only exacerbate](https://www.firstpost.com/opinion/with-taiwanese-president-lai-ching-te-set-to-assume-office-chinas-woes-will-only-exacerbate-13767589.html)
+
+The article discusses the geopolitical tensions between Taiwan, China, and the United States in the lead-up to Taiwanese President Lai Ching-te's inauguration on May 20. Taiwan is bolstering its national security in anticipation of China's response, while the US has shown support by signing a bill to provide $8 billion in defense aid to Taiwan. The US continues to back Taiwan due to shared democratic values and strategic interests, such as securing semiconductor supply chains.
+
+The US has also been engaging with Taiwan on trade issues and has urged the WHO to invite Taiwan as an observer to the World Health Assembly, actions that have angered China. China has been exerting military and economic pressure on Taiwan, but Taiwan has not shown signs of yielding, maintaining a ban on group travel from China. Both Taiwan and the US are committed to a strong defense posture in the Indo-Pacific, which is likely to increase tensions with China. The author's views are personal and do not reflect those of the publication.
+
 Mon, 6 May 2024 10:33:05 +0530
 ### [Biden was merely trying to deflect attention from border crisis by calling India ‘xenophobic’, but a deeper game is ahoy](https://www.firstpost.com/opinion/biden-was-merely-trying-to-deflect-attention-from-border-crisis-by-calling-india-xenophobic-but-a-deeper-game-is-ahoy-13767498.html)
 
