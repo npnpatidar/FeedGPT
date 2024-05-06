@@ -1,3 +1,21 @@
+Mon, 06 May 2024 02:15:44 +0000
+### [GOLDENE: A sheet of gold that  is only one atom thick](https://indianexpress.com/article/explained/explained-sci-tech/goldene-a-sheet-of-gold-that-is-only-one-atom-thick-9310360/)
+
+Researchers at Linköping University in Sweden have created a **one-atom-thick sheet of gold**, named 'goldene', marking the first time a freestanding 2D metal has been formulated. This breakthrough follows the discovery of graphene in 2004 and adds to the growing list of 2D materials. The challenge with metals is their tendency to form nanoparticles, but the team overcame this by replacing a monolayer of silicon with gold atoms, then etching away the surrounding titanium carbide.
+
+The resulting goldene sheets are about **100 nanometres thick**, significantly thinner than the thinnest gold leaf available commercially. The material's potential applications are vast, particularly in the electronics industry, where it could serve as an economical catalyst and reduce the amount of gold needed for electrical conductivity. The technique may also apply to other metals, with efforts underway to create 2D sheets of iridium and platinum.
+
+Goldene's unique structure, where each gold atom has only six neighbors instead of twelve, suggests it may have special properties. Future applications could include environmental and energy solutions like carbon dioxide conversion, hydrogen production, and water purification.
+
+Mon, 06 May 2024 01:37:27 +0000
+### [Covid virus is still here. Why aren’t more people falling ill?](https://indianexpress.com/article/explained/explained-sci-tech/covid-virus-is-still-here-why-arent-more-people-falling-ill-9310234/)
+
+The article reflects on India's experience with the Covid-19 pandemic, highlighting that the worst phase was in May 2021 with a peak in cases and deaths. It notes that India did not experience further deadly waves after the Omicron surge in early 2022, which led to many infections but fewer severe cases and deaths. The WHO declared Covid-19 no longer a global public health emergency in May 2023, and India lifted all related restrictions shortly after the Omicron wave.
+
+The virus, particularly the JN.1 variant, continues to circulate and cause infections, but not severe disease. Global data shows a decline in cases and deaths, with India reporting minimal cases and deaths despite low testing rates. The article suggests that the lack of severe outbreaks is due to natural immunity from previous infections and vaccinations, although neither provides permanent immunity. Continuous monitoring of the virus is necessary for timely interventions.
+
+The article also mentions unrelated content regarding security operations in Jammu and Kashmir, which is not connected to the Covid-19 discussion.
+
 Sun, 05 May 2024 14:53:07 +0000
 ### [This Quote Means: ‘Freedom of the press is a precious privilege that no country can forego’, by Gandhi](https://indianexpress.com/article/explained/this-quote-means-upsc-freedom-press-gandhi-9309530/)
 

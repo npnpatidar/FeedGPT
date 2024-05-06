@@ -1,3 +1,40 @@
+Mon, 6 May 2024 12:41:47 +0530
+### [The US is urging people not to cuddle cows. Here’s why](https://www.firstpost.com/explainers/us-authorities-urging-people-against-cow-cuddling-farmers-to-limit-visits-13767478.html)
+
+Cow cuddling, a wellness activity in the US that involves close interaction with cows, is facing challenges due to a recent cow-to-human bird flu transmission in Texas. Authorities have advised dairy farmers to limit visitor access to prevent the spread of the H5N1 virus, which has been confirmed in dairy herds across nine states. The US Department of Agriculture (USDA) has called for increased biosecurity measures and vigilance among dairy producers. The outbreak's impact on agritourism is significant, as activities like cow cuddling have become a substantial source of income for small farmers. In 2022, over 28,600 farms earned $1.26 billion from agritourism, a 32% increase from five years prior. Despite the low risk of human transmission, the restrictions pose a threat to the livelihood of small farmers who rely on agro-tourism. The situation remains uncertain as authorities and scientists monitor the spread of the virus and its potential impact on public health and the economy.
+
+Mon, 6 May 2024 11:44:11 +0530
+### [Explained: The political storm over ‘Kasab didn’t kill 26/11 hero’ remark in Maharashtra](https://www.firstpost.com/explainers/political-row-over-kasab-didnt-kill-26-11-hero-remark-in-maharashtra-13767474.html)
+
+Maharashtra Congress leader Vijay Wadettiwar has sparked controversy by alleging that former state Anti-Terrorism Squad (ATS) chief Hemant Karkare was killed by an RSS-affiliated police officer, not by terrorist Ajmal Kasab, during the 26/11 Mumbai terror attacks. He accused Ujjwal Nikam, the BJP candidate from Mumbai North Central and the public prosecutor in the case, of concealing this information. Wadettiwar's claims are based on a book by SM Mushrif, a former Inspector General of Police. In response, Ujjwal Nikam dismissed the allegations as baseless and aimed at maligning his image. The BJP has criticized the Congress for these statements and has sought action from the Election Commission of India against Wadettiwar for spreading lies. The controversy arises amidst the ongoing 2024 Lok Sabha elections, with the BJP and Congress exchanging sharp criticisms over the issue. Hemant Karkare was posthumously awarded the Ashok Chakra for his actions during the attacks, and Ajmal Kasab was the only surviving terrorist who was later hanged after a trial. Nikam had previously made headlines for allegedly concocting a story about Kasab asking for biryani in jail, which he later admitted was false. The BJP has replaced its sitting legislator with Nikam for the Mumbai North Central Lok Sabha seat, facing Congress's Varsha Gaikwad.
+
+Mon, 6 May 2024 10:56:45 +0530
+### [From the farm to the hot seat: Who is Panama’s president-elect Jose Raul Mulino?](https://www.firstpost.com/explainers/panama-elections-president-elect-jose-raul-mulino-ricardo-martinelli-13767507.html)
+
+Jose Raul Mulino, Panama's former security minister, has won the presidential election, succeeding his mentor, the controversial ex-leader Ricardo Martinelli. Despite Martinelli's legal issues and asylum in the Nicaraguan embassy, his influence was apparent, with Mulino securing about 34% of the votes. Mulino, who faced corruption allegations himself, has vowed to form a government of unity, focusing on economic challenges, corruption, and improving Panama's investment climate.
+
+Mulino's victory is seen as a continuation of Martinelli's legacy, with many believing Martinelli will still wield power behind the scenes. Mulino's campaign promises included addressing the migrant crisis in the Darien Gap, infrastructure projects, pension reform, and even a pet hospital named after Martinelli's dog.
+
+A maritime law expert with an authoritarian streak, Mulino was part of the Civic Crusade against dictator Noriega and briefly served as foreign minister post-invasion. His confrontational style and avoidance of debates suggest confidence in Martinelli's enduring popularity, which he credits for his election win. Mulino is set to take office on July 1 for a five-year term, facing the task of uniting a nation divided by political corruption.
+
+Mon, 6 May 2024 10:12:31 +0530
+### [Israel takes Al Jazeera off air: Who owns the media network? Why did Israel order its shutdown?](https://www.firstpost.com/explainers/israel-al-jazeera-off-air-ownership-media-network-israel-shutdown-13767495.html)
+
+The Israeli government has closed the offices of Al Jazeera, accusing the network of being a mouthpiece for Hamas and a threat to national security. The decision follows over 200 days of conflict between Israel and Hamas. Prime Minister Benjamin Netanyahu and Communications Minister Shlomo Karhi led the closure, with Israeli authorities raiding Al Jazeera's Jerusalem office and seizing equipment. The closure is initially set for 45 days but can be extended.
+
+Al Jazeera has condemned the action as an attack on press freedom and vowed to seek legal recourse. The network has been accused by Israeli officials of inciting violence and bias against Israel, particularly after the killing of correspondent Shireen Abu Akleh and during the ongoing conflict with Hamas. The ban has raised concerns about press freedom and Israel's international relations, especially with Qatar, which owns Al Jazeera and is involved in mediation efforts in Gaza.
+
+The network, founded in 1996 by the emir of Qatar, claims independence and has been a significant news source in the Arab world. However, it has faced criticism and accusations of bias from various governments, including during the Arab uprisings and for broadcasting statements from Osama bin Laden. The current ban by Israel places it among a group of countries that have restricted Al Jazeera's operations. Human rights groups and media associations have urged Israel to reverse the ban, emphasizing the importance of a free press. Al Jazeera's history of controversial coverage and its role in regional politics have been highlighted by this recent development.
+
+Mon, 6 May 2024 08:01:10 +0530
+### [Why does the stock market get Monday blues? It's the weekend effect](https://www.firstpost.com/explainers/why-does-the-stock-market-get-monday-blues-its-the-weekend-effect-13766749.html)
+
+The article discusses the **"weekend effect"** or **"Monday effect"** in stock markets, where stock prices are typically higher on Fridays and lower on Mondays. This phenomenon contradicts the efficient market hypothesis, which suggests that stock prices should be random and not follow predictable patterns. The effect has been observed since 1885 and was first identified in 1981.
+
+In the Indian stock market, studies have confirmed a mild presence of the weekend effect, but researchers have not found a definitive cause. One explanation is related to the T+1 settlement system, where transactions made on Friday are settled on Monday, giving investors two extra days to pay for stocks bought on Friday. This could lead to increased buying on Fridays, driving prices up. Another theory is that companies tend to release bad news on Fridays after the market closes, leading to a drop in stock prices on Monday as investors react.
+
+Despite attempts to explain stock return fluctuations through fundamental factors, the weekend effect remains a complex and not fully understood phenomenon, likely influenced by institutional behaviors, news timing, and investor sentiment. The article concludes that while various models have been proposed, the weekend effect continues to be a mystery in the context of traditional financial theories.
+
 Mon, 6 May 2024 06:00:46 +0530
 ### [Firstup: PM Modi's Odisha rally to Xi Jinping's France visit... The newsmakers of the day](https://www.firstpost.com/explainers/firstup-pm-modis-odisha-rally-to-xi-jinpings-france-visit-the-newsmakers-of-the-day-13767132.html)
 

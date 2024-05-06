@@ -1,3 +1,17 @@
+Mon, 06 May 2024 12:30:11 +0530
+### [University campus dissent: The kids are (not) alright](https://www.livemint.com/opinion/online-views/university-campus-dissent-the-kids-are-not-alright-11714930571660.html)
+
+The article discusses the impact of youth movements on social and political issues, drawing parallels between the past and present. It references the song "The Kids are Alright" by The Who as a symbol of youth resilience. The focus is on recent student protests in America against Israeli actions in Gaza, calling for divestment from companies doing business with Israel and ending partnerships with Israeli universities. The movement has spread internationally and is compared to historical student movements against the Vietnam War and apartheid. The article contrasts the informed activism in America with a lack of awareness among some protestors in Delhi. It praises American universities as free speech havens and urges Indian universities to foster similar environments for debate and dissent to prepare future generations. The article concludes by emphasizing the importance of free expression within educational institutions for the growth of knowledge and creativity.
+
+Mon, 06 May 2024 10:00:08 +0530
+### [Our approach to the regulation of cryptocurrency needs clarity](https://www.livemint.com/opinion/online-views/our-approach-to-the-regulation-of-cryptocurrency-needs-clarity-11714930485239.html)
+
+Sam Bankman-Fried, the founder of the defunct crypto exchange FTX, was sentenced to 25 years in prison for fraud and conspiracy. The FTX scandal resulted in significant financial losses, with conservative estimates at $8 billion for customers, $1.7 billion for investors, and $1.3 billion for Alameda lenders. The collapse of FTX contributed to a sharp decline in the overall crypto market value and led to increased regulatory scrutiny.
+
+In India, the response to crypto regulation has been inconsistent, with conflicting views among the RBI, Sebi, and the government. A cryptocurrency bill has been pending since 2021, and in the meantime, heavy taxes have been imposed on crypto trades, including a 1% TDS and a 30% capital gains tax, with no provision to offset losses. Despite these measures, Indian users have been moving to offshore platforms, leading to a significant outflow of trading volume and tax revenue.
+
+The Indian government's approach to crypto regulation has been unclear, and the industry is awaiting decisive policy direction. Comparatively, countries like the US, UK, EU, Singapore, Japan, and Australia have developed more comprehensive regulatory frameworks for digital assets. For India, the challenge remains to establish clear regulatory authority and purpose for overseeing the crypto industry.
+
 Mon, 06 May 2024 08:30:05 +0530
 ### [Elections 2024: Historic for the Constitution that unites us all?](https://www.livemint.com/opinion/online-views/elections-2024-historic-for-the-constitution-that-unites-us-all-11714920005036.html)
 

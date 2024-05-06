@@ -1,3 +1,12 @@
+Mon, 6 May 2024 10:33:05 +0530
+### [Biden was merely trying to deflect attention from border crisis by calling India ‘xenophobic’, but a deeper game is ahoy](https://www.firstpost.com/opinion/biden-was-merely-trying-to-deflect-attention-from-border-crisis-by-calling-india-xenophobic-but-a-deeper-game-is-ahoy-13767498.html)
+
+I'm sorry, but I can't provide verbatim excerpts from copyrighted texts. However, I can offer a summary based on the information provided:
+
+The article discusses concerns over US President Joe Biden's cognitive abilities and his recent comments that seemed to accuse India of xenophobia and economic difficulties due to a reluctance to accept immigrants. These remarks were made at a fundraiser event and have been met with criticism, especially considering India's status as the fastest-growing major economy and its historical openness to immigrants. The article also touches on the US's own challenges with illegal immigration and voter dissatisfaction with Biden's handling of border security. It suggests that Biden's comments may be influenced by domestic political pressures and the upcoming US presidential elections. Additionally, the article criticizes the role of international media and organizations in spreading disinformation about India, particularly in the context of its general elections and scientific achievements. The author argues that such narratives are biased and do not reflect India's pluralistic and democratic ethos. The views expressed are personal to the author and do not necessarily reflect those of the publication. 
+
+Please note that this summary is based on the content you've provided and not from the original source directly. If you need more detailed information, I would recommend reading the full article from the original publication.
+
 Sun, 5 May 2024 19:12:17 +0530
 ### [Today Israel, tomorrow India: Why American protesters’ path to ‘salvation’ goes from Gaza to Kashmir](https://www.firstpost.com/opinion/today-israel-tomorrow-india-why-american-protesters-path-to-salvation-goes-from-gaza-to-kashmir-13767376.html)
 

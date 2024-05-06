@@ -423,3 +423,191 @@ Fri, 24 Mar 2023 10:33:41 +0530
 Article found but Couldn't summarize 
 Any lessons we learnt from life during the lockdowns have been forgotten three years on
 
+Wed, 22 Mar 2023 00:30:00 +0530
+### [Test cricket will probably disappear first in the West Indies](https://www.thehindu.com/opinion/columns/test-cricket-will-probably-disappear-first-in-the-west-indies/article66646151.ece)
+
+The article reflects on the decline of West Indies cricket from its golden era. It reminisces about the team's past glories, starting with the author's first Test match viewing in 1974, highlighting the debut of legendary players like Gordon Greenidge and Viv Richards. The West Indies team, once dominant in Test cricket, is now ranked eighth, with only Bangladesh below them. The decline is attributed to various factors, including the rise of franchise cricket, player indiscipline, board politics, and the inherent challenges of a team drawn from multiple independent Caribbean islands.
+
+The article suggests that the decline of Test cricket in the West Indies may be inevitable, as players and administrators seem to prioritize more lucrative and practical sports options. It laments the current state of Test cricket, where only a few nations dominate, and expresses a sense of loss for the West Indies' rich cricketing heritage. The sentiment is encapsulated by a quote from Clive Lloyd, who once said he had no more tears for the state of West Indies cricket, reflecting the feelings of many fans who revered the once-great team.
+
+Sat, 18 Mar 2023 17:37:41 +0530
+### [Political Line | Indian battles, global fields](https://www.thehindu.com/opinion/columns/indian-battles-global-fields/article66635176.ece)
+
+The article discusses the controversy surrounding Congress leader Rahul Gandhi's comments on Indian democracy during his U.K. tour, where he expressed concern over its degeneration and stated that the battle for Indian democracy is to be fought by Indians within India. The BJP criticized him for denigrating Indian democracy abroad. The article highlights the international presence of Indian political parties and their funding issues, particularly the BJP and Congress, and the long history of diaspora politics, especially by the Sangh Parivar. It contrasts the views of India's first Prime Minister, Jawaharlal Nehru, with current Prime Minister Narendra Modi on the role of the Indian diaspora.
+
+The piece also touches on the global engagement of Indians with domestic politics, the Supreme Court case seeking voting rights for overseas Indians, and the cultural clashes among Indian communities abroad. It mentions the BJP's hypocrisy in criticizing Rahul Gandhi while engaging in similar practices and the government's diplomatic efforts to address issues of the Indian diaspora. The article concludes that Indian politics is increasingly becoming a global affair.
+
+Additionally, it reports on Manish Kashyap's surrender to Bihar police for creating fake videos, the government's stance on the creamy layer criterion for OBC reservation, proposed changes to election rules for overseas voters, and the Supreme Court's statement on the misuse of the Governor's office. It also mentions the revenue-sharing formula between states and the Centre, the BJP Minority Morcha's outreach to the Muslim community, and the Centre's opposition to same-sex marriage in the Supreme Court.
+
+Fri, 17 Mar 2023 11:39:51 +0530
+### [A peer, a pot and a ‘prescription’](https://www.thehindu.com/opinion/columns/saba-mahjoor-phuphee-peer-soul-doctor-column/article66618653.ece)
+
+The article tells a poignant story set in a snowy landscape, where the narrator seeks to learn from her aunt, Phuphee, about her journey to becoming a faith healer. Phuphee recounts the tale of Zoon, a woman in her village who desired a new copper pot to replace her old, dangerous one. Despite her contributions to the household and the fields, Zoon's husband dismisses her request, prompting her to seek Phuphee's grandmother, Aapa, for help. Aapa's unconventional solution involves altering the taste of the food by changing spice quantities, leading Zoon's husband to believe the old pot is possessed. This clever strategy eventually results in Zoon acquiring the new pot, illustrating Aapa's belief that wisdom, not force, can bring about change. The story concludes with the narrator, inspired by Aapa's ingenuity and the empowerment of women, reflecting on the lessons learned. The narrative weaves themes of gender roles, empowerment, and the subtle art of influence within a cultural context.
+
+Wed, 15 Mar 2023 00:30:00 +0530
+### [World Test Championship final — no room for experimentation](https://www.thehindu.com/opinion/columns/the-world-test-championship-final-no-room-for-experimentation/article66618996.ece)
+
+The article discusses the upcoming World Test Championship final between India and Australia at the Oval in London. It highlights the challenges India faces, such as the absence of key players like Jasprit Bumrah, Ajinkya Rahane, Rishabh Pant, and Ishant Sharma, and the need to adapt their strategy, particularly in their pace attack and spinner selection. The article also notes India's lack of red ball cricket before the final and their plans to use Duke balls in the IPL to prepare for English conditions.
+
+Key points include:
+- **Virat Kohli's** surprising player-of-the-match award in the Ahmedabad Test despite other impact players.
+- The dilemma between the experience of **K.L. Rahul** and the form of **Shubman Gill** for the batting slots.
+- **K.S. Bharat** likely to retain his position as wicketkeeper.
+- Australia being slight favorites due to their superior bowling.
+- The potential of **Shubman Gill** to become India's leading batter and **Axar Patel's** emergence as a batsman.
+- The debate over pitch conditions that favor either batsmen or bowlers.
+- The article concludes with the anticipation of the one-day series beginning in Mumbai and the ongoing journey of cricket and politics.
+
+The summary omits unrelated content and focuses on the key aspects related to cricket mentioned in the article. 🏏
+
+Mon, 13 Mar 2023 09:49:52 +0530
+### [A Red Hat lesson for Elon Musk](https://www.thehindu.com/sci-tech/technology/a-red-hat-lesson-for-elon-musk/article66613320.ece)
+
+Elon Musk, the new owner of Twitter, has announced plans to make the platform's algorithm open source, allowing the developer community to see how content and ads are prioritized. Despite promising improvements, the algorithm has not yet been made public, and no updates have been provided. Musk's acquisition of Twitter for $44 billion led to a brief loss of his title as the world's richest person, but he has since reclaimed it. The article questions the business sense behind making Twitter's algorithm open source, considering Musk's description of the purchase as acquiring a "non-profit."
+
+The article also delves into the history of free and open source software (FOSS), highlighting Linux as a key example of a non-proprietary operating system that gained popularity through community development. It discusses the success of Red Hat Inc., which capitalized on the open-source model by offering enterprise-level support and services, and contrasts this with the proprietary models of Microsoft and Apple.
+
+The piece suggests that Musk could potentially use Red Hat's approach to develop a new business model for Twitter, transforming it from an ad-driven platform to something new through community involvement. However, it acknowledges the challenges and changes that would come with such a shift, including the need for Musk to continue making interest payments on the loans for the Twitter acquisition. The article concludes by reflecting on the potential for a new paradigm to emerge from Musk's experiment with open sourcing Twitter's algorithm.
+
+Sat, 11 Mar 2023 22:02:00 +0530
+### [Political Line | Big Picture: Why a birthday celebration in Chennai was followed by fake news about attacks on Hindi speakers](https://www.thehindu.com/opinion/columns/big-picture-why-a-birthday-celebration-in-chennai-was-followed-by-fake-news-about-attacks-on-hindi-speakers/article66608367.ece)
+
+The article discusses various political developments in India. It highlights the opposition's efforts to unite against the BJP, particularly focusing on Akhilesh Yadav and Tejashwi Yadav's stance. The piece also addresses the fabricated news of attacks on Hindi speakers in Tamil Nadu and the political implications of internal migration in India. It notes the economic significance of migrants from northern India to Tamil Nadu's economy and the potential impact of migration patterns on political strategies for the 2024 elections.
+
+The article further explores the BJP's potential use of the north-south divide as a strategy and the coordinated actions of central agencies against the Yadav family. It touches upon the influence of cinema in shaping political narratives, mentioning upcoming films with Hindutva themes and the BJP's support for such projects.
+
+Additionally, it reports on the historic election of female lawmakers in Nagaland and the emergence of a new tribal party in Tripura, reflecting the tribal community's insecurities due to demographic changes and political marginalization.
+
+Overall, the article provides a comprehensive view of the current political landscape, the role of migration, regional politics, and the use of cinema in political storytelling ahead of the 2024 elections in India.
+
+Sat, 11 Mar 2023 20:30:00 +0530
+### [The evil effects of deforestation](https://www.thehindu.com/sci-tech/the-evil-effects-of-deforestation/article66603977.ece)
+
+The article discusses the significant issue of deforestation and its impact on the environment and human health. It highlights that **since 1990, 420 million hectares of forest have been lost** to various land uses, which is particularly concerning for tropical regions like India, China, and Africa. The **FAO reports that forests cover 31% of the Earth's land**, but deforestation contributes to **11% of global greenhouse gas emissions** and can lead to an increase in diseases like malaria and dengue.
+
+Dr. S.B. Kadrekar emphasizes the importance of preserving not only trees but also soil and water, as deforestation can lead to a decrease in the availability of clean drinking water. The article also points out that **India's forest cover is about 8 lakh sq km**, which is **22% of its geographic area**, with significant portions in the Andaman and Nicobar Islands and the Himalayan states. However, development activities, such as the expansion of highways, are leading to the loss of large numbers of trees, including ancient banyan trees in Telangana. The article concludes with a call to action against the harmful effects of deforestation.
+
+Wed, 08 Mar 2023 00:45:00 +0530
+### [On the Indore pitch | Desperation can be inspiring — but it can be embarrassing, too](https://www.thehindu.com/opinion/columns/indore-test-pitch-desperation-can-be-inspiring-but-it-can-be-embarrassing-too-suresh-menon/article66591882.ece)
+
+The article discusses the controversy surrounding pitch conditions in Indian cricket, particularly after India's loss to Australia in the third Test match in Indore. It highlights the debate on whether desperation to win is leading to the preparation of pitches that excessively favor spin bowling, which is seen as a home advantage. The article reflects on past instances where curators were pressured to create turning pitches and how this strategy has backfired, such as when England's spinners outperformed India's on a turner at Eden Gardens.
+
+The author argues that this approach is regressive and insults the progress India has made in producing quality fast bowlers. The Board of Control for Cricket in India (BCCI) had previously instructed to leave grass on domestic pitches to encourage fast bowling, leading to a successful generation of fast bowlers who have performed well internationally. The article suggests that matches dominated by spin undermine these efforts and discourage young fast bowlers.
+
+In conclusion, the article calls for a balance between bat and ball, rather than just a home advantage, and criticizes the short-sightedness of preparing pitches that heavily favor the home team's bowling style. It emphasizes that desperation in sports can be inspiring but also disheartening or embarrassing, as exemplified by the pitch in Indore.
+
+Sat, 04 Mar 2023 22:00:02 +0530
+### [Political Line | Big Picture: Understanding interest groups](https://www.thehindu.com/opinion/columns/big-picture-understanding-interest-groups-political-line/article66581470.ece)
+
+The article discusses the political dynamics in India, focusing on the BJP's retention of power in the northeastern states of Tripura, Meghalaya, and Nagaland. It highlights the region's dependency on central funds and policies, and how interest groups, including insurgent groups, negotiate with the central government. The BJP's strategy includes reassuring the native population in the northeast about its anti-beef campaign and showing flexibility to win elections, without a shift towards secularism.
+
+The article also touches on the negotiation tactics of interest groups with the political process, using national or regional parties as vehicles, and the BJP's success in tying up various interest groups. It points out the Congress party's weakness in not being seen as a suitable vehicle by any interest group.
+
+Additionally, the article mentions an interview with historian Taylor C. Sherman, who discusses central concepts associated with India's first Prime Minister, Jawaharlal Nehru. The TMC's plans to use the Punchhi Commission report to build common ground with opposition parties against the Governors' interference in state governments is also covered.
+
+Lastly, the Supreme Court's rejection of a petition to restore place names changed by foreign invaders is noted, emphasizing that the country cannot remain a prisoner of the past. The Congress party's social justice commitments, including the introduction of the "Rohith Vemula Act" and conducting a socioeconomic caste census, are also mentioned.
+
+Sat, 25 Feb 2023 20:40:11 +0530
+### [Political Line | Big Picture: BJP vs Congress among subalterns](https://www.thehindu.com/opinion/columns/bjp-vs-congress-among-subalterns/article66553558.ece)
+
+The article discusses several key issues in India's political and social landscape:
+
+1. **Congress Party's Inclusivity Efforts**: The Congress party plans to reserve half of its Working Committee seats for youth, SC/ST, women, and other disadvantaged groups to widen its appeal and halt its decline.
+
+2. **OBC Representation**: The article highlights the importance of OBC representation in politics, noting the Congress party's need to actively pursue an OBC agenda to compete with the BJP's success in mobilizing these communities.
+
+3. **Congress Leadership**: It mentions Mallikarjun Kharge as the first Dalit president of the Congress, reflecting on the party's past leadership from OBC communities and the role of identity politics.
+
+4. **IIT's Social Dynamics**: A reportage piece explores the challenges faced by Dalit students in IITs, where caste-based quotas in education lead to new barriers and mental health crises.
+
+5. **Language and Cultural Identity**: The article touches on resistance to Hindi imposition in Tamil Nadu and the Gujarat government's decision to make Gujarati mandatory in state-run schools, reflecting regional language identities.
+
+6. **Separatist Movements in Punjab**: It reports on the surge of separatist sentiments in Punjab, focusing on Amritpal Singh's advocacy for Khalistan and the challenges faced by the AAP government in maintaining law and order.
+
+The article provides a comprehensive view of the complexities of India's political dynamics, social justice issues, and cultural identity debates.
+
+Wed, 22 Feb 2023 00:30:00 +0530
+### [Cricket selection | Putting the human back in the machine](https://www.thehindu.com/opinion/columns/cricket-selection-putting-the-human-back-in-the-machine/article66536395.ece)
+
+The article discusses the challenges faced by cricket selectors, particularly in the context of the Indian team's selection issues involving K.L. Rahul and Shubman Gill. It highlights the recent resignation of Chetan Sharma, the chairman of selectors, over inappropriate comments about senior players. The piece also references Ed Smith's book "Making Decisions: Putting the human back in the machine," which explores the art of team selection in cricket. Smith emphasizes the importance of human judgment in interpreting data and making selection decisions, advocating for a balance between conservative and radical approaches to selecting players. He argues that selectors should not only rely on data but also trust their instincts and consider players' potential. The article suggests that unconventional selections can lead to success, as evidenced by Smith's own experience with the England cricket team. The summary of the article is that while data is crucial, the human element in decision-making remains indispensable for cricket selectors.
+
+Sat, 18 Feb 2023 20:34:52 +0530
+### [Political Line |  Modi will weather the storm](https://www.thehindu.com/opinion/columns/big-picture-modi-will-weather-the-storm/article66526024.ece)
+
+The article discusses the current political landscape in India, focusing on Prime Minister Narendra Modi's challenges amid allegations linked to industrialist Gautam Adani and criticism from a BBC documentary on the 2002 Gujarat riots. It highlights how Modi's critics have been emboldened by these events, but notes that such criticism often strengthens his domestic support base. The article also touches on the division among Modi's critics, the inability of Nehruvian liberals to communicate with the BJP's supporters, and the global capitalist and strategic communities' continued alignment with Modi despite disappointments.
+
+Furthermore, it addresses the issue of social justice for Dalits in Tamil Nadu, the 200th birth anniversary of Dayanand Saraswati and its significance for Hindu unity, the BJP's efforts to reframe historical narratives, and the complex political alliances between the Left and Congress in various Indian states. The article provides a comprehensive view of the intricate dynamics of Indian politics and society.
+
+Fri, 17 Feb 2023 16:06:00 +0530
+### [Column | On grief and the secret lives of our roots](https://www.thehindu.com/opinion/columns/grief-the-secret-lives-of-our-roots-saba-mahjoor-column-death/article66507572.ece)
+
+The article is a personal reflection on the unexpected death of Aunty Nusrat, a distant yet familiar figure in the author's life. Despite not being close, the author experiences a sense of loss and restlessness at her passing. The narrative explores the complexity of grief, especially for those we didn't know well, and the interconnectedness of relationships. Phuphee, a relative, offers comfort by likening individuals to trees in a forest, connected at the roots, and explains that feeling a change when someone distant passes is natural. This analogy helps the author understand their feelings and grants them permission to grieve, emphasizing that grief doesn't follow any set rules. The columnist, a Kashmiri living in England, uses their free time to ponder life's uncertainties. The piece is from The Hindu Sunday Magazine's society section.
+
+Thu, 16 Feb 2023 00:30:00 +0530
+### [Corrections and Clarifications — February 16, 2023](https://www.thehindu.com/opinion/columns/corrections-and-clarifications-february-16-2023/article66513624.ece)
+
+Article found but Couldn't summarize
+
+Wed, 08 Feb 2023 00:30:00 +0530
+### [An India-Australia series is about cricket, there’s no baggage](https://www.thehindu.com/sport/cricket/an-india-australia-series-is-about-cricket-theres-no-baggage/article66482491.ece)
+
+The article reflects on the unique cricketing relationship between India and Australia, emphasizing the pure competition that stands apart from political or cultural narratives. It traces the history of camaraderie, starting from joint efforts in World War I to Frank Tarrant's contributions in fostering cricket ties in the 1930s. The piece highlights the mutual respect shown by Australia in fielding their best teams during tours to India, contrasting with England's approach at the time. It also notes the competitive spirit that has not waned over the years, with India having a strong record in recent Tests, including series wins in Australia. The anticipation for the upcoming four-Test series in Nagpur is high, with expectations of new cricketing talents emerging, like Shubhman Gill and Cameron Green, to leave their mark in the storied rivalry. The article also touches on the lighter side of cricket, mentioning Mahesh Pithiya's resemblance to Ashwin, which has caught the attention of fans. Overall, the article celebrates the cricketing art and legacy that India-Australia series have contributed to the sport.
+
+Thu, 02 Feb 2023 00:40:12 +0530
+### [Budget 2023 | Towards a healthier India: Preetha Reddy](https://www.thehindu.com/business/budget/towards-a-healthier-india/article66459935.ece)
+
+The article is an optimistic commentary on India's economic growth and healthcare advancements as presented in the Union Budget. The Finance Minister's budget speech highlighted India's expected 7% economic growth, the highest among major economies, despite global slowdowns. The author, Preetha Reddy, underscores India's effective management of the COVID-19 pandemic with minimal economic impact, emphasizing the importance of a robust and resilient healthcare system.
+
+The budget's focus on healthcare includes the establishment of 157 new nursing colleges, skilling youth in healthcare, and introducing multidisciplinary courses for medical devices. It also mentions setting up 5G labs and AI centers of excellence to prepare for future medical technologies. Collaboration between biotech entrepreneurs and the government is encouraged through access to select ICMR labs for R&D, and a new program to promote research and innovation in the pharmaceutical industry is introduced.
+
+The article concludes with a call for preventive measures against diseases, citing the Sickle Cell Anaemia Elimination Mission as an example, and suggests targeting non-communicable diseases to prevent untimely fatalities. The writer is identified as the Executive Vice Chairperson of Apollo Hospitals and a past president of NATHEALTH.
+
+Wed, 01 Feb 2023 23:25:57 +0530
+### [Pollticks: Jobs get highest mention in last Budget before elections](https://www.thehindu.com/business/budget/pollticks-jobs-get-highest-mention-in-last-budget-before-elections/article66460286.ece)
+
+In the face of a drifting global economy, India's Finance Minister Nirmala Sitharaman presented the fifth Union Budget, focusing on boosting domestic consumption and private investment. The Budget highlighted the government's achievements since 2014, emphasizing the doubling of per capita income and the expansion of targeted benefits. Significant measures included raising the tax-free income limit to ₹7 lakh and increasing the retirement leave encashment cap for non-government employees to ₹25 lakh.
+
+The Budget introduced new socio-economic schemes for vulnerable tribal groups and artisans, aiming to prioritize inclusive development. It also addressed the challenges faced by micro, small, and medium enterprises (MSMEs) due to demonetisation and the pandemic.
+
+Job creation was a central theme, with the term being mentioned seven times, reflecting the government's commitment to youth employment as part of its economic agenda for the Amrit Kaal, leading up to India's centenary of independence in 2047.
+
+Infrastructure investment was set to increase to ₹10 lakh crore, with states receiving interest-free loans to encourage private investment. The savings scheme limits for senior citizens were doubled, and a new scheme for women was introduced, offering 7.5% returns.
+
+The Budget aimed for a fiscal deficit target of 5.9% of GDP, with projected nominal GDP growth of 10.5%, which Finance Secretary T.V. Somanathan clarified could result from any mix of real growth and inflation. The Economic Survey anticipated a 6.5% growth for the upcoming year.
+
+Wed, 01 Feb 2023 21:36:28 +0530
+### [Budget 2023 | Push to achieve net zero emissions: P.B. Balaji](https://www.thehindu.com/business/budget/budget-2023-push-to-achieve-net-zero-emissions/article66459511.ece)
+
+The Union Budget 2023, as summarized by P.B. Balaji, Group CFO of Tata Motors, is a strategic financial plan that aims to balance economic growth with fiscal responsibility. Key highlights include:
+
+- **Consumer Empowerment**: Revised income tax slabs and surcharges are expected to increase disposable incomes, thereby boosting domestic consumption.
+- **Investment Surge**: A 33% increase in capital expenditure to ₹10 lakh crore is projected to enhance India's global economic competitiveness, stimulate private sector investments, and generate employment while keeping long-term inflation low.
+- **Green Transition**: Over ₹55,000 crore is allocated for energy transition and the National Green Hydrogen Mission to support a low-carbon economy. Incentives such as customs duty exemptions for electric vehicle components and excise duty cuts on CNG aim to reduce vehicle running costs and emissions.
+
+Overall, the Budget is designed to encourage consumption and investment, maintain stable inflation, and attract global investors, aligning with India's vision for sustainable growth and the goal of achieving "Amrit Kaal."
+
+Wed, 01 Feb 2023 21:36:15 +0530
+### [Budget 2023, target 2047: Ashok Hinduja](https://www.thehindu.com/business/budget/budget-2023-target-2047-ashok-hinduja/article66459338.ece)
+
+The article provides an overview of India's 2023 budget, highlighting its role in shaping the country's economic trajectory. The budget, with a spending of ₹45 trillion, reflects India's growth to the fifth largest economy globally. Key points include:
+
+- **Green Energy Transition**: ₹35,000 crores allocated for energy transition and net-zero objectives, including the National Green Hydrogen Mission and support for battery storage systems.
+- **Infrastructure and Investment**: A 33% increase in capital expenditure to ₹10 trillion, with significant investments in housing, railways, and urban infrastructure.
+- **Agriculture**: An 11% increase in the agriculture credit target to ₹20 lakh crore, focusing on animal husbandry, dairy, and fisheries, and initiatives like the Agriculture Accelerator Fund.
+- **Fintech**: Support for digital infrastructure and expansion of DigiLocker, aiming to integrate more businesses into the fintech ecosystem and advance the digital economy.
+
+The budget envisions India's development journey towards becoming a green leader, fostering investment and job creation, enhancing value-added agriculture, and building a comprehensive digital economy. Ashok Hinduja, Chairman of the Hinduja Group of Companies (India), provides these insights. The article suggests that these measures are steps towards India's goal of becoming a developed nation by 2047.
+
+Wed, 01 Feb 2023 21:23:14 +0530
+### [Budget 2023 | Brilliant balancing act between growth, fiscal consolidation: Sanjiv Bajaj](https://www.thehindu.com/business/budget/budget-2023-brilliant-balancing-act-between-growth-fiscal-consolidation-sanjiv-bajaj/article66459268.ece)
+
+The article provides an analysis of the Union Budget proposals, describing them as a "brilliant balancing act" that aims for fiscal consolidation while promoting high growth and inclusion. The budget continues to focus on a capital expenditure (capex)-led growth strategy, which has shown positive results in the previous year with an expected 11.5% increase in gross fixed capital formation (GFCF) for FY23. A further 33% increase in capex is anticipated, aligning with recommendations from the Confederation of Indian Industry (CII), which is expected to enhance economic productivity and attract private investments.
+
+The budget emphasizes public capex, infrastructure development, ease of doing business, green growth, and support for agricultural startups, which are projected to stimulate private sector investments. Inclusion and targeted support remain key themes, with initiatives aimed at improving the lives of women, the elderly, and youth through various schemes.
+
+Employment generation is a focus area, with investments in tourism, MSMEs, and agriculture-related programs. Skill development initiatives, such as the Kaushal Vikas Yojana 4.0 and the establishment of 30 Skill India Centres, aim to prepare the youth for Industry 4.0 and international opportunities, thereby enhancing employability.
+
+The budget sets a fiscal deficit target of 5.9% for FY24, moving towards a goal of less than 4.5% by FY26, which is crucial for macro-economic stability and investor confidence. It also reinforces cooperative federalism and reform initiatives, offering support to states through interest-free loans, power reform incentives, urban reform encouragement, and extending the State Support Mission of NITI Aayog.
+
+Overall, the budget is characterized as growth-oriented and balanced, with the intention of strengthening the Indian economy's foundation as it progresses towards the vision of a developed India by 2047. Sanjiv Bajaj, president of CII, provides these insights.
+
