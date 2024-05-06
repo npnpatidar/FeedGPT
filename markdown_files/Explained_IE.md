@@ -1,3 +1,58 @@
+Sun, 05 May 2024 14:53:07 +0000
+### [This Quote Means: ‘Freedom of the press is a precious privilege that no country can forego’, by Gandhi](https://indianexpress.com/article/explained/this-quote-means-upsc-freedom-press-gandhi-9309530/)
+
+World Press Freedom Day, celebrated on May 3, honors the essential principles of journalism, as established by the Declaration of Windhoek in 1992. The day emphasizes the responsibilities of journalists, the importance of a diverse media landscape, and press freedom. Mahatma Gandhi, known for his political leadership, also contributed significantly to journalism, advocating for the power of the press to unite people and reflect societal aspirations. He launched the newspaper Indian Opinion to address the needs of the Indian diaspora and highlight their issues.
+
+Gandhi's perspective on journalism was that it should act as a bridge between different social groups and provide a platform for diverse voices. He also stressed the importance of a free press, free from political and corporate influences, as a means for societal self-reflection and critique. Despite potential biases, Gandhi believed in the press's role in advocating for the marginalized and the need for its freedom to allow for constructive criticism.
+
+The article underscores the significance of press freedom as a privilege that is crucial for a healthy society, allowing for the critique of institutions and ideologies. It suggests that without press freedom, societies risk stagnation and decline due to a lack of feedback mechanisms. The article concludes by highlighting Gandhi's legacy in journalism and the enduring relevance of a free press.
+
+Sun, 05 May 2024 14:19:09 +0000
+### [How Xi Jinping’s Europe visit aims to seize a strategic opportunity](https://indianexpress.com/article/explained/explained-global/xi-jinping-europe-visit-strategic-opportunity-9309638/)
+
+Chinese President Xi Jinping's first European visit in five years is marked by a strategic effort to challenge U.S. influence and promote China as a counterweight. Targeting France, Serbia, and Hungary for their openness to China and economic ties, Xi aims to showcase China's growing clout and seek pragmatic relations amidst tensions over China's support for Russia and espionage concerns.
+
+The visit tests Europe's balance between the U.S. and China, with Xi's presence in Serbia during the NATO bombing anniversary symbolizing a critique of U.S. international law adherence. The EU's complex stance on China as a partner, competitor, and rival reflects internal conflicts over economic benefits versus security risks.
+
+Xi's focus on France aligns with President Macron's vision for European strategic autonomy, avoiding subservience to the U.S. and fostering a multipolar world. China's economic growth surpasses the EU's, highlighting the significance of their relationship amidst EU investigations into Chinese subsidies and potential trade tensions.
+
+Xi's tour intends to strengthen China's partnerships in Europe, navigating the continent's divided perspectives and leveraging shared interests to reshape global dynamics. The unrelated content regarding the CISCE results has been omitted from this summary.
+
+Sun, 05 May 2024 11:29:54 +0000
+### [Who is Sadiq Khan, the Pakistani-origin Mayor of London now re-elected to the post?](https://indianexpress.com/article/explained/explained-global/sadiq-khan-pakistan-london-mayor-reelection-9309396/)
+
+Sadiq Khan has been re-elected as the Mayor of London, marking his third consecutive victory and making him the longest-serving mayor in the city's history. His journey from humble beginnings as the son of Pakistani immigrants to a human rights lawyer and then a politician resonated with voters. Khan's political career began with his election as an MP in 2005, and he later became the first Muslim to serve in the cabinet as Minister for Transport. Despite facing criticism over rising violent crime rates, Khan's policies, such as freezing transport fares and tackling air pollution, have maintained his popularity among London's diverse electorate. His recent win is seen as a significant boost for the Labour Party ahead of the UK's general elections set for no later than January 2025. Khan's stance on international issues, like calling for a ceasefire following the October 7, 2023, Hamas attack on Israel, has also contributed to his electoral success.
+
+Sun, 05 May 2024 07:31:38 +0000
+### [IndiGo’s wide-body aircraft order: What makes long-haul, low-cost air travel a tough nut to crack?](https://indianexpress.com/article/explained/explained-economics/indigo-wide-body-aircraft-order-international-9309030/)
+
+IndiGo, India's largest airline, has placed an order for 30 Airbus A350-900 aircraft, with an option for 70 more, signaling its ambition to expand into non-stop, long-haul international flights. This move comes after its record order of 500 narrow-body jets last year. The long-haul, low-cost airline model is challenging and has seen many failures, but IndiGo aims to succeed where others have struggled.
+
+The success of low-cost carriers (LCCs) hinges on minimizing costs to offer low fares while maintaining profitability. However, long-haul flights face higher fuel costs and operational complexities, such as the need for additional crew due to longer journey times, which can impact cost control. Wide-body aircraft, like the A350, offer better fuel efficiency but come with higher purchase and maintenance costs.
+
+Effective network planning is crucial for the success of LCCs, with strategies including operating on less competitive routes, using multiple hubs, and serving secondary airports to reduce costs. IndiGo's approach to long-haul flights may include a dual-class cabin configuration and a focus on under-served routes with latent demand.
+
+IndiGo's CEO, Pieter Elbers, has stated that the airline is considering various options for its wide-body fleet, including cabin configuration and amenities, with decisions to be made based on market needs. The airline is experimenting with a bring-your-own-device (BYOD) model for in-flight entertainment and may introduce seat-back screens and other amenities on its A350s.
+
+IndiGo plans to offer direct international flights from multiple Indian cities, not just major hubs, aligning with successful LCC network designs. This strategy, along with potential innovations in service and pricing, could position IndiGo favorably in the long-haul market, leveraging its strong domestic and short-haul international network for connections.
+
+The article also includes an unrelated announcement about the release of ICSE Class 10 and 12 results for 2024, which will be available on May 6 at 11 am on the official website. Last year, the pass percentage for Class 12 was 96.93%, with girls outperforming boys. This information is not related to the main content of the article.
+
+Sun, 05 May 2024 03:30:04 +0000
+### [Israel sanctions: Who has imposed curbs over its Gaza assault?](https://indianexpress.com/article/explained/explained-global/israel-sanctions-curbs-over-gaza-assault-9307976/)
+
+The article discusses the international response to the humanitarian crisis in Gaza, focusing on the actions taken by various countries and movements against Israel. Turkey has suspended its $7 billion trade with Israel, demanding a cease-fire and aid for Gaza. This decision was influenced by Israel's stance and the situation in Gaza's Rafah region. Criticism came from Israel's Foreign Minister, while Hamas welcomed the move. Turkey's trade halt includes a wide range of exports and imports, and negotiations are underway to minimize the impact on Palestinians.
+
+France is the only major Western power considering sanctions to compel Israel to withdraw troops and increase humanitarian aid in Gaza. The US, Canada, France, and the UK have already imposed targeted sanctions on Israeli settlers in the West Bank accused of violence. The Biden administration plans to label goods from West Bank settlements to indicate their origin.
+
+Chile has banned Israeli companies from a major aerospace fair and ceased all military cooperation and purchases from Israel. It has also called for an ICC investigation into Israel's actions in Gaza and the occupied territories.
+
+The conflict has stalled the India-Middle East-Europe Economic Corridor project, which aims to enhance integration and counter China's Belt and Road initiative. The project's delay affects the potential normalization of relations between Israel and Saudi Arabia.
+
+The Boycott, Divestment and Sanctions (BDS) movement promotes nonviolent action against Israel, inspired by South Africa's anti-apartheid efforts. It faces accusations of antisemitism but continues to advocate for boycotts and sanctions. Consumer apps like Boycat support the boycott by identifying products linked to Israel.
+
+Lastly, the article mentions the announcement of the ICSE Class 10 and 12 results for 2024 by CISCE, unrelated to the main topic. The results will be released on May 6, with a notable pass percentage from the previous year.
+
 Sat, 04 May 2024 12:39:10 +0000
 ### [What is Artificial General Intelligence (AGI), and why are people worried about it?](https://indianexpress.com/article/explained/explained-sci-tech/artificial-general-intelligence-agi-9307895/)
 

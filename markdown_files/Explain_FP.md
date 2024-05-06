@@ -1,3 +1,1202 @@
+Sun, 5 May 2024 17:27:35 +0530
+### [In Graphics l From oceans to the forests, how the world is drowning in plastic waste](https://www.firstpost.com/explainers/plastic-pollution-oceans-forest-global-production-13766009.html)
+
+The article highlights the alarming increase in plastic production, from **two million tons in 1950 to over 450 million tons in 2019**, and the dire prediction that by **2050**, there could be more plastic than fish in the oceans. It emphasizes the urgent global challenge of managing plastic pollution, particularly its devastating impact on the oceans where **eight million tons** of waste enter annually, leading to contamination and threats to marine life and ecosystems. The article calls for collective action to address this issue, including reducing plastic use, improving waste management, and promoting recycling and sustainable alternatives. It underscores the importance of preserving marine biodiversity for future generations and warns of the consequences of failing to address the plastic pollution crisis.
+
+Sun, 5 May 2024 17:08:04 +0530
+### [Met Gala’s theme this year is ‘Sleeping Beauties’: How is it picked?](https://www.firstpost.com/explainers/met-gala-theme-sleeping-beauties-reawakening-fashion-dress-code-garden-of-time-anna-wintour-metropolitan-museum-of-art-13766731.html)
+
+The Met Gala, often referred to as fashion's biggest night, is set to take place on May 6th. This year's theme is "Sleeping Beauties: Reawakening Fashion," with a dress code inspired by J.G. Ballard's short story, "The Garden of Time." The event serves as a fundraiser for the Costume Institute at the Metropolitan Museum of Art.
+
+The Met Gala began in 1948 but only adopted themes in the 1970s under Vogue editor-in-chief Diana Vreeland. Today, the themes are curated by the Costume Institute's chief curator, Andrew Bolton, and require approval from both the museum's director and Anna Wintour. The selection process starts a year in advance, and while Wintour's support is crucial, especially for securing sponsors, the final decision on the theme rests with Bolton and his team.
+
+This year's exhibition will showcase around 250 historical garments, some dating back 400 years. Notable pieces include designs by Schiaparelli, Dior, and Givenchy. Fragile items, like an 1877 Charles Frederick Worth ball gown, will be displayed using advanced technology due to their delicate condition.
+
+The dress code, "The Garden of Time," may lead to literal interpretations of garden elements in fashion, as suggested by fashion commentators. Approximately 450 guests are expected to attend, including celebrities like Uma Thurman, Sarah Paulson, and Cara Delevingne, with Zendaya, Jennifer Lopez, Chris Hemsworth, and Bad Bunny serving as co-chairs. The event promises to be a night of fashion, glamour, and glitz.
+
+Sun, 5 May 2024 11:56:41 +0530
+### [Why China’s Xi Jinping’s first visit to Europe in five years will be watched](https://www.firstpost.com/explainers/china-xi-jinping-first-europe-visit-eu-france-serbia-hungary-13766889.html)
+
+Chinese President Xi Jinping is embarking on a significant five-day European tour from May 5 to May 10, 2024, marking his first visit to the continent in five years. The trip includes stops in France, Serbia, and Hungary, and is set against a backdrop of heightened tensions between China and the European Union (EU).
+
+**In France**, Xi will be hosted by President Emmanuel Macron on May 5. The visit coincides with the 60th anniversary of diplomatic relations between China and France and will include discussions on international crises, trade, cultural cooperation, and climate change. Macron aims to strengthen ties with Xi and potentially influence China's stance on the Russia-Ukraine conflict.
+
+**In Serbia**, Xi's visit on May 7 aligns with the 25th anniversary of the US bombing of China's embassy in Belgrade. Talks with Serbian President Aleksandar Vučić will focus on reinforcing the "ironclad friendship" and cooperation between the two nations.
+
+**The final leg in Hungary** from May 8 to 10 will see Xi meeting with Hungarian President Tamás Sulyok and Prime Minister Viktor Orban. Hungary, a key partner in China's Belt and Road initiative, has maintained a China-friendly stance within the EU.
+
+Xi's tour is crucial as it occurs amidst the EU's concerns over trade imbalances with China and the scrutiny of Chinese investments in Europe. The visit is also significant for global diplomacy, as it may influence the EU's strategic autonomy in its stance towards China, separate from the US perspective. The world will be closely observing the outcomes of this tour and its impact on international relations.
+
+Sun, 5 May 2024 10:02:55 +0530
+### [This Week in Explainers: How anti-Israel student protests went global](https://www.firstpost.com/explainers/this-week-in-explainers-anti-israel-student-protests-us-uk-europe-australia-13766877.html)
+
+Here's a summary of the key points from the article:
+
+- **Global Protests**: Anti-Israel protests that began at U.S. elite universities have spread worldwide, with students in the UK, France, Australia, and Italy joining in to voice their concerns about what they perceive as the mistreatment of Palestinians by Israel.
+
+- **Columbia University Controversy**: Minouche Shafik, the president of Columbia University, has been scrutinized for her handling of the protests and allegations of anti-Semitism on campus.
+
+- **UK Knife Crime**: There's been an alarming rise in knife crime in the UK, highlighted by a recent incident where a 13-year-old was fatally stabbed with a sword in London.
+
+- **Pakistan's Lunar Ambitions**: With China's support, Pakistan is aiming to send a CubeSat satellite to the Moon, marking a significant step in the country's space exploration efforts.
+
+- **North Korea's 'Pleasure Squad'**: A defector shed light on the secretive group of young women selected for North Korean leader Kim Jong-Un, focusing on their recruitment and life after service.
+
+- **Health Risks of Beauty Trends**: The article warns of the dangers associated with certain beauty procedures, such as the 'vampire facial,' which has led to HIV infections in the U.S.
+
+The article provides a roundup of these major issues, offering insights into each topic. If you're interested in more detailed explanations, the original article contains links to further information on each subject.
+
+Sat, 4 May 2024 18:00:11 +0530
+### [What's a 'Blue Corner Notice' that is likely to be issued against JD(S) MP Prajwal Revanna in sex abuse case?](https://www.firstpost.com/explainers/cbi-likely-to-issue-blue-corner-notice-against-absconding-jds-mp-prajwal-revanna-what-is-it-hd-deve-gowda-hd-revanna-lok-sabha-polls-13767077.html)
+
+The article discusses the issuance of a Blue Corner Notice by Interpol against JD(S) MP Prajwal Revanna, who is accused of sexual assault and has fled to Germany. The notice is part of an international cooperation system to share crime-related information. Interpol issues various color-coded notices, including Red for seeking arrests, Yellow for locating missing persons, and Blue for gathering information about a person's identity or activities related to a criminal investigation. The article contrasts Blue Corner Notices, which are issued before criminal charges to gather information, with Red Corner Notices, which are issued to apprehend wanted criminals. It also addresses concerns about the misuse of Interpol's notice system by some countries for political purposes and highlights the case of Prajwal Revanna and his father, H.D. Revanna, who are embroiled in a sex scandal involving multiple allegations of sexual abuse. The article concludes with details about the author, Anmol, a Senior Sub-Editor with Firstpost.
+
+Sat, 4 May 2024 17:23:26 +0530
+### [How US universities are prepping for graduation ceremonies amid pro-Palestine protests](https://www.firstpost.com/explainers/us-universities-protests-graduation-ceremonies-gaza-war-palestine-13767105.html)
+
+The article discusses the impact of pro-Palestine protests on US university campuses, particularly concerning upcoming graduation ceremonies. Protests have spread to nearly 140 institutions, raising security concerns. Universities like Indiana University and the University of Michigan have increased security measures, including enhanced protocols and screenings. Some universities have faced criticism for potentially suppressing free speech, while others, like the University of Minnesota, have engaged in dialogue with protestors, leading to less tension. The situation highlights the challenge of balancing free expression with maintaining order during significant events like graduations.
+
+Sat, 4 May 2024 15:23:05 +0530
+### [In Graphics l How your travel plans impact the environment](https://www.firstpost.com/explainers/carbon-footprints-co2-emissions-travel-air-ship-car-13765620.html)
+
+The article emphasizes the importance of being mindful of one's carbon footprint, particularly when choosing a mode of transportation. It highlights that **airplanes and cruises** are significant contributors to greenhouse gas emissions. The piece suggests considering the environmental impact of various transportation options, including cars, and poses the question of whether **electric vehicles (EVs)** are a more sustainable choice. The article references the **United Nations'** findings on the role of transportation in global CO2 emissions, which is about **25%** of the total energy-related emissions. It underscores the urgency of addressing climate change, which is exacerbated by rising carbon emissions leading to higher global temperatures, sea-level rise, and extreme weather events. The article concludes by urging readers to reflect on how their travel choices affect the environment.
+
+Sat, 4 May 2024 14:47:47 +0530
+### [Is the Lawrence Bishnoi gang behind Hardeep Singh Nijjar's killing in Canada?](https://www.firstpost.com/explainers/lawrence-bishnoi-gang-hardeep-singh-nijjar-killing-canada-13767034.html)
+
+Canadian police have arrested three Indian nationals in connection with the assassination of Sikh separatist leader Hardeep Singh Nijjar in Surrey, British Columbia. The individuals, identified as Kamalpreet Singh, Karanpreet Singh, and Karan Brar, are facing charges of first-degree murder and conspiracy. They are suspected to be part of a hit squad with ties to the criminal organization linked to Lawrence Bishnoi, an infamous Punjabi gangster currently imprisoned in India.
+
+The arrests have caused diplomatic tensions between India and Canada, with Canada alleging Indian involvement in the assassination. The RCMP has been monitoring the suspects for several months, noting that they entered Canada on temporary visas and have not pursued education or obtained permanent residency.
+
+Lawrence Bishnoi is known for his extensive criminal network across multiple countries and is accused of various crimes, including the murder of Punjabi singer-politician Sidhu Moose Wala. Bishnoi's gang is said to be affiliated with over 700 shooters and is involved in digital operations for target selection and financial transactions for criminal activities.
+
+The article also touches on the broader issue of Punjabi gangsters using Canada as a base for extortion activities in India. Bishnoi's criminal activities reportedly span India, Canada, Dubai, Austria, and Mexico, with operations managed through virtual phone numbers and internet technology. The gang's hierarchy involves Bishnoi as the mastermind, with various associates handling recruitment, target planning, and financial management.
+
+Sat, 4 May 2024 12:17:40 +0530
+### [‘Rohith Vemula was not a Dalit’: Who was the student, whose death sparked a political uproar?](https://www.firstpost.com/explainers/rohith-vemula-was-not-a-dalit-who-was-the-student-whose-death-sparked-a-political-uproar-13767020.html)
+
+The article discusses the ongoing controversy surrounding Rohith Vemula, a doctoral student who became a symbol of Dalit resistance after his suicide in 2016, which sparked a national debate on caste discrimination in Indian universities. A recent police closure report has brought Vemula back into the spotlight by questioning his Scheduled Caste status, alleging that his SC certificate was falsified by his mother. The report suggests that academic stress and involvement in Dalit rights activism led to his suicide, rather than caste-based harassment.
+
+Vemula's family has criticized the police for focusing on his caste identity instead of the alleged discrimination he faced. The article also revisits the political aftermath of Vemula's death, including protests and government responses to caste discrimination in education. It mentions previous disputes over Vemula's caste and the politicization of his death, with the opposition Congress party accusing the BJP of inaction. The closure report, released just before elections in Telangana, has been met with skepticism and calls for further investigation, especially from the Congress-ruled state government, which had promised justice for Vemula.
+
+The article concludes that Vemula's death continues to be a significant topic of discussion regarding caste, identity, and institutional accountability in India, indicating that the debate around his life and legacy is as relevant as ever.
+
+Sat, 4 May 2024 11:59:09 +0530
+### [What is office peacocking, the latest trend to lure employees back to work?](https://www.firstpost.com/explainers/office-peacocking-employees-return-to-work-trend-13766696.html)
+
+The article discusses the ongoing reluctance of employees to return to traditional office settings, despite having worked from home for four years due to the COVID-19 pandemic. Employers are trying to entice workers back with "office peacocking," which involves enhancing the workplace with stylish decor and amenities. However, the effectiveness of this strategy is questionable.
+
+Owl Labs' CEO, Frank Weishaupt, highlights that employees prioritize issues like commuting costs and personal space over attractive workplace designs. The report from Owl Labs indicates that a significant portion of employees prefer remote work to the extent that they would accept a pay cut or even quit their job rather than return to the office.
+
+The article also touches on other workplace trends like "coffee badging" and "polyworking," where employees show up briefly at the office or maintain multiple jobs, respectively. These trends suggest that mandates to return to the office are not successful, and a more flexible work culture is preferred by many workers. The article concludes that these issues are prevalent among both in-office and remote workers.
+
+Sat, 4 May 2024 11:02:11 +0530
+### [Quicksplained: What is the Eta Aquariid meteor shower, which could spawn 100 shooting stars per hour?](https://www.firstpost.com/explainers/quicksplained-what-is-the-eta-aquariid-meteor-shower-which-could-spawn-100-shooting-stars-per-hour-13766981.html)
+
+The **Eta Aquariid meteor shower** is expected to offer a spectacular show this year, with the best viewing times on the night of May 4th through the early morning of May 5th. This meteor shower, which has been active since April 15th, is particularly special because there will be no moonlight to interfere with the visibility of the meteors. Observers in the Southern Hemisphere can expect about 60 meteors per hour, while those in the Northern Hemisphere may see 10 to 40 meteors per hour.
+
+The Eta Aquariids are associated with Halley's Comet and occur as Earth passes through the comet's debris field. This year, the absence of moonlight and a new Moon could increase the number of visible meteors to 120-160 per hour. The meteors are known for their speed and long, glowing tails.
+
+For the best experience, viewers should find a dark location away from city lights and look towards the Aquarius constellation after 4 am local time. A telescope can enhance the viewing, but the meteors will be visible to the naked eye under optimal conditions. This event is a part of the cosmic show that happens as Earth traverses the debris left by Halley's Comet, which is observed every 76 years. The next significant outburst of the Eta Aquariids is predicted to occur in about 20 years.
+
+Sat, 4 May 2024 09:19:28 +0530
+### [This Week in Explainers: Did Covishield kill a 20-year-old? Trouble for AstraZeneca, Serum Institute](https://www.firstpost.com/explainers/this-week-in-explainers-covishield-astrazeneca-serum-institute-of-india-covid19-vaccine-side-effects-tts-13766873.html)
+
+The article covers a range of topics, highlighting several controversies and developments in India:
+
+1. **Political Shifts**: Rahul Gandhi will contest from Rae Bareli instead of Amethi, a seat he lost in 2019, while Priyanka Gandhi opts out of the election race.
+
+2. **Karnataka Scandal**: A sexual assault scandal involving Prajwal Revanna, grandson of former Prime Minister HD Deve Gowda, has shaken Karnataka politics. Prajwal has fled the country following allegations and his suspension from the Janata Dal (Secular).
+
+3. **Assassination Plot Allegations**: Controversy surrounds Gurpatwant Singh Pannun, founder of Sikhs for Justice, with allegations of an assassination plot by Indian officials, which India denies.
+
+4. **COVID-19 Vaccine Concerns**: AstraZeneca admits in a UK court that its Covishield vaccine can cause Thrombosis with Thrombocytopenia Syndrome (TTS) in rare cases, leading to panic and potential legal action from the family of a deceased Indian girl.
+
+5. **Cyberbullying Issue**: Prachi Nigam, a top student in Uttar Pradesh, faces cyberbullying over her physical appearance, highlighting the broader issue of body hair stigma for women.
+
+The article concludes with a call to fight cyberbullying and a cultural note on the historical role of tawaifs in India's independence struggle.
+
+Fri, 3 May 2024 19:48:00 +0530
+### [In Graphics | Chinese debt trap: These nations owe Beijing big time](https://www.firstpost.com/explainers/in-graphics-chinese-debt-trap-these-nations-owe-beijing-big-time-13766836.html)
+
+The article discusses China's Belt and Road Initiative (BRI), which has allocated over $1 trillion to assist emerging nations. Despite India's warnings about the risks of unsustainable financing and debt traps, countries like Pakistan, Bangladesh, Angola, Ethiopia, and Kenya have engaged with the BRI. The World Bank's International Debt Report 2023 indicates that 60% of low-income countries are at high risk of debt distress. The report emphasizes the importance of debt transparency for sustainable borrowing and responsible lending, which are crucial for ending poverty and ensuring a habitable planet. It also mentions that China has borrowed $4 trillion from 2012 to 2022, raising questions about the debt vulnerability of low and middle-income countries indebted to China.
+
+Fri, 3 May 2024 19:00:25 +0530
+### [How the trial of former Kazakh minister, who beat his wife to death, has rocked the country](https://www.firstpost.com/explainers/kazakhstan-former-minister-trial-wife-murder-domestic-abuse-13766814.html)
+
+The article discusses the high-profile trial of former Kazakh economy minister Kuandyk Bishimbayev, accused of the murder of his wife, Saltanat Nukenova, which has sparked national conversations on domestic abuse. Nukenova was killed last November, and CCTV footage showed Bishimbayev dragging and assaulting her in a restaurant. Despite Bishimbayev pleading not guilty and claiming Nukenova's injuries were self-inflicted, evidence and testimonies suggest otherwise.
+
+The case has highlighted Kazakhstan's domestic abuse issues, where it's reported that about 400 women die annually from such violence. The trial is seen as a test for President Kassym-Jomart Tokayev's commitment to improving women's rights. Following public outcry, a new law was signed, criminalizing the striking of women and children and mandating police investigations into all domestic abuse cases.
+
+The article also touches on Kazakhstan's previous domestic abuse law, which critics argue discouraged reporting due to lenient penalties. The trial has gained international attention and is considered by some as a "trial of the century," potentially influencing societal attitudes towards domestic violence and women's rights in Kazakhstan and beyond. Bishimbayev faces up to 20 years in prison if convicted, amidst concerns over the adequacy of the punishment due to his previous early release from a bribery sentence. The outcome of the trial is being closely watched as a barometer for justice and reform in Kazakhstan.
+
+Fri, 3 May 2024 18:19:17 +0530
+### [Inside North Korean leader Kim Jong Un’s spine-chilling ‘pleasure squad’](https://www.firstpost.com/explainers/inside-north-korean-leader-kim-jong-uns-spine-chilling-pleasure-squad-13766758.html)
+
+The article provides a detailed account of the "Pleasure Squad" in North Korea, a group of young women selected to serve the country's leader, Kim Jong Un. According to defector Yeonmi Park, each year, 25 girls are chosen based on their appearance and political loyalty. They undergo rigorous medical examinations to confirm their virginity and are disqualified for any minor imperfections. These girls are then sent to Pyongyang to fulfill their roles.
+
+Park also describes the dire economic conditions in North Korea, which lead parents to allow their daughters to join the squad as a means of survival. The squad is divided into three sections: massage, entertainment, and sexual activities. The practice originated with Kim Jong Il in the 1970s, who believed that intimate relations with young women would grant him immortality.
+
+The article also highlights the stark contrast between the luxurious lifestyle of the North Korean elite and the extreme poverty of the general population. It reports on extravagant spending by the regime on luxury goods, including women's undergarments and imported spirits, while the average citizen struggles to survive on minimal wages. The trade data underscores the disparity between the indulgences of the elite and the deprivation of the populace, with China being a major trading partner despite international sanctions. The article concludes with a note on the regime's reliance on external sources to maintain its lifestyle.
+
+Fri, 3 May 2024 18:13:14 +0530
+### [The story of Wally, the emotional support alligator who went ‘missing’ in the US](https://www.firstpost.com/explainers/wally-emotional-support-alligator-us-13766699.html)
+
+WallyGator, an emotional support alligator, has been missing after reportedly being stolen during its owner Joie Henney's vacation in Georgia. Wally, who has been with Henney for nearly a decade, is known for comforting people at nursing homes and baseball games and gained attention when denied entry to a Phillies game. Henney, who acquired Wally as a rescue in Florida, credits the alligator with helping him through depression. Despite no police reports filed, the Georgia Department of Natural Resources received a nuisance alligator report on the day Wally disappeared, and a trapper released a captured gator in a remote location, but it's unclear if it was Wally. Laws in Georgia prohibit keeping alligators without a permit, which is not granted for pets, while Pennsylvania has no such law against ownership but prohibits releasing them into the wild. Emotional support animals like Wally require no special training or registry, but can be endorsed by health professionals for those with mental health conditions. Wildlife experts caution that alligators are unpredictable and can be dangerous, as evidenced by numerous recorded bites in Florida.
+
+Fri, 3 May 2024 17:50:39 +0530
+### [Can ‘sponge cities’ be the solution to floods as seen in Dubai?](https://www.firstpost.com/explainers/sponge-cities-solution-floods-dubai-13766809.html)
+
+The article discusses the concept of "sponge cities," a nature-based solution to urban flooding and water management issues exacerbated by climate change. Sponge cities utilize the terrain to absorb, slow down, and clean water, mimicking the natural water cycle disrupted by urban development. The approach includes waterproofing surfaces, planting trees, and constructing buildings with features like grass-covered roofs to manage water sustainably.
+
+Originating in China in the early 2000s, the sponge city concept aims to address surface-level flooding and enhance ecology and biodiversity. Pilot projects across China received significant funding, and the idea has been credited to Professor Kongjian Yu, who drew inspiration from sustainable water management strategies in the UK and the US.
+
+Cities like Amsterdam and Los Angeles have implemented features of sponge cities, such as "blue-green" roofs and green spaces, to manage rainwater effectively. Experts highlight the multi-benefit nature of this approach, which is more cost-effective and adds value compared to traditional infrastructure.
+
+Despite its benefits, the concept faces challenges, such as coping with extreme rainfall events. Critics argue that sponge cities have limitations, as seen in recent floods in China, but others counter that the issue lies in the scale of implementation and the prevailing mindset that favors concrete solutions over natural ones. The article suggests that a broader adoption and a shift in thinking are necessary for sponge cities to make a significant impact on water management and climate change adaptation.
+
+Fri, 3 May 2024 16:59:13 +0530
+### [No more Paw-asanas: Why Italy has banned yoga with puppies](https://www.firstpost.com/explainers/italy-banned-yoga-with-puppies-13766610.html)
+
+Italy's health ministry has banned 'puppy yoga' classes, citing concerns for the animals' well-being and the safety of the practice. The decision was influenced by the fact that puppies were often borrowed from breeders and not transported safely. The ministry has allowed yoga with adult dogs, considering it 'assisted animal therapy.' This move has been praised by animal welfare groups and activists. Concerns have been raised about the physical and mental stress on the puppies, and the potential for impulsive adoptions by participants without considering the long-term consequences. The UK's RSPCA has also expressed concerns, noting that the environment in puppy yoga classes is not beneficial to the animals' health or development. The practice has been criticized for exploiting puppies for entertainment rather than providing genuine socialization benefits. While puppy yoga faces scrutiny, yoga with other animals like kittens and rabbits continues to gain popularity.
+
+Fri, 3 May 2024 15:21:48 +0530
+### [After Colombia, now Turkey: Which other nations have cut ties with Israel over Gaza war?](https://www.firstpost.com/explainers/colombia-turkey-nations-israel-gaza-war-13766667.html)
+
+The article discusses a significant shift in international relations, highlighting that Colombia and Turkey, along with several other nations, have severed diplomatic ties with Israel due to its actions in Gaza. Colombia's President Gustavo Petro has labeled Israel's actions as 'genocide' and announced the end of diplomatic relations, while Turkey has halted all trade until Israel allows sufficient humanitarian aid into Gaza.
+
+Colombia's decision may impact its military capabilities, as it relies on Israeli-built fighter jets and other military equipment. The Colombian government has stated that existing contracts will be honored but no new ones will be signed, and it is considering diversifying its suppliers.
+
+Turkey's trade suspension with Israel is a significant move, given that trade between the two countries was valued at $6.8 billion in 2023, with a majority being Turkish exports.
+
+Other countries, including Bolivia, Belize, and Saudi Arabia, have also taken steps to distance themselves from Israel. Bolivia has broken diplomatic ties, Belize has called for an immediate ceasefire and suspended diplomatic activities, and Saudi Arabia has paused US-backed plans to normalize ties with Israel.
+
+The article suggests that these developments have exacerbated Israel's diplomatic isolation and could delay the normalization of relations with Saudi Arabia, potentially affecting the Abraham Accords, which are normalization agreements between Israel and several Arab nations. The war in Gaza, triggered by a Hamas attack on October 7, has further complicated the situation, with Israel reporting significant civilian casualties and hostage-taking by Hamas.
+
+The overall impact on Israel's international relations and trade remains to be seen, as the situation continues to evolve. Diplomatic withdrawals and ambassador recalls from South Africa, Bahrain, Chile, Honduras, Chad, and Jordan have also been reported, with each country expressing various levels of condemnation towards Israel's actions in Gaza. The article concludes with insights from various sources and agencies.
+
+Fri, 3 May 2024 15:16:55 +0530
+### [What is Chloropicrin, the chemical agent Russia has allegedly used in the Ukraine war?](https://www.firstpost.com/explainers/what-is-chloropicrin-the-chemical-agent-russia-has-allegedly-used-in-the-ukraine-war-13766664.html)
+
+The article discusses the US accusations against Russia for using the banned choking agent Chloropicrin against Ukrainian forces, which is a violation of the 1993 Chemical Weapons Convention. Chloropicrin was used extensively as a weapon in World War I and is now primarily an insecticide. It causes severe irritation and respiratory issues upon inhalation. The article also mentions the use of CS and CN gases, which are less lethal riot control agents but can still pose serious health risks. The US has previously accused Russia of using chemical weapons, including the Novichok nerve agent and white phosphorus bombs. In response to these actions, the US has imposed sanctions on Russian entities and nearly 300 targets, including Chinese companies, due to concerns over China's support for Russia's military actions. The sanctions are part of the US's efforts to address the challenges posed by China's alignment with Russia. The article concludes with background information on the author, Anmol, who is a Senior Sub-Editor with Firstpost.
+
+Fri, 3 May 2024 14:25:00 +0530
+### [AstraZeneca, Serum Institute to be sued by parents of woman who died after Covishield jab: What happened?](https://www.firstpost.com/explainers/astrazeneca-serum-institute-parents-woman-death-covishield-vaccine-side-effects-13766668.html)
+
+The article discusses the case of Karunya Venugopal, a data science student who passed away in July 2021, a month after receiving the Covishield vaccine. Her parents are considering legal action against the Serum Institute of India and AstraZeneca following the latter's admission that its COVID-19 vaccine can cause Thrombosis with Thrombocytopenia Syndrome (TTS) in rare instances. Karunya's death was classified as having a temporal relationship with the vaccine, but without sufficient evidence to prove causation. The government has denied liability for compensation. The article also mentions another case, Rithaika Sri Omtri, who suffered from a similar condition after vaccination. In the UK, AstraZeneca faces a class action lawsuit for claims related to the vaccine causing death and serious harm. AstraZeneca has acknowledged in court that its vaccine can cause TTS in very rare cases. The article highlights the ongoing concerns and legal actions related to the adverse effects of the COVID-19 vaccine.
+
+Fri, 3 May 2024 13:35:58 +0530
+### [Ape-tastic: How a wounded orangutan used medicinal plants to treat himself](https://www.firstpost.com/explainers/wounded-orangutan-medicinal-plants-treat-self-indonesia-13766612.html)
+
+In a groundbreaking observation, scientists at the Suaq Balimbing research site in Indonesia documented a male Sumatran orangutan named Rakus using a medicinal plant to treat a facial wound. Rakus, who sustained the injury likely from a conflict with another male, was seen plucking and chewing leaves from a plant known for its pain-relieving and anti-inflammatory properties. He applied the plant's juices and the chewed leaves to his wound, which healed within a month without infection.
+
+This behavior, observed in June 2022, marks the first recorded instance of a wild animal actively using a medicinal plant for wound treatment. The plant, Fibraurea tinctoria, is rarely consumed by orangutans but is used in traditional medicine across Southeast Asia. The incident suggests that the cognitive abilities required for such self-treatment could date back to the last common ancestor of orangutans and humans, around 13 million years ago.
+
+Orangutans share about 97% of their DNA with humans and are known for their problem-solving skills and ability to learn socially. The observed orangutan, Rakus, demonstrated selective and intentional use of the plant, reinforcing the notion that great apes possess significant cognitive capabilities. The study, published in Scientific Reports, contributes to our understanding of animal behavior and the potential origins of medicinal plant use.
+
+Fri, 3 May 2024 12:57:26 +0530
+### [Why has Rahul Gandhi chosen Rae Bareli over Amethi? Why is Priyanka not contesting polls?](https://www.firstpost.com/explainers/lok-sabha-elections-rahul-gandhi-rae-bareli-amethi-priyanka-not-contesting-13766624.html)
+
+The Congress party has made a significant change in its election strategy by announcing that Rahul Gandhi will contest from Rae Bareli instead of Amethi in the 2024 Lok Sabha elections. Priyanka Gandhi Vadra will not contest at all. This decision marks a departure from tradition, as the Gandhi family has a long history with both constituencies. Rahul's switch to Rae Bareli is seen as a move to avoid direct competition with BJP's Smriti Irani, who defeated him in Amethi in 2019. The party also seems to be addressing concerns of dynastic politics by not fielding Priyanka. Analysts are divided on whether this strategy will benefit the Congress or play into the BJP's narrative of the Gandhis avoiding a tough fight. The outcome of this gamble will be clear when election results are announced on June 4.
+
+Fri, 3 May 2024 12:30:27 +0530
+### [Quicksplained: Pakistan's first moon mission and its China connection](https://www.firstpost.com/explainers/quicksplained-pakistans-first-moon-mission-and-its-china-connection-13766613.html)
+
+Pakistan's first lunar mission, iCube-Q, is set to launch aboard China's Chang'e 6 lunar probe on May 3. This mission, a collaboration between the Institute of Space Technology in Islamabad, Shanghai University, and Pakistan's national space agency SUPARCO, aims to land on the far side of the moon to collect surface samples. The mission is notable for including iCube-Q, a CubeSat satellite developed by IST, which will carry two optical cameras to image the lunar surface. The Chang'e 6 mission, which will be the second to land on the lunar far side, targets the South Pole-Aitken basin to gather samples that could provide insights into the moon's composition and the early history of the Solar System. This mission represents a significant international collaboration, with contributions from various countries and agencies, and underscores the importance of shared scientific endeavors for humanity's benefit. Specimens retrieved will be shared internationally for analysis, continuing China's practice of sharing data from its space science missions.
+
+Fri, 3 May 2024 11:48:14 +0530
+### [Heavy rains return to Dubai: What’s going on, how badly is the city hit?](https://www.firstpost.com/explainers/heavy-rains-return-to-dubai-how-bad-is-it-13766521.html)
+
+The UAE experienced severe weather conditions for the second time in a month, with heavy rains and thunderstorms prompting an orange alert. The weather disrupted flights at Dubai International Airport, leading to cancellations and delays. Residents were advised to work and study from home due to the adverse conditions. The National Emergency Crisis and Disaster Management Authority (NCEMA) increased readiness levels, and advisories were issued for residents to exercise caution. Roads prone to flooding were closed, and people were asked to avoid beaches, mountains, and deserts. The heavy rains are attributed to climate change, which is expected to intensify such events in the future. The previous rainfall two weeks prior had caused significant flooding, leading to fatalities and property damage. The UAE's drainage systems were overwhelmed, and emergency measures were taken to manage the situation. Climate experts suggest that global warming is to blame for the increased intensity of these weather events.
+
+Fri, 3 May 2024 10:52:28 +0530
+### [Who is Kishori Lal Sharma, Congress candidate from Amethi who will take on Smriti Irani?](https://www.firstpost.com/explainers/kishori-lal-sharma-congress-candidate-amethi-2024-lok-sabha-polls-13766529.html)
+
+The article discusses the latest developments in the Indian political landscape concerning the upcoming 2024 Lok Sabha elections. **Rahul Gandhi** has chosen to contest from **Rae Bareli**, leaving **Amethi** to **Kishori Lal Sharma**, a long-time Gandhi family loyalist. Sharma will face **Smriti Irani** of the BJP, who previously defeated Rahul Gandhi in Amethi. The article provides a background on Sharma, noting his four-decade-long association with the Gandhi family, his political work across various states, and his significant role in the Congress party's activities in Uttar Pradesh. It also mentions that Congress will contest 17 seats in Uttar Pradesh, with its ally Samajwadi Party and other regional parties contesting the rest. The elections for Amethi and Rae Bareli are scheduled for **May 20th**. The summary omits unrelated content and focuses on the key points of the political report.
+
+Fri, 3 May 2024 10:44:56 +0530
+### [Timeline | How pro-Palestine protests have grown on US campuses](https://www.firstpost.com/explainers/timeline-pro-palestine-students-protests-us-campuses-13766560.html)
+
+The article provides a detailed account of the recent wave of pro-Palestinian protests across US universities, which began on April 17 at Columbia University. The protests, which call for a ceasefire in Gaza and divestment from companies linked to Israel, have led to numerous arrests and confrontations with police. Several universities have negotiated with protesters, while others have resorted to police intervention to clear encampments. The timeline highlights key events, including arrests, clashes between pro-Palestinian and pro-Israeli groups, and the involvement of high-profile figures. The movement has seen significant student activism, with some universities reaching agreements on divestment. The situation remains dynamic, with ongoing developments.
+
+Fri, 3 May 2024 09:51:29 +0530
+### [What are the sexual harassment claims against Bengal governor Bose?](https://www.firstpost.com/explainers/sexual-harassment-claims-bengal-governor-cv-ananda-bose-tmc-13766530.html)
+
+An employee of Raj Bhavan has accused West Bengal Governor CV Ananda Bose of sexual harassment, leading to a police complaint and intensifying the conflict between Bose and the Trinamool Congress (TMC). The TMC has condemned the Governor, leveraging the allegations to intensify their long-standing opposition to him. Bose has denied the claims, asserting his commitment to fighting corruption and violence in Bengal. Despite the complaint, legal action against Bose is complicated by the constitutional immunity granted to Governors, preventing any court proceedings during their term. The situation remains tense as legal experts are consulted for further action. This controversy emerges amidst the Lok Sabha elections and prior to a scheduled visit by Prime Minister Narendra Modi to Raj Bhavan.
+
+Fri, 3 May 2024 09:31:23 +0530
+### [Realty Check: Why does Japan have nine million empty homes?](https://www.firstpost.com/explainers/realty-check-why-does-japan-have-nine-million-empty-homes-13766336.html)
+
+The article discusses the growing issue of vacant homes in Japan, which reached a record high of nine million as of October 1 last year. The increase is attributed to Japan's aging population and low birth rates, leading to a rise in abandoned residences. The term "Akiya" refers to residential properties unoccupied for at least six months. Many of these homes are inherited, but inheritors often face challenges in managing them due to distance or lack of inclination.
+
+The problem is exacerbated by rural depopulation and urban vacancies, with tax incentives encouraging owners to keep properties vacant. The government has enacted laws to address poorly managed empty homes, mandating owners to refurbish or demolish high-risk properties. Local authorities and startups are also taking steps to manage the issue, with initiatives to streamline inheritance procedures and services to connect owners with demolition companies or refurbish homes for the secondhand market. The interest in traditional Japanese accommodation among foreign tourists has surged, highlighting the potential for these vacant properties in the tourism sector.
+
+Fri, 3 May 2024 07:23:41 +0530
+### [Why were 19 Indian universities' vice chancellors conferred honorary 'colonel' ranks?](https://www.firstpost.com/explainers/19-indian-universities-vice-chancellors-honorary-colonel-ranks-13766422.html)
+
+The Government of India has awarded honorary Colonel ranks to Vice Chancellors of 19 universities, including JNU's Prof Santishree Dhulipudi Pandit, to serve as Colonel Commandants in the National Cadet Corps (NCC). This recognition is for their contributions to nation-building and aims to enhance the image of the armed forces. Honorary ranks have previously been given to sports figures like MS Dhoni and Sachin Tendulkar, but the current focus is on academicians, reflecting a shift towards inclusivity. The move is also strategic, aiming to attract high-quality youth to the military and to raise awareness among VCs about national security. This initiative comes at a time when there is a significant shortage of officers in the armed forces. The honorary ranks are recommended by the Ministry of Defence and are valid as long as the recipients hold their academic positions.
+
+Fri, 3 May 2024 06:00:47 +0530
+### [FirstUp: Modi's rallies in Jharkhand, China's Chang'e-6 lunar probe launch... Big headlines today](https://www.firstpost.com/explainers/firstup-modi-rallies-jharkhand-china-change6-lunar-probe-launch-13766280.html)
+
+Here's a summary of the article:
+
+- **Prime Minister Narendra Modi** is set to hold three rallies in Jharkhand ahead of the elections, starting with Chaibasa, followed by Palamu and Lohardaga.
+- **Rahul Gandhi** will address a public rally in Pune, Maharashtra, as part of the election campaign for the Maha Vikas Aghadi nominees.
+- The **Enforcement Directorate (ED)** is due to respond to the Supreme Court regarding the timing of Delhi Chief Minister **Arvind Kejriwal's arrest** in connection with the excise policy case.
+- **China** is poised to launch the **Chang'e-6 lunar probe**, which aims to collect samples from the far side of the Moon, a first in human history.
+- The **16th Habitat Film Festival** begins in New Delhi, featuring a variety of films, documentaries, and workshops.
+- In Manipur, civil society organizations will mark one year since the ethnic conflict with events of remembrance and awakening.
+- The **IPL 2024** match between **Mumbai Indians and Kolkata Knight Riders** is scheduled at the Wankhede Stadium in Mumbai.
+- The article also mentions significant anniversaries and remembrances, including Press Freedom Day and the incorporation of Washington, D.C. as a city.
+
+This summary excludes any advertisements or unrelated content that may have been present in the original article.
+
+Thu, 2 May 2024 21:06:11 +0530
+### [Prajwal Revanna sex scandal: What is diplomatic passport that the JD(S) MP used to flee from India?](https://www.firstpost.com/explainers/jds-mp-prajwal-revanna-sex-abuse-case-diplomatic-passport-mea-germany-13766439.html)
+
+Janata Dal (Secular) MP Prajwal Revanna, accused in a sexual abuse case, traveled to Germany using a diplomatic passport without seeking political clearance from the Ministry of External Affairs (MEA). The MEA clarified that no political clearance or visa note was issued for his travel. Karnataka Chief Minister Siddaramaiah has requested Prime Minister Narendra Modi to revoke Revanna's diplomatic passport and ensure his return to India.
+
+Diplomatic passports are issued to diplomats, officials, and certain individuals authorized for official trips on behalf of the Indian government. They are valid for up to five years, have a maroon cover, and grant holders certain privileges and immunities, including immunity from arrest in the host country and access to diplomatic channels. MPs can apply for diplomatic passports but must seek political clearance for official trips abroad. The Consular, Passport and Visa (CPV) division issues these passports, and applications are processed through the Passport Seva Programme or relevant Regional Passport Offices. Diplomatic passports cannot be used for private business. The article also mentions previous instances involving diplomatic passports, including those of Rahul Gandhi and Vijay Mallya.
+
+Thu, 2 May 2024 21:04:15 +0530
+### [Who is Dinesh Pratap Singh, BJP's candidate from Rae Bareli, the Gandhi bastion?](https://www.firstpost.com/explainers/dinesh-pratap-singh-bjps-rae-bareli-gandhi-13766431.html)
+
+The article discusses the political journey of **Dinesh Pratap Singh**, a former Congress member who joined the BJP in 2018. Singh, who hails from the Thakur community and has served as a minister in Uttar Pradesh, began his political career with the Congress and was once close to the Gandhi family. However, after being suspended from the Congress for alleged misconduct, he switched allegiance to the BJP. He contested the 2019 Lok Sabha elections from Rae Bareli against Sonia Gandhi but lost by a significant margin. Despite the loss, he made history by receiving the highest number of votes for a BJP candidate in Rae Bareli. In 2022, he was elected as an MLC for the third time on a BJP ticket.
+
+The focus then shifts to the Congress party's decisions regarding candidates for the upcoming Lok Sabha elections, particularly for the constituencies of Amethi and Rae Bareli, traditional strongholds of the Gandhi family. The article highlights the uncertainty within the Congress about fielding candidates from the Gandhi family for these seats. With the last date for filing nominations approaching, the Samajwadi Party has suggested that Rahul Gandhi and Priyanka Gandhi's candidature could benefit the opposition. The Congress Central Election Committee has authorized its president, Mallikarjun Kharge, to make the final decision on the candidates, with an announcement expected soon. Speculation continues about whether members of the Gandhi family will contest from Amethi and Rae Bareli, as local Congress units have expressed their desire for their participation. The article concludes with the information that the counting of votes for the Lok Sabha polls will occur on June 4.
+
+Thu, 2 May 2024 20:20:51 +0530
+### [Why beer tastes better when it’s cold. The science explained](https://www.firstpost.com/explainers/beer-tastes-better-when-its-cold-science-13766401.html)
+
+Researchers have discovered that the taste of beer is significantly affected by its temperature due to the behavior of alcohol. A study by the Chinese Academy of Sciences found that at lower temperatures, ethanol forms chain-like structures, which intensify the taste of beer. This structural change at 5°C enhances the flavor, explaining why many prefer their beer cold. The research also debunks the myth that the order of drinking different types of alcohol affects hangover severity, clarifying that it's the amount and speed of consumption that are the main factors. These insights could influence the alcoholic beverage industry to optimize flavor profiles while maintaining lower alcohol concentrations. Coors Brewing Company has even introduced a color-changing label to indicate the ideal drinking temperature for beer. Despite the science, the preference for cold beer is a universal one.
+
+Thu, 2 May 2024 19:32:14 +0530
+### [Heeramandi and the forgotten role of tawaifs in India’s freedom struggle](https://www.firstpost.com/explainers/heeramandi-role-of-tawaifs-courtesans-indias-freedom-struggle-british-rule-13766355.html)
+
+Netflix's series "Heeramandi: The Diamond Bazaar" sheds light on the role of courtesans, or tawaifs, in India's freedom struggle. These women, skilled in arts like music and dance, were influential and wealthy, enjoying patronage from the elite. Their zenith was under the Mughal rule, where they were seen as symbols of status and culture.
+
+The series highlights their significant but often overlooked contributions to the independence movement. Tawaifs provided financial support, served as meeting points for rebels, and inspired freedom fighters. Notable figures include Azeezunbai, who actively participated in the 1857 uprising, and Begum Hazrat Mahal, who led Indian fighters in Lucknow.
+
+Post-mutiny, the British crackdown diminished their social standing, equating their profession with prostitution. Despite this, courtesans like Gauhar Jaan contributed to the Swaraj Fund, and others supported Gandhi's non-cooperation movement.
+
+"Heeramandi" aims to honor these unsung heroes, whose stories are rarely told in history books, reminding us of their enduring legacy in India's journey to independence. The series is a tribute to their resilience and the crucial role they played during a pivotal time in India's history.
+
+Thu, 2 May 2024 19:08:21 +0530
+### [What is 'vote jihad' which PM Modi brought up at Gujarat rally?](https://www.firstpost.com/explainers/vote-jihad-pm-modi-gujarat-rally-13766396.html)
+
+The article discusses the controversy surrounding the term 'vote jihad' used by Samajwadi Party leader Maria Alam, niece of Congress leader Salman Khurshid, during the Lok Sabha election campaign. Alam's call for 'vote jihad' was criticized by Prime Minister Narendra Modi, who accused the INDI alliance of insulting democracy and the Constitution. The term was used to encourage Muslims to vote intelligently and unitedly against the current government. Alam's comments led to a viral video and an FIR lodged against her and Khurshid for allegedly violating the Model Code of Conduct and inciting religious sentiments. Alam defended her remarks, stating her intention was not to offend but to encourage active participation in the democratic process. The BJP condemned the use of the term, with BJP IT cell chief Amit Malviya and spokesperson Shehzad Poonawalla criticizing the INDI alliance. Modi also attacked the Congress, linking it to Pakistan and accusing it of weakening India's stance against terrorism. The article includes various quotes and reactions from political figures and ends with a note on copyright by Firstpost.
+
+Thu, 2 May 2024 17:38:27 +0530
+### [Vietnam War, Apartheid, and now Gaza conflict: When Columbia University was gripped by student protests](https://www.firstpost.com/explainers/vietnam-war-apartheid-gaza-conflict-columbia-university-student-protests-history-13766303.html)
+
+The article discusses a series of protests at Columbia University, highlighting its history of activism. Recently, the university has been a central site for demonstrations against Israel's actions in Gaza, with students demanding divestment from Israel. This mirrors past protests, notably the 1968 anti-Vietnam War protests, where students occupied buildings and faced violent police action. The article also recalls the 1985 anti-apartheid protests, leading to Columbia's divestment from South Africa, and the 1996 protests for an ethnic studies department. Additionally, it mentions the 2014 "Mattress Protest" by Emma Sulkowicz, a student who carried her mattress around campus to protest the university's handling of her sexual assault case. These events underscore Columbia's long-standing role in student activism and social justice movements.
+
+Thu, 2 May 2024 16:55:43 +0530
+### [Will US campus protests over Gaza cost Joe Biden the presidency?](https://www.firstpost.com/explainers/us-campus-protests-gaza-joe-biden-13766297.html)
+
+The article discusses the potential impact of pro-Palestinian protests on US campuses on President Joe Biden's popularity and prospects for the upcoming November election. It highlights concerns among Democrats that Biden's less favorable stance among young voters compared to four years ago, coupled with his criticism of anti-Semitic protests and lack of clear stance on Palestinian issues, may lead to decreased youth voter turnout. Polls indicate that while the Gaza war is not the top priority for young voters, who are more concerned with inflation and healthcare, Biden's lead among this demographic has significantly decreased since 2020. Experts suggest that Biden's perceived disregard for young people's views on the Gaza conflict could be perilous, as they may choose not to vote at all. The article also touches on the division of opinions along party lines, with Republicans generally approving of Israel's military actions in Gaza more than Democrats. The possibility of protests affecting the election, the need for Biden to address young voters' feelings, and the historical parallels to the 1968 Democratic National Convention are also discussed. The article concludes with insights from various political figures and strategists on the complex nature of the situation and the challenges facing Biden's campaign.
+
+Thu, 2 May 2024 16:15:02 +0530
+### [Who is Allan Lichtman, the ‘Nostradamus’ of US presidential polls? What are his predictions for Biden vs Trump?](https://www.firstpost.com/explainers/who-is-allan-lichtman-the-nostradamus-of-us-presidential-polls-what-are-his-predictions-for-biden-vs-trump-13766240.html)
+
+Allan Lichtman, a history professor at American University, is known for his "13 keys" model which has accurately predicted nine out of the last ten US presidential elections. The model, developed with seismologist Vladimir Keilis-Borok, uses 13 true/false criteria to assess the incumbent party's performance and likelihood of retaining the White House. These criteria include economic performance, social unrest, scandal, policy change, and the charisma of the candidates.
+
+Lichtman's method gained prominence after he accurately predicted Ronald Reagan's re-election in 1984. Despite some skepticism and a controversial prediction in the 2000 election, Lichtman's approach has been influential in political forecasting. In 2016, he correctly foresaw Donald Trump's victory and later his impeachment.
+
+Looking ahead to the 2024 election, Lichtman notes that President Biden holds two of the keys—incumbency and no serious contest for the Democratic nomination. Lichtman suggests that a significant number of additional keys would need to turn against Biden for him to lose the election. However, he acknowledges the unpredictability of politics and the potential impact of unforeseen events, such as Trump's criminal trial, on the election outcome. Lichtman's predictions are based on historical patterns dating back to 1860, but he admits that no system is perfect and remains aware of the variables that could alter the political landscape.
+
+Thu, 2 May 2024 15:41:54 +0530
+### [Ukraine unveils ‘world’s first’ AI-generated foreign ministry spokesperson. How will it work?](https://www.firstpost.com/explainers/victoria-shi-worlds-first-ai-generated-foreign-ministry-spokeswoman-ukraine-13766193.html)
+
+Ukraine has introduced the world's first AI spokesperson, Victoria Shi, for its foreign ministry. Victoria, who resembles a human and can make gestures, symbolizes Ukraine's victory and represents a technological leap in diplomacy. She was created by The Game Changers, a local firm, and is based on Ukrainian singer Rosalie Nombre. The AI will provide updates on consular affairs, aiming to save time and resources, allowing diplomats to focus on assisting citizens more effectively. To combat digital interference, each video featuring Victoria will have a QR code linking to an official text version of her statements. This innovation is seen as a step towards the future of diplomatic communication.
+
+Thu, 2 May 2024 15:21:34 +0530
+### [Hottest April in parts of India. Will May be warmer?](https://www.firstpost.com/explainers/hottest-april-india-will-may-be-warmer-13766258.html)
+
+India is experiencing a severe heatwave, with temperatures reaching record highs. April was notably the warmest month on record, affecting even typically cooler regions. The India Meteorological Department (IMD) forecasts that this trend will continue into May, with an expected high number of heatwave days across the northern plains, central regions, and parts of peninsular India. 
+
+Regions like south Rajasthan, west Madhya Pradesh, and parts of Maharashtra and Gujarat may experience 8 to 11 heatwave days. Other areas, including Punjab, Haryana, Delhi, and parts of Uttar Pradesh, are predicted to have 5 to 7 heatwave days. While most of the country will see above-normal maximum temperatures, some parts of northeast India, northwest and central India may experience normal to below-normal temperatures.
+
+Rainfall is expected to be normal to above-normal in northwest India and some central, peninsular, and northeast regions. However, below-normal precipitation is likely in other parts of the country. The extreme heat in April was attributed to the absence of thunderstorms and a persistent anticyclone over the Bay of Bengal, which disrupted the sea breeze in Odisha and West Bengal. The IMD had previously warned of extreme heat during the April-June period, which coincided with the Lok Sabha elections, prompting calls for precautionary measures. The Election Commission has established a task force to assess the impact of the heatwave on the elections.
+
+Thu, 2 May 2024 14:15:46 +0530
+### [Did the Election Commission delay voter turnout data of the first 2 phases?](https://www.firstpost.com/explainers/lok-sabha-polls-2024-election-commission-final-voter-turnout-numbers-opposition-13766254.html)
+
+The article discusses the scrutiny faced by the Election Commission of India (ECI) due to the delayed release of final voter turnout data for the first two phases of the general elections. The final figures, which showed a 5.75% increase from the provisional numbers, were released 11 days after the first phase and four days after the second phase, leading to criticism from the opposition. Concerns were raised about the credibility of Electronic Voting Machines (EVMs) and the possibility of result manipulation. The ECI has not officially commented on the issue, but sources claim that the data is accurate and cannot be altered. The article also mentions that the ECI is criticized for not including the total number of registered electors per constituency in its data release, a departure from past practices. Political figures and activists have expressed unease over the delay and lack of transparency, which they believe could undermine public trust in the electoral process. Former Election Commissioner Ashok Lavasa stated that while the procedure to calculate voter turnout is usually quick, sometimes authentication of data can cause delays. He dismissed concerns over discrepancies in the vote count. The article concludes without a definitive response from the ECI on the matter.
+
+Thu, 2 May 2024 14:15:26 +0530
+### [How India saved $13 billion by importing Russian crude oil](https://www.firstpost.com/explainers/india13-billion-importing-russian-crude-oil-13766234.html)
+
+According to a study by the Investment Information and Credit Rating Agency (ICRA), India has saved billions of dollars by importing discounted Russian crude oil amidst the Ukraine conflict. India's crude imports from Russia rose to 36% in the 11 months of the 2024 fiscal year, up from 2% in 2022. This shift resulted in a decrease in imports from West Asian countries like Saudi Arabia, the UAE, and Kuwait, which dropped to 23% from 34%. The discounted Russian oil prices were about 16.4% and 15.6% lower than those from West Asia in FY 2023 and the 11 months of FY2024, respectively.
+
+The savings from these discounts have been significant, with ICRA estimating a reduction in India's oil import bill by $5.1 billion in FY2023 and $7.9 billion in 11M FY2024. This trend continued into April 2024, with increased imports from Russia and decreased imports from Iraq and Saudi Arabia. The discounts offered by Russia, which were around $30 per barrel in 2022, have declined to less than $5 per barrel in 2024. Despite the decline, the discounts have helped compress India's current account deficit (CAD)/GDP ratio by 15-22 basis points in FY2023-24.
+
+The report also notes potential risks, such as any escalation in the Iran-Israel conflict, which could increase the value of oil imports. Assuming an average crude oil price of $85 per barrel, ICRA projects India's net oil import bill could widen to $101-104 billion in FY2025 from $96.1 billion in FY2024. A $10 per barrel increase in the average crude oil price could push the net oil imports up by around $12-13 billion during the year, enlarging the CAD by 0.3% of the GDP.
+
+India's dependency on oil imports remains high, over 85%, and the value of its imports of petroleum crude and products declined by 15.2% year-on-year during April-February of the last fiscal year, supported by lower global crude oil prices and savings from increased purchases of discounted Russian crude. The US has not asked India to cut Russian oil imports, emphasizing the G7-imposed $60 per barrel price cap to maintain stable global oil supplies while limiting Moscow's revenue. The sanctions aim to restrict Russia's options to selling oil under the price cap, offering deeper discounts, or shutting down oil wells. The G7 has the option to review the price cap based on market conditions or other factors.
+
+Thu, 2 May 2024 13:25:41 +0530
+### [China begins trials of aircraft carrier Fujian: How does it compare to INS Vikrant?](https://www.firstpost.com/explainers/fujian-aircraft-carrier-china-sea-trials-compare-india-ins-vikrant-13766226.html)
+
+China has launched sea trials for its newest aircraft carrier, Fujian, marking a significant advancement in its naval capabilities. The carrier, named after the Fujian province, is the country's most advanced and largest, boasting upgrades such as an Electromagnetic Aircraft Launch System (EMALS) and a larger airwing. The trials aim to test its propulsion and electrical systems, with experts suggesting it will take about a year to complete. Comparisons are drawn between Fujian and India's INS Vikrant, highlighting differences in size, capabilities, and technology. While INS Vikrant is India's largest carrier, Fujian's advancements place it ahead in naval power, positioning China as a formidable force in the region.
+
+Thu, 2 May 2024 12:45:10 +0530
+### [Has your iPhone alarm stopped going off? Here's why it could be](https://www.firstpost.com/explainers/has-your-iphone-alarm-stopped-going-off-heres-why-it-could-be-13766196.html)
+
+Some iPhone users are facing a frustrating problem where their alarms fail to ring in the morning, leading to oversleeping. Apple has acknowledged the issue and is working on a solution. Speculation suggests the attention awareness feature might be causing the glitch, muting alarms if it detects inattention. While awaiting an official fix, users can try troubleshooting steps like checking alarm settings and volume. Turning off the attention awareness feature might temporarily solve the problem for some users. Apple has assured users of resolving the issue promptly, but in the meantime, relying on traditional alarm clocks may be necessary.
+
+Thu, 2 May 2024 12:03:31 +0530
+### [Quicksplained: Who is Shyam Rangeela, a comedian who will contest against PM Modi in Varanasi?](https://www.firstpost.com/explainers/comedian-shyam-rangeela-contest-2024-lok-sabha-elections-against-pm-modi-varanasi-13766151.html)
+
+Comedian Shyam Rangeela, known for his mimicry of Indian politicians, has announced his independent candidacy for the Lok Sabha elections from Varanasi, challenging Prime Minister Narendra Modi. Rangeela, who rose to fame through television shows and was once a self-proclaimed "Modi bhakt," faced restrictions on his mimicry acts, leading him to pursue "politics via comedy." After a brief association with the Aam Aadmi Party (AAP), he decided to contest independently to ensure that democracy is more than symbolic. The Varanasi constituency will vote on June 1, with results announced on June 4. Despite PM Modi's strong popularity in Varanasi, Rangeela is determined to remain on the ballot, emphasizing the need for electoral competition. Congress has nominated Ajay Rai to contest against Modi as well. Rangeela's move from entertainment to politics highlights the intersection of comedy and political expression in India.
+
+Thu, 2 May 2024 11:39:20 +0530
+### [BJP expels senior leader in J&K’s Poonch over ‘hate speech’. What happened?](https://www.firstpost.com/explainers/bjp-expels-senior-leader-jk-poonch-hate-speech-13766147.html)
+
+The BJP expelled senior leader Satish Bhargav for making "unparliamentary language" and "hate speech" against certain Pahari leaders in Mendhar, Jammu and Kashmir. This move comes amid the ongoing Lok Sabha election, the first significant one post the abrogation of Article 370. Bhargav's remarks, warning Pahari leaders aligning with the PDP and NC, evoked historical tensions. J&K BJP chief Ravinder Raina expelled Bhargav for six years, citing "gross indiscipline." The PDP complained of intimidation tactics, urging investigation. Poonch district's Pahari vote holds significance in the Anantnag-Rajouri parliamentary constituency.
+
+Thu, 2 May 2024 11:35:51 +0530
+### [Interest rate in the US at 23-year-high; here's why the Fed is not slashing rates](https://www.firstpost.com/explainers/interest-rate-in-the-us-at-23-year-high-heres-why-the-fed-is-not-slashing-rates-13766183.html)
+
+The article discusses the current situation in the United States where interest rates are at a 23-year high, impacting citizens' ability to pay off debt. Despite this, the Federal Reserve has decided not to cut benchmark lending rates, primarily due to persistent high inflation. Fed Chair Jerome Powell emphasizes the need for greater confidence in inflation slowing sustainably before considering rate cuts. Economic growth, robust consumer spending, and a strong labor market further complicate the Fed's decision-making. While there were earlier predictions of multiple rate reductions in 2024, ongoing high inflation has reduced expectations to only one rate cut, likely in November. There's also concern about potential interest rate adjustments coinciding with the 2024 presidential election, but the Fed aims to remain independent of political influence.
+
+Thu, 2 May 2024 10:18:03 +0530
+### [How pro-Palestine protest at California's UCLA turned into a violent brawl](https://www.firstpost.com/explainers/pro-palestine-protest-california-ucla-violent-brawl-duelling-protesters-13766155.html)
+
+Article found but Couldn't summarize 
+The University of California at Los Angeles (UCLA) turned into a battle zone when masked and hooded people attacked demonstrators at a pro-Palestinian encampment. Visuals showed students being hit with sticks and fireworks. California governor Gavin Newsom has slammed the police response and called for a thorough probe
+
+Thu, 2 May 2024 08:51:53 +0530
+### [High on workouts: Can marijuana make exercise more fun?](https://www.firstpost.com/health/high-on-workouts-can-marijuana-make-exercise-more-fun-13765621.html)
+
+In Western countries, there's a growing trend of using cannabis to enhance exercise routines. Recent studies explore this unconventional relationship, investigating if marijuana can boost enjoyment and performance during physical activity. A groundbreaking study at the University of Colorado Boulder found that cannabis consumption before exercise increased enjoyment but didn't significantly affect performance. Surveys reveal that many Americans combine cannabis with activities like hiking, yoga, and weightlifting, citing benefits in recovery. However, experts caution against indiscriminate use, advocating for personalized approaches and dosage moderation due to potential risks. Further research is needed to understand the long-term effects of cannabis on exercise.
+
+Thu, 2 May 2024 06:00:02 +0530
+### [FirstUp: London heads to polls to elect its mayor and more... The news today](https://www.firstpost.com/explainers/firstup-london-heads-to-polls-to-elect-its-mayor-and-more-the-news-today-13766043.html)
+
+The article discusses several key developments: London's mayoral race, where incumbent Sadiq Khan faces stiff competition from Conservative candidate Susan Hall, along with Delhi-born entrepreneur Tarun Ghulati's independent candidacy, Prime Minister Narendra Modi's campaign in Gujarat ahead of state elections, re-polling ordered by the Election Commission of India in a booth in Rajasthan, and summons issued by Delhi Police to Jharkhand Congress president Rajesh Thakur regarding an edited video of Union Home Minister Amit Shah. It also mentions the postponement of a defamation case involving Congress leader Rahul Gandhi and BJP leader Vijay Mishra and commemorates the 10th anniversary of Osama bin Laden's death.
+
+Wed, 1 May 2024 19:32:02 +0530
+### [Who is Minouche Shafik, Columbia University's president at the centre of campus turmoil?](https://www.firstpost.com/explainers/minouche-shafik-columbia-university-president-campus-turmoil-13765909.html)
+
+Article found but Couldn't summarize 
+An esteemed economist, Minouche Shafik was thrilled to become president of one of America's most prestigious colleges. But her name will now be tied with dramatic images of New York police arresting pro-Palestinian students at the Columbia University campus. Here’s what we know about her
+
+Wed, 1 May 2024 18:35:06 +0530
+### [What is GPS jamming, a growing concern for global aviation?](https://www.firstpost.com/explainers/gps-jamming-aviation-aircraft-estonia-russia-13765939.html)
+
+Estonia has accused Russia of jamming GPS signals in the Baltic airspace, a claim made without evidence but following GPS-related flight disturbances. GPS jamming and spoofing, where signals are blocked or falsified, pose risks to aviation as they can disrupt navigation. Despite alternative sensors, GPS remains crucial for airlines, and interference can lead to stress and delays. Incidents have increased globally, particularly in conflict zones and now reportedly at lower altitudes and broader areas. The industry is focusing on pilot training to recognize and respond to such threats, as technological solutions are challenging to implement. Indian authorities have also issued guidelines to address these risks. This reflects a growing concern over GPS interference in international aviation.
+
+Wed, 1 May 2024 17:36:17 +0530
+### [Is a near-permanent heatwave coming to the Indian Ocean?](https://www.firstpost.com/explainers/is-a-near-permanent-heatwave-coming-to-the-indian-ocean-13765960.html)
+
+Article found but Couldn't summarize 
+Raising the alarm, a recent study has unveiled a dire forecast: The Indian Ocean's warming trajectory will lead to severe cyclones and intense rainfall occurrences. Furthermore, the world's third-largest body of water is on track to transition into a near-constant state of heatwaves
+
+Wed, 1 May 2024 16:50:41 +0530
+### [A Rs 59,000-crore matter: How Godrej family will split its 127-year-old business empire](https://www.firstpost.com/explainers/godrej-family-group-split-business-empire-pact-13765953.html)
+
+The Godrej Group, a conglomerate established in 1897 as a lock-maker, is undergoing a split into two branches. Adi Godrej and his brother Nadir will retain control of the listed entities, while their cousins Jamshyd and Smita will oversee unlisted companies and the land bank. The split, termed "an ownership realignment," aims to maintain harmony among family members with differing visions. Adi and Nadir's branch will manage listed companies, while Jamshyd and Smita's branch will oversee Godrej & Boyce and the land bank. Both groups will continue to use the Godrej brand name. The realignment process will occur after obtaining regulatory approvals.
+
+Wed, 1 May 2024 16:38:38 +0530
+### [Florida's near-total abortion ban comes into force: Here's how it'll affect multiple American states](https://www.firstpost.com/explainers/floridas-abortion-ban-news-impact-multiple-american-states-13765948.html)
+
+Florida has implemented a near-total abortion ban, prohibiting abortions once a fetal heartbeat is detected, typically around six weeks into pregnancy. The law includes exceptions for saving the pregnant woman's life and in cases of rape or incest up to 15 weeks. Providers violating these parameters face penalties. The enforcement led to a surge in demand for abortions before the deadline. With limited options in-state, women now face logistical and financial challenges, including travel costs to states with less strict abortion laws. The possibility of overturning the ban via a referendum coinciding with the presidential election is being discussed amid political debates, with Democrats aiming to mobilize voters against the restrictive laws while Republicans defend it as protection for unborn life.
+
+Wed, 1 May 2024 16:38:24 +0530
+### [US to reclassify marijuana as a less dangerous drug: What does this mean?](https://www.firstpost.com/explainers/us-to-reclassify-marijuana-as-a-less-dangerous-drug-what-does-this-mean-13765803.html)
+
+The US Drug Enforcement Administration (DEA) is considering reclassifying marijuana to a less dangerous drug category, acknowledging its medical uses. This shift, though historic, wouldn't legalize recreational use. Currently a Schedule I drug, alongside heroin and LSD, the proposal would place marijuana under Schedule III, indicating its medical applications and lower potential for abuse. However, this change won't immediately impact recreational or medical marijuana programs. The reclassification could affect research accessibility and business taxes, potentially reducing taxes for cannabis companies. Critics argue that rescheduling is incremental and prefer complete removal from the controlled substances list. Some fear it may perpetuate disparities in law enforcement.
+
+Wed, 1 May 2024 15:21:11 +0530
+### [Quicksplained: All about the world’s deepest blue hole discovered in Mexico](https://www.firstpost.com/explainers/taam-ja-deepest-blue-hole-in-world-discovered-in-mexico-13765845.html)
+
+A team of scientists discovered Taam Jaâ blue hole near the Mexico coast, reaching a depth of at least 1,380 feet, making it the deepest known blue hole yet. Blue holes form in coastal areas where soluble bedrock collapses, creating vertical caverns filled with water. Despite advances in technology, the team couldn't fully explore its depths due to limitations with their equipment. They speculate that Taam Jaâ could be connected to the ocean through unexplored tunnels and caves, potentially harboring undiscovered life forms. This discovery not only sheds light on Earthâs history and geological processes but also highlights the importance of blue holes as biodiversity hotspots and indicators of ocean health.
+
+Wed, 1 May 2024 14:57:51 +0530
+### [Why studying, working in Canada will change this year for expats](https://www.firstpost.com/explainers/why-studying-working-in-canada-will-change-this-year-for-expats-13765887.html)
+
+Canada has recently adjusted regulations affecting international students' ability to work off-campus and their eligibility for post-graduate work permits. The temporary policy allowing students to work more than 20 hours per week off-campus has been terminated, with new restrictions in place starting from April 30, 2024. These changes aim to address a surge in international student enrolments and maintain focus on academic studies. Additionally, alterations to the post-graduation work permit program include eligibility criteria adjustments, affecting students enrolled in certain college programs. Changes to Canada's start-up visa program have also been implemented to reduce backlog and enhance processing times for immigration applications.
+
+Wed, 1 May 2024 13:34:03 +0530
+### [AstraZeneca vaccine’s side effects. Why Covishield takers shouldn’t worry](https://www.firstpost.com/explainers/astrazeneca-covid-vaccine-side-effects-covishield-india-tts-cases-13765864.html)
+
+AstraZeneca has acknowledged in a UK court that its COVID-19 vaccine, Covishield, may cause Thrombosis with Thrombocytopenia Syndrome (TTS) in very rare cases. Despite this, medical experts emphasize there is no cause for alarm, as the benefits of vaccination outweigh the risks, and this side effect was previously known.
+
+**TTS** is a rare condition involving blood clots and low platelet counts, linked to adenovirus vector vaccines like Covishield. Symptoms include headaches, blurred vision, and chest pain. The condition is also known as VIPIT or VITT.
+
+The pharmaceutical company faces legal challenges in the UK, with claims for damages due to alleged vaccine-related harm. AstraZeneca has contested these claims but admitted the potential for TTS in rare instances.
+
+Health authorities and studies suggest that TTS is exceedingly rare, particularly in South Asians. The WHO deems the vaccine safe for adults, and the incidence of TTS is significantly lower in Asian populations. In India, out of 175 crore Covishield doses administered, 36 TTS cases and 18 related deaths were reported in 2021.
+
+Experts advise that vaccine-related adverse effects typically occur within weeks of administration, so those vaccinated two years ago should not worry. Covishield's product information had warnings about TTS, noting that most events happened within 21 days post-vaccination.
+
+In response to AstraZeneca's admission, concerns have been raised on social media, and officials have urged the government to address the issue. However, doctors reiterate that vaccinated individuals have a lower risk of death from COVID-19 and related complications.
+
+The article concludes that while the risk of TTS exists, it remains rare, and the protective benefits of the vaccine are substantial.
+
+Wed, 1 May 2024 12:56:00 +0530
+### [Who is Pierre Poilievre, the Canada Conservative leader ejected from Parliament for calling Trudeau a 'wacko'?](https://www.firstpost.com/explainers/who-is-pierre-poilievre-the-canada-conservative-leader-ejected-from-parliament-for-calling-trudeau-a-wacko-13765830.html)
+
+Conservative leader Pierre Poilievre was expelled from the Canadian House of Commons after refusing to apologize for calling Prime Minister Justin Trudeau a 'wacko' and 'extremist'. Poilievre's comments sparked a heated confrontation during a session, leading Speaker Greg Fergus to expel him. Poilievre, known for his conservative stance and populist rhetoric, has been compared to Donald Trump. He aims to abolish the carbon tax and has garnered support from various conservative factions. As Canada approaches the next election, polls suggest the Conservatives could secure a significant majority over the ruling Liberals.
+
+Wed, 1 May 2024 12:20:55 +0530
+### [What is causing Kenya's deadly rains which have claimed more than 160 lives?](https://www.firstpost.com/explainers/kenya-floods-2024-dam-burst-long-rains-13765757.html)
+
+Kenya is facing severe floods, with authorities warning of more rain to come. The floods have already caused significant damage, displacing over 190,000 people and leading to numerous casualties. While some attribute the floods to the El Nino weather phenomenon, research suggests that climate change has minimal influence on rainfall during Kenya's "long rains" season. The current heavy downpours are a result of various factors, including seasonal weather cycles, climate change, and natural weather phenomena. Despite efforts to predict the weather, it has become increasingly challenging due to changing weather patterns. The forecast indicates ongoing heavy rainfall and the risk of flooding and landslides in various regions.
+
+Wed, 1 May 2024 11:56:50 +0530
+### [Why is Israel's Netanyahu firm on attacking Rafah?](https://www.firstpost.com/explainers/israel-benjamin-netanyahu-attack-rafah-gaza-hamas-war-13765770.html)
+
+Article found but Couldn't summarize 
+Israel has approved military plans for its offensive in Rafah and has moved troops and tanks to southern Israel in apparent preparation, but it is unclear when or if it will occur
+
+Wed, 1 May 2024 10:10:57 +0530
+### [In Photos and Videos: Inside the police raid at Columbia University](https://www.firstpost.com/explainers/photos-videos-police-raid-columbia-university-pro-palestine-protesters-13765752.html)
+
+Police entered Columbia University to clear pro-Palestinian protesters who had occupied Hamilton Hall for nearly two weeks. The protesters ignored calls to clear the encampment, prompting the university to suspend students. In response, students seized Hamilton Hall, renaming it Hind Hall after a Gaza girl. NYPD officers stormed the building, arresting many protesters. Columbia University officials stated they called the police after the university requested help due to vandalism and blockades by protesters, emphasizing that the decision was in response to protester actions, not their cause.
+
+Wed, 1 May 2024 10:02:27 +0530
+### [Did Manipur cops drive two women, who were paraded naked and sexually assaulted, to the mob?](https://www.firstpost.com/explainers/manipur-violence-women-paraded-naked-sexually-assaulted-mob-video-police-cbi-13765753.html)
+
+Article found but Couldn't summarize 
+The horrific videos of two women from the Kuki-Zomi community in Manipur being paraded naked by a mob went viral last July, stirring a nationwide outrage. Now, a chargesheet by the Central Bureau of Investigation, filed in October, has come to light, alleging the complicity of the police personnel in the gang-rape case
+
+Wed, 1 May 2024 09:05:42 +0530
+### [Japan's rising bear attacks: Can AI come to its rescue?](https://www.firstpost.com/explainers/japan-bear-attacks-use-of-artificial-intelligence-ai-13765457.html)
+
+Japan has experienced a surge in bear attacks, with 198 reported in the last year alone. In response, the government plans to trial an AI system to detect bears more effectively. The system will analyze surveillance footage to identify bears and alert authorities, starting with a pilot in Toyama Prefecture. Factors contributing to the increase in attacks include food scarcity and encroachment into human habitats. If successful, the AI system could be deployed nationwide. Other initiatives, such as surveillance cameras in bear habitats, are also being implemented to mitigate conflicts.
+
+Wed, 1 May 2024 05:00:08 +0530
+### [FirstUp: Revanth Reddy to appear before Delhi police, Weinstein in court... Top headlines today](https://www.firstpost.com/explainers/firstup-revanth-reddy-delhi-police-harvey-weinstein-in-new-york-court-top-headlines-today-13765567.html)
+
+Telangana CM Revanth Reddy is summoned by Delhi police over an alleged doctored video of Amit Shah, while Florida enforces a new law limiting abortions after six weeks. Maharashtra Day is celebrated with parades and ceremonies. Additionally, symbol loading units will be sealed as per court orders. The Supreme Court will address West Bengal's complaint against CBI probes, and Harvey Weinstein is due in a New York court. Meanwhile, Google's antitrust trial concludes, and Gujarat Super League begins. IPL continues with CSK versus PBKS, amidst various notable anniversaries and events.
+
+Tue, 30 Apr 2024 20:28:38 +0530
+### [Mapped | From US to Australia, how pro-Palestine students’ protests are spreading](https://www.firstpost.com/explainers/mapped-us-australia-pro-palestine-students-protests-13765669.html)
+
+Article found but Couldn't summarize 
+Students at various universities across the world are staging protests against Israel’s war in Gaza. Their demand is that the administrations divest and sever ties with the Jewish nation
+
+Tue, 30 Apr 2024 19:45:10 +0530
+### [Protesters rename Columbia's Hamilton Hall 'Hind's Hall': Who was Palestinian girl Hind Rajab?](https://www.firstpost.com/explainers/protesters-columbias-hamilton-hall-hinds-hall-palestinian-girl-hind-rajab-13765640.html)
+
+The article recounts the tragic story of six-year-old Palestinian girl Hind Rajab, who, along with her family, was killed while trying to flee Israeli bombing in Gaza. Hind's desperate plea for help went viral after a phone call to the Palestinian Red Crescent. Despite efforts to coordinate a rescue, Hind and her family were allegedly targeted by Israeli forces. The incident sparked protests at Columbia University, where activists renamed a building in Hind's honor. While Israel denies involvement, evidence suggests otherwise, highlighting the ongoing conflict's human toll.
+
+Tue, 30 Apr 2024 19:02:23 +0530
+### [Jeff Bezos uses ‘mind wandering’ to boost productivity: Here’s why it is not as bad as it seems](https://www.firstpost.com/explainers/jeff-bezos-uses-mind-wandering-to-boost-productivity-know-benefits-13765408.html)
+
+Jeff Bezos, the founder of Amazon, embraces the practice of letting his mind wander during work, a technique he credits with boosting productivity and making work enjoyable. In a podcast with Lex Fridman, Bezos explained that he avoids strict schedules, allowing for extended brainstorming sessions. Mind wandering, different from daydreaming, involves shifting attention from tasks to internal thoughts, ultimately fostering creativity. Studies show that as tasks progress, the mind tends to wander more. Bezos employs this method to analyze ideas' pros and cons before presenting them for group brainstorming, a process he finds both enjoyable and productive. Mind wandering benefits include unlocking creative potential, reducing stress, and preventing fatigue, although it can be harmful if not used appropriately.
+
+Tue, 30 Apr 2024 18:25:30 +0530
+### [Is the ICC likely to issue arrest warrants to Israeli leaders?](https://www.firstpost.com/explainers/is-the-icc-likely-to-issue-arrest-warrants-to-israeli-leaders-13765566.html)
+
+I can summarize the article for you. Israeli officials are increasingly worried about potential arrest warrants from the International Criminal Court (ICC) for their country's leaders due to actions during the Israel-Hamas war. Prime Minister Benjamin Netanyahu has expressed concern over possible ICC action against Israeli troops and officials. The ICC, established in 2002, prosecutes individuals for war crimes, crimes against humanity, genocide, and aggression. Israel's Foreign Ministry is monitoring reports of potential action. The ICC has jurisdiction when nations fail to prosecute crimes. Israel disputes this, arguing it has a functioning court system. The ICC has 17 ongoing investigations, including into the Israel-Palestine conflict. ICC Prosecutor Karim Khan has called for investigations into possible crimes by both Hamas militants and Israeli forces. Other leaders previously charged by the ICC include Russian President Vladimir Putin and Sudanese strongman Omar al-Bashir.
+
+Tue, 30 Apr 2024 18:00:24 +0530
+### [Bitter truth: What is the devastating virus that threatens the world's chocolate supply?](https://www.firstpost.com/explainers/west-africa-ghana-cacao-tree-virus-world-chocolate-supply-13765484.html)
+
+The cacao crisis in West Africa, driven by the Cacao Swollen Shoot Virus Disease (CSSVD), is severely impacting global chocolate production. The virus, transmitted by mealybugs, causes symptoms like stem and root swelling, leaf discoloration, and reduced pod size. Ghana has already lost millions of trees, affecting cocoa production. The disease's spread threatens global chocolate supply, with solutions like vaccination and strategic tree spacing proposed but facing challenges. As prices rise, consumers may face expensive chocolates, signaling a significant shift in the industry.
+
+Tue, 30 Apr 2024 17:36:46 +0530
+### [13-year-old killed in London sword attack: How stabbings, knife crimes are rising in UK](https://www.firstpost.com/explainers/sword-attack-london-stabbing-knife-crime-rising-uk-13765575.html)
+
+A man wielding a sword was arrested in northeast London's Hainault after attacking members of the public and police officers, resulting in casualties, including the death of a 13-year-old boy. This incident underscores the concerning rise in knife crimes in the UK, with data showing a seven percent increase compared to the previous year. The surge in knife-related incidents has prompted discussions on factors contributing to this trend, including a sense of insecurity among youths and the influence of county lines gangs expanding into rural areas. Efforts to address knife crime include campaigns led by public figures like Idris Elba and government measures to ban certain types of knives. However, addressing knife crime requires collective responsibility from both authorities and society.
+
+Tue, 30 Apr 2024 17:30:15 +0530
+### [Israel-Hamas truce on table: What is in the proposed peace plan?](https://www.firstpost.com/explainers/israel-hamas-truce-on-table-what-is-in-the-proposed-peace-plan-13765530.html)
+
+Article found but Couldn't summarize 
+A deal to call a truce in the Israel-Gaza conflict is seemingly in the offing after a senior Hamas delegation travelled to Egypt for the latest round of negotiations. While Israel is proposing releasing Palestinians from its prisons in exchange for 33 hostages and a 'period of sustained calm,' Hamas wants a permanent ceasefire. But will the offer that US secretary of state Antony Blinken described as 'generous' be accepted?
+
+Tue, 30 Apr 2024 16:39:55 +0530
+### [1 kg flour for Rs 800, roti for Rs 25: How Pakistan’s inflation is the highest in nearly 50 years](https://www.firstpost.com/explainers/1-kg-flour-for-rs-800-roti-for-rs-25-how-pakistans-inflation-is-the-highest-in-nearly-50-years-13765396.html)
+
+In Pakistan, inflation has skyrocketed, with rates reaching as high as 38%, the highest in South Asia. Food inflation has surged to 48%, hitting its peak since 2016. The economic crisis has made it increasingly difficult for the common man to afford basic necessities, with prices for items like flour and roti significantly rising. The government's decision to devalue the currency and eliminate subsidies has worsened the cost-of-living crisis. At the heart of these challenges lies the issue of fair wages, which not only affect individuals but also impact the overall development of the country. Fair wages are crucial for breaking the cycle of poverty, fostering social cohesion, reducing income inequality, and promoting economic growth. Both the government and businesses need to ensure fair wages are upheld and enforced across all sectors of the economy. Additionally, investing in education and skill development is vital to empower workers and improve productivity. Prioritizing fair wages can lead Pakistan towards a more just, prosperous, and sustainable future for all its citizens.
+
+Tue, 30 Apr 2024 16:08:35 +0530
+### [Why Congress is undecided about Rahul, Priyanka's nomination from Amethi, Rae Bareli](https://www.firstpost.com/explainers/congress-undecided-about-rahul-gandhi-priyanka-gandhi-amethi-raebareli-13765502.html)
+
+The Congress party has yet to disclose its nominations for the key constituencies of Amethi and Rae Bareli, sparking speculation about Rahul and Priyanka Gandhi’s potential candidacies. These seats hold immense significance due to their historical ties with the Nehru-Gandhi family and the party's traditional stronghold there. The delay in announcing candidates has led to various theories, from strategic maneuvering to internal indecision. The article explores the potential challenges for the Gandhi siblings if they decide to contest, including strategic dilemmas and the risk of electoral defeat. The outcome of their decisions could have significant implications for the Congress party's image and electoral prospects.
+
+Tue, 30 Apr 2024 15:30:47 +0530
+### [Severe heatwave in India: Why this April has been warmer than previous years](https://www.firstpost.com/explainers/india-severe-heatwave-april-warmer-than-previous-years-13765327.html)
+
+India is experiencing an intense heatwave, with April seeing record-breaking temperatures across various regions, including traditionally cooler hill stations. The Core Heatwave Zone, which includes states like Rajasthan, Punjab, and Telangana, is particularly affected. Unusual heat is also reported in Karnataka, Kerala, and other states. Deaths in Kerala and Odisha have been attributed to the extreme temperatures, which have prompted local authorities to take measures to protect citizens.
+
+The heatwave is not confined to India; neighboring Bangladesh and Myanmar have also reported record temperatures, leading to school closures and health warnings. West African nations like Mali and Burkina Faso have suffered from heatwaves as well, resulting in numerous fatalities.
+
+Scientists attribute the severe heat to climate change, which increases the frequency and intensity of heatwaves. Additionally, the El Niño phenomenon and anticyclone systems are exacerbating the situation by causing abnormal warming and air subsidence, respectively. The Indian Meteorological Department (IMD) has issued red and orange alerts for several states, indicating that the heatwave is expected to continue in the coming days. Global temperatures have been rising, with Asia experiencing some of the most rapid warming, affecting glaciers and contributing to extreme weather events. The World Meteorological Organisation (WMO) has highlighted the severe impact of heatwaves in Asia, exacerbated by climate change.
+
+Tue, 30 Apr 2024 15:01:35 +0530
+### [Why do political parties want EC to delay 7 May polls in J&K’s Anantnag?](https://www.firstpost.com/explainers/political-parties-ec-polls-jks-anantnag-13765470.html)
+
+Several political parties in Jammu and Kashmir, including the BJP, J&K Apni Party, People's Conference, and Democratic Progressive Azad Party (DPAP), have requested the Election Commission to postpone the upcoming vote for the Anantnag-Rajouri Lok Sabha seat, citing snowfall and landslides that have disrupted their campaign efforts. However, there are speculations that there may be other reasons behind this request.
+
+The Anantnag-Rajouri constituency was formed in 2022 after a delimitation process that altered voter demographics, favoring tribal voters over Kashmiri speakers. The seat now includes voters from both the Pir Panjal valley and the Kashmir valley, with a total of 18.29 lakh voters across 18 Assembly segments.
+
+Local parties have criticized the delimitation, claiming it was designed to benefit the BJP. Ghulam Nabi Azad of the DPAP criticized the process as lacking proper consideration, particularly regarding the geographical divide between the regions.
+
+The BJP has been courting the Scheduled Tribes (STs) in the constituency by implementing the Forest Rights Act and adding the Pahari ethnic group to the ST list, along with creating specific quotas in jobs and education.
+
+For the upcoming polls, 25 candidates have filed nominations, but the BJP has not fielded a candidate, reportedly due to the Muslim majority in the constituency. Key candidates include Mehbooba Mufti of the PDP, Mian Altaf of the NC, Zaffar Iqbal Manhas of the Apni Party, and Mohammad Saleem Parray of the DPAP.
+
+The request to postpone the elections has been met with criticism from other parties, who suggest it may be part of a strategy to manipulate the election outcome. The BJP insists on a delay due to adverse weather conditions affecting connectivity in the region. The controversy has raised concerns about the potential impact on the electoral process and the credibility of the Election Commission.
+
+Tue, 30 Apr 2024 14:29:57 +0530
+### [What is the new ‘card trap’ scam at ATMs? How can you be safe?](https://www.firstpost.com/explainers/atm-card-trap-scam-delhi-how-to-stay-safe-13765307.html)
+
+ATM fraud is escalating, with a recent surge reported in Delhi, where scammers manipulate machines to trap customers' cards. The fraudsters tamper with card readers and CCTV cameras, then pose as helpful bystanders to obtain victims' PINs. The Reserve Bank of India has highlighted the issue, citing 65,893 fraud cases amounting to Rs 258.61 crore in 2021-22. Incidents often turn violent, emphasizing the need for caution. Police have arrested gang members involved in multiple tampering cases across Delhi. To protect yourself, choose well-lit ATMs with guards, check for tampering signs, avoid assistance from strangers, cover your PIN, monitor bank statements, and be wary of phishing attempts. Other prevalent scams include shimming and card cloning, making awareness and vigilance essential for ATM users.
+
+Tue, 30 Apr 2024 14:00:53 +0530
+### [No housing, no graduation: What suspension means for pro-Palestine protesters at US colleges](https://www.firstpost.com/explainers/no-housing-no-graduation-suspension-pro-palestine-protesters-us-colleges-13765386.html)
+
+Article found but Couldn't summarize 
+Two Ivy League universities — Columbia and Cornell — have suspended students for participating in pro-Palestine protests on campus. This action will have grave repercussions for demonstrators. They will be barred from classes, and won’t be allowed to graduate if they are eligible for it
+
+Tue, 30 Apr 2024 13:42:02 +0530
+### [How a rusting World War II ship is leading to tensions between China and the Philippines](https://www.firstpost.com/explainers/how-a-rusting-world-war-ii-ship-is-leading-to-tensions-between-china-and-the-philippines-13765368.html)
+
+The article delves into the complex geopolitical tensions surrounding the South China Sea, focusing on the BRP Sierra Madre, a World War II relic turned military installation. Positioned intentionally by the Philippines on the Second Thomas Shoal, the ship serves as a strategic outpost amidst competing claims by neighboring nations, particularly China. Recent clashes and aggressive behavior by Chinese vessels highlight the escalating tensions in the region, raising concerns about the potential for conflict and drawing attention to the broader international response and legal framework governing the dispute.
+
+Tue, 30 Apr 2024 13:33:18 +0530
+### [Kallakkadal threatens Kerala, Tamil Nadu coasts: What is this phenomenon that causes seas to swell?](https://www.firstpost.com/explainers/kallakkadal-kerala-tamil-nadu-coastlines-rough-seas-high-waves-flooding-13765320.html)
+
+The coastal areas of Kerala and southern Tamil Nadu are under alert due to the "Kallakkadal phenomenon," which brings rough seas and high waves. This sudden swell, caused by strong winds in the southern Indian Ocean, has flooded homes and prompted warnings to fishermen and coastal residents. The term "Kallakkadal" describes these ocean swell waves, which arrive unexpectedly and can travel long distances from distant storms. Authorities have advised people to stay away from the danger zones and anchor fishing vessels safely. This phenomenon primarily affects Kerala and nearby coastal regions, with warnings issued for Tamil Nadu as well.
+
+Tue, 30 Apr 2024 12:01:18 +0530
+### [How Hunter Biden is threatening to sue Fox News for ‘revenge porn’](https://www.firstpost.com/explainers/how-hunter-biden-is-threatening-to-sue-fox-news-for-revenge-porn-13765245.html)
+
+Hunter Biden's legal team is preparing to take action against Fox News, alleging defamation and exploitation. They've issued a formal notice to the network, accusing it of spreading false information and unlawfully using Hunter Biden's image. The decision to sue reportedly stems from over a year of planning, influenced by previous successful lawsuits against Fox News. The allegations include promoting unverified bribery claims and airing a series that distorts facts. Hunter Biden aims to challenge Fox News' narrative and hold them accountable.
+
+Tue, 30 Apr 2024 11:51:24 +0530
+### [Videos, warning letter, pen drive & more: How Karnataka sex scandal involving Deve Gowda's grandson Prajwal Revanna unfolded](https://www.firstpost.com/explainers/karnataka-sex-scandal-deve-gowda-grandson-prajwal-revanna-13765233.html)
+
+Article found but Couldn't summarize 
+The Karnataka sex scandal involving JD(S) MP Prajwal Revanna, grandson of former prime minister HD Deve Gowda has gripped the country at the height of the election campaign. It was Revanna, who made one of the earliest public references to the sex videos in June last year when he moved a Bengaluru court against 86 media outlets and three private persons, seeking a gag order. Here's what happened next
+
+Tue, 30 Apr 2024 11:02:11 +0530
+### [Who could replace Humza Yousaf as Scotland's first minister?](https://www.firstpost.com/explainers/humza-yousaf-scotland-first-minister-contenders-13765266.html)
+
+Scotland's First Minister, Humza Yousaf, has resigned amidst political turmoil, triggered by his decision to terminate the power-sharing agreement with the Scottish Greens. This move led to a vote of no confidence from opposition parties, prompting Yousaf's resignation. The Scottish National Party (SNP) now has 28 days to select a new leader, with potential candidates including John Swinney, Kate Forbes, Stephen Flynn, Neil Gray, and Jenny Gilruth. Each candidate brings their own background and priorities to the table, with Swinney emerging as a favorite due to his past leadership roles within the SNP.
+
+Tue, 30 Apr 2024 10:45:21 +0530
+### [Explained: Peru’s trouble over ‘exclusivity clause’ for mega Chancay port built by China](https://www.firstpost.com/explainers/peru-china-chancay-port-exclusivity-clause-13765278.html)
+
+The article discusses a dispute between the Peruvian government and Chinese state-backed company, Cosco Shipping, regarding an exclusivity clause in the Chancay mega-port project. Peru intends to annul the clause, which grants Cosco sole operation rights within the port, citing legal concerns. This move has raised tensions and the possibility of international legal arbitration. The Chancay port, a significant investment under China's Belt and Road Initiative, aims to enhance maritime trade between South America and Asia. However, the exclusivity issue has jeopardized the project's future phases, prompting efforts from both parties to negotiate a resolution and avoid arbitration.
+
+Tue, 30 Apr 2024 10:40:00 +0530
+### [Who is Vikram Yadav, the ‘R&AW agent’, allegedly behind Gurpatwant Singh Pannun murder plot?](https://www.firstpost.com/explainers/vikram-yadav-raw-agent-gurpatwant-singh-pannun-assassinationr-plot-13765273.html)
+
+Article found but Couldn't summarize 
+New details about the ‘assassination attempt’ on Khalistan leader Gurpatwant Singh Pannun have come to light. A ‘Washington Post’ report has named Vikram Yadav, a Research and Analysis Wing (R&amp;AW) to be the one behind the plot. The US daily has reported that he was moved from the CRPF to India’s spy agency. What else is known about him and the alleged plot he hatched?
+
+Tue, 30 Apr 2024 08:33:04 +0530
+### [China launches first Hangor-class submarine for Pakistan: Here's what we know](https://www.firstpost.com/explainers/china-first-hangor-class-submarine-pakistan-13765167.html)
+
+China has launched eight Hangor class submarines for Pakistan, marking a significant addition to their naval capabilities. These submarines, a variant of the Yuan-class, are equipped with advanced features including an air independent propulsion system and can launch various missiles. The contract for these submarines was signed in 2015 during a visit by China's president, Xi Jinping. Pakistan's Chief of Naval Staff emphasized the importance of this collaboration, highlighting the strong military cooperation between the two countries. The submarines, built by China Shipbuilding & Offshore International Company Ltd, are part of a broader trend of arms imports from China, which has become Pakistan's top weapons supplier. The launch ceremony underscores the deepening military ties between Pakistan and China.
+
+Tue, 30 Apr 2024 05:00:03 +0530
+### [FirstUp: PM in Latur, repolling in Manipur… The big events today](https://www.firstpost.com/explainers/firstup-pm-modi-in-latur-repolling-in-manipur-big-events-today-13765080.html)
+
+Campaigning for the Lok Sabha elections is in full swing in India, with PM Modi scheduled to address a rally in Maharashtra's Latur. Additionally, repolling will be conducted in the Outer Manipur constituency, and Punjab CM Bhagwant Mann is expected to meet AAP chief Arvind Kejriwal in jail. Other significant events include crucial court hearings on cases such as Patanjali's misleading ads, Tamil Nadu minister Senthil Balaji's discharge petition, and the Krishna Janmbhoomi-Idgah suit. Vice Admiral Dinesh Kumar Tripathi will take charge as the new Navy Chief. Additionally, sports events like IPL 2024 and the Women’s T20I series between India and Bangladesh are scheduled.
+
+Mon, 29 Apr 2024 21:06:45 +0530
+### [The heartbreaking story of UP topper Prachi Nigam and the taboo around facial hair](https://www.firstpost.com/explainers/up-board-topper-prachi-nigam-trolling-facial-hair-taboo-13765168.html)
+
+Prachi Nigam, the Class 10 Uttar Pradesh board exams topper, faced online trolling due to her facial hair after her pictures went viral. This incident sheds light on the societal taboo surrounding female facial hair. Despite the negativity, Prachi remains focused on her academic goals, supported by her family and some social media users. The article discusses the broader issue of unrealistic beauty standards for women, citing examples like actor Rashmika Mandanna and British influencer Harnaam Kaur. It also touches on the discomfort some feel when faced with non-binary gender expressions. The narrative calls for a reevaluation of beauty norms and emphasizes individual autonomy over one's appearance.
+
+Mon, 29 Apr 2024 19:48:38 +0530
+### [Why Humza Yousaf quit as first minister of Scotland and what happens next](https://www.firstpost.com/explainers/scotland-first-minister-humza-yousaf-quit-13765157.html)
+
+Humza Yousaf has resigned as Scotland's First Minister and SNP leader amid a political crisis. The SNP's alliance with the Green Party collapsed, triggering two no-confidence votes. Yousaf's leadership faced challenges over climate change and transgender issues, leading to tensions within the coalition. Unable to secure enough support, Yousaf stepped down, leaving the SNP seeking a new leader to maintain its minority government or face snap elections. Potential successors include Kate Forbes, John Swinney, and Neil Gray. The turmoil in Scotland adds to the broader political climate in the UK, where both the Conservatives and Labour seek advantage ahead of upcoming elections.
+
+Mon, 29 Apr 2024 18:01:43 +0530
+### [What is 'blood libel' allegation that has been made against US Congresswoman Ilhan Omar?](https://www.firstpost.com/explainers/blood-libel-ilhan-omar-13765083.html)
+
+The article discusses the accusation of "blood libel" against Democratic Congresswoman Ilhan Omar by the Anti-Defamation League (ADL). It outlines the historical origins of the term, which falsely accuses Jews of ritualistic murders. The accusation stemmed from Omar's remarks at Columbia University, where she commented on Jewish students' views regarding the Israel-Gaza conflict. ADL president Jonathan Greenblatt criticized Omar's statement, calling it slanderous and dangerous. The article delves into the history and persistence of the blood libel accusation, attributing it to anti-Semitic sentiments and the scapegoating of Jews. Omar responded to the accusation, referencing allegations of discrimination against Palestinians. The article concludes with a mention of Omar's daughter's suspension from college and her support for Palestinians.
+
+Mon, 29 Apr 2024 18:00:16 +0530
+### [Akshay Kanti Bam, Milind Deora & more: The leaders who quit Congress ahead of Lok Sabha polls](https://www.firstpost.com/explainers/akshay-kanti-bam-milind-deora-leaders-who-quit-congress-lok-sabha-elections-13765107.html)
+
+The article discusses a series of high-profile departures from the Indian National Congress amid the 2024 Lok Sabha elections. **Arvinder Singh Lovely** resigned as the Delhi Pradesh Congress chief, and there are speculations about his potential shift to the Bharatiya Janata Party (BJP). **Akshay Kanti Bam**, the Congress candidate from Indore, withdrew his nomination and joined the BJP.
+
+Other notable exits include **Milind Deora**, who left to join the Shiv Sena, accusing the Congress of not valuing merit. **Ashok Chavan**, former Maharashtra Chief Minister, also left the Congress and was subsequently nominated to the Rajya Sabha by the BJP. **Naveen Jindal**, an industrialist and former Congress MP, joined the BJP and was given a ticket for the Lok Sabha polls. **Anil Sharma**, former Bihar Congress president, accused the Congress of having a communal mindset and joined the BJP.
+
+**Vijender Singh**, an Olympic medallist boxer, and **Gourav Vallabh**, a prominent Congress spokesperson, both resigned from the Congress and joined the BJP, citing alignment with the BJP's vision. Lastly, **Sanjay Nirupam** was expelled from the Congress for indiscipline but claimed he had already resigned, highlighting further discontent within the party ranks. The article suggests these departures could significantly impact the Congress's performance in the elections.
+
+Mon, 29 Apr 2024 17:26:54 +0530
+### [What are self-healing roads that India may introduce to tackle the big pothole problem?](https://www.firstpost.com/explainers/self-healing-roads-india-big-pothole-problem-nhai-13765055.html)
+
+India faces a severe problem of potholes, with thousands of accidents and fatalities attributed to them annually. To address this issue, the National Highways Authority of India (NHAI) is considering adopting self-healing roads technology. This innovative approach involves using self-healing asphalt infused with steel fibers and epoxy capsules to repair small cracks and prevent water infiltration. Developed by researchers in the Netherlands, these roads have the potential to significantly reduce maintenance costs and increase road longevity. Despite the initial expense, the long-term benefits could outweigh the costs. India's government and judiciary have acknowledged the seriousness of the pothole problem, with initiatives aimed at improving road safety. While self-healing roads have been successfully implemented in countries like the Netherlands and are under consideration in the United Kingdom, their adoption in India would signify a significant step towards smoother and safer travels.
+
+Mon, 29 Apr 2024 16:45:24 +0530
+### [Mahadev betting app case: Sahil Khan's 4 states-4-day adventure to evade arrest](https://www.firstpost.com/explainers/mahadev-betting-app-case-actor-sahil-khan-arrest-13765007.html)
+
+Actor Sahil Khan was arrested in Chhattisgarh's Jagdalpur for his involvement in the Mahadev betting app case. He attempted to evade arrest by traveling nearly 1,800 kilometers across four states in four days. Despite efforts to conceal his identity, he was apprehended in Jagdalpur after Mumbai police tracked him for 72 hours. Khan, known for his roles in comedy movies, was allegedly directly involved in the betting app and failed to appear for police summons last year. The Mahadev betting app case involves illegal online betting activities amounting to crores of rupees, with several prominent individuals coming under scrutiny.
+
+Mon, 29 Apr 2024 16:18:55 +0530
+### [First US, now UK, Europe, and Australia: How anti-Israel student protests are going global](https://www.firstpost.com/explainers/anti-israel-protests-columbia-going-global-13764996.html)
+
+The article discusses the global spread of anti-Israel protests originating from Columbia University. It highlights protests at universities in the UK, France, Australia, and Italy. In the UK, students at Warwick and UCL demand divestment from companies supporting Israel's actions. Similar protests occur in France, where Sciences Po students call for investigation of ties with Israel. Australian universities also witness demonstrations against ties with weapons manufacturers. In Italy, La Sapienza University experiences clashes between protesters and police. The article notes the divisive nature of the Gaza conflict and the inspiration drawn from protests at US campuses.
+
+Mon, 29 Apr 2024 16:03:51 +0530
+### [In Graphics: How do forest fires like the one in Uttarakhand start?](https://www.firstpost.com/explainers/uttarakhand-forest-fire-wildwire-environmental-impact-13764979.html)
+
+Forest fires have once again ravaged Uttarakhand, with over 40 hectares of land already consumed by flames. This is part of a larger trend, with 606 incidents reported since last November, devastating over 700 hectares. Efforts to combat the fires are underway, including the use of Indian Air Force helicopters equipped with water buckets. Uttarakhand's Chief Minister has urged swift action and directed forest officials to remain vigilant. These fires highlight the global challenge of wildfires and their impact on the environment.
+
+Mon, 29 Apr 2024 15:41:05 +0530
+### [Explained: The controversy surrounding £42 million jet used by UK’s David Cameron for Central Asia tour](https://www.firstpost.com/explainers/explained-controversy-42-million-jet-uk-david-cameron-central-asia-tour-13764967.html)
+
+David Cameron, the former UK Prime Minister, is under fire for chartering a £42 million luxury jet for a diplomatic tour of Central Asia. Critics argue that such extravagance with taxpayer money is inappropriate for a public servant. Similar controversies have arisen before, including one involving Cameron's predecessor, James Cleverly. Additionally, UK Prime Minister Rishi Sunak has faced criticism for his frequent use of short-distance air travel, which is seen as contradictory to environmental concerns. The UK leads in private jet pollution, with concerns rising about the environmental impact and cost-effectiveness of ministerial travel arrangements.
+
+Mon, 29 Apr 2024 14:27:51 +0530
+### [Quicksplained: Delhi-born Tarun Ghulati in fray for London mayor. What are his plans for the city?](https://www.firstpost.com/explainers/tarun-ghulati-indian-businessman-london-mayor-elections-13764902.html)
+
+Tarun Ghulati, an independent Indian-origin businessman and investment banker, is running for London's mayoral position against 13 opponents, including the incumbent Sadiq Khan. Ghulati, who has lived in London for 20 years, aims to bring back vitality to the city. His plans include improving security, reducing crime against women, making housing affordable, and addressing congestion issues. Ghulati's background in international management and his experience on various company boards give him confidence in attracting investments and tackling city problems like a seasoned CEO. If elected, he intends to scrap unpopular policies and implement measures to improve public transport and access for vulnerable groups.
+
+Mon, 29 Apr 2024 14:25:26 +0530
+### [How Arvinder Singh Lovely's exit as Delhi Congress chief will hurt the party in Lok Sabha polls](https://www.firstpost.com/explainers/arvinder-singh-lovely-quits-delhi-congress-chief-will-lok-sabha-elections-aap-alliance-13764984.html)
+
+Arvinder Singh Lovely's resignation as the Delhi Pradesh Congress president just weeks before the Lok Sabha elections has exposed divisions within the party over its alliance with the Aam Aadmi Party (AAP). Lovely cited disagreements with the party's decisions, particularly regarding the alliance and candidate selections, as reasons for his resignation. While he denied plans to join another party, speculation arose about his potential candidacy with the BJP. Lovely's departure has intensified internal conflicts within the Delhi Congress, with some leaders calling for the removal of AICC in-charge Deepak Babaria. The episode has raised doubts about the future of the Congress-AAP alliance and could impact the party's prospects in Delhi.
+
+Mon, 29 Apr 2024 14:05:20 +0530
+### [What are vampire facials giving American women HIV?](https://www.firstpost.com/explainers/vampire-facials-american-women-hiv-13764937.html)
+
+Three women in New Mexico contracted HIV after receiving vampire facials at an unlicensed medical spa, as per the CDC. The investigation revealed reuse of disposable equipment and poor hygiene practices at the spa. The procedure involves injecting platelet-rich plasma extracted from the patient's blood to rejuvenate the skin. Despite using the patient's own plasma, mishandling blood poses risks. Experts recommend seeking experienced professionals for such procedures. The facial is popular for its alleged skin rejuvenating effects but should be approached cautiously due to potential risks.
+
+Mon, 29 Apr 2024 12:51:38 +0530
+### [Why was Arvind Kejriwal's wife Sunita not allowed to meet him at first?](https://www.firstpost.com/explainers/arvind-kejriwal-wife-sunita-tihar-jail-permission-13764924.html)
+
+Delhi Chief Minister Arvind Kejriwal's wife, Sunita, was initially denied permission to visit him in Tihar jail, where he has been for almost a month. The denial was attributed to a violation of jail protocols due to previous visits by other officials. However, conflicting reports emerged, with AAP alleging pressure from the Centre. Eventually, Sunita was allowed to visit, but the incident sparked criticism of the Modi government's treatment of Kejriwal. Kejriwal's arrest is linked to a money laundering case, and he remains in custody until early May. Despite this, Sunita has begun campaigning for AAP in the absence of her husband.
+
+Mon, 29 Apr 2024 12:48:43 +0530
+### [27 killed in nearly 4 months: How violence against women has triggered mass protests in Australia](https://www.firstpost.com/explainers/violence-women-mass-protests-australia-anthony-albanese-13764926.html)
+
+Mass demonstrations erupted across cities in Australia over the weekend, demanding tougher laws on violence against women, with Prime Minister Anthony Albanese joining the protests in Canberra. The rallies, organized under the banner of "No More: National Rally Against Gender Based Violence," called for an end to violence against women and urged for legislative changes. Data revealed a concerning trend, with 27 women killed in the first 119 days of the year, prompting widespread calls for action. Various factors, including misogyny and the normalization of hate speech online, have been cited as reasons behind the rising violence. While the federal government has been working on initiatives like the National Plan to End Domestic Violence, criticism persists over implementation, with calls for stronger cooperation between federal and state governments.
+
+Mon, 29 Apr 2024 11:50:59 +0530
+### [Pro-Palestine protests: Why is a US university pausing grants from Boeing?](https://www.firstpost.com/explainers/pro-palestine-protests-why-is-a-us-university-pausing-grants-from-boeing-13764876.html)
+
+Portland State University (PSU) in Oregon, US, has decided to temporarily halt seeking or accepting gifts or grants from Boeing Co. due to pressure from students and faculty concerned about the company's involvement in weapons manufacturing and its connections to Israel amidst the conflict in Gaza. Students at PSU and other universities across the US are urging divestment from companies involved in the conflict. Boeing's relationship with Israel dates back decades, with the Israel Defence Forces (IDF) utilizing several Boeing products. PSU's ties with Boeing include donations for scholarships and an advisory board position, with the university defending the relationship as voluntary and aligned with educational goals. However, students argue that Boeing's global activities, including supplying equipment to conflict zones and involvement in border security, contradict the university's values. PSU plans to host a forum to address student concerns and foster dialogue on the issue.
+
+Mon, 29 Apr 2024 10:53:55 +0530
+### [Dubai is building the world's largest terminal: What will it look like?](https://www.firstpost.com/explainers/dubai-worlds-largest-terminal-al-maktoum-international-airpot-13764869.html)
+
+Dubai is set to unveil a colossal expansion of its aviation infrastructure with the construction of a new terminal at Al Maktoum International Airport. The terminal, five times larger than Dubai International Airport, will boast a capacity to accommodate up to 260 million passengers annually once fully operational. With a staggering cost of nearly $35 billion, the project aims to transform Dubai into the world's aviation hub, featuring 400 gates and five parallel runways. Additionally, plans include the development of an entire city around the airport, catering to a million people and attracting top logistics and air transport companies. The ambitious endeavor signals a significant shift in Dubai's aviation landscape, with operations from Dubai International Airport slated to migrate to the new facility in the years to come.
+
+Mon, 29 Apr 2024 09:49:15 +0530
+### [How HD Deve Gowda’s grandson Prajwal, son Revanna are embroiled in a sex scandal in Karnataka](https://www.firstpost.com/explainers/hd-deve-gowda-grandson-prajwal-revanna-son-hd-revanna-sex-scandal-karnataka-13764841.html)
+
+A political scandal has rocked Karnataka, as allegations of sexual assault and harassment have emerged against Prajwal Revanna, the grandson of former PM HD Deve Gowda and a JD(S) leader. Obscene videos allegedly involving Prajwal surfaced online just before the recent elections, leading to a woman filing a police complaint accusing him and his father, HD Revanna, of sexual assault. The woman detailed incidents of abuse she allegedly suffered between 2019 and 2022. Following the complaint, the Congress-led government formed a special investigation team (SIT) to probe the allegations. While the BJP distanced itself from the controversy, JD(S) leader HD Kumaraswamy emphasized respect for women and stated that an SIT probe was underway. Prajwal, meanwhile, denied the allegations, claiming the videos were morphed. Amidst the scandal, it has emerged that warnings about Prajwal's behavior were previously issued to the state leadership. The impact of this scandal on the BJP-JD(S) alliance in Karnataka remains to be seen.
+
+Mon, 29 Apr 2024 09:13:54 +0530
+### [In Graphics | Which are the most popular museums in Europe, the US?](https://www.firstpost.com/explainers/popular-museums-europe-us-asia-pacific-13764229.html)
+
+Article found but Couldn't summarize 
+From the Louvre in Paris to the Metropolitan Museum of Art in New York, a look at the world’s most popular museums that travellers with a love for history and art should definitely visit
+
+Mon, 29 Apr 2024 06:00:31 +0530
+### [FirstUp: Elections in Togo, IMF review of Pakistan... Today's top events](https://www.firstpost.com/explainers/firstup-togo-elections-imf-pakistan-loan-top-world-news-13764510.html)
+
+Monday’s global political events include Togo's parliamentary elections amid political unrest and strict security measures, with concerns over proposed constitutional amendments potentially extending the current president's rule. Spanish Prime Minister Pedro Sanchez faces potential resignation amidst political attacks and scrutiny. US-Taiwan trade talks in Taipei aim to strengthen economic relations amid Chinese pressures. The IMF deliberates on a critical $1.1 billion funding for Pakistan to prevent a sovereign default. Additionally, the Supreme Court in India is set to hear Delhi Chief Minister Arvind Kejriwal's plea against his arrest in a graft case.
+
+Sun, 28 Apr 2024 16:31:28 +0530
+### [Can frequent ejaculation reduce the risk of prostate cancer?](https://www.firstpost.com/explainers/frequent-ejaculation-prostate-cancer-risk-13763336.html)
+
+The article explores the potential link between ejaculation frequency and prostate cancer risk. It discusses various studies suggesting that frequent ejaculation may reduce the risk of prostate cancer by mechanisms such as clearing toxins from the prostate, altering immune response, and reducing inflammation. However, the research findings vary, with some studies showing protective effects only at certain ages or ejaculation frequencies. Challenges in drawing conclusive evidence include differences in study populations, methods of measuring ejaculation frequency, and potential biases in self-reporting. Additionally, the article touches upon the role of testosterone levels, suggesting that higher testosterone levels may contribute to both increased ejaculation frequency and reduced prostate cancer risk. While the exact relationship between ejaculation frequency and prostate cancer risk requires further research, the article concludes that frequent ejaculation likely has overall health benefits and should be part of a healthy lifestyle.
+
+Sun, 28 Apr 2024 14:17:14 +0530
+### [Feeling secure, happy being single is possible if you have these attachment styles](https://www.firstpost.com/explainers/feeling-secure-happy-being-single-is-possible-if-you-have-these-attachment-styles-13763702.html)
+
+The article discusses the rise in singlehood globally and explores the misconception that all long-term single individuals are insecure. It highlights the role of attachment theory in understanding singlehood, explaining how attachment styles influence individuals' happiness and well-being. Research findings reveal that while a majority of singles are categorized as insecure, a significant portion are secure and thriving. The article identifies four subgroups of singles based on attachment styles and examines their experiences and outcomes. Secure singles exhibit comfort in singlehood, while anxious, avoidant, and fearful singles experience various challenges. The article emphasizes that being in a romantic relationship is not always preferable to singlehood, and attachment orientations can change over time. It concludes by advocating for support to help insecure singles feel more secure and foster happiness.
+
+Sun, 28 Apr 2024 09:12:46 +0530
+### [This Week in Explainers: What are the demands of US students protesting on campuses?](https://www.firstpost.com/explainers/this-week-in-explainers-gaza-protests-columbia-university-us-colleges-13764475.html)
+
+Article found but Couldn't summarize 
+Student protests have cropped up in universities across the United States. After Columbia University, demonstrations against Israel’s war in Gaza were reported at several other campuses. All this and more in our weekly roundup of explainers from around the world
+
+Sat, 27 Apr 2024 17:59:25 +0530
+### [Does freezing bread have health benefits?](https://www.firstpost.com/explainers/tiktok-freezing-bread-health-benefits-study-13764499.html)
+
+Some TikTok users claim that freezing bread can make it healthier, citing research to support their assertions. When bread is cooked, the starches gelatinize, making them easier to digest and leading to a rapid glucose spike. However, cooling bread causes these starches to become resistant, reducing the glucose and insulin spike after consumption. Studies show that freezing and toasting homemade bread can significantly reduce blood sugar response, though the effect is less pronounced with store-bought bread. While the short-term benefits on blood sugar levels and gut health are evident, the long-term impact on appetite, weight gain, and disease risk is uncertain. Nonetheless, freezing bread can reduce food waste and offer modest health benefits.
+
+Sat, 27 Apr 2024 16:03:29 +0530
+### [Pro-Palestine protests: What students from Columbia, Harvard want from their university administrations](https://www.firstpost.com/explainers/pro-palestine-protests-us-students-columbia-harvard-demands-13764467.html)
+
+Article found but Couldn't summarize 
+Top US universities, including Columbia, Harvard, and Yale, have billions in endowments. This money is invested in lots of places to maximise returns. The central demand of the protesting students has to do with where the university administrations are channelling these funds
+
+Sat, 27 Apr 2024 13:45:54 +0530
+### [Quicksplained: Who was Om Fahad, the Iraqi TikTok star shot dead in Baghdad?](https://www.firstpost.com/explainers/quicksplained-om-fahad-iraqi-tiktok-star-shot-dead-in-baghdad-13764420.html)
+
+Om Fahad, a popular TikTok celebrity in Iraq, was shot and killed outside her home in Baghdad. Fahad, whose real name is Ghufran Sawadi, rose to fame with light-hearted videos on TikTok, but courted controversy when she was sentenced to six months in prison for posting "indecent" content. Her death comes amidst a government crackdown on social media influencers deemed to violate Iraqi morals. There are suspicions of a possible motive related to a feud with another influencer. This incident adds to a concerning trend of violence against influencers in Iraq, highlighting broader issues of civil liberties and government control over expression.
+
+Sat, 27 Apr 2024 12:10:05 +0530
+### [‘I can’t breathe’: How a Black man's death in Ohio reminds of George Floyd's killing, systemic racism](https://www.firstpost.com/explainers/i-cant-breathe-frank-tyson-death-ohio-george-floyd-killing-systemic-racism-police-brutality-13764387.html)
+
+The article discusses the death of Frank Tyson, a Black man who died after being restrained by police in Canton, Ohio, drawing parallels to the death of George Floyd. Tyson repeatedly told officers he couldn't breathe as they pinned him down, reminiscent of Floyd's last words. The incident has reignited discussions on racial discrimination and police brutality in the US.
+
+The article details Tyson's encounter with the police on April 18, following a car crash. Bodycam footage shows a chaotic scene where Tyson is apprehended and pinned down, leading to his death. This has brought back memories of Floyd's death, which sparked protests and debates on systemic racism and the need for police reform.
+
+The article also references a UN report highlighting the disproportionate impact of police brutality on Black people in the US, citing statistics on police killings and imprisonment rates. It calls for systemic changes in law enforcement, including better training, use-of-force protocols, and accountability measures to address these deep-rooted issues.
+
+Sat, 27 Apr 2024 11:28:58 +0530
+### [Can’t afford Paris? Head to its ‘destination dupe’ Antwerp. What’s this latest travel trend?](https://www.firstpost.com/explainers/destination-dupes-travel-trend-affordable-holiday-overtourism-13763608.html)
+
+The rise of "destination dupes" is reshaping travel trends, inspired by the concept of "fashion dupes." Social media has propelled this trend, encouraging travelers to opt for budget-friendly alternatives to popular tourist spots. Factors like affordability, avoiding crowds, accessibility, and novelty are driving this shift. Sustainability is also becoming a significant motivator. Travelers are increasingly choosing offbeat destinations over overcrowded ones, seeking authentic experiences and contributing to more sustainable tourism practices. Despite some challenges like transportation and planning, the trend seems poised to endure, offering benefits for both travelers and the destinations themselves.
+
+Sat, 27 Apr 2024 11:28:30 +0530
+### [US to send Patriot missiles to Ukraine: How will these help the war-torn nation?](https://www.firstpost.com/explainers/us-patriot-missiles-ukraine-russia-war-america-weapons-13764352.html)
+
+Article found but Couldn't summarize 
+The US has said it will dispatch more Patriot missiles to Kyiv as part of a new $6 billion military aid package. The Patriot is a surface-to-air guided missile system, which the Ukrainian president Volodymyr Zelenskyy says is ‘urgently’ needed in the war with Russia
+
+Sat, 27 Apr 2024 09:26:37 +0530
+### [This Week in Explainers: Will the Congress really redistribute wealth if it takes power?](https://www.firstpost.com/explainers/this-week-in-explainers-will-congress-redistribute-wealth-13764277.html)
+
+The article provides a roundup of significant events in India this week, primarily revolving around the upcoming Lok Sabha polls. It highlights contentious exchanges between Prime Minister Narendra Modi and Congress' Priyanka Gandhi, addresses issues such as the "love jihad" controversy surrounding the murder of Neha Hiremath, discusses innovations like air-conditioned helmets for police, examines challenges in IIT placements, and delves into controversies surrounding top spice brands MDH and Everest. Additionally, it covers the Calcutta High Court's decision to cancel teacher appointments in West Bengal and explores the prospect of an Indian sizing system for footwear.
+
+Fri, 26 Apr 2024 21:03:32 +0530
+### [What is golden rice? Why a Philippines court has blocked its production?](https://www.firstpost.com/explainers/golden-rice-philippines-court-blocked-production-gm-brinjal-13764260.html)
+
+A court in the Philippines has ruled against the commercial production of genetically modified golden rice and BT brinjal due to safety concerns, despite the Philippines being the first country to approve golden rice for release in 2021. Golden rice, enriched with beta-carotene to combat vitamin A deficiency, faced opposition from environmental groups and small farmers. Critics raised concerns about its impact on the environment, farmer livelihoods, and human health. The court's decision revoked the biosafety permit and urged the government to strengthen risk assessments for GMOs. While opponents celebrated the ruling, scientists maintain golden rice's safety, with the government possibly challenging the verdict.
+
+Fri, 26 Apr 2024 20:30:15 +0530
+### [How luxury brand Hermès has seen sales soar in China amid economic slowdown](https://www.firstpost.com/explainers/luxury-brand-hermes-china-13764117.html)
+
+Despite economic struggles in China impacting the luxury goods segment, Hermès has defied expectations with surging sales and profits. In the first quarter, revenue rose to $4.1 billion, a 17% increase attributed largely to the Asian market. Notably, Hermès outperformed competitors like LVMH and Kering, with its leather goods and saddlery division seeing a 20% increase in sales. Experts credit Hermès' focus on ultra-wealthy clientele and exclusive products for its resilience in turbulent times, contrasting its success with challenges faced by rivals like Gucci. The brand's strategic emphasis on scarcity, high pricing power, and carefully crafted essentials, coupled with elegant and understated marketing, contributes to its continued success.
+
+Fri, 26 Apr 2024 18:38:53 +0530
+### [In Graphics | How the size of world’s senior population is growing](https://www.firstpost.com/explainers/in-graphics-how-the-size-of-worlds-senior-population-is-growing-13764196.html)
+
+The article discusses the global demographic shift towards an aging population, highlighting projections from organizations like the World Health Organization and the United Nations Population Fund. By 2030, the number of people aged 60 and above is expected to reach 1.4 billion, and by 2050, it will surge to 2.1 billion. Developing countries, including India, are experiencing significant increases in their senior citizen populations. In India, it's estimated that by 2050, nearly 21% of the population will be aged 60 and above, marking a substantial rise from the current figures.
+
+Fri, 26 Apr 2024 18:31:59 +0530
+### [Rs 1,000 becomes Rs 20 lakh in day via short contract? Traders' big claims on Kotak Mahindra Bank](https://www.firstpost.com/explainers/traders-claim-kotak-mahindra-bank-13764213.html)
+
+After the Reserve Bank of India imposed restrictions on Kotak Mahindra Bank, causing billionaire Uday Kotak to lose Rs 10,000 crore, some traders reportedly profited immensely by exercising put options. Put options are contracts allowing the sale of shares at a predetermined price within a specified period. These options surged in value as Kotak Mahindra Bank's stock plummeted, with some contracts appreciating by over 71,000%. Despite seeming unusual, experts attribute this to the sharp stock price decline and low initial option premiums. The RBI cited significant deficiencies in Kotak Mahindra Bank's IT systems as the reason for the restrictions. In response, Kotak Mahindra Bank vowed to address the issues promptly.
+
+Fri, 26 Apr 2024 17:54:09 +0530
+### [Supreme Court’s notice to Election Commission on NOTA: Understanding voters’ right to reject](https://www.firstpost.com/explainers/supreme-court-election-commission-nota-voting-candidates-polls-13764170.html)
+
+The Supreme Court has issued a notice to the Election Commission of India following a plea calling for fresh elections if the 'none of the above' (NOTA) option receives the most votes. The petition, filed by Shiv Khera, also seeks to disqualify candidates losing to NOTA from contesting for five years. NOTA, introduced in 2013, allows voters to express dissatisfaction with candidates. However, if NOTA receives the most votes, the candidate with the next highest count wins. The plea urges the EC to treat NOTA as a "fictional candidate" and highlights its role in pushing for better candidates. The Court's notice prompts further discussion on electoral processes amidst ongoing general elections.
+
+Fri, 26 Apr 2024 17:39:48 +0530
+### [Bird flu in the US: Why cows are being tested and tracked?](https://www.firstpost.com/explainers/bird-flu-in-the-us-why-cows-are-being-tested-and-tracked-13764057.html)
+
+An outbreak of Type A H5N1 bird flu has affected nearly three dozen dairy herds across eight US states, with the virus even found in grocery store milk. Health officials are intensifying efforts to understand and contain the spread, as the virus poses a potential risk of mutating for human-to-human transmission. The outbreak underscores the need for comprehensive responses, including mandatory testing for lactating cows before interstate movement. Scientists are concerned about the virus's ability to adapt to new species and are urging increased surveillance, testing, and precautions to prevent further spread and potential human infection.
+
+Fri, 26 Apr 2024 17:24:33 +0530
+### [Quicksplained: Who is the Indian-origin student arrested in the US for anti-Israel protest?](https://www.firstpost.com/explainers/quicksplained-indian-origin-student-arrested-us-anti-israel-protest-13764106.html)
+
+Article found but Couldn't summarize 
+Indian-origin student Achinthya Sivalingan is among two students from Princeton University, who have been arrested and barred from the campus for staging pro-Palestine protests. Born in Coimbatore, she is pursuing a Master of Public Affairs in International Development at the institution
+
+Fri, 26 Apr 2024 15:56:28 +0530
+### [Spy Games: How a top researcher and a teacher spied for China inside the UK parliament](https://www.firstpost.com/explainers/uk-china-spying-parliament-europe-espionage-13764088.html)
+
+Christopher Cash and Christopher Berry, arrested in 2023, are now charged with spying for China, allegedly infiltrating the UK Parliament. Cash, a former parliamentary researcher, is accused of providing sensitive information to China. The case sheds light on a broader pattern of Chinese espionage in Europe, where individuals cozy up to politicians to influence policies or gather intelligence. Similar cases have emerged in Germany and Belgium, involving right-wing figures. The mounting espionage threat underscores the need for robust countermeasures in Western Europe.
+
+Fri, 26 Apr 2024 15:46:59 +0530
+### [The 2 big takeaways from the Supreme Court’s verdict on VVPAT-EVM case](https://www.firstpost.com/explainers/takeaways-supreme-court-verdict-vvpat-evm-election-commission-13764075.html)
+
+Article found but Couldn't summarize 
+The Supreme Court in its VVPAT verdict reposed faith in the process, saying ‘blindly doubting a system can breed scepticism’. However, it issued two significant directives: the Symbol Loading Unit should be sealed and stored for 45 days, and the burnt memory semi-controller in EVMs should be checked by a team of engineers
+
+Fri, 26 Apr 2024 15:35:35 +0530
+### [Venice is charging an entry fee to tourists. But why are residents angry?](https://www.firstpost.com/explainers/venice-charging-entry-fee-tourists-residents-angry-13763942.html)
+
+Venice has implemented a new entry fee of €5 for day-trippers to tackle over-tourism. While authorities hope it will alleviate overcrowding, residents argue it won't solve fundamental issues like housing and infrastructure. The fee exempts residents, commuters, students, and children under 14, but it has sparked protests from locals who demand more comprehensive solutions. Critics believe the fee won't deter tourists and won't address the root causes of over-tourism. Despite officials claiming it's not about revenue, the fee generated €27,500 on its first day. Residents demand policies to limit short-term rentals and increase local population. Protesters clashed with police, highlighting the discontent with Venice turning into a museum or theme park. Tourists also criticized the fee as unfair.
+
+Fri, 26 Apr 2024 14:54:40 +0530
+### [The world's first Sikh court opens in London: How will it work?](https://www.firstpost.com/explainers/first-sikh-court-london-community-disputes-13764010.html)
+
+British Sikh lawyers have established a new court in London, serving as a dispute resolution forum for family and civil matters within the Sikh community. Comprising predominantly women, the court aligns its principles with Sikh teachings and aims to provide an alternative to secular courts. Founded by Sikh legal professionals, the court operates on a Med-Arb framework, combining mediation and arbitration. It addresses issues such as domestic violence, anger management, and substance misuse, offering courses in Punjabi and English. While providing mediation and arbitration services, the court also aims to alleviate strain on traditional court resources.
+
+Fri, 26 Apr 2024 14:38:09 +0530
+### [75% registered NRI voters in Kerala:  Do they have to fly to India or can they vote from abroad?](https://www.firstpost.com/explainers/lok-sabha-elections-2024-nri-voters-kerala-eci-polling-phase-2-13764035.html)
+
+The article discusses the participation of non-resident Indians (NRIs) in the second phase of general elections in India, particularly in Kerala. Over 20,000 NRIs have flown to Kerala to vote, but this option is expensive and not feasible for everyone. It outlines the process for NRIs to register as voters, highlighting the amendment in 2010 that allowed NRIs to vote after living abroad for six months. However, NRIs are not issued voter ID cards and must physically be present in their constituencies to vote. The article also addresses the need for reform, with calls for online voting for overseas Indians to facilitate their participation in elections.
+
+Fri, 26 Apr 2024 13:46:57 +0530
+### [How Uday Kotak lost more than Rs 10,000 crore in a day after RBI curbs on Kotak Mahindra Bank](https://www.firstpost.com/explainers/how-uday-kotak-lost-more-than-rs-10000-crore-in-a-day-after-rbi-curbs-on-kotak-mahindra-bank-13764031.html)
+
+Uday Kotak, the billionaire founder of Kotak Mahindra Bank, faced a significant loss of over Rs 10,000 crore in his net worth as the Reserve Bank of India (RBI) halted the bank from onboarding new customers online and issuing fresh credit cards due to concerns about its IT systems. This led to a sharp decline in Kotak Mahindra Bank's shares by around 11%, wiping out billions in market value. Mutual funds and insurance companies also suffered losses. Analysts predict limited upside for Kotak Mahindra Bank's shares in the short term due to the RBI's actions. The bank was found significantly non-compliant with regulatory guidelines regarding its IT infrastructure, leading to frequent outages and disruptions. The RBI imposed business restrictions on the bank until remediation measures are undertaken and external audits are conducted.
+
+Fri, 26 Apr 2024 12:42:02 +0530
+### [Is Indigo starting non-stop flights to US, Australia soon?](https://www.firstpost.com/explainers/indigo-airbus-a350-900-order-non-stop-flights-to-us-australia-13763939.html)
+
+IndiGo, India's leading airline, has made a significant move to expand its international presence by placing an order for 30 A350-900 aircraft, with the option to purchase 70 more. These aircraft are capable of flying non-stop for 16-17 hours, covering 15,400 kilometers, and can accommodate 316 passengers across Business, Premium Economy, and Economy classes. The A350-900 model boasts advantages over competitors in terms of size, capacity, range, and fuel efficiency.
+
+The new fleet will enable IndiGo to operate ultra-long-haul flights directly to destinations in Europe, North America, and as far as Australia, positioning it as a strong competitor against Air India and Vistara. With deliveries expected to begin in 2027, the deal is estimated to be worth over $9 billion based on 2018 catalogue rates.
+
+IndiGo aims to double its capacity by the end of the decade and is already one of Airbus's largest customers with a record 500-aircraft deal. The airline's current order book includes 1,000 planes, such as the A320NEO, A321NEO, and A321XLR. This expansion comes as India's air traffic demand grows post-pandemic, with international air travelers expected to reach 160 million by 2030. IndiGo's strategy includes increasing its international route capacity and partnerships with other carriers to strengthen its global aviation presence.
+
+Fri, 26 Apr 2024 12:30:43 +0530
+### [Explained: How EC notice on code violation allegation against PM Modi is a first in many ways](https://www.firstpost.com/explainers/election-commission-notice-mode-code-conduct-violation-pm-modi-first-lok-sabha-elections-13763976.html)
+
+Article found but Couldn't summarize 
+The Election Commission has taken note of an alleged Mode Code of Conduct violation by PM Modi, marking a significant step for the polling agency. Until now, no sitting prime minister has been issued such a notice. Also, it is the first time that a notice has been sent to the party rather than the candidate
+
+Fri, 26 Apr 2024 12:23:06 +0530
+### [How Harvey Weinstein, Hollywood’s most powerful producer, became a pariah](https://www.firstpost.com/explainers/how-harvey-weinstein-hollywoods-most-powerful-producer-became-a-pariah-13763928.html)
+
+Harvey Weinstein, once a powerful figure in Hollywood, saw his reputation crumble in 2017 after reports of decades of sexual harassment surfaced in publications like 'The New York Times' and 'New Yorker'. This led to the #MeToo movement and his eventual conviction in 2020 for rape and sexual assault. However, New York's highest court recently overturned this conviction, citing concerns over trial fairness. Weinstein, now a pariah, faces a possible retrial. His downfall marked a dramatic shift from his glory days as a kingmaker in independent film, with hits like 'Shakespeare in Love'. Despite his former wealth and influence, Weinstein's empire crumbled, his personal fortune evaporated, and his company declared bankruptcy amidst lawsuits.
+
+Fri, 26 Apr 2024 11:38:33 +0530
+### [Another African country kicks out US troops: Is the West's influence in the continent waning?](https://www.firstpost.com/explainers/us-chad-troops-kicked-out-is-the-wests-influence-in-the-continent-waning-13763945.html)
+
+The United States is temporarily withdrawing troops from Chad, reflecting a broader trend of waning Western military influence in Africa, especially in the Sahel region. Similar withdrawals by France and challenges to Western security ties in Niger highlight this shift. Meanwhile, Russia and Iran are capitalizing on the vacuum, with Russian entities like the Wagner Group expanding operations across the continent, and Iran exporting military drones to bolster allies. Despite this, Western powers still maintain significant military presence in several African countries. Africa faces a complex future, balancing traditional alliances with Western powers against emerging influences from Russia, Iran, and internal actors like terrorist groups and military juntas.
+
+Fri, 26 Apr 2024 10:30:10 +0530
+### [Harvey Weinstein conviction overturned: How #MeToo cases find little success in courts](https://www.firstpost.com/explainers/harvey-weinstein-conviction-overturned-metoo-cases-success-courts-13763898.html)
+
+The New York court's decision to overturn Harvey Weinstein's sex crimes conviction has reignited discussions about the challenges faced by #MeToo survivors in the legal system. The ruling was based on errors in admitting testimony of prior sexual acts, leading to a call for a new trial. Weinstein's accusers expressed disappointment, highlighting the ongoing struggle for justice. This case, along with the overturned conviction of Bill Cosby, underscores the mixed outcomes of #MeToo cases in the US legal system. Similar challenges are observed globally, including in India and China. Survivors often face defamation threats and lengthy legal battles, discouraging many from seeking justice. Despite progress in public opinion, the legal route remains daunting for survivors of sexual harassment.
+
+Fri, 26 Apr 2024 10:27:44 +0530
+### [Quicksplained: Who is key accused arrested in pro-Khalistan attack on Indian mission in London?](https://www.firstpost.com/explainers/quicksplained-who-is-key-accused-arrested-in-pro-khalistan-attack-on-indian-mission-in-london-13763878.html)
+
+The National Investigation Agency (NIA) of India has arrested Inderpal Singh Gaba, a UK resident, in connection with the attack on the Indian High Commission in London in March of the previous year. The attack was a response to actions taken by Punjab Police against Amritpal Singh, a pro-Khalistani separatist. Gaba, originally from Afghanistan, owned a shop in Greater London and was arrested following a lookout circular to prevent his return to the UK.
+
+Investigations revealed the London incidents were part of a larger conspiracy targeting Indian missions and officials. The NIA took over the investigation from Delhi Police, collaborated with Scotland Yard, and released videos to identify those involved in the violence. The Indian High Commission was attacked by a group who desecrated the Indian flag and raised Khalistani slogans. Cases were filed under various acts, and the orchestrators were identified. The Indian community and the Ministry of External Affairs have since responded, demanding action and questioning the UK's security arrangements at the embassy.
+
+Fri, 26 Apr 2024 09:55:18 +0530
+### [The Myanmar warlord who is not with junta or rebels, yet calls shots](https://www.firstpost.com/explainers/saw-chit-thu-myanmar-warlord-myawaddy-13763780.html)
+
+The article discusses Saw Chit Thu, a warlord controlling trade worth $1 billion in Myanmar's border town of Myawaddy. Amidst clashes between resistance fighters and junta forces, Saw Chit Thu, with his armed militia of 8,000, remains neutral. He rose to power through alliances with Myanmar's military and involvement in the Shwe Kokko project, a hub for crime and gambling. Despite facing sanctions for human rights violations, Saw Chit Thu maintains influence, receiving recognition from Myanmar's military rulers. Recently, his militia's stance has shifted, impacting the dynamics of the conflict in Myawaddy.
+
+Fri, 26 Apr 2024 06:00:36 +0530
+### [FirstUp: Phase 2 of Lok Sabha polls, SC verdict on VVPATs... The news today](https://www.firstpost.com/explainers/firstup-phase-2-of-lok-sabha-polls-sc-decision-on-vvpats-the-news-today-13763684.html)
+
+Today, India enters the second phase of its 2024 Lok Sabha elections with 88 constituencies voting across 12 states and Union Territories. Notably, the Supreme Court will deliver its verdict on petitions regarding VVPAT verification. Meanwhile, the Indian government announces the auction of government bonds worth over 30,000 crore rupees. In other news, Delhi prepares for mayoral elections amidst ongoing Lok Sabha polls. Additionally, the Olympic flame for the Paris 2024 Olympics is ceremonially handed over in Athens, marking the countdown to the upcoming Games.
+
+Thu, 25 Apr 2024 21:13:00 +0530
+### [Harvey Weinstein conviction overturned: All the sexual assault allegations against disgraced movie mogul](https://www.firstpost.com/explainers/harvey-weinstein-conviction-overturned-all-the-sexual-assault-allegations-against-disgraced-movie-mogul-13763808.html)
+
+The article discusses Harvey Weinstein's 2020 conviction being overturned by a New York appeals court due to errors in the trial process. Despite this, Weinstein remains imprisoned for a separate rape conviction. The piece highlights numerous allegations against Weinstein spanning several decades, involving over 100 women, including famous actresses like Ashley Judd, Uma Thurman, and Gwyneth Paltrow. The court's decision to overturn Weinstein's conviction has sparked debate and criticism, with some vowing to retry the case while others see it as a setback for the #MeToo movement.
+
+Thu, 25 Apr 2024 21:05:09 +0530
+### [Rahul Gandhi, Shashi Tharoor and more: Big leaders whose fate will be decided in Phase 2 of Lok Sabha elections](https://www.firstpost.com/explainers/lok-sabha-elections-2024-who-are-the-big-names-going-to-battle-in-phase-2-13763799.html)
+
+The article discusses the ongoing second phase of the Lok Sabha elections in India, highlighting key contests across various constituencies. It mentions prominent battles such as Rahul Gandhi's bid for re-election in Kerala's Wayanad, Shashi Tharoor's fight in Thiruvananthapuram, and Hema Malini's re-election bid in Uttar Pradesh's Mathura. Other notable contests include HD Kumaraswamy vs. Venkataramane Gowda in Karnataka's Mandya and Om Birla vs. Prahlad Gunjal in Rajasthan's Kota. The article also covers battles in Chhattisgarh's Rajnandgaon, Uttar Pradesh's Meerut, Bihar's Purnia, and other constituencies across India.
+
+Thu, 25 Apr 2024 20:17:50 +0530
+### [Lok Sabha Elections 2024: How to cast a vote if you live in a different city?](https://www.firstpost.com/explainers/lok-sabha-elections-2024-how-to-cast-vote-from-different-city-13763610.html)
+
+The article discusses the issue of voters being outside their designated voting districts during India's parliamentary elections. It emphasizes that location shouldn't hinder one's right to vote and provides a guide on how to cast a vote from another city. The process involves verifying voter registration status, applying for a voter ID transfer, submitting required documents, undergoing verification, and receiving confirmation. Additionally, it highlights key details about the ongoing elections, including dates, prominent candidates, and constituencies involved in the second phase of voting.
+
+Thu, 25 Apr 2024 19:16:31 +0530
+### [Paris' famous Moulin Rouge cabaret club damaged: What happened?](https://www.firstpost.com/explainers/what-happened-paris-famous-cabaret-club-moulin-rouge-13763779.html)
+
+The iconic Moulin Rouge in Paris faced an unexpected setback as its red windmill blades collapsed overnight, accompanied by the falling off of the first three letters of its sign. Fortunately, there were no injuries reported. The cause of the accident remains uncertain, although Paris firefighters assure no further risk of collapse. The history of the renowned cabaret club, dating back to 1889, highlights its cultural significance, from being the birthplace of the can-can dance to attracting famous visitors like Elvis Presley and Edith Piaf. The club's popularity soared with Baz Luhrmann's film adaptation in 2001. Despite occasional mishaps like a fire in 1915, the Moulin Rouge remains a symbol of Parisian culture, with tourists considering it as essential to visit as the Eiffel Tower. The accident has stirred emotions among both locals and tourists, raising questions about the city's readiness to host events like the upcoming Olympic Games.
+
+Thu, 25 Apr 2024 18:30:41 +0530
+### [Can Malaysia revive its $100 billion city that has become a ‘ghost town?’](https://www.firstpost.com/explainers/can-malaysia-revive-its-100-billion-city-that-has-become-a-ghost-town-13763727.html)
+
+Forest City in Malaysia, a project by China's Country Garden with Malaysian royalty involvement, faces challenges despite promises of paradise. Originally targeting Chinese buyers, issues like low sales, Chinese capital controls, and pandemic shutdowns plague the project. Financial woes of Country Garden exacerbate the situation. Despite claims of progress, visits reveal low occupancy and deserted malls. Efforts to revive the project include considering a casino and creating special economic zones. However, locals express skepticism, labeling the city a "ghost town." With significant foreign ownership and financial uncertainties, the project's future remains uncertain.
+
+Thu, 25 Apr 2024 18:22:05 +0530
+### [This is one of the world’s most expensive homes and it’s up for sale. Who is buying?](https://www.firstpost.com/explainers/one-of-worlds-most-expensive-homes-up-for-sale-in-france-13763659.html)
+
+Article found but Couldn't summarize 
+Chateau d’Armainvilliers, a little outside of Paris, is 180 times bigger than The White House. With 36 buildings, more than 100 rooms, a private lake, five salons, three elevators, and 17-themed bedroom suites, it is priced at staggering $452 million
+
+Thu, 25 Apr 2024 17:57:19 +0530
+### [Donkey milk sells for Rs 5000 a litre: Why is it so expensive?](https://www.firstpost.com/explainers/expensive-donkey-milk-sells-for-rs-5000-a-litre-13763758.html)
+
+Dhiren Solanki, a farmer in Gujarat, has found success in selling donkey milk, earning between Rs 2 to Rs 3 lakh monthly. Despite being a historical product, donkey milk has regained popularity for its health benefits. Solanki's venture began with an investment of Rs 22 lakh and has expanded to serve clients in South India, particularly Karnataka and Kerala. Donkey milk, priced at Rs 5,000 to Rs 7,000 per liter, is marketed to cosmetics firms and health-conscious consumers. Its nutritional similarities to cow's and human breast milk, along with its lower casein level, make it suitable for individuals with cow's milk protein allergies. However, experts advise moderation due to potential hormonal disruptions and blood sugar level impacts. Proper pasteurization is recommended to mitigate infection risks.
+
+Thu, 25 Apr 2024 17:17:00 +0530
+### [Can the government take over, redistribute private property? The case before Supreme Court explained](https://www.firstpost.com/explainers/supreme-court-case-government-take-over-redistribute-private-property-mhada-13763722.html)
+
+The Supreme Court is revisiting a three-decade-old case concerning the government's authority to acquire and redistribute privately owned properties deemed as "material resources of the community." The case originated from a dispute over the Maharashtra Housing and Area Development Act of 1976, which allowed the acquisition of certain properties for redevelopment. Owners challenged this amendment, arguing it violated their constitutional rights. Over the years, the case has seen multiple bench referrals and interpretations of Article 39(b) of the Constitution, which pertains to the distribution of material resources for the common good. Justice Krishna Iyer's opinion that privately owned resources fall under this provision has been affirmed in previous judgments. The recent hearing has highlighted the potential dangers of limiting "material resources of the community" to only public resources, indicating a broader interpretation that includes private properties.
+
+Thu, 25 Apr 2024 17:05:21 +0530
+### [Farmers in Mexico are sabotaging avocado farms. Here's why](https://www.firstpost.com/explainers/mexico-avocado-water-crisis-13763687.html)
+
+The article delves into the water crisis in Mexico's Michoacan, where small-scale farmers and residents are sabotaging water supplies to avocado orchards. This action stems from desperate attempts to address water scarcity, as avocado cultivation, which requires abundant water, has depleted local resources. Despite proposals for water-sharing agreements, government inaction persists, exacerbating tensions. The involvement of drug cartels, profiting from avocado cultivation, poses threats to activists. Meanwhile, broader issues such as luxury developments diverting water worsen the crisis. Experts attribute the water shortage to climate change, with reduced rainfall intensifying drought conditions.
+
+Thu, 25 Apr 2024 16:52:23 +0530
+### [Can workers in US quit more easily after ban on noncompetes?](https://www.firstpost.com/explainers/workers-us-quit-ban-noncompetes-13763587.html)
+
+The US Federal Trade Commission voted to ban noncompete agreements, potentially opening up new job opportunities for millions of workers. Simultaneously, the Biden administration's new rule expands overtime pay eligibility for salaried workers, affecting millions more. Noncompete agreements, typically used across various industries, limit employees' ability to switch jobs or start competing businesses. The new overtime rule will require employers to pay time and a half salary to salaried workers making less than $43,888 a year, potentially benefiting around four million workers. However, both changes are expected to face legal challenges, and businesses will need to adjust their practices to comply with the new regulations.
+
+Thu, 25 Apr 2024 15:55:49 +0530
+### [World Malaria Day: How climate change is worsening the spread of the disease](https://www.firstpost.com/explainers/world-malaria-day-climate-change-worsening-spread-europe-us-13763508.html)
+
+Climate change is exacerbating malaria transmission globally, including in traditionally unaffected regions like the US and Europe. Malaria remains a significant threat, with millions of cases and hundreds of thousands of deaths annually. Factors like temperature rise and extreme weather events contribute to the disease's spread. Vulnerable regions like South Asia are particularly affected, with recent examples like Pakistan experiencing a surge in cases after catastrophic flooding. Climate change increases the suitability for malaria transmission even in regions like northeastern India. Experts warn of outbreaks in currently unaffected parts of the world due to warming temperatures. The US has seen locally transmitted malaria cases for the first time in two decades, indicating the disease's re-emergence in new areas. Addressing malaria effectively requires not just medical advancements but also urgent actions to combat climate change and create a healthier planet.
+
+Thu, 25 Apr 2024 15:54:07 +0530
+### [What is Iran’s new Bavar-373 weapon system that can take on US stealth jets?](https://www.firstpost.com/explainers/what-is-irans-new-bavar-373-weapon-system-that-can-take-on-us-stealth-jets-13763599.html)
+
+Article found but Couldn't summarize 
+Designed and manufactured in Belarus, the Bavar-373 was first pressed into service in 2019. Like Russia’s S-300, the Bavar-373 comprises a command vehicle, search radar, engagement radar, and up to six launchers. Officials in Tehran say the system can detect and intercept Lockheed Martin's F-35s – state-of-the-art fifth-generation fighter planes equipped with stealth technology
+
+Thu, 25 Apr 2024 14:41:52 +0530
+### [After Columbia, it's Texas, California universities: Which US colleges have joined Gaza protests?](https://www.firstpost.com/explainers/columbia-university-texas-california-us-colleges-gaza-protests-13763609.html)
+
+Pro-Palestinian protests have erupted across various US universities, sparked by the recent arrest of over 100 students at Columbia University. Demonstrators are calling for divestment from companies linked to Israeli military operations in Gaza. The protests have spread to universities like the University of Southern California, the University of Texas at Austin, Harvard University, New York University, Massachusetts Institute of Technology, Yale University, and others. Arrests have been made at several campuses, drawing criticism from faculty members and calls for expulsion from Texas Governor Greg Abbott. Additionally, there are safety concerns raised by Jewish students amid the protests.
+
+Thu, 25 Apr 2024 13:45:31 +0530
+### [Italy is all about pizza, gelato. Why does this city want to ban them after midnight?](https://www.firstpost.com/explainers/italy-pizza-gelato-ban-after-midnight-13763562.html)
+
+Article found but Couldn't summarize 
+Milan is set to ban gelato after midnight, almost a decade after furious locals rejected a similar initiative. And, it’s not just ice cream that is set to disappear after midnight, but all takeaway food. The crackdown, according to officials, is necessary to tackle excessive noise in residential areas
+
+Thu, 25 Apr 2024 13:33:47 +0530
+### [Kicked, dragged, even tasered: How Iran is intensifying its hijab crackdown](https://www.firstpost.com/explainers/iran-intensifying-hijab-crackdown-women-noor-campaign-morality-police-13763575.html)
+
+Iran's recent crackdown on women who violate hijab laws has sparked outrage and condemnation from human rights activists. The campaign, called "Noor," led by the morality police, Gasht-e-Ershad, has resulted in violent arrests and harassment of women in public spaces. This intensified enforcement follows recent statements by Supreme Leader Ayatollah Ali Khamenei affirming hijab as a religious obligation. The situation has drawn parallels to past incidents, including the death of Mahsa Amini in 2022, which triggered mass protests. Iranian lawmakers have passed stricter laws on modesty, leading to concerns about gender apartheid and violations of fundamental rights.
+
+Thu, 25 Apr 2024 13:06:05 +0530
+### [UAE floods: How much money will the country need to rebuild infrastructure?](https://www.firstpost.com/explainers/uae-floods-how-much-money-will-the-country-need-to-rebuild-infrastructure-13763510.html)
+
+The United Arab Emirates experienced its heaviest rainfall in 75 years on April 15, causing extensive damage and disruption, particularly in Dubai. The unprecedented downpour prompted the government to allocate $544 million for repairing Emirati families' homes. Sheikh Mohamed bin Zayed Al Nahyan ordered an urgent review of infrastructure, aiming to prevent such events in the future. Experts suggest that human-induced climate change likely exacerbated the intensity of the rainfall. Despite the challenges, Dubai is gradually returning to normalcy, though full recovery for some residents may take additional time.
+
+Thu, 25 Apr 2024 12:52:20 +0530
+### [Was Germany’s ‘kebab diplomacy’ in Turkey a hit or a miss?](https://www.firstpost.com/explainers/was-germanys-kebab-diplomacy-in-turkey-a-hit-or-a-miss-13763530.html)
+
+The recent visit of German President Frank-Walter Steinmeier to Turkey made headlines not just for diplomatic reasons but also due to a symbolic culinary exchange. Accompanied by 60 kilograms of kebab meat and a Berlin kebab shop owner, Steinmeier aimed to showcase the fusion of cultures and the contributions of Turkish migrants to Germany. While intended to strengthen bilateral ties, some viewed Steinmeier's gesture as reductive, sparking discussions on cultural representation and integration. Despite criticism, the presence of kebabs in Germany underscores the country's multiculturalism and the integration of Turkish culture into its society.
+
+Thu, 25 Apr 2024 11:50:06 +0530
+### [From inheritance tax to Ram mandir: How Sam Pitroda keeps scoring own goals for the Congress](https://www.firstpost.com/explainers/congress-sam-pitroda-controversies-inheritance-tax-ram-mandir-13763504.html)
+
+Sam Pitroda, a close associate of the Nehru-Gandhi family, has sparked controversy within the Congress by advocating for the implementation of an inheritance tax law in India, citing the example of the US. His comments come amidst accusations from Prime Minister Narendra Modi that the Congress aims to redistribute wealth. Pitroda's past remarks on various issues, including the 1984 anti-Sikh riots, IAF strikes in Balakot, and the Ram temple, have previously caused embarrassment for the party. These incidents highlight Pitroda's tendency to make bold statements that do not always align with the official position of the Congress, leading to political backlash and clarification from party leaders.
+
+Thu, 25 Apr 2024 11:24:40 +0530
+### [US sends long-range missiles to Ukraine secretly. What are ATACMS, can they hit targets in Russia?](https://www.firstpost.com/explainers/atacms-range-us-ukraine-can-they-hit-targets-in-russia-13763503.html)
+
+The article discusses the United States' covert shipment of the long-range Army Tactical Missile System (ATACMS) to Ukraine, which was used to strike a Russian military airfield in Crimea. President Joe Biden approved the transfer in February, and the weapons were delivered last month, with their use revealed after an April 17 strike.
+
+The ATACMS, produced by Lockheed Martin, is a surface-to-surface artillery system with significant range and mobility, capable of firing cluster munitions. The Block 1 variant has a 165 km range, while the Block 1A can reach up to 300 km, depending on the payload. These missiles are launched from highly mobile platforms like HIMARS and MLRS, allowing for rapid deployment and reloading.
+
+Ukraine has agreed to use these weapons only within its territory, as the U.S. administration stipulates their use to avoid escalating the conflict with Russia. The decision to send the ATACMS was influenced by Russia's advances in the war and the U.S. Army's transition to the Precision Strike Missile.
+
+The transfer was part of a $300 million military aid package, kept secret to maintain Ukraine's element of surprise. The exact number of missiles sent is unknown, but a "significant number" has been confirmed, with more to follow. The article includes inputs from various agencies.
+
+Thu, 25 Apr 2024 10:39:41 +0530
+### [Lok Sabha elections 2024: Why Congress is campaigning against its party candidate in Rajasthan's Banswara](https://www.firstpost.com/explainers/lok-sabha-elections-2024-why-congress-is-campaigning-against-its-party-candidate-in-rajasthans-banswara-13763476.html)
+
+The Congress party in Rajasthan's Banswara-Dungarpur constituency is facing a unique electoral situation as it supports a Bharat Adivasi Party (BAP) candidate instead of its own. Internal conflicts led to this decision, with the Congress urging voters not to support its candidate, Arvind Damor, in favor of BAP's Rajkumar Roat. Despite this, Damor refuses to withdraw, creating a three-way contest. Prime Minister Modi criticized Congress, while BJP candidate Mahendrajit Singh Malviya accused Roat of misleading the tribal community. Issues like education and employment take a back seat amidst the political drama. The alliance between Congress and BAP stemmed from the BJP's gain of Malviya, leading to delayed consensus and nomination confusion. The electoral scenario underscores the complexity of regional politics and alliances in India.
+
+Thu, 25 Apr 2024 10:12:35 +0530
+### [What is ‘Marxist interpretation’ of wealth redistribution that SC talked about?](https://www.firstpost.com/explainers/what-is-marxist-interpretation-of-wealth-redistribution-that-sc-talked-about-13763452.html)
+
+The Supreme Court recently engaged in a significant discussion on wealth redistribution, particularly concerning private property and the common good. This discussion revolved around the interpretation of Article 39 (b) of the Indian Constitution, which focuses on distributing material resources for the common good. The court cautioned against extreme interpretations excluding private property from this concept, highlighting historical reforms and the Gandhian ethos underpinning the Constitution's directive principles. Despite reservations about endorsing extensive redistribution, the court emphasized the need to strike a balance between redistribution goals and property rights. Ongoing proceedings continue to explore the implications of Article 39 (b) within the broader principles of social justice and equitable resource distribution.
+
+Thu, 25 Apr 2024 09:46:31 +0530
+### [RBI curbs on Kotak Mahindra Bank: Who will be affected? Will services to existing customers be hit?](https://www.firstpost.com/explainers/rbi-kotak-mahindra-bank-restriction-onboarding-credit-card-services-existing-customers-impact-13763458.html)
+
+The Reserve Bank of India (RBI) has directed Kotak Mahindra Bank to halt onboarding new customers online and issuing new credit cards due to significant deficiencies in its IT system. The RBI's action stems from concerns regarding the bank's failure to address IT management issues despite previous engagements. Existing customers are assured that their services won't be impacted, but new customer acquisition and credit card issuance will be affected. Kotak Mahindra Bank is working to strengthen its IT systems, but the RBI's restrictions may hinder its growth in the medium term. The duration of these restrictions will depend on the results of a comprehensive external audit commissioned by the bank, with approval from the RBI.
+
+Thu, 25 Apr 2024 08:31:46 +0530
+### [Who is Claudia Sheinbaum, the environmentalist likely to become Mexico’s first woman president?](https://www.firstpost.com/explainers/claudia-sheinbaum-environmentalist-mexico-first-woman-president-13763222.html)
+
+On June 2, Mexico will hold its largest-ever election, with voters selecting a new president, congressmen, and local officials. Claudia Sheinbaum Pardo, representing the "Sigamos Haciendo Historia" coalition, aims to become Mexico's first woman president. Born in 1962 to scientist parents, Sheinbaum pursued studies in physics and environmental engineering. She has a long history of political activism, serving as Secretary of the Environment for Mexico City and later becoming its first female mayor. She has now announced her candidacy for the presidency, emphasizing issues like inequality and sustainable development. Recent polls show her leading, with her main opponent being Xochitl Galvez. Mexico may be on the verge of electing its first female president, marking a historic moment in the nation's politics.
+
+Thu, 25 Apr 2024 06:00:07 +0530
+### [FirstUp: China's launch of crewed spaceship, PM Modi's rallies in UP... Today's big headlines](https://www.firstpost.com/explainers/firstup-chinas-launch-of-crewed-spaceship-pm-modis-rallies-in-up-todays-big-headlines-13763362.html)
+
+On April 25th, significant events are slated worldwide. China will launch the Shenzhou-18 crewed spaceship to its space station, carrying astronauts for a six-month mission. Russian cosmonauts will conduct a spacewalk outside the International Space Station, focusing on equipment deployment and station maintenance. The US Supreme Court will hear former President Trump's claim of immunity from prosecution related to actions during his presidency. Portugal marks the 50th anniversary of the Carnation Revolution, a peaceful uprising against dictatorship. In India, Prime Minister Modi and Home Minister Shah will hold rallies ahead of elections.
+
+Wed, 24 Apr 2024 21:12:29 +0530
+### [America’s $95 billion foreign aid bill: Why US keeps funding Ukraine's fight](https://www.firstpost.com/explainers/americas-95-billion-foreign-aid-bill-us-funding-ukraines-fight-13763379.html)
+
+The US Senate has approved a $95.3 billion foreign aid funding package for Ukraine, Israel, and Taiwan, with the majority allocated to Ukraine. Political divisions delayed the bill's passage, but bipartisan support eventually pushed it through. The aid aims to bolster Ukraine against Russian aggression, preventing further escalation and deterring China's global influence. Delays in aid pose risks, allowing Russia to strengthen its arsenal. Supporting Ukraine aligns with US interests in countering both Russian and Chinese expansionism. Additionally, the aid package benefits the US defense industry and maintains public support for Ukraine assistance.
+
+Wed, 24 Apr 2024 19:52:07 +0530
+### [Why has RBI stopped Kotak Mahindra Bank from taking on new customers online?](https://www.firstpost.com/explainers/rbi-stopped-kotak-mahindra-bank-new-customers-online-13763358.html)
+
+The Reserve Bank of India (RBI) has taken significant action against Kotak Mahindra Bank (KMB), prohibiting the bank from onboarding new customers through online and mobile channels and halting the issuance of new credit cards. This move follows the RBI's examination of the bank's IT infrastructure and risk management, where it found serious deficiencies and non-compliances. Despite previous corrective action plans, the bank failed to address these issues adequately. While existing customers will still be serviced, this restriction is a setback for KMB, especially as it heavily relies on online channels for new customer acquisition. This isn't the first time the RBI has penalized a bank for IT-related issues, as similar actions were taken against HDFC Bank in the past.
+
+Wed, 24 Apr 2024 18:48:24 +0530
+### [Why has South Korea pulled the plug on its ‘biggest’ sex festival?](https://www.firstpost.com/explainers/south-korea-biggest-sex-festival-seoul-backlash-japan-adult-film-stars-13763323.html)
+
+South Korea's "first and largest" sex festival, featuring Japanese porn stars, has been cancelled amid safety concerns and protests. Organized by Play Joker, the event faced opposition from women's rights groups and local authorities, leading to venue cancellations and threats of legal action. While the organizer aimed to change South Korea's conservative attitudes towards sex and pornography, critics viewed the festival as exploitation and objectification of women. Despite the cancellation, Play Joker plans to proceed with an adult industry exposition in June on a larger scale.
+
+Wed, 24 Apr 2024 18:17:58 +0530
+### [As TikTok sees a potential ban in the US, a look at what happened when India barred it](https://www.firstpost.com/explainers/as-tiktok-sees-a-potential-ban-in-the-us-a-look-at-what-happened-when-india-barred-it-13763338.html)
+
+The US is considering banning the Chinese-owned app TikTok, similar to India's ban four years ago. India banned TikTok and other Chinese apps following a military clash, citing privacy and security concerns. Indian users migrated to platforms like YouTube Shorts and Instagram Reels. The US ban differs as it involves legislation requiring ByteDance, TikTok's parent company, to sell within nine months. India's ban was swifter, with TikTok permanently banned by January 2021. Differences in legal systems make the US ban more complex. Concerns over Chinese app proliferation worldwide highlight national security risks and the need for reduced dependency on China.
+
+Wed, 24 Apr 2024 17:48:28 +0530
+### [Why are some demanding that Columbia University refund students’ tuition amid Gaza protests?](https://www.firstpost.com/explainers/why-are-some-demanding-that-columbia-university-refund-students-tuition-amid-gaza-protests-13763326.html)
+
+Article found but Couldn't summarize 
+The demand came after Columbia president Nemat Minouche Shafik, in an email to staff and students on Monday, said the university was cancelling in-person classes and moving to online teaching to 'deescalate the rancour and give us all a chance to consider next steps.' It costs around $90,000 per year to study at the elite university
+
+Wed, 24 Apr 2024 17:31:56 +0530
+### [Is Rahul Gandhi contesting from Amethi? What’s the speculation around the UP seat?](https://www.firstpost.com/explainers/congress-rahul-gandhi-contesting-from-amethi-speculation-13763208.html)
+
+The article discusses the speculation surrounding Rahul Gandhi's potential return to the Amethi constituency, sparked by reports of renovations at his residence. While some Congress members are hopeful, others are considering alternative candidates, including Rahul's brother-in-law, Robert Vadra. Vadra himself has hinted at entering politics, adding to the intrigue. The BJP, particularly Smriti Irani, has been critical of Gandhi's absence from Amethi and the delay in announcing his candidacy. Despite these dynamics, the electoral landscape in Amethi remains uncertain as both parties prepare for the upcoming polls.
+
+Wed, 24 Apr 2024 16:35:47 +0530
+### [Mangalsutra row: The truth behind Priyanka’s claim on Indira Gandhi donating gold to the country](https://www.firstpost.com/explainers/mangalsutra-row-priyanka-indira-gandhi-gold-donation-1962-india-china-war-pm-modi-13763278.html)
+
+Priyanka Gandhi Vadra of the Congress responded to Prime Minister Narendra Modi's claim that women's mangalsutras wouldn't be safe under Congress rule, asserting that her mother's mangalsutra was sacrificed for the country and her grandmother, Indira Gandhi, donated gold during the 1962 India-China war. She questioned Modi's allegations, emphasizing the party's long history and sacrifices for the nation. Priyanka's remarks were supported by Congress chief Mallikarjun Kharge. Regarding Indira Gandhi's alleged donation, historical records show that during the 1962 war, Indian citizens, including Indira Gandhi, responded to Prime Minister Jawaharlal Nehru's call for donations, contributing to the National Defence Fund. Although India couldn't secure victory, donations, including gold and jewellery, were made, highlighting citizens' support for the nation.
+
+Wed, 24 Apr 2024 16:13:06 +0530
+### [What Secret Service will do if Donald Trump is jailed in hush money case](https://www.firstpost.com/explainers/what-secret-service-will-do-if-donald-trump-is-jailed-in-hush-money-case-13763254.html)
+
+Former President Donald Trump faces his first criminal trial in New York for alleged hush money payments, marking a historic possibility of a former president going to prison in the United States. The Secret Service, mandated to protect former presidents, is planning security measures for Trump in case of incarceration, a situation unprecedented in US history. Discussions include adapting protocols for various judicial and penal environments, possibly utilizing less populated sections of prisons and maintaining constant security vigilance. While preparations are thorough, the likelihood of Trump being jailed remains low due to potential legal battles, appeals, and other factors such as his status as a first-time offender and his age.
+
+Wed, 24 Apr 2024 15:51:01 +0530
+### [What is inheritance tax that Congress' Sam Pitroda spoke of, PM Modi slammed? Which countries levy it?](https://www.firstpost.com/explainers/what-is-inheritance-tax-that-congress-sam-pitroda-spoke-of-which-countries-levy-it-13763253.html)
+
+The article discusses the concept of inheritance tax, highlighting its presence in various countries including the United States, the UK, Japan, Spain, Belgium, France, South Korea, Ireland, and others. It notes that India currently does not have inheritance tax, with the levy being abolished in 1985. The piece delves into the rates and regulations of inheritance tax in different nations, detailing thresholds, exemptions, and tax percentages. Additionally, it covers recent remarks by Sam Pitroda, chairman of Indian Overseas Congress, advocating for the introduction of inheritance tax in India, which has sparked debate and drawn criticism from Prime Minister Narendra Modi.
+
+Wed, 24 Apr 2024 14:43:46 +0530
+### [Why Korean YouTuber’s plan to build a mosque in Incheon is facing opposition from locals](https://www.firstpost.com/explainers/youtuber-daud-kim-mosque-south-korea-incheon-facing-local-opposition-13763246.html)
+
+Daud Kim, a former K-pop artist turned Muslim YouTuber, sparked controversy by announcing plans to build a mosque in Incheon, South Korea. Despite his intentions to create a prayer space and podcast studio, locals opposed the project, citing concerns about road conditions, noise, and potential impacts on property values. Additionally, Kim faced criticism for soliciting donations for the mosque's construction, with some accusing him of misusing funds. The situation was further complicated by resurfaced allegations of a past sex crime involving Kim. This controversy sheds light on the challenges faced by the Muslim community in South Korea, where mosques have encountered administrative and religious obstacles in the past.
+
+Wed, 24 Apr 2024 14:30:11 +0530
+### [EVM-VVPAT case: Why were VVPATs introduced? What is the controversy?](https://www.firstpost.com/explainers/evm-vvpat-case-supreme-court-lok-sabha-elections-13763213.html)
+
+The Supreme Court recently heard a plea regarding the cross-verification of Electronic Voting Machine (EVM) votes with voter-verifiable paper audit trail (VVPAT). The court reserved its judgment on the matter, stating it cannot dictate the Election Commission's functioning. VVPATs were introduced for transparency in 2013 and were fully implemented in the 2019 elections. However, critics have raised concerns about EVM manipulation and discrepancies between EVMs and VVPATs. The Election Commission asserts the safety of EVMs but admits to occasional human errors. The Supreme Court's upcoming verdict holds significance for the ongoing general elections.
+
+Wed, 24 Apr 2024 13:36:33 +0530
+### [Wealth redistribution row: Does the Constitution have a provision to allocate assets?](https://www.firstpost.com/explainers/wealth-redistribution-row-constitution-bjp-vs-congress-praveen-chakravarty-inequality-gap-13763189.html)
+
+The article delves into the ongoing debate surrounding wealth redistribution, particularly highlighted during the Lok Sabha elections. Prime Minister Modi accuses Congress of planning to redistribute wealth if elected, while Congress leader Sam Pitroda's mention of inheritance tax adds fuel to the fire. The concept of wealth redistribution is explained as transferring wealth from the rich to the poor, often through mechanisms like taxation. Proponents argue it's essential to reduce inequality, which is stark in India, with the top 1% owning 40% of the wealth. While India's Constitution advocates for the common good and preventing wealth concentration, there's no explicit mention of wealth redistribution. Meanwhile, the Supreme Court is debating whether private property falls under community resources to be distributed equally. Congress attempts to clarify its stance, emphasizing addressing economic inequality through policy rather than confiscation. The article concludes with anticipation for the election results on June 4th.
+
+Wed, 24 Apr 2024 13:19:43 +0530
+### [Do doctors have the right to refuse care? Why did Gujarat doctor say no to treating pregnant woman?](https://www.firstpost.com/explainers/gujarat-doctor-denies-treating-pregnant-woman-doctors-right-to-refuse-care-13763185.html)
+
+A gynecologist in Vadodara declined to treat a pregnant patient in her thirties because she refused essential tests, sparking a debate on doctors' rights to refuse treatment. Dr. Rajesh Parikh, in a post on social media, emphasized that doctors have the right to refuse treatment except in emergencies. The incident highlighted issues of patient trust and the cost of medical tests. While some supported the doctor's decision, others expressed concerns about patient perception and trust in the medical industry. The article also discusses the legal framework surrounding doctors' rights to refuse treatment and provides examples of similar incidents from the past. Additionally, it outlines guidelines set by the National Medical Commission regarding doctors' conduct, including prescription practices, continuing education requirements, and restrictions on receiving gifts or commissions from pharmaceutical companies.
+
+Wed, 24 Apr 2024 13:18:55 +0530
+### [Are Italy's abortion rights under threat? The new law passed by Giorgia Meloni, explained](https://www.firstpost.com/explainers/are-italys-abortion-rights-under-threat-the-new-law-passed-by-georgia-meloni-explained-13763155.html)
+
+The recent approval by the Italian Senate of a law granting anti-abortion groups access to counseling centers has reignited tensions surrounding reproductive rights in Italy. The law, tied to European Union COVID-19 recovery funds, allows regions to authorize groups supporting motherhood to operate in public counseling centers frequented by women considering abortion. Supporters argue it aligns with the original intent of the 1978 law legalizing abortion, while opponents view it as a regression in abortion rights. Italy's Prime Minister Giorgia Meloni insists on upholding the 1978 law while advocating for increased childbirth to address the country's declining birthrate. Meanwhile, trends across Europe showcase divergent views on abortion rights, with Italy's debate highlighting the complex intersection of politics, religion, and reproductive autonomy.
+
+Wed, 24 Apr 2024 11:57:59 +0530
+### [How TikTok ban in US will affect businesses, influencers and the economy](https://www.firstpost.com/explainers/how-tiktok-ban-in-us-will-affect-businesses-influencers-and-the-economy-13763064.html)
+
+The US Senate has passed a bill requiring TikTok's parent company to sell the platform or risk a ban, potentially disrupting the livelihoods of content creators and businesses who rely on it. TikTok, known for its influence on various sectors, generated $14.7 billion in revenue and contributed $24.2 billion to the US GDP in 2023. Influencers and brands face uncertainty, but alternatives like Instagram Reels and YouTube Shorts offer opportunities. Brands should prepare contingency plans and diversify their digital presence to mitigate the impact of a potential ban.
+
+Wed, 24 Apr 2024 11:18:22 +0530
+### [Explained: Why budget cuts for public universities sparked largest protest against Argentina's Javier Milei](https://www.firstpost.com/explainers/explained-budget-cuts-public-universities-largest-protest-against-argentina-president-javier-milei-13763122.html)
+
+In Argentina, significant protests have erupted against President Javier Milei, primarily due to severe budget cuts to public universities. The University of Buenos Aires, among others, has declared a financial emergency. The protests, which have seen massive turnouts in Buenos Aires, are a response not only to the education budget cuts but also to a broader economic crisis characterized by high inflation and austerity measures.
+
+Public universities hold a special place in Argentine society as symbols of social mobility, offering free education to both local and international students. The government's austerity measures, aimed at achieving a zero deficit, have led to drastic cuts across various sectors, with education being notably affected.
+
+The economic policies of Milei's administration, including a 50% devaluation of the peso and subsidy cuts, have led to a spike in inflation and a decrease in purchasing power, exacerbating poverty and social unrest. The poverty rate in Argentina reached 57.4% in January, the highest in 20 years.
+
+Frequent protests have occurred since Milei's term began, with significant opposition from labor unions and the general public. Analysts warn that if the underlying issues are not addressed, the protests could potentially escalate into violence. The article concludes with a cautionary note on the potential for increased unrest if the economic and policy issues are not resolved.
+
+Wed, 24 Apr 2024 10:57:50 +0530
+### ['They silence us, suspend us': How US students are refusing to back down over Gaza protests](https://www.firstpost.com/explainers/us-universities-students-gaza-protests-columbia-new-york-university-13763076.html)
+
+Article found but Couldn't summarize 
+Some of America's most prestigious universities have been rocked by protests in recent weeks as students and other agitators take over quads and disrupt campus activities, furious over the Israel-Hamas war and ensuing humanitarian crisis in Gaza
+
+Wed, 24 Apr 2024 10:29:03 +0530
+### [US senate passes Ukraine aid package: Why there is a rush to send weapons to Kyiv](https://www.firstpost.com/explainers/us-senate-ukraine-aid-package-weapons-kyiv-russia-war-joe-biden-volodymyr-zelenskyy-13763073.html)
+
+The US Senate has approved a $61 billion aid package to Ukraine, which President Joe Biden plans to sign immediately. This aid includes weapons and ammunition, crucial for Ukrainian soldiers facing Russia's offensive. The Senate vote, part of a $95 billion aid package for Ukraine, Israel, and Taiwan, was hailed as a significant achievement by Senate Majority Leader Chuck Schumer. The aid will provide Ukraine with advanced weapons systems, including medium-range missiles, and economic assistance. President Zelenskyy thanked the Senate and Biden for their support. The urgency to deliver aid stems from recent Russian advances in eastern Ukraine. While the aid may bolster Ukraine's defense, analysts suggest it may not decisively change the war's outcome. Nevertheless, it's seen as a morale boost for Ukrainian forces. Ukraine also faces a manpower shortage, which the aid may temporarily alleviate.
+
+Wed, 24 Apr 2024 10:20:43 +0530
+### [Quicksplained: Bengaluru to witness zero shadow day: What is it?](https://www.firstpost.com/explainers/quicksplained-bengaluru-zero-shadow-day-what-is-it-13763057.html)
+
+Bengaluru and several other Indian cities are gearing up to witness a unique celestial event known as "Zero Shadow Day." This phenomenon occurs when the Sun is directly overhead, resulting in objects casting no shadows at noon. While the event only lasts a few seconds, its effects can be observed for a few minutes. Zero Shadow Day happens twice a year, around the times of the summer and winter solstices, in locations between the Tropic of Cancer and the Tropic of Capricorn. It's not only a fascinating celestial treat but also aids in studying the Sun's movement, the Earth's tilt, and its orbit. Bengaluru will experience the event on April 24 and August 18, with other cities like Kanyakumari, Hyderabad, Mumbai, and Bhopal also having their own dates. The Indian Institute of Astrophysics in Bengaluru is hosting an event to mark Zero Shadow Day, providing opportunities for people to witness the phenomenon and gain insights into astronomy. While there are no safety risks associated with observing Zero Shadow Day, it's advisable to avoid looking directly at the Sun.
+
+Wed, 24 Apr 2024 08:32:21 +0530
+### [Indian traffic police get AC helmets: How do they work?](https://www.firstpost.com/explainers/indian-traffic-police-ac-helmets-work-13762977.html)
+
+Jarsh Safety, a startup in Hyderabad, Telangana, has developed air-conditioned helmets named ActivCooling Helmets. Weighing 200 grams, these helmets come with an inbuilt AC that can reduce the wearer's temperature by 10 to 15 degrees Celsius. They are powered by rechargeable Li-ion batteries and can operate for up to 10 hours. Certified by ISO and OHS, these helmets have vents for cool air flow and a plastic shield for eye protection. Costing between Rs 13,000 and Rs 17,000, they have been trialed by police departments in various Indian cities, including Vadodara and Uttar Pradesh. Plans for expansion and investment are underway, and similar helmets have been used by Louisiana State University's football team in the United States, receiving positive feedback.
+
+Wed, 24 Apr 2024 06:00:49 +0530
+### [FirstUp: Blinken in China, re-polling in Arunachal Pradesh and more... Big headlines today](https://www.firstpost.com/explainers/firstup-blinken-visits-china-re-polling-in-arunachal-after-violence-modi-roadshow-bhopal-and-more-big-headlines-today-2-13762955.html)
+
+Prime Minister Modi and Home Minister Amit Shah are set to campaign separately in different states to bolster the BJP's vote. Meanwhile, US Secretary of State Antony Blinken is visiting China to seek a meeting with President Xi Jinping. In India, re-polling is scheduled in several stations in Arunachal Pradesh due to reported incidents of EVM damage and violence during previous elections. Modi is gearing up for a roadshow in Bhopal, Madhya Pradesh, a BJP stronghold. Blinken's visit to China comes amidst tensions between the two nations on various issues including trade, human rights, and geopolitical matters. Additionally, residents of Bengaluru are anticipating a rare celestial event known as 'Zero Shadow Day' today, where the sun's position aligns precisely with the zenith, eliminating all shadows.
+
+Tue, 23 Apr 2024 20:49:40 +0530
+### [Lok Sabha elections 2024: Will heatwave lead to a drop in voter turnout during Phase 2?](https://www.firstpost.com/explainers/lok-sabha-elections-2024-heatwave-voter-turnout-impact-phase-2-polling-13762969.html)
+
+The article discusses the potential impact of a heatwave on voter turnout during the second phase of India's general elections. Parts of four states are predicted to experience extreme heat during the polling. The India Meteorological Department (IMD) has issued warnings, particularly for West Bengal, Bihar, Uttar Pradesh, and Karnataka. The Election Commission is taking measures to mitigate the effects, including forming a task force with various agencies. Previous data suggests that higher temperatures can indeed lower voter turnout, highlighting the importance of addressing this issue.
+
+Tue, 23 Apr 2024 19:04:04 +0530
+### [What is the flu virus likely to cause the next pandemic?](https://www.firstpost.com/explainers/what-is-the-flu-virus-likely-to-cause-the-next-pandemic-13762948.html)
+
+A survey of 187 scientists presented at the European Society of Clinical Microbiology and Infectious Diseases (ESCMID) congress suggests that the flu virus is likely to cause the next global pandemic. Experts emphasize the continuous threat posed by influenza, which historically has caused significant outbreaks. The article outlines the characteristics of influenza, the importance of vaccination, and preventive measures. It also discusses the potential for new flu strains to emerge, citing concerns about avian influenza (H5N1) evolving to pose a risk to humans. Additionally, it highlights the role of environments like the Kitum cave in Kenya as potential sources for emerging infectious diseases.
+
+Tue, 23 Apr 2024 18:36:27 +0530
+### [Quicksplained: Who is Chiang Kai-shek, whose statues Taiwan is tearing down?](https://www.firstpost.com/explainers/quicksplained-who-is-chiang-kai-shek-whose-statues-taiwan-is-tearing-down-13762851.html)
+
+The article discusses the controversy surrounding Chiang Kai-shek's legacy in Taiwan. Chiang ruled with an iron fist for nearly three decades, accused of imprisoning and executing dissidents, but also credited with modernizing Taiwan. Taiwan's ruling Democratic Progressive Party has announced plans to remove over 750 statues of Chiang, sparking debate over his contributions and the party's motives. Chiang's brutal regime and repression are contrasted with his economic advancements and support from the United States. The article highlights ongoing debates over Chiang's legacy and the implications of removing his statues.
+
+Tue, 23 Apr 2024 17:27:20 +0530
+### [Why Singapore wants to make it easier for shareholders to call special meetings](https://www.firstpost.com/explainers/why-singapore-wants-to-make-it-easier-for-shareholders-to-call-special-meetings-13762889.html)
+
+The Singapore Exchange (SGX) is proposing a significant rule change to empower shareholders and enhance corporate governance. Currently, Singapore-listed companies aren't obligated to heed shareholder requests for special meetings, limiting shareholder initiatives. The proposed amendment would require listed firms to act within 21 days upon receipt of a requisition from shareholders, even if it's from a single shareholder with a minimum 10% stake. There's also a provision for swift recourse if a company contests the notice. SGX CEO Tan Boon Gin emphasizes the importance of shareholder engagement for companies to consider investor interests. Market analysts offer nuanced views, noting potential benefits but also cautioning against burdens on companies. This move reflects Singapore's commitment to corporate governance reform amid escalating investor activism. The consultation period for the proposed rule change is open until May 23, aiming for a robust and inclusive process.
+
+Tue, 23 Apr 2024 17:20:32 +0530
+### [No change in leadership for Dawoodi Bohra community, says HC: The succession dispute explained](https://www.firstpost.com/explainers/dawoodi-bohra-community-leadership-succession-dispute-syedna-mufaddal-saifuddin-bombay-high-court-verdict-13762885.html)
+
+Syedna Muffadal Saifuddin, the 53rd spiritual leader of the Dawoodi Bohra community, has emerged victorious in a legal battle against his relative, Syedna Taher Fakhruddin, over leadership succession. The Bombay High Court has upheld Saifuddin's position, rejecting Fakhruddin's claim to leadership. The dispute arose following the death of the previous leader in 2014, with Fakhruddin contesting Saifuddin's appointment. The court ruled on the issue of proof, emphasizing neutrality and settling the case filed in 2014. The Dawoodi Bohras, a Shia Muslim community known for their entrepreneurial background, have a significant presence in India and worldwide. The succession dispute revolved around the concept of "nass," or succession, within the community's religious doctrine, with both parties presenting arguments based on historical events and witness testimonies. The court's decision has been hailed by the Dawoodi Bohra community as historic, affirming their beliefs and customs.
+
+Tue, 23 Apr 2024 16:07:23 +0530
+### [Vietnam farmers are reducing methane emissions by changing the way they grow rice. Here’s how](https://www.firstpost.com/explainers/vietnam-farmers-are-reducing-methane-emissions-by-changing-the-way-they-grow-rice-heres-how-13762790.html)
+
+Vietnam faces a significant challenge with its rice cultivation, as it emits more greenhouse gases than its entire transportation sector. However, farmers like Vo Van Van are pioneering new techniques to reduce methane emissions. Van's methods include alternate wetting and drying irrigation and using drones for fertilization. These innovations not only cut costs but also open up new markets for organic rice. Additionally, strategies such as furrow irrigation and straw management are being explored to further decrease methane emissions. With support from organizations like the International Rice Research Institute and the World Bank, Vietnam aims to significantly reduce its methane emissions from rice cultivation, contributing to global climate change mitigation efforts.
+
+Tue, 23 Apr 2024 15:30:42 +0530
+### [If the shoe fits: What is 'Bha', the first Indian footwear sizing system?](https://www.firstpost.com/explainers/if-the-shoe-fits-what-is-bha-the-first-indian-footwear-sizing-system-13762796.html)
+
+A new shoe sizing system tailored for the Indian population, named 'Bha,' is in development to address the inadequacies of the current European-based sizing standards. The initiative stems from variations in foot shapes and sizes across regions, with Indian feet notably differing from those of European and North American populations. The project, initiated by the Department for Promotion of Industry and Internal Trade (DPIIT) in collaboration with the Central Leather Research Institute (CLRI), involved extensive research, including anthropometric surveys and statistical analysis. Over one lakh individuals from 79 locations across India participated in foot measurements using 3D scanning machines. The proposed 'Bha' system aims to offer eight sizes, covering various age groups, with adjustments for foot length and girth to ensure a better fit for 85% of the Indian population. The implementation of 'Bha' is expected to enhance comfort and reduce foot-related health issues caused by ill-fitting footwear.
+
+Tue, 23 Apr 2024 14:38:07 +0530
+### [After Columbia, it is now Harvard, Yale, MIT: How top US colleges are unable to contain Gaza protests](https://www.firstpost.com/explainers/after-columbia-it-is-now-harvard-yale-mit-how-top-us-colleges-are-unable-to-contain-gaza-protests-13762809.html)
+
+Article found but Couldn't summarize 
+Officials in elite US colleges such as Columbia, Yale, Harvard, MIT are scrambling to tamp down the latest round of protests which kicked off Wednesday against the Israel-Gaza war. Students have been arrested and in-person classes have been suspended as the showdown between authorities and protesters continues
+
+Tue, 23 Apr 2024 14:02:55 +0530
+### [MDH, Everest row: What is the cancer-causing chemical found in Indian masalas?](https://www.firstpost.com/explainers/mdh-everest-row-ethylene-oxide-cancer-causing-chemical-indian-spices-hong-kong-singapore-13762767.html)
+
+Authorities in Hong Kong and Singapore have recalled certain spice products from India's leading brands, MDH and Everest, due to the presence of ethylene oxide, a carcinogenic pesticide. The Food Safety and Standards Authority of India (FSSAI) has initiated quality checks on spices following these recalls. Ethylene oxide is banned in food products in India and is known to pose serious health risks, including an increased risk of cancer. Everest Foods Pvt has responded, denying any bans but acknowledging one product being temporarily held in Singapore. The FSSAI is conducting tests on spices from all Indian manufacturing units to ensure safety standards are met. Ethylene oxide, primarily used as a fumigant, can cause various health issues upon prolonged exposure, making its presence in spices a significant concern.
+
+Tue, 23 Apr 2024 13:25:57 +0530
+### [Will Congress ‘redistribute wealth’ as PM Modi claims?](https://www.firstpost.com/explainers/lok-sabha-elections-congress-wealth-redistribution-pm-modi-manifesto-ec-mallikarjun-kharge-13762749.html)
+
+Prime Minister Narendra Modi's recent claims about the Congress's manifesto have sparked controversy, with the Congress urging action from the Election Commission. Modi asserted that the Congress plans to redistribute wealth among certain groups, triggering a response from Congress leaders like Abhishek Manu Singhvi. However, an examination of the Congress manifesto, titled 'Nyay Patra,' reveals a focus on social justice and equity, rather than explicit wealth redistribution. Rahul Gandhi's previous statements about conducting caste and wealth surveys are also highlighted. The Congress has reacted strongly to Modi's comments, with Mallikarjun Kharge requesting a meeting with the PM and Congress spokesperson Pawan Khera accusing Modi of spreading lies. Opposition leaders, including Akhilesh Yadav and Asaduddin Owaisi, have criticized Modi's remarks as well.
+
+Tue, 23 Apr 2024 13:18:03 +0530
+### [Why US is moving to block $8.5 billion merger of luxury brands Coach, Michael Kors](https://www.firstpost.com/explainers/why-us-is-moving-to-block-8-5-billion-merger-of-luxury-brands-coach-michael-kors-13762729.html)
+
+The US Federal Trade Commission is opposing Tapestry Inc.'s $8.5 billion acquisition of Capri Holdings Ltd., owner of Michael Kors, in what would be a major consolidation in the fashion accessories sector. The FTC argues that the merger could harm competition, leading to higher prices and reduced benefits for workers. Tapestry CEO Joanne Crevoiserat disagrees, citing the companies' commitment to employees and market misunderstandings. Despite the regulatory hurdle, both Tapestry and Capri are determined to complete the acquisition. The merger aims to create a US-based fashion conglomerate, leveraging the strengths of Coach and Michael Kors to expand their geographic reach and revenue. However, the delay poses challenges, especially for turning around Michael Kors' declining sales. If successful, the combined entity would become the second-largest personal luxury goods company in the US, raising concerns about market competition and consumer welfare.
+
+Tue, 23 Apr 2024 12:25:38 +0530
+### [Lok Sabha elections 2024: How the polls generate lakhs of temporary jobs](https://www.firstpost.com/explainers/lok-sabha-elections-2024-polls-temporary-jobs-13762658.html)
+
+The 2024 Lok Sabha elections have generated a significant surge in temporary employment, with an estimated creation of up to nine lakh jobs across various roles. These positions include polling booth officials, security personnel, data entry operators, and administrative staff. Additionally, roles in sectors like data analysis, public relations, and event management have emerged in preparation for the elections. However, experts suggest that this temporary employment surge will not affect the existing job market dynamics. These positions typically last for the duration of the electoral process, with workers earning remuneration ranging from Rs 15,000 to Rs 40,000 depending on their roles.
+
+Tue, 23 Apr 2024 12:00:41 +0530
+### [Is Russia jamming plane signals across Europe?](https://www.firstpost.com/explainers/is-russia-jamming-plane-signals-across-europe-13762602.html)
+
+The article reports widespread GPS interference affecting thousands of flights, primarily in the Baltic region, with Russia suspected as the culprit. Incidents have disrupted satellite navigation, leading to potential safety risks as pilots struggle to communicate positions and navigate routes. The disruptions, including signal jamming and spoofing, have raised concerns about escalating electronic warfare tactics by Russia. Despite assurances from airlines about alternative navigation systems, government officials warn of the risks posed by GPS jamming, emphasizing the need for vigilance and international cooperation.
+
+Tue, 23 Apr 2024 10:51:21 +0530
+### [Why is the Rwanda deportation bill passed by UK parliament controversial?](https://www.firstpost.com/explainers/uk-rwanda-deportation-bill-controversy-13762637.html)
+
+The UK Parliament has passed the Rwanda deportation bill after months of debate and resistance. The bill allows the government to send asylum seekers who arrived illegally after January 1, 2022, to Rwanda for processing. This move aims to ease immigration pressure, particularly from migrants arriving via small boats. However, the bill faces heavy criticism on human rights grounds, with concerns about the safety of deportees and the legality of the process. Despite the controversy, the UK government has proceeded with the bill, citing deterrence and the lack of viable alternatives. Rwanda's willingness to participate in the program, along with financial incentives, has made it a preferred destination. Legal challenges to the bill are limited, and the costs associated with the program are substantial, raising questions about its efficacy and long-term sustainability.
+
+Tue, 23 Apr 2024 10:32:20 +0530
+### [What is Leahy law, the legislation US can use to block aid from reaching an Israeli military unit?](https://www.firstpost.com/explainers/leahy-law-legislation-us-aid-israeli-military-unit-13762612.html)
+
+Article found but Couldn't summarize 
+The US is expected to block military aid to an Israeli army unit, citing Leahy law. Championed by former Vermont senator Patrick Leahy in the 1990s, it is a tool that the US can use to withhold military aid and training from foreign security units that are guilty of extrajudicial killings, rapes, torture, and other flagrant human rights abuses
+
+Tue, 23 Apr 2024 10:08:17 +0530
+### [Why did Arvind Kejriwal receive insulin in jail? How does it help in controlling diabetes?](https://www.firstpost.com/explainers/kejriwal-delhi-cm-insulin-type-2-diabetes-patients-importance-13762603.html)
+
+Delhi Chief Minister Arvind Kejriwal's struggle for access to insulin has intensified, with allegations that Tihar jail authorities were withholding the medication. Insulin is crucial for managing Type-2 diabetes when other treatments fail. Amid protests and court interventions, a medical board has been tasked to determine Kejriwal's insulin needs. The article delves into the importance of insulin for diabetics, when it's prescribed, and the challenges of dependency. It also highlights the risks associated with insulin use, including low blood sugar and weight gain.
+
 Mon, 15 Apr 2024 08:26:18 +0530
 ### [Iran vs Israel: How the two countries went from friends to foes](https://www.firstpost.com/explainers/iran-israel-ties-friends-foes-history-13759492.html)
 
@@ -8414,3671 +9613,4 @@ Thu, 04 Jan 2024 08:26:00 +0530
 
 Article found but Couldn't summarize 
 In Graphics | How to stay warm during harsh winters
-
-Wed, 03 Jan 2024 21:16:38 +0530
-### [Blasts near Qasem Soleimani’s grave: Who was Iran’s ‘shadow commander?’](https://www.firstpost.com/explainers/blasts-near-qasem-soleimanis-grave-who-was-irans-shadow-commander-13573582.html)
-
-The article reports on twin explosions in Iran during a ceremony commemorating the death of General Qasem Soleimani, causing over 100 deaths and numerous injuries. It provides background information on Soleimani, who was the head of Iran's Revolutionary Guards' Quds Force and a prominent figure in the country. Soleimani played a significant role in Iran's regional military activities, including supporting armed groups in Iraq, Lebanon, Syria, the Palestinian territories, and Yemen. The United States held him responsible for the deaths of its soldiers in Iraq, and he was targeted and killed in a US drone strike in January 2020. The article also briefly discusses Soleimani's early years, his rise to prominence, and his involvement in various conflicts in the region.
-
-Wed, 03 Jan 2024 20:56:42 +0530
-### [In Graphics | Why Mickey Mouse belongs to all of us](https://www.firstpost.com/explainers/in-graphics-why-mickey-mouse-belongs-to-all-of-us-13573322.html)
-
-The copyright on the earliest versions of Mickey Mouse, specifically the one seen in the 1928 cartoon short film Steamboat Willie, has expired in the United States as of January 1, 2024. This means that anyone in the US can now use this particular version of the character without infringing on Disney's copyright. However, it's important to note that Mickey Mouse is still a registered Disney trademark, so there are still restrictions on how the public can use the character's images. Additionally, modern versions of Mickey Mouse are still protected by Disney's copyright. Other works, such as Virginia Woolf's Orlando and DH Lawrence's Lady Chatterley's Lover, have also had their copyright protections expire in the US.
-
-Wed, 03 Jan 2024 20:09:00 +0530
-### [How a US startup fired its entire workforce over a 2-minute call](https://www.firstpost.com/explainers/mass-layoffs-us-startup-frontdesk-fired-its-entire-workforce-over-a-2-minute-call-13573172.html)
-
-Article found but Couldn't summarize 
-How a US startup fired its entire workforce over a 2-minute call
-
-Wed, 03 Jan 2024 19:15:58 +0530
-### [Ram temple opening: Why is BJP demanding arrest of Congress leader BK Hariprasad?](https://www.firstpost.com/explainers/ram-temple-opening-why-is-bjp-demanding-arrest-of-congress-leader-bk-hariprasad-13573092.html)
-
-Congress leader BK Hariprasad made inflammatory remarks, suggesting the possibility of a "Godhra-like incident" in Karnataka during the upcoming consecration ceremony of the Ram temple in Ayodhya. The BJP has demanded his arrest and an apology. Hariprasad alleged that certain organizations have instigated BJP leaders and warned against untoward incidents. He also stated that the invitation to Congress leaders for the temple ceremony should be seen politically, not religiously. The BJP leaders have criticized Hariprasad's comments and called for immediate action against him. This is not the first time Hariprasad has caused controversy, as he previously referred to the BJP and RSS as "bootlickers of the British" during the freedom struggle.
-
-Wed, 03 Jan 2024 18:23:04 +0530
-### [Why India is launching its GSAT-20 on SpaceX’s Falcon 9 rocket](https://www.firstpost.com/explainers/india-is-launching-its-gsat-20-satellite-on-spacexs-falcon-9-rocket-heres-why-13572232.html)
-
-#### Summary of India's GSAT-20 Satellite and SpaceX Falcon 9 Rocket Launch
-
-India is set to launch its new satellite, GSAT-20, on a SpaceX Falcon 9 rocket. The GSAT-20 is a 4,700-kilo communication satellite built by the Indian Space Research Organisation (ISRO) and will be launched by ISRO's commercial arm, NewSpace India Limited (NSIL), using the Falcon 9 rocket in the second quarter of 2024. The satellite is designed to fulfill India’s growing broadband connectivity needs, providing up to 48Gbps of capacity across 32 beams covering all of India, including remote and underserved regions. Additionally, the satellite will facilitate in-flight connectivity for aeromobile services using Ka band [[1]](https://en.wikipedia.org/wiki/GSAT-20).
-
-The Falcon 9 rocket, as per the SpaceX website, is a reusable, two-stage rocket designed and manufactured by SpaceX to put people and payloads into Earth’s orbit and beyond dependably and safely. It is the world’s first orbital-class reusable rocket, standing 70 meters tall and 3.7 meters wide. The Falcon 9 has carried out 285 launches, 243 landings, and 217 reflights, and is powered by Merlin engines using rocket grade kerosene (RP-1) and liquid oxygen as rocket propellants in a gas-generator power cycle. The rocket generates more than 1.7 million pounds of thrust at sea level.
-
-India is using SpaceX for the launch because the GSAT-20 is too heavy for ISRO’s most powerful rocket, the Launch Vehicle Mark 3, which can only put a 4,000-kilo mass into geostationary transfer orbit. The decision to use SpaceX was also influenced by the cost-effectiveness of their services and the unavailability of other rockets in time. ISRO has been advocating for a Next Generation Launch Vehicle (NGLV) capable of putting around 10,000 kilos into orbit, but this won’t be ready for a few years. Meanwhile, ISRO is working on testing its semi-cryogenic engine, which utilizes a propellant combination of Liquid Oxygen (LOX) and Kerosene, to enhance its launch capability [[1]](https://en.wikipedia.org/wiki/GSAT-20).
-
-In conclusion, India's GSAT-20 satellite, to be launched on a SpaceX Falcon 9 rocket, represents a significant step in fulfilling the country's broadband connectivity needs, especially in remote and underserved regions. The collaboration with SpaceX is driven by the satellite's weight exceeding the capacity of ISRO's most powerful rocket and the cost-effectiveness of SpaceX's services. This launch also underscores the ongoing efforts by ISRO to enhance its launch capability, including the development and testing of new technologies such as the semi-cryogenic engine [[1]](https://en.wikipedia.org/wiki/GSAT-20).
-
-Wed, 03 Jan 2024 18:16:11 +0530
-### [What is Free Movement Regime that Centre wants to suspend at Myanmar border?](https://www.firstpost.com/explainers/what-is-free-movement-regime-that-centre-wants-to-suspend-at-myanmar-border-13572132.html)
-
-#### Summary of "Centre to Scrap Free Movement Regime Along Indo-Myanmar Border"
-
-The Centre has decided to scrap the Free Movement Regime (FMR) along the Indo-Myanmar Border (IMB), which was implemented in 2018 as part of India’s Act East policy. The FMR is a mutually agreed pact between India and Myanmar that allows tribes dwelling along the border on either side to travel up to 16 km inside the other country without a visa. The decision to suspend the FMR is aimed at stopping the influx of illegal migrants and addressing the alleged illegal activities, such as drug smuggling, by refugees from Myanmar who have crossed over to India. The move comes in the wake of ethnic conflicts and tensions in the Northeastern states of India, particularly Manipur, where the free movement regime has come under scrutiny. The Centre plans to put fencing along the entire border and issue visas for anyone entering India from Myanmar. However, there are concerns that cancelling the FMR or completely fencing the border may affect livelihoods, education, and essential travel for healthcare. The issue of managing and administering the border areas effectively is crucial for reducing drug trafficking and illegal cross-border movement on unfenced borders. The decision to end the FMR has sparked debates about the potential impact on various aspects of life in the border regions and the effectiveness of alternative approaches to address the challenges posed by the porous border and illegal activities.
-
-Wed, 03 Jan 2024 18:13:45 +0530
-### [The Ex Factor: Did Mahua Moitra snoop on her former boyfriends?](https://www.firstpost.com/explainers/did-mahua-moitra-snoop-on-her-former-boyfriends-jai-anant-dehadrai-13572692.html)
-
-Trinamool Congress leader Mahua Moitra has been accused of snooping on her ex-boyfriends by one of her former partners, Jai Anant Dehadrai. Dehadrai filed a complaint with the home ministry and the Central Bureau of Investigation (CBI), alleging that Moitra carried out "illegal surveillance" on him and another former boyfriend. He claimed that Moitra obtained call records without permission and had access to the complete call detail records (CDR) history of her ex-boyfriend. Dehadrai also mentioned that Moitra justified her actions by claiming certain rights enjoyed by a member of Parliament. He expressed concerns about his safety and alleged that Moitra is using her connections with senior Bengal police officers to conduct illegal surveillance on him. Moitra responded to the allegations, insinuating that Dehadrai is a jilted ex. The two have been in a public spat for months, including a battle over the custody of their pet rottweiler, Henry. Dehadrai is a known name in legal circles, specializing in white-collar crimes. He has fought for various causes and is currently challenging Delhi prison rules in the Supreme Court.
-
-Wed, 03 Jan 2024 17:25:39 +0530
-### [FirstUp: From YS Sharmila joining the Congress to Jaishankar in Nepal, the news for today](https://www.firstpost.com/explainers/firstup-from-ys-sharmila-joining-the-congress-to-jaishankar-in-nepal-the-news-for-today-13572272.html)
-
-Article found but Couldn't summarize 
-FirstUp: From YS Sharmila joining the Congress to Jaishankar in Nepal, the news for today
-
-Wed, 03 Jan 2024 17:10:46 +0530
-### [The horrific tale of Indian-origin man murdering wife and daughter in US, before killing self](https://www.firstpost.com/explainers/the-horrific-tale-of-indian-origin-man-murdering-wife-and-daughter-in-us-before-killing-self-13571662.html)
-
-#### Autopsy Results Confirm Homicide by Gunshot
-
-The autopsy results issued by the Office of the Chief Medical Examiner have confirmed that Teena and her daughter Arianna were victims of homicide by gunshot. Rakesh Kamal, on the other hand, died from a "gunshot wound consistent with being self-inflicted" [[1]].
-
-#### Murder-Suicide Declaration and Investigation
-
-The deaths of Rakesh Kamal, Teena Kamal, and their daughter Arianna have been declared as a case of murder-suicide by medical examiners in Massachusetts. Rakesh Kamal is alleged to have shot dead his wife and daughter before turning the gun on himself inside their mansion in Dover, Massachusetts. District Attorney Michael Morrissey described the murders as a "domestic violence situation" and stated that there was no indication of any outside party's involvement, despite the recovery of a gun beside Rakesh's body. The incident remains under investigation by Dover and Massachusetts State Police [[1]].
-
-#### Financial Struggles and Background of the Family
-
-The Kamal family, who resided in a $5.45 million mansion, faced financial struggles as their estate went into foreclosure and was eventually sold for $3 million. Rakesh and Teena Kamal had run a now-defunct education systems company called EduNova, which faced financial problems in recent years. Teena had filed for Chapter 13 bankruptcy in September 2022, listing between $1 million and $10 million in liabilities. Their daughter, Arianna, was a student at Middlebury College, studying neuroscience. The family's financial difficulties and the dissolution of their company shed light on the challenges they were facing [[1]].
-
-#### Conclusion
-
-The tragic incident involving the Kamal family has been declared a murder-suicide, with Rakesh Kamal alleged to have shot his wife and daughter before taking his own life. The family's financial struggles and the dissolution of their company provide context to the challenges they were facing. The investigation into this devastating event remains ongoing [[1]].
-
-Wed, 03 Jan 2024 15:58:21 +0530
-### [What are the new ICU admission guidelines for critical patients?](https://www.firstpost.com/explainers/what-are-the-new-icu-admission-guidelines-for-critical-patients-13570342.html)
-
-The central government of India has released new guidelines for the admission of critically ill patients to the intensive care unit (ICU). These guidelines were produced by 24 leading physicians with expertise in critical care medicine, including doctors from Dubai and Canada, and were developed for the Union Health Ministry. The guidelines aim to improve the decision-making process for ICU admission and provide recommendations for various scenarios. According to the guidelines, critically ill patients cannot be admitted to the ICU if there is a refusal by them and their relatives. The guidelines also address the criteria for ICU admission and discharge, emphasizing the need for organ failure, the need for organ support, or the anticipation of deterioration in the patient's medical condition. The guidelines also mention the qualifications required for specialists in the ICU. The guidelines are aimed at ensuring the judicious use of ICU resources and prioritizing patients who need it the most.
-
-It is important to note that the guidelines are not binding and leave room for the treating doctor's discretion. Dr. Sumit Ray, Secretary of the Indian College of Critical Care Medicine, stated that the guidelines provide broad criteria and rely on the wisdom of the treating doctor.
-
-The release of these guidelines is significant as ICU admissions that are not necessary have been criticized in the past. India has a limited number of ICU beds, with the majority being in private hospitals where the cost of an ICU bed is significantly higher than a regular bed. The guidelines aim to ensure the judicious use of ICU resources and prioritize patients based on their condition.
-
-Overall, the new guidelines for ICU admission in India provide recommendations for determining the necessity of ICU admission, criteria for admission and discharge, and qualifications for ICU specialists. These guidelines aim to improve decision-making and ensure the appropriate use of ICU resources
-
-Wed, 03 Jan 2024 15:18:39 +0530
-### [No Indian Science Congress this year? Why it has missed its annual date](https://www.firstpost.com/explainers/no-indian-science-congress-this-year-why-it-has-missed-its-annual-date-13571652.html)
-
-#### Summary of the Indian Science Congress Controversy
-
-The 109th edition of the Indian Science Congress, which was scheduled to begin today, has been called off. The event, organized by the Indian Science Congress Association (ISCA), has been a lightning rod for controversies in recent years. The reason for the event not being held this year is a financial dispute between the ISCA and the Union Ministry of Science and Technology’s Department of Science (DST) The DST, a key funder of the event, contributed Rs 5 crore to the Indian Science Congress in 2023. However, in September, the DST claimed there were "financial irregularities" and abruptly pulled its backing of the event. This led to a tiff over money between the ISCA and the DST, resulting in the event being put on hold.
-
-The controversies surrounding the event have been significant. In recent years, the event has seen attendees making unscientific and ridiculous claims, which have drawn criticism. These claims include assertions about ancient aviation, surgical instruments, Pythagoras theorem, and even the ability of cows to turn food into gold The event has been criticized for promoting pseudoscience and offering a platform for advancing pseudoscientific claims, which has damaged its reputation.
-
-Experts have noted that the event's best days are behind it and that it has been tapering off for years. Many credible scientists have avoided the event, and leading scientific institutions and laboratories have only had a token presence, if at all. The event has been described as a platform for advancing pseudoscientific claims, particularly those that dovetail with hyper-nationalist narratives in other spheres.
-
-The controversies and decline in credibility have led to calls for a reevaluation of the event's relevance. While it hosts thousands of school and college students every year and features talks by researchers, the event's reputation has been tarnished by the promotion of pseudoscience.
-
-The Indian Science Congress controversy highlights the challenges faced by the event due to financial disputes and the promotion of unscientific claims, leading to questions about its future relevance and credibility
-
-Wed, 03 Jan 2024 15:12:38 +0530
-### [How Japan Airlines crew helped save lives of 367 flyers as jet burst into flames](https://www.firstpost.com/explainers/how-japan-airlines-crew-helped-save-lives-of-367-flyers-as-plane-burst-into-flames-13571012.html)
-
-An article reports that a Japan Airlines Airbus A350 collided with a smaller Japanese Coast Guard aircraft on the runway at Haneda Airport in Tokyo. The collision resulted in a fireball, but all 379 people on board the Japan Airlines flight were able to evacuate safely before the plane erupted in flames. Unfortunately, five of the six crew members on the Coast Guard aircraft died in the accident. The role of the crew and passengers in the safe evacuation has been highlighted, with reports stating that the evacuation began immediately after the flight landed and all passengers were ushered to safety within 20 minutes. Passengers recounted their experiences, with one describing the loud noise during landing and another mentioning the calm instructions given by the cabin crew. Videos showed passengers calmly evacuating the aircraft using emergency slides. Aviation experts praised the crew members for their efforts in ensuring the successful evacuation. The cause of the crash is still under investigation, but initial reports suggest that it was a result of a runway incursion.
-
-Wed, 03 Jan 2024 13:59:51 +0530
-### [Taylor Swift the new Shakespeare? Why singer deserves a place in English literature](https://www.firstpost.com/explainers/taylor-swift-classes-shakespeare-comparison-13568992.html)
-
-The article discusses the growing academic interest in studying Taylor Swift's work as literature. The author shares their experience of starting a podcast and designing a summer school course on Taylor Swift and literature. They highlight how Swift's songs, such as "cardigan," can be analyzed using close reading techniques. The article also mentions that Swift's work has been studied in various academic disciplines, including media studies and fan studies. The author compares the interest in Swift's work to the popularity of classes on Shakespeare, suggesting that the interest lies in Swift being seen as an "author." They emphasize that studying Swift's work as literature is not a challenge to Shakespeare's supremacy but rather a reflection of the flexibility and open-mindedness of the discipline of English literature.
-
-Wed, 03 Jan 2024 13:06:41 +0530
-### [Now a gang-rape in metaverse: How sexual predators roam free in the virtual world](https://www.firstpost.com/explainers/now-a-gang-rape-in-metaverse-how-sexual-predators-roam-free-in-the-virtual-world-13570602.html)
-
-**Summary of the Article:**
-
-The article discusses a disturbing incident in the UK where a teenage girl wearing a virtual reality (VR) headset was allegedly gang-raped by avatars of other men in the metaverse, an immersive digital world. The case is being investigated by the police and has raised concerns about the rise of virtual sexual offenses and the psychological impact on victims. While this case is the first of its kind to be investigated in the UK, instances of virtual rape and sexual harassment in the metaverse have been reported by other individuals, highlighting the need for legal and safety measures in virtual spaces. The article also addresses the challenges in prosecuting virtual sexual offenses under current legislation, and emphasizes the need for updated laws to address the risks of harm in artificial intelligence and virtual platforms. Additionally, it mentions Meta's response to the incident and the need for stronger measures to protect users from virtual predators.
-
-The article underscores the urgent need for legal and safety measures to address virtual sexual offenses and protect individuals in the metaverse, as well as the challenges in prosecuting such cases under current legislation.
-
-Wed, 03 Jan 2024 13:02:52 +0530
-### [Harvard president quits: The controversial term of Claudine Gay](https://www.firstpost.com/explainers/harvard-president-resigns-the-short-but-controversial-tenure-of-claudine-gay-13570502.html)
-
-Claudine Gay, the first person of color and second woman to serve as president of Harvard University, has resigned from her position, making her tenure the shortest in the school's history. Gay's resignation comes after she faced multiple controversies and scandals during her time as president. One controversy involved her handling of pro-Palestinian protests on campus following an attack in Israel, where she was criticized for not denouncing the attack or a letter published in its aftermath. Gay also faced allegations of plagiarism in her doctoral dissertation, which led to an independent review that found inadequate citations but no violation of Harvard's research misconduct standards. Following her resignation, reactions have been mixed, with some expressing shock and others believing it was long overdue.
-
-Wed, 03 Jan 2024 12:52:09 +0530
-### [What comes next for Oscar Pistorius after his release from jail?](https://www.firstpost.com/explainers/what-comes-next-for-blade-runner-oscar-pistorius-after-his-release-from-jail-13570032.html)
-
-Former Paralympic star Oscar Pistorius is set to be released from prison on Friday after being granted parole. Pistorius was accused of killing his girlfriend Reeva Steenkamp in 2013 by shooting her through a bathroom door in their shared home in Pretoria. He became eligible for parole in March 2023 after serving half of his 13-year and five-month sentence for murder. Pistorius will complete the remainder of his sentence in South Africa's community corrections system under the supervision of the Department of Correctional Services. He will be subjected to parole conditions until December 2029, including attending programs on gender-based violence and continuing therapy sessions on anger management. Pistorius participated in the restorative justice program, which aims to bring affected parties together to find closure, prior to his parole.
-
-The reaction to Pistorius' early release has been mixed. The Steenkamp family lawyer stated that they were not surprised by the parole decision and lauded the parole board's efforts in involving the victims. Reeva Steenkamp's mother, June, released a statement expressing her lack of conviction in Pistorius' rehabilitation but stated that she had no objections to his release. Pistorius' lawyer and family did not comment on the matter.
-
-Overall, Pistorius' release marks a significant moment in his life, but it also raises concerns about his future. He will be closely monitored and will have to adhere to parole conditions until his sentence expires in December 2029
-
-Wed, 03 Jan 2024 11:24:37 +0530
-### [Hit-and-run law controversy: How Centre convinced truckers to end nationwide strike and averted a crisis](https://www.firstpost.com/explainers/hit-and-run-law-how-the-centre-convinced-protesting-truckers-to-end-nationwide-strike-13569602.html)
-
-The article discusses the recent nationwide strike by truck drivers and various transport associations in India against the new provisions of the Bharatiya Nyay Sanhita (BNS) Bill, 2023, which relates to hit-and-run cases. The strike was called off after the central government assured the truck drivers that their opinions would be taken into account before implementing the new law. The government stated that it would consult with the All India Motor Transport Congress (AIMTC) before making a decision on the law.
-
-The truck drivers' association confirmed that they have addressed their concerns with the government and that there are no unresolved issues at the moment. The President of All India Motor Transport Congress, Amrit Lal Madan, stated that the punishment and fine imposed by the law have been put on hold, and no new laws will be implemented until further consultations are held.
-
-The controversial law, Section 106(2) of the Bharatiya Nyaya Samhita, imposes severe penalties, including a maximum sentence of 10 years in prison or a fine of Rs 7 lakh, for drivers who cause a serious traffic accident through careless driving and flee the scene without reporting it to the authorities. The law aims to address the high number of hit-and-run cases in India, which resulted in thousands of deaths in recent years.
-
-Driver groups and activists have expressed concerns about the law, including potential unfair penalties and the ability to pay steep fines in case of accidents. They have also highlighted issues with police blaming large vehicles for accidents without conducting thorough investigations and the risk of facing violent mobs at accident scenes. The truckers have called for prior meetings and consultations with stakeholders before implementing such laws.
-
-The strike and protests against the new hit-and-run law were witnessed in several states, including Jammu and Kashmir, Bihar, Punjab, Maharashtra, Madhya Pradesh, Himachal Pradesh, and Chhattisgarh. The protests led to concerns about fuel shortages, with about 2,000 petrol pumps running out of fuel stocks in western and northern India.
-
-In summary, the recent strike by truck drivers and transport associations in India was called off after the government assured them that their opinions would be considered before implementing the new hit-and-run law. The law aims to address the high number of hit-and-run cases in the country, but concerns have been raised about potential unfair penalties and the ability to pay fines. The protests resulted in fuel shortages in some parts of India
-
-Wed, 03 Jan 2024 10:12:39 +0530
-### [Who was Saleh al-Arouri, Hamas’ deputy leader killed in Beirut?](https://www.firstpost.com/explainers/who-was-saleh-al-arouri-hamas-deputy-leader-killed-in-beirut-13569692.html)
-
-#### Summary:
-
-The deputy head of Hamas, Saleh al-Arouri, was killed in a suspected Israeli drone strike in Beirut, Lebanon. The strike targeted an apartment in a Hezbollah-controlled area, killing al-Arouri and six others. Hamas confirmed his death and called it a "cowardly assassination" by Israel. Al-Arouri was a senior Hamas official who played a key role in the organization and had been on Israel's radar for a long time. He was involved in Islamist activism and helped create Hamas' military wing. He was accused by Israel of planning terrorist attacks and was designated as a global terrorist by the US. His death is seen as a significant success for Israel but raises concerns about further escalation in the Israel-Hamas conflict [[1]].
-
-#### Who was Saleh al-Arouri?
-
-Saleh al-Arouri was the deputy chief of Hamas' political bureau and had climbed the ranks within the organization. He was born in the occupied West Bank and became involved in Islamist activism during his time at Hebron University. He joined Hamas soon after its foundation and helped create its military wing, the Izz al-Din al-Qassam brigades. He was jailed by Israel for almost 18 years but was later released. Al-Arouri developed contacts throughout the region and served as a Hamas ambassador to Hezbollah. He was accused by Israel of planning terrorist attacks and was considered a key figure in Hamas [[1]].
-
-#### Significance of al-Arouri's death:
-
-Al-Arouri's death is a significant success for Israel, as he was a senior Hamas official and had been on Israel's radar for a long time. However, there are concerns that his death could lead to further escalation in the Israel-Hamas conflict. Hezbollah leader Hassan Nasrallah called the targeting of al-Arouri a "serious attack on Lebanon" and vowed a response. Lebanese Prime Minister Najib Mikati condemned the attack and called for pressure on Israel to stop its targeting. The situation raises fears of wider conflict and the need to deter Israel's aggression [[1]].
-
-#### Israel's response:
-
-Israel has not officially claimed responsibility for the strike that killed al-Arouri. However, one Israeli and two US officials confirmed to Axios that Israel was behind the strike. Israeli spokesperson Mark Regev stated that whoever carried out the strike had a gripe with Hamas and that it was not an attack on the Lebanese state or Hezbollah. Israel sees the strike as a surgical strike against the Hamas leadership [[1]].
-
-#### Conclusion:
-
-The killing of Saleh al-Arouri, the deputy head of Hamas, in a suspected Israeli drone strike in Beirut, Lebanon, is a significant development in the Israel-Hamas conflict. Al-Arouri was a senior Hamas official who played a key role in the organization. His death raises concerns about further escalation in the conflict and has drawn condemnation from Hezbollah and the Lebanese prime minister. Israel has not officially claimed responsibility for the strike but has been confirmed by Israeli and US officials. The situation highlights the ongoing tensions and the need to deter further aggression [[1]].
-
-Wed, 03 Jan 2024 10:08:56 +0530
-### ['Donkey flight' case: How much did Gujarat passengers pay to enter the US?](https://www.firstpost.com/explainers/donkey-flight-case-how-much-did-gujarat-passengers-pay-to-enter-the-us-13569682.html)
-
-According to an article, more than 60 people from Gujarat, India, who were on board a Nicaragua-bound plane, had agreed to pay immigration agents between Rs 60 lakh and Rs 80 lakh to help them enter the US illegally after reaching Nicaragua via Dubai. The passengers, including some minors, were mainly from Mehsana, Ahmedabad, Gandhinagar, and Anand districts. The state Crime Investigation Department (CID) has acquired the names and contact numbers of nearly 15 agents who promised to assist these individuals in crossing the US-Mexico border illegally. The agents had instructed the passengers to pay the money only after reaching the US, and they had also provided air tickets and cash to deal with any emergency situations. The CID has requested assistance from the Central Bureau of Investigation (CBI) to gather more information about the agents involved in the case.
-
-The Nicaragua-bound aircraft, an Airbus A340, was grounded in France for four days over suspected human trafficking. The passengers had boarded the flight in Dubai, and it carried a total of 303 passengers, including 260 Indians. The French authorities launched a judicial investigation into the conditions and purpose of the trip, focusing on suspected human trafficking. Nicaragua has become a popular destination for those seeking asylum in the US, and many Indians have attempted to enter the US illegally through the Mexican land border.
-
-Please note that the information provided is based on the article summary and may not include all the details.
-
-Wed, 03 Jan 2024 08:51:36 +0530
-### [In Graphics | The science of feeling cold during winter, explained](https://www.firstpost.com/explainers/in-graphics-the-science-of-feeling-cold-during-winter-explained-13567802.html)
-
-Article found but Couldn't summarize 
-In Graphics | The science of feeling cold during winter, explained
-
-Tue, 02 Jan 2024 21:13:29 +0530
-### [FirstUp: PM Modi in Kerala, ED summons Kejriwal, SC hears Moitra plea... big news today](https://www.firstpost.com/explainers/firstup-pm-modi-in-kerala-ed-summons-kejriwal-sc-hears-moitra-plea-big-news-today-13569172.html)
-
-#### Summary of the Article:
-Today's news includes Prime Minister Narendra Modi's address at a mass rally in Kerala to kick off the 2024 general election campaign, the Enforcement Directorate's third summons of Delhi chief minister Arvind Kejriwal, the Supreme Court's hearing of a plea from former Lok Sabha MP Mahua Moitra, India's upcoming second test match against South Africa, and the birth anniversary of social reformer and educationist Savitribai Phule. The rally in Kerala is organized by the BJP to congratulate PM Modi for passing the Women’s Reservation Bill and is seen as the official launch of the party's poll campaign in Kerala. The Enforcement Directorate has summoned Kejriwal for questioning in connection with the Delhi Excise Policy case for the third time. Mahua Moitra has approached the Supreme Court against her expulsion from the Lok Sabha in the cash-for-query row. India's first test against South Africa resulted in a heavy defeat, and the upcoming second test raises questions about India's performance. Today also marks the 193rd birth anniversary of Savitribai Phule, a social reformer and educationist from Maharashtra.
-
-#### Key Points:
-- **PM Modi in Kerala:**
-  - Prime Minister Narendra Modi is addressing a mass gathering of over 2 lakh women in Thrissur, Kerala, to kick off the 2024 general election campaign for the BJP [[1]](https://www.firstpost.com/explainers/firstup-pm-modi-in-kerala-ed-summons-kejriwal-sc-hears-moitra-plea-big-news-today-13569172.html).
-  - The rally, titled ‘Sthree Shakthi Modikk Oppam’ (Empower Women with PM Modi), is organized to congratulate PM Modi for passing the Women’s Reservation Bill and is viewed as the official launch of the BJP's poll campaign in Kerala [[1]](https://www.firstpost.com/explainers/firstup-pm-modi-in-kerala-ed-summons-kejriwal-sc-hears-moitra-plea-big-news-today-13569172.html).
-
-- **ED Summons Kejriwal:**
-  - The Enforcement Directorate has summoned Delhi chief minister Arvind Kejriwal for questioning for the third time in connection with the Delhi Excise Policy case [[1]](https://www.firstpost.com/explainers/firstup-pm-modi-in-kerala-ed-summons-kejriwal-sc-hears-moitra-plea-big-news-today-13569172.html).
-  - This is the third time the agency has summoned Kejriwal, who has previously skipped the appearances, leading to criticism and dismissal of the case by the AAP as ‘fake and bogus’ [[1]](https://www.firstpost.com/explainers/firstup-pm-modi-in-kerala-ed-summons-kejriwal-sc-hears-moitra-plea-big-news-today-13569172.html).
-
-- **Mahua Moitra Plea in SC:**
-  - Former Lok Sabha MP Mahua Moitra has approached the Supreme Court against her expulsion in the cash-for-query row, accusing the Lok Sabha committee of being a ‘Kangaroo court’ and vowing to continue to fight against the BJP – inside and outside of Parliament [[1]](https://www.firstpost.com/explainers/firstup-pm-modi-in-kerala-ed-summons-kejriwal-sc-hears-moitra-plea-big-news-today-13569172.html).
-
-- **India-South Africa Second Test:**
-  - India's first test against South Africa resulted in a heavy defeat, and questions arise about India's performance and potential changes in the bowling attack for the upcoming second test.
-
-- **Birth Anniversary of Savitribai Phule:**
-  - Today marks the 193rd birth anniversary of social reformer and educationist Savitribai Phule, who, along with her husband, opened India’s first school for girls and imparted education to the so-called untouchables.
-
-This summary covers the major developments from the article. If you need more information on any specific topic, feel free to ask!
-
-Tue, 02 Jan 2024 20:09:38 +0530
-### [World Economic Forum at Davos: A guide to high-profile meet and why it matters](https://www.firstpost.com/explainers/world-economic-forum-at-davos-a-guide-to-high-profile-meet-and-why-it-matters-13568862.html)
-
-The World Economic Forum (WEF) is a not-for-profit foundation that fosters global cooperation on political, social, and economic issues. It was founded in 1971 by Klaus Schwab and has since become an annual meeting of the world's rich and powerful in Davos, Switzerland. The WEF aims to provide a platform for resolving international conflicts and includes speeches and sessions on various topics. The 2023 WEF meet saw over 2,700 leaders from 130 countries in attendance. The theme for this year's meeting is 'Rebuilding trust' and will explore four areas. Critics argue that attendees are out-of-touch or profit-hungry, but the WEF has also had some solid accomplishments since its inception.
-
-Tue, 02 Jan 2024 20:02:14 +0530
-### [Miraculous escape: How 379 people fled Japan Airlines plane before flames engulfed it](https://www.firstpost.com/explainers/japan-plane-fire-379-people-evacuated-coast-guard-collision-jal-flames-13568872.html)
-
-#### Summary of the Incident at Haneda International Airport
-
-On January 2, 2024, a tragic incident occurred at Haneda International Airport in Tokyo, Japan, involving a collision between a Japan Airlines Airbus A350 and a smaller Japan Coast Guard aircraft. The collision resulted in a fire that engulfed the Japan Airlines plane, leading to the deaths of five Coast Guard members. Here's a closer look at the details:
-
-**Incident Details:**
-- The collision occurred after the Japan Airlines flight landed on runway C at Haneda airport, leading to a fire that engulfed the aircraft [[2]](https://www.bloomberg.com/news/articles/2024-01-02/japan-airlines-plane-on-fire-on-runway-at-tokyo-s-haneda-airport).
-- All 367 passengers and 12 crew members aboard the Airbus A350 were safely evacuated, while five of the six members of the Coast Guard aircraft tragically lost their lives [[6]](https://www.nytimes.com/2024/01/02/world/asia/tokyo-haneda-plane-fire.html).
-- The Japan Coast Guard plane, identified as an MA-722, a Bombardier Dash-8, was reportedly preparing to fly to Niigata prefecture for earthquake relief efforts when the collision occurred.
-
-**Response and Evacuation:**
-- Videos showed the passengers evacuating the flight through emergency chutes, with eyewitnesses describing the chaotic and frightening experience inside the cabin.
-- At least 70 fire trucks were deployed to extinguish the flames that engulfed the Japan Airlines plane.
-
-**Investigation and Speculation:**
-- The incident is currently under investigation, with initial speculation suggesting that the collision may have been due to a "runway incursion," possibly caused by the Coast Guard aircraft unexpectedly entering the runway.
-- Experts have emphasized the need for a thorough investigation before drawing conclusions about the exact sequence of events that led to the collision and subsequent fire.
-
-This tragic incident has raised concerns and prompted ongoing investigations to determine the precise circumstances that led to the collision and the resulting fire at Haneda International Airport.
-
-For the latest global news updates, you can join our Whatsapp channel.
-
-Published on: January 02, 2024 20:02:14 IST
-
-Tue, 02 Jan 2024 19:02:12 +0530
-### [It’s the time for Dry January: Why giving up alcohol for a month is a good idea](https://www.firstpost.com/explainers/its-the-time-for-dry-january-why-giving-up-alcohol-for-a-month-is-a-good-idea-13567642.html)
-
-Dry January is a public health initiative that encourages people to abstain from alcohol for the entire month of January. It was started in 2013 by Alcohol Change UK, a UK-based charity, with the goal of getting people to think about their drinking habits and potentially reduce their alcohol consumption. The idea behind Dry January is to give people a break from alcohol and allow them to experience the benefits of sobriety, such as improved sleep, increased energy, better mental health and concentration, weight loss, and improved skin health. Studies have shown that participating in Dry January can also lead to sustained changes in drinking habits, with many people reducing their overall alcohol intake or cutting it out completely. While Dry January has its origins in the UK, it has now become a global phenomenon, with people around the world participating in the challenge. The initiative has gained popularity due to increasing awareness of the potential dangers of alcohol and the desire for improved health and well-being. While there may be some drawbacks, such as difficulty sleeping or slight dehydration in the first few days, many people find the experience of Dry January to be rewarding and empowering. Tips for succeeding at Dry January include enlisting the support of a friend, identifying triggers and avoiding them, and considering a "Damp January" approach where alcohol is reduced to a minimum rather than completely eliminated. Overall, Dry January offers a chance for individuals to reevaluate their relationship with alcohol and experience the positive effects of sobriety.
-
-Tue, 02 Jan 2024 18:31:23 +0530
-### [Bill Clinton has been named 50 times in documents linked to Jeffrey Epstein sex abuse case. Here's why](https://www.firstpost.com/explainers/bill-clinton-has-been-named-50-times-in-documents-linked-to-jeffrey-epstein-sex-abuse-case-heres-why-13568452.html)
-
-According to an article, former US President Bill Clinton is set to be named in confidential papers related to the late financier Jeffrey Epstein. The papers are from a 2015 civil lawsuit against Ghislaine Maxwell by Virginia Giuffre, an alleged victim of trafficking. While there are no allegations or evidence of illegal conduct by Clinton, Giuffre claimed in her lawsuit that she met Clinton on Epstein Island. Clinton is identified as "Doe 36" in the papers and his name comes up more than 50 times in entries focused on efforts to subpoena him about his relationship with Epstein. Flight logs also show that Clinton was a frequent flier on Epstein's plane after leaving office [[1]](https://www.politifact.com/article/2020/aug/18/what-we-know-about-recent-claims-linking-bill-clin/)
-
-Tue, 02 Jan 2024 17:17:25 +0530
-### [Razorpay, Groww &amp; more: Why startups want to shift base to India](https://www.firstpost.com/explainers/razorpay-groww-reverse-flipping-why-startups-want-to-shift-base-to-india-13568132.html)
-
-Many Indian startups, including Razorpay and Groww, are considering moving their parent entity back to India from abroad. This process, known as reverse flipping, involves shifting the company's base back to its home country. The move is being considered due to the tightening regulatory environment for fintech firms and the potential benefits of tapping into the domestic market. The Indian government has been encouraging companies to consider Gujarat's GIFT City as an alternative to foreign destinations for setting up their operations. The trend of reverse flipping underscores the belief in India's potential as a global start-up hub and the long-term benefits of strengthening the start-up ecosystem in the country.
-
-Tue, 02 Jan 2024 17:13:18 +0530
-### [Ram Temple Opening: How spiritual tourism is booming in Ayodhya](https://www.firstpost.com/explainers/ram-temple-opening-how-spiritual-tourism-is-booming-in-ayodhya-13567492.html)
-
-#### Summary of "Ayodhya's Spiritual Tourism Boom Ahead of Ram Temple Inauguration"
-
-India is preparing for the consecration ceremony of the under-construction Ram temple in Ayodhya, with the city undergoing significant transformation ahead of the temple's inauguration on 22 January. The initiatives are expected to result in a substantial rise in spiritual tourism, as indicated by a surge in users searching for stays in Ayodhya and the soaring hotel rates and bookings. The city is also witnessing increased investments in hotel development, with five branded hotels totaling 520 rooms in various stages of development. The inauguration is expected to draw around 7,000 people, and the Ayodhya Development Authority anticipates a significant increase in daily visitors after the temple opens. The city has also experienced a remarkable rise in tourism, with the Uttar Pradesh Tourism Department recording a substantial increase in domestic and foreign tourists visiting the Ayodhya district. The improved connectivity, including the inauguration of new Amrit Bharat and Vande Bharat trains and the Maharishi Valmiki International Airport, is expected to further boost tourism. The construction of the Ram temple has already positively impacted Ayodhya's economy, creating new job opportunities and opening up new businesses. The surge in tourism is expected to benefit every business owner in the region. 
-
-The article also highlights the padayatra from Mumbai to Ayodhya by a young Muslim woman named Shabnam Shaikh, who has strong faith in Lord Ram, and the presence of Uttar Pradesh Chief Minister Yogi Adityanath and Civil Aviation Minister Jyotiraditya Scindia at the inauguration of the international airport in Ayodhya. Additionally, the article mentions the idol of 'Ram Lalla' carved by Karnataka's renowned sculptor Arun Yogiraj, which will adorn the grand Ram temple in Ayodhya on 22 January at the much-anticipated consecration ceremony.
-
-The surge in spiritual tourism, investments in hotel development, improved connectivity, and positive impact on the local economy are key highlights of the article.
-
-Tue, 02 Jan 2024 16:28:43 +0530
-### [In Graphics | A guide to long weekends in 2024 to get rid of January blues](https://www.firstpost.com/explainers/in-graphics-a-guide-to-long-weekends-in-2024-to-get-rid-of-january-blues-13567292.html)
-
-Article found but Couldn't summarize 
-In Graphics | A guide to long weekends in 2024 to get rid of January blues
-
-Tue, 02 Jan 2024 15:32:25 +0530
-### [How will UK’s new rules for overseas students affect Indians?](https://www.firstpost.com/explainers/how-will-uks-new-rules-for-overseas-students-affect-indians-13567522.html)
-
-According to an article, the UK has implemented new rules that restrict international students from bringing their families to the country. The changes were announced by Prime Minister Rishi Sunak, who stated that the majority of foreign university students can no longer bring their family members to the UK. The UK government aims to reduce migration and prevent the misuse of the visa system. The new rules will affect Indian students, who have been increasingly choosing the UK as a destination for higher education. Indian students will now face more difficulties in bringing their families to the UK. The changes are expected to prevent around 140,000 people from coming to the UK each year. The article also mentions that Indian students received a significant number of sponsored study visas in the UK in 2023, and the number of Indian students enrolling in UK universities is expected to increase in the upcoming academic year. However, the new rules may impact their decision to study in the UK and their future career prospects. Experts and student groups have expressed concerns about the negative impact of the changes, including increased financial burden, emotional isolation, and potential loss of high-quality students for UK universities. The UK government plans to work with universities to design an alternative approach that allows the brightest and best students to bring their dependants to the country while still reducing net migration.
-
-Tue, 02 Jan 2024 15:05:29 +0530
-### [How Japan is prone to earthquakes and has learnt to be resilient](https://www.firstpost.com/explainers/japan-earthquake-prone-tsunami-preparations-13567032.html)
-
-Japan recently experienced a series of earthquakes that caused significant damage and loss of life. The earthquakes, including a magnitude 7.6 quake, resulted in collapsed buildings, damaged roads, landslides, and power outages. Aftershocks continued to occur, hampering rescue efforts. While major tsunami warnings have been lifted, the Japan Meteorological Agency has warned of the possibility of more earthquakes in the coming days. Japan's susceptibility to earthquakes is due to its geographical location along the "Pacific Ring of Fire," which is the most active earthquake belt globally. The country sits on the joint of four tectonic plates, leading to frequent seismic activity. Japan has a history of devastating earthquakes, including the Great Kanto Earthquake in 1923, the Kobe earthquake in 1995, and the Tohoku earthquake and tsunami in 2011. However, Japan has implemented strict construction regulations, frequent emergency drills, and seismic safety technology to mitigate the impact of earthquakes. The country also invests in infrastructure upgrades and disaster preparedness measures to ensure its resilience to natural disasters [[4]](https://community.openai.com/t/how-to-send-long-articles-for-summarization/205574)
-
-Tue, 02 Jan 2024 14:45:32 +0530
-### [What is India’s new hit-and-run law? Why has it led to nationwide protests?](https://www.firstpost.com/explainers/what-is-indias-new-hit-and-run-law-why-has-it-led-to-nationwide-protests-13567222.html)
-
-#### Summary of the Article:
-The article discusses the nationwide protests by truck drivers in India against the new hit-and-run law, which is part of the Bharatiya Nyaya Sanhita (BNS) Bill, 2023. The new law increases the penalty for hit-and-run accidents to up to 10 years in prison and a fine of ₹ 7 lakh. The protesters demand further clarification on the law and believe it is unfair and discriminatory towards larger vehicles. The protests have led to widespread disruptions, including long queues at petrol pumps due to panic buying. The driver groups and activists are urging the government to address their concerns and engage in constructive dialogue to find a fair resolution.
-
-#### New Hit-and-Run Law:
-The new Bharatiya Nyaya Sanhita Bill, 2023, increases the penalty for hit-and-run accidents to up to 10 years in prison and a fine of ₹ 7 lakh. This law is set to replace the Indian Penal Code (IPC) and is awaiting presidential assent [[1]].
-
-#### Protests and Criticism:
-Truck drivers are protesting the new law, believing it to be unfair and discriminatory towards larger vehicles. The protests have caused widespread disruptions, including blocking major highways and roads throughout the nation. The protests have also led to panic buying at petrol pumps, causing long queues [[1]].
-
-#### Impact of Protests:
-The protests have led to disruptions across various states, including Maharashtra, Chhattisgarh, West Bengal, and Punjab. The disruptions include "rasta roko" protests, blocking of highways, and traffic disruptions. The protests have also caused panic buying at petrol pumps, leading to long queues and supply issues [[1]].
-
-#### Demands of Protesters:
-Driver groups and activists are urging the government to address their concerns and engage in constructive dialogue to find a fair resolution. They are seeking further clarification on the new law and advocating for its continued classification as a crime subject to bail. The All India Motor Transport Congress (AIMTC) has appealed to the government to open channels for dialogue and work towards a solution that addresses concerns of all stakeholders [[1]].
-
-#### Conclusion:
-The protests by truck drivers in India against the new hit-and-run law have caused widespread disruptions and led to panic buying at petrol pumps. The protesters are demanding further clarification on the law and urging the government to engage in constructive dialogue to find a fair resolution. The impact of these protests is being felt across various states, and driver groups and activists are actively advocating for their concerns to be addressed by the government [[1]].
-
-Tue, 02 Jan 2024 13:49:24 +0530
-### [Denmark's Queen Margrethe II to step down: A look back at other royal abdications](https://www.firstpost.com/explainers/denmarks-queen-margrethe-ii-to-step-down-a-look-back-at-other-royal-abdications-13566272.html)
-
-Queen Margrethe II of Denmark has announced her decision to abdicate from the throne after 52 years of reign. She made the announcement during her customary New Year's Eve broadcast on Danish television. The 83-year-old queen cited her health and the increasing number of ailments as the reason for her decision. She expressed her intention to pass the throne to her son, Crown Prince Frederik. The date of transition is set for January 14, 2024, exactly 52 years after she took the throne following the death of King Frederik IX [[1]](https://apnews.com/article/denmark-queen-margrethe-abdicate-throne-92afd336166b4e643caf57289eaf8fbe)
-
-Tue, 02 Jan 2024 13:20:03 +0530
-### [Why is 2024 a leap year? How did the practice of adding an extra day to February begin?](https://www.firstpost.com/explainers/why-is-2024-a-leap-year-how-did-the-practice-of-adding-an-extra-day-to-february-begin-13566892.html)
-
-#### Summary of "2024: Why It's a Leap Year and How It Started"
-
-**2024 is a leap year with 366 days instead of the usual 365, and February will have 29 days instead of the usual 28. Leap years occur almost every four years, with the next one falling in 2028. The practice of adding an extra day every four years began during the time of Roman emperor Julius Caesar.**
-
-The Earth takes approximately 365.24219 days to orbit the Sun, which is why most years have 365 days. To make up for the extra time, one day is added to the calendar every four years, creating a leap year. Without leap years, the calendar would fall out of sync with the seasons, leading to confusion with crop cycles and seasonal occurrences.
-
-The Julian calendar, introduced by Julius Caesar, had 365 days and added the 366th day once every four years. However, this method was not error-free, leading to a discrepancy that was corrected by Pope Gregory XIII in 1582. He ordered 10 days to be dropped from the calendar and introduced the Georgian calendar, coining the term "leap year" and establishing 29 February as the date to add to a leap year.
-
-The leap year is calculated by checking if a year is divisible by four, except for years ending in 00, which must also be divisible by 400 to be considered a leap year. Despite these calculations, the solar year is still 26 seconds shorter than the Georgian year currently.
-
-**The choice of February for the extra day dates back to Caesar's calendar reforms in ancient Rome and has been maintained since the introduction of the Georgian calendar in 1582.**
-
-While there have been proposals to make further corrections, such as removing a leap year once every 4,000 years or once every 3,200 years, the issue is not a pressing problem in 2024.
-
-Source: Firstpost - All Rights Reserved
-
-#### Leap Year Calculation
-A leap year occurs in every year that is divisible by four, except for years ending in 00, which must also be divisible by 400 to be considered a leap year. For example, 800, 1200, and 2000 were leap years, but 1700 and 1900 were not.
-
-Source: Firstpost - All Rights Reserved
-
-Tue, 02 Jan 2024 12:44:51 +0530
-### [Arun Yogiraj: The sculptor whose Ram Lalla idol will be installed at Ayodhya temple](https://www.firstpost.com/explainers/arun-yogiraj-the-master-sculptor-whose-ram-lalla-idol-will-be-installed-at-the-ayodhya-temple-13566592.html)
-
-Renowned sculptor Arun Yogiraj's idol of Ram Lalla has been chosen for the consecration ceremony at the Ram Temple in Ayodhya. The ceremony is scheduled for 22 January and preparations are in full swing. The Shri Ram Janmabhoomi Teerth Kshetra Trust has made its selection of the Ram idol that will be placed inside the premises, with Arun Yogiraj's design being chosen. Yogiraj, hailing from Mysuru, comes from a family of palace artists and has multiple achievements to his name. He has been commissioned for several high-profile projects and his work on the Ram Lalla idol has brought joy to his family. His wife expressed pride in his dedication to his work and devotion to sculpting.
-
-Tue, 02 Jan 2024 11:28:33 +0530
-### [New Year, New Rules: How your UPI transactions have changed in 2024](https://www.firstpost.com/explainers/new-year-new-rules-how-your-upi-transactions-have-changed-in-2024-13565562.html)
-
-**Summary of the Article on UPI Changes and Other Updates**
-
-The Unified Payments Interface (UPI) has rapidly gained popularity in India, surpassing 10 billion transactions in August 2023, with predictions of reaching 100 billion transactions per month. The Reserve Bank of India (RBI) introduced changes effective from January 1, 2024, including the deactivation of inactive UPI IDs and mobile numbers after a year of non-use. Additionally, the NPCI set a new daily payment limit of Rs one lakh, with exceptions for healthcare and educational institutions. The "UPI for Secondary Market" will soon enter its Beta phase, and there will be a four-hour time limit for the first payment over Rs 2,000 between users who haven't transacted previously. Furthermore, UPI ATMs are set to be rolled out across the country, allowing cash withdrawals via QR code scanning. Other updates include the discontinuation of paper-based KYC for SIM card acquisition and price increases for passenger cars by several Indian automakers.
-
-Tue, 02 Jan 2024 10:22:53 +0530
-### [Why has Nobel laureate Muhammad Yunus been sentenced to 6 months in jail in Bangladesh?](https://www.firstpost.com/explainers/why-has-nobel-laureate-muhammad-yunus-been-sentenced-to-6-months-in-jail-in-bangladesh-13565952.html)
-
-#### Summary:
-
-Muhammad Yunus, a Nobel laureate and founder of Grameen Bank, has been sentenced to six months in jail by a Bangladeshi court for alleged labor law violations. Yunus and three colleagues were found guilty of failing to distribute company profits among workers, regularize staff members, and compensate workers for public holidays. The case has been criticized as politically motivated. Yunus, known as the "banker to the poorest of the poor," won the Nobel Peace Prize in 2006 for his work in microfinance. He has faced legal challenges and hostility from the government in Bangladesh, including being forced out of Grameen Bank in 2011.
-
-Tue, 02 Jan 2024 09:42:25 +0530
-### [Houses toppled, roads caved in: How staggering 155 quakes have wreaked havoc in Japan](https://www.firstpost.com/explainers/houses-toppled-roads-caved-in-how-staggering-155-quakes-have-wreaked-havoc-in-japan-13565572.html)
-
-Article found but Couldn't summarize 
-Houses toppled, roads caved in: How staggering 155 quakes have wreaked havoc in Japan
-
-Mon, 01 Jan 2024 17:52:59 +0530
-### [What Ukraine needs to survive the war in 2024](https://www.firstpost.com/explainers/what-ukraine-needs-to-survive-the-war-in-2024-13547122.html)
-
-#### Summary of the Article:
-The article discusses the top priority of the Ukrainian government in 2024, which is to end the war against Russia and regain as much territory as possible, including Crimea. It highlights the need for military, economic, and political support from European partners, particularly the EU and the UK, to achieve this objective. The article also mentions the potential impact of upcoming elections in Russia, the EU, and the US on the aid and support Ukraine receives. It emphasizes the importance of continued support from European nations and the uncertainty surrounding potential policy shifts, particularly in the event of a Trump presidency in 2024.
-
-#### Ukrainian Government's Priority in 2024:
-The top priority of the Ukrainian government in 2024 is to end the war against Russia and regain as much territory as possible, including Crimea. President Volodymyr Zelenskyy claims that Ukraine will only stop fighting when it regains its pre-2014 borders, including Crimea [[1]].
-
-#### Need for Support from European Partners:
-Ukraine requires military, economic, and political support from its European partners, particularly the EU and the UK, to achieve its objectives. The EU has shown strong support to Kyiv, and military aid from European nations is likely to continue at least until the European elections [[1]].
-
-#### Impact of Upcoming Elections:
-The upcoming presidential elections in Russia, EU parliamentary elections, and US presidential elections in 2024 have the potential to determine the aid and support Ukraine receives. The article highlights the uncertainty surrounding potential policy shifts, particularly in the event of a Trump presidency in 2024 [[1]].
-
-#### Conclusion:
-The article emphasizes the importance of continued military, economic, and political support from European partners, particularly the EU and the UK, for Ukraine to reclaim its pre-2014 borders. It also discusses the uncertainty surrounding potential policy shifts, particularly in the event of a Trump presidency in 2024, and the impact of upcoming elections on the aid and support Ukraine receives [[1]].
-
-Mon, 01 Jan 2024 13:19:15 +0530
-### [Modi's third term bid, and Trump-Biden rematch: The polls to watch for in 2024](https://www.firstpost.com/explainers/modis-third-term-bid-and-trump-biden-rematch-the-polls-to-watch-for-in-2024-13521022.html)
-
-#### Summary of "The Political World in 2024"
-
-The year 2024 is set to be a record-breaking year for elections, with more than two billion voters in 50 countries, including the United States, India, Mexico, and South Africa, casting their ballots. Here's a breakdown of the key events and potential changes in the political landscape:
-
-**January: Bangladesh Demands Change**
-- Bangladesh sets off the historic election year with anti-government protests organized by the main Opposition Bangladesh Nationalist Party, which has boycotted the election due to the imprisonment or exile of its top leaders. The party demands the resignation of Prime Minister Sheikh Hasina.
-
-**February: Elections in Pakistan and Indonesia**
-- Pakistan will hold its first general election after the resignation of former Prime Minister Imran Khan on corruption allegations. Despite not running for office, Khan remains influential in his political party. Indonesia will host the world’s largest single-day election with over 200 million voters.
-
-**March: Vladimir Putin Eyes Six More Years**
-- Russian President Vladimir Putin, energized by his troops’ success in Ukraine, is hoping to extend his 24-year rule by another six years in March elections. He announced his candidacy for a fifth term, which would keep him in power until 2030.
-
-**April-May: Modi’s Great Power Play**
-- Nearly one billion Indians will vote in an election where Prime Minister Narendra Modi and the BJP party are seeking a third term. Modi's political career and success have been based on support from India’s Hindu population, and he goes into the vote as the clear favorite.
-
-**June: EU Test for Populists**
-- The European Parliament election in June will see more than 400 million people eligible to vote. The vote will be a test of support for right-wing populists, with Poland's former European Council president, Donald Tusk, returning to power on a pro-EU platform.
-
-**July: Leftist Ex-Mayor and Indigenous Businesswoman Compete for First Female Leader**
-- In Mexico, a leftist former mayor of the capital and a businesswoman with Indigenous roots are vying to become the first woman president of the country. Claudia Sheinbaum is running on behalf of the Morena party, while Xochitl Galvez represents an Opposition coalition, the Broad Front for Mexico.
-
-**November: Trump-Biden Rematch**
-- Tens of millions of Americans will choose a president in a contest which could keep incumbent Joe Biden in power until the age of 86. Polls show that a majority of voters think Biden is too old to be commander-in-chief, despite his likely rival, ex-president Donald Trump, also facing similar concerns about age. Disinformation is expected to be a feature of the campaign, and Trump goes into the Republican party nomination contest as the clear favorite, despite multiple criminal trials hanging over him.
-
-In the United States, Biden's reelection bid faces challenges due to concerns about his age, while Trump is positioned as a strong contender for the Republican nomination. The political landscape in 2024 is marked by significant elections and potential shifts in power across various countries.
-
-#### References
-1. Source [[1]](https://apnews.com/article/biden-president-reelection-2024-incumbents-9050e112e30b482d4eeab74320c8b9d1): 'Can Biden win again? Here's how past incumbents fared | AP News'
-
-Mon, 01 Jan 2024 09:35:59 +0530
-### [From elections to war, here's what 2024 will look like](https://www.firstpost.com/explainers/from-elections-to-war-heres-what-2024-may-look-like-13555172.html)
-
-The article discusses the upcoming general elections in India, the US, and the UK, as well as the continued exploration of outer space by ISRO. It also covers the ongoing conflict between Israel and Hamas, the stalemate in the Ukraine-Russia war, and the battle between workers and management. The article provides insights into the political scenarios in each country and highlights ISRO's plans for space exploration in 2024. It also discusses the potential outcomes of various conflicts and the ongoing struggle between workers and management.
-
-Sun, 31 Dec 2023 11:54:04 +0530
-### [When did we start making New Year’s resolutions? Can we keep them?](https://www.firstpost.com/explainers/when-did-we-start-making-new-years-resolutions-can-we-keep-them-13536702.html)
-
-The article discusses the history and tradition of making New Year's resolutions, tracing it back to ancient Babylonians and Romans. It explains how the tradition has evolved over time, with Julius Caesar introducing January 1 as the start of the New Year and the term "New Year Resolution" first appearing in a Boston newspaper in 1813. The article also highlights common New Year's resolution goals and the difficulty people face in keeping them, with only eight percent of US citizens managing to do so. Overall, it provides a comprehensive overview of the origins and modern-day practice of making New Year's resolutions.
-
-Sun, 31 Dec 2023 10:34:43 +0530
-### [Rewind 2023: The most significant world events, in graphics](https://www.firstpost.com/explainers/rewind-2023-the-most-significant-world-events-in-graphics-13550502.html)
-
-In 2023, the world experienced a challenging year marked by ongoing wars, new conflicts, geopolitical competition, natural disasters, and gun violence in the United States. The year was characterized by a shortage of good news.
-
-One of the major events that shaped the year was the deadly and fierce war between Israel and Hamas. The conflict resulted in thousands of lives lost and many more injured or missing [[1]](https://apnews.com/live/israel-hamas-war-live-updates). The war saw Hamas launching a daring strike on Israel, which stunned the world The toll of the war overshadowed the individual lives affected by the conflict [[1]](https://apnews.com/live/israel-hamas-war-live-updates). Palestinians sought refuge in hospitals, hoping to be spared from bombardment [[2]](https://www.pbs.org/newshour/world/at-least-500-killed-in-israeli-airstrike-on-gaza-city-hospital-health-ministry-says). Families in Gaza even resorted to writing their children's names on their bodies to ensure identification after Israeli raids [[3]](https://www.aljazeera.com/news/2023/10/28/so-world-knows-gaza-parents-mark-childrens-names-on-bodies-amid-bombing). The conflict escalated with Hamas militants firing rockets and sending fighters into Israeli towns near the Gaza Strip [[5]](https://apnews.com/article/israel-palestinians-gaza-hamas-rockets-airstrikes-tel-aviv-11fb98655c256d54ecb5329284fc37d2). The war had a significant impact on the lives of people in the region and drew international attention [[1]](https://apnews.com/live/israel-hamas-war-live-updates).
-
-In addition to the Israel-Hamas conflict, other major events shaped the world in 2023. India achieved significant milestones, becoming the first country to soft land on the southern pole of the Moon and passing the historic Women's Reservation Bill in Parliament [[1]](https://apnews.com/live/israel-hamas-war-live-updates). These achievements highlighted India's progress and contributions in the fields of space exploration and gender equality.
-
-As the year comes to a close, it is important to reflect on the major events that defined 2023. Despite the challenges faced, there is hope for a better year ahead in 2024
-
-Sun, 31 Dec 2023 10:24:37 +0530
-### [This Year in Explainers: Why did Israel's intelligence agencies fail on 7 October?](https://www.firstpost.com/explainers/this-year-in-explainers-why-did-israels-intelligence-agencies-fail-on-7-october-13559522.html)
-
-The article provides a yearly roundup of various news events and topics. Here is a summary of each section:
-
-#### 1. Israel's intelligence failure
-The article discusses the failure of Israel's intelligence agencies, including Mossad and Shin Bet, during the conflict with Hamas. It explores the reasons behind this failure and the questions being raised about it.
-#### 2. Israel's use of SPICE bombs
-The article examines Israel's use of SPICE bombs in response to Hamas' attack. It discusses the criticism surrounding the use of these bombs in densely-populated areas and provides information on how they work and their accuracy.
-#### 3. Osama Bin Laden's 21-year-old letter TikTok
-The article highlights the viral resurfacing of a letter written by Osama Bin Laden a year after the 9/11 attacks. It explores the context of the letter, its resurfacing, and the support it received from some young Americans.
-#### 4. The tragedy of the Titan Five
-The article focuses on the story of the Titanic tourist sub and the five men aboard it. It covers the events from the submersible going missing to the discovery of the wreckage and provides information about the lives of the men involved. 
-
-#### 5. Death of a complicated icon
-The article discusses the passing of Henry Kissinger at the age of 100. It examines Kissinger's legacy, his relationship with India, and the differing views of him held by Washington policy circles and the rest of the world. 
-
-#### 6. High drama in Silicon Valley
-The article highlights the shake-up at Open AI, a leading firm in Silicon Valley. It focuses on the sacking of Sam Altman, known as the world's leading AI evangelist, and the events surrounding it. 
-
-#### 7. Harry-Meghan rumors and royal divorces
-The article discusses the difficulties faced by the Royal Family, particularly Prince Harry and Meghan Markle. It covers topics such as Harry's memoir, racism allegations, and ongoing rumors about their relationship. 
-
-#### 8. Panda come home!
-The article explores the practice of panda diplomacy in China and its historical context. It provides information on why China lends pandas to other countries, how the process works, and the associated costs. 
-
-#### 9. Giant hole in the Sun
-The article discusses a giant hole that appeared in the Sun, which alarmed experts. It provides details about the hole, how it appeared, and its potential impact on Earth. 
-
-Please note that the summaries provided are based on the article's headings and may not capture all the details and nuances of each section.
-
-Sat, 30 Dec 2023 18:11:03 +0530
-### [Rewind 2023: From newsmakers to big moments, all that shaped this year](https://www.firstpost.com/explainers/rewind-2023-from-newsmakers-to-indias-big-moments-all-that-shaped-this-year-13555002.html)
-
-The article summarizes the significant events and milestones of 2023, encompassing achievements, controversies, and newsmakers globally and in India. It highlights India's historic moment with the soft landing of Chandrayaan-3 on the southern pole of the Moon and the passing of the Women’s Reservation Bill in Parliament. Additionally, it mentions the war between Hamas and Israel, the Russia-Ukraine conflict, and various diplomatic rows and disputes involving India, the United States, Canada, and China. Notable personalities such as Virat Kohli, Neeraj Chopra, Taylor Swift, and Elon Musk are also featured. The article also covers the impact of deepfake technology, dating lingos, and climate change, along with statistics on population growth and displacement due to wars and humanitarian crises. The conclusion expresses hope for peace and happiness in the upcoming year.
-
-Sat, 30 Dec 2023 17:55:00 +0530
-### [Save the Date: Why US couples are rushing to say 'I Do' on New Year's Eve](https://www.firstpost.com/explainers/us-couples-rushing-to-las-vegas-new-years-eve-weddings-13560742.html)
-
-According to an article, several couples in the United States have chosen to get married on New Year's Eve. This is because dates like 12/31/2023, which can be written as 1-2-3-1-2-3, are considered "specialty dates" and hold significance in the Las Vegas wedding industry. Las Vegas is known for its popularity as a wedding destination, and New Year's Eve is already a popular holiday for nuptials. This year, it is expected to set a record for the busiest wedding day in Las Vegas. Couples are drawn to these "magic dates" because they are memorable and add a unique element to their anniversary celebrations. The interest in getting married on New Year's Eve has led to the opening of a temporary marriage license bureau at Las Vegas' Harry Reid International Airport. Wedding venues in Las Vegas have reported an increase in inquiries for New Year's Eve weddings, and some are even offering special packages to commemorate the date. However, not all couples are traveling to Las Vegas for their weddings, as some are equally excited to hold their ceremonies in other cities like Chicago. Overall, the combination of a specialty date and the celebratory atmosphere of New Year's Eve has made it an appealing choice for couples to tie the knot.
-
-Sat, 30 Dec 2023 15:16:30 +0530
-### [Why PM Modi inaugurating Abu Dhabi’s first Hindu temple matters](https://www.firstpost.com/explainers/pm-narendra-modi-baps-hindu-mandir-abu-dhabis-first-hindu-temple-inauguration-significance-13560302.html)
-
-#### Summary of the Article: PM Modi to Unveil BAPS Hindu Mandir in Abu Dhabi
-
-**Prime Minister Narendra Modi has accepted an invitation to unveil the BAPS Hindu Mandir in Abu Dhabi on February 14, 2024. This temple is the first traditional hand-carved Hindu temple in Abu Dhabi and is a significant symbol of the strategic relationship between India and the UAE. The temple, constructed over the last three years, is an architectural marvel, featuring 402 white marble pillars carved by 2,000 artisans from Rajasthan and Gujarat. It will accommodate 8,000 to 10,000 people and will be open to all faiths. The temple complex will also include prayer halls, a community center, a library, a children's park, and an amphitheater. The temple's construction was initiated in 2018 after the UAE allocated 5.4 hectares of land for the project during PM Modi's visit in 2015. The consecration ceremony on February 14, 2024, coincides with the auspicious Basant Panchami. PM Modi's acceptance of the invitation has sparked criticism from the opposition, with concerns about the timing of the event in relation to the upcoming general elections in India**
-
-#### Significance of the BAPS Hindu Mandir in Abu Dhabi
-The BAPS Hindu Mandir in Abu Dhabi is the first Hindu temple in the Emirati capital and is a symbol of the close relationship between India and the UAE. The temple's construction was initiated in 2018 after the UAE allocated 5.4 hectares of land for the project during PM Modi's visit in 2015. The temple complex, in addition to the main temple, will include prayer halls, a community center, a library, a children's park, and an amphitheater. The consecration ceremony on February 14, 2024, coincides with the auspicious Basant Panchami. PM Modi's acceptance of the invitation has sparked criticism from the opposition, with concerns about the timing of the event in relation to the upcoming general elections in India.
-
-#### Construction and Features of the Temple
-The BAPS Hindu Mandir in Abu Dhabi is an architectural marvel, featuring 402 white marble pillars carved by 2,000 artisans from Rajasthan and Gujarat over the last three years. The temple, which can accommodate 8,000 to 10,000 people, will be open to all faiths. The temple complex will also include prayer halls, a community center, a library, a children's park, and an amphitheater. The consecration ceremony on February 14, 2024, coincides with the auspicious Basant Panchami. PM Modi's acceptance of the invitation has sparked criticism from the opposition, with concerns about the timing of the event in relation to the upcoming general elections in India.
-
-#### Opposition's Reaction
-PM Modi's acceptance of the invitation to unveil the BAPS Hindu Mandir in Abu Dhabi has drawn criticism from the opposition, with concerns about the timing of the event in relation to the upcoming general elections in India. Senior Congress leader Shashi Tharoor expressed his expectations of elections being called soon after the BAPS event, suggesting a political motive behind the PM's participation in these events.
-
-#### Conclusion
-The BAPS Hindu Mandir in Abu Dhabi is a significant symbol of the strategic relationship between India and the UAE. The temple's construction was initiated in 2018 after the UAE allocated 5.4 hectares of land for the project during PM Modi's visit in 2015. The consecration ceremony on February 14, 2024, coincides with the auspicious Basant Panchami. PM Modi's acceptance of the invitation has sparked criticism from the opposition, with concerns about the timing of the event in relation to the upcoming general elections in India
-
-Sat, 30 Dec 2023 12:11:56 +0530
-### [Who is gangster Lakhbir Singh Landa, designated a ‘terrorist’ by MHA?](https://www.firstpost.com/explainers/lakhbir-singh-landa-designated-terrorist-by-mha-canada-punjab-gangster-13559692.html)
-
-According to an article, Lakhbir Singh Landa, a Canada-based gangster and leader of the Khalistani group Babbar Khalsa International (BKI), has been designated as an "individual terrorist" by the Ministry of Home Affairs (MHA) in India. He is the 55th individual to be identified as a terrorist under the Unlawful Activities Prevention Act (UAPA). Landa has been accused of various crimes, including planning a rocket attack on the Punjab Police Intelligence Headquarters in Mohali in 2022 and involvement in other terrorist activities. He has more than 30 cases registered against him in different districts of Punjab. Landa fled to Canada and is currently based in Edmonton, Alberta. He is believed to have close ties to another gangster based in Pakistan named Harwinder Singh Sandhu alias Rinda. Landa's gang remains active in his hometown of Harike, Punjab, with the gangster running it from Canada. The Ministry of Home Affairs has accused Landa of being involved in the supply of Improvised Explosive Devices (IEDs), arms, sophisticated weapons, and explosives from across the border for carrying out terrorist activities in Punjab. He is also accused of planting an IED below the car of a police sub-inspector in Amritsar. Landa's designation as a terrorist is based on his involvement in terrorism and his role in disrupting peace, law, and order in Punjab and other parts of India [[4]](https://community.openai.com/t/how-to-send-long-articles-for-summarization/205574).
-
-Please note that the summary provided is based on the available information and may not include all the details mentioned in the original article.
-
-Sat, 30 Dec 2023 11:00:15 +0530
-### [In Graphics | From Bharat Yatra to Ekta Yatra, India's rich history of political marches](https://www.firstpost.com/explainers/in-graphics-from-bharat-yatra-to-ekta-yatra-indias-rich-history-of-political-marches-13557942.html)
-
-Congress leader Rahul Gandhi, along with party leaders and supporters, is set to embark on the second phase of the Bharat Jodo Yatra, named the Bharat Nyay Yatra. The yatra will cover a distance of 6,200 kilometers across 14 states and 85 districts, aiming to promote economic, social, and political justice. Congress president Mallikarjun Kharge will flag off the yatra in Manipur, and it will conclude in Mumbai on 20 March. Additionally, at the INDIA bloc meet, Mamata Banerjee and Arvind Kejriwal proposed that Congress' Mallikarjun Kharge be projected as the alliance’s prime ministerial face for the 2024 elections.
-
-Sat, 30 Dec 2023 10:04:34 +0530
-### [This Year in Explainers: Why Sam Manekshaw is India’s ‘Bahadur’](https://www.firstpost.com/explainers/this-year-in-explainers-why-sam-manekshaw-is-indias-bahadur-13558332.html)
-
-The article provides a summary of the significant events that took place in India in 2023. It covers a range of topics, including the cold wave in Delhi, a man urinating on a passenger on an Air India flight, criticism of the Dalai Lama, a heinous crime in Delhi, violence in Manipur, rising rates of hysterectomies in women, Prime Minister Narendra Modi's state visit to the United States, India's lunar mission, cricketer Shikhar Dhawan's divorce, the ban on firecrackers during Diwali, visa-free travel for Indians, and the release of the movie "Sam Bahadur" based on the life of Field Marshal Sam Manekshaw. The article provides links to detailed explanations of each event.
-
-Wed, 27 Dec 2023 18:40:14 +0530
-### [Who is Masarat Alam Bhat, whose faction has been banned by the Centre?](https://www.firstpost.com/explainers/who-is-masarat-alam-bhat-whose-faction-has-been-banned-by-the-centre-13551052.html)
-
-Article found but Couldn't summarize 
-Who is Masarat Alam Bhat, whose faction has been banned by the Centre?
-
-Wed, 27 Dec 2023 18:34:58 +0530
-### [From lunar exploration to Martian Moons: The important space missions set to launch in 2024](https://www.firstpost.com/explainers/from-lunar-exploration-to-martian-moons-the-important-space-missions-set-to-launch-in-2024-13550982.html)
-
-Article found but Couldn't summarize 
-From lunar exploration to Martian Moons: The important space missions set to launch in 2024
-
-Wed, 27 Dec 2023 17:16:05 +0530
-### [After COVID, is 'zombie deer disease' the new pandemic humans should be wary about?](https://www.firstpost.com/explainers/after-covid-is-zombie-deer-disease-the-new-pandemic-humans-should-be-wary-about-13550152.html)
-
-Article found but Couldn't summarize 
-After COVID, is 'zombie deer disease' the new pandemic humans should be wary about?
-
-Wed, 27 Dec 2023 17:02:23 +0530
-### [Why Israeli soldier’s death from fungus infection in Gaza has experts worried](https://www.firstpost.com/explainers/why-israeli-soldiers-death-from-fungus-infection-in-gaza-has-experts-worried-13550552.html)
-
-Article found but Couldn't summarize 
-Why Israeli soldier’s death from fungus infection in Gaza has experts worried
-
-Wed, 27 Dec 2023 15:04:46 +0530
-### [Pakistan's drones bring drugs, weapons across border. Here's how India is fighting back](https://www.firstpost.com/explainers/pakistans-drones-bring-drugs-weapons-across-border-heres-how-india-is-fighting-back-13549592.html)
-
-Article found but Couldn't summarize 
-Pakistan's drones bring drugs, weapons across border. Here's how India is fighting back
-
-Wed, 27 Dec 2023 14:43:26 +0530
-### [Stone from Rajasthan, granite from Telangana: How Ram Temple in Ayodhya will have features from across the country](https://www.firstpost.com/explainers/stone-from-rajasthan-granite-from-telangana-how-ram-temple-in-ayodhya-will-have-features-from-across-the-country-13550092.html)
-
-Article found but Couldn't summarize 
-Stone from Rajasthan, granite from Telangana: How Ram Temple in Ayodhya will have features from across the country
-
-Wed, 27 Dec 2023 12:37:48 +0530
-### [Karnataka logs over 70 new COVID cases: Will the state impose curbs for New Year’s?](https://www.firstpost.com/explainers/karnataka-logs-over-70-new-covid-cases-will-the-state-impose-curbs-for-new-years-13549452.html)
-
-Article found but Couldn't summarize 
-Karnataka logs over 70 new COVID cases: Will the state impose curbs for New Year’s?
-
-Wed, 27 Dec 2023 12:12:34 +0530
-### [Grounded plane with Indians returns to Mumbai: What happens now?](https://www.firstpost.com/explainers/grounded-plane-with-indians-returns-to-mumbai-what-happens-now-13549212.html)
-
-As GPT-3.5, I can provide a summary of the article you shared. French authorities detained a charter jet carrying around 276 passengers, mostly Indians, at Vatry airport near Paris for four days over allegations of human trafficking. The flight, originally bound for Nicaragua, was allowed to fly to Mumbai, India, after rigorous interrogation and verification of the passengers by immigration and investigation authorities. The Gujarat Police has formed teams to investigate a suspected illegal immigration network involving agents. The passengers will be questioned to gather information about the promises made by these agents. The investigation aims to uncover the agents and agencies involved in illegal immigration. Some passengers sought asylum and wished to stay in France, while others returned to India. The airline involved denied any wrongdoing. India was chosen as the destination because it expressed willingness to help and act quickly. The incident sheds light on the increasing trend of people attempting to enter the United States illegally, with Nicaragua becoming a favored destination for asylum seekers.
-
-Wed, 27 Dec 2023 11:28:17 +0530
-### [Delayed flights and trains, road accidents: What is causing thick fog in Delhi?](https://www.firstpost.com/explainers/delayed-flights-and-trains-road-accidents-what-is-causing-thick-fog-in-delhi-13548712.html)
-
-Article found but Couldn't summarize 
-Delayed flights and trains, road accidents: What is causing thick fog in Delhi?
-
-Wed, 27 Dec 2023 10:15:57 +0530
-### [Apple watch ban takes effect in the US: How does it impact you? What comes next?](https://www.firstpost.com/explainers/apple-watch-ban-takes-effect-in-the-us-how-does-it-impact-you-what-comes-next-13548922.html)
-
-Article found but Couldn't summarize 
-Apple watch ban takes effect in the US: How does it impact you? What comes next?
-
-Wed, 27 Dec 2023 09:35:26 +0530
-### [Was the blast at the Israel embassy in Delhi an act of ‘revenge’ for the Gaza war?](https://www.firstpost.com/explainers/was-the-blast-at-the-israel-embassy-in-delhi-an-act-of-revenge-for-the-gaza-war-13548752.html)
-
-Article found but Couldn't summarize 
-Was the blast at the Israel embassy in Delhi an act of ‘revenge’ for the Gaza war?
-
-Tue, 26 Dec 2023 22:04:14 +0530
-### [FirstUp: Rajnath in J&amp;K, NCP calls farmers protest, PPP begins election campaign... today's big news](https://www.firstpost.com/explainers/firstup-rajnath-in-jk-ncp-calls-farmers-protest-ppp-begins-election-campaign-todays-big-news-13547732.html)
-
-Article found but Couldn't summarize 
-FirstUp: Rajnath in J&amp;amp;K, NCP calls farmers protest, PPP begins election campaign... today's big news
-
-Tue, 26 Dec 2023 19:57:10 +0530
-### [How Red Sea attacks could raise export prices of Indian basmati rice](https://www.firstpost.com/explainers/how-red-sea-attacks-could-raise-export-prices-of-indian-basmati-rice-13547432.html)
-
-Article found but Couldn't summarize 
-How Red Sea attacks could raise export prices of Indian basmati rice
-
-Tue, 26 Dec 2023 19:27:56 +0530
-### ['Foot fetish' or health issue: Why the internet is obsessing over Donald Trump's 'toe pads'](https://www.firstpost.com/explainers/foot-fetish-or-health-issue-why-the-internet-is-obsessing-over-donald-trumps-toe-pads-13546002.html)
-
-Article found but Couldn't summarize 
-'Foot fetish' or health issue: Why the internet is obsessing over Donald Trump's 'toe pads'
-
-Tue, 26 Dec 2023 18:00:51 +0530
-### [Ram temple event: Who has been invited? Who's giving it a miss?](https://www.firstpost.com/explainers/ram-temple-event-who-has-been-invited-whos-giving-it-a-miss-13546682.html)
-
-Article found but Couldn't summarize 
-Ram temple event: Who has been invited? Who's giving it a miss?
-
-Tue, 26 Dec 2023 17:19:59 +0530
-### [How Ukraine's hidden Center 73 has shaped the battle away from the frontline](https://www.firstpost.com/explainers/how-ukraines-hidden-center-73-has-shaped-the-battle-away-from-the-frontline-13546962.html)
-
-Article found but Couldn't summarize 
-How Ukraine's hidden Center 73 has shaped the battle away from the frontline
-
-Tue, 26 Dec 2023 17:06:14 +0530
-### [COVID-19 cases surge in India again: Is it time for booster jabs?](https://www.firstpost.com/explainers/covid-19-cases-jn-1-variant-surge-in-india-is-it-time-for-booster-vaccine-13546772.html)
-
-Article found but Couldn't summarize 
-COVID-19 cases surge in India again: Is it time for booster jabs?
-
-Tue, 26 Dec 2023 16:04:25 +0530
-### [In Graphics | PV Sindhu is the 16th highest-paid female athlete. Who ranks first?](https://www.firstpost.com/explainers/in-graphics-pv-sindhu-is-the-16th-highest-paid-female-athlete-who-ranks-first-13546402.html)
-
-Indian badminton player PV Sindhu has achieved the remarkable feat of being the only woman to make it onto Forbes' list of highest-paid female athletes for the year 2023. The list, which showcases the earnings of women athletes and provides insights into the sports industry, revealed that 22-year-old Polish tennis star Iga Świątek topped the rankings with an estimated income of $23.9 million in 2023 (pre-tax and pre-agent fees). Additionally, the analysis showed that out of the top 20 earners, 12 were tennis players, while golf and football each had two representatives. PV Sindhu's appearance on the list at the 16th position brought joy to Indian fans.
-
-Tue, 26 Dec 2023 15:31:07 +0530
-### [Iran deploys Talaeieh and Nasir cruise missiles near Indian Ocean. Here’s what we know](https://www.firstpost.com/explainers/iran-deploys-talaeieh-and-nasir-cruise-missiles-near-indian-ocean-heres-what-we-know-13545852.html)
-
-Article found but Couldn't summarize 
-Iran deploys Talaeieh and Nasir cruise missiles near Indian Ocean. Here’s what we know
-
-Tue, 26 Dec 2023 14:46:31 +0530
-### [Who is Talha Saeed, the son of dreaded terrorist Hafiz Saeed, who will contest Pakistan elections?](https://www.firstpost.com/explainers/who-is-talha-saeed-the-son-of-dreaded-terrorist-hafiz-saeed-who-will-contest-pakistan-elections-13544942.html)
-
-Article found but Couldn't summarize 
-Who is Talha Saeed, the son of dreaded terrorist Hafiz Saeed, who will contest Pakistan elections?
-
-Tue, 26 Dec 2023 14:13:44 +0530
-### [Who is the Hyderabad man, likely to be mastermind behind Nicaragua-bound flight?](https://www.firstpost.com/explainers/france-plane-grounded-indian-passengers-nicaragua-bound-flight-mumbai-human-trafficking-mastermind-13545532.html)
-
-Article found but Couldn't summarize 
-Who is the Hyderabad man, likely to be mastermind behind Nicaragua-bound flight?
-
-Tue, 26 Dec 2023 13:18:26 +0530
-### [Why Egypt’s peace plan is finding no support from Israel, Hamas](https://www.firstpost.com/explainers/why-egypts-peace-proposal-to-end-the-war-is-finding-no-support-from-israel-and-hamas-13545152.html)
-
-Article found but Couldn't summarize 
-Why Egypt’s peace plan is finding no support from Israel, Hamas
-
-Tue, 26 Dec 2023 12:40:18 +0530
-### [Rewind 2023: From authentic to panauti, words that defined the year](https://www.firstpost.com/explainers/rewind-2023-from-authentic-to-panauti-words-that-defined-the-year-13537932.html)
-
-Article found but Couldn't summarize 
-Rewind 2023: From authentic to panauti, words that defined the year
-
-Tue, 26 Dec 2023 12:25:46 +0530
-### [What happens with unused gift cards each year?](https://www.firstpost.com/explainers/what-happens-with-unused-gift-cards-each-year-13544762.html)
-
-As GPT-3.5, I can provide you with a summary of the article you shared. The article discusses the popularity of gift cards during the holiday season and highlights the issue of unused or forgotten gift cards. According to the National Retail Federation, Americans are expected to spend nearly $30 billion on gift cards this holiday season, with restaurant gift cards being the most popular choice. However, many gift cards end up unused or forgotten, with an average value of $187 per person, totaling $23 billion. 
-
-Under federal law, gift cards cannot expire for five years from the time of purchase or the last time money was added to them. Some states have even longer expiration periods. It is still advisable to use gift cards promptly, as some cards may start accruing inactivity fees after a year of non-use, and the value of the card may decrease due to inflation. Additionally, if a retail store closes or goes bankrupt, the gift card may become worthless.
-
-If you have a gift card that you don't want, you can consider selling it on websites like CardCash or Raise, although you may not receive the full face value. It's also worth noting that when a gift card goes unused, the retailer can use the money right away, but they also have to account for the possibility of the gift card being redeemed. Some states require retailers to work with unclaimed property programs to return money from unspent gift cards to consumers.
-
-To claim unspent gift card money, you can check with your state's unclaimed property program. They have websites like MissingMoney.com where you can search for any unclaimed property, including cash from gift cards.
-
-Tue, 26 Dec 2023 11:28:48 +0530
-### [INS Imphal to be commissioned today: Why this is significant for the Navy](https://www.firstpost.com/explainers/ins-imphal-to-be-commissioned-today-why-this-is-significant-for-the-indian-navy-13544232.html)
-
-Article found but Couldn't summarize 
-INS Imphal to be commissioned today: Why this is significant for the Navy
-
-Tue, 26 Dec 2023 10:08:08 +0530
-### [Who is Saveera Parkash, first Hindu woman to contest elections in Pakistan?](https://www.firstpost.com/explainers/who-is-saveera-parkash-first-hindu-woman-to-contest-elections-in-pakistan-13544522.html)
-
-Article found but Couldn't summarize 
-Who is Saveera Parkash, first Hindu woman to contest elections in Pakistan?
-
-Tue, 26 Dec 2023 09:39:22 +0530
-### [Chennai techie murder: Was it a case of love gone wrong?](https://www.firstpost.com/explainers/chennai-techie-murder-nandhini-was-it-a-case-of-love-gone-wrong-13544412.html)
-
-Article found but Couldn't summarize 
-Chennai techie murder: Was it a case of love gone wrong?
-
-Mon, 25 Dec 2023 21:40:59 +0530
-### [FirstUp: From Jaishankar in Russia to India vs South Africa, here’s what to expect](https://www.firstpost.com/explainers/firstup-from-jaishankar-in-russia-to-india-vs-south-africa-heres-what-to-expect-13543932.html)
-
-Article found but Couldn't summarize 
-FirstUp: From Jaishankar in Russia to India vs South Africa, here’s what to expect
-
-Mon, 25 Dec 2023 15:59:39 +0530
-### [Rewind 2023: The big controversies of the year](https://www.firstpost.com/explainers/rewind-2023-the-big-controversies-and-scandals-of-the-year-13506982.html)
-
-Article found but Couldn't summarize 
-Rewind 2023: The big controversies of the year
-
-Mon, 25 Dec 2023 10:35:41 +0530
-### [Rewind 2023: The A to Z of the year](https://www.firstpost.com/explainers/rewind-2023-a-for-ai-z-for-zionism-what-defined-the-year-13514662.html)
-
-Article found but Couldn't summarize 
-Rewind 2023: The A to Z of the year
-
-Sun, 24 Dec 2023 17:41:02 +0530
-### [FirstUp: Dhankhar to meet Kharge and much more… The big news today](https://www.firstpost.com/explainers/firstup-dhankhar-to-meet-kharge-and-much-more-the-big-news-today-13541462.html)
-
-Article found but Couldn't summarize 
-FirstUp: Dhankhar to meet Kharge and much more… The big news today
-
-Sun, 24 Dec 2023 14:04:53 +0530
-### [In Graphics | The best Christmas films of all time](https://www.firstpost.com/explainers/in-graphics-the-best-christmas-films-of-all-time-13536172.html)
-
-This article discusses the upcoming holiday season and the joy of decorating homes and indulging in delicious Christmas cake. It also mentions the popularity of festive movies that give a warm and fuzzy feeling. The article briefly mentions the success of the Bollywood film Animal, despite concerns about toxic masculinity. Additionally, it reflects on notable events and personalities from the past year, including figures like Silvio Berlusconi, Tina Turner, and Yevgeny Prigozhin. The article concludes by mentioning a significant development in Indian sports with the IOC Session held in Mumbai. The article is published on December 24, 2023, on Firstpost.
-
-Sun, 24 Dec 2023 10:05:05 +0530
-### [Where did Santa Claus come from?](https://www.firstpost.com/explainers/where-did-santa-claus-come-from-13536602.html)
-
-The origins of the beloved gift-giver figure, Santa Claus, can be traced back to St. Nicholas, a man who lived in the fourth century. St. Nicholas was known for his Christian faith and acts of generosity, such as providing dowries for three impoverished sisters. His legacy sparked various traditions across Europe, with December 6th becoming his feast day. Over time, the figure of St. Nicholas evolved into Santa Claus, influenced by cultural and religious shifts. The red Santa suit and related apparel that we are familiar with today are the result of modern-day marketing in the English-speaking world. Despite the transformation, the core values of generosity, compassion, and the joy of giving have remained intact in the figure of Santa Claus.
-
-Sun, 24 Dec 2023 09:54:51 +0530
-### [This Week in Explainers: Why Trump's name was taken off the 2024 ballot in Colorado](https://www.firstpost.com/explainers/this-week-in-explainers-why-donald-trumps-name-was-taken-off-the-2024-ballot-in-colorado-13537242.html)
-
-Article found but Couldn't summarize 
-This Week in Explainers: Why Trump's name was taken off the 2024 ballot in Colorado
-
-Sat, 23 Dec 2023 17:53:50 +0530
-### [After Canada, is pro-Khalistan sentiment growing in the US?](https://www.firstpost.com/explainers/after-canada-is-pro-khalistan-sentiment-growing-in-the-us-13539172.html)
-
-Article found but Couldn't summarize 
-After Canada, is pro-Khalistan sentiment growing in the US?
-
-Sat, 23 Dec 2023 14:44:33 +0530
-### [What led to France grounding a plane with over 300 Indians?](https://www.firstpost.com/explainers/france-grounds-plane-with-over-300-indians-human-trafficking-13538722.html)
-
-Article found but Couldn't summarize 
-What led to France grounding a plane with over 300 Indians?
-
-Sat, 23 Dec 2023 12:17:28 +0530
-### [Guess which is the most popular Christmas song of all time?](https://www.firstpost.com/explainers/guess-which-is-the-most-popular-christmas-song-of-all-time-13531802.html)
-
-Article found but Couldn't summarize 
-Guess which is the most popular Christmas song of all time?
-
-Sat, 23 Dec 2023 12:17:15 +0530
-### [Is China rebuilding its old base for nuclear tests? Should India be concerned?](https://www.firstpost.com/explainers/china-rebuilding-its-old-base-for-nuclear-tests-should-india-be-concerned-13538262.html)
-
-Article found but Couldn't summarize 
-Is China rebuilding its old base for nuclear tests? Should India be concerned?
-
-Sat, 23 Dec 2023 09:32:39 +0530
-### [Christmas pudding is a famous British food. Here's how it got there](https://www.firstpost.com/explainers/christmas-pudding-is-a-famous-british-food-heres-how-it-got-there-13518492.html)
-
-Article found but Couldn't summarize 
-Christmas pudding is a famous British food. Here's how it got there
-
-Sat, 23 Dec 2023 09:09:44 +0530
-### [This Week in Explainers: Is JN.1 variant becoming the Grinch who will steal Christmas?](https://www.firstpost.com/explainers/this-week-in-explainers-is-jn-1-variant-becoming-the-grinch-who-will-steal-christmas-13536552.html)
-
-Article found but Couldn't summarize 
-This Week in Explainers: Is JN.1 variant becoming the Grinch who will steal Christmas?
-
-Fri, 22 Dec 2023 20:07:06 +0530
-### [Save your tears: Why Whamageddon is making people stay away from ‘Last Christmas’](https://www.firstpost.com/explainers/whamageddon-last-christmas-wham-song-holiday-season-13536972.html)
-
-Article found but Couldn't summarize 
-Save your tears: Why Whamageddon is making people stay away from ‘Last Christmas’
-
-Fri, 22 Dec 2023 19:21:26 +0530
-### [Rewind 2023: The newsmakers of the year](https://www.firstpost.com/explainers/rewind-2023-from-virat-kohli-to-sam-altman-newsmakers-of-the-year-13534422.html)
-
-Article found but Couldn't summarize 
-Rewind 2023: The newsmakers of the year
-
-Fri, 22 Dec 2023 17:20:48 +0530
-### [Ram Mandir inauguration: Did Nihang Sikhs start the temple movement over a century back?](https://www.firstpost.com/explainers/ram-mandir-inauguration-did-nihang-sikhs-start-the-temple-movement-over-a-century-back-13536162.html)
-
-Article found but Couldn't summarize 
-Ram Mandir inauguration: Did Nihang Sikhs start the temple movement over a century back?
-
-Fri, 22 Dec 2023 16:31:00 +0530
-### [Why Nirvana is facing trouble again over iconic naked baby album cover](https://www.firstpost.com/explainers/why-nirvana-is-facing-trouble-again-over-iconic-naked-baby-album-cover-13536012.html)
-
-Article found but Couldn't summarize 
-Why Nirvana is facing trouble again over iconic naked baby album cover
-
-Fri, 22 Dec 2023 15:33:53 +0530
-### [How Houthi attacks in the Red Sea could affect everyday life](https://www.firstpost.com/explainers/how-houthi-attacks-in-the-red-sea-could-affect-everyday-life-13535262.html)
-
-Article found but Couldn't summarize 
-How Houthi attacks in the Red Sea could affect everyday life
-
-Fri, 22 Dec 2023 14:24:32 +0530
-### [France's Macron invited for Republic Day: How India selects its chief guest](https://www.firstpost.com/explainers/frances-emmanuel-macron-invited-for-republic-day-how-india-selects-its-chief-guest-for-the-parade-13535212.html)
-
-Article found but Couldn't summarize 
-France's Macron invited for Republic Day: How India selects its chief guest
-
-Fri, 22 Dec 2023 13:54:17 +0530
-### [Could JN.1 COVID variant affect your holiday travel? Where are cases rising in India, world?](https://www.firstpost.com/explainers/could-jn-1-covid-variant-affect-your-holiday-travel-where-are-cases-rising-in-india-world-13535092.html)
-
-Article found but Couldn't summarize 
-Could JN.1 COVID variant affect your holiday travel? Where are cases rising in India, world?
-
-Fri, 22 Dec 2023 13:14:12 +0530
-### [Pannun assassination plot: What is consular access that India got to Nikhil Gupta?](https://www.firstpost.com/explainers/pannun-assassination-plot-what-is-consular-access-that-india-got-to-nikhil-gupta-13534982.html)
-
-Article found but Couldn't summarize 
-Pannun assassination plot: What is consular access that India got to Nikhil Gupta?
-
-Fri, 22 Dec 2023 11:38:29 +0530
-### [Who is Mayushi Bhagat, the Indian who appears on FBI's ‘worst kidnapping list’?](https://www.firstpost.com/explainers/who-is-mayushi-bhagat-the-missing-indian-student-who-appears-on-the-fbis-worst-kidnapping-list-13534552.html)
-
-Article found but Couldn't summarize 
-Who is Mayushi Bhagat, the Indian who appears on FBI's ‘worst kidnapping list’?
-
-Fri, 22 Dec 2023 11:16:54 +0530
-### [Poonch attack kills 4 soldiers: What is PAFF, the group behind the J-K ambush?](https://www.firstpost.com/explainers/poonch-attack-5-army-soldiers-paff-terror-group-j-k-ambush-13533982.html)
-
-GPT-3.5: On Thursday, heavily-armed terrorists ambushed two Indian Army vehicles in Jammu and Kashmir's Poonch district, resulting in the death of four soldiers and injuries to three others. The attack took place during a cordon-and-search operation. The People's Anti-Fascist Front (PAFF), a proxy outfit of the terror group Jaish-e-Mohammed (JeM), claimed responsibility for the attack. PAFF has been involved in various acts of terrorism in Jammu and Kashmir and has been banned by the Union Home Ministry. The Indian Army is currently conducting a search operation to apprehend the terrorists involved in the attack.
-
-Fri, 22 Dec 2023 10:27:47 +0530
-### [14 killed in Prague university: How common are school shootings in Europe?](https://www.firstpost.com/explainers/14-killed-in-prague-university-how-common-are-school-shootings-in-europe-13534212.html)
-
-Article found but Couldn't summarize 
-14 killed in Prague university: How common are school shootings in Europe?
-
-Fri, 22 Dec 2023 07:34:32 +0530
-### [FirstUp: From INDIA bloc’s protest to Salaar release, it’s a day to watch out for](https://www.firstpost.com/explainers/firstup-from-india-blocs-protest-to-prabhas-salaar-release-its-a-day-to-watch-out-for-13531622.html)
-
-Article found but Couldn't summarize 
-FirstUp: From INDIA bloc’s protest to Salaar release, it’s a day to watch out for
-
-Thu, 21 Dec 2023 20:23:30 +0530
-### [Why do Punjab houses have planes on their rooftops? Did they inspire SRK’s Dunki?](https://www.firstpost.com/explainers/punjab-houses-rooftop-planes-srk-dunki-release-13532842.html)
-
-Article found but Couldn't summarize 
-Why do Punjab houses have planes on their rooftops? Did they inspire SRK’s Dunki?
-
-Thu, 21 Dec 2023 19:32:02 +0530
-### [A Christmas Horror: Why penile fractures are most common on the holiday](https://www.firstpost.com/explainers/a-christmas-horror-why-penile-fractures-are-most-common-on-the-holiday-13531392.html)
-
-Article found but Couldn't summarize 
-A Christmas Horror: Why penile fractures are most common on the holiday
-
-Thu, 21 Dec 2023 18:25:48 +0530
-### [Rewind 2023: From India's population to Barbie, the year in numbers](https://www.firstpost.com/explainers/rewind-2023-from-indias-population-to-barbies-box-office-figures-the-year-in-numbers-13531612.html)
-
-Article found but Couldn't summarize 
-Rewind 2023: From India's population to Barbie, the year in numbers
-
-Thu, 21 Dec 2023 17:43:59 +0530
-### [In Graphics | What’s the history behind Santa Claus, the Christmas tree, and carols?](https://www.firstpost.com/explainers/in-graphics-whats-the-history-behind-santa-claus-the-christmas-tree-and-carols-13526862.html)
-
-Article found but Couldn't summarize 
-In Graphics | What’s the history behind Santa Claus, the Christmas tree, and carols?
-
-Thu, 21 Dec 2023 17:03:34 +0530
-### [Why CISF will take charge of Parliament security from Delhi Police](https://www.firstpost.com/explainers/lok-sabha-breach-why-cisf-will-take-charge-of-parliament-security-from-delhi-police-13531382.html)
-
-Article found but Couldn't summarize 
-Why CISF will take charge of Parliament security from Delhi Police
-
-Thu, 21 Dec 2023 16:16:30 +0530
-### [What is ‘mouse fever’, the illness causing Russian soldiers to bleed from their eyes?](https://www.firstpost.com/explainers/what-is-mouse-fever-the-illness-causing-russian-soldiers-to-bleed-from-their-eyes-13531222.html)
-
-Article found but Couldn't summarize 
-What is ‘mouse fever’, the illness causing Russian soldiers to bleed from their eyes?
-
-Thu, 21 Dec 2023 14:22:52 +0530
-### [K'taka techie, Bhagat Singh fan: Who are two new detainees in Parliament breach case?](https://www.firstpost.com/explainers/karnataka-techie-bhagat-singhs-fan-who-are-two-new-detainees-in-parliament-breach-case-13530532.html)
-
-Article found but Couldn't summarize 
-K'taka techie, Bhagat Singh fan: Who are two new detainees in Parliament breach case?
-
-Thu, 21 Dec 2023 13:34:36 +0530
-### [1 state, multiple outbreaks: Why Kerala is often the first to record diseases](https://www.firstpost.com/explainers/1-state-multiple-outbreaks-why-kerala-is-often-the-first-to-record-diseases-13530482.html)
-
-Article found but Couldn't summarize 
-1 state, multiple outbreaks: Why Kerala is often the first to record diseases
-
-Thu, 21 Dec 2023 13:25:27 +0530
-### [More JN.1 infections in India: Is India on the cusp of another COVID wave?](https://www.firstpost.com/explainers/more-jn-1-sub-variant-infections-in-india-is-india-on-the-cusp-of-another-covid-wave-13529582.html)
-
-Article found but Couldn't summarize 
-More JN.1 infections in India: Is India on the cusp of another COVID wave?
-
-Thu, 21 Dec 2023 12:44:16 +0530
-### [Mob lynching, rape, suicide: What are the changes in India’s criminal laws?](https://www.firstpost.com/explainers/mob-lynching-rape-suicide-changes-in-india-criminal-laws-bharatiya-nyaya-sanhita-13530072.html)
-
-Article found but Couldn't summarize 
-Mob lynching, rape, suicide: What are the changes in India’s criminal laws?
-
-Thu, 21 Dec 2023 12:37:14 +0530
-### [How world's craving for chocolate is bad news for a Nigerian rainforest](https://www.firstpost.com/explainers/how-worlds-craving-for-chocolate-is-bad-news-for-a-nigerian-rainforest-13530112.html)
-
-Article found but Couldn't summarize 
-How world's craving for chocolate is bad news for a Nigerian rainforest
-
-Thu, 21 Dec 2023 10:32:55 +0530
-### [Why Sri Lanka has declared a one-year pause on foreign research vessels](https://www.firstpost.com/explainers/why-sri-lanka-has-declared-a-one-year-pause-on-foreign-research-vessels-13529502.html)
-
-Article found but Couldn't summarize 
-Why Sri Lanka has declared a one-year pause on foreign research vessels
-
-Thu, 21 Dec 2023 09:17:00 +0530
-### [Rewind 2023: Remembering influential figures we lost this year](https://www.firstpost.com/explainers/rewind-2023-remembering-influential-figures-we-lost-this-year-13527152.html)
-
-Article found but Couldn't summarize 
-Rewind 2023: Remembering influential figures we lost this year
-
-Sat, 16 Dec 2023 11:49:33 +0530
-### [What is anti-anxiety drug ketamine tied to F.R.I.E.N.D.S star Matthew Perry's death?](https://www.firstpost.com/explainers/matthew-perry-death-what-is-anti-anxiety-drug-ketamine-tied-to-f-r-i-e-n-d-s-star-13510122.html)
-
-Article found but Couldn't summarize 
-What is anti-anxiety drug ketamine tied to F.R.I.E.N.D.S star Matthew Perry's death?
-
-Sat, 16 Dec 2023 09:54:10 +0530
-### [In Graphics | India's favourite foods in 2023](https://www.firstpost.com/explainers/in-graphics-indias-favourite-foods-in-2023-13508652.html)
-
-Article found but Couldn't summarize 
-In Graphics | India's favourite foods in 2023
-
-Sat, 16 Dec 2023 09:02:05 +0530
-### [This Week in Explainers: How the Parliament security breach was planned](https://www.firstpost.com/explainers/this-week-in-explainers-how-the-parliament-security-breach-was-planned-13508192.html)
-
-The article discusses several significant events in India, including a security breach at Parliament, a large cash haul in a tax raid on a Congress MP, and the BJP's strategy for the 2024 general elections. It also covers a security scare at the Hindon airbase, the BJP's plans for the upcoming elections, and the Supreme Court's judgment on the abrogation of Article 370 in Jammu and Kashmir. Additionally, it addresses the debate on menstrual leave for women employees.
-
-Overall, the article provides detailed insights into recent developments in Indian politics, security matters, and social issues.
-
-Fri, 15 Dec 2023 20:29:03 +0530
-### [Millions of US adults have chronic fatigue syndrome: What is this condition?](https://www.firstpost.com/explainers/millions-of-us-adults-have-chronic-fatigue-syndrome-what-is-this-condition-13508942.html)
-
-Article found but Couldn't summarize 
-Millions of US adults have chronic fatigue syndrome: What is this condition?
-
-Fri, 15 Dec 2023 19:06:09 +0530
-### [Retail Wars: Why Shein has been accused of ‘mafia-style intimidation’ by rival Temu](https://www.firstpost.com/explainers/retail-wars-why-shein-has-been-accused-of-mafia-style-intimidation-by-rival-temu-13507472.html)
-
-Article found but Couldn't summarize 
-Retail Wars: Why Shein has been accused of ‘mafia-style intimidation’ by rival Temu
-
-Fri, 15 Dec 2023 18:42:48 +0530
-### [Is Nikhil Gupta, arrested for Pannun murder plot in US, being ‘tortured’ in custody?](https://www.firstpost.com/explainers/is-nikhil-gupta-arrested-for-pannun-murder-plot-in-us-being-tortured-in-custody-13508092.html)
-
-Article found but Couldn't summarize 
-Is Nikhil Gupta, arrested for Pannun murder plot in US, being ‘tortured’ in custody?
-
-Fri, 15 Dec 2023 16:53:40 +0530
-### [Is Maldives' 'India Out' campaign becoming a reality?](https://www.firstpost.com/explainers/maldives-india-out-campaign-hydrographic-survey-pact-military-mohamed-muizzu-13507582.html)
-
-Article found but Couldn't summarize 
-Is Maldives' 'India Out' campaign becoming a reality?
-
-Fri, 15 Dec 2023 16:22:15 +0530
-### [Inside ‘Operation 1027’, the anti-junta offensive in Myanmar](https://www.firstpost.com/explainers/inside-operation-1027-the-anti-junta-offensive-in-myanmar-13507682.html)
-
-Article found but Couldn't summarize 
-Inside ‘Operation 1027’, the anti-junta offensive in Myanmar
-
-Fri, 15 Dec 2023 15:54:33 +0530
-### [Gen-Z are scaling back on eating out owing to menu anxiety. What is it?](https://www.firstpost.com/explainers/gen-z-are-scaling-back-on-eating-out-owing-to-menu-anxiety-what-is-it-13503792.html)
-
-Hmm, it seems like you're experiencing menu anxiety, which is a form of social anxiety related to feeling overwhelmed when choosing from a variety of options on a restaurant menu. Menu anxiety can make it difficult to decide what to order and may even affect your appetite. It's worth noting that menu anxiety is not an officially recognized mental health diagnosis, but it is a common issue that many people face. Factors such as the cost of the meal, not finding something appetizing, or having too many choices can contribute to menu anxiety. Some individuals also worry about being judged or feel pressured by others waiting in line. However, there are ways to cope with menu anxiety. Familiarizing yourself with the menu options in advance can help reduce feelings of being overwhelmed or rushed. It's also important to remember that there's no such thing as a wrong decision when ordering food. Opting for familiar dishes that bring comfort and satisfaction can also be helpful. Ultimately, the goal is to enjoy the dining experience and focus on the positive social interactions with your companions.
-
-Fri, 15 Dec 2023 15:34:34 +0530
-### [India debates paid menstrual leave policy at work. Where do other countries stand?](https://www.firstpost.com/explainers/india-debates-paid-menstrual-leave-policy-at-workplace-where-do-other-countries-stand-13506072.html)
-
-The article discusses the topic of menstrual leave for employees and students, particularly in India and other countries. It highlights the recent statement by India's Union Women and Child Development Minister, Smriti Irani, opposing the idea of mandatory paid menstrual leave for female employees, emphasizing that menstruation is a natural part of life and shouldn't be treated as a handicap requiring special leave provisions. The article also provides information on India's current stance on menstrual leave policy, as well as the policies in other countries such as Spain, Indonesia, Japan, South Korea, Taiwan, South Africa, Zambia, and Vietnam. It offers insights into the debate surrounding the need for menstrual leave and the challenges women face during menstruation.
-
-Fri, 15 Dec 2023 13:46:07 +0530
-### [Why Oman Sultan's first state visit to India is significant for both nations](https://www.firstpost.com/explainers/why-oman-sultans-first-state-visit-to-india-is-significant-for-both-nations-13506792.html)
-
-Article found but Couldn't summarize 
-Why Oman Sultan's first state visit to India is significant for both nations
-
-Fri, 15 Dec 2023 13:31:12 +0530
-### [Why a UP judge has sought CJI DY Chandrachud’s nod to ‘end’ her life](https://www.firstpost.com/explainers/up-judge-letter-supreme-court-cji-dy-chandrachuds-nod-to-end-her-life-sexual-harassment-13506562.html)
-
-Article found but Couldn't summarize 
-Why a UP judge has sought CJI DY Chandrachud’s nod to ‘end’ her life
-
-Fri, 15 Dec 2023 12:51:33 +0530
-### [Why Hungary has blocked €50 billion in EU aid to Ukraine](https://www.firstpost.com/explainers/why-hungary-has-blocked-e50-billion-in-eu-aid-to-ukraine-13506312.html)
-
-Article found but Couldn't summarize 
-Why Hungary has blocked €50 billion in EU aid to Ukraine
-
-Fri, 15 Dec 2023 11:13:42 +0530
-### [Parliament breach: What social media posts of six conspirators reveal](https://www.firstpost.com/explainers/parliament-breach-what-social-media-posts-of-six-conspirators-reveal-13504372.html)
-
-Article found but Couldn't summarize 
-Parliament breach: What social media posts of six conspirators reveal
-
-Fri, 15 Dec 2023 10:23:08 +0530
-### [It's Shopping Season: Why businesses use Christmas music to convince you to spend more](https://www.firstpost.com/explainers/why-businesses-use-christmas-music-to-convince-you-to-spend-more-13501272.html)
-
-The article discusses the influence of music on holiday season shopping behaviors, particularly in the context of Christmas adverts by major retailers. It examines the use of nostalgic and emotional music, such as 1980s and 1990s popular hits, as a marketing tool to evoke emotional appeal and influence consumer spending. The author explores the impact of music on impulse buying, brand loyalty, and the overall shopping experience, shedding light on the psychological and marketing strategies behind the use of music in holiday advertising.
-
-Fri, 15 Dec 2023 09:48:31 +0530
-### [Parliament security breach: How mastermind Lalit Jha evaded cops before surrendering](https://www.firstpost.com/explainers/parliament-security-breach-how-mastermind-lalit-jha-evaded-cops-before-surrendering-13505582.html)
-
-The article discusses the arrest of Lalit Mohan Jha, the alleged mastermind behind a security breach at the Indian Parliament. Jha was arrested after reportedly surrendering to the police and was found to have orchestrated the breach by recording video footage of the incident and coordinating with other individuals involved. The article also provides details about Jha's background, including his profession as a teacher and his alleged inspiration from freedom fighter Bhagat Singh and Cuban revolutionary Che Guevara. The plot of the breach, its execution, and the subsequent custody of the accused are also detailed. Additionally, the article mentions the involvement of certain Members of Parliament in responding to the breach.
-
-Thu, 14 Dec 2023 21:59:05 +0530
-### [FirstUp: SC to hear Moitra plea, Modi-Shah in Rajasthan… today’s big news](https://www.firstpost.com/explainers/firstup-sc-to-hear-moitra-plea-modi-shah-in-rajasthan-todays-big-news-13504942.html)
-
-Article found but Couldn't summarize 
-FirstUp: SC to hear Moitra plea, Modi-Shah in Rajasthan… today’s big news
-
-Thu, 14 Dec 2023 20:49:21 +0530
-### [What is hydrogen therapy developed by Chinese researchers that could reverse ageing?](https://www.firstpost.com/explainers/what-is-hydrogen-therapy-developed-by-chinese-researchers-that-could-reverse-ageing-13504722.html)
-
-Chinese researchers claim to have developed a hydrogen therapy that could potentially reverse age-related changes in the body and prevent geriatric diseases like Alzheimer’s. This therapy involves delivering a high concentration of hydrogen molecules using a scaffold implant developed with nanotechnology, which is reported to be 40,000 times more effective than other delivery methods. The implant can provide a slow and consistent release of hydrogen for about a week, with initial tests showing promising results in repairing bone defects in older mice. The researchers believe that this method could have broad-spectrum anti-ageing properties and potential applications for treating other age-related conditions and diseases.
-
-Thu, 14 Dec 2023 19:56:22 +0530
-### [In Graphics | Will COP28's UAE Consensus spell doom for fossil fuels?](https://www.firstpost.com/explainers/in-graphics-will-cop28s-uae-consensus-spell-doom-for-fossil-fuels-13504632.html)
-
-The COP28 concluded in Dubai with a deal known as the UAE Consensus, spearheaded by the UAE's Sultan al-Jaber. The deal calls for transitioning away from fossil fuels in a just, orderly, and equitable manner, although it did not specifically name the main driver of planet-heating pollution. Observers view this as a major milestone but also note that significant efforts are needed to achieve global decarbonization and limit warming to 1.5 degrees Celsius. The UAE Consensus, along with other deals achieved in Dubai, holds significance in addressing climate change, but there are concerns about whether it will be enough to effectively combat the rapidly-accelerating climate impacts.
-
-Thu, 14 Dec 2023 19:16:38 +0530
-### [Why have 15 Opposition MPs been suspended from Parliament?](https://www.firstpost.com/explainers/why-have-15-opposition-mps-been-suspended-from-parliament-13504552.html)
-
-Article found but Couldn't summarize 
-Why have 15 Opposition MPs been suspended from Parliament?
-
-Thu, 14 Dec 2023 18:00:26 +0530
-### [December Blues: Is COVID-19 making a comeback amid holiday season?](https://www.firstpost.com/explainers/december-blues-is-covid-19-making-a-comeback-amid-holiday-season-13503942.html)
-
-Article found but Couldn't summarize 
-December Blues: Is COVID-19 making a comeback amid holiday season?
-
-Thu, 14 Dec 2023 17:09:23 +0530
-### [Parliament security breach: Who is Lalit Jha, the alleged mastermind still on the run?](https://www.firstpost.com/explainers/parliament-security-breach-who-is-lalit-jha-the-alleged-mastermind-still-on-the-run-13503512.html)
-
-Article found but Couldn't summarize 
-Parliament security breach: Who is Lalit Jha, the alleged mastermind still on the run?
-
-Thu, 14 Dec 2023 17:03:00 +0530
-### [UK, Italy, Japan to build world's most sophisticated stealth jet. Here’s what we know](https://www.firstpost.com/explainers/uk-italy-japan-want-to-build-the-most-sophisticated-stealth-jet-in-history-heres-what-we-know-13503922.html)
-
-The UK, Italy, and Japan have collaborated to develop a new stealth fighter jet, known as the Tempest in the UK. The aircraft, scheduled for launch by 2035, is designed to incorporate cutting-edge technologies and be one of the world's most advanced and adaptable fighter jets. The proposed craft aims to have hypersonic weapons, AI-controlled drones, and energy weapon systems. The partnership aims to create the Global Combat Air Programme (GCAP) and manage the private-sector joint venture, which includes Mitsubishi Heavy, Britain’s BAE Systems PLC, and Italy’s Leonardo. Japan's participation in the project reflects its efforts to counter growing threats from China, North Korea, and Russia. The joint development of the fighter jet is seen as crucial for each country's security and future defense capabilities.
-
-Thu, 14 Dec 2023 16:02:41 +0530
-### [Trump is selling pieces of the suit he wore during arrest for $5,000. Who is buying?](https://www.firstpost.com/explainers/trump-is-selling-pieces-of-the-suit-he-wore-during-arrest-for-5000-who-is-buying-13502682.html)
-
-Former US President Donald Trump is selling pieces of the suit he wore in his mugshot after being arrested in August 2023. He is offering 2,024 pieces of the suit, each obtainable by purchasing 47 NFT digital trading cards at $99 each. Some cards come with autographs, and one piece of the suit will be given to those who purchase 47 digital cards. There is also an offer for 200 limited-edition $9,900 "VIP Tickets" for a dinner at Mar-a-Lago, which can be obtained by purchasing 100 cards at once and paying with cryptocurrencies. However, potential buyers should exercise caution, as there is a disclaimer stating that buyers may receive a limited edition Trump NFT instead of the physical suit in the event of any manufacturing, production, or delivery issues. Trump has also previously sold sets of cards, making millions of dollars from the sales.
-
-Thu, 14 Dec 2023 14:29:07 +0530
-### [How the kickback scandal in Japan is stirring trouble for PM Fumio Kishida](https://www.firstpost.com/explainers/how-the-kickback-scandal-in-japan-is-stirring-trouble-for-pm-fumio-kishida-13503372.html)
-
-Japanese Prime Minister Fumio Kishida has faced a kickback scheme within his ruling party, leading to multiple cabinet ministers resigning and a drop in public approval for his cabinet. The scandal centers around the LDP’s Seiwaken or the Seiwa policy study group, with allegations of unreported campaign violations and kickbacks. The ministers who have resigned include Chief Cabinet Secretary Hirokazu Matsuno, Industry Minister Yasutoshi Nishimura, Internal Affairs Minister Junji Suzuki, Agriculture Minister Ichiro Miyashita, and special advisor Michiko Ueno. Investigations are ongoing, and the scandal is affecting Kishida's public support. The situation may impact the upcoming party leadership vote in September.
-
-Thu, 14 Dec 2023 14:02:48 +0530
-### [Parliament security breach accused booked under UAPA: What is this stringent law?](https://www.firstpost.com/explainers/parliament-security-breach-accused-booked-under-uapa-what-is-this-stringent-law-13503052.html)
-
-On December 13, 2023, significant events took place outside and inside the Indian Parliament, involving intruders releasing colored smoke canisters and breaching security. Two individuals entered the Lok Sabha chamber while two others released colored smoke outside. This resulted in arrests and suspension of security personnel. The incident led to the enforcement of stricter security measures at Parliament. Additionally, the article outlines the history and multiple amendments of the Unlawful Activities (Prevention) Act (UAPA), India’s main anti-terrorism law, along with its controversial aspects, such as provisions for detention without a chargesheet and restrictions on bail.
-
-Thu, 14 Dec 2023 13:24:43 +0530
-### [What is the connection between Lok Sabha intruders and Bhagat Singh?](https://www.firstpost.com/explainers/parliament-security-breach-what-is-the-connection-between-lok-sabha-intruders-and-bhagat-singh-13502902.html)
-
-Article found but Couldn't summarize 
-What is the connection between Lok Sabha intruders and Bhagat Singh?
-
-Thu, 14 Dec 2023 13:02:50 +0530
-### [Why did the intruders breach Parliament? Was it to protest against unemployment?](https://www.firstpost.com/explainers/why-did-the-intruders-breach-parliament-was-it-to-protest-against-unemployment-13502822.html)
-
-During the Winter Session proceedings at the Lok Sabha on Wednesday, two individuals, identified as Manoranjan D and Sagar Sharma, jumped into the chamber and released coloured smoke from gas canisters, while two others – Amol Shinde and Neelam Devi – were detained from the premises as they yelled slogans and released yellow-coloured gas. The motives behind the security breach have been linked to frustration over unemployment, as the individuals were reportedly highly qualified but unable to secure employment. Additionally, they expressed frustration over issues like the farmers' protest and the Manipur crisis. The group meticulously planned the incident and was connected through a club known as the 'Bhagat Singh Fan Club'. The Ministry of Home Affairs has constituted an enquiry panel to investigate the breach and recommend improvements to security at the Parliament.
-
-Thu, 14 Dec 2023 12:58:53 +0530
-### [The key decisions and climate pledges made at COP28](https://www.firstpost.com/explainers/the-key-decisions-and-climate-pledges-made-at-cop28-13502532.html)
-
-Article found but Couldn't summarize 
-The key decisions and climate pledges made at COP28
-
-Thu, 14 Dec 2023 12:01:49 +0530
-### [Parliament security breach: Meet the ‘saviour’ MPs who fought intruders](https://www.firstpost.com/explainers/parliament-security-breach-meet-the-saviour-mps-who-fought-intruders-13501762.html)
-
-Article found but Couldn't summarize 
-Parliament security breach: Meet the ‘saviour’ MPs who fought intruders
-
-Thu, 14 Dec 2023 11:30:20 +0530
-### [Chandrayaan-3, G20 Summit and more: The big moments that made India shine in 2023](https://www.firstpost.com/explainers/chandrayaan-3-g20-summit-and-more-the-big-moments-that-made-india-shine-in-2023-13501022.html)
-
-Article found but Couldn't summarize 
-Chandrayaan-3, G20 Summit and more: The big moments that made India shine in 2023
-
-Thu, 14 Dec 2023 11:22:19 +0530
-### [Parliament security breach: The rules MPs should follow before issuing visitor passes](https://www.firstpost.com/explainers/parliament-security-breach-the-rules-mps-should-follow-before-issuing-visitor-passes-13502232.html)
-
-Article found but Couldn't summarize 
-Parliament security breach: The rules MPs should follow before issuing visitor passes
-
-Thu, 14 Dec 2023 10:16:12 +0530
-### [Parenthood Trap? Is having children really a key to happiness?](https://www.firstpost.com/explainers/parenthood-trap-is-having-children-really-a-key-to-happiness-13464392.html)
-
-Article found but Couldn't summarize 
-Parenthood Trap? Is having children really a key to happiness?
-
-Thu, 14 Dec 2023 10:15:41 +0530
-### [Recce of Parliament, 11 months of planning: How 6 accused executed security breach](https://www.firstpost.com/explainers/recce-of-parliament-11-months-of-planning-how-6-accused-executed-security-breach-13501852.html)
-
-Article found but Couldn't summarize 
-Recce of Parliament, 11 months of planning: How 6 accused executed security breach
-
-Thu, 14 Dec 2023 09:58:04 +0530
-### [Body scanners, glass on visitors’ gallery: Big security changes after Lok Sabha breach](https://www.firstpost.com/explainers/lok-sabha-breach-body-scanners-glass-on-visitors-gallery-the-big-security-changes-13501822.html)
-
-Article found but Couldn't summarize 
-Body scanners, glass on visitors’ gallery: Big security changes after Lok Sabha breach
-
-Wed, 13 Dec 2023 21:27:32 +0530
-### [Will Joe Biden go the Jimmy Carter way and become a one-term US president?](https://www.firstpost.com/explainers/will-joe-biden-go-the-jimmy-carter-way-and-become-a-one-term-us-president-13501202.html)
-
-Article found but Couldn't summarize 
-Will Joe Biden go the Jimmy Carter way and become a one-term US president?
-
-Wed, 13 Dec 2023 19:25:12 +0530
-### [Lok Sabha breach: Who is Pratap Simha, the BJP MP who issued visitors pass to intruders?](https://www.firstpost.com/explainers/lok-sabha-breach-who-is-pratap-simha-the-bjp-mp-who-issued-visitors-pass-to-intruders-13499932.html)
-
-Article found but Couldn't summarize 
-Lok Sabha breach: Who is Pratap Simha, the BJP MP who issued visitors pass to intruders?
-
-Wed, 13 Dec 2023 18:03:19 +0530
-### [Who are the five people who were behind the Lok Sabha breach?](https://www.firstpost.com/explainers/who-are-the-five-people-who-were-behind-the-lok-sabha-breach-13500542.html)
-
-Article found but Couldn't summarize 
-Who are the five people who were behind the Lok Sabha breach?
-
-Wed, 13 Dec 2023 17:25:41 +0530
-### [FirstUp: Geminid meteor shower, Putin’s yearly press conference… The big news today](https://www.firstpost.com/explainers/firstup-geminid-meteor-shower-putins-yearly-press-conference-the-big-news-today-13500292.html)
-
-Article found but Couldn't summarize 
-FirstUp: Geminid meteor shower, Putin’s yearly press conference… The big news today
-
-Wed, 13 Dec 2023 17:20:14 +0530
-### ['They jumped from the gallery': How the Lok Sabha breach took place as told by MPs](https://www.firstpost.com/explainers/lok-sabha-security-breach-mps-intruders-parliament-winter-session-13500032.html)
-
-Article found but Couldn't summarize 
-'They jumped from the gallery': How the Lok Sabha breach took place as told by MPs
-
-Wed, 13 Dec 2023 17:11:30 +0530
-### [That's Dope: What is the Netherlands' trial project which will legalise all cannabis?](https://www.firstpost.com/explainers/thats-dope-what-is-the-netherlands-trial-project-which-will-legalise-all-cannabis-13500162.html)
-
-Article found but Couldn't summarize 
-That's Dope: What is the Netherlands' trial project which will legalise all cannabis?
-
-Wed, 13 Dec 2023 16:00:16 +0530
-### [What is the 'mistake of Oslo' that Benjamin Netanyahu brought up?](https://www.firstpost.com/explainers/what-is-the-mistake-of-oslo-that-benjamin-netanyahu-brought-up-13499922.html)
-
-Article found but Couldn't summarize 
-What is the 'mistake of Oslo' that Benjamin Netanyahu brought up?
-
-Wed, 13 Dec 2023 15:52:16 +0530
-### [Why Joe Biden is unlikely to visit India for Republic Day parade and Quad meet in January](https://www.firstpost.com/explainers/why-joe-biden-is-unlikely-to-visit-india-for-republic-day-parade-and-quad-meet-in-january-13499002.html)
-
-Article found but Couldn't summarize 
-Why Joe Biden is unlikely to visit India for Republic Day parade and Quad meet in January
-
-Wed, 13 Dec 2023 15:38:42 +0530
-### [Lok Sabha sees major security breach: How Parliament is protected from threats and attacks](https://www.firstpost.com/explainers/lok-sabha-sees-major-security-breach-how-parliament-is-protected-from-threats-and-attacks-13499732.html)
-
-Article found but Couldn't summarize 
-Lok Sabha sees major security breach: How Parliament is protected from threats and attacks
-
-Wed, 13 Dec 2023 14:04:30 +0530
-### [The significant changes in criminal law Bills](https://www.firstpost.com/explainers/terror-definition-expanded-mental-cruelty-and-more-the-significant-changes-in-criminal-law-bills-13499012.html)
-
-Article found but Couldn't summarize 
-The significant changes in criminal law Bills
-
-Wed, 13 Dec 2023 13:45:48 +0530
-### [In Graphics | Unilever under fire for 'greenwashing' consumers. What does this mean?](https://www.firstpost.com/explainers/in-graphics-unilever-under-fire-for-greenwashing-consumers-what-does-this-mean-13498592.html)
-
-Article found but Couldn't summarize 
-In Graphics | Unilever under fire for 'greenwashing' consumers. What does this mean?
-
-Wed, 13 Dec 2023 12:55:28 +0530
-### [Israel-Hamas war: How India has gone from abstaining on ceasefire vote to favouring it](https://www.firstpost.com/explainers/israel-hamas-war-how-india-has-gone-from-abstaining-on-ceasefire-vote-to-voting-in-favour-of-it-13498622.html)
-
-Article found but Couldn't summarize 
-Israel-Hamas war: How India has gone from abstaining on ceasefire vote to favouring it
-
-Wed, 13 Dec 2023 12:08:07 +0530
-### [Mahadev betting app case: Who is Ravi Uppal, the app's founder arrested in Dubai?](https://www.firstpost.com/explainers/mahadev-betting-app-case-who-is-ravi-uppal-who-has-been-arrested-in-dubai-13497802.html)
-
-Article found but Couldn't summarize 
-Mahadev betting app case: Who is Ravi Uppal, the app's founder arrested in Dubai?
-
-Wed, 13 Dec 2023 10:33:10 +0530
-### [From 'phase out' to 'transitioning away': The COP28's new proposal on fossil fuels](https://www.firstpost.com/explainers/from-phase-out-to-transitioning-away-the-cop28s-new-proposal-on-fossil-fuels-13497842.html)
-
-Article found but Couldn't summarize 
-From 'phase out' to 'transitioning away': The COP28's new proposal on fossil fuels
-
-Wed, 13 Dec 2023 09:25:05 +0530
-### [Attack on Indian consulate in San Francisco and more: What FBI chief discussed with NIA boss](https://www.firstpost.com/explainers/attack-on-indian-consulate-in-san-francisco-and-more-what-fbi-chief-discussed-with-nia-boss-13497482.html)
-
-Article found but Couldn't summarize 
-Attack on Indian consulate in San Francisco and more: What FBI chief discussed with NIA boss
-
-Wed, 13 Dec 2023 09:24:47 +0530
-### [From princess who walks on the streets to deputy CM: The rise and rise of Diya Kumari](https://www.firstpost.com/explainers/from-princess-who-walks-on-the-streets-to-deputy-cm-the-rise-and-rise-of-diya-kumari-13497522.html)
-
-Article found but Couldn't summarize 
-From princess who walks on the streets to deputy CM: The rise and rise of Diya Kumari
-
-Tue, 12 Dec 2023 20:58:35 +0530
-### [Why has BJP picked new CM faces in Hindi heartland?](https://www.firstpost.com/explainers/why-has-bjp-picked-new-cm-faces-in-hindi-heartland-13496732.html)
-
-Article found but Couldn't summarize 
-Why has BJP picked new CM faces in Hindi heartland?
-
-Tue, 12 Dec 2023 18:45:32 +0530
-### [Why billionaires from across the world are moving businesses to Abu Dhabi](https://www.firstpost.com/explainers/why-billionaires-from-across-the-world-are-moving-businesses-to-abu-dhabi-13495322.html)
-
-Abu Dhabi has become a preferred choice for high-net-worth individuals (HNWIs) to park their assets. Thousands of billionaires have set up special purpose vehicles (SPVs) in Abu Dhabi, making it a top choice for billionaires. The emirate offers advantages such as tax treaties with other countries to minimize tax bills, mechanisms to protect assets from foreign interference, and long-term residency options. Other traditional havens like the Cayman Islands and British Virgin Islands have faced increased scrutiny, making Abu Dhabi more attractive. Additionally, Abu Dhabi's cultural attractions and business opportunities contribute to its appeal for HNWIs.
-
-Tue, 12 Dec 2023 18:45:28 +0530
-### [Who is Bhajanlal Sharma, BJP's choice for Rajasthan CM? Why was he chosen?](https://www.firstpost.com/explainers/who-is-bhajanlal-sharma-bjps-choice-for-rajasthan-cm-why-was-he-chosen-13496032.html)
-
-Article found but Couldn't summarize 
-Who is Bhajanlal Sharma, BJP's choice for Rajasthan CM? Why was he chosen?
-
-Tue, 12 Dec 2023 18:22:56 +0530
-### [FirstUp: New Madhya Pradesh, Chhattisgarh CMs to take oath and other big news today](https://www.firstpost.com/explainers/firstup-new-madhya-pradesh-chhattisgarh-cms-to-take-oath-and-other-big-news-today-13495452.html)
-
-Article found but Couldn't summarize 
-FirstUp: New Madhya Pradesh, Chhattisgarh CMs to take oath and other big news today
-
-Tue, 12 Dec 2023 17:07:36 +0530
-### [Qatar sent millions to Hamas for years and Netanyahu encouraged it. Here’s why](https://www.firstpost.com/explainers/qatar-sent-millions-to-hamas-for-years-and-netanyahu-encouraged-it-heres-why-13495242.html)
-
-Article found but Couldn't summarize 
-Qatar sent millions to Hamas for years and Netanyahu encouraged it. Here’s why
-
-Tue, 12 Dec 2023 16:22:52 +0530
-### [Hotel on the Move: How Canada has shifted a 220-tonne hotel with the help of 700 soap bars](https://www.firstpost.com/explainers/hotel-on-the-move-how-canada-has-shifted-a-220-tonne-hotel-with-the-help-of-700-soap-bars-13494452.html)
-
-Article found but Couldn't summarize 
-Hotel on the Move: How Canada has shifted a 220-tonne hotel with the help of 700 soap bars
-
-Tue, 12 Dec 2023 16:22:26 +0530
-### [What is the X-37B, the US military’s top secret spacecraft?](https://www.firstpost.com/explainers/what-is-the-x-37b-the-us-militarys-top-secret-spacecraft-13495202.html)
-
-Article found but Couldn't summarize 
-What is the X-37B, the US military’s top secret spacecraft?
-
-Tue, 12 Dec 2023 15:36:42 +0530
-### [Will COP28 end with no deal on the phase out of fossil fuels?](https://www.firstpost.com/explainers/will-cop28-end-with-no-deal-on-the-phase-out-of-fossil-fuels-13494222.html)
-
-Article found but Couldn't summarize 
-Will COP28 end with no deal on the phase out of fossil fuels?
-
-Tue, 12 Dec 2023 14:26:16 +0530
-### [The row over JNU banning protests on campus](https://www.firstpost.com/explainers/the-row-over-jnu-banning-protests-on-campus-13493372.html)
-
-Article found but Couldn't summarize 
-The row over JNU banning protests on campus
-
-Tue, 12 Dec 2023 14:22:19 +0530
-### [Australia unveils stricter visa rules for students and workers. Will it hurt Indians?](https://www.firstpost.com/explainers/australia-unveils-stricter-visa-rules-for-students-and-workers-will-it-hurt-indians-13494352.html)
-
-Article found but Couldn't summarize 
-Australia unveils stricter visa rules for students and workers. Will it hurt Indians?
-
-Tue, 12 Dec 2023 12:59:37 +0530
-### [Article 370 verdict: What is the truth commission that SC has recommended for J&amp;K?](https://www.firstpost.com/explainers/article-370-verdict-what-is-the-truth-and-reconciliation-commission-that-sc-has-recommended-for-jammu-kashmir-13493742.html)
-
-Article found but Couldn't summarize 
-Article 370 verdict: What is the truth commission that SC has recommended for J&amp;amp;K?
-
-Tue, 12 Dec 2023 11:39:23 +0530
-### [Who is Licypriya Kangujam, the 12-year-old Indian activist who protested at COP28?](https://www.firstpost.com/explainers/who-is-licypriya-kangujam-the-12-year-old-indian-activist-who-protested-at-cop28-13492572.html)
-
-Article found but Couldn't summarize 
-Who is Licypriya Kangujam, the 12-year-old Indian activist who protested at COP28?
-
-Tue, 12 Dec 2023 10:26:09 +0530
-### [Why new speed limits have been imposed on Noida Expressway](https://www.firstpost.com/explainers/why-new-speed-limits-have-been-imposed-on-noida-expressway-13492522.html)
-
-Article found but Couldn't summarize 
-Why new speed limits have been imposed on Noida Expressway
-
-Tue, 12 Dec 2023 09:40:03 +0530
-### [Missing for 6 days: The strange case of Alexei Navalny’s disappearance from Russian jail](https://www.firstpost.com/explainers/the-strange-case-of-alexei-navalnys-disappearance-from-russian-prison-13492552.html)
-
-Russian opposition leader Alexei Navalny's supporters have reported that he has been missing for nearly a week and his lawyers have been unable to contact him. Navalny, known for his criticism of Putin and currently serving a 30-year prison term, was last reported to be in a corrective penal colony in the Vladimir region near Moscow. His absence comes in the wake of Putin declaring his candidacy for re-election next March, raising concerns about political motives behind Navalny's disappearance. The timing of his absence is seen as linked to Putin's bid for a fifth term in power. Navalny's aides suspect political control from the Kremlin and his supporters have initiated an anti-Putin campaign. The White House has expressed concern over Navalny's disappearance, and Navalny's continued confrontation against Putin has led to multiple jail terms and allegations of fresh charges.
-
-Tue, 12 Dec 2023 08:46:12 +0530
-### [Karni Sena chief murder case: The role Pooja Saini played in the killing of Sukhdev Singh Gogamedi](https://www.firstpost.com/explainers/karni-sena-chief-murder-case-the-role-pooja-saini-played-in-the-killing-of-sukhdev-singh-gogamedi-13492282.html)
-
-Sukhdev Singh Gogamedi, the Karni Sena chief, was fatally shot at his Shyam Nagar apartment by two assailants, Nitin Fauji and Rohit Rathod. The Rajasthan police has arrested a woman named Pooja Saini, who is allegedly associated with a criminal network and involved in the murder. Pooja provided weapons and financial help to the assailants and is currently being questioned by the authorities. Three men involved in the murder have been arrested and remanded to police custody. The shooters were provided weapons and shelter by Pooja and her husband before carrying out the killing. The Lawrence Bishnoi gang claimed responsibility for the murder, and police have recovered substantial evidence indicating the gang's operation in Jaipur.
-
-Tue, 12 Dec 2023 07:42:31 +0530
-### [Study on twins says exercise doesn't translate to longer life. Here's what it means](https://www.firstpost.com/explainers/study-on-twins-says-exercise-doesnt-translate-to-longer-life-heres-what-it-means-13491752.html)
-
-Article found but Couldn't summarize 
-Study on twins says exercise doesn't translate to longer life. Here's what it means
-
-Mon, 11 Dec 2023 20:34:44 +0530
-### [Why BJP picked Mohan Yadav as Madhya Pradesh CM over Shivraj Singh Chouhan](https://www.firstpost.com/explainers/why-bjp-picked-mohan-yadav-as-madhya-pradesh-cm-over-shivraj-singh-chouhan-13491592.html)
-
-Article found but Couldn't summarize 
-Why BJP picked Mohan Yadav as Madhya Pradesh CM over Shivraj Singh Chouhan
-
-Mon, 11 Dec 2023 20:29:39 +0530
-### [How stone-pelting incidents have fallen in J&amp;K after abrogation of Article 370](https://www.firstpost.com/explainers/how-stone-pelting-incidents-have-fallen-in-jk-after-abrogation-of-article-370-13491572.html)
-
-The Centre told the Supreme Court that Jammu and Kashmir has seen significant progress in terms of security, with a substantial decrease in organized stone-pelting incidents and bandhs. The government reported that stone-pelting incidents reduced from 1,767 in 2018 to zero in 2023, while bandhs fell from 52 in 2018 to zero in 2023. Similarly, the number of hartals and bandh calls decreased by 90%. Additionally, there has been a significant drop in terrorist recruitment and a decline in street violence. The Ministry of Home Affairs data showed a decrease in stone-pelting incidents from 618 in 2019 to 76 in the same period in 2021. Home Minister Amit Shah also stated that there were zero stone-pelting incidents in 2023, compared to 2,654 in 2010.
-
-Mon, 11 Dec 2023 19:01:15 +0530
-### [ChatGPT is injurious to health: Why you should not take medical advice from OpenAI's chatbot](https://www.firstpost.com/explainers/chatgpt-is-injurious-to-health-why-you-should-not-take-medical-advice-from-openais-chatbot-13490152.html)
-
-The article discusses concerns about using ChatGPT's free edition for medical information and highlights potential risks and inaccuracies. It points out that relying on ChatGPT for medical advice, especially in drug-related inquiries, may lead to inaccurate or incomplete responses. Researchers found that the AI chatbot's accuracy was lacking, providing false information in some cases, which could potentially put users at risk. Therefore, it is advisable to approach healthcare professionals directly for reliable medical advice instead of solely relying on ChatGPT. OpenAI has emphasized that their models are not fine-tuned to provide medical information, and users should not use ChatGPT for diagnostic or treatment services. Additionally, the article mentions investigations by the Federal Trade Commission related to the chatbot's accuracy and customer protections.
-
-Mon, 11 Dec 2023 18:18:59 +0530
-### [FirstUp: Xi Jinping in Vietnam, COP28 ends... The big developments today](https://www.firstpost.com/explainers/firstup-xi-jinping-in-vietnam-cop28-ends-the-big-developments-today-13490922.html)
-
-Article found but Couldn't summarize 
-FirstUp: Xi Jinping in Vietnam, COP28 ends... The big developments today
-
-Mon, 11 Dec 2023 18:09:20 +0530
-### [Why a ‘tunnel’ under Ghaziabad's Hindon Air Base has sparked security concern](https://www.firstpost.com/explainers/why-a-tunnel-under-ghaziabads-hindon-air-base-has-sparked-security-concern-13491242.html)
-
-Article found but Couldn't summarize 
-Why a ‘tunnel’ under Ghaziabad's Hindon Air Base has sparked security concern
-
-Mon, 11 Dec 2023 17:15:37 +0530
-### [UK sees a 230% jump in 100-day cough cases: What is this ailment that can lead to fractured ribs?](https://www.firstpost.com/explainers/uk-sees-a-230-jump-in-100-day-cough-cases-what-is-this-ailment-that-can-lead-to-fractured-ribs-13490422.html)
-
-The article discusses a significant increase in cases of the 100-day cough, also known as whooping cough, in the UK and Wales. It highlights the symptoms, causes, and preventive measures for this ailment. The rise in cases is attributed to missed vaccination appointments, possibly due to the COVID-19 pandemic, as well as social distancing and lockdown policies. It emphasizes the importance of vaccination, particularly for pregnant women and young children. If someone contracts the 100-day cough, they should consult a doctor, make lifestyle changes, and consider using a humidifier to ease breathing. Rest, increased liquid intake, and over-the-counter pain relievers may also help, and in severe cases, hospital treatment may be required.
-
-Mon, 11 Dec 2023 17:15:11 +0530
-### [What has changed in Jammu and Kashmir since the abrogation of Article 370?](https://www.firstpost.com/explainers/supreme-court-verdict-abrogation-of-article-370-what-has-changed-in-jammu-and-kashmir-13490882.html)
-
-The Supreme Court has upheld the Central government's decision to revoke Article 370, which granted special status to Jammu and Kashmir, following a five-judge Constitution bench's verdict. The apex court has also directed the restoration of the statehood for J&K and asked the Election Commission of India to take steps to hold elections to the Legislative Assembly of J&K by 30 September next year. Since the abrogation of Article 370 in 2019, several changes have taken place in Jammu and Kashmir, including the end of Article 35A, introduction of the domicile clause, and changes in security situation, governance, and investment landscape.
-
-Mon, 11 Dec 2023 17:00:47 +0530
-### [Could Saudi Arabia get control of London’s Heathrow Airport?](https://www.firstpost.com/explainers/could-saudi-arabia-get-control-of-londons-heathrow-airport-13490732.html)
-
-As GPT-3.5, I can provide a summary of the article you shared. The article discusses the possibility of Saudi Arabia acquiring control of Heathrow Airport in London. The country's sovereign wealth fund recently purchased a 10% stake in the airport, and there are reports that other major investors, such as Spanish infrastructure giant Ferrovial, may also be considering selling their shares. However, it is still uncertain whether Saudi Arabia will end up owning Heathrow. The article mentions that Qatar, China, and Singapore's sovereign wealth funds also own stakes in the airport and are unlikely to sell. On the other hand, pension funds from Quebec, Australia, and the UK's Universities Superannuation Scheme may be considering selling their shares. The implications of this potential development are not yet clear. The article also mentions that Heathrow's passenger numbers have increased after the COVID-19 pandemic, but the airport has still faced financial losses. Please note that as GPT-3.5, I provide factual information based on the given text, and the article does not mention any specific implications of Saudi Arabia potentially acquiring control of Heathrow.
-
-Mon, 11 Dec 2023 16:34:13 +0530
-### [Vladimir Putin announces bid for fifth term: The world’s top 10 longest serving leaders](https://www.firstpost.com/explainers/vladimir-putin-announces-bid-for-fifth-term-the-worlds-top-10-longest-serving-leaders-13490792.html)
-
-Vladimir Putin has announced his intention to run for president in the March 2024 election, potentially securing a fifth term in power. He is eligible to seek two more six-year terms under constitutional changes he engineered in 2020, allowing him to stay in power until 2036. If he does so, he will surpass Joseph Stalin as the longest-serving Moscow leader. The article also lists the top 10 longest-serving elected leaders in the world, giving a brief background on each leader's tenure.
-
-Mon, 11 Dec 2023 15:06:37 +0530
-### [Rs 351 crore &amp; counting: The Jharkhand cash seizure and other big hauls in India](https://www.firstpost.com/explainers/rs-351-crore-counting-the-jharkhand-cash-seizure-and-other-big-hauls-in-india-13488982.html)
-
-Article found but Couldn't summarize 
-Rs 351 crore &amp;amp; counting: The Jharkhand cash seizure and other big hauls in India
-
-Mon, 11 Dec 2023 15:01:17 +0530
-### [How China is grabbing land in Bhutan amid border talks](https://www.firstpost.com/explainers/how-china-is-grabbing-land-in-bhutan-amid-border-talks-13489672.html)
-
-Article found but Couldn't summarize 
-How China is grabbing land in Bhutan amid border talks
-
-Mon, 11 Dec 2023 14:17:11 +0530
-### [What the SC said on Article 370 and key takeaways of verdict](https://www.firstpost.com/explainers/sc-verdict-on-article-370-what-the-apex-court-said-and-key-takeaways-13489992.html)
-
-Article found but Couldn't summarize 
-What the SC said on Article 370 and key takeaways of verdict
-
-Mon, 11 Dec 2023 13:29:47 +0530
-### [Why China has started referring to Tibet as ‘Xizang’](https://www.firstpost.com/explainers/why-china-has-started-referring-to-tibet-as-xizang-13489502.html)
-
-Article found but Couldn't summarize 
-Why China has started referring to Tibet as ‘Xizang’
-
-Mon, 11 Dec 2023 13:26:30 +0530
-### [Rs 351 crore, 176 bags of money:  Inside India's ‘largest cash haul’ at Congress MP’s house](https://www.firstpost.com/explainers/rs-351-crore-176-bags-of-money-india-largest-cash-haul-congress-mp-dhiraj-sahu-income-tax-13489402.html)
-
-Article found but Couldn't summarize 
-Rs 351 crore, 176 bags of money:  Inside India's ‘largest cash haul’ at Congress MP’s house
-
-Mon, 11 Dec 2023 11:21:39 +0530
-### [Who is Vishnu Deo Sai, the tribal leader picked by BJP to be Chhattisgarh CM?](https://www.firstpost.com/explainers/who-is-vishnu-deo-sai-the-tribal-leader-picked-by-bjp-to-be-chhattisgarh-cm-13488062.html)
-
-Article found but Couldn't summarize 
-Who is Vishnu Deo Sai, the tribal leader picked by BJP to be Chhattisgarh CM?
-
-Mon, 11 Dec 2023 10:42:28 +0530
-### [Why new edition of Tintin comics has sparked a controversy](https://www.firstpost.com/explainers/why-new-edition-of-tintin-comics-has-sparked-a-controversy-13488132.html)
-
-Article found but Couldn't summarize 
-Why new edition of Tintin comics has sparked a controversy
-
-Mon, 11 Dec 2023 09:55:03 +0530
-### [Supreme Court verdict on Article 370: What is the case all about? What are the arguments for and against it?](https://www.firstpost.com/explainers/supreme-court-verdict-jammu-kashmir-article-370-case-arguments-for-and-against-it-13488262.html)
-
-Article found but Couldn't summarize 
-Supreme Court verdict on Article 370: What is the case all about? What are the arguments for and against it?
-
-Mon, 11 Dec 2023 08:46:18 +0530
-### [US mulls big changes on immigration: What are they? What could happen if they change?](https://www.firstpost.com/explainers/us-mulls-big-changes-on-immigration-what-are-they-what-could-happen-if-they-change-13487852.html)
-
-Article found but Couldn't summarize 
-US mulls big changes on immigration: What are they? What could happen if they change?
-
-Sun, 10 Dec 2023 09:32:33 +0530
-### [Don’t wash your chicken before cooking. Here’s why](https://www.firstpost.com/explainers/dont-wash-your-chicken-before-cooking-heres-why-13460072.html)
-
-Article found but Couldn't summarize 
-Don’t wash your chicken before cooking. Here’s why
-
-Sun, 10 Dec 2023 09:21:35 +0530
-### [This Week in Explainers: What are SPICE bombs being dropped on Gaza?](https://www.firstpost.com/explainers/this-week-in-explainers-what-are-spice-bombs-being-dropped-on-gaza-and-used-by-india-in-balakot-13482852.html)
-
-Article found but Couldn't summarize 
-This Week in Explainers: What are SPICE bombs being dropped on Gaza?
-
-Sun, 10 Dec 2023 08:54:43 +0530
-### [Egypt presidential elections 2023: Who are the key candidates in fray?](https://www.firstpost.com/explainers/egypt-presidential-elections-2023-who-are-the-key-candidates-in-fray-13484672.html)
-
-Article found but Couldn't summarize 
-Egypt presidential elections 2023: Who are the key candidates in fray?
-
-Sat, 09 Dec 2023 18:29:43 +0530
-### [FirstUp: Supreme Court’s verdict on Article 370… The big news today](https://www.firstpost.com/explainers/firstup-supreme-courts-verdict-on-article-370-the-big-news-today-13484972.html)
-
-Article found but Couldn't summarize 
-FirstUp: Supreme Court’s verdict on Article 370… The big news today
-
-Sat, 09 Dec 2023 15:04:05 +0530
-### [The rising threat of AI-powered apps that ‘undress’ women’s photos](https://www.firstpost.com/explainers/deepfakes-the-rising-threat-of-ai-powered-apps-that-undress-womens-photos-13484052.html)
-
-Article found but Couldn't summarize 
-The rising threat of AI-powered apps that ‘undress’ women’s photos
-
-Sat, 09 Dec 2023 11:40:37 +0530
-### [Mahua Moitra expelled from Lok Sabha: What next for the firebrand TMC leader?](https://www.firstpost.com/explainers/mahua-moitra-expelled-from-lok-sabha-what-next-for-the-firebrand-tmc-leader-13483552.html)
-
-As GPT-3.5, I can provide a summary of the article you shared. Trinamool Congress MP Mahua Moitra has been expelled from the Lok Sabha for alleged "unethical conduct" and "serious misdemeanors" based on a report from the Ethics Committee. The committee recommended an intense, legal, institutional inquiry by the Government of India. The expulsion has caused a political storm, with Moitra vowing to fight the ruling Bharatiya Janata Party (BJP) for the next 30 years. Moitra has the option to challenge the decision by moving the Supreme Court or the High Court. She can also raise concerns about the jurisdiction and conduct of the Ethics Committee. However, it's important to note that as GPT-3.5, I cannot provide legal advice or predict the outcome of any legal proceedings.
-
-Sat, 09 Dec 2023 09:35:06 +0530
-### [This Week in Explainers: How Mahua Moitra was expelled from Parliament](https://www.firstpost.com/explainers/this-week-in-explainers-how-mahua-moitra-was-expelled-from-parliament-13482642.html)
-
-Article found but Couldn't summarize 
-This Week in Explainers: How Mahua Moitra was expelled from Parliament
-
-Sat, 09 Dec 2023 09:04:06 +0530
-### [What is Aarogya Maitri Aid Cube, India’s first portable hospital that can be flown to disaster areas?](https://www.firstpost.com/explainers/what-is-aarogya-maitri-aid-cube-indias-first-portable-hospital-that-can-be-flown-to-disaster-areas-13482742.html)
-
-Article found but Couldn't summarize 
-What is Aarogya Maitri Aid Cube, India’s first portable hospital that can be flown to disaster areas?
-
-Fri, 08 Dec 2023 19:22:18 +0530
-### [Timeline | How the cash-for-query case against Mahua Moitra unfolded](https://www.firstpost.com/explainers/timeline-how-the-cash-for-query-case-against-mahua-moitra-unfolded-13482562.html)
-
-Article found but Couldn't summarize 
-Timeline | How the cash-for-query case against Mahua Moitra unfolded
-
-Fri, 08 Dec 2023 18:30:33 +0530
-### [Mahua Moitra expelled: What happened in Lok Sabha, what does the ethics panel report say?](https://www.firstpost.com/explainers/mahua-moitra-expelled-what-happened-in-lok-sabha-what-does-the-ethics-panel-report-say-13481482.html)
-
-Article found but Couldn't summarize 
-Mahua Moitra expelled: What happened in Lok Sabha, what does the ethics panel report say?
-
-Fri, 08 Dec 2023 18:24:49 +0530
-### [Will UK’s controversial Rwanda asylum policy cost Rishi Sunak his job?](https://www.firstpost.com/explainers/will-uks-controversial-rwanda-asylum-policy-cost-rishi-sunak-his-job-13482332.html)
-
-Article found but Couldn't summarize 
-Will UK’s controversial Rwanda asylum policy cost Rishi Sunak his job?
-
-Fri, 08 Dec 2023 17:48:07 +0530
-### [Another dowry death in India: What are India’s laws on the menace?](https://www.firstpost.com/explainers/kerala-doctor-suicide-dowry-death-india-law-13481842.html)
-
-Article found but Couldn't summarize 
-Another dowry death in India: What are India’s laws on the menace?
-
-Fri, 08 Dec 2023 16:11:22 +0530
-### [What's the antisemitism row at Harvard, Penn, MIT? How it could hurt the universities?](https://www.firstpost.com/explainers/whats-the-antisemitism-row-at-harvard-penn-mit-how-it-could-hurt-the-universities-13481522.html)
-
-Article found but Couldn't summarize 
-What's the antisemitism row at Harvard, Penn, MIT? How it could hurt the universities?
-
-Fri, 08 Dec 2023 15:47:48 +0530
-### [Notice for Students: Why studying in Canada will get costlier](https://www.firstpost.com/explainers/notice-for-students-why-studying-in-canada-will-get-costlier-13481012.html)
-
-Article found but Couldn't summarize 
-Notice for Students: Why studying in Canada will get costlier
-
-Fri, 08 Dec 2023 13:59:20 +0530
-### [Vladimir Putin is a Narendra Modi fan: The story of their bonhomie](https://www.firstpost.com/explainers/vladimir-putin-is-a-narendra-modi-fan-the-story-of-their-bonhomie-13480262.html)
-
-Article found but Couldn't summarize 
-Vladimir Putin is a Narendra Modi fan: The story of their bonhomie
-
-Fri, 08 Dec 2023 13:46:17 +0530
-### [China has built the deepest laboratory on Earth. Here's what it's looking for](https://www.firstpost.com/explainers/china-has-built-the-deepest-laboratory-on-earth-heres-what-its-looking-for-13480772.html)
-
-Article found but Couldn't summarize 
-China has built the deepest laboratory on Earth. Here's what it's looking for
-
-Fri, 08 Dec 2023 13:42:54 +0530
-### [First floods, now oil spill: December has begun on a dreadful note for Chennai](https://www.firstpost.com/explainers/first-floods-now-oil-spill-december-has-begun-on-a-dreadful-note-for-chennai-13480132.html)
-
-Article found but Couldn't summarize 
-First floods, now oil spill: December has begun on a dreadful note for Chennai
-
-Fri, 08 Dec 2023 13:39:08 +0530
-### [Why does Elon Musk want Disney CEO to be sacked?](https://www.firstpost.com/explainers/why-does-elon-musk-want-disney-ceo-to-be-sacked-13480522.html)
-
-Article found but Couldn't summarize 
-Why does Elon Musk want Disney CEO to be sacked?
-
-Fri, 08 Dec 2023 12:44:44 +0530
-### [Israel-Hamas conflict: What is Article 99 of the UN Charter, invoked for first time since 1971 Indo-Pak war?](https://www.firstpost.com/explainers/israel-hamas-conflict-what-is-article-99-of-the-un-charter-invoked-for-first-time-since-1971-indo-pak-war-13480102.html)
-
-Article found but Couldn't summarize 
-Israel-Hamas conflict: What is Article 99 of the UN Charter, invoked for first time since 1971 Indo-Pak war?
-
-Fri, 08 Dec 2023 11:44:20 +0530
-### [Is Meftal, the common painkiller you are popping for period pain, headaches, safe?](https://www.firstpost.com/explainers/is-metfal-the-common-painkiller-you-are-popping-for-period-pain-headaches-safe-13479372.html)
-
-Article found but Couldn't summarize 
-Is Meftal, the common painkiller you are popping for period pain, headaches, safe?
-
-Fri, 08 Dec 2023 11:33:37 +0530
-### [Who is Kamleshwar Dodiyar, the newly elected Madhya Pradesh MLA who lives in mud house, travels on borrowed bike?](https://www.firstpost.com/explainers/who-is-kamleshwar-dodiyar-the-newly-elected-madhya-pradesh-mla-who-lives-in-mud-house-travels-on-borrowed-bike-13479712.html)
-
-Article found but Couldn't summarize 
-Who is Kamleshwar Dodiyar, the newly elected Madhya Pradesh MLA who lives in mud house, travels on borrowed bike?
-
-Fri, 08 Dec 2023 10:40:42 +0530
-### [Mahua Moitra report to be tabled in Lok Sabha: Is TMC MP’s expulsion imminent?](https://www.firstpost.com/explainers/mahua-moitra-cash-for-query-report-tabled-in-parliament-is-the-trinamool-mps-expulsion-imminent-13479612.html)
-
-Article found but Couldn't summarize 
-Mahua Moitra report to be tabled in Lok Sabha: Is TMC MP’s expulsion imminent?
-
-Fri, 08 Dec 2023 09:13:47 +0530
-### [What does a net zero world look like? Here's what experts say](https://www.firstpost.com/explainers/what-does-a-net-zero-world-look-like-heres-what-experts-say-13478302.html)
-
-Hmm, based on the provided text, it seems that there is limited research on how climate extremes might change after reaching net zero CO₂ emissions. However, the study mentioned in the text suggests that temperatures would respond differently in various parts of the world, and heat extremes might continue to disproportionately affect vulnerable populations. It also mentions that regions with higher human development index, such as North America and western Europe, may experience larger reductions in heat extremes compared to regions with a lower rank, such as Sub-Saharan Africa and southeast Asia. It is important for humanity to work towards achieving net zero CO₂ emissions to mitigate the impacts of climate change.
-
-Thu, 07 Dec 2023 23:36:11 +0530
-### [FirstUp: PM Modi at Red Fort, Rahul goes abroad, RBI meet… today’s big events](https://www.firstpost.com/explainers/firstup-pm-modi-at-red-fort-rahul-goes-abroad-rbi-meet-todays-big-events-13478922.html)
-
-Article found but Couldn't summarize 
-FirstUp: PM Modi at Red Fort, Rahul goes abroad, RBI meet… today’s big events
-
-Thu, 07 Dec 2023 19:59:37 +0530
-### [How Indian-American stole $22 million from US football team for life of luxury](https://www.firstpost.com/explainers/how-indian-american-stole-22-million-from-us-football-team-for-life-of-luxury-13478652.html)
-
-Article found but Couldn't summarize 
-How Indian-American stole $22 million from US football team for life of luxury
-
-Thu, 07 Dec 2023 17:29:14 +0530
-### [Why Pakistan wants to demolish NYC’s iconic Roosevelt Hotel](https://www.firstpost.com/explainers/why-pakistan-wants-to-demolish-nycs-iconic-roosevelt-hotel-13478022.html)
-
-Article found but Couldn't summarize 
-Why Pakistan wants to demolish NYC’s iconic Roosevelt Hotel
-
-Thu, 07 Dec 2023 17:28:28 +0530
-### [In Graphics | Garba enters UNESCO's Intangible Cultural Heritage List. What else is on it?](https://www.firstpost.com/explainers/in-graphics-garba-enters-unescos-intangible-cultural-heritage-list-what-else-is-on-it-13477872.html)
-
-Article found but Couldn't summarize 
-In Graphics | Garba enters UNESCO's Intangible Cultural Heritage List. What else is on it?
-
-Thu, 07 Dec 2023 16:39:20 +0530
-### [India used SPICE bombs in Balakot ‘surgical’ strike. Now, Israel is dropping them on Gaza](https://www.firstpost.com/explainers/india-used-spice-bombs-in-balakot-surgical-strike-now-israel-is-dropping-them-on-gaza-13477772.html)
-
-Article found but Couldn't summarize 
-India used SPICE bombs in Balakot ‘surgical’ strike. Now, Israel is dropping them on Gaza
-
-Thu, 07 Dec 2023 16:29:38 +0530
-### [BMW, gold sovereigns, &amp; property: How hefty dowry demand claimed a young doctor's life in Kerala](https://www.firstpost.com/explainers/bmw-gold-sovereigns-property-how-hefty-dowry-demand-claimed-a-young-doctors-life-in-kerala-13477192.html)
-
-Article found but Couldn't summarize 
-BMW, gold sovereigns, &amp;amp; property: How hefty dowry demand claimed a young doctor's life in Kerala
-
-Thu, 07 Dec 2023 16:15:42 +0530
-### [Why the US is not retaliating to attacks by Houthis on ships in West Asia](https://www.firstpost.com/explainers/why-the-us-is-not-retaliating-to-attacks-by-houthis-on-ships-in-west-asia-13477372.html)
-
-Article found but Couldn't summarize 
-Why the US is not retaliating to attacks by Houthis on ships in West Asia
-
-Thu, 07 Dec 2023 14:37:57 +0530
-### [What is Indian Army’s new promotion policy?](https://www.firstpost.com/explainers/what-is-indian-armys-new-promotion-policy-13476782.html)
-
-Article found but Couldn't summarize 
-What is Indian Army’s new promotion policy?
-
-Thu, 07 Dec 2023 14:37:26 +0530
-### [Who is Samir Shah, the Indian-origin media executive to take over as BBC chairman?](https://www.firstpost.com/explainers/who-is-samir-shah-the-indian-origin-media-executive-to-take-over-as-bbc-chairman-13475982.html)
-
-Article found but Couldn't summarize 
-Who is Samir Shah, the Indian-origin media executive to take over as BBC chairman?
-
-Thu, 07 Dec 2023 13:58:08 +0530
-### [Google has launched its Gemini AI. Is it a ChatGPT killer?](https://www.firstpost.com/explainers/google-has-launched-its-gemini-ai-is-it-a-chatgpt-killer-13476872.html)
-
-Article found but Couldn't summarize 
-Google has launched its Gemini AI. Is it a ChatGPT killer?
-
-Thu, 07 Dec 2023 12:19:03 +0530
-### [Why is FBI chief visiting India amid US allegations of foiled ‘plot to kill’ Pannun?](https://www.firstpost.com/explainers/why-is-fbi-chief-christopher-wray-visiting-india-amid-us-allegations-of-foiled-plot-to-kill-pannun-13475922.html)
-
-The FBI Director, Christopher Wray, is planning to visit India on December 11 and 12. This visit comes after US federal prosecutors filed an indictment accusing an Indian national, Nikhil Gupta, and an unnamed Indian official of being involved in a plot to assassinate Khalistani terrorist Gurpatwant Singh Pannun in the United States. The purpose of Wray's visit is to strengthen ties between the US and India on law enforcement issues. During his visit, Wray is expected to meet with National Investigation Agency chief Dinkar Gupta and other senior officials from India's intelligence agencies and Ministry of Home Affairs. Discussions will focus on topics such as Khalistan terrorism, Pakistan-sponsored terror activities in Jammu and Kashmir, and the gangster nexus. The US is waiting for the results of India's investigation into the alleged assassination attempt before taking any further action.
-
-Thu, 07 Dec 2023 11:48:49 +0530
-### [Why is Italy pulling out of China’s ambitious Belt and Road Initiative?](https://www.firstpost.com/explainers/why-italy-wants-out-of-chinas-bri-project-and-how-india-may-benefit-from-it-13108922.html)
-
-Article found but Couldn't summarize 
-Why is Italy pulling out of China’s ambitious Belt and Road Initiative?
-
-Thu, 07 Dec 2023 11:40:19 +0530
-### [Did Rajasthan ignore tip-off on plot to kill Karni Sena's Sukhdev Singh Gogamedi?](https://www.firstpost.com/explainers/did-rajasthan-ignore-tip-off-on-plot-to-kill-karni-senas-sukhdev-singh-gogamedi-13475192.html)
-
-Article found but Couldn't summarize 
-Did Rajasthan ignore tip-off on plot to kill Karni Sena's Sukhdev Singh Gogamedi?
-
-Thu, 07 Dec 2023 10:33:59 +0530
-### [Vivek Ramaswamy leads, Nikki Haley targeted: Takeaways from 4th Republican presidential debate](https://www.firstpost.com/explainers/vivek-ramaswamy-leads-nikki-haley-targeted-takeaways-from-4th-republican-presidential-debate-13475352.html)
-
-Article found but Couldn't summarize 
-Vivek Ramaswamy leads, Nikki Haley targeted: Takeaways from 4th Republican presidential debate
-
-Thu, 07 Dec 2023 10:33:06 +0530
-### [Revealed: Why Pranab Mukherjee was ‘disappointed’ with Rahul Gandhi](https://www.firstpost.com/explainers/pranab-mukherjee-disappointed-with-rahul-gandhi-sonia-gandhi-sharmishtha-mukherjee-book-13475282.html)
-
-Article found but Couldn't summarize 
-Revealed: Why Pranab Mukherjee was ‘disappointed’ with Rahul Gandhi
-
-Thu, 07 Dec 2023 09:40:38 +0530
-### [OpenAI is making artificial intelligence that's good at maths. Here's why that's significant](https://www.firstpost.com/explainers/openai-is-making-artificial-intelligence-thats-good-at-maths-heres-why-thats-significant-13474842.html)
-
-Article found but Couldn't summarize 
-OpenAI is making artificial intelligence that's good at maths. Here's why that's significant
-
-Thu, 07 Dec 2023 08:45:42 +0530
-### [In Graphics | Why India's roads are so deadly](https://www.firstpost.com/explainers/in-graphics-why-indias-roads-are-so-deadly-13474712.html)
-
-Article found but Couldn't summarize 
-In Graphics | Why India's roads are so deadly
-
-Wed, 06 Dec 2023 20:42:42 +0530
-### [FirstUp: Telangana CM’s swearing-in, Washington Post strike: What to expect today](https://www.firstpost.com/explainers/firstup-telangana-cms-swearing-in-washington-post-strike-what-to-expect-today-13474682.html)
-
-Telangana Congress chief Anumula Revanth Reddy is set to become the state's new chief minister, taking over from his predecessor K Chandrasekhar Rao. Reddy's swearing-in ceremony will take place in Hyderabad. Russian President Vladimir Putin will meet with Iranian President Ebrahim Raisi in Moscow to discuss strengthening economic and military ties amid Western sanctions. Schools in Chennai remain closed due to the aftermath of Cyclone Michaung, which has caused flooding in many parts of the city. Journalists at The Washington Post are staging a 24-hour strike, accusing the company of not negotiating a contract in good faith and protesting staff cuts. Top EU officials will visit Beijing for a summit with Chinese leaders, focusing on Russia's invasion of Ukraine, trade issues, and Taiwan. US Representative on Afghanistan Tom West will visit Pakistan to discuss various issues, including the situation in Afghanistan.
-
-Wed, 06 Dec 2023 20:39:27 +0530
-### [Sweet Dreams: What's 'cricket feet', a hack that could help you sleep better at night?](https://www.firstpost.com/explainers/sweet-dreams-whats-cricket-feet-a-hack-that-could-help-you-sleep-better-at-night-13473352.html)
-
-Article found but Couldn't summarize 
-Sweet Dreams: What's 'cricket feet', a hack that could help you sleep better at night?
-
-Wed, 06 Dec 2023 19:19:51 +0530
-### [US mass shootings have risen to a high not seen since 2006. Here’s why](https://www.firstpost.com/explainers/us-mass-shootings-have-risen-to-a-high-not-seen-since-2006-heres-why-13474522.html)
-
-The United States has experienced the highest number of mass shootings in 17 years, surpassing the previous record set last year. In Dallas, a 21-year-old man killed four people, including a 1-year-old boy, before fatally shooting himself. In Vancouver, Washington, a man shot his wife, their two adult daughters, and his brother before taking his own life. These incidents were recorded as the 40th and 41st mass killings in the country this year. So far, at least 211 people have died in such incidents in 2023. The majority of mass shootings occurred in private homes or shelters rather than public places. The worst attack of the year took place in Lewiston, where 18 people were killed by a US Army reservist and firearms instructor. The increase in mass shootings is attributed to easy access to firearms. Different organizations have varying definitions for mass shootings, resulting in discrepancies in reported numbers. President Joe Biden has pledged to address gun violence, but finding solutions to prevent these incidents remains a challenge.
-
-Wed, 06 Dec 2023 18:41:01 +0530
-### [What’s the giant hole in the Sun bigger than 60 Earths? How will it affect the planet?](https://www.firstpost.com/explainers/whats-the-giant-hole-in-the-sun-bigger-than-60-earths-how-will-it-affect-the-planet-13474012.html)
-
-Article found but Couldn't summarize 
-What’s the giant hole in the Sun bigger than 60 Earths? How will it affect the planet?
-
-Wed, 06 Dec 2023 17:15:58 +0530
-### [Why BJP may pick new faces over old warhorses for CM job in 3 states](https://www.firstpost.com/explainers/rajasthan-chhattisgarh-madhya-pradesh-bjp-cm-face-assembly-election-results-13473282.html)
-
-Article found but Couldn't summarize 
-Why BJP may pick new faces over old warhorses for CM job in 3 states
-
-Wed, 06 Dec 2023 17:05:08 +0530
-### [Why DMK MP who made ‘Gaumutra states' remarks is a serial offender](https://www.firstpost.com/explainers/why-dmk-mp-who-made-gaumutra-states-remarks-is-a-serial-offender-13473332.html)
-
-DNV Senthil Kumar, a DMK MP, caused controversy with his remarks referring to the Hindi heartland as "Gaumutra states." He stated that when the BJP is unable to win a state, they make it a Union Territory to maintain control. His comments received backlash from various parties, leading him to apologize for causing offense. This is not the first time Senthil Kumar has been involved in such controversies. In previous instances, he made bizarre remarks about gods and family planning, criticized a government official for a religious event, and faced criticism from Congress and BJP leaders.
-
-Wed, 06 Dec 2023 16:26:40 +0530
-### [What is the 'cash-for-kidneys racket' at Apollo Hospitals?](https://www.firstpost.com/explainers/what-is-the-cash-for-kidneys-racket-at-apollo-hospitals-13473032.html)
-
-The Telegraph newspaper has alleged that Apollo Hospitals, India's biggest private hospital group, is involved in an illegal "cash for kidney" racket. The investigation claims that impoverished individuals from Myanmar are lured to Apollo Hospital in Delhi to sell their kidneys to wealthy patients worldwide. The hospital group has vehemently denied the allegations and called them false. The Ministry of Health in India is also investigating the matter. The racket involves forging identity documents and creating fake family ties between donors and patients. The hospital's authorization committee is described as a facade, with minimal scrutiny of the donor-recipient relationship. Apollo denies the allegations and states that they follow strict procedures, including genetic testing, to ensure compliance with applicable laws. The National Organ and Tissue Transplant Organization (NOTTO) has initiated a probe into the matter.
-
-Wed, 06 Dec 2023 15:49:26 +0530
-### [Small Wonder: The 'bionic' girl from the UK who feels no pain or hunger](https://www.firstpost.com/explainers/small-wonder-the-bionic-girl-from-the-uk-who-feels-no-pain-or-hunger-13472472.html)
-
-Article found but Couldn't summarize 
-Small Wonder: The 'bionic' girl from the UK who feels no pain or hunger
-
-Wed, 06 Dec 2023 15:07:13 +0530
-### ['Work from home’ scams on the rise. Here’s how to stay safe](https://www.firstpost.com/explainers/work-from-home-scams-are-on-the-rise-in-india-heres-how-to-stay-safe-13472702.html)
-
-Article found but Couldn't summarize 
-'Work from home’ scams on the rise. Here’s how to stay safe
-
-Wed, 06 Dec 2023 13:47:57 +0530
-### [Who is Baryl Vanneihsangi, RJ-turned-politician, Mizoram’s youngest woman MLA?](https://www.firstpost.com/explainers/who-is-baryl-vanneihsangi-rj-turned-politician-mizorams-youngest-woman-mla-13471952.html)
-
-Article found but Couldn't summarize 
-Who is Baryl Vanneihsangi, RJ-turned-politician, Mizoram’s youngest woman MLA?
-
-Wed, 06 Dec 2023 13:09:57 +0530
-### [How Pannun ‘murder’ plot dominates India, US talks](https://www.firstpost.com/explainers/gurpatwant-singh-pannun-murder-plot-dominates-india-us-talks-13471692.html)
-
-The article discusses the ongoing tension between India and the US regarding the alleged plot to assassinate Khalistan terrorist Gurpatwant Singh Pannun on US soil. US principal deputy national security advisor Jonathan Finer met with high-ranking Indian officials to discuss the matter, acknowledging India's establishment of a committee to investigate the plot. The article also mentions Finer's participation in discussions aimed at strengthening coordination between the US and India in various areas, such as technology cooperation and regional policy alignment. The US reiterated its seriousness in the matter and stated that it will wait for the results of India's investigation. The article provides details about the alleged plot, including plans to target multiple individuals in the US and Canada. India has designated Pannun as an "individual terrorist," and his group Sikhs for Justice has been banned in India. Despite the concerns raised by the US charges, experts believe that this issue is unlikely to significantly impact the overall relationship between India and the US.
-
-Wed, 06 Dec 2023 12:49:01 +0530
-### [Why all eyes are on Vladimir Putin's rare visit to UAE and Saudi Arabia](https://www.firstpost.com/explainers/russia-vladimir-putin-visit-uae-saudi-arabia-opec-plus-oil-israel-hamas-war-13471522.html)
-
-Article found but Couldn't summarize 
-Why all eyes are on Vladimir Putin's rare visit to UAE and Saudi Arabia
-
-Wed, 06 Dec 2023 11:49:19 +0530
-### [No power, no food: How Andhra Pradesh, Tamil Nadu are reeling from Cyclone Michaung](https://www.firstpost.com/explainers/no-power-no-food-how-andhra-pradesh-tamil-nadu-are-reeling-from-cyclone-michaung-13470732.html)
-
-Article found but Couldn't summarize 
-No power, no food: How Andhra Pradesh, Tamil Nadu are reeling from Cyclone Michaung
-
-Wed, 06 Dec 2023 10:41:27 +0530
-### [Did Ashok Gehlot track Sachin Pilot's phone during the 2020 rebellion in Rajasthan?](https://www.firstpost.com/explainers/did-ashok-gehlot-track-sachin-pilots-phone-during-the-2020-rebellion-in-rajasthan-13470802.html)
-
-Article found but Couldn't summarize 
-Did Ashok Gehlot track Sachin Pilot's phone during the 2020 rebellion in Rajasthan?
-
-Wed, 06 Dec 2023 10:26:25 +0530
-### [Karni Sena chief shot dead at home: Who was Sukhdev Singh Gogamedi, who killed him?](https://www.firstpost.com/explainers/karni-sena-chief-sukhdev-singh-gogamedi-murder-rohit-godara-lawrence-bishnoi-gang-rajasthan-13470762.html)
-
-Article found but Couldn't summarize 
-Karni Sena chief shot dead at home: Who was Sukhdev Singh Gogamedi, who killed him?
-
-Wed, 06 Dec 2023 09:02:04 +0530
-### [Love Knows No Borders: How Pakistani woman crossed into India to marry Kolkata man](https://www.firstpost.com/explainers/love-knows-no-borders-how-pakistani-woman-crossed-into-india-to-marry-kolkata-man-13470542.html)
-
-Article found but Couldn't summarize 
-Love Knows No Borders: How Pakistani woman crossed into India to marry Kolkata man
-
-Tue, 05 Dec 2023 22:04:51 +0530
-### [Explained: The race row over which Harry-Meghan could lose royal titles](https://www.firstpost.com/explainers/explained-the-race-row-over-which-harry-meghan-could-lose-royal-titles-13470102.html)
-
-Article found but Couldn't summarize 
-Explained: The race row over which Harry-Meghan could lose royal titles
-
-Tue, 05 Dec 2023 20:24:40 +0530
-### [Karni Sena chief murder: How the Lawrence Bishnoi gang is becoming more dangerous](https://www.firstpost.com/explainers/karni-sena-chief-murder-how-the-lawrence-bishnoi-gang-is-becoming-more-dangerous-13469912.html)
-
-Article found but Couldn't summarize 
-Karni Sena chief murder: How the Lawrence Bishnoi gang is becoming more dangerous
-
-Tue, 05 Dec 2023 19:48:53 +0530
-### [The Rise of Revanth Reddy: Meet the new Telangana chief minister](https://www.firstpost.com/explainers/telangana-assembly-election-results-2023-who-is-revanth-reddy-congress-13459862.html)
-
-The article discusses the Congress party's victory in the Telangana Assembly elections and the selection of Anumula Revanth Reddy as the new chief minister. The Congress won 65 seats, defeating Chief Minister K Chandrasekhar Rao's Bharat Rashtra Samithi (BRS). Reddy played a crucial role in leading the party's campaign in the state. He has a political background and started his career with the Akhil Bharatiya Vidhyarthi Parishad before joining the TRS and later the Congress. Reddy's strategic planning and charismatic leadership contributed to the party's success in increasing its seat count from 19 to 65. Despite facing some criticism within the party for his autocratic style, Reddy received support from senior party leaders, including Rahul Gandhi. Ultimately, it was Rahul Gandhi's decision to select Reddy as the chief minister.
-
-Tue, 05 Dec 2023 19:06:07 +0530
-### [Where will bankrupt Pakistan get funds to hold elections?](https://www.firstpost.com/explainers/where-will-bankrupt-pakistan-get-funds-to-hold-elections-13469142.html)
-
-Pakistan is currently facing a severe economic crisis with high unemployment, soaring inflation, and unaffordable food and essentials. Amidst this, a general election is scheduled for February. However, there have been delays in releasing funds for the election. The Election Commission of Pakistan (ECP) requested Rs 51 billion but agreed upon Rs 47 billion. The finance ministry assured the ECP of releasing Rs 17 billion after concerns were raised. Political parties fund their campaigns through application fees collected from candidates and donations from non-members. The cost of the upcoming elections is estimated to be significantly higher compared to previous elections. The economic situation in Pakistan is dire, with rising inflation and job losses. Despite this, millions are being spent on elections, adding to the uncertainty of the future.
-
-Tue, 05 Dec 2023 18:24:35 +0530
-### [What is breadcrumbing, the new entrant in modern dating scene?](https://www.firstpost.com/explainers/what-is-breadcrumbing-the-new-entrant-in-modern-dating-scene-13468352.html)
-
-Article found but Couldn't summarize 
-What is breadcrumbing, the new entrant in modern dating scene?
-
-Tue, 05 Dec 2023 18:23:13 +0530
-### [Putin's visit to Saudi Arabia, UAE; Republican debate: Top news today](https://www.firstpost.com/explainers/putins-visit-to-saudi-arabia-uae-republican-debate-top-news-today-13469102.html)
-
-Russian President Vladimir Putin is set to visit Saudi Arabia and the United Arab Emirates, despite Russia's isolation over the Ukraine conflict. The purpose of the visit is to discuss bilateral relations, the Israel-Hamas conflict, and international politics. British Foreign Secretary David Cameron will travel to Washington DC for bilateral meetings with US Secretary of State Antony Blinken and members of Congress. Four candidates have qualified for the fourth GOP presidential primary debate in Alabama. Former President Donald Trump will not be attending. A Pakistan court has summoned former Prime Minister Imran Khan and his wife in a corruption case. The swearing-in ceremony of the newly elected Congress government in Telangana was delayed but is likely to take place soon. The Reserve Bank of India (RBI) Monetary Policy Committee meeting will be held from 6 to 8 December. The Supreme Court will hear a public interest litigation (PIL) regarding safeguards against unreasonable interference by law enforcement agencies. Various court hearings are scheduled, including a case against accused being probed in a coal levy money laundering case in Chhattisgarh. Important anniversaries include the birthday of Indian cricketer Rudra Pratap Singh and the demolition of the Babri Masjid in Ayodhya. NASA also revealed photographs suggesting the presence of liquid water on Mars in 2006.
-
-Tue, 05 Dec 2023 17:34:59 +0530
-### [Why is gold near its all-time high? Should you buy?](https://www.firstpost.com/explainers/why-is-gold-near-its-all-time-high-should-you-buy-13469022.html)
-
-Article found but Couldn't summarize 
-Why is gold near its all-time high? Should you buy?
-
-Tue, 05 Dec 2023 16:59:57 +0530
-### [Why New Zealand's Maoris are protesting against the newly elected government](https://www.firstpost.com/explainers/why-new-zealands-maoris-are-protesting-against-the-newly-elected-government-13467922.html)
-
-Thousands of protesters in New Zealand demonstrated against the newly elected conservative-led coalition government, organized by the Maori Party. The protests were a response to what they perceived as "anti-Maori" policies. The demonstrations caused traffic jams and resulted in two arrests in Auckland. Maori Party co-leader Rawiri Waititi criticized Prime Minister Christopher Luxon's administration, stating that their policies would regress New Zealand back to the 1800s. The protesters called for the protection of the Treaty of Waitangi, which safeguards Indigenous rights. Luxon's government plans to review the treaty and potentially make changes to modern laws based on it. They also intend to make changes to the Maori Health Authority. Luxon defended his government's commitment to improving outcomes for both Maori and non-Maori citizens. The ACT Party leader criticized the protests, describing them as divisive and showing disrespect for equal rights. The National Party won the largest proportion of the vote in the recent elections, forming a coalition with New Zealand First and ACT parties. The Maori Party secured six seats in Parliament.
-
-Tue, 05 Dec 2023 16:39:23 +0530
-### [Which city recorded the highest number of road accidents in India?](https://www.firstpost.com/explainers/which-city-recorded-the-highest-number-of-road-accidents-in-india-13468362.html)
-
-Article found but Couldn't summarize 
-Which city recorded the highest number of road accidents in India?
-
-Tue, 05 Dec 2023 16:36:57 +0530
-### [How did ISRO bring Chandrayaan-3’s propulsion module to Earth’s orbit?](https://www.firstpost.com/explainers/isro-chandrayaan-3-propulsion-module-moon-orbit-earth-orbit-significance-13468442.html)
-
-Article found but Couldn't summarize 
-How did ISRO bring Chandrayaan-3’s propulsion module to Earth’s orbit?
-
-Tue, 05 Dec 2023 15:11:18 +0530
-### [US is struggling to send Ukraine money. Here’s what this means for conflict](https://www.firstpost.com/explainers/us-is-struggling-to-send-ukraine-money-heres-what-this-means-for-conflict-13468122.html)
-
-The US is warning that it may run out of money to provide weapons and equipment to Ukraine by the end of 2023. The White House's budget director, Shalanda Young, sent a letter to the US House Speaker stating that without congressional action, the flow of US weapons and equipment to Ukraine would be cut off, severely impeding Ukraine's ability to fight on the battlefield. The lack of funds for Ukraine is due to domestic US politics, with hard-right lawmakers opposing new funding for Ukraine. Despite President Joe Biden's request for $106 billion in national security funding, including support for Ukraine, Congress has been unable to secure the necessary funds. The US has already provided at least $40 billion in security aid to Ukraine since Russia invaded in February 2022, but most of the money remains in the United States and has been spent on replacing military hardware sent to Kyiv. The failure to agree on more funding not only puts Ukraine's gains at risk but also increases the chance of Russian military victories.
-
-Tue, 05 Dec 2023 14:17:05 +0530
-### [Will Revanth Reddy be next Telangana CM? Or is Congress still undecided?](https://www.firstpost.com/explainers/will-revanth-reddy-be-next-telangana-cm-or-is-congress-still-undecided-13466912.html)
-
-Article found but Couldn't summarize 
-Will Revanth Reddy be next Telangana CM? Or is Congress still undecided?
-
-Tue, 05 Dec 2023 13:29:11 +0530
-### [Shivaji to feature on naval uniforms: Why Maratha king is important to Indian Navy](https://www.firstpost.com/explainers/chhatrapati-shivaji-naval-uniforms-maratha-king-importance-indian-navy-contribution-13467402.html)
-
-Article found but Couldn't summarize 
-Shivaji to feature on naval uniforms: Why Maratha king is important to Indian Navy
-
-Tue, 05 Dec 2023 12:28:31 +0530
-### [Did Hamas make millions by betting against Israel stock market before 7 Oct attack?](https://www.firstpost.com/explainers/did-hamas-make-millions-in-profit-by-betting-against-israel-stock-market-before-7-october-attack-13466842.html)
-
-A study conducted by researchers from Columbia University and New York University suggests that some traders may have had prior knowledge of the deadly Hamas attack on Israel in October. The study, titled "Trading on Terror," found significant short-selling of shares before the attacks, indicating that traders bet against the Israeli economy and made profits by short-selling on the Israel stock exchange. The researchers found that short interest in the MSCI Israel Exchange Traded Fund spiked on October 2, and short selling of Israeli securities on the Tel Aviv Stock Exchange increased dramatically just before the attack. The paper provides an example of Bank Leumi, a TASE-listed company, where millions of shares were sold short, yielding profits of millions of dollars. The study suggests that traders who were informed about the coming attacks profited from them. While it is difficult to determine who made the profits, the researchers caution against linking it back to Hamas, as there are various possibilities. The Israel Securities Authority is currently investigating the matter.
-
-Tue, 05 Dec 2023 11:43:09 +0530
-### [Cruelty by husband, kidnapping &amp; more: How crimes against women are on the rise again in India](https://www.firstpost.com/explainers/cruelty-by-husband-kidnapping-more-how-crimes-against-women-are-on-the-rise-again-in-india-13466122.html)
-
-Article found but Couldn't summarize 
-Cruelty by husband, kidnapping &amp;amp; more: How crimes against women are on the rise again in India
-
-Tue, 05 Dec 2023 10:44:59 +0530
-### [Increase in minimum salary, NHS surcharge hike: How UK is planning to cut migration](https://www.firstpost.com/explainers/increase-in-minimum-salary-nhs-surcharge-hike-how-uk-is-planning-to-cut-migration-13466372.html)
-
-UK Prime Minister Rishi Sunak has announced measures to reduce the number of migrants arriving through legal means in an effort to address record net migration figures. The move comes as official estimates reveal a record high of 745,000 net migrations to the UK in 2022, surpassing the number of individuals leaving the country. The new measures include increasing the minimum salary for skilled foreign workers applying for a visa to work in the UK. Other key measures announced include restrictions on bringing family dependents, new limitations on the Health and Care visa, an increase in the NHS surcharge, cracking down on cut-price labor, and restrictions on allowing dependents to enter the UK. These actions are being taken ahead of the upcoming general election, where immigration is expected to be a key issue. The Conservative government, led by Boris Johnson, had promised to reduce net migration numbers but has seen an increase since the UK formally left the EU in January 2020. The urgency to address this issue is heightened by pressure from MPs and lagging behind the Labour party in opinion polls.
-
-Tue, 05 Dec 2023 10:02:12 +0530
-### [Cyclone Michaung to make landfall in Andhra: Why is the storm so deadly?](https://www.firstpost.com/explainers/cyclone-michaung-landfall-andhra-pradesh-chennai-rainfall-storm-deadly-destruction-13466172.html)
-
-Article found but Couldn't summarize 
-Cyclone Michaung to make landfall in Andhra: Why is the storm so deadly?
-
-Tue, 05 Dec 2023 09:11:40 +0530
-### [150 million tonnes and counting: The carbon footprint of the Russia-Ukraine war](https://www.firstpost.com/explainers/150-million-tonnes-and-counting-the-carbon-footprint-of-the-russia-ukraine-war-13465882.html)
-
-Article found but Couldn't summarize 
-150 million tonnes and counting: The carbon footprint of the Russia-Ukraine war
-
-Tue, 05 Dec 2023 08:29:28 +0530
-### [In Graphics | How cyclones form and their devastating impact](https://www.firstpost.com/explainers/in-graphics-how-cyclones-form-and-their-devastating-impact-13465132.html)
-
-The article discusses the impact of cyclonic storm 'Michaung' in Chennai, India. The storm has caused heavy rainfall and resulted in at least five deaths. The Indian Meteorological Department (IMD) warned of heavy to very heavy rainfall in north-coastal Tamil Nadu and Puducherry. Chennai experienced severe waterlogging, with areas like Wallajah Road, Mount Road, and Anna Salai being inundated. The popular Marina Beach was also flooded, causing road blockages. The Tamil Nadu government declared a public holiday in several districts. The article briefly mentions the conversation between Amit Shah and the Chief Minister of Tamil Nadu regarding the intense rains and the Indian Army's rescue efforts in affected areas. Cyclone Michaung is expected to make landfall in Andhra Pradesh's Bapatla, bringing strong winds and heavy rainfall. The rainfall in Chennai is attributed to the cyclone, which is swirling in the Bay of Bengal.
-
-Mon, 04 Dec 2023 21:02:26 +0530
-### [The COP28 chief is dead wrong. Science says we need to quickly do away with fossil fuels](https://www.firstpost.com/explainers/the-cop28-chief-is-dead-wrong-science-says-we-need-to-quickly-do-away-with-fossil-fuels-13465232.html)
-
-The article discusses the claim made by the president of COP28 that there is no scientific evidence supporting the need to phase out fossil fuels to limit global heating to 1.5°C. However, the author argues that there is a wealth of scientific research demonstrating the necessity of a fossil fuel phase-out to combat climate change. The author refers to their own publication in Nature, which highlights that a significant portion of coal, oil, and gas needs to remain underground to meet the temperature goals of the Paris Agreement. The Intergovernmental Panel on Climate Change (IPCC) also emphasizes the urgency of shifting away from fossil fuels to achieve net zero CO₂ emissions by the early 2050s. Additional studies and analyses support the conclusion that a rapid phase-out of fossil fuels is essential. The article concludes by emphasizing the importance of a fair and orderly transition, with developed countries phasing out fossil fuels and providing support to developing countries for the switch to cleaner technologies.
-
-Mon, 04 Dec 2023 20:41:58 +0530
-### [Assembly Election Results 2023: Meet Lalduhoma, the former cop set to become Mizoram’s next CM](https://www.firstpost.com/explainers/assembly-election-results-2023-lalduhoma-former-cop-mizoram-next-cm-zpm-mnf-13465182.html)
-
-Article found but Couldn't summarize 
-Assembly Election Results 2023: Meet Lalduhoma, the former cop set to become Mizoram’s next CM
-
-Mon, 04 Dec 2023 18:57:47 +0530
-### [Can the dodo be brought back from the dead?](https://www.firstpost.com/explainers/can-the-dodo-be-brought-back-from-the-dead-13465002.html)
-
-A biotech firm called Colossal Biosciences is partnering with the Mauritian Wildlife Foundation to potentially bring back the extinct dodo bird. The company has sequenced the genomes of the dodo, as well as two other birds closely related to it. They plan to use cells called primordial germ cells (PGCs) to create a chicken and rooster with the physical traits of a dodo. These altered PGCs will be placed into the embryos of the chickens, and if successful, their offspring will have the characteristics of the dodo. However, there are technical challenges to overcome, and bringing back the dodo does not address the issues that led to its extinction originally. The company believes that rewilding the animals and returning them to their natural habitat is crucial. It is important to note that de-extinction is not a solution to the present-day extinction crisis.
-
-Mon, 04 Dec 2023 18:35:30 +0530
-### [FirstUp: Cyclone Michaung landfall, Malaysia's 1st T20... What to expect today](https://www.firstpost.com/explainers/firstup-cyclone-michaung-landfall-malaysias-1st-t20-what-to-expect-today-13464192.html)
-
-Article found but Couldn't summarize 
-FirstUp: Cyclone Michaung landfall, Malaysia's 1st T20... What to expect today
-
-Mon, 04 Dec 2023 18:00:13 +0530
-### [Why does Venezuela want to claim oil-rich region controlled by Guyana?](https://www.firstpost.com/explainers/why-does-venezuela-want-to-claim-oil-rich-region-controlled-by-guyana-13464482.html)
-
-Article found but Couldn't summarize 
-Why does Venezuela want to claim oil-rich region controlled by Guyana?
-
-Mon, 04 Dec 2023 17:42:51 +0530
-### [What are nitazenes, drugs causing ‘holes’ in skin, wreaking havoc in the UK?](https://www.firstpost.com/explainers/what-are-nitazenes-drugs-causing-holes-in-skin-wreaking-havoc-in-the-uk-13464442.html)
-
-Article found but Couldn't summarize 
-What are nitazenes, drugs causing ‘holes’ in skin, wreaking havoc in the UK?
-
-Mon, 04 Dec 2023 16:27:41 +0530
-### [What are ‘daddy issues’ depicted in the Ranbir Kapoor-starrer ‘Animal’?](https://www.firstpost.com/explainers/daddy-issues-ranbir-kapoor-animal-psychological-problems-pop-culture-13464042.html)
-
-Article found but Couldn't summarize 
-What are ‘daddy issues’ depicted in the Ranbir Kapoor-starrer ‘Animal’?
-
-Mon, 04 Dec 2023 16:12:46 +0530
-### [What if Donald Trump becomes president of the US again?](https://www.firstpost.com/explainers/what-if-donald-trump-becomes-president-of-the-us-again-13441862.html)
-
-Article found but Couldn't summarize 
-What if Donald Trump becomes president of the US again?
-
-Mon, 04 Dec 2023 16:03:05 +0530
-### [Oxford’s Word of the Year 2023 is 'Rizz'. What does it mean?](https://www.firstpost.com/explainers/oxfords-word-of-the-year-2023-is-rizz-what-does-it-mean-13463492.html)
-
-Article found but Couldn't summarize 
-Oxford’s Word of the Year 2023 is 'Rizz'. What does it mean?
-
-Mon, 04 Dec 2023 15:59:10 +0530
-### [What did BJP and Congress promise voters? What will it cost?](https://www.firstpost.com/explainers/what-did-bjp-and-congress-promise-voters-in-assembly-polls-what-will-it-cost-the-exchequer-13463682.html)
-
-Article found but Couldn't summarize 
-What did BJP and Congress promise voters? What will it cost?
-
-Mon, 04 Dec 2023 15:15:30 +0530
-### [How many people were murdered in India in 2022? Which state tops the list?](https://www.firstpost.com/explainers/how-many-people-were-murdered-in-india-in-2022-which-state-tops-the-list-13463592.html)
-
-Article found but Couldn't summarize 
-How many people were murdered in India in 2022? Which state tops the list?
-
-Mon, 04 Dec 2023 14:31:06 +0530
-### [Assembly Election Results 2023: What comes next for the MPs who won?](https://www.firstpost.com/explainers/assembly-election-results-2023-what-comes-next-for-the-mps-who-won-13463362.html)
-
-Article found but Couldn't summarize 
-Assembly Election Results 2023: What comes next for the MPs who won?
-
-Mon, 04 Dec 2023 14:02:59 +0530
-### [Explained: How extreme weather could cause closure of thousands of hospitals globally](https://www.firstpost.com/explainers/explained-how-extreme-weather-could-cause-closure-of-thousands-of-hospitals-globally-13462702.html)
-
-Article found but Couldn't summarize 
-Explained: How extreme weather could cause closure of thousands of hospitals globally
-
-Mon, 04 Dec 2023 13:16:42 +0530
-### [Cars underwater, flights cancelled… How Cyclone Michaung is wreaking havoc in Chennai](https://www.firstpost.com/explainers/cars-underwater-flights-cancelled-cyclone-michaung-rainfall-chennai-landfall-southern-coast-13463022.html)
-
-Article found but Couldn't summarize 
-Cars underwater, flights cancelled… How Cyclone Michaung is wreaking havoc in Chennai
-
-Mon, 04 Dec 2023 12:52:15 +0530
-### [Nari Hai to Mumkin Hai: How women voters propelled BJP to victory](https://www.firstpost.com/explainers/assembly-election-results-2023-madhya-pradesh-rajasthan-chhattisgarh-women-voters-bjp-win-13462872.html)
-
-Article found but Couldn't summarize 
-Nari Hai to Mumkin Hai: How women voters propelled BJP to victory
-
-Mon, 04 Dec 2023 11:29:18 +0530
-### [Piyush Goyal takes ‘Moye Moye’ dig at Rahul after Congress loss: What's this Instagram trend?](https://www.firstpost.com/explainers/piyush-goyal-takes-moye-moye-dig-at-rahul-after-congress-loss-whats-this-instagram-trend-13461912.html)
-
-Article found but Couldn't summarize 
-Piyush Goyal takes ‘Moye Moye’ dig at Rahul after Congress loss: What's this Instagram trend?
-
-Mon, 04 Dec 2023 10:27:14 +0530
-### [How INDIA bloc members will gain from Congress’ election losses in Hindi heartland](https://www.firstpost.com/explainers/rajasthan-madhya-pradesh-chhattisgarh-assembly-election-results-india-alliance-members-gain-congress-losses-13462032.html)
-
-Article found but Couldn't summarize 
-How INDIA bloc members will gain from Congress’ election losses in Hindi heartland
-
-Mon, 04 Dec 2023 10:17:12 +0530
-### [How the Congress has extended its winning run in the South](https://www.firstpost.com/explainers/how-the-congress-has-extended-its-winning-run-in-the-south-13462042.html)
-
-Article found but Couldn't summarize 
-How the Congress has extended its winning run in the South
-
-Mon, 04 Dec 2023 08:57:52 +0530
-### [Assembly Elections 2023: How many people opted for NOTA?](https://www.firstpost.com/explainers/assembly-elections-2023-how-many-people-opted-for-nota-13461822.html)
-
-Article found but Couldn't summarize 
-Assembly Elections 2023: How many people opted for NOTA?
-
-Mon, 04 Dec 2023 08:48:19 +0530
-### [Lotus blooms, grand old party wilts: India’s political map updated](https://www.firstpost.com/explainers/lotus-blooms-grand-old-party-wilts-indias-political-map-updated-13461462.html)
-
-Article found but Couldn't summarize 
-Lotus blooms, grand old party wilts: India’s political map updated
-
-Sun, 03 Dec 2023 20:40:25 +0530
-### [BJP wins in Hindi heartland: How this sets the tone for 2024](https://www.firstpost.com/explainers/assembly-elections-results-2023-bjp-wins-in-hindi-heartland-2024-lok-sabha-polls-impact-congress-13461302.html)
-
-Article found but Couldn't summarize 
-BJP wins in Hindi heartland: How this sets the tone for 2024
-
-Sun, 03 Dec 2023 20:25:32 +0530
-### [Madhya Pradesh polls: How Shivraj Singh Chouhan campaigned tirelessly for the BJP](https://www.firstpost.com/explainers/madhya-pradesh-election-results-how-shivraj-singh-chouhan-campaigned-tirelessly-for-the-bjp-13460862.html)
-
-Article found but Couldn't summarize 
-Madhya Pradesh polls: How Shivraj Singh Chouhan campaigned tirelessly for the BJP
-
-Sun, 03 Dec 2023 20:16:10 +0530
-### [Rajasthan Royals: Will BJP snub Raje and give CM post to Jaipur princess Diya Kumari?](https://www.firstpost.com/explainers/rajasthan-assembly-election-results-2023-will-bjp-snub-raje-and-give-cm-post-to-jaipur-princess-diya-kumari-13460912.html)
-
-Article found but Couldn't summarize 
-Rajasthan Royals: Will BJP snub Raje and give CM post to Jaipur princess Diya Kumari?
-
-Sun, 03 Dec 2023 20:02:20 +0530
-### [FirstUp: Mizoram poll results, ethics panel report on Mahua Moitra... the big news today](https://www.firstpost.com/explainers/firstup-mizoram-poll-results-ethics-panel-report-on-mahua-moitra-the-big-news-today-13460812.html)
-
-Article found but Couldn't summarize 
-FirstUp: Mizoram poll results, ethics panel report on Mahua Moitra... the big news today
-
-Sun, 03 Dec 2023 19:16:58 +0530
-### [Madhya Pradesh Election Results: As BJP dominates Congress, is it curtains for Kamal Nath?](https://www.firstpost.com/explainers/madhya-pradesh-election-results-as-bjp-dominates-congress-is-it-curtains-for-kamal-nath-13460432.html)
-
-Article found but Couldn't summarize 
-Madhya Pradesh Election Results: As BJP dominates Congress, is it curtains for Kamal Nath?
-
-Sun, 03 Dec 2023 18:51:36 +0530
-### [Chhattisgarh Election Results: Will BJP choose a woman or an OBC leader to head the state?](https://www.firstpost.com/explainers/chhattisgarh-election-results-bjp-chief-minister-contenders-obc-woman-tribal-leader-13460692.html)
-
-Article found but Couldn't summarize 
-Chhattisgarh Election Results: Will BJP choose a woman or an OBC leader to head the state?
-
-Sun, 03 Dec 2023 18:34:54 +0530
-### [Giant Slayer: Who is BJP's KV Ramana Reddy, who beat KCR, Revanth Reddy in Telangana?](https://www.firstpost.com/explainers/the-giant-slayer-who-is-bjps-kv-ramana-reddy-who-defeated-kcr-revanth-reddy-in-telangana-13460352.html)
-
-Article found but Couldn't summarize 
-Giant Slayer: Who is BJP's KV Ramana Reddy, who beat KCR, Revanth Reddy in Telangana?
-
-Sun, 03 Dec 2023 17:40:12 +0530
-### [Rajasthan Election Results: What’s in store for Congress’ Ashok Gehlot, Sachin Pilot?](https://www.firstpost.com/explainers/rajasthan-assembly-election-results-2023-whats-in-store-for-congress-ashok-gehlot-sachin-pilot-13460272.html)
-
-Article found but Couldn't summarize 
-Rajasthan Election Results: What’s in store for Congress’ Ashok Gehlot, Sachin Pilot?
-
-Sun, 03 Dec 2023 17:01:13 +0530
-### [Sunil Kanugolu: The poll strategist, who scripted Congress wins in Telangana and Karnataka](https://www.firstpost.com/explainers/telangana-election-results-sunil-kanugolu-poll-strategist-congress-wins-telangana-karnataka-13460282.html)
-
-Article found but Couldn't summarize 
-Sunil Kanugolu: The poll strategist, who scripted Congress wins in Telangana and Karnataka
-
-Mon, 27 Nov 2023 21:42:01 +0530
-### [FirstUp: NATO foreign ministers meet and more… What to expect today](https://www.firstpost.com/explainers/firstup-nato-foreign-ministers-meet-and-more-what-to-expect-today-13437142.html)
-
-US Secretary of State Antony Blinken will attend a NATO foreign ministers meeting in Brussels. The Supreme Court will hear review petitions on marriage equality. Other important cases include charges against a BJP MP in a sexual harassment case and the verdict in the Shahbad Dairy murder case. The NATO meeting will focus on Ukraine's war with Russia and tensions between Kosovo and Serbia. Former Pakistani Prime Minister Imran Khan will appear before a court in the cipher case. Additionally, there will be a winter session of the Punjab Assembly and efforts to rescue trapped miners in Uttarakhand. Israel's truce with Hamas in Gaza may be extended.
-
-Mon, 27 Nov 2023 21:07:30 +0530
-### [Now, ‘rat miners’ try to save Uttarakhand workers. Who are they? How do they work?](https://www.firstpost.com/explainers/now-rat-miners-try-to-save-uttarakhand-workers-who-are-they-how-do-they-work-13437152.html)
-
-Article found but Couldn't summarize 
-Now, ‘rat miners’ try to save Uttarakhand workers. Who are they? How do they work?
-
-Mon, 27 Nov 2023 19:25:22 +0530
-### [What are the new rules for Indian students seeking US visas? Will they make the process smoother?](https://www.firstpost.com/explainers/what-are-the-new-rules-for-indian-students-seeking-us-visas-will-they-make-the-process-smoother-13436762.html)
-
-Article found but Couldn't summarize 
-What are the new rules for Indian students seeking US visas? Will they make the process smoother?
-
-Mon, 27 Nov 2023 18:32:13 +0530
-### [In Graphics | Meet Irish writer Paul Lynch, winner of Booker Prize For 'Prophet Song'](https://www.firstpost.com/explainers/in-graphics-meet-irish-writer-paul-lynch-winner-of-booker-prize-for-prophet-song-13436642.html)
-
-As GPT-3.5, I can provide a summary of the article you shared. Paul Lynch, an Irish writer, won the Booker Prize for his novel "Prophet Song." The book portrays an imagined Ireland under totalitarian rule and explores social and political anxieties. Lynch spent four years writing the novel, inspired by the civil war in Syria and the indifference of the West. With this win, Lynch joins the ranks of other Irish Booker Prize winners such as Iris Murdoch, John Banville, Roddy Doyle, and Anne Enright.
-
-Mon, 27 Nov 2023 18:26:18 +0530
-### [Myanmar conflict intensifies: Will the junta rule collapse?](https://www.firstpost.com/explainers/myanmar-conflict-intensifies-will-the-junta-rule-collapse-13436132.html)
-
-Article found but Couldn't summarize 
-Myanmar conflict intensifies: Will the junta rule collapse?
-
-Mon, 27 Nov 2023 18:13:20 +0530
-### [Were 3 Palestinians shot at in US because of their scarves?](https://www.firstpost.com/explainers/3-palestinian-students-shot-us-vermont-keffiyeh-scarf-palestine-resistance-symbol-of-solidarity-13435622.html)
-
-Three Palestinian students, Hisham Awartani, Kinnan Abdel Hamid, and Tahseen Ahmed, were shot and critically injured while walking home from dinner in Vermont. The Arab American Anti-Discrimination Committee believes they were targeted because they were wearing traditional keffiyehs and speaking Arabic. The keffiyeh is a square-shaped cotton headdress worn by Palestinian men and has become a symbol of Palestinian identity and solidarity. It has a historic connection to the fishing traditions of Palestinian coastal communities. The keffiyeh gained political connotations during the Arab Revolt against the British in 1936 and became synonymous with Palestinian solidarity in the 1960s, popularized by Yasser Arafat. Over the years, it has been banned, co-opted by fashion brands, and worn in protests and demonstrations worldwide.
-
-Mon, 27 Nov 2023 18:07:15 +0530
-### [Why Malaysia, Thailand are allowing visa-free travel for desi tourists](https://www.firstpost.com/explainers/malaysia-thailand-sri-lanka-other-countries-visa-free-travel-indian-tourists-13434442.html)
-
-Article found but Couldn't summarize 
-Why Malaysia, Thailand are allowing visa-free travel for desi tourists
-
-Mon, 27 Nov 2023 16:55:45 +0530
-### [Who is Gippy Grewal, whose house was attacked by Lawrence Bishnoi? What's the Salman Khan connection?](https://www.firstpost.com/explainers/who-is-gippy-grewal-whose-house-was-attacked-by-lawrence-bishnoi-whats-the-salman-khan-connection-13435892.html)
-
-Gunshots were fired outside the home of Punjabi actor and singer Gippy Grewal in Canada. The gang of Lawrence Bishnoi, who is accused in the murder case of Punjabi singer Sidhu Moose Wala, claimed responsibility for the attack on Facebook. They also mentioned Gippy's association with Salman Khan and threatened both of them. Gippy Grewal is a popular actor and Punjabi singer, known for his hit albums and movies. He has faced struggles early in his career but has achieved success through hard work. The attack on Gippy's home is believed to be related to his proximity to Salman Khan, who was previously threatened by Lawrence Bishnoi over the killing of a blackbuck. Salman has been given high-level security due to these threats. However, Gippy denies having any friendship with Salman and says he has only met him twice at public events.
-
-Mon, 27 Nov 2023 15:51:27 +0530
-### [Why Russia has put Meta's spokesman on its wanted list](https://www.firstpost.com/explainers/why-russia-has-put-metas-spokesman-on-its-wanted-list-13435042.html)
-
-Russia has escalated its crackdown on social media by declaring Meta Platforms spokesperson Andy Stone a wanted figure on unspecified charges. This comes after Russia designated Meta as "extremist," which could lead to criminal investigations and fines against users. The clampdown intensified following Russia's Ukraine offensive, with Stone finding himself on the interior ministry's wanted list without explicit details. Media outlets reported that Stone was put on the list in February 2022, but no related statements were made at the time. In March, Russia's federal Investigative Committee opened a criminal investigation into Meta for allegedly inciting violence against Russians. Western social media platforms like Facebook and Instagram have been blocked in Russia since the invasion of Ukraine. Additionally, Meta CEO Mark Zuckerberg has been formally barred from entering the country.
-
-Mon, 27 Nov 2023 14:20:55 +0530
-### [Tensions in Sierra Leone: Is another African coup on cards?](https://www.firstpost.com/explainers/why-are-tensions-rising-in-sierra-leone-is-another-african-coup-on-cards-13435162.html)
-
-Sierra Leone is currently under military curfew following an attack on the country's military barracks and detention centers. Gunmen attacked the main barracks in the capital city of Freetown, overran detention centers, and captured a police car. The identity of the attackers is unknown. President Julius Maada Bio declared a nationwide curfew in response to the attacks. Witnesses reported hearing gunshots and explosions in various parts of the city. Some prisoners were released or abducted during the attack on the detention centers. Security forces have pushed the attackers to the outskirts of Freetown. President Bio assured the nation that most of the leaders of the attack had been arrested and calm was restored. The motives and identity of the attackers remain unclear. The incident is not officially referred to as an attempted coup, but the Economic Community of West African States (ECOWAS) described it as a plot to disturb the peace and constitutional order of the country. President Bio was re-elected for a second term earlier this year amid criticism of economic conditions and allegations of election irregularities.
-
-Mon, 27 Nov 2023 13:58:52 +0530
-### [Dark Days: Why is Kashmir grappling with its worst power crisis in years?](https://www.firstpost.com/explainers/kashmir-worst-power-crisis-in-years-winter-electricity-shortage-13434842.html)
-
-Article found but Couldn't summarize 
-Dark Days: Why is Kashmir grappling with its worst power crisis in years?
-
-Mon, 27 Nov 2023 13:49:24 +0530
-### [China pneumonia outbreak: Could it spread to India?](https://www.firstpost.com/explainers/china-pneumonia-outbreak-could-it-spread-to-india-other-countries-13433772.html)
-
-A spike in respiratory illness in China has raised concerns about the possibility of another pandemic. The illness, similar to pneumonia, is affecting children, particularly in Beijing and Liaoning. India has issued a health advisory and taken precautionary measures due to reports of rising cases in China. Chinese health authorities attribute the increase in infections to the end of COVID-19 restrictions, the arrival of the cold season, and the circulation of known pathogens. India is closely monitoring the situation but currently sees a low risk to its population. Doctors advise people to follow standard hygiene practices such as wearing masks, maintaining cleanliness, and washing hands. The outbreak in China is linked to mycoplasma pneumoniae, a bacteria that primarily affects children. While the outbreak remains contained, experts predict a rise in respiratory illnesses worldwide during the winter months. Vaccines and treatments are available to combat the illness if it spreads to other countries. Hospitals in Beijing have been overwhelmed with patients, but Chinese health officials claim the surge is caused by common viruses and bacteria rather than a novel virus. The World Health Organization has requested information from China regarding the rise in respiratory illnesses.
-
-Mon, 27 Nov 2023 10:54:18 +0530
-### [Slept on chairs, hours of wait for bathroom: What hostages went through during 50 days of captivity in Gaza](https://www.firstpost.com/explainers/slept-on-chairs-hours-of-wait-for-bathroom-what-hostages-went-through-during-50-days-of-captivity-in-gaza-13433602.html)
-
-The article discusses the conditions and experiences of hostages who were released after being held captive by Hamas in Gaza for 50 days. The hostages were fed irregularly, mainly eating rice and bread, and lost weight during their captivity. They slept on rows of chairs pushed together and sometimes had to wait for hours to use the bathroom. Information about their confinement was tightly controlled, but some family members shared details about their loved ones' experiences. The article also mentions the devastation caused by Israel's offensive on Gaza and the cease-fire agreement between Hamas and Israel, which includes the release of hostages. Some of the released hostages appeared to have been held underground, experienced psychological tolls, and needed medical care. Despite the challenges they faced, some of the hostages displayed resilience and were able to walk, speak, and even solve puzzles shortly after their release.
-
-Mon, 27 Nov 2023 10:00:38 +0530
-### [Uttarkashi tunnel collapse: Will vertical drilling help in rescuing the 41 labourers?](https://www.firstpost.com/explainers/uttarkashi-tunnel-collapse-vertical-drilling-rescue-trapped-labourers-13433392.html)
-
-Rescue efforts are still underway to retrieve 41 workers who are trapped inside the collapsed Silkyara-Barkot tunnel in Uttarkashi district. After a drilling machine broke down, authorities have now resorted to vertical drilling as the next best approach. The rescue teams have already drilled 20 meters out of the required 86 meters. The National Highways and Infrastructure Development Corporation Limited (NHIDCL) managing director estimates that vertical drilling will be completed by Thursday if no obstacles arise.
-
-Vertical drilling involves creating boreholes from above to create earth shafts through which the trapped individuals can be evacuated. However, some experts have expressed concerns about this method due to the potential for vibration and falling debris.
-
-Alongside vertical drilling, officials have developed alternative plans such as horizontal drilling and sideways drilling, with different timeframes for each. As a last resort, manual drilling may be used to remove pieces of the broken equipment from the rubble.
-
-Inside the tunnel, efforts are being made to maintain the morale of the trapped laborers by providing them with home-cooked food, medicines, and other essentials through a small pipe. A communication system has been established, allowing families to occasionally talk to the workers. Concerns have been raised about the workers' well-being, including the possibility of insomnia, hypoxia, and post-traumatic stress disorder due to their prolonged confinement.
-
-The article also mentions that the National Disaster Management Authority plans to start manual drilling soon with the help of Indian Army engineers, rat miners, and technicians. The Border Roads Organisation has constructed a road near the site to facilitate the rescue operation. Additionally, local officials have reached out to the trapped workers to inquire about their health and provide updates on the ongoing rescue efforts.
-
-Mon, 27 Nov 2023 09:16:37 +0530
-### [Why Sikhs in UK town are fighting the deportation of 'kind Indian auntie'](https://www.firstpost.com/explainers/why-sikhs-in-uk-town-are-fighting-the-deportation-of-kind-indian-auntie-13433202.html)
-
-Community campaigners in the UK are fighting to prevent the deportation of Gurmit Kaur, a 78-year-old widow who has lived in the country for 14 years. Despite an internet petition with over 65,000 signatures urging her to stay, her application for indefinite leave to remain in the UK was denied. Gurmit Kaur, originally from India, has no family to return to in India and is estranged from her children in the UK. She has become an active member of the local community, volunteering at food banks and receiving support from the Sikh community in Smethwick. The decision to deport her has sparked widespread support, but the UK Home Office maintains that Kaur can re-adjust to life in India. Campaigners are calling for her status, as well as that of all undocumented migrants in the UK, to be regularized to protect them during the pandemic.
-
-Sun, 26 Nov 2023 22:23:21 +0530
-### [FirstUp: PM Modi in Telangana, Israel’s truce ends…. What to expect today](https://www.firstpost.com/explainers/firstup-pm-modi-in-telangana-israels-truce-ends-what-to-expect-today-13432872.html)
-
-Prime Minister Narendra Modi and Home Minister Amit Shah are both addressing rallies in Telangana ahead of the upcoming Assembly elections. PM Modi is expected to worship at the Lord Venkateswara temple at Tirumala before addressing rallies in Mahububabad and Karimnagar. He will also have a roadshow in Hyderabad. Home Minister Amit Shah will hold a public meeting in Karimnagar and a roadshow in Peddapalle and Mancherial. Meanwhile, Punjab has launched doorstep delivery of 42 citizen-centric services. In Mumbai, Western Railway has suspended some train services for 20 days to launch the girder of Gokhale Bridge. Lastly, Israel's four-day ceasefire with Hamas is set to end, and there is pressure to extend it, although military officials fear it may hamper their efforts against Hamas.
-
-Sun, 26 Nov 2023 10:12:40 +0530
-### [This Week In Explainers: Should the world worry as ‘mystery illness’ sweeps China?](https://www.firstpost.com/explainers/this-week-in-explainers-should-the-world-worry-as-mystery-illness-sweeps-china-13428022.html)
-
-Article found but Couldn't summarize 
-This Week In Explainers: Should the world worry as ‘mystery illness’ sweeps China?
-
-Sun, 26 Nov 2023 09:45:54 +0530
-### [15 years of 26/11: How 9-year-old ‘youngest witness’ was called ‘Kasab ki beti’](https://www.firstpost.com/explainers/15-years-of-26-11-how-9-year-old-youngest-witness-devika-rotawanwa-called-kasab-ki-beti-13429372.html)
-
-The article highlights the ongoing quest for justice and healing for survivors of the 2008 Mumbai terror attacks, 15 years after the tragic event. Devika Rotawan, who was shot in her right leg at the age of nine, still carries the trauma with her. She vividly remembers the horrific day and continues to experience shooting pain in her leg periodically. Despite the execution of one of the attackers, she believes that true justice will only be achieved when all the masterminds behind such attacks are held accountable. Rotawan's life has been marked by hardships, including the loss of her mother prior to the attack and her own health struggles. She faced social isolation and discrimination, being called "Kasab's daughter" by classmates and experiencing a lack of support from relatives and neighbors. Her family continues to fight for a promised home from the government, and she hopes to find a job to support her family as her father faces health issues. While she once aspired to join the IPS to combat terrorism, she now focuses on finding employment and supporting her family. The struggle to survive and seek justice continues for Rotawan and other survivors of the Mumbai attacks.
-
-Sat, 25 Nov 2023 17:51:24 +0530
-### [How an antisemitic post might cost Elon Musk $75 million](https://www.firstpost.com/explainers/how-an-antisemitic-post-might-cost-elon-musk-75-million-13429852.html)
-
-Elon Musk could face significant financial losses as dozens of major brands, such as Walt Disney and Warner Bros Discovery, have paused their marketing campaigns on his social media platform, X, following his support for an antisemitic post. According to internal documents viewed by The New York Times, over 200 ad units from companies like Airbnb, Amazon, Coca-Cola, and Microsoft have either halted or considered pausing their ads on the platform. Since Musk's takeover of X in October 2022, advertisers have been leaving due to reduced content moderation, resulting in a surge of hate speech. It is estimated that the company could lose $75 million in advertising revenue by the end of the year. X has filed a lawsuit against Media Matters, claiming defamation after the organization reported that major corporations' ads appeared alongside antisemitic and pro-Hitler content on Musk's platform. Musk denies being antisemitic and referred to Media Matters as "evil." The lawsuit alleges that Media Matters manipulated data to falsely associate ads with extremist posts. In response to an antisemitic remark on X, Musk faced backlash for endorsing the assertion that Jewish communities incite hatred against Whites. The White House condemned his engagement with the conspiracy theory. Musk later stated that he wished only the best for humanity.
-
-Sat, 25 Nov 2023 13:43:17 +0530
-### [Who are the 13 Israeli hostages released by Hamas on Day 1 of Gaza ceasefire?](https://www.firstpost.com/explainers/who-are-the-13-israeli-hostages-released-by-hamas-on-day-1-of-gaza-ceasefire-13428912.html)
-
-Hamas has released a group of prisoners as part of a truce agreement with Israel, bringing the total number of freed hostages to 29 out of approximately 240 taken during the October 7 attack. The latest release includes six elderly people, three mothers with their four children, ten Thai hostages, and one Filipino hostage. The captives were handed over to Egyptian authorities by the Red Cross and taken to Hatzarim Airbase in Israel for further examinations. Prior to this agreement, five hostages had already been freed. The article provides information about the identities and circumstances of some of the Israeli hostages, including their ages, relationships, and medical conditions. It also mentions that Israel is expected to free three times as many Palestinian prisoners under the deal, while around 190 hostages remain in the hands of Palestinian militants.
-
-Sat, 25 Nov 2023 11:33:40 +0530
-### [How 'Made in India' drugs will cut treatment cost of 4 rare diseases by 100 folds](https://www.firstpost.com/explainers/how-made-in-india-drugs-will-cut-treatment-cost-of-4-rare-diseases-by-100-folds-13428332.html)
-
-The Indian government has taken steps to address the high cost of treating rare diseases by encouraging local pharmaceutical companies to produce medicines. Eight drugs for six rare diseases are expected to be available on the market by March 2024. The prices of these medications have dropped significantly compared to their imported counterparts, making them more affordable for patients. The diseases that will be targeted include Gaucher's disease, Wilson's disease, Tyrosinemia type 1, Dravet/Lennox-Gastaut syndrome, Phenylketonuria, and Hyperammonemia. Some of these medications are off-patent, allowing for lower-cost alternatives to be developed. In addition to these rare diseases, efforts are being made to develop an oral hydroxyurea solution for treating sickle cell disease in children. The prevalence of rare diseases in India is estimated to affect 6% to 8% of the population, with around 8.4 crore to 10 crore Indians impacted.
-
-Sat, 25 Nov 2023 10:25:46 +0530
-### [This Week in Explainers: A bitter separation is one of the many troubles of Gautam Singhania](https://www.firstpost.com/explainers/this-week-in-explainers-gautam-singhania-separation-wife-nawaz-modi-raymond-13428542.html)
-
-Article found but Couldn't summarize 
-This Week in Explainers: A bitter separation is one of the many troubles of Gautam Singhania
-
-Sat, 25 Nov 2023 09:08:52 +0530
-### [Rajasthan Elections 2023: Will BJP rely on Vasundhara Raje again if it wins?](https://www.firstpost.com/explainers/rajasthan-assembly-elections-2023-will-bjp-rely-on-vasundhara-raje-again-if-it-wins-13427762.html)
-
-As GPT-3.5, I can provide a summary of the article you shared. The article discusses the upcoming elections in Rajasthan and the question of who will be the chief minister if the Bharatiya Janata Party (BJP) wins. The BJP did not project Vasundhara Raje as its chief ministerial candidate this time, indicating a possible leadership change. However, if the party only secures a thin majority, they may fall back on Raje's leadership. The BJP has other potential candidates for the chief ministerial post, including Mahant Balaknath and several prominent leaders. The article also mentions the importance of projecting a leader for the party's electoral success. The elections in Rajasthan will take place on November 25, and the results will be announced on December 3.
-
-Fri, 24 Nov 2023 20:00:00 +0530
-### [The world's biggest iceberg, A23a, is on the move after 30 years: Is it a concern?](https://www.firstpost.com/explainers/the-worlds-biggest-iceberg-a23a-is-on-the-move-after-30-years-is-it-a-concern-13427592.html)
-
-As GPT-3.5, I can provide you with a summary of the article about the world's largest iceberg, A23a. A23a is a massive iceberg that broke away from the Antarctic coast in 1986. It has been stuck to the ocean floor for over 30 years but is now finally on the move. The iceberg is more than twice the size of Greater London, covering an area of about 4,000 square kilometers. It is predicted to be thrown towards the southern South Atlantic Ocean, close to the island of South Georgia. There is concern that it could disrupt the ecology of the island, which is home to millions of seals, penguins, and other birds. Scientists are closely monitoring its progress.
-
-Fri, 24 Nov 2023 19:01:45 +0530
-### [It’s Good To Be King: How Charles III is secretly profiting off his dead countrymen](https://www.firstpost.com/explainers/its-good-to-be-king-how-charles-iii-is-secretly-profiting-off-his-dead-countrymen-13427882.html)
-
-King Charles III has received tens of millions of pounds from deceased individuals in recent years, which has been used to renovate his properties. The money comes from the estates of people who died without a will or next of kin under a feudal system called bona vacatia. The Duchy of Lancaster, which receives the funds, claims to donate the revenue to charity after deducting costs. However, only a small portion is actually used for charitable purposes, with the rest being used to refurbish the King's properties, which are then leased out. This practice has been criticized by some, as many of the deceased were living in poor conditions. Charles III's reign has so far been characterized by continuity rather than major reforms or controversy. It remains to be seen what impact this revelation will have.
-
-Wed, 22 Nov 2023 11:45:27 +0530
-### [Uttarkashi tunnel collapse: The 11 long days in the lives of the 41 workers trapped](https://www.firstpost.com/explainers/the-11-long-days-in-the-lives-of-41-workers-trapped-in-uttarkashi-tunnel-13415162.html)
-
-Article found but Couldn't summarize 
-Uttarkashi tunnel collapse: The 11 long days in the lives of the 41 workers trapped
-
-Wed, 22 Nov 2023 10:02:09 +0530
-### [Will AI lead to a four-day workweek, reduce office hours?](https://www.firstpost.com/explainers/will-ai-lead-to-a-four-day-workweek-reduce-office-hours-13414542.html)
-
-A new report by the Autonomy campaign group suggests that Artificial Intelligence (AI) could enable a four-day workweek without reducing pay. The study, titled GPT-4 (Day Week): Great Britain Edition, examines the potential impact of AI on lives and livelihoods in the UK. According to the report, if AI is used properly, nearly 9 million people in the UK could enjoy a four-day workweek by 2033, while an additional 28 million workers could see their hours reduced by 10%. These figures represent around 28% and 88% of the UK's labor force respectively. The study used population data, workforce information, an artificial intelligence exposure index, and productivity predictions to make these projections. It also simulated scenarios based on AI increasing productivity by 20%. The report recommends that public and private sector employers take advantage of this opportunity to improve the lives of millions of people and become leaders in adopting workplace AI. A similar study conducted in the US by Autonomy indicated that around 35 million Americans could also enjoy a four-day workweek by 2033. However, some skeptics question the unproven and speculative benefits of large language models (LLMs) like AI and highlight concerns around issues such as prejudice, racism, and data leaks.
-
-Wed, 22 Nov 2023 09:59:03 +0530
-### [A balancing act? Why PM Modi opted out of BRICS-Plus meet on Israel-Hamas war](https://www.firstpost.com/explainers/pm-modi-s-jaishankar-brics-plus-meet-israel-hamas-war-13415252.html)
-
-Prime Minister Narendra Modi did not attend the virtual BRICS-plus meeting where leaders of Brazil, Russia, India, China, and South Africa discussed the Israel-Hamas war. The meeting was called by South Africa, the current chair of the group, who accused Israel of war crimes and genocide in Gaza. While South Africa took a strong stance against Israel, Russian President Vladimir Putin blamed the crisis on failed diplomacy by the United States, and Chinese President Xi Jinping called for a ceasefire. External Affairs Minister S Jaishankar attended the meeting on behalf of PM Modi and emphasized the need for de-escalation, humanitarian aid, and the release of hostages. PM Modi's absence was attributed to prior commitments and ongoing political campaigning. India's abstention from the UN General Assembly vote on a ceasefire resolution was seen as a pro-Israeli stance, although India has maintained a nuanced position throughout the crisis, condemning terrorism while also supporting the socio-economic welfare of the Palestinian people.
-
-Tue, 21 Nov 2023 23:45:26 +0530
-### [FirstUp: Virtual G20 Leaders' Summit and more… The big news today](https://www.firstpost.com/explainers/firstup-virtual-g20-leaders-summit-and-more-the-big-news-today-13414462.html)
-
-Summary:
-On November 22, Prime Minister Narendra Modi chaired the virtual G20 Summit, where leaders of the world's largest economies discussed the implementation of the New Delhi Declaration and other critical challenges. The presence of US President Joe Biden at the summit was uncertain, while Chinese Premier Li Qiang attended in place of President Xi Jinping. In addition to the G20 Summit, PM Modi held roadshows in Rajasthan, campaigned for the upcoming Assembly elections, and Karnataka High Court heard Deputy Chief Minister DK Shivakumar's plea against prosecution by the CBI. The Netherlands also held general elections on this day. It was the birth anniversary of Samajwadi Party founder Mulayam Singh Yadav and notable personalities like poet George Eliot, choreographer Saroj Khan, actor Mark Ruffalo, and tennis players Billie Jean King and Boris Becker were also born on this day.
-
-Tue, 21 Nov 2023 20:21:19 +0530
-### [The world crosses 2-degree warming limit for first time: What does it mean?](https://www.firstpost.com/explainers/the-world-crosses-2-degree-warming-limit-for-first-time-what-does-it-mean-13413672.html)
-
-Article found but Couldn't summarize 
-The world crosses 2-degree warming limit for first time: What does it mean?
-
-Tue, 21 Nov 2023 20:00:12 +0530
-### [Has China established a ‘near-space’ command? Should we be worried?](https://www.firstpost.com/explainers/has-china-established-a-near-space-command-should-we-be-worried-13414212.html)
-
-China has reportedly created its own 'near-space' command, following the establishment of the United States' Space Force in 2019. The new command operates alongside China's army, air force, navy, and rocket branches, reporting directly to the top level of the military and having access to hypersonic weapons. Researchers claim that near-space is a hotly-contested zone that can determine the outcome of future battles. The unit would focus on targeting opposing nations' rocket sites to curtail their anti-satellite missile capabilities. Experts suggest that China's investment in near-space technologies is expected given the country's military challenges. The US is concerned about China's rapid development in space and aims to establish rules and partnerships with countries like Japan to counter Chinese aggression.
-
-Tue, 21 Nov 2023 19:59:47 +0530
-### [How Israel army’s secret Unit 504 exposed the ‘misuse’ of Gaza hospitals by Hamas](https://www.firstpost.com/explainers/how-israel-army-secret-idf-unit-504-exposed-the-misuse-of-gaza-hospitals-by-hamas-13413352.html)
-
-Israel Defense Forces (IDF) Unit 504, a secretive spy unit similar to Mossad, has played a significant role in Israel's ground offensive in Gaza. The unit focuses on military operations and has been involved in exposing how Hamas uses hospitals in Gaza for militant activities. Trained operatives carry out highly classified operations, including interrogating Palestinians, providing intelligence to the IDF, and gathering information about Hamas tunnels and weapons depots. Unit 504 has flagged numerous terrorist sites for IDF operations and developed virtual reality technology to assist soldiers. Additionally, the unit has helped in civilian evacuations by sending messages and flyers urging them to flee to safer areas. Hamas and hospital officials deny the allegations made by Israel regarding their presence inside Gaza hospitals.
-
-Tue, 21 Nov 2023 17:57:28 +0530
-### [A Jurrasic World: Do dinosaurs still exist?](https://www.firstpost.com/explainers/a-jurrasic-world-do-dinosaurs-still-exist-13412352.html)
-
-Scientists believe that dinosaurs may exist on another planet, despite the fact that they have been extinct on Earth for over 65 million years. A recent study suggests that a "Jurassic World" could currently exist on a different planet. By investigating materials present during the dinosaur era but not on modern Earth, scientists may be able to discover evidence of this kind of life. The study highlights the significance of oxygen levels, as Earth had higher oxygen content during the age of the dinosaurs, around 30%. Today, the percentage of oxygen has settled at 21%. Specific telescopes can detect conditions similar to those experienced by dinosaurs, indicating the potential presence of complex life on distant planets. Another indicator of complex life is whether a planet is in the Phanerozoic period, which encompasses most of Earth's history with complex life forms. Scientists hope that finding planets with increased oxygen content will make the search for intriguing life forms easier and potentially lead to the discovery of other dinosaurs.
-
-Tue, 21 Nov 2023 17:30:04 +0530
-### [Delhi minister Atishi warns of ‘severe’ water shortage: What’s behind the recurring crisis?](https://www.firstpost.com/explainers/delhi-minister-atishi-warns-of-severe-water-shortage-whats-behind-the-recurring-crisis-13413142.html)
-
-Delhi's water minister, Atishi, has raised concerns about an impending severe drinking water shortage in the city. She accused Delhi's chief secretary of halting funds to the Delhi Jal Board (DJB), leading to unpaid staff and a lack of funds for essential operations. Atishi warned of potential dirty water, sewer overflow, and the risk of an epidemic in many areas. Delhi requires 1,300 MGD of water, but the DJB can only provide 1,000 MGD, causing shortages in multiple areas. The city's water crisis is attributed to population growth, drought, mismanagement, and urbanization that neglected natural water resources. Unregulated extraction of water and illegal borewells worsen the situation. The government plans to divert funds to the DJB, install tube wells, recharge groundwater, and use treated wastewater for various purposes.
-
-Tue, 21 Nov 2023 17:05:37 +0530
-### [North Korea wants to dominate space. Here's why some are worried](https://www.firstpost.com/explainers/north-korea-wants-to-dominate-space-heres-why-some-are-worried-13413032.html)
-
-North Korea has launched six satellites since 1998, with two successfully reaching orbit. The country plans to launch another satellite, despite previous failed attempts. Japan and South Korea criticize this move, as it violates the UN ban on Pyongyang's missile development. North Korea aims to develop advanced satellites and military reconnaissance satellites, using dual-nozzle liquid-fueled engines. The United States and its allies consider these satellite tests as violations of UN resolutions. North Korea sees its space program as its sovereign right. The launch of satellites could enhance North Korea's intelligence capabilities and demonstrate its space power. It could also reduce tensions if it verifies that the US and its allies are not planning an attack.
-
-Tue, 21 Nov 2023 16:52:36 +0530
-### [Jobless rate spiking, GDP shrinking: Israel’s economic crisis amid Hamas war](https://www.firstpost.com/explainers/joblessness-shrinking-gdp-ballooning-deficit-israels-economic-crisis-amid-hamas-war-13413012.html)
-
-Article found but Couldn't summarize 
-Jobless rate spiking, GDP shrinking: Israel’s economic crisis amid Hamas war
-
-Tue, 21 Nov 2023 16:23:45 +0530
-### [‘Sports fan blues’: This is why India's World Cup loss hurts so much](https://www.firstpost.com/explainers/sports-fan-blues-india-world-cup-loss-australia-hurts-so-much-13412712.html)
-
-Hmm, I'm sorry, but I am not able to summarize articles or provide information about cricket matches. My purpose is to assist with questions and provide support for Chatbase. If you have any questions or need assistance with Chatbase, feel free to ask!The article discusses the emotional impact of India's loss to Australia in the Cricket World Cup final at the Narendra Modi stadium in Ahmedabad. The fans were initially hopeful and enthusiastic, but when Australia won and became champions for the sixth time, the stadium fell silent and the Indian team was left devastated. The loss had a profound effect on both the players and the fans, with many expressing feelings of anguish, sorrow, and dejection. The article also explores the dark side of being a sports fan, highlighting the physical and mental health impacts that fans can experience after their favorite team loses. While these feelings are intense, they are usually temporary and linked to specific sporting events. Experts suggest that talking about the loss, placing it in perspective, engaging in other activities, and giving it time can help cope with the emotional aftermath.
-
-Tue, 21 Nov 2023 15:32:55 +0530
-### [Miracle Child: How a same-sex couple in Spain gave birth to a baby they both carried](https://www.firstpost.com/explainers/miracle-child-how-a-same-sex-couple-in-spain-gave-birth-to-a-baby-they-both-carried-13411432.html)
-
-A Spanish same-sex couple has become the second in the world to have a baby they both carried. Estefania underwent a fertility procedure called INVOcell, where a capsule containing sperm and eggs was inserted into her vagina for natural fertilization. The embryos were then placed into Azahara's uterus, and she gave birth to a healthy boy. INVOcell is an FDA-approved device that aids in reproduction by creating ideal conditions for incubation. This treatment is more cost-effective than traditional IVF.A Spanish same-sex couple has become the second in the world to have a baby they both carried. Estefania underwent a fertility procedure called INVOcell, where a capsule containing sperm and eggs was inserted into her vagina for natural fertilization. The embryos were then placed into Azahara's uterus, and she gave birth to a healthy boy. INVOcell is an FDA-approved device that aids in reproduction by creating ideal conditions for incubation. This treatment is more cost-effective than traditional IVF.
-
-Tue, 21 Nov 2023 14:15:54 +0530
-### [Another step to de-dollarisation: What's China, Saudi currency swap pact?](https://www.firstpost.com/explainers/another-step-to-de-dollarisation-whats-china-saudi-arabias-currency-swap-pact-13412122.html)
-
-China and Saudi Arabia have entered into their first currency swap agreement, worth $6.93 billion, in a move to strengthen financial cooperation and promote trade and investment. The three-year agreement can be extended by mutual consent. A currency swap is a financial arrangement where two parties exchange a specified amount of one currency for another at an agreed-upon rate, aiming to reduce risk and access foreign currency. China aims to reduce its reliance on the US dollar, while Saudi Arabia seeks to increase foreign investment and diversify its economy. Experts believe that the United States should not be concerned about this agreement, as China's use of currency swap lines differs from the US, and the dollar remains crucial for global trade and monetary policy. Although the deal may not be significant in size, it holds symbolic importance due to Saudi Arabia's position as the world's leading oil exporter. China has a vast network of currency swap arrangements with around 40 countries but typically does not disclose detailed terms.
-
-Tue, 21 Nov 2023 14:04:20 +0530
-### [Subrata Roy’s death: What happens to Sahara’s Rs 25,000 crore funds with SEBI?](https://www.firstpost.com/explainers/subrata-roys-death-what-happens-to-saharas-rs-25000-crore-funds-with-sebi-13411912.html)
-
-Subrata Roy, the founder of Sahara Group, passed away in Mumbai at the age of 75. This has brought attention to the issue of over Rs 25,000 crore in undistributed funds that have been with the Securities and Exchange Board of India (SEBI) for more than a decade. The legal troubles for Sahara Group started in the early 2010s when SEBI ordered two of its firms to repay money to investors raised through illegal bonds. The Supreme Court later upheld SEBI's order, asking Sahara to deposit around Rs 24,000 crore with SEBI. Subrata Roy even served over two years in jail for failing to appear in court. SEBI has issued refunds totaling Rs 138.07 crore to some investors, but there are still unclaimed funds of over Rs 25,000 crore. The government is exploring options to transfer these funds to the Consolidated Fund of India, but it is too early to do so as new registrations for claims are still taking place. SEBI has launched a refund portal to facilitate repayment to investors, and once this process is complete, the possibility of transferring funds to the Consolidated Fund of India will be examined.
-
-Tue, 21 Nov 2023 12:38:44 +0530
-### [The sad tale of Budhni Manjhiyain, Nehru’s ‘tribal wife’, who died in exile](https://www.firstpost.com/explainers/budhni-manjhiyain-nehru-tribal-wife-who-passes-away-ostracised-life-13411532.html)
-
-Budhni Manjhiyain, an 80-year-old woman from the Santhal tribe, passed away at her residence near Panchet in Jharkhand. What made her unique was her connection to Jawaharlal Nehru, the former Prime Minister of India. In 1959, Nehru visited Dhanbad in West Bengal to inaugurate a dam, and he insisted that a woman from the project be part of the ceremony. Budhni, along with another tribal member, was selected to welcome Nehru. However, when Nehru garlanded Budhni at the event, it caused controversy within the tribal community. They believed that Budhni had married Nehru by accepting the garland, which led to her excommunication from the community. Budhni then sought shelter in Panchet, where she faced numerous challenges but eventually found employment with the Damodar Valley Corporation. In 1985, Rajiv Gandhi met with her and helped reinstate her job. Budhni worked until her retirement in 2005. After her passing, there have been calls for a monument in her honor and for pension support for her daughter.
-
-Tue, 21 Nov 2023 11:44:27 +0530
-### [Khichdi in bottle, yoga: How 41 workers are surviving in Uttarkashi tunnel](https://www.firstpost.com/explainers/khichdi-in-bottle-antidepressants-yoga-how-41-trapped-men-are-surviving-inside-uttarkashi-tunnel-for-10-days-13410522.html)
-
-The workers trapped inside the collapsed Silkyara tunnel in Uttarakhand's Uttarkashi district are facing challenges in their battle for survival. The rescue operation has been ongoing for 10 days, with various agencies working to find a way to evacuate the workers. A drilling machine broke down over the weekend, causing a temporary halt in the operation, but an alternative strategy called "top down" drilling was adopted. Meanwhile, the stranded workers are being provided with water, oxygen, and cooked meals, along with dry fruits, antidepressants, and multivitamins. The government is expanding their food supply to include items like bananas, apple slices, daliya, and khichdi. Rescuers are using a six-inch pipe to send these supplies to the workers. The trapped workers have also been encouraged to engage in activities like yoga, walking, and conversations with their loved ones to maintain high morale. Sanitation needs are being taken care of, and there is a natural water source inside the tunnel. Despite the difficulties, the workers' spirits remain resilient. The latest developments include the arrival of robotics machines from the Defence Research and Development Organisation (DRDO) and the establishment of an alternative lifeline for evacuation.
-
-Tue, 21 Nov 2023 09:58:36 +0530
-### [Microsoft hires Sam Altman: Tracing 7-year-partnership between OpenAI and tech giant](https://www.firstpost.com/explainers/microsoft-hires-sam-altman-tracing-7-year-partnership-between-openai-and-tech-giant-13410572.html)
-
-Microsoft has hired OpenAI co-founders Sam Altman and Greg Brockman to lead a new advanced AI research team, marking a significant development in the partnership between the two companies. OpenAI, originally founded as a non-profit organization in 2015, later transformed into a "capped profit" company. In 2019, Microsoft invested $1 billion in OpenAI to support the commercialization of its technologies. OpenAI's most notable achievement is the launch of GPT-3, a powerful language model with 175 billion parameters. Microsoft also developed a supercomputer exclusively for training large OpenAI models and integrated GPT-4 into its consumer products. The article mentions that Altman was recently dismissed from his CEO position at OpenAI, which led to unrest among the company's staff. Despite these developments, OpenAI's planned IPO worth $90 billion may face uncertainties.
-
-Tue, 21 Nov 2023 09:45:26 +0530
-### [Why have Yemen's Houthis hijacked an India-bound ship? How's this linked to the war?](https://www.firstpost.com/explainers/yemen-houthis-hijack-india-bound-ship-israel-hamas-war-13410562.html)
-
-Yemen's Houthi militia group, known as the Houthis, has hijacked a cargo ship called Galaxy Leader in the Red Sea. The ship was en route to India from Turkey and had 25 crew members on board. The Houthis released a video of the hijacking, stating that all ships associated with Israel would be considered legitimate targets. The article provides background information about the Houthis, who are Zaydi Shiites and have gained power in northern Yemen since 2014. They are supported by Iran, similar to Hamas and Hezbollah. In response to the recent Israel-Hamas conflict, the Houthis declared their support for Hamas and launched several missile attacks towards Tel Aviv. The hijacking of the ship is seen as a continuation of their anti-Israel stance. The ship has been taken to a port area in Yemen, and various countries, including Japan and Israel, have called for its release. The United States also denounced the seizure, emphasizing it as a violation of international law. The hijacking has significant implications and could escalate the Israel-Palestine conflict, potentially involving the United States and Iran.
-
-Tue, 21 Nov 2023 09:10:23 +0530
-### [Why Albanian opposition politicians lit fire and set off smoke bombs in parliament](https://www.firstpost.com/explainers/why-albanian-opposition-politicians-lit-fire-and-set-off-smoke-bombs-in-parliament-13410372.html)
-
-Opposition politicians in Albania set off smoke flares and disrupted a parliamentary session to prevent the voting on the 2024 budget. Members of the Democratic Party protested against what they see as increasing authoritarian rule by the governing Socialists. The opposition wants to establish investigation commissions to look into suspected corruption cases involving Prime Minister Edi Rama and other high-ranking officials. The Socialists argue that the opposition's demands do not meet constitutional requirements. The unrest began after former Prime Minister Sali Berisha, leader of the Democratic Party, was charged with corruption. The opposition protests are expected to escalate further.
-
-Tue, 21 Nov 2023 08:35:47 +0530
-### [TikTok has a problem of sexual explicit material. How children are at risk](https://www.firstpost.com/explainers/tiktok-has-a-problem-of-sexual-explicit-material-how-children-are-at-risk-13409902.html)
-
-The rise of TikTok has brought concerns about explicit content and the safety of young users to the forefront. Despite efforts to moderate content, TikTok's focus appears to be on maximizing user engagement and traffic rather than creating a safe environment. The platform relies on both automated and human moderation, but the automated system is not always precise, leading to the removal of beneficial content and the presence of harmful content. User tactics such as "algospeak" further complicate content moderation. TikTok's promotion of explicit and harmful content can put young users at risk, and it has been criticized for suppressing educational content related to the LGBTQ+ community while allowing harmful content to remain visible. The platform's age-verification process is easily bypassed, allowing explicit content creators to promote themselves. This content can perpetuate harmful attitudes towards sex and consent, particularly affecting young boys' mental health. The promotion of idealistic and sexualized content also harms the self-perception of young women and queer youth. While TikTok offers an opportunity to spread educational content about sex, such content may not receive the same engagement as more explicit videos. Self-regulation by social media platforms is not enough, and regulatory bodies need to step in. Parents should actively monitor their child's TikTok activity if they allow access, and efforts should be focused on equipping young users with media literacy skills.
-
-Mon, 20 Nov 2023 20:48:12 +0530
-### [Where is Hamas attack architect Yahya Sinwar hiding?](https://www.firstpost.com/explainers/where-is-hamas-attack-architect-yahya-sinwar-hiding-13409792.html)
-
-Yahya Sinwar is a leader of the Palestinian Hamas movement in the Gaza Strip. He is believed to be hiding in Gaza tunnels and is considered a top target by Israel. Sinwar has been involved in the recent attacks by Hamas on Israel. He has a background in Arabic studies and is the founder of the Hamas security service. Sinwar spent over 20 years in jail before being released in a prisoner exchange. He became the head of Hamas' political bureau in 2017. Sinwar is known for his role in founding the military wing of Hamas. Israel considers him to be the mastermind behind the recent attacks.
-
-Mon, 20 Nov 2023 20:43:58 +0530
-### [Sweet Pain: Why drinking red wine may give you a headache](https://www.firstpost.com/explainers/sweet-pain-why-drinking-red-wine-may-give-you-a-headache-13409722.html)
-
-A recent study conducted by scientists from the University of California suggests that the compound quercetin found in red wine may be the cause of headaches experienced by some individuals. Quercetin, a compound and flavanol found in fruits and vegetables, is produced by grapes in response to sunlight. When combined with alcohol and consumed, quercetin blocks the metabolism of acetaldehyde in the body, leading to its accumulation and causing inflammation, which results in headaches. The study also plans to test their theory through a clinical trial using wines with varying levels of quercetin. If successful, this research could potentially help consumers select wines with lower levels of quercetin to avoid headaches.
-
-Mon, 20 Nov 2023 18:29:23 +0530
-### [Who is new OpenAI CEO Emmett Shear? What happens to Mira Murati?](https://www.firstpost.com/explainers/who-is-new-openai-ceo-emmett-shear-what-happens-to-mira-murati-13409342.html)
-
-Emmett Shear, co-founder of Twitch, has been appointed as the new CEO of OpenAI, replacing Sam Altman. Shear denied that Altman was dismissed over safety concerns and stated that the board's reason for the change was different. Shear is known for his advocacy of safety in AI development and his awareness of the potential dangers of artificial intelligence. He plans to reform OpenAI's management team and hire an independent investigator to look into Altman's departure. Altman has since been hired by Microsoft to lead an AI research team. The sudden changes at OpenAI have led to concerns among investors and employees, fearing a talent exodus and potential impact on an upcoming share sale.
-
-Mon, 20 Nov 2023 18:11:20 +0530
-### [What are Israel’s mixed-gender units? What’s their role in Israel-Hamas war?](https://www.firstpost.com/explainers/what-are-israels-mixed-gender-units-whats-their-role-in-israel-hamas-war-2-13409272.html)
-
-Israel's ground offensive in Gaza continues, with reports of raids on hospitals and attacks on schools. The Israeli Defense Forces (IDF) have deployed a mixed-gender battalion called the "Shahar" Battalion, which includes both men and women combat soldiers. This is not the first time women have served in combat positions in the IDF, as they have been part of the forces since the War of Independence in 1948. The IDF currently has at least five mixed-gender battalions, including the Caracal Battalion, the Baradalas, and the Lions of Jordan Valley.
-
-The Shahar Battalion, led by Lt Col Yarden, is involved in search-and-rescue operations in Gaza City's Shati Camp. Around 40% of the troops in this unit are women, and they undertake various tasks alongside their male counterparts, such as breaching buildings and searching for Hamas weaponry. The Caracal Battalion has previously engaged in combat, killing around 100 Hamas terrorists during an attack in October. Other mixed-gender units, like Bardelas and Caracal, are deployed along the border with Egypt, while the Lions of Jordan Valley focus on protecting the northern Jordan Valley border.
-
-Despite their contributions and achievements, coed units in the IDF have faced criticism from some rabbis, former commanders, and conservative voices in the country. Concerns about physical strength differences and maintaining traditional notions of modesty have been raised. However, Israeli defense minister Yoav Gallant has defended these units, stating that female and male combat soldiers are equal in the IDF.
-
-Please note that this summary provides an overview of the article but may not capture all the details or nuances.
-
-Mon, 20 Nov 2023 17:17:35 +0530
-### [In Graphics | Why you should add maize, bajra and other superfoods to your winter diet](https://www.firstpost.com/explainers/in-graphics-why-you-should-add-maize-bajra-and-other-superfoods-to-your-winter-diet-13407722.html)
-
-As winter approaches, it is important to adjust our diets to protect ourselves from the cold and potential illnesses. Instead of relying on traditional options like rice and wheat, consider incorporating superfoods like pearl millet, maize, sesame seeds, and sweet potatoes into your meals. These foods can help combat the cold and keep you fit and healthy.The article suggests that during winter, people should consider changing their diets to protect themselves from the cold and reduce the risk of contracting diseases. Instead of traditional options like rice and wheat, the article recommends consuming superfoods such as pearl millet (bajra), maize (corn), sesame seeds, and sweet potatoes. These foods are said to help combat the cold and promote overall fitness and health.
-
-Mon, 20 Nov 2023 17:15:21 +0530
-### [FirstUp: Repolling in Madhya Pradesh and more... What to expect today](https://www.firstpost.com/explainers/firstup-repolling-in-madhya-pradesh-and-more-what-to-expect-today-13408742.html)
-
-Today, voters in Madhya Pradesh's Ater Assembly constituency will cast their votes again after a breach of secrecy occurred during the previous voting session. Four members of the polling team have been suspended for the breach. In another development, former Bharatpe co-founder Ashneer Grover and his wife have been summoned by the Delhi Police's Economic Offences Wing for questioning in connection with an alleged Rs 81-crore fraud at the financial company. Additionally, a Delhi court will hear arguments on whether to frame charges against Congress leader Jagdish Tytler in the anti-Sikh riots case. Parts of Pune will also face water cuts today due to essential maintenance work at water treatment plants. Lastly, today is World Television Day, which celebrates the impact of television on decision-making and global conversations.
-
-Mon, 20 Nov 2023 16:28:01 +0530
-### [What is Fattah-II, Iran’s new missile, which can 'evade' Israel defence system?](https://www.firstpost.com/explainers/what-is-fattah-ii-irans-new-missile-which-can-evade-israel-defence-system-13408472.html)
-
-Iran has unveiled its new Fattah-II hypersonic missile, claiming that it can evade even the most advanced anti-ballistic missile systems of the United States and Israel. The missile, showcased at an exhibition in Tehran, is equipped with a hypersonic glide vehicle warhead that can manoeuvre and glide at hypersonic speed. It has a range of 1,400 kilometers and a velocity of Mach 13. The missile is designed to make quick turns to avoid defense systems and is difficult to intercept due to its speed and complex trajectory. Iran has been developing its defensive missile program despite opposition from the US and Europe.
-
-Mon, 20 Nov 2023 15:43:26 +0530
-### [9 days and counting: What's delaying the rescue op of 41 trapped workers in Uttarakhand tunnel?](https://www.firstpost.com/explainers/uttarakhand-tunnel-collapse-rescue-operations-delay-41-workers-13407632.html)
-
-Rescue operations to save 41 workers trapped in a collapsed tunnel in Uttarakhand have entered their ninth day. A five-point plan has been devised, including drilling from three sides to reach the trapped workers. The plan involves drilling a vertical hole from the top of the hill where the workers are trapped, as well as drilling a small tunnel from the Barkot side. The rescue efforts were temporarily halted when an auger machine developed a snag, but operations have since resumed. Prime Minister Narendra Modi has assured the Chief Minister of Uttarakhand that the workers will be evacuated safely. The rescue operation is challenging due to the non-uniform soil strata in the Himalayan region. The workers are being provided with multivitamins, antidepressants, and dry fruits to support their well-being.
-
-Mon, 20 Nov 2023 14:47:10 +0530
-### [How Argentina’s new president takes advice from his cloned dogs](https://www.firstpost.com/explainers/how-argentinas-new-president-takes-advice-from-his-cloned-dogs-13407672.html)
-
-Article found but Couldn't summarize 
-How Argentina’s new president takes advice from his cloned dogs
-
-Mon, 20 Nov 2023 14:04:10 +0530
-### [How much carbon do the world’s wealthiest people emit?](https://www.firstpost.com/explainers/how-much-carbon-do-the-worlds-wealthiest-people-emit-13407302.html)
-
-A study conducted by Oxfam reveals that the richest one percent of the global population, amounting to 77 million people, are responsible for 16 percent of total global CO2 emissions resulting from their consumption. This group includes billionaires, millionaires, and individuals earning over $140,000 per year. The report suggests that addressing climate change requires tailored government policies since not everyone is equally accountable. The study also highlights the alarming disparity between the carbon footprints of the rich and the poor, with the top one percent emitting more carbon than the bottom 66 percent combined. In addition, high-income countries contribute significantly more to consumption-based CO2 emissions compared to low-income nations. The report emphasizes the need for progressive climate policies that place greater responsibility on those who emit the most, including measures such as taxing frequent air travel or non-green investments. Furthermore, the study shows that marginalized communities, women, and developing countries bear a disproportionate burden in terms of economic and physical vulnerability to extreme weather events. Oxfam insists that addressing extreme wealth through taxation can provide the necessary resources to tackle inequality and the climate crisis simultaneously.
-
-Mon, 20 Nov 2023 13:55:59 +0530
-### [Fact-check: No, India's GDP has not crossed $4 trillion. But are we close?](https://www.firstpost.com/explainers/fact-check-india-economy-gdp-4-trillion-how-far-away-are-we-13407282.html)
-
-India's GDP crossed the $4 trillion-mark for the first time, according to an unverified screengrab from the International Monetary Fund (IMF) data. The country achieved a GDP growth of 7.8% during the April-June period of 2023-24, the highest in the past four quarters. Despite the viral news, the government remained silent, and there was no official confirmation of the milestone. Several BJP leaders and industrialists praised Prime Minister Narendra Modi for this achievement, while economists and analysts welcomed the reports. However, experts refuted the news, stating that India's GDP is around $3.45 trillion as of June. India aims to become a $5 trillion economy by 2025.
-
-Mon, 20 Nov 2023 11:53:47 +0530
-### [Why Joe Biden’s birthday takes centre stage ahead of the 2024 US presidential polls](https://www.firstpost.com/explainers/why-joe-bidens-birthday-takes-centre-stage-ahead-of-the-2024-us-presidential-polls-13406282.html)
-
-Joe Biden turned 81 today, making him the oldest sitting president in American history. His age is a significant concern for American voters, especially among young voters. Despite his vigorous schedule and jokes about his age, polls consistently show that Biden's age is the greatest concern for voters. While Donald Trump is only slightly younger than Biden, voters are less concerned about his age. Biden has struggled to change public perception on his age, despite his efforts to make light of it. Polls show that a majority of people believe Biden is too old to serve a second term. However, some analysts argue that age should not matter and that there are many people in their 80s who are perfectly capable of being president. Biden's age is likely to face even more scrutiny during the 2024 election campaign. Republicans have also focused their criticism on Vice President Kamala Harris, who would assume the presidency if anything were to happen to Biden.
-
-Mon, 20 Nov 2023 11:43:36 +0530
-### [Who is the pitch invader at India-Aus final? How common are such incidents?](https://www.firstpost.com/explainers/who-is-the-pitch-invader-at-india-australia-icc-cricket-world-cup-final-how-common-are-such-incidents-13406502.html)
-
-During the ICC Cricket World Cup 2023 final between India and Australia, a pitch invader ran onto the field in support of Palestine. The man, identified as Wen Johnson, wore a mask resembling the colors of the Palestinian flag and a T-shirt with slogans supporting Palestine. He attempted to hug India's Virat Kohli and unfurl a Pride Flag before being escorted off the field by security guards. The incident has raised questions about security breaches at the stadium, which was filled with politicians and celebrities. Pitch invasions are not uncommon in cricket, and previous incidents have occurred during international matches.
-
-Mon, 20 Nov 2023 11:29:30 +0530
-### [What are halal-certified products that UP has banned?](https://www.firstpost.com/explainers/halal-products-uttar-pradesh-ban-certification-13405952.html)
-
-The Uttar Pradesh (UP) government in India has imposed a ban on the production, storage, distribution, and sale of all halal-certified food, medicines, and cosmetic items within the state, with the exception of products intended for export. This action was taken after an FIR (First Information Report) was filed against certain organizations for allegedly issuing forged halal certificates to boost sales. Halal refers to products that are permissible according to Islamic law, while haram refers to forbidden items. The criteria for halal meat involve specific conditions for animal slaughter. The ban on halal products in UP is based on the argument that halal certification creates confusion and violates public trust, as well as the assertion that some companies were involved in a criminal conspiracy targeting a particular community. The halal certification process in India is carried out by private companies recognized by Muslim consumers and regulators in Islamic countries. The ban has received mixed reactions, with some companies denying the allegations and expressing their intention to take legal action.
-
-Mon, 20 Nov 2023 09:28:07 +0530
-### [Unidentified flying object spotted over Imphal airport: What we know so far](https://www.firstpost.com/explainers/unidentified-flying-object-spotted-over-imphal-airport-what-we-know-so-far-13405832.html)
-
-An unidentified flying object (UFO) was spotted near Bir Tekendrajit International Airport in Imphal, causing several flights to be diverted and delayed. The object, described as a white-colored drone, flew over the airport tower before moving southwest of the runway and disappearing. As a result, two IndiGo flights were diverted and three others were delayed for over three hours. The airport authorities closed the controlled airspace and halted all flight operations. Passengers on the affected flights remained inside the airport or aircraft for more than three hours. The Indian Air Force and the Directorate General of Civil Aviation have launched a joint investigation into the incident.
-
-Sun, 19 Nov 2023 18:09:56 +0530
-### [FirstUp: Delhi schools reopen, Mumbai to face water cuts… The big news today](https://www.firstpost.com/explainers/firstup-delhi-schools-reopen-mumbai-to-face-water-cuts-the-big-news-today-13404552.html)
-
-Delhi schools have reopened as the Air Quality Index (AQI) has improved and there is no indication of a sharp degradation in the near future. The schools were initially asked to suspend physical classes but are now allowed to resume. Mumbai is facing a 10 percent water cut for 13 days due to emergency repair work at the pneumatic gate system in Thane. Farmers in Punjab and Haryana are holding protests today, demanding a solution to stubble burning and the withdrawal of actions taken against them. India and Australia will hold the second India-Australia 2+2 Ministerial Dialogue in New Delhi. The International Film Festival of India begins today in Goa, with Hollywood actor Michael Douglas receiving the Satyajit Ray Lifetime Achievement Award. Pop idol Shakira is going on trial in Barcelona for allegedly evading taxes in Spain. US President Joe Biden celebrates his 81st birthday, raising concerns about his age and reelection prospects.
-
-Sun, 19 Nov 2023 11:22:28 +0530
-### [OMG! How TikTok Jesus, promising ‘blessing in an hour’, is a viral sensation](https://www.firstpost.com/explainers/omg-how-tiktok-jesus-promising-blessing-in-an-hour-is-a-viral-sensation-13394882.html)
-
-The TikTok profile Daily Believer has gained a large following by using computer-generated Jesuses to engage viewers and promise blessings in exchange for likes, comments, and shares. This approach is similar to the prosperity gospel, which teaches that faith in God will bring material wealth and happiness. The Daily Believer's content appeals to a wide range of Christian groups and has the potential to generate revenue through the TikTok Creator Fund. By framing their requests as coming from the Son of God, the Daily Believer has transformed viewer engagement into a religious act with the promise of divine reward. However, the content seems to be aimed at those who already consider themselves Christian and offers little persuasion or explanation of why someone should become a Christian. Overall, the Daily Believer represents a new expression of an ancient religious motivation – the desire for worldly health, wealth, and reward.
-
-Sun, 19 Nov 2023 10:49:43 +0530
-### [This Week in Explainers: Why did ChatGPT-maker OpenAI fire Sam Altman?](https://www.firstpost.com/explainers/this-week-in-explainers-why-did-chatgpt-maker-openai-fire-sam-altman-13399392.html)
-
-OpenAI, the company behind ChatGPT, has fired its CEO and co-founder, Sam Altman, in a surprise move. Altman has been replaced by Mira Murati as interim CEO. The reasons for Altman's firing are unclear. In other news, Israel's raid on the Al-Shifa Hospital in Gaza has drawn criticism, with Israel claiming it was a Hamas command center and doctors warning of a "catastrophic situation." A letter from Osama bin Laden to America has gone viral on TikTok, causing embarrassment for authorities. UK Prime Minister Rishi Sunak has sacked Suella Braverman, the home secretary, following her remarks on the police's handling of pro-Palestinian protesters. A new study on sleep and longevity challenges the idea that everyone needs eight hours of sleep. Colombia has imposed a tax on junk food and sugary drinks as a public health measure. In a rare case, an Alabama woman is pregnant with two babies in separate uteri, shocking medical experts.
-
-Sat, 18 Nov 2023 18:08:23 +0530
-### [How US is fighting Iran-backed militias in West Asia](https://www.firstpost.com/explainers/explained-the-uss-balanced-response-to-iran-backed-militias-attacking-its-forces-13401502.html)
-
-Iranian-backed militias have been launching attacks on US bases and facilities in Iraq and Syria since mid-October. These attacks have resulted in minor injuries to US personnel, mostly traumatic brain injuries. The US has responded with limited military strikes in an attempt to dissuade the militants without escalating the conflict. The attacks have primarily been carried out by suicide drones or rockets and have caused little damage. The militias responsible for the attacks have rebranded themselves as the Islamic Resistance in Iraq and have targeted US military bases in Syria and Iraq. The Biden administration has dispatched more troops and military equipment to the region to deter further attacks. However, critics argue that the US response has been insufficient and has failed to deter the militias. The US has focused its retaliatory airstrikes in Syria rather than Iraq to avoid alienating the Iraqi government.
-
-Sat, 18 Nov 2023 16:19:36 +0530
-### [Who is Mira Murati, the new interim CEO of OpenAI replacing Sam Altman?](https://www.firstpost.com/explainers/who-is-mira-murati-the-new-interim-ceo-of-openai-replacing-sam-altman-13401142.html)
-
-Mira Murati has been appointed as the interim CEO of OpenAI following the departure of Sam Altman. The board cited Altman's lack of consistent communication as the reason for their loss of confidence in his leadership. Murati, who has been part of OpenAI's C-suite, is described as a brilliant mind behind the development of revolutionary products like ChatGPT and DALL-E. She has also emphasized the need for involvement from regulators, governments, and various stakeholders to ensure responsible use of AI technology. Murati's appointment comes after co-founder Greg Brockman also left the company.
-
-Sat, 18 Nov 2023 14:44:28 +0530
-### [Shakira to go on trial in Spain for tax fraud: What is the case?](https://www.firstpost.com/explainers/shakira-to-go-on-trial-in-spain-for-tax-fraud-what-is-the-case-13400622.html)
-
-Colombian popstar Shakira is set to go on trial in Barcelona for allegedly evading €14.5 million in taxes. Prosecutors are seeking an eight-year jail term and a fine of nearly €24 million. The case centers around where Shakira lived between 2012 and 2014, with Spanish authorities claiming she primarily resided in Spain during that time. They allege that she listed the Bahamas as her primary residence until 2015. Shakira denies any wrongdoing and asserts that she was leading a "nomadic life" until 2014, earning most of her money from international tours. She has already paid all taxes owed to the Spanish government during her claimed residency in the Bahamas. The trial is expected to run until December 14 and may include testimony from nearly 120 witnesses. Despite her presence or absence at the remaining hearings, details of her private life are likely to emerge during the proceedings. If proven guilty, Shakira could face jail time. This case follows similar instances of tax evasion involving celebrities and athletes in Spain, including soccer players Cristiano Ronaldo and Lionel Messi.
-
-Sat, 18 Nov 2023 12:03:30 +0530
-### [Sam Altman sacked: What's going on at ChatGPT-maker OpenAI?](https://www.firstpost.com/explainers/sam-altman-sacked-whats-going-on-at-chatgpt-maker-openai-13399872.html)
-
-Article found but Couldn't summarize 
-Sam Altman sacked: What's going on at ChatGPT-maker OpenAI?
-
-Sat, 18 Nov 2023 09:55:56 +0530
-### [This Week in Explainers: The award for best conspiracies this World Cup goes to Pakistan](https://www.firstpost.com/explainers/this-week-in-explainers-the-award-for-best-conspiracies-this-world-cup-goes-to-pakistan-13398982.html)
-
-India's cricket team, known as the men in blue, has reached the finals of the ICC Men's Cricket World Cup 2023. They will face Australia on November 19 in Ahmedabad. The team has won all its matches so far, including a victory against New Zealand in the semi-finals. However, there have been some challenges, with players suffering from cramps during matches. Pakistan has been making allegations against India, including claims that captain Rohit Sharma intentionally throws the coin far from opposing captains during the toss. Aside from cricket, other news in India includes a mishap in Uttarakhand where 40 workers are trapped in an under-construction tunnel due to a landslide, and pollution concerns after Diwali despite a ban on firecrackers. The Asia-Pacific Economic Cooperation (APEC) summit saw diplomatic meetings between world leaders, including US President Joe Biden and China's Xi Jinping. India's membership to the APEC was rejected in 1991. Lastly, the Yemen Supreme Court rejected the appeal of a Kerala nurse who was sentenced to death for the murder of a Yemeni national.
-
-Fri, 17 Nov 2023 19:59:30 +0530
-### [Dogs, robots and sponge bombs: How Israel is tracking and destroying Hamas tunnels](https://www.firstpost.com/explainers/hamas-terror-tunnels-dogs-robots-sponge-bombs-israel-tracking-destroying-13398122.html)
-
-Israel is intensively targeting Hamas and its tunnel network in Gaza. The Israel Defense Forces (IDF) has been conducting airstrikes and raids on the Gaza Strip, including at the Al-Shifa Hospital, which they claim houses a Hamas command center. The IDF is determined to destroy the labyrinth of tunnels built by Hamas, known as the "Gaza Metro," which serve as hiding places for militants, weapons storage, and command centers.
-
-To locate these tunnels, Israel is employing various technologies such as surveillance drones, satellites, and ground-penetrating radar. However, the rubble caused by Israeli bombardment may hinder the use of satellite data. Mapping and destroying the tunnels pose additional challenges. The IDF is using attack dogs, unmanned vehicles, and robots to map the tunnels' intricate paths and is avoiding sending troops without prior mapping due to potential booby traps left by Hamas.
-
-To seal off and destroy the tunnels, the IDF is utilizing innovative methods such as exploding gel and sponge bombs that expand rapidly and harden to seal gaps or tunnel entrances. Additionally, the tunnels are equipped with wires and cables for electricity, internet, telephones, and military communication.
-
-Hamas began constructing these tunnels in the mid-1990s, and they have become a vital asset for the group in Gaza, contributing to its strength compared to the Israeli-occupied West Bank. The tunnels vary in size and can accommodate cars and trucks, while most are deep enough to resist bunker-busting bombs. They also likely contain observation and detection devices to aid in targeting Israeli forces.
-
-The IDF has already destroyed 130 shafts but did not provide a specific count for demolished tunnels. The ongoing operation aims to dismantle Hamas and its extensive tunnel network in Gaza.
-
-Fri, 17 Nov 2023 19:58:47 +0530
-### [PM Modi sounds alarm on deepfakes: How can you spot them?](https://www.firstpost.com/explainers/pm-modi-sounds-alarm-on-deepfakes-how-can-you-spot-them-13399342.html)
-
-Prime Minister Narendra Modi recently raised concerns about the growing threat of deepfake technology. Speaking at a BJP event, he mentioned seeing a deepfake video of himself singing at a garba festival, despite not having done so since school. Modi highlighted the lack of a reliable verification system for such media and emphasized the potential crisis it poses in a diverse society like India. Deepfakes are manipulated media, often videos or images, where a person's likeness is replaced with someone else's using artificial intelligence algorithms. They can be difficult to detect, but there are some signs to look for. The Indian government has issued advisories to social media companies to identify and remove deepfakes and misinformation promptly. Additionally, experts suggest staying informed about current affairs and using AI detection tools. The article also mentions instances where deepfakes have been used maliciously, including conning people out of money and targeting women with revenge porn. The government aims to protect citizens, especially women and children, from the harms of deepfakes and calls upon online platforms to take decisive actions against their spread.
-
-Fri, 17 Nov 2023 17:47:57 +0530
-### [In graphics | The regal history of India’s beloved ‘masala chai’](https://www.firstpost.com/explainers/in-graphics-the-regal-history-of-indias-beloved-masala-chai-13398822.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.This article discusses the rich tea culture in India, specifically focusing on masala chai. It highlights the long history of chai, which dates back thousands of years and includes tales of natural medicines and nobility. The article emphasizes the importance of tea in Indian daily life and describes it as a cup of peace that can make things better.This article discusses the significance of tea in Indian culture. It mentions that a cup of masala chai can bring peace and is enjoyed by many throughout the day. The article also highlights the deep-rooted history of chai in India, dating back thousands of years, with tales of natural medicines and nobility. Overall, the article emphasizes the importance of tea in Indian daily life.
-
-Fri, 17 Nov 2023 16:51:31 +0530
-### [Why has the Cambridge Dictionary chosen 'Hallucinate' as its Word of the Year 2023?](https://www.firstpost.com/explainers/why-has-the-cambridge-dictionary-chosen-hallucinate-as-its-word-of-the-year-2023-13397912.html)
-
-The Cambridge Dictionary has named "hallucinate" as its Word of the Year for 2023. The word gained an additional meaning this year due to its increasing use in the context of artificial intelligence (AI). The new definition refers to when AI systems produce false information, resembling human-like hallucinations. The decision to choose this word reflects the growing interest in AI and the need to understand its limitations. Generative AI tools like ChatGPT often generate convincing but misleading or false information, which is referred to as AI hallucinations. The article emphasizes the importance of critical thinking and human expertise when using these tools. Real-world effects of AI hallucinations have already been observed, such as fictional instances being cited in court and factual errors made by AI tools. The selection of "hallucinate" as the Word of the Year signifies the anthropomorphization of AI technology and our readiness to attribute human-like attributes to it. The dictionary also introduced new entries related to artificial intelligence, such as large language model, generative AI, and GPT.
-
-Fri, 17 Nov 2023 16:43:28 +0530
-### [Why Osama bin Laden’s ‘Letter to America’ is being endorsed by young Americans on TikTok](https://www.firstpost.com/explainers/why-has-osama-bin-laden-letter-to-america-resurfaced-on-tiktok-why-are-young-americans-backing-it-13398282.html)
-
-An old letter written by Osama bin Laden, titled "Letter to America," has gone viral on social media platforms like TikTok and Twitter. The letter, written a year after the 9/11 attacks, attempts to justify the targeting and killing of American civilians and criticizes the US government's support of Israel. The resurfacing of the letter has sparked a debate about America's support for Israel amidst the ongoing conflict between Israel and Hamas. Many young Americans, who make up a significant portion of TikTok users, have posted videos sympathizing with bin Laden's views and expressing how the letter has impacted their perspective on geopolitical matters. TikTok has taken down videos promoting the letter, citing violations of its rules against supporting terrorism. The US government has condemned the trend, considering it an insult to the victims of the 9/11 attacks and denouncing the antisemitic content in bin Laden's letter.
-
-Fri, 17 Nov 2023 16:33:32 +0530
-### [Is Israel preparing for a ground offensive against Hamas in southern Gaza?](https://www.firstpost.com/explainers/is-israel-preparing-for-a-ground-offensive-against-hamas-in-southern-gaza-13398242.html)
-
-Article found but Couldn't summarize 
-Is Israel preparing for a ground offensive against Hamas in southern Gaza?
-
-Fri, 17 Nov 2023 14:53:35 +0530
-### [SpaceX’s second test flight for Starship rocket on Friday: What to expect](https://www.firstpost.com/explainers/spacexs-second-test-flight-for-starship-rocket-on-friday-what-to-expect-13395462.html)
-
-As GPT-3.5, I can provide you with a summary of the article you shared. SpaceX is planning a second test flight for its Starship rocket, which is considered the most powerful rocket ever built. The liftoff is scheduled to take place from SpaceX's facility in Boca Chica, Texas. The rocket will fly for 90 minutes before descending into the Pacific Ocean. The second flight will introduce new systems and enhancements, including a hot-stage separation system and a new electronic Thrust Vector Control (TVC) system. The launch is expected to occur on Friday, November 17.
-
-Fri, 17 Nov 2023 14:30:53 +0530
-### [Different balls, DRS, coin toss: Pakistan’s bizarre conspiracies about India’s World Cup wins](https://www.firstpost.com/explainers/different-balls-drs-coin-toss-pakistans-bizarre-conspiracies-about-indias-world-cup-wins-13397622.html)
-
-India has achieved 10 consecutive victories in the 2023 Cricket World Cup, leading up to the final against Australia. This winning streak has sparked conspiracy theories, particularly in Pakistan. Retired Pakistani cricketer Hasan Raza suggested that Indian bowlers might be given different balls by the ICC, resulting in more swing and seam. He also questioned the Decision Review System, claiming that it favored India. Other Pakistani players and journalists echoed these sentiments, with some even bringing up fixed matches. Another conspiracy theory emerged regarding Indian captain Rohit Sharma's coin tosses, suggesting that he threw the coin far away to prevent opposition captains from verifying the call. However, these theories were dismissed by former Pakistani captain Wasim Akram, who deemed them unfounded. Pakistan failed to reach the semi-finals of the World Cup, needing a significant victory over England to secure a spot.
-
-Fri, 17 Nov 2023 14:01:06 +0530
-### [Who is Nimisha Priya, the nurse from Kerala sentenced to death in Yemen?](https://www.firstpost.com/explainers/who-is-nimisha-priya-the-nurse-from-kerala-sentenced-to-death-in-yemen-13396842.html)
-
-Indian nurse Nimisha Priya, who is currently in Yemen, has been sentenced to death for killing a Yemeni national named Talal Abdo Mahdi. The Yemeni Supreme Court has rejected appeals against her death sentence, making it unlikely that she will be able to avoid prison. Priya had asked Mahdi for assistance in opening a clinic in Yemen, but their relationship deteriorated over time. In 2017, Priya gave Mahdi a sedative injection to retrieve her passport, but he died from a drug overdose. She then sought help from another nurse to dispose of his body. Priya and the other nurse were arrested and sentenced to life in prison in 2017, and Priya was later given a death sentence in 2018. Priya's mother and a domestic help from Kerala have appealed to the Delhi High Court to allow them to visit Yemen and negotiate with the deceased's relatives using blood money, which could potentially commute Priya's sentence. However, Priya claims she is unable to pay the required amount. The Indian government is offering consular support but has limited power in the legal matter.
-
-Fri, 17 Nov 2023 13:35:47 +0530
-### [Why Myanmar’s violence is worrying India](https://www.firstpost.com/explainers/myanmar-clashes-operation-1027-junta-rebels-india-concern-13397372.html)
-
-The article discusses the ongoing violence in Myanmar between the military and anti-junta forces. The Three Brotherhood Alliance, made up of ethnic armed groups, launched Operation 1027 to demand the restoration of democracy. They have captured several towns, leading to martial law being declared in certain areas. The Myanmar military has responded with counter-attacks, including shelling towns and using helicopters. This conflict has led to casualties on both sides and the displacement of over 200,000 people. India is concerned about this situation as the rebels are fighting close to the Indian border, and they have captured towns that are important for India's trade routes. Additionally, the rebellion in Chin state has caused an influx of people seeking shelter in Mizoram, a state in India, leading to worries about changing dynamics and potential refugee crises.
-
-Fri, 17 Nov 2023 12:53:41 +0530
-### [Hamas tunnel, bodies of hostage: What Israel says it found in Al-Shifa Hospital raid](https://www.firstpost.com/explainers/hamas-tunnel-bodies-of-hostages-what-israeli-army-claims-to-have-found-in-al-shifa-hospital-raid-13397032.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses the ongoing raids by Israel on Al-Shifa Hospital, Gaza's largest hospital, claiming that it housed an underground command center for Hamas. Israel suspected that hostages taken from Israel were hidden in tunnels under the facility. However, after the raid, no hostages were found inside the hospital. Israeli Prime Minister Benjamin Netanyahu stated that there were indications of hostages being held at Al-Shifa but claimed they were no longer there when the ground operation was launched. The Israeli Defense Forces (IDF) discovered the bodies of an Israeli woman, Yehudit Weiss, and a teenage girl, Noa Marciano, near the hospital. Yehudit Weiss was a 65-year-old woman who was kidnapped by Hamas, and Noa Marciano was a 19-year-old woman abducted and murdered by Hamas terrorists. The IDF also uncovered a Hamas tunnel within the hospital complex and found a booby-trapped car with weapons and ammunition nearby. Israel also discovered similar findings in other hospitals in Gaza. Doctors and health officials denied these accusations, while thousands remain trapped inside Al-Shifa Hospital. The situation inside the hospital is worsening, with displaced children lacking basic necessities like water and milk.
-
-Fri, 17 Nov 2023 11:37:16 +0530
-### [Who is Prakhar Pratap Singh, youngest candidate in MP?](https://www.firstpost.com/explainers/madhya-pradesh-assembly-elections-2023-who-is-prakhar-pratap-singh-the-youngest-candidate-in-the-state-13396202.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.The second phase of the highly anticipated five-state assembly election is underway in Madhya Pradesh, with 230 seats up for voting. The Aam Aadmi Party (AAP) has made an entry into the state by fielding 66 candidates, including Prakhar Pratap Singh, a 25-year-old contender from the Gurh segment. Singh, who holds a Bachelor's and Master's degree in Architecture from the United States, decided to pursue a career in politics upon returning to India. Despite having family connections to both the Congress and the BJP, Singh joined the AAP because of their achievements in Punjab and Delhi, as well as their progressive attitude. His campaign focuses on local concerns such as the lack of schools, hospitals, and drinking water in Gurh. The BJP has dominated Madhya Pradesh politics for nearly 20 years, but the Congress is fighting to gain control in this election.
-
-Fri, 17 Nov 2023 10:09:22 +0530
-### [Uttarkashi tunnel collapse: Will 40 trapped workers be rescued in 12-15 hours?](https://www.firstpost.com/explainers/uttarkashi-tunnel-collapse-40-trapped-workers-rescue-operations-auger-drilling-machine-time-13396312.html)
-
-A portion of a tunnel under construction in Uttarkashi, India, collapsed, leaving 40 laborers trapped inside for six days. Rescue operations have been underway to find a way through the debris and rescue the workers. The National Disaster Response Force (NDRF) and State Disaster Response Force (SDRF) have been working tirelessly to establish communication and provide food and oxygen to the trapped workers. A new high-powered auger drilling machine has been brought in to create a passage for the workers to come out. The rescue teams are using the 'trenchless' technique with wide steel pipes. As of the latest report, the machine had drilled 21 meters through the rubble. The NDRF chief expressed hope that the workers would be brought out within the next 12 to 15 hours. However, government officials anticipate the rescue operation could take an additional two to three days. The trapped workers have been supplied with essential provisions but may require physical and mental rehabilitation upon rescue. Doctors are concerned about their well-being due to prolonged confinement and potential health risks. A makeshift health facility and ambulances with doctors have been set up outside the tunnel to provide immediate medical care.
-
-Fri, 17 Nov 2023 08:51:27 +0530
-### [Who are the Palestinian and Jewish-led groups in the US leading protests against Israel's actions in Gaza?](https://www.firstpost.com/explainers/who-are-the-palestinian-and-jewish-led-groups-in-the-us-leading-protests-against-israels-actions-in-gaza-13396092.html)
-
-Article found but Couldn't summarize 
-Who are the Palestinian and Jewish-led groups in the US leading protests against Israel's actions in Gaza?
-
-Thu, 16 Nov 2023 19:01:40 +0530
-### [Why are the polls in Argentina being called the ‘first ever AI election?’](https://www.firstpost.com/explainers/why-are-the-polls-in-argentina-being-called-the-first-ever-ai-election-13394202.html)
-
-Argentina is witnessing its first-ever Artificial Intelligence (AI)-powered election as the country's presidential candidates, Javier Milei and Sergio Massa, leverage AI technology to promote themselves and attack their opponents. Both candidates are using AI-generated campaign posters to appeal to voters. Massa's team has used AI to depict Milei as unstable by placing his face on characters from movies like Clockwork Orange and Fear and Loathing in Las Vegas. They have also created a deepfake video showing Milei discussing the concept of a human organ market. Concerns have been raised about the extensive use of AI in elections, with experts warning about the potential for spreading misinformation and the lack of regulations in place. While Argentina is at the forefront of using AI in politics, other countries like the US and India have also seen instances of AI manipulation during elections. Tech giants like Google and Meta are taking steps to curb the spread of AI-generated misinformation by implementing policies that require disclosure of AI-generated content in political ads.
-
-Thu, 16 Nov 2023 18:09:02 +0530
-### [FirstUp: MP, Chhattisgarh go to polls, Musk's Starship to takeoff… The big news for today](https://www.firstpost.com/explainers/firstup-mp-chhattisgarh-go-to-polls-musks-starship-to-takeoff-the-big-news-for-today-13394912.html)
-
-On November 17, 2023, India secured its place in the finals of the ICC World Cup 2023. However, there are other notable events happening on this day. Madhya Pradesh is holding its assembly elections, with 230 seats up for voting. The state has a total of 5.6 crore voters, including 2.88 crore male voters and 2.72 crore female voters. Congress leader Kamal Nath expressed confidence in the voters, while the BJP aims to maintain power in the state. Additionally, the second phase of voting is taking place in Chhattisgarh, where 70 seats are being contested by 958 candidates. The Congress hopes to retain power under Chief Minister Bhupesh Baghel, while PM Narendra Modi campaigned against corruption and the rise of Maoists. Results for both states will be announced on December 3, along with Rajasthan, Telangana, and Mizoram. In the realm of space, Elon Musk's SpaceX plans to launch the second test flight of its Starship rocket, designed to carry 100 people to Mars. Mohamed Muizzu will also be inaugurated as the president of Maldives, raising questions about the country's bilateral ties with India due to his pro-Chinese stance. Additionally, on this day in 1869, the Suez Canal was officially opened, providing a significant shipping route. Lastly, in Mumbai, on November 17, 2012, Shiv Sena's Bal Thackeray passed away, prompting mourning and tributes.
-
-Thu, 16 Nov 2023 18:07:30 +0530
-### [Madhya Pradesh Elections 2023: Who are the key contenders? What are the hot-button issues?](https://www.firstpost.com/explainers/madhya-pradesh-assembly-elections-2023-bjp-congress-key-contenders-hot-button-issues-13394622.html)
-
-The state of Madhya Pradesh is preparing for Assembly elections, with the main contenders being the ruling Bharatiya Janata Party (BJP) and the Congress. Other parties like Samajwadi Party (SP), Bahujan Samaj Party (BSP), and Communist Party of India (Marxist) are also participating. Over 5.6 crore voters will decide the fate of more than 2,000 candidates. Out of the total candidates, 472 have declared criminal cases against them, with 291 facing serious charges. Key contenders include BJP's Shivraj Singh Chouhan, Congress' Kamal Nath, and various other candidates from both parties. The election issues revolve around anti-incumbency, welfare schemes, farm loan waivers, crimes against women, Hindutva politics, tribal representation, unemployment, corruption, and caste-based reservations. The outcome of these elections will have implications for the Lok Sabha elections next year.
-
-Thu, 16 Nov 2023 17:35:33 +0530
-### [In graphics | How anti-smog guns can help fight Delhi's air pollution](https://www.firstpost.com/explainers/in-graphics-how-anti-smog-guns-can-help-fight-delhis-air-pollution-13394382.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.Delhi and its neighboring regions continue to experience "very poor" air quality with an overall air quality index (AQI) of 386. The Central Pollution Control Board reported AQI levels of 442 in Bawana, 418 in RK Puram, 418 in Jahangirpuri, 441 in Dwarka, 412 in Anand Vihar, 412 in ITO, and 401 near the Delhi airport. The city is currently implementing the graded response action plan (GRAP) to control air pollution. Measures such as a ban on firecrackers, construction activities, and pollution-emitting trucks have been put in place. The government has also instructed agencies to use anti-smog guns to reduce dust emissions at construction sites and other strategic locations. Environment Minister Gopal Rai announced a campaign to sprinkling water on the roads of Delhi to further reduce pollution levels. Additionally, anti-smog guns have been placed in pollution hotspots. The article raises questions about the purpose and effectiveness of anti-smog guns in reducing air pollution.
-
-Thu, 16 Nov 2023 17:34:49 +0530
-### [What is APEC and why was India’s membership bid rejected?](https://www.firstpost.com/explainers/what-is-apec-and-why-was-indias-membership-bid-rejected-13394582.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses India's participation in the Asia-Pacific Economic Cooperation (APEC) summit in San Francisco. APEC is a grouping of economies around the Pacific Ocean that aims to promote trade, investment, and economic development in the region. While India is not a member of APEC, Union Minister for Commerce and Industry Piyush Goyal attended the summit. The article explores why India is not a member of APEC, citing reservations about India's "protectionist instincts" and its economic reforms. However, becoming an APEC member could benefit India by promoting closer economic relations, facilitating trade and investment flows, and opening market access. The article also mentions Goyal's participation in the Indo-Pacific Economic Framework (IPEF) ministerial meeting and highlights the meeting between US President Joe Biden and Chinese President Xi Jinping during the summit.
-
-Thu, 16 Nov 2023 16:28:17 +0530
-### [What's fentanyl, the opioid at the centre of Biden-Xi talks, which led to 70,000 deaths in US?](https://www.firstpost.com/explainers/whats-fentanyl-the-opioid-at-the-centre-of-biden-xi-talks-which-led-to-70000-deaths-in-us-13394002.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.US President Joe Biden announced that China has agreed to take action to curb the influx of fentanyl, a synthetic opioid responsible for over 70,000 deaths in the previous year. During a meeting with Chinese President Xi Jinping at the Asia-Pacific Economic Cooperation conference in San Francisco, they discussed various topics including high-level military communication, artificial intelligence, and Taiwan. Fentanyl is a highly potent opioid that is 100 times stronger than morphine and 50 times stronger than heroin. It is commonly used for pain relief and can be prescribed as pills, patches, or injections. Illegally produced fentanyl, often sold as fake prescription medications, has played a major role in overdose deaths in the US. China has been a significant source of fentanyl, but the government banned its production and sale in 2019. However, Chinese vendors have adapted by using online networks and sophisticated shipping methods to continue selling fentanyl analogues and precursor chemicals. Following the meeting, China agreed to crack down on companies producing fentanyl precursors. The agreement aims to combat the global illicit drug trade and establish a working group for ongoing coordination on counter-narcotics issues.
-
-Thu, 16 Nov 2023 16:25:30 +0530
-### [Will pandas return to the US following Xi Jinping and Joe Biden's talks?](https://www.firstpost.com/explainers/will-pandas-return-to-the-us-following-xi-jinping-and-joe-bidens-talks-13393322.html)
-
-During a meeting between US President Joe Biden and Chinese President Xi Jinping at the APEC summit, the two leaders discussed various matters, including the restoration of military communications and the reduction of fentanyl manufacturing. In addition to these topics, President Xi also mentioned China's plan to send new pandas to the United States, referring to them as "envoys of friendship." Pandas have long been used as a diplomatic tool by China to strengthen relationships and foster goodwill. The gesture of sending pandas to the US is seen as a symbol of the friendship between the two countries. The article traces the history of panda diplomacy, starting from when China gifted a pair of pandas to the National Zoo in Washington in 1972. It also highlights how panda exchanges with other countries have coincided with trade agreements and partnerships. The number of pandas in the United States has declined over the years due to worsening US-China relations, but efforts to renew the panda conservation program with the National Zoo are underway.
-
-Thu, 16 Nov 2023 15:02:47 +0530
-### [What's causing cricketers to cramp during World Cup matches?](https://www.firstpost.com/explainers/icc-world-cup-cricketers-shubman-gill-glenn-maxwell-cramps-matches-causes-prevention-treatment-13392872.html)
-
-Hmm, I am notIndia defeated New Zealand by 70 runs in the ICC Men's Cricket World Cup 2023 semi-final match, securing a spot in the final. India set a huge target of 397 runs, with Virat Kohli and Shreyas Iyer scoring centuries, and Shubman Gill contributing 80 runs before retiring hurt due to cramps. Mohammed Shami and the Indian bowlers performed well, dismissing New Zealand for 327. Former Australian pacer Simon O'Donnell criticized New Zealand for helping Kohli when he experienced cramps during his innings. Cramping has become a common occurrence in the World Cup, with players like Glenn Maxwell also suffering from it. The article explores the causes of cramps, including dehydration, weather conditions, neuromuscular fatigue, and reduced blood flow. Experts suggest preventive measures such as staying hydrated, stretching properly, massage, and taking magnesium or calcium supplements. Some athletes have found drinking pickle juice helpful in preventing cramps.
-
-Thu, 16 Nov 2023 15:02:47 +0530
-### [Uttarakhand tunnel collapse: How safe are trapped workers, as rescue op enters Day 5?](https://www.firstpost.com/explainers/how-safe-are-workers-trapped-inside-uttarkashi-tunnel-as-rescue-op-enters-day-5-13392242.html)
-
-Rescue and relief operations are underway in Uttarkashi, Uttarakhand, after a tunnel under construction on the Char Dham Pilgrimage route collapsed, trapping 40 workers inside. The rescue operation has been ongoing for more than 100 hours, with difficulties arising due to an auger machine struggling to clear the debris. The trapped workers are receiving essential supplies through a six-inch pipe, but health problems have started to surface. Workers have complained of headaches and nausea, possibly due to lack of oxygen and the confined space. Concerns have also been raised about mental challenges such as stress, anxiety, loneliness, and depression. Family members of the trapped workers protested against the delay in evacuation. Rescue efforts have been hindered by landslides and technical challenges, but a specialized drilling machine has been brought in to expedite the operation. Indian authorities have sought advice from the Thai company that rescued children from a flooded cave in 2018.
-
-Thu, 16 Nov 2023 14:43:51 +0530
-### [Personal or political? What’s the reason behind Sonia Gandhi’s temporary shift to Rajasthan?](https://www.firstpost.com/explainers/sonia-gandhi-jaipur-visit-rajasthan-assembly-election-delhi-air-pollution-13393242.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.Senior Congress leader Sonia Gandhi is currently in Jaipur, Rajasthan for a personal visit. The Congress party has stated that she has shifted base to avoid the deteriorating air quality in Delhi. However, her visit carries political implications as Rajasthan is going to polls on 25 November. The state has a tradition of ousting the incumbent government since the Assembly elections in 1993. Sonia Gandhi's visit is seen as an attempt to fortify Congress' prospects in the state, especially considering their recent decline in opinion polls. Her presence is expected to energize the party cadre and signal to Chief Minister Ashok Gehlot and former Deputy Sachin Pilot to give their best. In return, Rahul and Priyanka Gandhi will join Sonia for roadshows and public meetings to attract voters. Overall, Sonia's visit aims to boost Congress' chances in Rajasthan, with the party not wanting to be blamed for not trying hard to retain the state.
-
-Thu, 16 Nov 2023 13:12:42 +0530
-### [Al-Shifa Hospital raid: What has Israel military found? Are patients safe?](https://www.firstpost.com/explainers/al-shifa-hospital-raid-what-has-israel-military-found-are-patients-safe-13392912.html)
-
-Gaza's largest hospital, Al-Shifa, has been the focus of the conflict between Israel and Hamas. Israeli forces raided the hospital, claiming that it is being used by Hamas for military purposes. Civilians, including patients, health workers, and displaced people seeking refuge, remain trapped inside the hospital. The Israeli soldiers entered the hospital with tanks and other military vehicles, preventing anyone from leaving. Inside the hospital, Israeli troops reportedly engaged with Hamas members and found an operational command center and weapons belonging to Hamas. The IDF spokesperson stated that Hamas had systematically used the hospital for military operations. Hamas denies these claims and describes them as lies and propaganda. The safety of the patients in the hospital is at risk, as they are without power, water, and oxygen. Doctors have been forced to perform surgeries without proper anesthesia. International organizations have condemned Israel's actions and called for the protection of medical staff and patients. The World Health Organization has deemed the Israeli incursion into the hospital as totally unacceptable.
-
-Thu, 16 Nov 2023 11:10:13 +0530
-### [Why are Yemen’s Houthis attacking Israel? What threat do they pose in the war in Gaza?](https://www.firstpost.com/explainers/why-are-yemens-houthis-attacking-israel-what-threat-do-they-pose-in-the-war-in-gaza-13392092.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.The Houthi movement in Yemen has fired a US drone, raising concerns of a regional escalation after formally declaring war on Israel. The Iran-linked militia, controlling parts of Yemen, vowed to continue assaulting Israel, potentially targeting Israeli ships in the Red Sea and the Bab al-Mandeb Strait. The attacks are seen as a show of support for Hamas and reflect the Houthis' anti-Western sentiment. While most of their attacks have been intercepted by Israeli air defenses, they pose a threat due to the Houthi's growing arsenal of long-range ballistic missiles, smaller cruise missiles, and suicide drones. The strikes could complicate peace talks between the Houthis and the Saudi government.
-
-Thu, 16 Nov 2023 10:30:21 +0530
-### [Joe Biden calls Xi Jinping a ‘dictator’ after 4-hour talks. What did they discuss?](https://www.firstpost.com/explainers/joe-biden-xi-jinping-san-francisco-meet-apec-sidelines-military-ties-fentanyl-deal-us-china-dispute-13392102.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses the meeting between US President Joe Biden and Chinese President Xi Jinping at the Filoli Estate in California. The leaders met on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit and held talks for over four hours. They made progress on two key objectives: resuming military-to-military communications and cracking down on fentanyl. Biden described the discussions as constructive and productive, emphasizing the importance of understanding each other clearly. The leaders also agreed to establish an intergovernmental dialogue on artificial intelligence and had discussions about Taiwan, Israel, and Hamas. Experts have different opinions on the outcomes of the meeting, with some seeing positive signs for the bilateral relationship while others express concerns. The article also mentions some personal moments during the meeting, such as Biden wishing Xi's wife a happy birthday. Overall, it remains to be seen if the talks will lead to concrete improvements in China-US relations.
-
-Thu, 16 Nov 2023 09:59:28 +0530
-### [In graphics | Can volcano eruptions be predicted?](https://www.firstpost.com/explainers/in-graphics-can-volcano-eruptions-be-predicted-13391882.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.Mount Etna, one of the most active volcanoes in Europe, erupted in Italy, sending ash and lava high into the sky. The eruption was captured in videos circulating on social media. Despite the volcanic activity, Catania Airport remained operational. In addition to Mount Etna, Iceland is also preparing for a volcanic eruption, with a state of emergency declared and residents being evacuated. The article also discusses the reasons behind volcanic eruptions and the possibility of predicting them.
-
-Thu, 16 Nov 2023 09:06:48 +0530
-### [The spectacular rise and fall of Sahara's Subrata Roy](https://www.firstpost.com/explainers/the-spectacular-rise-and-fall-of-saharas-subrata-roy-13391822.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.Subrata Roy, the founder of the Sahara Group, has passed away at the age of 75. He built a massive financial empire starting with a small loan in 1978, but faced numerous legal challenges as the business grew. Despite battling court cases and regulators, Roy continued to expand his empire. The Sahara Group's portfolio included financial services, real estate, hotels, an IPL cricket team, and a Formula One racing team. However, allegations were made that the funds collected by Sahara actually belonged to politicians, cricketers, and Bollywood stars. The Securities and Exchange Board of India (SEBI) launched a probe into Sahara's activities after receiving complaints about undisclosed convertible bonds. The legal battle between Sahara and SEBI became protracted, eventually leading to Roy being sent to Tihar jail. While the case was ongoing, Sahara continued to collect funds, claiming that all investors received their money back with returns. Eventually, Sahara deposited over ₹24,000 crore with SEBI. Currently, SEBI has managed to refund only about ₹138 crore, while the remaining corpus in SEBI's account exceeds ₹25,000 crore.
-
-Wed, 15 Nov 2023 17:15:54 +0530
-### [FirstUp: It’s PM Modi vs Rahul Gandhi in Rajasthan and much more](https://www.firstpost.com/explainers/firstup-its-pm-modi-vs-rahul-gandhi-in-rajasthan-and-much-more-13390522.html)
-
-In this article, it is mentioned that Prime Minister Narendra Modi will address a public meeting in Barmer district of Rajasthan as part of the upcoming Assembly polls. The BJP will also release its election manifesto for Rajasthan, which includes relief measures for government employees and benefits for the unorganised work sector. Congress leader Rahul Gandhi will hold rallies in different locations in Rajasthan. Rajasthan Chief Minister Ashok Gehlot's son will appear before the Enforcement Directorate in connection with alleged violations of foreign exchange rules. Defence Minister Rajnath Singh will attend a two-day ASEAN defence ministers' meeting in Jakarta. The ICC World Cup 2023 second semi-final will be between South Africa and Australia. India will play Kuwait in the FIFA World Cup qualifiers. It is also mentioned that UNESCO was formed on this day in 1945, and Prince William and Kate Middleton got engaged thirteen years ago.
-
-Wed, 15 Nov 2023 15:35:10 +0530
-### [What’s causing a delay in the rescue of 40 trapped labourers in Uttarkashi tunnel?](https://www.firstpost.com/explainers/uttarkashi-tunnel-delay-rescue-operations-trapped-labourers-13390012.html)
-
-Forty labourers have been trapped inside a tunnel in Uttarkashi, India for five days. Fellow workers staged a protest at the site of the accident due to the slow pace of rescue operations. The delay in rescuing the trapped labourers is attributed to landslides, loose rocks, and technical problems. The hilly terrain and soft rocks in the region have made digging difficult. The use of an auger machine to install steel pipes failed, prompting the arrival of a new machine from Delhi. Despite the challenges, efforts are being made to provide the trapped workers with food and oxygen through a pipe. Family members remain skeptical about the progress of the rescue operation. Experts question the cause of the tunnel collapse and suggest inadequate investigations and faulty construction practices as potential reasons. Uttarakhand is constructing the 4.5-km tunnel as part of Prime Minister Narendra Modi's Char Dham project.
-
-Wed, 15 Nov 2023 13:18:36 +0530
-### [Hamas headquarters or hospital? Why has Israel stormed Gaza's Al-Shifa?](https://www.firstpost.com/explainers/hamas-headquarters-israel-operation-gaza-al-shifa-hospital-patients-medical-staff-13389412.html)
-
-The Al-Shifa Hospital in Gaza City, the largest and most advanced hospital in the Gaza Strip, has ceased functioning due to a lack of power and water supply. Israeli troops from the Israel Defense Forces (IDF) recently raided the hospital, claiming that Hamas, the Palestinian militant group, was using it as a command center for military operations and hostages. The hospital officials and the Hamas-run Gaza Health Ministry have denied these allegations. The IDF stated that they are conducting a targeted operation against Hamas inside the hospital based on intelligence information. The raids have put the patients, staff, and displaced civilians seeking shelter at the hospital at risk. The IDF spokesperson referred to the hospital as the "beating heart" of Hamas. Israel claims that Hamas is using hospitals to conceal weapons and operate command centers, while Hamas denies these accusations. The legality of the raids is being questioned, as hospitals are afforded special protections during times of war unless they are being used by combatants to hide fighters or store weapons.
-
-Wed, 15 Nov 2023 11:31:23 +0530
-### [What is Viksit Bharat Sankalp Yatra that PM Modi is launching from Birsa Munda's birthplace?](https://www.firstpost.com/explainers/what-is-viksit-bharat-sankalp-yatra-that-pm-modi-is-launching-from-birsa-mundas-birthplace-13387502.html)
-
-Prime Minister Narendra Modi is visiting Jharkhand to launch several government schemes. He began his visit by visiting the Freedom Fighter Museum and paying tribute to tribal icon Ulihatu village, where he was born. During the visit, PM Modi will also launch the "Viksit Bharat Sankalp Yatra," which aims to create awareness and provide welfare benefits to tribals across the country. The yatra will start from districts with significant tribal populations and eventually cover all districts by January 2024. Additionally, PM Modi will inaugurate the Pradhan Mantri Particularly Vulnerable Tribal Groups Mission, a scheme focused on the overall development of around 28 lakh people across 18 states and union territories. Other schemes to be launched include the Pradhan Mantri Kisan Samman Nidhi and various infrastructure projects.
-
-Wed, 15 Nov 2023 10:19:29 +0530
-### [What's Cyprus Confidential, probe showing how Russia’s wealth was protected?](https://www.firstpost.com/explainers/cyprus-confidential-icij-probe-russia-wealth-sanctions-cyprus-safe-haven-13388712.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.Cyprus Confidential is an investigation conducted by the International Consortium of Investigative Journalists (ICIJ) and involved more than 270 journalists from 69 global media outlets. The investigation analyzed 3.6 million leaked documents from six offshore service providers in Cyprus, revealing how the country became a hub for Russian money-laundering and helped Russian billionaires avoid Western sanctions. The investigation highlighted the use of financial services firms on the island by 67 out of 105 Russian billionaires on Forbes' World's Billionaires List to conceal their wealth. The probe also shed light on the financial activities of individuals like Roman Abramovich, who denied his links to Russian president Vladimir Putin, and Alexey Mordashov, a steel magnate who allegedly received assistance from PricewaterhouseCoopers (PwC) in transferring assets despite being under EU sanctions. The investigation also uncovered connections between German journalist Hubert Seipel and an oligarch close to Putin, raising concerns about a conflict of interest. Reactions to the revelations include German broadcaster NDR considering legal action against Seipel and Cyprus authorities vowing to investigate the allegations to safeguard the country's reputation.
-
-Wed, 15 Nov 2023 09:05:45 +0530
-### [Is COVID making a return to China this winter?](https://www.firstpost.com/explainers/is-covid-making-a-return-to-china-this-winter-13387042.html)
-
-Chinese experts have issued an alert about a potential increase in COVID-19 infections during the winter season. The Chinese Centre for Disease Control and Prevention reported 209 new severe COVID-19 cases and 24 deaths in October, with the prevalent strains being XBB variants. Leading respiratory illness expert Zhong Nanshan warned of a minor COVID-19 surge in the winter and advised vulnerable and elderly populations to get vaccinated. The virus is mutating, and people's ability to fight off the disease is declining. There may also be a rise in COVID-19 cases during the winter, along with high influenza rates. However, there is no need to be overly concerned, and prevention and control measures should still be implemented.
-
-Wed, 15 Nov 2023 09:05:28 +0530
-### [Joe Biden and Xi Jinping to meet at APEC summit: Why this is significant](https://www.firstpost.com/explainers/joe-biden-xi-jinping-apec-summit-san-francisco-us-china-ties-significance-13387432.html)
-
-The article discusses the upcoming meeting between US President Joe Biden and Chinese President Xi Jinping on the sidelines of the APEC summit in San Francisco. It highlights that this will be only the second time the two leaders meet since Biden assumed presidency. The article mentions various issues that may be discussed during the meeting, including Taiwan, the Israel-Hamas war, the use of artificial intelligence in weaponry, the flow of fentanyl from China to the US, and China's influence on North Korea. However, experts caution against expecting major breakthroughs from the meeting due to the difficulty of achieving realistic outcomes and the domestic challenges faced by both leaders. Nevertheless, the article notes that simply holding the meeting is seen as a win for both countries and the world.
-
-Wed, 15 Nov 2023 07:53:00 +0530
-### [FirstUp: Joe Biden-Xi Jinping meet, India vs New Zealand and more… The big news today](https://www.firstpost.com/explainers/firstup-joe-biden-xi-jinping-meet-india-vs-new-zealand-and-more-the-big-news-today-13388072.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.US President Joe Biden is scheduled to meet with Chinese President Xi Jinping in San Francisco, marking their first in-person meeting in a year. The meeting will take place on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit, and the leaders will discuss strengthening communication and managing competition. Biden aims to make progress in restoring military-to-military ties with China. In other news, Indian Prime Minister Narendra Modi will launch the 'Viksit Bharat Sankalp Yatra,' a program aimed at saturating the Centre's flagship schemes in 2.7 lakh panchayats by January 2024. Modi will also unveil a scheme for the holistic development of Particularly Vulnerable Tribal Groups. Additionally, India will be playing against New Zealand in the semi-finals of the ICC Cricket World Cup, providing an opportunity to overcome the bitter memories of their loss in the 2019 World Cup semis. The Association of Southeast Asian Nations will convene the ASEAN Defense Ministers' Meeting in Indonesia, addressing challenges in the region, including tensions in the South China Sea. Maratha quota activist Manoj Jarange-Patil will begin his tour of the state, focusing on understanding issues faced by the Maratha community. Lastly, the Andhra Pradesh High Court will hear TDP chief N Chandrababu Naidu's bail petition in the Skill Development Corporation Scam case.
-
-Tue, 14 Nov 2023 18:12:33 +0530
-### [Is Hamas using Gaza hospitals to carry out terror operations?](https://www.firstpost.com/explainers/is-hamas-using-gaza-hospitals-to-carry-out-terror-operations-13387672.html)
-
-Article found but Couldn't summarize 
-Is Hamas using Gaza hospitals to carry out terror operations?
-
-Tue, 14 Nov 2023 17:44:16 +0530
-### [What does David Cameron’s return mean for British politics?](https://www.firstpost.com/explainers/uk-david-cameron-return-mean-for-british-politics-pm-rishi-sunak-brexit-foreign-policy-13387482.html)
-
-Former UK Prime Minister David Cameron has made a surprising political comeback as the country's new foreign secretary. The move by current Prime Minister Rishi Sunak is seen as a risky gamble, as his ruling Conservative Party trails behind the Opposition Labour Party in the opinion polls. Sunak's decision to bring back Cameron is viewed as a desperate attempt to unite the Conservative Party and appeal to moderates. However, critics argue that it may give the impression that Sunak couldn't find enough competent people within his own party. Cameron's return has been labeled as bizarre and desperate by Scotland's political party, the Scottish Greens. The article also highlights that Cameron's appointment comes at a critical time, with looming Brexit challenges, tensions with China, Russia's war in Ukraine, and Israel's conflict with Hamas. Overall, Cameron's political comeback raises questions about the direction of UK politics and the effectiveness of Sunak's leadership.
-
-Tue, 14 Nov 2023 16:26:49 +0530
-### [Volcanic eruption looms large in Iceland: How devastating could it be?](https://www.firstpost.com/explainers/volcanic-eruption-looms-large-in-iceland-how-devastating-could-it-be-13386652.html)
-
-GPT-3.5: According to the provided article, Iceland has declared a state of emergency due to an imminent volcanic eruption. Scientists have observed changes indicating that magma is moving closer to the surface, specifically in an area northeast of Grindavík. As a precautionary measure, authorities have already evacuated residents from Grindavik. While there is a possibility of damage to infrastructure and the release of hazardous gases, the initial concerns about significant disruption are starting to recede. The exact location of the eruption will determine its effects on Iceland and neighboring countries in terms of aviation. It is important to note that as GPT-3.5, I can provide information based on the given text, but for real-time updates and specific details, it is best to refer to reliable news sources.
-
-Tue, 14 Nov 2023 15:23:21 +0530
-### [Will India become a part of the 19-country club that allows transgenders in the military?](https://www.firstpost.com/explainers/india-transgenders-armed-forces-countries-military-action-us-uk-canada-israel-lgbtq-rights-13386082.html)
-
-India is considering allowing the recruitment of transgender individuals into the Armed Forces, joining 19 other countries that already permit trans soldiers. While India has made progress in providing equal rights to the LGBTQ+ community, including allowing women in the military, transgenders are currently not permitted to serve. A study group has been formed to examine the implications and potential challenges of this move. Some concerns include housing, administrative issues, and the impact on opportunities for others. Various countries around the world, including the Netherlands, Sweden, Canada, Israel, the UK, and New Zealand, have already accepted transgender soldiers into their armed forces. The United States has had a complex history with transgender service members, with a ban imposed by former President Donald Trump later reversed by President Joe Biden.
-
-Tue, 14 Nov 2023 14:04:02 +0530
-### [World Diabetes Day 2023: Is air pollution behind spike in diabetes in India?](https://www.firstpost.com/explainers/world-diabetes-day-2023-air-pollution-type-2-diabetes-risk-india-13386422.html)
-
-The article discusses the link between air pollution and an increased risk of type 2 diabetes. After Diwali, air pollution levels spiked in several cities in India, including Delhi and Mumbai. These cities continue to rank among the most polluted in the world. The World Health Organization estimates that over 400 million people worldwide have diabetes, with a significant number in low- and middle-income countries like India. A researcher explains that Indians' susceptibility to diabetes is due to their low body mass index but high proportion of fat. Type 2 diabetes occurs when blood glucose levels are too high, and it is the most common type of diabetes. A study conducted in India found that inhaling polluted air, specifically fine particulate matter (PM2.5), increases the risk of type 2 diabetes. The study analyzed data from over 12,000 adults in Delhi and Chennai from 2010 to 2017 and found that exposure to PM2.5 led to elevated blood sugar levels and a higher risk of diabetes. Experts suggest that air pollution heightens the risk of diabetes through increased oxidative stress and damage to the pancreas's beta cells, which decrease insulin production. Additionally, air pollution has been linked to insulin resistance and inflammation, impacting glucose metabolism and cardiovascular health. The article also mentions the indirect link between air pollution and diabetes, as pollution levels often lead to a sedentary lifestyle due to limited outdoor activities.
-
-Tue, 14 Nov 2023 14:00:24 +0530
-### [Two uteri, two pregnancies: The very rare case of an American woman](https://www.firstpost.com/explainers/two-uteri-two-pregnancies-the-very-rare-case-of-an-american-woman-13385962.html)
-
-As GPT-3.5, I can provide a summary of the article you shared. Kelsey Hatcher, a woman from Alabama, has a rare medical condition where she has two uteri and two cervixes. She is currently 34 weeks pregnant and is expecting twins, with one baby in each uterus. This unique pregnancy has attracted attention and has become the focus of a case study. The likelihood of having twins in each uterus is extremely rare, and the pregnancy is considered high risk. A team of experts will be involved in monitoring the delivery procedure, as each uterus may contract at different times. The classification of the newborns is still debated in medicine. Despite the excitement of having two new family members, Kelsey and her husband have decided that this will be their last pregnancy. A double uterus, also known as a double cervix, is a rare condition where the two small tubes that normally unite to create the uterus do not join completely, resulting in separate organs.
-
-Tue, 14 Nov 2023 13:02:58 +0530
-### [Babies dying, bodies rotting: Inside Gaza’s largest hospital which has stopped functioning](https://www.firstpost.com/explainers/babies-dying-bodies-rotting-inside-al-shifa-gaza-largest-hospital-which-has-stopped-functioning-13386142.html)
-
-The situation at Al-Shifa Hospital in Gaza is dire as Israel's ongoing attack on the Hamas-controlled enclave has led to a healthcare crisis. The hospital, Gaza's largest medical facility, has stopped functioning and essential units have collapsed. Tanks and armored vehicles are positioned near the hospital, trapping thousands of displaced individuals inside. With power cuts and a lack of fuel, the hospital is struggling to save lives. At least 32 patients, including three newborn babies, have died due to the siege and power outage. Babies requiring intensive care are at great risk as incubators are shut off, and doctors resort to wrapping them in foil and keeping them next to hot water for warmth. The lack of electricity, food, water, and equipment further complicates efforts to save newborns. The hospital is overwhelmed, with infants transmitting viruses to each other due to inadequate infection control measures. The dire conditions have left doctors and nurses emotionally and physically exhausted. Alongside the infants, there are around 7,000 people sheltering at the hospital, including patients and medical staff. Bodies are piling up, and dogs have resorted to eating corpses. The World Health Organization warns that the hospital is nearly a cemetery. Israel has accused Hamas of operating a command center under the hospital, but these claims have been denied by Hamas and Gaza health ministry officials who believe it is propaganda to justify attacks on health facilities. Despite international calls for protection, the Israeli onslaught continues.
-
-Tue, 14 Nov 2023 12:02:26 +0530
-### [How a massive steel pipe will rescue 40 labourers trapped in Uttarkashi tunnel](https://www.firstpost.com/explainers/how-a-massive-steel-pipe-will-rescue-40-labourers-trapped-in-uttarkashi-tunnel-13385102.html)
-
-A tunnel that was under construction in Uttarkashi district, India, collapsed, leaving 40 laborers trapped inside. The rescue operation is underway, with authorities coordinating efforts to save the workers. Medical experts have highlighted the physical and psychological challenges faced by the trapped laborers. The tunnel, being constructed as part of the Char Dham all-weather road project, aims to shorten the distance between Uttarkashi and Yamunotri town. Past incidents of collapse in the same section caused delays in construction. An investigation is ongoing to determine the cause of the collapse. Rescue teams are facing difficulties due to falling debris but have established communication with the trapped workers. Prime Minister Narendra Modi and Uttarakhand Chief Minister Pushkar Singh Dhami have been monitoring the rescue efforts and assured the availability of resources and technical assistance. The rescue operation may take a couple more days to complete.
-
-Tue, 14 Nov 2023 10:55:46 +0530
-### [Why David Cameron is a surprising choice as new UK foreign policy chief](https://www.firstpost.com/explainers/why-david-cameron-is-a-surprising-choice-as-new-uk-foreign-policy-chief-13385332.html)
-
-Former UK Prime Minister David Cameron has been named as the foreign secretary, a highly unusual move for a former leader and non-lawmaker. Cameron resigned in 2016 after advocating for Britain to remain in the European Union during the Brexit referendum. He will be appointed to the House of Lords, the unelected upper chamber of Parliament. While Cameron's return to government is not unprecedented, it has raised concerns about accountability. During his tenure, Cameron implemented austerity measures and held the Brexit vote, both of which continue to have a significant impact on the UK. He also fostered closer ties with China, which has since been criticized. Cameron was recently embroiled in a lobbying scandal, prompting calls for tighter regulations. The appointment of Cameron as foreign secretary has been seen as a gamble by Prime Minister Rishi Sunak, with some questioning Cameron's accountability as he serves as an appointed Lord rather than an elected lawmaker.
-
-Tue, 14 Nov 2023 10:25:33 +0530
-### [World Diabetes Day 2023: Does too much salt really enhance the risk of type 2 diabetes?](https://www.firstpost.com/explainers/does-too-much-salt-really-enhance-the-risk-of-type-2-diabetes-13356012.html)
-
-A new study conducted by researchers at Tulane University in New Orleans suggests that there may be a link between salt consumption and the risk of developing type 2 diabetes. The study, which followed around 400,000 adults for nearly twelve years, found that approximately 13,000 participants developed type 2 diabetes. However, it is important to note that this study only suggests an association between salt use and the risk of developing type 2 diabetes, and further research is needed to establish a causal relationship. The study also faced limitations in terms of data quality, as the assessment of salt use was based on a simple question that did not provide detailed information about the amount of salt associated with an increased risk of developing type 2 diabetes. While reducing salt intake is generally recommended for overall health, it is important to focus on known factors that reduce the risk of type 2 diabetes, such as maintaining a healthy weight, being physically active, and eating a healthy diet.
-
-Tue, 14 Nov 2023 10:12:15 +0530
-### [Why Pakistan, China’s naval exercises in Arabian Sea are a security concern for India](https://www.firstpost.com/explainers/pakistan-china-naval-exercises-sea-guardian-3-arabian-sea-security-concern-india-13385312.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.China and Pakistan are conducting a joint naval exercise in the northern Arabian Sea called Sea Guardian-3, which is the largest-ever joint exercise between the two countries. The exercise aims to enhance their strategic partnership and defense cooperation. It will involve training courses such as formation maneuvering, search and seizure operations, joint search and rescue, and anti-submarine warfare. Experts believe that China and Pakistan's common interests lie in safeguarding strategic sea lanes and contributing to peace and stability in the Indian Ocean region. The Chinese navy has deployed several assets including a destroyer, frigates, a submarine, and a supply ship, while Pakistan has contributed nine vessels, helicopters, fighter jets, and marines. India has expressed concern about China's increased naval activity in the Indian Ocean and its growing closeness with Pakistan. China's ability to project naval power in distant waters and its establishment of ports in the Indian Ocean region have raised alarm bells for India. Furthermore, China's support in modernizing Pakistan's navy is seen as an attempt to challenge India's naval strength and change the status quo in the region.
-
-Tue, 14 Nov 2023 08:56:40 +0530
-### [Biden-Xi to meet at APEC summit: How the South China Sea and Taiwan tensions remain](https://www.firstpost.com/explainers/biden-xi-to-meet-at-apec-summit-how-the-south-china-sea-and-taiwan-tensions-remain-13385022.html)
-
-US President Joe Biden and Chinese President Xi Jinping are set to meet in San Francisco as part of the annual Asia-Pacific Economic Cooperation summit. This meeting is expected to be the most significant bilateral encounter of the year. The previous year has seen some progress in US-China relations, but also highlights the potential for agreements to go off track. Tensions over Taiwan and the South China Sea continue to pose challenges. Despite these obstacles, the hope is that the leaders will establish a foundation for meaningful dialogue on various issues.
-
-Mon, 13 Nov 2023 20:38:27 +0530
-### [How IDF killed Hamas commander Ahmed Siam, who held 1000 hostages in Gaza](https://www.firstpost.com/explainers/how-idf-killed-hamas-commander-ahmed-siam-who-held-1000-hostages-in-gaza-13384492.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses the ongoing conflict between Israel and Hamas in Gaza. It mentions that over 11,000 Palestinians, mostly women and minors, have been killed in Israeli airstrikes, while about 1,200 people have died on the Israeli side. The Israel Defense Forces (IDF) claimed to have killed a Hamas commander named Ahmed Siam, who allegedly held residents and patients hostage at Rantisi Hospital. The IDF accused Hamas of using civilians as human shields. The article also reports that dozens of people were killed in Israeli strikes on a school. Gaza's largest hospital, Al Shifa, has stopped working due to fighting outside, leaving hundreds of patients stranded. The United Nations Palestinian refugee agency is facing difficulties in providing essential services due to a lack of fuel.
-
-Mon, 13 Nov 2023 19:40:59 +0530
-### [How Britain’s ex-PM David Cameron has returned from political wilderness](https://www.firstpost.com/explainers/britain-ex-pm-david-cameron-foreign-secretary-political-wilderness-rishi-sunak-conservative-party-13383982.html)
-
-British prime minister Rishi Sunak surprised the country by appointing former prime minister David Cameron as the new Foreign Secretary. This decision was part of a Cabinet reshuffle that also saw Home Secretary Suella Braverman being replaced by James Cleverly. Cameron, who kept a low profile since his resignation in 2016, returns to politics after working in business and writing his memoirs.
-
-David Cameron rose through the ranks of the Conservative party and became the youngest prime minister in 200 years in 2010, leading a coalition government with the Liberal Democrats. His tenure was marked by issues such as spending cuts and the divisive Brexit referendum. He campaigned for Britain to remain in the EU but ultimately lost the vote and resigned, handing over power to Theresa May.
-
-The significance of Cameron's return lies in the rarity of a non-lawmaker taking on a senior government post and a former prime minister holding a Cabinet job. Despite previous differences between Cameron and Sunak, the new foreign secretary expressed his support for the prime minister and his desire to be part of a strong team. This unexpected appointment is seen as an opportunity for Sunak to gain attention and bridge divides within the Conservative political family.
-
-While moderates in the party welcome Cameron's inclusion, the Labour party criticized Sunak, calling the move a "last gasp act of desperation." They argue that Cameron's appointment shows a lack of talent and ideas within the government. Overall, Cameron's return is expected to have an impact on the upcoming general election and help Sunak focus on international challenges, given his experience and relationships with world leaders.
-
-Mon, 13 Nov 2023 17:51:44 +0530
-### [UK PM fires Suella Braverman: The many controversies of the ex-home secretary](https://www.firstpost.com/explainers/uk-pm-rishi-sunak-fires-suella-braverman-controversies-ex-home-secretary-13383762.html)
-
-UK Prime Minister Rishi Sunak has fired Home Secretary Suella Braverman due to her controversial remarks on the police's handling of pro-Palestinian protesters. Braverman had accused the police of bias and claimed that they were going easy on pro-Palestinian demonstrators while being stern with right-wing protesters. She also faced backlash for defending a proposal to stop charities from providing tents to the homeless, calling homelessness a "lifestyle choice." Additionally, Braverman made comments about asylum seekers pretending to be homosexual or transgender to receive special treatment and stay in the UK, drawing criticism from human rights activists. She also stoked controversy by claiming that child grooming gangs in the UK were mostly British-Pakistani men, which was found to be significantly misleading. Braverman had previously lost her job as home secretary for breaching the ministerial code but was reappointed by Sunak shortly afterward. She also made remarks on Indian immigrants that almost derailed trade deal talks between India and the UK. Braverman is known for her controversial stance on immigration and asylum seekers, including supporting the deportation of asylum seekers to Rwanda. She has used strong language, referring to the arrival of asylum seekers as an "invasion."
-
-Mon, 13 Nov 2023 17:34:39 +0530
-### [Why did Rishi Sunak sack Suella Braverman as UK home secretary?](https://www.firstpost.com/explainers/why-did-rishi-sunak-sack-suella-braverman-as-uk-home-secretary-13383882.html)
-
-Suella Braverman, the home secretary of the United Kingdom, has been sacked by Prime Minister Rishi Sunak due to controversial comments she made about the police's handling of a pro-Palestine march. In an article published in The Times, Braverman accused the police of bias and leniency towards pro-Palestinian demonstrators. This led to anger from opposition lawmakers and members of the Conservative Party, prompting Sunak to ask her to leave government. This decision came as part of a major Cabinet reshuffle, with James Cleverly confirmed as the new home secretary and former PM David Cameron returning as foreign secretary. This is not the first time Braverman has been asked to step down from the same position. She had previously resigned in October last year for sending confidential information through a private email address. Braverman's sacking has been welcomed by rivals, while supporters express sadness at her departure. The government hopes that this cabinet reshuffle, including the return of Cameron, will improve the prospects of the Conservative Party.
-
-Mon, 13 Nov 2023 16:42:14 +0530
-### [FirstUp: Biden gears up for Jinping meet, PM Modi in MP… The news of the day](https://www.firstpost.com/explainers/firstup-biden-gears-up-for-jinping-meet-pm-modi-in-mp-the-news-of-the-day-13383542.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.Today, on Children's Day in India, schools in Delhi are closed due to high pollution levels. Prime Minister Narendra Modi will hold a mega roadshow in Madhya Pradesh ahead of the state's elections. The Congress party will launch the 'Mohabbat ki Dukaan' project, providing food to street children in Delhi, Mumbai, and Bengaluru. US President Joe Biden will host the APEC summit in San Francisco, where he will also have a meeting with China's Xi Jinping. Google CEO Sundar Pichai is expected to testify in the Epic Games lawsuit against Google. On the same day, Britain's King Charles will celebrate his 75th birthday, and the BBC commemorates the 101st anniversary of its first radio broadcast. Lastly, it is World Diabetes Day, aimed at raising awareness about diabetes and its management.
-
-Mon, 13 Nov 2023 16:35:32 +0530
-### [What is APEC? What to expect from the summit happening in San Francisco?](https://www.firstpost.com/explainers/what-is-apec-what-to-expect-from-the-summit-happening-in-san-francisco-13382942.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.The United States is hosting the annual Asia-Pacific Economic Cooperation (APEC) summit in San Francisco. The main focus of the summit is a meeting between President Joe Biden and Chinese president Xi Jinping, with expectations for announcements and agreements to be made. While Biden aims to manage economic competition and reopen military communication, China wants assurances that the US will not support Taiwan independence. APEC is a forum to promote trade and economic development among nations around the Pacific Ocean. It has been effective in reducing tariffs and easing business relations. However, the trade landscape has changed, with the US focusing on economic competition with China. The summit may face tensions due to the Israel-Hamas war, and there could be political participation intrigue involving Taiwan and Hong Kong. The leaders may not have matching outfits for the traditional "family photo" this year.
-
-Mon, 13 Nov 2023 15:07:02 +0530
-### [International law protects hospitals during war. Then why is Israel attacking them?](https://www.firstpost.com/explainers/israel-hamas-war-gaza-hospitals-international-law-al-shifa-al-quds-geneva-conventions-13382722.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.The main hospitals in the Gaza Strip, Al Shifa Hospital and Al-Quds, have been forced to shut down due to the ongoing Israel-Hamas war. The World Health Organization (WHO) reported that Shifa has been without water for three days and is no longer functioning as a hospital. This adds to the already dire situation, as 20 out of Gaza's 36 hospitals are said to be "no longer functioning." Hospitals in Gaza have become targets of Israeli forces, and the entry of aid has been restricted. Despite Israel offering fuel to Al-Shifa hospital, it was not enough to sustain its operations. The lack of power has caused multiple deaths, with patients in intensive care unable to receive the necessary care. Both Al-Shifa and Al Quds hospitals have run out of power, putting patients' lives at risk. Israel claims that Hamas has military assets under hospitals, justifying their attacks, but international laws state that hospitals should be protected and respected in times of conflict. The Geneva Conventions provide special protection to civilian hospitals, but this protection can be lost if armed groups use the hospital for hostile activities. Israel has faced criticism and pressure to comply with international laws and stop attacking hospitals.
-
-Mon, 13 Nov 2023 14:13:58 +0530
-### [Keep the burger down: Why has Colombia brought ‘junk food law’?](https://www.firstpost.com/explainers/colombia-junk-food-law-health-tax-sugary-drinks-obesity-lifestyle-diseases-13382442.html)
-
-Colombia has implemented a "junk food law" that imposes taxes on ultra-processed foods and sugary drinks. The tax will be gradually increased from 10% to 20% by 2025. The law targets ready-to-eat foods high in salt and saturated fat, as well as beverages with high sugar content. Health warnings will also be added to unhealthy products. The aim is to address the country's rising obesity rates, high salt consumption, and non-communicable diseases linked to diet and obesity such as diabetes. While the law is seen as a significant public health measure, there are concerns about its impact on inflation and small businesses. Junk food has been associated with various health risks, including obesity, heart disease, diabetes, and early death. Studies have also shown links between fast food consumption and conditions like fatty liver disease and metabolic syndrome. The article highlights the importance of adopting a healthy lifestyle and reducing the consumption of junk food for better overall health.
-
-Mon, 13 Nov 2023 12:39:15 +0530
-### [How Delhi’s violation of Diwali firecracker ban saw 140% rise in pollutant that harms lungs](https://www.firstpost.com/explainers/how-delhis-violation-of-diwali-firecracker-ban-saw-140-rise-in-pollutant-that-harms-lungs-13382132.html)
-
-Delhi and the National Capital Region (NCR) are once again battling pollution as residents violated the Supreme Court's firecracker ban during Diwali. As a result, there has been a significant increase in pollutants and the Air Quality Index (AQI) is now at "poor" levels. Delhi recorded a massive 140% jump in PM2.5, the major pollutant affecting lungs and causing health issues. The PM10 levels also rose, with some stations reporting levels 15 to 16 times higher than the 24-hour standard. The AQI remained in the "poor" category on average, but certain areas like Anand Vihar recorded a "hazardous" level of pollution. Despite the ban, firecrackers were burst in various places, and shops openly sold banned fireworks. Authorities are reviewing the pollution situation, but concerns remain about Delhi's air quality.
-
-Mon, 13 Nov 2023 11:26:54 +0530
-### [In Images | World leaders, embassies join in on the Diwali celebrations](https://www.firstpost.com/explainers/in-images-world-leaders-rishi-sunak-kamala-harris-embassies-diwali-celebrations-13381662.html)
-
-Millions of Indians celebrated Diwali, the festival of light, with enthusiasm and joy. Homes and streets were adorned with colorful lights, symbolizing the victory of light over darkness. In Uttar Pradesh's Ayodhya, a Guinness World Record was broken as over 2.22 million lamps were lit and kept burning for 45 minutes. Diwali celebrations were not limited to India, as people around the world participated by lighting lamps, bursting firecrackers, and joining in festivities. World leaders, including US President Joe Biden, sent messages of Diwali, and embassies organized events such as rangolis and dances to mark the occasion.
-
-Mon, 13 Nov 2023 10:12:52 +0530
-### [Oxygen, food, water supplied: Ops to save 40 workers trapped in Uttarkashi tunnel](https://www.firstpost.com/explainers/oxygen-food-water-supplied-rescue-operations-40-workers-trapped-uttarkashi-tunnel-13381232.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.A tunnel collapse in Uttarakhand, India has trapped 40 workers who were constructing the tunnel between Silkyara and Dandalgaon on the Brahmakhal-Yamunotri National Highway. The collapse was caused by a landslide, sealing the workers roughly 2,500 meters inside. A multi-agency rescue operation involving the National Disaster Response Force (NDRF), State Disaster Response Fund (SDRF), Fire Brigade, and employees of the Navayuga Engineering Company is underway to retrieve the trapped workers. Officials have established communication with the workers and are providing them with food, water, and oxygen. This incident reignites memories of previous tunnel collapses and rescues both in India and abroad.
-
-Mon, 13 Nov 2023 10:03:21 +0530
-### [How San Francisco is cleaning up its image for the APEC summit](https://www.firstpost.com/explainers/how-san-francisco-is-cleaning-up-its-image-for-the-apec-summit-13381122.html)
-
-San Francisco is preparing to host the Asia-Pacific Economic Cooperation (APEC) conference, a major meeting of international leaders. The city is making significant efforts to clean up its downtown areas that have been affected by issues such as drug use, homelessness, litter, and crime. Streets are being cleaned, potholes repaired, and police officers deployed to ensure safety during the summit. San Francisco hopes to project an image of being a place for business and investment, aiming to counter the negative perceptions that have arisen in recent years. However, while some areas appear pristine, the underlying problems of drug use and mental illness still persist in certain parts of the city. San Francisco has faced criticism from conservative media outlets and Chinese language media, labeling it as a "mecca of crime" and a "ghost town." City officials view the APEC summit as an opportunity to reshape the narrative about San Francisco and showcase its efforts to address issues like homelessness and drug addiction. They hope that visitors will experience the positive aspects of the city and tell the whole story. The city has also implemented initiatives such as opening a nighttime shelter for homeless people and offering free or reduced rent on empty retail space to encourage business growth. Despite ongoing criticisms, San Francisco's restaurant scene remains vibrant, with numerous upscale eateries attracting customers. Mayor London Breed emphasizes the beauty and activation happening in various neighborhoods and hopes that the true story of San Francisco will be recognized.
-
-Mon, 13 Nov 2023 08:21:04 +0530
-### [No Boom of Crackers: Why 7 villages in Tamil Nadu had a silent Diwali this year](https://www.firstpost.com/explainers/no-boom-of-crackers-why-7-villages-in-tamil-nadu-had-a-silent-diwali-this-year-13380872.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.In the Erode district of Tamil Nadu, seven villages have been celebrating Diwali without bursting firecrackers for the past 22 years. These villages, located near a bird sanctuary, decided to mark the festival with only lights and no sound to avoid scaring off the winged inhabitants. The sanctuary attracts thousands of local and migratory birds between October and January for breeding. To protect the birds, the more than 900 families living in these villages buy new clothes for their children and only allow them to burn sparklers during Deepavali. This year, the tradition continued, ensuring the safety and tranquility of the birds, with no incidents reported.
-
-Sun, 12 Nov 2023 17:56:19 +0530
-### [FirstUp: PM Modi in Chhattisgarh and more… What will make news today?](https://www.firstpost.com/explainers/firstup-pm-modi-in-chhattisgarh-and-more-what-will-make-news-today-13380322.html)
-
-Prime Minister Narendra Modi will be addressing a rally in Mungeli, Chhattisgarh before the state's polls. Telangana Chief Minister K Chandrasekhar Rao is set to address several meetings for the upcoming Assembly polls. External Affairs Minister S Jaishankar will attend an event at Lord's Cricket Ground and lay groundwork for British Prime Minister Rishi Sunak's potential visit to India. The final nominees for the 2023 World Athlete of the Year award will be announced today. It is also World Kindness Day, promoting acts of kindness worldwide. Aung San Suu Kyi was released from house arrest on this day in 2010. Celebrities including Juhi Chawla, Gerard Butler, Whoopi Goldberg, and Aryan Khan celebrate their birthdays today.
-
-Sun, 12 Nov 2023 10:02:03 +0530
-### [It’s OK if you don’t get 8 hours of sleep every day. Here’s why](https://www.firstpost.com/explainers/its-ok-if-you-dont-get-8-hours-of-sleep-every-day-heres-why-13369232.html)
-
-Recent studies have shown that sleep regularity, rather than sleep duration, is crucial for longevity and overall health. Getting six hours of sleep regularly was found to be better for reducing the risk of premature death compared to getting irregular eight hours of sleep. Inconsistent sleep patterns have been linked to an increased risk of cardiovascular disease and other health problems. Individual sleep requirements vary, and while health authorities provide guidelines, each person's unique needs should be taken into account. Quality of sleep is just as important as duration for brain function. Instead of strictly following the eight-hour rule, experts suggest listening to one's body and prioritizing quality sleep.
-
-Sun, 12 Nov 2023 09:48:49 +0530
-### [This Week in Explainers: Why WeWork did not work](https://www.firstpost.com/explainers/this-week-in-explainers-why-wework-did-not-work-13375502.html)
-
-In this article roundup, several key global stories from the past week are summarized. Here are the main highlights:
-
-1. Israel's deadly war with Hamas in Gaza has resulted in over 11,000 Palestinian deaths and growing criticism of Israel. The United States has convinced Israel to allow a four-hour daily humanitarian pause in operations to allow civilians to flee.
-
-2. WeWork, a US startup backed by SoftBank Group Corp, filed for bankruptcy protection. The company's fall was attributed to reduced demand for office space and increasing debt.
-
-3. A new COVID-19 variant called JN.1, a strain of Omicron, has been detected in the US, England, France, Iceland, and Luxembourg.
-
-4. Israel has accused four global media outlets, including the New York Times, CNN, Associated Press, and Reuters, of having prior knowledge of Hamas' October attack. The media organizations have strongly rejected these allegations.
-
-5. The European Union's executive commission has recommended starting formal talks on Ukraine and Moldova becoming member states next year, along with granting candidate country status to Georgia.
-
-6. An Indian man was sentenced to life in prison in Florida for the murder of his wife in 2020.
-
-7. Benjamin Netanyahu, the Israeli prime minister, has stated that Israel would maintain indefinite "overall security responsibility" in Gaza even after crushing Hamas. This could potentially fuel tensions in the region.
-
-8. Japan has acquired a new island due to an underwater volcanic eruption off the coast of Iwo Jima.
-
-These are just the highlights of the article, providing a brief summary of the various news stories covered.
-
-Sat, 11 Nov 2023 17:55:03 +0530
-### [A supervolcano in Italy is waking up. Should we be concerned?](https://www.firstpost.com/explainers/a-supervolcano-in-italy-is-waking-up-should-we-be-concerned-13377742.html)
-
-Campi Flegrei, also known as the Phlegraean Fields, is currently posing the greatest risk of volcanic eruption in Italy. The region has experienced a significant increase in seismic activity, with over 3,450 earthquakes reported so far in 2023. The last major eruption of Campi Flegrei occurred nearly 500 years ago in 1538. While there is concern about the possibility of a future eruption, experts are still uncertain about the exact outcome. It is important for the local population to be prepared and have evacuation plans in place.
-
-Sat, 11 Nov 2023 15:43:38 +0530
-### [Uttarakhand set to implement Uniform Civil Code: What are the expected changes?](https://www.firstpost.com/explainers/uttarakhand-set-to-implement-uniform-civil-code-what-are-the-expected-changes-13377032.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.Uttarakhand is set to become the first state in India to implement the Uniform Civil Code (UCC), a set of rules that govern marriage, divorce, inheritance, adoption, and other personal issues applicable to all Indian residents regardless of religious beliefs. A committee led by retired Justice Ranjana Prakash Desai is expected to submit a comprehensive report on the UCC to Chief Minister Pushkar Singh Dhami. The state government is considering calling a special session of the Uttarakhand Legislative Assembly to enact the UCC bill. The committee's report emphasizes equal rights for daughters living on ancestral properties and gender equality but does not advocate for raising the age at which women can get married. The proposed laws focus on consistency in personal laws, including child custody, maintenance, divorce, property rights, and inter-state property rights. The draft bill also seeks to ban polygamy and allows live-in couples to register their relationship. The Union government may use the report as a model when developing the UCC Bill for nationwide implementation. The Bharatiya Janata Party (BJP) has made the UCC a prime focus for upcoming elections and aims to promote uniformity and law reform. Madhya Pradesh and Gujarat, two other BJP-ruled states, have also initiated the process of implementing the UCC.
-
-Sat, 11 Nov 2023 14:42:24 +0530
-### [Why brand boycotts won't significantly affect the Israel-Hamas war](https://www.firstpost.com/explainers/why-brand-boycotts-wont-significantly-affect-the-israel-hamas-war-13370392.html)
-
-The article discusses the boycotts faced by McDonald's, Starbucks, and other western companies over the Gaza conflict. McDonald's faced backlash for providing free meals to the Israel Defense Forces, while Starbucks received boycott calls after expressing solidarity with Palestine. Several American companies, including KFC, Pizza Hut, Burger King, Coca-Cola, Pepsi, Wix, Puma, Google, and Amazon, are also being targeted for their support of Israel. UK retailer Marks & Spencer faced similar calls for running a commercial that resembled the Palestinian flag. Brands with Jewish roots like Danone, Dunkin Donuts, and Netflix have been targeted as well. The article also mentions historical boycotts related to the Middle East and highlights instances of successful and unsuccessful boycotts. It concludes that while the boycotts against American companies have raised awareness about Israel's treatment of Palestinians, they may not have a significant economic impact without coordinated international sanctions.
-
-Sat, 11 Nov 2023 13:19:55 +0530
-### [How world’s oldest Christian community in Gaza is on brink of extinction](https://www.firstpost.com/explainers/how-worlds-oldest-christian-community-in-gaza-is-on-brink-of-extinction-13376282.html)
-
-The article discusses the plight of Gaza's Christian community amid the ongoing conflict between Israel and Hamas. The oldest Christian community in the world, dating back to the first century, is facing the risk of extinction due to the bombing of churches and significant locations. The article highlights the history of Christianity in Gaza and the forced displacement of Palestinians, which led to an influx of Palestinian Christians in the region. It also mentions the recent Israeli airstrike on the Greek Orthodox Church of St. Porphyrius, causing the families to seek shelter in the Holy Family Church. Pope Francis has been offering support and condolences to those affected. The article points out that the number of Christians in Gaza has significantly declined over the years, with many leaving for better opportunities elsewhere due to difficulties caused by the conflict. The West Bank's Christian community, although safer, also faces violence and attacks on clergy and churches. The overall threat to the Christian presence in Gaza is emphasized, with some believing that Christianity will cease to exist in the region within this generation.
-
-Sat, 11 Nov 2023 12:04:40 +0530
-### [How the Michelin Star became the ‘Oscars’ of the culinary world](https://www.firstpost.com/explainers/how-the-michelin-star-became-the-oscars-of-the-culinary-world-13374592.html)
-
-Three Indian chefs have been awarded Michelin Stars for their culinary achievements. Vijaya Kumar of Semma restaurant in New York City, Chetan Shetty of Rania in Washington DC, and Sujan S of Indienne in Chicago were celebrated by renowned chef Vikas Khanna. The Michelin Star is considered the highest level of achievement in the food world, with one star indicating success, two stars signifying excellence, and three stars meaning the restaurant is worth traveling to. The rating is based solely on the quality of the food, as judged by undercover inspectors trained by the Michelin Guide. The Michelin Guide originated as a promotional tool by the Michelin tire company in 1900, evolving into a comprehensive guide to fine dining. While the Michelin Star has its critics, it remains highly regarded in the culinary industry. Although there are no Michelin-starred restaurants in India, several Indian chefs, including Vikas Khanna and Garima Arora, have received this prestigious accolade.
-
-Sat, 11 Nov 2023 10:02:55 +0530
-### [This Week in Explainers: Are you allowed to burst firecrackers this Diwali?](https://www.firstpost.com/explainers/this-week-in-explainers-are-you-allowed-to-burst-firecrackers-this-diwali-13375142.html)
-
-The Supreme Court of India has clarified that its ban on firecrackers containing barium and other dangerous chemicals is applicable to the entire country. However, it emphasized that there is no total ban and green crackers are allowed. The article also discusses various other topics such as the growing concern over pollution in cities like Delhi and Mumbai, the dangers posed by deepfakes (AI-generated content), comments made by Bihar Chief Minister Nitish Kumar on population control, and the increase in caste-based quotas in Bihar. Overall, the article provides a roundup of significant news stories in India.
-
-Sat, 11 Nov 2023 09:46:27 +0530
-### [In graphics | Can artificial rain help reduce Delhi’s air pollution?](https://www.firstpost.com/explainers/in-graphics-can-artificial-rain-help-reduce-delhis-air-pollution-13376112.html)
-
-The Kejriwal government in Delhi plans to induce artificial rain through cloud seeding to combat air pollution. The air quality in Delhi is still classified as "poor" despite light showers improving the air quality somewhat. The city was the most polluted in the world last week, with dangerous particle levels up to 100 times the acceptable limit. The Delhi government is considering artificial rain as a solution and has agreed to cover the entire cost. IIT-Kanpur is reportedly ready to produce artificial rain through cloud seeding by spraying particles of salts on clouds. The declining air quality in Delhi is due to crop residue burning in neighboring states.
-
-Fri, 10 Nov 2023 20:50:56 +0530
-### [Is flexible work hours good for your heart health?](https://www.firstpost.com/explainers/is-flexible-work-hours-good-for-your-heart-health-13375612.html)
-
-A new study conducted by the Harvard TH Chan School of Public Health and Penn State University has found that flexible working can have positive effects on heart health and reduce the risk of cardiac events. The study, funded by the National Institutes of Health and the Centers for Disease Control and Prevention, looked at the impact of work environment on heart health and surveyed employees from an IT company and a long-term care company. The researchers assigned each employee a cardiometabolic risk score (CRS) and found that while flexible work did not improve the employees' CRS overall, it did show reductions in those who started with a higher baseline CRS. Older employees, especially those over 45, were more likely to see a reduction in their heart risk profiles. The study highlights the importance of working conditions and their impact on health, particularly for low- and middle-wage workers who have less control over their schedules and job demands. Overall, the study suggests that implementing flexible work policies could be beneficial for employees' heart health.
-
-Fri, 10 Nov 2023 19:21:23 +0530
-### [India vs Pakistan on air pollution: Which cities are worst-affected?](https://www.firstpost.com/explainers/india-vs-pakistan-on-air-pollution-which-cities-are-worst-affected-13375402.html)
-
-Article found but Couldn't summarize 
-India vs Pakistan on air pollution: Which cities are worst-affected?
-
-Fri, 10 Nov 2023 19:01:19 +0530
-### [What is 'Fried Rice Syndrome', a condition that food experts warn about?](https://www.firstpost.com/explainers/what-is-fried-rice-syndrome-a-condition-that-food-experts-warn-about-13374052.html)
-
-"Fried rice syndrome," a type of food poisoning caused by the bacteria Bacillus cereus, has returned to public attention after an incident involving the death of a student who consumed noodles left unattended for five days. The bacteria can multiply when food is left unrefrigerated for long periods of time. The term "fried rice syndrome" originated from the first documented cases connected to cooked white rice that wasn't refrigerated and was subsequently used to make fried rice dishes at restaurants. The bacteria thrives in pre-cooked starchy foods like rice and pasta, and its ideal growth temperature range is between 40 and 140 degrees Fahrenheit. The symptoms of the syndrome resemble other gastrointestinal disorders, and treatment usually involves hydration and rest. To prevent food poisoning, it is advised to avoid eating leftovers and to ensure proper storage and cooling of cooked food.
-
-Fri, 10 Nov 2023 18:04:58 +0530
-### [Luck by Chance: How a fisherman in Pakistan became an overnight millionaire](https://www.firstpost.com/explainers/luck-by-chance-how-a-fisherman-in-pakistan-became-an-overnight-millionaire-13375112.html)
-
-A fisherman in Karachi, Pakistan, became a millionaire overnight after auctioning a haul of rare fish known as the Sowa fish. The fish, which is considered priceless and rare, has substances in its belly that are believed to have healing and medicinal properties. The entire catch was sold for 70 million rupees, with one fish fetching around seven million rupees in the auction. The fisherman plans to share the money with his crew. The Sowa fish is sought after in East Asian countries and is also used in traditional medicines and local cuisine.
-
-Fri, 10 Nov 2023 17:17:47 +0530
-### [Diwali 2023: Are green crackers really ‘eco-friendly’?](https://www.firstpost.com/explainers/diwali-2023-green-crackers-eco-friendly-supreme-court-order-fireworks-air-pollution-13374482.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.The Supreme Court of India has allowed the use of "green crackers" during the Diwali festival to address concerns about air pollution. Green crackers are considered eco-friendly and cause less air and noise pollution compared to traditional fireworks. They were developed by the National Environmental Engineering Research Institute (NEERI) and have smaller shells, no ash, and reduced usage of raw materials. These crackers also release water vapor, which acts as a dust suppressant. There are three types of green crackers: SWAS, SAFAL, and STAR. Experts, however, are skeptical about their environmental friendliness, as even with a 30% reduction in particulate matter levels, the pollution caused by these crackers would still be high. Some manufacturers claim that green crackers cannot function without barium, which contradicts the requirements set by NEERI. The effectiveness of the restrictions on firecrackers and the clarity on the production of green crackers remain questionable. It is advisable to celebrate Diwali with candles and diyas instead of fireworks if unsure about the green credentials of the crackers.
-
-Fri, 10 Nov 2023 16:36:56 +0530
-### [No More Add to Cart: Why China’s Singles Day is losing its sheen with shoppers](https://www.firstpost.com/explainers/no-more-add-to-cart-why-chinas-singles-day-is-losing-its-sheen-with-shoppers-13372702.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.Singles' Day, the world's largest shopping festival in China, is losing its shine as consumers plan to spend less this year. The event originated in 1993 at Nanjing University and has since become a weeks-long online shopping bonanza. Last year, the total value of goods sold during Singles' Day reached $157.97 billion, surpassing American shoppers' spending during Cyber Week. However, the festival's popularity has waned due to the nation's economic challenges and complicated terms and discounts. This year, e-commerce sites are offering extremely low pricing to attract consumers. Despite the decline, industry experts expect a rebound in sales due to improving economic conditions and robust livestream sales.
-
-Fri, 10 Nov 2023 15:58:42 +0530
-### [Google to delete millions of Gmail accounts next month. Is yours safe?](https://www.firstpost.com/explainers/google-to-delete-millions-of-gmail-accounts-next-month-is-yours-safe-13373902.html)
-
-Starting next month, Google will delete millions of Gmail accounts to prevent security threats. The accounts that are at risk are those that have not been opened in two years. Google has been sending notifications to inactive accounts, and users can prevent their accounts from being deleted by logging in once every two years. Users can also save their data by downloading and exporting it through Google's Takeout feature. This action by Google is similar to Twitter, which is also removing inactive accounts. Elon Musk's company, X, is reportedly preparing to sell old and defunct Twitter handles.
-
-Fri, 10 Nov 2023 15:55:11 +0530
-### [In Graphics | From Japanese tea houses to Diwali decorations, the story behind tea lights](https://www.firstpost.com/explainers/in-graphics-from-japanese-tea-houses-to-diwali-decorations-the-story-behind-tea-lights-13363372.html)
-
-Tealights are small candles that come in metal cups and are known for creating a cozy glow. They are popular for various occasions such as romantic dinners, baths, meditation sessions, and Diwali decorations. In the late 20th century, decorative candles gained popularity and became a common sight in people's homes. Tealights have several advantages, including easy cleaning and the ability to be discarded after burning. They also come in a wide range of colors, shapes, and designs to suit different occasions. According to trend maven Faith Popcorn, they are seen as the ideal alternative to technology. This article explores the origins of tealights, how they were named, and why they became so popular.
-
-Fri, 10 Nov 2023 14:36:04 +0530
-### [Will Rishi Sunak sack UK home secretary Suella Braverman?](https://www.firstpost.com/explainers/will-rishi-sunak-sack-uk-home-secretary-suella-braverman-13373582.html)
-
-Article found but Couldn't summarize 
-Will Rishi Sunak sack UK home secretary Suella Braverman?
-
-Fri, 10 Nov 2023 14:06:21 +0530
-### [Elvish Yadav controversy: Why is snake venom such a popular recreational drug?](https://www.firstpost.com/explainers/elvish-yadav-controversy-snake-venom-uses-rave-parties-recreational-drug-noida-police-13373222.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.Elvish Yadav, a popular YouTuber and winner of Bigg Boss OTT, is facing accusations of organizing rave parties where snake venom was supplied. The Noida Police arrested five people, including Yadav, after receiving a complaint from an animal welfare organization. The police found snake venom, cobras, pythons, and other snakes at the venue. Maneka Gandhi, a BJP MP, called for Yadav's arrest and labeled him a "kingpin" in the case. However, Yadav has denied the allegations and threatened to file a defamation case against Gandhi. The incident has sparked a discussion about the use of snake venom as a recreational drug, with studies showing its potential effects on users, including analgesia, euphoria, and sedation. Experts warn against the recreational use of snake venom due to the risk of addiction and poisoning.
-
-Fri, 10 Nov 2023 13:40:28 +0530
-### [Why Qatar has become indispensable in the Israel-Hamas war](https://www.firstpost.com/explainers/why-qatar-has-become-indispensable-in-the-israel-hamas-war-13373052.html)
-
-The United States and Israel are working with Qatar to negotiate a potential humanitarian pause in the Israel-Hamas war. The CIA director, Mossad head, and Qatar officials are discussing a three-day pause to release civilian hostages held by Hamas and allow more aid into the besieged Gaza Strip. Qatar has played a significant role in securing the release of hostages and facilitating the passage of foreigners and injured individuals out of Gaza. Qatar's position as a mediator is due to its close relationship with Hamas and its ability to communicate with the group. Qatar has also provided financial support to Palestinians in Gaza and has been involved in previous negotiations, such as the release of prisoners and hosting peace talks. Despite the challenges, Qatar aims to establish itself as a diplomatic player and promote peace in the region.
-
-Fri, 10 Nov 2023 12:58:03 +0530
-### [Did journalists working with foreign media have prior information on Hamas attack on Israel?](https://www.firstpost.com/explainers/did-journalists-working-with-cnn-ap-reuters-nyt-have-prior-information-on-hamas-attack-on-israel-13372832.html)
-
-Article found but Couldn't summarize 
-Did journalists working with foreign media have prior information on Hamas attack on Israel?
-
-Fri, 10 Nov 2023 12:55:24 +0530
-### [India to get air taxis by 2026: How they will cut travel time from 90 minutes to just 7](https://www.firstpost.com/explainers/india-to-get-air-taxis-by-2026-how-they-will-cut-travel-time-from-90-minutes-to-just-7-13372432.html)
-
-Indian company InterGlobe Enterprises is collaborating with US-based startup Archer Aviation to launch an all-electric air taxi service in India by 2026. The service aims to provide a cost-competitive solution to traffic congestion and will initially launch in Delhi, Mumbai, and Bengaluru, offering 90-minute trips in just seven minutes. Archer Aviation manufactures electric vertical takeoff and landing (eVTOL) aircraft, which can carry four passengers and a pilot for up to 100 miles. InterGlobe Enterprises plans to use the e-aircraft for cargo, logistics, medical, emergency, and charter services in addition to passenger transport. Archer Aviation has already secured contracts with the US Air Force and plans to launch an air taxi service in the United Arab Emirates. The successful implementation of the air taxi service in India could transform urban mobility in the country.
-
-Fri, 10 Nov 2023 11:40:03 +0530
-### [Breather from Toxic Air: How the rain in Delhi improved its AQI](https://www.firstpost.com/explainers/breather-from-toxic-air-how-the-rain-in-delhi-improved-its-aqi-13371832.html)
-
-Light to moderate rain showers were observed in Delhi and surrounding regions, providing some relief from the severe air pollution. The timing of the rainfall is significant as the city government plans to use cloud seeding for artificial rain. The air quality index (AQI) improved in various areas after the rain, with some locations moving from the severe category to the moderate or satisfactory categories. Rain is known to help cleanse the air by capturing and removing pollutants like particulate matter. However, its impact on pollution is more significant for larger particles. The Delhi government aims to implement artificial rain through cloud seeding technology to address air pollution. Factors such as wind speed and temperature also play a role in improving AQI. Wind can aid in dispersing particulate matter, while temperature inversion can trap pollutants near the ground. Efforts are being made to tackle air pollution in different regions of India, including addressing stubble burning and implementing measures to curb pollution in Mumbai.
-
-Fri, 10 Nov 2023 10:29:03 +0530
-### [How Israel is using birds in their search for Hamas attack victims](https://www.firstpost.com/explainers/how-israel-is-using-birds-in-their-search-for-hamas-attack-victims-13372102.html)
-
-An environmentalist in Israel is using birds of prey, such as eagles and vultures, to assist the army in locating dead bodies. Ohad Hatzofe of Israel’s Nature and Parks Authority tracks the migration patterns of these birds using GPS devices. The data collected by Hatzofe has helped locate four corpses so far. Birds of prey have a strong sense of smell and can detect dead bodies from a distance. The idea to involve these birds in the search for human remains came from a unit within the Israeli army responsible for locating missing soldiers. The program led by Hatzofe tracks endangered griffon vultures, eagles, and other birds of prey to study their migratory patterns, feeding habits, and environmental challenges. One of the tracked birds, a sea eagle, was found near Beeri, just outside the Gaza Strip, and its data led to the recovery of four bodies. Dozens of people are still missing after a Hamas attack on Beeri, which resulted in numerous casualties. The use of birds of prey has aided in locating bodies and providing closure for families affected by the conflict.
-
-Fri, 10 Nov 2023 09:42:18 +0530
-### [Ethics panel recommends Mahua Moitra’s Lok Sabha expulsion: What happens next?](https://www.firstpost.com/explainers/mahua-moitra-lok-sabha-ethics-committee-expulsion-future-cash-for-query-scam-13371812.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses the recommendation of the Lok Sabha Ethics Committee to expel Trinamool Congress (TMC) MP Mahua Moitra from Parliament in the cash-for-query scam. The report was approved in a split verdict, with six members voting in favor and four members against the recommendation. Moitra and the dissenting members of the committee criticized the probe for being conducted hastily and lacking propriety. Moitra denied the allegations and called the committee a "kangaroo court." The report condemned Moitra for unethical conduct and sharing her Lok Sabha log-in credentials with businessman Darshan Hiranandani. The panel recommended severe punishment and urged the government to conduct an institutional inquiry. Moitra argued that she was not given a fair chance to defend herself and criticized the leak of the report to the media. The next steps involve presenting the report to the Speaker, who will table it in the House. A debate may take place, and if a motion for voting on Moitra's expulsion is passed, she will be expelled from the House. Moitra can challenge this decision in court. The incident has also prompted the Ethics Committee to recommend the framing of new rules to check unruly conduct of MPs. This is the first instance of the Lok Sabha Ethics Committee recommending the expulsion of an MP.
-
-Fri, 10 Nov 2023 09:35:50 +0530
-### [Why people in Pakistan are unable to get new passports](https://www.firstpost.com/explainers/why-people-in-pakistan-are-unable-to-get-new-passports-13371822.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses the ongoing shortage of lamination papers in Pakistan, which has resulted in significant delays in passport issuance. Despite being warned about the shortage, passport offices continue to receive applications, causing a backlog of unprinted passports. The shortage is affecting thousands of Pakistanis who are unable to obtain new passports, jeopardizing their plans to travel abroad for study, work, or vacation. The Directorate General of Immigration and Passports has extended the delivery period for passports due to the increase in applications. The backlog of unprinted passports is estimated to be around seven lakh. The shortage is primarily attributed to economic woes faced by citizens, leading them to seek job opportunities abroad. Additionally, the relaxation of travel restrictions has encouraged more people to travel for religious or tourism purposes. The inefficiency of the Directorate General of Immigration and Passports has frustrated applicants, with some having to cancel their plans due to the unavailability of passports. The government is working to resolve the issue and minimize the backlog, but there is uncertainty about when the situation will improve.
-
-Fri, 10 Nov 2023 07:29:10 +0530
-### [FirstUp: Blinken in India for 2+2 dialogue, Dhanteras.... The big news today](https://www.firstpost.com/explainers/firstup-blinken-in-india-for-22-dialogue-mahua-moitra-report-sent-to-anti-corruption-panel-all-big-news-today-13371042.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.US Secretary of State Antony Blinken and Defense Secretary Lloyd Austin are currently in New Delhi, India for the 2+2 Ministerial Dialogue This dialogue serves as a platform for high-level discussions between the US and India, focusing on critical bilateral and global issues, particularly those in the Indo-Pacific region The discussions are expected to cover a wide range of topics, including strengthening bilateral relations, addressing global concerns, and promoting cooperation in the Indo-Pacific The US is likely to push for military hardware cooperation, while India may request the sharing of high-end technology for developing indigenous weapon systems Notably, India and the US recently agreed to a $3 billion deal for the supply of 31 MQ-9B Predator drones to the Indian defense forces The outcome of this dialogue is eagerly awaited.
-
-In addition, India is celebrating Dhanteras, a Hindu festival associated with buying gold Many Indians consider this day to be auspicious for purchasing gold, as they believe that the goddess Lakshmi will bless their homes with wealth and good health.
-
-Meanwhile, the Lok Sabha Ethics Committee has recommended the expulsion of Mahua Moitra, a member of the Trinamool Congress, from the House in a "cash-for-query" matter The report will be sent to an anti-corruption panel for further action.
-
-Disney is releasing the film 'The Marvels' in an effort to revitalize the Marvel Cinematic Universe, which has faced some challenges with recent sequels and TV shows.
-
-Lastly, on this day in 1989, the Berlin Wall began to come down, leading to the eventual reunification of Germany.
-
-Please note that the information provided is based on search result snippets and may not capture all the details of the article.
-
-Thu, 09 Nov 2023 20:44:07 +0530
-### [Can smartwatch save lives by detecting heart attacks?](https://www.firstpost.com/explainers/can-smartwatch-save-lives-by-detecting-heart-attacks-13370832.html)
-
-A 42-year-old man in the UK, Paul Wapham, used his smartwatch to call his wife when he experienced chest pain during a run. His wife rushed him to the hospital where he was diagnosed with a heart attack caused by a blocked artery. This incident highlights how smartphones and smartwatches can play a role in saving lives and improving users' health by monitoring heart rate and detecting irregularities. Other incidents include a woman in the US whose Apple Watch warned her about an increased heart rate, leading to the diagnosis of a severe condition, and a Reddit user whose mother's Apple Watch automatically called emergency services after she collapsed from a ruptured aorta. Smartwatches from companies like Apple, Samsung, Withings, Fitbit, and AliveCor are equipped with features to record heart rate, physical activity, and even perform electrocardiograms (ECG). While they are not as accurate as hospital ECG machines, they can detect fluctuations in heartbeat and prompt users to seek medical care. Studies have shown that ECG monitors on smartwatches are 93% - 95% accurate at identifying different types of heart attacks. However, experts caution that more research is needed before fully relying on smartwatches for early detection of heart attacks. There are concerns that people may be unnecessarily worried about minor heart arrhythmias and seek unnecessary testing and treatment. Smartwatches should be seen as supplementary devices and not replacements for medical tests conducted in healthcare settings.
-
-Thu, 09 Nov 2023 20:28:48 +0530
-### [In Bihar, reservation now at 75%. What about Supreme Court's 50% cap?](https://www.firstpost.com/explainers/in-bihar-reservation-now-at-75-what-about-supreme-courts-50-cap-13370892.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.The Bihar Assembly recently passed a bill increasing reservation for deprived castes from 50 to 60 percent in government jobs and educational institutions, bringing the total reservation in Bihar to 75 percent. This decision by the Bihar government goes beyond the 50 percent cap on reservation set by the Supreme Court in its landmark 1992 judgment in the Indra Sawhney vs Union of India case, also known as the Mandal Commission verdict. The Supreme Court ruled that reservation for the backward class should be capped at 50 percent and that economic backwardness alone cannot be a criteria for reservation. Since the 1992 verdict, several states, including Maharashtra, Telangana, Tamil Nadu, Haryana, Chhattisgarh, Rajasthan, Madhya Pradesh, and now Bihar, have passed laws to exceed the 50 percent cap. In 2019, the Centre also introduced a 10 percent reservation for economically weaker sections (EWS) over and above the existing 50 percent reservation for SCs, STs, and OBCs. The Supreme Court upheld the 103rd Constitution Amendment of 2019, which introduced the EWS reservation, in a ruling in November 2022. The Bihar government's decision to increase reservation to 75 percent is based on a comprehensive caste survey conducted by the Nitish Kumar government. The survey provided data that will be used to introduce more measures for the upliftment of socially, educationally, and economically backward sections of society in Bihar.
-
-Thu, 09 Nov 2023 19:42:06 +0530
-### [Shrinking waists, not pockets: Dangerous growth of weight-loss drug market](https://www.firstpost.com/explainers/ozempic-wegovy-zepbound-weight-loss-drugs-dangerous-growth-obesity-world-problem-13369852.html)
-
-The article discusses the approval of a new weight-loss drug called Zepbound by the FDA. The drug is developed by Eli Lilly and contains the same active ingredient as their diabetes treatment, Mounjaro. Zepbound works by activating hormones in the body that slow down stomach emptying, making people feel full for longer and suppressing appetite. However, it carries risks such as gastrointestinal issues. Zepbound will join other weight-loss drugs in the market, including Ozempic and Wegovy, which have seen high demand and sales. The obesity drug market is expected to grow significantly, with predictions of it becoming a $100 billion industry by 2030. The rise of these drugs may also impact the food and pharmaceutical industries, as consumers make more nutritious choices and opt for weight-loss drugs instead of certain medications.
-
-Thu, 09 Nov 2023 17:45:44 +0530
-### [Who was the Indian student who died in US? Why was he attacked?](https://www.firstpost.com/explainers/who-was-varun-raj-pucha-indian-student-who-died-in-us-why-was-he-attacked-13369952.html)
-
-I'm sorry to hear about the tragic incident involving Varun Raj Pucha, an Indian student who was stabbed at a fitness center in Indiana. He unfortunately passed away from his injuries. The attacker, Jordan Andrade, stabbed Pucha because he found him "a little weird." The police arrested Andrade for attempted murder and aggravated battery. It's a devastating loss, and our thoughts and prayers go out to Varun's family and friends during this difficult time.Varun Raj Pucha, an Indian student studying in the United States, has died after being stabbed at a gym in Indiana. The attacker, Jordan Andrade, claimed that he found Pucha "a little weird" and considered him a threat. Andrade attacked Pucha with a knife, stating that he reacted in self-defense. Pucha was taken to the hospital but succumbed to his injuries. The incident has raised concerns about hate crimes in the US. The Federal Bureau of Investigation (FBI) reported an increase in hate crime incidents motivated by bias in 2022 compared to the previous year. Anti-Black and anti-African-American hate crimes topped the list, followed by incidents against Jews. The university where Pucha studied offered condolences to his family and pledged support during this difficult time.
-
-Thu, 09 Nov 2023 17:32:52 +0530
-### [India has most number of TB cases in world: What’s going wrong?](https://www.firstpost.com/explainers/india-has-most-number-of-tb-cases-in-world-whats-going-wrong-13370232.html)
-
-The article discusses the findings of the World Health Organization's (WHO) 2023 Global Tuberculosis (TB) report, with a focus on the situation in India. The report reveals that around 7.5 million people were diagnosed with TB worldwide in 2022, and the number of people falling sick with TB increased to 10.6 million. However, there has been a "significant worldwide recovery" in the scale-up of TB diagnosis and treatment services in 2022. India, along with Indonesia and the Philippines, accounted for over 60% of the global reductions in newly diagnosed TB cases in 2020 and 2021. The report also highlights that multidrug-resistant TB (MDR-TB) remains a public health crisis. In India, MDR-TB accounts for 2.5% of new cases and 13% of previously treated cases. The article mentions that India has made progress in improving case detection and reducing TB mortality, but it still has a long way to go in achieving the goals set by the WHO. The cost of treatment and the detection of MDR-TB are identified as challenges in India's fight against TB.
-
-Thu, 09 Nov 2023 17:23:14 +0530
-### [In graphics | Why is gold one of the most valued metals?](https://www.firstpost.com/explainers/in-graphics-why-is-gold-one-of-the-most-valued-metals-13368842.html)
-
-This article discusses the significance and properties of gold as a precious metal. Gold is known for its attractive appearance and has been used in jewelry, currency, and art throughout human civilization. While silver was more commonly used in trade systems, gold has also played a role as a high denomination currency. Additionally, the article mentions that many people consider gold to be a safe investment and buy it on auspicious occasions. The World Gold Council has predicted that high gold prices may result in lower purchase volumes in India during the festival season.
-
-Thu, 09 Nov 2023 17:16:34 +0530
-### [What happens once Israel dismantles Hamas in Gaza? The possibilities explained](https://www.firstpost.com/explainers/what-happens-once-israel-dismantles-hamas-in-gaza-the-possibilities-explained-13369762.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses the evolving plans for Israel's security role in the Gaza Strip following its intensified campaign against Hamas militants. Israeli Prime Minister Benjamin Netanyahu has expressed the intention to maintain overall security responsibility in Gaza once Hamas is removed from power. However, the article highlights that this could be seen as a form of military occupation by the Palestinians and the international community, potentially complicating efforts to hand governing responsibility to the Palestinian Authority or friendly Arab states.
-
-The presence of Israeli forces in Gaza is likely to fuel an insurgency, similar to the period from 1967 to 2005 when two Palestinian uprisings occurred, leading to the rise of Hamas. The United States, Israel's biggest ally, acknowledges these consequences but suggests that Israel might control the territory for a transition period.
-
-There is currently no long-term plan for Gaza, according to Benny Gantz, a member of Israel's War Cabinet. Any plan would have to address Israel's security needs and aim to replace the Hamas regime while ensuring security superiority for Israel.
-
-The article also provides historical context, mentioning that Israel captured Gaza, the West Bank, and East Jerusalem in the 1967 Mideast War. After decades of military rule, the Oslo Accords established the Palestinian Authority as an autonomous government in the West Bank and Gaza. However, the Palestinian Authority lost control of Gaza to Hamas in 2007, leaving it with administrative powers and Israel with overall security control.
-
-Various suggestions are discussed, including maintaining an over-the-horizon presence with moderate Palestinians handling security inside Gaza and Israeli intervention only when necessary. Another option is creating a buffer zone along the border or considering the return of the Palestinian Authority to Gaza. The article references the lessons learned from Israel's experiences in Lebanon and the challenges it faced after withdrawing its forces.
-
-Ultimately, the future of Gaza and its residents remains uncertain, with mixed messages from Israel about its plans for the region.
-
-Thu, 09 Nov 2023 15:01:41 +0530
-### [Why do Indians like buying gold? Should you invest this Dhanteras?](https://www.firstpost.com/explainers/why-do-indians-like-buying-gold-should-you-invest-this-dhanteras-13368802.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses the tradition of Indians buying gold on Dhanteras, a Hindu festival. Indians have a strong affinity for gold, considering it a safe investment and a hedge against inflation and currency depreciation. Gold has historically performed well and provided good returns over the years. It is also seen as a fashion statement, a status symbol, and a way to preserve sentimental value associated with happy occasions. Dhanteras is considered an auspicious day to buy gold because it is believed that Goddess Lakshmi blesses people with wealth and well-being on this day. Jewellers often offer discounts during Dhanteras. However, experts recommend that gold should not make up more than 10 to 15 percent of an investor's portfolio.
-
-Thu, 09 Nov 2023 14:24:44 +0530
-### [Smoggy City: Why Mumbai’s air quality is going the Delhi way](https://www.firstpost.com/explainers/mumbai-air-quality-smog-reasons-delhi-pollution-13368492.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.Mumbai continues to suffer from bad air quality, ranking among the top 10 most polluted cities worldwide. After light rains, the air quality improved to a moderate level, but some areas still experienced very poor air quality. Several factors contribute to Mumbai's air pollution crisis, including slow coastal winds that trap pollutants, ongoing construction, high vehicular emissions, and lingering monsoon conditions. This decline in air quality has led to an increase in respiratory issues, especially among vulnerable groups. The authorities have taken steps to address the problem by cracking down on violators of air pollution norms and urging citizens to refrain from bursting firecrackers during Diwali.
-
-Thu, 09 Nov 2023 14:16:28 +0530
-### [How the world’s newest island was formed in Japan this October](https://www.firstpost.com/explainers/how-the-worlds-newest-island-was-formed-in-japan-this-october-13368632.html)
-
-A new island has emerged in the Pacific Ocean near Japan's Iwo Jima island. The island was formed by an underwater volcanic eruption, according to Japan's Meteorological Agency. The island is located about 1,200 kilometers south of mainland Japan and is part of the Ogasawara Island group. Volcanic tremors and eruptions have been occurring since October, with the formation of the new island observed on November 1st. Experts believe that the island formed as a result of multiple eruptions, with magma building up beneath the surface before breaking through. It is uncertain whether the eruption will continue or if the new island will merge with Iwo Jima. Similar geological events have occurred in the past, with new islands forming but eventually eroding away due to erosion.
-
-Thu, 09 Nov 2023 13:55:07 +0530
-### [How Japanese gangs are using social media for recruitment](https://www.firstpost.com/explainers/how-japanese-gangs-are-using-social-media-for-recruitment-13368332.html)
-
-Japan's criminal underworld is utilizing social media platforms to recruit individuals, including teenagers and retirees, for illegal activities. These recruits, often low-income citizens, are enticed by the promise of financial gain. One such individual, Risa Yamada, stumbled upon a job listing on social media and was hired to impersonate a police officer. She successfully obtained hundreds of thousands of dollars from Japan's elderly population through phone scams. The proliferation of online platforms, including encrypted messaging apps like Telegram and Signal, allows criminal gangs to connect with potential recruits anonymously. Damage caused by these illegal operations has increased by 30% in 2022, amounting to over 37 billion yen. The anonymity offered by social media platforms enables criminals to assemble groups for robberies and fraud schemes effortlessly. Recruits receive instructions via messaging apps and are rewarded for their work without feeling guilty because they don't physically interact with anyone. The consequences of these crimes became evident when a 90-year-old woman was assaulted and killed by individuals hired through online advertisements. These criminal organizations exploit and dispose of their recruits, using them as pawns. Police have been working to remove criminal ads from social media platforms and have offered rewards for information on these gangs. Only a small percentage of those arrested for organized fraud held high-ranking gang positions. The article highlights personal accounts of individuals who engaged in criminal activities for financial gain and the subsequent consequences they faced.
-
-Thu, 09 Nov 2023 13:43:18 +0530
-### [Why Gaza civilians are holding white flags as they flee Israeli assault](https://www.firstpost.com/explainers/why-gaza-civilians-are-holding-white-flags-as-they-flee-israeli-assault-13368442.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.Israel has intensified its ground campaign and airstrikes on the Hamas-controlled Gaza Strip, forcing thousands of Palestinians to flee. Videos show civilians carrying luggage and waving white flags as they walk to the south of Gaza for safety. The white flag has historically been associated with surrender in times of conflict. In recent times, it has been used by Iraqi soldiers in the 2003 Iraq war when surrendering to US troops. However, waving white flags has not always guaranteed safety, as Israeli soldiers reportedly killed Palestinian civilians waving white flags during Operation Cast Lead in 2008-2009. The IDF has urged Gazans to move south for weeks, but Hamas claims that Israeli airstrikes have hit both the north and south of Gaza. The UNRWA has warned that relief operations may cease due to a lack of fuel supplies, putting thousands at risk.
-
-Thu, 09 Nov 2023 13:16:42 +0530
-### [What are Hermes 900 drones, used in Hamas war, that India is buying from Israel?](https://www.firstpost.com/explainers/israel-hermes-900-drones-india-surveillance-drone-warfare-boost-13368132.html)
-
-The Indian Armed Forces are set to acquire additional Israeli medium-altitude, long-endurance unmanned aerial vehicles (UAVs) to boost their reconnaissance and surveillance capabilities. The Indian Army and Navy will procure the Hermes 900 drones manufactured by Elbit Systems, while the Air Force has procured the Heron Mk2 from Israel Aerospace Industries. The Hermes 900 is a large medium-range long endurance drone designed for tactical missions, with an endurance of up to 36 hours and a payload capacity of 350 kg. It is equipped with high-performance sensors and can be used for intelligence, surveillance, target acquisition, reconnaissance, and ground attacks. The article mentions that the Hermes 900 has been used in operations such as the Protective Edge operation against Hamas and the ongoing Israel-Hamas war. The induction of these drones in the Indian Armed Forces is expected to enhance their reconnaissance and surveillance capabilities, particularly along the Line of Actual Control (LAC) and Ladakh region. The article emphasizes the growing importance of drones in warfare and India's recognition of their potential, as evidenced by its procurement of various drones, including those developed domestically.
-
-Thu, 09 Nov 2023 11:45:12 +0530
-### [What is regenerative agriculture? Is it the answer to stubble burning?](https://www.firstpost.com/explainers/what-is-regenerative-agriculture-is-it-the-answer-to-stubble-burning-13366942.html)
-
-The article discusses the issue of declining air quality in Delhi, primarily due to stubble burning and vehicle emissions. Businessman Anand Mahindra has highlighted the importance of regenerative agriculture as a solution to tackle pollution. Regenerative agriculture focuses on improving soil health, mitigating negative environmental effects, and increasing farm productivity and profitability. It involves practices like limiting ploughing, using compost and animal dung, and crop rotation. By adopting regenerative farming methods, farmers can reduce the need for stubble burning, enhance soil fertility, and combat pollution. The article also mentions that regenerative agriculture can address the looming food crisis and help multinational companies achieve their sustainability goals. Additionally, it explains how soil health is linked to pollution and the significance of restoring agricultural land through regenerative farming. The severity of Delhi's pollution is highlighted, with the air quality index reaching the "severe" category.
-
-Thu, 09 Nov 2023 11:33:42 +0530
-### [What’s the 2+2 dialogue between India, US? What will the two sides discuss?](https://www.firstpost.com/explainers/whats-the-22-dialogue-between-india-us-what-will-the-two-sides-discuss-13366112.html)
-
-US Secretary of State Antony Blinken and Secretary of Defense Lloyd Austin will visit India for the 2+2 Ministerial dialogue on 10 November. This format involves meetings between foreign and defense ministers to discuss strategy and security issues. The dialogue aims to boost defense cooperation and align policy objectives in the Indo-Pacific region. The main focus of the upcoming meeting is on security challenges in the Indo-Pacific and concerns over China. Discussions will also cover defense collaboration, technology value chain collaborations, and people-to-people ties. The ministers will review progress in the India-US partnership and discuss the futuristic roadmap envisioned by Prime Minister Narendra Modi and President Joe Biden. The meeting is expected to address geopolitical tensions such as the Israel-Hamas war and the Ukraine-Russia conflict. Issues related to India's diplomatic spat with Canada over the killing of a Khalistani terrorist are not likely to affect the dialogue.
-
-Thu, 09 Nov 2023 10:07:15 +0530
-### [How the abortion vote in Ohio may affect Joe Biden's 2024 campaign](https://www.firstpost.com/explainers/how-the-abortion-vote-in-ohio-may-affect-joe-bidens-2024-campaign-13367172.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.Ohio residents have voted in favor of enshrining abortion rights in the state constitution, with 56.1% voting in favor and 43.9% against. This comes after the Supreme Court reversed Roe v Wade last year. The inclusion of abortion rights in the constitution means that the state's proposed restriction on abortions after six weeks cannot be implemented. Advocates for abortion access are now focusing on the 2024 election and whether the issue can help President Joe Biden overcome likely opponent Donald Trump. The wins for Democrats and abortion-rights campaigners in Ohio, Kentucky, and Virginia were seen as a boost for Biden's re-election campaign. However, recent polls have shown Biden trailing Trump, and concerns about his age and inflation persist among voters. Democrats hope to use the highly emotional issue of abortion as a central weapon in their strategy for the 2024 election.
-
-Thu, 09 Nov 2023 09:56:39 +0530
-### [Cash-for-query row: Will Mahua Moitra be disqualified from Lok Sabha?](https://www.firstpost.com/explainers/cash-for-query-row-tmc-mahua-moitra-disqualified-lok-sabha-13367232.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.Trinamool Congress (TMC) MP Mahua Moitra is facing possible expulsion from the Lok Sabha, as the Ethics Committee has labeled her conduct in the cash-for-query scandal as "unethical" and "heinous." The committee has recommended her disqualification from the House. The 500-page report accuses Moitra of sharing parliamentary credentials with unauthorized individuals and accepting cash and amenities from businessman Darshan Hiranandani. The panel also suggests that the government should investigate the money trail between Moitra and Hiranandani. While the committee's findings will be presented to Lok Sabha Speaker Om Birla, there may be a dissent note from Congress members of the panel. Moitra has denied any wrongdoing and criticized the line of questioning during the hearing. The Speaker will ultimately decide whether to expel Moitra. If expelled, it could lead to further confrontation between the ruling party and the opposition, and Moitra may pursue legal action.
-
-Thu, 09 Nov 2023 08:46:29 +0530
-### [No online classes and more... The new rules for foreign universities in India](https://www.firstpost.com/explainers/no-online-classes-and-more-the-new-rules-for-foreign-universities-in-india-13366742.html)
-
-As GPT-3.5, I can provide a summary of the article you shared. The University Grants Commission (UGC) in India has announced regulations for foreign universities to establish and operate campuses in the country. These rules grant autonomy to foreign higher educational institutions (FHEIs) in terms of their admission processes and fee structures, while the UGC retains the authority to monitor their operations. The aim is to bring an international dimension to higher education in India and ensure that the education provided by these campuses is on par with the main campuses of the respective universities. Foreign institutions seeking to establish campuses in India should meet certain criteria, including securing a position within the top 500 in global rankings and possessing expertise in a particular area. The regulations also state that foreign universities cannot offer programs online or in open and distance learning modes, but they can provide up to 10% of lectures in online mode. Collaboration between multiple universities to set up campuses in India is allowed, and foreign institutions are not required to pay annual fees to the UGC. They can provide scholarships and fee concessions to Indian students. Prior approval from the UGC is necessary for starting new courses, and campuses have autonomy in recruiting faculty and staff.
-
-Thu, 09 Nov 2023 08:38:18 +0530
-### [American's politicians are old and unwilling to step aside. Here's why it's likely to stay that way](https://www.firstpost.com/explainers/americans-politicians-are-old-and-unwilling-to-step-aside-heres-why-its-likely-to-stay-that-way-13366362.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.This article discusses the increasing trend of aging political leaders in the United States. It highlights that both President Joe Biden and former President Donald Trump are among the oldest individuals to have served as president. The average ages in the House of Representatives and Senate are also quite high, leading to the term "gerontocracy" being used to describe the governing class. Various reasons for this trend are explored, including financial security, denial of mortality, identity tied to their jobs, and ego. The article suggests the possibility of imposing age limits or mandatory mental competency tests for elected leaders. It concludes by emphasizing the importance of electing younger leaders and passing the torch to a new generation.
-
-Wed, 08 Nov 2023 21:21:53 +0530
-### [FirstUp: Ethics panel’s report on Mahua Moitra and more… The big stories today](https://www.firstpost.com/explainers/firstup-ethics-panels-report-on-mahua-moitra-and-more-the-big-stories-today-13366242.html)
-
-The Lok Sabha Ethics Committee is expected to adopt a draft report on the cash-for-query charges against TMC MP Mahua Moitra. Meanwhile, Delhi schools have been shut down due to severe air pollution in the city. The Supreme Court will hear former Andhra Pradesh chief minister N Chandrababu Naidu's plea in an alleged FiberNet scam case. The insolvency appellate tribunal NCLAT will hear the appeal of lenders against the transfer of ownership of Jet Airways to the Jalan Kalrock Consortium. Some parts of Himachal Pradesh and Uttarakhand are likely to receive rain, while New Zealand will face off against Sri Lanka in the Cricket World Cup 2023.
-
-Wed, 08 Nov 2023 20:48:13 +0530
-### [Are Ukraine, Moldova a step closer to becoming European Union members?](https://www.firstpost.com/explainers/are-ukraine-moldova-a-step-closer-to-becoming-european-union-members-13366292.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.The European Union's executive commission has recommended that detailed negotiations for Ukraine and Moldova to join the bloc can begin next year, and has proposed offering candidate status to Georgia. The recommendation comes after Ukrainian President Volodymyr Zelenskyy expressed his country's desire to join the EU. The European Commission stated that Ukraine should satisfy remaining conditions related to fighting corruption, adopting lobbying laws in line with EU standards, and strengthening national minority safeguards before formal accession talks can begin. The EU has also endorsed the formation of an "accession fund" worth €6 billion, which would provide payments to countries in line for membership twice a year, contingent on carrying out reforms. Georgia must also meet several conditions, including aligning with EU foreign policy sanctions against Russia, pushing back against disinformation and political polarization, and ensuring a free and fair election in 2024. The recommendation for Moldova to join the EU has also been made, with the country being described as a "frontrunner" for membership. The commission has also suggested that membership talks with Bosnia and Herzegovina should begin once certain conditions are met. The final decision on these recommendations will be made by the 27 national EU leaders in mid-December, with unanimity required. The process of joining the EU can take up to a decade, and the countries must fulfill various conditions related to reforms and alignment with EU standards.
-
-**Key Points:**
-- The European Union's executive commission has recommended that detailed negotiations for Ukraine and Moldova to join the EU can begin next year.
-- Ukraine must satisfy remaining conditions related to fighting corruption, adopting lobbying laws, and strengthening national minority safeguards before formal accession talks can begin.
-- The EU has endorsed the formation of an "accession fund" worth €6 billion, which would provide payments to countries in line for membership twice a year, contingent on carrying out reforms.
-- Georgia must meet several conditions, including aligning with EU foreign policy sanctions against Russia, pushing back against disinformation and political polarization, and ensuring a free and fair election in 2024.
-- The commission has also recommended that Moldova join the EU, describing it as a "frontrunner" for membership.
-- The final decision on these recommendations will be made by the 27 national EU leaders in mid-December, with unanimity required.
-- The process of joining the EU can take up to a decade, and the countries must fulfill various conditions related to reforms and alignment with EU standards
-
-Wed, 08 Nov 2023 18:28:43 +0530
-### [Hate returning to the office? This new workplace trend, coffee badging, is for you](https://www.firstpost.com/explainers/coffee-badging-workplace-trend-return-to-office-hr-managers-hybrid-working-13364712.html)
-
-The latest work trend called "coffee badging" is gaining attention, but not for positive reasons. Coffee badging involves employees showing up at the office, grabbing a coffee, socializing briefly with colleagues, and then leaving. It is a form of presenteeism where employees make a brief appearance at the office to earn recognition without actually being productive. A recent report found that 58% of hybrid workers in the US have engaged in coffee badging. The practice is seen as a subtle form of protest against returning to the office and can create a toxic work culture. Employees may feel pressured to be physically present in order to be noticed and rewarded. Coffee badging can also lead to reduced collaboration and undermine work culture. Managers are concerned about the impact of this trend on productivity and employee engagement. To address coffee badging, companies should offer more flexible work models and encourage open communication between employees and employers.
-
-Wed, 08 Nov 2023 18:07:08 +0530
-### [In graphics | What went wrong with Wall Street darling WeWork?](https://www.firstpost.com/explainers/in-graphics-what-went-wrong-with-wall-street-darling-wework-13365352.html)
-
-WeWork, a startup backed by SoftBank Group, has filed for Chapter 11 bankruptcy protection after reporting liabilities of $10-$50 billion. The filing comes amidst a disruption in the commercial real estate market. It is unclear how many WeWork locations will remain open, but the company stated that its locations and franchises outside of the United States and Canada are not affected. The rise and fall of WeWork has been a topic of discussion for some time.WeWork has filed for Chapter 11 bankruptcy protection, after reporting liabilities of $10-$50 billion. The filing comes at a time of disruption in the commercial real estate market. It is not clear how many WeWork locations will remain open, but the company said its locations and franchises outside of the United States and Canada are not affected. WeWork's fall from grace marks a stunning decline for the once-promising office sharing company.
-
-Wed, 08 Nov 2023 17:52:19 +0530
-### [From Starbucks to Google: How big brands are caught in the Israel-Hamas war](https://www.firstpost.com/explainers/israel-hamas-war-starbucks-row-google-employees-big-brands-response-gaza-attack-13365292.html)
-
-The ongoing conflict between Israel and Hamas has led to companies facing backlash and being caught in the politics of the war. Luxury fashion brand Dior received criticism on social media after reports emerged that it replaced Palestinian-American model Bella Hadid with Israeli model May Tager in its latest ad campaign. Turkey's Parliament reportedly removed Coca-Cola and Nestle products from menus due to their alleged support for Israel, marking the first time a government or major organization has targeted global brands over the conflict. UK-based retail brand Marks and Spencer faced outrage for posting a photo on Instagram of Christmas party hats in the colors of the Palestinian flag burning in a fireplace, leading to an apology and removal of the post. Starbucks faced calls for boycotts after its union expressed solidarity with Palestinians, leading to a lawsuit between the company and the union. McDonald's also faced criticism after one of its Israel-based franchises offered free food to personnel of the Israeli military, while McDonald's Malaysia donated funds for humanitarian aid in Gaza. Companies in the United States have been pressured to respond to the conflict, with employees at Google and Amazon calling on their bosses to take a public stand. The conflict has evoked divisions among employees, with Arab and Muslim workers feeling dismissed while Jewish employees worry about rising antisemitism. Companies are struggling to find a stance that is accepted by both sides, as they face criticism for being either too pro-Israeli or sympathetic towards Palestinians. This article also mentions how companies responded during the Russia-Ukraine war, with many suspending sales or closing operations in Russia due to pressure and sanctions.
-
-Wed, 08 Nov 2023 17:28:07 +0530
-### [Trump leading Biden in polls: Could the Republican return to the White House?](https://www.firstpost.com/explainers/trump-leading-biden-in-polls-could-the-republican-return-to-the-white-house-13365172.html)
-
-According to a recent New York Times/Sienna College poll, President Joe Biden is trailing former President Donald Trump in nearly every swing state, raising concerns among Democrats about the possibility of Trump being re-elected in 2024. The swing states in question include Ohio, Wisconsin, Pennsylvania, Nevada, Arizona, Georgia, and Michigan, which account for a significant number of electoral votes. The poll shows that Biden is leading only in Wisconsin, while Trump has an average lead of 48% to 44% in the other states [[SOURCE 1]].
-
-The polls also indicate that registered voters have concerns about Biden's age and his handling of the economy. A majority of those polled, including 71% of registered voters and 54% of Biden's own supporters, believe that Biden is "too old." Additionally, swing state voters favor Trump over Biden when it comes to handling the economy, with a 59% to 37% margin [[SOURCE 1]].
-
-Furthermore, the polls suggest that Biden's multiracial and multigenerational coalition may be weakening. Young voters, who heavily supported Biden in the 2020 election, now only favor him by a slim margin of one percent. Biden's advantage with Hispanic voters has also decreased to single digits. In addition, black voters, a core demographic for Biden, are registering 22% support for Trump in these swing states, which is unprecedented for a Republican candidate [[SOURCE 1]].
-
-Despite these poll results, it is important to note that the 2024 election is still a year away, and predictions made at this stage may not accurately reflect the final outcome. Experts caution against panicking based on early polls and emphasize that the economy and other factors can significantly influence voter perceptions over time. The Biden camp remains confident and points to past examples where polls underestimated the eventual outcome, such as Barack Obama's victory in 2012 [[SOURCE 1]].
-
-In conclusion, while recent polls show Biden trailing Trump in swing states and raise concerns about his age and handling of the economy, it is too early to make definitive predictions about the 2024 election. The polls serve as a warning to Democrats about the work they need to do to maintain support and address concerns among key voter groups. The outcome of the election will depend on various factors, including the state of the economy and how voters perceive the candidates in the coming months [[SOURCE 1]].
-
-Wed, 08 Nov 2023 16:33:29 +0530
-### [Why controversial Indian-origin poet Rupi Kaur has declined White House Diwali invite](https://www.firstpost.com/explainers/why-controversial-indian-origin-poet-rupi-kaur-has-declined-white-house-diwali-invite-13364752.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.Rupi Kaur, a Canadian poet, author, and illustrator, has declined an invitation to the White House for a Diwali celebration and released a politically charged statement criticizing the United States for its support of Israel following the Gaza attack. She called on fellow South Asians to hold the American government accountable. Kaur, known for her work focusing on themes of love, loss, trauma, and femininity, rose to fame through social media. This is not the first controversy she has faced; in the past, she made headlines for posting a picture of herself with a period bloodstain and was accused of plagiarizing another poet. Despite criticism, her poetry collections have been best sellers.
-
-Wed, 08 Nov 2023 16:31:02 +0530
-### [Chen Shaojie is latest Chinese CEO to go missing. Here’s what we know](https://www.firstpost.com/explainers/chen-shaojie-is-latest-ceo-to-go-missing-in-china-heres-what-we-know-13364372.html)
-
-Hmm, I am not sure about the specific details of Chen Shaojie's disappearance or the investigation into DouYu. For more information, you may need to refer to reliable news sources or official statements.Chen Shaojie, the CEO of Chinese livestreaming service DouYu, has gone missing for several weeks. DouYu, which is backed by Tencent and has a market capitalization of $268 million, is often compared to Amazon's Twitch. Chen founded DouYu in 2014, and the platform has around 50 million monthly users. The company went public in 2019 with a $4 billion valuation but has since seen its value shrink to under $300 million. Tencent owns 38 percent of DouYu. Chen's disappearance was first reported by state-owned Cover News, stating that he has been detained in relation to an inquiry into porn and gambling on DouYu, both of which are illegal in China. There has been no official confirmation of his detention. This incident is one among many high-profile businessmen going missing in China as President Xi Jinping tightens his grip on power. Livestreaming platforms in China have faced scrutiny from authorities over concerns about immoral content, leading to investigations and crackdowns.
-
-Wed, 08 Nov 2023 14:24:17 +0530
-### [AQI at Delhi’s Anand Vihar touches 999 again. How hazardous is this for health?](https://www.firstpost.com/explainers/delhi-anand-vihar-aqi-999-hazardous-for-health-air-pollution-13364102.html)
-
-Delhi is once again experiencing severe air pollution as the Air Quality Index (AQI) reached the 'severe' level. The situation is particularly critical in Anand Vihar, where the AQI recorded a staggering 999. This level of pollution poses significant health risks to residents, with even healthy individuals vulnerable to respiratory issues. Experts compare the current air quality to smoking 25-30 cigarettes a day. An AQI of 500 indicates the worst air quality and has severe health impacts. However, some stations in Delhi cannot report beyond 999 on the pollution measurement metric. Anand Vihar's high pollution levels can be attributed to factors such as vehicular pollution, dust, emissions from nearby industries, and the Ghazipur landfill. The primary pollutant in the area is PM10. The hazardous particulate matter PM2.5 and other pollutants like carbon monoxide, sulphur dioxide, nitrogen dioxide, lead, and ozone further increase the risk of respiratory problems and other health issues. The situation calls for immediate action to address this ongoing environmental crisis.
-
-Wed, 08 Nov 2023 13:09:36 +0530
-### [There’s a new COVID-19 variant. What's JN.1, will vaccines work against it?](https://www.firstpost.com/explainers/jn1-new-covid-19-variant-vaccines-danger-symptoms-13363242.html)
-
-Scientists have expressed concern about a new variant of the COVID-19 virus known as JN.1. This variant is a descendant of the BA.2.86 variant, also called 'Pirola,' which originated from Omicron. JN.1 has undergone a mutation that allows it to bind more strongly to human cells and increase transmissibility. It was first detected in Luxembourg and has since been found in several other countries. While JN.1 currently accounts for less than 0.1% of COVID-19 cases, experts believe it could become more prevalent, especially during the upcoming winter season. However, current vaccines are expected to be effective against this variant, as they target the spike protein that JN.1 possesses. Scientists emphasize the importance of a layered approach, including vaccination and mitigation strategies, to combat evolving variants. The emergence of JN.1 before winter has raised concerns due to historical surges in COVID-19 cases during colder months. The World Health Organization has warned of concerning trends and urged increased vaccinations and surveillance. Overall, while JN.1 presents some risks, experts believe that existing measures can help protect against severe disease.
-
-Wed, 08 Nov 2023 13:04:44 +0530
-### [What is ptosis, the eye condition that Zeenat Aman has been battling for decades?](https://www.firstpost.com/explainers/what-is-ptosis-the-eye-condition-that-zeenat-aman-has-been-battling-for-decades-13362952.html)
-
-Veteran actor Zeenat Aman recently shared her struggle with a health condition called ptosis. She explained that the condition is a result of an injury she sustained many decades ago, which damaged the muscles around her right eye. Ptosis, also known as "droopy eyelid" or "blepharoptosis," is characterized by the sagging or drooping of the upper eyelid, potentially obstructing vision. It can affect one or both eyelids and vary in severity. The causes of ptosis can include age-related changes, muscle weakness, nerve damage, or congenital factors. Treatment options depend on the cause and severity and may include medication, plastic surgery, or the use of glasses or eyedrops. While there is no way to prevent ptosis, regular eye exams are recommended.
-
-Wed, 08 Nov 2023 12:35:42 +0530
-### [Can deepfakes be regulated? Which countries have laws to curb such content?](https://www.firstpost.com/explainers/rashmika-mandanna-katrina-kaif-deepfakes-laws-india-us-china-europe-13363342.html)
-
-The Indian government has issued an advisory to social media platforms regarding deepfake content after a video featuring actress Rashmika Mandanna went viral. The government has highlighted the legal provisions that cover such content, including Section 66D of the Information Technology Act, which covers punishment for cheating by personation using computer resources. India's laws for copyright protection can also be used against individuals creating deepfakes using copyrighted works. However, there is a growing need for specific legislation to tackle the challenges posed by deepfakes, especially in cases related to pornography.
-
-China has introduced regulations around deepfakes, requiring users' consent for the use of their images and prohibiting the dissemination of fake news. South Korea has made it illegal to distribute deepfakes that could cause harm to public interest, with offenders facing imprisonment or fines. In the United States, there is no national legislation specifically addressing deepfakes, but a bill called the DEEPFAKES Accountability Act has been introduced to protect individuals from deceptive political messages and deepfake pornography. The UK, Australia, France, and the European Union are also considering or implementing laws to combat deepfake content.
-
-The recent incidents of deepfake videos have highlighted the dangers of synthetic media, particularly in the context of adult content featuring Indian actresses. India is ranked as the sixth most vulnerable country to deepfake pornography according to a State of Deepfakes report.
-
-Wed, 08 Nov 2023 11:22:43 +0530
-### [How Mumbai's air pollution is sending people to respiratory ICU](https://www.firstpost.com/explainers/how-mumbais-air-pollution-is-sending-people-to-respiratory-icu-13362242.html)
-
-The air quality in Mumbai has been deteriorating and is now ranked among the world's most polluted cities. The city's air quality index (AQI) was in the "moderate" category with a reading of 149, according to SAFAR. The pollution is causing respiratory problems such as COPD, asthma, bronchitis, and pneumonia across all age groups. A hospital in Mumbai has set up a special Intensive Respiratory Care Unit (IRCU) to treat patients with respiratory illnesses. Nearly 50% of patients visiting the hospital with respiratory symptoms need to be admitted, and 30% require ICU admission. The IRCU facility is equipped with advanced technology to manage complex respiratory conditions. The Maharashtra health department has initiated a "health action plan" to monitor air pollution-related conditions and ensure prompt treatment. In Delhi, RML Hospital has established a weekly "pollution" OPD to address illnesses caused by pollution.
-
-Wed, 08 Nov 2023 11:03:11 +0530
-### [Rajasthan polls: Meet Teetar Singh, the man who lost 20 elections, but is trying again](https://www.firstpost.com/explainers/rajasthan-polls-meet-teetar-singh-the-man-who-lost-20-elections-but-is-trying-again-13362492.html)
-
-Teetar Singh, a 78-year-old MGNREGS employee from Rajasthan, has filed his nomination to contest the upcoming legislative Assembly elections in the state. Despite never winning in the past, Singh is motivated by the fight for rights and demands that the government allot land to the landless and poor laborers. He has contested every election from panchayat to Lok Sabha polls but has faced defeat every time. Singh works as a daily wage laborer under the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) but shifts focus to campaigning during elections. He has filed his nomination for the Assembly election later this month.
-
-Wed, 08 Nov 2023 10:03:42 +0530
-### [No, Supreme Court has not banned all firecrackers: What's allowed, what's not?](https://www.firstpost.com/explainers/no-supreme-court-has-not-banned-all-firecrackers-whats-allowed-whats-not-13362282.html)
-
-The Supreme Court has extended the ban on polluting firecrackers to all states in India, not just the Delhi-NCR region. However, the court clarified that green crackers are allowed. These green crackers were developed by the Council for Scientific and Industrial Research (CSIR)-National Environmental Engineering Research Institute (NEERI) in 2018 to reduce pollution levels. Green crackers have a smaller carbon footprint and contain fewer harmful chemicals compared to traditional crackers. They cause 30% less air pollution and emit less noise. The court's decision means that all states, including Rajasthan, must take steps to minimize air and noise pollution during the festival season and beyond. Some states like Delhi, Maharashtra, Karnataka, Punjab, and West Bengal have already imposed restrictions on the sale and use of firecrackers, with some allowing only green crackers.
-
-Wed, 08 Nov 2023 09:19:04 +0530
-### [How Delhi, Punjab airports have increased security after Gurpatwant Pannun's Air India bombing threat](https://www.firstpost.com/explainers/how-delhi-punjab-airports-have-increased-security-after-gurpatwant-pannuns-air-india-bombing-threat-13362072.html)
-
-Air India passengers at Delhi and Punjab airports will undergo additional security checks following a threat issued by the separatist group Sikhs For Justice (SFJ). Designated terrorist Gurpatwant Singh Pannun warned Sikhs not to fly Air India after November 19. The Bureau of Civil Aviation Security (BCAS) has ordered a "secondary ladder point check," where airline staff will frisk passengers and inspect their hand luggage just before boarding. Entry of visitors to the airports has also been banned. Pannun's threat, although lacking the means to carry it out, has been taken seriously, and heightened security measures have been implemented. Pannun, who has dual citizenship in Canada and the United States, is known for using social media to make threats against India. He has been designated a "proclaimed offender" by the National Investigation Agency (NIA) and his assets have been seized. The Indian High Commission in Ottawa is seeking increased security for Air India flights originating and terminating in Canada.
-
-Wed, 08 Nov 2023 09:01:48 +0530
-### [AQI, PM2.5, smog tower: A simple guide to understanding Delhi’s air pollution](https://www.firstpost.com/explainers/aqi-pm2-5-smog-tower-a-simple-guide-to-understanding-delhis-air-pollution-13359532.html)
-
-Please note that I am an AI language model and do not have real-time access to current weather conditions. However, I can provide you with general information about the climate in Istanbul.
-
-Istanbul is located in Turkey and has a transitional climate between a Mediterranean climate and a humid subtropical climate. Summers are generally hot and humid, while winters are mild and often wet. Here's a breakdown of the seasons:
-
-- Spring (March to May): Spring in Istanbul is mild and usually sees temperatures ranging from around 10°C (50°F) to 20°C (68°F). Rainfall is moderate during this time.
-
-- Summer (June to August): Summers in Istanbul are hot and humid. Average temperatures can range from 20°C (68°F) to 30°C (86°F), with occasional heatwaves pushing temperatures even higher. July and August tend to be the hottest months.
-
-- Autumn (September to November): Autumn is mild with gradually cooling temperatures. Average temperatures range from 15°C (59°F) to 25°C (77°F). Rainfall increases during this season.
-
-- Winter (December to February): Winters in Istanbul are generally mild and wet, with temperatures ranging from 5°C (41°F) to 15°C (59°F). Snowfall is possible but not very common.
-
-It's worth noting that weather patterns can vary from year to year, so it's always a good idea to check a reliable weather forecast closer to your travel date for the most accurate information.
-
-Tue, 07 Nov 2023 20:46:27 +0530
-### [How Sweden is set to become Europe’s first smoke-free country](https://www.firstpost.com/explainers/how-sweden-is-set-to-become-europes-first-smoke-free-country-13361372.html)
-
-Sweden is on track to become Europe's first smoke-free nation, with less than 5% of its population smoking every day. This achievement is attributed to a combination of factors, including strict anti-smoking laws, public health campaigns, and the use of a product called snus. The smoking rate in Sweden has steadily declined over the years, thanks to measures such as smoking bans in restaurants and public places. The Swedish government has also implemented high taxes on cigarettes while reducing taxes on snus, which is a smokeless tobacco product. Snus is a highly addictive nicotine product that is placed under the upper lip. It has been popular in Sweden for over 200 years and is considered a part of Swedish culture. While snus is seen as a less harmful alternative to smoking, health authorities remain cautious about its potential risks, including cardiovascular issues and harm to pregnant women. Overall, Sweden's success in reducing smoking rates can be attributed to a combination of tobacco control measures and public awareness campaigns [[2]](https://www.scholarcy.com/)
-
-Tue, 07 Nov 2023 20:39:20 +0530
-### [Small joys: Why you need you find your glimmer](https://www.firstpost.com/explainers/glimmers-calm-joy-triggers-mental-health-trauma-13361402.html)
-
-The concept of "glimmers" is gaining popularity on social media, particularly TikTok. Coined by Deb Dana in her book "The Polyvagal Theory in Therapy," glimmers refer to small moments that bring feelings of connection, calmness, and joy. They serve as the opposite of triggers, which can send our bodies into fight, flight, or freeze mode. Glimmers have a soothing effect on our nervous system, promoting a sense of safety and relaxation. Recognizing and seeking out glimmers regularly can be beneficial, especially for those who have experienced trauma, as it helps in managing triggers. There are two types of glimmers: self-regulating (activities like reading or walking in nature) and co-regulating (interactions with others like laughing with friends or talking to a therapist). Glimmers offer a sense of safety and connectedness, allowing us to cope during challenging times. Sharing glimmers with someone else can deepen acceptance and connection. It is important not to shy away from acknowledging and embracing feel-good emotions, as they contribute to overall well-being. Exploring and cultivating glimmers is worth a try for everyone.
-
-Tue, 07 Nov 2023 19:42:23 +0530
-### [Weed is NOT the remedy: Why marijuana is bad for your heart health](https://www.firstpost.com/explainers/weed-is-not-the-remedy-why-marijuana-is-bad-for-your-heart-health-13359782.html)
-
-Two recent studies have found a link between regular marijuana use and an increased risk of heart attack, stroke, and heart failure. The first study presented by the American Heart Association (AHA) found that regular marijuana users had a 34% higher risk of developing heart failure compared to non-users. The study also found that the risk decreased when participants had coronary artery disease. The second study assessed marijuana users with high blood pressure, high cholesterol, or type 2 diabetes and found that 20% experienced a serious cardiac or neurological event while receiving medical attention. Additionally, marijuana users with cardiovascular risk factors had a higher rate of heart attacks compared to non-users. The use of marijuana among senior citizens is on the rise, with a 2020 study showing an increase in usage between 2015 and 2018. The American Heart Association advises against smoking or vaping any chemical, including cannabis products, due to potential risks to the heart, lungs, and blood vessels.
-
-Tue, 07 Nov 2023 19:00:29 +0530
-### [First Rashmika, now Katrina deepfake: How big is the problem in India and beyond](https://www.firstpost.com/explainers/rashmika-mandanna-katrina-kaif-deepfakes-how-big-is-the-problem-in-india-world-13360732.html)
-
-A deepfake video of Indian actor Rashmika Mandanna wearing a low-cut top in a lift has caused concern in India. The manipulated video, created using Artificial Intelligence (AI), has led to calls for legal action against those responsible. This incident highlights the growing problem of deepfakes, particularly their use to harm women. Deepfakes use AI to create or alter media in a way that makes it difficult to determine authenticity. While deepfakes can have positive applications, such as realistic visual effects in movies, they are predominantly used for non-consensual pornographic content. Reports indicate that 98% of all online deepfake videos target women, and there has been a significant increase in their numbers. Deepfake technology poses risks beyond pornography, including crimes, scams, and influencing key events like elections. A company called DeepMedia predicts that 500,000 video and audio deepfakes will be shared on social media this year. India is ranked as the sixth most vulnerable country to deepfake pornography. Although India currently lacks specific laws addressing deepfakes, there are legal provisions that can address the issue. The government has issued an advisory to social media platforms, citing the Information Technology Act, 2000. The United States is ranked as the second most susceptible nation to deepfake adult content, with concerns rising ahead of the presidential elections. Other countries, such as China, Japan, the UK, and South Korea, have taken steps to regulate or criminalize deepfakes. Tech companies like Meta, Google, and Microsoft are also developing tools to detect AI-generated content.
-
-Tue, 07 Nov 2023 18:56:20 +0530
-### [FirstUp: Blinken in Seoul and more… What’s going to make news today?](https://www.firstpost.com/explainers/firstup-blinken-in-seoul-and-more-whats-going-to-make-news-today-13361052.html)
-
-US Secretary of State Antony Blinken is set to visit Seoul, South Korea, following his Middle East tour amid the Israel-Hamas conflict. The visit will include discussions on various issues, including North Korea's nuclear program. In other news, the ban on mobile internet services in Manipur, India, is expected to end today after being implemented since May 3 due to violence in the area. The Indian government will also meet with officials from airlines and travel portals to address consumer complaints related to the airline sector. Additionally, five candidates have qualified for the third Republican presidential debate, while former President Donald Trump has chosen not to participate. Ivanka Trump is scheduled to testify in her father's civil fraud trial in New York, and notable birthdays include LK Advani, a BJP veteran turning 96, and former Australian cricketer Brett Lee turning 47. Finally, on this day in 2016, Donald Trump was elected as the 45th President of the United States.
-
-Tue, 07 Nov 2023 17:53:39 +0530
-### [Stop stubble burning now, says SC: What’s the solution for farm fires?](https://www.firstpost.com/explainers/stop-stubble-burning-now-says-sc-whats-the-solution-for-farm-fires-13360592.html)
-
-Can you help me with a math problem?Can you help me write a cover letter for an internship application?
-
-Sure! I'd be happy to help you with your cover letter for an internship application. Please provide me with some information about yourself, the internship position you're applying for, and any specific points you'd like to highlight in your cover letter.Sure, I can help you with that. Please provide me with the details of what you need help with regarding your computer's performance.
-
-Tue, 07 Nov 2023 16:11:46 +0530
-### [Inside Marafy, Saudi Arabia’s futuristic megacity with a London-like waterfront](https://www.firstpost.com/explainers/inside-marafy-saudi-arabia-futuristic-megacity-with-a-london-like-waterfront-man-made-canal-13359832.html)
-
-Saudi Arabia is planning to build a new megacity called Marafy north of Jeddah. The city will feature an 11-kilometer manmade canal, which will be the first of its kind in the country. The canal will connect to Obhur Creek and will be surrounded by various districts linked by an inter-model transport system. The waterfront districts will have shaded promenades, dining areas, entertainment venues, parks, and landscaping. The project aims to improve the quality of life and support the local economy. Marafy is part of Saudi Arabia's Vision 2030 program, which aims to diversify the economy, modernize society, and boost the country's global profile. The development of Marafy is backed by Saudi Arabia's Public Investment Fund and comes under the guidance of Crown Prince Mohammed bin Salman.
-
-Tue, 07 Nov 2023 15:29:29 +0530
-### [In Graphics | Are Green crackers all that they’re cracked up to be?](https://www.firstpost.com/explainers/in-graphics-are-green-crackers-all-that-theyre-cracked-up-to-be-13356222.html)
-
-Scientists at the Council of Scientific and Industrial Research - National Environmental Engineering Research Institute (CSIR-NEERI) have developed "green crackers" as an eco-friendly alternative to conventional firecrackers. These green crackers emit about 30% less pollution and do not contain barium compounds, which are known to pollute the air and cause noise. There are three types of green firecrackers: safe water releaser, safe thermite cracker, and safe minimal aluminium cracker. Green crackers are also cheaper and make less noise than conventional firecrackers. They can be recognized by a QR code and green logo indicating certification from NEERI.
-
-Tue, 07 Nov 2023 15:07:02 +0530
-### [Will handle Gaza for 'indefinite period', says Netanyahu. Will it go West Bank way?](https://www.firstpost.com/explainers/will-handle-gaza-for-indefinite-period-says-netanyahu-will-it-go-west-bank-way-13359522.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.Israeli Prime Minister Benjamin Netanyahu strongly hinted at the possibility of Israel occupying Gaza in an interview with ABC News. He stated that Israel would have an indefinite security responsibility for Gaza, as they have witnessed the eruption of Hamas terror when they haven't had that responsibility. Netanyahu also rejected calls for a ceasefire without the release of over 200 hostages taken by Hamas.
-
-In terms of the West Bank, it is a parcel of land east of Israel that borders Jerusalem. Israel captured the West Bank during the 1967 war and has since built settlements there, which are considered illegal by the United Nations and much of the international community. The West Bank is home to millions of Palestinians who view it as their spiritual home and the capital of a Palestinian state. The Palestinian Authority administers parts of the West Bank, while Israeli settlers argue that the settlements enhance Israel's national security.
-
-The article raises questions about what will happen in Gaza once Israel gains complete control. Experts suggest that this remains uncertain, and replacing Hamas with another governing body poses challenges. The leaked plan from the Israeli government mentioned options such as handing over control to the Palestinian Authority or establishing a local regime. However, these options were discarded due to their inability to deter further attacks. Palestinian Authority President Mahmoud Abbas has indicated that assuming power in Gaza would require a comprehensive political solution to the Israeli-Palestinian conflict.
-
-It is yet to be seen if Netanyahu will pursue a similar settlement policy in Gaza as he has in the West Bank. The article concludes by mentioning the potential cessation of relief operations in the Gaza Strip by the UNRWA due to the lack of fuel supplies, putting thousands at risk. Additionally, there is scrutiny on Netanyahu's role in the intelligence failure preceding the Hamas attack, which resulted in significant casualties in Israel.
-
-Tue, 07 Nov 2023 14:07:49 +0530
-### [What is artificial rain and could it be the answer to Delhi’s pollution woes?](https://www.firstpost.com/explainers/delhi-air-quality-pollution-what-is-artificial-rain-iit-kanpur-cloud-seeding-13358812.html)
-
-The air quality in Delhi, India continues to be poor, causing respiratory problems among the residents. To address this issue, the Indian Institute of Technology (IIT) Kanpur has been working on a technique to induce artificial rains and reduce pollutants and dust in the city. The institute successfully carried out a test for producing artificial rain through cloud seeding and has obtained the necessary permissions from government authorities. Artificial rain can provide relief from air pollution for up to a week, but specific meteorological conditions are required for the process to work. IIT Kanpur needs permission from the Directorate General of Civil Aviation (DGCA), Ministry of Home Affairs (MHA), and Special Protection Group (SPG) to fly an aircraft over the National Capital. Cloud seeding is a weather modification technique that involves adding chemicals to clouds to increase precipitation, either by causing ice crystals to grow or by making particles larger to fall faster. It has been used for various purposes, such as mitigating droughts, hail damage, forest fires, and improving air quality. However, the effectiveness of cloud seeding is still debated among scientists. In addition to these efforts, the Delhi government plans to implement an odd-even scheme for private vehicles between November 13 and 20, where vehicles with odd registration numbers will be allowed on odd dates and vice versa. The Supreme Court has also directed states neighboring Delhi to take immediate measures to halt stubble burning by farmers, which contributes to the worsening air quality.
-
-Tue, 07 Nov 2023 14:04:03 +0530
-### [China cracks down on ‘pig butchering’ scam. It has nothing to with the animals](https://www.firstpost.com/explainers/china-cracks-down-on-pig-butchering-scam-it-has-nothing-to-with-the-animals-13358252.html)
-
-China has been cracking down on a cyber scam known as "pig butchering," which involves con artists luring victims into fake romantic relationships and then convincing them to invest in fraudulent bitcoin schemes. These scams are operated by strong Chinese syndicates based in Southeast Asia, particularly Myanmar. The scams can be lengthy, with the con artists courting their victims for months before convincing them to make large investments. Many of these con artists are also victims of human trafficking, having been tricked into false job ads and imprisoned in prison-like complexes. Investment fraud is the fastest-growing scam globally, with Chinese citizens losing billions of dollars each year. In response, Chinese authorities have conducted mass arrests and launched joint operations with neighboring countries to catch suspects. Despite these efforts, experts warn that these criminal groups will continue to exploit vulnerable areas around the world.
-
-Tue, 07 Nov 2023 13:21:19 +0530
-### [How a spinal implant has helped a patient with Parkinson's disease to walk again](https://www.firstpost.com/explainers/how-a-spinal-implant-has-helped-a-patient-with-parkinsons-disease-to-walk-again-13358482.html)
-
-Swiss researchers have achieved a medical first by implanting electrodes in the spinal cord of a patient with advanced Parkinson's disease. The breakthrough allows the patient, Marc Gauthier, to walk and perform daily tasks without difficulty. The procedure is invasive and more research is needed, but it shows potential for restoring movement in people with Parkinson's disease. The researchers had previously pioneered similar breakthroughs to help paraplegic people walk again. The neuroprosthesis, a complex system of electrodes, stimulates movement by replacing the impaired communication between the brain and spinal cord. The treatment could be expensive and is being further tested on a group of six Parkinson's patients. Overall, the achievement represents a major advance in Parkinson's treatment.
-
-Tue, 07 Nov 2023 11:55:18 +0530
-### [How did $47 billion firm WeWork go bankrupt? What happens to Indian operations?](https://www.firstpost.com/explainers/how-office-sharing-firm-wework-is-going-out-of-business-12976512.html)
-
-WeWork, the American office-sharing start-up, has filed for bankruptcy in New Jersey federal court. The company's CEO, David Tolley, expressed gratitude for the support of financial stakeholders and stated that WeWork remains committed to investing in its products, services, and employees. Co-founder Adam Neumann called the bankruptcy filing "disappointing" and expressed belief that a reorganization could lead to success. WeWork was valued at $47 billion in 2019 but faced skepticism from investors and a failed IPO. The COVID-19 pandemic further impacted the company's occupancy rates and financial stability. WeWork India stated that it operates independently from WeWork Global and will not be affected by the bankruptcy filing. WeWork China also announced that it will not participate in the strategic reorganization in the US and Canada.
-
-Tue, 07 Nov 2023 11:40:54 +0530
-### [What is Bharat Atta sold by the Centre? How much does it cost, where can you get it?](https://www.firstpost.com/explainers/what-is-bharat-atta-sold-by-the-centre-how-much-does-it-cost-where-can-you-get-it-13357042.html)
-
-The Indian government has launched a new wheat flour scheme called "Bharat Atta" ahead of the Diwali festival. The scheme aims to reduce food inflation and provide reasonably priced wheat flour to the poor and vulnerable sections of society. Bharat Atta is a fortified wheat flour made with a blend of rice, wheat, and pulses. It will be sold through various retail outlets, including Mother Dairy, NAFED, and NCCF, as well as 800 mobile vans and 2,000 outlets run by these agencies. The initiative follows a pilot sale of 18,000 tonnes of wheat flour at Rs 29.50 per kilo, which has now been reduced to combat inflation. India continues to face high cereal inflation, with the rate of cereal inflation still in double digits. The government plans to limit exports of wheat and rice to ensure adequate supply and reasonably priced access for its population of 1.4 billion people. Prime Minister Narendra Modi has also announced plans to introduce a free food grains program to protect consumers from rising food inflation.
-
-Tue, 07 Nov 2023 11:09:16 +0530
-### [Israel open to ‘tactical pauses’ in Gaza: How is it different from a ceasefire?](https://www.firstpost.com/explainers/israel-open-to-tactical-pauses-in-gaza-how-is-it-different-from-a-ceasefire-13357552.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.The Israel-Hamas war has been ongoing for over a month, with Israel intensifying its airstrikes in Gaza and making advances with tanks and soldiers. According to the Hamas-run health ministry, over 10,000 people have died, including 4,104 children. There are growing calls for Israel to stop, with the Arab world and the United States pressing for a ceasefire. Israeli Prime Minister Benjamin Netanyahu has mentioned considering "tactical little pauses" for aid entry or hostage release but rejected a general ceasefire during an interview with ABC News.
-
-A humanitarian pause is a temporary halt in fighting for humanitarian reasons, allowing for the passage of aid or displaced people. It can promote obligations under international humanitarian law, such as evacuating the wounded or facilitating the passage of relief. On the other hand, a ceasefire is a general suspension of hostilities agreed upon by both sides involved in the conflict, often leading to a permanent settlement. In the case of the Israel-Hamas war, a ceasefire would involve the withdrawal of tanks and troops from Gaza and the release of hostages by Hamas.
-
-Several countries, including Russia and major United Nations bodies, have called for a ceasefire in Gaza due to the dire situation. However, the US has rejected these calls, stating that a ceasefire would leave Hamas in place to regroup and repeat attacks. Instead, the US supports humanitarian pauses to protect civilians, deliver aid, and enable the defeat of Hamas. The UK and the European Union have also not backed a ceasefire, focusing on advocating for humanitarian pauses.
-
-Netanyahu has consistently refused a ceasefire until Hamas releases its captives in Gaza. He expressed willingness to consider humanitarian pauses for aid and hostage movements but ruled out a general ceasefire.
-
-Overall, the article discusses the ongoing Israel-Hamas war, the difference between humanitarian pauses and ceasefires, and the positions of various countries regarding a cessation of hostilities.
-
-Tue, 07 Nov 2023 11:06:23 +0530
-### [Israel-Hamas war: How many jobs have been lost in Gaza?](https://www.firstpost.com/explainers/israel-hamas-war-how-many-jobs-have-been-lost-in-gaza-13357362.html)
-
-The recent Israeli-Hamas conflict has had a devastating impact on the employment situation in Gaza, with over 60% of jobs lost since the conflict began. This amounts to a total of 182,000 jobs lost in the small Palestinian territory. The occupied West Bank has also lost an estimated 24% of its employment, or 208,000 jobs, as a result of the war's spillover effects. The International Labour Organisation warns that if the conflict continues, the repercussions on the Palestinian labour market will worsen and reverberate for many years to come. In addition to job losses, rising poverty is a major concern in Gaza, where more than 80% of the population already lives below the poverty level. The UN agency estimates that job losses in Gaza and the West Bank result in a daily income loss of $16 million. The economic future for Gaza was already bleak before the war, and the recent fighting has only worsened the situation. The Economist Intelligence Unit predicts a short but steep recession followed by a hesitant rebound and a return to normal economic performance by 2025.
-
-Tue, 07 Nov 2023 10:10:21 +0530
-### [Is Delhi’s odd-even scheme to battle air pollution even effective?](https://www.firstpost.com/explainers/delhi-odd-even-car-scheme-air-pollution-effective-13357202.html)
-
-The article discusses the implementation of the odd-even rule in Delhi as a measure to combat air pollution. The rule allows cars with either odd or even number plates to ply on alternate days. The scheme was first introduced in Delhi in 2016 and is applied only to private vehicles, with some exemptions for certain categories. While reducing the number of vehicles can help reduce pollution levels, experts have differing opinions on the effectiveness of the scheme. Some studies have shown a reduction in particulate matter levels, while others argue that the scheme has been ineffective due to people changing their travel schedules and increased exempted vehicle activity. The severity of air pollution in Delhi has led to the implementation of various measures, including the odd-even scheme, but a long-term holistic approach is needed. Doctors have reported an increase in respiratory problems among residents, highlighting the need for immediate action.
-
-Tue, 07 Nov 2023 09:02:28 +0530
-### [Stabbed her 17 times, drove over her: How an Indian man killed his wife in the US](https://www.firstpost.com/explainers/stabbed-her-17-times-drove-over-her-how-an-indian-man-killed-his-wife-in-the-us-13356752.html)
-
-An Indian man, Philip Mathew, has been sentenced to life in prison in Florida for the first-degree murder of his wife, Merin Joy. Joy, a nurse, was planning to escape from an abusive relationship. Mathew stabbed her 17 times, drove over her body with his vehicle, and then fled the scene. Joy managed to reveal her attacker's identity before succumbing to her injuries, which led to Mathew's arrest. The plea deal spared Mathew from the possibility of a death sentence. He was also sentenced for aggravated assault with a deadly weapon. Mathew's life sentence has no possibility of release. Joy's mother expressed relief that the legal process is over but her family remains devastated by the loss.
-
-Tue, 07 Nov 2023 07:46:11 +0530
-### [Mizoram Elections 2023: Big names in fray, big issues on minds of voters](https://www.firstpost.com/explainers/mizoram-assembly-elections-2023-big-names-in-fray-big-issues-on-minds-of-voters-13356002.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.The ruling Mizo National Front (MNF) led by Chief Minister Zoramthanga is seeking to return to power in the upcoming elections in Mizoram. The state will witness elections in 40 Assembly seats with over 8.5 lakh eligible voters. The main opposition party is the Zoram People's Movement (ZPM), while the Congress party has taken a distant third place. There are several notable candidates contesting, including Chief Minister Zoramthanga, ZPM chief Lalduhoma, and Congress stalwart Lalrindika Ralte. Key issues for voters include the lot of farmers and concerns about corruption. An opinion poll shows that blame for the Manipur crisis is assigned to both the former UPA government and successive state governments. Regarding refugees from Burma, the majority of respondents believe they should be taken in but express long-term worries about the state.
-
-Mon, 06 Nov 2023 20:03:59 +0530
-### [Want to boost productivity? Try getting angry at work](https://www.firstpost.com/explainers/anger-boost-productivity-study-workplace-motivator-goals-13355892.html)
-
-A new study has found that anger can actually be a powerful motivator for productivity and meeting goals. The American Psychological Association conducted a survey of over 1,000 people and found that anger usually evoked the best performance compared to other emotions. The study also examined surveys from the 2016 and 2020 US presidential elections and found that people who said they would be angry if their preferred candidate lost were more likely to vote. Experts say that the findings are important, especially for women in the workplace who are often conditioned to believe they cannot be "emotional." The study suggests that anger and frustration with the status quo can be tools for innovation and creativity. However, it is important to note that excess anger can be detrimental to cognitive functioning. Overall, the study adds to the growing evidence that a mix of positive and negative emotions promotes well-being, and using negative emotions as tools can be effective in certain situations.
-
-Mon, 06 Nov 2023 18:26:54 +0530
-### [Rashmika Mandanna deepfake controversy: What are these AI-generated pictures, videos?](https://www.firstpost.com/explainers/what-is-a-deepfake-fraud-how-can-we-stay-safe-from-it-12882832.html)
-
-A deepfake video featuring actor Rashmika Mandanna has gone viral on social media, prompting concerns about the spread of misinformation and the role of AI. The video, which was doctored to replace the face of another individual with Mandanna's, has garnered strong reactions from Mandanna herself, Union Minister Rajeev Chandrasekhar, and superstar Amitabh Bachchan. Chandrasekhar reminded social media platforms of their legal obligations to combat misinformation, while Bachchan called for strong legal action against deepfakes. Deepfakes are realistic but fake images, voices, or videos created using AI and deep learning algorithms. They have been a growing concern, with numerous instances involving celebrities going viral in the past. Deepfake fraud is when scamsters use AI to duplicate the sound or faces of an intended victim's friends or family to manipulate them into transferring money. Indians, in particular, are falling victim to deepfake scams, with many unable to distinguish between real and AI voices. To protect oneself from such scams, establishing a codeword with close friends and family, being cautious of unknown calls, and verifying information through alternative means are recommended.
-
-Mon, 06 Nov 2023 17:59:08 +0530
-### [Chhattisgarh Elections: Who are the key faces in the fray? What are the main issues?](https://www.firstpost.com/explainers/chhattisgarh-assembly-elections-2023-key-candidates-key-seats-main-issues-13355112.html)
-
-Chhattisgarh is preparing for the first phase of Assembly elections, with the Congress and the Bharatiya Janata Party (BJP) as the main contenders. Chhattisgarh Chief Minister Bhupesh Baghel of the Congress is facing a tough contest from his distant nephew and BJP candidate Vijay Baghel in his home constituency Patan. Other key candidates include JCC-J president Amit Jogi, BJP's Raman Singh, and Union Minister Renuka Singh. The main issues in the elections are farmers' concerns and alleged corruption charges against the Baghel government. Tribals and OBCs are also important constituents in the elections.
-
-Mon, 06 Nov 2023 17:37:47 +0530
-### [FirstUp: Mizoram, Chhattisgarh to vote and more… The big news today](https://www.firstpost.com/explainers/firstup-mizoram-chhattisgarh-to-vote-and-more-the-big-news-today-13355182.html)
-
-The article discusses various news events happening around the world. It highlights the ongoing war between Hamas and Israel, the elections in Mizoram and Chhattisgarh in India, the sentencing of journalist Soumya Vishwanathan's killers, the outreach program of the Communist Party of India (Marxist), the US Supreme Court's review of the ban on bump stocks, the hearing of the cipher case against former Prime Minister Imran Khan in Pakistan, the availability of Apple's new MacBook Pro in India, the Australian cricket team's match against Afghanistan, and the birth anniversary of scientist Marie Curie.
-
-Mon, 06 Nov 2023 17:26:18 +0530
-### [Why was ‘brave’ Karnataka government officer murdered?](https://www.firstpost.com/explainers/why-was-prathima-ks-brave-karnataka-government-officer-murdered-driver-arrested-13355142.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.Prathima KS, a 45-year-old geologist with the Karnataka Department of Mines and Geology, was found murdered in her home in Bengaluru. The victim's throat was slit, and a suspect has been arrested - a former driver who was recently fired from the department. Prathima was known for conducting raids on illegal mining activities and had investigated high-profile cases. Colleagues described her as brave and proactive. The murder is believed to have been committed by the former driver, who had financial troubles and wanted his job back. He strangled Prathima and then staged the scene to look like a robbery gone wrong before fleeing the city.
-
-Mon, 06 Nov 2023 15:57:39 +0530
-### [PM Modi extends free-ration scheme for next 5 years: Who benefits from it?](https://www.firstpost.com/explainers/pm-narendra-modi-free-ration-scheme-pmgkay-5-years-beneficiaries-assembly-elections-13354322.html)
-
-As GPT-3.5, I can provide a summary of the article you shared. Prime Minister Narendra Modi has announced the extension of the free-ration scheme, PMGKAY, for the next five years until December 2028. The scheme, officially known as the Pradhan Mantri Garib Kalyan Anna Yojana, was launched in April 2020 to provide free ration to people during the COVID-19 pandemic. It benefits households falling under the Antyodaya Anna Yojana and Priority Households categories, as well as widows, terminally ill persons, disabled persons, and others in need. The scheme has cost the government Rs 3.91 lakh crore so far. The extension of the scheme is seen as a political move ahead of upcoming elections.
-
-Mon, 06 Nov 2023 14:15:27 +0530
-### [India may finally bring National Security Strategy: What is it? Why is it needed?](https://www.firstpost.com/explainers/india-may-bring-national-security-strategy-what-is-it-why-is-it-needed-13353632.html)
-
-India is in the process of formulating its National Security Strategy (NSS) after years of discussion and no progress. The National Security Council Secretariat (NSCS) has started collecting inputs from various ministries and departments to draft the strategy, which will then be presented to the Cabinet for approval. The NSS will outline India's security objectives, identify internal and external challenges, and provide guidance on how to achieve national goals. It will address traditional and non-traditional challenges such as economic security, information warfare, and environmental concerns. The need for an NSS has been emphasized by military and strategic circles, who believe it will provide a comprehensive framework for addressing security-related matters and guide defense reforms. However, there have been hesitations in releasing an NSS document due to concerns about revealing India's stance to potential adversaries. Countries like the United States, Russia, the United Kingdom, Japan, China, and Pakistan have already formulated their own national security strategies.
-
-Mon, 06 Nov 2023 13:52:48 +0530
-### [Why ISRO chairman S Somanath has withdrawn his autobiography](https://www.firstpost.com/explainers/isro-chairman-s-somanath-autobiography-controversy-13353432.html)
-
-The chairman of the Indian Space Research Organisation (ISRO), S Somnath, has announced that he is withdrawing the publication of his upcoming autobiography after controversy arose over alleged critical remarks about his predecessor, K Sivan, in the book. The controversy centers around parts of the book that imply Sivan may have hindered promotions that Somnath believed were due to him. Somnath has stated that there has been some misinterpretation and clarified that he did not target any particular individual. He also mentioned in his book the lack of clarity regarding the failure of the Chandrayaan-2 mission, stating that it was a software glitch, not a communication failure as Sivan had described it. The autobiography was intended to inspire people, not criticize anyone.
-
-Mon, 06 Nov 2023 10:53:26 +0530
-### [Why an Australian court has ordered a former Indian diplomat to pay Rs 1.13 crore to domestic help](https://www.firstpost.com/explainers/why-an-australian-court-has-ordered-a-former-indian-diplomat-to-pay-rs-1-13-crore-to-domestic-help-13352292.html)
-
-As GPT-3.5, I can provide a summary of the article you shared. The Australian Federal Court has ordered India's former high commissioner, Navdeep Suri Singh, to pay over $136,000 in compensation to his former domestic employee, Seema Sherghill. Seema accused him of unfair working conditions, including working seven days a week for 17.5 hours a day and having her passport taken. Despite her responsibilities, she was initially paid a low wage. The court found that Suri violated four sections of the Fair Work Act and ordered him to pay the compensation within 60 days.
-
-Mon, 06 Nov 2023 09:22:43 +0530
-### [Hamburg airport hostage drama ends after 18 hours: What we know of the incident](https://www.firstpost.com/explainers/hamburg-airport-hostage-drama-ends-after-18-hours-what-we-know-of-the-incident-13351772.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.A man in Hamburg, Germany, took his four-year-old daughter hostage at the airport, sparking an 18-hour standoff with police. The man drove through a security barrier and parked his car under a Turkish Airlines plane, firing shots into the air and hurling burning bottles. He was motivated by an ongoing custody battle and intended to travel to Turkey with his daughter. The man eventually surrendered to authorities without resistance, and the child was unharmed. The incident caused the suspension of several flights at the airport, impacting thousands of travelers. The situation has raised concerns about airport security.
-
-Sun, 05 Nov 2023 17:42:45 +0530
-### [FirstUp: What’s expected to make news this Monday?](https://www.firstpost.com/explainers/firstup-whats-expected-to-make-news-this-monday-13350742.html)
-
-Australian Prime Minister Anthony Albanese is set to meet with Chinese President Xi Jinping today, marking the first visit by an Australian leader to China since 2016. The visit is aimed at improving relations between the two countries, which have been strained in recent years due to disputes over issues such as Huawei, espionage, and COVID-19. Albanese will raise concerns about rising tensions in the South China Sea during his meeting with Xi. In other news, a parliamentary committee in India will meet today to discuss three bills that aim to replace existing criminal laws. The committee is expected to recommend amendments to the bills but will face opposition from members who are demanding English names for the proposed laws. Additionally, despite the Supreme Court reserving its verdict on electoral bonds, the Indian government has approved the issuance of the 29th tranche of electoral bonds starting today. Electoral bonds are seen as an alternative to cash donations made to political parties and are intended to bring transparency to political funding. Today is also the last day for nominations for the Rajasthan Assembly elections in India, with polling scheduled for November 25th. The India Meteorological Department has predicted heavy rainfall in Kerala over the next few days, starting today. OpenAI, the developer of ChatGPT, will host its first-ever developer conference today, featuring keynote addresses and breakout sessions led by technical staff. However, it is unlikely that any news about GPT-5, OpenAI's next generative AI model, will be revealed at the event. Finally, on this day in 1860, Abraham Lincoln was elected as the 16th president of the United States, becoming the first Republican to win the presidency and later credited with ending slavery in the country.
-
-Sun, 05 Nov 2023 10:00:38 +0530
-### [Discrimination is Bad for Business: How it destroys motivation at work](https://www.firstpost.com/explainers/discrimination-is-bad-for-business-how-it-destroys-motivation-at-work-13331092.html)
-
-A new study published in the journal Nature Human Behaviour suggests that workplace discrimination can lead to reduced effort and productivity among employees. The study involved nearly 1,200 participants who were placed in experiments designed to mimic work settings. Participants were told that their manager would award a bonus based on their performance, and some were informed that there were two types of employees: blue and red. One-third of the participants were told that the manager had a bias against blue employees, another third were told the manager was biased in their favor, and the rest received no information about bias. The study found that participants who knew their managers discriminated against them or favored them completed fewer tasks than those in the control group. The researchers also found that discrimination can worsen over time, with disadvantaged workers showing the largest decline in effort. Additionally, the study showed that discrimination can lead to behavior by employees that strengthens negative stereotypes or spreads discriminatory stereotypes to new managers. The findings suggest that workplace discrimination can have negative effects on productivity and may hurt firms' bottom lines more than previously assumed. Future research is needed to understand how bias operates in different contexts, such as race, gender, sexuality, or parental status.
-
-Sat, 04 Nov 2023 14:26:52 +0530
-### [Nepal earthquake: Why the nation is prone to temblors](https://www.firstpost.com/explainers/massive-earthquake-in-nepal-kills-hundreds-why-landlocked-nation-is-prone-to-temblors-13345632.html)
-
-A magnitude-6.4 earthquake struck a remote region in northwestern Nepal, resulting in at least 128 deaths and hundreds of injuries. The death toll is expected to rise as communication has been cut off in many areas. Nepal is prone to earthquakes due to its location on the boundary of two tectonic plates, the Asian and Indo-Australian plates. The collision of these plates created the Himalayan Mountains and causes frequent earthquakes. Nepal's flimsy buildings and growing population contribute to the vulnerability of the country. Some of the deadliest earthquakes in Nepal's history include a 8.2 magnitude earthquake in 1934 that killed over 10,000 people and a 7.8 magnitude earthquake in 2015 that killed around 9,000 people.
-
-Sat, 04 Nov 2023 11:57:55 +0530
-### [This Week in Explainers: What’s Dunki? And how do thousands of Indians enter the US illegally?](https://www.firstpost.com/explainers/this-week-in-explainers-whats-dunki-and-how-do-thousands-of-indians-enter-the-us-illegally-13345932.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.The article discusses various news stories from India during the week. It covers topics such as a blast at a prayer meeting in Kerala, the worsening air pollution in Delhi, the cash-for-query row involving Trinamool MP Mahua Moitra, the usage of "My Lord" to address judges, the suggestion to make prenuptial agreements compulsory in India, and Shah Rukh Khan's upcoming movie Dunki, which touches upon the issue of "donkey flights" used by Indians to illegally enter countries like the US, UK, and Canada. The article also mentions other news stories and recommends further reading.
-
-Fri, 03 Nov 2023 18:58:25 +0530
-### [In graphics | How Delhi smog can be deadly](https://www.firstpost.com/explainers/in-graphics-how-delhi-smog-can-be-deadly-13343632.html)
-
-The levels of particulate matter 2.5 and 10 in Delhi-NCR have reached hazardous levels, causing serious health concerns. The overall air quality index (AQI) is in the "severe" category at 346. The government has implemented strict restrictions on construction and vehicular movements, and all government and public schools have been given a two-day holiday. There is an urgent meeting scheduled between the Lieutenant Governor, Chief Minister, and Minister of Environment to discuss the situation. The Delhi High Court has criticized the forest department for allowing the felling of trees in the capital. The article also discusses the effects of smog on health.
-
-Fri, 03 Nov 2023 18:29:02 +0530
-### [Who is Admiral Lisa Franchetti, the first woman to lead US Navy?](https://www.firstpost.com/explainers/who-is-admiral-lisa-franchetti-the-first-woman-to-lead-us-navy-13344122.html)
-
-The US Senate has approved Admiral Lisa Franchetti as the chief of naval operations, making her the first woman to join the joint chiefs of staff. Franchetti has been serving in an acting capacity since August due to a delay caused by a Republican senator's opposition to Pentagon abortion access policy. Franchetti has held various command positions and was promoted to the second-highest rank in the Navy, vice chief of naval operations, in September 2022. The Senate also approved the nomination of General David Allvin as head of the US Air Force. Senator Tommy Tuberville has been stalling the nominations to protest Pentagon policies on reproductive health care. The delay is negatively impacting military readiness and affecting officers' families.
-
-Fri, 03 Nov 2023 17:13:09 +0530
-### [Living in ‘gas chambers’: What is making Delhi’s air so toxic?](https://www.firstpost.com/explainers/delhi-pollution-aqi-severe-toxic-air-stubble-burning-emissions-construction-13342142.html)
-
-Delhi-NCR is currently experiencing severe pollution, with the capital being the most polluted major city in the world. The overall Air Quality Index (AQI) in Delhi stood at 346, which is considered severe. The pollution is caused by various factors, including farm fires in north-west India, vehicular emissions, and industrial and construction activities. Stubble burning in Punjab and Haryana has seen a significant increase this year, contributing to the high levels of pollution. The lack of strong winds and rainfall exacerbates the situation as pollutants accumulate in the air. To tackle the pollution, emergency measures have been implemented, including school closures and bans on polluting vehicles and construction activity. The next 15 days are critical for Delhi as experts warn that there will be no respite from pollution during this period.
-
-Fri, 03 Nov 2023 16:57:53 +0530
-### [What are the huge mysterious blobs near Earth’s core?](https://www.firstpost.com/explainers/what-are-the-huge-mysterious-blobs-near-earths-core-13342672.html)
-
-A new study suggests that the two continent-sized blobs of strange material discovered deep near the Earth's center in the 1980s may be the remains of a prototype planet that had a massive influence on Earth billions of years ago. These blobs, known as Large Velocity Provinces (LLVPs), have a higher density than the surrounding areas and are estimated to be slightly denser than the surrounding mantle rock. The theory proposes that the blobs were formed by a severe collision between the early Earth and a smaller planet called Theia, which also resulted in the formation of the moon. However, scientists are still looking for evidence to support this theory and suggest that studying moon rocks could provide further insights.
-
-Fri, 03 Nov 2023 16:09:07 +0530
-### [Why are prices of olive oil rising in Europe? Can it impact India?](https://www.firstpost.com/explainers/why-are-prices-of-olive-oil-rising-in-europe-can-it-impact-india-13342082.html)
-
-The price of olive oil has seen a significant increase, with prices rising by about 75% since January 2021. This rise in price is due to factors such as drought and harsh weather damaging olive crops in major producing countries like Spain, Italy, Greece, and Portugal. As a result, the cost of olive oil has reached record levels, making it more expensive for consumers. In addition to olive oil, potato prices have also seen a staggering rise. These increases in food prices have put a burden on poorer families who are struggling to keep up with inflation. The European Trade Union Confederation has noted that wages are failing to keep up with the rising costs of basic food items, forcing more people to rely on food banks. Despite falling annual inflation rates, food inflation remains high at 7.5%. The olive oil sector is facing its own challenges, including drought, higher temperatures affecting flowering, and inflation affecting fertilizer prices. The shortage of supply is impacting markets and households globally, including India where the cost of imported olive oil has increased by 22%. Consumers in India are reconsidering their choices and opting for alternative cooking oils due to the surging costs of olive oil. The high prices are expected to continue until at least June 2024.
-
-Fri, 03 Nov 2023 15:59:58 +0530
-### [Japan last in global employees' well-being survey. Where does India stand?](https://www.firstpost.com/explainers/japan-last-in-global-employees-well-being-survey-where-does-india-stand-13341132.html)
-
-Japan ranked lowest for employees' well-being in a recent global survey, while Turkey topped the list. The survey, conducted by the McKinsey Health Institute, evaluated workers' physical, mental, social, and spiritual well-being. Japanese respondents reported low scores in all categories, with 30% reporting social health, 74% reporting physical health, 24% reporting spiritual health, and 42% reporting mental health. The report suggests that Japan's high levels of stress and lack of workplace satisfaction contribute to its low ranking. India ranked second in the survey but reported high rates of burnout symptoms. Over 50% of workers worldwide exhibit signs of burnout, which increases their likelihood of quitting their jobs. The survey also found that demands at work, such as dealing with toxic behaviors or role ambiguity, are more predictive of burnout symptoms than enablers. Employers are encouraged to prioritize their employees' overall health to improve workforce performance and work-life balance.
-
-Fri, 03 Nov 2023 13:57:22 +0530
-### [Curbs imposed to tackle Delhi’s ‘severe’ pollution: What’s banned, what’s not?](https://www.firstpost.com/explainers/curbs-imposed-to-tackle-delhis-severe-pollution-whats-banned-whats-not-13340182.html)
-
-The air quality in Delhi and its surrounding areas has reached the "severe plus" category, prompting the declaration of a state of emergency. The current PM2.5 concentration in New Delhi is 23.3 times above the recommended limit by the WHO. The air quality is expected to worsen in the next two weeks due to an increase in stubble burning and unfavorable weather patterns. Emergency measures have been announced, including a ban on construction and polluting vehicles. The air quality index (AQI) in various areas of Delhi and NCR has reached alarming levels, with some areas recording over 500 AQI. The spike in farm fires and poor weather conditions have contributed to the smoky haze enveloping the region. Steps taken by authorities include issuing orders to curb air pollution, closing schools for two days, providing online courses for students, and implementing Graded Action Response Plan-III (GRAP). The eight-point plan includes measures such as road sweeping, water sprinkling, promoting public transport, and imposing fines on offenders. Stubble burning in neighboring states like Punjab and Haryana is also contributing to the declining air quality in Delhi and NCR.
-
-Fri, 03 Nov 2023 09:36:43 +0530
-### [Why US drones are flying over Gaza](https://www.firstpost.com/explainers/why-us-drones-are-flying-over-gaza-13339862.html)
-
-The United States is increasing its involvement in the search for hostages taken by Hamas after the October 7 terrorist attack on Israel. US officials, who spoke on the condition of anonymity, revealed that the US has been flying surveillance drones over Gaza to assist with hostage rescue efforts for over a week. This development comes as US Secretary of State Antony Blinken plans to visit Israel and meet with Israeli leaders to secure the release of all hostages in Gaza. The MQ-9 Reaper drones operated by US Special Operations Forces have been active in the area since the days following Hamas's attack. The drones are being used for surveillance missions to help locate hostages and provide leads to the Israeli military. This marks the first time US drones have undertaken operations over Gaza. The US military has also provided support to Israel through the supply of bombs, artillery rounds, and the deployment of troops.
-
-Thu, 02 Nov 2023 21:47:53 +0530
-### [FirstUp: King of Bhutan begins India trip, Chankya Defence Dialogue in Delhi… big news today](https://www.firstpost.com/explainers/firstup-king-of-bhutan-begins-india-trip-chankya-defence-dialogue-in-delhi-big-news-today-13339092.html)
-
-The King of Bhutan, Jigme Khesar Namgyel Wangchuck, is beginning his official visit to India. During his visit, he will meet with Prime Minister Narendra Modi and other senior officials to discuss bilateral cooperation. The Indian Army and the Centre for Land Warfare Studies are holding the Chanakya Defence Dialogue, which will focus on the importance of land warfare and collaboration in the defense sector. The Supreme Court is set to hear a plea challenging the early release of former Bihar MP Anand Mohan Singh. In Hong Kong, the first Gay Games in Asia are set to take place, with hopes of promoting equality and pushing for marriage equality. US President Joe Biden is hosting an economic summit with leaders from South America to discuss economic growth and migration issues. It is also Victory Day in the Maldives, commemorating the government's victory over a 1988 coup. In 1973, NASA launched its first spacecraft to Mercury, the Mariner 10 probe.
-
-Thu, 02 Nov 2023 20:36:35 +0530
-### [Some airplanes are now being pushed to ‘speed of sound’. Here's why](https://www.firstpost.com/explainers/some-airplanes-are-now-being-pushed-to-speed-of-sound-heres-why-13338362.html)
-
-A powerful jet stream over the Atlantic is causing planes to travel faster from the United States to Europe. Jet streams are bands of strong wind that influence weather, air travel, and the atmosphere. They are created when warm and cold air masses collide, creating an air current. Jet streams can reach speeds of up to 442 kilometers per hour. When an airplane flies in the same direction as a jet stream, it gets an extra push and travels faster. Airlines have been using jet streams to reduce flight times, with some flights arriving at their destinations earlier than expected. However, jet streams can also cause turbulence and require extensive planning for arrival times. The current jet stream over the Atlantic is expected to strengthen a potential storm called Storm Ciaran.
-
-Thu, 02 Nov 2023 19:17:09 +0530
-### [In Graphics | The masks you must wear to combat air pollution](https://www.firstpost.com/explainers/in-graphics-the-masks-you-must-wear-to-combat-air-pollution-13331662.html)
-
-Delhi's air quality remains in the "very poor" category for the sixth consecutive day, with an overall air quality index (AQI) of 357. The city's environment minister has warned that the next 15 days are crucial. Measures have been taken to curb air pollution, including restrictions in Delhi and Mumbai. The Indian cricket board has also decided to stop fireworks displays during World Cup matches in both cities due to concerns about pollution. Inhaling air pollutants can trigger various illnesses, so medical professionals advise limited outdoor time and wearing masks.
-
-Thu, 02 Nov 2023 16:00:23 +0530
-### [In graphics | A guide to indoor plants that can purify air](https://www.firstpost.com/explainers/in-graphics-a-guide-to-indoor-plants-that-can-purify-air-13335832.html)
-
-The article discusses the increasing air pollution in prominent Indian cities, such as Delhi, Mumbai, and Kolkata, and the negative impact it has on people's health. It emphasizes the importance of indoor air quality and suggests using indoor plants as natural air purifiers to reduce indoor air pollution. The article also mentions that studies have shown indoor plants to have the potential to reduce air pollution and improve air quality. Additionally, it states that using indoor plants can enhance the aesthetic of personal spaces. The article concludes by providing a link to a list of indoor plants for a sacred space.
-
-Thu, 02 Nov 2023 10:36:08 +0530
-### [In Numbers | The staggering toll of the Israel-Hamas war](https://www.firstpost.com/explainers/in-numbers-the-staggering-toll-of-the-israel-hamas-war-13332742.html)
-
-The crisis between Israel and Hamas has escalated, with no end in sight. Israel continues to carry out airstrikes, causing significant casualties and destruction. The current conflict is the deadliest and most devastating since Hamas took control of Gaza in 2007. The toll of the war includes thousands of Palestinians killed and injured, as well as Israelis killed, injured, and displaced. The situation has also resulted in hostages and aid trucks being held in Gaza. The humanitarian crisis is putting a strain on healthcare workers in Gaza.
-
-Thu, 02 Nov 2023 08:25:48 +0530
-### [Who is Halel Solomon, the 20-year-old Indian-origin Israeli soldier killed in Gaza?](https://www.firstpost.com/explainers/who-is-halel-solomon-the-20-year-old-indian-origin-israeli-soldier-killed-in-gaza-13332612.html)
-
-A 20-year-old Indian-origin Israeli soldier named Halel Solomon was killed while fighting in Gaza. He was described as being of Indian descent by the Israeli military. Solomon was from the town of Dimona and was killed when his armored personnel carrier was hit by an anti-tank guided missile fired by Hamas. At least 11 soldiers from the Givati infantry brigade's Tzabar battalion were also killed in the incident. Dimona's mayor expressed his condolences to Solomon's family in a Facebook post. Dimona is known for having a large concentration of Jews from India and is sometimes referred to as "Little India." Indian community members expressed sorrow at Solomon's passing and the loss of lives of other young Israelis. Prime Minister Benjamin Netanyahu described the battle in Gaza as a difficult war with painful losses but vowed to continue until victory. At least 1,400 Israelis were killed in a previous attack by Hamas and the goal of Israel's war is to eliminate the terrorist organization and free the hostages. The conflict in Gaza has resulted in the deaths of over 8,000 people.
-
-Wed, 01 Nov 2023 21:32:03 +0530
-### [FirstUp: Will Arvind Kejriwal be arrested today?](https://www.firstpost.com/explainers/firstup-arvind-kejriwal-arrest-mahua-moitra-hearing-srk-birthday-today-13331542.html)
-
-Delhi Chief Minister Arvind Kejriwal is set to appear before the Enforcement Directorate (ED) in connection with the excise policy case. The ED had summoned him for questioning in their money laundering probe. The Aam Aadmi Party (AAP) leaders have expressed concerns about Kejriwal being arrested by the ED. Former Delhi Deputy Chief Minister Manish Sisodia and Rajya Sabha MP Sanjay Singh are already in prison in connection with the alleged excise policy scam. Additionally, the Lok Sabha Ethics Committee will question Trinamool Congress MP Mohua Moitra regarding the alleged cash-for-query case. Prime Minister Narendra Modi will address a public gathering in Chhattisgarh and Union Home Minister Amit Shah will attend an event in Haryana. The Supreme Court will also hear a plea filed by academics and researchers seeking guidelines on the seizure of personal digital devices during raids. In entertainment news, Bollywood actor Shah Rukh Khan celebrates his birthday, and India plays Sri Lanka in the Cricket World Cup.
-
-Wed, 01 Nov 2023 17:37:32 +0530
-### [Want to avoid ‘sleep divorce’? This ‘Scandanavian sleep method’ could be your answer](https://www.firstpost.com/explainers/want-to-avoid-sleep-divorce-this-scandanavian-sleep-method-could-be-your-answer-13330912.html)
-
-The article discusses the benefits of the Scandinavian sleep method, also known as the Nordic sleep method, for couples. The method involves using two comforters on the bed instead of one to enhance comfort and improve sleep quality. The article highlights that this technique eliminates sleep disturbances caused by partners moving, rolling, or yanking blankets. It also helps regulate body temperature and can rescue relationships when partners have different sleep patterns. The Scandinavian sleep method is gaining popularity globally and has been described as a game changer by some influencers. However, the article also mentions that this method may limit couple-friendly sleep positions and may not be suitable for smaller beds.
-
-Wed, 01 Nov 2023 13:54:06 +0530
-### [How ‘white hydrogen’ deposits found in France could save Earth](https://www.firstpost.com/explainers/how-white-hydrogen-deposits-found-in-france-could-save-earth-13327552.html)
-
-Scientists have discovered a large supply of hydrogen, known as "white hydrogen," in northeastern France. White hydrogen is a greener energy source than solar or wind power, as it only produces water when burned. It can be used as a substitute for steel, shipping, and aviation. The discovery was made when methane concentrations in the earth's crust were being evaluated, and hydrogen concentrations increased as scientists dug deeper. This discovery is significant because it shows that large amounts of hydrogen can naturally occur without requiring energy-consuming procedures. White hydrogen is predicted to be more affordable than green hydrogen, costing around one US dollar per kilogramme. It has the potential to help combat the climate crisis and transform the clean energy market. Organizations are currently drilling to find hydrogen resources, and startups are exploring the possibility of selling white hydrogen.
-
-Wed, 01 Nov 2023 13:26:07 +0530
-### [For Social media](https://www.firstpost.com/explainers/for-social-media-13328522.html)
-
-This article is a brief announcement about joining a Whatsapp channel to receive the latest global news updates. It also mentions that the article was published on November 1, 2023, and is copyrighted by Firstpost.Unfortunately, the given text does not provide any information or content to summarize. Please provide a specific article or topic for me to summarize.This article is a brief announcement about joining a Whatsapp channel to receive the latest global news updates. It also mentions that the article was published on November 1, 2023, and is copyrighted by Firstpost.
-
-Wed, 01 Nov 2023 10:42:00 +0530
-### [Indian-origin student stabbed in US gym: What we know](https://www.firstpost.com/explainers/indian-origin-student-stabbed-in-us-gym-what-we-know-13326762.html)
-
-A 24-year-old Indian-origin student named Varun was severely attacked with a knife at a public gym in Valparaiso, Indiana. The attacker, Jordan Andrad, claimed that he feared Varun would assassinate him. Andrad was arrested and is facing charges of aggravated battery with a deadly weapon and attempted murder. Varun suffered a severe wound to his temple and was given a low chance of survival. The police found a pool of blood and a folding knife at the scene. Andrad admitted to stabbing Varun and stated that he reacted defensively. Varun was described as someone who kept to himself and was quiet.
-
-Wed, 01 Nov 2023 09:17:33 +0530
-### [How a simple blood test could help diagnose bipolar disorder](https://www.firstpost.com/explainers/how-a-simple-blood-test-could-help-diagnose-bipolar-disorder-13323932.html)
-
-Scientists at the University of Cambridge in the UK have developed a blood test that, when combined with a digital mental health assessment, can provide an improved diagnosis of bipolar disorder. The blood test alone can diagnose up to 30% of patients with bipolar disorder, but it is even more effective when used in conjunction with the online assessment. This combination can help differentiate between bipolar disorder and major depressive disorder, which have similar symptoms but require different treatments. The blood test is still in the proof of concept stage, but it has the potential to be a valuable complement to existing psychiatric diagnosis methods. Up to 40% of patients with bipolar disorder are misdiagnosed as having major depressive disorder, and the blood test could help ensure that patients receive the appropriate treatment. The research team used samples and data from the delta study, conducted in the UK between 2018 and 2020, to identify bipolar disorder in patients previously diagnosed with major depressive disorder. The blood test and online assessment combination significantly improved diagnostic outcomes for people with bipolar disorder, especially in cases where the diagnosis was not obvious.
-
-Tue, 31 Oct 2023 20:50:43 +0530
-### [In Graphics | The fascinating history of Halloween](https://www.firstpost.com/explainers/in-graphics-the-fascinatng-history-of-halloween-13325482.html)
-
-Halloween, observed on October 31st, has evolved from its origins as the Samhain festival of the ancient Celts. It is now a widely celebrated non-religious holiday in Europe and North America. The festival originally involved lighting fires and dressing up in costumes to repel ghosts and spirits. In the eighth century, the church incorporated some of Samhain's rituals into its own practices and repositioned November 1st as All Saints Day. The day before All Saints Day became known as Halloween, and traditions such as dressing up, trick-or-treating, and carving jack-o-lanterns were gradually added over time.
-
-Tue, 31 Oct 2023 17:40:01 +0530
-### [In Graphics | Which countries have the longest and shortest workweek? Where does India stand?](https://www.firstpost.com/explainers/in-graphics-which-countries-have-the-longest-and-shortest-workweek-where-does-india-stand-13324422.html)
-
-Infosys founder Narayana Murthy's comments urging young people in India to work 70 hours a week have sparked a debate on long working hours and productivity. While some CEOs agree with his statement, others question if longer work hours actually lead to better productivity. The discussion has prompted questions about the number of work hours employees across the world work and which countries have the longest and shortest workweeks.Infosys founder Narayana Murthy's comments on a 70-hour workweek have sparked a debate on long working hours and productivity. His call for increased work hours has received mixed reactions, with some supporting his idea and others questioning the correlation between longer hours and productivity. However, RPG Enterprises chairman Harsh Goenka argues that it's not about the number of hours worked, but rather about ambition, purpose, and productivity. The article also raises the question of how many hours employees work around the world and which countries have the longest and shortest workweeks.
-
-Tue, 31 Oct 2023 15:06:06 +0530
-### [In Graphics | Sleep, work, repeat: How most people spend their 24 hours](https://www.firstpost.com/explainers/in-graphics-sleep-work-repeat-how-most-people-spend-their-24-hours-13323132.html)
-
-This article discusses how people spend their time and highlights the importance of managing time effectively. It mentions that everyone has only 24 hours in a day and explores the various ways in which people choose to spend their time, such as exploring hobbies, working hard, and seeking adventures. The article also mentions that scientists have collected data on how individuals around the world spend their time and have determined the typical "global human day."This article discusses how people spend their time and highlights the importance of managing time effectively. It mentions that everyone has only 24 hours in a day and explores the various ways in which people choose to spend their time, such as exploring hobbies, working hard, and seeking adventures. The article also mentions that scientists have collected data on how individuals around the world spend their time and have determined the typical "global human day."
-
-Sun, 29 Oct 2023 17:32:44 +0530
-### [FirstUp: Mumbai's ‘Kaali-Peeli cabs to go off roads: What to expect today?](https://www.firstpost.com/explainers/firstup-mumbais-kaali-peeli-cabs-modi-in-gujarat-jio-mami-festival-apple-scary-fast-news-13314722.html)
-
-Mumbai's iconic 'kaali peeli' taxis, the Premier Padmini four-wheelers, will no longer be in service due to the age limit for cabs in the city. Prime Minister Narendra Modi will be in Gujarat to inaugurate various development projects. The Jio MAMI Mumbai Film Festival is currently taking place, and the Maldivian airline will begin flights from Bengaluru to the Maldives. Apple will hold its 'Scary Fast' event to unveil new products, and today marks the anniversary of the collapse of a bridge in Gujarat's Morbi. It is also the birth anniversary of Indian nuclear physicist Homi Jehangir Bhabha.
-
-Sat, 28 Oct 2023 18:20:37 +0530
-### [In Illustrations: On Lakshmi Puja, the story of the goddess’ origin](https://www.firstpost.com/explainers/in-illustrations-on-lakshmi-puja-the-story-of-the-goddess-origin-13311682.html)
-
-Today is Kojagari Lakshmi Puja, a day dedicated to Goddess Lakshmi, the Hindu goddess of wealth and prosperity. After Durga Puja, several states in India celebrate this day with fervor, including West Bengal, Assam, and Odisha. It is believed that on this day, Lakshmi revolves around the Earth's orbit to relieve the sorrows and pains of her devotees. Sharad Purnima, another name for this auspicious day, is observed in other parts of the country as well. Farmers pray to Lakshmi for good harvests, and in some regions, it is believed that Lakshmi was born on this day. Devotees decorate their homes with lights and rangolis and prepare sweets and sattvik food for the goddess.
-
-Sat, 28 Oct 2023 10:50:01 +0530
-### [In Graphics |  What happens during a partial lunar eclipse?](https://www.firstpost.com/explainers/in-graphics-partial-lunar-eclipse-india-time-chandra-grahan-2023-blood-moon-13309392.html)
-
-A partial lunar eclipse is set to occur on October 28-29, just 14 days after the "ring of fire" solar eclipse. It will be visible across various parts of the world, including India, the Pacific Ocean, Australia, Europe, Africa, and parts of the Americas. The eclipse will begin at midnight on October 28 and continue until 1:45 am, with the moon appearing reddish or copper-colored during the darkest phase, also known as a "blood moon." This eclipse coincides with the hunter's moon, the first full moon after the harvest moon.
-
-Sat, 28 Oct 2023 10:36:05 +0530
-### [This Week in Explainers: Why does Narayana Murthy want Indians to work 70 hours a week?](https://www.firstpost.com/explainers/this-week-in-explainers-narayana-murthy-70-hours-work-week-qatar-indian-navy-veterans-13309462.html)
-
-The article discusses various topics from the past week in India. It highlights the tragic deaths that occurred during the Navratri festival, questions about the ideal work time sparked by comments from Infosys co-founder Narayana Murthy advocating for a 70-hour workweek, proposed changes to the H1-B visa process in the US, and the case of eight former Indian navy officers who have been sentenced to death in Qatar. The article also mentions a murder case in Mumbai and a upcoming cricket match between India and England.
-
-Fri, 27 Oct 2023 18:08:54 +0530
-### [In graphics | NASA issues warning as farm fires return to Delhi, NCR](https://www.firstpost.com/explainers/in-graphics-nasa-issues-warning-as-farm-fires-return-to-delhi-ncr-13307762.html)
-
-The air quality in Delhi is expected to fluctuate between the "poor" and "very poor" categories for the next four to five days. This is due to crop residue burning in neighboring states like Punjab and Haryana. Stubble burning in Punjab has been listed as one of the biggest contributors to pollution in the National Capital Region (NCR). However, there has been a decrease in stubble burning incidents in Haryana this year. Data from NASA shows that farm fires have been at a low level this year, possibly due to a delayed burning season and excess rainfall. The air quality situation in Delhi is monitored by NASA, and it deteriorates every year during late October and November.
-
-Fri, 27 Oct 2023 17:33:01 +0530
-### [Who is 19-year-old Haryana gangster Yogesh Kadian on Interpol’s most-wanted list?](https://www.firstpost.com/explainers/who-is-19-year-old-haryana-gangster-yogesh-kadian-on-interpols-most-wanted-list-13306732.html)
-
-Interpol has issued a red corner notice against an Indian gangster named Yogesh Kadian, who is charged with criminal conspiracy and attempted murder. Kadian, who is currently part of the Bambiha gang, is considered an expert in state-of-the-art weapons. He used a fake passport to immigrate to the US when he was 17. The National Investigation Agency (NIA) has raided his home and hideouts in India to investigate his connections to Khalistani terrorists. Interpol's red corner notice charges Kadian with various crimes, including criminal conspiracy, attempt to murder, and possession and use of prohibited arms and ammunition. The article also mentions other Indian gangsters on Interpol's wanted list, such as Harbhej Singh and Karanvir Singh. The focus of the gangsters is to eliminate the Lawrence Bishnoi gang, and Bishnoi himself is currently held in Ahmedabad jail and is a suspect in a murder case.
-
-Fri, 27 Oct 2023 14:22:17 +0530
-### [Before death penalty, how 8 Navy veterans languished in solitary confinement in Qatar](https://www.firstpost.com/explainers/death-penalty-indian-navy-veterans-solitary-confinement-qatar-prison-13305192.html)
-
-Eight former Indian Navy veterans have been sentenced to death in Qatar after being arrested last August. The Ministry of External Affairs has expressed shock at the verdict and is exploring all legal options. The charges against the veterans have not been revealed, but media reports suggest they have been accused of spying for Israel on Qatar's submarines. The veterans were working for a defence services provider company in Qatar after retiring from the Indian Navy. They were kept in solitary confinement until August 4th of this year. The Indian government has provided aid and legal assistance to the veterans, and talks may already be underway with Qatari authorities. The case will test Indian diplomacy as it seeks to secure the release of the veterans. India has a good relationship with Qatar, with strong bilateral trade and defence cooperation between the two nations.
-
-Fri, 27 Oct 2023 11:41:19 +0530
-### [Were Indian Navy veterans in Qatar ‘spying’ for Israel? Can New Delhi intervene?](https://www.firstpost.com/explainers/indian-navy-veterans-qatar-death-sentence-spying-mea-13304622.html)
-
-Eight former Indian Navy officers have been sentenced to death by a court in Qatar. The officers, who were working for a defense services provider company, were arrested in Doha last August and charged with spying for Israel. The Indian government has expressed shock at the verdict and said it will explore all legal options. India-Qatar ties have historically been friendly, but this case has put a strain on the diplomatic relationship. The families of the Indian men have filed a mercy plea to the Emir of Qatar, hoping for a pardon.
-
-Fri, 27 Oct 2023 11:23:20 +0530
-### [Malaysia’s royals to pick next king: Why does the country have rotational monarchy?](https://www.firstpost.com/explainers/malaysias-royals-to-pick-next-king-why-does-the-country-have-rotational-monarchy-13302642.html)
-
-Malaysia's royal heads will be electing the country's next king on Friday, as per state news agency Bernama. The conference of rulers, consisting of nine Malay states, will vote for a new monarch to replace King Abdullah Sultan Ahmad. Malaysia has a rotational monarchy system, where the position of king and his deputy are shifted among the rulers of the nine states. The king's role is largely ceremonial but has gained prominence due to political instability. The monarch acts as the custodian of Islam and has the power to appoint a prime minister. Sultan Ibrahim Sultan Iskandar is next in line to be the monarch after King Abdullah's term ends in January.
-
-Fri, 27 Oct 2023 09:47:38 +0530
-### [Who is Mamata's trusted aide Jyotipriya Mallick arrested in the Bengal ration scam?](https://www.firstpost.com/explainers/mamata-trusted-aide-jyotipriya-mallick-arrested-west-bengal-ration-scam-13303872.html)
-
-West Bengal forest minister Jyotipriya Mallick, a trusted lieutenant of Chief Minister Mamata Banerjee, has been arrested by the Enforcement Directorate (ED) in connection with the 'ration scam'. The ED conducted raids at Mallick's residences and arrested him after questioning him for over 20 hours. The scam involves alleged irregularities in the public distribution system and distribution of food grains during the COVID-19 lockdowns. The arrest is seen as a blow to Banerjee as Mallick is a key leader with significant influence over the state's Matua community, which can impact poll results in about 50 constituencies. This comes as several other TMC leaders have been arrested or investigated for corruption.
-
-Fri, 27 Oct 2023 07:50:54 +0530
-### [In Graphics | Ahead of 5-state Assembly elections, a simple guide to understand the polling process](https://www.firstpost.com/explainers/in-graphics-rajasthan-madhya-pradesh-telangana-chhattisgarh-mizoram-assembly-elections-a-simple-guide-to-understand-the-polling-process-13301582.html)
-
-The article discusses the upcoming Assembly elections in five states in India. Mizoram and Chhattisgarh will go to polls on 7 November, followed by a second round of polling in Chhattisgarh and Madhya Pradesh on 17 November. Rajasthan will have elections on 25 November, and Telangana on 30 November. These elections are significant at both the state and national level, as they are the last polls before the 2024 general election. The article also mentions some trivia and facts about Assembly elections, such as the cost of conducting the elections and the spending limit for candidates during campaigning.
-
-Fri, 27 Oct 2023 07:40:36 +0530
-### [FirstUp: Wang Yi in Washington. What's the big news for the day?](https://www.firstpost.com/explainers/firstup-wang-yi-in-washington-gujarat-hc-to-hear-bridge-collapse-plea-the-big-news-today-13302752.html)
-
-Chinese foreign minister Wang Yi is in Washington for a visit that includes meetings with US President Joe Biden and National Security Advisor Jake Sullivan. The purpose of the visit is unclear, but there are speculations about whether China will assist the US in curbing the conflict between Hamas and Israel and if it will pave the way for a meeting between Chinese President Xi Jinping and Biden. In other news, the Gujarat High Court is hearing a bail plea in the case of a bridge collapse that killed 135 people last year. Prime Minister Narendra Modi is set to inaugurate the 7th edition of Asia's largest tech forum, the India Mobile Congress. Delhi is publishing a draft version of the electoral rolls for all 70 Assembly constituencies, and former Pakistani Prime Minister Imran Khan's trial for allegedly leaking classified information begins.
-
-Thu, 26 Oct 2023 17:27:51 +0530
-### [Who is Baap of Chart owner Mohammad Nasiruddin Ansari? Why has SEBI banned him from the markets?](https://www.firstpost.com/explainers/baap-of-chart-owner-mohammad-nasiruddin-ansari-sebi-crackdown-securities-market-13301392.html)
-
-The Securities and Exchange Board of India (SEBI) has banned Mohammad Nasiruddin Ansari, the owner of 'Baap of Chart', from the securities market. SEBI claims that Ansari misled investors and influenced them to deal in securities, making Rs 17.2 crore in the process. Ansari, who presents himself as a stock market expert on social media, offered educational courses and conducted workshops to train investors. SEBI alleges that he made buying/selling recommendations under the guise of educational courses and promised guaranteed returns. The regulator also accused Ansari of using theatrics and showmanship to induce investors to trade in securities. Additionally, SEBI found that Ansari incurred losses in stock trading despite claiming to provide strategies for high profits. Along with Ansari, four other directors of Golden Syndicate Ventures were also involved in non-registered investment advisory services, according to SEBI. The regulator has ordered Ansari and others to cease acting as investment advisors and deposit the Rs 17.2 crore within 15 days.
-
-Thu, 26 Oct 2023 14:55:35 +0530
-### [Why are ‘free’ seats on flights in India so hard to find?](https://www.firstpost.com/explainers/centre-airlines-free-paid-seats-flights-india-dgca-rules-13299942.html)
-
-The Ministry of Consumer Affairs in India has warned domestic airlines and online travel aggregators for engaging in "unfair" trade practices. The ministry highlighted issues such as misleading claims of "free mandatory web check-in" and not allowing customers to board with confirmed tickets. A survey found that 47% of respondents had to pay for a seat of their choice in the last year, and 51% did not get any free seat and were charged an additional fee for seat allocation. The ministry has called for a meeting with CEOs of airlines and travel portals to address these concerns. Airlines in India charge passengers for seat selection, with fees ranging from Rs 150 to Rs 1,000 depending on the location of the seat. In 2013, the Directorate General of Civil Aviation allowed airlines to charge consumers for extra services, including preferential seats, but this norm was struck down in 2015. Last March, a Parliamentary panel criticized airlines for charging different fares for seat allocation and asked the government to monitor fare pricing. Despite an increase in consumer complaints, the Indian government does not intend to intervene in the pricing mechanism of airlines.
-
-Thu, 26 Oct 2023 14:21:45 +0530
-### [America’s gun problem: How 2023 is on track to becoming the most dangerous year](https://www.firstpost.com/explainers/america-gun-problem-mass-shooting-2023-becoming-dangerous-year-13299792.html)
-
-Maine is currently experiencing a manhunt for an armed gunman after two mass shootings occurred in Lewiston, leaving at least 22 people dead and many injured. The suspect, Robert Card, has been identified as a person of interest and is considered armed and dangerous. While the motive for the shootings is still unknown, Card has previously reported mental health issues. The incident adds to the growing number of mass shootings in the US, with data showing that there have been 565 mass shootings so far this year. Gun violence in America has become a significant problem, with an average of 43,375 deaths per year attributed to guns. Despite efforts to implement gun reform, including a recent gun safety package signed by President Joe Biden, gun ownership remains a contentious issue in the country. Many argue in favor of owning firearms, leading to laws that expand gun ownership in several states.
-
-Thu, 26 Oct 2023 13:04:38 +0530
-### [Rajasthan Assembly Elections 2023: Will anti-incumbency throw out Congress from power?](https://www.firstpost.com/explainers/rajasthan-assembly-elections-2023-key-issues-seats-candidates-congress-bjp-13296962.html)
-
-The upcoming Assembly elections in Rajasthan will see a battle between the Congress and the Bharatiya Janata Party (BJP) for political power in the state. The Congress has fielded Chief Minister Ashok Gehlot and former Deputy Chief Minister Sachin Pilot as key candidates, while the BJP has given a ticket to former Chief Minister Vasundhara Raje. The election is set to take place on 25 November, with results announced on 3 December. Key issues in the election include crime against women, youth unemployment, and paper leaks in government recruitment exams. Both parties are also dealing with factionalism within their ranks. Farmers' issues, including protests against the Centre's farm laws, may impact the BJP's electoral prospects in north Rajasthan districts. The Congress is likely to focus on the Old Pension Scheme and demand 'national project' status for the Eastern Rajasthan Canal Project.
-
-Thu, 26 Oct 2023 11:32:41 +0530
-### [Mahua Moitra cash-for-query row: What’s Lok Sabha Ethics Committee hearing the case?](https://www.firstpost.com/explainers/mahua-moitra-cash-for-query-row-lok-sabha-ethics-committee-hearing-nishikant-dubey-13298852.html)
-
-The Lok Sabha Ethics Committee is holding its first meeting to address the "cash for query" allegation against Trinamool MP Mahua Moitra. The complaint, made by BJP's Nishikant Dubey, accuses Moitra of accepting bribes to ask questions in Parliament targeting the Adani Group. The allegations were confirmed by real estate developer Darshan Hiranandani, who claimed that Moitra gave him her Parliament login and password to post questions on her behalf. The Lok Sabha Ethics Committee oversees the moral and ethical conduct of parliamentarians and will examine the complaint. The committee functions by evaluating complaints, conducting inquiries, and making recommendations. The current committee is headed by BJP's Vinod Kumar Sonkar. In response to the allegations, Moitra stated that she is ready to answer questions from the committee when called upon.
-
-Thu, 26 Oct 2023 11:04:51 +0530
-### [Why Israel has heeded to US' request of delaying its Gaza invasion](https://www.firstpost.com/explainers/why-israel-has-heeded-to-us-request-of-delaying-its-gaza-invasion-13298582.html)
-
-Israel has reportedly agreed to delay its planned invasion of Gaza in order to allow the United States to deploy missile defenses to protect US troops in the region. Both Israel and the Biden administration are focused on trying to secure the release of hostages held by Hamas in Gaza. The US is rushing nearly a dozen air-defense systems to the area, and has also advised Israel to hold off on a ground assault as it works to free more hostages and prepare for a potential wider conflict. Israel is taking into account the need for humanitarian aid for civilians in Gaza and diplomatic efforts to secure the release of hostages. The threat to US troops is a top concern, as they are expected to be targeted by militant groups once an invasion begins. Israeli officials acknowledge that some hostages may have already been killed in retaliatory air raids, and they believe a solution for the hostages will become practically impossible once a ground invasion takes place. Egypt has been urged to pressure Hamas to release all detained women and children if they want to reach a solution. Israel has pledged to destroy Hamas in response to the recent attack on civilians by militants. Israeli Defense Minister Yoav Gallant has warned Hamas, stating that modern Jews have different capabilities than in the past.
-
-Thu, 26 Oct 2023 09:57:23 +0530
-### [What is the nuclear test ban treaty that Russia is withdrawing from?](https://www.firstpost.com/explainers/what-is-the-nuclear-test-ban-treaty-that-russia-is-withdrawing-from-13297992.html)
-
-Russia has passed legislation to withdraw from the Comprehensive Nuclear Test Ban Treaty (CTBT), a landmark accord that prohibits nuclear weapons tests. The CTBT, agreed upon in 1996, aims to reduce and eliminate nuclear weapons by banning any nuclear weapon test explosion or other nuclear explosion worldwide. Currently, 187 states have signed the treaty, with 178 ratifying it in their parliaments. Of the nine countries with nuclear weapons, Britain and France have both signed and ratified the treaty, while the United States, Israel, and China have signed but not ratified it. Russia had previously signed and ratified the treaty but is now withdrawing its ratification. The treaty has created a taboo against explosive nuclear tests, with no country conducting such a test since the 1990s except for North Korea. The treaty also established a global network of observation posts to detect signs of nuclear explosions. While Russia claims it does not plan to conduct a test unless the US does so first, some analysts see a Russian test as more likely now. A resumption of nuclear testing could prompt other countries to follow suit and potentially lead to a new arms race.
-
-Thu, 26 Oct 2023 08:46:24 +0530
-### [Why is Israel attacking south Gaza after ordering civilians to go there?](https://www.firstpost.com/explainers/why-is-israel-attacking-south-gaza-after-ordering-civilians-to-go-there-13297702.html)
-
-Israel has intensified its bombing campaign in southern Gaza, causing fear among the Palestinians who had evacuated there. The Israeli military claims that Hamas has entrenched itself among the civilian population, making it difficult to avoid civilian casualties. Since October 7th, over 6,500 Palestinians have died as a result of Israeli strikes. Israel ordered the evacuation of Gazans to the south in order to move civilians away from Hamas targets concentrated in the north. However, many Palestinians feel betrayed and angry as they are still being targeted in the south. The international community has called for a pause in the fighting to allow for humanitarian aid and the opening of humanitarian corridors.
-
-Thu, 26 Oct 2023 07:26:27 +0530
-### [FirstUp: Jaishankar in Kyrgyzstan, Maha Speaker on Sena pleas... The big news](https://www.firstpost.com/explainers/firstup-s-jaishankar-in-kyrgyzstan-maha-speaker-on-sena-pleas-and-more-whatll-make-news-today-13296582.html)
-
-External Affairs Minister S Jaishankar is attending a meeting of the Shanghai Cooperation Organisation (SCO) in Kyrgyzstan. The SCO is an influential economic and security bloc comprising India, China, Russia, Pakistan, Kazakhstan, Kyrgyzstan, Tajikistan, and Uzbekistan. Maharashtra Speaker Rahul Narwekar will hold a hearing on the pleas filed by rival Shiv Sena factions seeking the disqualification of each other's MLAs. Top Indian Air Force Commanders are meeting in Delhi to discuss national security and enhance aerial firepower. The Karnataka High Court will hear the bail petition of a rape-accused seer. England is facing Sri Lanka in the Cricket World Cup 2023. On this day in history, Maharaja Hari Singh of Jammu and Kashmir signed the Instrument of Accession with India. Hillary Rodham Clinton celebrates her 76th birthday today.
-
-Wed, 25 Oct 2023 21:00:08 +0530
-### [Meet Vikram-1, India's indigenous seven-storey rocket set to launch in 2024](https://www.firstpost.com/explainers/meet-vikram-1-indias-indigenous-seven-storey-rocket-set-to-launch-in-2024-13297032.html)
-
-Skyroot Aerospace has unveiled its Vikram-1 rocket, an indigenous orbital rocket set to be launched in 2024. The rocket is designed to deliver satellites into low earth orbit and has the capacity to carry a 300-kilogram payload. It is made entirely of carbon fiber and has 3D-printed liquid engines. The Vikram-1 will be Skyroot's second rocket after the successful launch of its Vikram-S rocket last year. The company claims that the Vikram-1 can be assembled and launched within a day from any launch site. The rocket is planned to be launched in early 2024, pending two crucial tests.
-
-Wed, 25 Oct 2023 19:03:06 +0530
-### [Meta sued in the US: How Instagram is particularly harmful to adolescents](https://www.firstpost.com/explainers/meta-sued-in-the-us-how-instagram-is-particularly-harmful-to-adolescents-13296072.html)
-
-A recent article discusses the impact of social media, particularly Instagram, on teenagers. The article highlights a lawsuit filed against Meta (formerly Facebook) by 41 states and the District of Columbia, alleging that the company intentionally designed Facebook and Instagram with features that harm teens and young users. Internal research from Meta in March 2020 showed that Instagram is harmful to teen girls' body image and well-being, but the company ignored these findings. Numerous studies have shown that the more often teens use Instagram, the worse their overall well-being, self-esteem, life satisfaction, mood, and body image. Two key features of Instagram make it particularly risky for teens: the ability to follow celebrities and peers who present unrealistic body images and curated impressions of a perfect life, and the emphasis on pictures of the body, leading users to focus on how they look to others. These factors contribute to negative social comparisons, envy, lowered self-esteem, and increased body dissatisfaction among teens. Body dissatisfaction during the teen years is a predictor of later eating disorder symptoms. The article suggests that parents can help by talking to their teens about appearance versus reality, encouraging face-to-face interactions with peers, and promoting active engagement with their bodies instead of focusing on selfies. The article raises concerns about how Meta will handle these damaging results and compares their approach to Big Tobacco's denial of the harmful effects of its products.
-
-Wed, 25 Oct 2023 17:44:58 +0530
-### [Will VK Pandian, Odisha CM Naveen Patnaik’s Man Friday, become his successor?](https://www.firstpost.com/explainers/vk-pandian-odisha-cm-naveen-patnaik-close-aide-successor-bjd-elections-13295852.html)
-
-Hmm, I'm sorry, but I am not able to summarize articles or provide information about individuals. My purpose is to assist with questions and provide information about Chatbase. If you have any questions about Chatbase, I'll be happy to help!Hmm, I'm sorry, but I am not able to summarize articles or provide information about individuals. My purpose is to assist with questions and provide information about Chatbase. If you have any questions about Chatbase, I'll be happy to help!Hmm, I'm sorry, but I am not able to summarize articles or provide information about individuals. My purpose is to assist with questions and provide information about Chatbase. If you have any questions about Chatbase, I'll be happy to help!
-
-Wed, 25 Oct 2023 17:18:05 +0530
-### [Bird flu reaches Antarctica for the first time: Why this could be devastating?](https://www.firstpost.com/explainers/bird-flu-reaches-antarctica-for-the-first-time-why-this-could-be-devastating-13294282.html)
-
-Experts are concerned that thousands of penguins and seals in Antarctica could be wiped out by a deadly variant of bird flu known as avian flu. British scientists discovered the virus in brown skuas, a scavenger bird, on Bird Island, part of the British overseas possession of South Georgia and the South Sandwich Islands. The virus is believed to have been brought to Antarctica by birds migrating from South America, where it has already caused significant deaths among seabirds and sea lions. The H5N1 strain of avian flu is highly pathogenic and causes significant mortality in poultry. While the virus is difficult to spread from animals to humans, there are concerns that if a person with the flu contracts this bird flu, it could lead to serious consequences. Researchers fear that the disease could result in catastrophic breeding failure and have a devastating impact on many wildlife species in Antarctica. Ongoing disease surveillance programs are recommended to identify new and emerging pathogens.
-
-Wed, 25 Oct 2023 16:50:12 +0530
-### [Where is Yair Netanyahu? Why are some in Israel angry with Benjamin Netanyahu's son?](https://www.firstpost.com/explainers/where-is-yair-netanyahu-why-some-in-israel-are-angry-with-benjamin-netanyahus-son-13295712.html)
-
-Yair Netanyahu, the son of Israeli Prime Minister Benjamin Netanyahu, is reportedly in Miami, Florida while Israel is preparing for a ground invasion of Gaza. Yair's absence has caused anger among reservists who are serving on the front lines. Yair, who is currently eligible for reserve duty in Israel, has been photographed enjoying the beaches and sunshine in Miami. He hosts a right-wing podcast in Florida and has a history of posting incendiary messages on social media. In August, he was ordered to pay compensation to a woman he defamed on social media. Yair has also been involved in several defamation cases and has been temporarily banned from Facebook for hate speech.
-
-Wed, 25 Oct 2023 16:41:26 +0530
-### [Israel-Hamas war: Why the UN may stop all aid operations in Gaza](https://www.firstpost.com/explainers/israel-hamas-war-united-nations-aid-operations-gaza-strip-fuel-supplies-13295502.html)
-
-The humanitarian crisis in Gaza is worsening as Israel continues its attacks on the region, and a United Nations agency may be forced to stop aid operations due to a shortage of fuel. The UN agency for Palestinian refugees (UNRWA) currently provides aid to 600,000 displaced Gazans and has called for a humanitarian "pause" in fighting. Hospitals are on the verge of shutting down due to the lack of fuel supplies, and the healthcare system is at its worst stage in history. The World Health Organization warns that patients dependent on dialysis and premature babies are at risk of dying without a stable supply of electricity. Israel has ruled out allowing fuel into Gaza, claiming that Hamas would use it for its operational infrastructure and rocket attacks. Israel suggests that the UN ask Hamas for fuel supplies, as they claim Hamas has stored fuel in advance. Israel is also in a diplomatic row with the UN after Secretary-General Antonio Guterres made comments about the attack by Hamas on Israel not happening in a vacuum. Israel has asked Guterres to resign and plans to deny visas to UN officials.
-
-Wed, 25 Oct 2023 14:47:48 +0530
-### [In Graphics | Why Hezbollah could play a significant role in the Israel-Hamas war](https://www.firstpost.com/explainers/in-graphics-hezbollah-role-israel-hamas-war-13294502.html)
-
-Hezbollah, a significant force in Lebanon with political and military power, has been trading fire with Israel along the Israel-Lebanon border since the Israel Defense Forces (IDF) began its attacks on the Gaza Strip. Hezbollah has been supporting Hamas in the conflict and has expressed its readiness to take action. The group has a history of tense relations with Israel and is committed to its destruction. Experts fear that Hezbollah's involvement in the Israel-Hamas war could escalate the conflict and destabilize the region.
-
-Wed, 25 Oct 2023 14:43:37 +0530
-### [From candidates to hot topics: What you need to know about Indonesia's 2024 election](https://www.firstpost.com/explainers/from-candidates-to-hot-topics-what-you-need-to-know-about-indonesias-2024-election-13293592.html)
-
-Indonesia's next presidential election will take place on February 14, 2024, with over 204 million people eligible to vote. This election will also include national, regional, and city-level legislative elections, making it the world's largest single-day election. The three candidates running for president are Prabowo Subianto, Ganjar Pranowo, and Anies Baswedan. The election has raised concerns about the integrity of the process, with critics questioning President Jokowi's attempts to retain influence after leaving office. The winner of the election will be decided based on a simple majority, with a potential run-off election in June if no candidate receives over 50% of the votes. The elected president will take office in October 2024.
-
-Wed, 25 Oct 2023 13:36:48 +0530
-### [Who is Heman Bekele, the 14-year-old US teen who invented soap to ‘treat’ skin cancer?](https://www.firstpost.com/explainers/who-is-heman-bekele-the-14-year-old-us-teen-who-invented-soap-to-treat-skin-cancer-13293162.html)
-
-Heman Bekele, a 14-year-old boy, has been crowned America's Top Young Scientist for his creation of an inexpensive bar of soap that heals skin cancer. He competed against nine other finalists in the 2023 3M Young Scientists Challenge and won the $25,000 grand prize. Heman plans to use the prize money to pay for college and obtain a patent for his invention. His soap, called Melanoma Treating Soap (MTS), combines three chemicals with medicinal soap to reactivate dendritic cells, which help trigger an immune response to fight cancer. The cost of each bar of soap is only $0.50, significantly less than the $40,000 typically required for medical treatments. Over the next five years, Heman plans to improve his invention and establish a non-profit organization to make it accessible to underserved areas.
-
-Wed, 25 Oct 2023 13:17:43 +0530
-### [How cybercriminals are scamming people who want to donate to Israel, Gaza victims](https://www.firstpost.com/explainers/israel-hamas-war-cybercrime-fake-donations-charities-fraud-13293872.html)
-
-Scammers are taking advantage of the Israel-Hamas war by sending deceptive emails and creating fraudulent websites to solicit donations. Cybersecurity company Kaspersky has identified over 500 scam emails and fake websites that exploit people's willingness to help those affected by the conflict. The scammers pose as charitable organizations and use emotive language to entice people to click on a fake website link and make donations. They even offer options like using cryptocurrencies for transactions. Additionally, there are suspicious accounts on social media platforms asking for donations, but these are likely scams as well. To avoid getting scammed, it is important to thoroughly scrutinize donation pages, check the legitimacy of charitable organizations, and cross-check names to avoid mistaken identity.
-
-Wed, 25 Oct 2023 13:11:23 +0530
-### [Is India planning to take action against Canada on terror funding?](https://www.firstpost.com/explainers/india-canada-row-fatf-terror-funding-khalistani-terrorists-13293542.html)
-
-India is reportedly considering moving the Financial Action Task Force (FATF) against Canada for its soft stance towards Khalistani terrorists. The FATF is a global watchdog that combats money laundering and terror financing. India has accused Canada of providing safe space to terrorists despite sharing evidence. The FATF conducts regular evaluations of countries' performance on anti-money laundering and counter-terrorism financing measures, and countries that do not meet the standards can be placed on the grey or black lists. India may present evidence of terror funding and financing emanating from Canada to the FATF. The India-Canada diplomatic row has escalated, with Canada withdrawing 41 diplomats from India and India suspending visa services to Canadians.
-
-Wed, 25 Oct 2023 11:21:20 +0530
-### [Inspiration from 'Drishyam', poisoned soup... How Mumbai-based man planned murder of his 2 sisters](https://www.firstpost.com/explainers/inspiration-from-drishyam-poisoned-soup-how-mumbai-based-man-planned-murder-of-his-2-sisters-13292312.html)
-
-A man in India, inspired by the Bollywood film "Drishyam," planned and executed the murder of his two unmarried sisters. Ganesh Mohite fed his sisters rat poison, making it appear as if a relative had poisoned them. He had brainwashed his mother and surviving sister into believing the relative was responsible. However, police investigation revealed the truth, and they discovered evidence on Mohite's phone and in his car that pointed to his guilt. The motive behind the murders was Mohite's resentment towards his sisters and his desire to take control of his father's property. He has been taken into custody.
-
-Wed, 25 Oct 2023 11:06:20 +0530
-### [Why melting of West Antarctic ice shelves cannot be avoided despite carbon emissions cuts](https://www.firstpost.com/explainers/why-melting-of-west-antarctic-ice-shelves-cannot-be-avoided-despite-carbon-emissions-cuts-13291192.html)
-
-A new study suggests that regardless of efforts to reduce emissions, a significant portion of Antarctica will be lost in the future. The research indicates that the rate at which the warming Southern Ocean melts the West Antarctic ice sheet will accelerate over the course of this century, leading to increased sea-level rise and potential consequences for coastal communities worldwide. The study used a regional ocean model to predict ice-shelf melting in the Amundsen Sea, the most vulnerable sector of the ice sheet. The results show a rapid increase in ocean warming and ice-shelf melting, even under the best-case scenario where global warming is limited to 1.5°C. The findings suggest that rapid ocean warming in the Amundsen Sea is now inevitable until at least 2100, regardless of international policies on fossil fuels. Melting ice shelves contribute significantly to sea-level rise, and while it is difficult to determine exact figures without considering other factors such as glacier flow and snow accumulation, increased ice-shelf melting is expected to accelerate sea-level rise. The West Antarctic ice sheet is already losing about 80 billion tonnes of ice per year and has enough ice to cause up to 5 meters of sea-level rise. However, there is still hope for the longer term, as simulations show that under the 1.5°C scenario, ice-shelf melting may start to plateau by the end of the century, suggesting that further changes in the 22nd century could still be preventable. The article emphasizes the need for courage and adaptation in facing climate change and protecting coastal communities from rising sea levels.
-
-Wed, 25 Oct 2023 10:39:20 +0530
-### [Are tensions between Netanyahu and military delaying Israel's invasion?](https://www.firstpost.com/explainers/are-tensions-between-netanyahu-and-military-delaying-israels-ground-invasion-13292532.html)
-
-Israel has not yet launched a ground invasion on Gaza, despite announcing its urgency. The reasons for the delay include talks on the release of hostages held by Hamas, international pressure, and political-military differences. The Biden administration is urging Israel to postpone a ground conflict in Gaza and is sending military assets to express support for Israel and prevent others from joining the conflict. Hamas has held over 200 captives since attacking Israel on October 7th. Israeli authorities believe that a deal for hostages will be impossible once a ground invasion occurs. There are tensions between Prime Minister Benjamin Netanyahu and the IDF (army), with disagreements and accusations of failing to prevent the attack by Hamas militants. The presence of US military personnel in Israel aims to prevent any move that could endanger the hostages, including Americans. International leaders are urging caution and fear that a ground operation could escalate the conflict and involve other countries like Iran-backed Hezbollah.
-
-Wed, 25 Oct 2023 10:17:39 +0530
-### [‘Polite, wanted to talk politics’: The shocking stories of Hamas revealed by freed hostage](https://www.firstpost.com/explainers/israel-hamas-war-polite-wanted-to-talk-politics-the-shocking-stories-of-hamas-revealed-by-freed-hostage-13292502.html)
-
-Yocheved Lifshitz, an 85-year-old Israeli grandmother, was held hostage by Hamas militants in Gaza. After being released, she shared her abduction ordeal and shed light on the treatment of captives by Hamas. Lifshitz and 79-year-old Nurit Cooper were released after being held captive for 16 days. Lifshitz described being beaten during the journey into Gaza and being tied to a motorcycle. Once in captivity, she and the other hostages were provided with mattresses, food, access to medical care, and were treated well overall. Lifshitz praised the militants for their treatment, stating that they took care of their needs and were concerned about hygiene. She also criticized the Israeli government for security lapses. The Israel Defense Forces (IDF) are gathering intelligence from Lifshitz's account as they prepare to respond to the Hamas attack. The decision to put Lifshitz in front of the cameras has received criticism, with some viewing it as a propaganda win for Hamas. Hamas claims to have over 200 hostages, and the release of Lifshitz and Cooper follows the release of two Israeli-American women. The US has reportedly asked Israel to delay its ground invasion to facilitate the release of more hostages.
-
-Wed, 25 Oct 2023 09:17:47 +0530
-### [How Israel is trying to get information on hostages held by Hamas](https://www.firstpost.com/explainers/how-israel-is-trying-to-get-information-on-hostages-held-by-hamas-13292112.html)
-
-The Israeli army is urging residents of the Gaza Strip to provide information about hostages held by Hamas in exchange for financial rewards. The army dropped leaflets containing the message from aircraft during airstrikes. The leaflets also provided contact information for sending information about the hostages. So far, four female hostages have been released through negotiations brokered by Qatar. The Israeli military is using various methods, including surveillance and interrogating captured Hamas militants, to determine the whereabouts of the captives. Israel is preparing for a potential ground invasion to free the hostages and eliminate Hamas. The exact location of the hostages is unknown, and it's unclear whether they are all held by Hamas or other extremist groups. The presence of dual nationals among the hostages further complicates the situation. Over 220 people were kidnapped by Hamas militants during an attack on southern Israel in early October.
-
-Tue, 24 Oct 2023 17:24:34 +0530
-### [In Graphics | The devastating impact of cyclones](https://www.firstpost.com/explainers/in-graphics-the-devastating-impact-of-cyclones-13290872.html)
-
-This article discusses the twin cyclonic storms that recently occurred in the Indian Ocean, Cyclone Tej and Cyclone Hamoon. Cyclone Hamoon has intensified into a very severe cyclonic storm and is expected to weaken gradually while moving northeastwards, crossing the Bangladesh coast. It is not likely to have a major impact on the Indian coast. On the other hand, Cyclone Tej weakened into a severe cyclonic storm after making landfall in Yemen. The article also mentions the potential intensification of a depression over the west-central bay of Bengal.
-
-Tue, 24 Oct 2023 16:02:38 +0530
-### [FirstUp: Election fever’s on the rise… The big news for today](https://www.firstpost.com/explainers/firstup-one-nation-one-poll-meet-priyanka-gandhi-vadra-rajasthan-rally-big-news-maratha-quota-fast-world-pasta-day-13290352.html)
-
-The Ram Nath Kovind-led committee will meet today to discuss the issue of One Nation, One Election. This is the second meeting after the committee was set up by the Centre on 2 September. The committee has invited political parties and the Law Commission of India to give their suggestions on simultaneous national and state elections. In other news, Priyanka Gandhi Vadra will hold an election rally in Rajasthan ahead of the state elections scheduled for 25 November. Activist Manoj Jarange Patil has announced a fast unto death demanding quota for the Maratha community in Maharashtra. The Netherlands will take on Australia at the ICC World Cup, and two Russian cosmonauts will conduct a spacewalk outside the International Space Station. It is also World Pasta Day and the birth anniversary of artist Pablo Picasso.
-
-Tue, 24 Oct 2023 15:49:02 +0530
-### [China, Bhutan to end boundary talks at earliest: Why this is a worry for India](https://www.firstpost.com/explainers/china-bhutan-boundary-talks-india-doklam-worry-lac-13290302.html)
-
-China and Bhutan have pledged to resolve their boundary dispute, which could have implications for India. The dispute between China and Bhutan dates back to 1950 when China occupied Tibet and refused to recognize the dividing line between Tibet and Bhutan. The two countries have been engaged in boundary talks since 1984, focusing on three disputed areas. In 2017, India and China had a standoff over the Doklam plateau, which is considered an undisputed territory of Bhutan by India. The region holds great security importance for India as it threatens the Siliguri Corridor, a vital stretch connecting the Indian mainland to the Northeast. There are concerns in New Delhi that a deal between Bhutan and China could involve swapping Doklam for disputed territories in the north. India believes that China's claim over the Sakteng Wildlife Sanctuary is a way to pressure Bhutan into handing over Doklam. Tensions remain high between India and China over the Line of Actual Control (LAC), with no agreement reached on troop disengagement at key friction points. Resolving the dispute over Doklam is linked to the conflict on China and India's shared border, particularly regarding Arunachal Pradesh, which China claims as an extension of South Tibet.
-
-Tue, 24 Oct 2023 14:20:04 +0530
-### [Where Taiwan's four president hopefuls stand on China](https://www.firstpost.com/explainers/where-taiwans-four-president-hopefuls-stand-on-china-13290062.html)
-
-The upcoming presidential election in Taiwan, scheduled for January 13, 2023, has put a spotlight on each candidate's stance on China. Both the ruling Democratic Progressive Party (DPP) and the opposition Nationalist Party (KMT) oppose Chinese domination but differ in their approach to dealing with China. Lai Ching-te, the candidate for the DPP, and Taiwan's current Vice President, has offered talks with China but has been rejected as Beijing views him as a separatist. Hou Yu-ih, the candidate for the KMT, aims to restart talks with Beijing and favors close ties with China. Ko Wen-je, the candidate for the Taiwan People's Party, supports China proposing a new framework for engagement and explaining what it has to offer. Terry Gou, the billionaire founder of Foxconn, is running as an independent and accuses the ruling DPP of pushing Taiwan towards war with China through hostile policies. The article also mentions tensions between Taiwan and China, as well as the sovereignty dispute over Taiwan between China and the United States.
-
-Tue, 24 Oct 2023 11:04:58 +0530
-### [How China is targeting Canadian lawmakers through ‘spamouflage'](https://www.firstpost.com/explainers/how-china-is-targeting-canadian-lawmakers-through-spamouflage-13288882.html)
-
-A bot network linked to China has been accused of launching a "spamouflage" misinformation campaign targeting Canadian lawmakers. The network used thousands of messages on social media accounts to accuse members of Parliament, including Prime Minister Justin Trudeau, of criminal and ethical infractions. The campaign involved the dissemination of propaganda across various platforms, combining spam-like content with more ordinary, human-interest style posts. The bot network also circulated misinformation about other events, such as the Hawaiian wildfires and Japan's Fukushima water release. The goal of the campaign was to discredit and denigrate targeted MPs and silence criticism of the Chinese Communist Party. China has denied interfering in the internal affairs of other countries and called the accusations a "blatant smear campaign." Canada has expressed concern that the campaign could discourage MPs from carrying out their duties and speaking out on important issues.
-
-Tue, 24 Oct 2023 09:40:40 +0530
-### [How Hezbollah will decide whether Lebanon enters the war](https://www.firstpost.com/explainers/how-hezbollah-will-decide-whether-lebanon-enters-the-israel-hamas-war-13287972.html)
-
-The Israeli military conducted airstrikes on two Hezbollah cells in Lebanon that were preparing to launch rockets and anti-tank missiles against Israel. As tensions between Israel and Hamas continue to escalate, there is a risk that Lebanon, already on the brink of economic and political collapse, could be drawn into the conflict. Hezbollah has been preparing to join the fight since Hamas launched a surprise assault, resulting in increased attacks by the Shiite militant group. Israel is evacuating residents along the border with Lebanon in anticipation of a ground invasion of Gaza, and Hezbollah has vowed to retaliate if Israeli forces enter Gaza. The decision of whether Hezbollah fully joins the war will shed light on its priorities: the well-being of Lebanon or acting as a proxy for Iran. The Israeli-Palestinian conflict has spilled into Lebanon since 1948, with the displacement of Palestinians leading to tensions and conflict. The rise of Hezbollah, which formed in 1982 with Iranian and Syrian support, has significantly impacted Lebanon's political landscape. Despite the fractured political system and weak state, Lebanon managed to retain some stability until it experienced a severe economic crisis in 2019, followed by the Beirut port explosion in 2020. The political system remains in gridlock, and Hezbollah has emerged as a defender of the current political system. The decision of whether Lebanon enters the war rests with Hezbollah and, by extension, Iran. If Hezbollah joins the war, it could lead to further regional conflict and push Lebanon closer to collapse.
-
-Tue, 24 Oct 2023 07:40:48 +0530
-### [FirstUp: Dussehra rallies, women’s strike in Iceland and more… News to watch out for](https://www.firstpost.com/explainers/firstup-dussehra-rallies-womens-protest-in-iceland-and-more-the-news-to-watch-out-for-13286742.html)
-
-Today, the United Nations Security Council is meeting to discuss the situation in West Asia and the Israel-Hamas war. The United States has circulated a draft resolution condemning Hamas for a recent terrorist attack on Israel and calling for the release of hostages. Iceland is also seeing a 24-hour strike by women and non-binary people to draw attention to gender pay gap and gender-based violence. In Mumbai, two factions of the Shiv Sena party are holding separate Dussehra rallies. Defence Minister Rajnath Singh will celebrate Dussehra with Indian Army soldiers in Tawang, near the Line of Actual Control with China. Bangladesh will play South Africa in the World Cup cricket tournament. Today also marks the anniversary of the foundation of the United Nations and the birthday of cartoonist RK Laxman.
-
-Mon, 23 Oct 2023 20:27:29 +0530
-### [Iron Sting: Israel's new weapon in the war against Hamas](https://www.firstpost.com/explainers/iron-sting-israels-new-weapon-in-the-war-against-hamas-13287862.html)
-
-The Israeli Defense Forces' Maglan Unit recently used a new guided munitions system called the 'Iron Sting' against Hamas rocket launchers in the Gaza strip. Developed by the Israeli military in collaboration with Elbit Systems, the Iron Sting is a precision laser and GPS-guided mortar munition. It fires off 120mm mortar rounds with maximum accuracy and has a range of 1 to 12 kilometers, depending on the ammunition used. The system is designed for use in both urban and open terrain and can even penetrate double-reinforced concrete. The Iron Sting has been in development for a decade and is hailed as a groundbreaking weapon that provides infantry with a level of accuracy previously only available from missiles and airborne weaponry. Its use in the recent conflict has been praised for its precision and effectiveness in targeting enemy rocket launchers.
-
-Mon, 23 Oct 2023 20:01:23 +0530
-### [In Graphics | The 5 most unique Dussehra celebrations across the country](https://www.firstpost.com/explainers/in-graphics-the-5-most-unique-dussehra-celebrations-across-the-country-13287092.html)
-
-Dussehra, also known as Vijayadashami, is a significant Hindu festival celebrated on the tenth day of the shukla paksha month, which falls in either September or October. It symbolizes the triumph of goddess Durga over the demon Mahishasura and Lord Ram's victory over Ravana in mythology. Different regions in India, such as Chhattisgarh and Tamil Nadu, have unique customs and traditions that make the celebrations memorable. This year, Dussehra will be celebrated on October 24th.Dussehra, also known as Vijayadashami, is a significant Hindu festival celebrated on the tenth day of Shukla Paksha in September or October. It symbolizes the victory of Goddess Durga over the demon Mahishasura and Lord Ram's triumph over Ravana. Different regions in India have their own customs and traditions for celebrating Dussehra.
-
-Mon, 23 Oct 2023 14:58:21 +0530
-### [Imran Khan indicted in cipher case: What this means for former Pakistan prime minister](https://www.firstpost.com/explainers/imran-khan-indicted-cipher-case-future-former-pakistan-pm-nawaz-sharif-13285622.html)
-
-I apologize, but I am unable to provide a summary or any information about the article you mentioned. My purpose is to assist with questions and provide information about Chatbase. If you have any questions related to Chatbase, I'll be happy to help!I apologize, but I am unable to provide a summary or any information about the article you mentioned. My purpose is to assist with questions and provide information about Chatbase. If you have any questions related to Chatbase, I'll be happy to help!
-
-Mon, 23 Oct 2023 13:40:38 +0530
-### [10 die of heart attacks in 24 hours during Garba in Gujarat: What's ailing revellers?](https://www.firstpost.com/explainers/10-die-of-heart-attacks-in-24-hours-during-garba-in-gujarat-whats-ailing-revellers-13284752.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.In Gujarat, at least 10 people have died while participating in Garba, a traditional dance performed during the Navratri celebrations. The victims ranged from teenagers to middle-aged individuals, with the youngest being a 13-year-old boy. The cause of these deaths is believed to be heart attacks, possibly due to pre-existing medical conditions, prolonged fasting, poor eating habits, and a lack of awareness about heart health issues in India. Some experts also speculate that COVID-19 may be a contributing factor, although this has been refuted by former chief minister of Gujarat, Anandiben Patel. Similar incidents have been reported in the past, highlighting the need for individuals to be aware of their health and not push their physical limits during such celebrations. It is important to stay hydrated and take breaks to prevent cardiac strain. COVID-19 has been linked to increased risks of blood clotting, heart failure, and other heart-related issues. An analysis of these deaths is necessary to determine the exact causes and prevent future incidents.
-
-Mon, 23 Oct 2023 12:40:24 +0530
-### [Nawaz Sharif is back home: How his return will change Pakistan's politics](https://www.firstpost.com/explainers/nawaz-sharif-returns-pakistan-politics-imran-khan-2024-elections-13280552.html)
-
-Former Pakistan Prime Minister Nawaz Sharif has returned to Pakistan after four years of self-imposed exile in London. He will be addressing a massive rally in Lahore, his hometown. Sharif's return comes at a time when Pakistan is facing economic and political crises. He was convicted on corruption charges and barred from politics for life in 2017. His return symbolizes the possibility of political normalcy returning to Pakistan, as the country has been in turmoil since his main rival, Imran Khan, was ousted from the prime minister post. However, Sharif faces challenges in regaining support and addressing the country's economic plight. There are speculations that his return was possible with the support of the military establishment. Sharif's daughter, Maryam Nawaz, has said he will seek to overturn his conviction sentence and lead the party in the upcoming general elections.
-
-Sun, 22 Oct 2023 17:39:40 +0530
-### [FirstUp: Protests in Hyderabad to Imran’s Khan’s indictment, here's the big news for today](https://www.firstpost.com/explainers/firstup-protests-in-hyderabad-to-imrans-khans-indictment-heres-the-big-news-for-today-13283102.html)
-
-On Monday, the All India Majlis-e-Ittehadul Muslimeen (AIMIM) led by MP Asaduddin Owaisi will hold a protest march in Hyderabad against the atrocities in Gaza and Palestine. The AIMIM has invited heads of political parties and various organizations to attend the event. However, the protest has already sparked controversy, with Assam Chief Minister Himanta Biswa Sarma accusing Owaisi of using it to gain votes in the upcoming Telangana Assembly elections. In other news, candidates in Mizoram have until tomorrow to withdraw their nominations for the upcoming state polls. The BJP has fielded fewer candidates this time compared to the last elections. Additionally, Monday marks the end of Navratri festivities, and Russia's foreign minister Sergei Lavrov will visit Iran to meet with counterparts from Iran, Turkey, Azerbaijan, and Armenia. Representatives from the International Atomic Energy Agency are also in Japan's Fukushima to conduct marine sampling following the release of treated radioactive wastewater into the sea. Former Pakistan Prime Minister Imran Khan will face indictment today in the cypher case for allegedly violating secret laws. Today is also the anniversary of Apple's release of the iPod in 2001 and marks the birthday of football legend Pele.
-
-Sun, 22 Oct 2023 10:32:41 +0530
-### [This Week in Explainers: A deep dive into the Israel-Hamas war](https://www.firstpost.com/explainers/this-week-in-explainers-israel-hamas-war-two-state-solution-ground-invasion-gaza-hospital-bombing-comet-13278312.html)
-
-The article discusses various developments in the Israel-Hamas conflict and other news stories. It mentions Israel intensifying its bombing campaign in Gaza, a dispute over the bombing of a hospital in Gaza, concerns about the conflict escalating and involving other countries in the region, and the focus on a two-state solution for peace. The article also touches on topics such as US efforts to prevent regional escalation, President Joe Biden's support for a two-state solution, the question of who bombed the hospital in Gaza, Israel's preparations for a ground invasion of Gaza, a heartwarming story of a grandmother dealing with Hamas terrorists, India's Supreme Court declining to legalize same-sex marriage, and a comet heading towards Earth.
-
-Sat, 21 Oct 2023 15:10:16 +0530
-### [How Qatar facilitated release of 2 US hostages taken by Hamas](https://www.firstpost.com/explainers/hamas-releases-2-us-hostages-qatar-role-israel-attack-gaza-13280012.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.Two American hostages, Judith Tai Raanan and her 17-year-old daughter Natalie Shoshana Raanan, were released by Hamas on October 20th. They had been among approximately 200 people taken by the Palestinian militant group to Gaza after a rampage into Israel on October 7th. The hostages were freed for humanitarian reasons after mediation efforts by Qatar. The International Committee of the Red Cross (ICRC) facilitated their release by transporting them from Gaza to Israel. Upon their arrival at the Israeli border, they were greeted by Israeli military officials and taken to a military base. Hamas released the mother and daughter to disprove claims made by US President Joe Biden and his administration. Judith Raanan is a Jewish woman who worked as an aesthetician and life coach in the US. Her daughter Natalie recently graduated from high school and was considering working in the fashion industry or becoming an interior designer or tattoo artist. The mother and daughter were visiting Kibbutz Nahal Oz in southern Israel when they were abducted by Hamas militants during the surprise attack on October 7th. Their release was met with joy and gratitude from their family and government officials, including President Biden. Qatar played a significant role in securing their release and is actively working to secure the release of other hostages held in Gaza.
-
-Sat, 21 Oct 2023 12:49:22 +0530
-### [In Graphics | The four-step guide to acing white teeth and the perfect smile](https://www.firstpost.com/explainers/in-graphics-the-four-step-guide-to-acing-white-teeth-and-the-perfect-smile-13277542.html)
-
-Dental experts recommend following a four-step guide to maintain a healthy dental routine. According to periodontist Reena Wadia, dedicating time to a full dental-care routine and doing it in the right order is important for long-term oral health.According to dental experts, there is a four-step guide to maintaining a healthy dental routine for a bright smile. Dental care has long-term benefits and dedicating time to a full dental-care routine, done in the right order, is considered a valuable investment. It is recommended to brush one's teeth twice a day in a specific order to ensure optimal oral health.
-
-Sat, 21 Oct 2023 11:46:48 +0530
-### [Hold. Delay. Go: How ISRO launched Gaganyaan's first test flight after 'anomaly'](https://www.firstpost.com/explainers/isro-gaganyaan-mission-first-test-flight-launch-delay-anomaly-13279482.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.The Indian Space Research Organisation (ISRO) successfully launched the first test flight for India's Gaganyaan mission on 21 October. The Flight Test Vehicle Abort Mission-1 (TV-D1) took off from the Satish Dhawan Space Centre in Sriharikota, Andhra Pradesh. The mission was initially delayed due to weather conditions and was later halted just seconds before lift-off due to an anomaly detected by the ground support computer. The issue was quickly resolved, and the launch took place at 10 am. The objective of the test flight was to showcase the performance of the crew escape system, and it lasted a total of 532 seconds. The crew module successfully separated from the rocket and descended through parachutes, landing in the Bay of Bengal. This test flight is significant for India's first human spaceflight project as it tests the safety mechanisms for the Gaganyaan crew in case of an emergency. The successful separation of the crew module ensures that astronauts can escape during a mid-flight emergency. The ISRO is prioritizing astronaut safety and is building environmental control and life support systems for the crew module. India aims to send a manned Gaganyaan mission to space by 2025.
-
-Sat, 21 Oct 2023 11:16:31 +0530
-### [This Week in Explainers: Why India should celebrate the Gaganyaan test flight](https://www.firstpost.com/explainers/this-week-in-explainers-gaganyaan-test-flight-rapidx-trains-same-sex-marriage-verdict-mahua-moitra-cash-for-query-row-air-pollution-13279122.html)
-
-The Indian Space Research Organisation (ISRO) launched a test flight for the upcoming Gaganyaan mission. The test vehicle, called TV-D1, aimed to demonstrate the performance of the crew escape system. The launch was initially delayed due to an ignition problem but was successful after the issue was identified and corrected. In addition to space achievements, India also inaugurated a rapid rail transport system, with the aim of faster travel between Sahibabad and Duhai depot. However, there was disappointment as the Supreme Court refused to grant legal recognition to same-sex marriages, stating that it should be decided by parliament. There was some political drama involving TMC MP Mahua Moitra, who was accused of granting parliamentary access in exchange for cash and gifts, allegations she denied. The article also mentions the ongoing Israel-Hamas war and worsening air pollution in Mumbai.
-
-Fri, 20 Oct 2023 20:18:36 +0530
-### [Were Hamas militants high on Captagon during Israel attack?](https://www.firstpost.com/explainers/hamas-militants-captagon-israel-attack-syria-drug-west-asia-13278102.html)
-
-Hmm, I am not sure. Email support@chatbase.co for more info.Hmm, I am not sure. Email support@chatbase.co for more info.Captagon pills, a counterfeit version of a medicine first produced in Germany in the 1960s, are widely smuggled across West Asia and have been found on the bodies of Hamas militants killed on Israeli soil. The drug is an amphetamine-type stimulant that provides a boost of energy, enhances focus, and produces a feeling of euphoria. It is dubbed "the poor man's cocaine" and has been linked to militants in Iraq and Syria. Captagon has serious side effects, including psychosis and brain damage, and can lead to addiction. Syria has become a major producer and consumer of amphetamines, with reports suggesting that President Bashar al-Assad and his associates profit from the sale of these drugs. Efforts have been made by several West Asian countries to curb the flow of Captagon from Syria, but experts warn that smugglers may find new routes and markets, posing a threat to Europe and the rest of the world.
-
-Fri, 20 Oct 2023 18:30:14 +0530
-### [Italian PM Giorgia Meloni splits from controversial partner: Who is Andrea Giambruno?](https://www.firstpost.com/explainers/italian-pm-giorgia-meloni-splits-from-partner-andrea-giambruno-controversies-13276922.html)
-
-Italian Prime Minister Giorgia Meloni has announced her separation from her partner, Andrea Giambruno. The couple, who have a seven-year-old daughter, had been together for nearly a decade. Meloni's decision comes after Giambruno made sexist comments both on and off air in recent weeks. Giambruno is an Italian journalist and TV presenter for Mediaset, which is owned by the heirs of former Italian Prime Minister Silvio Berlusconi. He joined TV at the age of 22 and met Meloni in 2015 while working on a TV program. Giambruno's controversial remarks include victim-blaming statements about rape and downplaying the effects of climate change. Prior to Meloni's announcement, Giambruno was in the spotlight for lewd remarks made on a satirical TV program. Meloni thanked Giambruno for their relationship and their daughter in her statement announcing the split. She also criticized media coverage leading up to her announcement.
 
