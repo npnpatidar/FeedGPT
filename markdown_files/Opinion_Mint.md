@@ -1,3 +1,209 @@
+Mon, 06 May 2024 08:30:05 +0530
+### [Elections 2024: Historic for the Constitution that unites us all?](https://www.livemint.com/opinion/online-views/elections-2024-historic-for-the-constitution-that-unites-us-all-11714920005036.html)
+
+The Indian Constitution has unexpectedly become a focal point in the current national elections, with both major parties, the BJP and Congress, accusing each other of manipulating it for political gain. The main issue revolves around affirmative action, particularly regarding proportional quotas for jobs and education. This election seems likely to hinge on the votes of Other Backward Classes (OBCs), who make up a significant portion of the electorate. While identity politics are at play, there's a silver lining in both sides affirming the Constitution in their rhetoric. However, doubts remain about whether this signals genuine stability or is merely superficial. The BJP's historical stance on the Constitution contrasts with its recent rhetoric, suggesting a political evolution. Nonetheless, there's acknowledgment that the Constitution isn't perfect and should be open to debate. Despite political tensions, there's consensus on upholding key principles like equality and liberty. The article emphasizes the importance of these principles as the foundation of Indian unity, urging a focus on what unites rather than divides.
+
+Mon, 06 May 2024 07:15:00 +0530
+### [Peeled to the core: Onion export bans distort markets](https://www.livemint.com/opinion/online-views/peeled-to-the-core-onion-export-bans-distort-markets-11714920091006.html)
+
+The government has lifted its ban on onion exports but with conditions: a minimum export price of $550 per tonne and a 40% tariff. This move, just before elections in Maharashtra, aims to appease farmers affected by the ban. While the decision is welcomed, it highlights the issue of frequent government interventions in agricultural markets. Such bans disrupt market dynamics and discourage farmers from cultivating certain crops. Moreover, they harm India's reputation as a reliable global supplier. The government must establish a clear framework to ensure stability and predictability in agricultural policies.
+
+Mon, 06 May 2024 07:00:01 +0530
+### [Why IT firms are treating artificial intelligence as a poisoned chalice](https://www.livemint.com/opinion/online-views/why-it-firms-are-treating-artificial-intelligence-as-a-poisoned-chalice-11714916235944.html)
+
+Article found but Couldn't summarize 
+Generative AI is now part of every IT major’s toolkit, but the red flags in their recent annual reports show they are yet to fully grasp the risks and rewards of this revolutionary technology.
+
+Sun, 05 May 2024 21:29:02 +0530
+### [Loyalty that ends when polls are done and dusted](https://www.livemint.com/opinion/columns/loyalty-that-ends-when-polls-are-done-and-dusted-11714923890996.html)
+
+The article discusses Prime Minister Narendra Modi's remarks at an election rally about Rahul Gandhi contesting from Rae Bareli instead of Amethi, and the Congress party's decision to field K. L. Sharma from Amethi. It explores the dynamics of the Congress party's strategy, the historical significance of Rae Bareli and Amethi for the Gandhi family, and the potential implications of Rahul Gandhi's dual candidacy from Wayanad and Rae Bareli. The article also touches upon the broader political landscape in Uttar Pradesh and the potential outcomes for the Congress party in the upcoming elections.
+
+Sun, 05 May 2024 17:08:11 +0530
+### [Seeking wisdom at the Woodstock of Capitalism](https://www.livemint.com/opinion/first-person/seeking-wisdom-at-the-woodstock-of-capitalism-11714901797899.html)
+
+The article describes the author's experience at the Berkshire Hathaway Annual General Meeting (AGM) in Omaha, which is transformed once a year from a modest city into a bustling hub of activity. The AGM, hosted by Warren Buffett, is not only a chance to hear from the legendary investor but also a gathering that fosters a sense of community among attendees. The author highlights the camaraderie and shared passion for learning and growth that unite both seasoned investors and newcomers. The true charm of the event, as per the author, lies in the connections and friendships made, bound by mutual respect and a desire to grow.
+
+Jason Zweig's passage from 2004 is quoted, emphasizing the comfort of being part of a community and not facing the uncertainties of investing alone. The author reflects on the ethos of Buffett and Munger, which goes beyond wealth creation to building relationships, trust, and a nurturing community. Attending the AGM is likened to a pilgrimage, valuing deep investing principles, long-term thinking, and shared wisdom. It's an experience that affirms we are not alone in our endeavors, and while there will always be intelligent people, there will never be another Buffett or Munger. The author, Vishal Khandelwal, views the AGM as a joyous and growth-oriented journey, a true pilgrimage to the mecca of wisdom.
+
+Sun, 05 May 2024 17:00:18 +0530
+### [Industrial policy is back with a vengeance everywhere](https://www.livemint.com/opinion/online-views/industrial-policy-is-back-with-a-vengeance-everywhere-11714893099611.html)
+
+Governments worldwide are re-engaging with industrial policies to enhance industrial competitiveness and shield domestic industries. Various factors like the 2008 financial crisis, skepticism towards free markets, China's ascent, the pandemic, supply chain disruptions, climate change, and geopolitical tensions have prompted this revival. While both developed and developing nations are involved, advanced economies are more active. The resurgence includes traditional measures like subsidies alongside newer priorities like climate action. In the US, recent legislation targets climate change mitigation and semiconductor supply chain security. India's response involves production-linked incentives (PLI) to bolster domestic manufacturing. However, despite efforts, the PLI scheme faces challenges, including private sector reluctance to invest. Addressing this issue is crucial for the success of industrial policies.
+
+Sun, 05 May 2024 16:30:17 +0530
+### [A winner-takes-all economy is bad for innovation and art](https://www.livemint.com/opinion/online-views/a-winner-takes-all-economy-is-bad-for-innovation-and-art-11714893014931.html)
+
+The article reflects on the Whitney Biennial, expressing disappointment in its predictability and risk-averse nature, which mirrors a broader societal trend where elite institutions stifle innovation. The exhibition aimed to explore themes of AI, gender, and authenticity, but faced criticism for not being groundbreaking. The author argues that the art world, like other industries, is dominated by a few stars due to a winner-take-all economy, making it difficult for others to succeed without institutional support. This has led to a homogenous intellectual environment and a lack of true creativity at the highest levels. The article suggests that while it's easier than ever to gain attention online, breaking into the economic upper echelon remains challenging and tends to reward conformity. The author questions the sustainability of this bifurcated system and whether establishments like the Whitney Biennial will maintain their importance if they continue to lack innovation. The erosion of establishment authority could democratize success and lead to a more productive economy if it allows for unconventional paths to success.
+
+Sun, 05 May 2024 16:00:16 +0530
+### [India Inc has exciting opportunities to tap in its Viksit Bharat journey](https://www.livemint.com/opinion/online-views/india-inc-has-exciting-opportunities-to-tap-in-its-viksit-bharat-journey-11714892959379.html)
+
+The article discusses India's economic and developmental progress amidst global challenges. It highlights India's potential to become the world's third-largest economy, driven by government policy innovations, inclusive growth, and a digital mindset. Key achievements include:
+
+- **Infrastructure Development**: Significant strides in highway construction, rural road connectivity, metro rail expansion, railway electrification, and airport operationalization, exemplified by the Gati Shakti National Master Plan.
+
+- **Manufacturing Growth**: The Production-Linked Incentive (PLI) scheme has attracted substantial investments, resulting in increased production, sales, and job creation.
+
+- **Ease of Doing Business**: Liberalized investment rules, the introduction of GST, reduction of compliance risks, and simplification of clearance processes through a national single window system.
+
+- **Digital Revolution**: Massive digital penetration supported by initiatives like the JAM trinity, national digital literacy mission, ONDC, and GeM, with significant public participation in financial inclusion programs.
+
+- **Ease of Living**: Improvement in service delivery through sanitation, healthcare, pension, banking, clean cooking, water supply, technology access, and housing schemes.
+
+The article envisions India as a $30 trillion economy by 2047, with a focus on manufacturing, exports, R&D, digitalization, skill development, and a holistic value chain approach. It also addresses the need for business models addressing climate change, judicial capacity enhancement, and increased female labor force participation to ensure inclusive prosperity.
+
+The author, Anish Shah, is the president of FICCI and the group CEO & managing director of the Mahindra Group. The article concludes with a call for empowering farmers, increasing agricultural productivity, and promoting women's workforce participation to build a more inclusive and prosperous India.
+
+Sun, 05 May 2024 15:00:15 +0530
+### [Manu Joseph: How do noble proposals like an inheritance tax arise?](https://www.livemint.com/opinion/online-views/manu-joseph-how-do-noble-proposals-like-an-inheritance-tax-arise-11714892883466.html)
+
+Sam Pitroda, once a prominent figure in Indian telecom, recently suggested the adoption of an inheritance tax and wealth redistribution in India. Although his statement should have been insignificant, it garnered attention due to ongoing elections. Despite being potentially beneficial for the poor, Pitroda's proposal was controversial, with the BJP misrepresenting it as part of the Congress manifesto. This incident sheds light on how societal reforms often stem from conflicts between different layers of power, with the second tier challenging the first, often in the name of morality or the underprivileged. Pitroda's suggestion can be seen as a move to challenge the new elite, reminiscent of historical struggles between different social classes for reform. The article also highlights a less obvious form of inequality perpetuated by the upper middle class, who, unlike billionaires, compete directly with other societal classes in various fields, leveraging not just wealth but social connections for advantage.
+
+Sun, 05 May 2024 14:00:14 +0530
+### [America is not yet declining but appears willing to let itself down](https://www.livemint.com/opinion/online-views/america-is-not-yet-declining-but-appears-willing-to-let-itself-down-11714892823009.html)
+
+The article discusses the evolution of Indian foreign policy and the United States' global position. It reflects on the mid-2000s debate in India about aligning more closely with the US, despite historical hesitations due to past US support for Pakistan and concerns over losing strategic autonomy. The author was among the few advocating for this realignment, seeing it as beneficial for India.
+
+The piece also critiques the notion of American decline, a popular topic during the end of George W. Bush's presidency and Barack Obama's campaign. The author argues against this declinism, citing America's political resilience, educational ecosystem, and ability to attract global talent as reasons for its sustained dominance.
+
+However, the author expresses concern over the damage the US has done to these strengths in the past 15 years, particularly due to extreme partisanship, challenges in the higher education system, and the handling of immigration. Despite these issues, the author believes the US still has the potential for self-correction.
+
+The article concludes by referencing Paul Kennedy's analysis of the rise and fall of great powers, suggesting that the US may risk decline if it does not address its current challenges, especially in the context of international conflicts and the need for hard power. The author implies that the US must remember its historical strengths and avoid the pitfalls of military overstretch to maintain its global position.
+
+Sat, 04 May 2024 18:04:52 +0530
+### [Europe hopes barbed wire will keep migrants out. It won’t](https://www.livemint.com/opinion/online-views/europe-hopes-barbed-wire-will-keep-migrants-out-it-wont-11714825773948.html)
+
+The article discusses the proliferation of border fences in the European Union, particularly in response to migrant crises and security concerns. It highlights the significant rise in the length of border fences since the 1990s, with a sharp increase during the Syria-driven migrant crisis of 2015-16 and resurgence amid pandemic-era restrictions easing. Despite the high costs and questionable effectiveness of fences, countries like Poland and Finland are investing in them to manage illegal migration and confront Russian influence. However, critics argue that fences symbolize policy failures and shift migration patterns rather than solve underlying issues. The article also mentions the EU's tougher stance on migration, increased funding for border security, and the legal and moral dilemmas posed by migration policies and the new migration pact.
+
+Sat, 04 May 2024 15:49:53 +0530
+### [Evolution of leadership: Embracing unvanguard principles in the modern world](https://www.livemint.com/opinion/first-person/evolution-of-leadership-embracing-unvanguard-principles-in-the-modern-world-11714813722873.html)
+
+The article explores the evolving concept of leadership, emphasizing a shift towards "leading from the back" rather than traditional front-facing leadership styles. It highlights factors such as changing psychological contracts between companies and employees, the rise of hybrid work arrangements, and the democratization of innovation. Unvanguard leaders prioritize purpose-driven cultures, autonomy, and collaboration to foster innovation and drive transformative change within organizations. They prioritize a "people-first" approach, empowering individuals to contribute meaningfully while valuing diversity and collective genius. The article suggests that nurturing leaders who can harness the collective talent of their teams is crucial in today's dynamic landscape.
+
+Sat, 04 May 2024 08:00:16 +0530
+### [The elegant Godrej split: A blueprint for India Inc?](https://www.livemint.com/opinion/online-views/the-elegant-godrej-split-a-blueprint-for-india-inc-11714739073514.html)
+
+The article discusses the Godrej family's elegant and thoughtful family settlement, which took four years to finalize and is seen as a model for succession planning in Indian promoter-driven companies. It contrasts this with cases of value destruction due to poor succession planning, as seen in the Anil Dhirubhai Ambani Group and Thapar Group. The author suggests that for Indian companies to become globally competitive, they should focus on creating large MNCs rather than redistributing control through asset carve-ups.
+
+The article cites examples from the US, Germany, and Sweden, where family-owned businesses have successfully combined family ownership with professional management, often backed by large institutions. This governance model has allowed families to retain wealth while delegating management responsibilities, acknowledging their limitations in expertise.
+
+In Japan, family-owned businesses often involve meticulous grooming of family members for leadership, with professional managers sometimes brought in from outside the family. Japanese family businesses typically blend traditional values with modern management to prioritize long-term sustainability.
+
+The author notes that most Indian companies are small by global standards and that splitting assets into smaller entities could hinder achieving global scale. The article suggests that India will need to forge its own path, balancing Eastern and Western models of family business governance. It highlights the importance of careful succession planning, as seen in the Reliance group, Wipro, and HCL, to prevent value destruction and protect the interests of minority shareholders. The author, Prabal Basu Roy, emphasizes the significance of these issues for India Inc and its stakeholders.
+
+Fri, 03 May 2024 16:00:07 +0530
+### [Rivers older than the flow of blood in our veins](https://www.livemint.com/opinion/online-views/rivers-older-than-the-flow-of-blood-in-our-veins-11714713609497.html)
+
+The article discusses the current state of rivers worldwide, highlighting alarming trends such as droughts, declining water levels, and pollution. It emphasizes the historical, cultural, and spiritual significance of rivers, noting their role in sustaining civilizations and inspiring reverence across cultures. The piece also delves into the geographical and historical context of several major rivers, underscoring their transnational nature. Additionally, it explores efforts to legally protect rivers in various countries, contrasting progress made in some places with the lack of enforceable measures in others. The author calls for greater recognition of rivers' importance and the need for their rights and protection.
+
+Fri, 03 May 2024 13:30:02 +0530
+### [Generative AI: Five ways companies in India can fully exploit its potential](https://www.livemint.com/opinion/online-views/generative-ai-five-ways-companies-in-india-can-fully-exploit-its-potential-11714712891092.html)
+
+The article discusses the current landscape of rapid change and uncertainty, emphasizing the importance of leveraging technology, data, and AI to thrive in the future business environment. It highlights the potential economic value of generative AI adoption and provides examples of how businesses, particularly in India, can utilize AI to drive growth and innovation. The article offers five strategies for businesses to maximize their AI investments, including embracing a bold vision, driving continuous reinvention, developing a secure digital core, reinventing talent and ways of working, and closing the gap on responsible AI. It concludes by suggesting that businesses in India have the opportunity to create AI-based solutions that enhance human creativity and productivity, ushering in a new era of innovation.
+
+Fri, 03 May 2024 10:00:17 +0530
+### [Biden’s take on India’s economy is both bizarre and bothersome](https://www.livemint.com/opinion/online-views/bidens-take-on-india-s-economy-is-both-bizarre-and-bothersome-11714661045849.html)
+
+US President Joe Biden recently made remarks attributing the economic challenges of Japan, China, and India to "xenophobia," particularly in relation to immigration policies. These comments, made at a fundraising event, have sparked surprise and criticism, especially in India. While India emphasizes inclusivity, Biden's categorization of its economic growth as "stalling" alongside China and Japan is contentious. India's growth trajectory, supported by projections from institutions like the World Bank and IMF, contradicts Biden's characterization. Biden's focus on immigration policies, suggesting that welcoming immigrants fuels economic strength, contrasts with India's more restrictive visa policies, which prioritize reciprocity and can hinder foreign investment. However, India's visa regulations hardly constitute xenophobia, and its immigration challenges differ from those of other countries. Biden's comments risk inflaming tensions, particularly in light of India's advocacy for labor mobility versus US and EU emphasis on capital movement in international negotiations. These remarks could impede progress in ongoing negotiations, such as free trade agreements with the UK and US.
+
+Fri, 03 May 2024 09:30:16 +0530
+### [The Go First case: India's insolvency court needs an understanding of aviation](https://www.livemint.com/opinion/go-first-insolvency-nclt-understanding-of-aviation-11714662596004.html)
+
+The article highlights the mishandling of Go First's insolvency case, emphasizing the lack of urgency and expertise within regulatory authorities. It criticizes the delay in hearings by the National Company Law Tribunal and the failure of aviation bodies to aid the struggling airline. The decision to declare insolvency is questioned, with accusations of deliberate misleading actions by the airline's promoters. Despite gaining a moratorium on payments, Go First remains grounded, echoing past failures in the aviation industry. The prolonged delay in resolving the case is deemed detrimental to India's ease of doing business campaign.
+
+Fri, 03 May 2024 08:30:13 +0530
+### [The Godrej split: Brand sharing holds the key](https://www.livemint.com/opinion/online-views/the-godrej-split-brand-sharing-holds-the-key-11714663085945.html)
+
+The article discusses the split of assets within the Godrej family, dividing businesses into two groups: Godrej Industries Group (GIG) and Godrej Enterprises Group (GEG). GIG will focus on sectors like fast-moving consumer goods, financial services, and pharma, while GEG will handle areas like consumer durables, construction materials, and security products. Both groups have exclusive rights to certain sectors under the Godrej brand to prevent conflicts. The article emphasizes the importance of maintaining the brand's integrity as it is split between the two groups, highlighting the need for them to remain invested in its integrity for continued success.
+
+Fri, 03 May 2024 08:00:12 +0530
+### [Biden is off the mark on xenophobia](https://www.livemint.com/opinion/online-views/biden-is-off-the-mark-on-xenophobia-11714662894978.html)
+
+The article critiques President Joe Biden's recent statement where he lumped India with other countries as "xenophobic." It argues that Biden's statement lacks credibility and understanding of India's economic situation and immigration dynamics. While praising the US for its relatively open immigration policy, the article suggests that Biden's credibility on immigration issues is undermined by his unfounded remarks. It also points out India's long tradition of openness to diversity, contrasting it with ongoing debates and crackdowns on dissent in the US.
+
+Thu, 02 May 2024 16:00:19 +0530
+### [Is hiring just to meet diversity quotas an unfair approach?](https://www.livemint.com/opinion/online-views/is-hiring-just-to-meet-diversity-quotas-an-unfair-approach-11714583280140.html)
+
+The article discusses how many companies in India are prioritizing hiring women at junior levels to meet gender diversity targets, but this approach might lead to biased hiring and hinder long-term diversity goals. It highlights biases in recruitment processes, including reliance on demographics like gender and location. Despite the use of AI tools, human oversight is necessary to eliminate biases. The article also addresses subtle biases based on social status and accents, particularly in the IT sector. It suggests that companies should focus on retaining women and invest in training managers to overcome biases. Additionally, it calls for internal studies to understand why women drop out at mid or senior levels and recommends examining recruitment parameters for biases. The article concludes by emphasizing the need for strategic attention to diversity throughout the hierarchy.
+
+Thu, 02 May 2024 14:30:16 +0530
+### [Self-driving Teslas can’t sneak around the US-China ‘silicon curtain’](https://www.livemint.com/opinion/online-views/selfdriving-teslas-can-t-sneak-around-the-us-china-silicon-curtain-11714583074179.html)
+
+Tesla's stock surged by 15% after news broke of tentative approval for its driver-support technology in China, following a meeting with Premier Li Qiang. Despite Elon Musk's enigmatic statements, the visit signals commitment to Tesla, alleviating concerns. However, Tesla's driver-assistance system, labeled 'Full Self-Driving' (FSD), lags behind competitors like Mercedes-Benz and BMW, who are already offering more advanced autonomous driving features. Reports of a potential Tesla-Baidu collaboration highlight the necessity for Tesla to catch up on autonomous driving by partnering with rivals. Yet, the $82 billion share price increase seems unjustified given China's competitive EV market and geopolitical challenges. Concerns over data privacy and national security may hinder Tesla's ability to apply lessons learned in China globally. Moreover, the risk of accidents involving Tesla's autonomous tech raises questions about public perception and regulatory scrutiny, potentially jeopardizing Tesla's reputation.
+
+Thu, 02 May 2024 13:00:14 +0530
+### [Trying to predict what the Indian voter will choose: A weathervane job?](https://www.livemint.com/opinion/online-views/trying-to-predict-what-the-indian-voter-will-choose-a-weathervane-job-11714582716128.html)
+
+The Lokniti pre-poll voter survey highlighted that while headlines focused on party preferences, the more valuable insights revolved around voters' concerns, such as employment and inflation. The survey emphasized the importance of understanding the nuanced language of issues, like differentiating between "rozgaari" and "naukri" for employment. The article also advocates for reforms, particularly regarding the Reverse Charge Mechanism in GST, to facilitate small enterprises and job creation. It criticizes the survey's lack of accessibility and failure to adequately represent the views of new, younger voters. Additionally, it discusses the role of electronic voting machines (EVMs), the Anti-Defection Law, and the diminishing importance of individual candidates in elections compared to party affiliations. Overall, it raises questions about voters' choices amidst the dominance of party politics and the influence of electoral trends.
+
+Thu, 02 May 2024 11:30:12 +0530
+### [Many lives could be saved by making organ donation our default option](https://www.livemint.com/opinion/online-views/many-lives-could-be-saved-by-making-organ-donation-our-default-option-11714582319093.html)
+
+The organ donation gap in India is alarming, with a significant shortage of donors compared to demand. Despite strides, the country still faces low donation rates, resulting in numerous deaths of individuals awaiting transplants. There's a call for a national debate on establishing organ donation as an opt-in by default, with an opt-out provision, aiming to save lives and align with humanitarian principles. Recent increases in cadaver donors offer hope, facilitated by legal recognition of brain-stem death. Prime Minister Modi has emphasized the importance of cadaveric donation, supported by a digital registry. Integrating organ donation preferences into Aadhaar cards could streamline the process. Making organ donation the default option would not only be humanitarian but also economically beneficial, reducing healthcare costs, enhancing productivity, and fostering a healthier society.
+
+Thu, 02 May 2024 10:00:10 +0530
+### [Economic redistribution: Who’s afraid of progressive taxes?](https://www.livemint.com/opinion/online-views/economic-redistribution-who-s-afraid-of-progressive-taxes-11714582089798.html)
+
+The article discusses India's political debate over inheritance and wealth taxes, highlighting fears of "tax terrorism" and the opposition's stance. It emphasizes the growing income and wealth inequality in India, supported by data from various sources. Despite past abolishment of inheritance and wealth taxes due to inefficiency, the article argues for a progressive tax policy to fund essential public services and address inequality. It criticizes the current tax regime for its weak progressivity and calls for a more robust approach to generate resources for social welfare.
+
+Thu, 02 May 2024 08:30:07 +0530
+### [The KYC disruption: Investors deserve better than this](https://www.livemint.com/opinion/online-views/the-kyc-disruption-investors-deserve-better-than-this-11714581776573.html)
+
+The article discusses the implementation of new Know-Your-Customer (KYC) regulations in India, effective from 1 April. These regulations require investors to verify their email IDs, in addition to phone numbers and Aadhaar-PAN linkage, causing disruption for many. Approximately 12% of investor accounts under Sebi's oversight have been put on hold due to gaps in their KYC data. While KYC rules are necessary to prevent fraud, the article suggests a gentler approach could have been taken, such as imposing extra fees for non-compliant accounts rather than outright locking them. It also calls for more proactive efforts from KYC registration agencies, companies, and fund houses to assist investors in meeting compliance requirements and ensure they are not unfairly locked out of their assets.
+
+Thu, 02 May 2024 08:00:05 +0530
+### [AI frontier: Can India leap ahead?](https://www.livemint.com/opinion/quick-edit/ai-frontier-can-india-leap-ahead-11714581540776.html)
+
+Microsoft plans to invest $1.7 billion in Indonesia over the next four years to bolster its cloud infrastructure, particularly for AI support. Indonesia, with the third-largest pool of software developers in the region, is set to benefit from this investment. Microsoft aims to train 840,000 individuals in AI, positioning itself as a frontrunner in the Generative AI race. As AI emerges as a pivotal technology, Indian IT firms must adapt to the changing landscape by leveraging local talent and embracing various AI models.
+
+Wed, 01 May 2024 16:00:08 +0530
+### [Why do some innovative ideas never see the light of day? Status quo bias.](https://www.livemint.com/opinion/online-views/why-do-some-innovative-ideas-never-see-the-light-of-day-status-quo-bias-11714491033537.html)
+
+Article found but Couldn't summarize 
+Many of us hold onto outdated and ineffective ideas because of this behavioural trait. The human brain does not like to change. But innovation can be nurtured only by being open to ideas.
+
+Wed, 01 May 2024 14:30:06 +0530
+### [Indian banks are slipping on a banana peel of tech adoption](https://www.livemint.com/opinion/online-views/indian-banks-are-slipping-on-a-banana-peel-of-tech-adoption-11714490630924.html)
+
+India's banks, after overcoming a slew of bad loans, are facing new challenges, particularly in the realm of technology. Kotak Mahindra Bank, among others, has been directed by the Reserve Bank of India (RBI) to halt new customer acquisitions and credit card issuances due to serious deficiencies in digital operations. This move follows a significant scam at UCO Bank involving fraudulent fund transfers. While digitization has brought benefits, it also presents risks such as double-spending and fraud. Other banks, like HDFC Bank, have faced similar bans from RBI in the past. The problem extends beyond India, with examples like Singapore's DBS Group experiencing tech-related issues. With a surge in digital transactions, concerns about cybersecurity and fraud are mounting, prompting regulatory action. However, there's a need for a deeper understanding and updating of technology regulations by regulators like RBI to effectively combat emerging threats.
+
+Wed, 01 May 2024 13:00:04 +0530
+### [What will the rising mercury this summer do to Indian inflation?](https://www.livemint.com/opinion/online-views/what-will-the-rising-mercury-this-summer-do-to-indian-inflation-11714490530379.html)
+
+The World Meteorological Organization's (WMO) report confirmed 2023 as the warmest year on record, with El Niño's lingering effects exacerbating global warming. India's Meteorological Department predicts above-normal temperatures, prompting proactive measures to ensure power availability and mitigate shortages. Economic impacts are anticipated, particularly on perishable crops, leading to food-led inflation. Short-term solutions are discussed, but long-term strategies like strengthening cold-chain infrastructure are deemed essential. The RBI's Monetary Policy Committee remains cautious amidst inflationary concerns influenced by weather conditions, global economic factors, and currency fluctuations. Domestic bond yields are expected to remain stable despite volatility risks associated with index inclusion.
+
+Wed, 01 May 2024 11:30:02 +0530
+### [We are in a frantic race for post-industrial dominance](https://www.livemint.com/opinion/online-views/we-are-in-a-frantic-race-for-post-industrial-dominance-11714486056692.html)
+
+The article discusses the immense scale of investment by China and the United States in industrial policies, effectively engaging in a proxy war. China, with its opaque government, reportedly spends a significant portion of GDP on industrial projects, focusing on advanced technologies and youth-driven research. Meanwhile, the US has passed bills aimed at substantial industrial investment, albeit less than China proportionally. The article highlights China's lead in critical technologies but also raises concerns about its economic management, including high investment levels and suppressed household consumption. It points out challenges such as debt accumulation, a deflating housing bubble, and overcapacity in future-focused industries. Additionally, it contrasts China's strategic industrial policy with India's less effective approach, emphasizing the importance of well-designed policies and international trade agreements.
+
+Wed, 01 May 2024 11:11:42 +0530
+### [Elon Musk shows why India can’t take China-plus-one narrative for granted](https://www.livemint.com/opinion/online-views/elon-musk-tesla-china-plus-one-geopolitical-tensions-pli-scheme-data-use-11714535486423.html)
+
+Elon Musk's abrupt decision to skip a planned visit to India in favor of an unannounced trip to China signals a potential setback for New Delhi's ambitions. India had been banking on a "China plus one" strategy to attract manufacturing investment amid global tensions. However, data suggests that India has struggled to capitalize on this opportunity, with Vietnam emerging as a more favored destination for relocating supply chains. China, meanwhile, is doubling down on its efforts to dominate future industries through massive investments in advanced manufacturing. The article highlights India's challenges in becoming a preferred manufacturing hub and the potential consequences of missing out on the "China plus one" window of opportunity.
+
+Wed, 01 May 2024 10:00:19 +0530
+### [Public policy education could make a better country if done right](https://www.livemint.com/opinion/online-views/public-policy-education-could-make-a-better-country-if-done-right-11714485939413.html)
+
+The article discusses the inadequacies of current public-policy education in India and proposes reforms to make it more relevant and accessible. It suggests integrating public policy into undergraduate and postgraduate curricula across disciplines, offering executive-level programs for working professionals, and incorporating public-policy education into entrepreneurship programs. The article advocates for innovative delivery formats such as immersive travel programs and summer schools to provide hands-on experience and foster collaborative problem-solving. Ultimately, the goal is to create a more informed, engaged, and empowered citizenry, while also nurturing a pipeline of future leaders for the public sector to address India's pressing challenges effectively.
+
+Wed, 01 May 2024 08:30:17 +0530
+### [Loan recovery: Credit penetration must not turn into a nightmare](https://www.livemint.com/opinion/online-views/loan-recovery-credit-penetration-must-not-turn-into-a-nightmare-11714485862202.html)
+
+The article discusses the significance of credit in India's economy, highlighting its role in fostering economic growth and financial inclusion, especially for those at the bottom of the economic pyramid. It notes disparities in credit uptake across different regions and emphasizes the importance of extending banking services to under-served areas. The article also addresses regulatory efforts to ensure fair lending practices, including recent warnings against unfair interest charges and measures to curb abusive loan recovery tactics. It condemns instances of extreme tactics used for loan recovery, such as sexual shaming, and calls for stringent action to protect the dignity of borrowers and maintain the integrity of credit markets.
+
+Wed, 01 May 2024 08:00:17 +0530
+### [Deepfake distortion: Has Indian politics fallen prey to it?](https://www.livemint.com/opinion/quick-edit/deepfake-distortion-has-indian-politics-fallen-prey-to-it-11714485762768.html)
+
+The article discusses concerns about deepfakes spreading misinformation, particularly in the context of Indian politics. It mentions a Parliamentarian from Karnataka who claims to be the victim of a digitally-crafted fake video amid a sexual-assault controversy. Additionally, home minister Amit Shah has rejected a clip that appears to show him promising to end reservations for caste groups, leading to arrests of individuals allegedly linked to the opposition. The article emphasizes the importance of discerning truth from falsehood in a tech-driven world and highlights the need for people to become more skeptical of digital content.
+
+Tue, 30 Apr 2024 16:00:08 +0530
+### [Governance reform: Karthik Muralidharan’s treatise is refreshingly new](https://www.livemint.com/opinion/online-views/governance-reform-karthik-muralidharan-s-treatise-is-refreshingly-new-11714406161153.html)
+
+Article found but Couldn't summarize 
+His book stands out for its analysis of the country and the solutions it offers us, but underplays the role of technology.
+
 Mon, 15 Apr 2024 08:00:14 +0530
 ### [Raise funds off intellectual property: Opportunity knocks](https://www.livemint.com/opinion/online-views/raise-funds-off-intellectual-property-opportunity-knocks-11713109984797.html)
 

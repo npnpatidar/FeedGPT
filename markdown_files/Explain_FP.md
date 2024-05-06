@@ -1,3 +1,16 @@
+Mon, 6 May 2024 06:00:46 +0530
+### [Firstup: PM Modi's Odisha rally to Xi Jinping's France visit... The newsmakers of the day](https://www.firstpost.com/explainers/firstup-pm-modis-odisha-rally-to-xi-jinpings-france-visit-the-newsmakers-of-the-day-13767132.html)
+
+Here's a summary of the key events from the article:
+
+- **BJP Campaign in Odisha**: Prime Minister Narendra Modi and BJP president J.P. Nadda will campaign in Odisha for the upcoming elections, with Modi scheduled to address rallies in Berhampur and Nabarangpur.
+- **Court Decisions in Delhi**: The Rouse Avenue court in Delhi is expected to deliver a ruling on the bail plea of BRS leader K Kavitha in the Delhi excise policy case, and on the bail request of Jet Airways founder Naresh Goyal.
+- **Chad Presidential Elections**: Chad will hold presidential elections, a significant step as the country attempts a transition from military rule to democracy through elections.
+- **Boeing's Starliner Test Flight**: Boeing is set to launch its first-ever Starliner astronaut mission for NASA, sending astronauts to the International Space Station for a critical test of Boeing’s crew flight capabilities.
+- **Xi Jinping's Visit to France**: Chinese president Xi Jinping will be on a state visit to France, discussing global conflicts and celebrating 60 years of diplomatic relations between the two nations.
+
+These events are poised to make May 6 a day of substantial global and local significance.
+
 Sun, 5 May 2024 17:27:35 +0530
 ### [In Graphics l From oceans to the forests, how the world is drowning in plastic waste](https://www.firstpost.com/explainers/plastic-pollution-oceans-forest-global-production-13766009.html)
 
