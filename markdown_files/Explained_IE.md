@@ -1,3 +1,23 @@
+Tue, 07 May 2024 02:58:04 +0000
+### [Expert Explains: A brief history of religion-based reservations in India; the question of Muslims’ inclusion](https://indianexpress.com/article/explained/explained-law/expert-explains-the-muslim-quota-question-9312311/)
+
+The article discusses the complex issue of religion-based reservation in India, a secular country. It explores whether such reservations undermine the principle of secularism and if Muslims have been given reservations by reducing quotas for other groups. The Indian Constitution has evolved from promoting formal equality to substantive equality, allowing for affirmative action and special measures for backward classes. The Supreme Court has interpreted equality as a dynamic concept that may necessitate differential treatment for historically disadvantaged groups.
+
+**Key points include:**
+- The Constitution allows for reservation for backward classes not adequately represented in state services.
+- Article 15 prohibits discrimination on the grounds of religion, among others, but allows for special provisions for the advancement of backward classes.
+- Some Muslim castes have received reservation not because of their religion but because they were classified as backward classes.
+- Historical context shows that Muslim castes have been included in the OBC list and given reservations without affecting the quotas for SCs, STs, and OBCs.
+- Legal precedents affirm that reservations for Muslims do not conflict with secularism and that they can be considered for reservation if found socially backward.
+- Various commissions and government actions have sought to provide reservations for Muslims, often leading to legal challenges and court decisions that have shaped the current reservation policies.
+
+The article concludes with the ongoing debate and legal scrutiny over the reservation policies for Muslims in India, highlighting the tension between the need for social justice and the principles of secularism. Prof Faizan Mustafa, Vice-Chancellor of Chanakya National Law University, provides expert commentary on the subject. The article also briefly mentions unrelated content, including updates on the IPL 2024 points table and other news snippets, which are not directly related to the main topic.
+
+Tue, 07 May 2024 02:30:08 +0000
+### [What is the banned organisation Sikhs for Justice?](https://indianexpress.com/article/explained/what-is-sikhs-for-justice-alleged-to-have-links-with-aap-9312323/)
+
+The article discusses a recommendation by Delhi Lieutenant-Governor V K Saxena for an NIA probe against Delhi Chief Minister Arvind Kejriwal. The probe is suggested due to allegations of Kejriwal's party receiving $16 million from Sikhs for Justice (SFJ), a banned pro-Khalistan group in the US. SFJ, led by Gurpatwant Singh Pannun, aims for Sikh self-determination and the creation of Khalistan. Despite advocating non-violence, SFJ has been criticized for glorifying past acts of terrorism and its leaders have made veiled threats against non-Sikhs. India has labeled Pannun a terrorist and banned SFJ under its Unlawful Activities (Prevention) Act. Multiple cases are registered against Pannun and SFJ in India. The article also briefly mentions unrelated content about the current standings in the IPL 2024 points table.
+
 Mon, 06 May 2024 15:19:24 +0000
 ### [Why is the launch of Boeing’s Starliner significant?](https://indianexpress.com/article/explained/explained-sci-tech/boeings-starliner-9312029/)
 

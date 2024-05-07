@@ -1,3 +1,8 @@
+Tue, 7 May 2024 12:13:13 +0530
+### [How the nuclear threat is greater than ever since Cold War](https://www.firstpost.com/opinion/how-the-nuclear-threat-is-greater-than-ever-since-cold-war-13767987.html)
+
+The article discusses the escalating nuclear threat due to the deterioration of arms control agreements and the rise of new nuclear powers. It highlights the abandonment of critical treaties like the INF and New START by Russia and the US, leading to increased nuclear arsenals and reduced security in Europe and globally. The piece also points out the changing dynamics in East Asia, with China's nuclear expansion influencing India's defense strategy and North Korea's nuclear capabilities causing concern in South Korea. This has sparked debates within South Korea about developing its own nuclear weapons, which could trigger an arms race in the region, potentially involving Japan. The article emphasizes the instability of nuclear deterrence and the risks of proliferation, criticizing the failure of arms control and non-proliferation efforts, such as the NPT. It warns of the catastrophic consequences of thermonuclear war and suggests that the lack of global leadership and institutional capacity for arms control is leading the world towards a dangerous precipice. The views expressed are personal opinions of the author, a senior journalist specializing in defense.
+
 Mon, 6 May 2024 18:37:33 +0530
 ### [Trudeau’s anti-Indianism is guided by sheer political opportunism](https://www.firstpost.com/opinion/trudeaus-anti-indianism-is-guided-by-sheer-political-opportunism-13767767.html)
 

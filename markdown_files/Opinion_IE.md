@@ -1,3 +1,41 @@
+Tue, 07 May 2024 02:42:38 +0000
+### [Why fast bowler talents such as Mayank Yadav should not be rushed back to action after an injury](https://indianexpress.com/article/opinion/editorials/why-fast-bowler-talents-such-as-mayank-yadav-should-not-be-rushed-back-to-action-after-an-injury-9312238/)
+
+India's cricket scene has been abuzz with the rise of **Mayank Yadav**, a young fast bowler capable of consistently delivering speeds over **150kph**. His talent has been acknowledged by international cricket legends, but his career is currently at risk due to injury mismanagement. Despite a side strain that typically requires **3-4 weeks** of recovery, Mayank was rushed back into an IPL match by the Lucknow Super Giants, only to suffer another breakdown. This has sparked a debate on the conflicting priorities between IPL franchises' short-term goals and the national team's long-term planning, especially with an important Test tour of Australia on the horizon. The article emphasizes the need for better scientific advice and patience in handling emerging talents to prevent permanent damage to their careers. It suggests that it's the decision-makers, not Mayank, who need to acknowledge his injury and manage his recovery responsibly.
+
+Tue, 07 May 2024 02:31:54 +0000
+### [Why spectrum allocation, tech policy must not be a matter of courts](https://indianexpress.com/article/opinion/columns/why-spectrum-allocation-tech-policy-must-not-be-a-matter-of-courts-9312249/)
+
+The article discusses the evolution of spectrum allocation in India, particularly focusing on the shift from administrative assignment to auctions following the 2G scandal. The 2010 3G spectrum auction is highlighted as a turning point that brought transparency and significant revenue to the government. However, the author argues that auctions may not be the best method for spectrum allocation as they can hinder the telecom sector's growth and competitiveness. The piece suggests that providing spectrum at a reasonable fee could spur efficiency and competitiveness, akin to the benefits seen from toll roads in the U.S.
+
+The Department of Telecommunications (DoT) has sought to modify a Supreme Court order to allow administrative allocation of spectrum in specific cases where auctions are not feasible, as outlined in the Telecom Act, 2023. The author believes that policy decisions, such as spectrum allocation, should be left to expert bodies like TRAI and DoT, who are better equipped to handle the complexities of the telecom sector. The article concludes with a personal reflection on the role of TRAI in tariff fixing and the importance of specialist bodies in policy-making. The writer's views are presented as personal opinions.
+
+Tue, 07 May 2024 02:02:07 +0000
+### [Charanjit Channi’s comments on the Poonch terror attack: Petty politics](https://indianexpress.com/article/opinion/editorials/charanjit-channis-comments-on-the-poonch-terror-attack-petty-politics-9312222/)
+
+The article discusses the controversial statements made by Charanjit Singh Channi, former Punjab chief minister, during an election campaign. Channi suggested that a militant attack in Poonch was a political stunt by the BJP, which led to the death of an Indian Air Force corporal and injuries to others. His comments were criticized by the BJP and contrasted with Rahul Gandhi's response, calling the attack "sad and shameful." Despite demands for an apology, Channi reiterated his stance and criticized the government's handling of the 2019 Pulwama attacks.
+
+The article argues that while national security is a valid topic for debate, it should not be politicized in the context of terrorist attacks. It criticizes the tendency of political leaders to use military operations for electoral gain, stating that this undermines the sacrifices of the armed forces and does not contribute to a reasoned discourse on national security. The author suggests that Channi should apologize for his remarks.
+
+Additionally, the article provides an update on the Lok Sabha elections, noting that 93 seats across 12 states and UTs will be contested in the third phase, with five states completing their polling process. The BJP candidate in Surat has already won unopposed due to the rejection or withdrawal of other nominations.
+
+Tue, 07 May 2024 02:01:04 +0000
+### [MSMEs are not paid on time. They need to be](https://indianexpress.com/article/opinion/columns/msmes-are-not-paid-on-time-they-need-to-be-9312221/)
+
+Micro, small, and medium enterprises (MSMEs) are crucial to India's economy, contributing significantly to manufacturing and exports, and employing a large labor force. However, they face challenges such as limited credit access and delayed payments, with the latter being predominantly owed to micro and small enterprises. To address this, the government launched the Samadhaan portal and introduced a budget provision for timely MSME payments within 45 days. Despite good intentions, this led to unintended consequences, with larger companies canceling orders with registered MSMEs to maintain longer payment cycles and flexibility. This has pressured MSMEs to deregister to retain business. The government is now engaging stakeholders to find solutions and ensure prompt payment clearance for MSMEs, who also struggle with accessing affordable credit. The article also briefly mentions the third phase of the Lok Sabha elections, unrelated to the MSME discussion.
+
+Tue, 07 May 2024 02:00:41 +0000
+### [May 7, 1984, Forty Years Ago: Adivasis Harassed](https://indianexpress.com/article/opinion/40-years-ago/may-7-1984-forty-years-ago-adivasis-harassed-9312239/)
+
+The article covers several key issues in India:
+
+- **Adivasi Leaders Arrested**: A commission has reported that Adivasi leaders in Madhya Pradesh were arrested for petitioning against bonded labor. They were allegedly terrorized by the administration due to pressure from vested interests.
+- **Indian Ocean Rivalry**: Prime Minister Indira Gandhi highlighted the superpower rivalry in the Indian Ocean and the challenges India faces in achieving technological sophistication despite its peace policy.
+- **Indo-Pak Border Tensions**: Defence Minister R Venkataraman stated India is ready to counter threats from Pakistan, noting the accumulation of Pakistani military equipment and troops near the Ladakh border.
+- **Constitutional Protection**: Opposition parties, led by the CPI-M, oppose any amendments to the Constitution that would shield legislative and parliamentary privileges from judicial review, particularly concerning Article 32.
+
+Additionally, the article mentions the ongoing Lok Sabha elections, with 93 seats across 12 states and UTs voting in the third phase, and the BJP candidate in Surat winning unopposed.
+
 Mon, 06 May 2024 13:49:33 +0000
 ### [In Gujarat, an unpredictable campaign before a predictable outcome](https://indianexpress.com/article/opinion/columns/gujarat-lok-sabha-polls-unpredictable-campaign-predictable-outcome-9311846/)
 
