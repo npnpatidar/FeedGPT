@@ -1,3 +1,53 @@
+Tue, 07 May 2024 14:17:17 +0000
+### [Why electric vehicles are at the heart of trade frictions between China and Europe](https://indianexpress.com/article/explained/explained-global/electric-vehicles-china-europe-9314295/)
+
+President Xi Jinping is visiting Europe for the first time in over five years, amidst tensions over trade and espionage allegations. His trip includes stops in France, Serbia, and Hungary, aiming to strengthen ties and possibly secure deals, such as with Airbus. The visit comes as the EU investigates Chinese electric vehicle (EV) subsidies, which could lead to increased tariffs. China's EV exports to the EU have surged, causing concerns over market imbalance. The European Commission has accused some Chinese EV manufacturers of withholding information for the anti-subsidy probe. Concurrently, China is conducting an anti-dumping investigation into European brandy imports. The presence of Chinese-made EVs in the EU market is expected to exceed 25% in 2024, with brands like BYD and SAIC expanding globally. This growth contrasts with the declining presence of European companies in China. The article also briefly mentions the Met Gala event, highlighting Indian fashion entrepreneur Mona Patel's attendance.
+
+Tue, 07 May 2024 14:02:51 +0000
+### [Maharashtra to translocate tigers to Sahyadri reserve: Role of wildlife corridors in tiger conservation](https://indianexpress.com/article/explained/tiger-translocation-sahyadri-wildlife-corridor-9314268/)
+
+The article discusses the plan to revive the tiger population in Maharashtra's Sahyadri Tiger Reserve (STR) by translocating tigers from Tadoba-Andhari Tiger Reserve (TATR). The success of this project hinges on the security and human disturbance-free status of the Sahyadri-Konkan wildlife corridor, which connects forests in STR, Goa, and Karnataka. The STR has historically suffered from a low tiger population due to poaching, poor prey base, and habitat changes. Translocation is seen as a short-term solution to increase the population, with previous projects in India showing mixed results.
+
+Experts emphasize the importance of wildlife corridors for the long-term success of such projects, as they facilitate tiger dispersal and genetic diversity. The Sahyadri-Konkan corridor, in particular, is vital for connecting tiger populations across the northern Western Ghats. However, human settlements and development activities threaten this corridor, increasing the risk of man-animal conflict. Strengthening the corridor is essential for the success of the translocation plan and the dispersal of a breeding tiger population to other forests.
+
+The article also highlights the role of wildlife corridors in conservation, including mitigation measures like underpasses and wildlife crossings to protect tigers from habitat fragmentation caused by infrastructure projects. The National Tiger Conservation Authority and Wildlife Institute of India have mapped major tiger corridors in India, emphasizing their significance in conservation policy.
+
+Lastly, the article mentions the resistance of Goa's forest department to declare a tiger reserve despite the presence of tigers in the state's protected areas. The importance of these corridors extends beyond wildlife conservation to include water security for local communities and the cultural significance of tigers in the region. Coordination between Maharashtra, Goa, and Karnataka is crucial for managing these issues. The journalist, Nikhil Ghanekar, is noted for his extensive experience in covering environmental policy matters.
+
+Tue, 07 May 2024 13:38:43 +0000
+### [How a CRISPR gene editing trial was able to treat some cases of inherited blindness](https://indianexpress.com/article/explained/explained-sci-tech/crispr-gene-editing-blindness-research-9314245/)
+
+In a groundbreaking clinical trial named "BRILLIANCE," researchers used the CRISPR-Cas9 gene editing tool to significantly improve vision in individuals with Leber congenital amaurosis (LCA), a rare form of inherited blindness. The study, led by Eric Pierce of Harvard Medical School and published in The New England Journal of Medicine on May 6, 2024, involved 12 adults and two children. Participants received a single dose of EDIT-101, a CRISPR therapy that corrects the gene mutation responsible for LCA by replacing the defective DNA strand with a healthy one.
+
+The results were promising, with 11 out of 14 participants experiencing improved vision and no serious adverse effects. The trial's success marks a new era in genome editing, with potential applications for treating a variety of diseases. Currently, only one CRISPR treatment, Casgevy for sickle-cell disease, is clinically approved, but ongoing trials are exploring its use for conditions like HIV/AIDS, diabetes, cancer, cardiovascular diseases, and antibiotic resistance. The study signifies a shift towards not just treating but potentially curing genetic disorders.
+
+Tue, 07 May 2024 12:45:03 +0000
+### [ECI’s letter on deepfakes: What poll panel has said, and what remains unclear](https://indianexpress.com/article/explained/eci-deepfakes-9314115/)
+
+The Election Commission of India (ECI) has issued a directive to political parties regarding the use of deepfakes during elections. The ECI has mandated that parties must not disseminate deepfake content on social media and must remove such content within three hours upon discovery. The directive also includes a warning for the individual responsible for sharing the deepfake. While the ECI has not prohibited the use of AI for campaign material, it has emphasized that content must not be misleading or impersonate another person. The ECI's concerns include the potential for manipulated content to influence voter opinions, the protection of women from derogatory content, and the need for parties to report fake accounts and unlawful information. In cases where social media platforms do not act on reports, parties are instructed to approach the Grievance Appellate Committee.
+
+However, there are uncertainties regarding the enforcement of these directives, especially with content shared on encrypted messaging platforms like WhatsApp, which is widely used in India. The ECI's letter does not address the use of AI-based real-time calls to voters, which occur outside social media platforms. The impact of the ECI's actions on curbing the spread of deepfakes remains to be seen, and the language used in the directives has been criticized for being vague and lacking enforcement power. The article also mentions the ongoing Lok Sabha elections, with Phase 3 commencing and the results to be announced on June 4.
+
+Tue, 07 May 2024 12:28:39 +0000
+### [Israeli Defence Forces launch operation in eastern Rafah: Why it matters, the concerns now](https://indianexpress.com/article/explained/explained-global/israel-rafah-invasion-concerns-hamas-9313945/)
+
+The article discusses the Israeli Defense Forces' (IDF) operation in Rafah, targeting Hamas infrastructure and militants. The IDF has established control over the Rafah border crossing, citing recent attacks from the area, including one that killed four IDF soldiers. The operation follows Israel's rejection of a peace deal with Hamas and aims to eliminate the group, which Israel equates to "new Nazis."
+
+The article highlights the humanitarian concerns in Gaza, where over 34,000 people, mostly women and children, have been killed in the ongoing military campaign. The United Nations reports a significant increase in Rafah's population due to evacuations from other parts of Gaza, and there are fears of a famine in northern Gaza.
+
+The piece also touches on the historical context of Israeli settlements in Gaza and the West Bank, noting recent legislative changes that could lead to new settlements post-war. Criticism of Israel's actions comes from both international allies, like the United States, and regional players, with warnings of disastrous consequences for an Israeli ground offensive in Rafah.
+
+Lastly, the article mentions the ongoing Lok Sabha elections in India, unrelated to the main topic, and provides a brief update on the voting process.
+
+Tue, 07 May 2024 10:54:00 +0000
+### [Met Gala 2024: What is the event and why is it such a big deal?](https://indianexpress.com/article/explained/explained-culture/met-gala-2024-9313732/)
+
+The Met Gala, also known as "fashion's biggest night," is an annual fundraising event for the Metropolitan Museum of Art’s Costume Institute. Held on the first Monday in May, it's the only wing of the museum that self-funds, doing so through this exclusive party. The event is invitation-only, with celebrities dressing according to a yearly theme that also aligns with the Costume Institute's exhibition. This year's theme was 'Sleeping Beauties: Reawakening Fashion,' focusing on historical fashion pieces too delicate for regular display.
+
+The Costume Institute boasts a collection of over 33,000 fashion items, dating back seven centuries. The Met Gala itself began in 1948 and has evolved into a high-profile, globally recognized event, largely attributed to Vogue editor-in-chief Anna Wintour, who has been organizing it since 1999. Tickets are highly priced, with this year's tickets at $75,000 and tables starting at $350,000, often purchased by major brands.
+
+The event is shrouded in mystery, with guests not allowed to carry phones, but it's known they view the Costume Institute's exhibits before dinner and enjoy performances by high-profile entertainers. This year's hosts included Bad Bunny, Jennifer Lopez, Zendaya, and Chris Hemsworth, with Indian actress Alia Bhatt among the attendees. The gala is sponsored by various brands, including TikTok, Loewe, and Condé Nast.
+
 Tue, 07 May 2024 02:58:04 +0000
 ### [Expert Explains: A brief history of religion-based reservations in India; the question of Muslims’ inclusion](https://indianexpress.com/article/explained/explained-law/expert-explains-the-muslim-quota-question-9312311/)
 

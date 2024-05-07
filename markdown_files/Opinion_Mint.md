@@ -1,3 +1,37 @@
+Tue, 07 May 2024 18:24:42 +0530
+### [Hindujas get a 360-degree makeover but need to smoothen rough edges](https://www.livemint.com/opinion/online-views/hindujas-bofors-scandal-ashok-leyland-gocl-corp-nxt-digital-hinduja-global-indusind-bank-11715073078718.html)
+
+The article discusses the transformation of the Hinduja Group over the past three decades, particularly since the Bofors scandal. The family business, originally founded in 1919 and once known for its secrecy and political connections, has reinvented itself into a transparent, diversified conglomerate operating in around 40 countries across various sectors, with a significant presence in India.
+
+The group, which was led by S.P. Hinduja during the 1990s, now has at least six publicly traded companies in India, including Ashok Leyland and IndusInd Bank, all run by professionals with independent boards. The current third generation of the Hinduja family is well-educated and actively involved in the business.
+
+Despite the progress, the family has faced internal disputes, notably a feud over the control of Hinduja Bank, which highlighted issues of cohesiveness and gender equality within the family. With the family business now in its third generation and the fourth generation set to take over, the article suggests that the Hindujas must be cautious, as most family businesses do not survive beyond the third generation.
+
+The Hinduja brothers, once the richest Indians in the world, have shifted focus from reputation to creating a more stable and sustainable business model, aiming to triple the valuation of IndusInd International Holdings to about $50 billion by 2030 and planning new product launches through Ashok Leyland. The article implies that this strategic shift is crucial for the longevity and success of the family business.
+
+Tue, 07 May 2024 17:00:19 +0530
+### [Yes, releasing the EVM source code could improve our polling system’s security](https://www.livemint.com/opinion/online-views/yes-releasing-the-evm-source-code-could-improve-our-polling-system-s-security-11715020084947.html)
+
+The article discusses the debate surrounding the release of electronic voting machine (EVM) source code for open-source use. The Supreme Court has upheld the use of EVMs but rejected the idea of making their source code public, citing potential misuse. The author argues against the belief that access to source code inherently compromises digital systems, using the open-source messaging app Signal as an example of secure software despite its publicly available source code.
+
+The article suggests that open-source software tends to be more secure because it allows a broader community to identify and fix vulnerabilities quickly. It highlights the importance of administrative access over mere knowledge of source code in terms of security risks. The author advocates for the open-source model, noting that many everyday systems rely on it, such as Apache Web Servers and the Linux operating system.
+
+The piece also references the Heartbleed bug to illustrate the open-source community's ability to respond swiftly to security threats. It concludes by urging the adoption of open-source practices in government systems to enhance security and public trust, mentioning India's National Open Standards Policy as a step in this direction, but notes the lack of significant progress since its introduction. The author expresses surprise at the Supreme Court's stance given the government's previous support for open source. The article ends with unrelated content and advertisements which have been omitted from this summary.
+
+Tue, 07 May 2024 15:30:12 +0530
+### [The neutrality of ‘Civil War’ is what makes this film powerful](https://www.livemint.com/opinion/online-views/the-neutrality-of-civil-war-is-what-makes-this-film-powerful-11715020009507.html)
+
+Alex Garland's film "Civil War" has sparked debate for its depiction of a future America in conflict without explaining the cause. Critics argue it fails to realistically portray the divisions in America, but this misses the film's potential to impact US politics. The film prompts viewers to question how such a conflict could arise, with possibilities like war, pandemics, AI, or climate disasters. Surprisingly, the film and some commentators overlook the role of Christian nationalism, a topic explored in the documentary "Bad Faith" and Katherine Stewart's book "The Power Worshippers."
+
+The film's critics are correct that discussing an American civil war without addressing Christian nationalism's goals and tendencies is challenging. However, the film's political neutrality may be its strength, allowing it to engage a wider audience in the conversation about political violence. Garland's approach invites Republicans and independents into a crucial dialogue, a feat Democrats have struggled to achieve.
+
+The article suggests that for "Civil War" to foster bipartisan discussions, Democrats must also engage in good faith and consider threats to democracy from all sides. The film leaves important questions about democracy and peace open, which the author plans to address in a future column. The film's ability to raise these questions without bias is seen as a positive contribution to the political discourse.©bloomberg
+
+Tue, 07 May 2024 14:00:09 +0530
+### [The Godrej family saga: Business succession should be led by a common vision](https://www.livemint.com/opinion/online-views/the-godrej-family-saga-business-succession-should-be-led-by-a-common-vision-11715019912236.html)
+
+The article discusses the recent division within the Godrej family business group, a significant player in India's industrial landscape for over a century. It highlights how family disputes over succession and strategic vision have led to the split of their business portfolio. The piece emphasizes the complexities of managing multigenerational family enterprises, stressing the importance of proactive preparation for potential splits and effective succession planning. Drawing from the example of the Merck family, who successfully navigated such challenges, it underscores the need for transparent communication and consensus-building to preserve the family's legacy and business success.
+
 Tue, 07 May 2024 12:30:07 +0530
 ### [Could a few swing states determine who governs India?](https://www.livemint.com/opinion/online-views/could-a-few-swing-states-determine-who-governs-india-11715019836004.html)
 

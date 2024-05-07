@@ -1,3 +1,39 @@
+Tue, 07 May 2024 13:52:19 +0000
+### [As America deals with woke mobs on campuses, its hypocrisy on CAA-Shaheen Bagh protests stands exposed](https://indianexpress.com/article/opinion/columns/america-deals-woke-mobs-campuses-hypocrisy-caa-shaheen-bagh-protests-stands-exposed-9314269/)
+
+The article discusses the resilience of US universities, drawing parallels with their recovery post-Vietnam War and expressing confidence in their ability to bounce back from current challenges. It highlights concerns over potential protests if Donald Trump returns to the presidency, and the issues arising when a minority tries to override the majority's mandate through protests, which the author refers to as actions of "wokes." The piece criticizes these groups for disrupting democratic processes and accuses them of double standards, especially in light of the US's response to India's handling of similar protests. It also mentions allegations of external funding for student protests in the US and draws comparisons with protests in India. The article concludes with a brief mention of the Met Gala and Indian fashion entrepreneur Mona Patel's notable appearance. The summary omits unrelated content such as advertisements.
+
+Tue, 07 May 2024 11:01:36 +0000
+### [With Prachi Nigam’s trolling, a question: What if I don’t want to look beautiful?](https://indianexpress.com/article/opinion/columns/prachi-nigam-trolling-question-9313768/)
+
+Article found but Couldn't summarize
+
+Tue, 07 May 2024 10:52:30 +0000
+### [C Raja Mohan writes: Xi Jinping’s visit, a divided Europe and India’s challenge](https://indianexpress.com/article/opinion/columns/xi-jinping-europe-visit-india-challenge-9313680/)
+
+Xi Jinping's recent tour of Europe is a strategic move by China to capitalize on the divisions within Europe and between Europe and the United States. The visit comes at a time when Europe faces a trilemma in its relations with the US, Russia, and China, exacerbated by the possibility of Trump's return to power, Russia's assertiveness in Ukraine, and economic pressures from China.
+
+French President Emmanuel Macron has called for European unity to confront these challenges, emphasizing the need for strategic autonomy and a balanced approach between the US and China. Xi's visit aims to persuade Europe against escalating trade tensions and to consider Chinese investments, particularly in the electric vehicle sector.
+
+China's support for Russia's actions in Ukraine has raised concerns in Europe, with Macron advocating for European responsibility in security matters, including the potential deployment of troops to Ukraine. However, this proposal faces resistance within Europe.
+
+Xi's engagements in pro-Russian Serbia and Hungary highlight the divisions within Europe and the extent of support for the Sino-Russian alliance. His visit coincides with the 25th anniversary of the NATO bombing of the Chinese embassy in Belgrade, which China uses to challenge Western narratives.
+
+Former US President Donald Trump's criticisms of Europe and NATO contribute to the complex dynamics, as Europe seeks to define its role amid great power competition. The outcome of Europe's geopolitical decisions will significantly impact India's relations with the US, Russia, and China.
+
+India, recognizing the importance of engaging with Europe, has increased its outreach to various European entities. This engagement is crucial for India to navigate the shifting relations between major global powers and to explore strategic opportunities within Europe.
+
+The article also mentions an upcoming Apple event focused on new iPad products and software developments, unrelated to the geopolitical discussion.
+
+Tue, 07 May 2024 09:42:13 +0000
+### [From bomb threats against schools to deepfakes in election — combatting cyber crime in India](https://indianexpress.com/article/opinion/columns/bomb-threats-schools-deepfakes-in-election-cyber-crime-india-9313365/)
+
+The article discusses the urgent need for a comprehensive cyber security strategy in light of recent cyber attacks on schools in the national capital. It emphasizes the importance of establishing a cyber ministry to ensure accountability and governance in protecting national cyberspace. The article suggests that the current system lacks accountability, as demonstrated by a similar incident in the UK, which led to the creation of the National Cyber Security Centre. It also references Australia's appointment of a minister for cyber security and outlines the benefits of such a role.
+
+The author calls for a revision of the 2013 cyber security policy and the introduction of a Cyber Security Act to address modern cyber crimes. The increase in cyber crime, particularly through smartphones, and the need for a holistic approach involving various sectors are highlighted. The article also mentions the challenges posed by deepfakes and disinformation, especially during elections, and the need for a national cyber reference framework and international cooperation in cyber defence.
+
+The piece concludes by stressing the necessity of deterrence in cyber defence and notes the shift from cyber security to cyber power in global strategies, underscoring the urgency for action. The writer is identified as the chairman of the Cyber Security Association of India, and the article ends with an update on the ongoing Lok Sabha election's Phase 3 polling. Election results are expected to be announced shortly after the phase concludes.
+
 Tue, 07 May 2024 02:42:38 +0000
 ### [Why fast bowler talents such as Mayank Yadav should not be rushed back to action after an injury](https://indianexpress.com/article/opinion/editorials/why-fast-bowler-talents-such-as-mayank-yadav-should-not-be-rushed-back-to-action-after-an-injury-9312238/)
 
