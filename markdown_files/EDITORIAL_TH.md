@@ -1,3 +1,14 @@
+Wed, 08 May 2024 00:20:00 +0530
+### [Searching for a wave: On the general election so far](https://www.thehindu.com/opinion/editorial/searching-for-a-wave-on-the-general-election-so-far/article68150202.ece)
+
+The article discusses the third round of polling for the 18th Lok Sabha, where over 1,300 candidates contested in 93 constituencies across 12 states and UTs. This phase marks the completion of voting in more than half of the total seats. A BJP candidate in Surat was elected unopposed after opposition candidates withdrew. The article highlights the BJP's strong position in Gujarat and a notable contest in Maharashtra's Baramati. It also covers the political debate over reservation policies, with the BJP and Congress offering conflicting views. Allegations of sexual crimes against Prajwal Revanna, a JD(S) MP, have created challenges for the BJP in Karnataka. The article suggests that both major parties are struggling to generate a decisive public wave in their favor for the ongoing elections.
+
+Wed, 08 May 2024 00:10:00 +0530
+### [Plastic solution: beyond the Global Plastics Treaty](https://www.thehindu.com/opinion/editorial/plastic-solution-beyond-the-global-plastics-treaty/article68149652.ece)
+
+Article found but Couldn't summarize 
+Plastic pollution cannot be ended by treaties, without investment in alternatives
+
 Tue, 07 May 2024 00:30:00 +0530
 ### [Time to talk: On Tamil Nadu, Kerala and the Mullaperiyar dam row](https://www.thehindu.com/opinion/editorial/time-to-talk-the-hindu-editorial-on-tamil-nadu-kerala-and-the-mullaperiyar-dam-row/article68145900.ece)
 

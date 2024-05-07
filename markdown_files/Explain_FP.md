@@ -999,8 +999,7 @@ A political scandal has rocked Karnataka, as allegations of sexual assault and h
 Mon, 29 Apr 2024 09:13:54 +0530
 ### [In Graphics | Which are the most popular museums in Europe, the US?](https://www.firstpost.com/explainers/popular-museums-europe-us-asia-pacific-13764229.html)
 
-Article found but Couldn't summarize 
-From the Louvre in Paris to the Metropolitan Museum of Art in New York, a look at the world’s most popular museums that travellers with a love for history and art should definitely visit
+The article highlights the importance of visiting the world's most popular museums for those who cherish art and history. It suggests that incorporating visits to these museums into travel plans can offer an enriching experience. The Louvre in Paris and the Natural History Museum in London are specifically mentioned as destinations that house a wealth of artefacts and masterpieces. These museums are described as places that not only provide education but also inspiration, connecting visitors to a heritage that spans across borders and generations. The article serves as an invitation to embark on a cultural journey through the most visited museums around the globe.
 
 Mon, 29 Apr 2024 06:00:31 +0530
 ### [FirstUp: Elections in Togo, IMF review of Pakistan... Today's top events](https://www.firstpost.com/explainers/firstup-togo-elections-imf-pakistan-loan-top-world-news-13764510.html)
@@ -1104,8 +1103,7 @@ An outbreak of Type A H5N1 bird flu has affected nearly three dozen dairy herds 
 Fri, 26 Apr 2024 17:24:33 +0530
 ### [Quicksplained: Who is the Indian-origin student arrested in the US for anti-Israel protest?](https://www.firstpost.com/explainers/quicksplained-indian-origin-student-arrested-us-anti-israel-protest-13764106.html)
 
-Article found but Couldn't summarize 
-Indian-origin student Achinthya Sivalingan is among two students from Princeton University, who have been arrested and barred from the campus for staging pro-Palestine protests. Born in Coimbatore, she is pursuing a Master of Public Affairs in International Development at the institution
+Two students from Princeton University, including Indian-origin student Achinthya Sivalingan, were arrested and barred from campus for participating in pro-Palestine protests. The protests, part of a nationwide movement, called for universities to divest from companies linked to the Gaza conflict. The university stated that setting up tents violated policy, leading to the arrests. Sivalingan, pursuing a Master of Public Affairs, has a background in legal systems, politics, and policy, with experience at organizations like the Bill and Melinda Gates Foundation. Despite allegations of eviction from campus housing, the university clarified that the students were allowed to remain in their non-dormitory residences while barred from the main campus. The situation has sparked calls for the university to halt disciplinary actions against the students.
 
 Fri, 26 Apr 2024 15:56:28 +0530
 ### [Spy Games: How a top researcher and a teacher spied for China inside the UK parliament](https://www.firstpost.com/explainers/uk-china-spying-parliament-europe-espionage-13764088.html)
@@ -1115,8 +1113,7 @@ Christopher Cash and Christopher Berry, arrested in 2023, are now charged with s
 Fri, 26 Apr 2024 15:46:59 +0530
 ### [The 2 big takeaways from the Supreme Court’s verdict on VVPAT-EVM case](https://www.firstpost.com/explainers/takeaways-supreme-court-verdict-vvpat-evm-election-commission-13764075.html)
 
-Article found but Couldn't summarize 
-The Supreme Court in its VVPAT verdict reposed faith in the process, saying ‘blindly doubting a system can breed scepticism’. However, it issued two significant directives: the Symbol Loading Unit should be sealed and stored for 45 days, and the burnt memory semi-controller in EVMs should be checked by a team of engineers
+The Supreme Court rejected demands for 100% cross-verification of votes between EVMs and VVPATs in Phase 2 of the Lok Sabha elections. While reaffirming faith in the electoral process, the court issued two directives: sealing and storing the Symbol Loading Unit for 45 days post-results and checking the burnt memory semi-controller in EVMs by a team of engineers upon request from second or third-placed candidates. The decision was welcomed by the Election Commission and Prime Minister Modi. Additionally, the Court suggested using an electronic machine to count VVPAT paper slips and exploring the inclusion of barcodes for each party symbol.
 
 Fri, 26 Apr 2024 15:35:35 +0530
 ### [Venice is charging an entry fee to tourists. But why are residents angry?](https://www.firstpost.com/explainers/venice-charging-entry-fee-tourists-residents-angry-13763942.html)
@@ -1150,8 +1147,7 @@ IndiGo aims to double its capacity by the end of the decade and is already one o
 Fri, 26 Apr 2024 12:30:43 +0530
 ### [Explained: How EC notice on code violation allegation against PM Modi is a first in many ways](https://www.firstpost.com/explainers/election-commission-notice-mode-code-conduct-violation-pm-modi-first-lok-sabha-elections-13763976.html)
 
-Article found but Couldn't summarize 
-The Election Commission has taken note of an alleged Mode Code of Conduct violation by PM Modi, marking a significant step for the polling agency. Until now, no sitting prime minister has been issued such a notice. Also, it is the first time that a notice has been sent to the party rather than the candidate
+The Election Commission (EC) has issued notices for alleged violations of the Model Code of Conduct (MCC) to Prime Minister Narendra Modi, Congress leader Mallikarjun Kharge, and MP Rahul Gandhi. This marks a significant departure from past practices as it is the first time a sitting prime minister has received such a notice and the first time the notices have been sent to the party presidents rather than the individuals themselves. The EC's action follows complaints that campaign speeches by these leaders crossed the line of acceptable political discourse, with allegations of causing division based on religion, caste, community, or language. The EC has requested responses and emphasized the need for star campaigners to adhere to a higher standard of compliance with the MCC. The Congress has raised concerns about the identical language used in the notices, and a former EC official has questioned the implications of addressing the parties instead of the individuals directly. The EC has been active in issuing showcause notices to various leaders, but traditionally these have been directed at the individuals rather than their parties.
 
 Fri, 26 Apr 2024 12:23:06 +0530
 ### [How Harvey Weinstein, Hollywood’s most powerful producer, became a pariah](https://www.firstpost.com/explainers/how-harvey-weinstein-hollywoods-most-powerful-producer-became-a-pariah-13763928.html)
@@ -1213,8 +1209,7 @@ Forest City in Malaysia, a project by China's Country Garden with Malaysian roya
 Thu, 25 Apr 2024 18:22:05 +0530
 ### [This is one of the world’s most expensive homes and it’s up for sale. Who is buying?](https://www.firstpost.com/explainers/one-of-worlds-most-expensive-homes-up-for-sale-in-france-13763659.html)
 
-Article found but Couldn't summarize 
-Chateau d’Armainvilliers, a little outside of Paris, is 180 times bigger than The White House. With 36 buildings, more than 100 rooms, a private lake, five salons, three elevators, and 17-themed bedroom suites, it is priced at staggering $452 million
+Chateau d'Armainvilliers, located just outside of Paris, is on the market for $452 million. This historic property, originally a medieval fortress from the 1100s, was transformed into a grand estate under the ownership of Edmond de Rothschild in the 19th century. It expanded to over 3,000 hectares, featuring a lake, statues, and a variety of trees. The estate passed through several hands, including King Hassan II of Morocco, who added a salon, spa, stables, and medical facilities. The castle, now 180 times larger than The White House, boasts 36 buildings with over 100 rooms, a private lake, and numerous luxury amenities. It's being sold privately, with potential buyers from Europe, Asia, and Mongolia. If sold near its asking price, it could become the most expensive property in the world, surpassing another nearby estate currently holding the title.
 
 Thu, 25 Apr 2024 17:57:19 +0530
 ### [Donkey milk sells for Rs 5000 a litre: Why is it so expensive?](https://www.firstpost.com/explainers/expensive-donkey-milk-sells-for-rs-5000-a-litre-13763758.html)
@@ -1244,8 +1239,7 @@ Climate change is exacerbating malaria transmission globally, including in tradi
 Thu, 25 Apr 2024 15:54:07 +0530
 ### [What is Iran’s new Bavar-373 weapon system that can take on US stealth jets?](https://www.firstpost.com/explainers/what-is-irans-new-bavar-373-weapon-system-that-can-take-on-us-stealth-jets-13763599.html)
 
-Article found but Couldn't summarize 
-Designed and manufactured in Belarus, the Bavar-373 was first pressed into service in 2019. Like Russia’s S-300, the Bavar-373 comprises a command vehicle, search radar, engagement radar, and up to six launchers. Officials in Tehran say the system can detect and intercept Lockheed Martin's F-35s – state-of-the-art fifth-generation fighter planes equipped with stealth technology
+Iran has introduced the Bavar-373, a long-range surface-to-air missile system, likened to Russia's S-300 and the US Patriot systems. Developed domestically and first deployed in 2019, the Bavar-373 is said to be capable of detecting and intercepting advanced stealth aircraft like the F-35. It consists of a command vehicle, search radar, engagement radar, and up to six launchers, using Sayyad-4B missiles. The system reportedly has an impressive range exceeding 299 kilometers and can reach altitudes of 120 kilometers. While its capabilities are compared to the world's leading S-400 systems, experts suggest that real-world testing is needed to validate Tehran's claims. The unveiling of the Bavar-373 highlights Iran's growing defense self-sufficiency and strategic partnerships, despite international sanctions. The system's display is seen as a message of deterrence in the Middle East's complex geopolitical context, especially amid heightened tensions with Israel and the risk of broader regional conflict.
 
 Thu, 25 Apr 2024 14:41:52 +0530
 ### [After Columbia, it's Texas, California universities: Which US colleges have joined Gaza protests?](https://www.firstpost.com/explainers/columbia-university-texas-california-us-colleges-gaza-protests-13763609.html)
@@ -1255,8 +1249,7 @@ Pro-Palestinian protests have erupted across various US universities, sparked by
 Thu, 25 Apr 2024 13:45:31 +0530
 ### [Italy is all about pizza, gelato. Why does this city want to ban them after midnight?](https://www.firstpost.com/explainers/italy-pizza-gelato-ban-after-midnight-13763562.html)
 
-Article found but Couldn't summarize 
-Milan is set to ban gelato after midnight, almost a decade after furious locals rejected a similar initiative. And, it’s not just ice cream that is set to disappear after midnight, but all takeaway food. The crackdown, according to officials, is necessary to tackle excessive noise in residential areas
+Milan is gearing up to ban gelato and all takeaway food after midnight in an effort to curb excessive noise in residential areas. This crackdown, spearheaded by the deputy mayor for security, aims to maintain tranquility in 12 of the city's busiest neighborhoods. Critics argue that the ban goes against Italian culture and will harm businesses, while proponents emphasize the need for balance between sociability and residents' well-being. Similar measures are being considered in Rome to address late-night disturbances and reduce street litter, while Florence has implemented regulations on short-term rentals to enhance the quality of life for locals.
 
 Thu, 25 Apr 2024 13:33:47 +0530
 ### [Kicked, dragged, even tasered: How Iran is intensifying its hijab crackdown](https://www.firstpost.com/explainers/iran-intensifying-hijab-crackdown-women-noor-campaign-morality-police-13763575.html)
@@ -1337,8 +1330,11 @@ The US is considering banning the Chinese-owned app TikTok, similar to India's b
 Wed, 24 Apr 2024 17:48:28 +0530
 ### [Why are some demanding that Columbia University refund students’ tuition amid Gaza protests?](https://www.firstpost.com/explainers/why-are-some-demanding-that-columbia-university-refund-students-tuition-amid-gaza-protests-13763326.html)
 
-Article found but Couldn't summarize 
-The demand came after Columbia president Nemat Minouche Shafik, in an email to staff and students on Monday, said the university was cancelling in-person classes and moving to online teaching to 'deescalate the rancour and give us all a chance to consider next steps.' It costs around $90,000 per year to study at the elite university
+Columbia University has moved to online classes amidst escalating protests on campus related to the Israeli-Palestinian conflict. The decision, announced by President Nemat Minouche Shafik, aims to deescalate tensions and allow for reflection on the next steps. This shift to remote learning has sparked a call from some students and commentators for tuition refunds, given the high cost of attendance, which is approximately $90,000 per year. The controversy intensified with over 100 faculty members showing solidarity with the protesting students, and major university donor Robert Kraft expressing dissatisfaction over the university's handling of the situation, threatening to withdraw financial support.
+
+The protests, which have included encampments and traffic blockades, are a response to the ongoing war in Gaza and have led to numerous arrests on charges of trespassing. The situation has drawn national attention, with former Arkansas Governor Mike Huckabee and security expert Brigitte Gabriel calling for student refunds. The university's actions have been criticized by some as suppressing free speech and dissent.
+
+Amidst these events, President Joe Biden has condemned antisemitism and affirmed federal support for the Jewish community, while student organizers at Columbia have rejected any form of hate or bigotry, emphasizing solidarity among diverse student groups. The situation remains tense, with ongoing debates about free speech, student safety, and the university's role in addressing conflict-related issues on campus.
 
 Wed, 24 Apr 2024 17:31:56 +0530
 ### [Is Rahul Gandhi contesting from Amethi? What’s the speculation around the UP seat?](https://www.firstpost.com/explainers/congress-rahul-gandhi-contesting-from-amethi-speculation-13763208.html)
@@ -1404,8 +1400,11 @@ Frequent protests have occurred since Milei's term began, with significant oppos
 Wed, 24 Apr 2024 10:57:50 +0530
 ### ['They silence us, suspend us': How US students are refusing to back down over Gaza protests](https://www.firstpost.com/explainers/us-universities-students-gaza-protests-columbia-new-york-university-13763076.html)
 
-Article found but Couldn't summarize 
-Some of America's most prestigious universities have been rocked by protests in recent weeks as students and other agitators take over quads and disrupt campus activities, furious over the Israel-Hamas war and ensuing humanitarian crisis in Gaza
+Recent weeks have seen a surge in protests at prestigious American universities, sparked by the Israel-Hamas conflict and the situation in Gaza. **Columbia University** has become a central point of these demonstrations, with calls for divestment from companies associated with what protesters term "Israeli apartheid, genocide, and occupation in Palestine." The protests have led to clashes between pro-Palestinian and pro-Israeli groups, campus administration, and police.
+
+Concerns about campus safety and anti-Semitic incidents have been raised, with Columbia's administration engaging in dialogue with protesters while also addressing concerns from Jewish students. Some professors have opposed the administration's decision to involve police and suspend students.
+
+Similar protests have occurred at **New York University (NYU)**, where over a hundred people were arrested, and at other institutions like **California State Polytechnic University**, which closed due to demonstrations. The issue has gained national attention, with political figures and President Joe Biden's administration expressing concern over anti-Semitic sentiments on campuses. Demonstrations have also taken place at **MIT**, **University of Michigan**, **UC Berkeley**, and **Yale**, indicating a widespread movement across the country.
 
 Wed, 24 Apr 2024 10:29:03 +0530
 ### [US senate passes Ukraine aid package: Why there is a rush to send weapons to Kyiv](https://www.firstpost.com/explainers/us-senate-ukraine-aid-package-weapons-kyiv-russia-war-joe-biden-volodymyr-zelenskyy-13763073.html)
@@ -1465,8 +1464,7 @@ A new shoe sizing system tailored for the Indian population, named 'Bha,' is in 
 Tue, 23 Apr 2024 14:38:07 +0530
 ### [After Columbia, it is now Harvard, Yale, MIT: How top US colleges are unable to contain Gaza protests](https://www.firstpost.com/explainers/after-columbia-it-is-now-harvard-yale-mit-how-top-us-colleges-are-unable-to-contain-gaza-protests-13762809.html)
 
-Article found but Couldn't summarize 
-Officials in elite US colleges such as Columbia, Yale, Harvard, MIT are scrambling to tamp down the latest round of protests which kicked off Wednesday against the Israel-Gaza war. Students have been arrested and in-person classes have been suspended as the showdown between authorities and protesters continues
+Protests have erupted across elite US colleges, including Columbia, Yale, Harvard, MIT, Berkley, and NYU, in response to the Israel-Gaza conflict. Students have been arrested, and classes moved online to de-escalate tensions. At Columbia, the administration's actions to clear protests have raised concerns about free speech. Yale officials arrested protesters for trespassing, while Harvard suspended a student group for policy violations. MIT students set up encampments demanding a ceasefire and protesting the institute's alleged complicity. Amidst these events, the White House condemned antisemitism on campuses, emphasizing the right to peaceful protest without violence or intimidation. The situation remains tense as universities strive to balance safety, free speech, and community access.
 
 Tue, 23 Apr 2024 14:02:55 +0530
 ### [MDH, Everest row: What is the cancer-causing chemical found in Indian masalas?](https://www.firstpost.com/explainers/mdh-everest-row-ethylene-oxide-cancer-causing-chemical-indian-spices-hong-kong-singapore-13762767.html)

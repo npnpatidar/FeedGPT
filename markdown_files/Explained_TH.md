@@ -1,3 +1,10 @@
+Tue, 07 May 2024 23:03:29 +0530
+### [The Kotak Mahindra Bank controversy | Explained](https://www.thehindu.com/business/Industry/the-kotak-mahindra-bank-controversy-explained/article68150904.ece)
+
+The Reserve Bank of India (RBI) has imposed restrictions on Kotak Mahindra Bank (KMB) due to deficiencies in its IT systems. The bank is barred from adding new customers to its online and mobile banking services and from issuing new credit cards, although it can continue to serve existing customers. The RBI's action follows a two-year examination of KMB's IT systems, revealing serious deficiencies in IT inventory, user access management, data leak prevention, and business continuity planning. The bank's non-compliance with RBI's Corrective Action Plans and frequent digital banking outages have led to this decision.
+
+The regulatory action is expected to impact KMB's credit growth and profitability, particularly in the credit card segment, which is a high-yield growth area for the bank. Despite this, S&P Global Ratings believes the RBI's measures will not materially affect the bank's ratings. KMB's net profit increased by 18% in the last quarter, and the bank plans to continue investing in its card franchise. However, the ban may force KMB to rely more on its physical branch network, increasing operating costs. The bank's CEO expressed concerns about the reputational impact of the RBI's actions. It is anticipated that it may take a year for KMB to fully address the RBI's concerns and complete the necessary technological enhancements and external audit.
+
 Mon, 06 May 2024 23:03:05 +0530
 ### [What is carbon farming? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/what-is-carbon-farming-explained/article68147027.ece)
 
