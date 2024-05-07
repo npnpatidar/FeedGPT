@@ -1,3 +1,17 @@
+Tue, 07 May 2024 00:30:00 +0530
+### [Time to talk: On Tamil Nadu, Kerala and the Mullaperiyar dam row](https://www.thehindu.com/opinion/editorial/time-to-talk-the-hindu-editorial-on-tamil-nadu-kerala-and-the-mullaperiyar-dam-row/article68145900.ece)
+
+The article discusses the ongoing dispute between Tamil Nadu and Kerala over the Mullaperiyar dam. Despite a Supreme Court judgment from 10 years ago, which allowed Tamil Nadu to store water up to 142 feet, issues remain unresolved. Tamil Nadu accuses Kerala of obstructing maintenance work on the dam, which is crucial for its safety. Although committees have been established to address these issues, no solution has been found. Tamil Nadu is pushing for a comprehensive dam safety evaluation by December 30, 2026, as required by the Dam Safety Act, 2021.
+
+Judicial interventions have led to the adoption of a rule curve for operating the dam's shutters during floods, despite Kerala's objections. Additionally, a car parking project proposed by the Kerala government has become a subject of litigation, with Tamil Nadu disputing the project's location.
+
+The article suggests that both states should engage in bilateral negotiations to resolve their differences while maintaining the option of legal recourse. It emphasizes the importance of proactive political leadership to prevent the exploitation of water and dam safety issues for emotional manipulation. The talks may not lead to a major breakthrough but could help both states understand each other's positions and prevent the situation from being aggravated by vested interests.
+
+Tue, 07 May 2024 00:15:00 +0530
+### [Twin towers: On China, India and badminton](https://www.thehindu.com/opinion/editorial/twin-towers-the-hindu-editorial-on-china-india-and-badminton/article68145884.ece)
+
+China asserted its badminton dominance by winning both the Thomas and Uber Cup titles in Chengdu, repeating their 2012 feat. The men's team, led by Shi Yu Qi, secured their 11th victory, overcoming a recent slump. The women's team, determined to bounce back from their 2022 loss to South Korea, showcased their strength with 24 consecutive wins. India's performance served as a pre-Olympic evaluation, with mixed results. Despite a quarter-final defeat to China in the Thomas Cup, players like H.S. Prannoy and Lakshya Sen showed promise, while the women's team gained valuable experience despite losses to China and Japan.
+
 Mon, 06 May 2024 00:45:00 +0530
 ### [In the frontline: On Rahul Gandhi contesting from Rae Bareli](https://www.thehindu.com/opinion/editorial/in-the-frontline-the-hindu-editorial-on-rahul-gandhi-contesting-from-rae-bareli/article68143256.ece)
 

@@ -1,3 +1,22 @@
+Tue, 7 May 2024 06:00:51 +0530
+### [FirstUp: 3rd phase of Lok Sabha polls, Kejriwal’s bail plea hearing… Top news today](https://www.firstpost.com/explainers/firstup-3rd-phase-of-lok-sabha-polls-kejriwals-bail-plea-hearing-13767701.html)
+
+Today's key events include:
+
+- **Lok Sabha Elections 2024**: The third phase of voting is underway in 93 constituencies across 11 states and Union Territories. Notably, the Anantnag-Rajouri seat in Jammu and Kashmir will vote on May 25, and Betul in Madhya Pradesh, initially set for April 26, votes today.
+
+- **Supreme Court Hearings**: The Supreme Court is set to hear arguments on the interim bail of Delhi Chief Minister Arvind Kejriwal in the excise policy case. Additionally, the court will hear a plea by the Indian Medical Association (IMA) against Patanjali and Divya Pharmacy for allegedly making misleading claims about treatments.
+
+- **International Affairs**: Russian President Vladimir Putin begins another six-year term, potentially becoming Russia's longest-serving leader in over 200 years if he completes the term.
+
+- **Presidential Visit**: President Droupadi Murmu is attending a cultural programme in Shimla, followed by a dinner hosted by the Governor of Himachal Pradesh.
+
+- **Space Exploration**: Indian-origin astronaut Captain Sunita Williams and NASA astronaut Butch Wilmore are set to fly to the ISS on the Boeing Starliner, marking the first crewed test flight of the spacecraft.
+
+- **Sports**: In the IPL 2024, Delhi Capitals face Rajasthan Royals in Delhi. Apple is also expected to announce new iPad models and accessories at its "Let Loose" event.
+
+- **Historical Anniversaries**: Today marks the birth anniversary of Rabindranath Tagore, the end of Germany's participation in WWII in 1945, the largest merger with Mercedes-Benz and Chrysler in 1998, and the end of the Siege of Orléans by Joan of Arc in 1429. Additionally, it's the anniversary of Vladimir Putin's first election as president of Russia in 2000.
+
 Mon, 6 May 2024 21:37:13 +0530
 ### [Rs 30 crore recovered, counting machines breaking down: Inside ED's huge cash haul in Ranchi](https://www.firstpost.com/explainers/rs-30-crore-eds-cash-haul-ranchi-13767811.html)
 
@@ -680,8 +699,13 @@ ATM fraud is escalating, with a recent surge reported in Delhi, where scammers m
 Tue, 30 Apr 2024 14:00:53 +0530
 ### [No housing, no graduation: What suspension means for pro-Palestine protesters at US colleges](https://www.firstpost.com/explainers/no-housing-no-graduation-suspension-pro-palestine-protesters-us-colleges-13765386.html)
 
-Article found but Couldn't summarize 
-Two Ivy League universities — Columbia and Cornell — have suspended students for participating in pro-Palestine protests on campus. This action will have grave repercussions for demonstrators. They will be barred from classes, and won’t be allowed to graduate if they are eligible for it
+Columbia and Cornell Universities have suspended students for participating in pro-Palestine protests. At Columbia, students who missed a deadline to dismantle a protest encampment face suspension, barring them from classes and campus activities, potentially affecting their graduation eligibility. The New York Times reported that some students had occupied Hamilton Hall, and despite negotiations, no agreement was reached, leading to suspensions.
+
+Cornell also suspended students for refusing to relocate their encampment. President Martha E. Pollack mentioned that students were dishonest about their intentions for an art installation, leading to immediate temporary suspensions. The implications for suspended students are severe, including withdrawal from courses, campus access restrictions, and potential eviction from campus housing.
+
+The article highlights the broader impact of pro-Palestine protests across U.S. universities, with several activities being affected. Despite the universities' actions, protests continue, with arrests reported at the University of Texas, Tulane University, and Virginia Commonwealth University. Yale University stated its support for peaceful protests but not policy violations like the encampment.
+
+The article concludes by noting the growing scale of pro-Palestine protests in the U.S. and worldwide, with no signs of abatement. It also mentions the personal accounts of affected students and the legal concerns for international students facing suspension. The situation has led to the cancellation of major events, such as commencement ceremonies, and has drawn attention to the tension between institutional policies and student activism.
 
 Tue, 30 Apr 2024 13:42:02 +0530
 ### [How a rusting World War II ship is leading to tensions between China and the Philippines](https://www.firstpost.com/explainers/how-a-rusting-world-war-ii-ship-is-leading-to-tensions-between-china-and-the-philippines-13765368.html)
@@ -701,8 +725,7 @@ Hunter Biden's legal team is preparing to take action against Fox News, alleging
 Tue, 30 Apr 2024 11:51:24 +0530
 ### [Videos, warning letter, pen drive & more: How Karnataka sex scandal involving Deve Gowda's grandson Prajwal Revanna unfolded](https://www.firstpost.com/explainers/karnataka-sex-scandal-deve-gowda-grandson-prajwal-revanna-13765233.html)
 
-Article found but Couldn't summarize 
-The Karnataka sex scandal involving JD(S) MP Prajwal Revanna, grandson of former prime minister HD Deve Gowda has gripped the country at the height of the election campaign. It was Revanna, who made one of the earliest public references to the sex videos in June last year when he moved a Bengaluru court against 86 media outlets and three private persons, seeking a gag order. Here's what happened next
+The article discusses a sex scandal involving JD(S) MP Prajwal Revanna, grandson of former Prime Minister HD Deve Gowda, which emerged during an election campaign in Karnataka. Videos allegedly showing Prajwal engaging in sexual acts appeared online, leading to a police complaint by a woman claiming sexual harassment by Prajwal. A Special Investigation Team (SIT) was formed to investigate the authenticity of the videos and the allegations. Prajwal, who had previously sought a gag order against the dissemination of the videos, claimed they were doctored. The scandal led to his suspension from the party, and he has since left for Germany, with his father stating that the trip was pre-planned and that Prajwal will face the investigation. The National Commission for Women has condemned the alleged abuse, and there are calls for strict punishment for those involved in recording and distributing the videos. The incident has caused significant embarrassment and concern regarding women's safety and violence.
 
 Tue, 30 Apr 2024 11:02:11 +0530
 ### [Who could replace Humza Yousaf as Scotland's first minister?](https://www.firstpost.com/explainers/humza-yousaf-scotland-first-minister-contenders-13765266.html)
@@ -717,8 +740,7 @@ The article discusses a dispute between the Peruvian government and Chinese stat
 Tue, 30 Apr 2024 10:40:00 +0530
 ### [Who is Vikram Yadav, the ‘R&AW agent’, allegedly behind Gurpatwant Singh Pannun murder plot?](https://www.firstpost.com/explainers/vikram-yadav-raw-agent-gurpatwant-singh-pannun-assassinationr-plot-13765273.html)
 
-Article found but Couldn't summarize 
-New details about the ‘assassination attempt’ on Khalistan leader Gurpatwant Singh Pannun have come to light. A ‘Washington Post’ report has named Vikram Yadav, a Research and Analysis Wing (R&amp;AW) to be the one behind the plot. The US daily has reported that he was moved from the CRPF to India’s spy agency. What else is known about him and the alleged plot he hatched?
+The Washington Post has revealed new details about an alleged assassination attempt on Khalistan leader Gurpatwant Singh Pannun, implicating an official from India's Research and Analysis Wing (R&AW) named Vikram Yadav. Yadav, previously with the Central Reserve Police Force, reportedly forwarded Pannun's details to Gupta, who is currently in a Prague prison awaiting extradition. The plan involved encrypted messages and reaching out to a supposed weapons dealer, who turned out to be an informant for the US Drug Enforcement Administration. The operation, sanctioned by then R&AW chief Samant Goel, aimed to eliminate Sikh activists overseas, with speculation that Modi's national security adviser, Ajit Doval, might have been aware of it. The report suggests increasing surveillance of Sikhs perceived as threats to India's national security by Indian R&AW agents in various countries. However, both Goel and Doval have not responded to the claims. Meanwhile, India is taking the allegations seriously, with the Department of Justice running a criminal investigation. This isn't the first time R&AW has been implicated in such activities, as earlier reports suggested R&AW's involvement in assassinations in Pakistan.
 
 Tue, 30 Apr 2024 08:33:04 +0530
 ### [China launches first Hangor-class submarine for Pakistan: Here's what we know](https://www.firstpost.com/explainers/china-first-hangor-class-submarine-pakistan-13765167.html)
@@ -843,8 +865,7 @@ The article discusses the rise in singlehood globally and explores the misconcep
 Sun, 28 Apr 2024 09:12:46 +0530
 ### [This Week in Explainers: What are the demands of US students protesting on campuses?](https://www.firstpost.com/explainers/this-week-in-explainers-gaza-protests-columbia-university-us-colleges-13764475.html)
 
-Article found but Couldn't summarize 
-Student protests have cropped up in universities across the United States. After Columbia University, demonstrations against Israel’s war in Gaza were reported at several other campuses. All this and more in our weekly roundup of explainers from around the world
+Student protests have erupted across universities in the United States following demonstrations against Israel's actions in Gaza at Columbia University. Protests have spread to numerous campuses, with students setting up pro-Palestinian encampments. The US Senate passed a $95 billion aid package for Ukraine, Israel, and Taiwan, with a significant portion allocated to Ukraine to counter Russian aggression. Meanwhile, China's Ministry of State Security has emerged from secrecy, warning citizens about foreign spies. In other news, a Belgian man with auto-brewery syndrome was acquitted of drink-driving, and Harvey Weinstein's rape conviction was overturned, prompting a fresh trial. Additionally, the world's first Sikh court has opened in the UK, with a focus on justice and equality.
 
 Sat, 27 Apr 2024 17:59:25 +0530
 ### [Does freezing bread have health benefits?](https://www.firstpost.com/explainers/tiktok-freezing-bread-health-benefits-study-13764499.html)
@@ -854,8 +875,11 @@ Some TikTok users claim that freezing bread can make it healthier, citing resear
 Sat, 27 Apr 2024 16:03:29 +0530
 ### [Pro-Palestine protests: What students from Columbia, Harvard want from their university administrations](https://www.firstpost.com/explainers/pro-palestine-protests-us-students-columbia-harvard-demands-13764467.html)
 
-Article found but Couldn't summarize 
-Top US universities, including Columbia, Harvard, and Yale, have billions in endowments. This money is invested in lots of places to maximise returns. The central demand of the protesting students has to do with where the university administrations are channelling these funds
+Students across top U.S. universities, including Columbia, Harvard, and Yale, are protesting, demanding that their institutions divest from companies linked to Israel's actions in the Gaza Strip. These protests have seen students organizing sit-ins and peaceful demonstrations, with some calling for an end to academic ties with Israeli institutions and others advocating for broader human rights initiatives.
+
+The central issue is the universities' endowments, which amount to billions of dollars invested in various assets to maximize returns. Students are urging these institutions to withdraw investments from companies that supply military equipment or support Israel’s war efforts in Gaza. Historical precedents of successful divestment movements, such as those against apartheid South Africa, fossil fuels, and private prisons, are cited as inspiration.
+
+However, the path to divestment is complex due to the intricate nature of university investment portfolios and the minimal financial impact such actions would likely have on the targeted companies. Critics argue that divestment could carry political and ethical implications, including concerns about antisemitism. Despite this, student protests are raising awareness and sparking discussions about justice and ethical responsibility in university investments.
 
 Sat, 27 Apr 2024 13:45:54 +0530
 ### [Quicksplained: Who was Om Fahad, the Iraqi TikTok star shot dead in Baghdad?](https://www.firstpost.com/explainers/quicksplained-om-fahad-iraqi-tiktok-star-shot-dead-in-baghdad-13764420.html)
@@ -879,8 +903,13 @@ The rise of "destination dupes" is reshaping travel trends, inspired by the conc
 Sat, 27 Apr 2024 11:28:30 +0530
 ### [US to send Patriot missiles to Ukraine: How will these help the war-torn nation?](https://www.firstpost.com/explainers/us-patriot-missiles-ukraine-russia-war-america-weapons-13764352.html)
 
-Article found but Couldn't summarize 
-The US has said it will dispatch more Patriot missiles to Kyiv as part of a new $6 billion military aid package. The Patriot is a surface-to-air guided missile system, which the Ukrainian president Volodymyr Zelenskyy says is ‘urgently’ needed in the war with Russia
+The United States has announced a new $6 billion military aid package for Ukraine, which includes additional Patriot missiles. The package, funded through the Ukraine Security Assistance Initiative, is the largest to date and also comprises artillery ammunition for NASAMS, counter-drone systems, and air defense munitions. However, the U.S. will not provide systems to launch the missiles.
+
+The Patriot missile system, manufactured by Raytheon, is a surface-to-air guided system designed to target aircraft, cruise missiles, and ballistic missiles. It includes a phased array radar, control station, computers, and generators, requiring 90 troops for operation. Each battery has eight launchers with up to four interceptors each. The cost of an interceptor is about $4 million, and a launcher is $10 million, with a full battery costing around $1 billion.
+
+The Patriot system has been in service since the 1991 Gulf War and has been used by the U.S. and its allies in various conflicts. It is known for its reliability and proven track record in air missile defense.
+
+Ukraine's President Volodymyr Zelenskyy has emphasized the urgent need for Patriot systems to protect Ukrainian cities, stating that at least seven systems are required. The U.S. had previously sent Patriot missiles to Ukraine, and Germany and Spain have also committed to providing support. Despite its limitations in defending large areas, the Patriot system is crucial for Ukraine to bolster its air defenses and counter Russia's advances.
 
 Sat, 27 Apr 2024 09:26:37 +0530
 ### [This Week in Explainers: Will the Congress really redistribute wealth if it takes power?](https://www.firstpost.com/explainers/this-week-in-explainers-will-congress-redistribute-wealth-13764277.html)
