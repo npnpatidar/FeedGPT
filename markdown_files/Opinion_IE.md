@@ -1,3 +1,8 @@
+Wed, 08 May 2024 10:43:39 +0000
+### [In Uttar Pradesh, SP and BSP are following BJP’s playbook. It’s not so easy to pull off](https://indianexpress.com/article/opinion/columns/uttar-pradesh-sp-bsp-following-bjp-playbook-not-easy-9315905/)
+
+The article discusses the shift in political strategies of major parties in Uttar Pradesh (UP) during the general elections, focusing on the mobilization of non-dominant OBC and Dalit communities. The BJP's model, which has been in place for a decade, aims to form a broad social alliance by including these communities, moving away from the traditional reliance on a "base" vote. This approach is based on the concept of Antyodaya and expanding the electoral base. The SP and BSP are now partially adopting this model, giving fewer tickets to their traditional caste bases and focusing on other communities to broaden their appeal. The BJP's experience in balancing these social groups may give it an advantage, while the SP and BSP are still developing this capacity. The outcome of this strategy will be significant in the elections, as it could challenge the BJP's dominance if the other parties manage to create a harmonious balance among the various castes. The writer's views are personal and reflect the evolving political landscape in UP. The unrelated content about Ranveer Singh's social media activity has been omitted from this summary.
+
 Wed, 08 May 2024 08:02:31 +0000
 ### [The ‘Bandhutva’ push: Foreign policy, beyond slogans and acronyms](https://indianexpress.com/article/opinion/columns/bandhutva-push-foreign-policy-slogans-acronyms-9315551/)
 

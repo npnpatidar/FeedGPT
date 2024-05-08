@@ -1,3 +1,16 @@
+Wed, 08 May 2024 09:46:16 +0000
+### [Do marriages need to be registered? What happens if they are not?](https://indianexpress.com/article/explained/explained-law/do-marriages-need-to-be-registered-9315506/)
+
+The Supreme Court of India recently ruled that a Hindu couple was not legally married despite having a marriage certificate because they registered their marriage under the Hindu Marriage Act, 1955, before performing the necessary wedding rituals. This case highlights the importance of both the registration and solemnization of marriages in India.
+
+Marriage in India is governed by various personal laws and the Special Marriage Act, 1954. For Hindus and Christians, marriage is considered a sacrament and requires specific rituals for validity. For Muslims, marriage is a contractual agreement requiring consent and witnesses, often formalized in a nikahnama.
+
+The article explains that 'court marriage' or 'registered marriage' under the Special Marriage Act is a civil marriage without rituals, while marriages under personal laws like the Hindu Marriage Act are valid only after religious rituals are performed. Registration of a marriage is different from its solemnization and is mandatory in some Indian states.
+
+A marriage certificate is important for official purposes but is not the sole proof of a valid marriage. The law presumes the existence of marriage based on continuous cohabitation, and in legal disputes, evidence such as photographs, witnesses, and acceptance by family can be crucial.
+
+The article concludes with unrelated content about a celebrity, which is not pertinent to the legal discussion on marriage.
+
 Wed, 08 May 2024 02:15:15 +0000
 ### [3-phase ceasefire deal that Hamas backed; Israel rejected as ‘soft’](https://indianexpress.com/article/explained/explained-global/3-phase-ceasefire-deal-that-hamas-backed-israel-rejected-as-soft-9314872/)
 

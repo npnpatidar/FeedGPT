@@ -1,3 +1,27 @@
+Wed, 08 May 2024 16:00:19 +0530
+### [Trash it right: We must transform waste management](https://www.livemint.com/opinion/online-views/trash-it-right-we-must-transform-waste-management-11715099767446.html)
+
+The article discusses the innovative and creative solutions being implemented to tackle environmental issues, particularly waste management. It highlights the Trash Isles campaign, which symbolically created a 'country' in the Pacific Ocean to draw attention to the unmanaged waste problem. The article emphasizes a paradigm shift in waste management policies and perspectives, advocating for zero-waste economies and viewing waste as a resource rather than something to discard.
+
+India's current policy framework aims to reduce landfill usage to less than 10% of waste, focusing on segregation, sorting, and recycling to maximize resource recovery. Despite generating over 62 million tonnes of waste annually, India faces challenges in waste collection, treatment, and disposal, with a significant portion ending up in waste yards.
+
+The article calls for a sustainable waste management system that includes proper infrastructure, detailed processes, and technology for tracking and recycling waste. It suggests adopting a business model that balances environmental and social impacts, integrating informal waste workers, and relying on dual revenue streams from service fees and waste sales to cover operational costs.
+
+In conclusion, the article stresses the need for collective efforts to create sustainable and impactful waste management processes, supporting individuals and businesses in the sector, and reflecting on how waste management practices reveal societal values.
+
+Wed, 08 May 2024 14:30:17 +0530
+### [Value chain risk: Will Vietnam end up like another Chinese province?](https://www.livemint.com/opinion/online-views/value-chain-risk-will-vietnam-end-up-like-another-chinese-province-11715099704051.html)
+
+Vietnam's aggressive anti-corruption campaign has led to significant political upheaval, with high-profile figures and business tycoons facing charges and, in some cases, severe sentences. The campaign has raised concerns about political stability and the potential impact on foreign investment, especially as Vietnam is poised to benefit from US-China tensions. The drive against corruption has inadvertently shifted economic prosperity towards the north, particularly around Hanoi and Haiphong, leaving the southern commercial hub of Ho Chi Minh City behind.
+
+Foreign investments are increasingly flowing into the northern region, with significant infrastructure developments such as new factories and expressways. However, the anti-corruption efforts have also caused a slowdown in public procurement and infrastructure projects, with officials hesitant to make decisions. This has resulted in delays, like the incomplete metro line in Ho Chi Minh City.
+
+The northern province of Quang Ninh has become particularly attractive to investors due to its improved infrastructure and geographical advantages. Despite soaring power demands and infrastructure needs, decision-making has stalled since the anti-corruption campaign began. Vietnam has even resorted to importing electricity from China to meet immediate needs.
+
+The death sentence of Truong My Lan, a prominent real estate figure, has unsettled the business community, highlighting the government's willingness to target private businesses. This has influenced Chinese entrepreneurs to align with the political elite, who currently favor the north.
+
+The article suggests that while anti-corruption efforts are essential, they can also hinder economic progress. Vietnam's internal politics may be inadvertently aligning the northern region more closely with China, raising questions about the country's future direction and independence.
+
 Wed, 08 May 2024 13:00:10 +0530
 ### [What TikTok failed to understand about America: Democracy](https://www.livemint.com/opinion/online-views/what-tiktok-failed-to-understand-about-america-democracy-11715099632361.html)
 

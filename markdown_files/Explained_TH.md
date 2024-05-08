@@ -1,3 +1,14 @@
+Wed, 08 May 2024 15:30:17 +0530
+### [All about FLiRT, the new COVID-19 variants | Explained](https://www.thehindu.com/sci-tech/health/all-about-flirt-the-new-covid-19-variants-explained/article68144878.ece)
+
+The article discusses the emergence of new COVID-19 variants, KP.2 and KP1.1, known as 'FLiRT' variants, which are causing concern due to their ability to evade immunity from vaccines and previous infections. These variants are descendants of the Omicron JN.1 variant and have led to a rise in cases and hospitalizations in the U.S., U.K., South Korea, New Zealand, and India. The Indian SARS-CoV-2 Genomics Consortium (INSACOG) has reported cases of these variants in India.
+
+The FLiRT variants, particularly KP.2, are more dominant and prevalent, with the U.S. CDC reporting it accounts for about 25% of new cases in the U.S. as of late April. Symptoms of the new variants are similar to other Omicron subvariants. Research indicates that KP.2 can escape immune protection from the latest vaccines and previous infections, posing challenges to current COVID-19 management strategies.
+
+In India, there has been a surge in cases since early April, and while vaccinations remain effective in preventing severe illness, health bodies are calling for updates to vaccines to target these new variants. AstraZeneca has also begun withdrawing its COVID-19 vaccine due to a surplus of updated vaccines available.
+
+The article emphasizes that COVID-19 is becoming a cyclical disease, with waves of infection expected to continue. It suggests that management strategies need to adapt to this reality, focusing on sustained surveillance and protection for the vulnerable. The virus, while not causing profound illness on its own, can still pose risks to those with pre-existing health conditions and contribute to the burden of respiratory infections. The long-term health impacts of Long COVID are also highlighted as a concern. The overall message is that COVID-19 will persist, and efforts should focus on learning to live with the virus rather than attempting to eliminate it.
+
 Tue, 07 May 2024 23:03:29 +0530
 ### [The Kotak Mahindra Bank controversy | Explained](https://www.thehindu.com/business/Industry/the-kotak-mahindra-bank-controversy-explained/article68150904.ece)
 
