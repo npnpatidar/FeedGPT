@@ -1,3 +1,23 @@
+Wed, 08 May 2024 08:02:31 +0000
+### [The ‘Bandhutva’ push: Foreign policy, beyond slogans and acronyms](https://indianexpress.com/article/opinion/columns/bandhutva-push-foreign-policy-slogans-acronyms-9315551/)
+
+The article discusses the complexities of political slogans, national ideologies, and India's foreign policy, particularly in relation to China. It critiques the oversimplification of national interests and the dangers of ignoring historical context in policy analysis. The author argues that states act out of self-interest, not friendship or altruism, and questions the current Indian government's claims of pursuing national interests more effectively than previous administrations.
+
+The piece also addresses India's development goals, the impact of digitalization on the economy, and the growing inequalities since liberalization. It emphasizes the need for India to capitalize on global shifts in manufacturing and to invest in science, technology, and innovation to keep pace with other countries.
+
+Reflecting on India's foreign policy from Nehru to Modi, the author suggests that despite new terminology, the core principles of an independent and autonomous policy remain relevant. The article concludes by urging the current government to acknowledge the contributions of its predecessors and to focus on the realities of the present rather than the glories of the past. The writer identifies as a former diplomat, providing a perspective grounded in experience with international relations. The unrelated content about Ranveer Singh and Deepika Padukone has been omitted from this summary.
+
+Wed, 08 May 2024 07:02:56 +0000
+### [For women-led development, invest in the Care Economy](https://indianexpress.com/article/opinion/columns/for-women-led-development-invest-in-the-care-economy-9315433/)
+
+The article discusses the impact of unpaid care work on gender inequality and economic growth. It highlights that women disproportionately bear the burden of unpaid care work, which hinders their career advancement and contributes to the gender wage gap. The International Labour Organisation (ILO) defines the Care Economy as activities related to care and support, both paid and unpaid. Despite its importance, care work is often undervalued and invisible in traditional economic frameworks, particularly in India.
+
+Studies indicate that women's unpaid work contributes significantly to global GDP, yet this is not reflected in national accounting systems. In India, unpaid care work is estimated to be a substantial portion of the GDP, with women dedicating more time to it than men. Investing in the care sector could create millions of jobs and address the needs of an aging population.
+
+The article suggests that achieving gender equality requires recognizing the value of care work, reducing the amount of unpaid care, redistributing care responsibilities, rewarding care workers fairly, and ensuring their representation in decision-making. It also recommends prioritizing care work in socio-economic development plans, creating gender-inclusive childcare policies, and enhancing the quality of the care sector.
+
+The authors argue that strengthening the care economy is crucial for India's development and women-led growth, especially in the upcoming era termed "Amrit Kaal." They advocate for increased public and private investments in the care sector to create new business opportunities and promote development led by women. The article concludes with a brief mention of Bollywood actor Ranveer Singh's social media activity, which is unrelated to the main content.
+
 Wed, 08 May 2024 03:00:24 +0000
 ### [No, Pakistan’s employment picture isn’t better than India](https://indianexpress.com/article/opinion/columns/no-pakistans-employment-picture-isnt-better-than-india-9314843/)
 

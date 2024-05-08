@@ -1,3 +1,14 @@
+Wed, 8 May 2024 11:54:06 +0530
+### [India and Central Asia: Despite historical links and Modi government’s outreach, ties need renewed focus](https://www.firstpost.com/opinion/india-and-central-asia-despite-historical-links-and-modi-governments-outreach-ties-need-renewed-focus-13768486.html)
+
+The article discusses the historical and evolving relationship between India and Central Asia. It highlights the ancient cultural and trade connections that have existed for millennia, which have been revitalized since the Central Asian Republics' independence from the Soviet Union in 1991. Despite geographical challenges, India has sought to enhance ties through initiatives like the International North South Transport Corridor (INSTC) and the Chabahar port.
+
+The strategic importance of Central Asia to India's security, particularly in relation to Afghanistan, is emphasized. The region's rich natural resources are noted as vital to India's energy security and economic engagement. The article outlines the fluctuating attention Central Asia received from Indian leadership until Prime Minister Narendra Modi's tenure, which saw a significant upswing in bilateral partnerships and engagement.
+
+Key developments under PM Modi include the organization of the Central Asia + India Summit, institutionalizing the summit mechanism, and various high-level meetings to bolster cooperation in security, trade, and cultural exchanges. The article suggests recommendations for deepening the strategic partnership, such as appointing a Special Envoy for the region and collaborating with other global powers.
+
+In conclusion, the article underscores the shared perspectives on regional and global issues between India and Central Asia, the potential for cooperation in various sectors, and the promising future of their relationship.
+
 Tue, 7 May 2024 18:22:51 +0530
 ### [Hypocrisy of Western media amidst ongoing anti-Semitic protests in the US](https://www.firstpost.com/opinion/hypocrisy-of-western-media-amidst-ongoing-anti-semitic-protests-in-the-us-13768232.html)
 

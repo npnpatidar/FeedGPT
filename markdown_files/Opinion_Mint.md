@@ -1,3 +1,36 @@
+Wed, 08 May 2024 13:00:10 +0530
+### [What TikTok failed to understand about America: Democracy](https://www.livemint.com/opinion/online-views/what-tiktok-failed-to-understand-about-america-democracy-11715099632361.html)
+
+The article discusses the controversy surrounding TikTok in the United States. **President Joe Biden** signed a law that could ban TikTok in nine months unless its Chinese owner, ByteDance, sells it to a non-Chinese entity. The law reflects bipartisan concerns over China, but TikTok has dismissed it as "political theatre."
+
+US lawmakers, typically hesitant to regulate business, are concerned about data privacy and the potential for Chinese government access to American user data due to China's intelligence laws. TikTok's promise to store American data on non-Chinese servers did not alleviate these concerns, which were similar to those leading to a ban on Huawei telecom equipment.
+
+TikTok had an opportunity to collaborate with US regulators and set a positive example in data privacy. Instead, it took an aggressive approach, hiring lobbyists and urging its young American user base to protest against the legislation. This strategy backfired, highlighting fears of foreign influence on American democracy and exacerbating concerns about social media's impact on beliefs and behaviors.
+
+The article suggests that TikTok's actions, perceived as an attack on American democracy, ensured the passage of the forced-sale bill. With its future in the US uncertain, TikTok is advised to reconsider its approach and respect American concerns about data privacy and democratic integrity. Other non-US companies are warned to learn from TikTok's mistakes. The article concludes by emphasizing the importance of respecting legitimate concerns about data privacy and threats to democracy.
+
+Wed, 08 May 2024 11:30:09 +0530
+### [Do hybrid bonds actually offer bank depositors any protection?](https://www.livemint.com/opinion/online-views/do-hybrid-bonds-actually-offer-bank-depositors-any-protection-11715099516882.html)
+
+The article discusses the recent instances of debt capital instruments being written down in the Indian banking sector, with specific reference to the Tier 1 bonds of Yes Bank and Tier 2 bonds of Lakshmi Vilas Bank. It highlights the challenges faced by bondholders, including legal battles and the implications of the judiciary's decisions on the banking system's regulatory framework.
+
+The write-downs are part of a global trend following the 2008 financial crisis, where new debt capital instruments were introduced to prevent government bailouts of failed banks. These instruments, known as Basel 3 Tier 1 and Tier 2 bonds, or 'hybrid bonds', have features of both debt and equity and are designed to absorb losses in times of bank stress.
+
+The article notes that in India, these instruments have grown to a significant size, with Tier 1 bonds comprising a substantial portion of the banking system's net worth. It also discusses the changes in the covenants for coupon payments on these bonds over the last decade, the government's role in bailing out banks, and the implications for investors and the banking system's stability.
+
+The Supreme Court's upcoming judgement on Yes Bank's Tier 1 bonds is highlighted as a crucial event that will set a precedent for the treatment of such instruments in future bank resolutions. The article concludes by emphasizing the need for consensus among stakeholders on the risks and regulatory treatment of hybrid bonds to maintain confidence in the Indian banking system.
+
+Wed, 08 May 2024 10:00:07 +0530
+### [Leadership determines whether institutions flout or value norms](https://www.livemint.com/opinion/online-views/leadership-determines-whether-institutions-flout-or-value-norms-11715099450125.html)
+
+The article reflects on the author's personal experiences with educational institutions run by religious trusts, highlighting the impact of foundational norms and beliefs on their functioning. The author contrasts two institutions: one focused solely on education, where everything from teacher behavior to the physical environment aligned with this purpose, and another where education was secondary to serving God, affecting teacher-student relationships and the institution's priorities.
+
+The author extends this observation to hospitals run by religious institutions, noting that while patient care is less affected by such norms, the impact on students in educational settings can be significant. The article suggests that these foundational norms are often unspoken but deeply influence institutional behavior and the experiences of those within.
+
+A particular case is discussed where an educational institution was found to be corrupt, with the principal and faculty involved in malpractices, including financial misconduct and caste-based discrimination. This institution's closure and the lack of accountability are cited as examples of gross violations of educational norms.
+
+The author argues that leadership is crucial in maintaining or subverting these foundational norms, with the potential for either subtle differences or complete hijacking of an institution's purpose. The article concludes by emphasizing the importance of public vigilance to safeguard against such subversion in the reality of the country's institutional landscape.
+
 Wed, 08 May 2024 08:30:03 +0530
 ### [CBI vs banks on fraud: It’s not too late to set the record straight](https://www.livemint.com/opinion/online-views/cbi-vs-banks-on-fraud-it-s-not-too-late-to-set-the-record-straight-11715091067759.html)
 
