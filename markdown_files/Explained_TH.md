@@ -1,3 +1,12 @@
+Wed, 08 May 2024 23:15:11 +0530
+### [The delay in Nagaland civic body polls | Explained](https://www.thehindu.com/news/national/nagaland/the-delay-in-nagaland-civic-body-polls-explained/article68154739.ece)
+
+The article discusses the upcoming Urban Local Bodies (ULBs) elections in Nagaland, scheduled for June 26, 2024. The elections are significant as they mark the end of a 20-year impasse over the reservation of 33% of the wards for women, a mandate from the 74th Amendment to the Constitution of India. Previously, the Naga hohos opposed this quota, arguing it violated Nagaland's special provisions under Article 371A. The first civic elections in 2004 had no reservations for women, and subsequent attempts to hold elections with the reservation led to widespread protests and violence, resulting in the cancellation of the election process in 2017.
+
+In November 2023, the Nagaland Assembly passed an amended Municipal Bill that retained the 33% women's reservation but removed the reservation for the chairperson's post and taxation on immovable property. This amendment was broadly accepted after consultations with stakeholders. The new Nagaland Municipal Act of 2023 will govern the upcoming elections, with nominations from June 7-11, scrutiny on June 13, and the last date for withdrawal on June 20. Results will be announced on June 29. The reservation for women will be rotated among the wards.
+
+Despite the acceptance of the amended act by most tribal bodies, the Eastern Nagaland People’s Organisation (ENPO) has decided not to participate in the ULB polls or any Central or State election, continuing their protest against the failure to create the autonomous Frontier Nagaland Territory. Consequently, the Lok Sabha polls on April 19 saw no participation from voters in the six eastern districts represented by ENPO, and the same is expected for the ULB polls.
+
 Wed, 08 May 2024 15:33:31 +0530
 ### [Israel bans Al Jazeera: A look at the history of its feud, the network’s coverage of Gaza & accusations](https://www.thehindu.com/news/international/israel-bans-al-jazeera-a-look-at-the-history-of-its-feud-the-networks-coverage-of-gaza-accusations/article68150990.ece)
 

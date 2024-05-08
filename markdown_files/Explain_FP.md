@@ -2121,32 +2121,48 @@ Please note that this summary is based on the information provided in the articl
 Thu, 11 Apr 2024 16:28:07 +0530
 ### [Why Saudi Arabia is scaling back plans for its mega desert project Neom](https://www.firstpost.com/explainers/saudi-arabia-scale-back-mega-desert-city-neom-the-line-crown-prince-mohammad-bin-salman-13758544.html)
 
-Article found but Couldn't summarize 
-Saudi Arabia is looking to scale back its plans on the 170-km-long 'The Line' city within its megaproject of NEOM. It was meant to be home to around 1.5 million residents by the end of the decade. But, now the upcoming town will not house more than 300,000 people. Here’s what has gone wrong
+Saudi Arabia's ambitious NEOM project, specifically the 170-km-long linear city known as 'The Line', is being scaled back significantly. Initially intended to accommodate 1.5 million residents by 2030, it will now house no more than 300,000. The Line was envisioned as a car-less city powered by renewable energy, with all daily needs within a five-minute walk and a high-speed rail system for longer distances. However, due to economic constraints, including unapproved budgets and the need for additional funding from the state, the project's scope has been reduced. Only 2.4 km of the original 170 km is expected to be completed by 2030. This scale-back has led to job losses as contractors dismiss workers.
+
+The reduction in scale is attributed to several factors, including the economic viability and changing visions for the project. Oil revenues, which are crucial for funding, have not met the necessary levels to support the government's budget. Additionally, the project's feasibility has been questioned due to its reliance on technologies that do not yet exist.
+
+Environmentalists and human rights activists have expressed relief over the project's downsizing. The Line's design posed a threat to migratory birds, and there were concerns about its environmental impact. Human rights issues also arose from the displacement of the Howeitat tribe for the project's development, leading to arrests and detentions among the tribe members. The scale-back may alleviate some of these environmental and social concerns.
 
 Thu, 11 Apr 2024 15:27:54 +0530
 ### [Defence & more: The key areas of cooperation that Japan's Kishida and US' Biden agreed upon](https://www.firstpost.com/explainers/defence-more-the-key-areas-of-cooperation-that-japans-kishida-and-us-biden-agreed-upon-13758589.html)
 
-Article found but Couldn't summarize 
-US president Joe Biden and Japanese PM Fumio Kishida decided to collaborate in various spheres from space to semiconductors as they met on Wednesday. But the crux of their meeting was bolstering defence ties
+US President Joe Biden and Japanese PM Fumio Kishida have agreed to significantly strengthen defense ties, marking the most substantial upgrade in their alliance to date. This strategic move aims to address security challenges in the region, particularly the threat posed by China's growing assertiveness.
+
+**Key Points of the Agreement:**
+- **Enhanced Command and Control:** The US and Japan will upgrade their command and control frameworks for better operational integration and planning between their forces.
+- **Increased Cooperation:** The nations will collaborate more closely in defense industrial policy, acquisition, and science and technology, including the co-development and co-production of missiles.
+- **Intelligence and Cybersecurity:** There will be a boost in cooperation in intelligence, surveillance, reconnaissance, and cybersecurity.
+- **Humanitarian Efforts:** Plans to establish a humanitarian assistance and disaster relief hub in Japan are being explored.
+
+**Regional Involvement:**
+- **Trilateral Summit:** A trilateral summit involving the Philippines is scheduled.
+- **Networked Air Defense:** A vision to cooperate on a networked air defense architecture with Australia and potential collaboration with the AUKUS partnership (US, Australia, Britain) on advanced defense technology.
+- **Joint Military Exercises:** Britain will join regular joint military exercises with the US and Japan starting in 2025.
+
+Experts view these developments as a significant step in enhancing the preparedness of US and Japanese militaries to respond to regional threats, potentially from China or North Korea. This visit is considered a historic high point in US-Japan relations.
 
 Thu, 11 Apr 2024 14:30:30 +0530
 ### [Why is India posting defence attachés to African nations, Armenia, Philippines?](https://www.firstpost.com/explainers/india-defence-attaches-african-nations-armenia-philippines-arms-exports-china-13758558.html)
 
-Article found but Couldn't summarize 
-In a first, India is deploying defence attachés to several new countries, including African nations, Poland, Armenia and the Philippines. The move comes amid China’s growing presence in Africa and its military assertiveness in the South China Sea
+India is expanding its diplomatic and military reach by deploying defence attachés to several new countries, including African nations, Poland, Armenia, and the Philippines. This strategic move is seen as a response to China's growing influence in Africa and assertiveness in the South China Sea. Defence attachés serve as representatives of their country's military at embassies abroad, with roles in bilateral military relations, intelligence collection, and promoting military cooperation. India's focus on Africa is highlighted by the deployment of attachés to countries like Djibouti, which holds strategic maritime significance. The reallocation of military personnel from larger missions in Russia, the UK, and France to new defence wings aims to enhance strategic ties and promote arms exports. India's engagement with Africa is further emphasized by the induction of the African Union into the G20 and the establishment of new missions across the continent. The deployment to Poland reflects growing security partnerships within the EU, while the presence in Armenia and the Philippines aligns with India's arms export interests and response to regional security challenges. This initiative underscores India's commitment to strengthening its global military and strategic presence.
 
 Thu, 11 Apr 2024 14:06:04 +0530
 ### [Was the solar eclipse the reason why US astrology influencer killed her partner, child?](https://www.firstpost.com/explainers/was-the-solar-eclipse-the-reason-why-us-astrology-influencer-killed-her-partner-child-13758486.html)
 
-Article found but Couldn't summarize 
-The woman was identified as Danielle Cherakiyah Johnson. She is an astrology influencer and recording artist known by the alias ‘Ayoka’ who posts content on the platform X. In her online posts, she expressed concern about the eclipse's potential for the end of the world
+An astrology influencer and recording artist, known online as "Ayoka," was involved in a tragic incident following her expressed concerns about a solar eclipse. She fatally stabbed her partner and subsequently caused the death of her infant daughter by throwing her from a moving vehicle on a Los Angeles highway. The influencer, Danielle Cherakiyah Johnson, also perished after crashing her car into a tree. Prior to the events, she had shared posts about the eclipse being the "epitome of spiritual warfare" and urged her followers to choose their path wisely. Despite her active social media presence, where she offered various spiritual services and shared her views, authorities have not linked her actions to the eclipse. The incident coincided with a solar eclipse that captivated millions across North America, although only a partial eclipse was visible in Los Angeles.
 
 Thu, 11 Apr 2024 13:04:35 +0530
 ### [Explained: Why a new European pact on migration and asylum is controversial](https://www.firstpost.com/explainers/european-union-asylum-migration-pact-controversy-13758531.html)
 
-Article found but Couldn't summarize 
-Europe’s migration laws are set for an overhaul. The EU Migration and Asylum Pact hardens border procedures, speeds up the return of irregular migrants to their home countries, and forces the bloc’s 27 nations to share responsibility. The reforms have been objected to by the far right and left
+The European Union (EU) has approved a significant reform of its migration and asylum rules, known as the EU Migration and Asylum Pact. This pact, which has been in development since 2015, aims to address the division over managing unauthorized entries by hardening border procedures and mandating all 27 EU nations to share responsibility for migrants. The pact includes controversial measures such as taking biometric data from children, detaining individuals during screening, and fast-track deportations. It also introduces a new border processing system to swiftly determine migrants' status upon arrival, with a goal to process asylum requests within 12 weeks.
+
+The legislation has caused division within the EU, with the European Parliament's main political groups overcoming opposition from far-right and far-left parties to pass the new pact. The far-right parties believe the reforms are not strict enough, while the far-left argues they are too stringent and abandon Europe's values of compassion and human dignity. Human rights activists and organizations have criticized the pact for potentially leading to greater human suffering.
+
+The reform has been described as historic by some EU leaders, while others, like Hungarian Prime Minister Viktor Orban, have expressed strong dissent. The pact's approval comes amid rising numbers of migrants entering Europe, with 380,000 illegal border crossings reported last year, the highest number since 2016. The EU issued almost 3.7 million new residence permits in 2022, and there were 875,000 new asylum applications, not including those from Ukrainian applicants. The member states must now endorse the reform package before it can take effect.
 
 Thu, 11 Apr 2024 12:07:11 +0530
 ### [Fact-check: The truth behind the ‘challenge vote’ in 2024 Lok Sabha elections](https://www.firstpost.com/explainers/fact-check-truth-challenge-vote-2024-lok-sabha-elections-13758473.html)
@@ -2165,8 +2181,11 @@ In conclusion, the message about "challenge votes" and repolling due to tendered
 Thu, 11 Apr 2024 10:57:35 +0530
 ### [Now deepfake videos recommend stocks: What to look out for? How to stay safe?](https://www.firstpost.com/explainers/deepfake-stocks-stay-safe-nse-chairman-13758452.html)
 
-Article found but Couldn't summarize 
-The National Stock Exchange (NSE) warned investors on Wednesday against deepfake videos of its MD and CEO, Ashishkumar Chauhan, making stock recommendations. The exchange cautions against believing in such audio and videos and not following any such investment recommendations
+The National Stock Exchange (NSE) has issued a warning to investors about deepfake videos featuring its MD and CEO, Ashishkumar Chauhan, giving false stock recommendations. The NSE has observed the unauthorized use of Chauhan's likeness and the NSE logo in these videos, which have been created using advanced technology to mimic his voice and appearance. The exchange has emphasized that its employees are not authorized to provide stock recommendations and has urged investors to disregard any such advice from these fraudulent sources.
+
+To ensure safety, the NSE advises investors to verify the source of any communication claiming to be from the NSE and to refer to the official NSE website or its social media handles for authentic information. The exchange is also working to have these deepfake videos removed from various platforms.
+
+Deepfakes, which are digitally manipulated videos or audio created with AI, pose significant risks by spreading misinformation and potentially damaging reputations. Other financial institutions, like ICICI Prudential Asset Management Company, have also alerted investors to similar deepfake videos of their executives. Additionally, the Indian government has instructed social media platforms to remind users that local laws prohibit the posting of deepfakes and misleading content.
 
 Thu, 11 Apr 2024 10:08:50 +0530
 ### [More trouble for Kejriwal: Why the Delhi CM’s ‘Man Friday’ Bibhav Kumar has been sacked](https://www.firstpost.com/explainers/trouble-arvind-kejriwal-delhi-cm-private-secretary-bibhav-kumar-sacked-13758451.html)
@@ -2244,14 +2263,12 @@ Please note that this summary is based on the content provided and does not incl
 Wed, 10 Apr 2024 19:26:23 +0530
 ### [Why a rising number of people in Sierra Leone are digging up human graves](https://www.firstpost.com/explainers/sierra-leone-kush-addiction-human-graves-national-emergency-drug-crisis-13758300.html)
 
-Article found but Couldn't summarize 
-Sierra Leone president Julius Maada Bio has declared a national emergency owing to the rise of kush drug users in the African nation. The spike in addicts has also led to dealers turning into grave robbers, stealing skeletons. This is because grounded human bones are reportedly the main ingredient in kush
+President Julius Maada Bio of Sierra Leone has declared a national emergency due to the rampant use of a synthetic drug called kush, which is believed to contain ground human bones among other substances like cannabis, fentanyl, and tramadol. The drug's affordability and the high it provides have led to widespread addiction, particularly among the youth facing unemployment and poverty. The addiction has severe health consequences, including organ damage and death. The demand for kush has also resulted in grave robbing, as dealers steal skeletons to source the alleged main ingredient. In response, the government has set up a National Task Force on Drugs and Substance Abuse to tackle the crisis, and security forces have been deployed to protect cemeteries. The situation is described as an existential threat to the nation, with nearly 2,000 cases of kush addiction reported in 2023 alone. The crisis affects all social strata, from the poor to the wealthy elite, and has overwhelmed the country's only psychiatric hospital. The national emergency aims to prioritize resources and interventions to combat the epidemic.
 
 Wed, 10 Apr 2024 18:07:32 +0530
 ### [How Alexandria Ocasio-Cortez and other women politicians are becoming easy targets of deepfake porn](https://www.firstpost.com/explainers/us-alexandria-ocasio-cortez-giorgia-meloni-women-politicians-easy-targets-deepfake-porn-13758336.html)
 
-Article found but Couldn't summarize 
-US Representative Alexandria Ocasio-Cortez recently opened up about the horror she experienced after discovering a deepfake pornographic image of herself, calling it a ‘shock’. She is not the only female politician who has become a victim of AI-generated sexually explicit content. Before her, there was Italian PM Giorgia Meloni
+The article discusses the serious issue of deepfake pornography, which is predominantly targeting women, including public figures like US Representative Alexandria Ocasio-Cortez and Italian Prime Minister Giorgia Meloni. Deepfake technology uses AI to create manipulated media, which is becoming increasingly difficult to distinguish from real content. The article highlights the ease and low cost of creating such content, the psychological harm it inflicts on victims, and the urgent need for stricter laws to criminalize the production and distribution of deepfake pornography. It emphasizes the widespread damage caused by these deepfakes and calls for action from governments, regulators, and businesses to protect women and ensure their safety in the digital age. The article concludes with a call to make women feel secure amidst the rapid technological advancements.
 
 Wed, 10 Apr 2024 16:48:37 +0530
 ### [Why UK PM Rishi Sunak’s choice of sneakers has created a furore](https://www.firstpost.com/explainers/rishi-sunak-adidas-sambas-sneakers-furore-conservative-party-support-13758262.html)
@@ -2310,8 +2327,9 @@ This summary provides an overview of the current state of unicorns in India and 
 Wed, 10 Apr 2024 13:53:53 +0530
 ### [‘Swiss grannies’ win climate case: How climate litigation is rising across the world](https://www.firstpost.com/explainers/swiss-grannies-climate-case-litigation-rising-world-unep-13758187.html)
 
-Article found but Couldn't summarize 
-A group of elderly women in Switzerland, dubbed the ‘Climate Grannies’ won the first-ever climate case victory in the European Court of Human Rights. In recent times, climate action cases have risen across the world — from 884 in 2017 to 2,180 in 2022. Experts note that such litigation will continue to see a rise this year as awareness also increases among the masses
+The article discusses a landmark victory for a group of elderly Swiss women, known as the 'Climate Grannies', in the European Court of Human Rights. The court ruled that Switzerland's climate efforts were insufficient, violating the women's human rights. This case is part of a growing global trend of climate litigation, where the number of cases has risen from 884 in 2017 to 2,180 in 2022. The article highlights several other significant cases, including a group of Portuguese youth suing European countries, and a case in Montana where children won a lawsuit demanding the state consider climate change effects on fossil-fuel projects.
+
+Experts believe this rise in climate litigation is due to increased awareness and frustration with the slow pace of policy action. Climate lawsuits are seen as a way to hold governments and corporations accountable and to give a voice to those most affected by climate change. The article suggests that these cases can have a lasting impact on climate policy and raise public awareness. It also notes that climate litigation is expected to continue growing, with new cases emerging against companies accused of greenwashing and plastic pollution. The article concludes that climate litigation is becoming an essential tool for climate action and justice.
 
 Wed, 10 Apr 2024 12:12:52 +0530
 ### [India among nations with highest hepatitis B and C cases: What are these infections, how to prevent them?](https://www.firstpost.com/explainers/india-highest-hepatitis-b-and-c-infections-13758042.html)

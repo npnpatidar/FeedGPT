@@ -1,3 +1,19 @@
+Thu, 09 May 2024 00:20:00 +0530
+### [Irrational Israel: On the ceasefire proposal and Hamas](https://www.thehindu.com/opinion/editorial/irrational-israel-on-the-ceasefire-proposal-and-hamas/article68153653.ece)
+
+The article discusses the escalating conflict in Gaza following Hamas's acceptance of a ceasefire proposal mediated by Qatar and Egypt. Despite initial celebrations in Rafah, Israel rejected the proposal, stating it did not meet its core demands, and proceeded to send tanks to Rafah, seizing control of the border crossing with Egypt. The Israeli Defence Forces (IDF) have been reported to have killed over 34,000 Palestinians and wounded over 77,000 since October 7, leading to widespread displacement and a humanitarian crisis, including a famine in northern Gaza.
+
+The article criticizes the Israeli government's approach to the conflict, comparing it to the actions of Hamas and suggesting that Israel's military performance has not lived up to its historical reputation. It argues that a continued war would further isolate Israel internationally, especially with a genocide case pending at the UN's top court. The article concludes by advocating for a negotiated ceasefire that includes the release of all hostages and an IDF withdrawal, noting Hamas's willingness to agree to such terms. The question remains whether Israeli Prime Minister Benjamin Netanyahu will agree to the ceasefire.
+
+Thu, 09 May 2024 00:10:00 +0530
+### [A sob story: on onion exports](https://www.thehindu.com/opinion/editorial/a-sob-story-on-onion-exports/article68150034.ece)
+
+The article discusses the Indian government's recent changes to onion export policies. After a six-month ban due to high prices and supply concerns, the government has categorized onion exports as 'free' with a minimum export price of $550 per tonne and an additional 40% levy. This decision follows an earlier allowance of 2,000 tonnes of white onion exports, which led to accusations of preferential treatment for Gujarat farmers just before the state's Lok Sabha vote. The Centre justified the export of white onions, which are more costly to produce, by stating it would aid Maharashtra, India's largest onion producer.
+
+The timing of the export policy change is notable as it precedes the voting in Maharashtra's onion farming regions. The Centre argues that the decision is based on stable mandi prices and adequate supplies. However, the viability of exports is questionable due to the floor price and export duty, making them feasible only if domestic prices are around ₹64 per kilo or higher. The article also notes that international onion prices are decreasing as Egypt and Pakistan lifted their export restrictions earlier than India.
+
+The article suggests that the export curbs, expected to last until the next government takes charge, will have lasted almost a year, potentially affecting farmers' decisions to sow onions. It highlights the need for nuanced policymaking, considering the long-term context of onion prices and the impact of export bans on farmers' incomes. The current policy does not seem to encourage sowing, which is detrimental to controlling inflation and achieving India's goal of becoming a global food supplier. The article concludes by reflecting on the complex balance between consumer interests and farmer welfare.
+
 Wed, 08 May 2024 00:20:00 +0530
 ### [Searching for a wave: On the general election so far](https://www.thehindu.com/opinion/editorial/searching-for-a-wave-on-the-general-election-so-far/article68150202.ece)
 
