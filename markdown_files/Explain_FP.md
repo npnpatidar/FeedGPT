@@ -1,3 +1,24 @@
+Wed, 8 May 2024 09:37:51 +0530
+### [Are low voter turnouts leaving the Indian stock market jittery?](https://www.firstpost.com/explainers/are-low-voter-turnouts-leaving-the-indian-stock-market-jittery-13768411.html)
+
+The article discusses the impact of the 2024 Lok Sabha elections on the Indian stock market, highlighting the volatility caused by reports of low voter turnout. The India VIX, Sensex, and Nifty have shown bearish trends, with the VIX experiencing its longest streak of increases since March 2020. The Sensex and Nifty have also seen significant drops, with a combined market capitalisation fall of Rs 11 lakh crore among BSE-listed stocks.
+
+The low voter turnout is speculated to affect the electoral prospects of the BJP and Prime Minister Narendra Modi, potentially challenging the continuity of economic reforms and policy initiatives. However, SBI Research suggests that the number of absolute voters has increased, and other factors such as market correction, global economic shifts, and Foreign Institutional Investors' actions are also influencing the market.
+
+The article concludes that while voter turnout has an impact, it's essential to consider a broader range of factors affecting the Indian financial markets. As the elections progress, the market's focus will likely shift based on new political and economic data. The conclusion of the elections on June 4 may bring further adjustments in market sentiments.
+
+Wed, 8 May 2024 09:21:32 +0530
+### [Prince Harry returns to UK to mark 10 years of Invictus Games: What are they?](https://www.firstpost.com/explainers/prince-harry-uk-10-years-invictus-games-what-are-they-13768153.html)
+
+Prince Harry is returning to the UK to mark the 10th anniversary of the Invictus Games, a sports event he founded for wounded and injured military personnel. The anniversary will be celebrated with a service at St. Paul's Cathedral on May 8th, where Harry will give a reading. Despite relocating to the US with his wife Meghan in 2020, Harry has made several visits back to the UK for significant family events.
+
+The Invictus Games were inspired by Harry's visit to the Warrior Games in the US and were established to use sport to help with recovery and rehabilitation for servicemen and women. The next Invictus Games are scheduled for February 8-16, 2025, in Vancouver and Whistler, Canada, introducing winter sports to the event. Discussions are ongoing for Nigeria to potentially host future games, and Harry and Meghan are expected to visit the country soon. The Invictus Games Foundation has shortlisted Washington, DC, and Birmingham, UK, as potential hosts for the 2027 games, with a decision expected by the end of July. The Games continue to draw athletes from over 20 countries, demonstrating the enduring relevance and impact of the event.
+
+Wed, 8 May 2024 08:09:14 +0530
+### [In Graphics l How heatwaves will grip India](https://www.firstpost.com/explainers/graphics-heatwaves-india-imd-prediction-13768292.html)
+
+India is currently experiencing a severe heatwave, with temperatures reaching around 40 degrees Celsius in many parts. The India Meteorological Department (IMD) has issued warnings for potential heatwaves in the interior regions of Karnataka, Tamil Nadu, and Telangana. Additionally, Rajasthan, Gujarat, and Madhya Pradesh are expected to face extreme heat conditions, with the situation in Rajasthan and western Madhya Pradesh likely to persist until Friday. The IMD has also noted that this year's heatwaves could last significantly longer than usual, ranging from 10 to 20 days, as opposed to the typical duration of four to eight days. The warnings are in place until May 11.
+
 Wed, 8 May 2024 06:00:11 +0530
 ### [FirstUp: Xi Jinping in Hungary, Harry returns to UK... The headlines today](https://www.firstpost.com/explainers/firstup-xi-jinping-in-hungary-harry-returns-to-uk-the-headlines-today-13768256.html)
 

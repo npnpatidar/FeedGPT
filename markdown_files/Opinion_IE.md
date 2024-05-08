@@ -1,3 +1,48 @@
+Wed, 08 May 2024 03:00:24 +0000
+### [No, Pakistan’s employment picture isn’t better than India](https://indianexpress.com/article/opinion/columns/no-pakistans-employment-picture-isnt-better-than-india-9314843/)
+
+The article discusses the transformation of India's labor market, challenging the notion that high unemployment rates are the primary issue. It argues that the real problem is not unemployment but low wages. The author criticizes the use of the CMIE Consumer Pyramids Household survey for labor market analysis due to its inconsistencies and suggests that the Ashoka University's pause in using this survey indicates a need for more rigorous data.
+
+The piece highlights the policy approach termed 'Madhyam Marg,' which balances welfare state efficiency, digital public infrastructure, and private sector productivity to address poverty, hunger, shelter, and health. It emphasizes the importance of formalizing employment, improving infrastructure, and reducing regulatory burdens to boost job creation.
+
+The author also reflects on economist Alfred Marshall's theory of time periods in economics, applying it to the labor market to explain the dynamics of supply, demand, and wages. The article concludes by urging offshore Indian economists to recognize India's progress and contribute positively rather than dismissing it. The writer is associated with Teamlease Services. 
+
+Please note that the summary omits unrelated content and focuses on the key points of the labor market discussion presented in the article. If you need more details or have specific questions about the article, feel free to ask!
+
+Wed, 08 May 2024 02:50:31 +0000
+### [According to SC, it is ‘pregnant persons’](https://indianexpress.com/article/opinion/editorials/according-to-sc-it-is-pregnant-persons-9314855/)
+
+The Supreme Court of India, led by Chief Justice D Y Chandrachud, has taken a progressive step by extending the definition of pregnancy to include non-binary and transgender men, in addition to cisgender women. This was highlighted in a case involving a minor's pregnancy termination, where the term "pregnant person/(s)" was used to acknowledge a broader gender spectrum. The Court's decision is part of its efforts to promote gender-neutral language and combat gender stereotypes within the legal system. This move is seen as a significant stride towards inclusive legal protections for all individuals capable of pregnancy and aligns with the Court's previous judgment advocating for legislative safeguards for same-sex couples. The shift in language is expected to influence a broader understanding of gender and family in legal contexts.
+
+Wed, 08 May 2024 02:30:27 +0000
+### [Why can’t George Lucas make changes to ‘Star Wars’?](https://indianexpress.com/article/opinion/editorials/why-cant-george-lucas-make-changes-to-star-wars-9314851/)
+
+The article discusses the contentious issue of artists altering their previous works. It references George Lucas's modifications to the original Star Wars trilogy, which sparked debate among fans about the nature of artistic ownership and the right to revise art. The piece also touches on historical precedents, such as Arthur Conan Doyle's decision to resurrect Sherlock Holmes due to fan demand, and the common practice in various media to retcon for consistency. The central argument is that creation is an ongoing process aimed at perfection, and while fans' emotional attachments are significant, they do not negate the artist's right to refine their work. The article concludes by affirming the artist's prerogative to make changes in pursuit of their vision.
+
+Wed, 08 May 2024 02:25:26 +0000
+### [Uttarakhand forest fire: Climate-proof the state](https://indianexpress.com/article/opinion/editorials/uttarakhand-forest-fire-climate-proof-the-state-9314854/)
+
+The article discusses the severe forest fires in Uttarakhand, India, which have claimed lives and spread over 1,000 hectares. The fires pose a threat to populated areas, including Nainital city, and have been exacerbated by poor visibility affecting firefighting efforts. Experts link the fires to increased heat and black carbon emissions, impacting water systems and air quality. The state government attributes the fires to human activities and has implemented bans on setting fires and burning waste near forests as emergency measures.
+
+The article emphasizes that nearly 95% of forest fires are human-induced, with historical practices like burning pine needles now becoming destructive. The fire season, typically from February to June, is starting earlier due to climate changes, with Uttarakhand experiencing its driest April in five years. The forest department has taken steps like creating firelines, but more proactive measures are needed, including weather prediction systems, satellite monitoring, and community training for first response.
+
+The article concludes by highlighting the need for climate-proofing the ecologically sensitive region of Uttarakhand, which regularly suffers from natural calamities worsened by poor policy decisions. It calls for a collective effort from various experts to address the climate crisis and protect the environment.
+
+Wed, 08 May 2024 02:09:27 +0000
+### [May 8, 1984, Forty Years Ago: P V Narasimha Rao tries to break ethnic deadlock in Sri Lanka](https://indianexpress.com/article/opinion/40-years-ago/may-8-1984-forty-years-ago-p-v-narasimha-rao-tries-to-break-ethnic-deadlock-in-sri-lanka-9314847/)
+
+Here's a summary of the key points from the article:
+
+- **Sikh Conference in Birmingham**: A conference in Birmingham witnessed tensions among Sikh groups over a resolution for an independent Khalistan. An amended resolution, proposed by Giani Amolak Singh, to implement the Anandpur Resolution was passed by a majority.
+
+- **Bus Accident Near Allahabad**: A tragic accident occurred when a bus touched high-tension electric wires, resulting in the electrocution of 40 people, including children and women. Another 40 passengers survived by jumping out of the bus.
+
+- **India-Europe Economic Relations**: India and the European Economic Community have decided to explore improved market access for Indian products. The EEC is considering funding specific Indian projects in agriculture, energy, and high technology.
+
+- **Stalemate in Sri Lanka**: India is advocating for a resolution to the ethnic conflict in Sri Lanka, emphasizing the urgency to break the deadlock at the all-party conference to prevent worsening ethnic tensions.
+
+- **Political Changes in BSP**: Mayawati has removed her nephew Akash Anand from the roles of BSP national coordinator and political successor, citing the party's interest. He will continue to serve in other capacities within the party.
+
 Tue, 07 May 2024 13:52:19 +0000
 ### [As America deals with woke mobs on campuses, its hypocrisy on CAA-Shaheen Bagh protests stands exposed](https://indianexpress.com/article/opinion/columns/america-deals-woke-mobs-campuses-hypocrisy-caa-shaheen-bagh-protests-stands-exposed-9314269/)
 

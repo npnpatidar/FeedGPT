@@ -1,3 +1,28 @@
+Wed, 08 May 2024 02:15:15 +0000
+### [3-phase ceasefire deal that Hamas backed; Israel rejected as ‘soft’](https://indianexpress.com/article/explained/explained-global/3-phase-ceasefire-deal-that-hamas-backed-israel-rejected-as-soft-9314872/)
+
+The article discusses two main topics:
+
+**Israeli-Gaza Conflict:**
+- Israeli forces took control of the Rafah border crossing in Gaza.
+- Hamas proposed a ceasefire and prisoner swap deal, which Israel rejected.
+- The proposed deal included a 42-day ceasefire, release of hostages and prisoners, humanitarian aid entry, troop withdrawals, cessation of military flights, and a plan for Gaza's reconstruction.
+
+**Indian Politics:**
+- Mayawati, leader of the Bahujan Samaj Party (BSP), removed her nephew Akash Anand from the position of national coordinator and heir apparent.
+- The decision was announced on social media, citing the party's benefit, and Akash will now take on other roles within the party.
+
+The article provides a detailed account of the proposed ceasefire deal between Israel and Hamas, including specific terms and timelines, as well as a brief update on a change in leadership roles within the BSP in India.
+
+Wed, 08 May 2024 01:45:51 +0000
+### [A history of Lok Sabha elections: Indira Gandhi’s triumph and tragedy](https://indianexpress.com/article/explained/a-history-of-lok-sabha-elections-indiras-triumph-tragedy-9314864/)
+
+The article provides a historical overview of the political turmoil in India during the late 1970s and early 1980s. It begins with the defeat of Indira Gandhi and the rise of the Janata Party, highlighting the prominent figures in Morarji Desai's cabinet. The Janata Party's internal conflicts and the dismissal of Congress-ruled state governments are discussed, leading to the eventual fall of the Janata government. Charan Singh's brief tenure as Prime Minister and the subsequent political maneuvers, including the formation of the Bharatiya Janata Party (BJP) from a faction of the Janata Party, are detailed.
+
+The article then shifts to the 1980 general elections, where Indira Gandhi's Congress (I) made a significant comeback. The aftermath of the elections saw the dissolution of non-Congress state governments and the tragic death of Sanjay Gandhi. The narrative concludes with the challenges faced by Indira Gandhi, including Operation Blue Star and her assassination, which led to Rajiv Gandhi becoming Prime Minister.
+
+The article also touches upon the issue of "dual membership" within the Janata Party and the political realignments that followed, including the establishment of the BJP with its new symbol, the 'Lotus'. The piece ends with a reflection on the separatist movement in Punjab and the events leading up to and following Indira Gandhi's assassination.
+
 Tue, 07 May 2024 14:17:17 +0000
 ### [Why electric vehicles are at the heart of trade frictions between China and Europe](https://indianexpress.com/article/explained/explained-global/electric-vehicles-china-europe-9314295/)
 

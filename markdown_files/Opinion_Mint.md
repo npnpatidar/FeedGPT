@@ -1,3 +1,17 @@
+Wed, 08 May 2024 08:30:03 +0530
+### [CBI vs banks on fraud: It’s not too late to set the record straight](https://www.livemint.com/opinion/online-views/cbi-vs-banks-on-fraud-it-s-not-too-late-to-set-the-record-straight-11715091067759.html)
+
+The article discusses the complexities surrounding the classification of 'fraud accounts' in Indian banking, in light of a Supreme Court ruling that requires borrowers to be given a hearing before their accounts are labeled as fraud. Banks are seeking a review of this ruling due to the Central Bureau of Investigation's (CBI) interpretation that it should apply retrospectively, which banks disagree with. The article argues that banks already follow due process in dealing with defaulting borrowers, often engaging extensively to recover dues before labeling an account as fraud. It suggests that the Supreme Court should clarify that its ruling is meant for prospective application to prevent the reopening of past cases and potential legal disputes over what constitutes a hearing. The author warns against the negative impact on credit discipline and the broader economy if legal challenges by borrowers lead to reduced lending to riskier ventures. The article concludes by emphasizing the importance of maintaining progress in credit discipline for the health of the banking sector and the economy at large.
+
+Wed, 08 May 2024 07:15:18 +0530
+### [E-rupee: Maximize its appeal](https://www.livemint.com/opinion/quick-edit/erupee-maximize-its-appeal-11715091749858.html)
+
+The article discusses the evolution of India's central bank digital currency (CBDC), the e-rupee, which has been in test mode since 2022. The e-rupee is expected to become accessible offline, enhancing user convenience. It may also be made programmable for more flexibility compared to UPI transfers. However, for it to truly replace cash, it requires anonymity.
+
+The RBI governor, Shaktikanta Das, mentioned that transactions could be technologically erased from records, but legislative support would strengthen the promise of anonymity. With the e-rupee still under development, it's an opportune moment for national debate on its design.
+
+The article suggests that for the RBI's CBDC to achieve global success, it should integrate technological innovations with the best aspects of traditional currency, including purchasing power and assured privacy.
+
 Tue, 07 May 2024 18:24:42 +0530
 ### [Hindujas get a 360-degree makeover but need to smoothen rough edges](https://www.livemint.com/opinion/online-views/hindujas-bofors-scandal-ashok-leyland-gocl-corp-nxt-digital-hinduja-global-indusind-bank-11715073078718.html)
 
