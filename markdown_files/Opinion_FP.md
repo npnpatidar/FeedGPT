@@ -1,3 +1,19 @@
+Wed, 8 May 2024 21:07:48 +0530
+### [Ramification | Myanmar: Why India should not put all its ‘eggs’ in military junta’s basket alone](https://www.firstpost.com/opinion/ramification-myanmar-why-india-should-not-put-all-its-eggs-in-military-juntas-basket-alone-13768754.html)
+
+The article discusses the ongoing conflict in Myanmar, three years after the military coup, highlighting the significant role of Ethnic Armed Organisations (EAOs) in the resistance against the junta. It details the coordinated efforts of EAOs, particularly after Operation 1027, which led to widespread rebellion and reduced junta control to 30-40% of the country. Despite this, the junta's counter-offensive remains strong, with larger access to weapons and experience.
+
+The article also touches on the strategic importance of the town of Myawaddy and the Border Guard Force's (BGF) role in the region, including a warning issued to foreigners involved in online scams and gambling operations. It notes China's strategic moves in Myanmar, including support for the junta and investments in various projects, which have resumed trade through the northern Shan state.
+
+India's involvement in Myanmar is also discussed, with its Act East policy and infrastructure projects like the Asian Trilateral Highway and the Kaladan Multi-Modal Transit Transport project. However, India faced setbacks due to US sanctions against the junta. The article suggests that India should engage with EAOs to secure its investments and balance China's influence in Myanmar.
+
+The author, an anthropologist and scholar of the northeast region of India, argues that India's proactive stance and strategic autonomy allow it to navigate complex security matters and advocate for peace and democracy. The article concludes that India's engagement with EAOs is crucial as they are now key stakeholders in Myanmar's conflict. The views expressed are personal and do not necessarily reflect those of the publication.
+
+Wed, 8 May 2024 18:09:03 +0530
+### [Book Excerpts | Kathmandu Chronicle: Why Nepal seems stuck in an unending transition](https://www.firstpost.com/opinion/book-excerpts-kathmandu-chronicle-why-nepal-seems-stuck-in-an-unending-transition-13768648.html)
+
+The article discusses the complex and fluctuating relationship between India and Nepal, emphasizing the need for a fresh start. It reflects on Nepal's political upheavals, the establishment of democracy, and the challenges of governance and corruption. The authors argue for a reimagined partnership between the two nations, rooted in their deep historical and cultural ties, rather than transactional diplomacy. They highlight the importance of addressing longstanding issues like the 1950 Treaty and border disputes with empathy and mutual respect. The article also touches on the influence of China in Nepal's politics and the broader South Asian region, suggesting that India must recalibrate its foreign policy to foster trust and cooperation with its neighbors, particularly Nepal. The piece is an extract from the book "Kathmandu Chronicle: Reclaiming India-Nepal Relations" by K.V. Rajan and Atul K. Thakur, which offers insights into the countries' bilateral relations and advocates for a stronger, more inclusive partnership. The views expressed are personal to the authors.
+
 Wed, 8 May 2024 15:43:58 +0530
 ### [Why Uttarakhand forests are on fire this season](https://www.firstpost.com/opinion/why-uttarakhand-forests-are-on-fire-this-season-13768602.html)
 

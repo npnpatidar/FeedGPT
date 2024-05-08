@@ -1,3 +1,10 @@
+Wed, 08 May 2024 14:08:51 +0000
+### [The British reduced all tawaifs to sex workers – so has Sanjay Leela Bhansali in Heeramandi](https://indianexpress.com/article/opinion/tawaifs-sex-workers-sanjay-leela-bhansali-heeramandi-9316484/)
+
+The article is a critique of the Netflix series "Heeramandi," which portrays the lives of tawaifs (courtesans). The author, who has spent 15 years reviving the art of tawaifs, praises the series' production quality but criticizes its content for reinforcing negative stereotypes. The series is said to depict tawaifs as scheming for wealth and sexual favors, ignoring their historical role as educated, accomplished artists. The author argues that the series conflates different categories of performers and fails to acknowledge the tawaifs' dedication to perfecting their art forms. The series also inaccurately mixes cultural elements from Awadh and Lahore, further distorting history. The author expresses concern that the series will perpetuate misconceptions about Kathak dancers and tawaifs, and laments the missed opportunity to accurately represent and honor the tawaifs' contributions to Indian cultural history. The article ends by noting the founder of The Courtesan Project, Chaturvedi, as the author.
+
+The unrelated content regarding Ranveer Singh's Instagram and the UPSC Magazine has been omitted from the summary.
+
 Wed, 08 May 2024 10:43:39 +0000
 ### [In Uttar Pradesh, SP and BSP are following BJP’s playbook. It’s not so easy to pull off](https://indianexpress.com/article/opinion/columns/uttar-pradesh-sp-bsp-following-bjp-playbook-not-easy-9315905/)
 

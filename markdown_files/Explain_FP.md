@@ -1,3 +1,72 @@
+Wed, 8 May 2024 21:00:45 +0530
+### [The Rise of Ghost Malls: Why Indian shoppers are staying away from small shopping centres](https://www.firstpost.com/explainers/india-sees-rise-in-ghost-malls-knight-frank-report-13768516.html)
+
+The article discusses the increasing trend of 'ghost malls' in India, which are shopping centers with high vacancy rates and low footfall. The Knight Frank India report "Think India Think Retail 2024" indicates that despite a surge in Gross Leasable Area (GLA) in prime markets, the number of ghost malls rose from 57 in 2022 to 64. These malls are struggling due to shifts in consumer behavior towards online shopping and the appeal of larger, high-end malls. Factors contributing to their decline include poor design, management issues, lack of maintenance, and an unattractive mix of retailers.
+
+The report highlights that smaller malls (less than 1 lakh square feet) have a vacancy rate of 36.2%, pushing them towards becoming ghost malls. In contrast, Grade A malls are thriving with high occupancy and foot traffic. The cities with the most ghost malls are Delhi-NCR, Bengaluru, Mumbai, Kolkata, Hyderabad, Ahmedabad, Chennai, and Pune. Hyderabad, however, has seen a decrease in such malls. The report also notes that some underperforming malls have been demolished or repurposed.
+
+In tier II cities, Lucknow, Kochi, and Jaipur lead in GLA for shopping centers. The report estimates a revenue loss of Rs 6,697 crore for developers due to the vacancy of 13.3 million square feet of mall space in 2023. The article concludes with a statement from Gulam Zia of Knight Frank, who suggests that small malls are unable to compete with the convenience and variety offered by larger malls, leading to their imminent closure.
+
+Wed, 8 May 2024 21:00:43 +0530
+### [Malaysia's orangutan diplomacy: How India might get great apes for importing palm oil](https://www.firstpost.com/explainers/malaysias-orangutan-diplomacy-13768711.html)
+
+Malaysia is initiating a unique form of diplomacy by planning to send orangutans to major palm oil importers like India and the EU, mirroring China's panda diplomacy. This move follows the EU's ban on commodities linked to deforestation, including palm oil. Malaysia's Commodities Minister, Johari Abdul Ghani, announced the "orangutan diplomacy" as a commitment to biodiversity conservation and a proactive approach to the palm oil issue. The strategy aims to collaborate with NGOs for wildlife preservation and technical expertise.
+
+The EU's deforestation-linked law has been criticized by Malaysia, which argues it unfairly targets their palm oil industry, essential for the country's economy and a significant part of global production. Orangutans, which are critically endangered and threatened by habitat loss due to palm oil plantations, are native to Malaysia and Indonesia. The World Wildlife Fund has warned of the declining orangutan population, with estimates suggesting a significant decrease by the following year if protective measures are not implemented. The article also mentions Malaysia's past reception of pandas from China and discusses the potential rebranding of plantation workers to reduce reliance on migrant labor. The summary omits unrelated content as per the request.
+
+Wed, 8 May 2024 20:57:27 +0530
+### [80 Years of Normandy landings: How US soldiers raped hundreds of French women](https://www.firstpost.com/explainers/80-years-normany-landings-d-day-world-war-2-us-soliders-rape-french-women-13768646.html)
+
+The article recounts the untold suffering of French women who were victims of rape and assault by American soldiers following the D-Day landings in 1944. Despite the liberation and victory over Nazi Germany, these women experienced a darker side of the American presence in France. Aimee Dupre, a survivor, shares her mother's harrowing experience of being raped by American soldiers to protect her daughter. Historian Mary Louise Roberts estimates that hundreds, if not thousands, of such assaults occurred but went largely unreported.
+
+The article also discusses the racial dynamics within the US military justice system, highlighting that nearly all soldiers sentenced to death for rape were African American. This reflects the segregationist policies of the time and suggests a scapegoating of Black soldiers to protect the reputation of white Americans. The legacy of these events is complex, with survivors and historians facing backlash for bringing these stories to light, challenging the idealized narrative of the "good war" and the "good GI." The article includes inputs from AFP.
+
+Wed, 8 May 2024 20:32:34 +0530
+### [Air India Express crisis: How flight cancellations caused chaos at Delhi, Kerala airports](https://www.firstpost.com/explainers/air-india-express-crisis-flight-delhi-kerala-airports-13768747.html)
+
+Air India Express faced significant disruptions after cancelling over 80 flights on a single day, affecting thousands of passengers. The cancellations were due to a mass 'sick leave' reported by senior crew members. The Civil Aviation Ministry has requested a report from the airline and emphasized the need for adherence to DGCA norms. The cancellations have led to stranded passengers and calls for action from affected individuals, including former J&K CM Ghulam Nabi Azad.
+
+The underlying issues appear to stem from discontent among the airline's staff following its merger with AirAsia India, now AIX Connect, and the subsequent changes in employment terms under the Tata Group's ownership. The Air India Express Employees Union has raised concerns over inequality in treatment and employment terms, which has affected employee morale and performance. The airline's CEO has acknowledged the situation and indicated a temporary reduction in flight schedules to manage the crisis. Passengers affected by the cancellations have been offered refunds or rescheduling options.
+
+Wed, 8 May 2024 20:26:32 +0530
+### [Quicksplained: Why Argentina launched 10,000-peso banknote worth only $11](https://www.firstpost.com/explainers/argentina-launched-10000-peso-banknote-13768756.html)
+
+Argentina is grappling with severe inflation, prompting the release of a new 10,000-peso banknote to ease the burden of carrying large amounts of cash for everyday transactions. Despite being the largest denomination, the note is only worth about $11.34 due to the peso's 95% devaluation over five years. The note features national icons Manuel Belgrano and Maria Remedios del Valle and is part of efforts to simplify financial logistics and reduce costs. Printed by China Banknote Printing and Minting Corporation, the note's introduction follows the 2,000-peso note issued a year prior. Amidst economic challenges, President Javier Milei has implemented austerity measures to address the crisis, with some success in reducing monthly inflation, though the IMF forecasts a bleak economic outlook for Argentina in the short term. A 20,000-peso note is planned for later this year, reflecting the ongoing struggle with hyperinflation.
+
+Wed, 8 May 2024 19:47:29 +0530
+### [Fish are getting smaller and that may be a problem. Why?](https://www.firstpost.com/explainers/fish-are-getting-smaller-and-that-may-be-a-problem-why-13768724.html)
+
+The article discusses a global trend of decreasing fish sizes, which has been observed from 1960 to 2020. The shrinkage is attributed to **overfishing** and **climate change**, with nearly three-fourths of marine fish populations affected. This poses a threat to food security for billions and could disrupt marine ecosystems and economies.
+
+Scientists are investigating the causes, with theories like the **temperature-size rule**, which suggests warmer waters increase oxygen demand and limit growth. However, this is debated, and other factors may also play a role. The impact of smaller fish includes potential changes in predator-prey dynamics, reproductive strategies, and seafood market prices.
+
+Effective fisheries management and understanding the shrinkage drivers are crucial for sustainability. Some species show resilience, indicating complex ecosystem responses to environmental changes. The article highlights the importance of addressing the root causes to ensure the sustainability of marine resources and food security.
+
+Wed, 8 May 2024 19:10:27 +0530
+### [Not gold or stocks, Lego sets could have the highest returns of all investments. Here’s why](https://www.firstpost.com/explainers/not-gold-or-stocks-lego-sets-could-have-the-highest-returns-of-all-investments-heres-why-13768656.html)
+
+Investing in Lego sets has emerged as a surprisingly profitable venture, often yielding higher returns than traditional investments like gold and stocks. This form of investment involves buying and reselling Lego sets, which can become rare over time, especially those that are discontinued or limited editions. A study by Victoria Dobrynskaya and Julia Kishilova highlighted that Lego sets sold between 1987 and 2015 provided an annual return of 11%, outperforming large-cap stocks, bonds, and gold. Smaller sets tend to yield higher returns, similar to the 'small-firm effect' in stock market investing.
+
+The rise in Lego set prices is driven by adult fans of Lego (AFOLs) who purchase sets for nostalgia, causing demand for old and discontinued kits to increase. Lego Group's policy of not repeating older sets in production further limits supply, raising prices over time. While rare or limited-edition sets can offer quick returns, common sets may take years to appreciate in value.
+
+The investment potential isn't limited to Lego; other collectibles like dolls, action figures, and vintage board games can also fetch high prices. However, the collectible toy market carries risks, such as less liquidity and fluctuating values based on trends and popularity. Unlike traditional assets, collectible toys don't generate income through dividends or interest, and their worth depends on what buyers are willing to pay. The article emphasizes the unique appeal of toy investing, which lies in nostalgia and cultural significance.
+
+Wed, 8 May 2024 18:21:43 +0530
+### [What led to the chaos at Heathrow and other UK airports?](https://www.firstpost.com/explainers/what-led-to-the-chaos-at-heathrow-and-other-uk-airports-13768661.html)
+
+On Tuesday evening, a technical issue with the automated eGates system at key UK airports, including Heathrow, Gatwick, Manchester, and Edinburgh, caused significant delays for arriving passengers. The malfunction, which started at 7:44 pm, led to a four-hour outage where passengers had to undergo manual passport checks, resulting in queues and wait times exceeding two hours. Some passengers were even held on planes due to terminal space constraints.
+
+The eGates system is crucial for UK Border Force operations, handling about 75% of passenger arrivals. It allows for swift identity verification, typically taking 15 seconds, which helps passport control officers focus on high-interest individuals. Despite the inconvenience, the UK Home Office confirmed that border security was not compromised and there was no evidence of cyber attacks.
+
+This incident is not the first, with previous failures highlighting the system's susceptibility to technical issues. Passengers expressed frustration over the chaos and lack of communication, with some missing connecting flights and others experiencing long waits.
+
+The article also mentions ongoing plans to implement "passportless" facial recognition technology to improve efficiency and reduce dependency on manual checks. The eGates system was restored after midnight, and operations have since returned to normal. The UK Home Office has apologized for the inconvenience caused by the outage.
+
+Wed, 8 May 2024 17:54:43 +0530
+### [Why low voter turnout is not just a 2024 problem](https://www.firstpost.com/explainers/lok-sabha-elections-2024-low-voter-turnout-polling-13768664.html)
+
+The article discusses the voter turnout in the first three phases of the 2024 Lok Sabha elections in India, which has seen a decrease compared to the 2019 elections. The third phase recorded a 64.4% turnout, a drop from 67.33% in the same constituencies in 2019. The first two phases also saw reduced participation. The Election Commission of India (ECI) data indicates that this is not a new trend, as voter turnout has historically been low, never crossing the 70% mark. The highest was 67.4% in 2019. Urban apathy, particularly in metropolitan areas, is cited as a significant factor for the low turnout. Other reasons include the challenges faced by migrant workers in voting, such as travel costs and wage loss, and extreme heat conditions. The article suggests that low voter turnout can sometimes indicate trouble for the ruling party, but this is not a definitive rule. The ECI is concerned about the large number of electors not voting and is considering measures like remote voting to improve participation. The final voter turnout for the third phase might increase, but it's uncertain if it will surpass the 2019 figures. The article concludes with insights from experts on the implications of low voter turnout.
+
 Wed, 8 May 2024 17:05:44 +0530
 ### [Boy Scouts of America is now Scouting America: Why the name change is a big deal](https://www.firstpost.com/explainers/boy-scouts-of-america-scouting-america-rebranding-13768538.html)
 

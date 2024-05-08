@@ -1,3 +1,14 @@
+Wed, 08 May 2024 15:33:31 +0530
+### [Israel bans Al Jazeera: A look at the history of its feud, the network’s coverage of Gaza & accusations](https://www.thehindu.com/news/international/israel-bans-al-jazeera-a-look-at-the-history-of-its-feud-the-networks-coverage-of-gaza-accusations/article68150990.ece)
+
+The article reports on the escalating conflict between Israel and Hamas, focusing on the Israeli government's decision to shut down Al Jazeera's operations in Israel. The closure, which occurred on World Press Freedom Day, was justified by Prime Minister Netanyahu as a response to Al Jazeera's alleged incitement and harm to Israel's security. Al Jazeera has been reporting live from Gaza since the conflict began with a Hamas attack on October 7, 2023.
+
+Al Jazeera has criticized the closure as a violation of human rights and a suppression of the free press, vowing to pursue legal channels to protect its journalists and the public's right to information. The Israeli law, passed on April 1, 2024, allows for the temporary ban of foreign news outlets considered a security threat, enabling the confiscation of their equipment.
+
+The article details Al Jazeera's coverage of the conflict, including the initial Hamas-led attack, continuous air attacks by Israel, and counter-claims by Al Jazeera challenging IDF's accusations of sexual violence by Hamas. It also highlights the network's reporting on civilian casualties, the siege of Gaza, and protests in Israel demanding Prime Minister Netanyahu's resignation and a ceasefire.
+
+Furthermore, the article touches on Al Jazeera's history of tension with the Israeli government, including past incidents leading to sanctions and threats of closure. The current ban comes amidst Qatar's mediation efforts for a ceasefire, with Hamas accepting a proposal while Israel continues its military operations. The ceasefire deal under discussion includes the withdrawal of Israeli forces, the return of displaced Palestinians, and an exchange of captives and prisoners. Negotiations are ongoing, despite continued Israeli attacks on Rafah.
+
 Wed, 08 May 2024 15:30:17 +0530
 ### [All about FLiRT, the new COVID-19 variants | Explained](https://www.thehindu.com/sci-tech/health/all-about-flirt-the-new-covid-19-variants-explained/article68144878.ece)
 
