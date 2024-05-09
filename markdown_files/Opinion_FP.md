@@ -1,3 +1,16 @@
+Thu, 9 May 2024 19:00:12 +0530
+### [US campus protests: What Indian students, parents and professors need to know to get serious about future](https://www.firstpost.com/opinion/us-campus-protests-what-indian-students-parents-and-professors-need-to-know-to-get-serious-about-future-13769144.html)
+
+The article discusses the complex socio-political dynamics at American universities, particularly concerning Indian international students. It highlights the contrast between the small investments made by Indian families in their children's education abroad and the massive influence of foreign governments and lobbies on American campuses. The piece delves into the ideological divides and the increasing normalisation of violence and moral relativism, which are causing a metaphorical "Partition" among communities.
+
+The author argues that American universities have become battlegrounds for inter-civilisational conflicts, with foreign investments shaping the narrative and influencing young American minds. The article traces the evolution of university culture from the Cold War era to the present, noting a shift from classical education to a focus on critique and identity politics, which has led to a dominant belief that America must change fundamentally.
+
+The piece also examines the generational challenges faced by 'Gen Z' students, who are depicted as emotionally vulnerable and influenced by social media and smartphone technology. It suggests that Indian students maintain a sense of traditional duty and purpose, contrasting with the declining interest in long-term relationships and family responsibilities among Western youth.
+
+Furthermore, the article addresses the issue of Hinduphobia on campuses, the pressures faced by Hindu students, and the need for generational support from parents and community leaders. It calls for a multi-generational effort to engage with the challenges posed by global politics and cultural shifts.
+
+The author concludes with a Subhashitam (wise saying) that metaphorically compares the influence of foreign investments in American education to a forest fire, questioning the future of students from a culture of knowledge and wisdom against such odds. The piece ends on a contemplative note, questioning whether American higher education will rediscover its core values. The views expressed are personal and do not reflect those of Firstpost. The writer is a professor and author, and the piece is part of a series.
+
 Thu, 9 May 2024 16:20:52 +0530
 ### [Xenophobia: Time for Biden to confront the ghosts of America's own past](https://www.firstpost.com/opinion/xenophobia-time-for-biden-to-confront-the-ghosts-of-americas-own-past-13769076.html)
 

@@ -1,3 +1,12 @@
+Thu, 09 May 2024 13:48:25 +0000
+### [Sanjiv Goenka-K L Rahul standoff: IPL owners own teams, not players](https://indianexpress.com/article/opinion/columns/sanjiv-goenka-k-l-rahul-standoff-ipl-owners-own-teams-not-players-9318731/)
+
+The article discusses the recent behavior of IPL team owners and its impact on the league's image. It highlights incidents where owners publicly reprimanded players, such as Lucknow Super Giants' owner Sanjiv Goenka's confrontation with captain KL Rahul after a loss, and Delhi Capitals' co-owner Parth Jindal's outburst during a match. Commentators Graeme Smith and Scott Styris criticized these actions, suggesting such discussions should be private.
+
+The article argues that IPL owners should not undermine the cricketers who attract fans and that they own the teams, not the players. It criticizes the IPL auction process for giving owners a false sense of ownership over players and emphasizes that sports cannot be run like a business with regular dividends. The piece also mentions a controversy involving broadcaster Star Sports, which was accused of pitting commentators against each other, including a dispute involving Virat Kohli's criticism of commentators' credentials.
+
+The author suggests that the IPL, still in its teenage years compared to other global sports leagues, needs to mature and learn from leagues where owners respect the sanctity of the team and the sport. The article concludes that the IPL has the potential to evolve and that player pushback could help maintain the league's integrity.
+
 Thu, 09 May 2024 12:13:23 +0000
 ### [Galgotias University is not alone: Empty jargon at institutes mirrors students’ political slogans](https://indianexpress.com/article/opinion/columns/galgotias-university-empty-jargon-institutes-mirrors-students-political-slogans-9318499/)
 
