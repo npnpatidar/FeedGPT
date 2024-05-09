@@ -1,3 +1,15 @@
+Thu, 09 May 2024 02:06:11 +0000
+### [Once upon a tram: The story of India’s tramways](https://indianexpress.com/article/explained/explained-history/story-of-indias-trams-tramways-mumbai-9316868/)
+
+The article provides a historical overview of tram services in India, marking the **150th anniversary** of Bombay's first horse-drawn trams which started on **May 9, 1874**. Initially, these trams were slow and economically challenging due to the high number of horses required for operation. Tram services spread to various cities like Patna, Nasik, and Calcutta, where they underwent several transformations, including attempts at steam locomotives which were ultimately unsuccessful due to reliability and pollution issues.
+
+The advent of electric tramways began in Madras in 1895, offering a cleaner and quieter alternative to horse and steam-powered trams. Calcutta and Bombay followed with their own electric trams in the early 1900s. However, by the 1960s, tramways had largely disappeared from Indian cities due to the rise of more efficient transport options like suburban railways and buses, as well as issues like low ridership and economic losses. Today, Kolkata is the only Indian city with operational trams, although they face the threat of discontinuation. The article concludes by noting that this is an edited version of an explainer originally published on February 24, 2023.
+
+Thu, 09 May 2024 01:25:03 +0000
+### [Explained: History of India and Nepal’s border issue](https://indianexpress.com/article/explained/explained-history-of-india-and-nepals-border-issue-9316954/)
+
+The article discusses the ongoing territorial dispute between India and Nepal over a 372-sq-km area that includes Limpiadhura, Lipulekh, and Kalapani. Nepal's decision to depict these areas on its Rs 100 currency note has been met with criticism and skepticism within Nepal and has provoked a response from India's External Affairs Minister, stating that unilateral actions will not change the ground reality. The dispute dates back to historical treaties and maps, with Nepal claiming historical and evidential ownership, while India maintains control. Despite agreements to resolve the issue diplomatically, there has been little progress, and recent political developments in Nepal have brought the issue back into focus. The article also touches on Nepal's past boundary resolution with China and the potential for future hardships due to the unresolved border issue with India. The situation remains complex, with no consensus within Nepal's political parties and no set timeframe for diplomatic resolution between the two countries.
+
 Wed, 08 May 2024 15:31:13 +0000
 ### [US Army soldier detained in Russia: Who is he — and why has he been detained?](https://indianexpress.com/article/explained/explained-global/us-army-soldier-detained-russia-9316683/)
 

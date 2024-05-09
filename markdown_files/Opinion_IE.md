@@ -1,3 +1,97 @@
+Thu, 09 May 2024 02:35:24 +0000
+### [Express View: Congress plus, minus](https://indianexpress.com/article/opinion/editorials/express-view-congress-plus-minus-9316843/)
+
+The article discusses the changing dynamics of Indian politics, particularly focusing on the decline of the Congress party and the rise of regional parties. It reflects on the historical shift since the 2014 general election when the BJP emerged as a dominant force and the Congress reached its lowest point in the Lok Sabha. The piece suggests that the erosion of the Congress's influence began much earlier, with the fading of the Nehruvian consensus in the 1960s leading to a more federal political structure and the rise of marginalized social groups forming their own parties.
+
+Sharad Pawar, NCP founder and former Congress leader, predicts that in the coming years, several regional parties may either align more closely with the Congress or consider merging with it, seeing it as beneficial. The article notes that many Indian political parties have their origins in the Congress, having been formed by leaders who left due to ideological differences or after significant political events like the Mandal Commission.
+
+The upcoming 2024 elections are seen as a critical juncture, with the possibility of the opposition uniting under the INDIA formation. However, the success of any potential mergers will depend on various factors, including the Congress's electoral performance. If the Congress does not perform well, it may not serve as a strong political attractor. Regional considerations also play a significant role, as seen in West Bengal, where local political dynamics prevent a seat-sharing arrangement between the Left, Congress, and TMC.
+
+The article concludes by suggesting that the current political fluidity may lead other parties to consider their positions and strategies, especially in light of the BJP's dominance and the need for some regional parties to possibly reunite with the Congress.
+
+The unrelated content about actor Jason Shah and the Netflix series Heeramandi has been omitted from this summary. If you need more details or have any other questions, feel free to ask!
+
+Thu, 09 May 2024 02:34:35 +0000
+### [Sam Pitroda’s crude parallels to explain diversity show how, for some Indians, self-worth is skin deep](https://indianexpress.com/article/opinion/editorials/sam-pitrodas-diversity-remarks-9316917/)
+
+The article discusses the controversy surrounding Sam Pitroda's comments on Indian diversity. Pitroda, the former chairman of the Indian Overseas Congress, faced backlash and lost his position after making remarks in an interview that stereotyped people from different regions of India based on their appearance. The article criticizes his choice of words and suggests that his comments reflect a broader societal issue in India, where skin color and facial features are often given undue importance. It also points out the irony in the outrage against his comments, highlighting that the criticism itself may carry prejudiced undertones, especially regarding the comparison of South Indians to Africans. The article calls for a more nuanced appreciation of India's diversity beyond superficial characteristics.
+
+The unrelated content about actor Jason Shah and the Netflix series Heeramandi has been omitted from this summary. If you need more information or have any other requests, feel free to ask!
+
+Thu, 09 May 2024 02:34:33 +0000
+### [SC verdict in West Bengal teacher recruitment case is a matter of reinforcing trust in public jobs](https://indianexpress.com/article/opinion/editorials/supreme-court-west-bengal-teacher-recruitment-case-9316916/)
+
+The Supreme Court of India provided relief to school teachers and non-teaching staff in West Bengal by staying a Calcutta High Court order that had canceled their appointments due to irregularities in the recruitment process by the West Bengal School Service Commission (SSC). The apex court criticized the SSC and the state government for what it called "systemic fraud" but chose not to annul all appointments, distinguishing between tainted and untainted ones. The CBI will continue its investigation, and those appointed improperly will have to return their salaries.
+
+The controversy began in 2014 when the SSC announced a state-level selection test for teacher recruitment, which led to allegations of improper evaluation of mark sheets and a subsequent CBI investigation. The SSC reportedly destroyed the OMR answer sheets, which should have been foolproof, after a year. The Enforcement Directorate is also conducting a separate investigation. The issue has become a focal point in the Lok Sabha election campaigns, with accusations from political parties about job denials and attempts to rob people of employment. The state's reliance on government jobs for social and economic mobility is highlighted, and the need for transparency and accountability in recruitment is emphasized.
+
+The article also briefly mentions actor Jason Shah's role in the Netflix series Heeramandi, but this content is unrelated to the main topic.
+
+Thu, 09 May 2024 02:33:38 +0000
+### [Do we still need the ‘wilful defaulter’ framework?](https://indianexpress.com/article/opinion/columns/do-we-still-need-the-wilful-defaulter-framework-9316936/)
+
+The article discusses the legal and regulatory issues surrounding the designation of "wilful defaulters" in India's financial sector. The Bombay High Court recently invalidated a government provision that allowed public sector banks to issue look out circulars against wilful defaulters, citing violations of fundamental rights. The court's decision highlights the need for procedural fairness and raises questions about the impartiality of lenders in these proceedings, as they may not be neutral judges in cases where they have a vested interest. The concept of a wilful defaulter, which carries significant penalties and market restrictions, is being scrutinized, especially since the Insolvency and Bankruptcy Code now provides a mechanism for dealing with defaults. The article suggests that policymakers should reconsider the utility of the wilful defaulter framework in light of modern insolvency laws. The author of the article is an Associate Director at Shardul Amarchand Mangaldas & Co., and the views expressed are personal. The unrelated content about actor Jason Shah and the Netflix series Heeramandi has been omitted from this summary.
+
+Thu, 09 May 2024 02:32:53 +0000
+### [How to measure a superpower](https://indianexpress.com/article/opinion/columns/india-superpower-gdp-growth-9316934/)
+
+The article discusses the evolution of India's status as a power on the global stage, drawing parallels from historical concepts of power and rulership. It begins by referencing a book titled "Grasping Greatness, Making India a Leading Power," which explores India's potential to become a leading global power. The article argues that the terms "leading power," "great power," and "super power" are fluid and can change over time, with countries moving up or down the power hierarchy.
+
+The author suggests that power can be measured by a country's formal leadership in global institutions and its GDP, highlighting India's strong GDP growth and potential to become the third-largest economy. The article then delves into ancient Indian texts and traditions, such as the Shatapatha Brahmana and Shukra Niti, to illustrate historical gradations of power based on rulers' titles and the types of sacrifices they performed, which symbolized their conquests and sovereignty.
+
+The text also describes a historical system of ranking kingdoms based on annual revenue, measured in gold coins called karshas. This system categorized rulers from samantas (feudatory vassals) to sarvabhouma (universal emperors), based on the revenue of their domains.
+
+In conclusion, the article reflects on the importance of tangible and measurable indicators of power, suggesting that historical methods of assessing power through revenue and sacrifices are analogous to modern considerations like GDP. The writer, who is the chairman of the Economic Advisory Council to the PM, emphasizes that these views are personal and not official statements. The unrelated content about an actor's role in a Netflix series has been omitted from this summary.
+
+Thu, 09 May 2024 02:30:55 +0000
+### [Roti, kapda, makaan: Why not good air?](https://indianexpress.com/article/opinion/columns/air-quality-pollution-gdp-9316935/)
+
+The article discusses the inclusion of environmental and air quality issues in the 2024 Lok Sabha manifestos of major political parties in India. It questions whether these issues are a top priority for parties and candidates and suggests that without becoming a political issue or a people's movement, significant improvement in air quality may not be realized. The article reflects on the evolution of public priorities from basic needs to more complex societal demands, noting that air quality has yet to become a central concern. It highlights the lack of information and effort by local governments in raising awareness about air pollution's effects.
+
+The article also touches on the economic impact of air pollution, citing studies that link it to significant GDP losses. It references the Kuznets curve, which posits that environmental degradation initially increases with economic development but eventually decreases after a certain income level is reached. The piece argues for air pollution to become a mainstream issue through political agendas, news coverage, and public concern.
+
+To address air pollution effectively, the article suggests public awareness campaigns, the implementation of the National Clean Air Programme (NCAP), and on-ground activities aimed at pollution reduction. It calls for local bodies to identify and address pollution sources, create green zones, and conduct outreach programs. The author, a professor at the Bose Institute, advocates for clean air as a fundamental right and urges collective action to demand better air quality.
+
+The article concludes by emphasizing the need for mass movements to spread the demand for clean air across India, drawing parallels with other issues that have successfully mobilized public protest and political attention. It underscores the importance of grassroots efforts and the role of various stakeholders in making air quality a national priority. The article's focus is on the potential for societal change through increased awareness and political action to improve air quality in India.
+
+Thu, 09 May 2024 02:30:22 +0000
+### [In India, the idea of democracy differs from its practice](https://indianexpress.com/article/opinion/columns/india-democracy-election-9316842/)
+
+The article discusses the concept of democracy from both a theoretical and practical perspective, particularly in the context of India. It references Italian philosopher Giorgio Agamben's view that democracy serves as both a method for forming a political community and a governance technique. The article contrasts democracy as an ideal, characterized by dissent, justice, and respect for rights, with democracy as a majoritarian administrative practice.
+
+In India, the values of democracy were embedded during the national movement, despite its upper-caste and middle-class leanings. Figures like Gandhi and Ambedkar had differing views on democracy's place in society and the constitution. The early post-independence years in India saw a commitment to justice and fundamental rights, but dissent was not fully embraced, leading to events like the Emergency in 1975.
+
+The article suggests that the current political climate in India has seen a shift in the principles and values of democracy, with the influence of certain organizations becoming normalized. It argues that Indian politics is drifting away from human values essential to democracy, making it difficult to envision a democracy focused on human engagement and daily life concerns.
+
+Philosopher Alain Badiou is cited to describe democracy as a political society's dominant emblem, where criticism is allowed as long as it's under the banner of democracy. This is particularly relevant in India, where discussions on democracy's forms often overshadow concerns about its content and values.
+
+The writer of the article is a professor at the School of Gandhian Thought and Development Studies, Mahatma Gandhi University, Kerala. The unrelated content about actor Jason Shah and the Netflix series Heeramandi has been omitted from this summary.
+
+Thu, 09 May 2024 02:30:20 +0000
+### [India can unlock growth by boosting nari shakti](https://indianexpress.com/article/opinion/columns/viksit-bhrat-nari-shakti-9316841/)
+
+The article discusses the imperative of empowering women in India to achieve economic development by 2047. It outlines three key policy areas:
+
+**1. Increasing Women's Labor Force Participation (LFP):** The article highlights the low LFP rate for women in India, currently at 25%, and suggests that increasing it to 50% could significantly boost GDP growth. It recommends expanding manufacturing capacity, particularly in labor-intensive sectors like garments and footwear, under the Production Linked Investment (PLI) scheme to create more jobs for women.
+
+**2. Enhancing Formal Sector Employment and Skilling:** The article points out the need for high-quality, affordable skilling programs, especially for women, to transition from informal to formal sector employment. It suggests improving access to Industrial Training Institutes (ITIs) and addressing gender imbalances in skill training and employment outcomes.
+
+**3. Urban Infrastructure for Women's Mobility:** As India urbanizes, the article stresses the importance of designing cities that facilitate women's mobility, access to education, and work opportunities. It calls for urban planning with a gender perspective and the creation of a high-quality urban care infrastructure to release women from care work and generate new jobs.
+
+The article also touches on the need for public policies that incentivize the use of clean technology to reduce domestic work and promote women's participation in the labor market. It concludes that investing in women's human capital is crucial for achieving gender parity and a developed society. The writer is an economics professor with affiliations to the Indian Statistical Institute and the University of Toronto.
+
+Thu, 09 May 2024 02:20:38 +0000
+### [May 9, 1984, Forty Years Ago: Soviet Union boycotts LA Olympics, alleges discrimination](https://indianexpress.com/article/opinion/40-years-ago/may-9-1984-forty-years-ago-soviet-union-boycotts-la-olympics-alleges-discrimination-9316918/)
+
+Here's a summary of the key points from the article:
+
+- **Punjab Arrests**: A group of seven terrorists was apprehended by Punjab police after a shootout near Ludhiana. Arms and ammunition were confiscated from their vehicle. Additionally, terrorist activities in Amritsar resulted in one fatality and several injuries, and four post offices were set ablaze in Mohali.
+- **UP's Urdu Ordinance**: The UP government let the controversial ordinance that allowed Urdu as a second official language for certain purposes expire after it was deemed unconstitutional by the Allahabad High Court. The state has appealed to the Supreme Court.
+- **India's Nuclear Stance**: Defence Minister R Venkataraman informed the Rajya Sabha of comprehensive measures in place to counter any nuclear threats from Pakistan, acknowledging the assumption of Pakistan's nuclear capabilities.
+- **Olympic Boycott**: The Soviet Union announced its withdrawal from the Los Angeles Olympic Games, citing discriminatory actions by the US Government and Olympic organizers against Soviet athletes.
+
+The article also mentioned various subscriber-only topics and a detailed account of actor Jason Shah discussing his role in the Netflix series Heeramandi.
+
 Wed, 08 May 2024 14:08:51 +0000
 ### [The British reduced all tawaifs to sex workers – so has Sanjay Leela Bhansali in Heeramandi](https://indianexpress.com/article/opinion/tawaifs-sex-workers-sanjay-leela-bhansali-heeramandi-9316484/)
 

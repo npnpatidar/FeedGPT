@@ -1,3 +1,21 @@
+Thu, 09 May 2024 09:43:18 +0530
+### [Israel’s ‘limited’ military operation in Rafah | Explained](https://www.thehindu.com/news/international/rafah-israel-military-operation-invasion-explainer-gaza-palestine-netanyahu/article68150206.ece)
+
+The article reports on the escalating conflict in Gaza, particularly focusing on the Israeli ground invasion of Rafah and the seizure of the Gaza side of the border crossing with Egypt. This move came shortly after Hamas accepted a ceasefire proposal, raising concerns about the prospects of ending the war that has already claimed over 34,700 lives.
+
+Israeli tanks entered Rafah, and airstrikes targeted the area near the Rafah border crossing, resulting in at least 23 Palestinian casualties. The U.S. described the invasion as a "limited operation," which followed an Israeli military order for over a million people in Rafah to evacuate to a safer zone near Khan Younis.
+
+The U.S. President and human rights groups have expressed concerns about the potential consequences of the invasion, urging a ceasefire to protect lives and prevent further devastation. Despite international pressure and the ceasefire proposal by Hamas, Israeli Prime Minister Netanyahu rejected the truce, stating it did not meet Israel's demands and vowing to continue military operations to pressure Hamas and secure the release of hostages.
+
+The article also highlights the humanitarian crisis in Gaza, with Rafah serving as a shelter for 1.4 million displaced Palestinians. The Rafah crossing is a critical point for aid delivery and the main exit from Gaza not under direct Israeli control. The Israeli military's control over the crossing has raised global concerns for the 2.3 million people in Gaza facing hunger and homelessness due to the war. The situation remains tense, with the future of the ceasefire and the welfare of Gaza's residents hanging in the balance.
+
+Thu, 09 May 2024 08:25:00 +0530
+### [How the Widal test is clouding India’s sense of its typhoid problem | Explained](https://www.thehindu.com/sci-tech/science/widal-test-overuse-typhoid-antimicrobial-resistance-health-expenses/article68152863.ece)
+
+The article discusses the challenges of diagnosing and treating typhoid fever in India. It highlights the limitations of the Widal test, which is widely used in India due to its simplicity and low cost. The test detects antibodies against the bacteria causing typhoid, but it can produce false results due to cross-reactivity with other infections, prior vaccination, or antibiotic therapy. Misdiagnosis can lead to serious complications or contribute to antimicrobial resistance (AMR) when antibiotics are used unnecessarily.
+
+The gold standard for diagnosis is culturing the bacteria from blood or bone marrow, but this is resource-intensive and not always feasible. The article calls for better point-of-care tests, improved surveillance of AMR, and regional data on effective antibiotics. It also emphasizes the need for better sanitation and access to safe food and water to prevent the disease. The authors, Dr. Vasundhara Rangaswamy and Dr. Parth Sharma, advocate for a 'hub and spoke' model for sample collection and processing to improve diagnostic capabilities. They stress the importance of constant environmental vigilance and data-sharing to manage typhoid, which affects millions globally and can be life-threatening if untreated.
+
 Wed, 08 May 2024 23:15:11 +0530
 ### [The delay in Nagaland civic body polls | Explained](https://www.thehindu.com/news/national/nagaland/the-delay-in-nagaland-civic-body-polls-explained/article68154739.ece)
 
