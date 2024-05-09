@@ -1,3 +1,79 @@
+Thu, 9 May 2024 17:39:19 +0530
+### [Haryana political crisis: Why Opposition can’t move no-trust motion against CM Saini’s government](https://www.firstpost.com/explainers/haryana-political-crisis-nayab-singh-saini-bjp-congress-no-trust-motion-13769102.html)
+
+The political situation in Haryana is tense as the BJP's former ally, the Jannayak Janta Party (JJP), has challenged the majority of the Nayab Singh Saini-led government. This comes after three independent MLAs shifted their allegiance to the Congress, leaving the BJP two members short of a majority. The JJP has requested a floor test, and the Congress is demanding the Chief Minister's resignation, claiming the government is now in the minority.
+
+**Dushyant Chautala**, the JJP leader, has written to the Governor seeking an immediate floor test and has expressed openness to supporting any party for government formation. He also suggested imposing President's rule if the BJP fails to prove its majority. The BJP, on the other hand, remains confident, with former CM **ML Khattar** asserting that there is no threat to their government and that they will win an absolute majority in the next elections.
+
+The Congress is pushing for early elections and has sought an appointment with the Governor to present a memorandum regarding the political situation. The current assembly strength stands at 88, with the BJP holding 40 seats, Congress 30, JJP 10, and others making up the rest. The BJP claims it has the support of four JJP MLAs, which could be crucial in any floor test.
+
+However, a floor test seems unlikely at the moment due to procedural rules that prevent a no-confidence motion from being moved within six months of a previous one. The last floor test was held in March, granting the government a six-month immunity. The Assembly Speaker has indicated that there is no official intimation of a shift in support and that the Governor's decision will be followed if directed.
+
+In summary, the Haryana government faces a potential crisis with the BJP's former ally and the Congress challenging its majority, while the BJP remains confident in its position. The possibility of a floor test or change in government remains uncertain due to procedural constraints and ongoing political maneuvers.
+
+Thu, 9 May 2024 17:28:35 +0530
+### [World’s first gene therapy trial: How a UK toddler born deaf can now hear](https://www.firstpost.com/health/worlds-first-gene-therapy-trial-how-a-uk-toddler-born-deaf-can-now-hear-13769057.html)
+
+An 18-month-old girl, Opal Sandy, born with auditory neuropathy, a rare genetic condition causing deafness, has experienced significant hearing improvement following a pioneering gene therapy trial at Addenbrooke's Hospital in Cambridge, UK. The CHORD trial, which Opal was the first to participate in, involved a one-time infusion of a harmless virus carrying a functional copy of the OTOF gene into her right ear. This gene is crucial for sound transmission to the brain.
+
+The treatment led to Opal responding to sounds without her cochlear implant within weeks, and by 24 weeks, she achieved near-normal hearing levels for soft sounds. Her parents have expressed immense joy at her ability to hear and speak, which has positively impacted their daily lives.
+
+The trial's success suggests a new direction in treating genetic hearing disorders, offering an alternative to traditional methods like cochlear implants. The CHORD trial is ongoing, with further research anticipated to provide insights into the long-term effectiveness and safety of gene therapy for auditory neuropathy. The results from Opal's case, along with other data, are being presented at a major scientific conference, marking a significant step forward in genomic medicine and precision healthcare.
+
+Thu, 9 May 2024 16:53:34 +0530
+### [In Graphics l Which countries are importing Indian mangoes the most?](https://www.firstpost.com/explainers/india-mango-countries-most-imports-13769043.html)
+
+Article found but Couldn't summarize 
+The mango is one of the most sought-after fruits in the world. With more than 20 metric tonnes exported in 2022-23, India is growing its mango footprint. The UAE, the UK, Qatar, Oman and Nepal have emerged as major buyers over the years
+
+Thu, 9 May 2024 16:30:49 +0530
+### [Brazil's deadly floods kill more than 100: Is climate change to blame?](https://www.firstpost.com/explainers/brazil-deadly-floods-climate-change-13769072.html)
+
+The article discusses the severe flooding in Rio Grande do Sul, Brazil, which has resulted in over 100 deaths and more than 130 people missing. The state capital, Porto Alegre, is isolated, with significant infrastructure submerged. The floods have displaced over 230,000 people, and around 1.4 million are affected. Experts attribute the disaster to a shift from La Niña to El Niño, causing drastic changes in rainfall patterns, suggesting this could be the new normal due to climate change. The National Confederation of Municipalities estimates damages at over $900 million, with nearly 100,000 homes damaged or destroyed. The Brazilian president and other officials have emphasized the need for proactive disaster management and recovery plans. Congress has declared a state of calamity, allowing for federal funds to be allocated for relief and rebuilding efforts.
+
+Thu, 9 May 2024 16:27:24 +0530
+### [Rocky planet twice the size of Earth with thick atmosphere discovered. Can it harbour life?](https://www.firstpost.com/explainers/rocky-planet-twice-the-size-of-earth-with-thick-atmosphere-discovered-can-it-harbour-life-13768983.html)
+
+The article discusses the discovery of the exoplanet **55 Cancri e**, also known as Janssen, which is notable for being a rocky planet with a significant atmosphere, a rarity among known exoplanets. This super-Earth is **eight times heavier and twice as big as Earth**, and it orbits very close to its star, resulting in permanent day and night sides. Its atmosphere is likely rich in **carbon dioxide or carbon monoxide**, with possible traces of water vapor and sulfur dioxide. However, the exact composition remains uncertain.
+
+The planet's proximity to its star results in extreme temperatures, with surface conditions featuring **magma oceans** and temperatures up to **4,200 degrees Fahrenheit (2,300 degrees Celsius)**, making it inhospitable for life as we know it. Despite this, the discovery is significant because it suggests the possibility of other rocky planets with thick atmospheres that could potentially support life.
+
+Researchers used the **Webb Space Telescope** to study the planet's atmosphere and found evidence of heat distribution across its surface, indicating a steady atmosphere possibly maintained by gases from its magma oceans. The thickness of the atmosphere is not yet clear, but it could be comparable to or even exceed that of Earth's or Venus's atmospheres.
+
+The study of 55 Cancri e offers insights into the early evolution of rocky planets, including Earth and Mars, which may have had magma oceans in their formative years. The findings provide a glimpse into this early stage of planet evolution and suggest that other such planets may exist, potentially with conditions more suitable for life.
+
+Thu, 9 May 2024 15:56:15 +0530
+### [How Australia’s stricter visa rules will affect Indians](https://www.firstpost.com/explainers/australia-strict-visa-rules-indians-13768987.html)
+
+Australia is set to implement new visa rules for international students starting 10 May 2024, requiring proof of funds amounting to 75% of the national minimum wage, or A$29,710. This increase, the second in seven months, aims to ensure students can support themselves without relying solely on work. The changes come amid a surge in migration and pressure on the government due to increased rental rates and a record net immigration of 548,800 in the year ending September 2023. The government also raised English language requirements for student visas and is taking steps to prevent misuse of the visa system to extend stays in the country.
+
+The tightening of visa rules could significantly impact Indian students, who are the second-largest group of international student enrollments in Australia. Visa rejections for Indian students have risen, with one in five being denied up to March this year. Delays in visa processing have led some Australian colleges to update their regulations, with some even banning Indian students. The restrictions are expected to affect students' ability to fund their education and stay in Australia.
+
+Additionally, the Australian government is increasing university risk ratings to combat non-genuine recruitment practices. Visas for low-risk universities are being processed faster, while those for higher-risk institutions face stricter scrutiny. The Home Affairs Minister has warned that educational providers engaging in exploitative recruitment could face jail time and recruitment bans. These measures aim to maintain the integrity of Australia's international education sector.
+
+Thu, 9 May 2024 15:22:48 +0530
+### [Iceland gets world's biggest carbon capture plant. Will it rid the world of pollution?](https://www.firstpost.com/explainers/iceland-worlds-biggest-carbon-capture-plant-13768991.html)
+
+The article discusses the Mammoth plant in Iceland, a large-scale carbon removal facility developed by Climeworks. The plant utilizes direct air capture (DAC) technology to extract CO2 from the atmosphere and store it underground, where it solidifies into rock. With a capacity to capture 36,000 metric tonnes of CO2 annually, the plant is a significant step in Climeworks' goal to scale up to megaton capacity by 2030 and gigaton by 2050. However, critics argue that the amount captured is only a small fraction of the billions of tonnes needed to meet global climate goals and that the technology's high cost could deter companies from reducing emissions. The article also mentions other companies and approaches to carbon removal, emphasizing the need for a mix of nature-based and tech-driven solutions to address the climate crisis effectively. Climeworks aims to reduce the cost of DAC and expand its operations to the United States and Kenya, with the largest proposed plant being in Louisiana. The industry faces challenges in scaling up to the required levels by 2050, but the development of an entire carbon removal industry is seen as crucial in the fight against climate change.
+
+Thu, 9 May 2024 15:00:44 +0530
+### [Air India Express cancellations: Will passengers get refund, will ticket prices soar?](https://www.firstpost.com/explainers/air-india-express-flight-cancellations-passengers-refund-ticket-prices-13768984.html)
+
+Air India Express is facing significant disruptions due to a cabin crew shortage, with over 100 flights canceled since a section of the crew called in sick to protest against management. Approximately 15,000 passengers have been affected, with around 40 flights being cut daily until May 13. The crisis has led to stranded passengers at various airports, particularly in Kerala, with some facing job risks due to canceled flights to Gulf nations. Social media complaints about customer service and the lack of alternative flights have been noted. Airfares have spiked as a result of the disruptions. The airline offers full refunds or fee-free rescheduling for affected passengers. The turmoil is part of a larger issue with the ongoing merger of Air India Express with AIX Connect and differing employment terms, leading to over 200 cabin crew reporting sick and some being terminated for their actions. The airline is taking steps to address the situation and has urged passengers to check their flight status before traveling.
+
+Thu, 9 May 2024 14:12:57 +0530
+### [India gets a record $111 billion in remittances: What are they, how much do other countries rely on this money?](https://www.firstpost.com/explainers/india-gets-a-record-111-billion-in-remittances-what-are-they-how-much-do-other-countries-rely-on-this-money-13768934.html)
+
+India achieved a significant milestone in 2022 by becoming the first country to receive over $111 billion in remittances, as reported by the International Organisation for Migration (IOM) in its World Migration Report 2024. This record-breaking figure placed India at the top of the global remittance chart, with Mexico, China, the Philippines, and France rounding out the top five recipient countries. South Asia, particularly India, Pakistan, and Bangladesh, was highlighted for its substantial remittance inflows, with Pakistan and Bangladesh ranking sixth and eighth, respectively.
+
+Remittances are financial or in-kind transfers sent by migrants to their home countries, and they have become a primary source of foreign income for many developing economies. The report noted that global remittance flows reached $831 billion in 2022, with low- and middle-income countries receiving $647 billion of this amount. India, with the largest diaspora of approximately 18 million international migrants, has consistently been the largest recipient of remittances for several years.
+
+The report also discussed the resilience of remittance flows during the COVID-19 pandemic, which declined by only 2.4% globally in 2020, far less than initially predicted. This trend continued with an increase in remittance flows in subsequent years, surpassing pre-pandemic levels. The United States remained the top remittance-sending country, with high-income countries traditionally being the primary sources of remittances.
+
+The economic reliance on remittances was examined, with countries like Tajikistan, Tonga, Lebanon, Samoa, and Kyrgyzstan showing high remittance dependency as a percentage of their GDP. India's remittances accounted for 3% of its GDP. The report also highlighted the importance of remittances to North Africa and Southeast Asia, with significant contributions to the GDPs of countries like Egypt, Morocco, and the Philippines.
+
+Lastly, the report addressed the costs associated with sending remittances, noting that despite a gradual decrease in transaction costs, they remain above the Sustainable Development Goal (SDG) target of less than 3%. South Asia had the lowest average cost at 4.6%, while Sub-Saharan Africa had the highest at over 8%. The goal is to reduce these costs further by 2030. The article concludes with insights from various agencies and a brief mention of the author's background and interests.
+
 Thu, 9 May 2024 13:35:38 +0530
 ### [A high gamble: Will Pakistan’s bet on legalising cannabis help its struggling economy?](https://www.firstpost.com/explainers/pakistans-legalising-cannabis-economic-crisis-13768963.html)
 

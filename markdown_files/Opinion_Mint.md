@@ -1,3 +1,19 @@
+Thu, 09 May 2024 16:00:08 +0530
+### [Consumerism rules: It’s visible in creams, dreams and vanity mirrors](https://www.livemint.com/opinion/online-views/consumerism-rules-it-s-visible-in-creams-dreams-and-vanity-mirrors-11715189081680.html)
+
+The article discusses the impact of India's growing consumption economy on parenting and the attitudes of the younger generation. It highlights the contrast between the frugal, contented upbringing of parents born in the 1970s and 1980s and the affluent, consumerist lifestyle they now provide for their children. This shift challenges the inculcation of values like moderation and gratitude in youth.
+
+Anita, a parent from Delhi, reflects on her modest upbringing and her desire to give her children more opportunities, yet she notices a lack of gratitude and a disconnect with life's realities. Similarly, creams and lotions, once simple utilities, now symbolize prestige, and dreams of resilience have turned into aspirations for luxury.
+
+The article also touches on the pressures faced by today's youth to conform to trends and lifestyles promoted by peers and social media, often leading to impulsive spending. Priya, a young professional, represents the struggle between parental values of frugality and the temptation to adopt lavish lifestyles, which resulted in her debt.
+
+The piece concludes by emphasizing the importance of effective parenting in teaching children to differentiate between needs and wants, appreciate what they have, and practice financial moderation. It suggests that parents should impart wisdom, accountability, empathy, and humility, while the youth should recognize the sacrifices made for their comfort and become financially savvy. The article calls for equipping the next generation with financial management skills and a strong moral compass, asserting that values and legacies will endure beyond material possessions.
+
+Thu, 09 May 2024 14:30:06 +0530
+### [Republicans are trying a new way to control women’s bodies](https://www.livemint.com/opinion/online-views/republicans-are-trying-a-new-way-to-control-women-s-bodies-11715188936848.html)
+
+The article discusses the controversy surrounding the Pregnant Workers Fairness Act and the Equal Employment Opportunity Commission's (EEOC) rule that requires employers to provide reasonable accommodations for pregnant employees, including time off for abortions. Republican attorneys general from 17 states have filed a lawsuit against this rule, arguing it exceeds the law's intended scope and infringes on state laws. The article criticizes this move, highlighting the need for workplace protections and the right of pregnant workers to seek care without employer interference. It also notes the historical context of discrimination against pregnant workers and emphasizes the role of federal laws in ensuring basic freedoms across states. The coalition of attorneys general is accused of trying to impose their conservative values on the entire country under the pretext of federalism and employer protection. The article is critical of these actions and underscores the importance of upholding the rights of pregnant workers.
+
 Thu, 09 May 2024 13:00:03 +0530
 ### [IBC tale of delay: Speed up insolvency resolution for this reform to shine](https://www.livemint.com/opinion/online-views/ibc-tale-of-delay-speed-up-insolvency-resolution-for-this-reform-to-shine-11715188874893.html)
 

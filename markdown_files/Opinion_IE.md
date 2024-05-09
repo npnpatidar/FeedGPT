@@ -1,3 +1,24 @@
+Thu, 09 May 2024 12:13:23 +0000
+### [Galgotias University is not alone: Empty jargon at institutes mirrors students’ political slogans](https://indianexpress.com/article/opinion/columns/galgotias-university-empty-jargon-institutes-mirrors-students-political-slogans-9318499/)
+
+The article discusses the phenomenon of "bannerism" in the context of Indian universities, using Galgotias University as a case study. It highlights a protest by students who seemed uninformed about the issues they were protesting, which led to public criticism. The university responded with advertisements promoting its achievements and educational approach, but the article suggests that such promotional tactics may lack substance and fail to address the underlying issue of students' lack of critical engagement with public affairs. The article argues that bannerism, which prioritizes technocratic slogans over meaningful education, is prevalent in many institutions and affects their ability to produce inquiring minds and employable graduates. It also touches on a similar issue at Ashoka University, where openness and inquiry are promoted but not necessarily in a way that challenges power structures. The article concludes that this approach to education may explain why university-educated individuals might lack a nuanced understanding of social and political issues. The writer is identified as a British Academy Global Professor at SOAS University of London. The unrelated content about KSEAB releasing SSLC results is not included in the summary.
+
+Thu, 09 May 2024 09:53:15 +0000
+### [Netflix’s ‘Baby Reindeer’ forces us to ask: Can an abuser be a victim?](https://indianexpress.com/article/opinion/columns/baby-reindeer-a-story-that-blurs-the-line-between-survivor-and-abuser-9317972/)
+
+The article discusses the Netflix series "Baby Reindeer," which is based on the true experiences of British comedian Richard Gadd. The series portrays Gadd's character, Donny Dunn, as he deals with the obsessive stalking by a woman named Martha Scott, who disrupts his life with relentless communication and threats. However, the series also delves into a darker past where Dunn was sexually assaulted by an older writer, a trauma that deeply affects his life and relationships.
+
+Gadd, who wrote the show and plays Dunn, parallels his own life story, having debuted a play of the same name that deals with his assault and its aftermath. The article compares Gadd's approach to that of Australian comedian Hannah Gadsby, who also turns personal trauma into art. It highlights how both comedians use their platforms to control their narratives and confront their abuse.
+
+The piece further explores how various artists have historically processed their trauma through their work, citing examples like Italian painter Artemisia Gentileschi and French writer Vanessa Springora. It points out the complexity of labeling victims and abusers, especially in cases where the victim sympathizes with the abuser, as Gadd does with Martha.
+
+Ultimately, the article reflects on the nuanced and often non-binary nature of trauma and survivorship, emphasizing that there is no "rational" response to such profound experiences, and societal expectations often fail to capture the reality of those who have endured severe trauma. The article concludes by challenging the simplistic categorization of victims and perpetrators, suggesting that understanding and sympathy can be part of the survivor's journey.
+
+Thu, 09 May 2024 09:25:18 +0000
+### [BJP’s Surat win: Indication that party is a victim of its own success](https://indianexpress.com/article/opinion/bjp-surat-win-indication-party-victim-own-success-9318004/)
+
+The article discusses the unusual political scenario in Surat, where Mukesh Dalal won the Lok Sabha seat unopposed, a rarity in competitive multiparty systems. The incident raised questions as the nomination papers of other candidates were rejected or withdrawn. The author suggests that the BJP, having dominated Surat and Indore for decades, may not need to influence electoral processes for victory but does so to maintain its image of strength and invincibility. This strategy is seen as a way to enthuse party cadre and intimidate opponents, despite appearing to adhere to legal procedures. The article argues that such tactics, while not illegal, undermine democratic norms by prioritizing victory over fair competition, leading to a gradual erosion of democracy. The author, affiliated with the University of Hyderabad, emphasizes that these actions, although technically correct, compromise the spirit of the law and democratic principles. The views expressed are personal to the writer.
+
 Thu, 09 May 2024 02:35:24 +0000
 ### [Express View: Congress plus, minus](https://indianexpress.com/article/opinion/editorials/express-view-congress-plus-minus-9316843/)
 

@@ -1,3 +1,15 @@
+Thu, 09 May 2024 10:35:59 +0000
+### [A new biocontrol agent to manage ‘foot rot’ disease in Basmati crop: Why this matters](https://indianexpress.com/article/explained/explained-economics/biocontrol-agent-to-manage-foot-rot-disease-in-basmati-crop-9318082/)
+
+The Punjab Agricultural University (PAU) has developed a new biocontrol agent, **Trichoderma asperellum**, to combat the 'foot rot' disease in Basmati rice crops. This disease, caused by the fungus **Fusarium verticillioides**, primarily affects seedlings and can lead to significant crop loss. Traditional chemical treatments are harmful to both soil and consumers, prompting the need for this eco-friendly alternative.
+
+The new agent, which has been registered with the Central Insecticides Board and Registration Committee (CIBRC), shows promise in managing the disease without leaving harmful residues, thus protecting environmental safety and potentially improving Punjab's export prospects. An MOU has been signed for large-scale production and distribution, aiming to make it available for the upcoming farming season. This development is significant for Punjab and Haryana, which together account for over 70% of India's Basmati exports.
+
+Thu, 09 May 2024 08:35:11 +0000
+### [West Nile fever cases detected in Kerala: What is the disease, how can it be prevented?](https://indianexpress.com/article/explained/explained-health/west-nile-virus-kerala-symptoms-prevention-9317853/)
+
+The article reports on the outbreak of West Nile fever in Kerala, India, with cases reported in Thrissur, Malappuram, and Kozhikode districts. The state's Health Minister, Veena George, has called for vigilance and mosquito control measures. The West Nile Virus (WNV) is primarily transmitted by Culex mosquitoes and can cause a fatal neurological disease, though 80% of infected individuals show no symptoms. The virus can also spread through blood transfusion and from mother to child but not through casual contact or consuming infected animals. Symptoms of severe West Nile disease include fever, headache, fatigue, and body aches, with a low death rate. No specific treatment or vaccine exists; only supportive care is provided. Preventive measures include using mosquito repellents and maintaining clean surroundings. The virus was first identified in Uganda in 1937 and has since spread globally. In India, WNV activity has been reported since 1952, with the virus isolated from mosquitoes and humans in various states. The article also mentions the release of SSLC exam results in Karnataka, unrelated to the main topic.
+
 Thu, 09 May 2024 08:00:40 +0000
 ### [Is Vietnam’s corruption crackdown rattling the Communist Party?](https://indianexpress.com/article/explained/explained-global/vietnam-corruption-crackdown-communist-party-9317800/)
 

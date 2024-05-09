@@ -1,3 +1,26 @@
+Thu, 9 May 2024 16:20:52 +0530
+### [Xenophobia: Time for Biden to confront the ghosts of America's own past](https://www.firstpost.com/opinion/xenophobia-time-for-biden-to-confront-the-ghosts-of-americas-own-past-13769076.html)
+
+The article discusses a controversial statement made by President Joe Biden, accusing India and other nations of xenophobia. It highlights the irony of such a statement, considering India's long history of diversity and acceptance, and contrasts it with the United States' own immigration challenges. The author, an Indian Muslim advocate, defends India's record of inclusivity, citing the country's welcoming of over 14 million refugees since independence. The piece also touches on the complexities of democracy and the right of each nation to chart its own course in immigration policy. It concludes by urging President Biden to reflect on America's history before criticizing others, emphasizing India's enduring legacy of tolerance and unity. The views expressed are personal to the author and do not necessarily reflect those of the publication.
+
+Thu, 9 May 2024 15:48:28 +0530
+### [Vantage | Is world embracing Taliban by inviting them to summits?](https://www.firstpost.com/opinion/vantage-is-world-embracing-taliban-by-inviting-them-to-summits-13769017.html)
+
+The article discusses the international community's complex relationship with the Taliban, particularly in the context of the Taliban's participation in a session of the Islamic Summit Conference organized by the Organisation of Islamic Cooperation (OIC) in Gambia. Despite the presence of a Taliban representative, the countries involved do not recognize the Taliban regime and have criticized it for human rights abuses, especially against Afghan girls and women.
+
+The article outlines two primary approaches to dealing with the Taliban: engagement or isolation. China has chosen to engage, accepting a Taliban ambassador, while other countries have adopted a hybrid approach, engaging on specific issues like terrorism or humanitarian work, as seen with the United States and India.
+
+The situation in Afghanistan is described as dire, with ordinary Afghans, particularly women and minorities, suffering under oppressive Taliban rule. The international community faces a dilemma: recognizing the Taliban could be seen as endorsing their regime, but Afghanistan's strategic importance and the rise of terrorist groups necessitate some level of engagement.
+
+The article concludes by questioning the future direction of diplomatic efforts with the Taliban and the potential implications for Afghan women and minorities. The views expressed are personal to the writer and do not necessarily reflect those of Firstpost. The article also mentions that it is available on YouTube. 
+
+Please note that this summary is based on the content provided and does not include any external advertisements or unrelated content. If you need more detailed information or have specific questions, feel free to ask!
+
+Thu, 9 May 2024 14:03:29 +0530
+### [Nepal’s flimsy claims on Kali River will not change ground realities, but India must be vigilant](https://www.firstpost.com/opinion/nepals-flimsy-claims-on-kali-river-will-not-change-ground-realities-but-india-must-be-vigilan-13768994.html)
+
+The article discusses the ongoing border dispute between India and Nepal over the territories of Lipulekh, Limpiyadhura, and Kalapani. It highlights the recent infrastructure developments by India in these remote border areas, such as the road from Darchula to Lipulekh, which has improved access for the Indian Army and local populations. The dispute resurfaced when Nepal released a new political map in 2020, claiming these territories, which India contests based on historical treaties and agreements, including the Sugauli Treaty of 1816 and subsequent agreements with China that align with India's stand. The article suggests that China may be influencing Nepal's stance to destabilize India. It also mentions the natural beauty of the region and its potential to attract Indian tourists. The views expressed are personal to the writer, a Distinguished Fellow at the Centre of Excellence for Himalayan Studies.
+
 Thu, 9 May 2024 11:46:13 +0530
 ### [Swapan Dasgupta’s essay on PM Modi that NYT asked for, but refused to publish](https://www.firstpost.com/opinion/swapan-dasguptas-essay-on-pm-modi-that-nyt-asked-for-but-refused-to-publish-13768901.html)
 
