@@ -54,6 +54,17 @@ The Reserve Bank of India (RBI) has imposed restrictions on Kotak Mahindra Bank 
 
 The regulatory action is expected to impact KMB's credit growth and profitability, particularly in the credit card segment, which is a high-yield growth area for the bank. Despite this, S&P Global Ratings believes the RBI's measures will not materially affect the bank's ratings. KMB's net profit increased by 18% in the last quarter, and the bank plans to continue investing in its card franchise. However, the ban may force KMB to rely more on its physical branch network, increasing operating costs. The bank's CEO expressed concerns about the reputational impact of the RBI's actions. It is anticipated that it may take a year for KMB to fully address the RBI's concerns and complete the necessary technological enhancements and external audit.
 
+Tue, 07 May 2024 14:08:11 +0530
+### [Why is NASA creating a standard time for the moon? | Explained](https://www.thehindu.com/sci-tech/science/why-is-nasa-allotting-a-standard-time-for-the-moon/article68131522.ece)
+
+The article discusses the establishment of a **Coordinated Lunar Time (LTC)** by NASA, directed by the White House Office of Science and Technology Policy (OSTP), to standardize timekeeping for cislunar operations. This initiative is part of the National Cislunar Science and Technology Strategy and aims to align with Coordinated Universal Time (UTC) on Earth. The LTC is expected to be considered by December 31, 2024, as part of NASA's Moon-to-Mars Architecture Concept Review cycle.
+
+The European Space Agency (ESA) has launched a project called 'Moonlight' to support NASA's Artemis mission, which raised the question of setting a single time zone for the moon. The slow rotation of the moon suggests the practicality of having a single time zone, similar to UTC. The article explains that atomic clocks are used for their accuracy in measuring time, while solar time is variable. Currently, moon missions follow the time of the operating country, and the International Space Station (ISS) runs on UTC.
+
+The White House's policy aims to standardize time for celestial bodies, starting with the moon. The LTC will simplify operations for future missions and commercial activities on the lunar surface. The article also touches on the challenges of defining lunar time due to the moon's weaker gravitational pull and rotation, which affects the speed of clocks. A global satellite navigation system for the moon is planned by 2030, requiring a unified lunar time for communication and coordination.
+
+Several countries have lunar ambitions, with China planning to send astronauts by 2030 and India by 2040. Japan has recently become the fifth country to land a spacecraft on the moon. The OSTP emphasizes that U.S. leadership in defining a standard will benefit all spacefaring nations, although consensus on LTC may be challenging due to non-participation by China and Russia in the Artemis Accords. The article concludes with the global discussion on the need for a unified lunar time at an ESA meeting.
+
 Mon, 06 May 2024 23:03:05 +0530
 ### [What is carbon farming? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/what-is-carbon-farming-explained/article68147027.ece)
 

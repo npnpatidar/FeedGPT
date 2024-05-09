@@ -1,3 +1,19 @@
+Thu, 09 May 2024 08:00:40 +0000
+### [Is Vietnam’s corruption crackdown rattling the Communist Party?](https://indianexpress.com/article/explained/explained-global/vietnam-corruption-crackdown-communist-party-9317800/)
+
+The article discusses a series of high-profile resignations within the Vietnamese Communist Party due to unspecified violations and corruption allegations, raising concerns about political stability. Vuong Dinh Hue resigned as National Assembly chairman, following the resignations of President Vo Van Thuong and his predecessor Nguyen Xuan Phuc. These events are part of a broader anti-corruption campaign led by Nguyen Phu Trong, the general secretary of the Communist Party, which has resulted in numerous government and business leaders being dismissed or jailed.
+
+Vietnam, despite its economic growth and strategic trade partnerships, is criticized for corruption, political censorship, and human rights issues. The recent political turbulence is unprecedented, with three of the country's "four pillars" of leadership stepping down mid-tenure in the past two years, indicating a significant shift in the political landscape.
+
+The article also highlights concerns about the increasing influence of Vietnam's Ministry of Public Security within the Politburo, the party's highest decision-making body, and leaked plans to intensify media censorship and surveillance. This political shakeup occurs as Vietnam strengthens its strategic partnership with the US, its second-largest trade partner after China.
+
+The instability has implications for foreign investment, as evidenced by the reaction to the death sentence of businesswoman Truong My Lan for embezzlement. Despite the challenges, analysts believe the Communist Party will maintain control, though the infighting and personalized politics may cause lasting damage to the party's legitimacy. The article concludes with a mention of the release of SSLC exam results in Karnataka, India, unrelated to the main content.
+
+Thu, 09 May 2024 06:34:26 +0000
+### [RBI lifts ban on Bank of Baroda’s mobile app: How will it help the bank and impact customers?](https://indianexpress.com/article/explained/explained-economics/rbi-lifts-ban-bank-of-baroda-mobile-app-9317586/)
+
+The Reserve Bank of India (RBI) has lifted the ban on Bank of Baroda's mobile banking app 'bob World', allowing the bank to resume onboarding customers. The ban was initially imposed due to lapses in the customer onboarding process and material supervisory concerns, including allegations of fake onboarding by some employees. Following corrective measures and further steps to address the RBI's concerns, the restrictions were removed. The ban had affected the bank's transaction volumes and the percentage of deposits made through the app. Bank of Baroda has now resumed new customer onboarding through 'bob World'.
+
 Thu, 09 May 2024 02:06:11 +0000
 ### [Once upon a tram: The story of India’s tramways](https://indianexpress.com/article/explained/explained-history/story-of-indias-trams-tramways-mumbai-9316868/)
 

@@ -1,3 +1,43 @@
+Thu, 09 May 2024 13:00:03 +0530
+### [IBC tale of delay: Speed up insolvency resolution for this reform to shine](https://www.livemint.com/opinion/online-views/ibc-tale-of-delay-speed-up-insolvency-resolution-for-this-reform-to-shine-11715188874893.html)
+
+The article discusses the economic and social impact of the Insolvency and Bankruptcy Code (IBC) of 2016 in India. It highlights the IBC's role in improving India's Ease of Doing Business ranking and increasing the recovery rate for creditors. However, it also points out recent challenges, such as a drop in the recovery rate and increased resolution time. The Supreme Court has emphasized the importance of respecting the commercial decisions of the Committee of Creditors (CoC), but delays in case admissions and resolutions persist due to various factors, including frivolous appeals and the National Company Law Tribunal's (NCLT) capacity constraints. The article suggests that these delays can lead to asset value erosion and affect all stakeholders, emphasizing the need to streamline the insolvency resolution process to prevent it from becoming ineffective like the Sick Industrial Companies Act.
+
+Thu, 09 May 2024 11:30:01 +0530
+### [Verbal e-volution: Language technologies are still shaping global culture](https://www.livemint.com/opinion/online-views/verbal-e-volution-language-technologies-are-still-shaping-global-culture-11715188781949.html)
+
+The article discusses the intersection of language, technology, and economics, highlighting how major advancements in language processing have historically transformed society. It traces the impact from Gutenberg's printing press to the Rosetta Stone, radio, and telephone technology, emphasizing the role of linguistics in the development of modern computer science and AI. The article notes the influence of linguists like Noam Chomsky on the cognitive revolution and the advent of AI at a Dartmouth conference in 1956.
+
+It then fast-forwards to the emergence of ChatGPT in 2022, underscoring the long-standing challenge of making computers understand human language and context. The article touches on the evolution of Natural Language Processing (NLP) with tools like Siri and Alexa, which have become more capable of understanding spoken language.
+
+The narrative shifts to the economic impact of language technologies, particularly English, on global participation and business success. It cites the stories of Masayoshi Son and Jack Ma, who leveraged their knowledge of English and technology to build successful businesses. The article also examines the role of English proficiency in the business process outsourcing sector, with examples from India and the Philippines, and instances from Kazakhstan and Indonesia where English literacy is seen as a gateway to globalization.
+
+Overall, the article suggests that English's dominance in technology continues to shape global participation and cultural influences, demonstrating the lasting effect of language technologies on the world.
+
+Thu, 09 May 2024 10:20:09 +0530
+### [Freshworks takes a calculated risk. Will it work?](https://www.livemint.com/opinion/freshworks-takes-a-calculated-risk-will-it-work-11715229421312.html)
+
+Freshworks Inc., a Nasdaq-listed SaaS company, experienced a leadership transition that initially unsettled investors, with the stock price dropping from $18.25 to below $14. Founder-CEO Girish Mathrubootham stepped into the role of executive chairman, focusing on long-term product vision and AI, while Dennis Woodside took over as CEO to handle day-to-day business execution.
+
+Despite challenging macro-economic conditions and the advent of AI technology, Freshworks has shown resilience. The company, which began as Freshdesk in Chennai and is now headquartered in San Mateo, raised $1.03 billion in its 2021 IPO. It has a current market cap of about $4.26 billion, with a reported revenue of $596 million for 2023 and a net loss of $137 million, an improvement over the previous year.
+
+Freshworks' recent quarter results indicated a 3% sequential revenue increase and a narrowed loss of $23 million. The company projects 2024 revenue between $695 million and $705 million, with a non-GAAP operating profit of $21.8 million for the March quarter. It aims to reach $1 billion in revenue by 2026 and has acquired Device42, an IT-management firm, for $230 million to bolster growth.
+
+The company's customer base primarily consists of over 51,000 small and medium-sized businesses, which are increasingly targeted by off-the-shelf AI-based tools. Freshworks is developing its own AI-based product portfolio, a task for which Mathrubootham, regarded as a visionary leader, is well-suited. The leadership change is seen as a strategic move to focus on AI innovation while maintaining operational efficiency under Woodside. Despite the risks, this transition is considered a calculated step towards future growth and adaptation to AI advancements.
+
+Thu, 09 May 2024 10:00:18 +0530
+### [Watch out, AI and GenAI are transforming e-commerce from the ground up](https://www.livemint.com/opinion/columns/watch-out-ai-and-genai-are-transforming-e-commerce-from-the-ground-up-11715188543634.html)
+
+The article discusses the transformative impact of Artificial Intelligence (AI) on e-commerce. It highlights AI's role as a general-purpose technology, akin to electricity, that powers various aspects of society and business, including logistics, social networks, and smartphones. AI's integration into e-commerce began with Amazon in 1994 and has since made operations more efficient through applications in recommendations, logistics, warehousing, and stock merchandising.
+
+The piece emphasizes the potential for AI to revolutionize e-commerce through advancements in Generative AI, Deep Learning, and Machine Learning. These technologies enable hyper-personalization, allowing retailers to offer tailored product selections to consumers. AI algorithms can predict consumer behavior, craft marketing messages with individual appeal, and enhance the digital shopping experience with personalized chatbots and AI-generated reviews.
+
+Operational efficiency is another area where AI contributes significantly, automating back-end processes such as inventory management, product shipment, and delivery route optimization. This automation not only reduces errors but also lowers costs, leading to more attractive retail prices.
+
+Furthermore, AI has the potential to break language barriers and expand market reach. In multilingual countries like India, GenAI can facilitate real-time translation and use voice and video enablers to make e-commerce more inclusive and accessible.
+
+In summary, AI and GenAI are poised to reshape e-commerce by providing personalized experiences, operational efficiency, and expanded market access, ultimately aiming to deliver the best products at attractive prices to every individual. The future of e-commerce, underpinned by AI, promises a global marketplace that is more inclusive and technologically advanced.
+
 Thu, 09 May 2024 08:30:14 +0530
 ### [Our post-pandemic slump in household savings should disappoint but not alarm us](https://www.livemint.com/opinion/online-views/our-post-pandemic-slump-in-household-savings-should-disappoint-but-not-alarm-us-11715188314362.html)
 

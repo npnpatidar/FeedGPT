@@ -1,3 +1,40 @@
+Thu, 9 May 2024 13:35:38 +0530
+### [A high gamble: Will Pakistan’s bet on legalising cannabis help its struggling economy?](https://www.firstpost.com/explainers/pakistans-legalising-cannabis-economic-crisis-13768963.html)
+
+Pakistan is moving towards legalizing cannabis and has established the Cannabis Control and Regulatory Authority (CCRA) to oversee its cultivation, extraction, and sale for medical and industrial purposes. This decision aims to tap into the global cannabis market, which is expected to grow significantly by 2027. The CCRA will regulate the industry, issue licenses, and advise the government on cannabis-related policies.
+
+The initiative was first proposed in 2020 and is seen as a potential economic boost for Pakistan, which is currently facing financial challenges, including a low growth rate, high inflation, and depleted foreign currency reserves. The country has a history of cannabis cultivation, particularly in the Khyber Pakhtunkhwa and Balochistan regions, which could be leveraged for economic gain.
+
+While some view this move as beneficial for farmers and the economy, others express concerns about Pakistan's late entry into the market and the quality of cannabis that can be produced for medicinal use. The global shift towards recognizing the therapeutic properties of cannabis and its legal reform in various countries, including the US and Germany, reflects the changing attitudes towards the plant's use. Pakistan's decision to legalize cannabis is part of this broader trend and could potentially provide the economic uplift it needs.
+
+Thu, 9 May 2024 12:31:21 +0530
+### [How America’s pause on the delivery of 2,000-pound bombs will hurt Israel](https://www.firstpost.com/explainers/us-pause-2000-pound-bombs-israel-gaza-rafah-13768916.html)
+
+The article discusses the United States' decision to halt the delivery of 2,000-pound bombs to Israel amidst concerns over their use in the densely populated area of Rafah, Gaza. The US Defense Secretary, Lloyd Austin, indicated that smaller, more precise weapons are needed for such areas, although he mentioned that the decision is not final and the US will continue to support Israel's defense needs. The halt is seen as a diplomatic message to Israeli Prime Minister Benjamin Netanyahu to consider American interests. The 2,000-pound bomb, dating back to the Vietnam War, has various versions, some designed for deep penetration and others for above-ground detonation. The addition of Joint Direct Attack Munition (JDAM) kits can make these bombs more precise. The US has provided these munitions to Ukraine and Israel for defense purposes. Experts believe that the pause in delivery could significantly impact Israel's arsenal, as these bombs have been a major part of Israel's munitions used in Gaza. Concerns have been raised about the potential for massive casualties in Rafah due to the use of these bombs in a war that has already seen a significant number of munitions dropped on Gaza. The article concludes with Israel's strong reaction to the US decision, suggesting it may be due to political pressure on President Joe Biden.
+
+Thu, 9 May 2024 10:54:12 +0530
+### [How WhatsApp investing scams are duping people into parting with their savings](https://www.firstpost.com/explainers/whatsapp-investing-scams-duping-people-savings-13768876.html)
+
+A businessman from Maharashtra lost over Rs 1.88 crore to a share trading scam on WhatsApp. He was lured into investing in stocks through a group that provided stock tips and later, a VIP group named 'STOCK-Vanguard-VIP'. The scammers showed a fake SEBI certificate and used an app called CINVEN/IC SERVICES to convince him to invest. When he tried to withdraw his money, there was no response, leading to a police complaint for cheating.
+
+The article also discusses other similar cases in India, highlighting the growing trend of online investment scams via social media platforms like WhatsApp and Telegram. Scammers create fake investment groups, impersonate financial experts, and use scripted discussions to create a sense of legitimacy and urgency, ultimately disappearing with the invested money.
+
+To avoid such scams, the article advises verifying the legitimacy of financial opportunities, avoiding unfamiliar links or apps, being wary of offers promising high returns with low risk, conducting transactions through reputable platforms, and consulting financial advisors for any doubts. It emphasizes the importance of staying cautious to prevent falling victim to such fraudulent schemes.
+
+Thu, 9 May 2024 10:41:20 +0530
+### [Why was an Indian student in Australia stabbed to death by two brothers from Haryana?](https://www.firstpost.com/explainers/indian-student-stabbed-to-death-in-australia-by-two-haryana-brothers-13768860.html)
+
+A 22-year-old Indian-origin MTech student was fatally stabbed in Melbourne, Australia, during a dispute over rent among Indian students. The incident occurred when the victim, Navjeet Sandhu, attempted to mediate a confrontation and was stabbed in the chest. A friend of Sandhu also sustained injuries. Two brothers, Abhijeet and Robin Gartan, have been arrested in connection with the stabbing. The victim, described as a brilliant student, had moved to Australia for his studies and was planning to visit his family in July. The accused, who had been on the run, were arrested with the assistance of NSW Police and are scheduled for a court hearing for extradition to Victoria. The victim's family had sold land to fund his education. The case has garnered attention, with details and images of the accused released by the police.
+
+Thu, 9 May 2024 10:17:20 +0530
+### [How Sam Pitroda, Gandhis’ close aide, became Congress’ ‘foot-in-mouth’ politician](https://www.firstpost.com/explainers/sam-pitroda-gandhis-close-aide-congress-controversia-leader-indian-overseas-congress-chief-13768859.html)
+
+Sam Pitroda, a long-standing member of the Gandhi inner circle and chairman of the Indian Overseas Congress, has resigned following controversy over his comments on India's diversity. His remarks were deemed "unfortunate" and "unacceptable" by the Congress party, leading to his resignation. Pitroda has been known for his controversial statements, including those on the 1984 anti-Sikh riots and the Balakot strikes.
+
+Pitroda's background includes being born to a Gujarati-speaking family of carpenters and blacksmiths. He moved to the US for higher education and became a telecom inventor, entrepreneur, and policy maker. He first connected with the Gandhis in the 1980s and became a key figure in India's telecom revolution. After Rajiv Gandhi's assassination, Pitroda returned to the US but was called back to India in 2004 to lead the National Knowledge Commission and later served as an adviser to Prime Minister Manmohan Singh.
+
+Despite his achievements, Pitroda's career has been marred by several controversies, which have often put the Congress party in difficult positions. His recent comments on India's diversity and a misunderstood statement on inheritance tax law have added to the list of contentious remarks. As India continues with its Lok Sabha elections, the impact of Pitroda's resignation on the Congress party's performance remains to be seen.
+
 Thu, 9 May 2024 09:22:26 +0530
 ### [Why Nicaragua cancelled a Chinese plan for a canal 10 years after breaking ground](https://www.firstpost.com/explainers/chinese-backed-nicaragua-canal-project-cancelled-after-10-years-13768840.html)
 

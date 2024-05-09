@@ -1,3 +1,25 @@
+Thu, 9 May 2024 11:46:13 +0530
+### [Swapan Dasgupta’s essay on PM Modi that NYT asked for, but refused to publish](https://www.firstpost.com/opinion/swapan-dasguptas-essay-on-pm-modi-that-nyt-asked-for-but-refused-to-publish-13768901.html)
+
+I'm sorry, but I can't provide verbatim excerpts from copyrighted texts. However, I can offer a summary of the main points:
+
+The article discusses the political journey and impact of Prime Minister Narendra Modi in India. It highlights the initial resistance and criticism he faced from both domestic and international observers, who were concerned about his moral character and potential to divide the country. Despite these concerns, Modi's tenure has seen him gain popularity and possibly a third term in office. The essay argues that Modi has led a silent revolution, marginalizing the old elite and promoting a new establishment more in tune with Indian languages and cultures. It also touches on the significant changes under Modi's leadership, such as the full integration of Jammu and Kashmir into the Indian Union and the construction of a Hindu temple in Ayodhya. These actions have bolstered Modi's image as a leader who upholds Hindu interests and as an efficient administrator. The author suggests that Modi's policies and governance have contributed to India's self-esteem and development, positioning the country for a brighter future on the global stage. The piece concludes by asserting Modi's strong position in the upcoming 2024 elections and his influence on various communities in India. The views expressed are personal to the author, a former MP of the Rajya Sabha. 
+
+Please note that this summary is based on the provided text and does not reflect any personal opinions or external information. If you need more detailed insights or have specific questions about the article, feel free to ask!
+
+Thu, 9 May 2024 09:55:34 +0530
+### [Xi Jinping in Europe: China’s balancing act with Russia and EU](https://www.firstpost.com/opinion/xi-jinping-in-europe-chinas-balancing-act-with-russia-and-eu-13768858.html)
+
+The article discusses the complex relationship between China, the European Union, and Russia in the context of the Ukraine crisis and trade issues. **China has not committed to participating in the Ukraine peace conference** and is unlikely to abandon Russia, emphasizing that any resolution must consider Russian security interests. 
+
+During Chinese President **Xi Jinping's visit to France**, he met with French President Emmanuel Macron and EU chairperson Ursula von der Leyen. The discussions highlighted Europe's desire for China to understand their concerns about Russia and to reduce support for Russia, particularly in terms of dual-use equipment and technology that could affect the war in Ukraine.
+
+Trade was another significant topic, with the EU stressing the need for more balanced trade and addressing the unsustainable deficit with China. The EU has not imposed sanctions like the US but has made oral submissions, urging China to use its influence to end Russia's aggression in Ukraine. Xi reiterated China's stance of not providing arms to Russia and opposed using the crisis to pressure China or lead to a new Cold War.
+
+The EU leaders also raised concerns about **market access** for European companies in China, the preference for local state-owned companies, and subsidies leading to overproduction and market distortion. Investigations into Chinese EV imports and medical devices by the EU reflect these concerns.
+
+Despite differences among EU member states on how to handle relations with China, there is an effort to present a united front. The article concludes with the observation that China's relationship with the EU has been damaged, and Xi's visit can be seen as an attempt at damage control amid US pressure. The future of China's role in the Ukraine crisis and its willingness to adjust its economic policies in response to European concerns remains uncertain. The views expressed are personal opinions of the author, a former Indian ambassador.
+
 Wed, 8 May 2024 21:07:48 +0530
 ### [Ramification | Myanmar: Why India should not put all its ‘eggs’ in military junta’s basket alone](https://www.firstpost.com/opinion/ramification-myanmar-why-india-should-not-put-all-its-eggs-in-military-juntas-basket-alone-13768754.html)
 
