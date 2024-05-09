@@ -1,3 +1,16 @@
+Thu, 9 May 2024 06:00:32 +0530
+### [FirstUp: Maldives FM meets Jaishankar, Russia victory parade… today’s big headlines](https://www.firstpost.com/explainers/firstup-maldives-fm-meets-jaishankar-13768778.html)
+
+Today's key events in India include a diplomatic meeting and political developments. Maldives' Foreign Minister Moosa Zameer is meeting with India's External Affairs Minister S Jaishankar in Delhi to discuss bilateral and regional issues amid strained ties. This visit follows India's withdrawal of soldiers from the Maldives.
+
+In politics, Congress' Vikramaditya Singh, son of late Virbhadra Singh, is filing his nomination for the Lok Sabha polls in Mandi, facing a contest against BJP's Kangana Ranaut. Singh has outlined his priorities for Mandi, including urban development and infrastructure projects, and will address a rally after his nomination.
+
+In sports, the IPL match between Punjab Kings and Royal Challengers Bengaluru is anticipated to be a thrilling encounter, with key players like Virat Kohli and Dinesh Karthik expected to perform.
+
+Internationally, Russia celebrates Victory Day, marking the 79th anniversary of the victory over Nazi Germany in World War II. The day holds significant historical importance and has been referenced in recent political narratives by President Vladimir Putin.
+
+Additionally, the article recalls the start of impeachment hearings against President Nixon on this day in 1974, which led to his eventual resignation. Nixon's presidency faced a major crisis with the Watergate scandal, resulting in a loss of support and a subsequent pardon by President Gerald Ford.
+
 Wed, 8 May 2024 21:00:45 +0530
 ### [The Rise of Ghost Malls: Why Indian shoppers are staying away from small shopping centres](https://www.firstpost.com/explainers/india-sees-rise-in-ghost-malls-knight-frank-report-13768516.html)
 
@@ -2370,14 +2383,20 @@ The article emphasizes the need for better diagnosis, treatment access, and vacc
 Wed, 10 Apr 2024 11:33:54 +0530
 ### [South Korea elections: The 4 key figures who could make a difference](https://www.firstpost.com/explainers/south-korea-elections-the-4-key-figures-who-could-make-a-difference-13758107.html)
 
-Article found but Couldn't summarize 
-South Korean voters are voting today to pick 300 members of parliament and decide whether President Yoon Suk Yeol will be able to advance his socially conservative agenda. Here are the key political figures to keep an eye on
+South Korea is holding parliamentary elections to choose 300 members, which will be a significant test for President Yoon Suk Yeol's administration. President Yoon, who won the 2022 presidential election by a slim margin, faces challenges due to low approval ratings, economic dissatisfaction, and an opposition-controlled legislature. His ability to implement his agenda may be hindered if his People Power Party doesn't secure control of parliament.
+
+Lee Jae-myung, Yoon's rival in the 2022 election, faces corruption allegations but remains a potential candidate for the next presidential race. Despite his challenges, he is known for his rise from working-class roots and is currently running for a parliamentary seat in Incheon.
+
+Cho Kuk, a former justice minister whose political career was marred by scandal, has returned with the newly formed Rebuilding Korea Party. His party is gaining traction, especially among liberal voters, and could play a pivotal role in parliament.
+
+Han Dong-hoon, another former prosecutor and ally of President Yoon, leads the People Power Party. His prosecutorial approach and conservative popularity face scrutiny, and his political future depends on the party's performance in these elections.
+
+The elections are seen as a reflection of public sentiment towards the two main parties, with the rise of a third party indicating a desire for alternative representation. The outcomes will shape South Korea's political landscape and the direction of President Yoon's policies.
 
 Wed, 10 Apr 2024 10:29:17 +0530
 ### [Who are the elderly Swiss women behind the climate court case win?](https://www.firstpost.com/explainers/swiss-women-climate-court-case-win-13758077.html)
 
-Article found but Couldn't summarize 
-The Swiss women's association Elders for Climate Protection secured a historic win on Tuesday when Europe's top court faulted Switzerland for not doing enough to tackle global warming. Here’s what we know about them
+The article discusses a significant legal victory for the Swiss women's association, Elders for Climate Protection, against Switzerland in the European Court of Human Rights. The court ruled that Switzerland had not done enough to combat global warming, thereby violating the right to respect for private and family life as stated in Article 8 of the European Convention on Human Rights. The association, consisting of women over 64, advocates for climate protection as a human right, emphasizing the vulnerability of elderly women to heatwaves. Despite previous legal setbacks in Switzerland, their appeal to the European Court was successful, establishing a legal precedent for the 46 signatory countries of the European Convention on Human Rights. The association, supported by Greenpeace, plans to further their cause at the International Court of Justice. The co-presidents, Anne Mahrer and Rosmarie Wydler-Walti, have been long-time environmental activists, and the association has incurred significant legal expenses since its inception in 2016. The court's decision is described as a huge relief and an emotional victory for those involved.
 
 Wed, 10 Apr 2024 10:01:15 +0530
 ### [Peter Higgs passes away: The ‘shy man’ behind the God Particle](https://www.firstpost.com/explainers/peter-higgs-dies-shy-man-god-particle-higgs-boson-nobel-prize-winner-13758049.html)
@@ -2410,8 +2429,15 @@ This summary provides an overview of the article's content without reproducing a
 Wed, 10 Apr 2024 06:00:38 +0530
 ### [FirstUp: Delhi HC’s verdict on use of INDIA, South Korea elections… The big stories of the day](https://www.firstpost.com/explainers/firstup-delhi-hcs-verdict-on-use-of-india-south-korea-elections-the-big-stories-of-the-day-13757847.html)
 
-Article found but Couldn't summarize 
-The Delhi High Court will give its verdict on the PIL filed against the use of INDIA for the Opposition grouping. Patanjali’s Baba Ramdev will appear in the Supreme Court in connection to the misleading ads case. Internationally, South Korea will go to the polls while Japan’s Fumio Kishida will meet with US president Joe Biden in Washington
+Here's a summary of the key points from the article:
+
+- **Delhi High Court Verdict**: The court is set to rule on whether the Opposition can use the acronym INDIA for their grouping. The Election Commission of India has stated it lacks authority over political alliances.
+- **Baba Ramdev's Supreme Court Appearance**: Baba Ramdev and Acharya Balkrishna will appear in the Supreme Court regarding a misleading advertisement case related to Patanjali Ayurved.
+- **Wrestling Federation of India (WFI) Case**: The Delhi High Court will hear a petition by wrestlers, including Bajrang Punia and Vinesh Phogat, challenging the legality of WFI's elections.
+- **Japan-US Relations**: Japanese Prime Minister Fumio Kishida is meeting with US President Joe Biden in Washington, which is expected to enhance defense ties.
+- **South Korea Elections**: South Korea is conducting general elections, seen as a referendum on President Yoon Suk Yeol's administration.
+
+The article covers these significant events and legal proceedings happening in India, Japan, and South Korea.
 
 Tue, 9 Apr 2024 21:22:07 +0530
 ### [How the US, China, and Australia emerged as hotspots for toxic ‘forever chemicals’](https://www.firstpost.com/explainers/us-china-australia-hotspots-for-toxic-forever-chemicals-pfas-13757898.html)
@@ -2421,8 +2447,7 @@ The article discusses the widespread presence of PFAS (per- and polyfluoroalkyl 
 Tue, 9 Apr 2024 19:39:14 +0530
 ### [How ‘The Kerala Story’ is triggering a political drama in the state](https://www.firstpost.com/explainers/lok-sabha-polls-the-kerala-story-political-drama-bjp-congress-cpim-13757945.html)
 
-Article found but Couldn't summarize 
-‘The Kerala Story’ is creating controversy in the state after 'Doordarshan' and the Idukki diocese screened the movie last week. The telecast of the allegedly divisive film has pitted the ruling CPI(M) and Opposition Congress against the BJP ahead of the general elections
+The film "The Kerala Story" has sparked controversy in Kerala, particularly in the context of the upcoming Lok Sabha elections. Directed by Sudipto Sen and starring Adah Sharma, the film was broadcasted by Doordarshan and shown by Catholic dioceses, drawing criticism from the CPI(M) and Congress for its divisive content, while the BJP defended the screenings. The film, which portrays Kerala as a hub of conversions and links it to the Islamic State, led to protests and legal actions, with the Kerala Chief Minister and other political leaders condemning the broadcast. Despite the backlash, the film was aired, and now other dioceses plan to show it, citing educational purposes. The BJP is using the film to appeal to Christian fears of Islamic extremism, while the CPI(M) seeks to attract Muslim voters away from Congress. The controversy highlights the political strategies of parties in a state where minorities constitute a significant portion of the electorate. Kerala's 20 Lok Sabha seats are set to be contested on 26 April.
 
 Tue, 9 Apr 2024 19:26:24 +0530
 ### [In Graphics | The Mango Map of India: From Maharashtra’s Alphonso to Uttar Pradesh’s Dussehri](https://www.firstpost.com/explainers/in-graphics-mango-varties-india-maharashtra-alphonso-uttar-pradeshs-dussehri-13757921.html)
@@ -2439,8 +2464,9 @@ The article also mentions a graphical journey showcasing these Indian mangoes, l
 Tue, 9 Apr 2024 17:28:34 +0530
 ### [Lok Sabha Elections 2024: Why Congress veteran AK Antony wants his son to lose](https://www.firstpost.com/explainers/lok-sabha-elections-2024-ak-antony-wants-son-anil-antony-to-lose-13757841.html)
 
-Article found but Couldn't summarize 
-Family feuds are common during election season. Now Congress veteran AK Antony said that his son, Anil K Antony, should lose the election. Anil is running as the BJP candidate for the Pathanamthitta Lok Sabha seat in Kerala
+In the lead-up to the Lok Sabha elections, Congress veteran AK Antony has publicly stated that he wishes for his son, Anil K Antony, who is running as the BJP candidate for the Pathanamthitta seat in Kerala, to lose the election. AK Antony has expressed his strong allegiance to the Congress, stating it is akin to his religion, and has emphasized that family ties are separate from political affiliations. He has also voiced support for the Congress candidate, Anto Antony, in the same constituency.
+
+Anil Antony joined the BJP in 2023 following a controversy over his criticism of a BBC documentary on the 2002 Gujarat riots. His decision led to his resignation from positions within the Congress party's digital media teams. AK Antony has criticized the BJP's governance, accusing it of undermining the concept of India, and has reiterated the Congress's opposition to Prime Minister Narendra Modi, the BJP, and the RSS. He dismissed Kerala CM Pinarayi Vijayan's allegations against the Congress's national commitment and projected confidence in the Congress's prospects in the upcoming elections. The 18th Lok Sabha election in Kerala is scheduled for 26 April, in the second phase.
 
 Tue, 9 Apr 2024 17:08:29 +0530
 ### [From India to the US: How the 2024 elections are impacting world markets](https://www.firstpost.com/explainers/india-us-polls-2024-elections-world-markets-impact-13757878.html)
@@ -2478,14 +2504,14 @@ Please note that this summary is based on the information provided in the articl
 Tue, 9 Apr 2024 15:01:28 +0530
 ### [The rise of ‘TikTok taoiseach’: Who is Simon Harris, set to be Ireland’s youngest PM?](https://www.firstpost.com/explainers/tiktok-taoiseach-simon-harris-ireland-youngest-pm-13757774.html)
 
-Article found but Couldn't summarize 
-Simon Harris, who casts himself as an ‘accidental politician’, will become Ireland’s youngest PM at 37. He will be taking over as the taoiseach after Leo Varadkar's surprise resignation last month
+Simon Harris is set to become Ireland's youngest Prime Minister at 37, succeeding Leo Varadkar after his unexpected resignation. Known as an "accidental politician," Harris' political journey began in his teens, driven by a personal advocacy for autism services. He dropped out of college to pursue politics full-time, quickly ascending through the ranks to become a member of the Irish Parliament at 24, and later holding various ministerial positions, including Health and Education.
+
+Harris, who has a significant online presence and is dubbed the 'TikTok Taoiseach,' is poised to lead Ireland's three-party coalition. He faces several challenges, including a housing crisis, immigration issues, and a need to balance law and order with sustainable policies. While the economy thrives, his party, Fine Gael, has seen a decline in voter support. Harris advocates for small businesses, education, and tax reductions for middle-income earners. With general elections approaching by March 2025, Harris must quickly establish his leadership and prepare for the electoral tests ahead.
 
 Tue, 9 Apr 2024 13:47:28 +0530
 ### [Robbery, kidnapping, and pain: What Russ Cook endured as he became first person to run across Africa](https://www.firstpost.com/explainers/russ-cook-hardest-geezer-first-person-run-across-africa-13757739.html)
 
-Article found but Couldn't summarize 
-Russ Cook struggled with mental health, gambling, and drinking before he embarked on his journey. The 27-year-old Briton encountered numerous obstacles but he persevered. Nicknamed 'Hardest Geezer', he ran the full length of Africa and crossed the finish line in Tunisia after 352 days
+Russell Cook, a 27-year-old British endurance runner, has made history by becoming the first person to run the entire length of Africa. Starting from South Africa's southernmost point on April 22, 2023, he completed the journey in Tunisia after 352 days, covering over 16,000 kilometers through 16 countries. Despite facing challenges such as armed robbery, kidnapping, and health issues, Cook's determination saw him through. His remarkable feat raised over £700,000 for charity. Cook's journey was fraught with difficulties, including visa issues and physical ailments, but his resolve remained unshaken. He hopes his achievement will inspire others to engage in sports and is already considering future challenges. Cook celebrated the end of his journey with supporters in Tunisia and plans to continue promoting the benefits of sports for mental health and well-being.
 
 Tue, 9 Apr 2024 12:06:52 +0530
 ### [Quicksplained: Who was Mohammed Abdul Arfath, ‘missing’ Indian student, now found dead in the US?](https://www.firstpost.com/explainers/quicksplained-mohammed-abdul-arfath-indian-student-missing-us-death-13757707.html)
@@ -2576,8 +2602,7 @@ This summary captures the essence of the article, highlighting the key issues Be
 Mon, 8 Apr 2024 19:52:25 +0530
 ### [Why you could be paying more to fly to your summer holiday destination](https://www.firstpost.com/explainers/vistara-scales-back-operations-flight-cancellations-pilots-sick-leave-airfare-increase-13757508.html)
 
-Article found but Couldn't summarize 
-After Vistara pilots called in sick to protest against the new pay structure, leading to delays and flight cancellations last week, the airline has decided to scale down operations. It will be cancelling 25 to 30 flights every day. It’s peak travel season in India and even disruptions by one airline could further lead to an increase in airfares
+Vistara airline is facing operational challenges due to pilot protests against a new pay structure, leading to flight cancellations and delays. The airline has decided to reduce its operations by 10%, cancelling 25 to 30 flights daily. This scale-down is a response to pilot shortages and aims to stabilize operations. The reduction in flights during the peak travel season in India could lead to increased airfares. Discontent among Vistara pilots is part of broader issues within Tata's aviation sector, with pilots from other Tata-owned airlines also expressing concerns over work conditions. The industry-wide impact of these disruptions, combined with existing demand-supply gaps, suggests a potential rise in airfare costs. The situation is exacerbated by other airlines facing their own challenges, further straining the domestic airline industry's capacity to meet the high demand for air travel during the summer season.
 
 Mon, 8 Apr 2024 19:30:27 +0530
 ### [Paw Patrol: Meet Roger and Wilson, the dogs aiding earthquake victims in Taiwan](https://www.firstpost.com/explainers/paw-patrol-meet-roger-and-wilson-the-dogs-aiding-earthquake-victims-in-taiwan-13757466.html)
@@ -2589,14 +2614,18 @@ In the wake of Taiwan's most severe earthquake in 25 years, two search-and-rescu
 Mon, 8 Apr 2024 18:49:56 +0530
 ### [In Graphics | A last-minute guide to today’s total solar eclipse](https://www.firstpost.com/explainers/in-graphics-total-solar-eclipse-north-america-13757541.html)
 
-Article found but Couldn't summarize 
-The total solar eclipse will traverse around 15 US states, Mexico, and parts of eastern Canada, offering millions a mesmerising sight. Here is why the event is rare
+Today, North America will witness a rare total solar eclipse that will pass through approximately 15 US states, Mexico, and parts of eastern Canada. This event is notable because it won't occur again in most of North America until 2044. During the eclipse, the moon will align perfectly between the Earth and the Sun, creating a shadow over the regions it passes. Those in the path of totality will experience darkness in the middle of the day, while others will see a partial eclipse, with the moon covering part of the sun to form a crescent shape. Approximately 31.6 million people are situated in the path of totality, with another 150 million within 200 miles of it. The total eclipse will last up to four minutes and 28 seconds in some locations. A visual guide is available to provide more information on this astronomical event.
 
 Mon, 8 Apr 2024 18:06:37 +0530
 ### [Shashi Tharoor vs Rajeev Chandrasekhar: Will India see its first election debate soon?](https://www.firstpost.com/explainers/shashi-tharoor-rajeev-chandrasekhar-india-first-election-debate-lok-sabha-elections-13757486.html)
 
-Article found but Couldn't summarize 
-The stage is all set. Congress MP Shashi Tharoor has accepted BJP minister Rajeev Chandrasekhar’s challenge to an election debate before Thiruvananthapuram goes to the polls on 26 April. If the two go through with their idea, it will be the first such instance in the country
+In the upcoming Lok Sabha elections, Thiruvananthapuram's constituency is set to witness a significant event as Congress MP Shashi Tharoor and BJP minister Rajeev Chandrasekhar have agreed to engage in what could be India's first election debate. Tharoor, a three-time representative of the constituency, has welcomed the debate on various local and national issues, while Chandrasekhar, contesting for the first time, emphasizes a discussion on ideas, development, and track records.
+
+The debate is seen as a part of the BJP's strategy to gain a foothold in the South, where it has struggled to make inroads, particularly in Kerala. Tharoor, on the other hand, faces challenges due to perceived voter fatigue and questions about his contributions to the constituency's development.
+
+Historically, election debates have been a common practice in many countries, with the US being one of the most notable examples. Debates are considered important for helping voters understand candidates' positions and for enhancing trust in the political process. However, their actual influence on voter decisions remains a topic of debate among scholars.
+
+The article also references past instances where Indian politicians have challenged each other to debates, although none have materialized until now. The outcome of this proposed debate between Tharoor and Chandrasekhar could set a precedent for future elections in India.
 
 Mon, 8 Apr 2024 17:19:09 +0530
 ### [Why getting work visas to New Zealand just got tougher](https://www.firstpost.com/explainers/new-zealand-work-visas-rules-migrants-13757451.html)
@@ -2616,8 +2645,7 @@ Globally, countries like Australia and Switzerland are also taking steps to mana
 Mon, 8 Apr 2024 16:12:24 +0530
 ### [Why Slovakia's new president could be a headache for Ukraine](https://www.firstpost.com/explainers/slovakia-new-president-peter-pellegrini-headache-ukraine-13757437.html)
 
-Article found but Couldn't summarize 
-Slovakia's newly-elected president, Peter Pellegrini is a longtime ally of Prime Minister Robert Fico, who has questioned Ukraine's sovereignty and discontinued military aid to Ukraine since taking office last October
+Peter Pellegrini, a pro-Russian candidate and ally of Prime Minister Robert Fico, won Slovakia's presidential election with 53.26% of the vote. His victory is seen as solidifying Fico's influence and Slovakia's shift towards pro-Russian policies. The government has halted military aid to Ukraine and initiated controversial reforms, raising concerns about the rule of law. Analysts predict that Pellegrini's presidency will increase Slovakia's international isolation and align the country closer to Russia, potentially affecting its standing in the EU and NATO. Despite the largely ceremonial role of the president, Pellegrini's win is expected to enable Fico to exert more control over the judiciary and other state affairs, with some analysts fearing Slovakia could follow Hungary's path of clashing with the EU. The election highlighted divisions over the war in Ukraine, with Pellegrini advocating for peace talks with Russia, contrasting with the pro-Western stance of his opponent, Ivan Korcok. The article suggests that the Slovak population has a significant pro-Russian sentiment, influenced by historical ties and recent disinformation campaigns. Pellegrini's focus on his career over the war or Russia is noted by analysts, who also mention that his presidency is unlikely to lead to a definitive pivot towards Russia but will see a change in rhetoric.
 
 Mon, 8 Apr 2024 16:11:07 +0530
 ### [‘Bigger than the Super Bowl’: How the US economy will benefit from the solar eclipse](https://www.firstpost.com/explainers/solar-eclipse-2024-us-economy-tourism-hotels-restaurants-spending-13757377.html)
