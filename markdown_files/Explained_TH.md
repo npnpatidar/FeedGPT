@@ -1,3 +1,14 @@
+Thu, 09 May 2024 22:50:42 +0530
+### [Reservation within Constitutional bounds](https://www.thehindu.com/news/national/reservation-within-constitutional-bounds/article68157106.ece)
+
+The article discusses the contentious issue of reservation in India and compares it with affirmative action policies in other countries. It highlights the political debate around caste census and reservation policies, with the BJP contesting the Congress' demands. The Indian Constitution's provisions for equality and social justice are explained, including Articles 15 and 16, which allow for special provisions for the advancement of OBC, SC, and ST communities. The historical **Indra Sawhney** and **Janhit Abhiyan** court cases are mentioned, which upheld the reservation for OBCs and the constitutional validity of the EWS reservation, respectively.
+
+The article also touches upon the U.S. Supreme Court's ruling against race-based affirmative action in college admissions and the practices of positive action in the U.K. and educational measures in France. It details the history of reservation for Muslim communities within the OBC quota in Karnataka and the sub-categorisation for Muslims in other states. The Congress party's manifesto promise to remove the 50% cap on reservations is noted.
+
+Furthermore, the article discusses the **Rohini Commission's** work on sub-categorisation among OBC castes and the lack of representation among many OBC communities in jobs and educational institutions. It also addresses the issues faced by Dalit Christians and Muslims, and the government's commission to study extending SC reservation to these groups.
+
+The author, Rangarajan R, a former IAS officer, argues for the need to deliberate on increasing the reservation limit, introducing creamy layers for SC and ST, and extending reservations to marginalized communities, with the goal of achieving social justice while maintaining constitutional equality. The views expressed are personal.
+
 Thu, 09 May 2024 09:43:18 +0530
 ### [Israel’s ‘limited’ military operation in Rafah | Explained](https://www.thehindu.com/news/international/rafah-israel-military-operation-invasion-explainer-gaza-palestine-netanyahu/article68150206.ece)
 

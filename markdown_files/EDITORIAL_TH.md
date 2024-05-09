@@ -1,3 +1,19 @@
+Fri, 10 May 2024 00:20:00 +0530
+### [Turmoil and test: On Haryana politics](https://www.thehindu.com/opinion/editorial/turmoil-and-test-on-haryana-politics/article68157885.ece)
+
+The political landscape in Haryana is experiencing upheaval as three independent MLAs have withdrawn support from the BJP-led government. The JJP has offered to back the Congress to establish an alternative government. The BJP, now with 43 MLAs, is short of the majority mark in the 88-member assembly. Despite this, BJP leaders maintain that their government is stable, hinting at potential backing from discontented JJP MLAs.
+
+Both the Congress and JJP are aggressively challenging the BJP but are cautiously navigating the process of potentially toppling the current government, each expecting the other to make the first move. They have called upon Governor Bandaru Dattatreya to step in, with the Congress seeking immediate elections under President's rule and the JJP requesting a 'floor test' to verify the government's majority.
+
+Amidst the general elections and approaching Assembly elections, the Congress and JJP are working to strengthen their positions. The JJP, having distanced itself from the BJP, is particularly focused on rallying the agrarian Jat community, which forms its primary support base. The BJP's recent leadership change from Manohar Lal Khattar to Nayab Singh Saini reflects a strategic shift towards non-Jat voters, following historical inter-community tensions. The Congress is concentrating efforts on forming a stable government for the next five years, rather than seeking short-term advantages. The ongoing political uncertainty casts doubt on the Saini government's majority, prompting the need for the Governor's intervention to clarify the situation.
+
+Fri, 10 May 2024 00:10:00 +0530
+### [Bipartisan rescue: On the U.S. House of Representatives and U.S. politics](https://www.thehindu.com/opinion/editorial/bipartisan-rescue-on-the-us-house-of-representatives-and-us-politics/article68157483.ece)
+
+In a notable bipartisan effort, U.S. House Democrats joined forces with some Republicans to retain Republican House Speaker Mike Johnson, thwarting a challenge led by far-right Republican Marjorie Taylor Greene. Greene criticized Johnson for advancing a $95 billion aid package for Israel, Ukraine, and other allies, accusing him of undermining Republican influence and aiding Democrats. Despite this, the House voted overwhelmingly (359-43) to support Johnson's speakership.
+
+The incident reflects the ongoing power struggle within the Republican Party, exacerbated by the upcoming presidential election. The House has previously experienced turmoil, such as the 15 rounds of voting needed for Johnson's predecessor, Kevin McCarthy, to secure the Speaker's position, only to be ousted by the House Freedom Caucus later. As the election nears, moderate Republicans face the challenge of balancing the need for bipartisan legislation with the pressure from Trump's popular far-right faction.
+
 Thu, 09 May 2024 00:20:00 +0530
 ### [Irrational Israel: On the ceasefire proposal and Hamas](https://www.thehindu.com/opinion/editorial/irrational-israel-on-the-ceasefire-proposal-and-hamas/article68153653.ece)
 
