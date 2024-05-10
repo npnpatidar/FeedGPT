@@ -3081,8 +3081,7 @@ Please note that this summary is based on the information provided in the articl
 Fri, 5 Apr 2024 19:30:06 +0530
 ### [How Taiwan’s tallest building, Taipei 101, stood tall amid the 7.4-strong earthquake](https://www.firstpost.com/explainers/taiwan-tallest-building-taipei-101-earthquake-13756710.html)
 
-Article found but Couldn't summarize 
-On Wednesday, a strong earthquake struck Taiwan, killing 12 people and injuring over 1,000 others. Many buildings tilted or came crashing down owing to the strong temblor. However, Taiwan’s Taipei 101, measuring 1,671 feet, survived it with minimal damage. Here’s how
+A 7.4-magnitude earthquake struck Taiwan, resulting in 12 fatalities and over 1,000 injuries. Despite the destruction of 770 buildings, Taipei 101, a skyscraper once considered the world's tallest, withstood the quake with minimal damage. This was possible due to its massive tuned mass damper, known as "Damper Baby," a 660-tonne steel sphere suspended between the 87th and 92nd floors. The damper sways to counteract building movement during seismic activity or high winds, reducing motion by up to 40%. The system is entirely passive, relying on gravity and the building's movement, and is visible to visitors on the observation deck. The earthquake, the strongest to hit Taiwan in 25 years, caused significant infrastructure damage and left hundreds stranded. The epicenter was near Hualien County, an area prone to seismic activity. Taiwan's earthquake monitoring agency reported a magnitude of 7.2, while the US Geological Survey recorded it at 7.4. The Taipei 101's resilience highlights the importance of advanced engineering in safeguarding structures against natural disasters.
 
 Fri, 5 Apr 2024 19:00:16 +0530
 ### [In Graphics | The big carbon emitters in the world are...](https://www.firstpost.com/explainers/in-graphics-the-big-carbon-emitters-in-the-world-are-13756696.html)
@@ -3096,8 +3095,7 @@ Please note that I cannot provide the actual names of the companies due to copyr
 Fri, 5 Apr 2024 18:16:38 +0530
 ### [US scientists try new method to repel Sun’s rays: Will this help cool the Earth?](https://www.firstpost.com/explainers/us-scientists-new-method-sun-rays-to-beat-rising-temperatures-13756606.html)
 
-Article found but Couldn't summarize 
-American scientists carried out a test in which they tried to bounce back some of the Sun’s rays into space as a way to temporarily cool Earth. This experiment comes at a crucial time, as mankind has failed fail to meet the goal of holding global warming to a relatively safe level
+American scientists have conducted an outdoor experiment in San Francisco Bay to test a geoengineering technique known as cloud brightening. This method involves spraying salt aerosols into the atmosphere to reflect sunlight back into space, potentially cooling the Earth temporarily. The concept, dating back to a 1990 proposal by physicist John Latham, aims to combat global warming by increasing the reflectivity of clouds. The experiment, part of the CAARE initiative, tested the precise size and quantity of particles needed for effective cloud brightening. While daily instances of this phenomenon occur naturally from ship exhaust, the intentional use of sea salts could offer a more controlled approach. However, experts caution that the potential impacts on climate patterns are difficult to predict, and some view solar radiation modification as a risky distraction from addressing the root causes of climate change, such as fossil fuel consumption. The urgency of the situation is underscored by recent studies indicating accelerating rates of global warming and ocean heat content, leading to more intense and prolonged heat waves worldwide.
 
 Fri, 5 Apr 2024 18:01:48 +0530
 ### [Nearly the whole internet was compromised by a coder: How concerned should we be?](https://www.firstpost.com/explainers/nearly-the-whole-internet-was-compromised-by-a-coder-how-concerned-should-we-be-13756638.html)
@@ -3192,14 +3190,12 @@ The Congress party has not yet announced its candidates for Amethi and Rae Barel
 Fri, 5 Apr 2024 12:21:48 +0530
 ### [How much military aid does the US supply to Israel?](https://www.firstpost.com/explainers/us-military-aid-israel-hamas-war-13756424.html)
 
-Article found but Couldn't summarize 
-According to the Council on Foreign Relations think-tank, Israel has received more some $300 billion in military and economic aid since its founding in 1948
+The article discusses the United States' military aid to Israel, highlighting recent arms sales and the historical context of this assistance. The U.S. has approved billions of dollars in military aid, including bombs and fighter jets, despite international criticism of Israel's actions in Gaza. Recent emergency arms sales were made following a Hamas attack, with significant sales of tank and artillery munitions bypassing congressional review. The U.S. has consistently supported Israel with advanced weapons systems like F-35 warplanes and the Iron Dome air defense system. Since its founding in 1948, Israel has received an estimated $300 billion in aid, making it the largest cumulative recipient of U.S. foreign assistance post-World War II. Military aid has dominated since 2007, with billions allocated annually, and additional funding for missile defense. An agreement through 2028 allows Israel to use foreign military financing for U.S. military purchases. The article includes information from the Council on Foreign Relations and the Congressional Research Service.
 
 Fri, 5 Apr 2024 11:18:39 +0530
 ### [Explained: The case of the Delhi woman killed and stuffed in an almirah](https://www.firstpost.com/explainers/explained-case-of-delhi-woman-killed-stuffed-in-almirah-13756390.html)
 
-Article found but Couldn't summarize 
-The body of a 26-year-old woman was found stuffed in an almirah at a house in southwest Delhi's Dwarka area. Her father told the police that she had told him that her live-in partner used to beat her up and she was afraid she could be murdered
+In a tragic incident in southwest Delhi's Dwarka area, a 26-year-old woman was found dead, her body concealed inside an almirah. The victim's father, unable to contact her for several days, sought police help, leading to the discovery. The woman had been living with her live-in partner, Vipal Tailor, who is now the prime suspect in the case. The father reported that his daughter feared for her life due to Tailor's violent behavior. The police have initiated a murder investigation under Section 302 of the IPC and are making efforts to locate Tailor. This case adds to a series of crimes involving live-in partners in Delhi, highlighting a disturbing trend of domestic violence and murder. The article also references other recent cases, emphasizing the severity of the issue.
 
 Fri, 5 Apr 2024 10:16:45 +0530
 ### [Did India carry out targeted killings in Pakistan? What a new report 'alleges'](https://www.firstpost.com/explainers/india-targeted-killings-pakistan-guardian-report-gurpatwant-singh-pannun-hardeep-singh-nijjar-13756383.html)
@@ -3823,8 +3819,7 @@ Mukhtar Ansari, a gangster-turned-politician and five-time MLA from Mau, Uttar P
 Fri, 29 Mar 2024 09:09:25 +0530
 ### [Books, football updates and more: US journalist Evan Gershkovich’s one year in Russian prison](https://www.firstpost.com/explainers/books-football-updates-and-more-us-journalist-evan-gershkovichs-one-year-in-russian-prison-13753682.html)
 
-Article found but Couldn't summarize 
-Evan Gershkovich, who was detained on espionage charges in March 2023, has spent a year in the Russian prison. He spends most of the time reading and writing letters to friends and family who keep him up to date with current affairs, gossip, and the latest about his favourite football team, Arsenal
+Evan Gershkovich, an American journalist, has been detained in Russia for a year on espionage charges, which he, The Wall Street Journal, and the US government deny. His routine includes reading and writing letters, with court appearances for his pretrial detention being a regular occurrence. Despite the grim situation, Gershkovich remains resilient, maintaining contact with friends and family through letters, staying updated on current affairs, and receiving updates about his favorite football team, Arsenal. The Biden administration is actively seeking his release, and there have been hints of a potential prisoner swap, but no concrete progress has been made. Gershkovich's case has garnered attention and support from colleagues and officials, highlighting the broader tensions between Russia and the West. His family and friends continue to advocate for his release, finding solace in his unbroken spirit despite the ongoing ordeal.
 
 Fri, 29 Mar 2024 05:00:24 +0530
 ### [FirstUp: Ukraine's FM to meet Jaishankar and more... The big news](https://www.firstpost.com/explainers/firstup-ukraine-foreign-minister-jaishankar-new-delhi-visit-13753758.html)
@@ -3850,8 +3845,15 @@ Please note that this summary is based on the provided text and not on the actua
 Thu, 28 Mar 2024 20:30:41 +0530
 ### [Older siblings earn more. It's a fact. But why?](https://www.firstpost.com/explainers/older-siblings-earn-more-younger-siblings-study-sickness-13753807.html)
 
-Article found but Couldn't summarize 
-Studies have previously shown that older siblings earn more than their younger peers. Now, health economists say they have found out why this happens
+The article discusses the reasons behind older siblings typically earning more than their younger counterparts. It highlights that this is not due to parental favoritism but may be linked to health and cognitive development factors. Key points include:
+
+- **Older Siblings' Cognitive Advantage**: Research suggests that firstborns perform better on cognitive tests and in academics, possibly because parents invest more in their early years.
+- **Health Disparities**: A study by the National Bureau of Economic Research found that younger siblings have a higher likelihood of hospitalization for respiratory conditions in their first year, particularly if they have an older sibling in group childcare who may bring home viruses.
+- **Financial Impact**: These health issues in infancy could lead to lower earnings in adulthood. In Denmark, younger siblings were found to earn 2.4% less than their older siblings.
+- **IQ and Earnings**: A Norwegian study showed a small IQ difference between first- and second-born children, which correlated with a nearly 2% difference in annual earnings.
+- **Educational Benefits for Older Siblings**: Older siblings may benefit cognitively from teaching their younger siblings, which could contribute to their advantages in earnings and intelligence.
+
+The article concludes that the advantages older siblings have are likely due to environmental factors rather than genetics. It incorporates insights from various studies and experts to support these findings.
 
 Thu, 28 Mar 2024 19:08:06 +0530
 ### [Nirmala Sitharaman doesn’t have money to fight Lok Sabha polls. How much does a contender need?](https://www.firstpost.com/explainers/lok-sabha-election-2024-nirmala-sitharaman-money-bjp-candidates-poll-expenditure-eci-13753751.html)
@@ -3867,8 +3869,7 @@ Despite these regulations, it's reported that candidates often exceed the spendi
 Thu, 28 Mar 2024 18:45:39 +0530
 ### [‘Election King’: He has lost 238 elections but will fight the Lok Sabha polls](https://www.firstpost.com/explainers/lok-sabha-elections-2024-k-padmarajan-lost-238-elections-13753619.html)
 
-Article found but Couldn't summarize 
-K Padmarajan, the man who has lost at least 238 elections, is now preparing for yet another electoral battle in Tamil Nadu's Dharmapuri district. What keeps him going?
+K Padmarajan from Tamil Nadu, known as the "Election King," has participated in over 238 elections since 1988 and is preparing for another. Despite never winning, his aim is to engage in democracy, not victory. He's faced prominent opponents like PM Modi and sees his persistent participation as success. Padmarajan, who also runs a tyre shop and offers homoeopathic remedies, aims to set a record for the most elections contested. His best electoral performance was in 2011, winning 6,273 votes. He spends significant amounts on nomination fees and security deposits, which are not refunded unless he secures a substantial vote percentage. Padmarajan's story has inspired many on resilience and the importance of participating in democracy. He plans to continue contesting elections and believes in the right of every citizen to vote, emphasizing involvement over winning.
 
 Thu, 28 Mar 2024 17:29:48 +0530
 ### [From ‘blood on hands’ to ‘great world power’: Ukraine foreign minister Kuleba’s big U-turn on India](https://www.firstpost.com/explainers/ukraine-foreign-minister-dmytro-kuleba-india-visit-u-turn-russia-war-13753717.html)
@@ -3887,8 +3888,13 @@ This action coincides with similar investigations by European Union regulators i
 Thu, 28 Mar 2024 16:35:15 +0530
 ### [Why is the use of the word ‘shaheed’ banned on Instagram, Facebook?](https://www.firstpost.com/explainers/meta-ban-on-shaheed-word-instagram-facebook-13753669.html)
 
-Article found but Couldn't summarize 
-Under its content moderation policy, Meta removes instances of the word ‘shaheed’ when referring to people considered dangerous. Now the oversight board is asking the company to relax its restrictions on the use of the Arabic word, which means martyr
+Meta's Oversight Board has recommended that the company should revise its content moderation policy regarding the use of the word "shaheed," which means "martyr" in English. The board's year-long review suggests that Meta's current approach is too broad and suppresses free speech, particularly in relation to West Asian subjects. The term "shaheed" has been frequently removed from Meta's platforms, including Facebook and Instagram, when associated with individuals on its list of "dangerous organizations and individuals."
+
+The board advises that posts should only be removed if they contain clear signs of violence or violate other Meta rules. They argue that the term has broader linguistic meanings and is often used in neutral contexts such as news reports, academic discussions, and human rights conversations. Meta's policies against inciting violence and supporting designated terrorists are deemed sufficient to manage associated risks.
+
+Meta has faced criticism for its handling of content related to West Asia, especially during the Israel-Hamas conflict, with accusations of suppressing pro-Palestinian content. The term "shaheed" has various meanings in Arabic, often used to honor those who die unjustly, including civilians.
+
+Meta has stated it will review the board's feedback and respond within 60 days, emphasizing the challenge of applying policies fairly at a global scale. The company seeks to allow people to share their views safely on its platforms.
 
 Thu, 28 Mar 2024 15:45:55 +0530
 ### [Ashoka University row: How prevalent is casteism in Indian universities?](https://www.firstpost.com/explainers/ashoka-university-row-casteist-slogans-indian-universities-caste-discrimination-13753676.html)
@@ -3931,20 +3937,27 @@ Please note that this summary is based on the information provided in the text a
 Thu, 28 Mar 2024 12:02:30 +0530
 ### [From Gir forest to Indo-Bangla border: How India conducts polls at most remote places](https://www.firstpost.com/explainers/lok-sabha-elections-gir-forest-indo-bangla-border-election-commission-booths-remote-locations-13753202.html)
 
-Article found but Couldn't summarize 
-Travelling through jungles and snow-capped mountains, wading through rivers, carrying EVMs on horse and elephant backs, setting up polling stations in tents, shipping containers and booths in hamlets with lone voters, the Election Commission of India (ECI) goes to great lengths to hold elections
+The article describes the extensive efforts of the Election Commission of India (ECI) to ensure inclusive voting in the 2024 Indian elections, where 969 million voters are expected to participate. The ECI sets up polling stations in challenging locations, such as jungles, mountains, and remote islands, using various means of transportation like horses, elephants, and boats. Notable examples include the world's highest polling station in Tashigang, Himachal Pradesh, and special booths for a single voter in the Gir forest and a remote hamlet in Arunachal Pradesh. The ECI also accommodates internally-displaced persons and communities with unique historical backgrounds, like the Siddis. Efforts to improve the voting process include doubling the honorarium for polling officials in difficult areas and providing special equipment for carrying Electronic Voting Machines (EVMs). These measures highlight the ECI's commitment to the principle "No voter is left behind."
 
 Thu, 28 Mar 2024 11:58:24 +0530
 ### [Is Vladimir Putin planning an invasion of Moldova's Transnistria?](https://www.firstpost.com/explainers/russia-vladimir-putin-invasion-moldova-transnistria-13753553.html)
 
-Article found but Couldn't summarize 
-Since Russia fully invaded Ukraine two years ago, a string of incidents in Transnistria have periodically raised the spectre that Moldova could also be in Moscow's crosshairs. The parallels between Moldova and Ukraine are stark: both are former Soviet republics with aspirations to align with the West and join the European Union
+The article discusses the heightened tensions in Moldova, particularly in the breakaway region of Transnistria, following Russia's invasion of Ukraine. Moldova, like Ukraine, is a former Soviet republic with aspirations to join the European Union and has been on edge due to a series of incidents in Transnistria that suggest it could be a target for Russian geopolitical maneuvers. Transnistria, which has a significant Russian-speaking population and historical ties to Russia, has experienced explosions, political assassinations, and other provocations that have raised concerns about Russia's intentions.
+
+Moldova's government has accused Russia of planning further actions in Transnistria to induce panic and weaken the economy, as military aggression is not feasible. The Kremlin denies these allegations, but recent events, such as the expulsion of a Russian diplomat and the opening of Russian polling stations in Transnistria, have exacerbated the situation.
+
+The article also touches on the challenges Moldova faces, including missile landings, energy crises, inflation, and anti-government protests. Moldova's foreign minister emphasizes the importance of Ukrainian resistance and Western support to ensure Moldova's safety. The government claims Russia is waging a "hybrid war" against Moldova, including funding protests and disinformation campaigns to undermine the government and its EU aspirations.
+
+A recent incident involving a helicopter explosion in Transnistria, which Moldovan authorities suggest was staged, has added to the tension. The possibility of resolving the conflict and reintegrating Transnistria into Moldova is discussed, with skepticism expressed about the likelihood of this happening by 2030, when Moldova aims to join the EU. The article concludes with the assertion that Moldova remains committed to a peaceful settlement and is working to build resilience against hybrid threats.
 
 Thu, 28 Mar 2024 10:53:32 +0530
 ### [Canada records its fastest population growth in 66 years: Why it matters](https://www.firstpost.com/explainers/canada-fastest-population-growth-significance-13753514.html)
 
-Article found but Couldn't summarize 
-Canada has added 1.27 million people in 2023, up 3.2 per cent from the previous year, marking the highest growth since 1957. The surge is primarily caused by temporary immigration
+Canada experienced a significant population growth in 2023, reaching a total of 40.77 million people, which is the fastest increase since 1957. This 3.2% rise, amounting to 1.27 million new residents, was mainly due to temporary immigration. The country's housing market has been impacted, with a shortage leading to increased house prices and decreased affordability. Statistics Canada reported that nearly all of the population growth was from international migration, with a notable rise in non-permanent residents for the third consecutive year.
+
+Economists have expressed concerns about the rapid population growth outpacing the economy's ability to provide necessary services and infrastructure, such as housing, healthcare, and education. To address the housing crisis, it's estimated that Canada needs to construct 170,000 new housing units every three months, a target currently not being met.
+
+In response to these challenges, the Canadian government has implemented measures to limit the number of international students and non-permanent residents entering the country each year. As of January 1, 2024, there were approximately 2.66 million non-permanent residents in Canada. These measures aim to reduce population growth to a more manageable 1% annually, which is considered sustainable for the economy. While these changes might alleviate inflationary pressures and potentially lead to a rate cut by the Bank of Canada, they could also slow down GDP growth.
 
 Thu, 28 Mar 2024 09:58:52 +0530
 ### [Delhi excise policy case: Why the ED has trained its guns on AAP leaders in Goa](https://www.firstpost.com/explainers/delhi-excise-policy-case-arvind-kejriwal-amit-palekar-ed-aap-goa-13753489.html)
