@@ -1,3 +1,43 @@
+Fri, 10 May 2024 20:56:42 +0530
+### [Who is Mikhail Mishustin, Russia's re-elected PM and Putin’s loyal aide?](https://www.firstpost.com/explainers/who-is-mikhail-mishustin-russias-re-elected-pm-and-putins-loyal-aide-13769536.html)
+
+The article discusses the political landscape in Russia following Vladimir Putin's re-election as President. After his inauguration, Putin proposed that Mikhail Mishustin continue as Prime Minister, a motion that was approved by the State Duma. Mishustin, who has been in office since 2020, is known for his non-security background, contrasting with the "siloviki" faction close to Putin. His tenure has seen challenges from the COVID-19 pandemic and the Ukraine conflict, leading to his appointment to a Coordination Council to address military supply chain issues.
+
+Mishustin is seen as a potential successor to Putin, given his constitutional position as the first in line to assume the presidency temporarily. However, he maintains a low profile, avoiding political statements and media, which aligns with Putin's preference for a competent and politically unambitious Prime Minister. The article also touches on Putin's strategic maneuvering within the Russian political system, including his previous role as Prime Minister and the constitutional amendment that could extend his presidency until 2036. The article concludes with a mention of the use of Chloropicrin in the Ukraine war and the sacking of the head of the Ukrainian state guard following an assassination attempt.
+
+Fri, 10 May 2024 19:49:51 +0530
+### [Will Arvind Kejriwal’s interim bail benefit the AAP in the Lok Sabha elections? Or is it too late?](https://www.firstpost.com/explainers/arvind-kejriwal-interim-bail-aap-benefit-lok-sabha-elections-too-late-excise-policy-scam-13769480.html)
+
+Delhi Chief Minister Arvind Kejriwal has been granted interim bail by the Supreme Court in a money laundering case linked to an alleged excise policy scam. This decision comes during the Lok Sabha elections and allows Kejriwal to campaign until he must surrender on June 2nd. The court's ruling has been welcomed by the Aam Aadmi Party (AAP), with members expressing relief and interpreting it as a sign of support for democracy and change. Kejriwal's release is expected to energize the AAP's campaign, particularly in the 18 Lok Sabha constituencies where polling is pending. The impact of this interim bail on the election results remains to be seen, with the final phase of voting scheduled for June 1st and results announced on June 4th.
+
+Fri, 10 May 2024 19:34:30 +0530
+### [Bear Facts: Did a Chinese zoo paint dogs to make them look like pandas?](https://www.firstpost.com/explainers/china-zoo-panda-dogs-controversy-13769466.html)
+
+The article discusses a controversy at a zoo in Jiangsu province, China, where two Chow Chow dogs were dyed black and white to resemble pandas and displayed as "panda dogs." Despite visitor outrage and accusations of deception and animal cruelty, the zoo defended its actions, claiming they were not misleading customers since the ticket promised "panda dogs," not actual pandas. The zoo justified the move as a creative display to attract visitors and fill the absence of pandas, which require significant space and are a major attraction. The zoo's spokesperson compared dyeing dogs to people dyeing their hair, suggesting it's not harmful if natural dye is used. This incident is not isolated, as other Chinese zoos have previously faced similar accusations of using dogs to imitate other animals. The article includes input from various reports and agencies.
+
+Fri, 10 May 2024 18:56:30 +0530
+### [What's on Arvind Kejriwal's to-do list as he is set to walk out of Tihar jail?](https://www.firstpost.com/explainers/arvind-kejriwal-tihar-jail-13769531.html)
+
+Arvind Kejriwal, the Chief Minister of Delhi, has been granted interim bail by the Supreme Court until June 1 to participate in the Lok Sabha election campaign. The Aam Aadmi Party (AAP) and its supporters are celebrating his release from Tihar Jail, with senior party members and his family members arriving to welcome him. Kejriwal's arrest in March was linked to an alleged excise policy scam, but the Supreme Court noted that he has no criminal history and is not a threat to society. Opposition leaders have praised the court's decision, viewing it as a victory for democracy and a sign of change in India. The court has imposed conditions on Kejriwal's activities during his bail period, including restrictions on visiting his office and signing official files. The final judgement on his plea against the arrest will be pronounced before the summer vacations starting May 20. Kejriwal's release is seen as significant for the AAP's campaign and the broader political landscape in India.
+
+Fri, 10 May 2024 18:46:18 +0530
+### [This is the first country in the world to lose all glaciers. Here’s how](https://www.firstpost.com/explainers/how-venezuela-first-country-to-lose-all-glaciers-13769413.html)
+
+Venezuela has become the first modern nation to lose all its glaciers, with the last one, Humboldt glacier, shrinking below two hectares and reclassified as an ice field. This rapid melting, faster than expected, is attributed to climate change effects like record-high temperatures and El Niño. Despite efforts like a thermal blanket to protect it, experts believe it's too late. The loss signifies more than just ice; it affects ecosystems, cultural identity, and water supply, though Venezuela's glaciers were less critical compared to other Andean nations. Globally, 20-80% of glaciers could disappear by 2100, depending on CO2 emissions. The criteria for an ice mass to be a glacier typically involves deformation under its own weight, commonly set at 0.1 square kilometers. The disappearance of Venezuela's glaciers is seen as a precursor to similar losses in other tropical countries.
+
+Fri, 10 May 2024 18:07:07 +0530
+### [Can Biden, Netanyahu mend their fractured relationship?](https://www.firstpost.com/explainers/joe-biden-benjamin-netanyahu-fractured-relationship-13769486.html)
+
+The article discusses the strained relationship between Israeli Prime Minister Benjamin Netanyahu and U.S. President Joe Biden, particularly in light of their differing stances on the conflict in Gaza. Biden has delayed the shipment of heavy bombs to Israel and threatened to halt further military aid if Netanyahu proceeds with an assault on Rafah in Gaza. Netanyahu, however, has stated his willingness to act alone if necessary.
+
+The tension has escalated over the past seven months, with Netanyahu becoming resistant to Biden's diplomatic approaches. Both leaders are also dealing with domestic political challenges. Biden's aides believe he will not allow a breakdown in the US-Israel alliance and emphasize his commitment to Israel's right to self-defense.
+
+Historically, Biden and Netanyahu have had a complex relationship, with past disagreements over settlements in the West Bank and the Iran nuclear deal. The current situation is further complicated by Netanyahu's political pressures, including a corruption trial and public demand for a hostage deal following a Hamas attack.
+
+In the U.S., Biden faces criticism from various groups over his handling of the conflict, including young voters, Muslim Americans, and Republicans who accuse him of betraying an ally. The article suggests that the friction between the U.S. and Israeli leaders is not new, referencing past tensions between American presidents and Israeli prime ministers.
+
+Overall, the article highlights the delicate balance of international diplomacy, domestic politics, and personal relationships in the context of the ongoing conflict in Gaza.
+
 Fri, 10 May 2024 17:44:56 +0530
 ### [Amritpal Singh files Lok Sabha nomination: Can pro-Khalistani separatist really fight polls from jail?](https://www.firstpost.com/explainers/amritpal-singh-lok-sabha-nomination-13769491.html)
 

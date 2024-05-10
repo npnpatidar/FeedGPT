@@ -1,3 +1,8 @@
+Fri, 10 May 2024 21:10:24 +0530
+### [Karnataka High Court’s verdict cancelling EPF benefits for international workers and its implications | Explained](https://www.thehindu.com/news/national/karnataka-high-courts-verdict-cancelling-epf-benefits-for-international-workers-and-its-implications-explained/article68153394.ece)
+
+The Karnataka High Court has struck down a 2008 amendment to the Employees’ Provident Funds Scheme that included foreign workers in the provident fund (PF), declaring it unconstitutional. The court ruled that the lack of a salary cap for international workers, unlike the ₹15,000 limit for domestic workers, violated the equal protection clause of the Constitution. The decision is expected to be contested, and its impact is being assessed by employers, especially since similar cases are pending in other states. The 1952 Act, which the amendment altered, is a key social security legislation in India, and the ruling may affect India's social security agreements with other countries. The court's decision emphasizes the need for equitable treatment of domestic and international workers under the PF schemes. The Ministry of Labour and Employment is considering an appeal, highlighting the importance of these provisions for Indian workers abroad. The ruling has significant implications for the future of provident fund benefits for international workers in India.
+
 Thu, 09 May 2024 22:50:42 +0530
 ### [Reservation within Constitutional bounds](https://www.thehindu.com/news/national/reservation-within-constitutional-bounds/article68157106.ece)
 

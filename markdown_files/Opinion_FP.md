@@ -1,3 +1,21 @@
+Fri, 10 May 2024 19:18:45 +0530
+### [Stuck in an Orwellian world: Liberal Western media, illiberal global agenda](https://www.firstpost.com/opinion/stuck-in-an-orwellian-world-liberal-western-media-illiberal-global-agenda-13769534.html)
+
+The article discusses the portrayal of India in Western media, highlighting a perceived bias in reporting. It begins with an anecdote from author Umesh Upadhyay, who notes the lack of coverage in Canadian newspapers of Giani Zail Singh's election as President of India in 1982, despite a significant Punjabi population in Canada. Upadhyay suggests that Western media tends to focus on negative stories from developing countries, creating an image of them as crisis-ridden.
+
+The article then critiques the Western media's inability to reconcile India's progress and rise as an economic and geostrategic power with its preconceived narrative of an "exploding India." It argues that Western media, acting as an extension of government interests, often uses adverse reporting to influence diplomatic relations, citing the coverage of the Ukraine war as an example.
+
+Furthermore, the piece raises concerns about foreign influence in American media, think tanks, and academia, particularly from Qatar, Saudi Arabia, and China. It cites significant financial contributions to American institutions and media outlets, suggesting that this funding has led to biased reporting and academic censorship, which threatens democratic values and freedom of expression.
+
+The article concludes by asserting that such influences have created a class of Americans who pose a threat to the idea of America itself. It warns of the dangers of misrepresenting democracies like India in the media, where terms like democracy, authoritarianism, and terrorism are conflated, and criticizes the Western media's discomfort with India's rise and its civilizational identity. The author's views are presented as personal and not reflective of Firstpost's views. The author is identified as the Opinion Editor for Firstpost and News18. 
+
+Please note that this summary reflects the content and claims made within the article itself, and does not necessarily represent my own knowledge or opinions.
+
+Fri, 10 May 2024 18:57:18 +0530
+### [Macron’s attempts to woo Xi and Chinese ‘long game’](https://www.firstpost.com/opinion/macrons-attempts-to-woo-xi-and-chinese-long-game-13769522.html)
+
+The article discusses the strategic and diplomatic implications of Chinese President Xi Jinping's visit to France, which is part of his European tour including Serbia and Hungary. The visit marks 60 years of diplomatic relations between France and China and reflects President Macron's push for a more independent European security policy, less reliant on the US and NATO. The article highlights France's desire to engage China in addressing global crises, particularly the war in Ukraine and the situation in the Middle East. It also touches on the EU's view of China as a "systemic rival" and the varying attitudes of EU member states towards China. The visit is seen as a response to US policies and a sign of shifting influences in the region. The article concludes that both France and China, as well as Serbia and Hungary, have their own strategic interests in this engagement, which challenges the traditional US dominance in the area. The author's views are personal and do not necessarily reflect those of Firstpost.
+
 Fri, 10 May 2024 16:33:50 +0530
 ### [Pakistan: No end in sight to Army, Imran Khan confrontation](https://www.firstpost.com/opinion/pakistan-no-end-in-sight-to-army-imran-khan-confrontation-13769396.html)
 

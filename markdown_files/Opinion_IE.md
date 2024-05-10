@@ -1,3 +1,8 @@
+Fri, 10 May 2024 15:16:53 +0000
+### [Arvind Kejriwal has got bail, but his arrest indicates a broken criminal justice system](https://indianexpress.com/article/opinion/columns/arvind-kejriwal-bail-broken-criminal-justice-system-9320850/)
+
+The article discusses the interim bail granted to Delhi Chief Minister Arvind Kejriwal, emphasizing the right of a political leader to campaign and the broader implications for democracy. It critiques the criminal justice system, highlighting issues like the reversal of the burden of proof, the use of draconian laws, and the targeted nature of prosecutions. The article argues that fair investigation, prosecution, and conditions of detention are essential for justifying the denial of liberty. It also touches on the role of the judiciary in granting bail and the need for judicial intervention to ensure fair processes. The article concludes by questioning the responsibility for fixing the broken criminal justice system, noting the high burden on the Supreme Court and the fear of persecution among many, while others enjoy immunity. The writer is identified as a senior advocate at the Supreme Court and a trustee of the Lawyers Collective.
+
 Fri, 10 May 2024 11:06:43 +0000
 ### [Zadie Smith’s ‘New Yorker’ essay on US campus protests: It is out-of-touch and misleading](https://indianexpress.com/article/opinion/columns/zadie-smiths-new-yorker-essay-on-us-campus-protests-9320180/)
 
