@@ -1,3 +1,57 @@
+Fri, 10 May 2024 17:44:56 +0530
+### [Amritpal Singh files Lok Sabha nomination: Can pro-Khalistani separatist really fight polls from jail?](https://www.firstpost.com/explainers/amritpal-singh-lok-sabha-nomination-13769491.html)
+
+Amritpal Singh, the leader of 'Waris Punjab De', has been detained in Dibrugarh Jail under the National Security Act since last April. Despite this, he has filed his nomination to contest the Lok Sabha polls as an Independent candidate from the Sri Khadoor Sahib constituency in Punjab. His lawyer, Rajdev Singh Khalsa, confirmed that Singh agreed to contest the elections after a meeting in jail. Singh sought temporary release from the Punjab and Haryana High Court to complete his nomination process before the May 14 deadline, including tasks such as taking a photograph and opening a bank account.
+
+The law permits individuals in jail to contest elections but not to vote. Singh is eligible to contest as he has not been convicted. Convicted individuals can run for office six years post-release. Nominations can be filed from prison with a representative's help, and if elected, the individual is released to take the oath of office, as it cannot be administered in prison.
+
+Notably, the Punjab and Haryana High Court dismissed Singh's petition for temporary release because the state government had already assisted him in filing his nomination. The court was informed that Singh completed the necessary paperwork on May 9, and arrangements were made for him to take the oath upon request after submitting his nomination form. Singh was also permitted to meet his proposer and lawyer in jail. This case is not unprecedented, as other politicians have successfully run for office while incarcerated.
+
+Fri, 10 May 2024 17:31:51 +0530
+### [Arvind Kejriwal to be out of jail. But can he vote, campaign for AAP? Can he fulfil his CM duties?](https://www.firstpost.com/explainers/delhi-cm-arvind-kejriwal-supreme-court-bail-vote-campaign-lok-sabha-polls-13769484.html)
+
+Delhi Chief Minister Arvind Kejriwal has been granted interim bail by the Supreme Court until June 1, amidst the ongoing Lok Sabha elections. The Aam Aadmi Party (AAP) has celebrated this decision as a "victory of truth." Kejriwal, who was arrested on March 21 in connection with an alleged money laundering case, will be released from Tihar Jail.
+
+The Supreme Court's decision allows Kejriwal to campaign for the elections, particularly in the constituencies where AAP candidates are contesting. However, while on bail, he is not permitted to visit the Chief Minister's office or the Delhi Secretariat, interact with witnesses, or comment on the excise policy case. He is also restricted from accessing official files related to the case unless necessary for approvals from the Lieutenant Governor of Delhi.
+
+Kejriwal will be able to vote in the elections, as he will be out on bail when Delhi goes to polls on May 25. This is in line with Indian law, which allows prisoners to contest elections but not to vote if they are in prison. The Supreme Court has emphasized the importance of Kejriwal's participation in the elections, despite the Enforcement Directorate's objections, citing the extraordinary circumstances of the election season and Kejriwal's status as an elected official without a history of habitual offenses. Kejriwal is expected to be released from jail later today after fulfilling the bail conditions set by the court.
+
+Fri, 10 May 2024 16:50:41 +0530
+### [The Republican 'veepstakes' begin: Who will be Donald Trump's running mate?](https://www.firstpost.com/explainers/the-republican-veepstakes-begin-who-will-be-donald-trumps-running-mate-13769419.html)
+
+As the U.S. presidential election approaches, **Donald Trump** is in the process of selecting a running mate. The speculation, often referred to as the "veepstakes," has intensified, especially after Trump showcased several potential candidates at a fundraiser in Mar-a-Lago. The list of contenders includes **Senator Tim Scott**, **Representative Elise Stefanik**, **Senator J.D. Vance**, **Senator Marco Rubio**, **Governor Doug Burgum**, and **entrepreneur Vivek Ramaswamy**. Notably, **Governor Kristi Noem** has seen her chances diminish due to past controversies, and **former Vice President Mike Pence** is absent from the discussion after his fallout with Trump.
+
+Trump values loyalty highly and has made various comments about the contenders, praising their support, political skills, and contributions. The decision is expected to be announced around the time of the **Republican National Convention** in mid-July. Historically, vice-presidential picks are revealed just before the convention, although there have been exceptions. The 12th Amendment poses a unique challenge if Trump chooses a running mate from Florida, as it would prevent Florida's electors from voting for both candidates. This was previously addressed in the 2000 election when Dick Cheney changed his voter registration to Wyoming to support George W. Bush's candidacy.
+
+Fri, 10 May 2024 16:29:02 +0530
+### [No love or sex? What are Japan’s ‘friendship marriages’ all about?](https://www.firstpost.com/explainers/japan-friendship-marriages-on-rise-13769364.html)
+
+In Japan, a new trend called "friendship marriage" is gaining popularity among young adults. This arrangement involves legal marriage without romantic or sexual involvement. Instead, it's based on shared interests and values, with the freedom to pursue romantic relationships outside the marriage with mutual consent. Couples deliberate extensively on the practicalities of their shared life before marriage, and some even choose to have children through artificial means. The trend caters to those who reject traditional marriage norms, including asexual and homosexual individuals, and offers practical benefits like tax advantages and societal acceptance. Friendship marriages are seen as an alternative for those who value companionship and connection without the expectations of romantic love. According to the agency Colours, a significant number of these marriages are successful, with couples living harmoniously and starting families. While not all friendship marriages last, they provide a meaningful option for many who seek a different kind of partnership.
+
+Fri, 10 May 2024 15:36:07 +0530
+### [Why did Biden publicly warn Israel over Rafah? Can Netanyahu launch invasion without US supplies?](https://www.firstpost.com/explainers/why-did-biden-publicly-warn-israel-over-rafah-can-netanyahu-launch-invasion-without-us-supplies-13769429.html)
+
+The article discusses the tension between the US and Israel regarding potential military action in Rafah, Gaza. **US President Joe Biden** has warned Israel that the US will not supply weapons for an attack on Rafah, expressing concerns over civilian casualties in Gaza. This stance comes after Israeli forces took control of the Rafah border crossing, which the White House described as a limited operation.
+
+Biden's decision to withhold artillery shells and pause the shipment of heavy bombs to Israel signifies a growing divide between his administration and Israeli Prime Minister **Benjamin Netanyahu's government**. The US President has emphasized the need for Israel to do more to protect civilian lives, and his public statements were made after private advisements to Netanyahu were reportedly ignored.
+
+The article also touches on the domestic political implications for Biden, who faces criticism from both the opposition and the progressive wing of his own Democratic party for his stance on Israel. The progressives demand more pressure on Israel to prevent civilian casualties, while right-wing politicians argue that no level of US support for Israel is sufficient.
+
+Regarding Israel's capability to proceed with an offensive in Rafah without US weapons, the article notes that the US has provided substantial military aid to Israel over the years. Despite the pause in certain weapon supplies, Israel still has access to other munitions and remains largely unaffected in terms of air force capabilities. Israeli officials assert they have enough arms for their planned operations, but a full-scale military operation could quickly deplete their stockpile.
+
+The article concludes that while Israel could potentially carry out the Rafah offensive, it would risk exacerbating the rift with the US over military supplies. Experts suggest that even an immediate halt of weapons may not have an immediate operational impact, but it would be a significant consideration for Israel's military strategy. Netanyahu remains defiant, stating that Israel is prepared to stand alone if necessary.
+
+Fri, 10 May 2024 14:11:09 +0530
+### [Sona Kitna Sona Hai: Why do people buy gold on Akshaya Tritiya?](https://www.firstpost.com/explainers/buying-gold-on-akshaya-tritiya-13769360.html)
+
+Akshaya Tritiya, also known as Akti or Akha Teej, is an auspicious day in India for buying gold, symbolizing wealth and eternal success. This year, it is observed on May 10th, with the puja muhurat starting at 4:17 am and ending at 2:50 am the following day. The festival is associated with new beginnings, such as starting businesses or making investments.
+
+Gold prices have shown a tendency to stabilize or rise during Akshaya Tritiya due to increased demand driven by religious and cultural practices. Last year, despite flat sales volume, the value of gold sold increased due to higher prices. This year, the price for 10 grams of 24-carat gold stands at approximately Rs 71,700, influenced by currency depreciation and duty hikes.
+
+Experts predict a 10-20% decrease in gold sales volume this Akshaya Tritiya compared to last year, but the value is expected to remain similar. The trend of buying physical gold bars and coins is declining, with consumers turning to digital channels for purchases.
+
+Investment in gold has yielded returns of about 19% since the last Akshaya Tritiya, outperforming other indices like the Nifty 50 and Sensex. Over the past 15-20 years, gold has consistently provided a 12-13% return. Despite market fluctuations, Akshaya Tritiya continues to be a day for celebrating new beginnings and the enduring value of gold.
+
 Fri, 10 May 2024 13:36:35 +0530
 ### [Taiwan detects dozens of Chinese warplanes and ships: Why is Beijing upping the ante?](https://www.firstpost.com/explainers/taiwan-detects-dozens-of-chinese-warplanes-and-ships-why-is-beijing-upping-the-ante-13769340.html)
 

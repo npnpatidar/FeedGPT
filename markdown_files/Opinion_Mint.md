@@ -1,3 +1,25 @@
+Fri, 10 May 2024 17:00:17 +0530
+### [Vande Bharat Metro: Will these trains get their routes right?](https://www.livemint.com/opinion/online-views/vande-bharat-metro-will-these-trains-get-their-routes-right-11715333596241.html)
+
+The article discusses the introduction of **Vande Bharat Metro trains** in India, which are expected to significantly reduce travel time between major cities and nearby towns. These trains, operating on dedicated standard gauge tracks, can reach speeds of up to **180km/h** with an average speed of **90km/h**, making them a promising option for quick and safe travel. However, the Indian Railways faces challenges in terms of infrastructure readiness and congestion on tracks, which affects the operation of high-speed trains.
+
+The Vande Bharat Metro, capable of faster acceleration and deceleration, could potentially reduce travel time on routes like Chennai to Tirupati from **3 hours and 35 minutes** to less than **2 hours**. Each train can accommodate **100 seated passengers** and **200 standees**, catering well to second-class passengers' distance requirements.
+
+A significant concern is the fare structure, as the average fare for second-class travel is much lower than the cost of operating Vande Bharat trains. This poses a legacy issue, with passengers accustomed to low fares for existing services. The manufacturing cost of a Vande Bharat Metro coach is about **₹8 crore**, which is substantially higher than that of other train types.
+
+The article suggests that Indian Railways should conduct systematic demand forecasts for various Origin-Destination pairs to ensure optimal patronage and revenue outcomes before introducing these premium services. The author, a railway expert, emphasizes the importance of strategic planning in the deployment of Vande Bharat Metro services to avoid the low occupancy issues faced by some Vande Bharat trains and to improve the financial viability of the new service.
+
+Fri, 10 May 2024 15:30:15 +0530
+### [PM Surya Ghar scheme: Balance consumer equity with discom stability](https://www.livemint.com/opinion/online-views/pm-surya-ghar-scheme-balance-consumer-equity-with-discom-stability-11715333432427.html)
+
+The article discusses the **Pradhan Mantri Surya Ghar: Muft Bijli Yojana (Surya Ghar Yojana)**, a scheme launched by India to generate **40 gigawatts (GW) of rooftop solar energy** by 2026-27, offering up to **300 units of free electricity** monthly to one crore households. It examines the scheme's viability for beneficiaries and distribution companies (discoms), considering the current **11 GW** of rooftop solar installations.
+
+The scheme provides an increased capital subsidy for smaller capacities, aiming to address energy equity and boost household incomes. However, challenges such as limited rooftop space and existing subsidies may deter the intended beneficiaries. The article highlights disparities in the payback period for consumers based on their rooftop solar size and electricity consumption, with wealthier consumers seeing a quicker return on investment.
+
+For discoms, the adoption of rooftop solar has financial implications due to progressive consumer tariffs and the current metering and billing system. The article also addresses the issue of energy accounting and the impact of rooftop solar on discom revenues and fixed cost recovery.
+
+In conclusion, the success of the Surya Ghar Yojana depends on factors like price signalling, grid management, and curtailment policies. The authors suggest that neglecting these aspects could hinder the initiative's management and scaling, emphasizing the need for a balance between consumer financial equity and discom financial stability. The views expressed are personal opinions of the authors from the Centre for Social and Economic Progress (CSEP).
+
 Fri, 10 May 2024 08:30:02 +0530
 ### [Climate catastrophe: Bleached coral should rattle the world into action](https://www.livemint.com/opinion/online-views/climate-catastrophe-bleached-coral-should-rattle-the-world-into-action-11715267419350.html)
 

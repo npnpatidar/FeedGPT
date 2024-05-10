@@ -1,3 +1,21 @@
+Fri, 10 May 2024 11:06:43 +0000
+### [Zadie Smith’s ‘New Yorker’ essay on US campus protests: It is out-of-touch and misleading](https://indianexpress.com/article/opinion/columns/zadie-smiths-new-yorker-essay-on-us-campus-protests-9320180/)
+
+Zadie Smith's essay "Shibboleth" in The New Yorker discusses the use of language and rhetoric in protests, particularly those against Israel's actions in Gaza. Smith highlights the need for protestors to be mindful of their words, considering the impact on individuals such as Jewish students labeled as Zionists. She criticizes both sides of the conflict for their language, like Israel sympathizers' use of terms like "surgical strikes" and activists' rigid stances. However, the essay is critiqued for its timing, publisher's reputation, and Smith's perceived ignorance of her privilege. The New Yorker's passive reporting style is contrasted with the active role language plays in the Israel-Palestine conflict. Smith's narrative includes a personal anecdote about avoiding arrest at a protest, a critique of older generations' view of activism, and a discussion on the complex histories of terms like "Hamas" and "Zionist." The piece concludes by questioning the space given to Smith's views over those more directly involved in the movement, suggesting a disconnect between her nuanced approach and the realities of activism and journalism. The article also briefly mentions criticism of actor Sharmin Segal's performance in Heeramandi, unrelated to the main content.
+
+Fri, 10 May 2024 08:34:25 +0000
+### [Why the 2024 general election is unfair](https://indianexpress.com/article/opinion/columns/why-the-2024-general-election-is-unfair-9320107/)
+
+The article discusses the concerns surrounding the 2024 Indian general elections, highlighting three main issues that challenge the integrity of the electoral process:
+
+1. **Not Free, Not Fair**: The author argues that the principle of free and fair elections is compromised, citing the incarceration of key opposition leaders and the alleged misuse of central investigation agencies like the ED and CBI to intimidate and coerce opposition members into joining the ruling coalition.
+
+2. **A Biased Umpire**: Questions are raised about the independence of the Election Commission (EC) due to the executive's unilateral appointment of two Election Commissioners and the EC's perceived biased response to complaints against the ruling party.
+
+3. **Different Rules for Different Parties**: The article suggests a disparity in the application of laws and regulations, with the Income Tax Department accused of selectively targeting opposition parties while ignoring similar violations by the ruling party.
+
+The writer, associated with the Government of Punjab, expresses personal views on these matters, indicating a test case for democracy based on the spirit of the Kesavananda Bharati judgment, which emphasized the importance of free and fair elections as part of the Constitution's basic structure. The article concludes by questioning the extent to which democratic principles can be stretched in light of these issues. The unrelated content about an actor's performance has been omitted from this summary.
+
 Fri, 10 May 2024 04:47:49 +0000
 ### [Red carpet vs carpet bombing: At the Met Gala, irony was the uninvited guest](https://indianexpress.com/article/opinion/columns/met-gala-2024-israel-hamas-war-garden-of-time-theme-9319618/)
 

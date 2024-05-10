@@ -1,3 +1,12 @@
+Fri, 10 May 2024 16:33:50 +0530
+### [Pakistan: No end in sight to Army, Imran Khan confrontation](https://www.firstpost.com/opinion/pakistan-no-end-in-sight-to-army-imran-khan-confrontation-13769396.html)
+
+The article discusses the tense political situation in Pakistan following the events of May 9, 2023, when supporters of former Prime Minister Imran Khan and his party, Pakistan Tehreek-e-Insaf (PTI), rioted against the army. This led to a confrontation between the army, led by General Asim Munir, and Khan. The army responded by court-martialing and dismissing several of its own members, including the corps commander of Lahore, to maintain discipline and counter Khan's influence.
+
+Despite these measures, Khan's popularity remains significant, especially in the Khyber-Pakhtunkhwa and Punjab provinces. The article highlights the ongoing struggle between Khan and Munir, with Khan refusing to apologize for the riots and alleging a conspiracy to oust his government, known as the "London Plan." Munir, on the other hand, has condemned the riots as "criminally orchestrated violence" and refuses to compromise with those responsible.
+
+The situation remains unresolved, with both sides standing firm. The article suggests that Munir may need to find new ways to address Khan's popularity and prevent further divisions within the army. The author, a former Indian diplomat, expresses personal views that do not necessarily reflect those of the publication. The article concludes that there is no immediate solution to Pakistan's fundamental problems.
+
 Fri, 10 May 2024 08:39:53 +0530
 ### [China racing ahead in critical technologies: How innovation is the only solution for India](https://www.firstpost.com/opinion/china-racing-ahead-in-critical-technologies-how-innovation-is-the-only-solution-for-india-13769244.html)
 

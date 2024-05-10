@@ -1,3 +1,39 @@
+Fri, 10 May 2024 11:44:28 +0000
+### [Why Kerala has banned oleander flowers in temple offerings](https://indianexpress.com/article/explained/kerala-banned-oleander-flowers-temple-offerings-9320431/)
+
+Here's a summary of the article:
+
+Two temple boards in Kerala have banned the use of oleander flowers in temples after a 24-year-old nurse, Surya Surendran, died from accidental oleander poisoning. She was unaware of the plant's toxicity and chewed its leaves, leading to her death days later. Oleander, or Nerium oleander, is a drought-tolerant shrub used for ornamental purposes and known as arali in Kerala. While the Ayurvedic Pharmacopoeia of India notes medicinal uses of oleander, such as treating skin diseases, its toxicity is well-documented. Cardiac glycosides found in the plant can have therapeutic effects on the heart but also pose a high risk of overdose and toxicity. Symptoms of oleander poisoning include nausea, vomiting, and irregular heartbeat, which can last for days and may require hospitalization. The article emphasizes the plant's dual nature as both a medicine and a poison, historically used for therapeutic purposes and as a means of suicide.
+
+Fri, 10 May 2024 10:48:23 +0000
+### [Arvind Kejriwal released on interim bail: the case so far, what now](https://indianexpress.com/article/explained/explained-law/arvind-kejriwal-interim-bail-supreme-court-delhi-excise-policy-9320344/)
+
+Delhi Chief Minister Arvind Kejriwal was granted interim bail by the Supreme Court on May 10, following his arrest on March 21 by the Enforcement Directorate (ED) in connection with the Delhi excise policy case. Kejriwal, who had skipped nine ED summons, was termed the "kingpin and key conspirator" of the scam involving kickbacks from liquor businessmen. Despite the Delhi High Court rejecting his petition against the arrest, the Supreme Court, considering the general elections and Kejriwal's position as an elected official, granted him bail with conditions. He is not to visit the Chief Minister's office or the Delhi Secretariat, interact with witnesses, or comment on the excise scam case. The bail is effective until June 1, coinciding with the closure of voting for the 2024 Lok Sabha elections. This case is separate from the CBI's parallel investigation into the same matter, which also involved the arrest of former Deputy Chief Minister Manish Sisodia.
+
+Fri, 10 May 2024 09:07:28 +0000
+### [Experts Explain: How India’s main political parties view the world](https://indianexpress.com/article/explained/experts-explain-india-main-political-parties-foreign-policy-9320139/)
+
+The article discusses the diverging foreign policy perspectives of India's major political parties as reflected in their manifestos. It highlights the breakdown of the historical consensus on foreign policy, with issues like the Katchatheevu island dispute with Sri Lanka, terrorism from Pakistan, and the Gaza crisis causing divisions. The BJP manifesto emphasizes India's civilizational values and aims to assert India's soft power and global partnerships, while the Congress accuses the BJP of eroding India's international image and pledges to restore it. The CPI(M) criticizes the BJP for aligning too closely with US interests.
+
+The manifestos show a lack of imaginative policies towards neighboring countries, with the BJP advocating a "Neighbourhood First Policy" and the Congress focusing on bilateral relations and repairing ties with neighboring countries. The CPI(M) and CPI emphasize non-alignment and South-South cooperation. The DMK and Trinamool Congress manifestos reflect concerns over domestic politics and regional issues, such as the treatment of Tamil Nadu fishermen and Chinese territorial claims.
+
+The article also touches on the role of the Indian diaspora, with the BJP and Congress acknowledging its importance in foreign policy. The BJP counts the safe return of citizens abroad as an achievement and promises further engagement, while the Congress proposes re-establishing a ministerial position to address diaspora concerns.
+
+Overall, the manifestos suggest a predominantly inward-looking perspective with broad principles rather than specific positions on international issues. The authors of the article, Amitabh Mattoo and Chetan Rana, provide this analysis, with Mattoo being a Dean and Professor at JNU and Rana an Associate Editor and doctoral candidate. The unrelated content about actor Sharmin Segal's performance and Sonakshi Sinha's viral clip has been omitted from this summary.
+
+Fri, 10 May 2024 08:34:31 +0000
+### [Explained: Rationalist Narendra Dabholkhar’s murder case, in which two have been sentenced to life terms](https://indianexpress.com/article/explained/narendra-dabholkhar-murder-case-sentence-9320105/)
+
+Over a decade after the assassination of Dr. Narendra Dabholkar, a rationalist and anti-superstition activist, a Special UAPA Court in Pune has delivered its verdict. Two men, Sachin Andure and Sharad Kalaskar, were convicted and sentenced to life imprisonment for Dabholkar's murder, while three others were acquitted due to insufficient evidence.
+
+Dr. Dabholkar, who was a prominent figure in the fight against superstition through his organization MANS, was shot dead in Pune in 2013. His murder, along with the killings of other rationalists and activists, sparked national debates on freedom of speech and rational thought.
+
+The investigation into these murders revealed potential links and common perpetrators. Initially, two men were arrested based on ballistic evidence but were later released. The CBI took over the case in 2014, leading to the arrest of Dr. Virendrasinh Tawade, associated with the radical Sanatan Sanstha, and later the actual assailants, Andure and Kalaskar.
+
+The CBI's investigation faced contradictions, with initial suspects being absolved and new ones charged. The agency also struggled to recover the murder weapon, despite efforts to retrieve it from a creek.
+
+The trial highlighted the complexities of the case, with the CBI facing criticism for not thoroughly investigating the higher-ups in the Sanatan Sanstha. The verdict has brought some closure to the case, although questions about a larger conspiracy remain unanswered.
+
 Fri, 10 May 2024 02:28:30 +0000
 ### [What are the grounds for challenge to US law forcing TikTok sale](https://indianexpress.com/article/explained/what-are-the-grounds-for-challenge-to-us-law-forcing-tiktok-sale-9319157/)
 
