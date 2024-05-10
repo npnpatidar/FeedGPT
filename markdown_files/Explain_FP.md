@@ -1,3 +1,29 @@
+Fri, 10 May 2024 08:42:13 +0530
+### [The far-right is on the rise in Germany. Here's why](https://www.firstpost.com/explainers/the-far-right-is-on-the-rise-in-germany-heres-why-13769034.html)
+
+The article discusses the rise of far-right sentiment in Germany, particularly the growth of the Alternative for Germany (AfD) party, which has shifted from a Eurosceptic and anti-immigration stance to promoting nationalist and anti-Semitic rhetoric. This shift has found support in former East German states, where economic challenges persist. The AfD's growth is attributed to factors such as high immigration rates, societal uncertainties, and the perceived ineffectiveness of the current government.
+
+In response, German authorities have implemented measures to limit the operational capabilities of extremist groups, while public opposition to far-right ideologies has manifested in widespread protests. The challenge of addressing far-right extremism is complex, with the AfD's popularity among younger voters in economically struggling regions and radical factions within the party threatening democratic values.
+
+Efforts to ban the AfD are controversial, balancing the protection of democratic principles against the suppression of extremist views. Germany's approach to combating far-right extremism includes civic education, community integration projects, international cooperation, and addressing the root causes of extremism. The country's future actions, including upcoming elections and European Parliament decisions, will be crucial in shaping the influence of far-right movements on policy and society.
+
+Fri, 10 May 2024 06:00:47 +0530
+### [FirstUp: Kejriwal's bail plea decision, UN vote on Palestine membership... Top events today](https://www.firstpost.com/explainers/firstup-kejriwals-bail-plea-decision-un-vote-on-palestine-membership-top-events-today-13769117.html)
+
+Here's a summary of the article:
+
+- **India's Supreme Court Decision**: The Supreme Court is set to announce its decision on Delhi Chief Minister Arvind Kejriwal's interim bail plea related to an alleged money laundering case. Kejriwal, arrested on March 21, is currently in judicial custody. The court's decision will also determine if he can perform official duties if granted bail.
+
+- **Farmers' Protests in Pakistan**: Nationwide protests by farmers are scheduled to start in Pakistan on May 10, led by Kissan Ittehad Pakistan. The protests are in response to the wheat crisis, with market prices significantly below the support price, and discontent over the import of wheat despite a local bumper crop.
+
+- **UNGA Vote on Palestine**: The United Nations General Assembly is expected to vote on a resolution for full UN membership for Palestine. This follows a US veto at the Security Council last month that blocked the Palestinian Authority’s bid.
+
+- **Pandemic Accord Negotiations**: Countries are set to finalize the pandemic accord, which proposes wealthier nations contribute a fair share of tests, treatments, and vaccines during pandemics to assist underprivileged countries. The accord is expected to be adopted at the WHO's annual meeting.
+
+- **Peace Talks for South Sudan**: Peace talks aimed at resolving the conflict in South Sudan are to begin in Nairobi, Kenya. Facilitated by former army commander Lazurus Sumbeiywo, the talks seek to reconcile differences and bring more groups into the 2018 peace agreement.
+
+These events are poised to have significant impacts on international relations and economic policies. The article provides an in-depth look at these global newsmakers set for May 10.
+
 Thu, 9 May 2024 20:49:23 +0530
 ### [After Singapore, Hong Kong, US, EU flags Indian food products: What's wrong?](https://www.firstpost.com/explainers/eu-flags-indian-food-products-for-contamination-13768896.html)
 

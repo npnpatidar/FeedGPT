@@ -1,3 +1,31 @@
+Fri, 10 May 2024 02:28:30 +0000
+### [What are the grounds for challenge to US law forcing TikTok sale](https://indianexpress.com/article/explained/what-are-the-grounds-for-challenge-to-us-law-forcing-tiktok-sale-9319157/)
+
+TikTok Inc. and ByteDance Ltd. are challenging a U.S. law that requires the app to be sold to a non-foreign adversary entity by January 19, 2025. They argue that creating a standalone U.S. TikTok is not feasible for three main reasons: the global nature of the platform's content, the impossibility of transferring the source code to a new team within the given timeframe, and the inability to export TikTok's recommendation engine without Chinese government approval. Despite drafting a National Security Agreement with robust data protection measures and spending $2 billion on its implementation, TikTok and ByteDance claim Congress passed the law without proper justification or addressing actual threats, making it both under-inclusive and over-inclusive. The law also uniquely targets TikTok and ByteDance, while other companies would require a presidential determination to be affected. The challenge is currently before the U.S. Court of Appeals for the District of Columbia Circuit.
+
+Fri, 10 May 2024 01:55:34 +0000
+### [How Olympics got torch relay](https://indianexpress.com/article/explained/how-olympics-got-torch-relay-9319158/)
+
+The article provides a historical and ceremonial overview of the Olympic torch as it arrives in Marseille, France, in anticipation of the upcoming Paris Summer Games. The torch, which was first lit in Olympia, Greece, will be relayed across France, culminating in its arrival in Paris on July 26 for the opening ceremony. The tradition of the Olympic Games dates back approximately 3,000 years, with the Olympics website citing 776 BC as a reference point. The Games not only represent competition but also the possibility of peace, as evidenced by the 9th century BC Olympic Truce. The modern Olympics were revived in 1894 by Pierre de Coubertin, with the first Games of the modern era held in Athens in 1896. The torch relay tradition began with the 1936 Berlin Games, inspired by ancient Greek torch races. The Olympic flame is lit using a mirror method that ensures its purity, a practice that continues today. The torch is carried by thousands across cities and countries, with the final torchbearer's identity, typically a notable sports figure or young leader, kept secret until the opening ceremony. The tradition of torchbearers has evolved to include women and people with disabilities since the 1972 Munich Games. The article concludes with unrelated information about a local water supply shutdown in Mumbai, India, which is not connected to the Olympic torch narrative.
+
+Fri, 10 May 2024 01:20:41 +0000
+### [Meeting nutrition challenge: What new guidelines prescribe](https://indianexpress.com/article/explained/explained-health/meeting-nutrition-challenge-what-new-guidelines-prescribe-9319195/)
+
+The article discusses the rising concern of noncommunicable diseases (NCDs) in India, affecting not just adults but also adolescents and children. The National Institute of Nutrition (NIN), under the Indian Council of Medical Research (ICMR), has released comprehensive dietary guidelines for various vulnerable groups, including pregnant and lactating women, children, and the elderly.
+
+**Key points from the guidelines:**
+- **Unhealthy diets** are responsible for 56.4% of India's disease burden.
+- **Healthy diets and physical activity** can prevent 80% of Type 2 diabetes and reduce heart disease and high blood pressure.
+- **Optimal nutrition** from conception to 2 years of age is crucial for growth and preventing undernutrition and obesity.
+- The **Comprehensive National Nutrition Survey 2019** indicated a high prevalence of lifestyle conditions in children, with notable percentages of overweight, obese, diabetic, and pre-diabetic children and adolescents.
+- **Micronutrient deficiencies** are prevalent among children, and the guidelines suggest diet charts to address these along with overnutrition diseases.
+- **Anaemia** remains a significant issue, with varying prevalence among different age groups of children.
+- **Dietary recommendations** include consuming nutrients from at least eight food groups and limiting cereal intake to 45% of total energy. More proteins and essential fatty acids are encouraged, especially for vegetarians.
+- **Salt intake** should be limited to 5g per day, and highly processed foods should be avoided.
+- **Specific advice for pregnant women, infants, children, and the elderly** focuses on frequent meals, breastfeeding, complementary foods after six months, and a diet rich in proteins, calcium, micronutrients, and fiber for the elderly, along with exercise.
+
+The article emphasizes the importance of a balanced diet and physical activity in combating the rise of NCDs and maintaining overall health across different age groups. It also highlights the shift from traditional undernutrition issues to the current challenges of overnutrition and lifestyle diseases.
+
 Thu, 09 May 2024 13:57:50 +0000
 ### [Why agriculture may need a new export-import policy](https://indianexpress.com/article/explained/explained-economics/agriculture-new-export-import-9318675/)
 

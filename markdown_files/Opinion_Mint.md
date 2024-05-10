@@ -1,3 +1,13 @@
+Fri, 10 May 2024 08:30:02 +0530
+### [Climate catastrophe: Bleached coral should rattle the world into action](https://www.livemint.com/opinion/online-views/climate-catastrophe-bleached-coral-should-rattle-the-world-into-action-11715267419350.html)
+
+The article discusses the severe coral bleaching in the Lakshadweep islands, attributed to marine heatwaves since October 2023. This is the fourth and most severe instance of coral bleaching recorded, signaling a significant threat to marine life and the natural beauty of the islands. The bleaching occurs when excessive heat disrupts the symbiotic relationship between coral polyps and algae, leading to the corals turning skeletal and white. While coral reefs can recover from bleaching under favorable conditions, the rising temperatures suggest an increased risk of large-scale damage. The article compares this situation to the Great Barrier Reef, which has experienced similar events, and emphasizes the urgent need for global action on climate change to prevent further ecological disasters. It highlights humanity's role in this crisis and the failure to reduce carbon emissions as pledged, with a call for more immediate and effective measures.
+
+Fri, 10 May 2024 07:15:17 +0530
+### [Movies on a leash: Pre-poll censorship?](https://www.livemint.com/opinion/quick-edit/movies-on-a-leash-pre-poll-censorship-11715268828178.html)
+
+The article discusses the recent trend of politically charged films in India, drawing from real events and offering significant commentary. It highlights the surprise move by India's film certification board to delay approvals for certain films until after the Lok Sabha elections, citing examples like "Sabarmati Report," "Jahangir National University," and "Pratinidhi 2." The article questions the reasons behind this censorship, its implications for artistic freedom, and the potential influence of cinema on public beliefs and behaviors. The hold-back of these films has sparked discussions in entertainment circles, reflecting the subjective nature of censorship decisions and their impact on society.
+
 Thu, 09 May 2024 16:00:08 +0530
 ### [Consumerism rules: It’s visible in creams, dreams and vanity mirrors](https://www.livemint.com/opinion/online-views/consumerism-rules-it-s-visible-in-creams-dreams-and-vanity-mirrors-11715189081680.html)
 
