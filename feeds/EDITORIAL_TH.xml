@@ -5,6 +5,28 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/EDITORIAL_TH.xml</link>
 		<description>EDITORIAL TH</description>
 		<item>
+			<title>Voting for relief: On interim bails and elections</title>
+			<link>https://www.thehindu.com/opinion/editorial/voting-for-relief-delhi-cm-interim-bails-and-the-election/article68161655.ece</link>
+			<description>The Supreme Court of India granted interim bail to Delhi Chief Minister Arvind Kejriwal, reversing his arrest that had raised concerns about fairness in the ongoing general election. Kejriwal's arrest in March for alleged corruption related to a liquor policy was seen as a threat to federalism and democracy, especially since it occurred during the election period. The Court justified the bail until June 1, to ensure his participation in the election doesn't compromise its integrity.
+
+The bail conditions prohibit Kejriwal from the Delhi Secretariat and Chief Minister's office, and he agreed not to sign any official documents without the Lieutenant General's approval. Despite not responding to the Enforcement Directorate's summonses, the Court noted that the charges against him are based on statements from suspects-turned-approvers, whose credibility will be assessed during the trial. The article also discusses the broader implications of bail conditions and their influence on perceptions of political bias in the judiciary.</description>
+			<pubDate>Sat, 11 May 2024 00:20:00 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url=""></media:thumbnail>
+			<media:content url="" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Folds and faults: on AlphaFold 3</title>
+			<link>https://www.thehindu.com/opinion/editorial/folds-and-faults-on-alphafold-3/article68161671.ece</link>
+			<description>The article discusses the advancements in solving the protein-folding problem, a key mystery in structural biology. It highlights the development of AlphaFold by DeepMind, an AI tool that predicts protein structures. The first version, AlphaFold, was released in 2018, followed by AlphaFold 2, and recently, AlphaFold 3. These tools have significantly improved our understanding of protein structures, with AlphaFold 3 capable of nearly 80% accuracy and modeling DNA, RNA, and other molecules.
+
+However, the article points out that while these tools can predict how proteins fold, they do not explain why, leaving that to human scientists. It also mentions the uncertain impact of these advancements on drug discovery, as many drugs fail in clinical trials due to unforeseen interactions within the body. The article calls for DeepMind to consider alternative revenue models for AlphaFold 3, as its limited free use and undisclosed inner workings contrast with the open access to data used for its training, which was derived from publicly funded research. The article suggests that such cutting-edge tools should be more accessible, especially when they hold significant potential for healthcare advancements.</description>
+			<pubDate>Sat, 11 May 2024 00:10:00 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url=""></media:thumbnail>
+			<media:content url="" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Turmoil and test: On Haryana politics</title>
 			<link>https://www.thehindu.com/opinion/editorial/turmoil-and-test-on-haryana-politics/article68157885.ece</link>
 			<description>The political landscape in Haryana is experiencing upheaval as three independent MLAs have withdrawn support from the BJP-led government. The JJP has offered to back the Congress to establish an alternative government. The BJP, now with 43 MLAs, is short of the majority mark in the 88-member assembly. Despite this, BJP leaders maintain that their government is stable, hinting at potential backing from discontented JJP MLAs.
