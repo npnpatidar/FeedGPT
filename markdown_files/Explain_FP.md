@@ -1,3 +1,93 @@
+Fri, 10 May 2024 13:36:35 +0530
+### [Taiwan detects dozens of Chinese warplanes and ships: Why is Beijing upping the ante?](https://www.firstpost.com/explainers/taiwan-detects-dozens-of-chinese-warplanes-and-ships-why-is-beijing-upping-the-ante-13769340.html)
+
+Ahead of the inauguration of Taiwan's president-elect Lai Ching-te on May 20, Beijing has intensified its influence campaigns and military activities near Taiwan. Lai, a pro-independence politician, is set to succeed Tsai Ing-wen. China, which claims Taiwan as part of its territory, has not ruled out the use of force to assert control. The Taiwanese defense ministry reported detecting numerous Chinese warplanes and ships around Taiwan, with some aircraft coming close to key Taiwanese cities.
+
+Taiwan's National Security Bureau noted that China has adopted new military tactics, including night-time patrols and the use of landing ships and minesweepers. Diplomatically, Beijing has eased some travel and import restrictions, which some experts view as part of a broader influence operation against Taiwan involving disinformation and economic pressure.
+
+The US has also been involved, with a warship transiting the Taiwan Strait, which China considers a violation of its jurisdiction, while the US and Taiwan view it as an international waterway. President-elect Lai has appointed key cabinet members to maintain continuity in national security and foreign policy, indicating a continuation of the current administration's approach. Taiwan's government maintains that only the island's people can decide their future, rejecting Beijing's sovereignty claims. The period leading up to Lai's inauguration is being closely monitored for any increase in Chinese military activities.
+
+Fri, 10 May 2024 13:31:27 +0530
+### [What is the Narendra Dabholkar murder case in which the court has found 2 men guilty?](https://www.firstpost.com/explainers/what-is-the-narendra-dabholkar-murder-case-in-which-the-court-has-found-2-men-guilty-13769365.html)
+
+After over a decade of investigation, a special court in Pune has convicted Sachin Andure and Sharad Kalaskar for the murder of Dr. Narendra Dabholkar, sentencing them to life imprisonment. Dr. Dabholkar, a renowned anti-superstition activist, was shot dead in Pune in 2013. The case saw multiple twists, with initial suspects later acquitted and the investigation taken over by the CBI, which led to the arrest of the two men now found guilty. The chargesheets suggest that Dabholkar and other rationalists were targeted for their views, which were seen as obstacles to the establishment of a Hindu Rashtra. The investigation linked the murders of Dabholkar and three other rationalists, indicating a common conspiracy. Dr. Dabholkar's work led to the enactment of a law against black magic and inhuman practices, which he had championed for years.
+
+Fri, 10 May 2024 13:14:14 +0530
+### [What are oleander flowers now banned in Kerala temples after woman’s death? How toxic are they?](https://www.firstpost.com/explainers/kerala-temples-ban-oleander-flowers-after-death-of-woman-13769259.html)
+
+In Kerala, the tragic death of a 29-year-old woman due to oleander poisoning has led to a ban on the flower by two temple boards. The vibrant oleander, commonly used in religious offerings, has been linked to several poisoning cases, including the recent incident where the woman accidentally ingested oleander leaves. Following this, over 2,000 temples in Kerala have prohibited the use of oleander in food offered to deities and as prasad to devotees.
+
+The Travancore Devaswom Board and the Malabar Devaswom Board, overseeing a large number of temples, have advised devotees to use alternative flowers like tulsi, thechi, and rose for offerings. Oleander, known for its medicinal properties in traditional remedies, is highly toxic if ingested improperly. Every part of the plant contains cardiac glycosides, which can cause severe health issues or even death. Prompt medical attention is crucial in cases of oleander poisoning, with immediate steps including removing plant residues from the mouth and drinking fluids to mitigate toxin absorption. Recovery chances improve significantly with swift medical intervention.
+
+Fri, 10 May 2024 13:04:06 +0530
+### [Who is Barron Trump, former US president Donald Trump's youngest son, set to debut in politics?](https://www.firstpost.com/explainers/us-donald-trumps-youngest-son-barron-trump-political-debut-13769250.html)
+
+Barron Trump, the youngest son of former U.S. President Donald Trump, is set to take on a role at the Republican National Convention in July. At 18 years old, he will join his siblings in representing Florida as one of the 41 at-large delegates. The convention, to be held in Milwaukee from July 15-18, will see the GOP officially nominate Donald Trump as their presidential candidate for the November election.
+
+Barron, born to Donald and Melania Trump in 2006, spent his early years in New York City and attended private schools. After his father's inauguration in 2017, he moved into the White House, becoming the first male child to live there since JFK Jr. He currently attends a private school in Palm Beach, Florida.
+
+While his elder siblings were more involved in their father's administration, Barron's privacy has been closely guarded. As he turns 18, he is showing an interest in the political process and will graduate from high school soon. His father's campaign has been gaining delegates, with Donald Trump securing a significant lead in the Republican primary. Meanwhile, Ivanka Trump has stepped back from the campaign, and Melania Trump is expected to become more publicly involved as the campaign progresses.
+
+President Joe Biden is anticipated to be announced as the Democratic nominee, setting the stage for a presidential rematch, the first since 1956. Amidst this, Donald Trump is managing legal challenges, including accusations of fabricating company records, with his first criminal trial underway. He denies any wrongdoing. The summary omits unrelated content and focuses on the key points of the article.
+
+Fri, 10 May 2024 11:57:09 +0530
+### [Has share of Hindu population in India declined, Muslims increased? A look at the PM-EAC report and the controversy](https://www.firstpost.com/explainers/share-of-hindu-population-india-decline-muslim-increase-pm-eac-report-13769325.html)
+
+The article discusses a study by the Economic Advisory Council to the Prime Minister (EAC-PM) on the religious population composition in India from 1950 to 2015. The key findings include:
+- **Hindu population share decreased by 7.82%** (from 84.68% to 78.06%).
+- **Muslim population share increased by 43.15%** (from 9.84% to 14.09%).
+- Christian and Sikh populations saw modest increases, while Parsi and Jain populations declined.
+
+The report has sparked political debate, with BJP leaders attributing the demographic changes to past Congress policies and suggesting implications for future reservations. Critics, including opposition leaders and the Population Foundation of India, have questioned the report's accuracy and the potential for it to incite communal tension.
+
+The study also compared religious majority trends globally and in SAARC countries, noting that India's trend differs from its neighbors. The EAC-PM clarified that the report was agnostic to the causes of demographic change and aimed to measure minority well-being, concluding that minorities in India are thriving. The article includes various political reactions and emphasizes the controversy surrounding the interpretation of the data.
+
+Fri, 10 May 2024 11:37:58 +0530
+### [UN to vote on full membership for Palestine: Can its statehood demand see success?](https://www.firstpost.com/explainers/un-vote-palestine-full-membership-can-statehood-demand-see-success-13769265.html)
+
+The UN General Assembly is set to vote on a resolution to grant Palestine full membership, which includes a clause allowing for full rights even if the US vetoes in the Security Council. The resolution is significant because it:
+- Reaffirms the creation of a Palestinian state based on 1967 borders.
+- Expresses regret over the US veto at the UNSC and asks for reconsideration.
+- Proposes granting Palestine full membership rights even without UNSC admission, on an exceptional basis.
+
+Palestine's current status is a non-member observer state, a position it has held since 2012, allowing it to join international organizations and treaties. The bid for full UN membership has been ongoing for over a decade but has faced opposition, primarily from the US. The new resolution could bypass the UNSC's requirement for admission, which has been a significant hurdle due to the need for nine affirmative votes and no vetoes from the five permanent members.
+
+If successful, Palestine's full membership would be a diplomatic victory, increasing its leverage and visibility. However, it could also have geopolitical repercussions, including the potential cessation of US funding to the UN, as mandated by US legislation if Palestine is granted full membership. Currently, 142 of the 193 UN countries recognize the State of Palestine, suggesting the resolution could pass in the UNGA, but the UNSC's approval remains uncertain.
+
+Fri, 10 May 2024 11:07:38 +0530
+### [One big reason not to have junk. It will kill you faster. Here's proof](https://www.firstpost.com/health/ultraprocessed-junk-food-kill-faster-proof-13769138.html)
+
+The article discusses a study published in the BMJ journal, which analyzed data from 115,000 individuals and found a link between high consumption of ultra-processed foods and an increased risk of early death. Ultra-processed foods, which include processed meats, sugary breakfast items, and beverages with sugar or artificial sweeteners, are often low in essential nutrients and designed to encourage overconsumption.
+
+**Key findings** include:
+- A higher mortality risk associated with consuming seven or more servings of ultra-processed foods daily.
+- An 8% increased risk of neurodegenerative diseases for those with high intake, but no significant rise in mortality for cancer or cardiovascular diseases.
+- Specific ultra-processed foods, such as processed meats and sugary snacks, were linked to adverse health outcomes.
+
+The study's limitations include its observational nature, which shows associations rather than causation, and the potential influence of other unhealthy habits prevalent among high consumers of ultra-processed foods.
+
+The article also touches on the Nova system, which categorizes foods based on processing levels, from unprocessed to ultra-processed. It suggests that not all processed foods are harmful, with some like whole-grain bread possibly being beneficial. Public health initiatives are recommended to improve dietary habits, such as banning trans fats and restricting marketing of unhealthy products to children.
+
+In summary, the study urges caution in the consumption of ultra-processed foods due to their potential health risks and advocates for healthier eating practices supported by public policy.
+
+Fri, 10 May 2024 10:45:14 +0530
+### [Which countries supply Israel with weapons? Who has halted exports?](https://www.firstpost.com/explainers/which-countries-supply-israel-with-weapons-who-has-halted-exports-13769284.html)
+
+The article discusses escalating tensions between the US and Israel due to Israel's ongoing conflict in Gaza. President Joe Biden warned that the US might stop supplying weapons to Israel if they continue their assault on Rafah. The US, the largest arms supplier to Israel, has suspended the delivery of heavy bombs over concerns of their use in urban areas. The US has historically provided significant military aid to Israel, including the development of advanced fighter jets and missile defense systems.
+
+Germany, another major supplier, has increased its defense exports to Israel, focusing on air defense systems and communications equipment. Italy has halted new export approvals due to the conflict, only fulfilling previously signed orders after ensuring they won't be used against civilians.
+
+Britain, not a major supplier, licenses companies to sell defense components, including those used in US supply chains. Canada and the Netherlands have also stopped arms exports to Israel, citing concerns over humanitarian law violations.
+
+The article includes inputs from Reuters and mentions that the information is available on YouTube. Copyright notice for Firstpost is also included.
+
+Fri, 10 May 2024 10:13:16 +0530
+### [India secures release of 5 sailors on ship seized by Iran. Why it isn’t over yet?](https://www.firstpost.com/explainers/india-release-5-sailors-msc-aries-iran-capture-remaining-indians-on-board-what-next-13769278.html)
+
+India has achieved a diplomatic success by securing the release of five Indian sailors from the MSC Aries, which was seized by Iran. The sailors are now on their way home. The Indian embassy in Iran coordinated closely with Iranian authorities for their release. India's External Affairs Minister, S Jaishankar, had engaged in discussions with his counterparts in Iran and Israel to facilitate this outcome. One Indian crew member, Ann Tessa Joseph, had been released earlier in April and reported being treated well during her captivity. Efforts continue to release the remaining 11 Indian crew members, with some technicalities and contractual obligations cited as reasons for the delay.
+
+The MSC Aries, linked to Israel and operated by MSC, was captured by Iran's Islamic Revolutionary Guard Corps Navy near the Strait of Hormuz for allegedly violating maritime laws. The seizure occurred shortly before Iran launched an attack on Israel in response to an airstrike on its consulate in Damascus. This is not the first instance of Iran seizing commercial vessels, with similar incidents reported in recent years, including actions by Iranian-backed Houthi rebels against ships in the Red Sea and Gulf of Aden. The situation remains complex, with ongoing diplomatic efforts to resolve the remaining issues.
+
 Fri, 10 May 2024 08:42:13 +0530
 ### [The far-right is on the rise in Germany. Here's why](https://www.firstpost.com/explainers/the-far-right-is-on-the-rise-in-germany-heres-why-13769034.html)
 

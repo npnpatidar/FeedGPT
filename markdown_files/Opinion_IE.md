@@ -1,3 +1,8 @@
+Fri, 10 May 2024 04:47:49 +0000
+### [Red carpet vs carpet bombing: At the Met Gala, irony was the uninvited guest](https://indianexpress.com/article/opinion/columns/met-gala-2024-israel-hamas-war-garden-of-time-theme-9319618/)
+
+The article provides a critical analysis of the Met Gala's theme "The Garden of Time," drawing parallels to the 1962 short story by J.G. Ballard. It highlights the irony of celebrities attending the opulent event, dressed in theme-related costumes, while ignoring the underlying class commentary and current global conflicts, such as the situation in Palestine. The writer reflects on the moral dilemma faced by those in arts and culture, questioning the appropriateness of celebrating fashion and luxury amidst rallying cries for social justice. The piece concludes with a contemplation of society's role in perpetuating the disconnect between the elite and the realities of the world. The writer is associated with Stumble, the culture vertical of Kommune. The unrelated content regarding the IPL 2024 points table has been omitted from this summary.
+
 Fri, 10 May 2024 02:46:51 +0000
 ### [The naysayers are wrong. Indian economy is seeing robust growth](https://indianexpress.com/article/opinion/columns/the-naysayers-are-wrong-indian-economy-is-seeing-robust-growth-9319073/)
 
