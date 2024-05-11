@@ -1,3 +1,23 @@
+Sat, 11 May 2024 10:35:52 +0000
+### [Living with Thalassemia: Why mental health must come into focus too](https://indianexpress.com/article/opinion/columns/thalassemia-mental-health-focus-9322063/)
+
+The article discusses the psycho-social challenges faced by individuals with thalassemia, a chronic blood disorder. It highlights the need for robust psycho-social support for patients and their families, which is often overlooked by healthcare systems focused mainly on physical treatment. The emotional impact of the disorder can lead to depression, low self-esteem, and social isolation, particularly among adolescents who may also struggle with body image issues due to the disease's effects.
+
+The author shares personal experiences of feeling isolated and different from peers during school years, battling loneliness and bullying due to physical limitations. The article emphasizes that these challenges persist into adulthood, affecting personal relationships, workplace interactions, and overall quality of life.
+
+The piece advocates for the integration of mental health professionals into treatment teams, the establishment of support groups, and age-specific therapy sessions to address the unique concerns of different age groups. It calls for educational workshops for patients and families, training for healthcare professionals to recognize emotional distress, and policy changes to include mental and social well-being in national health guidelines.
+
+The article concludes by stressing the importance of psycho-social support in improving health outcomes and creating a safety net for patients and families, enabling individuals with thalassemia to lead fulfilling lives beyond the limitations of their illness. The writer identifies as a PhD candidate at the University of Delhi and a research assistant at Oxford Policy Management. The unrelated content about a celebrity engagement has been omitted from this summary.
+
+Sat, 11 May 2024 08:28:57 +0000
+### [On Technology Day, a reminder: Science has always been about making people’s lives better](https://indianexpress.com/article/opinion/columns/on-technology-day-a-reminder-science-has-always-been-about-making-peoples-lives-better-9321838/)
+
+The article discusses the profound impact of science and technology on society, referencing J D Bernal's 1939 book "The Social Function of Science." It highlights how scientific advancements have historically transformed human lives and continue to do so at an accelerated pace. The article emphasizes India's post-independence technological progress, citing examples like the Pokhran nuclear tests, the Trishul missile, and the Hansa aircraft. It also mentions National Technology Day, celebrated on May 11 in recognition of these achievements.
+
+The article points out that while high-profile technological feats like Chandrayaan-3's landing attract public attention, incremental improvements in quality of life often go unnoticed. It showcases the Niti Aayog's Aspirational Districts program, which has significantly improved living conditions through science and technology interventions, particularly in Nowrangpur district, Odisha.
+
+The writer, a former Director General of CSIR and Secretary of DSIR, Government of India, argues that the social function of science is to transform lives, even if the science itself may not seem groundbreaking. The article concludes by asserting that the public celebration of technological achievements motivates scientists and engineers, and that fundamental research, even when focused on material aspects, contributes greatly to society. The unrelated content about Abdu Rozik's engagement has been omitted from this summary.
+
 Sat, 11 May 2024 06:01:29 +0000
 ### [Deepfakes in elections: They have shaken our faith in our own judgement](https://indianexpress.com/article/opinion/columns/deepfakes-in-elections-they-have-shaken-our-faith-in-our-own-judgement-9321702/)
 

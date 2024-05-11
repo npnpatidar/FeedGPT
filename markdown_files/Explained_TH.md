@@ -1,3 +1,8 @@
+Sat, 11 May 2024 15:31:07 +0530
+### [Why did Scotland’s government under Humza Yousaf fall apart? | Explained](https://www.thehindu.com/news/international/scotland-government-humza-yousaf-resigns-john-swinney-first-minister-explained/article68162422.ece)
+
+John Swinney has been sworn in as the First Minister of Scotland following the resignation of Humza Yousaf. Yousaf's departure came after the Scottish National Party (SNP), which advocates for Scottish independence, ended its power-sharing agreement with the Scottish Greens due to a decision to scrap climate targets. The SNP has faced financial scrutiny since 2021, leading to multiple resignations and arrests, including former First Minister Nicola Sturgeon and her husband, Peter Murell. The SNP's recent actions led to a no-confidence motion, which they survived, allowing Swinney to take leadership. The Scottish Greens have expressed their conditional support for the SNP, emphasizing their commitment to climate crisis policies. The SNP remains a minority government and maintains its goal to reach net zero emissions by 2045, despite scrapping the 2030 target and facing criticism for failing to meet previous climate goals.
+
 Sat, 11 May 2024 08:07:02 +0530
 ### [What is DigiLocker and does it keep your data safe? | Explained](https://www.thehindu.com/sci-tech/technology/what-is-digilocker-and-does-it-keep-your-data-safe-explained/article68163891.ece)
 

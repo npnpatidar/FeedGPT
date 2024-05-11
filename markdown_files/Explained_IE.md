@@ -1,3 +1,15 @@
+Sat, 11 May 2024 09:42:57 +0000
+### [Explained: Behind the two decade delay in Naga municipal polls](https://indianexpress.com/article/explained/explained-politics/naga-municipal-polls-womens-reservation-delay-9321962/)
+
+Nagaland is preparing for municipal elections on June 26, the first since 2004. The elections have been delayed due to disputes over a 33% reservation for women, which some argue contradicts Naga customary laws protected by the Constitution. The Naga Mothers' Association has been a key advocate for the reservation, leading to a Supreme Court directive to hold the elections. However, violent protests and political pressure led to the resignation of a Chief Minister and the repeal of the original Municipal Act. A new Nagaland Municipal Bill was passed in 2023, maintaining the women's reservation but removing the chairperson reservation and property tax provisions. The upcoming elections will follow this new legislation.
+
+Sat, 11 May 2024 09:32:29 +0000
+### [ISRO successfully tests 3D-printed rocket engine: What is 3D printing and how does it work?](https://indianexpress.com/article/explained/explained-sci-tech/isro-3d-printing-rocket-engine-9321975/)
+
+The Indian Space Research Organisation (ISRO) has achieved a significant milestone by successfully testing the PS4 liquid rocket engine, which has been redesigned for production using 3D printing technology. This additive manufacturing process constructs three-dimensional objects layer by layer from materials such as plastic, composites, or bio-materials. The 3D printing approach contrasts with traditional subtractive manufacturing methods and allows for the creation of complex shapes and moving parts without the need for assembly.
+
+ISRO's use of 3D printing for the PS4 engine, which powers the fourth stage of the Polar Satellite Launch Vehicle (PSLV), has resulted in a reduction of the engine's parts from 14 to a single piece, eliminating 19 weld joints and saving 97% of raw material. Additionally, this innovation has cut down the overall production time by 60%. The successful long-duration test of the re-designed engine marks a design and manufacturing breakthrough for ISRO, showcasing the potential of 3D printing in space technology.
+
 Sat, 11 May 2024 02:02:01 +0000
 ### [Israel, Saudi Arabia, and churn in the Middle East: The view from India](https://indianexpress.com/article/explained/israel-saudi-arabia-and-churn-in-the-middle-east-the-view-from-india-9321088/)
 

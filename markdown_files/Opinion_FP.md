@@ -1,3 +1,35 @@
+Sat, 11 May 2024 17:46:17 +0530
+### [To suggest ‘Squad’ will replace Quad is silly and baseless; India is a critical part of security matrix in South China Sea](https://www.firstpost.com/opinion/to-suggest-squad-will-replace-quad-is-silly-and-baseless-india-is-a-critical-part-of-security-matrix-in-south-china-sea-13769777.html)
+
+The article discusses the ongoing debate about the relevance of the Quad, a strategic alliance between India, Japan, Australia, and the US, in light of a new quadrilateral framework involving the US, Japan, Australia, and the Philippines, informally called the 'Squad'. The 'Squad' has emerged due to the Philippines under President Ferdinand Marcos taking a stronger stance against China's assertiveness in the South China Sea, reversing the previous policy of appeasement. This has led to increased military cooperation between the Philippines and its treaty allies, including joint naval and air drills.
+
+The article argues that the 'Squad' is not a replacement for the Quad but a supplement, as the Quad has a broader scope that includes non-traditional security threats and various other sectors like health, cybersecurity, and climate change. It emphasizes that the Quad's multi-tiered structure allows it to address a wide range of issues in the Indo-Pacific region without directly antagonizing China.
+
+Furthermore, the article highlights India's critical role in the Indo-Pacific strategy, noting its increasing diplomatic and military ties with the Philippines, including defense cooperation and economic partnerships. It concludes that the Quad remains an important framework in the regional security matrix and that its broad focus is a strength rather than a weakness. The views expressed are personal opinions of the author and do not necessarily reflect those of Firstpost.
+
+Sat, 11 May 2024 17:04:27 +0530
+### [How Blinken’s China visit failed to put Sino-American ties on track](https://www.firstpost.com/opinion/how-blinkens-china-visit-failed-to-put-sino-american-ties-on-track-13769766.html)
+
+The article discusses the complex relationship between the US and China amidst geopolitical tensions. It highlights US Secretary of State Antony Blinken's visit to China in April 2024, which aimed to establish basic stability in US-China relations despite mutual distrust. The visit occurred against the backdrop of China's economic and technological growth, its global influence through initiatives like the Belt and Road, and its military advancements.
+
+The US perceives China as a principal adversary and is taking steps to rebuild its industrial strength and reduce dependence on Chinese technology. Simultaneously, the US is attempting to contain both Russia and China, which has led to closer cooperation between the two. The US's strategy includes pressuring Europe to limit technology transfers to China and managing competition with China while maintaining cooperation in selected areas.
+
+China, facing economic challenges, is seeking dialogue with the US to ease tensions. Chinese President Xi Jinping emphasized the need for partnership, mutual respect, and peaceful coexistence between the two nations. However, the US is concerned about China's support for Russia's defense production and its actions in the Taiwan Strait.
+
+The meetings between Blinken and Chinese officials revealed differing perspectives on several issues, including Taiwan, trade policies, and regional security. The US readout of the meetings focused on managing competition and defending US interests, while the Chinese readout emphasized the importance of a stable bilateral relationship and cooperation in various fields.
+
+The article concludes by noting the absence of Chinese officials at Blinken's departure, suggesting an underwhelming outcome of the visit. The views expressed are those of the author, a former Indian Foreign Secretary, and do not necessarily reflect the publication's stance. The summary omits unrelated content as requested.
+
+Sat, 11 May 2024 15:37:02 +0530
+### [As Putin starts his new term, is the world heading towards multi-polarity?](https://www.firstpost.com/opinion/as-putin-starts-his-new-term-is-the-world-heading-towards-multi-polarity-13769742.html)
+
+The article provides a comprehensive overview of Vladimir Putin's leadership and Russia's geopolitical stance under his rule. It highlights Putin's early life, his rise to power, and his continuous leadership since 1999. The piece discusses Putin's domestic policies, economic strategies, military developments, and his bold geopolitical moves, including the annexation of Crimea and the conflict in Ukraine. It also touches on the controversies surrounding human rights issues and the International Criminal Court's arrest warrant for Putin. The article concludes by reflecting on Russia's relations with other countries, especially within the SCO and BRICS, and Putin's vision of a multipolar world opposing US dominance. The author's views are personal and do not necessarily reflect those of the publication.
+
+Sat, 11 May 2024 13:46:46 +0530
+### [Pitroda’s jeans and genes: India isn’t America, Sam](https://www.firstpost.com/opinion/pitrodas-jeans-and-genes-india-isnt-america-sam-13769719.html)
+
+The article presents a critique of Sam Pitroda's views on indigenous populations and genetics in India. It contrasts Pitroda's perspective with the author's personal experiences and historical accounts, suggesting that India has a diverse genetic history that cannot be simplified into stereotypes. The author discusses their own ancestry, which includes influences from various regions and cultures, highlighting the complexity of genetic heritage in India. The piece also touches on Pitroda's role in India's telecom revolution and his current involvement in the National Herald case. The author, who is the chairman of the Prime Minister's Economic Council, emphasizes that the views expressed are personal and not reflective of Firstpost's stance. The summary omits any unrelated content or advertisements.
+
 Sat, 11 May 2024 12:53:01 +0530
 ### [Admiral SM Nanda: The man who gave Indian Navy its finest hour](https://www.firstpost.com/opinion/admiral-sm-nanda-the-man-who-gave-indian-navy-its-finest-hour-13769697.html)
 
