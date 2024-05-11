@@ -1,3 +1,10 @@
+Sat, 11 May 2024 23:40:59 +0530
+### [When Belgian policemen become Catholic priests](https://www.thehindu.com/opinion/columns/when-belgian-policemen-become-catholic-priests/article68165968.ece)
+
+The article discusses the trend of creating backstories for well-known characters in contemporary literature and media. It notes that this practice has become embedded in our culture, with characters ranging from superheroes like Batman to literary figures like Hercule Poirot receiving elaborate histories. The author suggests that often these backstories are unnecessary and lack imagination, citing a recent TV adaptation of Perry Mason as an example of a poorly conceived backstory.
+
+The piece also touches on the tradition of new authors taking on old favorites and crafting new adventures that respect the original backstories. However, it criticizes the tendency of some adaptations, particularly on television, to alter characters' backstories or the plots of their stories significantly. This includes changes made to Agatha Christie's characters and stories, which have sparked opposition among fans and researchers. The author argues that such changes may be driven by a desire for political correctness or inclusivity, but they often detract from the original works. The article concludes by questioning the need for such extensive alterations, suggesting that they can lead to absurd results if taken too far.
+
 Fri, 03 May 2024 21:30:10 +0530
 ### [Political Line | Keywords of 2024: Communalism, casteism, and constitutionalism](https://www.thehindu.com/opinion/columns/political-line-newsletter-keywords-of-2024-communalism-casteism-and-constitutionalism/article68136893.ece)
 
