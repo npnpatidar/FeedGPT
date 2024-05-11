@@ -1,3 +1,8 @@
+Fri, 10 May 2024 22:43:34 +0000
+### [SC Arvind Kejriwal bail ruling could set precedent for political detainees](https://indianexpress.com/article/explained/sc-arvind-kejriwal-bail-ruling-could-set-precedent-for-political-detainees-9321302/)
+
+The Supreme Court of India granted interim bail to Delhi Chief Minister Arvind Kejriwal, allowing him to campaign for elections. This decision is seen as an unprecedented move that could set a precedent for future political detainees. The court emphasized the importance of participatory democracy and the need for a level playing field in elections, which it deemed part of the Constitution's basic structure. The order also mentioned previous instances where the court confirmed bail for political leaders, highlighting the right to political speech. The court's decision on Kejriwal's case was based on individual facts, acknowledging his role as a national party leader and Chief Minister. Additionally, the court allowed Kejriwal to fulfill certain duties as Chief Minister, such as signing official files for the Lieutenant Governor of Delhi's approval. The article also briefly mentions charges framed against a BJP leader in a separate case of sexual harassment.
+
 Fri, 10 May 2024 14:20:26 +0000
 ### [Gold continues to glitter. What should investors do?](https://indianexpress.com/article/explained/explained-economics/gold-investors-surge-akshay-triyiya-9320765/)
 
