@@ -1,3 +1,32 @@
+Sat, 11 May 2024 13:27:15 +0530
+### [Korean Air aircraft to become US air force’s ‘doomsday planes': What are they, and why does America need them?](https://www.firstpost.com/explainers/korean-air-doomsday-planes-us-air-force-13769688.html)
+
+The article discusses the United States Air Force's (USAF) plan to upgrade its fleet of "doomsday planes," which are airborne command centers designed to survive extreme scenarios like nuclear war. The Sierra Nevada Corporation has acquired five Boeing 747 jets from Korean Air to replace the USAF's current E-4B Nightwatch aircraft. These planes are equipped with features such as EMP protection, mid-air refueling capability, advanced communications, and robust design to withstand nuclear conditions.
+
+The E-4B, a modified Boeing 747-200B, serves as a mobile command center for US leadership and is always kept on high alert. The new generation of planes, called the Survivable Airborne Operations Center (SAOC), will have a modular design for easy updates and integration of new systems. The transition to Boeing 747-8s will provide more advanced technology, better fuel efficiency, and increased capacity, ensuring the US maintains its military command and control capabilities. The SAOC represents a significant overhaul to enhance and extend the lifespan of these critical assets.
+
+Sat, 11 May 2024 12:58:53 +0530
+### [How ‘severe’ solar storms hitting Earth could disrupt communication, lead to blackouts](https://www.firstpost.com/explainers/how-severe-solar-storms-hitting-earth-could-disrupt-communication-lead-to-blackouts-13769676.html)
+
+The article discusses the most intense solar storm Earth has faced in over two decades, marked by a series of coronal mass ejections (CMEs) that began on Friday and escalated into an extreme geomagnetic storm. This event has caused beautiful auroras but also poses a risk of disrupting communication networks and power grids due to fluctuating magnetic fields. The storm can affect satellites and spacecraft, potentially causing orientation shifts or damage to electronic components, and can also disrupt radio transmissions and GPS signals. Consumer wireless networks and cellphones are expected to experience minimal direct impact, but there is a potential risk to the power grid and high-voltage transmission lines. The article recalls the Carrington Event of 1859, the most intense solar storm recorded, and notes that while the International Space Station (ISS) is not in serious danger, increased radiation levels could threaten some of NASA's science satellites. Wildlife and navigation systems may also be affected, as seen in the reduced homing of pigeons during geomagnetic storms. The article concludes by highlighting the importance of backup power generators and mobile cellular towers to maintain communication during such events.
+
+Sat, 11 May 2024 10:20:25 +0530
+### [This Week in Explainers: Can Arvind Kejriwal fulfil his CM duties now that he is out on bail?](https://www.firstpost.com/explainers/this-week-in-explainers-arvind-kejriwal-bail-campaign-delhi-cm-13769636.html)
+
+This week's news roundup includes several key topics:
+
+- **Arvind Kejriwal**, the Chief Minister of Delhi, has been granted interim bail after 51 days in jail related to the Delhi excise policy case. His release comes with certain restrictions and raises questions about his ability to perform his duties and participate in the upcoming elections.
+
+- **Sam Pitroda**, a veteran Congress leader, resigned from his position as the party's overseas unit chief following backlash over his recent racist remarks, adding to the Congress party's challenges during a busy election season.
+
+- Voter turnout has been notably lower in the current election compared to previous years, with factors such as heatwaves and urban apathy contributing to the decline. This trend has caused concern in the stock markets, although it is not an entirely new phenomenon.
+
+- A report by the Economic Advisory Council to the Prime Minister (PM-EAC) has sparked debate by showing a decrease in the Hindu population's share and an increase in the minority populations' share in India between 1950 and 2015, leading to political discussions.
+
+- The Indian Council of Medical Research (ICMR) has released dietary recommendations advising Indians to consume less oil and salt, reduce cereal intake, and increase protein consumption through pulses, meat, poultry, and fish.
+
+These are the highlights from India this week, focusing on political developments and public health recommendations.
+
 Fri, 10 May 2024 20:56:42 +0530
 ### [Who is Mikhail Mishustin, Russia's re-elected PM and Putin’s loyal aide?](https://www.firstpost.com/explainers/who-is-mikhail-mishustin-russias-re-elected-pm-and-putins-loyal-aide-13769536.html)
 
@@ -4365,32 +4394,41 @@ The article concludes without an official statement from Tajikistan regarding th
 Tue, 26 Mar 2024 14:30:30 +0530
 ### [Kerala CM says a Muslim coined ‘Bharat Mata Ki Jai’ slogan: Who was Azimullah Khan?](https://www.firstpost.com/explainers/kerala-cm-pinarayi-vijayan-muslim-coined-bharat-mata-ki-jai-slogan-azimullah-khan-1857-revolt-13752808.html)
 
-Article found but Couldn't summarize 
-Kerala CM Pinarayi Vijayan asked at a rally against the CAA whether Sangh Parivar would abandon ‘Bharat Mata Ki Jai’ as Azimullah Khan, a Muslim, first used the slogan. Khan, a close aide of Marathi leader Nana Saheb, was a strategist in the Revolt of 1857
+Kerala Chief Minister Pinarayi Vijayan, at a rally against the Citizenship Amendment Act, questioned if the Sangh Parivar would reject the slogan 'Bharat Mata Ki Jai' knowing it was first used by Azimullah Khan, a Muslim and a key figure in the 1857 Revolt. Vijayan highlighted Khan's contributions as a strategist and his association with Nana Saheb Peshwa, emphasizing Khan's efforts in the fight against British rule, including his role in shaping public opinion through the newspaper Payaam-e-Azadi. The CM's comments brought renewed attention to Khan's historical significance and his use of the slogan as a patriotic call during the First War of Independence.
 
 Tue, 26 Mar 2024 13:39:11 +0530
 ### [How Donald Trump’s net worth has risen to $6.5 billion, making him one of the world's richest people](https://www.firstpost.com/explainers/donald-trump-net-worth-billions-richest-people-trump-media-and-technology-truth-social-13752787.html)
 
-Article found but Couldn't summarize 
-Donald Trump is now on the list of Bloomberg billionaires after his net worth rose by $4 billion (Rs 33,339 crore). This windfall came after the former US president’s social media company known as Trump Media & Technology Group completed a merger with a company known as DWAC. Moreover, a court lowered his bond payment in a New York civil fraud lawsuit
+Donald Trump's net worth has significantly increased, placing him on the Bloomberg billionaires list with a total net worth of $6.5 billion. This surge is primarily due to the merger of his social media company, Trump Media & Technology Group, with Digital World Acquisition Corp. The company, which owns Truth Social, will become public and trade under the symbol DJT. Despite the company's modest revenue, Trump's stake is valued at over $3 billion on paper. However, the stability of this valuation is uncertain due to the volatile nature of the stock and a six-month lock-up period on his shares. Additionally, Trump has reported substantial cash holdings and income from various assets, including real estate, golf courses, hotels, and royalties. His financial status has also been affected by a legal victory that reduced his bond payment in a civil fraud lawsuit. Trump's exact fortune remains unclear as he has not disclosed his financial records for public scrutiny.
 
 Tue, 26 Mar 2024 12:28:48 +0530
 ### [Will Japan export lethal arms soon? Why is this decision controversial?](https://www.firstpost.com/explainers/japan-export-lethal-arms-changes-controversial-13752714.html)
 
-Article found but Couldn't summarize 
-Japan’s Cabinet has approved a plan to sell future next-generation fighter jets that it’s developing with Britain and Italy to other countries on Tuesday. Why is Japan changing its stance on arms exports?
+Japan's Cabinet has approved a significant policy shift to sell next-generation fighter jets, co-developed with Britain and Italy, to other countries. This move deviates from Japan's post-World War II pacifist stance and is driven by the need to strengthen its defense industry and play a more substantial role in global affairs amid rising tensions, particularly with China.
+
+The new policy includes a revision of Japan's arms equipment and technology transfer guidelines, allowing the sale of co-produced lethal weapons beyond the project partners. However, Tokyo currently plans to limit exports to the new fighters, which are not expected to be operational until 2035.
+
+The future jet, part of the Global Combat Air Program, aims to replace Japan's aging F-2 fighters with advanced sensing and stealth capabilities. The decision to allow exports is intended to support the development costs and enhance Japan's defense industry, which has historically served only its Self Defense Force.
+
+The policy change is controversial due to Japan's constitutional commitment to self-defense and its history as a wartime aggressor. The government has faced criticism for not fully explaining this shift to the public. To mitigate concerns, exports are restricted to the new jet, and sales for use in active wars are prohibited.
+
+Looking ahead, Japan may consider additional defense partnerships and explore new markets for the jet, excluding Taiwan. The policy could also lead to increased defense and weapons industry cooperation with the United States and a more prominent role in regional defense partnerships. Japan's stance on arms exports reflects its response to regional security challenges and its strategic objectives. The full implications of this policy change will unfold in the coming years as Japan navigates its defense and diplomatic relationships.
 
 Tue, 26 Mar 2024 11:45:55 +0530
 ### [The political row over derogatory comments against Kangana Ranaut: Who said what?](https://www.firstpost.com/explainers/kangana-ranaut-supriya-shrinate-comments-controversy-bjp-congress-himachal-pradesh-mandi-13752712.html)
 
-Article found but Couldn't summarize 
-Days after Kangana Ranaut was handed the BJP ticket from Himachal Pradesh’s Mandi, she finds herself battling sexism. Derogatory remarks purportedly by Congress’ social media head Supriya Shrinate have triggered a row with the BJP demanding her sacking
+Kangana Ranaut, recently given a BJP ticket to contest from Mandi in Himachal Pradesh, is facing sexism and derogatory remarks. Congress social media head Supriya Shrinate allegedly made demeaning comments about Ranaut on Instagram, which she later claimed were posted by someone else with access to her accounts. Shrinate also mentioned a parody Twitter account spreading the remarks. Congress leader HS Ahir and writer Mrinal Pande made similar comments, which they attributed to account hacking.
+
+Ranaut responded on social media, highlighting her diverse roles as an actress and calling for an end to prejudice against women. The BJP has demanded Shrinate's removal, with national spokesperson Shehzad Poonawalla questioning the simultaneous attacks on Ranaut by various individuals associated with Congress. Union Minister Smriti Irani defended Ranaut, praising her resilience. The National Commission on Women condemned the Congress leaders' conduct and sought action from the Election Commission.
+
+The article reflects on the broader issue of sexism faced by women politicians, citing examples like Sonia Gandhi, Smriti Irani, Nirmala Sitharaman, and President Droupadi Murmu, who have all encountered prejudice in their political careers. The content concludes with a call for respect and dignity for all women.
 
 Tue, 26 Mar 2024 10:24:25 +0530
 ### [The men behind the Moscow concert hall attack that killed at least 137 people](https://www.firstpost.com/explainers/moscow-concert-hall-attack-arrested-four-suspects-13752674.html)
 
-Article found but Couldn't summarize 
-Russia has arrested four suspected gunmen for their involvement in the concert shooting at the Crocus City concert hall near Moscow. They have been identified by media as citizens of Tajikistan. All of them have been charged with terrorism and could face life imprisonment
+Four suspects have been arrested in connection with a deadly shooting at the Crocus City concert hall near Moscow, which resulted in at least 137 fatalities. Identified as citizens of Tajikistan, they face terrorism charges and potential life imprisonment. The suspects appeared in court with injuries amid allegations of torture, which the Kremlin has not commented on. The Islamic State has claimed responsibility for the attack, although Russia's president has not explicitly named the group, and Russian media has suggested Ukrainian involvement, which Ukraine denies.
+
+The suspects, ranging in age from 19 to 32, have diverse backgrounds, including a barber and a father of four. They have been depicted in various states of distress in media and social media, with signs of physical abuse. Their pre-trial detention is set until 22 May, pending the trial date. The case has drawn international attention, with US officials acknowledging the Islamic State's claim of responsibility. The suspects' treatment and the circumstances of their arrest have raised concerns, reflecting the complex geopolitical and social issues surrounding the incident.
 
 Tue, 26 Mar 2024 09:59:20 +0530
 ### [Is UN Security Council’s Gaza ceasefire resolution enforceable?](https://www.firstpost.com/explainers/un-security-council-gaza-ceasefire-resolution-enforceable-law-meaning-israel-hamas-war-13752663.html)

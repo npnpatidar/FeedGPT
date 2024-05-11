@@ -1,3 +1,12 @@
+Sat, 11 May 2024 12:53:01 +0530
+### [Admiral SM Nanda: The man who gave Indian Navy its finest hour](https://www.firstpost.com/opinion/admiral-sm-nanda-the-man-who-gave-indian-navy-its-finest-hour-13769697.html)
+
+The article commemorates Admiral Sardarilal Mathradas Nanda on his 15th death anniversary, highlighting his pivotal role in the Indian Navy's success during the 1971 India-Pakistan war. It outlines the transformation of the Indian Navy from a modest coastal force at independence to a formidable maritime power under Admiral Nanda's leadership. The Navy's extensive operations during the war are praised for their offensive spirit and strategic impact, which led to the surrender of over 90,000 Pakistani combatants.
+
+Admiral Nanda's career is detailed, from his early days in the Royal Indian Naval Volunteer Reserve to his tenure as Chief of the Naval Staff. His visionary leadership and risk-taking abilities are credited with the Navy's bold and aggressive stance during the war, including the decisive attacks on Karachi. The article also discusses Nanda's man-management skills, his ability to solve problems pragmatically, and his influence in shaping naval policies and infrastructure.
+
+Despite controversies post-retirement, the article argues that Admiral Nanda's contributions to the Navy and the nation remain significant. He is remembered for instilling pride within the Navy and for his role in establishing India as a respected maritime power. The Indian Navy honors his legacy by celebrating Navy Day on December 4th, marking the successful operations against Karachi during the war. Admiral Nanda passed away on May 11, 2009, and is revered among naval personnel for his dedication and leadership. The author, a navy veteran, offers personal views that do not necessarily reflect those of the publication.
+
 Fri, 10 May 2024 19:18:45 +0530
 ### [Stuck in an Orwellian world: Liberal Western media, illiberal global agenda](https://www.firstpost.com/opinion/stuck-in-an-orwellian-world-liberal-western-media-illiberal-global-agenda-13769534.html)
 

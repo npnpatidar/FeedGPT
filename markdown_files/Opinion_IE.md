@@ -1,3 +1,8 @@
+Sat, 11 May 2024 06:01:29 +0000
+### [Deepfakes in elections: They have shaken our faith in our own judgement](https://indianexpress.com/article/opinion/columns/deepfakes-in-elections-they-have-shaken-our-faith-in-our-own-judgement-9321702/)
+
+The article discusses the impact of deepfakes on our ability to trust information, especially in the context of elections. It highlights that while misinformation and manipulation by politicians are not new, deepfakes challenge our capacity to discern truth, undermining trust in our own judgment. The author argues that deepfakes are not just about being fooled by false information, but about the loss of confidence in our ability to verify what's real. This is exacerbated by the collapse of context and information overload on social media, where algorithms dictate content, making it difficult to engage thoughtfully. The article suggests that as long as we accept these conditions, no regulation can effectively combat the spread of deepfakes, leaving us in an age of suspended judgment where everything could be potentially fake. The writer is a professor of Global Media and a faculty associate at the Berkman Klein Centre for Internet & Society, Harvard University, USA. The unrelated content regarding IPL standings has been omitted from this summary.
+
 Sat, 11 May 2024 03:00:45 +0000
 ### [Forty years: Shabana Azmi, Om Puri win National Film Awards](https://indianexpress.com/article/opinion/40-years-ago/forty-years-shabana-azmi-om-puri-win-national-film-awards-9321042/)
 
