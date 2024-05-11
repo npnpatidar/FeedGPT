@@ -1,3 +1,8 @@
+Sat, 11 May 2024 14:33:17 +0000
+### [What are northern and southern lights? Why do they occur?](https://indianexpress.com/article/explained/explained-sci-tech/northern-southern-lights-aurora-9322408/)
+
+The article discusses the recent appearance of auroras, both the northern lights (aurora borealis) and southern lights (aurora australis), in various parts of the world including Ladakh, the United States, the United Kingdom, New Zealand, and Australia. Auroras are natural, colorful light displays in the sky, occurring near the poles but sometimes visible at lower latitudes during strong solar activity. This phenomenon is caused by charged particles from the Sun, known as solar wind, interacting with Earth's magnetic field and atmospheric gases, producing lights in different colors. The recent widespread visibility of auroras was due to a geomagnetic storm triggered by a coronal mass ejection (CME) hitting Earth. The National Oceanic and Atmospheric Administration (NOAA) labeled the storm as extreme and noted the possibility of more CMEs affecting Earth. Geomagnetic storms can disrupt various space-dependent systems like GPS, communications, and power grids.
+
 Sat, 11 May 2024 09:42:57 +0000
 ### [Explained: Behind the two decade delay in Naga municipal polls](https://indianexpress.com/article/explained/explained-politics/naga-municipal-polls-womens-reservation-delay-9321962/)
 

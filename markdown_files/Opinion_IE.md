@@ -1,3 +1,24 @@
+Sat, 11 May 2024 13:12:04 +0000
+### [View from Pakistan: India uses similar oppressive tactics in Kashmir as Israel does in Palestine](https://indianexpress.com/article/opinion/columns/pakistan-india-kashmir-israel-palestine-9322299/)
+
+The article discusses several key issues related to India and Pakistan:
+
+- **Indian Elections**: Pakistani media is scrutinizing Prime Minister Narendra Modi's speeches, particularly his characterization of Muslims as "infiltrators" and the INDIA bloc's policies on wealth distribution. The Express Tribune criticizes the Election Commission of India for ignoring Instagram's removal of Modi's videos due to hate speech violations.
+
+- **International Response**: The Daily Times expresses disappointment over the international community's silence on Modi's hate speech, suggesting that a non-elite country would face global condemnation for similar actions.
+
+- **India-Israel Comparison**: The Nation draws parallels between India and Israel regarding their historical oppression, citing the use of oppressive tactics in Kashmir and Palestine, including mass graves and sexual violence in Kashmir.
+
+- **Violence in Balochistan**: Recent attacks in Balochistan have targeted Punjabi workers, raising concerns about ethnic violence. Dawn emphasizes that while local employment should be prioritized, violence against external workers is unjustifiable.
+
+- **Inequality in Pakistan**: News International highlights the ongoing struggle for equal rights in Balochistan, advocating for a fair federation that addresses the grievances of smaller provinces.
+
+- **Political Unrest in Pakistan**: The article reflects on the one-year anniversary of former Prime Minister Imran Khan's arrest, which led to nationwide riots. President Asif Ali Zardari labeled it a dark day for Pakistan, and there are calls for political reconciliation and reform.
+
+- **Press Conference on Terrorism**: A press conference by Major-General Ahmed Sharif Chaudhry discussed terrorism and the events of May 9, indicating a lack of forgiveness for the incidents and emphasizing the need for political dialogue.
+
+The article also briefly mentions the engagement announcement of Abdu Rozik, a singer known for Bigg Boss 16, to his fiancé Amira. However, this part seems to be unrelated to the main content of the article.
+
 Sat, 11 May 2024 10:35:52 +0000
 ### [Living with Thalassemia: Why mental health must come into focus too](https://indianexpress.com/article/opinion/columns/thalassemia-mental-health-focus-9322063/)
 

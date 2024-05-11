@@ -1,3 +1,12 @@
+Sat, 11 May 2024 18:20:08 +0530
+### [Deciphering Tehran's 'neighbourhood first' policy: Iran-Pakistan relations](https://www.firstpost.com/opinion/deciphering-tehrans-neighbourhood-first-policy-iran-pakistan-relations-13769798.html)
+
+Iran's President Ebrahim Raisi's visit to Pakistan marked the first such visit in eight years, aiming to mend ties and strengthen bilateral relations. The visit resulted in over eight agreements and MoUs, enhancing cooperation and regional security. This diplomatic effort came amidst tensions following Iran's retaliatory strikes against Israel and previous cross-border conflicts with Pakistan.
+
+The visit is seen as Tehran's attempt to regain Islamabad's support, especially in light of recent regional escalations. Despite Pakistan's internal and economic challenges, the focus of its policy towards Iran includes economic gains, border security, and counter-terrorism efforts. The trip also highlighted economic and energy cooperation, with a goal to increase bilateral trade to $10 billion within five years and discussions on a gas pipeline project, which faces delays and potential sanctions from the US.
+
+Terrorism remains a contentious issue, with both nations dealing with militant groups within their borders. The visit is perceived as a step towards de-escalation and a demonstration of Tehran's commitment to regional stability. It also reflects Iran's broader 'look-east' strategy and efforts to shield its regional ambitions from US sanctions. The authors of the article, Anant Mishra and Christian Kaunert, clarify that the views presented are personal and not reflective of Firstpost's stance.
+
 Sat, 11 May 2024 17:46:17 +0530
 ### [To suggest ‘Squad’ will replace Quad is silly and baseless; India is a critical part of security matrix in South China Sea](https://www.firstpost.com/opinion/to-suggest-squad-will-replace-quad-is-silly-and-baseless-india-is-a-critical-part-of-security-matrix-in-south-china-sea-13769777.html)
 
