@@ -1,3 +1,12 @@
+Sat, 11 May 2024 08:07:02 +0530
+### [What is DigiLocker and does it keep your data safe? | Explained](https://www.thehindu.com/sci-tech/technology/what-is-digilocker-and-does-it-keep-your-data-safe-explained/article68163891.ece)
+
+The article discusses the DigiLocker platform, an Indian government initiative launched in 2015 to store digital records. It's particularly useful for students checking board exam results, as it allows them to view and obtain verified marksheets. The app supports documents necessary for various official purposes, like passport applications and identity verification during travel. With over 270 million users and 6.7 billion documents retrieved, DigiLocker is part of the paper-free initiative, ensuring easy access and verification of essential documents.
+
+Documents in DigiLocker are considered equivalent to original physical documents, aiding in combating fake or outdated print copies. The platform is secure, with encryption, multi-factor authentication, and regular security audits, although it has faced potential vulnerabilities in the past, which were promptly addressed.
+
+Despite its advantages, some users struggle with the app due to unfamiliarity with smartphones or literacy challenges. Inconsistencies in names or document details can also cause issues in retrieving documents. Moreover, there's a lack of uniformity in how authorities accept documents from DigiLocker, with some requiring physical copies while others accept digital versions. Passport Seva's stance on DigiLocker's necessity for passport processing is not mandatory, but its use can expedite the application process. The implementation of DigiLocker varies across India, so it's advisable for individuals to carry both physical and digital copies of documents when completing administrative processes.
+
 Fri, 10 May 2024 21:10:24 +0530
 ### [Karnataka High Court’s verdict cancelling EPF benefits for international workers and its implications | Explained](https://www.thehindu.com/news/national/karnataka-high-courts-verdict-cancelling-epf-benefits-for-international-workers-and-its-implications-explained/article68153394.ece)
 
