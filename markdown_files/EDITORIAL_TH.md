@@ -1,3 +1,19 @@
+Mon, 13 May 2024 00:20:00 +0530
+### [Modest rebound: On IIP data](https://www.thehindu.com/opinion/editorial/modest-rebound-on-iip-data/article68168358.ece)
+
+India's industrial output growth decelerated to **4.9% in March**, down from February's **5.6%**. This slowdown occurred despite a favorable comparison to the previous year when the Index of Industrial Production (IIP) had decreased by **1.9%**. Mining output growth fell to a **19-month low of 1.2%**, while manufacturing output slightly improved to **5.2%**, and electricity generation increased by **8.6%**. The National Statistical Office will soon update the GDP growth estimates for 2023-24, which are expected to include a **5.8% rise** in industrial output, slightly above the **5.2%** increase from the previous year.
+
+The annual growth was mainly driven by mining, with a **7.5%** increase, while manufacturing and electricity generation saw more modest rises. Capital goods and infrastructure/construction goods production saw the strongest growth, likely due to increased government spending.
+
+On the consumer side, the production of durables and non-durables showed only a slight increase, indicating continued weak household consumption, which remains below pre-COVID levels. The uneven recovery in consumption, skewed towards higher-income households, and the contraction in employment-intensive manufacturing sectors pose challenges for economic growth. The government's next steps are crucial in addressing these issues to stimulate private investment and broader demand recovery.
+
+Mon, 13 May 2024 00:10:00 +0530
+### [Clickbait paper: on the EAC-PM working paper](https://www.thehindu.com/opinion/editorial/clickbait-paper-on-the-eac-pm-working-paper/article68168032.ece)
+
+The article discusses a working paper titled 'Share of Religious Minorities: a Cross-Country Analysis (1950-2015)' which has caused political controversy due to its findings on the changing demographics of religious groups in India. The paper, authored by economist Shamika Ravi and co-authors, uses the Religious Characteristics of States Dataset, 2017 (RCS-Dem) to show that the proportion of Hindus in India's population has declined from 84.68% to 78% between 1950 and 2015, while the Muslim population has increased from 9.84% to 14%. The paper points out that this trend is not unique to India but is consistent with global patterns of majority-religion decline. 
+
+However, the authors controversially claim, without supporting data, that the increase in Muslim population in India indicates that reports of discrimination and violence against Muslims are false, and attribute the rise to "progressive policies and inclusive institutions." They compare this with Pakistan and Bangladesh, where they suggest "demographic shocks" have reduced Hindu populations. The paper has been criticized for lacking a thorough analysis and for making deductions that appear to contradict its own methodology. Critics argue that known factors such as declining fertility rates and economic migration are more likely explanations for the demographic trends observed in India. The endorsement of this paper by the Economic Advisory Council (EAC) to the Prime Minister has been questioned, as the paper's conclusions are seen as potentially incomplete or misleading.
+
 Sat, 11 May 2024 00:20:00 +0530
 ### [Voting for relief: On interim bails and elections](https://www.thehindu.com/opinion/editorial/voting-for-relief-delhi-cm-interim-bails-and-the-election/article68161655.ece)
 
