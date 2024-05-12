@@ -1,3 +1,14 @@
+Sun, 12 May 2024 20:24:48 +0530
+### [Election results are not tethered to voter turnout](https://www.livemint.com/opinion/columns/election-results-are-not-tethered-to-voter-turnout-11715518567628.html)
+
+The article discusses the low voter turnout in the recent general elections in India, particularly in the Hindi heartland states and Maharashtra. It highlights Noida's low participation rate of 53.63% despite high literacy and self-reliance among women. The article suggests that excessive heat is not the sole reason for low turnout, as vote percentage has increased in previous elections. It questions whether Prime Minister Narendra Modi's appeal has waned, despite surveys showing him as the top choice for 52% of people. The article also notes lower turnout in Kerala, where the BJP is not a primary contender.
+
+The piece explores possible reasons for voter apathy, including party members' carelessness, caste factors, coalition dynamics, and external leadership preferences affecting party morale. It mentions the opposition's failure to form alliances and defections to the National Democratic Alliance (NDA). Rahul Gandhi's efforts are described as insufficient to generate enthusiasm for the Congress party.
+
+The article addresses leadership issues, citing allegations against H. D. Revanna and Prajwal Revanna in a sex scandal, and the impact of politicians' misconduct and language on public trust. It concludes by questioning whether low turnout indicates a shift in voter trust, noting that turnout does not necessarily predict election outcomes, as seen in historical examples.
+
+The author, Shashi Shekhar, editor-in-chief of Hindustan, expresses personal views and emphasizes the need for political parties to address these concerns seriously. The article also touches on the silence around climate issues in the election. The repeated content and advertisements have been omitted from this summary. If you need more details or have specific questions, feel free to ask!
+
 Sun, 12 May 2024 16:00:08 +0530
 ### [Rethink prompt: Why did the Iran-Israel conflict barely shake oil prices?](https://www.livemint.com/opinion/online-views/rethink-prompt-why-did-the-iran-israel-conflict-barely-shake-oil-prices-11715498855876.html)
 

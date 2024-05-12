@@ -1,3 +1,18 @@
+Sun, 12 May 2024 20:00:12 +0530
+### [Akhilesh Yadav vs Subrata Pathak, Asaduddin Owaisi vs …: The key fights in Phase 4 of Lok Sabha polls](https://www.firstpost.com/explainers/lok-sabha-elections-2024-key-fights-akhilesh-yadav-asaduddin-owaisi-mahua-moitra-phase-4-polling-13769565.html)
+
+The article provides an overview of key contests in the fourth phase of the Lok Sabha elections scheduled for May 13, where 96 constituencies across nine states and one Union Territory will vote. This phase is crucial for 1,717 candidates.
+
+**Key Battles:**
+- **Uttar Pradesh's Kannauj:** Former CM Akhilesh Yadav (SP) is contesting against BJP's sitting MP Subrata Pathak and BSP's Imran Bin Zafar.
+- **West Bengal's Krishnanagar:** TMC's Mahua Moitra faces BJP's Amrita Roy.
+- **Telangana's Hyderabad:** AIMIM's Asaduddin Owaisi competes with BJP's Kompella Madhavi Latha, Congress's Mohammed Waliullah Sameer, and BRS's Gaddam Srinivas Yadav.
+- **Andhra Pradesh's Kadapa:** YS Sharmila (Congress) challenges her cousin, the sitting MP YS Avinash Reddy (YSRCP), and TDP's Chadipiralla Bhupesh Subbirami Reddy.
+- **Jharkhand's Khunti:** Union Minister Arjun Munda (BJP) is up against Congress's Kalicharan Munda.
+- **West Bengal's Baharampur:** Congress's Adhir Ranjan Chowdhury seeks a sixth term, facing TMC's Yusuf Pathan and BJP's Nirmal Saha.
+
+Other notable contests include Bihar's Begusarai, West Bengal's Asansol, Telangana's Karimnagar, and Uttar Pradesh's Unnao, with various prominent politicians and newcomers vying for seats. The article emphasizes the significance of these elections in shaping the political landscape.
+
 Sun, 12 May 2024 12:22:47 +0530
 ### [Explained: How did cancer get its name?](https://www.firstpost.com/explainers/cancers-history-origin-how-doctors-treat-cancer-over-2000-years-ago-13767718.html)
 
@@ -4796,20 +4811,27 @@ Furthermore, the article draws parallels between Macron's muscular display and P
 Thu, 21 Mar 2024 18:10:50 +0530
 ### [Lok Sabha elections: Why did a candidate in Madhya Pradesh pay deposit for polls in coins?](https://www.firstpost.com/explainers/lok-sabha-elections-2024-candidate-madhya-pradesh-deposit-coins-13751262.html)
 
-Article found but Couldn't summarize 
-Vinay Chakraborty said there was no facility at the collector's office to pay through digital or online modes. Therefore, he paid the amount, Rs 25,000, in coins that were available to him
+Vinay Chakraborty, an independent candidate for the Lok Sabha elections in Jabalpur, made headlines by paying his nomination security deposit of Rs 25,000 entirely in coins. He resorted to this method because there was no option to pay digitally at the collector's office. The Jabalpur district returning officer confirmed the payment and issued a receipt. The nomination process for the first phase of elections started on Wednesday, with the last date for filing being 27 March. Madhya Pradesh will conduct the Lok Sabha polls in four phases, with the votes being counted on 4 June.
 
 Thu, 21 Mar 2024 17:07:07 +0530
 ### [Wardrobe Wars: Why is France going after ultrafast fashion giants Shein, Temu?](https://www.firstpost.com/explainers/france-fast-fashion-bill-shein-temu-13751464.html)
 
-Article found but Couldn't summarize 
-France is targeting the influx of low-cost clothes produced predominantly by China. The country’s lower house of parliament has okayed a bill seeking penalties on ultrafast fashion goods to offset their environmental impact. What could this mean for the industry?
+France's lower house of parliament has passed a bill targeting the influx of low-cost, mass-produced clothing, primarily from China, to address their environmental impact. The bill proposes penalties on ultrafast fashion items, including a gradual increase in fines and a ban on advertising for such products by 2030. It also mandates that retailers disclose the environmental impact of their products.
+
+The bill is seen as a response to the environmental damage caused by fast fashion, which produces clothes rapidly to meet current trends at low costs, often compromising on quality and sustainability. Fast fashion has been criticized for its reliance on cheap labor and poor working conditions, as well as its significant environmental footprint, contributing to greenhouse gas emissions and waste.
+
+The proposed legislation aims to encourage sustainable practices in the fashion industry, with France positioning itself as a leader in this initiative. The bill has yet to be considered by the Senate before it can become law. Critics argue that the bill could be an attempt to protect France's fashion industry from the competition posed by fast fashion giants, while others see regulation as a necessary step to address the industry's environmental and social impacts. Companies like Shein and Temu have defended their business models, emphasizing their efforts to reduce waste and questioning the potential economic impact of the bill on consumers. The debate continues on whether regulation is the best approach to reform the fashion industry.
 
 Thu, 21 Mar 2024 16:28:29 +0530
 ### [Mutual funds turn 100: How a door-to-door salesman invented this investment instrument](https://www.firstpost.com/explainers/mutual-funds-door-to-door-salesman-investment-instrument-13751433.html)
 
-Article found but Couldn't summarize 
-On 21 March 1924, Edward Leffler, a former salesman of aluminium pots and pans invented the mutual fund, allowing retail customers to buy into a diversified portfolio of stocks. Today, mutual funds continue to be a popular choice of investment in the US with 116 million residents holding shares in at least one such investment instrument
+The article celebrates the 100th anniversary of mutual funds, highlighting their history and evolution. It begins with Edward Leffler's creation of the first open-ended mutual fund in 1924, which allowed retail customers to invest in a diversified stock portfolio. Mutual funds are described as a way for investors to gain instant diversification and access to professionally managed portfolios. The article notes that mutual fund regulations differ by country, with specific examples from India and the US.
+
+The history section recounts the early European origins of mutual funds in the late 1700s and their growth in the US, including the establishment of the Massachusetts Investors Trust in 1924 and the Wellington Fund in 1929. The Investment Company Act of 1940 is mentioned as a significant regulatory milestone. The article also covers the expansion of mutual funds in India, starting with the Unit Trust of India in 1963.
+
+In terms of current status, mutual funds manage nearly $20 trillion in US assets, with a significant portion of American households invested in them. The article predicts that India's mutual fund industry will reach a valuation of Rs 100 lakh crore by 2030. However, mutual funds face competition from exchange-traded funds (ETFs), which offer similar benefits but trade continuously on exchanges.
+
+Overall, the article portrays mutual funds as a simple and effective investment vehicle that has democratized investing over the past century. It suggests that while ETFs may pose a challenge, mutual funds still hold a significant place in the investment landscape.
 
 Thu, 21 Mar 2024 15:52:29 +0530
 ### [Why Israel is hell-bent on its offensive in Gaza's Rafah](https://www.firstpost.com/explainers/israel-benjamin-netanyahu-offensive-gaza-rafah-13751434.html)

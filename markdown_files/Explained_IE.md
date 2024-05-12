@@ -1,3 +1,21 @@
+Sun, 12 May 2024 14:44:20 +0000
+### [What FLiRT, a new set of Covid-19 variant detected in the US, could mean for spring and summer](https://indianexpress.com/article/explained/explained-health/flirt-new-covid-variant-kp2-9324182/)
+
+The article discusses the emergence of a new COVID-19 variant, KP.2, which is an offshoot of the previously dominant JN.1 variant. KP.2, part of the "FLiRT" group of variants, has quickly risen to account for over a quarter of COVID-19 cases in the U.S. Although it is very similar to JN.1, KP.2 may be slightly more infectious and better at evading immune defenses due to differences in its spike protein.
+
+Despite the shift in variants, there is no current indication of a significant rise in cases. Data shows minimal virus levels in wastewater, and hospital visits have decreased. However, experts are monitoring KP.2 for potential increases in infection rates. Vaccines still offer protection, particularly against severe disease, but KP.2 may infect those who have received the latest vaccine targeting a different variant, XBB.1.5.
+
+The CDC continues to recommend vaccinations, especially for vulnerable groups such as the elderly, pregnant women, and the immunocompromised. Symptoms of KP.2 are similar to other variants, and while reinfections can occur, they are often milder. The risk of long COVID remains, but its prevalence is lower than earlier in the pandemic. The article underscores the evolving nature of the virus and the ongoing efforts to understand and respond to it. The unrelated content about Magnus Carlsen and the Grand Chess Tour has been omitted from this summary.
+
+Sun, 12 May 2024 12:36:40 +0000
+### [As a section of Air India Express employees call in sick, a look at ‘sickouts’ as a means of protest](https://indianexpress.com/article/explained/explained-economics/air-india-express-employees-vistara-sickout-9323914/)
+
+The article discusses the recent phenomenon of "sickouts" in the Indian aviation industry, where employees, particularly those in critical operational roles like pilots and cabin crew, coordinate mass sick leaves to protest and force management to address their grievances. This form of industrial action has become more common as traditional strikes decline due to various factors, including laws weakening labor unions and the lack of supportive legislation for private sector workers to organize formally.
+
+Sickouts are similar to strikes in their goal to push for management's attention to demands but differ in their informal, swift nature, often catching management off guard. They are most effective when key operational employees participate, as their absence can significantly disrupt operations. The article cites recent instances at Vistara and Air India Express, as well as past occurrences at other airlines like IndiGo, Kingfisher, and Jet Airways.
+
+The practice is not limited to aviation; it has been used in various sectors worldwide, especially when workers are not legally allowed to strike. Examples include Amazon, Target, and Whole Foods employees in the US, and public school teachers in Detroit. The article suggests that while sickouts are challenging for management to address legally, they remain a potent tool for employees to express discontent and push for change. The author, Sukalp Sharma, has extensive experience in journalism, covering various sectors and topics. The unrelated content about Magnus Carlsen's chess match has been omitted from this summary.
+
 Sun, 12 May 2024 09:03:25 +0000
 ### [Aurora lights in India: What caused them to be visible even from Ladakh?](https://indianexpress.com/article/explained/explained-sci-tech/aurora-lights-india-ladakh-9323390/)
 
