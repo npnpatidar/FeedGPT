@@ -1,3 +1,36 @@
+Sun, 12 May 2024 12:22:47 +0530
+### [Explained: How did cancer get its name?](https://www.firstpost.com/explainers/cancers-history-origin-how-doctors-treat-cancer-over-2000-years-ago-13767718.html)
+
+The article provides a historical perspective on cancer, tracing its recognition and treatment back to the fourth century BC. The term "cancer" originated from the Greek word "karkinos," meaning crab, due to the tumor's appearance and tenacity. Early accounts describe the disease as incurable and feared, with treatments ranging from plant-based drugs to cauterization. The balance of bodily humors was believed to influence cancer's development, with an excess of black bile being a common ancient theory for its cause. Despite various treatments, including surgery, cancer often led to death, as in the case of Satyrus, a tyrant who succumbed to the disease. Over time, our understanding of cancer has evolved, recognizing over 200 types and developing more effective management strategies. However, a universal cure remains elusive, with millions of cases and deaths annually, underscoring the ongoing battle against this disease.
+
+Sun, 12 May 2024 10:07:05 +0530
+### [Lithuania presidential elections: Who's in the running?](https://www.firstpost.com/explainers/lithuania-presidential-elections-whos-in-the-running-13768981.html)
+
+Lithuania is preparing for presidential elections with defense issues at the forefront, amid regional tensions and the conflict in Ukraine. The first round of voting is set for Sunday, with a runoff scheduled for 26 May. The key candidates are:
+
+- **Gitanas Nauseda**: The incumbent president since 2019, endorsed by the Social Democrats. Known for his pro-Ukrainian stance and hosting a NATO summit, Nauseda has faced domestic political tensions and denies allegations of intelligence assistance in his previous election. He has a background in banking and enjoys collecting rare books and playing chess.
+
+- **Ingrida Simonyte**: The current prime minister and a member of the centre-right coalition government. She gained attention as finance minister during the financial crisis and is known for implementing austerity measures. Simonyte is a supporter of gay rights and has a strong following among young, liberal voters. She recently joined the conservative Homeland Union party.
+
+- **Ignas Vegele**: A lawyer positioning himself as an alternative to the political establishment. He has served as the head of the national bar association and is known for his stance against forced vaccination during the pandemic. Vegele advocates for "Christian values" and anti-LGBTQ views, and aims to address corruption and social justice issues. He faced scrutiny over potential circumvention of EU sanctions against Russia and Belarus.
+
+The election comes at a time when Lithuanians are concerned about their security, especially in light of Russia's actions in Ukraine.
+
+Sun, 12 May 2024 10:06:09 +0530
+### [This Week in Explainers: Why AstraZeneca withdrew its COVID-19 vaccine from across the world](https://www.firstpost.com/explainers/this-week-in-explainers-why-astrazeneca-withdrew-its-covid-19-vaccine-from-across-the-world-13769561.html)
+
+Here's a summary of the key points from the article:
+
+- **AstraZeneca Withdrawal**: AstraZeneca has announced the global withdrawal of its COVID-19 vaccine following the admission of a rare side effect.
+- **Indian Students in the US**: Indian students in the US are noticeably absent from campus protests, raising questions about their concerns and reasons for staying away.
+- **Maldives Tourism**: The Maldives is urging Indian tourists to return after a boycott caused by derogatory comments from government officials about India's Prime Minister led to a significant drop in visitors.
+- **China's Gold Obsession**: China's consumption and production of gold have surged, with the People's Bank of China increasing its gold reserves, and a noticeable shift in the demographic of gold consumers.
+- **Trump Supporters' Display**: In a peculiar show of support, some of Donald Trump's followers have appeared at rallies wearing diapers, coinciding with his hush money trial.
+- **Japan's Friendship Marriages**: A new trend in Japan sees young people opting for 'friendship marriages,' which lack the traditional elements of sex and romance.
+- **The Appeal of Cold Beer**: Researchers have explored the science behind the satisfaction derived from drinking cold beer.
+
+The article provides a roundup of these diverse topics, reflecting significant developments and cultural trends around the world. 🌐
+
 Sat, 11 May 2024 19:17:06 +0530
 ### [How toxic is the Wall Street work culture? The debate after the death of 35-year-old banker](https://www.firstpost.com/explainers/how-toxic-is-the-wall-street-work-culture-the-debate-after-the-death-of-35-year-old-banker-13769780.html)
 
@@ -4719,26 +4752,46 @@ A Supreme Court ruling in May 2023 initially favored the Delhi government's exec
 Fri, 22 Mar 2024 07:45:48 +0530
 ### [PM Modi in Bhutan: Why the visit matters amid growing China threat](https://www.firstpost.com/explainers/pm-narendra-modi-bhutan-visit-significance-growing-china-threat-13751053.html)
 
-Article found but Couldn't summarize 
-PM Narendra Modi is on a two-day state visit to Bhutan from today. The trip assumes significance as it comes just weeks before India heads to general elections. China’s increasing presence in the Himalayan kingdom is also worrying for New Delhi
+Prime Minister Narendra Modi is on a significant two-day state visit to Bhutan, which is particularly noteworthy as it occurs just before India's general elections. This visit underscores the strong partnership between India and Bhutan, rooted in mutual trust and goodwill, and is a continuation of the high-level exchanges that reflect India's 'Neighbourhood First Policy'. 
+
+During this visit, PM Modi is expected to meet with Bhutanese King Jigme Khesar Namgyel Wangchuck and his father, as well as hold discussions with Bhutanese PM Tshering Tobgay. The talks are likely to focus on further strengthening the special bilateral relationship, with particular attention on cooperation in areas such as hydropower, infrastructure, health, education, digital connectivity, and space. 
+
+A key topic of discussion will be the 'Gelephu Mindfulness City' project, aimed at developing a major economic hub in Gelephu, which seeks India's assistance with connectivity and infrastructure upgrades. Additionally, the visit may lead to new initiatives in energy, infrastructure, and cross-border trade, as well as expanding security partnerships.
+
+The backdrop of this visit includes concerns over China's growing presence in Bhutan and the implications of any boundary agreements between Bhutan and China, especially regarding the strategically important Doklam plateau. The visit by PM Modi is seen as a reaffirmation of the strong ties between India and Bhutan amidst these regional dynamics.
 
 Fri, 22 Mar 2024 05:00:56 +0530
 ### [FirstUp: IPL 2024 begins, K Kavitha case in Supreme Court](https://www.firstpost.com/explainers/firstup-ipl-2024-begins-k-kavitha-case-in-supreme-court-13751510.html)
 
-Article found but Couldn't summarize 
-The much-awaited Indian Premier League 2024 commences today in Chennai, with the Chennai Super Kings and Royal Challengers Bengaluru competing against each other. The Supreme Court will hear BRS leader K Kavitha's plea challenging her arrest by ED in a money laundering case relating to the Delhi liquor scam
+Here's a summary of the article:
+
+- **IPL 2024 Kickoff**: The 17th edition of the Indian Premier League (IPL) starts today, 22 March, with an opening ceremony at MA Chidambaram Stadium in Chennai, featuring AR Rahman, Sonu Nigam, Tiger Shroff, and Akshay Kumar. The first match is between Chennai Super Kings and Royal Challengers Bengaluru.
+
+- **Supreme Court Hearing**: BRS leader K Kavitha's plea against her arrest by the Enforcement Directorate in connection with the Delhi liquor scam will be heard by the Supreme Court.
+
+- **JNU Elections**: Jawaharlal Nehru University is conducting Student’s Union presidential elections. The United Left Alliance has nominated Dhananjay, and the ABVP has nominated Umesh Chandra Ajmeera.
+
+- **SAD Strategy Meeting**: Shiromani Akali Dal is holding a core committee meeting in Chandigarh to finalize strategies for the upcoming Lok Sabha elections.
+
+- **CAT Decision**: The Central Administrative Tribunal will decide on IFS officer Sanjiv Chaturvedi's plea for empanelment documents, potentially ex-parte if the Centre's counsel does not appear.
+
+The article also mentions significant historical events and anniversaries, such as World Water Day, the birth anniversaries of Surya Sen, Reese Witherspoon, and football player Billy, among others. It notes the sacking of Delhi by Nadir Shah in 1739, the founding of the Arab League in 1945, the release of The Beatles' first album in 1963, and the shipping of the first Pentium chips by Intel in 1993. Additionally, it recalls PM Modi's announcement of a 14-hour self-imposed curfew to combat COVID-19.
 
 Thu, 21 Mar 2024 20:04:14 +0530
 ### [Family Matters: How levels of incest are on the rise in the US](https://www.firstpost.com/explainers/incest-cases-on-rise-in-the-us-dna-testing-family-13751377.html)
 
-Article found but Couldn't summarize 
-Research using popular genealogical tests has revealed that the prevalence of incest in America is significantly higher than previously believed, with a rate of one in 7,000. The numbers are shocking since the 1975 estimate was one in a million
+Recent research using genealogical DNA tests has shown that incest is more prevalent in the United States than previously thought, with a rate of one in 7,000, a stark contrast to the 1975 estimate of one in a million. Incest, defined as a sexual relationship between close relatives, can lead to various health issues in offspring, including birth abnormalities and genetic illnesses. The rise in incest cases has been uncovered through widespread DNA testing, which has also led to personal discoveries that have deeply affected individuals, such as Victoria Hill and Steve Edsel, who learned about their close biological relations through these tests.
+
+The legal landscape regarding incest varies across the US, with some states having exceptions or specific punishments for the act. Incest is a felony under state law and is typically considered statutory rape if one participant is below the legal consenting age. Additionally, there has been an increase in fertility fraud cases, where individuals have discovered through DNA testing that doctors used their own sperm to impregnate patients without consent, leading to legal battles and ethical concerns. This summary omits unrelated content and focuses on the key findings and implications of the research and personal accounts mentioned in the article.
 
 Thu, 21 Mar 2024 19:02:42 +0530
 ### [‘Real warrior’: Are Emmanuel Macron’s boxing photos a message for Russia’s Putin?](https://www.firstpost.com/explainers/france-president-emmanuel-macron-boxing-photos-message-for-russia-vladimir-putin-ukraine-war-13751465.html)
 
-Article found but Couldn't summarize 
-Emmanuel Macron’s pictures showing him hitting a punching bag with gritted teeth and bulging biceps have tongues wagging on social media. Some are comparing the French president with Sylvester Stallone’s Rocky Balboa, while others joke that he is getting ready to take on Russian leader Vladimir Putin
+The article discusses the viral black and white photographs of French President Emmanuel Macron boxing, which have drawn various reactions on social media. Some users have compared him to Sylvester Stallone's Rocky Balboa and joked about him preparing to face Russian President Vladimir Putin. The images have been interpreted by some as a display of virility, while others have criticized them as a poor choice of political communication. Macron's physical appearance in the photos has also sparked debates about possible photo enhancement.
+
+The photographs coincide with Macron's shift from a diplomatic to a more aggressive stance on Russia's actions in Ukraine, calling for a stronger European response. The article includes opinions from different media outlets and public figures, both mocking and praising Macron's portrayal. It also references Macron's personal fitness routine, including boxing and football, and his encouragement of exercise in the spirit of the upcoming Paris Olympics.
+
+Furthermore, the article draws parallels between Macron's muscular display and Putin's history of showcasing his athleticism, suggesting a possible message of strength to the Russian leader. Macron's recent comments on the potential need for Western ground operations in Ukraine and the risks of Russian aggression towards other European countries are also highlighted. The article concludes with the international reactions to Macron's stance and Putin's warning against NATO intervention in Ukraine, which could escalate to nuclear conflict. The piece suggests that Macron's images and remarks are part of a broader trend of leaders exhibiting machismo, with Macron's actions sparking discussions across Europe and Russia.
 
 Thu, 21 Mar 2024 18:10:50 +0530
 ### [Lok Sabha elections: Why did a candidate in Madhya Pradesh pay deposit for polls in coins?](https://www.firstpost.com/explainers/lok-sabha-elections-2024-candidate-madhya-pradesh-deposit-coins-13751262.html)

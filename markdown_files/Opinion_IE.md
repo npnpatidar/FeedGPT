@@ -1,3 +1,8 @@
+Sun, 12 May 2024 06:10:39 +0000
+### [Both Narendra Modi and Rahul Gandhi have scored an own-goal on Adani-Ambani](https://indianexpress.com/article/opinion/columns/pm-narendra-modi-rahul-gandhi-adani-ambani-9323307/)
+
+The article discusses the evolving political landscape in India, particularly focusing on the changing stances of the Congress and BJP towards big business and capitalism. In 2008, the left-leaning factions debated whether to support the UPA government over the US-India civilian nuclear deal. Fast forward to the present, both Rahul Gandhi and Narendra Modi have criticized big businesses like Ambani and Adani, which marks a departure from their previous pro-capitalist positions. The article suggests that such attacks may be politically motivated but are ultimately hypocritical, given both parties' historical support for liberal economic policies since the 1990s. It also questions the impact of these criticisms on investor sentiment and the private sector's role in government initiatives. The author argues that the young Indian voter today does not view profit-making negatively, and both parties should recognize their role in fostering an environment where wealth aspiration is realistic. The article concludes by reflecting on the irony of the parties' current anti-capitalist rhetoric, which seems to contradict their own economic successes.
+
 Sun, 12 May 2024 02:55:00 +0000
 ### [Mother’s Day — without my mother](https://indianexpress.com/article/opinion/columns/mothers-day-without-my-mother-9322689/)
 

@@ -11,6 +11,6 @@
 
  ************************************************* 
 Total number of new entries: 7
-Total number of summaries updated: 5
-Finished at: 2024-05-12 04:18:00
-Total time taken: 5.0 minutes 6.1108832359313965 seconds
+Total number of summaries updated: 4
+Finished at: 2024-05-12 08:18:19
+Total time taken: 5.0 minutes 14.778789281845093 seconds

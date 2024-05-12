@@ -1,3 +1,15 @@
+Sun, 12 May 2024 12:32:26 +0530
+### [AstraZeneca: The 'saviour' of Covid pandemic, marred with misinformation](https://www.firstpost.com/opinion/astrazeneca-the-saviour-of-covid-pandemic-marred-with-misinformation-13769950.html)
+
+The article discusses the journey of the AstraZeneca Covid-19 vaccine, highlighting its critical role during the pandemic's peak in saving millions of lives. Initially celebrated as a savior, AstraZeneca's vaccine faced a fall from grace in 2024 due to rare side effects like Thrombosis with Thrombocytopenia Syndrome (TTS). Despite this, the vaccine's benefits far outweighed its risks, especially during the desperate need for an effective vaccine against the Delta variant. The Serum Institute in India played a significant role in producing the vaccine, known as Covishield locally, during a time of global shortage and high Covid fatalities.
+
+The article also addresses the misinformation surrounding the vaccine, including false reports on its efficacy and unfounded links to infertility. It suggests that the withdrawal of AstraZeneca's vaccine from the market is due to the evolution of the virus and the availability of more effective, updated mRNA vaccines. The author, a freelance journalist from Delhi, emphasizes the vaccine's undeniable impact during the pandemic despite its current outdated status. The views expressed are personal and do not reflect those of the publishing platform.
+
+Sun, 12 May 2024 12:20:15 +0530
+### [America can take lessons from India in handling sponsored protests](https://www.firstpost.com/opinion/america-can-take-lessons-from-india-in-handling-sponsored-protests-13769932.html)
+
+The article discusses the current state of protests in American universities, comparing them to the anti-war demonstrations of the 1960s. It criticizes the modern protests for being politically motivated and lacking in idealism, suggesting they may be sponsored. The author argues that these protests are a continuation of a war on American values, pointing to the influence of wokeism and identity politics in undermining the meritocracy and traditional role of universities as apolitical spaces for diverse ideas. The piece suggests that America should learn from India's handling of similar protests and calls for a return to the rule of law, as exemplified by Ronald Reagan's refusal to negotiate with protestors during his time as Governor of California. The author's views are presented as personal opinions and not reflective of the publication's stance.
+
 Sat, 11 May 2024 18:20:08 +0530
 ### [Deciphering Tehran's 'neighbourhood first' policy: Iran-Pakistan relations](https://www.firstpost.com/opinion/deciphering-tehrans-neighbourhood-first-policy-iran-pakistan-relations-13769798.html)
 

@@ -1,3 +1,10 @@
+Sun, 12 May 2024 13:00:03 +0530
+### [Stock market indices say little about economic growth](https://www.livemint.com/opinion/online-views/stock-market-indices-say-little-about-economic-growth-11715497445480.html)
+
+The article discusses the relationship between stock market indices like the S&P BSE Sensex and NSE Nifty, and the overall economy. It challenges the common assumption that a rising stock index is indicative of a healthy economy. The Nifty, which includes 50 companies, and even broader indices, do not represent the entire economy's commerce. The 'efficient markets hypothesis' suggests that stock prices reflect all economic information, but the article presents data showing mixed correlations between GDP growth, the Nifty, and net profits of Nifty companies. For instance, in 2015-16, despite a strong economy, the Nifty fell by 9%, while in 2020-21, during the pandemic-induced GDP contraction, the Nifty saw its highest increase in a decade.
+
+The article highlights that while there is a strong correlation between the Nifty and the net profits of its constituent companies, suggesting that stock prices reflect company health, this does not extend to the economy's growth prospects. It advises caution in interpreting stock index movements as indicators of economic performance, noting that such movements often revert to mean levels after responding to news. The author concludes that while market indices can provide insight into the health of listed companies, their role in projecting the economy's course is often overstated by analysts and the media. The views expressed are the author's own.
+
 Fri, 10 May 2024 17:00:17 +0530
 ### [Vande Bharat Metro: Will these trains get their routes right?](https://www.livemint.com/opinion/online-views/vande-bharat-metro-will-these-trains-get-their-routes-right-11715333596241.html)
 
