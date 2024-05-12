@@ -1,3 +1,25 @@
+Sun, 12 May 2024 09:51:44 +0000
+### [In the Lok Sabha polls, BRS is fighting to stay relevant in Telangana](https://indianexpress.com/article/opinion/columns/lok-sabha-polls-brs-telangana-9323599/)
+
+The article discusses the political landscape in Telangana ahead of the 2024 parliamentary elections. It highlights a three-way contest among the Congress, BJP, and BRS for the state's 17 seats. The BRS, once dominant, is now focusing on vote share consolidation amidst challenges such as internal discord, defections, and the fading Telangana Movement fervor. The Congress is in a favorable position after recent electoral wins, while the BJP is gaining ground by attracting former BRS members and leveraging the Modi wave.
+
+The BRS is facing existential threats due to a loss of morale after the 2023 assembly elections, the arrest of K Kavitha, and criticism over governance issues. Its informal alliance with AIMIM is weakening, with Congress courting AIMIM to secure its position. The BJP is also targeting BRS's vulnerabilities to expand its influence.
+
+Despite these challenges, BRS's welfare schemes and K Chandrasekhar Rao's leadership may influence some voters. The election results will determine if Congress or BJP can capitalize on their momentum or if BRS can regain its political standing. The article is authored by the Head of the Department of Political Science at Maulana Azad National Urdu University, Hyderabad.
+
+Note: The summary omits unrelated content and focuses on the main political narrative of the article.
+
+Sun, 12 May 2024 09:22:32 +0000
+### [As Rajkummar Rao’s ‘Srikanth’ shows, the problem is not individual disability, but social inability](https://indianexpress.com/article/opinion/columns/rajkummar-rao-srikanth-disability-social-inability-problem-9323574/)
+
+The article discusses the challenges faced by persons with disabilities (PwDs) in India, particularly in accessing education. Despite the Rights of Persons with Disabilities Act 2016, there are significant barriers due to unscientifically constructed ramps, lack of Braille instruction boards, and insensitivity among authorities. The article highlights the struggles of individuals like Shorya Sood and Deepak Gupta, who face difficulties due to non-functional lifts and inaccessible academic resources. It emphasizes the lack of awareness about assistive technology and the need for sensitivity among faculty members.
+
+The biopic "Srikanth: Aa Raha Hai Sabki Aankhein Kholne" is used as a backdrop to challenge societal attitudes towards the visually impaired, rejecting the narrative of helplessness. The article calls for a shift in perspective, from viewing PwDs as incapable to recognizing their potential and contributions.
+
+The cost of living for PwDs, the importance of financial stability, and the struggle for inclusive employment opportunities are also addressed. The article cites the low percentage of PwD graduates and workforce participation, urging for accessible infrastructure, education systems, information dissemination, and a sensitized society to empower PwDs.
+
+The writer, a mobility champion at Young Leaders for Active Citizenship, advocates for disability rights and underscores the need for societal change to value and include PwDs fully.
+
 Sun, 12 May 2024 06:10:39 +0000
 ### [Both Narendra Modi and Rahul Gandhi have scored an own-goal on Adani-Ambani](https://indianexpress.com/article/opinion/columns/pm-narendra-modi-rahul-gandhi-adani-ambani-9323307/)
 

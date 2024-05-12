@@ -1,3 +1,8 @@
+Sun, 12 May 2024 09:03:25 +0000
+### [Aurora lights in India: What caused them to be visible even from Ladakh?](https://indianexpress.com/article/explained/explained-sci-tech/aurora-lights-india-ladakh-9323390/)
+
+Auroras, typically seen near the poles, were observed in Ladakh, India, due to intense solar activity. The Indian Institute of Astrophysics captured these lights, which occur when solar wind particles interact with the Earth's magnetosphere. This recent event was caused by strong solar storms resulting from Coronal Mass Ejections (CMEs) from an active solar region. These CMEs, traveling at high speeds, reached Earth's atmosphere, causing vibrant auroras visible from lower latitudes. Such solar storms can disrupt satellites in Low Earth Orbit, posing risks to navigation and communication systems. Continuous solar activity is expected to affect space weather and Earth's magnetosphere for the next few days.
+
 Sun, 12 May 2024 03:30:19 +0000
 ### [SC cautions on ‘history sheets’: all you need to know about the practice](https://indianexpress.com/article/explained/explained-law/sc-history-sheet-police-amanatullah-khan-9322795/)
 
