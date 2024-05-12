@@ -1,3 +1,16 @@
+Sun, 12 May 2024 07:45:00 +0530
+### [Sikkim flood was one of Asia’s worst climate disasters in 2023](https://www.thehindu.com/sci-tech/energy-and-environment/sikkim-2023-glacial-lake-outburst-flood-climate-change-analysis/article68152208.ece)
+
+The article discusses a catastrophic glacial lake outburst flood (GLOF) in Sikkim, India, in October 2023, which led to the collapse of the Teesta III hydroelectric dam and resulted in over 100 fatalities and widespread damage. The event was highlighted in the World Meteorological Organisation's report as one of the worst climate-related disasters in Asia for the year.
+
+Glacial lakes form from the erosion caused by moving glaciers, which create natural dams of debris. These lakes can lead to GLOFs when the dam structures weaken and release water rapidly, causing flooding. The High-Mountain Asia region, which includes the Tibetan plateau, is particularly vulnerable due to its large volume of ice.
+
+The specific GLOF event in Sikkim was triggered by a breach in the South Lhonak glacier, leading to significant destruction 60 km downstream at Chungthang. Satellite imagery showed a considerable reduction in the lake's volume, and monitoring stations recorded surges in water levels. A subsequent landslide created a new lake, which still exists and requires monitoring.
+
+Experts cited in the article link the shrinking of glaciers and the formation of glacial lakes to climate change, emphasizing the need for early warning systems and infrastructure designed to withstand GLOFs. The article also mentions the role of anthropogenic activities in exacerbating the consequences of such disasters.
+
+Overall, the article calls for better risk management and adaptation strategies to mitigate the impacts of glacial lake expansions and GLOFs, which are expected to become more frequent and severe due to climate change.
+
 Sun, 12 May 2024 04:24:00 +0530
 ### [How is India streamlining the pharma sector? | Explained](https://www.thehindu.com/business/Industry/how-is-india-streamlining-the-pharma-sector-explained/article68165988.ece)
 

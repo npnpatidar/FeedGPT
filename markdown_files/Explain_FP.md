@@ -4670,32 +4670,51 @@ The article highlights the substantial amounts donated to political parties thro
 Fri, 22 Mar 2024 11:42:26 +0530
 ### [Delhi liquor case: Arvind Kejriwal and other big leaders arrested](https://www.firstpost.com/explainers/delhi-liquor-policy-scam-case-arvind-kejriwal-other-big-leaders-arrested-13751611.html)
 
-Article found but Couldn't summarize 
-The ED has arrested Delhi chief minister Arvind Kejriwal, bringing the number of top leaders arrested in the Delhi liquor policy scam to six. Last week, BRS leader K Kavitha was held. AAP's Manish Sisodia and Sanjay Singh have been jailed in the case
+The article discusses the arrests made in connection with the Delhi liquor policy scam, which involves alleged money laundering and corruption in the formulation and implementation of the 2021-2022 excise policy by the Delhi government. The Enforcement Directorate (ED) has arrested Delhi Chief Minister Arvind Kejriwal, making him the sixth top leader detained in the case. Other key figures arrested include BRS leader K Kavitha, AAP's Manish Sisodia, Sanjay Singh, Vijay Nair, and Satyendar Jain, among others. A total of 16 people have been arrested, and the ED has filed six chargesheets. The policy changes in question included the discontinuation of state-run liquor stores, lowering the legal drinking age, and raising the annual license fee for alcohol vending. The policy was scrapped following allegations of corruption and an investigation initiated by the Lieutenant Governor of Delhi. The article also mentions that Kejriwal's legal team contests the legality of his arrest, and the Supreme Court is set to hear Kavitha's plea challenging her arrest.
 
 Fri, 22 Mar 2024 11:32:47 +0530
 ### [Arvind Kejriwal arrest: Will AAP survive the crisis? Will it hurt party’s chances in Lok Sabha polls?](https://www.firstpost.com/explainers/arvind-kejriwal-arrest-delhi-liquor-policy-case-aap-lok-sabha-elections-13751667.html)
 
-Article found but Couldn't summarize 
-With Arvind Kejriwal’s arrest in the Delhi liquor policy case, the Aam Aadmi Party faces its biggest challenge ever. There is a leadership crisis with the party’s other political minds – Manish Sisodia, Satyendar Jain and Sanjay Singh – already in jail. As Lok Sabha elections near, what can we expect from AAP?
+Arvind Kejriwal, the Chief Minister of Delhi, has been arrested in connection with the Delhi liquor policy case, marking a significant crisis for the Aam Aadmi Party (AAP) as it approaches the Lok Sabha elections. Kejriwal, who is the first serving chief minister to be arrested, will not resign and plans to run the government from jail. This arrest adds to the leadership challenges for AAP, with other key figures like Manish Sisodia and Satyendar Jain also in custody.
+
+The party must now navigate these challenges and find accessible leadership to manage both AAP and the Delhi government effectively. Potential candidates to lead include Atishi, Saurabh Bharadwaj, and possibly Kejriwal's wife, Sunita. The party's election campaigns in Delhi and Gujarat heavily feature Kejriwal, and AAP aims to use his arrest to garner public sympathy and strengthen its position.
+
+Despite the setback, AAP leaders express concerns for Kejriwal's safety and security while in custody and plan to protest against the central government's actions. The party's ability to maintain its momentum and live up to its motto "Ladenge, jeetenge" (We will fight, we will win) in the face of this adversity remains to be seen.
 
 Fri, 22 Mar 2024 10:45:19 +0530
 ### [Explained: The many legal cases taking a bite out of Apple](https://www.firstpost.com/explainers/explained-the-many-legal-cases-taking-a-bite-out-of-apple-13751626.html)
 
-Article found but Couldn't summarize 
-The US government on Thursday sued Apple claiming the tech behemoth illegally maintained a monopoly for its iPhone by stifling competition and imposing high costs on consumers. This, however, is not the only legal dispute confronting the firm
+The article discusses a series of legal challenges faced by Apple. The U.S. Department of Justice, supported by 16 state attorneys general, has filed an antitrust lawsuit against Apple, accusing it of maintaining an illegal monopoly over its iPhone, stifling competition, and imposing high costs on consumers. Apple has vowed to "vigorously" defend itself against these allegations.
+
+Additionally, Apple is embroiled in a legal stand-off with Epic Games, which seeks to open up mobile operating systems to alternative app stores and end Apple's commission on user purchases. Despite a U.S. federal judge's ruling that Apple must allow alternative payment methods, Epic Games, supported by companies like Microsoft and Meta, claims Apple is not complying with this decision.
+
+In the European Union, Apple faces a fine of €1.8 billion imposed by the European Commission for restricting developers from promoting cheaper music streaming services outside of Apple's ecosystem. This comes alongside the new Digital Markets Act, which mandates major tech companies to open their platforms to competition.
+
+In France, a fine initially set at €1.1 billion for anti-competitive behavior was reduced on appeal to €372 million. Similarly, Apple and Amazon have been fined in Spain and Italy for anti-competitive practices related to the distribution of Apple products.
+
+In the UK, Apple is facing a lawsuit alleging that it charged third-party developers excessive commissions on app store purchases. Additionally, Apple has been fined in Russia for violating competition laws regarding in-app payments.
+
+The article concludes with a note that Apple has faced multiple fines and legal disputes across various countries for its business practices. It emphasizes the global scale of the legal scrutiny Apple is under for its alleged anti-competitive behavior.
 
 Fri, 22 Mar 2024 09:52:19 +0530
 ### [What led to Arvind Kejriwal's arrest? What is his link to Delhi liquor policy case?](https://www.firstpost.com/explainers/arvind-kejriwal-arrest-delhi-liquor-excise-policy-case-ed-cbi-13751612.html)
 
-Article found but Couldn't summarize 
-After skipping nine summons, the Enforcement Directorate arrested Delhi chief minister Arvind Kejriwal on Thursday in the Delhi excise policy case. The investigating officials have alleged that the AAP leader conspired with others to frame the liquor policy that would benefit one lobby of traders through which the party earned kickbacks
+Delhi Chief Minister Arvind Kejriwal was arrested by the Enforcement Directorate (ED) in connection with the Delhi liquor policy case, marking him as the first sitting chief minister of Independent India to be detained. The arrest followed after Kejriwal skipped nine summons and was taken into custody on a Thursday night amidst high drama and subsequent protests by AAP members who called for a nationwide protest against the BJP, labeling the arrest as a "murder of democracy."
+
+The Delhi liquor policy case revolves around the 2021 changes introduced by the AAP government, which included privatizing liquor sales, reducing the drinking age, and increasing the liquor vending license fee. These changes were scrapped a year later due to alleged procedural lapses and financial losses to the exchequer. The ED alleges that the policy was a result of a conspiracy to benefit a specific liquor lobby, leading to kickbacks for AAP leaders used to influence elections in Punjab and Goa.
+
+The ED's investigation claims that Kejriwal, along with other AAP leaders, received Rs 100 crore from the 'South Lobby' in exchange for policy favors. The agency also accuses Kejriwal's personal assistant and other accused of destroying evidence and facilitating meetings between Kejriwal and liquor traders. The Supreme Court is expected to hear AAP's plea against the arrest order. Opposition parties have reacted, suggesting the BJP's actions are out of fear of the upcoming Lok Sabha polls. The case has significant political implications, with various parties and leaders weighing in on the matter.
 
 Fri, 22 Mar 2024 08:43:20 +0530
 ### [How Arvind Kejriwal's arrest intensifies the AAP-BJP tussle](https://www.firstpost.com/explainers/arvind-kejriwal-arrest-aap-bjp-tussle-13751595.html)
 
-Article found but Couldn't summarize 
-The ED arrested Delhi chief minister Arvind Kejriwal on Thursday in an excise policy-related money laundering case, escalating the AAP-BJP rivalry that has on for a decade
+Delhi Chief Minister Arvind Kejriwal was arrested by the Enforcement Directorate (ED) in a money laundering case related to the city's excise policy. This marks the first time a serving chief minister has been arrested in India's history. Kejriwal has challenged his arrest in the Supreme Court, filing a writ petition under Article 32 of the Constitution.
+
+The arrest intensifies the longstanding rivalry between Kejriwal's Aam Aadmi Party (AAP) and the Bharatiya Janata Party (BJP), which began around the time of their respective electoral victories in 2014 and 2015. The AAP has had a turbulent relationship with the lieutenant governors of Delhi, with frequent confrontations over governance issues.
+
+The power struggle escalated with the current Lt Governor V K Saxena, who recommended a CBI probe into the excise policy, leading to the arrest of other AAP members. The AAP accuses the BJP of attempting to dismantle their party and government, while the BJP criticizes the AAP for alleged corruption.
+
+A Supreme Court ruling in May 2023 initially favored the Delhi government's executive powers, but a subsequent ordinance turned Act by the Centre restored the power balance in favor of the Lt Governor. The political tussle continues to be a significant aspect of the AAP-Centre relationship.
 
 Fri, 22 Mar 2024 07:45:48 +0530
 ### [PM Modi in Bhutan: Why the visit matters amid growing China threat](https://www.firstpost.com/explainers/pm-narendra-modi-bhutan-visit-significance-growing-china-threat-13751053.html)

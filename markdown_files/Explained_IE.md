@@ -1,3 +1,14 @@
+Sun, 12 May 2024 03:30:19 +0000
+### [SC cautions on ‘history sheets’: all you need to know about the practice](https://indianexpress.com/article/explained/explained-law/sc-history-sheet-police-amanatullah-khan-9322795/)
+
+The Supreme Court has directed all states and Union Territories to ensure that police 'history sheets' do not carry caste biases. This came during the hearing of AAP MLA Amanatullah Khan's plea against being labeled a 'bad character' in police surveillance records. The Court emphasized the need to avoid caste prejudices and confirmed that the process of documenting 'history sheeters' should be free from such biases. 
+
+'History sheets' are records of individuals with significant criminal histories, used by police to track and manage criminal activities. These records are detailed and include descriptions, associates, and property details to assess the individual's lifestyle and potential criminal behavior. The Supreme Court's directive also included instructions to protect the privacy and dignity of the family members of those listed in the history sheets, specifically mentioning that details of minor children and spouses should not be included.
+
+The article also references the Punjab Police Rules of 1934, which first introduced the term 'history sheet' and outlines the procedures for documenting individuals believed to be habitually involved in crime. It draws a parallel between the language used in these rules and the colonial-era records of 'criminal tribes', highlighting the need for modern policing to move away from such outdated practices.
+
+In conclusion, while the Delhi High Court had previously upheld the police's actions regarding Khan's history sheet, the Supreme Court has taken a stance to ensure that the process respects individual rights and does not perpetuate societal biases. The police have agreed to review their procedures to align with the Court's directions.
+
 Sat, 11 May 2024 14:33:17 +0000
 ### [What are northern and southern lights? Why do they occur?](https://indianexpress.com/article/explained/explained-sci-tech/northern-southern-lights-aurora-9322408/)
 

@@ -1,3 +1,50 @@
+Sun, 12 May 2024 02:55:00 +0000
+### [Mother’s Day — without my mother](https://indianexpress.com/article/opinion/columns/mothers-day-without-my-mother-9322689/)
+
+The article is a personal narrative reflecting on the pain of losing a mother and the ongoing grief that follows. The author shares the heart-wrenching experience of their mother's passing after open-heart surgery complications, despite her initial reluctance to undergo the procedure. The narrative details the emotional turmoil of watching their mother fight for her life in the hospital, the family's struggle with hope and the eventual loss, which left a profound void in their life.
+
+The author expresses the difficulty of dealing with Mother's Day reminders and the societal expectations to move on from grief. They discuss the unique and enduring bond with a mother, likening her death to being cut off from one's anchor to the world. The piece concludes with a call for societal empathy towards those mourning their mothers, suggesting an opt-out feature for Mother's Day marketing as a considerate gesture.
+
+The writer identifies as a political activist and founder of Femme First Foundation, using their story to highlight the need for greater sensitivity around the subject of loss and grief.
+
+Sun, 12 May 2024 02:35:07 +0000
+### [In the Palestinian struggle, there’s more than an echo](https://indianexpress.com/article/opinion/columns/in-the-palestinian-struggle-theres-more-than-an-echo-9322645/)
+
+The article discusses the parallels between the experiences of Dalits in India and Palestinians, highlighting the systemic discrimination and violence they face. Jyotirao Phule described the caste system as a form of slavery, and the article suggests that both Dalits and Palestinians suffer under ethno-national states that privilege certain groups and marginalize others. It details the historical and ongoing oppression of Palestinians by Israel, including the displacement and killing of thousands, and the similar marginalization of Dalits in India, who have been given derogatory names and confined to menial jobs over the centuries.
+
+The concept of a "Carceralopolis" is introduced, describing a state where the dominant group exercises control and inflicts violence on the marginalized. The article recounts recent tragic events affecting individuals from both groups, such as the death of a young Palestinian girl and the assault of a Dalit child in India. It also touches on the representation of Dalit and Palestinian struggles in art and literature, citing works that depict their fight for survival and dignity.
+
+The article concludes by noting the lack of international awareness and media coverage of Dalit issues compared to Palestinian ones, despite similarities in their experiences of racism. It calls for solidarity between the two groups and mentions academics who are contributing to the discourse on their resistance, such as Aarushi Punia and Suraj Yengde.
+
+The unrelated content about a celebrity managed by Karan Johar's agency and his earnings from public appearances has been omitted from this summary.
+
+Sun, 12 May 2024 02:30:50 +0000
+### [Tavleen Singh writes: Modi on the backfoot?](https://indianexpress.com/article/opinion/columns/narendra-modi-on-the-backfoot-lok-sabha-elections-2024-9322589/)
+
+The article discusses the political controversy in India involving the Prime Minister and the Congress Party. The Prime Minister accused India's two wealthiest individuals of sending black money to the Congress Party, which led to a public exchange between him and Rahul Gandhi. The Congress Party refuted the Prime Minister's claims and highlighted his mistakes. The article also touches on the BJP's media management and the negative impact of long election campaigns. It suggests that the Election Commission should shorten the election process to avoid voter fatigue and disinterest. The article concludes by questioning the Prime Minister's strategy and the effectiveness of his recent political statements, as they have not resonated with voters.
+
+Sun, 12 May 2024 02:30:05 +0000
+### [P Chidambaram writes: Why should a ‘strong’ leader lie?](https://indianexpress.com/article/opinion/columns/narendra-modi-modis-lie-pm-modi-poll-speeches-9322588/)
+
+The article discusses the political scenario in India during an election campaign. It highlights the contrast between Prime Minister Narendra Modi's self-proclaimed strong leadership and his party's diminishing confidence in achieving an overwhelming majority. Initially dismissing the opposition's manifesto, Modi later shifted his campaign to aggressively attack the Congress party, making unfounded allegations about their intentions regarding property and gold ownership.
+
+The article suggests that Modi's change in strategy, marked by spreading lies about the opposition, indicates self-doubt and a reaction to changing ground realities that differ from the 2019 elections. It points out Modi's inability to set the election narrative, match the opposition's promises, or come up with compelling slogans. The lower voter turnout and the silence of the RSS leadership are seen as potential signs of worry for the BJP.
+
+The author speculates that the opposition might make significant gains, and questions why Modi, a leader who claims to be strong, would resort to lying. The article concludes with the belief that the public can see through these lies and wonders about the reasons behind such a strategy.
+
+The unrelated content about an individual named Orry, managed by Karan Johar's agency, and his earnings from public appearances has been omitted from this summary.
+
+Sun, 12 May 2024 01:38:53 +0000
+### [Special to Express | ‘Today we can stand without fear, look Brij Bhushan in the eye, and tell him — we are not going anywhere’: Vinesh Phogat](https://indianexpress.com/article/opinion/columns/brij-bhushan-wrestlers-harassment-case-vinesh-phogat-9323003/)
+
+The article is a personal account of Vinesh Phogat, a decorated wrestler, who discusses the recent developments in the legal case against Brij Bhushan Sharan Singh, the former president of the Wrestling Federation of India. Charges of sexual harassment and outraging the modesty of women have been framed against Singh, which Phogat views as a victory for the wrestlers but acknowledges that their battle will continue in court. She expresses a sense of empowerment that comes from standing up to a powerful figure who has intimidated them for years.
+
+Phogat details the challenges faced during their protests, including negative campaigns and the fear of powerful connections being used against them. Despite these obstacles, she notes that there has been support, although some have chosen to ignore the wrestlers' plight. Criticism has persisted even after the protests ended, affecting the wrestlers' careers and public perception.
+
+The article also touches on the broader impact of their actions, suggesting that their protest may have inspired other women athletes to speak up against injustice. Phogat hopes that their case will have a positive impact on women across the country. She concludes by mentioning her own struggles and sacrifices as an athlete due to the protests, but also acknowledges positive developments, such as the police conducting a thorough investigation.
+
+The unrelated content about Waheed ur Rehman Para, a political candidate, has been omitted from this summary as per your request.
+
 Sat, 11 May 2024 13:12:04 +0000
 ### [View from Pakistan: India uses similar oppressive tactics in Kashmir as Israel does in Palestine](https://indianexpress.com/article/opinion/columns/pakistan-india-kashmir-israel-palestine-9322299/)
 
