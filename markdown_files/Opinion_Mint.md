@@ -1,3 +1,19 @@
+Mon, 13 May 2024 08:30:15 +0530
+### [Bulls and bears: Stock market shudders are not hard to understand](https://www.livemint.com/opinion/online-views/bulls-and-bears-stock-market-shudders-are-not-hard-to-understand-11715502554848.html)
+
+The article discusses the unexpected downturn in the Indian stock market on 9 May, where the S&P BSE Sensex lost 1,062 points and the NSE Nifty dropped by 370 points. This decline was surprising against the backdrop of strong economic growth narratives and policy stability. Analysts suggest two main reasons for the market's volatility: concerns about the impact of election results on policy and lackluster corporate earnings indicating stagnation in consumer markets and reduced pricing power among leading companies.
+
+The article also highlights the low voter turnout in the initial phases of India's general elections as a potential cause for market nervousness, which may have led to impulsive equity selling. The analysis of 378 company results showed only a modest increase in profits compared to revenue growth, adding to the bearish sentiment.
+
+Furthermore, the article notes the record-high inflows into systematic investment plans (SIPs) in mutual funds, contrasting with a decrease in net household financial savings and an increase in borrowings and physical asset investments. This discrepancy, along with political uncertainty and corporate performance, is expected to influence market behavior and investment decisions in the lead-up to the final election results on 4 June. The article suggests that these factors, combined with the anticipation of remaining corporate results, could contribute to continued market volatility.
+
+Mon, 13 May 2024 07:15:12 +0530
+### [A solar storm and our exposure to the Sun](https://www.livemint.com/opinion/quick-edit/a-solar-storm-and-our-exposure-to-the-sun-11715502819049.html)
+
+The article discusses a remarkable display of the **northern lights** seen across the northern hemisphere, an event not witnessed for nearly two decades. This was caused by a significant increase in solar activity, specifically a solar storm that resulted in geomagnetic effects on Earth. The phenomenon was not related to climate change or human activities.
+
+It further explains that the **aurora borealis** was intensified by clouds of ionized gas and magnetic fields emanating from sunspots. The article reflects on the Sun's age, approximately **4.6 billion years**, and its expected lifespan of another 5 billion years, contrasting it with the Earth's future, which is uncertain due to human-induced global warming. The piece concludes with a call to action for humanity to address the challenges of global warming, emphasizing the difference between merely surviving and thriving. It notes that while the Sun remains stable, the same cannot be said for our planet's future.
+
 Sun, 12 May 2024 20:24:48 +0530
 ### [Election results are not tethered to voter turnout](https://www.livemint.com/opinion/columns/election-results-are-not-tethered-to-voter-turnout-11715518567628.html)
 

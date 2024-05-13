@@ -1,3 +1,36 @@
+Mon, 13 May 2024 03:25:41 +0000
+### [Keeping children safe online, while ensuring their right to access the internet](https://indianexpress.com/article/opinion/editorials/keeping-children-safe-online-while-ensuring-their-right-to-access-the-internet-9324428/)
+
+The article discusses the need for better protection of minors from the dangers of the internet, beyond the traditional "good touch" and "bad touch" education. It highlights the challenges in keeping up with the rapid evolution of technology and its impact on society, particularly on children and young adults. The article points out that while laws like the POCSO Act and DPDP Act offer some protection, they are limited due to the dynamic nature of the internet. It emphasizes the importance of starting protection efforts at home and in schools with open conversations about online safety, recognizing predatory behavior, and understanding privacy settings. The article argues for a balanced approach to internet safety for children, ensuring their right to access the internet while keeping them safe. It also briefly mentions Magnus Carlsen's victory at the World Rapid and Blitz Poland event.
+
+Mon, 13 May 2024 03:15:46 +0000
+### [May 13, Forty Years Ago:  Ramesh Chander, editor-in-chief of the Hind Samachar group, gunned down by terrorists](https://indianexpress.com/article/opinion/40-years-ago/may-13-forty-years-ago-chief-editor-shot-9324422/)
+
+Here's a summary of the key points from the article:
+
+- **Jalandhar Attack**: Ramesh Chander, editor-in-chief of the Hind Samachar group, was fatally shot by terrorists, and his guards were injured in Jalandhar. The incident occurred shortly after Chander, son of Lala Jagat Narain, left a function.
+- **US-India Relations**: During his state visit to India, US Vice President George Bush highlighted India's role as a stabilizing democratic force in the region. Vice President M Hidayatullah echoed this sentiment, referencing past conflicts not instigated by India.
+- **Sri Lanka Kidnapping**: President Junius R Jayewardene of Sri Lanka stated the country will not pay a ransom for an American couple kidnapped in Jaffna, calling for international aid to fight ethnic terrorism.
+- **Bihar Political Turmoil**: The Janata Party in Bihar is on the brink of a split following the suppression of anti-Chandra Shekhar sentiments after the defeat of Shahabuddin in the Rajya Sabha elections.
+- **Chess Tournament**: Magnus Carlsen triumphed at the World Rapid and Blitz Chess event in Poland, winning ten consecutive games and securing the title along with a $40,000 prize, outperforming China's Wei Yi.
+
+The summary excludes any unrelated content that may have been present in the original article.
+
+Mon, 13 May 2024 02:40:20 +0000
+### [Modi government has improved the performance of state-owned companies](https://indianexpress.com/article/opinion/columns/the-path-back-from-the-brink-narendra-modi-privatisation-bpcl-ntpc-coal-india-9324423/)
+
+The article presents a defense of the Modi government's management of Public Sector Enterprises (PSEs), countering the accusation that it has sold off India's "family silver." It highlights the significant achievements of various PSEs, including record production and profits, and contrasts this with the previous UPA government's alleged mismanagement. The article emphasizes the strategic autonomy and professional freedom granted to PSEs, leading to their global competitiveness and robust financial performance. It also discusses the government's selective approach to divestment, citing the sale of Air India and the retention of BPCL as examples. The author, India's Union Minister of Petroleum and Natural Gas, and Housing and Urban Affairs, concludes by praising the Modi government's vision and leadership, which have transformed PSEs into engines of national development and prosperity. The unrelated content about Magnus Carlsen's victory in the World Rapid and Blitz Poland event is omitted from the summary.
+
+Mon, 13 May 2024 02:40:13 +0000
+### [What we need is a farmer-friendly agri-export policy](https://indianexpress.com/article/opinion/columns/make-it-farmer-friendly-9324370/)
+
+India's agricultural exports reached $48.9 billion in 2023-24, marking an 8% decline from the previous year and falling short of the $60 billion target. The growth rate of agri-exports has slowed considerably under the Modi government compared to the UPA government. Rice remains the top export, followed by marine products, spices, bovine meat, and sugar. Export policies and global price trends significantly influence agri-exports. Recent restrictions and bans on commodities like wheat, rice, sugar, and onions have impacted exports, with policies fluctuating in response to domestic inflation concerns and international market prices. The article suggests that India should optimize its export quantities to avoid diminishing returns and calls for strategic investments in agriculture to boost productivity, competitiveness, and sustainability. It also highlights the need for policy changes to balance consumer and farmer interests, particularly in the case of onion exports.
+
+Mon, 13 May 2024 02:03:05 +0000
+### [On Pakistan, Congress’s Mani Shankar Aiyar’s ill-considered remarks, PM Modi’s unfortunate response](https://indianexpress.com/article/opinion/editorials/on-pakistan-congresss-mani-shankar-aiyars-ill-considered-remarks-pm-modis-unfortunate-response-9324427/)
+
+The article discusses the missed opportunity for a serious debate on India's foreign policy and relations with Pakistan during the general elections. It critiques Mani Shankar Aiyar's remarks on Pakistan and contrasts them with the BJP's engagement with the country under Prime Minister Narendra Modi's leadership. The article highlights Modi's initiatives, such as his impromptu visit to Lahore, the establishment of the Kartarpur Sahib corridor, a ceasefire accord, and a strong military response to cross-border terrorism. It also mentions the constitutional changes in Jammu and Kashmir and India's stance at the UN Security Council. The piece concludes by noting Modi's unfortunate contemptuous remarks towards Pakistan amidst signs of improving bilateral relations and the upcoming second half of the Lok Sabha elections, where 96 constituencies will vote.
+
 Sun, 12 May 2024 13:36:24 +0000
 ### [From the Opinions Editor | Uttarakhand’s burning forests: Worrying cluelessness in times of climate change](https://indianexpress.com/article/opinion/columns/uttarakhand-forest-fire-cluelessness-climate-change-9324095/)
 

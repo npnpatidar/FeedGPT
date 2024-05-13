@@ -1,3 +1,14 @@
+Mon, 13 May 2024 01:40:51 +0000
+### [Why Congress hit ‘400 paar’ in 1984 elections, how Rajiv Gandhi’s tenure was marred by struggles](https://indianexpress.com/article/explained/explained-politics/why-congress-hit-400-paar-in-1984-elections-how-rajiv-gandhis-tenure-was-marred-by-struggles-9324387/)
+
+The article recounts the political landscape of India during the 1980s, focusing on the rise and fall of Rajiv Gandhi's political career. After the assassination of Indira Gandhi in 1984, Rajiv Gandhi became Prime Minister and led the Congress to a landslide victory, winning 414 of the 514 Lok Sabha seats. However, his tenure was marred by a corruption scandal, and Congress never regained a majority on its own after 1984.
+
+The article also details the fragmentation of political parties during this period, with several leaders forming their own factions. Notable political developments included Farooq Abdullah becoming Chief Minister of Jammu and Kashmir, Ramakrishna Hegde becoming CM of Karnataka, and N T Rama Rao taking oath in Andhra Pradesh.
+
+Efforts to unite various "progressive and socialist" parties led to the formation of the National Democratic Alliance (NDA), which later dissolved, leading to the creation of the Dalit Mazdoor Kisan Party (DMKP). The article also touches on the anti-Sikh violence following Indira Gandhi's assassination, the Election Commission's role in the subsequent election, and the outcomes for various political figures and parties.
+
+Significant events such as the Rajiv-Longowal Accord, the Assam Accord, and the Bofors scandal are mentioned, culminating in the Congress party's significant loss in the 1989 Lok Sabha elections, which led to the formation of a non-Congress government. The article concludes with a brief mention of the current political scenario and the upcoming second half of the Lok Sabha elections.
+
 Sun, 12 May 2024 14:44:20 +0000
 ### [What FLiRT, a new set of Covid-19 variant detected in the US, could mean for spring and summer](https://indianexpress.com/article/explained/explained-health/flirt-new-covid-variant-kp2-9324182/)
 

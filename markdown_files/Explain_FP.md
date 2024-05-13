@@ -1,3 +1,23 @@
+Mon, 13 May 2024 08:59:35 +0530
+### [Pinky Problems: What is 'iPhone finger' and is it dangerous?](https://www.firstpost.com/explainers/iphone-finger-explained-dangers-expert-opinion-13769497.html)
+
+The article discusses the phenomenon of "iPhone finger," where smartphone users have noticed indentations on their pinky fingers from supporting their phones during use. This topic gained traction after a segment on The TJ Show and a TikTok video, which led to public debate. Some viewers humorously accepted the term, while others dismissed it, citing various reasons such as pre-existing conditions or different phone brands.
+
+Experts like occupational therapist Andrew Bracken acknowledge the presence of indents but clarify that "iPhone finger" is not a recognized medical condition. However, he warns of potential issues like Cubital tunnel syndrome and carpal tunnel syndrome due to improper smartphone use. Orthopaedic surgeon Dr. Peter Evans also notes that while some joint problems can be exaggerated, others may be serious and unrelated to smartphone use, such as clinodactyly and Dupuytren’s contracture.
+
+The article suggests that while smartphones may not cause significant damage, it's essential to use them properly to avoid long-term health issues. It concludes with recommendations like using accessories to reduce pressure on the pinky or decreasing screen time to prevent strain.
+
+Mon, 13 May 2024 06:00:02 +0530
+### [FirstUp: 4th phase of Lok Sabha polls, AAP renews campaign with Kejriwal at fore... The headlines today](https://www.firstpost.com/explainers/firstup-4th-phase-of-lok-sabha-polls-aap-renews-campaign-with-kejriwal-at-fore-the-headlines-today-13769805.html)
+
+India is experiencing a significant day in its political landscape with the fourth phase of the General Elections taking place, involving 96 constituencies across 10 states. Prime Minister Narendra Modi is conducting a roadshow in Varanasi, Uttar Pradesh, ahead of his nomination for a third term. Meanwhile, Arvind Kejriwal, after being granted interim bail, is actively campaigning with AAP leaders for the Lok Sabha elections.
+
+In international news, India and France have commenced the 7th edition of their joint military exercise 'Shakti' in Meghalaya, aiming to enhance interoperability between their armed forces. Additionally, there's buzz around a potential merger between Air India and Vistara, with Singapore Airlines set to acquire a stake in the combined entity.
+
+Globally, the trial of former US President Donald Trump continues with key testimony expected from his former attorney, Michael Cohen. OpenAI is also making headlines with the anticipated launch of an AI-driven search tool, potentially challenging Google's dominance in the search market.
+
+Historically, today marks the inaugural session of India's Rajya Sabha in 1952 and the country's nuclear tests in 1998, reflecting India's evolving legislative and defense milestones.
+
 Sun, 12 May 2024 20:00:12 +0530
 ### [Akhilesh Yadav vs Subrata Pathak, Asaduddin Owaisi vs …: The key fights in Phase 4 of Lok Sabha polls](https://www.firstpost.com/explainers/lok-sabha-elections-2024-key-fights-akhilesh-yadav-asaduddin-owaisi-mahua-moitra-phase-4-polling-13769565.html)
 
@@ -4982,14 +5002,22 @@ Migrant encounters at the US-Mexico border have reached record highs, with nearl
 Wed, 20 Mar 2024 11:31:58 +0530
 ### [Another Kategate: Did the Princess of Wales alter Queen Elizabeth's image?](https://www.firstpost.com/explainers/another-kategate-did-the-princess-of-wales-alter-queen-elizabeths-image-13750795.html)
 
-Article found but Couldn't summarize 
-A second photo taken by Kate of Queen Elizabeth II surrounded by her grandchildren and great-grandchildren was the subject of an editorial advisory posted by Getty Images on Monday. It stated that the photograph had been altered before its distribution by the palace. This comes days after a controversy erupted over the princess's photo with her children
+The article discusses the ongoing controversy surrounding the British royal family, specifically Princess Kate's alteration of photographs. Getty Images issued an advisory about a digitally enhanced photo taken by Kate of Queen Elizabeth II with her grandchildren and great-grandchildren. This photo was distributed by the palace to mark the queen's 97th birthday. The image, taken at Balmoral Castle, has discrepancies in alignment and lighting, suggesting digital enhancement.
+
+The incident, referred to as 'Kategate,' follows a previous controversy where a Mother's Day photo was pulled from various news outlets for being manipulated. Princess Kate admitted to occasionally editing her photos and apologized for any confusion caused.
+
+The article also touches on the implications of the royal family's use of photo agencies to distribute images, as strict policies against modification raise concerns about the distribution of false information.
+
+Additionally, it mentions recent sightings of Princess Kate and Prince William, addressing rumors about Kate's absence from the public eye. The palace had announced that Kate underwent planned abdominal surgery and is expected to recover at home until at least the end of March, with a possible full recovery taking up to nine months.
+
+The article concludes with a note on the royal family's relationship with Getty Images and the broader context of controversies involving the British royal family.
 
 Wed, 20 Mar 2024 10:54:40 +0530
 ### [Lok Sabha elections 2024: Why business is booming for detectives](https://www.firstpost.com/explainers/lok-sabha-elections-2024-business-detectives-13750841.html)
 
-Article found but Couldn't summarize 
-Amid defections and switching of camps, detectives are being tasked by political parties to keep a tab on those who are likely to pass on important information to rivals or even switch allegiance in the coming days
+As the Lok Sabha elections in India approach, political parties are increasingly hiring detectives to prevent defections and gather intelligence on rivals and their own members. This trend has led to a surge in business for detective agencies. Detectives are employed to uncover strategies, criminal records, scandals, and corruption that could impact election campaigns. They also monitor party aides to prevent collusion with opponents. The hiring process starts months before the elections and involves filing RTIs to gather information that can be expanded upon. This intelligence can range from booth level data to vulnerabilities of candidates, and even track the sources and distribution methods of cash and liquor used to sway voters.
+
+Detective agencies now play a more significant role in elections, conducting background checks on candidates, assessing their popularity, and helping parties choose promising new faces for their campaigns. They also conduct surveys to predict electoral outcomes and analyze individual candidates' chances of success. Detective agencies adhere to a policy of not working for opposing parties once hired, and their fees for these services can be quite high, reflecting the high stakes involved in political campaigning.
 
 Wed, 20 Mar 2024 09:55:43 +0530
 ### [Article 23: How Hong Kong’s new draconian security law will hurt people, businesses](https://www.firstpost.com/explainers/article-23-hong-kong-new-security-law-people-businesses-freedoms-13750815.html)
