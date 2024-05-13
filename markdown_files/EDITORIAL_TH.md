@@ -1,3 +1,15 @@
+Tue, 14 May 2024 00:20:00 +0530
+### [Towards the endgame: on the fourth phase of the general election](https://www.thehindu.com/opinion/editorial/towards-the-endgame-on-the-fourth-phase-of-the-general-election/article68171430.ece)
+
+In the fourth phase of India's 2024 Lok Sabha elections, 96 constituencies across 23 states and union territories cast their votes, bringing the total to 379 constituencies that have voted so far. This phase included all seats in Andhra Pradesh and Telangana, as well as part of the Assembly elections in Andhra Pradesh and Odisha. The BJP, which won 42 of these seats in 2019, faces competition from regional parties like the YSRCP and BJD. The election campaign lacks a unifying theme, with parties trying various slogans to attract voters.
+
+The Election Commission of India (ECI) clashed with the Congress over the delay in releasing voter turnout data, with the ECI criticizing the skepticism as contemptuous. The BJP and Congress have focused their voter mobilization on religious and caste identities. Controversies arose from demographic presentations by a government adviser and racist language used by a Congress adviser. Delhi Chief Minister Arvind Kejriwal, after being granted interim bail, has re-entered the campaign, challenging the BJP on the future of Narendra Modi's prime ministership and positioning himself as a central figure in the opposition with his list of welfare guarantees. This has intensified the dynamic tensions within the ideologically diverse opposition forces.
+
+Tue, 14 May 2024 00:10:00 +0530
+### [Murder and motive: on the Narendra Dabholkar murder case](https://www.thehindu.com/opinion/editorial/murder-and-motive-on-the-narendra-dabholkar-murder-case/article68171408.ece)
+
+The article discusses the sentencing of two men to life imprisonment for the murder of Narendra Dabholkar, a rationalist and anti-superstition activist, in Pune, India. The court's decision comes over a decade after the assassination in August 2013. The Central Bureau of Investigation's failure to prove the conspiracy behind the killing resulted in the acquittal of the main conspirator, linked to the right-wing organization Sanatan Sanstha. The organization is also suspected in other ideologically motivated murders between 2013 and 2017. The judgment emphasizes the need for direct evidence to prove a conspiracy, despite the motive being clear. The article calls for the governments of Maharashtra and Karnataka to demonstrate political will in protecting independent thinkers and activists by expediting trials and establishing the full extent of the conspiracy motivated by religious extremism.
+
 Mon, 13 May 2024 00:20:00 +0530
 ### [Modest rebound: On IIP data](https://www.thehindu.com/opinion/editorial/modest-rebound-on-iip-data/article68168358.ece)
 

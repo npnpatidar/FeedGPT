@@ -5537,3 +5537,12 @@ Started at 2024-05-13 16:14:57
 Finished at 2024-05-13 16:30:14
 Total time taken: 917.2045111656189 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-05-13 20:10:56
+1 Feed entries have been written to feeds/Explained_TH.xml
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+3 new entries have been added
+7 summaries have been updated to feeds/Explain_FP.xml
+7 summaries have been updated
+Finished at 2024-05-13 20:16:12
+Total time taken: 315.8243160247803 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
