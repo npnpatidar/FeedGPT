@@ -1,3 +1,12 @@
+Sun, 12 May 2024 19:25:09 +0530
+### [Political Line | Kejriwal, out and about](https://www.thehindu.com/opinion/columns/political-line-newsletter-kejriwal-out-and-about/article68168160.ece)
+
+The article discusses the current political climate in India amidst the 2024 General Elections. It highlights the emergence of Arvind Kejriwal from jail and his allegations against Prime Minister Narendra Modi, suggesting a potential replacement by Union Home Minister Amit Shah due to an age-related rule. The BJP is portrayed as struggling to maintain control of the narrative, with its leaders asserting that Modi will continue as PM beyond the age of 75.
+
+The piece reflects on the BJP's shift from showcasing its decade-long governance to defending its positions. It also touches on Narendra Modi's challenges in setting the election's central theme, oscillating between various narratives and promises. The article suggests that the BJP's strategy may be backfiring, as Modi's rhetoric could inadvertently support Congress's redistribution agenda.
+
+Furthermore, it discusses the role of cattle in Indian politics, the fear among Dalit cattle skinners in Gujarat, speculation about Hyderabad's status, the legacy of N.T. Rama Rao in Andhra Pradesh politics, and the implications of a recent Supreme Court decision on Hindu marriages. Lastly, it mentions Rahul Gandhi's promise to introduce a separate Sarna religious code for tribals. The article encapsulates the complexities and dynamics of the ongoing electoral process in India.
+
 Sat, 11 May 2024 23:40:59 +0530
 ### [When Belgian policemen become Catholic priests](https://www.thehindu.com/opinion/columns/when-belgian-policemen-become-catholic-priests/article68165968.ece)
 

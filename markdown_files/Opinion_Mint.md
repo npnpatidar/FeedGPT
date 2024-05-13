@@ -1,3 +1,32 @@
+Mon, 13 May 2024 13:00:02 +0530
+### [India should raise minimum wages or adopt a living wage approach](https://www.livemint.com/opinion/online-views/india-should-raise-minimum-wages-or-adopt-a-living-wage-approach-11715534891904.html)
+
+The article discusses India's plan to replace the minimum wage with a living wage by 2025, guided by the International Labour Organisation (ILO). The current National Floor Level Minimum Wage (NFLMW) is ₹176 per day, which is low compared to other countries in the Asia-Pacific region. The article suggests that India's minimum wage should be aligned with the cost of living and inflation, considering expenses such as food, transport, housing, education, and healthcare.
+
+It highlights the discrepancies in minimum wages across Indian states and the inadequacy of current wages to maintain a decent standard of living, especially with inflation rates of 5-6%. The low female workforce participation and the impact of minimum wages on the majority of India's workforce, particularly single-earner households, are also discussed.
+
+The article argues for the social and economic benefits of increasing the minimum wage or transitioning to a living-wage policy, which could alleviate poverty, reduce inequality, improve living standards, and stimulate the economy. However, concerns about the potential negative impact on hiring, especially for smaller enterprises, are also mentioned.
+
+Studies from Indonesia and South Africa are cited to show varied impacts of wage hikes on employment. The article emphasizes the need for strict enforcement of wage regulations and government support for smaller businesses during the transition. It also suggests reducing salary deductions for social-security benefits and adjusting the minimum or living wage to inflation every two years to support formal employment and economic growth. The article concludes by advocating for a scientifically established living wage and its strict implementation.
+
+Mon, 13 May 2024 11:30:00 +0530
+### [Why has official Indian data on informal enterprises been kept under wraps?](https://www.livemint.com/opinion/online-views/why-has-official-indian-data-on-informal-enterprises-been-kept-under-wraps-11715534794207.html)
+
+The article discusses the ongoing debate among economists and statisticians regarding India's economic growth figures. The main issues are the use of a new, untested corporate database (MCA-21), the method of adjusting nominal growth rates for inflation to calculate real growth rates, and the assumptions made to estimate growth in the informal sector. Bibek Debroy acknowledges the challenges posed by MCA-21 compared to the older ASI database. Former chief statistician Pronab Sen suggests that the old GDP series may have been more accurate and that recent figures likely overestimate growth due to the way informal sector growth is accounted for. In contrast, another former chief statistician, TCA Anant, believes that informal sector growth may be underestimated, citing wage data from the PLFS.
+
+However, two ex-officials of the statistics ministry argue that once adjusted for inflation, wage data indicates stagnation, not buoyancy. The article also highlights the lack of an annual survey of informal firms in India until recently, with estimates relying on proxies or past trends. Mospi initiated the Annual Survey on Unincorporated Sector Enterprises (ASUSE) in 2019, but data from its rounds have not been released, raising concerns about transparency and the utility of such surveys. The release of ASUSE data could provide crucial insights into the informal sector's performance post-pandemic and inform the next GDP base-year revision. The article concludes by expressing hope that future releases of ASUSE data will better reflect the dynamism of India's economy.
+
+Mon, 13 May 2024 10:00:18 +0530
+### [Rethink the marshmallow test and earn trust to win employee commitment](https://www.livemint.com/opinion/online-views/rethink-the-marshmallow-test-and-earn-trust-to-win-employee-commitment-11715534068043.html)
+
+The article discusses the famous **marshmallow test** by Stanford professor Walter Mischel and its implications on the understanding of success and self-control. Initially, the test was seen as a measure of the ability to delay gratification, with children who waited for a second marshmallow seemingly destined for greater success in life. This concept was adopted in corporate environments, where deferred gratification was valued.
+
+However, the article critiques this simplistic view, highlighting that it ignores socioeconomic and psychological factors that affect decision-making. It points out that children from unstable backgrounds may not trust that rewards will be delivered, making their choice for immediate gratification a rational response to their lived experiences. Trust, shaped by consistent experiences, plays a crucial role in the ability to delay gratification.
+
+The article extends these findings to the workplace, suggesting that employees' preferences for immediate rewards over promised long-term benefits reflect their trust in their employer. It argues that organizations should focus on building a culture of trust, as employees' lived experiences with broken promises can influence their perceptions and behaviors.
+
+In conclusion, the article suggests that leaders should ensure their work environments are consistent and reliable to make promises credible, as the preference for immediate rewards over future ones is a reflection of the organization's trust index. The marshmallow test, therefore, is not just about self-discipline but also about the importance of trust in shaping behavior and success.
+
 Mon, 13 May 2024 08:30:15 +0530
 ### [Bulls and bears: Stock market shudders are not hard to understand](https://www.livemint.com/opinion/online-views/bulls-and-bears-stock-market-shudders-are-not-hard-to-understand-11715502554848.html)
 

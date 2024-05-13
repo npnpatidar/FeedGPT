@@ -1,3 +1,49 @@
+Mon, 13 May 2024 12:52:39 +0530
+### [How MDH and Everest, now under scrutiny in several countries, became household names](https://www.firstpost.com/explainers/how-mdh-and-everest-now-under-scrutiny-in-several-countries-became-household-names-13770177.html)
+
+The article discusses a controversy involving Indian spice brands MDH and Everest, following a ban on some of their products in Hong Kong due to the detection of a cancer-causing pesticide, ethylene oxide, above permissible levels. This has led to international scrutiny, with investigations launched in several countries including the United States, Singapore, and Australia.
+
+**MDH**, established in 1919 in New Delhi, is known for its founder Dharampal Gulati, the "Spice King," and its wide range of spice products. The company, which sells over 65 products, had a revenue of $260 million for 2022-2023.
+
+**Everest** started in 1967 and has a global presence in around 80 countries. With Bollywood stars as brand ambassadors, it boasts a net sales of $365 million for the same period.
+
+The issue began when Hong Kong's Centre for Food Safety suspended the sale of certain MDH and Everest spice blends. Singapore followed with a recall of Everest's spice mix. The Indian Spices Board has mandated product testing for exports, and India's Food Safety and Standards Authority has been urged to conduct stringent quality checks.
+
+Both MDH and Everest have defended their products, stating they adhere to strict safety guidelines. MDH claims it has not received any communication from the regulatory authorities of Singapore or Hong Kong, while Everest asserts that only one of its 60 products was held for examination.
+
+The controversy arises amidst a growth period for the sector, with Indian spices gaining worldwide popularity. Blended spices are expected to constitute a significant portion of the organized business by 2025. The article concludes with a note on the potential long-term impact on sales due to the current situation.
+
+Mon, 13 May 2024 11:43:15 +0530
+### [Who is Archit Grover, the Indian-origin man arrested in Canada’s biggest gold, cash heist?](https://www.firstpost.com/explainers/archit-grover-the-indian-origin-man-arrested-in-canada-gold-cash-heist-13770152.html)
+
+**Summary of the Article:**
+
+In a significant development in the case of Canada's largest gold heist, **Archit Grover**, an Indian-origin man, was arrested and charged upon his arrival at Toronto's Pearson International Airport from India. He is the seventh person to be apprehended in connection with the theft of a cargo container carrying gold bars and foreign currency, valued at over **20 million dollars** and **CAD 2.5 million** respectively. The heist occurred on **April 17, 2023**, when the cargo, arriving from Zurich on an Air Canada flight, was stolen using forged documents.
+
+Grover faces charges of theft exceeding **CAD 5,000** and conspiracy to commit an indictable offense. He is also facing indictment in the US for firearm-related offenses. His defense lawyer stated that Grover returned to Canada to face the charges after learning of the arrest warrant in India.
+
+Previously, Canadian police, in collaboration with the US ATF, seized approximately **CAD 89,000** worth of gold and **CAD 434,000** in cash, believed to be part of the stolen assets. The investigation also uncovered a suspected link between the profits from the stolen gold and a cross-border gun-running operation.
+
+Two other Indian-origin individuals, **Parmpal Sidhu** and **Amit Jalota**, were among the five arrested last month. Additionally, Canada-wide warrants have been issued for **Simran Preet Panesar**, a former Air Canada employee, and **Arsalan Chaudhary**. The police believe at least two former Air Canada employees facilitated the heist.
+
+The article concludes with the confirmation from an Air Canada spokesperson regarding the employment status of Sidhu and Panesar, with one having left the company and the other being suspended. The case has drawn significant attention and has been described as 'Netflix-worthy' due to its sensational nature.
+
+Mon, 13 May 2024 10:41:53 +0530
+### [Infertility and more: How American influencers are spreading misinformation about birth control online](https://www.firstpost.com/explainers/infertility-american-influencers-spreading-misinformation-birth-control-13770114.html)
+
+The article discusses the spread of misinformation about birth control on social media platforms, particularly by influencers who are not licensed medical professionals. These influencers often claim that birth control pills cause infertility and low libido, which can mislead their followers and potentially lead to unintended pregnancies. Medical experts counter these claims, stating that individual experiences do not constitute widespread evidence and that there is no direct proof that birth control pills cause widespread infertility or changes in sexual behavior.
+
+The issue has become more pressing as reproductive rights are debated in the political arena, especially in countries where abortion is heavily restricted. The article highlights cases where influencers have exaggerated the side effects of birth control pills, sometimes offering alternative "natural" birth control methods or promoting products alongside their claims. These methods, such as fertility awareness-based methods (FAMs), are less effective than medical birth control, with a failure rate of up to 23 percent according to the CDC.
+
+Health experts affirm that birth control pills are safe and effective, though they can have side effects like nausea, headaches, and bleeding between periods. In rare cases, they can lead to blood clots and strokes. However, these risks are low, and many side effects can be managed by switching birth control types or waiting for symptoms to subside.
+
+The article concludes by emphasizing the importance of making decisions about birth control based on legitimate health information and the guidance of a healthcare provider, rather than the influence of social media personalities. Misinformation can have serious consequences, such as unwanted pregnancies, especially in areas where access to abortion is limited. The article suggests that influencers often have financial motives for spreading misinformation and that their narratives should not replace professional medical advice.
+
+Mon, 13 May 2024 10:26:29 +0530
+### [Why Putin appointed Andrei Belousov, an economist, as Russia’s new defence minister](https://www.firstpost.com/explainers/vladimir-putin-andrei-belousov-economist-russia-defence-minister-sergei-shoigu-cabinet-reshuffle-13770115.html)
+
+In a significant Cabinet reshuffle, Russian President Vladimir Putin has appointed Andrei Belousov as the new defence minister, replacing Sergei Shoigu. Belousov, an economist without prior defence experience, suggests a strategic shift in the Ukraine war. The reshuffle is seen as Putin's most substantial since the war began, indicating dissatisfaction with Shoigu and a focus on economic efficiency in warfare. Belousov's appointment may signal Putin's intent to personally direct war tactics and ensure the military's economic sustainability. The reshuffle also includes changes to other key positions, reflecting a broader strategy to address the challenges Russia faces in the ongoing conflict.
+
 Mon, 13 May 2024 08:59:35 +0530
 ### [Pinky Problems: What is 'iPhone finger' and is it dangerous?](https://www.firstpost.com/explainers/iphone-finger-explained-dangers-expert-opinion-13769497.html)
 

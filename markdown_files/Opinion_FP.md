@@ -1,3 +1,8 @@
+Mon, 13 May 2024 11:16:49 +0530
+### [Pro-Palestine but anti-American: How ongoing protests on US campuses are dangerously different from past agitations](https://www.firstpost.com/opinion/pro-palestine-but-anti-american-how-ongoing-protests-on-us-campuses-are-dangerously-different-from-past-agitations-13770136.html)
+
+The article discusses the nature of recent pro-Palestine protests at some Ivy League colleges and large universities in the US, questioning their authenticity as student-led movements. It suggests that these protests are not genuinely student-led but are orchestrated and funded by partisan outsiders, as evidenced by the arrest of non-student participants at Columbia University and the lack of momentum at HBCUs and state universities. The article criticizes the protests for being masked and secretive, contrasting them with historical student protests that were open and unmasked. It also highlights the disruption caused by these protests to campus life and the failure of university leadership to enforce student codes of conduct. The author, a professor at Shawnee State University, emphasizes the importance of upholding academic excellence and campus security by implementing student codes of conduct and banning outsider encampments. The views expressed are personal and do not reflect those of Firstpost.
+
 Sun, 12 May 2024 17:17:24 +0530
 ### [How ‘Squad’ is neither replacement for Quad nor setback for India](https://www.firstpost.com/opinion/how-squad-is-neither-replacement-for-quad-nor-setback-for-india-13770013.html)
 
