@@ -1,3 +1,34 @@
+Mon, 13 May 2024 16:30:09 +0530
+### [Clickbait clutter: AI is generating too much digital junk](https://www.livemint.com/opinion/online-views/clickbait-clutter-ai-is-generating-too-much-digital-junk-11715535171898.html)
+
+The article discusses the impact of generative artificial intelligence (GenAI) on internet content. It highlights the shift from human-created content to AI-generated material, which has led to an increase in quantity but a decrease in quality. The internet is becoming saturated with "digital junk," such as clickbait and misleading videos, which prioritize engagement over substance. This trend is eroding consumer trust and raising ethical concerns, as AI lacks human moral judgment and can be used to spread falsehoods. However, GenAI also has the potential to improve content quality by assisting creators with research and ideas. The article suggests that platform operators should develop algorithms that reward quality content and that regulatory frameworks need to evolve to ensure responsible use of content creation tools. The current trajectory of GenAI points towards a future filled with low-quality content, and the article calls for government intervention to prevent this.
+
+Mon, 13 May 2024 16:00:07 +0530
+### [How to set right your SIP portfolio](https://www.livemint.com/opinion/online-views/how-to-set-right-your-sip-portfolio-11715582602397.html)
+
+The article from Contramoney focuses on optimizing Systematic Investment Plans (SIPs) as a means to build long-term wealth, emphasizing the importance of asset allocation. The key points include:
+
+- **Simplifying Mutual Fund Investments**: Investors should consolidate their SIPs into one or two well-chosen equity fund schemes, avoiding the complexity of multiple schemes which dilute returns to market averages.
+
+- **Resisting New Additions**: The temptation to continually add new mutual fund schemes should be resisted. Instead, focus on the selected schemes which are likely being managed to capitalize on new opportunities.
+
+- **Market Sell-Offs**: Investors should take advantage of market sell-offs, which may require a more hands-on approach than what monthly SIPs offer.
+
+- **Fund Selection**: It's crucial to stay invested in the right funds over time, considering the potential of the funds to meet their objectives, even during periods of underperformance.
+
+- **Long-Term Strategy**: While SIPs are an effective way to invest savings into the market, the ultimate goal should be proper asset allocation for long-term wealth creation.
+
+The article concludes with a reminder to consult a personal investment advisor for tailored advice and mentions the need for international exposure in investments. It's authored by Rahul Goel, former CEO of Equitymaster. Remember, this summary is for informational purposes and should not be taken as financial advice.
+
+Mon, 13 May 2024 15:30:06 +0530
+### [Howard Schultz should give Starbucks' CEO the time and space he needs to deliver](https://www.livemint.com/opinion/online-views/howard-schultz-should-give-starbucks-ceo-the-time-and-space-he-needs-to-deliver-11715534976275.html)
+
+Howard Schultz, the former CEO of Starbucks, criticized his successor on LinkedIn for the company's poor quarterly performance, suggesting the need for contrition and accountability without excuses. The quarter saw a significant drop in sales and earnings, leading to a 16% share price fall post-earnings report. Schultz's public critique is part of a pattern of interference that may have hindered the search for a strong leader after him. He left the CEO position over a year ago and the board only in September, making it unlikely for the decline to have occurred so rapidly under the new CEO, Laxman Narasimhan.
+
+Schultz's own actions, such as setting high expectations and introducing an aggressive growth plan shortly before Narasimhan took over, have contributed to the company's challenges. Narasimhan, previously CEO of Reckitt, was brought on as 'incoming CEO' to work with Schultz before fully assuming the role, which may indicate he wasn't the board's first choice.
+
+The article suggests that Schultz's history of returning to the CEO role and undermining successors has made the position less attractive and could be a factor in the company's struggle to find strong leadership. It concludes that if Narasimhan is ousted, Schultz should refrain from public commentary to allow for a capable replacement to turn the company around.
+
 Mon, 13 May 2024 13:00:02 +0530
 ### [India should raise minimum wages or adopt a living wage approach](https://www.livemint.com/opinion/online-views/india-should-raise-minimum-wages-or-adopt-a-living-wage-approach-11715534891904.html)
 

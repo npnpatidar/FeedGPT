@@ -1,3 +1,37 @@
+Mon, 13 May 2024 14:19:00 +0000
+### [Burqa row: Why BJP candidate in Hyderabad has been booked by police at the ECI’s behest](https://indianexpress.com/article/explained/madhavi-latha-burqa-controversy-9326271/)
+
+During the fourth phase of the Lok Sabha election, BJP candidate Madhavi Latha was recorded asking niqab-wearing women to remove their face coverings for identity verification. This led to an FIR against her for undue influence, obstruction, and intent to incite, under various IPC sections and the Representation of the People Act. Historically, women in India have voted with face coverings, and the Election Commission of India (ECI) has worked to respect privacy while ensuring fair elections. The ECI mandates special arrangements for the identification of 'pardanashin' women voters by female polling officers. The verification of voter identity is the ECI's responsibility, not the candidates', and Latha's actions were considered interference, resulting in police action. The article also mentions Damini Nath, an Assistant Editor with The Indian Express, and a separate, unrelated anecdote by Twinkle Khanna about motherhood and a humorous remark by her husband, Akshay Kumar.
+
+Mon, 13 May 2024 12:32:34 +0000
+### [First human recipient of pig kidney transplant dies: What is xenotransplantation, why pigs are used](https://indianexpress.com/article/explained/everyday-explainers/pig-kidney-transplant-death-xenotransplantation-9325986/)
+
+The article discusses the case of the first recipient of a modified pig kidney transplant, Richard "Rick" Slayman, who passed away two months post-surgery. The Massachusetts General Hospital and Slayman's family did not attribute his death to the transplant. Xenotransplantation, the process of using animal cells and organs in humans, is highlighted as a promising solution to the organ donor shortage. The article notes that nearly 90,000 people in the U.S. await a kidney transplant, with over 3,000 dying annually while waiting.
+
+The procedure involves significant genetic modifications to the animal organ to prevent rejection by the human body, with 69 genomic edits made in Slayman's case using CRISPR-Cas9 technology. Despite the potential of xenotransplantation, as evidenced by over 50 years of using pig heart valves in humans, challenges remain. These include ensuring the human body does not reject the organ and monitoring for infections, including latent retroviruses that could cause disease years later.
+
+The article also briefly mentions unrelated content about author Twinkle Khanna discussing the evolution of a mother's roles and responsibilities, which is not connected to the main topic of xenotransplantation.
+
+Mon, 13 May 2024 12:26:09 +0000
+### [Expert Explains: How India’s polling stations work](https://indianexpress.com/article/explained/expert-explains-india-polling-stations-work-9325944/)
+
+The article provides a detailed overview of the polling station setup and management during the ongoing Lok Sabha elections in India. It highlights that **96.8 crore electors** are enrolled to vote at **10.5 lakh polling stations** nationwide. The district election officer (DEO) is responsible for establishing polling stations under the Representation of the People Act, 1951, with the aim to make them accessible within two kilometers for voters, have a minimum area of 20 sq m, and serve no more than 1,500 electors. Exceptions are made for remote or challenging locations, such as Arunachal Pradesh's Malogam polling station, which serves a single voter.
+
+Polling stations are typically located in government buildings, with private buildings used only when necessary. The list of polling stations is verified and updated annually, with input from political parties and citizens. The Election Commission of India (ECI) approves the final list, which is then distributed to parties and candidates.
+
+To accommodate the Indian summer, polling stations are equipped with shade structures, cooling devices, and medical kits to combat heatwaves. Special provisions are made for **88.4 lakh Persons with Disabilities (PwD)**, including ramps, wheelchairs, and transport facilities. The ECI's Saksham App helps PwDs with various services.
+
+Access to polling stations is restricted to authorized individuals, and a polling party consists of a Presiding Officer and three Polling Officers who manage voter identification, indelible ink application, and EVM control. Sector Officers, Micro Observers, Booth Level Officers (BLO), and security personnel support the election process.
+
+Separate queues for men and women are maintained on polling day, and political activities are restricted near polling stations. Critical polling stations receive additional security measures to ensure the integrity of the voting process.
+
+The article concludes with a brief mention of author and entrepreneur Twinkle Khanna's column, which discusses the evolving roles of mothers and includes a humorous anecdote involving her husband, actor Akshay Kumar. However, this part of the article is unrelated to the main topic of the Lok Sabha elections.
+
+Mon, 13 May 2024 11:44:37 +0000
+### [Himachal Pradesh HC split verdict: Can courts impose a timeline on Speakers’ acceptance of MLA resignations?](https://indianexpress.com/article/explained/explained-law/himachal-pradesh-mla-resignation-high-court-9325913/)
+
+The Himachal Pradesh High Court is divided over whether to direct the Speaker to accept MLA resignations promptly. Chief Justice Rao declined to intervene, while Justice Dua ordered a two-week deadline for the Speaker's decision. The controversy stems from the Rajya Sabha elections in February 2024, where BJP's Harsh Mahajan won against Congress's Abhishek Manu Singhvi, aided by defections from six Congress MLAs and three independents. The Speaker disqualified the defectors, who then petitioned the court for immediate acceptance of their resignations. The law allows the Speaker to verify the authenticity of resignations, but the judges' opinions diverged on judicial intervention. The case may escalate to a larger bench or the Supreme Court, with the Speaker's final decision expected by early June.
+
 Mon, 13 May 2024 01:40:51 +0000
 ### [Why Congress hit ‘400 paar’ in 1984 elections, how Rajiv Gandhi’s tenure was marred by struggles](https://indianexpress.com/article/explained/explained-politics/why-congress-hit-400-paar-in-1984-elections-how-rajiv-gandhis-tenure-was-marred-by-struggles-9324387/)
 

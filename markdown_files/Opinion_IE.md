@@ -1,3 +1,31 @@
+Mon, 13 May 2024 13:16:38 +0000
+### [CBSE Board results out: Why I won’t celebrate the toppers](https://indianexpress.com/article/opinion/columns/cbse-board-results-toppers-celebrations-9326124/)
+
+The article discusses the drawbacks of an exam-centric education system, highlighting three main concerns. Firstly, it criticizes the system for prioritizing exams over creative and critical pedagogy, leading to a loss of the joy of learning. Secondly, it points out that the system produces conformists with homogenized aspirations, as most "toppers" aim for conventional careers without exploring diverse interests. Lastly, it questions our understanding of students who do not perform well in exams, suggesting that the pressure to succeed can lead to mental distress. The author advocates for a libertarian education that allows students to discover their unique talents and find joy in learning, rather than being confined to a standardized curriculum that stifles creativity. The article is a call to rethink the purpose of education and recognize the potential in all students, not just the high achievers.
+
+Mon, 13 May 2024 11:01:08 +0000
+### [War is politics: Why Benjamin Netanyahu doesn’t want a deal with Hamas](https://indianexpress.com/article/opinion/columns/israel-hamas-deal-benjamin-netanyahu-9325750/)
+
+The article discusses the ongoing ceasefire negotiations between Israel and Hamas, mediated by the United States, Qatar, Egypt, and other allies. Despite the efforts, cooperation has been challenging, with Qatar expressing frustration over sabotage from both sides. The proposed deal involves the release of Israeli hostages in exchange for Palestinian prisoners and a six-week ceasefire. Hamas leader Yahya Sinwar, who has kept over 130 hostages, seems unconcerned about reaching a ceasefire despite the dire situation in Gaza. The Israeli army has been unable to capture Sinwar, and international pressure is against further ground operations in Rafah. Israeli Prime Minister Benjamin Netanyahu faces his own challenges, including an arrest warrant from the International Criminal Court. After a delay, Hamas accepted the ceasefire, leading to protests against Netanyahu and calls for an immediate ceasefire. More than half of Israelis surveyed want their government to agree to a deal. If successful, the deal will secure the release of 33 hostages initially, with more to follow if the ceasefire holds. The article is written by an associate professor and director at the Centre for Israel Studies, Jindal School of International Affairs. The unrelated content about Twinkle Khanna has been omitted from this summary.
+
+Mon, 13 May 2024 09:45:48 +0000
+### [Mani Shankar Aiyar on Pakistan controversy: Modi-Shah have dredged me up, Congress has abandoned me](https://indianexpress.com/article/opinion/columns/mani-shankar-aiyar-modi-shah-pakistan-controversy-9325456/)
+
+The article is a personal commentary by a former Union minister, who has been criticized for a video clip related to his views on India-Pakistan relations. The clip was used by the BJP to attack him during an election, despite the Congress party distancing itself from his remarks. He argues that his consistent advocacy for dialogue with Pakistan is an important national issue and should not be dismissed based on a short clip. He details his long-standing position on the matter, referencing his past publications and aligning his views with those of former Prime Ministers Atal Bihari Vajpayee and Manmohan Singh.
+
+He criticizes the current government for halting diplomatic dialogue with Pakistan and suggests that internal dialogue within India is necessary before resuming talks with Pakistan. He emphasizes the importance of dialogue in the context of nuclear deterrence and accuses the BJP and The Indian Express of distorting his words. He concludes by expressing uncertainty over whether to be thankful for the attention he's received from the controversy or to dismiss it, opting instead to present his side of the story.
+
+The unrelated content about Twinkle Khanna discussing motherhood and a humorous mention of her husband has been omitted from the summary.
+
+Mon, 13 May 2024 08:26:27 +0000
+### [Why AI and the jobs crisis doesn’t feature in the 2024 general election](https://indianexpress.com/article/opinion/columns/ai-jobs-crisis-2024-general-election-9325348/)
+
+The article discusses the impact of AI and automation on the labour market in the context of the 18th Lok Sabha elections in India. It highlights the lack of discussion on the jobs crisis and the suffering of the Indian working class due to precarity, underemployment, and social inequity. The ruling coalition and the opposition offer minimal solutions, often dismissed as "revdi" culture. The article critically examines the claims of AI replacing cognitive labour and the notion of Artificial General Intelligence, emphasizing that AI is a term for machine learning technologies that learn from data patterns. It warns against the acceleration of past inequities through AI and the industry's fortune-telling and fear-mongering, which diverts attention from job-related issues.
+
+The use of machine learning in policing gig workers and predicting employee performance is criticized for shrinking labour power and not being covered under Indian labour laws. The article argues that automation's historical effects, such as deskilling and alienation, are ignored in policy processes, with a tech-determinist mindset prevailing in Indian politics. It criticizes the positioning of India as a "test-bed" for AI technologies and the lack of political will to address the economic rights of labour. The article calls for concrete policymaking on the AI industry and data practices, advocating for labour to take precedence over capital.
+
+The authors, Mali and Guha from IIT Bombay, work on AI, labour, and policy. The unrelated content about Twinkle Khanna's column is omitted from the summary.
+
 Mon, 13 May 2024 03:25:41 +0000
 ### [Keeping children safe online, while ensuring their right to access the internet](https://indianexpress.com/article/opinion/editorials/keeping-children-safe-online-while-ensuring-their-right-to-access-the-internet-9324428/)
 

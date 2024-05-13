@@ -1,3 +1,26 @@
+Mon, 13 May 2024 21:37:46 +0530
+### [How protests in PoK expose Pakistan’s Kashmir hypocrisy](https://www.firstpost.com/opinion/how-protests-in-pok-expose-pakistans-kashmir-hypocrisy-13770400.html)
+
+The article discusses the ongoing human rights issues and political unrest in Pakistan-Occupied Kashmir (PoK). It highlights the systematic repression, lack of basic amenities, and economic neglect that have led to widespread discontent among the local population. The recent protests against inflation and lack of amenities have turned violent, with police brutality resulting in casualties and injuries. The article also points out the hypocrisy of Pakistan's international stance on Kashmiri rights compared to its treatment of the people in PoK and Gilgit Baltistan. It underscores the need for international intervention to address these issues and mentions India's firm stance on PoK, with Indian officials reiterating the country's claim over the region and expressing a commitment to its integration into the Indian Union. The views expressed are personal to the author and do not reflect those of the publication.
+
+Mon, 13 May 2024 16:14:33 +0530
+### [Why India’s space and cyber domains need well-built 'cybershield'](https://www.firstpost.com/opinion/why-indias-space-and-cyber-domains-need-well-built-cybershield-13770264.html)
+
+The article discusses the growing importance of space and cyber domains in modern warfare, emphasizing their role as the fourth and fifth domains of conflict. It highlights the advantages that nations with advanced space capabilities have in terms of battlefield transparency and target acquisition. The article also points out the vulnerability of space assets to cyberattacks, noting the lack of prioritization of space assets as critical infrastructure in cybersecurity measures.
+
+The piece underscores the need for a 'cybershield' to protect space infrastructure, citing China's use of Quantum Key Distribution (QKD) encryption as an example. It argues for the integration of space and cyber capabilities into Multi-Domain Operations (MDO) to ensure cohesive operational centricity and the protection of the first three domains—land, sea, and air.
+
+Furthermore, the article outlines the evolution of military communication and intelligence from C3-I to C5-I2-STAR2, which includes Command, Control, Communications, Computers, Cyber-Intelligence, Interoperability-Surveillance, Target Acquisition, Reconnaissance, and Robotics. It stresses the complexity of interlinking terrestrial and non-terrestrial networks and the need for effective command and control.
+
+The author, Lt Gen PJS Pannu, calls for the development of cyber resilient space standards and the modernization of the Indian armed forces to address the challenges of cyberwarfare. He emphasizes the global nature of space and cyber domains and the necessity for both national and international spheres to have a robust cybershield. The views expressed are personal and do not necessarily reflect those of Firstpost.
+
+Mon, 13 May 2024 13:50:12 +0530
+### [Xi in Europe: How Chinese President posed as ‘ruler of world’ while Europeans 'begged' a solution for Ukraine](https://www.firstpost.com/opinion/xi-in-europe-how-chinese-president-posed-as-ruler-of-world-while-europeans-begged-a-solution-for-ukraine-13770196.html)
+
+The article discusses the complex relationship between France and China, highlighting President Macron's efforts to engage with Chinese President Xi Jinping amidst contrasting European attitudes towards China and Russia. It reflects on France's fascination with China, despite concerns over China's human rights record and trade practices. The piece contrasts Macron's elaborate reception of Xi with France's political short memory, citing the inauguration of a P4 lab in Wuhan as an example of trust between the two nations.
+
+The article also touches on the growing strength of Indo-French relations and the upcoming 'Choose France Forum' aimed at fostering investment and partnership. It concludes with a critique of the limited progress in bilateral negotiations during Xi's visit, the symbolic protests by activists in Paris, and the split in Europe over how to engage with China. The writer's views are personal and do not necessarily reflect those of the publication.
+
 Mon, 13 May 2024 11:16:49 +0530
 ### [Pro-Palestine but anti-American: How ongoing protests on US campuses are dangerously different from past agitations](https://www.firstpost.com/opinion/pro-palestine-but-anti-american-how-ongoing-protests-on-us-campuses-are-dangerously-different-from-past-agitations-13770136.html)
 

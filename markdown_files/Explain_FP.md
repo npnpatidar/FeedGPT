@@ -1,3 +1,118 @@
+Mon, 13 May 2024 21:14:40 +0530
+### [Donald Trump’s hush money trial: Why his ex-lawyer Michael Cohen’s testimony matters](https://www.firstpost.com/explainers/us-donald-trump-hush-money-trial-michael-cohen-testimony-stormy-daniels-13770386.html)
+
+Michael Cohen, the former lawyer of Donald Trump, is testifying against the ex-president in a hush money trial. Cohen, once a loyalist to Trump, is a central witness for the prosecution, aiming to prove that Trump falsified business records related to a payment to Stormy Daniels. Cohen's past association with Trump began when he supported Trump in a dispute at Trump World Tower and subsequently joined Trump's company. His role extended beyond legal work, involving various acts to protect Trump's interests and family.
+
+Cohen's falling out with Trump occurred after the FBI raided his home and office in 2018, leading to his claim that he paid Daniels to keep a sexual encounter with Trump secret, and that Trump later reimbursed him, disguising the payments as legal expenses. Trump denies these allegations.
+
+Cohen's criminal history, including lying to Congress and arranging illegal campaign donations, may be used by Trump's defense to discredit his testimony. Cohen, who has served time in prison for related crimes, suggests his testimony is part of seeking redemption and warning against Trump's potential re-election.
+
+The trial's outcome could have significant implications. Trump, facing 34 felony counts and pleading not guilty, claims the case is politically motivated. The defense argues that Cohen's payments were for legal work, not hush money. The verdict could influence public and political support for Trump, especially regarding his 2024 election campaign.
+
+Mon, 13 May 2024 19:50:16 +0530
+### [Quicksplained: Two massive asteroids are heading towards Earth. Will they hit our planet?](https://www.firstpost.com/explainers/two-massive-asteroids-earth-all-you-need-to-know-nasa-13770281.html)
+
+NASA has reported that two asteroids, 2024 JB2 and 2020 JP10, are approaching Earth at high speeds. Here's a summary of the key points:
+
+- **Asteroids 2024 JB2 and 2020 JP10**: These near-Earth objects measure between 60-130 meters and 52-120 meters in width, respectively. They are part of the Apollo group with orbits intersecting Earth's path.
+- **Speed and Distance**: 2024 JB2 is traveling at 63,683 km/h and will pass 44.3 million km from Earth, while 2020 JP10 is faster at 90,000 km/h and will be 72 million km away.
+- **Monitoring**: NASA tracks these objects using global observatories and radar projects to assess potential impact risks.
+- **Additional Asteroid 2024 JQ12**: A smaller asteroid, 5-12 meters wide, will pass within 800,000 km of Earth at 11,000 km/h.
+- **Potentially Hazardous Asteroids**: These are larger than 140 meters and come within 7.5 million km of Earth's orbit. A recent "stadium-size" asteroid was classified as such.
+- **Asteroid Origins**: They are remnants from the solar system's formation, with nearly a million known asteroids varying in size and composition.
+- **Global Disaster Risk**: Extremely large asteroids (1 km or more in diameter) that could cause global disasters are rare, impacting Earth every 100,000 years on average.
+- **Future Close Approach**: The asteroid Apophis will pass within 48,280 km of Earth on April 13, 2029, providing a unique opportunity for study.
+
+The article concludes that while the speed of these asteroids is notable, their distance from Earth makes them of no immediate concern regarding impact. NASA continues to monitor such objects to ensure any potential risks are identified early.
+
+Mon, 13 May 2024 19:11:24 +0530
+### [Chaos and destruction after dust storm hits Mumbai: How is it caused?](https://www.firstpost.com/explainers/mumbai-dust-storm-13770363.html)
+
+A severe dust storm, accompanied by high winds and rain, struck Mumbai, resulting in the tragic collapse of a billboard on a petrol pump in Ghatkopar, which led to three fatalities, 59 injuries, and approximately 100 people being trapped. The incident, which occurred along the Eastern Express Highway, prompted responses from the police, fire brigade, and other agencies. The India Meteorological Department issued a warning for thunderstorms with lightning and intense rain spells for the region.
+
+Dust storms are typically caused by strong winds from thunderstorms and occur in flat, barren areas. They can be extensive and reach high altitudes, often starting abruptly and posing risks such as reduced visibility leading to accidents, health issues, and disruptions to transportation and power networks. Climate change, through land degradation and droughts, has been linked to an increase in dust storms, which also contribute to global warming by trapping heat in the atmosphere.
+
+In Mumbai, the storm affected public transportation, with metro and suburban train services being suspended due to damage from the winds. Power outages and fallen trees were reported, and various parts of the city and its suburbs experienced rain and gusty winds. The Mumbai airport operations were also halted until further notice. The situation was attributed to a trough over Maharashtra, which was expected to disperse shortly.
+
+Mon, 13 May 2024 19:00:34 +0530
+### [Why Greece is fuming over new North Macedonia president's swearing-in ceremony](https://www.firstpost.com/explainers/why-greece-is-fuming-over-new-north-macedonia-presidents-swearing-in-ceremony-13770352.html)
+
+A diplomatic row has emerged between Greece and North Macedonia after the latter's newly elected President, Gordana Siljanovska-Davkova, used the term "Macedonia" instead of the official name "North Macedonia" during her inauguration. This act contravened the 2018 Prespa Agreement, which was intended to resolve a long-standing dispute and allowed North Macedonia to progress towards EU and NATO membership. Greek Prime Minister Kyriakos Mitsotakis condemned the action as illegal and warned it could harm bilateral relations and North Macedonia's EU aspirations. The incident has sparked political tension in Greece and could also affect relations with Bulgaria, which has its own disputes with North Macedonia. The European Commission has urged North Macedonia to adhere to its agreements to continue its path towards EU accession.
+
+Mon, 13 May 2024 18:09:09 +0530
+### [No alcohol after 9.30 pm: What is Spain’s anti-tourism law extended to Ibiza, other islands?](https://www.firstpost.com/explainers/spain-anti-tourism-law-ibiza-other-islands-13770184.html)
+
+Spain's Balearic Islands have introduced stricter regulations to combat "excessive tourism," particularly targeting party boats and public drinking. The new rules, part of an amendment to a 2020 decree, include a complete ban on alcohol sales in shops from 9.30 pm to 8 am in high-tourism areas and prohibit street drinking, except in licensed areas. Violators face fines ranging from €500 to €1,500.
+
+The decree also restricts party boats from serving alcohol on board and operating within a nautical mile of specified regions. These measures aim to promote "responsible tourism" and are set to remain in effect until at least December 31, 2027. The government plans to use a sustainable tourist tax to fund projects that encourage responsible tourism practices.
+
+The Canary Islands have also experienced issues with mass tourism, leading to protests in Tenerife where locals expressed concerns over being priced out of housing and environmental damage. The regional government has acknowledged the need to balance tourism with local well-being.
+
+Across Europe, various destinations are implementing measures to manage overcrowding and maintain a balance between tourism and local interests. These include tourist taxes, restrictions on new hotel construction, and other regulations to encourage responsible and considerate travel behavior. The article concludes with a note on the broader European context of managing tourism impact.
+
+Mon, 13 May 2024 18:06:18 +0530
+### [Why Meghan Markle is receiving backlash for her Nigeria visit](https://www.firstpost.com/explainers/meghan-markle-windsor-dress-nigeria-visit-backlash-13770208.html)
+
+Meghan Markle and Prince Harry's three-day visit to Nigeria has sparked discussions due to Meghan's choice of attire—a backless beige silk maxi dress named "Windsor Gown-Blush"—and her behavior. The visit, which was not on behalf of the UK government, aimed to promote Harry's Invictus Games. Meghan's dress choice led to speculation about whether it was a deliberate reference to the British royal family, from which the couple had distanced themselves. Critics labeled her as seeking the benefits of the Windsor name without the responsibilities, while supporters defended her, suggesting she might simply like the dress.
+
+Additionally, Meghan faced criticism for her demeanor, with biographer Angela Levin describing her as "rude" during an interaction at Lightway Academy College. The Duchess also declared Nigeria "her country" after revealing her Nigerian ancestry through a genealogy test, calling the discovery "humbling" and praising the qualities attributed to Nigerian women.
+
+The article reflects the polarized views of the public and media towards Meghan, with some perceiving her actions as strategic and others defending her personal choices. The visit highlighted the ongoing scrutiny faced by the Duchess and the complex relationship with her public image and royal connections.
+
+Mon, 13 May 2024 17:37:24 +0530
+### [BJP leader asks Muslim women to show faces to verify identity on polling day. Who is Madhavi Latha?](https://www.firstpost.com/explainers/lok-sabha-elections-bjp-hyderabad-candidate-madhavi-latha-controversy-13770291.html)
+
+Kompella Madhavi Latha, the BJP candidate for the Hyderabad Lok Sabha seat, has been involved in a controversy after a video surfaced showing her asking burqa-clad women to lift their veils at a polling booth for identity verification. The incident occurred during the Lok Sabha elections in Telangana. Latha, known for her outspokenness, is contesting against AIMIM's Asaduddin Owaisi. Following the incident, AIMIM filed a complaint with the Election Commission of India, and a case was registered against Latha under various sections of the IPC and the Representation of the People Act.
+
+Latha is also the Managing Director of Virinchi Hospitals and has a background in public administration and political science. She has been involved in charity work and campaigned against triple talaq. Her candidature has been marked by her distinctive speaking style and several controversies, including making problematic remarks about religious attire and gender roles. An FIR was previously filed against her for actions during a religious rally, and she has faced criticism for her comments on sensitive social issues. Despite the controversies, Latha has maintained her stance and defended her actions.
+
+Mon, 13 May 2024 16:52:15 +0530
+### [China beat US to become India's top trading partner. Here's how it happened](https://www.firstpost.com/explainers/china-india-top-trading-partner-13770288.html)
+
+In the fiscal year 2023-2024, **China** became **India's largest trading partner**, surpassing the United States. The trade between India and China was valued at **$118.4 billion**, with India's exports to China increasing by **8.7%** to **$16.67 billion** and imports from China rising by **3.24%** to **$101.7 billion**. Key exports included iron ore, cotton, yarn, fabrics, and other goods, while significant imports from China consisted of telecom parts, laptops, PCs, and lithium-ion batteries for EVs.
+
+The trade dynamics shifted as India's trade with the US decreased, with exports falling by **1.32%** to **$77.5 billion** and imports dropping by **20%** to **$40.8 billion**. Despite a marginal decline in exports to China, India's imports surged, leading to a growing trade deficit from **$53.57 billion** in FY2019 to **$85.09 billion** in FY2024. In contrast, trade with the US showed growth, resulting in an expanded trade surplus for India from **$16.86 billion** to **$36.74 billion**.
+
+Other notable trading partners included the UAE at **$83.6 billion**, Russia at **$65.7 billion**, Saudi Arabia at **$43.4 billion**, and Singapore at **$35.6 billion**. Trade with Russia and Saudi Arabia saw significant increases in both exports and imports, with India's exports to Russia growing by **78.3%** and to Saudi Arabia by **107.9%**. The trade deficit with Saudi Arabia decreased, while the deficit with Russia expanded dramatically due to a massive increase in imports. The changes in trade patterns reflect India's evolving economic relationships with these countries.
+
+Mon, 13 May 2024 16:06:31 +0530
+### [Quicksplained: Who is Bibhav Kumar, Kejriwal's sacked aide, who allegedly attacked Swati Maliwal?](https://www.firstpost.com/explainers/quicksplained-bibhav-kumar-kejriwals-sacked-aide-swati-maliwal-13770240.html)
+
+Swati Maliwal, AAP leader and former DCW chief, has accused Arvind Kejriwal's aide Bibhav Kumar of assaulting her on Kejriwal's orders. Maliwal reported the incident to the police with two calls from the CM's residence. Bibhav Kumar, known as Kejriwal's Man Friday, was recently dismissed from his role as Kejriwal's personal secretary by the Vigilance Department due to an "illegal appointment" and a 2007 case of assault. He has been a close associate of Kejriwal since the early 2000s, assisting with daily tasks and managing Kejriwal's health regimen. Kumar was also questioned by the Enforcement Directorate in connection with the Delhi excise policy case. Additionally, his allotment of a government bungalow was canceled last August by the PWD on the vigilance department's orders.
+
+Mon, 13 May 2024 16:05:39 +0530
+### [Quicksplained: What is cold lava, which has flown through Indonesia’s Sumatra island, killing 43 people?](https://www.firstpost.com/explainers/quicksplained-cold-lava-indonesia-sumatra-island-lahars-deaths-13770260.html)
+
+Heavy rains in Sumatra, Indonesia, have triggered a deadly flow of cold lava, also known as lahars, resulting in at least 43 fatalities and significant damage to infrastructure. Cold lava, composed of water, volcanic ash, tephra, rock fragments, and sometimes ice, can move rapidly down river valleys, reaching speeds of up to 80 km/h. This phenomenon has affected 200 houses and 16 bridges near Mount Marapi, an active volcano. The United States Geological Survey (USGS) describes lahars as highly destructive, capable of destroying almost anything in their path. While associated with volcanic eruptions, lahars can also occur from heavy rainfall mobilizing volcanic sediment, particularly where vegetation is sparse. The recent disaster in Sumatra is part of a series of natural calamities in Indonesia, a country with 120 active volcanoes situated on the Pacific 'Ring of Fire'. Search-and-rescue efforts continue, with 15 people still missing and 400 personnel deployed, supported by excavators and drones.
+
+Mon, 13 May 2024 14:49:34 +0530
+### [How India's deal to manage Iran's Chabahar Port can help it counter Pakistan, China](https://www.firstpost.com/explainers/chabahar-port-indias-pakistan-china-13770244.html)
+
+India is poised to manage the Chabahar Port in Iran through a 10-year agreement, marking its first venture in operating a port abroad. This strategic move is aimed at enhancing connectivity to Afghanistan, Central Asia, and beyond, bypassing Pakistan and countering China's Belt and Road Initiative. The Chabahar Port, exempt from US sanctions, is Iran's only deep-sea port with direct ocean access, making it a pivotal point for trade routes. It is also part of the International North South Transport Corridor (INSTC), a 7,200-kilometer multi-modal transport project connecting India with Russia via Iran, which has gained significance amid the Ukraine conflict.
+
+The port's development, discussed since 2003 and invested in by India with $100 million, took a significant step forward in 2016 during Prime Minister Narendra Modi's visit to Iran. The Chabahar Port is expected to reduce transit time to Central Asia by a third, boost India's imports, and provide road access to key Afghan cities, potentially improving diplomatic relations and facilitating humanitarian operations.
+
+Strategically, the port serves as India's counter to Pakistan's Gwadar Port and China's maritime ambitions, allowing India to establish trade networks without relying on routes through Pakistan. The development of Chabahar could also balance the influence of China and Pakistan in the region, reinforcing India's position as a regional superpower through an Indo-Iranian alliance.
+
+Despite challenges such as potential US sanctions and regional volatility, experts believe that with active diplomacy and efficient project management, India and Iran can maintain the Chabahar Port as a vital transit hub, exemplifying the strengthening cooperation between the two nations. The Iranian ambassador highlighted the port's role as a "golden gateway" for connectivity, underscoring its significance in India-Iran relations.
+
+Mon, 13 May 2024 14:22:45 +0530
+### [What happens if your name goes missing from voters’ list? What options do you have?](https://www.firstpost.com/explainers/lok-sabha-elections-2024-voters-list-name-missing-polling-13770211.html)
+
+During the fourth phase of the Lok Sabha elections in India, several voters in Pune, including former Indian Air Force chief Air Chief Marshal Pradeep Vasant Naik, reported that their names were missing from the electoral list. This issue affected various demographics, preventing them from casting their votes. The district election office had conducted a booth rationalization exercise, leading to changes in the electoral rolls. As a result, 2.39 lakh names were added, and 17,749 were deleted between January and April. The Election Commission of India clarified that names were not deleted but possibly shifted to different booths. Voters were advised to check nearby booths if their names were not found at their usual polling station.
+
+The conditions for deleting a name from the voter's list include death, duplication, relocation, or absence during surveys. Deleted voters can re-register using Form 8 for future elections. To check if one's name is on the list, voters can use the ECI's website or app. If a name is missing, the relevant form should be filled out before the nomination deadline. The ECI recommends applying at least seven days before the deadline, which for the seventh phase is 14 May. The deadlines for the fifth and sixth phases have passed, so new enrollments for those phases are not possible.
+
+Mon, 13 May 2024 14:06:02 +0530
+### [Why has violence erupted in Pakistan-occupied Kashmir? Why are activists seeking India’s help?](https://www.firstpost.com/explainers/violence-clashes-muzaffarabad-pakistan-occupied-kashmir-activists-india-help-13770212.html)
+
+The article reports on the unrest in Pakistan-occupied Kashmir (PoK), particularly in Muzaffarabad and Rawalkot, following violent clashes that resulted in the death of a police official and injuries to many others. The Jammu Kashmir Joint Awami Action Committee (JAAC) called for a strike to protest against inflation and demand tax-free electricity and subsidies on wheat flour. The arrest of JAAC activists by Pakistani authorities led to escalated tensions and a call for a long march, which was met with police teargas and baton charges. Social media posts and videos highlighted the violence, and PoK activist Amjad Ayub Mirza reported that unarmed civilians were shot at by Pakistani forces. The Awami Workers Party (AWP) condemned the crackdown and the use of force against protesters. PoK's prime minister and Pakistan's president and prime minister have expressed concern and are seeking ways to calm the situation. Mirza has called for Indian intervention to support the independence of PoK and Gilgit-Baltistan. The article notes that similar protests with demands for reduced electricity costs and cheaper wheat flour occurred in August 2023.
+
+Mon, 13 May 2024 13:52:54 +0530
+### [Why India’s top health body has warned against using non-stick vessels](https://www.firstpost.com/health/icmr-warned-against-using-non-stick-vessels-pans-13770107.html)
+
+The Indian Council of Medical Research (ICMR) has issued a warning about the dangers of using damaged non-stick cookware. Scratched or chipped Teflon-coated pans can release toxic fumes and chemicals when overheated, posing risks such as lung diseases and cancer. The ICMR recommends using safer, eco-friendly alternatives like mud pots, granite stone utensils without chemical coatings, food-grade stainless steel, and well-maintained ceramic cookware. These options are not only healthier but also more sustainable for the environment. For those who continue to use non-stick pans, it's advised to avoid preheating empty pans, use wooden or silicone utensils to prevent scratching, cook on medium heat, and ensure proper kitchen ventilation. It's also important to replace old and damaged cookware to minimize health risks. The ICMR has also cautioned against storing hot or acidic foods in aluminum and iron containers, with the exception of brass and copper vessels.
+
 Mon, 13 May 2024 12:52:39 +0530
 ### [How MDH and Everest, now under scrutiny in several countries, became household names](https://www.firstpost.com/explainers/how-mdh-and-everest-now-under-scrutiny-in-several-countries-became-household-names-13770177.html)
 
